@@ -38,9 +38,7 @@ o El presente Reglamento determina las condiciones que deberá cumplir una vivie
 
 #### Artículo 3
 
-o Las "viviendas económicas", en general podrán emplazarse en cualquiera zona de habitación consultada en las áreas
-
-urbanas existentes o en las futuras extensiones que establezcan los planos reguladores y sólo se aceptarán fuera de dichos limites cuando ellas sirvan de complemento a una actividad agrícola, extractiva o manufacturera. En este último caso, deberá obtenerse la conformidad de la Dirección de Arquitectura del Ministerio de Obras Públicas.
+o Las "viviendas económicas", en general podrán emplazarse en cualquiera zona de habitación consultada en las áreas urbanas existentes o en las futuras extensiones que establezcan los planos reguladores y sólo se aceptarán fuera de dichos limites cuando ellas sirvan de complemento a una actividad agrícola, extractiva o manufacturera. Dicho emplazamiento será autorizado por el Director de Obras Municipales.
 
 La limitación de zonas para el emplazamiento de "viviendas económicas" en las áreas urbanas, sólo podrá hacerla el Presidente de la República, a través del Ministerio de Obras Públicas.
 
@@ -122,11 +120,13 @@ No obstante lo anterior, a las "viviendas económicas" que se construyan en las 
 
 #### Artículo 11
 
-o La superficie edificada se calculará sobre la base de las medidas obtenidas en la obra gruesa, descontando de la superficie total, la mitad de las superficies abiertas cubiertas.
+o La superficie edificada se calculará sobre la base de medidas obtenidas en obra gruesa, más el 50% de los espacios abiertos cubiertos como balcones, loggias, jardines, terrazas, etc., los que no podrán exceder del 7% de la superficie interior.
 
-No se considerarán las superficies de las construcciones adicionales ligeras, exteriores a la vivienda.
+Artículo, 12.o En los edificios de departamentos se considerarán como espacios comunes las circulaciones horizontales y verticales (incluso ascensores), recintos de caldera, estanques y deartamentos del mayordomo no superior a 35 metros cuadrados.
 
-Artículo, 12.o En los edificios de departamentos y en los colectivos para obreros, las superficies de los espacios comunes y de circulaciones, cualquiera que ellas sean, se prorratearán entre todas las viviendas. La superficie máxima por vivienda se calculará incluyendo la superficie prorrateada.
+En los departamentos superiores a 100 m2. la superficie máxima se calculará incluyendo el prorrateo proporcional de los espacios comunes.
+
+En los departamentos inferiores a 100 m2., la superficie se calculará sin incluir los espacios comunes.
 
 #### Artículo 13
 
