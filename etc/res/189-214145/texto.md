@@ -1,0 +1,3 @@
+Resolución 189, 12 agosto 2003, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Ocho Oriente Nº1428, Parcela 7, Rol de Avalúo Nº2725-9, comuna Chiguayante, superficie 430,50 m². de terreno, dentro polígono y linderos señalados plano expropiación S8R-16515, de aparente dominio de Raúl Emilio Jarufe Robles, para ejecución programa de viviendas en comuna de Chiguayante, conforme artículo 51 ley 16.391 y D.L. Nº2.186. Comisión Peritos integrada por Eduardo Rivera Gajardo, arquitecto, Cristián Gäbler Solís, ingeniero civil, e Italo Zerga Arancibia, constructor civil, según informe de fecha 30 de junio de 2003, fijó monto provisional indemnización en $10.811.975, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
