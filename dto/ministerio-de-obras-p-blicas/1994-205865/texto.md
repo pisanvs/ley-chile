@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.994 de fecha 31 de octubre del 2002, se expropió el lote de terreno Nº128, superficie 5.071 m2, Rol Nº78-114, comuna de Galvarino, IX Región, para la obra "Camino Ruta S-10, Sector Cruce Long. (Lautaro) - Galvarino, Tramo Km. 0,000 al Km. 34,50853, correspondiente al sub-tramo IV, Km. 18,000 al Km. 25,837" y se acordó el valor de indemnización con su propietario Sociedad Agrícola, Ganadera y Forestal San Cristóbal Ltda., ascendente a la cantidad de $3.814.398.-
+
+Fiscal del Ministerio de Obras Públicas.
