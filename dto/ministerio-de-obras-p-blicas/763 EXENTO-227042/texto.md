@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 763 de fecha 31 de mayo del 2004, se expropió el lote de terreno N° 21-B, superficie 3.485 m2, Rol N° 95-41, comuna de Pelarco, VII Región para la obra "Camino Los Robles - Huencuecho - Bajo Perquin, Sector Huencuecho - Bajo Perquin, Tramo Km. 46,140.00 al Km. 76,107.70" y se acordó el valor de indemnización con su propietario Leopoldo Roco Verdugo, ascendente a la cantidad de $559.470.- para el lote N° 21-B.-
+
+Fiscal del Ministerio de Obras Públicas.
