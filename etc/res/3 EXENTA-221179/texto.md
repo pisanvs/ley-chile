@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA QUE CONOZCAN Y RESUELVAN LAS DENUNCIAS NO RECLAMADAS, POR INFRACCIONES TRIBUTARIAS CONTEMPLADAS EN LOS ARTICULOS 97º NUMEROS 15, 20 Y 21 DEL CODIGO TRIBUTARIO Y PARA CONCEDER LAS CONDONACIONES QUE LE CORRESPONDA APLICAR
+
+Por resolución Ex. Nº 3 de 29 de enero de 2004, el Director Regional don Sergio Flores Gutiérrez delegó facultad en el Jefe del Departamento Jurídico Regional y en los Jefes de las Unidades de Chillán, Los Angeles, San Carlos, Lebu y Talcahuano, para que conozcan y resuelvan las denuncias, no reclamadas, por infracciones tributarias contempladas en los artículos 97º números 15, 20 y 21 del Código Tributario y para conceder las condonaciones que le corresponda aplicar, siempre que se cumplan las condiciones establecidas en las resoluciones e instrucciones dictadas al efecto.
+
+Concepción, febrero de 2003.- Ramón Ramírez Toledo, Director Regional (S).
