@@ -1,0 +1,3 @@
+Por resolución Nº 1.984, de 12 de septiembre de 2002, de esta Subsecretaría, recházase la solicitud de modificación de proyecto técnico para concesión de acuicultura Nº 99104003 presentada por LUIS ERNESTO MARIN PULGAR, para la concesión autorizada por resoluciones Nº 1.415 de 1996, de la Subsecretaría de Marina, y Nº 661 de 1996, de esta Subsecretaría, ubicada en Estero Chauquear, Isla Puluqui, X Región.
+
+Valparaíso, 12 de septiembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
