@@ -1,0 +1,5 @@
+AUTORIZA A LA CORPORACION MUNICIPAL DE QUINCHAO PARA LA EDUCACION, SALUD Y ATENCION AL MENOR PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 283, de 22 de Mayo de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Corporación Municipal de Quinchao, para la Educación, Salud y Atención al Menor, representada por su presidente don Marcelo Fuentes García, Rut 6.670.144-1, domiciliado en Achao, calle Serrano 079, para instalar y operar un establecimiento de cultivo, en dos sectores de 3.000 y 10.000 m2 ubicados en el Estero de Quinchao, comuna de Quinchao, Provincia de Chiloé, X Región, de las siguientes especies: chorito, choro, ostra, ostra del Pacífico, alga Gracilaria, ostión del Sur, ostión del Norte, salmón del Pacífico (coho), trucha arco iris y trucha cabeza de acero.
+
+Santiago, 22 de Mayo de 1985.- Roberto Verdugo Gormaz, Susecretario de Pesca.
