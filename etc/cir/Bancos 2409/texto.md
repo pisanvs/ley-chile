@@ -9360,47 +9360,11 @@ Las boletas pueden emitirse en moneda chilena, con o sin cláusula de reajustabi
 
 ### 2. Fines para los cuales pueden emitirse boletas de garantía
 
-Las empresas bancarias sólo pueden emitir boletas de garantía para garantizar el
+Las empresas bancarias sólo pueden emitir boletas de garantía para garantizar el cumplimiento de las obligaciones de hacer, esto es, para caucionar obligaciones que no sean de crédito de dinero. Dentro de este concepto, se comprenden también las que tengan por objeto garantizar la devolución de los anticipos recibidos a cuenta del pago de una obligación de hacer. Las que se requieran a favor de organismos del sector público, se sujetarán a lo señalado en el N° 3 de este Capítulo.
 
-cumplimiento de las obligaciones de hacer, esto es para caucionar obligaciones
+Asimismo, se encuentran comprendidas dentro de los fines para los cuales pueden emitirse, las boletas de garantía que se otorguen para caucionar el fiel desempeño del cargo de director de una sociedad anónima, cuando los estatutos dela sociedad así lo contemplen, y para garantizar el correcto y cabal cumplimiento de las obligaciones de los Corredores de Bolsa y Agentes de Valores, en virtud de las disposiciones legales expresamente contenidas en la Ley N° 18.045 de 1981.
 
-que no sean de crédito de dinero, con excepción de aquellas que se requieran a
-
-favor de organismos del sector público, las que se sujetarán a lo señalado en el
-
-N° 3 de este capítulo.
-
-Asimismo, se encuentran comprendidas dentro de los fines para los cuales pueden
-
-emitirse, las boletas de garantía que se otorguen para caucionar el fiel
-
-desempeño del cargo de director de una sociedad anónima, cuando los estatutos
-
-dela sociedad así lo contemplen, y para garantizar el correcto y cabal
-
-cumplimiento de las obligaciones de los Corredores de Bolsa y Agentes de
-
-Valores, en virtud de las disposiciones legales expresamente contenidas en la
-
-Ley N° 18.045 de 1981.
-
-En todo caso, los bancos deben examinar cuidadosamente los antecedentes,
-
-exigencias y condiciones relativos a los actos, propuestas,
-
-contratos,compromisos, etc. que se garanticen y tomar todas las precauciones y
-
-resguardos necesarios, a fin de evitar en lo posible, las pérdidas que pudieran
-
-derivarse de los desembolsos que pudieran verse obligados a efectuar ante una
-
-falta de cumplimiento del tomador del documento. El análisis que los bancos
-
-hagan de cada propuesta de emisión de boleta de garantía debe cubrir tanto los
-
-aspectos técnicos como financieros de la operación que se cauciona, de manera
-
-que se tenga una apreciación correcta y real de los riesgos que asumen.
+En todo caso, los bancos deben examinar cuidadosamente los antecedentes, exigencias y condiciones relativos a los actos, propuestas, contratos,compromisos, etc. que se garanticen y tomar todas las precauciones y resguardos necesarios, a fin de evitar en lo posible, las pérdidas que pudieran derivarse de los desembolsos que pudieran verse obligados a efectuar ante una falta de cumplimiento del tomador del documento. El análisis que los bancos hagan de cada propuesta de emisión de boleta de garantía debe cubrir tanto los aspectos técnicos como financieros de la operación que se cauciona, de manera que se tenga una apreciación correcta y real de los riesgos que asumen.
 
 ### 3. Boletas de garantía a favor de instituciones, empresas u organismos del
 
