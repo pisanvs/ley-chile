@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 591, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 23, superficie 344 M2, rol de avalúo 286-58, comuna de San Fernando, VI Región, para la obra ''Camino San Fernando-Roma, Rol I-301, I-255, I-151, Km. 0.000 al 10,954264'' y se acordó el valor de indemnización con su propietario Luis Alejandro Solís Bascuñán, ascendente a la cantidad de $1.954.520.-
+
+Fiscal del Ministerio de Obras Públicas.
