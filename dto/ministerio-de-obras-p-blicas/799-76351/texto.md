@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 799, de 29 de agosto de 1997, se expropió el lote de terreno Nº 41, superficie 790 m2., rol de avalúo 2590-90, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería, para el Sistema Norte - Sur, sector Las Acacias - Río Maipo y se acordó precio de indemnización con el propietario Renato Casas del Valle e Hijos Ltda., ascendente a la cantidad de $36.012.750.-
+
+Fiscal del Ministerio de Obras Públicas.
