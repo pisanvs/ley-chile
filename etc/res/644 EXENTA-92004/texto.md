@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 644 de 02 de Mayo de 1989, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Derecho Adquisición y Sector Expropiado Predio "Casas de Renaico" de la Comuna de Negrete, VIIIa Región y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 48, sitios 1 al 36 del Proyecto de Parcelación "El Agro", formado por predio señalado. Los Derechos de Aguas se extraen del Canal Bío Bío Negrete. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Nacional.
