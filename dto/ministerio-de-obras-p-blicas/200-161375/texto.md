@@ -1,0 +1,3 @@
+Por decreto MOP Nº 200, de 31 de enero del 2000, se expropió el lote de terreno Nº 135-J, superficie 250 m2., rol de avalúo en trámite, comuna de Pemuco, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, Octava Región y se acordó el valor de indemnización con su propietario Horacio Tapia Moreno, ascendente a la cantidad de $1.569.600.
+
+- Fiscal del Ministerio de Obras Públicas.
