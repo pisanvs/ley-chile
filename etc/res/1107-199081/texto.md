@@ -1,0 +1,3 @@
+Por resolución Nº1.107, de 5 de junio de 2002, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº311, de 1982, de esta Subsecretaría, solo en cuanto autorizó a MARIO MOROZIN YURESIC, para operar la nave "Maorí" respecto del recurso Merluza común y Langostino amarillo entre el paralelo 29º L.S. y 35º L.S., por no haber operado dentro del plazo establecido en la resolución citada, de conformidad con lo establecido en la letra b) del artículo 143, del D.S. Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
