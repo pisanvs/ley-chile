@@ -1,0 +1,1 @@
+Fija planta y sueldos personal Ministerio de Tierras y Colonización.
