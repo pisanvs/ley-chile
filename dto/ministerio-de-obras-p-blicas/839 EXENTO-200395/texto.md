@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº839 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº98-B, superficie 84 m2., rol de avalúo Nº282-17, comuna de San Fernando, para la obra ''Camino San Fernando - Roma, Rol I-301; I-255; I-151, Km. 0,000 a Km. 10,954264'', VI Región y se acordó el valor de indemnización con su propietario Luis Alfredo Gálvez Villacura, ascendente a la cantidad de $350.750.-
+
+Fiscal del Ministerio de Obras Públicas.
