@@ -1,0 +1,3 @@
+Por resolución Nº 1.137, de 5 de agosto de 1998, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.387, de 1990, de esta Subsecretaría, que autorizó a JOSE EDUARDO MALDONADO LOBO, para instalar y operar el centro de cultivo ubicado en Río Maullín, sector Chanhué, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 5 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
