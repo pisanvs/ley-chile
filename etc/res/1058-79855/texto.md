@@ -1,0 +1,3 @@
+Por Resolución N°. 1058 de fecha 23 de Diciembre de 1991, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autoriza en forma complementaria a la empresa de origen paraguayo "Sirena del Paraná Sociedad Anónima", para efectuar transporte terrestre internacional de pasajeros entre Asunción (Paraguay) y Santiago (Chile), utilizando el paso fronterizo Túnel Cristo Redentor (Sistema Cristo Redentor) y como alternativa paso fronterizo de Puyehue, realizando una (1) frecuencia semanal de ida y vuelta.
+
+Fernando Zúñiga Ivany, Subsecretario de Transportes Subrogante.
