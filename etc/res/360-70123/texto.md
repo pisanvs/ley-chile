@@ -1,0 +1,3 @@
+Por Resolución Nº 360, de 11 de marzo de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución Nº 466, de 1994, de esta Subsecretaría, que autorizó a PESQUERA IQUIQUE-GUANAYE S.A., para desarrollar actividades pesqueras extractivas con la nave "Sokol", por haberse configurado la causal prevista en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 11 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
