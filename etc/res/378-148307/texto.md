@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA QUELLON LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS DE CULTIVO
+
+Por resolución No. 378, de 28 de Abril de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Quellón Limitada, domiciliada en Santiago, para instalar y operar tres establecimientos de cultivo de Salmón Plateado y Salmón del Atlántico, en Chiloé, X Región. El primero se instalará en la propiedad de la interesada, a orillas del río Bravo o Llicaldad, a 7 Km. de Castro, para la incubación de las especies; el segundo estará ubicado en Sector la Fábrica, Estero de Castro, Comuna Chonchi, en terrenos de playa con una superficie de 1.462 m2 para la crianza y en el mar en un área de 52.500 m2 para la engorda, y el tercer establecimiento estará situado en Punta Yoye, Estero de Compu, Comuna Quellón, en una superficie de 500.000 m2, para engorda.
+
+Valparaíso, 28 de Abril de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
