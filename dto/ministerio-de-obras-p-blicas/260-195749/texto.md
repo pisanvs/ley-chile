@@ -1,0 +1,5 @@
+Por decreto MOP Nº260, de 31 de enero de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº66, para la obra: "Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 6A3: Km. 33.800,00 a Km. 34.720,00", Región Metropolitana, que figura inscrito a Fs. 443 Nº750;
+
+año 2001; Reg. Propiedades del C.B.R. de Casablanca a nombre de Comercial Cascadas Limitada rol de avalúo 103-226, comuna de Curacaví, superficie 1.013 m2. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Jorge Antonio Catalán Cordero y Gustavo Domínguez Errázuriz, fijó con fecha 8 de junio de 2001, el valor provisional de la indemnización en la cantidad de $5.396.950.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
