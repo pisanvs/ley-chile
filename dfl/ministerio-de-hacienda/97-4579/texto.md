@@ -1,0 +1,1 @@
+Fija la composición del Consejo de la Caja de Accidentes del Trabajo.
