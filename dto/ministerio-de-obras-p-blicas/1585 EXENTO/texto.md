@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 1.585 de fecha 26 de octubre del 2001, se expropió el lote de terreno Nº 1, superficie 284,50 m², Rol de Avalúo Nº 103-10, comuna de Pencahue, para la obra ''Canal Pueblo Bajo Prolongación Km. 0,000 al Km. 0,056.90, del Proyecto Regadío Pencahue'' y se acordó el valor de indemnización con su propietario Nelson René Gómez Leppe, ascendente a la cantidad de $155.451.
+
+- Fiscal del Ministerio de Obras Públicas.
