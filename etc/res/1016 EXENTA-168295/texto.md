@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 1.016, de fecha 14 de Agosto de 1987, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a don Carlos Lautaro Vera Puelma para efectuar el servicio de taxi colectivo urbano de la Línea No. 106 "Peñaflor Malloco", cuyo trazado fue autorizado por resolución exenta No. 464, de 26 de Junio de 1984, de esta Secretaría Regional.
