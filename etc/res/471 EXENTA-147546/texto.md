@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 471 de 28 de Abril de 1987, conforme Art. 5° Transitorio Código do Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Reserva y Sector Expropiado Predio "San Francisco antes San Antonio de Miravalles" de la comuna de San Fernando, Sexta Región; y Derechos Aprovechamiento, Aguas que corresponden a parcelas N°s. 1 a la 4 del Proyecto de Parcelación "San Antonio de Miravalles" formado por predio señalado. Los Derechos de Agua se extraen del canal de derrames Quilapán. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
