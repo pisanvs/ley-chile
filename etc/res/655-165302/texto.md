@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD ELABORADORA ENVASADORA Y COMERCIALIZADORA DE PRODUCTOS ALIMENTICIOS LIMITADA, PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 655, de 15 de Octubre de 1985 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Elaboradora Envasadora y Comercializadora de Productos Alimenticios Limitada "SEPA Ltda.", domiciliada en Santiago, para instalar y operar una planta procesadora de recursos hidrobiológicos en la línea de conservas en Santiago, calle Independencia N° 345, en la que podrá utilizar como materia prima: albacora, atún aleta amarilla, atún aleta larga, bonito, cojinova del Norte, cojinova del Sur, jurel, merluza común, merluza española, merluza de cola, merluza de 3 aletas, mero, almejas, calamar, caracol locate, cholga, choro zapato, macha, ostión del Norte, ostión del Sur, pulpo, centolla, centollón, jaiba, picoroco, trucha arco iris proveniente únicamente de establecimientos de cultivo autorizados, camarón nailon, camarón de río del Norte y camarón de roca.
+
+Valparaíso, 15 de Octubre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
