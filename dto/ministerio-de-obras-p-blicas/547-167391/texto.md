@@ -1,0 +1,3 @@
+Por decreto MOP Nº 547, de 28 de febrero del 2000, se expropió el lote de terreno Nº 20, superficie 59 m², rol de avalúo 273-211, comuna de San Fernando, para la obra Concesión Internacional Ruta 5 Tramo: Santiago - Talca. Sector H: Sexta Región y se acordó el valor de indemnización con su propietaria Elcira del Carmen Muñoz Olmedo, ascendente a la cantidad de $3.005.019.-
+
+Fiscal del Ministerio de Obras Públicas.
