@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.766 de fecha 31 de octubre del 2001, se expropió el lote de terreno Nº 23, superficie 13.281,20 m², Rol de Avalúo Nº 385-37, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, Expropiaciones Red Primaria 1/5, Derivado Comuy, Sector Km. 0.000 al Km. 6.120,36", IX Región y se acordó el valor de indemnización con su propietario Ricardo Alberti Tesser, ascendente a la cantidad de $7.577.754.-
+
+Fiscal del Ministerio de Obras Públicas.
