@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.016, del 29 de abril de 1999, se expropió el lote de terreno No. 102-C, superficie 100 M2. rol de avalúo, 251-30, comuna de San Vicente, para la obra Camino Quinta de Tilcoco-Cruce Ruta 66, sector el Manzano de Zúñiga, y se acordó precio de indemnización con su propietario Alfonso de Jesús Silva Pino, ascendente a la cantidad de $ 1.080.488.-
+
+Fiscal del Ministerio de Obras Públicas.
