@@ -1,0 +1,3 @@
+Por decreto MOP Nº 133 de fecha 27 de febrero del 2004, se expropió el lote de terreno Nº 511-A, superficie 689 m2, Rol en trámite, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, Tramo Km. 0,00000 al Km. 12,70000" y se acordó el valor de indemnización con su propietaria Yolanda de las Mercedes Carroza Molina, ascendente a la cantidad de $3.883.677.- para el lote Nº 511-A.
+
+Fiscal del Ministerio de Obras Públicas.
