@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.398, de 29 de noviembre de 2004, de esta Subsecretaría, autorízase a CARLOS EDUARDO BELLO BARRIA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Alberto De Agostini Nº 918, Puerto Natales, XII Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-enfriado, Fresco-refrigerado, Congelado, Seco, Salado, Ahumado y Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 29 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
