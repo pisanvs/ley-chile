@@ -1,0 +1,3 @@
+Por resolución Nº1.943 de 10 de septiembre de 2002 de esta Subsecretaría, autorízase a INDUSTRIAL SANTA MARIA S.A. para ampliar las actividades extractivas con la nave "Santa María II", en el área marítima de la X Región, por fuera del área de reserva artesanal, donde podrá capturar con cerco los recursos Jurel fino Decapterus sp. y Sardina redonda Etrumeus teres.
+
+Valparaíso, 10 de septiembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
