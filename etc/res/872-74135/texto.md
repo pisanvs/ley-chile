@@ -1,0 +1,11 @@
+Por Resolución Nº 872, de 26 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a VICTOR ULISES MENDOZA CONTRERAS, para continuar desarrollando actividades pesqueras con la nave denominada "Pinguin" que se individualiza, autorizada por las Resoluciones Nº 1.791 de 1989, Nº 385 de 1991, Nº 1.138 de 1992 y Nº 741 de 1993, todas de esta Subsecretaría, en el litoral de la II a la VIII Regiones, respecto del recurso hidrobiológico Camarón nailon, y en el litoral de la III y IV Regiones, respecto del recurso Langostino amarillo, en ambos casos, por fuera del área de reserva artesanal, con red de arrastre.
+
+Esta áreas y recursos constituyen las pesquerías señaladas en los D.S. Nº 377 y Nº 611 de 1995, ambos del Ministerio de Economía, Fomento y Reconstrucción, derechos que fueron transferidos por Pesquera Santa Lucía S.A., R.U.T. Nº 96.527.920-2, a Víctor Ulises Mendoza Contreras y Victorina Betzabé Aravena Carrasco, conjuntamente con la nave "Pinguin", de conformidad con lo dispuesto en el artículo 23 de la Ley General de Pesca y Acuicultura.
+
+En consecuencia, Víctor Ulises Mendoza Contreras y Victorina Betzabé Aravena Carrasco podrán capturar con la nave "Pinguin" individualizada precedentemente, con red de arrastre y por fuera del área de reserva artesanal, los siguientes recursos hidrobiológicos: a) En el litoral de la II a la VIII Regiones: Camarón nailon; b) En el litoral de la III y IV Regiones: Langostino amarillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Déjanse sin efecto las Resoluciones Nº 1.791, de 1989, Nº 385, de 1991, Nº 1.138 de 1992 y Nº 741 de 1993, todas de esta Subsecretaría, en cuanto autorizaron a Pesquera Santa Lucía S.A., para operar la nave "Pinguin", en virtud de lo señalado en las escrituras públicas.
+
+Valparaíso, 26 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
