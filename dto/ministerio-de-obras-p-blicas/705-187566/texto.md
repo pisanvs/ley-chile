@@ -1,0 +1,3 @@
+Por decreto MOP Nº705 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº5, superficie 910,59 m², rol de avalúo Sin Rol, comuna de Vallenar, para la obra "Variante Canal Marañón, Km. 0,00 al Km. 3,773, del Proyecto Mejoramiento Canales Tercera Sección, Valle Río Huasco" y se acordó el valor de indemnización con su propietario Violeta de Lourdes Marín, ascendente a la cantidad de $188.510.
+
+Fiscal del Ministerio de Obras Públicas.
