@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°s. 314 y 315, de fechas 28 y 30 de octubre de 1992, se expropiaron los lotes de terreno N°s. 9, 1, 3 y 6, superficies 3.540 M2., 14.097 M2., 19.970 M2. y 8.588 M2., respectivamente, roles de avalúos 9050-13 y 9050-12, Comuna de Melipilla, para la obra Autopista Santiago San Antonio, sector Puangue-Leyda y se acordó el valor de indemnización con su propietaria María Larraín Rozas, ascendente a la cantidad de $16.363.080.-
+
+Fiscal del Ministerio de Obras Públicas.
