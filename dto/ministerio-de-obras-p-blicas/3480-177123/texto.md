@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.480, de 31 de julio de 2000, se expropió el lote de terreno Nº8-12, superficie 523,1 m2., rol de avalúo 186-102, comuna de Colina, para la obra Camino Santiago - Colina - Los Andes, Sector C, Peldehue - Casas de Chacabuco, Pasarela Peatonal y Paradero de Buses Los Canelos, Región Metropolitana y se acordó el valor de indemnización con su propietario Aníbal Jovino Ortega Naranjo, ascendente a la cantidad de $2.078.508.-
+
+Fiscal del Ministerio de Obras Públicas.
