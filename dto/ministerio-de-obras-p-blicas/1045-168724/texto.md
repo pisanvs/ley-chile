@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.045, de 30 de marzo del 2000, se expropió el lote de terreno Nº 467, superficie 137 m2., rol de avalúo 7799-13, comuna de La Pintana, para la obra Concesión Internacional Ruta 5, Tramo Santiago-Talca. Sector a: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Juan Reinaldo Campos Zapata, ascendente a la cantidad de $7.541.639.
+
+- Fiscal del Ministerio de Obras Públicas.
