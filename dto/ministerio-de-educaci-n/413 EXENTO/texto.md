@@ -1,0 +1,3 @@
+Por Decreto Supremo Exento de Educación N°413 de 4 de Agosto de 1993, se ha modificado el Decreto Supremo Exento de Educación N°209 de 1992 que aprobó un Plan Especial de Estudio de Educación Media Humanístico-Científica de Adultos a la Escuela Nacional de Capacitación de la Cruzada del Servicio Voluntario de Caritas Chile.
+
+Santiago, 26 de Agosto de 1993.- Julio Valladares Muñoz, Subsecretario de Educación.
