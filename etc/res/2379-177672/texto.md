@@ -1,0 +1,5 @@
+Por resolución Nº 2.379, de 27 de octubre de 2000, de esta Subsecretaría, modifícase la resolución Nº 1.599 de 2000, de esta Subsecretaría, que autorizó a UNIVERSIDAD CATOLICA DEL NORTE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Pesca de langostino colorado Pleuroncodes monodon (H. Milne Edwards, 1837) y langostino amarillo Cervimunida johni (Porter, 1903) por la flota artesanal en el área de reserva de la III Región'', en el sentido de agregar al numeral 4º el siguiente inciso 2º:
+
+''Asimismo, durante las actividades de investigación dirigidas al recurso Langostino amarillo, la peticionaria podrá capturar un límite máximo de 20 toneladas de recurso Langostino colorado en calidad de fauna acompañante, las cuales se imputarán a la cuota anual fijada para dicho recurso, y quedarán a disposición de la solicitante.''.
+
+Valparaíso, 27 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
