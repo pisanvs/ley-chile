@@ -1,0 +1,3 @@
+Por resolución Nº 5, de 2 de enero de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 98103068 presentada por ARTURO CLARO FERNANDEZ, para instalar y operar un centro de cultivo ubicado en Caleta Juan Pedro, canal Chauques, Isla Butachauques, comuna de Quemchi, provincia de Chiloé, X Región.
+
+Valparaíso, 2 de enero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
