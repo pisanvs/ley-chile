@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.062 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 47, superficie 11.688 m2., Rol de Avalúo Nº 610-71, comuna de San Ignacio, para la obra: "Proyecto Laja Diguillín, Canal Matriz Diguillín - Larqui, Km. 6,416 a Km. 11,893, Comuna de San Ignacio, Provincia de Ñuble", VIII Región y se acordó el valor de indemnización con su propietario Pedro Celestino Rojas, ascendente a la cantidad de $7.475.930.
+
+- Fiscal del Ministerio de Obras Públicas.
