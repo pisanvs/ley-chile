@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.085, de 30 de julio de 1999, se expropió el lote de terreno Nº65-1, superficie 4.515,0 m2., sin rol de avalúo, comuna de Victoria, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco'', Novena Región y se acordó el valor de indemnización con su propietario Jacinto Ancel Paine, ascendente a la cantidad de $2.066.968.-
+
+Fiscal del Ministerio de Obras Públicas.
