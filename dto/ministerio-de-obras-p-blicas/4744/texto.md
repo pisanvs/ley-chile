@@ -1,0 +1,7 @@
+Por decreto MOP Nº4.744, de 27 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 64-F, 64-G, 64-H, 71-A, 72, 72-A, 72-B, y 73-A, para la obra Camino Ruta L-32, sector Cruce Ruta 5-Puente Sifón, Tramo Km. 2,320 al 17,66644 y Km. 0,000 al 0,963 (variante), que figuran a nombre de Artemisto Yánez Pérez y Otro; Héctor Vicente Palma Elufi, Justo Elías Bobadilla Sáez y Suc. Yánez Pérez, roles de avalúo 531-18, en trámite, 526-103 y 531-17, Comuna de Linares, VII Región, superficies 270; 178; 56; 470; 323; 164,50;
+
+25,50 y 21 M2., respectivamente. La comisión de peritos, fijó con fecha 10 de enero de 2000, los lotes Nºs. 64-F, 64-G, 64-H, 71-A, 72-A, 72-B y 73-A y con fecha 23 de julio de 1997, el lote Nº72, en la cantidad de $45.900, lote Nº64-F; $30.260, lote Nº64-G; $9.520, lote 64-H;
+
+$151.900, lote 71-A; $64.450, lote 72; $43.965, el lote 72-A; $4.335, lote 72-B y $3.570, lote 73-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
