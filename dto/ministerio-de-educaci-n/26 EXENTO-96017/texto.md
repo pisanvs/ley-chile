@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 26 EXENTO, DE 1998
+
+Por Decreto Exento Nº 26 de fecha 19 de enero de 1998 del Ministerio de Educación, se revocó el reconocimiento oficial y se eliminó del Registro de Centros de Formación Técnica el Nº 190 correspondiente al Centro de Formación Técnica Pascual Baburizza, organizado por la Fundación Instituto Pascual Baburizza de Educación e Investigación Agrícola (actual Fundación Educacional de Beneficencia Kolocep), dejándose sin efecto el Decreto Exento de Educación Nº 136 del 8 de septiembre de 1989 y las Resoluciones exentas que aprobaron planes y programas de estudios de las carreras técnicas para el Centro de Formación Técnica mencionado. Ello a solicitud de la propia institución.
+
+Santiago, 4 de febrero de 1998.- Jaime Pérez de Arce Araya, Subsecretario de Educación.
