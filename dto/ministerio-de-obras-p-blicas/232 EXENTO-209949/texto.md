@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº232 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº58, superficie 40 m², Rol Nº 285-65, comuna de San Fernando, VI Región para la obra "Camino San Fernando-Roma Rol I-301; I-255; I-151, Km. 0,000 a Km. 10,954264" y se acordó el valor de indemnización con su propietario Dolores del Carmen Videla Arenas y Otros, ascendente a la cantidad de $2.153.004.-
+
+Fiscal del Ministerio de Obras Públicas.
