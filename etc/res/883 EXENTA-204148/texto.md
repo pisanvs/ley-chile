@@ -1,0 +1,5 @@
+DEJA SIN EFECTO CAMBIO DE SUJETO DEL IVA A JOSE ANGEL PUERTAS PONS
+
+La VII Dirección Regional Talca del SII, por resolución Nº Ex. 883 de 26 de julio de 2001, deja sin efecto a contar del día siguiente al de la publicación de la presente resolución, al contribuyente Sr. José Angel Puertas Pons, Rut. Nº 2.016.189-2, la obligación establecida en la resolución Nº Ex. 1.351 del 22-09- 1998 de esta Dirección Regional, en conformidad a la resolución Nº Ex. 3.721 del 28-07-2000 de la Dirección Nacional, que le dispuso el cambio de sujeto del IVA en las operaciones de ganado vivo, dejando de ocurrir las circunstancias que ameritaban la obligación. El peticionario deja de tener la calidad de retenedor del Impuesto al Valor Agregado en las operaciones de ganado vivo.-
+
+Mirtha Barra Paredes, Directora Regional.
