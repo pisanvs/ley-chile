@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.555, de 30 de junio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 4, para la obra: ''Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar Enlace Tapihue Km.
+
+68.410,00 a Km. 69.740,00'', Quinta Región, que figura a nombre de Farfán Zamorano Sergio, rol de avalúo 153-34, comuna de Casablanca, superficie 1.457 m². La Comisión de Peritos integrada por los señores José Rogelio Alfredo Reyes Azancot, María Elena García Monteverde y Claudia Paola Arellano Gómez, fijó con fecha 3 de abril de 2000, el valor provisional de la indemnización en la cantidad de $5.183.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º de decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
