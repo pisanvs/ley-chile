@@ -11106,6 +11106,10 @@ La contabilización, en este caso, se ceñirá a lo dispuesto en el numeral prec
 
 En los casos en que se castiguen créditos en moneda extranjera que cuenten con acceso autorizado al mercado de divisas, las instituciones bancarias procederán a registrar la venta de la moneda extranjera en la forma que lo hacen habitualmente, con la diferencia de que la moneda chilena será debitada a la correspondiente provisión individual que se hubiere constituido y, si ésta fuere insuficiente, se recurrirá, por la parte que faltare, a la provisión global para la cartera de colocaciones.
 
+El mismo procedimiento antes señalado se aplicará cuando los bancos castiguen créditos en moneda extranjera sin acceso al mercado cambiario formal, con divisas no sujetas a liquidación, las que deberán ingresar previamente a su posición de cambios.
+
+Cuando el Banco Central de Chile exija la conformidad previa de esta Superintendencia para autorizar los castigos que se cursen de acuerdo con la modalidad mencionada en el párrafo precedente, como asimismo cuando se trate de castigos con cargo a reservas o provisiones de moneda extranjera, las empresas bancarias deberán presentar la correspondiente solicitud con un detalle de las operaciones que se castigarán para dar cumplimiento a las normas del presente Capítulo.
+
 3.5.- Recuperación de créditos castigados.
 
 Las sumas que se recuperen con posterioridad al castigo de un crédito, deben considerarse como ingreso en el momento en que ellas sean percibidas. Para ese efecto se utilizará la cuenta "Recuperación de colocaciones e inversiones castigadas" de la partida 7910, o la cuenta del mismo nombre de la Partida 8105, según se trate de créditos castigados en el mismo ejercicio o en años anteriores.
