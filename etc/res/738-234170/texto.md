@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 738, de 9 diciembre 2004, Serviu Región del Biobío ordenó expropiación parcial inmueble denominado Hijuela Tubul, ubicado en comuna de Arauco, individualizado en: Rol de Avalúo Fiscal Nº 185-40 citada comuna, Plano Expropiación S8R-19454P y otros instrumentos de ésta. Superficie de terreno expropiado 5.000 m², singularizado como polígono ''A, B, C, D, A'' en referido Plano. De aparente dominio de Carlos R. Uloa Alvial. Para construcción Planta Tratamiento Aguas Servidas, en beneficio familias Asentamiento Chile Barrio, denominado Nueva Esperanza de Tubul. Conforme artículo 51 Ley Nº16.391 y DL Nº 2.186, Comisión Peritos integrada por arquitectos Víctor Toledo Quijada y Alvaro Berríos San Martín, e ingeniera constructor Roxana Abarzúa Gajardo, según informe de 15 de noviembre de 2004, fijó monto indemnización provisional en $9.045.000.- Pagadera de contado.
+
+Director Serviu Región del Bío Bío.
