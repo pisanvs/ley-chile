@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 336, de 24 de octubre de 1989, se expropiaron los lotes N°s. 13 y 14, superficies 9,25 Hás. y 7,89 Hás., roles de avalúos 21846 y 218-27, Comuna de Cañete, para la obra Canal Cayucupil y se acordó el precio de indemnización con sus propietarios Patrocinia Martínez Martínez y Manuel Gajardo Cáceres, ascendente a las sumas de $ 1.566.431 y $ 1.521.656, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
