@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 655 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 36-A, superficie 1.303,5 m2, Rol Nº 70-58, comuna de Teno, para la obra ''Camino Ruta J-25, Sector Cruce Longitudinal-La Montaña, Km. 0,22000 al 25,00000'', y se acordó el valor de indemnización con su propietario Juan Bautista Trujillo Cuevas, ascendente a la cantidad de $732.042.
+
+Fiscal del Ministerio de Obras Públicas.
