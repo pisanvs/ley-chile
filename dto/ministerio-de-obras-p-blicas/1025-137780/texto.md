@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.025, de 29 de abril de 1999, se expropiaron los lotes de terreno Nºs. 4-1 y 4-2, superficies 515 m² y 88 m², rol de avalúo 1509-273, comuna de Los Angeles, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli'', Octava Región y se acordó el valor de indemnización con su propietaria Consuelo Mary Luco Peers-Jones, ascendente a la cantidad total de $298.696.-
+
+Fiscal del Ministerio de Obras Públicas.
