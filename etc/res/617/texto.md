@@ -1,0 +1,3 @@
+Por Resolución N° 617 de 24 de Mayo de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución N° 400, de 1990, de esta Subsecretaría, que autorizó a INDUSTRIA DE ALIMENTOS MARINOS LIMITADA, R.U.T. N° 79.615.670-8, para iniciar actividades pesqueras extractivas con las naves "Koln", "Wien", "Hessen", "Saarbrucken" y "Mond", por haberse configurado la causal prevista en el artículo 143, letra b) de la Ley N° 18.892, citada en Visto.
+
+Valparaíso, 24 de Mayo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
