@@ -1,0 +1,3 @@
+Por resolución Nº 2.964 de 20 de diciembre de 2002, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 168 de 1997, modificada por resolución Nº 550 de 1999, ambas de esta Subsecretaría, sólo en cuanto autorizaron a ALIMENTOS MARINOS S.A. para operar la nave "Santa Irene", en la V, VI, VII y X Regiones, con cerco, sobre los recursos hidrobiológicos Anchoveta y Sardina común y entre la V a VII y X Regiones, con cerco, sobre el recurso hidrobiológico Merluza de cola, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
