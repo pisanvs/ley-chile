@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº852 de fecha 31 de mayo del 2002, se expropiaron los lotes de terreno Nºs 91 y 92, superficie 252,00 y 223,00 m2 respectivamente, Rol Nº62-30 y 62-29, comuna de Lampa, Región Metropolitana para la obra ''Camino Ruta G-16, sector Lampa - Polpaico, tramo Km. 19,72359 a Km. 34,51667'' y se acordó el valor de indemnización con su propietario Inmobiliaria Donoso Limitada, ascendente a la cantidad de $1.452.813.-
+
+Fiscal del Ministerio de Obras Públicas.
