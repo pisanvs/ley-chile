@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº301 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº21-A, superficie 96.00 m2, rol de Avalúo Nº614-47, comuna de Molina, para la obra "Camino Ruta K-175 Molina Siete Tazas, Sector Molina-Bif. Ruta K-179, Tramo Km. 0,000.00 a Km. 8,400.00", VII Región y se acordó el valor de la indemnización con su propietario José René Barrera Alvarez, ascendente a la cantidad de $706.468.-
+
+Fiscal del Ministerio de Obras Públicas.
