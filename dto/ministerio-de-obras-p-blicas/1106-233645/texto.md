@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.106, de 24 de noviembre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 1 y 9, para la ejecución de la obra "Diseño Definitivo de la Red Secundaria y Terciaria de canales de Riego Proyecto Faja Maisan", obra: "Canal Agustinas", que figuran a nombre de Rilling Nickel Erwin Kurt y Rilling Stohr Rodolfo, roles de avalúo 385-21 y 385-12, comuna de Pitrufquén, IX Región; superficies:
+
+6.351 y 5.859,6 m². La Comisión de peritos con fecha 21 de octubre de 2004, fijó el monto de la indemnización provisional en las cantidades de $3.911.600, para el lote Nº 1 y $3.915.760, para el lote Nº 9. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
