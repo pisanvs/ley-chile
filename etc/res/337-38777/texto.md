@@ -1,0 +1,5 @@
+DISPONE INCLUSION DE PERSONAS QUE INDICA EN NOMINAS DE POSTULANTES SELECCIONADOS PARA EL GOCE DEL SUBSIDIO HABITACIONAL
+
+Resolución exenta N° 337, de fecha 31 de enero de 1996, dispone inclusión de doña Doris Raquel Gutiérrez Soto, de don Juan Rigoberto Paredes Uribe y de don Juan Ramón Quintupurai Huaiquimilla, a las nóminas de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al primer llamado 1995 del Sistema de Subsidio Habitacional para la Atención del Sector Rural, modalidad de postulación individual, X Región de Los Lagos, y dispone la modificación de las menciones y datos correspondientes al postulante seleccionado don Alejandro César Durán Flores, en relación al monto del ahorro efectivamente acreditado.
+
+Como consecuencia de ello queda en 3.627 el número de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al primer llamado 1995 del Sistema de Subsidio Habitacional para la Atención del Sector Rural y en 414.850 Unidades de Fomento (U.F.), el monto de los recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados.
