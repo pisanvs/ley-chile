@@ -1,0 +1,3 @@
+Por resolución exenta Nº 52/99 de 21 junio de 1999, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la II Región, se aprobó el contrato de concesión adjudicada mediante resolución exenta Nº43/99 de la misma Secretaría Regional, a la sociedad Automotora Villa Alemana Ltda. para operar, por un plazo de seis años a contar de la publicación del presente extracto, una planta revisora ubicada en calle Fluorita s/n al llegar a calle Sierra Nevada, Lote 1, Manzana 26, Antofagasta, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Gastón Viveros Viveros, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Antofagasta.
