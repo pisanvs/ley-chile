@@ -180,6 +180,8 @@ El buque que carezca de detonación suficiente de anclas, cadenas o espías, o e
 
 Si una nave se encontrara en malas condiciones de flotabilidad, haciendo agua y en peligro de irse a pique, el capitán de puerto requerirá a sus dueños o armadores para que tomen las medidas necesarias para evitarlo y así no lo hicieren, la removerá y varará o amarrará en sitio apropiado por cuenta de ellos, tomando las precauciones de seguridad que estime necesarias.
 
+Con todo, si la nave se encontrare abandonada por sus dueños en puertos nacionales, durante más de un año, y a juicio de la Autoridad Marítima constituya un obstáculo o peligro para la navegación u otras actividades marítimas o ribereñas, deberá ser removida en el plazo que para el efecto se le fije, mediante intimación en un diario de circulación nacional, el que no podrá ser inferior a treinta ni superior a noventa días. Vencido el plazo anterior, la Autoridad Marítima podrá proceder, a costa del dueño, a su varamiento, si las condiciones generales de mantención y seguridad de la nave afectada no garantizan condiciones mínimas de flotabilidad permanente, condiciones que serán establecidas por la correspondiente inspección a la nave.
+
 #### Artículo 35
 
 Si sobre el ancla o cadenas de un buque debidamente fondeado echare otro su ancla o cadena, el capitán de este deberá inmediatamente o tan pronto como sea avisado de ello, hacer levantar y aclarar dicha ancla o cadena.
