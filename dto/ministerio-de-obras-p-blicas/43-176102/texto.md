@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 43, de 22 de febrero de 1988, se expropiaron los lotes Nºs 6, 53, 58-A, 58-B, 87 y 99, cuyas superficies son 150 M2. 304,8 M2. 177,6 M2. 271,1 M2. 77,4 M2. y 99,7 M2., respectivamente, roles de avalúos 44-66, 46-176, 46-28, 46-28, 46-91 y 46-70, Comuna de Peumo, para Ruta H-66-G Pelequén Cruce Las Arañas, sector Codao Las Cabras y se acordó el precio de indemnización con sus propietarios Domitilia Fuentes y otras, Pedro Amigo y otras, César Correa y otro, César Correa y otro, Protacio Rodríguez y otros e Ismael Valdés, ascendente a las cantidades de $ 269.194, $ 181.185, $ 99.638, $ 133.197, $ 113.923 y $ 107.570.
+
+Fiscal del Ministerio de Obras Públicas.
