@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 673, de 30 de agosto de 1996, se expropiaron los lotes de terreno N°s. 35, 42 y 47, superficies 275, 218,16 y 247,65 M2., respectivamente, roles de avalúos 321011, 3210-18 y 3802-48, comuna de La Florida, para la obra Mejoramiento Eje La Florida, sector Los Ararios Las Vizcacas y se acordó precio de indemnización con sus propietarios Eulogio Amado Jorquera, Comunidad Religiosa Testigos de Jehová y Jorge Jiménez Carrasco, ascendente a las cantidades de $25.216.563, $27.782.122 y $17.479.871.-
+
+Fiscal del Ministerio de Obras Públicas.
