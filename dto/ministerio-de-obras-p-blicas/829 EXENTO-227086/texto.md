@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 829 de fecha 31 de mayo de 2004, se expropió el lote de terreno Nº 91-A, superficie 22 m², Rol Nº 604-82, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz-Yaquil, Rol I-730, Km. 0,00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietario Manuel Ricardo Donoso Valdés, ascendente a la cantidad de $324.173.
+
+- Fiscal del Ministerio de Obras Públicas.
