@@ -1,0 +1,3 @@
+Por resolución Nº 2.168, de 20 de octubre de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.268, de 1989, de esta Subsecretaría, en cuanto autorizó al titular de la nave ''Mar Tirreno'', hoy EMPRESA PESQUERA EPERVA S.A., para realizar actividades pesqueras extractivas en el litoral de la III Región respecto de Anchoveta, Caballa, Jurel, Sardina española y Sardina común, de conformidad con lo establecido en la letra b) del artículo 143 del DS Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 20 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
