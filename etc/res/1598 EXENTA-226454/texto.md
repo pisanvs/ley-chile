@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.598, de 9 de junio de 2004, de esta Subsecretaría, recházase la solicitud de modificación de proyecto técnico de acuicultura y cronograma de actividades, solicitud Nº 20210375, presentado por MAURICIO ESTEBAN MARTINEZ MARIN, para el centro cultivo ubicado al sur weste de Punta Aguantao, X Región.
+
+Valparaíso, 9 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
