@@ -1,0 +1,1 @@
+Suprime la Oficina Zonal de Punta Arenas y las Oficinas Locales de Puerto Natales y Puerto Aysen de la Empresa Marítima del Estado; suprime en la planta del personal de la misma Empresa los cargos que indica, servidos por las personas que señala.
