@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.779, de 31 de octubre del 2001, se expropiaron los lotes de terreno Nºs. 113, 114, 115, 116, 117, 118 y 119, superficies 398, 213, 47, 45, 86, 81 y 62 m2, roles de avalúo 524-7, 524-6, 524-5, 524-4, 524-3, 524-2 y 524-1, comuna de Estación Central, para la obra Sistema Norte - Sur. Tramo G: Nudo Alameda Sector: Kms. 1.590,00 al 1.830,00, Región Metropolitana y se acordó el valor de indemnización con su propietario Compañía de Inversiones Huechuraba S.A., ascendente a la cantidad de $302.969.058.
+
+- Fiscal del Ministerio de Obras Públicas.
