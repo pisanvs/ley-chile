@@ -1,0 +1,3 @@
+Por decreto MOP Nº 621, de 29 de febrero de 2000, se expropiaron los lotes de terreno Nºs 39, 49, 50, 53, 150, 177 y 192, roles de avalúo 70-50, 70-24, 68-124, 71-32 y 68-267, comuna de Teno, obra Camino Ruta J-25, sector Cruce Longitudinal La Montaña y se acordó precio de indemnización con sus propietarios Luis Trujillo Cuevas, Luis Morales Arriagada, Julio Díaz Hernández, José Mora Guajardo y otro y Héctor Rojas Alvarez, ascendente a las cantidades que se indican en dicho decreto.
+
+Fiscal del Ministerio de Obras Públicas.
