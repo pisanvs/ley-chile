@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 217, de 30 de Julio de 1993, se expropió el lote de terreno N° 14, superficie 1.113,83 M2., rol de avalúo 653-60, Comuna de Curicó, para la obra Camino Longitudinal Sur, sector Rmeral Molina, paso Superior Aguas Negras y se acordó precio de indemnización con su propietaria Sociedad Agroindustrial Jaime Soler y Compañía Limitada, ascendente a la cantidad de $ 3.362.075.
+
+Fiscal del Ministerio de Obras Públicas.
