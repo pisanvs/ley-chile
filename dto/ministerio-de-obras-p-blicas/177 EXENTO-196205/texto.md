@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 177, de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 62-A, superficie 167 m2, rol de avalúo 154-131, comuna de Ranquil, para la obra "Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas, Tramo I, Km. 0,00000 a Km. 5,58300" y se acordó el valor de indemnización con su propietario Pedro del Tránsito Cartes Umaña, ascendente a la cantidad de $717.810.
+
+- Fiscal del Ministerio de Obras Públicas.
