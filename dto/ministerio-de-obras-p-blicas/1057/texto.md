@@ -1,0 +1,3 @@
+Por Decreto MOP Nº1.057 de 29 de noviembre de 1996 se expropió el lote de terreno Nº1-B, superficie 10M2., Rol de Avalúo 1.004-10, comuna de Natales, para la obra Habilitación y Construcción, Regadío Huertos Familiares de Puerto Natales, Aducción. II Etapa y se acordó precio de indemnización con su propietaria Julia del Carmen Juana Lincomán Barría y otras ascendente a la cantidad de $112.511.-
+
+Fiscal del Ministerio de Obras Públicas.
