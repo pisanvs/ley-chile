@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.222 de fecha 31 de agosto del 2004, se expropió el lote de terreno Nº 64, superficie 864 m²., Rol Nº 640-42, comuna de Molina, VII Región para la obra "Camino Mejoramiento Ruta K. 175, sector Tres Esquinas-Las Trancas, Tramo Km. 8,306.62 al Km. 25,735.24" y se acordó el valor de indemnización con su propietario Rosamel San Martín Contreras, ascendente a la cantidad de $1.313.056.- para el lote Nº 64.-
+
+Fiscal del Ministerio de Obras Públicas.
