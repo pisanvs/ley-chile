@@ -1,0 +1,7 @@
+AUTORIZA A PESQUERA PACIFIC FOOD PRODUCTS LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 803, de 05 de Agosto de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Pacific Food Products Limitada, R.U.T. No. 95.805.000-3, domiciliada en la ciudad de Santiago, calle Carmen Sylva No. 2370, Providencia, para iniciar actividades pesqueras, en orden a operar una planta industrial en la I Región, ubicada en Bajo Molle Km. 7, en Iquique, donde procesará en las líneas de elaboración de Congelado y Conserva los siguientes recursos: Bonito, Caballa, Sardina española, Jurel, Mero, Albacora, Merluza común, Congrio colorado, Congrio negro, Congrio dorado, Atún aleta larga, Cojinoba, Anchoa, Corvina, Cabinza, Pejegallo, Tiburón sardinero, Pejerrey de mar, Salmón, Caracol locate, Pulpo, Ostión del Norte, Cholga, Loco, Lapa, Almeja. Macha, Navaja, Navajuela, Chorito, Choro, Ostra, Calamar, Jaiba, Erizo, Pepino de mar, Piure. Deberá adquirir el recurso Salmón de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 05 de Agosto de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
