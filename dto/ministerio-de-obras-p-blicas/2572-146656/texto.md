@@ -1,0 +1,7 @@
+Por decreto MOP Nº2.572, de 22 de septiembre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 2, 3, 7, 13, 14, 19 y 22, para la obra Mejoramiento Ruta 5 Sur Camino Longitudinal Sur, sector Avenida Ramón Picarte, que figuran a nombre de Jorge Trivinos Patino, Munic. Valdivia, Aníbal Trujillo Barría, Donosor Julio Cárdenas Santander, Carlos Millán Millán, Oscar Gregorio Arias Sandoval y Arnoldo Rodríguez Lemary, roles de avalúos 737-29, 737-47, 15-1, 106-27, 106-26, 2430-39 y 2429-41, comuna Valdivia, X Región, superficies 94, 57, 30, 11, 30, 435 y 82. La Comisión de Peritos compuesta por los señores Luis Collarte Concha, Luis Narváez Espinoza y Ernesto Zumelzu Delgado, fijó con fecha 7 de diciembre de 1998, el valor provisional de la indemnización en las cantidades de $1.559.920, lote 2;
+
+$836.760, lote 3; $440.400, lote 7; $180.480, lote 13;
+
+$445.400, lote 14; $9.578.700, lote 19 y $1.491.760, lote 22. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
