@@ -1,0 +1,3 @@
+Por decreto exento MOP 176, de 30 de noviembre del 2000, se expropió el lote de terreno Nº48-D, superficie 868 m², rol de avalúo 1545-134, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli, By Pass Los Angeles, Octava Región y se acordó el valor de indemnización con su propietaria María Inés Benavente Garrido, ascendente a la cantidad de $1.281.794.
+
+- Fiscal del Ministerio de Obras Públicas.
