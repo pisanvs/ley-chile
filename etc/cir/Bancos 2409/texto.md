@@ -1326,29 +1326,17 @@ Cada vez que se practique un cargo a una cuenta corriente por cualquier causa di
 
 ### 5. Cobro de comisiones a titulares de cuentas corrientes
 
-5.1. Registro del sistema de comisiones.
+5.1.- Sistema de comisiones.
 
-El Capítulo III.G.2 del Compendio de Normas Financieras del Banco Central de Chile, faculta a los bancos para cobrar comisiones para el manejo de cuentas corrientes, previo registro, en esta Superintendencia, del sistema de cobro que se utilizará.
+Los bancos que decidan cobrar comisiones por el manejo de cuentas corrientes, deberán atenerse a las siguientes instrucciones:
 
-Para ese efecto, los bancos deben ceñirse a las siguientes instrucciones:
+a) Cada banco podrá fijar libremente tanto la modalidad que aplicará en el cobro de comisiones por el manejo de cuentas corrientes, como el monto que por ese concepto cobrará a los respectivos titulares de cuentas corrientes; y,
 
-a) Cada banco podrá fijar libremente el monto que por concepto de comisión cobrará a sus titulares de cuentas corrientes.
+b) El plan de cobro de comisiones que los bancos establezcan, no podrá hacer discriminación alguna entre clientes que se encuentren en igual situación y sólo podrá ser aplicado después de haber dado cumplimiento a lo dispuesto en el numeral 5.2 siguiente.
 
-b) Los bancos que deseen hacer uso de esta facultad deberán registrar en esta Superintendencia el sistema que quieran implantar.
+5.2.- Aviso a los cuentacorrentistas.
 
-c) El plan que se presente no podrá ser modificado sino después de un año de su vigencia, sin perjuicio de la facultad del banco de dejarlo sin aplicación en cualquier momento; en tal caso deberá esperar el plazo de seis meses para implantar un nuevo sistema.
-
-d) En ningún caso, el sistema que se adopte podrá hacer discriminación alguna entre clientes que se encuentren en igual situación.
-
-e) Siempre que un banco modifique o decida dar término a un sistema ya establecido, deberá comunicar a esta Superintendencia la medida tomada al respecto.
-
-f) Al implantar o modificar un sistema, el banco deberá esperar de este Organismo el otorgamiento de un certificado de registro del nuevo sistema para ponerlo en práctica, sin perjuicio de lo señalado en el numeral siguiente.
-
-5.2. Aviso a los cuentacorrentistas.
-
-El sistema de cobro y calculo de comisiones que haya sido registrado en esta Superintendencia, deberá ser comunicado por escrito a cada uno de los titulares de cuentas corrientes que puedan resultar afectados, por lo menos quince días antes de que comience a operar.
-
-No obstante, no será obligatorio enviar tal aviso a un cuentacorrentista, cuando el nuevo sistema de comisiones signifique la eliminación o disminución de las comisiones que se le cobran.
+El sistema de cobro y cálculo de comisiones que los bancos establezcan, así como las modificaciones que se hagan a dicho sistema, deberá ser comunicado por escrito a cada uno de los titulares de cuentas corrientes que puedan resultar afectados, por lo menos quince días antes de que comience a operar. Sin embargo, se podrá prescindir de ese aviso previo, cuando se trate de modificaciones que signifiquen la disminución o eliminación de las comisiones vigentes.
 
 ### 6. Pago de intereses sobre depósitos en cuenta corriente
 
@@ -2082,7 +2070,7 @@ d) Las instituciones financieras pueden cobrar comisiones por el manejo de las c
 
 Las disposiciones del Capítulo III.E.1 del Compendio de Normas Financieras del Banco Central de Chile establecen las siguientes características para las cuentas de ahorro a plazo con giro incondicional:
 
-a) Son en moneda nacional, reajustables por la variación de la unidad de fomento;
+a) Son en moneda nacional, reajustables por la variación de la unidad de fomento u otro sistema de reajustabilidad autorizado por el Banco Central de Chile;
 
 b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o jurídicas;
 
@@ -2098,7 +2086,7 @@ f) Las instituciones financieras pueden cobrar comisiones por el manejo de las c
 
 Las cuentas de ahorro a plazo con giro diferido, según las disposiciones contenidas en el Capítulo III.E.4 del Compendio de Normas Financieras del Banco Central de Chile, tienen las particularidades que se indican a continuación:
 
-a) Son en moneda nacional, reajustables por la variación de la unidad de fomento;
+a) Son en moneda nacional, reajustables por la variación de la unidad de fomento u otro sistema de reajustabilidad autorizado por el Banco Central de Chile;
 
 b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o jurídicas;
 
@@ -2254,9 +2242,9 @@ El primer período de reajuste incluirá, en todo caso, los días transcurridos 
 
 7.2. Cálculo y pago del reajuste.
 
-El último día del mes en que se cumple cada período de reajuste, se abonará en la respectiva cuenta de ahorro a plazo el reajuste que corresponda a los saldos mantenidos en ese lapso, conforme a la variación experimentada por la unidad de fomento (U.F.). Para este efecto, se considerará la unidad de fomento como unidad de cuenta.
+El último día del mes en que se cumple cada período de reajuste, se abonará en la respectiva cuenta de ahorro a plazo el reajuste que corresponda a los saldos mantenidos en ese lapso, conforme al sistema de reajustabilidad que corresponda aplicar.
 
-En consecuencia, para establecer el reajuste que corresponda abonar al término de un período en la cuenta respectiva, se convertirán a esa unidad el saldo al inicio de aquél y los depósitos y giros efectuados durante dicho lapso, según el valor que la unidad de fomento tenía en cada una de las fechas en que se hayan realizado los correspondientes depósitos o giros, lo que determinará un saldo en la misma unidad. Hecho esto, se convertirá a pesos ese saldo expresado en U.F.,al valor que tenga dicha unidad en el día en que corresponda abonar los reajustes. La diferencia entre el saldo nominal de la cuenta, expresado en pesos, y el resultante de la conversión de las U.F., será el reajuste ganado en el período.
+En consecuencia, para establecer el reajuste que corresponda abonar al termino de un periodo en la cuenta respectiva, se reajustará el saldo al inicio de aquél y los depósitos y giros efectuados durante dicho lapso, según el sistema de reajuste pactado, lo que determinara un saldo reajustado. La diferencia entre este saldo reajustado y el saldo nominal de la cuenta, será el reajuste ganado en el periodo.
 
 Cuando el número de giros efectuados en una cuenta de ahorro a plazo, en el período de doce meses, sea superior al que el depositante podía realizar de conformidad con lo señalado en las letras b), c) o d) del numeral 6.3, según sea el caso, los fondos depositados devengarán solamente el interés correspondiente a dicho período y por motivo alguno se aplicará reajuste, salvo aquellos que, en el caso de cuentas con giro diferido, se hubieran abonado en los trimestres anteriores del mismo período en que se produjo el exceso.
 
@@ -2276,7 +2264,7 @@ En todo caso, sólo podrá disminuirse la tasa de interés de un trimestre a otr
 
 Los intereses, tanto para las cuentas de ahorro a plazo con giro incondicional como para las cuentas con giro diferido, deben abonarse a la respectiva cuenta cada doce meses calendario, contados desde el último día del mes en que fue abierta la cuenta correspondiente, sin perjuicio de considerar en su cálculo los días; efectivamente transcurridos desde su apertura.
 
-Sobre la base del movimiento de la cuenta expresado en unidades de fomento, de conformidad con lo establecido en el numeral 7.2 anterior, debe aplicarse una tasa de interés simple, dependiendo ésta del número de días transcurridos desde el depósito o giro. La tasa de interés aplicable es aquella que resulta de dividir por 360 la tasa anual informada por la institución para el tipo de cuenta de ahorro de que se trate, y de multiplicar ésta por el número de días transcurridos desde el depósito o giro. Para los fines del cálculo de intereses,los giros deben considerarse como depósitos con signo negativo. Los abonos que trimestralmente se hagan por concepto de reajuste durante el período de doce meses, en el caso de las cuentas de giro diferido, no son considerados como depósitos, desde el momento en que el cálculo para los efectos de determinar los intereses se realiza tomando la U.F. como unidad de cuenta.
+Sobre la base del movimiento de la cuenta debidamente reajustado, de conformidad con lo establecido en el numeral 7.2 anterior, debe aplicarse una tasa de interés simple, dependiendo ésta del número de días transcurridos desde el depósito o giro. La tasa de interés aplicable es aquella que resulta de dividir por 360 la tasa anual informada por la institución para el tipo de cuenta de ahorro de que se trate, y de multiplicar ésta por el número de días transcurridos desde el depósito o giro. Para los fines del cálculo de intereses,los giros deben considerarse como depósitos con signo negativo. Los abonos que trimestralmente se hagan por concepto de reajuste durante el período de doce meses, en el caso de las cuentas de giro diferido, no son considerados como depósitos, desde el momento en que el cálculo para los efectos de determinar los intereses se realiza sobre el capital reajustado.
 
 En caso de haber regido más de una tasa de interés en el período, deben considerarse dichas tasas y su lapso de vigencia.
 
@@ -2284,9 +2272,9 @@ No obstante lo indicado anteriormente, si por exceso de giros la cuenta pierde e
 
 ### 9. Cobro de comisiones
 
-9.1. Comisiones autorizadas.
+9.1.- Sistema de cobro.
 
-Las instituciones financieras pueden cobrar comisiones por el manejo de las cuentas de ahorro, siempre que ellas sean de aplicación general y su cobro se realice mediante cargos en la misma cuenta que las origina. En consecuencia, no se podrá cobrar comisiones por montos que no sean determinados por la aplicación de condiciones previamente fijadas para las cuentas de ahorro, ni podrá utilizarse un procedimiento diferente al cargo en la respectiva cuenta.
+Las comisiones que las instituciones financieras decidan cobrar por el manejo de cuentas de ahorro, serán debitadas en la misma cuenta que las origine. No se podrá, en caso alguno, cobrar comisiones por montos que no sean determinados por condiciones de aplicación general previamente fijadas e informadas a los respectivos ahorrantes de acuerdo a lo señalado en el numeral 13.3 de este capitulo, ni podrá utilizarse para su cobro un procedimiento diferente al cargo en la respectiva cuenta.
 
 El monto de las comisiones y las condiciones para su cobro sólo se podrán cambiar el primer día de cada trimestre calendario y regirán, a lo menos, para ese trimestre. Sin embargo, si con el cambio se disminuye o se suprime el monto de la comisión, la modificación puede tener aplicación inmediata y la nueva comisión que se acuerde o la supresión de su cobro puede regir por lo que resta del trimestre calendario en que se produzca el cambio y, en todo caso, por el trimestre siguiente completo.
 
@@ -2370,7 +2358,7 @@ De acuerdo con las disposiciones generales sobre valores en cobro, la instituci�
 
 13.5. Envío periódico del estado de movimiento y saldos.
 
-Las instituciones financieras deben enviar a los titulares de cuentas de ahorro que mantengan un saldo promedio igual o superior a 10 U.F., una vez al año, un estado de cuenta con los movimientos y saldos de los últimos doce meses. En el caso de las cuentas de ahorro a plazo, dicho estado debe enviarse inmediatamente después de abonados los respectivos intereses.
+Las instituciones financieras deben enviar a los titulares de cuentas de ahorro que mantengan un saldo promedio igual o superior a al equivalente de 10 U.F., una vez al año, un estado de cuenta con los movimientos y saldos de los últimos doce meses. En el caso de las cuentas de ahorro a plazo, dicho estado debe enviarse inmediatamente después de abonados los respectivos intereses.
 
 El estado de cuenta deberá registrar a lo menos la siguiente información:
 
@@ -22706,23 +22694,19 @@ Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra por 
 
 Haber: "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra".
 
-2.4. Intereses por venta de divisas con pacto de recompra.
-
-Los intereses que devenguen las instituciones financieras por las divisas vendidas al Banco Central de Chile con pacto de recompra, serán registrados en la cuenta "Intereses ganados por venta de divisas con pacto de recompra", que se demuestra en la partida 7200 del MR1.
-
-2.5. Descuento aplicado por el Banco Central de Chile.
+2.4. Descuento aplicado por el Banco Central de Chile.
 
 Los importes que las instituciones financieras paguen al Banco Central de Chile por concepto de descuento en las operaciones de venta de divisas con pacto de recompra, efectuadas con sus propios recursos, serán registrados en la cuenta "Comisiones anticipadas por ventas de divisas con pacto de recompra", de la partida 2120 del formulario MBl.
 
 Al término de cada mes, dicha comisión se traspasará a la cuenta "Comisiones pagadas por ventas de divisas con pacto de recompra" de la partida 5530 del formulario MR1, en forma proporcional al plazo pactado en el respectivo contrato.
 
-2.6. Custodia de los contratos por venta de divisas de terceros.
+2.5. Custodia de los contratos por venta de divisas de terceros.
 
 Estos contratos deben ser registrados por los bancos y financieras con cargo a la cuenta "Contratos por venta de divisas de terceros con pacto de retrocompra".
 
 Esta cuenta se dividirá en dos sube lientas que se denominarán "Retornos informados y pendientes de liquidación", en la que se registrarán las operaciones realizadas con recursos provenientes de retornos de exportación informados al Banco Central de Chile y acogidos, para su liquidación, al plazo especial de 90 días y "Otros recursos", en la que se registrarán las demás operaciones por cuenta de terceros, con abono a la cuenta "Depositantes de contratos por venta de divisas de terceros con pacto de retrocompra". Estas cuentas se demostrarán en las partidas 9260 y 9900 del formulario MB1, respectivamente.
 
-2.7. Ajustes por variación de tipo de cambio.
+2.6. Ajustes por variación de tipo de cambio.
 
 Las entidades financieras deben ajustar el último día de cada mes el saldo de la cuenta "Adeudado al Banco Central por divisas vendidas con pacto de recompra".
 
@@ -23792,157 +23776,41 @@ AMERICA.
 
 ### 1. Generalidades
 
-Los bancos y las sociedades financieras podrán mantener cuentas corrientes en
+Los bancos y las sociedades financieras podrán mantener cuentas corrientes en pesos en el Banco Central de Chile, expresadas en dólares estadounidenses.
 
-pesos en el Banco Central de Chile, expresadas en dólares estadounidenses.
+En esas cuentas sólo se podrán depositar los importes en pesos equivalentes a la recuperación o castigo de los créditos de que tratan los Capítulos V.B.1 y V.B.2 del Compendio de Normas Financieras del Banco Central de Chile, otorgados en moneda chilena, ya sea que hubieren sido documentados en moneda extranjera o en pesos nominales o reajustables, conocidos como "créditos Acuerdo 1196" y "créditos Acuerdo 1418"; de los préstamos cursados en conformidad al Capítulo X del Compendio de Normas de Exportación y de los créditos para importación otorgados con cargo alas líneas de crédito de que tratan el Capítulo XVII del Compendio de Normas de Importación del Instituto Emisor y los Capítulos, 13-14, 14-3 y 15-3 de esta Recopilación de Normas.
 
-En esas cuentas sólo se podrán depositar los importes en pesos equivalentes a la
+Además, las instituciones financieras podrán depositar en esta cuenta el importe de los intereses que el Banco Central de Chile pague por los depósitos mantenidos en la cuenta especial a que se refiere el Capítulo IV.E.2 del Compendio de Normas Financieras, con excepción de aquéllos que correspondan a las reservas y provisiones depositadas en esa cuenta especial.
 
-recuperación o castigo de los créditos de que tratan los Capítulos V.B.1 y V.B.2
+Tampoco podrán depositarse en esta cuenta corriente aquellas recuperaciones delos créditos antes mencionados, originadas por su conversión a moneda chilena,efectuada de conformidad con las letras a) y b) del N° 3 del Acuerdo 1578-01-840622 del Comité Ejecutivo del Banco Central de Chile.
 
-del Compendio de Normas Financieras del Banco Central de Chile, otorgados en
-
-moneda chilena, ya sea que hubieren sido documentados en moneda extranjera o en
-
-pesos nominales o reajustables, conocidos como "créditos Acuerdo 1196" y
-
-"créditos Acuerdo 1418"; de los préstamos cursados en conformidad al Capítulo X
-
-del Compendio de Normas de Exportación y de los créditos para importación
-
-otorgados con cargo alas líneas de crédito de que tratan el Capítulo XVII del
-
-Compendio de Normas de Importación del Instituto Emisor y los Capítulos, 13-14,
-
-14-3 y 15-3 de esta Recopilación de Normas.
-
-Además, las instituciones financieras podrán depositar en esta cuenta el importe
-
-de los intereses que el Banco Central de Chile pague por los depósitos
-
-mantenidos en la cuenta especial a que se refiere el Capítulo IV.E.2 del
-
-Compendio de Normas Financieras, con excepción de aquéllos que correspondan a
-
-las reservas y provisiones depositadas en esa cuenta especial.
-
-Tampoco podrán depositarse en esta cuenta corriente aquellas recuperaciones
-
-delos créditos antes mencionados, originadas por su conversión a moneda
-
-chilena,efectuada de conformidad con las letras a) y b) del N° 3 del Capítulo
-
-II.B.5.3 y letra a) del N° 12 del Capítulo II.B.5.4 del Compendio de Normas
-
-Financieras.
-
-Los giros que las instituciones financieras titulares de dichas cuentas, hagan
-
-con cargo a ellas, serán entregados por el Banco Central de Chile en moneda
-
-chilena.
+Los giros que las instituciones financieras titulares de dichas cuentas, hagan con cargo a ellas, serán entregados por el Banco Central de Chile en moneda chilena.
 
 ### 2. Saldo máximo que se puede mantener en estas cuentas corrientes
 
-Las instituciones financieras no podrán mantener en ningún momento en estas
+Las instituciones financieras no podrán mantener en ningún momento en estas cuentas corrientes, un saldo superior a la diferencia entre el total de sus recursos en moneda extranjera, expresados en dichas monedas o en pesos reajustables por la variación del tipo de cambio, incluidos los intereses adeudados al exterior, excluidas sus provisiones en moneda extranjera y las colocaciones financiadas con dichos recursos más sus respectivos intereses devengados, que mantengan en su cartera o que hayan vendido al Banco Central.Para estos efectos, se excluirán las obligaciones con el Banco Central de Chile por los financiamientos obtenidos de éste con recursos provenientes de Organismos Internacionales y las colocaciones efectuadas con dichos recursos más los correspondientes intereses. Además, se excluirán los pagarés que se hubieren adquirido por la reprogramación de estas últimas colocaciones.
 
-cuentas corrientes, un saldo superior a la diferencia entre el total de sus
-
-recursos en moneda extranjera, expresados en dichas monedas o en pesos
-
-reajustables por la variación del tipo de cambio, incluidos los intereses
-
-adeudados al exterior, excluidas sus provisiones en moneda extranjera y las
-
-colocaciones financiadas con dichos recursos más sus respectivos intereses
-
-devengados, que mantengan en su cartera o que hayan vendido al Banco
-
-Central.Para estos efectos, se excluirán las obligaciones con el Banco Central
-
-de Chile por los financiamientos obtenidos de éste con recursos provenientes de
-
-Organismos Internacionales y las colocaciones efectuadas con dichos recursos más
-
-los correspondientes intereses. Además, se excluirán los pagarés que se hubieren
-
-adquirido por la reprogramación de estas últimas colocaciones.
-
-A la diferencia así determinada, se sumarán o deducirán los siguientes valores
-
-incluidos sus intereses devengados en los casos que corresponda:
+A la diferencia así determinada, se sumarán o deducirán los siguientes valores incluidos sus intereses devengados en los casos que corresponda:
 
 2.1. Valores que se agregan:
 
-a) La diferencia entre el saldo de las colocaciones expresadas en moneda
+a) El saldo de las colocaciones en moneda extranjera, expresadas en dichas monedas o en pesos reajustables por la variación del tipo de cambio, reprogramadas conforme al Acuerdo 1507-01-830412 del Comité Ejecutivo del Banco Central de Chile y a lo indicado por este Organismo en la Circular 1.903-352 y sus modificaciones.
 
-extranjera reprogramadas de acuerdo al Capítulo II.B.5 del Compendio de Normas
-
-Financieras y el saldo en pagarés expresados en dólares adquiridos de
-
-conformidad a la letra e) del número 5 del mismo Capítulo y a lo indicado por
-
-este Organismo en la Circular N° 1.903-352 y sus modificaciones; y,
-
-b) La diferencia entre el saldo de las colocaciones expresadas en moneda
-
-extranjera reprogramadas de acuerdo al Capítulo II.B.5.3 del referido
-
-Compendio,y el saldo en pagarés expresados en dólares adquiridos de conformidad
-
-a la letra f) del número 6 del mismo Capítulo, según lo instruido en el Capítulo
-
-13-5 de esta Recopilación de Normas.
+b) La diferencia entre el saldo de las colocaciones expresadas en moneda extranjera reprogramadas conforme al Acuerdo N° 1578-01-840622 del Comité Ejecutivo del Banco Central de Chile, y el saldo en pagarés expresados en dólares adquiridos de conformidad a la letra f) del número 6 del mismo Acuerdo.
 
 2.2. Valores que se deducen:
 
-a) El saldo de pagarés expresados en dólares a que se refiere el Capítulo
+a) El saldo de pagarés expresados en dólares a que se refiere el Capítulo IV.B.10 del Compendio de Normas Financieras;
 
-IV.B.10 del Compendio de Normas Financieras;
+b) El saldo de Certificados de Depósito Expresados en Dólares adquiridos en virtud del Acuerdo N° 1.649-01-850524, que correspondan a colocaciones vendidas al Banco Central de Chile, de que trata la Circular N° 2.088-527 y sus modificaciones, de esta Superintendencia.
 
-b) El saldo de Certificados de Depósito Expresados en Dólares adquiridos en
+c) Las divisas recompradas que se mantengan en las cuentas especiales a que alude el literal ii) de la letra b) del título I de la letra G "Disposiciones Generales" del Capítulo XIV del Compendio de Normas de Cambios Internacionales;
 
-virtud del Acuerdo N° 1.649-01-850524, que correspondan a colocaciones vendidas
+d) Los montos que se encuentren depositados en la cuenta a que se refiere la letra A del Capítulo IV.E.2 del Compendio de Normas Financieras y que correspondan a recuperaciones y castigos de créditos de importación otorgados al amparo del Acuerdo N° 1.224, cuyo texto refundido fue fijado por el Acuerdo N° 1.245-18-781129,de que trata el Capítulo 13-15 de esta Recopilación de Normas;
 
-al Banco Central de Chile, de que trata la Circular N° 2.088-527 y sus
+e) El saldo en pagarés adquiridos en conformidad a la letra g) del 6 del Acuerdo 1578-01-840622, que correspondan a colocaciones que fueron convertidas a moneda corriente nacional en virtud del Acuerdo señalado, según lo instruido por este Organismo mediante Circulares N° s. 2.015-462 y 2.028-474 y sus modificaciones; y,
 
-modificaciones, de esta Superintendencia.
-
-c) Las divisas recompradas que se mantengan en las cuentas especiales a que
-
-alude el literal ii) de la letra b) del título I de la letra G "Disposiciones
-
-Generales" del Capítulo XIV del Compendio de Normas de Cambios Internacionales;
-
-d) Los montos que se encuentren depositados en la cuenta a que se refiere la
-
-letra A del Capítulo IV.E.2 del Compendio de Normas Financieras y que
-
-correspondan a recuperaciones y castigos de créditos de importación otorgados al
-
-amparo del Acuerdo N° 1.224, cuyo texto refundido fue fijado por el Acuerdo N°
-
-1.245-18-781129,de que trata el Capítulo 13-15 de esta Recopilación de Normas;
-
-e) El saldo en pagarés adquiridos de conformidad a la letra g) número 6 del
-
-Capítulo II.B.5.3 y letra b) del número 12 del Capítulo II.B.5.4 del Compendio
-
-de Normas Financieras, que correspondan a colocaciones que fueron convertidas
-
-amoneda corriente nacional en virtud de los referidos Capítulos, según lo
-
-instruido por este Organismo mediante Circulares N°s. 2.015-462, 2.016-463 y
-
-2.028-474 y sus modificaciones; y,
-
-f) Todos aquellos otros activos en moneda extranjera, expresados en dichas
-
-monedas o en pesos reajustables por la variación del tipo de cambio, con
-
-excepción de aquéllos financiados con recursos correspondientes a provisiones en
-
-moneda extranjera.
+f) Todos aquellos otros activos en moneda extranjera, expresados en dichas monedas o en pesos reajustables por la variación del tipo de cambio, con excepción de aquéllos financiados con recursos correspondientes a provisiones en moneda extranjera.
 
 ### 3. Moneda en que se pueden efectuar los giros y depósitos
 
@@ -28170,53 +28038,15 @@ sobre captación e intermediación financiera contenidas en la Circular N° 1.69
 
 184 del 27 de agosto de 1980 y sus modificaciones, de este Organismo.
 
-### 10. Monto máximo de títulos de deuda externa que se puede cobrar, canjear o
+10. Monto máximo de títulos de deuda externa que se puede cobrar, canjear o sustituir en cada mes.
 
-sustituir en cada mes.
+Cada institución financiera podrá cobrar, canjear o sustituir títulos de deuda externa, de conformidad a estas normas, incluidos aquellos a su propio cargo.Estas operaciones podrán efectuarlas hasta por un monto que no podrá exceder del margen que la respectiva entidad se hubiere adjudicado en las licitaciones que para el efecto realice, en cada oportunidad, la el Banco Central de Chile. La institución financiera que se adjudique un margen, deberá adquirir del Banco Central de Chile, por el mismo importe adjudicado, pagarés denominados "P.B.C.-Capítulo XVIII". Se imputarán a ese importe el capital adeudado de los títulos de la deuda externa que se operen con cargo al margen y el monto de sus correspondientes intereses en dólares norteamericanos, devengados y no pagados hasta la fecha de la transacción, que excedan del 20 % del referido capital.
 
-Cada institución financiera podrá cobrar, canjear o sustituir títulos de deuda
+No se imputarán al citado margen los títulos que se destinen a las capitalizaciones de que trata el N° 14 de este capítulo.
 
-externa, de conformidad a estas normas, incluidos aquellos a su propio
+Las entidades financieras que no hagan uso de parte o del total del margen que se hubieran adjudicado, podrán traspasar a otra institución financiera dentro del período mensual para el que se lo hubieren adjudicado, el cupo no utilizado,el cual deberá usarse en todo caso, en ese mismo período mensual.
 
-cargo.Estas operaciones podrán efectuarlas hasta por un monto que no podrá
-
-exceder del margen que la respectiva entidad se hubiere adjudicado en las
-
-licitaciones que para el efecto realice, en cada oportunidad, la Gerencia de
-
-Operaciones Monetarias del Banco Central de Chile por intermedio de su
-
-Departamento de Operaciones de Mercado Abierto. La institución financiera que se
-
-adjudique un margen, deberá adquirir del Banco Central de Chile, por el mismo
-
-importe adjudicado, pagarés denominados "P.B.C.-Capítulo XVIII". Se imputarán a
-
-ese importe el capital adeudado de los títulos de la deuda externa que se operen
-
-con cargo al margen y el monto de sus correspondientes intereses en dólares
-
-norteamericanos, devengados y no pagados hasta la fecha de la transacción, que
-
-excedan del 20 % del referido capital.
-
-No se imputarán al citado margen los títulos que se destinen a las
-
-capitalizaciones de que trata el N° 14 de este capítulo.
-
-Las entidades financieras que no hagan uso de parte o del total del margen que
-
-se hubieran adjudicado, podrán traspasar a otra institución financiera dentro
-
-del período mensual para el que se lo hubieren adjudicado, el cupo no
-
-utilizado,el cual deberá usarse en todo caso, en ese mismo período mensual.
-
-Junto con la cesión de margen, la institución financiera cedente transferirá a
-
-la cesionaria un importe de "P.B.C.-Capítulo XVIII" equivalente al cupo cedido,
-
-al valor que entre ellas acuerden.
+Junto con la cesión de margen, la institución financiera cedente transferirá a la cesionaria un importe de "P.B.C.-Capítulo XVIII" equivalente al cupo cedido, al valor que entre ellas acuerden.
 
 ### 11. Acceso al diferencial cambiario
 
