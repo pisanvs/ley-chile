@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 324 de 23 de Marzo de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "El Llano" de la comuna de Bulnes, Octava Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 18 sitios N°s. 1 al 6 y 8 al 11 del Proyecto de Parcelación "Tres Marías" formado, entre otros, por predio señalado. Los derechos de Aguas se extraen del canal Llano Blanco, derivado del río Diguillín; Estero Espinal; Estero Espinalillo; Estero Los Lunes; Derrames del Fundo San Javier conducidos por el canal "Derrames Zañartu"; Derrames de El Llano y El Carolino conducidos por el canal "Derrames Carolino" y Derrames de la Ballica.- Publicación hecha conforme Art. 13 Ley No.
+
+18.377.
+
+Director Ejecutivo.
