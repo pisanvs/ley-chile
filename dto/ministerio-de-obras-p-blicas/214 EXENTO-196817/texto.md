@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 214, de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nºs. 13 y 14, superficie 1.112 m2 y 223 m2, respectivamente, rol de avalúo 52-35, comuna de Paredones, VI Región, para la obra "Camino Mejoramiento Ruta I-72, Sector Paredones - Bucalemu, Tramo Km. 27,800 al 43,100" y se acordó el valor de indemnización con su propietario don Rómulo Carol Catalán Urzúa, ascendente a la cantidad de $1.819.646.-
+
+Fiscal del Ministerio de Obras Públicas.
