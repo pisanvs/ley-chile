@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.097, de 29 de mayo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 2 y 5. Obra: Camino Illapel Salamanca Kms. 21.423 al 23.322,89, que figuran a nombre de Suc. Carlos Sáez Murúa y Suc. Emilio Chávez Varas, roles de avalúo 252-21 y 252-2, comuna de Salamanca, IV Región, superficies 2.700 M2 y 3.618 M2. La comisión de peritos, fijó con fecha 28 de junio de 1989, en las cantidades de $432.000, lote 2 y $578.880, lote 5. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
