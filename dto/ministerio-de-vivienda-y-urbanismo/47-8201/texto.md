@@ -1036,89 +1036,55 @@ Para todos los efectos previstos en el presente artículo, se entenderá por pis
 
 #### Artículo 2
 
-6.4. Las normas de los Planes Reguladores Comunales relativas a agrupamiento de las edificaciones, coeficientes de constructibilidad, alturas máximas y mínimas y tamaño de los predios, podrán variarse cuando los proyectos tengan la calidad de Conjuntos Armónicos.
+6.4. Para los efectos previstos en los artículos 107, 108 y 109 de la Ley General de Urbanismo y Construcciones, se considerará que un proyecto tiene la calidad de Conjunto Armónico, cuando cumple con alguna de las condiciones que se señalan a continuación y con las exigencias que para cada caso se establecen:
+
+1.- Condición de dimensión:
+
+a) Estar emplazado en un terreno cuya superficie total sea igual o superior a 5 veces la superficie predial mínima establecida por el Plan Regulador respectivo, siempre que la superficie total no sea inferior a 5.000 m2.;
+
+b) Estar emplazado en un terreno que constituya en sí una manzana existente, resultante o no de una fusión predial, cualquiera sea la superficie total de ésta;
+
+c) Estar emplazado en un terreno resultante de una fusión predial, conforme al artículo 63 del D.F.L. N° 458, de Vivienda y Urbanismo, de 1975, siempre que su superficie no sea inferior a 2.500 m2.
+
+En los casos a que se refieren las letras a), b) y c) precedentes, los terrenos deberán deslindar, al menos por uno de sus costados, con una calle existente o consultada en el Plan Regulador respectivo, de un ancho mínimo de 20 m., con calzada de un ancho total mínimo de 13 m.
+
+2.- Condición de uso:
+
+Estar destinado a equipamiento y emplazado en un terreno en que el Plan Regulador respectivo consulte el equipamiento como uso de suelo, de una superficie total no inferior a 2.500 m2, que deslinde, al menos por uno de sus costados, con una calle existente o consultada en el Plan Regulador respectivo, de un ancho mínimo de 30 m., con calzada de un ancho total mínimo de 14 m.
+
+El distanciamiento entre los edificios que contempla el proyecto y los deslindes con los predios vecinos, no podrá ser inferior a 10 m., aunque se emplace en áreas de construcción continua obligatoria.
+
+3.- Condición de localización y ampliación:
+
+Estar localizados en el mismo terreno en que estén emplazados inmuebles declarados Monumentos Nacionales o Históricos, y proyectados como ampliación, restauración o reciclaje de los mismos, debiendo contar con autorización previa del Consejo de Monumentos Nacionales, conforme a la Ley N° 17.288.
 
 #### Artículo 2
 
-6.5. Para los efectos previstos en la Ley General de Urbanismo y Construcciones y en la presente Ordenanza, se entenderá que un proyecto tiene la calidad de Conjunto Armónico si contempla la construcción de dos o más edificios agrupados entre sí de tal manera que constituyan una unidad espacial propia e identificable o determinable como tal, por concurrir alguna de las condiciones previstas por el artículo siguiente.
+6.5. Los proyectos que cumplan con la condición de dimensión a que se refieren las letras a) y b) del número 1, del artículo 2.6.4., podrán exceder hasta en un 50% el coeficiente de constructibilidad establecido por el Plan Regulador respectivo.
+
+Los proyectos que cumplan con la condición de dimensión a que se refiere la letra c) del número 1. del artículo 2.6.4., podrán exceder hasta en un 30% el coeficiente de constructibilidad establecido por el Plan Regulador respectivo.
 
 #### Artículo 2
 
-6.6. Para aplicar la calificación de Conjunto Armónico, el agrupamiento de construcciones que lo componen, deberá cumplir con alguna de las siguientes condiciones:
-
-1. De uso:
-
-a) Que estén destinados a equipamiento de escala nacional, regional, intercomunal o comunal de servicios de utilidad pública, tales como, establecimientos hospitalarios, de educación, culto, cultura.
-
-La calificación correspondiente será efectuada por la Secretaría Regional Ministerial de Vivienda y Urbanismo, en forma previa a la respectiva autorización municipal del proyecto.
-
-b) Que conformen conjuntos de viviendas con construcción simultánea, emplazados en terrenos de una superficie no inferior a 1 há con frente a vías estructurantes del instrumento de planificación territorial, o alternativamente, vías de 20 m. o más de ancho, entre líneas oficiales, y que contemplen, como parte del conjunto, áreas verdes y equipamiento tales como plazas, jardines, juegos infantiles, con un estándar no inferior a 10 m2 por unidad de vivienda.
-
-Las superficies indicadas se imputarán a los estándares de cesión de terrenos exigidos para el caso de crecimiento urbano por densificación en el artículo 2.2.5. de esta Ordenanza.
-
-2. De localización:
-
-Que las construcciones que se proyecten estén ubicadas en el entorno inmediato de influencia de un monumento nacional. Esta condición se podrá aplicar sólo cuando ya exista un instrumento de planificación territorial y las construcciones se emplacen en terrenos que deslinden o enfrenten un monumento nacional.
-
-En este caso, las condiciones arquitectónicas de las construcciones serán aprobadas por el Consejo de Monumentos Nacionales, previo informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo, antes de la aprobación municipal de rigor.
-
-3. De dimensión:
-
-Que las construcciones estén destinadas a acogerse a la Ley de Propiedad Horizontal y se emplacen en un terreno de superficie igual o superior a 2500 m², cuyo frente sea igual o superior a 50 m. El terreno además, deberá enfrentar vías estructurantes del instrumento de planificación territorial, o alternativamente, vías de un ancho no inferior a 25 m entre líneas oficiales. En el primer piso o planta a nivel de calle, deberá contemplarse un área no inferior al 10% de la superficie del terreno, destinada a espacios peatonales de uso público fácilmente accesibles.
-
-En el caso que el conjunto consulte viviendas, deberá proveerse un mínimo de 10 m² por unidad de vivienda como parte del conjunto, destinada a áreas verdes, tales como, jardines, plazas, juegos infantiles, adicionales a la superficie indicada en el inciso anterior. La provisión de estas áreas podrá resolverse a nivel de terreno o en otro plano que indique el proyecto.
-
-Las superficies indicadas se imputarán a los estándares de cesión de terreno exigidos para el caso de crecimiento urbano por densificación en el artículo 2.2.5. de esta Ordenanza.
-
-4. De ampliación:
-
-Que las construcciones complementen un Conjunto Armónico ya existente o en construcción en el mismo predio, siempre que se mantenga el cumplimiento de las disposiciones específicas para la tipología correspondiente.
+6.6. Los proyectos que cumplan con la condición de uso podrán exceder hasta en un 50% el coeficiente de constructibilidad establecido por el Plan Regulador respectivo.
 
 #### Artículo 2
 
-6.7. No obstante lo dispuesto en el artículo anterior, los Conjuntos Armónicos deberán cumplir con las siguientes exigencias:
-
-1. Respecto de las propiedades colindantes y vecinas, respetar las normas sobre distanciamientos y rasantes contenidas en el artículo 2.6.3. de la presente Ordenanza o en los Planes Reguladores Comunales si estas últimas fueren más restrictivas, sin perjuicio de lo dispuesto en el artículo 2.6.10. de esta Ordenanza.
-
-2. Cumplir con las exigencias de áreas unitarias de estacionamiento que se establecen en los artículos 2.4.1., 2.4.2 y 2.4.3. de esta Ordenanza.
-
-3. Respetar los usos de suelo, densidades de población, espacios de uso público y anchos de vías con sus respectivos antejardines, fijados en el correspondiente Plan Regulador Comunal. Si éste no los indica expresamente, se entenderá que son libres, sin perjuicio de cumplir con las disposiciones generales de esta Ordenanza, entre otras, las referidas a cesiones gratuitas y vialidad, contenidas en los capítulos 2 y 3 del presente Título 2.
+6.7. Los proyectos que cumplan con la condición de localización y ampliación, podrán exceder hasta en un 100% el coeficiente de constructibilidad establecido en el Plan Regulador respectivo.
 
 #### Artículo 2
 
-6.8. Los edificios que forman parte de un Conjunto Armónico deberán respetar entre sí un distanciamiento que asegure a cada uno de ellos adecuadas condiciones de privacidad y asoleamiento, a juicio del Director de Obras Municipales.
+6.8. Tratándose de fusión de terrenos, en los porcentajes de exceso de los coeficientes de constructibilidad señalados en los artículos 2.6.5., 2.6.6. y 2.6.7. se entiende incluido el 30% de aumento de dicho coeficiente que otorga el artículo 63 del D.F.L. N° 458, de Vivienda y Urbanismo, de 1975.
 
 #### Artículo 2
 
-6.9. El proyecto completo del Conjunto Armónico deberá ser aprobado en un solo acto, pudiendo ser ejecutado por etapas y el plazo máximo de otorgamiento del permiso será de 30 días.
+6.9. Los proyectos que cumplan con la condición de dimensión y/o de uso, podrán exceder hasta en un 25% la altura máxima establecida por el Plan Regulador respectivo. Cuando la altura esté expresada en pisos y de la aplicación de este porcentaje resulte una fracción de piso igual o mayor que 0,5 se permitirá la construcción de un piso más. En el caso que dicho Plan Regulador contemple edificación continua, y el Conjunto Armónico no ocupe una manzana completa, el aumento de altura regirá sólo para las edificaciones aisladas construidas por sobre la altura máxima de la edificación continua, y se aplicará a partir de la altura máxima fijada para la edificación continua por el Plan Regulador respectivo.
 
 #### Artículo 2
 
-6.10. Las normas de los Planes Reguladores Comunales que puedan ser alteradas por los Conjuntos Armónicos, quedarán sujetas a las siguientes condicionantes:
+6.10. En los conjuntos armónicos el aumento del coeficiente de constructibilidad no permite exceder las alturas máximas ya incrementadas por la aplicación del artículo 2.6.9. ni libera del cumplimiento de rasantes y distanciamientos establecidos por el respectivo Plan Regulador o a falta de éste o si no contiene norma en la materia, por esta Ordenanza.
 
-1. Agrupamiento.
-
-Podrá variarse únicamente cuando en el sector en que se proyecte construir un Conjunto Armónico, sea obligatoria la construcción continua.
-
-2. Coeficiente de constructibilidad.
-
-El coeficiente de constructibilidad quedará limitado por las normas sobre rasantes y distanciamientos de aplicación general y por el cumplimiento de las exigencias sobre liberación de suelo para áreas verdes y equipamiento que se establecen en el artículo 2.6.6. letra b) de esta Ordenanza, cuando sea el caso.
-
-El Plan Regulador Comunal podrá fijar el porcentaje en que podrá aumentarse el coeficiente de constructibilidad, siempre que dicho coeficiente se haya fijado para todas y cada una de sus zonas. Este aumento no podrá ser inferior al 30% del referido coeficiente.
-
-En todo caso, la aplicación del coeficiente de constructibilidad resultante se sujetará a lo dispuesto en los artículos 1.1.2. y 5.1.11. de esta Ordenanza.
-
-3. Alturas.
-
-El incremento de las alturas quedará igualmente limitado por las normas sobre rasantes y distanciamientos que se aplican al conjunto.
-
-Para efectos de medición de las alturas se estará a lo dispuesto en la definición "Altura de edificación" del artículo 1.1.2. de esta Ordenanza.
-
-4. Tamaños prediales.
-
-Los lotes singulares que constituyen un conjunto armónico podrán consultar tamaños prediales mínimos no inferiores a 60 m2 para viviendas en dos pisos o más y a 100 m2 para viviendas en un piso.
-
-El Plan Regulador Comunal podrá disponer tamaños prediales mínimos mayores a los antes señalados, para este tipo de conjuntos, no superiores a 350 m2, siempre que dicho Plan haya fijado el tamaño predial mínimo para todas y cada una de sus zonas.
+Del mismo modo, en los conjuntos armónicos el aumento de altura no libera del cumplimiento del coeficiente de constructibilidad ya incrementado por la aplicación de los artículos 2.6.5., 2.6.6. y 2.6.7., ni de las rasantes y los distanciamientos establecidos por el respectivo Plan Regulador o a falta de éste o si no contiene norma en la materia, por esta Ordenanza.
 
 ## Capítulo 7.
 
