@@ -1,0 +1,3 @@
+Por decreto MOP Nº318, de fecha 28 de febrero del 2001, se expropió el lote de terreno Nº2-A, superficie 375 m², rol de avalúo 266-20, comuna de Mulchén, para la obra "Camino Mulchén - Quilaco, Sector Puente Granaderos, Km. 0,00000 a Km. 0,45000" y se acordó el valor de indemnización con su propietario Santos Gregorio Montoya Castillo, ascendente a la cantidad de $15.405.570.-.
+
+Fiscal del Ministerio de Obras Públicas.
