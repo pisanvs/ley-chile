@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 149, de 28 de Junio de 1991, se expropiaron los lotes de terreno No. s. 18-B, 26 y 47-A, superficies 13.256, 3.630 y 782,5 respectivamente, roles de avalúos 15006-58 y 5004-70, Comuna de Concepción y Coronel, para la obra Ampliación Ruta 160, Camino Concepción Coronel, y se acordó el precio de las indemnizaciones con sus propietarios: Inmobiliaria e Inversiones del Sur S.A., Iván Francisco, Bolívar del Carmen, Víctor Hugo, José Melchor y Rosa Elcira, todos Alarcón Tejos y Hernán Contreras Rolak, ascendente a las cantidades de $ 18.943.412.-, $ 4.812.900.- y $ 1.047.208.- para los lotes 18-B, 26 y 47-A.-
+
+Fiscal del Ministerio de Obras Públicas.
