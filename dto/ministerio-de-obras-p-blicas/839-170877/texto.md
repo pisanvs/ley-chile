@@ -1,0 +1,3 @@
+Por decreto MOP Nº839, de 22 de marzo de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº34-A, superficie 92m2., rol de avalúo 212-295, comuna de Chimbarongo, Sexta Región, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector J: Km. 151.500,00 al Km. 161.650,00. Posteriormente, por decreto MOP Nº1.781, de 28 de abril del 2000, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de la indemnización con su propietario Pedro Pablo Galaz Vergara, ascendente a la cantidad de $307.428.-
+
+Fiscal del Ministerio de Obras Públicas.
