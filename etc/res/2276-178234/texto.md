@@ -1,0 +1,3 @@
+Por resolución Nº 2.276, de 18 de octubre de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Pichicuy, V Región, individualizada en el artículo 1º) Nº9, del DS Nº652 de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES, BUZOS Y PESCADORES ARTESANALES DE CALETA PICHICUY.
+
+Valparaíso, 18 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
