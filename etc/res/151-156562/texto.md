@@ -1,0 +1,5 @@
+AUTORIZA AL INSTITUTO DE FOMENTO PESQUERO PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 151, de 17 de Febrero de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza al Instituto de Fomento Pesquero, domiciliado en Santiago, para instalar y operar con fines de investigación una planta piloto elaboradora de recursos hidrobiológicos en las líneas de conserva, congelado, semiconserva, fresco-refrigerado y ahumado, en Pedro de Valdivia No. 2633, Santiago, en la que podrá utilizar como materia prima, sardina española, jurel, chorito y caballa. El interesado deberá efectuar el transporte de las especies desde su centro de abastecimiento hasta la planta elaboradora en medios dotados de sistemas adecuados de preservación de la materia prima tales como cajas o contenedores aislados con hielo, cámaras isotérmicas o refrigeradas.
+
+Valparaíso, 17 de Febrero de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
