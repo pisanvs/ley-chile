@@ -1,0 +1,17 @@
+Por decreto exento MOP Nº 1.661, de 30 de noviembre
+
+de 2004, y en base a la facultad otorgada por el
+
+#### Artículo 105
+
+del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron para el Fisco, los lotes de terreno Nºs. 162, 163, 164, 165, 167, 169, 170, 171, 173, 175, 177, 178, 179, 180, 182, 183, 185, 186, 187, 188, 191, 192, 193, 195, 198, 199, 200, 201, 203, 204, 205, 206, 219-A, 219-B, 219-C, 224, 226, 227, 228, 229, 230 y 231, para la obra: Camino Ruta W-853 - Teupa - Queilen, sector Santa María - Queilen, Tramo Km. 25,96000 a Km. 42,34833, que figuran a nombre de Andrade Barría Carlos, Díaz Hernández Secundino, Andrade VD Segovia Rosa, Miranda Andrade Salustio, Márquez Mansilla Ricardo, Vargas Alvarez Miguel, Gómez Bórquez Miguel Suc, Vargas Alvarez María Fidelina, Márquez Miranda Pedro, Andrade Nahuelquin José Amador, Barrientos Saldivia Lucila, Vargas Bilbao Nemesio Suc, Winter Witscheeld Jorge Armand, Macías Gómez Juan, Vargas Pinto Edecia del Carmen, Macías Gómez Adolfo y Barrientos Juan del C., roles de avalúo 111-2, 111-38, 111-3, 113-4, 112-37, 114-49, 112-3, 113-33, 112-10, 112-37, 113-3, 111-1, 114-16, 114-53, 114-5, 114-40, 114-8, 114-39 y 114-14, comuna de Queilen, X Región, superficies 1.855 m².; 3.114 m².; 388 m².; 1.160 m².; 800 m².; 4.001 m².; 1.235 m².; 450 m².; 412 m².;
+
+2.237 m².; 1.472 m².; 5.045 m².; 2.196 m².; 552 m².;
+
+3.735 m².; 2.136 m².; 1.397 m²., 1.853 m².; 703 m².;
+
+2.563 m².; 812 m².; 238 m²., 1.482 m².; 1.507 m².; 1.873 m².; 1.542 m².; 650 m².; 976 m².; 3.185 m².; 2.928 m².;
+
+1.102 m².; 1.815 m².; 151 m².; 164 m².; 186 m².; 312 m².; 59 m².; 67 m².; 105 m².; 68 m².; 112 m² y 152 m². La Comisión de Peritos, fijó con fecha 25 de octubre de 2002, en las cantidades de $408.100, para el lote Nº162, $2.620.080, para el lote Nº163, $85.360, para el lote Nº164, $255.200, para el lote Nº165, $176.000, para el lote Nº167, $880.220, para el lote Nº169, $271.700, para el lote Nº170, $99.000, para el lote Nº171, $90.640, para el lote Nº173, $492.140, para el lote Nº175, $323.840, para el lote Nº177, $1.109.900, para el lote Nº178, $483.120, para el lote Nº179, $121.440, para el lote Nº180, $821.700, para el lote Nº182, $469.920, para el lote Nº183, $307.340, para el lote Nº185, $407.660, para el lote Nº186, $154.660, para el lote Nº187, $563.860, para el lote Nº188, $178.640, para el lote Nº191, $52.360, para el lote Nº192, $326.040, para el lote Nº193, $331.540, para el lote Nº195, $412.060, para el lote Nº198, $339.240, para el lote Nº199, $143.000, para el lote Nº200, $214.720, para el lote Nº201, $700.700, para el lote Nº203, $644.160, para el lote Nº204, $242.440, para el lote Nº205, $399.300, para el lote Nº206, $37.750, para el lote Nº219-A, $41.000, para el lote Nº219-B, $46.500, para el lote Nº219-C, $78.000, para el lote Nº224, $17.700, para el lote Nº226, $20.100, para el lote Nº227, $31.500, para el lote Nº228, $20.400, para el lote Nº229, $33.600, para el lote Nº230 y $45.600, para el lote Nº231. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
