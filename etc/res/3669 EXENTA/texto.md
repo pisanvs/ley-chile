@@ -1,0 +1,3 @@
+Por Resolución Exenta No. 3.669 de fecha 26 de noviembre de 1991 del Ministerio de Educación, se declaró que no se concede el reconocimiento oficial al Centro de Formación Técnica Centro de Estudios e Ingeniería de Sistemas CEEIS, organizado por la Sociedad CEEIS Ltda., ubicado en calle Freire No. 769 de la ciudad de Castro, y se eliminó del Libro de registros de Centros de Formación Técnica el No. 214 de fecha 03 de marzo de 1991 correspondiente a esta institución.
+
+Santiago, 29 de enero de 1992.- Raúl Allard Neumman, Subscretario de Educación.
