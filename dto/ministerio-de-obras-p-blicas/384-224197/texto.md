@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°384, de 31 de mayo de 1996, se expropió el lose de terreno N° 5-A, superficie 700 m2, rol de avalúo 179-73, comuna de Nogales, para la obra Proyecto Paso Superior y Accesos a El Melón, Camino Ruta 5 Norte, por el cual se fijó precio de indemnización con sus propietarios Miguel Angel Ferreira Bruna y otro, ascendente a la cantidad de $ 1.758.540.
+
+Fiscal del Ministerio de Obras Públicas.
