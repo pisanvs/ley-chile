@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.405 de fecha 28 de noviembre de 2003, se expropió el lote de terreno Nº 21-A, superficie 197,68 m2, rol de avalúo Nº 1002-11, comuna de Valparaíso, para la obra "Habilitación Nuevo camino La Pólvora, Km 17,86424 a Km. 22,47179, sector 3, Quebrada Las Animas-Puerto Valparaíso", V Región y se acordó el valor de la indemnización con su propietaria Bernarda de Lourdes Pasten Torres, ascendente a la cantidad de $11.168.075.
+
+- Fiscal del Ministerio de Obras Públicas.
