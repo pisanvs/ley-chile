@@ -1,0 +1,5 @@
+﻿ Ausencia del Director Supremo
+
+Ministerio de Gobierno. - El 2 de Noviembre S. E. el Supremo Director del Estado pasó a Valparaiso a negocios de suma importancia que demanda su personal presencia. Como su ausencia no ha de llegar a quince dias, i esta por tanto fuera del caso de que habla el artículo 119 de la Novísima Constitucion, tuvo a bien delegar i delegó su autoridad suprema en los Excmos. SS. Ministros de Estado señor don Joaquin de Echeverría i Larrain, primer Secretario de Estado del Despacho de Gobierno i Relaciones Esteriores i de Marina, i señor don José Antonio Rodríguez, Secretario de Estado i del Despacho de Hacienda i Guerra para que, como Delegados Supremos, cada uno en su respectivo Departamento i bajo las instrucciones que les comunicó i que deberán observar inviolablemente, despachen en todos los negocios que ocurran durante su ausencia hasta su resolucion definitiva con la misma autoridad que lo hacia S. E. Dejó el mando militar a cargo del Comandante Jeneral de las Armas
+
+(Gaceta Ministerial del 4 de Noviembre de 1822).
