@@ -1,0 +1,3 @@
+Por resolución Nº2.618, de 11 de diciembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº96105021, presentada por DARIO HERNAN VELASQUEZ GONZALEZ para instalar y operar el centro de cultivo ubicado en sector de Punta Chucalén, Estero Quetalmahue, comuna de Ancud, X Región.
+
+Valparaíso, 11 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
