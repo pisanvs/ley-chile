@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 572, de 29 de abril de 1998, se expropiaron los lotes de terreno Nºs 14 y 17, superficies 2.127 y 354 M2., roles de avalúo 4427-2 y 4505-72, comuna de San Bernardo, respectivamente, para la obra Estudio de Anteproyecto e Ingeniería, para el Sistema Norte - Sur, sector Ruta 5 Sur-Departamental y sector Eje General Velásquez y se acordó precio de indemnización con los propietarios Inversiones Valladolid S.A. e Irarrázaval Montes Gustavo, ascendentes a las cantidades de $56.366,160, para el lote Nº14, y $9.727.920, para el lote Nº 17.
+
+Fiscal del Ministerio de Obras Públicas.
