@@ -1,0 +1,3 @@
+Por Resolución Nº 1006 de 9 de Agosto de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año, a contar de la fecha de la presente resolución el plazo otorgado a EXOSUR S.A., R.U.T. Nº 96.539.360-9, en orden a iniciar actividades pesqueras con la nave "Le Crabe Tambour", autorizadas mediante Resolución Nº 935, de 1989, modificada por Resoluciones Nº 1866, de 1989 y Nº 382, de 1990, todas de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 9 de Agosto de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
