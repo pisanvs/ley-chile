@@ -1,0 +1,15 @@
+Por resolución Nº533, de 21 de febrero de 2003, de esta Subsecretaría, autorízase al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco I y II Región".
+
+El objetivo principal consiste en caracterizar y cuantificar la proporción espacio-temporal de las diferentes especies presentes como fauna acompañante de la pesquería de cerco de los recursos hidrobiológicos Anchoveta, Sardina española, Jurel y Caballa.
+
+La pesca de investigación se efectuará en el área marítima de la I y II Regiones, entre la fecha de la presente resolución y el 30 de junio de 2003, ambas fechas inclusive.
+
+Participarán las siguientes naves industriales que cuentan con autorización vigente para operar en las unidades de pesquería de Jurel, de Anchoveta y Sardina española de la I y II Regiones: Corpesca S.A.: Alerce, América 2, Angamos 1, Angamos 2, Angamos 3, Angamos 4, Angamos 9, Audaz, Aventurero, Barracuda IV, Blanquillo, Camiña, Cormorán, Corpesca 1, Don Ernesto Ayala, Don Gino, Eperva 49, Eperva 50, Eperva 51, Eperva 56, Eperva 57, Eperva 58, Eperva 60, Eperva 61, Eperva 62, Eperva 64, Eperva 65, Eperva 66, Gavilán, Huracán, Icalma, Intrépido, Juan Manuel, La Huaica, Livilcar, Manuel Rojas, Mar del Norte, Mar del Plata, Mar del Sur, Mar Tirreno, Marlin, Mero, Pachica, Parina 1, Patillos, Raulí, Relámpago, Reñaca, Roble, Salmón, San Jorge I, Squa, Tacoma, Tambo, Toconao II, Tornado, Trueno 1.- Compañía Pesquera Camanchaca S.A.: Atacama II, Atacama III, Collen, Costa Grande 1, Costa Grande 2, Costa Grande 3, Costa Grande 4, Esturión, Gabriela 1, Huara, Huelén, Licantén, Lingueral, Loa 1, Loa 2, Loa 4, Loa 5, Loa 7, Oficina Germania, Oficina San José, Oficina Vigo, Ralún, Rauco.- Mar Q y M S.A., Pesq.: Coray II.
+
+Asimismo, participarán las siguientes embarcaciones artesanales: Doña Mercedes, Juan Pablo II, Trinquete, Don Rufino, Arkhos II, Alborada, Alborada II, Aries I, Ayllu, Alejandro, Bucanero, Caracol I, Corsario, Don Ubaldo H.Q., Don Fructuoso, Desiderio Rojas, Gracias a Dios II, Gracias a Dios IV, Granada, Gringo Pablo, Guatache, Isaura, Ike II, Kairos, Lobo de Afuera II, Patrono de San Lorenzo, Paciencia I, Santa Carolina II, Tata Pancho, Tritón II, Carmelita III, María Felicia.
+
+Con todo, las naves artesanales e industriales participantes en la presente pesca de investigación podrán capturar sólo aquellas especies objetivo con respecto de las cuales cuenten con autorizaciones para poder extraerlas, y se encuentran inscritas para efectos de lo dispuesto en el artículo 8º de la ley Nº19.713, según correspondiere.
+
+El Instituto designa como persona responsable de esta pesca de investigación a su Director Ejecutivo, don Guillermo Moreno Paredes.
+
+Valparaíso, 21 de febrero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
