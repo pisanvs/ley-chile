@@ -1,0 +1,1 @@
+Autoriza a la Dirección General de Pavimentación rebajar cuentas de pavimentación que deben cobrarse a los vecinos por trabajos ejecutados en el camino de Coquimbo a La Serena.
