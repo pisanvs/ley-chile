@@ -11752,29 +11752,13 @@ Certificado de este Organismo.
 
 2.- Tablas de Desarrollo.
 
-Requisito indispensable para el registro del prospecto, será el envío a esta
+Requisito indispensable para el registro del prospecto, será el envío a esta Superintendencia, para su aprobación, de las tablas de desarrollo correspondientes a las letras de crédito y aquéllas que se utilizarán para los respectivos mutuos hipotecarios. Dichas tablas deben prepararse de acuerdo con las instrucciones del presente capítulo y cuando correspondan a créditos para
 
-Superintendencia, para su aprobación, de las tablas de desarrollo
-
-correspondientes a las letras de crédito y aquéllas que se utilizarán para los
-
-respectivos mutuos hipotecarios. Dichas tablas deben prepararse de acuerdo con
-
-las instrucciones del presente capítulo y cuando correspondan a créditos para
-
-adquisición de viviendas, teniendo presente, también, el Reglamento Financiero
-
-contenido en el Capítulo II.A.2 del Compendio de Normas Financieras del Banco
-
-Central de Chile.
+adquisición de viviendas, teniendo presente, también, el Reglamento Financiero contenido en el Capítulo II.A.2 del Compendio de Normas Financieras del Banco Central de Chile.
 
 2.1.- Tablas de desarrollo de las letras de crédito.
 
-Las tablas de desarrollo de las letras de crédito deberán contener, como mínimo,
-
-los siguientes antecedentes referidos a cada uno de los cupones o períodos de
-
-pago:
+Las tablas de desarrollo de las letras de crédito deberán contener, como mínimo, los siguientes antecedentes referidos a cada uno de los cupones o períodos de pago:
 
 a) Número del cupón;
 
@@ -11788,45 +11772,17 @@ e) Importe de capital adeudado; y,
 
 f) Amortización acumulada del capital.
 
-Sin embargo, cuando se trate de letras de crédito que se emitan con tasa de
+Sin embargo, cuando se trate de letras de crédito que se emitan con tasa de interés flotante, se omitirá señalar los antecedentes referidos en las letras b) y c),dado que dichas cifras dependerán de la tasa de interés que rija al momento de pago efectivo de cada uno de los cupones, pero la amortización y los demás datos deberán calcularse sobre la base de la tasa de interés anual que regirá en la fecha de emisión material de la letra.
 
-interés flotante, se omitirá señalar los antecedentes referidos en las letras b)
+Las tablas de desarrollo deberán estar referidas a una unidad de capital y deberán presentarse con no menos de cuatro decimales.
 
-y c),dado que dichas cifras dependerán de la tasa de interés que rija al momento
+Para el cálculo de las tasas de interés trimestrales, equivalentes a una tasa de interés anual fija, se emplearán no menos de 7 decimales. El séptimo decimal se aumentará al valor inmediatamente superior sólo cuando el octavo sea igual o superior a cinco.
 
-de pago efectivo de cada uno de los cupones, pero la amortización y los demás
-
-datos deberán calcularse sobre la base de la tasa de interés anual que regirá en
-
-la fecha de emisión material de la letra.
-
-Las tablas de desarrollo deberán estar referidas a una unidad de capital y
-
-deberán presentarse con no menos de cuatro decimales.
-
-Para el cálculo de las tasas de interés trimestrales, equivalentes a una tasa de
-
-interés anual fija, se emplearán no menos de 7 decimales. El séptimo decimal se
-
-aumentará al valor inmediatamente superior sólo cuando el octavo sea igual o
-
-superior a cinco.
-
-Aparte del cuadro descrito, se deberá indicar la tasa de interés anual aplicada
-
-y los períodos de amortización o pago de intereses. Cuando corresponda a letras
-
-de crédito con tasa de interés flotante, se indicará, además de la tasa inicial
-
-utilizada para el cálculo de las amortizaciones de capital, la tasa máxima y la
-
-tasa mínima.
+Aparte del cuadro descrito, se deberá indicar la tasa de interés anual aplicada y los períodos de amortización o pago de intereses. Cuando corresponda a letras de crédito con tasa de interés flotante, se indicará, además de la tasa inicial utilizada para el cálculo de las amortizaciones de capital, la tasa máxima y la tasa mínima.
 
 2.2.- Tablas de desarrollo de los mutuos.
 
-Las tablas de desarrollo de los mutuos hipotecarios deberán contener la
-
-siguiente información mínima:
+Las tablas de desarrollo de los mutuos hipotecarios deberán contener la siguiente información mínima:
 
 a)Número del dividendo;
 
@@ -11842,123 +11798,31 @@ f) Saldo de capital adeudado; y,
 
 g) Amortización acumulada.
 
-Al igual que las tablas de desarrollo de las letras de crédito, estas tablas
+Al igual que las tablas de desarrollo de las letras de crédito, estas tablas deberán estar referidas a una unidad de capital y las cifras se expresarán con no menos de cuatro decimales.
 
-deberán estar referidas a una unidad de capital y las cifras se expresarán con
+Cuando la tabla corresponda a mutuos con tasa de interés flotante, no se mencionarán los datos señalados en las letras c) y e), ya que el servicio de la deuda dependerá de la tasa de interés que rija en cada oportunidad. En este caso, se dejará constancia, en la respectiva tabla de desarrollo, de la fórmula que se utilizará para el cálculo de los intereses y que ella se aplicará sobre el saldo insoluto de capital antes del pago del respectivo dividendo. Asimismo, se indicará que en dicha fórmula se empleará la Tasa de Interés Promedio (TIP), que el Banco Central de Chile certifique y publique en el Diario Oficial, en conformidad al Capítulo IV.B.8.1 del Compendio de Normas Financieras, debiendo señalar el límite máximo que dicha tasa podrá alcanzar, como también el mínimo, en el caso que éste se hubiera fijado.
 
-no menos de cuatro decimales.
+A fin de facilitar el cobro de los mutuos hipotecarios y de conformidad con lo dispuesto en el artículo 106 de la Ley General de Bancos, las instituciones
 
-Cuando la tabla corresponda a mutuos con tasa de interés flotante, no se
-
-mencionarán los datos señalados en las letras c) y e), ya que el servicio de la
-
-deuda dependerá de la tasa de interés que rija en cada oportunidad. En este
-
-caso, se dejará constancia, en la respectiva tabla de desarrollo, de la fórmula
-
-que se utilizará para el cálculo de los intereses y que ella se aplicará sobre
-
-el saldo insoluto de capital antes del pago del respectivo dividendo. Asimismo,
-
-se indicará que en dicha fórmula se empleará la Tasa de Interés Promedio (TIP),
-
-que el Banco Central de Chile certifique y publique en el Diario Oficial, en
-
-conformidad al Capítulo IV.B.8.1 del Compendio de Normas Financieras, debiendo
-
-señalar el límite máximo que dicha tasa podrá alcanzar, como también el mínimo,
-
-en el caso que éste se hubiera fijado.
-
-A fin de facilitar el cobro de los mutuos hipotecarios y de conformidad con lo
-
-dispuesto en el artículo 106 de la Ley General de Bancos, las instituciones
-
-financieras deberán protocolizar las tablas de desarrollo en una Notaría, para
-
-dejar constancia, posteriormente, en cada una de las escrituras de mutuo, de la
-
-tabla que es aplicable a la deuda.
+financieras deberán protocolizar las tablas de desarrollo en una Notaría, para dejar constancia, posteriormente, en cada una de las escrituras de mutuo, de la tabla que es aplicable a la deuda.
 
 2.3.- Tablas de desarrollo aplicables a créditos para adquisición de vivienda.
 
-Las instituciones financieras podrán omitir el envío de las tablas de desarrollo
+Las instituciones financieras podrán omitir el envío de las tablas de desarrollo de las letras de crédito para vivienda cuando deseen utilizar las tablas de uso general que fueron entregadas por esta Superintendencia a cada institución financiera y que se identifican en el Anexo N° 11 de este capítulo. En tal caso,bastará señalar el código que identifica la tabla y mencionar si las letras estipulan una tasa de interés fija o flotante. Si fueren con tasa flotante, se indicará, también, si la tasa quedará o no sujeta a un límite mínimo.
 
-de las letras de crédito para vivienda cuando deseen utilizar las tablas de uso
+En todo caso, para construir una tabla de desarrollo de letras de crédito para vivienda con tasa fija, en la cual se basan también las amortizaciones de capital de aquéllas que se emiten con tasa variable, debe tenerse presente,además de lo indicado en el numeral 2.1 anterior, que el factor correspondiente al valor del cupón será siempre el mismo, excepto el último que podrá ser diferente por efecto del cálculo.
 
-general que fueron entregadas por esta Superintendencia a cada institución
+El valor presente que se determine no deberá contener una diferencia superior o inferior a 0,0005 unidades, para una obligación o deuda referida a 1 UF o IVP.
 
-financiera y que se identifican en el Anexo N° 6 de este capítulo. En tal
+Debido a que la modalidad de cobro de las comisiones y el monto de éstas dependerán de las opciones elegidas por cada institución financiera, las tablas de desarrollo de los mutuos deberán enviarse siempre a esta Superintendencia.
 
-caso,bastará señalar el código que identifica la tabla y mencionar si las letras
-
-estipulan una tasa de interés fija o flotante. Si fueren con tasa flotante, se
-
-indicará, también, si la tasa quedará o no sujeta a un límite mínimo.
-
-En todo caso, para construir una tabla de desarrollo de letras de crédito para
-
-vivienda con tasa fija, en la cual se basan también las amortizaciones de
-
-capital de aquéllas que se emiten con tasa variable, debe tenerse
-
-presente,además de lo indicado en el numeral 2.1 anterior, que el factor
-
-correspondiente al valor del cupón será siempre el mismo, excepto el último que
-
-podrá ser diferente por efecto del cálculo.
-
-El valor presente que se determine no deberá contener una diferencia superior o
-
-inferior a 0,0005 unidades, para una obligación o deuda referida a 1 UF o IVP.
-
-Debido a que la modalidad de cobro de las comisiones y el monto de éstas
-
-dependerán de las opciones elegidas por cada institución financiera, las tablas
-
-de desarrollo de los mutuos deberán enviarse siempre a esta Superintendencia.
-
-Estas tablas de desarrollo deberán construirse sujetándose a la tabla de las
-
-respectivas letras de crédito, de manera que la amortización más los intereses
-
-de tres dividendos mensuales del mutuo, debe corresponder al valor del cupón
-
-trimestral de la letra. El servicio de la deuda deberá efectuarse por medio de
-
-dividendos mensuales anticipados que comprendan amortización, intereses y
-
-comisión, en tanto que los cupones de las respectivas letras de crédito
-
-incluirán la amortización y el interés pagadero trimestralmente, en forma
-
-vencida.
+Estas tablas de desarrollo deberán construirse sujetándose a la tabla de las respectivas letras de crédito, de manera que la amortización más los intereses de tres dividendos mensuales del mutuo, debe corresponder al valor del cupón trimestral de la letra. El servicio de la deuda deberá efectuarse por medio de dividendos mensuales anticipados que comprendan amortización, intereses y comisión, en tanto que los cupones de las respectivas letras de crédito incluirán la amortización y el interés pagadero trimestralmente, en forma vencida.
 
 2.4.- Aprobación de las tablas de desarrollo.
 
-Los plazos establecidos en el Reglamento Financiero del Banco Central de Chile
+Los plazos establecidos en el Reglamento Financiero del Banco Central de Chile para la aprobación por parte de esta Superintendencia de las tablas de desarrollo presentadas por las instituciones financieras, se contarán desde la fecha de presentación a este Organismo de los respectivos prospectos, siempre que éstos no sean objetados por falta de antecedentes, deficiencias en su preparación u otras causas. En el caso de rechazo de un prospecto por alguno delos motivos señalados, el plazo de aprobación de las respectivas tablas de desarrollo, se contará desde la fecha en que dichos reparos hayan sido solucionados.
 
-para la aprobación por parte de esta Superintendencia de las tablas de
-
-desarrollo presentadas por las instituciones financieras, se contarán desde la
-
-fecha de presentación a este Organismo de los respectivos prospectos, siempre
-
-que éstos no sean objetados por falta de antecedentes, deficiencias en su
-
-preparación u otras causas. En el caso de rechazo de un prospecto por alguno
-
-delos motivos señalados, el plazo de aprobación de las respectivas tablas de
-
-desarrollo, se contará desde la fecha en que dichos reparos hayan sido
-
-solucionados.
-
-En cualquier caso, las instituciones financieras no podrán comprometer
-
-operaciones sobre la base de tablas de desarrollo que aún no hayan sido
-
-autorizadas por esta Superintendencia.
+En cualquier caso, las instituciones financieras no podrán comprometer operaciones sobre la base de tablas de desarrollo que aún no hayan sido autorizadas por esta Superintendencia.
 
 3.- Condiciones materiales de emisión.
 
@@ -14486,7 +14350,7 @@ CODIGO DE TABLAS TASA DE INTERES ANUAL (%) PLAZO (AÑOS)
 
 07012 7,0 12
 
-07015 7,0 16
+07015 7,0 15
 
 07020 7,0 20
 
@@ -14496,7 +14360,7 @@ CODIGO DE TABLAS TASA DE INTERES ANUAL (%) PLAZO (AÑOS)
 
 07503 7,5 3
 
-07505 7,5 6
+07505 7,5 5
 
 07508 7,5 8
 
@@ -14504,7 +14368,7 @@ CODIGO DE TABLAS TASA DE INTERES ANUAL (%) PLAZO (AÑOS)
 
 07512 7,5 12
 
-07515 7,5 16
+07515 7,5 15
 
 07520 7,5 20
 
@@ -14536,7 +14400,7 @@ CODIGO DE TABLAS TASA DE INTERES ANUAL (%) PLAZO (AÑOS)
 
 08520 8,5 20
 
-09003 8,0 3
+09003 9,0 3
 
 09005 9,0 5
 
