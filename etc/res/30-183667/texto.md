@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 30, de fecha 16 de marzo de 1995, se aprobó la disolución voluntaria de la Cooperativa de Vivienda y Servicios Habitacionales "Nueva Provincia" Limitada, de Talagante, Coohanpro, que consta en la escritura pública suscrita con fecha 10 de enero de 1995, ante el Notario Público de Talagante, doña María Eugenia Le-Bert Acheritogaray.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
