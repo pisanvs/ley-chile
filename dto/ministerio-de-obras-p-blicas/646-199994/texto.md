@@ -1,0 +1,3 @@
+Por decreto MOP Nº646 de fecha 28 de marzo del 2002, se expropiaron los lotes de terreno Nºs. 26-A, 28-A, superficie 560 y 23.650 m² respectivamente, Rol Nº53-12, comuna de La Estrella, para la obra ''Proyecto Mejoramiento Ruta I-20, Sector Los Maitenes - La Estrella - Las Damas, Km. 20,500 al Km. 27,715317'' y se acordó el valor de indemnización con su propietario Héctor Hernán Osorio Osorio, ascendente a la cantidad de $30.135.079.-
+
+Fiscal del Ministerio de Obras Públicas.
