@@ -1,0 +1,5 @@
+AUTORIZA A LA COMPAÑIA PESQUERA SAN PEDRO S.A.C.I. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS
+
+Por resolución Nº 255, de 18 de Julio de 1983 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Compañía Pesquera San Pedro S.A.C.I., domiciliada en Santiago, para operar dos embarcaciones, de características similares, actualmente en construcción, en la zona del litoral comprendida entre la I y la II Región, en labores extractivas de jurel, sardina común, sardina española, caballa, anchoa, agujilla, bonito, cojinova del Sur, cojinova del Norte, pejegallo, corvina, lenguado, cabrilla, sierra, chancharro, congrio dorado, congrio negro, congrio colorado, merluza común, merluza española, merluza de cola y merluza de tres aletas.
+
+Santiago, 18 de Julio de 1983.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
