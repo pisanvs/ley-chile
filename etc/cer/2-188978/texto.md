@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A ASERRADEROS TILLERIA LIMITADA
+
+Núm. 2.- Certifico que Aserraderos Tillería Limitada, RUT Nº 78.181.040-1, domiciliada en camino Constitución a San Javier km. 12, comuna de Constitución, cuyo representante legal es Hugo Tillería Torres, RUT Nº 6.044.498-6, cumple todos los requisitos y exigencias establecidas en resolución Nº ex. 4.916 de 31.10.2000, de la Dirección Nacional del Servicio de Impuestos Internos, y que en consecuencia tiene la calidad de agente retenedor del Impuesto al Valor Agregado, en las adquisiciones de madera que efectúe durante el período comprendido entre el día 1 del mes siguiente al de la pubicación en el Diario Oficial, de este certificado, lo que regirá en forma indefinida.
+
+Talca, 7 de agosto de 2001.- Mirtha Barra Paredes, Directora Regional.
