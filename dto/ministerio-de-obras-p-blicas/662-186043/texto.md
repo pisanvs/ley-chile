@@ -1,0 +1,3 @@
+Por decreto MOP Nº662, de 12 de abril de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº 4. Obra: Camino Ruta G-420, sector Camino a Naltagua Tramo Km. 0,000 al Km. 7,700, que figura a nombre de la Suc. Alcalde Irarrazabal Patricio, rol de avalúo 2509-3, comuna de Isla de Maipo, superficie 1.190 M2. La comisión de peritos fijó con fecha 3 de septiembre de 1998, en la cantidad de $3.708.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
