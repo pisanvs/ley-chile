@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.105 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 84, superficie 7.887 m2. rol de Avalúo en trámite, comuna de Pelluhue, para la obra "Camino Chovellen - Cobquecura, Sector: Chovellen - Límite Regional, Tramo 18,260.00 a Km. 35,158.60, Comuna de Pelluhue, Provincia de Cauquenes", VII Región y se acordó el valor de la indemnización con su propietario José Viterbo Vega Lepe, ascendente a la cantidad de $15.718.199.
+
+Fiscal del Ministerio de Obras Públicas.
