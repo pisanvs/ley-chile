@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.141, de 28 de diciembre de 2001, se expropió el lote de terreno Nº9, superficie 130 m2, rol de avalúo 3405-7, comuna de Vitacura para la obra Concesión Internacional Sistema Oriente- Poniente Zona Oriente: Estoril-Tabancura. Tramo 9: de Kms.-0.050,00 al 2.751,70, Región Metropolitana y se acordó el valor de indemnización con su propietario Viel Propiedades Dos Limitada, ascendente a la cantidad de $49.337.731.- para el lote Nº9.-
+
+Fiscal del Ministerio de Obras Públicas.
