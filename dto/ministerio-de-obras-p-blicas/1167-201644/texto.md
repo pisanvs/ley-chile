@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.167, de 12 de julio de 2002 se dejó sin efecto el decreto MOP Nº2127 de 28 de diciembre de 2001, que ordenó la expropiación del lote 3-B, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli. Sector: Km. 518.100,00 al 518.600,00, por no ser necesario para la ejecución de ésta. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186 de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
