@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.116, de 30 de marzo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs.
+
+5, 9, 19, 20, 25 y 26, para la ejecución de la obra Camino Cauquenes - Límite Regional - Quirihue, Sector Cauquenes - Límite Regional, Km. 0.00 a Km. 17.780,00, que figuran a nombre de Luis Landeros Aravena, Ciro Urrutia Hormazábal, Sergio Medel Recabal y José Aurelio Díaz Pereira, roles de avalúo Nºs. 426-3, 427-105, 426-8 y 427-32, de la comuna de Cauquenes, VII Región, superficies 3.288; 92; 753; 553; 1.318,5 y 871 M2. La Comisión de Peritos compuesta fijó con fecha 7 de abril de 1997, el valor provisional de la indemnización en la cantidad de $527.280, lote 5; $20.680, lote 9; $45.180, lote 19; $33.180, lote 20; $1.337.110, lote 25 y $980.970, lote 26. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
