@@ -1,0 +1,5 @@
+Por resolución exenta Nº 625, de 4 de marzo de 2005, de esta Subsecretaría, rectifícase el numeral 1º de la resolución Nº 387 de 2005, que modificó la resolución Nº 268 de 2005, ambas de esta Subsecretaría, en el sentido de incorporar el siguiente inciso 2º:
+
+"Asimismo, modifícase el numeral 4º de la resolución Nº 267 de 2005, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, RUT Nº 81.518.400-9, domiciliada en Larrondo Nº 1281, Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las agregaciones de jurel en la IV Región, temporada 2005", en el sentido de incorporar a la embarcación artesanal "Nerón" en la presente pesca de investigación.".
+
+Valparaíso, 4 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
