@@ -422,7 +422,11 @@ Los notarios ganarán en el ejercicio de los actos de su ministerio los derechos
 
 7.o Por asistencia a juntas jenerales de accionistas de sociedades anónimas, cien pesos
 
-8.o Por protestos de letra, notificaciones de ofertas de pago y demas dilijencias similares no expresamente consideradas en esta lei veinticinco pesos, si fuere dentro del radio urbano de la ciudad y cinco pesos mas por cada diez cuadras de exceso;
+8.o Por protesto de letras dentro de los límites urbanos fijados por la respectiva Municipalidad de cada ciudad: hasta ciento cincuenta pesos, veinte pesos; de ciento cincuenta y un peso a mil, treinta pesos; de mil un peso a dos mil; treinta y cinco pesos; de dos mil un peso a cinco mil, cuarenta pesos; de cinco mil un peso, a diez mil, cuarenta y cinco pesos; superiores a diez mil pesos, cincuenta pesos.
+
+Estos derechos se aumentarán en cincuenta centavos, por cada cuadra de exceso, fuera de los límites urbanos.
+
+Por notificaciones de oferta de pago y demás diligencias similares, no expresamente contempladas en esta ley, veinticinco pesos;
 
 9.o Por cada notificacion de prenda o cesion, diez pesos;
 
