@@ -1,0 +1,3 @@
+Por resolución exenta Nº 881, de 30 de marzo de 2004, de esta Subsecretaría, modifícase el número 4 de la resolución Nº 113 de 2004, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Distribución espacio - temporal de las agregaciones de jurel en la III Región, temporada 2004", en el sentido de eliminar las embarcaciones "Don Eleuterio" y "Doña Anita", e incorporar las naves "Chubasco", "Oso Yogui", "Pionero", "Don Esteban" y "Rocío II".
+
+Valparaíso, 30 de marzo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
