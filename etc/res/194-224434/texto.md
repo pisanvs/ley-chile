@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 194, 7 abril 2004, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Paicaví Nº 1501, Rol de Avalúo Nº 652-8, comuna Concepción, superficie 468,95 m². de terreno y 54,51 m². de edificación, dentro polígono y linderos señalados plano expropiación S8R-18392; de aparente dominio de Pablo Butikofer Robles y otros, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Patricia Cecilia Palacios González, arquitecto, Luis Soto Abarca, arquitecto, y Leonardo Esteban de la Fuente Vera, constructor civil, según informe de fecha 4 de marzo de 2004, fijó monto provisional indemnización en $57.154.558.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
