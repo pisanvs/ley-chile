@@ -1,0 +1,3 @@
+Por decreto MOP Nº 229, de 31 de enero de 2000, se expropió el lote de terreno Nº 72-1, superficie 44 m², rol de avalúo 136-738, comuna de Paine, para la obra Concesión Internacional Ruta 5 Tramo: Santiago-Talca Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietaria Corina Fresia Cuevas González, ascendente a la cantidad de $890.294.
+
+- Fiscal del Ministerio de Obras Públicas.
