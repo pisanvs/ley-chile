@@ -1,0 +1,3 @@
+Por decreto MOP Nº 527 de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 53, superficie 1.948 m2, rol de avalúo 63-92, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Acceso Pedregoso - Liucura, Km. 141,00000 al Km. 158,54000" y se acordó el valor de indemnización con su propietario Mariano Mellado Zúñiga, ascendente a la cantidad de $408.810.-
+
+Fiscal del Ministerio de Obras Públicas.
