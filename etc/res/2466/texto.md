@@ -1,0 +1,5 @@
+DELEGA EN EL JEFE DEL DEPARTAMENTO REGIONAL DE AVALUACIONES FACULTAD QUE INDICA
+
+Por resolución exenta N° 2466, de 25 de Abril de 1994, el Director Regional Metropolitana Santiago Oriente, delega en el Jefe del Deptartamento Regional de Avaluaciones, la facultad de autorizar, mediante resolución fundada, para deducir del precio estipulado en el contrato de venta o promesa de venta de un bien inmueble, el valor efectivo de adquisición del terreno para los efectos de determinar la base imponible del Impuesto al Valor Agregado. Esta facultad delegatoria se ejerce conforme a los términos establecidos en resoluciones Ex. N° 618 de 15 de febrero de 1994 del Director del Servicio de Impuestos Internos, publicada en el Diario Oficial de 19.02.94, modificatoria de la resolución Ex. N° 968 de 11.03.92, publicada Diario Oficial de 16.03.92, modificada, a su vez, por resolución Ex. N° 2410 de 25.06.92, publicada Diario Oficial de 04.07.92.-
+
+Bernardo Seaman González, Director Regional Metropolitana Santiago Oriente.
