@@ -1,0 +1,3 @@
+Por decreto MOP Nº 513, de 28 de febrero del 2000, se expropió el lote de terreno Nº 395, superficie 128 m², rol de avalúo 7854-12, comuna de La Pintana, para la obra Concesión Internacional Ruta 5 Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Juan Zenón Sáez Bascur, ascendente a la cantidad de $10.235.832.-.
+
+Fiscal del Ministerio de Obras Públicas.
