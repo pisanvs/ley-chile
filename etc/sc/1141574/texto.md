@@ -1,0 +1,11 @@
+Avalúo de mercaderías
+
+Excmo. Señor:
+
+Si parecen incontestables los fundamentos espuestos por el Tribunal del Consulado sobre la solicitud del vista de entradas de la Aduana jeneral sobre la variacion o reforma del artículo 161 del reglamento del año 1813, no encuentra el Senado un antecedente para la intentada variacion; i si será justo que reencargándose el mas exacto i puntual cumplimiento de esa lei, se prevenga que sin disimulo se cumpla con ella, ordenando a los comerciantes que en el examen de los valores que haya dado el vista a los efectos que entran en Aduana, se conduzcan con la imparcialidad que debe ser propia en los que van a juzgar los derechos ajenos; i que en el caso de omitir alguna formalidad en el desempeño de la comision, o de notárseles parcialidades opuestas al orden, serán correjidos con la seriedad que exijan las circunstancias. Prescindiendo de las razones que anuncia la Contaduría Mayor para que no se haga alteracion en el recordado artículo, halla el Senado que esto daria márjen a otros inconvenientes de mucha trascendencia; i por lo tanto deberá ordenarse su ejecucion.
+
+Dios guarde a V. E. mucho años.- Sala del Senado, Marzo 11 de 1822.- Francisco de Borja Fontecilla- José María Villarreal, secretario.- Excmo. Señor Supremo Director de la República.
+
+Santiago, 18 de Marzo de 1822.- Debiendo establecerse por el nuevo Reglamento de comercio libre que trabaja la comision nombrada al efecto un sistema de avalúos que conciliando los derechos del comerciante con los del Fisco establezca en su propia sencillez la claridad i la justicia, se guardará entretanto el artículo 161 del de 1813 para los casos de reclamo, con la calidad que no se omita formalidad de las prevenidas en él, i de que en el caso de advertirse ménos delicadeza o contemplacion en los comerciantes nombrados para rectificar los aforos, serán separados en el acto, i escarmentados con una multa pecunaria proporcionada a las circunstancias.
+
+Tómese razon en el Tribunal de Cuentas i en la Aduana jeneral; imprímase i pásese el espediente a la comision del Reglamento de Comercio.- O'Higgins.- Rodríguez.
