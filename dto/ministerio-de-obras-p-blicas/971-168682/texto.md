@@ -1,0 +1,3 @@
+Por decreto MOP Nº971, de 30 de marzo del 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº15.840, se expropió el lote de terreno Nº4, para la obra Camino Ruta I124, Sector Central Rapel - Litueche, que figura a nombre de Enrique Vargas Cáceres, rol de avalúo 39-18, comuna de Litueche, superficie 400 m². La Comisión de Peritos fijó con fecha 14 de diciembre de 1998, el valor provisional de la indemnización en la cantidad de $300.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
