@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 142 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº 1, superficie 451 m2, Rol Nº 127-80, comuna de El Carmen, VIII Región para la obra "Proyecto Laja Diguillín Descarga Dren Nº 4", Km. 0,021 al Km. 0,528" y se acordó el valor de indemnización con su propietario Gabriela Alicia González Vallejos y Otros, ascendente a la cantidad de $185.704.
+
+Fiscal del Ministerio de Obras Públicas.
