@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 1.148, de 28 de noviembre de 1997, se expropiaron los lotes de terreno Nºs 3, 3-A, 3-A1, 3-B, 48, y 48-A, superficies 14.122, 30.556, 712, 71.058, 4.743 y 4.966 M2. respectivamente, rol de avalúo 9318-2, comuna de Valparaíso, para la obra Habilitación Nuevo Camino La Pólvora, Etapa I, Sector Ruta 68 Acceso Sur a Valparaíso, Sector Placilla - Puertas Negras y se acordó precio de indemnización con su propietario Sociedad Forestal Valparaíso S.A., ascendente a la cantidad de $483.107.736.
+
+Fiscal del Ministerio de Obras Públicas.-
