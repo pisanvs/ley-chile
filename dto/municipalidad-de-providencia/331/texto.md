@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION DE TERRENO QUE INDICA
+
+Alcaide subrogante de la I. Municipalidad de Providencia, mediante DA No. 331, de 12 de Febrero de 1987, dispone expropiación parcial, conforme Decreto Supremo No. 458, de Vivienda, de 1976 y Decretos Leyes 1.289, 2.186 y 3.464, de inmueble ubicado en Avda. Francisco Bilbao No. 2016 - 2018, rol de Avalúos No. 2728-46, aparentemente de propiedad de don Eduardo Moore Rodríguez, para el ensanche de Avda. Francisco Bilbao Deslindes parte expropiación.- Al Norte, 13,70 mts. con resto de la propiedad que se expropia; Sur, 13,70 mts. con Avda. Francisco Bilbao; Oriente, 5 mts. con Rol No. 2728-47 y Poniente, 5 mts. con ensanche existente, y Rol No. 2728-45. Indemnización provisional $ 2.350.500.- determinada por Comisión integrada por señores Pastor Correa Prats, Pablo Risopatrón Garmendia y Hernán Cerda Correa, según informe de fecha 30 de Enero de 1987.
+
+Jorge O. Herrera Ramírez, Alcaide Subrogante. Priscilla Doerr Pairoa, Secretario Abogado Municipal Subrogante.
