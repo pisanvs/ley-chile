@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD "PRODUCTOS MARITIMOS Y AGROPECUARIOS HIGH TECH CHILE LTDA." PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 229, de 25 de Abril de 1985, de la Subsecretaría de Pesca dd Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad "Productos Marítimos y Agropecuarios High Tech Chile Ltda.", domiciliada en Concepción, para elaborar en la línea de congelado, los recursos hidrobiológicos que a continuación se indican, en las instalaciones del Centro de Capacitación Artesanal Lo Rojas, ubicado en Coronel, VIII Región: congrio dorado, congrio negro, corvina, jurel, merluza común, mero o bacalao, raya, almeja o taca, almeja, caracol trumulco, chorito, loco, macha, navajuela o berberecho, camarón nailon, centolla, langostino colorado, jaiba, erizo y cochayuyo.
+
+Santiago, 25 de Abril de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
