@@ -1,0 +1,5 @@
+AUTORIZA A DON HAN SAN CHANG TENG PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 72, de 01 de Febrero de 1985 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Han San Chang Teng, de nacionalidad china, RUT 9.669.037-1, domiciliado en Nicasio Retamales 132, Santiago, para elaborar en la línea de congelado, en las instalaciones de Frigorífico La Granja, ubicadas en Santiago, las especies loco, ostión, caracol trumulco, corvina, congrio negro, congrio dorado, congrio colorado, merluza común, camarón nylon, langostino colorado, langostino amarillo, jaiba, tiburón, raya, erizo y jurel. Además, conforme a lo dispuesto en el artículo 6° del decreto de Economía N° 175, de 1980, se declara la caducidad de la resolución N° 570, de 03 de Diciembre de 1984, de la misma Subsecretaría.
+
+Santiago, 01 de Febrero de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
