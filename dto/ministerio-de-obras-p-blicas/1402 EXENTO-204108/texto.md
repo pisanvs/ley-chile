@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.402, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº30, superficie 23 m2, rol de avalúo 152-25, comuna de Linares, VII Región, para la obra ''Camino Ruta K-620, Sector Culenar - Maule Km. 0,000.00 al 10,520.00'' y se acordó el valor de indemnización con su propietario doña Jovita del C. Yáñez Eneros, ascendente a la cantidad de $334.620.-
+
+Fiscal del Ministerio de Obras Públicas.
