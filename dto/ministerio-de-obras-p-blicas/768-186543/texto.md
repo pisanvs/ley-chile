@@ -1,0 +1,3 @@
+Por decreto MOP Nº 768, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 46, superficie 9.013,00 m², rol de avalúo 384-7, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, Expropiaciones Red Primaria 2/5, Derivado Comuy, Sector Km. 6.120,36 al 10.016,42" y se acordó el valor de indemnización con su propietario Iván F. Brun Sandoval, ascendente a la cantidad de $8.427.487.-
+
+Fiscal del Ministerio de Obras Públicas.
