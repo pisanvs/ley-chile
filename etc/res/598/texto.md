@@ -1,0 +1,13 @@
+EXTRACTOS DE RESOLUCIONES
+
+Por Resolución N° 598 de 22 de Mayo de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a SOCIEDAD PRODUCTOS MARINOS SEAWEEDS LIMITADA, R.U.T. N° 89.140.900-1, domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras que tienen autorizadas por resolución N° 822, de 1985, de esta Subsecretaría, en orden a incluir en las líneas de elaboración de congelado, conserva y deshidratado, en la planta industrial autorizada por la Resolución antes citada, los siguientes recursos hidrobiológicos: Albacora o pez espada, Anchoa o Anchoveta, Anguila, Atún aleta amarilla, Atún aleta larga, Bacalao de profundidad o Mero, Bonito, Caballa, Cojinoba del Sur, Corvina, Dorado, Jurel, Lenguado de ojos chicos, Lenguado de ojos grandes, Marrajo o tiburón, Merluza de tres aletas, Palometa, Pejegallo, Pejeperro, Pejesapo, Puye, Salmón del Atlántico, Salmón del Pacífico, Salmón Keta, Salmón plateado (coho), Salmón rey, Sierra, Tollo, Trucha arco iris, Caracol tegula, Caracol de profundidad, Chiton, Chocha, Culengue, Jibia, Macha, Navajuela, Navaja de mar, Ostra chilena, Ostra del pacífico, Camarón de roca, Camarón de río del Norte, Camarón nailón, Cangrejo panchote, Gamba, Krill, Jaiba, Jaiba mora, Langostino amarillo y Langostino de los canales. Asimismo, la peticionaria podrá incorporar en la planta industrial antes referida, las líneas de elaboración de fresco, seco, seco-salado, ahumado y aceite de pescado, donde podrá procesar los recursos hidrobiológicos antes señalados.
+
+Para elaborar el recurso ostión del Norte, la interesada deberá acreditar su procedencia de zonas no afectas a restricción, mediante Guías de Libre Tránsito otorgadas por el Servicio Nacional de pesca.
+
+Las especies Salmón del Atlántico, Salmón del Pacífico, Salmón Keta, Salmón plateado, Salmón rey, Trucha arco iris y Ostra del Pacífico, deberán provenir de centros de cutivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria, para procesar en la planta industrial a que se refiere el presente Extracto, el recurso hidrobiológico Langostino colorado, de conformidad a lo establecido en el Decreto N° 421, de 1989, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 22 de Mayo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
