@@ -1,0 +1,5 @@
+Por Decreto MOP. N° 44, de 23 de Febrero de 1995, en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N° 294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropió el lote de terreno N° 12, para la construcción de la obra Línea N° 5 del Metro de Santiago, sector San Eugenio (Estación Ñuñoa - Avenida Matta), que figura a nombre de Empresa de Ferrocarriles del Estado, rol de avalúo 3000-8, comuna de Ñuñoa, Región Metropolitana, superficie N° 280 M2. La Comisión de Peritos integrada por los señores René Ureta Koster, Jorge Navarro Navarrete y Ramón Undurraga Montes, fijó con fecha 27 de febrero de 1994, el valor provisional de la indemnización en la cantidad de $18.032.000.-. La indemnización se pagará al contado.
+
+La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
