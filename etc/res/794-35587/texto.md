@@ -1,0 +1,3 @@
+Por Resolución N° 794 de 8 de octubre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 635, de 1988, de esta Subsecretaría de Pesca, que autorizó a don PATRICIO OSVALDO ASENJO GARCIA, R.U.T. N° 10.044.301-5, domiciliado en la ciudad de Maullín, La Pasada, para operar un establecimiento de cultivo del recurso alga Gracilaria, en el Río Maullín, Provincia de Llanquihue, X Región, por haberse caducado por D.S. (M) N° 422, de 1993, del Ministerio de Defensa Nacional la concesión marítima de acuicultura.
+
+Valparaíso, 8 de octubre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
