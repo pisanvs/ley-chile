@@ -1,0 +1,5 @@
+REVOCA CALIDAD DE AGENTE RETENEDOR DEL IVA A COMERCIAL SUPERMERCADOS RANCAGUA S.A.
+
+La XIV Dirección Regional Metropolitana Santiago Poniente del SII, por resolución Ex Nº 873 de 14 de junio de 2004, revoca a contar del 1º del mes siguiente al de esta publicación, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las operaciones de ventas de carnes y servicios de faenamiento, autorizada mediante Certificado Nº 55 del 21/08/1998, de conformidad a lo dispuesto en la resolución Nº Ex 2.705 del 07/05/1998 (D.O. 12/05/1998), modificada y complementada por la Res. Nº Ex 3.784 de 25/06/1998 (D.O. 30/06/1998) de la Dirección Nacional del Servicio de Impuestos Internos, a la empresa Comercial Supermercados Rancagua S.A., RUT Nº 87.678.300-2.-
+
+Jorge A. de Calisto Bravo, Director Regional.
