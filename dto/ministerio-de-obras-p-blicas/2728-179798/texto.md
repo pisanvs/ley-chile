@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.728, de fecha 30 de junio de 2000, se expropió el lote de terreno Nº14, superficie 3.008,08 m², rol de avalúo 1130-24, comuna de Castro, para la obra ''Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid-Pid)-Putemún-Dalcahue, Km. 0,000 al 11,991647'', y se acordó el valor de indemnización con su propietario Orta del Carmen Sánchez Barrientos, ascendente a la cantidad de $26.351.762.-
+
+Fiscal del Ministerio de Obras Públicas.
