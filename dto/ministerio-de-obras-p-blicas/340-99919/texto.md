@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 340, de 31 de marzo de 1998, se expropió el lote de terreno No. 28, superficie 2.119,3 m.., rol de avalúo 2141-164, comuna de Puerto Montt, para la obra Camino Ampliación Ruta 5 Sur, Sector Puerto Varas-Puerto Montt, y se acordó precio de indemnización con su propietario Rafael Joaquín Rodríguez Daguerre, ascendente a la cantidad de $ 4.588.348.
+
+- Fiscal del Ministerio de Obras Públicas.
