@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE SEÑALA
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1.453 de 29 de Agosto de 1988, conforme art. 5° transitorio Código Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden al Sector Excluido y Sector Expropiado predio "Malloco", de la comuna de Peñaflor, Región Metropolitana y Derechos Aprovechamiento Aguas que corresponden a Parcelas N°s. 1 a la 20; sitios N°s. 1 al 20; Reservas Cooperativas N°s. 1, 2 y 4 y Bienes Comunes Generales N°s. 2 y 3 del Proyecto de División de los terrenos de la Cooperativa de Reforma Agraria Asignataria Malloco Limitada, formado por predio señalado. Los derechos de aguas se extraen del Canal Santa Cruz; del pozo profundo 3330-7050 D-38; de los excedentes del Canal Undurraga que vierten por la compuerta de descarga frente a la parcela No. 3 del Proyecto y de los derrames de la Chacra Santa Virginia y del Fundo Délano. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
