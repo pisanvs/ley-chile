@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 920, de fecha 30 de junio de 2004, se expropió el lote de terreno Nº 5, superficie 409 m²., Rol Nº 445-21, comuna de Gorbea, IX Región para la obra "Reposición, Construcción y Habilitación de caminos para vialidad complementaria concesión internacional Ruta 5 Sur, sector Temuco - Río Bueno - Puerto Montt, Camino Conexión Calle de Servicio 2 (Sector Santa Juana)" y se acordó el valor de indemnización con su propietario Serio Alfonso Vidal Rubio, ascendente a la cantidad de $405.523.
+
+Fiscal del Ministerio de Obras Públicas.
