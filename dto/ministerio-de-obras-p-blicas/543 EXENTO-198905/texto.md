@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 543 de fecha 30 de abril del 2002, se expropiaron los lotes de terreno Nºs 108 y 109-A, superficie 14 y 39 m2 respectivamente, Sin Rol, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al 70,000, Etapa III'', y se acordó el valor de indemnización con su propietario Ramiro Velis Páez, ascendente a la cantidad de $196.699.
+
+Fiscal del Ministerio de Obras Públicas.
