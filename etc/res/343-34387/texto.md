@@ -1,0 +1,5 @@
+Por Resolución N° 343, de 30 de marzo de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA BORQUEZ LTDA., R.U.T. N° 79.960.710-7, para ampliar actividades pesqueras en orden a operar la planta ubicada en la localidad de Auchac, Comuna de Quellón en las líneas de elaboración de fresco-enfriado y conserva, los siguientes recursos hidrobiológicos: Bacalao de profundidad, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Merluza común, Merluza de cola, Merluza del sur, Raya, Salmón del Atlántico, Salmón del Pacífico, Sierra, Tollo, Trucha arcoiris, Almeja o taca, Calamar, Caracol tegula, Cholga, Chorito, Navaja de mar o huepo, Lapa, Macha, Navajuela, Centellón, Jaiba, Erizo.
+
+Cadúcase la Resolución N° 611, de 1993, de esta Subsecretaría, en virtud de la renuncia de su titular.
+
+Valparaíso, 30 de Marzo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
