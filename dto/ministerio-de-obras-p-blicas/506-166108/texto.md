@@ -1,0 +1,3 @@
+Por decreto MOP N°506, de 28 de febrero del 2000, se expropió el lote de terreno N°15, superficie 257 m2, rol de avalúo 24-4, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector K, Séptima Región y se acordó el valor de indemnización con sus propietarios Manuel José Arenas Olivos y otra, ascendente a la cantidad de $20.706.726.-
+
+Fiscal del Ministerio de Obras Públicas.
