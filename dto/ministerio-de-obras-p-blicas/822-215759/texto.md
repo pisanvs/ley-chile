@@ -1,0 +1,3 @@
+Por decreto MOP Nº 822 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 340, superficie 308,0 m², rol Nº 559-67, comuna de Linares, VII Región, para la obra "Camino Ruta L-45, Sector Linares - Llepo, tramo Km. 2,750 a Km. 13,147", y se acordó el valor de indemnización con su propietario Luis Arturo Bravo González, ascendente a la cantidad de $3.251.357.
+
+- Fiscal del Ministerio de Obras Públicas.
