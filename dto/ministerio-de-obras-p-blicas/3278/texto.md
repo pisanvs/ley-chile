@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.278, de 29 de octubre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra Camino Loncoche Calafquén sector Puente Paya, que figura a nombre de Edwin Samuel Muñoz Peschke, rol de avalúo 483-37, comuna Loncoche, IX Región, superficie 314,9 m². La Comisión de Peritos, fijó con fecha 18 de julio de 1998, el valor provisional de la indemnización en la cantidad de $62.980. La indemnización se pagará al contado. La publicación se efectuará en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
