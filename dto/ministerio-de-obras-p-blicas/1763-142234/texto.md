@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.763, de 25 de junio de 1999, se expropiaron los lotes de terreno Nºs. 67 y 68, superficies 200 y 150 m2. respectivamente, roles de avalúo 139-37 y 67-1, comuna Malloa, para la obra Camino Malloa - Tunca por Corcolén y se acordó precios de indemnización con sus propietarios Luis Camilo Miranda y Pablo Alvarez Cabañas, ascendente a las cantidades de $16.402.400 y $5.176.500.
+
+- Fiscal del Ministerio de Obras Públicas.
