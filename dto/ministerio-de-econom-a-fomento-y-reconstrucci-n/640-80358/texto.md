@@ -1,0 +1,17 @@
+COMPLEMENTA DECRETO TARIFARIO 002/96 QUE MODIFICA LAS TARIFAS DE LA COOPERATIVA DE SERVICIOS DE AGUA PICHIDANGUI LTDA.
+
+Núm. 640.- Santiago, 30 de octubre de 1997.- Vistos: Lo dispuesto en el artículo 7º transitorio del Decreto con Fuerza de Ley Nº 70/88, el Decreto con Fuerza de Ley Nº 382/88, ambos del Ministerio de Obras Públicas; la Ley Nº 18.902 y el Decreto Nº 002 del 4 de enero de 1996, que modifica las tarifas de la cooperativa de servicios de agua Pichidangui Ltda. a petición del prestador, publicado en el Diario Oficial el 21 de marzo de 1996.
+
+Considerando:
+
+- Que el estudio que respalda las tarifas presentadas en el decreto 002/96 no incluye como costo el impuesto al valor agregado I.V.A.
+
+- Que se hace necesario especificar en el decreto la inclusión de dicho valor.
+
+D e c r e t o:
+
+Compleméntese el Decreto 002/96 en el sentido de agregar en el numeral 2 como tercer párrafo lo siguiente "A estos valores debe agregárseles el impuesto al valor agregado I.V.A.".
+
+Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Oscar Landerretche Gacitúa, Ministro de Economía, Fomento y Reconstrucción (S).
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Oscar Landerretche Gacitúa, Subsecretario de Economía, Fomento y Reconstrucción.
