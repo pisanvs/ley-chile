@@ -1,0 +1,3 @@
+Por Resolución Nº 1.110, de 1 de agosto de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº 30, de 1996, de esta Subsecretaría que declaró la caducidad de la Resolución Nº 1.001, de 1986, en cuanto autorizó a PESQUERA MAR DEL SUR S.A., para operar la nave "Mar del Sur II", en virtud de lo dispuesto en la Resolución Ministerial exenta Nº 49, de 1997, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 1 de agosto de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
