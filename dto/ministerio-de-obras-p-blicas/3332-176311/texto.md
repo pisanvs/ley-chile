@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.332, de 31 de julio de 2000, se expropió el lote de terreno Nº 177, superficie 86 m², rol de avalúo 5883-2, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Eduardo Alfonso Poblete Pérez, ascendente a la cantidad de $11.284.321.-
+
+Fiscal del Ministerio de Obras Públicas.
