@@ -1,0 +1,5 @@
+Por decreto MOP Nº 335, de 20 de febrero de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 9, para la obra: "Concesión Internacional Interconexión Vial. Santiago - Valparaíso - Viña del Mar. Troncal Sur. Tramo 3. Lámina Especial 1 Km. 97.200,00 a Km.
+
+98.100,00", Quinta Región, que figura a nombre de Knop Valdés Germán Rodolfo y Otro, rol de avalúo 3501-1, comuna de Quilpué, superficie 302 m2. La comisión de peritos integrada por los señores Marcela Alejandra Redard Ayala, Fernando José Senerman Mandel y Joaquín Prieto Ochagavía, fijó con fecha 14 de julio de 2000, el valor provisional de la indemnización en la cantidad de $3.649.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
