@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.259, de 24 de agosto de 1998, y en base a la facultad otorgada por el artículo 14 letra e) y 105 del DFL. No. 850 de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropió el lote de terreno No. 26, para la obra Camino Santiago - Colina - Los Andes, Sector "G" By Pass Los Andes, km.
+
+0.000,00 al 5.026,61, que figura a nombre de Araya Cerda Marco Antonio, rol de avalúo 20-60, comuna de Calle Larga, superficie 4.882 m2 . La Comisión de Peritos integrada por los Señores Patricio Benjamín García Toso, José Rogelio Alfredo Reyes Azancot y Luis Pablo Padilla Vergara, fijo con fecha 6 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $ 6.574.300.- para el lote No. 26.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Publicas.
