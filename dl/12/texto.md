@@ -1,0 +1,31 @@
+CANCELA PERSONALIDAD JURIDICA
+
+Decreto ley N° 12.-
+
+Santiago, 17 de Septiembre de 1973.- Vistos:
+
+Lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, y
+
+Considerando:
+
+a) Las circunstancias de emergencia en que vive el país;
+
+b) La necesidad imperiosa de resguardar el interés de los trabajadores de la República, y
+
+c) El propósito de las autoridades de proteger la tranquilidad social en el elemento laboral,
+
+la Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Cancélase la personalidad jurídica de la Central Unica de Trabajadores (CUT), por haberse transformado en un organismo de carácter político, bajo la influencia de tendencias foráneas y ajenas al sentir nacional, prohibiéndose en consecuencia su existencia y toda organización y acción, propaganda de palabra, por escrito o por cualquier otro medio, que revelen, directa o indirectamente su funcionamiento.
+
+#### Artículo 2°
+
+La infracción a esta norma será penada con presidio, relegación o extrañamiento mayores en cualquiera de sus grados.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros de Chile, Investigaciones y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- GONZALO PRIETO G., Ministro de Justicia.
+
+Lo que se transcribe para su conocimiento.- Max Silva del Campo, Subsecretario de Justicia.
