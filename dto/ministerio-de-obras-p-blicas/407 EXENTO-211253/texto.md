@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 407 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 31, superficie 96 m2, rol de avalúo Nº 208-101, comuna de Cabildo, para la obra "Cabildo - Putaendo, Ruta E-41, sector La Vega Guayacán, Km. 12,46900 al Km. 22,40000", Quinta Región y se acordó el valor de la indemnización con su propietario Basilio Eduardo Silva Godoy, ascendente a la cantidad de $490.560.-
+
+Fiscal del Ministerio de Obras Públicas.
