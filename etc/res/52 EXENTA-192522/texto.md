@@ -1,0 +1,17 @@
+EXTRACTO DE RESOLUCION Nº 52 EXENTA, DE 2001
+
+1.- Por resolución Nº Ex. 52, de 7 de diciembre de 2001, el Servicio de Impuestos Internos modificó resolución Nº Ex. 8.145 que establece obligación a las instituciones que indica de informar al SII los dividendos hipotecarios pagados o los aportes enterados, por las obligaciones hipotecarias contraídas con motivo de la adquisición de una vivienda nueva acogida a las normas del DFL. Nº2, 1959, y de certificar a las personas naturales que han pagado dichos dividentos hipotecarios o enterados los citados aportes; conforme a lo establecido por la ley Nº 19.622, de 1999, modificada por la ley Nº 19.768, de 2001, en la forma que se señala.
+
+a) En el dispositivo 1 de la resolución Nº Ex. 52, de 7 de diciembre de 2001, se sustituye el considerando Nº 2 de la resolución Nº Ex. 8.145 de 11.12.99 por el siguiente: ''2.- Que, la citada Ley Nº 19.622, en su artículo 2º, modificado por el Artículo 6º de la Ley Nº 19.768, publicada en el Diario Oficial de 7 de noviembre del 2001, preceptúa que la deducción referida en su artículo 1º no podrá ser superior a diez, seis ni tres unidades tributarias mensuales de diciembre de cada año multiplicadas por el número de cuotas y no podrá ser superior a 12 en el año, salvo que se trate de cuotas pagadas con retraso de hasta 12 meses, con las que se pagó la deuda en el ejercicio correspondiente, según si la obligación hipotecaria se contrajo entre el 22 de junio y el 31 de diciembre del año 1999, el 1 de enero y el 30 de septiembre del año 2000, o el 1 de octubre del año 2000 y el 30 de junio del año 2001, respectivamente, incluyendo ambas fechas en cada caso. Para el caso de los adquirentes a través del sistema de cooperativas de vivienda, podrá entenderse que la obligación se contrae en la fecha en que la cooperativa suscribe la escritura de mutuo hipotecario de construcción, siempre que el adquirente tenga la calidad de cooperado a la fecha de suscripción del mutuo por parte de la cooperativa''.
+
+b) En el dispositivo 2 de la resolución Nº Ex. 52, de 7 de diciembre de 2001, se sustituye el inciso primero del resolutivo Nº 2 de la resolución Nº Ex. 8.145 de 11.12.99 por otro que establece la forma en que se debe entregar el informe respecto de cada persona natural a que se refiere el resolutivo Nº 2 de la citada resolución.
+
+c) En el dispositivo 3 de la resolución Nº Ex. 52, de 7 de diciembre de 2001, se sustituye el inciso tercero del resolutivo Nº 2 de la resolución Nº Ex. 8.145 de 11.12.99 por otro que establece los límites máximos de la rebaja dispuestos en la ley Nº 19.622, de acuerdo con las modificaciones incorporadas a ésta por la ley Nº 19.768, de 2001.
+
+d) En el dispositivo 4 de la resolución Nº Ex. 52, de 7 de diciembre de 2001, se establece el reemplazo del modelo certificado Nº 19 que se alude en el inciso Nº 2 del resolutivo Nº 4 de la resolución Nº Ex. 8.145 de 11.12.99.
+
+2.- La aludida resolución rige para los certificados e informes que deban emitirse o presentarse, según corresponda, a partir del Año Tributario 2002.
+
+3.- El texto íntegro de esta resolución se encuentra incluido en la página Web del Servicio de Impuestos Internos en Internet, cuya dirección es www.sii.cl y además, se publicará en el Boletín del Servicio del mes de diciembre de 2001.
+
+- Alfredo Echeverría Herrera, Director (S).
