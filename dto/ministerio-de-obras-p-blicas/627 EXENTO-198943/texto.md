@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 627 de fecha 30 de abril del 2002, se expropiaron los lotes de terreno Nºs 62 y 63, superficie 272 y 277 m2 respectivamente, sin rol, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al 70,000, Etapa II'', y se acordó el valor de indemnización con su propietario Ricardo Ardiles Avalos, ascendente a la cantidad de $2.123.148.
+
+Fiscal del Ministerio de Obras Públicas.
