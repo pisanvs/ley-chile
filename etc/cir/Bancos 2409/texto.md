@@ -5102,6 +5102,8 @@ A continuación se señalan los principales indicadores que guardan relación co
 
 > **Nota.** NOTA 6 La Letra B), de la Circular 2897, SBIF, promulgada el 16.05.1997, modifica el presente Anexo, a fin de incorporar dentro de los indicadores para efectos del cómputo del encaje, las colocaciones deducibles del encaje en moneda extranjera.
 
+> **Nota.** NOTA 7 La Circular 2898, promulgada el 26.05.1997, modifica el presente Anexo, en lo que se refiere a las obligaciones con el exterior, a fin de actualizar la información sobre los principales indicadores utilizados en el cómputo de saldos informados para efectos del control de encaje.
+
 CAPITULO 4-2 (Bancos y Financieras)
 
 MATERIA:
