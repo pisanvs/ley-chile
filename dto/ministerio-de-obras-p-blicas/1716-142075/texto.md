@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.716, de 25 de junio de 1999, se expropió el lote de terreno No. 5, superficie 456 m2, rol de avalúo 203-13, comuna de Rengo, para la obra Mejoramiento Ruta 5, Longitudinal Sur, Sector Pasada por Rengo, Sexta Región y se acordó el valor de indemnización con su propietario Juan Bautista Reyes Tompson, ascendente a la cantidad de $ 37.638.550.-
+
+Fiscal del Ministerio de Obras Públicas.
