@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 552, de 29 de abril de 1998, se expropiaron los lotes de terreno Nºs 26 y 28, superficies 1.140 y 90 m2., respectivamente, rol de avalúo 175-8, comuna de Puchuncaví, para la obra Ampliación Camino Nogales - Puchuncaví, Ruta F-20 y se acordó precio de indemnización con su propietario don Luis Orlando Reyes Fernández y otros, ascendente a la cantidad de $1.377.852.
+
+Fiscal del Ministerio de Obras Públicas.
