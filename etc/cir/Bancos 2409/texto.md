@@ -9328,7 +9328,7 @@ No obstante lo anterior, en virtud de lo dispuesto en el último inciso del art�
 
 Atendido lo anterior, para celebrar contratos de crédito con alguna empresa en que participe el Estado, las instituciones financieras deberán obtener de su cliente una declaración escrita en el sentido de que la empresa cuenta con la autorización de que se trata o bien, de que no se encuentra dentro de aquellas sociedades a que se refieren las disposiciones legales antes mencionadas.
 
-Por otra parte, las corporaciones, fundaciones o asociaciones municipales están impedidas de contratar préstamos de conformidad con lo dispuesto en el artículo 138 de la Ley N° 18.695, modificado por la Ley N° 19.130. Sin embargo, debe tenerse presente que el artículo 139 de la misma ley exceptúa de esta prohibición a las corporaciones culturales municipales que cumplan con lo dispuesto en esa disposición legal.
+Por otra parte, las corporaciones, fundaciones o asociaciones municipales están impedidas de contratar préstamos de conformidad con lo dispuesto en el artículo 138 de la Ley N° 18.695, modificado por la Ley N° 19.130. Esta prohibición no comprende la contratación de líneas de crédito en cuenta corriente o en otra modalidad. En todo caso, debe tenerse presente que el artículo 139 de la misma ley exceptúa de la prohibición antedicha a las corporaciones culturales municipales que cumplan con lo dispuesto en esa disposición legal.
 
 CAPITULO 8-9 (Bancos y Financieras)
 
