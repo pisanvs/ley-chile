@@ -22,7 +22,7 @@ De las entradas propias del servicio
 
 Inversión de las entradas propias
 
-La inversión de las entradas propias se efectuará previa autorización por decreto supremo, que será solicitado por intermedio de la Dirección General correspondiente.
+Los fondos provenientes de "Entradas Propias" de los establecimientos Educacionales, se depositarán en la Cuenta "F-9" de las Tesorerías Fiscales, y los Jefes de dichos establecimientos podrán girarlos e invertirlos, con la autorización de la Superioridad de la respectiva rama de la Enseñanza.
 
 Cuando se trate de los fondos recolectados o percibidos extraordinariamente con un fin determinado no podrá autorizarse su inversión en un objeto diferente.
 
