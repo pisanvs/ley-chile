@@ -1,0 +1,3 @@
+Por decreto MOP Nº 641 de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº 2, superficie 5.482 m2., Rol de avalúo 5030-107, comuna de Punta Arenas, para la obra "Reposición Ruta-9 y Acc. Aeropuerto, Sector (Ruta 9) Km. 5,31490-Km. 19,342349 (Acceso Aeropuerto) Km. 0,000-Km. 1,295819" y se acordó el valor de indemnización con su propietario Soc. Nandwani Ltda. o Inmob. Nandwani Soc. Anónima, ascendente a la cantidad de $82.318.167.-
+
+Fiscal del Ministerio de Obras Públicas.
