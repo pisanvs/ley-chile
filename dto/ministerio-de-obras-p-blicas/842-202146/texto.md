@@ -1,0 +1,3 @@
+Por decreto MOP Nº 842, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 6, superficie 1.911 m2, rol de avalúo Nº 853-22, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 a 70,000'', III Región y se acordó el valor de indemnización con su propietaria Juana Bugueño Muñoz, ascendente a la cantidad de $4.712.651.-
+
+Fiscal del Ministerio de Obras Públicas.
