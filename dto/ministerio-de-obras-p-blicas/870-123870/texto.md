@@ -1,0 +1,3 @@
+Por decreto MOP No. 870, de 30 de junio de 1998, se expropiaron los lotes de terreno No. s. 10E, 11E y 12E, roles de avalúo 191-4, 191-3 y 191-2, superficies 112, 67 y 140 m2. respectivamente, comuna de Santiago, para la obra Extensión Línea 5 del Metro de Santiago, sector Baquedano - Santa Ana, Catedral - Manuel Rodríguez, y se acordó precio de indemnización con su propietario Kleinkopf Autos S.A., ascendente a la cantidad de $ 98.008.640.
+
+Fiscal del Ministerio de Obras Públicas.
