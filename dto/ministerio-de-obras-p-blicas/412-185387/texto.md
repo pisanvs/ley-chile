@@ -1,0 +1,5 @@
+Por decreto MOP Nº412, de 30 de marzo de 2001 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 1 y 2 para la obra: "Concesión Internacional Ruta 5. Tramo Temuco -
+
+Río Bueno Km. 803,35000 a Km. 805,95000" Décima Región, que figuran a nombre de Wbiermann Monch Bruno, rol de avalúo 108-7, comuna de Mafil, superficies de 20.000,00 m² y 20.000,00 m², respectivamente. La Comisión de Peritos integrada por los señores Enrique Edgardo Hoelck Altmann, Leopoldo Schumacher Guarda y Nelson Fabián Igor Flores, fijó con fecha 5 de septiembre de 2000, el valor provisional de la indemnización en las cantidades de $8.000.000.- para el lote Nº1 y $8.000.000 para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
