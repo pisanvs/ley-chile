@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº525, 26 agosto 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Camino a Hualqui, Rol de Avalúo Nº3108-4, comuna Chiguayante, superficie 906,73 metros cuadrados de terreno y 3,34 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R 19.116, de aparente dominio de Cía. Industrial del Sur Ltda., para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Cecilia Carrasco Verdugo, arquitecto, Leonardo Fasce Casanueva, arquitecto y Claudia Marzullo García, arquitecto, según informe de fecha 22 de julio 2004, fijó monto provisional indemnización en $40.060.846.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
