@@ -1,0 +1,7 @@
+"En Santiago, a ocho de septiembre de mil novecientos ochenta y nueve, se reunió la Corte Suprema extraordinariamente, en Tribunal Pleno, presidida por el titular don Luis Maldonado Boggiano y, con asistencia de los Ministros, señores: Retamal, Rivas, Correa, Erbetta, Ulloa, Aburto, Letelier, Cereceda, Zurita, Faúndez, D vila, Beraud, Toro y Araya y adoptó los siguientes acuerdos:
+
+"Con motivo de haber presentado las renuncias a sus cargos de miembros de esta Corte Suprema, los Ministros señores Víctor Manuel Rivas del Canto y Carlos Letelier Bobadilla, quienes son -al mismo tiempo- integrantes del Tribunal Calificador de Elecciones, por designación de esta Corte; efectuadas las votaciones que prescribe el artículo 84 de la Constitución Política del Estado, se acordó designar a los citados Magistrados en ese Tribunal, en su calidad de ex - Ministros de esta Corte Suprema, para que completen el resto del cuadrienio para el que fueron designados por acuerdos de 02 de abril de 1987 y 17 de agosto de 1988.
+
+"Diríjanse las comunicaciones correspondientes, oficiándose. Publíquese lo pertinente en el Diario Oficial.
+
+"Para constancia se extiende la presente acta. Fdo. Luis Maldonado B., Rafael Retamal L., Víctor Manuel Rivas del C., Enrique Correa L., Osvaldo Erbetta V., Emilio Ulloa M., Marcos Aburto O., Carlos Letelier B., Hernán Cereceda B., Enrique Zurita C., Osvaldo Faúndez V., Roberto Dávila D., Lionel Beraud P., Arnaldo Toro L., Efrén Araya V., Juan Ferrer Puig".
