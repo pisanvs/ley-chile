@@ -1,0 +1,9 @@
+APRUEBA REFORMA DE ESTATUTOS A "CORP ADMINISTRADORA DE FONDOS MUTUOS S.A."
+
+Certifico: Que por resolución exenta Nº 271 de 4 de junio de 2004, de esta Superintendencia de Valores y Seguros, se aprobó la reforma de estatutos de la sociedad "Corp Administradora de Fondos Mutuos S.A.", acordada en Junta Extraordinaria de Accionistas celebrada el 22 de marzo de 2004, reducida a escritura pública con fecha 25 de marzo de 2004, en la Notaría de Santiago de don Patricio Zaldívar Mackenna, complementada por escritura pública de fecha 21 de abril de 2004, otorgada ante el mismo Notario, consistente en un cambio en el tipo de sociedad administradora, pasando a ser una sociedad Administradora General de Fondos, conforme a lo dispuesto en el título XXVII de la ley Nº 18.045.
+
+Las modificaciones a los estatutos sociales fueron:
+
+Nombre: Corp Administradora General de Fondos S.A. Objeto: La sociedad tendrá por objeto exclusivo la administración de fondos mutuos regidos por el decreto ley Nº 1.328, de 1976, de fondos de inversión regidos por la ley Nº 18.815, de fondos de inversión de capital extranjero regidos por la ley Nº 18.657, de fondos para la vivienda regidos por la ley Nº 19.281 y de cualquier otro tipo de fondos cuya fiscalización sea encomendada a la Superintendencia de Valores y Seguros, y la realización de las actividades complementarias que ésta autorice, todo en los términos definidos en el artículo 220 de la ley Nº 18.045, como asimismo la administración de cualquier otro tipo de fondo que la legislación actual o futura le autorice realizar.
+
+Santiago, 4 de junio de 2004.- Carmen Undurraga Martínez, Secretario General.
