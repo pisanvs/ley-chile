@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.438, de 17 de abril de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 15-1 y 16-1, para la obra: ''Camino: Santiago-Colina-Los Andes. Sector: San José-Lo Pinto, Km. 2.080,00 al Km.
+
+4.760,00'', Región Metropolitana, que figuran a nombre de Lobo Malfanti Fernando, rol de avalúo 350-104, comuna de Colina, superficies de 946,6 m2 y 167,1 m2, respectivamente. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Carmen Pilar Ríos Marcuello y Gustavo Domínguez Errázuriz, fijó con fecha 3 de enero de 2000, el valor provisional de la indemnización en las cantidades de $6.320.900.- para el lote Nº15-1 y $24.120.650.- para el lote Nº16-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
