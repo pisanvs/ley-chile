@@ -1,0 +1,5 @@
+Por resolución Nº 505, de 29 de marzo de 1999, de esta Subsecretaría, autorízase a ALIMENTOS MARINOS S.A., para ampliar actividades pesqueras extractivas con la nave ''Santa Irene'', autorizadas por resoluciones Nº 168 y Nº 677, ambas de 1997, modificadas por resoluciones Nº 985 y Nº 1.112, ambas de 1998, todas de esta Subsecretaría.
+
+La peticionaria podrá capturar con la nave antes individualizada, en el litoral a continuación se indica, los siguientes recursos hidrobiológicos: Litoral de la X Región, por fuera del área de reserva artesanal, con red de cerco: Machuelo o tritre y b) Litoral de la X Región, por fuera de las 60 millas marinas, medidas desde las líneas de base recta, con red de arrastre de media agua: Machuelo o tritre.
+
+Valparaíso, 29 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
