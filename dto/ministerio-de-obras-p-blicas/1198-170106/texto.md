@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.198, de 31 de marzo de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº43, para la obra: Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector C: Km. 56.300,00 - Km.
+
+68.450,00, Sexta Región, que figura a nombre de Soc. Agro Industrial Angostura Ltda., rol de avalúo 136-277, comuna de San Fco. Mostazal, superficie 21.756 m2. La Comisión de Peritos integrada por los señores Jorge Gregorio Mendoza Larral, Pablo Antonio Aragón Bernal y Gustavo Antonio Domínguez Errázuriz, fijó con fecha 24 de noviembre de 1999 el valor provisional de la indemnización en la cantidad de $55.769.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
