@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 68, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble General Bulnes No. 223, Rol 332-15 Santiago, aparente dominio Julia Romo Chaigneau, superficie aproximada a expropiar 40 m2 Deslindes: Norte, 1,7 mts. ensanche acera General Bulnes; Sur. 13 mts. otro propietario Oriente, 14,50 mts. en línea quebrada resto predio y Poniente, 10,80 mts. calle General Bulnes. Indemnización provisional $ 2.490.000.- pagadera contado.
+
+Máximo Honorato Alamos Alcalde Santiago.
