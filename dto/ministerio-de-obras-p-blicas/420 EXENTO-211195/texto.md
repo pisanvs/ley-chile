@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº420 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº102, superficie 61 m², Rol de Avalúo Nº596-50, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz-Yaquil, Rol I-730, Km. 0,00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietaria Edith Alfredina Reyes Morales y Otra, ascendente a la cantidad de $366.402.
+
+Fiscal del Ministerio de Obras Públicas.
