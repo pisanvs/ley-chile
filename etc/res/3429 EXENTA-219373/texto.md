@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.429, de 17 de diciembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111436 presentada por CARLOS MARCELO BARRIA GUNCKEL, para instalar y operar un centro de cultivo ubicado Canal Vicuña, al suroeste de Isla Luz, sector 9, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 17 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
