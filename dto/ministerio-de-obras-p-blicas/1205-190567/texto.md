@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.205 de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº10-E, superficie 143,00 m², Rol de Avalúoi 65-248, comuna de Teno, para la obra "Camino Ruta J-25-, Sector: Cruce Longitudinal-La Montaña, Km. 0,22000 a Km. 25,00000" y se acordó el valor de indemnización con su propietario Luis Silvino Contalba Soto, ascendente a la cantidad de $581.203.-
+
+Fiscal del Ministerio de Obras Públicas.
