@@ -1,0 +1,3 @@
+Por resolución número 2.118, de 29 de septiembre de 2000, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.544, de 2000, de esta Subsecretaría, que declaró la caducidad de la resolución Nº 1.222, de 1997, que autorizó a VASQUEZ Y COMPAÑIA LIMITADA, para operar la nave ''Porvenir II'', por haberse acreditado el pago de la patente única pesquera.
+
+Valparaíso, 29 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
