@@ -1,0 +1,1 @@
+Dispone que los Intendentes y Gobernadores tendrán derecho a pasaje libre permanente por los Ferrocarriles del Estado, sin cargo fiscal, dentro de sus respectivas provincias o departamentos.
