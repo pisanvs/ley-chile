@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº33, de 31 de enero de 2002, se expropió el lote de terreno Nº11, superficie 142 m², rol de avalúo 104-127, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar Tramo 6A1: Km 31.430,00 a Km 33.260,00 Región Metropolitana y se acordó el valor de indemnización con su propietario Marcelino del Carmen Contreras Pedraza, ascendente a la cantidad de $1.563.341.-
+
+Fiscal del Ministerio de Obras Públicas.
