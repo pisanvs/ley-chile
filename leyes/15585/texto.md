@@ -1,0 +1,19 @@
+LEY NUM. 15.585
+
+AUMENTA, POR GRACIA, LA PENSION DE DOÑA RAQUEL OYANEDER VIUDA DE CARDENAS
+
+Por cuanto el Congreso Nacional ha dado su aprobación al siguiente
+
+Proyecto de ley:
+
+#### Artículo único
+
+Auméntase, por gracia, a doscientos escudos mensuales la pensión de que actualmente disfruta doña Raquel Oyaneder viuda de Cárdenas.
+
+El mayor gasto que demande la aplicación de esta ley se imputará al ítem de Pensiones del Presupuesto del Ministerio de Hacienda.
+
+Y por cuanto he tenido a bien aprobarlo; por tanto, publíquese y llévese a efecto como ley de la República.
+
+Santiago, a primero de Junio de mil novecientos sesenta y cuatro.- JORGE ALESSANDRI RODRIGUEZ.- Luis Mackenna S.
+
+Lo que transcribo a Ud. para su conocimiento.- Dios guarde a Ud.- Carlos Reed Valenzuela, Subsecretario de Hacienda.
