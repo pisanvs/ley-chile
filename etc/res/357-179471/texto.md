@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS DE ''BANEDWARDS ADMINISTRADORA DE FONDOS DE INVERSION S.A.''
+
+Certifico: Que por resolución Nº 357 de 13 de diciembre de 2000 de esta Superintendencia de Valores y Seguros se aprobó la reforma de estatutos de la sociedad ''Banedwards Administradora de Fondos de Inversión S.A.'', acordada en junta extraordinaria de accionistas celebrada el 10 de noviembre de 2000, reducida a escritura pública en esa misma fecha, en la Notaría de Santiago de don Eduardo Pinto Peralta, consistente en aumentar el capital social de $465.083.761 dividido en 379.000 acciones, sin valor nominal, que se encuentra suscrito y pagado, a la suma de $558.684.329 dividido en 455.276 acciones sin valor nominal, mediante la emisión de 76.276 acciones de pago, que se suscribirán y pagarán, en dinero efectivo, dentro del plazo de seis meses contados desde la fecha de la junta.
+
+Santiago, 13 de diciembre de 2000.- Nelson Torres Morgado, Secretario General Subrogante.
