@@ -1,0 +1,3 @@
+Por decreto MOP Nº 711, de 29 de febrero de 2000, se expropiaron los lotes terreno Nºs. 1, 2, 3, 4 y 5, roles de avalúo 71-224 y 832-84, comuna de Galvarino, para la obra Camino Galvarino-Rucatraro, Sector Puente Trabunquillen y se acordó precio de las indemnizaciones con sus propietarios Antonio Millañir Lizama y Feliciano Santander Quintriqueo, en las cantidades que se indican en dicho decreto.
+
+Fiscal del Ministerio de Obras Públicas.
