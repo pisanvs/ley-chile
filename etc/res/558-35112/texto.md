@@ -1,0 +1,3 @@
+Por Resolución N° 558, de 22 de marzo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, revóquese la Resolución N° 427, de 1996, de esta Subsecretaría, en cuya virtud se otorgó a PESQUERA HUILCA S.A., una ampliación de plazo para desarrollar actividades pesqueras extractivas con la nave factoría "San Rafael", por haberse dictado con error de hecho e infringiendo una prohibición expresamente contenida en los artículos 143 letra b) y 12 transitorio de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 22 de marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
