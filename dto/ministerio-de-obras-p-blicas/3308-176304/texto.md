@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.308, de 31 de julio del 2000, se expropió el lote de terreno Nº 14, superficie 48 m², rol de avalúo 200-13, comuna de San Javier, para la obra Concesión Internacional Ruta 5. Tramo: Talca - Chillán, Séptima Región y se acordó el valor de indemnización con su propietario Juan de Dios Troncoso Pereira, ascendente a la cantidad de $813.966.-
+
+Fiscal del Ministerio de Obras Públicas.
