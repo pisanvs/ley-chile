@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.987 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 93, superficie 96 m², rol de avalúo 462-10, comuna de San Fernando, para la obra ''Concesión Internacional Ruta 5 Tramo Santiago - Talca Sector H: Km. 128.400,00 a Km. 140.850,00'' y se acordó el valor de indemnización con su propietario Jorge Martiniano Barrera Fuentes, ascendente a la cantidad de $6.613.537.-
+
+Fiscal del Ministerio de Obras Públicas.
