@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 275, de 31 de marzo de 1997, se expropió el lote de terreno Nº 1, superficie 4.560, rol de avalúo en trámite, comuna de Retiro, para la obra Camino Cardo Verde-Paso Miraflores rol L-666, sector Estero Torreón, se acordó precio de la indemnización con su propietaria María Valeriana Maureira Maureira, ascendente a la cantidad de $2.759.372.-
+
+Fiscal del Ministerio de Obras Públicas.
