@@ -1,0 +1,3 @@
+Por decreto exento M.O.P. Nº 746, de 31 de mayo de 2004, se dejó sin efecto los numerales 3º , 4º , 5º y 6º , del decreto exento MOP. Nº 247, de 31 de marzo de 2003, en la parte que se refiere al Convenio Directo de Precio Ad Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente el monto provisional de la indemnización de los lotes Nos 100 y 101, fijada por la Comisión de Peritos, con fecha 18 de marzo de 2000, ascendente a las cantidades de $614.162, para el lote Nº 100 y $1.310.630, para el lote Nº 101.
+
+Fiscal del Ministerio de Obras Públicas.
