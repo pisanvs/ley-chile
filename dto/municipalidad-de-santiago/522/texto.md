@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 522, de 9/6/89 Alcalde I. Municipalidad de Santiago dispone expropiación total inmueble calle Serrano 465 al 473, Rol No. 599-8: aparentemente dominio doña Blanca R. Díaz Díaz. Deslindes: Norte, 29,50 mts. con propietario Rol: 599-7 y 599-44, Sur, 29,00 mts. Plaza calle Ricardo Santa Cruz;. Oriente, 10,75 calle Serrano; Poniente, 11.00 mts. propiedad Rol 599-45 superficie aproximada 318,10 mts.2. Indemnización provisional $ 13.156.800. pagadero contado.
+
+Máximo Honorato Alamos Alcalde Santiago.
