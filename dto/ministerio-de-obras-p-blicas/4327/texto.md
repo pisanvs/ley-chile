@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.327, de 27 de septiembre de 2000 y en base a la facultad otorgada por el artículo 105 del DFL. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, de expropió el lote de terreno Nº5, para la obra Mejoramiento Eje La Florida, sector El Peñón - Las Vizcachas, Kms 6.980 al 10.340, camino Ruta G-25, camino Pte. Alto, que figura a nombre de Gloria Cavieres Bahamondes y otro, rol de avalúo 3800-33, superficie 1.198 m2, comuna de Puente Alto. La Comisión de Peritos, fijó con fecha 18 de octubre de 1999, la indemnización provisional en la cantidad de $165.536.700, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
