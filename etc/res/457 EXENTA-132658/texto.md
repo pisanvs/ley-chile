@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 457 de 29 de Marzo de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento Aguas proporcionales que corresponden a Reserva, Sector Excluido y Sectores Expropiados predios "Fundo Talamaya y Predio con parte edificado, contiguo al camino Poniente y al camino Montenegro" y "Fundo San Manuel" de la comuna de San Fernando, Sexta Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 14 y parte de la No. 31; sitios N°s. 1 al 16 y 36 al 44 y Reserva ODENA No. 1 del Proyecto de Parcelación "Tinguiririca" formado, entre otros, por predios señalados. Los derechos de agua se extraen de los canales Lo Gálvez - El Molino, La Orilla, Santa Catalina y La Cuesta, todos derivados del río Tinguiririca. Publicación hecha conforme Art. 13 Ley No.
+
+18.377.-
+
+Director Ejecutivo.
