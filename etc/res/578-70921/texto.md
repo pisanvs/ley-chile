@@ -1,0 +1,3 @@
+Por Resolución Nº 578 de 22 de abril de 1997 de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; declárase la caducidad parcial de la Resolución Nº 1.882 de 1989, de esta Subsecretaría, que autorizó a PESQUERA MARBELLA S.A., para ampliar actividades pesqueras extractivas con la nave "Marchigüe" en lo relativo a las especies Anchoveta, Sardina española, Agujilla, Atún sp., Bonito, Caballa, Cojinoba del Norte, Cojinoba del Sur y Jurel, en el litoral de la III y IV Regiones, en virtud de no haber operado sobre esta Unidad de Pesquería conforme lo dispuesto en el artículo 143 letra b) de la Ley Nº 18.892 de 1989.
+
+Valparaíso, 22 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
