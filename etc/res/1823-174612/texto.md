@@ -1,0 +1,3 @@
+Por resolución Nº 1.823, de 18 de agosto de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110419 presentada por JOSE ALFONSO GOMEZ BUSTAMANTE, para instalar y operar un centro de cultivo ubicado en canal Vicuña, sector norte isla Humos, comuna y provincia de Aysén, XI Región.
+
+Valparaíso, 18 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
