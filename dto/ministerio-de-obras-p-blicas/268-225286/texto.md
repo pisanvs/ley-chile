@@ -1,0 +1,3 @@
+Por decreto MOP Nº 268 de 31 de marzo de 2004, se expropiaron los lotes de terrenos Nº s. 7, 7-A, 11-C, 17, superficies 357, 18, 791 y 1.059 m² respectivamente, rol de Avalúo Nº 58-26, comuna de Romeral, para la obra "Camino Ruta J-55, Guaico 3 - P. Vergara, Sector Guaico 3 - La Unión Km. 0,00000 a Km 7,60000", VII Región y se acordó el valor de la indemnización con su propietario Carlos Lazcano Alfonso, ascendente a la cantidad de $14.472.072.
+
+- Fiscal del Ministerio de Obras Públicas.
