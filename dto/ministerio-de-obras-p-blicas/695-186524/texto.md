@@ -1,0 +1,3 @@
+Por decreto MOP Nº 695, de 30 de abril de 2001, se expropió el lote de terreno Nº 40-1, superficie 4.252 m², rol de avalúo 151-18, comuna de Llay-Llay, para la obra Camino Ruta 5 Norte tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con sus propietarios Enrique José Agustín Trivelli Toscanelli y otros, ascendente a la cantidad de $16.439.190.-
+
+Fiscal del Ministerio de Obras Públicas.
