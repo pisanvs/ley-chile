@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 81, de 11 de agosto del año 2000, se aprobó la disolución voluntaria de la Cooperativa de Vivienda y Servicios Habitacionales Júpiter Limitada, de Viña del Mar, que consta en la escritura pública de fecha 15 de junio del año 2000, ante el Notario Público de Quilpué, don Jorge Acuña Pérez.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
