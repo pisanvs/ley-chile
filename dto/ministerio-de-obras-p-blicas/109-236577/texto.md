@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 109, de 29 de febrero de 1996, se expropiaron los lotes de terreno N°s. 23, 119, 121, 122 y 123, superficies 1.290, 615, 16, 618, 731 y 205 m2, respectivamente, roles de avalúo N°s.1093-01 y 164-1, comunas de Cartagena y Casablanca, para la obra Camino Malvilla - Orrego Abajo, y se acordó precio de indemnización con sus propietarios, José Agustín Velásques Alvarez y José Ebel Vial, ascendente a las cantidades de $1.796.742.- para el lote 23 y $6.040.217. - para los lotes N°s. 119, 121, 122 y 123.
+
+Fiscal del Ministerio de Obras Públicas.
