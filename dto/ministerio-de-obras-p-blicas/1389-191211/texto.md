@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.389, de 14 de septiembre de 2001, se modificaron los decretos MOP Nºs 2.620, de 30 de junio y 5.162, de 30 de noviembre, ambos de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 97, 99, 105 y 106, para la obra Camino Ruta D-597, Monte Patria-Caren, sector Juntas-Caren, Kms.
+
+8.260,00 al 30.065,19, ordenándose la consignación judicial del valor provisional de las indemnizaciones ascendentes a las cantidades de $3.049.200, lote 97, $1.603.500, lote 99, $7.279.200, lote 105 y $7.454.200, lote 106, por haber quedado sin efecto los convenios directos de precio suscritos con los expropiados. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
