@@ -1,0 +1,3 @@
+NOTIFICACION
+
+Por resolución No. 0392 de fecha 09 de Diciembre de 1986, del SERVIU V Región de Valparaíso, se dispuso expropiación conforme art. 87 Ley 8.946 y DL No. 2.186, de 1978, de parte de inmueble ubicado en Avenida Alemania lote No. 118, rol avalúo No. 5160-6, comuna de Valparaíso, aparentemente de dominio de Adriana A. Aguilar. Comisión tasadora integrada por Srs. Osvaldo Muñoz Quintana, arquitecto, Edmundo Bravo Ubilla, arquitecto, y Pablo Cariá Giurici, constructor civil, según informe de fecha 20 de Noviembre de 1980, fijó monto provisional indemnización en la suma de $ 432.150.- Indemnización se pagará de contado.
