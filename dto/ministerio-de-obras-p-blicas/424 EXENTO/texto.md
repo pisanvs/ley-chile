@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº424, de 17 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº13-B. Obra: Camino Ruta G-10-F, sector Cuesta La Dormida Kms. 0,00000 al 11,00000, que figura a nombre de Sommella Valenzuela Mario Carl., rol de avalúo 64-4, comuna de Til Til, superficie 457,40 m². La comisión de peritos fijó con fecha 5 de septiembre de 2000 en la cantidad de $1.395.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
