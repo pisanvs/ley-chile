@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.153 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 2, superficie 1.578 m², rol de avalúo Nº 104-71, comuna de Palena, para la obra "Construcción Puente López Nº 2, Camino W-895, provincia de Palena" X Región y se acordó el valor de la indemnización con su propietario León Edgardo Roa Soto, ascendente a la cantidad de $2.001.994.-
+
+Fiscal del Ministerio de Obras Públicas.
