@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.474, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 4-E y 11, superficies 102 y 563 M2. respectivamente, roles de avalúo 31-298 y 31-368, comuna de Requínoa, para la obra Camino Ruta H-455, sector Santa Amalia - Pimpinela y se acordó precio de indemnización con sus propietarios Patricio Espinoza Hernández y Felipe Labbé Prieto, ascendentes a las cantidades de $751.488 y $1.222.378.-
+
+Fiscal del Ministerio de Obras Públicas.
