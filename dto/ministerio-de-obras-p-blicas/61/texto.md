@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto M.O.P. N° 61, de 17 de abril de 1991, y en base a la facultad otorgada por el artículo 105 del decreto M.O.P. N° 294, que fijó el texto actualizado de la Ley N° 15.840, se expropió el lote de terreno N° 26-A, para la obra Camino Longitudinal Sur, sector San Fernando-Chimbarongo, Km. 137.100 al 157.460, Comuna Chimbarongo, VI Región, que figura a nombre de María Angélica Aldunate Valdés, rol de avalúo 212-83, superficie 2.999 m2. Deslindes: Norte y Este: con resto del predio afectado con la expropiación, Sur: Camino público, y Oeste: Camino Longitudinal Sur. La Comisión de Peritos compuesta por los señores Mario Díaz Valenzuela, Florencio Carter Bertolotto y Eduardo Schonhaut Guendelman, fijó con fecha 20 de febrero de 1991, el valor provisional de la indemnización en la suma de $ 8.199.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978,
+
+El Fiscal del Ministerio de Obras Públicas.
