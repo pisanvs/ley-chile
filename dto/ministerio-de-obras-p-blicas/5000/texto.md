@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.000, de 31 de octubre de 2000, se expropió el lote de terreno Nº1, superficie 531 m², rol de avalúo 153-4, comuna de Pumanque, para la obra Camino Lolol - Paredones - Bucalemu, Sector Alto Nilahue - Acceso Paredones, Tramo Km. 12.700 a Km. 27.800 y se acordó precio de la indemnización con su propietario José Tomás Ortiz González y otros, ascendente a la cantidad de $990.701.
+
+Fiscal del Ministerio de Obras Públicas.
