@@ -1,0 +1,3 @@
+Por decreto MOP Nº 573 de fecha 30 de mayo de 2003, se expropió el lote de terreno Nº 68, superficie 103,0 m2, Rol Nº 112-67, comuna de Corral, X Región, para la obra "Camino Longitudinal Costero Sur, Sector El Morro - Chaihuin II (2ª parte), Km. 15,755 a Km. 27,017" y se acordó el valor de indemnización con su propietario Soc. Agroganadera Paillaco Ltda., ascendente a la cantidad de $6.761.891.
+
+Fiscal del Ministerio de Obras Públicas.
