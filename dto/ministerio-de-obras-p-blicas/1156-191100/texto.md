@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.156, de 31 de julio de 2001, se expropió el lote de terreno Nº 7-J, superficie 111 m², rol de avalúo 498-17, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso Viña del Mar Troncal Sur Enlace Villa Alemana Ramal Nororiente, Quinta Región, y se acordó el valor de indemnización con su propietaria Sonia Ester Beltrán Durán, ascendente a la cantidad de $6.593.075.-
+
+Fiscal del Ministerio de Obras Públicas.
