@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.362, de 16 de diciembre de 2003, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA Y DE TURISMO MARITIMO LOS ELEFANTES S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Puerto Montt s/n Dalcahue, Chiloé, X Región, en las líneas de elaboración Fresco-Enfriado y Congelado, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 16 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
