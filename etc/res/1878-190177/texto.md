@@ -1,0 +1,5 @@
+Por resolución Nº1.878, de 10 de septiembre de 2001, de esta Subsecretaría, modifícase la resolución Nº215, de 2001, de esta Subsecretaría, que autorizó al CENTRO DE ESTUDIOS Y DESARROLLO PESQUERO SUR AUSTRAL LTDA., para efectuar la pesca de investigación "Aplicación de una estategia de explotación y plan de manejo de la especie Tawera gayi, en los bancos ubicados en Canal Desertores y en Isla Butachauques, provincia de Chiloé, Décima Región", en el sentido de sustituir su numeral 3º por el siguiente:
+
+"3.- La pesca de investigación se efectuará en Canal Desertores e Isla Butachauques, provincia de Chiloé, X Región, entre la fecha de publicación de la presente resolución en el Diario Oficial y el 28 de febrero de 2002."
+
+Valparaíso, 10 de septiembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
