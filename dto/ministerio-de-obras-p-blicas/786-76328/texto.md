@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 786, de 29 de agosto de 1997, se expropió el lote de terreno Nº 2, superficie 420,5 M2., rol de avalúo 387-112, comuna de Pitrufquén, para la obra Camino Cruce Longitudinal Nueva Toltén, Sector Pitrufquén-Nueva Etruria y se acordó precio de indemnización con su propietario Segundo Huillin Colicheo, ascendente a la cantidad de $593.876.-
+
+Fiscal del Ministerio de Obras Públicas.
