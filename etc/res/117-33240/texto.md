@@ -1,0 +1,3 @@
+Por Resolución N° 117, 19 de Enero de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifícase la Resolución N° 553, de 1993, que modificó la Resolución N° 465, de 1992, ambas de esta Subsecretaría, que autorizó a ALIMENTOS MULTIEXPORT LIMITADA, R.U.T. N° 96.513.230-9, domiciliada en Avenida Américo Vespucio Sur N° 842, Santiago, para incorporar nuevas líneas de procesos y recursos hidrobiológicos a su planta industrial ubicada en Cardonal N° 2501, Puerto Montt, en el sentido de reemplazar en su numeral 1° la expresión "Alimentos Multiexport S.A." por "Alimentos Multiexport Limitada".-
+
+Valparaíso, 19 de Enero de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
