@@ -1,0 +1,3 @@
+Por resolución Nº 266, de 3 de febrero de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 145, de 1990, de esta Subsecretaría, que autorizó a Sociedad Pesquera Bío Bío Limitada -hoy PESQUERA BIO BIO S.A.-, Rut. Nº 84.902.900-2, domiciliada en Avenida Colón Nº 2450, Talcahuano, para operar una nave en construcción -hoy nave ''Biomar III''-, sólo en lo relativo a las especies Langostino amarillo y Camarón nailon, en el litoral comprendido entre la IV Región y el paralelo 43° L.S. y Merluza del sur, Cabrilla común, Congrio, Merluza común, Palometa, Pejegallo y Tollo, en el litoral comprendido entre los paralelos 41°28,6' L.S. y el paralelo 43° L.S.
+
+Valparaíso, 3 de febrero de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
