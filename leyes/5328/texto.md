@@ -1,0 +1,1 @@
+Autoriza transferir a título gratuito a la Municipalidad de Quinta Normal la propiedad fiscal denominada "Chacra El Polígono", debiendo la Municipalidad reservar terrenos para destinarlos a una plaza pública.
