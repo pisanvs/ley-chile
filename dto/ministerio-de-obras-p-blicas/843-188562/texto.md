@@ -1,0 +1,3 @@
+Por decreto MOP Nº843 de fecha 31 de mayo del 2001, se expropiaron los lotes de terreno Nº 2 y 4, superficies 14.833 m2 y 339 m2, respectivamente, rol de avalúo lote 2 Nº480-170 y lote 4 Nº480-165, comuna de Yungay, para la obra ''Area de Riego Puquios, Ramal 1,1 Km. 0.006 al Km. 2.408 y Ramal 3 Km. 0.004 al Km. 1.134 del Proyecto Laja Diguillín'' y se acordó el valor de indemnización con su propietario Felcio José Cartes Martínez, ascendente a la cantidad de $7.407.676.-
+
+Fiscal del Ministerio de Obras Públicas.
