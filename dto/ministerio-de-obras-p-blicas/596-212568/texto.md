@@ -1,0 +1,5 @@
+Por decreto MOP Nº596, de 17 de junio de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron para el Fisco los lotes de terreno Nºs. 3, 9 y 11 para la obra: Habilitación Nuevo Camino La Pólvora, Km. 17,86424 a Km. 22,47179, Sector 3, Quebrada Las Animas - Puerto Valparaíso, que figuran a nombre de Cormu y Corp. Mejoramiento Urbano, Rol de Avalúo 1266-1, 1268-2 y 1223-3, comuna de Valparaíso, V Región, superficies 6.392,34 m²; 7.169,75 m² y 4.625,64 m². La comisión de peritos fijó con fecha 21 de octubre de 2002, complementada por Acta de fecha 19 de febrero de 2003, el monto de la indemnización provisional en las cantidades de $5.113.872.- para el lote Nº3;
+
+$7.169.750.- para el lote Nº9 y $4.625.640.- para el lote Nº11. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
