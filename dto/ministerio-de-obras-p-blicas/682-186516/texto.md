@@ -1,0 +1,3 @@
+Por decreto MOP Nº 682, de 30 de abril de 2001, se expropió el lote de terreno Nº 43, superficie 180 m², rol de avalúo 5462-9, comuna de La Granja, para la obra Concesión Internacional Ruta 5, Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con sus propietarios Fresia del Carmen Liempi Acuña y otros, ascendente a la cantidad de $9.278.768.-
+
+Fiscal del Ministerio de Obras Públicas.
