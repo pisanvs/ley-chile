@@ -1,0 +1,5 @@
+Por resolución Nº 1.803, de 31 de diciembre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase el recurso de reconsideración interpuesto por SOCIEDAD PESQUERA SAN ANTONIO S.A., respecto de la resolución Nº 818 de 1997, que declaró la caducidad parcial de las resoluciones Nº 439 de 1984 y Nº 1.257 de 1991, ambas de esta Subsecretaría, en virtud de lo dispuesto en el informe y disposiciones legales.
+
+Con el mérito de lo señalado precedentemente y conforme lo solicitado por la recurrente, elévense los antecedentes al Sr. Ministro de Economía, Fomento y Reconstrucción para conocimiento de la reclamación subsidiaria, interpuesta en virtud de lo señalado en el inciso 2º del artículo 143 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 31 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
