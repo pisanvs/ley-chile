@@ -1,0 +1,3 @@
+Por resolución exenta Nº 294, de 3 febrero de 2005, de esta Subsecretaría, autorízase a Pesquera Chañaral S.A., para continuar desarrollando las actividades pesqueras de transformación autorizadas mediante la resolución citadas en Visto a Pesquera Chañaral Limitada, en virtud de la escritura pública y demás normas citadas en Visto.
+
+Valparaíso, 3 de febrero de 2005.- Vilma Correa Rojas, Subsecretario de Pesca (S).
