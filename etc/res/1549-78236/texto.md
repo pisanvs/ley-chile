@@ -1,0 +1,3 @@
+Por Resolución Nº 1.549, de 14 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 95104010, presentada por CARLOS OMAR ANDRADE SOTO, para la concesión de acuicultura ubicada en Estero Huito, comuna de Calbuco, provincia de Llanquihue, X Región, conforme lo dispuesto en el artículo 10, letra c), Nº 2, y el artículo 14, del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 14 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
