@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.876, de 30 de junio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs. 14 y 14-A, para la ejecución de la obra Camino Mejoramiento Ruta S-269 Padre Las Casas-Niágara, Km.
+
+0.000,00 a Km. 17.357,22 Tramo 2.300 a Km. 17.340, que figuran a nombre de Pascual Curin Huichamil, Rol de Avalúo 3283-673, de la comuna de Padre Las Casas, IX Región, superficies 346,20 y 90,20 m². La Comisión de Peritos fijó con fecha 31 de marzo de 1997, la indemnización provisional del lote 14 en la cantidad de $476.580.- y con fecha 19 de diciembre de 1998, fijó el monto de la indemnización provisional para el lote 14-A, en la cantidad de $99.220.- las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
