@@ -1,0 +1,3 @@
+Por resolución Nº 2.396 de 6 de diciembre de 1999 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado El Quisco Sector A, V Región individualizada en el artículo 1º) Nº 1 del D.S. Nº 652 de 1997, modificado mediante decreto supremo Nº 505 de 1998, ambos del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES ''NARCISO AGUIRRE'' DE PESCADORES ARTESANALES de la comuna de El Quisco.
+
+Valparaíso, 6 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
