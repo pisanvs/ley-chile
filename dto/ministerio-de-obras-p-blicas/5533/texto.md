@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.533, de 29 de diciembre del 2000, se expropió el lote de terreno Nº 83, superficie 2.136 m², rol de avalúo 233-252, comuna de Requínoa, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector F: Km. 92.000,00 al Km. 110.200,00, Sexta Región y se acordó el valor de indemnización con su propietaria Blanca Patricia Hevia Hernández, ascendente a la cantidad de $8.702.751.-.
+
+Fiscal del Ministerio de Obras Públicas.
