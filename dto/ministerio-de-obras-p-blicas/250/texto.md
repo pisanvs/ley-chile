@@ -1,0 +1,3 @@
+Por Decreto MOP. N°250, de 26 de agosto de 1993, se expropiaron los lotes de terreno N°s. 15, 16 y 17, superficies 26.377,70 m2., 13.164,10m2. y 2.762,50 m2., roles de avalúo 219-037, 219-035 y 219-051, Comuna de Cañete, para la obra Canal Cayucupil y se acordó precio de indemnización con sus propietarios Paulino Poza Rodríguez, Mario E. Poza Rodríguez y Esteban Uribe Novoa, ascendente a las cantidades de $ 3.429.118.-, $ 1.696.491.- y $ 325.814.-, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
