@@ -20570,7 +20570,7 @@ INCENTIVOS DISTINTOS DE INTERESES, REAJUSTES O COMISIONES.
 
 A las instituciones financieras no les está permitido ofrecer incentivos en dinero o avaluables en dinero, distintos de intereses, reajustes o comisiones, para atraer a la clientela y al público a qué efectúe depósitos, contrate créditos u otros servicios con ellas.
 
-Se exceptúan de esa prohibición los beneficios otorgados a los titulares de tarjetas emitidas por las instituciones financieras, en los casos y bajo las condiciones que a continuación se indican:
+Se exceptúan de esa prohibición los beneficios otorgados a los titulares de tarjetas emitidas por las instituciones financieras, en los casos y bajo las condiciones que a continuación se indican, como asimismo aquellos que se ofrezcan u otorguen para fomentar el uso de servicios automáticos de pagos y de transferencias electrónicas de fondos de que trata el Capítulo 1-7 de esta Recopilación Actualizada de Normas, como igualmente los que se otorguen para incentivar la utilización de los servicios de cajas que ofrecen algunas sociedades de apoyo al giro, para el pago de servicios y recaudaciones.
 
 1.- Beneficios otorgados a las personas en su calidad de tenedores de tarjetas.
 
@@ -20584,15 +20584,19 @@ Podrán otorgarse beneficios a los titulares de tarjetas de crédito o de débit
 
 Este tipo de beneficios puede corresponder a bienes o prestaciones de servicios y descuentos en adquisiciones en el comercio o en operaciones activas o pasivas con la institución financiera, con la limitación de que ésta no puede entregar directamente los bienes corporales en que consistan los beneficios.
 
-Al tratarse de tarjetas de crédito, los beneficios indicados en este número también pueden otorgarse mediante sorteos.
+Al tratarse de tarjetas de crédito o de aquellas operaciones a que se refiere el N° 3 siguiente, los beneficios indicados en este número también pueden otorgarse mediante sorteos.
 
-3.- Condiciones generales.
+3. - Beneficios por la utilización de servicios de pagos y transferencias automáticos y de cajas especiales de recaudación y pagos.
+
+Las instituciones financieras podrán ofrecer los mismos beneficios, según lo establecido en los N°s 1 y 2 precedentes a los clientes que utilicen sus servicios automáticos para pagos y transferencias de fondos, como también podrán hacerlo las sociedades de apoyo al giro cuyo rubro contemple la recepción de pagos y recaudaciones, para aquellas personas que concurran a efectuar pagos de cuentas a las cajas de sus locales Los beneficios antes mencionados, también podrán otorgarse, en el caso de que trata este número 3, mediante sorteos o concursos por acumulación de puntaje por los servicios utilizados. En todo caso, los premios quedan sujetos a las limitaciones y condiciones establecidas en este Capítulo.
+
+4.- Condiciones generales.
 
 La posibilidad de otorgar los beneficios de que tratan los números precedentes, queda sujeta al cumplimiento de las siguientes condiciones generales:
 
 a) Los beneficios no podrán consistir en la entrega de dinero en cualquier forma.
 
-b) Para tarjetas distintas a las de crédito, no se podrán asignar los beneficios mediante sorteos u otros procedimientos selectivos basados en el azar.
+b) Los beneficios podrán asignarse mediante sorteo solamente en el caso de tarjetas de crédito y de las operaciones mencionadas en el N° 3 anterior.
 
 c) La institución financiera no podrá participar en la entrega de bienes o servicios ajenos a su giro. Esto se refiere tanto a la administración de su entrega como a la responsabilidad que se asume en el proceso.
 
