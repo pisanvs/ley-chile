@@ -1,0 +1,3 @@
+Por decreto MOP Nº513 de fecha 18 de marzo del 2002, se expropió el lote de terreno Nº412, superficie 3.649 m2., Rol de Avalúo Nº33-350, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Km. 12,70000 a Km. 16,48000" y se acordó el valor de indemnización con su propietaria Hilda María Pino, ascendente a la cantidad de $6.827.935.-
+
+Fiscal del Ministerio de Obras Públicas.
