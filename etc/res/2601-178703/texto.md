@@ -1,0 +1,3 @@
+Por resolución Nº 2.601, de 6 de diciembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96101188 presentada por ALDO ROLANDO HUALME RIVAS para instalar y operar un centro de cultivo ubicado en Sector Lepihue, Río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 6 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
