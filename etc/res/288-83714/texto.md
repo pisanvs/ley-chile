@@ -1,0 +1,11 @@
+AUTORIZA A DON JOSE AMADOR FREIRE PETIT PARA INICIAR ACTIVIDADES PESQUERAS.DENIEGA AUTORIZACIONES QUE INDICA
+
+Por Resolución No. 288, de 16 de Febrero de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don José Amador Freire Petit, RUT No. 453.9540, domiciliado en San Antonio, para iniciar actividades pesqueras, en orden a operar la embarcación Tijamx.
+
+Se fija como zona de operación de la nave individualizada precedentemente, el litoral de las Regiones I a XI, donde podrán extraer los siguientes recursos hidrobiológicos: Albacora o pez espada; Marrajo o tiburón. Asimismo el interesado podrá extraer con la nave antes referida, en el litoral de las Regiones III a VII, IX a XII, los siguientes recursos hidrobiológicos: Anchoa; Sardina común, Sardina. Autorízase al peticionario para capturar con la nave señalada, en el litoral de las Regiones I al paralelo 43° L.S., excluidas las aguas interiores, los siguientes recursos hidrobiológicos: Bacalao de profundidad o Mero; Congrio colorado; Congrio dorado; Congrio negro; Lenguado de ojos chicos; Pejegallo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Se deniega la autorización solicitada por el peticionario, para capturar con la nave Tijamx en el litoral de las Regiones I, II y VIII, los recursos hidrobiológicos: sardina, sardina común y anchoa, en atención a que a la fecha de la solicitud que incide en la presente Resolución se encontraban vigentes las disposiciones del Decreto No. 436, de 1985, prorrogado por el Decreto No. 363, de 1989, ambos del Ministerio de Economía, Fomento y Reconstrucción. Deniégase la autorización solicitada por el peticionario para capturar con la nave señalada a que se refiere la presente Resolución, en las aguas interiores de las Regiones X y XI en la extracción de peces demersales en virtud de lo dispuesto en ei Decreto No. 291, de 1989, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 16 de Febrero de 1990.- Roberto Cabezas Bello, Subsecretario de Pesca.
