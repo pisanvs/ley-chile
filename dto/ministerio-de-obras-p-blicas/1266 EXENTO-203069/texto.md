@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.266 de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº50, superficie 355,0 m2, rol de avalúo Nº74-1, comuna de Galvarino, para la obra ''Camino Ruta S-16 sector Galvarino-Chol Chol, tramo Km. 0,00000 al Km. 24,30269, correspondiente al Sub-tramo II Km. 8,339 al Km. 15,574, provincia de Cautín, comuna de Galvarino y Nueva Imperial'', IX Región y se acordó el valor de la indemnización con su propietario Sociedad Agropecuaria Santa Alicia Limitada, ascendente a la cantidad de $213.464.-
+
+Fiscal del Ministerio de Obras Públicas.
