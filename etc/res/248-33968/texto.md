@@ -1,0 +1,3 @@
+Por Resolución N° 248, de 8 de marzo de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se denegó la solicitud de concesión de acuicultura presentada por doña Ana de las Mercedes Vega Salazar, para un sector ubicado en la Bahía Tic-Toc, comuna de Chaitén, Provincia de Palena, X Región, en virtud de lo dispuesto en los artículos 76°, 77°, 78° y 5° transitorio inciso 6°, de la Ley General de Pesca y Acuicultura y el artículo 14° del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción. Asimismo, se dejó sin efecto la Resolución N° 1204, de 1990, de esta Subsecretaría.
+
+Valparaíso, 8 de Marzo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
