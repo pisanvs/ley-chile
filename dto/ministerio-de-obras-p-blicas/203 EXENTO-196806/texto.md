@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 203, de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 22, superficies 5.474,5 m2, rol de avalúo 307-101, comuna de Curacautín, IX Región, para la obra "Lautaro Curacautín III, Segunda Etapa, Km. 28,000 al 56,04946" y se acordó el valor de indemnización con su propietaria doña María Ester Monje Muñoz y Otros, ascendente a la cantidad de $2.525.982.-
+
+Fiscal del Ministerio de Obras Públicas.
