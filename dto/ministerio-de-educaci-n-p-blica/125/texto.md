@@ -1,0 +1,5 @@
+Por Decreto Exento N° 125 de fecha 17 de Marzo de 1993 del Ministerio de Educación fue aprobada a la Universidad de Temuco, inscrita en el Registro de Universidades bajo el Folio C-N° 36 del año 1989, la modificación del plan y programa de estudios de la carrera de Diseño conducente al título profesional de Diseñador Gráfico y Publicitario, en virtud de la cual la carrera conducirá además, al grado académico de Licenciado en Comunicación Visual, según consta de Certificado N° 15 de fecha 05 de Marzo de 1993 del Consejo Superior de Educación.
+
+La modificación del plan y programa de estudios de la carrera, título profesional y grado académico señalada en el artículo anterior se entiende referido a la sede de Temuco y regirá a partir de la total tramitación del presente Decreto y corresponderá al Consejo Superior de Educación su verificación.
+
+Santiago, 12 de Abril de 1993.- Raúl Allard Neumann, Subsecretario de Educación.
