@@ -1,0 +1,3 @@
+Resolución 54, 16 abril 1998, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº260, rol de avalúo Nº105-0024, comuna Concepción, superficie 96 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-105-0024; de aparente dominio de Sylvia Margarita Jacobowitz Jacobowitz, para ejecución programa ''Mejoramiento Interconexión Vial Centro Concepción-Autopista Talcahuano'', conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión peritos integrada por Boris Aptecar G., arquitecto, Gerardo Valverde V., arquitecto y Sergio Labarca G., constructor civil, según informe de fecha 25 de octubre de 1997, fijó monto provisional indemnización en $23.510.000, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
