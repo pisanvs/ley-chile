@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.431, de 30 de mayo de 2000, se expropió el lote de terreno Nº83, superficie 220 m², rol de avalúo 5354-21, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca, Sector A: Acceso Sur a Santiago, Región Metropolitana, y se acordó el valor de indemnización con su propietario Hugo Bontá Péndola, ascendente a la cantidad de $23.133.635.
+
+Fiscal del Ministerio de Obras Públicas.
