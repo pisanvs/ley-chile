@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 219 de fecha 28 de febrero del 2002, se expropió el lote de terreno Nº 11-A, superficie 130 m², rol de avalúo 138-75, comuna de Chonchi, para la obra "Camino Acceso Sur a Chonchi, Sector Ruta 5 - Chonchi, Km. 0.000 al 3,25253" y se acordó el valor de indemnización con su propietario Hansel Ovidio Cárdenas Gómez, ascendente a la cantidad de $314.760.
+
+Fiscal del Ministerio de Obras Públicas.
