@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº865 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº28, superficie 998,01 m2., rol de avalúo Nº1252-133, comuna de Parral, para la obra ''Camino Ruta L-70, sector Cruce Ruta 128-Cuatro Esquinas, Km. 0,000 a Km. 15,800'', VII Región y se acordó el valor de indemnización con su propietario Luis Omar Urra Lastra y otros, ascendente a la cantidad de $1.391.951.-
+
+Fiscal del Ministerio de Obras Públicas.
