@@ -1,0 +1,5 @@
+Por resolución No. 915 de 13 de Agosto de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la resolución No. 321, de 1989, de esta Subsecretaría, que autorizó a don CLAUDIO LARCO BRICEÑO, RUT No. 8.316.496-4, domiciliado en la ciudad de Caldera, calle Isla Picton No. 140, para iniciar actividades pesqueras de cultivo, en el sentido de sustituir su numeral 2° párrafo 2°, por el siguiente: "Las coordenadas geográficas son las siguientes, de acuerdo con el plano que acompaña a la solicitud signado por el Servicio Nacional de Pesca con el Ordinal No. 1.146 y la Carta del Instituto Hidrográfico de la Armada No. 311:
+
+Vértice A Latitud 27° 08' 14,00' S Longitud 70° 53' 51,00" W Vértice B Latitud 27° 08' 14,00" S Longitud 70° 53' 42,00" W Vértice C Latitud 27° 08' 25,00" S Longitud 70° 53' 42,00" W Vértice D Latitud 27° 08' 25,00" S Longitud 70° 53' 51,00" W
+
+Valparaíso, 13 de Agosto de 1991.- Andrés Couve Rioseco Subsecretario de Pesca.
