@@ -1,0 +1,3 @@
+Por resolución exenta Nº 406, de 12 de febrero de 2004, de esta Subsecretaría, autorízase a AMADO DEL CARMEN GARCIA CAMPOS, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Luis Marín Cerda Nº 472, población Playa Grande, Tongoy, Coquimbo, IV Región, donde podrá elaborar en las líneas de proceso Cocido, Fresco Enfriado, Fresco Refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 12 de febrero de 2004.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
