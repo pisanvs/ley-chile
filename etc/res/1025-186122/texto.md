@@ -1,0 +1,3 @@
+Por resolución Nº1.025 de 29 de mayo de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº97105030 presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES PRODUCTORES Y RECOLECTORES DE ALGAS "BAHIA HUELDEN", para un centro de cultivo ubicado en un sector al Oeste de Punta Lamecura, X Región.
+
+Valparaíso, 29 de mayo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
