@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.902, de 31 de octubre del 2000, se expropió el lote de terreno Nº261-D, superficie 39 m2., rol de avalúo 99-358, comuna de La Ligua, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Jorge del Carmen Fernández Zúñiga, ascendente a la cantidad de $1.001.466.-
+
+Fiscal del Ministerio de Obras Públicas.
