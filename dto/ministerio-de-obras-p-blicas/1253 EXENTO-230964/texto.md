@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.253 de 31 de agosto de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nos 98-A y 98-B para la obra: Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo km. 12,70000 a km.
+
+18,19349; que figuran a nombre de Yanez Peralta Raimundo Antonio, rol de avalúo 33-123, comuna de Pichidegua, VI Región, superficies 841 y 841 m² respectivamente. La Comisión de Peritos, fijó con fecha 25 de octubre de 2001 en la cantidad de $1.362.420.- lote Nº 98-A y $1.513.800.- lote Nº 98-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
