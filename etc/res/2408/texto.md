@@ -1,0 +1,3 @@
+Por resolución Nº 2.408, de 15 de diciembre de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 997, de 1996, de esta Subsecretaría, en cuanto autorizó a LUIS FRANCISCO TORRES CARVAJAL, para ampliar actividades con la nave ''Guayacán'' respecto de los recursos Anchoveta, Sardina Española, Jurel, Bonito, Caballa y Cojinoba del norte en la III y IV Regiones, de conformidad con la letra B) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Santiago, 15 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
