@@ -1,0 +1,5 @@
+AUTORIZA A EMPRESA PESQUERA Y CONSERVERA PROTEUS S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA
+
+Por resolución No. 275, de 18 de Marzo de 1986, de la Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Empresa Pesquera y Conservera Proteus S.A. domiciliada en Santiago para instalar y operar los siguientes establecimientos de cultivo en Bahía de Guanaqueros; de ostión del Norte en un rea de 500.000 m2.; de ostra del Pacífico, en un rea de 180.000 m2, y de salmón plateado, salmón rey, salmón keta y trocha arco iris en un rea de 39.000 m2. Asimismo, se le autoriza para instalar y operar un hutehery para la producción de semilla de ostión del Norte, en la planta de Coquimbo, autorizada por resolución No. 140, de 1983. Además, se deroga la resolución No. 47, de 1985 de la misma Subsecretaria que autorizó a la peticionaria la operación de un cultivo de ostión del Norte en Bahía de Guanaqueros, en una superficie de 50.000 m2.
+
+Valparaíso, 18 de Marzo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
