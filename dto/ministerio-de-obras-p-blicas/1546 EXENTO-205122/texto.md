@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.546, de fecha 29 de octubre de 2002, se expropió el lote de terreno Nº 37-A, superficie 1.067 m2, rol de avalúo 524-298, comuna de La Unión, X Región, para la obra ''Camino Ruta T-80, Sector La Unión - Las Trancas, tramo Km. 0,900 al 10,99034'' y se acordó el valor de indemnización con su propietario don Luis Guillermo Muñoz Molina, ascendente a la cantidad de $1.178.626.-
+
+Fiscal del Ministerio de Obras Públicas.
