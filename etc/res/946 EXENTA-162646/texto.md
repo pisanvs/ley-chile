@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 946 de 24 de Julio de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a la reserva y sector expropiado predios "Tapihue" y "Poza Oscura" de la comuna de Casablanca, V Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 14 y sitio N° 10 del proyecto de parcelación "Poza Oscura" formado por predios señalados. Los derechos de agua se extraen del canal proveniente del Embalse Perales de Tapihue y de 2 Pozos Profundos.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+- Director Ejecutivo.
