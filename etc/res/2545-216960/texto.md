@@ -1,0 +1,11 @@
+Por resolución Nº 2.545, de 16 de octubre de 2003, de esta Subsecretaría, autorízase a la UNIVERSIDAD AUSTRAL DE CHILE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería artesanal de Anchoveta y Sardina común en la X Región (Valdivia)", elaborado por la solicitante y aprobado por esta Subsecretaría.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en monitorear la pesquería artesanal de anchoveta y sardina común en la X Región, con exclusión de aguas interiores. La pesca de investigación se efectuará en el área marítima comprendida entre el límite norte de la X Región y Punta Galera (40° L.S.), excluyendo las aguas interiores, en el período comprendido entre la fecha de la presente resolución y el 9 de diciembre de 2003, ambas fecha inclusive.
+
+La pesca de investigación se realizará con las lanchas artesanales cerqueras que se indican, las que se encuentran inscritas en el Registro Artesanal de la X Región, sección pesquería de las especies anchoveta y sardina común: "Don Héctor I", "Samaritano", "Getsemaní", "Nelly", "Nabor I", "Don Alberto II", "Margarita del Mar", "Samaritano II", "Don Joaquín", "Don Borney", "Nicolás", "Eben Ezer", "Tiburón I", "Santa Isabel".
+
+En cumplimiento de los objetivos de la presente pesca de investigación, las embarcaciones artesanales podrán extraer en conjunto un máximo de 5.100 toneladas de anchoveta y 2.550 toneladas de sardina común, las que se imputarán a la fracción autorizada para ser extraída por la flota artesanal en el área marítima correspondiente a la X Región, con exclusión de las aguas interiores, correspondiente al período julio-diciembre de 2003.
+
+La Universidad Austral de Chile designa como persona responsable de esta pesca de investigación al rector de dicha Casa de Estudios, don Carlos Amtmann Moyano.
+
+Valparaíso, 16 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
