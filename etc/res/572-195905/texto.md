@@ -1,0 +1,3 @@
+Por resolución Nº572, de 18 de marzo de 2002, de esta Subsecretaría, modifícase el numeral 2º de la resolución Nº124 de 2001, de esta Subsecretaría, que declaró la caducidad parcial de la resolución Nº1.286 de 1998, en el sentido de reemplazar la expresión "Sardina común Clupea bentincki" por "Sardina española Sardinops sagax", en virtud de haberse cometido un error de hecho en su señalamiento.
+
+Valparaíso, 18 de marzo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
