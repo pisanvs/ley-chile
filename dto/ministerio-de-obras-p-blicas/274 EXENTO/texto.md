@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº274, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº32-C, superficie 67 m², rol de avalúo en trámite, comuna de Linares, para la obra ''Camino Ruta L-32, Sector Cruce Ruta 5-Puente Sifón, Tramo Km. 2,320 a Km. 17,66644 y Km. 0,000 a Km. 0,963 (Variante)'' y se acordó el valor de indemnización con su propietario Manuel Jesús Vásquez López, ascendente a la cantidad de $139.536.
+
+Fiscal del Ministerio de Obras Públicas.
