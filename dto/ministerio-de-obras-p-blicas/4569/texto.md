@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.569, de fecha 29 de septiembre de 2000, se expropiaron los lotes de terreno Nºs.74 y 74-A, superficies 392 y 1.478 M2., respectivamente, rol de avalúo 531-28, comuna de Linares, para la obra ''Camino Ruta L-32, Sector Cruce Ruta 5 - Puente Sifón, Tramo Kms. 2,320 al 17,66644 y Kms. 0,000 al 0,963 (Vadante)'' y se acordó el valor de indemnización con su propietario Carlos Humberto Zumaran Torres, ascendente a la cantidad de $576.693.-
+
+Fiscal del Ministerio de Obras Públicas.
