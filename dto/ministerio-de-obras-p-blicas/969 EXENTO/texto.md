@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº969, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº39, superficie 149,80 m², rol Nº412-3, comuna de Buin, Región Metropolitana, para la obra ''Camino sin Rol, Sector Peralillo - Abrantes, Tramo Km. 0,00000 al 6,03921'' y se acordó el valor de indemnización con su propietario Héctor Eliseo Quintanilla Jorquera, ascendente a la cantidad de $1.530.595.-
+
+Fiscal del Ministerio de Obras Públicas.
