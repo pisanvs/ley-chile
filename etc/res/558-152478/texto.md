@@ -1,0 +1,3 @@
+Por resolución No. 558 de 06 de Junio de 1986 de Dirección SERVIU Metropolitano, se ordenó expropiación, conforme DL No. 2186 de 1978, inmueble ubicado en calle Yungay No. 4967, presunto rol avalúos No. 7696-27, comuna San Miguel, aparentemente dominio doña Yolanda Valdivia Valdivia. Comisión Tasadora integrada por señores Roberto Correa Bezanilla, arquitecto, Luis Nieto Espinoza y Emilio Recabarren Solar, ingenieros civiles, según informe del mes de Diciembre de 1985 fijó monto provisional indemnización en $ 954.000.- pagadera al contado.
+
+Director SERVIU Metropolitano.
