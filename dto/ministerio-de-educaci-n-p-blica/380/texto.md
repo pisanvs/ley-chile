@@ -1,0 +1,3 @@
+Por decreto supremo exento de Educación N° 380 de 11 de noviembre de 1992 se ha aprobado, a contar del 1° de marzo de 1992, al Colegio Particular de Adultos Itesa Capacitación, un plan especial de estudio para adultos que se desarrollará en dos años lectivos -4 semestres- equivalentes a la educación media humanístico-científica.
+
+Santiago, 21 de Diciembre de 1992.- Raúl Allard Neumann, Subsecretario de Educación.
