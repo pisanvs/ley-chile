@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.812, de 31 de octubre del 2001, se expropió el lote de terreno Nº75, superficie 77 m2., rol de avalúo 692-35, comuna de Estación Central, para la obra Sistema Norte-sur. Tramo G: Nudo Alameda Sector Kms. 1.980,00 al 2.220,00, Región Metropolitana y se acordó el valor de indemnización con su propietaria Ernestina Espínola Villaseca y otro, ascendente a la cantidad de $25.288.249.
+
+- Fiscal del Ministerio de Obras Públicas.
