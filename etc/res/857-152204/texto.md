@@ -1,0 +1,5 @@
+AUTORIZA A SMOLT (CHILE) S.A. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 857 de 06 de Agosto de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Smolt (Chile) S.A., domiciliada en Santiago, Región Metropolitana, para iniciar actividades pesqueras de cultivo en "Fundo La Puntilla", ubicado en un sector de la Comuna de Puerto Varas, Provincia de Llanquihue, X Región, (Carta No. 43 -La Cascada- Instituto Geográfico Militar. Plano Ordinal Servicio Nacional de Pesca No. 602 a y b), donde incubará y criará los siguientes recursos hidrobiológicos: Salmón plateado, Salmón rey, Salmón del Atlántico y Trucha arcoiris. Serán adquiridos en centros nacionales de cultivo o en el extranjero, dando cumplimiento a la reglamentación vigente.
+
+Valparaíso, 06 de Agosto de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
