@@ -1,0 +1,3 @@
+Por resolución exenta Nº 647, de 8 de marzo de 2005, de esta Subsecretaría, autorízase a BRACPESCA S.A., para ampliar actividades pesqueras extractivas con la nave "Nisshim Maru Nº 3", en el área marítima que se indica, por fuera del área de reserva artesanal, donde podrá capturar el recurso hidrobiológico que a continuación se señala: a) En el área marítima comprendida entre la I y XII regiones, con potera: Jibia.
+
+Valparaíso, 8 de marzo de 2005. Felipe Sandoval Precht, Subsecretario de Pesca.
