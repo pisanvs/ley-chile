@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 27 EXENTO, DE 1998
+
+Por Decreto exento Nº 27 de fecha 19 de enero de 1998 del Ministerio de Educación, se revocó el reconocimiento oficial y se eliminó del Registro de Centros de Formación Técnica el Nº 138 correspondiente al Centro de Formación Técnica Instituto Superior de Técnicas de la Comunicación ISTECO, organizado por la Sociedad Centro de Formación Técnica Instituto Superior de Técnicas de la Comunicación ISTECO Limitada, dejándose sin efecto el Decreto Exento de Educación Nº 258 del 8 de Agosto de 1986, modificado por Decreto Exento de Educación Nº 167 del 21 de Abril de 1993 y las Resoluciones exentas que aprobaron planes y programas de estudios de las carreras técnicas para el Centro de Formación Técnica mencionado. Ello a solicitud de la propia institución.
+
+Santiago, 4 de febrero de 1998.- Jaime Pérez de Arce Araya, Subsecretario de Educación.
