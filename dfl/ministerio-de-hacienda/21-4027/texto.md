@@ -1,0 +1,1 @@
+Fija normas para cancelar viáticos y gastos de movilización a los funcionarios que deban cumplir comisiones de servicio fuera del lugar de su desempeño habitual.
