@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.852 de fecha 30 de noviembre del 2001, se expropiaron los lotes de terreno Nºs. 44-B y 45, superficie 805 y 7.515 m2 respectivamente, Rol de Avalúo Nº152-38, comuna de San Nicolás, para la obra "Camino Ruta N-60-O, Sector Río Ñuble - Portezuelo, Tramo Km. 6.900.00 al 28.833.35" y se acordó el valor de indemnización con su propietario Aurelio Tolosa Riquelme, ascendente a la cantidad de $2.853.269.
+
+- Fiscal del Ministerio de Obras Públicas.
