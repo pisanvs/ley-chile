@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°292, de 20 de Septiembre de 1993, se expropiaron los lotes de terreno N°s. 8 y 8-A, superficies 1.210 m2. y 680,14 m2., rol de avalúo 307-7, Comuna de San Fernando para la obra Camino San Fernando Puente Negro, sector San Fernando y se acordó precio de indemnización con su propietaria Sociedad Agrícola Talcarehue Ltda., ascendente a la cantidad de $1.596.235.-
+
+Fiscal del Ministerio de Obras Públicas.
