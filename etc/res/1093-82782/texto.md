@@ -1,0 +1,5 @@
+CADUCA RESOLUCIONES QUE INDICA
+
+Por Resolución No. 1.093 de 07 de Septiembre de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad conforme al artículo 7°, del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, las siguientes Resoluciones: a) Resolución No. 110, de 1986, de esta Subsecretaría, que autorizó a Corporación Explotadora de Recursos Marinos Marheas Limitada, domiciliada en la ciudad de Santiago, para desarrollar actividades pesqueras de cultivo. b) Resolución No. 377, de 1987, de esta Subsecretaría, que autorizó a don Patricio Hernán Godoy González, RUT No. 7.091.077-2, domiciliado en Avenida Costanera, Cabina No. 1 de Huasco, para desarrollar actividades pesqueras de transformación.
+
+Valparaíso, 07 de Septiembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
