@@ -1,0 +1,3 @@
+Por Resolución N° 149, de 9 de febrero de 1994 de Serviu Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, parte inmueble ubicado en calle Sierra Bella N° 2749, presunto rol de avalúos N° 615-18 Comuna de San Joaquín, aparente dominio de doña Julia Sánchez Toro. Comisión integrada por peritos Sres. Roberto Correa Bezanilla y Jorge Felipe Cádiz Bouch, arquitectos, y Sra. Patricia Zavala Contreras, constructor civil, según informe de 25 de noviembre de 1993, fijó monto provisional indemnización en $1.171.800 pagadera al contado.-
+
+Directora Serviu Metropolitano.
