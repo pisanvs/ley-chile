@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.478, de 31 de mayo de 1999, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs.1, 2, 3, 4, 5 y 6, para la obra Diseño Alcantarillado Aguas Servidas de Curicó, que figuran a nombre de Matadero Frigorífico Guerra e Hijos, Jorge Arnaldo Astrosa Acevedo, Sociedad Agrícola y Frutícola Lozano Ltda. y María Rafaela Pérez Lozano, roles de avalúos 508-38, 508-37, 508-39, 507-46, 507-45 y 507-12, comuna de Curicó, VII Región, superficies 1.584, 6.150, 3.240, 2.160, 1.776 y 90.350 m2., respectivamente. La comisión de peritos compuesta por los señores Hugo Villarroel Urbina, Iván Correa Opazo y Carlos Sottolichio Díaz, fijó con fecha 20 de enero de 1999, el valor provisional de la indemnización en las cantidades de $3.960.000, lote 1; $12.300.000, lote 2; $5.310.000, lote 3;
+
+$2.160.000, lote 4; $1.420.800, lote 5 y $65.052.000, lote 6. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
