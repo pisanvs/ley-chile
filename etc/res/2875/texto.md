@@ -1,0 +1,3 @@
+Por resolución Nº 2.875, de 17 de diciembre de 2002, de esta Subsecretaría, declárase que con fecha 6 de diciembre de 2002 han quedado sin efecto las resoluciones Nº 2.174 de 1996, Nº 132 de 1997, Nº 205 de 2000, Nº 1.297, Nº 1.887 y Nº 2.508, todas de 2001, de esta Subsecretaría, que autorizaron a PESQUERA PLAYA BLANCA S.A., para desarrollar actividad extractiva con la nave Gangstad Junior, en conformidad con lo dispuesto en el artículo 9º de la ley Nº 19.713. Dicha nave queda permanente e irrevocablemente excluida de la actividad pesquera extractiva.
+
+Valparaíso, 17 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
