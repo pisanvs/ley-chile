@@ -9412,7 +9412,7 @@ La institución que adquiere el documento, por su parte, registrará la operaci�
 
 No obstante lo señalado en los numerales precedentes, las instituciones financieras deberán aplicar las instrucciones específicas que en cada caso se señalan para las siguientes operaciones:
 
-a) Las adquisiciones de efectos de comercio en moneda extranjera, correspondientes a operaciones de exportación y aquellos que sean adquiridos con recursos provenientes del exterior conocidos como "acuerdo 1196", deberán ser registrados en la forma prevista en los Capítulos 14-3 y 13-13, respectivamente, de esta Recopilación Actualizada de Normas.
+a) Las adquisiciones o descuentos de letras o pagarés de operaciones de exportación emitidos al amparo de una carta de crédito o provenientes de una cobranza de exportación, se incluirán en la partida 1130 ó 1225, según sea el plazo que medie entre la fecha del descuento y el vencimiento del respectivo instrumento.
 
 b) Las adquisiciones o descuentos de documentos en moneda extranjera correspondientes a créditos otorgados a personas residentes en el exterior para financiar operaciones de comercio exterior con Chile, tratados en el Capítulo 13-27 de esta Recopilación, deberán registrarse de la forma que se establece en dicho Capítulo.
 
@@ -21290,95 +21290,37 @@ Los créditos de que trata este capítulo y las obligaciones que de ellos se der
 
 CAPITULO 14-3 (Bancos)
 
-MATERIA
+MATERIA:
 
-FINANCIAMIENTO DE EXPORTACIONES.
+CREDITOS INTERNOS PARA EXPORTACIONES.
 
-Los financiamientos de exportación que otorguen las empresas bancarias, pueden asumir las modalidades de préstamo con letra o contra suscripción de pagaré, como también pueden corresponder al descuento o compra de letras de cambio o pagarés, con responsabilidad del endosante o sin ella, originados en cartas de crédito negociadas a plazo o en exportaciones efectuadas en cobranza.
+1.- Créditos para financiar exportaciones.
 
-Asimismo, quedan comprendidos en estos financiamientos los pagos anticipados de las obligaciones derivadas de la negociación de cartas de crédito confirmadas, pagaderas a plazo o contra aceptación, como también los que se hagan por cartas de crédito no confirmadas, siempre que éstas hayan sido negociadas sin reservas por el banco emisor y que cuenten con la autorización de ese banco para cursar dicho pago anticipado y para rembolsarse al vencimiento.
+Las empresas bancadas pueden otorgar créditos en moneda extranjera para financiar exportaciones, de acuerdo con lo establecido en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
-1.- Liquidación los créditos
+Dichos créditos pueden corresponder a préstamos documentados con pagaré o con letra de cambio.
 
-Los créditos para el financiamiento de exportaciones deben ser liquidados en el Mercado Cambiario Formal, a través de una empresa bancaria, a más tardar el día hábil bancario siguiente al de su otorgamiento.
+2.- Liquidación de los créditos.
 
-La institución bancaria que liquide un crédito de exportación deberá emitir la correspondiente Planilla de Ingreso, de conformidad con las instrucciones del Banco Central de Chile.
+Los créditos internos para financiar exportaciones deben ser liquidados en el Mercado Cambiado Formal, a través de una empresa bancada, a más tardar el día hábil bancario siguiente al de su otorgamiento.
 
-2.- Pago de los créditos.
+El banco que liquide las divisas producto de tales créditos deberá obtener previamente instrucciones escritas del exportador.
+
+Por la liquidación de un crédito de exportación debe emitirse la correspondiente Planilla de Ingreso, de conformidad con las instrucciones del Banco Central de Chile.
+
+3.- Pago de los créditos.
 
 El pago de los créditos podrá efectuarse antes de su vencimiento si se realiza con la liquidación de divisas provenientes de retornos de exportación.
 
-El pago de los créditos por los cuales no se hayan efectuado embarques de mercaderías, podrá realizarse con divisas adquiridas en el mercado cambiario formal.
+El pago de los créditos por los cuales no se hayan efectuado embarques de mercaderías, podrá realizarse con divisas adquiridas en el mercado cambiado formal. En tal caso, deberá emitirse la correspondiente Planilla de Anulación de Ingreso, según las instrucciones del Banco Central de Chile.
 
-3.- Intereses.
+Las instituciones bancadas tienen acceso al Mercado Cambiado Formal de divisas para cubrir los intereses ganados sobre los créditos que otorguen en moneda extranjera destinados al financiamiento de exportaciones.
 
-Las instituciones bancarias tienen acceso al Mercado Cambiario Formal de divisas para cubrir los intereses ganados sobre los créditos que otorguen en moneda extranjera destinados al financiamiento de exportaciones.
+4.- Normas contables.
 
-La tasa de interés que se aplique a estas operaciones será la que se convenga entre las partes, con sujeción, en todo caso, a las limitaciones establecidas en la Ley N° 18010.
+Las instituciones bancadas contabilizarán los préstamos de que trata este Capítulo en la cuenta "Préstamos para exportadores" de la partida 1130 ó 1225, según sea el plazo pactado.
 
-4.- Anticipos sobre cartas de crédito negociadas.
-
-De conformidad con lo dispuesto en los Capítulos 14-1 y 13-27 de esta Recopilación, las instituciones bancarias están facultadas para otorgar financiamiento a los respectivos emisores de cartas de crédito de exportación negociadas, confirmadas y no confirmadas, pagaderas a la vista o a plazo.
-
-Asimismo, los bancos pueden anticipar a los beneficiarios el pago de las obligaciones contraídas en su favor con motivo de la negociación a plazo de las cartas de crédito que hayan confirmado, como también podrán pagar anticipadamente las cartas de crédito a plazo, no confirmadas, siempre que hayan sido negociadas sin reservas por el banco emisor y que cuenten con la autorización de ese banco para cursar dicho pago anticipado y para rembolsarse al vencimiento.
-
-5.- Adquisición de letras o pagarés correspondientes a exportaciones en cobranza reembolsables por intermedio de Convenio de Crédito Recíproco.
-
-Los bancos que adquieran letras y pagarés correspondientes a operaciones de exportación enviadas en cobranza, aceptadas o suscritos por el importador y avalados por un banco facultado para operar por intermedio del Convenio de Pagos y Créditos Recíprocos, que haya autorizado su rembolso con cargo al referido convenio, deberán estar en posesión material de la letra de cambio o del pagaré para dar curso a tales operaciones.
-
-Estos documentos deben contar en el reverso, con la leyenda que a continuación se indica, con sus menciones completas: "REMBOLSO A TRAVES DEL CONVENIO DE CREDITO RECIPROCO CHILENO................BAJO EL N°.....ESTA (E) LETRA (PAGARE) PROVIENE DE LA EXPORTACION DE: (mercadería)
-
-PAIS EXPORTADOR: CHILE
-
-PAIS IMPORTADOR: ...............................................................
-
-FECHA DE EMBARQUE:.............VALOR US$........................................
-
-FECHA DE AVAL:................"
-
-Si se trata de una letra de cambio, deberá llevar en el anverso la indicación "Letra única de cambio", en tanto que si es pagaré, se deberá anotar la palabra "Pagaré".
-
-Los bancos remitirán oportunamente al banco avalista, las correspondientes letras o pagarés para su cobro al importador, debiendo señalar en la respectiva carta remesa la siguiente leyenda "SIRVANSE TOMAR NOTA QUE AL VENCIMIENTO DE ESTAS (OS) LETRAS (PAGARES) NOS REEMBOLSAREMOS AUTOMATICAMENTE DE SUS IMPORTES A TRAVES DEL CONVENIO DE CREDITO RECIPROCO SUSCRITO ENTRE NUESTROS BANCOS CENTRALES".
-
-Antes de enviar al banco avalista las referidas letras o pagarés, deberán dejar en sus archivos fotocopia del anverso y reverso de dichos documentos.
-
-6.- Normas contables.
-
-Las instituciones bancarias contabilizarán de la siguiente forma los créditos que cursen para el financiamiento de exportaciones.
-
-6.1.- Préstamos.
-
-Los préstamos documentados mediante aceptación de letra o suscripción de pagaré por parte de los exportadores, serán registrados en la cuenta "Préstamos para exportadores" de la partida 1130 ó 1225, según sea el plazo pactado.
-
-6.2.- Descuento de letras o pagarés de operaciones de exportación.
-
-En el evento de que el financiamiento se otorgue mediante el descuento de letras giradas y aceptadas o de pagarés emitidos al amparo de una carta de crédito o de una cobranza de exportación sobre el exterior, la operación se registrará en la cuenta "Descuento de documentos de exportación" subcuenta "Documentos avalados Corresponsales ALADI" u "Otros", según sea el caso. Estos créditos se registrarán por el valor par o, en su caso, por el valor nominal del documento, en la partida 1130 ó 1225, según sea el plazo que medie entre la fecha del descuento y el vencimiento del respectivo instrumento.
-
-6.3.- Compra de letras o pagarés de operaciones de exportación.
-
-Las letras de cambio giradas y aceptadas al amparo de una carta de crédito o de una cobranza de exportación sobre el exterior o de pagarés originados en esas operaciones, que sean adquiridos por las instituciones bancarias, serán registrados por su valor par, esto es, el valor nominal más los intereses devengados, o por su valor nominal, según proceda, en la cuenta "Documentos de exportación adquiridos" subcuenta "Documentos avalados-Corresponsales ALADI" u "Otros", según corresponda, de la partida 1130 ó 1225, de acuerdo con el plazo que medie entre la fecha de la adquisición y la del vencimiento del documento negociado.
-
-6.4.- Intereses sobre préstamos y descuentos.
-
-Los intereses devengados por los préstamos señalados en el numeral 6.1, serán acreditados en la cuenta "Intereses ganados por préstamos para exportadores", de la partida 7115.
-
-Los intereses correspondientes al descuento de letras o pagarés a que se refiere el numeral 6 2 de este Capitulo serán acreditados en la cuenta "Intereses descuento documentos de exportación", de la partida 4120 El importe que se devengue efectivamente en la medida en que transcurra el tiempo que medie entre la fecha del descuento y la fecha de vencimiento, se traspasará mensualmente a la cuenta "Intereses ganados por descuento documentos de exportación" de la partida 7115.
-
-6.5.- Diferencias de precio en la compra de letras o pagarés.
-
-La diferencia entre el valor par del documento y el precio de compra, se registrará en la cuenta "Diferencias de precio diferidas por compra de efectos de comercio", de la partida 2120, cuando este último sea mayor.
-
-Por otra parte, cuando el valor par o nominal del documento sea mayor que el precio de compra, la diferencia se registrará en la cuenta "Beneficios obtenidos y no devengados por compra de efectos de comercio", de la partida 4120.
-
-Estas diferencias se traspasarán a resultados al término de cada mes, en forma proporcional al tiempo que medie entre la fecha de adquisición del documento y su vencimiento.
-
-7.- Cesión de créditos de exportación entre instituciones bancarias.
-
-Las instituciones bancarias podrán cederse entre sí los créditos internos de exportación en moneda extranjera, de conformidad con las normas sobre Captación e Intermediación contenidas en el Capítulo III.B.1. del Compendio de Normas Financieras del Banco Central de Chile.
-
-8.- Instrucciones escritas de los exportadores.
-
-Los bancos que liquiden divisas provenientes de financiamientos de exportaciones, deberán obtener previamente instrucciones escritas del exportador para tal efecto.
+En dicha cuenta se registrará el importe correspondiente al capital, sea que se trate de préstamos en letras o con pagaré. Los respectivos intereses se registrarán también en moneda extranjera, de acuerdo con las instrucciones generales sobre la materia.
 
 CAPITULO 14-5 (Bancos y Financieras)
 
@@ -21770,19 +21712,21 @@ En virtud de la disposición legal antes señalada, se establece que los documen
 
 a) Las letras de cambio y los pagarés con que se documenten los créditos internos que los bancos otorguen a los exportadores para financiar exportaciones, de conformidad con lo dispuesto en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile, y en el Capítulo 14-3 de esta Recopilación.
 
-b) Los documentos en los que consten los anticipos de compradores del exterior y los créditos obtenidos en el exterior directamente por los exportadores, siempre que los internen al país con sujeción a las normas contenidas en las disposiciones citadas en la letra a) precedente.
+b) Los documentos de las operaciones señaladas en las letras b), c) y d) del N° 2 del título I del Capítulo 12-3 de esta Recopilación.
 
-c) Los documentos que den cuenta de financiamientos externos obtenidos por las empresas bancarias con el único fin de cursar los créditos señalados en la letra a) anterior.
+c) Los documentos en los que consten los anticipos de compradores del exterior y los créditos obtenidos en el exterior directamente por los exportadores, siempre que los internen al país con sujeción a las normas del Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales, antes mencionado..
 
-d) Los pagarés con que se documenten los préstamos cursados para emitir las Boletas de Garantía o cartas de crédito stand by a que se refiere el numeral 1.1 del Capítulo XXI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, y la letra a) del N° 5 del Capítulo 8-11 de esta Recopilación Actualizada de Normas.
+d) Los documentos que den cuenta de financiamientos externos obtenidos por las empresas bancarias con el único fin de cursar los créditos señalados en la letra a) anterior.
 
-e) Las letras de cambio y los pagarés con los que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, que tengan por objeto pagar a exportadores chilenos el precio de mercaderías importadas desde Chile, de conformidad con lo dispuesto en el N° 1 del titulo I del Capitulo 13-27 de esta Recopilación.
+e) Los pagarés con que se documenten los préstamos cursados para emitir las Boletas de Garantía o cartas de crédito stand by a que se refiere el numeral 1.1 del Capítulo XXI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, y las letras a) y b) anteriores del N° 5 del Capítulo 8-11 de esta Recopilación Actualizada de Normas.
+
+f) Las letras de cambio y los pagarés con los que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, que tengan por objeto pagar a exportadores chilenos el precio de mercaderías importadas desde Chile, de conformidad con lo dispuesto en el N° 1 del Capitulo 13-27 de esta Recopilación.
 
 2.- Créditos para operaciones ALADI.
 
 De conformidad con lo dispuesto por el N° 16 del articulo 24 del D.L. N° 3.475, incorporado por la Ley N° 19.155, publicada en el Diario Oficial del 13 de agosto de 1992, están exentos del impuesto de timbres y estampillas los documentos necesarios para el otorgamiento de créditos de dinero desde Chile hacia otros países, dentro del marco de los Convenios de Pagos y Créditos Recíprocos entre Bancos Centrales de los países miembros de la Asociación Latinoamericana de Integración (ALADI) , cuyas características determine esta Superintendencia.
 
-En concordancia con la disposición citada, se establece que los documentos que se beneficiarán de la exención antes citada, serán los instrumentos con que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, para financiar exportaciones destinadas a Chile, de conformidad con lo dispuesto en la letra e) del N° 1 del Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales y en el N° 2 del título I del Capítulo 13-27 de esta Recopilación, siempre que tales documentos sean rembolsables por intermedio del respectivo Convenio de Pagos y Créditos Recíproco.
+En concordancia con la disposición citada, se establece que los documentos que se beneficiarán de la exención antes citada, serán los instrumentos con que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, para financiar exportaciones destinadas a Chile, de conformidad con lo dispuesto en la letra e) del N° 1 del Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales y en el N° 2 del Capítulo 13-27 de esta Recopilación, siempre que tales documentos sean rembolsables por intermedio del respectivo Convenio de Pagos y Créditos Recíproco.
 
 CAPITULO 15-1 (Bancos)
 
