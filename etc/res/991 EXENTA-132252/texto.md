@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 991 de 09.06.88, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado predio "Hijuela Séptima del Fundo El Escuadrón y Buen Retiro" de la comuna de Coronel, VIII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s 1 a la 5, 7, 8, 11, 13 a la 15 y Reserva Cora No. Lote C, del Proyecto de Parcelación "Escuadrón", formado por predio señalado entre otros. Los Derechos de Agua se extraen del estero La Mora y de pozo ubicado en la parcela No. 11. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
