@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº884 de fecha 31 de mayo del 2002, se expropiaron los lotes de terreno Nºs. 24 y 25, superficie 2.009 y 1.683 m2, rol Nº302-56, comuna de Cunco, IX Región para la obra ''Camino Ruta S-61, sector Cunco - Melipeuco, Km. 55,000 al Km. 87,46783, correspondiente al Tramo I Km. 55.000 al Km. 62,784'', y se acordó el valor de indemnización con su propietario Fracisco René Cerda Lavado, ascendente a la cantidad de $3.627.793.-
+
+Fiscal del Ministerio de Obras Públicas.
