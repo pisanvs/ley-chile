@@ -1,0 +1,301 @@
+MODIFICA REGIMEN ADUANERO, TRIBUTARIO Y DE INCENTIVOS A LA I, II, III, XI Y XII REGION Y A LA ACTUAL PROVINCIA DE CHILOE
+
+Núm. 889.- Santiago, 30 de Enero de 1975.- Vistos: lo dispuesto en los decretos leyes N.os 1 y 128, de 1973, y 527, de 1974, y
+
+Considerando:
+
+1°- Que la actual legislación especial de las zonas extremas del país y las franquicias territoriales de diversa índole han producido una multiciplidad de áreas productivas sujetas a tratamientos discriminatorios que no conducen a una sana y efectiva competencia;
+
+2°- La necesidad y conveniencia de redefinir la política de incentivos a determinadas zonas geográficas del país para hacerla compatible con la política económica general del Gobierno;
+
+La Junta de Gobierno de la República de Chile ha acordado y dicta el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Sométese a la I, II, III, XI y XII Regiones y a la actual provincia de Chiloé al tratamiento aduanero, tributario y de incentivos especiales que señala este decreto ley.
+
+## Título I
+
+Primera Región
+
+#### Artículo 2°
+
+A partir del 1° de Enero de 1978, la importación de mercancías a la Primera Región estará afecta a los gravámenes aduaneros del Arancel General y a las demás normas generales de orden técnico, bancario, cambiario y aduanero que rijan en el resto del territorio nacional.
+
+#### Artículo 3°
+
+Las mercancías que se importen a la Primera Región de acuerdo con el artículo 2°, podrán internarse libremente al resto del territorio nacional.
+
+#### Artículo 4°
+
+A contar de la fecha de publicación del presente decreto ley y hasta el 31 de Diciembre de 1975, la importación de mercancías permitidas a la Primera Región continuará rigiéndose por las normas especiales de orden técnico, bancario, cambiario y aduanero preexistente, con excepción de la tasa de despacho que será de un 4%.
+
+Durante el año 1976, tales importaciones estarán afectas a una tasa de despacho del 2% y al 25% de los derechos arancelarios vigentes para el resto del país y en el año 1977 exentos de la tasa de despacho y afectos al 50% de los derechos del Arancel Aduanero General, siempre que no excedan el Arancel Aduanero General.
+
+Lo dispuesto en los incisos precedentes no será aplicable a las mercancías, los productos, partes o piezas o elementos, cuando provengan del exterior y exista armaduría, fabricación, elaboración o manufactura de los mismos en la Primera Región ya que éstos estarán afectos al Arancel General Aduanero y, en consecuencia, podrán internarse libremente al resto del territorio nacional.
+
+La importación de mercancías prohibidas continuará rigiéndose por las actuales disposiciones de orden técnico, bancario, cambiario y aduanero hasta el 31 de Diciembre de 1977.
+
+Los gravámenes aduaneros que se apliquen en mérito de la legislación preexistente a este decreto ley durante el lapso señalado en el inciso primero de este artículo, se rebajarán automáticamente y de pleno derecho en el mismo porcentaje en que lo sean los derechos del Arancel Aduanero General aplicables a las mismas mercancías en el resto del país. Si como resultado de esta disminución resultaren fracciones decimales inferiores a la mitad de un entero, aquéllas se despreciarán, reduciéndose el valor al entero inmediatamente inferior, y, si por el contrario, las fracciones resultantes fueren iguales o superiores a la mitad de un entero, se establecerá como resultado el entero inmediatamente superior y, todo ello, sin necesidad de declaración previa.
+
+"La rebaja de derechos señalada en el inciso anterior se aplicará mediante el cálculo del porcentaje de rebaja existente entre los derechos del Arancel Aduanero General vigente al 21-2-75, y los que rijan a la fecha de numeración de la respectiva póliza de importación. Dicho porcentaje se aplicará rebajando directamente la liquidación global de los gravámenes aduaneros que corresponda aplicar en la Región de acuerdo con su régimen especial. Con todo, estas rebajas no podrán impetrarse respecto de los gravámenes efectivamente pagados.
+
+#### Artículo 5°
+
+Los importadores de la I Región, durante cada uno de los años 1975, 1976 y 1977, podrán efectuar importaciones acogidas a lo dispuesto en los incisos 1°, 2° y 4° del artículo anterior, sólo hasta el valor equivalente en dólares de los Estados Unidos de Norteamérica que registraron durante el año 1974 en el Banco Central de Chile, conforme a los regímenes aduaneros especiales para la Región preexistente a este decreto ley, más un incremento acumulativo mensual del 3% durante el año 1975, del 2% durante 1976 y de 1% durante 1977.
+
+"El incremento mensual a que se refiere el inciso anterior será calculado en la misma moneda ya referida por el Banco Central de Chile, el que determinará la capacidad máxima de importación anual que corresponda a cada importador, pudiendo ser utilizada por ellos en cualquier época del año.
+
+Se faculta al Banco Central de Chile para aproximar a la unidad superior las fracciones decimales que resulten de la aplicación de las normas anteriores.
+
+Lo dispuesto en los incisos precedentes afectará únicamente a las importaciones señaladas en el inciso primero de este artículo excluyéndose, en consecuencia, todas las importaciones que se efectúen al amparo de un régimen de importación distinto tales como el Régimen General del país, los que disponen los programas de liberación del Tratado de Montevideo y el Acuerdo de Cartagena, el señalado en la ley 12.858, el DFL 266, de 1960 y, en general, los regímenes especiales sectoriales que se apliquen indistintamente en cualquier parte del territorio nacional.
+
+El Banco Central de Chile fijará, en consulta con el Ministerio de Economía, Fomento y Reconstrucción, para aquellos importadores que no hayan realizado operaciones en el lapso anteriormente señalado, las cuotas máximas de importación, por rubros, para los distintos departamentos de la Primera Región.
+
+#### Artículo 6°
+
+La internación al resto del territorio nacional de las mercancías importadas o que se importen a la Primera Región con arreglo a los incisos primero y segundo del artículo 4°, estarán sujetas a las normas especiales de orden técnico, bancario, cambiario y aduanero preexistente a este decreto ley con las siguientes modificaciones y modalidades:
+
+a) No será exigible la obtención de decreto de contingente ni de certificado de no producción de acuerdo con lo que prevé el artículo 20° de la ley 13.039 y sus modificaciones y su Reglamento, ni los porcentajes de integración nacional.
+
+b) El monto de la tasa de despacho y los derechos arancelarios pagados con motivo de la importación de mercancías a la Primera Región durante los años 1975, 1976 y 1977 sumado a los derechos aduaneros para internar tales mercancías al resto del territorio nacional, no podrá ser en ningún caso superior al que resultaría de aplicar el Arancel General Aduanero.
+
+c) No obstante lo dispuesto en la letra b) del artículo 10 del DL. 825, no corresponderá cancelar la diferencia que resulte entre lo solucionado en la I Región, a Título del impuesto a las ventas en virtud del artículo 16 del decreto ley mencionado, y el monto del impuesto que resultaría al aplicar el Arancel General Aduanero sobre el valor CIF de tales mercancías o valor aduanero según corresponda". En consecuencia no procederá trámite administrativo alguno para establecer tal diferencia.
+
+d) Durante los años 1976 y 1977 los derechos de internación al resto del país de esas mercancías serán rebajadas en un 50% y 75%, respectivamente.
+
+e) Los pasajeros que se acojan a las franquicias del inciso 2° del Art. 23° de la ley 13.039, abonarán al monto de los derechos aduaneros que origine la introducción de sus especies al resto del país, los porcentajes de gravámenes cancelados en la internación a la zona del tratamiento aduanero especial, incluida la Tasa de Despacho.
+
+> **Nota.** NOTA: 1 Esta modificación rige a contar del 21 de febrero de 1975. (DS 613, MIN. ECON., 1975, art. 1° N° 3 b).
+
+#### Artículo 7°
+
+Las franquicias preexistentes aludidas en el artículo 4° de este decreto ley se considerarán extendidas y otorgadas de pleno derecho a todo el ámbito territorial de la I Región desde la fecha de publicación de la ley que las concedió. En consecuencia, los importadores y demás personas y empresas beneficiadas por ellas gozarán de esas franquicias, cualesquiera que haya sido la ley o cuerpo reglamentario que se haya invocado o se invoque para impetrar la franquicia.
+
+En todo caso lo dispuesto en el inciso anterior no da derecho a impetrar devoluciones de derechos e impuestos pagados en su oportunidad.
+
+#### Artículo 8°
+
+La importación a la Primera Región de equipos CKD, partes o piezas para la industria automotriz no podrá implicar un pago de gravámenes aduaneros superior al que resultaría para esas mismas mercancías su importación con arreglo al régimen aduanero general del país.
+
+La industria automotriz en cuanto a la internación de vehículos motorizados al resto del territorio nacional continuará rigiéndose por las actuales normas especiales existentes sobre la materia y el monto total de los derechos aduaneros para internar al resto del país los vehículos motorizados sólo serán exigibles hasta la concurrencia de los derechos arancelarios generales vigentes para todo el territorio nacional, deducidos aquellos que se hubieren solucionado con motivo de su importación a la Primera Región.
+
+#### Artículo 9°
+
+Los contribuyentes de la Primera Región estarán exentos del 90% del impuesto de Primera Categoría de la Ley de Impuesto a la Renta que efectivamente les corresponda pagar por las rentas obtenidas de actividades desarrolladas dentro de la Primera Región en 1974; del 70% por las correspondientes a 1975; del 50% de las que se obtengan durante los años 1976 a 1983, y del 20% de las de los años 1984 y 1985, inclusive. Asimismo, los contribuyentes aludidos que sean sociedades anónimas o en comanditas por acciones, pagarán en el año tributario 1976, el 30%; desde 1977 a 1984, el 50%, y el 80% en los años 1985 y 1986, del monto de la Tasa Adicional que se establece en el Art. 21° de la Ley sobre Impuesto a la Renta.
+
+Los accionistas de dichas sociedades aplicarán en el año tributario 1977 el 30%; desde 1978 a 1985, el 50%, y el 80% en los años 1986 y 1987, del monto del crédito que se establece en el N° 3 del Art. 56°, y en el Art. 63° de la ley mencionada.
+
+Asimismo, los contribuyentes aludidos estarán exentos en los mismos porcentajes y por iguales períodos a los indicados en el inciso primero, pero contados a partir del 1° de Enero de 1975, del Impuesto Territorial que efectivamente les corresponda pagar respecto de sus bienes raíces situados dentro de la Primera Región.
+
+Los contribuyentes perderán el derecho a estas exenciones por el período que corresponda, si no ingresan en Tesorería los impuestos respectivos dentro del plazo legal, y si este ingreso fuere parcial, la franquicia sólo surtirá efectos respecto de aquella parte efectivamente solucionada.
+
+Los contribuyentes referidos en los incisos primero y segundo de este artículo efectuarán sus pagos provisionales mensuales con la exención establecida en esas disposiciones.
+
+> **Nota.** NOTA: 2 El art. 4° del DL 2.401, de 1978 dispone que a contar de la fecha de publicación de ese decreto ley, efectuada el 16 de diciembre de 1978, los porcentajes de exención del impuesto de Primera Categoría de la Ley de Impuesto a la Renta, que favorecen a los contribuyentes de las Regiones I, XI y XII y provincia de Chiloé en virtud de lo dispuesto por los artículos 9°, 20 y 26 del DL 889, de 1975, serán los siguientes: a) Un 50% durante los años 1978, 1979, 1980, 1981, 1982 y 1983; b) Un 30% durante los años 1984 y 1985, y c) Un 10% durante los años 1986 y 1987.
+
+#### Artículo 10°
+
+El Estado de Chile otorgará una bonificación a los empleadores actuales o futuros de la I Región -excluidos el sector Público, la Gran y Mediana Minería del Cobre y del Hierro, y las empresas en que el Estado o sus empresas tengan aporte o representación superior al 30%-, equivalente al monto de las cotizaciones y aportes de cargo del empleador que corresponda integrar en las respectivas instituciones de previsión, por sus trabajadores con domicilio y trabajo permanente en esa Región y que se realice también dentro de dicha Zona, con excepción de aquellas personas contratadas en calidad de trabajadores de casa particular.
+
+Las bonificaciones aludidas se harán efectivas deduciéndolas de los pagos previsionales correspondientes, para cuyo efecto deberá acompañarse ante los organismos previsionales respectivos la planilla de pagos con las remuneraciones ya definidas, firmadas por el empleador y el contador de la empresa.
+
+El Ministro de Hacienda reglamentará las exigencias que hagan expedito y resguarden este procedimiento.
+
+> **Nota.** NOTA: 3 El art. 4° del DS 613, Min. Economía de 1975, declara que las disposiciones contenidas en los arts. 10, 21 y 27 del presente DL y las modificaciones introducidas por el citado D.S. a estos artículos, han regido a contar del 21 de febrero de 1975.
+
+> **Nota.** NOTA: 4 La modificación a este artículo rige a contar del primer día del mes siguiente al de su publicación, efectuada el 16 de diciembre de 1978 y hasta el año 1987 inclusive y será aplicable a la bonificación establecida en el artículo 21 y 27 del presente decreto ley. (DL 2401, 1978, arts. 5° y 6°).
+
+> **Nota.** NOTA: 5 El art. 2° del DL 3625 de 1981 dispone: Establécese a partir del 1° de Marzo de 1981, para los empleadores a que se refieren los artículos 10, 21 y 27 del decreto ley N° 889, de 1975, y en reemplazo de la que dichas disposiciones contemplan, una bonificación equivalente al diecisiete por ciento de la parte de las remuneraciones imponibles que no exceda de $ 90.000, cantidad que se reajustará el día 1° de junio de cada año, de acuerdo con la variación del Indice de Precios al Consumidor habida en el año precedente, que ellos paguen a sus trabajadores, la que se regirá por las normas del citado decreto ley y se pagará a través del Servicio de Tesorerías. Sin perjuicio de la exclusión establecida respecto del sector público, la Gran y Mediana Minería del Cobre y del Hierro, y de las empresas en que el Estado o sus empresas tengan aportes o representación superior al 30%, no tendrán derecho, asimismo, a la bonificación que esta ley establece, las empresas mineras que tengan contratados, directa o indirectamente, más de cien trabajadores cada una, las empresas bancarias, las sociedades financieras, las empresas de seguros y las empresas que se dediquen a la pesca reductiva. Además de las exclusiones indicadas en el inciso anterior, no tendrán derecho a la bonificación que esta ley establece las administradoras de fondos de pensiones, las instituciones de salud previsional, las casas de cambio, las empresas corredoras de seguros, los empleadores que perciban bonificación del decreto ley N° 701, de 1974, y los profesionales independientes. La bonificación de que trata esta ley no se pagará a los empleadores que tengan atrasados por más de dos meses los pagos previsionales que deban efectuar a sus trabajadores. El pago de la bonificación se podrá volver a otorgar al empleador, sin efecto retroactivo, una vez que éste se encuentre al día en los pagos previsionales de sus trabajadores. El impuesto establecido en el artículo 3° transitorio del decreto ley N° 3.501, de 1980, no se aplicará respecto de los empleadores a que se refiere el inciso primero.
+
+> **Nota.** NOTA: 5.1.- El artículo 61 de la Ley N° 18.768, publicada en el "Diario Oficial" de 29 de diciembre de 1988, ordenó reemplazar, a contar del 1° de abril de 1989, en el inciso primero del artículo 2° del decreto ley N° 3.625, de 1981, la frase "de las Cajas de Previsión respectivas" por el "del Servicio de Tesorerías".
+
+> **Nota.** NOTA: 5.2.- El inciso final del artículo 24 de la Ley 18.591 dispuso que la bonificación establecida en este artículo regirá hasta el año 1992, inclusive.
+
+> **Nota.** NOTA: 5.3.- El artículo 21 de la Ley N° 18.182, publicada en el "Diario Oficial" de 9 de Diciembre de 1992, sustituyó, en el inciso final del artículo 24 de la Ley N° 18.591, la referencia al año "1992" por año "1993."
+
+> **Nota.** NOTA: 5.4 El artículo 2° de la Ley N° 19.242, publicada en el "Diario Oficial" de 2 de septiembre de 1993, reemplazó en el inciso final del artículo 24 de la Ley N° 18.591, la expresión "1993", sustituída por el artículo 21 de la Ley N° 19.182, por la siguiente nueva expresión: "1999". El artículo 3° de la citada Ley N° 19.242, declaró que la bonificación de mano de obra establecida en el D.L. N° 3.625, de 1981, es aplicable a la totalidad de la provincia de Palena y que, por lo tanto, incluye la comuna de Hualaihué, incorporada a dicha provincia en 1989.
+
+> **Nota.** NOTA 5.5: El Art. único de la LEY 19652, publicada el 17.12.1999, modificó en el artículo 24 de la ley Nº 18.591 la expresión "1999" por "2000".
+
+> **Nota.** NOTA 5.6: El Art. 1° de la LEY 19707, publicada el 23.01.2001, modificó en el artículo 24 de la ley Nº 18.591 la expresión "2000" por "2002". El Art. transitorio de la misma ley dispuso que la expresada modificación rige a contar del 1° de enero del año 2001.
+
+#### Artículo 11°
+
+Constituirá delito de fraude al Fisco y se sancionará con presidio menor en sus grados medio a máximo, la inclusión en planillas de trabajadores inexistentes o con domicilio en otra zona, como asimismo la falsedad en cuanto al monto de las remuneraciones efectivamente pagadas e imponibles por la empresa y serán solidariamente responsables de ello, tanto el gerente general o el autor material o intelectual del hecho, como el contador que certifique la planilla respectiva.
+
+#### Artículo 12°
+
+DEROGADO.-
+
+> **Nota.** NOTA: 6 Estas derogaciones rigen a contar del primer día del mes siguiente a de su publicación, efectuada el 2 de septiembre de 1980 (DL 3477, 1980, art. 11).
+
+> **Nota.** NOTA: 7 Las maquinarias, equipos, implementos y animales que hayan ingresado o ingresen a las Regiones I, XI, XII y Provincia de Chiloé, incluso Comunas de Chaitén, Palena y Futaleufú, de la actual Provincia de Palena, y que hayan recibido o reciban la bonificación establecida en los artículos 12, 22 y 28 de este DL y sus modificaciones, no podrán salir de ellas durante el plazo de 10 años, contados desde la fecha del pago de la bonificación, sin previa devolución de los beneficios recibidos, reajustados conforme a la variación del Indice de Precios al Consumidor entre la fecha de dicho pago y aquella en que se efectúe la devolución. (DL 3490, 1980 art. 2°).
+
+#### Artículo 13°
+
+Los contribuyentes con residencia en la I Región que obtengan rentas generadas en ella, clasificadas en el artículo 42° de la Ley sobre Impuesto a la Renta, y que no gocen de gratificación de zona en virtud de lo dispuesto en el decreto ley número 249, de 1974, podrán deducir de las referidas rentas una parte que corresponda a dicha gratificación por el mismo monto o porcentaje establecido en el citado decreto ley, la cual no constituirá renta únicamente para la determinación de los impuestos contenidos en el artículo 42, N° 1 y 52 de la Ley sobre Impuesto a la Renta. En ambas situaciones, dichas deducciones no podrán ser superiores en monto a aquellas que corresponderían al grado 1A de la Escala de Sueldos y Salarios vigente. En el caso que un mismo contribuyente obtenga rentas clasificadas en los N°s. 1 y 2 del mencionado artículo 42° esta deducción no podrá exceder entre ambas a aquella que correspondería al grado 1A de la Escala Unica de Sueldos y Salarios.
+
+El beneficio establecido en el inciso anterior será también aplicable a los contribuyentes del sector pasivo que residan en la I Región y que perciban jubilaciones, montepíos o cualquiera otra clase de pensiones. En caso que estos contribuyentes obtengan, además, otras rentas que gocen de igual beneficio, la deducción total que efectúen por las distintas rentas no podrá exceder a aquella que correspondería al grado 1 A de la Escala Unica de Sueldos y Salarios.
+
+#### Artículo 14°
+
+Suspéndese en la Primera Región, durante el plazo de tres años contados a partir de la fecha de publicación del presente decreto ley, la aplicación de la Ley de Timbres, Estampillas y Papel Sellado respecto de los actos, contratos, actuaciones notariales, judiciales y administrativas tendientes directamente a la constitución, formación o transformación de sociedades o empresas establecidas o que se establezcan en la Región. Gozarán también de la exención referida las escrituras de aumento de capital de dichas sociedades o empresas.
+
+## Título II
+
+Zona Franca Alimenticia de la Primera, Segunda y
+
+Tercera Región
+
+#### Artículo 15°
+
+El régimen de zona de libre importación alimenticia que actualmente beneficia a la Primera, Segunda y Tercera Región, continuará vigente hasta el 31 de Diciembre de 1980.
+
+## Título III
+
+XI Región y actual provincia de Chiloé
+
+#### Artículo 16°
+
+A contar del 1° de Enero de 1978, la importación de mercancías a la XI Región y a la actual provincia de Chiloé, así como su internación desde esas zonas al resto del territorial nacional, estará sujeta a las mismas normas de la Primera Región previstas en los artículos 2° y 3° de este decreto ley.
+
+#### Artículo 17°
+
+A partir de la fecha de publicación de este decreto ley y hasta el 31 de Diciembre de 1977, la importación de mercancías a la Región y Provincia señaladas en el artículo 16°, continuará rigiéndose por las normas especiales de orden técnico, bancario, cambiario y aduanero preexistentes, salvo que las tasas arancelarias del régimen general o del arancel definitivo fueren inferiores a aquéllas, en cuyo caso prevalecerán estas últimas.
+
+Las tasas preferenciales preexistentes serán rebajadas en este lapso en la misma proporción y conforme al mismo procedimiento indicado en los incisos quinto y sexto del artículo 4° de este cuerpo legal.
+
+> **Nota.** NOTA: 8 La extensión de la Zona Franca de Punta Arenas sólo podrá entrar en funcionamiento a contar de la fecha en que dejen de tener vigencia las disposiciones del DL 889, relativas al regimen de importación transitorio señalado en el artículo 17 de dicho decreto ley. (DL 1.233, 1975, art. 1°).
+
+#### Artículo 18°
+
+Regirán para la XI Región y la actual provincia de Chiloé las mismas limitaciones, en cuanto al monto de las importaciones que establece el artículo 5° de este decreto ley, pero con un incremento acumulativo mensual del 3% en lugar del 1% allí señalado y referido al monto global de las importaciones de esas zonas. Para la determinación del monto de estas importaciones se aplicará lo establecido en el inciso final del artículo 5° de este decreto ley.
+
+No obstante, los respectivos Comités Locales del Banco Central de Chile de la XI Región y de la provincia de Chiloé podrán autorizar las importaciones sin sujeción a los montos de divisas que correspondiere otorgar a cada importador, sean éstos habituales, ocasionales o nuevos, con la sola limitación del monto global de las importaciones a que se refiere el inciso precedente, incluido el incremento acumulativo mensual del 3%.
+
+Sin perjuicio de lo dispuesto en los incisos anteriores, el Comité Ejecutivo del Banco Central de Chile podrá aumentar extraordinariamente las disponibilidades de divisas de la XI Región y de la actual provincia de Chiloé para efectuar importaciones acogidas al régimen especial preexistente, con el objeto de atender proyectos específicos y siempre que las disponibilidades generales de divisas lo permita.
+
+#### Artículo 19°
+
+La internación al resto del territorio, nacional de las mercancías de origen extranjero que se importen a XI Región y provincia ya señalada, estará sujeta a las normas especiales de orden técnico, bancario, cambiario y aduanero preexistente a este decreto ley. Asimismo, esta internación estará afecta a lo dispuesto en la letra c) del artículo 6° de este decreto ley.
+
+#### Artículo 20°
+
+Los contribuyentes de la XI Región y de la actual provincia de Chiloé gozarán de las mismas exenciones del Impuesto de Primera Categoría así como le serán aplicables las normas sobre la Tasa adicional y los créditos en la misma forma y por los mismos períodos, que se establecen en el artículo 9° de este decreto ley. Además estarán exentos del 100% del impuesto territorial respecto de sus bienes raíces situados en esas zonas durante el plazo de 8 años contados desde el 1° de Enero de 1975; del 60% en los dos años siguientes y del 20% en los dos años subsiguientes.
+
+Estas exenciones se perderán por las mismas causales y con arreglo al mismo procedimiento señalado en el último inciso del artículo 9° de este cuerpo legal.
+
+#### Artículo 21°
+
+El Estado de Chile bonificará a los empleadores actuales o futuros de la XI Región y de la actual provincia de Chiloé de acuerdo con los mismos porcentajes, plazos, normas y sanciones penales establecidos en los artículos 10° y 11° de este decreto ley.
+
+#### Artículo 22°
+
+DEROGADO.-
+
+#### Artículo 23°
+
+Será aplicable a los contribuyentes de la XI Región y de la actual provincia de Chiloé el mismo sistema de deducciones a las bases imponibles de los impuestos únicos de Segunda Categoría y Global Complementario que previene el artículo 13° de este decreto ley.
+
+#### Artículo 24°
+
+Será aplicable a la Región y provincia señalada en este título, la suspensión por tres años de la Ley de Timbres, Estampillas y Papel Sellado que consulta el artículo 14° de este cuerpo legal.
+
+## Título IV
+
+XII Región
+
+#### Artículo 25°
+
+La importación de mercancías a la XII Región, así como su internación al resto del territorio nacional, estará sujeta a las mismas normas previstas en los artículos 16, 17 y 19 inclusive del presente decreto ley.
+
+Los importadores de la XII Región, inscritos en conformidad a lo dispuesto en el Art. 7.o de la ley 12.008, durante cada uno de los años 1975, 1976 y 1977, podrán efectuar importaciones acogidas al régimen preexistente a este decreto ley, sólo hasta por un valor igual en dólares de los Estados Unidos de Norteamérica equivalente al 75% del promedio anual de lo importado por ellos en los últimos diez años.
+
+"El monto en dólares de los Estados Unidos de Norteamérica a que se refiere el inciso anterior, se calculará únicamente sobre la base de las importaciones efectuadas al amparo del régimen establecido en la ley número 12.008, excluyéndose, en consecuencia, todas las importaciones que se hayan efectuado bajo otros regímenes, tales como el Régimen General del país, los que disponen los programas de liberación del Tratado de Montevideo, y el Acuerdo de Cartagena, el DFL. N.o 266, de 1960, y, en general, los regímenes especiales sectoriales que se apliquen indistintamente en cualquier parte del territorio nacional. La Superintendencia de Aduanas proporcionará al Banco Central de Chile la información pertinente para realizar este cálculo, antes del 31 de Octubre de 1975.
+
+El Comité Local del Banco Central de Chile, distribuirá libremente entre los importadores habituales, ocasionales o nuevos, el 25% restante del promedio anual en dólares de los Estados Unidos de Norteamérica de las importaciones realizadas en los últimos diez años por los importadores inscritos, incluido el incremento acumulativo del 3% mensual calculado sobre el promedio total anual de esas importaciones.
+
+Para los efectos de lo dispuesto en el inciso tercero de este artículo, el Comité Local deberá señalar en una lista los importadores habituales y el monto anual en divisas que corresponde a cada uno de ellos para efectuar importaciones.
+
+El Comité Local deberá informar al Comité Ejecutivo del Banco Central los programas anuales de importaciones de la Región por secciones del Arancel Aduanero, y los productos que autorice en el mismo período a los importadores habituales, ocasionales o nuevos.
+
+El Comité Ejecutivo del Banco Central de Chile tendrá también respecto de la XII Región, la facultad que le otorga el inciso 3° del artículo 18 de este decreto ley.
+
+No obstante lo dispuesto en el inciso primero de este artículo, a las mercancías que se importen durante los años 1975, 1976 y 1977 en la XII Región, con registros que se aprueben por Regimen General de Importación les será aplicable el régimen aduanero especial que establece la ley 12.008 y sus modificaciones, siempre que cumpla con los siguientes requisitos:
+
+a) Que su monto, por cada importador y en cada año, no exceda del valor equivalente en dólares de los Estados Unidos de Norteamérica que hayan importado por la XII Región durante el año 1974, con un incremento acumulativo mensual del 3%. Este monto será determinado por la Superintendencia de Aduanas en el plazo de 240 días contados desde la publicación de la presente ley, sin perjuicio que esta Superintendencia pueda establecer montos parciales dentro de este plazo.
+
+b) Que las mercancías que se importen estén destinadas a ser usadas o consumidas en la XII Región.
+
+c) Que los gravámenes que hubiesen afectado durante el año 1974 a las importaciones señaladas en las letras precedentes hayan sido declaradas de cargo fiscal o gozado de un régimen aduanero liberatorio distinto al que establece la ley 12.008 y sus modificaciones.
+
+#### Artículo 26°
+
+Los contribuyentes de la XII Región gozarán de las mismas exenciones y tratamientos tributarios por iguales plazos y sujetos a las mismas normas establecidas en el artículo 9° de este cuerpo legal.
+
+#### Artículo 27°
+
+El Estado de Chile bonificará a los empleadores actuales o futuros de la XII Región de acuerdo con los mismos porcentajes, plazos, normas y sanciones penales establecidos en los artículos 10° y 11° de este decreto ley.
+
+#### Artículo 28°
+
+DEROGADO.-
+
+#### Artículo 29°
+
+Será aplicable a los contribuyentes de la XII Región el mismo sistema de deducciones a las bases imponibles de los impuestos único de Segunda Categoría y Global Complementario que previene el artículo 13° de este cuerpo legal.
+
+#### Artículo 30°
+
+Será aplicable a la XII Región la suspensión por tres años de la Ley de Timbres y Estampillas y Papel Sellado que consulta el artículo 14° de este cuerpo legal.
+
+## Título V — Disposiciones Generales
+
+#### Artículo 31°
+
+El Ministro de Hacienda reglamentará dentro del plazo de 150 días, contados a partir desde la fecha de publicación de este decreto ley, el procedimiento administrativo para hacer expedito el cumplimiento de las normas de este cuerpo legal, sin perjuicio de lo establecido en el inciso final del artículo 10°.
+
+#### Artículo 32°
+
+No se aplicará a las regiones y provincias señaladas en los títulos I, III, y IV de este decreto ley, los contingentes de exportación que anualmente se fijan en virtud del artículo 5° del decreto N° 1 N° 1.272, de 1961, del Ministerio de Economía, Fomento y Reconstrucción, que fijó el texto refundido de la Ley de Cambios Internacionales.
+
+#### Artículo 33°
+
+Las franquicias tributarias y bonificaciones a la inversión previstas en el presente decreto ley serán incompatibles con aquellas que prevé el decreto ley N° 701, sobre fomento forestal; con las leyes vigentes sobre fomento a la pesca, así como con la ley 12.041, y sus modificaciones, de Fomento de la Marina Mercante Nacional, debiendo optar el requirente beneficiado entre ambos regímenes de franquicias.
+
+En todo caso, la incompatibilidad señalada en el inciso precedente, se entenderá circunscrita al ámbito específico en que ella recaiga.
+
+La bonificación establecida por el artículo 10° de este decreto ley será compatible en todo caso con las que concede el D.F.L. 266, de 1960, y sus modificaciones y la ley N° 12.041 y sus modificaciones, sobre fomento de las actividades pesqueras y la Marina Mercante Nacional, respectivamente.
+
+#### Artículo 34°
+
+Derógase a contar de la fecha de vigencia de los preceptos del presente decreto ley los sistemas de franquicias tributarias y arancelarias contenidas en las leyes números 12.008, 12.937, 14.824, 13.039 y sus modificaciones, reglamentos, decretos e instrucciones contrarias a las normas establecidas en este cuerpo legal o que contemplaban franquicias o exenciones regionales de orden técnico, bancario, cambiario, tributario o de incentivos de cualquiera especie, diferentes de los establecidos en este decreto ley.
+
+La presente derogación no afectará a los regímenes de excepción que actualmente benefician al departamento de la Isla de Pascua.
+
+#### Artículo 35°
+
+Derógase a contar de la fecha de publicación del presente decreto ley, las disposiciones legales y reglamentarias en cuya virtud se establecieron presupuestos específicos en moneda extranjera para la XI y XII Regiones y la actual provincia de Chiloé.
+
+#### Artículo 36°
+
+Corresponderá al Servicio Nacional de Aduanas la fiscalización del cumplimiento de lo dispuesto en el inciso final del artículo 12 de este texto legal, tanto en lo que respecta a la I Región como a las XI Región y XII Región y a las provincias de Chiloé y Palena.
+
+Al efecto, el Servicio de Tesorería pondrá en conocimiento del Servicio Nacional de Aduanas las bonificaciones pagadas por aplicación de lo dispuesto en dicho inciso, con indicación de las fechas de ingreso e identificación de las mercaderías que hayan sido bonificadas.
+
+#### Artículo primero
+
+transitorio.- Los titulares de contratos leyes actualmente vigentes deberán optar ante el Ministro de Hacienda, por única vez y dentro del plazo fatal de 90 días, entre el régimen de franquicias que establece el presente decreto ley y aquél que previene cada uno de sus contratos leyes, no pudiendo acogerse el primero, en caso de que se optare por estos últimos, en la zona donde se encuentran establecidas sus empresas ni en ninguna otra o sector donde fuera aplicable este régimen de franquicias y no solo respecto de aquella sociedad o empresa ya establecida, sino de cualquiera otra que puedieren establecer en el futuro.
+
+Se presumirá de derecho que si no se expresa formalmente la opción dentro del plazo indicado, se opta por el sistema de franquicias de este decreto ley.
+
+El Estado de Chile no prorrogará los plazos de los contratos leyes actualmente vigentes.
+
+#### Artículo segundo
+
+transitorio.- El Presidente de la República, mediante simple decreto supremo de los Ministerios de Economía, Fomento y Reconstrucción y de Hacienda, podrá, dentro del plazo de 180 días, modificar, complementar o adaptar las normas jurídicas de orden técnico, bancario, arancelario y tributario que contempla este decreto ley así como aquellas previstas en leyes, reglamentos, decretos o instrucciones preexistentes sobre esas mismas materias, se encuentren o no señalada o aludidas en este decreto ley. El Presidente de la República, en ejercicio de las facultades precedentes, podrá dictar las normas necesarias para regular las situaciones o hechos anteriores o posteriores a la dictación de este decreto ley, como asimismo para fijar su texto definitivo.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Jorge Cauas Lama, Ministro de Hacienda y subrogante del Ministerio de Economía, Fomento y Reconstrucción.
