@@ -1,0 +1,3 @@
+Por decreto MOP Nº 862 de 30 de septiembre de 2004, se expropio el lote de terreno Nº 40, superficie 80 m2, Rol Nº 1.406-4, comuna de Antofagasta, II Región para la obra "Mejoramiento Av.Salvador Allende, Tramo Avda. Sarmiento-Avda. Costanera, Comuna de Antofagasta, Provincia de Antofagasta, II Región, sector Avda. Sarmiento-Calle Cardenal Oviedo Cavada", y se acordó el valor de indemnización con su propietaria Emilia Julia Lamadrid Castillo y Otros, ascendente a la cantidad de $18.836.266.
+
+- Fiscal del Ministerio de Obras Públicas.
