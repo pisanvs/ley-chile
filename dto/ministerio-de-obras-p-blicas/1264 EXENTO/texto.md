@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.264, de 31 de agosto de 2001, se expropió el lote de terreno Nº3, superficie 138 m²., de avalúo 866-190, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal Sur. Tramo 1, Quinta Región y se acordó el valor de indemnizaicón con su propietario Carlos Luis Sanita Bravo, ascendente a la cantidad de $928.980.-
+
+Fiscal del Ministerio de Obras Públicas.
