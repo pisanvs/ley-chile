@@ -8,7 +8,7 @@ Proyecto de ley:
 
 Artículo l°.- Decláranse exentos del pago de impuesto a la renta de cuarta categoría del impuesto adicional a la renta y del impuesto complementario, a la pequeña minería y a sus establecimientos de beneficio.
 
-Se entiende por pequeña minería la actividad productora que se realiza en minas cuyos dueños sean personas naturales o sociedades mineras, siempre que el capital de dichas sociedades no fuere superior a cinco millones de pesos y no estén afectas a lo dispuesto en el decreto con fuerza de ley N° 251, de 20 de Mayo de 1931, sobre Compañías de Seguros, Bolsas de Comercio y Sociedades Anónimas.
+Se entiende por pequeña minería la actividad productora que se realiza en minas cuyos dueños sean personas naturales o sociedades mineras, siempre que el capital de dichas sociedades no fuere superior a quince millones de pesos y no estén afectas a lo dispuesto en el decreto con fuerza de ley N° 251, de 20 de Mayo de 1931, sobre Compañías de Seguros, Bolsas de Comercio y Sociedades Anónimas.
 
 #### Artículo 2°
 

@@ -6,11 +6,13 @@ Por cuanto el Congreso Nacional ha dado su aprobación al siguiente
 
 Proyecto de Ley:
 
-> **Nota.** El artículo 34 del Decreto Ley 889, Economía, publicado el 21.02.1975, derogó los sistemas de franquicias tributarias y arancelarias contenidas en la presente norma o que contemplaban franquicias o exenciones regionales de orden técnico, bancario, cambiario, tributario o de incentivos de cualquiera especie, diferentes de los establecidos en ese decreto ley.
-
 #### Artículo 1
 
-o Las mercancías que se importen en la provincia de Magallanes estarán liberadas de los derechos específicos, y pagarán, por concepto de derechos ad valorem, una tasa de 4%, en reemplazo de la que contempla el Arancel Aduanero, salvo que se trate de "algodón en rama", "azúcar", "café", "té a granel", "petróleo Diesel", "bencina" y "maquinaria agrícola y sus repuestos", en cuyo caso dicha tasa será de 2%".
+o Libéranse a los artículos y mercaderías que se importen a la provincia de Magallanes de los siguientes gravámenes:
+
+a) El pago de los derechos establecidos en el Arancel Aduanero y Adicionales;
+
+b) Los impuestos ad-valorem establecidos en el decreto supremo N.o 2,772, de 18 de Agosto de 1943, y sus modificaciones posteriores.
 
 #### Artículo 2
 
@@ -22,7 +24,7 @@ o No regirán para las importaciones que se efectúen en las provincias de Chilo
 
 Anualmente se podrá importar en las provincias de Chiloé, Aysen y Magallanes, artículos suntuarios hasta una cantidad equivalente al diez por ciento (10 %) del producto de las exportaciones totales de cada provincia en el año anterior.
 
-El Banco Central de Chile, dentro de los primeros quince días del mes de Enero de cada año, fijará el monto de este porcentaje.
+La Comisión de Cambios Internacionales, dentro de los primeros quince días del mes de Enero de cada año, fijará el monto de este porcentaje.
 
 La forma en que se distribuirá en Chiloé, Aysen y Magallanes la cuota para la importación de artículos suntuarios la fijará el reglamento para cada una de estas provincias.
 
@@ -30,17 +32,13 @@ El reglamento determinará la calidad de las mercaderías que, por las condicion
 
 La cuota de importación de artículos suntuarios que se establezca para la provincia de Magallanes no será inferior al diez por ciento de las exportaciones totales que se produzcan durante el primer año de vigencia de esta ley.
 
-Si por fijación de contingentes se redujeran las exportaciones, el Banco Central de Chile autorizará importaciones de esta naturaleza con divisas del mercado libre bancario hasta enterar la cuota a que se refiere el inciso anterior.
+Si por fijación de contingentes se redujeran las exportaciones, la Comisión de Cambios Internacionales autorizará importaciones de esta naturaleza con divisas del mercado libre bancario hasta enterar la cuota a que se refiere el inciso anterior.
 
 El ocultamiento en el retorno de divisas será sancionado de acuerdo con las disposiciones generales que se establezcan para el resto del país.
 
 Las disposiciones de esta ley relativas a las exportaciones no alteran las normas vigentes o que se establezcan sobre fijación de contingentes.
 
-En ningún caso, salvo los determinados por la presente ley, las importaciones que efectúen las provincias de Chiloé, Aysen y Magallanes podrán ser superiores al total de las exportaciones efectuadas en el año anterior. Para este efecto, el Banco Central de Chile establecerá el control correspondiente.
-
-No obstante lo anterior, cuando en los presupuestos de importaciones de las provincias de Chiloé, Aysen y Magallanes, se produzcan déficit que puedan afectar su desarrollo, el Banco Central de Chile, podrá suplementar la importación de artículos esenciales y bienes de producción en las cantidades que determinen dichos déficit.
-
-> **Nota.** El artículo 5° de la Ley 14824, publicada el 13.01.1962, dispone todas las mercaderías que en ella se indican y que se internen en las provincias de Chiloé, Aysen y Magallanes, quedarán afectas al pago de todos los derechos e impuestos que se cobren por las aduanas, con excepción del impuesto adicional establecido de acuerdo con lo dispuesto en el artículo 169° de la Ley 13305 y deroga para las referidas provincias, la vigencia de lo establecido en los incisos cuarto y quinto del presente artículo.
+En ningún caso, salvo los determinados por la presente ley, las importaciones que efectúen las provincias de Chiloé, Aysen y Magallanes podrán ser superiores al total de las exportaciones efectuadas en el año anterior. Para este efecto, la Comisión de Cambios Internacionales establecerá el control correspondiente.
 
 #### Artículo 4
 
@@ -74,17 +72,15 @@ c) Los industriales y agricultores que no tengan la permanencia a que se refiere
 
 #### Artículo 8
 
-o Facúltase a los Administradores de Aduana de las provincias de Chiloé y Magallanes para autorizar la salida temporal de vehículos motorizados, a excepción de camiones de carga, que se hayan importado o se importen al amparo de las franquicias concedidas por esta ley, desde dichas provincias al resto del país, hasta por un plazo de seis meses en cada año calendario.
+o El Administrador de la Aduana respectiva de las provincias de Chiloé, Aysen y Magallanes podrá autorizar la salida de vehículos motorizados a otras zonas del país por un plazo no superior a seis meses. Las nuevas autorizaciones sólo podrán otorgarse después de transcurrido un año desde el vencimiento del permiso anterior.
 
-Dicho término se contará desde la fecha efectiva de entrada al resto del territorio nacional y los interesados podrán completarlo de una sola vez o en varias salidas temporales.
+En todo lo demás estas salidas temporales se regirán por lo dispuesto en el artículo 146.o de la ordenanza de Aduanas y en los Reglamentos respectivos.
 
-Corresponderá a la Superintendencia de Aduanas adoptar las medidas que estime conducentes para la aplicación de este artículo.
-
-En todo caso, el propietario del vehículo deberá estar domiciliado en la respectiva provincia y estará obligado a acreditar que éste posee patente al día de alguna de las Municipalidades de las provincias mencionadas y que está inscrito en el Registro de Vehículos Motorizados del correspondiente Conservador de Bienes Raíces.
+Lo anterior no se aplicará a los vehículos de pasajeros y de carga que transiten desde o hacia la República Argentina, los cuales se regirán por las normas especiales que se establezcan en los Reglamentos.
 
 #### Artículo 9
 
-o el Banco Central de Chile deberá establecer agencias en las ciudades de Castro, Coyhaique y Punta Arenas.
+o La Comisión de Cambios Internacionales deberá establecer agencias en las ciudades de Castro, Coyhaique y Punta Arenas.
 
 #### Artículo 10
 
@@ -104,7 +100,7 @@ o Las mercaderías extranjeras nacionalizadas con anterioridad a la vigencia de 
 
 #### Artículo 2
 
-o El Banco Central de Chile fijará la cuota de divisas para importación de artículos suntuarios en las provincias de Chiloé, Aysen y Magallanes, para el año 1956 en la proporción correspondiente.
+o La Comisión de Cambios Internacionales fijará la cuota de divisas para importación de artículos suntuarios en las provincias de Chiloé, Aysen y Magallanes, para el año 1956 en la proporción correspondiente."
 
 Por cuanto ha tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
