@@ -686,9 +686,9 @@ CONFECCION DE DESPACHOS
 
 #### Artículo 29
 
-1.- Los despachos cerrados y directos que deberán cambiar entre sí las oficinas del país se acompañarán con una guía, en la cual se anotarán todos los objetos postales sometidos a registro y control, paquetes en tránsito y valijas. Esta deberá numerarse en forma correlativa en el ángulo superior derecho, de acuerdo con la numeración que le corresponderá a cada oficina, mencionando debajo del número la vía utilizada y, en caso de transporte marítimo o aéreo, el nombre del vapor que conduzca el despacho o del servicio extraordinario que se emplee (avión). Será indispensable estampar el timbre de fecha de la oficina de origen en la indicación izquierda del formulario.
+1.- Los despachos cerrados y directos que deberán cambiar entre sí las oficinas del país se acompañarán con una guía, en la cual se anotarán todos los objetos postales sometidos a registro y control, paquetes en tránsito y valijas. Esta deberá numerarse en forma correlativa en el ángulo superior derecho, mencionando debajo del número la vía utilizada y, en caso de transporte marítimo o aéreo, el nombre del vapor que conduzca el despacho o del servicio extraordinario que se emplee (avión). Será indispensable estampar el timbre de fecha de la oficina de origen en la indicación izquierda del formulario.
 
-2.- En el primer despacho de cada año, la guía deberá llevar, además del número de orden del despacho mismo, el número del último año precedente.
+2.- En el primer despacho de cada mes, la guía deberá usar numeración nueva, para facilitar su archivo por meses.
 
 3.- Cuando las necesidades del Servicio obliguen a hacer despachos adicionales para un mismo punto y que deban encaminarse por la misma vía, llevarán el número inmediatamente siguiente al ya confeccionado.
 
