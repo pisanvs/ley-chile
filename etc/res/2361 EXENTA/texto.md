@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 2361 de 10 de Noviembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Hijuela Número Cuatro o Santa Rosa que es parte del Fundo Casas del Durazno" de la comunal de Las Cabras, VI Región; y Derechos Aprovechamiento Aguas que corresponden a sitios N°s. 1 al 20 del Proyecto de Parcelación, "Las Vegas y El Durazno", formado por predio señalado y por predio "Parte de la Hijuela Número Tres o Las Vegas". Los Derechos de Agua se extraen del Canal Cocalán, derivado del Río Cachapoal. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
