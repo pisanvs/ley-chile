@@ -1,0 +1,3 @@
+Por resolución No. 28 de 3 de Mayo de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a "A. Denham y Cía. Ltda.", para efectuar las revisiones técnicas de los vehículos de transporte de personas de más de nueve (9) asientos, incluido el del conductor; de vehículos motorizados de carga con capacidad para transportar más de 1.750 kilos, sus remolques y semirremolques y los taxis, en el establecimiento ubicado en calle Tres de Mayo No. 2599, de la comuna de Conchalí.-
+
+Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones de la Región Metropolitana.
