@@ -1,0 +1,3 @@
+Por decreto MOP Nº 310, de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 96, superficie 2.087,00 m², rol de avalúo Nº 2026-358, comuna de Melipilla, Región Metropolitana, para la obra "Camino Reposición Ruta G-74-F Sector Melipilla - Bollenar, Km. 0.00000 a Km. 14,23039", y se acordó el valor de indemnización con su propietaria Raquel Reyes González, ascendente a la cantidad de $11.716.647.
+
+Fiscal del Ministerio de Obras Públicas.
