@@ -1,0 +1,3 @@
+Por decreto MOP Nº300, de 28 de febrero de 2001, se expropió el lote de terreno Nº 561-C1, superficie 1.188 m², rol de avalúo 321-98, comuna de Buín, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector: C: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Inmobiliaria Malven Limitada, ascendente a la cantidad de $5.832.701.-.
+
+Fiscal del Ministerio de Obras Públicas.
