@@ -776,7 +776,7 @@ El ministro a quien corresponda la presidencia de la Corte no entrará al sorteo
 
 Las Cortes de Apelaciones integradas por sus fiscales o con abogados integrantes, se dividirán en salas de tres miembros para el despacho de las causas, cuando hubiere retardo.
 
-Se entenderá que hay retardo cuando dividido el total de causas en estado de tabla, inclusive las criminales, por el número de salas, el cuociente fuere superior a ciento.
+Se entenderá que hay retardo cuando dividido el total de causas en estado de tabla y de las apelaciones que deban conocerse en cuenta, inclusive las criminales, por el número de salas, el cuociente fuere superior a ciento.
 
 Producido este caso y si no bastaren los relatores en propiedad, el tribunal designará por mayoría de votos los relatores interinos que estime conveniente, quienes gozarán durante el tiempo en que sirvieren de igual remuneración que los propietarios.
 
@@ -832,7 +832,7 @@ Las Cortes de Apelaciones resolverán los asuntos en cuenta o previa vista de el
 
 #### Artículo 69
 
-Los Presidentes de las Cortes de Apelaciones formarán el día último hábil de cada semana una tabla de los asuntos que verá el tribunal en la semana siguiente.
+Los Presidentes de las Cortes de Apelaciones formarán el último día hábil de cada semana una tabla de los asuntos que verá el tribunal en la semana siguiente, que se encuentren en estado de relación. Se consideran expedientes en estado de relación aquellos que hayan sido previamente revisados y certificados al efecto por el relator que corresponda.
 
 En las Cortes de Apelaciones que consten de más de una sala se formarán tantas tablas cuantas sea el número de salas y se distribuirán entre ellas por sorteo, en audiencia pública.
 
@@ -3144,11 +3144,13 @@ Son funciones de los relatores:
 
 2°) Poner en conocimiento de las partes o sus abogados el nombre de las personas que integran el tribunal, en el caso a que se refiere el artículo 173 del Código de Procedimiento Civil;
 
-3°) Hacer relación de los procesos;
+3°) Revisar los expedientes que se les entreguen y certificar que están en estado de relación. En caso que sea necesario traer a la vista los documentos, cuadernos separados y expedientes no acompañados o realizar trámites procesales previos a la vista de la causa, informará de ello al Presidente de la Corte, el cual dictará las providencias que correspondan.
 
-4°) Anotar el día de la vista de cada causa los nombres de los jueces que hubieren concurrido a ella, si no fuere despachada inmediatamente; y
+4°) Hacer relación de los procesos;
 
-5°) Cotejar con los procesos los informes en derecho, y anotar bajo su firma la conformidad o disconformidad que notaren entre el mérito de éstos y los hechos expuestos en aquéllos.
+5°) Anotar el día de la vista de cada causa los nombres de los jueces que hubieren concurrido a ella, si no fuere despachada inmediatamente; y
+
+6°) Cotejar con los procesos los informes en derecho, y anotar bajo su firma la conformidad o disconformidad que notaren entre el mérito de éstos y los hechos expuestos en aquéllos.
 
 #### Artículo 373
 
@@ -4514,11 +4516,13 @@ Las Cortes de Apelaciones tendrán diariamente una audiencia pública para oír 
 
 #### Artículo 548
 
-Los recursos de queja se verán por las Cortes de Apelaciones fuera de las horas ordinarias de audiencia.
+Los recursos de queja se verán fuera de las horas ordinarias de audiencia.
+
+El fallo que acoge el recurso de queja contendrá las consideraciones que demuestren la falta o abuso, o los errores u omisiones manifiestos y graves que los constituyan y que existan en la resolución que motiva el recurso; determinará las medidas conducentes a remediar tal falta o abuso y podrá disponer que se dé cuenta al tribunal pleno de los antecedentes para los efectos disciplinarios que procedan.
 
 #### Artículo 549
 
-Todo recurso de queja deberá interponerse en el plazo fatal de cinco días. Este plazo se suspenderá durante los días feriados y se aumentará en la forma indicada en el artículo 259 del Código de Procedimiento Civil, cuando el tribunal que haya pronunciado la resolución recurrida tenga su asiento en una comuna diversa de aquella en que funciona el que haya de conocer del recurso.
+Todo recurso de queja deberá interponerse en el plazo fatal de cinco días hábiles. Este plazo se aumentará conforme a la tabla de emplazamiento a que se refiere el artículo 259 del Código de Procedimiento Civil cuando el tribunal que haya pronunciado la resolución recurrida tenga su asiento en una comuna o agrupación de comunas diversa de aquella en que funciona el que haya de conocer el recurso. Con todo, el plazo total para interponer el recurso no podrá exceder de quince días hábiles contados desde la fecha de notificación a la parte recurrente de la resolución que motiva la queja.
 
 Para interponer un recurso de queja, el recurrente deberá consignar previamente en la cuenta corriente del tribunal que conocerá del mismo, una cantidad equivalente al uno por ciento de la cuantía del negocio, con un máximo de una unidad tributaria mensual.
 
@@ -4540,7 +4544,7 @@ Los miembros del Poder Judicial gozarán del privilegio de pobreza para su defen
 
 #### Artículo 551
 
-Las resoluciones que pronuncien los tribunales unipersonales y las Cortes de Apelaciones en el ejercicio de sus facultades disciplinarias sólo serán susceptibles del recurso de apelación. En caso alguno procederá el recurso de reposición o de reconsideración respecto de la resolución que falla el recurso de queja o la apelación deducida en su contra.
+Las resoluciones que pronuncien los tribunales unipersonales y colegiados en el ejercicio de sus facultades disciplinarias, sólo serán susceptibles de recurso de apelación. Por consiguiente, aquellas que resuelvan recursos de queja, sea en primera o en segunda instancia, no son susceptibles del recurso de reposición o de reconsideración, cualquiera sea la jerarquía del tribunal que las dicte.
 
 Conocerá de la apelación el tribunal a quien corresponda el conocimiento del recurso de casación contra las sentencias del tribunal que haya pronunciado la resolución recurrida.
 
