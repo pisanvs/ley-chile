@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.023 de fecha 28 de junio del 2002, se expropiaron los lotes de terreno Nºs. 4-A y 4-B, superficie 133 y 133 m² respectivamente, Rol Nº13210-24 y 13210-23, comuna de Chillán, VIII Región para la obra ''Camino Ruta N-45, Sector Cruce N-49 (Chillán) - La Capilla - Tres Esquinas, Km. 0,00000 al Km. 5,88000'' y se acordó el valor de indemnización con su propietario Aala Moslemi Khoshkhu, ascendente a la cantidad de $3.561.568.-
+
+Fiscal del Ministerio de Obras Públicas.
