@@ -1,0 +1,1 @@
+Autoriza a la Dirección de Obras Sanitarias para ejecutar y proyectar por cuenta de particulares, instalaciones domiciliarias de alcantarillado y agua potable en las condiciones que señala en inmuebles cuyo avalúo fiscal no exceda de la suma que indica, ubicados en las provincias de Tarapacá y Antofagasta.
