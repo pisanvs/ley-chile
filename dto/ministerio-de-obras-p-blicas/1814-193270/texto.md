@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.814, de 31 de octubre de 2001, se expropió el lote de terreno Nº4, superficie 37 m2., rol de avalúo 524-66, comuna de Estación Central, para la obra Sistema Norte-Sur. Tramo G: Nudo Alameda. Sector: Km. 1.400,00 al Km. 1.700,00, Región Metropolitana se acordó el valor de la indemnización con su propietario Juan Ananías Manoli, ascendente a la cantidad de $9.890.421.
+
+- Fiscal del Ministerio de Obras Públicas.
