@@ -4034,23 +4034,21 @@ De conformidad con las autorizaciones que el referido Ministerio ha puesto en co
 
 ANEXO N° 1
 
-NSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES
+INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES
 
-### I. INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1996
+ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES
+
+INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1996.
 
 - Astilleros y Maestranzas de la Armada.
 
-- Carabineros de Chile, Imprenta.
-
-- Casa de Moneda de Chile.
+- Carabineros de Chile, Imprenta Casa de Moneda de Chile.
 
 - Centro de Información de Recursos Naturales.
 
 - Comando Apoyo Administrativo del Ejército.
 
-- Comando de Industria Militar e Ingeniería.
-
-- Comercializa dora de Trigo S.A. "COTRISA"
+- Comando de Industria Militar e Ingeniería. Comercializadora de Trigo S.A "COTRISA".
 
 - Corporación de Fomento de la Producción.
 
@@ -4072,13 +4070,13 @@ NSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONAL
 
 - Empresa Abastecimiento de Zonas Aisladas
 
-- Empresa de Ferrocarriles del Estado.
+- Empresa de Ferrocarriles del Estado
 
 - Empresa de Obras Sanitarias V Región S.A.
 
 - Empresa de Servicios Sanitarios de Antofagasta S.A.
 
-- Empresa de Servicios Sanitarios de Atacama S.A.
+- Empresa de Servicios Sanitarios de Atacama S.A
 
 - Empresa de Servicios Sanitarios de Aysén S.A.
 
@@ -4092,87 +4090,67 @@ NSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONAL
 
 - Empresa de Servicios Sanitarios de Tarapacá S.A.
 
-- Empresa de Servicios Sanitarios del Bío-Bío S.A.
+- Empresa de Servicios Sanitarios del Bio-Bio S.A.
 
-- Empresa de Servicios Sanitarios del Libertador S.A.
+- Empresa de Servicios Sanitarios del Libertador S A.
 
 - Empresa de Servicios Sanitarios del Maulé S.A.
 
 - Empresa de Transporte Ferroviario S.A.
 
-- Empresa de Transporte de Pasajeros Metro S.A.
+- Empresa de Transporte de Pasajeros Metro S A
 
-- Empresa Eléctrica Colbún-Machicura S.A.
+- Empresa Eléctrica Colbún-Machicura S.A
 
-- Empresa Eléctrica de Aysén S.A.
+- Empresa Eléctrica de Aysén S A
 
-- Empresa Marítima S.A.
+- Empresa Marítima S A
 
 - Empresa Metropolitana de Obras Sanitarias S.A.
 
-- Empresa Nacional de Aeronáutica.
-
-- Empresa Nacional de Minería.
+- Empresa Nacional de Aeronáutica Empresa Nacional de Minería.
 
 - Empresa Nacional del Carbón S.A.
 
 - Empresa Nacional del Petróleo.
 
-- Empresa Portuaria de Chile.
+- Empresa Portuaria de Chile Fábrica y Maestranza del Ejército.
 
-- Fábrica y Maestranza del Ejército.
+- Fondo Nacional de Desarrollo Tecnológico y Productivo
 
-- Fondo Nacional de Desarrollo Tecnológico y Productivo.
-
-- Instituto de Fomento Pesquero.
+- Instituto de Fomento Pesquero
 
 - Instituto de Investigaciones Tecnológicas.
 
-- Instituto Forestal.
+- Instituto Forestal
 
 - Instituto Nacional de Normalización.
 
-- Ministerio de Vivienda y Urbanismo.
+- Ministerio de Vivienda y Urbanismo Polla Chilena de Beneficencia
 
-- Polla Chilena de Beneficencia.
-
-- Servicio de Bienestar de la Fuerza Aérea de Chile.
+- Servicio de Bienestar de la Fuerza Aérea de Chile
 
 - Servicio de Bienestar de la Superintendencia de Bancos e Instituciones
 
-Financieras.
+Financieras
 
-- Servicio de Bienestar de la Superintendencia de Valores y Seguros.
+- Servicio de Bienestar de la Superintendencia de Valores y Seguros
 
-- Servicio de Bienestar del Magisterio.
+- Servicio de Bienestar del Magisterio Servicio de Bienestar Social de la Armada.
 
-- Servicio de Bienestar Social de la Armada.
-
-- Servicio de Cooperación Técnica.
-
-- Sociedad Agrícola SACOR Ltda.
+- Servicio de Cooperación Técnica Sociedad Agrícola SACOR Ltda.
 
 - Sociedad Agrícola y Servicios Isla de Pascua Ltda.
 
-- Sociedad Transporte Marítimo Chiloé - Aysén Ltda.
+- Sociedad Transporte Marítimo Chiloé - Aysén Ltda
 
 - Superintendencia de Bancos e Instituciones Financieras.
 
 - Transporte por Containers S.A.
 
-- Zona Franca Iquique S.A.
-
-### II. INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1995
+- Zona Franca Iquique S A
 
 - MUNICIPALIDADES (todas las Municipalidades del país).
-
-### III. INSTITUCIONES AUTORIZADAS HASTA EL 31 DE DICIEMBRE DE 1994
-
-- Agencia de Cooperación Internacional.
-
-- Comisión Nacional de Investigaciones Científicas y Tecnológicas.
-
-- Corporación Nacional Forestal.
 
 CAPITULO 2-12 (Bancos y Financieras)
 
