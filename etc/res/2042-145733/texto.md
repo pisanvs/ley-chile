@@ -1,0 +1,3 @@
+Por resolución Nº 2.042, de 11 de octubre de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110116, presentada por HUMBERTO JOSE FISCHER LLOP, para operar un centro de cultivo ubicado en Canal Tránsito, Sector Sur de la Isla Tránsito - 2, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 11 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
