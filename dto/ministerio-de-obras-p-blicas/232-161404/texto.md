@@ -1,0 +1,3 @@
+Por decreto MOP Nº 232, de 31 de enero del 2000, se expropiaron los lotes de terreno Nºs.9-A y 9-B, superficies 273,0 m2. y 12.148,0 m2., rol de avalúo 258-13, comuna de Ercilla, para la obra Concesión Internacional Ruta 5, Tramo Collipulli-Temuco, Novena Región y se acordó el valor de indemnización con su propietario Club de Rodeo Huequén de Ercilla, ascendente a la cantidad total de $17.353.152.
+
+- Fiscal del Ministerio de Obras Públicas.
