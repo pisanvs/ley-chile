@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS DE ''SABCO ADMINISTRADORA DE FONDOS DE INVERSION S.A.''
+
+Certifico: Que por resolución Nº 341, de fecha 13 de noviembre de 1998, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad ''Sabco Administradora de Fondos de Inversión S.A.'', según escritura pública del día 26 de agosto de 1998, otorgada en la Notaría de Santiago de doña Laura Andrea Galecio Pesse, con oficio en calle Teatinos Nº 331, de esta ciudad, complementada por escritura pública de 27 de octubre último, otorgada en la misma Notaría. Reforma consiste en aumentar el capital social de $290.475.891, según su revalorización legal, dividido en 200.000 acciones sin valor nominal, a $316.356.790 dividido 300.000 acciones sin valor nominal, que se suscribirá y pagará dentro de los noventa días siguientes a la fecha del certificado que al efecto emita la Superintendencia de Valores y Seguros.
+
+Santiago, 13 de noviembre de 1998.- Rodrigo O. Costa Aranda, Secretario General.
