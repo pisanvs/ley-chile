@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 1.444, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº 74, superficie 7.640 m², Rol de Avalúo 611-21, comuna de Nueva Imperial, IX Región, para la obra ''Camino Ruta S-16, Sector Galvarino - Cholchol, Tramo Km. 0,00000 al 24,30269'' y se acordó el valor de indemnización con su propietario don Jorge Eduardo Rivas Pratt y Otra, ascendente a la cantidad de $2.014.262.
+
+- Fiscal del Ministerio de Obras Públicas.
