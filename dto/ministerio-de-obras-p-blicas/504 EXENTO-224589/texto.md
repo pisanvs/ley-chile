@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 504 de fecha 31 de marzo del 2004, se expropió el lote de terreno Nº 118, superficie 1.135 m2, Rol Nº 679-394, comuna de Lautaro, IX Región, para la obra "Camino Ruta S - 10, sector Cruce Long. (Lautaro) - Galvarino, Tramo Km. 0,000 al Km. 34,50853", Etapa Km. 0,000 a Km. 18,000" y se acordó el valor de indemnización con su propietario Juan José Yevilao Huenul, ascendente a la cantidad de $619.851.- para el lote Nº 118.-
+
+Fiscal del Ministerio de Obras Públicas.
