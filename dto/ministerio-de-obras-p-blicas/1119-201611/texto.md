@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.119 de fecha 28 de junio de 2002, se expropió el lote de terreno Nº16, superficie 226,24 m2, rol de avalúo Nº3517-8, comuna de Talcahuano, para la obra ''Mejoramiento Avda. Las Golondrinas-Talcahuano, Sector Golondrinas, Km. 2,80000 a Km. 3,23444 (Sector II)'', VIII Región y se acordó el valor de indemnización con su propietario Manuel Orlando Alarcón Muñoz, ascendente a la cantidad de $28.991.084.-
+
+Fiscal del Ministerio de Obras Públicas.
