@@ -1,0 +1,3 @@
+Por resolución N° 198 de 10 de marzo de 1993 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, parte inmueble ubicado en Avenida Cinco de Abril N° 4238, presunto rol de avalúos N° 950-1 comuna de Estación Central, aparente dominio de don Alejandro Miqueles López. Comisión integrada por peritos Sres. Pastor Correa Prats, arquitecto, Sergio Rojas Ibáñez, Ingeniero Civil y Miguel Haltenhoff Aenischanslin, contructor civil, según informe de 9 de octubre de 1992, fijó monto provisional indemnización en $ 7.592.800 pagadera al contado.-
+
+Directora SERVIU Metropolitano.
