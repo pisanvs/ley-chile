@@ -1,0 +1,3 @@
+Por resolución Nº 2.380, de 8 de octubre de 2003, de esta Subsecretaría, autorízase a IDA DEL CARMEN RUIZ SOTO, RUT Nº 6.298.378-7, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Parque Industrial, Carretera Austral S/N, Chaitén, X Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Cocido y Fresco-Enfriado: Almeja o taca protothaca thaca, Almeja Venus antiqua, Cholga, Chorito, Choro, Navaja de mar o huepo, Lapa, Caracol tegula, Loco, Macha, Navajuela, Tumbao, Erizo rojo.
+
+Valparaíso, 8 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
