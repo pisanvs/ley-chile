@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLES QUE INDICA
+
+Resolución Nº 14, de 5 de Febrero de 2001, Serviu VI Región, del Libertador Bernardo O'Higgins, ordenó expropiación parte inmueble ubicado en Avenida Freire Nº 471 de Rancagua, Rol Nº 61-5, superficie de 68,73 m², delimitada polígono K1-L1-M1-N1-Ñ1K1, Plano Serviu VI Región Nº 4/99, de fecha 1999, de aparente dominio de Comercial del Real Hermanos y Compañía Limitada, inscrito a fojas 5.090 Nº 4.583 del año 1997 del C.B.R. de Rancagua, Proyecto Mejoramiento Red Vial Avenida Freire, Rancagua, conforme al artículo 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos: Arquitecto Sergio Shippley Rubio, René Corvalán Correa, y don Edmundo Gómez Lagos. Según informe noviembre 1999, monto provisional en $91.408.875.
+
+Director Serviu VI Región (S).
