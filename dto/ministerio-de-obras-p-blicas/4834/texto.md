@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.834, de 31 de octubre del 2000, se expropió el lote de terreno Nº132-B9, superficie 413 m2., rol de avalúo 105-1, comuna de Pemuco, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, Octava Región y se acordó el valor de indemnización con su propietario Jenaro Edgardo Parada Méndez, ascendente a la cantidad de $2.294.215.-
+
+Fiscal del Ministerio de Obras Públicas.
