@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Por Resolución N° 1150 de 28 de noviembre de 1994 de la Dirección de SERVIU Metropolitano, derogóse Resolución N° 1.002 de 18 de diciembre de 1991 del mismo Servicio, que ordenó la expropiación, conforme D.L. N° 2.186 de 1978, del inmueble denominado Parcela N° Cinco-Seis Poniente, ubicado en Avda. Recoleta S/N°, rol de avalúos N° 3110-52, comuna de Huechuraba, a don Alberto Guzmán Riesco, aparente propietario.-
+
+Dirección SERVIU Metropolitano.
