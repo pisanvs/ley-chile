@@ -16,11 +16,11 @@ El Presidente del Senado y el Presidente de la Cámara de Diputados reducirán a
 
 Anualmente se consultará, en los Presupuestos del Senado, de la Cámara de Diputados y de la Biblioteca del Congreso Nacional una suma no inferior al dos por ciento de las remuneraciones y dietas que se pagan a cada uno de ellos, como aporte de éstos al Departamento de Bienestar.
 
+> **Nota.** El Art. 6 del Decreto Ley 2063, Interior, publicado el 15.12.1977, otorga al Secretario del Senado las facultades de dictar los Estatutos del Departamento de Bienestar del Congreso Nacional, reducirlos a escritura pública y publicar un extracto de los mismos en el Diario Oficial, las que están establecidas en los incisos primero y tercero del presente artículo, en lugar de la Comisión y de las autoridades que en ellas se indican. En uso de estas facultades, el Secretario del Senado procedió a dictar los referidos estatutos, por resolución N° 369 de 26 de diciembre de 1977; a reducirlos a escritura pública de fecha 27 de diciembre de 1977 otorgada ante el notario de Santiago Arturo Carvajal Escobar; y publicar su extracto en el Diario Oficial de 29 de diciembre de 1977, sección "Escrituras Sociales" página cuatro.
+
 #### Artículo 2°
 
-Otórgase personalidad jurídica al actual Departamento de Bienestar del Congreso Nacional, que en adelante se denominará "Economato del Congreso Nacional", y que fue creado por acuerdos de las Comisiones de Policía Interior y Reglamento del Senado y de la Cámara de Diputados en el año 1955.
-
-El Economato del Congreso Nacional continuará acogido a las disposiciones del artículo 21 de la ley N° 14.572 y del N° 6 del artículo 18 de la ley número 12.120 y sus modificaciones posteriores, y seguirá gozando de las demás franquicias y beneficios que las leyes otorgan a los organismos de esta naturaleza".
+DEROGADO.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como ley de la República.
 
