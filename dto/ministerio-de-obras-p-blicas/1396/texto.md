@@ -1,0 +1,3 @@
+Por decreto MOP. No.1.396, de 31 de agosto de 1998, se expropiaron los lotes de terreno No.s. 1, 4, 5 y 7, superficies 500; 1.476; 871 y 209 M²., roles de avalúo 53-7; 88-12; 88-20 y 88-21, comuna de Coltauco obra Camino Coltauco Cementerio Rol H-366, Sector San Luis, y se acordó precio de indemnización con sus propietarios David Antonio Marchant Valenzuela, Corina del Carmen Sánchez Escárate y Armando del Carmen González Sánchez, ascendente a la cantidad de $ 1.475.082, lote 1; $ 3.984.452, lote 4 y $ 4.886.400, lotes 5 y 7.-
+
+Fiscal del Ministerio de Obras Públicas.
