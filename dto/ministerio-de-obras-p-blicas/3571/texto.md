@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.571, de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº15, superficie 400 m2., rol de avalúo 273-387, comuna de San Fernando, para la obra "Concesión Internacional Ruta 5 Tramo Santiago - Talca, Sector H: Km. 128.400,00 a Km. 140.850,00" y se acordó el valor de indemnización con su propietario Alicia del Carmen Romero Pérez, ascendente a la cantidad de $6.329.709.-
+
+Fiscal del Ministerio de Obras Públicas.
