@@ -1,0 +1,5 @@
+AUTORIZA A DON HAN SAN CHANG TENG PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 205 de 5 de Marzo de 1986 de la Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Han San Chang Teng, R.U.T. No. 9.669.037-1, domiciliado en Nicasio Retamales 132, Santiago, para instalar y operar una planta de recursos hidrobiológicos congelados, en Ancud, X Región, en Acceso a la Estación Pudeto Bajo s/n, en la que podrá utilizar como materia prima congrio colorado, congrio dorado, congrio negro, corvina, jurel, marrajo, merluza común, raya, caracol trumulco, loco, ostión del Norte, ostión del Sur, camarón de nailon, langostino amarillo, langostino colorado y jaiba. El interesado deberá efectuar el transporte de las especies desde su centro de abastecimiento hasta la planta elaboradora, en medios dotados de sistemas adecuados de preservación de la materia prima.
+
+Valparaíso, 05 de Marzo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
