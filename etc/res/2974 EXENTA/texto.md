@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.974, de 19 de noviembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº201112060 presentada por BRENDA ETTI PAREDES PAREDES, para instalar y operar un centro de cultivo ubicado en estero Goñi, al oeste de punta Wickham, península de Taitao (sector 1), XI Región.
+
+Valparaíso, 19 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
