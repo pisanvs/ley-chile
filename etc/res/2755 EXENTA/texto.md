@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.755, de 24 de septiembre de 2004, de esta Subsecretaría, recházase la solicitud de autorización de acuicultura Nº 202081009 presentada por FERNANDO ENRIQUE DELGADO PALOMINO, para instalar y operar una piscicultura en un terreno privado localizado en canal Collao, camino a Polcura, VIII Región.
+
+Valparaíso, 24 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
