@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.048, de 30 de julio de 1998, y en base a la facultad otorgada por el ar-tículo 105 del DFL. MOP. No. 850, de 1997, que fijó el texto actualizado de la Ley No. 15.840, se expropió el lote de terreno No. 8, para la obra Camino Autopista Santiago-San Antonio, sector Segmento 3, Calles de Servicio, Km. 16.896,70 a Km.
+
+17.932,40, Sector 6 Lado Derecho, que figura a nombre de Eliecer C. Riquelme Andrade, Rol de Avalúo 511-82, comuna de Talagante, superficie 260 m². La Comisión de Peritos integrada por Marcela Alejandra Redard Ayala, Ramón Undurraga Montes y Carlos del Pedregal Sánchez, fijó con fecha 9 de octubre de 1997, el valor provisional de la indemnización en la cantidad de $ 2.050.200.- para el lote No. 8. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
