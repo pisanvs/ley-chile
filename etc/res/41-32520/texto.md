@@ -10,6 +10,8 @@ I.- Agrégase, a continuación de la letra b), del numerando II, de la Resoluci�
 
 c) Suscribir contratos o convenios con otras entidades, sean éstas públicas o privadas.
 
+d).- Adquirir bienes muebles, equipos y servicios, hasta 30 U.T.M. cada vez.
+
 II.- La presente Resolución formará parte integrante de la que se complementa, para todos los efectos legales.
 
 Regístrese, tómese razón, comuníquese y publíquese.- Sergio Vergara Larraín, Subsecretario de Bienes Nacionales.
