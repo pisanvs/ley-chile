@@ -1,0 +1,3 @@
+Por resolución Nº 1.971, de 7 de Septiembre de 2000 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 98110028, presentada por MARIO HUMBERTO PUCHI ACUÑA, para instalar y operar el centro de cultivo ubicado en Canal Chaffers, Isla Téllez, Comuna de Cisnes, Provincia de Aysén, XI Región.
+
+Valparaíso, 07 de Septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
