@@ -1,0 +1,3 @@
+Por resolución exenta Nº 405, de 16 de febrero de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204111139, presentada por PRODUCTOS DEL MAR VENTISQUEROS S.A., para instalar y operar un centro de cultivo ubicado en canal Pérez Norte, sector Isla Verdugo, suroeste de Isla Sin Nombre, XI Región.
+
+Valparaíso, 16 de febrero de 2005.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
