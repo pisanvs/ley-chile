@@ -1,0 +1,3 @@
+Por Resolución No. 1.218, de 04 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a COMERCIAL SIGLO XX LIMITADA R.U.T. No. 79.936.650-9, domiciliada en calle 11 de Septiembre No. 2250, Oficina 301, Santiago, para iniciar actividades pesqueras, en operar la embarcación "Xiphias", en el litoral de la I a X Región, donde podrá extraer el rerurso hidrobiológico: Albacora o pez espada, con enmalle. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 04 de Septiembre de 1991.- Jorge Marshall Rivera, Subsecretario de Pesca subrogante.
