@@ -1,0 +1,3 @@
+Por resolución Nº 1.467, de 12 de julio de 2001, de esta Subsecretaría, declárase la caducidad de las siguientes resoluciones de esta Subsecretaría de Pesca, conforme lo dispuesto en artículo 7º del DS Nº 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción: 1) Resolución Nº 1.311 de 1995, que autorizó a BERNARDO MAURICIO LARRONDO BOZZO; 2) Resolución Nº 202 de 1992, que autorizó a Sylvia Díaz Araneda y 3) Resolución Nº 1.048 de 1996, que autorizó a Alimentos Frescos y Naturales S.A., para operar plantas procesadoras de recursos hidrobiológicos.
+
+Valparaíso, 12 de julio de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
