@@ -17992,7 +17992,7 @@ III.- MARGEN DE COLOCACIONES E INVERSIONES EN MONEDA CHILENA NO REAJUSTABLES.
 
 1.- Margen.
 
-Las instituciones financieras podrán mantener colocaciones e inversiones no reajustables en moneda chilena, por un monto que no exceda ni sea inferior a su pasivo circulante, excluidos los pasivos vista, en más de dos veces su capital básico.
+Las instituciones financieras podrán mantener colocaciones e inversiones no reajustables en moneda chilena, por un monto que no exceda ni sea inferior a su pasivo circulante, excluidos los pasivos vista, en más de cuatro veces su capital básico.
 
 No obstante, dicho límite se puede sobrepasar en caso de que los activos excedan a los pasivos. Dicho exceso podrá ser hasta un importe no superior a los pasivos exigibles a la vista en moneda chilena no reajustables menos los fondos disponibles de la misma denominación.
 
