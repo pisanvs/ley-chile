@@ -1,0 +1,3 @@
+Por Resolución No. 1.345, de 24 de Octubre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días a contar de esta fecha, el plazo otorgado en el numeral 2° de la Resolución No. 690, de 1991, de esta Subsecretaría, a don MIGUEL ANGEL DIAZ ALVAREZ, RUT No. 6.350.898-7, domiciliado en calle Las Industrias No. 4579, San Juan de Llo-Lleo, San Antonio, para iniciar operaciones con la planta autorizada por Resolución No. 704, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 24 de Octubre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
