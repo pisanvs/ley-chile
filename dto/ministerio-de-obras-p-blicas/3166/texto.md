@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.166, de 22 de octubre de 1999, se dejó sin efecto el decreto MOP Nº 838, de 22 de abril de 1999, en la parte que se refiere a la expropiación de los lotes Nºs. 32, 34, 36, 37-A, 54 y 57, roles de avalúos en trámite y 326-16, de la comuna de Constitución, que figuran a nombre de Suc. Gustavo Mendoza Castro, Suc. Juan Rojas Aguilar, Rubén Villagra y Eugenio Barrientos, necesarios para la obra Camino M-24-K Quivolgo-Puente Lautaro, sector C, Putú Quivolgo Kms. 30,000 al 49,815.53.
+
+Fiscal del Ministerio de Obras Públicas.
