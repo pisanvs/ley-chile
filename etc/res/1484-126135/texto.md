@@ -1,0 +1,3 @@
+Por resolución Nº 1.484, de 9 de octubre de 1998, de esta Subsecretaría, deniégase la solicitud de concesión de acuicultura Nº 96102017, presentada por LUIS DANIEL PINO DIAZ, para operar un centro de cultivo ubicado en Ribera Weste Ensenada San Juan, Bahía de Corral, comuna de Corral, provincia de Valdivia, X Región.
+
+Valparaíso, 9 de octubre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
