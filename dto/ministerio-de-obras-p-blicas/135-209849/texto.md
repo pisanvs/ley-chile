@@ -1,0 +1,3 @@
+Por decreto MOP Nº 135, de 28 de febrero de 2003, se expropió el lote de terreno Nº 7-1, superficie 3.048 m2., rol de avalúo 9316-698, comuna de Valparaíso, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar: tramo 18B: Km. 103.512,40 a Km. 105.999,00. Quinta Región y se acordó el valor de indemnización con su propietario Rommel Oscar Schmidt Duarte y otra, ascendente a la cantidad de $30.937.045.
+
+Fiscal del Ministerio de Obras Públicas.
