@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 829 de 22 de agosto de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco los lotes de terreno Nºs. 2-A y 2-B para la obra: Diseño de Obras Complementarias para la red de canales del proyecto Corrales, Canal Alimentador, Km. 0,000 al Km. 0,665.26; Km.
+
+9,101.35 al Km. 9,264.43, que figuran a nombre de Robledo Julio, Rol de Avalúo 248-141, comuna de Salamanca, IV Región, superficie 444,78 m² y 173,34 m². La Comisión de Peritos, fijó con fecha 8 de junio de 2003, el monto de la indemnización provisional en la cantidad de $150.780.- para el lote Nº 2-A y $58.762.- para el lote Nº 2-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
