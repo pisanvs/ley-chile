@@ -1,0 +1,3 @@
+AUTORIZA EXCEPCION REGIMEN CAMBIO SUJETO IVA A INVERSIONES PATAGONIA S.A.
+
+La Dirección Regional de Santiago Oriente del S.I.I., por Resolución N° Ex. 1.870 del 13 diciembre de 1996, excepciona a contar del 1° del mes siguiente al de esta publicación a Inversiones Patagonia S.A., RUT N° 96.566.720-2 del régimen de Cambio de Sujeto del IVA establecido en la Resolución N° Ex. 5.550 de la Dirección Nacional, publicada en el Diario Oficial del día 03 de Diciembre de 1996.
