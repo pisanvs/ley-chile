@@ -14,7 +14,7 @@ Sustitúyese el inciso primero, del párrafo 4), de la letra J, del artículo 65
 
 De cualquier tipo o especie extraída o recolectada, $ 20 oro, por tonelada de alga húmeda, considerando el peso del alga con el 100% de humedad.
 
-Para los efectos del cobro, se restará al porcentaje de humedad que tengan las algas al momento de su pesaje. Si ese porcentaje resulta inferior al 100%, la determinación del peso se efectuará aplicando el factor de conversión establecido por el Director del Litoral y de Marina Mercante.".
+Para los efectos del cobro, se estará al porcentaje de humedad que tengan las algas al momento de su pesaje. Si ese porcentaje resulta inferior al 100%, la determinación del peso se efectuará aplicando el factor de conversión establecido por el Director del Litoral y de Marina Mercante.".
 
 Anótese, tómese razón, comuníquese, regístrese en la Dirección de Tierras y Bienes Nacionales del Ministerio de Tierras y Colonización, y publíquese en el Diario Oficial.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- César Raúl Benavides Escobar, Teniente General, Ministro de Defensa Nacional.- Sergio Pérez Hormazabal, Coronel de Ejército, Ministro de Economía, Fomento y Reconstrucción subrogante.-
 
