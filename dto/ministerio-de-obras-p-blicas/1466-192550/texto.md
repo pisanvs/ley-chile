@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.466 de fecha 28 de septiembre del 2001, se expropió el lote de terreno Nº 67, superficie 3.020, rol de avalúo 187-79, comuna de San Vicente, para la obra "Proyecto Mejoramiento Ruta H- 830, Sector San Vicente-El Cardal-Millahue, Tramo Km. 0,000 al Km. 8,622" y se acordó el valor de indemnización con su propietario Sucesión de don Ismael del Carmen Valdés, ascendente a la cantidad de $3.911.600.-
+
+Fiscal del Ministerio de Obras Públicas.
