@@ -1,0 +1,3 @@
+Por resolución Nº 1.781, de 30 de diciembre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la resolución Nº 1.075 de 1989 de esta Subsecretaría, que autorizó a don ATILIO BERMUDEZ VALDERRAMA, para realizar actividades pesqueras extractivas con las naves "Estrella Polar" y "Agua Luna", sólo en cuanto a la nave "Agua Luna", por no haber operado sobre las unidades de pesquería autorizadas y encontrarse en mora en el pago de la patente única pesquera, de conformidad a lo dispuesto en el artículo 143 letras b) y d) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 30 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
