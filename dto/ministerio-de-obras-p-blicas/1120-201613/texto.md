@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.120 de fecha 28 de junio de 2002, se expropió el lote de terreno Nº12, superficie 265 m², rol de avalúo Nº1418-173, comuna de Rancagua, para la obra ''Camino Ruta H-188, Sector Cruceros - Chancón, Tramo 1, Km. 0,00000 a Km. 7,85900'', VI Región y se acordó el valor de indemnización con su propietario Daniel Gutiérrez Cubillos, ascendente a la cantidad de $6.331.922.-
+
+Fiscal del Ministerio de Obras Públicas.
