@@ -1,0 +1,5 @@
+Por resolución Nº 1.045, de 31 de mayo de 1999, de esta Subsecretaría, autorízase a PESQUERA CORONEL S.A. para ampliar actividades pesqueras de transformación, autorizada por resoluciones Nº 205 de 1983, Nº 563 de 1984, Nº 862 de 1988, Nº 1.430 y Nº 1.431 de 1989, Nº 1.422 de 1991, Nº 258 de 1992, Nº 932 de 1994, Nº 272 de 1996 y Nº 1.484 de 1997, todas de esta Subsecretaría.
+
+La peticionaria podrá incorporar a la planta ubicada en Coronel, calle Pedro Aguirre Cerda Nº 719, Lo Rojas, en la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Salado: Anchoveta, Bacalao de profundidad, Caballa, Cabinza, Jurel, Machuelo o tritre, Merluza común, Merluza de cola, Pejegallo, Pejerrey de mar, Sardina común, Sardina española.
+
+Valparaíso, 31 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
