@@ -36,8 +36,6 @@ El Director General, sin perjuicio de lo dispuesto en el artículo 3º, podrá a
 
 #### Artículo 5º
 
-Las referencias que el presente Reglamento hace al sueldo vital deben entenderse hechas al sueldo vital, Escala A, del Departamento de Santiago.
-
 Para los efectos de las adquisiciones en el extranjero, los montos establecidos en el presente Reglamento se determinarán en moneda extranjera de acuerdo con el tipo de cambio que fije el Banco Centra! de Chile.
 
 De las Adquisiciones
@@ -58,7 +56,7 @@ e) cuando se trate de bienes usados, siempre que exista conveniencia para el ser
 
 f) cuando las adquisiciones deban hacerse en el extranjero y consistan en equipo o materiales técnicos, y/o repuestos, necesarios para la administración y explotación de los servicios que la ley le encomienda atender;
 
-g) en cualquier otro caso siempre que la adquisición, en total, no tenga un valor superior a 30 sueldos vitales anuales, y
+g) en cualquier otro caso siempre que la adquisición, en total, no tenga un valor superior a 300 Unidades Tributarlas mensuales; y
 
 h) bienes raíces, previas la tasación comercial del Servicio de Impuestos Internos y la aprobación del Supremo Gobierno, dada por decreto supremo.
 
@@ -70,7 +68,7 @@ Para las adquisiciones directas en los casos señalados en las letras a) y g) de
 
 La Dirección General podrá adquirir bienes por propuesta privada en los siguientes casos:
 
-a) cuando se trata de adquisiciones por valores superiores a 30 sueldos vitales anuales y hasta 100 sueldos vitales anuales;
+a) cuando se trata de adquisiciones por valores superiores a 300 Unidades mensuales y hasta 1000 Unidades Tributarias mensuales;
 
 b) cuando, previa calificación, se trate de adquisiciones imprevistas y de urgencia mediana que requieran la entrega de los bienes en un plazo no superior a 30 días;
 
@@ -90,7 +88,7 @@ El Director General podrá disponer la publicación en la prensa de las propuest
 
 #### Artículo 11º
 
-Las adquisiciones de bienes por un monto superior a 100 sueldos vitales anuales se harán por el sistema de propuestas públicas, sin perjuicio de las excepciones establecidas en los Art. 6º letras a, b, c, d, e, f y h y Art. 8º letras b, c y d.
+Las adquisiciones de bienes por un monto superior a 1000 Unidades Tributarias mensuales se harán por el sistema de propuestas públicas, sin perjuicio de las excepciones establecidas en los Art. 6º letras a, b, c, d, e, f y h y Art. 8º letras b, c y d.
 
 #### Artículo 12°
 
@@ -130,11 +128,11 @@ En la misma Resolución en que el Director General determine la baja de especies
 
 #### Artículo 19º
 
-Se podrá vender directamente los bienes muebles de un valor estimativo no superior a 10 sueldos vitales anuales.
+Se podrá vender directamente los bienes muebles de un valor estimativo no superior a 100 Unidades Tributarias mensuales.
 
-Se venderán por propuesta privada los bienes muebles cuyo valor estimativo fluctúa entre 10 y 20 sueldos vitales anuales.
+Se venderán por propuesta privada los bienes muebles cuyo valor estimativo fluctúa entre 100 y 200 Unidades Tributarias mensuales.
 
-Se venderán por propuesta pública los bienes muebles cuyo valor estimativo sea superior a 20 sueldos vitales anuales.
+Se venderán por propuesta pública los bienes muebles cuyo valor estimativo sea superior a 200 Unidades Tributarias mensuales.
 
 #### Artículo 20º
 
