@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.266, de 31 de marzo del 2000, se expropió el lote de terreno Nº257-C, superficie 2.009 m2., rol de avalúo 99-270, comuna de La Ligua, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Quinta Región, y se acordó el valor de indemnización con su propietaria María Angélica Figueroa Salgado, ascendente a la cantidad de $4.963.527.-
+
+Fiscal del Ministerio de Obras Públicas.
