@@ -1,0 +1,3 @@
+Por decreto MOP N° 3.933, de 31 de agosto de 2000, se modificó el decreto MOP N°298, de 24 de marzo de 1998, por cuanto en este último se individualizó como lote a expropiar el N°20, en circunstancias de que la individualización correcta es el lote N°9, necesario para la ejecución de la obra camino Ruta L-25, sector Lisonjera Yerbas-Buenas, Kms. 11,450 al 19,678.85.
+
+Fiscal del Ministerio de Obras Públicas.
