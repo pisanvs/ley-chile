@@ -1,0 +1,3 @@
+Por Decreto MOP., N° 417, de 28 de septiembre de 1994, se expropiaron los lotes de terreno N°s. 2 y 6, superficies 770 m2, y 400 m2., roles de avalúo 82-6 y 82-2, comuna de Pirque, para la obra Camino Los Morros-Pirque, y se acordó el valor de indeminizacion con sus propietarios Bernardino Aguilar y Roberto Pérez, ascendente las cantidades de $4.162.805.- y $1.112.000.-
+
+Fiscal del Ministerio de Obras Públicas.
