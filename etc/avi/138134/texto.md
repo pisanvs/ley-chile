@@ -1,0 +1,5 @@
+ANULA RESOLUCION QUE CONFIERE CALIDAD DE AGENTE RETENEDOR DE IVA A SOCIEDAD LUIS MUÑOZ CABALL Y CIA. LTDA.
+
+La I Dirección Regional Iquique del Servicio de Impuestos Internos, conforme a la facultad delegada en el dispositivo Nº 13 de la resolución Nº 3.839 del 26 de junio de 1998 del Director, anulará a contar del día 1º del mes siguiente al de esta publicación, la calidad de agente retenedor del I.V.A. en las compras de especies hidrobiológicas, en atención a que el beneficiario ha dejado de cumplir las condiciones en cuya virtud le fuera concedida tal calidad, según consta en Res. Ex. Nº 7 de 19 de enero de 1998 y en Res. Ex. Nº 1 de 26 de febrero de 1999, ambas del Director Regional Iquique, a la Sociedad Luis Muñoz Caball y Cía. Ltda., Rut. Nº 78.564.390-9, con domicilio en calle Amunátegui 1412, block A, Depto. 54 de Iquique, como así también, en calle Baquedano 958, Depto. 9B de Iquique.- Publíquese en extracto.
+
+Iquique, 31 de mayo de 1999.- Por orden del Director.- I Dirección Regional Iquique.
