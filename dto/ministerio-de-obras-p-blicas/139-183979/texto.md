@@ -1,0 +1,3 @@
+Por decreto MOP Nº 139 de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 26-B, superficie 327, rol de avalúo 136-16, comuna de San Nicolás, para la obra "Camino Ruta N-60 - O, Sector Río Ñuble - Portezuelo, K. 6.900.00 a 28.833.35" y se acordó el valor de indemnización con su propietario Iván Tapia Reyes, ascendente a la cantidad de $222.156.-
+
+Fiscal del Ministerio de Obras Públicas.
