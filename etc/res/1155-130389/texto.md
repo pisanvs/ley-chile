@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1155 de 11 de Julio de 1988, conforme art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a sector excluido y sector expropiado predio; "Hijuela número tres en las que se dividió el fundo Las Quilas", de la comuna de Los Angeles. VIII Región: y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 11, sitios N°s. 1 al 13 del Proyecta de Parcelación "Nuevo Amanecer" formado por predio señalado. Los Derechos de Aguas se extraen del canal del Laja conducido por el canal Maza Vela Bordeu, derivado del río Laja. Publicación hecha conforme art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
