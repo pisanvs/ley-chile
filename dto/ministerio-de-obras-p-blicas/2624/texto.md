@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.624, de 24 de septiembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº2, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector D: Km.
+
+68.450,00 al Km. 84.300,00, Sexta Región, que figura a nombre de Sucesión Manuel Correa Valdés, rol de avalúo 138-1, comuna de Graneros, superficie 4.040 m². La Comisión de Peritos integrada por los señores Ricardo Antonio Strickler Arellano, Gastón Escala Gazmuri y Patricio Martínez González, fijó con fecha 28 de junio de 1999, el valor provisional de la indemnización en la cantidad de $28.240.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
