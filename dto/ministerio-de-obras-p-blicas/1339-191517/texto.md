@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.339, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº 87, superficie 834 m2., rol de avalúo 41-1, comuna de Colbún, VII Región, para la obra ''Camino Ruta L-31, Sector Polvorines - La Floresta, Tramo Km. 0,00000 al 15,48000'' y se acordó el valor de indemnización con su propietario Florencio Antonio Tejos Martínez y Otro, ascendente a la cantidad de $3.747.572.
+
+- Fiscal del Ministerio de Obras Públicas.
