@@ -1,0 +1,7 @@
+Nombramientos de Prefectos de Policía
+
+Santiago i Mayo 22 de 1813.
+
+Despues de un detenido examen i a consecuencia de los mejores previos informes que en el particular ha tomado el Gobierno para el nombramiento de Prefectos Provinciales de Policía que tanto exijen las circunstancias actuales, ha tenido a bien elejir como desde luego elije de tal Prefecto para la ciudad i Puerto de Valparaiso a D. Gregorio Andia i Varela; de Coquimbo a D. Joaquin Vicuña; de Melipilla a D. Juan Pasos; de Rancagua a D. Francisco Cuadra; de S. Fernando D. José María Ugarte i Castelblanco; de Curicó D. Diego Donoso; de Talca D. Francisco Concha; de Quillota D. Lorenzo Urrutia; de Aconcagua D. Pedro Fermin Torres; de los Andes D. Manuel Cortes; de Petorca D. Santiago Larrain, i suplente al que nombrare; de Illapel D. José Solar; del Huasco D. Miguel Montt, i suplente D. José Antonio Vargas; de Copiapó D. Francisco Javier Ossa i Palacios. Sáquese prontamente por la Escribanía mayor testimonio de este auto para que por Secretaría se dirijan con el Reglamento de Policía que debe observarse a cada uno de los electos, de cuyo empeño, patriotismo, i adhesion a nuestra causa espera la Junta un acierto, que corresponda a la esperanza de su nombramiento i concepto dignamente formado de sus virtudes.-
+
+Pérez.-Infante.-Eyzaguirre.
