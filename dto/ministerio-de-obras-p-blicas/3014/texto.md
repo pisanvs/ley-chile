@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.014, de 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs. 2 y 6, superficies 897 m², y 237 m², roles de avalúos 3150-5 y 3150-28, comuna de Chillán, obra camino Ruta N-55, sector Chillán-Pinto y se acordó precio de indemnización con sus propietarias Ada Cuneo Quijada y Wanda Dembowski Illanes, ascendente a las cantidades de $23.202.964 y $3.487.205.
+
+- Fiscal del Ministerio de Obras Públicas.
