@@ -1,0 +1,3 @@
+Por resolución Nº 2.256 de 24 de octubre de 2001 de esta Subsecretaría, modifícase el numeral 6º de la resolución Nº 2.017 de 2001, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio temporal de las capturas de jurel en la I y II Región (Cuarta Etapa)", en el sentido de reemplazar la nave "Lingueral" por la nave "Oficina Vigo", ambas de propiedad de Compañía Pesquera Camanchaca S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 24 de octubre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
