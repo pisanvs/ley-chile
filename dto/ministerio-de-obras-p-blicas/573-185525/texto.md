@@ -1,0 +1,3 @@
+Por decreto MOP Nº573, de 30 de marzo de 2001, se expropió el lote de terreno Nº25, superficie 1.175 m², rol de avalúo 107-10, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Tramo 8, Región Metropolitana y se acordó el valor de indemnización con su propietario Santiago Albornoz Arancibia, ascendente a la cantidad de $3.193.387.
+
+Fiscal del Ministerio de Obras Públicas.
