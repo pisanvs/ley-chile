@@ -1,0 +1,3 @@
+Por decreto MOP Nº405, de 26 de febrero de 1999, se expropiaron los lotes de terreno Nºs.47-2, 47-3, 48 y 49, superficies 434 m2., 213 m2., 235 m2. y 283 m2., rol de avalúo 747-31, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli Sector 1'', Octava Región, y se acordó el valor de indemnización con su propietaria Hosterías Las Brisas Limitada, ascendente a la cantidad total de $3.668.224.-
+
+Fiscal del Ministerio de Obras Públicas.
