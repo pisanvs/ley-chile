@@ -1,0 +1,3 @@
+Por resolución Nº 1.761, de 7 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96110289, presentada por RENZO ORLANDO MAZZEY SAN JUAN, para operar un centro de cultivo ubicado en Península Melimoyu, Seno Melimoyu, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 7 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
