@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 714 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº5, superficie 514 m², rol de avalúo Nº153-25, comuna de Curarrehue, para la obra "Pucón-Curarrehue, Sector Km. 10.0-Puente Catripulli, Km. 10.170 al Km. 18.168,88", IX Región y se acordó el valor de la indemnización con su propietaria Alicia Conejeros Valencia y Otros, ascendente a la cantidad de $499.194.
+
+Fiscal del Ministerio de Obras Públicas.
