@@ -1,0 +1,3 @@
+Por resolución Nº1.408, de 26 de junio de 2003, de esta Subsecretaría, déjanse sin efecto la resolución Nº1.149 de 1991 que autorizó a SCAMAR CHILENA LTDA., para instalar y operar una piscicultura ubicada en Estero Niltre, sector Pullinque, X Región y la resolución Nº1.027 de 1995, modificatoria de la anterior, ambas de esta Subsecretaría.
+
+Valparaíso, 26 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
