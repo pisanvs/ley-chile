@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.289, de 30 de octubre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para el Fisco los lotes de terreno Nºs. 126 y 127, para la obra: Camino Costero Tirúa-Carahue, Tramo Tranapuente-Carahue, Sector Km. 55,43897 al Km. 69,89561 y Km. 3,101 al Km.
+
+3,92745, Subtramo IV, que figuran a nombre de Carmona Llancaleo Francisca e Higuera V. Blanca E., Rol de Avalúo 65-24 y sin rol, comuna de Carahue, IX Región, superficies 41,2 m2 y 35,5 m2. La Comisión de Peritos, fijó con fecha 30 de septiembre de 2000, el monto de la indemnización provisional en la cantidad $288.400.-, lote 126 y $248.500.-, lote 127. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
