@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 115, de 28 de febrero de 2001, se expropió el lote de terreno Nº 197-B1, superficie 234 m², Rol de avalúo 179-31, comuna de Nogales para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Máximo Humberto Zamora Godoy, ascendente a la cantidad de $770.899-.-
+
+Fiscal del Ministerio de Obras Públicas.
