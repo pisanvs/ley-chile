@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.161 de fecha 30 de septiembre de 2003, se expropiaron los lotes de terreno Nº 21 y 21-A, superficies 1.115 m² y 805 m², rol de avalúo Nº 512-177, comuna de Carahue, para la obra "Camino Ruta S-36, sector Tranapuente - Nehuentue, tramo Kms. 0,000 a 9,997062, correspondiente al Subtramo I, Km. 0,000 a Km. 4,230", IX Región y se acordó el valor de la indemnización con su propietario Miguel Florentino Solís Alvarez, ascendente a la cantidad de $1.074.493.-
+
+Fiscal del Ministerio de Obras Públicas.
