@@ -3790,19 +3790,13 @@ Los suelos se construirán con losas de hormigón armado. Se autoriza, sin embar
 
 Los cielos de los pisos más elevados podrán construirse con losas de hormigón armado o por entramados de madera.
 
-4. Clase D.- Construcciones con muros soportantes de albañilería de ladrillo, de piedra y de bloques, entre cadenas y pilares de hormigón armado. Se aplicarán a esta clase de construcciones las mismas prescripciones generales especificadas para los edificios
-
-de la Clase C. Las fuerzas horizontales se transmitirán al terreno por intermedio de muros llenos de espesor mínimo de 0,15 m en obra gruesa, salvo lo dispuesto en el artículo 5.6.2.inciso segundo.
+4. Clase D.- Construcciones con muros soportantes de albañilería de ladrillo, de piedra y de bloques, entre cadenas y pilares de hormigón armado. Se aplicarán a esta clase de construcciones las mismas prescripciones generales especificadas para los edificios de la Clase C. Las fuerzas horizontales se transmitirán al terreno por intermedio de muros llenos de espesor mínimo de 0,15 m en obra gruesa, salvo lo dispuesto en el artículo 5.6.2.inciso segundo.
 
 Las construcciones de esta clase no podrán tener más de dos pisos. La altura libre de cada piso no podrá exceder de 2,60 m.
 
-5. Clase E.- Edificios con estructura de madera. Estos edificios podrán tener hasta tres pisos y no excederán de 9 m de altura, pero se podrá utilizar la techumbre para formar un piso de habitación en mansarda. Cuando en estas estructuras se utilice madera
+5. Clase E.- Edificios con estructura de madera. En sus estructuras deberá utilizarse madera de todas las categorías de durabilidad de acuerdo a la norma NCh 789/1, y a las aceptadas en los agrupamientos indicadas en la norma NCh 1989. Si se usa la madera clasificada en la categoría 5 de la tabla del número 3 del artículo 5.6.8. de esta Ordenanza, deberá impregnarse conforme con la norma NCh 819.
 
-de clase de durabilidad 3, según la tabla de durabilidad que se incluye en el artículo 5.6.8. número 3, deberá ser preservada conforme con la norma NCh 819, o la que la reemplace.
-
-6. Clase F.- Edificios de adobe. Las construcciones de esta clase destinadas a habitaciones, no tendrán más de 3m de altura libre y serán de un piso. En las destinadas a otros usos podrá adoptarse una altura mayor, siempre que se justifiquen por el cálculo
-
-las dimensiones adoptadas.
+6. Clase F.- Edificios de adobe. Las construcciones de esta clase destinadas a habitaciones, no tendrán más de 3m de altura libre y serán de un piso. En las destinadas a otros usos podrá adoptarse una altura mayor, siempre que se justifiquen por el cálculo las dimensiones adoptadas.
 
 #### Artículo 5
 
@@ -4280,11 +4274,11 @@ Podrán, construirse tabiques de menor espesor siempre que se fijen en su contor
 
 Podrán construirse tabiques de bloques de vidrio, ya sea exteriores o interiores, destinados a dar luz a los locales, siempre que no sea tomada en cuenta su resistencia, sino para los efectos de su propio peso. El espesor mínimo de estos tabiques será de 10 cm y ellos deberán cumplir con las exigencias que se indican en el inciso anterior.
 
-Entramados de suelo.
+Entramados de pisos.
 
 #### Artículo 5
 
-6.6. Los entramados de madera deberán ejecutarse con piezas de roble, pino araucaria, pino oregón o maderas similares que cumplan con las normas oficiales para este material, y, a falta de ellas, con las reglas que la técnica y el arte de la construcción establezcan.
+6.6. Los entramados de madera deberán ejecutarse con piezas aceptadas según agrupamiento y clasificación que estén contempladas en las normas NCh 1989, NCh 1970/1, NCh 1970/2 y NCh 1207.
 
 Se recomienda, en general, apoyar las viguetas sobre la cadena que, para tal objeto, debe sobresalir del paramento del muro del piso superior, o bien apoyarlas sobre una solera adosada a la cadena.
 
@@ -4302,21 +4296,13 @@ Edificaciones de madera.
 
 #### Artículo 5
 
-6.7. Las presentes disposiciones sólo serán aplicables a las edificaciones que cumplan con los siguientes requisitos:
-
-1. Su destino deberá ser exclusivamente el de vivienda.
-
-2. Deben ser de uno o dos pisos, pudiendo tener mansarda sólo las de un piso.
-
-3. Su altura máxima será de 6 m.
-
-4. No deberán estar localizadas en zonas expuestas a vientos ocasionales de velocidad superior a los 140Km/h.
+6.7. Las edificaciones con estructura de madera que no se sometan a cálculo estructural, podrán tener hasta dos pisos, incluida la cubierta o mansarda, si la hubiere, y con una altura máxima de 7 m.
 
 #### Artículo 5
 
-6.8. La madera de la estructura deberá cumplir con los siguientes requisitos:
+6.8. Los elementos estructurales de madera deberán cumplir con los siguientes requisitos:
 
-1. Ser estructural, esto es, haber sido seleccionada conforme a la clasificación por resistencia, de acuerdo con las normas oficiales correspondientes.
+1. Ser aceptada conforme a la norma NCh 1989.
 
 2. De acuerdo a la zona climático-habitacional en que se emplace la edificación, según la norma NCh 1079, o la que la reemplace, su humedad deberá quedar comprendida dentro de los límites establecidos en la siguiente tabla:
 
@@ -4340,45 +4326,49 @@ Sur Interior 12% 22%
 
 Sur Extremo 11% 22%
 
-3. Su durabilidad de acuerdo a la norma NCh 789, o la que la reemplace, deberá corresponder a la clase 1 ó 2, que se indica en la siguiente tabla, o bien a la clase 3, pero en este último caso deberá haber sido preservada conforme a la norma NCh 819, o la que la reemplace.
+3. Su durabilidad, de acuerdo a la norma NCh 789/1, deberá corresponder a las cuatro primeras categorías que se indican en la siguiente tabla, o bien, a la quinta categoría, pero en este último caso deberá haber sido preservada conforme a la norma NCh 819.
 
-DURABILIDAD CLASE ESPECIE
+Categoría Madera
 
-1 Ciprés (guaitecas)
+Nombre común
+
+1 Muy durable Alerce
+
+Ciprés de las Guaitecas
 
 Roble
 
-2 Alerce
-
-Eucaliptos
-
-Lenga
+2. Durables Lenga
 
 Lingue
 
-Luma
-
 Raulí
 
-3 Alamo
+3. Moderadamente Canelo
 
-Coihue
+durables Coigüe
+
+Tineo
+
+Ulmo
+
+4. Poco durables Araucaria
+
+Eucalipto
 
 Laurel
 
-Mañio
+Mañío hembra
+
+Mañío macho
+
+5. No durables Alamo
 
 Olivillo
 
-Pino Araucaria
-
-Pino Insigne
+Pino insigne
 
 Tepa
-
-Tinero
-
-Ulmo
 
 #### Artículo 5
 
@@ -5226,9 +5216,9 @@ NORMAS TECNICAS
 
 1.1. Los edificios o viviendas en que exista propiedad común del terreno, estén o no acogidos a leyes especiales, deberán cumplir con lo establecido en el Párrafo 3º del Capítulo I del Título III de la Ley General de Urbanismo y Construcciones, con las normas generales de la presente Ordenanza y en especial con las disposiciones de este Título.
 
-Los edificios de más de dos pisos deberán tener las características correspondientes a las construcciones de las clases A, B, C o D, definidas en el artículo 5.3.1. de esta Ordenanza, debiendo consultarse una losa de hormigón armado entre las distintas unidades superpuestas, sea que éstas se desarrollen en un piso o en duplex.
+Los edificios de dos o más pisos deberán tener las características correspondientes a las construcciones de las clases A, B, C, D o E, definidas en el artículo 5.3.1. de esta Ordenanza. El elemento soportante horizontal de entrepiso que separa propiedades superpuestas deberá cumplir con las condiciones que se exigen en el artículo 6.1.3.
 
-Las viviendas aisladas, pareadas o continuas de hasta tres pisos, podrán ser también de clase E, siempre que los tres pisos no constituyan unidades superpuestas y que se cumplan las normas de protección contra incendio, a que se refiere el Título 4 Capítulo 3 de esta Ordenanza.
+Se aceptarán estructuras mixtas, siempre que cada una de las clases utilizadas cumpla con las condiciones definidas en el artículo 6.1.3. de esta Ordenanza.
 
 #### Artículo 6
 
@@ -5242,7 +5232,13 @@ Las viviendas aisladas, pareadas o continuas de hasta tres pisos, podrán ser ta
 
 #### Artículo 6
 
-1.3. Las losas de entrepisos deberán tener un espesor mínimo de 0,11 m. En caso de tener un espesor menor, llevarán un relleno mínimo de 0,04 m de material aislante.
+1.3. Los diafragmas o entramados de entrepiso que separen propiedades superpuestas deberán cumplir con las siguientes condiciones:
+
+1. Resistencia al fuego correspondiente a la clase F-60 para los tipos d y c, F-90 para el tipo b, y F-120 para el tipo a, de acuerdo a lo establecido en la Tabla de Resistencia al Fuego Requerida para los Elementos de Construcción de Edificios contenida en el artículo 4.3.3. de esta Ordenanza.
+
+2. Atenuación acústica de 30 decibeles.
+
+Las condiciones anteriores no serán exigibles cuando se consulte losa de hormigón armado de espesor igual o superior a 0,10 m. entre las propiedades superpuestas.
 
 #### Artículo 6
 
