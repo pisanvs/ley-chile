@@ -1,0 +1,3 @@
+Por decreto MOP Nº 378, de 30 de abril de 2003, se expropió el lote de terreno Nº 33, superficie 22 m2., rol de avalúo 206-189, comuna de Rengo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector G: Km. 110.200,00 a Km. 128.400,00, se acordó el valor de la indemnización con su propietaria Elsa de las Mercedes Sanhueza Alarcón, ascendente a la cantidad de $605.585.-
+
+Fiscal del Ministerio de Obras Públicas.
