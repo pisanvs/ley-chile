@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.498, de 2 de septiembre de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201112146 presentada por MARIA ORIANA HERNANDEZ MANSILLA, para instalar y operar un centro de cultivo ubicado en bahía Anna Pink, lado oeste de Islotes Hyatt (sector 1), XI Región.
+
+Valparaíso, 2 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
