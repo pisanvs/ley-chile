@@ -1,0 +1,5 @@
+Por decreto MOP. exento Nº412, de 17 de abril de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 4, 5 y 6, para la obra Mejoramiento Camino Acceso a Balmaceda 72 D 340, sector Puerto Natales - Balmaceda, Km. 0.000 al 10.500,00, Ultima Esperanza, que figuran a nombre de González Vargas Suc Ismael, rol de avalúo 1018-26, superficies 74,53 m2.;
+
+3.847,31 m2. y 223,23 m2., comuna de Puerto Natales. La Comisión de Peritos, con fecha 8 de octubre de 1998, fijó la indemnización provisional en las cantidades de $107.845, lote Nº4, $503.998, lote Nº5 y $123.446, lote Nº6, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
