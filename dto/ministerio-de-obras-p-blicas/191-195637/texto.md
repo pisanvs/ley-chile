@@ -1,0 +1,5 @@
+Por decreto MOP Nº191, de 31 de enero de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº104, para la obra "Sistema Norte - Sur. Tramo G: Nudo Alameda. Sector: Km. 1.980,00 al Km.
+
+2.220,00"; Región Metropolitana, que figura inscrito a Fs. 66.515 Nº70.203; año 2000; Reg. Propiedad del C.B.R. de Santiago a nombre de Pablo Fernando Estay Muñoz y Otros, rol de avalúo 692-64, comuna de Est. Central, superficie 78 m2. La comisión de peritos integrada por los señores Paola Andrea Domingo Porcella, Jorge Risopatrón Valdés y María Pilar Quiroga González, fijó con fecha 15 de noviembre de 2000, el valor provisional de la indemnización en la cantidad de $20.995.100.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
