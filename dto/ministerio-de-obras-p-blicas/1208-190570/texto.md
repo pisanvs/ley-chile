@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.208 de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº68, superficie 1.013,00 m², Rol de Avalúo Nº236-109, comuna de Villa Alegre, para la obra "Camino Mejoramiento Ruta L-19, Sector Cruce Longitudinal (Villa Alegre-Esperanza), Tramo Km. 0,000.00 al 10,623.89" y se acordó el valor de indemnización con su propietario José Antonio González Burgos, ascendente a la cantidad de $1.012.541.-
+
+Fiscal del Ministerio de Obras Públicas.
