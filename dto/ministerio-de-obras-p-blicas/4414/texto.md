@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.414, de 29 de septiembre de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº151-1 para la obra:
+
+''CONCESION INTERNACIONAL RUTA 5. TRAMO: RIO BUENO-PUERTO MONTT. SECTOR: ATRAVIESO CHIFIN. KM. 943,500 A KM. 944,200'' Décima Región, que figura a nombre de Gómez Turra Sergio, rol de avalúo 316-55, comuna de Rio Negro, superficie 2.528 m2. La comisión de peritos integrada por los señores Enrique Edgardo Hoelck Altmann, Nelson Bernardo Turra Turra y Nelson Fabián Igor Flores, fijó con fecha 4 de julio de 2000, el valor provisional de la indemnización en la cantidad de $1.696.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
