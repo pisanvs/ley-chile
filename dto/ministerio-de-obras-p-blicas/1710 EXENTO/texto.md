@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº1710, de fecha 29 de noviembre de 2002, se expropiaron los lotes de terreno Nºs.1 y 2, superficies 3.930 M2 y 1.762 M2, respectivamente, roles de avalúo 591-7 y 593-11, comuna de Yungay, VIII Región, para la obra "Proyecto Laja Diguillín, Area de Riego Yungay, Canal San José-Nuevo Trazado, Km. 6,581 al 7,157", y se acordó el valor de indemnización con su propietario don Luis Enrique Albornoz Albornoz, ascendente a la cantidad de $2.739.172.-
+
+Fiscal del Ministerio de Obras Públicas.
