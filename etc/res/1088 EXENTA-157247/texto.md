@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resoluciones Exentas N° 1.088 de 25 de Julio de 1984 y N° 1.686 de 18 de Diciembre de 1985, conforme Art. 5° Transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector expropiado predio "Fundo La Buena Esperanza, hoy denominado Santa Inés" de la comuna de Lampa, Región Metropolitana; y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 16, sitios N°s. 1 al 15 del Proyecto de parcelación "Esfuerzo Campesino" formado predio señalado, Los derechos de aguas se extraen de tres Pozos profundos ubicados en los Bienes Especiales N°s. 1, 2 y 3.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
