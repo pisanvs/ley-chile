@@ -1,0 +1,3 @@
+Por resolución Nº 2.199, de 22 de octubre de 1999, de esta Subsecretaría, autorízase a ASOCIACION GREMIAL DE TRABAJADORES DEL MAR INDEPENDIENTES DE CALETA PUNTA DE CHOROS, IV Región, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Los Corrales s/nº, Caleta Punta Choros, comuna de La Higuera, IV Región, donde podrá procesar en la línea de elaboración que se indica los siguientes recursos hidrobiológicos: Fresco-Enfriado: Almeja o taca, Lapa y Loco.
+
+Valparaíso, 22 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
