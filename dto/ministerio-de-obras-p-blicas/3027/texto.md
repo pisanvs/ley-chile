@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.027, de 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs. 1-A, 1-C, 2, 4, 5 y 6, superficies 56,5; 36,1; 187; 250; 460 y 80 m², respectivamente, rol de avalúo 823-16, comuna de Chile Chico, obra Instalación de Servicio de Agua Potable Rural de Mallín Grande y se acordó precio de indemnización con su propietario Juan Evangelista Saldivia Aguilar, ascendente a la cantidad de $611.661.
+
+- Fiscal del Ministerio de Obras Públicas.
