@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.095, de 31 de agosto de 2000, se expropiaron los lotes de terreno Nºs 51-1 y 52, superficies 168 m2. y 359 m2., rol de avalúo 608-18, comuna de Mulchén, para la obra Concesión Internacional Ruta 5, Tramo Chillán-Collipulli, Octava Región y se acordó el valor de indemnización con su propietaria Sociedad Forestal Berango Limitada, ascendente a la cantidad total de $268.243.
+
+Fiscal del Ministerio de Obras Públicas.
