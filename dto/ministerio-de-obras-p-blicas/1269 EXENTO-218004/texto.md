@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.269, de 27 de octubre de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para el Fisco los lotes de terreno Nºs. 85A, 85B, 94B, 94D y 114A para la obra: Mejoramiento Ruta 126, Los Conquistadores, Sector 2: Carrizal - Puente Belco, Tramo Km. 23,38000 a Km. 41,26600, que figuran a nombre de Quiroz Samuel Suc, Bueno Salas José, Norambuena César, González Graciela y Valdés Soto Leonel Enrique, roles de avalúo 267-7, comuna de San Javier, 267-36 y en trámite, comuna de Cauquenes, VII Región, superficies 550 m², 444 m², 1.140 m², 838 m² y 3.778 m². La Comisión de Peritos fijó con fecha 30 de abril de 2002, el monto de la indemnización provisional en la cantidad de $310.000.-, para el lote Nº85A; $458.800.-, para el lote Nº85B;
+
+$428.000.-, para el lote Nº94B; $335.600.-, para el lote Nº94D y $642.260.-, para el lote Nº114A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
