@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 94, de fecha 31 de Marzo de 1994, se expropiaron los lotes de terrenos N°s. 1, 1, 2 y 2 superficies 1.608, 5.388, 786 y 475, rol de avalúo 123-34, Comuna de Pencahue, para la obra Regadío Pencahue, Canal Las Doscientas Norte, Canal Las Doscientas Norte, Derivado 1 y Canal del Tranque, y se aprobó el precio de indemnización con su propietario Belarmino Morales Bravo, en la cantidad de $1.036.689.-
+
+Fiscal del Ministerio de Obras Públicas
