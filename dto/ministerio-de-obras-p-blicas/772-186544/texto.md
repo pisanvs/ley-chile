@@ -1,0 +1,5 @@
+Por decreto MOP Nº 772, de 11 de mayo de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 1ES2, 2ES2 y 3ES2. Obra: Extensión Sur Línea 2, sector; Lo Ovalle-A. Vespucio, que figuran a nombre de Chiros Quezada Jorge y otros; Fernández López Manuel Iván y Larraguibel Torres René, roles de avalúos 17-23, 17-24 y 17-25, comuna de La Cisterna, superficies 466, 360 y 361 m2, respectivamente. La Comisión de Peritos fijó, con fecha 20 de marzo de 2001, en la cantidad de
+
+$117.633.000, lote Nº 1ES2; $82.786.700, para el lote Nº 2ES2 y $73.772.050, para el lote Nº 3ES2. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
