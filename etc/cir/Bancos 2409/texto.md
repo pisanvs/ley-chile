@@ -16040,7 +16040,7 @@ El incumplimiento de los resguardos y restricciones previstos en los numerales a
 
 5.3.- Inversiones que pueden efectuar las sociedades filiales a que se refiere la letra b) del N° 11 bis del articulo 83 de la Ley General de Bancos.
 
-Aparte de las inversiones propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en documentos emitidos por el Banco Central de Chile, por el Estado y sus Organismos, o en instrumentos financieros de renta fija emitidos por bancos o sociedades financieras.
+Aparte de las inversiones propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en documentos emitidos por el Banco Central de Chile o por el Estado y sus Organismos; instrumentos financieros de renta fija emitidos por bancos o sociedades financieras, y, cuotas de fondos mutuos de renta fija.
 
 ### 6. Inversión en sociedades filiales
 
@@ -16306,7 +16306,7 @@ Las sociedades a que se refiere este capítulo deberán tener gerente, personal,
 
 4.2.- Inversiones que pueden efectuar las sociedades de apoyo al giro.
 
-Aparte de las inversiones propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en documentos emitidos por el Banco Central de Chile, por el Estado y sus Organismos, o en instrumentos financieros de renta fija emitidos por bancos o sociedades financieras.
+Aparte de las inversiones propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en documentos emitidos por el Banco Central de Chile o por el Estado y sus Organismos; instrumentos financieros de renta fija emitidos por bancos o sociedades financieras, y, cuotas de fondos mutuos de renta fija.
 
 ### 5. Inversión en sociedades de apoyo
 
