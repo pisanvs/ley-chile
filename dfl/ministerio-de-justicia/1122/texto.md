@@ -2198,6 +2198,10 @@ En tal caso, las personas designadas con dicho objeto por la Dirección, actuar�
 
 Las prohibiciones y sanciones impuestas en el Código de Minería, sobre labores de investigación y cateo de minas, son aplicables a los terrenos que ocupen los embalses, canales y demás obras de riego.
 
+#### Artículo 317°
+
+En los actos y contratos que importen la transferencia del dominio de un bien raíz o de un establecimiento para cuya explotación se requiera utilizar derechos de aprovechamiento de aguas, deberá señalarse expresamente si incluyen o no tales derechos. Si así no se hiciere, se presumirá que el acto o contrato no los comprende.
+
 DISPOSICIONES TRANSITORIAS
 
 #### Artículo 1°
