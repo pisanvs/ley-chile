@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta N° 1.922, de fecha 31 de Diciembre de 1984, de la Secretaría Regional Ministerial de Transporta y Telecomunicaciones de la Región Metropolitana, se modifica el recorrido de la Variante N° 23-B "Carrascal", de la Línea de Taxibuses N° 23 "Carrascal Santa Julia", autorizado por resolución N° 1.073, de Octubre 28 de 1982 quedando su nuevo trazado como sigue:
+
+Ida: Desde su terminal en Santa Edelmira con Pasaje Choapa, continúa por Santa Edelmira - Brisas del Río - Carmen Lidia - Lazo de la Vega Miguel de Atero - Los Sauces Dr. José Tobías Embajador Gómez - Carrascal - Mendoza Mapocho- Manuel Rodríguez Oriente - General Mackenna Teatinos - Nataniel - Av. Matta - Av. Grecía - Ramón Cruz Quilín - Av. Américo Vespucio - Av. La Florida- Santa Amalia - Av, Perú - Trinidad Oriente hasta ,frente al N° 362. su terminal, esquina Pasaje Andrés 1.
+
+Regreso: .Desde su terminal en Trinidad Oriente frente al N° 362,, continúa por Trinidad Oriente - Av. Perú - Santa Amalia - Av. La Florida - Av. Américo Vespucio - Quilín Ramón Cruz - Av. Grecia - Av. Matta -San Diego - Bandera Ismael Valdés Vergara - vira frente a Puente - Av. Cardenal José María Caro - Balmaceda Av. Matucana- Mapocho Walker Martínez - Carrascal Embajador Gómez - Dr. José Tobías - Los Sauces - Miguel de Atero - Lazo de La Vega - Carmen Lidia - Brisas del Río Santa Edelmira hasta Pasaje Choapa, su terminal.
+
+Santiago, 7 de Enero de 1984.- Carlos Román Toro, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana Secretaría Regional Ministerial VIII Región.
