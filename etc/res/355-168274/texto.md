@@ -1,0 +1,3 @@
+Por resolución No. 355 de 27 de Marzo de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por un año a contar del 4 de Diciembre de 1990 el plazo otorgado a don ALVARO MARIO GOMEZ BRAVO, R.U.T. No. 3.080.530-5, domiciliado en la ciudad de Coquimbo, Población Spencer, Block 4, Depto. No. 43, en el numeral 5° de la resolución No. 1782, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 27 de Marzo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
