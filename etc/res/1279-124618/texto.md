@@ -1,0 +1,7 @@
+AUTORIZA A "HISPANO CHILENA DE ALIMENTOS S.A." PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 1.279 de 23 de Noviembre de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a "Hispano Chilena de Alimentos S.A.", R.U.T. No. 96.533.040-2, domiciliada en la ciudad de Santiago, calle Sazie No. 1752, para iniciar actividades pesqueras, en orden a operar una planta industrial en la XI Región, ubieada en calle Hernando de Magallanes sln, esquina de la calle Santiago Amengual, Puerto Cisnes, donde procesará en la linea de elaboración de Congelado, los siguientes recursos hidrobiológicos: Almeja o taca, Almeja, Calamar, Caracol trumulco, Cholga, Chorito, Choro, Jibia, Lapa, Loco, Ostión del Sur, Ostra chilena, Pulpo, Centolla, Centollón, Jaiba peluda, Jaiba mora, Picoroco, Erizo, Bacalao de profundidad o Mero, Congrio dorado, Jurel, Merluza del Sur, Pejerrey de mar, Raya, Róbalo, Salmón, Sardina común, Sierra y Tollo. Deberá adquirir el recurso Salmón de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaiso, 23 de Noviembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
