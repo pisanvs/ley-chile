@@ -1,0 +1,5 @@
+AUTORIZA A DON NELSON ARENAS REQUENA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 1247 de 21 de Octubre de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Nelson Arenas Requena, cédula de identidad N° 2.466.151-2,domiciliadoen calle San Marcos N° 1246, Arica, para ampliar actividades pesqueras extractivas autorizadas por resolución N° 174, de 1983, de esta Subsecretaría, mediante la operación de la embarcación "Pompeya II", a la que se modifican algunas de sus característica y con la que capturará en el litoral comprendido entre las Regiones I a III, los siguientes recursos hidrobiológicos: destinados a reducción: Anchoveta, sardina española, jurel, caballa y agujilla; destinados al consumo humano: Anchoveta, atún, caballa, bonito, cojinova, cachurreta, dorado, marrajo, roncador, sardina española y palometa.
+
+Valparaíso, 21 de Octubre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
