@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.121, de 30 de noviembre del 2000, se expropió el lote de terreno Nº152-45, superficie 284 m², rol de avalúo 1282-86, comuna de La Calera, para la obra Camino Ruta 5 Norte Tramo: Santiago-Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Eleodoro Enrique Pizarro Núñez, ascendente a la cantidad de $16.295.898.-
+
+Fiscal del Ministerio de Obras Públicas.
