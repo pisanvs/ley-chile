@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº194, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº3-A, superficie 135 m², rol de avalúo 602-5, comuna de Tomé, para la obra ''Camino Rafael - Rinco, Km. 1.4, Sector: Puente Huape, Km. 0,00000 a Km. 0,24550'' y se acordó el valor de indemnización con su propietario Roberto Salas Salas, ascendente a la cantidad de $94.973.-.
+
+Fiscal del Ministerio de Obras Públicas.
