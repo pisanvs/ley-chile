@@ -1,0 +1,3 @@
+Por decreto MOP Nº 290, de fecha 28 de febrero de 2001, se expropiaron los lotes de terreno Nºs. 2-A y 2-B, superficies 163.144,0 m2 y 18.090,0 m2, respectivamente, rol de avalúo 625-9, comuna de Tomé, para la obra "Camino Lirquén - Tomé, Sector Variante Cuesta Caracoles, Km. 20,40000 a Km. 23,48400" y se acordó el valor de indemnización con su propietario Soc. Forestal Millalemu S.A., ascendente a la cantidad de $124.903.400.-
+
+Fiscal del Ministerio de Obras Públicas.
