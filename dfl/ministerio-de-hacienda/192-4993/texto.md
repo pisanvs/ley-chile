@@ -1,0 +1,79 @@
+MINISTERIO DE HACIENDA
+
+DECRETO CON FUERZA DE LEY N° 192, DE 17 DE JULIO DE 1953
+
+Crea la Direccion General de Fomento Equino y Remonta, dependiente del Ministerio de Defensa NAcional.
+
+(Publicado en el "Diario Oficial" N° 22.613, de 3 de agosto de 1953)
+
+NUM.192.- Santiago, 17 de julio de 1953.- Considerando:
+
+Que hasta el momento la ley que rige el fomento equino del país no ha rendido los beneficios que de ella se esperaba.
+
+Que existen dualidades de carácter directivo y administrativo en los organismos encargados del fomento equino en el país.
+
+Que hay necesidad apremiante de intervenir en su control y estímulo para evitar un mayor decrecimiento y heterogeneidad en la actual población caballar y mular.
+
+Que es nesario estimular la formación de reservas caballares y mulares, asegurando el abastecimiento de los servicios nacionales que lo requieran, propendiendo a la creación de una nueva fuente de riqueza para el país.
+
+Y, vista las facultades que me confiere la ley 11.151, vengo en dictar el siguiente
+
+Decreto con fuerza de ley:
+
+> **Nota.** NOTA: 1 En el "Diario Oficial" N° 22.615 de 5 de agosto de 1953, se expresa que debe agregarse como inciso 2° el siguiente que fué omitido, sin determinarse a qué artículo debe hacerse la adición: "El personal militar necesario para el desempeño de las funciones que contempla este decreto con fuerza de ley será el que señale el Reglamento de Dotaciones de Paz".
+
+#### Artículo 1°
+
+Créase la Direccion General de Fomento Equino y Remonta, dependiente del Ministerio de Defensa Nacional, cuyas funciones y atribuciones serán las siguientes:
+
+a) Estimular la crianza y difusión de los equinos mas convenientes para los intereses nacionales.
+
+b) Propender al mejoramiento de las instituciones o empresas particulares destinadas a la producción y fomento del ganado equino.
+
+c) Velar por el cumplimiento de las disposiciones legales o administrativas relacionadas con la producción caballar y mular, mejoramiento de las diversas razas, vigilando especialmente para este objeto las respectivas sociedades e instituciones, cuyo funcionamiento hubiere autorizado el Gobierno debiendo proponer al efecto las medidas que estime convenientes.
+
+d) Remontar anualmente al Ejército en no menos de un 10% de su respectiva dotación.
+
+e) Atender las necesidades del Servicio de Veterinaria y Herraje del Ejército.
+
+f) Efectuar la adquisición de sus reproductores, como también su eliminación cuando el caso lo requiera.
+
+g) LLevar el registro oficial de los reproductores equinos, facultándosele la eliminación de aquellos que no convengan para el fomento y cría.
+
+h) Establecer depósitos de montas en todo el territorio disponiendo para ello de las Unidades Militares.
+
+i) Propender a la difusión de los deportes ecuestres y crianza del ganado apropiado para tales fines.
+
+> **Nota.** NOTA: 2 El artículo 3° del dl 1674, de 1977, ordenó suprimir la letra g) del texto original y dispuso que la antigua letra "h" deviniere en la "g" actual.
+
+#### Artículo 2°
+
+Un General o Coronel de Caballería en servicio activo, designado por el Presidente de la República, se desempenará como Jefe de la Dirección General de Fomento Equino y Remonta.
+
+La planta de oficiales, suboficiales y soldados que se designen para estas funciones, será determinada por el reglamento correspondiente.
+
+#### Artículo 3°
+
+Para el cumplimiento de su cometido, dispondrá de los fondos que se conceden para estos servicios por las leyes 4566 y 5055 y de los bienes muebles e inmuebles del Consejo Superior de Fomento Equino y del Departamento de Remonta y Veterinaria (HARAS Nacional-Criadero Militar de las Bandurrias-Depósito Central de Remonta).
+
+#### Artículo 4°
+
+Un reglamento determinará las normas para la aplicación del presente decreto con fuerza de ley.
+
+#### Artículo 5°
+
+Derógase el decreto con fuerza de ley 341, de 15 mayo de 1931, que creó el Consejo Superior de Fomento Equino.
+
+Artículos transitorios.
+
+#### Artículo 1°
+
+Los fondos consultados en el decreto 333, de 11 de mayo de 1953, pasarán a disposición de la Dirección General de Fomento Equino y Remonta, para los fines indicados en el citado decreto.
+
+#### Artículo 2°
+
+El personal militar que presta servicios en el Departamento de Remonta y Veterinaria y Haras Nacional, pasará a integrar la planta de este nuevo organismo.
+
+Tómese razón, comuníquese, publíquese e insértese en el Boletín de Leyes de la Contraloría General de la República.-CARLOS IBANEZ DEL CAMPO.-Abdón Parra.- Felipe Herrera.
+
+@@
