@@ -1,0 +1,3 @@
+Por decreto MOP Nº865, de 30 de abril de 2002, se expropiaron el lote de terreno Nº43, superficie 370 m², rol de avalúo 9093-25, comuna de Peñalolén, para Sistema Américo Vespucio Sur. Ruta 78-Avda. Grecia Sector 5 Avda. Vicuña Mackenna-Avda. Grecia. Región Metropolitana y se acordó el valor de indemnización con Empresa Constructora Tabancura Limitada, ascendente a la cantidad de $41.965.854.-
+
+Fiscal del Ministerio de Obras Públicas.
