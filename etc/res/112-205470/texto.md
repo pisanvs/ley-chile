@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 112, de fecha 27 de noviembre del año 2002, se aprobó la disolución voluntaria de la Sociedad Cooperativa de Consumo de las Fuerzas Armadas Limitada, que consta en la escritura pública suscrita con fecha 21 de octubre del año 2002 ante el Notario Público de Santiago don Félix Jara Cadot.
+
+Por orden del señor Subsecretario, Raúl Oliva Camadro, Jefe Departamento Cooperativas.
