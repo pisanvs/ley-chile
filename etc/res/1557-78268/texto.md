@@ -1,0 +1,3 @@
+Por Resolución Nº 1.557, de 14 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 95103161, presentada por OCEAN HORIZONS CHILE S.A., para la concesión de acuicultura ubicada en Sector Norte Isla Alao, comuna de Quinchao, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14 del D.S. Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 14 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
