@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº1579, de 12 de octubre de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1-A, para la obra Regadío Pencahue, Canal San Manuel, Canal Descarga Derivado 3 Las Doscientas Norte Km. 0,000 al 0,257 que figura a nombre de Adrián Antonio Orellana Avendaño, rol de avalúo 123-28, comuna de Pencahue, superficie 213 m². La Comisión de Peritos, fijó con fecha 30 de marzo de 1999, en la cantidad de $60.120, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
