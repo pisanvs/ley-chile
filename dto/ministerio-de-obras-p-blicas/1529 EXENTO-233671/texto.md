@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.529 de fecha 29 de octubre del 2004, se expropiaron los lotes de terreno Nos 46, 47 y 48, superficies 2.088,0, 624,0 y 445,0 m², rol Nº 231-118, comuna de Toltén, IX Región para la obra "Camino Ruta S-790, Sector Nueva Toltén - Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub-Tramo I Km. 71,46676 al Km. 80,55700" y se acordó el valor de indemnización con su propietario Arturo Corales Saldías, ascendente a la cantidad de $1.473.107.- para los lotes Nos 46, 47 y 48.
+
+Fiscal del Ministerio de Obras Públicas.
