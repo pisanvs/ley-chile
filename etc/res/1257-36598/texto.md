@@ -1,0 +1,5 @@
+Por Resolución N° 1.257, de 5 de julio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de prórroga para iniciar actividades pesqueras de transformación autorizadas por Resolución N° 718, de 1995, de esta Subsecretaría, presentada por HECTOR ANTONIO OYARZUN GONZALEZ, de conformidad a lo dispuesto en los informes técnicos y normas legales y reglamentarias vigentes.
+
+Cadúcase la Resolución N° 718, de 1995, de esta Subsecretaría, que autorizó al peticionario individualizado precedentemente, para iniciar actividades pesqueras de transformación, conforme lo dispuesto en el artículo 7°, del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de julio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
