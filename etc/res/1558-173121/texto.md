@@ -1,0 +1,3 @@
+Por resolución Nº1.558, de 17 de julio de 2000, deniégase la solicitud de autorización de acuicultura Nº94106019, presentada por SALMONES ISLA GRANDE S.A., para operar un centro de cultivo en Compu, Laguna Cheigua, Comuna de Quellón, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
