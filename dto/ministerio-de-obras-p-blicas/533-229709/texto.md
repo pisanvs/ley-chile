@@ -1,0 +1,3 @@
+Por decreto MOP Nº 533 de 30 de junio de 2004, se dejó sin efecto los numerales 3º , 4º , 5º , 6º y 7º del decreto MOP Nº 4.542 de 29 de septiembre de 2000, en la parte que se refiere al Convenio Directo de Precio Ad-Referendum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 45, fijada por la Comisión de Peritos, con fecha 25 de enero de 1999, ascendente a la cantidad de $991.900.
+
+Fiscal del Ministerio de Obras Públicas.
