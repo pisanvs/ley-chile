@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.969 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 48-4, superficie 2.033 m²., rol de avalúo 293-60, comuna de Frutillar, para la obra ''Concesión Internacional Ruta 5 Tramo: Río Bueno-Puerto Montt, Sector: Enlace Casma Km. 967,400 a Km. 968,100'' y se acordó el valor de indemnización con su propietario Victoriano Segundo Llaituqueo Hinostroza, ascendente a la cantidad de $7.203.811.-
+
+Fiscal del Ministerio de Obras Públicas.
