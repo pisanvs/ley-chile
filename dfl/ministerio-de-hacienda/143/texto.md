@@ -1,0 +1,1 @@
+Fija las plantas y remuneraciones de los funcionarios de la Dirección General de Investigaciones.
