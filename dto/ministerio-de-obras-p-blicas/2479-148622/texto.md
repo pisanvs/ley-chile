@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.479, de 31 de agosto de 1999, se expropió el lote Nº 7, superficie 42.000 m2., rol de avalúo 58-1, comuna de La Estrella y se enajenó en compensación el lote Nº 8 para la obra Camino Pichidegua - Marchigüe, sector Marchigüe - La Esperanza y se acordó precio de la indemnización con su propietario Agrícola San José de Marchingüe Limitada, ascendente a la cantidad de $25.200.000.
+
+- Fiscal del Ministerio de Obras Públicas.
