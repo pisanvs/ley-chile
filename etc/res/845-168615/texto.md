@@ -1,0 +1,3 @@
+Por resolución Nº 845, de 5 de mayo de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 235, de 1996, de esta Subsecretaría, sólo en cuanto autorizó a SOCIEDAD PESQUERA ECHEVARRIA LIMITADA, para operar la nave ''Tacoma'' sobre los recursos hidrobiológicos Anchoveta, Sardina española, Jurel, Bacaladillo o Mote, Caballa, Machuelo y Roncacho en el litoral de la III y IV Regiones, de conformidad con lo establecido en la letra b) del artículo 143 del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
