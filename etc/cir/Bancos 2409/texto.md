@@ -12680,6 +12680,8 @@ De acuerdo con lo dispuesto en el numeral 3.2.2, título I, del Capítulo 8-29 d
 
 Las instituciones financieras que paguen primas de seguro de incendio o de desgravamen antes de contar con la provisión de fondos del deudor, registrarán dichos importes con cargo a la cuenta "Primas de seguro a cargo de deudores de préstamos hipotecarios", de la partida 1140. En caso que estas sumas no sean pagadas dentro de los 90 días siguientes a la fecha de su registro en esta cuenta, deben ser traspasadas a "Dividendos hipotecarios vencidos", de la partida 1410, a más tardar al término del plazo antes mencionado.
 
+No obstante lo anterior, cuando las instituciones financieras paguen, en forma anticipada, primas de seguro de incendio correspondientes a todo el período de la cobertura y cobren dichos importes en parcialidades, podrán mantener esos montos registrados en la cuenta "Primas de seguro a cargo de deudores de préstamos hipotecarios" por más de 90 días, siempre que los respectivos deudores se encuentren al día en el servicio de sus créditos.
+
 Cuando las instituciones financieras reciban del deudor la provisión de fondos para efectuar posteriormente el pago de las primas de seguro, registrarán esos importes en la cuenta "Primas de seguro recaudadas por enterar", de la partida 3010.
 
 B. PRESTAMOS CONCEDIDOS EN LETRAS DE CREDITO CON AMORTIZACION INDIRECTA.
@@ -21400,7 +21402,7 @@ El monto mínimo de cada venta por cuenta propia o de terceros, con las excepcio
 
 Sin embargo, en las operaciones que se realicen por cuenta de exportadores con recursos provenientes de anticipos de compradores del exterior, créditos externos o internos o retornos de exportación informados al Banco Central de Chile y acogidos al plazo especial de 90 días para su liquidación, de que trata el N° 7 del Capítulo III del Título II del Compendio de Normas de Cambios Internacionales, el monto mínimo es de US$ 50.000.
 
-En las operaciones por cuenta de terceros, cuyos recursos no provengan de los anticipos, créditos o retornos de exportación señalados en el párrafo precedente o de aportes de capital internados al amparo del D.L. N° 600 ó del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, el monto mínimo es de US$ 500.000 y su plazo no podrá ser inferior a 360 días.
+En las operaciones por cuenta de terceros, cuyos recursos no provengan de los anticipos, créditos o retornos de exportación señalados en el párrafo precedente o de aportes de capital internados al amparo del D.L. N° 600 ó del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, el monto mínimo es de US$ 500.000 y su plazo con la única excepción de los referidos anticipos, créditos o retornos de exportación, no podrá ser inferior a 360 días.
 
 En todo caso, las instituciones financieras que deseen realizar ventas de divisas con pacto de recompra por un monto total que en un mismo día supere la suma de US$ 10.000.000, deben enviar una solicitud en tal sentido a la Gerencia de Financiamiento Externo del Banco Central de Chile, con dos días hábiles bancarios de anticipación.
 
