@@ -1,0 +1,1073 @@
+FIJA NORMAS SOBRE REMUNERACIONES Y SOBRE PERSONAL PARA EL SECTOR PUBLICO
+
+Núm. 3.551.- Santiago, 26 de Diciembre de 1980.- Visto: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974; y 991, de 1976.
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente:
+
+Decreto ley:
+
+## Título I
+
+De la Contraloría General de la República y de las
+
+Instituciones Fiscalizadoras
+
+#### Artículo 1°
+
+La Contraloría General de la República, la Fiscalía Nacional Económica, el Servicio Nacional de Aduanas, la Dirección del Trabajo y la Superintendencia de Seguridad Social dejarán de regirse por el sistema de remuneraciones establecido en el decreto ley N° 249, de 1974, sin perjuicio de lo dispuesto en el artículo 7°.
+
+#### Artículo 2°
+
+La Fiscalía Nacional Económica, el Servicio Nacional de Aduanas, la Dirección del Trabajo y la Superintendencia de Seguridad Social, serán instituciones autónomas, con personalidad jurídica, de duración indefinida, y se relacionarán con el Ejecutivo a través de los Ministerios de los cuales dependen y se relacionan en la actividad. Estas instituciones serán denominadas para todos los efectos legales, como "Instituciones fiscalizadoras" y el domicilio de ellas será la ciudad de Santiago, con excepción del Servicio Nacional de Aduanas, respecto de cual lo será la ciudad de Valparaíso.
+
+#### Artículo 3°
+
+El Jefe Superior de cada una de las instituciones fiscalizadoras, será de la exclusiva confianza del Presidente de la República y se mantendrá en su empleo mientras cuente con ella.
+
+Dichos Jefes Superiores gozarán de la más amplia libertad para el nombramiento, promoción y remoción del personal de la respectiva institución, con entera independencia de toda otra autoridad. Para estos efectos, todo el personal que de ellos depende es de su exclusiva confianza.
+
+#### Artículo 4°
+
+Sustitúyense los incisos segundo y tercero del artículo 3° de la ley N° 10.336, por el siguiente:
+
+"Los demás empleados de la Contraloría serán de la exclusiva confianza del Contralor, quien podrá nombrarlos, promoverlos y removerlos con entera independencia de toda otra autoridad".
+
+#### Artículo 5°
+
+Establécese para el personal de la Contraloría General de la República y el de las Instituciones fiscalizadoras la siguiente escala de sueldos bases mensuales:
+
+-------------------------------------------------------
+
+Grado Sueldo Base
+
+$
+
+-------------------------------------------------------
+
+F/G ....................................... 35.454
+
+1 ....................................... 33.516
+
+1-b 33.174
+
+2 ....................................... 32.832
+
+3 ....................................... 32.262
+
+4 ....................................... 30.438
+
+5 ....................................... 29.298
+
+6 ....................................... 28.728
+
+7 ....................................... 28.158
+
+8 ....................................... 27.018
+
+9 ....................................... 26.220
+
+10 ....................................... 25.536
+
+11 ....................................... 23.484
+
+12 ....................................... 21.774
+
+13 ....................................... 20.178
+
+14 ....................................... 18.696
+
+15 ....................................... 17.328
+
+16 ....................................... 13.794
+
+17 ....................................... 12.768
+
+18 ....................................... 11.742
+
+19 ....................................... 10.944
+
+20 ....................................... 10.146
+
+21 ....................................... 9.462
+
+22 ....................................... 7.410
+
+23 ....................................... 6.270
+
+24 ....................................... 5.700
+
+25 ....................................... 4.549
+
+----------------------------------------------------
+
+> **Nota.** El artículo 3º del DL 3651, hacienda, publicado el 11.03.1981, dispone que la modificación que introduce al presente artículo rige a contar del 1º de Enero de 1981.
+
+#### Artículo 6°
+
+Establécese para el personal de la Contraloría General de la República y de las instituciones fiscalizadoras una asignación no imponible, que se denominará "asignación de fiscalización", de los montos mensuales que se indican, según el escalafón y el grado que corresponda al cargo respectivo:
+
+-------------------------------------------------------
+
+Escalafón Grado Monto
+
+$
+
+-------------------------------------------------------
+
+CONTRALOR GENERAL
+
+DE LA REPUBLICA
+
+F/G 129.960
+
+JEFES SUPERIORES
+
+DEL SERVICIO
+
+1 124.812
+
+DIRECTIVOS
+
+SUBCONTRALOR 1-b $ 118.941
+
+2 113.070
+
+3 103.346
+
+4 96.160
+
+5 90.237
+
+6 80.308
+
+7 74.832
+
+8 68.015
+
+9 62.242
+
+10 57.453
+
+11 49.660
+
+12 42.641
+
+PROFESIONALES
+
+4 96.160
+
+5 90.237
+
+6 80.308
+
+7 74.832
+
+8 68.015
+
+9 62.242
+
+10 57.453
+
+11 49.660
+
+12 42.641
+
+13 36.530
+
+14 31.482
+
+15 27.037
+
+16 24.975
+
+17 17.494
+
+18 12.164
+
+FISCALIZADORES
+
+11 49.660
+
+12 42.641
+
+13 36.530
+
+14 31.482
+
+15 27.037
+
+16 24.975
+
+17 17.494
+
+JEFATURAS
+
+13 36.530
+
+14 31.482
+
+15 27.037
+
+16 24.975
+
+ADMINISTRATIVOS
+
+17 17.494
+
+18 12.164
+
+19 7.939
+
+20 4.968
+
+21 2.685
+
+22 2.366
+
+23 2.157
+
+24 1.900
+
+MAYORDOMOS
+
+19 7.939
+
+20 4.968
+
+AUXILIARES
+
+20 4.968
+
+21 2.685
+
+22 2.366
+
+23 2.157
+
+24 1.900
+
+25 814
+
+-------------------------------------------------------
+
+> **Nota.** El artículo 3º del DL 3651, hacienda, publicado el 11.03.1981, dispone que la modificación que introduce al presente artículo rige a contar del 1º de Enero de 1981.NOTA: El Artículo 12 de la LEY 19267, publicada el 27.11.1993, incrementó a contar del 1° de diciembre de 1993, en los montos que se indican, la asignación de fiscalización establecida en el presente artículo, ya reajustado por el artículo 1° de la citada Ley N° 19.267, de los grados que se señalan: Grado Montos $ F/G 6.500 1 6.500 1B 6.500 2 6.500 3 6.386 4 6.273 5 6.159 6 6.045 7 5.932 8 5.818 9 5.705 10 5.591 11 5.477 12 5.364 13 5.250 14 5.136 15 5.023 16 4.909 17 4.795 18 4.682 19 4.568 20 4.455 21 4.341 22 4.227 23 4.114 24 4.000 25 4.000.
+
+#### Artículo 7°
+
+El personal a que se refiere el artículo 5° mantendrá, además, el derecho a percibir las remuneraciones adicionales que se indican:
+
+a) La asignación de zona.
+
+b) El derecho a viáticos.
+
+c) La asignación de Gastos de Movilización del artículo 76 del decreto con fuerza de ley N° 338, de 1960; la asignación por pérdida de caja del artículo 77 del decreto con fuerza de ley N° 338, de 1960; la asignación por colación; la asignación por cambio de residencia; la asignación familiar, y la asignación de movilización del artículo 1° del decreto ley N° 300, de 1974.
+
+d) Asignación por trabajos nocturnos o en días festivos y asignación por trabajos extraordinarios a continuación de la jornada ordinaria.
+
+Las asignaciones indicadas en las letras anteriores se fijarán de acuerdo con las normas que rijan para el personal de la administración civil del Estado, con las siguientes modalidades:
+
+La indicada en la letra a) se calculará en relación con el sueldo base.
+
+Respecto de la señalada en la letra b) el Jefe Superior de la entidad correspondiente, podrá exceptuar a los funcionarios de su dependencia, en casos determinados, de la limitación establecida en el artículo 8° del decreto con fuerza de ley N° 262, de 1977, del Ministerio de Hacienda. Asimismo, podrá, previa autorización del Ministerio de Hacienda, respecto del personal de los escalafones de directivos, de fiscalizadores y de otros a los cuales le encomiende comisiones de fiscalización, reemplazar la modalidad de fijación de viáticos del referido decreto con fuerza de ley.
+
+La señalada en la letra d) se calculará sobre la suma del sueldo base y la asignación de fiscalización que corresponda al interesado.
+
+e) Asignación de antigüedad, que se concederá a los trabajadores de planta y contratados asimilados a grados por cada dos años de servicios efectivos en un mismo grado, será imponible y tributable y se devengará automáticamente desde el 1° del mes siguiente a aquel en que se hubiere cumplido el bienio respectivo.
+
+El monto de la asignación de antigüedad se determinará calculando un 2% sobre los sueldos base de cada uno de los grados de la escala de fiscalizadores, por períodos de dos años, con un límite de treinta años.
+
+El funcionario que ascienda tendrá derecho, en todo caso, en el cargo de promoción, a una renta no inferior a la de su cargo anterior más la asignación por antigüedad que estuviera percibiendo, incrementada en un bienio. Para este efecto, se le reconocerá en el nuevo cargo aquella asignación de antigüedad que le asegure dicha renta.
+
+Si el sueldo del grado del cargo de promoción fuera equivalente o superior a la renta que asegura el inciso precedente, se percibirá éste, sin antigüedad.
+
+Si el funcionario hubiere ascendido o ascendiere antes de completar un bienio, se reconocerá para el cómputo del próximo el tiempo corrido entre la fecha de cumplimiento del anterior y la del ascenso.
+
+Los funcionarios que sean nombrados, sin solución de continuidad, en un servicio fiscalizador distinto, conservarán la asignación de antigüedad de que disfrutaban en el cargo que servían y el tiempo corrido entre la fecha de cumplimiento del último bienio y la del nombramiento en el nuevo servicio, debiendo aplicárseles las reglas relativas a los efectos de los ascensos en el mismo servicio si el grado del nuevo cargo es superior al del que servían.
+
+Los funcionarios que permuten sus empleos, mantendrán los bienios y el tiempo transcurrido desde la fecha de cumplimiento del último bienio.
+
+Este beneficio regirá a contar del 1° de enero de 1993.
+
+Para los efectos de la referida asignación de antigüedad reconócese, inicialmente y por una sola vez, como servido en los grados en que se encuentren ubicados, el tiempo efectivamente desempeñado por los actuales funcionarios en alguna institución fiscalizadora, desde el 2 de enero de 1981 y hasta el 31 de diciembre de 1992. Con todo, ello no significará alterar la fecha desde la cual se percibirá el beneficio, conforme a lo dispuesto en el inciso anterior.
+
+INCISO DEROGADO
+
+> **Nota.** El Artículo 2º de la LEY 19354, publicada el 02.12.1994, dispuso que los porcentajes de asignación de zona a que se refiere la letra a) del presente artículo, se calcularán sobre el sueldo base que establece el artículo 5° del presente decreto ley, aumentado el monto resultante en un 40%.
+
+> **Nota.** NOTA: 1 El Artículo 6º de la LEY 19354, publicada el 02.12.1994,, ordenó su efecto retroactivo a contar del 1° de junio de 1994.
+
+#### Artículo 8°
+
+El sistema de remuneraciones que establecen los artículos precedentes de este decreto ley incluye, respecto del personal a que se refiere, las asignaciones que perciben por aplicación del artículo 6° del decreto ley N° 249, de 1974; del artículo 3° del decreto ley N° 479, de 1974; del artículo 10° del decreto ley N° 924, de 1975; del artículo 3° del decreto ley N° 773, de 1974; del decreto ley N° 1.166, de 1975; del artículo 7° del decreto ley N° 1.607, de 1976; del artículo 6° del decreto ley N° 1.770, de 1977, y del decreto ley N° 2.411, de 1978 y toda otra remuneración adicional, general o especial, no mencionada en el artículo 7°, cualquiera sea la norma legal que las haya concedido, disposiciones que, en consecuencia, deben entenderse no aplicables respecto de dicho personal.
+
+#### Artículo 9°
+
+Fíjase la siguiente planta esquemática para la Contraloría General de la República y las instituciones fiscalizadoras:
+
+-------------------------------------------------------
+
+Escalafones Grados
+
+-------------------------------------------------------
+
+Contralor General de la República F/G
+
+Jefe Superior del Servicio 1
+
+Directivos 1-b al 12
+
+Profesionales 4 al 18
+
+Fiscalizadores 11 al 17
+
+Jefaturas 13 al 16
+
+Administrativos 17 al 24
+
+Mayordomos 19 al 20
+
+Auxiliares 20 al 25
+
+-------------------------------------------------------
+
+> **Nota.** El artículo 3º del DL 3651, hacienda, publicado el 11.03.1981, dispone que la modificación que introduce al presente artículo rige a contar del 1º de Enero de 1981.
+
+#### Artículo 10
+
+Facúltase al Presidente de la República, por el plazo de un año, para fijar las plantas de las instituciones fiscalizadoras por decreto supremo expedido a través del Ministerio de Hacienda. El Presidente de la República ejercerá esta facultad, a proposición de los Jefes Superiores de dichas instituciones y deberá ajustarse a la planta esquemática establecida en el artículo 9° y a la dotación máxima fijada. Dentro del mismo plazo y con igual procedimiento, podrán modificarse las plantas ya fijadas.
+
+La planta de la Contraloría General de la República seguirá fijándose por ley.
+
+#### Artículo 11
+
+Una vez aprobadas las nuevas plantas, el Jefe Superior de la entidad respectiva, mediante resolución afecta al trámite de Toma de Razón, que deberá comunicar al Ministerio de Hacienda, encasillará en ellas al personal de su dependencia, de acuerdo a las facultades que le otorga el inciso segundo del artículo 3° de este texto.
+
+El personal no encasillado en las nuevas plantas, dejará de prestar servicios a contar del primer día del mes siguiente al mes en que se tome razón de la resolución de encasillamiento.
+
+Los empleados de planta que no sean encasillados y no pudieren acogerse a jubilación, tendrán derecho, con cargo al Fisco, al beneficio que otorga la letra e) del artículo 29 del decreto ley N° 2.879, de 1979.
+
+#### Artículo 12
+
+En las entidades a que se refiere el artículo 5° se regirán, para los efectos de los nombramientos de personal, solamente los requisitos establecidos en el Párrafo 2 del Título I del decreto con fuerza de ley N° 338, de 1969, y los que a continuación se indican:
+
+Directivos: título profesional universitario.
+
+Jefaturas: título profesional universitario.
+
+Profesionales: título profesional universitario, de 8 semestres a lo menos.
+
+Fiscalizadores: título profesional universitario de 8 semestres a lo menos; o título profesional universitario de 6 semestres y experiencia profesional de un año; o título de Contador y 5 años de experiencia laboral y curso de capacitación.
+
+Administrativos: cuarto año medio aprobado.
+
+Mayordomos: octavo año básico y experiencia laboral de 2 años, o sexto año básico y experiencia laboral de 5 años.
+
+Auxiliares: sexto año básico.
+
+El Jefe Superior de las entidades referidas, mediante reglamento interno, podrá fijar otros requisitos específicos adicionales o complementarios.
+
+El Jefe Superior de las entidades en referencia podrá eximir, por resolución fundada, a determinadas personas, del cumplimiento de los requisitos antes establecidos. Esta facultad no podrá ejercerse respecto de los requisitos del Párrafo 2 del Título I del decreto con fuerza de ley N° 338, de 1960.
+
+#### Artículo 13
+
+Facúltase a los Jefes Superiores de las entidades a que se refiere el artículo 5° para establecer, mediante resolución sujeta al trámite de toma de razón, un sistema de calificaciones del personal, que considere las características del servicio respectivo. En tanto no se ejerza dicha facultad, las calificaciones se efectuarán de acuerdo con las normas estatutarias en actual vigencia.
+
+El resultado de las calificaciones, respecto de todos los funcionarios de un mismo nivel, deberá ser puesto en conocimiento de todos ellos y de los funcionarios de los niveles superiores, en boletines que se distribuyan a dichos funcionarios.
+
+#### Artículo 14
+
+El derecho que concede el inciso primero del artículo 132 del decreto con fuerza de ley N° 338, de 1960, corresponderá a los siguientes funcionarios de la Contraloría General de la República y de las instituciones fiscalizadoras, siempre que cumplan con los requisitos establecidos en dicho inciso: Contralor General, Jefe Superior del Servicio, Directivos y empleados que hubieren llegado al grado máximo de sus respectivos escalafones.
+
+> **Nota.** Las modificaciones introducidas por el DL 3628, Hacienda, publicado el 25.02.1981, rigen a contar de la vigencia del presente decreto ley.
+
+#### Artículo 15
+
+El personal en actual servicio en las entidades a que se refiere el artículo 5°, no podrá ver disminuida la cantidad sobre la cual esté efectuando imposiciones para los efectos previsionales y al Fondo de Seguro Social de los Empleados Públicos. En el evento de que sea encasillado con una menor remuneración imponible, se le mantendrá la cantidad que estaba imponiendo, con cargo a sus remuneraciones no imponibles. El monto de esta imposición complementaria será reajustable en el mismo porcentaje que se aplique a las remuneraciones con motivo de los reajustes generales que se otorguen. La imposición complementaria será disminuida a medida del aumento de la imponibilidad determinada por las promociones del interesado.
+
+#### Artículo 16
+
+DEROGADO
+
+#### Artículo 17
+
+Los gastos en personal de la Contraloría General de la República y de las instituciones fiscalizadoras, una vez que se aplique respecto de cada una de ellas el nuevo sistema de remuneraciones, no podrán representar en los años 1981 a 1984, una cantidad superior a las destinadas al efecto para cada entidad en el año 1980, aumentada, en cada uno de esos años, en un 10%, 25%, 50% y 100%, respectivamente, de la diferencia entre aquella cantidad y la que signifique el nuevo sistema de remuneraciones, en moneda del mismo valor adquisitivo.
+
+Se considerarán como cantidad destinada a gastos en personal en el año 1980 y como diferencia entre ella y la que signifique el nuevo sistema de remuneraciones, en cada una de las entidades referidas, las que se fijen en decretos expedidos a través del Ministerio de Hacienda, dictados con la fórmula "por orden del Presidente de la República".
+
+> **Nota.** El artículo 2º de la LEY 18134, publicada el 19.06.1982, modifica los plazos y porcentajes de aplicación de los incrementos que establecen para los años 1983 y 1984, establecidos en el presente artículo, de la forma siguiente: 25% hasta 1984 inclusive, 50% en 1985, 75% en 1986 y 100% en 1987.
+
+#### Artículo 18
+
+Las normas sobre remuneraciones regirán a contar del 1° de Enero de 1981, pero los haberes que correspondan se pagarán una vez que se aprueben las nuevas plantas y se efectúen los encasillamientos a que se refiere el artículo 11, manteniéndose entre tanto el sistema de remuneraciones del decreto ley N° 249, de 1974, sin perjuicio de pagarse las diferencias correspondientes una vez aprobadas las plantas y efectuados los encasillamientos.
+
+En el evento de que el gasto en personal determinado por el nuevo sistema de remuneraciones, represente en alguna de las entidades fiscalizadoras una cantidad superior al máximo establecido en el artículo precedente, deberá reducirse, en la entidad respectiva, la asignación a que se refiere el artículo 6° en el porcentaje necesario para ajustar el total del gasto en personal al máximo referido.
+
+Semestralmente, a medida que se produzca la disminución de las dotaciones, o, anualmente, en los años 1981 a 1984, de acuerdo con los porcentajes de aumento fijados en el artículo anterior, se irá eliminando la reducción a que se refiere el inciso precedente, hasta completar el monto total de la asignación establecida en el artículo 6°.
+
+Tanto el monto de reducción como su eliminación progresiva de que tratan, respectivamente, los dos incisos anteriores, se fijarán por decretos supremos expedidos a través del Ministerio de Hacienda, dictados con la fórmula "por orden del Presidente de la República".
+
+#### Artículo 19
+
+A la Superintendencia de Bancos e Instituciones Financieras, al Servicio de Impuestos Internos y a la Superintendencia de Valores y Seguros, no obstante seguir afectos a las normas legales por las que se rigen en la actualidad, les serán aplicables las disposiciones que establece este decreto ley respecto del sistema de fijación de plantas y de remuneraciones del personal, contenidos en los artículos 5°, 6°, 7°, 8°, 9°, 10 y 11. Será aplicable a estas entidades, además, lo dispuesto en los artículos 2° y 3° de este cuerpo legal.
+
+Las remuneraciones que se fijen de acuerdo al procedimiento a que se refiere el inciso anterior regirán a contar del 1° de Enero de 1981. En tanto no sean aprobadas las nuevas plantas ni se efectúen los encasillamientos correspondientes, seguirá manteniéndose el sistema de remuneraciones y las plantas en actual vigencia, sin perjuicio de pagarse las diferencias correspondientes una vez aprobadas las plantas y efectuados los encasillamientos.
+
+Deróganse, a partir de la fecha en que se fijen las nuevas plantas, de acuerdo a lo antes dispuesto, el inciso segundo del artículo 5° del decreto ley N° 1.097, de 1975, el decreto con fuerza de ley N° 8 de Hacienda de 1980, y el inciso segundo del artículo 22 del decreto ley N° 3.538, de 1980.
+
+#### Artículo 20
+
+Las entidades a que se refieren los artículos 5, y 19 sólo podrán otorgar como único aporte a los Servicios u Oficinas de Bienestar de sus personales, la misma cantidad que rija para los Servicios afectos al decreto ley N° 249, de 1974.
+
+#### Artículo 20 bis
+
+Sin perjuicio de las incompatibilidades establecidas en sus respectivos estatutos, prohíbese al personal de las instituciones fiscalizadoras a que se refiere este título, prestar por sí o a través de otras personas naturales o jurídicas, servicios personales a personas o a entidades sometidas a la fiscalización de dichas instituciones o a los directivos, Jefes o empleados de ellas.
+
+Ningún funcionario de institución fiscalizadora podrá intervenir, en razón de sus funciones, en asuntos en que tenga interés él, su cónyuge, sus parientes consanguíneos del 1° a 4° grado inclusives, o por afinidad de primero y segundo grado, o las personas ligadas con él por adopción.
+
+Asimismo, les está prohibido actuar por sí o a través de sociedades de que formen parte, como agentes o gestores de terceras personas ante cualquier institución sometida a la fiscalización de las instituciones a que se refiere este título.
+
+En todo caso quedan exceptuados de estas prohibiciones e inhabilidades el ejercicio de derechos que atañen personalmente al funcionario o que se refieran a la administración de su patrimonio, y la atención docente, labores de investigación o de cualquiera otra naturaleza no remuneradas o remuneradas en cualquier forma, prestadas a universidades o instituciones de enseñanza que no persigan fines de lucro.
+
+Igualmente queda exceptuada la atención no remunerada prestada a sociedades de beneficencia, instituciones de carácter benéfico y, en general, a instituciones sin fines de lucro.
+
+Con todo, para que operen estas excepciones, será necesario obtener autorización previa y expresa del jefe superior del servicio. Si estas autorizaciones se hicieren necesarias respecto del jefe superior, serán dadas por el Ministro respectivo.
+
+## Título II
+
+De las Municipalidades
+
+#### Artículo 21
+
+Exclúyese al personal de las Municipalidades del sistema de remuneraciones establecido en el decreto ley N° 249, de 1974.
+
+> **Nota.** El artículo 1° de la Ley N 19.529, publicada en el Diario Oficial de 14 de Noviembre de 1997, otorga a los trabajadores a que se refiere este Título , con excepción del Alcalde, una asignación mensual, imponible y tributable. Asimismo, el artículo 2° de la misma ley concede por una sola vez al personal de las municipalidades ya señalado, que se encuentre en servicio a la fecha de publicación de la Ley , un bono especial único, no imponible ni tributable, de un monto de $20.000.-, que se pagará dentro del mes siguiente a la entrada en vigencia de la Ley N°19.529.
+
+#### Artículo 22
+
+Los empleados de las Municipalidades, con excepción de los Jueces de Policía Local, serán de la exclusiva confianza del Alcalde, quien podrá nombrarlos, promoverlos y removerlos con entera independencia de toda otra autoridad.
+
+#### Artículo 23
+
+Establécese para el personal de las Municipalidades, la siguiente escala de sueldos bases mensuales:
+
+-------------------------------------------------------
+
+Grado Sueldo
+
+-------------------------------------------------------
+
+1 .................................... 30.438
+
+2 .................................... 28.728
+
+3 .................................... 28.500
+
+4 .................................... 27.018
+
+5 .................................... 25.536
+
+6 .................................... 21.774
+
+7 .................................... 20.178
+
+8 .................................... 17.328
+
+9 .................................... 13.794
+
+10 .................................... 12.768
+
+11 .................................... 11.742
+
+12 .................................... 10.944
+
+13 .................................... 10.146
+
+14 .................................... 9.462
+
+15 .................................... 8.892
+
+16 .................................... 7.410
+
+17 .................................... 7.182
+
+18 .................................... 6.042
+
+19 .................................... 5.700
+
+20 .................................... 4.549
+
+------------------------------------------------------
+
+> **Nota.** NOTA 1 El artículo 3° de la Ley N° 19.180, publicada en el "Diario Oficial" de 7 de diciembre de 1992, aumentó el sueldo base vigente para los grados 18° y 20° de la escala de sueldos del personal municipal, establecida de acuerdo al presente artículo, en los montos de $ 2.500 y $ 3.000, respectivamente.
+
+> **Nota.** NOTA 2 El artículo 4° de la Ley N° 19.180 citada, dispuso que los beneficios previstos en sus artículos 1° a 3° regirán a contar del 1° de febrero de 1992.
+
+> **Nota.** NOTA 3 El artículo 1 de la Ley 20.624, publicada el 30.08.2012, modifica el presente artículo, en el sentido de aumentar la escala de sueldos base mensuales para cada uno de los años y en los montos que para cada grado se indican y, asimismo, ordena adicionar los referidos montos a los sueldos bases mensuales según el procedimiento que la citada norma establece.
+
+#### Artículo 24
+
+Establécese para el personal de las Municipalidades una asignación no imponible, que se denominará "asignación municipal", de los montos mensuales que se indican, según sea el escalafón a que pertenezca y el grado que corresponda al cargo respectivo:
+
+-------------------------------------------------------
+
+Escalafón Grados Monto
+
+$
+
+-------------------------------------------------------
+
+ALCALDES
+
+1 111.900
+
+2 107.007
+
+3 88.036
+
+4 85.380
+
+5 73.221
+
+6 61.728
+
+7 46.041
+
+DEROGADO
+
+DIRECTIVOS
+
+3 88.036
+
+4 85.380
+
+5 73.221
+
+6 61.728
+
+7 46.041
+
+8 35.126
+
+9 26.774
+
+10 20.017
+
+PROFESIONALES
+
+5 73.221
+
+6 61.728
+
+7 46.041
+
+8 35.126
+
+9 26.774
+
+10 20.017
+
+11 14.909
+
+12 10.780
+
+JEFATURAS
+
+9 26.774
+
+10 20.017
+
+11 14.909
+
+12 10.780
+
+ESPECIALIZADOS
+
+10 20.017
+
+11 14.909
+
+12 10.780
+
+13 7.578
+
+14 5.243
+
+15 3.975
+
+16 3.678
+
+17 2.298
+
+18 1.968
+
+ADMINISTRATIVOS
+
+12 10.780
+
+13 7.578
+
+14 5.243
+
+15 3.975
+
+16 3.678
+
+17 2.298
+
+18 1.968
+
+19 1.900
+
+MAYORDOMOS
+
+14 5.243
+
+15 3.975
+
+16 3.678
+
+17 2.298
+
+AUXILIARES
+
+16 3.678
+
+17 2.298
+
+18 1.963
+
+19 1.900
+
+20 814
+
+-------------------------------------------------------
+
+> **Nota.** NOTA 1 El artículo 2° de la Ley N° 19.180, publicada en el "Diario Oficial" de 7 de diciembre de 1992, incrementó la asignación municipal vigente, establecida de acuerdo al presente artículo, en los siguientes grados y montos: GRADOS MONTOS $ 13 1.000 14 2.000 15 2.000 16 3.000 17 4.000 18 5.000 19 7.000 20 6.000
+
+> **Nota.** NOTA 2 El artículo 13 de la Ley N° 19.267, publicada en el "Diario Oficial" de 27 de noviembre de 1993, incrementó, a contar del 1° de diciembre de 1993, en los montos que se indican, la asignación municipal establecida en el presente artículo, ya reajustada por el artículo 1° de la mencionada Ley N° 19.267, de los grados que se señalan: " GRADOS MONTOS $ 1 6.500 2 6.500 3 6.500 4 6.500 5 6.500 6 6.333 7 6.167 8 6.000 9 5.833 10 5.667 11 5.500 12 5.333 13 5.167 14 5.000 15 4.833 16 4.667 17 4.500 18 4.333 19 4.167 20 4.000 "."
+
+> **Nota.** NOTA 3 El Artículo 14 de la Ley N° 19.280, publicada en el "Diario Oficial" de 16 de Diciembre de 1993, incrementó en la suma de $ 2.500 mensuales la asignación municipal vigente para el grado 20 de la escala de sueldos de las municipalidades, establecida de acuerdo al presente artículo.
+
+#### Artículo 25
+
+No obstante lo establecido en el artículo 21, lo dispuesto en los artículos 7° y 8° de este decreto ley regirá también respecto del personal de las Municipalidades.
+
+> **Nota.** El artículo 3° de la Ley N° 19.354, publicado en el "Diario Oficial" de 2 de Diciembre de 1994, dispuso que los porcentajes de la asignación de zona a que se refiere el presente artículo, se calcularán sobre el sueldo base que establece el artículo 23 del decreto ley N° 3.551, de 1980, aumentado el monto resultante en un 40%.
+
+#### Artículo 26
+
+Fíjase la siguiente planta esquemática para las Municipalidades:
+
+Alcalde: del grado 1 al 7
+
+Directivos: del grado 3 al 10
+
+Profesionales: del grado 5 al 12
+
+Jefaturas: del grado 9 al 12
+
+Especializados: del grado 10 al 18
+
+Administrativos: del grado 12 al 19
+
+Mayordomos: del grado 14 al 17
+
+Auxiliares: del grado 16 al 20.
+
+#### Artículo 27
+
+Facúltase al Presidente de la República, por el plazo de un año, para fijar las plantas de las Municipalidades por decreto supremo expedido a través del Ministerio de Hacienda, el cual deberá llevar, también, la firma del Ministro del Interior. El Presidente de la República ejercerá esta facultad a proposición de los Alcaldes y deberá ajustarse a la planta esquemática establecida en el artículo 26. No regirán, respecto del ejercicio de esta facultad, las normas vigentes sobre determinadas estructuras de las diferentes Municipalidades. Facúltasele asimismo, para disminuir o incrementar las dotaciones vigentes al momento de ejercer la facultad. Dentro del mismo plazo y con igual procedimiento, podrán modificarse las plantas ya fijadas.
+
+> **Nota.** NOTA: 4 El artículo 23, inciso 1°, de la Ley 18.073, prorrogó, por el primer semestre de 1982 las facultades concedidas al Presidente de la República por el artículo 27 del presente decreto ley.
+
+#### Artículo 28
+
+Una vez aprobadas las nuevas plantas, el Alcalde respectivo, mediante resolución afecta al trámite de toma de razón en la Contraloría General de la República y que comunicará al Ministerio de Hacienda, encasillará en ellas al personal de la Municipalidad de su dependencia, de acuerdo a la facultad que le otorga el artículo 22 de este texto. El personal no encasillado en las nuevas plantas dejará de prestar servicios a contar del primer día del mes siguiente al mes en que se tome razón de la Resolución de encasillamiento. Los empleados de planta que no sean encasillados y no pudieren acogerse a jubilación, tendrán derecho al beneficio que otorga la letra e) del artículo 29 del decreto ley N° 2.879, de 1979.
+
+#### Artículo 29
+
+Para el nombramiento del personal de las Municipalidades, excluidos los jueces de policía local, regirán solamente los requisitos establecidos en el Párrafo 2 del Título I del decreto con fuerza de ley N° 338, de 1960, y los que a continuación se indican:
+
+Directivos: título profesional universitario.
+
+Jefaturas: título profesional universitario, o cuarto año medio aprobado, más curso de capacitación y experiencia laboral.
+
+Profesionales: título profesional universitario de 6 semestres a lo menos.
+
+Especializados: título profesional universitario; o título de técnico universitario; o título de Contador con 5 años de experiencia laboral y curso de capacitación, u ocho años de experiencia laboral; o cuarto año medio más formación adicional técnico no universitario y curso de capacitación y experiencia laboral de 5 años.
+
+Administrativos: cuarto año medio aprobado.
+
+Mayordomos: octavo año básico y experiencia laboral de 2 años, o sexto año básico y experiencia laboral de 5 años.
+
+Auxiliares: sexto año básico.
+
+El Alcalde, mediante reglamento interno, podrá fijar otros requisitos específicos adicionales o complementarios.
+
+El Alcalde podrá por resolución fundada, eximir a determinadas personas del cumplimiento de los requisitos antes establecidos. Esta facultad no podrá ejercerse respecto de los escalafones de profesionales y de los requisitos del Párrafo 2 del Título I del decreto con fuerza de ley N° 338, de 1960.
+
+> **Nota.** NOTA: 4.1. El artículo 81 de la ley 18681 dispone que la modificación introducida por el artículo 90 de la ley 18591, al artículo 29 del presente decreto ley, no regirá respecto del personal que, a la fecha de publicación de dicha ley, ocupaba un cargo en el escalafón profesional, mientras permanezca en la Municipalidad en que se encontraba designado. Tampoco regirá para los efectos de ser traspasado a otra Municipalidad de la misma Región.
+
+#### Artículo 30
+
+Lo dispuesto en los artículos 13, 14, 15 y 16 de este decreto ley regirá también respecto del personal de las Municipalidades.
+
+#### Artículo 31
+
+Las normas sobre remuneraciones regirán a contar del 1° de Enero de 1981, pero los haberes que correspondan se pagarán una vez que se aprueben las nuevas plantas y se efectúen los encasillamientos a que se refiere el artículo 28, manteniéndose entre tanto el sistema de remuneraciones del decreto ley N° 249, de 1974, sin perjuicio de pagarse las diferencias correspondientes una vez aprobadas las plantas y efectuados los encasillamientos.
+
+Los gastos en personal de las Municipalidades, una vez que se aplique respecto de cada una de ellas el nuevo sistema de remuneraciones que establece este artículo, no podrán ser mayores que los destinados a ese efecto en el año 1980, incrementados en un 25%, con cargo a reducciones de otros ítem de gastos del presupuesto de la misma Municipalidad.
+
+Se considerará como cantidad destinada a gastos en personal el año 1980, en cada una de las Municipalidades la que se fije en decretos del Ministerio de Hacienda, dictados con la fórmula "por orden del Presidente de la República".
+
+En el evento de que dicho gasto represente en alguna Municipalidad un incremento superior al fijado según el inciso segundo, deberá reducirse, en la Municipalidad respectiva, la asignación que concede el artículo 24, en el porcentaje necesario para ajustar el total del gasto en personal al máximo antes indicado, reducción que se irá eliminando, semestralmente, a medida de la disminución de las dotaciones, hasta completar el monto total de la asignación mencionada.
+
+Tanto el monto de reducción como su eliminación progresiva, a que se refiere el inciso anterior, se fijarán por decretos expedidos a través del Ministerio de Hacienda, con la fórmula "por orden del Presidente de la República".
+
+## Título III
+
+Del personal afecto a la Escala Unica de Sueldos
+
+#### Artículo 32
+
+Reemplázase, en las posiciones relativas de los cargos y escalafones representativos que a continuación se indican, contenidos en el artículo 12 del decreto ley N° 249, de 1974, cuyo texto vigente fue fijado por el artículo 2° del decreto ley N° 1.608, de 1976, el grado tope de cada uno de ellos, elevándose del grado vigente, al que se expresa:
+
+-------------------------------------------------------
+
+Escalafones Cargos Grado Tope
+
+-------------------------------------------------------
+
+Secretarios Ejecutivos __ __ del grado 15 al grado 10
+
+Secretarios Bilingües __ __ del grado 15 al grado 10
+
+Contadores __ __ __ __ __ __ del grado 15 al grado 10
+
+Martilleros _ __ __ __ __ __ del grado 17 al grado 12
+
+Encuestadores y
+
+Codificadores de Datos __ __ del grado 18 al grado 13
+
+Dibujantes Técnicos __ __ __ del grado 19 al grado 14
+
+Secretarios _ __ __ __ __ __ del grado 19 al grado 14
+
+Oficiales Administrativos __ del grado 19 al grado 14
+
+Telegrafistas __ __ __ __ __ del grado 19 al grado 14
+
+Procuradores __ __ __ __ __ del grado 19 al grado 16
+
+Artesanos Gráficos __ __ __ del grado 19 al grado 16
+
+Encargados de Taller _ __ __ del grado 19 al grado 16
+
+Mayordomos __ __ __ __ __ __ del grado 21 al grado 19
+
+Auxiliares Paramédicos __ __ del grado 21 al grado 20
+
+Fotógrafos __ __ __ __ __ __ del grado 21 al grado 20
+
+Matriceros __ __ __ __ __ __ del grado 21 al grado 20
+
+Mecánicos __ __ __ __ __ __ del grado 21 al grado 20
+
+Electricistas __ __ __ __ __ del grado 21 al grado 20
+
+Choferes _ __ __ __ __ __ __ del grado 22 al grado 20
+
+Guardahilos _ __ __ __ __ __ del grado 22 al grado 21
+
+Telefonistas __ __ __ __ __ del grado 24 al grado 22
+
+Auxiliares de Educación
+
+de Párvulos _ __ __ __ __ __ del grado 25 al grado 21
+
+Auxiliares __ __ __ __ __ __ del grado 25 al grado 21
+
+Carteros y Mensajeros __ __ del grado 27 al grado 25
+
+-------------------------------------------------------
+
+Suprímese, en el mismo artículo, el escalafón: "Técnico no Universitario, Oficiales Técnicos, del grado 17 al grado 27".
+
+#### Artículo 33
+
+Introdúcense en el artículo 1° del decreto con fuerza de ley N° 90, de Hacienda, de 1977, cuyo texto refundido, coordinado y sistematizado fue fijado por decreto N° 305, de Hacienda, de 1980, las siguientes modificaciones:
+
+a) Sustitúyense los grados de la escala única de sueldos, en los siguientes escalafones:
+
+"JEFATURAS A
+
+-------------------------------------------------------
+
+Grado
+
+E.U.S. Nivel
+
+-------------------------------------------------------
+
+9 Jefatura A I
+
+10 Jefatura A II
+
+JEFATURAS B
+
+11 y 12 Jefatura B I
+
+13 Jefatura B II
+
+JEFES DE PRESUPUESTOS
+
+9 y 10 Jefe Presupuesto I
+
+11, 12 y 13 Jefe Presupuesto II"
+
+-------------------------------------------------------
+
+b) Suprímese el escalafón de Jefaturas C y el Nivel III del escalafón de Jefes de Presupuestos.
+
+#### Artículo 34
+
+Facúltase al Presidente de la República para que, dentro del plazo de ciento ochenta días, mediante decreto expedido a través del Ministerio de Hacienda, sustituya en el decreto con fuerza de ley N° 90, de 1977, de Hacienda, los grados de los distintos niveles de los escalafones tipos a que se refiere el artículo 32 y los de Procesamiento de Datos que corresponda, para adecuarlos a la modificación contenida en dicho artículo. En uso de esta facultad podrá reemplazar, también, en los casos en que sea necesario, las funciones y requisitos de los niveles en referencia.
+
+Facúltasele, asimismo, para que dentro del plazo de un año, contado desde la publicación del decreto con fuerza de ley que se dicte en virtud de lo dispuesto en el inciso anterior, a través de uno o más decretos expedidos a través del Ministerio, modifique las plantas de las entidades regidas por el artículo 1° del decreto ley N° 249, de 1974, para ajustarlas a las posiciones relativas modificadas por los dos artículos precedentes y por aplicación de la facultad del inciso anterior pudiendo al mismo tiempo fusionar escalafones y DL 3650 1981 fijar las normas a que se sujetarán los encasillamientos a que haya lugar. Los decretos con fuerza de ley que se dicten en uso de esta facultad regirán a contar del 1° de Julio de 1981, 1° de Enero de 1982 ó 1° de Julio de 1982, posterior a la fecha de su publicación en el Diario Oficial y el gasto que ellos representen deberá quedar incluido dentro de los máximos que se fijen para la entidad respectiva de acuerdo a lo dispuesto en el artículo 37.
+
+En el evento de que las modificaciones de las plantas, signifiquen en algún Servicio un gasto superior al máximo establecido en el artículo 37, el Presidente de la República podrá disponer que los aumentos de grado que representen tales modificaciones operen escalonadamente, a medida de las disponibilidades financieras.
+
+No obstante lo dispuesto en los incisos anteriores, el Presidente de la República podrá establecer, cuando el mayor gasto quede incluido dentro del máximo que se fije a la entidad respectiva, como fecha de vigencia de las nuevas posiciones relativas y de los encasillamientos a que haya lugar, el 1° de Enero de 1981.
+
+Los cambios de grado a que den lugar los encasillamientos resultantes de la aplicación de este artículo, no se considerarán para los efectos de la asignación de antigüedad establecida en el artículo 6° del decreto ley N° 249, de 1974, de modo que los interesados seguirán gozando, en el nuevo grado, del mismo número de bienios que estaba percibiendo aplicados sobre el sueldo de su nuevo grado.
+
+#### Artículo 35
+
+Facúltase al Presidente de la República para que, dentro del plazo de un año, mediante decretos de los Ministerios correspondientes, los que deberán llevar también la firma del Ministro de Hacienda, suprima en las plantas de los servicios a que se refieren los artículos 36 y 38 los cargos que se estimen innecesarios.
+
+El personal que deba cesar en sus funciones por la aplicación de esta facultad, que no cumpla con los requisitos para acogerse a jubilación, tendrá derecho, con cargo fiscal, al beneficio que otorga la letra e) del artículo 29 del decreto ley N° 2.879, de 1979.
+
+#### Artículo 36
+
+Concédese, a contar del 1° de Enero de 1981, a los personales que se indican de las entidades regidas por el artículo 1° del decreto ley N° 249, de 1974, exceptuados los de la Comisión Chilena de Energía Nuclear, que ocupen alguno de los cargos que a continuación se señalan, una asignación mensual, no imponible, del porcentaje que se expresa, aplicado sobre el sueldo base del grado asignado al cargo y según corresponda sobre el monto de la asignación profesional del artículo 3° del decreto ley N° 479, de 1974, o sobre el monto de la asignación del artículo 10 del decreto ley N° 924, de 1975, o sobre el monto de las asignaciones del decreto ley N° 2.411, de 1978, o sobre el monto de la asignación del artículo 5° del decreto ley N° 2.964, de 1979, que perciba el funcionario:
+
+Oficiales Administrativos, Mayordomos y Auxiliares: grados 30 al 27, veinte por ciento; grados 26 al 25, treinta por ciento; grados 24 al 22, treinta y cinco por ciento; grados 21 al 19, cincuenta por ciento. Contadores: grados 24 al 22, treinta por ciento; grados 21 al 14, cincuenta por ciento. Jefaturas y Jefes de Presupuestos, setenta y cinco por ciento. Profesionales y Técnicos Universitarios, grados 23 al 5, noventa por ciento. Directivos, grados 8 al 5 y Profesionales grado 4, noventa y cinco por ciento. Autoridades de Gobierno, Jefes Superiores de Servicios y Directivos Superiores, cien por ciento. Los personales de las entidades a que se refiere este artículo, que ocupen algún cargo que no corresponda a ninguno de los antes mencionados expresamente, tendrán derecho a la asignación que establece el inciso primero de acuerdo a la siguiente norma: si no son profesionales universitarios y ocupan cargos de grados 30 al 27, veinte por ciento; si ocupan cargos de grados 26 y 25, treinta por ciento; si ocupan cargos grados 24 al 22, treinta y cinco por ciento, y si ocupan cargos de grados 21 al 5, cincuenta por ciento. Si son profesionales universitarios y ocupan cargos de grados 23 al 5, el porcentaje que corresponde a los Profesionales y Técnicos Universitarios de esos grados. El personal de la Planta B, Moneda Nacional, del Servicio Exterior de la República: grados 5° e inferiores, noventa por ciento, y grados 4° y superiores, noventa y cinco por ciento.
+
+La asignación que concede este artículo beneficiará también, al personal contratado asimilado a un grado, con el porcentaje que corresponda al grado de contratación y según la naturaleza del cargo a que esté asimilado.
+
+Asimismo, esta asignación corresponderá a los profesionales, técnicos o expertos contratados sobre la base de honorarios de acuerdo a lo establecido en el artículo 13 del decreto ley N° 1.608, de 1976, con el porcentaje que corresponda a los profesionales y técnicos universitarios según sea su grado de contratación. Si el grado de contratación es superior al cuatro les corresponderá el porcentaje que se otorga a los profesionales de ese grado.
+
+Los personales de las entidades a que se refiere este artículo, de planta o a contrata, en servicio al 31 de Diciembre de 1980, que estén ubicados en el grado 31, tendrán derecho, también, a la asignación que se concede, con un monto igual al que corresponda a los funcionarios de grado 30.
+
+No obstante lo dispuesto en el inciso primero, a los LEY 18091 funcionarios que no tengan título de profesional o técnico universitario y no perciban asignación profesional, aun cuando ocupen algún cargo en escalafones de profesionales o de técnicos universitarios, no les corresponderá el porcentaje que concede dicho inciso para tales profesionales o técnicos. A esos funcionarios se les otorgará el porcentaje fijado para los contadores, si tienen dicho título, o el de los oficiales administrativos, si no lo tienen, según el grado del cargo que ocupen.
+
+Por el contrario, a los funcionarios que poseen título de profesional o de técnico universitario, aun cuando integren escalafones que no exijan estar en posesión de dichos títulos, se les otorgará la asignación que concede el inciso primero para quienes poseen alguno de dichos títulos, en relación al grado que ocupen.
+
+> **Nota.** NOTA: 5 Las modificaciones introducidas por el artículo 1° de la ley 18.009, regirán a contar de la vigencia del presente decreto ley.
+
+> **Nota.** NOTA: 6 Las modificaciones introducidas por las letras B y C del artículo 37 de la Ley 18.091, regirán a contar de la vigencia del presente decreto ley.
+
+#### Artículo 37
+
+Los gastos en personal de cada una de las entidades a cuyos personales corresponda la asignación que concede el artículo 36, no podrán representar en los años 1981 a 1984, una cantidad superior a la destinada al efecto para cada una de ellas en el año 1980, aumentada en un 10%, 25%, 50% y 100%, respectivamente, en cada uno de esos años, del costo de la asignación referida en moneda del mismo valor.
+
+Se considerarán como cantidad destinada a gastos en personal en el año 1980 y como costo de la asignación en referencia, en cada una de las entidades, las que se fijen en decretos del Ministerio de Hacienda, dictados con la fórmula "por orden del Presidente de la República".
+
+En el evento de que dichos gastos pasen a representar una cantidad superior al máximo referido, deberá reducirse, en la entidad respectiva, la nueva asignación, en el porcentaje necesario para ajustar el total de gasto en personal a ese máximo.
+
+De la cantidad máxima de gastos en personal que corresponda en cada año para cada una de las entidades, de acuerdo a lo establecido en el inciso primero, deberá deducirse la que represente las remuneraciones de los funcionarios que se traspasen a las Municipalidades en cumplimiento de lo dispuesto en el decreto con fuerza de ley N° 1/3.063, de 1980, de Interior.
+
+Semestralmente, a medida de la disminución de las dotaciones, o, anualmente, en los años 1981 a 1984, de acuerdo a los porcentajes de aumento fijados en el inciso primero, se irá eliminando la reducción a que se refiere el inciso tercero, hasta completar el monto total de asignación establecida en el artículo 36.
+
+Tanto el porcentaje de reducción como su eliminación progresiva, a que se refieren, respectivamente, los incisos tercero y quinto, se fijará por decretos supremos del Ministerio de Hacienda, dictados con la fórmula "por orden del Presidente de la República".
+
+> **Nota.** El artículo 2º de la LEY 18134, publicada el 19.06.1982, modifica los plazos y porcentajes de aplicación de los incrementos que establecen para los años 1983 y 1984, establecidos en el presente artículo, de la forma siguiente: 25% hasta 1984 inclusive, 50% en 1985, 75% en 1986 y 100% en 1987.
+
+> **Nota.** NOTA: 1 El artículo 1º de la LEY 18461, publicada el 12.11.1985, dispone que los plazos y porcentajes de aplicación de los incrementos previstos en el presente artículo, serán, a contar de la publicación de esta ley los siguientes: para noviembre de 1985, 65%; para diciembre de 1986, 75%; para junio de 1987, 87,5% y para enero de 1988, 100%.
+
+#### Artículo 37 bis
+
+Para los efectos de la determinación de la cantidad destinada a gastos en personal en el año 1980 y del porcentaje de incremento de esa cantidad en los años 1981 a 1984, el Ministerio de Hacienda podrá considerar en conjunto los gastos en personal de todos o algunos de los servicios e instituciones de un mismo Ministerio.
+
+Esta misma norma podrá ser aplicada respecto del Título II, de las Municipalidades.
+
+Una vez aplicado lo dispuesto en este artículo, por decreto de Hacienda, el que deberá llevar también la firma del Ministro del ramo correspondiente, podrá asignarse a cada entidad considerada conjuntamente la parte de los recursos totales que le correspondan para sus gastos en personal.
+
+> **Nota.** Las modificaciones introducidas por el DL 3628, Hacienda, publicado el 25.02.1981, rigen a contar de la vigencia del presente decreto ley.
+
+#### Artículo 38
+
+La Corporación de Fomento de la Producción, la Empresa Portuaria de Chile, la Empresa Marítima del Estado, la Empresa Metropolitana de Obras Sanitarias, la Empresa Sanitaria de la V Región, la Empresa de Transportes Colectivos del Estado, la Empresa de Comercio Agrícola y la Polla Chilena de Beneficencia, dejarán de regirse, a contar del 1° de Enero de 1981, por el sistema de remuneraciones establecido en el decreto ley N° 249, de 1974.
+
+Las remuneraciones de dichas entidades se fijarán de acuerdo a lo establecido en el artículo 9° del decreto ley N° 1.953, de 1977.
+
+El nivel de gastos en personal, en las entidades a que se refiere este artículo, no podrá exceder, por aplicación de los aumentos que se establezcan en uso de lo dispuesto en el inciso anterior, de la cantidad destinada para dichos gastos en el presupuesto de 1980, en moneda del mismo valor.
+
+Respecto de los personales de las instituciones a que se refiere este artículo, que pasen a regirse por las normas sobre negociación colectiva, los aumentos de remuneraciones que se establezcan, por aplicación de lo dispuesto en el inciso segundo, no constituirán base obligatoria para las nuevas remuneraciones que se pacten.
+
+## Título IV
+
+Del personal afecto a la ley N° 15.076
+
+#### Artículo 39
+
+Establécese a contar del 1° de Enero de 1981, para el personal regido por la ley N° 15.076, que acredite cumplir una jornada de 44 horas semanales, una asignación especial no imponible, del monto que se indica:
+
+Profesionales funcionarios que no gocen de trienios $ 11.970.
+
+Profesionales funcionarios que perciban uno o dos trienios $ 14.144.
+
+Profesionales funcionarios que perciban tres, cuatro o cinco trienios $ 19.267.
+
+Profesionales funcionarios que perciban seis, siete u ocho trienios $ 22.184.
+
+Profesionales funcionarios que perciban nueve o más trienios $ 31.490.
+
+El personal que cumpla jornada de 33, 22 u 11 horas semanales, tendrá derecho a percibir la asignación en forma proporcional al número de horas que desempeñe.
+
+El monto de la asignación se reducirá, en los años 1981 a 1984, en el mismo porcentaje en que deba disminuirse, por aplicación del artículo 37, la asignación que concede el artículo 36 a los personales de la entidad en que presten servicios los profesionales regidos por la ley N° 15.076.
+
+Dicha reducción se eliminará en la misma medida en que lo sea la reducción de la asignación del mencionado artículo 36.
+
+El porcentaje de reducción de la asignación que establece este artículo que corresponda aplicar a los profesionales regidos por la ley N° 15.076 que presten servicio en alguna de las entidades a que se refiere el Título I de este decreto ley o en alguna Municipalidad será el mismo que se aplique al personal de la entidad o Municipalidad correspondiente. Asimismo, se eliminará el porcentaje de reducción a medida que vaya siendo eliminado en la entidad empleadora.
+
+> **Nota.** Las modificaciones introducidas por el DL 3628, Hacienda, publicado el 25.02.1981, rigen a contar de la vigencia del presente decreto ley.
+
+> **Nota.** NOTA: 1 El artículo 55 de la LEY 18382, publicada el 28.12.1984, dispone que la bonificación especial no imponible establecida en el presente artículo, beneficia también a los profesionales a que se refiere el artículo 43 de la ley 15.076.
+
+## Título V
+
+Del Personal Afecto a la Carrera Docente
+
+#### Artículo 40
+
+Establécese, a contar del 1° de Enero de 1981, para el personal docente dependiente del Ministerio de Educación Pública, regido por el decreto ley N° 2.327, de 1978, una asignación especial no imponible, de los porcentajes que se indican según sea el escalafón, que se aplicará sobre el sueldo base del grado, la asignación docente y las asignaciones del decreto ley N° 2.411, de 1978 que correspondan al interesado:
+
+Educación Pre-Básica, General Básica, Especial o
+
+Diferencial y Media
+
+Docentes Superiores y Docentes propiamente tales__ 90%
+
+Personal no titulado___ ___ ___ ___ ___ ___ ___ __ 50%
+
+El monto de la asignación que este artículo concede al personal docente, se reducirá, en los años 1981 a 1984 en el mismo porcentaje en que deba disminuirse, por aplicación del artículo 37, la asignación que concede el artículo 36 al personal no docente del Ministerio de Educación Pública afecto a la Escala Unica de Sueldos.
+
+Dicha reducción se eliminará en la misma medida en que lo sea la reducción de la asignación del mencionado artículo 36.
+
+## Título VI
+
+Del Personal afecto a los Decretos con Fuerza de Ley
+
+N° 1 (G) y N° 2 (I), ambos de 1968
+
+#### Artículo 41
+
+Concédese para el personal en servicio activo de las Fuerzas Armadas, de Carabineros de Chile y de Investigaciones de Chile, como asimismo, a aquellos que se encuentran encasillados en algún grado de la Escala de Sueldos bases mensuales fijados por el artículo 2° del decreto ley N° 800, de 1974 y sus modificaciones, una asignación mensual no imponible denominada de "especialidad al grado efectivo" cuyos montos, serán los siguientes y que se percibirá de acuerdo con el grado jerárquico o de encasillamiento respectivo:
+
+General de Ejército y grados equivalentes: veintiocho mil trescientos ochenta y un pesos; General de División y grados equivalentes: veintiséis mil seiscientos ochenta y nueve pesos; General de Brigada y grados equivalentes: veinticuatro mil cuatrocientos dieciocho pesos, cincuenta centavos; Coronel (E) y grados equivalentes: diecisiete mil trescientos noventa pesos, cincuenta centavos; Teniente Coronel (E) y grados equivalentes: catorce mil quinientos cincuenta y seis pesos; Mayor (E) y grados equivalentes: diez mil trescientos setenta pesos; Capitán (E) y grados equivalentes: ocho mil novecientos trece pesos, cincuenta centavos; Teniente (E) y grados equivalentes: tres mil setecientos noventa y un pesos, Subteniente (E) y grados equivalentes: dos mil setecientos cuarenta y seis pesos, cincuenta centavos; Alférez (E) y grados equivalentes: mil cuatrocientos noventa y ocho pesos, cincuenta centavos; Suboficial Mayor (E) y grados equivalentes: cuatro mil trescientos ochenta y cinco pesos, cincuenta centavos; Suboficial (E) y grados equivalentes: tres mil quinientos sesenta y un pesos, cincuenta centavos; Sargento 1° (E) y grados equivalentes: dos mil trescientos veintidós pesos, cincuenta centavos; Sargento 2° (E) y grados equivalentes: mil quinientos cuatro pesos; Cabo 1° (E) y grados equivalentes: mil dieciocho pesos, cincuenta centavos; Cabo 2° (E) y grados equivalentes: novecientos veinticuatro pesos; Cabo (E) y grados equivalentes: setecientos veintisiete pesos.
+
+Para el personal de empleados civiles, de planta y a contrata la asignación será de los montos que se señalan, para los grados de encasillamiento que se indican:
+
+Profesionales Universitarios: hasta el grado 7°: once mil novecientos diez pesos; grado 8°: diez mil novecientos ochenta pesos; grado 9°: diez mil doscientos ochenta y cuatro pesos, cincuenta centavos; grado 10: nueve mil doscientos noventa pesos; grado 11: ocho mil setecientos cuarenta y ocho pesos; grado 12: ocho mil doscientos veintitrés pesos; grado 13: siete mil setecientos treinta pesos; grado 14: siete mil doscientos veintiséis pesos, cincuenta centavos.
+
+Técnicos o Administrativos: hasta el grado 7°: mil quinientos ochenta y ocho pesos; grado 8°: mil cuatrocientos sesenta y cuatro pesos; grado 9°: mil trescientos setenta y un pesos, cincuenta centavos; grado 10: mil doscientos treinta y ocho pesos, cincuenta centavos; grado 11: mil ciento sesenta y seis pesos, cincuenta centavos; grado 12: mil treinta pesos; grado 13: ochocientos noventa y nueve pesos; grado 14: ochocientos veinte pesos, cincuenta centavos.
+
+Respecto de los profesionales regidos por la ley N° 15.076, que presten servicios en alguna de las instituciones y Servicios dependientes del Ministerio de Defensa Nacional, se aplicará el Título IV de este decreto ley y el monto de la asignación allí establecida se reducirá en el mismo porcentaje en que deba disminuirse respecto de los profesionales que presten servicios en el Servicio de Salud creado por el artículo 15 del decreto ley N° 2.763, de 1979, que corresponda a la Región Metropolitana de Santiago, y que se determine por decreto expedido a través del Ministerio de Hacienda, dictado con la fórmula "por orden del Presidente de la República".
+
+El personal de las instituciones a que se refiere este artículo, que esté afecto a la escala única de remuneraciones del decreto ley N° 249, de 1974, se regirá por lo dispuesto en el Título III de este decreto ley y el mejoramiento que les corresponda se les otorgará en cuatro etapas: un 10% a partirde Enero de 1981; un 15% a contar de Enero de 1982; un 25% desde Enero de 1983, y un 50% a partir de Enero de 1984. Los porcentajes anteriores podrán otorgarse anticipadamente a medida del menor gasto que represente la disminución del personal en referencia.
+
+La asignación que concede este artículo no se considerará para los efectos de la asignación de zona.
+
+> **Nota.** Las modificaciones introducidas por el DL 3628, Hacienda, publicado el 25.02.1981, rigen a contar de la vigencia del presente decreto ley.
+
+> **Nota.** NOTA 1 El artículo 1° de la Ley 18926, Publicada el 08.02.1990, declaró que el beneficio económico establecido en el presente artículo, para el personal de empleados civiles de carácter Profesional Universitario, no exige ni ha exigido que los interesados deban desempeñarse en cargos para cuya función la ley exija determinados títulos de esta naturaleza.
+
+> **Nota.** NOTA 2 El artículo 26 de la LEY 18196, publicada el 29.12.1986, reemplaza los plazos y porcentajes de los incrementos que establece para los años 1983 y 1984 el inciso penúltimo del artículo 41 del decreto ley 3.551, de 1981, por los siguientes: un 25% desde enero de 1985; un 25% desde enero de 1986 y un 25% a partir del 1° de enero de 1987.
+
+> **Nota.** NOTA 3 El artículo 2º LEY 19261, publicada en el 16.11.1993, dispone que la asignación de especialidad al grado efectivo establecida en el presente artículo y que perciben los profesionales de planta y a contrata de las plantas de Directivos y Profesionales de la Dirección General de Aeronáutica Civil, se incrementará en los siguientes montos: Grado 2° $ 71.157.- Grado 3° $ 36.304.- Grado 4° $ 26.000.- Grado 5° $ 11.920.- Grado 6° $ 6.000.-
+
+#### Artículo 42
+
+Los montos de las asignaciones que se establecen en el presente Título, serán reajustables a partir del 1° de Enero de 1981, de acuerdo a las normas que rijan para el personal del Sector Público.
+
+#### Artículo 43
+
+Los montos de las asignaciones que concede este Título, con los reajustes a que se refiere el artículo precedente, se incrementarán en un cien por ciento a contar del 1° de Enero de 1982.
+
+## Título VII
+
+Disposiciones varias
+
+#### Artículo 44
+
+Sustitúyense, a contar del 1° de Enero de 1981, en el artículo 4° del decreto ley N° 3.058, de 1979, los montos de la asignación judicial de los grados que se indican, por los siguientes:
+
+Grado I 84.778
+
+Grado II 83.174
+
+Grado III 82.933
+
+Grado IV 82.650
+
+#### Artículo 45
+
+DEROGADO
+
+> **Nota.** El artículo 2º de la LEY 18675, publicada el 07.12.1987, dispone que la derogación de la presente norma, rige a contar del 1º de Enero de 1988.
+
+#### Artículo 46
+
+Las remuneraciones de los personales a que se refiere este decreto ley, que no estén expresadas en porcentajes, serán reajustables de acuerdo a las normas que rijan para el personal del sector público. Las que se expresen en porcentajes, se aplicarán sobre las remuneraciones que correspondan, reajustadas de acuerdo a dichas normas.
+
+#### Artículo 47
+
+La Superintendencia de Administradoras DL 3628 1981 de Fondos de Pensiones constituirá una institución fiscalizadora y estará afecta a las normas establecidas en el Título I del presente decreto ley.
+
+El Instituto de Normalización Previsional y el Servicio Nacional de Geología y Minería se regirán por las normas de personal y remuneraciones contenidas en el Título III de este decreto ley.
+
+#### Artículo 48
+
+Por decreto ley separado, se efectuará la ubicación de los cargos y escalafones del Congreso Nacional en la Escala Unica de Sueldos, de acuerdo con las posiciones relativas establecidas en el artículo segundo del decreto ley N° 1.608, de 1976, con las modificaciones introducidas en el Título III de este decreto ley.
+
+#### Artículo 49
+
+Los mayores gastos en personal que signifiquen los Títulos I y III de este decreto ley, serán de cargo fiscal, excepción hecha de los que correspondan a entidades centralizadas o descentralizadas, con ingreso o patrimonio propio, que no reciban aporte fiscal, las cuales serán de cargo de la entidad respectiva.
+
+No obstante, el Ministro de Hacienda podrá disponer la entrega, a las cantidades referidas, de las entidades que sean necesarias, en el evento de que no puedan afrontar el mayor gasto con sus propios recursos.
+
+El mayor gasto de cargo fiscal que signifique la aplicación de los Títulos I y III de este decreto ley se financiará con recursos de la Ley de Presupuestos del Sector Público para el año 1981.
+
+#### Artículo 50
+
+El mayor gasto para 1981, que signifique la aplicación del Título VI de este decreto ley se financiará con las disponibilidades de los recursos asignados a las Instituciones del Ministerio de Defensa Nacional, que se generen por el cambio de financiamiento para el Fondo Unico de Prestaciones Familiares dispuesto por el artículo 8° del decreto ley N° 3.501, de 1980 y con recursos adicionales de la Ley de Presupuestos del Sector Público para el año 1981.
+
+Disposiciones Transitorias
+
+#### Artículo 1°
+
+transitorio. Los cargos a que se refiere el inciso segundo del artículo 3° del decreto ley 1.608, de 1976, serán durante el plazo de cuatro años, contado desde la publicación de este decreto ley, de la exclusiva confianza del Presidente de la República o de la autoridad llamada a hacer el nombramiento.
+
+Del mismo modo los cargos de los escalafones definidos en el decreto con fuerza de ley 90, de Hacienda, de 1977, que establecen como requisito la exigencia de título profesional o técnico universitario, ubicados hasta el grado 15° de la Escala Unica de Remuneraciones, inclusive, serán durante el período señalado en el inciso anterior, de la exclusiva confianza del respectivo Ministro o de la autoridad llamada a hacer el nombramiento.
+
+Lo dispuesto en este artículo regirá también, respecto del personal a que se refiere el inciso segundo ART 1° N). del artículo 47° de este decreto ley.
+
+> **Nota.** NOTA: 10 El artículo 52 de la ley 18.382 prorrogó, por dos años, a contar del 2 de enero de 1985 la vigencia de las normas establecidas en este artículo 1° transitorio.
+
+> **Nota.** NOTA: 11 La Ley 18.051 agregó un artículo 2° transitorio al presente decreto ley, pasando el antiguo artículo único transitorio a ser 1°. Posteriormente, el Artículo 37, letra D) de la Ley 18.091 dispuso: D) Agrégase, al artículo transitorio, el siguiente inciso: "Asimismo, serán, durante el período señalado en el inciso primero, de la exclusiva confianza del respectivo Ministro o de la autoridad llamada a hacer el nombramiento, los profesionales que ocupen cargos ubicados hasta el grado 15 de la escala única de remuneraciones en Servicios no identificados en los escalafones definidos en el decreto con fuerza de ley 90, de Hacienda, de 1977, y los profesionales funcionarios regidos por la ley 15.076, que presten sus servicios en el sector público.".
+
+> **Nota.** NOTA: 12 La ley 18580, artículo 18, prorrogó la vigencia de las normas establecidas en este artículo a partir del 2 de enero de 1987 y hasta por el plazo de un año contado desde la fecha de publicación en el "Diario Oficial" de la "Ley Orgánica Constitucional de Bases Generales de la Administración del Estado". En todo caso, esta prórroga no podrá exceder del 31 de diciembre de 1987.
+
+> **Nota.** NOTA: 13 El artículo 87 de la ley 18681, rectificado por Diario Oficial de 9 de enero de 1988, restableció, por el plazo de un año, a contar del 5 de diciembre de 1987, la vigencia de las normas establecidas en este artículo.
+
+> **Nota.** NOTA: 14 El artículo 2° de la ley 18762, publicada en el "Diario Oficial" de 26 de noviembre de 1988, prorrogó, por el plazo comprendido entre el 5 de diciembre de 1988, hasta el 5 de agosto de 1989, la vigencia de las normas contenidas en este artículo.
+
+#### Artículo 2°
+
+transitorio. No obstante lo dispuesto en el artículo 29°, para los efectos de los encasillamientos a que se refiere el artículo 28°, en cargos de Especializados, Administrativos, Mayordomos y Auxiliares, los Alcaldes podrán eximir al personal en actual servicio, ingresado antes de la vigencia del decreto con fuerza de ley 90, de 1977, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley 305, de 1980, ambos del Ministerio de Hacienda, del cumplimiento de los requisitos educacionales establecidos en el decreto con fuerza de ley 338, de 1960.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio de Castro Spikula, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Seguel Morel, Teniente Coronel, Subsecretario de Hacienda.
