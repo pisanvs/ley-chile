@@ -1,0 +1,31 @@
+ENTIDADES RELIGIOSAS DE DERECHO PUBLICO
+
+Acta constitución y aprobación estatutos persona jurídica religiosa derecho público:
+
+- **1.-** Nombre: "Primera Iglesia Evangélica Bautista de Temuco".-
+
+- **2.-** Domicilio principal: Calle Lynch Nº 645 de Temuco.-
+
+- **3.-** Fecha y Nº Registro: Inscrita con Nº 00060, de 6 marzo de 2001 en Registro Público de Entidades Religiosas.-
+
+- **4.-** Nombre de los constituyentes: Ema Heylnor Aedo Isler, Sonia Elizabet Zapata Contreras, Osvaldo Patricio Arias Aravena, Luis Alberto Bazán Salinas, Carlos Enrique Castillo Cuevas, Heber Castillo Jorquera, José Rosendo Contreras Figueroa, Juan Pablo Gutiérrez Lagos, Evangelista Herrera Saravia, Víctor Manuel Inzulza Toledo, Bernardo Jara Illanes, Florencio Jara Fuentes, Samuel Leal Cid, Robinson Soto Friedly, Nelly Rivas Fernández, Emilio Osvaldo Quijada Barrera, Pedro Segundo Valdés Muñoz, José Miguel Zamora Silva, Hércules González Alvarez, Juan Eduardo Ríos Hernández, Claudio Andrés Candia Aravena, Irene Pérez Zurita, Glady Blanca Vallette Garcés.
+
+- **5.-** Fundamento y principios: Fundamento: Sostenemos como piedra angular de nuestra fe el señorío de Cristo y libre examen en cuestiones de fe. Principios esenciales: Declaramos que nuestros principios esenciales son: I. Las Sagradas Escrituras: La autoridad y suficiencia de la Biblia en asuntos de fe y práctica. II. Dios: El señorío de Cristo y el carácter trinitario de Dios. III. El hombre: La creación en santidad y con libre arbitrio del ser humano.-
+
+- **4.-** El pecado: La caída del hombre es por desobedecer al Creador.-
+
+- **5.-** La salvación: Que la salvación es por la Gracia, sobre la base del arrepentimiento y la Fe y que ella incluye la regeneración, la santificación y la glorificación.- En su sentido más amplio, la salvación incluye la regeneración, la santificación y la glorificación.
+
+- **6.-** El Reino de Dios: El dominio soberano, eterno y universal de la voluntad de Dios.
+
+- **7.-** La Iglesia: Que la Iglesia es la democracia de los santos, cuyas ordenanzas, oficiales y ministerios están definidos en la Biblia.
+
+- **8.-** El cristiano y la sociedad: Que la relación del cristiano con la sociedad civil está sustentada en la absoluta libertad de religión y en la separación de las iglesias y el Estado.
+
+- **9.-** Las últimas cosas: Que al final de los tiempos se producirá la segunda venida de Cristo, la resurrección de los muertos, el juicio final, y el destino de los juzgados en el cielo o en el infierno.
+
+- **6.-** Organos administración, atribuciones, número miembros: Gobierno interior de Iglesia se estructura en sesiones administrativas y un directorio mandatario. a.- Sesiones administrativas: Organo principal de la Iglesia, representa al conjunto de miembros. Constituida por todas aquellos que tienen la calidad de miembros en plena comunión de ella, reunidos de conformidad al estatuto. Sus acuerdos son la expresión del querer de la Iglesia. Las atribuciones que la ley entrega a las iglesias se ejercen a través de él, salvo que los estatutos las asigne a otro órgano. b.- Directorio mandatario: El mandatario y expresión de la Iglesia, que para efectos legales la presenta.- Integración: Se compone de siete miembros ad honorem, entre ellos existirá un presidente, vicepresidente, secretario, tesorero y director coordinador, elegidos en votación secreta en sesión administrativa. Duran dos años en sus funciones.- Atribuciones: 1. Representar a la Iglesia; administrar sus bienes, y ejecutar los acuerdos de las sesiones de conformidad con el presente estatuto. 2. Contratar, trasladar o separar de sus cargos a cualquiera de los empleados de la Iglesia, excepto en el caso del cargo de Pastor. Fija las condiciones de contratación y determina las atribuciones de los contratados. 3. Resolver sobre las estrategias y planes de acción de la Iglesia. 4. Resolver toda cuestión o asunto relacionado con la Iglesia y cuyo conocimiento no esté expresamente entregado a otro órgano. 5. Delegar en el presidente del Directorio o en uno o más directores, en el Pastor, o en uno o más funcionarios de la Iglesia, o en un tercero, sólo las atribuciones necesarias para ejecutar las medidas económicas que se acuerden y las que requiera la organización administrativa interna de la Iglesia, debiendo contar siempre con el voto, conforme de los dos tercios del directorio. 6: Proponer a la sesión administrativa de la Iglesia los reglamentos que estime necesario para la buena marcha de ella. 7. Nominar a cualquier miembro de la Iglesia para desempeñar ad honorem labores permanentes u ocasionales. Tales designaciones no impondrán a la Iglesia obligaciones de ninguna naturaleza y no colocan a los designados en ninguna relación de dependencia o subordinación respecto de la misma, fuera de aquella que les corresponda como miembros de ella. 8. Convocar a las sesiones administrativas en la oportunidad que fijen los Estatutos. 9. Proponer a la Asamblea el ingreso de nuevos miembros y la aplicación de determinadas medidas disciplinarias, de conformidad con el Reglamento respectivo. 10. Presentar en las sesiones ordinarias la memoria de lo obrado a contar de la sesión ordinaria anterior y un balance de los ingresos y egresos de fondos durante el mismo período. 11. Impartir las instrucciones necesarias para materializar el sufragio de los miembros. 12. Comprar, vender o permutar y en general adquirir y enajenar a cualquier título bienes muebles. Para adquirir, enajenar bienes raíces, constituir derechos reales en ellos, o ceder su mera tenencia, o realizar cualquier acto que afecte a éstos en su totalidad o a derechos constituidos en ellos, el directorio deberá ser autorizado por una sesión administrativa extraordinaria. 13. Ejercer aquellas facultades que en sesión administrativa le ha sido entregada para la buena administración de la Iglesia.
+
+7.- Datos escritura constitución: Escritura pública de fecha 22 de agosto de 2000, modificada por escritura pública 20 de febrero de 2001 y por escritura pública 11 de mayo de 2001, todas ante Notario Marcelo Emilio Gay Pasche, con oficio calle Antonio Varas Nº 976, Temuco.- Autoriza el extracto don Vicente Villarroel Ramírez, Suplente del Titular don Marcelo Emilio Gay Pasche.-
+
+Temuco, agosto 3 de 2001.
