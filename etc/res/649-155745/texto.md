@@ -1,0 +1,5 @@
+AUTORIZA A JOSE A. MARTINEZ IBARRA, PARA DESARROLLAR ACTIVIDADES PESQUERA Y DEROGA RESOLUCION QUE INDICA
+
+Por resolución No. 649 de 1º de Septiembre de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don José A. Martínez Ibarra, cédula de identidad No. 5.326.518-9, de Valparaíso, domiciliado en Viña del Mar, calle Torrealba No. 20, Depto. 501, Agua Santa, para instalar y operar un establecimiento de cultivo con las especies Choro, chorito y ostra en Poza de Pureo, Isla Quihua, Comuna de Calbuco, Provincia de Llanquihue, X. Región, en porciones de agua, dentro de un área de. 90.000 m2. Asimismo, derógase la Resolución No. 190, de 03 de Marzo de 1986, de la Subsecretaría de Pesca, que autorizó a don Eugenio Yokota Beuret, RUT. 6.856.865-K, domiciliado en Brasil 543, Calbuco X Región, para instalar y operar un establecimiento de cultivo de ostra, Ostrea chilensis, en Poza Pureo, Isla Quihua, Comuna de Calbuco, Provincia de Llanquihue, Xa. Región.
+
+Valparaíso, 1º de Septiembre de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
