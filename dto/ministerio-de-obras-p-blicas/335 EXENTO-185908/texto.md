@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 335, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº 6, superficie 311,00 M2, rol de avalúo 1252-231, comuna de Parral, para la obra "Camino Ruta L-70, Sector Cruce Ruta 128- Cuatro Esquinas, Km. 0,000 al 15,800" y se acordó el valor de indemnización con su propietaria Myrtha Graciela Araya Gallegos, ascendente a la cantidad de $462.463.-
+
+Fiscal del Ministerio de Obras Públicas.
