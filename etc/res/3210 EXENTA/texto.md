@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.210, de 3 de diciembre de 2003, de esta Subsecretaría, autorízase a ALIMENTOS MARINOS S.A. ALIMAR para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida La Marina Nº1250, San Vicente, Talcahuano, VIII Región, en las líneas de elaboración Congelado, Harina y Aceite, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 3 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
