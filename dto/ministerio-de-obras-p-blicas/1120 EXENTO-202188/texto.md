@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.120, de fecha 30 de julio del 2002, se expropió el lote de terreno Nº 110, superficie 104 m², rol de avalúo 299-11, comuna de San Clemente, VII Región, para la obra ''Camino Mejoramiento Ruta K-705, Sector Cruce Ruta 115-CH (El Guindo) - Vilches Alto, Tramo Km. 0,00000 al 13,06400 (Ruta K-705) y Km. 35,46000 al 35,80000 (Ruta 115-CH)'' y se acordó el valor de indemnización con su propietario don Mario Salas Altamirano, ascendente a la cantidad de $498.864.-
+
+Fiscal del Ministerio de Obras Públicas.
