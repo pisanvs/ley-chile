@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 542, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 48, superficie 4.352,00 m2, rol de avalúo 383-34, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, Expropiaciones Red Primaria 2/5, Derivado Comuy, Sector Km. 6.120,36 al 10.016,42" y se acordó el valor de indemnización con su propietario Sauterel Maisan Luis Alberto C, ascendente a la cantidad de $2.461.100.-
+
+Fiscal del Ministerio de Obras Públicas.
