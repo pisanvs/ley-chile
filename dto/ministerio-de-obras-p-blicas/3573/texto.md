@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.573 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 229-A, superficie 2.214 m², rol de avalúo 610-1, comuna de Tomé, para la obra ''Camino Acceso Norte a Concepción Sector Km. 11.192,00 a Km. 74.105,00'' y se acordó el valor de indemnización con su propietario Inés del Rosario Torres Castillo, ascendente a la cantidad de $622.440.-
+
+Fiscal del Ministerio de Obras Públicas.
