@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.502 de fecha 28 de septiembre del 2001, se expropiaron los lotes de terreno Nºs. 67-A, 70-B y 73, superficies 64, 3.389 y 2.022 m2., respectivamente, rol de avalúo Nº 155-14, comuna de Portezuelo, para la obra ''Camino Ruta N-60-O, Sector Río Ñuble-Portezuelo, km. 6.900.00 al km. 28.833.35'', y se acordó el valor de indemnización con su propietario Claudio Arturo Bonometti Brogi y Otros, ascendente a la cantidad de $6.143.841.
+
+- Fiscal del Ministerio de Obras Públicas.
