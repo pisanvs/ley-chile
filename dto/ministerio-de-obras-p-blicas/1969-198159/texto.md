@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.969 de 30 de noviembre del 2001, se expropió el lote de terreno Nº68-B, superficie 62 m2, Rol en trámite, comuna de Monte Patria, para la obra "Camino Ruta D-597, Monte Patria - Carén, Sector Juntas - Carén, Km. 8,260,00 a Km. 30.065,19 Etapa II" y se acordó el valor de indemnización con su propietario Sucesión Juan Francisco Araya Peralta, ascendente a la cantidad de $4.990.918.-
+
+Fiscal del Ministerio de Obras Públicas.
