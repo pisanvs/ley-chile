@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.106, de 20 de octubre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto refundido coordinado y sistematizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 16, 19, 20, 21, 23, 25 y 26, cuyas superficies se indican en dicho decreto, para la obra Ruta N-545, Chillán-Tanilvoro, sector Chillán-Universidad Adventista, Km. 0.000.00 a Km.
+
+8.000,00 que figuran a nombre de Ramón Alfredo Quintana Guzmán y Vicente L. Villalobos Contreras, roles de avalúos 3198-9 y 3198-157, comuna de Chillán. La comisión de peritos fijó con fecha 15 de junio de 1998, los valores provisionales de las indemnizaciones en las cantidades que indica este decreto. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
