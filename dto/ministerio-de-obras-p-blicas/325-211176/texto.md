@@ -1,0 +1,3 @@
+Por decreto MOP Nº325 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº577, superficie 1.107 m², Rol de Avalúo Nº32-413, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto-El Toco-Ruta 66, tramo Km. 0,00000 a Km. 12,70000" y se acordó el valor de indemnización con su propietario Juan Humberto Sánchez Silva, ascendente a la cantidad de $3.243.151.-
+
+Fiscal del Ministerio de Obras Públicas.
