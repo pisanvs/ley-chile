@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 520, de 9/6/89 Alcalde I. Municipalidad de Santiago dispone expropiación total inmueble calle Serrano No. 457, Rol 599-7, aparentemente dominio doña Carolina del Carmen Gómez Vidal. Deslindes: Norte: 22,30 mts. con propietario Rol 599-6 Sur: 22,00 mts. propiedad Rol 599-8; Oriente: 10 mts. calle Serrano; Poniente 10,60 mts. Rol 599-44; superficie 228,15 mts2. Indemnización provisional $ 3.499.925, pagadero contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
