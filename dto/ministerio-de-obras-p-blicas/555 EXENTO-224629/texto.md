@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 555 de fecha 31 de marzo del 2004, se expropió el lote de terreno Nº 20, superficie 1.487 m², Rol Nº 418-48, comuna de Loncoche, IX Región para la obra "Reposición Construcción y Habilitación de Caminos para Vialidad Complementaria Concesión Internacional Ruta 5 Sur, Tramo Temuco Río Bueno Puerto Montt, Camino Collimallin" y se acordó el valor de indemnización con su propietario Isidro Fabián Navarro Silva, ascendente a la cantidad de $2.574.997.- para el lote Nº 20.
+
+Fiscal del Ministerio de Obras Públicas.
