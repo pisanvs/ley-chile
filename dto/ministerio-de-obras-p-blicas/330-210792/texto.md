@@ -1,0 +1,3 @@
+Por decreto MOP Nº 330 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº 26-A, superficie 10.454,5 m², Rol de Avalúo Nº 228-98, comuna de Toltén, IX Región para la obra "Camino Costero Sur, Sector Puente Peule-Límite Regional, tramo By Pass Queule Km. 0,000 al Km. 5,000" y se acordó el valor de indemnización con su propietario Feliciana Carmela Miranda Paineñanco, ascendente a la cantidad de $15.214.477.
+
+Fiscal del Ministerio de Obras Públicas.
