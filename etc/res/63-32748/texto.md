@@ -1,0 +1,5 @@
+Por Resolución N° 63 de 19 de Enero de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a Pesquera Oceánica Limitada, R.U.T. N° 82.957.700-3, para desarrollar actividades pesqueras, en orden a desarrollar faenas de pesca extractiva con la nave "Llay-Llay", el litoral de la III y IV Región, donde podrá capturar con cerco, los siguientes recursos hidrobiológicos: Agujilla, Anchoa o anchoveta, Bonito, Caballa, Cabinza, Cojinoba del Norte, Jurel, Machuelo o tritre, Sardina y Sardina común.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 19 de Enero de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
