@@ -3214,7 +3214,7 @@ b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o
 
 c) El titular puede realizar hasta cuatro giros en cada período de doce meses, sin perder el derecho a reajuste y hasta seis giros en el mismo período, sin perder el derecho a intereses.
 
-d) El reajuste se puede abonar trimestralmente o anualmente y los intereses se abonan cada doce meses.
+d) Los intereses y reajustes se abonan cada doce meses.
 
 e) Los giros son pagaderos a la vista.
 
@@ -3232,7 +3232,7 @@ b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o
 
 c) El titular puede realizar hasta seis giros en cada período de doce meses, sin perder el derecho a reajuste.
 
-d) El reajuste se puede abonar trimestralmente o anualmente y los intereses se abonan cada doce meses.
+d) Los intereses y reajustes se abonan cada doce meses.
 
 e) El ahorrante puede girar de estas cuentas solamente con aviso previo a la entidad depositaría, mediante la presentación de una solicitud con una anticipación mínima de treinta días corridos.
 
@@ -3428,7 +3428,7 @@ Al pactarse cuentas de ahorro a plazo con cláusula de reajustabilidad, el reaju
 
 Los reajustes deberán abonarse a las respectivas cuentas de acuerdo con la periodicidad establecida en los Capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile. Los depósitos que no hubieren aún cumplido 90 días a la fecha en que debe efectuarse el abono de los reajustes en la cuenta, deberán ser reajustados con posterioridad, considerando el importe que se mantenga al menos por 90 días.
 
-Cuando el número de giros efectuados en una cuenta de ahorro a plazo, en el período de doce meses, sea superior al que el depositante podía realizar de conformidad con lo señalado en las letras b), c) o d) del numeral 7.3, según sea el caso, los fondos depositados devengarán solamente el interés correspondiente a dicho período y por motivo alguno se aplicará reajuste, salvo aquellos que ya se hubieran abonado en los trimestres anteriores del mismo período de doce meses en que se produjo el exceso de giros.
+Cuando el número de giros efectuados en una cuenta de ahorro a plazo, en el período de doce meses, sea superior al que el depositante podía realizar de conformidad con lo señalado en las letras b), c) o d) del numeral 7.3, según sea el caso, los fondos depositados devengarán solamente el interés correspondiente a dicho período y por motivo alguno.
 
 ### 9. Intereses de las cuentas de ahorro a plazo
 
