@@ -1,0 +1,3 @@
+Por decreto MOP Nº717 de fecha 31 de mayo del 2001, se expropió el lote de terreno Nº49-A, superficie 230 m2., rol de avalúo 2190-150, comuna de Puerto Montt, para la obra "Camino Ruta V-505, Sector Pto. Varas-Los Alerces-Pto. Montt, km. 0,000 a Km. 16,340" y se acordó el valor de indemnización con su propietario Carlos Mauricio Sciolla Donoso, ascendente a la cantidad de $515.320.-
+
+Fiscal del Ministerio de Obras Públicas.
