@@ -1,0 +1,3 @@
+Por resolución Nº1.178, de 12 de agosto de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la resolución Nº 514 de 1993 de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA COLOSO S.A., para ampliar actividades pesqueras extractivas con la nave ''Bío Bío''.
+
+Valparaíso, 12 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
