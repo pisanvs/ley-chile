@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 1.096 de 31 de octubre de 1997, se expropiaron los lotes de terreno N°s. 32, 37-A, 38 y 38-A, superficies 43,317, 1.463 y 1.551 M2, roles de avalúo en tramite y 229-86, comuna de Rengo, obra Camino Ruta H-521, sector Ruta 5-Fundo El Rincón, por lo de Lobos y se acordó precio de indemnización con sus propietarios José Herencia Lorenzini y Sociedad Agrícola San Ramón Ltda., ascendente a las cantidades de $ 565.484 y $20.718.089 .
+
+Fiscal del Ministerio de Obras Públicas
