@@ -1,0 +1,3 @@
+Por decreto MOP N° 3.100 de fecha 20 de octubre de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto actualizado de la ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 83-1D para la obra ''Concesión Internacional Ruta 5 Tramo: Collipulli-Temuco Km. 641,70000 a Km. 644,95000'' Novena Región, rol de avalúo 250-13, comuna de Lautaro, superficie 400 m², y por decreto MOP N° 3.596 de fecha 30 de noviembre de 1999, se autorizó el Convenio Ad Referendum Directo de Precio suscrito con el propietario doña Irma Bachler Weber, y se acordó el valor de la indemnización en la suma de $1.470.577.-
+
+Fiscal del Ministerio de Obras Públicas.
