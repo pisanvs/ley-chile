@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.860, de 29 de octubre de 2002 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 232-2 para la obra: ''Concesión Internacional Ruta 5. Tramo Temuco -
+
+Río Bueno. Km. 772,60000 a Km. 773,28000''; Décima Región, que figura a nombre de Valenzuela Irigoyen Sergio Iván, rol de avalúo 220-2, comuna de Lanco, superficie 10.421 m². La comisión de peritos integrada por los señores Nelson Bernardo Turra Turra, Juan Samuel Barrientos Bahamonde y Enrique Edgardo Hoelck Altmann, fijó con fecha 23 de septiembre de 2002, el valor provisional de la indemnización en la cantidad de $11.463.100.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
