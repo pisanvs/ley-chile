@@ -1,0 +1,1 @@
+Decreto-Lei N° 491. Crea en el Ministerio de Justicia la Sección Especial de Establecimientos Penales y Preventivos contra la Delincuencia.
