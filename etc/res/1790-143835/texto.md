@@ -1,0 +1,3 @@
+Por resolución número 1.790, de 9 de septiembre de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96103057, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES DE ALGUEROS DE PUTIQUE, para operar un centro de cultivo en sector Sur Punta Putique, Isla Quinchao, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 9 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
