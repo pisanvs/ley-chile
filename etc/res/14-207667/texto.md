@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 14, de fecha 24 de enero del año 2003, se aprobó la reforma parcial del estatuto de la Cooperativa de Servicio Nuevo Amanecer Persa Bío-Bío Limitada, cuya existencia fue autorizada por resolución Nº 83, de 28 de junio 1995, del Ministerio de Economía, Fomento y Reconstrucción, en los términos que da testimonio el instrumento reducido a escritura pública con fecha 6 de enero de 2003, ante don Gabriel Ogalde Rodríguez, Notario Público de San Miguel, anotada en el Repertorio bajo el número 08-03.
+
+Por orden del señor Subsecretario, Gastón Godoy González, Jefe Departamento de Cooperativas (S), Ministerio de Economía, Fomento y Reconstrucción.
