@@ -18,9 +18,9 @@ Decreto:
 
 1.- Declárase disuelta la corporación denominada "Club Conservador Arturo Lyon Peña", con personalidad jurídica concedida por decreto supremo N° 441, del Ministerio de Justicia, de fecha 31 de Enero de 1944, y domicilio en la provincia de San Felipe, Región de Valparaíso.
 
-2.- Los bienes de la entidad disuelta pasarán a la entidad denominada "Sociedad de Historia y Arqueología de Aconcagua", con domicilio en la provincia de San Felipe, Región de Valparaíso, y personalidad jurídica concedida por decreto supremo N° 4.735 del Ministerio de Justicia de fecha 9 de Octubre de 1947.
+2.- Los bienes de la entidad disuelta pasarán al Fisco, con la obligación de destinarlos a la Gobernación Provincial de San Felipe de Aconcagua, para emplearlos en fines de apoyo social y comunitario.
 
-3.- La entrega de los bienes a la entidad indicada en el párrafo anterior se hará por el Gobernador Provincial de San Felipe, bajo inventario valorado, debiendo remitirse al Ministerio de Justicia una copia de dicho inventario y del acta de entrega.
+3.- El Gobernador Provincial de San Felipe de Aconcagua se hará cargo de dichos bienes bajo inventario valorado, debiendo remitir copia del mismo al Ministerio de Justicia y al Ministerio de Tierras y Colonización.
 
 Tómese razón comuníquese y publíquese.- Por orden del Presidente de la República, Mónica Madariaga Gutiérrez, Ministro de Justicia.
 
