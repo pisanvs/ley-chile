@@ -1,0 +1,3 @@
+Por Resolución No.735 de 08 de agosto de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L.2.186 de 1978, inmueble ubicado en Avenida Vicuña Mackenna No.501 al 512, también signado por calle Santa Isabel con Nos.1 al 3, presunto rol avalúos No.918-31 comuna Providencia, aparentemente dominio de doña María Piña Campos, Comisión integrada por peritos. Sres. Teresa Sancho Pernas y René Ureta Koster, arquitectos, y José Miguel Haltenhoff Aenishanslin, según informe de 19 de junio de 1989, fijó monto provisional indemnización en $11.150.000.- pagadera al contado.
+
+Director SERVIU Metropolitano.
