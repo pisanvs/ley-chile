@@ -1,0 +1,5 @@
+Por resolución Nº 2.220, de 11 de octubre de 2000, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA VIENTO SUR S.A., para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 44, de 1980, Nº 689, de 1987, Nº 660, de 1991 y Nº837, de 1993, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Camino a Boca Sur s/nº, comuna de San Pedro de la Paz, provincia de Concepción, VIII Región, en la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Congelado: Cabrilla, Congrio dorado, Palometa, Reineta, Chancharro, Cojinoba del norte, Vieja o mulata, Alfonsino, Orange roughy, Gamba y Pepino de mar.
+
+Déjase sin efecto la resolución Nº 2.449, de 1999, de esta Subsecretaría, en virtud del contenido de la presente resolución.
+
+Valparaíso, 11 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
