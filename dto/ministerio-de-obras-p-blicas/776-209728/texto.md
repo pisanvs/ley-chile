@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 776, de 30 de septiembre de 1996, se expropiaron los lotes de terreno N°s. 1, 4, 5 y 19, superficies 645,32; 241,25; 498,56 y, 1.113,75 M2., respectivamente, roles de avalúos 2358-3, 2412-5, 2412-13 y 3400-1, comunas de La Florida y Puente Alto, para la obra Mejoramiento Eje La Florida, sector Los Ararios Las Vizcachas y se acordó precio de indemnización con sus propietarios Ilustre Municipalidad de La Florida, Bernarda Salgado Bravo y otras y Carmen Hoffmann Humbser, ascendente a las cantidades de $61.079.464, $105.286.389,y $61.990.655.
+
+Fiscal del Ministerio de Obras Públicas.
