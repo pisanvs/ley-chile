@@ -1,0 +1,3 @@
+Por resolución exenta No. 15, de 12 de Marzo de 1987, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VI Región, se autoriza al Sr. Mario Fernando García Díaz, para efectuar todo tipo de servicios de transportes de pasajeros por calles y caminos, dentro del territorio nacional, a excepción de los servicios públicos urbanos de locomoción colectiva de pasajeros.
+
+Rancagua, 12 de Marzo de 1987.- Rigoberto Gómez Lavín, Secretario Regional Ministerial de Transportes y Telecomunicaciones VI Región.
