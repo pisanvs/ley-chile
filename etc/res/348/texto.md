@@ -1,0 +1,19 @@
+EXTRACTOS DE RESOLUCIONES
+
+Por resolución N° 348, de 27 de Marzo de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a CONSORCIO CRUZ GRANDE S.A., R.U.T. N° 96.511.420-3, domiciliada en la ciudad de Viña del Mar, para iniciar actividades pesqueras en orden a operar una planta industrial, ubicada en Barrio Industrial ubicada en Barrio Industrial, sitio N° 11, Coquimbo, donde procesará en las líneas de elaboración de congelado, salado, conserva y además una línea de secado de algas, los siguientes recursos hidrobiológicos: Congelado: Albacora o pez espada, Agujilla, Anchoa o Anchoveta, Anguila, Atún aleta larga, Azulejo, Bacalao de profundidad, Blanquillo, Bonito, Caballa, Cabinza, Cabrilla española, Cachurreta, Cojinoba, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Dorado, Jurel, Lenguado ojos chicos, Lisa, Machuelo o tritre, Marrajo o tiburón , Merlusa común, Pejegallo, Pejezorro, Raya, Sardina, Sierra, Tiburón, Tollo, Almeja o taca, Calamar, Caracol tegula, Cholga, Chorito, Locate, Lapa, Macha, Navajuela, Ostión del Norte, Trumulco, Camarón nailon, Centolla, Centollón, Gamba, Jaiba reina, Jaiba mármola, Jaiba mora y Langostino amarillo. Conservas: Agujilla, Anchoa o Anchoveta, Bonito, Caballa, Cachurreta, Cojinoba, Dorado, Jurel, Machuelo o tritre, Pejerrey de mar, Sardina, Sardina común, Sargo, Sierra, Almeja o taca, Calamar, Caracol tegula, Cholga, Chorito, Locate, Macha, Navajuela, Ostión del Norte, Camarón nailon, Centolla, Centollón, Jaiba mármola, Jaiba mora, Langostino amarillo, Langostino de los canales y Erizo. Salado: Anchoa. Secado de algas: Cochayuyo, Chasca, Chascón, Huiro y Pelillo.
+
+La solicitante para elaborar los recursos Centolla, Centollón, Erizo, Langostino amarillo y Ostión del Norte, deberá acreditar su procedencia de centros de cultivo autorizados y zonas no afectas a restricción respectivamente, lo que acreditará la interesada mediante Guías de Libre Tránsito o certificados otorgados por el Servicio Nacional de Pesca.
+
+Deniégase la autorización solicitada por la peticionaria, para procesar el recurso Langostino colorado, de acuerdo a las disposiciones establecidas en el Decreto N° 421, de 1989, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Derógase la resolución N° 92, de 1986, de esta Subsecretaría, en lo que dice relación con las actividades de transformación autorizadas por dicho instrumento a Pesquera Cristalmar Limitada y la resolución N° 809, de 1988, de esta Subsecretaría, por renuncia de su titular.
+
+Declárase la caducidad de la resolución N° 959, de 1987, de esta Subsecretaría, que autorizó a Industria Pesquera Cristalmar Limitada, para iniciar actividades pesqueras de transformación de conformidad a lo dispuesto en el artículo 6°, del Decreto N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Declárase asimismo la caducidad de la resolución N° 733, de 1989, de esta Subsecretaría, que autorizó a Industria Pesquera Cristalmar, para ampliar actividades pesqueras de transformación de conformidad a lo dispuesto en el artículo 6°, del Decreto N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Declárase finalmente la caducidad de la resolución N° 1236, de 1990, de esta Subsecretaría, que autorizó a la peticionaria, para iniciar actividades pesqueras de transformación, de conformidad a lo establecido en el artículo 6°, del Decreto N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 27 de Marzo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
