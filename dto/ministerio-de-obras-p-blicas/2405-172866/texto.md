@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.405, de 30 de mayo de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº1, para la obra: Concesión Internacional Ruta 5. Tramo: Santiago Talca. Sector L: Km. 179.500,00 al Km. 192.900,00;
+
+Séptima Región, que figura a nombre de Curifruta S.A., rol de avalúo 32-72, comuna de Romeral, superficie 1.887 m2. La comisión de peritos integrada por los señores María Isabel de Jesús Ríos Marcuello, Enrique Luis Figueroa Echeverría y José Cristián Larraín Barros, fijó con fecha 17 de abril de 2000, el valor provisional de la indemnización en la cantidad de $13.738.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
