@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.446 de fecha 30 de agosto del 2002, se expropió el lote de terreno Nº113-A, superficie 3.299 m2, Rol Nº128-76, comuna de Ránquil, VIII Región, para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea-Ñipas Tramo II, Km. 5,57900 a Km. 10,19480'' y se acordó el valor de indemnización con su propietaria Elisa Adelina Osorio del Solar, ascendente a la cantidad de $10.716.270.-
+
+Fiscal del Ministerio de Obras Públicas.
