@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 736, de 31 de julio de 1997, se expropiaron los lotes de terreno Nºs 2-B y 2-F, superficies 180 y 192 M2 respectivamente, roles de avalúo 160-106 y 160-109 comuna de Pemuco, para la obra Proyecto Laja Diguillín, Area de Riego Pemuco Canal San Miguel Pal Pal Bajo Ramal Nº 4-B y se acordó precio de indemnización con sus propietarios Fermín Salazar Pavez y Manuel Arcadio Mardones Mardones y otra, ascendentes a las cantidades de $99.014 y $200.306 respectivamente.-
+
+Fiscal de Ministerio de Obras Públicas.
