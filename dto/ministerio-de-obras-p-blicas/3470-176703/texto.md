@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.470, de fecha 31 de julio del 2000, se expropió el lote de terreno Nº 69, superficie 115,00 m², rol de avalúo 3360-212, comuna de Padre Las Casas, para la obra ''Camino Mejoramiento Ruta S-269 Padre Las Casas - Niagara, Km. 0.000,00 a Km. 17.357,22, Tramo Km. 2.300 a Km. 17.340'' y se acordó el valor de indemnización con su propietaria Rosa Antinao Catrinao, ascendente a la cantidad de $304.450.-.
+
+Fiscal del Ministerio de Obras Públicas.
