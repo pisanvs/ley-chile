@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 1.359 de 31 de Octubre de 1994 se autorizó a la empresa chilena Max Danilo Rodríguez Van Dermolen, para efectuar transporte internacional terrestre de pasajeros entre Panguipulli - Puerto Pirihueico (Chile) y Puerto Huahum - Puerto San Martín de los Andes (Argentina) por el paso fronterizo Huahum, con siete frecuencias semanales de ida y vuelta.-
+
+Claudio Hohmann Barrientos, Subsecretario de Transportes.
