@@ -1,0 +1,3 @@
+Por decreto MOP Nº 170, de 31 de enero de 2000, se expropiaron los lotes de terreno Nºs. 67 y 68, superficies 2.517 m2. y 100 m2., roles de avalúo 214-9 y 214-4, comuna de Canela, para la obra Concesión Internacional Ruta 5, Tramo Los Vilos-La Serena Sector A: Bif. Illapel - Hornillos, Cuarta Región y se acordó el valor de indemnización con su propietario Hernán Octavio Muñoz Ordenes, ascendente a la cantidad total de $2.406.753.
+
+- Fiscal del Ministerio de Obras Públicas.
