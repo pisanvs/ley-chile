@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 1.970, de 30 de julio de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206 de 1960, se expropió el lote de terreno Nº 154-1, para la obra: Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Km. 29.014,00 al Km.
+
+42.800,00, Región Metropolitana, que figura a nombre de Unifrutti Traders Ltda, rol de avalúo 106-6, comuna de Paine, superficie 1.052 m2. La comisión de peritos integrada por los señores María Cristina Camus Palacios, María Angélica Hurtado Arranz y Andrés Echeverría Campo, fijó con fecha 26 de abril de 1999, el valor provisional de las indemnización en la cantidad de $17.660.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
