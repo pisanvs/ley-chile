@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº890, de 31 de mayo de 2002, se expropió el lote de terreno Nº108, superficie 27 m², Rol de Avalúo Nº1420-48, comuna de Rancagua, para la obra Mejoramiento Ruta H-240, sector Rancagua-San Ramón, Km. 0,0000 a Km. 5,0000, VI Región y se acordó el valor de indemnización con su propietario Abel Antonio Guzmán Guzmán, ascendente a la cantidad de $670.622.-
+
+Fiscal del Ministerio de Obras Públicas.
