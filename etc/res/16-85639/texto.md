@@ -1,0 +1,3 @@
+En la edición del Diario Oficial No. 34.208 de 03 de marzo de 1992, se publicó resolución No. 016/92 que APRUEBA REFORMA DE ESTATUTOS A "COMPAÑIA DE SEGUROS LA ESPAÑOLA SOCIEDAD ANONIMA", con el error que se salva a continuación:
+
+página cuatro, primera columna, en el No. 1, donde dice "Cambiar el nombre de la sociedad, la que en lo sucesivo se denominará Inversiones Hispana S.A.;.." debe decir "Cambiar el nombre de la sociedad, la que en lo sucesivo de denominará Inversiones Hispania S.A.; y..".
