@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.151, de fecha 31 de julio de 2002, se expropió el lote de terreno Nº 109, superficie 6.0 m2, rol de avalúo Nº 509-23, comuna de Longaví, para la obra ''Camino Ruta L-49, Cruce Long. Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo: Km. 0,000.00 al 13,841.12'', VII Región y se acordó el valor de la indemnización con su propietario Julio Segundo Corvalán Vallejos, ascendente a la cantidad de $219.218.-
+
+Fiscal del Ministerio de Obras Públicas.
