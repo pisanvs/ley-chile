@@ -1,0 +1,5 @@
+DETERMINA DERECHOS APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante resolución exenta No. 337 de 27 de Marzo de 1985, conforme art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector excluido y Sector expropiado del predio "Hijuela A e Hijuela B de la Viña El Mostazal" de la comuna de San Francisco de Mostazal, VI Región; y derechos aprovechamiento de aguas que corresponden a las Parcelas No. l, a la 6, 7 parte y 8 a la 11, sitios No. 1 al 7 del Proyecto de Parcelación "Picarquin A", formado por el predio señalado. Los derechos de agua se extraen del canal Pirihuin, del canal Lucano y derrames de los Predios "Hijuela Primera del Fundo Picarquin y del Fundo Las Casas de de Peuco". Publicación hecha conforme, art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
