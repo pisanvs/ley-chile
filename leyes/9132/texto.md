@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de La Calera para vender a la Sociedad Anónima "Fábrica Cemento El Melón" el terreno cuyos deslindes indica, con el fin de que aquélla adquiera vehículos motorizados para la atención de los servicios municipales y de aseo.
