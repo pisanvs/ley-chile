@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.061, de 30 de julio de 1999, se expropió el lote de terreno No. 11, superficie 297 m2., rol de avalúo 1334-185, comuna de San Carlos, para la obra Ruta 5 Tramo Talca - Chillán, sectores accesos Estación Ninquihue Oriente y Poniente, calles de Servicio Ninquihue, Octava Región y se acordó el valor de indemnización con su propietario Mario Orlando Muñoz Jara, ascendente a la cantidad de $ 2.043.193.-
+
+Fiscal del Ministerio de Obras Públicas.
