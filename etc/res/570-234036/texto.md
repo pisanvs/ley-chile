@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS A "SABCO ADMINISTRADORA DE FONDOS DE INVERSION S.A."
+
+Por resolución Nº 570, de 22 de diciembre de 2004, de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad "Sabco Administradora de Fondos de Inversión S.A.", acordada en junta extraordinaria de accionistas celebrada el 19 de octubre de 2004, y reducida a escritura pública el 25 de octubre de 2004 ante el Notario Público Interino de la Novena Notaría de Santiago don Aníbal Opazo Callis, consistente en el aumento del capital social, de $437.972.258, dividido en 500.000 acciones sin valor nominal, a $497.972.258, dividido en 600.000 acciones sin valor nominal, mediante la emisión de 100.000 acciones de pago, íntegramente suscritas por los accionistas y que se pagarán dentro del plazo de dos años contado desde la fecha de la resolución antes indicada.
+
+Santiago, 22 de diciembre de 2004.- Gonzalo Quiroga Riobó, Secretario General Subrogante.
