@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº290, de 29 de diciembre de 2000, se expropiaron los lotes de terreno Nºs. 36 y 39, superficies 76 m² y 73 m², rol de avalúo 104-110, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Enlace Los Panguiles, Región Metropolitana y se acordó el valor de indemnización con su propietario Juan Francisco Sánchez Silva, ascendente a la cantidad de $858.302.-
+
+Fiscal del Ministerio de Obras Públicas.
