@@ -1,0 +1,3 @@
+Por resolución N° 408 de 17 de Abril de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcanse las Resoluciones N° 1382, de 1988 y N° 406, de 1991, ambas de esta Subsecretaría, que autorizaron a PESQUERA EL GOLFO S.A., R.U.T. N° 96.237.000-4, para operar las naves "Don Daniel" y "Don Víctor Guillermo", en virtud de lo dispuesto en el artículo 143° letra b) del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, que fijó el texto refundido de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de Abril de 1995.- Carlos Mladinic Alonso, Subsecretario de Pesca Subrogante.
