@@ -1,0 +1,3 @@
+Por decreto MOP Nº289, de 16 de marzo de 1998, modificado por el decreto MOP Nº2.196, de 30 de octubre de 1998, se expropiaron los lotes de terreno Nºs. 20 y 20-A, superficies 2.620 y 900 M2 respectivamente, roles de avalúo 172-1 y 153-40, comuna de Yerbas Buenas, para la obra Camino Ruta L-25, Sector Lisonjera - Yerbas Buenas y se acordó precio de indemnización con sus propietarios Sociedad González Fuentes y Cía. y Juan Bertucci Ferretti, ascendente a las cantidades de $21.402.600.- para el lote 20 y $1.017.000.- para el lote 20-A.-
+
+Fiscal del Ministerio de Obras Públicas.
