@@ -1,4 +1,4 @@
-DEROGA EL DECRETO Nº 211, DE 1924, QUE APROBO EL REGLAMENTO DE POLICIA MARITIMA Y APRUEBA EL REGLAMENTO GENERAL DE ORDEN, SEGURIDAD Y DISCIPLINA EN LAS NAVES Y LITORAL DE LA REPÚBLICA.
+DEROGA EL DECRETO Nº 211, DE 1924, QUE APROBO EL REGLAMENTO DE POLICIA MARITIMA Y APRUEBA EL REGLAMENTO GENERAL DE POLICIA MARITIMA, FLUVIAL Y LACUSTRE
 
 Núm. 1,340 bis.- Santiago, 14 de Junio de 1941.- vistos los antecedentes acompañados, lo manifestado por la Comandancia en Jefe de la Armada, en providencia Nº 880 del 19 de Febrero ppdo.,
 
@@ -26,7 +26,7 @@ En los puertos o radas de pequeña población o escaso comercio marítimo, que e
 
 #### Artículo 2º
 
-Los gobernadores marítimos ejercerán su autoridad con arreglo a las leyes vigentes, al presente reglamento y a las órdenes e instrucciones que les imparta el director del litoral y de Marina Mercante de quien dependen directamente. Velarán por el estricto cumplimiento de las leyes y reglamentos que tengan relación directa o indirectamente con naves mercantes, de recreo, de pesca, de caza, y de otros servicios particulares o fiscales, nacionales o extranjeras en tránsito en el país, sus tripulaciones, sus pasajeros y carga, como asimismo con el servicio en general de los puertos de su jurisdicción. Se exceptúan de esta disposición las naves, los Oficiales y la tripulación de la Armada Nacional.
+Los gobernadores marítimos ejercerán su autoridad con arreglo a las leyes vigentes, al presente reglamento y a las órdenes e instrucciones que les imparta el director del litoral y de Marina Mercante de quien dependen directamente. Velarán por el estricto cumplimiento de las leyes y reglamentos que tengan relación directa o indirectamente con naves mercantes, sus tripulaciones, sus pasajeros y carga, como asimismo con el servicio en general de los puertos de su jurisdicción.
 
 #### Artículo 3º
 
@@ -38,17 +38,13 @@ Los capitanes de puerto, en general, en su carácter militar, están bajo las ó
 
 #### Artículo 5º
 
-El capitán de puerto especialmente, tendrá a su cargo la policía del mar territorial, de los puertos, bahías canales, lagos y ríos navegables e islas. Vigilará la pesca y hará observar los reglamentos a que debe sujetarse.
-
-La Policía Marítima, Fluvial y Lacustre, comprende todo lo relacionado con el orden, disciplina y seguridad en los Puertos Marítimos, fluviales y lacustres, tanto en las naves y embarcaciones fondeadas o en navegación, como en los recintos portuarios y demás lugares de la jurisdicción que corresponde a la Autoridad Marítima.
+El capitán de puerto especialmente, tendrá a su cargo la policía del mar territorial, de los puertos, bahías canales, lagos, ríos navegables e islas. Vigilará la pesca y hará observar los reglamentos a que debe sujetarse.
 
 #### Artículo 6º
 
-Para el cumplimiento de las disposiciones mencionadas en el artículo anterior y demás que le conciernen en el desempeño de sus funciones, el capitán de Puerto tendrá la facultad de detener a los infractores dentro de su jurisdicción y remitirlos arrestados, a disposición del Tribunal de Justicia que corresponda; con este fin, la fuerza pública le prestará el auxilio necesario que solicite para hacer cumplir las resoluciones que dictare.
+La fuerza pública estará obligada a facilitar al capitán de Puerto, el Auxilio necesario para hacer cumplir las resoluciones que dictare, en virtud de las facultades que le son propias.
 
-Lo dispuesto en este artículo es sin perjuicio de lo que prescriben los artículos 283 y 288 del Código de Procedimiento Penal en su caso.
-
-Las órdenes de allanamiento o incautación que procedan en su jurisdicción, deberá el capitán de Puerto solicitarlas del Tribunal mencionado.
+Las órdenes de allanamiento, incautación o arresto que procedan, deberá el capitán de puerto solicitarlas del Tribunal de Justicia que corresponda.
 
 #### Artículo 7º
 
@@ -60,7 +56,7 @@ La policía de las playas, muelles, malecones, embarcaderos, varaderos y cualesq
 
 #### Artículo 9º
 
-En el ejercicio de sus funciones, el capitán de puerto, tendrá las facultades y deberes que señalan para él, las disposiciones del D.F.L. N.o 292, de 25 de Julio de 1953, Orgánico de la Dirección del Litoral y de Marina Mercante, y del Tratado Octavo - Servicios del Litoral y de la Marina Mercante - de la Ordenanza de la Armada y como jefe militar de su jurisdicción será de su cargo la dirección superior de la Fuerza Armada en los lugares bajo su dependencia, salvo que por disposición superior, ella hubiere sido colocada bajo otro comando. Para los efectos disciplinarios, los capitanes de puerto y sus oficiales ayudantes, serán considerados como Oficiales de la Armada en servicio activo y merecerán el tratamiento de tales.
+En el ejercicio de sus funciones, el capitán de puerto, tendrá las facultades y deberes que señalan para él, las disposiciones vigentes del título VII, tratado V, de las Ordenanzas Navales de 1793 y como jefe militar de su jurisdicción será de su cargo la dirección superior de la Fuerza Armada en los lugares bajo su dependencia, salvo que por disposición superior, ella hubiere sido colocada bajo otro comando. Para los efectos disciplinarios, los capitanes de puerto y sus oficiales ayudantes, serán considerados como Oficiales de la Armada en servicio activo y merecerán el tratamiento de tales.
 
 #### Artículo 10
 
@@ -140,15 +136,9 @@ La infracción de los dispuesto en el artículo anterior, será sancionada confo
 
 #### Artículo 27
 
-Toda nave nacional o extranjera que se dirija a un puerto, avisara su llegada al capitán de puerto con veinticuatro horas de anticipación, por lo menos y en los puertos en que no exista estación radiotelegráfica lo avisará por intermedio de otras estaciones costeras con la debida prontitud, solicitando acusar recibo.
+Toda nave nacional o extranjera que se dirija a un puerto, avisara su llegada al capitán de puerto con cuatro horas de anticipación, por lo menos y en los puertos en que no exista estación radiotelegráfica lo avisará por intermedio de otras estaciones costeras con la debida prontitud, solicitando acusar recibo.
 
 En esta comunicación indicará: la hora probable de llegada; si conduce pasajeros; el número de ellos; el número de valijas de correspondencia para el puerto; el número de cuadrillas de obreros que va a necesitar para las faenas; clase de patente de sanidad que trae o si se ha presentado algún casos sospechosos durante la última navegación.
-
-#### Artículo 27 bis
-
-Sin perjuicio de lo dispuesto en el artículo anterior, toda nave que se dirija a un puerto nacional o que ingrese, en tránsito, a la Zona Marítima "Nacional de 200 millas, establecida en la Declaración sobre Zona Marítima de 1952, deberá comunicar su posición diaria a las 08.00 y 20.00 horas, como "asimismo, informará el rumbo, velocidad horaria y puerto de destino.
-
-Las comunicaciones correspondientes deberán "efectuarse a través de las radioestaciones de: Antofagasta, Valparaíso, Talcahuano o Punta Arenas, según cual de ellas sea la más cercana. La nave que no haya podido establecer comunicación con alguna de las radioestaciones señaladas, deberá dar cuenta a la Autoridad Marítima por el medio más rápido de que pueda disponer, señalando las causas de ello. En todo caso, si recalare a puerto chileno, deberá informar o ratificar dichas causas a la Autoridad Marítima correspondiente a ese puerto.
 
 #### Artículo 28
 
@@ -212,97 +202,121 @@ Toda nave surta en la bahía deberá dar estricto cumplimiento a lo que dispone 
 
 Es estrictamente prohibido a los extranjeros, ya sean particulares o comandantes de naves, hacer sondajes o levantamientos de planos de los puertos, canales, etc., de nuestra costa, sin previa autorización del capitán de puerto.
 
-CAPITULO IV Derogado
+## Capítulo IV
 
 Recepción de naves
 
-#### Artículo 43°
+#### Artículo 43
 
-(DEL NUM. Nº2).- Derogado.
+A la llegada de un buque a un puerto, en primer término será recibido por la Autoridad Sanitaria y si estuviese conforme, lo será por la Capitanía de Puerto y después por el resguardo de aduana.
 
-#### Artículo 44°
+#### Artículo 44
 
-(DEL NUM. Nº2).- Derogado.
+Todo buque que conduzcan a si bordo una persona constituida en dignidad, cualquiera que sea su nacionalidad, será recibido luego de fondear, cualquiera que sea su hora de arribo y el capitán de puerto junto con cumplimentar a dicho personaje le ofrecerá todas las facilidades que estén dentro de su incumbencia. A fin de que esta política sea mantenida en todos los puertos a que arribe el buque, el capitán de puerto informará a la próxima Capitanía de Puerto de escala del barco, como asimismo a la Dirección del Litoral y de Marina Mercante, de lo obrado, para conocimiento de ella y efectos consiguientes.
 
-#### Artículo 45°
+#### Artículo 45
 
-(DEL NUM. Nº2).- Derogado.
+El capitán de puerto fiscalizará el cumplimiento de las leyes y reglamentos sanitarios a bordo de las naves mercantes, quedando autorizado para tomar las medidas urgentes, a fin de hacerlos efectivos incluso las de reemplazar en sus comisiones al personal que no proceda con celo o diligencia en el cumplimiento de su deber, en cuyo caso los emolumentos respectivos corresponderá al o a los reemplazantes por la misión que haya desempeñado y sin perjuicio de denunciar las infracciones a quienes corresponda.
 
-#### Artículo 46°
+#### Artículo 46
 
-(DEL NUM. Nº2).- Derogado.
+Para la recepción, las naves serán clasificadas en tres categorías:
 
-#### Artículo 47°
+1.a) Las de cualquier nacionalidad, que proceden directamente del exterior.
 
-(DEL NUM. Nº2).- Derogado.
+2.a) Las indicadas anteriormente, pero que hayan hecho escala en otro puerto del litoral.
 
-#### Artículo 48°
+3.a) Todas las que naveguen entre puertos chilenos y no salgan al exterior.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 47
 
-#### Artículo 49°
+La recepción de las correspondientes a la primera categoría, se hará en la forma siguiente: atracada la embarcación que conduce a la autoridad sanitaria, el capitán o el contador en su presentación y el médico de la nave procederán a entregarle los diferentes documentos de sanidad que trajeren consigo, correspondientes a cada uno de los puertos en que hubiere hecho escala y autorizados por el cónsul de Chile.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 48
 
-#### Artículo 50°
+Si en la revisión de estos documentos por la expresada autoridad, no se presentara ninguna dificultad y el estado sanitario de la nave fuere bueno, quedará en estado de ser recibida.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 49
 
-#### Artículo 51°
+Para los fines del artículo anterior el capitán o su representante, entregará al capitán de puerto o a su ayudante:
 
-(DEL NUM. Nº2).- Derogado.
+a) La licencia de salida del puerto de que precede y si ha hecho escala, la del último de ésta.
 
-#### Artículo 52°
+b) Un rol de tripulación firmado por el Cónsul de Chile del último puerto en que recalo, en cuyo encabezamiento se exprese: nombre, clase, nacionalidad, tonelaje de registro neto, puerto de origen y destino de la nave y también los nombres, nacionalidad y empleo a bordo de sus tripulantes.
 
-(DEL NUM. Nº2).- Derogado.
+c) Las listas de pasajeros, para el puerto y en tránsito, que traiga a su bordo, visadas por los respectivos Cónsules Chilenos de los puertos en que hubieren embarcado, sea de procedencia o escala.
 
-#### Artículo 53°
+d) También una lista de todos estos pasajeros, firmada por el capitán y en la que se indique el puerto de embarco y desembarco y al final los que van en tránsito a otros países.
 
-(DEL NUM. Nº2).- Derogado.
+Toda esta documentación quedará archivada para los fines de información y estadística en la oficina del capitán de puerto.
 
-#### Artículo 54°
+#### Artículo 50
 
-(DEL NUM. Nº2).- Derogado.
+Si la nave no trae los documentos mencionados en los párrafos b) y c) o pasavante (Art. 20 Ley de Navegación) visados por el cónsul de Chile respectivo el capitán de puerto procederá a hacer efectivos los derechos consulares y la multa correspondiente, conforme al artículo 56 del decreto orgánico N.o 402 del Ministerio de Relaciones Exteriores y Comercio.
 
-#### Artículo 55°
+A las naves que hacen el cabotaje, que están exentas de pagar los derechos consulares, en caso de no traer los documentos visados, se les hará efectiva sólo la multa.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 51
 
-#### Artículo 56°
+Cumplidos estos requisitos, el capitán del puerto o su ayudante y un funcionario de Investigaciones o de Carabineros, en aquellos puertos en que no exista el personal de Investigaciones o el número de este fuere insuficiente, procederán a la revisión de las libretas, cédulas de identidad o pasaportes, tanto de los tripulantes como de los pasajeros, de conformidad con el rol de tripulación y lista de pasajeros indicados en los incisos b) y d) del artículo 49 con la prolijidad correspondiente, dentro de los propósitos que se persiguen en la Ley de Residencia.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 52
 
-#### Artículo 57°
+Si de esta revisión resulta alguna persona que no cumpla con los requisitos señalados en la ley citada o en los Reglamentos que la complementen, se notificará al capitán de la nave que dicha persona queda retenida o arrestada, preventivamente, a su bordo y bajo su custodia.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 53
 
-#### Artículo 58°
+Tomado este acuerdo, el capitán de puerto inmediatamente comunicará verbalmente o por oficio lo ocurrido a la Autoridad Administrativa de la localidad, a fin de que ésta lo ponga en conocimiento del Supremo Gobierno y lo resuelto, lo telegrafiará las Capitanías de los Puertos de escala de la nave, indicándoles el nombre y demás detalles de la persona que no puede desembarcar, las que al arribo de la nave, hará al capitán de la misma notificación hasta que llegue al puerto de destino donde se procederá de acuerdo con la resolución gubernativa.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 54
 
-#### Artículo 59°
+Si la persona o la nave fuera extranjera, lo resuelto se comunicará al cónsul del país a que pertenece la nave o al que tenga su representación consular para los efectos de la responsabilidad del capitán dentro de la prescripciones del artículo 2.o de la Ley de Residencia, ya citada, que prohibe la entrada al país de los extranjeros cuyas costumbres o doctrinas estén en pugna con nuestros principios constitucionales.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 55
 
-#### Artículo 60°
+Si la nave hubiere de permanecer más de 24 horas en puerto o si se acuerda permitir a sus tripulantes desembarcar, el capitán de puerto podrá exigir, y cuando las circunstancias lo recomienden, al capitán, la entrega provisoria de los permisos para navegar o libretas de todos ellos y los documentos que se estimare conveniente relativos a los pasajeros. Todo esto será devuelto momentos antes de la salida de la nave y junto con expedirle el decreto de zarpe prescrito por el artículo 48 de la Ley de Navegación.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 56
 
-#### Artículo 61°
+Si de la inspección de los documentos mencionados en el artículo 47, se deduce que la nave debe quedar en cuarentena, se decretará ésta en carácter provisorio, mientras resuelve la Autoridad Administrativa.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 57
 
-#### Artículo 62°
+Si la resolución administrativa, previo informe de la Autoridad Sanitaria de que no hay novedad a bordo, es favorable a la nave, se dará curso a las disposiciones aduaneras pertinentes y después el capitán de puerto o su ayudante declarará en "Libre Plática" a la nave.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 58
 
-#### Artículo 63°
+Para la recepción de las naves comprendidas dentro de la segunda categoría, el capitán o contador en su representación y el médico de la nave entregarán a la Autoridad Sanitaria la boleta de sanidad del primer puerto en que hubiere tocado, firmada por el médico de bahía y si no hubiere novedad a bordo se procederá a la recepción de la nave, entregando al capitán de puerto o a su ayudante:
 
-(DEL NUM. Nº2).- Derogado.
+a) La licencia de salida del último puerto en que hubiere tocado.
 
-#### Artículo 64°
+b)Un rol de tripulación con la firma del capitán de puerto del último puerto de escala.
 
-(DEL NUM. Nº2).- Derogado.
+c) Una lista de pasajeros que tenga a su bordo en las mismas condiciones que la indicada para los buques de primera categoría en el inciso d) del artículo 49.
+
+#### Artículo 59
+
+Si la nave tuviere que permanecer más de 24 horas en el puerto, se procederá, si se estima necesario, al retiro de las libretas y documentos de identidad de que se habla en la categoría anterior, par ser devueltas al darle el zarpe.
+
+#### Artículo 60
+
+Si en esta nave vinieran algunas de las personas sobre las cuales debe ejercerse vigilancia especial, el capitán de puerto se atendrá a las instrucciones que hubiere recibido sobre el particular.
+
+#### Artículo 61
+
+Llenadas todas las formalidades antes indicadas y cumplidas las disposiciones aduaneras, el capitán de puerto o su ayudante procederá a poner la nave en "libre plática".
+
+#### Artículo 62
+
+Para los efectos de la recepción de las naves correspondientes a la tercera categoría, se procederá como en el caso anterior en sus incisos a) y b) y se entregará además la lista completa de pasajeros.
+
+#### Artículo 63
+
+En estas listas no se aceptará, por ningún motivo, que sea puesto en globo el número de pasajeros y se colocarán separadamente los que vienen al puerto, de los que van en tránsito.
+
+#### Artículo 64
+
+Si en la inspección de recepción de una nave, aparecieran individuos embarcados que no figuren en los documentos de la nave (rol y lista de pasajeros) su capitán incurrirá en multa, salvo que lo hubiere denunciado al capitán de puerto, quien lo comunicará a su vez al capitán de puerto del puerto de salida de la nave, para que se corrija la lista de pasajeros o rol dejados, con fines estadísticos.
 
 ## Capítulo V
 
@@ -322,17 +336,11 @@ Los prácticos en general deberán ajustar sus procedimientos a lo que dispone e
 
 #### Artículo 68
 
-a.- Se prohibe pilotear naves a aquellas personas que no sean Prácticos Oficiales o Autorizados. El infractor, al igual que el Capitán de la nave conducida, serán sancionados con multas de $ 1.000 a $ 100.000 y se les responsabilizará por los daños que causaren, sin perjuicio de aplicarles lo dispuesto en el Reglamento de Practicaje y Pilotaje para la República.
-
-b.- La nave que navegue sin hacer uso de Práctico en aquellas aguas en que este servicio es obligatorio, no podrá ser recibida por las autoridades competentes, en ningún puerto de la República. Esta prohibición se hará extensiva a todas las naves del mismo Armador que el de la nave infractora.
-
-c.- Esta prohibición se aplicará con el solo mérito de la comunicación hecha por cualquier Autoridad Naval o Marítima de haberse cometido la infracción.
-
-d.- El Director del Litoral y de Marina Mercante podrá con conocimiento de causa, alzar la prohibición. Sin embargo, no podrá el Director ejercer esta facultad respecto de los reincidentes o de los que no hayan pagado las multas o tarifas.
+Se prohibe estrictamente pilotear buques a toda persona que no sea práctico oficial. El infractor, al igual que el capitán de la nave conducida serán sancionados con multas y se les responsabilizará por los daños que causaren, sin perjuicio de lo dispuesto en el artículo 64 del Reglamento antes citado.
 
 #### Artículo 69
 
-Cuando por razón de excesivo movimiento de naves por falta momentánea de prácticos oficiales, las circunstancias lo aconsejaren, la Dirección del Litoral y de Marina Mercante podrá otorgar permisos de prácticos Autorizados, los que, ajustándose en todo el Reglamento respectivo, se desempeñarán en reemplazo de los primeros.
+Cuando por razón de excesivo movimiento de naves por falta momentánea de prácticos oficiales, las circunstancias lo aconsejaren, la Dirección del Litoral y de Marina Mercante podrá otorgar permisos de prácticos particulares, los que, ajustándose en todo el Reglamento respectivo, se desempeñarán en reemplazo de los primeros.
 
 ## Capítulo VI
 
@@ -357,8 +365,6 @@ Los animales en pie podrán ser movilizados por los tripulantes de las naves, no
 #### Artículo 72
 
 En los puerto donde no hubiera estibadores o jornaleros matriculados, los capitanes de naves, podrán efectuar la carga y descarga con sus tripulantes; salvo en los puerto y caletas de la provincia de Magallanes, que la efectuarán los obreros matriculados en el puerto más cercano, ateniéndose a las excepciones del artículo anterior.
-
-> **Nota.** Las letras a y b del numeral 1 del Decreto 680, Defensa, publicado el 02.07.1962, introduce modificaciones al presente artículo, las cuales no han podido ser incorporadas por no coincidir con el texto original.
 
 #### Artículo 73
 
@@ -454,7 +460,7 @@ Los casos de imprevisión, como los que demuestren incompetencia profesional en 
 
 #### Artículo 93
 
-Suprimido.
+Cuando se opere en el embarque, desembarque o transbordo de materiales disgregados, como arena, huesos, cenizas, piedras sueltas y otras substancias no contenidas en envases, que impidan su caída al agua, se pondrá entre el buque y el muelle o entre el buque o las embarcaciones que ejecuten el transbordo o entre los buques que se encuentren en el mismo caso, una planchada de madera bien unida con aleros laterales o en su defecto, encerados resistentes dispuestos en forma que impidan la caída al agua del material que se desprenda de los chinguillos o tinas.
 
 #### Artículo 94
 
@@ -494,8 +500,6 @@ No podrán conducirse en un mismo corral animales de distinta especie y en ning�
 
 Para la atención y cuidado de los animales a bordo, se embarcará el personal que indica el Reglamento de Transportes para la Marina Mercante en la parte relativa a la conducción de animales en pie.
 
-Estos cuidadores podrán ser designados de la propia tripulación, abonándoseles una remuneración extraordinaria convenida en el contrato de embarco.
-
 #### Artículo 101
 
 No podrán conducirse animales en pie en los entrepuentes, donde no haya una perfecta ventilación y entrada de luz natural o artificial durante el día; y para su atención en la noche deben existir los faroles o lámparas de alumbrado que sean necesarias al objeto.
@@ -528,7 +532,7 @@ En la pizarra del portalón se pegará una lista firmada por el capitán o prime
 
 #### Artículo 107
 
-La tripulación mínima total de cubierta y máquinas que debe mantener los pontones, chatas, buque en reparaciones de "para" o en desarme, será la siguiente, según el tonelaje.
+La tripulación mínima de cubierta que debe mantener los pontones, chatas, buque en reparaciones de "para" o en desarme, será la siguiente, según el tonelaje.
 
 Desde 25 tons. hasta 150 tns., 2 tripulantes.
 
@@ -539,14 +543,6 @@ Desde 251 tons. hasta 500 tons., 4 tripulantes.
 Mayores de 500 toneladas, 6 tripulantes.
 
 Además todas deberán tener un oficial o patrón y el personal de cámara necesario.
-
-Cuando haya en un puerto dos o más pontones, chatas o buques en desarme de una misma empresa, el personal ya fijado atenderá el servicio de todos ellos, agregando dos hombres de tripulación por cada nave de exceso.
-
-De noche se mantendrá en cada nave un tripulante y los demás pernoctarán en la que se disponga su alojamiento y rancho.
-
-Sin embargo, la dotación especificada en el inciso precedente no será obligatoria cuando la nave de para, en reparaciones, desguace o pontón se encuentre fondeada en puerto de río, abra abrigada, poza de abrigo; convenientemente asegurada de los malos tiempos y/o en zonas de reparaciones abrigadas como ser pozas de maestranzas o recintos particulares de astilleros.
-
-En estos casos, la Dirección del Litoral, previo informe de la Autoridad Marítima respectiva, si lo estimara necesario, dispondrá la disminución de las plazas que crea conveniente, o suprimirlas totalmente si así lo estimare, según las condiciones particulares de cada caso.
 
 ## Capítulo IX
 
@@ -566,33 +562,13 @@ No se permitirá tener cabo o alambre alguno, hacia muelles o malecones fuera de
 
 ## Capítulo X
 
-Accidentes en los puertos o en las nave
+Certificado sobre carga caída al mar u otros accidentes.
 
 #### Artículo 111
 
-En los accidentes ocurridos en el puerto de los cuales resultaren la muerte o lesiones corporales graves a personas, el Capitán de Puerto tomará las medidas de asistencia inmediata de los afectados; solicitará un parte escrito del Capitán de la nave, Jefe de Bahía, de la Compañía Naviera respectiva, u Oficial de Guardia de la Capitanía de Puerto que haya intervenido en los hechos ocurridos, y dispondrá la instrucción de una Investigación Sumaria Verbal, la que deberá quedar sustanciada en el plazo de 48 horas.
-
-Esta investigación se extenderá en duplicado, emitiendo el Capitán de Puerto su Fallo y enviando, en caso de muerte del accidentado, el original de la Investigación Sumaria y su Fallo al juzgado competente, dejando copia en su archivo. En todo caso deberá entregar también copia de la Vista Fiscal y del Fallo a los interesados y a la Caja de Accidentes del Trabajo, cuando corresponda. De lo acaecido y obrado se dará cuenta a la Dirección del Litoral y de Marina Mercante por radio y se informará a la Autoridad Administrativa Departamental o Provincial.
-
-Si el hecho ocurre durante la navegación, deberá adoptarse el siguiente procedimiento:
-
-a) El Capitán de la Nave instruirá la Investigación Sumaria Verbal respectiva;
-
-b) Dará cuenta del hecho acontecido al Capitán de Puerto del primer puerto de recalada, a quien le hará entrega de la Investigación, si estuviere terminada.
-
-En caso contrario, la entregará al Capitán de Puerto en que se produzca la primera recalada, una vez que la Investigación esté concluída. Si el primer puerto de recalada estuviese situado en el extranjero, hará entrega de la Investigación al Cónsul de Chile en dicho puerto, quien la remitirá al Capitán de Puerto del puerto de matrícula de la nave.
-
-c) Recibida la Investigación por el Capitán de Puerto del puerto de recalada, procederá a remitirla al Gobernador Marítimo dentro de cuya jurisdicción hubiese acontecido el hecho que da motivo a la Investigación, para los efectos de que éste proceda a dictar el fallo respectivo.
-
-d) Si el hecho hubiese acontecido en alta mar o en aguas territoriales extranjeras, el Capitán de Puerto, o el Cónsul en su caso, remitirán la Investigación al Capitán de Puerto del puerto de matrícula de la nave, para los fines señalados en la letra precedente.
-
-e) Para estos efectos se entiende que la jurisdicción de los Capitanes de Puerto se extienden hasta el límite de las aguas jurisdiccionales de la Dirección del Litoral y de Marina Mercante (12 millas).
-
-f) Lo anterior es sin perjuicio de las facultades disciplinarias que corresponden al Capitán de la Nave, de acuerdo a lo dispuesto en los artículos 76 y siguientes de la Ley de Navegación.
+Las pérdidas de carga u otros accidentes que ocurrieren en los puertos deberán ser justificados con un certificado que expedirá el capitán de puerto.
 
 #### Artículo 112
-
-Las pérdidas de carga u otros accidentes que ocurrieren en los puertos deberán ser justificados con un certificado que expedirá el capitán de puerto.
 
 Para obtener estos certificados, los interesados presentarán una solicitud o protesta dentro de las 24 horas desde que ocurrió el accidente y dos o más testigos presenciales del hecho.
 
@@ -768,12 +744,6 @@ Tan pronto se hayan terminado los trabajos en referencia, se harán las pruebas 
 
 Las naves nacionales, como también las extranjeras que hagan el cabotaje en las costas de la República, estarán obligadas o pertrechase en la forma que dispone el Reglamento General de Equipo de Naves y a observar las demás disposiciones que existan al respecto.
 
-#### Artículo 135 bis
-
-Los trabajos que deban efectuarse a las naves que se encuentren en los puertos del litoral, en condiciones de "para", "reparación" o "en conservación", deberán ser ejecutados por los obreros marítimos matriculados en sus respectivas profesiones, o por el personal propio de las maestranzas que los ejecuten.
-
-Sin perjuicio de lo anterior, los armadores podrán ocupar en dichos trabajos al personal de la dotación con que normalmente navega la nave, y fijado en el reglamento respectivo.
-
 ## Capítulo XIV
 
 Comunicaciones con embarcaciones menores
@@ -804,7 +774,7 @@ f) Los patrones o conductores de embarcaciones fleteras, antes de trasladar a bo
 
 g) Los capitanes de buques, de acuerdo con sus armadores o agentes designarán al personal, que en forma permanente debe ser apostado en las escalas y portalones, a fin de cumplir con lo indicado y ejercitar estricto control sobre las personas que entren a bordo.
 
-h) Sin perjuicio de esto, los ya nombrados podrán solicitar, por intermedio del capitán de puerto, los servicios de La Policía Marítima Aduanera, para el mismo fin indicado.
+h) Sin perjuicio de esto, los ya nombrados podrán solicitar, por intermedio del capitán de puerto, los servicios de los carabineros de aduana, para el mismo fin indicado.
 
 i) No se permitirá la subida a bordo de ningún fletero que no lleve su número de matrícula a la vista, conforme al Art. 306 de este Reglamento y que no acredite su identidad a la guardia del portalón con su libreta de matrícula y carnet. Tampoco a ningún ventero y vendedor ambulante que no exhiba los permisos indicados en el Art. 324. Los fleteros y vendedores ambulantes podrán transitar sólo en la cubierta principal para ejercer sus actividades.
 
@@ -827,12 +797,6 @@ En los casos que la "recalada forzosa" se deba a embarcar o desembarcar práctic
 #### Artículo 142
 
 Si la recalada se debiera al hecho de tener que hospitalizar a un enfermo grave o dejar un cadáver, además del capitán de puerto intervendrá la Sanidad, la cual constatará la índole de la enfermedad y dispondrá las medidas sanitarias que el caso aconseje.
-
-#### Artículo 142 bis
-
-Toda nave extranjera que arribare a algún punto del litoral, aduciendo tratarse de una recalada forzosa, deberá justificarlo adecuadamente ante la Autoridad Marítima correspondiente. Si no pudiera hacerlo, será obligada a abandonar las aguas interiores o el mar territorial de la Nación, previo entero de la multa correspondiente.
-
-> **Nota.** La letra b) del Decreto 215, Defensa, publicado el 29.03.1965, dispone agregar al margen del presente artículo la siguiente expresión: "$ 30 por tonelada gruesa de registro.".
 
 ## Capítulo XVI
 
@@ -908,113 +872,37 @@ Art.155. La cesación de tránsito por causa de reinar, nieblas o cerrazones llu
 
 ## Capítulo XIX
 
-INTERVENCION DE LAS AUTORIDADES MARITIMAS EN LOS SINIESTROS.
-
-INVESTIGACIONES SUMARIAS.
-
-CONSTITUCION DE CORTES MARITIMAS.
-
-I.- NORMAS DE COMPETENCIA
+Naufragios, varamientos y auxilios
 
 #### Artículo 156
 
-Cuando a una nave le ocurra un siniestro, ya sea que se trata de un naufragio, varamiento, colisión u otra clase de accidente, será competente, para todos los efectos legales administrativos derivados del siniestro, la Autoridad Marítima dentro de cuya jurisdicción ocurra.
+Tan luego como sea del conocimiento de un capitán de puerto, haber ocurrido un naufragio, varamiento o colisión dentro de los límites de su jurisdicción, dará de ello cuenta a la Autoridad Administrativa, al cónsul, si la nave fuera extranjera, el dueño, armador o consignatario si residiese en el puerto y a la Dirección del Litoral y de Marina Mercante en todo caso.
 
-Si el siniestro ocurriere en alta mar, será competente, para los mismos efectos, la Autoridad Marítima del primer puerto a que arribe la nave afectada y, en caso de pérdida total, la del puerto de desembarque de los náufragos o del lugar que señale el Director del Litoral y de Marina Mercante.
-
-Si el siniestro consistiere en el desaparecimiento total de la nave y de su dotación, será competente, para los mismos efectos, la Autoridad Marítima del puerto de matrícula o la del lugar que señale el Director del Litoral y de Marina Mercante..
-
-#### Artículo 156 bis
-
-La Investigación Sumaria Administrativa que procediere con motivo de un siniestro será substanciada por el Fiscal que la Autoridad Marítima competente designe o el Oficial que el Director del Litoral y de Marina Mercante designe especialmente al efecto.
-
-II.- NORMAS DE PROCEDIMIENTO.
+De acuerdo con el Artículo 1159 del Código de Comercio, dispondrá con la debida urgencia la asistencia de la nave en peligro, por aquellas que naveguen en su cercanía o estén disponibles en el puerto, pero sólo en el caso de hallarse en peligro las vidas de los tripulantes y pasajeros. No existiendo ésta o habiendo cesado, serán las naves mercantes de salvataje o contratadas para ello. las que concurran al salvamento.
 
 #### Artículo 157
 
-La Autoridad Marítima competente, al tomar conocimiento de que a una nave le ha ocurrido un siniestro, dispondrá las medidas pertinentes para que, con la debida urgencia, se le preste el auxilio necesario por aquellas naves que se encuentren en sus cercanías o por las que estén en condiciones de zarpar desde el puerto. Estas medidas sólo se adoptarán en el caso de encontrarse en peligro inminente las vidas de la dotación y pasajeros. No existiendo tal peligro o habiendo cesado, serán las naves de salvataje o las contratadas especialmente para ese objeto, las que concurran a prestarles el servicio de asistencia o salvamento.
-
-Al producirse un siniestro, la Autoridad Marítima lo informará al propietario, armador o agente de la nave accidentada, al Cónsul respectivo, si ésta fuere extranjera, y a la Dirección del Litoral y de Marina Mercante, en todo caso.
-
-Habiéndose dispuesto las medidas de seguridad previstas en los incisos que anteceden, la Autoridad Marítima competente ordenará la instrucción de una Investigación Sumaria Administrativa, si ello fuere necesario, con el objeto de establecer las causas que hayan originado el siniestro, la identificación de los responsables y de las personas fallecidas,
-
-desaparecidas o afectadas y los daños sufridos por éstas, por la nave o por otros elementos.
-
-El Fiscal que designe la Autoridad Marítima para instruir una Investigación Sumaria deberá ser un Oficial de la Armada en servicio activo.
+Instruirá o hará instruir con la prontitud debida un sumario que deje establecidas las causas que motivaron el naufragio, varamiento o colisión y la responsabilidad que afecte a personas determinadas si la hubiere.
 
 #### Artículo 158
 
-La instrucción de las Investigaciones Sumarias a que se refiere el artículo anterior se sujetará a las normas siguientes:
-
-a) Todas las diligencias se extenderán por escrito en original y una copia. En casos de pérdida o desaparición de seres humanos, la Investigación se confeccionará en original y dos copias, a fin de destinar una de ellas a la Justicia Ordinaria.
-
-b) Se agregarán en forma correlativa y cronológica las declaraciones de los inculpados y testigos, así como los documentos, informes, peritajes y cualquier otro medio probatorio que el Fiscal considere indispensable para el esclarecimiento de los hechos que se investigan.
-
-c) Agotadas las diligencias que corresponda efectuar, el Fiscal emitirá un Dictamen en el que se consignará una relación sucinta de los hechos investigados, se establecerán fundadamente las responsabilidades profesionales que afecten a determinadas personas, se indicarán las circunstancias eximentes, agravantes o atenuantes que concurran, como asimismo se propondrán las sanciones o medidas que correspondería imponer o adoptar.
-
-d) Evacuado el Dictamen, la Investigación Sumaria será entregada a la Autoridad Marítima que ordenó instruirla, quien procederá a notificarla por escrito al o a los inculpados, fijándoles un plazo de cinco días para que, también por escrito, formulen sus descargos.
-
-El inculpado o inculpados podrán, dentro del plazo señalado en el inciso anterior, tomar conocimiento, por sí o por medio de mandatario, de todas la piezas del expediente. El mandatario podrá ser un Oficial de la Armada o de la Marina Mercante o un Abogado.
-
-La revisión del expediente se hará en la Secretaría de la Autoridad Marítima que corresponda, pudiéndosele dar el carácter de reservado cuando las medidas de seguridad así lo aconsejen.
-
-e) La Investigación Sumaria podrá ser devuelta por la Dirección del Litoral y de Marina Mercante o por la Autoridad Marítima al Fiscal que la instruyó, cuando se comprobare que las diligencias están incompletas o que adolecen de vicios o defectos. En este caso, la Autoridad que corresponda dispondrá la reapertura de la investigación para corregir dichas deficiencias.
-
-f) Habiéndose dado cumplimiento a las diligencias señaladas en las letras que anteceden, la Autoridad Marítima emitirá la resolución, definitiva, salvo que en atención a la magnitud del siniestro estime que los antecedentes, con su resolución deban ser elevados al conocimiento del Director del Litoral y de Marina Mercante, a fin de que éste resuelva si corresponde designar y constituir una Corte Marítima, o para imponer las sanciones que el caso requiera.
-
-g) En todo caso, la Autoridad Marítima remitirá a la Dirección del Litoral y de Marina Mercante, para su conocimiento, copia de las resoluciones recaídas en los sumarios por siniestros marítimos y de las sanciones impuestas.
-
-h) En lo no previsto por el presente capítulo, regirán en lo pertinente, las disposiciones del Reglamento Nº 9-10/1, sobre Investigaciones Sumarias Administrativas de las Fuerzas Armadas, aprobado por decreto supremo (E.M.D.N.) Nº 277, de 9 de Abril de 1974.
-
-III.- CORTES MARITIMAS
+Terminada la substanciación del sumario, éste pasará al capitán de puerto, quien con su informe lo remitirá al gobernador marítimo de quién dependa, el que designará una Corte Naval, compuesta por él, que la presidirá y por tres prácticos capitanes de alta mar. La Corte Naval, basada en el obrado y oyendo a los afectados, si lo estimare necesario, dará su opinión bajo la firma de todos sus componentes. Esto, como todo el legado del sumario, será remitido a la Dirección del Litoral y de Marina Mercante, acompañado por el juicio de responsabilidad que extenderá el gobernador marítimo respectivo.
 
 #### Artículo 159
 
-El Director del Litoral y de Marina Mercante podrá, cuando lo estime necesario, ordenar la constitución de una Corte Marítima, con el objeto de que califique un siniestro o accidente marítimo, estudie la respectiva Investigación Sumaria Administrativa y establezca las causas del siniestro y las responsabilidades que de él se deriven.
-
-Las Cortes Marítimas estarán constituidas por un Presidente, tres Vocales como mínimo, y un Relator, que será el Fiscal del Sumario, pero sin derecho a voto.
-
-Los Vocales de las Cortes Marítimas deberán ser Oficiales de la Armada en servicio activo del grado de Capitán de Corbeta, a lo menos, o Capitanes de Alta Mar de la Marina Mercante Nacional, debiéndose, en lo posible, integrar dichas Cortes con Oficiales de ambas procedencias.
-
-Los Capitanes de la Marina Mercante Nacional que fueren designados para integrar las Cortes Marítimas, estarán obligados a aceptar el cargo y cumplirlos, salvo en caso de imposibilidad, debidamente justificado ante el Director.
-
-Si alguno de los inculpados con motivo de un accidente fuere práctico perteneciente al Escalafón de Oficiales de los Servicios Marítimos de la Armada, la Corte Marítima que se constituya, en su caso, deberá ser integrada por Oficiales de la Armada en servicio activo de mayor graduación o antigüedad que el inculpado.
-
-Designada la Corte Marítima, ésta podrá reunirse y constituirse en cualquier puerto o lugar del territorio de la República, según sea necesario, a objeto de reunir mayores antecedentes que sirvan para esclarecer los hechos a que se investigan. En estos casos, la Corte podrá hacerse asesorar por las personas idóneas que estime convenientes.
-
-Al designarse como Presidente o Vocal de la Corte Marítima a un Oficial de la Armada que no sea de la dependencia del Servicio del Litoral , el Director lo requerirá del Mando que corresponda.
+Estos sumarios se harán en original y dos copias, dejando una de ellas para el archivo de la respectiva Capitanía de Puerto y la otra copia y el original se remitirán a la Dirección del Litoral y de Marina Mercante.
 
 #### Artículo 160
 
-Una vez conocida la relación del Fiscal, la Corte Marítima podrá deliberar con el objeto de establecer si el Sumario está en condiciones de ser fallado o si es necesario practicar nuevas diligencias para mejor resolver.
-
-Cuando la Corte lo estime conveniente, sin perjuicio de los descargos escritos que se hayan presentado oportunamente, podrá oir la defensa verbal del o de los inculpados o de sus mandatarios.
-
-Una vez oídas las defensas, cada miembro que constituya la Corte Marítima emitirá su voto sucesivamente, comenzando por el menos antiguo y continuando los demás en orden inverso al de su antigüedad. El último voto será el del Presidente. En caso de empate decidirá el Presidente.
-
-Practicada la votación, se entenderá acordado el fallo cuando se obtenga mayoría sobre la parte resolutiva del mismo y sobre sus fundamentos y las sanciones por aplicarse. Producido el acuerdo, se redactará el acta respectiva que contendrá el fallo, la que será firmada por todos los miembros de la Corte Marítima, incluso por los que emitan voto disidente, el cual será fundamentado, dejándose de él constancia breve.
+Si de lo obrado se deduce que hay delito que perseguir, el original del sumario lo remitirá la Dirección del Litoral y de Marina Mercante, al Juzgado que corresponda para los efectos a que haya lugar.
 
 #### Artículo 161
 
-El Presidente de la Corte Marítima notificará el fallo por escrito, enviando carta certificada al inculpado o inculpados o a sus mandatarios, según corresponda, dirigida al domicilio indicado en el escrito de descargos.
-
-Del Fallo de la Corte Marítima se podrá apelar en el plazo de cinco días. La apelación deberá presentarse por escrito ante el Director del Litoral y Marina Mercante. En caso que el fallo de la Corte Marítima no fuere apelado, deberá elevarse en consulta al Director.
-
-IV.- FALLO DEFINITIVO POR EL DIRECTOR DEL LITORAL Y DE MARINA MERCANTE.
+Las copias de sumarios sólo se podrán dar a los interesados, una vez que la Dirección del Litoral y de Marina Mercante, haya expedido su veredicto final y los gastos serán de cuenta de aquellos.
 
 #### Artículo 162
 
-El Director del Litoral y de Marina Mercante podrá ordenar que se practiquen nuevas diligencias para mejor resolver, una vez recibido el Sumario conforme a lo dispuesto en el artículo 161.
-
-Cumplidas dichas diligencias, el Director dictará fallo definitivo imponiendo las sanciones que correspondan en su caso. Dicho fallo no será susceptible de recurso alguno.
-
-#### Artículo 162 bis
-
-Una vez terminado el procedimiento señalado en los artículos 156 a 162, podrán los interesados o terceros solicitar copias autorizadas del fallo emitido, previa cancelación de los gastos de copia.
-
-A requerimiento de la Justicia Ordinaria se podrá otorgar copia de cualquier pieza del Sumario.
-
-V.- NORMAS SOBRE AUXILIOS.
+Los capitanes de la Marina Mercante que fueren designados para integrar la Corte Naval estarán obligados a aceptar el cargo, salvo el caso de imposibilidad debidamente comprobada.
 
 #### Artículo 163
 
@@ -1134,31 +1022,21 @@ En concordancia con lo que establece en el Art.182 quedan prohibidas las pitadas
 
 ## Capítulo XXI
 
-Prohibición de arrojar o derramar en las aguas jurisdiccionales de la República, petróleo y sus derivados, lastre, escombros, basura, etc.
+Lastres, piedras, basuras, etc.
 
 #### Artículo 185
 
-Se prohíbe arrojar lastre, escombros,basuras, derramar petróleo y sus derivados o residuos de los mismos, aguas de relave de minerales u otras materias orgánicas nocivas o peligrosas de cualquier especie, en los puertos o en las aguas jurisdiccionales de la República, sin el consentimiento previo de la autoridad marítima respectiva, quien designará, en todo caso, el lugar o forma como se procederá a efectuar alguna de dichas operaciones.
-
-Cuando se ejecuten faenas de embarque o desembarque de materiales sólidos que se transporten a granel, se colocará entre la nave y el muelle o entre la nave y las embarcaciones que efectúen la carga o descarga, una planchada o encerados resistentes en forma tal que impidan la caída al agua del material desprendido durante la ejecución de la faena.
-
-Se prohíbe, además, efectuar rellenos o avances dentro del agua sin el conocimiento previo de la autoridad marítima y sin contar con la respectiva concesión que corresponda, en conformidad a lo dispuesto en el Reglamento General sobre Concesiones Marítimas.
+Queda prohibido arrojar lastres u otro objeto alguno que no boye o embarcar lastre, sin permiso del capitán de puerto, el que designará, en cada caso, el paraje donde debe efectuarse la operación.
 
 #### Artículo 186
 
-Cuando debido a un siniestro marítimo o por otras causas se produzca la contaminación de las aguas por el efecto de derrames de hidrocarburos u otras substancias nocivas o peligrosas, la autoridad marítima respectiva adoptará todas las medidas que estime procedentes para evitar la destrucción de la flora y fauna marítima.
-
-Las medidas que en estos casos adopte la autoridad marítima, no serán susceptibles de reclamo o recurso alguno.
+Si un buque tuviera necesidad de lastrar o deslastrar en lanchas, lo hará con las debidas precauciones, procediendo en la forma indicada en el Art.93 para impedir la caída de piedras y arenas en el mar.
 
 #### Artículo 187
 
-Toda infracción a las presentes disposiciones será penada con una multa al capitán o a los representantes de la nave infractora de $1.000 oro a $1.000.000 oro, los que serán además, responsables de los perjuicios ocasionados, corriendo por su cuenta la total eliminación del elemento contaminador a entera satisfacción de la autoridad marítima, aunque la contaminación se haya producido por caso fortuito.
+Las lanchas que conduzcan piedras, ladrillos u otras especies sueltas, sumergibles que puedan perjudicar el fondo, deberán tomar las precauciones prescritas en el artículo anterior para su carga, transporte o descarga. En los casos extraordinarios de alijo obligado en el agua, por golpes de viento u otro accidente, deberán justificar la urgente necesidad de haberlo hecho.
 
-Procederá la aplicación de la multa aunque el "derrame haya sido ocasionado por culpa o descuido levísimo.
-
-#### Artículo 188
-
-Las naves que naveguen las aguas jurisdiccionales de la República como también las que arriben a un puerto nacional conduciendo un cargamento de petróleo o sus derivados u otras materias líquidas inflamables, nocivas o peligrosas, deberán tener, entre los documentos de a bordo, una póliza de seguro contra todo riesgo de contaminación de las aguas, por efectos de derrame de hidrocarburos o de cualquier otra substancia nociva o peligrosa.
+Art.188. Nadie podrá arrojar en las bahías y playas, escombros, basuras u otros objetos que puedan perjudicar el tránsito o el fondo de ellas o que se hagan con la intención de efectuar rellenos o avances sobre el mar, para cuyo caso se deberá contar con el decreto supremo correspondiente.
 
 ## Capítulo XXII
 
@@ -1216,113 +1094,121 @@ El capitán de puerto dejará constancia en el Bitácora de Guardia de la Capita
 
 En el mismo caso en puerto extranjeros, los tripulantes deberán presentarse al Cónsul chileno, dentro de las 48 horas de su ausencia a bordo y los que no lo hicieren serán igualmente declarados desertores.
 
-CAPITULO XXIII Derogado
+## Capítulo XXIII
 
 Salida de buques
 
-#### Artículo 197°
+#### Artículo 197
 
-(DEL NUM. Nº2).- Derogado.
+Ningún buque nacional o extranjero podrá salir del puerto sin que su capitán o agente, haya presentado al capitán de puerto, lo siguiente:
 
-#### Artículo 198°
+a) La licencia de salida, firmada por la Autoridad Administrativa en que se exprese: la clase de la nave, su nombre, nacionalidad, tonelaje de registro, fecha y procedencia de donde arribó, destino, primer puerto de escala, clase de carga que lleva, si conduce sobre si lleva o no correspondencia y el " Sin Cargo" de la Aduana.
 
-(DEL NUM. Nº2).- Derogado.
+Las naves autorizadas para hacer el cabotaje en el litoral administrativa en el puerto inicial del viaje; en los puertos de escala, presentarán la licencia del correo y Aduana.
 
-#### Artículo 199°
+Las embarcaciones o naves menores de 25 toneladas destinadas al cabotaje o a la pesca, solicitarán el zarpe únicamente, al capitán de puerto en los puertos o caletas habilitadas. Cuando se dirijan a puertos o caletas inhabilitadas, deberá anticipadamente cumplirse con el Art. 11 de la Ordenanza de Aduanas, es decir, serán habilitados por la Aduana y se le otorgará el zarpe a la nave o embarcación con su intervención.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 198
 
-#### Artículo 200°
+La lista de los pasajeros que lleva una nave a su bordo la entregará al capitán por duplicado junto con los demás documentos al solicitar el zarpe y la Capitanía de Puerto le devolverá uno de los ejemplares con su Vº Bº.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 199
 
-#### Artículo 201°
+Si la nave zarpa al extranjero, la boleta de sanidad y la lista de pasajeros deben ser visadas por todos los Cónsules de los países a donde se dirige.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 200
 
-#### Artículo 202°
+Mientras una nave nacional o extranjera navegue entre los puertos chilenos, la boleta de sanidad que recibió en el puerto inicial de viaje o la que fue visada en los puertos-estaciones sanitarias en su caso, le servirá para navegar en todo el litoral, salvo las excepciones contempladas en el Art. 10 del Reglamento de Sanidad Marítima y de las Fronteras.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 201
 
-#### Artículo 203°
+El decreto de "zarpe" de la licencia de salida de una nave, se solicitará a las autoridades respectivas una vez que termine sus faenas de carga y descarga. Sin embargo, los vapores mayores de 200 toneladas de registro, de carrera establecida deberán permanecer un mínimum de tiempo en los puerto para embarcar la correspondencia o pasajeros, siendo optativo del capitán de puerto, el autorizar su salida inmediata al constatar que no hay motivo de espera.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 202
 
-#### Artículo 204°
+Siendo la marca de franco bordo obligatoria para toda nave de más de 25 toneladas de registro neto, las Capitanías de Puerto no otorgarán el "zarpe", a las que carezcan de él, o teniéndolo, estén sobrecargadas según dicha marca, la época del año y el puerto. En el zarpe se estampará la distancia a que quedó la línea de flotación que lleva el buque de la línea oficial del máximum de carguío que le ha fijado la Dirección del Litoral y de Marina Mercante.
 
-(DEL NUM. Nº2).- Derogado.
+En los casos de comprobarse que una nave iba a zarpar con exceso de carga, su capitán será sancionado con multa y obligado a descargar, por su propia cuenta, lo que fuere necesario, para ajustar su línea de flotación a su franco bordo.
 
-#### Artículo 205°
+#### Artículo 203
 
-(DEL NUM. Nº2).- Derogado.
+El capitán de puerto al despachar a la nave, devolverá las libretas y documentos de la tripulación y pasajeros que hubiere recibido en el acto de su recepción. Antes de esta devolución confrontará esta documentación con el nuevo rol y lista de pasajeros y con los que recibió al arribo de la nave, asegurándose con ello, que ninguno de los tripulantes o pasajeros se haya quedado en el puerto, salvo los que viniesen con ese destino.
 
-#### Artículo 206°
+#### Artículo 204
 
-(DEL NUM. Nº2).- Derogado.
+Si de la confrontarán se dedujere el desembarco de alguno de los tripulantes o pasajeros, procederá a hacer las indagaciones del caso y cuando se trate de alguno de los detenidos a que se refieren los artículos 52 y 53. hará efectiva la responsabilidad del capitán, poniendo los hechos en conocimiento del representante consular y de la Autoridad Administrativa. Mientras tanto, suspenderá el zarpe de la nave hasta la aprehensión y restitución a bordo del o de los prófugos o resolución de la expresada autoridad.
 
-#### Artículo 207°
+#### Artículo 205
 
-(DEL NUM. Nº2).- Derogado.
+Las naves que zarpen durante el día y hasta la hora de clausura del puerto indicada en el Art. 241, serán despachadas por el funcionario marítimo respectivo, dos horas antes de la fijada para salida. Las naves que zarpen durante la noche, entre la hora de clausura y de la apertura del Puerto, serán despachadas en el momento de su salida, de acuerdo con el Art. 242 de este Reglamento.
 
-#### Artículo 208°
+#### Artículo 206
 
-(DEL NUM. Nº2).- Derogado.
+A la hora que se presente a bordo a pasar la revista el capitán de puerto, ayudante o práctico que va a despachar la nave, deberán encontrarse en ella: el capitán, oficiales y tripulantes, dejándose constancia en el zarpe si hubiere novedad. No obstante, en las naves que zarpen entre las horas indicadas en la última parte del artículo anterior, los oficiales y tripulantes deberán estar a bordo dos horas antes o sea a las 19 horas, no pudiendo bajar a tierra posteriormente, salvo que el capitán lo autorice en casos muy calificados y bajo su responsabilidad.
 
-#### Artículo 209°
+#### Artículo 207
 
-(DEL NUM. Nº2).- Derogado.
+Si algún tripulante o pasajero se ha quedado en tierra, el capitán de puerto rectificará los roles o lista correspondientes bajo su firma, antes de despachar la nave y procederá a hacer el desembarco de los tripulantes que no se encuentren a bordo, reemplazándolos por otros del puerto, si fuere necesario. El tripulante que sea desembarcado por faltar sin causa justificada a la hora del despacho de la nave, será sancionado con multa o suspensión, conforme al Reglamento respectivo o declarado desertor conforme al Art. 196 si corresponde.
 
-#### Artículo 210°
+Los capitanes que descubran, después de despachada la nave, pasajeros clandestinos, estarán obligados a entregarlos al capitán de puerto, en caso contrario serán sancionados con multas.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 208
 
-#### Artículo 211°
+Toda nave que zarpe de puerto chileno deberá estar equipada de radioestación, conforme al Art. 8 del Reglamento General de Comunicaciones para la Marina Mercante y la que lo contravenga será sancionada con multa y no se le permitirá hacerse a la mar.
 
-(DEL NUM. Nº2).- Derogado.
+#### Artículo 209
 
-#### Artículo 212°
+Los capitanes de puerto no permitirán la salida de puerto de nave alguna que se comprueben va mal estibada, o lleva exceso de pasajeros de cámara o cubierta o conduzca animales, carga o pacotilla fuera de los lugares asignados para ello.
 
-(DEL NUM. Nº2).- Derogado.
+La Capitanía de Puerto verificará que toda nave que conduzca correspondencia la haya entregado o recibido, no dando el zarpe a aquellos que no lo hicieren.
 
-#### Artículo 213°
+#### Artículo 210
 
-(DEL NUM. Nº2).- Derogado.
+Es obligatorio para toda nave o embarcación que salga cargada del puerto, cerrar sus escotillas y recubrirlas con encerados acuñados o afirmados por abrazaderas de fierro de brazola a brazola para colocarles candado.
 
-#### Artículo 214°
+#### Artículo 211
 
-(DEL NUM. Nº2).- Derogado.
+Llenadas todas estas formalidades, el capitán de puerto entregará personalmente la licencia de salida, con el decreto de zarpe a los capitanes de naves, salvo en los casos en que tengan oficiales ayudantes o prácticos a sus órdenes, en que lo podrán entregar éstos verificando que se cumplan los Reglamentos y la Ley de Navegación, responsabilizándolos de ello.
 
-#### Artículo 215°
+#### Artículo 212
 
-(DEL NUM. Nº2).- Derogado.
+En las Capitanías en que haya oficiales ayudantes que no sean de la Armada o no tengan títulos de capitanes o pilotos mercantes o sus requisitos, deberán pedir la conformidad al zarpe al capitán de la nave.
 
-#### Artículo 216°
+#### Artículo 213
 
-(DEL NUM. Nº2).- Derogado.
+En los puertos en que no haya ayudantes, ni prácticos y si el capitán de puerto está imposibilitado para despachar una nave, por enfermedad u otra causa de verdadera importancia, dará cuenta por telégrafo a la Dirección del Litoral y de Marina Mercante e instruirá bajo su responsabilidad a la persona que lo reemplace a fin de que cumpla correctamente su cometido.
 
-#### Artículo 217°
+#### Artículo 214
 
-(DEL NUM. Nº2).- Derogado.
+El funcionario indicado en el artículo anterior, deberá poseer los conocimientos, cultura y espíritu militar necesarios para su desempeño.
 
-#### Artículo 218°
+#### Artículo 215
 
-(DEL NUM. Nº2).- Derogado.
+Los capitanes de naves nacionales deberán anotar en el bitácora el nombre del funcionario que le haya entregado el zarpe y verificado la estiba, pertrechos, roles, certificado de navegabilidad, etc.
 
-#### Artículo 219°
+#### Artículo 216
 
-(DEL NUM. Nº2).- Derogado.
+La validez de la licencia de salida será de 24 horas, quedando en absoluto prohibido hacer cualquier faena de carga o descarga o alteraciones en la estiba durante este lapso, y el capitán de la nave que se retrase dentro de este tiempo, la devolverá a la Capitanía de Puerto, dando cuenta de las postergación, a fin de que la autoridad nuevamente despache la nave a la hora convenida.
 
-#### Artículo 220°
+#### Artículo 217
 
-(DEL NUM. Nº2).- Derogado.
+La nave que por cualquier causa no zarpe durante este tiempo, deberá tramitar nuevos documentos de salida, expresando en ésta los motivos que tuvo para no hacerlo.
 
-#### Artículo 221°
+#### Artículo 218
 
-(DEL NUM. Nº2).- Derogado.
+El capitán de una nave que abandone el puerto sin permiso del capitán de puerto y sin causa justificada, será sancionado o suspendido de su título por el tiempo que acuerde la Dirección del Litoral y de Marina Mercante, según la gravedad de la falta.
 
-#### Artículo 221 bis
+#### Artículo 219
 
-(DEL NUM. Nº2)°.- Derogado.
+Se prohibe la venta de pasajes a bordo. El capitán, contador u oficial que contraviniere a esta disposición, será sancionado con la suspensión de su título por un mínimum de dos meses.
+
+#### Artículo 220
+
+Cuando una persona sea sorprendida a bordo, en alta mar, sin el debido pasaje extendido por la Compañía el capitán de puerto del primer puerto a que arribe la nave, siempre que el capitán lo solicitare, y dicha persona se negare a pagar el valor del pasaje en la respectiva Agencia, la pondrá a disposición del Juzgado Civil para los efectos del procedimiento que corresponde, haciéndose cargo la Agencia del denuncio.
+
+#### Artículo 221
+
+El capitán de puerto, sin perjuicio de lo anterior, iniciará la investigación sumaria del caso para establecer si existen cómplices y aplicar las sanciones correspondientes.
 
 ## Capítulo XXIV
 
@@ -1418,91 +1304,37 @@ Apertura y clausura de los puertos
 
 #### Artículo 241
 
-Los puertos de la República se abrirán a las 07:00 horas desde el 15 de Abril hasta el 14 de Octubre, y a las 06:00 horas desde el 15 de Octubre hasta el 14 de Abril inclusive.
-
-Se cerrarán durante todos los días del año a las 24:00 horas, a menos que ocurra un caso de emergencia o socorro. Las autoridades marítimas podrán cerrar total o parcialmente los puertos por mal tiempo, conmoción interior, huelgas, catástrofes, siniestros en la bahía u otras causas calificadas por dicha autoridad, debiendo en todos los casos informarse de las medidas adoptadas a la Dirección del Litoral y de Marina Mercante.
-
-El cierre del puerto comprende una serie de medidas que incluyen la suspensión total o parcial del tránsito o actividades marítimas, estado de alerta de la Capitanía de Puerto, de los remolcadores de servicio, de los botes salvavidas, etc.
+Los puertos de la República se abrirán a las 6 horas desde el 15 de Abril hasta el 14 de Octubre y a las 5 horas desde el 15 de Octubre hasta el 14 de Abril inclusive; se cerrarán en todo tiempo a las 21 horas, a menos que ocurra el caso de urgencia o socorro o bien con la correspondiente licencia de la Dirección del Litoral y de Marina Mercante. En la provincia de Magallanes, durante los meses de Noviembre, Diciembre y Enero se cerrarán a las 22 horas.
 
 #### Artículo 242
 
-Los Capitanes de Puerto podrán recibir o despachar toda nave o embarcación menor que arribe a los puertos, durante las horas de clausura fijadas en el artículo anterior, siempre que exista la necesidad de hacerlo y que sea a petición escrita del Armador o Agente.
+Los capitanes de puerto procederán a recibir o despachar todo vapor que arribe a los puertos durante las horas de clausura fijadas en el artículo anterior, únicamente cuando en casos de imperiosa necesidad así se dispusiese por la Dirección del Litoral y de Marina Mercante o por orden ministerial. En casos se solicitará telegráficamente la respectiva autorización de esa Dirección, previa presentación del armador o agente y pago del impuesto correspondiente.
 
-Las naves nacionales con permiso para efectuar el comercio de cabotaje, las regionales o especiales de las provincias de Llanquihue, Chiloé, Aysen y Magallanes, como también las naves que trafican por ríos o lagos navegables de la República, serán atendidas a cualquiera hora de su arribo o zarpe de los puertos, bastando sólo que los Capítanes de Naves lo soliciten directamente por telefonía o por medio de la Agencia respectiva.
+Esta disposición no rige para las naves que tienen permiso para hacer el cabotaje, ni para las naves regionales de Chiloé-Magallanes, que serán recibidas o despachadas cualquiera que sea la hora de su arribo o zarpe de los puertos, pero pagando el impuesto correspondiente.
 
 #### Artículo 243
 
-El procedimiento para percepción y cancelación de las gratificaciones que estipula el Art. 38º del DFL. Nº 292 será el siguiente:
+Los armadores gratificarán al personal de las Capitanías de Puerto, cuando deban recibir o despachar sus naves en horas extraordinarias. en la forma siguiente:
 
-a) El personal de las Capitanías de Puerto, cualquiera que sea su grado, que a petición de los Armadores o Agentes de Naves deba desempeñar, abordo o en tierra, alguna operación relacionada con la recepción o despacho de naves mayores de 25 toneladas de registro grueso, sea atendiendo a la nave o su dotación, en horas y días inhábiles o en comisiones especiales del servicio de dichas naves en puertos o lugares apartados de la sede de la Capitanía de Puerto, percibirá una gratificación compensatoria en pesos oro de acuerdo con las Tarifas Nºs 1 y 2 que a continuación se indica, para lo cual el Capitán de Puerto practicará las liquidaciones correspondientes y las remitirá a dichos Armadores o Agentes:
+Días de trabajo:
 
-TARIFAS Nº 1.
+Desde la hora de clausura del puerto, $ 10 a cada persona y $ 3 por cada hora o fracción de espera de la nave.
 
-OFICIALES:
+Desde las 24 horas hasta las 4 horas, $ 20 a cada persona y $ 5 por cada hora o fracción de espera de la nave.
 
-DIAS ORDINARIOS:
+Desde las 4 horas hasta la hora de apertura del puerto, $ 15 a cada persona y $ 5 por cada hora o fracción de espera de la nave.
 
-De 12:00 a 14:00 horas (almuerzo) $ 7.00 oro la hora
+Días festivos:
 
-De 18:00 a 24:00 horas $ 7.00 oro la hora
+La gratificación será el doble de las indicadas.
 
-DIAS SABADOS:
+Los pagos de las gratificaciones indicadas los harán los armadores o agentes mensualmente, con intervención del capitán de puerto, enviando copia de la planilla a la Dirección del Litoral y de Marina Mercante.
 
-De 12:00 a 24:00 horas $ 7.00 oro la hora
+Los prácticos que maniobren con la nave, gozarán sólo de la gratificación que les señala la Ley y Reglamento respectivo.
 
-DOMINGOS Y FESTIVOS:
+Esta gratificación también la pagarán las naves autorizadas especialmente por la Dirección del Litoral y de Marina Mercante para ser recibida o despachadas en horas extraordinarias.
 
-De 08:00 a 24:00 horas $ 9.00 oro la hora
-
-AMANECIDA DE CUALQUIER DIA:
-
-De 00:00 a 08:00 horas $ 9.00 oro la hora
-
-TARIFA Nº 2.
-
-SUBOFICIALES, CLASES Y MARINEROS:
-
-DIAS ORDINARIOS:
-
-De 12:00 a 14:00 horas (almuerzo) $ 5.00 oro la hora
-
-De 18:00 a 24:00 horas $ 5.00 oro la hora
-
-DIAS SABADOS:
-
-De 12:00 a 24:00 horas $ 5.00 oro la hora
-
-DOMINGOS Y FESTIVOS:
-
-De 08:00 a 24:00 horas $ 7.00 oro la hora
-
-AMANECIDA DE CUALQUIER DIA:
-
-De 00:00 a 08:00 horas $ 7.00 oro la hora
-
-b) Para las naves de pesca, el monto de estas gratificaciones sólo será del 30% de las tarifas que indica el inciso a), con excepción de las naves de Empresas Pesqueras acogidas a los beneficios del DFL.
-
-Nº 266 del año 1960, en que la gratificación será del 15% del tarifado.
-
-c) Para los efectos señalados en las letras anteriores del presente artículo, se establece que las horas inhábiles son las comprendidas entre las 12:00 y las 14:00 horas y desde las 18:00 hasta las 08:00 horas del día siguiente en días ordinarios; desde las 12:00 hasta las 24:00 horas en días Sábados y desde las 00:00 a las 24:00 horas en días Domingos y festivos.
-
-d) La gratificación indicada en las Tarifas N.ºs 1 y 2 se cobrará desde la hora que un Armador o Agente de Naves solicite el despacho o recepción, hasta la hora que efectivamente ejecute la operación el personal de la Capitanía de Puerto, con un mínimo de tres horas.
-
-Cuando un Armador o Agente no indique en la solicitud la hora del despacho o recepción de una nave, se cobrará como trabajo extraordinario desde las 18:00 horas en días ordinarios; desde las 12:00 horas en días Sábados, y desre las 08:00 horas los días Domingos y festivos, hasta las horas que efectivamente ejecuta la operación el personal de la Capitanía de Puerto.
-
-e) Gozará de una gratificación como indican las Tarifas 1 y 2 respectivamente, el personal de la Capitanía de Puerto que desempeñe guardia de Policía en las naves, embarcaciones, muelles o en tierra, como asimismo aquel personal de Oficinas que por turnos internos deba atender efectivamente trabajos relacionados con el despacho o recepción de una nave, etc., siempre que sea a petición expresa de los Armadores, Agentes o Capitanes de Naves, durante las horas ya indicadas.
-
-f) Los pagos de estas gratificaciones las efectuarán los Armadores o Agentes de Naves mensualmente en pesos oro convertidos a moneda corriente, en las planillas reglamentarias, con intervención de la Autoridad Marítima, la que tendrá la obligación de enviar copia de dichas planillas a la Dirección del Litoral y de Marina Mercante.
-
-g) Las gratificaciones se pagarán de la siguiente manera:
-
-1) Oficiales: Por medio de un cheque Bancario, Vale Vista, Giro Telegráfico, etc., a la Orden del Director del Litoral y de Marina Mercante, quien recepcionará todos los valores recaudados por las Autoridades marítimas, correspondientes a los Oficiales, y procederá a determinar la cifra promedio y enviar posteriormente la cantidad equivalente a dicha cifra a cada Oficial.
-
-2) Personal: Por medio de un cheque Bancario, Vale Vista, etc., a la orden del Capitán de Puerto correspondiente, quien procederá a entregar al personal la cantidad equivalente a los servicios prestados en horas extraordinarias.
-
-h) Las naves a remolque serán consideradas dentro de la recepción o despacho del buque remolcador. Las naves que forman un convoy serán consideradas independientemente, para su recepción o despacho.
-
-i) Las naves nacionales inferiores a 250 toneladas de registro grueso dedicadas al transporte de carga y/o pasajeros, que naveguen exclusivamente dentro de los límites de la cuarta y quinta zona del Litoral de la República, o sea, desde el paralelo 41º sur hasta la Antártida, tendrán una rebaja del 20% de las tarifas fijadas anteriormente.
+Al personal indicado le es prohibido recibir de los armadores cualquier otra gratificación o regalía por este concepto.
 
 ## Capítulo XXVII
 
@@ -1510,21 +1342,7 @@ Pesca y caza marina
 
 #### Artículo 244
 
-Dentro de las aguas chilenas sólo podrán cazar y pescar libremente los chilenos y los extranjeros domiciliados, salvo los extranjeros no domiciliados que cuenten con la correspondiente autorización y en las condiciones que disponga la autoridad competente. Se podrá también pescar y cazar libremente en los ríos y lagos de uso público, sin otra restricción que la dispuesta en la Ley de Pesca y Caza y su Reglamento. Los Capitanes de Puerto velarán por el cumplimiento de los Reglamentos sobre Pesca y Caza que dicte el Ministerio de Agricultura y exigirán que los pescadores estén matriculados conforme al Reglamento General de Matrícula para el Personal de Gente de Mar, Fluvial y Lacustre.
-
-Los barcos pesqueros y los caza-ballenas de nacionalidad extranjera que, sin la debida autorización o excediendo los términos de ella, fueren sorprendidos pescando o cazando dentro de las aguas chilenas, serán aprehendidos y conducidos a puerto, donde la Autoridad Marítima instruirá la investigación sumaria correspondiente con el fin de determinar la naturaleza de la infracción cometida.
-
-Se considerará infractora a toda nave que sea encontrada en las aguas y mar referido, aun cuando no sea portadora de productos de pesca o caza alguno, si no pudiera justificar ampliamente la razón de su permanencia en tales aguas y mar.
-
-El producto de la pesca y de la caza caerá en comiso. El Inspector Local de Pesca y Caza venderá dicho producto y los dineros que se obtengan con la venta serán enterados en la Tesorería correspondiente en cuenta de depósito, hasta el término del sumario correspondiente.
-
-La nave infractora podrá zarpar en cualquier momento, aun durante la substanciación del sumario, si su Capitán reconoce por escrito haber cometido la infracción y si se entera el máximo de la multa que corresponda aplicar conforme al inciso 2.º.
-
-La resolución definitiva del sumario corresponderá al Director del Litoral y de Marina Mercante quien habiendo mérito para ella, deberá pronunciarse sobre el monto de la multa a aplicar y confirmará el comiso de las mercaderías, cuyo valor se ingresará en arcas fiscales con cargo al depósito efectuado en su oportunidad, sin perjuicio del pago de la multa correspondiente.
-
-El Capitán de la nave tendrá personería suficiente para representar a los Armadores de la nave. El Capitán de la nave o aeronave de bandera nacional que haya constatado la presencia de barcos pesqueros o caza-ballenas extranjeros en las aguas y mares indicados en el inciso 2.º, queda obligado a denunciar el hecho por radio a las autoridades respectivas, señalando con precisión la ubicación de dichos barcos.
-
-> **Nota.** La letra e) del Decreto 215, Defensa, publicado el 29.03.1965, dispone agregar al margen del inciso segundo del presente artículo la siguiente expresión: "$ 50 a $ 250 por tonelada gruesa de registro. Asimismo, dispone agregar al margen del inciso final la expresión: "$ 500."
+Se podrá pescar y cazar libremente en los mares; pero en el mar territorial sólo podrán hacerlo los chilenos y los extranjeros domiciliados. Se podrá también pescar y cazar libremente en los ríos y en los lagos de uso público, sin otra restricción que lo dispuesto en la Ley de Pesca y Caza y su Reglamento . Los capitanes de puerto velarán por el cumplimiento de los Reglamentos sobre pesca que dicte el Ministerio de Fomento y exigirán que los pescadores estén matriculados conforme al Reglamento de Matrícula e Inscripción de Gente de Mar.
 
 #### Artículo 245
 
@@ -1642,12 +1460,6 @@ La ronda tendrá facultad de proceder a detener a las personas cogidas en flagra
 
 La resistencia, los ultrajes, las violencias o vías de hecho contra el personal de la Capitanía de Puerto, en el ejercicio de sus funciones o a causa de ellas, se considerarán como hechos a los agentes de la fuerza pública.
 
-#### Artículo 266
-
-a. - El Personal de la Policía Marítima, sean Oficiales o Suboficiales, cuando deben desempeñar sus funciones vestidos de civil, usarán una placa, según modelo, que los identificará como tales.
-
-El uso de dicha placa será puesto en "conocimiento de la Aduana, Cuerpo de Carabineros e Investigaciones, para los efectos de la colaboración que puedan prestar al personal de la Policía Marítima en el desempeño de sus labores.
-
 ## Capítulo XXXI
 
 Crímenes, delitos o faltas cometidas a bordo
@@ -1656,11 +1468,9 @@ Crímenes, delitos o faltas cometidas a bordo
 
 Los capitanes de buques mercantes, chilenos o extranjeros, que arriben a puerto chileno o estén fondeados en ellos. están obligados a dar cuenta de todo crimen o simple delito que se cometa a bordo de sus buques durante el viaje o en su estadía en el puerto. El parte respectivo deberá ir acompañado de la investigación sumaria que se haya hecho a bordo y que tramitada en forma servirá de parte cabeza, para el sumario que deberá substanciar el juez competente.
 
-La Investigación Sumaria la hará el Capitán de la Nave cuando el hecho ocurrió en alta mar, y corresponderá al Capitán de Puerto, cuando haya sido al arribo o en la estadía de la nave en su jurisdicción.
-
 #### Artículo 268
 
-Para estos fines, el capitán de la nave o el Capitán de Puerto, en su caso comenzará por establecer las pruebas del delito, susceptibles de desaparecer, recogerá y pondrá en custodia cuanto conduzca a su comprobación y a la identificación de los delincuentes, interrogando a los inculpados y a los testigos y practicará todas las diligencias que crea necesarias para facilitar la tramitación judicial.
+Para estos fines, el capitán comenzará por establecer las pruebas del delito, susceptibles de desaparecer, recogerá y pondrá en custodia cuanto conduzca a su comprobación y a la identificación de los delincuentes, interrogando a los inculpados y a los testigos y practicará todas las diligencias que crea necesarias para facilitar la tramitación judicial.
 
 #### Artículo 269
 
@@ -1697,8 +1507,6 @@ h) Indicar si las faltas que se pide sancionar constituyen incumplimiento a las 
 I) En general, incluir cualquier dato que pueda dar luz sobre los hechos que se mencionan, en forma que la nota del capitán al capitán de puerto constituya un parte sumario que pueda tomarse como base legal para administrar justicia;
 
 j) Cuando por alguna razón haya que desembarcar a un tripulante, junto con el parte, se acompañará su libreta de matrícula y demás antecedentes personales;
-
-Al tratarse de faltas de Oficiales o pasajeros, el Capitán de la Nave procederá en igual forma y según corresponda. En todo caso, acompañará el parte, información o investigación sumaria, según la naturaleza del hecho investigado, y los descargos por escrito de los afectados.
 
 ## Capítulo XXXII
 
@@ -1752,29 +1560,19 @@ Todo propietario o armador que venda o alquile una embarcación o que en alguna 
 
 #### Artículo 279
 
-Además de las inspecciones que obligan los artículos 274 y 275, las naves y embarcaciones menores a propulsión mecánica inscritas en los puertos, serán sometidas, al matricularse y en los meses de Junio y Diciembre, a una inspección que será hecha por el ingeniero de la Comisión o Subcomisión de Reconocimiento de Naves donde existan estos organismos, o por un perito ad-hoc, donde no los haya.
+A más de las inspecciones que obligan los Arts. 274 y 275, las naves y embarcaciones menores a propulsión mecánica inscritas en los puertos, serán sometidas matricularse en los meses de Diciembre y Junio, a una inspección que será hecha por el ingeniero de la Comisión o Subcomisión de Reconocimiento Naves existen estos organismos, o por un perito ad hoc, donde no los haya.
 
-Esta inspección tendrá por objeto formarse concepto sobre el estado de conservación del casco y funcionamiento de sus medios de propulsión para los efectos de la seguridad que debe ofrecer el servicio, y tendrá el siguiente arancel:
+Esta inspección tendrá por objeto formarse concepto sobre el estado de conservación del casco y funcionamiento de sus medios de propulsión para los efectos de la seguridad que debe ofrecer en servicio y tendrá el siguiente arancel:
 
-Embarcaciones Arancel
+Naves, según reglamento respectivo.
 
-Remolcadores de hasta 100 tons.
+Remolcadores a vapor o motor, $ 30.-
 
-de registro grueso $ 10.-- oro
+Lancha a motor de más de 100 H.P. 30.-
 
-Por cada tonelada de exceso
+Lancha a motor de menos poder. 10.-
 
-sobre 100 tons. 0,05 "
-
-Lanchas a motor 5.- "
-
-Yates 10.- "
-
-Este arancel será a beneficio fiscal y su cobro será en oro, pero cubriendo su valor en moneda corriente con el recargo que para los efectos de los derechos aduaneros fija periódicamente el Ministerio de Hacienda.
-
-En caso que estas inspecciones sean efectuadas por un perito ad-hoc, los aranceles indicados precedentemente se cobrarán de acuerdo con los dispuesto en el Art. 19 del Reglamento N.o 1.035, aprobado por DS. N.o 129, de 24 de Enero de 1931.
-
-El arqueo de las embarcaciones menores en los puertos donde no haya Subinspector, lo hará el Capitán de Puerto respectivo o la persona idónea que él designe, ciñéndose en todo al Reglamento de Arqueo de Naves de Comercio. (2).
+El arqueo de las embarcaciones menores, en los puertos donde no hayan subinspector, lo hará el capitán de puerto respectivo o la persona idónea que él designe, ciñéndose en todo Reglamento de arqueo de naves de comercio.
 
 #### Artículo 280
 
@@ -1854,7 +1652,7 @@ El número y ubicación de estos elementos será fijados por la Capitanía de Pu
 
 #### Artículo 294
 
-Todo muelle o atracadero particular o fiscal se mantendrá convenientemente alumbrado, en la forma que determine la Capitanía de Puerto respectiva y en el cabezo se colocará una luz de color que permita distinguirlo con facilidad. La Capitanía de Puerto exigirá de los concesionarios o administración del puerto la adopción de todas aquellas medidas que den la seguridad necesaria para los transeúntes y la navegación y ordenará la suspensión del tránsito en todo muelle o embarcadores particulares o fiscales en que no se cumplan las disposiciones anteriores.
+Todo muelle o atracadero particular o fiscal se mantendrá convenientemente alumbrado, en la forma que determine la Capitanía de Puerto respectiva y en el cabezo se colocará una luz de color que permita distinguirlo con facilidad. La Capitanía de Puerto exigirá de los concesionarios o administración del puerto la adopción de todas aquellas medidas que den la seguridad necesaria para la navegación y ordenará la suspensión del tránsito en todo muelle o embarcadores particulares o fiscales en que no se cumplan las disposiciones anteriores.
 
 #### Artículo 295
 
@@ -2028,129 +1826,37 @@ Queda prohibido a las embarcaciones ocupadas en este comercio transitar después
 
 ## Capítulo XXXIX
 
-Orden y Disciplina
+MULTAS
 
-I - SANCIONES A FALTAS LEVES, GRAVES Y GRAVISIMAS
-
-#### Artículo 327
-
-Las infracciones al presente Reglamento y las contravenciones a las leyes, reglamentos vigentes y a los que se dictaren en el futuro, concernientes a los servicios de la Marina Mercante Nacional, como asimismo las infracciones sobre orden, seguridad y disciplina cometidas en la jurisdicción de La Dirección del Litoral y de Marina Mercante (Artículo 6 del D.F.L. número 292), serán sancionadas como faltas por el DIRECTOR DEL LITORAL Y DE MARINA MERCANTE, los Capitanes de Puerto, Cónsules o Capitanes de Naves, según corresponda, de acuerdo con lo dispuesto en este Capítulo y con el procedimiento indicado en en las instrucciones anexas al presente Reglamento, que emitirá el Director del Litoral y de Marina Mercante para su cumplimiento
+Art.327. Las infracciones del presente Reglamento. Ley de Navegación y demás disposiciones marítimas vigentes, serán multadas por los capitanes del puerto teniendo en cuenta todas las circunstancias que hayan concurrido a la comisión de las faltas, la naturaleza y grado de importancia de las mismas y muy especialmente los casos de reincidencia.
 
 #### Artículo 328
 
-a) Las faltas leves que cometa el personal perteneciente a la matrícula de Gente de Mar de los puertos serán sancionados, después de oídos los descargos, por el Capitán de Puerto con multa de diez pesos oro hasta cien pesos oro o suspensión temporal de la matrícula, de uno a quince días.
-
-b) Las faltas graves que cometa la Gente de Mar serán sancionadas después de oídos los descargos por el Capitán de Puerto con multa mayor de cien pesos oro y hasta quinientos pesos oro, o suspensión temporal de la matrícula de dieciséis días, hasta un máximo de treinta. Sin embargo, en casos calificados, esta sanción podrá extenderse hasta tres meses, previa la autorización del Director del Litoral y de Marina Mercante.
-
-c) Las reincidencias a las faltas leves o graves cometidas dentro de los doce meses siguientes al de la comisión de las referidas faltas serán castigadas con el doble de la sanción impuesta con anterioridad.
-
-d) Las faltas gravísimas que cometa la Gente de Mar serán sancionadas después de oídos los descargos, con multa mayor de quinientos pesos oro, suspensión temporal de la matrícula por más de tres meses o la eliminación definitiva de la matrícula, como dispone el artículo 329.
-
-e) Toda suspensión temporal de la matrícula de Gente de Mar mayor de tres meses, o multas mayores de dos mil pesos oro, deberán ser aprobadas por el Director General del Territorio Marítimo y de Marina Mercante, no pudiendo, en todo caso exceder de dos años la suspensión temporal de la matrícula.
-
-f) Las suspensiones podrán ser conmutadas por multas. Cuando imponga esta última, la Autoridad correspondiente otorgará un plazo que no será superior a un mes para integrarla, quedando a su término inhabilitado el infractor para ejercer toda actividad marítima si así no lo hubiere hecho. La Autoridad Marítima respectiva podrá asimismo aumentar la suspensión por un nuevo período igual al que ella comprenda, cuando el infractor sancionado no hubiere empezado a cumplirla en el plazo de un mes, contado desde que le fue impuesta.
-
-g) Cuando una falta no conste, en forma evidente, por no haber sido observada directamente por la Autoridad Marítima o por el Superior del inculpado, antes de sancionarla deberá ser debidamente esclarecida por medio de Investigaciones verbales o escritas. Cuando las faltas las hayan presenciado el Capitán de Puerto o el Capitán de la Nave, en su caso, no serán necesarias la instrucción de estas investigaciones. Tampoco serán necesarias cuando las faltas sean presenciadas por el personal de las Capitanías de Puerto, dada su condición de Ministro de Fe.
-
-h) La Autoridad Marítima o el Superior del inculpado oirá sus descargos aun cuando se le haya sorprendido infraganti y con mayor razón cuando se practiquen investigaciones verbales o escritas.
-
-i) La Autoridad Marítima en casos de contrabando y en los casos contemplados en el Art. 271 de este Reglamento suspenderá preventivamente en sus labores al personal que haya sido detenido por la justicia ordinaria, o quede en libertad provisional por este motivo. Del mismo modo se procederá en caso de faltas graves o gravísimas, siempre que éstas hubieren sido comprobadas personalmente por dicha Autoridad.
-
-j) La facultad de sancionar las faltas prescribe en el término de un año, a contar desde que se tuvo conocimiento de ellas por la Autoridad o el Superior que deba sancionarlas.
-
-k) En conformidad a los artículos 3.o y 6.o del D.F.L. N.o 292, de 25 de Julio de 1953, las sanciones disciplinarias al personal Movilizador e Industrial Fiscal de la Empresa Portuaria de Chile (Administración del Puerto), por faltas al orden, seguridad y disciplina en la Jurisdicción de la Dirección del Litoral y de Marina Mercante corresponderán aplicarlas a los Capitanes de Puerto y, las faltas administrativas e internas del servicio, serán sancionadas por los respectivos Administradores del Puerto.
-
-l) Las investigaciones verbales o escritas se realizarán de acuerdo a las instrucciones a que se refiere el artículo 327.
+El monto de las multas serán como máximo el que expresa el margen de los artículos que sean susceptibles de infracción y que está establecido en oro debiendo cubrirse en moneda corriente, con el recargo que para los efectos del pago de los derechos aduaneros fija semanalmente el Ministerio de Hacienda; con este fin solicitarán las capitanías del puerto de la administración de aduana respectiva, el recargo que esta repartición aplica semanalmente el pago de los derechos aduaneros.
 
 #### Artículo 329
 
-Serán eliminados definitivamente o cancelados de los registros de Oficiales de la Marina Mercante Nacional de la Dirección del Litoral y de Marina Mercante, o de la Matrícula de Gente de Mar de los puertos, mediante decreto del Director del Litoral y de Marina Mercante, las siguientes personas:
-
-a) Los individuos que cometan delitos contemplados en la Ley de Seguridad Interior del Estado. El procedimiento para resolver esta sanción será el indicado en la misma ley en su Título VI y se aplicará al término del proceso correspondiente, sin perjuicio de lo dispuesto en la letra i) del artículo 328.
-
-b) Los condenados por crimen o simple delito, por sentencia ejecutoriada.
-
-c) Los ebrios sorprendidos a bordo o en el trabajo, siendo reincidentes, dentro de un año.
-
-d) Los individuos que, previa Investigación Sumaria, resultaren responsables de faltas gravísimas que ofendan a la moral o al honor del que las ejecuta; que hayan tomado parte en revuelta o instigación a ella; que se declaren en huelga ilegal; que desobedezcan o resistan en forma violenta el cumplimiento de sus obligaciones para que fueron contratados; que amenacen a sus superiores o a los que desempeñen alguna Autoridad; que rehusen auxiliar al Capitán en caso de revuelta o tumulto, o a cooperar en maniobras u órdenes que se les imparta en caso de incendio, varamiento o naufragio u otros siniestros o accidentes; ser reincidentes en faltas gravísimas o haber reincidido por segunda vez en faltas graves dentro de un período de tres años.
-
-e) Los desertores.
-
-f) Los que planeen, estimulen, promuevan, inciten a ejecutar o de hecho lleven a cabo el sabotaje, la paralización, la implantación del sistema de trabajo lento o cualquier otro acto ilegal que altere o pueda alterar dolosamente el normal desarrollo de las actividades marítimas del país o que perturben o puedan perturbar el normal desenvolvimiento de un
-
-servicio público o de utilidad pública o industria vital, como la naviera. Dichas actividades deberán haberse comprobado mediante una Investigación Sumaria.
-
-g) Los individuos cuyo comportamiento durante los últimos tres años denote pésimos antecedentes, los que calificará el Director del Litoral y de Marina Mercante, para lo cual bastará que la Autoridad Marítima o el Capitán de la Nave eleve copia autorizada de la Hoja de Conducta durante este período.
-
-h) Los que, previo sumario, no sean considerados idóneos por la Dirección del Litoral y de Marina Mercante.
-
-La idoneidad no sólo se referirá a los conocimientos técnicos del individuo, sino también a su conducta profesional y moral.
-
-i) Los que cometan contrabando, fraude aduanero o implicancia en ellos, según el procedimiento indicado por las instrucciones anexas expedidas en conjunto con la Superintendencia de Aduanas.
-
-II - SANCIONES A OFICIALES, PARTICULARES O EXTRANJEROS
+Si la gravedad de la falta impusiera una sanción de mayor monto que la que indica este reglamento y de más de $100 oro, deberá solicitarse la aprobación de la dirección del litoral y de marina mercante. sin embargo, tratándose de sancionar a obreros no podrá aplicárseles multas que en conjunto sumen una mayor cantidad que el 25% del sueldo mensual para lo cuál los capitanes del puerto deberán cerciorarse si el inculpado ha sido multado con anterioridad en el mismo mes. En caso de tener que proceder sobrepasando dicho máximum, impondrán otra clase de sanción.
 
 #### Artículo 330
 
-a) Las faltas cometidas por los Oficiales de la Marina Mercante Nacional serán sancionadas con multas por los Capitanes de Puerto, después de recibidos los descargos por escrito, siguiendo el mismo procedimiento ya indicado en el artículo 328 y comunicándolo al Director del Litoral y de Marina Mercante. Las suspensiones temporales de sus libretas o permisos de embarco sólo podrán ser aplicadas por el Director del Litoral y de Marina Mercante, una vez recibida la Investigación o Información Sumaria respectiva y los descargos correspondientes o como medida preventiva; pero, al tratarse de faltas graves comprobadas por la Autoridad Marítima o Capitán de la Nave, o de presunción de crimen o simple delito, el Capitán de Puerto aplicará suspensión preventiva enviando los antecedentes al Director del Litoral y de Marina Mercante o Juez competente, según corresponda, para su resolución, comunicándolo en todo caso al primero.
-
-b) Las cancelaciones de Títulos de Oficiales de la Marina Mercante Nacional o de Oficiales de Naves Especiales y de Permisos de embarco de Oficiales de los Servicios u otros sólo serán decretados por el Director del Litoral y de Marina Mercante y por las causales indicadas en el artículo 329.
-
-c) Las infracciones al orden cometidas por particulares dentro de la jurisdicción marítima en los puertos serán puestas en conocimiento del Juzgado que corresponda por los Capitanes de Puerto, deteniendo a los inculpados y poniéndolos a su disposición con parte escrito. Si las infracciones de los particulares, Armadores, Agentes de Naves Nacionales o extranjeras u Oficiales o tripulantes extranjeros, son al presente Reglamento o a Leyes y Reglamentos concernientes a los servicios de la Marina Mercante Nacional podrán ser sancionados por el Director del Litoral y de Marina Mercante y los Capitanes de Puerto, con multas en la forma determinada en el artículo 328.
-
-III - SANCIONES IMPUESTAS POR CAPITANES DE NAVES
+El integro de las multas deberá hacerse dentro de las 24 horas siguientes, en estampillas de la Dirección del Litoral y de Marina Mercante(tipo territorio marítimo),que los capitanes del puerto deberán enviar a dicha Dirección para su incineración, adheridas al ejemplar azul de: libreto D.L.Y M. M 23, debidamente inutilizadas en conformidad a las instrucciones de éste, indicando en dicho ejemplar el recargo aplicado y fecha correspondiente.
 
 #### Artículo 331
 
-a) En alta mar las faltas a la disciplina cometidas por Oficiales o tripulantes serán investigadas y sancionadas siguiendo las normas anteriores por el Capitán de la nave, de acuerdo con el artículo 78 de la Ley de Navegación, debiendo anotarlas en el Libro de Castigos y dar cuenta por escrito a la Autoridad Marítima el día de su arribo al puerto como lo dispone el artículo 272. El Capitán de Puerto al imponerse de la sanción estampará su Visto Bueno, firmando el Libro de Castigo que le presentará el Capitán de la Nave, comunicándolo al puerto de matrícula del afectado o al Director del litoral y de Marina Mercante, para su anotación en los registros respectivos, según sea tripulante u Oficial.
+Los infractores que no estén conformes con las multas y otras sanciones impuestas por las Capitanías de Puerto podrá reclamar a la Dirección del Litoral y de Marina Mercante. En tal caso, aquellos deberán entregar la orden del capitán de puerto, en su caso, un "Depósito a la vista "de la caja nacional de ahorros más próxima si no la hubiere en la localidad, para que una vez aprobada se reintegre en estampillas y si resultare rechazada o disminuida, se devuelva al infractor de dinero excedente.
 
-Tratándose de crímenes o simples delitos, deberán proceder los Capitanes de Naves de acuerdo al Capítulo XXXI. Si las faltas o delitos las cometen los pasajeros, se procederá en forma similar, con la discreción que corresponda actuar con un particular.
-
-b) En puerto nacional, sea que las faltas fueren cometidas por Oficiales o por tripulantes, los Capitanes de Naves se limitarán a dar cuenta de inmediato verbalmente al Capitán de Puerto, confirmándolo por escrito el día del hecho, como dispone el artículo 272. La Autoridad Marítima deberá investigar lo denunciado y sancionarlo como se ha dispuesto en los artículos anteriores. En el caso de faltas cometidas a bordo por los movilizadores marítimos o por los pasajeros, se procederá por los Capitanes en forma similar, dando cuenta de los hechos verbalmente y confirmándolos por escrito en el mismo día.
-
-En puertos extranjeros los Capitanes procederán a investigar los hechos, sin perjuicio de la participación que pueda corresponder a la Autoridad Consular, a quien en todo caso se le dará cuenta por escrito del resultado de dicha investigación, para que ella proceda en conformidad a lo dispuesto en los artículos 238, 239 y 240 del Reglamento Consular.
-
-IV. - MULTAS, PROCEDIMIENTO E INTEGRO
+El pago de toda multa en forma indicada será previo a cualquier reclamo sobre ella.
 
 #### Artículo 332
 
-a) El monto de las multas que podrán aplicar los Capitanes de Puerto por infracciones al presente Reglamento será como máximo el que se expresa al margen de los artículos que sean susceptibles de infracción y que está establecido en Pesos Oro, debiendo cubrirse en moneda corriente con el recargo que para los efectos del pago de los derechos aduaneros fija mensualmente el Ministerio de Hacienda. Con este fin la Dirección del Litoral y de Marina Mercante solicitará de la administración de Aduanas respectiva, el recargo que esta repartición aplica mensualmente en el pago de los derechos aduaneros, lo que será transcrito a las Capitanías de Puerto para los fines señalados.
-
-b) Si por la gravedad de la falta se impusiera una sanción de mayor monto que las indicadas en este Reglamento y de más de $2.000,00 oro (Dos mil Pesos Oro), deberá solicitarse la aprobación de la Dirección del Litoral y de Marina Mercante, como dispone el artículo 328, inciso e).
-
-c) Las multas que apliquen la Dirección del Litoral y de Marina Mercante o Capitanes de Puerto, por las infracciones a que se refiere el artículo 327 de este Reglamento, ingresarán en arcas fiscales.
-
-d) El integro de las multas deberá hacerse dentro del plazo de 5 días hábiles a contar desde la fecha de emisión de la boleta de ingreso, en dinero efectivo, en la Tesorería Fiscal del puerto que corresponda.
-
-Para este efecto el Capitán de Puerto remitirá la boleta al infractor el mismo día de su emisión y si la multa no es pagada dentro del plazo requerido, le impondrá por vía de apremio una suspensión de un día por cada diez pesos oro o fracción que corresponda enterar en Tesorería. Se suspenderá el apremio cuando la multa sea pagada. Si a pesar del apremio no se enterara el valor de la multa, podrá reiterarse cuantas veces sea necesario. La emisión de la boleta de ingreso podrá efectuarla el Capitán de Puerto dentro de un mes desde que sea impuesta la multa, según las circunstancias.
-
-e) También podrán integrarse las multas en estampillas de Impuesto, pero sólo en los casos que los infractores sean Oficiales o tripulantes de naves que vayan a ausentarse del puerto antes de tres días hábiles.
-
-f) Las estampillas se adherirán al formulario que debe remitirse a la Dirección del Litoral y de Marina Mercante, inutilizándolas con perforador y timbre de aceite, debiendo colocársele en el formulario el valor de la multa, el recargo aplicado, la causa y fecha correspondiente.
-
-V- RECLAMOS
+Las multas aplicadas en alta mar por los capitanes de nave, podrán ser materia de reclamación en la forma que establece el Art. 83 de la Ley Navegación y serán integradas en la Capitanía de Puerto del primer puerto de escala en el litoral y en los consulados en el extranjero. El capitán de dicho puerto lo comunicará al de matrícula del afectado, para su anotación en el respectivo registros de castigos.
 
 #### Artículo 333
 
-a) Los infractores que deseen pedir reconsideración de las sanciones de multa, suspensión o eliminación o que soliciten que la suspensión sea conmutada por multa, lo harán por escrito a la Autoridad Marítima o al Superior que la aplicó, dentro del plazo fatal de 15 días de haber sido notificado. Al ser rechazada la solicitud podrán apelar en última instancia, ante el Director del Litoral y de Marina Mercante, en el mismo plazo anterior, por intermedio de la Autoridad Marítima o del Superior que denegó su presentación anterior, quien al elevarla acompañará copia de todos los antecedentes. La apelación deberá interponerse en el plazo fatal de cinco días, contados desde la notificación de la resolución denegatoria. Los plazos antes señalados son de días hábiles.
+Las multas que por decreto imponga la Dirección del Litoral y de marina mercante a los armadores gente de mar (oficiales, tripulantes, empleados y obreros ) y que sean pagadas en alguna Capitanía de Puerto, deberán ser remitidas a la Dirección del Litoral y de Marina Mercante en estampillas y serán excluidas de las planillas mensuales de entradas de esa capitanía.
 
-b) El pago de toda multa será previo a cualquier reclamo sobre ella. En tal caso, los infractores deberán entregar dentro del plazo fijado en el decreto o formulario respectivo, a la orden del Director del Litoral y de Marina Mercante o del Capitán de Puerto, según el caso, un Depósito a la Vista del Banco del Estado de Chile del puerto respectivo o del pueblo o ciudad más próximos, si no los hubiere en la localidad, para que una vez aprobada se integre en Tesorería, y para que si quedare sin efecto o fuere disminuída, se devuelvan al infractor el dinero excedente.
-
-c) Las multas aplicadas en alta mar por los Capitanes de Naves podrán ser materias de reclamación en la forma que establece el artículo 83 de la Ley de Navegación y serán integradas en la Capitanía de Puerto del primer puerto de escala en el litoral, o en los Consulados, en el extranjero. El Capitán o Cónsul de dicho puerto lo comunicará al de matrícula del afectado, o Dirección del Litoral y de Marina Mercante, para su anotación en el respectivo registro de castigo, sea que se trate de tripulantes u Oficiales.
-
-d) Para los fines de este Reglamento se establece que el Director del Litoral y de Marina Mercante en su calidad de Jefe Superior de los Servicios del Litoral y de Marina Mercante y como Autoridad máxima, resolverá y dictaminará en última instancia, en todas las materias sobre orden, disciplina y seguridad o concernientes a dichos servicios que le sean sometidos a su consideración, ejerciendo su mandato por sí o por las Autoridades Marítimas en los puertos, mediante su delegación en respectivas jurisdicciones.
-
-VI REHABILITACIONES
-
-Art.334. El Director del Litoral y de Marina Mercante podrá derogar, rebajar, conmutar o postergar,modificar o revocar, suspender o indultar las sanciones aplicadas, así como rehabilitar, por gracia, y por una sola vez, los Títulos, Libretas de Embarco o Permisos y las matrículas que se encuentren canceladas, en conformidad al artículo 329 de este Reglamento, previa solicitud de los afectados e informe favorable de las Autoridades Marítimas y Oficina de Contratación correspondientes, en los siguientes casos:
-
-a) Después de transcurrido un período de tres y no más de diez años de encontrarse con sus títulos o matrículas canceladas, cuando la cancelación se haya producido por las causales contempladas en los incisos c), d), e), f), g), h), e i) del artículo 329.
-
-b) Después de un período de cinco años de encontrarse con sus Títulos cancelados por delitos sancionados en los Títulos III y IV de la Ley de Seguridad Inte- del Estado.
-
-c) A los condenados judicialmente
-
-por faltas o simples delitos después de transcurrido un plazo de cinco y no más de diez años de cumplida la condena, o habérseles indultado, en su caso. Los que fueren amnistiados podrán solicitar su rehabilitación en forma inmediata, sin necesidad de acreditar ninguna otra circunstancia: pero la Ley de Amnistía respectiva deberá referirse expresamente al delito que motivó la cancelación de la matrícula
+Art.334. Las multas que sancionan infracciones a la Ley de Reclutas y Remplazo de la Armada y su reglamento, deben pagarse en conformidad a ella en dinero efectivo en las Tesorerías Fiscales de la residencia, exigiendo los capitanes de puerto el comprobante legalizado de su cancelación, el que deberán remitir a la dirección del personal (3ra sección ).Estas multas no están afectadas al recargo mencionado en el Art. 328.
 
 #### Artículo 335
 
@@ -2162,17 +1868,15 @@ Los buques mercantes de toda clase y bandera, que sean multados no podrán salir
 
 Art.337. Cuando un buque que no haya cubierto una multa impuesta abandone el puerto, ésta se hará efectiva al armador o agente de dicho buque.
 
-Art.338. Mientras no se cubran las tarifas, derechos, impuestos, aranceles, aportes o multas que las grave la Capitanía del Puerto negará el zarpe a la nave afectada, y si ella hubiere ya zarpado, retendrá los documentos de cualquier otra nave perteneciente al mismo armador o agente o los de cualquier gestión que éstos tengan pendientes ante dicha Capitanía de Puerto.
+Art.338. Mientras no se cubra una multa impuesta la Capitanía del Puerto negará el zarpe a la nave afectada, y si ella hubiere ya zarpado, retendrá los documentos de cualquier otra nave perteneciente al mismo armador o agente o los de cualquier gestión que éstos tengan pendientes ante dicha Capitanía de Puerto.
 
 #### Artículo 339
 
-Las medidas indicadas en los artículos anteriores se aplicarán sin perjuicio de la responsabilidad personal que cabe a los armadores, propietarios o agentes de las naves por las multas que a ésta o a su Capitán y tripulación se impusieren.
+Las medidas indicadas en los artículos anteriores se aplicarán sin perjuicio de la responsabilidad personal que cabe a los armadores, propietarios o agentes de las naves por las multas que a ésta se impusieren.
 
 Art.340. Los infractores que no integren las multas en el tiempo reglamentario, no serán admitidos en la jurisdicción marítima de ningún puerto. Al efecto, los capitanes de puerto lo comunicarán a la Dirección del Litoral y de Marina Mercante a fin de que se publique el nombre y profesión en el boletín oficial para conocimiento de todos los capitanes de puerto.
 
-VII - VARIOS
-
-Art.341. Las multas que por decreto imponga el Director del Litoral y de Marina Mercante a los Armadores, Oficiales y Gente de Mar matriculada y otros, que se hagan efectivas por alguna Capitanía, serán incluidas en las planillas mensuales de entradas de esa Capitanía, la que remitirá a la Dirección el comprobante de pago en Tesorería al tratarse de Oficiales, y lo archivará en los antecedentes del afectado al tratarse del demás personal. El mismo procedimiento se seguirá con las multas que por decreto imponga el Capitán de Puerto.
+Art.341. Las multas que apliquen los capitanes de puerto por infracciones al presente Reglamento, ingresarán a las arcas fiscales en estampillas de la Dirección del Litoral y de Marina Mercante(tipo territorio marítimo) de acuerdo con la ley.
 
 ## Capítulo XXXX
 
@@ -2182,47 +1886,11 @@ Reglamento
 
 Art.342. Toda infracción a los artículos de este Reglamento en que no se especifique la pena y toda desobediencia a las órdenes del capitán de puerto en el desempeño de sus funciones, se sujetará al contraventor a una multa discrecional que le aplicará el expresado funcionario.
 
-Además, cualquiera persona que faltare el respeto y sumisión debida al capitán de Puerto, mientras éste ejerce sus funciones, o desobedeciere las órdenes que el mismo imparta en uso de sus atribuciones, incurrirá en las faltas que sancionan el número 4.º del Art. 495 y el N.º 1.º del Art. 496 del Código Penal, según los casos, salvo que los hechos alcancen a constituir delito. En los casos a que se refiere esta párrafo, será aplicable lo dispuesto en el Art. 6.º del presente Reglamento.
-
-> **Nota.** El literal R del numeral 1 del Decreto 359, Defensa, publicado el 03.06.1963, dispone reemplazar en el presente artículo "la multa de $ 50,00 que va al margen por $ 500,00", sin embargo, tal modificación no se ha podido efectuar por no encontrarse disponible en su texto lo indicado.
-
 Art.343.- Los capitanes de puerto entregarán en préstamo a los buques que arriben a los puertos, un ejemplar de este reglamento si no lo tuvieren en el acto de la visita exigiendo el recibo en el libro que se llevará al efecto.
-
-#### Artículo 344
-
-Las Autoridades Marítimas tendrán presente al aplicar este Reglamento que sus disposiciones emanan de la Ley de Navegación, Código de Comercio, Ley Orgánica de la Dirección del Litoral y de Marina Mercante (D.F.L. N.o 292), Ordenanza de Aduana y Art. 238 del Código del Trabajo. Tendrán presente, además, las normas contenidas en el Tratado "VIII de la Ordenanza de la Armada, que son complementarias del presente Reglamento.
-
-#### Artículo 345
-
-Las disposiciones o instrucciones complementarias que por Ordenes Permanentes o Circulares emita el Director del Litoral y de Marina Mercante para ser cumplidas en su jurisdicción, regirán como adición al presente Reglamento.
-
-#### Artículo 346
-
-El Capitán de Puerto podrá reglamentar con disposiciones locales, basadas en el presente Reglamento, la Organización de la Policía Marítima, Fluvial y Lacustre de su jurisdicción, de acuerdo con las modalidades regionales, previa aceptación del Director del Litoral y de Marina Mercante.
-
-#### Artículo 347
-
-Las disposiciones indicadas en el artículo anterior también quedarán rigiendo como adición a este Reglamento, en iguales condiciones que las enunciadas en el artículo 345.
 
 #### Artículo TRANSITORIO
 
-En el tramo del Canal Beagle comprendido entre el meridiano 68º, 36' 38,5 W. y su boca oriental, se establece lo siguiente para los efectos que se indican:
-
-A.- PRACTICAJE.
-
-Se aplicará el Reglamento del país a que pertenece el puerto a que acceda el buque.
-
-B.- PILOTAJE.
-
-Tanto los buques chilenos como argentinos aplicarán sus propios reglamentos.
-
-Los buques de terceras banderas que naveguen hacia el Este, aplicarán este reglamento, y los que naveguen hacia el Oeste, aplicarán el Reglamento de Practicaje y Pilotaje para la República Argentina.
-
-Dichos buques izarán en el palo trinquete el pabellón del país cuyo Reglamento de Practicaje y Pilotaje estén aplicando.
-
-Toda nave que navegue el tramo del Canal señalado al comienzo, quedará liberada del pago de los derechos de Practicaje o Pilotaje, o cualquier otro gravamen que exista a este respecto.
-
-Las normas contenidas en este artículo regirán durante el juicio arbitral que se sigue ante el Gobierno de Su Majestad Británica y hasta que se notifique a la República de Chile y a la República Argentina la sentencia del Arbitro.
+Art.344.- Queda en vigor y fuerza las disposiciones del Tratado V, Título VII, de las Ordenanzas Navales de 1973, que trata de la policía marítima, en la parte relativa a las obligaciones de los capitanes de puerto debiendo regir el presente reglamento cómo adición a dicho título y tratado con arreglo a lo que dispone el art. 185 del mismo.
 
 3.o Asígnasele la siguiente característica y categoría:
 
