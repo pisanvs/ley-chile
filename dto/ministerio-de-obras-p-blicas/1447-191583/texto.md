@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.447, de 28 de septiembre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para la Empresa de Servicios Sanitarios del Bío-Bío S.A., el lote de terreno Nº1, para la obra Aducción Higueras-Cerro Solar, que figura a nombre de Compañía Siderúrgica Huachipat, rol de avalúo 02604-00003, comuna de Talcahuano, VIII Región, superficie 4.350,48 m2. La Comisión de Peritos, fijó con fecha 26 de junio de 2001, el monto de la indemnización provisional en la cantidad de $17.401.920, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
