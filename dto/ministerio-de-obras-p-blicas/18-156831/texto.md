@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 18, de 28 de Enero de 1985, se expropiaron los lotes N°s 5, 7 y 8, roles de avalúo 3574, 357-2 y. 357-18, respectivamente, comuna de Concepción, VIII Región, para Variante Nuevo Puente sobre el río Andalién, camino Concepción - Tomé y se acordó el precio de las indemnizaciones con sus propietarios doña Rosa Elena Cariaga Pincheira y otras, Juan Gabriel Flores Flores y Hermofilia Cabezas Solís, ascendentes a $ 272:842, $ 2.096.777 y $ 1.262.769, cuyas superficies son 260 m2., 3.726 m2. y 240 m2.-
+
+Fiscal subrogante del Ministerio de Obras Públicas.
