@@ -1,0 +1,3 @@
+Por resolución Nº 1.674, de 27 de julio de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110273, presentada por PESCA CHILE S.A., para operar un centro de cultivo ubicado en Isla Luz, canal Darwin, estero Empedrado, caleta del Medio, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 27 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
