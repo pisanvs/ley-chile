@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 253 de fecha 18 de marzo del 2002, se expropió el lote de terreno Nº 378, superficie 59 m2., rol de avalúo Nº 33-40, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 12,70000 al 18,19349" y se acordó el valor de indemnización con su propietario Gladys del Carmen Leiva Vidal, ascendente a la cantidad de $577.280.-
+
+Fiscal del Ministerio de Obras Públicas.
