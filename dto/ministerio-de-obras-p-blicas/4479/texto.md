@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.479, de 29 de septiembre de 2000, se expropió el lote de terreno Nº 65-A, superficie 2.655 m², rol de avalúo 608-112, comuna de Mulchén, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli, Octava Región, y se acordó el valor de indemnización con su propietario Celedonio Arriagada Salamanca, ascendente a la cantidad de $3.295.864.
+
+- Fiscal del Ministerio de Obras Públicas.
