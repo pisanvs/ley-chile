@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.601 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 3, superficie 197 m², rol de avalúo 115-14, comuna de Paine, para la obra ''Concesión Internacional Ruta 5 Tramo Santiago - Talca Sector B: Km. 42.950,00 a Km. 55.200,00'' y se acordó el valor de indemnización con su propietario Juan González Duarte, ascendente a la cantidad de $3.362.345.-
+
+Fiscal del Ministerio de Obras Públicas.
