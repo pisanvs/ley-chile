@@ -19632,23 +19632,15 @@ No obstante, dicho limite se puede sobrepasar en caso de un exceso de activos, p
 
 Para los fines de que trata este titulo, los bancos y sociedades financieras considerarán las operaciones no reajustables en moneda chilena que deben registrarse en las partidas o cuentas que se indican en el Anexo N° 2 de este Capitulo.
 
-IV.- OPERACIONES EN MONEDA EXTRANJERA.
-
-1.- Margen de operaciones en moneda extranjera.
+IV.- MARGEN DE OPERACIONES EN MONEDA EXTRANJERA.
 
 La suma de los fondos disponibles, las colocaciones, inversiones y otros activos en moneda extranjera, en moneda nacional documentados en moneda extranjera y en moneda nacional reajustables por la variación del tipo de cambio, deducido el saldo de la Posición de Cambios Internacionales, cuando éste resulte acreedor, no podrá ser superior ni inferior a la suma de las obligaciones en moneda extranjera, en moneda nacional documentadas en moneda extranjera y en moneda nacional reajustables por la variación del tipo de cambio, en más de un 20% del capital pagado y reservas de la respectiva institución financiera.
 
-Las sucursales de bancos extranjeros que ingresen o hayan ingresado capitales al país al amparo del Decreto Ley N° 600 de 1974 y sus modificaciones, o de los artículos 14, 15 ó 16 del Decreto Supremo N° 471 de 1977, del Ministerio de Economía, Fomento y Reconstrucción, así como los bancos o sociedades financieras nacionales que reciban o hayan recibido capital de la misma naturaleza, podrán exceder el referido limite del 20%, en una suma igual al monto de los aportes recibidos más las utilidades retenidas, susceptibles de ser remesadas al exterior, sólo en los casos en que los activos superen a los pasivos. Se entenderá para estos efectos como utilidades susceptibles de ser remesadas al exterior, aquellas que hayan sido reconocidas como tales, mediante el correspondiente certificado emitido por esta Superintendencia, sea que ellas se mantengan en moneda chilena o extranjera.
+Las sucursales de bancos extranjeros que ingresen o hayan ingresado capitales al país al amparo del Decreto Ley N° 600 de 1974 y sus modificaciones, o de los artículos 14, 15 ó 16 del Decreto Supremo N° 471 de 1977, del Ministerio de Economía, Fomento y Reconstrucción, así como los bancos o sociedades financieras nacionales que reciban o hayan recibido capital de la misma naturaleza, podrán exceder el referido límite del 20%, en una suma igual al monto de los aportes recibidos más las utilidades retenidas, susceptibles de ser remesadas al exterior, sólo en los casos en que los activos superen a los pasivos. Se entenderá para estos efectos como utilidades susceptibles de ser remesadas al exterior, aquellas que hayan sido reconocidas como tales, mediante el correspondiente certificado emitido por esta Superintendencia, sea que ellas se mantengan en moneda chilena o extranjera.
 
 Asimismo, los bancos podrán exceder el mencionado limite del 20%, en un monto igual a sus provisiones y reservas en moneda extranjera, excluidas las provenientes de utilidades pendientes de remesarse al exterior, únicamente en los casos en que los activos sean superiores a los pasivos.
 
-2.- Límite de captaciones reajustables por la variación del tipo de cambio
-
-Sin perjuicio de lo dispuesto en el número precedente, los recursos que las instituciones financieras capten mediante depósitos a plazo en moneda nacional reajustables por la variación del tipo de cambio del dólar estadounidense, sólo podrán ser utilizados en colocaciones y en inversiones en depósitos a plazo de la misma naturaleza.
-
-3.- Componentes de las operaciones en monedas extranjeras.
-
-Para los efectos de establecer las relaciones a que se refieren los números precedentes, las entidades financieras considerarán las operaciones que deben registrarse en las partidas o cuentas que se indican en los Anexos N°s 3 y 4 de este Capitulo.
+Para los fines de que trata este titulo se considerarán las operaciones que deben registrarse en las partidas o cuentas que se indican en el Anexo N°3 de este Capítulo.
 
 V.- OTRAS DISPOSICIONES
 
@@ -19689,12 +19681,6 @@ Las cuentas de orden señaladas en este numeral formarán parte de la partida 97
 Las entidades financieras que se excedan de los limites a que se refiere el presente Capítulo, podrán ser sancionadas por esta Superintendencia, según lo previsto en el artículo 19 del D.L. N° 1.097, de 1975.
 
 Para ese efecto, se tendrá como una infracción a las presentes instrucciones el incumplimiento dentro de un mes calendario transcurrido, de alguno de los límites que se tratan en este Capítulo.
-
-3.- Disposición transitoria.
-
-Atendido los cambios que se han introducido a la normativa, esta Superintendencia determinará la situación relativa al cumplimiento de los límites en las relaciones entre operaciones activas y pasivas, de acuerdo con las nuevas normas, a contar del 30 de junio de 1992.
-
-No obstante lo anterior y en relación con lo señalado en el número precedente, sobre las sanciones que corresponde aplicar por el incumplimiento de las presentes disposiciones, se aceptará que las instituciones que presenten desequilibrios en las relaciones activas y pasivas, considerando la situación al 31 de mayo de 1992, reduzcan esos desajustes de manera tal que al 31 de agosto queden rebajados a la mitad y al 31 de octubre de 1992 se alcance el equilibrio exigido.
 
 ANEXO N°1
 
@@ -19759,16 +19745,6 @@ IMAGEN.
 Sin perjuicio de la información que puede solicitarse para verificar el cumplimiento de los límites en el curso del mes, los datos para determinar la situación al cierre de cada mes los obtendrá este Organismo mediante el procesamiento de los saldos informados en el archivo C01.
 
 > **Nota.** La letra G, de la Circular 2701, SBIF, promulgada el 27.08.1992, modifica el presente Anexo, a fin de actualizar sus referencias a partidas; se elimina la mención a las partidas 1625 y 3625, actualmente no vigentes, se agregan las partidas 2126 y 4126 y se remplaza una cuenta.
-
-ANEXO N°4
-
-COMPUTO DEL LIMITE DE CAPTACIONES REAJUSTABLES POR LA VARIACION DEL TIPO DE CAMBIO
-
-De acuerdo con lo indicado en el N° 2 del título IV de este Capítulo, el límite de captaciones reajustables por la variación del tipo de cambio queda establecido según la siguiente relación.
-
-IMAGEN.
-
-Sin perjuicio de la información que puede solicitarse para verificar el cumplimiento de los límites en el curso del mes, los datos para determinar la situación al cierre de cada mes los obtendrá este Organismo mediante el procesamiento de los saldos informados en el archivo C01.
 
 CAPITULO 12-10 (Bancos y Financieras)
 
