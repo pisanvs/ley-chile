@@ -1,0 +1,3 @@
+Por Resolución Exenta No. 0-923 de fecha 12 de Mayo de 1989, se ordenó publicar en el Diario Oficial la solicitud de inscripción en las Regiones IV, VI, VIII, X, XI y Metropolitana de Santiago, en el Registro de Partidos Políticos, formulada por los señores Hugo Zepeda Barrios y Gabriel León E., en representación del Partido Liberal.
+
+Santiago, 12 de Mayo de 1989.- Juan Ignacio García Rodríguez, Director.
