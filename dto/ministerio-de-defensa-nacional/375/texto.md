@@ -1,0 +1,167 @@
+FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL DFL. 223, DE 1953, LEY ORGANICA DE LAS FABRICAS Y MAESTRANZAS DEL EJERCITO
+
+Núm. 375.- Santiago, 28 de Diciembre de 1978.- Visto: El artículo único del decreto ley N° 2.042, de 16 de Noviembre de 1977, y
+
+Considerando:
+
+Que es necesario introducir al decreto con fuerza de ley N° 223, de 1953, que aprobó la Ley Orgánica de las Fábricas y Maestranzas del Ejército, las distintas modificaciones que ha experimentado, coordinando y sistematizando adecuadamente sus disposiciones actualizadas;
+
+Que es recomendable, asimismo, por razones de buen orden administrativo y de utilidad práctica, indicar detalladamente por medio de notas marginales, las fuentes legales que dan origen a las modificaciones experimentadas por las normas de ese decr eto con fuerza de ley, así como también dejar establecida, paralel mente la relación de la nueva numeración de su articulado con la del texto original.
+
+Decreto:
+
+Fíjase el siguiente texto refundido, coordinado y sistematizado del DFL. N° 223, de 1953, Ley Orgánica de las Fábricas y Maestranzas del Ejército.
+
+#### Artículo 1°
+
+Las Fábricas y Maestranzas del Ejército, individualizadas por la sigla FAMAE, constituyen una Corporación de Derecho Público, que goza 1.- de personalidad jurídica, administración autónoma y de patrimonio propio, en conformidad a lo dispuesto en esta ley. Se relacionará con el Supremo Gobierno por intermedio del Ministerio de Defensa Nacional.
+
+Su objeto será:
+
+a) Fabricar, reparar y comercializar elementos bélicos para satisfacer en la forma más amplia posible las necesidades de la Defensa Nacional;
+
+b) Fabricar, reparar y comercializar toda clase de maquinarias, herramientas y artículos industriales, y c) Prestar servicios relacionados con cada uno de los cometidos señalados en las letras anteriores.
+
+Para el cumplimiento de las finalidades ya indicadas y con la sola aprobación del Consejo Superior de FAMAE, la Empresa podrá constituir o formar parte de sociedades públicas o privadas, nacionales o extranjeras.
+
+Para los efectos anteriormente señalados, autorízase al Estado para desarrollar y participar en las actividades empresariales previstas en esta ley.
+
+El representante legal de FAMAE será el Director de las Fábricas y Maestranzas del Ejército, y su domicilio, será la ciudad de Santiago.
+
+#### Artículo 2°
+
+La Dirección y Administración corresponderá al Director de las Fábricas y Maestranzas del Ejército, quien deberá ser, a lo menos, un Oficial Superior del Ejército, en servicio activo, nombrado mediante decreto supremo, a proposición del Comandante en Jefe del Ejército.
+
+Las Fábricas y Maestranzas del Ejército tendrán un Consejo encargado de la fiscalización de todas las actividades comerciales e industriales, debiendo el Director mantener informado al Consejo de esas actividades.
+
+En lo relativo a los suministros para el Ejército, el Director se limitará a cumplir los planes de trabajo que le imparta dicha Institución, dando cuenta al Consejo, si no se tratare de asuntos de carácter secreto.
+
+#### Artículo 3°
+
+El Consejo Superior de FAMAE estará integrado por los siguentes miembros:
+
+1° El Comandante del Comando de Industria Militar e Ingeniería, que lo presidirá.
+
+2° El Subsecretario de Guerra, en representación del Consejo Superior de Defensa Nacional.
+
+3° El Director de cada una de las Reparticiones que a continuación se indican o un representante de las mismas designado anualmente por el Comandante en Jefe
+
+del Ejército:
+
+- Dirección de Operaciones del Ejército.
+
+- Dirección de Logística del Ejército.
+
+- Dirección de Racionalización y Desarrollo del
+
+Ejército.
+
+4° El Jefe de Material de Guerra del Ejército.
+
+5° El Director de las Fábricas y Maestranzas del Ejército.
+
+El Comandante en Jefe del Ejército podrá asistir a las sesiones del Consejo Superior, con derecho a voz y voto, en cuyo caso ejercerá la presidencia.
+
+#### Artículo 4°
+
+Son atribuciones del Consejo Superior de FAMAE:
+
+1° Aprobar anualmente el Plan Operativo de FAMAE, propuesto por el Director.
+
+2° Aprobar anualmente el Plan de Inversiones, propuesto por el Director.
+
+3° Aprobar el proyecto de Presupuesto de Ingresos y Gastos que anualmente debe presentar FAMAE, en conformidad con las normas vigentes.
+
+4° Autorizar al Director para enajenar y constituir gravámentes sobre bienes raíces de FAMAE.
+
+5° Pronunciarse sobre el Balance anual de la Empresa, que presente el Director.
+
+6° Determinar, con arreglo al artículo 8° de este mismo cuerpo legal y a propuesta del Director, los porcentajes de distribución de las utilidades de FAMAE.
+
+7° Autorizar la celebración de actos y contratos, cuyo valor exceda de doscientas cincuenta Unidades Tributarias Mensuales y que no estén expresamente omprendidos en planes y presupuestos ya aprobados.
+
+8° Presentar en el mes de abril de cada año al Comandante en Jefe del Ejército una Memoria de la marcha de la Repartición conjuntamente con el Balance de la misma previamente aprobado por el Consejo.
+
+En dicho Balance se consultará una amortización mínima de cinco por ciento sobre el valor de las maquinarias.
+
+9° En general, todas aquellas que sean necesarias para la fiscalización de las actividades comerciales e industriales de la Corporación.
+
+#### Artículo 5°
+
+El capital de las Fábricas y Maestranzas del Ejército se formará: a) Con los bienes que tiene a su cargo cuyo dominio se le transfiere en virtud de esta ley; los bienes inmuebles se inscribirán en el Conservador de Bienes Raíces correspondiente a nombre de la persona jurídica "Fábricas y Maestranzas del Ejército",
+
+b) Con los bienes y fondos que el Estado aporte en el futuro, y
+
+c) Con la parte de la utilidades que de acuerdo con esta ley deban incrementar el capital de la Empresa.
+
+#### Artículo 6°
+
+El Director como representante legal y judicial de la Corporación podrá ejecutar todos los actos o contratos que fueren necesarios o útiles para la institución. Especialmente se le faculta, y sin que ello signifique limitación alguna de los establecido anteriormente, para celebrar contratos de mutuo; cuentas corrientes bancaria o comercial, de depósito o de crédito; para girar sobre depósitos, sobre créditos o excesos que se otorgaren; para girar, aceptar, descontar, endosar, prorrogar y protestar letras cambio y demás obligaciones mercantiles; y obtener boletas de garantía. Queda, del mismo modo, facultado para abrir acreditivos, efectuar cobros, recibir pagos en moneda extranjera y utilizar divisas, sea en el país o en el extranjero.
+
+En el orden judicial tendrá las facultades que mencionan ambos incisos del artículo 7° del Código de Procedimiento Civil las que se dan por reproducidas, con excepción de la de absolver posiciones.
+
+INCISO TERCERO. DEROGADO.-
+
+El Director podrá delegar parte de sus atribuciones previo acuerdo del Consejo Superior, en funcionarios de su dependencia.
+
+#### Artículo 7°
+
+Las Fábricas y Maestranzas del Ejército tendrán un asesor jurídico, que desempeñará las funciones de Fiscal de la Corporación, formará parte del Consejo, con derecho a voz en las sesiones, y será responsable de la legalidad de los acuerdos que no representare.
+
+#### Artículo 8°
+
+Las utilidades líquidas que se produzcan en el ejercicio anual de FAMAE entendiéndose por tales las utilidades brutas previa deducción de las amortizaciones, castigos y provisiones se distribuirán en la forma siguiente:
+
+a) Hasta un 35% para incrementar los fondos de explotación.
+
+b) Hasta un 30% para adquisiciones, ampliaciones, reparaciones e instalaciones de maquinarias, equipos y talleres y para trabajos y experiencias de carácter militar. También, y con autorización del Consejo Superior, este porcentaje se podrá utilizar en la implantación de cualquiera industria que tenga relación con la Defensa Nacional o incremento del aporte a las industrias en las cuales tenga participación.
+
+c) Hasta un 20% para gratificación del personal del establecimiento y que será distribuida de acuerdo con el reglamento que dicte el Presidente de la República.
+
+d) Hasta un 5% de libre disposición, que deberá emplearse en atender necesidades de bienestar de su personal o en la construcción de casas habitacionales para éste.
+
+e) Hasta un 10% para efectuar trabajos de investigación y desarrollo.
+
+Los saldos de los porcentajes que quedaren sin invertir, se destinarán a rebajar los costos de los suministros militares.
+
+Asimismo, el Comandante en Jefe del Ejército, con acuerdo del Consejo, podrá asignar estos fondos, mediante resolución fundada, a la adquisición de propiedades y de terrenos o construcción de nuevas instalaciones y viviendas destinadas al uso de la respectiva institución, o en la ampliación, reparación o dotación de las ya existentes, como, además, a otras finalidades institucionales que determine dicha resolución. En este último caso, los aludidos recursos no se considerarán renta para ningún efecto legal y el procedimiento para su aplicación será el previsto en la citada disposición legal. El traspaso a estos fondos se hará a título gratuito, no requiriendo de insinuación o trámite alguno y sirviendo de título suficiente para dicho traspaso la resolución mencionada.
+
+#### Artículo 9°
+
+Los contratos celebrados por las Fábricas y Maestranzas del Ejército se resolverán sin responsabilidad alguna para dicha Corporación, cuando así lo decrete el Ministerio de Defensa Nacional, teniendo en vista la necesidad de dedicar a suministros militares las actividades del taller o sección que deba cumplir el contrato en referencia.
+
+#### Artículo 10°
+
+Para los efectos del cumplimiento de las funciones y actividades establecidas en la presente ley las Fábricas y Maestranzas del Ejército estarán exentas de toda clase de impuestos, contribuciones, derechos, tasas, patentes y demás gravámenes establecidos en favor del Fisco u otros organismos del Estado o de las municipalidades, con excepción de los impuestos establecidos en la ley de Timbres, Estampillas Art 19° y Papel Sellado, de aquéllos a que se refiere el artículo 19° del D.L. 534, de 1974, de los contemplados en el D.L. 825, de 1974, con excepción de lo dispuesto en su artículo 12°, letra B), número 1, y de lo dispuesto en los artículos 19° del D.L. 1.244, de 1975, y 3° transitorio del D.L. 1.606, de 1976.
+
+#### Artículo 11°
+
+El quórum para sesionar del Consejo será el de la mayoria absoluta de sus miembros y sus acuerdos se tomarán por simple mayoría. En caso de empate, decidirá el voto del que presida. El Consejo tendrá un Secretario designado por él mismo, que le servirá de ministro de fe en sus actuaciones.
+
+#### Artículo 12°
+
+El Director de las Fábricas y Maestranzas del Ejército será subrogado por el Subdirector, el que deberá tener la misma calidad que indica el inciso primero del artículo 2°.
+
+#### Artículo 13°
+
+El Comandante en Jefe del Ejército podrá destinar a Fábricas y Maestranzas del Ejército personal de las distintas plantas del Ejército para asegurar la eficiencia técnica de la empresa y su control militar.
+
+Para todos los efectos legales, la destinación del personal militar a Fábricas y Maestranzas del Ejército será considerada como cumplida en una repartición o unidad militar.
+
+Este personal no tendrá derecho a otras remuneraciones que las que le corresponda percibir de acuerdo a la ley de sueldos de las Fuerzas Armadas. No obstante, podrá percibir asignaciones con cargo a Fábricas y Maestranzas del Ejército si fueren consultadas por ésta.
+
+#### Artículo 14°
+
+Para todos los efectos legales los recintos e instalaciones fabriles y de administración de Fábricas y Maestranzas del Ejército, serán considerados recintos militares.
+
+#### Artículo 15°
+
+Existirá un Junta de Bienestar de FAMAE, que tendrá por objeto asesorar a la Dirección, en la solución de los problemas sociales y de bienestar de su personal.
+
+El financiamiento tendrá como base un aporte igualitario de los trabajadores y FAMAE, no superior en conjunto al 4% de las remuneraciones imponibles, siendo el 2% de cargo del personal.
+
+Un reglamento, aprobado por el Consejo Superior, establecerá su organización y funcionamiento.
+
+Anótese, tómese rázon, comuníquese y publíquese en el Diario Oficial y en el Boletin Oficial del Ejército.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Raúl Benavides Escobar, Teniente General, Ministro de Defensa Nacional.
+
+Lo que se transcribe para su conocimiento.- Julio Bravo Valdés, Coronel, Subsecretario de Guerra.
