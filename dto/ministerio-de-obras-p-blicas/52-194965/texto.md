@@ -1,0 +1,3 @@
+Por decreto MOP Nº 52, de 29 de enero de 2002, se rectificó el decreto MOP Nº 846 de 31 de mayo de 2001, que ordenó la expropiación de los lotes de terreno Nos 3 y 5, en el sentido de sustituir en la frase "Fiscal Regional o al Abogado Jefe del Departamento de Concesiones" por la siguiente "Fiscal Regional de la Quinta Región o al Abogado Jefe del Departamento de Expropiaciones". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
