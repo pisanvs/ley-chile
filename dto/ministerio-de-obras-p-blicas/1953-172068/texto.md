@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.953, de 16 de mayo de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 12-1, para la obra Camino: Santiago - Colina - Los Andes. Sector: San José - Lo Pinto. Km. 2.080,00 a Km.
+
+4.760,00, Región Metropolitana, que figura a nombre de Flores Concha Santiago, rol de avalúo 166-389, comuna de Colina, superficie 331,0 m². La Comisión de Peritos integrada por los señores María Cristina Camus Palacios, Carmen Pilar Ríos Marcuello y Gustavo Domínguez Errázuriz, fijó con fecha 3 de enero de 2000, el valor provisional de la indemnización en la cantidad de $3.438.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
