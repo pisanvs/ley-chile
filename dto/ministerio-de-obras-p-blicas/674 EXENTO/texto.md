@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 674 de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 114, superficie 555 m², Rol de Avalúo Nº 206-51, comuna de Coelemu, para la obra ''Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 al Km. 8,28000'', VIII Región y se acordó el valor de indemnización con su propietaria Juana Baeza Hernández, ascendente a la cantidad de $1.488.764.-
+
+Fiscal del Ministerio de Obras Públicas.
