@@ -1,0 +1,3 @@
+Por resolución Nº 350 de 22 de febrero de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95105008 presentada por BETTY MARIBEL SOTO LLANO, X Región, para instalar y operar el centro de cultivo ubicado en caleta El Faro Guapilacui, comuna de Ancud, provincia de Chiloé, X Región.
+
+Valparaíso, 22 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
