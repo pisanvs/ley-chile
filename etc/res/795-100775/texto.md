@@ -1,0 +1,3 @@
+Por resolución Nº 795, de 29 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº95104072, presentada por JOSE BELARMINO ARISMENDI, para operar un centro de cultivo en Sector Aguantao, desembocadura Ensenada Codihue, comuna de Calbuco, provincia de Llanquihue, X Región, conforme lo dispuesto en el artículo 14 del D.S. Nº290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
