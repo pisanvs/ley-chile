@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 52, de 30 de enero de 1998, se expropió el lote de terreno N° l, superficie 3.790 m2., rol de avalúo 265-41, Comuna de Talagante, para la obra Camino Autopista Santiago-San Antonio, Sector Plaza de Peaje El Paico, Provincia de Talagante, y se acordó precio de la indemnización con don Miguel Zamorano Zamorano, ascendente a la cantidad de $14.301.944.-
+
+Fiscal del Ministerio de Obras Públicas.
