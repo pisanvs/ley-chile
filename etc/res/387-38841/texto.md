@@ -1,0 +1,3 @@
+AUTORIZA EXCEPCION DE REGIMEN DE CAMBIO DE SUJETO DEL IVA A DON AMERICO MONTENEGRO BRAVO
+
+La Dirección Regional Talca del S.I.I., por Resolución N° Ex. 0387 de 6 de diciembre de 1996, excepciona a contar del 1° del mes siguiente al de esta publicación, a don Américo Montenegro Bravo, RUT N° 8.930.628-0, del régimen de cambio de sujeto del IVA establecido en la Resolución N° Ex. 4325 de 12 de septiembre de 1996, de la Dirección Nacional, publicada en el Diario Oficial del día 17 de septiembre de 1996.
