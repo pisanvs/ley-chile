@@ -1,0 +1,5 @@
+Por Decreto M.O.P. N° 422, de 30 de abril de 1997, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N°294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropiaron los lotes de terreno N°s. 1, 2,3 y 4, para la obra Agua Potable Rural de Parga Recinto Captación Estanque Impulsión Aducción y Acceso, que figura a nombre de Suc. Amalia Winkler vda. de Muller, rol de avalúo 241-31, comuna de Fresia, X Región, superficies 144,30;
+
+1.620; 152,68 y 805,20 M", respectivamente. La Comisión de peritos compuesta por los señores Carlos Mera Santibañez, Mario Olivares Bustamante y Leopoldo Schumacher Guarda, fijó con fecha 24 de octubre de 1996, el valor provisional de las indemnizaciones en las cantidades de $ 28.860, para el lote 1; $ 486.000, para el lote 2; $ 61.072, para el lote 3 y $ 322.080, para el lote 4. Las indemnizaciones se pagarán al contado. la publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.168, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
