@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Resolución Nº 004, 6 enero 2005, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 1880, Rol de Avalúo Nº 763-13, comuna Concepción, superficie 40,50 metros cuadrados de terreno y 55,92 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.554, de aparente dominio de Inversiones e Inmobiliaria San Pedro, para ejecución programa "Mejoramiento Eje Vial Paicaví de Concepción", de la comuna de Concepción, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por María Pamela Mac-Guire Acevedo, arquitecto, Ricardo Echeverría Hohmann, arquitecto y Andrés Risso Caamaño, arquitecto, según informe de fecha 17 de diciembre de 2004, fijó monto provisional indemnización en $19.272.750.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
