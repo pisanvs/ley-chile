@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION EXENTA No. 350, DE 1985
+
+Por Resolución Exenta No. 350, de 29 de Octubre de 1985, la Subsecretaría de Telecomunicaciones estableció los procedimientos del proceso de examen para Aficionados a las Radiocomunicaciones. La citada Resolución define: la terminología utilizada en la Norma, la estructura de los exámenes, la calificación de los mismos, el procedimiento de inscripción, lugares y formas para rendir exámenes, la supervisión de la Subsecretaría y señala las sanciones pertinentes. La Subsecretaría de Telecomunicaciones proporcionará ejemplares de la citada Resolución a los organismos fiscales y semifiscales y a las instituciones o personas particulares que tengan relación con la materia de que trata.
+
+Italo Seccatore Gómez, Coronel, Subsecretario de Telecomunicaciones.
