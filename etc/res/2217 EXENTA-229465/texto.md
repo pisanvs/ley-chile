@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.217, de 18 de agosto de 2004, de esta Subsecretaría, deniégase la solicitud de ampliación de plazo presentada por PESQUERA EICOSAL LIMITADA para iniciar actividades en la piscicultura ubicada en río Tepu, sector Ensenada, y estero sin nombre, X Región, autorizada por resolución Nº 2.256, de 2003, de esta Subsecretaría, conforme con lo dispuesto por la letra e) del artículo 142 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
