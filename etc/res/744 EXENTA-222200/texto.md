@@ -1,0 +1,3 @@
+Por resolución exenta Nº 744, de 1 de marzo de 2004, de esta Subsecretaría, recházase la solicitud de modificación del proyecto técnico y cronograma de actividades para la concesión de acuicultura Nº 200111217 presentada por JOSE ARMANDO BORQUEZ CARDENAS, para el centro de cultivo ubicado en Estero Cupquelán, XI Región.
+
+Valparaíso, 1 de marzo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
