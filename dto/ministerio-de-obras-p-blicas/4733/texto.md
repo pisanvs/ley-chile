@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.733, de 27 de octubre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº107, para la obra:
+
+"Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector E: Km. 28.160,00 al Km. 30.200,00", Sexta Región, que figura a nombre de Sucesión Granger Marco, rol de avalúo 15-27, comuna de Olivar, superficie 9.029 m2. La comisión de peritos integrada por los señores Gustavo Antonio Domínguez Errázuriz, Jaime Rolando Jürgens Bittner y Carmen Pilar Ríos Marcuello, fijó con fecha 24 de mayo de 2000, el valor provisional de la indemnización en la cantidad de $66.841.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
