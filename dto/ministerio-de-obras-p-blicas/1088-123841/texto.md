@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.088, de 30 de julio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL. No. 206 de 1960, se expropió el lote de terreno No. 111, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, sector Km. 101.000,00 al 103.815,00, V Región, que figura a nombre de Soc. Agrícola La Florida Ltda., Rol de Avalúo No.
+
+57-4, de la comuna de Hijuelas, superficie 2.577 m2. La Comisión de Peritos, integrada por los Sres. Orlando Antonio Fariña Vásquez, Luis Humberto Toledo Fuenzalida y Tommy Cederic Butler Bustamante, fijó con fecha 28 de febrero de 1998 el valor provisional de la indemnización en la cantidad de $ 34.918.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
