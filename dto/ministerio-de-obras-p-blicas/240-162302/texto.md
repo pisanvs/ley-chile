@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 240, de 23 de Agosto de 1985, se expropió el lote N° 1 y se constituyó servidumbre de acueducto en los lotes N°s. 2 y 3, rol de avalúo 289-30, Comuna de San Fernando, VI Región, cuyas superficies son 33.660, 2.840 y 1.750 m2. respectivamente, para Mejoramiento del Sistema de Abastecimiento de Agua Potable de San Fernando, captación con drenes y aducción y se acordó el precio de indemnización total con su propietario don Bruno Margozzini Cella, ascendente a $ 7.431.976.-
+
+Fiscal del Ministerio de Obras Públicas.
