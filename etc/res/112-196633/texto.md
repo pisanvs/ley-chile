@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 112, de fecha 30 de noviembre del año 2001, se autorizó la existencia y se aprobó el estatuto de la Cooperativa de Trabajo Cooperativismo para la Danza Contemporánea Independiente, de nombre de fantasía "Compañía Movimiento de Danza Contemporánea", de Santiago, Región Metropolitana, en los términos que da testimonio el instrumento protocolizado con fecha 22 de octubre del año 2001, ante el Notario de Santiago, don Raúl Perry Pefaur, con el número 189.
+
+Por orden del Sr. Subsecretario.- Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
