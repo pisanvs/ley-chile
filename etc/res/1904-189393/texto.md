@@ -1,0 +1,5 @@
+Por resolución número 1.904, de 11 de septiembre de 2001, de esta Subsecretaría, rectifícase el párrafo 3º del extracto de la resolución Nº 835, de 2001, de esta Subsecretaría, que autorizó a PESQUERA LIGURE S.A., para continuar desarrollando actividades pesqueras con la nave "Guanaye 4", en el sentido de reemplazar la expresión: "c) Area marítima de la V a VII y X Regiones", por la expresión "c) Area marítima de la V a VII y IX Regiones''.
+
+Asimismo, rectifícase el numeral 1º de la resolución Nº 829, de 2001, de esta Subsecretaría, que autorizó a Pesquera Ligure S.A., antes individualizada, para continuar desarrollando actividades pesqueras con la nave "Montserrat'', en el sentido de señalar que la eslora de arqueo de dicha embarcación corresponde a 39,84 metros y no a la allí indicada.
+
+Valparaíso, 11 de septiembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
