@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 942, de 30 de septiembre de 1997, se expropió el lote de terreno Nº 51 , superficies 1.483 M2. rol de avalúo 402-7, comuna de Vicuña, para la obra Proyecto Embalse Puclaro Sector Variante a Ruta 41-CH, y se acordo precio de indemnización con su propietario doña Clotilda del Carmen Jeraldo Jeraldo, ascendente a la cantidad de $1.607.258.-
+
+Fiscal del Ministerio de Obras Públicas
