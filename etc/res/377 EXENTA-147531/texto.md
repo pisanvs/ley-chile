@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 377 de 31 de Marzo de 1987 conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que. corresponden a Sector Excluido y Sector Expropiado predios "Parte del Predio Rústico denominado Colliguay" y "Resto del predio Rústico denominado Fundo Colliguay" de la Comuna de Ñiquén, VIII Región; y. Derechos, Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 6, sitios N°s., 1 al 8, del Proyecto de Parcelación "El Modelo" formado por predios señalados. Los Derechos de Agua se extraen de los esteros Colliguay, Sesteadores y Monte Largo. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
