@@ -14490,7 +14490,7 @@ En concordancia con las disposiciones del artículo 70 de la Ley General de Banc
 
 - Según la letra a) del artículo 70:
 
-a) Intermediadoras de valores según las normas de la Ley N° 18.045, ya sea que actúen en calidad de agentes de valores o bien como corredores de bolsa.
+a) Intermediadoras de valores según las normas de la Ley N° 18.045, ya sea que actúen en calidad de agentes de valores o bien como corredores de bolsa, como asimismo las corredoras de bolsas de productos regidas por la Ley N° 19.220.
 
 b) Administradoras de fondos mutuos según las normas establecidas en el D.L. N° 1.328.
 
@@ -14500,7 +14500,7 @@ d) Administradoras de fondos de capital extranjero según las normas establecida
 
 e) Sociedades securitizadoras de títulos según las normas del Título XVIII de la Ley N° 18.045.
 
-f) Corredoras de seguros regidas por el D.F.L. N° 251, de 1931, con exclusión de los seguros previsionales. Estas sociedades deberán operar de acuerdo con las normas impartidas por la Superintendencia de Valores y Seguros, relativas a garantizar la independencia de sus actuaciones, atendida su relación con una institución financiera. Al respecto la ley prohíbe expresamente a las instituciones financieras condicionar el otorgamiento de créditos a la contratación de seguros a través de un corredor de seguros relacionado con ellas, como es el caso de las filiales de que se trata.
+f) Corredoras de seguros regidas por el D.F.L. N° 251, de 1931. Estas sociedades deberán operar de acuerdo con las normas impartidas por la Superintendencia de Valores y Seguros, relativas a garantizar la independencia de sus actuaciones, atendida su relación con una institución financiera. Al respecto la ley prohíbe expresamente a las instituciones financieras condicionar el otorgamiento de créditos a la contratación de seguros a través de un corredor de seguros relacionado con ellas, como es el caso de las filiales de que se trata.
 
 - Según la letra b) del artículo 70:
 
