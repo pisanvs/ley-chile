@@ -1,0 +1,7 @@
+AUTORIZA A PESQUERA MARES AUSTRALES LIMITADA PARA AMPLIAR ACTIVIDADES
+
+Por Resolución No. 607 de 29 de Mayo de 1989 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Mares Australes Limitada, R.U.T. No. 83.380.700-5, domiciliada en Puerto Montt, para ampliar actividades pesqueras, autorizadas por Resoluciones No. 816, de 1985 y No. 673, de 1988, ambas de esta Subsecretaría, en orden a capturar reproductores del recurso Salmón plateado, en el área de su concesión, Lago Llanquihue, X Región, con el objeto de obtener productos sexuales de la especie, destinada a reemplazar las importaciones de ovas, por ovas producidas en el país. Las ovas obtenidas serán incubadas en las pisciculturas que la peticionaria tiene autorizadas a operar.
+
+La interesada podrá extraer en el período comprendido entre la fecha de esta Resolución hasta el 31 de Julio de 1989, 400 ejemplares adultos de Salmón plateado, utilizando solamente redes de cerco en el Lago Llanquihue. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de Mayo de 1989.- Roberto Cabezas Bello Subsecretario de Pesca.
