@@ -1,0 +1,3 @@
+Por resolución Nº 797 de 2 de junio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 96103180, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES, ALGUEROS Y RAMOS SIMILARES de Curaco de VElez, Huenao, La Planchada y Changuitad de la comuna de Curaco de VElez, para operar un centro de cultivo en Curaco de Vélez, comuna de Curaco de Vélez, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14 del D.S. Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 2 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
