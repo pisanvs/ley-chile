@@ -2124,6 +2124,8 @@ a) Los intereses que el Banco del Estado de Chile debe pagar por los depósitos 
 
 b) Los intereses y reajustes que se paguen por las captaciones realizadas mediante la venta con pacto de recompra de los instrumentos que se señalan en el N° 3 del título III de este Capítulo, en cuyo caso el plazo mínimo es de cuatro días hábiles bancarios.
 
+c) Los intereses que se paguen sobre los saldos en cuentas corrientes y en cuentas a la vista, según lo establecido en los Capítulos III.G.1 y III B.1.1 del Compendio de Normas Financieras del Banco Central de Chile.
+
 2. Plazos mínimos para adquirir del público títulos de crédito que hayan sido emitidos o cedidos por alguna institución financiera.
 
 De acuerdo a lo señalado en el N° 2 del Capítulo III.B.1 del Compendio de Normas Financieras, quedan sujetos a plazos mínimos de 30 y 90 días, iguales a los mencionados en el N° 1 precedente, las adquisiciones de efectos de comercio que las instituciones financieras hagan a personas diferentes a bancos o sociedades financieras establecidos en Chile, en relación con la fecha del endoso o cesión.
@@ -2636,13 +2638,25 @@ b) El plan de cobro de comisiones que los bancos establezcan, no podrá hacer di
 
 El sistema de cobro y cálculo de comisiones que los bancos establezcan, así como las modificaciones que se hagan a dicho sistema, deberá ser comunicado por escrito a cada uno de los titulares de cuentas corrientes que puedan resultar afectados, por lo menos quince días antes de que comience a operar. Sin embargo, se podrá prescindir de ese aviso previo, cuando se trate de modificaciones que signifiquen la disminución o eliminación de las comisiones vigentes.
 
-6.- Prohibición de pagar intereses sobre depósitos en cuenta corriente.
+6.- Pago de intereses en cuenta corriente.
 
-Conforme a lo dispuesto en el artículo 8° de la Ley sobre Cuentas Corrientes Bancarias y Cheques los pagos de intereses por los saldos en cuentas corrientes deben regirse por las normas dictadas por el Banco Central de Chile.
+Las disposiciones del Banco Central de Chile permiten a los bancos pagar intereses sobre los saldos disponibles que se mantengan en cuentas corrientes.
 
-Las disposiciones del Capitulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, prohíben el pago de intereses sobre depósitos a la vista, salvo en los casos expresamente autorizados.
+6.1.- Condiciones para el pago de intereses.
 
-La prohibición antes mencionada no establece excepciones respecto de las cuentas corrientes. Por consiguiente, los bancos deben abstenerse de pagar intereses sobre los saldos mantenidos en dichas cuentas corrientes, salvo en los casos expresamente autorizados que se señalan en el N° 1 del título II del Capítulo 2-1 de esta Recopilación Actualizada de Normas.
+Los bancos podrán pagar intereses sobre los saldos mantenidos en cuentas corrientes, pudiendo exigir como único requisito para acceder a ese pago, la mantención de un determinado saldo promedio mensual disponible mínimo. Sin embargo, dentro de esa limitación pueden ofrecer distintas tasas, de acuerdo a los niveles de los saldos mínimos que se establezcan para el efecto.
+
+La estipulación del pago de intereses deberá constar en el contrato de cuentas corrientes que se suscriba para ese objeto entre el banco y el titular de la cuenta corriente. En ese documento deberá quedar establecida la condición que deberá cumplirse, en lo relativo a la exigencia de mantener un determinado saldo promedio mensual disponible mínimo para recibir el beneficio, como asimismo se estipulará la tasa de interés que se pagará y el abono mensual de los intereses resultantes. También deberá estipularse el medio por el cual se avisarán los cambios en la tasa de interés pactada o la eventual modificación de los saldos mínimos que darán derecho a ese pago.
+
+6.2.- Tasa de interés.
+
+La tasa de interés que se ofrezca pagar deberá expresarse en términos anuales (base 360 días) y se aplicará sobre los saldos disponibles en cada período mensual, debiendo abonarse los intereses correspondientes al inicio del mes siguiente a aquel en que fueron devengados, con valor al día 1° de ese mes.
+
+Las modificaciones a la tasa de interés y su aplicación, se regirán por lo dispuesto en el Capítulo III.G.1 del Compendio de Normas Financieras del Banco Central de Chile. En todo caso, los bancos deberán avisar a los respectivos cuentacorrentistas por carta o mediante anuncios destacados que colocarán en sus oficinas, dentro de los lugares en que habitualmente se atiende a esos clientes, los cambios de la tasa vigente. Ese aviso deberá darse con a lo menos cinco días de anticipación a la fecha en que comience la aplicación de la nueva tasa, salvo que se trate de un aumento de la tasa de interés pagada, caso en que podrá omitirse ese plazo.
+
+6.3.- Identificación de las cuentas que percibirán intereses.
+
+Las instituciones bancarias que resuelvan pagar intereses a sus clientes sobre los saldos disponibles en cuentas corrientes deberán mantener, para efectos de la información que podrá requerir esta Superintendencia, una separación entre aquellas cuentas corrientes cuyos titulares hayan contratado con el banco el pago de intereses, de aquellas otras que no se acogerán a ese beneficio. Esa separación no tendrá que ser necesariamente contable, pero sí deberá permitir extraer la información relativa a esas cuentas como, por ejemplo, el número de cuentas corrientes acogidas a ese pago, los saldos mantenidos afectos al pago, monto de intereses pagados y otros datos de carácter general que puedan necesitarse sobre las mismas.
 
 ### 7. Entrega de estados de movimiento y saldos de cuentas corrientes
 
@@ -2673,6 +2687,16 @@ Los depósitos en cuentas corrientes serán acreditados en la cuenta "Acreedores
 Los depósitos por consignaciones judiciales, a que se refiere el artículo 507 del Código Orgánico de Tribunales, se registrarán en la cuenta "Depósitos por consignaciones judiciales artículo 517", de la partida 3010 "Otros saldos acreedores a la vista".
 
 Con respecto al tratamiento contable de los créditos o sobregiros en cuentas corrientes, los bancos deben atenerse a lo dispuesto en el Capítulo 8-1 de esta Recopilación.
+
+11.- Información al público sobre pago de intereses.
+
+Los bancos que acuerden el pago de intereses por los saldos mantenidos en cuentas corrientes deberán publicar la tasa de interés que pagarán por esos saldos, expresada en términos anuales, sobre base de 360 días, como también el requisito de saldo mínimo que debe mantenerse para acceder al beneficio. Asimismo, deberán informar que el abono de los intereses se hará mensualmente, sobre la base de los saldos mantenidos en el mes precedente.
+
+En el caso que el banco, por otra parte, cobre comisiones por los servicios relacionados con las cuentas corrientes, según lo expresado en el número 5 precedente, y esos cobros afecten a las cuentas que devengan intereses, deberá complementarse la información sobre la tasa de interés, con la relativa a las comisiones que las afectan y los conceptos por los cuales se aplican (administración de la cuenta, entrega de "cartola", uso de cajero automático, etc ), como también la periodicidad de su cobro.
+
+En la publicidad que se haga en medios escritos deberá incluirse la misma información antedicha Cuando se trate de publicidad en medios audiovisuales se podrá informar la tasa nominal ofrecida adicionada, si fuere del caso, según lo expresado en el párrafo precedente, de una leyenda que recomiende informarse sobre las comisiones a que están afectos los servicios relacionados con esas mismas cuentas.
+
+Por otra parte, los bancos que mantengan una página "web", deberán presentar en ella, en un sitio que sea de fácil acceso y ubicación, la información sobre los intereses que se pagan por los saldos en cuentas corrientes y las condiciones bajo las cuales se tiene derecho a ese pago. Deberán incorporar, a modo ilustrativo, uno o más ejemplos que muestren la rentabilidad neta que se obtiene por aplicación de la tasa de interés ofrecida, menos los gastos por concepto de las comisiones cobradas en relación con los servicios asociados a la cuenta corriente, cuando fuere el caso.
 
 ### III. EL CHEQUE
 
@@ -3310,13 +3334,15 @@ a) Son en moneda nacional, reajustables por la variación de la unidad de foment
 
 b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o jurídicas.
 
-c) El titular puede realizar hasta cuatro giros en cada período de doce meses, sin perder el derecho a reajuste.
+c) El titular puede realizar hasta cuatro giros en cada período de doce meses, sin perder el derecho a reajuste y hasta seis giros en el mismo período, sin perder el derecho a intereses.
 
 d) El reajuste se puede abonar trimestralmente o anualmente y los intereses se abonan cada doce meses.
 
 e) Los giros son pagaderos a la vista.
 
 f) Las instituciones financieras pueden cobrar comisiones por el manejo de las cuentas.
+
+g) Los bancos no podrán hacer cargos a estas cuentas de ahorro a plazo relativos a cobro de cheques u otros conceptos relacionados con cuentas corrientes.
 
 2.2.2. Cuentas de ahorro a plazo con giro diferido.
 
@@ -3482,7 +3508,7 @@ Las instituciones financieras deben ceñirse a las siguientes instrucciones resp
 
 a) Los giros mediante cajeros automáticos podrán estar limitados por el monto máximo diario que permita el sistema para expender dinero efectivo y, cuando se utilicen sistemas de transferencia electrónica de fondos, el titular podrá transferir hasta la totalidad del saldo disponible. Con todo, cuando se trate de cuentas de ahorro con giro diferido, los sistemas deberán contemplar las limitaciones en la cantidad o monto de los giros en concordancia con lo señalado en el numeral 7.2 siguiente.
 
-b) A través del terminal desde donde opere el titular, se deberá originar una advertencia cuando se realice el último giro posible de efectuar en la cuenta, sin perder los reajustes, o bien cuando el giro esté afectando a depósitos que tienen menos de 90 días, que por esa circunstancia perderán los reajustes, según corresponda. En el caso de cajeros automáticos, dicha advertencia deberá quedar registrada en la papeleta donde conste el giro. El sistema deberá contemplar, además, una instancia de confirmación del usuario para realizar un giro con el cual perderá el derecho a reajustes, de manera que pueda dejar sin efecto la operación si lo estima necesario.
+b) A través del terminal desde donde opere el titular, se deberá originar una advertencia cuando se realice el último giro posible de efectuar en la cuenta, sin perder los reajustes o los intereses en su caso, o bien cuando el giro esté afectando a depósitos que tienen menos de 90 días, que por esa circunstancia perderán los reajustes, según corresponda. En el caso de cajeros automáticos, dicha advertencia deberá quedar registrada en la papeleta donde conste el giro. El sistema deberá contemplar, además, una instancia de confirmación del usuario para realizar un giro con el cual perderá el derecho a reajustes o los intereses en su caso, de manera que pueda dejar sin efecto la operación si lo estima necesario.
 
 7.2. Aviso previo para efectuar giros en cuentas de ahorro a plazo con giro diferido.
 
@@ -3502,7 +3528,7 @@ a) Cuentas de ahorro a la vista.
 
 Las cuentas de ahorro a la vista no tienen limitación alguna en relación al número de giros que pueden efectuarse.
 
-b) Cuentas de ahorro a plazo con giro Incondicional.
+b) Cuentas de ahorro a plazo con giro Incondicional. Asimismo se podrán efectuar hasta seis giros en el período de doce meses, sin perder los intereses del período.
 
 En las cuentas de ahorro a plazo con giro incondicional se puede girar hasta cuatro veces durante el período de doce meses, sin perder los reajustes del período respectivo, salvo que para esos efectos se pacte una cantidad de giros inferior, según se señala en la letra d) de este numeral.
 
@@ -3592,6 +3618,8 @@ Las instituciones financieras deberán anunciar las tasas de interés vigentes s
 
 Cuando la institución financiera resuelva disminuir la tasa de interés que pagará a las cuentas de ahorro a plazo, el aviso de que se trata deberá incluir también un anuncio de la nueva tasa, con una anticipación mínima de cinco días a la fecha de inicio del mes en que comenzará a regir Del mismo modo, si la institución financiera resuelve aumentar las comisiones, anunciará en el mismo aviso las nuevas comisiones, al menos con diez días de anticipación al inicio del trimestre siguiente.
 
+Igualmente deberá informarse del número de giros que se pueden realizar en cada período de doce meses sin perder el derecho a reajustes como también de los intereses, en el caso de las cuentas con giro incondicional.
+
 14.3. Información a los titulares de las cuentas sobre comisiones cobradas.
 
 Las instituciones financieras que resuelvan, ya sea implantar el cobro de comisiones a las cuentas de ahorro, aumentar el valor de las comisiones vigentes o aumentar su frecuencia de cobro, deberán enviar un aviso a cada uno de los titulares de las cuentas afectadas con dicha medida. Ese aviso deberá remitirse al domicilio del ahorrante o a la dirección que éste haya indicado, con una anticipación no menor á diez días ni mayor a treinta días corridos, al inicio del trimestre en que se aplicará la nueva modalidad de cobro.
@@ -3640,7 +3668,7 @@ Las instituciones financieras que cobren comisiones o que establezcan montos mí
 
 En toda publicidad que comprenda cuentas de ahorro con giro incondicional en moneda chilena, las instituciones financieras deberán señalar la periodicidad en que se abonan los reajustes, esto es, si trimestral o anualmente, o cuáles son los requisitos que se exigen para pactar una periodicidad trimestral en caso que se ofrezcan ambas modalidades.
 
-Por otra parte, si la publicidad se refiere exclusivamente a cuentas de ahorro sin libreta, deberá señalarse expresamente que se trata de una "Cuenta de ahorro sin libreta".
+Por otra parte, si la publicidad se refiere exclusivamente a cuentas de ahorro sin libreta, deberá señalarse expresamente que se trata de una "Cuenta de ahorro sin libreta.
 
 ### 15. Normas contables
 
@@ -4266,7 +4294,7 @@ Para abrir y mantener cuentas de depósito a la vista conforme a las normas del 
 
 Las "Cuentas a la vista" tienen las siguientes características básicas:
 
-a) Son en moneda nacional y no devengan reajustes ni intereses. No obstante, los bancos podrán mantener cuentas a la vista en moneda extranjera, debiendo cumplirse las condiciones que se indican en el numeral 2.10 al tratarse de depositantes residentes en el exterior.
+a) Son en moneda nacional y no devengan reajustes, pudiendo convenirse el pago de intereses en los términos establecidos por el Banco Central de Chile en el Capítulo III.B.1.1 de su Compendio de Normas Financieras. Los bancos podrán mantener cuentas en moneda extranjera, las que no devengarán intereses ni reajustes, debiendo cumplirse las condiciones que se indican en el numeral 2.10 al tratarse de depositantes residentes en el exterior.
 
 b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o jurídicas.
 
@@ -4280,7 +4308,7 @@ Para la apertura de "Cuentas a la vista" se deberá suscribir un contrato entre 
 
 Entre las condiciones que constarán en el contrato, deberán incluirse las siguientes:
 
-a) La especificación de que se trata de una cuenta de depósito a la vista que no devenga reajustes ni intereses.
+a) La especificación de que se trata de una cuenta de depósito a la vista que no devenga intereses ni reajustes No obstante, tratándose de cuentas en moneda nacional podrá convenirse el pago de intereses, según lo señalado en la letra a) del numeral 2.1 anterior, caso en que deberá dejarse expresa constancia de ello y de las condiciones que regirán el devengo de intereses debiendo, además, mantenerse una identificación que permita distinguir estas cuentas, de aquéllas que no devengarán intereses.
 
 b) La facultad de la institución financiera de poner término a la cuenta, así como la manera en que los fondos quedarán a disposición del titular si se ejerciera dicha facultad y la forma en que se avisará a este último del cierre de la cuenta.
 
@@ -4289,6 +4317,8 @@ c) El derecho de la institución financiera de cobrar comisión y la manera en q
 d) Los procedimientos que debe seguir el titular en caso de extravío de la tarjeta que permite el acceso al sistema automatizado, si la cuenta se encuentra adscrita a tal sistema.
 
 En los contratos las instituciones financieras pueden convenir con los titulares las demás condiciones que estimen pertinentes, siempre que no se opongan a lo dispuesto en el Capítulo III.B.1.1 del Compendio de Normas Financieras del Banco Central de Chile, ni a las normas de esta Superintendencia.
+
+En el caso de acordarse el pago de intereses por los saldos mantenidos en estas cuentas, deberá agregarse en el correspondiente contrato una cláusula que estipule dicho pago y si éste fuere condicionado a la mantención de un determinado saldo mínimo promedio mensual, deberá señalarse tal condición, indicando el monto de éste, así como la tasa de interés que se devengará.
 
 Además de las condiciones generales que deben señalarse en el contrato, las instituciones financieras deberán informar a los titulares, al momento de la apertura de la cuenta, la situación que la afecta en caso de fallecimiento del titular y los límites de garantía estatal a los depósitos, acorde con lo establecido en el Capítulo 18-8 de esta Recopilación, lo que también podrá quedar señalado, a modo de información, en los respectivos contratos.
 
@@ -4313,6 +4343,18 @@ En todo caso, cuando se trate de cuentas abiertas a nombre de personas jurídica
 2.2.3.- Depósito inicial.
 
 Simultáneamente con la apertura de la cuenta debe efectuarse el depósito inicial.
+
+2.2.4.- Información al Público.
+
+Las instituciones financieras que acuerden el pago de intereses por los saldos mantenidos en cuentas a la vista en moneda nacional, deberán informar en pizarra la tasa de interés que pagarán por esos saldos, expresada en términos anuales, sobre base de 360 días, como también las condiciones que puedan exigirse para recibir ese beneficio como, por ejemplo, el requisito de mantener un determinado saldo mínimo. Asimismo, deberán informar que el abono de los intereses se hará mensualmente, calculados sobre los saldos mantenidos en el mes precedente.
+
+En el caso que la institución financiera cobre, por otra parte, comisiones por los servicios relacionados con esas cuentas, según lo indicado en el numeral 2.6 del presente título, y esos cobros afecten a las cuentas que devengan intereses, deberá complementarse la información sobre la tasa de interés, con la relativa a las comisiones que las afectan y los conceptos por los cuales se aplicarán (administración de la cuenta, entrega de "cartola", uso de cajero automático, etc.). En los casos que proceda, deberá informarse la periodicidad que cubre cada cobro, de modo que los interesados puedan tener conocimiento tanto del beneficio que reciben por los intereses que se le abonarán, como de los costos que deban pagar por concepto de las distintas comisiones, sea por la mantención de la cuenta como por las operaciones que se efectúan en relación con ella.
+
+Sin perjuicio de esa información general, las instituciones depositarías deberán informar mediante avisos en sus oficinas, con una anticipación mínima de cinco días a la fecha de su vigencia, cualquier cambio que se haga a las tasas de interés vigentes Ese aviso podrá omitirse cuando se trate de un aumento de la tasa vigente.
+
+En la publicidad que se haga en medios escritos deberá incluirse la misma información antedicha. Cuando se trate de publicidad en medios audiovisuales se podrá informar la tasa nominal ofrecida adicionada, en los casos que corresponda, de una leyenda que recomiende informarse sobre las comisiones a que están afectas las cuentas a la vista.
+
+Por otra parte, las instituciones que mantengan una página "web", deberán presentar en ella, en un sitio que sea de fácil acceso y ubicación, la información a que se refiere este numeral, incluyendo a modo ilustrativo, uno o más ejemplos que muestren la rentabilidad neta que se obtiene por aplicación de la tasa de interés ofrecida, menos los gastos a que, por concepto de comisiones pudieren estar afectas esas cuentas.
 
 2.3.- Utilización de sistemas de transferencia electrónica de fondos.
 
@@ -4382,7 +4424,7 @@ En todo caso, el banco que proceda a abrir una cuenta de esta naturaleza, deber�
 
 Las "Cuentas a la Vista" utilizadas para operar tarjetas de débito, quedan sujetas a las instrucciones complementarias señaladas en el Capítulo 2-15 de esta Recopilación Actualizada de Normas.
 
-Como es natural, las cuentas de que trata este título están sujetas a todas las instrucciones generales relativas a depósitos y captaciones, tales como las relativas al encaje, reserva técnica, prohibición de ofrecer beneficios apreciables en dinero a los titulares, etc.
+Como es natural, a las cuentas de que trata este título les son aplicables todas las instrucciones generales que afectan a depósitos y captaciones, tales como las relativas al encaje, reserva técnica, prohibición de ofrecer otros beneficios apreciables en dinero a los titulares, distintos al pago de intereses en los casos que corresponda, etc.
 
 Por las razones expresadas en el Capítulo 2-4 de esta Recopilación para las cuentas de ahorro, también resulta aplicable para las "Cuentas a la vista" la recomendación de esta Superintendencia en orden a abstenerse de recibir su saldo en garantía, la que, en todo caso, no es válida para los efectos de los límites de crédito del artículo 84 de la Ley General de Bancos.
 
