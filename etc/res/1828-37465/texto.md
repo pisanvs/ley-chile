@@ -1,0 +1,3 @@
+Por Resolución N° 1.828, de 25 de octubre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, se deniega la solicitud de concesión de acuicultura presentada por VICTOR ARNOLDO BARRIA BARRIA, para un centro de cultivo ubicado al Weste de isla Traiguén, Comuna de Aysén, Provincia de Aysén, XI Región, en virtud de lo dispuesto en los artículos 78° y 87° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 25 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
