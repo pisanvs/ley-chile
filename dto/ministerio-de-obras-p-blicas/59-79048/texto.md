@@ -1,0 +1,3 @@
+Por Decreto M.O.P No. 59, de fecha 27 de Febrero de 1992, se expropiaron los lotes de terrenos Nos. 6,7 y 11, superficies 368 M2., 552 M2. y 725 M2., respectivamente, rol de avalúo 548-17, Comuna de Curicó, para la obra Camino Longitudinal Sur Sector Romeral-Molina, Acceso Los Niches a Planta Iansa y se acordó precio de indemnización con su propietario don Luis Manieu del Canto, ascendente a la cantidad de $ 2.245.941.
+
+Fiscal del Ministerio de Obras Públicas.
