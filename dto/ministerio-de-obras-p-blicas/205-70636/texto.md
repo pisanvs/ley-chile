@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 205, de 28 de febrero de 1997, se expropió el lote de terreno Nº 13-A, superficie 678 M2, rol de avalúo en trámite, comuna de Rengo, para la obra Camino Ruta H-521, sector Ruta 5 - Fundo El Rincón por Lo De Lobos y se acordó precio de la indemnización con su propietario Sociedad Agrícola Los Boldos Ltda., ascendente a la cantidad de $3.333.360.
+
+Fiscal del Ministerio de Obras Públicas.
