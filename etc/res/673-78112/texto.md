@@ -1,0 +1,5 @@
+Por Resolución No. 673 de 23 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2° de la Resolución No. 466, de 1992, de esta Subsecretaría, que autorizó a PESQUERA CANDELARIA LIMITADA, R.U.T. No. 78.051.620-8, domiciliada en Santiago, calle Teatinos No. 630, Of. 44, para operar una planta industrial ubicada en calle, Jotabeche No. 1319, Comuna de Estación Central, en el sentido de incorporar en las líneas de proceso de Fresco, fresco - refrigerado y congelado, los siguientes recursos hidrobiológicos: Pejeperro, Centollón, Picoroco, Erizo y Piure.
+
+El recurso Centollón deberá provenir de zonas no afectas a restricción, lo que acreditará mediante Guía de libre tránsito emitida por el Servicio Nacional de Pesca.
+
+Valparaíso, 23 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
