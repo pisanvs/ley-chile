@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.204, de 31 de marzo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº35-A, para la obra Camino Ruta L-32, sector Cruce Ruta 5-Puente Sifón Tramo Km. 2.320 al 17,66644 y Km. 0,000 al 0,963, Variante, que figura a nombre de Sara Cisterna Yáñez y otro, rol de avalúo 528-57, comuna de Linares, VII Región, superficie 376 m². La Comisión de Peritos, fijó con fecha 10 de enero de 2000, en la cantidad de $848.700. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
