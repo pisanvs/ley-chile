@@ -1,0 +1,1 @@
+Reemplaza el Escalafón de Administrativos de la planta de empleados civiles de la Armada.
