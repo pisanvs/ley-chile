@@ -1,0 +1,3 @@
+Por resolución Nº 519, de 14 de abril de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA MARBELLA S.A., para continuar desarrollando las actividades pesqueras autorizadas a Pesquera Marbella Limitada, en virtud de la escritura pública y disposiciones legales.
+
+Valparaíso, 14 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
