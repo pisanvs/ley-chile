@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 137 del 1° de Diciembre de 1992, se adjudica a Alberto Barroso Aránguiz la concesión para operar, hasta el 14 de Febrero de 1995, un establecimiento ubicado en calle Diego Portales 9144 comuna de Melipilla, destinado a la revisión técnica de automóviles, station wagons, motocicletas, vehículos de carga de menos de 1750 kg. de capacidad de carga útil y sus remolques, en la forma y condiciones que se señalan en el contrato que se aprueba.
+
+Juan Fuentes Isla, Secretario Regional Ministerial Transportes y Telecomunicaciones, Región Metropolitana, Subrogante.
