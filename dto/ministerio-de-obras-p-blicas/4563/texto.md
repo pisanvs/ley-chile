@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.563, de 29 de septiembre del 2000, se expropió el lote de terreno Nº5, superficie 1.500 m2., rol de avalúo 51-96, comuna de San Esteban, para la obra Camino Ruta E-755, Sector San Esteban - Lo Calvo, Tramo Km. 0.000 a Km. 7.001,80 y se acordó precio de la indemnización con su propietario Juan Isidoro Arancibia Salinas, ascendente a la cantidad de $3.468.089.-
+
+Fiscal del Ministerio de Obras Públicas.
