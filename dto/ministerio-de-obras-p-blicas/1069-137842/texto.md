@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.069 de fecha 29 de abril de 1999, se expropió el lote de terreno Nº 544, superficie 4.369,0 m2., rol de avalúo 538-101, comuna de La Unión, para la obra ''Concesión Internacional Ruta 5 Tramo Temuco-Río Bueno Km. 878.73250 a Km. 880,12940'' y se acordó el valor de indemnización con su propietario Oscar Soto Coronao, ascendente a la cantidad de $3.000.912.
+
+Fiscal del Ministerio de Obras Públicas.
