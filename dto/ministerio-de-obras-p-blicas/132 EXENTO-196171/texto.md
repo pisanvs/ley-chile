@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 132, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 27-A, superficie 96,00 m2, rol de avalúo 604-31, comuna de Molina, VII Región, para la obra "Camino Ruta K-175 - Molina - Siete Tazas - Sector Molina - Bif. Ruta K-179, Tramo Km. 0,000.00 al 8.400.00", y se acordó el valor de indemnización con su propietario Sixto del Carmen Corvalán Donoso, ascendente a la cantidad de $510.048.
+
+- Fiscal del Ministerio de Obras Públicas.
