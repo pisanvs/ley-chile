@@ -1,0 +1,409 @@
+MODIFICA LEYES DE CONTROL APLICABLES POR EL MINISTERIO DE AGRICULTURA, ESTABLECE NORMAS SOBRE ACTIVIDADES APICOLAS Y SANCIONA LA EXPLOTACION ILEGAL DE MADERAS
+
+Santiago, 22 de Enero de 1968.- Hoy se decretó lo que sigue:
+
+Núm. 15.- Vistos: las facultades que me confiere el artículo 321 de la ley N° 16.640, vengo en dictar el siguiente:
+
+Decreto con fuerza de ley:
+
+#### Artículo 1
+
+o- Introdúcense las siguientes modificaciones a la ley número 9.006:
+
+1) Reemplázanse las letras e) y g) del artículo 2.o por las siguientes:
+
+"e) Eliminación, la destrucción en una partida total de los individuos o parte de ellos que puedan albergar, transportar o constituir por sí mismos plagas de los vegetales.
+
+"g) Criadero de Plantas o Vivero de Plantas: toda porción de terreno o medio de cultivo dedicado a la multiplicación de plantas, a la crianza o a su conservación en barbecho."
+
+2) Reemplázase el artículo 4.o por el siguiente:
+
+#### Artículo 4
+
+o- Por resolución del Ministerio de Agricultura, previo informe del Servicio Agrícola y Ganadero, se podrá ordenar la destrucción de los productos vegetales u organismos que puedan portar o constituir plagas de la agricultura en cualquier sitio en que éstos existan o se almacenen, si se comprobare que puedan constituir un peligro para dicha actividad"
+
+3) Reemplázase el artículo 6.o por el siguiente:
+
+#### Artículo 6
+
+o- La declaración de control obligatorio de una plaga obliga a los propietarios, arrendatarios o tenedores de predios ubicados en la zona afectada a poner en práctica, con sus propios elementos, las medidas sanitarias o técnicas que el mismo decreto indique.
+
+Si dichas personas no quisieren o no pudieren efectuar los tratamientos, o no los realizaren con la oportunidad o eficiencia necesarias, los ejecutará el Servicio Agrícola y Ganadero, con auxilio de la fuerza pública si fuere menester, siendo el costo de la ejecución de cuenta de los propietarios, arrendatarios o tenedores de los predios respectivos quienes estarán obligados a facilitar la labor de los funcionarios y a cooperar en su acción.
+
+Cuando las medidas sanitarias o técnicas sean ejecutadas por el Servicio Agrícola y Ganadero, corresponderá a éste determinar el monto de los gastos realizados, por medio de una liquidación que deberá ponerse en conocimiento de los afectados, mediante carta certificada.
+
+Se entenderá que dicha liquidación ha sido notificada desde el momento en que la carta certificada haya sido depositada en la respectiva Oficina de Correos, no procediendo reclamo alguno de la notificación así practicada.
+
+La liquidación del Servicio Agrícola y Ganadero que determine el monto de los gastos realizados con ocasión de las medidas ejecutadas, constituirá título ejecutivo una vez vencido el plazo de quince días corridos sin que se haya interpuesto reclamo.
+
+Las personas afectadas podrán reclamar de la liquidación practicada dentro de quince días corridos, contados desde la fecha de su notificación. El reclamo se resolverá por el Servicio Agrícola y Ganadero, previo cumplimiento de las diligencias que este organismo estime necesarias.
+
+La resolución que recaiga en el reclamo interpuesto, señalará el monto de los gastos realizados con ocasión de las medidas ejecutadas y constituirá título ejecutivo desde que se notifique por carta certificada, aplicándose a esta notificación lo dispuesto en el inciso cuarto de este artículo.
+
+Ejecutoriada que sea la liquidación en el caso del inciso quinto de este artículo, o notificada que sea la resolución señalada en el inciso anterior, se aplicarán las disposiciones que reglamentan la competencia y el procedimiento en los juicios sobre cobro de dinero del Departamento Hipotecario del Banco del Estado de Chile.
+
+No obstante, cuando a juicio del Servicio Agrícola y Ganadero concurra causa justificada, el total o parte del monto de los gastos causados para ejecutar las medidas sanitarias o técnicas será de cargo del Servicio.
+
+Cuando se produzcan perjuicios, el Servicio Agrícola y Ganadero pagará al afectado, a título de indemnización, una cantidad que será determinada por una comisión integrada por las siguientes personas.
+
+A) Un Ingeniero Agrónomo del Servicio Agrícola y Ganadero;
+
+B) Un Ingeniero Agrónomo que esté encargado de la campaña sanitaria en la zona respectiva, y
+
+C) Un representante de los agricultores.
+
+Estas personas y sus respectivos suplentes serán designados por el Director Ejecutivo del Servicio Agrícola y Ganadero. El representante de los agricultores será nombrado entre las personas que proponga la sociedad agrícola regional, las asociaciones de agricultores y las cooperativas agrícolas de la zona. Si estas organizaciones no hicieren las propuestas dentro del plazo que les señale el Director Ejecutivo del Servicio Agrícola y Ganadero, podrá éste designar libremente a dicho representante.
+
+Las leyes anuales de presupuestos consultarán los fondos necesarios para el pago de estas indemnizaciones."
+
+4) Reemplázase el artículo 8° por el siguiente:
+
+#### Artículo 8°
+
+Cuando en una zona del país se declare el control obligatorio de una plaga de la agricultura, el Presidente de la República podrá prohibir o regular, mediante decreto, la siembra, plantación, explotación, cosecha, circulación, almacenaje, transporte y distribución de los productos vegetales al natural o elaborados que puedan favorecer la mantención y dispersión de las plagas dentro o fuera de las zonas afectadas, o bien ordenar que sean sometidos a tratamientos especiales."
+
+5) Substitúyese el inciso 2° del artículo 9° por el siguiente: "Corresponderá al Servicio Agrícola y Ganadero determinar, en casos particulares, las malezas o productos vegetales que se relacionen con estas medidas, los predios o zonas en que deban aplicarse y la forma de llevarlos a cabo."
+
+6) Agréganse en el artículo 10°, a continuación de las expresiones "molinos de cereales y otros granos", las siguientes: "Como asimismo, otros establecimientos o instalaciones para tipificar, embalar, normalizar, transformar o industrializar productos vegetales."
+
+7) Substitúyense los incisos primero y segundo del artículo 11° por los siguientes: "El Presidente de la República podrá ordenar la paralización total o parcial de las actividades y empresas artesanales, industriales, fabriles y mineras que lancen al aire humos, polvos o gases, o que vacien productos y residuos en las aguas, cuando se comprobare que con ello se perjudica la salud de los habitantes, se alteran las condiciones agrícolas de los suelos o se causa daño a la salud, vida, integridad o desarrollo de los vegetales o animales. Dichas empresas estarán obligadas a tomar las medidas necesarias para evitar aquellos males en conformidad a los procedimientos técnicos que señale el Presidente de la República por intermedio del Ministerio de Agricultura o del Ministerio de Salud Pública, según sea el caso, el cual deberá fijar un plazo prudencial para la ejecución de las obras.
+
+Si como consecuencia de alguno de los hechos enumerados en el inciso anterior, estas empresas causaren daños a terceros, estarán obligadas a pagar la indemnización correspondiente. Las acciones que se deduzcan se tramitarán de acuerdo con las normas del procedimiento sumario a que se refiere el Título XI del Libro III del Código de Procedimiento Civil. Para el avalúo de los perjuicios, el tribunal deberá oír informe de peritos".
+
+8) Agrégase el siguiente inciso final al artículo 11°.
+
+"La aplicación del presente artículo corresponderá al Ministerio de Agricultura."
+
+9) Reemplázase el artículo 12°, por el siguiente:
+
+#### Artículo 12°
+
+Las empresas que no se conforman con la resolución del Presidente de la República podrán reclamar de ella dentro del plazo de 10 días, ante la Corte de Apelaciones respectiva.
+
+Contra la resolución de la Corte de Apelaciones procederá el recurso de apelación para ante la Corte Suprema.
+
+En estos recursos será siempre parte el Servicio Agrícola y Ganadero o el Servicio Nacional de Salud, según sea el Ministerio de Agricultura o de Salud Pública el que haya dictado el decreto reclamado.
+
+La interposición del reclamo a que se refiere el presente artículo, no suspenderá la aplicación de las medidas decretadas en virtud del artículo 11°."
+
+10) Reemplázase el artículo 15° por el siguiente:
+
+#### Artículo 15°
+
+Todo propietario, arrendatario u ocupante de un predio en que existan o se establezcan criaderos o viveros de productos vegetales, deberá declarar su existencia al Servicio Agrícola y Ganadero en la forma y plazo que se fijen en el Reglamento.
+
+Igual declaración deberán hacer los dueños de depósitos o almacenes de productos vegetales destinados a la venta al público."
+
+11) Reemplázase el artículo 29 por el siguiente.
+
+#### Artículo 29°
+
+Las Aduanas, Correos o cualquier otro organismo del Estado, no podrán despachar ninguna "Mercadería peligrosa para los vegetales" sino cuando el Servicio Agrícola y Ganadero haya dado el visto bueno a las pólizas o a otros documentos de internación".
+
+12) Reemplázase el artículo 30 por el siguiente:
+
+#### Artículo 30°
+
+Los productos vegetales destinados al consumo o rancho de los tripulantes o pasajeros de las naves, trenes, aviones, vehículos o medios de transportes procedentes del extranjero podrán ser revisados por el Servicio Agrícola y Ganadero en los puertos marítimos, terrestres o aéreos nacionales o en cualquier otro lugar habilitado, y quedarán sometidos a las disposiciones de esta ley. Estos productos deberán venir en cámaras o recintos especiales o independientes de las mercaderías que tales vehículos transporten.
+
+A la recepción en puerto o lugar habilitado de los medios de transporte a que se refiere el inciso anterior, estarán obligados a concurrir los funcionarios del Servicio Agrícola y Ganadero, junto a las autoridades marítimas, aduaneras u otras correspondientes sin formar parte de la Comisión Receptora. Estas autoridades estarán obligadas a otorgar a los representantes de dicho Servicio las facilidades necesarias para el cumplimiento de su labor fiscalizadora."
+
+13) Suprímese en el inciso primero del artículo 33 la palabra "Tales".
+
+#### Artículo 2°
+
+Introdúcense las siguientes modificaciones al decreto con fuerza de ley N° RRA. 17, de 1963:
+
+1) Suprímese en el inciso primero del artículo 2°, las palabras "tipo fundación", "registrada" y "certificada".
+
+2) Suprímese en el artículo 7°, las palabras "genética o certificada."
+
+3) Intercálase en el artículo 11°, a continuación de la expresión "Queda prohibida la", la palabra "exportación", seguida de una coma.
+
+4) Agrégase el siguiente artículo nuevo, a continuación del artículo 22:
+
+#### Artículo 22 bis
+
+Las disposiciones del presente decreto con fuerza de ley, referentes al mercado interno de semillas, regirán en todas sus partes para el comercio exterior, en lo que sean aplicables. Cada partida de semillas que se exporte deberá contar con la aprobación previa del Servicio Agrícola y Ganadero, que se concederá en la forma que determine el Reglamento."
+
+#### Artículo 3°
+
+Introdúcense las siguientes modificaciones a la ley 15.703, sobre Pesticidas.
+
+1) Reemplázase el artículo 6° por el siguiente:
+
+#### Artículo 6°
+
+Toda persona que ordene aplicar un pesticida deberá indemnizar a terceros los perjuicios que le ocasione la aplicación. Las personas naturales o jurídicas que apliquen un pesticida responderán, solidariamente, con el dueño del predio, arrendatario, mediero o mero tenedor que las haya contratado, de los daños que a los predios vecinos cause la aplicación.
+
+Las personas naturales o jurídicas que apliquen pesticidas por cuenta de un tercero, responderán también de los daños causados por su culpa en los sembrados, plantaciones o animales del agricultor que haya contratado sus servicios.
+
+Los fabricantes, importadores y distribuidores responderán, asimismo, de los perjuicios causados por la aplicación del pesticida, cuando tales perjuicios se deban a hecho o culpa de aquellos, como en los casos de mala calidad del pesticida y falta o error de las instrucciones para su aplicación.
+
+La acción para obtener la indemnización de los perjuicios provenientes de la aplicación de pesticidas se tramitará por la Justicia Ordinaria, de acuerdo con las normas del procedimiento sumario a que se refiere el Título XI, del Libro III, del Código de Procedimiento Civil. En estos juicios se litigará siempre sobre la especie y monto de los perjuicios."
+
+2) Substitúyense los incisos 2° y 3° del artículo 8° por los siguientes:
+
+Tratándose de aplicaciones de pesticidas por medios aéreos, esta información deberá ser proporcionada al Servicio Agrícola y Ganadero, con diez días hábiles de anticipación a lo menos, por la persona natural o jurídica a quien se le haya encargado su ejecución.
+
+El Servicio Agrícola y Ganadero, basándose en antecedentes técnicos, podrá prohibir o suspender la aplicación en los casos que se determine en el Reglamento."
+
+3) Reemplázase el artículo 14° por el siguiente:
+
+#### Artículo 14°
+
+Las acciones para reclamar perjuicios causados por la aplicación de pesticidas prescribirán en seis meses contados desde que se produjeron."
+
+#### Artículo 4°
+
+Introdúcense las siguientes modificaciones al decreto con fuerza de ley RRA. N° 16, de 1963:
+
+1) Agrégase, a continuación del artículo 2°, el siguiente artículo nuevo:
+
+#### Artículo 2° bis
+
+El Servicio Agrícola y Ganadero establecerá los registros de producción de carne, leche, lana, pelo, huevos y otros productos pecuarios, que estime necesarios para las distintas especies y razas animales y fijará las normas por las que dichos registros se regirán.
+
+Corresponderá al Servicio Agrícola y Ganadero supervigilar el cumplimiento de dichas normas, pudiendo, además, llevar los registros de producción de aquellas especies que estime convenientes."
+
+2) Reemplázase el artículo 3°, por el siguiente:
+
+#### Artículo 3°
+
+Para importar animales, aves, productos, subproductos y despojos de origen animal, será necesario contar con el informe favorable del Servicio Agrícola y Ganadero y cumplir con las exigencias tanto de orden sanitario, como de calidad, que se especifiquen en cada caso.
+
+En el caso de animales y aves, los reproductores, tanto machos como hembras, deberán cumplir, además, con las exigencias mínimas en relación con antecedentes de producción y características zootécnicas. El Banco Central de Chile sólo otorgará los Registros de Importación para estos productos, previa presentación por parte del interesado, del correspondiente informe favorable del Servicio Agrícola y Ganadero.
+
+Las aduanas del país no podrán tramitar ninguna documentación de internación, si ésta no viene acompañada del correspondiente informe favorable.
+
+Todo internador de animales deberá premunirse de un certificado expedido por la autoridad competente del país de origen que acredite la sanidad de ellos."
+
+3) Agrégase a continuación del actual artículo 4°, el siguiente artículo nuevo:
+
+#### Artículo 4° bis
+
+Prohíbese la internación de animales y aves con taras hereditarias o anomalías morfológicas que afecten su productividad, a juicio de los médicos veterinarios a que se refiere el artículo anterior.
+
+En el caso de arribar al país animales o aves afectados con algunas de dichas taras o anomalías, éstos serán devueltos a su país de origen o beneficiados en el Matadero que determine el Médico Veterinario respectivo, según convenga al interesado. En ningún caso la aplicación de estas medidas dará lugar a indemnización alguna y los gastos que ellas demanden serán de cuenta del interesado.
+
+Con todo, en casos calificados, podrá autorizarse la internación de animales y aves que no cumplen las exigencias del inciso primero, siempre y cuando aquéllos vayan a ser beneficiados en el matadero más próximo."
+
+4) Reemplázase el artículo 8° por el siguiente:
+
+#### Artículo 8°
+
+Los propietarios o tenedores de animales tienen la obligación de prevenir y combatir las enfermedades con los tratamientos, las medidas y en los plazos que determine el Ministerio de Agricultura, previo informe del Servicio Agrícola y Ganadero.
+
+Si dichas personas no quisieren o no pudieren efectuar los tratamientos, o no los realizaren con la oportunidad o eficiencia necesarias, los ejecutará el Servicio Agrícola y Ganadero, con el auxilio de la fuerza pública si fuere menester, siendo el costo de la ejecución de cuenta de los propietarios o tenedores de los animales respectivos. Aquéllos estarán obligados a facilitar la labor de los funcionarios y cooperar en su acción.
+
+Cuando las medidas sanitarias o técnicas sean ejecutadas por el Servicio Agrícola y Ganadero, corresponderá a éste determinar el monto de los gastos realizados, mediante liquidación que deberá ponerse en conocimiento de los afectados, mediante carta certificada.
+
+Se entenderá que dicha liquidación ha sido notificada desde el momento en que la carta certificada haya sido depositada en la respectiva Oficina de Correos, no procediendo reclamo alguno de la notificación así practicada.
+
+La liquidación del Servicio Agrícola y Ganadero que determine el monto de los gastos realizados con ocasión de las medidas ejecutadas, constituirá título ejecutivo una vez vencido el plazo de quince días corridos sin que se haya interpuesto reclamo.
+
+Las personas afectadas podrán reclamar de la liquidación practicada, dentro de quince días corridos, contados desde la fecha de su notificación. El reclamo se resolverá por el Servicio Agrícola y Ganadero, previo cumplimiento de las diligencias que este organismo estime necesarias.
+
+La resolución que recaiga en el reclamo interpuesto, señalará el monto de los gastos realizados con ocasión de las medidas ejecutadas y constituirá título ejecutivo desde que se notifique por carta certificada, aplicándose a esta notificación lo dispuesto en el inciso cuarto de este artículo.
+
+Ejecutoriada que sea la liquidación en el caso del inciso quinto de este artículo, o notificada que sea la resolución señalada en el inciso anterior, se aplicarán las disposiciones que reglamentan la competencia y el procedimiento en los juicios sobre cobro de dinero del Departamento Hipotecario del Banco del Estado de Chile.
+
+No obstante, cuando a juicio del Servicio Agrícola y Ganadero concurra causa justificada, el total o parte del monto de los gastos causados para ejecutar las medidas sanitarias o técnicas será de cargo del Servicio."
+
+5) Agrégase a continuación del actual artículo 9° el siguiente artículo nuevo:
+
+#### Artículo 9° bis
+
+Facúltase al Servicio Agrícola y Ganadero para ordenar la climinación de los reproductores, tanto machos como hembras, de las diferente especies y razas animales existentes en el país, que presenten taras hereditarias, anomalías morfológicas o un estado sanitario irrecuperable, que afecten su productividad o la de su descendencia.
+
+Igual facultad tendrá el Servicio Agrícola y Ganadero con respecto a los huevos y al semen conservado que procedan de animales afectados por las taras, anomalías o estado sanitario a que se refiere el inciso anterior.
+
+El Reglamento que dicte el Presidente de la República determinará las condiciones, requisitos y procedimientos a los cuales se ajustará la aplicación de esta medida.
+
+6) Agrégase, a continuación del actual artículo 12, el siguiente artículo nuevo:
+
+#### Artículo 12 bis
+
+El Presidente de la República, por decreto supremo expedido a través del Ministerio de Agricultura, podrá prohibir total o parcialmente o limitar el beneficio de animales y aves de cualquier especie.
+
+Todo aquél que infringiere cualesquiera de las disposiciones que dicte el Presidente de la República, en virtud del presente artículo, será sancionado con una multa equivalente al valor de cinco a diez sueldos vitales mensuales de los empleados particulares de la industria y el Comercio del departamento de Santiago. Sin perjuicio de la aplicación de esta multa, el Servicio Agrícola y Ganadero decomisrá los productos y subproductos provenientes del beneficio realizado con infracción a dichas disposiciones.
+
+La aplicación y cobro de las multas a que se refiere el inciso anterior, se ajustarán en todo al procedimiento establecido para el Servicio Agrícola y Ganadero en el artículo 236 de la ley N° 16.640.
+
+Los fondos que se recauden por concepto de las ventas que el Servicio Agrícola y Ganadero realice de los productos y subproductos decomisados, ingresarán a su patrimonio.
+
+En caso de que la infracción a las disposiciones que dicte el Presidente de la República se cometa en mataderos particulares, la multa a que se refiere el inciso segundo de este artículo se aplicará a las personas que los exploten.
+
+Si la infracción se cometiere en mataderos administrados por el Fisco, las Municipalidades o las Empresas u Organismos autónomos del Estado, los funcionarios o empleados que resulten responsables serán sancionados con suspensión del empleo, sin goce de sueldo, la que podrá fluctuar entre treinta días y tres meses, pudiendo, sin embargo, el Servicio correspondiente, aplicar cualquiera medida disciplinaria superior, atendida la gravedad de la infracción.
+
+En casos de reincidencia, los funcionarios o empleados aludidos serán separados del Servicio.
+
+La imposición de estas sanciones se ajustará a las normas que rijan en el respectivo Servicio para la aplicación de medidas disciplinarias."
+
+7) Agréganse, a continuación del actual artículo 25°, substituyéndose el punto por una coma, las expresiones "ovinos, caprinos y porcinos."
+
+8) Agrégase a continuación del artículo 30°, el siguiente artículo nuevo:
+
+#### Artículo 30° bis
+
+La infracción a los preceptos de este título, será sancionada con multa de uno a diez sueldos vitales mensuales de los empleados particulares de la industria y el comercio del departamento de Santiago en proporción al número de animales que sean marcados en contravención a sus preceptos."
+
+#### Artículo 5°
+
+Introdúcense las siguientes modificaciones al decreto con fuerza de ley RRA. N° 25, de 1963:
+
+1) Substitúyese la letra i) del artículo 3° por la siguiente:
+
+"i) Aprobar como aptos para el consumo en la agricultura los fertilizantes que se produzcan, importen o comercien en el país. Esta atribución será ejercida por el Servicio Agrícola y Ganadero, que llevará un Registro en el cual se inscribirán los fertilizantes aptos para el consumo de la agricultura. Sin este requisito no podrá producirse o venderse fertilizante alguno, materiales, sales o elementos destinados a aplicarse al suelo con fines de mejorar la producción agrícola, y".
+
+2) Reemplázase en el inciso 2° del artículo 4° las palabras "anhídrido fosfórico (P2 05) total", por las palabras "anhídrido fosfórico soluble".
+
+3) Agrégase al artículo 5°, después del punto seguido, las siguientes frases: "Dichos certificados deberán ser expedidos por el Laboratorio Oficial a que se refiere al artículo 16."
+
+4)Intercálase en el artículo 11, a continuación de la palabra "importadores", la expresión " y distribuidores."
+
+5) Intercálase en el artículo 12, a continuación del inciso primero, el siguiente inciso nuevo:"Los fabricantes e importadores, previa autorización escrita del Servicio Agr1cola y Ganadero, podrán reemplazar las etiquetas a que se refiere este artículo, por la impresión directa de la misma en los envases." 6) Reemplázase en el artículo 33 la expresión "un año" por las palabras "tres años como máximo".
+
+7) Substitúyese el inciso 3° del artículo 34 por el siguiente: "No podrá efectuarse extracción de guano blanco más de seis meses en cada año calendario".
+
+#### Artículo 6°
+
+El Director Ejecutivo del Servicio Agrícola y Ganadero ordenará la retención de maderas cuando existan antecedentes fundados de que provienen de terrenos o bosques fiscales, de reservas forestales o de areas protegidas y de que han sido explotados ilegalmente.
+
+Constituyen antecedentes fundados los informes o denuncias suscritos por los funcionarios del Servicio Agrícola y Ganadero o por el personal del Cuerpo de Carabineros de Chile, quienes podrán señalar de inmediato el lugar o recinto de depósito de las maderas, de los troncos o de las trozas de madera mientras el Servicio se pronuncie, en definitiva, acerca de la medida de retención.
+
+> **Nota.** El Art. 64 de la LEY 20283, publicada el 30.07.2008, dispuso el traspaso de las competencias, funciones y atribuciones en materia forestal otorgadas por el presente artículo al Servicio Agrícola y Ganadero o a su Director, a la Corporación Nacional Forestal o a su Director Ejecutivo, según corresponda.
+
+#### Artículo 7°
+
+Ordenada la retención, se presumirá que las maderas son de dominio del Servicio Agrícola y Ganadero al que se considerará ofendido por el delito que hubiere podido cometerse.
+
+> **Nota.** El Art. 64 de la LEY 20283, publicada el 30.07.2008, dispuso el traspaso de las competencias, funciones y atribuciones en materia forestal otorgadas por el presente artículo al Servicio Agrícola y Ganadero o a su Director, a la Corporación Nacional Forestal o a su Director Ejecutivo, según corresponda.
+
+#### Artículo 8°
+
+Los afectados por la medida de retención podrán ejercitar las acciones judiciales referentes al dominio de las maderas.
+
+El Servicio Agrícola y Ganadero podrá utilizar o enajenar las maderas retenidas, aún en caso de juicio pendiente, en la forma que estime conveniente.
+
+> **Nota.** El Art. 64 de la LEY 20283, publicada el 30.07.2008, dispuso el traspaso de las competencias, funciones y atribuciones en materia forestal otorgadas por el presente artículo al Servicio Agrícola y Ganadero o a su Director, a la Corporación Nacional Forestal o a su Director Ejecutivo, según corresponda.
+
+#### Artículo 9°
+
+Acreditado, en cualquier momento, que las especies retenidas son de dominio particular, el funcionario competente deberá ordenar, sin más trámite, el alzamiento de la retención o la entrega del valor de tasación de las maderas utilizadas, fijado por el Servicio Agrícola y Ganadero, o del valor de enajenación de aquéllas, con deducción en ambos casos de los gastos necesarios en que se hubiera incurrido conforme a una liquidación del mismo Servicio, sin perjuicio de las acciones judiciales que los particulares pueden entablar.
+
+> **Nota.** El Art. 64 de la LEY 20283, publicada el 30.07.2008, dispuso el traspaso de las competencias, funciones y atribuciones en materia forestal otorgadas por el presente artículo al Servicio Agrícola y Ganadero o a su Director, a la Corporación Nacional Forestal o a su Director Ejecutivo, según corresponda.
+
+#### Artículo 9 bis
+
+Será obligatorio contar con las respectivas guías de despacho electrónicas para la producción, venta, almacenamiento, depósito, mantención o acopio de troncos o trozas de madera que no sean de especies nativas, provenientes de terrenos o bosques privados.
+
+A través de un reglamento dictado por el Ministerio de Hacienda, suscrito también por los Ministros del Interior y Seguridad Pública, y de Agricultura, se establecerá la forma en que se acreditará y se dará cumplimiento a la obligación señalada en el inciso precedente, así como qué se entenderá por troncos o trozas de madera para efectos de lo dispuesto en esta ley.
+
+#### Artículo 9 ter
+
+Los dueños, gerentes o empleados, directos o por cuenta de terceros, de barracas, aserraderos, canchas de acopio, empresas distribuidoras, plantas industriales o instalaciones que vendan, almacenen o consuman troncos o trozas de madera, no podrán recibirlos ni rematarlos sin que, previamente, hayan recibido la o las guías de despacho electrónicas a las que se refiere el artículo anterior, emitidas por el establecimiento de origen.
+
+Los dueños, gerentes o empleados, directos o por cuenta de terceros, de barracas, aserraderos, canchas de acopio, empresas distribuidoras, plantas industriales o instalaciones que vendan, almacenen o consuman troncos o trozas de madera, tendrán la obligación de entregar al adquirente las guías de despacho electrónicas que comprueben la procedencia de la madera en troza vendida, en la forma y plazo que determine el reglamento.
+
+#### Artículo 9 quáter
+
+Las barracas, aserraderos, canchas de acopio, empresas distribuidoras, plantas industriales o instalaciones que vendan, almacenen o consuman troncos o trozas de madera, sin contar con la o las guías de despacho electrónicas a las que se refiere el artículo 9 bis, serán sancionadas con multa equivalente al doble del beneficio económico reportado por la infracción, sin perjuicio de las sanciones de carácter penal y tributario que correspondan.
+
+La aplicación y cobro de la multa a que se refiere el inciso anterior, se ajustará a lo establecido en los artículos 45 y 46 de la ley N° 20.283, sobre recuperación del bosque nativo y fomento forestal.
+
+#### Artículo 9
+
+quinquies.- Corresponderá a Carabineros de Chile y a los funcionarios de la Corporación Nacional Forestal, la fiscalización de las disposiciones de esta ley.
+
+En el ejercicio de sus facultades, deberán controlar que el transportista lleve consigo durante el transporte de troncos o trozas de madera la respectiva guía de despacho electrónica, documentación que será visada en el acto para efectos de dejar constancia del control realizado.
+
+Asimismo, Carabineros de Chile deberá exigir la o las guías de despacho electrónicas o la factura correspondiente. En caso que el transportista carezca de los mencionados documentos o se niegue a su exhibición, los funcionarios policiales incautarán las especies y el medio de transporte utilizado. En este caso, además se dará aviso a la fiscalía respectiva para que inicie la investigación correspondiente; al Servicio de Impuestos Internos ante un eventual delito tributario, y a la Corporación Nacional Forestal para la determinación de eventuales infracciones administrativas.
+
+No obstante lo anterior, el Servicio de Impuestos Internos podrá ejercer sus facultades de revisión y fiscalización, conforme a las reglas generales, y en especial, a lo dispuesto en el artículo 55 del decreto ley N° 825, de 1974, sobre impuesto a las ventas y servicios, según corresponda.
+
+#### Artículo 10°
+
+De las actuaciones realizadas con motivo de la retención de maderas, conforme a las normas del presente decreto con fuerza de ley, no emanará responsabilidad alguna para los funcionarios que intervengan, a menos que se compruebe abuso o negligencia grave.
+
+> **Nota.** El Art. 64 de la LEY 20283, publicada el 30.07.2008, dispuso el traspaso de las competencias, funciones y atribuciones en materia forestal otorgadas por el presente artículo al Servicio Agrícola y Ganadero o a su Director, a la Corporación Nacional Forestal o a su Director Ejecutivo, según corresponda.
+
+#### Artículo 11°
+
+DEROGADO.-
+
+#### Artículo 12°
+
+DEROGADO.-
+
+#### Artículo 13°
+
+DEROGADO.-
+
+#### Artículo 14°
+
+Derogado.
+
+#### Artículo 15°
+
+Derogado.
+
+#### Artículo 16°
+
+Derogado.
+
+#### Artículo 17°
+
+Derogado.
+
+#### Artículo 18°
+
+Derogado.
+
+#### Artículo 19°
+
+Derogado.
+
+#### Artículo 20°
+
+Derogado.
+
+#### Artículo 21°
+
+Derogado.
+
+#### Artículo 22°
+
+Derogado.
+
+#### Artículo 23°
+
+Derogado.
+
+#### Artículo 24°
+
+Derogado.
+
+#### Artículo 25°
+
+Derogado.
+
+#### Artículo 26°
+
+Derogado.
+
+#### Artículo 27°
+
+Derogado.
+
+#### Artículo 28°
+
+Derogado.
+
+#### Artículo 29°
+
+Las infracciones al presente decreto con fuerza de ley que no tengan señalada una pena especial, serán sancionadas con multa de uno a veinte sueldos vitales mensuales para empleado particular, escala a), del departamento de Santiago.
+
+Tómese razón, comuníquese y publíquese.- E. FREI M.- Hugo Trivelli F.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Carlos Figueroa Serrano, Subsecretario de Agricultura.
