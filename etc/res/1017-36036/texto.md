@@ -1,0 +1,3 @@
+Por Resolución N° 1.017, de 28 de Mayo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por JAIME FELIPE BARRIA MONTIEL, para un centro de cultivo ubicado en Canal Cuervo, Comuna de Guaitecas, Provincia de Aysén, XI Región, conforme lo dispuesto en el artículo 67°, inciso 5°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 28 de Mayo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
