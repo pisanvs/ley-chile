@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 376, de 21 de abril de 1997, se expropiaron los lotes de terreno Nºs. 10 y 12, superficies 1.224 y 400 m2., roles de avalúo 516-5 y 524-3, comuna de Santa Cruz, para la obra Camino Santa Cruz-Palmilla, sector Ruta I-720 por Barreales y se acordó precio de indemnización con sus propietarios Jaime Gerardo Arce Vargas y Gonzalo Piña Piña y Otro, ascendente a las cantidades de $4.014.486 y $2.536.800.-
+
+Fiscal del Ministerio de Obras Públicas.
