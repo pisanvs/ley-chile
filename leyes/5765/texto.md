@@ -1,0 +1,1 @@
+Agrega inciso al N° 11 del artículo 14 de la ley 5,687, de 16 de septiembre de 1935, que aprueba el Estatuto Orgánico del Instituto de Crédito Industrial.
