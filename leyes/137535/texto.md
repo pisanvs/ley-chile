@@ -554,13 +554,13 @@ Para ser Presidente de la República se requiere:
 
 <!-- parte:8927961 -->
 
-Las funciones del Presidente de la República durarán por cinco años; i podrá ser reelejido para el período siguiente.
+El Presidente de la República durará en el ejercicio de sus funciones por el término de cinco años, i no podrá ser reelejido para el período siguiente.
 
 #### Artículo 62
 
 <!-- parte:8927962 -->
 
-Para ser elejido tercera vez, deberá mediar entre ésta i la segunda elección el espacio de cinco años.
+Para poder ser elejido segunda o mas veces deberá siempre mediar entre cada eleccion el espacio de un período.
 
 #### Artículo 63
 
