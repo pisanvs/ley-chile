@@ -1,0 +1,3 @@
+Por decreto MOP. No. 873, de 30 de junio de 1998, se expropiaron los lotes de terreno No. s.1 y 3, superficies 672 m² y 878 m², rol de avalúo 121-65, comuna de Sagrada Familia, obra Camino Lontué Villa Prat, Rol K-16, sector Puente Pichuco y se acordó precio de indemnización con su propietaria Clara Lidia Pérez Hettich, ascendente a la cantidad de $ 5.014.829.-
+
+Fiscal del Ministerio de Obras Públicas.
