@@ -1,0 +1,9 @@
+MODIFICA RESOLUCION QUE INDICA, DEJA SIN EFECTO DECRETO Y RESOLUCION QUE SEÑALA
+
+Por Resolución No. 403, de 05 de Marzo de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía. Fomento y Reconstrucción. se modifica la Resolución No. 1.473, de 1988, de esta Subsecretaría, que autorizó a Pesquera Coloso S.A., RUT No. 93.065.000-5, domiciliada en Santiago, para desarrollar actividades pesqueras de extracción, en el sentido de aumentar la Capacidad de Bodega de las dos embarcaciones a que se refiere dicha Resolución, a 580 m3. Además, se modifica, las Resoluciones No. 555, de 1984 y No. 356, de 1989, ambas de esta Subsecretaría, que autorizaron la operación de la embarcación Intrépido, en orden a sustituir la Capacidad de 13Odega de dicha nave de 550 m3 a 580 m3. Finalmente, se modifica, las Resoluciones No. 636, de 1985 y No. 357, de 1989, ambas de esta Subsecretaría, que autorizaron la operación de la embarcación Aventurero, en orden a sustituir la Capacidad de Bodega de dicha nave de 550 m3 a 580 m3.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+A partir del inicio de operación de cualesquiera de las embarcaciones antes referidas, con la nueva Capacidad de Bodega autorizada, quedarán sin efecto el Decreto No. 629, de 1972, del Ministerio de Agricultura y la Resolución No. 371, de 1982, de esta Subsecretaría en lo relativo a la operación de la nave Omar.
+
+Valparaíso, 05 de Marzo de 1990.- Roberto Cabezas Bello. Subsecretario de Pesca.
