@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.233, de 16 de septiembre de 2003, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 2.128 de 2003, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto FIP Nº 2002-07 denominado '' Programa temporal de evaluación hidroacústica de merluza del sur en aguas interiores de la X y XI Regiones, año 2002 '' , en el sentido de señalar que la pesca de investigación se realizará en el área en las aguas interiores de la X y XI Región, comprendida entre las latitudes 41º 30' L.S. y 46º L.S.
+
+Valparaíso, 16 de septiembre de 2003.- Edith Saa Collantes, Subsecretario de Pesca (S).
