@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 108, de fecha 31 de enero de 1997, se expropió el lote de terreno Nº 13, superficie 4.717,50 m², rol de avalúo 109-10, comuna de Quilicura, para la obra Proyecto Estudio de Ingeniería Habilitación Segunda Calzada Avenida Américo Vespucio, sector Carretera Panamericana Norte-Ruta 72, y se acordó valor de indemnización con sus propietarios Vicente René Briceño Brito y otros, ascendente a la cantidad de $277.893.163.-
+
+Fiscal Ministerio de Obras Públicas.
