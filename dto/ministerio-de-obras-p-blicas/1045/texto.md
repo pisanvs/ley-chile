@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 1.045, de fecha 29 de noviembre de 1996, se expropió el lote de terreno Nº 44, superficie 645 m², rol de avalúo 1403-14, comuna de Rancagua, para la obra Proyecto Mejoramiento Ruta 5 Sur, sector Pasada por Rancagua, Camino Ruta 5, y se acordó precio de indemnización con sus propietarios Sucesión Carlos Humberto González Abarca, ascendente a la cantidad de $23.460.780.
+
+Fiscal del Ministerio de Obras Públicas.
