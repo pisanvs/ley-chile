@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº2.082, de 30 de octubre de 1998, se expropiaron, los lotes de terreno Nºs. 16 y 18, superficies 2.326 y 323 m² respectivamente, rol de avalúo 137-61, comuna de San Francisco de Mostazal, para la obra Camino Ruta H-15, Sector La Punta - Puente Negro, se acordó precio de las indemnizaciones con sus propietarios Pompeyo Carrasco Marfull y Sociedad Agrícola Ganadera y Forestal Central Limitada, ascendentes a las cantidades de $3.320.957.- para el lote Nº16 y $780.116.- para el lote Nº18.-
+
+Fiscal del Ministerio de Obras Públicas.
