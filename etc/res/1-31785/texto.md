@@ -1,0 +1,3 @@
+Por Resolución N° 1 del 7 de Febrero de 1995, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IV Región se adjudicó a don Guillermo Horacio Gómez Rivera, la concesión para operar, hasta el 11 de Enero de 1999 y a contar de la fecha de publicación del presente extracto, un establecimiento ubicado en Avda. Las Delicias N° 393 de la comuna de Vicuña, destinado a la revisión técnica y verificación de emisión de contaminantes de todos los vehículos no comprendidos en el inciso 1°, artículo 7° del D.S. N° 156/90, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Freddy Bonilla Torreblanca, Secretario Regional Ministerial de Transportes y Telecomunicaciones, IV Región de Coquimbo.
