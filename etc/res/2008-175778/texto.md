@@ -1,0 +1,3 @@
+Por resolución Nº 2.008, de 12 de septiembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110379 presentada por PISCICULTURA SANTA MARGARITA S.A., para instalar y operar el centro de cultivo ubicado en isla Partida, comuna de Aysén, provincia de Aysén, XI Región, conforme lo dispuesto en el artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 12 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
