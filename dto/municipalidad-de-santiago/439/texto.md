@@ -1,0 +1,3 @@
+Decreto Secc. 2ª Nº 439, 05/06/1998, Alcalde Municipalidad Santiago dispone expropiación parcial, conforme art. 85 decreto 458 Ministerio de Vivienda y Urbanismo inmueble Almirante Barroso 633 esquina Nororiente Santo Domingo Rol Nº 220-010-011-012, comuna Santiago, dominio aparente Inmobiliaria e Inversiones Maksimir Limitada, superficie aproximada 158 metros cuadrados. Deslindes. Norte, 28,25 mts. línea quebrada resto predio; Sur, 28,25 mts. calle Santo Domingo; Oriente, 4,90 mts. otro propietario y 7,27 mts. resto predio, incluyendo ochavo 4 mts. y Poniente, 11,97 mts. calle Almirante Barroso. Indemnización $27.075.670.- pagadera contado.
+
+Jaime Ravinet de la Fuente, Alcalde Santiago.
