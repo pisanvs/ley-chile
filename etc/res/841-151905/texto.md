@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA GRUBNER LTDA. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 841 de 30 de Julio de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Grubner Ltda., domiciliada en Puerto Chacabuco, Xl Región, para operar la embarcación denominada "FANNY" en el litoral comprendido entre los paralelos 44° y 47° latitud sur en la extracción de los siguientes recursos hidrobiológicos: Bonito, caballa, congrio colorado, congrio dorado, corvina, dorado, jurel, merluza común, merluza del sur, merluza de cola, merluza de tres aletas, mero o bacalao, raya, salmón del pacífico, sardina común, sardina española, sierra, tollo, centolla, centollón, jaiba, picoroco, almeja o taca, cholga, chorito, choro, lapa, macha, ostra, erizo y piure. Además podrá instalar y operar una planta elaboradora en Puerto Chacabuco, XI Región, donde procesará en las líneas de congelado y fresco los recursos enumerados precedentemente, debiendo el salmón del pacífico provenir de centros de cultivo autorizados.
+
+Valparaíso, 30 de Julio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
