@@ -1,0 +1,7 @@
+Por resolución exenta Nº 128, de 12 de enero de 2005, de esta Subsecretaría, reconócese la participación conjunta de los armadores que a continuación se indican, en las unidades de pesquería Anchoveta y Sardina común, individualizada en el artículo 2º letra e) de la ley Nº 19.713, para ejercer el límite máximo de captura establecido por decreto exento Nº 1.065 de 2004, del Ministerio de Economía, Fomento y Reconstrucción, a partir de la fecha de la presente resolución y hasta el 31 de diciembre de 2005:
+
+BIO BIO S.A. PESQ.; OCEANICA DOS S.A. PESQ.; QURBOSA DOS S.A. PESQ.
+
+La opción ejercida por el grupo de armadores antes indicados es irrevocable durante el presente año calendario.
+
+Valparaíso, 12 de enero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
