@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.498, de 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs.358-A y 358-B, superficies 77,0 m2., y 2.764,0 m2., rol de avalúo 240-47, comuna de Los Lagos, para la obra ''Concesión Internacional Ruta 5 Tramo Temuco - Río Bueno'', Décima Región y se acordó el valor de indemnización con su propietaria Silvia Yolanda Tampe Kneer, ascendente a la cantidad total de $1.359.747.-
+
+Fiscal del Ministerio de Obras Públicas.
