@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°513, de 28 de mayo de 1997, se expropió el lote de terreno N°5, superficie 1.094,9, rol de avalúo 9049-22, comuna de San Antonio, para la obra Proyecto de Enlaces Ruta 78 del Camino Santiago-San Antonio, sector Leyda-Agua Buena, Enlace Lo Gallardo y se acordó precio de la indemnización con la propietaria Ana Margarita Cendegui Arias, ascendente a la cantidad de $3.359.466.- para el lote N°5 .
+
+Fiscal del Ministerio de Obras Públicas.
