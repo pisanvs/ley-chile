@@ -1,0 +1,3 @@
+Por resolución Nº 276 de 12 de junio de 1998 de Serviu Metropolitano, ordenóse expropiación, conforme D.L. Nº2.186 de 1978, de parte del inmueble ubicado en Avda. Domingo Santa María Nº 4112, presunto rol de avalúos Nº469-25, comuna de Renca, de aparente dominio de Inmobiliaria Santander. Comisión integrada por peritos Sra. Patricia Zavala Contreras, constructor civil, Ramón Undurraga Montes, ingeniero civil y Jorge Navarro Navarrete, arquitecto según informe de 31 de marzo de 1998 fijó monto provisional de indemnización en $4.086.550.- pagadera al contado.-
+
+Director Serviu Metropolitano.
