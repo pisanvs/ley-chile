@@ -1,0 +1,13 @@
+ESTABLECIMIENTOS PUBLICOS
+
+Santiago, Octubre 18 de 1825.
+
+Los establecimientos públicos son el regulador del estado de civilizacion y prosperidad de los pueblos, y el medio mas eficaz y probado de conseguir tales bienes. Los que existen en Chile se resienten de los defectos de su orijen y de los efectos de la revolucion. Es preciso tratar de mejorarlos y multiplicarlos en proporcion de las necesidades y de los esfuerzos que permitan al Gobierno prestar a unas atenciones que hasta ahora han cedido a otras mas urjentes, y de que pendia la existencia de la misma sociedad. El Gobierno espera que la presencia misma del bien, la publicidad y rectitud de la administracion, y el conocimiento del bien entendido interes, allanen los obstaculos que suscitaría cualquiera innovacion en obsequio de unos ramos que hasta el dia no solo no han merecido la consideracion de que son dignos, sino que han excitado la censura que tanto desalienta, por la distancia con que los malos hábitos de la educacion colonial han hecho mirar, cuanto influye en la ilustracion y beneficencia. El Gobierno que quiere, que su divisa sea la franqueza, opuesta al sistema protector de la ignorancia y la miseria, deseando aceptar y aprovechar cuanto se le advierta que pueda ser practicable en las actuales circunstancias, y necesitando para proceder con el acierto y oportunidad necesaria, una exacta noticia de la situacion de todos los establecimientos públicos, sus fondos, causa de su decadencia, y recursos con que pudieran adelantarse, la que solo pueden ministrar los actuales encargados de ellos, ha venido en decretar y decreta:
+
+1.° El Tribunal de Educacion, los Rectores de la Universidad y del Instituto Nacional, los inspectores de las escuelas primarias y aulas de gramática, el Director de la Academia de matemáticas, y los encargados de la Biblioteca e imprenta, informarán a la posible brevedad, cada uno de por si, o bien unidos en aquellos objetos que tengan conexion, cuanto estimen necesario a la conservacion o mejora de los establecimientos que se hallan a su cargo.
+
+2.° Lo verificarán del mismo modo la Junta de salud pública, la de vacuna, la de huérfanos y parturientas, los Intendentes de policía urbana y rural, los del Hospicio de inválidos, Hospitales y casas de correccion, el Juez de lo criminal por lo respectivo a carcel y presidio, el Administrador del Panteon y el Protomedicato.
+
+3.° Comuníquese e imprímase en el Boletin.
+
+FREIRE. ------ Campino.
