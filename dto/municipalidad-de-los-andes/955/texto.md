@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO ALCALDICIO No. 955, DE 1988
+
+Alcalde Los Andes, por Decreto No. 955 de 11.10.88, ejerciendo atribuciones que le confieren artículos 4° letra K; 5° letra F y 10° Ley 18.695/88 Orgánica Constitucional Municipalidades; 32 y 35 DL 2.186/78, Ley Orgánica Procedimiento Expropiaciones y Resolución 1.050/80 Contraloría General República, se desiste expropiación ordenada Decreto No. 327 de 22.04.88 respecto inmueble dominio doña Eliana Tassara Plaza de Los Reyes, disponiendo cancelar inscripción fs. 629 No. 308 Registro Interdicciones y Prohibiciones Enajenar 1988 y dejar sin efecto anotación expropiación hecha margen inscripción dominio inmueble expropiado fs. 480 No. 335 Registro Propiedad 1977, ambas Conservador Bienes Raíces Los Andes, a quien debe requerirse para tal efecto.
+
+Los Andes, 24.10.88.-Luis O. Santelices Barrera, Alcalde.- Juan E. Aguirre Seguel, Secretario Municipal.
