@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº300, de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº33, superficie 137 m2, rol de avalúo 285-74, comuna de San Fernando, VI Región, para la obra "Camino San Fernando - Roma, Rol I-301, I-255, I-151, km. 0,000 al 10,954264" y se acordó el valor de indemnización con su propietario don Francisco Moore Infante, ascendente a la cantidad de $950.173.-
+
+Fiscal del Ministerio de Obras Públicas.
