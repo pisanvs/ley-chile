@@ -1,0 +1,9 @@
+Por resolución No. 911 de 12 de Agosto de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Colectiva Comercial e Industrial de Responsabilidad Limitada FRIGORIFICO TRES PUENTES DE MAGALLANES LTDA., R.U.T. No. 84.796.300-K, domiciliada en Punta Arenas, Avda. Presidente Ibáñez No. 05741, para ampliar actividades pesqueras que tiene autorizadas por resolución No. 271, de 1991, en orden a procesar en la planta industrial ubicada en calle Presidente Ibáñez No. 5741, Punta Arenas, además de los recursos señalados en la resolución No. 271, de 1991, de esta Subsecretaría, en la línea de proceso de congelado, los siguientes recursos hidrobiológicos: Bacalao de J. Fernández, brótula, cabrilla española, cojinoba del sur, congrio colorado, congrio dorado, congrio negro, merluza del Sur, merluza de cola, merluza de tres aletas, pejegallo, pejerrey de mar, raya, róbalo, salmón del Atlántico, salmón del Pacífico, sierra, tollo, trucha arcoiris, almeja, calamar, caracol tegula, caracol trumulco, caracol trophon, caracol, cholga, chorito, choro, navajuela, ostión del Sur, pulpo, centolla, centollón, jaiba, picoroco, erizo y piure.
+
+Deberá adquirir las especies salmonideas de centros de cultivo autorizados; y los recursos centolla y centollón deberán provenir de zonas no afectas a restricción, lo que se acreditará con guías de libre tránsito otorgadas por el Servicio Nacional de Pesca.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización para procesar el recurso loco, de conformidad a lo dispuesto en el DS No. 126, de 1989, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 12 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
