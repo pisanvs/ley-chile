@@ -1,0 +1,5 @@
+AUTORIZA A INDUSTRIA FRIGORIFICA MARITIMA LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 142, de 15 de Marzo de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Industria Frigorífica Marítima Limitada, domiciliada en la comuna de Santiago, para instalar y operar en la localidad de Río Pescado, provincia de Llanquihue, X Región, una planta procesadora de recursos hidrobiológicos, en la linea de congelado, en la que podrá utilizar como materia prima: merluza española, mero, pejegallo, pejerrey de mar, raya, rollo, caracol azul, caracol locate, caracol trumulco, loco, centolla, jaiba, erizo, piure, tazón, cojinova del Norte, cojinova del Sur, congrio colorado, congrio dorado, corvina, salmón del Pacifico y trucha arco iris. Los dos últimos recursos mencionados sólo podrá adquirirlos la peticionaria en establecimientos de cultivo autorizados.
+
+Santiago, 15 de Marzo de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
