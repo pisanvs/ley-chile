@@ -1,0 +1,3 @@
+Por resolución Nº 2.547, de 27 de noviembre de 2000, de esta Subsecretaría, rectifícase el numeral 2º letra b) de la resolución Nº 929 de 2000, de la Subsecretaría de Pesca, que autorizó a PESQUERA COJINOVA LTDA., para ampliar actividades pesqueras extractivas con la nave ''Libas'', matrícula 2731, en el sentido de indicar que respecto del arte de pesca arrastre de media agua, corresponde autorizar los citados recursos, Jurel fino y Sardina redonda, en el área marítima de la V a la VII, IX y X Regiones, por fuera de la línea imaginaria trazada a una distancia de 60 millas marinas medidas desde las líneas de base normales o rectas según corresponda.
+
+Valparaíso, 27 de noviembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
