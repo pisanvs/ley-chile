@@ -1,0 +1,3 @@
+Por Resolución N° 94, de 16 de enero de 1996, de esta Subsecretaría, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por PESCA CHILE S.A., para operar un centro de cultivo ubicado en Ensenada Acantilada, Comuna de Puerto Chacabuco, Provincia de Aysén XI Región, por no dar cumplimiento el respectivo proyecto técnico a lo dispuesto en los artículos 77° y 87° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 16 de enero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
