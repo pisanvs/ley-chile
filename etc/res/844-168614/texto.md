@@ -1,0 +1,3 @@
+Por resolución Nº 844, de 5 de mayo de 2000, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 216, de 1990 y Nº 77, de 1991, de esta Subsecretaría, que autorizaron a SOCIEDAD AGRICOLA, FORESTAL Y PESQUERA YBAR Y ABAD COMPAÑIA LIMITADA, para operar la nave ''Bruma'', matrícula 566 de Constitución, en virtud de lo señalado en el artículo 143 letra b) del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, por no haber operado la mencionada nave por más de doce meses en las pesquerías autorizadas.
+
+Valparaíso, 5 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
