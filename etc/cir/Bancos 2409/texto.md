@@ -9752,7 +9752,13 @@ Esta Superintendencia, mediante sus visitas inspectivas habituales y por otros m
 
 Por otra parte, de conformidad con lo dispuesto en el inciso segundo del artículo 13 bis del D.L. 1.097, corresponde a este Organismo publicar, a lo menos tres veces al año, información sobre los activos de las instituciones fiscalizadas y su clasificación y evaluación conforme a su grado probable de recuperabilidad.
 
-Es imprescindible, por lo tanto, que cada institución financiera cuente con sistemas para mantener permanentemente evaluados los riesgos de sus activos. Dichos sistemas deberán permitir la clasificación de cartera en categorías de riesgo, de acuerdo con las instrucciones de este capítulo, cada vez que esta Superintendencia así lo solicite y, en todo caso, cuatrimestralmente.
+Es imprescindible, por lo tanto, que cada institución financiera cuente con sistemas adecuados para mantener permanentemente evaluados los riesgos de sus activos sobre la base de la metodología dispuesta en este Capítulo, cuya aplicación requiere del análisis de información confiable y oportuna de la situación de los deudores y de conclusiones fundadas acerca de los riesgos y de las posibles pérdidas. Dichos sistemas deben permitir, entre otros aspectos, obtener en cualquier momento la clasificación de la cartera en las correspondientes categorías de riesgo y realizar una revisión de dichas clasificaciones cada vez que sea necesario, lo que debe reflejarse en las clasificaciones que, de acuerdo con las instrucciones del Manual del Sistema de Información, se informan a este Organismo.
+
+Atendida la importancia que tiene todo lo anterior, este Organismo ha establecido un sistema de calificación de las instituciones financieras de acuerdo con la calidad de sus procesos para clasificar su cartera. Las calificaciones obtenidas serán dadas a conocer por esta Superintendencia, a fin de que el público en general conozca ese aspecto fundamental de la administración de las entidades financieras.
+
+Para efectuar las referidas calificaciones, esta Superintendencia se basará en los resultados que obtenga de las revisiones que habitualmente realiza, considerando las pautas que se describen en el Anexo N° 2 de este Capítulo y que se refieren al monto y número de los créditos reclasificados en la oportunidad, así como a la calidad de la información sobre sus deudores, con que cuenta la institución.
+
+Las instituciones financieras sujetas a revisión quedarán clasificadas en categoría I, II ó III, según sea la calidad que se determine para sus procesos de clasificación de cartera de acuerdo con los indicadores establecidos para el efecto. La categoría I quedará reservada para las instituciones que muestren buenos sistemas de clasificación según esos indicadores; la categoría II, por su parte, revelará deficiencias que requieren ser atendidas por la administración y que necesariamente gravitan en el énfasis de las revisiones que realiza esta Superintendencia; y, por último, la categoría III contempla desviaciones significativas, de manera que reflejará un proceder claramente inadecuado en la evaluación de riesgos y estimación de pérdidas.
 
 ### II. RIESGO DE LA CARTERA DE COLOCACIONES
 
@@ -9867,6 +9873,8 @@ ejercicios parciales, estableciendo una rutina permanente para ello y poniendo e
 c) Las garantías forman parte integrante del proceso crediticio y de la clasificación de cartera, por lo cual la institución financiera debe mantener un registro actualizado de las mismas y los antecedentes necesarios que demuestren su existencia y tasación, cuando corresponda.
 
 d) Las apreciaciones del riesgo acerca del deudor, efectuadas por la institución financiera, deben constar explícitamente en la carpeta del cliente con su debida fundamentación.
+
+En lo que concierne a los antecedentes que permiten, en general, respaldar las clasificaciones, en el Anexo N° 3 de este Capítulo se incluye una breve descripción de lo que este Organismo entiende por un buen sistema de información sobre los deudores comerciales.
 
 2.5. Garantías constituidas por cartas de crédito stand-by.
 
@@ -10024,7 +10032,7 @@ La nómina de dichos créditos que cuente con la conformidad de esta Superintend
 
 existen los motivos para considerarlo como tal.
 
-En todo caso, si se otorga un nuevo crédito que tenga alguna de las características señaladas en el numeral 7.1 de este título, a deudores que estuvieren clasificados en categorías "A" o "B" y cuyo endeudamiento con la institución fuera igual o superior a U.F. 25.000, la institución financiera deberá considerarlo para los efectos de la exigencia de provisiones, de acuerdo con lo instruido en la letra b) del N° 9 siguiente.
+En todo caso, si se otorga un nuevo crédito que tenga alguna de las características señaladas en el numeral 7.1 de este título, a deudores que estuvieren clasificados en categorías "A" o "B" y cuyo endeudamiento con la institución fuera igual o superior a U.F. 25.000, la institución financiera deberá considerarlo para los efectos de la exigencia de provisiones, de acuerdo con lo instruido en el 9 siguiente.
 
 8.5. Riesgos adicionales de la cartera clasificada según su morosidad.
 
@@ -10036,11 +10044,21 @@ En lo que concierne a los préstamos hipotecarios para vivienda, este Organismo 
 
 ### 9. Exigencia de provisiones
 
-Las entidades fiscalizadas deberán mantener una provisión global para cubrir el riesgo de la cartera de colocaciones, por un monto equivalente a la pérdida estimada a que se refiere el N° 6 de este título. Además, deberán mantener una provisión para cubrir el riesgo adicional que se hubiere determinado de acuerdo con lo señalado en el N° 7 del presente título.
+Las entidades fiscalizadas deberán mantener una provisión global para cubrir el riesgo de la cartera de colocaciones, por un monto equivalente a la pérdida estimada a que se refiere el N° 6 de este título. Además, deberán mantener una provisión para cubrir el riesgo adicional que se hubiere determinado de acuerdo con lo señalado en el N° 7 del presente título, y, cuando corresponda, las demás provisiones de que trata el 2, título I, del Capítulo 8-29 de esta Recopilación Actualizada de Normas.
 
-Debido a que el riesgo de la cartera de colocaciones es en esencia variable, principalmente como consecuencia de las clasificaciones de la cartera de colocaciones que en forma periódica deben practicarse, la provisión global que debe mantenerse variará según los cambios que experimente la pérdida estimada. Asimismo, la exigencia de la provisión adicional dependerá de la eventual existencia de créditos riesgosos en su origen. De acuerdo con esto, esas provisiones deberán incrementarse cuando aumenten los riesgos que ellas cubren y, cuando éstos disminuyan, podrán revertirse los excedentes de provisiones, aunque en este último caso se requerirá que esta Superintendencia haya otorgado expresamente su conformidad.
+La provisión global que debe mantenerse variará según los cambios que experimente la pérdida estimada, en tanto que la exigencia de la provisión adicional antes señalada dependerá de la eventual existencia de créditos riesgosos en su origen. Por consiguiente, las provisiones deberán incrementarse cuando aumenten los riesgos que ellas cubren y, cuando éstos disminuyan, podrán revertirse los excedentes de provisiones que se produzcan. Sin embargo, en este último caso, las instituciones que no se encuentren clasificadas por lo menos dos veces consecutivas en la categoría I según la calidad de sus procedimientos de clasificación de cartera, podrán disminuir el nivel de provisiones sólo hasta los montos de provisiones mínimas informadas por este Organismo, según lo establecido en el numeral 9.2.
 
 El procedimiento para determinar cuál es el monto de provisiones que debe mantenerse, es el siguiente:
+
+9.1.- Instituciones clasificadas dos veces consecutivas en categoría I según sus procesos de clasificación de cartera.
+
+Las instituciones que, de acuerdo con lo señalado en el título I de este Capítulo, se mantengan clasificadas por segunda o más veces consecutivas en categoría I según la calidad de sus procesos de clasificación de cartera, mantendrán automáticamente el nivel de provisiones exigido sobre la base de lo dispuesto anteriormente. Por consiguiente, esas instituciones reconocerán tanto los aumentos como las disminuciones de la pérdida estimada y, cuando corresponda, del riesgo adicional de que trata el numeral 7.2 de este Capítulo, según los créditos que mantengan al término de cada mes registrados en el activo, incluidos los reajustes e intereses devengados.
+
+Cada vez que esta Superintendencia, de acuerdo con lo señalado en los numerales 8.1 y 8.4 de este Capítulo, comunique las clasificaciones de deudores según los resultados de su revisión y la nómina de créditos riesgosos en su origen, las provisiones mínimas exigidas deberán calcularse considerando dichas clasificaciones y créditos a partir del mismo mes en que ellos sean comunicados.
+
+9.2.- Instituciones que no estuvieren clasificadas dos veces consecutivas en categoría I según sus procesos de clasificación de cartera.
+
+Las instituciones financieras que estuvieren clasificadas en las categorías II ó III, como asimismo aquellas que estando en categoría I no hubieren alcanzado la misma categoría en la evaluación precedente, quedarán sujetas a las siguientes reglas:
 
 a) Estimación de pérdidas y riesgos adicionales informados por esta Superintendencia.
 
@@ -10142,6 +10160,14 @@ Si con posterioridad a la revisión de esta Superintendencia la institución fin
 
 Las instituciones financieras deberán mantener constituida al cierre de cada mes, una provisión equivalente a la pérdida estimada de sus inversiones en bonos y debentures. En concordancia con lo dispuesto en los N°s 4 y 5 precedentes, el monto de la provisión exigida se establecerá de acuerdo con lo siguiente:
 
+6.1.- Instituciones clasificadas dos veces consecutivas en categoría I según sus procesos de clasificación de cartera.
+
+Las instituciones que se encuentren clasificadas por segunda o más veces consecutivas en categoría I según la calidad de sus procesos dé clasificación de cartera, mantendrán automáticamente el nivel de provisiones exigido según la pérdida estimada calculada sobre el valor contable de los bonos o debentures que mantengan en cartera al cierre de cada mes, debiendo considerar para este efecto, a partir del mismo mes en que se comuniquen, las clasificaciones que informe esta Superintendencia como consecuencia de su revisión.
+
+6.2.- Instituciones que no se estuvieren clasificadas dos veces consecutivas en categoría I según sus procesos de clasificación de cartera.
+
+Las instituciones financieras que estuvieren clasificadas en las categorías II ó III, como asimismo aquellas que estando en categoría I no hubieren alcanzado la misma categoría en la evaluación precedente, quedarán sujetas a las siguientes reglas:
+
 a) Pérdida informada.
 
 Esta Superintendencia comunicará a cada institución financiera la pérdida estimada de las inversiones en bonos y debentures de que se trata, sobre la base de la composición y clasificación que le corresponde a la cartera existente a la fecha en que este Organismo realice la respectiva visita de inspección.
@@ -10220,11 +10246,11 @@ No obstante, las instituciones financieras deben disponer de tasaciones de todos
 
 Las instituciones financieras deben proporcionar a esta Superintendencia la información acerca de la clasificación de sus activos en categorías de riesgo, de acuerdo con las instrucciones contenidas al respecto en el Manual del Sistema de Información.
 
-### 3. Disposiciones transitorias
+3. Calificación de las instituciones financieras según sus procesos de clasificación de cartera.
 
-Las instituciones financieras que mantengan acciones recibidas por deudas capitalizadas al amparo de las disposiciones de la Ley N° 18.439, deberán mantener clasificadas tales acciones en la categoría de riesgo que le corresponda, según las definiciones dadas en el numeral 1.2 del título IV de este capítulo. La pérdida estimada de dicha cartera, que servirá de base para la
+Las calificaciones de las instituciones financieras en las categorías establecidas según la calidad de sus sistemas de clasificación de cartera, tratadas en el título I de este Capítulo, se aplicarán por primera vez sobre la base de los resultados obtenidos de las revisiones que practique este Organismo a partir del 1° de diciembre de 1990.
 
-constitución de las respectivas provisiones, se calculará de acuerdo con lo dispuesto en el N° 3 del mismo título.
+Sin embargo, en una primera etapa las calificaciones se darán a conocer solamente a las evaluadoras privadas de riesgo y a la Comisión Clasificadora de Riesgos de las AFP. Posteriormente, cuando todas las instituciones se encuentren calificadas, las clasificaciones se darán a conocer al público en general según lo previsto en las presentes normas.
 
 ANEXO N° 1
 
@@ -10261,6 +10287,154 @@ PAISES EN LOS CUALES DEBEN ESTAR SITUADOS LOS BANCOS QUE EMITAN CARTAS DE CREDIT
 - SUIZA
 
 - TAIWAN
+
+ANEXO N° 2
+
+EVALUACION DEL SISTEMA DE CLASIFICACION DE CARTERA DE LAS INSTITUCIONES FINANCIERAS.
+
+INDICADORES UTILIZADOS
+
+Aumento de las pérdidas estimadas a la cartera detectado durante la última revisión:
+
+X1 = Diferencia entre la pérdida estimada por la institución financiera a los deudores comprendidos en la muestra elegida en la visita de inspección, con respecto a la estimada por esta Superintendencia, expresada como porcentaje de las colocaciones comerciales evaluadas.
+
+Para el cálculo de este porcentaje no se incluirán las apelaciones ni los créditos reclasificados a raíz de hechos notoriamente desfavorables que le hayan ocurrido al deudor después de la fecha a que esté referida la revisión Por otra parte, el cálculo incluirá los créditos que se castiguen durante la visita de inspección
+
+Reclasificaciones exigidas:
+
+X2 = Porcentaje de los deudores comprendidos en la muestra, cuya clasificación se bajó durante la última revisión de cartera, excluyendo las reclasificaciones de categoría "A" a categoría "B"
+
+No se incluirán dentro de la muestra los deudores cuya clasificación se apele ni los créditos reclasificados a raíz de hechos notoriamente desfavorables que le hayan ocurrido al deudor después de la fecha a que esté referida la revisión. Por otra parte, el cálculo incluirá los créditos que se castiguen durante la visita de inspección.
+
+El porcentaje que corresponde a este indicador se calculará de la forma que se señala más adelante.
+
+Y2 = Cantidad de deudores de la muestra cuya clasificación se bajó durante la última revisión de cartera, excluyendo las reclasificaciones de categoría "A" a categoría "B".
+
+No se incluirán los créditos reclasificados a raíz de hechos notoriamente desfavorables que le hayan ocurrido al deudor después de la fecha a que esté referida la revisión. Por otra parte, se incluirán los créditos que se castiguen durante la visita de inspección
+
+Disponibilidad de información para clasificar a los deudores:
+
+X3 = Porcentaje de los deudores analizados en la revisión practicada por este Organismo de los que la institución no cuenta con información suficiente que le permita, tanto a ella como a esta Superintendencia, evaluar los riesgos y estimar las pérdidas potenciales de su cartera.
+
+Para este efecto se consideraran todos los deudores analizados (incluidos los casos apelados) para los que no se cuente con información suficiente El porcentaje se calculará de la forma que se señala más adelante
+
+Y3 = Cantidad de deudores analizados en la revisión practicada por este Organismo para los que la institución no cuenta con información suficiente que le permita, tanto a ella como a esta Superintendencia, evaluar los riesgos y estimar las pérdidas potenciales de su cartera.
+
+Se considerarán todos los deudores analizados (incluidos los casos apelados) para los que no se cuente con información suficiente.
+
+Cálculo de los indicadores X2 y X3.
+
+Con el fin de que se puedan inferir conclusiones válidas a partir de las muestras elegidas, los indicadores X2 y X3 corresponderán al porcentaje que represente la cantidad de deudores reclasificados y el numero de deudores sin información suficiente, respectivamente, en relación con la cantidad que resulte mayor entre
+
+a) el número de deudores de la muestra elegida u 80, si la cantidad de mayores deudores comerciales que acumulan el 75% de la cartera comercial es mayor o igual a 320, o,
+
+b) el número de deudores de la muestra elegida o la cuarta parte del número de los mayores deudores comerciales que acumulan el 75% de la cartera de colocaciones comerciales, cuando éstos no superen los 320 deudores
+
+Clasificación de la suficiencia de información a que se refieren los indicadores X3 e Y3.
+
+En general, la información para clasificar a un deudor será suficiente en la medida en que ella permita obtener conclusiones fundadas acerca de los riesgos y pérdidas potenciales de los créditos otorgados a ese deudor de acuerdo con la metodología dispuesta en este Capítulo, lo cual dependerá de una serie de factores o circunstancias.
+
+Naturalmente que para calificar la información como suficiente o insuficiente y determinar, en consecuencia, los indicadores X3 e Y3 antes señalados, esta Superintendencia considerará cada caso en particular, teniendo en cuenta, entre otros factores, la situación jurídica, el tamaño de la empresa, la naturaleza y monto de la operación, la validez y confiabilidad de los datos o antecedentes conocidos y la clasificación de riesgo propuesta
+
+Así, por ejemplo, los antecedentes para una operación con una sociedad anónima abierta (que se encuentra sujeta a regulaciones en materia de emisión de información al público), no serán iguales a los requeridos cuando se trate de una operación con una empresa pequeña o mediana (que normalmente no prepara estados financieros en forma periódica o no tiene la exigencia de publicar balances auditados). Tampoco serán iguales, por ejemplo, los antecedentes necesarios para clasificar en categoría "D" a un deudor con serias dificultades financieras cuyos créditos se encuentren en cobranza judicial y los exigidos a uno que muestra una buena situación patrimonial y financiera y que ha servido oportunamente sus obligaciones.
+
+Si bien la multiplicidad de casos que pueden darse en la práctica impiden establecer exigencias de información en términos tales que la suficiencia o insuficiencia de información se determine mediante una mera verificación rutinaria de la existencia o inexistencia de determinados antecedentes, a fin de orientar a las instituciones sobre los criterios que aplicará esta Superintendencia se incluye en el Anexo N° 3 de este Capítulo una breve descripción de aquellos elementos que, a su juicio, caracterizan a un buen sistema de clasificación de cartera
+
+En todo caso, en una primera etapa la muestra para establecer los indicadores X3 e Y3 se tomará solamente de los mayores deudores que acumulen el 75% de la cartera comercial de la institución.
+
+CATERGORIAS DE CLASIFICACION DE LAS INSTITUCIONES
+
+Las instituciones financieras serán clasificadas en las categorías I, II y III, de acuerdo a los criterios que se exponen a continuación;
+
+Categoría I.
+
+Una institución será clasificada en categoría I, si satisface simultáneamente las siguientes condiciones
+
+.
+
+Categoria II
+
+Serán clasificadas en categoría II, las instituciones que no cumplan algunas de las condiciones definidas más arriba, pero que se encuadren dentro de las siguientes condiciones:
+
+.
+
+Categoria III
+
+Una entidad financiera será clasificada en categoria III, si se encuentra en una o más de las siguientes situaciones :
+
+.
+
+ANEXO N°3
+
+ELEMENTOS DE UN BUEN SISTEMA DE CLASIFICACION DE CARTERA
+
+A juicio de esta Superintendencia, para desarrollar un sistema de clasificación de cartera eficiente, las instituciones financieras deben considerar, en cada caso, la necesidad de mantener los antecedentes que se señalan a continuación. Esta información corresponde a aquella que es examinada normalmente por este Organismo y la necesidad de contar con ella depende, naturalmente, de las peculiaridades de los deudores o de los créditos de que se trate.
+
+(a) Antecedentes legales, constitución, modificaciones, capital, etc.
+
+(b) Identificación clara de los dueños directos o indirectos de la sociedad deudora y relaciones con otras empresas, especialmente si éstas también son deudoras de la institución financiera.
+
+(c) Actividad del deudor. Bienes o servicios que vende, experiencia, breve historia de la empresa y de sus relaciones con la institución (cuándo se inició como cliente y qué operaciones se le han financiado, dificultades que ha enfrentado, etc ) y características de la competencia que enfrenta. Si se trata de una empresa perteneciente a un grupo de sociedades, la forma como opera con el resto de las empresas relacionadas. Además, antecedentes económicos o estadísticos del sector de actividad en que opera el deudor.
+
+(d) Evaluación del proyecto de largo plazo financiado, debidamente analizada por la institución
+
+(e) Estados financieros actualizados incluyendo cierres dentro del año y, en lo posible, auditados.
+
+(f) Comprobantes de pago de IVA y declaración de impuesto a la renta cuando no se cuente con información financiera confiable o actualizada
+
+(g) Determinación clara del objetivo de los prestamos. Al tratarse de renegociaciones, información de cuál era el objetivo inicial.
+
+(h) Memorándum de aprobación de créditos otorgados en los últimos tres años o desde que el deudor es cliente de la institución, que indique claramente el destino de los fondos.
+
+(i) Características de los créditos actuales: fecha de otorgamiento, plan de pago, tasa de interés, etc.
+
+(j) Antecedentes sobre el comportamiento de pago del deudor; SI paga en las fechas estipuladas o se le renuevan las obligaciones, con o sin capitalización de intereses.
+
+(k) Información actualizada sobre las garantías, con el correspondiente informe de la fiscalía. Acceso expedito a los documentos que acrediten las garantías constituidas Todas las garantías deben contar con tasaciones lo más actualizadas posibles (lo que dependerá de la naturaleza del bien en cuestión). Informes sobre seguros tomados (y certificados Cora cuando corresponda).
+
+(l) Informes de visitas al deudor con los comentarios correspondientes.
+
+(m) Correspondencia intercambiada entre la institución financiera y el deudor.
+
+(n) Informe de la persona a cargo de la clasificación de cartera que fundamente la categoría asignada al deudor.
+
+(ñ) Informe actualizado del encargado de analizar los créditos del deudor, que dé una visión completa sobre los riesgos que para la institución significa el crédito y que, cuando corresponda, se refiera a los antecedentes antes señalados
+
+La mantención de la información antes descrita dependerá, como ya está dicho, de las características del deudor, del tipo de créditos otorgados, del monto de sus obligaciones, etc. A modo de orientación y considerando un sistema ideal de clasificación de cartera, se entregan a continuación algunos ejemplos de la información que sería suficiente, en los casos que se tipifican, para los propósitos de fundamentar la clasificación
+
+Ejemplo 1. Crédito otorgado recientemente para financiar un proyecto de una empresa nueva
+
+En estos casos la institución debería mantener la información signada con las letras (a), (b), (c), (d), (e), (i), (k), (m) y (n)
+
+- Ejemplo 2: Crédito para financiar la ampliación de una empresa en marcha.
+
+En este caso la institución debería contar con todos los antecedentes antes señalados.
+
+- Ejemplo 3: Crédito para financiar, a corto o mediano plazo, la compra de un bien del activo fijo que no tiene gran importancia dentro de los activos totales de la empresa
+
+Aquí se debería contar con los antecedentes señalados en las letras (a), (b), (c), (e), (f ), (g), (i), (k), (m) y (n).
+
+- Ejemplo 4: Créditos otorgados a una empresa para financiar capital de explotación permanente
+
+Se debería disponer de los antecedentes indicados en las letras (a), (b), (c), (e), (f), (g) dentro de lo posible, (h), (i), (j), (k), (l), (m), (n) y (ñ)
+
+- Ejemplo 5: Créditos otorgados a deudores agrícolas para financiar la explotación anual de su predio
+
+Para este tipo de operación, la institución debería contar con la información a que se refieren las letras (a), si se trata de una persona jurídica, (b), (c), (e) que debería consistir en un estado de situación si no lleva contabilidad, (f), (g), (i), (k), (l), (m), (n) y (ñ) Además, la institución debería contar con un estudio de la rentabilidad de la explotación anual que está financiando
+
+- Ejemplo 6: Créditos otorgados con garantías consistentes en cartas de crédito stand by (que cumplan las condiciones señaladas en el numeral 2 5 del título II de este Capítulo) o depósito a plazo que cubra la totalidad del préstamo.
+
+En este caso bastara con la información señalada en las letras (a), (b) y (k)
+
+- Ejemplo 7: Deudores en senas dificultades financieras que se encuentren en cobranza judicial.
+
+En estas circunstancias, se requerirá de lo señalado en las letras (a), (b), (k) y (n), además de un informe del abogado que lleva la cobranza sobre el estado de esta y las posibilidades de recuperación de los créditos.
+
+- Ejemplo 8: Deudores que se encuentren en dificultades financieras que están tratando de alcanzar algún arreglo con sus bancos acreedores
+
+En estos casos es necesario contar con toda la información, lo más completa posible
+
+Para algunos de estos ejemplos sería necesario consignar, además, que si se trata de una empresa pequeña o mediana, que tiene un volumen de operaciones pequeño y por lo general no cuenta con antecedentes financieros completos, la cantidad o calidad de la información dependerá muchas veces de estos factores.
 
 CAPITULO 8-29 (Bancos y Financieras)
 
@@ -10330,9 +10504,11 @@ La misma provisión deberá constituirse, cualquiera sea la oportunidad en que s
 
 Para los efectos de constituir las provisiones transitorias de que se trata, se considerarán también los otorgamientos de nuevos créditos, ya sea al mismo deudor o a un tercero, que se destinen a pagar algún crédito que se encuentre en alguna de las situaciones señaladas en los párrafos precedentes.
 
-Estas provisiones deberán mantenerse íntegramente hasta que esta Superintendencia examine en sus inspecciones habituales, la clasificación de los créditos renegociados e informe un nuevo riesgo para la cartera. Una vez examinada la clasificación podrán liberarse todas las provisiones sobre créditos renegociados constituidas hasta la fecha a la que esté referida la evaluación
+Las instituciones financieras que estuvieren clasificadas por lo menos por segunda vez consecutiva en categoría I de acuerdo con la calidad de sus procesos de clasificación de cartera, podrán liberar las provisiones constituidas cuando el deudor del respectivo crédito otorgado sea clasificado considerando su nueva situación crediticia.
 
-efectuada por esta Superintendencia, sin perjuicio de enterar, cuando corresponda, la provisión necesaria para cubrir la nueva pérdida estimada de la cartera, derivada de esa clasificación. Sin embargo, si con anterioridad a la fecha en que este Organismo informe el riesgo, la institución obtiene el pago de todo o parte del crédito renegociado o del nuevo crédito que origina la provisión, sin que se otorgue otro préstamo para el efecto, la institución podrá liberar el exceso de provisión constituida, entendiéndose por tal, el monto de la provisión que excede al valor del crédito una vez realizado el pago.
+En el caso de las instituciones que no se encuentren en la situación prevista en el párrafo precedente, estas provisiones deberán mantenerse íntegramente hasta que esta Superintendencia examine en sus inspecciones habituales, la clasificación de los créditos renegociados e informe un nuevo riesgo para la cartera. Una vez examinada la clasificación podrán liberarse todas las provisiones sobre créditos renegociados constituidas hasta la fecha a la que esté referida la evaluación efectuada por esta Superintendencia, sin perjuicio de enterar, cuando corresponda, la provisión necesaria para cubrir la nueva pérdida estimada de la cartera, derivada de esa clasificación.
+
+No obstante lo anterior, si con anterioridad a la fecha en que se puede liberar íntegramente la provisión según lo señalado en los párrafos precedentes, la institución obtiene el pago de todo o parte del crédito renegociado o del nuevo crédito que origina la provisión, sin que se otorgue otro préstamo para el efecto, la institución podrá liberar el exceso de provisión constituida, entendiéndose por tal, el monto de la provisión que excede al valor del crédito una vez realizado el pago.
 
 Quedan excluidos las disposiciones de este numeral, los créditos de consumo y los préstamos hipotecarios para la vivienda de que tratan los números 3 y 4 del título II del Capítulo 8-28 de esta Recopilación, respectivamente. Asimismo, quedarán exentos los créditos renegociados cuyo saldo después de la renegociación sea igual o inferior al equivalente de 1.000 unidades de fomento y aquellos que se destinen a pagar obligaciones que se encuentren en las situaciones antes señaladas, cuando no superen ese monto equivalente.
 
@@ -10348,7 +10524,17 @@ Las provisiones sobre créditos renegociados deberán abonarse a la cuenta "Prov
 
 Los asientos en las respectivas cuentas se revertirán al momento de cumplirse las condiciones previstas para la eliminación de estas provisiones.
 
-2. 3. Cómputo de las provisiones adicionales.
+2.3. Provisión especial por el uso de procedimientos deficientes de clasificación.
+
+Las instituciones financieras que, conforme a lo señalado en el Título I y en el Anexo N° 2 del Capítulo 8-28 de esta Recopilación, estén clasificadas en la categoría III según la calidad de su sistema de clasificación de cartera, deberán constituir un resguardo adicional con el fin de cubrir el mayor riesgo inherente a la falta de diagnósticos certeros y oportunos de la calidad de su cartera o los errores de estimación que se pueden derivar de las deficiencias de los procedimientos utilizados.
+
+Para ese efecto, las instituciones financieras que se encuentren en aquella situación, deberán mantener una provisión adicional equivalente al 20% de la diferencia entre la pérdida estimada por la institución y la determinada en la revisión de este Organismo, correspondiente a la muestra de deudores elegida en cada oportunidad. Mientras la institución se mantenga clasificada en la categoría III antes señalada, la provisión se incrementará por las diferencias que se establezcan en nuevas revisiones.
+
+El monto de dichas provisiones, expresado en Unidades de Fomento, será comunicado por esta Superintendencia junto con la información relativa al porcentaje de pérdida estimada de la cartera y se constituirá en el mismo mes en que se reciba la respectiva comunicación. Estas provisiones especiales sólo podrán revertirse una vez que la institución financiera haya sido clasificada en categoría I y siempre que dicha clasificación sea consecutiva a otra en que no se haya clasificado en la categoría III.
+
+Las provisiones de que se trata se constituirán con abono a la cuenta "Provisiones por mayor riesgo sistemas de clasificación", de la partida 4205, con cargo a la cuenta de resultado del mismo nombre que se incluirá en la partida 6110 Para liberar las provisiones se acreditará esta cuenta de gastos hasta la concurrencia del saldo deudor que ella demuestre. Los importes que excedan a ese saldo se abonarán a la cuenta "Liberación de provisiones por riesgo de activos", de la partida 8110.
+
+2. 4. Cómputo de las provisiones adicionales.
 
 En cualquier caso, las provisiones adicionales a que se refiere este N° 2 deben tratarse y considerarse en forma independiente de las demás provisiones constituidas; vale decir, no puede imputarse una en abono de la otra, como tampoco en abono de otras provisiones sobre la cartera de colocaciones, ni estas últimas, a su vez, pueden imputarse, total o parcialmente, en abono de alguna de ellas.
 
@@ -35824,8 +36010,6 @@ Los pagos en moneda extranjera de las mercaderías que se importen y de los gast
 
 Las personas que adquieran divisas para efectuar esos pagos, estarán exentas de la obligación de liquidarlas, siempre que se dé fiel cumplimiento a las normas contenidas en el Capítulo III antes mencionado.
 
-De conformidad con dichas normas, la venta de las divisas para el pago o rembolso de las importaciones no podrá efectuarse antes de la fecha de vencimiento del plazo pactado para el pago de la respectiva obligación.
-
 2.2. Venta de divisas para el pago anticipado de mercaderías.
 
 Los bancos podrán vender divisas para el pago anticipado de mercaderías que se importen, solamente cuando así lo haya autorizado expresamente el Banco Central de Chile en el respectivo Informe de Importación.
@@ -35868,21 +36052,15 @@ En las coberturas de importaciones en cobranza, podrán adicionarse intereses a 
 
 La tasa de interés que se cobre en las operaciones señaladas en los numerales 5.1, 5.2 y 5.3 precedentes, no podrá exceder de la que autorice el Banco Central de Chile para esos efectos.
 
-### 6. Remesa o rembolso del importe de las coberturas
-
-La remesa de las divisas al exterior para el pago de la respectiva importación o su rembolso a la institución bancaria, cuando se trate de importaciones efectuadas con financiamiento bancario, no podrá realizarse antes de cumplido el plazo pactado.
-
-Cuando el importe de la cobertura deba ser enviado al extranjero o entregado a otro banco situado en el país, su remesa deberá efectuarse a más tardar el día siguiente hábil bancario después de la fecha en que se realizó la venta de las divisas.
-
-### 7. Anotación de las ventas de divisas
+### 6. Anotación de las ventas de divisas
 
 Las empresas bancarias deberán anotar al dorso del respectivo Informe de Importación, al cursar la venta de las divisas, o al recibirlas cuando la venta la hubiere efectuado otro banco, el número, fecha y monto de la respectiva Planilla de Cobertura Egreso Comercio Visible y el nombre del banco y oficina emisora de dicha Planilla.
 
-### 8. Resguardo sobre documentos
+### 7. Resguardo sobre documentos
 
 Las empresas bancarias convendrán libremente con los importadores, la entrega de los documentos de embarque y de la copia del Informe de Importación que habilita a estos últimos para desaduanar la mercadería; en todo caso, cuando se trate de documentos recibidos en cobranza, se deberán cumplir fielmente las instrucciones del cedente. Asimismo, deberán requerir, para efectuar la cobertura o endosar la respectiva planilla y para mantener en su archivo como antecedente de respaldo de cada cobertura efectuada, los documentos señalados en el Capítulo III del Título III del Compendio de Normas de Cambios Internacionales. En ambos casos las entidades bancarias quedan en libertad de adoptar las precauciones necesarias para resguardar el oportuno cumplimiento de las normas relativas a la obtención de los documentos exigidos para cursar dichas operaciones.
 
-### 9. Traspaso de documentación
+### 8. Traspaso de documentación
 
 Ante la sola solicitud del importador, los bancos podrán traspasar a la entidad bancaria que aquél designe, el Informe de Importación debidamente endosado y los documentos de embarque respectivos. De los actos de entrega y recepción de la citada documentación, deberán dejar debida constancia tanto el banco cedente como el cesionario.
 
@@ -35892,7 +36070,7 @@ Del mismo modo, ante el solo requerimiento del importador, las empresas bancaria
 
 Los endosos, sea del Informe de Importación o de la Planilla de Cobertura, deberán extenderse en la forma dispuesta en las normas del Instituto Emisor.
 
-### 10. Archivo de la documentación
+### 9. Archivo de la documentación
 
 Las empresas bancarias formarán un legajo con cada uno de los Informes de Importación por los cuales hayan endosado la respectiva Planilla de Cobertura o por los cuales hubieran vendido divisas, según corresponda. Estos legajos los mantendrán en sus archivos bajo su exclusiva responsabilidad, ordenados correlativamente por el número de emisión del Informe de Importación e incluirán, obligadamente, los siguientes documentos:
 
@@ -35930,29 +36108,29 @@ En las importaciones con coberturas parciales efectuadas por más de una empresa
 
 Por otra parte, los bancos que hayan vendido divisas sobre la base de una Planilla de Cobertura Egreso Comercio Visible que les haya sido endosada por otro banco, deberán mantener copia de esa Planilla en sus archivos conjuntamente con una copia de la Planilla de Cobertura que hayan emitido con motivo de dicha venta.
 
-### 11. Entrega de documentos al Banco Central de Chile
+### 10. Entrega de documentos al Banco Central de Chile
 
 El Banco Central de Chile, a través de la Gerencia de Comercio Exterior, podrá requerir en cualquier momento de las empresas bancarias la entrega de los documentos indicados en el numeral anterior. Los bancos deberán cumplir con la entrega de dichos documentos dentro del plazo que, para tal efecto les señale el Instituto Emisor.
 
-### 12. Instrucciones contables
+### 11. Instrucciones contables
 
-12.1. Cobertura de importaciones con carta de crédito.
+11.1. Cobertura de importaciones con carta de crédito.
 
 Los bancos que efectúen la cobertura de importaciones con carta de crédito, acreditarán el monto del capital incluido en dicha cobertura en la cuenta en que esté registrada la respectiva colocación. El importe de los intereses se acreditará en la cuenta de ingresos que corresponda, de la partida 7115.
 
-12.2. Cobertura de importaciones en cobranza. Al efectuar la cobertura de estas operaciones, su importe se deberá revertir en las cuentas de orden en que se encuentre registrado.
+11.2. Cobertura de importaciones en cobranza.
 
-Además, cuando no alcancen a remesar las divisas el mismo día en que se efectúe la cobertura, acreditarán su importe en la cuenta "Coberturas por remesar", de la partida 3010.
+Al efectuar la cobertura de estas operaciones, su importe se deberá revertir en las cuentas de orden en que se encuentre registrado.
 
-En todo caso, la remesa al respectivo acreedor deberá efectuarse a más tardar en el día hábil bancario siguiente a la fecha de la cobertura, de modo que la permanencia en la citada cuenta no deberá exceder del lapso indicado.
+Además, cuando no remesen las divisas el mismo día en que se efectúe la cobertura, acreditarán su importe en la cuenta "Coberturas por remesar", de la partida 3010.
 
-### 13. Seguros
+### 12. Seguros
 
 En los casos en que los seguros en moneda extranjera que amparen las mercaderías que se traigan al país se contraten en Chile a nombre del importador, éste, conjuntamente con la compañía de seguros, deberá con- ferir un mandato irrevocable a una empresa bancaria situada en Chile, para que ésta liquide las divisas que le sean entregadas y que provengan de pagos efectuados por la Compañía de Seguros por concepto de indemnización de siniestros.
 
 En los casos de seguros tomados en el extranjero cuyo beneficiario sea el importador, éste deberá suscribir una declaración jurada simple en la que se comprometa a retornar y liquidar en una empresa bancaria situada en Chile, el importe de las eventuales indemnizaciones de siniestros.
 
-### 14. Sanciones
+### 13. Sanciones
 
 La infracción a las normas de cobertura indicadas en el Capítulo III del Título III del Compendio de Normas de Cambios Internacionales, podrá ser sancionada en conformidad con lo dispuesto en el Capítulo II del Título IV de dicho Compendio.
 
