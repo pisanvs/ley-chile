@@ -1,0 +1,5 @@
+Por decreto M.O.P. No. 487, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del DFL.
+
+M.O.P. No. 850, de 1997, que fijó el texto actualizado de la Ley No. 15.840, se expropió el lote de terreno No. 1, para la obra Camino San Javier Constitución, sector Puertas Verdes Kms. 11.000 al 11.150, que figura a nombre de Eliana del R. Rojas Carrasco, rol de avalúo 512-48, comuna de Constitución, superficie 6.000 m.. La Comisión de Peritos compuesta por los señores Luis Hugo Villarroel Urbina, Iván Correa Opazo y Claudio Burgos Valera, fijó con fecha 21 de junio de 1997, el valor provisional de la indemnización en la cantidad de $ 24.054.000, para el lote No. 1.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
