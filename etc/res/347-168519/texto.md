@@ -1,0 +1,3 @@
+Por Resolución No. 347, de 27 de Marzo de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, derógase la Resolución No. 1.152 de 1989 de esta Subsecretaría, por la cual se autorizó a don CARLOS OTEI AMPUERO, RUT No. 6.622.096-6, domiciliado en Ancud, calle San Antonio No. 49, para iniciar actividades pesqueras de cultivo de algas, en Estero Chaular, comuna de Ancud, Provincia de Chiloé, por renuncia de un titular.
+
+Valparaíso, 27 de Marzo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
