@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.809, de 30 de diciembre de 1998, se expropió el lote de terreno No. 15, superficie 5.419,5 m2, rol de avalúo 432-54, comuna de Gorbea, para la obra Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno y se acordó el valor de indemnización con sus propietarios María Claudina Vásquez Bravo y Otros, ascendente a la cantidad de $ 4.559.099.-
+
+Fiscal del Ministerio de Obras Públicas.
