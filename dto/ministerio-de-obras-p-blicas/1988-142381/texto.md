@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.988, de 30 de julio de 1999, se expropiaron los lotes de terreno Nºs. 44, 49, 49-A y 85, superficies 5.000, 8.446, 7.554 y 28.000 m2, rol de avalúo, 250-3, comuna de Salamanca, para la obra Embalse Corrales y sus obras complementarias, Zona de Inundación, y se acordó precio de indemnización con sus propietarios José Zuáres Ibacache, José Moyano Valencia, Nela del Rosario Valencia y Martín Vásquez Díaz, ascendentes a las cantidades de $1.009.106 el lote Nº 44, $1.159.442 el lote Nº 49, $12.234.072 el lote Nº 49-A, y $18.314.244 el lote Nº 85.-
+
+Fiscal del Ministerio de Obras Públicas.
