@@ -50,9 +50,29 @@ No es comerciante el que ejecuta accidentalmente un acto de comercio; pero queda
 
 Cuando los hijos de familia y los menores que administran su peculio profesional en virtud de la autorización que les confieren los artículos 246 y 439 del Código Civil ejecutaren algún acto de comercio, quedarán obligados hasta concurrencia de su peculio y sometidos a las leyes de comercio.
 
+#### Artículo 12
+
+Derogado.
+
+#### Artículo 13
+
+Derogado.
+
 #### Artículo 14
 
 La mujer casada no será considerada como comerciante si no hace un comercio separado del de su marido.
+
+#### Artículo 15
+
+Derogado.
+
+#### Artículo 17
+
+Derogado.
+
+#### Artículo 18
+
+El menor comerciante puede comparecer en juicio por sí solo en todas las cuestiones relativas a su comercio.
 
 #### Artículo 19
 
