@@ -3302,87 +3302,21 @@ SISTEMA DE AHORRO Y FINANCIAMIENTO DE LA VIVIENDA.
 
 ### I. GENERALIDADES DEL SISTEMA DE AHORRO Y FINANCIAMIENTO DE LA VIVIENDA
 
-Este sistema, reglamentado por el Decreto Supremo N° 44 del Ministerio de
+Este sistema, reglamentado por el Decreto Supremo N° 44 del Ministerio de Vivienda y Urbanismo, publicado en el Diario Oficial del 9 de abril de 1988,modificado por los Decretos Supremos N°s. 114 y 135, del mismo
 
-Vivienda y Urbanismo, publicado en el Diario Oficial del 9 de abril de
+Ministerio,publicados en el Diario Oficial el 6 y 13 de agosto de 1988, respectivamente, en adelante "el Reglamento", permite postular a un subsidio estatal y solicitar un préstamo en letras de crédito para financiar la construcción o la compra de una vivienda nueva o usada, urbana o rural, por un valor de hasta el equivalente de 2.000 unidades de fomento, a las personas
 
-1988,modificado por los Decretos Supremos N°s. 114 y 135, del mismo
+naturales que, para ese fin, hayan enterado y mantenido en una institución financiera, un determinado ahorro mínimo, durante un período preestablecido y que no sean propietarias de una vivienda.
 
-Ministerio,publicados en el Diario Oficial el 6 y 13 de agosto de 1988,
+El subsidio habitacional ofrecido por el Estado es sin cargo de restitución para el beneficiario, pero no puede destinarse a la adquisición o construcción de viviendas de recreación o veraneo, ni a la adquisición de una vivienda a través de los mecanismos contemplados en el D.L. N° 1.519 de 1976, sobre Impuesto Habitacional. Es requisito imprescindible para postular a ese subsidio, haber enterado el ahorro previo en una cuenta de ahorro a plazo para la vivienda abierta en una institución financiera o, en la forma de aporte de capital, en una cooperativa abierta de vivienda.
 
-respectivamente, en adelante "el Reglamento", permite postular a un subsidio
+Los interesados que hayan dado cumplimiento al ahorro previo y que reúnan las demás condiciones exigidas por las normas que rigen este sistema, pueden postular al subsidio habitacional ofrecido por el Estado y solicitar un préstamo en letras de crédito para la compra o construcción de una vivienda.
 
-estatal y solicitar un préstamo en letras de crédito para financiar la
+El subsidio habitacional, que consiste en un subsidio directo y un subsidio implícito que corresponde a la cobertura de la diferencia o parte de ella que puede producirse entre el valor par de las letras de crédito emitidas por el préstamo que puede recibir el beneficiario y el producto que se obtenga de la venta de ellas, se otorga a los postulantes que concursen, sobre la base del puntaje que reúnan, determinado en la forma que se señala en el Reglamento. El Ministerio de Vivienda y Urbanismo fija en cada oportunidad el puntaje de corte para la selección de los postulantes y determina, por ende, a los beneficiarios de esta ayuda estatal.
 
-construcción o la compra de una vivienda nueva o usada, urbana o rural, por un
+Los postulantes beneficiados con el subsidio directo tienen derecho a solicitar un préstamo en letras de crédito a una institución financiera, a fin de destinarlo conjuntamente con dicho subsidio y el ahorro previo, a la compra o construcción de una vivienda de hasta un valor equivalente a 2.000 unidades de fomento, conforme a las instrucciones contenidas en el título III de este capítulo.
 
-valor de hasta el equivalente de 2.000 unidades de fomento, a las personas
-
-naturales que, para ese fin, hayan enterado y mantenido en una institución
-
-financiera, un determinado ahorro mínimo, durante un período preestablecido y
-
-que no sean propietarias de una vivienda.
-
-El subsidio habitacional ofrecido por el Estado es sin cargo de restitución para
-
-el beneficiario, pero no puede destinarse a la adquisición o construcción de
-
-viviendas de recreación o veraneo, ni a la adquisición de una vivienda a través
-
-de los mecanismos contemplados en el D.L. N° 1.519 de 1976, sobre Impuesto
-
-Habitacional. Es requisito imprescindible para postular a ese subsidio, haber
-
-enterado el ahorro previo en una cuenta de ahorro a plazo para la vivienda
-
-abierta en una institución financiera o, en la forma de aporte de capital, en
-
-una cooperativa abierta de vivienda.
-
-Los interesados que hayan dado cumplimiento al ahorro previo y que reúnan las
-
-demás condiciones exigidas por las normas que rigen este sistema, pueden
-
-postular al subsidio habitacional ofrecido por el Estado y solicitar un préstamo
-
-en letras de crédito para la compra o construcción de una vivienda.
-
-El subsidio habitacional, que consiste en un subsidio directo y un subsidio
-
-implícito que corresponde a la cobertura de la diferencia o parte de ella que
-
-puede producirse entre el valor par de las letras de crédito emitidas por el
-
-préstamo que puede recibir el beneficiario y el producto que se obtenga de la
-
-venta de ellas, se otorga a los postulantes que concursen, sobre la base del
-
-puntaje que reúnan, determinado en la forma que se señala en el Reglamento. El
-
-Ministerio de Vivienda y Urbanismo fija en cada oportunidad el puntaje de corte
-
-para la selección de los postulantes y determina, por ende, a los beneficiarios
-
-de esta ayuda estatal.
-
-Los postulantes beneficiados con el subsidio directo tienen derecho a solicitar
-
-un préstamo en letras de crédito a una institución financiera, a fin de
-
-destinarlo conjuntamente con dicho subsidio y el ahorro previo, a la compra o
-
-construcción de una vivienda de hasta un valor equivalente a 2.000 unidades de
-
-fomento, conforme a las instrucciones contenidas en el título III de este
-
-capítulo.
-
-Las instituciones financieras que reciban estas cuentas de ahorro quedan
-
-obligadas a entregar oportunamente a sus titulares el certificado a que se
-
-refiere el artículo 9° del Reglamento.
+Las instituciones financieras que reciban estas cuentas de ahorro quedan obligadas a entregar oportunamente a sus titulares el certificado a que se refiere el artículo 9° del Reglamento.
 
 ### II. DE LAS CUENTAS DE AHORRO A PLAZO PARA LA VIVIENDA
 
@@ -3552,45 +3486,17 @@ Este estado de cuenta deberá enviarse también con ocasión del giro que haga e
 
 ### 8. Determinación del saldo medio semestral mínimo
 
-Los ahorrantes que se incorporen a este sistema deben cumplir con la obligación
+Los ahorrantes que se incorporen a este sistema deben cumplir con la obligación de mantener en su cuenta de ahorro a plazo para la vivienda un saldo promedio semestral mínimo, que se determina sobre la base del monto total mínimo del ahorro que se han comprometido a enterar.
 
-de mantener en su cuenta de ahorro a plazo para la vivienda un saldo promedio
+Este saldo promedio debe ser, para cada semestre convenido, contado desde el primer día del mes siguiente a aquel en que se efectúe el primer depósito, el que se indica a continuación:
 
-semestral mínimo, que se determina sobre la base del monto total mínimo del
-
-ahorro que se han comprometido a enterar.
-
-Este saldo promedio debe ser, para cada semestre, contado desde el primer día
-
-del mes siguiente a aquel en que se efectúe el primer depósito, el que se indica
-
-a continuación:
-
-Primer semestre: Una suma igual al cuociente obtenido de dividir el ahorro total
-
-mínimo pactado por el doble de semestres que comprendan el plazo para enterarlo.
+Primer semestre: Una suma igual al cuociente obtenido de dividir el ahorro total mínimo pactado por el doble de semestres que comprendan el plazo para enterarlo.
 
 Segundo semestre: Tres veces el promedio exigido para el primer semestre.
 
-Por cada semestre sobre el segundo, deben agregarse a éste dos veces el promedio
+Por cada semestre sobre el segundo, deben agregarse a éste dos veces el promedio mínimo exigido para el primero.
 
-mínimo exigido para el primero.
-
-El saldo promedio efectivamente mantenido en el semestre, se calculará mediante
-
-la suma de los saldos diarios del período, dividida por el número de días de
-
-éste. Para estos cálculos no se considerarán los días transcurridos desde la
-
-fecha del primer depósito hasta el primer día del semestre, sin perjuicio de que
-
-deben tomarse en cuenta para el cálculo de reajustes e intereses. En todo
-
-caso,para los efectos de expresar ese promedio en unidades de fomento, debe
-
-aplicarse la conversión según el valor de la U.F. en la oportunidad en que cada
-
-depósito y cada giro, respectivamente, se haga efectivo.
+El saldo promedio efectivamente mantenido en el semestre, se calculará mediante la suma de los saldos diarios del período, dividida por el número de días de éste. Para estos cálculos no se considerarán los días transcurridos desde la fecha del primer depósito hasta el primer día del semestre, sin perjuicio de que deben tomarse en cuenta para el cálculo de reajustes e intereses. En todo caso,para los efectos de expresar ese promedio en unidades de fomento, debe aplicarse la conversión según el valor de la U.F. en la oportunidad en que cada depósito y cada giro, respectivamente, se haga efectivo.
 
 ### 9. Plazo de permanencia
 
@@ -3738,175 +3644,45 @@ El cambio de cualquiera de las condiciones especiales antes mencionadas, no pued
 
 12.1. Certificados para postular al subsidio habitacional.
 
-Los titulares de estas cuentas de ahorro a plazo para la vivienda que postulen
+Los titulares de estas cuentas de ahorro a plazo para la vivienda que postulen al subsidio habitacional regulado por el Reglamento, deben presentar un certificado extendido por el banco o sociedad financiera en que se haya mantenido la respectiva cuenta de ahorro.
 
-al subsidio habitacional regulado por el Reglamento, deben presentar un
+Las instituciones financieras deberán hacer entrega del mencionado certificado dentro de los cinco días hábiles bancarios siguientes a la fecha en que lo haya solicitado el interesado.
 
-certificado extendido por el banco o sociedad financiera en que se haya
+Además, en el caso que el ahorrante haya perdido el derecho a reajuste por exceso de giros, debe dejarse constancia de esa situación en el respectivo certificado, inmediatamente a continuación del párrafo que indica el ahorro total acumulado a la fecha de emisión del certificado, mediante la frase: "Sin derecho a reajuste por haber efectuado en el último período de doce meses una
 
-mantenido la respectiva cuenta de ahorro.
+cantidad de giros superior a la pactada".
 
-Las instituciones financieras deberán hacer entrega del mencionado certificado
+Estos certificados deberán extenderse de acuerdo al formato que se acompaña como Anexo N° 1 de este capítulo y deberán incluir toda la información que se requiere en él, de conformidad con las instrucciones que forman el Anexo N° 2.
 
-dentro de los cinco días hábiles bancarios siguientes a la fecha en que lo haya
-
-solicitado el interesado.
-
-Además, en el caso que el ahorrante haya perdido el derecho a reajuste por
-
-exceso de giros, debe dejar constancia de esa situación en el respectivo
-
-certificado, inmediatamente a continuación del párrafo que indica el ahorro
-
-total acumulado, mediante la frase: "Sin derecho a reajuste por haber efectuado
-
-en el último período de doces meses una cantidad de giros superior a la
-
-pactada".
-
-Estos certificados deberán extenderse de acuerdo al formato que se acompaña como
-
-Anexo N° 1 de este capítulo y deberán incluir toda la información que se
-
-requiere en él, de conformidad con las instrucciones que forman el Anexo N° 2.
-
-La vigencia de estos certificados para su presentación al SERVIU, será de
-
-sesenta días, contados desde su fecha de emisión. Las entidades financieras
-
-emisoras deberán señalar este plazo en forma clara y destacada en el respectivo
-
-documento, precisando la fecha en que se cumplen los mencionados sesenta días.
+La vigencia de estos certificados para su presentación al SERVIU, será de sesenta días, contados desde su fecha de emisión. Las entidades financieras emisoras deberán señalar este plazo en forma clara y destacada en el respectivo documento, precisando la fecha en que se cumplen los mencionados sesenta días.
 
 12.2. Certificados para traspaso de la cuenta de ahorro.
 
-Según lo dispuesto en las normas aprobadas por el Comité Ejecutivo del Banco
+Según lo dispuesto en las normas aprobadas por el Comité Ejecutivo del Banco Central de Chile, cuando el titular de una cuenta de ahorro para la vivienda solicite su traspaso a otra institución financiera, el banco o sociedad financiera que hubiere mantenido la cuenta, debe extender un certificado,dejando constancia, además del nombre completo y el RUT del dueño o titular dela cuenta,
 
-Central de Chile, cuando el titular de una cuenta de ahorro para la vivienda
+del monto total mínimo de ahorro a que se comprometió el titular, del plazo fijado para enterarlo, de los saldos promedio mantenidos y del saldo de cierre de la cuenta, con sus intereses y reajustes cuando corresponda.
 
-solicite su traspaso a otra institución financiera, el banco o sociedad
+Estos certificados deben emitirse en el mismo formulario diseñado para extender el certificado a que se refiere el numeral 12.1 precedente, cuyo formato y menciones se dan a conocer en el Anexo N° 1 de estas instrucciones, y deberán indicar en forma destacada que la cuenta debe ser abierta en un plazo máximo de tres días ya que si se hace posteriormente se la considerará como una cuenta nueva.
 
-financiera que hubiere mantenido la cuenta, debe extender un certificado,dejando
+12.3. Giros que pueden efectuarse con posterioridad a la emisión del certificado para postular al subsidio habitacional.
 
-constancia, además del nombre completo y el RUT del dueño o titular dela cuenta,
+Los ahorrantes que reciban el certificado a que se refiere el numeral 12.1 anterior, no podrán realizar ningún giro de su cuenta de ahorro para la vivienda a contar de la fecha de emisión del certificado para postular al subsidio habitacional, mientras no se conozcan los resultados de la respectiva postulación. No obstante, el ahorrante podrá ordenar en cualquier momento el traspaso del saldo de su cuenta a otra institución financiera, en los términos señalados en el número 10 anterior.
 
-del monto total mínimo de ahorro a que se comprometió el titular, del plazo
-
-fijado para enterarlo, de los saldos promedio mantenidos y del saldo de cierre
-
-de la cuenta, con sus intereses y reajustes cuando corresponda.
-
-Estos certificados deben emitirse en el mismo formulario diseñado para extender
-
-el certificado a que se refiere el numeral 12.1 precedente, cuyo formato y
-
-menciones se dan a conocer en el Anexo N° 1 de estas instrucciones, y deberán
-
-indicar en forma destacada que la cuenta debe ser abierta en un plazo máximo de
-
-tres días ya que si se hace posteriormente se la considerará como una cuenta
-
-nueva.
-
-12.3. Giros que pueden efectuarse con posterioridad a la emisión del certificado
-
-para postular al subsidio habitacional.
-
-Los ahorrantes que reciban el certificado a que se refiere el numeral 12.1
-
-anterior, no podrán realizar ningún giro de su cuenta de ahorro para la vivienda
-
-a contar de la fecha de emisión del certificado para postular al subsidio
-
-habitacional, mientras no se conozcan los resultados de la respectiva
-
-postulación. No obstante, el ahorrante podrá ordenar en cualquier momento el
-
-traspaso del saldo de su cuenta a otra institución financiera, en los términos
-
-señalados en el número 10 anterior.
-
-Si el interesado salió beneficiado en el llamado a que postuló, podrá girar de
-
-la cuenta de ahorro para pagar el precio de la compra de la vivienda, siempre
-
-que se haya firmado la correspondiente escritura, debiendo presentar copia de
-
-este último documento autorizado por notario. En caso que se trate de pagar la
-
-construcción de una vivienda, el interesado podrá girar de la cuenta de ahorro
-
-una vez que se haya inscrito la prohibición de enajenar la vivienda por cinco
-
-años y siempre que la respectiva municipalidad haya recibido el inmueble, para
-
-lo cual deberá presentar el correspondiente certificado de gravámenes y
+Si el interesado salió beneficiado en el llamado a que postuló, podrá girar de la cuenta de ahorro para pagar el precio de la compra de la vivienda, siempre que se haya firmado la correspondiente escritura, debiendo presentar copia de este último documento autorizado por notario. En caso que se trate de pagar la construcción de una vivienda, el interesado podrá girar de la cuenta de ahorro una vez que se haya inscrito la prohibición de enajenar la vivienda por cinco años y siempre que la respectiva municipalidad haya recibido el inmueble, para lo cual deberá presentar el correspondiente certificado de gravámenes y
 
 prohibiciones y el certificado de recepción municipal.
 
-No obstante lo anterior, el ahorrante podrá girar los fondos acumulados en su
+No obstante lo anterior, el ahorrante podrá girar los fondos acumulados en su cuenta, antes de que se cumplan las condiciones señaladas precedentemente,siempre que obtenga la autorización del SERVIU, para cuyo efecto deberá ser beneficiario del subsidio habitacional y haber suscrito como tal un contrato de compraventa o de promesa de compraventa o de construcción de una vivienda y entregar a dicho Servicio una boleta de garantía bancaria tomada por el vendedor, promitente vendedor o constructor, según sea el caso, a favor del beneficiario del subsidio y ahorrante, expresada en pesos moneda nacional o en unidades de fomento por el monto de los ahorros acumulados más la suma que determine dicho Servicio.
 
-cuenta, antes de que se cumplan las condiciones señaladas
-
-precedentemente,siempre que obtenga la autorización del SERVIU, para cuyo efecto
-
-deberá ser beneficiario del subsidio habitacional y haber suscrito como tal un
-
-contrato de compraventa o de promesa de compraventa o de construcción de una
-
-vivienda y entregar a dicho Servicio una boleta de garantía bancaria tomada por
-
-el vendedor, promitente vendedor o constructor, según sea el caso, a favor del
-
-beneficiario del subsidio y ahorrante, expresada en pesos moneda nacional o en
-
-unidades de fomento por el monto de los ahorros acumulados más la suma que
-
-determine dicho Servicio.
-
-También se permitirá efectuar giros a aquellos ahorrantes que habiendo resultado
-
-beneficiados en la postulación en que participaron, renunciaren al subsidio. En
-
-estos casos, la renuncia deberá perfeccionarse mediante la entrega a la
-
-institución financiera del certificado de subsidio, endosado por el respectivo
-
-beneficiario en forma nominativa a favor del SERVIU, y dejándose constancia en
-
-el mismo endoso, de la fecha en que éste se ha firmado. Asimismo, los ahorrantes
-
-quedan facultados para efectuar giros sobre los depósitos constituidos con
-
-posterioridad a la emisión del certificado para postular al subsidio
+También se permitirá efectuar giros a aquellos ahorrantes que habiendo resultado beneficiados en la postulación en que participaron, renunciaren al subsidio. En estos casos, la renuncia deberá perfeccionarse mediante la entrega a la institución financiera del certificado de subsidio, endosado por el respectivo beneficiario en forma nominativa a favor del SERVIU, y dejándose constancia en el mismo endoso, de la fecha en que éste se ha firmado. Asimismo, los ahorrantes quedan facultados para efectuar giros sobre los depósitos constituidos con posterioridad a la emisión del certificado para postular al subsidio
 
 habitacional.
 
-Los bancos y sociedades financieras remitirán estos certificados al SERVIU,
+Los bancos y sociedades financieras remitirán estos certificados al SERVIU, dentro de los cinco días hábiles bancarios siguientes a la fecha del endoso,mediante una carta certificada o bien por entrega personal, caso en que el SERVIU deberá dejar constancia de su recepción en el libro de entrega de correspondencia de la institución remitente.
 
-dentro de los cinco días hábiles bancarios siguientes a la fecha del
+Los ahorrantes no beneficiados en la postulación en que participaron recuperarán la facultad de girar de estas cuentas de ahorro para la vivienda tan pronto como se conozcan los resultados del llamado, sin perjuicio de la opción señalada en el primer párrafo de este número, de traspasar la cuenta a otra entidad financiera.
 
-endoso,mediante una carta certificada o bien por entrega personal, caso en que
-
-el SERVIU deberá dejar constancia de su recepción en el libro de entrega de
-
-correspondencia de la institución remitente.
-
-Los ahorrantes no beneficiados en la postulación en que participaron recuperarán
-
-la facultad de girar de estas cuentas de ahorro para la vivienda tan pronto como
-
-se conozcan los resultados del llamado, sin perjuicio de la opción señalada en
-
-el primer párrafo de este número, de traspasar la cuenta a otra entidad
-
-financiera.
-
-Las instituciones financieras contarán con las nóminas de los ahorrantes
-
-seleccionados que, con motivo de cada postulación, les enviará el Ministerio de
-
-Vivienda y Urbanismo.
+Las instituciones financieras contarán con las nóminas de los ahorrantes seleccionados que, con motivo de cada postulación, les enviará el Ministerio de Vivienda y Urbanismo.
 
 ### 13. Determinación del ahorro mínimo mantenido
 
@@ -3922,153 +3698,43 @@ Sin embargo, el ahorrante podrá girar anticipadamente el saldo acumulado, con e
 
 ### 15. Cumplimiento del contrato de ahorro
 
-Los titulares de cuentas de ahorro para la vivienda que hubieren cumplido su
+Los titulares de cuentas de ahorro para la vivienda que hubieren cumplido su contrato de ahorro, pero que no hubiesen sido seleccionados en las postulaciones en que participaren, como también aquéllos que no hubiesen postulado, podrán presentarse en llamados posteriores, siempre que registren un saldo no inferior al mínimo convenido.
 
-contrato de ahorro, pero que no hubiesen sido seleccionados en las postulaciones
-
-en que participaren, como también aquellos que no hubiesen postulado, podrán
-
-presentarse en llamados posteriores, siempre que cumplan las siguientes
-
-condiciones:
-
-a) que registren un saldo no inferior al mínimo convenido; y,
-
-b) que mantengan en su cuenta el saldo medio semestral mínimo correspondiente al
-
-del último semestre pactado.
-
-Para los efectos de las postulaciones en que participen estos ahorrantes,
-
-deberán presentar el certificado a que se refiere el numeral 12.1 de este
-
-título, en el cual deberán constar los mencionados saldos mínimos mantenidos.
+Para los efectos de las postulaciones en que participen estos ahorrantes, deberán presentar el certificado a que se refiere el numeral 12.1 de este título, en el cual deberán constar, además de los mencionados saldos mínimos mantenidos, los saldos promedios mensuales registrados a partir de la fecha en que se haya cumplido el plazo convenido en el contrato de ahorro, original o modificado, según corresponda.
 
 ### III. DE LOS PRESTAMOS HIPOTECARIOS
 
 ### 1. Condiciones generales
 
-Los titulares de cuentas de ahorro a plazo para la vivienda que cumplan con su
+Los titulares de cuentas de ahorro a plazo para la vivienda que cumplan con su convenio de ahorro y las personas que acrediten disponibilidad de sitio propio, una vez que obtengan del SERVIU el respectivo Certificado de Subsidio Habitacional, podrán optar en mía institución financiera a un préstamo complementario en letras de crédito.
 
-convenio de ahorro y las personas que acrediten disponibilidad de sitio propio,
+El monto del préstamo, que se curse de conformidad con este sistema, deberá destinarse, junto con la aplicación del subsidio habitacional y del ahorro previo, en caso que proceda, a pagar el saldo de precio de la vivienda adquirida o su construcción. Su importe no podrá exceder del monto máximo que indique el correspondiente Certificado de Subsidio Habitacional.
 
-una vez que obtengan del SERVIU el respectivo Certificado de Subsidio
+De acuerdo con las disposiciones del Reglamento, el crédito que puede solicitar el interesado, al amparo de estas normas, no podrá ser superior a ocho veces el ahorro total pactado o el equivalente en Unidades de Fomento del puntaje obtenido por sitio propio, en caso que corresponda, ni al 75% del valor de la vivienda, según cual sea la cantidad que resulte menor, con un máximo que, en todo caso, no deberá exceder de un monto residual en letras de crédito, igual a 280, 670 ó 1.000 Unidades de Fomento, según sea el valor de la vivienda a la que postule, esto es, si dicho valor alcanza a 400, 900 ó 2.000 Unidades de Fomento,
 
-Habitacional, podrán optar en mía institución financiera a un préstamo
+respectivamente. No obstante, las instituciones financieras podrán otorgar préstamos hipotecarios adicionales, al margen del sistema de subsidio habitacional, destinados a enterar eventuales saldos de precio no cubiertos por el sistema, siempre que se trate de viviendas cuyo precio no exceda del equivalente a 2.000 Unidades de Fomento, sin exceder, tampoco, del monto máximo
 
-complementario en letras de crédito.
+del tramo de valor de vivienda a que hubiere postulado el beneficiario respectivo.
 
-El monto del préstamo, que se curse de conformidad con este sistema, deberá
+Se entiende, para estos efectos, por valor residual del crédito, el valor nominal de las respectivas letras de crédito, menos las amortizaciones correspondientes a los meses transcurridos entre el 1° de enero del año de su emisión material y el día 1° del mes subsiguiente a aquél en que se suscriba el contrato de mutuo respectivo.
 
-destinarse, junto con la aplicación del subsidio habitacional y del ahorro
+Los préstamos que se otorguen dentro del sistema de subsidio, lo serán en letras de crédito, expresados en unidades de fomento o en Indice Valor Promedio, pagaderos en un plazo de 12, 15, o 20 años, con tasas de interés máxima para el deudor, de 8,5%, 9% o 10% anual, condiciones ambas a elección del mutuario.
 
-previo, en caso que proceda, a pagar el saldo de precio de la vivienda adquirida
+La tasa de interés y el plazo del crédito deben quedar estipulados en el mutuo hipotecario. Por su parte, las letras de crédito emitidas con motivo del otorgamiento de los referidos préstamos, devengarán una tasa de interés nominal no inferior al 5,5% anual. En ningún caso, el diferencial entre las tasas del mutuo y de las letras de crédito podrá exceder de tres puntos. Tal diferencial corresponde al importe que se cobra como "comisión" en las operaciones habituales en letras de crédito.
 
-o su construcción. Su importe no podrá exceder del monto máximo que indique el
+Corresponde, en consecuencia, que las entidades financieras elaboren las respectivas tablas de desarrollo del mutuo hipotecario sobre la base del interés que se hubiera acordado y de una comisión de hasta el 3%, que se demostrarán en columnas separadas en las tablas que se presenten a esta Superintendencia para el registro del respectivo prospecto, y en las que formen parte de la escritura de mutuo.
 
-correspondiente Certificado de Subsidio Habitacional.
+Tanto para los efectos del préstamo que se curse como de las letras de crédito que por su concepto se emitan, las instituciones financieras deben atenerse, en todo aquello que no está tratado de una manera distinta en estas disposiciones, a las normas generales sobre la materia, dictadas por el Consejo Monetario y el Comité Ejecutivo del Banco Central de Chile, como a las instrucciones que ha impartido esta Superintendencia.
 
-De acuerdo con las disposiciones del Reglamento, el crédito que puede solicitar
-
-el interesado al amparo de estas normas, no podrá ser superior a ocho veces el
-
-ahorro total pactado o el equivalente en Unidades de Fomento del puntaje
-
-obtenido por sitio propio, en caso que corresponda, ni al 75% del valor de la
-
-vivienda, según cuál sea la cantidad que resulte menor, con un máximo que, en
-
-todo caso, no deberá exceder de un monto residual en letras de crédito, igual a
-
-280, 670 o 1.000 unidades de fomento, según sea el valor de la vivienda a la que
-
-postule, esto es, si dicho valor alcanza a 400, 900 ó 2.000 Unidades de
-
-Fomento,respectivamente. No obstante, las instituciones financieras podrán
-
-otorgar préstamos hipotecarios adicionales, al margen del sistema de subsidio
-
-habitacional, destinados a enterar eventuales saldos de precio no cubiertos por
-
-el sistema, siempre que se trate de viviendas cuyo precio no exceda del
-
-equivalente a 2.000 unidades de fomento.
-
-Se entiende, para estos efectos, por valor residual del crédito, el valor
-
-nominal de las respectivas letras de crédito, menos las amortizaciones
-
-correspondientes a los meses transcurridos entre el 1° de enero del año de su
-
-emisión material y el día 1° del mes subsiguiente a aquél en que se suscriba el
-
-contrato de mutuo respectivo.
-
-Los préstamos que se otorguen dentro del sistema de subsidio, lo serán en letras
-
-de crédito, expresados en unidades de fomento o en Indice Valor Promedio,
-
-pagaderos en un plazo de 12, 15, o 20 años, con tasas de interés máxima para el
-
-deudor, de 8,5%, 9% o 10% anual, condiciones ambas a elección del mutuario.
-
-La tasa de interés y el plazo del crédito deben quedar estipulados en el mutuo
-
-hipotecario. Por su parte, las letras de crédito emitidas con motivo del
-
-otorgamiento de los referidos préstamos, devengarán una tasa de interés nominal
-
-no inferior al 5,5% anual. En ningún caso, el diferencial entre las tasas del
-
-mutuo y de las letras de crédito podrá exceder de tres puntos. Tal diferencial
-
-corresponde al importe que se cobra como "comisión" en las operaciones
-
-habituales en letras de crédito.
-
-Corresponde, en consecuencia, que las entidades financieras elaboren las
-
-respectivas tablas de desarrollo del mutuo hipotecario sobre la base del interés
-
-que se hubiera acordado y de una comisión de hasta el 3%, que se demostrarán en
-
-columnas separadas en las tablas que se presenten a esta Superintendencia para
-
-el registro del respectivo prospecto, y en las que formen parte de la escritura
-
-de mutuo.
-
-Tanto para los efectos del préstamo que se curse como de las letras de crédito
-
-que por su concepto se emitan, las instituciones financieras deben atenerse, en
-
-todo aquello que no está tratado de una manera distinta en estas disposiciones,
-
-a las normas generales sobre la materia, dictadas por el Consejo Monetario y el
-
-Comité Ejecutivo del Banco Central de Chile, como a las instrucciones que ha
-
-impartido esta Superintendencia.
-
-En todo caso, las entidades financieras que realicen este tipo de operaciones
-
-deberán cuidar de que el respectivo Certificado de Subsidio Habitacional se
-
-encuentre vigente al momento de cursar el préstamo.
+En todo caso, las entidades financieras que realicen este tipo de operaciones deberán cuidar de que el respectivo Certificado de Subsidio Habitacional se encuentre vigente al momento de cursar el préstamo.
 
 ### 2. Mutuos hipotecarios
 
-Los contratos de compraventa y mutuos hipotecarios deberán indicar, cuando así
+Los contratos de compraventa y mutuos hipotecarios deberán indicar, cuando así haya ocurrido, que parte del precio al contado, ha sido pagado mediante el Certificado de Subsidio Habitacional.
 
-haya ocurrido, que parte del precio al contado, ha sido pagado mediante el
+En tales casos, deberá individualizarse el certificado correspondiente. Los mutuos deberán quedar escriturados e inscritos en el Conservador de Bienes Raíces, durante el período de vigencia del certificado de subsidio.
 
-Certificado de Subsidio Habitacional.
-
-En tales casos, deberá individualizarse el certificado correspondiente. Los
-
-mutuos deberán quedar escriturados e inscritos en el Conservador de Bienes
-
-Raíces, durante el período de vigencia del certificado de subsidio.
+Con todo, se podrá proceder al pago del certificado de subsidio dentro de los 60 días posteriores a su vencimiento, siempre que se acredite que la correspondiente escritura ingresó al Conservador de Bienes Raíces para sus inscripciones, antes del vencimiento del Certificado, y que a la fecha del cobro se demuestre que dichas inscripciones fueron efectuadas.
 
 ### 3. Garantía hipotecaria
 
@@ -4268,33 +3934,37 @@ INSTITUCION FINANCIERA
 
 PARA SER PRESENTADO AL SERVIU VALIDO
 
-HASTA ............
+HASTA
 
 A OTRA INSTITUCION FINANCIERA
 
-CERTIFICO que don (doña) .................................................R.U.T.
+CERTIFICO que don (doña) R.U.T.
 
-N° suscribió con esta institución financiera el ..... de ................de 19
+N° suscribió con esta institución financiera el de 19
 
-..... un contrato de ahorro para los fines señalados en el Decreto Supremo N°
+un contrato de ahorro para los fines señalados en el
 
-44, del Ministerio de Vivienda y Urbanismo, de 1988.
+Decreto Supremo N° 44, del Ministerio de Vivienda y Urbanismo,
 
-El mencionado contrato fue modificado con fecha ........................, siendo
+de 1988.
 
-sus condiciones originales y actuales, en lo que se refiere al ahorro total
+El mencionado contrato fue modificado con fecha , siendo
 
-mínimo pactado, plazo para enterarlo y saldos medios semestrales, las
+sus condiciones originales y actuales, en lo que se refiere al
 
-siguientes:
+ahorro total mínimo pactado, plazo para enterarlo y saldos medios
+
+semestrales, las siguientes:
 
 Contrato Contrato
 
 Original modificado
 
-Monto total mínimo de ahorro pactado: .... U.F. .... U.F.
+Monto total mínimo de ahorro pactado: U.F. U.F.
 
-Plazo para enterar el ahorro mínimo pactado: ....meses ....meses
+Plazo para enterar el ahorro mínimo
+
+pactado: meses meses
 
 Saldos medios mínimos semestrales
 
@@ -4302,183 +3972,87 @@ Contrato Contrato
 
 Original modificado
 
-Primer Semestre .... U.F. .... U.F.
+Primer Semestre U.F. U.F.
 
-Segundo Semestre .... U.F. .... U.F.
+Segundo Semestre U.F. U.F.
 
-Tercer Semestre .... U.F. .... U.F.
+Tercer Semestre U.F. U.F.
 
-Cuarto Semestre .... U.F. .... U.F.
+Cuarto Semestre U.F. U.F.
 
-Quinto Semestre .... U.F. .... U.F.
+Quinto Semestre U.F. U.F.
 
-Sexto Semestre .... U.F. .... U.F.
+Sexto Semestre U.F. U.F.
 
-El ahorro total acumulado incluido reajustes e intereses al ......
+El ahorro total acumulado, incluidos reajustes e intereses, a la fecha de
 
-de............... de 19 ....., asciende a la suma de $............., equivalente
+emisión de este certificado, asciende a la suma de $
 
-a.............. Unidades de Fomento. (*) (**)
+equivalente a Unidades de Fomento (*) (**).
 
-Los saldos medios efectivamente mantenidos en cada semestre, son los siguientes:
+Los saldos medios efectivamente mantenidos en cada periodo, son los siguientes:
 
-Primer semestre: ......... U.F. Cuarto semestre: .........U.F.
+Durante el plazo fijado en el contrato (Original o modificado):
 
-Segundo semestre: ......... U.F. Quinto semestre: .........U.F.
+Primer semestre: U.F. Cuarto semestre: U.F.
 
-Tercer semestre: ......... U.F. Sexto semestre: .........U.F.
+Segundo semestre: U.F. Quinto semestre: U.F.
 
-El saldo medio mantenido desde el término del último semestre informado
+Tercer semestre: U.F. Sexto semestre: U.F.
 
-precedentemente, hasta el ..... de........... de 19 ..... fue de U.F.
+Después de cumplido el plazo fijado en el contrato:
 
-Se deja constancia que la antigüedad acumulada de la cuenta de ahorro a que se
+Primer mes: U.F. Quinto mes: U.F. Noveno mes: U.F.
 
-refiere este Certificado, es de meses.
+Segundo mes: U.F. Sexto mes : U.F. Décimo mes: U.F.
+
+Tercer mes: U.F. Séptimo mes: U.F. Décimo 1er mes: U.F.
+
+Cuarto mes: U.F. Octavo mes: U.F. Décimo 2do mes: U.F.
+
+El saldo medio mantenido desde el término del último semestre informado precedentemente, hasta el de 19 fue de U.F.
+
+Se deja constancia que la antigüedad acumulada de la cuenta de chorro a que se refiere este Cerfificado, es de meses.
+
+------------------------------------
 
 GERENTE
 
-* Para los efectos de su giro o traspaso, el saldo estará referido al valor de
+* Para los efectos de su giro o traspaso, el saldo estará referido al valor de la unidad de fomento, vigente en el último día del mes inmediatamente anterior a la fecha en que se haga uso de él, a menos que el titular hubiera perdido el derecho a reajuste.
 
-la unidad de fomento, vigente en el último día del mes inmediatamente anterior a
-
-la fecha en que se haga uso de él, a menos que el titular hubiera perdido el
-
-derecho a reajuste.
-
-* En caso que el ahorrante hubiera perdido el derecho a reajuste, deberá dejarse
-
-constancia de este hecho, mediante la frase: "Sin derecho a reajuste por haber
-
-efectuado en el último período de doce meses una cantidad de giros superior a la
-
-pactada".
+* En caso que el ahorrante hubiera perdido el derecho a reajuste, deberá dejarse constancia de este hecho, mediante la frase: "Sin derecho a reajuste por haber efectuado en el último período de doce meses una cantidad de giros superior a la pactada".
 
 ANEXO N° 2
 
-INSTRUCCIONES PARA LA EMISION DEL CERTIFICADO DE MANTENCION DE CUENTA DE AHORRO
+INSTRUCCIONES PARA LA EMISION DEL CERTIFICADO DE MANTENCION DE CUENTA DE AHORRO A PLAZO PARA LA VIVIENDA DECRETO SUPREMO N° 44 DE 1988 DEL MINISTERIO DE VIVIENDA Y URBANISMO.
 
-A PLAZO PARA LA VIVIENDA DECRETO SUPREMO N° 44 DE 1988 DEL MINISTERIO DE
-
-VIVIENDA Y URBANISMO.
-
-El "Certificado de mantención de cuenta de ahorro a plazo para la vivienda
-
-Decreto Supremo N° 44, de 1988, del Ministerio de Vivienda y Urbanismo", deberá
-
-extenderse de acuerdo al formato adjunto.
+El "Certificado de mantención de cuenta de ahorro a plazo para la vivienda Decreto Supremo N° 44, de 1988, del Ministerio de Vivienda y Urbanismo", deberá extenderse de acuerdo al formato adjunto.
 
 Cada certificado llevará una numeración correlativa y la fecha de su emisión.
 
-Deberá indicarse si se emite para ser presentado al SERVIU o a otra institución
+Deberá indicarse si se emite para ser presentado al SERVIU o a otra institución financiera tarjando lo que no corresponda. En el primer caso deberá indicarse la fecha en que se cumplen los 60 días de su validez.
 
-financiera tarjando lo que no corresponda. En el primer caso deberá indicarse la
+Se extenderán a nombre del titular de la respectiva cuenta de ahorro a plazo para la vivienda, D.S. N° 44, anotándose también el número de RUT del ahorrante,como la fecha en que se abrió la cuenta. Junto con anotarse el monto del ahorro mínimo convenido originalmente en el respectivo convenio y el plazo para enterarlo, se dejará constancia de los saldos medios que deben mantenerse encada uno de los semestres que quedan comprendidos en el referido plazo. Esta información se consignará en la columna "Contrato Original". En el caso de haberse modificado esas condiciones, se anotarán también los nuevos montos y plazos convenidos. Ellos se informarán en la columna "Contrato modificado", sin perjuicio de anotar, además, la correspondiente a los contratos originales. Si bien en el formulario aparecen hasta seis semestres, la institución emisora deberá anotar los restantes, cuando el período para enterar el ahorro pactado exceda de 3 años.
 
-fecha en que se cumplen los 60 días de su validez.
+También deberá dejarse constancia del ahorro total acumulado a la fecha de emisión del certificado, incluidos sus reajustes e intereses.
 
-Se extenderán a nombre del titular de la respectiva cuenta de ahorro a plazo
+En el evento que el certificado se emitiera para traspasar la cuenta a otra institución y el ahorrante hubiese perdido el derecho a reajuste, por haber efectuado una cantidad de giros superior a la estipulada para el período de doce meses, se anotará el ahorro total, solamente en términos de "Pesos", anotando en el "equivalente a Unidades de Fomento" la frase "sin derecho a reajuste por haber efectuado en el último período de doce meses una cantidad de giros superior a la pactada". Sin embargo, cuando el certificado se emita para ser presentado al SERVIU, habrá que anotar el equivalente en Unidades de Fomento del ahorro mantenido, de acuerdo a la equivalencia vigente a la fecha del certificado, seguido de la frase "con derecho a reajuste" o "sin derecho a reajuste por haber efectuado en el último período de doce meses, una cantidad de giros superior a la pactada", según corresponda.
 
-para la vivienda, D.S. N° 44, anotándose también el número de RUT del
+Luego corresponde anotar los saldos medios efectivamente mantenidos en cada uno de los semestres transcurridos hasta la fecha que se señale en el espacio destinado a ese efecto. Esos saldos se anotarán en unidades de fomento, de acuerdo al procedimiento señalado en el número 8 del título II del presente capítulo.
 
-ahorrante,como la fecha en que se abrió la cuenta. Junto con anotarse el monto
+A continuación se registrará el saldo medio mantenido en la cuenta, durante el período comprendido entre el último semestre completo informado y el último día del mes inmediatamente anterior al de la emisión del certificado.
 
-del ahorro mínimo convenido originalmente en el respectivo convenio y el plazo
+Enseguida, se indicará la antigüedad o permanencia acumulada de la cuenta, en términos de meses, entendiendo por tal el período transcurrido desde la apertura inicial de la cuenta. Se considerará para estos efectos el período total transcurrido desde esa fecha hasta la extensión del certificado, aun cuando durante ese lapso se hubiere efectuado el traspaso de la cuenta a otra
 
-para enterarlo, se dejará constancia de los saldos medios que deben mantenerse
+institución, a menos que se hubiere interrumpido la antigüedad, por no haberse realizado el traspaso dentro del plazo establecido en la letra b) del número 6 del Capítulo III.E.3 del Compendio de Normas Financieras del Banco Central de Chile.
 
-encada uno de los semestres que quedan comprendidos en el referido plazo. Esta
+Estos certificados deberán emitirse en duplicado, quedando un ejemplar en poder de la entidad emisora, en tanto que el original será entregado al ahorrante.
 
-información se consignará en la columna "Contrato Original". En el caso de
+Atendida la importancia de estos documentos, se procurará que sean impresos en papel de seguridad que evite en lo posible cualquier adulteración o enmienda.
 
-haberse modificado esas condiciones, se anotarán también los nuevos montos y
+Por otra parte, las instituciones emisoras deberán abstenerse de entregar certificados enmendados, corregidos o con anotaciones defectuosas.
 
-plazos convenidos. Ellos se informarán en la columna "Contrato modificado", sin
-
-perjuicio de anotar, además, la correspondiente a los contratos originales. Si
-
-bien en el formulario aparecen hasta seis semestres, la institución emisora
-
-deberá anotar los restantes, cuando el período para enterar el ahorro pactado
-
-exceda de 3 años.
-
-También deberá dejarse constancia del ahorro total acumulado a la fecha de
-
-emisión del certificado, incluidos sus reajustes e intereses.
-
-En el evento que el certificado se emitiera para traspasar la cuenta a otra
-
-institución y el ahorrante hubiese perdido el derecho a reajuste, por haber
-
-efectuado una cantidad de giros superior a la estipulada para el período de doce
-
-meses, se anotará el ahorro total, solamente en términos de "Pesos", anotando en
-
-el "equivalente a unidades de fomento" la frase "sin derecho a reajuste por
-
-haber efectuado en el último período de doce meses una cantidad de giros
-
-superior a la pactada". Sin embargo, cuando el certificado se emita para ser
-
-presentado al SERVIU, habrá que anotar el equivalente en unidades de fomento del
-
-ahorro mantenido, de acuerdo a la equivalencia vigente a la fecha del
-
-certificado.
-
-Luego corresponde anotar los saldos medios efectivamente mantenidos en cada uno
-
-de los semestres transcurridos hasta la fecha que se señale en el espacio
-
-destinado a ese efecto. Esos saldos se anotarán en unidades de fomento, de
-
-acuerdo al procedimiento señalado en el número 8 del título II del presente
-
-capítulo.
-
-A continuación se registrará el saldo medio mantenido en la cuenta, durante el
-
-período comprendido entre el último semestre completo informado y el último día
-
-del mes inmediatamente anterior al de la emisión del certificado.
-
-Enseguida, se indicará la antigüedad o permanencia acumulada de la cuenta, en
-
-términos de meses, entendiendo por tal el período transcurrido desde la apertura
-
-inicial de la cuenta. Se considerará para estos efectos el período total
-
-transcurrido desde esa fecha hasta la extensión del certificado, aun cuando
-
-durante ese lapso se hubiere efectuado el traspaso de la cuenta a otra
-
-institución, a menos que se hubiere interrumpido la antigüedad, por no haberse
-
-realizado el traspaso dentro del plazo establecido en la letra b) del número 6
-
-del Capítulo III.E.3 del Compendio de Normas Financieras del Banco Central de
-
-Chile.
-
-Estos certificados deberán emitirse en duplicado, quedando un ejemplar en poder
-
-de la entidad emisora, en tanto que el original será entregado al ahorrante.
-
-Atendida la importancia de estos documentos, se procurará que sean impresos en
-
-papel de seguridad que evite en lo posible cualquier adulteración o enmienda.
-
-Por otra parte, las instituciones emisoras deberán abstenerse de entregar
-
-certificados enmendados, corregidos o con anotaciones defectuosas.
-
-Para los efectos de las postulaciones del período transitorio, las instituciones
-
-financieras utilizarán este mismo formulario, efectuando las modificaciones
-
-necesarias, para entregar la información requerida en cada una de esas
-
-postulaciones.
+Para los efectos de las postulaciones del período transitorio, las instituciones financieras utilizarán este mismo formulario, efectuando las modificaciones necesarias, para entregar la información requerida en cada una de esas postulaciones.
 
 CAPITULO 2-11 (Bancos y Financieras)
 
@@ -5968,167 +5542,51 @@ ANEXO N° 1
 
 REGLAMENTO DE CAMARA DE COMPENSACION.
 
-### I. DISPOSICIONES GENERALES
+I.- DISPOSICIONES GENERALES.
 
-1. El funcionamiento de la Cámara de Compensación se regirá por el presente
+1.- El funcionamiento de la Cámara de Compensación se regirá por el presente reglamento y corresponderá a la Superintendencia de Bancos e Instituciones Financieras interpretar sus disposiciones, de acuerdo con sus facultades. Las resoluciones que adopte al respecto, obligarán a los bancos comerciales, al Banco del Estado de Chile, al Banco Central de Chile, a los bancos de fomento y
 
-reglamento y corresponderá a la Superintendencia de Bancos e Instituciones
+a las sociedades financieras, en adelante las instituciones.
 
-Financieras interpretar sus disposiciones, de acuerdo con sus facultades. Las
+Estas instituciones estarán representadas en la Cámara por delegados idóneos, que designará cada una de ellas, debiendo acreditarlos ante la Institución de Turno por medio de una carta firmada por sus representantes autorizados, confiriéndoles poder suficiente para que, a su vez, los representen en todas las operaciones de la Cámara en que éstos deban intervenir. Estos poderes serán traspasados al término de cada periodo de turno, por la Institución que termina el turno, a aquella que lo inicia. A falta del poder a que se refiere este número, el delegado no será considerado como tal.
 
-resoluciones que adopte al respecto, obligarán a los bancos comerciales, al
+2.- Las Cámaras de Compensación se efectuarán en locales apropiados que habilitarán y administrarán de común acuerdo los participantes o en las oficinas de la Institución de Turno, los que deberán ser informados a la Superintendencia de Bancos e Instituciones Financieras, sin perjuicio de aquellas que por acuerdo de los partícipes, se operen por intermedio de un sistema de transmisión y procesamiento electrónico de datos, autorizado por la Superintendencia de Bancos e Instituciones Financieras y aprobado por el Banco Central de Chile.
 
-Banco del Estado de Chile, al Banco Central de Chile, a los bancos de fomento ya
+3.- Las instituciones que deban participar en la Cámara de Compensación designarán, de común acuerdo, en forma rotativa y por períodos completos, a la Institución de Turno, la que nombrará al Jefe de Cámara, quien presidirá y controlará el desarrollo de las reuniones que se celebren. La duración de cada turno corresponderá a un mes calendario completo.
 
-las sociedades financieras, en adelante las instituciones.
+Sin embargo, las instituciones de una plaza financiera podrán establecer de común acuerdo, períodos de turno de duración distinta a la señalada en el párrafo anterior, siempre que cuenten previamente con la autorización de la Superintendencia de Bancos e Instituciones Financieras.
 
-Estas instituciones estarán representadas en la Cámara por delegados idóneos,
+La designación de Institución de Turno deberá ser comunicada por ésta a la Superintendencia de Bancos e Instituciones Financieras a lo menos cinco días hábiles antes del comienzo del turno respectivo.
 
-que designará cada una de ellas, debiendo acreditarlos ante la Institución de
+Cada turno se iniciará con la primera Cámara del primer día hábil de cada período y terminará con la quinta Cámara del primer día hábil del período inmediatamente siguiente.
 
-Turno por medio de una carta firmada por sus representantes
+La Institución de Turno se responsabilizará ante la Superintendencia de Bancos e Instituciones Financieras, tanto del cumplimiento de los horarios como de la aplicación del presente Reglamento.
 
-autorizados,confiriéndoles poder suficiente para que, a su vez, los representen
-
-en todas las operaciones de la Cámara en que éstos deban intervenir. Estos
-
-poderes serán traspasados al término de cada período de turno, por la
-
-Institución que termina el turno, a aquella que lo inicia. A falta del poder a
-
-que se refiere este número, el delegado no será considerado como tal.
-
-### 2. Las Cámaras de Compensación se efectuarán en locales apropiados que
-
-habilitarán y administrarán de común acuerdo los participantes o en las oficinas
-
-de la Institución de Turno, los que deberán ser informados a la Superintendencia
-
-de Bancos e Instituciones Financieras.
-
-### 3. Las instituciones que deban participar en la Cámara de Compensación
-
-designarán, de común acuerdo, en forma rotativa y por períodos completos, a la
-
-Institución de Turno, la que nombrará al Jefe de Cámara, quien presidirá y
-
-controlará el desarrollo de las reuniones que se celebren. La duración de cada
-
-turno corresponderá a un mes calendario completo.
-
-Sin embargo, las instituciones de una plaza financiera podrán establecer de
-
-común acuerdo, períodos de turno de duración distinta a la señalada en el
-
-párrafo anterior, siempre que cuenten previamente con la autorización de la
-
-Superintendencia de Bancos e Instituciones Financieras.
-
-La designación de Institución de Turno deberá ser comunicada por ésta a la
-
-Superintendencia de Bancos e Instituciones Financieras a lo menos cinco días
-
-hábiles antes del comienzo del turno respectivo.
-
-Cada turno se iniciará con la primera Cámara del primer día hábil del período
-
-inmediatamente siguiente.
-
-La Institución de Turno se responsabilizará ante la Superintendencia de Bancos e
-
-Instituciones Financieras, tanto del cumplimiento de los horarios como de la
-
-aplicación del presente Reglamento.
-
-Las designaciones de Institución de Turno y de Jefe de Cámara recaerán
-
-exclusivamente en los bancos comerciales, Banco del Estado de Chile, bancos de
-
-fomento y sociedades financieras y sus delegados, respectivamente. No podrán ser
-
-designadas como Institución de Turno, aquellas que no mantengan oficina en la
-
-ciudad sede del Banco Central en la cual se realizará la quinta reunión de la
+Las designaciones de Institución de Turno y de Jefe de Cámara recaerán exclusivamente en los bancos comerciales, Banco del Estado de Chile, bancos de fomento y sociedades financieras y sus delegados, respectivamente. No podrán ser designadas como Institución de Turno, aquellas que no mantengan oficina en la ciudad sede del Banco Central en la cual se realizará la quinta reunión de la
 
 Cámara a que se refiere el número 10.
 
-4. Los delegados de todas las instituciones, deberán encontrarse en la sala de
+En el caso de que alguna Cámara se opere mediante un sistema de transmisión y procesamiento electrónico de datos corresponderá a la Institución de Turno recibir dentro de los horarios establecidos para el efecto, la información transmitida por las demás instituciones participantes, realizar el proceso que corresponda y comunicar por el mismo medio los resultados a las entidades
 
-reuniones de la Cámara Compensadora antes de las horas fijadas por este
+participantes.
 
-Reglamento para su iniciación.
+4.- Los delegados de todas las instituciones, deberán encontrarse en la sala de reuniones de la Cámara Compensadora antes de las horas fijadas por este Reglamento para su iniciación.
 
-5. La Institución de Turno deberá atender las solicitudes de prórroga que, para
+5.- La Institución de Turno deberá atender las solicitudes de prórroga que, para la iniciación de la reunión o la transmisión de los datos en su caso, puedan presentar los participantes, siempre que dicha solicitud se presente antes de la hora habitual fijada para el comienzo de la respectiva sesión o para la recepción de los datos. Estas prórrogas podrán otorgarse por un tiempo
 
-la iniciación de la reunión, puedan presentar los participantes, siempre que
+razonable, el que será determinado por el Jefe de Cámara de la Institución de Turno. Respecto de la quinta Cámara no podrán otorgarse prórrogas, salvo que se obtenga previamente autorización expresa del Banco Central de Chile.
 
-dicha solicitud se presente antes de la hora habitual fijada para el comienzo
+6.- Si algún delegado llegare con atraso o una institución no transmitiera la información oportunamente, en el caso de utilizarse un sistema de transmisión y procesamiento electrónico de datos, el Jefe de Cámara dará cuenta a la superioridad de la Institución de Turno para que ésta notifique del hecho a la Institución respectiva.
 
-dela respectiva sesión. Estas prórrogas podrán otorgarse por un tiempo
+Después de una segunda notificación a una misma institución dentro de un mes, ésta quedará obligada a remplazar a su delegado, siempre que la institución notificada no proporcione oficialmente y por escrito las explicaciones que justifiquen el atraso, o éstas sean insuficientes a juicio de la Superioridad de la Institución de Turno. Sin embargo, si en cualquiera oportunidad el atraso fuere superior a quince minutos, la institución quedará excluida de esa reunión de la Cámara. Esta exclusión privará a dicha institución del derecho de hacer entrega de los documentos que presente para ser compensados, no obstante lo cual deberá recibir y hacerse cargo de aquellos que las demás hayan presentado en su contra.
 
-razonable, el que será determinado por el Jefe de Cámara de la Institución de
+7.- Para la aplicación del presente Reglamento, se entenderá por jurisdicción a aquella parte del territorio nacional en que se encuentran ubicadas determinadas plazas financieras y una oficina del Banco Central de Chile. La Superintendencia de Bancos e Instituciones Financieras determinará las plazas financieras que conforman una jurisdicción.
 
-Turno. Respecto de la quinta Cámara no podrán otorgarse prórrogas, salvo que se
+8.- El Gerente o Agente de la Institución de Turno, podrá modificar, en casos justificados, el horario ordinario del funcionamiento de la Cámara o de recepción de datos, siempre que lo pida, a lo menos, la mayoría absoluta de las instituciones que obligatoriamente deban participar en la reunión de que se trate, a excepción de lo relacionado con la quinta Cámara, para lo cual deberá contarse, previamente, con la conformidad del Banco Central de Chile, de la jurisdicción correspondiente.
 
-obtenga previamente autorización expresa del Banco Central de Chile.
+II.- DE LAS REUNIONES DE LA CAMARA.
 
-6. Si algún delegado llegare con atraso, el Jefe de Cámara dará cuenta a la
-
-Superioridad de la Institución de Turno para que ésta notifique del hecho a la
-
-Institución respectiva.
-
-Después de una segunda notificación a una misma institución dentro de un mes,
-
-ésta quedará obligada a remplazar a su delegado, siempre que la institución
-
-notificada no proporcione oficialmente y por escrito las explicaciones que
-
-justifiquen el atraso, o éstas sean insuficientes a juicio de la Superioridad de
-
-la Institución de Turno. Sin embargo, si en cualquiera oportunidad el atraso
-
-fuere superior a quince minutos, la institución quedará excluida de esa reunión
-
-de la Cámara. Esta exclusión privará a dicha institución del derecho de hacer
-
-entrega de los documentos que traiga para ser compensados, no obstante lo cual
-
-deberá recibir y hacerse cargo de aquellos que las demás hayan presentado en su
-
-contra.
-
-7. Para la aplicación del presente Reglamento, se entenderá por jurisdicción a
-
-aquella parte del territorio nacional en que se encuentran ubicadas determinadas
-
-plazas financieras y una oficina del Banco Central de Chile. La Superintendencia
-
-de Bancos e Instituciones Financieras determinará las plazas financieras que
-
-conforman una jurisdicción.
-
-8. El Gerente o Agente de la Institución de Turno, podrá modificar, en casos
-
-justificados, el horario ordinario del funcionamiento de la Cámara siempre que
-
-lo pida, a lo menos, la mayoría absoluta de las instituciones que
-
-obligatoriamente deban concurrir a la reunión de que se trate, a excepción de lo
-
-relacionado con la quinta Cámara, para lo cual deberá contarse, previamente, con
-
-la conformidad del Banco Central de Chile, de la jurisdicción correspondiente.
-
-### II. DE LAS REUNIONES DE LA CAMARA
-
-9. En todas las plazas financieras del país en que mantengan oficinas dos o más
-
-instituciones financieras se celebrarán, con la asistencia obligatoria de todas
-
-las instituciones de la plaza, las reuniones de la Cámara de Compensación que se
-
-detallan en este número 9:
+9.- En todas las plazas financieras del país en que mantengan oficinas dos o más instituciones financieras se celebrarán, con la participación obligatoria de todas las instituciones de la plaza, las reuniones de la Cámara de Compensación que se detallan en este número 9:
 
 a) Primera Reunión (Cámara Inicial):
 
@@ -6138,75 +5596,29 @@ Lunes: 17:30 horas
 
 Martes a viernes: 17:00 horas
 
-Si el día lunes no fuere hábil, la primera Cámara del día siguiente hábil se
+Si el día lunes no fuere hábil, la primera Cámara del día siguiente hábil se celebrará a partir de las 17:30 horas.
 
-celebrará a partir de las 17:30 horas.
+a2) El objetivo de esta reunión es efectuar el canje, la compensación y el cobro de los cheques y demás documentos de las empresas financieras de cargo de las otras de la misma plaza. Sin embargo, toda institución tiene el derecho de no cobrar por Cámara cualquier documento que tenga contra otra.
 
-a2) El objetivo de esta reunión es efectuar el canje, la compensación y el cobro
+a3) Los requisitos básicos que deben cumplir los documentos para su presentación a esta reunión de la Cámara, serán los relativos al de su cancelación. Para tal efecto, será necesario que se estampe en el anverso de ellos el timbre de caja y en el reverso, el timbre de Cámara que indique el nombre de la institución que los presenta, él número que a ella le haya correspondido en la Cámara y la fecha de recepción del documento, con el cual esa institución se responsabiliza del último endoso que contenga.
 
-de los cheques y demás documentos de las empresas financieras de cargo de las
+a4) En esta primera reunión de la Cámara de Compensación, cada institución que presente cheques y otros documentos en canje, deberá confeccionar una planilla en la que indicará el total del valor de los documentos que presenta a cobro a cada una de las otras instituciones. En esa misma planilla anotará también, el total del valor de los documentos que, a su vez, reciba de cada institución. La diferencia que resulte, determinará el saldo a favor o en contra de esa institución.
 
-otras de la misma plaza. Sin embargo, toda institución tiene el derecho de no
+Una vez que cada participante complete su planilla parcial en la forma antes descrita, entregará la copia de ésta, debidamente cuadrada y firmada al Jefe de Cámara.
 
-cobrar por Cámara cualquier documento que tenga contra otra.
+El Jefe de Cámara confeccionará la planilla general, refundiendo las planillas parciales para establecer los saldos que corresponda pagar o recibir a cada una.
 
-a3) Los requisitos básicos que deben cumplir los documentos para su presentación
+Obtenida la cuadratura de esta planilla general, dará su conformidad a cada institución participante, sea mediante su firma estampada en el original de la planilla presentada o, en el caso de haberse utilizado un sistema de transmisión y procesamiento electrónico de datos, según se señala en el párrafo siguiente, mediante su conformidad certificada a través del mismo medio.
 
-a esta reunión de la Cámara, serán los relativos al de su cancelación. Para tal
+En aquellas plazas en que las instituciones financieras estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, autorizado por la Superintendencia de Bancos e Instituciones Financieras, se podrá remplazar las planillas mencionadas en este numeral por el envió de mensajes a través de la red del sistema.
 
-efecto, será necesario que se estampe en el anverso de ellos el timbre de caja
-
-yen el reverso, el timbre de Cámara que indique el nombre de la institución que
-
-los presenta, el número que a ella le haya correspondido en la Cámara y la fecha
-
-de recepción del documento, con el cual esa institución se responsabiliza del
-
-último endoso que contenga.
-
-a4) En esta primera reunión de la Cámara de Compensación, cada institución que
-
-presente cheques y otros documentos en canje, deberá confeccionar una planilla
-
-en la que indicará el total del valor de los documentos que presenta a cobro a
-
-cada una de las otras instituciones. En esa misma planilla anotará también, el
-
-total del valor de los documentos que, a su vez, reciba de cada institución. La
-
-diferencia que resulte, determinará el saldo a favor o en contra de esa
-
-institución. Una vez que cada participante complete su planilla parcial en la
-
-forma antes descrita, entregará la copia de ésta, debidamente cuadrada y firmada
-
-al Jefe de Cámara. El Jefe de Cámara confeccionará la planilla general,
-
-refundiendo las planillas parciales para establecer los saldos que corresponda
-
-pagar o recibir a cada una. Obtenida la cuadratura de esta planilla general,
-
-estampará su firma en los originales de las planillas que cada institución le
-
-presentó para la confección de la planilla general, retirándose éstos con el
-
-original antedicho.
-
-a5) Cada vez que lo disponga la Superintendencia de Bancos e Instituciones
-
-Financieras, se convocará a reuniones de carácter extraordinario.
+a5) Cada vez que lo disponga la Superintendencia de Bancos e Instituciones Financieras, se convocará a reuniones de carácter extraordinario.
 
 b) Segunda Reunión (Cámara de errores):
 
-b1) Todos los días hábiles, a las 9:30 horas en el mismo recinto de la Cámara,
+bl) Todos los días hábiles, a las 9:30 horas en el mismo recinto de la Cámara, se celebrará una segunda reunión destinada a rectificar los valores mal cobrados en la primera Cámara el día hábil anterior.
 
-se celebrará una segunda reunión destinada a rectificar los valores mal cobrados
-
-en la primera Cámara el día hábil anterior.
-
-b2) La determinación de saldos a favor y en contra se hará conforme al
-
-procedimiento ya señalado para la primera reunión.
+b2) La determinación de saldos a favor y en contra se hará conforme al procedimiento ya señalado para la primera reunión.
 
 c) Tercera Reunión (Cámara de devoluciones):
 
@@ -6216,175 +5628,51 @@ Martes: 11:30 horas
 
 Miércoles a lunes: 11:00 horas
 
-Si el día martes no fuere hábil la tercera Cámara del día siguiente hábil se
+Si el día martes no fuere hábil la tercera Cámara del día siguiente hábil se celebrará a las 11:30 horas.
 
-celebrará a las 11:30 horas.
+c2) El objeto de esta reunión será efectuar el canje de los cheques u otros documentos rechazados por las Instituciones libradas por falta de fondos o por cualquier otra causa. En esta reunión deberán ser presentados todos los valores entregados en la primera reunión, que las Instituciones hayan devuelto por algunos de los motivos, señalados.
 
-c2) El objeto de esta reunión será efectuar el canje de los cheques u otros
+c3) Los cheques para ser devueltos deberán llevar estampado en el dorso un timbre de protesto extendido en la forma prevista en el articulo 33 de la Ley de Cuentas Corrientes Bancarias y Cheques.
 
-documentos rechazados por las Instituciones libradas por falta de fondos o por
+En consecuencia, quedará establecida la conformidad de todos aquellos documentos que no sean devueltos por su intermedio, salvo que por acuerdo entre la institución receptora y la obligada al pago se resuelva qué esta última pague el documento fuera de Cámara.
 
-cualquiera otra causa. En esta reunión deberán ser presentados todos los valores
-
-entregados en la primera reunión, que las Instituciones hayan devuelto por
-
-algunos de los motivos señalados.
-
-c3) Los cheques para ser devueltos deberán llevar estampado en el dorso un
-
-timbre de protesto extendido en la forma prevista en el artículo 33 de la Ley de
-
-Cuentas Corrientes Bancarias y Cheques. En consecuencia, quedará establecida la
-
-conformidad de todos aquellos documentos que no sean devueltos por su
-
-intermedio, salvo que por acuerdo entre la institución receptora y la obligada
-
-al pago se resuelva que esta última pague el documento fuera de Cámara.
-
-c4) El procedimiento de compensación de esta tercera reunión será igual al
-
-establecido en el numeral a4) anterior.
+c4) El procedimiento de compensación de esta tercera reunión será igual al establecido en el numeral a4) anterior.
 
 d) Cuarta Reunión (Cámara de Operaciones Interfinancieras):
 
 d1) Esta reunión se efectuará cada día hábil a las 15:00 horas.
 
-d2) El objetivo de esta reunión será el canje de documentos que den cuenta de
+d2) El objetivo de esta reunión será el canje de documentos que den cuenta de operaciones entre instituciones financieras y cuyo pago tenga liquidez en el día; ya sea que corresponda al rescate de valores de otras plazas, venta de divisas, créditos interfinancieros, compraventa de P.O.B.C., etc.
 
-operaciones entre instituciones financieras y cuyo pago tenga liquidez en el
+d3) En esta reunión podrán compensarse, exclusivamente órdenes de pago emitidas por una institución participante en la Cámara, en favor de otra de ellas por concepto de las operaciones interfinancieras señaladas en numeral d2) anterior.
 
-día; ya sea que corresponda al rescate de valores de otras plazas, venta de
+d4) Del intercambio de estos documentos se determinarán los saldos a favor y en contra, en la misma forma señalada en las cámaras anteriores.
 
-divisas, créditos interfinancieros, compraventa de P.D.B.C., etc.
+10.- En todas las plazas financieras del país en que mantenga oficina el Banco Central de Chile, se celebrará una Quinta Reunión (Cámara de Compensación Jurisdiccional) con la participación obligatoria de las instituciones de esa plaza, que en esa fecha actúen como Instituciones de Turno en alguna plaza de la respectiva jurisdicción.
 
-d3) En esta reunión podrán compensarse, exclusivamente órdenes de pago emitidas
+a) Esta reunión se iniciará todos los días hábiles a las 16:30 horas, bajo la dirección de la institución que se encuentre de Turno en las ciudades sede del Banco Central de Chile.
 
-por una institución participante en la Cámara, en favor de otra de ellas por
+b) El objeto de esta reunión es efectuar la compensación de los saldos resultantes de todas las Cámaras celebradas en todas las plazas de la misma jurisdicción que correspondan a un ciclo diario.
 
-concepto de las operaciones interfinancieras señaladas en numeral d2) anterior.
+c) Cada institución que se encuentre de turno en alguna plaza distinta de aquella en que tenga sede el Banco Central de Chile, comunicará diariamente a la oficina de su misma institución, ubicada en la sede antedicha de su jurisdicción, el resultado de las Cámaras de su plaza correspondientes a cada ciclo diario, a una hora tal que esta última oficina pueda participar en la quinta reunión en el horario señalado en el numeral 10 a) anterior.
 
-d4) Del intercambio de estos documentos se determinarán los saldos a favor y en
+d) Las instituciones ubicadas en las ciudades sedes del Banco Central de Chile procederán a confeccionar, con la información recibida en cumplimiento de lo dispuesto en el numeral 10 c) anterior, planillas en las que resumirán por cada plaza, los resultados de las reuniones de Cámara de sus oficinas que se desempeñan en esa jurisdicción como Instituciones de Turno en sus respectivas plazas. Esas planillas las entregarán en la reunión de la Cámara en el horario establecido en el numeral 10 a) para la quinta reunión o las transmitirán dentro del horario fijado para el efecto por el sistema de transmisión y procesamiento electrónico de datos, en el caso de ser ese el medio aceptado y utilizado por las instituciones participantes.
 
-contra, en la misma forma señalada en las cámaras anteriores.
+e) El Jefe de Cámara recibirá, en original y copia,las planillas resumen o en su caso, la información enviada por el sistema de transmisión y procesamiento electrónico de datos que las instituciones participantes entreguen en esa Quinta Reunión. Con la totalidad de la información recibida y con el resumen que haya preparado de las Cámaras de su plaza confeccionará un cuadro resumen, por institución y por plaza. Obtenida la cuadratura de este resumen, el Jefe de Cámara devolverá a las instituciones participantes el original de las planillas con que éstas concurrieron a la reunión, debidamente firmado en señal de conformidad o les comunicará la conformidad por intermedio del sistema de transmisión y procesamiento electrónico de datos, con lo cual se dará por terminada la reunión.
 
-10. En todas las plazas financieras del país en que mantenga oficina el Banco
+III.- DE LA COMPENSACION FINAL POR CADA JURISDICCION.
 
-Central de Chile, se celebrará una Quinta Reunión (Cámara de Compensación
+11.- Esta compensación la efectuará el Banco Central de Chile en base al "Estado de Saldos Resumidos Netos de Cámara", mediante cargos y abonos a las cuentas corrientes que las instituciones financieras mantengan en las oficinas del Instituto Emisor.
 
-Jurisdiccional) con la asistencia obligatoria de las instituciones de esa plaza,
+a) La Institución de Turno en cada una de las ciudades sedes del Banco Central confeccionará, en base al cuadro de resumen por institución y por plaza definido en el numeral 10 e), un "Estado de Saldos Resumidos Netos de Cámara" en el que determinará el saldo neto a favor o en contra de cada participante. El formato del estado definido en este número, deberá ser aprobado por la Dirección Administrativa del Banco Central de Chile.
 
-que en esa fecha actúen como Instituciones de Turno en alguna plaza de la
+b) La Institución de Turno a que se refiere el numeral anterior, deberá entregar o enviar mediante el sistema de transmisión y procesamiento electrónico de datos, a la oficina del Banco Central de su jurisdicción, todos los días hábiles a más tardar a las 17:30 horas, el "Estado de Saldos Resumidos Netos de Cámara" debidamente cuadrado y firmado por el Jefe de Cámara y por un mandatario de la Institución de Turno o debidamente autenticado, según corresponda.
 
-respectiva jurisdicción.
+c) El Banco Central de Chile en base al "Estado de Saldos Resumidos Netos de Cámara" efectuará los cargos y abonos en las cuentas corrientes de los participantes, dentro de la hora siguiente a la recepción de dicho estado, lo que, representará el pago definitivo de los saldos resultantes de las reuniones de la Cámara de Compensación de un ciclo diario.
 
-a) Esta reunión se iniciará todos los días hábiles a las 16:30 horas, bajo la
+IV.- DEL ARCHIVO OFICIAL.
 
-dirección de la institución que se encuentre de Turno en las ciudades sede del
-
-Banco Central de Chile.
-
-b) El objeto de esta reunión es efectuar la compensación de los saldos
-
-resultantes de todas las Cámaras celebradas en todas las plazas de la misma
-
-jurisdicción que correspondan a un ciclo diario.
-
-c) Cada institución que se encuentre de turno en alguna plaza distinta de
-
-aquella en que tenga sede el Banco Central de Chile, comunicará diariamente a la
-
-oficina de su misma institución, ubicada en la sede antedicha de su
-
-jurisdicción, el resultado de las Cámaras de su plaza correspondientes a cada
-
-ciclo diario, a una hora tal que esta última oficina pueda concurrir a la quinta
-
-reunión en el horario señalado en el numeral 10 a) anterior.
-
-d) Las instituciones ubicadas en las ciudades sedes del Banco Central de Chile
-
-procederán a confeccionar, con la información recibida en cumplimiento de lo
-
-dispuesto en el numeral 10 c) anterior, planillas en las que resumirán por cada
-
-plaza, los resultados de las reuniones de Cámara de sus oficinas que se
-
-desempeñan en esa jurisdicción como Instituciones de Turno en sus respectivas
-
-plazas. Con esas planillas concurrirán a la reunión de la Cámara en el horario
-
-establecido en el numeral 10 a) para la quinta Reunión.
-
-e) El Jefe de Cámara recibirá, en original y copia, las planillas resumen conque
-
-las instituciones concurran a esta Quinta Reunión. Con la totalidad de dichas
-
-planillas y con el resumen que haya preparado de las Cámaras de su plaza
-
-confeccionará un cuadro resumen por instituciones y por plaza, en el que se
-
-registrarán los saldos a favor y en contra por institución y por plaza. Obtenida
-
-la cuadratura de este resumen, el Jefe de Cámara devolverá a las instituciones
-
-participantes el original de las planillas con que éstas concurrieron a la
-
-reunión, debidamente firmados en señal de conformidad, con lo cual se dará
-
-término a la reunión.
-
-### III. DE LA COMPENSACION FINAL POR CADA JURISDICCION
-
-11. Esta compensación la efectuará el Banco Central de Chile en base al "Estado
-
-de Saldos Resumidos Netos de Cámara", mediante cargos y abonos a las cuentas
-
-corrientes que las instituciones financieras mantengan en las oficinas del
-
-Instituto Emisor.
-
-a) La Institución de Turno en cada una de las ciudades sedes del Banco Central
-
-confeccionará, en base al cuadro de resumen por institución y por plaza definido
-
-en el numeral 10 e), un "Estado de Saldos Resumidos Netos de Cámara" en el que
-
-determinará el saldo neto a favor o en contra de cada participante. El formato
-
-del estado definido en este número, deberá ser aprobado por la Dirección
-
-Administrativa del Banco Central de Chile.
-
-b) La Institución de Turno a que se refiere el numeral anterior, deberá
-
-entregaren la oficina del Banco Central de su jurisdicción, todos los días
-
-hábiles a más tardar a las 17:30 horas, el "Estado de Saldos Resumidos Netos de
-
-Cámara" debidamente cuadrado y firmado por el Jefe de Cámara y por un mandatario
-
-de la Institución de Turno.
-
-c) El Banco Central de Chile en base al "Estado de Saldos Resumidos Netos de
-
-Cámara" efectuará los cargos y abonos en las cuentas corrientes de los
-
-participantes, dentro de la hora siguiente a la recepción de dicho estado, lo
-
-que representará el pago definitivo de los saldos resultantes de las reuniones
-
-de la Cámara de Compensación de un ciclo diario.
-
-### IV. DEL ARCHIVO OFICIAL
-
-12. Cada Institución de Turno mantendrá en sus propios archivos las planillas
-
-correspondientes a todas las reuniones de la Cámara, efectuadas durante el
-
-período en que haya ejercido el turno. El plazo de mantención de este archivo
-
-será el que se establece en el Art. 19 de la Ley General de Bancos.
+12.- Cada Institución de Turno mantendrá en sus propios archivos las planillas o mensajes correspondientes a todas las reuniones de la Cámara, efectuadas durante el periodo en que haya ejercido el turno. El plazo de mantención de este archivo será el que se establece en el Art. 19 de la Ley General de Bancos.
 
 ANEXO N° 2
 
@@ -21690,29 +20978,15 @@ obligaciones y que carece de bienes en los cuales hacer efectivas las mismas.
 
 ### 5. Inversiones financieras
 
-La adquisición de valores mobiliarios de renta fija por parte de una institución
+La adquisición de valores mobiliarios de renta fija por parte de una institución financiera, corresponde a un crédito al emisor de esos valores. En consecuencia,los instrumentos emitidos por empresas relacionadas que se mantengan como inversiones financieras, deberán agregarse al total de créditos concedidos apersonas o empresas relacionadas, incluyendo para tal efecto el
 
-financiera, corresponde a un crédito al emisor de esos valores. En
+capital más los reajustes e intereses devengados, independientemente del valor al cual estos instrumentos estén registrados en la contabilidad.
 
-consecuencia,los instrumentos emitidos por empresas relacionadas que se
+Asimismo, en el caso de los instrumentos emitidos por empresas relacionadas que se declaren en quiebra o que acuerden convenio con sus acreedores, deberán aplicarse los mismos criterios enunciados anteriormente para las colocaciones.
 
-mantengan como inversiones financieras, deberán agregarse al total de créditos
+De igual manera, a las inversiones financieras castigadas se les dará un tratamiento .similar al señalado para colocaciones castigadas.
 
-concedidos apersonas o empresas relacionadas, incluyendo para tal efecto el
-
-capital más los reajustes e intereses devengados, independientemente del valor
-
-al cual estos instrumentos estén registrados en la contabilidad.
-
-Asimismo, en el caso de los instrumentos emitidos por empresas relacionadas que
-
-se declaren en quiebra o que acuerden convenio con sus acreedores, deberán
-
-aplicarse los mismos criterios enunciados anteriormente para las colocaciones.
-
-De igual manera, a las inversiones financieras castigadas se les dará un
-
-tratamiento .similar al señalado para colocaciones castigadas.
+También deberán incluirse, en la medición de los créditos relacionados, los montos involucrados en compras de efectos de comercio y valores mobiliarios con pacto de retroventa que la institución haya realizado a personas naturales o jurídicas relacionadas a ella y que estuvieren contabilizados en el rubro inversiones.
 
 6. Créditos de menos de 3.000 U.F. otorgados a personas naturales relacionadas.
 
