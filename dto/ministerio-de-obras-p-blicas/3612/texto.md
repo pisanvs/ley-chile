@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.612 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 184, superficie 12.431,0 m²., rol de avalúo 397-7, comuna de Loncoche, para la obra ''Concesión Internacional Ruta 5 Tramo Temuco-Río Bueno, Km. 762,40000 a Km. 764,36020'' y se acordó el valor de indemnización con su propietario Carlos Fernando Napoleón Espejo Zúñiga, ascendente a la cantidad de $29.469.496.-
+
+Fiscal del Ministerio de Obras Públicas.
