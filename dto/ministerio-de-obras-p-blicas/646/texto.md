@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 646, de 11 de julio de 1997, se dejó sin efecto el Decreto M.O.P. Nº 912, de 31 de octubre de 1996, en lo que se refiere a la expropiación del lote de terreno Nº 1, para la obra Camino San Javier - Constitución, sector Puertas Verdes, Rol de Avalúo 512-34, de la comuna de Constitución, VII Región, que figura a nombre de la Soc. Agrícola y Forestal Doble, superficie 6.000 M2. Fiscal del Ministerio de Obras
+
+Públicas.
