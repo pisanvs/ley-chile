@@ -1,0 +1,3 @@
+Por resolución Nº 2.404 de 4 de diciembre de 2001 de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A., para ampliar actividades pesqueras de transformación, autorizadas por resoluciones citadas en Visto, en orden a incorporar a la planta ubicada en Avenida Pedro Aguirre Cerda Nº 719, Coronel, VIII Región, en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Conserva: Atún aleta amarilla, Atún aleta larga, Atún ojos grandes, Alfonsino, Orange roughy, Salmón plateado, Salmón del Atlántico, Salmón rey, Salmón keta, Salmón rosado, Trucha arcoiris, Jibia y Lapa; Congelado: Orange roughy y Lapa.
+
+Valparaíso, 4 de diciembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
