@@ -1,0 +1,3 @@
+Por decreto MOP Nº 523 de fecha 30 de abril del 2001, se expropió el lote de terreno Nº 40, superficie 627,70 m2., rol de avalúo 1252-112, comuna de Parral, para la obra "Camino Ruta L-70, Sector Cruce Ruta 128-Cuatro Esquinas, Km. 0,000 a Km. 15,800" y se acordó el valor de indemnización con su propietario Bernardo Humberto Contreras Hormazábal, ascendente a la cantidad de $892.261.
+
+Fiscal del Ministerio de Obras Públicas.
