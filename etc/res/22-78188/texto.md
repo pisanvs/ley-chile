@@ -1,0 +1,3 @@
+Por resolución No. 22 de 06 de Mayo de 1992, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la V Región, se adjudicó a don Cristian Romero Muñoz RUT No. 8.858.974-2, la concesión para operar, por un plazo de cinco años a contar de la fecha de publicación del presente extracto, un establecimiento ubicado en calle Camino Longitudinal Norte Kms. 148, Sector Quebradilla, Parcela No. 2, Sitio No. 8 de La Ligua, destinado a la revisión técnica y verificación de emisión de contaminantes de todo tipo vehículos motorizados, sus remolques y semiremolques, en la forma y condiciones que se señalan en el contrato que se aprueba.- Adolfo Tannenbaum
+
+Ramírez, Secretario Regional Ministerial de Transportes y Telecomunicaciones, V Región.
