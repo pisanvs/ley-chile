@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.075, de 30 de julio de 1999, se expropiaron los lotes de terreno No. s. 6-A y 6-B, superficies 1.400 y 600 M2., respectivamente, roles de avalúo 12027-4 y 12027-5, comuna de San Pedro de la Paz, para la obra Reposición Puente Bío-Bío Antiguo, Ruta 160 Concepción - San Pedro, Sector San Pedro Enlace 3 y se acordó precio de indemnización con su propietario Luis Arriagada Manríquez, ascendente a la cantidad de $ 303.900.000.-
+
+Fiscal del Ministerio de Obras Públicas.
