@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.633, de 21 de junio de 1999, se expropió el lote de terreno Nº 158, superficie 41.189 m², rol de avalúo 297-5, comuna de Los Vilos, para la obra Camino Ruta 5 Norte tramo Santiago-Los Vilos, Cuarta Región y se acordó el valor de indemnización con sus propietarios Hugo Armando Castro Albornoz y otra, ascendente a la cantidad de $80.466.007.
+
+- Fiscal del Ministerio de Obras Públicas.
