@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 595 de 15.05.87, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento de Aguas proporcionales que corresponden a Sectores Excluidos y Sector Expropiado Predios "Santa Elisa o Los Helechos", "Buena Fe" y "Fundo y Viña San Francisco de Molina", de la comuna de Molina, VII Región; y Derechos de Aprovechamiento de. Aguas que corresponden a parcelas N°s. 1 a la 37, sitios N°s. 1 al 33 y Reservas CORA N°s. 1 y 2 del Proyecto de Parcelación "Buena Fe Poniente", formado, entre otros, por predios señalados. Los Derechos de Agua se extraen de los Canales "La Paragua", "Buena Fe" y "Pelarco - Buena Unión".- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
