@@ -1,0 +1,3 @@
+Por Decreto MOP N° 344, de 29 de Julio de 1994, se expropiaron los lotes de terreno N°s. 5 y 41, superficies 10.650 m2 y 4.030 m2., roles de avalúo 9049-13 y 1100-2, comunas de San Antonio y Cartagena, para la obra Camino Santiago-San Antonio, sector Leyda-Agua Buena, y se acordó el valor de indemnización con sus propietarios Héctor González y otro y Renato García, ascendente a las cantidad de $5.292.810.- y $17.074.260.-
+
+Fiscal del Ministerio de Obras Públicas.
