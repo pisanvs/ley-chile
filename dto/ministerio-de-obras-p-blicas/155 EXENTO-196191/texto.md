@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 155 de fecha 25 de febrero de 2002, se expropiaron los lotes de terreno Nº 10-A y 14D-1, superficies 616 y 216 m2, rol de avalúo Nº 590-9 y 593-28, comuna de Yungay, para la obra "Area de Riego Yungay, Canal Rinconada Faja Adicional, Km. 0,000 al Km. 2,389, del Proyecto Laja Diguillín", VIII Región y se acordó el valor de indemnización con su propietario Luis Iván Cáceres Fuentes, ascendente a la cantidad de $395.524.
+
+- Fiscal del Ministerio de Obras Públicas.
