@@ -1,0 +1,3 @@
+Por resolución No. 082 de fecha 05 de octubre de 1989, del SERVIU VII Región del Maule, se dispuso expropiación conforme Decreto Ley 2.186 de 1978 y Decreto Supremo 100, de V. y U. de 1989, inmueble ubicado en Pelarco, calle Camino Cintura s/n, Rol de Avalúo No. 16-12, Comuna de Pelarco aparente dominio de Servicio Agrícola y Ganadero, Reserva CORA No. 4 Proyecto San Francisco, 2.000 m2 Comisión Tasadora integrada por señores Hugo Villarroel Urbina, ingeniero Civil, Emilio Kort Micaly, Ingeniero Agrónomo y Carlos Sottolichio Díaz, Ingeniero Civil, según informe de fecha 25 de Septiembre de 1989, fijó como monto provisional indemnización en la suma de $ 2.200.000 pagaderos al contado.
+
+Director SERVIU VII Región del Maule.
