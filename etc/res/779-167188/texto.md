@@ -1,0 +1,3 @@
+Por resolución Nº 779, de 24 de abril de 2000, de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.712 de 1989, de esta Subsecretaría, que autorizó a doña LITA DEL CARMEN VILLARROEL GUTIERREZ, para operar la nave ''Juan Antonio II'', matrícula 570, de Constitución, en virtud de haberse configurado las causales de caducidad del artículo 143 letras b) y d) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 24 de abril de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
