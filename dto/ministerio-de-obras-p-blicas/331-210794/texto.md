@@ -1,0 +1,3 @@
+Por decreto MOP Nº 331, de fecha 31 de marzo del 2003, se expropiaron los lotes de terreno Nºs. 68 y 69, superficie 4.388 y 6.261 m2, respectivamente, Rol Nº 536-1, comuna de Río Bueno, X Región, para la obra "Camino Río Bueno Crucero, Sector T-90-U y T-933, Tramo Km. 0,00000 a Km. 20,90000", y se acordó el valor de indemnización con su propietario Adolfo Amner Hott González, ascendente a la cantidad de $6.608.426.
+
+Fiscal del Ministerio de Obras Públicas.
