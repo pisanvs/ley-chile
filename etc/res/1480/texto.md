@@ -1,0 +1,3 @@
+Por Resolución N° 1.480, de 9 de agosto de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por OSCAR LIZANDRO GONZALEZ AIPIN, para un centro de cultivo ubicado en Ensenada Raliguao, Seno de Reloncaví, comuna de Puerto Montt, provincia de Llanquihue, X Región, conforme lo dispuesto en los artículos 78°, 87° y 88°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 9 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
