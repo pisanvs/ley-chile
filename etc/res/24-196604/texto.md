@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 24, de 6 de marzo del año 2002, se autorizó la existencia y aprobó el estatuto de la "Cooperativa de Trabajo Destellos de Huechuraba Limitada" de sigla "Coop Destellos Huechuraba Ltda" de Huechuraba, en los términos que da testimonio documento protocolizado ante el notario de Santiago don Aliro Veloso Muñoz al final del protocolo bajo el Nº 1054-02, con fecha 29 de enero de 2002.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
