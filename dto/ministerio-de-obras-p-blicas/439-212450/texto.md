@@ -1,0 +1,3 @@
+Por decreto MOP Nº439 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº1-A, superficie 875 m2, Rol de Avalúo Nº27-44, comuna de Paredones, VI Región, para la obra "Camino Ruta I-72, sector Paredones - Bucalemu, tramo Km. 27,400 a Km. 43,100" y se acordó el valor de indemnización con su propietaria Sylvia de las Mercedes Godoy Fuenzalida, ascendente a la cantidad de $5.579.364.
+
+- Fiscal del Ministerio de Obras Públicas.
