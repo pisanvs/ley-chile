@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.339, de fecha 30 de septiembre de 2004, se expropiaron los lotes de terreno Nº s 12, 12-A, 13-C y 15, superficies 285, 474, 470 y 207 m2, Rol Nº 28-4, comuna de Paredones, VI Región, para la obra "Camino Ruta I-72, Sector Paredones - Bucalemu, Tramo Km. 27,400 a Km. 43,100" y se acordó el valor de indemnización con su propietaria Blanca Estela del Rosario Montero Sierra, ascendente a la cantidad de $3.201.162 para los lotes Nº s. 12, 15, 12-A y 13-C.
+
+Fiscal del Ministerio de Obras Públicas.
