@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 252, de fecha 31 de marzo de 2003, se expropiaron los lotes de terreno Nºs 37 y 39, superficie 290 y 44 m2, respectivamente, Rol Nº 543-60, comuna de Linares, VII Región, para la obra "Camino Ruta L-31, Sector Polvorines-La Floresta. Tramo Km. 0,000000 a Km. 15,48000" y se acordó el valor de indemnización con su propietario Federico Guillermo Tapia Quiroz ascendente a la cantidad de $544.946.-
+
+Fiscal del Ministerio de Obras Públicas.
