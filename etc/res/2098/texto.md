@@ -1,0 +1,3 @@
+Por resolución Nº 2.098, de 13 de octubre de 1999, de esta Subsecretaría, modifícase la resolución Nº 597, de 1999, de esta Subsecretaría, que autorizó a ALIMENTOS PACIFIC STAR S.A., para continuar realizando actividades pesqueras, en el sentido de incorporar en Visto la resolución Nº 683, de 1989, de esta Subsecretaría.
+
+Valparaíso, 13 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
