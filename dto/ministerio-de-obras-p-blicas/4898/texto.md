@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.898, de 31 de octubre del 2000, se expropiaron los lotes de terreno Nºs. 3-A, 3-B y 3-D, superficies 681 m2., 66 m2. y 45 m2., rol de avalúo 273-303, comuna de San Fernando, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca, Sector H, Sexta Región y se acordó el valor de indemnización con su propietario Jorge Cancino Recabarren, ascendente a la cantidad total de $2.446.818.-
+
+Fiscal del Ministerio de Obras Públicas.
