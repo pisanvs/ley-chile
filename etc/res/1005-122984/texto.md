@@ -1,0 +1,5 @@
+Por resolución Nº 1.005, de 21 de julio de 1998, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 965 de 1998, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar la quinta etapa de la pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 98-01 denominado ''Monitoreo de las Capturas de Jurel en la Zona Centro-Sur'', en el sentido de incluir para Pesquera San Miguel S.A. las naves ''Loa 25'' y ''Golondrina'' y de modificar el límite máximo de captura autorizado para los armadores, según se indica a continuación, expresado en toneladas: Alimentos Marinos S.A. (9.822), Almar S.A. Pesquera (2.838), Cazador S.A. Pesquera (3.054), El Golfo S.A. Pesquera (3.361), Empresa Nacional de Pesca S.A.
+
+(3.961), Iquique-Guanaye S.A. Pesquera (7.469), Landes S.A. Sociedad Pesquera (6.155), Pacific Fisheries S.A. (2.064), Quellón S.A. Pesquera (4.151), San José S.A. Pesquera (4.997) y San Miguel S.A. Sociedad Pesquera (4.814).
+
+Valparaíso, 21 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
