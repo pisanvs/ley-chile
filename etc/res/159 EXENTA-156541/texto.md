@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 159 de 31 de enero de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Hijuela Número Uno de Calivoro" de la comuna de San Javier, VII Región; y Derechos Aprovechamiento Aguas que corresponden a las parcelas N°s. 1 a la 12, sitios N°s. 18 al 22 y Reserva CORA N° 1 del Proyecto de Parcelación "Caliboro" formado en parte por predio señalado. Los Derechos de Agua se extraen del estero Parral. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
