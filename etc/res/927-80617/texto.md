@@ -1,0 +1,3 @@
+Por Resolución No. 927 de 29 de Noviembre de 1991 de SERVIU Metropolitano, ordenóse expropiación, conforme DL No. 2.186 de 1978, -parte inmueble- ubicado en Avenida Las Rejas No. 039-041 presunto rol de avalúos No. 547-006 comuna Estación Central aparente dominio de Compañía de Petróleos de Chile S.A. Comisión integrada por peritos Sres. Sergio Rojas Ibáñez, ingeniero civil, Fernando Merino de la Cerda y Roberto Correa Bezanilla, arquitectos, según informe de 12 de Agosto de 1991, fijó monto provisional indemnización en $ 3.116.600.- pagadera al contado.
+
+Directora SERVIU Metropolitano.
