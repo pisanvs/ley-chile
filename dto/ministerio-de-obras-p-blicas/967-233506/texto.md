@@ -1,0 +1,3 @@
+Por decreto MOP Nº 967, de 29 de octubre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco el lote de terreno Nº 7, para la obra Camino Ruta 11CH, sector Arica - Tambo Quemado, sectores: Bif. Putre - Bif. Choquelimpie, Km. 124,500 a Km. 147,76212, que figura a nombre de Medina Alberto Primitivo, rol de avalúo 3810-14, comuna de Putre, I Región, superficie 568.140 m². La Comisión de Peritos fijó, con fecha 11 de septiembre de 2004, en la cantidad de $283.793.900. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
