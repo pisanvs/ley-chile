@@ -1,0 +1,3 @@
+Por decreto MOP Nº 738, de 30 de abril de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 7-A, para la obra Camino Ruta F-10G, sector Cuesta La Dormida, Kms. 10,98400 al 34,5000, que figura a nombre de Vicencio Lizana Digna Carola, rol de avalúo 225-101, superficie 760 m2, comuna de Olmué. La comisión de peritos, con fecha 15 de febrero de 2001, fijó la indemnización provisional en la cantidad de $2.837.800, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
