@@ -1,0 +1,5 @@
+Por resolución Nº 2.898, de 19 de diciembre de 2002, de esta Subsecretaría, autorízase a MARCELINO SEGUNDO GONZALEZ SILVA, para ampliar las actividades pesqueras extractivas con la nave "Berta", con los artes de pesca y en el área marítima que se indica, por fuera del área de reserva artesanal, sobre los siguientes recursos hidrobiológicos: a) En el litoral de la IV y VII Regiones, por fuera del área de reserva artesanal, con espinel; Raya; b) Litoral de la I y IX Regiones, con espinel: Reineta.
+
+Modifícase el numeral 1º de la resolución Nº 2.561 de 1999, de esta Subsecretaría, en orden a incorporar las siguientes características náuticas: Potencia motor principal 425.00 (Hp); Potencia motor auxiliar 4.00 (Hp).
+
+Valparaíso, 19 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
