@@ -1,0 +1,5 @@
+DESIGNA SECRETARIOS DE LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAICES QUE INDICA
+
+Por Resolución N° 564, de 27 de noviembre de 1995, se ha designado a don Norberto Gabriel Cortés Lavados, Fiscalizador Tasador, grado 13, Rut. N° 9.196.029-K, como Secretario Titular del Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie (No Agrícolas), con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Chillán y a don Daniel Iván Villarroel Fuentes, Fiscalizador, grado 13, Rut. N° 5.242.900-5, como Secretario Titular y a doña Corina del Carmen Araneda Martínez, Fiscalizador, grado 15, Rut. N° 6.259.430-6, como Suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie (Agrícolas), con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Chillán.-
+
+Javier Etcheberry Celhay, Director.
