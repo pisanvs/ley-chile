@@ -1,0 +1,5 @@
+Por Resolución N° 317, de 16 de febrero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA TRANS ANTARTIC LTDA., para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en Camino Chinquihue Km 6, Puerto Montt, X Región, en la línea de elaboración de Conserva, los siguientes recursos hidrobiológicos: Atún aleta amarilla, Atún aleta larga, Atún ojos grandes, Bacalao de profundidad, Puye, Ostión del norte, Camarón de río, Anfeltia, Cotoni, Huiro.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 16 de febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
