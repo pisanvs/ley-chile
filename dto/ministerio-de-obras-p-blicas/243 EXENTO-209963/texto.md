@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº243 de fecha 31 de marzo del 2003, se expropiaron los lotes de terreno Nºs 34 y 37, superficie 1.817,00 y 4.518,00 m2 respectivamente, Rol Nº151-4, comuna de Chonchi, X Región, para la obra "Camino Ruta W-80, Sector Cruce Longitudinal Huillinco, Km.0,000 a Km. 9,556" y se acordó el valor de indemnización con su propietario Juan Mario Osorio Espejo, ascendente a la cantidad de $2.931.799.-
+
+Fiscal del Ministerio de Obras Públicas.
