@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 371, de 31 de marzo de 1998, se expropiaron los lotes de terreno Nº s. 1 y 5, superficies 87 y 46 m2. respectivamente, roles de avalúo 2020-507 y 2020-436, comuna de Melipilla, para la obra Camino Ruta G-668, Sector El Molino-Codigua y se acordó precio de indemnización con sus propietarios María Riquelme Galdames y César Anselmi López, ascendente a las cantidades de $ 518.293.- para el lote 1 y $ 900.606.- para el lote 5.-
+
+Fiscal del Ministerio de Obras Públicas.
