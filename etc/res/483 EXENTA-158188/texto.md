@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 483 de 23 de Abril de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Fundo San León y Los Potreros Las Chacras, El Maitén, El Acacio y Las Casas del Fundo Hospital" de la comuna de Teno, 7a, Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 36 a la 64 y sitios N°s. 27 al 43 de la parte del Proyecto de Parcelación "Las Liras", formado, entre otros, por predio señalado. Los Derechos de Agua se extraen de los canales Huemul y El Sauce, ambos derivados del Río Teno.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
