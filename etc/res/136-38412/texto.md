@@ -1,0 +1,3 @@
+Por resolución exenta N° 136 del 1° de Diciembre de 1992, se adjudica a Alejandro Riquelme V. la concesión para operar, hasta el 14 de Febrero de 1995, un establecimiento ubicado en calle Homero N° 2514 comuna de San Miguel, destinado a la revisión técnica de automóviles, station wagons, motocicletas, vehículos de carga de menos de 1.750 kg. de capacidad de carga útil y sus remolques, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Héctor Peña Véliz, Secretario Regional Ministerial Transportes y Telecomunicaciones, Región Metropolitana.
