@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta 3.051, 26 agosto 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº 2391, Rol de Avalúo Nº 3107-5, comuna Chiguayante, superficie 43,26 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-19.106, de aparente dominio de Angela Araneda Tiznado y Otro, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Hernán Cáceres Moscoso, ingeniero civil, Miguel Bonifetti Dall'Orso, arquitecto y Mario Bellolio Bosticca, arquitecto, según informe de fecha 20 de julio de 2004, fijó monto provisional indemnización en $2.320.132.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío. Serviu Región del Bío Bío.
