@@ -1,0 +1,3 @@
+Por resolución No. 535 de 29 de mayo 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, -parte inmueble- ubicado en calle Lira No. 485, presunto rol avalúos No. 589-6, comuna de Santiago, aparentemente dominio de don Eugenio Figueroa Galecic. Comisión integrada por peritos srs. Humberto Mattas Mendoza y Patricio Rojas Troncoso, ingenieros civiles y Jorge Searle Jouanne, arquitecto, según informe de 17 de noviembre 1988, fijó monto provisional indemnización en $ 4.888.740.-, pagadera al contado.
+
+- Director SERVIU Metropolitano.
