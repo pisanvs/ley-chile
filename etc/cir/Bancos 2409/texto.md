@@ -16734,6 +16734,8 @@ El importe considerado como capital para el cumplimiento de las normas sobre res
 
 Mientras el Banco Central de Chile no modifique sus instrucciones sobre los límites o márgenes que ha establecido con referencia al capital pagado y reservas, ellos se cumplirán considerando el importe del capital pagado y reservas calculado también en la forma que se indica en el N° 3 precedente.
 
+El cómputo de los bonos subordinados de que se trata se aplicará también, pero sólo hasta el 31 de diciembre del año 2 000, para determinar el límite de letras de crédito de propia emisión, referido al capital básico, tratado en el Capitulo 12-11 de esta Recopilación Actualizada de Normas.
+
 CAPITULO 12-3 (Bancos y Financieras)
 
 MATERIA:
@@ -18303,6 +18305,8 @@ No obstante, se permite que las instituciones financieras excedan ese 50%, siemp
 Para verificar el cumplimiento de límites de que se trata, se computará el valor de los instrumentos registrados en el activo, considerando los ajustes a su valor de mercado, de acuerdo con las instrucciones contables del Capítulo 8-21 de esta Recopilación.
 
 El capital básico para estos efectos, corresponderá al monto conformado por el capital pagado, las reservas y las demás cuentas patrimoniales que, de acuerdo a las instrucciones contables de esta Superintendencia, deben incluirse en las partidas 43 05 a 4405, deducido el capital asignado a las sucursales en el exterior.
+
+Las instituciones financieras que al 4 de noviembre de 1997, fecha de publicación de la Ley N° 19.528, hubieran computado bonos subordinados como capital y reservas, de acuerdo con las disposiciones legales entonces vigentes, podrán agregar al capital básico para los efectos de que trata este Capítulo y hasta el 31 de diciembre de 2000, el importe de esos bonos subordinados que corresponda, conforme a esas disposiciones.
 
 CAPITULO 12-12 (Bancos y Financieras) MATERIA:
 
