@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°559 , de 30 de junio de 1997, se expropio el lote de terreno N° 4, superficie 97,5 M2., rol de avalúo 13-36 , comuna de Olivar, obra Camino Ruta H-35, sector Cruce Longitudinal Gultro, Compuertas 7 Puentes y se acordó precio de indemnización con su propietaria Sociedad Constructora Pavimentos Asfálticos Bitumix Ltda., ascendente a la cantidad de $2.051.340.-
+
+Fiscal del Ministerio de Obras Públicas
