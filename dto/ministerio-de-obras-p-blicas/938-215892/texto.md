@@ -1,0 +1,3 @@
+Por decreto MOP Nº 938 de fecha 29 de agosto de 2003, se expropiaron los lotes de terreno Nº 3 y 4, superficies 74.570 m² y 12.000 m², rol de avalúo Nº 158-49, comuna de Cochamó, para la obra "Camino Puelo Paso El Bolsón, Sector Lago Tagua - Tagua Llanada Grande, Tramo Km. 0,346 a Km. 12,530", X Región y se acordó el valor de la indemnización con su propietario Iván René Gallardo Gallardo, ascendente a la cantidad de $14.613.628.
+
+Fiscal del Ministerio de Obras Públicas.
