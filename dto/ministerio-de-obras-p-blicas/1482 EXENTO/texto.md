@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 1.482, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº 14-A, superficie 84 m², Rol de Avalúo 1252-215, comuna de Parral, VII Región, para la obra ''Camino Ruta L-70, Sector Cruce Ruta 128 - Cuatro Esquinas, Tramo Km. 0,000 al 15,800'' y se acordó el valor de indemnización con su propietario don Santiago Segundo Tapia Garrido, ascendente a la cantidad de $851.326.
+
+- Fiscal del Ministerio de Obras Públicas.
