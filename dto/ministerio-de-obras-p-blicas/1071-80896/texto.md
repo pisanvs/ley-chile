@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 1.071, de 31 de octubre de 1997, se expropió el lote de terreno Nº 101, superficie 3.500 m², rol de avalúo 246-16, comuna de San Vicente de Tagua-Tagua, obra Camino Quinta de Tilcoco-Cruce Ruta 66, sector El Manzano de Zúñiga-La Mediagua-Tunca El Medio y se acordó precio de indemnización con su propietario Agrícola Las Casas de Zúñiga Limitada, ascendente a la cantidad de $4.832.700.
+
+Fiscal del Ministerio de Obras Públicas.
