@@ -1,0 +1,11 @@
+Por Resolución Nº 1.509, de 11 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA IQUIQUE GUANAYE S.A., para sustituir la nave "Arturo", autorizada para operar por Resoluciones Nº 610 de 1993 y Nº 1.416 de 1996, y la nave en construcción, casco Nº 971, autorizada por Resolución Nº 788 de 1997, todas de esta Subsecretaría, por una nave en construcción en Astilleros Arica S.A., denominada "Igemar 3", en el litoral de la I y II Regiones, por fuera del área de reserva artesanal, donde podrá capturar con red de cerco los siguientes recursos hidrobiológicos: Anchoveta, Sardina española y Jurel.
+
+Además la interesada podrá capturar en la misma área y con el mismo arte de pesca señalado precedentemente los siguientes recursos hidrobiológicos: Agujilla, Bonito, Caballa, Cojinoba del norte y Sardina común.
+
+Autorízase a Pesquera Iquique Guanaye S.A., para ampliar actividades pesqueras con la nave "Igemar 3", al litoral de la X Región, por fuera del área de reserva artesanal, donde podrá capturar con red de cerco los siguientes recursos hidrobiológicos: Agujilla, Anchoveta, Caballa, Cojinoba del norte, Jurel, Merluza de cola y Sardina común.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Desde el momento en que, en cumplimiento a lo dispuesto en el inciso final del numeral 1º de la Resolución, la nave sustituta se inscriba en el Registro Nacional Pesquero Industrial quedarán sin efecto las Resoluciones Nº 610 de 1993, Nº 1.416 de 1996 y Nº 788 de 1997, todas de esta Subsecretaría, que autorizaron la operación de la nave "Arturo" y una nave en construcción, en virtud de la sustitución a que se refiere la presente Resolución. En consecuencia, la nave antes indicada podrá seguir operando hasta el momento en que se cumpla lo dispuesto en los incisos 3º y 4º del numeral 1º, lo cual en ningún caso podrá exceder del plazo establecido en el numeral 6º de la presente Resolución.
+
+Valparaíso, 11 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
