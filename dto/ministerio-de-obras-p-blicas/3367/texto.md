@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.367, de 29 de octubre de 1999, se expropió el lote de terreno Nº 16, superficie 4.543 m², rol de avalúo 76-1, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector K, Séptima Región y se acordó el valor de indemnización con su propietaria Agropecuaria Los Coipos Ltda., ascendente a la cantidad de $10.653.302.-
+
+Fiscal del Ministerio de Obras Públicas.
