@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº 368, de 21 de abril de 1997, y en base a la facultad otorgada por el artículo 105 del Decreto MOP. Nº 294, de 1984, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 16-A, 22-A y 46-A, para la obra Camino Acceso Norte a Concepción, Ramal Colector sector Rafael - Agua Amarilla, Km. 0.952 al 9.980, que figuran a nombre de Araneda Rivero Sucesión, Salazar Montecinos Albarita, y Cáceres Rojas Magdalena, roles de avalúo 604-22, 603-4 y 618-20, comuna de Tomé, superficies 398 m2., 995 m2. y 430 m2. La comisión de peritos integrada por los señores Jaime García Molina, Pablo Carrillo Valenzuela y Luis Abarzúa Ceballos, fijó con fecha 8 de noviembre de 1996, los valores provisionales de las indemnizaciones en las cantidades de $131.340.-;
+
+$129.350.- y $109.900. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
