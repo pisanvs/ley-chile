@@ -1,0 +1,3 @@
+Por Resolución Nº 1.485 de 10 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución Nº 2.094, de 1996, de esta Subsecretaría, sólo en cuanto autorizó a FAROS PESCA DE CHILE COMPAÑIA LIMITADA, para desarrollar actividades pesqueras con la nave "Betty K", respecto de la especie Merluza común, en el litoral comprendido entre la IV Región y el paralelo 41°28,6' L.S., por no haber reanudado actividades pesqueras extractivas dentro del plazo autorizado, verificándose la causal de caducidad prevista en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 10 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
