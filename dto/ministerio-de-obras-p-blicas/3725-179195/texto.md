@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.725, de 28 de agosto de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 3 y 4, para la obra: ''Concesión Internacional Ruta 5. Tramo: Talca - Chillán. Sector: Km. 0.000,00 al Km.
+
+2.020,00'', Octava Región, que figuran a nombre de Sepúlveda Carrasco Juan de la, rol de avalúo 1302-2, comuna de San Carlos, superficies de 4.758 m2 y 19.931 m2, respectivamente. La comisión de peritos integrada por los señores Omar Andrés Aspé Neira, Juan Andrés Tepper Lavanderos y Juan Pablo Cuevas Castillo, fijó con fecha 10 de julio de 2000, el valor provisional de la indemnización en las cantidades de $7.379.400.- para el lote N° 3 y $42.210.300.- para el lote N° 4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
