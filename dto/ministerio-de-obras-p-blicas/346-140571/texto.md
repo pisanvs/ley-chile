@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 346, de 28 de Noviembre de 1986, se expropiaron los lotes N°s. 4 y 5, cuyas superficies son 2.411 m2. y 4.785 m2., roles de avalúo 1021-95 y 1021-96, Comuna La Serena, para la obra Agua Potable de La Serena y Coquimbo, Mejoramiento de la fuente y se acordó el precio de indemnización con sus propietarios don Julio S. Gómez Pereira y don Hugo del Rosario Barahona, ascendentes a $ 65.332 y $ 129.662.
+
+- Fiscal del Ministerio de Obras Públicas. (2)
