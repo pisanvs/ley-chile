@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.070, de 21 de agosto de 2003, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 604 de 1986, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA SAN MIGUEL LIMITADA, hoy Pesquera El Golfo S.A., para operar la nave "Westport", en el área marítima comprendida entre el paralelo 41º 28,6' L.S. y el límite sur de la X Región, con cerco, sobre el recurso hidrobiológico Merluza de tres aletas, en virtud de lo dispuesto en el artículo 143 letra b) De la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 21 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
