@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 1.255 EXENTO, DE 1997
+
+Por Decreto exento Nº 1.255, de fecha 31 de diciembre de 1997, del Ministerio de Educación, se revocó el reconocimiento oficial y se eliminó del Registro de Centros de Formación Técnica el Nº 157 correspondiente al Centro de Formación Técnica de Lautaro, organizado por la Sociedad Centro de Formación Técnica de Lautaro, dejándose sin efecto el Decreto Exento de Educación Nº 183 del 25 de agosto de 1987, modificado por Decreto Exento de Educación Nº 164 del 21 de abril de 1993 y las Resoluciones Exentas que aprobaron planes y programas de estudios de las carreras técnicas para el Centro de Formación Técnica mencionado. Ello, a solicitud de la propia institución.
+
+Santiago, 23 de enero de 1998.- Jaime Pérez de Arce Araya, Subsecretario de Educación.
