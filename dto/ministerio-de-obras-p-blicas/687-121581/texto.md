@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 687, de 29 de mayo de 1998, se expropió el lote de terreno Nº 6, superficie 4.086 m2., rol de avalúo 2207-2, comuna de Chill n, para la obra Ampliación Segunda Calzada Ruta 5 Sur, Sector By Pass Chillán - Rucapequén, Km. 399.120,00 al Km. 413.800, y se acordó precio de la indemnización con su propietario Soc. Soferco S.A., ascendente a la cantidad de $ 10.797.255.- para el lote Nº 6.
+
+Fiscal del Ministerio de Obras Públicas.
