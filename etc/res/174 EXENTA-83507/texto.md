@@ -1,0 +1,3 @@
+Por resolución exenta No. 174 de 09 de marzo de 1990 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó a la Sociedad González y Compañía Limitada (Transporte Aconcagua Santiago T.A.S. Choapa Limitada o T.A.S. Choapa Limitada) para efectuar servicio internacional de transporte terrestre de pasajeros entre San tiago (Chile) y San Luis - Córdoba (Argentina) por Paso Caracoles (Túnel Cristo Redentor) con tres frecuencias semanales, de ida y vuelta.-
+
+Sergio González Tagle, Subsecretario de Transportes.
