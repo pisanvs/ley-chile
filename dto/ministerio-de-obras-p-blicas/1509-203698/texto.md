@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.509, de fecha 30 de agosto de 2002, se expropiaron los lotes de terreno Nº6-A y 7-B, superficies 970,50 y 52 m², rol de avalúo Nº1404-46, comuna de Puerto Varas, para la obra ''Camino Ruta V - 505, Sector Puerto Varas - Los Alerces - Puerto Montt, Km. 0,000 a Km. 16,340, provincia de Llanquihue'', X Región, y se acordó el valor de la indemnización con su propietario Fernando Alejandro Schmauck Torres, ascendente a la cantidad de $9.330.209.-
+
+Fiscal del Ministerio de Obras Públicas.
