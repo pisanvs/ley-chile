@@ -1,0 +1,3 @@
+Por resolución No. 530, de 14 de Julio de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Exportadora Cono Sur Limitada para instalar y operar un establecimiento de cultivo de Alga Gracilaria sp., en un área de 100.000 m2 de fondo de mar en la localidad de Peñuelas, Playa Changa, Bahía Coquimbo, Provincia de Elqui, IV Región.
+
+Valparaíso, 14 de Julio de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
