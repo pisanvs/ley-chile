@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA ALTAMAR S.A. PARA REALIZAR ACTIVIDADES DE PESCA EXPLORATORIA QUE INDICA
+
+Por resolución N° 710, 30 de Septiembre de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Altamar S.A., domiciliada en Valparaíso, para realizar faenas de pesca exploratoria de los recursos langosta y bacalao de Juan Fernández, en los alrededores de Islas San Félix y San Ambrosio, por el período de seis meses a contar del 01 de Octubre de 1986, utilizando, en el primer caso, doce embarcaciones artesanales con 20 trampas cada una y, en el segundo, cuatro embarcaciones artesanales con 4.000 anzuelos cada una. Además la captura de ambos recursos será analizada y almacenada por el Barco Transporte "Río Baker", a bordo del cual dichos recursos deberán ser procesados y transportados enteros.
+
+Valparaíso, 30 de Septiembre de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
