@@ -1,0 +1,7 @@
+Por decreto exento MOP Nº 1.513, de 22 de octubre de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 12, 13, 16, 19, 21, 22, 24 y 27, obra, Camino Ruta L-49, Cruce Long.- Mesamávida, Sector: Cruce Longitudinal - San Luis tramo: Km. 0,000.00 a Km.
+
+13,841.12, que figuran a nombre de Posta Vieja I Municip. de Longaví, Olga Rosa Bustos Munos, Arturo Olivos Becerra, Juan Torres Díaz, José E. Sepúlveda Tapia, Pedro Pablo Bahamóndez Bravo y Segundo Antonio Ibáñez Quezada, roles de avalúos 511-41, 191-24, 511-42, 191-26, 511-48 y 191-30, comuna de Longaví, superficies 67, 289, 43, 66, 33, 103, 106 y 176 M2., respectivamente. La comisión de peritos, fijó con fecha 19 de junio de 2000, en las cantidades de $236.300, lote Nº 12; $1.111.900, lote Nº 13; $163.000, lote Nº 16;
+
+$202.000, lote Nº 19; $69.500, lote Nº 21; $807.900, lote Nº 22; $380.800, lote Nº 24 y $359.800, lote Nº 27, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
