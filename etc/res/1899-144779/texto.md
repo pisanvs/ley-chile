@@ -1,0 +1,3 @@
+Por resolución Nº 1.899, de 20 de septiembre de 1999, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 1.496, de 1999, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Monitoreo de la Pesca de Anchoveta (Engraulis ringens) de la flota pesquera artesanal, en el área protegida por el D.S. Nº 408 de 1986, en la Bahía de Coquimbo, IV Región'', en el sentido de incluir la nave ''Don Alfredo I'' en la nómina de embarcaciones artesanales autorizadas para participar en la señalada pesca de investigación.
+
+Valparaíso, 20 de septiembre de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
