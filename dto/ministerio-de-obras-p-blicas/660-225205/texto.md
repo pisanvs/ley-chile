@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°660, de 30 de agosto de 1996, se expropió el lote de terreno N°1, superficie 3.279 m2., rol de avalúo 218-5, comuna de Canela, para la obra Camino Ruta 5 Norte, sector Agua Dulce Angostura de Gálvez y se acordó precio de la indemnización con su propietario, Comunidad de Angostura de Gálvez, ascendente a la cantidad de $1.529.408 para el lote N° 1.
+
+Fiscal del Ministerio de Obras Públicas.
