@@ -1,0 +1,3 @@
+Por Resolución N° 1.200, de 28 de Junio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Recostrucción, cadúcanse las Resoluciones N° 1.315, de 1990 y N° 1.064, de 1991, ambas de esta Subsecretaría, que autorizaron a don JUAN MANUEL ARANGUIZ GONZALEZ, y don Sergio del Carmen Aránguiz González, para desarrollar actividades pesqueras extractivas con la nave "Don Valentín", en virtud de lo dispuesto en la letra b) del artículo 143 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 28 de Junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
