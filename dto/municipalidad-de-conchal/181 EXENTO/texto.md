@@ -1,0 +1,3 @@
+Alcalde I. Municipalidad de Conchalí, mediante Decreto Exento Nº181, de 08 de Mayo de 1989, complementa Decreto Exento Nº368 de 01.08.88 en el sentido de incluir el estudio de expropiación de la propiedad que se individualiza: Pedro Donoso Nº753 Rol de Avalúo Nº1045-1, se designa asimismo la siguiente comisión tasadora: Nancy Sánchez Sepúlveda, Arquitecto; Ricardo Carvallo Rodríguez y Sergio Rojas Ibáñez.-
+
+Jaime Ugarte Frías, Alcalde.- Duncan Woolvet Pucci, Secretario Municipal .
