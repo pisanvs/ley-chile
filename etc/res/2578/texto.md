@@ -1,0 +1,3 @@
+Por resolución Nº 2.578, de 28 de noviembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96101214, presentada por SERGIO BLAS USABIADA GOMEZ, para instalar y operar el centro de cultivo ubicado en Lote D, parcela Nº4, ribera norte del río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 28 de noviembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
