@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.372 de 31 de julio de 2002, se expropió el lote de terreno Nº 35-1, superficie 4.731 m², rol de avalúo 155-12, comuna de Casablanca, para la obra Red Vial Litoral Central Sector 2: Camino Algarrobo - Casablanca (Ruta F-90). Tramo: Km. 0.000,00 al 32.100,00, Quinta Región y se acordó el valor de indemnización con su propietaria María Inés Cerda Fernández ascendente a la cantidad de $14.109.753.-
+
+Fiscal del Ministerio de Obras Públicas.
