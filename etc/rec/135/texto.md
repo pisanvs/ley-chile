@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+La publicación del decreto N° 165, de 1980, que crea la Comisión Nacional de Facilitación del Transporte Aéreo Internacional, efectuada en la edición número 30.716, del día 16 de Julio de 1980, página cuatro, se rectifica en el sentido de que éste pertenece a la Subsecretaría de Transportes y no a la Subsecretaría de Telecomunicaciones, como equivocadamente aparece en la mencionada publicación.
