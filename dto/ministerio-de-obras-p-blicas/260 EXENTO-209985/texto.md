@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 260, de fecha 31 de marzo de, 2003, se expropió el lote de terreno Nº 1, superficie 3.598 m2, Rol Nº 892-18, comuna de Alto del Carmen, III Región, para la obra "Construcción Puente El Tránsito, Ruta C-495, Sector El Tránsito, Km. 28,37350 a Km. 28,92066" y se acordó el valor de indemnización con su propietario Agrícola Villa Unión Limitada, ascendente a la cantidad de $2.455.740.-
+
+Fiscal del Ministerio de Obras Públicas.
