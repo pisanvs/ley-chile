@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.628, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº 3, superficie 4.475 m2, rol de avalúo 607-30, comuna de Mulchén, VIII Región, para la obra ''Camino Mulchén-Quillaco, sector Puente Granaderos, Km. 0,00000 al 0,45000'' y se acordó el valor de indemnización con su propietaria la Agrícola Granaderos Limitada, ascendente a la cantidad de $4.231.785.-
+
+Fiscal del Ministerio de Obras Públicas.
