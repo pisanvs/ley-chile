@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.178, de 1 de diciembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201112050 presentada por MARIA ORIANA HERNANDEZ MANSILLA, para instalar y operar un centro de cultivo ubicado en Paso Tres Cruces, lado norte de Isla Simpson (sector 2), XI Región.
+
+Valparaíso, 1 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
