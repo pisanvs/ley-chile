@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.218 de 9 de diciembre de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco el lote Nº 17, para la obra: ''Segunda Pista Paralela Aeropuerto Internacional Arturo Merito Benítez'', que figura a nombre de Esquivel Pinto Eduardo G., Rol de Avalúo 7761-17, Comuna de Pudahuel, Región Metropolitana, superficie 14.840 m2. La comisión de peritos, fijó con fecha 5 de septiembre de 2000, el monto de la indemnización provisional en la cantidad de
+
+$67.023.400.-, para el lote Nº 17. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
