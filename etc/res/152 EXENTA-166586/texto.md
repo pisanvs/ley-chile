@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta N° 152, de fecha 13 de Febrero de 1985 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la V Región se autoriza a la Asociación Gremial de Empresarios de Taxibuses "HORA" V Región para efectuar el Servicio público urbano de locomoción colectiva de pasajeros que se indica a continuación:
+
+LINEA N° 92 "POBLACION RIO FRIO (PLAYA ANCHA) - JARDIN DEL MAR - CIRCUNVALACION REÑACA"
+
+Ida: terminal Santa Marta N° 312 en Población Río Frío Playa Ancha - Río Frío - Pacífico - Aguayo - Vista Hermosa - Levarte - Av. Playa Ancha - Av. El Parque - Bajada El Membrillo - Av. Altamirano - Av. Varas - Av. Errçzuriz - Av. Brasil - Av España - Alvarez - Quinta - Errçzuriz - Plaza Grove - Plaza Sucre - Plaza Vergara - Arlegui - Puente Libertad - Av. Libertad - Av. 15 Norte - Av. Jorge Montt - Borgoño Av. Jardín del Mar hasta calle Gabriela en jardín del Mar - regreso por Av. Jardín del Mar - Av. De Los Zargazos - Aníbal Pinto - Av. Vicuña Mackenna - Puente Reñaca - Borgoño - Circunvalación en Borgoño con Carrera Pinto en Reñaca. Regreso: Circunvalación en Borgoño con Carrera Pinto en Reñaca - Carrera Pinto - Puente Reñaca - Av. Borgoño - Av. Jorge Montt - Av. 15 Norte - Av. Libertad - Av. Uno Norte - Rotonda Casino - Av. Marina - Av. España - Av. Errçzuriz - Av. Varas - Av. Altamirano - Subida El Membrillo - Av. El Parque - Av. Gran Bretaña - Av. Playa Ancha - Av. Quebrada Verde - República - Aguayo- Pacífico.- Río Frío - Lautaro - Terminal Santa Marta N° 312 en Población Río Frío Playa Ancha.
+
+Valparaíso. 13 de Febrero de 1985.- Héctor Soto Miranda, Secretario Regional Ministerial de Transportes y Telecomunicaciones subrogante V Región.
