@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°359, de 30 de mayo de 1996, se expropiaron los lotes de terreno N°s. 2, 3 y 23, superficies 245 m2, 250 m2 y 1.457 m2, roles de avalúo 2412-3, 2412-4 y 29322, comuna de La Florida, para la obra Mejoramiento Eje La Florida, sector Los Ararlos-Las Vizcachas, por el cual se fijaron precios de indemnizaciones con sus propietarios Olga Patricia Montero Trincado y otra; Ramón Arturo González Escobar y Hernán Cares Espinoza, ascendentes a las cantidades de $18.586.313, $13.073.445 y $81.287.131, respectivamente.
+
+Fiscal Ministerio de Obras Públicas.
