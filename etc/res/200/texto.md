@@ -1,0 +1,3 @@
+Por resolución N° 200, de 23 de Marzo de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución N° 1351, de 1987, de esta Subsecretaría, que autorizó a PESQUERA PUERTO CISNES S.A., domiciliada en Santiago, para instalar y operar una planta de elaboración de recursos hidrobiológicos, ubicada en Lotes 1, 2, 3, 4 y 5, Manzana 1-A y 1-B, Localidad de Puerto Cisnes, Comuna de Cisnes, XI Región, en virtud de lo prescrito en el artículo 7° del Decreto N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 23 de marzo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
