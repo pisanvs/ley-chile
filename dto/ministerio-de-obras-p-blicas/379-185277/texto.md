@@ -1,0 +1,3 @@
+Por decreto MOP Nº379, de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº10-D, superficie 163,00 m2, rol de avalúo 65-288, comuna de Teno, para la obra "Camino Ruta J-25, sector Cruce Longitudinal - La Montaña, Km. 0,22000 al 25,00000" y se acordó el valor de indemnización con su propietario Héctor René Cereceda Zúñiga, ascendente a la cantidad de $657.054.
+
+Fiscal del Ministerio de Obras Públicas.
