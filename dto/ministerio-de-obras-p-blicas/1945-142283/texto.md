@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.945, de 30 de julio de 1999, se modificó el Decreto M.O.P. Nº 306, de 30 de julio de 1999, que expropió entre otros el lote Nº 29, para la obra Camino Ruta E-39, sector Quinquino El Rayado, en el sentido que el propietario de este lote es la Sociedad Madera Los Molinos Compañía Limitada y que don Francisco Aste Coloma y otro, suscribieron el Convenio Directo de Precio en representación de esta sociedad.
+
+Fiscal Ministerio de Obras Públicas.
