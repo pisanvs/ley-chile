@@ -1,0 +1,5 @@
+Por decreto MOP Nº952, de 15 de junio de 2001 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº1 para la obra:
+
+"Concesión Internacional Ruta 5, Tramo: Los Vilos "La Serena, Sector a: Bif. Illapel "Hornillos Km. 319.000 a Km. 319.700"; Cuarta Región, que figura a nombre de Briceno Arenas Israel y Otro, rol de avalúo 123-10, comuna de Punitaqui, superficie 404 m2. La comisión de peritos integrada por los señores, Juan Agustín Ibáñez Palma, Alfredo Alvaro Prieto Parra y María Iris Marcich Moller, fijó con fecha 08 de noviembre de 2000, el valor provisional de la indemnización en la cantidad de $7.240.415.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
