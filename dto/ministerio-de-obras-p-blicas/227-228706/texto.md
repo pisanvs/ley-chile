@@ -1,0 +1,3 @@
+Por decreto MOP N° 227, de 25 de septiembre de 1987, se expropiaron los lotes N°s. 2, 3 y 4 cuyas superficies son 7.612 m2., 2.500 m2. y 2.845 m2. roles de avalúo 508-23, 508-29 y 325-15, respectivamente, Comuna de Curicó, para la obra Alcantarillado de Curicó y se acordó el precio de indemnización con sus propietarios don Carlos Ramírez Inostroza, doña María Felisa Raquel Arenas y Reyes Bustamante y Compañía Limitada, ascendentes a $ 2.715.200, $ 891.750 y $ 1.014.812.
+
+Fiscal del Ministerio de Obras Públicas.
