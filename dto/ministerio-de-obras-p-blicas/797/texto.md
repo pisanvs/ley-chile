@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 797, de 29 de agosto de 1997, se expropiaron los lotes de terreno Nºs. 55-A y 55-B, roles de avalúo 2229-137 y 2229-97, comuna de Chillán, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios María Teresa Betancur Quiroga, y Julia Quijada González, ascendente a las cantidades de $704.600.- y $90.200.-
+
+Fiscal del Ministerio de Obras Públicas.
