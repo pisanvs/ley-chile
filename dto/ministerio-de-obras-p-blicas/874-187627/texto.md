@@ -1,0 +1,3 @@
+Por decreto MOP Nº874, de 31 de mayo de 2001, se expropió el lote de terreno Nº115, superficie 514 m², rol de avalúo 3140-25, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Santander Factoring S.A., ascendente a la cantidad de $44.884.554.-
+
+Fiscal del Ministerio de Obras Públicas.
