@@ -1,0 +1,3 @@
+Por Decreto MOP No. 238, de 28 de agosto de 1992, se expropió el lote de terreno No. 3, superficie 641 m2., rol de avalúo 3709-35, Comuna de Talca, para la obra Camino Longitudinal Sur Ruta 5, segunda calzada, sector Puente Lircay-Paso Superior Lircay, y se acordó precio de indemnización con su propietario Luis A. Fuentes, ascendente a la cantidad de $ 1.181.750.-
+
+Fiscal del Ministerio de Obras Públicas.
