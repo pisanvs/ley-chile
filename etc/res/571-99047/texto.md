@@ -1,0 +1,5 @@
+Por resolución Nº571, de 24 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMERCIALIZADORA DE PRODUCTOS ALIMENTICIOS FRIO NATUR LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Las Heras Nº2241, Concepción, VIII Región, donde podrá procesar en la línea de elaboración de Congelado, los siguientes recursos hidrobiológicos: Trucha arcoiris o Cabeza de acero, Salmón del Atlántico, Salmón plateado, Merluza común, Alfonsino, Besugo, Blanquillo, Cabrilla, Cabrilla común, Cojinoba del norte, Cojinoba del sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Lenguado de ojos chicos, Palometa, Pejegallo, Reineta, Sardina española, Turbot, Gamba, Anguila de profundidad y Calamar.
+
+Los recursos Salmón del Atlántico, Salmón plateado y Trucha arcoiris o Cabeza de acero, deberán provenir de centros de cultivo autorizados.
+
+Valparaíso, 24 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
