@@ -1,0 +1,7 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante Resolución exenta No. 361 de 08 de Marzo de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sectores Excluidos y Sectores Expropiados Predios "Hijuela Oriente o Hijuela D, que es parte de los antiguos Fundos Angostura, Chorrillos e Hijuela Chorrillos" y "Cañadilla y Cerros de Chorrillos" de la comuna de San Fernando, Sexta Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 5, parte de las N°s 6 y 7, parcelas N°s. 8 a la 19, parte de la No. 20, parcelas N°s 30 a la 52, 53a, 53b, 54a, 54b y 55 a la 60; sitios N°s. 1 al 21, 22a. 22b, 23, 24, 25a, 25b, 26, 27a, 27b, 28 al 30, 31a, 31b, 32 al 35, 36a, 36b, 37 al 48, 49a, 49b, 50 al 84 y 86 al 114 y Reservas CORA N°s. 1 a la 6, 8 y 9 del Proyecto de Parcelación "Chorrillos" formado, entre otros, por predios señalados. Los Derechos de Agua se extraen de los canales Trapiche - Cañadillas, El Tambo, Miraflores y Población o Comunero de San Fernando, todos derivados del río Tinguiririca; estero Antivero y Derrames del Fundo Miraflores.
+
+Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
