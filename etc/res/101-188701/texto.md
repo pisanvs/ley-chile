@@ -1,0 +1,7 @@
+AUTORIZA A DON CARLOS GOMEZ CERDA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 101 de 06 de Febrero de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Carlos Gómez Cerda, RUT. 6.428.661-7, domiciliado en Arica, calle Renato Rocca No. 1.351, Parque Industrial Menor, local cuatro, para utilizar como materia prima en la planta que tiene autorizada operar por resolución No. 552, de 1985, de la misma Subsecretaría, además de los recursos hidrobiológicos que en ella se especifican, los siguientes: albacora, anguila, apañao, atún aleta amarilla, atún aleta larga, blanquillo, caballa, cabinza, cachurreta, lenguado de ojos chicos, machuelo, merluza común, mulata, pejegallo, rollizo, zargo común, tomoyo, cholga, chorito, choro zapato, camarón de roca, jaiba, picoroco, ostra del Pacífico, ostra chilena, panchote y jibia.
+
+El interesado deberá efectuar el transporte de las especies mencionadas, desde su centro de abastecimiento hasta la planta, en medios dotados de sistemas adecuados de preservación de la materia prima, tales como cajas plásticas o contenedores con hielo, cámaras isotérmicas o refrigeradas.
+
+Valparaíso, 06 de Febrero de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
