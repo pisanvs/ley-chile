@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº39, de 26 de febrero de 1990, se expropiaron los lotes Nºs. 1 y 2, superficies 200 m2. y 680 m2., roles de avalúo 282-17 y 570-15, Comuna de Lautaro, para la obra Ruta S-11-R Lautaro a Agua Santa y se acordó precio de indemnización con sus propietarios Juan Federico López Colihuinca y Francisco del Carmen López Colihuinca, ascendente a las sumas de $ 37.333 y 126.929, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
