@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de San Fernando contratar empréstito hasta por $ 1.200,000 para efectuar, con su producto, diversas construcciones y obras de adelanto local y expropiación de las Termas denominadas "Vegas del Flaco".
