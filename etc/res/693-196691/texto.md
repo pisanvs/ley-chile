@@ -1,0 +1,3 @@
+Por resolución Nº693, de 5 de abril de 2002, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº96101232, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES, BUZOS MARISCADORES Y RAMOS SIMILARES SAN PEDRO DE AULEN, para un centro de cultivo ubicado en sector sur de isla Aulén, X Región.
+
+Valparaíso, 5 de abril de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
