@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.833, de 30 de junio de 2000, se expropió el lote de terreno Nº7, superficie 61 m2., Rol de avalúo 98-123, comuna de Coihueco, para la obra Camino Ruta N-545 Chillán - Tanilvoro, Sector Chillán - Universidad Adventista, Km. 0.000.00 a Km. 8.000.00 y se acordó precio de la indemnización con sus propietarios Luisa del Carmen Ramos Lara y otros, ascendente a la cantidad de $348.410.
+
+- Fiscal del Ministerio de Obras Públicas.
