@@ -1,0 +1,3 @@
+Por decreto MOP Nº558 de fecha 30 de mayo del 2003, se expropió el lote de terreno Nº76, superficie 118 m2, Rol Nº271-1, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores Sector 2: Carrizal - Puente Belco Tramo Km. 23,38000 a Km. 41,26600" y se acordó el valor de indemnización con su propietario Ana Teresa Carrasco Salgado y Otras, ascendente a la cantidad de $301.388.
+
+Fiscal del Ministerio de Obras Públicas.
