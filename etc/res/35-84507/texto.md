@@ -1,0 +1,3 @@
+Por resolución No. 35 de fecha 14 de Febrero de 1990 del Ministerio de Economía, Fomento y Reconstrucción, se canceló la personalidad jurídica de la Asociación Gremial Agrícola y Ganadera Las Lomas de Quilquén, inscrita bajo el número 1047 del Registro que lleva este Ministerio por haberse configurado respecto de ella la causal de cancelación contemplada en el artículo 18 No. 2 letra c) del DL 2.757.-
+
+Norman Bull de la Jara, Subsecretario de Economía, Fomento y Reconstrucción .
