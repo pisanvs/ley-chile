@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.824, de 30 de junio de 2000, se expropió el lote de terreno Nº6, superficie 781 m², rol de avalúo 18-88, comuna de San Gregorio Ñiquén, para la obra Concesión Internacional Ruta 5, tramo: Talca - Chillán, Octava Región y se acordó el valor de indemnización con su propietario Ernesto Miguel Carvajal Acuña, ascendente a la cantidad de $1.242.525.
+
+Fiscal del Ministerio de Obras Públicas.
