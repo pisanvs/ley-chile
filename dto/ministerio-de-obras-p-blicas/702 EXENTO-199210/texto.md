@@ -1,0 +1,3 @@
+Por decreto MOP. Exento Nº702, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº40-A, superficie 84,10 M2, rol de avalúo 3800-253, comuna de Puente Alto, Región Metropolitana, para la obra ''Mejoramiento Eje La Florida, el Peñón-Las Vizcachas, Sector Km. 6.980 al 10.340'' y se acordó el valor de indemnización con su propietaria doña Nora Vásquez Cortés, ascendente a la cantidad de $2.303.719.-
+
+Fiscal del Ministerio de Obras Públicas.
