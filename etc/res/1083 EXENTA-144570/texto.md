@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta N° 1.083, de fecha 27 de Octubre de 1986, de la Secretaria Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica el recorrido Troncal N° 31 "Maipú - San Joaquín - Lo Plaza", de la Línea de Taxibuses N° 31 "Ñuñoa-Cerrillos Maipú", autorizado por resolución N° 932 de 17.09.82.
+
+TRONCAL N° 31 "MAIPU SAN JOAQUIN - LO PLAZA NACIONES UNIDAS" Ida: Desde su terminal en San Martín con Pasaje Los Andes, continúa por San Martín Hemán Bravo - Cruz - Victoria - Camino a Rinconada - Carmen: Cinco de Abril - Esquina Blanca - Los Tilos - El Mirador - Avda. Pedro Aguirre Cerda Buzeta - Avda. Carlos Valdovinos - Ríos Talaveras - Avda. Isabel Riquelme - Euclides Orán - Av. Carlos Valdovinos Avda. Vicuña Mackenna Guillermo Mann - Virgilio Avda. Marathón - Los Espinos Avda. Pedro de Valdivia Quilín - Avda. El Libano Avda. Lo Plaza - Rodrigo de Araya - Rotonda Grecia - Avda. Lo Hermida - Avda. Tobalaba Calle 14 hasta Calle 17, su terminal.
+
+Regreso: Desde su terminal en Calle 14 con Calle 17, continúa por Calle 14 - Avda. Tobalaba - Avda. Lo Hermida - Roronda Grecia - Rodrigo de Araya - Avda. Lo Plaza - Avda. El Libano - Quilin - Avda. José Pedro Alessandri - Los Plátanos - Los Tres Antonios - Los Espinos - Avda. Marathón - Guillermo Mann - Avda. Vicuña Mackenna - Avda. Carlos Valdovinos - Santa Rosa - Silva Vildósola - Milán - Barcelona - Avda. Isabel Riquelme - Juan de Bastidas- Avda. Carlos Valdovinos - Avda. Pedro Aguirre Cerda El Mirador - Los Tilos - Esquina Blanca - Cinco de Abril Carmen - Camino a Rinconada - Victoria - Argentina - San Martín hasta Pasaje Los Andes, su terminal.
+
+Santiago, 30 de Octubre de 1986.- Carlos Román Toro, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
