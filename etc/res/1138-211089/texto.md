@@ -1,0 +1,3 @@
+Por resolución Nº 1.138, de 30 de mayo de 2003, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 927 modificada por resolución Nº 1.071, ambas de 2003, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Determinación de la Distribución Espacial de Jurel entre la V y X Regiones, Otoño 2003", en el sentido de señalar que la mencionada investigación se extenderá hasta el 15 de junio de 2003.
+
+Valparaíso, 30 de mayo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
