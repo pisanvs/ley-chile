@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.351 de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº 102-A, superficie 15.048 m2, Rol de Avalúo Nº 33-124, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua-Las Cabras, Sector San Roberto-El Toco-Ruta 66, Tramo Km. 12,70000 al 18,19349" y se acordó el valor de indemnización con su propietario Mauricio del Carmen Donoso Aliaga, ascendente a la cantidad de $29.510.716.-
+
+Fiscal del Ministerio de Obras Públicas.
