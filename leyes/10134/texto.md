@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Los Andes para que contrate empréstitos que produzcan hasta $ 10.000.000 con el fin de construir un Edificio Consistorial, un Matadero Municipal, un horno crematorio de basuras, un Mercado Modelo y una población obrera.
