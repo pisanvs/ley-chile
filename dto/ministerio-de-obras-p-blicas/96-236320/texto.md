@@ -1,0 +1,1 @@
+Por decreto MOP Nº 96, de 8 de febrero de 2005, se modificó el decreto MOP Nº 916, de 18 de octubre de 2004, en lo que respecta a la asignación presupuestaria.
