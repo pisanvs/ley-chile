@@ -1,0 +1,3 @@
+Por decreto MOP Nº786, de 29 de febrero de 2000, se expropiaron los lotes de terreno Nºs. 1 y 6, superficies 260 y 60 m², roles de avalúo 139-1 y 52-93, comunas de Peralillo y Pumanque respectivamente, para la obra Camino Ruta I-60, Sector Población Pumanque y se acordó precio de las indemnizaciones con sus propietarios, Inmobiliaria e Inversiones Siete Mares S.A. y Manuel Benito Flores Quinteros, ascendentes a las cantidades de $949.683, lote Nº1 y $469.878, lote Nº6.
+
+Fiscal del Ministerio de Obras Públicas.
