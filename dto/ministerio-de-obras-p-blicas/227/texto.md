@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 227, de 30 de Julio de 1993, se expropió el lote de terreno N° 32-A, superficie 351 m2., rol de avalúo 1353-12, Comuna de Coronel, para la obra Camino By Pass Coronel-Lota (Ruta 160), sector By Pass Coronel, y se acordó precio de indemnización con sus propietarios Emelina del Carmen Castro Medina y otros, ascendente a la cantidad de $ 4.809.168.-
+
+Fiscal del Ministerio de Obras Públicas.
