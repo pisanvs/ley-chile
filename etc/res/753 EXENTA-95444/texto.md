@@ -1,0 +1,3 @@
+Por resolución exenta N° 753 de 05 de Agosto de 1988 se cancela resolución N° 449 de 25 de Marzo de 1987 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la V Región que autorizó al Sr. Osvaldo Cartagena Morales para efectuar las revisiones técnicas de los vehículos de transporte de personas de más de nueve (9) asientos, incluido el del conductor; de vehículos motorizados de carga con capacidad para transportar más de 1.750 kilos, sus remolques y semirremolques y los taxis, en el establecimiento ubicado en calle El Arrayán N° 2460, Población, Albatros, Comuna de Algarrobo.
+
+Valparaíso, 05 de Agosto de 1988.- Hernán Vásquez Wacquez, Secretario Regional Ministerial de Transportes y Telecomunicaciones V Región.
