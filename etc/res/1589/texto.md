@@ -1,0 +1,3 @@
+Por Resolución N° 1.589, de 27 de agosto de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución N° 523, de 1995, de esta Subsecretaría, que autorizó a PESQUERA HUILCA S.A., para desarrollar actividades pesqueras extractivas con la nave factoría "San Rafael", por haberse verificado la causal prevista en el artículo 143 letra b) de la Ley N° 18.892 y sus modificaciones.
+
+Valparaíso, 27 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
