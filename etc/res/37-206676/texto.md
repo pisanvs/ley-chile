@@ -1,0 +1,3 @@
+Por resolución Nº 37, de 8 de enero de 2003, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.264 de 2000, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA GENMAR LIMITADA, para operar la nave "Don Chelo I", con red de arrastre, en relación con el recurso hidrobiológico Raya volantín, en el área marítima correspondiente a la VIII Región, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 8 de enero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
