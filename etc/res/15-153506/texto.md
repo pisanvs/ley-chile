@@ -1,0 +1,11 @@
+Por resolución Nº15, de 10 de enero de 2000, de esta Subsecretaría, autorízase a PESQUERA PESCANORTE S.A., para continuar desarrollando actividades pesqueras con la nave denominada ''Audaz'', cuyas características náuticas se señalan más adelante, autorizada por resoluciones Nº78 de 1987, Nº359 de 1989, Nº695 de 1992, Nº325 de 1994, Nº350 y Nº1.103 de 1999, de esta Subsecretaría, en el litoral y respecto de los recursos hidrobiológicos que más adelante se indican.
+
+La nave ''Audaz'' se encuentra autorizada para desarrollar actividades extractivas en el litoral de la I y II Regiones respecto de los recursos Sardina española, Anchoveta y Jurel; en la III y IV Regiones, respecto de los recursos Anchoveta y Sardina española, en todos los casos por fuera del área de reserva artesanal, con red de cerco.
+
+En consecuencia, Pesquera Pescanorte S.A., podrá capturar con la nave ''Audaz'', individualizada precedentemente, en el área de pesca correspondiente al litoral que se indica los siguientes recursos hidrobiológicos: a) Litoral de la I y II Regiones, por fuera del área de reserva artesanal, con red de cerco: Sardina española, Anchoveta y Jurel; b) Litoral de la III y IV Regiones, por fuera del área de reserva artesanal, con red de cerco: Anchoveta, Sardina española.
+
+Además, Pesquera Pescanorte S.A., podrá capturar en las áreas de pesca que se indican, los siguientes recursos hidrobiológicos: a) Litoral de la I y II Regiones, por fuera del área de reserva artesanal con red de cerco: Agujilla, Anchoveta blanca, Bonito, Bacaladillo o mote, Caballa, Cabinza, Cojinoba del Norte, Dorado, Jurel fino, Machuelo o tritre, Palometa, Roncacho, Sardina redonda, Vinciguerria; b) Litoral de la III y IV Regiones, por fuera del área de reserva artesanal con red de cerco: Agujilla, Bonito, Bacaladillo o mote, Caballa, Cabinza, Cojinoba del Norte, Dorado, Palometa, Roncacho, Sierra.
+
+Déjanse sin efecto las resoluciones Nº78 de 1987, Nº359 de 1989, Nº695 de 1992, Nº325 de 1994, Nº350 y Nº1.103 de 1999, de esta Subsecretaría, en cuanto autorizaron a Sociedad Pesquera Coloso S.A., para operar la nave ''Audaz''.
+
+Valparaíso, 10 de enero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
