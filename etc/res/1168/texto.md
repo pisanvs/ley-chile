@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 1.168 de fecha 01.10.93, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó complementariamente a la empresa de origen boliviano Litoral S.R.L., para efectuar servicio de transporte terrestre internacional de pasajeros, entre La Paz-Oruro (Bolivia) e Iquique (Chile), Viceversa, con (3) Tres frecuencias semanales de ida y vuelta, utilizando el paso fronterizo de Cerrito Prieto.-
+
+Sergio González Tagle, Subsecretario de Transportes.
