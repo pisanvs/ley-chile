@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 258, de 31 de marzo de 2003, se expropió el lote de terreno Nº14-2, superficie 208 m2., rol de avalúo 1503-5, comuna de Los Angeles, para Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli. Sector: Km. 498.780,00 al Km. 506.940,00, By Pass Los Angeles, VIII Región y se acordó el valor de indemnización José Miguel Aceitón Oliva y otros, ascendente a la cantidad de $272.834.-
+
+Fiscal del Ministerio de Obras Públicas.
