@@ -24356,9 +24356,7 @@ CAPITULO 13-22 (Bancos y Financieras)
 
 MATERIA:
 
-CONTRATOS DE COBERTURA DE TASAS DE INTERES A FUTURO EN BOLSAS OFICIALES
-
-EXTRANJERAS.
+CONTRATOS DE COBERTURA DE TASAS DE INTERES A FUTURO EN BOLSAS OFICIALES EXTRANJERAS.
 
 ### 1. Generalidades
 
@@ -24954,11 +24952,9 @@ MATERIA:
 
 CONTRATOS DE PROTECCION DE TASAS DE INTERES FLOTANTES.
 
-### 1. Generalidades
+1.- Generalidades
 
-La celebración de los contratos de protección de tasas de interés flotantes deque trata el Capítulo IX del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, debe tener por objeto evitar o limitar el riesgo de
-
-las fluctuaciones de las tasas de interés en el mercado internacional, que afectan a las obligaciones en moneda extranjera vigentes con el exterior, pactadas a una tasa de interés variable y registradas en el Banco Central de Chile.
+La celebración de los contratos de protección de tasas de interés flotantes de que trata el Capítulo IX del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, debe tener por objeto evitar o limitar el riesgo de las fluctuaciones de las tasas de interés en el mercado internacional, que afectan a las obligaciones en moneda extranjera vigentes con el exterior, pactadas a una tasa de interés variable y registradas en el Banco Central de Chile.
 
 La disminución o cobertura del referido riesgo, se produce por las compensaciones que el contratante residente en Chile recibe de la institución extranjera con la que se haya celebrado el convenio, cuando la tasa de interés acordada en el respectivo contrato ha excedido los márgenes pactados en las fechas estipuladas.
 
@@ -29316,57 +29312,15 @@ Las disposiciones del Capítulo VIII del Título II del Compendio ya mencionado,
 
 Las referidas deducciones sólo podrán efectuarse simultáneamente con la liquidación de los respectivos retornos de exportación.
 
-Con todo, de conformidad con lo dispuesto en el citado capítulo, los exportadores que vendan sus productos en el exterior por intermedio de empresas chilenas con domicilio en el país, que se dediquen a la comercialización de esos productos, no podrán efectuar deducción alguna con cargo a las exportaciones que efectúen a través de esas empresas.
+### 3. Instrucciones contables
 
-3. Exigencia de mantener depositadas en un banco las divisas deducidas al liquidar retornos.
-
-Las sumas deducidas por los exportadores, de acuerdo con lo señalado precedentemente, deberán mantenerse depositadas en una única cuenta corriente o en depósitos a plazo, en el mismo o en otro banco a nombre del exportador, siempre en la misma moneda extranjera en la que se efectuó el respectivo retorno.
-
-Contra dichos depósitos los titulares podrán efectuar giros para pagar gastos de viaje, de asesoría y otros que deban realizar para llevar a cabo sus programas de exportación; gastos bancarios y comisiones en el exterior, originados con posterioridad a la liquidación del retorno; indemnizaciones y otros gastos debidamente autorizados por el Banco Central de Chile y para su conversión a moneda chilena por intermedio de las empresas bancadas.
-
-Los giros o aplicaciones de los intereses devengados por los depósitos a plazo antes mencionados, quedarán sujetos a las mismas limitaciones señaladas en el párrafo precedente.
-
-4. Cláusula especial en el contrato de cuenta corriente y en los depósitos a plazo.
-
-La empresa bancaria en la que se abra la cuenta corriente señalada, o se constituya el depósito a plazo, que tendrá el carácter de intransferible, deberá consignar como cláusula en el respectivo contrato de cuenta corriente o en el comprobante del depósito a plazo, que la utilización de esos haberes por parte de sus titulares, se ajustará a las disposiciones señaladas en el Capitulo VIII del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y que toda contravención a las citadas disposiciones será sancionada por dicho Instituto.
-
-5. Facultad del Banco Central de Chile de pedir justificación de los gastos.
-
-Los exportadores deberán tener presente que, en cualquier momento, el Banco Central de Chile podrá solicitar información sobre el uso dado a los fondos. Dicha información deberá ser respaldada por los respectivos documentos que acrediten tanto el origen de los depósitos como la naturaleza de los desembolsos o gastos realizados.
-
-### 6. Forma de entregar el monto deducido de los importes liquidados
-
-El importe de divisas que autoriza deducir el Capítulo VIII del Título II del Compendio de Normas de Cambios Internacionales, deberá ser entregado por los bancos al exportador respectivo en cheques girados a la orden del propio banco que liquide los retornos de exportación pertinentes y endosados por éste para el solo efecto de ser depositados en la única cuenta corriente que el exportador tenga abierta con ese fin, en el mismo o en otro banco, o para constituir depósitos a plazo, según lo disponen las normas en referencia.
-
-### 7. Instrucciones contables
-
-7.1. Depósitos en cuenta corriente.
-
-Los asientos que se registren en las cuentas corrientes especiales abiertas por los exportadores, y que se operarán en moneda extranjera, deberán señalar el origen y el destino del depósito o del giro, respectivamente, y el banco deberá mantener, en forma paralela, un archivo individual con los antecedentes presentados por su cliente, justificativos de cada una de esas partidas.
-
-Estas cuentas se abonarán con el depósito de las divisas deducidas de los retornos y se cargarán por los giros efectuados por los exportadores para los fines señalados. Su saldo, siempre acreedor, representará el monto de divisas que tiene a su disposición el exportador.
-
-7.2. Depósitos a plazo.
-
-Las entidades bancarias que reciban depósitos a plazo en moneda extranjera provenientes de la deducción de retornos de exportación liquidados, deberán registrar estos depósitos en cuentas individuales a nombre de cada exportador, con el objeto de mantener un adecuado control sobre estas operaciones. El tratamiento contable para estos depósitos será el siguiente:
-
-a) Los importes correspondientes a las divisas deducidas de los retornos que se reciban, se abonarán a la cuenta "Depósitos a plazo por divisas deducidas de retornos de exportación", de la partida 3020, 3025 ó 3065, según corresponda.
-
-b) La referida cuenta se cargará al vencimiento de los respectivos depósitos por los giros efectuados para los fines expresamente señalados en el N° 3 del presente Capítulo; y,
-
-c) El saldo de la citada cuenta representará el monto de divisas que mantienen depositadas a plazo los exportadores, según sus cuentas individuales.
-
-7.3. Depósitos a plazo por retornos declarados pendientes de liquidación.
+3.1. Depósitos a plazo por retornos declarados pendientes de liquidación.
 
 Los depósitos a plazo constituidos con divisas cuyo retorno sea informado al Banco Central de Chile y que se acojan al plazo especial de 90 días para su liquidación, de conformidad con lo previsto en el N° 1 de este Capítulo, serán registrados en la cuenta "Depósitos a plazo divisas retornadas por liquidar" de la partida 3020 ó 3025, según corresponda.
 
-7.4. Intereses.
+3.2. Intereses.
 
 Los intereses que devenguen los depósitos a plazo a que se refiere este capítulo, serán debitados en la cuenta que corresponda de la partida 5110, 5120 ó 5130, con abono a la respectiva cuenta de "Intereses por pagar" de la partida 3805.
-
-### 8. Información al Banco Central de Chile
-
-Las empresas bancadas que reciban en depósito las divisas deducidas de los retornos que se liquiden, deben enviar mensualmente al Banco Central de Chile, un estado de esas operaciones de acuerdo con el formato contenido en el Anexo N° 1 del Capítulo VIII del Título II del Compendio de Normas de Cambios Internacionales.
 
 CAPITULO 14-7 (Bancos)
 
