@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Resolución N° 189 de 8 de Noviembre de 1995, Serviu Sexta Región ordenó expropiación parcial inmueble ubicado en sector Paniahue, al sur estero Chimbarongo de la comuna de Palmilla, provincia de Colchagua, Rol de Avalúos N° 31 (Antiguo, superficie apróximada de 62,30 metros cuadrados), delimitada Polígono I-E-F-I, conforme Plano expropiación confeccionado por Serviu VI Región U.I.V.U. P-392, Lote 4-B de aparente dominio de don Rodemil Castro Cáceres, para construcción Obras de Vialidad Urbana "Proyecto Reposición Puente Paniahue" conforme Artículo 51 Ley 16.391 y D.S. 2.186. Comisión Peritos integrada por Eduardo González Brard, Oscar Novoa Vargas y René Corvalán Correa, Arquitectos, según Informe de fecha 10 de mayo de 1995, complementado por Informe de 5 de septiembre de 1995, fijó Monto Provisional Indemnización en $220.542, pagadera a contado.-
+
+Director Serviu VI Región.
