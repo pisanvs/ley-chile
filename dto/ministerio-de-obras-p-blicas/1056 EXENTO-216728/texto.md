@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.056 de fecha 29 de septiembre de 2003, se expropió el lote de terreno Nº4, superficie 121 m², Rol Nº435-42, comuna de Cauquenes, VII Región para la obra "Camino Lechería-Cerro Alto, Sector Puente San Miguel, Tramo Km. 1,340 a Km. 1,670" y se acordó el valor de indemnización con su propietario Teresa de Jesús Roldán Muñoz y otra, ascendente a la cantidad de $508.624.
+
+Fiscal del Ministerio de Obras Públicas.
