@@ -1,0 +1,3 @@
+Por Resolución N° 216, de 6 de Marzo de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMERCIAL OCEAN STAR LTDA., R.U.T. N° 79.968.970-7, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en Phillipi N° 459, Portales, Valparaíso, en las líneas de elaboración de Fresco-Refrigerado, los siguientes recursos hidrobiológicos: Bacalao de profundidad, Bacalao de J. Fernández.
+
+Valparaíso, 6 de Marzo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
