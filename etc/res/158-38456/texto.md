@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 158 del 29 de Diciembre de 1992, se autoriza a Víctor Solís Guerrero la concesión para operar, hasta el 14 de Febrero de 1995, un establecimiento ubicado en Avda. Pedro de Valdivia 6571, Comuna de Macul, destinado a la verificación de emisión de contaminantes de vehículos motorizados livianos a que se refiere el D.S. N° 211/91, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Juan Fuentes Isla, Secretario Regional Ministerial Transportes y Telecomunicaciones, Región Metropolitana Subrogante.
