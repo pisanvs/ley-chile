@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.734, de 25 de junio de 1999, se expropiaron los lotes de terreno Nºs. 2 y 3, superficies 1.322,5 y 116 m², rol de avalúo 3720-252, comuna de Talca, para la obra Camino Talca-Pencahue, Sector Puente Río Claro, tramo Puente Río Claro y se acordó precio de indemnización con su propietario Obispado de Talca, ascendente a la cantidad $7.102.940.
+
+- Fiscal del Ministerio de Obras Públicas.
