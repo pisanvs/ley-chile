@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 114, de 29,de febrero de 1996, se expropiaron los lotes de terreno Nºs. 92, 93, 117, 118 y 120, superficies 1.360, 1.252, 1.578, 870 y 2.560 m2., respectivamente, roles de avalúos 316-132, 316-131 y 316-86, comuna de Quirihue, para la obra Camino Cauquenes Límite Regional Quirihue y se acordó precio de indemnización con sus propietarios Sara Hernández Aravena y Gerd Scheel Biel, ascendente a las cantidades de $4.958.800 y $1.263.071.
+
+Fiscal del Ministerio de Obras Públicas.
