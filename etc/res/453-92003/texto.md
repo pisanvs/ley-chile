@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PESQUERA TRIMAR LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 453 de 25 de Abril de 1989 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera Trimar Limitada, RUT No. 79.876.160-9, domiciliada en la ciudad de Santiago, para iniciar actividades pesqueras, en orden a operar dos embarcaciones en construcción, en el litoral de las Regiones III a V y VII donde podrá extraer los siguientes recursos: Anguila, Atún aleta amarilla, Atún aleta larga, Congrio colorado, Congrio negro y Raya. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 25 de Abril de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
