@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.386, de 31 de julio de 2002, se expropió el lote de terreno Nº91, superficie 125 m², rol de avalúo 206-109, comuna de Coelemu, VIII Región, para la obra ''Camino Ruta O-170, O-176, acceso a Guarilihue, Km. 0,00000 al 8,28000'' y se acordó el valor de indemnización con su propietario don Pedro Lagos Fuentes, ascendente a la cantidad de $5.043.335.-
+
+Fiscal del Ministerio de Obras Públicas.
