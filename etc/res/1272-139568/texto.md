@@ -1,0 +1,3 @@
+Por resolución Nº 1.272, de 9 de julio de 1999, de esta Subsecretaría, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A., para continuar realizando las actividades de acuicultura autorizadas por la resolución Nº 631 de 1995 a Octavio Agustino Abarca Castelli, para la piscicultura ubicada en Ensenada Playa Maqui, comuna de Frutillar, provincia de Llanquihue, X Región.
+
+Valparaíso, 9 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
