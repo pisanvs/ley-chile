@@ -1,0 +1,1 @@
+Autoriza Municipalidades San Miguel y La Granja para establecer en el camino Santa Rosa, derecho de tránsito, de acuerdo con tarifa que fija esta ley.
