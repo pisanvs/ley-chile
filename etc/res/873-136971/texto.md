@@ -1,0 +1,3 @@
+Por resolución Nº 873, de 18 de mayo de 1999, de esta Subsecretaría, déjase sin efecto las resoluciones Nº1.055 de 1990 y Nº 264 de 1997, ambas de esta Subsecretaría, que autorizaron a SOCIEDAD ABASTECEDORA DE PRODUCTOS DEL MAR LIMITADA para instalar y operar el centro de cultivo ubicado en Los Coihues, Río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 18 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
