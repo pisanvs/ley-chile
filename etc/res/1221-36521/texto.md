@@ -1,0 +1,3 @@
+Por Resolución N° 1.221, de 7 de Septiembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 791, de 1995, de esta Subsecretaría, que autorizó a don MARIO TADEO FIGUEROA INOSTROZA, R.U.T. N° 5.505.107-0, para desarrollar actividades pesqueras extractivas con la nave "Pacífico I", por no haber sido publicada de conformidad con el artículo 15 del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 7 de Septiembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
