@@ -1,0 +1,3 @@
+Por resolución exenta Nº239 de 21 de enero de 2004, de esta Subsecretaría, autorízase a CULTIVOS MARINOS DEL SUR LIMITADA, para continuar desarrollando las actividades pesqueras de transformación autorizadas a Cultivos Marinos del Sur S.A., del mismo RUT y domicilio, en virtud de la escritura pública de fecha 28 de agosto de 2003, y del contenido de la presente resolución.
+
+Valparaíso, 21 de enero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
