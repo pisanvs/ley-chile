@@ -1,0 +1,51 @@
+PRORROGA MANDATO DE DIRECTIVAS DE JUNTAS DE VECINOS Y OTRAS ORGANIZACIONES
+
+Santiago, 4 de Marzo de 1974.- La Junta de Gobierno de la República de Chile decretó hoy lo que sigue:
+
+Núm 349.- Teniendo presente:
+
+Que el Gobierno ha reconocido en toda su extensión el valioso aporte que presentan las Organizaciones Comunitarias, Colegios Profesionales y demás organizaciones similares, como elementos cooperadores en la solución de los problemas nacionales.
+
+Que si bien la situación del país se encuentra prácticamente normalizada, no es conveniente aún autorizar indiscriminadamente el funcionamiento de aquéllas o la renovación de sus directivas.
+
+Y visto lo dispuesto en los decretos leyes N° 1, de 11 de Septiembre de 1973, y 128, de 12 de Noviembre último,
+
+la Junta de Gobierno de la República de Chile ha acordado y dicta el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+El mandato de aquellas directivas de Juntas de Vecinos, Centros de Madres y demás Organizaciones Comunitarias y Funcionales que expiró o que terminará en alguna de las fechas comprendidas entre el 11 de Septiembre de 1973 y el 1° de Octubre de 1975, se entenderá prorrogado por el solo ministerio de la ley hasta esta última fecha.
+
+#### Artículo 2°
+
+Si por imposibilidad física, moral o por cualquier otro motivo, uno o más de los miembros de dicha directiva no pudieren desempeñar definitivamente sus funciones y aquella quedare sin quórum para sesionar, el o los miembros faltantes serán designados por el Gobernador del departamento, debiendo éstos pertenecer a la respectiva organización.
+
+#### Artículo 3°
+
+Sin perjuicio de lo anterior, el Gobernador del departamento podrá solicitar en cualquier tiempo la renuncia de uno o más de los miembros de las directivas a que se refieren los artículos precedentes, hayan sido o no designados por él, y nombrar de inmediato a los reemplazantes. Dicha petición de renuncia sólo podrá fundarse en la infracción a las normas del artículo 4 de la ley N° 16.880.
+
+Si el afectado no presentare su renuncia dentro del plazo que al efecto se le fije, el Gobernador deberá dictar un decreto removiéndolo del cargo. Si notificado del decreto anterior, aquél continuare desempeñando funciones propias del puesto, será sancionado con presidio menor en su grado mínimo.
+
+#### Artículo 4°
+
+Las reuniones que las directivas o asambleas deban realizar para tratar materias propias de sus respectivas organizaciones, se llevarán a efecto conforme a las normas que sobre la materia imparta el Ministerio del Interior.
+
+El no cumplimiento de dichas normas facultará al Ministerio del Interior para decretar por resolución fundada el receso de la entidad infractora por el tiempo que estime necesario, sin perjuicio de las sanciones particulares que correspondan, de conformidad al decreto ley N° 77, de 8 de Octubre de 1973.
+
+#### Artículo 5°
+
+El conocimiento de los procesos para castigar los delitos a que se refiere el artículo 3° de este decreto ley corresponderá al Juez de Letras de Mayor Cuantía en lo Criminal en cuyo territorio tuviere su domicilio la respectiva entidad, pero sólo podrá iniciarse por requerimiento o denuncia del Ministro del Interior o Intendente respectivo.
+
+El desistimiento de la denuncia o el retiro del requerimiento, que podrá hacerse en cualquier tiempo por las autoridades antes indicadas, extinguirá la acción y la pena. En tal caso el Tribunal dispondrá la inmediata libertad de los detenidos o reos y pondrá fin al proceso.
+
+#### Artículo 6°
+
+Las disposiciones del presente decreto ley serán también aplicables a los Colegios Profesionales y de Técnicos, pero en este caso corresponderá exclusivamente al Ministro del Interior el ejercicio de las facultades que los artículos anteriores conceden al Gobernador del departamento.
+
+Igualmente serán aplicables a las Cooperativas y a las Corporaciones y Fundaciones, y en estos casos corresponderá a los respectivos Intendentes el ejercicio de las atribuciones antes señaladas.
+
+Anótese, regístrese en la Contraloría General de la República y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Oscar Bonilla Bradanovic, General de División, Ministro del Interior.- Fernando Léniz Cerda, Ministro de Economía, Fomento y Reconstrucción.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Montero Marx, Subsecretario del Interior.
