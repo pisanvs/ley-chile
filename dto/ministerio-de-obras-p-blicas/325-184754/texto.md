@@ -1,0 +1,3 @@
+Por decreto MOP Nº 325, de 28 de febrero de 2001, se expropió el lote de terreno Nº 130-A, superficie 30 m2., rol de avalúo 360-2, comuna de Los Vilos, para la obra Camino Ruta 5 Norte Tramo Santiago-Los Vilos, Cuarta Región y se acordó el valor de indemnización con sus propietarias María Ester Ahumada Carvajal y otras, ascendente a la cantidad de $12.476.256.-.
+
+Fiscal del Ministerio de Obras Públicas.
