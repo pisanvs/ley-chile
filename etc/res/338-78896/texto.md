@@ -1,0 +1,7 @@
+Por Resolución N°. 338 de 15 de Abril de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción autorízase a ALIMENTOS CAMPOMAR LIMITADA R.U.T. N°. 79.782.7207, domiciliada en la ciudad de Castro, calle Blanco Encalada N°. 358, piso 2°, con domicilio postal en casilla N°. 270, Castro, Provincia de Chiloé, X Región, para ampliar actividades pesqueras, que tiene autorizada por Resolución N°. 1496 de 1988, de esta Subsecretaría, en orden a instalar y operar una planta industrial ubicada en calle Cardenal N°. 368 comuna de Puerto Montt, X Región, en donde elaborará en las líneas de proceso que se indican los siguientes recursos hidrobiológicos: Fresco-enfriado y congelado, Anguila, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Merluza común, Merluza del sur, Merluza de cola, Pejerrey de mar, Salmón del Atlántico, Salmón keta, Salmón plateado, Trucha arco iris Calamar, Jaiba, Erizo. Congelado, Raya, Róbalo, Sardina común, Sardina, Tollo, Almeja o taca, Almeja, Caracol tegula, Caracol trumulco, Cholga, Chorito, Choro, Culenaue, Lapa, Macha, Navajuela. Déjase sin efecto las Resoluciones N°.
+
+1.975 de 1989 y N°. 1.035 de 1990, ambas de esta Subsecretaría, que autorizaron a Sociedad Pesquera Engraulis Chile Limitada.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 15 de Abril de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
