@@ -1,0 +1,3 @@
+Por resolución N° 284 de 27 de Abril de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 427, de 1989, de esta Subsecretaría que autorizó a PESQUERA RICAJAN LTDA., R.U.T. N° 79.623.070-3, domiciliada en Moneda N° 812, oficina 916, Santiago, para operar un establecimiento de cultivo en el Estero Chauquear, Isla Puluqui, comuna de Calbuco, provincia de Llanquihue, X Región, por renuncia de su titular ya individualizado.
+
+Valparaíso, 27 de Abril de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
