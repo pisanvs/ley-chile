@@ -1,0 +1,5 @@
+Por decreto MOP. Nº3.376, de 31 de julio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL. Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs 1 y 4, para la ejecución de la obra Canal Panguecillo Km.
+
+0,175.03 al Km. 12,102.01, Estudio de Factibilidad y Diseño del Embalse Corrales y sus obras Complementarias, que figuran a nombre de Bien Común General El Quene Lt. y Eliecer González Alamos, roles de avalúo 250-1 y 249-34, comuna de Salamanca, IV Región, superficies 60.627 y 1.727 M2. La comisión de peritos fijó con fecha 15 de febrero de 2000, el valor provisional de la indemnización en la cantidad de $7.275.240.- lote 1 y $863.500.- lote 4, la indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
