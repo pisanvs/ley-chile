@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 165, de 31 de Mayo de 1993, se expropiaron los lotes de terreno N°s. 38 y 41 , superficies 955 y 309 M2., rol de avalúo 547-37, Comuna de Santa Cruz, obra Mejoramiento Camino Santa Cruz - Lolol - Bucalemu, II Etapa, y se acordó el valor de indemnización con su propietario señor Héctor Lizardo Gómez Vilches, ascendente a la cantidad de $ 369.732.-
+
+Fiscal del Ministerio de Obras Públicas.
