@@ -1572,7 +1572,7 @@ A falta de citación por el secretario, se procederá en la forma descrita en el
 
 #### Artículo 234°
 
-El comunero que sea declarado reo por crimen o simple delito que merezca pena aflictiva, quedará suspendido del cargo de director o de cualquier empleo en la comunidad, mientras continúe en dicha situación; en tal caso, no podrá optar a ser elegido director de ella. Si es condenado por sentencia de término, quedará inhabilitado para desempeñar el cargo de director o cualquier empleo en la comunidad.
+El comunero que esté siendo procesado por crimen o simple delito que merezca pena aflictiva, quedará suspendido del cargo de director o de cualquier empleo en la comunidad, mientras continúe en dicha situación; en tal caso, no podrá optar a ser elegido director de ella. Si es condenado por sentencia de término, quedará inhabilitado para desempeñar el cargo de director o cualquier empleo en la comunidad.
 
 #### Artículo 235°
 
