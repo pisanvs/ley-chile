@@ -1,0 +1,3 @@
+Por resoluciones No. 29 y 38 de 3 de Mayo de 1985 y 20 de Junio de 1985, respectivamente, ambas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a don Víctor Solís Guerrero para efectuar las revisiones técnicas de los vehículos de transporte de personas de más de nueve (9) asientos, incluido el del conductor; de vehículos motorizados de carga con capacidad para transportar más de 1.750 kilos, sus remolques y semirremolques y los taxis, en el establecimiento ubicado en calle Pedro de Valdivia No. 6573, de la comuna de Macul.
+
+Carlos Román Toro, Secretario Regional Ministerial de Transportes y Telecomunicaciones.
