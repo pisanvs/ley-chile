@@ -1,0 +1,3 @@
+Por Resolución N° 320, de 25 de Marzo de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a Compañía Pesquera Camanchaca S.A. R.U.T. N° 93.711.000-6, para continuar operando con las pisciculturas autorizadas a Salmones Ralún S.A., R.U.T. N° 96.514.270-3, por Resolución N° 249, de 1987 en lo que respecta a aquella ubicada en el Río del Este sector Ralún, desembocadura del Río Petrohué, Comuna de Cochamó, X Región, ampliada por la Resolución N° 1.028, de 1993 y la piscicultura autorizada por Resolución N° 608, de 1989, todas de esta Subsecretaría, en virtud de la Escritura Pública citada en Vistos de la presente Resolución.
+
+Valparaíso, 25 de Marzo de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
