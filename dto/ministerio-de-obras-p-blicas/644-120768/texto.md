@@ -1,0 +1,5 @@
+Por decreto MOP. N° 644, de 29 de mayo de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840, se expropió el lote de terreno N° 135-A, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, Sector Km. 21.900,00 al Km.
+
+26.200,00, que figura a nombre de Morgado Medina Ramón Luis, Rol de Avalúo N° 150-174, comuna de Lampa, superficie 83 m2. La comisión dse peritos integrada por Luz Araya Elizalde, René Armando Cruz Momberg y Leonardo Enrique Bastías Tessada, fijó con fecha 11 de diciembre de 1997, el valor provisional de indemnización es la cantidad de $ 1.042.065.- para el lote N° 135-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
