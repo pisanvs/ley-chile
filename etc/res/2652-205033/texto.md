@@ -1,0 +1,3 @@
+Por resolución Nº 2.652, de 14 de noviembre de 2002, de esta Subsecretaría, modifícase el numeral 2º de la resolución Nº2.608 de 2002, que modificó la resolución Nº 2.177 de 2002, ambas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería artesanal de Merluza común en las caletas artesanales del sector norte de la VIII Región-segunda parte", en el sentido de señalar que la cuota de investigación ascenderá a 668,873 toneladas de Merluza común y de incorporar la siguiente lancha artesanal: Marisol.
+
+Valparaíso, 14 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
