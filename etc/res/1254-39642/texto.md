@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 1254 de 14.10.93, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autoriza complementariamente a la empresa de origen argentino Transportes Los Carlos S.R.L., para efectuar servicio de transporte terrestre internacional de pasajeros entre Río Grande (Argentina) y Punta Arenas (Chile) y viceversa, utilizando el paso fronterizo de San Sebastián, realizando (2) Frecuencias Semanales.-
+
+Sergio González Tagle, Subsecretario de Transportes.
