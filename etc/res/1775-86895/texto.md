@@ -1,0 +1,3 @@
+Por resolución Nº 1.775, de 30 de diciembre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, recházase la solicitud de certificado de transferencia y de cambio de titular de la nave "La Portada", por haberse declarado la caducidad de la autorización otorgada a la nave por resolución Nº 730 de 1995, en virtud de la resolución Nº 1.774, de 1997, ambas de esta Subsecretaría.
+
+Valparaíso, 30 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
