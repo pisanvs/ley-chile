@@ -1,0 +1,3 @@
+Por decreto MOP Nº540, de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº13-A, superficie 2.669 m², rol de avalúo Nº225-116, comuna de Olmué, V Región, para la obra ''Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10.984 al 34,500'' y se acordó el valor de indemnización con su propietario don Norberto Renato Hidalgo Pezoa, ascendente a la cantidad de $3.078.688.-
+
+Fiscal del Ministerio de Obras Públicas.
