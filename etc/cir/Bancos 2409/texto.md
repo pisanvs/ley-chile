@@ -9488,7 +9488,7 @@ b) Títulos de crédito emitidos por el Banco Central de Chile a favor de un ban
 
 c) Instrumentos de oferta pública emitidos por la Tesorería General de la República u otros Organismos Fiscales, correspondientes a emisiones seriadas de valores mobiliarios de renta fija y cualquier otro título de crédito emitido por el Estado o sus instituciones, excluidas las empresas del Estado
 
-d) Letras de crédito y bonos inscritos en el Registro de Valores de esta Superintendencia, incluidos los emitidos por la propia institución.
+d) Letras de crédito y bonos inscritos en el Registro de Valores de esta Superintendencia, incluidas las letras de crédito emitidas por la propia institución.
 
 e) Depósitos a plazo y efectos de comercio adquiridos de terceros (pagarés o certificados de depósito) representativos de captaciones de bancos y sociedades financieras establecidas en Chile.
 
@@ -9824,47 +9824,19 @@ CUENTAS PARA LAS INVERSIONES FINANCIERAS.
 
 Código
 
-1705 000 00 DOCUMENTOS EMITIDOS POR EL BANCO CENTRAL DE CHILE CON MERCADO SECUNDARIO.
+1735 000 00 OTRAS INVERSIONES FINANCIERAS
 
-1705 101 00 Documentos del Banco Central con mercado secundario.
+1735 101 00 Letras de crédito de propia emisión.
 
-1706 000 00 DOCUMENTOS EMITIDOS POR EL BANCO CENTRAL DE CHILE SIN MERCADO SECUNDARIO.
+1735 103 00 Bonos o debentures.
 
-1706 001 00 Documentos del Banco Central intransferibles.
+1735 104 00 Inversiones en oro.
 
-1706 002 00 Documentos del Banco Central transferibles sólo entre IF.
+1735 105 00 Cuotas de fondos mutuos de renta fija.
 
-1706 003 00 - Pagarés Capítulo XVII (Cupos-DB)
+1735 199 00 Otras inversiones financieras.
 
-1706 004 00 - Descuentos Pagarés Capítulo XVIII (Cupos-CR)
-
-1710 000 00 DOCUMENTOS EMITIDOS POR ORGANISMOS FISCALES
-
-1710 101 00 Pagarés de la Tesorería General de la República con mercado secundario.
-
-1710 102 00 Documentos emitidos por otros Organismos Fiscales con mercado secundario.
-
-1710 199 00 Documentos emitidos por Organismos Fiscales sin mercado secundario.
-
-1725 000 00 DOCUMENTOS EMITIDOS POR OTRAS INSTITUCIONES FINANCIERAS DEL PAIS.
-
-1725 101 00 Letras de crédito.
-
-1725 102 00 Bonos.
-
-1725 103 00 Depósitos a plazo
-
-1725 199 00 Otros documentos.
-
-1730 000 00 INVERSIONES EN EL EXTERIOR
-
-1730 101 00 Bonos u obligaciones no afectas a límite artículo 84 LGB
-
-1730 102 00 Inversiones no deducibles de encaje
-
-1730 199 00 Otros instrumentos financieros emitidos en el exterior.
-
-* En esta cuenta deben incluirse todas aquellas inversiones en el exterior que no cumplan con las condiciones señaladas en el Anexo N° 1 del Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile.
+NOTA: Las cuentas para registrar los instrumentos cedidos con pacto de retrocompra se indican en el Anexo N° 2 de este Capítulo.
 
 ANEXO N° 2
 
@@ -14471,170 +14443,6 @@ Superintendencia de Bancos e Instituciones Financieras bajo el
 N°................
 
 .......................... de .................... de 19....
-
-CAPITULO 9-4 (Bancos y Financieras)
-
-MATERIA:
-
-EMISION DE BONOS PARA FINANCIAR O PAGAR ANTICIPADAMENTE PRESTAMOS DE VIVIENDA
-
-OTORGADOS POR LAS INSTITUCIONES FINANCIERAS MEDIANTE LA EMISION DE LETRAS DE
-
-CRÉDITO.
-
-1. Emisión de bonos reajustables por IVP para financiar o pagar anticipadamente préstamos hipotecarios de vivienda.
-
-Los bonos que emitan las instituciones financieras con el objeto de financiar la adquisición de viviendas o de extinguir anticipadamente prestamos hipotecarios para la vivienda, deberán ser instrumentos al portador, que cumplan con las disposiciones de la Ley N° 18.045 sobre Mercado de Valores y que se registren en esta Superintendencia de acuerdo con lo dispuesto en el Capítulo 2-10 de esta Recopilación. Los citados bonos deberán reunir además las siguientes características:
-
-1.1. Tasa de interés y plazo.
-
-Los instrumentos de que trata el presente capítulo podrán emitirse a las tasas de interés y plazos que determine cada institución financiera, no existiendo otro límite o tope respecto de la tasa de interés que el contemplado por la Ley N° 18.010. En cuanto al procedimiento de rescate, éste podrá ser mediante una o más mortizaciones ordinarias directas o indirectas, además de que también pueden contemplarse amortizaciones extraordinarias, según las condiciones que se establezcan en la pertinente escritura de emisión que se presente a esta Superintendencia, de acuerdo con lo instruido en el Capítulo 2-10 antes citado.
-
-Cuando en las condiciones de la emisión, especificadas en la escritura y en el prospecto respectivo, se incluya como una forma de rescate la amortización extraordinaria, tal modalidad deberá constar en forma expresa en las láminas de los bonos, mediante una leyenda que señale que esos valores están sujetos a rescate anticipado por amortización extraordinaria que puede realizar el emisor, conforme a las condiciones de la emisión.
-
-1.2. Reajuste de los bonos.
-
-Los bonos mencionados, serán reajustables sobre la base del mecanismo de reajuste denominado Indice Valor Promedio (IVP), acerca del cual trata el Capitulo 7-1 de esta Recopilación de Normas.
-
-1.3. Condiciones materiales de la emisión.
-
-Los bonos que emitan las instituciones financieras, atendidas sus características de ser al portador, de inmediata y libre transferibilidad y la vigencia relativamente larga de cada lámina, acorde con el plazo de amortización fijado en cada caso, hace necesario, por razones de seguridad, así como de buena conservación de las respectivas láminas, que sean impresas en la Casa de Moneda y en papel de calidad que garanticen, tanto una perfecta impresión como una adecuada durabilidad.
-
-Las entidades financieras deberán asignar a cada emisión de bonos que acuerden realizar conforme a estas disposiciones, un determinado código alfanumérico que permita identificar las distintas emisiones que se pongan en circulación. Esa codificación podrá ser similar a la utilizada para las letras de crédito, esto es, que en lo posible, de alguna manera de a entender las principales características del instrumento, como plazo, tasa de interés y forma de amortización.
-
-1.4. Características de las láminas.
-
-El diseño de la láminas de los bonos lo hará libremente cada institución financiera, sin perjuicio de las indicaciones que al respecto pudiera hacer esta Superintendencia. En todo caso, debe cumplirse con la obligación de enviar una copia del facsímil del bono, al momento de requerir su inscripción en el registro que mantiene este Organismo, de conformidad con las disposiciones de la Ley N° 18.045 sobre Mercado de Valores y del ya mencionado Capítulo 2-10.
-
-1.5. Títulos provisionales de los bonos.
-
-Con el objeto de evitar demoras provenientes de la impresión de las láminas de estos instrumentos, las instituciones financieras que emitan bonos para financiamiento de vivienda, podrán entregar a los adquirentes de estos valores,títulos provisionales hasta que concluya el proceso de impresión de las láminas definitivas. Dichos títulos que serán nominativos, deberán ser canjeados por las láminas definitivas en un plazo no superior a noventa días contados desde la fecha en que se emitan los títulos provisionales.
-
-### 2. Créditos otorgados con cargo al producto de los bonos emitidos
-
-Las instituciones que emitan bonos de la modalidad señalada en el presente capítulo, tendrán la obligación de otorgar créditos por el mismo monto obtenido de la colocación de estos bonos. Estos créditos se destinarán a financiar la adquisición de viviendas o a pagar anticipadamente, con el producto de su liquidación, cualquier obligación hipotecaria contraída para el financiamiento
-
-de vivienda.
-
-2.1. Nuevos créditos.
-
-Los nuevos créditos que se otorguen serán reajustables, sobre la base de la variación de la unidad "Indice de Valor Promedio", al igual que los bonos.
-
-Por estos créditos no se cobrará comisión y la tasa de interés así como su plazo serán libres dentro de los límites legales y, por consiguiente, no deberán coincidir necesariamente con las características de los respectivos bonos, sin perjuicio de a observancia que debe mantenerse para los efectos de cumplir con las regulaciones sobre operaciones activas y pasivas.
-
-2.2. Créditos que se paguen anticipadamente mediante prestamos financiados con el producto de la colocación de bonos reajustables en "Indice Valor Promedio".
-
-Los pagos anticipados de préstamos hipotecarios para vivienda con nuevos créditos otorgados con base en la modalidad de financiamiento con bonos reajustables en "Indice Valor Promedio" deberán efectuarse por operaciones completas, es decir, sin parcelar los créditos que se acojan a este procedimiento. Los créditos que se otorguen de acuerdo a esta modalidad no deberán coincidir necesariamente en las características de tasa y plazo con los respectivos bonos y operarán sin comisión. No obstante las tablas de desarrollo de las distintas modalidades de servicios de estos bonos, deberán ser inscritas en esta Superintendencia, junto
-
-con el prospecto respectivo, según se dispone en el Capítulo 2-10 de esta Recopilación.
-
-### 3. Monto máximo de bonos en circulación
-
-Las normas del Banco Central de Chile A** establecen como única finalidad de los bonos emitidos con reajustabilidad por variación de IVP, el financiamiento de créditos hipotecarios para vivienda. Por consiguiente, debe existir una relación directa entre el monto total de los bonos de estas características que se encuentren en circulación,incluidos aquellos que la entidad emisora mantenga en calidad de inversión financiera y el saldo de los créditos hipotecarios vigentes, otorgados con la misma modalidad de reajuste.
-
-Sin embargo, considerando que los bonos operan como un instrumento de captación de recursos y que, por lo tanto, probablemente su colocación en el mercado no sea coincidente con la fecha de otorgamiento de los créditos que deban financiarse con esos pasivos, se ha resuelto establecer un margen de tolerancia para cumplir con la aludida relación. En consecuencia, se determina que el monto de bonos reajustables por variación IVP en circulación, incluidos los que se mantengan, como inversión financiera del propio emisor, no podrá exceder ni ser inferior en mas del 5% del capital pagado y reservas de la entidad emisora, al saldo de los mutuos hipotecarios reajustables por IVP, financiados con esos bonos.
-
-Toda diferencia que exceda el margen indicado deberá ser solucionada, ya sea mediante la recolocación de los recursos en nuevos créditos de la misma naturaleza o bien procediendo al rescate de bonos por amortización extraordinaria de aquellas emisiones que contemplen esa modalidad, como también colocando una nueva emisión de bonos en el mercado, en el caso que el monto de los créditos vigentes de esa especie fuera superior al saldo de los bonos en circulación.
-
-### 4. Procedimiento para efectuar amortizaciones extraordinarias
-
-Las amortizaciones extraordinarias que se acuerden realizar de bonos
-
-correspondientes a emisiones que contemplen esa modalidad de rescate, deberán
-
-hacerse con la periodicidad que se hubiese establecido en las condiciones de la
-
-emisión pero, en todo caso, entre cada rescate que se realice mediante ese
-
-procedimiento, deberá transcurrir un periodo de a lo menos noventa días.
-
-En concordancia con lo dispuesto en la Ley N° 18.045, estas amortizaciones
-
-extraordinarias deben efectuarse por sorteo en el que participará la totalidad
-
-de los bonos de la emisión que se hayan elegido para el objeto y que se
-
-encuentren en circulación. En todo caso, el rescate se hará siempre por el total
-
-del saldo vigente del respectivo bono a la fecha de la amortización. Si la
-
-emisión consta de bonos de distintos cortes, deberán tomar parte en el sorteo
-
-todos ellos, salvo los que correspondieren a cortes que fuesen superiores al
-
-monto total del rescate extraordinario.
-
-Los sorteos a que se refiere este número se harán ante notario público, quien
-
-levantará y certificará en cada ocasión la respectiva acta. Los resultados del
-
-sorteo deberán publicarse el día hábil bancario inmediatamente siguiente de
-
-efectuado éste en un periódico de circulación nacional y, además, deberá
-
-remitirse una copia del acta a la Bolsa de Comercio de Santiago, como también a
-
-esta Superintendencia.
-
-Los bonos sorteados dejarán de devengar intereses y reajustes a contar de la
-
-fecha en que se hubiere realizado el correspondiente sorteo.
-
-Sin perjuicio de lo expuesto anteriormente, las entidades financieras deberán
-
-estipular en las respectivas escrituras de emisión y en los prospectos, las
-
-condiciones que deberán aplicarse para originar las amortizaciones
-
-extraordinarias, así como las oportunidades en que éstas se efectuarán, para el
-
-caso de las emisiones que contemplen esta modalidad de rescate. Asimismo, deberá
-
-reglamentarse en forma explícita, tanto en la escritura de emisión como en el
-
-prospecto, el procedimiento de sorteo que se seguirá en estos casos.
-
-### 5. Relación Deuda-Capital
-
-Los bonos en circulación emitidos por las entidades financieras deben computarse
-
-por su valor nominal para los efectos de establecer la relación deuda-capital
-
-dela institución emisora, de conformidad con lo dispuesto en los artículos 81 y
-
-115 de la Ley General de Bancos y en el Capitulo 12-2 de esta Recopilación de
-
-Normas.
-
-### 6. Normas contables
-
-6.1. Registro de los bonos.
-
-Los bonos de que se trata deberán registrarse en una cuenta que se denominará "Bonos en circulación para financiar mutuos hipotecarios", la que se demostrará en la partida 3075 del formulario MB1.
-
-6.2. Reajustes e intereses de los bonos.
-
-Los reajustes e intereses devengados por los bonos en circulación se registrarán en cuentas complementarlas de acuerdo con las normas generales, con cargo a las respectivas cuentas de resultado de las partidas 5315 y 5140, respectivamente.
-
-6.3. Amortización de los bonos.
-
-Los bonos amortizados se contabilizarán en la cuenta "Bonos y Debentures por pagar", de la partida 3010 del formulario MB1, con cargo a la cuenta "Bonos en circulación para financiar mutuos hipotecarios", de la partida 3075, del formulario MB1.
-
-6.4. Cupones por pagar.
-
-Los cupones por pagar, cuando sea pertinente, se registrarán, a su fecha de vencimiento en la cuenta "Cupones de bonos por pagar", cuenta cuyo saldo se reflejará en la partida 3010, del formulario MB1, debitando los importes correspondientes a las cuentas "Intereses por pagar" y "Bonos y Debentures por pagar", según corresponda.
-
-6.5. Inversiones en bonos de propia emisión.
-
-Las entidades financieras que adquieran estos bonos de su propia emisión, los registrarán de acuerdo con las instrucciones del Capítulo 8-21 de esta Recopilación Actualizada de Normas.
-
-### 7. Margen de inversiones
-
-Las normas del Banco Central de Chile facultan a las instituciones financieras para que excedan el límite de 50% del capital pagado y reservas establecido para inversiones en letras de crédito y debentures de propia emisión, pudiendo alcanzar hasta el 100% de su capital y reservas, si lo que excede del primero de los porcentajes indicados, corresponde a la compra de letras de crédito o de bonos destinados a pagar anticipadamente otras
-
-obligaciones hipotecarias cuya finalidad fue el financiamiento de viviendas.
-
-De conformidad con lo indicado, no podrán acogerse a este mayor margen los bonos que correspondan a prestamos otorgados directamente para la adquisición de viviendas. En consecuencia, dentro de ese margen adicional, ninguna institución financiera podrá mantener inversiones en esta clase de bonos, por una cantidad mayor al monto de los préstamos que registre para pagar anticipadamente otros créditos para compra de viviendas.
 
 CAPITULO 9-5 (Bancos y Financieras)
 
@@ -21342,7 +21150,7 @@ Por tratarse de bonos que se colocarán en el exterior, no resulta necesaria su 
 
 2.- Requisitos para efectuar la emisión de bonos.
 
-Sin perjuicio de lo indicado precedentemente, para emitir los bonos de que trata este Capítulo, la solvencia de las respectivas empresas bancarias debe estar clasificada en categoría "A" por la Comisión Clasificadora de Riesgo establecida en el artículo 99 del D.L. 3.500.
+Sin perjuicio de lo indicado precedentemente, para emitir los bonos de que trata este Capítulo, la solvencia de las respectivas empresas bancarias debe estar clasificada en categoría "A" por la Comisión Clasificadora de Riesgo establecida en el artículo 99 del D.L. 3.500 y haber obtenido una clasificación, emitida por las empresas IBCA o Thomson Bankwatch, no inferior a "A/B" en las categorías de "individual ratings" o "issuer ratings", respectivamente.
 
 3.- Características de los bonos.
 
