@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.537, de 12 de octubre de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº9 para la obra:
+
+"CONCESION INTERNACIONAL SISTEMA ORIENTE - PONIENTE. ZONA ORIENTE: PTE. LA DEHESA - PTE. TABANCURA TRAMO 1: DE KM -0.190,00 A KM 4.080,00"; Región Metropolitana, que figura a nombre de RODRIGUEZ LABBE FELIPE, rol de avalúo 3515-11, comuna de Lo Barnechea, superficie 633 m2. La comisión de peritos integrada por los señores Paola Andrea Domingo Porcella, Jaime Rolando Jurgens Bittner y Gustavo Domínguez Errázuriz, fijó con fecha 13 de junio de 2001, el valor provisional de la indemnización en la cantidad de $131.034.340.- La indemnización de pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
