@@ -1,0 +1,3 @@
+Por resolución Nº1.480, de 9 de octubre de 1998, de esta Subsecretaría, deniégase la solicitud de concesión de acuicultura Nº96103096, presentada por AURELIANO DEL CARMEN HERNANDEZ GONZALEZ, para operar un centro de cultivo en Sector Punta Veleo, lado sur-este Isla Quinchao, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 9 de octubre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
