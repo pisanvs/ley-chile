@@ -1,0 +1,3 @@
+Por decreto MOP Nº86, de 29 de agosto de 2003, se expropiaron los lotes de terreno Nºs 91 y 92, superficies 5.471 m2 y 47 m2., rol de avalúo 486-3, comuna de Cauquenes, para la obra Camino Mejoramiento Ruta 126 Los Conquistadores Sector 2: Carrizal-Puente Belco. Tramo Km. 23,38000 a Km. 41,26600, Séptima Región y se acordó el valor de indemnización con su propietaria Estrella del Carmen Véjar Yévenes, ascendente a la cantidad total de $2.440.617.
+
+- Fiscal del Ministerio de Obras Públicas.
