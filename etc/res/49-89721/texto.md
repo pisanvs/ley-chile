@@ -1,0 +1,3 @@
+Por Resolución Nº 49, de 19 de enero de 1998, de esta Subsecretaría, del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución Nº 1.693 de 12 de diciembre de 1997, de esta Subsecretaría, por la cual se autorizó la transferencia de la nave "Centaurus" por parte de Pesquera Centaurus S.A., a Pesquera Camanchaca S.A.
+
+Valparaíso, 19 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
