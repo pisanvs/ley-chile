@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 104, de fecha 31 de marzo de 1994, se expropiaron los lotes de terreno N°s. 1 y 2, superficies 147 M2. y 723 M2., rol de avalúo 105-27, Comuna de Pencahue, para la obra Regadío Pencahue, Canal Las Tizas, Derivado Marcos 13, por el cual se fijó precio de indemnización con sus propietarios Guillermo Contardo C., y José Contardo V., ascendente a las cantidades de $7.753 y $38.131, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
