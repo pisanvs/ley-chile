@@ -1,0 +1,5 @@
+Por Resolución N° 1.101, de 24 de Noviembre de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ALGAS MULTIEXPORT S.A., R.U.T. N° 96.518.040-0, para ampliar actividades pesqueras autorizadas por Resoluciones citadas en Visto, en orden a operar la planta ubicada en Ruta 43, Estancia Tambillos S/N°, Andacollo, Coquimbo, Elqui, IV Región, en las líneas de elaboración que se indica, los siguientes recursos hidrobiológicos: Secado natural y molienda de algas: Chascón, Huiro, Luche, Chasca, Luga-luga, Chicorea de mar, Pelillo y Cochayuyo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 24 de Noviembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
