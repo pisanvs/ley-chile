@@ -1,0 +1,3 @@
+Por resolución N° 44 de 24 de junio de 1993, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Xa Región, se adjudicó a A. Denham y Cía. Ltda. la concesión para operar, por un plazo de cinco años a contar de la publicación del presente extracto, un establecimiento ubicado en Avda. Presidente Ibáñez S/N, Rol de Propiedad 2190-42, de la comuna de Puerto Montt, destinado a la revisión técnica y verificación de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Arturo Hernández Orellana, Secretario Regional Ministerial Transportes y Telecomunicaciones Xa Región.
