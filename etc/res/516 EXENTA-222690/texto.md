@@ -1,0 +1,3 @@
+Por resolución exenta Nº516, de 26 febrero 2004, de esta Subsecretaría, autorízase a CORPESCA S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida Comandante San Martín Nº3200, Arica, I Región, en las líneas de elaboración Harina y Aceite, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 26 de febrero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
