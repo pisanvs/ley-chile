@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.531, de 16 de octubre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97105021, presentada por SOCIEDAD DE CULTIVO COLORADO SUR LIMITADA, para instalar y operar un centro de cultivo ubicado en sector sur de Punta Larga, Península Guapilacui, X Región.
+
+Valparaíso, 16 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
