@@ -1,0 +1,3 @@
+Por resolución Nº 2.676, de 30 de diciembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97110097, presentada por HUMBERTO JOSE FISCHER LLOP, para operar un centro de cultivo ubicado en Canal Bynon, Sector Sur de la Isla Benjamín-1, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 30 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
