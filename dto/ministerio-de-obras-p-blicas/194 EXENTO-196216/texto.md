@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 194 de fecha 28 de febrero del 2002, se expropió el lote de terreno Nº 95, superficie 392 m2, rol de avalúo Nº 172-379, comuna de San Clemente, para la obra "Camino: Los Robles-Huencuecho-Bajo Perquín, Sector Huencuecho-Bajo Perquín, Tramo Km. 46,140.00 a Km. 76,107.70" , VII Región y se acordó el valor de indemnización con su propietario José Froilán Farías Moreno, ascendente a la cantidad de $364.380.
+
+- Fiscal del Ministerio de Obras Públicas.
