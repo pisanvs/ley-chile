@@ -1,0 +1,3 @@
+Por resolución Nº 2.581, de 1 de diciembre de 2000, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 2.194 de 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesca de Investigación del Jurel entre la III y la X Regiones'', en el sentido de reemplazar la nave ''Llay Llay'' por la nave ''Alejandría I'', ambas de propiedad de Pesquera San José S.A. y la nave ''Tranoi'' por la nave ''Rapa Nui'', ambas de propiedad de Pesquera Qurbosa S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 1 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
