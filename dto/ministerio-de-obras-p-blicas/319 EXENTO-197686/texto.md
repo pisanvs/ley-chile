@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº319, de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº14, superficie 220 m2, Rol de Avalúo Nº511-42, comuna de Longaví, para la obra "Camino Ruta L-49, Cruce Longitudinal - Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12" y se acordó el valor de indemnización con su propietario Cristina del Carmen Torres Campos, ascendente a la cantidad de $1.144.459.-
+
+Fiscal del Ministerio de Obras Públicas.
