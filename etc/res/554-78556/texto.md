@@ -1,0 +1,3 @@
+Por resolución No. 554 de 05 de Junio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución No. 486, de 1988 de esta Subsecretaría, por la cual se autorizó a don JOSE LUIS VIDAL MUÑOZ R.U.T. No. 4.516.444-6, domiciliado en Población Techo para Todos, Calle San Antonio No. 1149, Puerto Montt, para operar un establecimiento de cultivo de algas del género Gracilarias, en Punta Cabadal, Río Maullín, Provincia de Llanquihue, X Región, en virtud de la renuncia presentada por el interesado.
+
+Valparaíso, 05 de Junio de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca subrogante.
