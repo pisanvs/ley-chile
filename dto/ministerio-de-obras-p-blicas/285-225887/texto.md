@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 285 de 31 de marzo de 2004, se expropió el lote de terreno Nº 11-5, superficie 1.113 m2., rol de avalúo 36-454, comuna de Requínoa, para la Obra Concesión Internacional Ruta 5 Tramo Santiago - Talca. Sector F: KM. 92.000,00 al KM. 110.200,00, Sexta Región y se acordó el valor de indemnización con su propietario Eduardo Huidobro Justiniano, ascendente a la cantidad de $5.401.800.
+
+- Fiscal del Ministerio de Obras Públicas.
