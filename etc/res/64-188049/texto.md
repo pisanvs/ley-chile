@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 64, de fecha 5 de julio de 2001, se aprobó la reforma integral al estatuto de la Cooperativa de Ahorro y Crédito Unión y Patria Limitada, en los términos que da testimonio la escritura pública otorgada con fecha 25 de mayo de 2001, ante el Notario de Santiago don Gerardo M. Arévalo López, suplente del Titular Sr. Eduardo Pinto Peralta.
+
+Por orden del Sr. Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
