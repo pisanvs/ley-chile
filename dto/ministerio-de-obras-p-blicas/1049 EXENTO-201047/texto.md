@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.049, de 28 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 8, 21, 24, 32, 33 y 34, para la ejecución de la obra ''Mejoramiento Ruta N-45, Sector Variante Cato, Km. 0,00000 a Km. 4,15551'', que figuran a nombre de I. Municipalidad de Chillán, Aguirre La Fuentes Elia Rosa y Masle Martinic Marisel, Roles de Avalúo 2210-219, 2209-12 y 2209-16, comuna de Chillán, VIII Región, superficies 711, 92, 511, 626, 90 y 79 m2. La Comisión de peritos fijó con fecha 16 de octubre de 2001, el valor provisional de la indemnización en la cantidad de $2.133.000, lote 8; $257.600, lote 21;
+
+$1.445.800, lote 24; $1.720.000, lote 32; $258.000, lote 33 y $197.500, lote 34.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
