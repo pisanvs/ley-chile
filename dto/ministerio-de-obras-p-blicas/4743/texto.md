@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.743, de 27 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 64-A, 64-B, 64-C, 64-D, 64-E, 69-A y 69-B, para la obra Camino Ruta L-32, sector Cruce Ruta 5-Puente Sifón, Tramo Km. 2,320 al 17,66644 y Km. 0,000 al 0,963 (Variante), que figuran a nombre de Constancio Antonio Tapia Campos, Rafael Esteban Morales Campos, Enrique Chacón Tapia, Nome Hnos., Artemisto Yánez Pérez y Otro, roles de avalúo 528-111, 528-8, 528-7, 528-6 y 531-18, Comuna de Linares, VII Región, superficies 164, 83, 110, 448, 30, 910 y 66 M2., respectivamente. La comisión de peritos, fijó con fecha 10 de enero de 2000, en la cantidad de $57.380, lote 64-A; $56.110, lote 64-B;
+
+$24.700, lote 64-C; $108.160, lote 64-D; $5.100, lote 64-E; $194.700, lote 69-A y $11.220, lote 69-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
