@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.879, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº55, superficie 136 m2, rol de avalúo 206-7, comuna de Coelemu, VIII Región, para la obra "Camino Ruta O-170, O-176, Sector Acceso Guarilihue, Tramo I, Km. 0,00000 al 8,28000" y se acordó el valor de indemnización con su propietaria doña Juana del Carmen Pino Sánchez, ascendente a la cantidad de $217.747.
+
+- Fiscal del Ministerio de Obras Públicas.
