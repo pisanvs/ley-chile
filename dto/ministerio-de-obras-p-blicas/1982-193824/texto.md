@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.982, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº33, superficie 957 m2, Rol de Avalúo Nº192-4, comuna de Longaví, para la obra "Camino Ruta L-49, Cruce Long.- Mesamávida, Sector Cruce Longitudinal-San Luis, Tramo Km. 0,000.00 a Km 13,841.12", VII Región, y se acordó el valor de indemnización con su propietario Jorge Parra Chávez, ascendente a la cantidad de $3.511.229.
+
+- Fiscal del Ministerio de Obras Públicas.
