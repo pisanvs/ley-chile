@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 1757, de 25 de junio de 1999, se expropiaron los lotes de terreno Nºs 2, 10, 10-C, 19 y 42, superficies 749,25; 3.532; 225; 1.040 y 275 M2., respectivamente, roles de avalúo 22-139, 21-176, 21-53 y 22.265, comuna de Río Claro, para la obra Camino Ruta Los Robles Huencuecho Bajo Perquín Sector Los Robles Huencuecho y se acordó precio de indemnización con sus propietarios Osvaldo Olave Abarca, Manuel Bernales Herrera, Reinaldo Mora López y Octavio Parra Castillo, ascendente a la cantidades de $1.054.498. Fiscal del Ministerio de Obras Públicas. $887.819, $1.568.851, $931.788 y $250.595.
+
+Fiscal del Ministerio de Obras Públicas.
