@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE SEÑALA NOTIFICACION
+
+Resolución 389, 11 diciembre 2003, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en el sector Michaihue, Rol de Avalúo Nº15009-76, comuna San Pedro de la Paz, superficie 14.443,64 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-18672, de aparente dominio de Luis Enrique Sáez Hurtado, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de San Pedro de la Paz, conforme artículo 51 ley 16.391 y D.L. Nº2.186. Comisión Peritos integrada por Víctor Felipe Toledo Quijada, arquitecto; Leonardo Eugenio Fasce Casanueva, arquitecto, y Christian Walter Gäbler Solís, ingeniero civil, según informe de fecha 14 de noviembre de 2003, fijó monto provisional indemnización en $3.972.001, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
