@@ -1,0 +1,3 @@
+Por Resolución Nº 428, de 26 de marzo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción; declárase la caducidad parcial de la Resolución Nº 1.791, de 1989, de esta Subsecretaría, que autorizó a PESQUERA SANTA LUCIA S.A., para ampliar actividades pesqueras extractivas con la nave "Tonyn" en lo relativo a la especie Langostino amarillo en el litoral de la III y IV Región, en virtud de no haber operado sobre esta Unidad de Pesquería conforme lo dispuesto en el artículo 143 Letra b) de la Ley Nº 18.892, de 1989.
+
+Valparaíso, 26 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
