@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°638, de 30 de junio de 1997, se expropiaron los lotes de terreno N°s. 4, 4-C, 4-F y 5, superficie 19.759, 570, 1.200 y 14.495 m2, roles de avaluó 1422-12 y 1422-7 comuna de Rancagua, para la obra Conexión Vial, Camino Rancagua-Doñihue Ruta H-30 Ruta 5 y se acordó precio de indemnización con su propietario Soc. Agrícola Klingenberg Muller y Compañía Ltda. ascendiente a la cantidad de $88.880.297.-
+
+Fiscal del Ministerio de Obras Públicas.
