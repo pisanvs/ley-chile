@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.925, de 31 de octubre del 2000, se expropió el lote de terreno Nº13-1, superficie 191 m², rol de avalúo 136-320, comuna de San Francisco de Mostazal, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector C, Sexta Región y se acordó el valor de indemnización con su propietario Héctor Manuel Campos Campos, ascendente a la cantidad de $1.009.122.-
+
+Fiscal del Ministerio de Obras Públicas.
