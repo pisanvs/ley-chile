@@ -1,0 +1,3 @@
+Por resolución Nº 598, de 13 de abril de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº163, de 1980, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA QUELLON LTDA, para operar las naves ''Santa María'', ''Cristina'', ''Victoria'', ''Mercedes'', ''Isabel'', ''Sarita'', ''Ximena'' y ''Carmen'', por no haber realizado operaciones de pesca por dos años consecutivos, configurándose la causal prevista en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 13 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
