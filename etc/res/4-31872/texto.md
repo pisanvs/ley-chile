@@ -1,0 +1,3 @@
+Por Resolución N° 4 del 9 de Julio de 1993, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IV Región, se adjudicó a A. Denham y Cía. Ltda., la concesión para operar, por un plazo de cinco (5) años a contar de la fecha de publicación del presente extracto, un establecimiento ubicado en calle Balmaceda N° 1351 de la comuna de La Serena, destinado a la revisión técnica y verificación de emisión de contaminantes de todos los vehículos no comprendidos en el inciso 1°, artículo 7° del D.S. N° 156/90, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Freddy Bonilla Torreblanca, Secretario Regional Ministerial de Transportes y Telecomunicaciones, IV Región de Coquimbo.
