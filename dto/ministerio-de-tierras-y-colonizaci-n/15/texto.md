@@ -1,0 +1,5 @@
+15 Crea el "Parque Nacional de Nahuelbuta", dentro del fundo Vegas Blancas, con una superficie de 5.415 Hás., ubicado en la comuna y departamento de Angol, provincia de Malleco, individualizado en el plano N.o 32, del Archivo de Planos y de Reservas Forestales, y cuyos deslindes son:
+
+Norte, estero Los Fosos, que separa del fundo Pillín-Pillín; estero Los Fosos, cerco y río Picoiquén, que separan del fundo Los Alpes; e Hijuelas N.os 1, 3, 4, 6 y 7, del fundo Vegas Blancas, separadas por faja; Este, hijuelas N.os 7, 27, 28, 38, 39, 40, 48,. 50, 51 A., 51 y 52 del fundo Vegas Blancas, separadas por faja:
+
+Sur, hijuelas N.os 61, 60, 65, 67, 68 y 69, del fundo Vegas Blancas, separadas por faja; estero Cabrería que separa en parte de la hijuela N.o 69, y de las hijuelas N.os 70, 71 y 74, el mismo fundo; terrenos ocupados por M. Araneda, Pedro Navarrete y B. Sánchez, Juan M. Ulloa y Pascual Garcés, separados por fajas: Oeste, fundo San Antonio de la sucesión Orozimbo Pincheira, separado por faja; y fundo Chacal, de don Anselmo Cáceres, separado por faja y estero La La...
