@@ -1,0 +1,3 @@
+Por decreto MOP Nº 324, de 28 de febrero de 2001, se expropió el lote de terreno Nº 183-3, superficie 602 m2., rol de avalúo 171-176, comuna de Nogales, para la obra Camino Ruta 5 Norte Tramo Santiago-Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Rodolfo del Carmen Roblero Catalán, ascendente a la cantidad de $31.021.732.-.
+
+Fiscal del Ministerio de Obras Públicas.
