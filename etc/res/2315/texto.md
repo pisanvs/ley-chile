@@ -1,0 +1,3 @@
+Por resolución Nº 2.315, de 15 de noviembre de 1999, de esta Subsecretaría, rectifícase el numeral 4º de la resolución Nº 2.314 de 1999, de esta Subsecretaría que autorizó al INSTITUTO DE INVESTIGACION PESQUERA OCTAVA REGION, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 99-14 denominado ''Condiciones Biológicas del Jurel en Altamar'', en el sentido de eliminar la nave ''Hilmir'', de propiedad de Pesquera Qurbosa S.A. y de incorporar la nave ''Golondrina'', de propiedad de Pesquera El Golfo S.A., en virtud de haberse incurrido en un error de hecho.
+
+Valparaíso, 15 de noviembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
