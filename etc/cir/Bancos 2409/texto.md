@@ -5204,7 +5204,7 @@ La reglamentación establecida por el Banco Central de Chile para el funcionamie
 
 ### 2. Cuenta corriente con el Banco Central de Chile
 
-Las oficinas de las instituciones financieras ubicadas en ciudades sede del Banco Central de Chile, deben mantener una cuenta corriente a su nombre en la oficina del Instituto Emisor establecida en esa misma plaza. Esa cuenta corriente debe contar siempre con los recursos suficientes para cubrir los saldos que se produzcan en la compensación final jurisdiccional que se realiza diariamente sobre la base del "Estado de Saldos Resumidos Netos de Cámara" a que se refiere el número 11 del Reglamento.
+Las instituciones financieras deben mantener una cuenta corriente a su nombre en el Banco Central de Chile, la cual debe contar siempre con los recursos suficientes para cubrir los saldos que se produzcan en la compensación final que se realiza diariamente sobre la base del "Estado de Saldos Resumidos Netos de Cámara" a que se refiere el N° 11 del Reglamento.
 
 ### 3. Vales de cámara
 
@@ -5272,13 +5272,23 @@ En la misma forma deben proceder los bancos que, por circunstancias excepcionale
 
 Las entidades que por algún motivo no concurran a alguna de las reuniones de cámara deben dar, con anticipación, el aviso correspondiente a la institución de turno.
 
-### III. TIMBRES DE CAJA Y CAMARA
+III.- COMPENSACION DE OPERACIONES EFECTUADAS A TRAVES DE CAJEROS AUTOMATICOS.
+
+La compensación de los importes originados en operaciones efectuadas mediante cajeros automáticos, se rige por el "Reglamento de compensación por operaciones efectuadas a través de cajeros automáticos del país", establecido por el Banco Central de Chile, cuyo texto se transcribe en Anexo N° 4 de este Capítulo.
+
+En esta compensación diaria de las operaciones registradas en cajeros automáticos, participarán todos los bancos y sociedades financieras que operen en una red administrada por una sociedad de apoyo al giro, siempre que el sistema de transmisión de información y procesamiento electrónico de datos que se utilice para el efecto, sea aprobado previamente por esta Superintendencia y autorizado por el Banco Central de Chile.
+
+Para los fines de determinar los saldos a compensar diariamente, se considerarán las transacciones realizadas desde el cierre del horario bancario del día anterior hasta el término del horario bancario del día correspondiente a la fecha de la compensación.
+
+De acuerdo con lo dispuesto en el Reglamento del Banco Central de Chile, las entidades financieras que participen en una red de cajeros automáticos deben designar a una institución de tumo. Esta institución podrá representar sólo a la red de la que forma parte, como también podrá asumir, adicionalmente, la representación de otras redes que participen en el sistema de compensación, si así se conviene. En este último caso, confeccionará por cada una de las redes que representa, la correspondiente "Planilla Resumen".
+
+### IV. TIMBRES DE CAJA Y CAMARA
 
 Los documentos que se presenten a cobro a través de las Cámaras de Compensación, tanto en moneda chilena como extranjera, deben llevar en su anverso el correspondiente timbre de caja y en su reverso debe estamparse el timbre de Cámara Compensadora a que se refiere el párrafo a3) del número 9 del título II y el numeral 1.3 del título II de los Reglamentos de Cámara para documentos en moneda chilena y moneda extranjera, respectivamente, transcritos en los Anexos N°s 1 y 3 de este Capítulo.
 
 Para el efecto, las instituciones deberán ceñirse a las instrucciones contenidas en los numerales 4.1 y 4.2 del Capítulo 6-1 de esta Recopilación. Ambos timbres deben colocarse nuevamente cuando se trate de documentos cuya presentación se repita debido a rechazos anteriores.
 
-### IV. RESPONSABILIDADES DE LAS INSTITUCIONES DE TURNO
+### V. RESPONSABILIDADES DE LAS INSTITUCIONES DE TURNO
 
 Las instituciones financieras que como jefe de cámara presidan y controlen el desarrollo de las reuniones, en su calidad de institución de tumo, asumen las siguientes responsabilidades:
 
@@ -5292,7 +5302,7 @@ d) Comunicar oportunamente a las demás instituciones participantes, la inasiste
 
 Además de las responsabilidades señaladas en los literales precedentes, las instituciones de tumo de la primera reunión de cámara para el cobro de documentos en moneda chilena, deberán enviar diariamente al Banco Central de Chile, antes de las 10:30 A.M., copia de la planilla general de resultados de esa reunión.
 
-### V. INSTRUCCIONES CONTABLES
+### VI. INSTRUCCIONES CONTABLES
 
 ### 1. De aplicación general
 
@@ -5336,17 +5346,17 @@ Si el cheque devuelto ha sido entregado por una persona que no mantiene cuenta c
 
 ANEXO N°1
 
-REGLAMENTO DE CAMARA DE COMPENSACION DE CHEQUES Y OTROS DOCUMENTOS EMITIDOS EN MONEDA NACIONAL EN EL PAIS.
+REGLAMENTO DE CAMARA. DE COMPENSACION DE CHEQUES Y OTROS VALORES EN MONEDA NACIONAL EN EL PAIS.
 
 I.- DISPOSICIONES GENERALES.
 
-1.- El funcionamiento de la Cámara de Compensación de cheques y otros documentos en moneda nacional en el país, se regirá por el presente Reglamento y corresponderá a la Superintendencia de Bancos e Instituciones Financieras interpretar sus disposiciones, de acuerdo con sus facultades. Las resoluciones que adopte al respecto, obligarán a las empresas bancarias, las sociedades financieras y al Banco Central de Chile, en adelante las instituciones.
+1.- El funcionamiento de la Cámara de Compensación de cheques y otros valores en moneda nacional en el país, se regirá por el presente reglamento y corresponderá a la Superintendencia de Bancos e Instituciones Financieras interpretar sus disposiciones, de acuerdo con sus facultades Las resoluciones que adopte al respecto, obligarán a las empresas bancarias, las sociedades financieras y al Banco Central de Chile, en adelante las instituciones.
 
-Estas Instituciones estarán representadas en la Cámara por delegados idóneos, que designará cada una de ellas, debiendo acreditarlos ante la Institución de Turno por medio de una carta firmada por sus representantes autorizados, confiriéndoles poder suficiente para que, a su vez, los representen en todas las operaciones de la Cámara en que éstos deban intervenir. Estos poderes serán traspasados al término de cada período de turno, por la Institución que termina el turno, a aquella que lo inicia. A falta del poder a que se refiere este número, el delegado no será considerado como tal.
+Estas instituciones estarán representadas en la Cámara por delegados idóneos, que designará cada una de ellas, debiendo acreditarlos ante la Institución de Turno por medio de una carta firmada por sus representantes autorizados, confiriéndoles poder suficiente para que, a su vez, los representen en todas las operaciones de la Cámara en que éstos deban intervenir Estos poderes serán traspasados al término de cada período de turno, por la Institución que termina el turno, a aquella que lo inicia. A falta del poder a que se refiere este número, el delegado no será considerado como tal.
 
 2.- Las Cámaras de Compensación se efectuarán en locales apropiados que habilitarán y administrarán de común acuerdo los participantes o en las oficinas de la Institución de Turno, los que deberán ser informados a la Superintendencia de Bancos e Instituciones Financieras, sin perjuicio de aquellas que por acuerdo de los partícipes, se operen por intermedio de un sistema de transmisión y procesamiento electrónico de datos, autorizado por la Superintendencia de Bancos e Instituciones Financieras y aprobado por el Banco Central de Chile.
 
-3.- Las instituciones que deban participar en la Cámara de Compensación designarán, de común acuerdo, en forma rotativa y por períodos completos, a la Institución de Turno, la que nombrará al Jefe de Cámara, quien presidirá y controlara el desarrollo de las reuniones que se celebren. La duración de cada turno corresponderá a un mes calendario completo
+3.- Las instituciones que deban participar en la Cámara de Compensación designarán, de común acuerdo, en forma rotativa y por períodos completos, a la Institución de Turno, la que nombrará al Jefe de Cámara, quien presidirá y controlará el desarrollo de las reuniones que se celebren La duración de cada turno corresponderá a un mes calendario completo.
 
 Sin embargo, las instituciones de una plaza financiera podrán establecer de común acuerdo, períodos de turno de duración distinta a la señalada en el párrafo anterior, siempre que cuenten previamente con la autorización de la Superintendencia de Bancos e Instituciones Financieras.
 
@@ -5430,19 +5440,21 @@ En consecuencia, quedará establecida la conformidad de todos aquellos documento
 
 c4) El procedimiento de compensación de esta tercera reunión será igual al establecido en el numeral a4) anterior.
 
-c5) En aquellas plazas en que las instituciones financieras estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, se efectuará también en esta reunión el ajuste de valores y devolución de documentos rechazados, cuyos montos hayan sido incluidos en los mensajes de la segunda reunión, precediéndose al cierre de ésta conjuntamente con la transmisión de las planillas definitivas.
+c5) En aquellas plazas en que las instituciones financieras estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, se efectuará también en esta reunión el ajuste de valores y devolución de documentos rechazados, cuyos montos hayan sido incluidos en los mensajes de la segunda reunión, procediéndose al cierre de ésta conjuntamente con la transmisión de las planillas definitivas.
 
-d) Cuarta Reunión (Cámara de Operaciones Interfinancieras):
+d) Cuarta Reunión (Cámara de Operaciones Interfinancieras).
 
-d1) Esta reunión se efectuará cada día hábil a las 15:00 horas.
+d1) Esta reunión se efectuará cada día hábil a las 15:00 horas
 
-d2) El objetivo de esta reunión será el canje de documentos que den cuenta de operaciones entre instituciones financieras y cuyo pago tenga liquidez en el día; ya sea que corresponda al rescate de valores de otras plazas, venta de divisas, créditos interfinancieros, compraventa de P.D.B.C., etc.
+d2) El objetivo de esta reunión será el canje de documentos que den cuenta de operaciones entre instituciones financieras y cuyo pago tenga liquidez en el día, ya sea que corresponda al rescate de valores de otras plazas, venta de divisas, créditos interfinancieros, compraventa de P.D.B.C., etc.
 
 Asimismo, en aquellas plazas en que las instituciones financieras estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, se incluirán en esta reunión aquellas obligaciones de pago que se generen electrónicamente mediante el envío y recepción de mensajes a través de la red de dicho sistema, siempre que las instituciones financieras participantes hayan convenido previamente en aceptar la plena validez de ese procedimiento.
 
+Las obligaciones de pago generadas electrónicamente podrán corresponder tanto a operaciones de la propia institución, como a transferencias de fondos por operaciones de sus cuentacorrentistas y/o clientes.
+
 d3) En esta reunión podrán compensarse, exclusivamente las órdenes de pago u obligaciones indicadas en el numeral d2) anterior, emitidas por una institución participante en la Cámara en favor de otra de ellas por concepto de las operaciones interfinancieras que allí se señalan.
 
-d4) De la compensación de los documentos y obligaciones mencionados se determinarán los saldos a favor y en contra, en la misma forma señalada en las cámaras anteriores
+d4) De la compensación de los documentos y obligaciones mencionados se determinarán los saldos a favor y en contra, en la misma forma señalada en las cámaras anteriores.
 
 En las plazas en que las instituciones financieras estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, se comunicará el resultado de esta cámara a las instituciones participantes, mediante un mensaje transmitido a través de la red del sistema.
 
@@ -5482,13 +5494,15 @@ b6) Las instituciones ubicadas en la plaza de Santiago confeccionarán, con la i
 
 b7) El Jefe de Cámara recibirá, en original y copia, las planillas resumen de las plazas o agrupaciones de plazas de la jurisdicción de Santiago y las "Planillas Resumen Jurisdiccional" de las demás jurisdicciones o, en su caso, la información correspondiente enviada a través del sistema de transmisión y procesamiento electrónico de datos empleado por las instituciones participantes en esa quinta reunión. Con las planillas resumen recibidas de la jurisdicción de Santiago y con el resumen que haya preparado de las reuniones de su plaza, confeccionará un cuadro resumen, por institución y por plaza. Obtenida la cuadratura de este resumen, el Jefe de Cámara devolverá a las instituciones participantes el original de las planillas resumen con que éstas concurrieron a la reunión, debidamente firmadas en señal de conformidad o les comunicará la conformidad por intermedio del sistema de transmisión y procesamiento electrónico de datos. Además, confeccionará la "Planilla Resumen Jurisdiccional" de Santiago, con lo que se dará por terminada la reunión.
 
-III.- DE LA COMPENSACION FINAL.
+b8) El Jefe de Cámara adicionalmente recibirá las "Planillas Resumen de Cajeros Automáticos", de parte de las instituciones de turno que corresponda.
 
-11.- La compensación final la efectuará el Banco Central de Chile en Santiago, sobre la base del "Estado de Saldos Resumidos Netos de Cámara", mediante cargos y abonos en las cuentas corrientes que las Instituciones Financieras mantienen en el Instituto Emisor.
+III.- DE LA LIQUIDACION Y PAGO.
 
-a) La Institución de Turno en la plaza de Santiago confeccionará, sobre la base de las "Planillas Resumen Jurisdiccional", un "Estado de Saldos Resumidos Netos de Cámara" en el que determinará el saldo neto a favor o en contra de cada participante. El formato de este estado deberá ser aprobado por el Banco Central de Chile.
+11.- La liquidación y pago la efectuará el Banco Central de Chile, sobre la base del "Estado de Saldos Resumidos Netos de Cámara", mediante cargos y abonos en las cuentas corrientes que las Instituciones Financieras mantienen en el Instituto Emisor.
 
-b) La Institución de Turno mencionada en la letra a) precedente, deberá entregar o enviar mediante el sistema de transmisión y procesamiento electrónico de datos, al Banco Central de Chile, todos los días hábiles antes de las 17:30 horas, el "Estado de Saldos Resumidos Netos de Cámara" debidamente cuadrado y firmado por el Jefe de Cámara y un mandatario de la Institución de Turno o debidamente autenticado, según corresponda.
+a) La Institución de Turno en la plaza de Santiago confeccionará, sobre la base de las "Planillas Resumen Jurisdiccional" y las "Planillas Resumen de Cajeros Automáticos", un "Estado de Saldos Resumidos Netos de Cámara" en el que determinará el saldo neto a favor o en contra de cada participante. El formato de este estado deberá ser aprobado por el Banco Central de Chile.
+
+b) La Institución de Turno mencionada en la letra a) precedente, deberá entregar o enviar mediante el sistema de transmisión y procesamiento electrónico de datos, al Banco Central de Chile, todos los días hábiles antes de las 17 30 horas, el "Estado de Saldos Resumidos Netos de Cámara" debidamente cuadrado y firmado por el Jefe de Cámara y un mandatario de la Institución de Turno o debidamente autenticado, según corresponda.
 
 c) El Banco Central de Chile, sobre la base del "Estado de Saldos Resumidos Netos de Cámara", efectuará en el mismo día los cargos y abonos en las cuentas corrientes de las instituciones participantes, lo que representará el pago definitivo de los saldos resultantes de las reuniones de la Cámara de Compensación correspondientes a un ciclo diario.
 
@@ -6041,6 +6055,44 @@ No obstante lo señalado en el presente Título II, podrá fijarse en forma perm
 ### 1. Responsabilidad de la Institución de Turno
 
 Cada Institución de Tumo mantendrá en sus propios archivos las planillas o mensajes correspondientes a todas las reuniones de la Cámara Compensadora, efectuadas durante el lapso que haya ejercido el turno. La información que se origine por la utilización de un sistema de transmisión y procesamiento electrónico de datos, podrá conservarse en medios magnéticos. El plazo de mantención de estos archivos, será el que se establece en el Art. 19 de la Ley General de Bancos.
+
+ANEXO N°4
+
+REGLAMENTO DE COMPENSACION POR OPERACIONES EFECTUADAS A TRAVES DE CAJEROS AUTOMATICOS EN EL PAIS.
+
+### I. DISPOSICIONES GENERALES
+
+1.- La compensación por operaciones efectuadas a través de cajeros automáticos tiene como propósito determinar y cobrar los saldos, a favor o en contra, de una determinada empresa bancaria o sociedad financiera del país, por las operaciones en moneda nacional efectuadas por los usuarios de cajeros automáticos y que sean de cargo de otra empresa bancaria o sociedad financiera afiliada a la misma red.
+
+2.- El procedimiento de compensación se regirá por el presente Reglamento y corresponderá a la Superintendencia de Bancos e Instituciones Financieras interpretar sus disposiciones, de acuerdo con sus facultades Las resoluciones que adopte al respecto obligarán a las empresas bancarias y las sociedades financieras, en adelante "las instituciones", y a las empresas de apoyo al giro bancario que operen como administradora de alguna red de cajeros automáticos, en adelante "la administradora".
+
+3.- Toda institución tiene el derecho de no cobrar por este procedimiento de compensación cualquier operación de cajero automático que tenga contra otra institución No obstante, deberá hacerse cargo de aquellas que las demás instituciones le presenten en su contra.
+
+4.- Las instituciones partícipes en la red de cajeros automáticos designarán, de común acuerdo, en forma rotativa y por períodos completos a la Institución de Turno, quien controlará el desarrollo y ejecutará el proceso operativo de la Compensación, responsabilizándose ante la Superintendencia de Bancos e Instituciones Financieras tanto del cumplimiento de los horarios como de la aplicación del presente Reglamento.
+
+La duración de cada turno corresponderá a un mes calendario completo. Sin embargo, las instituciones podrán establecer, de común acuerdo, períodos de duración distinta.
+
+Las designaciones de Institución de Turno recaerán exclusivamente en las empresas bancarias y sociedades financieras que participen en una red de cajeros automáticos, y deberán ser comunicadas por ella misma a la Superintendencia de Bancos e Instituciones Financieras a lo menos cinco días hábil es antes del comienzo del turno respectivo.
+
+5.- Para la aplicación del presente Reglamento, se entenderá que la red de cajeros automáticos opera en todo el territorio nacional.
+
+IX.- DE LA OPERACION.
+
+6.- La compensación operará todos los días hábiles bancarios por intermedio de un sistema de transmisión de información y procesamiento electrónico de datos, autorizado por la Superintendencia de Bancos e Instituciones Financieras y aprobado por el Banco Central de Chile.
+
+7.- La administradora efectuará diariamente un cierre de operaciones al término del horario bancario, y antes de las 15.45 horas informará a cada institución partícipe de la red su saldo neto y posición respecto de las restantes instituciones.
+
+Solucionadas las objeciones, si las hubiere, y antes de las 16.00 horas comunicará a la Institución de Turno el saldo neto definitivo, a favor o en contra, de cada institución partícipe.
+
+8.- La Institución de Turno confeccionará, sobre la base de la información recibida, una "Planilla Resumen (Nombre de la Red)" con el saldo neto, a favor o en contra, de cada institución partícipe y la enviará antes de las 16:30 horas al Jefe de Cámara de la plaza jurisdiccional de Santiago, por intermedio del sistema de transmisión de información y procesamiento electrónico de datos.
+
+III.- DE LA LIQUIDACION Y PAGO.
+
+9 - La liquidación y pago se efectuará a través de los cargos y abonos que, en el mismo día y sobre la base del "Estado de Saldos Resumidos Netos de Cámara", efectúa el Banco Central de Chile en las cuentas corrientes que las instituciones mantienen en el Instituto Emisor, lo que representará el pago definitivo de los saldos resultantes de la compensación por las operaciones de la red de cajeros automáticos correspondientes a un ciclo diario.
+
+IV.- DEL ARCHIVO DE LA INFORMACION.
+
+10. La Institución de Turno mantendrá las planillas o mensajes correspondientes al período en que haya ejercido el turno por el plazo que, de acuerdo con las normas generales, éstos deben conservarse.
 
 CAPITULO 5-2 (Bancos)
 
