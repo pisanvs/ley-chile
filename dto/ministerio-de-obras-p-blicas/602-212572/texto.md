@@ -1,0 +1,5 @@
+Por decreto MOP Nº602, de 17 de junio de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP.
+
+Nº206, de 1960, se expropió el lote de terreno Nº2, para la obra: "PROYECTO SISTEMA AMERICO SUR. RUTA 78 - AV. GRECIA. SECTOR 1: AV. GENERAL VELASQUEZ - RUTA 78", Región Metropolitana, que figura a nombre de NEUT LATOUR Y CIA S A, rol de avalúo 2-30, comuna de Cerrillos, superficie 2.001 m2. La comisión de peritos integrada por los señores Itsang Lu Chen, Mario Zamorano Villablanca y Mufida Viola Abuawad Elias, fijó con fecha 30 de abril de 2003, el valor provisional de la indemnización en la cantidad de $70.035.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
