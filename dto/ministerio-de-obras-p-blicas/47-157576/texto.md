@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 47, de 19 de Febrero de 1985, se expropiaron los lotes N°s. 9, 12 y 13, superficie 240 m2., 204 m2., y 336 m2. respectivamente roles de avalúos 357-19, 357221 y 357-14, comuna de Concepción, VIII Región, para variante nuevo puente sobre el río Andalién, camino Concepción - Tomé y se acordó el precio de indemnización con sus propietarios don Orlando Oporto C ceres y don Angel Dalmazzo García, ascendente a $ 598.123 para el lote 9; 129.431 para el lote 12 y $ 213.457 para el lote 13.-
+
+Fiscal del Ministerio de Obras Públicas.
