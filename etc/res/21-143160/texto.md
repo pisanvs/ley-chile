@@ -1,0 +1,5 @@
+AUTORIZA A EMPRESA DE CULTIVOS Y EXPLOTACION DE PRODUCTOS DEL MAR LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 21 de 06 de Enero de 1987 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Empresa de Cultivos y Explotación de Productos del Mar Limitada, para instalar y operar dos establecimientos de cultivo de Salmón plateado y Salmón rey, en la Comuna de Quellón, Provincia de Chiloé, X Región: El primero de ellos, en el que se realizará la etapa de incubación, se llevará a cabe en agua dulce, en un sector del río Coinco y el segundo, en el que se realizará la etapa de engorda, se llevará a cabe en agua salada, en dos áreas de 20.000 m2 cada una, situadas en el sector Compu.
+
+Valparaíso, 06 de Enero de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
