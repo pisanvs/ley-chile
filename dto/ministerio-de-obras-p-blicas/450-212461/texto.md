@@ -1,0 +1,3 @@
+Por decreto MOP Nº450 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº64, superficie 166 m2, Rol de Avalúo Nº609-54, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz - Yaquil, Rol I-730, Km. 0.00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietaria María Silda Verdugo Toledo, ascendente a la cantidad de $5.659.864.
+
+- Fiscal del Ministerio de Obras Públicas.
