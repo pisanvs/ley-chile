@@ -1,0 +1,3 @@
+Por decreto MOP Nº918, de fecha 25 de agosto de 2003, se expropiaron los lotes de terreno Nº14 y 20, superficies 1.392 m² y 3.920 m², roles de Avalúo Nº1418-169 y 1418-49, comuna de Rancagua, para la obra "Camino Ruta H-188, Sector Cruceros-Chancón, tramo 1, Km. 0,00000 al Km. 7,85900", VI Región y se acá el valor de la indemnización con su propietario Sociedad Agrícola Santa Patricia Ltda., ascendente a la cantidad de $14.971.488.
+
+Fiscal del Ministerio de Obras Públicas.
