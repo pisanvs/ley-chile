@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.245, de 27 de octubre de 2003, se dejó sin efecto el decreto MOP exento Nº262 de fecha 22 de marzo de 2002, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº1-Ñ. Consígnese judicialmente el monto provisional de la indemnización del lote Nº1-Ñ, fijada por la Comisión de Peritos con fecha 29 de febrero de 2000, en la cantidad de $1.355.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
