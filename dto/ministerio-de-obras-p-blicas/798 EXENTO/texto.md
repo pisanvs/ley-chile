@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº798 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº12-A, superficie 1.217 m2., rol de avalúo Nº225-16, comuna de Olmué, para la obra ''Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10,98400 a Km. 34,50000'', V Región y se acordó el valor de indemnización con su propietario Pedro Pablo Lizana Aguayo, ascendente a la cantidad de $1.556.392.-
+
+Fiscal del Ministerio de Obras Públicas.
