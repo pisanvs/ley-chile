@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.957, de 29 de diciembre de 1999, se expropió el lote de terreno Nº13, superficie 1.937 m², rol de avalúo 2204-10, comuna de Chillán, para la obra Concesión Internacional Ruta 5, Tramo: Talca - Chillán, Octava Región y se acordó el valor de indemnización con su propietario Alfonso Simón Navarrete Chávez, ascendente a la cantidad de $11.860.290.
+
+Fiscal del Ministerio de Obras Públicas.
