@@ -1,0 +1,3 @@
+Por decreto MOP. N° 1.219, de 30 de diciembre de 1997, se expropió el lote de terreno N° 76-A, superficie 12.360 M2, rol de avalúo 152-3, comuna de Pemuco, para la obra Proyecto Laja Diguillín, Faja de Expropiación Canal Matriz, sector Trilaleo Pemuco y se acordó precio de indemnización con su propietario Rosa Angélica Valenzuela Valenzuela y Otra, ascendente a la cantidad de $2.482.055.-
+
+Fiscal del Ministerio de Obras Públicas.
