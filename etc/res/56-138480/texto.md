@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PESQUERA EICOMAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 56, de 02 de Febrero de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera Eicomar S.A. domiciliada en Santiago, para ampliar las actividades de cultivo señaladas en Resolución No. 929, de 1987, de esta Subsecretaría, en orden a incluir el recurso ostión del norte entre los recursos hidrobiológicos autorizados en el establecimiento ubicado en Canal Caicaén Comuna de Calbuco, X Región, el que deberá provenir de centros autorizados. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo con las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 02 de Febrero de 1988.- Roberto Cabezas Bello Subsecretario de Pesca.
