@@ -1,0 +1,3 @@
+Por Resolución N° 1.438, de 9 de Octubre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD COMERCIAL SANTA BARBARA S.A., R.U.T. N° 79.652.790-0, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en Avenida Ecuador N° 4566, Comuna de Estación Central, Santiago, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Congelado, Fresco-enfriado y Fresco: Reineta Brama australis y Loco Concholepas concholepas; Salado, Fresco en vinagre y en aceite: Anchoveta Engraulis ringens.
+
+Valparaíso, 9 de Octubre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
