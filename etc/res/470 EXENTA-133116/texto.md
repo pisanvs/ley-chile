@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 470 de 29 de Marzo de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sectores Excluidos y Sectores Expropiados predios "Esmeralda" y "EI Olivar" de la comuna de Maule, Séptima Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 19 y sitios N°s. 1 al 13 del Proyecto de Parcelación "Esmeralda", formado por predios señalados. Los Derechos de Aguas se extraen de los canales Peña, Mercedes, Esmeralda, Duao y Zapata y Colín, derivados del Río Maule. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
