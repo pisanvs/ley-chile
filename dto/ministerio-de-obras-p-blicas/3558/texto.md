@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.558, de 30 de noviembre de 1999, se expropió el lote de terreno Nº44, superficie 354 m2, rol de avalúo 2190-153, comuna de Puerto Montt, X Región, para la obra camino Ruta V-505, sector Pto. Varas - Los Alerces - Pto. Montt y se acordó precio de indemnización con su propietario Juan Alvarado Muñoz, ascendente a la cantidad de $4.764.161.
+
+Fiscal del Ministerio de Obras Públicas.
