@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº111, de fecha 30 de noviembre del año 2001, se aprobó la disolución voluntaria de la Cooperativa de Viviendas y Servicios Habitacionales "Jorge Pizarro Limitada", de Santiago, que consta en la escritura pública suscrita con fecha 10 de octubre de 2001, ante el Notario Público, Titular de Santiago, don Gastón Iván Santibáñez Soto.
+
+Por orden del señor Subsecretario.- Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
