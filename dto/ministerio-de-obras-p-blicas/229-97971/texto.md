@@ -1,0 +1,3 @@
+Por decretos MOP. Nºs.228, 229 y 227, de fecha 27 de febrero de 1998, se expropiaron los lotes de terrenos Nºs 10, 5 y 2 , superficie 200 m2., roles de avalúo 61-11, 61-16,y 6-24, comuna de Curicó , para la obra Camino Ruta 5 Sur ,Sector Acceso Sur a Curicó, y se acordó precio de indemnización con sus propietarios Juan Guillermo Márquez Fuenzalida, Jaime Bahamondes Vasconcello y Asociación Gremial de Dueños de Camiones de la Provincia de Curicó , ascendente a las cantidades de $98.545.612, $8.031.323 y 155.862.168.-
+
+- Fiscal del Ministerio de Obras Publicas.
