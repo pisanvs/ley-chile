@@ -1,0 +1,3 @@
+Por resolución Nº 2.080, de 15 de septiembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96101149, presentada por MARTA EFIGENIA GONZALEZ ACUÑA, para instalar y operar el centro de cultivo ubicado en la desembocadura del río San Pedro Nolasco, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 15 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
