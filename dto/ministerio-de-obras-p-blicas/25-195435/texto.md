@@ -1,0 +1,3 @@
+Por decreto MOP Nº25, de 29 de enero de 2002, se expropió el lote de terreno Nº33-E, superficie 258 m², rol de avalúo en trámite, comuna de El Quisco, para la obra Red Vial Litoral Central. Sector 1: Nuevo Camino Costero. Acceso a Punta de Tralca Km 0.000,00 al Km 5.622,00 Quinta Región, se acordó el valor de la indemnización con su propietario Bernardo Carvajal Ilabaca y otra, ascendente a la cantidad de $490.626.-
+
+Fiscal del Ministerio de Obras Públicas.
