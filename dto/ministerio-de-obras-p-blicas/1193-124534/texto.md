@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.193, de 19 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropiaron los lotes de terreno No.
+
+s.9-C y 10, para la obra Concesión Internacional Ruta 5, Tramo Temuco - Río Bueno, Km. 718.300,00 al Km. 724.706,67, que figuran a nombre de Osorio Torres Juan, Rol de Avalúo No. 432-46, comuna de Gorbea, superficies 2.260,2 y 2.965,0 m². La Comisión de peritos integrada por Enrique Vallete De la Harpe, Fernando Luis Contreras Hennings y Carmen Luz Palacios Contreras, fijó con fecha 31 de marzo de 1998, el valor provisional de la indemnización en la cantidad de $ 904.080.- para el lote No. 9-C y $ 13.894.500.- para el lote No. 10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
