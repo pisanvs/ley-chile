@@ -1,0 +1,11 @@
+Por Resolución N° 446, de 25 de Junio de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMERCIAL E INDUSTRIAL DEL SUR S.A., R.U.T. N° 96.655.570-K, para iniciar actividades pesqueras de transformación, en orden a instalar una planta industrial ubicada en Camino a Tepual s/n°, Km. 16, ruta V-60, Puerto Montt, Provincia de Llanquihue, X Región, en las líneas de proceso que se indican, para elaborar los siguientes recursos hidrobiológicos: Ahumado, seco-salado, deshidratado, salado, conserva, congelado, fresco-enfriado; Albacora o pez espada, Anchoa o Anchoveta, Anguila, Atún aleta amarilla, Atún aleta larga, Bacalao de profundidad, Blanquillo, Cabrilla española, Cabrilla común, Cazón, Chancharro, Cojinoba del sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Lenguado de ojos chicos, Lenguado de ojos grandes, Lisa, Merluza común, Merluza de tres aletas, Merluza del sur, Pejegallo, Pejerrey de mar, Puye, Raya, Róbalo, Salmón cereza, Salmón del atlántico, Salmón plateado, Salmón rey, Sardina, Sardina común, Tollo, Trucha arco iris, Almeja o taca, Almeja, Caracol tegula, Cholga, Chorito, Choro, Culengue, Lapa, Macha, Navajuela, Piure; Conserva, congelado, fresco-enfriado; Jaiba panchote, Camarón de roca, Camarón nailon, Centolla, Centollón, Jaiba mora, Langostino colorado, Erizo; Ahumado, conserva, congelado, fresco-enfriado; Ostión del norte, Ostión del sur, Ostra chilena, Ostra del pacífico; Salado, conserva, congelado, fresco-enfriado; Jibia y Pulpo.
+
+El abastecimiento del recurso Langostino colorado deberá provenir de las personas que cuenten con permisos extraordinarios de pesca para este recurso y dentro de los períodos en que su captura esté permitida.
+
+El recurso Pulpo deberá referirse a individuos mayores de un kilo de peso.
+
+Los recursos Ostra del pacífico, Ostión del norte, Ostión del sur, Ostra chilena, Salmón del atlántico, Salmón cereza, Salmón plateado, Salmón rey y Trucha arco iris deberán provenir de centros autorizados para realizar actividades de cultivo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.-
+
+Valparaíso, 25 de Junio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
