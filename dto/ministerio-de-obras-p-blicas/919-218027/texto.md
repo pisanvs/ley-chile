@@ -1,0 +1,3 @@
+Por decreto MOP Nº 919 de fecha 26 de agosto de 2003, se expropió el lote de terreno Nº 1-B, superficie 2.250 m², rol Nº 27-40, comuna de Paredones, para la obra "Camino Mejoramiento Ruta I-72, sector Paredones - Bucalemu, tramo Km. 27,400 a Km. 43,100", VI Región y se acordó el valor de la indemnización con su propietario Germán Nicolás González Pavez, ascendente a la cantidad de $5.907.200.
+
+Fiscal del Ministerio de Obras Públicas.
