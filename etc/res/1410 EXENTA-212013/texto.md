@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.410, de 26 de junio de 2003, de esta Subsecretaría, modifícase la resolución Nº 875 de 2003, de esta Subsecretaría de Pesca, que aprobó el plan de manejo y explotación correspondiente al sector denominado Chaiguaco, X Región, presentado por la ASOCIACION GREMIAL PESCADORES ARTESANALES DE QUENUIR, en el sentido de reemplazar en el Visto y Considerando la expresión "Chaiguaco, X Región" por "Cullinco, X Región"; y en el numeral 1.- de la misma, reemplazar la expresión "Chaiguaco, X Región, individualizada en el artículo 1º, Nº 5)" por "Cullinco, X Región, individualizada en el artículo 1º, Nº 6)".
+
+Valparaíso, 26 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
