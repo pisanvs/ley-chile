@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº1.703 de 29 de noviembre de 2002, se expropió el lote de terreno Nº131-B1, superficie 2.951 m2., rol de Avalúo 628-18, comuna de Mulchén, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli Sector: Km: 553.470,00 al 558.740,00, Octava Región y se acordó el valor de indemnización con su propietario René Díaz Bustamante y Otros, ascendente a la cantidad de $1.779.609.-
+
+Fiscal del Ministerio de Obras Públicas.
