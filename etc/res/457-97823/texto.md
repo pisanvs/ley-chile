@@ -1,0 +1,3 @@
+Por resolución Nº457, de 7 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las resoluciones Nº210 de 1986 y Nº1.126 de 1987, ambas de esta Subsecretaría, que autorizaron a don JUAN ALBERTO CARRIZO URBINA, para operar con la nave ''Aurora Patricia'', en virtud de haber paralizado actividades pesqueras extractivas por más de 12 meses sucesivos, a partir del mes de febrero de 1996, en el litoral de la I y II Regiones, incurriendo en la causal de caducidad prevista en el artículo 143 letra b) de la Ley Nº18.892 y sus modificaciones.
+
+Valparaíso, 7 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
