@@ -1,0 +1,3 @@
+Por resolución Nº 388 de 14 de febrero de 2002 de esta Subsecretaría, declárase la caducidad de la resolución Nº 630 de 1997 de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA FRANCO LIMITADA, para ampliar actividades pesqueras extractivas con la nave "Jofrani", por haberse configurado las causales previstas en el artículo 143 letras b) y d) de la ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 14 de febrero de 2002.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
