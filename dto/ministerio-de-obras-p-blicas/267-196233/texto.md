@@ -1,0 +1,3 @@
+Por decreto MOP Nº 267 de 31 de enero del 2002, se expropió el lote de terreno Nº 4, superficie 251 m2., rol de avalúo 104-102, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago Valparaíso Viña del Mar Tramo 6A1 Kms. 31.430,00 al 33.260,00, Región Metropolitana y se acordó el valor de indemnización con su propietario Parroquia Nuestra Señora del Carmen, ascendente a la cantidad de $31.950.513.
+
+- Fiscal del Ministerio de Obras Públicas.
