@@ -1,0 +1,1 @@
+Establece que los terrenos de propiedad de indígenas, que indica, quedarán liberados, por el plazo de diez años, del impuesto sobre contribución de bienes raíces
