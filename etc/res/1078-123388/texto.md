@@ -1,0 +1,5 @@
+Por resolución Nº1.078, de 30 de julio de 1998, de esta Subsecretaría, autorízase a SOCIEDAD DE FOMENTO INDUSTRIAL Y COMERCIAL ALBATROS S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Sector Huicha, camino a Queilén, kilómetro 3, comuna de Chonchi, X Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Congelado, Fresco-Refrigerado y Ahumado: Cholga, Choro, Chorito, Ostra chilena y Ostra del Pacífico; Congelado y Fresco-Refrigerado: Abalón rojo, Ostión del norte y Ostión del sur.
+
+Los recursos Ostión del Norte, Ostra chilena y Abalón rojo, deberán provenir de centros de cultivo autorizados.
+
+Valparaíso, 30 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
