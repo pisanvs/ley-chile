@@ -1,0 +1,5 @@
+Por Decreto MOP. Nº 999, de 15 de octubre de 1997, y en base a la facultad otorgada por el artículo 105 del Decreto MOP. Nº 294 de 1984, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 1, 2, 3, 4 y 5, para la obra Camino Autopista Santiago - San Antonio, Sector Pza. de Peaje Américo Vespucio, km. 6.300,00 al km. 7.620,00, que figuran a nombre de Vial Valdés María Soledad y Agrela Cortés Eduardo, roles de avalúo 2071-20, 2071-22 y 2071-19, Comuna de Maipú, superficies 329 m2., 593 m2., 5.681 m2., 6.316 m2., y 1.432 m2., respectivamente. La Comisión de Peritos, integrada por los señores Livio Sergio Rojas Ibáñez, Carlos Garcés Fernández y Carlos del Pedregal Sánchez, fijó con fecha 25 de julio de 1997, los valores provisionales de las indemnizaciones en las cantidades de $2.697.800.- para el lote Nº 1;
+
+$2.431.300, para el lote 2; $46.584.200, para el lote Nº 3; $25.895.600, para el lote Nº 4 y $11.742.400, para el lote Nº 5.- Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
