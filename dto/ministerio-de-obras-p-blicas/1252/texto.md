@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.252, de 24 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. No. 850, de 1997, que fijó el texto actualizado de la Ley No. 15.840, se expropiaron los lotes de terreno No. s. 2 y 3, para la obra Camino Lastarria-Villaboldos, sector Puente Licancuyín, Kms.
+
+25.403 al 25.627,50, que figura a nombre de don Orlando Regner Maureira, sin rol de avalúo, comuna de Toltén, superficies 65 M2. y 210 M2. La Comisión de Peritos compuesta por los señores Enrique Vallette de la Harpe, Pablo Reidel Wanner y JoséH‚ctor Díaz Villegas, fijó con fecha 20 de mayo de 1997, el valor provisional de la indemnización en las cantidades de $ 42.250, para el lote 2 y $ 136.500, para el lote 3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
