@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.927, de 30 de junio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+2-1 y 2-2, para la obra: Camino Santiago - Colina - San Antonio, Sector: Enlace Chacabuco. Saneamiento Complementario Km. 42.080,00 al Km. 43.000,00, Región Metropolitana, que figuran a nombre de Zegard Thomas Marcel, rol de avalúo 186-22, comuna de Colina, superficies 144,40 m2 y 443,40 m2, respectivamente. La Comisión de Peritos, integrada por los señores María Cristina Camus Palacios, Marlene Teresa Ríos Marcuello y María Pilar Quiroga González, fijó con fecha 27 de enero de 2000 el valor provisional de la indemnización en las cantidades de $864.360 para el lote Nº2-1 y $1.669.710.- para el lote Nº2-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
