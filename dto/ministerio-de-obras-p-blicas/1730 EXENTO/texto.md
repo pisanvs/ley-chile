@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.730 de 28 de diciembre de 2004, se expropió el lote de terreno Nº 13, superficie 125 m² rol de avalúo Nº 445-90, comuna de Gorbea, para la obra "Reposición, Construcción y Habilitación de Caminos para Vialidad Complementaria Concesión Internacional Ruta 5 Sur, Tramo: Temuco - Río Bueno - Puerto Montt, Camino Conexión Calle de Servicio 1 (Sector Santa Juana), comuna de Gorbea, provincia de Cautín", IX Región y se acordó el valor de la indemnización con su propietario Baltazar Vásquez Campos, ascendente a la cantidad de $1.199.005.
+
+Fiscal del Ministerio de Obras Públicas.
