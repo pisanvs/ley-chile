@@ -1,0 +1,3 @@
+Por decreto MOP Nº 262, de 31 de enero del 2000, se expropió el lote de terreno Nº 314, superficie 128 m2., rol de avalúo 7849-9, comuna de La Pintana, para la Obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Robinson Edgardo Rodríguez Fernández, ascendente a la cantidad de $9.518.139.
+
+Fiscal del Ministerio de Obras Públicas.
