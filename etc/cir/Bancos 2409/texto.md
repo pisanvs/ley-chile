@@ -4542,7 +4542,7 @@ Los promedios señalados precedentemente, se determinarán considerando los sald
 
 2.- Equivalencia en dólares de los saldos en otras monedas extranjeras.
 
-Para determinar la equivalencia en dólares de los Estados Unidos de América de los saldos en monedas extranjeras, se convertirán los respectivos saldos diarios a dólares, de acuerdo con las paridades, por la palabra "para" representación contable, vigentes en las fechas correspondientes.
+Para determinar la equivalencia en dólares de los Estados Unidos de América de los saldos en monedas extranjeras, se convertirán los respectivos saldos diarios a dólares, de acuerdo con las paridades publicadas por el Banco Central de Chile de conformidad con lo dispuesto en el N° 6 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales, el último día hábil bancario del mes calendario inmediatamente precedente.
 
 ### 3. Intereses y reajustes
 
@@ -4556,9 +4556,7 @@ En el caso de la obtención de recursos mediante venta de documentos con pacto d
 
 5.- Excedentes de encaje.
 
-Los excedentes de encaje en moneda nacional no pueden utilizarse para cubrir déficit de encabe en monedas extranjeras
-
-Los excedentes de encaje en monedas extranjeras no se pueden emplear para cubrir déficit de encaje en moneda chilena ni en otras monedas extranjeras. Con todo, los excedentes de encaje mantenido en dólares de los Estados Unidos de América serán utilizables para cubrir déficit de encaje en otras monedas extranjeras.
+Los excedentes de encaje en moneda nacional no pueden utilizarse para cubrir déficit de encaje en dólares de los Estados Unidos de América. A su vez, los excedentes de encaje en dólares de los Estados Unidos de América, no se pueden emplear para cubrir déficit de encaje en moneda chilena.
 
 6. Obligaciones afectas a reserva técnica, art. 80 bis Ley General de Bancos.
 
@@ -4740,23 +4738,19 @@ Los bancos podrán también deducir de sus obligaciones afectas a encaje los sal
 
 ### 4. Encaje exigido y mantenido
 
-4.1. Encaje exigido
+4.1. Encaje exigido.
 
-El encaje correspondiente a los depósitos y captaciones en monedas extranjeras, se determinará en forma separada para cada una de las diferentes monedas. En consecuencia, no puede establecerse encaje conjunto.
-
-La instrucción precedente implica que las disponibilidades que los bancos tengan de una determinada moneda extranjera, les servirán como partida de encaje mantenido sólo para los depósitos y captaciones en esa misma moneda, salvo por la aplicación de los excedentes de encaje mantenido en dólares de los Estados Unidos de América, según lo señalado en el número 5 del título I.
+El encaje exigido correspondiente a los depósitos y captaciones en monedas extranjeras, s.e determinará en forma separada para cada una de las diferentes monedas.
 
 4.2. Encaje mantenido.
 
-El encaje, para cada una de las monedas extranjeras, deberá estar compuesto sólo por los siguientes fondos en moneda del respectivo país:
+El encaje, para cada una de las monedas extranjeras, deberá estar compuesto sólo por los siguientes fondos:
 
-a) Billetes y monedas de curso legal en el respectivo país, ya sea que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa o en tránsito al Banco Central de Chile, y,
+a) Billetes y monedas correspondientes a dólares de los Estados Unidos de América, ya sea que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa o en tránsito al Banco Central de Chile; y,
 
-b) Depósitos mantenidos en cuenta corriente en el Banco Central de Chile.
+b) Depósitos en dólares de los Estados Unidos de América mantenidos en cuenta corriente en el Banco Central de Chile.
 
-El encaje exigido en moneda extranjera puede cubrirse, además, con excedentes de encaje mantenido en dólares de los Estados Unidos de América.
-
-Con todo, los fondos en moneda extranjera que hayan sido utilizados para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación no pueden, a su vez, ser empleados para constituir el encaje mantenido.
+Con todo, los fondos en dólares de los Estados Unidos de América que hayan sido utilizados para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación no pueden, a su vez, ser empleados para constituir el encaje mantenido.
 
 4.3.- Depósitos "overnight" en el Banco Central de Chile.
 
@@ -4810,11 +4804,11 @@ N° 3570 "Otros préstamos y obligaciones".
 
 4.1. Encaje exigido.
 
-El encaje exigido se calculará por "períodos mensuales", según lo señalado en el N° 1 del título I de este Capítulo y su cumplimiento se hará en relación con el promedio de las obligaciones antes mencionadas en cada una de las diferentes monedas extranjeras, calculado sobre la base de los saldos diarios del respectivo mes, considerando los días corridos del período.
+El encaje exigido se calculará por "períodos mensuales", según lo señalado en el N° 1 del título I de este Capítulo, sobre el con el promedio de las obligaciones antes mencionadas en cada una de las diferentes monedas extranjeras, calculado sobre la base de los saldos diarios del respectivo mes, considerando los días corridos del período.
 
 4.2. Encaje mantenido.
 
-El encaje por las obligaciones antes mencionadas deberá estar constituido por las monedas extranjeras del respectivo país o por dólares de los Estados Unidos de América, depositados en el Banco Central de Chile para tal efecto en la "Cuenta especial encaje Acuerdo N° 143-01-910705.
+El encaje por las obligaciones antes mencionadas deberá estar constituido por dólares de los Estados Unidos de América, depositados en el Banco Central de Chile para tal efecto en la "Cuenta especial encaje Acuerdo N° 143-01-910705.
 
 V.- Información a esta Superintendencia.
 
@@ -19380,7 +19374,7 @@ En uso de la facultad mencionada, el Consejo del Instituto Emisor estableció la
 
 Según dichas disposiciones y en concordancia con la Ley Orgánica Constitucional antes mencionada, tal como se expresó anteriormente las operaciones de cambios internacionales pueden realizarse libremente por cualquier persona, con excepción de aquellas que se deban realizar exclusivamente en el Mercado Cambiario Formal por los Bancos y las Casas de Cambio autorizadas para formar parte de dicho mercado, las que se denominan "Casas de Cambio M.C.F.".
 
-Las operaciones de cambios internacionales que obligadamente se deben realizar en el Mercado Cambiario Formal, a su vez, están sujetas a las disposiciones contenidas en el referido Compendio y que dicen relación con la obligatoriedad de retomar y liquidar en el Mercado Cambiario Formal las divisas provenientes de determinadas operaciones. Esas mismas disposiciones fijan límites a las tenencias de divisas por parte de las empresas bancarias y Casas de Cambio M.C.F. y establecen las excepciones a la obligación de retomar y liquidar divisas antes mencionada.
+Las operaciones de cambios internacionales que obligadamente se deben realizar en el Mercado Cambiario Formal, a su vez, están sujetas a las disposiciones contenidas en el referido Compendio y que dicen relación con la obligatoriedad de retomar y liquidar en el Mercado Cambiario Formal las divisas provenientes de determinadas operaciones. Esas mismas disposiciones establecen las excepciones a la obligación de retomar y liquidar divisas antes mencionada.
 
 Por otra parte, señala el Compendio ya citado, que toda operación de cambios internacionales que realice un banco o una Casa de Cambio M.C.F. o que se efectúe por su intermedio, se entenderá, por ese solo hecho, realizada en el Mercado Cambiario Formal.
 
@@ -19420,7 +19414,7 @@ Se recomienda que estos antecedentes, en lo posible, se mantengan junto a la cop
 
 ### 3. Transacciones con monedas de libre disposición
 
-Las entidades bancarias y Casas de Cambio M.C.F. de financieras pueden efectuar compras, ventas, transacciones y transferencias, en cualquiera de las monedas extranjeras distintas de las señaladas en el Anexo N° 2 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales, las cuales no están sujetas a las disposiciones de ese mismo Compendio como tampoco al límite de tenencias de monedas extranjeras establecido por el Banco Central de Chile y, por lo tanto, no se tomarán en cuenta para los efectos de determinar la Posición de Cambios de la Institución.
+Las entidades bancarias y Casas de Cambio M.C.F. de financieras pueden efectuar compras, ventas, transacciones y transferencias, en cualquiera de las monedas extranjeras distintas de las señaladas en el Anexo N° 2 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales, las cuales no están sujetas a las disposiciones de ese mismo Compendio y, por lo tanto, no se tomarán en cuenta para los efectos de determinar la Posición de Cambios de la Institución.
 
 Sin embargo, si se realizan arbitrajes entre monedas de libre disposición y cualquiera de las monedas sujetas a posición, estas últimas deben ingresarse a la Posición de Cambios de la empresa. Por ningún motivo podrán realizarse arbitrajes que consistan en la venta de divisas incluidas en la Posición de Cambios, para adquirir alguna moneda de libre disposición.
 
@@ -19443,14 +19437,6 @@ No obstante, las entidades podrán registrar saldos deudores en algunas monedas,
 4.2. Información al Banco Central de Chile.
 
 Diariamente, los bancos y Casas de Cambio M.C.F. de financieras informarán al Banco Central de Chile, mediante el "Informe Diario de Posición y Operaciones de Cambios Internacionales", las operaciones realizadas de compras y ventas de divisas sujetas a Posición. Dicho Informe deberá ser presentado el mismo día en que se cursen las operaciones o el día hábil bancario inmediatamente siguiente, según sea la cantidad de planillas que presente la institución. En todo caso, aquellas transacciones realizadas en "horario especial" por las empresas autorizadas para operar en ese horario, las que se registran al día hábil bancario siguiente al de su realización, se comunicarán al Instituto Emisor en el "Informe" del día hábil siguiente o subsiguiente a la fecha en que hayan sido cursadas, según sea el número de planillas que presente la respectiva institución.
-
-4.3. Excesos de Posición.
-
-Las empresas bancarias que, al cierre de sus operaciones de cada día, mantengan un saldo de Posición sobrecomprado que exceda el límite que les haya fijado el Banco Central de Chile, deberán vender dicho exceso en el Mercado Cambiario Formal o al Instituto Emisor, a más tardar el día hábil bancario subsiguiente.
-
-Los importes adquiridos por los bancos para constituir provisiones o reservas en moneda extranjera, previa autorización de esta Superintendencia y, en los casos que proceda, del Banco Central de Chile, no están afectos a la obligación de venta a que se refiere el párrafo precedente.
-
-Por otra parte, las Casas de Cambio MCF de financieras deberán liquidar en el Mercado Cambiario Formal, a más tardar el día hábil bancario siguiente a aquel en que se haya producido, el saldo de Posición sobre comprado que exceda el límite fijado por el Instituto Emisor.
 
 ### 5. Información al público
 
@@ -24986,11 +24972,11 @@ El Banco Central de Chile podrá aplicar una multa a las personas que hayan obte
 
 Los exportadores que contraten créditos del exterior para financiar sus exportaciones, deben registrar tales operaciones en el Banco Central de Chile, antes de su contratación.
 
-Los referidos créditos están afectos a un depósito por concepto de encaje, que debe constituirse en el Banco Central de Chile. El importe de ese depósito es igual al 20% del monto del respectivo financiamiento externo para aquellos créditos cuyas solicitudes hubieran sido presentadas al Instituto Emisor hasta el 18 de agosto de 1992 y de 30% para los que se presenten después de esa fecha. Estos depósitos no devengarán intereses y deberán efectuarse por intermedio de la empresa bancaria que realice la liquidación del crédito externo, el día hábil bancario siguiente a la fecha de dicha liquidación y en la misma moneda de la respectiva obligación. El plazo de permanencia de estos depósitos en el Instituto Emisor, será el siguiente.
+Los referidos créditos están afectos a un depósito del 30% sobre su monto por concepto de encaje, que debe constituirse en el Banco Central de Chile.
 
-i) Al tratarse de créditos cuyas solicitudes de registro se hubieren presentado al Banco Central de Chile hasta el 28 de mayo de 1992, el plazo es igual a (1) noventa días, en el caso de financiamientos del exterior pactados a un plazo promedio inferior a noventa días; (2) al plazo promedio del financiamiento, en los casos en que éste último sea superior a noventa días e inferior a un año; o (3) un año, cuando el plazo promedio de la respectiva obligación sea superior a un año.
+Estos depósitos no devengarán intereses y deberán efectuarse por intermedio de la empresa bancaria que realice la liquidación del crédito externo, el día hábil bancario siguiente a la fecha de dicha liquidación y en dólares de los Estados Unidos de América. El plazo de permanencia de estos depósitos en el Instituto Emisor será de un año, cualquiera sea el plazo al que se haya pactado el crédito.
 
-ii) Cuando se trate de depósitos correspondientes a créditos cuyas solicitudes se presenten al Banco Central de Chile a partir del 29 de mayo de 1992, su permanencia en el Instituto Emisor será de un año, cualquiera sea el plazo al que se haya pactado el crédito.
+En sustitución del encaje señalado en este numeral, los beneficiarios de créditos externos pueden optar por adquirir y retrovender los pagarés emitidos por el Banco Central de Chile de que trata el Anexo N° 5 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
 
 La liquidación de las divisas provenientes de estos créditos podrá efectuarse en cualquier empresa bancaria, la que deberá informar de ella al Instituto Emisor mediante la respectiva Planilla de Ingreso.
 
