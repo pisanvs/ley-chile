@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 327, de 31 de marzo de 1998, se expropiaron los lotes de terreno Nº s. 7, 8 y 10, superficies 305, 179 y 222 m2. respectivamente, rol de avalúo 245-71, comuna de Salamanca, para la obra Camino Ruta D-835, Sector Llimpo-Chellepin y se acordó precio de indemnización con su propietario Lino Vega Moyano, ascendente a la cantidad de $ 1.246.384.- para lotes 7, 8 y 10.-
+
+Fiscal del Ministerio de Obras Públicas.
