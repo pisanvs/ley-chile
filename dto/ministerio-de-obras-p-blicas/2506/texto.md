@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.506, de 30 de noviembre de 1998, se expropiaron los lotes de terreno Nºs. 11-A, 17, 21, 21-A y 21-B, superficies 462, 84, 237, 287 y 101 m2 respectivamente, roles de avalúo 152-19, 137-16 y 137-287, comuna de San Francisco de Mostazal, para la obra Camino Ruta H-15, sector La Punta-Puente Negro y se acordó precio de indemnización con sus propietarios Jorge del Tránsito Riquelme Garrido y José Andrés Cantillana Tamayo, ascendente a la cantidad de $14.370.175.- para los lotes 11-A, 21, 21-A y 21-B y $590.429.- para el lote 17.-
+
+Fiscal del Ministerio de Obras Públicas.
