@@ -1,0 +1,5 @@
+EXTRACTOS DE RESOLUCIONES Nºs. 1.041, 1.105 y 377 EXENTAS, DE 1997
+
+Los Directores de la II Dirección Regional Antofagasta, V Dirección Regional Valparaíso y IX Dirección Regional Temuco, han dictado, respectivamente, las resoluciones Nº Ex. 1.041, de 12 de noviembre de 1997, Nº Ex. 1.105, de 17 de noviembre 1997 y Nº Ex. 377, de 18 de noviembre de 1997, delegando en los correspondientes Jefes de los Departamentos Regionales Jurídicos y en los Jefes de las Unidades de sus jurisdicciones, las facultades señaladas en el extracto de la resolución Nº Ex. 5.277, de 23.10.1997, modificada por la resolución Nº Ex. 5.458, de 31.10.1997, ambas de la Dirección del Servicio de Impuestos Internos, publicadas en el Diario Oficial de fecha 31 de octubre de 1997 y 8 de noviembre de 1997.-
+
+Secretario General.
