@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº1.299, de 30 de agosto de 2002 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº118-Z para la obra: ''CONCESION INTERNACIONAL RUTA 5. TRAMO: RIO BUENO - PUERTO MONTT. SECTOR: RUTA V-500 KM. 1,420 A KM.
+
+2,900'', Décima Región, que figura a nombre de DIAZ GUERRA JOSE ARTURO, rol de avalúo 995-58, comuna de Puerto Varas, superficie 358 m2. La comisión de peritos integrada por los señores Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Nelson Bernardo Turra Turra, fijó con fecha 6 de junio de 2002, el valor provisional de la indemnización en la cantidad de $1.339.600.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
