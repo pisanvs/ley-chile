@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 41, de 11 de Febrero de 1985, se expropió el lote de terreno N° 39, para Carretera Panamericana, doble vía La Serena - Coquimbo, que figura a nombre de don Jorge Rodríguez P., superficie 840 m²., rol de avalúo 696-1, Comuna de Coquimbo, IV Región. La Comisión de Peritos compuesta por los señores Mario Vanni Sandoval, Alfredo Prieto Parra y Luis Jeffery Mercado, fijó con fecha 07 de Mayo de 1984, el valor provisional de la indemnización en la cantidad de $ 352.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Fiscal Subrogante del Ministerio de Obras Públicas.
