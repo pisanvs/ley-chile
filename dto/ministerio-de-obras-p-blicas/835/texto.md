@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 835, de 29 de agosto de 1997, se expropiaron los lotes de terrenos Nºs. 26-A y 35, superficies 80 y 92 m2., rol de avalúo en trámite, comuna de La Estrella, para la obra Camino Límite Regional (Rapel) - Alcones I, Sector Litueche - La Rosa, y se acordó precio de indemnización con sus propietarios, Sixto Antonio Leiva Herrera y José Vicente Herrera Silva, ascendente a la cantidad de $564.840.- lote 26-A y $575.300.- lote 35.-
+
+Fiscal del Ministerio de Obras Públicas.
