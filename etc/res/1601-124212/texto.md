@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE SEÑALA
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1601 de 14.09.88, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Fundo Santa Magdalena, retazo de terreno denominado La Perla, Fundo Bajo de San José, Hijuela El Bajo del Fundo Santa Julia, La Zarzamora e Hijuela El Chequen o Chequen Chico" de la comuna de Los Angeles, VIII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s 1 a la 13, sitio No. 4 y Reservas Cora N°s 1 y 2 del Proyecto de Parcelación "El Encanto de Magdalena" formado por predio señalado. Los Derechos de Agua se extraen del canal del Laja derivado del río Laja; canal Duqueco - Cuel derivado del río Duqueco y merced sobre el río Duqueco.
+
+Publicación hecha conforme Art. 13 Ley No. 18.377.- Director Ejecutivo.
