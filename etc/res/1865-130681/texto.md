@@ -1,0 +1,3 @@
+Por resolución Nº 1.865 de 24 de diciembre de 1998 de esta Subsecretaría, autorízase a PESCA SURIBERICA S.A., para realizar operaciones pesqueras, a contar del 1 de enero de 1999 y hasta el 31 de diciembre del mismo año, ambas fechas inclusive, con el barco fábrica denominado ''Isla Camila'', en aguas interiores, al Sur del paralelo 47º L.S., respecto de los recursos y con las obligaciones, establecidas en sus respectivas resoluciones.
+
+Valparaíso, 24 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
