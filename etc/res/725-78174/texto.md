@@ -1,0 +1,5 @@
+Por resolución No. 725, de 31 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la resolución No. 1514, de 1991, de esta Subsecretaría, que autorizó a PESQUERA CENTOMAR LTDA., R.U.T. No. 78.111.990-3, domiciliada en calle Sotomayor, Pasaje 1, Sitio 16, 387, Parque Industrial AGPIA, Iquique, para realizar actividades de pesca de investigación y para instalar una planta industrial ubicada en Pasaje 1, Sitio 16 Parque Industrial AGPIA, Iquique, I Región, en el sentido de reemplazar su numeral 12° por el siguiente:
+
+"12.- Derógase la resolución No. 1224, de esta Subsecretaría, que autorizó a Sociedad Marítima y Armadora San Jorge Limitada R.U.T. No. 86.540.100-0, para operar una planta industrial ubicada en Pasaje 1, Sitio 16, Parque Industrial AGPIA, Iquique, I Región".
+
+Valparaíso, 31 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
