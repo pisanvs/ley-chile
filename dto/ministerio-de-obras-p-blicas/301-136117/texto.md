@@ -1,0 +1,3 @@
+Por Decreto MOP No. 301, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s. 5, 44 y 126, superficies 219, 559 y 140 M2., roles de avalúo 73-71, 70-53 y 68-78, comunas de Teno, obra Camino Ruta J-25, Sector Cruce Longitudinal - La Montaña, y se acordó precio de indemnización con sus propietarios Guillermo del Carmen Cabello Espina, Mario Enrique Díaz Bustamante y Merquisedec del Carmen Muñoz Muñoz, ascendente a la cantidad de $ 296.290.-, $ 711.352.- y $ 301.938.-
+
+Fiscal del Ministerio de Obras Públicas.
