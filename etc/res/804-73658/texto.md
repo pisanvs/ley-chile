@@ -1,0 +1,3 @@
+Por Resolución Nº 804, de 6 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 96122001, presentada por KUSANOVIC Y CARDENAS LIMITADA, para un centro de cultivo ubicado en Seno Erezcano, comuna de Natales, provincia de Ultima Esperanza, XII Región, en virtud de lo dispuesto en el artículo 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 6 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
