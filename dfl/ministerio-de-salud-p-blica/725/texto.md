@@ -46,7 +46,7 @@ Las definiciones que se contienen en los preceptos siguientes, valdrán para el 
 
 #### Artículo 7°
 
-Toda autorización o permiso concedido por el Servicio Nacional de Salud, de acuerdo con las atribuciones del presente Código, se entenderán limitados a un plazo de tres años.
+Las autorizaciones o permisos concedidos por los Servicios de Salud, de acuerdo con las atribuciones de este Código, tendrán la duración que para cada caso se establezca en los respectivos reglamentos, con un mínimo de tres años. Estos plazos se entenderán automática y sucesivamente prorrogados por períodos iguales, mientras no sean expresamente dejados sin efecto.
 
 #### Artículo 8°
 
@@ -576,11 +576,13 @@ b) la calidad, naturaleza y demás requisitos higiénicos que deberán tener los
 
 c) las condiciones sanitarias y de seguridad que deben cumplir una casa, edificio o local, para ser habitados u ofrecidos en arrendamiento y la determinación del número máximo de personas que pueden ocuparlos;
 
-d) las condiciones sanitarias y de seguridad de los locales o sitios en que se efectúen espectáculos públicos y de esparcimiento o recreo, o se alberguen transitoriamente grupos de personas, como ser escuelas, teatros, cines, estadios, carpas, campamentos de verano, de faenas mineras u otras;
+d) las condiciones sanitarias y de seguridad de los locales o sitios en que se efectúen espectáculos públicos y de esparcimiento o recreo, o se alberguen transitoriamente grupos de personas, como ser escuelas, teatros, cines, estadios, carpas, campamentos de verano, de faenas mineras u otras.
 
 e) la prohibición de mantener determinadas especies de animales o el número máximo de ellos que pueden ser tolerados en una casa habitación o en locales públicos o privados, y las condiciones de higiene y seguridad que deben cumplirse para su mantención, y
 
 f) la protección contra insectos, roedores y otros animales capaces de transmitir enfermedades al hombre.
+
+> **Nota.** Véase el Decreto 301, Salud, publicado el 14.12.1984, que aprueba el Reglamento sobre condiciones sanitarias mínimas en campings o campamentos de turismo.
 
 ### Párrafo III
 
@@ -643,6 +645,8 @@ La producción, fabricación, adquisición, posesión, uso, manipulación, almac
 Las personas que se desempeñen en las instalaciones radiactivas, utilizando o manipulando sustancias radiactivas u operando equipos o aparatos generadores de radiaciones ionizantes, deberán tener autorización del Servicio de Salud correspondiente.
 
 > **Nota.** Los incisos 2° y 3° del Art. 67 de la LEY 18302, publicada el 02.05.1984, sobre Seguridad Nuclear, complementan esta disposición estableciendo que: "corresponderá a los Servicios de Salud, conforme a las disposiciones del Código Sanitario, la autorización y el control de la aplicación y el manejo de las sustancias radiactivas en instalaciones radiactivas o en equipos generadores de radiaciones ionizantes, y la prevención de los riesgos derivados de su uso y manipulación. Sin embargo, competerá a la Comisión Chilena de Energía Nuclear la autorización, el control y la prevención de riesgos respecto de las instalaciones radiactivas que se encuentren dentro de una instalación nuclear, y de las que, conforme al reglamento, sean declaradas de primera categoría."
+
+> **Nota.** NOTA 1: Véanse el Decreto 133, Salud, publicado el 23.08.1984, que establece el Reglamento sobre Autorizaciones para Instalaciones Radiactivas, personal que se desempeña en ellas y otras actividades afines; y el Decreto 3, Salud, publicado el 25.04.1985, que aprueba el Reglamento para la Protección Radiológica de Instalaciones Radioactivas.
 
 #### Artículo 87°
 
@@ -768,7 +772,9 @@ Sin embargo, el Director General podrá autorizar provisionalmente, en casos cal
 
 #### Artículo 103°
 
-Un Reglamento determinará las normas de control de calidad a que estarán sujetos los productos farmacéuticos y cosméticos que se importen o fabriquen en el país. No obstante, todo laboratorio de producción deberá tener su propio sistema de control de calidad de sus productos a cargo de un farmacéutico o químico-farmacéutico.
+Un reglamento determinará las normas de control de calidad a que estarán sujetos los productos farmacéuticos y cosméticos que se importen o fabriquen en el país. No obstante, todo laboratorio de producción deberá tener su propio sistema de control de calidad de sus productos a cargo de un farmacéutico o químico-farmacéutico.
+
+> **Nota.** Véase el Decreto 189, Salud, publicado el 17.09.1984, que fija la Nómina de Principios Activos permitidos en Cosméticos Especiales.
 
 #### Artículo 104°
 
@@ -804,7 +810,7 @@ Se entenderá por alimentos o productos alimenticios cualquier substancia o mezc
 
 El Reglamento determinará las tolerancias técnicas admitidas que deberán satisfacer las materias primas destinadas a la elaboración de alimentos.
 
-> **Nota.** Véanse la LEY 4869, publicada el 04.08.1930, que autoriza al Presidente de la República para declarar obligatoria la pasteurización de la leche en las ciudades que determine y, entre otros, los decretos de Salud N° 18, D.O. 25.02.1976 y N° 181, D.O. de 20.08.1977, en que se hace obligatoria en las comunas que en ellos se señalan.
+> **Nota.** Véanse la LEY 4869, publicada el 04.08.1930, que autoriza al Presidente de la República para declarar obligatoria la pasteurización de la leche en las ciudades que determine y, entre otros, los decretos de Salud N° 18, D.O. 25.02.1976 y N° 181, D.O. de 20.08.1977, en que se hace obligatoria en las comunas que en ellos se señalan. Véase también la Resolución 1 exenta, publicada el 17.01.1986, que establece normas sanitarias para la pasteurización de la leche y productos lácteos.
 
 #### Artículo 109°
 
@@ -894,6 +900,8 @@ Ninguna farmacia, droguería o laboratorio de productos farmacéuticos podrá in
 
 Corresponderá a éste, asimismo, la fiscalización de dichos establecimientos.
 
+> **Nota.** Véase el Decreto 466, Salud, publicado el 12.03.1985, que contiene el Reglamento de Farmacias, Droguerías, Almacenes Farmacéuticos y Botiquines Autorizados.
+
 #### Artículo 123°
 
 La venta al público de los productos farmacéuticos para uso humano sólo podrá hacerse en las Farmacias, las que deberán ser dirigidas técnicamente por un Farmacéutico o Químico Farmacéutico.
@@ -929,6 +937,8 @@ Los productos farmacéuticos sólo podrán expenderse al público con receta mé
 #### Artículo 128°
 
 Sólo los establecimientos de óptica podrán despachar recetas médicas en que se prescriban anteojos con fuerza dióptrica.
+
+> **Nota.** Véase el Decreto 4, Salud, publicado el 13.03.1985, que aprueba Reglamento sobre establecimientos de óptica.
 
 #### Artículo 129°
 
@@ -1082,7 +1092,7 @@ No será aplicable a las donaciones de que trata este Libro lo dispuesto en los 
 
 #### Artículo 151°
 
-Cuando una persona hubiere fallecido en alguno de los casos indicados en el artículo 121 del Código de Procedimiento Penal o cuando su muerte hubiere dado lugar a un proceso penal, será necesaria la autorización judicial para destinar el cadáver a cualquiera de las finalidades previstas en este título, además del cumplimiento de los otros requisitos.
+Cuando una persona hubiere fallecido en alguno de los casos indicados en el artículo 121 del Código de Procedimiento Penal o cuando su muerte hubiere dado lugar a un proceso penal, será necesaria la autorización del Director del Servicio Médico Legal o del médico cirujano en quien éste haya delegado esta atribución para destinar el cadáver a cualquiera de las finalidades previstas en este Libro, además del cumplimiento de los otros requisitos.
 
 #### Artículo 152°
 
