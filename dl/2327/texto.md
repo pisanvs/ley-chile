@@ -1,0 +1,2713 @@
+CREA LA CARRERA DOCENTE Y REGULA SU EJERCICIO
+
+NUM. 2.327.- Santiago, 1° de septiembre de 1978.- Visto: lo dispuesto en los decretos leyes 1 y 128, de 1973; 527, de 1974, y 991, de 1976, y
+
+Considerando: 1° Que ha sido preocupación primordial del Supremo Gobierno, expresada a través del Ministerio de Educación Pública, la realización de estudios destinados a implantar en el sector público una carrera docente que signifique una solución integral para los profesionales de la docencia, y 2° Que, al respecto, constituyen objetivos de interés nacional:
+
+a) Estimular la eficiencia de la enseñanza en todos los niveles del sistema educativo;
+
+b) Regular la carrera docente mediante el ordenamiento de los educadores, para darles oportunidad de ascenso y promoción;
+
+c) Garantizar a los educadores su situación dentro de los respectivos escalafones que constituyen dicha carrera, y
+
+d) Estimular la superación y eficiencia de los educadores, mediante un sistema de remuneraciones acorde con sus méritos y antigüedad,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+DECRETO LEY:
+
+## Título I
+
+Disposiciones Generales
+
+#### Artículo 1°
+
+Establécese la carrera docente para el personal dependiente del Ministerio de Educación Pública, a que se refiere el artículo 2°, la cual se regirá por las normas de este decreto ley y su reglamento.
+
+#### Artículo 2°
+
+El presente decreto ley se aplicará al personal docente superior y al personal propiamente tal.
+
+Personal docente superior es el que dirige, supervisa u orienta la educación; y personal docente propiamente tal es el que imparte la enseñanza conforme a las disposiciones de este decreto ley.
+
+#### Artículo 3°
+
+La carrera docente estará constituida por escalafones que agrupen y clasifiquen en forma valorativa, sistemática y permanente a todas las personas que presten servicios en cargos docentes superiores y docentes propiamente tales, según su calificación profesional, capacidad, méritos, y aportes pedagógicos y culturales.
+
+Los escalafones serán nacionales. Sin embargo, mediante decreto supremo del Ministerio de Educación Pública podrán dividirse por regiones.
+
+Los escalafones estarán clasificados en grados, que equivaldrán a los contenidos en la Escala Unica de Remuneraciones aplicable al personal de la Administración Pública.
+
+A cada grado corresponderán diversos cargos equivalentes, que los profesores podrán servir indistintamente, de acuerdo con lo que determine la autoridad competente.
+
+#### Artículo 4°
+
+El ingreso de un profesor a un escalafón determinado de la carrera y sus ascensos posteriores, llevarán consigo la propiedad del grado en el cual ha sido nombrado o al cual es ascendido, y dentro de este grado, podrá ser destinado a servir el cargo tipo o algún cargo homólogo de su escalafón.
+
+El cargo tipo y los cargos homólogos de cada grado de un escalafón son los indicados en el artículo 24°.
+
+Los cargos tipos y los cargos homólogos dentro de cada grado deben entenderse referidos a funciones de igual jerarquía y responsabilidad. El profesor podrá ser destinado indistintamente a servir un cargo tipo o un cargo homólogo de un escalafón dentro de su grado, sin que implique nombramiento en un cargo.
+
+#### Artículo 5°
+
+Para desempeñar una función docente, sea superior o docente propiamente tal, se necesitará nombramiento y destinación.
+
+El nombramiento es un acto administrativo en virtud del cual se incorpora a un profesor a un escalafón y a un grado determinado, para ejercer funciones propias de su profesión docente. La destinación es un acto administrativo mediante el cual se asignan funciones a un profesor en alguna de las calidades que indica el artículo 7°, para servir, dentro del grado correspondiente del escalafón, funciones docentes o alguna actividad de colaboración acorde con la naturaleza o índole de su Título docente o cargo que desempeña. Esta destinación subsistirá mientras no se dicte otro acto administrativo que la modifique.
+
+Las destinaciones pueden ser para servir funciones docentes dentro de la misma localidad donde se encuentra ubicado el establecimiento u oficina de la actual destinación del docente, o para servir funciones en una localidad distinta de esta.
+
+Se considerará que una destinación le significa cambio de localidad, en las mismas circunstancias en que el funcionario habría tenido derecho a viáticos en caso de un cometido.
+
+El no cumplimiento de una destinación que no signifique cambio de localidad en el plazo que fije la resolución respectiva, se considerará como renuncia no voluntaria para todos los efectos legales. Esta renuncia no constituirá medida disciplinaria.
+
+El rechazo de una destinación que signifique cambio de localidad, en los términos expresados en el inciso 4° de este artículo, privará al docente del derecho al ascenso mientras no acepte las nuevas destinaciones que se dispongan. Esta privación del derecho al ascenso no constituye medida disciplinaria.
+
+No obstante, lo dispuesto en el inciso anterior, el profesor podrá rechazar una destinación que le signifique cambio de localidad, sin perder su derecho al ascenso, cuando se encuentre en alguno de los siguientes casos:
+
+a) Cuando acredite mediante certificado médico que él, su cónyuge o sus hijos que sean cargas familiares tienen salud incompatible con el lugar a que haya sido destinado,
+
+b) Cuando le falten menos de dos años para tener derecho a acogerse a jubilación,
+
+c) Cuando habite casa propia en la localidad donde se desempeña al momento de la destinación, y d) Cuando se encuentre en la situación contemplada en el artículo 101 del decreto con fuerza de ley N° 338, de 1960.
+
+Los cónyuges deberán destinarse conjuntamente a una misma localidad, cuando ambos sean profesores dependientes del Ministerio de Educación Pública.
+
+#### Artículo 6°
+
+El nombramiento podrá ser de planta o de reemplazo. El nombramiento de planta será de carácter indefinido; significará la inclusión del profesor en un escalafón y grado determinados, y se hará por decreto o resolución de la autoridad competente.
+
+El nombramiento de reemplazo tendrá carácter temporal por un plazo no superior a seis meses; significará la asimilación del profesor al último grado del escalafón y se hará por resolución de la autoridad regional competente.
+
+El nombramiento del personal docente superior será siempre de planta. El de personal docente propiamente tal podrá ser de planta o de reemplazo.
+
+#### Artículo 7°
+
+La destinación se hará por resolución de la autoridad regional correspondiente. Sin embargo, la destinación que implique cambio de región o que se refiera a grados de docente superiores, se dispondrá por decreto o resolución del Ministerio de Educación Pública. Esta facultad podrá ser delegada.
+
+La destinación podrá ser a uno o a varios establecimientos o reparticiones de la misma localidad.
+
+La primera destinación será dispuesta en el mismo decreto o resolución de nombramiento.
+
+Al personal de planta podrá destinársele en las siguientes calidades: titular, interino o suplente.
+
+La destinación será en calidad de titular, por un tiempo indeterminado, para aquellos profesores que al ser nombrados reúnen todos los requisitos legales y reglamentarios exigidos para ocupar un cargo.
+
+La destinación será en calidad de interino, por un plazo no superior a seis meses, para quienes no reúnan todos los requisitos legales y reglamentarios necesarios para ser titulares, y mientras tanto no los cumplan.
+
+La destinación será en calidad de suplente, respecto de aquellos profesores que se destinen a un cargo, mientras dure la ausencia o impedimento del titular o interino, aun cuando no reúnan todos los requisitos legales y reglamentarios exigidos para ocupar el cargo.
+
+En casos excepcionales, que señalará el reglamento, el personal de planta podrá destinarse, en calidad de interino o suplente, a cumplir funciones de un grado superior y distinto a los que correspondan a su grado de nombramiento.
+
+#### Artículo 8°
+
+Se desempeñarán en calidad de subrogantes aquellos profesores que asumen un cargo por el solo ministerio de la ley, en caso de ausencia temporal o accidental del titular, interino o suplente.
+
+#### Artículo 9°
+
+A falta de profesor de planta, podrá nombrarse profesor de reemplazo, para servir un cargo temporalmente vacante, y deberá reunir los requisitos necesarios para ejercer un cargo docente. Este personal docente no formará parte de escalafón alguno ni quedará, por tanto, sometido a la carrera que crea este decreto ley.
+
+## Título II
+
+Del ingreso y nombramiento
+
+#### Artículo 10°
+
+Para ingresar a la carrera docente, se requiere idoneidad física, cívica, moral y pedagógica y, además, cumplir con los requisitos específicos para cada grado.
+
+#### Artículo 11°
+
+Los requisitos de idoneidad física, cívica y moral son los establecidos en los artículos 11°, 12°, y 13° del decreto con fuerza de ley 338, de 1960.
+
+Poseen idoneidad pedagógica los profesores que estén en posesión del título de Profesor otorgado por las universidades del Estado o reconocidas por éste. Se considerará que poseen dicha idoneidad quienes hayan obtenido el título de Profesor o Normalista otorgado por el Ministerio de Educación Pública, por los institutos o escuelas normales legalmente facultados para ello y quienes estén habilitados para el ejercicio de la función docente según las normas legales vigentes.
+
+Las personas que ejerzan docencia sin tener título profesional correspondiente, deberán realizar un curso de capacitación pedagógica, en la forma y condiciones que determine el reglamento. Si se tratare de clases de religión, deberán, además, poseer un certificado de idoneidad otorgado por la autoridad local superior del credo religioso correspondiente.
+
+#### Artículo 12°
+
+Los requisitos específicos de ingreso y ascenso, en todos y cada uno de los grados del escalafón respectivo, son los señalados en el artículo 24°.
+
+#### Artículo 13°
+
+El personal que ingrese a la carrera docente deberá hacerlo en el último grado del respectivo escalafón. Sin embargo, a los funcionarios pertenecientes a los escalafones de personal no titulado, o contratado como tal, que obtengan el respectivo título de profesor, se le reconocerá el tiempo de servicios docentes para su incorporación a la carrera, en las condiciones que determine el reglamento. En ningún caso esta incorporación podrá significar nombramiento en un grado superior al 16 para la enseñanza básica, prebásica y diferencial, y al 15 para la enseñanza media.
+
+#### Artículo 14°
+
+Cuando no existan profesores titulados o cuando los titulados no sean idóneos, podrá designarse a contrata personal docente sin título, asimilado al último grado del escalafón correspondiente a docentes sin título.
+
+Estas designaciones se renovarán automáticamente si no media decisión de la autoridad de ponerles término, manifestada antes del 1° de diciembre del respectivo año. La renovación en tal calidad podrá hacerse con uno o dos grados de aumento, con respecto al último grado del escalafón correspondiente a docentes sin título, siempre que se cumplan las condiciones y requisitos que señale el reglamento.
+
+#### Artículo 15
+
+Si no hubiere profesores interesados, o cuando a juicio del Ministerio de Educación los interesados no sean idóneos para ocupar puestos de docentes superiores, en funciones correspondientes a equipos técnicos de nivel central, regional o provincial o en Establecimientos de Enseñanza Técnico Profesional, podrá designarse para desempeñarlos a contrata a profesores normalistas o a profesionales universitarios con título afín a la modalidad de que se trate, que no pertenezcan a la Carrera Docente.
+
+Estos profesores o profesionales serán asimilados, para los efectos de su remuneración y funciones, al grado correspondiente al cargo que deban servir, pero no ingresarán a ningún escalafón de la Carrera Docente.
+
+## Título III
+
+De los ascensos
+
+#### Artículo 16°
+
+Los requisitos para ascender se referirán a:
+
+a) Tiempo mínimo de permanencia en un grado;
+
+b) Encontrarse clasificado en las listas que indica el artículo 24°;
+
+c) Aprobación de cursos, permanencia en determinadas zonas, realización de investigaciones o trabajos especiales, para alcanzar ciertos grados.
+
+#### Artículo 17°
+
+habrá dos formas de ascensos:
+
+a) Por requisitos y antecedentes, y
+
+b) Por requisitos y concurso.
+
+#### Artículo 18°
+
+El ascenso por requisitos y antecedentes corresponderá al personal docente propiamente tal, una vez cumplidas las exigencias a que se refieren los artículos 10° y 12°.
+
+Mediante este ascenso, el personal titulado de la enseñanza prebásica, básica y diferencial, podrá alcanzar hasta el grado 15 inclusive; el personal titulado de la enseñanza media, hasta el grado 13 inclusive; y el personal no titulado de la enseñanza media, en actual servicio, hasta el grado 16 inclusive, y de enseñanza prebásica, básica y diferencial, hasta el grado 17 inclusive.
+
+En estos casos, el ascenso regirá desde la fecha en que se cumplan todos los requisitos legales y reglamentarios, y así se reconozca por decreto o resolución de la autoridad competente.
+
+#### Artículo 19°
+
+Se ascenderá por requisitos y concurso a los cargos docentes superiores. Sólo podrán oponerse al concurso los funcionarios del grado inmediatamente anterior, clasificados en lista 1, que cumplan las demás exigencias específicas determinadas en el artículo 24°.
+
+#### Artículo 20°
+
+La Comisión de concursos, su composición y los procedimientos a que deberá someterse serán establecidos en el reglamento.
+
+Al resolver los concursos, la autoridad respectiva deberá considerar los méritos profesionales y antecedentes de los concursantes.
+
+En igualdad de méritos y antecedentes resolverá discrecionalmente.
+
+Los oponentes a un grado concursable sólo podrán reclamar del resultado del concurso cuando se haya infringido el procedimiento y dicha infracción haya influido sustancialmente en él.
+
+#### Artículo 21°
+
+El ascenso por concurso no podrá significar un aumento de más de un grado del correspondiente escalafón.
+
+#### Artículo 22°
+
+El personal docente retirado de la carrera podrá solicitar su reincorporación en cualquier época, en el mismo grado que servía al momento de su retiro. Este derecho no alcanza a quienes hayan debido dejar el servicio por aplicación de una medida disciplinaria, caso en el cual sólo podrá solicitar su reincorporación si previamente ha obtenido su rehabilitación conforme al artículo 24° del decreto con fuerza de ley 338, de 1960; o por calificación insuficiente, caso en el cual sólo podrá solicitarla luego de transcurrir tres años, en la forma que determine el reglamento.
+
+El tiempo cumplido en el último grado de nombramiento, antes de la reincorporación, no se computará útil para el ascenso.
+
+## Título IV
+
+De la formación de los escalafones
+
+#### Artículo 23°
+
+Los escalafones para la carrera docente en la enseñanza prebásica, básica, diferencial y media se formarán sobre la base de los grados de la Escala Unica de Remuneraciones, y dentro de los siguientes
+
+límites:
+
+A) PERSONAL TITULADO.
+
+Enseñanza prebásica, básica y Enseñanza media
+
+diferencial docente superior docente superior
+
+Jefaturas Medias Jefaturas Medias
+
+Grado 9° Grado 8°
+
+Grado 10° Grado 9°
+
+Grado 11° Grado 10°
+
+Grado 12° Grado 11°
+
+Grado 13° Grado 12°
+
+Grado 14°
+
+Docente propiamente tal Docente propia-
+
+mente tal
+
+Grado 15° Grado 13°
+
+Grado 16° Grado 15°
+
+Grado 18° Grado 16°
+
+Grado 20° Grado 18°
+
+B) PERSONAL NO TITULADO QUE SE DESEMPEÑA EN ASIGNATURAS DEL PLAN DIFERENCIADO EN LA ENSEÑANZA PROFESIONAL.
+
+Grado 16°
+
+Grado 17°
+
+Grado 18°
+
+Grado 19°
+
+Grado 20°
+
+C) PERSONAL NO TITULADO EN SERVICIO A LA FECHA DE PUBLICACION DEL PRESENTE DECRETO LEY.
+
+Enseñanza prebásica,
+
+básica y diferencial Enseñanza media
+
+Grado 17° Grado 16°
+
+Grado 18° Grado 17°
+
+Grado 19° Grado 18°
+
+Grado 20° Grado 19°
+
+Grado 21° Grado 20°
+
+#### Artículo 24°
+
+Establécense los siguientes escalafones, requisitos de ingreso y ascenso para el personal docente dependiente del Ministerio de Educación Pública:
+
+A. ESCALAFON EDUCACION PREBASICA
+
+REQUISITOS PARA ASCENDER AL GRADO SUPERIOR
+
+Cargos Cargos Años de Lista de Otros
+
+Grado Tipos Homól. Serv. Clasific. Req.
+
+-------------------------------------------------------
+
+Docentes Superiores
+
+11° Coordi- Miembro equipo
+
+nador técnico nivel
+
+Regio- central, Nivel I
+
+nal Miembro equipo
+
+técnico nivel
+
+regional,
+
+Niv. I Profesor
+
+Investigador,
+
+Nivel I
+
+12° Director Miembro equipo 1 año Lista 1
+
+Escuela técnico nivel en el último
+
+Parvula- Central, grado año
+
+ria "E" Nivel II
+
+Miembro equipo
+
+técnico nivel
+
+regional,
+
+Niv. II
+
+Miembro equipo
+
+técnico nivel
+
+provincial,
+
+Nivel I
+
+Profesor
+
+Investigador,
+
+Nivel II
+
+13° Director Miembro equipo 1 año Lista 1
+
+Escuela técnico en el último
+
+Parvula- regional, grado año
+
+ria Nivel III
+
+"F" Miembro equipo
+
+técnico nivel
+
+provincial,
+
+Nivel II
+
+Profesor
+
+Investigador,
+
+Nivel III
+
+Miembro Unidad
+
+Técnico-Pedagógica,
+
+Nivel I
+
+14° Sub-Di- Miembro equipo 1 año Lista 1 Curso
+
+rector técnico regional, en el último de
+
+Escuela Nivel IV grado año Administ.
+
+Parvu- Miembro equipo para
+
+laria técnico nivel Docentes
+
+"E" provincial, Superio-
+
+Nivel III res
+
+Jefe Area
+
+Parvularia
+
+Escuela Básica
+
+Profesor
+
+Ayudante de
+
+Investigación
+
+Miembro Unidad
+
+Técnico
+
+Pedagógica,
+
+Nivel II
+
+-------------------------------------------------------
+
+REQUISITOS PARA ASCENDER AL GRADO SUPERIOR
+
+Cargos Cargos Años de Lista de Otros
+
+Grado Tipos Homól. Serv. Clasific. Req.
+
+-------------------------------------------------------
+
+DOCENTES PROPIAMENTE TALES
+
+15° Profesor Miembro equipo 1 año Lista 1 Trabajo
+
+Parvula- técnico de en el último Profe-
+
+rio Escuela grado año sional
+
+Parvularia aproba-
+
+Director Escuela do o
+
+Parvularia "G" Curso
+
+de
+
+Especia-
+
+lidad en
+
+materias
+
+afines
+
+con la
+
+educa-
+
+ción
+
+del
+
+párvulo.
+
+16° Profesor Director Escuela 4 años Lista Trabajo
+
+parvula- Parvularia "G" en el 1 ó 2 Profe-
+
+rio grado último sional
+
+año aproba-
+
+do.
+
+Curso de
+
+perfe-
+
+cciona-
+
+miento
+
+de 60
+
+horas
+
+como
+
+mínimo
+
+o desem-
+
+peño
+
+escuelas
+
+rurales
+
+por dos
+
+años.
+
+18° Profesor Director Escuela 4 años Lista
+
+Parvula- Parvularia "G" en el 1 ó 2
+
+rio grado último
+
+año
+
+REQUISITOS DE INGRESO A ESTE ESCALAFON :
+
+- Título de Profesor Normalista, con mención en
+
+Párvulos
+
+- Título de Profesor Parvulario
+
+- Título de Educadora de Párvulos
+
+- Profesores habilitados para ejercer la función
+
+docente según las normas legales vigentes.
+
+B. ESCALAFON EDUCACION GENERAL BASICA
+
+DOCENTES SUPERIORES
+
+9° Director Jefes Areas
+
+Provin- Secretarías
+
+cial de Regionales
+
+Educa- Ministeriales
+
+ción Miembro equipo
+
+técnico nivel
+
+central, Nivel I
+
+-------------------------------------------------------
+
+REQUISITOS PARA ASCENDER AL GRADO SUPERIOR
+
+Cargos Cargos Años de Lista de Otros
+
+Grado Tipos Homól. Serv. Clasific. Req.
+
+-------------------------------------------------------
+
+DOCENTES SUPERIORES
+
+Miembro equipo
+
+técnico nivel
+
+regional,
+
+Nivel I
+
+Miembro equipo
+
+técnico nivel
+
+provincial,
+
+Nivel I
+
+Director Liceo
+
+"B"
+
+Subdirector
+
+Liceo "A"
+
+10° Director Miembro equipo 1 año Lista 1
+
+Departa- técnico nivel en el último
+
+mental o central, Nivel grado año
+
+Local de II Miembro
+
+Educa- equipo técnico
+
+ción nivel Regional,
+
+Nivel II
+
+Miembro equipo
+
+técnico nivel
+
+provincial,
+
+Nivel II
+
+Profesor Inves-
+
+tigador, Nivel I
+
+Director Liceo
+
+"C"
+
+Subdirector Liceo
+
+"B"
+
+Inspector General
+
+Liceo "A"
+
+Jefe de la Unidad
+
+Técnico Pedagógica
+
+del Liceo "A"
+
+11° Director Miembro equipo 1 año Lista 1
+
+de Escue- técnico nivel en el último
+
+la "D" central, grado año
+
+Nivel III
+
+Miembro equipo
+
+técnico nivel
+
+regional, Nivel
+
+III Miembro equipo
+
+técnico nivel
+
+provincial, Nivel
+
+### III. Subdirector Liceo
+
+"C"
+
+Inspector General
+
+Liceo "B"
+
+Jefe de Unidad
+
+Técnico Pedagógica
+
+del Liceo "B"
+
+Miembro Unidad
+
+Técnico Pedagógica,
+
+Nivel I Profesor
+
+Investigador,
+
+Nivel II
+
+-------------------------------------------------------
+
+REQUISITOS PARA ASCENDER AL GRADO SUPERIOR
+
+Cargos Cargos Años de Lista de Otros
+
+Grado Tipos Homól. Serv. Clasific. Req.
+
+-------------------------------------------------------
+
+DOCENTES SUPERIORES
+
+12° Director Miembro equipo 1 año Lista 1
+
+Escuela técnico nivel en el último
+
+"E" regional, grado año
+
+Nivel IV
+
+Miembro equipo
+
+técnico nivel
+
+provincial,
+
+Nivel IV
+
+Subdirector
+
+Escuela "D"
+
+Inspector General
+
+Liceo "C"
+
+Jefe de la Unidad
+
+Técnico Pedagógica
+
+del Liceo "C"
+
+Miembro Unidad
+
+Técnico Pedagógica,
+
+Nivel II
+
+Profesor
+
+Investigador,
+
+Nivel III
+
+13° Director Miembro equipo 1 año Lista 1
+
+Escuela técnico nivel en el último
+
+"F" regional, grado año
+
+Nivel V
+
+Miembro equipo
+
+técnico Nivel
+
+Provincial,
+
+Nivel V
+
+Subdirector
+
+Escuela "E"
+
+Inspector
+
+General Escuela
+
+"D"
+
+Jefe de Unidad
+
+Técnico
+
+Pedagógica "D"
+
+Profesor
+
+Investigador,
+
+Nivel IV
+
+14° Inspector Miembro equipo 1 año Lista 1 Curso
+
+General técnico en el último de
+
+Escuela provincial, grado año adminis-
+
+"E" Nivel VI tración
+
+Jefe Unidad para
+
+Técnico Docentes
+
+Pedagógica, Superio-
+
+Escuela "D" o res.
+
+"E"
+
+Miembro Unidad
+
+Técnico
+
+Pedagógica,
+
+Nivel III
+
+Profesor
+
+Ayudante de
+
+Investigación
+
+Inspector
+
+General de
+
+Escuela "F"
+
+-------------------------------------------------------
+
+REQUISITOS PARA ASCENDER AL GRADO SUPERIOR
+
+Cargos Cargos Años de Lista de Otros
+
+Grado Tipos Homól. Serv. Clasific. Req.
+
+-------------------------------------------------------
+
+DOCENTES PROPIAMENTE TALES
+
+15° Profesor Director Escuela 1 año Lista Curso
+
+"G" en el 1 úl- de
+
+grado timo Especia-
+
+año lización
+
+en Eva-
+
+luación,
+
+Supervi-
+
+sión y
+
+Planifi-
+
+cación
+
+u otra
+
+según
+
+progra-
+
+mación
+
+CPEIP
+
+con
+
+Dto. de
+
+Adminis-
+
+tración
+
+de
+
+Personal
+
+y Direc-
+
+ción
+
+de Edu-
+
+cación.
+
+Inspector General
+
+Escuela "F"
+
+Miembro equipo
+
+Técnico de la
+
+Escuela
+
+Profesor Escuelas
+
+Parvularias
+
+Profesor Escuelas
+
+Diferenciales
+
+5° Profesor Director Escuela 4 años Lista Curso
+
+Basico "G" en el 1 ó 2 de
+
+grado último Perfec-
+
+año ciona-
+
+miento
+
+con un
+
+mínimo
+
+de 60
+
+hrs. de
+
+acuerdo
+
+a pro-
+
+grama-
+
+ción
+
+del
+
+CPEIP.
+
+Profesor Escuelas
+
+Parvularias
+
+Profesor Escuelas
+
+Diferenciales
+
+18° Profesor Director Escuela 4 años Lista Trabajo
+
+"G" en el 1 ó 2 Profe-
+
+grado último sional
+
+año aprobado
+
+y dos
+
+años de
+
+desempe-
+
+ño en
+
+escuelas
+
+rurales
+
+Profesor Escuela
+
+Parvularia
+
+Profesor Escuelas
+
+Diferenciales
+
+20° Profesor Director Escuela 4 años Lista
+
+"G" en el 1 ó 2
+
+grado último
+
+año
+
+Profesor Escuelas
+
+Parvularias
+
+Profesor Escuelas
+
+Diferenciales
+
+-------------------------------------------------------
+
+REQUISITOS PARA ASCENDER AL GRADO SUPERIOR
+
+Cargos Cargos Años de Lista de Otros
+
+Grado Tipos Homól. Serv. Clasific. Req.
+
+-------------------------------------------------------
+
+REQUISITOS DE INGRESO A ESTE ESCALAFON
+
+- Título de Profesor Normalista
+
+- Título de Profesor de Enseñanza General Básica
+
+- Título de Profesor Normalista con mención
+
+- Título de Profesor de Enseñanza General Básica con mención - Profesores habilitados para ejercer la función docente según las normas legales vigentes.
+
+C. ESCALAFON EDUCACION ESPECIAL O DIFERENCIAL
+
+DOCENTES SUPERIORES
+
+9° Miembro Miembro equipo
+
+equipo técnico educación
+
+técnico diferencial nivel
+
+nivel regional, Nivel I
+
+central Miembro equipo
+
+de educa- técnico educación
+
+ción diferencial nivel
+
+diferen- provincial,
+
+cial, Nivel I
+
+Nivel I Director Provincial
+
+de educación
+
+10° Coordina- Miembro equipo 1 año Lista 1
+
+dor técnico en el último
+
+Regional educación grado año
+
+y/o diferencial
+
+Provin- nivel central,
+
+cial, Nivel II
+
+Nivel I Miembro equipo
+
+de Educa- técnico
+
+ción educación
+
+Diferen- diferencial
+
+cial nivel regional,
+
+Nivel II
+
+Miembro equipo
+
+técnico
+
+educación
+
+diferencial
+
+nivel
+
+provincial,
+
+Nivel II
+
+Director
+
+Departamental
+
+o Local de
+
+Educación
+
+Profesor
+
+Investigador,
+
+Nivel I
+
+-------------------------------------------------------
+
+REQUISITOS PARA ASCENDER AL GRADO SUPERIOR
+
+Cargos Cargos Años de Lista de Otros
+
+Grado Tipos Homól. Serv. Clasific. Req.
+
+-------------------------------------------------------
+
+DOCENTES SUPERIORES
+
+11° Director Coordinador 1 año Lista 1
+
+Escuela provincial de en el último
+
+Educa- educación grado año
+
+ción diferencial,
+
+Diferen- Nivel II Director
+
+cial "D" Centro de
+
+Diagnóstico
+
+Miembro equipo
+
+técnico educación
+
+diferencial
+
+nivel
+
+regional,
+
+Nivel III
+
+Miembro equipo
+
+técnico
+
+educación
+
+diferencial nivel
+
+provincial,
+
+Nivel III
+
+Miembro Unidad
+
+Técnico
+
+Pedagogica,
+
+Nivel I.
+
+Profesor
+
+Investigador,
+
+Nivel II
+
+Director
+
+Centro
+
+Capacitación
+
+Laboral
+
+12° Director Miembro equipo 1 año Lista 1
+
+Escuela técnico en el último
+
+Educa- educación grado año
+
+ción diferencial
+
+Diferen nivel
+
+cial "E" provincial.
+
+Nivel IV
+
+Miembro Unidad
+
+técnico
+
+Pedagógica,
+
+Nivel II
+
+Subdirector
+
+Escuela
+
+Diferencial "D"
+
+Profesor
+
+Investigador,
+
+Nivel III
+
+13° Director Miembro equipo 1 año Lista 1
+
+Escuela técnico en el último
+
+Educa- educación grado año
+
+ción diferencial nivel
+
+Diferen- provincial,
+
+cial "F" Nivel V
+
+Subdirector Escuela
+
+Diferencial "E"
+
+Miembro Unidad
+
+técnico pedagógica,
+
+Nivel III
+
+Profesor Ayudante de
+
+Investigación,
+
+Nivel I
+
+-------------------------------------------------------
+
+REQUISITOS PARA ASCENDER AL GRADO SUPERIOR
+
+Cargos Cargos Años de Lista de Otros
+
+Grado Tipos Homól. Serv. Clasific. Req.
+
+-------------------------------------------------------
+
+DOCENTES SUPERIORES
+
+14° Jefe Miembro equipo 1 año Lista 1 Curso de
+
+Gabinete técnico escuela, en el último adminis-
+
+Técnico Nivel I grado año tración
+
+Escuela Profesor Ayudante para
+
+Diferen- de Investigación, Docentes
+
+cial Nivel II Supe-
+
+"E" o "F" riores
+
+DOCENTES PROPIAMENTE TALES
+
+15° Profesor Miembro equipo 1 año Lista 1 Curso
+
+técnico escue- en el último especia-
+
+la, Nivel II grado año lidad en
+
+Inspector Gene- Orienta-
+
+ral de Escuelas ción,
+
+Diferenciales Evalua-
+
+con internado. ción,
+
+Planifi-
+
+cación
+
+u otra
+
+de
+
+acuerdo
+
+a pro-
+
+grama-
+
+ción
+
+CPEIP
+
+con
+
+Depto.
+
+de
+
+Adminis-
+
+tración
+
+de Per-
+
+sonal y
+
+Direcc.
+
+de Edu-
+
+cación.
+
+16° Profesor Miembro equipo 4 años Lista 1 Trabajo
+
+técnico de en el ó 2 profe-
+
+Escuela, grado último sional
+
+Nivel III año aproba-
+
+do.
+
+Curso de
+
+perfec-
+
+ciona-
+
+miento
+
+con un
+
+mínimo
+
+de 60
+
+horas de
+
+acuerdo
+
+con la
+
+progra-
+
+mación
+
+CPEIP
+
+18° Profesor 4 años Lista 1
+
+en el ó 2
+
+grado último
+
+año
+
+REQUISITOS DE INGRESO A ESTE ESCALAFON
+
+- Título de Profesor con curso para Educación Diferencial - Título profesional universitario afín con las asignaturas del Plan Diferenciado de Capacitación Laboral - Profesores habilitados para ejercer la función docente según las normas legales vigentes.
+
+-------------------------------------------------------
+
+REQUISITOS PARA ASCENDER AL GRADO SUPERIOR
+
+Cargos Cargos Años de Lista de Otros
+
+Grado Tipos Homól. Serv. Clasific. Req.
+
+-------------------------------------------------------
+
+D. ESCALAFON EDUCACION MEDIA
+
+8° Director Miembro equipo
+
+Liceo técnico de
+
+"A" escuela,
+
+Nivel III
+
+Jefes Area
+
+Secretarías
+
+Regionales
+
+Ministeriales.
+
+Miembro equipo
+
+técnico nivel
+
+regional, Nivel I
+
+9° Director Subdirector 1 año Lista 1
+
+Liceo "B" Liceo "A" en el último
+
+Miembro equipo grado año
+
+técnico nivel
+
+central,
+
+Nivel II
+
+Miembro equipo
+
+técnico nivel
+
+regional,
+
+Nivel II
+
+Miembro equipo
+
+técnico nivel
+
+provincial,
+
+Nivel I
+
+Director
+
+Provincial de
+
+Educación
+
+10° Director Subdirector 1 año Lista 1
+
+Liceo Liceo "B" en el último
+
+"C" Inspector grado año
+
+General Liceo
+
+"A" Jefe Unidad
+
+Técnico
+
+pedagógica
+
+Liceo "A"
+
+Jefe de Unidad
+
+Producción Liceo
+
+"A"
+
+Miembro equipo
+
+técnico nivel
+
+central, Nivel III
+
+Miembro equipo
+
+técnico nivel
+
+regional, Nivel III
+
+Miembro equipo
+
+técnico nivel
+
+provincial,
+
+Nivel II
+
+Director
+
+Departamental o
+
+local de educación
+
+Profesor
+
+Investigador,
+
+Nivel I
+
+-------------------------------------------------------
+
+REQUISITOS PARA ASCENDER AL GRADO SUPERIOR
+
+Cargos Cargos Años de Lista de Otros
+
+Grado Tipos Homól. Serv. Clasific. Req.
+
+-------------------------------------------------------
+
+11° Inspector Miembro equipo 1 año Lista 1 o 2
+
+General técnico nivel en el último
+
+Liceo regional, grado año
+
+"B" Nivel IV
+
+Miembro equipo
+
+técnico nivel
+
+provincial,
+
+Nivel III
+
+Subdirector
+
+Liceo "C"
+
+Jefe Unidad
+
+Técnico
+
+Pedagógica
+
+Liceo "B"
+
+Jefe Unidad
+
+Producción
+
+Liceo "B"
+
+Miembro Unidad
+
+Técnico
+
+Pedagógica,
+
+Nivel I
+
+Profesor
+
+Investigador,
+
+Nivel II
+
+Director Escuela
+
+"D"
+
+12° Inspector Miembro equipo 1 año Lista 1 Curso
+
+General técnico nivel en el último de
+
+Liceo "C" regional, grado año Adminis-
+
+Nivel V tración
+
+Miembro equipo para
+
+técnico nivel docentes
+
+provincial, superio-
+
+Nivel IV res
+
+Jefe Unidad
+
+Técnico
+
+Pedagógica
+
+Liceo "C"
+
+Jefe Unidad
+
+Producción
+
+Liceo "C"
+
+Miembro Unidad
+
+Técnico
+
+pedagógica,
+
+Nivel II
+
+Profesor
+
+Investigador,
+
+Nivel III
+
+Director Escuela
+
+"E"
+
+Subdirector
+
+Escuela "D"
+
+DOCENTES PROPIAMENTE TALES
+
+13° Profesor Miembro equipo 1 año Lista 1 Curso de
+
+técnico del en el último especia-
+
+establecimiento cargo año liza-
+
+ción en
+
+Orienta-
+
+ción,
+
+Supervi-
+
+sión,
+
+Evalua-
+
+ción,
+
+Planifi-
+
+cación
+
+u otra
+
+de acuer-
+
+do a
+
+progra-
+
+mación
+
+del
+
+CPEIP
+
+con
+
+Depto.
+
+Admi-
+
+nistra-
+
+ción
+
+de Per-
+
+sonal y
+
+Dire-
+
+cción
+
+de
+
+Educa-
+
+ción
+
+-------------------------------------------------------
+
+REQUISITOS PARA ASCENDER AL GRADO SUPERIOR
+
+Cargos Cargos Años de Lista de Otros
+
+Grado Tipos Homól. Serv. Clasific. Req.
+
+-------------------------------------------------------
+
+15° Profesor 3 años Lista 2 años
+
+en el 1 ó 2 de Jefa-
+
+grado último tura de
+
+año curso o
+
+2 años
+
+de de-
+
+sempeño
+
+prácti-
+
+co de
+
+una es-
+
+peciali-
+
+dad.
+
+16° Profesor 3 años Lista 2 años
+
+en el 1 ó 2 de de-
+
+grado último sempeño
+
+año en es-
+
+tableci-
+
+miento
+
+de
+
+ciudades
+
+que no
+
+sean
+
+cabece-
+
+ras de
+
+provin-
+
+cia o
+
+región.
+
+Trabajo
+
+profe-
+
+sional
+
+aprobado
+
+o curso
+
+de per-
+
+feccio-
+
+namiento
+
+con un
+
+mínimo
+
+de 60
+
+horas,
+
+de
+
+acuerdo
+
+a pro-
+
+grama-
+
+ción
+
+del
+
+CPEIP.
+
+18° Profesor 3 años Lista
+
+en el 1 ó 2
+
+grado últi-
+
+mo año
+
+REQUISITOS DE INGRESO A ESTE ESCALAFON
+
+- Título de Profesor otorgado por una Universidad del Estado o particular reconocida por éste.
+
+- Título profesional universitario afín con la asignatura que imparta para el Plan Diferenciado de la enseñanza Técnico Profesional.
+
+- Profesores habilitados para el ejercicio de la profesión docente según las normas legales vigentes.
+
+E. ESCALAFON DEL PERSONAL NO TITULADO DE LA ENSEÑANZA MEDIA TECNICO PROFESIONAL DEL PLAN DIFERENCIADO
+
+-------------------------------------------------------
+
+REQUISITOS PARA ASCENDER AL GRADO SUPERIOR
+
+Cargos Cargos Años de Lista de Otros
+
+Grado Tipos Homól. Serv. Clasific. Req.
+
+-------------------------------------------------------
+
+16° Profesor Jefe Técnico
+
+Jefe Asignatura
+
+Jefe Especialidad
+
+17° Profesor Jefe Técnico 2 años Lista 1
+
+Jefe Asignatura en el último
+
+Jefe Especialida- grado año
+
+des
+
+18° Profesor 2 años Lista 1 Trabajo
+
+en el ó 2 profe-
+
+grado último sional
+
+año aprobado
+
+Curso de
+
+Perfec-
+
+ciona-
+
+miento
+
+en su
+
+especia-
+
+lidad.
+
+19° Profesor 4 años Lista 1
+
+en el ó 2
+
+grado último
+
+año
+
+20° Profesor 4 años Lista 1
+
+en el ó 2
+
+grado último
+
+año
+
+REQUISITOS DE INGRESO A ESTE ESCALAFON
+
+- Título Técnico para la Especialidad o Idoneidad acreditada en la forma que determine el regla-
+
+mento.
+
+F. ESCALAFON DEL PERSONAL NO TITULADO EN ACTUAL
+
+SERVICIO (EN EXTINCION)
+
+-------------------------------------------------------
+
+REQUISITOS PARA ASCENDER AL GRADO SUPERIOR
+
+Enseñanza
+
+pre-básica,
+
+básica y
+
+diferencial
+
+-------------------------------------------------------
+
+Grado enseñanza Años de Lista de Otros
+
+Grado media Serv. Clasific. Req.
+
+-------------------------------------------------------
+
+17° 16°
+
+18° 17° 2 años Lista 1
+
+en el último
+
+grado año
+
+19° 18° 2 años Lista 1
+
+en el ó 2
+
+grado último
+
+año
+
+20° 19° 4 años Lista 1
+
+en el ó 2
+
+grado último
+
+año
+
+21° 20° 4 años Lista 1
+
+en el ó 2
+
+grado último
+
+año
+
+REQUISITOS DE INGRESO A ESTE ESCALAFON :
+
+- Egresado de Enseñanza Media.
+
+-------------------------------------------------------
+
+#### Artículo 25°
+
+El reglamento determinará cuáles son escuelas rurales para los efectos de cumplimiento de requisitos de ascenso.
+
+#### Artículo 26°
+
+Para ingresar a cualquier escalafón del personal docente se requiere aceptar la primera destinación.
+
+La no asunción de funciones dentro del término que establezca el respectivo decreto o resolución, será causal suficiente para dejar sin efecto el nombramiento.
+
+#### Artículo 27°
+
+El docente propiamente tal que obtenga un título profesional universitario correspondiente a otro escalafón de la carrera docente, podrá solicitar cambio de escalafón hasta con el mismo grado que posee, siempre que cumpla con los demás requisitos propios del nuevo escalafón.
+
+#### Artículo 28°
+
+DEROGADO.-
+
+> **Nota.** NOTA 1 Esta derogación es sin perjuicio que las personas con título de profesor puedan ser nombradas y contratadas en empleos de los escalafones del Ministerio de Educación Pública, de acuerdo con la legislación vigente, según lo dispone el artículo 102 de la Ley l8591.
+
+> **Nota.** NOTA 2 Lo dispuesto en el artículo 102 de la ley 18591, regirá a contar del 1° de enero de 1987. (Ley 18.591, Art. 110).
+
+#### Artículo 29°
+
+Los escalafones fijados en el artículo 24° de este decreto ley no podrán alterar la situación previsional existente.
+
+## Título V
+
+De las remuneraciones
+
+#### Artículo 30°
+
+A contar de la fecha de vigencia de este decreto ley, el personal afecto a él percibirá sus remuneraciones de acuerdo al grado de nombramiento que le corresponda y gozará de las remuneraciones adicionales que fija el decreto ley 249, de 1973, y sus modificaciones, excepto la asignación profesional.
+
+#### Artículo 31°
+
+Sustitúyese para el personal docente, desde la vigencia de este decreto ley, el sistema de aumentos trienales del artículo 305° del decreto con fuerza de ley 338, de 1960, por el sistema de bienios contemplado en el artículo 6° del decreto ley 249, de 1973.
+
+#### Artículo 32°
+
+Establécese una asignación docente, equivalente a la asignación establecida en el artículo 3° del decreto ley 479, de 1974, para el personal docente titulado, que desempeñe efectivamente 44 horas semanales de trabajo.
+
+El personal titulado, nombrado en cualquiera de los grados de sus respectivos escalafones, que cumpla una jornada semanal de trabajo de 30 horas cronológicas, percibirá el 50% de esta asignación.
+
+Para estos efectos, se entiende por personal titulado aquel que tenga título de profesor normalista, de profesor normalista con mención en párvulos, de profesor de enseñanza general básica, de profesor normalista con mención, de profesor de enseñanza general básica con mención, de profesor parvulario, de educadora de párvulos, de profesor con Título del Estado y de profesor con título de alguna universidad del Estado o reconocida por éste.
+
+Asimismo, en la enseñanza técnico profesional se entiende por personal títulado:
+
+a) El que desempeña asignaturas del plan diferenciado, cuando posea título profesional universitario afín a dichas asignaturas, y b) el profesional universitario que desempeña cargos docente superiores.
+
+#### Artículo 33°
+
+El personal docente nombrado con una jornada parcial, sólo tendrá derecho a la parte proporcional de las remuneraciones correspondientes a su grado de nombramiento y demás asignaciones, excluida la asignación docente, en su caso.
+
+#### Artículo 34°
+
+Las remuneraciones que deba percibir el personal de planta que sea destinado en calidad de interino, suplente o subrogante a un cargo de grado superior y distinto al de su nombramiento, serán exclusivamente las de su grado de nombramiento.
+
+#### Artículo 35°
+
+Las remuneraciones que correspondan al personal docente de reemplazo, serán las del último grado del respectivo escalafón.
+
+## Título VI
+
+De los horarios
+
+#### Artículo 36°
+
+Los funcionarios docentes del grado 21 al 15 inclusive, en la enseñanza prebásica, básica y diferencial, y los del grado 20 al 13 inclusive, en la enseñanza media, tendrán una jornada semanal de trabajo de 30 horas cronológicas.
+
+El personal docente superior del grado 14 al 9 en la enseñanza prebásica, básica y diferencial, y el del grado 12 al 8 en la enseñanza media, cumplirá una jornada de trabajo de 44 horas semanales.
+
+Con todo, el personal a que se refiere el inciso primero podrá optar por cumplir una jornada de trabajo de 44 horas semanales, en la forma y condiciones que se establecen en los artículos siguientes.
+
+#### Artículo 37°
+
+El derecho de opción al desempeño de 44 horas cronológicas para los docentes propiamente tales, se regirá por las normas del reglamento del presente decreto ley.
+
+#### Artículo 38°
+
+Las horas disponibles son inherentes al establecimiento y no son propiedad del docente. En consecuencia, cuando se produzca disminución de horas disponibles en el establecimiento se podrá poner término a la ampliación de horario respecto de uno o más docentes en la forma que determine el reglamento.
+
+En ningún caso podrá la autoridad dejar sin efecto la ampliación horaria durante el año escolar.
+
+#### Artículo 39°
+
+La jornada de trabajo y el horario que deba cumplir el personal docente que se desempeñe en establecimientos educacionales se distribuirán durante la semana, de acuerdo a las necesidades de éstos, pudiendo extenderse a días domingos y festivos, según lo dispuesto en el título II, párrafo 9°, artículos 79° y siguientes, del decreto con fuerza de ley 338, de 1960.
+
+El horario se podrá cumplir en el desarrollo de funciones docentes o en actividades de colaboración a esta labor.
+
+#### Artículo 40°
+
+El Ministro de Educación Pública, a través de las autoridades competentes, podrá hacer nombramientos de planta o de reemplazo, con jornadas inferiores a las establecidas en este decreto ley, cuando existan, a su juicio, impedimentos que hagan técnica o materialmente imposible cumplir las jornadas de trabajo semanal establecidas.
+
+Este personal podrá optar por la jornada completa cuando desaparezcan esos impedimentos, en cuyo caso conservará su mismo grado del escalafón.
+
+#### Artículo 40° bis
+
+A los profesores de la enseñanza profesional que con motivo de reducciones de horarios en los planes de estudio, cambios o supresiones de los programas correspondientes o disminución de matrícula, queden sin funciones docentes o con jornadas parciales se les suprimirá o reducirá la jornada de trabajo a la fracción que corresponda a las necesidades del servicio.
+
+La renuncia que deberá presentar el profesor, en el caso de supresión o reducción de jornada a que se refiere el inciso anterior, se entenderá que es no voluntaria para todos los efectos legales.
+
+## Título VII
+
+De las compatibilidades e incompatibilidades
+
+#### Artículo 41°
+
+El régimen de compatibilidades e incompatibilidades aplicable a la carrera docente será el general de la Administración del Estado.
+
+El nombramiento en un grado de esta carrera docente será incompatible con cualquier otro nombramiento en ella, salvo en los casos de jornadas parciales, en que la incompatibilidad afectará sólo a esa jornada.
+
+Los profesores jubilados podrán desempeñar hasta un tercio de jornada como máximo, compatible con su jubilación.
+
+## Título VIII — DEROGADO.-
+
+De las calificaciones
+
+#### Artículo 42°
+
+DEROGADO.-
+
+#### Artículo 43°
+
+DEROGADO.-
+
+#### Artículo 44°
+
+DEROGADO.-
+
+#### Artículo 45°
+
+DEROGADO.-
+
+#### Artículo 46°
+
+DEROGADO.-
+
+#### Artículo 47°
+
+DEROGADO.-
+
+#### Artículo 48°
+
+DEROGADO.-
+
+#### Artículo 49°
+
+DEROGADO.-
+
+#### Artículo 50°
+
+DEROGADO.-
+
+#### Artículo 51°
+
+DEROGADO.-
+
+#### Artículo 52°
+
+DEROGADO.-
+
+## Título IX — DEROGADO.-
+
+De la responsabilidad administrativa
+
+### Párrafo 1
+
+Sistema disciplinario
+
+#### Artículo 53°
+
+DEROGADO.-
+
+#### Artículo 54°
+
+DEROGADO.-
+
+#### Artículo 55°
+
+DEROGADO.-
+
+#### Artículo 56°
+
+DEROGADO.-
+
+### Párrafo 2°
+
+Clasificación de las infracciones
+
+#### Artículo 57°
+
+DEROGADO.-
+
+### Párrafo 3
+
+Medidas disciplinarias
+
+#### Artículo 58°
+
+DEROGADO.-
+
+#### Artículo 59°
+
+DEROGADO.-
+
+#### Artículo 60°
+
+DEROGADO.-
+
+#### Artículo 61°
+
+DEROGADO.-
+
+#### Artículo 62°
+
+DEROGADO.-
+
+#### Artículo 63°
+
+DEROGADO.-
+
+#### Artículo 64°
+
+DEROGADO.-
+
+#### Artículo 65°
+
+DEROGADO.-
+
+#### Artículo 66°
+
+DEROGADO.-
+
+#### Artículo 67°
+
+DEROGADO.-
+
+#### Artículo 68°
+
+DEROGADO.-
+
+#### Artículo 69°
+
+DEROGADO.-
+
+#### Artículo 70°
+
+DEROGADO.-
+
+## Título X
+
+Disposiciones finales
+
+#### Artículo 71°
+
+El Presidente de la República dictará el reglamento de este decreto ley dentro del plazo de 40 días contado desde la fecha de su publicación.
+
+#### Artículo 72°
+
+El presente decreto ley se aplicará al personal docente con preferencia a toda disposición que afecte a estos funcionarios y al respecto, deberán entenderse modificadas todas las normas legales incompatibles con sus preceptos.
+
+En todo lo no contemplado en este decreto ley, regirá lo dispuesto en el decreto con fuerza de ley 338, de 1960, y sus normas complementarias.
+
+#### Artículo 73°
+
+DEROGADO.-
+
+> **Nota.** El artículo 47 del Decreto con Fuerza de Ley N° 5, del Ministerio de Educación, publicado en el "Diario Oficial" de 9 de Marzo de 1993, ordenó derogar el presente artículo, a contar del 1° de noviembre de 1980.
+
+#### Artículo 74°
+
+Derógase el artículo 43° del decreto con fuerza de ley 5.291, de 22 de noviembre de 1929.
+
+#### Artículo 75°
+
+El mayor gasto que irrogue la aplicación de este decreto ley se financiará con los mayores ingresos que produzcan las disposiciones tributarias vigentes.
+
+#### Artículo 76°
+
+El presente decreto ley regirá a contar del 1° de septiembre de 1978.
+
+ARTICULOS TRANSITORIOS
+
+#### Artículo 1°
+
+El Presidente de la República dentro del plazo de 60 días, contado desde la fecha de publicación del presente decreto ley, dictará las normas por las que se clasificarán los establecimientos educacionales, fiscales y reclasificará los existentes. Tal reclasificación, que será previa al proceso de encasillamiento del personal docente, regirá desde la vigencia de este decreto ley.
+
+El proceso de encasillamiento del personal de la carrera docente, deberá realizarse en el plazo de 90 días, contado desde el 1° de septiembre de 1978, y regirá a partir de esa misma fecha.
+
+#### Artículo 2°
+
+El encasillamiento de los profesores se
+
+regirá por las reglas que a continuación se señalan:
+
+1) El personal docente superior de la enseñanza prebásica, diferencial y media será encasillado discrecionalemnte en los escalafones a que se refiere el artículo 24, con la asignación de antigüedad que le corresponda a los años de servicios que tenga en el sector público, con un máximo de hasta 30 años.
+
+2) El personal docente propiamente tal será encasillado según las reglas indicadas en los números
+
+siguientes, en un determinado grado y con el número de bienios que le corresponda.
+
+Los años de servicios computables para estos efectos son los efectivos que tenga en el sector público.
+
+La asignación de bienios se incrementará, desde la fecha del decreto de encasillamiento, de acuerdo con las reglas generales aplicables al personal afecto a la Escala Unica de Remuneraciones.
+
+3) Se considerará en este encasillamiento al
+
+personal que tenga nombramiento, ya sea en calidad de
+
+propietario, interino o suplente, y a aquel personal que
+
+haya asumido funciones según las normas legales
+
+vigentes.
+
+4) El personal docente titulado en la enseñanza
+
+básica, será encasillado:
+
+a) Con 0 a menos de 2 años de servicios, en grado 20
+
+y 0 bienio.
+
+b) Con 2 a menos de 4 años de servicios, en grado 20
+
+y 1 bienio.
+
+c) Con 4 a menos de 6 años de servicios, en grado 18
+
+y 0 bienio.
+
+d) Con 6 a menos de 8 años de servicios, en grado 18
+
+y 1 bienio.
+
+e) Con 8 a menos de 10 años de servicios, en grado
+
+16 y 0 bienio.
+
+f) Con 10 a menos de 12 años de servicios, en grado
+
+16 y 1 bienio.
+
+g) Con 12 a menos de 14 años de servicios, en grado
+
+15 y 0 bienio.
+
+h) Con 14 a menos de 16 años de servicios, en grado
+
+15 y 1 bienio.
+
+i) Con 16 a menos de 18 años de servicios, en grado
+
+15 y 2 bienios.
+
+j) Con 18 a menos de 20 años de servicios, en grado
+
+15 y 3 bienios.
+
+k) Con 20 a menos de 22 años de servicios, en grado
+
+15 y 4 bienios.
+
+l) Con 22 a menos de 24 años de servicios, en grado
+
+15 y 5 bienios.
+
+m) Con 24 a menos de 26 años de servicios, en grado
+
+15 y 6 bienios.
+
+n) Con 26 a menos de 28 años de servicios, en grado
+
+15 y 7 bienios.
+
+ñ) Con 28 a menos de 30 años de servicios, en grado
+
+15 y 8 bienios.
+
+o) Con 30 a menos de 32 años de servicios, en grado
+
+15 y 9 bienios.
+
+p) Con 32 o más años de servicios, en grado 15 y 10
+
+bienios.
+
+5) El personal titulado en la enseñanza prebásica y
+
+diferencial será encasillado:
+
+a) Con 0 a menos de 2 años de servicios, en grado 18
+
+y 0 bienio.
+
+b) Con 2 a menos de 4 años de servicios, en grado 18
+
+y 1 bienio.
+
+c) Con 4 a menos de 6 años de servicios, en grado 16
+
+y 0 bienio.
+
+d) Con 6 a menos de 8 años de servicios, en grado 16
+
+y 1 bienio.
+
+e) Con 8 a menos de 10 años de servicios, en grado
+
+15 y 0 bienio.
+
+f) Con 10 a menos de 12 años de servicios, en grado
+
+15 y 1 bienio.
+
+g) Con 12 a menos de 14 años de servicios, en grado
+
+15 y 2 bienios.
+
+h) Con 14 a menos de 16 años de servicios, en grado
+
+15 y 3 bienios.
+
+i) Con 16 a menos de 18 años de servicios, en grado
+
+15 y 4 bienios.
+
+j) Con 18 a menos de 20 años de servicios, en grado
+
+15 y 5 bienios.
+
+k) Con 20 a menos de 22 años de servicios, en grado
+
+15 y 6 bienios.
+
+l) Con 22 a menos de 24 años de servicios, en grado
+
+15 y 7 bienios.
+
+m) Con 24 a menos de 26 años de servicios, en grado
+
+15 y 8 bienios.
+
+n) Con 26 a menos de 28 años de servicios, en grado
+
+15 y 9 bienios.
+
+ñ) Con 28 a menos de 30 años de servicios, en grado
+
+15 y 10 bienios.
+
+o) Con 30 a menos de 32 años de servicios, en grado
+
+15 y 11 bienios.
+
+p) Con 32 a más años de servicios, en grado 15 y 12
+
+bienios.
+
+6) El personal docente no titulado en la enseñanza
+
+prebásica, básica y diferencial, será encasillado:
+
+a) Con 0 a menos de 2 años de servicios, en grado 21
+
+y 0 bienio.
+
+b) Con 2 a menos de 4 años de servicios, en grado 21
+
+y 1 bienio.
+
+c) Con 4 a menos de 6 años de servicios, en grado 20
+
+y 0 bienio.
+
+d) Con 6 a menos de 8 años de servicios, en grado 20
+
+y 1 bienio.
+
+e) Con 8 a menos de 10 años de servicios, en grado
+
+19 y 0 bienio.
+
+f) Con 10 a menos de 12 años de servicios, en grado
+
+18 y 0 bienio.
+
+g) Con 12 a menos de 14 años de servicios, en grado
+
+17 y 0 bienio.
+
+h) Con 14 a menos de 16 años de servicios, en grado
+
+17 y 1 bienio.
+
+i) Con 16 a menos de 18 años de servicios, en grado
+
+17 y 2 bienios.
+
+j) Con 18 a menos de 20 años de servicios, en grado
+
+17 y 3 bienios.
+
+k) Con 20 a menos de 22 años de servicios, en grado
+
+17 y 4 bienios.
+
+l) Con 22 a menos de 24 años de servicios, en grado
+
+17 y 5 bienios.
+
+m) Con 24 a menos de 26 años de servicios, en grado
+
+17 y 6 bienios.
+
+n) Con 26 a menos de 28 años de servicios, en grado
+
+17 y 17 bienios.
+
+ñ) Con 28 a menos de 30 años de servicios, en grado
+
+17 y 8 bienios.
+
+o) Con 30 a menos de 32 años de servicios, en grado
+
+17 y 9 bienios.
+
+p) con 32 o más años de servicios, en grado 17 y 10
+
+bienios.
+
+7) El personal docente titulado en la enseñanza
+
+media será encasillado:
+
+a) Con 0 a menos de 2 años de servicios, en grado 18
+
+y 0 bienio.
+
+b) Con 2 a menos de 3 años de servicios, en grado 18
+
+y 1 bienio.
+
+c) Con 3 a menos de 5 años de servicios, en grado 16
+
+y 0 bienio.
+
+d) Con 5 a menos de 6 años de servicios, en grado 16
+
+y 1 bienio.
+
+e) Con 6 a menos de 8 años de servicios, en grado 15
+
+y 0 bienio.
+
+f) Con 8 a menos de 9 años de servicios, en grado 15
+
+y 1 bienio.
+
+g) Con 9 a menos de 11 años de servicios, en grado
+
+13 y 0 bienio.
+
+h) Con 11 a menos de 13 años de servicios, en grado
+
+13 y 1 bienio.
+
+i) Con 13 a menos de 15 años de servicios, en grado
+
+13 y 2 bienios.
+
+j) Con 15 a menos de 17 años de servicios, en grado
+
+13 y 3 bienios.
+
+k) Con 17 a menos de 19 años de servicios, en grado
+
+13 y 4 bienios.
+
+l) Con 19 a menos de 21 años de servicios, en grado
+
+13 y 5 bienios.
+
+m) Con 21 a menos de 23 años de servicios, en grado
+
+13 y 6 bienios.
+
+n) Con 23 a menos de 25 años de servicios, en grado
+
+13 y 7 bienios.
+
+ñ) Con 25 a menos de 27 años de servicios, en grado
+
+13 y 8 bienios.
+
+o) Con 27 a menos de 29 años de servicios, en grado
+
+13 y 9 bienios.
+
+p) Con 29 a menos de 31 años de servicios, en grado
+
+13 y 10 bienios.
+
+q) Con 31 o más años de servicios, en grado 13 y 11
+
+bienios.
+
+8) El personal docente no titulado en la enseñanza
+
+media será encasillado:
+
+a) Con 0 a menos de 2 años de servicios, en grado 20
+
+y 0 bienio.
+
+b) Con 2 a menos de 4 años de servicios, en grado 20
+
+y 1 bienio.
+
+c) Con 4 a menos de 6 años de servicios, en grado 19
+
+y 0 bienio.
+
+d) Con 6 a menos de 8 años de servicios, en grado 19
+
+y 1 bienio.
+
+e) Con 8 a menos de 10 años de servicios, en grado
+
+18 y 0 bienio.
+
+f) Con 10 a menos de 12 años de servicios, en grado
+
+17 y 0 bienio.
+
+g) Con 12 a menos de 14 años de servicios, en grado
+
+16 y 0 bienio.
+
+h) Con 14 a menos de 16 años de servicios, en grado
+
+16 y 1 bienio.
+
+i) Con 16 a menos de 18 años de servicios, en grado
+
+16 y 2 bienios.
+
+j) Con 18 a menos de 20 años de servicios, en grado
+
+16 y 3 bienios.
+
+k) Con 20 a menos de 22 años de servicios, en grado
+
+16 y 4 bienios.
+
+l) Con 22 a menos de 24 años de servicios, en grado
+
+16 y 5 bienios.
+
+m) Con 24 a menos de 26 años de servicios, en grado
+
+16 y 6 bienios.
+
+n) Con 26 a menos de 28 años de servicios, en grado
+
+16 y 7 bienios.
+
+ñ) Con 28 a menos de 30 años de servicios, en grado
+
+16 y 8 bienios.
+
+o) Con 30 a menos de 32 años de servicios, en grado
+
+16 y 9 bienios.
+
+p) Con 32 o más años de servicios, en grado 16 y 10
+
+bienios.
+
+9) El personal docente propiamente tal que no sea
+
+encasillado se considerará de reemplazo, será
+
+asimilado al último grado del escalafón respectivo por
+
+el plazo que se determine en el decreto o resolución de
+
+asimilación y gozará de la asignación docente, si
+
+fuere procedente. En caso alguno esta asimilación lo
+
+incorporará a la carrera docente.
+
+10) El Ministerio de Educación Pública deberá dar
+
+a conocer, a través de sus Secretarías Regionales
+
+Ministeriales y de, a lo menos, un diario de
+
+circulación nacional, las condiciones en que quedarán
+
+encasillados los docentes superiores y docentes
+
+propiamente tales, a fin de que los interesados puedan
+
+dentro del plazo de diez días hábiles contados desde
+
+esa publicación, hacer las observaciones y representar
+
+los errores u omisiones en que se hubiere incurrido en
+
+su encasillamiento.
+
+11) La presentación con los documentos probatorios
+
+del caso deberá remitirse al Ministerio de Educación
+
+Pública, para resolución del Ministro.
+
+12) El Ministro de Educación, con esos
+
+antecedentes, encasillará a los profesores y
+
+confeccionará los escalafones definitivos, los que
+
+serán remitidos a los Secretarios Regionales
+
+Ministeriales de Educación de cada Región, para
+
+conocimiento de los interesados.
+
+13) Los profesores que, sin tener nombramientos,
+
+sean encasillados provisoriamente por estar trabajando
+
+con oficio de asunción de funciones, deberán, una vez
+
+regularizado su nombramiento, ser encasillados de
+
+acuerdo con los años de servicio en la forma indicada en
+
+los números anteriores.
+
+14) El personal docente propiamente tal que esté
+
+sirviendo jornadas parciales deberá, en el mismo plazo
+
+señalado en el número 10), manifestar al Secretario
+
+Regional Ministerial de Educación correspondiente, su
+
+intención de conservarla. En tal caso, deberá
+
+desempeñar la fracción de jornada proporcional a ella,
+
+que se indica en la siguiente tabla, percibiendo la
+
+remuneración correspondiente a la fracción de jornada:
+
+Jornada parcial actual (Horas pedagógicas)
+
+De 1 a 6 horas
+
+De 7 a 10 horas
+
+De 13 a 18 horas
+
+De 19 a 24 horas
+
+De 25 a 30 horas
+
+De 31 a 36 horas
+
+Jornada parcial Carrera Docente (Horas cronológicas)
+
+1/6 jornada ( 5 horas )
+
+1/3 jornada ( 10 horas )
+
+1/2 jornada ( 15 horas )
+
+2/3 jornada ( 20 horas )
+
+5/6 jornada ( 25 horas )
+
+Jornada Completa (30 horas)
+
+Si posteriormente opta por jornada completa, se
+
+regirá por las normas generales contenidas en el
+
+#### Artículo 40°
+
+15) El proceso de encasillamiento terminará en el
+
+momento que se dicte el decreto supremo que lo declare
+
+cerrado.
+
+16) Para los efectos de este artículo se
+
+considerará "personal docente titulado", el que posea
+
+el título o calidad correspondiente, señalados en el
+
+#### Artículo 24°
+
+> **Nota.** El DL 2877, publicado en el Diario Oficial el 24 de septiembre de 1979, en su artículo único sustituye a contar del 1° de Septiembre de 1978, el N° 1 del artículo 2° transitorio del presente Decreto Ley, cuyo texto original es el siguiente: 1) El personal docente superior de la enseñanza prebásica, básica, diferencial y media, será encasillado en el grado del artículo 24 que corresponda al cargo que sirve en los establecimientos ya reclasificados y gozará del derecho a reconocimiento de asignación bienal por los años de servicios que tenga en el sector público, con un máximo de hasta 30 años.
+
+#### Artículo 3°
+
+El encasillamiento a que se refiere el
+
+artículo anterior no podrá significar, para los funcionarios encasillados, ni para el personal a que se
+
+refiere el número 9) del artículo anterior, disminución o pérdida de las remuneraciones que perciban a la fecha de vigencia del presente decreto ley.
+
+Las diferencias que se produzcan se pagarán
+
+por planillas suplementarias, las que serán imponibles y se considerarán renta para los efectos previsionales, de desahucio y del impuesto único a la renta, sólo hasta el monto necesario para mantener la imponiblidad de que gozaban antes de la vigencia de la Carrera Docente.
+
+Dichas planillas suplementarias gozarán de los reajustes que experimenten las demás remuneraciones y serán absorbidas proporcionalmente por los futuros ascensos que tenga el funcionario.
+
+La planilla suplementaria o la parte de ella determinada por diferencias de asignación de zona será rebajada en el equivalente a dicha diferencia cuando el funcionario sea destinado a una localidad de menor o ningún porcentaje de esta asignación.
+
+#### Artículo 4°
+
+A los profesores que tengan más de un nombramiento, que en conjunto totalicen más de 30 horas cronológicas semanales de trabajo, se les considerará durante el año 1978 con ampliación horaria de 44 horas, de acuerdo a lo dispuesto en el artículo 37°, salvo que manifiesten su intención de ser encasillados de acuerdo con las reglas generales del artículo segundo transitorio. Esta decisión deberá manifestarla en la misma forma y plazo establecidos para optar a jornada parcial.
+
+#### Artículo 5°
+
+La capacitación pedagógica establecida en el inciso tercero del artículo 11 y los requisitos de clasificación y de aprobación de cursos, realización de investigaciones o de trabajos especiales para alcanzar ciertos grados, establecidos en las letras b) y c) del artículo 16, serán exigibles a contar del 1° de Septiembre de 1981
+
+#### Artículo 6°
+
+Las subvenciones fiscales de los establecimientos particulares de enseñanza gratuita conservarán, hasta el 31 de diciembre de 1978, sus montos vigentes al 30 de junio del mismo año, conforme a lo dispuesto en el artículo 3° del decreto ley 456, de 1974 y sólo serán incrementadas en función de los reajustes establecidos en el decreto ley 670, de 1974, y sus modificaciones.
+
+#### Artículo 7°
+
+Los profesores fiscales que a la fecha de vigencia del presente decreto ley hubieren jubilado, o se encuentran retirados y deseen reincorporarse, deberán ser previamente encasillados como docentes propiamente tales, de acuerdo con las normas del artículo 2° transitorio. Este encasillamiento es sólo válido para los efectos de la incorporación en un escalafón determinado, en las condiciones que se indican en el artículo 22° de este decreto ley.
+
+#### Artículo 8°
+
+Los cargos docentes actualmente existentes, cuya denominación sea diferente a los cargos tipos o cargos homólogos indicados en los distintos escalafones del artículo 24°, deberán ser asimilados a algunos de los cargos señalados en dicho artículo en la forma que se determine por decreto supremo, para los efectos del encasillamiento.
+
+#### Artículo 9°
+
+Los profesores que a la fecha de vigencia del presente decreto ley se encontrarán sirviendo cargos de grados superiores al grado 8° para la enseñanza media; 11° para la enseñanza prebásica, y 9° para enseñanza básica y diferencial, podrán, cuando deban dejar sus cargos por motivos que no sean su jubilación ni sanción disciplinaria, solicitar su encasillamiento en un grado de la carrera docente como docentes superiores. Una comisión formada por el Subsecretario, el Superintendente y el Director de Educación Pública, propondrá al Ministro el grado en que deban ser encasillados.
+
+Si no hay vacante en dicho grado, se autorizará, no obstante, la incorporación a ese grado, para cuyo efecto se entenderá aumentada transitoriamente, mientras se produzca una vacante, la dotación correspondiente a tal grado.
+
+#### Artículo 10°
+
+El encasillamiento en alguno de los cargos a que se refiere este decreto ley no podrá significar disminución de la cantidad total sobre la cual hacían imposiciones los funcionarios respectivos. En consecuencia, deberán efectuar cotizaciones a la Caja Nacional de Empleados Públicos y Periodistas y al Fondo de Seguro Social con cargo a sus remuneraciones no imponibles hasta completar las cotizaciones correspondientes a las remuneraciones imponibles de los cargos que sedempeñaban. Esta norma sólo tiene aplicación para efectos previsionales.
+
+#### Artículo 11°
+
+Las disposiciones de este decreto ley no se aplicarán a los profesores dependientes del Ministerio de Defensa Nacional, los que continuarán rigiéndose por lo dispuesto en los artículos 110° del decreto con fuerza de ley (G) 1, de 1968 y 38° del decreto con fuerza de ley (I) 2, de 1968.
+
+Las remuneraciones de este personal se determinarán sobre la base de las normas que rijan las remuneraciones de los profesores de enseñanza universitaria, técnica, media o básica de la Administración Civil del Estado, a la fecha de vigencia de este decreto ley.
+
+#### Artículo 12°
+
+EL plazo dentro del cual deberán elevarse las propuestas de nombramiento de los profesores civiles y militares de las Fuerzas Armadas, en cumplimiento de lo dispuesto en el artículo 38° de la ley 17.654, será de 45 días.
+
+#### Artículo 13º
+
+El monto de las pensiones del personal docente jubilado al 31 de Agosto de 1978, con sistema de reajustabilidad o reliquidación con los sueldos de actividad, no podrá ser inferior al que tenían en dicha fecha, más el reajuste legal correspondiente a Diciembre de 1978.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- CESAR MENDOZA DURAN.- FERNANDO MATTHEI AUBEL.- Luis Niemann.
