@@ -1,0 +1,3 @@
+Por resolución Nº 932, de 1 de julio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 95110119, presentada por NESTOR MANUEL PEREZ CARCAMO, para operar un centro de cultivo al Weste de Isla Leucayec, comuna de Guaitecas, provincia de Aysén, XI Región, conforme lo dispuesto en el artículo 14 del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 1 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
