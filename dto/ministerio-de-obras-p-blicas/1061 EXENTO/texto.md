@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.061, de fecha 31 de julio de 2001, se expropiaron los lotes de terreno Nºs. 2 y 3, superficies 153,0 m² y 58,0 m², respectivamente, rol de avalúo 155-33, comuna de Curarrehue, para la obra "Camino Catripulli - Curarrehue, Sector Km. 108,02 al 114,80" y se acordó el valor de indemnización con su propietario José Celestino Vargas Varela, ascendente a la cantidad de $617.158.-
+
+Fiscal del Ministerio de Obras Públicas.
