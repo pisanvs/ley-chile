@@ -1,0 +1,3 @@
+Por resolución Nº 111, de 25 de enero de 2001, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 924 de 1989, de esta Subsecretaría, sólo en cuanto autorizó a CIA. PESQUERA MEDITERRANEO LTDA., para desarrollar actividades con la nave Terranova, respecto del recurso Camarón nailon, en el área marítima comprendida entre la V y IX Regiones, en virtud de lo dispuesto en el artículo 143 letra d) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 25 de enero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
