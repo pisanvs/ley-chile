@@ -1452,13 +1452,11 @@ c) Los documentos que se vendan o cedan deben encontrarse en poder de la institu
 
 d) Las ventas podrán ser: i) definitivas, o, ii) con pacto de retrocompra, con sujeción, en este caso, a las normas del título III de este Capítulo;
 
-e) No podrá venderse o cederse al público ningún documento de la cartera de colocaciones, salvo en los casos que expresamente se indican en el N° 2 del título III del Capítulo 8-19 de esta Recopilación. No obstante, excepcionalmente las instituciones podrán transferir determinados créditos a personas diferentes a bancos o sociedades financieras establecidos en el país, siempre que cuenten con la conformidad previa de esta Superintendencia, según lo establecido en la letra g) de este numeral y en el N° 4 del título III del Capítulo 8-19.
+e) No podrá venderse o cederse al público ningún documento de la cartera de colocaciones, salvo en los casos o bajo las condiciones que se indican en los N°s. 2 y 4 del título III del Capítulo 8-19 de esta Recopilación.
 
 f) No podrán transferirse al público documentos de la cartera de inversiones financieras cuyo plazo de vencimiento, contado desde la fecha de venta o cesión, sea inferior a los plazos señalados en el N°1 de este título, esto es, cuatro días hábiles bancarios cuando se trate de alguno de los documentos indicados en el N° 3 del título III de este Capítulo, 30 días corridos para otros documentos no reajustables o reajustables por la variación del dólar de Estados Unidos de América y 90 días corridos cuando correspondan a otros documentos reajustables.
 
-g) Los documentos en que consten créditos vencidos o que correspondan a operaciones castigadas no podrán ser transferidos, salvo que sean adquiridos por un banco o sociedad financiera y la operación tenga como fin último renegociar dichos documentos con los respectivos deudores. No obstante, excepcionalmente y con ese mismo fin, podrán cederse a otras instituciones de crédito distintas de bancos y sociedades financieras siempre que se cuente con la conformidad previa de esta Superintendencia.
-
-h) Las cesiones de cartera a empresas securitizadoras deben sujetarse a los límites y demás condiciones establecidos por el Banco Central de Chile en el Capítulo III.B.4 de su Compendio de Normas Financieras.
+g) Las cesiones de cartera a empresas securitizadoras deben sujetarse a los límites y demás condiciones establecidos por el Banco Central de Chile en el Capítulo III.B.4 de su Compendio de Normas Financieras.
 
 Además de las condiciones o limitaciones generales señaladas en las letras precedentes, las instituciones financieras deben tener presente las instrucciones específicas que afectan la venta de cartera de colocaciones o de inversiones financieras, contenidas en el Capítulo 8-19 y 8-21 de esta Recopilación, respectivamente.
 
@@ -5046,27 +5044,27 @@ Los depósitos, captaciones y otras obligaciones en monedas extranjeras estarán
 
 1.1. Depósitos, captaciones y obligaciones a la vista
 
-Los depósitos, captaciones y obligaciones a la vista estarán afectos a una tasa de encaje de 30%.
+Los depósitos, captaciones y obligaciones a la vista estarán afectos a una tasa de encaje de 19%.
 
-1.2. Depósitos, captaciones y obligaciones a plazo.
+1.2. Depósitos, captaciones y obligaciones hasta un año plazo.
 
-Los depósitos, captaciones y obligaciones a plazo, cualquiera que sea su naturaleza, estarán afectos a una tasa de encaje de 30%.
+Los depósitos, captaciones y obligaciones a plazo, cualquiera que sea su naturaleza, estarán afectos a una tasa de encaje de 13,6%.
 
 2. Cuentas de depósitos, captaciones y obligaciones en monedas extranjeras afectas a encaje.
 
-Quedarán sujetos a encaje, a las tasas precedentemente indicadas, los saldos de las cuentas que se demuestren en las siguientes partidas del MB1.
+Quedarán sujetos a encaje, a las tasas precedentemente indicadas, los saldos de las cuentas que se demuestren en las siguientes partidas.
 
-N° 3005 "Acreedores en cuentas corrientes",
+N° 3005 "Acreedores en cuentas corrientes".
 
-N° 3010 "Otros saldos acreedores a la vista";
+N° 3010 "Otros saldos acreedores a la vista".
 
-N° 3020 "Depósitos y captaciones a plazo de 30 a 89 días";
+N° 3020 "Depósitos y captaciones a plazo de 30 a 89 días".
 
-N° 3025 "Depósitos y captaciones a plazo de 90 días a un año";
+N° 3025 "Depósitos y captaciones a plazo de 90 días a un año".
 
-N° 3030 "Otros saldos acreedores a plazo", y,
+N° 3030 "Otros saldos acreedores a plazo".
 
-N° 3055 "Depósitos y captaciones".
+Además, se incluye la cuenta "Captaciones a más de un año con retiros dentro del año" de la partida 3065.
 
 ### 3. Impartes que se pueden deducir de las obligaciones afectas a encaje
 
@@ -5076,13 +5074,15 @@ Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaci
 
 3.2.- Inversiones y colocaciones en el exterior.
 
-Los bancos podrán también deducir de sus obligaciones afectas a encaje a que se refiere este título; los saldos que mantengan correspondientes a las inversiones financieras y a las colocaciones en el exterior, de que trata la letra B) y la letra C) , respectivamente, del Capítulo III.B.5 del Compendio de Normas Financieras, como asimismo las inversiones en bonos, adquiridos en el exterior, de que trata el último párrafo del punto I de la letra C del Capítulo XII del Título I del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile.
+Los bancos podrán deducir de sus obligaciones a plazo afectas a encaje señaladas en, este título; los saldos que mantengan correspondientes a las inversiones financieras y a las colocaciones en el exterior, de que trata la letra B) y la letra C) , respectivamente, del Capítulo III.B.5 del Compendio de Normas Financieras, como asimismo las inversiones en bonos, adquiridos en el exterior, de que trata el último párrafo del punto I de la letra C del Capítulo XII del Título I del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile.
 
-El importe que los bancos pueden deducir de sus obligaciones afectas a encaje, conforme a lo señalado en el párrafo precedente, no podrá exceder, en caso alguno, del 70% de su patrimonio efectivo.
+Los bancos podrán deducir de las obligaciones a la vista mencionadas en este título, el excedente de deducible que se origine cuando las obligaciones a plazo mencionadas en este título sean inferiores al total del importe deducible por las inversiones y colocaciones en el exterior antes señaladas.
+
+En caso que el importe deducible sea superior al monto de las obligaciones a plazo y a la vista de que trata este título, el remanente puede ser deducido del monto de las obligaciones con el exterior de que trata el título IV de este Capítulo.
+
+El importe total que los bancos pueden deducir de sus obligaciones afectas a encaje, conforme a lo señalado en los párrafos precedentes, no podrá exceder, en caso alguno, del 70% de su patrimonio efectivo.
 
 Para el solo efecto de la determinación de la posición de encaje, el importe de las inversiones y de los créditos señalados en el primer párrafo de este numeral, susceptibles de ser deducidos de las obligaciones afectas a encaje, será registrado en las cuentas "Inversiones en el exterior deducibles para encaje" y "Créditos al exterior deducibles para encaje", respectivamente, de la partida 9167. Por otra parte, el monto correspondiente al límite del deducible, esto es, el equivalente al 70% del patrimonio efectivo, se incluirá en la cuenta "Límite del deducible por inversiones y colocaciones", de la misma partida.
-
-En caso que el importe deducible por las inversiones y colocaciones en el exterior sea superior al monto de las obligaciones de que trata este título, el remanente puede ser deducido del monto de las obligaciones con el exterior que se señalan en el título IV de este Capítulo, de acuerdo a lo que se indica en el N°3 de dicho título IV.
 
 ### 4. Encaje exigido y mantenido
 
@@ -5110,15 +5110,15 @@ Las instituciones financieras darán cumplimiento a la exigencia de encaje sobre
 
 1.- Tasa de encaje.
 
-Las obligaciones contraídas con el exterior por las entidades financieras, estarán afectas a una tasa de encaje del 30%.
+Las obligaciones contraídas con el exterior por las entidades financieras, estarán afectas a una tasa de encaje del 13,6%
 
 2.- Obligaciones afectas a encaje.
 
-2.1.- Créditos afectos.
+Quedan sujetas al encaje de que trata este titulo, las obligaciones con el exterior hasta un año plazo y que se demuestran en las siguientes partidas:
 
-Quedan sujetas al encaje de que trata este título, las obligaciones que se demuestran en las siguientes partidas, con excepción de los créditos mencionados en el numeral 2.2:
+N° 3505 "Adeudado a bancos del exterior por financiamiento de importaciones y
 
-N° 3505 "Adeudado a bancos del exterior por financiamiento de importaciones y exportaciones".
+exportaciones".
 
 N° 3510 "Adeudado a bancos del exterior por otras obligaciones".
 
@@ -5128,35 +5128,9 @@ N° 3520 "Corresponsables ALADI-Banco Central".
 
 N° 3525 "Otros préstamos y obligaciones".
 
-N° 3555 "Adeudado a bancos del exterior".
-
-N° 3560 "Adeudado a oficinas del mismo banco".
-
-N° 3565 "Corresponsales ALADI-Banco Central".
-
-N° 3570 "Otros préstamos y obligaciones".
-
-2.2.- Créditos exentos.
-
-Los siguientes créditos incluidos en las partidas antes señaladas se encuentran exentos de la obligación de constituir el encaje de que trata este título IV, de modo que no se computarán para ese efecto:
-
-a) Créditos externos acogidos a las normas del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
-
-b) Obligaciones reestructuradas de conformidad con los Contratos Modificatorios de los Contratos de Reestructuración suscritos por la República de Chile, en los términos aprobados por el Consejo del Banco Central de Chile mediante Acuerdos N°s. 72-04-901113 y 72-06-901113.
-
-c) Otros créditos externos que cumplan los requisitos indicados en el N° 6 de la letra A) del Capítulo III del Título I del Compendio de Normas de Cambios Internacionales, para quedar exentos de encaje.
-
-Con el objeto de detraer las operaciones señaladas en los literales precedentes de los saldos del pasivo afectos al encaje de que se trata, dichas operaciones se mantendrán registradas también, sin incluir sus intereses devengados, en la cuenta de orden "Obligaciones con el exterior exentas de encaje", de la partida 9167.
-
-2.3.- Bonos afectos a encaje.
-
-Además de los créditos registrados en las partidas mencionadas en el numeral 2.1, excluidos aquellos señalados en el numeral 2.2 precedente, quedan sujetos al encaje de que trata este título los importes correspondientes a las obligaciones por bonos colocados en el exterior que estuvieren acogidos a las disposiciones del Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
-
-En este caso y para el solo efecto de incluir en las obligaciones con el exterior el saldo computable de capital de los bonos colocados en el extranjero registrados en las partidas 3075 ó 4190 según lo previsto en los Capítulos 13-34 y 9-6, respectivamente, de esta Recopilación, el importe que se encuentra acogido a las normas del referido Capítulo XIII se reflejará en la cuenta de orden "Bonos colocados en el exterior afectos a encaje", de la partida 9167.
-
 3.- Importe que se puede deducir.
 
-Los bancos pueden deducir diariamente de sus obligaciones con el exterior afectas a encaje de que trata este título, el importe remanente de sus inversiones financieras y colocaciones en el exterior que se haya determinado conforme a lo previsto en el último párrafo del numeral 3.2 del título III de este Capítulo.
+Los bancos pueden deducir diariamente de sus obligaciones con el exterior afectas a encaje de que trata este título, el importe remanente de sus inversiones financieras y colocaciones en el exterior que se haya determinado conforme a lo previsto en el numeral 3.2 del título III de este Capítulo.
 
 4.- Encaje exigido y mantenido.
 
@@ -5168,29 +5142,13 @@ El encaje exigido se calculará por "períodos mensuales", según lo señalado e
 
 El encaje, para cada una de las monedas extranjeras en que estén expresadas las obligaciones con el exterior, deberá estar compuesto sólo por los fondos señalados en el numeral 4.2 del título III de este Capítulo.
 
-V.- ENCAJE DE CREDITOS INGRESADOS AL AMPARO DEL CAPITULO XIV DEL TITULO I DEL COMPENDIO DE NORMAS DE CAMBIOS INTERNACIONALES.
-
-1.- Encaje de los créditos externos.
-
-De conformidad con lo dispuesto en el N° 6 de la letra A) del Capítulo III del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, por los créditos ingresados al país al amparo del Capítulo XIV del mismo Título se debe constituir un depósito en el Instituto Emisor por concepto de encaje, en dólares de los Estados Unidos de América, equivalente al 10% del respectivo crédito, salvo los casos expresamente exceptuados por las normas del Banco Central de Chile. Estos depósitos no devengan intereses y deben mantenerse durante un año, cualquiera sea el plazo al que se haya pactado el crédito.
-
-No obstante, en sustitución del encaje antes señalado, las instituciones financieras pueden optar por adquirir y retrovender los pagarés emitidos por el Banco Central de Chile de que trata el Anexo N° 5 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
-
-2.- Instrucciones contables.
-
-El descuento que el Banco Central de Chile aplique en la retroventa de los pagarés de que trata el Anexo N° 5 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, será registrado por las instituciones financieras en la cuenta de gastos "Diferencias de precio por retroventa de pagarés sustitutivos de encaje", de la partida 5610.
-
-El cargo a la cuenta de resultado antes señalada podrá diferirse, registrando el importe de la mencionada diferencia en la cuenta "Diferencias retroventa pagarés sustitutivos de encaje diferidas", de la partida 2120. Para ese efecto se traspasará mensualmente a resultados una parte proporcional de ese importe, durante el período en que el monto del encaje de que trata el citado Capítulo XIV debería permanecer depositado en el Banco Central de Chile.
-
-VI.- Información a esta Superintendencia.
+V.- Información a esta Superintendencia.
 
 Las instituciones financieras deberán enviar a esta Superintendencia la información relativa a los encajes de que tratan los títulos II, III y IV de este Capítulo, de conformidad con las instrucciones del Manual del Sistema de Información.
 
 VI.- ELIMINADA.
 
 ANEXO N°1
-
-Pág. l
 
 PARTIDAS Y CUENTAS DEL SISTEMA CONTABLE QUE PARTICIPAN EN LA DETERMINACION Y MANTENCION DE ENCAJE Y RESERVA TECNICA
 
@@ -9718,9 +9676,53 @@ Las instituciones financieras deben tener presente la obligación de solicitar l
 
 En la letra c) del N° 5 del Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile se establece que la transferencia de otros activos de la cartera distintos a los indicados o a otras instituciones facultadas para otorgar créditos, sólo podrá efectuarse con la autorización previa de esta Superintendencia.
 
-Dicha disposición debe entenderse en relación con operaciones especiales, ajenas a las transacciones normales de las instituciones financieras, tales como reestructuraciones o liquidaciones de activos inherentes al saneamiento financiero, fusión o liquidación de una institución, o casos en que, por solicitud del deudor, se pretenda consolidar obligaciones en una institución de crédito del país diferente de un banco o sociedad financiera. En todo caso, esta Superintendencia exigirá el consentimiento del deudor para realizar la transferencia de sus créditos a instituciones no sujetas a la fiscalización de este Organismo.
+Dicha disposición debe entenderse en relación con:
+
+- **a)** operaciones especiales, ajenas a las transacciones normales de las instituciones financieras, tales como reestructuraciones o liquidaciones de activos inherentes al saneamiento financiero, fusión o liquidación de una institución;
+
+- **b)** venta de cartera vencida o castigada; o,
+
+- **c)** consolidación de obligaciones, por solicitud del deudor, en alguna institución de crédito diferente a un banco o sociedad financiera establecida en el país.
 
 Conviene aclarar a este respecto que la subrogación voluntaria de un crédito efectuada por el acreedor a un tercero que lo paga, constituye una cesión de crédito y queda sujeta a las normas precedentes.
+
+La respectiva autorización se solicitará por escrito a esta Superintendencia, acompañando todos los antecedentes para el efecto. Las instituciones financieras deberán obtener el consentimiento del deudor para concretar la transferencia, salvo que en la respectiva autorización se permita proceder de otra forma por tratarse de casos calificados.
+
+No obstante, las instituciones financieras quedan desde ya facultadas para transferir créditos de su cartera vencida o castigada, prescindiendo de la autorización previa de este Organismo y del consentimiento del deudor, siempre que el cesionario sea una persona natural o jurídica no relacionada con la institución cedente. Tratándose de personas relacionadas, la cesión de cartera vencida o castigada requerirá la autorización de esta Superintendencia.
+
+IV.- PROCEDIMIENTOS PARA LA TRANSFERENCIA ENTRE INSTITUCIONES O VENTA A TERCEROS DE DOCUMENTOS DE LA CARTERA DE COLOCACIONES.
+
+### 1. Informe de la Fiscalía y Gerencia General
+
+Las compras, ventas, permutas o canjes de documentos de su cartera de colocaciones que realicen entre sí las instituciones financieras, requerirán informes previos de la Fiscalía y Gerencia General de la institución financiera relativos a los aspectos jurídicos y efectos financieros, respectivamente, de las operaciones de que se trate. El informe de la Gerencia General, tanto de la institución que entrega como de la que recibe los documentos objeto de la transacción, deberá considerar a lo menos los antecedentes que a continuación se indican, respecto de cada operación y pronunciarse acerca de ellos:
+
+a) Valor nominal de los documentos objeto de la transacción y valor económico o comercial de éstos;
+
+b) Procedimiento e información utilizados para determinar el valor económico o comercial de los instrumentos;
+
+c) Provisiones que se liberen por los créditos que se enajenen y provisiones que corresponde constituir por los créditos que se reciben, según sea el caso;
+
+d) Clasificación de acuerdo con las disposiciones del Capítulo 8-28 de esta Recopilación Actualizada de Normas, asignada a los créditos por la institución vendedora y por aquella que los adquiere, según corresponda; y,
+
+e) Cuando corresponda de acuerdo lo previsto en los Capítulos 18-1 y 18-2 de esta Recopilación, se acompañará también el texto de la nota que deberá agregarse al Estado de Situación más próximo que se publique o al Balance General, según sea el caso, dando cuenta de sus efectos en los resultados de la empresa.
+
+2. Envió a esta Superintendencia de los antecedentes acerca de las transacciones realizadas.
+
+Las instituciones financieras que participen en las transacciones de que trata este título, deberán remitir a esta Superintendencia, dentro de los primeros diez días de cada mes, los antecedentes mencionados en el N° 1 precedente, que hayan servido de base para cursar las operaciones realizadas en el mes inmediatamente anterior.
+
+### 3. Aviso a deudores
+
+La institución cedente y la cesionaria o ambas en conjunto, enviarán un aviso a los deudores de los créditos que se transfieran, informándoles de la transferencia y el lugar u oficina de la entidad adquirente, en la que el crédito debe ser pagado.
+
+### 4. Cobranza de los créditos traspasados
+
+Cuando el crédito sea pagadero en una plaza distinta de la que corresponda a la institución que lo recibió, la institución adquirente deberá procurar que el deudor pueda continuar sirviéndolo en la misma plaza, sea en las oficinas de la propia institución o, en su defecto, en las de alguna institución corresponsal que deberá ser señalada para el efecto.
+
+Queda, en todo caso, a criterio de las entidades involucradas en estos traspasos, determinar los medios y modalidades que estimen más adecuados y eficientes para facilitar a los deudores el normal cumplimiento de sus obligaciones.
+
+5.- Venta a terceros.
+
+Las normas de los números precedentes se aplicarán también, en lo que toca a las instrucciones que debe cumplir el cedente, cuando se trate de venta de cartera de colocaciones a personas naturales o jurídicas diferentes a una institución financieras establecida en el país. Sin embargo, cuando se vendan créditos vencidos no será necesario el informe de Fiscalía mencionado en el N° 1.
 
 V.- INSTRUCCIONES CONTABLES.
 
