@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 687 de 25 de julio de 1997, se expropiaron los lotes de terreno N°s. 91-A y 109-F, superficies 627 m2. y 103 m2, roles de avalúo en trámite y 2237-5, comuna de Chillán, para la obra Camino Acceso Norte a Concepción, y se acordó valor de indemnización con sus propietarios Francisco González Hernández y Cristianino Bustos Fuentes, ascendente a las cantidades de $652.475.- y $119.652.-
+
+Fiscal del Ministerio de Obras Públicas
