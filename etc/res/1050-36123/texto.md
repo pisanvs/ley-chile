@@ -1,0 +1,3 @@
+Por Resolución N° 1.050, de 14 de agosto de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por OSCAR SEGUNDO MELLA GARCIA, para un sector ubicado en Bahía Tongoy, comuna de Coquimbo, provincia de Elqui, IV Región, en virtud de lo dispuesto en el artículo 67°, inciso 5° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 14 de agosto de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
