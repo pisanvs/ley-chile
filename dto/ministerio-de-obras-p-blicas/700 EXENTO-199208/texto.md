@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP. Nº700 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº2, superficie 229 M2, Rol Nº323-356, comuna de Quirihue, para la obra ''Camino El Arenal-Las Mesas, Sector Puente el Arenal, Km. 0,00000 a Km. 0,08650'' y se acordó el valor de indemnización con su propietario don Bernardino del Carmen Retamal Torres, ascendente a la cantidad de $188.434.-
+
+Fiscal del Ministerio de Obras Públicas.
