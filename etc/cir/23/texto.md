@@ -1,0 +1,13 @@
+COMPLEMENTA INSTRUCCIONES CONTENIDAS EN CIRCULAR N° 10, DE 1993, SOBRE TRATAMIENTO TRIBUTARIO DE LAS BECAS DE ESTUDIO
+
+Núm. 23.- 07 de Mayo de 1993.
+
+1.- Por Circular N° 10, de fecha 26 de Enero de 1993, cuyo extracto se publicó en el Diario Oficial de 04.02.93, este Servicio impartió las instrucciones pertinentes relativas al tratamiento tributario que afecta a las cantidades pagadas por concepto de becas de estudio, desde el punto de vista del beneficiario de tales sumas y de la empresa que efectúa dichos desembolsos.
+
+2.- En relación al régimen tributario que afecta a las citadas becas frente a la empresa que las eroga, en el Capítulo III, N°2, se establecieron los requisitos copulativos que deberían cumplirse para que las mencionadas cantidades constituyan un gasto necesario para producir la renta y a través de la conjugación o apreciación en su conjunto de tales condiciones se podía llegar a determinar si los referidos desembolsos eran necesarios o no para producir la renta.
+
+3.- Por lo tanto, el hecho que las referidas becas se otorguen o paguen al trabajador o a los hijos de éste, en virtud de contratos individuales de trabajo o de contratos o convenios colectivos, no quiere decir que las citadas sumas se aceptan a todo evento como un gasto necesario para producir la renta, ya que tal circunstancia sólo acredita uno de los requisitos que se exigen para que un gasto sea necesario, esto es, la obligatoriedad de la empresa de pagar la beca, siendo menester que para su aceptación como gasto se cumplan las demás condiciones indicadas en la referida instrucción, especialmente aquella establecida en el punto a.4), en cuanto a que la empresa debe justificar o acreditar ante el Servicio la naturaleza, necesidad y monto necesario del gasto por el concepto que se comenta con los medios probatorios que disponga el contribuyente o con aquellos que exija el Servicio.
+
+4.- Ahora bien, para verificar el cumplimiento de esta condición, las Direcciones Regionales podrán tomar en consideración, entre otros, los siguientes antecedentes: porcentaje que representan los pagos efectuados por concepto de becas de estudio en el total de los gastos por remuneraciones pagadas al personal durante el ejercicio, siendo éste un antecedente suficiente para no aceptar como gasto tales desembolsos si éstos constituyen un porcentaje excesivo en el conjunto de los gastos por remuneraciones; la relación porcentual que exista, respecto del porcentaje determinado de la comparación global anterior, y la remuneración individual de cada trabajador, en el caso que se aprecien tratos diferenciados en la empresa, sin perjuicio de la aplicación simultánea de otros antecedentes; etc.
+
+Saluda a Ud.- Director.
