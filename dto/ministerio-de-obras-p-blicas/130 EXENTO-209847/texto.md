@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 130 de fecha 28 de marzo del 2003, se expropió el lote de terreno Nº 99, superficie 104 m2, Rol Nº 283-31, comuna de San Fernando, VI Región para la obra "Camino San Fernando - Roma Rol I-301; I-255; I-151, Km. 0,000 a Km. 10,954264" y se acordó el valor indemnización con su propietario Otelda Rosa Vásquez Ramírez, ascendente a la cantidad de $1.808.610.
+
+Fiscal del Ministerio de Obras Públicas.
