@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 102 de fecha 31 de enero de 1986, de esta Secretaría Regional, la cual autoriza a Lucia Paredes Flores, Pedro Vargas Grandón, José Rivera Urrutia, Rosa Zurita Quijones, Mario Pineda Hernández, Luis Soto Macías, Alejandro Erber Sotomayor, Rafael Mella Vera, Oscar Carrillo Reter, Juan Flies Moreno, Jaime Pérez Torán, José Ochoa Maldonado, Soledad Mancilla Barrientos y Juan Leal Frías para efectuar el servicio de taxi colectivo urbano de la Línea No. 10 "CORVI-Regional-Centro" de Valdivia, cuyo trazado fue autorizado por Resolución Exenta No. 012 de 04 de enero de 1985 y modificado por Resolución Exenta No. 486 de 04 de noviembre de 1985, de esta Secretaría Regional.-
+
+Luis Boldt Quezada, Secretario Regional Ministerial Transportes y Telecomunicaciones X Región.
