@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República, por el plazo de seis meses, para hacer uso de diversas facultades, en defensa del régimen constitucional, de acuerdo con el N.° 13 del artículo 44 de la Constitución Política del Estado.
