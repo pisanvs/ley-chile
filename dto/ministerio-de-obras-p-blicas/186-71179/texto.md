@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 186, de 28 de febrero de 1997, se expropiaron los lotes de terreno Nºs. 1 y 2, superficies de 90 y 1.044 m2, rol de avalúo 101-28, comuna de Coltauco, obra Instalación del Servicio de Agua Potable Rural de Rinconada de Parral y se acordó precio de indemnización con su propietario Ramón Cárcamo Pérez, ascendente a la cantidad de $2.566.447.-
+
+Fiscal del Ministerio de Obras Públicas.
