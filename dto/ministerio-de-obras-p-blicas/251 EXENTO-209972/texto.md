@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº251 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº17, superficie 1.979 m2, Rol Nº524-301, comuna de La Unión, X Región, para la obra "Camino T-80, Sector La Unión-Las Trancas tramo Km.0,900 a Km. 10,99034" y se acordó el valor de indemnización con su propietaria Ingrid Helga Boettcher Ziegler, ascendente a la cantidad de $1.407.157.-
+
+Fiscal del Ministerio de Obras Públicas.
