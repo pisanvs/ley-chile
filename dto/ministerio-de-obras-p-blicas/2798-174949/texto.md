@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.798, de 30 de junio de 2000, se expropió el lote de terreno Nº8, superficie 667 m², rol de avalúo 136-269, comuna de Paine, para la obra Concesión Internacional Ruta 5, tramo Santiago - Talca, Sector B, Región Metropolitana, y se acordó el valor de indemnización con su propietario Bernardo Carrillo González, ascendente a la cantidad de $7.983.234.
+
+Fiscal del Ministerio de Obras Públicas.
