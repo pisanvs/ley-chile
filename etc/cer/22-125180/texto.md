@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A JOSE LUIS SALVO RIQUELME
+
+Núm. 22.- Certifico que don José Luis Salvo Riquelme, Rut. Nº3.325.343-5, cumple los requisitos establecidos en la resolución Nº5.362, de 29.10.97 y que en consecuencia tiene la calidad de agente retenedor del Impuesto al Valor Agregado por las compras de madera que efectúe, entendiendo por madera, al bosque en pie y a los productos que se obtengan de su corta, trozado, aserrío, astillado y otra forma de divisionamiento o presentación, cualquiera sea su denominación, incluyendo la leña y los subproductos que se obtengan de dichos procesos, durante el período comprendido entre el 1º del mes siguiente al de la publicación de este certificado en el Diario Oficial y el 31 de octubre de 1998.
+
+Valparaíso, 2 de septiembre de 1998.- Francisco Cárcamo Avendaño, Director Regional.
