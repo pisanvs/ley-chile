@@ -17616,6 +17616,8 @@ b) Participa en la gestión de la entidad; o,
 
 c) Según normas generales, establecidas directamente en la Ley o dictadas por esta Superintendencia en uso de las facultades que la misma ley le otorga, aparecen situaciones que hacen presumir esa relación mientras no se presenten antecedentes suficientes que permitan eliminar esa presunción.
 
+Estas relaciones afectan tanto a las personas naturales como a las personas jurídicas, sean éstas sociedades de cualquiera clase, incluidas las cooperativas y mutuales, como asimismo las corporaciones y fundaciones, sindicatos, asociaciones gremiales, etc.
+
 1.1. Personas relacionadas a una institución financiera a través de la propiedad.
 
 Una persona se encuentra relacionada a una institución financiera a través de la propiedad, cuando es accionista de ella o es socia o accionista de sociedades que, a su vez, poseen acciones de la institución directamente o a través de otras sociedades. Esta relación, de acuerdo con la Ley, puede ser directa o a través de terceros. Puede también producirse una relación indirecta a través del cónyuge, separado o no de bienes, o de los hijos menores.
