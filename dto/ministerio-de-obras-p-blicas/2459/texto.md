@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.459, de 31 de agosto de 1999, se expropió el lote de terreno Nº48, superficie 1.311 m2., rol de avalúo 173-4, comuna de Puchuncaví, para la obra Ampliación Camino Nogales-Puchuncaví, Ruta F-20, Quinta Región y se acordó el valor de indemnización con sus propietarios Desiderio Segundo Fernández Cisternas y otro, ascendente a la cantidad de $1.514.302.-
+
+Fiscal del Ministerio de Obras Públicas.
