@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.314, de fecha 30 de julio de 2002, se expropió el lote de terreno Nº20, superficie 7.115 M2, rol de avalúo 764-34, comuna de Lampa, Región Metropolitana, para la obra ''Camino Ruta G-184-182, sector El Noviciado-Cruce Ruta G-16 (Lipangue), tramo Km. 4,450 al 15,04419'' y se acordó el valor de indemnización con su propietario la Inmobiliaria e Inversiones E Y E S.A., ascendente a la cantidad de $19.220.461.-
+
+Fiscal del Ministerio de Obras Públicas.
