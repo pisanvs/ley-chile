@@ -1,0 +1,3 @@
+Por Resolución No. 414, de 8 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, inmueble ubicado en calle Roberto Espinoza No. 507, presunto rol avalúos 646-5, comuna de Santiago, aparentemente dominio de doña María Sánchez Alarcón. Comisión integrada por peritos señores Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos, y Walter Soto Silva, ingeniero civil, según informe de 24 de noviembre de 1988, fijó monto provisional indemnización en $ 1.609.263, pagadera al contado.
+
+Director SERVIU Metropolitano.
