@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta N° 495, 04 de junio de 1986, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana, se autroriza a los señores José Acevedo Pezoa, don Raúl Aguilera Mellado, don Patricio Osvaldo, Abarca Bustos, don Jorge Alvear Oviedo, don Bernardo Emilio Catalán Ponce, don Secundino del Carmen Cerda Cerda, don Lautaro Díaz Canales, don Víctor Manuel Espinoza Agurto, don Francisco Lavín Larraín, doña Nelly del Carmen Navarro Astorga, don Manuel Opazo Sánchez, don Samuel Mario Ramírez Flores, don Rafael Silva Silva y don Hugo Ramón Vergara Meneses para efectuar el servicio de Taxi Colectivo urbano que se indica a continuación:
+
+Circunvalación: Ejército Libertador - Domingo Tocornal - Juan de Dios Malebrán - Teniente Bello Av. Central - Choapa Tocornal - Santo Domingo Santa Josefina - José Luis Coo - Balmaceda - Eduardo Cordero Av. Concha y Toro Av.. Independencia - Av. Concha y Toro - Gandarillas Santo Domingo - Tocornal Choapa - Av. Central Teniente Bello - Juan de Dios Malebrán - Domingo Tocornal - Ejército Libertador.
+
+Santiago, 09 de Junio de 1986. - Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana
