@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.623, de 30 de septiembre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº111L4, para la obra Proyecto Línea 4, Sector: Av.
+
+Tobalaba-Rotonda Grecia, Región Metropolitana, que figura a nombre de Lohr Hubert Maud Justina y Ot, rol de avalúo 644-1, comuna de Providencia, superficie 84 m2. La comisión de peritos integrada por la señora María Cristina Camus Palacios y señores Ramón Enrique Domingo Labarca y Armando Antonio Pinochet Landero, fijó con fecha 30 de agosto de 2002, el valor provisional de la indemnización en la cantidad de $108.351.486.- para el lote Nº111L4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
