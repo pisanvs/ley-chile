@@ -1,0 +1,5 @@
+AUTORIZA A EMPRESA PESQUERA CHILEMAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 375 de 28.04.87 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Empresa Pesquera Chilemar S.A., domiciliada en Santiago, para ampliarlas actividades pesqueras autorizadas por resolución No. 38, de 1980, de esta Subsecretaría, mediante Operación de las embarcaciones "Maracaibo II" (ex - Azapa), "Mar Báltico" (ex - Mac), "Mar Caribe" (ex - Saturno), "Mar Amarillo" (ex - Chapiquiña) y "Maresma" (ex - Payachata), autorizadas para capturar anchoveta, sardina española, jurel, caballa, roncacho y machuelo. De los recursos mencionados, sólo los cuatro primeros serán destinados a la producción de harina en atención a lo dispuesto en el DS No. 316, de 1985. Derógase la resolución No. 200 y No. 124, ambas de 1984, de esta Subsecretaría.
+
+Valparaíso, 28.04.87.- Roberto Cabezas Bello, Subsecretario de Pesca.
