@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.688, de 17 de junio de 2004, de esta Subsecretaría, modifícase la resolución Nº 1.568 de 2004, de esta Subsecretaría de Pesca, que autorizó a la UNIVERSIDAD AUSTRAL DE CHILE, Centro Universitario de la Trapananda, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2004-13 denominado "Estimación de la biomasa reproductiva de Orange roughy en sus principales zonas de concentración, 2004", en el sentido de agregar al numeral 5º, los siguientes incisos 4º y 5º:
+
+"Asimismo, autorízase la captura de Alfonsino (Beryx splendens), en calidad de fauna acompañante del recurso Orange rouhgy (Haplostetus atlanticus), en un 10%, medido en peso, por viaje de pesca, en relación a la especie objetivo, de conformidad con lo dispuesto en el DS Nº 44 de 2000, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Las capturas de Alfonsino se imputarán a la fracción autorizada a ser extraída en calidad de fauna acompañante del límite de captura y desembarque total autorizado mediante DS Nº 121 de 2004, del Ministerio de Economía, Fomento y Reconstrucción."
+
+Valparaíso, 17 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
