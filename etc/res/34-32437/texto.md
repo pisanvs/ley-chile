@@ -1,0 +1,5 @@
+Por resolución N° 34 de 13 de Enero de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD COMERCIAL E INVERSIONES AGROMAR LTDA., R.U.T. N° 89.042.600-K, en orden a instalar y operar la planta ubicada en Isla Galas, Base Roca, Puerto Cisnes, XI Región, en las líneas de elaboración de Fresco-refrigerado, los siguientes recursos hidrobiológicos: Congrio colorado, Congrio dorado, Merluza del sur, Pejerrey de mar, Róbalo, Salmón del Atlántico, Salmón cereza, Salmón plateado, Salmón rey, Trucha arcoiris, Almeja, Culengue, Cholga, Choro, Chorito, Huepo o navaja de mar, Lapa, Ostra chilena, Ostra del Pacífico, Pulpo, Calamar, Centolla, Centollón, Jaiba, Jaiba marmola, Jaiba mora, Jaiba panchote, Jaiba peluda o pachona, Jaiba reina, Jaiba remadora, Erizo.
+
+Deniégase la autorización solicitada respecto de las especies y líneas de elaboración no incluidas en la presente Resolución, en virtud de los informes técnicos, normas legales y reglamentarias citadas en Visto.
+
+Valparaíso, 13 de Enero de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
