@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 346, de 31 de marzo de 1998, se expropiaron los lotes de terreno Nº s. 3-A y 3-B, superficies 404 y 404 m2, rol de avalúo 431-45, comuna de Chimbarongo, obra Camino Ruta I-451, Sector Cruce Longitudinal Sur-Puente Negro, y se acordó precio de indemnización con su propietario Sergio Armando Navarro Parra, ascendente a la cantidad de $ 993.641.-
+
+Fiscal del Ministerio de Obras Públicas.
