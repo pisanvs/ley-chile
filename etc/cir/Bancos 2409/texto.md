@@ -3132,11 +3132,11 @@ No se considerarán como giros los cargos efectuados en las cuentas por concepto
 
 Los intereses que acuerden pagar las instituciones financieras a las cuentas de ahorro a plazo deben ser de aplicación general, sin que medien otras discriminaciones que no sean las provenientes del tipo de cuenta de que se trate, es decir, si es con giro incondicional o con giro diferido, con o sin libreta; del saldo medio mantenido, en tanto ello se establezca como condición para el pago de una mayor tasa de interés; o del número de giros pactado, según lo indicado en la letra d) del numeral 7.3 de este Capítulo.
 
-Las instituciones financieras pueden fijar libremente la tasa de interés anual a pagar sobre el capital reajustado, la que sólo se podrá cambiar el primer día de cada trimestre calendario, esto es, los días 1° de los meses de enero, abril, julio y octubre de cada año y regirá, a lo menos, por ese trimestre.
+Las instituciones financieras pueden fijar libremente la tasa de interés anual a pagar sobre el capital reajustado, la que sólo se podrá cambiar el primer día de cada mes calendario.
 
-No obstante, la tasa de interés podrá ser modificada sin esperar el inicio de un nuevo trimestre calendario, cuando la nueva tasa sea superior a la que esté vigente. Esta mayor tasa no podrá ser disminuida en lo que resta del trimestre y en todo el trimestre siguiente.
+No obstante, la tasa de interés podrá ser modificada sin esperar el inicio de un nuevo mes calendario, cuando la nueva tasa sea superior a la que esté vigente. Esta mayor tasa no podrá ser disminuida en lo que resta del mes y en todo el mes siguiente.
 
-En todo caso, sólo podrá disminuirse la tasa de interés de un trimestre a otro, si la nueva tasa es informada a los clientes en la forma y con la oportunidad debidas, según lo indicado en el numeral 14.2 de este Capítulo.
+En todo caso, sólo podrá disminuirse la tasa de interés de un mes a otro, si la nueva tasa es informada a los clientes en la forma y con la oportunidad debidas, según lo indicado en el numeral 14.2 de este Capítulo.
 
 9.2. Cálculo y pago de intereses.
 
@@ -3202,9 +3202,9 @@ En todo caso, tanto en la libreta de ahorro como en los estados de saldos que se
 
 14.2. Información al público sobre tasas de interés, montos mínimos de depósitos y comisiones.
 
-Las instituciones financieras deberán anunciar las tasas de interés vigentes sobre las cuentas de ahorro a plazo y aquellas que regirán en el trimestre siguiente, cuando se haya acordado modificarlas, mediante avisos destacados que colocarán en los locales en que se atienda a los titulares de dichas cuentas. Los anuncios sobre modificación de la tasa, se harán con una anticipación mínima de diez días a la fecha de inicio del trimestre en que comenzará a ser aplicada.
+Las instituciones financieras deberán anunciar las tasas de interés vigentes sobre las cuentas de ahorro a plazo, mediante avisos destacados que colocarán en los locales en que atiendan a los titulares de dichas cuentas Junto con esta información deberá indicarse, cuando corresponda, el monto o las tasas de las comisiones vigentes y, si es el caso, las restricciones relativas a los montos mínimos de depósitos que se aceptan.
 
-En la misma forma y junto con la información acerca de las tasas de interés pagadas, deberá indicarse, cuando corresponda, el monto o las tasas de las comisiones vigentes en el trimestre y, si es el caso, las restricciones relativas a los montos mínimos de depósitos que se aceptan.
+Cuando la institución financiera resuelva disminuir la tasa de interés que pagará a las cuentas de ahorro a plazo, el aviso de que se trata deberá incluir también un anuncio de la nueva tasa, con una anticipación mínima de cinco días a la fecha de inicio del mes en que comenzará a regir Del mismo modo, si la institución financiera resuelve aumentar las comisiones, anunciará en el mismo aviso las nuevas comisiones, al menos con diez días de anticipación al inicio del trimestre siguiente.
 
 14.3. Información a los titulares de las cuentas sobre comisiones cobradas.
 
