@@ -1,0 +1,1 @@
+Decreto-Lei N° 457, que posterga el remate de terrenos salitrales y autoriza la contratacion de un empréstito por $ 10,000,000 oro.
