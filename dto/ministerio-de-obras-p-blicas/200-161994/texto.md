@@ -1,0 +1,3 @@
+Por decreto No. 200, de 25 de Julio de 1985, se expropió el lote No. 58, cuya superficie es 170 m2, rol de avalúo 46-28, comuna de Peumo para la obra Ruta H-66-G Pelequén-Cruce Las Arañas, sector Codao-Las Cabras y se acordó el precio de indemnización con sus propietarios César Correa Troncoso y Antonio Soto Miranda, ascendente a la cantidad de $ 89.551.
+
+- Fiscal del Ministerio de Obras Públicas. (2)
