@@ -1,0 +1,3 @@
+El Banco Central de Chile, certifica, a requerimiento de la Dirección General del Territorio Marítimo y de Marina Mercante, para los efectos de lo dispuesto en el artículo Nº 116 del decreto supremo de la Subsecretaría de Marina Nº 427, de 25 de junio de 1979, que la variación experimentada por el Indice de Precios al Consumidor de los Estados Unidos de América, entre el 1º de diciembre de 1998 y el 30 de noviembre de 1999, fue de 2,6%.
+
+Santiago, 16 de diciembre de 1999.- Miguel Angel Nacrur Gazali, Ministro de Fe.
