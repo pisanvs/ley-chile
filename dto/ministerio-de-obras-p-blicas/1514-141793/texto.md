@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.514, de 31 de mayo de 1999, se expropió el lote de terreno No. 6, superficie 385 mý, rol de avalúo 203-14, comuna de Rengo, para la obra Mejoramiento Ruta 5, Longitudinal Sur, Sector Pasada por Rengo, Sexta Región y se acordó el valor de indemnización con su propietario Orlando Verdugo Verdugo, ascendente a la cantidad de $ 38.476.850.-
+
+Fiscal del Ministerio de Obras Públicas.
