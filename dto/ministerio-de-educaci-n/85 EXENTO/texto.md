@@ -1,0 +1,3 @@
+Por Decreto Exento No. 85 de fecha 10 de abril de 1992 del Ministerio de Educación, se insertó en la resolución Exenta de Educación No. 277 de 1990 del Centro de Formación Técnica VIPRO, las adecuaciones introducidas a las carreras de Secretariado de Gerencia en Español y Secretariado de Gerencia Bilingüe Inglés - Español, las que podrán aplicarse a contar del año 1992 en la Sede Valdivia.
+
+Santiago, 01 de Julio de 1992.- Raúl Allard Neumann, Subsecretario de Educación.
