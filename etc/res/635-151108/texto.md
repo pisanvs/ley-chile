@@ -1,0 +1,5 @@
+AUTORIZA A PRODUCTORA Y COMERCIALIZADORA DEL MAR LTDA., PROCOMAR LTDA. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 635, de 23.06.87, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Productora y Comercializadora del Mar Ltda., PROCOMAR Ltda., domiciliada en La Serena, para iniciar actividades pesqueras de transformación mediante la operación de una planta industrial en Barrio Industrial Pesquero de Coquimbo, calle Regimiento Coquimbo s/n, Coquimbo, IV Región, donde procesará en las líneas de elaboración de congelado, conserva y semi conserva los siguientes recursos hidrobiológicos: Sardina española, sardina común, jurel, anchoveta, caballa, bonito, machuelo, agujilla, congrio dorado, congrio colorado, cojinova, mero, langostino colorado, langostino amarillo, camarón, jaiba, almeja, loco, macha, ostión del Norte, chorito, cholga, chocha y locate, los que adquirirá a terceros.
+
+Valparaíso, 23.06.87.- Roberto Cabezas Bello, Subsecretario de Pesca.
