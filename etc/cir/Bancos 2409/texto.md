@@ -8100,6 +8100,14 @@ XI.- CREDITOS INTERNOS PARA EXPORTACIONES.
 
 Los créditos en moneda extranjera que otorguen las empresas bancarias para financiar exportaciones de acuerdo con lo establecido en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, se incluirán en la cuenta "Préstamos para exportadores" de la partida 1130 ó 1225, según sea el plazo pactado.
 
+XII.- TRANSFERENCIAS SUJETAS A COMPENSACION POR INTERMEDIO DE UNA SOCIEDAD DE APOYO AL GIRO.
+
+Las instituciones financieras que reciban, por intermedio de una sociedad de apoyo al giro que realice la compensación de pagos y recaudaciones, instrucciones para efectuar pagos a favor de terceros, cursarán los abonos correspondientes con cargo a la cuenta "Operaciones cursadas sujetas a compensación".
+
+Por otra parte, las instituciones financieras que reciban, por intermedio de la sociedad de apoyo que realice la compensación, instrucciones para efectuar recaudaciones de cargo de terceros, cursarán los respectivos débitos con abono a la cuenta "Operaciones cursadas sujetas a compensación". Igual procedimiento aplicarán las instituciones financieras que reciban instrucciones de sus clientes para efectuar pagos a terceros que deban cumplirse por intermedio de otras instituciones financieras, cuyas instrucciones sean canalizadas por la sociedad de apoyo que realice la compensación.
+
+La cuenta antes mencionada será habilitada en la partida 1015, la que reflejará el saldo deudor correspondiente al importe de los vales de cámara que deba recibir la institución financiera como resultado de la compensación, y en la partida 3010, la que reflejará el saldo acreedor correspondiente a los vales de cámara que deba emitir la institución financiera por los importes adeudados con motivo de la compensación.
+
 CAPITULO 7-6 (Bancos)
 
 MATERIA:
