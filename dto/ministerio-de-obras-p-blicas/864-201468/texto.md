@@ -1,0 +1,3 @@
+Por decreto MOP Nº864 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº15, superficie 510 m², Rol Nº152-459, comuna de Graneros, VI Región para la obra ''Camino Rol H-10, sector Graneros - San Francisco de Mostazal, tramo Km. 0,000 a Km. 9,317'' y se acordó el valor de indemnización con su propietario Humberto Antonio Vilches Rojas, ascendente a la cantidad de $3.113.608.-
+
+Fiscal del Ministerio de Obras Públicas.
