@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.964, de 28 de diciembre del 2001, se expropió el lote de terreno Nº78, superficie 280 m2., rol de avalúo 103-549, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso Viña del Mar. Tramo 6A3: Kms. 33.800,00 al 34.720,00, Región Metropolitana y se acordó el valor de indemnización con su propietario Patricio Simón Hernández Vera, ascendente a la cantidad de $2.083.731.-
+
+Fiscal del Ministerio de Obras Públicas.
