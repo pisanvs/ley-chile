@@ -1,0 +1,7 @@
+Fabricacion de pólvora
+
+Santiago, 7 de Agosto de 1817.
+
+Visto este espediente con meditada reflexion, restablézcase la casa fábrica de pólvora por el tribunal de minería a quien darán los ministros de hacienda de los ramos de ésta los mil i quinientos pesos que dice necesitar para dicho establecimiento, que debe quedar listo i espedito con la mas posible brevedad en obsequio i defensa del Estado, i en auxilio del importante gremio de minería, i conformándose con el fundado dictamen fiscal apoyado por el mismo tribunal de minería, procederá éste inmediatamente a celebrar un contrato, por el cual una persona de probidad, celo, actividad, conocimientos e intereses en el bien jeneral, sea obligada a fabricar pólvora de las calidades que se le designen por el comandante jeneral de artillería, a cuya satisfaccion se recibirá, i por el precio que se conviniere por el tribunal que ha invertido mas de setenta mil pesos en dicha casa fábrica: i para que por defectos de salitres, de que abunda tanto el territorio chileno, no deje de elaborarse pólvora; se excita a todos sus habitantes al descubrimiento i libre elaboracion de ellos, que serán pagados a veinticinco pesos el quintal, si fuese de primera cochura, o destilacion, i a 35 pesos el de dos cochuras;
+
+i al efecto imprímase en la Gazeta.- Quintana.- Dr. Villégas.
