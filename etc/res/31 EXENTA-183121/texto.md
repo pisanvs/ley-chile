@@ -1,0 +1,5 @@
+Por R.M. (Ex.) Nº 31, de 15 de marzo de 2001, del Ministerio de Economía, Fomento y Reconstrucción, acógese parcialmente el recurso de reclamación interpuesto por PESQUERA BIO BIO S.A. Considérese en la determinación de su límite máximo de captura, en las unidades de pesquerías que se indican, las capturas totales de las embarcaciones y meses que se señalan: Gardar: Jurel, III y IV Regiones, Septiembre de 1999:
+
+53,446 t.; Bonn: Merluza de cola, V a X Regiones, Julio de 1999: 55,607 t.; Biomar V: Merluza común, IV Región al paralelo 41°28,6' L.S., Abril 1999: 519,095 t.; Junio 1999: 272,576 t.; Toekan: Merluza común, IV Región al paralelo 41°28,6' L.S., Septiembre 2000: 232,934 t.; diciembre 2000: 139,411 t.; Albatros II: Merluza común, IV Región al paralelo 41°28,6' L.S., Septiembre de 2000: 106,832 t.; Loa 24: Merluza de cola, V a X Regiones, Diciembre 1999: 98,739 t.; Noviembre 2000: 81,989 t.; Biomar IV: Merluza común, IV Región al paralelo 41°28,6' L.S. Abril 1999: 501,811 t.; Junio 1999: 374,072 t.
+
+José de Gregorio Rebeco, Ministro de Economía, Fomento y Reconstrucción.
