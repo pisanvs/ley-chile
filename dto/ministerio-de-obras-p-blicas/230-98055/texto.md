@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº230 de 27 de febrero de 1998, se expropiaron los lotes de terrenos Nºs. 6, 7, 13, 8, 9 y 11, superficies 285,00, 255,40, 304,00, 441,00, 468,12 , 150,75, roles de avalúo 61- 15, 61-14, 61-33, 61-13, 61- 12, y 61-31, comuna de Curicó, para la obra Camino Ruta 5 Sur, sector acceso a Curicó y se acordó precio de indemnización con sus propietarios Adriana Núñez, Adeodato del Carmen Núñez Labra, Claudina del Carmen Pavez Aguilar, María Antonieta Reyes Ponce y Tito del Carmen Ulloa Olivos, ascendente a las cantidades de $30.491.790, $38.162.285, $27.069.417, $57.332.145, $55.234.590 y $11.059.145 respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
