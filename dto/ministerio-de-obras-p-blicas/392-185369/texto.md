@@ -1,0 +1,3 @@
+Por decreto MOP Nº392 de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº54, superficie 10 m2, rol de avalúo en trámite, comuna de Retiro, para la obra "Camino Ruta L-75, sector El Ajial - Las Camelias Tramo: Kms. 6,320.00 al 23,400.00" y se acordó el valor de indemnización con su propietario Iván Antonio Saldaña Inostroza, ascendente a la cantidad de $236.664.
+
+Fiscal del Ministerio de Obras Públicas.
