@@ -1,0 +1,11 @@
+Escudo de armas de la Patria.- Senado Consulto dictado en 1819.
+
+En la ciudad de Santiago de Chile, a veintitres dias del mes de setiembre de mil ochocientos diecinueve años, hallándose el Excmo. Senado en su sala de acuerdos i en sesiones ordinarias, se tuvo en consideracion la necesidad de colocar las Armas Nacionales sobre las puertas del Palacio de Gobierno que se mandaron a prestar por el Excmo. Señor Supremo Director; i acordó S.E., que en honor del pais se ejecute este acto con la decoracion que exije el grande objeto a que se encamina, teniéndose, por las Armas de la Patria el escudo formado en campo azul oscuro, ubicada en su centro una columna de orden dórico sobre su pedestal de mármol blanco encimada del mundo nuevo americano submontada de un letrero que dice así: «Libertad»; i sobre éste una estrella de cinco puntas representante de la provincia de Santiago; presentándose a los lados de la columna otras dos estrellas iguales por Concepcion i Coquimbo, orlado todo de dos ramas de laurel, atados sus cogollos con una cinta i rosa tricolor; apareciendo en su circuito toda armería por el orden de caballería, infantería, dragones, artillería i bombardería, con los demás jeroglíficos alusivos a la vil cadena de la esclavitud que supo romper la América; i mandando comunicar la aprobacion al Supremo Director; firmaron los señores con el infrascrito secretario.- Pérez.- Alcalde.- Rozas.- Cienfuegos.- Fontecilla.- Villarreal, secretario.
+
+Excmo. Señor:
+
+Pasa el Senado a V.E. la acta aprobatoria de la colocacion de las Armas Nacionales que le indicó V.E. en nota 22 del que rije; quedándole la satisfaccion de que a sus empeños deba Chile el honor con que se le decora.
+
+Dios guarde a V.E. muchos años.- Sala del Senado, setiembre 23 de 1819.-Francisco Antonio Pérez.- José María Villarreal, secretario.- Excmo. Señor Supremo Director del Estado.
+
+Santiago, i setiembre 24 de 1819.-Hágase en todo como dice el Excmo. Senado e insértese en la Gaceta Ministerial.-O'Higgins.- Echeverría.- (Boletin, pájinas 125 i 126, año 1819).
