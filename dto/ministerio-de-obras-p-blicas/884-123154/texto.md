@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 884, de 30 de junio de 1998, se expropió el lote terreno No. 2, superficie 1.516 m2, rol de avalúo 121-98, comuna de Sagrada Familia, para la obra Camino Lontué - Villa Prat Rol K-16, Sector Pte. Pichuco y se acordó precio de la indemnización con su propietario Francisco Germán Gaete Espinoza, ascendente a la cantidad de $ 5.081.544.
+
+- Fiscal del Ministerio de Obras Públicas.
