@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.711, de fecha 30 de junio de 2000, se expropió el lote de terreno Nº56-A, superficie 190 m2, rol de avalúo 60-13, comuna de Chépica, para la obra ''Camino Chépica - Bif. Teno, Sector Cuesta El Peral - Chépica - Tramo Km. 5.250 a Km. 18.893.22'' y se acordó el valor de indemnización con su propietario Rigoberto Donoso Donoso, ascendente a la cantidad de $5.431.970.
+
+Fiscal del Ministerio de Obras Públicas.
