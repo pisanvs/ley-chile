@@ -1926,8 +1926,6 @@ El inciso segundo del artículo 10 de la Ley sobre Cuentas Corrientes Bancarias 
 
 Conforme con la disposición citada, los bancos deben proceder a pagar o a protestar por falta de fondos, cuenta cerrada, orden de no pago u otras causas,según proceda, los cheques que se les presenten a cobro, aunque lleven una fecha de emisión posterior al día de su presentación.
 
-En el caso de fallecimiento del librador y tratandose de cheques girados en pago de obligaciones, esa norma se aplica aun cuando el deceso hubiera ocurrido en una fecha anterior a la señalada en el cheque.
-
 1.2.4. Revalidación de un cheque.
 
 De la disposición contenida en el artículo 24 de la Ley sobre Cuentas Corrientes Bancarias y Cheques, se desprende que para revalidar el cheque de fecha vencida se necesita la voluntad expresa del librador, la que debe constar por escrito.Es recomendable que este proceso se realice dejando la constancia en el reverso del cheque y no en un documento separado. De cualquier modo, dicha declaración debe hacerse con la firma completa del girador e indicando la fecha en que se hace.
