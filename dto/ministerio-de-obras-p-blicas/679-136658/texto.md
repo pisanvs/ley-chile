@@ -1,0 +1,5 @@
+Por decreto MOP Nº679, de 29 de marzo de 1999, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs. 57 y 58, para la ejecución de la obra Camino Longaví El Tránsito, Tramo Longaví - Chalet Quemado, Sector Km. 0.000,00 a Km.
+
+11.860,00, que figuran a nombre de Manuel Celestino Ibáñez Cerda y Manuel Ibáñez, Rol de Avalúo en trámite, comuna de Longaví, VII Región, superficies 272 y 53 M2. La Comisión de Peritos compuesta por los señores Hugo Villarroel Urbina, Carlos Sottolichio Díaz e Iván Correa Opazo, fijó con fecha 24 de junio de 1994, el valor provisional de las indemnizaciones en la cantidad de $247.400.- lote 57 y $156.850.- lote 58. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
