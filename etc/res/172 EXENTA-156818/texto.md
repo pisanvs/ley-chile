@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 172 de 14 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a las parcelas N°s. 1 a la 10 y sitios N°s. 1 al 9 del proyecto de parcelación "Lo Fontecilla" formado por predio "Fundo Las Mercedes antes Lo Fontecilla", de la comuna de Lampa, Región Metropolitana. Los derechos de agua provienen de pozos profundos. Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
