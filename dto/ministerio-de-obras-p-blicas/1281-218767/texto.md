@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.281, de fecha 31 de octubre de 2003, se expropió el lote de terreno Nº 11-A, superficie 276 m², rol Nº 1129-85, comuna de Pichilemu, para la obra "Camino Pichilemu - Cáhuil, Ruta I-500, Km. 0,980 a Km. 12,76217", VI Región, y se acordó el valor de la indemnización con su propietaria Cla-ra Luisa Vargas Canales, ascendente a la cantidad de $5.583.611.
+
+Fiscal del Ministerio de Obras Públicas.
