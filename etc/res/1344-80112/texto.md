@@ -1,0 +1,3 @@
+Por Resolución No. 1.344, de 24 de Octubre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días a contar de esta fecha, el plazo otorgado a don JOSE ROBERTO MERINO SANHUEZA, RUT No. 5.995.915-8, domiciliado en la ciudad de Talcahuano, calle San Humberto No. 278, Caleta Lenga, en el numeral 4° de la Resolución No. 1.145, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 24 de Octubre de 1991.- Andrés Couve, Rioseco, Subsecretario de Pesca.
