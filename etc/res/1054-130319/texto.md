@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.054 de 22.06.88, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio Las Cabras de la Comuna de Colbún, VII Región; y Derechos Aprovechamiento Aguas que corresponden a las parcelas Nos. 1 a la 41 y 43, sitios 1 al 92 y Reservas Cora Nos. 1 y 2 del Proyecto de Parcelación "San Luis", formado por predio señalado y otro. Los Derechos de Agua se extraen de los canales Las Cabras, San Rafael, El Macho, Canal Melado, Canal Comunero y Canal Santa Elena Alto. Publicación hecha conforme Art. 13 Ley 18.377.
+
+- Director Ejecutivo.
