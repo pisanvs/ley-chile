@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.040, de 29 de junio de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 75. Obra: Camino Malalcahuello-Paso Pino Hachado Rutas R-891, R-955 y R-89, sector Acceso Pedregoso-Liucura, Km. 141,00000 al 158,54000, que figura a nombre de Oscar Aníbal Muñoz Gumane, rol de avalúo 63-199, comuna de Lonquimay, IX Región, superficie 2.452 m2. La Comisión de Peritos, fijó con fecha 27 de octubre de 1999, en la cantidad de $4.265.000 la indemnización provisional, que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
