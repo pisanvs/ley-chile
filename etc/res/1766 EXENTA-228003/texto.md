@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.766, de 1 de julio de 2004, de esta Subsecretaría, modifícase el numeral 1.- de la resolución Nº 966 de 2004, de esta Subsecretaría, que autorizó a EUGENIO RAUL YOKOTA BEURET, para instalar colectores de semillas de chorito en sector La Arena, Estero Reloncaví, X Región, en el sentido de extender el plazo de vigencia que en ella aparece hasta el 31 de agosto de 2004.
+
+Valparaíso, 1 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
