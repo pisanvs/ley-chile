@@ -1,0 +1,85 @@
+DELEGA EN JEFE DEL DEPARTAMENTO REGIONAL DE
+
+AVALUACIONES, FACULTAD QUE INDICA
+
+En cumplimiento de la Resolución N° 3.198 exenta, de
+
+9 de Julio de 1996, de esta Dirección Nacional,
+
+publicada en el Diario Oficial de 16 de Julio 1996, los
+
+Directores Regionales han delegado en el respectivo Jefe
+
+del Departamento Regional de Avaluaciones la facultad
+
+de: "Dictar resoluciones administrativas que modifican
+
+de oficio o a petición de los contribuyentes los avalúos
+
+de los Bienes Raíces o que se pronuncian sobre factores
+
+o circunstancias que inciden sobre el monto a pagar del
+
+Impuesto Territorial.", mediante resoluciones, N° ex
+
+304, de 12 de Agosto de 1996, la I Dirección Regional;
+
+N° ex 1291, de 9 de Agosto de 1996, la II Dirección
+
+Regional; N° ex 778, de 23 de Julio de 1996, la III
+
+Dirección Regional; N° ex 1003, de 26 de Julio de 1996,
+
+la IV Dirección Regional; N° ex 3151, de 29 de Julio de
+
+1996, la V Dirección Regional; N° ex 1070, de 30 de
+
+Julio de 1996, la VI Dirección Regional; N° ex 2429, de
+
+16 de Julio de 1996, la VII Dirección Regional; N° ex
+
+2366, de 24 de Julio de 1996, la VIII Dirección
+
+Regional; N° ex 1375, de 5 de Agosto de 1996, la X
+
+Dirección Regional; N° ex 655, de 29 de Julio de 1996,
+
+la XI Dirección Regional; N° ex 770, de 9 de Agosto de
+
+1996, la XII Dirección Regional; UOJ13 N° ex 27, de 23
+
+de Julio de 1996, la XIII Dirección Regional; N° ex
+
+1382, de 5 de Agosto de 1996, la XIV Dirección Regional;
+
+N° ex 06, de 29 de Julio de 1996, la XV Dirección
+
+Regional; N° ex 38, de 15 de Julio de 1996, la XVI
+
+Dirección Regional y N° ex 968, de 5 de Agosto de 1996,
+
+la IX Dirección Regional, en la cual se delega, además,
+
+en el Jefe del Departamento Regional de Avaluaciones la
+
+facultad de "Autorizar mediante resolución fundada, para
+
+los efectos de determinar la base imponible del Impuesto
+
+al Valor Agregado en la venta o promesa de venta de un
+
+bien inmueble gravado, que se deduzca del precio
+
+estipulado en el contrato, el valor efectivo de
+
+adquisición del terreno, de acuerdo a lo dispuesto en el
+
+#### Artículo 17
+
+, inciso quinto, del D.L. 825, sobre impuesto
+
+a las Ventas y Servicios.", derogando la resolución N°
+
+ex 412, de 24 de Febrero de 1994.
+
+Secretario General.
