@@ -1,0 +1,3 @@
+Por resolución Nº 2.361, de 1º de diciembre de 1999, de esta Subsecretaría, autorízase a PESQUERA GRIMAR S.A., para ampliar actividades pesqueras de transformación, en orden a que la peticionaria podrá incorporar como materia prima, a la planta ubicada en Sector Nudo Barón s/n, Valparaíso, V Región, en las líneas de elaboración de Fresco-refrigerado, Congelado, Salado, Embutidos y Ahumado, el recurso hidrobiológico Orange roughy.
+
+Valparaíso, 1 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
