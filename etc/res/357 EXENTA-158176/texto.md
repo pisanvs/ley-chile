@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 357 de 02 de Abril de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas que corresponden a parcelas N°s 1 a la 43, sitios N°s 1 al 29, 30A, 30B, 31 al 37, R.C.5 y R.C.- 6 y Reservas CORA N°s. 1 y 2 del Proyecto de Parcelación "San José de Toro" formado por el sector efectivamente expropiado de los predios Parte de la "Hijuela Primera del Fundo Todos Los Santos", Parte de la "Hijuela Segunda del Fundo Todos Los Santos", "Pequeña Porción del Fundo San José de Toro", "Hijuela Tercera del Fundo San José de Toro", "Hijuela Cuarta o El Peñón del Fundo San José de Toro, Parte de la "Hijuela Quinta del Fundo San José de Toro" de la comuna de Chimbarongo, Sexta Región.- Los Derechos de Agua se extraen del canal San José de Toro, derivado del Estero Chimbarongo, Estero Patrones y Derrames del Estero Patrones.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
