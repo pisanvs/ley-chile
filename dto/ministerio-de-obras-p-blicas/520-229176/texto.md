@@ -1,0 +1,3 @@
+Por decreto MOP Nº 520 de fecha 30 de junio de 2004, se expropio el lote de terreno Nº 32, superficie 1.890 m2, Rol de avalúo Nº 512-35, comuna de Aysén, XI Región para la obra "Pavimentación Ruta 7, sector Cruce Ruta 7-Ruta X-50-Villa Mañihuales-Pedregoso Km. 27,900 a Km. 53,120" y se acordó el valor de la indemnización con su propietario Congregación Religiosa Obra Don Guanella, ascendente a la cantidad de $5.947.830.
+
+- Fiscal del Ministerio de Obras Públicas.
