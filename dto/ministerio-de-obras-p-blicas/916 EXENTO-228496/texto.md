@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 916, de fecha 30 de junio de 2004, se expropiaron los lotes de terreno Nº s 35 y 36, superficie 3.421 y 3.074 m²., respectivamente, Rol Nº 328-12, comuna de Laja, VIII Región para la obra "Camino Ruta Q-34 Candelaria - La Laja, Sector Millantu - La Laja Km. 20,00000 a 35,88380" y se acordó el valor de indemnización con su propietario María Raquel Benavente Cea, ascendente a la cantidad de $2.538.358.
+
+Fiscal del Ministerio de Obras Públicas.
