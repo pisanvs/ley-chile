@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.036, de 31 de agosto del 2000, se expropió el lote de terreno Nº41, superficie 280 m2., rol de avalúo en trámite, comuna de Constitución, para la obra Camino Ruta M-40 Santa Olga - Empedrado, Sector: Santa Olga - Los Pellines Km. 0,000 a Km. 10,847.92 y se acordó precio de la indemnización con su propietario Angel María Alegría Fuentes, ascendente a la cantidad de $348.293.-
+
+Fiscal del Ministerio de Obras Públicas.
