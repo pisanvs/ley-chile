@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República enajenar en remate público el terreno y edificio que ocupa la Escuela de Caballería, y para invertir el producto obtenido en los gastos que demande el traslado de esa Escuela.
