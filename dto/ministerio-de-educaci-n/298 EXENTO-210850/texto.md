@@ -1,0 +1,9 @@
+EXTRACTO DE DECRETO Nº 298 EXENTO, DE 2003
+
+Por decreto exento Nº298 de fecha 5 de mayo de 2003 del Ministerio de Educación, se modifica el artículo 1º del decreto exento Nº409 del 16 de abril de 1997 del Centro de Formación Técnica Santo Tomás en el sentido de impartir la carrera de Técnico en Enfermería de Nivel Superior en la Sede Central de Santiago, por única vez, para los funcionarios Auxiliares Paramédicos de Enfermería pertenecientes al Hospital del Salvador, Instituto Traumatológico, Hospital San Juan Dios, Hospital El Peral, Consultorio Julio Pinzón, Posta Rural de Ninhue-San Pedro de Melipilla, Posta Rural de Pupuya - Navidad, Hospital Exequiel González Cortés, Consultorios Municipalizados de Santiago, Servicio de Salud Metropolitano Central y Hospital Clínico San Borja Arriarán, que cumplen los requisitos de ingreso a este nivel de educación y con las exigencias establecidas por la institución, según nómina que se anexa y que forma parte del decreto.
+
+El programa especial de titulación, se desarrollará de acuerdo al número de horas del plan de estudios aprobado por el Ministerio de Educación, más un proceso de titulación, en un año académico, desde el 6 de abril de 2002 al 24 de mayo de 2003, a fin de regularizar las diferentes situaciones académicas de los postulantes que cumplan con los requisitos de ingreso a este nivel de educación y con las exigencias establecidas por la institución.
+
+Asimismo, se mantiene para todos los efectos legales lo dispuesto en el artículo 1º del decreto exento Nº409 del 16 de abril de 1997 del Centro de Formación Técnica Santo Tomás, de aprobación del plan y programas de la carrera de Técnico en Enfermería de Nivel Superior, para los alumnos regulares del Centro antes mencionado.
+
+Santiago, 22 de mayo de 2003.- María Ariadna Hornkohl Venegas, Subsecretaria de Educación.
