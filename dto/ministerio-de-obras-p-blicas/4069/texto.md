@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.069, de 31 de agosto de 2000, se expropió el lote de terreno Nº88-1, superficie 683 m2., rol de avalúo 233-514, comuna de Rengo, para la obra Concesión Internacional Ruta 5. Tramo Santiago - Talca. Sector F, Sexta Región y se acordó el valor de indemnización con su propietario María Ismaela Mejías Gajardo, ascendente a la cantidad de $4.098.597.
+
+Fiscal del Ministerio de Obras Públicas.
