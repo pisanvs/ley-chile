@@ -1,0 +1,11 @@
+Por resolución Nº 972, de 13 de mayo de 2003, de esta Subsecretaría, autorízase a SOCIEDAD AQUAMERB LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Análisis de las cuotas colectivas y del mercado nacional e internacional de la merluza del sur", elaborados por la solicitante y aprobados por esta Subsecretaría de Pesca.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en experimentar un sistema de cuotas colectivas con las organizaciones de la X Región y realizar una prospección de los mercados interno y externo durante los meses de mayo-junio del presente año.
+
+La pesca de investigación que por la presente resolución se autoriza se efectuará entre los días 21 y 25 de mayo de 2003, ambas fechas inclusive y entre los días 26 y 30 de junio de 2003, ambas fechas inclusive, en el área de aguas interiores de la X Región correspondiente a la Zona Chiloé-Palena, que comprende las áreas de operación de las caletas de Tac, Butachauques, Río Aucho, Huelden, Hueihue, Isla Ica, Buill, Ayacara, Poyo, Hueque, Chumelden, Llingua, Chaitén, Huite, Tenaún, Manao y Lamecura.
+
+En cumplimiento del objetivo de la presente pesca de investigación, las embarcaciones participantes podrán extraer un límite máximo de merluza del sur ascendente a 40 toneladas, fraccionadas en 20 toneladas a ser extraídas en cada uno de los períodos antes individualizados, las que se imputarán a la fracción reservada para ser extraída con fines de investigación en el área de aguas interiores de la X Región, mediante decreto exento Nº 1.102 de 2002, citado en Visto.
+
+Sociedad Aquamerb Limitada designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102, del DS Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, a su representante legal, don Héctor Bustos Rojas.
+
+Valparaíso, 13 de mayo de 2003.- Felipe Sandoval Precht, Subsecretaría de Pesca.
