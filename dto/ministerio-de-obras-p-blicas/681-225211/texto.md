@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 681, de 30 de agosto de 1996, se expropió el lote de terreno N°4, superficie 3.052 M2., rol de avalúo 761-39, comuna de Renca, para la obra Estudio de Ingeniería Habilitación Segunda Calzada Avenida Américo Vespucio, sector carretera Panamericana Norte-Ruta 72 y se acordó precio de indemnización con su propietario Frigorífico Golden Frost S.A., ascendente a la cantidad de $161.604.285.
+
+Fiscal del Ministerio de Obras Públicas.
