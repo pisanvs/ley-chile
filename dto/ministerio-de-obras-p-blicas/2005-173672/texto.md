@@ -1,0 +1,9 @@
+Por decreto MOP N°2005, de 16 de mayo de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP N°850, de 1997, que fijó el texto actualizado de la Ley N°15.840, se expropiaron los lotes de terreno N°s 5, 6, 7, 22, 23, 24, 25, 26, 26-A, 31, 32, 33, 35, 46, 49, 50, 51 y 53, para la obra Camino Ruta 5, Sector Chonchi - Tara, Kms 1.205,160 al 1.215,004, que figuran a nombre de Humberto Gómez Bórquez, Juana Pérez Bórquez y otros, Ana Delia Andrade Chodil, Arnoldo Alvarez Vera, Suc. Daniel Gómez Cárcamo, Enrique Becker Alvarez, Teresa Bórquez Vera y otros, Héctor Erico Bórquez Andrade y Pedro Segundo Pérez Pinto y otros, roles de avalúo 138-24, 138-11, 176-26, 135-2, 178-56, 136-5, 178-32, 178-60 y 142-25, superficies 665,7 m²; 3.376,3 m²; 2.387,5 m²; 4.830,35 m²; 3.295,5 m²;
+
+2.981,9 m²; 1.156,7 m²; 10.241,7 m²; 9.702,4 m²; 612 m²; 784,6 m²; 3.689,2 m²; 1.594,5 m²; 10.520,5 m²; 10.134,2 m²;
+
+3.156 m²; 16.087 m² y 13.991,2 m², comuna de Chonchi. La comisión de peritos, fijó con fecha 23 de abril de 1999, la indemnización provisional en las cantidades de $299.565, lote 5; $1.519.335, lote 6; $1.074.375, lote 7; $2.200.058, lote 22; $1.482.975, lote 23; $1.052.665, lote 24; $520.515, lote 25; $4.216.680, lote 26; $3.922.960, lote 26-A;
+
+$1.426.400, lote 31; $1.726.120, lote 32; $1.684.140, lote 33; $648.075, lote 35; $3.164.150, lote 46; $3.550.120, lote 49; $1.746.800, lote 50; $4.922.100, lote 51 y $4.202.560, lote 53, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N°2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
