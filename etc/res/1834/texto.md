@@ -1,0 +1,3 @@
+Por Resolución N° 1.834, de 25 de octubre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 93101114, presentada por JUAN MUNZENMAYER CARDENAS, para un sector ubicado en la Ribera Norte del Río Maullín, Comuna de Maullín, Provincia de Llanquihue, X Región, en virtud de lo dispuesto en los artículos 10° y 12°, del D.S. N° 290, de 1993, modificado por el D.S. N° 604, de 1994, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 25 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
