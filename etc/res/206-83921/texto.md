@@ -1,0 +1,9 @@
+AUTORIZA A PESQUERA SOPESA ALIMAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA
+
+La Subsecretaría de Pesca, por razones administrativas. se ha pronunciado sobre la solicitud de fecha 14 de Octubre de 1987, por Resolución No. 206 de 08 de Febrero de 1990 en el sentido de autorizar a Pesquera Sopesa Alimar S.A., domiciliada en Santiago, para ampliar las actividades que tiene autorizadas por Resoluciones No. 209, de 1984 y No. 106, de 1987, ambas de esta Subsecretaría, en orden operar la embarcación "María Teresa" autorizada por la Resolución No. 209, antes citada, además de las zonas y recursos señalados en dicha Resolución en el Litoral de las Regiones IX a XII, donde podrá extraer los siguientes recursos hidrobiológicos: Merluza del Sur, Congrio dorado, Cojinova del Norte. Cojinova del sur, Brótula, Merluza de tres aletas, Raya, Tollo. Merluza común, Merluza de cola, Pejegallo, Jurel, Sardina común, Caballa, Sardina española.
+
+Fíjase como zona de operación de la embarcación Arteta autorizada por la Resolución No. 106, mencionada en el númeral 1°. además de las zonas señaladas en dicha Resolución. el litoral de las Regiones IX a XII, donde podrá extraer los siguientes recursos hidrobiológicos: Merluza del Sur, Congrio dorado, Cojinova del norte, Cojinova del Sur, Brótula, Merluza de tres aletas, Raya, Tollo, Merluza común, Merluza de cola, Pejegallo, Jurel, Sardina común, Caballa, Sardina española.
+
+La solicitante deberá dar cumplimiento a las obligaciones establecidas en el artículo 19° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción. Deniégase la autorización solicitada por la peticionaria para extraer el recurso hidrobiológico Bacalao. de conformidad con lo dispuesto en el Decreto Supremo No. 439, de 1986, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 08 de Febrero de 1990. Roberto Cabezas Bello, Subsecretario de Pesca.
