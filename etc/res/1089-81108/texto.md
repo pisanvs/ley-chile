@@ -1,0 +1,3 @@
+Por resolución No. 1.089, de 02 de septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por tres meses a contar de la fecha de la presente Resolución, el plazo otorgado a PESCAYSEN LTDA., R.U.T. No. 89.622.800-5, domiciliada en Ahumada No. 6, oficina 112, Santiago, para empezar a operar el establecimiento de cultivo autorizado por la Resolución No. 588, de 1990, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de fuerza mayor.
+
+Valparaíso, 02 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
