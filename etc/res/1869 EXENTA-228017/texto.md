@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.869, de 8 de julio de 2004, de esta Subsecretaría, modifícase el numeral 1º de la resolución Nº 2.288 de 2003, de esta Subsecretaría, que autorizó a PEDRO SALDIVIA URIARTE, para instalar colectores de semillas de choritos en el sector denominado Relonhué, Estero Reloncaví, X Región, en el sentido de ampliar el plazo de vigencia de dicha autorización hasta el 31 de julio de 2004.
+
+Valparaíso, 8 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
