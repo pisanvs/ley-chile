@@ -1,0 +1,11 @@
+Habilitados i dependientes en el comercio al menudeo
+
+Excmo. Señor:
+
+A pesar de la orden del Senado, sancionada i publicada por V.E. para que solo los naturales del pais tengan el privilejio (entre otros) de menudear, continúan en este abuso los estranjeros. El Tribunal del Consulado se queja de la falta de obediencia a la lei; i los naturales del despojo que se hace de sus regalías; ese tribunal debe cuidar de su cumplimiento i V.E. ausiliarle con la fuerza que pida para hacerse obedecer. La consulta que dirije relativas a las tiendas de menudeo que ha puesto el ciudadano don Juan Orr no tiene la menor dificultad. Aquél goza los privilejios de los naturales del pais i como tal puede menudear; pero no habilitar a otros para que lo hagan, si no son naturales: de otro modo ya un natural podría estender su privilejio a otros que no lo son; i tendria las mismas facultades que la autoridad Suprema. Aquel privilejio personal no puede, ni debe estenderlo a otros al pretesto de dependientes. Quedaria en tal caso frustrada la lei i aquella regalía propia de los naturales. Tengan éstos enhorabuena cuantas tiendas quieran de menudeo; pero servidas por quienes cuenten con con la facultad de menudear; i no teniéndola los estranjeros, le es prohibido el uso de ellas i debe el tribunal del Consulado suspenderlas. Así puede V.E. significarlo al tribunal para su gobierno i mandar que esta declaracion se inserte en la Gaceta Ministerial para intelijencia de todos.
+
+Dios guarde a V. E. muchos años.- Sala del Senado, Enero 12 de 1820.- Juan Agustin Alcalde.- José María Villarreal, Secretario.- Excmo. señor Supremo Director del Estado.
+
+Santiago, Enero 14 de 1820.- De acuerdo con el Excmo. Senado, declaro que los estranjeros que han obtenido carta de ciudadanía, no pueden, como tales, tener habilitados ni dependientes en el comercio a sujetos que no sean naturales del pais; i que el Tribunal del Consulado, a quien corresponde hacer cumplir las disposiciones que hai en la materia, debe velar sobre su observancia, pidiendo los ausilios que necesite en caso necesario.
+
+Transcríbasele este decreto e insértese en la Gaceta Ministerial.- O'Higgins.-Echeverría.
