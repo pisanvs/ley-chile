@@ -1,0 +1,3 @@
+Por resolución Nº 1.544, de 11 de agosto de 1999, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.718, de 1998, de esta Subsecretaría. Declárase, en consecuencia, plenamente vigentes las resoluciones Nº 1.323 de 1989, Nº 1.477 de 1995, ambas de esta Subsecretaría, que autorizaron a la ASOCIACION GREMIAL DE BUZOS MARISCADORES DE NEHUENTUE, para instalar y operar el centro de cultivo ubicado en Río Imperial, Caleta Nehuentué, comuna de Carahue, provincia de Cautín, IX Región.
+
+Valparaíso, 11 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
