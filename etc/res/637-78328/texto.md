@@ -1,0 +1,3 @@
+Por resolución No. 637, de 14 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución No. 575, de 1990, de esta Subsecretaría, que autorizó a OXXEAN LIMITADA, R.U.T. No. 79.849.900-9, domiciliada en Isla Tenglo, Comuna de Puerto Montt, para operar un establecimiento de cultivo en el Seno de Reloncaví, Sector Sureste de la Isla de Tenglo, Comuna de Puerto Montt, Provincia de Llanquihue, X Región, en un área de 30.000 m2. por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 14 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
