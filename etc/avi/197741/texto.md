@@ -1,0 +1,5 @@
+ENTIDADES RELIGIOSAS DE DERECHO PUBLICO
+
+Acta: "Comunidad de Cristo", Rapel 5776, Conchalí, Registro público Entidades Religiosas 205, 3 enero 2002, constituyen: Gustavo Adolfo Vergara Rojas, Fernando Andrés Vergara Rojas, María Irene Vergara Rojas, René Fernando Bravo Hinojosa y Magdalina Elizabeth Vicent Valdebenito. 1. Administración: Presidente nacional y representante legal Gustavo Adolfo Vergara Rojas, sostenemos la Ley de Chile, no habrá fin de lucro, las transacciones económicas se realizarán por representante legal más un miembro.
+
+2. Creencias y Principios Básicos: misión proclamar a Jesucristo y promover comunidades de gozo, esperanza, amor y paz. Creemos en Dios, Jesucristo y Espíritu Santo, Salvación, Revelación, Escrituras, la restauración del Evangelio, Sacramentos, el amor de Dios. Libre Albredrío, Mayordomía, El Reino, La Resurrección, El Juicio, El tiempo final. Se garantiza el libre y voluntario acceso a cultos. 3. Escritura Pública que contiene estatutos, 20 noviembre 2001, repertorio 765-2001. Notario Público Rubén Galecio Gómez, Moneda 1356, Santiago. Gustavo Adolfo Vergara Rojas, Representante Legal.
