@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº414 de fecha 30 de abril del 2003, se expropio el lote de terreno Nº107, superficie 187 m2, Rol en trámite, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz - Yaquil, Rol I-730, Km. 0,00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietario María Isabel Reyes Pozo, ascendente a la cantidad de $2.204.001.
+
+Fiscal del Ministerio de Obras Públicas.
