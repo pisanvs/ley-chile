@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.252, de 31 de julio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 45-1, para la obra:
+
+''Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector G: Km 110.200,00-Km 128.400,00'', Sexta Región, que figura a nombre de Cáceres Labra María Eva, rol de avalúo 113-70, comuna de Malloa, superficie 53 m2. La Comisión de Peritos integrada por los señores Gustavo Manuel Domínguez Vicuña, Eduardo Alejandro Silva Aracena y Victoria Adriana Blanco Costa, fijó con fecha 6 de junio de 2000, el valor provisional de la indemnización en la cantidad de $289.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
