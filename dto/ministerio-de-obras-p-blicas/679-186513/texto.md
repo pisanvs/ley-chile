@@ -1,0 +1,3 @@
+Por decreto MOP Nº 679, de 30 de abril de 2001, se expropió el lote de terreno Nº 521-A, superficie 64.185 m², rol de avalúo 2980-27, comuna de Puente Alto, para la obra Concesión Internacional Ruta 5, Tramo: Santiago - Talca, Sector B: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Luis Alberto Troncoso Sepúlveda, ascendente a la cantidad de $636.134.655.-
+
+Fiscal del Ministerio de Obras Públicas.
