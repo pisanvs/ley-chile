@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.519, de 29 de diciembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 49, para la obra Camino Longitudinal Costero Sur, sector El Morro-Chaihuin II, Kms. 15,755 al 27,017 (segunda parte), que figura a nombre de Justo P. Leal Charlin, rol de avalúo 112-12, superficie 5.563 m2., comuna de Corral. La Comisión de Peritos, con fecha 16 de octubre de 1999, fijó la indemnización provisional en la cantidad de $2.781.500 la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.-
+
+Fiscal de Ministerio de Obras Públicas.
