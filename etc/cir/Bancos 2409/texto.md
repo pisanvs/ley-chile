@@ -41044,6 +41044,32 @@ N° de Inscripción *Nombre de la empresa.
 
 *Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos y sociedades financieras.
 
+ANEXO N° 1
+
+FIRMAS DE AUDITORES EXTERNOS DE BANCOS Y SOCIEDADES FINANCIERAS
+
+INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA
+
+N° de Inscripción* Nombre de la empresa.
+
+002 PRICE WATERHOUSE, CONSULTORES, AUDITORES Y CIA, LTDA.
+
+003 LANGTON CLARKE Y CIA. LTDA.
+
+004 K.P.M.G. PEAT MARWICK AUDITORES CONSULTORES LIMITADA.
+
+005 DELOITTE HASKINS AND SELLS, SOCIEDAD DE AUDITORES Y CONSULTORES.
+
+006 ARTHUR YOUNG Y CIA. (CHILE) LTDA.
+
+007 AUDITORES Y CONSULTORES PINEDO HERMANOS Y COMPAÑIA LTDA.
+
+Se incluyen sólo las firmas inscritas en el Registro que se encuentran
+
+facultadas para prestar sus servicios profesionales a bancos y sociedades
+
+financieras.
+
 CAPITULO 20-1 (Bancos y Financieras)
 
 MATERIA:
