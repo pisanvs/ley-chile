@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº375 de fecha 30 de abril del 2003, se expropiaron los lotes de terreno Nºs 39 y 41, superficies 53 y 67 m² respectivamente, Rol de Avalúo Nº 764-142, comuna de Lampa, Región Metropolitana para la obra "Camino Ruta G-184-182, Sector El Noviciado-Cruce Ruta G-16 (Lipangue), tramo de Km. 4,450 a Km. 15,04419" y se acordó el valor de indemnización con su propietaria María Cristina Marín Escalona y otro, ascendente a la cantidad de $603.358.-
+
+Fiscal del Ministerio de Obras Públicas.
