@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.985, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº2, superficie 734,01 m², rol de avalúo 1252-166, comuna de Parral, para la obra ''Camino Ruta L-70, Sector Cruce Ruta-128-Cuatro Esquinas, Km. 0,000 a Km. 15,800'' y se acordó el valor de indemnización con su propietaria Luzmila del Carmen Carrasco Carrido, ascendente a la cantidad de $955.811.
+
+Fiscal del Ministerio de Obras Públicas.
