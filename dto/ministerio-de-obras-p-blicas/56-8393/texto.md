@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 56, de 31 de Enero de 1996, se expropiaron los lotes de terreno N°s. 16 y 17, superficies 4.465,00 m2. y 693,50 m2., roles de avalúo 898-068 y 898-069, comuna de Coquimbo, para la obra Mejoramiento Ruta 5 Norte, sector Coquimbo - La Herradura Camino Ruta 5 Norte Rol R-5 y se acordó precio de indemnización con su propietario Hotelera Marazul S.A., ascendente a la cantidad de $ 211.970.000.
+
+Fiscal del Ministerio de Obras Públicas
