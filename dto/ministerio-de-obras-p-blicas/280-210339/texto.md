@@ -1,0 +1,3 @@
+Por decreto MOP Nº280 de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº96, superficie 366,00 m2, Rol en Trámite, comuna de Lampa, Región Metropolitana para la obra "Camino Ruta G-184-182, sector El Noviciado-Cruce Ruta G-16 (Lipangue), tramo de Km. 4,450 a Km. 15,04419" y se acordó el valor de indemnización con su propietario Luis Hernán Parra Ahumada, ascendente a la cantidad de $3.571.570.-
+
+Fiscal del Ministerio de Obras Públicas.
