@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.075 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº52, superficie 493 m2., Rol Nº204-65, comuna de Cabildo, V Región, para la obra: "Cabildo Putaendo, Ruta E-41, Sector La Vega - Guayacán, Km. 12,46900 a Km. 22,40000" y se acordó el valor de indemnización con su propietario Manuel Salvador Estay Salinas, ascendente a la cantidad de $899.118.-
+
+Fiscal del Ministerio de Obras Públicas.
