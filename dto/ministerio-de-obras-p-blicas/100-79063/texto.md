@@ -1,0 +1,3 @@
+Por Decreto M.O.P No. 100, de fecha 09 de Abril de 1992, se expropiaron los lotes de terreno Nos. 3, 4 y 5, superficies 34.123 M2., rol de avalúo 506-21, Comuna de Los Andes, para la obra Los Andes-Túnel Cristo Redentor Ruta 60 Ch, Variante Río Blanco-Guardia Vieja y se acordó precio indemnización con su propietario Compañía Minera y Comercial S.A., ascedente a la cantidad de $ 23.418.000.
+
+Fiscal del Ministerio de Obras Públicas.
