@@ -1,0 +1,5 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DE IVA A EMPRESAS QUE INDICA
+
+La XVI Dirección Regional Metropolitana Santiago Sur del SII, por resolución Ex. Nº 62, 64 y 66 del 18, 24 y 24 de diciembre de 2003, respectivamente, otorga a contar de esta publicación y hasta el 31 de diciembre de 2004 a: Comercial e Industrial Delva S.A., RUT 96.781.640-K, Sociedad Constructora e Inmobiliaria Nuevo Siglo Limitada, RUT 77.274.730-6 y Constructora Belmar y Ribba Limitada, RUT 79.987.520-9, la calidad de agente retenedor del Impuesto al Valor Agregado en los contratos de instalación o confección de especialidades que contraten, establecido en la Res. Ex. Nº 46/2003 de la Dirección Nacional, publicada en el Diario Oficial del día 05.09.2003, modificada por Res. Ex. Nº 63/2003 publicada en el Diario Oficial del 5.11.2003.-
+
+Luis Tapia Bustamante, Director Regional (S).
