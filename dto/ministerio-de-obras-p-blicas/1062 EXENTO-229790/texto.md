@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.062 de 29 de julio de 2004, se expropiaron los lotes de terrenos Nº s. 5-B y 7, superficies 233 y 14 m² respectivamente, Rol Nº 417-55, comuna de Loncoche, IX Región para la obra "Reposición Construcción y Habilitación de Caminos para Vialidad Complementaria Concesión Internacional Ruta 5 Sur, Tramo Temuco Río Bueno Puerto Montt, Camino Collimallín" y se acordó el valor de indemnización con su propietaria Juana Mabela Baquedano Ortiz, ascendente a la cantidad de $1.464.849.
+
+- Fiscal del Ministerio de Obras Públicas.
