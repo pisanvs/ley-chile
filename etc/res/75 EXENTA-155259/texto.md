@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCION
+
+Por Resolución Exenta N° 75 de fecha 23 de Enero de 1986, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica el recorrido Troncal N° 114-A "Plaza Los Aromos-Pedro de Valdivia" de la Línea de Buses N° 114 "Centro La Florida", autorizado por Resolución N° 889 04 de Septiembre de 1981, quedando su nuevo trazado como sigue:
+
+Ida: Desde su terminal en Las Gardenias con Los Clarines continúa por Las Gardenias Trinidad Ramírez - Santa Raquel - San José de La Estrella Verdi - General Arriagada - Los Jazmines - Las Magnolias Fraternidad - Tegualda Libertad - Salvador Sanfuentes Rucalín - Tegualda Fraternidad - Las Magnolias - Los Jazmines - General Arriagada Verdi - San José de La Estrella Santa Raquel - Santa Julia Avda. Américo Vespucio - El Ulmo - El Peumo - Avda. El Parque - Calle Uno - Avda. Departamental - Dos Oriente Avda. José Pedro Alessandri Camino Agrícola - Avda. Pedro de Valdivia - Avda. Providencia Avda. Cardenal José María Caro - Puente Independencia Avda. Independencia - Diego Silva - Tupungato - Cardenal José María Caro - Isabel Carrera hasta frente al N° 5730, su terminal.
+
+Regreso: Desde su terminal en Isabel Carrera frente al N° 5730, continúa por Isabel Carrera - Cardenal José María Caro - Tupungato - Diego Silva - Avda. Independencia - Avda. Santa María - Puente Loreto José Miguel de La Barra - Santa Lucía - Diagonal Paraguay Portugal - Avda. Matta - Avda. Vicuña Mackenna - Avda.
+
+Américo Vespucio - Santa Julia - Santa Raquel - San José de La Estrella Verdi - General Arriagada - Los Jazmines - Las Magnolias Fraternidad - Tegualda Libertad - Salvador Sanfuentes Rucalín - Tegualda Fraternidad - Las Magnolias - Los Jazmines - General Arriagada Verdi - San José de La Estrella Santa Raquel - Trinidad Ramírez - Las Gardenias hasta Los Clarines, su terminal.
+
+Santiago, 24 de Enero de 1986.- Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones de la Región Metropolitana.
