@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.739 de 5 de noviembre de 2003 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111859 presentada por PESQUERA Y COMERCIAL RIO PEULLA S.A., para instalar y operar un centro de cultivo ubicado en el Estero Lyng, al oeste de Punta Urizar, Isla Rivero, XI Región.
+
+Valparaíso, 5 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
