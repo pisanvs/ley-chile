@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.437, de 31 de agosto de 1999, se expropió el lote de terreno Nº20, superficie 400m2, rol de avalúo 12027-13, comuna de San Pedro de la Paz, para la obra Reposición Puente Bío Bío Antiguo, Ruta 160, Concepción-San Pedro, Sector San Pedro y se acordó precio de indemnización con su propietaria Tatiana Leonor Montenegro Olivares, ascendente a la cantidad de $61.103.590.-
+
+Fiscal del Ministerio de Obras Públicas.
