@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 557 de fecha 31 de marzo del 2004, se expropió el lote de terreno Nº 75, superficie 310 m², Rol Nº 615-825, comuna de Nueva Imperial, IX Región para la obra "Camino Ruta S-16, Sector Chol Chol - Nueva Imperial Tramo Km. 24,30269 al Km. 43,50000, Subtramo II Km. 29,840 al Km. 35,215" y se acordó el valor de indemnización con su propietaria Cecilia María Curiqueo Gallardo, ascendente a la cantidad de $464.878.- para el lote Nº 75.
+
+Fiscal del Ministerio de Obras Públicas.
