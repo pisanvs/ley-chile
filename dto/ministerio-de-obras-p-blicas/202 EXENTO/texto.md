@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 202, de 30 de marzo de 2001, se expropió el lote de terreno Nº 9-1, superficie 511 m2., rol de avalúo 277-165, comuna de San Fernando, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector H, Sexta Región y se acordó el valor de indemnización con su propietario Alejandro Nelson Salazar Godoy, ascendente a la cantidad de $1.756.135.
+
+- Fiscal del Ministerio de Obras Públicas.
