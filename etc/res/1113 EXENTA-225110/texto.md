@@ -1,0 +1,9 @@
+Por resolución exenta Nº 1.113, de 23 de abril de 2004, de esta Subsecretaría, modifícase la resolución Nº 340 de 2004, de esta Subsecretaría que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la captura de Anchoveta (Engraulis ringens) dentro de la primera milla, por fuera de las bahías protegidas por el D.S. Nº 408 de 1986, en el litoral de la III Región", en el sentido que a continuación se indica:
+
+a) En el numeral 3º, señalar que la pesca de investigación se extenderá hasta el 31 de octubre de 2004.
+
+b) En el numeral 4º, incorporar las siguientes embarcaciones artesanales cerqueras a la nómina de naves participantes en la presente pesca de investigación, las que se encuentran inscritas en el Registro Artesanal de la III Región, sección pesquería de la especie Anchoveta: Caleb, Xolot y Fortuna III.
+
+c) Agregar el siguiente numeral 5º bis: "Asimismo, en cumplimiento del objetivo de la presente pesca de investigación, las embarcaciones artesanales antes individualizadas, podrán capturar un máximo de 11.004,586 toneladas de anchoveta, las que se imputarán a los límites máximos de captura de la unidad de pesquería de anchoveta de la III y IV Regiones, correspondientes al período enero-octubre, establecidos mediante decreto exento Nº 841 de 2003, del Ministerio de Economía, Fomento y Reconstrucción, autorizados a ser extraídos por el grupo de armadores cuya asociatividad fue reconocida mediante resolución Nº 122 de 2004, de esta Subsecretaría de Pesca.".
+
+Valparaíso, 23 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
