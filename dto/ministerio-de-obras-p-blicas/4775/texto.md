@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.775, de 31 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 46, 47, 53, 55, 56 y 57, para la obra Camino Ruta 201 - 203 CH, sector Panguipulli - Pullinque, Kms 0,0 al 11,67811, que figuran a nombre de Empresa Hidroeléctrica Pullinque S, rol de avalúo, 187-10, superficies 7.090 m2.; 1.754 m2; 362 m2; 3.031 m2.; 458 m2 y 209 m2., comuna de Panguipulli. La Comisión de Peritos, con fecha 30 de octubre de 1999, fijó la indemnización provisional en las cantidades de $2.911.500, para el lote 46, $1.438.100, para el lote 47; $940.700 para el lote 53;
+
+$1.297.850 para el lote 55; $636.300 para el lote 56; y $193.150 para el lote 57, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
