@@ -1,0 +1,5 @@
+Por Resolución No. 969, de 21 de Agosto de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a EMPCADORA DE PRODUCTOS DEL MAR ZAVAL LTDA., RUT No. 79.798.220-2, domiciliada en camino a Hualqui No. 77, Concepción, para iniciar actividades pesqueras, de transformación, en orden a instalar y operar la planta ubicada en camino Hualqui No. 77, Concepción, VIII Región, donde procesera en las lineas de harina, tallarin de alga y secado artificial de algas, los siguientes recursos hidrobiológicos: Secado artificial: Chascón, Chicorea de mar, Huiro, Luga Luga y Pelillo; Tallarin y harina de algas: Cochayuyo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 21 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
