@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD AGRICOLA LA VERTIENTE DE CUYUNCAVI LIMITADA "AGRIVERCU LTDA." PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 741, de 14 de Noviembre de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Agrícola La Vertiente de Cuyuncaví Limitada, "AGRIVERCU Ltda.", domiciliada en Curacaví, para instalar y operar una planta elaborada de conservas y congelados en Valparaíso, calle Phillippi 481, en la que podrá utilizar como materia prima los siguientes recursos: bacalao de Juan Fernández, bonito, caballa, congrio colorado, congrio dorado, congrio negro, jurel, machuelo, mero, sardina española, almeja o taca, almeja, cholga, chorito, macha, ostión del Norte y centolla.
+
+Valparaíso, 14 de Noviembre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
