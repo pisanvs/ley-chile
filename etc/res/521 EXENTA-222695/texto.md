@@ -1,0 +1,3 @@
+Por resolución exenta Nº 521, de 26 de febrero de 2004, de esta Subsecretaría, autorízase a CORPESCA S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Barrio Industrial, sitio 2, Tocopilla, II Región, en las líneas de elaboración Harina y Aceite, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 26 de febrero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
