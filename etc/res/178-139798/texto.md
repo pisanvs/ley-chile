@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION TOTAL DE INMUEBLE
+
+Resolución 178, 25 junio 1999, Serviu Región del Bío Bío, ordenó expropiación total inmueble ubicado en calle Desiderio Sanhueza, Nº 120, rol de avalúo Nº 467-3, comuna Concepción, superficie 1.605,80 m² de terreno y 1.266,16 m² de edificación, dentro polígono y linderos señalados plano expropiación S8R-14249; de aparente dominio de Carlos Flores Avello y Otros, para ejecución programa ''Habilitación y Construcción Area de Ferrocarriles Programa Ribera Norte, comuna de Concepción'', conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 2 de noviembre de 1998, fijó monto provisional indemnización en $221.691.800.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
