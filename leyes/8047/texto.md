@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Nogales contratar empréstito o emitir bonos hasta por un $ 1.000,000 a fin de atender a la construcción del Mercado, del Matadero y de un Estadio; establece, para su servicio, una contribución adicional de 1% sobre el avalúo de los bienes raíces de la comuna.
