@@ -1,0 +1,3 @@
+Por Resolución N° 561 de 23 de Junio de 1994 de Serviu Metropolitano ordenóse expropiación, conforme D.L. N° 2.186 de 1978, parte inmueble ubicado como continuación eje calle Agua Santa, población Valle de la Esperanza, presunto rol de avalúos N° 1045-9 comuna de Maipú, aparente dominio de Sociedad Agrícola Santa Adela Ltda. Comisión integrada por peritos Sres. René Ureta Koster, arquitecto, Patricia Zavala Contreras y Ramón Undurraga Montes, ingenieros civiles, según informe de 25 de abril de 1994, fijó monto provisional indemnización en $4.821.120.- pagadera al contado.-
+
+Director.
