@@ -1,0 +1,3 @@
+Por Resolución N° 127 de 27 de Enero de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar de la fecha de la presente Resolución, el plazo otorgado a LOTA PROTEIN LTDA., R.U.T. N° 78.143.460-4, para instalar y operar una planta industrial ubicada en calle Mata s/n°, comuna de Lota, VIII Región, autorizada por Resolución N° 32, de 1992, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 27 de Enero de 1994.- Alvaro Briones Ramírez, Subsecretario de Pesca Subrogante.
