@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.006, de 30 de diciembre de 1999, se expropió el lote de terreno Nº39, superficie 2.983 m², rol de avalúo 512-4, comuna de Talagante, para la obra Camino Autopista Santiago - San Antonio, Tramo Talagante - El Paico, Segmento 3, Sector 5-0, Lado Derecho, Región Metropolitana y se acordó el valor de indemnización con su propietario Manuel Eduardo Galaz Fuentealba, ascendente a la cantidad de $29.653.209.
+
+Fiscal del Ministerio de Obras Públicas.
