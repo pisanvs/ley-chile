@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.475, de 2 de septiembre de 2004, de esta Subsecretaría, autorízase a Mónica Raquel Sabugal del Solar para transferir a MARINE HARVEST CHILE S.A. la piscicultura ubicada en Estero Sin Nombre, sector El Turbio, IX Región, autorizada por resolución Nº 2.338 de 2002, modificada por resolución Nº 1.637 de 2004, ambas de esta Subsecretaría.
+
+Valparaíso, 2 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
