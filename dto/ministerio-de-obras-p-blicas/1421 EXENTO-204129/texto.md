@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.421 de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº1-A, superficie 1.899 m², Rol de Avalúo Nº157-18, comuna de Pemuco, para la obra: ''Area de Riego Pemuco, Canal San Ramón Faja Adicional, Km. 0,022 al 6,378, del Proyecto Laja Diguillín'', VIII Región y se acordó el valor de indemnización con su propietario Alonso Neftalí Soto Figueroa y Otros, ascendente a la cantidad de $1.113.249.-
+
+Fiscal del Ministerio de Obras Públicas.
