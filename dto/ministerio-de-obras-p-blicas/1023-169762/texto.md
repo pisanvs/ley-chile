@@ -1,0 +1,3 @@
+Por decreto MOP Nº825, de 29 de agosto de 1997, modificado por decreto MOP Nº1.023, de 30 de marzo de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº10, para la obra Camino Reposición Ruta 66, sector Límite Regional-San Antonio Kms. 114.320 al 133.780,08, que figura a nombre de Inversiones J.O.P. Limitada, rol de avalúo 1601-144, comuna de Santo Domingo, superficie 352,90 la Comisión de Peritos fijó con fecha 28 de abril de 1997, en la cantidad de $705.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
