@@ -1,0 +1,55 @@
+CARTA CIRCULAR
+
+COOPERATIVAS N° 1
+
+Santiago, 17 de marzo de 1994.
+
+SEÑOR GERENTE:
+
+Estado de situación al 28 de febrero de 1994.
+
+De conformidad con lo dispuesto en el Art. 15 del D.L. N° 1097, de 1975,
+
+las cooperativas fiscalizadas por esta Superintendencia enviarán a este
+
+Organismo y publicarán en un periódico de la ciudad sede de su Casa Matriz,
+
+un estado de situación referido al cierre de sus operaciones del día 28 de
+
+febrero de 1994, ateniéndose a las siguientes instrucciones:
+
+#### Artículo 1
+
+<!-- parte:9562988 -->
+
+1.- El Estado de Situación se preparará según las instrucciones contenidas en
+
+el anexo de la Carta Circular N° 1 del 26 de mayo de 1987 y se remitirá a
+
+esta Superintendencia a más tardar el 28 de marzo de 1994.
+
+#### Artículo 2
+
+<!-- parte:9562989 -->
+
+2.- La publicación en la prensa se efectuará a contar del 6° día hábil
+
+bancario después de entregada la información a este Organismo y, en todo caso,
+
+antes del 13 de abril de 1994.
+
+#### Artículo 3
+
+<!-- parte:9562990 -->
+
+3.- Las cooperativas deberán hacer llegar a este Organismo un ejemplar de
+
+la publicación, antes del 19 de abril de 1994.
+
+Saludo atentamente a Ud.,
+
+JOSE FLORENCIO GUZMAN CORREA
+
+Superintendente de Bancos e
+
+Instituciones Financieras
