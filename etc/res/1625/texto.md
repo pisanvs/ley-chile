@@ -1,0 +1,3 @@
+Por Resolución N° 1.625, de 28 de agosto de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 93103030, presentada por PESQUERA Y COMERCIAL RIO PEULLA S.A., para un centro de cultivo ubicado en Puerto Oscuro, Canal Caucahue, comuna de Quemchi, provincia de Chiloé, X Región, por no dar cumplimiento el respectivo proyecto técnico a lo dispuesto en los artículos 78° y 87° de la Ley General de Pesca y Acuicultura y el artículo 14 inciso 2° del D.S. N° 290 de 1993, modificado por el D.S. N° 204, de 1994, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
