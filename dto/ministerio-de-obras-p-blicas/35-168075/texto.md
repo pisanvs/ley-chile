@@ -1,0 +1,3 @@
+Por Decreto MOP No. 35, de 28 de febrero de 1991, se expropiaron los lotes No. s. 4, 8 y 12, superficies 2.460 M2., 3.042 M2. y 6.780 M2., roles de avalúo 14-03, 13-40 y 13-40, respectivamente, Comuna San Pedro, para la obra Camino San Fernando-San Antonio, sector Bifurcación San Pedro-San Pedro, Km. 0.000 al 3.731,23 y se acordó el precio de indemnización con sus propietarios doña Melania del Carmen Valdenegro Núñez y don Víctor Antonio Carrasco Frías, ascendente a las cantidades de $ 594.139, $ 536.945 y $ 1.055.086.-
+
+Fiscal del Ministerio de Obras Públicas.
