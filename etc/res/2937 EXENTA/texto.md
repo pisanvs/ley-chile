@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.937, de 19 de noviembre de 2003, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.149 de 1988, de esta Subsecretaría, sólo en cuanto autorizó a EMPRESA DE DESARROLLO PESQUERO DE CHILE S.A. para operar la nave "Unzen", respecto del recurso hidrobiológico Besugo, en el área marítima comprendida entre los paralelos 44°30' L.S. y 57° L.S., al weste de las líneas de base recta, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 19 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
