@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.170, de 30 de noviembre de 2000, se expropió el lote de terreno Nº 421, superficie 3.905,6 m2., rol de avalúo 290-52, comuna de Los Lagos, para la obra Concesión Internacional Ruta 5. Tramo: Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietaria Forestal Tornagaleones S.A., ascendente a la cantidad de $16.105.974.-
+
+Fiscal del Ministerio de Obras Públicas.
