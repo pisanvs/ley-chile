@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.851 de fecha 30 de noviembre del 2001, se expropiaron los lotes de terreno Nºs 7, 7-B, 7-C, superficie 325, 302 y 156 m2 respectivamente, Rol de Avalúo Nº499-96, comuna de Retiro, para la obra "Camino Ruta L-75, Sector: El Ajial - Las Camelias, Tramo Km. 6,320.00 a Km. 23,400.00" y se acordó el valor de indemnización con su propietario Heriberto Antonio Yáñez Lastra, ascendente a la cantidad de $850.235.
+
+- Fiscal del Ministerio de Obras Públicas.
