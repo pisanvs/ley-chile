@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.277 de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 533 de 2003, modificada mediante resoluciones Nº 761, Nº 829 y Nº 1.274, todas de 2003, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco I y II Región", en el sentido de incorporar las siguientes embarcaciones artesanales a la nómina de naves autorizadas para participar en la presente pesca de investigación: a) I Región: Chone, Valencia, Loreto III, Loreto IV, Buenaventura, Don Emilio III e Ike I; b) II Región: Don Eleuterio, Don Matías, Mamita Yola y Santa Mercedes.
+
+Valparaíso, 13 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
+
+Ministerio de Hacienda
