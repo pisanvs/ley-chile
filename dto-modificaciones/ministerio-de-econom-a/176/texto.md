@@ -8,7 +8,7 @@ Decreto:
 
 #### Artículo 1º
 
-Prohíbese a contar del año 1984, la extracción, tenencia, posesión, industrialización, comercialización y transporte del recurso denominado chorito (Mytilus chilensis) durante el período comprendido entre el 1º de Noviembre de cada año y el 31 de Enero del año siguiente, ambas fechas inclusive.
+Prohíbese a contar del año 1984, la extracción, tenencia, posesión, industrialización, comercialización y transporte del recurso denominado chorito (Mytilus chilensis) durante el período comprendido entre el 1º de Noviembre y el 31 de Diciembre de cada año, ambas fechas inclusive.
 
 Esta prohibición no regirá en la XII Región.
 
