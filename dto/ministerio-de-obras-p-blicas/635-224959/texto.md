@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 635, de fecha 28 de agosto de 1996, se rectificó el Decreto M.O.P. N° 450, de 28 de junio de 1996, que autorizó la expropiación de los lotes N°s. 1, 2, 4 y 6, destinados a la ejecución de la obra Mejoramiento Agua Potable de Futaleufú, en el sentido de individualizar en forma correcta el segundo apellido del Ministro de Obras Públicas.
+
+Fiscal del Ministerio de Obras Públicas.
