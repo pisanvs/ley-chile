@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A SOCIEDAD MARUF PUALI E HIJOS LIMITADA
+
+Núm 5.- Certifico que Sociedad Maruf Puali e Hijos Limitada, RUT Nº 84.820.900-7, representante legal Rauf Ale Puali Docmac, RUT Nº 07.006.639-4, cumple los requisitos establecidos en la resolución ex. Nº 3.784 del 25.06.1998 publicada en el Diario Oficial 30.06.98, modificada por la resolución Nº ex. 3.722 de 28.07.2000 publicada en el Diario Oficial de 01.08.2000, y que en consecuencia, tiene la calidad de Agente Retenedor del Impuesto al Valor Agregado, en las ventas de carne y servicios de faenamiento de ganado que efectúe durante el período comprendido entre el 1º del mes siguiente al de la publicación de este Certificado en el Diario Oficial con vigencia indefinida.
+
+Temuco, 13 de diciembre de 2004.- René Cornejo Cáceres, Director IX Dirección Regional.
