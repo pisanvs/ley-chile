@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº l84, de 27 de febrero de 1998, se expropiaron los lotes terreno Nºs. 2 y 6, superficies 237 y 101 m2, respectivamente, roles de avalúos 1.563-14 y 1.554-122, comuna de Los Angeles, para la obra Camino Los Angeles - Coihue, Sector y se acordó precio de las indemnizaciones con sus propietarios Ramón Ravanal Villa y Ramón Enrique Ruiz Jara, ascendentes a las cantidades de $609.603.- para el lote Nº 2 y $552.449.- para el lote Nº 6.-
+
+Fiscal del Ministerio de Obras Públicas,
