@@ -1,0 +1,3 @@
+Por decreto MOP Nº778, de fecha 30 de abril del 2002, se expropiaron los lotes de terreno Nºs 15-G y 15-H, superficie 324 y 20m2 respectivamente, rol Nº1441-9, comuna de Puerto Varas, para la obra ''Camino Ruta V-505, Sector Puerto Varas-Los Alerces-Puerto Montt, Km. 0,000 a Km. 16,340'', y se acordó el valor de indemnización con su propietario Enrique Luis Schmauck Torres, ascendente a la cantidad de $16.570.629.-
+
+Fiscal del Ministerio de Obras Públicas .
