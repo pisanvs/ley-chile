@@ -1,0 +1,3 @@
+Por resolución No. 1.020 de 26 de Octubre de 1992, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución No. 856, de 1986, de esta Subsecretaría, que autorizó a don JOSE ORLANDO PAIDANCA CARCAMO, R.U.T. No. 6.601.555-6, domiciliado en Manao, Chiloé, para instalar y operar un establecimiento de cultivo del recurso alga del género Gracilaria spp. en Sector de Bahía Manao, Comuna de Ancud, Provincia de Chiloé, Región X, en una superficie de 9.100 m2 por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 26 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
