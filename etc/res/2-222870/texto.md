@@ -1,0 +1,3 @@
+DESIGNA SECRETARIOS, TITULAR Y SUPLENTE, EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAICES DE LA PRIMERA SERIE DE SAN MIGUEL
+
+Extracto de resolución del Servicio de Impuestos Internos Nº 02, de 3 de febrero de 2004, que designa a doña Florencia Sáez Soto, Fiscalizador, grado 12º, RUT Nº 10.723.432-2, como Secretaria Titular y a doña Ivonne Garnier Muñoz, Fiscalizador grado 11º, RUT Nº 7.540.802-1, como Secretaria Suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de San Miguel.
