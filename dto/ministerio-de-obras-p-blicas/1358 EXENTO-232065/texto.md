@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.358 de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 3-A, superficie 35,40 m2, rol de avalúo Nº 1143-87, comuna de Temuco, para la obra "Estudio de Ingeniería Construcción Costanera Borde de Río, sector Prat - Valparaíso, Km. 1,98000 a Km. 5,13647, IX Región y se acordó el valor de la indemnización con su propietario José Francisco Llaulén Silva, ascendente a la cantidad de $934.832.-
+
+Fiscal del Ministerio de Obras Públicas.
