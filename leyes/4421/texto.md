@@ -66,11 +66,13 @@ Las cuentas que, por el valor de la pavimentación, corresponda pagar a los veci
 
 Habrá dos clases de pavimentación: pavimentación definitiva, que es la que se ejecuta sobre base de concreto, y pavimentación provisional, que es la que se ejecuta sin base de concreto.
 
-Las cuentas por pavimentación definitiva se cancelarán al contado o en diez anualidades iguales, con un interés de diez por ciento (10%) anual, y una amortización acumulativa tal, que la deuda se extinga en diez años. Las cuentas por pavimentación provisional, se pagarán al contado.
+Las cuentas por pavimentación definitiva se cancelarán al contado, o en 10 anualidades iguales, con interés de 8 por ciento anual y una amortización acumulativa tal, que la deuda se extinga en este plazo.
 
-Los pagos de las cuentas se harán en las fechas que determine el Reglamento que, para el efecto, dicte la Junta de Alcaldes de Magallanes.
+Las cuentas por pavimentación provisional se cancelarán al contado, o en 5 anualidades iguales, con interés de 8 por ciento anual, y una amortización acumulativa tal, que la deuda se extinga en este plazo.
 
-En caso de mora, los propietarios abonarán el interés penal de uno por ciento (1%) mensual.
+Los pagos de las cuentas se harán en la forma que determine el reglamento, que para el efecto dicte el Presidente de la República a propuesta de la Junta de Alcaldes de Magallanes.
+
+En caso de mora los propietarios abonarán el interés penal de 1 por ciento mensual.
 
 #### Artículo 12
 
