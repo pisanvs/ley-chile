@@ -1,0 +1,3 @@
+Por decreto MOP Nº980 de 3 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840 se expropió el lote de terreno Nº17-A para la obra: Camino M-24-K Quivolgo - Puente Lautaro, Sector B: La Trinchera - Putú (Variante Costera), km. 13,240 a km. 30,000, que figura a nombre de Mujica Orake Sucesión, rol de avalúo 356-65, Comuna de Constitución, VII Región, superficie 9.853,9 m². La Comisión de Peritos, fijó con fecha 10 de marzo de 2000, en la cantidad de $8.080.198.- para el lote 17-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186 de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
