@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°315, de 30 de Septiembre de 1993, se expropió el lote de terreno N°9, superficie 804 m2. rol de avalúo 15008-33, Comuna de Concepción, para la obra Ampliación Ruta 160, Camino Concepción - Coronel y se acordó precio de indeminización con sus propietarios Cristhian Mauricio Rivera Salinas y otros, ascendente a la cantidad de $ 2.867.836.-
+
+Fiscal del Ministerio de Obras Públicas.
