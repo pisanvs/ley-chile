@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 161, de 17 de Julio de 1991, se expropiaron los lotes de terreno N°s. 18, 21 y 24, superficies 1.840, 2.380 y 2.475 m2., respectivamente, Roles de Avalúos 503-4 y 546-116, Comuna de Santa Cruz, para la ejecución de la obra Camino Santa Cruz - Lolol - Bucalemu, Rol I-72, Sector Santa Cruz, Cuesta La Lajuela y se acordó el precio de las indemnizaciones con sus propietarios señores Luis Valenzuela Pino y José Manuel Muñoz Muñoz, ascendente a las cantidades dé $ 526.645.- para el lote 18 y $ 1.012.436.- para los lotes 21 y 24.-
+
+Fiscal del Ministerio de Obras Públicas.
