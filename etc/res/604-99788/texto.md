@@ -1,0 +1,3 @@
+Por resolución No. 604, de 20.06.89 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2186 de 1978, parte inmueble ubicado Avda. Santa Isabel No. 315 presunto rol avalúos No. 584-13, comuna de Santiago, aparentemente dominio de don Nelson Hormazábal Ayala, Comisión integrada por peritos Italo Núñez Núñez y Hernán Monckeberg Barros, arquitectos y Jorge Cavagnaro Michelis, ingeniero civil; según informe de 26 de diciembre de 1988, fijó monto provisional indemnización en $ 2.070.200.- pagadera al contado.
+
+Director SERVIU Metropolitano.
