@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1918 de 09 de Septiembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento de Aguas proporcionales que corresponden a Reserva y Sector Expropiado Predio "Resto de la Hijuela Primera del Fundo Santa Amelia" de la Comuna de Talagante, Región Metropolitana y Derechos Aprovechamiento Aguas que corresponden a parcelas No. 1 a la 11, sitios N°s. 1 al 9 del Proyecto de Parcelación: "Santa Amelia", formado por predio señalado. Los Derechos de Agua se extraen del Canal Castillo, derivado del Río Mapoeho y de los Canales San Vicente y Ochagavia, derivados del Río Maipo. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
