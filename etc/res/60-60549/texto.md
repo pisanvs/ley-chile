@@ -1,0 +1,3 @@
+Por Resolución Nº 60, de 17 de enero de 1997 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por seis meses, a contar del 19 de enero de 1997, el plazo otorgado a PESQUERA TRAVESIA S.A., para iniciar operaciones con la nave en construcción autorizada por Resolución Nº 1.133 de 1995, de esta Subsecretaría, en virtud de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 17 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
