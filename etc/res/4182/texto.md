@@ -1,0 +1,27 @@
+DISPONE CAMBIO DE SUJETO DE DERECHO DEL IVA EN LAS VENTAS DE CHATARRA
+
+Resolución N° 4.182 de fecha 30.08.96, que dispone cambio de sujeto de derecho del IVA en las ventas de chatarra de cualquier naturaleza, entre el 1° de septiembre de 1996 y el 31 de agosto de 1997.
+
+Para efectos de la presente resolución se entenderá por chatarra de cualquier naturaleza, a todo residuo del cual se puedan obtener productos metálicos o que sea adecuado para uso directo en la fabricación de aleaciones y productos químicos, así como los subproductos que se obtengan de dichos procesos; el metal obtenido de productos metálicos terminados o que contengan metal y que hayan sido desechados por daño, por obsolescencia o por término de su vida útil; los residuos y cenizas pirometalúrgicas y los lingotes metálicos con o sin especificación, fabricados a su vez con chatarra de cualquier naturaleza.
+
+Se ha dispuesto el cambio total del sujeto de derecho del Impuesto al Valor Agregado al adquirente, en las ventas de chatarra de cualquier naturaleza que realicen vendedores a todo adquirente que durante el año 1994 o 1995 hubiere comprado 200 millones de pesos o más en chatarra y tenga un capital propio inicial igual o superior a 80 millones de pesos y al adquirente que en el transcurso del período comprendido entre el 1° de enero de 1996 y el 31 de agosto de 1997 complete compras por 200 millones de pesos o más en chatarra y tenga un capital propio inicial igual o superior a 80 millones de pesos. También deberán retener el IVA, por las compras de chatarra que efectúen, las empresas que tengan como dueño, socio, comunero, accionista de sociedad anónima cerrada a un adquirente obligado a retener el tributo y las personas que en su calidad de vendedores se hubiesen excepcionado del cambio de sujeto, de conformidad con lo previsto en el N° 10 de esta Resolución, aunque no cumplieren con los requisitos antes expuestos.
+
+Para los efectos del cómputo de los 200 millones de pesos exigidos al adquirente de chatarra, en los años 1994 y 1995, se considerarán las adquisiciones efectuadas por empresas vinculadas a aquellas dedicadas preferentemente a la compra de chatarra. En tal circunstancia las adquisiciones efectuadas se sumarán recíprocamente; esta sumatoria determinará el cumplimiento del requisito para la procedencia del cambio de sujeto, pudiendo en consecuencia, quedar obligadas al cambio de sujeto total, también las empresas vinculadas aunque éstas no se dediquen preferentemente a la compra de chatarra. El concepto de empresas vinculadas debe entenderse en los términos de los artículos 96° al 100° de la Ley 18.045 sobre Mercado de Valores.
+
+Las ventas de chatarra que se efectúen entre los adquirentes indicados en los incisos anteriores, no quedan afectas al cambio de sujeto de derecho del Impuesto al Valor Agregado.
+
+Como consecuencia del cambio total de sujeto del impuesto, los compradores de chatarra señalados anteriormente deberán emitir "facturas de compra" y recargar, separadamente en ellas un 18% de IVA a retener, que deberá declarar y pagar el comprador como impuesto de retención, no teniendo el vendedor obligación de emitir factura por dicha venta. En la factura que emita el comprador deberá dejar constancia expresa que ha retenido el 18% del IVA sobre el total de la compra.
+
+Los vendedores de chatarra a quienes se les retenga totalmente el IVA en virtud de esta resolución, tendrán derecho a recuperar el respectivo crédito fiscal, al igual que el remanente que se origine, imputándolo directamente al débito fiscal producto de otras ventas que genere en el período, sin perjuicio de lo dispuesto en el Art. 27 bis del D.L. N° 825, de 1974.
+
+Si efectuadas las imputaciones contempladas en el párrafo anterior, subsistieren créditos fiscales o remanentes que no hayan podido ser imputados por efectos de no poseer débitos fiscales suficientes, el contribuyente podrá solicitar al Servicio de Tesorerías, la devolución de dichos créditos fiscales o remanentes hasta el monto del débito fiscal retenido, previo informe del Servicio de Impuestos Internos, en el plazo de treinta días después de ser presentada la solicitud.
+
+Los Directores Regionales podrán excepcionar del régimen establecido en la presente resolución, a aquellos vendedores de chatarra que lo soliciten, previa revisión tributaria de sus antecedentes.
+
+Los adquirentes de chatarra que pasen a ser retenedores en virtud de cumplir con las condiciones señaladas en el párrafo tercero de este escrito, deberán solicitar a la Unidad del Servicio de Impuestos Internos que les corresponda a su domicilio comercial, les certifique su calidad de agente retenedor.
+
+Los contribuyentes que a la fecha de publicación de la resolución cumplan los requisitos exigidos para ser agente retenedor, deberán presentar por escrito la solicitud de agente retenedor dentro del plazo de 30 días a contar de la fecha de publicación de esta resolución en el Diario Oficial. Los contribuyentes que cumplan los requisitos durante la vigencia de la resolución, deberán presentar la solicitud dentro del mes siguiente de cumplidos los requisitos.
+
+El texto íntegro de esta Resolución se publicará en el Boletín Oficial del Servicio de Impuestos Internos.
+
+Anótese y publíquese.- Javier Etcheberry Celhay, Director.
