@@ -1,0 +1,181 @@
+LLAMA A POSTULAR A LOS PROGRAMAS DE VIVIENDAS DESTINADOS A ATENDER SITUACIONES DE MARGINALIDAD HABITACIONAL
+
+(Resolución)
+
+Iquique, 10 de agosto de 1998.- Con esta fecha se ha dictado la siguiente:
+
+Núm. 309 exenta.- Vistos:
+
+a) La resolución exenta Nº253 (V.y U.), de 6 de febrero de 1997, publicada en el Diario Oficial del 17 de febrero de 1997, que fija las menciones y datos que deben contener las solicitudes de inscripción y postulación al Sistema de Postulación, Asignación y Venta de Viviendas destinadas a atender situaciones de marginalidad habitacional y a los programas de viviendas progresivas, documentación requerida para ello y forma de presentación;
+
+b) Lo establecido en el D.S. Nº62 (V. y U.) de 1984 y sus modificaciones posteriores, Reglamento del Sistema de Postulación, Asignación y Venta de Viviendas destinadas a atender situaciones de marginalidad habitacional;
+
+c) Lo establecido en el D.S. Nº140 (V.y U.) de 1990, Reglamento del Programa de Viviendas Progresivas;
+
+d) Los recursos presupuestarios dispuestos para estos fines;
+
+e) Lo establecido en el D.S. Nº397 (V. y U.) de 1976, Reglamento de las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, y
+
+f) El D.S. Nº100 (V. y U.) de 1990, que nombró al suscrito en el cargo de Secretario Regional Ministerial de Vivienda y Urbanismo, Región de Tarapacá;
+
+R e s u e l v o:
+
+1º Llámase en la I Región de Tarapacá a postulación a viviendas básicas, D.S. 62 (V. y U.) de 1984, y viviendas progresivas, D.S. 140 (V. y U.) de 1990, modalidades Serviu y privada, alternativas individual y colectiva, a todos aquellos interesados que reúnan los requisitos y acreditación exigidas por la resolución exenta Nº253 (V. y U.) publicada en el Diario Oficial del 17 de febrero de 1997, en los programas, condiciones y plazos siguientes:
+
+Plazo para formalizar la postulación, complementación y/o actualización de la información: desde el 24 de agosto al 7 de septiembre de 1998, ambas fechas inclusive.
+
+Cierre temporal de inscripciones en el Registro Unico: desde el 8 al 25 de septiembre de 1998, ambas fechas inclusive.
+
+Requisitos y condiciones generales para el llamado:
+
+a) Antecedentes personales del postulante (individual o colectivo).
+
+b) Ser postulante hábil (estar inscrito en el Registro Unico, con Encuesta CAS II vigente y ahorro enterado).
+
+c) Ahorro mínimo cumplido al 31 de julio de 1998.
+
+d) Acreditar disponibilidad de sitio propio y Carpeta técnica (sólo para programa de vivienda progresiva modalidad privada)
+
+e) Acreditar solvencia y capacidad de pago de crédito hipotecario (sólo para programa de vivienda básica modalidad privada).
+
+f) Credencial del Registro Nacional de la Discapacidad (sólo para programa de atención a discapacitados).
+
+g) Mayores de 65 años, sin ahorro mínimo (sólo para programa de atención al adulto mayor).
+
+2º Defínense las siguientes alternativas de postulación, que componen la oferta para el presente llamado:
+
+A.- COMUNA DE ARICA
+
+A.1. Programa de Vivienda Básica
+
+Modalidad: Serviu
+
+Ubicación: ''Chinchorro Oriente I'' Arica.
+
+Alternativa de postulación: individual o colectiva
+
+Monto del Subsidio Habitacional: hasta 140 U.F.
+
+Fecha acreditación del ahorro: 31 de julio de 1998
+
+Valor de la vivienda: según el tipo
+
+Características de las viviendas ofertadas:
+
+Tipo Cantidad Valor (UF) Ahorro mínimo Ahorro mínimo
+
+para postular para asignar
+
+(UF) (UF)
+
+B1 240 162,65 a 184,61 5,00 10,00
+
+B2 309 274,36 a 310,46 5,48 a 6,21 10,97 a 12,42
+
+Ahorro mínimo requerido: según el tipo.
+
+A.2. Programa de Atención Especial al Adulto Mayor
+
+Modalidad: Serviu
+
+Cantidad de viviendas: 05
+
+Ubicación: C.H. ''Chinchorro Oriente I'', Arica
+
+Alternativa de postulación: individual
+
+Modalidad de asignación: arriendo o comodato
+
+A.3. Programa de Atención Especial a la
+
+Discapacidad en silla de ruedas
+
+Modalidad: Serviu
+
+Cantidad de viviendas: 01
+
+Ubicación: C.H. ''Chinchorro Oriente I'', Arica
+
+Alternativa de postulación: individual
+
+Monto del Subsidio Habitacional: hasta 140 U.F.
+
+Fecha acreditación del ahorro: 31 de julio de 1998
+
+Valor de la vivienda: 294,70 U.F.
+
+Ahorro mínimo para postular: 5,89 U.F.
+
+Ahorro mínimo para asignar: 11,79 U.F.
+
+B.- REGIONAL
+
+B.1. Programa de Vivienda Básica de Libre Elección
+
+Modalidad: privada
+
+Alternativa de postulación: individual o colectiva
+
+Recursos disponibles: 7.560 U.F.
+
+Localización: toda la I Región
+
+Ahorro mínimo requerido: 20 U.F.
+
+Fecha acreditación del ahorro: 31 de julio de 1998
+
+B.2. Programa de Vivienda Progresiva 1ª Etapa
+
+Modalidad: privada
+
+Alternativa de postulación: individual o colectiva
+
+Recursos disponibles: 15.180 U.F.
+
+Localización: toda la I Región
+
+Ahorro mínimo para postular: 3 U.F. o acreditar
+
+sitio
+
+propio
+
+Ahorro mínimo para asignar: 8 U.F. o acreditar
+
+sitio propio
+
+Fecha acreditación del ahorro: 31 de julio de 1998
+
+B.3. Programa de Vivienda Progresiva 2ª Etapa
+
+Modalidad: privada
+
+Alternativa de postulación: individual o colectiva
+
+Recursos disponibles: 442 U.F.
+
+Localización: toda la I Región
+
+Ahorro mínimo requerido: 5 U.F.
+
+Fecha acreditación del ahorro: 31 de julio de 1998
+
+3º Declárese lugares hábiles para presentar la
+
+postulación, los siguientes:
+
+IQUIQUE :Remodelación Oscar Bonilla, Block D-11,
+
+Primer
+
+piso, Depto. de Operaciones
+
+Habitacionales.
+
+ARICA :18 de Septiembre Nº122, Oficina de
+
+Operaciones
+
+Habitacionales
+
+Anótese, comuníquese y publíquese en el Diario Oficial y en uno de amplia circulación en la región.- Francisco Pinto Madariaga, Secretario Regional Ministerial Minvu Región de Tarapacá.
