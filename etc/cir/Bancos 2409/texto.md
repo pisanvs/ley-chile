@@ -9794,9 +9794,9 @@ De darse ese caso, cada una de ellas deberá contabilizar la obligación conting
 
 4.- Prohibiciones.
 
-Las instituciones financieras no podrán avalar o afianzar obligaciones a favor de instituciones financieras establecidas en el país.
+Las instituciones financieras no podrán avalar o afianzar obligaciones a favor o de cargo de instituciones financieras establecidas en el país.
 
-Tampoco podrán avalar o afianzar obligaciones asumidas por otras instituciones financieras, sea que éstas se encuentren establecidas en el país o en el extranjero, salvo que, de acuerdo con lo previsto en el N° 2 del artículo 80 de la Ley General de Bancos, se trate de obligaciones de bancos extranjeros en los que el avalista o fiador tenga participación en su propiedad.
+Tampoco podrán avalar o afianzar obligaciones asumidas por instituciones financieras establecidas en el extranjero, salvo que se trate de operaciones en moneda extranjera correspondientes a comercio exterior entre terceros países y la institución deudora no sea sucursal o filial ni esté vinculada a la propiedad de algún otro banco situado en Chile. Para estos efectos, sé entenderá que tienen relación de propiedad con un banco situado en el país, las instituciones financieras del exterior cuyo controlador se encuentre domiciliado en Chile o, están solo en el exterior, participen en su propiedad en forma mayoritaria personas naturales o jurídicas chilenas.
 
 Queda además prohibido a las instituciones financieras descontar, negociar o aceptar en garantía, letras de cambio y otros efectos de crédito avalados o afianzados por otras instituciones financieras situadas en el país.
 
