@@ -646,7 +646,11 @@ De las inversiones
 
 ° Los fondos de la Caja y de sus organismos auxiliares que excedan de las cantidades necesarias para pagar los beneficios y los gastos de administración deberán invertirse en los siguientes fines:
 
-a) Construcción de casas de habitación aisladas o en colectivos, con el solo objeto de transferirlas a sus imponentes, para lo cual podrá adquirir sitios eriazos y urbanizarlos,
+a) Construcción de casas de habitación aisladas o en colectivos, con el solo objeto de transferirlas a sus imponentes, para lo cual podrá adquirir sitios eriazos y urbanizarlos.
+
+Para los efectos de lo dispuesto en esta letra, la Caja podrá celebrar todos los actos o contratos que estime necesarios para el cumplimiento de esta finalidad.
+
+Se entenderá también que la Caja puede adquirir para transferirlas a sus imponentes, casas de habitación aisladas o en colectivos en construcción, entendiéndose que una propiedad está en construcción hasta el momento en que la Municipalidad respectiva otorgue el certificado de recepción final de las obras en el que conste que dicha construcción está totalmente terminada y la declara, dentro del plazo que ella determine en cada caso, apta para ser habitada.
 
 b) Concesión de préstamos con garantía hipotecaria a los imponentes para adquirir o construir casas habitaciones;
 
