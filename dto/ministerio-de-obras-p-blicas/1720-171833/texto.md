@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.720, de 28 de abril del 2000, se expropió el lote de terreno Nº 4, superficie 221 m²., rol de avalúo 5323-3, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana, y se acordó el valor de indemnización con su propietario Juan Samuel Jofré Navarrete, ascendente a la cantidad de $28.111.763.-
+
+Fiscal del Ministerio de Obras Públicas.
