@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.367 de fecha 31 de octubre del 2003, se expropió el lote de terreno Nº 4, superficie 615 m2, rol Nº 271-1, comuna de Quintero, V Región para la obra "Proyecto de Mejoramiento, Ruta F-216, Camino Acceso Valle Alegre, Sector Cruce a Quintero - Valle Alegre", y se acordó el valor de indemnización con su propietario Gerardo Camilo Larraín Plaza, ascendente a la cantidad de $1.921.563.
+
+- Fiscal del Ministerio de Obras Públicas.
