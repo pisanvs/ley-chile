@@ -1,0 +1,3 @@
+Por Decreto M.O.P.N° 105, de 30 de marzo de 1993, se expropiaron los lotes de terreno N°s. 6, 7, y 8, superficies 55 M2, 20 M2 y 33 M2, respectivamente, rol de avalúo 478-20, Comuna de Constitución, para la obra Camino Las Cañas-Constitución, Sector Las Cañas Constitución y se acordó precio de indemnización con su propietario Darío Valdés Valdés, ascendente a la cantidad de $ 243.067.-
+
+Fiscal del Ministerio de Obras Públicas.(15)
