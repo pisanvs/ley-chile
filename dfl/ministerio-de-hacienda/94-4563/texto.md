@@ -1,0 +1,667 @@
+FIJA EL TEXTO DEFINITIVO DE LA LEY DE ADMINISTRACION DE LA EMPRESA DE LOS FERROCARRILES DEL ESTADO
+
+Núm. 94.- Santiago, 23 de Febrero de 1960.-
+
+Considerando:
+
+Que en el ejercicio de las facultades conferidas por la ley 13,305, ha sido un propósito preferente del Supremo Gobierno revisar las leyes orgánicas de los Servicios Públicos, para racionalizar la Administración del Estado, al actualizar, simplificar, coordinar y uniformar la legislación vigente;
+
+Que de acuerdo con el objetivo señalado, se ha efectuado un estudio y revisión de la Ley Orgánica de la Empresa de los Ferrocarriles del Estado que, salvo modificaciones aisladas sobre determinadas materias, conserva la misma estructura orgánica que le había otorgado el decreto con fuerza de ley número 167, de 12 de Mayo de 1931;
+
+Que, en consecuencia, es de imprescindible necesidad sustituir el texto actual, aprobado por decreto con fuerza de ley número 386, de 5 de agosto de 1953, por un texto orgánico, confeccionado en su aspecto formal, bajo una técnica de elaboración que será común a la revisión de todas las leyes orgánicas de los Servicios del Estado y que en el caso particular de la Empresa de los Ferrocarriles, no sólo actualiza, simplifica y coordina las disposiciones que actualmente la rigen, sino que también le proporciona los medios legales para que pueda atender en forma más eficiente, comercial y técnica, el servicio público que la ley le ha encomendado;
+
+Que el nuevo texto orgánico confeccionado, contempla todos los elementos que permiten configurar su calidad jurídica de Empresa del Estado de administración autónoma, señalando sus fines, individualizando su patrimonio y fijando sus atribuciones y recursos y, al mismo tiempo, estableciendo sus relaciones con el Gobierno al fijar su dependencia del Ministerio de Economía y al exigir para la ejecución de determinados actos de disposición o de administración la aprobación del Presidente de la República;
+
+Que se considera también indispensable introducir modificaciones sustanciales en la administración financiera y en los sistemas de contabilidad de la referida Empresa con el objeto de armonizar sus disposiciones con los nuevos conceptos que regirán sobre la materia, al dictarse por el Ejecutivo, el texto legal orgánico que fijará las normas que deberán observarse para la confección de presupuestos en la administración fiscal y semifiscal;
+
+Que, asimismo, es de imprescindible necesidad legislar en materia de cruces ferroviarios con el objeto de evitar la repetición de los graves accidentes originados por la imprudencia de peatones y conductores de vehículos al cruzar la vía férrea, adoptando para ello las mismas normas consagradas en otros países de gran adelanto ferroviario; ya que la experiencia ha demostrado que al atribuir mayor responsabilidad a los usuarios de los cruces y dando la debida publicidad a las respectivas disposiciones legales, se permite formar una nueva conciencia sobre el particular, la que constituye la medida de seguridad más efectiva en materia de tránsito ferroviario, y sin perjuicio de que la Empresa mantenga sistemas de señalización y funcionarios guarda-cruces en aquellos lugares de mayor movimiento; y
+
+En uso de las facultades otorgadas por el artículo 202 de la ley número 13,305, dicto el siguiente
+
+Decreto con fuerza de ley:
+
+## Título I
+
+Naturaleza, Objeto y Domicilio
+
+#### Artículo 1°
+
+La Empresa de los Ferrocarriles del Estado es una persona jurídica de derecho público, constituye una empresa autónoma del Estado, dotada de patrimonio propio, con domicilio en la ciudad de Santiago y se relacionará con el Gobierno a través del Ministerio de Transportes y Telecomunicaciones.
+
+#### Artículo 2°
+
+La Empresa de los Ferrocarriles del Estado tendrá por objeto establecer, desarrollar, impulsar, mantener y explotar servicios de transporte de pasajeros y carga a realizarse por medio de vías férreas o sistemas similares y servicios de transporte complementarios, cualquiera sea su modo, incluyendo todas las actividades conexas necesarias para el debido cumplimiento de esta finalidad. Asismismo, podrá explotar comercialmente los bienes de que es dueña.
+
+Este objeto social lo podrá realizar directamente o por medio de contratos u otorgamiento de concesiones o mediante la constitución, con personas naturales o jurídicas, chilenas o extranjeras, de sociedades anónimas que, para todos los efectos legales posteriores a su constitución, se regirán por las normas aplicables a las sociedades anónimas abiertas. Los servicios de transporte complementarios sólo podrán prestarse por medio de contratos, concesiones o sociedades pactadas con terceros, de conformidad a lo establecido en este artículo.
+
+La participación de terceros, en las sociedades que forme la Empresa para el cumplimiento de sus fines y el otorgamiento de concesiones, deberán realizarse mediante licitación pública, en cuyas bases se establecerán clara y precisamente los elementos de la esencia del pacto social o del contrato de concesión. Se excluyen de este requisito las sociedades y concesiones cuyo objeto recaiga en la prestación de servicios menores.
+
+La Empresa, en caso alguno, podrá celebrar actos o contratos que, legalmente o de hecho, impliquen enajenación de la franja de terreno, puentes y obras de arte que constituyan el trazado y vía ferroviaria. Se exluyen de esta prohibición los actos o contratos que recaigan en terrenos que queden en desuso en razón de modificaciones del trazado de la línea o del cambio de ubicación de estaciones o por haberse levantado la vía férrea, en virtud de autorización expresa dada por el Presidente de la República. De igual modo, en todo contrato, concesión o aporte que implique dar uso exclusivo de la línea férrea, en todo o parte, será condición esencial del contrato, o de la concesión, o del aporte a la sociedad, que se permita a terceros el uso de la vía, sobre la base de un sistema tarifario igualitario y no discriminatorio.
+
+Los actos y contratos que realice la Empresa en el desarrollo de su giro se regirán exclusivamente por las normas de derecho privado, en todo aquello que no sea contrario a las normas del presente decreto con fuerza de ley.
+
+#### Artículo 3°
+
+DEROGADO.-
+
+#### Artículo 4°
+
+La Empresa suministrará al Gobierno todos los datos e informes estadísticos relativos a la explotación y administración que puedan requerirse para el constante estudio de la política ferroviaria y de transportes.
+
+## Título II
+
+De la administración
+
+### Párrafo 1°
+
+Del Directorio
+
+a) De su composición y designación.
+
+#### Artículo 5°
+
+La administración de la Empresa la ejercerá un Directorio compuesto de siete miembros, de libre designación del Presidente de la República, quien además designará a uno de ellos para que se desempeñe en calidad de Presidente del Directorio.
+
+Para ser Director será necesario cumplir los siguientes requisitos:
+
+a) Ser chileno.
+
+b) Tener a lo menos 21 años de edad.
+
+c) No haber sido condenado por delito que merezca pena aflictiva.
+
+d) Tener un título profesional universitario o haber desempeñado, por un período no inferior a tres años continuos o no, un cargo ejecutivo superior en empresas públicas o privadas.
+
+El cargo de director será incompatible con el de Ministro de Estado o Subsecretario.
+
+El Directorio, además, estará integrado por un representante de los trabajadores, el cual sólo tendrá derecho a voz, durará dos años en funciones, será elegido en votación secreta y directa por los trabajadores de la Empresa y podrá ser reelegido hasta por cuatro períodos consecutivos. La elección se convocará por el Gerente General para día, hora y lugares determinados. La convocatoria a elección deberá ser publicitada para conocimiento del personal, con no menos de ocho días de anticipación a aquel fijado para su realización. En todo caso, la elección deberá realizarse con no menos de quince días de anticipación a la fecha en que expire el período del representante de los trabajadores en ejercicio.
+
+b) De las inhabilidades y recusaciones de los Directores.
+
+#### Artículo 5°
+
+A.- Son inhábiles para desempeñar el cargo de Director:
+
+1.- Las personas que por sí, sus cónyuges, sus parientes legítimos hasta el tercer grado de consanguinidad y segundo de afinidad, o por personas que estén ligadas a ellos por vínculos de adopción, o a través de personas naturales o de personas jurídicas en que tengan control de su administración, posean o adquiera - a cualquier título - interés superior al 10% en empresas de transportes o en empresas en que participe la Empresa o sean parte o tengan interés en concesiones dadas por ésta a terceros.
+
+2.- Las personas que desempeñen los cargos de Presidente, Vicepresidente, Secretario General y Tesorero en las directivas centrales de los partidos políticos o en directivas nacionales de organizaciones gremiales o sindicales.
+
+#### Artículo 5°
+
+B.- Los Directores sólo podrán ser inhabilitados para intervenir en un negocio determinado, en razón de existir interés personal o de su cónyuge o de sus parientes consanguíneos en toda la línea recta o hasta el cuarto grado colateral o por afinidad hasta el segundo grado inclusive o tener vínculos de adopción o por causa de amistad íntima o enemistad con aquél o aquéllos a quienes afecte dicha materia.
+
+La recusación deberá deducirse ante el Directorio hasta el momento mismo en que éste entre a resolver sobre la materia respecto de la cual se alega la inhabilidad. La recusación deberá ir acompañada de las pruebas que justifiquen la causal invocada y, tratándose de prueba testimonial, ésta se adjuntará mediante declaraciones juradas prestadas ante Notario Público.
+
+Deducida la recusación, el Presidente notificará de ésta al Director afectado, el cual deberá informar por escrito al Directorio, dentro de las 48 horas siguientes. Contestada ésta o transcurrido dicho plazo, el Presidente del Directorio o quien haga sus veces, con o sin el informe del Director afectado, citará de inmediato a una sesión extraordinaria del Directorio para resolver la recusación. El fallo del Directorio no será susceptible de recurso alguno. Mientras no se resuelva sobre la recusación, el Directorio se abstendrá de resolver sobre la materia en que ésta incide.
+
+El Director a quien afecte una causal de recusación, deberá darla a conocer de inmediato al Directorio y abstenerse de participar en la discusión y votación de la materia. La infracción a esta obligación se considerará como falta grave.
+
+En el evento en que la causal de recusación llegue a conocimiento del interesado con posterioridad a la decisión del asunto, ésta deberá hacerse valer dentro de los cinco días hábiles siguientes a la fecha en que el interesado tuvo conocimiento de la decisión. El Directorio sólo la admitirá a tramitación en el evento en que el voto del Director recusado haya sido determinante para lograr el quórum exigido por la ley, según sea la materia de que se trate. De acogerse la recusación, el Directorio, en sesión especialmente convocada al efecto, deberá pronunciarse nuevamente sobre la materia en que incide la recusación, quedando suspendido el cumplimiento de la decisión anterior.
+
+La notificación de la recusación se hará mediante carta entregada en el domicilio que el afectado tenga registrado en la Empresa, por el Secretario o Ministro de fe pública.
+
+c) De la responsabilidad, derechos, obligaciones y prohibiciones de los Directores.
+
+#### Artículo 5°
+
+C.- La función de Director no es delegable y se ejerce colectivamente, en sala legalmente constituída.
+
+Cada Director tiene derecho a ser informado plena y documentadamente y en cualquier tiempo, por el Gerente General o quien haga sus veces, de todo lo relacionado con la marcha de la Empresa. Este derecho debe ser ejercido de manera de no entorpecer la gestión social.
+
+#### Artículo 5°
+
+D.- Los Directores deberán emplear en el ejercicio de sus funciones el cuidado y diligencia que los hombres emplean ordinariamente en sus propios negocios y responderán solidariamente de los perjuicios causados a la Empresa por sus actuaciones dolosas o culpables.
+
+La aprobación gubernamental, o de la Contraloría General de la República, o de cualquier otra autoridad administrativa, cuando ésta proceda, de la memoria y balance, o de cualquier otra cuenta o información general que presente el Directorio, no libera a los Directores de la responsabilidad personal que les corresponda por actos o negocios determinados. La aprobación específica de éstos no los exonera de aquella responsabilidad, si hubiere mediado culpa leve, grave o dolo.
+
+#### Artículo 5°
+
+E.- Los Directores están obligados a guardar reserva respecto de los negocios de la Empresa y de la información a que tengan acceso en razón de su cargo y que no haya sido divulgada oficialmente por el Directorio. No regirá esta obligación cuando la reserva lesione el interés de la Empresa o se refiera a hechos u omisiones constitutivas de infracción a las leyes.
+
+#### Artículo 5°
+
+F.- Se prohibe a los Directores:
+
+1) Adoptar políticas o decisiones que no tengan por finalidad cumplir el objeto de la Empresa en la forma establecida en esta ley o persigan beneficiar sus propios intereses o los de terceras personas con quienes existan relaciones de parentesco, amistad íntima o intereses comerciales o políticos.
+
+2) Impedir u obstaculizar las investigaciones destinadas a establecer su propia responsabilidad o la de los ejecutivos en la gestión de la empresa.
+
+3) Inducir a los gerentes, ejecutivos, dependientes o auditores, a rendir cuentas irregulares, a presentar informaciones no fidedignas o falsas y a ocultar
+
+4) Tomar en préstamo dinero o bienes de la sociedad, o usar en provecho propio o de terceros, con quienes tengan relación de parentesco, amistad íntima o intereses comerciales o políticos, los bienes, servicios o créditos de la empresa, y
+
+5) Realizar o incurrir en actos ilegales o inmorales, o contrarios a las normas de esta ley o al interés social, o usar de su cargo para obtener beneficios o prebendas indebidas para sí o para terceros con quienes tengan relación de parentesco, amistad íntima o intereses comerciales o políticos.
+
+d) De la remuneración de los Directores.
+
+#### Artículo 5°
+
+G.- Los Directores y el representante de los trabajadores percibirán una dieta equivalente a 8 unidades tributarias mensuales por cada sesión a que asistan, con un máximo de 16 de estas unidades por mes calendario. El Presidente, o quien lo subrogue, percibirá igual dieta, aumentada en un 100%.
+
+e) De la cesación en el cargo de Director.
+
+#### Artículo 5°
+
+H.- Son causales de cesación en el cargo de Director, las siguientes:
+
+a) Renuncia, aceptada por el Presidente de la República, o presentada a expresa petición de éste;
+
+b) Remoción, por decreto supremo fundado, expedido a través del Ministerio de Transportes y Telecomunicaciones, por falta grave al cumplimiento de las obligaciones como Director. Serán faltas graves, entre otras, la inasistencia injustificada a tres sesiones consecutivas o a seis sesiones del Directorio, ordinarias o extraordinarias, durante un semestre calendario; y, no guardar la debida reserva que establece el artículo 5° E sobre la información relativa a la Empresa;
+
+c) Incapacidad síquica o física, y
+
+d) Sobreveniencia de alguna causal de inhabilidad, en cuyo caso el Director afectado cesará inmediatamente en el cargo.
+
+La existencia de las causales c) y d) será establecida por el Ministro de Transportes y Telecomunicaciones, oyendo previamente al afectado. Esta resolución podrá ser apelada para ante la Corte de Apelaciones de Santiago, la que se tramitará conforme a las normas que rigen para la tramitación del recurso de protección.
+
+El término de funciones del Director se dispondrá por decreto supremo, debiendo acreditarse, mediante los documentos auténticos correspondientes, la existencia de la causal en que se funde el cese.
+
+El reemplazo de los Directores será hecho de conformidad a lo establecido en el artículo 5°.
+
+f) Del funcionamiento del Directorio.
+
+#### Artículo 5°
+
+I.- El Directorio sesionará con la mayoría de sus miembros en ejercicio y adoptará sus acuerdos por mayoría de votos de sus miembros presentes. En caso de empate se citará a una sesión especial para dirimirlo y, de subsistir el empate, lo dirimirá el voto del Presidente del Directorio o quien haga sus veces.
+
+El Directorio sesionará en forma ordinaria o extraordinaria. Son sesiones ordinarias aquellas que determine el propio Directorio para días y horas determinadas, en las cuales se tratarán todas las materias que el Presidente incluya en la tabla respectiva, la que deberá ser comunicada a los Directores con no menos de 24 horas de anticipación a la fecha de la sesión. El Directorio no podrá establecer más de dos sesiones ordinarias por mes.
+
+Son sesiones extraordinarias aquellas en que el Directorio es convocado especialmente para conocer exclusivamente de aquellas materias que motivan la convocatoria. Esta podrá ser a iniciativa del Presidente o a requerimiento escrito de tres Directores, a lo menos. La citación a sesión extraordinaria deberá hacerse con una anticipación no inferior a 48 horas y deberá contener expresamente las materias a tratarse en ella.
+
+#### Artículo 5°
+
+J.- La Empresa sólo podrá celebrar actos LEY 19170 o contratos en los que uno o más Directores tengan Art.1°,15.- interés por sí o como representantes de otra persona, cuando dichas operaciones sean conocidas y aprobadas por el Directorio y se ajusten a condiciones de equidad similares a las que habitualmente prevalecen en el mercado.
+
+Se presume de derecho que existe interés de un Director en toda negociación, acto, contrato u operación en la que deba intervenir el mismo, su cónyuge o sus parientes hasta el segundo grado de consanguinidad o afinidad, o las sociedades o empresas en las cuales sea director o dueño directo, o a través de otras personas naturales o jurídicas, de un 10% o más de su capital.
+
+La infracción a este artículo no afectará la validez de la operación. Sin embargo, la empresa, sin perjuicio de las sanciones administrativas y penales que correspondan, tendrá derecho a exigir indemnización por los perjuicios ocasionados y a que se reembolse a la Empresa por el Director interesado, una suma equivalente a los beneficios que a éste, a sus parientes o a sus representados les hubiere reportado tal negociación. Igual derecho tendrán los terceros que resularen afectados por ésta.
+
+#### Artículo 5°
+
+K.- De toda deliberación y acuerdo del Directorio se deberá dejar constancia en un libro de actas; que deberá ser foliado correlativamente y al cual se incorporarán por estricto orden de ocurrencia, sin que se dejen fojas o espacios en blanco. Las actas se podrán escriturar por cualquier medio que garantice su fidelidad, quedando estrictamente prohibido hacer intercalaciones, supresiones o adulteraciones que puedan afectarlas.
+
+El acta deberá ser firmada por todos los Directores que hubieren concurrido a la sesión. Si alguno de ellos falleciere o se imposibilitare, por cualquier causa, para firmarla, se dejará constancia en la misma de la respectiva circunstancia o impedimento.
+
+El acta se entenderá aprobada desde el momento en que sea suscrita por los Directores que asistieron a la sesión, salvo la existencia de alguna de las situaciones establecidas en el inciso precedente. Los acuerdos contenidos en el acta sólo se podrán llevar a efecto una vez aprobada ésta.
+
+Se entenderá aprobada el acta desde el momento de su firma y, desde esa fecha, se podrán llevar a efecto los acuerdos a que ella se refiere.
+
+El Director que quiera salvar su responsabilidad por algún acto o acuerdo del Directorio, deberá hacer constar en el acta su oposición. Igualmente, antes de firmarla, todo Director tiene el derecho de consignar en ella las inexactitudes u omisiones que contenga, según su opinión.
+
+#### Artículo 6°
+
+DEROGADO.-
+
+#### Artículo 7°
+
+DEROGADO.-
+
+#### Artículo 8°
+
+DEROGADO.-
+
+g) De las atribuciones del Directorio.
+
+#### Artículo 9°
+
+Corresponde al Directorio la administración y representación de la Empresa, con las más amplias y absolutas facultades y sin otras limitaciones que aquellas que expresamente se establecen en este decreto con fuerza de ley.
+
+El Directorio, además, deberá:
+
+a) Designar, en su primera sesión y de entre sus miembros, al Director que se desempeñará como Vicepresidente del mismo. El Vicepresidente reemplazará al Presidente en caso de ausencia o imposibilidad transitoria de éste para ejercer el cargo;
+
+b) Designar al Gerente General y al Ejecutivo de la Empresa que deba reemplazarlo transitoriamente en caso de ausencia o imposibilidad temporal de éste para el ejercicio del cargo. El Gerente General se designará o removerá en sesión especialmente convocada al efecto;
+
+c) Dictar los reglamentos y normas que estime conveniente para regular la organización interna de la Empresa y su adecuado funcionamiento;
+
+d) Establecer las bases de licitación a que se refiere el artículo 2° para los efectos de otorgar concesiones o constituir sociedades anónimas con terceros. Asimismo, deberá aprobar expresamente el texto de los contratos de concesión y los estatutos de las sociedades anónimas que acuerde constituir;
+
+e) Establecer y modificar las plantas del personal; fijar y determinar sus remuneraciones y beneficios; y aprobar los reglamentos internos de trabajo que someta a su decisión el Gerente General;
+
+f) Aprobar y modificar los presupuestos anuales de ingresos, gastos e inversiones, y establecer las normas necesarias para controlar su cumplimiento;
+
+g) Pronunciarse sobre los estados financieros trimestrales y anuales que debe presentarle el Gerente General, conforme a las normas establecidas por el Directorio y a los principios y sistemas de contabilidad aplicables a las sociedades anónimas abiertas;
+
+h) Aprobar la creación de oficinas, agencias o representaciones dentro del país o en el extranjero, e
+
+i) Conferir poderes generales al Gerente General y especiales a otros ejecutivos o a abogados de la empresa y, para casos específicos y determinados, a terceras personas. Estos poderes los podrá revocar y limitar en cualquier momento, sin expresión de causa.
+
+En caso alguno el Directorio podrá:
+
+1) Constituir a la Empresa en aval, fiadora o codeudora solidaria de terceras personas, naturales o jurídicas, y
+
+2) Efectuar donaciones.
+
+### Párrafo 2°
+
+Del Gerente General.
+
+#### Artículo 10°
+
+Existirá un Gerente General que será designado y removido por el Directorio en la forma establecida en la letra b) del artículo 9°.
+
+La remuneración y demás condiciones del contrato de trabajo del Gerente General serán determinadas por el Directorio en el momento de su designación. Este acuerdo requerirá del voto favorable de la mayoría absoluta de los Directores en ejercicio.
+
+#### Artículo 10°
+
+A.- Corresponderá al Gerente General la ejecución de los acuerdos del Directorio, la supervisión permanente de la administración y funcionamiento de la Empresa y la representación extrajudicial y judicial de la misma, con todas las facultades que se contemplan en el inciso segundo del artículo 7° del Código de Procedimiento Civil.
+
+El Gerente General, sin necesidad de mención expresa, gozará de todas las facultades de administración necesarias para el cumplimiento y desarrollo del giro normal de la Empresa, además de las facultades que el Directorio le delegue expresamente.
+
+Ello no obstante, se requerirá acuerdo previo del Directorio para:
+
+a) Adquirir, gravar y enajenar bienes raíces o derechos constituidos sobre ellos;
+
+b) Vender, ceder, transferir o arrendar bienes del activo inmovilizado de la Empresa cuyo valor exceda de 1.000 unidades tributarias mensuales;
+
+c) Contratar créditos a plazos superiores a un año, y
+
+d) Transigir y someter a compromiso.
+
+#### Artículo 10°
+
+B.- El cargo de Gerente General es incompatible con el de Director de la Empresa. El Gerente General tendrá las mismas inhabilidades, responsabilidades, obligaciones y prohibiciones que los artículos 5° A, 5° B, 5° D, 5° E y 5° F contemplan para los Directores.
+
+#### Artículo 10°
+
+C.- El Gerente General asistirá a las sesiones de Directorio con derecho a voz y responderá con los miembros de éste de todos los acuerdos perjudiciales para la Empresa, a menos que deje expresa constancia en acta de su opinión contraria.
+
+#### Artículo 10°
+
+D.- El Gerente General, en caso de ser citado a absolver posiciones, en materia laboral, podrá comparecer personalmente o bien por medio del jefe del personal o del encargado de relaciones laborales, el cual se entenderá expresamente autorizado para hacerlo en representación de la Empresa.
+
+#### Artículo 11°
+
+DEROGADO.-
+
+#### Artículo 12°
+
+DEROGADO.-
+
+## Título III
+
+Del Personal
+
+#### Artículo 13°
+
+Los trabajadores de la Empresa se regirán por las normas de este decreto con fuerza de ley, por las disposiciones del Código del Trabajo y sus normas complementarias y por el decreto con fuerza de ley N° 3, de 1980, del Ministerio de Transportes y Telecomunicaciones. En consecuencia, no les será aplicable norma alguna que afecte a los trabajadores del Estado o de sus empresas. Para todos los efectos legales, se consideran como trabajadores del sector privado.
+
+Sólo tendrán la calidad de trabajadores aquellas personas que desempeñen labores permanentes, por media jornada o más de media jornada en la Empresa y siempre que exista vínculo de subordinación o dependencia con ésta.
+
+La prestación de servicios por hora o sin vínculo de subordinación o dependencia con la Empresa, se regirá por las normas del Código Civil.
+
+Los trabajadores que, a la fecha de vigencia de esta ley se encuentren afectos al régimen previsional de la ex Caja de Retiros y Previsión Social de los Ferrocarriles del Estado, tendrán derecho a mantenerse dentro de dicho régimen.
+
+#### Artículo 14°
+
+DEROGADO.-
+
+#### Artículo 15°
+
+DEROGADO.-
+
+#### Artículo 16°
+
+Toda persona que preste servicios a la Empresa, cualquiera que sea su naturaleza, responderá de todo daño o perjuicio que irrogue a ésta, de mediar dolo o culpa de su parte.
+
+#### Artículo 17°
+
+DEROGADO.-
+
+#### Artículo 18°
+
+DEROGADO.-
+
+#### Artículo 19°
+
+DEROGADO.-
+
+#### Artículo 20°
+
+DEROGADO.-
+
+#### Artículo 21°
+
+La Empresa llevará un registro de su personal que contendrá, además de su filiación, todas las anotaciones que tengan relación con los cargos que desempeñe y con su actuación funcionaria y en conformidad con dicho registro extenderá la correspondiente hoja de servicios.
+
+Sólo se acreditarán los servicios prestados en la Empresa con la hoja de servicios otorgada por la Dirección de la misma, la cual, una vez emitida, no podrá ser modificada o anulada, sino por acuerdo del Directorio.
+
+El personal de la Empresa deberá proporcionar, con absoluta fidelidad y precisión, todos los datos que le sean requeridos para su anotación en el registro.
+
+#### Artículo 22°
+
+DEROGADO.-
+
+#### Artículo 23
+
+° Son aplicables a los trabajadores de la Empresa las normas contenidas en el artículo 5° F de este decreto con fuerza de ley. La infracción a cualquiera de ellas, constituye causal de caducidad del respectivo contrato de trabajo.
+
+#### Artículo 24°
+
+DEROGADO.-
+
+#### Artículo 25°
+
+DEROGADO.-
+
+#### Artículo 26°
+
+DEROGADO.-
+
+#### Artículo 27°
+
+DEROGADO.-
+
+#### Artículo 28°
+
+DEROGADO.-
+
+#### Artículo 29°
+
+DEROGADO.-
+
+#### Artículo 30°
+
+Los derechos del personal por sus servicios en la Empresa prescribirán en el plazo de seis meses, a contar desde la fecha de terminación de ellos, con excepción del derecho a solicitar desahucio y jubilación.
+
+Prescribirá en el plazo de dos años, contados desde la fecha del decreto de concesión, el derecho a solicitar revisiones o rectificaciones de desahucio, de pensiones de jubilación o beneficios de otra naturaleza.
+
+#### Artículo 31°
+
+DEROGADO.-
+
+#### Artículo 32°
+
+DEROGADO.-
+
+#### Artículo 33°
+
+DEROGADO.-
+
+#### Artículo 34°
+
+DEROGADO.-
+
+#### Artículo 35°
+
+DEROGADO.-
+
+#### Artículo 36°
+
+DEROGADO.-
+
+#### Artículo 37°
+
+DEROGADO.-
+
+#### Artículo 38°
+
+DEROGADO.-
+
+#### Artículo 39°
+
+DEROGADO.-
+
+#### Artículo 40°
+
+DEROGADO.-
+
+#### Artículo 41°
+
+DEROGADO.-
+
+## Título IV
+
+Del patrimonio, del régimen económico y de la fiscalización
+
+a) Del Patrimonio.
+
+#### Artículo 42°
+
+Formarán parte del patrimonio de la Empresa de los Ferrocarriles del Estado:
+
+a) Las vías férreas que, por disposición del Gobierno se hayan incorporado o se incorporen a ella, todo con sus dependencias y anexos;
+
+b) Los terrenos ocupados por las vías férreas y por sus dependencias y anexos;
+
+c) Los edificios, instalaciones, obras de arte y demás construcciones que, por disposición del Gobierno, se destinen permanentemente al servicio de la Empresa;
+
+d) El material rodante, equipo, maquinarias, herramientas, repuestos, útiles, existencias y enseres;
+
+e) Las concesiones y privilegios, por todo el tiempo de su otorgamiento;
+
+f) Las entradas provenientes de la explotación de sus bienes;
+
+g) El producto de la venta de sus bienes;
+
+h) Las sumas que anualmente consulte la Ley de Presupuesto de Entradas y Gastos de la Nación y las cantidades que se le asignen por otras leyes y decretos, e
+
+i) En general, todos los bienes muebles e inmuebles y derechos que adquiera a cualquier título.
+
+b) Del régimen económico.
+
+#### Artículo 43°
+
+La Empresa en sus actividades estará sujeta a las mismas normas financieras, contables y tributarias que rigen para las sociedades anónimas abiertas y sus balances y estados de situación deberán ser sometidos a auditorías por firmas auditoras externas de reconocido prestigio.
+
+#### Artículo 44°
+
+Las utilidades anuales que obtenga la Empresa se traspasarán a rentas generales de la Nación, salvo que su Directorio, con el voto favorable de no menos de cinco de sus miembros, acuerde retener todo o parte de ellas como reserva de capital.
+
+Este acuerdo estará sujeto a la autorización previa y por escrito del Ministerio de Hacienda.
+
+#### Artículo 45°
+
+La Empresa, en caso alguno, podrá comprometer el crédito público. Tampoco podrá obtener financiamientos, créditos, aportes, subsidios, fianzas o garantías del Estado o de cualquiera de sus organismos, entidades o empresas, sino en los casos en que ello fuere posible para el sector privado y en iguales condiciones.
+
+Se exceptúan de esta prohibición los aportes y garantías a que se compromete el Fisco en virtud de lo establecido en esta ley y la renovación de los avales, fianzas y garantías otorgados con anterioridad a la publicación de la presente ley.
+
+#### Artículo 46°
+
+Al término de la Empresa, su patrimonio LEY 19170 pasará al Fisco de Chile, con beneficio de inventario. Art.1°,35.-
+
+#### Artículo 47°
+
+DEROGADO.-
+
+#### Artículo 48°
+
+El Gobierno no podrá obligar a la Empresa a proporcionarle servicio alguno sin la debida compensación económica, la que estará sujeta al régimen general de tarifas vigentes en la Empresa, sin privilegio especial alguno.
+
+#### Artículo 49°
+
+Los bienes del activo inmovilizado de la Emrpesa cuyo valor de libro exceda de 500 unidades tributarias mensuales, sólo podrán ser enajenados en subasta u oferta pública, según lo determine el Directorio.
+
+#### Artículo 50°
+
+DEROGADO.-
+
+c) De la fiscalización.
+
+#### Artículo 51°
+
+La Empresa quedará sujeta a la tuición y fiscalización de la Superintendencia de Valores y Seguros en los mismos términos que las sociedades anónimas abiertas.
+
+#### Artículo 51°
+
+A.- Todo informe de los auditores externos deberá ser enviado de inmediato a la Superintendencia de Valores y Seguros para su revisión y análisis. Esta revisión se sujetará a los principios de auditoría generalmente aceptados para determinar la transparencia y los resultados operacionales y administrativos de una sociedad anónima abierta.
+
+El informe de la Superintendencia de Valores y Seguros deberá considerar el cumplimiento de las finalidades de la Empresa, la regularidad de sus operaciones y señalar si existe o no responsabilidad de sus directivos o ejecutivos.
+
+#### Artículo 51°
+
+B.- La Empresa sólo estará afecta al control de la Contraloría General de la República en los mismos casos, oportunidades, materias y forma en que lo estaría una sociedad anónima abierta privada.
+
+Con todo, estarán sujetos a este control los aportes y subvenciones que reciba la Empresa del Fisco, en los términos del artículo 45 de este decreto con fuerza de ley.
+
+#### Artículo 52°
+
+DEROGADO.-
+
+#### Artículo 53°
+
+DEROGADO.-
+
+#### Artículo 54°
+
+DEROGADO.-
+
+#### Artículo 55°
+
+DEROGADO.-
+
+#### Artículo 56°
+
+DEROGADO.-
+
+#### Artículo 57°
+
+DEROGADO.-
+
+#### Artículo 58°
+
+DEROGADO.-
+
+#### Artículo 59°
+
+DEROGADO.-
+
+#### Artículo 60°
+
+DEROGADO.-
+
+#### Artículo 61°
+
+DEROGADO.-
+
+## Título V — DEROGADO.-
+
+De los Contratos
+
+#### Artículo 62°
+
+DEROGADO.-
+
+#### Artículo 63°
+
+DEROGADO.-
+
+#### Artículo 64°
+
+DEROGADO.-
+
+#### Artículo 65°
+
+DEROGADO.-
+
+#### Artículo 66°
+
+DEROGADO.-
+
+#### Artículo 67°
+
+DEROGADO.-
+
+#### Artículo 68°
+
+DEROGADO.-
+
+## Título VI
+
+Disposiciones Diversas
+
+#### Artículo 69°
+
+En los puntos que los caminos públicos cruzaren a nivel las vías férreas, la Empresa sólo estará obligada a mantener en funciones un servicio práctico de señales que permita a los que transiten por ellos percibir a la distancia la proximidad de un cruzamiento.
+
+En aquellos cruces que se encuentren determinados en el decreto supremo a que se refiere el inciso final de este artículo, la Empresa estará obligada a construir barreras y guardaganados. Las barreras se cerrarán con la debida anticipación al paso de los trenes, abriéndose en seguida para dejar expedito el tránsito por el camino.
+
+A contar desde la fecha de vigencia de esta ley los gastos de construcción, señalización, mantenimiento o conservación, reparación y resguardo de un nuevo cruce ferroviario serán de cargo del organismo o institución que solicite la construcción del cruce. Asimismo, serán de cargo de éste los gastos necesarios para mantener en funciones el servicio de señales indicado en el inciso primero, o de un guardacruce cuando así se disponga por decreto supremo.
+
+Facúltase al Presidente de la República para que mediante decreto supremo expedido a través del Ministerio de Transportes y Telecomunicaciones modifique la nómina de cruces a nivel en que los caminos públicos atraviesan la vía férrea y donde debe cumplirse con las obligaciones impuestas en este artículo, mencionada en el decreto supremo N° 500, de 1962, de la ex-Subsecretaría de Transportes del Ministerio de Economía, Fomento y Reconstrucción y sus modificaciones.
+
+#### Artículo 70°
+
+No regirán las obligaciones impuestas por los incisos primero y segundo del artículo anterior, cuando la Empresa mantenga en funciones dispositivos automáticos de señalización.
+
+#### Artículo 71°
+
+DEROGADO.-
+
+#### Artículo 72°
+
+DEROGADO.-
+
+#### Artículo 73°
+
+DEROGADO.-
+
+#### Artículo 74°
+
+Los inmuebles que la Empresa ocupe o ocupare por vías férreas, sus dependencias, edificios, instalaciones y anexos que se encontraren inscritos a nombre del Fisco, deberán inscribirse en favor de la Empresa de los Ferrocarriles del Estado, en el Conservador de Bienes Raíces respectivo. Para este efecto, con el solo mérito del decreto supremo que sobre el particular se dicte, dicho funcionario efectuará las inscripciones que procedan.
+
+La Empresa de los Ferrocarriles del Estado podrá solicitar de los Tribunales de Justicia que ordenen la inscripción a nombre de ella de los inmuebles que posea.
+
+Para ejercitar este derecho se requiere:
+
+a) Haber poseído material e ininterrumpidamente el inmueble durante 10 años por sí o por sus antecesores.
+
+La posesión deberá probarse en la forma establecida por el artículo 925° del Código Civil, y
+
+b) Que el predio tenga deslindes determinados.
+
+Cumplidos los requisitos señalados, el Tribunal ordenará que se publique la solicitud en extracto, con todos los datos necesarios, por dos veces, en un periódico de la localidad en que estuviere situado el inmueble, o de la cabecera del departamento de la provincia si en aquella no lo hubiere. Entre cada publicación deberán mediar diez días a lo menos.
+
+Si a la solicitud presentada no se hiciere oposición por el legítimo contradictor dentro del plazo de 15 días contado desde la fecha de la publicación del último aviso, el Tribunal declarará que la Empresa de los Ferrocarriles del Estado es dueña del inmueble y ordenará que éste sea inscrito a nombre de ella.
+
+Si hubiere oposición por cualquiera persona que presentando antecedentes escritos, elegare tener igual o mejor derecho, se procederá de conformidad a lo prevenido en los artículos 551° al 561° inclusive del Código de Precedimiento Civil.
+
+Las gestiones judiciales a que den origen las disposiciones de este artículo, los certificados, copias autorizadas, escrituras públicas e inscripciones conservatorias, estarán exentas de todo derecho, impuesto o gravamen.
+
+Será juez competente para conocer de todas las gestiones a que dé origen la presente disposición el Juez Letrado de Mayor Cuantía de asiento de la Corte en cuyo territorio jurisdiccional estén situados los inmuebles.
+
+#### Artículo 75°
+
+DEROGADO.-
+
+#### Artículo 76°
+
+Será obligación de la Empresa cerrar a su costo, por uno y otro lado, la faja de la vía en toda su extensión. Sin embargo, el Ministerio de Transportes y Telecomunicaciones, atendidas las características del terreno en que se desarrolle la línea, podrá exceptuar del cierre aquellas partes de ella que no sean indispensables para la seguridad del tránsito. El mantenimiento y conservación de los cierros será de cargo de los propietarios de los predios colindantes, quienes estarán obligados a ejecutar todos los trabajos necesarios para dicho objeto, salvo que el deterioro se hubiere producido por hecho o culpa de la Empresa.
+
+La Empresa queda facultada para proceder a reparar o reconstruir los cierros en mal estado, a costa del propietario del predio colindante, si éste, requerido por la Empresa, no lo hiciera.
+
+INCISO TERCERO.- DEROGADO.-
+
+Los propietarios de los predios colindantes serán responsables, además, de los perjuicios directos o indirectos que para la Empresa pudieren resultar por el mal estado de los cierros; pero subsistirá la responsabilidad de la Empresa ante terceros.
+
+#### Artículo 77°
+
+La Empresa se regirá por las normas de este decreto con fuerza de ley y, en lo no contemplado por él, por las normas que rigen a las sociedades anónimas abiertas. En consecuencia, no le serán aplicables, para efecto legal alguno, las disposiciones generales o especiales que rigen o rijan en el futuro a las empresas del Estado, a menos que la nueva legislación expresamente se extienda a la Empresa. No obstante lo dispuesto en el inciso precedente, respecto de esta Empresa seguirán rigiendo las normas que establece el artículo 11 de la Ley N° 18.196.
+
+## Artículos transitorios
+
+#### Artículo 1°
+
+El Presidente de la República dentro del plazo de los diez días siguientes a la publicación de la presente ley, deberá designar al Presidente y demás Directores de la Empresa, los que asumirán sus funciones una vez totalmente tramitado el Decreto Supremo respectivo.
+
+#### Artículo 2°
+
+El actual Director de Ferrocarriles y los demás ejecutivos de la Empresa continuarán desempeñando sus funciones en calidad de interinos hasta tanto no se proceda, por el Directorio, a su confirmación o se designe a sus respectivos reemplazantes.
+
+El Director y los ejecutivos que no sean confirmados en sus cargos por el Directorio y que tengan la calidad de trabajadores de la Empresa, tendrán derecho al desahucio, a las indemnizaciones que establece el Código del Trabajo y a las de la presente ley, si procedieren.
+
+#### Artículo 3°
+
+Las disposiciones del decreto supremo N° 1.157, de 16 de Septiembre de 1931, que fija el texto definitivo de la Ley General de Ferrocarriles no se aplicarán a la Empresa ni a las sociedades que para la explotación o uso de la vía férrea se constituyan con esa, en conformidad a lo establecido en el artículo 2° del decreto con fuerza de ley N° 94, en cuanto fueren contrarias con las del presente decreto con fuerza de ley.
+
+#### Artículo 4°
+
+> **Nota.** NOTA: 2 El Artículo 1°, N° 50, de la Ley N° 19.170, publicada en el "Diario Oficial" de 3 de Octubre de 1992, ordenó sustituir los artículos 1°, 2°, 3° y 4° transitorios, quedando sustituidos solamente los artículos 1°, 2° y 3° transitorios, y sin derogar, expresamente, el artículo 4° transitorio. A continuación, el Art. 1°, N° 51 de la citada ley N° 19.170, ordena sustituir el artículo 5° transitorio del presente decreto con fuerza de ley.
+
+#### Artículo 5°
+
+Autorízanse al Fisco para que, dentro del plazo de tres años, constituya con la Empresa de los Ferrocarriles del Estado una o más sociedades para los fines establecidos en el artículo 2° de este decreto con fuerza de ley y para suscribir hasta un máximo de un 1% del capital de dichas sociedades, el que estará obligado a enajenar en un plazo máximo de dos años, a contar de la fecha de constitución de las respectivas sociedades. Estas sociedades se constituirán como sociedades anónimas y se les aplicarán todas las disposiciones relativas a las sociedades anónimas abiertas.
+
+La constitución de sociedades entre la Empresa y el Fisco estará exenta del trámite de licitación pública establecido en el artículo 2° de este decreto con fuerza de ley. Ello no obstante, toda enajenación, venta, cesión o traspaso de acciones de la Empresa o del Fisco, en cualquiera de estas sociedades, deberá ajustarse estrictamente a las normas de artículo 2° de este decreto con fuerza de ley.
+
+Tómese rázon, regístrese, comuníquese y publíquese.- JORGE ALESSANDRI RODRIGUEZ.- Roberto Vergara.
