@@ -1,0 +1,9 @@
+Por resolución Nº 1.745, de 16 de agosto de 2001, de esta Subsecretaría, autorízase a PESQUERA LIGURE S.A., para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 820 de 2001, en orden a incorporar a la planta ubicada en calle Manuel Rodríguez Nº 302, Talcahuano, provincia de Concepción, VIII Región, en la línea de proceso que se indica, los siguientes recursos hidrobiológicos: Conserva: Albacora o pez espada, Alfonsino, Anguila, Ayanque, Bacalao de profundidad, Besugo, Breca o bilagay, Brótula, Cabrilla, Cabrilla común, Chancharro, Corvinilla, Jurel fino, Lisa, Merluza común, Nanue, Pampanito de J. Fernández, Pejegallo, Pejerrey de mar, Puye, Reineta, Rococó, Salmón del Atlántico, Salmón plateado, Trucha arcoiris, Salmón rey, Sardina redonda, Turbot, Calamar, Pota o calamar del Atlántico, Jibia, Loco, Ostión del norte, Ostión del sur Chlamys vitrea, Ostión del sur Chlamys patagonica, Ostra chilena, Ostra del Pacífico, Pulpo, Camarón nailon, Centolla, Centollón, Centollón del norte Paralomis longipes, Centollón del norte Paralomis papillata, Centolla del norte Lithodes wiracocha, Centolla del norte Neolithodes diomedeae, Centolla del norte Lithodes panamensis, Centollón del norte Paralomis otsuae, Centollón del norte Paralomis spinosissima, Gamba, Jaiba, Langostino amarillo, Langostino colorado, Almeja o taca, Cholga, Chorito, Choro, Navajuela y Macha.
+
+La materia prima deberá provenir de pescadores artesanales e industriales, debidamente autorizados.
+
+Los recursos hidrobiológicos Turbot, Ostra del Pacífico, Ostión del norte, Salmón del Atlántico, Salmón plateado, Salmón rey, Trucha arcoiris, deberán provenir de centros de cultivos autorizados.
+
+El recurso Pota o Calamar del Atlántico deberá cumplir con las normas sobre importación y sanidad correspondientes.
+
+Valparaíso, 16 de agosto de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
