@@ -20906,11 +20906,7 @@ cuentas complementarias.
 
 ### 3. Componentes de operaciones reajustables en moneda chilena
 
-Para los fines de que trata este título, los bancos y sociedades financieras
-
-considerarán las operaciones reajustables en moneda chilena, contabilizadas en
-
-las cuentas que se reflejan en las siguientes Partidas del formulario MB1.
+Para los fines de que trata este título, los bancos y sociedades financieras considerarán las operaciones reajustables en moneda chilena, contabilizadas en las cuentas que se reflejan en las siguientes Partidas del formulario MB1.
 
 Operaciones Activas.
 
@@ -20930,11 +20926,7 @@ Partidas N°s. 1735 y 1740
 
 Partidas N°s. 1765 y 1775.
 
-De conformidad con lo dispuesto en la Circular N° 2302-715 de 16 de noviembre de
-
-1987, las instituciones financieras deberán deducir de las partidas de activo
-
-que corresponda el saldo de la cuenta "Pactos de estabilización de dividendos".
+De conformidad con lo dispuesto en la Circular N° 2302-715 de 16 de noviembre de 1987, las instituciones financieras deberán deducir de las partidas de activo que corresponda el saldo de la cuenta "Pactos de estabilización de dividendos".
 
 Operaciones Pasivas.
 
@@ -20954,23 +20946,11 @@ Partidas N°s. 3605 a 3615
 
 Partidas N°s. 3655 y 3660
 
-Partida N° 4515 (deducido el saldo de la cuenta "Equivalente de divisas de
+Partida N° 4515 (deducido el saldo de la cuenta "Equivalente de divisas de Posición vendidas por recomprar D.L. 600", de la partida N° 2515 del formulario MB1).
 
-Posición vendidas por recomprar D.L. 600", de la partida N° 2515 del formulario
+Las obligaciones representadas por pactos de recompra establecidas en pesos nominales de instrumentos reajustables, emitidos por el Banco Central de Chile o por la Tesorería General de la República, deben ser consideradas como saldos no reajustables, por la forma de su pacto, convenido en términos de pesos nominales y, por lo tanto, no se computan dentro de los pasivos afectos a la relación de operaciones reajustables de que trata este título.
 
-MB1).
-
-Las obligaciones representadas por pactos de recompra establecidas en pesos
-
-nominales de instrumentos reajustables, emitidos por el Banco Central de Chile o
-
-por la Tesorería General de la República, deben ser consideradas como saldos no
-
-reajustables, por la forma de su pacto, convenido en términos de pesos nominales
-
-y, por lo tanto, no se computan dentro de los pasivos afectos a la relación de
-
-operaciones reajustables de que trata este título.
+Asimismo, las operaciones interbancarias, sean préstamos otorgados o recibidos, que se pacten en unidades de fomento y por períodos en que el valor de dicha unidad sea conocido, no podrán computarse como operaciones reajustables para los efectos de que se trata.
 
 ### III. OPERACIONES EN MONEDA EXTRANJERA
 
