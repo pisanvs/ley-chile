@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.517, de 31 de mayo de 1999, se expropió el lote de terreno No. 552, superficie 5.335,3 m2., rol de avalúo 538-4, comuna de La Unión, para la obra "Concesión Internacional Ruta 5 Tramo Temuco - Río Bueno", Décima Región y se acordó el valor de indemnización con su propietaria Teresa Avilés Soto, ascendente a la cantidad de $ 3.271.182.-
+
+Fiscal del Ministerio de Obras Públicas.
