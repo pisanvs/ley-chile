@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº392 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº119-A, superficie 190 m2., Rol de Avalúo Nº224-23, comuna de Olmué, para la obra "Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10,984 al Km. 34,500. Comuna de Olmué, Provincia de Quillota", V Región y se acordó el valor de indemnización con su propietario Clorindo Antonio Fuentes Arancibia, ascendente a la cantidad de $580.584.-
+
+Fiscal del Ministerio de Obras Públicas.
