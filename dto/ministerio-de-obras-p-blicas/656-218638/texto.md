@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 656, de 31 de octubre de 1995, se expropiaron los lotes de terreno Nºs. 8, 8-A, 14, 16 y 97, superficies 1.019 m2., 529 m2., 6.720 m2., 320 m2. y 477 m2., roles de avalúo 1093-8 y 162-12, comunas de Cartagena y Casablanca, para la obra Camino Malvilla-Orrego Abajo y se acordó valor con sus propietarios Alfonso Romero Aguirre y Marta F. Núñez Pacheco, ascendente a las cantidades de $9.578.832, para los lotes Nºs. 8, 8-A, 14 y 16 y $244.507, para el lote Nº 97.
+
+Fiscal del Ministerio de Obras Públicas.
