@@ -1,0 +1,5 @@
+AUTORIZA A INDUSTRIA FRIGORIFICA MARITIMA LTDA., PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 713, de 31 de Octubre de 1985, de la Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Industria Frigorífica Marítima Ltda., domiciliada en la comunal de Santiago, para elaborar en la planta de conserva y congelado que opera en Carretera Panamericana Sur s/n., Ruta 5, camino de Ancud a Castro, además de los recursos hidrobiológicos que se especifican en la Resolución 599, de 1985, de la misma Subsecretaría, los siguientes: almejas, navajuela, berberecho, calamar, jaiba mora, lapa, pejegallo, róbalo, sardina común, agujilla, blanquillo, brótula, caballa, congrio negro y jurel.
+
+Valparaíso, 31 de Octubre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
