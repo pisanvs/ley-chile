@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 544 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 146-D, superficie 634 m2, Sin Rol, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al 70,000, Etapa IV'', y se acordó el valor de indemnización con su propietario Juan Reynuaba Godoy, ascendente a la cantidad de $250.945.
+
+Fiscal del Ministerio de Obras Públicas.
