@@ -1,0 +1,3 @@
+Por decreto MOP Nº 548, de 28 de febrero del 2000, se expropió el lote de terreno Nº 8, superficie 2.113 m², sin rol de avalúo, comuna de San Fernando, para la obra Concesión Internacional Ruta 5 Tramo: Santiago - Talca. Sector H: Sexta Región y se acordó el valor de indemnización con su propietaria Nelba Ester Gómez Bustamante, ascendente a la cantidad de $9.755.095.-
+
+Fiscal del Ministerio de Obras Públicas.
