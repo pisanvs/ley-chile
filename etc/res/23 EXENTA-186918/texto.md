@@ -1,0 +1,11 @@
+REQUISITOS DE LA DECLARACION JURADA Y ANTECEDENTES QUE DEBEN ACOMPAÑAR LOS EXPORTADORES PARA OBTENER LA RECUPERACION DE IMPUESTO AL VALOR AGREGADO, CONTENIDO EN EL TITULO II DEL D.L. Nº825, DE 1974 Y DE LOS TRIBUTOS QUE INDICA, ESTABLECIDOS EN EL TITULO III, DE ESTE MISMO CUERPO LEGAL
+
+El Servicio de Impuestos Internos, por resolución ex. Nº 23 del 19/06/2001, ha fijado los requisitos que deben cumplir las declaraciones juradas que los exportadores presentan a este Servicio, para la recuperación del Impuesto al Valor Agregado, contenido en el Título II del decreto ley Nº 825, de 1974 y de los tributos establecidos en el Título III, artículos 37º, letras a), b), y c), 40º, 42º, 43º bis y 46º del mismo cuerpo legal, que se les hubieren recargado al adquirir bienes o utilizar servicios destinados a su actividad de exportación, o que hubiesen pagado al importar bienes con este mismo objeto.
+
+En el resolutivo Nº 1, se fijan los requisitos a cumplir por los exportadores de bienes y servicios; en el resolutivo Nº 2, por los prestadores de servicios de transporte terrestre internacional, aéreo de carga y pasajeros y marítimo de carga y pasajeros, desde Chile hacia el extranjero o viceversa, o transporte de carga y pasajeros entre dos o más puntos ubicados en el exterior, respecto del ingreso obtenido por esta prestación, que para efectos tributarios, deba declararse en Chile y en el resolutivo Nº 3, por los contribuyentes que hayan sido autorizados para obtener recuperación anticipada de dichos impuestos. (art. 6º D.S. Nº 348, de 1975, del Ministerio de Economía, Fomento y Reconstrucción).
+
+Establece además la oportunidad en que estas declaraciones juradas deberán presentarse en el Servicio de Impuestos Internos, que se harán en tres ejemplares e indica los documentos que en cada caso deben acompañarse por el interesado.
+
+El texto íntegro de esta resolución se encuentra incluido en la página Web del Servicio en Internet, cuya dirección es http://www.sii.cl y además, se publicará en la edición del Boletín del Servicio del mes de junio de 2001.-
+
+Javier Etcheberry Celhay, Director.
