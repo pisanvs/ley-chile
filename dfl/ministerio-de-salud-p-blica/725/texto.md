@@ -824,7 +824,9 @@ DEL EJERCICIO DE LA MEDICINA Y PROFESIONES AFINES
 
 Sólo podrán desempeñar actividades propias de la medicina, odontología, química y farmacia u otras relacionadas con la conservación y restablecimiento de la salud, quienes poseen el título respectivo otorgado por la Universidad de Chile u otra Universidad reconocida por el Estado y estén habilitados legalmente para el ejercicio de sus profesiones.
 
-Asimismo, podrán ejercer profesiones auxiliares de las referidas en el inciso anterior quienes cuenten con autorización del Director General de Salud. Un Reglamento determinará las profesiones auxiliares y la forma y condiciones en que se concederá dicha autorización, la que será permanente, a menos que el Director General de Salud, por resolución fundada, disponga su cancelación.
+Asimismo, podrán ejercer profesiones auxiliares de las referidas en el inciso anterior quienes cuenten con autorización del Director General de Salud. Un reglamento determinará las profesiones auxiliares y la forma y condiciones en que se concederá dicha autorización, la que será permanente, a menos que el Director General de Salud, por resolución fundada, disponga su cancelación.
+
+No obstante lo dispuesto en el inciso primero, con la autorización del Director General de Salud podrán desempeñarse como médicos, dentistas, químico-farmacéuticos o matronas en barcos, islas o lugares apartados, aquellas personas que acreditaren título profesional otorgado en el extranjero.
 
 #### Artículo 113°
 
@@ -833,6 +835,8 @@ Se considera ejercicio ilegal de la profesión de médico-cirujano todo acto rea
 Los servicios profesionales del psicólogo comprenden la aplicación de principios y procedimientos psicológicos que tienen por finalidad asistir, aconsejar o hacer psicoterapia a las personas con el propósito de promover el óptimo desarrollo potencial de su personalidad o corregir sus alteraciones o desajustes. Cuando estos profesionales presten sus servicios a personas que estén mentalmente enfermas, deberán poner de inmediato este hecho en conocimiento de un médico especialista y podrán colaborar con éste en la atención del enfermo.
 
 No obstante lo dispuesto en el inciso anterior, quienes cumplan funciones de colaboración médica, podrán realizar algunas de las actividades señaladas, siempre que medie indicación y supervigilancia médica. Asimismo, podrán atender enfermos en caso de accidentes súbitos o en situaciones de extrema urgencia cuando no hay médico-cirujano alguno en la localidad o habiéndolo, no sea posible su asistencia profesional.
+
+> **Nota.** Véanse los artículos 313 a, 313 b y 313 c del Código Penal agregados por la Ley N° 17.155, publicada el 11.06.1969.
 
 #### Artículo 114°
 
@@ -929,6 +933,8 @@ DE LA OBSERVACION Y RECLUSION DE LOS ENFERMOS MENTALES, DE LOS ALCOHOLICOS Y DE 
 #### Artículo 130°
 
 El Director General de Salud, resolverá sobre la observación de los enfermos mentales, de los que presentan dependencias de drogas u otras substancias, de los alcohólicos y de las personas presuntivamente afectadas por estas alteraciones, así como sobre su internación, permanencia y salida de los establecimientos públicos o particulares destinados a ese objeto. Estos establecimientos cumplirán con los requisitos que señala el reglamento.
+
+> **Nota.** Véanse los artículos 133 y siguientes de la LEY 17105, publicada el 14.04.1969, que contiene el texto refundido de la Ley sobre alcoholes y bebidas alcohólicas.
 
 #### Artículo 131°
 
