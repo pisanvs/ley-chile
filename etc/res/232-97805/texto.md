@@ -1,0 +1,3 @@
+Por resolución Nº 232, de 17 de febrero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por don VICTOR ULISES MENDOZA CONTRERAS, de autorización para iniciar actividades pesqueras extractivas con la nave "Petrel I", por no darse cumplimiento a lo dispuesto en el artículo 1º de la ley Nº 19.516, al no estar desde 1995 a la fecha inscrita en el Registro Nacional de Pescadores Artesanales, sección merluza común, entre la V y IX Regiones con red de arrastre y no haber informado capturas de dicha especie en el mencionado período.
+
+Valparaíso, 17 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
