@@ -1,0 +1,3 @@
+Por Resolución Nº 103, de 22 de enero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcanse las Resoluciones Nº 184 y Nº 1.223 de 1989, de esta Subsecretaría, en cuanto autorizaron a PESQUERA DE LOS ANDES LIMITADA, para operar las naves "Elqui" ex "Peñalba y "Ercilla" ex "Erosa", en virtud de lo dispuesto en el artículo 11 transitorio inciso 1º y el artículo 143 permanente letra b) del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción y con el mérito de lo resuelto por la Ilustre Corte de Apelaciones de Valparaíso, en recurso de protección Rol Nº 379-96.
+
+Valparaíso, 22 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
