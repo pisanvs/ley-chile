@@ -1,0 +1,3 @@
+Por decreto MOP Nº 763, de 31 de marzo de 1999, se expropió el lote de terreno Nº 5 y 11, superficies 419 m² y 1.286 m², roles de avalúos 164-20 y 168-7, comuna de Lanco, para la Obra Camino Ruta 5 (Lanco)-Panguipulli y se acordó precio de indemnización con su propietaria María Lorenza Ruiz Rozas y Sociedad Agrícola Río Chepu Limitada, ascendente a las cantidades de $1.397.974 y $697.671.
+
+Fiscal del Ministerio de Obras Públicas.
