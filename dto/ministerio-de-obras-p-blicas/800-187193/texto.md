@@ -1,0 +1,3 @@
+Por decreto MOP Nº 800, de 29 de mayo de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para la Empresa de Servicios Sanitarios de Coquimbo S.A., el lote de terreno Nº 1, para la obra Alcantarillado de La Serena, Colector Los Perales Poniente, que figura a nombre de Pedro S. Casanga Pérez, rol de avalúo 965-10, superficie 1.520 m2., comuna de La Serena. La Comisión de Peritos, con fecha 27 de septiembre de 2000, fijó la indemnización provisional en la cantidad de $23.912.000, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
