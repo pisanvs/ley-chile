@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 997, de 15 de octubre de 1997, y en base a la facultad otorgada por el artículo 105 del Decreto MOP Nº 294 de 1984, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 2, para la obra Camino Autopista Santiago - San Antonio, Sector Plaza de Peaje Puangue, km.
+
+77.762,00 al km. 78.700,00, que figura a nombre de María Larraín Rozas, rol de avalúo 9050-12, comuna de Melipilla, superficie 1.953 m². La Comisión de Peritos, integrada por los señores Sergio Rojas Ibáñez, Ricardo Carvallo Rodríguez y Carlos del Pedregal Sánchez, fijó con fecha 22 de enero de 1997, el valor provisional de la indemnización en la cantidad de $5.192.040.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
