@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 1.042, de 24 de octubre de 1997, se expropiaron los lotes de terreno Nºs 7 y 9, superficies 3.420 m2. y 4.681 m2., roles de avalúo 2202-11 y 2221-23, comuna de Chillán, para la obra Ampliación Segunda Calzada, Ruta 5 Sur, sector By Pass Chillán - Rucapequén y se acordó el valor de indemnización con sus propietarios Nemesia Garrido Pérez y Yolanda Carrasco Riquelme, ascendente a las cantidades de $8.869.018.- y $3.072.281.-
+
+Fiscal del Ministerio de Obras Públicas.
