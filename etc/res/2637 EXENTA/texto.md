@@ -1,0 +1,3 @@
+Por resolución Nº 2.637 de 18 de diciembre de 2000, de esta Subsecretaría, autorízase a COMERCIALIZADORA DE PRODUCTOS ALIMENTICIOS FRIO NATUR LIMITADA, para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 571 de 1998, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Las Heras Nº 2241, Concepción, VIII Región, en la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Fresco-Refrigerado y Congelado: Esturión blanco y Esturión de siberia.
+
+Valparaíso, 18 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
