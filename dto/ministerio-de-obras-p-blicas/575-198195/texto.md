@@ -1,0 +1,3 @@
+Por decreto MOP Nº575, de fecha 28 de marzo de 2002, se expropiaron los lotes de terreno Nºs. 34, 35 y 37, superficies 67 m2, 188 m2 y 6.256 m2, respectivamente, roles de avalúos 286-10 y 286-73, comuna de San Fernando, VI Región, para la obra "Camino San Fernando - Roma, Rol I-301, I-255, I-151, Km. 0.000 al 10.954264" y se acordó el valor de indemnización con su propietaria doña María Angélica Mardini Reyes, ascendente a la cantidad de $22.580.741.-
+
+Fiscal del Ministerio de Obras Públicas.
