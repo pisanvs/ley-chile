@@ -1,0 +1,3 @@
+Por decreto MOP Nº 785 de 31 de agosto de 2004, se expropiaron los lotes de terrenos Nº s. 125-B y 125-C, superficies 307 y 1.100 M2 respectivamente, rol de avalúo Nº 679-6, comuna de Lautaro, para la obra "Camino Ruta S-10, Sector Cruce Long. (Lautaro)-Galvarino, Tramo Km. 0,000 a Km. 34,50853, Etapa Km. 0,000 a Km. 18,000", IX Región y se acordó el valor de la indemnización con su propietario Agrícola, Ganadera y Forestal San Cristóbal Limitada, ascendente a la cantidad de $5.583.840.
+
+- Fiscal del Ministerio de Obras Públicas.
