@@ -1,0 +1,3 @@
+Por resolución No. 6 del 21 de Abril de 1992, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la III Región, se adjudicó a doña Mirza Cortés Acosta la concesión para operar, por un plazo de cinco años a contar de la fecha de publicación del presente extracto, un establecimiento ubicado en "Barrio Industrial", Panamericana Sur s/n, de la comuna de Vallenar destinado a la revisión técnica y verificación de emisión de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques en la forma, plazo y condiciones que se señalan en el contrato que se aprueba.-
+
+Luis Fernando Orellana Astorga, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Atacama.
