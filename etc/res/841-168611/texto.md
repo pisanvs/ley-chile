@@ -1,0 +1,3 @@
+Por resolución Nº 841 de 5 de mayo de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 127, de 1997, de esta Subsecretaría, sólo en cuanto autorizó a SOCIEDAD PESQUERA LANDES S.A., para operar por sustitución la nave ''Don Boris'' sobre los recursos hidrobiológicos Anchoveta y Sardina española, en el litoral de la III y IV Regiones, de conformidad con lo establecido en la letra b) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
