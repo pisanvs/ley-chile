@@ -1,0 +1,3 @@
+Por decreto MOP No. 343, de 26 de febrero de 1999, se expropió el lote de terreno No. 30, superficie 12 m2, rol de avalúo 12047-14 comuna de San Pedro de la Paz, para la obra Reposición Puente Bío Bío Antiguo Ruta 160 Concepción San Pedro sector San Pedro y se acordó precio de indemnización con su propietario Alis Neira Cartes, ascendente a la cantidad de $ 933.793.-
+
+Fiscal del Ministerio de Obras Públicas.
