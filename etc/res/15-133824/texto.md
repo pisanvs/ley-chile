@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 15, DE 1999
+
+Por resolución Nº 15, del 27 de enero de 1999, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones Región de Aysén, se ha prorrogado los contratos de concesión para la operación de establecimientos que practiquen revisiones técnicas y verificación de emisión de contaminantes de vehículos motorizados, sus remolques y semirremolques en la Región de Aysén, aprobados por las resoluciones Nº12 del 23 de marzo de 1994 y Nº45 del 10 de agosto de 1995, de esta Secretaría Regional Ministerial, hasta la fecha que comiencen a operar los establecimientos que se concesionen en virtud de los procesos de licitación que se convoquen por el Ministerio de Transportes y Telecomunicaciones para esta Región, y siempre que hubieren cesado las condiciones que motivan este acto administrativo, las que serán determinadas por el Ministerio de Transportes y Telecomunicaciones.-
+
+Alejandro Bórquez Riquelme, Secretario Regional Ministerial de Transportes y Telecomunicaciones.
