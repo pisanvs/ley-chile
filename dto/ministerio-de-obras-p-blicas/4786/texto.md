@@ -1,0 +1,5 @@
+Por decreto MOP Nº 4.786, de 31 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs.
+
+23, 24, 35, 36, 37 y 38, para la ejecución de la obra ''Camino Malalcahuello-Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Puente La Puntilla-Lonquimay, Km. 106,69041 a Km. 119,30000'', que figuran a nombre de Celindo Catalán Sáez, Héctor Espinoza Díaz y Suc. Inés María Espinoza Sanhueza, roles de Avalúo 49-19, 49-5 y 49-2, comuna de Lonquimay, IX Región, superficies 1.196, 666, 1.233, 1.790, 4.934 y 29.340 m². La Comisión de Peritos fijó con fecha 4 de octubre de 1999, el valor provisional de la indemnización en la cantidad de $943.320, lote 23; $113.220, lote 24, $2.309.610, lote 35, $584.300, lote 36, $592.080, lote 37 y $7.720.800, lote 38. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
