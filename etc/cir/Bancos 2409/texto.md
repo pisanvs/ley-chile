@@ -8216,7 +8216,7 @@ No obstante, quedarán libres de provisión por riesgo-país aquellos títulos q
 
 Comprende las colocaciones cuyos deudores directos sean personas naturales o jurídicas domiciliadas en el exterior.
 
-Con acuerdo del Directorio de la institución en relación con tipos o grupos de operaciones específicas y países con los que se opera, podrán dejarse libres de provisiones por riesgo-país las operaciones pagaderas en moneda extranjera que se encuadren en las definiciones generales que a continuación se indican, siempre que no se trate de operaciones con países clasificados en categorías 5 ó 6 según las reglas de este Capítulo:
+Con acuerdo del Directorio de la institución en relación con tipos o grupos de operaciones específicas y países con los que se opera, podrán dejarse libres de provisiones por riesgo-país las operaciones pagaderas en moneda extranjera que se encuadren en las definiciones generales que a continuación se indican:
 
 a) Colocaciones hasta un año, correspondientes a créditos de comercio exterior. Para este efecto se entiende que corresponden a "créditos de comercio exterior", comprendiendo tanto el comercio exterior chileno como el realizado entre terceros países, lo siguiente:
 
@@ -8226,11 +8226,11 @@ ii) Los financiamientos de operaciones de comercio exterior realizadas con Chile
 
 b) Créditos contingentes hasta un año. Incluye avales y fianzas, cartas de crédito stand by y boletas de garantía.
 
-c) Créditos hasta 180 días, de cualquier tipo, otorgados a bancos que cuenten con una clasificación internacional efectuada por alguna de las firmas señaladas en el Capítulo 1-12 de esta Recopilación, cualquiera sea la categoría de riesgo que éstas le hayan asignado.
+c) Créditos hasta 180 días, de cualquier tipo, otorgados a bancos que cuenten con una clasificación internacional efectuada por alguna de las firmas señaladas en el Capítulo 1-12 de esta Recopilación, cualquiera sea la categoría de riesgo que éstas le hayan asignado, y que se encuentren situados en países clasificados al menos en categoría 4 según las reglas de este Capítulo.
 
 Los plazos de hasta un año o 180 días a que se refieren los literales precedentes, se refieren al plazo residual para el vencimiento o reembolso de acuerdo con la fecha pactada en el origen de la obligación.
 
-La clasificación internacional indicada en la letra c) , puede referirse a la efectuada a la casa matriz en caso de que el deudor sea una sucursal de un banco situado en otro país.
+La clasificación internacional indicada en la letra c) , como asimismo la clasificación del país puede referirse a la casa matriz en caso de que el deudor sea una sucursal de un banco situado en otro país.
 
 3.3.- Otros activos.
 
