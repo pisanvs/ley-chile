@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.160 de 28 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1 para la obra: Proyecto Laja Diguillín, Area de Riego Pemuco, Canal San Ramón, Ramal 1 Km. 0,000 al Km. 0,691, que figura a nombre de Venegas Carrasco José Aliro, rol de avalúo 157-11, comuna de Pemuco, IX Región, superficie 8.631 m². La Comisión de Peritos fijó con fecha 6 de diciembre de 2001, en la cantidad de $5.258.600.- para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
