@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.654, de 24 de junio de 1999, se expropió el lote de terreno No. 3, superficie 221 mý, rol de avalúo 168-157, comuna de Maule, para la obra Ruta 5, Tramo Talca-Chillán, Intersección Desnivelada Acceso a Maule, Séptima Región y se acordó el valor de indemnización con su propietario Jos‚ Miguel Poblete Thennet, ascendente a la cantidad de $ 2.090.192.-
+
+Fiscal del Ministerio de Obras Públicas.
