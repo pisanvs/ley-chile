@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.515 de 30 de agosto de 2002, se modificó el numeral 2º del decreto MOP Nº742, de 30 de abril de 2001, en lo que respecta al nombre y rol de avalúo del lote Nº1-A, según resolución exenta Seremi IX Región Nº640, de 10 de abril de 2000, el cual es ''Inmobiliaria e Inversiones Mimsa S., rol de avalúo 3203-67, comuna de Temuco, para la obra: Mejoramiento Ruta 5, sector Pasada por Temuco, Camino Ruta 5, Sector Km. 667,6529 a Km. 673,551 y Km. 0,771 a Km. 0,133 (Eje 8)''.
+
+Fiscal del Ministerio de Obras Públicas.
