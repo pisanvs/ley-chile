@@ -1,0 +1,5 @@
+Por Resolución Nº 387 de 14 de marzo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD AGRICOLA Y COMERCIAL AGRYCOM LIMITADA, para ampliar actividades pesqueras de transformación, en orden a instalar y operar una planta industrial ubicada en Parcela Nº 18 de la etapa E del proyecto de parcelación de Comunidad La Herradura, Coquimbo, IV Región, en donde podrá utilizar el recurso Krill, como materia prima de la línea de elaboración de Harina de Crustáceos. Asimismo podrá utilizar los desechos provenientes de los siguientes recursos hidrobiológicos: Camarón nailon, Centolla, Jaiba limón, Jaiba marmola, Jaiba peluda o pachona, Jaiba reina, Langostino amarillo, Langostino colorado y Langosta de J. Fernández.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 14 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
