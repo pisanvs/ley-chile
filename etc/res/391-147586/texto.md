@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD COMTESA S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 391, de 29 de Abril de 1987 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Comtesa S.A. para desarrollar actividades pesqueras consistentes en la instalación y operación de una planta procesadora de recursos hidrobiológicos en las líneas de fresco, congelado y conservas, ubicada en calle Lautaro No. 1398, Punta Arenas, XII Región, en la que utilizará como materia prima las siguientes especies: centolla, centollón, jaiba, congrio, raya, merluza del Sur, langostino de los canales, picoroto, pejerrey de mar, róbalo, brótula, cojinova del Sur, salmón, locos, pulpo, calamar, caracol trumulco, navajuela, cholga, chorito, almeja, ostión, erizo y piure. El recurso salmón deberá provenir de establecimientos de cultivos autorizados.
+
+Valparaíso, 29 de Abril de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
