@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.230, de 28 de diciembre de 2001, se expropió el lote de terreno Nº25, superficie 667 m2, rol de avalúo 104-236, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Tramo 6A1: Kms. 31.430,00 al 33.260,00 y se acordó el valor de indemnización con su propietario René Enrique Calderón Allendes, ascendente a la cantidad de $9.629.881.-
+
+Fiscal del Ministerio de Obras Públicas.
