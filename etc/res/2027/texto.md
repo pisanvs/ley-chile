@@ -1,0 +1,5 @@
+Por Resolución N° 2.027, de 3 de diciembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a OCTOMAR IMPORTACIONES EXPORTACIONES LIMITADA, para ampliar actividades pesqueras de transformación, autorizadas por Resoluciones N° 190 y N° 751, ambas de 1994, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Bajo Molle, calle 4, sitio 1, Iquique, I Región, en las líneas de elaboración de Fresco, Fresco-refrigerado y Congelado, el recurso hidrobiológico Loco.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 3 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
