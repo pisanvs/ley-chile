@@ -1,0 +1,5 @@
+Por resolución Nº 2.651, de 30 de diciembre de 1999, de esta Subsecretaría, autorízase a INDUSTRIAL SANTA MARIA S.A. para ampliar las actividades pesqueras con la nave ''Santa María II'', para operar por fuera del área de reserva artesanal, y con red de cerco, en el litoral de la X Región y respecto de las especies que a continuación se indican: Agujilla, Bacaladillo o mote, Bonito, Barrilete o cachurreta, Cabinza, Cojinoba del norte, Dorado, Machuelo o tritre, Palometa y Sierra.
+
+Deniégase la autorización solicitada respecto de los recursos Anchoveta, Caballa, Sardina común, Sardina española y Merluza de cola, en virtud de los informes técnicos y lo dispuesto en el artículo 19 letras c) y e), del D.S. Nº 430, de 1991, en relación con el D.S. Nº 419, de 1999, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 30 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
