@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 72, de 26 de febrero de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 41-1, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector N: Km 209.700,00 a Km. 219.500,00", Séptima Región, que figura a nombre de Emp.
+
+FF.CC del Estado, rol de avalúo 90644-1, comuna de Molina, superficie 536 m2. La Comisión de Peritos integrada por los señores Pablo Antonio Aragón Bernal, Jorge Gregorio Mendoza Larral y Claudia Paola Arellano Gómez, fijó con fecha 29 de noviembre de 2000, el valor provisional de la indemnización en la cantidad de $1.258.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
