@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.202, de fecha 31 de agosto del 2001, se expropiaron los lotes de terreno Nºs 19, 20, 21 y 22, superficie 127, 3.078, 620 y 950 m2., respectivamenre, rol de avalúo 163-67, comuna de Fresia, para la obra "Camino Fresia-Parga-Llico-Las Cañitas, Rol V-46, Km. 14.835 a 34.000" y se acordó el valor de indemnización con su propietario Luis Hernán Schnettler Rehbein, ascendente a la cantidad de $4.340.643.-
+
+Fiscal del Ministerio de Obras Públicas.
