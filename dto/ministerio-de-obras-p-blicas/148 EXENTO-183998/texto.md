@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 148, de 28 de febrero de 2001, se expropió el lote de terreno Nº 23-G, superficie 146 m2., rol de avalúo 50-6, comuna de Purranque, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno-Puerto Montt. Sector: Enlace Purranque Oriente, Décima Región, y se acordó el valor de indemnización con su propietario José Carlos Amado Saldivia Yáñez, ascendente a la cantidad de $950.163.-
+
+Fiscal del Ministerio de Obras Públicas.
