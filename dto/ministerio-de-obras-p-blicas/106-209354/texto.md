@@ -1,0 +1,5 @@
+Por decreto MOP Nº106, de 19 de febrero de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº35 para la obra:
+
+"Proyecto Sistema Américo Vespucio Norte. Ruta 78-Av. Salto. Sector 2: Avenida Pedro Fontova-Ruta 5", Región Metropolitana, que figura a nombre de Tasso Miranda M. Luisa, rol de avalúo 3130-122, comuna de Huechuraba, superficie 1.033 m2. La comisión de peritos integrada por los señores Patricia Verónica Zavala Contreras, Mufida Viola Abuawad Elias y Andrés Rainer Schulz Villanueva, fijó con fecha 5 de diciembre de 2002, el valor provisional de la indemnización en la cantidad de $56.937.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
