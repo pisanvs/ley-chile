@@ -1,0 +1,3 @@
+Por Resolución Nº 386 de 24 de abril de 1997 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. Nº 2.186 de 1978, de parte del inmueble ubicado en Avda. Domingo Santa María Nº 4078, 4078-A y 4080 (ex 4078-B), presunto rol de avalúos Nº 469-23 comuna de Renca, de aparente dominio de don Jorge González Zamorano. Comisión integrada por peritos Sra. Patricia Zavala Contreras, constructor civil, Jorge Navarro Navarrete, arquitecto y Ramón Undurraga Montes, ingeniero civil según informe de 5 de febrero de 1997 fijó monto provisional de indemnización en $5.059.800.- pagadera al contado.
+
+Director SERVIU Metropolitano.
