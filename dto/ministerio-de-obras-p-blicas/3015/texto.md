@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.015, de 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs. 3 y 4, superficies 467 y 1.310 m², rol de avalúo 1270-13, comuna de Ancud, para la obra Camino Ancud-Quetalmahue, Rol W-20, y se acordó precio de la indemnización con su propietario Jorge Aliro Kreisel Vargas y Otra, ascendente a la cantidad de $2.049.822.- para los lotes Nºs. 3 y 4.-
+
+Fiscal del Ministerio de Obras Públicas.
