@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº849, de 31 de mayo de 2002, se expropió el lote de terreno Nº91, superficie 40 m², Rol de Avalúo Nº1420-188, comuna de Rancagua, para la obra Mejoramiento Ruta H-240, sector Rancagua-San Ramón, Km. 0,0000 a Km. 5,000, VI Región y se acordó el valor de indemnización con su propietario Augusto del Tránsito Canibilo Gómez, ascendente a la cantidad de $1.048.774.-
+
+Fiscal del Ministerio de Obras Públicas.
