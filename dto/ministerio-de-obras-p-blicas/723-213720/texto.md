@@ -1,0 +1,3 @@
+Por decreto MOP Nº 723 de 30 de junio de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron para la Empresa Essal S.A. el lote de terreno Nº 1 para la obra: Proyecto Planta Elevadora Aguas Servidas Prat, Q= 110,5 l/s, que figura a nombre de Wolf Lorenz Erwin, Rol de Avalúo 82-39, comuna de Ancud, X Región, superficie 158,4 m2. La Comisión de Peritos, fijó con fecha 14 de mayo de 2003, el monto de la indemnización provisional en la cantidad de $4.530.240.-, para el lote 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
