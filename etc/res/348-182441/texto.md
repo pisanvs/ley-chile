@@ -1,0 +1,3 @@
+Por resolución Nº 348 de 22 de febrero de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95110123 presentada por NESTOR MANUEL PEREZ CARCAMO, para instalar y operar un centro de cultivo ubicado en estero sin nombre, isla Concoto, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 22 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
