@@ -1,0 +1,9 @@
+SOLICITUD EN PROCEDIMIENTO DE INSCRIPCION EN EL REGISTRO DE PARTIDOS POLITICOS, DEL ''PARTIDO HUMANISTA'', EN FORMACION
+
+Por resolución O-Nº 614, de fecha 4 de mayo de 1999, se dispuso publicar en el Diario Oficial, la solicitud de tener por subsanados los reparos formulados por el Servicio Electoral a su inscripción como partido político del ''Partido Humanista'', en formación, formulada por los señores Tomás Hirsch Goldschmidt y José Gabriel Feres Nazarala, Presidente y Secretario General, respectivamente. La inscripción solicitada se refiere a las regiones I de Tarapacá, II de Antofagasta, III de Atacama y IV de Coquimbo. Su sigla es ''P.H.'', su lema, ''Algo más que un Partido'' y su símbolo es ''la llamada cinta de moebius, esto es, una cinta de una sola superficie color blanco con ribetes negros, que representa el signo matemático del infinito, dibujada sobre un fondo de color naranja''. La escritura pública de constitución de la entidad fue otorgada con fecha 24 de junio de 1998 ante el Notario Público de la Primera Notaría de Maipú-Santiago, don Manuel C.P. Cammas Montes, modificada por escrituras públicas otorgadas con fechas 30 de julio y 21 de agosto de 1998, ante el mismo notario. El extracto de la escritura de constitución se publicó en el Diario Oficial de fecha 9 de septiembre de 1998.
+
+La solicitud subsana las deficiencias en que se fundó la resolución O-Nº 607 de fecha 26 de abril de 1999, publicada en el Diario Oficial de fecha 29 de abril del mismo año en las Regiones I de Tarapacá y IV de Coquimbo.
+
+Publicación que se ordena para los efectos contemplados en el artículo 9º de la ley Nº 18.603 por resolución O-Nº 614 de fecha 4 de mayo de 1999.-
+
+Juan Ignacio García Rodríguez, Director.
