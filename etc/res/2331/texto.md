@@ -1,0 +1,11 @@
+Por resolución Nº 2.331, de 18 de noviembre de 1999, de esta Subsecretaría, autorízase a la UNIVERSIDAD CATOLICA DEL NORTE, SEDE COQUIMBO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Pesca de Jurel Trachurus symmetricus murphy realizada por la flota artesanal en bahías de la III Región'', elaborados por dicha universidad y aprobados por esta Subsecretaría de Pesca.
+
+El objetivo principal de la pesca de investigación consiste en caracterizar las capturas de Jurel Trachurus symmetricus murphy realizadas por la flota artesanal en la bahía de la III Región.
+
+La pesca de investigación se efectuará en el área de reserva artesanal de la III Región y se extenderá entre la fecha de la presente resolución y el 31 de diciembre de 1999. En cumplimiento del objetivo, las naves participantes podrán extraer un límite máximo de captura de 400 toneladas de la especie Jurel. En el evento de agotarse el límite de captura autorizado, se deberán paralizar las actividades de investigación, lo cual será comunicado oportunamente por el Servicio Nacional de Pesca a los interesados.
+
+La pesca de investigación se realizará con las embarcaciones artesanales que a continuación se indican, las que se encuentran inscritas en el Registro Artesanal de la III, sección pesquería de la especie Jurel: Don Simón, Don José Miguel, Punta Pichicuy, Lonquimay II, Don Eleuterio, Babilonia, La Raquel, Teresita, Chelita, Chubasco, María I, Don Benito, Llauca I, María Fernanda, Gustavo I, Fortuna, Concanmar I, Doña Edelmira, Juan Ramón, Santa Martina, Santa Mercedes y Sea Warrior. Los titulares de las naves autorizadas para participar en la pesca de investigación podrán disponer de las capturas de Jurel, una vez recopilada la información necesaria para el cumplimiento de los objetivos del estudio.
+
+La universidad designa como persona responsable al Vicerrector de la Sede Coquimbo de dicha casa de estudios, don Renzo Follegati Ghio.
+
+Valparaíso, 18 de noviembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
