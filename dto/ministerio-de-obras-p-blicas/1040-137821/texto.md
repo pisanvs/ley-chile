@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.040 de fecha 29 de abril de 1999, se expropió el lote de terreno Nº 524-C, superficie 609,7 m2., rol de avalúo 538-139, comuna de La Unión, para la obra ''Concesión Internacional Ruta 5; Tramo Temuco-Río Bueno Km. 867.700,00 a Km. 878.732,50'' y se acordó el valor de indemnización con su propietario Tulio Uribe Triviño, ascendente a la cantidad de $248.221.
+
+Fiscal del Ministerio de Obras Públicas.
