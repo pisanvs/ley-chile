@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.728, de 25 de junio de 1999, se expropiaron los lotes de terreno Nºs. 171 y 172, superficies 1.442 m² y 430 m², rol de avalúo 188-10, comuna de Collipulli para la obra ''Concesión Internacional Ruta 5 tramo Chillán-Collipulli'', Novena Región y se acordó el valor de indemnización con su propietaria Sandra Teresa Araus Vallebuona, ascendente a la cantidad total de $3.463.469.
+
+- Fiscal del Ministerio de Obras Públicas.
