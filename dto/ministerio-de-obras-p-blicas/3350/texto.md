@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.350, de 29 de octubre de 1999, se expropió el lote de terreno Nº12, superficie 130 m², rol de avalúo 617-12, comuna de Molina, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector N, Séptima Región y se acordó el valor de indemnización con su propietaria María Elena Concha Valdés, ascendente a la cantidad de $605.010.-
+
+Fiscal del Ministerio de Obras Públicas.
