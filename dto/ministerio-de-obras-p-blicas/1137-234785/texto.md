@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.137 de 30 de noviembre de 2004, se expropió el lote de terreno Nº72, superficie 3.281 m2, rol de Avalúo Nº302-118, comuna de Cunco, para la obra "Camino Ruta S-61, sector: Cunco - Melipeuco, Tramo Km. 55,000 al Km. 87,46783, correspondiente al Sub-Tramo II Km. 62,784 al Km. 76,043", IX Región y se acordó el valor de la indemnización con su propietario Francisco Hugoberto Chandía Retamal, ascendente a la cantidad de $5.966.270.
+
+Fiscal del Ministerio de Obras Públicas.
