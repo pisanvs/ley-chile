@@ -4998,7 +4998,39 @@ a) Cuando se trate de documentos de cargo de instituciones que tienen presencia 
 
 b) Al tratarse de documentos que sean de cargo de instituciones que no tienen presencia en la plaza o agrupación de plazas en que fueron depositados, el plazo máximo de retención será de tres días hábiles bancarios, incluido el día en que se reciben en depósito.
 
-Esta Superintendencia establecerá, mediante un listado, plazos mayores de retención para los documentos y cheques sobre otras plazas, que sean recibidos por oficinas situadas en localidades cuyo aislamiento geográfico impida su cobro dentro del citado plazo de tres días.
+No obstante lo anterior, las oficinas bancarias situadas en las siguientes localidades, podrán extender la retención por el tiempo estrictamente necesario para efectuar el cobro, debiendo informar apropiadamente a sus depositantes acerca del mayor plazo que deben aplicar por razones de su aislamiento geográfico.
+
+- Putre
+
+- Monte Patria
+
+- Lonquimay
+
+- Achao
+
+- Chonchi
+
+- Quellón
+
+- Chaitén
+
+- Alto Palena
+
+- Futaleufú
+
+- Chile Chico
+
+- Cochrane
+
+- Puerto Natales
+
+- Puerto Porvenir
+
+- Isla de Pascua
+
+- Puerto Aysén
+
+- Puerto Williams
 
 Para la retención sobre valores en cobro correspondientes a documentos en moneda extranjera de cargo de otros bancos del país, se aplicará el plazo de retención señalado en la letra a) de este numeral, salvo que se trate de documentos que no pueden presentarse en la cámara de compensación de Santiago según lo indicado en el Capítulo 5-1 de esta Recopilación.
 
