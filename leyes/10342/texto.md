@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Pelarco para contratar un préstamo hasta por la suma de $ 700.000 con el fin de financiar la red de distribución y líneas trasmisoras de energía eléctrica que alimentará a dicha red.
