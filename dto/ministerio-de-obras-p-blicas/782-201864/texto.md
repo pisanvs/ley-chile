@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 782, de 30 de septiembre de 1996, se expropió el lote de terreno N° 6, superficie 147 m2., rol de avalúo 593-45, comuna de Cerrillos, para la obra Camino Autopista Santiago-San Antonio, sector Empalme Isabel Riquelme-Bif. Malloco (Sector Urbano-Carlos Valdovinos-P.A. Cerda), y se acordó el valor de indemnización con sus propietarios Alejandro León Rojas y otros, ascendente a la cantidad de $30.346.680.-
+
+Fiscal el Ministerio de Obras Públicas.
