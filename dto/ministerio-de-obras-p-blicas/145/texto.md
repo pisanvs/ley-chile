@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 145, de fecha 29 de Abril de 1994, se expropió el lote de terreno N°. 3, superficie 212, rol de avalúo 334-14, Comuna de Bulnes, para la construcción de la obra Camino Ruta N-69, sector Bulnes Cruce Ruta N-59, por el cual se fijó precio de indemnización con su propietario José Octavio Carrasco Riquelme, ascendente a la cantidad de $300.740.-
+
+Fiscal del Ministerio de Obras Públicas
