@@ -1,0 +1,3 @@
+Por resolución Nº 1.733, de 3 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 94103169, presentada por CULTIVADORA DE SALMONES LINAO LIMITADA, para operar un centro de cultivo ubicado en el sector entre Punta Linlin y Punta Rev, Isla Linlin, Comuna de Quinchao, Provincia de Chiloé, X Región.
+
+Valparaíso, 3 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
