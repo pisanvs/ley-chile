@@ -1,0 +1,3 @@
+Por Resolución N° 400, de 28 de febrero de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por HATFIELD INTERNATIONAL S.A., para un centro de cultivo ubicado en Punta García, Isla Puduguapi, Comuna de Chaitén, Provincia de Palena, X Región, conforme lo dispuesto en el artículo 78, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 28 de febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
