@@ -1,0 +1,3 @@
+Por resolución N° 1.543, de 16 Agosto 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por HECTOR LEONARDO BARRIA MONTIEL, para un centro de cultivo ubicado en Seno Ventisquero, Comuna de Cisnes, Provincia de Aysén, XI Región, conforme lo dispuesto en los artículos 10° y 14°, inciso 2°, del D.S. N° 290, de 1993, modificado por el D.S. N° 604, de 1994, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 16 Agosto 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
