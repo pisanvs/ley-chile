@@ -1,0 +1,3 @@
+Por decreto MOP No. 381, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s. 35 y 42, superficies 1.062,40 y 2.546,10 m2, roles de avalúo 212-100 y 212-141, comuna de Teodoro Schmidt, obra Camino Costero Sur, Sector Tranapuente - Puerto Saavedra - Porma, Tramo Chelle - Hualpín - Puente Peule, y se acordó precio de indemnización con sus propietarios Silvia Sandoval Rojas y Santiago Candia Reyes, ascendente a las cantidades de $ 1.004.159.- y $ 989.635.-
+
+Fiscal de Ministerio de Obras Públicas.
