@@ -1,0 +1,5 @@
+Por decreto MOP No. 1.872, de 15 de octubre de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP No. 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley No.
+
+15.840, se expropió el lote de terreno No. 1, para la obra Camino Reposición Ruta 62, Sector Quillota-Limache, que figura a nombre de Alfonso Vergara Carretero, rol de avalúo 121-19 de la comuna de Quillota, superficie 1.325 m2. La comisión de peritos compuesta por los señores Edmundo Bravo Ubilla, Jorge Moreau Lazo y la señora María Isabel Ríos Marcuello, fijó con fecha 12 de marzo de 1998, el valor provisional de la indemnización en la cantidad de $5.962.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
