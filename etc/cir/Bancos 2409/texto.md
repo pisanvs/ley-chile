@@ -2634,7 +2634,7 @@ La existencia de fondos en canje o valores en cobro no dará lugar a la suspensi
 
 saber al tenedor del cheque que la cuenta podría tener, en una fecha próxima, fondos para el pago del documento.
 
-Lo anterior es sin perjuicio de la posibilidad de otorgar un sobregiro de hasta 30 U.F., caso en que, naturalmente, no procede el protesto si ello proporciona fondos suficientes, al igual que cuando existe un sobregiro previamente pactado que alcance para cubrir el cheque.
+Lo anterior es sin perjuicio dela posibilidad de conceder un sobregiro de acuerdo con lo indicado en el Capítulo 8-1 de esta Recopilación.
 
 13.3. Protesto de cheques presentados a cobro con posterioridad al cierre de la cuenta.
 
@@ -8296,23 +8296,15 @@ Los sobregiros en una cuenta corriente bancaria corresponden a todos aquellos gi
 
 Estos sobregiros pueden obedecer a una modalidad de crédito previamente acordada con el titular de la cuenta corriente, o bien, pueden originarse por una contingencia o una operación especial, sin que al comitente le asista un derecho contractual para sobregirar la cuenta.
 
-En el primer caso, los bancos que otorguen a sus clientes la facultad de sobregirar sus cuentas hasta ciertos límites, deben documentar las condiciones pactadas de acuerdo con lo señalado en el N° 3 de este Capítulo.
+2.- Sobregiro sin pacto previo.
 
-Al tratarse, en cambio, de sobregiros que no se originen por el uso de una modalidad de crédito contratada, sea porque supera el monto de sobregiro previamente pactado o porque no existe tal pacto, los bancos deben decidir, cuando se presenta la situación, si lo aceptan o lo deniegan. En estos casos el banco librado, junto con los demás aspectos inherentes a esas decisiones crediticias, debe tener presente lo indicado en el N° 2 siguiente.
+De acuerdo con lo dispuesto por el Banco Central de Chile en el Capítulo III.G.3. del Compendio de Normas Financieras, los bancos están facultados para conceder sobregiros en cuentas corrientes sin que medie un pacto previo.
 
-### 2. Limite de sobregiro sin pacto previo
-
-De acuerdo con lo dispuesto por el Banco Central de Chile en el Capítulo III.G.3. del Compendio de Normas Financieras, los bancos podrán otorgar sobregiros en cuentas corrientes sin pacto previo por escrito, hasta por un monto equivalente a 30 Unidades de Fomento.
-
-Sin embargo, a aquellos bancos que estén calificados por segunda vez consecutiva en categoría I según sus procedimientos de clasificación de cartera y mientras se mantengan en esa calificación, no se les aplicará dicha limitación, estando en consecuencia facultados para aceptar sobregiros sin pacto previo por montos superiores al indicado. En el caso que una institución así calificada deje de estar en esa calificación, deberá sujetarse al límite del equivalente de 30 Unidades de Fomento de que trata este número para la concesión de sobregiros en cuenta corriente, a contar del día hábil bancario siguiente a aquel en que esta Superintendencia le haya comunicado la nueva calificación.
-
-Para los efectos del cumplimiento de ese límite de hasta 30 Unidades de Fomento, se considerarán como un solo sobregiro la suma de los sobregiros no pactados de diferentes cuentas corrientes ordinarias en moneda chilena que una persona, natural o jurídica, mantenga con un banco.
-
-Excepcionalmente, el límite podrá sobrepasarse cuando el exceso provenga de gastos por servicios prestados o pagados por el banco por cuenta del cliente, conforme a lo señalado en el numeral 4.1, título II, del Capítulo 2-2 de esta Recopilación.
+La concesión de esos sobregiros se sujetará al cumplimiento de las disposiciones generales relativas al otorgamiento de créditos, como asimismo a las políticas y procedimientos internos que permitan una adecuada administración de los riesgos de crédito que se asumen.
 
 3. Sobregiros pactados. Condiciones que debe cumplir el pacto.
 
-En el pacto que se lleve a efecto, deberán establecerse, a lo menos, las siguientes condiciones:
+Los bancos que otorguen a sus clientes la facultad de sobregirar sus cuentas corrientes, deberán pactar, a lo menos, las siguientes condiciones:
 
 a) monto máximo del sobregiro concedido;
 
