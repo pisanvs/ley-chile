@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 942 de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº 289, superficie 381 m², rol Nº 61-72, comuna de Palmilla, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400, comuna de Pichidegua, provincia de Colchagua", VI Región, y se acordó el valor de la indemnización con su propietario Omar Arturo Orellana Cáceres, ascendente a la cantidad de $2.410.003.
+
+Fiscal del Ministerio de Obras Públicas.
