@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.956, de 19 de noviembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº201112040 presentada por JAIME ALBERTO MANSILLA ALVAREZ, para instalar y operar un centro de cultivo ubicado en península de Taitao, lado oeste de Estero Walker (sector C), XI Región.
+
+Valparaíso, 19 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
