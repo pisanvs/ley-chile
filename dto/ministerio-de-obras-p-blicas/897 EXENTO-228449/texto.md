@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 897 de 30 de junio de 2004, se expropió el lote de terreno Nº 15, superficie 50 m2, rol de Avalúo Nº 516-11, comuna de Santa Cruz, para la obra "Camino Santa Cruz - Yánquil, Rol I-730, Km. 0.00000 al Km. 7,46939", VI Región y se acordó el valor de la indemnización con su propietario Juan Enrique Ulloa Muñoz, ascendente a la cantidad de $673.309.
+
+- Fiscal del Ministerio de Obras Públicas.
