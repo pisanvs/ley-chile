@@ -1,0 +1,3 @@
+Por resolución No.907, de 12 de Agosto de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año desde la fecha de la presente Resolución, el plazo otorgado a CULTIVOS MARINOS CHILOE S.A., R.U.T. No.79.784.980-4, domiciliada en la ciudad de Santiago, para empezar a operar el establecimiento de cultivo autorizado por Resolución No. 920, de 1988, de esta Subsecretaría, por haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 12 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
