@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.060 de 12 de Agosto de 1985, conforme Art.
+
+5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector excluido, reserva y sector expropiado "Hacienda El Retiro" "Hijuela Primera de las en que se dividió El Fundo Cerrillos" "Hijuela Segunda de la ex Hacienda Cerrillo", "Hijuela Tercera del ex Fundo Cerrillos", "Hijuela Cuarta de la ex Hacienda Cerrillos" de la Comuna de Coquimbo IV Región; y derechos de aprovechamiento de aguas que corresponden a las Parcelas No. 1 a la 110, Sitios No. 1 al 39, 42 al 51, 51-A, 52 al 77, Bien Común U y Reserva CORA No. 1 del Proyecto de Parcelación "Nueva Vida" formado por predios señalados. Los derechos de agua se extraen del Canal Bellavista.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
