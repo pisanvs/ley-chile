@@ -1,0 +1,3 @@
+Por Resolución N° 891, de 15 de mayo de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por ASOCIACION GREMIAL DE ALGUEROS PUERTO RAUL MARIN BALMACEDA, para un centro de cultivo ubicado en Estero Piti-Palena, Ensenada Las Islas, Comuna de Cisnes, Provincia de Aisén, XI Región, conforme lo dispuesto en los artículos 78 y 88 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 15 de mayo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
