@@ -1,0 +1,3 @@
+Por resolución Nº2.456 de 5 de diciembre de 2001 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Punta de Talca, IV Región, individualizada en el artículo 1º Nº8 del DS Nº10 de 1998, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE PESCADORES ARTESANALES Y BUZOS MARISCADORES DE CALETA TALCA "ALGAMAR".
+
+Valparaíso, 5 de diciembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
