@@ -1,0 +1,3 @@
+Por decreto MOP Nº 266, de 31 de enero del 2002, se expropiaron los lotes de terreno Nºs 61, 62, 63, 65 y 66, superficies 797, 805, 850, 924, 975 m2., rol de avalúo 103-16, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago Valparaíso Viña del Mar Tramo 6B: Kms. 34.660,00 al 38.660,00, Región Metropolitana y se acordó el valor de indemnización con su propietario María Josefina Marta del Sagrado Corazón Hurtado Hurtado, ascendente a la cantidad de $51.343.999.- para los lotes Nºs. 61, 62, 63, 65 y 66.
+
+- Fiscal del Ministerio de Obras Públicas.
