@@ -1,0 +1,3 @@
+Por resolución Nº 1.658, de 24 de noviembre de 1998, de esta Subsecretaría, autorízase a AGROINDUSTRIAL SANTA CRUZ S.A., para ampliar actividades pesqueras autorizadas por resoluciones Nº 620, de 1988, Nº 210, Nº 765 y Nº 844, todas de 1992 y Nº 525, de 1993, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Camino Chinquihue, Km. 12 comuna de Puerto Montt, provincia de Llanquihue, X Región, en las líneas de elaboración que se indican los siguientes recursos hidrobiológicos: Harina de pescado y Aceite de pescado: Anchoveta, Jurel, Merluza de cola, Sardina española y Desechos de salmón.
+
+Valparaíso, 24 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
