@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.580, de 15 de diciembre de 2003, se modificaron los numerales 1 º y 2º del decreto exento MOP Nº 792, de 22 de agosto de 2003, en el sentido que el lote Nº 7, se encuentra en la provincia de Llanquihue, el lote Nº 8, en la provincia de Osorno y que la superficie del lote Nº 8, es 631,88. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
