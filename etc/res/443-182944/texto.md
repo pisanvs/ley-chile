@@ -1,0 +1,3 @@
+Por resolución Nº443 de 9 de marzo de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº96105059 presentada por NELLY DEL CARMEN VARGAS CARDENAS, para instalar y operar el centro de cultivo ubicado en Estero Chaular, Península Guapilacui, comuna de Ancud, provincia de Chiloé, X Región.
+
+Valparaíso, 9 de marzo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
