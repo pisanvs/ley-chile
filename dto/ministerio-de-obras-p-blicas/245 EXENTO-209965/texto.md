@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 245 de fecha 31 de marzo del 2003, se expropiaron los lotes de terreno Nºs 53-D y 58, superficie 267,0 y 423,0 m2 respectivamente, Rol Nº 611-51, comuna de Nueva Imperial, IX Región para la obra "Camino Ruta S-16, Sector Galvarino - Chol Chol, Tramo Km. 0,00000 al Km. 24,30269" correspondiente al subtramo II Km. 8,339 al Km. 15,574. y se acordó el valor de indemnización con su propietario Raúl Francisco Neira Neira, ascendente a la cantidad de $3.069.749.-
+
+Fiscal del Ministerio de Obras Públicas.
