@@ -1,0 +1,3 @@
+Por Decreto MOP N° 46, de 23 de febrero de 1993, se expropió el lote de terreno N° 62-B, superficie 210 m2., rol de avalúo 16-47, Comuna de Lolol, para la obra Mejoramiento Camino Santa Cruz-Lolol-Bucalemu, II Etapa, sector Lolol-Nerquihue y se acordó el valor de indemnización con su propietario Juan de Dios Baeza Sobarzo, ascendente a la cantidad de $222.542.-
+
+Fiscal del Ministerio de Obras Públicas.
