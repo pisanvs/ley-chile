@@ -3176,7 +3176,7 @@ b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o
 
 c) El titular puede realizar hasta seis giros en cada período de doce meses, sin perder el derecho a reajuste.
 
-d) El reajuste se abona trimestralmente a estas cuentas, en tanto que los intereses sólo se acreditan cada doce meses.
+d) El reajuste se puede abonar trimestralmente o anualmente y los intereses se abonan cada doce meses.
 
 e) El ahorrante puede girar de estas cuentas solamente con aviso previo a la entidad depositaría, mediante la presentación de una solicitud con una anticipación mínima de treinta días corridos.
 
@@ -3248,19 +3248,21 @@ Simultáneamente con la apertura de la cuenta debe efectuarse el depósito inici
 
 Al tratarse de una cuenta de ahorro con libreta, dicho depósito quedará registrado en la libreta que debe entregársele en el acto al titular.
 
-3.5. Modificaciones a las condiciones pactadas con el titular.
+3.5- Modificaciones a las condiciones pactadas con el titular.
 
-Cuando se convenga la modificación de las condiciones por las que se rige una cuenta de ahorro, deberá procederse al cierre de la cuenta y a la apertura de una nueva cuenta, operaciones que deberán tratarse como tales para todos los efectos.
+Para efectuar cualquier cambio a las condiciones por las que se rige una cuenta de ahorro, el banco deberá informar debidamente al interesado acerca de las características y costos de las nuevas condiciones.
 
-No obstante lo indicado precedentemente, cuando una institución financiera mantenga sistemas de "cuentas de ahorro con libreta" y "cuentas de ahorro sin libreta", los titulares de las cuentas de ahorro podrán optar por cambiar de modalidad conservando la antigüedad para los efectos del abono de reajustes e intereses, como asimismo, para el cómputo de la cantidad de giros. Para efectuar dichos traspasos, sin embargo, deberá suscribirse un nuevo contrato, debiendo la institución financiera informar debidamente al interesado acerca de las características y costos del sistema al que se quiere acoger.
+Las modificaciones a las condiciones se tratarán igual que el cierre y apertura de una nueva cuenta de ahorro, salvo en los siguientes casos en que podrán seguirse los procedimientos que se indican.
 
-Por otra parte, cuando la institución depositaría consienta en abonar trimestralmente los reajustes en una cuenta de ahorro con giro incondicional en que se haya pactado reajustes con el abono cada doce meses y el cambio consista solamente en esa modificación de la periodicidad, se podrá mantener la misma cuenta con todas sus implicancias, bastando para el efecto que el titular presente una solicitud o declaración en tal sentido, sin necesidad de suscribir un nuevo contrato.
+a) Si no hay cambios en la condición de giro diferido, giro incondicional o de cuenta a la vista, no será necesario suscribir un nuevo contrato, sino que basta un anexo en que conste la conformidad del titular con las nuevas condiciones por las que se regirá la cuenta a partir de la fecha que se indique. En estos casos podrá también seguir utilizándose la misma libreta, dejando constancia en ella, mediante un timbre u otro medio, del cambio en las condiciones pactadas.
+
+b) Cuando se trate de un cambio de cuenta con libreta a una sin libreta, o bien de una cuenta reajustable a una no reajustable, se conservará la antigüedad para efectos del pago de reajustes e intereses, con el consiguiente cómputo de la cantidad de giros para ese efecto. Al cambiarse una cuenta con reajustes por una sin cláusula de reajustabilidad, el importe de los reajustes aún no abonados que deben calcularse hasta la fecha del cambio de modalidad, se imputará a la cuenta en la oportunidad que le hubiere correspondido al mantenerse las condiciones anteriores, pero considerando dicho abono a contar de la fecha del cambio para efectos de la aplicación de los intereses devengados según las nuevas condiciones de la cuenta.
 
 ### 4. Libretas de ahorro
 
 4.1 Formato de las libretas.
 
-Atendida la diferencia que existe entre los distintos tipos de cuentas de ahorro, los bancos y sociedades financieras deben darle a las respectivas libretas una característica que las distinga claramente unas de otras, como por ejemplo, un color distinto. Además, en las libretas de giro diferido debe imprimirse el nombre "Cuenta de Ahorro a Plazo de Giro Diferido" en forma suficientemente destacada.
+Atendida la diferencia que existe entre las cuentas de ahorro a la vista, las cuentas de ahorro a plazo con giro incondicional y las cuentas de ahorro a plazo con giro diferido, los bancos deben darle a las respectivas libretas una característica que las distinga claramente unas de otras, como por ejemplo, un color distinto. Además, en las libretas de giro diferido debe imprimirse el nombre "Cuenta de Ahorro a Plazo de Giro Diferido" en forma suficientemente destacada.
 
 4.2. Pérdida de las libretas.
 
@@ -3392,7 +3394,7 @@ Los intereses se abonarán en la respectiva cuenta con la frecuencia y oportunid
 
 10.1. Sistema de cobro.
 
-Las comisiones que las instituciones financieras decidan cobrar por el manejo de cuentas de ahorro, serán debitadas en la misma cuenta que las origine. No se podrá, en caso alguno, cobrar comisiones por montos que no sean determinados por condiciones de aplicación general previamente fijadas e informadas a los respectivos ahorrantes de acuerdo a lo señalado en el numeral 14.3 de este Capítulo, ni podrá utilizarse para su cobro un procedimiento diferente al cargo en la respectiva cuenta.
+Las comisiones que las instituciones financieras decidan cobrar por el manejo de cuentas de ahorro, serán debitadas en la misma cuenta que las origine. No se podrá, en caso alguno, cobrar comisiones por montos que no sean determinados por condiciones de aplicación general previamente fijadas y anunciadas de acuerdo a lo señalado en el numeral 14.2.2 de este Capítulo, ni podrá utilizarse para su cobro un procedimiento diferente al cargo en la respectiva cuenta.
 
 El monto de las comisiones y las condiciones para su cobro sólo se podrán cambiar el primer día de cada trimestre calendario y regirán, a lo menos, para ese trimestre. Sin embargo, si con el cambio se disminuye o se suprime el monto de la comisión, la modificación puede tener aplicación inmediata y la nueva comisión que se acuerde o la supresión de su cobro puede regir por lo que resta del trimestre calendario en que se produzca el cambio y, en todo caso, por el trimestre siguiente completo.
 
@@ -3438,31 +3440,43 @@ En todo caso, tanto en la libreta de ahorro como en los estados de saldos que se
 
 Por otra parte, en caso de que el titular desee contratar seguros asociados a la cuenta de ahorro, se le informará en forma previa a su contratación acerca del costo de las primas, los riesgos y montos cubiertos, el plazo de vigencia de la póliza, los montos deducibles en caso de haberlos, el plazo y forma para denunciar los siniestros y la compañía de seguros con la cual se contrata.
 
-14.2. Información al público sobre tasas de interés, montos mínimos de depósitos y comisiones.
+14.2.- Información al público sobre tasas de interés, montos mínimos de depósitos y comisiones.
 
-Las instituciones financieras deberán anunciar las tasas de interés vigentes sobre las cuentas de ahorro a plazo, mediante avisos destacados que colocarán en los locales en que atiendan a los titulares de dichas cuentas Junto con esta información deberá indicarse, cuando corresponda, el monto o las tasas de las comisiones vigentes y, si es el caso, las restricciones relativas a los montos mínimos de depósitos que se aceptan.
+14.2.1.- Información sobre las condiciones vigentes.
 
-Cuando la institución financiera resuelva disminuir la tasa de interés que pagará a las cuentas de ahorro a plazo, el aviso de que se trata deberá incluir también un anuncio de la nueva tasa, con una anticipación mínima de cinco días a la fecha de inicio del mes en que comenzará a regir Del mismo modo, si la institución financiera resuelve aumentar las comisiones, anunciará en el mismo aviso las nuevas comisiones, al menos con diez días de anticipación al inicio del trimestre siguiente.
+Los bancos deberán informar las tasas de interés vigentes sobre las cuentas de ahorro a plazo, mediante avisos destacados que se colocarán a lo menos en su sitio web y en los locales en que atiendan a los titulares de dichas cuentas. Junto con esta información deberá indicarse en la misma forma, cuando corresponda, el sistema de comisiones vigentes con suficiente detalle para que el interesado pueda calcularlas y, si es el caso, las restricciones relativas a los montos mínimos de depósitos que se aceptan.
 
 Igualmente deberá informarse del número de giros que se pueden realizar en cada período de doce meses sin perder el derecho a reajustes como también de los intereses, en el caso de las cuentas con giro incondicional.
 
-14.3. Información a los titulares de las cuentas sobre comisiones cobradas.
+14.2.2.- Aviso anticipado de cambios en los intereses y comisiones.
 
-Las instituciones financieras que resuelvan, ya sea implantar el cobro de comisiones a las cuentas de ahorro, aumentar el valor de las comisiones vigentes o aumentar su frecuencia de cobro, deberán enviar un aviso a cada uno de los titulares de las cuentas afectadas con dicha medida. Ese aviso deberá remitirse al domicilio del ahorrante o a la dirección que éste haya indicado, con una anticipación no menor á diez días ni mayor a treinta días corridos, al inicio del trimestre en que se aplicará la nueva modalidad de cobro.
+Cuando el banco resuelva disminuir la tasa de interés que pagará a las cuentas de ahorro a plazo, deberá anunciar la nueva tasa con una anticipación mínima de cinco días a la fecha de inicio del mes en que comenzará a regir.
 
-La comunicación que se remita al ahorrante deberá contener la información necesaria para que el propio titular pueda verificar posteriormente el cálculo de las comisiones que se le cobren.
+Del mismo modo, si el banco resuelve aumentar las comisiones, anunciará las nuevas condiciones en un plazo no menor a diez días de anticipación al inicio del trimestre en que se aplicará la nueva modalidad de cobro.
+
+Los anuncios de disminución de tasas de interés o aumentos de comisiones de que se trata, se harán a lo menos mediante un aviso en la página principal del sitio web del banco y en carteles destacados en los lugares de atención al público".
+
+14.3.- Publicidad de cuentas de ahorro a plazo.
+
+Los bancos que cobren comisiones o que establezcan montos mínimos de depósitos, deberán indicar dichas condiciones en todo aviso con fines publicitarios referidos a sus cuentas de ahorro a plazo.
+
+En toda publicidad que comprenda cuentas de ahorro con pago de reajustes, se indicará la periodicidad en que se abonan los reajustes, esto es, si trimestral o anualmente, o cuáles son los requisitos que se exigen para pactar una periodicidad trimestral en caso que se ofrezcan alternativamente ambas modalidades.
+
+Si la publicidad se refiere exclusivamente a cuentas de ahorro sin libreta, deberá señalarse expresamente que se trata de una "Cuenta de ahorro sin libreta".
+
+En caso de que la institución financiera ofrezca cuentas de ahorro con seguros asociados, se indicará que la contratación de tales seguros es completamente voluntaria".
 
 14.4. Documentos en cobro rechazados.
 
 De acuerdo con las disposiciones generales sobre valores en cobro, la institución depositaría deberá informar al respectivo titular acerca de cualquier cargo que se efectúe en su cuenta con motivo de un documento que hubiere sido depositado en ella y que resultare rechazado.
 
-14.5. Envío periódico del estado de movimiento y saldos.
+14.5.- Envío de estados de movimiento y saldos.
 
-14.5.1. Cuentas de ahorro con libreta.
+Una vez año, inmediatamente después de abonados los intereses en el caso de las cuentas de ahorro a plazo, los bancos enviarán un estado de cuenta a los titulares de cuentas de ahorro con libreta que hayan mantenido un saldo promedio mensual no inferior a 10 UF.
 
-Las instituciones financieras deben enviar a los titulares de cuentas de ahorro que mantengan un saldo promedio igual o superior al equivalente de 10 U.F., una vez al año, un estado de cuenta con los movimientos y saldos de los últimos doce meses. En el caso de las cuentas de ahorro a plazo, dicho estado debe enviarse inmediatamente después de abonados los respectivos intereses.
+El mismo estado se enviará a todos los titulares de cuentas de ahorro sin libreta, cualquiera sea el saldo promedio mantenido. A estos titulares se les enviará además estados de cuenta numerados correlativamente, cada vez que hayan efectuado 30 operaciones desde el envío del estado inmediatamente anterior.
 
-El estado de cuenta deberá registrar a lo menos la siguiente información:
+Los estados de que se trata se enviarán en papel o en archivos magnéticos por correo electrónico, según lo prefiera el titular de la cuenta, debiendo contener la siguiente información.
 
 a) Nombre completo del titular, dirección y número de cuenta.
 
@@ -3472,31 +3486,13 @@ c) Importe de cada partida, identificando el concepto por el cual se acreditó o
 
 d) Saldo inicial y final de la cuenta en el período informado.
 
-Si la institución calcula los intereses y/o reajustes, en su caso sobre la base de los saldos efectivos, los depósitos efectuados con valores sujetos a retención deben identificarse con una clave o código.
-
-Cualquiera que sea el saldo promedio mantenido, un estado de cuenta similar deberá remitirse, también, a los titulares, cuando su cuenta de ahorro a plazo no registre ningún depósito o giro durante el referido período de doce meses, pero en ese mismo lapso haya recibido algún cargo por concepto de comisiones. Esta exigencia no será obligatoria, sin embargo, cuando al titular se le envíe un aviso de desahucio según lo dispuesto en el numeral 14.6.
-
-14.5.2. Cuentas de ahorro sin libreta.
-
-Las instituciones financieras deben enviar a todos los titulares de las cuentas de ahorro a la vista y a plazo sin libreta, a lo menos cuando hayan efectuado 30 operaciones o una vez al año, lo que ocurra primero, un estado de cuenta con los movimientos y saldos de éstas, cualquiera sea el saldo promedio que registren.
-
-El referido estado deberá contener la misma información señalada en el numeral 14.5.1 precedente.
+Si la institución calcula los intereses y/o reajustes, en su caso, sobre la base de los saldos efectivos, los depósitos efectuados con valores sujetos a retención deben identificarse con una clave o código.
 
 14.6. Aviso de desahucio de una cuenta de ahorro.
 
 Las instituciones financieras que deseen hacer efectiva la facultad de cerrar una cuenta de ahorro, deberán remitir al titular un aviso en tal sentido, por lo menos con treinta días corridos de antelación al cierre, informándole de las razones que motivan esa medida.
 
 En esa comunicación se le señalará al titular la oportunidad en que deberá retirar el saldo y los intereses y reajustes devengados, cuando corresponda.
-
-14.7. Publicidad de cuentas de ahorro a plazo.
-
-Las instituciones financieras que cobren comisiones o que establezcan montos mínimos de depósitos, deberán indicar dichas condiciones en todo aviso con fines publicitarios referidos a sus cuentas de ahorro a plazo.
-
-En toda publicidad que comprenda cuentas de ahorro con giro incondicional en moneda chilena reajustables, las instituciones financieras deberán señalar la periodicidad en que se abonan los reajustes, esto es, si trimestral o anualmente, o cuáles son los requisitos que se exigen para pactar una periodicidad trimestral en caso que se ofrezcan ambas modalidades.
-
-Por otra parte, si la publicidad se refiere exclusivamente a cuentas de ahorro sin libreta, deberá señalarse expresamente que se trata de una "Cuenta de ahorro sin libreta.
-
-En caso de que la institución financiera ofrezca cuentas de ahorro con seguros asociados, se indicará que la contratación de tales seguros es completamente voluntaria.
 
 ### 15. Normas contables
 
@@ -3549,14 +3545,6 @@ En el caso de las cuentas de ahorro a plazo con giro diferido, las instituciones
 Debido a que el saldo depositado en una cuenta de ahorro a plazo o a la vista sólo podría ser cedido conforme a las normas que rigen la cesión de créditos nominativos, resulta recomendable que las instituciones financieras se abstengan de recibirlos en garantía.
 
 En todo caso, la libreta en que consta el saldo de una cuenta de ahorro no es un título de crédito y, por lo tanto, no constituye una garantía valida para los efectos de los límites individuales de crédito dispuestos en el artículo 84 N° 1 de la Ley General de Bancos.
-
-19.- Disposición transitoria.
-
-La condición de permanencia mínima de 90 días para el pago de reajuste de los depósitos, no rige para los depósitos efectuados con anterioridad al 10 de septiembre de 2001, para los cuales se aplicarán las normas vigentes al momento en que fueron enterados.
-
-También podrán exceptuarse de esa condición hasta el 10 de septiembre de 2002, los demás depósitos efectuados en las cuentas de ahorro vigentes con anterioridad al 10 de septiembre de 2001.
-
-La limitación al número de seis giros en el período de doce meses para no perder el derecho a intereses, a que se refiere la letra b) del numeral 7.3, se aplicará a contar del próximo período de doce meses que comience después del 2 de marzo de 2002.
 
 CAPITULO 2-5 (Bancos y Financieras)
 
@@ -20204,49 +20192,33 @@ MATERIA:
 
 INFORMACION SOBRE DEUDORES DE LAS INSTITUCIONES FINANCIERAS.
 
-El artículo 14 de la Ley General de Bancos, establece que esta Superintendencia debe mantener una información permanente y refundida sobre los deudores de los bancos, para el uso de las instituciones sometidas a su fiscalización.
+1.- Generalidades.
 
-Para el envío y manejo de esa información, los bancos deben atenerse a lo siguiente:
+El artículo 14 de la Ley General de Bancos, establece que esta Superintendencia debe mantener una información permanente y refundida sobre los deudores de los bancos y sociedades financieras, para el uso de las instituciones sometidas a su fiscalización.
 
-1.- Operaciones de crédito que deben informarse.
+Esta información incluye, además de la individualización de los deudores, el monto de la deuda que ellos mantienen con los bancos y sociedades financieras La deuda comprende el conjunto de obligaciones reales y contingentes de un deudor, sea por su calidad de deudor directo o indirecto y se informan tanto sus obligaciones vigentes como las vencidas, manteniéndose también, durante un lapso de seis años, la información de las operaciones castigadas.
 
-Se informarán todas las obligaciones reales y contingentes de un deudor, sea por su calidad de deudor directo o indirecto, con excepción de las siguientes:
+2.- Entrega de la información sobre deudores.
 
-a) Bonos de la deuda interna o cualquier otra clase de documentos emitidos en serie que representen obligaciones del Estado o de sus instituciones, incluido el Banco Central de Chile y excluidas las empresas del Estado.
+2.1.- Oportunidad y forma de entrega de la información que se refundirá.
 
-b) Bonos u obligaciones de renta de Estados extranjeros, Bancos Centrales e instituciones internacionales a las que se encuentre adherido el Estado de Chile.
+Para enviar a esta Superintendencia los datos necesarios para refundir la información de que se trata, las instituciones financieras deben ceñirse a las instrucciones contenidas en el Manual del Sistema de Información.
 
-c) Depósitos a plazo en bancos del país o del exterior.
-
-d) Cuotas de fondos mutuos.
-
-e) Operaciones de factoraje.
-
-f) Operaciones de leasing.
-
-g) Créditos contingentes correspondientes a cartas de garantía interbancaria a que se refiere el Capítulo 8-12 de esta Recopilación.
-
-h) Créditos inherentes a operaciones con instrumentos derivados que se computan para efectos del artículo 84 de la Ley General de Bancos.
-
-i) Créditos que se hayan informado como castigados según lo indicado en el N° 4 de este Capítulo, cuando hayan transcurrido seis años desde la fecha en que se informó por primera vez el crédito en esa situación.
-
-j) Todos los créditos impagos que se encuentren en las condiciones que se indican en el N° 3 de este Capítulo.
-
-2.- Responsabilidad en la entrega de la información.
+2.2.- Responsabilidad en la entrega de la información.
 
 El artículo 19 N° 4 de la Constitución Política de la República establece como garantía el respeto y protección a la vida privada y pública y a la honra de la persona y su familia y, en la medida que la información entregada sobre deudas no pagadas a su vencimiento no se ajuste a la entera y clara verdad, podría generar responsabilidades para el que la proporciona.
 
-Como esta Superintendencia se limita a refundir los datos que los bancos le envían, es de suma importancia el cuidado que se emplee para la inclusión de los deudores en la información correspondiente, con objeto de evitar así que los problemas se susciten a nivel de este Organismo, con la consiguiente demora, tramitación y peligro de que se presenten recursos judiciales por asuntos que normalmente son de fácil solución si se emplea el buen orden y criterio.
+Como esta Superintendencia se limita a refundir los datos que los bancos y sociedades financieras le envían, es de suma importancia el cuidado que se emplee para la inclusión de los deudores en la información correspondiente, con objeto de evitar así que los problemas se susciten a nivel de este Organismo, con la consiguiente demora, tramitación y peligro de que se presenten recursos judiciales por asuntos que normalmente son de fácil solución si se emplea el buen orden y criterio.
 
-3.- Información sobre créditos no pagados a su vencimiento.
+2.3.- Información sobre créditos vencidos o castigados.
 
-Esta Superintendencia ha estimado que la información que debe mantener sobre esta materia para el uso de las instituciones fiscalizadas, cumple el propósito deseado por el legislador cuando éstas, en su condición de acreedoras, ejercen la diligencia ordinaria y demostrativa de la voluntad de recuperar sus acreencias, como, por lo demás, es su deber hacerlo y que contraviene esa intención la inclusión o mantención de un registro oficial de deudores del sistema, de personas respecto de quienes no aparece demostrado interés en exigírseles el cumplimiento de sus obligaciones eficazmente, o de aquellas cuya condición de deudores no se encuentre establecida de un modo formalmente incuestionable.
+Esta Superintendencia ha estimado que la información que debe mantener sobre esta materia para el uso de las instituciones fiscalizadas, cumple el propósito deseado por el legislador cuando éstas, en su condición de acreedoras, ejercen la diligencia ordinaria y demostrativa de la voluntad de recuperar sus acreencias, como, por lo demás, es su deber hacerlo y que contraviene esa intención, la inclusión o mantención de un registro oficial de deudores del sistema, de personas respecto de quienes no aparece demostrado interés en exigírseles el cumplimiento de sus obligaciones eficazmente, o de aquellas cuya condición de deudores no se encuentre establecida de un modo formalmente incuestionable.
 
-En consecuencia, los bancos sólo deben informar las deudas no pagadas a su vencimiento cuando tengan un título ejecutivo válido y vigente y mientras se encuentren siguiendo las ejecuciones correspondientes. Terminado por cualquier motivo el juicio ejecutivo, debe dejarse de informar la deuda y sólo se la podrá incluir nuevamente si se ha obtenido un nuevo título ejecutivo contra el deudor como, por ejemplo, si éste ha reconocido un documento o confesado la deuda.
+En consecuencia, los bancos y sociedades financieras sólo deben informar las deudas vencidas o castigadas de aquellos deudores contra los cuales tengan un título ejecutivo válido y vigente y mientras se encuentren siguiendo las ejecuciones correspondientes. Terminado por cualquier motivo el juicio ejecutivo, debe dejarse de informar la deuda y sólo se la podrá incluir nuevamente si se ha obtenido un nuevo título ejecutivo contra el deudor como, por ejemplo, si éste ha reconocido un documento o confesado la deuda.
 
-En virtud de lo anteriormente expuesto, tratándose de créditos no pagados a su vencimiento, se definen los siguientes principios para la inclusión o exclusión en la información refundida sobre deudores:
+En virtud de lo anteriormente expuesto, tratándose de la cartera vencida o castigada, se definen los siguientes principios para la inclusión o exclusión en la información refundida sobre deudores, de los créditos que se mantienen en esas carteras:
 
-a) No se incluirán en la información de créditos morosos o castigados aquellos créditos que carezcan de títulos ejecutivos porque éstos son, de acuerdo a nuestra legislación, los únicos que formalmente dan cuenta de una obligación cuyo cumplimiento puede exigirse compulsivamente.
+a) No se incluirán en la información de créditos vencidos o castigados aquellas personas contra quienes los bancos y sociedades financieras carezcan de títulos ejecutivos porque éstos son, de acuerdo a nuestra legislación, los únicos que formalmente dan cuenta de una obligación cuyo cumplimiento puede exigirse compulsivamente.
 
 No se informarán, en consecuencia, los deudores aunque se encuentren demandados, contra quienes sólo se tengan títulos ordinarios, puesto que éstos requieren de una previa declaración de autoridad, para darles certeza y exigir su cumplimiento a través de la misma.
 
@@ -20254,27 +20226,15 @@ Con mayor razón, no se incluirán los nombres de personas respecto de quienes s
 
 b) Se excluirán, asimismo, los deudores contra quienes existan títulos ejecutivos pero que no hayan sido demandados durante el transcurso del plazo de prescripción de las acciones respectivas.
 
-c) Se suspenderá la información de aquellos deudores contra quienes existan títulos ejecutivos y hayan sido demandados, pero cuyas ejecuciones hayan sido rechazadas o abandonadas por resolución judicial ejecutoriada, así como de aquellos a quienes no se les haya notificado la demanda antes del vencimiento del plazo establecido en las leyes para la prescripción de las respectivas acciones, sin embargo, estos últimos se reinformarán cuando se obtenga su notificación.
+c) Se suspenderá la información de aquellos deudores contra quienes existan títulos ejecutivos y hayan sido demandados, pero cuyas ejecuciones hayan sido rechazadas o abandonadas por resolución judicial ejecutoriada, así como de aquellos a quienes no se les haya notificado la demanda antes del vencimiento del plazo establecido en las leyes para la prescripción de las respectivas acciones; sin embargo, estos últimos se reinformarán cuando se obtenga su notificación.
 
-Debe tenerse presente lo dispuesto en el artículo 153 del Código de Procedimiento Civil, en el sentido de que el ejecutado puede pedir el abandono del procedimiento aun después de dictada la sentencia u omitida ésta Este es, por lo tanto, uno de los casos en que se produce el fin del juicio ejecutivo seguido contra el deudor y en que sólo procede reincorporarlo a la información refundida sobre deudores cuando se inicie uno nuevo, si todavía hay lugar a ello.
+Debe tenerse presente lo dispuesto en el artículo 153 del Código de Procedimiento Civil, en el sentido de que el ejecutado puede pedir el abandono del procedimiento aun después de dictada la sentencia u omitida ésta. Este es, por lo tanto, uno de los casos en que se produce el fin del juicio ejecutivo seguido contra el deudor y en que sólo procede reincorporarlo a la información refundida sobre deudores cuando se inicie uno nuevo, si todavía hay lugar a ello.
 
-d) Asimismo, se suspenderá la información en los casos de deudores, personas naturales, cuando la institución financiera acreedora haya rematado los bienes que se hubieren constituido en prenda o hipoteca para garantizar el pago de los créditos que adeuden, y no se haya trabado embargo sobre otros bienes de su propiedad o de los codeudores o fiadores que puedan existir. Producida esta situación, aun cuando el producto del remate no haya alcanzado a cubrir el pago de la deuda, deberá omitirse la información respecto del saldo de dicho crédito.
+Asimismo, se suspenderá la información en los casos de deudores, personas naturales, cuando la institución financiera acreedora haya rematado los bienes que se hubieren constituidos en prenda o hipoteca para garantizar el pago de los créditos que adeuden, y no se haya trabado embargo sobre otros bienes de su propiedad o de los codeudores o fiadores que puedan existir. Producida esta situación, aun cuando el producto del remate no haya alcanzado a cubrir el pago de la deuda, deberá omitirse la información respecto del saldo de dicho crédito.
 
-4.- Información de los importes adeudados.
+3.- Manejo de la información por parte de las instituciones financieras.
 
-Los créditos se informarán de acuerdo con su valor contractual a la fecha a que se refiera la información, con sus respectivos reajustes e intereses devengados, incluidos los intereses por mora.
-
-Por consiguiente, cualquiera sea la valorización contable de los créditos para los estados financieros del banco acreedor y aunque se trate de créditos registrados sólo en cuentas de orden o castigados, se considerará el valor contractual y la situación de morosidad de los créditos de acuerdo con las condiciones pactadas, de manera que se refleje el monto efectivamente adeudado a la fecha a que se refiera la información, en lo que toca al capital, reajustes e intereses devengados según lo pactado.
-
-Si bien esta información no se refiere a la situación de los créditos en relación con la aplicación de criterios contables, como es el caso, por ejemplo, de su encasillamiento en cartera vencida, aquellos créditos que se encuentren contablemente castigados en su totalidad se informarán como castigados, en vez de hacerlo de acuerdo con su morosidad, siempre que se cumpla con lo indicado en los números 1 y 3 de este Capítulo y en tanto no existan renegociaciones mediante las cuales esos créditos dejen de estar en una situación de morosidad según lo que se haya vuelto a pactar.
-
-5.- Oportunidad y forma de entrega de la información que se refundirá.
-
-Para enviar a esta Superintendencia los datos necesarios para refundir la información de que se trata, las instituciones financieras deben ceñirse a las instrucciones contenidas en el Manual del Sistema de Información.
-
-6.- Manejo de la información por parte de las instituciones financieras.
-
-La entrega de la información, relativa a las obligaciones de los deudores es una excepción justificada, contemplada en la ley, de la reserva bancaria que protege los intereses de tales deudores, en la medida que cumpla exactamente con el propósito de información señalado por el legislador y sin que pueda servir para otros fines.
+La entrega de la información, relativa a las obligaciones de los deudores de los bancos y sociedades financieras establecidos en el país para con el sistema financiero, es una excepción justificada, contemplada en la ley, de la reserva bancaria que protege los intereses de tales deudores, en la medida que cumpla exactamente con el propósito de información señalado por el legislador y sin que pueda servir para otros fines.
 
 De allí que la información que refunde esta Superintendencia es de uso estrictamente confidencial y exclusivo y por motivo alguno debe circular en medios ajenos a la institución que la recibe.
 
@@ -20283,18 +20243,6 @@ A fin de evitar el mal uso que podría dársele a esta información, las institu
 Los funcionarios a quienes se les otorgue acceso a la información, deben ser instruidos en forma clara y precisa acerca del cuidado y reserva que deben mantener respecto de ella y de la responsabilidad que afectará a la institución en caso que ella se proporcione a terceros, distintos de los propios deudores.
 
 Por su parte, el artículo 14 de la Ley General de Bancos, establece penas corporales para las personas que revelen el contenido de la información sobre deudores de que se trata.
-
-7.- Oportunidad en la eliminación de deudas que ya no deben informarse.
-
-Lo dispuesto en las letras i) y j) del N° 1 del presente Capítulo, como asimismo lo indicado en su N° 3, obliga a los bancos a eliminar de la información que mensualmente proveen para su refundición, todas las deudas que se encuentren en las situaciones que se indican en esas instrucciones.
-
-Por consiguiente, es imprescindible que los bancos mantengan procedimientos efectivos para dar un cumplimiento oportuno a esas disposiciones y evitar los eventuales reclamos de los deudores afectados por el envío de datos que dejaron de ser fidedignos.
-
-Dada la importancia de lo anterior, los procedimientos utilizados por el banco para precaver las omisiones en la eliminación de deudas, serán objeto de evaluación por parte de esta Superintendencia en relación con lo dispuesto en el Capítulo 1-13 de esta Recopilación, considerando, entre otras cosas, las presentaciones que hayan hecho los deudores a este Organismo.
-
-8.- Disposición transitoria.
-
-Las instrucciones contenidas en el presente Capítulo rigen a contar del año 2004 Durante el año 2003 las instituciones se ceñirán a las instrucciones vigentes hasta la fecha del reemplazo del presente Capítulo.
 
 CAPITULO 18-6 (Bancos y Financieras)
 
