@@ -1,0 +1,5 @@
+AUTORIZA A AQUASUR FISCHERIES SOCIEDAD PESQUERA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 824 de 08 de Agosto de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Aquasur Fisheries Sociedad, Pesquera Limitada, R.U.T. No. 79.728.530-7, domiciliada en Santiago, Comuna de Providencia, para ampliar las actividades pesqueras autorizadas por resoluciones No. 1246, y No. 1440, de 1987, ambas de esta Subsecretaria, en orden a incluir entre los recursos que tiene facultados a elaborar por las resoluciones antes citadas, el Culengue. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 08 de Agosto de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
