@@ -1,0 +1,11 @@
+Por decreto MOP exento Nº 481, de 30 de marzo de 2004, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para Essbio S.A. los lotes de terreno Nº s. 1, 2, 3, 4, 5, 7, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27 y 28, necesarios para la ejecución de la obra
+
+"Alcantarillado Red de Aguas Servidas, Colector Poniente", que figuran a nombre de Francisca Antonia Orue Binimelis, Plácido Constanzo Carrasco, Humberto del Carmen Díaz Solís, Sucesión Rosa Yáñez Torres, Leandro Retamal Parra, Suc. Soto-Aguilar González Rafael, Juan Raul Gutiérrez Gutiérrez, Regina del C. Torres Romero, Zoraida Alvarez Moraga, Juan Arriagada Castañeda, Ivonne Elizabeth Fraile Leal, Carmen del Rosario Aguayo Amaya, Eloísa Nova Parra, Leandro Segundo Retamal Parra, Fedelina San Martín Concha y otro, Neli Alfonsina Guzmán Puentes, Belarmino Vera Llanos, Luis Alberto Neira y otra, Gennoveva Isabel Rebolledo Matamala, Elizario Alvear Vargas, Eduardo del C. Fuentes Escare, Osvaldo René Moscoso Soto y Miguel A. Cartes Rodríguez, Rol de Avalúo 16-009, 16-011, 16-013, 17-001, 18-002, 18004, 18-006, 18-007, 19-001, 19-002, 19-003, 21-042, 21-044, 21-001, 21-008, 7-001, 7-010, 7-009, 7-006, 7-003, 7-007, 8-012 y 8-011, comuna de Coelemu, VIII Región, superficies 79.83, 69.97, 34.67, 197.43, 126.71, 85.77, 55.48, 74.37, 96.18, 102.22, 42.80, 36.0, 82.84, 216.31, 54.82, 59.43, 35.53, 39.85, 34.83, 102.07, 70.88, 19.69 y 35.93 M2. La Comisión de peritos fijó con fecha 7 de febrero de 2004, el valor provisional de la indemnización en la cantidad de $1.341.144, lote 1;
+
+$990.397, lote 2; $465.965, lote 3; $2.391.777, lote 4;
+
+$1.530.110, lote 5; $1.008.655, lote 7; $652.445, lote 9; $1.019.533, lote 10; $1.474.242, lote 11; $1.388.837, lote 12; $620.232, lote 13; $483.840, lote 17;
+
+$1.113.370, lote 18; $2.907.206, lote 19; $828.878, lote 20; $898.582, lote 21; $537.214, lote 22; $612.532, lote 23; $585.144, lote 24; $1.764.776, lote 25; $1.468.941, lote 26; $396.950, lote 27 y $663.986, lote 28. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
