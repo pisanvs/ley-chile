@@ -18436,23 +18436,11 @@ señalado en el número siguiente.
 
 ### 3. Instrumentos de oferta pública
 
-Son garantía para los efectos de límites de crédito, los instrumentos de oferta
-
-pública que, a la fecha de otorgamiento del crédito que caucionan, se encuentren
-
-clasificados en categorías "A" o "B" por la Comisión Clasificadora de Riesgo
-
-creada por el DL. N° 3.500 de 1980 y sus modificaciones. Conforme a lo dispuesto
-
-en los artículos 45 y 104 de dicho decreto ley, los instrumentos de renta fija
-
-calificados y, por lo tanto, válidos como garantía para límites individuales de
+Son garantía para los efectos de límites de crédito, los instrumentos de oferta pública que, a la fecha de otorgamiento del crédito que caucionan, se encuentren clasificados en categorías "A" o "B" por la Comisión Clasificadora de Riesgo creada por el DL. N° 3.500 de 1980 y sus modificaciones. Conforme a lo dispuesto en los artículos 45 y 104 de dicho decreto ley, los instrumentos de renta fija calificados y, por lo tanto, válidos como garantía para límites individuales de
 
 crédito, corresponden a:
 
-i) depósitos a plazos y otros emitidos por las instituciones financieras con
-
-motivo de captaciones de dinero;
+i) depósitos a plazos y otros emitidos por las instituciones financieras con motivo de captaciones de dinero;
 
 ii) títulos garantizados por instituciones financieras;
 
@@ -18460,21 +18448,9 @@ iii) letras de crédito emitidas por instituciones financieras; y
 
 iv) bonos de empresas públicas y privadas inscritos en el Registro de Valores.
 
-Al tratarse de documentos emitidos por la propia institución financiera que los
+Al tratarse de documentos emitidos por la propia institución financiera que los recibe en garantía, sólo podrán considerarse para efectos de márgenes, si su fecha de emisión es anterior en, a lo menos, treinta días a la fecha de concesión o de renovación del crédito que garanticen. Para estos efectos se entenderá que también cumplen el requisito de plazo mencionado, los documentos emitidos con motivo de la renovación de un depósito a plazo fijo o renovable, aun cuando no hayan transcurrido 30 días desde esa fecha, siempre que el depósito original haya sido emitido a lo menos 30 días antes de la fecha de otorgamiento o renovación del crédito caucionado y que el monto que se compute como garantía no exceda del importe del depósito que se renueva, incluidos los intereses y, cuando proceda, los reajustes capitalizados.
 
-recibe en garantía, sólo podrán considerarse para efectos de márgenes, si su
-
-fecha de emisión es anterior en, a lo menos, treinta días a la fecha de
-
-concesión o de renovación del crédito que garanticen.
-
-Las acciones, al no ser instrumentos de renta fija, no sirven como garantías
-
-para efectos de límite. Tampoco pueden considerarse como garantía para estos
-
-efectos, los depósitos en cuentas de ahorro, ya que la libreta en que consta su
-
-saldo no es un título de crédito.
+Las acciones, al no ser instrumentos de renta fija, no sirven como garantías para efectos de límite. Tampoco pueden considerarse como garantía para estos efectos, los depósitos en cuentas de ahorro, ya que la libreta en que consta su saldo no es un título de crédito.
 
 ### 4. Documentos de embarque
 
@@ -37048,197 +37024,63 @@ ZONAS FRANCAS.
 
 1.1.- Generalidades.
 
-Las cartas de crédito correspondientes a operaciones de importación, como es
+Las cartas de crédito correspondientes a operaciones de importación, como es sabido, consisten en un documento emitido por un banco situado en Chile,mediante el cual éste se compromete, por cuenta de su cliente, a pagar una determinada suma de dinero a un exportador o beneficiario situado en el exterior, a la vista o a plazo, o bien a aceptar o pagar las letras de cambio libradas por el beneficiario siempre que se cumplan las condiciones señaladas en el acreditivo.
 
-sabido, consisten en un documento emitido por un banco situado en Chile,mediante
-
-el cual éste se compromete, por cuenta de su cliente, a pagar una determinada
-
-suma de dinero a un exportador o beneficiario situado en el exterior, a la vista
-
-o a plazo, o bien a aceptar o pagar las letras de cambio libradas por el
-
-beneficiario siempre que se cumplan las condiciones señaladas en el acreditivo.
-
-Las referidas cartas de crédito pueden ser revocables o irrevocables y
-
-confirmadas o sin confirmación.
+Las referidas cartas de crédito pueden ser revocables o irrevocables y confirmadas o sin confirmación.
 
 1.2.- Emisión de cartas de crédito.
 
-Los bancos situados en Chile, a petición de sus clientes y de acuerdo con sus
-
-instrucciones, pueden emitir cartas de crédito que amparen el embarque de
-
-mercaderías desde el exterior con destino a Chile, de conformidad con las
-
-disposiciones vigentes sobre dichas operaciones. Igualmente, las empresas
-
-bancarias pueden emitir cartas de crédito por su propia cuenta, cuando se trate
+Los bancos situados en Chile, a petición de sus clientes y de acuerdo con sus instrucciones, pueden emitir cartas de crédito que amparen el embarque de mercaderías desde el exterior con destino a Chile, de conformidad con las disposiciones vigentes sobre dichas operaciones. Igualmente, las empresas bancarias pueden emitir cartas de crédito por su propia cuenta, cuando se trate
 
 de importaciones de bienes para su uso.
 
-Para proceder a la apertura de una carta de crédito para importación, se debe
+Para proceder a la apertura de una carta de crédito para importación, se debe contar con el correspondiente Informe de Importación, emitido por el Banco Central de Chile, salvo para aquellas importaciones en que las normas del Instituto Emisor dispensan la exigencia de ese documento o autorizan que el importador obtenga su emisión con posterioridad a la fecha de embarque de la respectiva mercadería.
 
-contar con el correspondiente Informe de Importación, emitido por el Banco
-
-Central de Chile, salvo para aquellas importaciones en que las normas del
-
-Instituto Emisor dispensan la exigencia de ese documento o autorizan que el
-
-importador obtenga su emisión con posterioridad a la fecha de embarque de la
-
-respectiva mercadería.
-
-Asimismo, los bancos pueden emitir cartas de crédito que amparen el envío de
-
-mercaderías desde el extranjero a las Zonas Francas del país. Para el reembolso
-
-de estas cartas de crédito no se cuenta con acceso al mercado de divisas, a
-
-diferencia de aquéllas que se abran para realizar importaciones al resto del
-
-país, las cuales tienen ese acceso, en la medida que cumplan con las normas
+Asimismo, los bancos pueden emitir cartas de crédito que amparen el envío de mercaderías desde el extranjero a las Zonas Francas del país. Para el reembolso de estas cartas de crédito no se cuenta con acceso al mercado de divisas, a diferencia de aquéllas que se abran para realizar importaciones al resto del país, las cuales tienen ese acceso, en la medida que cumplan con las normas
 
 fijadas para el efecto por el Banco Central de Chile.
 
+Con respecto al plazo de validez de las cartas de crédito para importaciones, debe tenerse presente que ellas se emiten al amparo de lo dispuesto en el N° 6 del artículo 83 de la Ley General de Bancos y, por lo tanto, no les es aplicable la limitación del N° 7 del mismo artículo 83, que faculta la emisión de cartas de crédito con plazos que no excedan de un año. En consecuencia, el plazo de validez debe sujetarse sólo al que hubiere aprobado el Banco Central de Chile o, en su defecto, al convenido con el solicitante siempre que se ajuste, en lo que corresponda, a lo establecido en las Normas de Importación del Instituto Emisor.
+
 1.3.- Financiamiento de las cartas de crédito.
 
-Las cartas de crédito que emitan las instituciones bancarias pueden ser
+Las cartas de crédito que emitan las instituciones bancarias pueden ser financiadas por las personas que hayan solicitado su apertura, mediante la entrega al banco emisor del respectivo importe en moneda extranjera o de su equivalente en moneda chilena, como también pueden ser financiadas por el banco que emita dichos documentos. En este último caso, los créditos deberán
 
-financiadas por las personas que hayan solicitado su apertura, mediante la
+documentarse mediante la suscripción de un pagaré o la aceptación de una letra de cambio que podrán tener carácter de provisionales hasta la negociación de la carta de crédito, oportunidad en que se remplazarán por un documento definitivo,por el valor de la operación.
 
-entrega al banco emisor del respectivo importe en moneda extranjera o de su
+Cuando se trate de cartas de crédito financiadas en moneda chilena por el solicitante, se convendrá libremente entre éste y el banco emisor de la carta de crédito el tipo de cambio que se utilizará para determinar el monto provisional en pesos. Asimismo, en estos casos, se deberá firmar un contrato en el que se deje constancia de la venta condicional de moneda extranjera y se indique la responsabilidad del solicitante por las posibles fluctuaciones del tipo de cambio que pudieran afectar a la operación hasta la fecha de la cobertura definitiva.
 
-equivalente en moneda chilena, como también pueden ser financiadas por el banco
+1.4.- Cartas de crédito rembolsables por intermedio de un Convenio de Pagos y Créditos Recíproco.
 
-que emita dichos documentos. En este último caso, los créditos deberán
+Las cartas de crédito que amparen importaciones desde Argentina, Bolivia,Brasil, Colombia, Ecuador, México, Paraguay, Perú, República Dominicana, Uruguay y Venezuela, cuyo pago debe efectuarse por intermedio del Convenio de Pagos y Créditos Recíproco a que se refiere el Capítulo XXVII del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, deberán llevar la leyenda:
 
-documentarse mediante la suscripción de un pagaré o la aceptación de una letra
-
-de cambio que podrán tener carácter de provisionales hasta la negociación de la
-
-carta de crédito, oportunidad en que se remplazarán por un documento
-
-definitivo,por el valor de la operación.
-
-Cuando se trate de cartas de crédito financiadas en moneda chilena por el
-
-solicitante, se convendrá libremente entre éste y el banco emisor de la carta de
-
-crédito el tipo de cambio que se utilizará para determinar el monto provisional
-
-en pesos. Asimismo, en estos casos, se deberá firmar un contrato en el que se
-
-deje constancia de la venta condicional de moneda extranjera y se indique la
-
-responsabilidad del solicitante por las posibles fluctuaciones del tipo de
-
-cambio que pudieran afectar a la operación hasta la fecha de la cobertura
-
-definitiva.
-
-1.4.- Cartas de crédito rembolsables por intermedio de un Convenio de Pagos y
-
-Créditos Recíproco.
-
-Las cartas de crédito que amparen importaciones desde Argentina, Bolivia,Brasil,
-
-Colombia, Ecuador, México, Paraguay, Perú, República Dominicana, Uruguay y
-
-Venezuela, cuyo pago debe efectuarse por intermedio del Convenio de Pagos y
-
-Créditos Recíproco a que se refiere el Capítulo XXVII del Compendio de Normas de
-
-Cambios Internacionales del Banco Central de Chile, deberán llevar la leyenda:
-
-"REEMBOLSO A TRAVES DEL CONVENIO CHILENO..................BAJO EL
+"REEMBOLSO A TRAVES DEL CONVENIO CHILENO............BAJO EL
 
 N°............".
 
-El rembolso de estas cartas de crédito, sólo puede ser solicitado por
-
-instituciones que los respectivos Bancos Centrales mantengan incluidas en las
-
-listas de "instituciones autorizadas", contenidas en el Capítulo XXVII del
-
-Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+El rembolso de estas cartas de crédito, sólo puede ser solicitado por instituciones que los respectivos Bancos Centrales mantengan incluidas en las listas de "instituciones autorizadas", contenidas en el Capítulo XXVII del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
 1.5.- Intereses sobre cartas de crédito.
 
-Los bancos podrán pactar libremente con los ordenantes de las cartas de crédito
+Los bancos podrán pactar libremente con los ordenantes de las cartas de crédito para importación, los intereses en moneda chilena que cobrarán sobre dichas operaciones, como asimismo aquéllos en moneda extranjera que aplicarán con sujeción a lo dispuesto en el Capítulo XV del Compendio de Normas de Importación del Banco Central de Chile.
 
-para importación, los intereses en moneda chilena que cobrarán sobre dichas
+Asimismo, cuando se trate de cartas de crédito que amparen embarques de mercaderías desde el exterior destinadas a las Zonas Francas del país, los bancos podrán acordar con los respectivos ordenantes, los intereses en moneda chilena o en moneda extranjera que cobrarán sobre dichas operaciones.
 
-operaciones, como asimismo aquéllos en moneda extranjera que aplicarán con
+Cuando una carta de crédito sea pagada en moneda extranjera por el ordenante al momento de su apertura, los bancos no podrán cobrar intereses sobre tales operaciones. Del mismo modo, cuando un acreditivo sea financiado en moneda chilena por el ordenante, los bancos no podrán cobrar intereses en moneda chilena sobre ellos, mientras se mantenga dicho depósito y hasta por el
 
-sujeción a lo dispuesto en el Capítulo XV del Compendio de Normas de Importación
-
-del Banco Central de Chile.
-
-Asimismo, cuando se trate de cartas de crédito que amparen embarques de
-
-mercaderías desde el exterior destinadas a las Zonas Francas del país, los
-
-bancos podrán acordar con los respectivos ordenantes, los intereses en moneda
-
-chilena o en moneda extranjera que cobrarán sobre dichas operaciones.
-
-Cuando una carta de crédito sea pagada en moneda extranjera por el ordenante al
-
-momento de su apertura, los bancos no podrán cobrar intereses sobre tales
-
-operaciones. Del mismo modo, cuando un acreditivo sea financiado en moneda
-
-chilena por el ordenante, los bancos no podrán cobrar intereses en moneda
-
-chilena sobre ellos, mientras se mantenga dicho depósito y hasta por el
-
-equivalente del importe que ampare a la respectiva carta de crédito.
-
-En ningún caso los intereses que se cobren sobre estas operaciones, podrán
-
-exceder la tasa de interés máxima convencional a que se refiere el artículo 6°
-
-de la Ley N° 18.010.
+equivalente del importe que ampare a la respectiva carta de crédito. En ningún caso los intereses que se cobren sobre estas operaciones, podrán exceder la tasa de interés máxima convencional a que se refiere el artículo 6° de la Ley N° 18.010.
 
 1.6.- Comisiones y otros gastos.
 
-Los bancos podrán convenir libremente con sus clientes la comisión que cobrarán
-
-sobre las cartas de crédito de que se trata, como asimismo los gastos de télex,
-
-teléfono, correo y otros similares, los que deberán ser cobrados en moneda
-
-chilena.
+Los bancos podrán convenir libremente con sus clientes la comisión que cobrarán sobre las cartas de crédito de que se trata, como asimismo los gastos de télex, teléfono, correo y otros similares, los que deberán ser cobrados en moneda chilena.
 
 1.7.- Gastos en moneda extranjera.
 
-Las instituciones bancarias podrán cubrir los importes correspondientes a
+Las instituciones bancarias podrán cubrir los importes correspondientes a comisiones, gastos de télex y otros que les carguen sus corresponsales, inherentes a este tipo de operaciones. Estos gastos, cuando se trate de importaciones con acceso al mercado de divisas, podrán incluirse en la respectiva cobertura de la operación o, en su defecto, podrá hacerse en forma separada, declarando las respectivas ventas al Banco Central de Chile, en la forma prevista en las Normas de Importación del Instituto Emisor.
 
-comisiones, gastos de télex y otros que les carguen sus corresponsales,
+1.8.- Intereses, comisiones y gastos correspondientes a cartas de crédito no utilizadas.
 
-inherentes a este tipo de operaciones. Estos gastos, cuando se trate de
-
-importaciones con acceso al mercado de divisas, podrán incluirse en la
-
-respectiva cobertura de la operación o, en su defecto, podrá hacerse en forma
-
-separada, declarando las respectivas ventas al Banco Central de Chile, en la
-
-forma prevista en las Normas de Importación del Instituto Emisor.
-
-1.8.- Intereses, comisiones y gastos correspondientes a cartas de crédito no
-
-utilizadas.
-
-Los bancos podrán cobrar los intereses y gastos en moneda chilena convenidos con
-
-sus clientes, correspondientes a cartas de crédito no utilizadas, como asimismo,
-
-los gastos en moneda extranjera cobrados por sus corresponsales sobre dichas
-
-operaciones.
+Los bancos podrán cobrar los intereses y gastos en moneda chilena convenidos con sus clientes, correspondientes a cartas de crédito no utilizadas, como asimismo, los gastos en moneda extranjera cobrados por sus corresponsales sobre dichas operaciones.
 
 2.- Cobranzas del exterior.
 
