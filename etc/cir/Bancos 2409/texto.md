@@ -8230,11 +8230,13 @@ Con acuerdo del Directorio de la institución en relación con tipos o grupos de
 
 a) Colocaciones hasta un año, correspondientes a créditos de comercio exterior. Para este efecto se entiende que corresponden a "créditos de comercio exterior", comprendiendo tanto el comercio exterior chileno como el realizado entre terceros países, lo siguiente:
 
-i) Las operaciones amparadas por cartas de crédito documentarías irrevocables que se encuentren en su etapa contingente; y,
+i) Las operaciones amparadas por cartas de crédito documentarías irrevocables que se encuentren en su etapa contingente.
 
 ii) Los financiamientos de operaciones de comercio exterior realizadas con Chile o entre terceros países, asociados al pago del valor de mercadería que haya sido embarcada. Cumplen esta condición, por ejemplo, la negociación de cartas de crédito o la adquisición o descuento de los documentos provenientes de su negociación; el financiamiento a bancos emisores para pagar cartas de crédito negociadas; el pago anticipado de cartas de crédito negociadas a plazo; la adquisición de letras de cambio o pagarés provenientes del pago de operaciones de comercio exterior efectuadas bajo la forma de cobranza; los préstamos otorgados a importadores o exportadores contra presentación de copias de los documentos de embarque, etc.
 
-b) Créditos contingentes hasta un año. Incluye avales y fianzas, cartas de crédito stand by y boletas de garantía.
+iii) Los avales, fianzas y cartas de crédito stand by a menos de un año, relacionados directamente con las operaciones de comercio exterior a que se refieren los literales anteriores.
+
+b) Créditos contingentes hasta un año. Incluye avales y fianzas, cartas de crédito stand by y boletas de garantía, siempre que se trate de deudores establecidos en países clasificados al menos en categoría 4 según las reglas de este Capítulo.
 
 c) Créditos hasta 180 días, de cualquier tipo, otorgados a bancos que cuenten con una clasificación internacional efectuada por alguna de las firmas señaladas en el Capítulo 1-12 de esta Recopilación, cualquiera sea la categoría de riesgo que éstas le hayan asignado, y que se encuentren situados en países clasificados al menos en categoría 4 según las reglas de este Capítulo.
 
@@ -8483,6 +8485,20 @@ El emisor u operador, según corresponda, deberá mantener los medios y establec
 3.4. Seguro por mal uso de la tarjeta.
 
 El emisor podrá contratar un seguro por el mal uso que se le pueda dar a las tarjetas de crédito, cuando éstas sean perdidas, robadas o hurtadas. En la misma forma podrán contratar esos seguros los operadores de tarjetas de crédito, en los casos que estimen necesario hacerlo.
+
+3.5.- Cobro de comisiones a los titulares.
+
+Las comisiones deberán fijarse para determinados períodos que no podrán ser inferiores a un año. El plan de comisiones que afecte a un titular deberá serle informado por escrito al menos con dos meses de anticipación a la fecha en que se aplicará la nueva modalidad de cálculo o cambio de tarifas. Durante el período elegido no podrá modificarse el plan informado, salvo que se trate de cambios que signifiquen una disminución o eliminación de los cobros por ese concepto.
+
+En ningún caso podrán cobrarse importes adicionales a las comisiones, a título de gastos incurridos (como procesamiento de datos, envío de los estados de cuenta, seguros, etc.), puesto que ellos no se efectúan por cuenta de los clientes sino que corresponden a los costos necesarios para proveer el servicio ofrecido por el emisor.
+
+A los interesados se les informará del sistema de comisiones vigente y del período durante el cual éste rige, así como la oportunidad o frecuencia con que se realiza su cobro. Al momento de contratar, el nuevo tarjetahabiente dejará constancia escrita de haber recibido la información pertinente.
+
+En la información que se entregue a los interesados, como asimismo en la comunicación que se envíe a los titulares para informar el cambio de modalidades o tarifas, deberán incluirse todos los antecedentes necesarios para que ellos puedan verificar posteriormente el cálculo de las
+
+comisiones que se cargan a su cuenta.
+
+Al tratarse de comisiones cobradas en forma anticipada, como ocurre normalmente cuando ellas se refieren a un período, se dejará constancia de la forma en que se procederá con las eventuales devoluciones en caso de desahucio.
 
 ### 4. Estados de cuentas para el titular de la tarjeta
 
