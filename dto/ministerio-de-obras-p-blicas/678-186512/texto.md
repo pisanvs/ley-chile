@@ -1,0 +1,3 @@
+Por decreto MOP Nº 678, de 30 de abril de 2001, se expropió el lote de terreno Nº 694, superficie 6.001 m², rol de avalúo 136-77, comuna de Paine, para la obra Concesión Internacional Ruta 5, Tramo Santiago - Talca, Sector C: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Florentino Ramiro Araneda Bravo, ascendente a la cantidad de $7.216.427.-
+
+Fiscal del Ministerio de Obras Públicas.
