@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº 146 de fecha 25 de febrero del 2002, se expropiaron los lotes de terreno Nº 83-B y 83-C, superficies 28,32, 858,00 m2., Rol de Avalúo Nº 133-41, comuna de Dalcahue, para la obra "Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid-Pid)-Putemun-Dalcahue", X Región y se acordó el valor de indemnización con su propietario Antonio Segundo Cárcamo Ojeda y Otra, ascendente a la cantidad de $841.274.
+
+- Fiscal del Ministerio de Obras Públicas.
