@@ -1,0 +1,3 @@
+Por resolución Nº952, de 22 de mayo de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº97110270, presentada por PESQUERA QUELLON LIMITADA, para operar un centro de cultivo ubicado en canal Vicuña, comuna y provincia de Aysén, XI Región, conforme a lo dispuesto en el artículo 67, inciso 5º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 22 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
