@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº712, de fecha 30 de Abril de 2002, se expropiaron los lotes de terreno Nºs. 39, 41, 42, 43, 46, 48, 49, 50, 54 y 57-A, superficies 50 m2, 100 m2, 650 m2, 360 m2, 475 m2, 125 m2, 175 m2, 90 m2, 130 m2 y 130 m2, respectivamente, rol de avalúo 139-14, comuna de Sagrada Familia, VII Región, para la obra ''Camino Ruta K-16, Sector Santa Emilia-Villa Prat, Tramo Km. 26,200 al 37,786.72'' y se acordó el valor de indemnización con su propietaria doña María Edita Ponce Ponce y Otro, ascendente a la cantidad de $657.111.-
+
+Fiscal del Ministerio de Obras Públicas.
