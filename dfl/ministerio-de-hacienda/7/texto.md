@@ -1,0 +1,1 @@
+Reemplaza el artículo 11° de la ley 10.383, de 8 de agosto de 1952, que estableció la composición del Consejo Directivo del Servicio de Seguro Social.
