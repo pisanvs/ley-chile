@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 532, de 30 de mayo de 2003, se dejó sin efecto el decreto MOP exento Nº 1777 de fecha 31 de diciembre del 2002, en la parte que se refiere a los lotes Nºs 10, 12, 14, 18, 24-C y 24-E, expropiados para la ejecución de la obra: Camino Ruta K-620, Sector Culenar - Maule, Tramo Km. 0,000.00 a Km.
+
+10.520.00, roles de avalúo Nºs. 166-15, 166-24, 166-17, 168-2, 174-1 y en trámite de la comuna de Maule, superficies 178,9; 200,2; 219,4; 87,4; 431,6 y 725 metros cuadrados respectivamente, y que figuran a nombre de Lorca Cerda Gonzalo y Otro, Morales Bravo Guillermo, Yánez Vásquez Cervando, Sociedad Agrícola San Luis De, Soc Inmob Inversiones Dinamic, Constructora Candia. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
