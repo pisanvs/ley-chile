@@ -15672,7 +15672,7 @@ Las inversiones en sociedades filiales se registrarán en la cuenta "Inversiones
 
 Al tratarse de una nueva sociedad, el registro en la cuenta "Inversiones en sociedades filiales" se efectuará al momento de girarse el aporte de capital o pagarse las acciones suscritas.
 
-Las utilidades reconocidas proporcionalmente se registrarán en la cuenta "Utilidades de inversiones en sociedades" de la partida 8315 del MR1, en tanto que las pérdidas se imputarán a la cuenta "Pérdidas por inversiones en sociedades" de la partida 6315.
+Las utilidades reconocidas proporcionalmente se registrarán en la cuenta "Utilidades de inversiones en sociedades filiales" de la partida 8350, en tanto que las pérdidas se imputarán a la cuenta "Pérdidas por inversiones en sociedades filiales" de la partida 6350.
 
 13.3. Diferencias entre el valor pagado y el valor patrimonial proporcional.
 
@@ -15942,7 +15942,7 @@ Las inversiones en las sociedades de que se trata se registrarán en la cuenta "
 
 Al tratarse de una nueva sociedad, el registro en la cuenta "Inversiones en sociedades de apoyo"? se efectuará al momento de girarse el aporte de capital o pagarse las acciones suscritas.
 
-Las utilidades reconocidas proporcionalmente se registrarán en la cuenta "Utilidades de inversiones en sociedades" de la partida 8315 del MR1, en tanto que las pérdidas se imputarán a la cuenta "Pérdidas por inversiones en sociedades" de la partida 6315.
+Las utilidades reconocidas proporcionalmente se registrarán en la cuenta "Utilidades de inversiones en sociedades de apoyo" de la partida 8350, en tanto que las pérdidas se imputarán a la cuenta "Pérdidas por inversiones en sociedades de apoyo" de la partida 6350.
 
 12.1.3. Diferencias entre el valor pagado y el valor patrimonial proporcional.
 
@@ -15966,13 +15966,13 @@ Si se enajenaren las inversiones que hayan originado los saldos remanentes de la
 
 12.2. Inversiones con menor participación.
 
-Cuando la institución financiera tenga en una sociedad de apoyo, una participación inferior a la señalada en el numeral 12.1 anterior, las inversiones se registrarán a su valor de costo más corrección monetaria, en la cuenta "Inversiones en sociedades de apoyo" antes mencionada.
+Cuando la institución financiera tenga en una sociedad de apoyo, una participación inferior a la señalada en el numeral 12.1 anterior, las inversiones se registrarán a su valor de costo más corrección monetaria, en la cuenta "Utilidades percibidas de sociedades de apoyo" antes mencionada.
 
 En este caso, la institución financiera deberá constituir provisiones sobre dichas inversiones para cubrir el menor valor que puedan tener sus acciones o derechos, tomando como valor de referencia de éstos el que se obtiene de aplicar el porcentaje de participación en la sociedad al total del patrimonio contable que muestren los estados financieros de la empresa de apoyo, esto es, el capital, reservas y resultado acumulado por lo menos hasta el cierre del mes precedente.
 
 Dichas provisiones se constituirán abonando la cuenta "Provisiones sobre inversiones en sociedades", de la partida 4240 del MB1, con cargo a la cuenta del mismo nombre de la partida 6135 del MR1. Cuando el monto de las provisiones constituidas exceda el monto exigido, las instituciones financieras liberarán el exceso revirtiendo esa contabilización y llevando la parte que provenga del ejercicio anterior, cuando corresponda, a la cuenta "Liberación de provisiones sobre inversiones en sociedades" de la partida 8110 del MR1.
 
-Por otra parte, en el caso de las inversiones de que trata este numeral, los dividendos o beneficios que las empresas de apoyo repartan a la institución financiera se acreditarán a la cuenta "Dividendos obtenidos de inversiones en sociedades", de la partida 8315 del MR1, por los importes efectivamente percibidos.
+Por otra parte, en el caso de las inversiones de que trata este numeral, los dividendos o beneficios que las empresas de apoyo repartan a la institución financiera se acreditarán a la cuenta "Dividendos obtenidos de inversiones en sociedades", de la partida 8350, por los importes efectivamente percibidos.
 
 CAPITULO 11-4 (Bancos y Financieras)
 
@@ -16038,13 +16038,13 @@ Las demás acciones o derechos en sociedades se registrarán de acuerdo con lo s
 
 3.1.- Inversiones en el exterior.
 
-Las inversiones en entidades del exterior de que trata la letra b) del numeral 1.1 de este Capitulo, se registrarán en la cuenta "Acciones de bancos del exterior" o "Acciones SWIFT", según corresponda, ambas de la partida 2310, por el importe en moneda extranjera desembolsado.
+Las inversiones en entidades del exterior de que trata la letra b) del numeral 1.1 de este Capitulo, se registrarán en la cuenta "Acciones de bancos del exterior" o "Acciones SWIFT", según corresponda, ambas de la partida 2320, por el importe en moneda extranjera desembolsado.
 
 Si la inversión se efectúa con moneda extranjera adquirida en el mercado cambiario, el importe de la moneda respectiva se imputará a la cuenta "Conversión acciones entidades del exterior", de la partida 4510. La suma desembolsada en moneda chilena por la adquisición de las divisas, se cargará a la cuenta "Cambio acciones entidades del exterior", de la partida 2510. El ajuste de esta última cuenta se efectuará con abono a la cuenta de resultados "Utilidades por ajustes tipo de cambio acciones entidades del exterior", de la partida 7710.
 
 3.2.- Acciones de empresas de suministro de energía eléctrica.
 
-Las acciones de que trata la letra e) del numeral 1.1 de este Capítulo, se registrarán en la cuenta "Acciones Ley Servicios Eléctricos", de la partida 2310
+Las acciones de que trata la letra e) del numeral 1.1 de este Capítulo, se registrarán en la cuenta "Acciones Ley Servicios Eléctricos", de la partida 2320
 
 El saldo de esta cuenta quedará sujeto a corrección monetaria.
 
@@ -16052,9 +16052,9 @@ El saldo de esta cuenta quedará sujeto a corrección monetaria.
 
 3.2.1.- Reconocimiento de utilidades.
 
-Las utilidades por las inversiones en acciones se reconocerán sólo al momento de percibirse los respectivos dividendos, con abono a la cuenta "Utilidades de inversiones en sociedades", de la partida 8315, en moneda extranjera o nacional, según corresponda, sin perjuicio de que, tratándose de moneda extranjera, deba liquidarse a pesos chilenos, si así lo establecieren las condiciones bajo las cuales se autorizó la inversión o lo dispusieren las normas generales sobre la materia.
+Las utilidades por las inversiones en acciones se reconocerán sólo al momento de percibirse los respectivos dividendos, con abono a la cuenta "Utilidades percibidas de otras sociedades, de la partida 8350, en moneda extranjera o nacional, según corresponda, sin perjuicio de que, tratándose de moneda extranjera, deba liquidarse a pesos chilenos, si así lo establecieren las condiciones bajo las cuales se autorizó la inversión o lo dispusieren las normas generales sobre la materia.
 
-En el evento de que se reciban dividendos en acciones liberadas por inversiones en el exterior, se cargará la respectiva cuenta del activo en moneda extranjera con abono a la cuenta "Conversión acciones entidades del exterior" antes señalada y, simultáneamente, se cargará, por su equivalente en moneda chilena, la cuenta "Cambio acciones entidades del exterior", abonando la cuenta "Utilidades de inversiones en sociedades". Dicho equivalente se determinará sobre la base del tipo de cambio de representación contable de que trata el Capitulo 13-30 de esta Recopilación, vigente a la fecha de recepción de los dividendos
+En el evento de que se reciban dividendos en acciones liberadas por inversiones en el exterior, se cargará la respectiva cuenta del activo en moneda extranjera con abono a la cuenta "Utilidades percibidas de otras sociedades" antes señalada y, simultáneamente, se cargará, por su equivalente en moneda chilena, la cuenta "Cambio acciones entidades del exterior", abonando la cuenta "Utilidades de inversiones en sociedades". Dicho equivalente se determinará sobre la base del tipo de cambio de representación contable de que trata el Capitulo 13-30 de esta Recopilación, vigente a la fecha de recepción de los dividendos
 
 3.2.2.- Reconocimiento de pérdidas.
 
@@ -29310,39 +29310,39 @@ Las comisiones que se cobren sobre las cartas de crédito serán registradas en 
 
 El importe de los créditos financiados por los bancos que no sean pagados por el importador al término del plazo fijado para el efecto, será traspasado a Cartera Vencida en la misma moneda en que ellos se encuentren registrados, de conformidad con las normas generales sobre la materia.
 
-5.2.- Cartas de crédito por cuenta del propio banco emisor.
+5.2. Cartas de crédito por cuenta del propio banco emisor.
 
-5.2.1.- Apertura.
+5.2.1. Apertura.
 
-Debe: "Importaciones en tránsito", la que se demostrará en la partida 2310 si los bienes que se importan se integran al activo fijo, o en la partida 2120 si la importación corresponde a materiales fungibles.
+Debe: "Importaciones por cuenta propia", de la partida 2115 "Cuentas diversas".
 
-Haber: "Cartas de crédito por negociar por cuenta propia", la que se reflejará en la partida 3615 del formulario MB1.
+Haber: "Cartas de crédito por negociar por cuenta propia", de la partida 3615.
 
-5.2.2.- Negociación.
+5.2.2. Negociación.
 
-Debe: "Importaciones por cubrir", la que será demostrada en la partida 2310 ó
+Debe: "Importaciones en tránsito" de la partida 2305 si los bienes que se importan se integran al activo fijo, o de la partida 2120 si la importación corresponde a materiales fungibles.
 
-2120 del formulario MB1, según corresponda.
+Haber: - "Comisiones de agente por pagar", cuando proceda.
 
-Haber - "Comisiones de agente por pagar", cuando proceda.- "Adeudado al exterior por importaciones por cuenta propia", por la deuda contraída directamente con el proveedor extranjero, la que será demostrada en la partida 3040 ó 3070 del formulario MB1, según corresponda, o bien,
+- "Adeudado al exterior por importaciones por cuenta propia", por la deuda contraída directamente con el proveedor extranjero, de la partida 3040 6 3070, según proceda, o bien,
 
 - La cuenta que corresponda por el desembolso de la moneda extranjera.
 
-Simultáneamente debe revertirse el asiento contable señalado en el numeral 5.2.1
+Simultáneamente debe revertirse el asiento contable señalado en el numeral 5.2.1 precedente.
 
-precedente.
-
-5.2.3.- Cobertura.
+5.2.3. Cobertura.
 
 a) Moneda extranjera.
 
-Debe: "Conversión mercado bancario"Haber: "Importaciones por cubrir".
+Debe: "Conversión mercado bancario".
+
+Haber: "Importaciones tránsito".
 
 b) Moneda chilena.
 
 Debe: La cuenta de activo que corresponda según la naturaleza de los bienes importados.
 
-Haber: "Cambio mercado bancario", por el importe desembolsado en moneda chilena para el pago de las divisas destinadas a la cobertura de la operación.
+Haber: "Cambio mercado bancario".
 
 5.3.- Cobranzas del exterior.
 
@@ -30886,13 +30886,15 @@ Deben considerarse todos los contratos con vigencia en cualquier momento del eje
 
 Con todo, dado que las cifras de las notas deben expresarse en millones de pesos y que los montos inferiores son irrelevantes para los propósitos que se persiguen con su presentación, no se mencionarán en esta nota los contratos o transacciones con una parte relacionada, cuando la suma de los importes involucrados sea inferior al millón de pesos.
 
-4.4. Nota sobre inversiones en sociedades filiales y de apoyo al giro.
+4.4. Nota sobre inversiones en sociedades filiales y coligadas.
 
-En esta nota se incluirá la información sobre las inversiones en sociedades filiales o en sociedades de apoyo al giro de que tratan el N° 11 bis y el N° 15 bis del artículo 83 de la Ley General de Bancos y los Capítulos 11-2 y 11-3 de esta Recopilación Actualizada de Normas.
+En esta nota se identificarán las sociedades en las cuales la institución tenga una participación igual o superior al 10% sobre el capital pagado o las utilidades de la sociedad de que se trate. Se mostrará el importe registrado en el activo por cada inversión, el porcentaje de participación en esas sociedades y los resultados obtenidos por la aplicación del método del Valor Patrimonial Proporcional (VPP).
 
-Además de la información relativa a la identificación de las sociedades y a los saldos correspondientes a las inversiones y a los resultados obtenidos, se entregarán antecedentes básicos de esas sociedades. Estos antecedentes incluyen cifras resumidas de sus estados financieros anuales relativos al mismo ejercicio.
+Además de la información detallada para cada una de las sociedades filiales y coligadas, se entregarán antecedentes básicos de las sociedades filiales, esto es, de aquellas en que la institución tenga una participación superior al 50%. Estos antecedentes incluirán cifras resumidas de sus estados financieros anuales relativos al mismo ejercicio.
 
 La información se presentará de la forma que se señala en el Anexo N° 6 de este Capítulo.
+
+No se incluirá esta nota cuando sólo se tengan participaciones inferiores al 10% o para señalar que no existen inversiones en sociedades.
 
 4.5. Nota sobre provisiones.
 
@@ -31088,6 +31090,8 @@ OBSERVACIONES: [+]: Cifra que se obtiene después de los ajustes extracontables 
 
 > **Nota.** NOTA 1 El Numeral III, de la Circular 2532, SBIF, promulgada el 16. 03.1990, modifica el Anexo I, de la presente norma, en el sentido de eliminar las referencias a la partida 5625, atendido que las pérdidas por la enajenación de bienes recibidos o adjudicados en pago debe ser cubierta, en todos los casos, por la provisión constituida.
 
+> **Nota.** NOTA 2 La letra H) del N° 1 de la Circular 2632, SBIF, promulgada el 20.08.1991, modifica el presente anexo en la forma que en la citada norma se indica.
+
 ANEXO N° 2
 
 EXPLICACIONES GENERALES PARA LA PREPARACION DE LAS NOTAS ESTRUCTURADAS DE QUE TRATAN LOS ANEXOS SIGUIENTES
@@ -31136,19 +31140,19 @@ f) Activo fijo físico.
 
 El activo fijo se presenta valorizado al costo corregido monetariamente y neto de depreciaciones calculadas linealmente sobre la base de los años de vida útil de los respectivos bienes.
 
-g) Inversiones en sociedades/filiales /y /de apoyo al giro/.
+g) Inversiones en sociedades. (5)
 
-Las acciones o derechos en sociedades /filiales, /y de aquellas /destinadas a prestar apoyo al giro/ . se encuentran registrados en el activo a su valor patrimonial proporcional (VPP), reconociéndose por lo tanto sobre base devengada, los aumentos y disminuciones que afectan a la inversión
+Las acciones o derechos en sociedades /filiales/ y /de apoyo al giro en las cuales la institución tiene una participación igual o superior al 10%,/ se encuentran registrados en el activo a su valor patrimonial proporcional (VPP), reconociéndose por lo tanto sobre base devengada, los aumentos y disminuciones que afectan a la inversión.
 
 h) Provisiones sobre activos riesgosos.
 
-La institución ha constituido todas las provisiones necesarias para cubrir los riesgos de pérdida de los activos, de acuerdo con la metodología de cálculo de estimación de riesgos dispuesta por la Superintendencia de Bancos e Instituciones Financieras (Nota . ) (4)
+La institución ha constituido todas las provisiones necesarias para cubrir los riesgos de pérdida de los activos, de acuerdo con la metodología de cálculo de estimación de riesgos dispuesta por la Superintendencia de Bancos e Instituciones Financieras (Nota....). (4)
 
-I) Obligación subordinada con el Banco Central de Chile. (5)
+i) Obligación subordinada con el Banco Central de Chile.(5) (6)
 
-De acuerdo con lo dispuesto en el artículo 15 de la Ley N° 18401, la obligación subordinada que mantiene la institución con el Banco Central de Chile, originada por la novación de la obligación de recompra de la cartera de colocaciones, no se computa como pasivo exigible Su cumplimiento queda subordinado a la existencia de excedentes anuales que se produzcan En consecuencia, dicha obligación se encuentra registrada sólo en cuentas de orden
+De acuerdo con lo dispuesto en el artículo 15 de la Ley N° 18.401, la obligación subordinada que mantiene la institución con el Banco Central de Chile, originada por la novación de la obligación de recompra de la cartera de colocaciones, no se computa como pasivo exigible. Su cumplimiento queda subordinado a la existencia de excedentes anuales que se produzcan. En consecuencia, dicha obligación se encuentra registrada sólo en cuentas de orden.
 
-El derecho del Banco Central de Chile a percibir los excedentes netos que se hubieran producido en el periodo anual, / sin perjuicio del reparto de dividendos sobre acciones preferidas,/ se debe reconocer al cierre del ejercicio como "Provisión para pago obligación subordinada al Banco Central de Chile"
+El derecho del Banco Central de Chile a percibir los excedentes netos que se hubieran producido en el período anual,.../ sin perjuicio del reparto de dividendos sobre acciones preferidas,/... se debe reconocer al cierre del ejercicio como "Provisión para pago obligación subordinada al Banco Central de Chile".
 
 j) Impuestos diferidos.
 
@@ -31156,21 +31160,23 @@ De acuerdo con las instrucciones impartidas por la Superintendencia de Bancos e 
 
 INSTRUCCIONES:
 
-(1) Pueden indicarse salvedades si a juicio de los auditores externos existen diferencias importantes que deban mencionarse.
+(1): Pueden indicarse salvedades si a juicio de los auditores externos existen diferencias importantes que deban mencionarse.
 
 (2): Incluir este párrafo o la frase intercalada sólo si es significativo el monto de los intereses y reajustes no reconocidos en los resultados.
 
-(3): Párrafo no aplicable en el caso de sociedades financiera.
+(3): Párrafo no aplicable en el caso de sociedades financieras.
 
 (4): Referencia a la nota sobre provisiones, según el número que le corresponda a dicha nota.
 
-(5): Las instituciones financieras que mantengan la obligación de recomprar cartera al Banco Central de Chile, deberán incluir, en lugar de esto, la siguiente información:
+(5): Aplicable sólo en el caso de que existan saldos por los conceptos que se señalan.
+
+(6): Las instituciones financieras que mantengan la obligación de recomprar cartera al Banco Central de Chile, deberán incluir, en lugar de esto, la siguiente información:
 
 i) Venta de cartera al Banco Central de Chile.
 
 De conformidad con las instrucciones impartidas por el Organismo Contralor, la obligación de recompra de la Cartera de colocaciones vendida al Banco Central de Chile se contabiliza en cuentas de orden, debido a que el cumplimiento de dicho compromiso queda subordinado a la existencia de excedentes anuales que se produzcan, de acuerdo con las cláusulas de los contratos celebrados con el Instituto Emisor. La cartera vendida no forma parte de los activos de la empresa y, por consiguiente, no se requiere mantener provisiones para cubrir los riesgos de irrecuperabilidad de esas colocaciones.
 
-El derecho del Banco Central de Chile a percibir los excedentes netos que se hubieran producido en el período anual,.. ./sin perjuicio del reparto de dividendos sobre acciones preferidas,/... se debe reconocer al cierre del ejercicio como "Provisión para recompra de cartera al Banco Central de Chile".
+El derecho del Banco Central de Chile a percibir los excedentes netos que se hubieran producido en el período anual,.../ sin perjuicio del reparto de dividendos sobre acciones preferidas,/... se debe reconocer al cierre del ejercicio con "Provisión para recompra de cartera al Banco Central de Chile".
 
 ANEXO N° 4
 
@@ -31300,25 +31306,25 @@ El total de créditos relacionados que se considerará para indicar el porcentaj
 
 ANEXO N° 6
 
-Modelo de nota sobre inversiones en sociedades.
+Modelo de nota sobre inversiones en sociedades
 
-NOTA...- INVERSIONES EN SOCIEDADES FILIALES.
+NOTA... - INVERSIONES EN SOCIEDADES /FILIALES / Y / COLIGADAS.
 
-a) Participación en las sociedades
+a) Participación en las sociedades. (1)
 
-En el Balance General se presentan inversiones en sociedades por $... millones que corresponden a la participación del Banco en sociedades que complementan o facilitan las actividades bancarias, contempladas en el número 11 bis/ el numero 15 bis/ los números 11 bis y 15 bis / del artículo 83 de la Ley General de Bancos.
+En el Balance General se presentan inversiones en sociedades por $.............millones .... /que corresponden/de los cuales $ ............ millones corresponden/... a la participación de la institución en sociedades ../filiales/y/coligadas/..que .../complementan/o/ facilitan/ las actividades, contempladas en .../ el número 11 bis/ el número 15 bis/ los números 11 bis y 15 bis /...del artículo 83 de la Ley General de Bancos.
 
-Al 31 de diciembre de 19 el Banco tiene participación en las siguientes sociedades
+Al 31 de diciembre de 19... la institución tiene participación en las siguientes sociedades .../filiales/ y / coligadas...:
 
-.
-
-Principales cifras resumidas de sus Estados Financieros al 31 de diciembre 19:
-
-.
+Principales cifras resumidas de sus Estados Financieros al 31 de diciembre 19
 
 INSTRUCCIONES:
 
-(1): Incluir la información exigida para cada una de las sociedades.
+(1): Incluir los títulos ("a) Participación en sociedades." y "b) Antecedentes acerca de las sociedades filiales.") sólo en caso de que deba incluirse la sección b) en la nota, es decir, cuando realmente existan sociedades filiales.
+
+(2): Agregar los importes totales, cuando corresponda, por las acciones o derechos en sociedades que no son filiales ni coligadas, es decir de aquellas que representan una participación inferior al 10%.
+
+(3): Incluir la información exigida para cada una de las sociedades filiales, es decir, para aquellas en las cuales la institución tenga una participación mayor al 50%.
 
 ANEXO N° 7
 
@@ -31548,9 +31554,9 @@ MODELO DEL ESTADO DE SITUACION
 
 .
 
-INSTRUCCIONES
+INSTRUCCIONES:
 
-Los modelos señalados precedentemente se utilizarán siguiendo las mismas instrucciones que se indican en el Anexo N° 1 del Capítulo 18-1 de estas Normas, tanto en lo que se refiere al contenido de cada una de las líneas, como en la adaptación de los modelos a la situación particular de la institución financiera-
+Los modelos señalados precedentemente se utilizarán siguiendo las mismas instrucciones que se indican en el Anexo N° 1 del Capítulo 18-1 de estas Normas, tanto en lo que se refiere al contenido de cada una de las lineas, como en la adaptación de los modelos a la situación particular de la institución financiera.
 
 El modelo del estado de resultados que debe utilizarse contiene, sin embargo, menos líneas que aquel correspondiente al ejercicio anual La diferencia está sólo en la presentación resumida de las líneas signadas con las letras O, P y Q, de tal manera que los importes que corresponde consignar en cada una de estas líneas corresponderán a la suma de aquellos que se identifican con las mismas letras en el estado de resultados no resumido indicado en el Anexo N° 1 del Capítulo 18-1 (por ejemplo línea Q = Q1 + Q2 + Q3).
 
