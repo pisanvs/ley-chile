@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.042, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº48, superficie 43,31 m2., rol de avalúo 1130-4, comuna de Castro, para la obra ''Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid-Pid) - Putemún - Dalcahue, Km. 0,000 al 11,991647'' y se acordó el valor de indemnización con su propietaria María Eva Mansilla Mancilla, ascendente a la cantidad de $282.977.
+
+- Fiscal del Ministerio de Obras Públicas.
