@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº401 de fecha 28 de marzo del 2002, se expropiaron los lotes de terreno Nº12 y 17, superficies 417 y 493 m2., Roles de Avalúo Nº302-204 y 302-158, comuna de Cunco, para la obra "Camino Ruta S-61, Sector Cunco - Melipeuco, Km. 55,000 a 87,46783, correspondiente al tramo I Km. 55,000 al 62,784", IX Región y se acordó el valor de indemnización con su propietario Juan Andrés Durán Inzunza, ascendente a la cantidad de $1.284.271.-
+
+Fiscal del Ministerio de Obras Públicas.
