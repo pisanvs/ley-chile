@@ -1,0 +1,3 @@
+Por decreto MOP Nº 496, de 28 de febrero de 2000, se expropiaron los lotes de terreno Nº 1, 1-A y 7-B, superficies 106 m², 276 m² y 140 m², roles de avalúo 143-43, 143-26 y 143-28, comuna de San Francisco de Mostazal, Obra Camino Ruta H-15, sector La Punta-Puente Negro y se acordó precio de indemnización con sus propietarios Rolando Enrique Ibarra Pinto y otros y María Angelina Soto Bravo y otros, ascendente a las cantidades de $1.608.477, para los lotes Nº 1 y 1-A y $718.080, para el lote Nº 7-B.
+
+Fiscal del Ministerio de Obras Públicas.
