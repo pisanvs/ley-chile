@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero, mediante Resolución Exenta N° 671 de 20 de Mayo de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido, Reserva y Sector Expropiado Predios "Resto de la Hijuela A. del Fundo La Puntilla de Romeral" "Hijuela Tallagua" "Hijuela La Cruz o Las Casas" "Hijuela El Corral" "Hijuela La Higuera" de la comuna de Hijuelas, V Región; y Derechos Aprovechamiento Aguas que corresponden a las parcelas N°s. 1 a la 17, sitios N°s. 1 al 13, y Reserva CORA N° 1 del Proyecto de Parcelación "Los Aromos B" formado por predios señalados. Los Derechos de Agua se extraen del Canal Comunero y Canal del Cerro, ambos derivados de la Segunda Sección del Río Aconcagua, del Canal Panchino derivado del Estero La Sombra.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
