@@ -1,0 +1,3 @@
+Por resolución Nº431, de 6 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto el punto 4) del numeral 1 de la resolución Nº1.081, de 1996, solamente en cuanto declaró la caducidad de la resolución Nº179, de 1991, de esta Subsecretaría, que autorizó a doña LITA DEL CARMEN VILLARROEL GUTIERREZ, para operar la nave ''Juan Antonio I'', manteniendo, en este caso, la caducidad respecto de los recursos pelágicos en el litoral de la III y IV regiones, de conformidad con lo dispuesto en la resolución Ministerial exenta Nº20, de 1998.
+
+Valparaíso, 6 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
