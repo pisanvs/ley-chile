@@ -1,0 +1,3 @@
+Por decreto MOP Nº 221, de 31 de enero de 2000, se expropió el lote de terreno Nº 317, superficie 147 m², rol de avalúo 7850-1, comuna de La Pintana, para la obra Concesión Internacional Ruta 5 Tramo: Santiago-Talca Sector A, Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Alicia del Carmen Ferrada Arias, ascendente a la cantidad de $10.627.504.
+
+- Fiscal del Ministerio de Obras Públicas.
