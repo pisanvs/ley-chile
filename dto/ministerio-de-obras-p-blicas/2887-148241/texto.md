@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.887, de 30 de septiembre de 1999, se expropió el lote de terreno Nº63-B, superficie 8.000 m², rol de avalúo 243-119, comuna de Frutillar, para la obra "Concesión Internacional Ruta 5 Tramo: Río Bueno - Puerto Montt. Sector: Casma-Frutillar", Décima Región y se acordó el valor de indemnización con su propietario Jorge Nannig Grothe, ascendente a la cantidad de $4.043.870.-
+
+Fiscal del Ministerio de Obras Públicas.
