@@ -1,0 +1,1 @@
+Grava el premio mayor de cada sorteo que efectúen la Loteria de Concepción y la Polla Chilena de Beneficencia en un 10% a beneficio de las Universidades de Concepción y Austral de Valdivia.
