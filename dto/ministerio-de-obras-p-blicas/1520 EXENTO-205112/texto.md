@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.520 de 29 de octubre de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 12 y 26, para la obra: Camino Ruta T-55, sector Futrono - Llifén, tramo Km. 55,3000 a Km.
+
+75,76384, que figuran a nombre de Solís Catalán Victoriano y Barrientos Bernier Bárbara Marcela, roles de avalúo 72-33 y 72-104, comuna de Futrono, X Región, superficies 440 m2 y 897 m2. La Comisión de Peritos fijó con fecha 20 de abril de 2000, el monto de la indemnización provisional en la cantidad de $286.000.-, para el lote 12 y $463.100.-, para el lote 26. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
