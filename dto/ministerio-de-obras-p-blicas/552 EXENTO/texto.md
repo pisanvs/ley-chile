@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 552, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 24, superficie 934,00 m2, rol de avalúo 75-857, comuna de Galvarino, para la obra "Camino Ruta S-16, Sector Galvarino-Chol Chol, Tramo Km. 0,0000 al 24,30269" y se acordó el valor de indemnización con su propietario Sergio Guillermo Nain Inal, ascendente a la cantidad de $367.924.-
+
+Fiscal del Ministerio de Obras Públicas.
