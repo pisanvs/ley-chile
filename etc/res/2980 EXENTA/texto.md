@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.980, de 20 de noviembre de 2003, de esta Subsecretaría, autorízase a SOUTHPACIFIC KORP S.A. para ampliar actividades pesqueras extractivas con la nave "Monserrat", en las áreas marítimas que en cada caso se indican, donde podrá capturar, por fuera de las 60 millas náuticas, los recursos hidrobiológicos que a continuación se señalan:
+
+a) En la VII y VIII Regiones, con arrastre de media agua: Anchoveta o anchoa, Sardina común, Jurel, Merluza de cola, Agujilla, Bacaladillo o mote, Bonito, Caballa, Cojinoba del norte Seriolella violacea, Cojinoba del sur, Cojinoba moteada, Dorado, Machuelo o tritre, Palometa, Sardina española, Jurel fino, Anchoa blanca, Sardina redonda, Vinciguerria; b) En la X Región, con arrastre de media agua: Anchoveta o anchoa, Sardina común, Jurel, Merluza de cola, Agujilla, Bacaladillo o mote, Bonito, Caballa, Cojinoba del norte, Seriolella violacea, Cojinoba del Sur, Cojinoba moteada, Dorado, Machuelo o tritre, Palometa, Sardina española, Jurel fino, Anchoa blanca, Sardina redonda, Vinciguerria.
+
+Valparaíso, 20 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
