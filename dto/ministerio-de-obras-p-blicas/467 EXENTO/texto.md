@@ -1,0 +1,3 @@
+Por decreto exento MOP N° 467, de 19 de abril de 2002 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP N° 850, de 1997, que fijó el texto actualizado de la Ley N° 15.840, se expropió el lote de terreno N° 66-B, para la obra Camino Ruta F-10-G, sector Cuesta La Dormida, Etapa 2, Km. 10,98400 al 34,50000, que figura a nombre de Comunidad La Dormida, rol de avalúo 225-17, superficie 66,50 m2., comuna de Olmué. La Comisión de Peritos, con fecha 15 de septiembre de 2001, fijó la indemnización provisional en la cantidad de $76.475, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
