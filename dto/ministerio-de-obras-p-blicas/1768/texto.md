@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.768, de 25 de junio de 1999, se expropiaron los lotes de terrenos Nºs.28, 29, 31, 34, 37 y 51, superficies 3.849, 10.354, 12.400, 14.042, 12.990 y 1.250, m², respectivamente, rol de avalúo 311-28, comuna de Peñaflor, para la obra Camino Ruta G-380, Sector Santa Teresa-Puente Pelvín y se acordó precio de indemnización con su propiedad Agrícola Los Reyunos S.A., ascendente a la cantidad de $121.730.805.-
+
+Fiscal del Ministerio de Obras Públicas.
