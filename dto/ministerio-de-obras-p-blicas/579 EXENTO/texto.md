@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 579, de fecha 30 de abril del 2001, se expropiaron los lotes de terreno Nºs 42-A y 47, superficies 4.196,00 m2 y 115,500 m2, respectivamente, sin roles de avalúos, comuna de Alto del Carmen, para la obra "Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 al 70,00, Etapa II" y se acordó el valor de indemnización con sus propietarios María Cortés Leyton y Rubén Páez Ossandón, ascendente a las cantidades de $1.951.036, para el lote Nº 42-A y $244.740, para el lote Nº 47.-
+
+Fiscal del Ministerio de Obras Públicas.
