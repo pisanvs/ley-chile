@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.833, de 8 de octubre de 2004 de esta Subsecretaría, modifícase la resolución Nº 2.271 de 2004, de esta Subsecretaría, que autorizó a AYCON CONSULTORES S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Control del acceso, esfuerzo y desembarques de la pesquería del recurso Erizo (Loxechinus albus, Molina-1782) en la XI Región de Aysén, Caleta Tortel, al Sur del paralelo 47° L.S.", en el sentido de señalar que la pesca de investigación se extenderá hasta el 30 de octubre de 2004, inclusive.
+
+Valparaíso, 8 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
