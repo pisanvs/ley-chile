@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.724, de 31 de octubre de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº12 para la obra:
+
+"CONCESION INTERNACIONAL SISTEMA ORIENTE - PONIENTE. ZONA ORIENTE: PTE. LA DEHESA - PTE. TABANCURA. TRAMO 1: DE KM. -0.190,00 A KM. 4.080,00"; Región Metropolitana, que figura a nombre de SUC LOPEZ GARCIA ANTONIA LUISA, rol de avalúo 3597-9, comuna de Vitacura, superficie 5.486 m2. La comisión de peritos integrada por los señores Ramón Enrique Domingo Labarca, Gustavo Domínguez Errázuriz y María Cristina Camus Palacios, fijó con fecha 27 de agosto de 2001, el valor provisional de la indemnización en la cantidad de $179.910.000.- La indemnización de pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
