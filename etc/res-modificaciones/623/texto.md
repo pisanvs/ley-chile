@@ -1,0 +1,5 @@
+DEROGA RESOLUCIONES QUE INDICA
+
+Por resolución No. 623 de 27 de Junio de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, derógase las siguientes Resoluciones por renuncia de sus titulares: Resolución No. 236, de 1983, de esta Subsecretaría, que autorizó a Pesquera Alejandría Limitada, domiciliada en Talcahuano, para desarrollar actividades pesqueras de extracción. Resolución No. 140, de 1985, de esta Subsecretaría, que autorizó a Prosecol Limitada, domiciliada en Talcahuano, para desarrollar actividades pesqueras de transformación. Resolución No. 527, de 1986, de esta Subsecretaría que autorizó a Prosecol Limitada, domiciliada en Talcahuano, para ampliar actividades pesqueras de transformación.
+
+Valparaíso, 27 de Junio de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
