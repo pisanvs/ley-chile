@@ -1,0 +1,13 @@
+Por resolución Nº 813, de 3 de junio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifíquese el numeral 2º de la resolución Nº 1762, de 1996, de esta Subsecretaría, que autorizó a Pesquera San JosE S.A., para ampliar actividades pesqueras extractivas con la nave ''Ventisquero'', en el litoral de la I a III Regiones, por fuera del área de reserva artesanal y litoral de la IV, V, VI, VII, IX y X Regiones, por fuera de la línea imaginaria trazada a una distancia de 60 millas marinas, medidas desde las líneas de base normales, en la extracción del recurso hidrobiológico Jurel y su fauna acompañante, en el sentido de señalar que las especies autorizadas en tal calidad corresponden a las siguientes:
+
+- **a)** Litoral de la I a la III Regiones, por fuera del área de reserva artesanal, con red de arrastre de media agua: Agujilla o Punto fijo, Bacaladillo o mote, Bonito, Caballa y Cojinoba del norte;
+
+- **b)** Litoral de la IV Región, por fuera de la línea imaginaria trazada a una distancia de 60 millas marinas, medidas desde las líneas de base normales, con red de arrastre de media agua: Bacaladillo o mote, Bonito, Caballa, Cojinoba del norte y Sardina común;
+
+- **c)** Litoral de la V, VI, VII y IX Regiones, por fuera de la línea imaginaria trazada a una distancia de 60 millas marinas, medidas desde las líneas de base normales, con red de arrastre de media agua: Agujilla, Anchoveta, Bonito, Caballa, Cojinoba del norte, Merluza de cola, Sardina española y Sardina común;
+
+- **d)** Litoral de la X Región, por fuera de la línea imaginaria trazada a una distancia de 60 millas marinas, medidas desde las líneas de base normales, con red de arrastre de media agua: Agujilla, Anchoveta, Caballa, Cojinoba del norte, Merluza de cola y Sardina común.
+
+Asimismo, rectifíquese el numeral 2º de la resolución Nº 1762, de 1996, antes individualizada, en el sentido de señalar que la peticionaria podrá operar la nave ''Ventisquero'', en el litoral de la I a la III Regiones, por fuera del área de reserva artesanal y litoral de la IV Región, por fuera de la línea imaginaria trazada a una distancia de 60 millas marinas, medidas desde las líneas de base normales, donde podrá extraer con arrastre de media agua, los recursos hidrobiológicos Anchoveta y Sardina española y su fauna acompañante, individualizada en las letras a) y b) del numeral precedente, respectivamente.
+
+Valparaíso, 3 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
