@@ -1,0 +1,3 @@
+Por resolución Nº 858 de esta Subsecretaría, autorízase a PESQUERA ITATA S.A. para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 984 de 1986, Nº 671 de 1992 y Nº 1136 de 1999, todas de esta Subsecretaría, en orden a procesar en su planta ubicada en Avenida Pedro Montt Nº 704, San Vicente, Talcahuano, VIII Región, en la línea de elaboración de fresco-enfriado, el recurso hidrobiológico jurel.
+
+Valparaíso, 11 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
