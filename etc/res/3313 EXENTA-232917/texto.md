@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.313 de 17 de noviembre de 2004, de esta Subsecretaría, modifícase la resolución Nº2.079 de 2004, modificada por resolución Nº 2.210 de 2004, ambas de esta Subsecretaría de Pesca, que autorizó al CENTRO DE ESTUDIOS Y DESARROLLO PESQUERO SUR AUSTRAL LIMITADA, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del Proyecto denominado "Monitoreo y operación de la flota y distribución espacial de los recursos Anchoveta y Sardina común en la X Región Sur, Isla de Chiloé'', en el sentido de incorporar a la única postulante al llamado público para participar del proyecto antes indicado, la embarcación artesanal Orion, en la nómina de naves participantes en la presente pesca de investigación.
+
+La embarcación artesanal Orion podrá capturar una cuota máxima total de 58 toneladas del recurso Anchoveta y 41 toneladas del recurso Sardina común.
+
+Valparaíso, 17 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
