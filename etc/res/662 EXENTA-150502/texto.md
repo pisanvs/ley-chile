@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 662 de 27.05.87, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido, Reserva y Sector Expropiado Predios La Ramada y Ampurdán de la comuna de Romeral, VII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 23, Sitios N°s. 1 al 25, Bien Común Especial No. 3 y Reserva Cora No. 1 del Proyecto de Parcelación "Ampurdán", formado por predio señalado. Los Derechos de Agua se extraen de los canales Donoso, La Cañada y Quilvo, derivados del río Teno.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
