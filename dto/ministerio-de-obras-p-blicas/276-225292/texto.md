@@ -1,0 +1,3 @@
+Por decreto MOP Nº 276 de fecha 31 de marzo del 2004, se expropió el lote de terreno Nº 105-G, superficie 698 m², Rol Nº 601-805, comuna de Nueva Imperial, IX Región para la obra "Camino Ruta S - 16, sector Chol Chol - Nueva Imperial Tramo Km. 24,30269 al Km. 43,5000 Sub-Tramo III Km. 35,380 al 43,50000" y se acordó el valor de indemnización con su propietaria Viviana Soledad Alecoi Levio, ascendente a la cantidad de $3.198.551.- para el lote Nº 105-G.
+
+- Fiscal del Ministerio de Obras Públicas.
