@@ -1,0 +1,3 @@
+Por resolución Nº 1.634, de 31 de agosto de 1999, de esta Subsecretaría, autorízase a MOHAMED SAID TALA BELTRAN, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada a 01 Km. al Este de Taltal, sector Quintas, II Región, donde podrá procesar en las líneas que se indican los siguientes recursos hidrobiológicos: Secado y Molienda de Algas: Huiro negro, Huiro palo y Huiro pito.
+
+Valparaíso, 31 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
