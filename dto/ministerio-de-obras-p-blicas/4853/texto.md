@@ -1,0 +1,3 @@
+Por decreto MOP 4.853, de 31 de octubre del 2000, se expropió el lote de terreno Nº25, superficie 2.440 m2., rol de avalúo 866-142, comuna de Villa Alemana, para la obra Concesión Internacional lnterconexión Vial Santiago - Valparaíso - Viña del Mar, Troncal Sur, Tramo 1, Atravieso Los Maitenes, Quinta Región y se acordó el valor de indemnización con su propietario Clodomiro Núñez Aguilar, ascendente a la cantidad de $10.046.405.-
+
+Fiscal del Ministerio de Obras Públicas.
