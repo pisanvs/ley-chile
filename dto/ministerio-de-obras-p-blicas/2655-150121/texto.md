@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.655, de 24 de septiembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 198, para la obra: Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Km. 29.014,00 al Km.
+
+42.800,00, Región Metropolitana, que figura a nombre de Cuevas Restovich Rubén Santiago, rol de avalúo 114-3, comuna de Paine, superficie 1.080 m². La Comisión de Peritos integrada por los señores Victoria Adriana Blanco Costa, Gustavo Domínguez Errázuriz y Carlos Albrecht Viveros, fijó con fecha 29 de abril de 1999, el valor provisional de la indemnización en la cantidad de $15.840.160.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
