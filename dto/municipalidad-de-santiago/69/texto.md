@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 69, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas No. 2332-2340, Rol 375-39 Santiago aparente dominio Guillermo Díaz Echazu, superficie aproximada a expropiar 133 m2. Deslindes: Norte, 16,65 mts. calle Agustinas; Sur, 16,65 mts. resto predio; Oriente, 8,50 mts. otro propietario y Poniente, 7,50 mts. otro propietario. Indemnización provisional $ 3.579.000.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
