@@ -1,0 +1,5 @@
+Por decreto MOP Nº905, de 15 de mayo de 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº13, para la ejecución de la obra ''Camino Mamuil Malal, Tramo Puente Correntoso Km. 130,988 al Puente Puesco Km. 136,860, Sector Km. 130,988 -
+
+Km. 134,620'', que figura a nombre de Torres Opazo Juan Alejandro, Rol de Avalúo 169-6, comuna de Curarrehue, IX Región, superficie 6.654 m². La Comisión de Peritos fijó con fecha 12 de septiembre de 2000, el valor provisional de la indemnización en la cantidad de $6.140.040.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
