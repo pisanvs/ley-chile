@@ -1,0 +1,3 @@
+Por resolución exenta Nº287, del 1 de febrero de 2005, de esta Subsecretaría, prorrógase hasta el 13 de febrero de 2005 el período de extracción del recurso Loco Concholepas concholepas desde las áreas de manejo establecidas entre la I y VI regiones que, contando con una cuota de extracción autorizada para el recurso indicado, no hubiere sido extraída en su totalidad al 31 de enero del presente año, quedando sometido en lo demás a las disposiciones establecidas en las resoluciones que autorizaron la extracción.
+
+Valparaíso, 1 de febrero de 2005.- Vilma Correa Rojas, Subsecretario de Pesca (S).
