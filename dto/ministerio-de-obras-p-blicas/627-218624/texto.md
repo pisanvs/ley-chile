@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 627, de 30 de octubre de 1995, se expropiaron los lotes de terreno Nºs. 13, 14 y 25, superficies 71 m2., 120 m2. y 130 m2., roles de avalúo 115-77, 115-56 y 115-19, comuna de Malloa, para la obra Camino Ruta H605 y H-611, sector Rengo Pelequén y se acordó precio de indemnización con sus propietarios Adolfo Enrique Brito Acevedo, Oscar Segundo Cabezas y Eduardo Andrés Quiroz Pacheco, ascendente a las cantidades de $191.101, para el lote N° 13, $320.827, para el lote N° 14 y $329.411, para el lote N° 25.
+
+Fiscal del Ministerio de Obras Públicas.
