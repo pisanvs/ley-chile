@@ -1,0 +1,5 @@
+Por resolución Nº 511, de 7 de marzo de 2000, de esta Subsecretaría, autorízase a MICHEL PATRICIO ROBLES VERDUGO, para ampliar actividades pesqueras en orden a incorporar a la planta ubicada en Freirina Nº 221-B, Bahía Inglesa, comuna de Caldera, provincia de Copiapó, III Región, en las líneas de elaboración de Congelado y Fresco-refrigerado, los siguientes recursos hidrobiológicos: Cojinoba del norte, Congrio dorado, Jurel, Merluza común, Palometa, Reineta, Vidriola, Abalón rojo, Almeja, Calamar, Caracol locate, Caracol rubio, Caracol tegula, Culengue, Chorito, Macha, Gamba, Langostino amarillo, Langostino colorado.
+
+Déjase sin efecto la resolución Nº 2.614, de 1999, de esta Subsecretaría de Pesca en virtud de lo dispuesto en el artículo 6º del D.S. Nº 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 7 de marzo de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
