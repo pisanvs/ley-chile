@@ -1,0 +1,7 @@
+Por decreto MOP Nº3.083, de 31 de julio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 9 al 38, para la obra Camino Ruta K-16, sector Santa Emilia-Villa Prat Tramo Kms. 26,200 al 37,786.72, que figuran a nombre de José Astete Gajardo y otros, rol de avalúo 140-150, comuna de Sagrada Familia, superficies 84,10; 160; 45,20; 220,50; 560; 160; 21; 170; 190; 1.470; 164; 61; 70; 707; 84; 410; 1.320; 550;
+
+60; 133; 206; 760; 233; 1.790; 4.832,50; 4.590; 112;
+
+1.825,50; 213; 217 m2., respectivamente. La Comisión de Peritos fijó con fecha 12 de mayo de 1999, en las cantidades de $4.205, lote 9; $8.000, lote 10; $6.328, lote 11; $11.025, lote 12; $28.000, lote 13; $8.000, lote 14; $122.940, lote 15; $69.800, lote 16; $172.600, lote 17; $660.800, lote 18; $107.960, lote 19; $3.050, lote 20; $3.500, lote 21; $3.946.980, lote 22; $4.200, lote 23; $20.500, lote 24; $66.000, lote 25; $47.500, lote 26; $131.400, lote 27; $53.620, lote 28; $28.840, lote 29; $38.000, lote 30; $32.620, lote 31; $447.500, lote 32; $491.625, lote 33; $1.237.500, lote 34; $5.600, lote 35; $141.275, lote 36; $10.650, lote 37 y $10.850, lote 38. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
