@@ -1,0 +1,1 @@
+Fija la planta de Oficiales de Administración, modifica la planta permanente de Empleados Civiles y la de Oficiales (Rama Técnica) de la Fuerza Aérea de Chile.
