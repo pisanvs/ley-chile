@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.459, de fecha 30 de septiembre del 2002, se expropiaron los lotes de terreno Nºs 30 y 31-A, superficie 123,00 y 775,00 m2, rol Nº2208-55, comuna de Osorno, X Región, para la obra ''Camino Ruta U-72, Sector Osorno - Huilma, Km. 0,000 al Km. 18,100'' y se acordó el valor de indemnización con su propietario Marta Lina Flores Monnier ascendente a la cantidad de $1.104.375.-
+
+Fiscal del Ministerio de Obras Públicas.
