@@ -1,0 +1,3 @@
+Por resolución número 782, de 22 de abril de 2002, de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A. para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 903 de 1987, Nº 250 de 1992, Nº 850 de 1993, Nº 860 de 1994, Nº 916 de 1995, Nº 748 y Nº 1.843, ambas de 1996, Nº 1.207 de 1999, Nº 2.494 de 2000 y Nº 2.403 de 2001, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Playa Blanca s/n, Coquimbo, IV Región, en las líneas de elaboración de Harina y Aceite, los siguientes recursos hidrobiológicos: Bacaladillo o mote, Jurel fino, Machuelo o tritre, Anchoveta blanca, Sardina redonda y Vinciguerria.
+
+Valparaíso, 22 de abril de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
