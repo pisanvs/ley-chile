@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.885, de 30 de septiembre de 1999, se expropió el lote de terreno Nº58, superficie 1.655 m², rol de avalúo 294-20, comuna de Frutillar, para la obra "Concesión Internacional Ruta 5 Tramo: Río Bueno - Puerto Montt. Sector Casma - Frutillar", Décima Región y se acordó el valor de indemnización con su propietaria María Guillermina Velásquez Caulle, ascendente a la cantidad de $1.102.616.-
+
+Fiscal del Ministerio de Obras Públicas.
