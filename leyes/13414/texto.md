@@ -1,0 +1,1 @@
+Libera de todo derecho, impuesto o contribución la internación de las especies que indica, destinadas a las Municipalidades de San Miguel, Ñuñoa y Pisagua y a la Gobernación de este último departamento.
