@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 106, de 26 de octubre del año 2000, se aprobó la disolución voluntaria de la Cooperativa de Vivienda y Servicios Habitacionales Cuatro de Junio Limitada, de San Bernardo, que consta en la escritura pública suscrita con fecha 12 de septiembre de 2000, ante el Notario Público de San Bernardo, don Lionel Rojas Meneses.
+
+Por orden del señor Subsecretario, Cecilia González Martínez, Jefe Departamento de Cooperativas Subrogante.
