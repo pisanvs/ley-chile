@@ -1,0 +1,3 @@
+Por resolución Nº 1.715 de 30 de noviembre de 1998 de esta Subsecretaría, déjase sin efecto la resolución Nº 1.215 de 1996, de esta Subsecretaría, que autorizó a la ASOCIACION GREMIAL DE PESCADORES ARTESANALES DE PUERTO CISNES, para instalar y operar el centro de cultivo ubicado en Isla Magdalena, Puerto Cisnes, comuna de Cisnes, provincia de Aisén, XI Región.
+
+Valparaíso, 30 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
