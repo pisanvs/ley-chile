@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Resolución 142, 30 junio 1998, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 288, Rol de avalúo Nº 105-0039 y 105-0040, comuna Concepción, superficie 114 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-105-0039 y 0040; de aparente dominio de Magdalena Burmeister Campos y Jeannette Esquerre Teula, para ejecución Programa ''Mejoramiento Interconexión Vial Centro Concepción - Autopista Talcahuano'', conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Boris Aptecar G., arquitecto, Gerardo Valverde V., arquitecto y Sergio Labarca G., constructor civil, según informe de fecha 25 de octubre de 1997, fijó monto provisional indemnización en $28.158.800 pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
