@@ -1,0 +1,5 @@
+Por Resolución N° 1.077, de 13 de Noviembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SALMONES UNIMARC S.A., R.U.T. N° 88.541.600-4, domiciliado en Castro, calle Gabriela Mistral N° 370, para continuar desarrollando las actividades pesqueras autorizadas a Pesquera Unimarc S.A., del mismo R.U.T. y domicilio, por la Resolución N° 1034 de 1987, de esta Subsecretaría con sus ampliaciones y modificaciones posteriores y en la misma forma y condiciones establecidas en dichos documentos, en virtud de la escritura pública de modificación de Sociedad, de fecha 3 de Diciembre de 1991, otorgada ante el Notario de Santiago, Kamel Saquel Z.
+
+Déjase sin efecto Resolución N° 398, de 1992, de esta Subsecretaría, en virtud de lo señalado en el Art. 15 del D.S. 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.-
+
+Alvaro Briones Ramírez, Subsecretario de Pesca Subrogante.
