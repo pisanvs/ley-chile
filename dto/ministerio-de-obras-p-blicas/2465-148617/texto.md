@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.465, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 1, 2, 8 y 17, superficies 6.619,7; 9.264,1; 1.782,3 y 377,7 m2., respectivamente, roles de avalúos 212-1, 215-219 y 215-200, comuna de Teodoro Schmidt, obra Camino Costero Sur, sector Tranapuente-Puerto Saavedra Porma, tramo Chelle Hualpin-Puente Peule y se acordó precio de indemnización con sus propietarios María González Olguín y otra, Rosendo Huircan Trangol y José R. Calfan Huircan, ascendente a las cantidades de $3.270.018, lotes 1 y 2; $633.136, lote 8 y $144.609, lote 17.
+
+Fiscal del Ministerio de Obras Públicas.
