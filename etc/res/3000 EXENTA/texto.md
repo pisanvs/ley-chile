@@ -1,0 +1,7 @@
+DISPONE MODIFICACION DE NOMBRES DE POSTULANTES SELECCIONADOS PARA EL SUBSIDIO HABITACIONAL
+
+Resolución Nº 3.000 exenta, de fecha 6 de noviembre de 1998, dispone la modificación de los nombres de los dos (2) postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al llamado extraordinario Título II de 1997 a Postulación para la Adquisición o Construcción de Viviendas Rurales Emplazadas en Asentamientos Poblacionales del Sistema de Subsidio Habitacional para la atención del sector rural, de don Andrés Pedro Epulef Panguilef, por el de su cónyuge doña Elia Nancy Casiano Carinao y de doña Mercedes Agustina Lefipán Becerra, por el de su cónyuge don Luis Alberto Belmar Vásquez.
+
+Déjase constancia que se mantiene en 564 el número de postulantes seleccionados para el goce del Subsidio Habitacional para la atención del sector rural correspondiente al llamado extraordinario Título II de 1997 a Postulación para la Adquisición o Construcción de Viviendas Rurales Emplazadas en Asentamientos Poblacionales y en 105.040 Unidades de Fomento (U.F.), el monto de los recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados.
+
+Lo que transcribo para su conocimiento.- Berta A. Belmar Ruiz, Subsecretaria de Vivienda y Urbanismo.
