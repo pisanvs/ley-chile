@@ -2232,17 +2232,7 @@ El libro de cheques protestados deberá ser encuadernado y foliado. No obstante,
 
 13.9. Envío de nóminas de cheques protestados al Boletín de Informaciones Comerciales.
 
-El D.S. N° 1.971 del Ministerio de Hacienda, de 9 de abril de 1945, modificado por el D.S. N° 414, de 24 de junio de 1978, ordena publicar en el Boletín de Informaciones Comerciales, los cheques protestados por falta de fondos o por haber sido girados contra cuenta corriente cerrada. El D.S. N° 4.368 del Ministerio de Hacienda, de 25 de octubre de 1946, autoriza el Boletín de Informaciones Comerciales para publicar, a costa de los interesados y a requerimiento de estos, los cheques que han sido pagados con posterioridad a su protesto.
-
-Los bancos que protesten cheques por falta de fondos o por cuenta cerrada, deben enviar semanalmente a la Cámara de Comercio de Santiago, o a las instituciones en que la Cámara de Comercio de Chile delegue sus funciones, una nómina de tales cheques, con la siguiente información: Nombre completo del girador y número del Rol Unico Tributario de éste; suma por la cual se emitió el cheque; Oficina del banco que hizo el protesto y, cuando corresponda, observaciones acerca de algún cheque.
-
-Las nóminas que envíe cada oficina bancaria deben ir numeradas correlativamente y los nombres de los giradores de los cheques, anotados por orden alfabético.
-
-Todos los cheques que figuren en la nómina, se entenderán protestados por falta de fondos, sin necesidad de que dicha circunstancia se anote expresamente. En el caso de que el protesto se deba al motivo de haberse girado contra cuenta corriente cerrada, sera preciso indicar este hecho como una observación.
-
-Con el fin de favorecer el pago del cheque con posterioridad a su protesto e informar acerca de aquellos que aparecen como definitivamente impagos, la oficinas bancarias que envíen las nóminas en referencia deben registrar en ellas la correspondiente observación, para dejar constancia del hecho de haberse pagado un cheque incluido en la nómina, antes del despacho de la misma.
-
-Los cheques en moneda extranjera que sean protestados por falta de fondos o cuenta cerrada, también deben ser informados, de la misma manera, al Boletín de Informaciones Comerciales.
+Los bancos que protesten cheques por falta de fondos o por cuenta cerrada, deben enviar semanalmente a la Cámara de Comercio de Santiago, o a las instituciones en que la Cámara de Comercio de Chile haya delegado sus funciones, una nómina de tales documentos, de conformidad con lo dispuesto en el Capítulo 20-6 de esta Recopilación Actualizada de Normas.
 
 ### 14. Formularios de cheques
 
@@ -4304,9 +4294,9 @@ Estos depósitos tiene el carácter de condicionales y no son, por lo tanto, fon
 
 Se fijan los siguientes períodos de retención obligatoria, referidos a días hábiles bancarios, para los valores a cargo de otros bancos de la misma plaza y de empresas bancarias de otras plazas que se reciban en depósito, por lo que durante su vigencia queda estrictamente prohibido permitir el giro sobre dichos valores:
 
-a) El mismo día en que se efectúe el depósito y durante el día siguiente hábil hasta el término del proceso de la tercera reunión de la cámara de compensación, para los depósitos efectuados con cheques de otros bancos de la misma plaza o de una plaza distinta perteneciente a la misma agrupación; y,
+a) El mismo día en que se efectúe el depósito y durante el día siguiente hábil hasta el término del proceso de la tercera reunión de la cámara de compensación, para los depósitos efectuados con cheques de otros bancos de la misma plaza o de una plaza distinta perteneciente a la misma agrupación, como asimismo para aquellos documentos en moneda extranjera pagaderos en otras plazas que sean presentados para su pago en la cámara de compensación de Santiago; y,
 
-b) Tres días para los depósitos conformados por cheques girados contra cuentas corrientes mantenidas en bancos ubicados en otras plazas. Se aclara que el plazo señalado en esta letra es el mínimo y que los bancos podrán en forma adicional retener los fondos por los días estrictamente necesarios para prevenir el posible rechazo de documentos, retención ésta que no podrá ir más allá del tiempo normal de demora de su confirmación o aviso de rechazo, en relación con la localidad de asiento de la oficina girada. La tabla de lapsos adicionales que se aplique, deberá ser dada a conocer a los clientes, para evitar errores o confusiones. Estos plazos adicionales, sin embargo, no eximen al depositante deque, una vez transcurridos, no pueda producirse la devolución del documento debido a demoras o como consecuencia de situaciones imprevistas que pudieren afectar la gestión de cobro.
+b) Tres días para los depósitos conformados por cheques girados contra cuentas corrientes mantenidas en bancos ubicados en otras plazas, con excepción de los documentos en moneda extranjera pagaderos en otras plazas que sean presentados para su pago en la cámara de Santiago, los que se regirán por las instrucciones contenidas en la letra a) precedente. Se aclara que el plazo señalado en esta letra es el mínimo y que los bancos podrán en forma adicional retener los fondos por los días estrictamente necesarios para prevenir el posible rechazo de documentos, retención ésta que no podrá ir más allá del tiempo normal de demora de su confirmación o aviso de rechazo, en relación con la localidad de asiento de la oficina girada. La tabla de lapsos adicionales que se aplique, deberá ser dada a conocer a los clientes, para evitar errores o confusiones. Estos plazos adicionales, sin embargo, no eximen al depositante deque, una vez transcurridos, no pueda producirse la devolución del documento debido a demoras o como consecuencia de situaciones imprevistas que pudieren afectar la gestión de cobro.
 
 No obstante la disposición precedente, en aquellos casos en que como consecuencia de sistemas o procedimientos establecidos por los bancos, el cobro de tales documentos se haga efectivo en plazos inferiores al plazo mínimo obligatorio antes señalado, el banco depositario de los mismos, una vez obtenido su cobro, deberá desde ese momento permitir al depositante girar sobre tales valores.
 
@@ -5000,6 +4990,10 @@ El texto de dicho Reglamento se transcribe en el Anexo N° 3 de este Capítulo.
 
 La reglamentación establecida por el Banco Central de Chile para el funcionamiento de la referida Cámara de Compensación, incluye como participantes en ella a todos los bancos, casas matrices o sucursales, situados en las plazas o agrupaciones de plazas en las que la mayoría absoluta de los bancos acuerden ese procedimiento para el cobro recíproco de documentos. Esos bancos, por consiguiente, cobrarán por cámara los documentos en moneda extranjera a cargo de otras entidades bancarias participantes, que reciban en depósito o en pago de obligaciones, como asimismo pagarán aquellos documentos a su cargo que les sean presentados en las mismas reuniones; todo esto, siempre que se trate exclusivamente de documentos en moneda extranjera, pagaderos en la misma plaza, o en una distinta pero perteneciente a una misma agrupación, cuando así corresponda.
 
+No obstante lo indicado en el párrafo precedente, con el acuerdo de la mayoría de los bancos participantes, en la plaza de Santiago se podrán cobrar documentos en moneda extranjera girados sobre otras plazas del país, cuando sean de cargo de bancos que hayan optado por aceptar siempre tales documentos. Las empresas bancarias que opten por no acogerse a este procedimiento deberán informarlo por escrito al Jefe de Cámara. En ningún caso los bancos que resuelvan aceptar cheques u otros documentos de otras plazas podrán devolverlos aduciendo falta de información para proceder a su pago.
+
+Entre los documentos en moneda extranjera que se presenten para ser pagados por cámara, podrán incluirse las órdenes de pago emitidas en el exterior contra bancos situados en Chile, en formato tipo cheque y expresadas en dólares de los Estados Unidos de América. En atención a las características particulares de estos documentos, los bancos librados que decidan no pagarlos se limitarán a devolverlos dejando constancia en los mismos de la razón por la cual proceden a su devolución, toda vez que tales instrumentos no son susceptibles de ser protestados.
+
 2. Retención sobre depósitos efectuados con cheques de otros bancos sobre la misma plaza y sobre otras plazas.
 
 El banco al que no le sea devuelto por intermedio de la segunda reunión, alguno de los documentos que presentó a cobro por cámara, queda liberado de la obligación de recibirlos en otra oportunidad. Por lo tanto, si decide recibir un documento posteriormente, en forma voluntaria, será responsable del perjuicio que pudiere causar a su cliente.
@@ -5040,7 +5034,7 @@ Además de las responsabilidades señaladas en los literales precedentes, las in
 
 1.1. Canje de la plaza.
 
-Los documentos a cargo de otras instituciones financieras de la plaza cuyo cobro se efectúe por intermedio de la Cámara de Compensación deben registrarse en la cuenta "Canje de la Plaza", de la partida 1015. Dicha cuenta se cargará por el valor de los documentos que se presenten a cobro en las distintas reuniones de cámara, y se abonará por los documentos recibidos de otras instituciones financieras en esas mismas reuniones.
+Los documentos a cargo de otras instituciones financieras de la plaza cuyo cobro se efectúe por intermedio de la Cámara de Compensación deben registrarse en la cuenta "Canje de la Plaza", de la partida 1015. Dicha cuenta se cargará por el valor de los documentos que se presenten a cobro en las distintas reuniones de cámara, y se abonará por los documentos recibidos de otras instituciones financieras en esas mismas reuniones. También se incluirán en la cuenta "Canje de la Plaza", los documentos en moneda extranjera pagaderos en otras plazas que sean presentados en la cámara de la plaza de Santiago, los que, tanto para su pago como para su deducción de las obligaciones afectas a encaje, serán considerados como de la plaza.
 
 El saldo, deudor o acreedor en moneda chilena de la cuenta "Canje de la Plaza", al término de cada ciclo de reuniones de la Cámara de Compensación, representará el débito o crédito que registrará la cuenta corriente de la entidad en el Banco Central de Chile. Por su parte, el saldo deudor o acreedor por el proceso de canje de documentos en moneda extranjera corresponderá al monto a recibir o pagar por la institución. Por lo tanto, una vez cursados los abonos que correspondan a la cuenta corriente en el Banco Central de Chile o efectuados los respectivos pagos en moneda extranjera, en su caso, las cuentas "Canje" deben quedar saldadas.
 
@@ -5048,13 +5042,13 @@ El saldo de la cuenta "Canje de la Plaza" es deducible de las obligaciones a la 
 
 No obstante lo anteriormente expresado, las instituciones bancarias pueden admitir el redepósito de cheques protestados y repetir en canje documentos que hayan sido devueltos por cualquier motivo, posteriormente solucionado.
 
-Los cargos que se efectúen a la cuenta "Canje de la Plaza" no pueden comprender en ningún caso, valores girados contra la propia institución, contra sus corresponsales o a cargo de sus propias oficinas.
+Los cargos que se efectúen a la cuenta "Canje de la Plaza" no pueden comprender en ningún caso, valores girados contra la propia institución o girados por ésta contra sus corresponsales o a cargo de sus propias oficinas.
 
 Los documentos recibidos de otras oficinas del mismo banco, ubicadas en otras plazas, para su cobro en la cámara local, deben cargarse a la cuenta "Canje no deducible", puesto que dichos documentos ya cumplieron su período de deducción en la oficina remitente.
 
 1.2. Canje de documentos sobre otras plazas.
 
-Los cheques y otros documentos a cargo de otros bancos pagaderos en otras plazas, deben cargarse a la cuenta "Canje de otras plazas", de la partida 1015.
+Los cheques y otros documentos a cargo de otros bancos pagaderos en otras plazas, deben cargarse a la cuenta "Canje de otras plazas", de la partida 1015, salvo que se trate de documentos en moneda extranjera pagaderos en otras plazas que sean presentados en la Cámara de Santiago, según lo previsto en el numeral 1.1 precedente.
 
 Los valores registrados en la cuenta señalada precedentemente son deducibles de las obligaciones afectas a encaje por el lapso de dos días.
 
@@ -29886,6 +29880,10 @@ Para estos efectos, los auditores externos que deben designar anualmente las ins
 
 Con el objeto de mantener la independencia indispensable que la firma de auditores debe observar en el ejercicio de sus funciones respecto de las empresas auditadas, las instituciones financieras deberán abstenerse de contratar una empresa de auditores externos que mantenga directamente o a través de terceros, intereses económicos en los negocios de la institución financiera, con su plana directiva o con los dueños o accionistas principales, o que esté subordinada en cualquier forma respecto a la institución. Al respecto se entenderá que no afecta su independencia cuando se lleven a cabo con las entidades auditadas las operaciones necesarias para el giro de la firma de auditores, siempre que no se realicen en condiciones más favorables que las obtenidas por terceros en casos similares.
 
+Una vez designada la firma de auditores que realizará la auditoria de los estados financieros y hasta el término del contrato o de la prestación específica encomendada, la institución financiera no podrá otorgarle nuevos créditos a esa firma o a cualquiera de sus socios. Igual limitación regirá cuando la firma de auditores sea contratada por alguna filial de la institución financiera.
+
+Se exceptúan de la prohibición señalada en el párrafo precedente, los créditos que se otorguen a la firma de auditores que en total no excedan del equivalente de UF 100 y un crédito hipotecario por un importe no superior de UF 5.000, destinado a la adquisición de un inmueble con el único propósito de que la empresa realice en él sus actividades. Asimismo, se exceptúan los créditos que se otorguen a algún socio cuando se trate de un crédito personal de consumo, incluido el que provenga del uso de tarjeta de crédito, y de un crédito hipotecario para vivienda. En todo caso, dichos créditos no podrán ser contratados en condiciones preferentes con respecto a los demás clientes de la institución financiera.
+
 2.- Contratación de los auditores.
 
 Para la designación de sus auditores externos, las instituciones financieras deberán solicitar y evaluar, como mínimo, las propuestas de servicios de auditoría presentadas por tres firmas de auditores independientes y que no tengan vínculos comerciales o jurídicos entre sí.
@@ -29955,6 +29953,20 @@ N° de Inscripción *Nombre de la empresa.
 005 DELOITTE HASKINS AND SELLS, SOCIEDAD DE AUDITORES y CONSULTORES.
 
 *Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos y sociedades financieras.
+
+III.- TAREAS ESPECIALES ENCOMENDADAS POR ESTA SUPERINTENDENCIA A LOS AUDITORES EXTERNOS.
+
+Las disposiciones de las letras f) y l) del D.L N° 3.538, conforme a lo dispuesto en el artículo 18 del D.L N° 1.097, facultan a esta Superintendencia para inspeccionar a las entidades fiscalizadas por medio de auditores externos o designar a esos auditores a fin de que realicen las tareas que específicamente les encomiende.
+
+En uso de esas facultades, esta Superintendencia encargará labores especiales a los auditores externos, en las instituciones financieras conforme al siguiente procedimiento:
+
+a) Para su ejecución se designará una firma de auditores externos registrada para efectuar auditorías de estados financieros de bancos o sociedades financieras.
+
+b) La firma de auditores externos y el personal de ésta que se desempeñe en estas tareas, tendrán la calidad de agentes especiales de esta Superintendencia a que se refiere el artículo 13 del D.L. N° 1.097. En consecuencia, los auditores tendrán las mismas facultades para solicitar documentación y el mismo deber de reserva establecidos en ese Decreto Ley para los funcionarios de esta Superintendencia. Conviene recalcar que esta reserva comprende a las personas y funcionarios de la empresa auditada.
+
+c) Las tareas especiales de auditoría se solicitarán en las oportunidades y con los propósitos específicos que esta Superintendencia estime convenientes para el cumplimiento de sus objetivos.".
+
+d) Los trabajos especiales de que se trata podrán ser remunerados con cargo a este Organismo y sus resultados se informarán directamente al Superintendente. Los honorarios se establecerán sobre la base de un presupuesto detallado del tiempo necesario para cumplir con los objetivos de la auditoría o trabajo especial que se solicite en cada oportunidad.
 
 ANEXO N° 1
 
@@ -30215,3 +30227,93 @@ Los importes recibidos se abonarán directamente en la cuenta comente de los res
 La entrega de los fondos de que se trata por parte del Banco del Estado de Chile, se hará efectiva mediante vales de cámara extendidos a favor de cada banco
 
 Por su parte, los importes que los bancos no puedan acreditar en la cuenta comente del beneficiario, ya sea por cuenta cerrada o por otra causa, serán devueltos al Banco del Estado de Chile también mediante vales de cámara.
+
+CAPITULO 20-6 (Bancos y Financieras)
+
+MATERIA:
+
+PUBLICACIONES EN EL BOLETIN DE INFORMACIONES COMERCIALES.
+
+I.- ENVIO DE INFORMACION AL BOLETIN DE INFORMACION COMERCIALES.
+
+1.- Envío de nómina de cheques protestados.
+
+El D.S. N° 1.971 del Ministerio de Hacienda, del 9 de abril de 1945, modificado por el D.S. N° 414, de 24 de junio de 1978, ordena enviar semanalmente, para su publicación en el Boletín de Informaciones Comerciales, los cheques protestados por falta de fondos o por haber sido girados contra cuenta corriente cerrada. El D.S. N° 4.368 del Ministerio de Hacienda, de 25 de octubre de 1946, autoriza al Boletín de Informaciones Comerciales para publicar, a costa de los interesados y a requerimiento de éstos, los cheques que han sido pagados con posterioridad a su protesto.
+
+De conformidad con la disposición citada, los bancos que protesten cheques por falta de fondos o por cuenta cerrada, deben enviar semanalmente a la Cámara de Comercio de Santiago, o a las instituciones en que la Cámara de Comercio de Chile haya delegado sus funciones, una nómina de los cheques protestados por las referidas causales en la semana inmediatamente anterior, con la siguiente información: Nombre completo del girador y número del Rol Unico Tributario de este; suma por la cual se emitió el cheque; Oficina del banco que hizo el protesto y, cuando corresponda, observaciones acerca de algún cheque.
+
+Todos los cheques que figuren en la nómina, se entenderán protestados por falta de fondos, sin necesidad de que dicha circunstancia se anote expresamente. En el caso que el protesto se deba al motivo de haberse girado contra cuenta corriente cerrada, será preciso indicar este hecho.
+
+Con el fin de favorecer el pago del cheque con posterioridad a su protesto e informar sólo acerca de aquellos que aparecen como definitivamente impagos, las oficinas bancarias que envíen las nóminas en referencia excluirán de ellas los cheques protestados que se hubieren pagado antes del despacho de la misma.
+
+Los cheques en moneda extranjera que sean protestados por falta de fondos o cuenta cerrada, también deben ser informados, de la misma manera, al Boletín de Informaciones Comerciales.
+
+2.- Envío de nóminas de letras y pagarés no pagados a su vencimiento.
+
+2.1.- Documentos no protestados.
+
+De conformidad con lo dispuesto en la letra a) del N° 6 del D.S. N° 950, del Ministerio de Hacienda, del 22 de marzo de 1928, según la modificación introducida por el D.S. N° 625, publicado en el Diario Oficial de fecha 29 de septiembre de 1982, los bancos y sociedades financieras deben enviar semanalmente al Boletín de Informaciones Comerciales una nómina de las letras de cambio y pagarés, aceptados o suscritos con la firma autorizada por un Notario, a la orden del respectivo banco o sociedad financiera, no pagados a su vencimiento y que no hayan sido protestados por falta de pago por Notario u Oficial del Registro Civil en su caso.
+
+De acuerdo con lo señalado precedentemente, se deben reunir las siguientes exigencias copulativas para el envío de la mencionada información:
+
+i) Que se trate de letras de cambio o pagarés cuya aceptación o suscripción haya sido autorizada por un Notario.
+
+ii) Que el respectivo documento haya sido otorgado a la orden de un banco o de una sociedad financiera. Por lo tanto, quedan excluidos de esta disposición las letras de cambio y pagarés que una institución pueda haber adquirido mediante su compra o descuento o aquellos que le hayan sido entregados en cobranza o a cualquier otro título.
+
+III) Que el documento no haya sido protestado por falta de pago por Notario u Oficial del Registro Civil en su caso. De lo anterior queda en claro que la obligación de las instituciones financieras de informar al Boletín los documentos no pagados a su vencimiento, sólo existe si resuelven no enviar dichos documentos para su protesto a Notaría y como alternativa de esta actuación.
+
+En concordancia con lo expuesto, cabe señalar que las instituciones financieras tienen la obligación de enviar a Notaría para su protesto, todos los documentos que, en la fecha de su pertinente vencimiento, no hayan sido debidamente pagados o prorrogados, con la única excepción de aquellos que informan directamente al Boletín de Informaciones Comerciales de conformidad con lo dispuesto precedentemente y de los que estuviesen en el caso contemplado en el numeral 2.2 siguiente.
+
+La nómina de letras y pagarés debe enviarse semanalmente a la Cámara de Comercio de Santiago con la información de la semana inmediatamente anterior. Dichas nóminas deberán contener la siguiente información:
+
+a) el monto de la letra de cambio o del pagaré;
+
+b) el nombre, Rol Unico Tributario y domicilio del aceptante o del suscriptor, según se trate de letra de cambio o pagaré; y
+
+c) nombre del girador, en el caso de las letras de cambio, o del suscriptor si se trata de pagarés.
+
+En caso que los obligados al pago de estos documentos efectúen su cancelación antes del despacho de la nómina, las instituciones financieras excluirán de ella esa información.
+
+2.2.- Nómina de documentos protestados por la propia institución financiera de acuerdo con la Ley 18.092.
+
+De conformidad con lo dispuesto en la letra b) del N° 6 del D.S. N° 950 antes mencionado, modificado por el D.S. N° 625, de 1982, las instituciones financieras que establezcan el sistema de protesto de letras de cambio de que trata el artículo 71 de la Ley 18.092, quedan obligadas a enviar semanalmente al Boletín de Informaciones Comerciales una nómina de las letras de cambio y pagarés que hubieran protestado a su vencimiento.
+
+3.- Envió de nóminas de deudores morosos.
+
+De acuerdo con lo dispuesto por el D.S. N° 950, de 1928, del Ministerio de Hacienda, modificado por el D S. N° 883, publicado en el Diario Oficial del 26 de octubre de 1992, los bancos y sociedades financieras pueden enviar al Boletín de Informaciones Comerciales de la Cámara de Comercio de Chile, una nómina de los deudores que hayan incurrido en mora en el servicio de sus préstamos o créditos a favor del respectivo banco o sociedad financiera, excluidas aquellas deudas morosas que obligatoriamente deben informarse según lo señalado en el N° 2 precedente, como asimismo aquellas correspondientes a documentos enviados a notarla para su protesto.
+
+Las instituciones financieras que decidan hacer uso de dicha facultad enviarán las referidas nóminas dentro de los quince primeros días hábiles de cada mes con los siguientes datos;
+
+a) Nombre completo y RUT del deudor.
+
+b) Importe de la deuda directa que no fue pagada por el deudor en el mes precedente.
+
+En ningún caso podrán incluirse como morosas las deudas cuyos créditos no consten de un titulo ejecutivo, por las mismas razones dadas en el numeral 2.3, letra a), del Capitulo 18-5 de esta Recopilación.
+
+Las instituciones financieras que opten por enviar estas nóminas quedan obligadas a: a) mantener siempre el envío mensual de la nómina; y, b) incluir en cada nómina todos los deudores que cumplan las condiciones anteriormente señaladas, sin discriminar entre ellos. Con todo, se excluirán de las nóminas los deudores que hayan solucionado su morosidad antes del envío de la respectiva nómina.
+
+4.- Forma de enviar la información.
+
+Las nóminas que envíe cada oficina bancaria deben numerarse correlativamente y entregarse con la información ordenada de la forma que requiera el Boletín para su mejor procesamiento.
+
+Si bien las nóminas pueden ser remitidas solamente en forma impresa, a fin de hacer más eficiente el sistema y eliminar la posibilidad de errores en las transcripciones de datos, resulta recomendable que las instituciones financieras, en la medida que sus posibilidades se lo permitan, envíen la información en medios magnéticos cuando se informen más de 20 datos, sin perjuicio de enviar, como medio de prueba, el respectivo listado impreso con dicha información.
+
+En todo caso, las instituciones financieras deberán mantener en su poder una copia de las nóminas enviadas, sea en forma impresa o en medios magnéticos.
+
+II. PERDIDA DE VIGENCIA DE LA INFORMACION PUBLICADA EN EL BOLETIN DE INFORMACIONES COMERCIALES. ACTUACION DE LAS INSTITUCIONES FINANCIERAS.
+
+El artículo 10 del Decreto Supremo N° 950, de 1928, ya citado, introducido por el Decreto Supremo N° 516, publicado en el Diario Oficial del 11 de junio de 1988, establece lo siguiente:
+
+#### Artículo 10
+
+Las publicaciones aparecidas en el Boletín de Informaciones Comerciales dejarán de tener vigencia en los siguientes casos:
+
+a) Si se ha publicado la respectiva aclaración de acuerdo con el artículo 4° de este Decreto; y
+
+b) Si han transcurrido más de 5 años de la respectiva publicación en el referido Boletín.".
+
+Del texto transcrito se desprende claramente que, al dejar de tener vigencia estas publicaciones, el efecto que se produce es el mismo que si no existieran. Por lo tanto, si una institución financiera tiene que resolver el otorgamiento de un crédito o la apertura de una cuenta corriente a una persona que registra un protesto aclarado o uno que lleve más de cinco años publicado, debe pura y simplemente abstraerse de la existencia de esos protestos y proceder como si no hubiesen existido jamás.
+
+Por la misma razón, es improcedente que la institución invoque tales protestos para justificar su negativa a conceder un crédito o abrir una cuenta corriente. Nadie discute que todo banco es libre de otorgar o no un crédito o de aceptar abrir una cuenta corriente o negarse a ello, pero no puede justificar su negativa en la existencia de un protesto que la normativa legal ha dejado fuera de vigencia.
+
+Lo señalado en los párrafos precedentes deberá estar en conocimiento de todos los funcionarios de la institución financiera que sean responsables del otorgamiento de operaciones de crédito, de aperturas de cuentas corrientes o de informes bancarios internos o externos, debiendo tenerse presente que, de infringirse sus disposiciones, podrán aplicarse las sanciones que resulten procedentes, tanto a la institución como al funcionario.
