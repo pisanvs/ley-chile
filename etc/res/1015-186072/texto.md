@@ -1,0 +1,5 @@
+Por resolución Nº 1.015, de 28 de mayo de 2001, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones Nº 127 de 1982 y Nº 2 de 1985, ambas de esta Subsecretaría, sólo en cuanto autorizaron a la UNIVERSIDAD CATOLICA DE VALPARAISO para realizar actividad con la nave Tiberiades sobre los siguientes recursos hidrobiológicos: Langostino amarillo, Merluza común, Jurel, Pez espada.
+
+Asimismo, declárase la caducidad parcial de la resolución Nº 2 de 1985, de esta Subsecretaría, sólo en cuanto autorizó a Universidad Católica de Valparaíso para realizar actividad con la nave Tiberiades, respecto del recurso Langostino colorado, en el área marítima comprendida entre los paralelos 18°22' L.S. y 29°16' L.S.
+
+Valparaíso, 28 de mayo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
