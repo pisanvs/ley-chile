@@ -1,0 +1,3 @@
+Por resolución N° 1.065 de 10 de junio de 1996 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD EXPLOTADORA Y COMERCIALIZADORA DE PRODUCTOS MARINOS PRINCIPADO S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en sector camino a San Antonio s/n, Quellón, X Región, en las líneas de elaboración de Congelado y Fresco-refrigerado, el recurso hidrobiológico Loco Concholepas concholepas.
+
+Valparaíso, 10 de junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
