@@ -1,0 +1,5 @@
+En cumplimiento de lo dispuesto por los decretos del Ministerio de Economía Nº291, de 11 de junio de 1999, y Nº668 de 16 de noviembre de 1999, certifico que por resolución (E) Nº501, de 05 de julio de 2000, del Sr. Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción, se definieron las áreas industriales y turísticas de la Provincia de Valparaíso donde se aplicarán los subsidios contemplados en el Fondo de Promoción de Inversiones para las Zonas Productivas Rezagadas o de Reconversión Productiva, dejando sin efecto la resolución Nº96 (E) de 1997.
+
+El texto completo de la resolución Nº501 (E), de 05-07-2000, estará a disposición de los usuarios en la Secretaría General de la Corporación y en las Direcciones Regionales.
+
+Santiago, 7 de julio de 2000.- Yerko Koscina Peralta, Secretario General.
