@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.132 de 30 de Agosto de 1985, conforme Art.
+
+5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector expropiado predios "El Carmen", "Hijuela Primera de la Hacienda del Tránsito" de la comuna de Longaví, VII Región y derechos de aprovechamiento de aguas que corresponden a las parcelas Nos. 1 a la 74, sitios Nos.. 1 al 23 y Reserva CORA No. 1, 2 y 3 del proyecto de parcelación "El Carmen" formado por predios señalados. Los derechos de agua se extraen del canal Melado, canal La Sexta o Tránsito derivado del río Longaví. Estero La Potrada, Estero Pellines o El Cachorro afluente del Estero Las Toscas.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
