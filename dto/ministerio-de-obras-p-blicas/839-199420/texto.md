@@ -1,0 +1,3 @@
+Por decreto MOP Nº839, de 30 de abril del 2002, se expropió el lote de terreno Nº69, superficie 367 m2., rol de avalúo 670-7, comuna de El Tabo, para la obra Red Litoral Central Sector 1: Nuevo Camino Costero Acceso a El Tabo Kms. 0.000,00 al 3.822,00, Quinta Región y se acordó el valor de indemnización con su propietario Félix Ramón Bahamondes Manzo y Julio César Acuña Cubillos, ascendente a la cantidad de $3.291.101.- para el lote Nº69.
+
+Fiscal del Ministerio de Obras Públicas .
