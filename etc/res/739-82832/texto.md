@@ -1,0 +1,3 @@
+Por resolución No. 739, de 08 de Junio de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la resolución No. 313, de 1990, de esta Subsecretaría, que autorizó a Pesquera Loa Sur S.A., R.U.T. No. 95.059.000-9 domiciliada en Santiago, para ampliar actividades pesqueras, en el sentido de sustituir en su numeral 2° la expresión "Bahía Pumullin" por "Bahía Pumalin".
+
+Valparaíso, 08 de Junio de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
