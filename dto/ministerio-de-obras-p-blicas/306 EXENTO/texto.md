@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº306, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº52-A, superficie 150 m², rol de avalúo 528-30, comuna de Linares, para la obra "Camino Ruta L-32, Sector Cruce Ruta 5 - Puente Sifón, Tramo Km. 2,320 a Km. 17,666,44 y Kms. 0,000 al 0,963 (Variante)" y se acordó el valor de indemnización con su propietario Rubén Antonio Lobos Torres, ascendente a la cantidad de $171.021.-.
+
+Fiscal del Ministerio de Obras Públicas.
