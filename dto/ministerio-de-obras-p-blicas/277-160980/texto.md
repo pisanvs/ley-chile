@@ -1,0 +1,3 @@
+Por decreto MOP Nº 277, de 31 de enero del 2000, se expropió el lote de terreno Nº 128, superficie 19 m2, rol de avalúo 136-240, comuna de Paine, para la obra Concesión Internacional Ruta 5 Tramo: Santiago - Talca Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietaria Raquel Gajardo Morales, ascendente a la cantidad de $424.994.
+
+Fiscal del Ministerio de Obras Públicas.
