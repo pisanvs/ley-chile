@@ -1,0 +1,5 @@
+Por resolución Nº1.161, de 12 de agosto de 1998, de esta Subsecretaría, autorízase a PESQUERA IQUIQUE GUANAYE S.A., para continuar desarrollando actividades pesqueras con una nave en construcción denominada ''Colomba III'', en el litoral de la V, VI, VII y IX regiones respecto del recurso hidrobiológico Jurel, declarado en plena explotación y sometido a dicho régimen de administración, derechos que fueron transferidos por Pesquera Colomba S.A. a Pesquera Iquique Guanaye S.A., conjuntamente con la nave en construcción, de conformidad con lo dispuesto en el artículo 23 de la Ley General de Pesca y Acuicultura.
+
+Déjase sin efecto las resoluciones Nº492, de 1992, Nº1.740, de 1995 y Nº1.763, de 1997, todas de esta Subsecretaría, que autorizaron a Pesquera Colomba S.A. para operar la nave ''Colomba III''.
+
+Valparaíso, 12 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
