@@ -150,6 +150,8 @@ Los trabajos necesarios e impostergables para la buena marcha de las empresas:
 
 7º La formacion de los inventarios y balances en las empresas industriales y comerciales.
 
+8.° Los trabajos de personas que desempeñen labores de mera vigilancia como los cuidadores o serenos.
+
 V. 5.a Categoría
 
 Los trabajos de carácter impostergable destinados a reparar deterioros irrogados por fuerza mayor o caso fortuito, y particularmente, los daños producidos por incendios, accidentes ferroviarios, naufrajios, derrumbes, inundaciones, huracanes, terremotos y otras causas imprevistas análogas.
