@@ -1,0 +1,7 @@
+Por decreto MOP Nº1.027, de 25 de junio de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº1, para la obra:
+
+''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 4: Km. 12.370,00 a Km.
+
+21.300,00'', Región Metropolitana, que figura a nombre de Senerman Lamas Abraham, rol de avalúo 2908-15, comuna de Pudahuel, superficie 535 m2. La comisión de peritos integrada por los señores Gustavo Domínguez Errázuriz, Carmen Pilar Ríos Marcuello y Jaime Rolando Jurgens Bittner, fijó con fecha 9 de febrero de 2001, el valor provisional de la indemnización en la cantidad de $4.983.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
