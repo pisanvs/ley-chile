@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.580, de 31 de diciembre de 2003, de esta Subsecretaría, rectifícase la resolución Nº 3.463 de 2003, de esta Subsecretaría, que autorizó la distribución de la fracción artesanal de pesquería de Merluza común en Regiones que indica, en el sentido de señalar que la fecha de ésta es el 23 de diciembre y no la que allí se indica.
+
+Valparaíso, 31 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
