@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 319, de fecha 30 de octubre 1992, se expropió el lote de terreno N° 7, superficie 1.143 M2., rol de avalúo 3709-27, Comuna de Talca, para la obra Camino Longitudinal Sur Ruta 5, 2a. Calzada, sector Puente Lirca y se acordó el valor de indemnización con su propietario Congregación Salesiana de Chile, ascendente a la cantidad de $6.084.186.-
+
+Fiscal del Ministerio de Obras Públicas.
