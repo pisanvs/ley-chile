@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.666, de 30 de junio de 2000, se expropió el lote de terreno Nº215-1, superficie 1.573 m2, rol de avalúo 202-18, comuna de Zapallar, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con sus propietarios Hugo Enrique Bórquez Navia y otros, ascendente a la cantidad de $3.420.984.
+
+Fiscal del Ministerio de Obras Públicas.
