@@ -1,0 +1,5 @@
+Por decreto MOP Nº647, de 28 de marzo de 2002, modificado por decreto MOP N° 1415 de 22 de agosto de 2002 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº9, para la obra: ''Concesión Internacional Interconexión Vial Santiago - Valparaiso - Viña del Mar. Tramo 6B. km.
+
+34.660,00 A KM. 38.660,00'', Región Metropolitana, que figura a nombre de José Sergio Hernando Figueroa Olivares, rol de avalúo 103-33, comuna de Curacaví, superficie de 6.620 m2. La comisión de peritos integrada por los señores Gustavo Domínguez Errázuriz, Miguel Juan Fernández Cádiz y María Pilar Quiroga González, fijó con fecha 15 de julio de 2002, el valor provisional de la indemnización en la cantidad de $39.657.100.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
