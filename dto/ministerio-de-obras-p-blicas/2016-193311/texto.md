@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.016 de 6 de diciembre de 2001, se expropió el lote de terreno Nº15, superficie 788 m2., rol de avalúo 2470-4, comuna de Las Condes, para la obra: Concesión Internacional Sistema Oriente - Poniente. Zona Oriente: Estoril - Tabancura Tramo 9: de Km. 0.050,00 al Km. 2.751,70, Región Metropolitana y se acordó el valor de indemnización con sus propietarios José Francisco, María Fernanda, María de los Angeles y Verónica Milagro Montalva Ossa, ascendente a la cantidad de $271.952.610.
+
+- Fiscal del Ministerio de Obras Públicas.
