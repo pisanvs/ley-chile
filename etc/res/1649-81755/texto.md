@@ -1,0 +1,7 @@
+Por Resolución Nº 1.649, de 1º de diciembre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, que la nave "Don Mauro" no registra desembarques de captura sobre los recursos Anchoveta y Sardina española en la III y IV Regiones, antes del 13 de agosto de 1996, de acuerdo a la información entregada a esta Subsecretaría por el Servicio Nacional de Pesca.
+
+Que los antecedentes acompañados a la reconsideración no acreditan en forma fehaciente la operación en la III y IV Regiones, en la forma señalada en el artículo 143, letra b), en relación con el artículo 63, de la Ley General de Pesca y Acuicultura.
+
+Deniégase la solicitud de reconsideración presentada por PESQUERA TREMAR S.A., R.U.T. Nº 96.636.920-5, domiciliada en Santiago, Huérfanos Nº 835, oficina 901 y 902, respecto de la Resolución Nº 1.018, de 1997, que denegó la solicitud de reconsideración respecto de la caducidad dada en Resolución Nº 2.145, de 1996, de esta Subsecretaría sobre Anchoveta, Sardina española y otros pelágicos no declarados en plena explotación en el litoral de la III y IV Regiones.
+
+Valparaíso, 1º de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
