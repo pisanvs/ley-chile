@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.882, de 30 de septiembre de 1999, se expropió el lote de terreno Nº133-A, superficie 517 m², rol de avalúo 1404-90, comuna de Puerto Varas, para la obra "Concesión Internacional Ruta 5; Tramo: Río Bueno - Puerto Montt. Sector: Puerto Varas", Décima Región y se acordó el valor de indemnización con su propietaria Sociedad Inmobiliaria y de Inversiones Raki Limitada, ascendente a la cantidad de $1.533.812.-
+
+Fiscal del Ministerio de Obras Públicas.
