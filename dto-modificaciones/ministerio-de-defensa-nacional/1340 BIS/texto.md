@@ -1456,6 +1456,8 @@ g) Las gratificaciones se pagarán de la siguiente manera:
 
 h) Las naves a remolque serán consideradas dentro de la recepción o despacho del buque remolcador. Las naves que forman un convoy serán consideradas independientemente, para su recepción o despacho.
 
+i) Las naves nacionales inferiores a 250 toneladas de registro grueso dedicadas al transporte de carga y/o pasajeros, que naveguen exclusivamente dentro de los límites de la cuarta y quinta zona del Litoral de la República, o sea, desde el paralelo 41º sur hasta la Antártida, tendrán una rebaja del 20% de las tarifas fijadas anteriormente.
+
 ## Capítulo XXVII
 
 Pesca y caza marina
