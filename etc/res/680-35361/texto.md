@@ -1,0 +1,5 @@
+Por Resolución N° 680, de 15 de Julio de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 195, de 1994, de esta Subsecretaría, que declaró la caducidad de diversas autorizaciones de pesca extractiva, en virtud de lo señalado en el artículo 143, letra d) de la Ley General de Pesca y Acuicultura, en el sentido de dejar sin efecto el ordinal 3° de su numeral 1°, en atención a lo informado a esta Subsecretaría mediante Oficio N° 1589, de 3 de mayo de 1994, del Ministerio de Economía, Fomento y Reconstrucción.
+
+En consecuencia, las Resoluciones N° 157, de 1984, N° 94, de 1986, N° 1193, de 1988 y N° 1567, de 1990, todas de esta Subsecretaría que autorizaron a don GERMAN MOYA GARCIA, R.U.T. N° 6.648.998-6, domiciliado en calle Luis Silva Lezaeta N° 573, Gran Vía, Antofagasta, II Región, para realizar faenas de pesca extractiva con la nave "Lobera 84", continúan vigentes.
+
+Valparaíso, 15 de Julio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
