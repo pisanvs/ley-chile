@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°373, de 30 de mayo de 1996, se expropiaron los lotes de terreno N°s. 11, 15 y 14, superficies 56, 40 y 105 m2, respectivamente, roles de avalúo en trámite y 2214, comuna de Rengo, para la obra Camino Ruta H-65, sector Rengo-Popeta, y se acordó precio de indemnización con sus propietarios José Rodolfo Conejera Orellana y Haroldo Enrique Conejera Arenas, ascendente a las cantidades de $501.959.para los lotes 11 y 15 y $ 348.008.para el lote N° 14.
+
+Fiscal del Ministerio de Obras Públicas.
