@@ -1,0 +1,3 @@
+Por decreto MOP Nº 545, de fecha 30 de junio de 2004, se expropió el lote de terreno Nº 669, superficie 298 m2, Rol de avalúo Nº 32-534, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, tramo Km. 0,00000 a Km. 12,70000", VI Región, y se acordó el valor de la indemnización con su propietario Francisco Javier Alarcón Farías, ascendente a la cantidad de $6.797.748.
+
+- Fiscal del Ministerio de Obras Públicas.
