@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.497, de 30 de diciembre de 2003, se dejó sin efecto los numerales 3º , 4º , 5º , 6º y 7º, de decreto MOP Nº 377, de 25 de febrero de 2002, en la parte que se refiere al Convenio Directo de Precio Ad - Referéndum, a la suscripción de la escritura de expropiación, en lo que respecta a la indemnización del lote Nº 59-B y a la asignación presupuestaria. Consígnese judicialmente el monto de la indemnización provisional fijada por la Comisión de Peritos con fecha 31 de octubre de 2000 en la cantidad de $8.822.800.- La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 21.
+
+(1)
