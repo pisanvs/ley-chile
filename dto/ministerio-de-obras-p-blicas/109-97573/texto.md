@@ -1,0 +1,5 @@
+Por Decreto MOP. N° 109 de 11 de febrero de 1998, y en base a la facultad otorgada por el artículo lO5 del Decreto MOP. N°294 de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropió el lote de terreno N° 3-2, para la obra Camino Santiago-Colina-Los Andes Sector "C", Peldehue- Casas de Chacabuco, km.
+
+26.000,00 al 36.510,80, que figura a nombre de Casanova Fabres Adolfo G., rol de avalúo 186-161, Comuna de Colina superficie 6.188 m2. La Comisión de Peritos, integrada por los señores Enrique Figueroa Echeverría, José Cristián Larraín Barros y Carlos Albrecht Viveros, fijó con fecha 31 de octibre de 1997, el valor provisional de la indemnización en la cantidad de $26.062.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas
