@@ -1,0 +1,5 @@
+ORDEN EXPROPIACIONES DE INMUEBLES QUE INDICA
+
+Resolución 226, 6 agosto 1996, SERVIU Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Diego Portales 570 esquina con Avenida Cementerio, Rol de Avalúo N° 201-25, comuna Santa Bárbara, superficie 23.554,65 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-11791; de aparente dominio de don Mateo Vidal Campos, para ejecución programa de expropiaciones para la adquisición de terrenos años 1996 y siguientes, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 26 de junio de 1996, fijó monto provisional indemnización en $42.320.638.- pagadera de contado.
+
+Director Serviu Región del Bío Bío.
