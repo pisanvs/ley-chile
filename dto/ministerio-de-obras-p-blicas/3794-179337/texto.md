@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.794, de 28 de agosto de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº594, para la obra: Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector C: acceso Sur a Santiago. KM.
+
+17.700,00 al Km. 46.600,00, Región Metropolitana, que figura a nombre de Claudio Matte Garcés, rol de avalúo 319-45, comuna de Buin, superficie 46.764 m². La Comisión de Peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Jorge Eduardo Lackington Vergara y Mario Bochetti Ojeda, fijó con fecha 28 de junio de 2000, el valor provisional de la indemnización en la cantidad de $228.234.264.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
