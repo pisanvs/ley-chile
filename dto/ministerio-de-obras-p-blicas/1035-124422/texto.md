@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.035, de 30 de julio de 1998, se expropiaron los lotes de terreno No. s.20-A y 63, superficies 400 y 20 m², roles de avalúo 212-462 y 213-21, comuna de Chimbarongo, obra Camino Ruta 1-85-J, Sector Cruce Longitudinal (Chimbarongo) - Codegua, y se acordó precio de indemnización con sus propietarios Sergio del Carmen López Urrea y Juan Luis Cañete Saavedra, ascendente a las cantidades de $ 1.538.240.- y $ 455.280.-
+
+Fiscal del Ministerio de Obras Públicas.
