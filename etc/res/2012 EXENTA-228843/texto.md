@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.012, de 28 de julio de 2004 de esta Subsecretaría, amplíase hasta el 31 de diciembre de 2004 el plazo otorgado en el numeral 11 de la resolución Nº 220 de 2002, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE para realizar las actividades experimentales de mantención de ejemplares de Abalón japonés.
+
+Valparaíso, 28 de julio de 2004.- Edith Saa Collantes, Subsecretario de Pesca (S).
