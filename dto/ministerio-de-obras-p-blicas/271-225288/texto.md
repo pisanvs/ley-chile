@@ -1,0 +1,3 @@
+Por decreto MOP Nº 271, de fecha 31 de marzo de 2004, se expropió el lote de terreno Nº 50-I, superficie 235,00 m², rol Nº 2190-165, comuna de Puerto Montt, para la obra "Camino Ruta V-505, Sector Puerto Varas - Alerce - Puerto Montt, Tramo Km. 0,000 a Km. 16,340", X Región y se acordó el valor de la indemnización con su propietaria Carmen Irene Paredes Garcés, ascendente a la cantidad de $13.547.434.
+
+- Fiscal del Ministerio de Obras Públicas.
