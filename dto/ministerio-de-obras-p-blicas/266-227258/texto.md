@@ -1,0 +1,5 @@
+Por Decreto M.O.P. No. 266 de 6 de Noviembre de 1987 y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. No. 294, de 1984, que fijó el texto actualizado de la Ley No. 15.840, se expropió el lote de terreno No. 2, para la obra Alcantarillado de Linares, Mejoramiento Integral del Sistema de Alcantarillado de Aguas Servidas, que figura a nombre de doña Aída Pereira Pereira, rol de avalúo 537-66, comuna de Linares, superficie 7.980 m2. Deslindes: Norte: Propiedad de don Dagoberto Cabrera R.; Sur y Oriente: Propiedad Iansa, y Poniente: Resto del predio afectado con la expropiación. La Comisión de Peritos compuesta por los señores Renato Guerra Estévez, René Ramírez Valenzuela y Emilio Kort Micaly, fijó con fecha 22 de octubre de 1986, el valor provisional de la indemnización en $ 558.600.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley No.
+
+2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
