@@ -1,0 +1,3 @@
+Por Resolución N° 839, de 20 de Julio de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por COMERCIAL MAC LEAN Y COMPAÑIA LIMITADA, R.U.T. N° 79.878.750-0, para un sector ubicado en Fiordo Montañas, Bahía Mac Lean, comuna de Natales, Provincia de Ultima Esperanza, XII Región, conforme a lo dispuesto en el artículo 67°, inciso 5°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de Julio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
