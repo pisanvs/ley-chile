@@ -1,0 +1,3 @@
+Por resolución Nº 1.671, de 26 de noviembre de 1998, declárase la caducidad de la resolución Nº 1.346 de 1996, de esta Subsecretaría, que autorizó a PESCA CHILE S.A., para operar la nave ''Betanzos'', en la captura del recurso hidrobiológico Orange roughy en el litoral comprendido entre los paralelos 44°30' L.S. y 57°00' L.S.
+
+Valparaíso, 26 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
