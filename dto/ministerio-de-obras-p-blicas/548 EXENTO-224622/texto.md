@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 548 de fecha 31 de marzo de 2004, se expropió el lote de terreno Nº 7, superficie 472 m², rol de avalúo Nº 311-326, comuna de Freire, para la obra "Camino Ruta 5, Vialidad Complementaria, Sector Acceso Norte Freire, Tramo Km. 0,00000 a Km. 0,85187", IX Región y se acordó el valor de la indemnización con su propietario Eugen Detlev Roth Schleyer, ascendente a la cantidad de $2.313.922.
+
+Fiscal del Ministerio de Obras Públicas.
