@@ -1,0 +1,5 @@
+Por decreto MOP. Nº 138 de l8 de febrero de l998,y en base a la facultad otorgada por el artículo lO5 del decreto MOP. Nº 294 de 1984 (D.F.L. Nº 85O de 1997), que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº l - A, para la obra Camino Santiago - Colina - Los Andes Sector "C", Peldehue - Casas de Chacabuco, km.
+
+26.000,00 al 36.510,80, que figura a nombre de Cía Minera Disputada de Las Condes, rol de avalúo 185-11, Comuna de Colina, superficie 13.598 m2,. La Comisión de Peritos integrada por los señores Enrique Figueroa Echeverría, José Cristián Larraín Barros y Carlos Albrecht Viveros, fijó con fecha 31 de octubre de 1997, el valor provisional de la indemnización en la cantidad de $44.174.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
