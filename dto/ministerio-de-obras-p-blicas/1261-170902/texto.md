@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.261, de 31 de marzo de 2000, se expropió el lote de terreno Nº500, superficie 128 m2., rol de avalúo 1465-2, comuna de Puente Alto para la obra Concesión Internacional Ruta 5; Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Wladimir Bustos Vergara, ascendente a la cantidad de $13.404.458.-
+
+Fiscal del Ministerio de Obras Públicas.
