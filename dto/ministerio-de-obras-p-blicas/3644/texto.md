@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.644, de 30 de noviembre de 1999, se expropiaron los lotes de terreno Nºs. 3 y 5, superficies 220,0 m² y 528,0 m², rol de avalúo 3279-36, comuna de Temuco, para la obra Concesión Internacional Ruta 5, Tramo: Collipulli - Temuco, Sector II: Pillanlelbún Gorbea, Km. 657.000 a Km. 718,336, Tramo 2: By Pass Temuco, Novena Región y se acordó el valor de indemnización con su propietaria Congregación de Misioneros del Corazón de María, ascendente a la cantidad total de $13.149.648.
+
+Fiscal del Ministerio de Obras Públicas.
