@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 159, de 27 de junio de 1990, se expropiaron los lotes de terreno N°s. 8, 9 y 11, superficies 3.944 m2. y 960 m2., respectivamente, roles de avalúos 1280-83 y 341-1, todos de la Comuna de Penco, para la obra Ampliación y Reposición Ruta 150, Concepción Lirquén, sector Penco Lirquén y se acordó precio de indemnización con su propietario Puerto Lirquén S.A., ascendente a la suma de $ 4.231.742.-
+
+Fiscal del Ministerio de Obras Públicas.
