@@ -1,0 +1,3 @@
+El Banco Central de Chile, sobre la base de los antecedentes proporcionados por el Fondo Monetario Internacional y Corfo de Nueva York certifica, a requerimiento de la Dirección General del Territorio Marítimo y de Marina Mercante, para los efectos de lo dispuesto en el Artículo N° 116 del Decreto Supremo de la Subsecretaría de Marina N° 427, de 25 de junio de 1979, que la variación experimentada por el Indice de Precios al Consumidor de los Estados Unidos de América, entre el 1° de diciembre de 1992 y el 30 de noviembre de 1993, fue de 2,67%.-
+
+Santiago, diciembre 13 de 1993.- Víctor Vial del Río, Ministro de Fe, Banco Central de Chile.
