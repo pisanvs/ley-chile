@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.563 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 32, superficie 207 m²., rol de avalúo 451-9, comuna de Chimbarongo, para la obra ''Concesión Internacional Ruta 5 Tramo Santiago - Talca Sector I: Km. 140.850,00 a Km. 151.500,00'' y se acordó el valor de indemnización con su propietario Jorge Eugenio Pavez Cáceres, ascendente a la cantidad de $629.304.-
+
+Fiscal del Ministerio de Obras Públicas.
