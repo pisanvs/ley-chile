@@ -1342,9 +1342,7 @@ El sistema de cobro y cálculo de comisiones que los bancos establezcan, así co
 
 Conforme a lo dispuesto en el artículo 8° de la Ley sobre Cuentas Corrientes Bancarias y Cheques, los pagos de intereses por los saldos en cuenta corriente,al igual que los cobros por comisiones de que trata el número precedente, deben regirse por las normas dictadas por el Banco Central de Chile.
 
-Las disposiciones del Instituto Emisor, vigentes sobre la materia, no permiten a los bancos pagar intereses por los saldos mantenidos en las cuentas corrientes en moneda chilena.
-
-Al tratarse de cuentas corrientes en moneda extranjera, los bancos están facultados para pactar libremente el pago de intereses sobre los saldos, de acuerdo con las disposiciones contenidas en el Capítulo XXII del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+Las disposiciones del Instituto Emisor, vigentes sobre la materia, no permiten a los bancos pagar intereses por los saldos mantenidos en las cuentas corrientes.
 
 ### 7. Entrega de estados de movimiento y saldos de cuentas corrientes
 
