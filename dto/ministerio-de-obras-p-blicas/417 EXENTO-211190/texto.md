@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº417 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº32, superficie 120 m², Rol de Avalúo en trámite, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz-Yaquil, Rol I-730, Km. 0,00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietaria Flor María Salas Riveros, ascendente a la cantidad de $737.445.
+
+Fiscal del Ministerio de Obras Públicas.
