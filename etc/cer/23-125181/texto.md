@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A SOCIEDAD MADERERA INDUSTRIAL Y COMERCIAL TEMAFI LTDA.
+
+Núm. 23.- Certifico que Sociedad Maderera Industrial y Comercial Temafi Ltda., Rut. Nº 89.730.000-1, cumple los requisitos establecidos en la resolución Nº 5.362, de 29.10.97 y que en consecuencia tiene la calidad de agente retenedor del Impuesto al Valor Agregado por las compras de madera que ella efectúe, entendiendo por madera, al bosque en pie y a los roductos que se obtengan de su corta, trozado, aserrío, astillado y otra forma de divisionamiento o presentación, cualquiera sea su denominación, incluyendo la leña y los subproductos que se obtengan de dichos procesos, durante el período comprendido entre el 1º del mes siguiente al de la publicación de este certificado en el Diario Oficial y el 31 de octubre de 1998.
+
+Valparaíso, 2 de septiembre de 1998.- Francisco Cárcamo Avendaño, Director Regional.
