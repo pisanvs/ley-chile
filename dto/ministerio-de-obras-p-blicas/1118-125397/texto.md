@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.118, de 30 de julio de 1998, se expropió el lote de terreno No. 10-I, superficie 4.673,8 m2., Rol de Avalúo 186-6, comuna de Colina, para la Obra Camino Santiago-Colina-Los Andes, Sector Enlace Chacabuco, Km. 41.042,20 a 43.000,00, Región Metropolitana, y se acordó precio de la indemnización con Silva Negrete Elena Domitila, ascendente a la cantidad de $ 43.202.986.
+
+- Fiscal del Ministerio de Obras Públicas.
