@@ -1,0 +1,3 @@
+Por resolución Nº2.976, de 24 de diciembre de 2002, de esta Subsecretaría, autorízase a PESQUERA LOTA VEDDE S.A. SANTA MARIA Y COMPAÑIA COMANDITA POR ACCIONES para continuar desarrollando actividades pesqueras con la nave "Santa María II", autorizada por resoluciones Nº1.512 de 1996, Nº980 de 1998, Nº2.651 de 1999, Nº1.403, Nº1.943 y Nº2.975, todas de 2002, de esta Subsecretaría.
+
+Valparaíso, 24 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
