@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.842, de 28 de abril del 2000, se expropió el lote de terreno Nº 26-A, superficie 3.522 m2., rol de avalúo 1504-51, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli, Octava Región, y se acordó el valor de indemnización con su propietario Ramón Nonato Carrasco Aguilera, ascendente a la cantidad de $5.868.550.
+
+Fiscal del Ministerio de Obras Públicas.
