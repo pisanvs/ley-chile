@@ -1,0 +1,1 @@
+Autoriza la transferencia a la Universidad de Concepción de los fundos "Andalién" y "Bellavista", ubicados en la comuna de Penco.
