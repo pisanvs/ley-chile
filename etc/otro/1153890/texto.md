@@ -1,0 +1,5 @@
+Alumbrado i custodia de las calles
+
+Entre los bienes que medita el Gobierno i desea proporcionar a esta capital, son el alumbrado de sus calles i su custodia, por medio del establecimiento de serenos, los que cree mui fáciles i de una utilidad conocida i por eso practicados en quasi todas las ciudades aun mui inferiores a ésta. V.S. que en el modo posible ha entablado ambos objetos sosteniendo dos guardias de tiendas, i la iluminacion de los barrios del comercio, manifestando en ello la persuacion de las ventajas que traen a la seguridad i comodidad públicas i por consecuencia su disposicion a concurrir con sus instrucciones, persuacion i esfuerzos a la delatacion de un beneficio de que es autor: por eso esta autoridad no duda que le ayudará a franquear los primeros pasos i que le indicará los medios de adoptar el Reglamento hecho en Lima el año 1807, que incluye, i que se repitan aqui los buenos efectos que allí ha producido.
+
+Dios gü &. Santiago 1 Diciembre 9 de 1812.- Carrera.- Portales.
