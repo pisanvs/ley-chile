@@ -1,0 +1,3 @@
+Por decreto MOP Nº281, de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº31, superficie 11.236 m2., rol de avalúo 842-3, comuna de Traiguén, para la obra "Camino Mejoramiento Ruta R-90-P, Sector Traiguén - Lumaco, Km. 0,000 al Km. 21,86933, tramo I Km. 0,000 al Km. 12,181", IX Región y se acordó el valor de indemnización con su propietaria Alicia Mabel Contreras Contreras, ascendente a la cantidad de $3.246.231.-
+
+Fiscal del Ministerio de Obras Públicas.
