@@ -1,0 +1,3 @@
+Decreto Secc. 2ª Nº 438, 05/06/1998, Alcalde Municipalidad Santiago dispone expropiación parcial, conforme art. 85 decreto 458 Ministerio Vivienda y Urbanismo inmueble San Isidro 379-387 Rol Nº 520-010-011, comuna Santiago, dominio aparente Puerto Fuy S.A., superficie aproximada 49,84 metros cuadrados. Deslindes: Norte, 0,90 mts. otro propietario; Sur, 2,75 mts. otro propietario; Oriente, 27,35 mts. calle San Isidro y Poniente, 27,27 mts. resto predio. Indemnización $10.675.728.- pagadera contado.
+
+Jaime Ravinet de la Fuente, Alcalde Santiago.
