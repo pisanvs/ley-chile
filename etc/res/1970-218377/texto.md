@@ -1,0 +1,15 @@
+CREA JUNTAS INSCRIPTORAS EN LAS COMUNAS DE HUECHURABA, MAIPU Y COLINA, REGION METROPOLITANA DE SANTIAGO
+
+Núm. O-1.970.- Santiago, 4 de diciembre de 2003.- Visto:
+
+1.- El gran crecimiento poblacional y de la superficie urbana en las comunas de Huechuraba, Maipú y Colina; y
+
+2.- Lo dispuesto en los artículos 13 y 93º letras i) y k) de la ley Nº 18.556, Resuelvo:
+
+1.- Créanse a contar del día 5 de abril del 2004, en los sectores de Los Libertadores, Los Pajaritos y Chicureo, comunas de Huechuraba, Maipú y Colina, respectivamente, Juntas Inscriptoras permanentes, cuyos territorios jurisdiccionales serán comunales.
+
+2.- Las Juntas Inscriptoras que se crean funcionarán en período ordinario los siete primeros días hábiles de los meses de junio, julio y agosto de cada año, y en los períodos extraordinarios que contempla la letra b) del inciso 1º del artículo 35 de la ley Nº 18.556.
+
+> **Nota.** El numeral 1° de la Resolución 72, Servicio Electoral, publicada el 31.03.2016, modifico la presente norma en el sentido de fijar límites jurisdiccionales para las circunscripciones electorales que se indican: Los Libertadores: Al Norte, límite comunal con la comuna de Colina; al Sur, Av. Américo Vespucio Norte, desde la Carretera General San Martín hasta la calle El Rosal (límite comunal con las comunas de Conchalí y Recoleta); al Oeste, Carretera General San Martín, desde Av. Américo Vespucio Norte en línea recta por Puntilla Puente Verde, hasta la intersección con la comuna de Colina (límite comunal con la comuna de Quilicura); al Este, calle El Rosal, desde Av. Américo Vespucio Norte siguiendo una línea imaginaria hasta el límite con la comuna de Colina. Los Pajaritos: Al Norte, Av. Santa Corina, desde Av. Lo Errázuriz hasta Las Torres - Los Pajaritos - Av. Teniente Cruz, siguiendo por Av. Los Mares - Autopista Vespucio Norte y Av. Laguna Sur hasta el Río Mapocho (límite comunal con las comunas de Pudahuel y Estación Central); al Sur, Zanjón de La Aguada, desde Av. Lo Errázuriz, siguiendo por Av. Las Torres - Autopista del Sol, hasta el Zanjón de La Aguada al Poniente; al Oeste, Río Mapocho, desde el Zanjón de la Aguada hasta el límite comunal con la comuna de Pudahuel y, al Este, Av. Lo Errázuriz, desde Av. Santa Corina hasta el Zanjón de La Aguada (límite comunal con las comunas de Estación Central y Cerrillos). Chicureo: Al Norte, Liray, desde la Panamericana Norte siguiendo por Santa Marta de Liray - Lo Pinto y, desde la Autopista Los Libertadores (Km. 21) hacia el Oriente por los faldeos Sur del Cerro La Guaca, siguiendo en línea recta por la Quebrada La Leonera hasta la intersección con el límite comunal de la comuna de Lo Barnechea; al Sur, límite comunal con la comuna de Huechuraba, desde la intersección con la comuna de Quilicura y hasta la intersección con la comuna de Lo Barnechea; al Oeste, límite comunal con las comunas de Quilicura y Lampa y, al Este, límite comunal con la comuna de Lo Barnechea.
+
+Anótese, comuníquese y publíquese.- Andrés Merino Espiñeira, Director (S).
