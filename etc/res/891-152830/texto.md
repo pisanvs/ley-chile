@@ -1,0 +1,5 @@
+AUTORIZA A DON BENITO SANTIC SARDELIC PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 891, de 10 de Agosto de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Benito Santic Sardelic, Yugoslavo, carnet de extranjería No. 3.917.712-9, domiciliado en calle Vivar No. 762, Iquique, para operar la embarcación denominada "Anarella Andrea S.I.", en el litoral de las Regiones I a V, ambas incluidas, en faenas extractivas de los siguientes recursos hidrobiológicos: cabrilla española, cabrilla común, pejerrey de mar, cojinova, corvina y bonito, que extraerá con trasmallo; congrio dorado, congrio negro, congrio colorado, merluza común, raya, atún aleta amarilla, atún aleta larga, albacora, tiburón, tollo, azulejo, mero, cachurreta y vidriola que extraerá con espinel; dorado, palometa y sierra, que extraerá con currican.
+
+Valparaíso, 10 de Agosto de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
