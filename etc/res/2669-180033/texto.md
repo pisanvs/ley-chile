@@ -1,0 +1,5 @@
+Por resolución Nº 2.669, de 20 de diciembre de 2000, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 2.529 de 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE INVESTIGACION PESQUERA, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Condiciones Biológicas del Jurel en Altamar'', en el sentido de señalar que la segunda etapa de la pesca de investigación a efectuarse en el área marítima correspondiente a la Zona Económica de la República se extenderá hasta las 24:00 horas del día 30 de diciembre de 2000.
+
+Asimismo, modifícase el numeral 4º de la resolución Nº 2.529 de 2000, en el sentido de reemplazar la nave ''Paniahue'' por la nave ''Quilpolemu'', ambas de propiedad de Pesquera Alimar S.A. de la nómina de participantes en la señalada pesca de investigación.
+
+Valparaíso, 20 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subecretario de Pesca.
