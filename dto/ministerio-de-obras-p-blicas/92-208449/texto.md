@@ -1,0 +1,5 @@
+Por decreto MOP Nº 92, de 19 de febrero de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 5-2, para la obra:
+
+"Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal Sur. Variante Ribera Sur. Tramo 1. Lámina Especial 5: Km. 104.400,00 a Km. 105.040,00", Quinta Región, que figura a nombre de Química Passol Ltda., rol de avalúo 704-23, comuna de Viña del Mar, superficie 179 m2. La comisión de peritos integrada por los señores Joaquín Prieto Ochagavía, José Cristián Larraín Barros y Luis Pablo Padilla Vergara, fijó con fecha 13 de diciembre de 2002, el valor provisional de la indemnización en la cantidad de $7.160.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
