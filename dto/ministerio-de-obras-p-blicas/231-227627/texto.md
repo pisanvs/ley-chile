@@ -1,0 +1,3 @@
+Por decreto MOP Nº 231 de fecha 26 de marzo de 2004, se expropiaron los lotes de terreno Nº s. 17-B y 17-C, superficies 1.219,0 y 944,0 m2, respectivamente, roles Nº 238-37 y 238-38, respectivamente, comuna de Maule, VII Región, para la obra "Camino Ruta K-620, Sector: Culenar - Maule, Km. 0,000.00 a Km. 10,520.00" y se acordó el valor de indemnización con su propietaria María Narcisa Miranda León, ascendente a las cantidades de $9.506.531.- para los lotes Nº s 17-B y 17-C.
+
+Fiscal del Ministerio de Obras Públicas.
