@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.198 de fecha 31 de julio de 2002, se expropiaron los lotes de terreno Nº 137 y 138, superficies 109 y 278 m2, rol de avalúo Nº 764-125, comuna de Lampa, para la obra ''Camino Ruta G 184-182, Sector El Noviciado - Cruce Ruta G-16 (Lipangue), Tramo Km. 4,450 al 15,04419'', Región Metropolitana y se acordó el valor de la indemnización con su propietaria Mónica Cecilia Ogaz Meza y Otros, ascendente a la cantidad de $4.890.566.-
+
+Fiscal del Ministerio de Obras Públicas.
