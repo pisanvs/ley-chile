@@ -1,0 +1,3 @@
+Por resolución No. 253 de fecha 09 de diciembre de 1991 conforme artículo 51 Ley 16.391 y DS 68 de 1991, V. y U., Serviu IX Región dispuso expropiación inmueble ubicado en ciudad de Villarrica, Avenida Estación sin número, rol de avalúo No. 317-4, de aparente dominio de la sucesión de Carlos Beker Valdeavellano. Comisión peritos integrada señores Pablo Reidel Wanner, arquitecto, Mario Molina Ramwell, constructor civil, José Méndez Manríquez, ingeniero civil, fijó monto provisional indemnización suma de $ 39.750.000.-, según informe de 14.10.91, pagadero contado. Yasmín Balboa Rojas, Constructor Civil,
+
+Director Serviu IX Región.
