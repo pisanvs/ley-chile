@@ -1,0 +1,1 @@
+Modifica el inciso 3.° del artículo 1.° y el artículo 2.° de la ley 10.038, de 9 de noviembre de 1951, que autorizó a la Municipalidad de Chillán para contratar empréstitos con el fin de atender a la ejecución de diversas obras de adelanto local.
