@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.107, de 31 de agosto de 2000, se expropiaron los lotes de terreno Nºs. 44 y 46, superficies 4.358 m² y 401 m², rol de avalúo 154-4, comuna de Casablanca, para la obra Concesión Interconexión Vial Santiago - Valparaíso - Viña del Mar, Quinta Región, y se acordó el valor de indemnización con su propietario Marcos Segundo Nilo Alvarez, ascendente a la cantidad total de $25.044.277.
+
+- Fiscal del Ministerio de Obras Públicas.
