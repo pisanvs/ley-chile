@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 690, de 22 de noviembre de 1995, se expropiaron los lotes de terreno N°s. 14 y 15, superficies 3.995 m2. y 52.783 m2., rol de avalúo 1045-3, comuna de Maipú, para la obra Camino Autopista Santiago-San Antonio, sector Empalme I. Riquelme-Bif. Malloco y se acordó el valor de indemnización con su propietaria Soc. Agrícola Santa Adela de Maipú Ltda., ascendente a la cantidad de $187.031.470.
+
+Fiscal del Ministerio de Obras Públicas.
