@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA Y COMERCIAL INTERMARES S.A. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 1.449, de 16 de Diciembre de 1987, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera y Comercial Intermares S.A., domiciliada en Castro, para iniciar actividades pesqueras de extracción mediante la operación de dos naves en construcción con las que podrá operar en el litoral de las Regiones I a III, para extraer los siguientes recursos hidrobiológicos: Cojinova del Norte, pejerrey, tollo, merluza común, agujilla, tiburón y lisa. Asimismo, en el litoral de la III Región, podrá extraer los recursos: Jurel, anchoa, sardina española, sardina común y caballa.
+
+Valparaíso, 16 de Diciembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
