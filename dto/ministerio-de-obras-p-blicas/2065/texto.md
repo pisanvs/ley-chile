@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº2.065, de 30 de octubre de 1998, se expropiaron los lotes de terreno Nºs. 13, 15 y 21, superficies 66, 62 y 73 m², roles de avalúo 220-20, 220-16 y 209-74, comuna de Rengo, obra Mejoramiento Ruta H-577, Sector Rengo Rinconada de Malambo, y se acordó precio de indemnización con sus propietarios Sucesión Eufemia Mellado Reyes y Sucesión Vidal Tello Silva, ascendente a la cantidad de $900.497.- lotes 13 y 15 y $877.470.-
+
+Fiscal del Ministerio de Obras Públicas.
