@@ -46,6 +46,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Antena»: conjunto de elementos utilizados para emitir o recibir señales de comunicaciones, sean éstas de radio, televisión, telefonía celular o personal o cualquier otra onda o señal débil.
 
+«Anteproyecto»: presentación previa de un proyecto de loteo, de edificación o de urbanización, en el cual se contemplan los aspectos esenciales relacionados con la aplicación de las normas urbanísticas y que una vez aprobado mantiene vigentes todas las condiciones urbanísticas del Instrumento de Planificación respectivo y de la Ordenanza General de Urbanismo y Construcciones consideradas en aquél y con las que éste se hubiera aprobado, para los efectos de la obtención del permiso correspondiente, durante el plazo que señala esta Ordenanza.
+
 «Arcada, Arquería»: conjunto o serie de arcos de una construcción.
 
 «Area de extensión urbana»: área territorial establecida en los Instrumentos de Planificación Territorial destinada a la extensión del área urbana.
@@ -198,9 +200,7 @@ Informe de riesgos»: DEROGADO.
 
 «Inmueble de conservación histórica»: el individualizado como tal en un Instrumento de Planificación Territorial dadas sus características arquitectónicas, históricas o de valor cultural, que no cuenta con declaratoria de Monumento Nacional.
 
-«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente.
-
-Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
+«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente. Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
 
 «Instrumento de Planificación Territorial»: vocablo referido genérica e indistintamente al Plan Regional de Desarrollo Urbano, al Plan Regulador Intercomunal o Metropolitano, al Plan Regulador Comunal, al Plan Seccional y al Límite Urbano.
 
@@ -425,6 +425,8 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 «Zona vertical de seguridad»: vía vertical de evacuación protegida de los efectos del fuego que, desde cualquier nivel hasta el de salida, permite a los usuarios evacuar el edificio sin ser afectados por el fuego, humo o gases.
 
 Las definiciones de los vocablos contenidos en este artículo prevalecerán sobre toda otra que contengan los Instrumentos de Planificación Territorial relativas a la misma materia.
+
+> **Nota.** NOTA 2 El artículo primero transitorio del decreto-115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días de su publicación.
 
 #### Artículo 1
 
@@ -780,7 +782,7 @@ En el caso de proyectos que requieran dos o más de las aprobaciones o permisos 
 
 4.11. Podrá solicitarse al Director de Obras Municipales la aprobación de anteproyectos de loteos o de obras de edificación, para lo cual deberán acompañarse los antecedentes exigidos en los artículos 3.1.4. y 5.1.5., respectivamente, de esta Ordenanza General.
 
-El anteproyecto aprobado mantendrá su vigencia respecto de las normas urbanísticas consideradas en dicho anteproyecto y con las que éste se hubiere aprobado, para los efectos de la obtención del permiso correspondiente, durante el plazo de 180 días, salvo en los casos que a continuación se señalan, en que dicho plazo será de 1 año:
+El anteproyecto aprobado, para los efectos de la obtención del permiso correspondiente, mantendrá su vigencia respecto de todas las condiciones urbanísticas del Instrumento de Planificación Territorial respectivo y de las normas de la Ordenanza General de Urbanismo y Construcciones consideradas en aquél y con las que se hubiere aprobado. El plazo de vigencia será de 180 días, salvo en los casos que a continuación se señalan, en que dicho plazo será de 1 año:
 
 1. Tratándose de anteproyectos de loteo cuya superficie sea superior a 5 hectáreas.
 
@@ -853,6 +855,62 @@ En todo caso un mismo predio no podrá estar afecto a postergación de permisos 
 #### Artículo 1
 
 4.19. Los estudios de seguridad, de evacuación, de riesgo, de carga combustible y de ascensores que, conforme a la Ley General de Urbanismo y Construcciones y a esta ordenanza, deben presentarse acompañando solicitudes para la obtención de aprobaciones de anteproyecto o de permisos ante la Dirección de Obras Municipales, no requerirán aprobación de otros organismos para la obtención de permisos, aprobación de anteproyectos u otras solicitudes, siempre que estén debidamente suscritos por el profesional especialista, sin perjuicio de las exigencias que en forma explícita y para los mismos efectos determinen otras leyes.
+
+#### Artículo 1
+
+4.20. Aprobado por el Director de Obras Municipales un anteproyecto u otorgada una autorización para subdividir, o un permiso de edificación, de urbanización o de cambio de destino de un edificio existente, el propietario podrá acogerse al procedimiento de publicidad contenido en el artículo 116 Bis C) de la Ley General de Urbanismo y Construcciones y para estos efectos deberá cumplir con el siguiente procedimiento:
+
+1.- Comunicar a la Dirección de Obras Municipales correspondiente mediante declaración simple, la voluntad de acogerse a las disposiciones contempladas en el artículo 116 Bis C) de la Ley General de Urbanismo y Construcciones, acto mediante el cual se da inicio al proceso de publicidad.
+
+2.- Dentro de los tres días siguientes al inicio del proceso de publicidad el propietario deberá informar sobre la gestión administrativa, mediante carta certificada, a los propietarios u ocupantes de los predios que conforman la manzana en la cual se localiza el proyecto y a los propietarios u ocupantes de los predios localizados en la o las manzanas que enfrentan el proyecto y con frente a la misma calle, en ambos casos con un máximo de 100 metros desde los deslindes del predio en que se ejecutará el proyecto.
+
+En el caso de predios acogidos a Copropiedad Inmobiliaria, la carta certificada deberá ser dirigida al Comité de Administración del respectivo Condominio.
+
+3.- Asimismo, dentro de los tres días señalados en el número anterior, se deberá instalar en el terreno donde se ejecutará el proyecto, un letrero visible desde la vía pública, de una superficie no menor a 6 metros cuadrados, que estará destinado en forma exclusiva e independiente, a dar a conocer las características esenciales del proyecto objeto de la correspondiente resolución o permiso. Este letrero deberá mantenerse en el inmueble respectivo durante a lo menos 60 días corridos a contar de esa fecha.
+
+4.- Transcurridos 30 días desde la fecha de instalación del letrero, se deberá dar a conocer a la comunidad las características esenciales de la actuación de que se trate mediante la publicación de un aviso en el Diario Oficial, el que deberá efectuarse el día 1º o el día 15 del mes, salvo que cayere en domingo o festivo en cuyo caso se publicará el primer día siguiente hábil. El plazo máximo para realizar esta publicación será de sesenta días.
+
+5.- Dar a conocer a la comunidad a lo menos mediante una publicación en forma destacada de un aviso de las mismas características al que se señala en el número anterior, en uno de los diarios de mayor circulación de la comuna respectiva. Sin perjuicio de lo anterior, las Direcciones de Obras Municipales de localidades en que no circulen diarios con regularidad, podrán autorizar otro medio masivo de comunicación mediante el cual se publicite el respectivo anteproyecto o proyecto.
+
+La publicación o comunicación deberá efectuarse a lo menos con 5 días de anticipación de la fecha en que se realice la publicación en el Diario Oficial.
+
+Las actuaciones de publicidad señaladas en los números 2), 3), 4) y 5) anteriores, deberán dar a conocer el tipo o destino del proyecto o anteproyecto y el correspondiente permiso o autorización, indicando su fecha y número, la dirección del predio en el cual se emplaza y las características esenciales de acuerdo al contenido que se señala a continuación, tanto para los anteproyectos como para los proyectos:
+
+a. Subdivisiones: deberán indicar las dimensiones y superficie del terreno original y el número de sitios resultantes con sus respectivas superficies.
+
+b. Loteo y Urbanizaciones: deberán indicar las dimensiones y superficie del terreno original, número de lotes resultantes y sus destinos, superficie de terrenos destinados a áreas verdes, equipamiento y vialidad.
+
+c. Edificaciones: destino de las edificaciones, leyes a que se acoge, dimensiones y superficie del terreno, superficie edificada, número y altura de los edificios.
+
+d. Cambio de destino de un edificio existente: destino original y el nuevo destino autorizado, superficies edificadas del destino actual y de el o los nuevos destinos.
+
+Tratándose de anteproyectos o permisos de edificación, reconstrucción, reparación, alteración, ampliación y demolición de edificios de hasta de 14 metros de altura o de menos de 5.000 metros cuadrados construidos y de anteproyectos o permisos de subdivisiones o loteos con una superficie de hasta a 10.000 metros cuadrados, podrán omitir la actuación establecida en los números 2 ó 3 precedentes y la publicación o comunicación establecida en el número 5, indicadas en el inciso primero del presente artículo.
+
+Transcurridos treinta días desde la publicación en el Diario Oficial, la Municipalidad a petición del propietario, emitirá en un plazo máximo de 5 días hábiles, un certificado en que deje constancia que, hasta la fecha de su emisión, no han ingresado a la Municipalidad reclamos ni se le han notificado judicialmente recursos que recaigan sobre la gestión publicitada.
+
+El propietario al momento de la solicitud del certificado, deberá acompañar copia de las publicaciones realizadas en los números 4 y 5, cuando este último corresponda.
+
+#### Artículo 1
+
+4.21. La Dirección de Obras Municipales deberá exhibir en el acceso principal de sus oficinas, durante el plazo de sesenta días contados desde la fecha de su aprobación u otorgamiento, una nómina con los anteproyectos, subdivisiones y permisos otorgados conforme al artículo 116 de la Ley General de Urbanismo y Construcciones.
+
+Para tales efectos, la nómina que se exhibirá contendrá, a lo menos, los siguientes antecedentes:
+
+a. Número y fecha del correspondiente permiso, de la resolución o autorización que sanciona el anteproyecto o proyecto.
+
+b. Nombre de el o los propietarios.
+
+c. Dirección del predio en que se emplaza el anteproyecto o proyecto.
+
+d. Nombre de los profesionales competentes que hubieren intervenido en su elaboración.
+
+e. Descripción o extracto del anteproyecto o proyecto respectivo.
+
+f. Número y fecha del Certificado de Informaciones Previas que sirvió de base para la presentación del anteproyecto o proyecto.
+
+g. Normas especiales a las cuales se acoge.
+
+Sin perjuicio de lo anterior, la Dirección de Obras, en el mismo plazo de sesenta días, deberá informar de tales actuaciones al Concejo Municipal y a las Juntas de Vecinos de la unidad vecinal correspondiente; asimismo, se deberá mantener a disposición de cualquier persona que lo requiera, los antecedentes completos relacionados con dichas aprobaciones o permisos.
 
 ## Título 2
 
