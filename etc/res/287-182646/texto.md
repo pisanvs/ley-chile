@@ -1,0 +1,3 @@
+Por resolución Nº 287, de 21 de febrero de 2001, de esta Subsecretaría, autorízase a CONSTRUCCIONES Y CARPINTERIA NAVAL CONCAR S.A. para realizar operaciones pesqueras, a contar de la fecha de la presente resolución y hasta el 31 de diciembre del año 2001, ambas fechas inclusive, con el barco fábrica denominado ''María Tamara'', en aguas interiores, al sur del paralelo 47º L.S., respecto de los recursos y con las obligaciones, establecidas en sus respectivas resoluciones.
+
+Valparaíso, 21 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
