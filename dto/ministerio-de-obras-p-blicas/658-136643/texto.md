@@ -1,0 +1,3 @@
+Por decreto MOP Nº658, de 29 de marzo de 1999, se expropió el lote de terreno Nº483, superficie 702,2 m2, rol de avalúo 554-20, comuna de Paillaco, para la obra ''Concesión Internacional Ruta 5, Tramo Temuco - Río Bueno'', Décima Región y se acordó el valor de indemnización con su propietaria Eva Ester Contreras Gutiérrez, ascendente a la cantidad de $331.330.-.
+
+Fiscal del Ministerio de Obras Públicas.
