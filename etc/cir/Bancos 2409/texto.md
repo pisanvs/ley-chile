@@ -4494,11 +4494,15 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Empresa Periodística La Nación S.A.
 
-- Empresa Portuaria de Chile. (EMPORCHI)
+- Empresa Portuaria Antofagasta.
 
 - Empresa Portuaria Arica.
 
+- Empresa Portuaria de Chile. (EMPORCHI)
+
 - Empresa Portuaria Iquique.
+
+- Empresa Portuaria Puerto Montt.
 
 - Estado Mayor Fuerza Aérea de Chile.
 
@@ -4550,7 +4554,7 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Zona Franca Iquique S.A. (ZOFRI S.A.)
 
-- MUNICIPALIDADES (todas las Municipalidades del país).
+- MUNICIPALIDADES (todas las Municipalidades del pais).
 
 CAPITULO 2-12 (Bancos y Financieras)
 
