@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 135 de fecha 28 de marzo del 2003, se expropió el lote de terreno Nº 367-E, superficie 934 m2, Rol Nº 33-496, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, Km. 12,70000 a Km. 16,48000" y se acordó el valor de indemnización con su propietario Marta Jacqueline Tobar Donoso, ascendente a la cantidad de $2.352.867.
+
+Fiscal del Ministerio de Obras Públicas.
