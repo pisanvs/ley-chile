@@ -1,0 +1,5 @@
+Por resolución Nº 2.157 de 26 de diciembre de 1996 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura amparada en la Resolución Nº 73, de 1985, de esta Subsecretaría, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES CULTIVADORES Y EXPLOTADORES DE ALGAS BAHIA HUELDEN, para un sector ubicado en Bahía Hueldén, Comuna de Ancud, Provincia de Chiloé, X Región, en virtud de lo dispuesto en los artículos 10º, letra e) y 12º, del D.S. Nº 290, de 1993, modificado por el D.S. Nº 604, de 1994, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Déjase sin efecto la Resolución Nº 73, de 1985, de esta Subsecretaría, en virtud de lo dispuesto en la presente Resolución.
+
+Valparaíso, 26 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
