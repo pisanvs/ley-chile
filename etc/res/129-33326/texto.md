@@ -1,0 +1,5 @@
+Por Resolución N° 129, de 22 de Febrero de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don LUIS VIDELA JULIO, R.U.T. N° 8.282.698-K, para ampliar actividades pesqueras autorizadas por Resoluciones N° 1.451, de 1989 y N° 105, de 1992, ambas de esta Subsecretaría, en orden a operar una planta industrial en la II Región, ubicada en calle Lautaro Espíndola N° 6931, localidad Punta Brava, comuna de Antofagasta, donde procesará en las líneas de elaboración que se indican en la planta industrial, autorizada por las Resoluciones señaladas en el numeral precedente, los siguientes recursos hidrobiológicos: Salado y fresco-refrigerado: Anchoa o anchoveta; Congelado y fresco-refrigerado: Caballa, Pejerrey de mar, Tiburón o marrajo y Jibia; Congelado, salado y fresco-refrigerado: Sardina.
+
+La presenta autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 22 de Febrero de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
