@@ -1,0 +1,3 @@
+Por resolución Nº 1.169, de 12 de agosto de 1998, de esta Subsecretaría, deniégase la solicitud presentada por SOCIEDAD PESQUERA COLOSO S.A., para ampliar el plazo de iniciación de operaciones indicado en la resolución Nº 892 de 1998 de esta Subsecretaría, con una nave en construcción sobre los recursos Anchoveta, Sardina española y Jurel, en el litoral de la III y IV Regiones, por no configurarse una causal de fuerza mayor.
+
+Valparaíso, 12 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
