@@ -1,0 +1,7 @@
+Derechos de almacenaje
+
+El Director Supremo de la República de Chile de acuerdo con el Excmo. Senado:
+
+Siendo perjudicial al comercio i al buen despacho de las Aduanas el recargo de almacenes, que trae la estudiada morosidad con que se sacan los efectos, por detener el pago de derechos, i ahorrar el arrendamiento de piezas en que ponerlos; los administradores jeneral i principales cuidarán de que todo comerciante estraiga los suyos en el preciso término de quince días, i por los demas que corrieren, cobrará un real diario de almacenaje por cada pieza, o fardo; procediendo, con citacion de los interesados, a arrendar casas para trasladarlos, cuando los almacenes se hallaren recargados, siendo de cuenta del dueño o consignatario de los efectos cualquiera daño o pérdida que a estos sobrevenga, con mas los costos de traslacion.
+
+Tómese razon en el tribunal mayor de cuentas, i en la administracion jeneral de Aduana: trascríbase a la Intendencia de esta capital, i a los intendentes i gobernadores de los puertos de mar para que manden se fije copia certificada en la puerta principal de las Aduanas: publíquese, e imprímase.- Palacio Directorial de Santiago de Chile, Mayo 31 de 1820.- O'Higgins.- Dr. Rodríguez.
