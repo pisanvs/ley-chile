@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.629, de 21 de junio de 1999, se expropiaron los lotes de terreno Nºs.74 y 75-A, superficies 872,0 m2. y 851,0 m2., rol de avalúo 236-24, comuna de Perquenco, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli-Temuco'', Novena Región, y se acordó el valor de indemnización con su propietaria Bertha Alicia Yolanda Otero Meier, ascendente a la cantidad total de $1.201.902.-
+
+Fiscal del Ministerio de Obras Públicas.
