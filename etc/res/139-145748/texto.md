@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD LEVER CHILE S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 139 de 12 de Febrero de 1987 de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Lever Chile S.A., domiciliada en Santiago para desarrollar actividades de cultivo con la especie Salmón del Atlántico, Salmo salar, en la X Región, a través de la etapa de incubación y alevinaje, en dos pisciculturas, la primera en el Centro de incubación y alevinaje Río Pichichanleufú, ubicado a orillas del Rio Pichichanleufú, en el km. 78 de la Carretera Internacional No. 215, Zona de Puyehue, Comuna de Entre Lagos, Provincia de Osorno, X Región y la segunda en el Centro de incubación y alevinaje Rio Pichi Blanco, situado a orillas del Río Pichi Blanco, en el km. 38 del Camino Puerto Montt - Lago Chapo, Provincia de Llanquihue, X Región.
+
+Valparaíso, 12 de Febrero de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
