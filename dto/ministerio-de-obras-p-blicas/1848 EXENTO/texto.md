@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.848 de fecha 30 de noviembre del 2001, se expropió el lote de terreno Nº212, superficie 348 m2, rol de avalúo 68-240, comuna de Teno, para la obra "Camino Ruta J-25-, Sector: Cruce Longitudinal - La Montaña, Km. 0,22000 a Km. 25,00000" y se acordó el valor de indemnización con su propietario Ana Rosa Guevara Díaz, ascendente a la cantidad de $325.745.
+
+- Fiscal del Ministerio de Obras Públicas.
