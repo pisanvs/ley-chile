@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.791, de 1 de octubre de 2004, de esta Subsecretaría, autorízase a AGROINDUSTRIAL CLAUDIO MATTE Y COMPAÑIA LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Panamericana Sur kilómetro 35, Nº 74, Buin, donde podrá elaborar en las líneas de proceso de Seco Salado, Ahumado, Harina, Alga Seca y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 1 de octubre de 2004.- Edith Saa Collantes, Subsecretario de Pesca (S).
