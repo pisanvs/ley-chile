@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.028, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº18, superficie 331 M2, rol de avalúo 65-113, comuna de Lonquimay, para la obra ''Camino Malalcahuello-Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Lonquimay-Acceso Pedregoso Km. 119.300.00 a Km. 141.000.00'' y se acordó el valor de indemnización con su propietario Raúl Alfredo Salazar Marchant, ascendente a la cantidad de $178.802.-
+
+Fiscal del Ministerio de Obras Públicas.
