@@ -20308,13 +20308,13 @@ a) Las letras de cambio y los pagarés con que se documenten los créditos inter
 
 b) Los documentos de las operaciones señaladas en las letras b), c) y d) del N° 2 del título I del Capítulo 12-3 de esta Recopilación.
 
-c) Los documentos en los que consten los anticipos de compradores del exterior y los créditos obtenidos en el exterior directamente por los exportadores, siempre que los internen al país con sujeción a las normas del Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales, antes mencionado..
+c) Los documentos en los que consten los anticipos de compradores del exterior y los créditos obtenidos en el exterior directamente por los exportadores, siempre que cuenten con la autorización previa del Banco Central de Chile, de conformidad con las normas del Capítulo VI el Título II del Compendio de Normas de Cambios Internacionales, antes mencionado.
 
 d) Los documentos que den cuenta de financiamientos externos obtenidos por las empresas bancarias con el único fin de cursar los créditos señalados en la letra a) anterior.
 
 e) Los pagarés con que se documenten los préstamos cursados para emitir las Boletas de Garantía o cartas de crédito stand by para responder por las garantías de calidad de exportaciones chilenas; de seriedad en el cumplimiento de propuestas abiertas en el exterior a que concurran exportadores chilenos; o por el cumplimiento de contratos de exportación firmados por exportadores chilenos..
 
-f) Las letras de cambio y los pagarés con los que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, que tengan por objeto pagar a exportadores chilenos el precio de mercaderías importadas desde Chile, de conformidad con lo dispuesto en el N° 1 del Capitulo 13-27 de esta Recopilación.
+f) Las letras de cambio y los pagarés con los que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, que tengan por objeto pagar a exportadores chilenos el precio de mercaderías importadas desde Chile, de conformidad con lo dispuesto en el N° 2 del Capitulo 13-27 de esta Recopilación.
 
 2.- Créditos al exterior.
 
