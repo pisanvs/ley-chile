@@ -1,0 +1,3 @@
+Por Decretos MOP. N°s 1130 y N° 1137, de 28 de noviembre de 1997, se expropiaron los lotes de terreno N°s. 28, 3, 4, 5 y 6, superficies 2.797, 294, 450, 90 y 132 m2, respectivamente, Roles de avalúo 814-36 y 802-19, comunas de Galvarino y Traiguén, para la obra Camino Traiguén-Galvarino y se acordó precio de indemnización con sus propietarios Luis Muñoz Nain y María Aichele Hohmann, ascendente a las cantidades de $2.985.424.- para el lote 28 y $1.187.921.- para los lotes 3, 4, 5 y 6.-
+
+Fiscal del Ministerio de Obras Públicas.
