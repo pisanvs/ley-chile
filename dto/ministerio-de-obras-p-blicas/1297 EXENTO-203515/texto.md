@@ -1,0 +1,3 @@
+Por decreto M.O.P. exento Nº1297 de 30 de agosto de 2002, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº36, para la obra: Camino Ruta J-60 Sector Puente Lautaro-Iloca Km. 101.074,58 a Km. 122.969,62, que figura a nombre de Meléndez Correa Luis y Ot, rol de avalúo 169-12, Comuna de Licantén, VII Región, superficie 816 m². La Comisión de Peritos, fijó con fecha 8 de julio de 1997, en la cantidad de $32.640.- para el lote Nº36. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
