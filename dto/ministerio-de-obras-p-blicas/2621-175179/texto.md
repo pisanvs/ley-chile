@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.621, de fecha 30 de junio de 2000, se expropió los lotes de terreno Nºs. 113, 114 y 117, superficie 1.458, 701 y 419 m2. rol de avalúo 200-2, comuna de Monte Patria, para la obra ''Camino Ruta D-597, Monte Patria - Carén, Sector Juntas - Carén, Km. 8.260,00 a Km. 30.065,19 Etapa III'' y se acordó el valor de indemnización con su propietario Pedro Leonelo Oro Villalobos, ascendente a la cantidad de $3.776.400.
+
+Fiscal del Ministerio de Obras Públicas.
