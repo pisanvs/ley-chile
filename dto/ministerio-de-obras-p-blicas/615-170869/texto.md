@@ -1,0 +1,3 @@
+Por decreto MOP Nº615, de 29 de febrero de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº48, superficie 691m2. rol de avalúo 65-73, comuna de Teno, Séptima Región, para la obra Concesión Internacional Ruta 5, Tramo: Santiago-Talca. Sector K: Km. 161.650,00 al Km. 179.500,00. Posteriormente, por decreto MOP Nº1.850, de 28 de abril del 2000, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de la indemnización con su propietario Juan Desiderio Villavicencio Rodríguez, ascendente a la cantidad de $3.022.297.-
+
+Fiscal del Ministerio de Obras Públicas.
