@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.710 de fecha 30 de junio de 2000, se expropió el lote de terreno Nº9-C, superficie 160,20 m², rol de avalúo 11-1, comuna de San Pedro, para la obra ''Camino Ruta 66, Sector Crucero Las Arañas límite V Región, Tramo Km. 93.700 a Km. 114.346,50'' y se acordó el valor de indemnización con su propietario Mario Fernando Olmedo Palominos y otra, ascendente a la cantidad de $679.237.
+
+- Fiscal del Ministerio de Obras Públicas.
