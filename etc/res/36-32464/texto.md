@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE QUE SEÑALA
+
+Por Resolución N° 36 de fecha 30 de Agosto de 1995, del Serviu XII Región de Magallanes y Antártica Chilena, se dispuso conforme al Artículo 51 de la Ley 16.391, Decreto Supremo N° 34 de V. y U. de 1988 y Decreto Ley 2.186 de 1978, la expropiación parcial del inmueble ubicado en la Comuna de Punta Arenas, entre calles Condell y Teniente Serrano, denominado Chacra N° 3, del Barrio Arturo Prat, Rol de Avalúo 5026-16, propiedad de don Arturo Sánchez Ojeda. El área a expropiar es de 4.080,00 m2. Comisión Tasadora integrada por los arquitectos: Sra. Jannette Moris Torres, Sr. José Luis Subiabre Aguilar y Sr. Adolfo Cascardo Williams, según informe de 3 de Julio de 1995, fijó monto provisional indemnización en $4.896.000, pagadero al contado.-
+
+Héctor Ramírez Figueroa, Arquitector, Arquitecto, Director Serviu XII Región Magallanes y Antártica Chilena.
