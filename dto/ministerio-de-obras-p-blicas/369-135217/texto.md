@@ -1,0 +1,3 @@
+Por decreto MOP Nº 369, de 26 de febrero de 1999, se expropiaron los lotes de terreno Nºs 362, 363 y 364-A, superficies 392,3 m², 2.927,0 m² y 398,5 m², rol de avalúo 240-50, comuna de Los Lagos, para la obra Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietario Evaristo del Carmen Barra Ibáñez, ascendente a la cantidad total de $1.532.860.-
+
+Fiscal del Ministerio de Obras Públicas.
