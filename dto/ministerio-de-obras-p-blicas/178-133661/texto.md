@@ -1,0 +1,3 @@
+Por decreto MOP Nº178 de fecha 29 de enero de 1999, se expropió el lote de terreno Nº130, superficie 860,6 m2., rol de avalúo 367-29, comuna de Loncoche, para la obra ''Concesión Internacional Ruta 5, Tramo Temuco - Río Bueno Km. 748.103,70 a Km. 752.000,00'', y se acordó el valor de indemnización con su propietario Abraham Abara Kessie, la cantidad de $4.742.480.-
+
+Fiscal del Ministerio de Obras Públicas.
