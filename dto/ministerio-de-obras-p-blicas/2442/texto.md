@@ -1,0 +1,5 @@
+Por decreto MOP. No. 2.442, de 18 de noviembre de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. No. 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley No. 15.840, se expropiaron los lotes de terreno No.s. 7 y 8, para la obra camino Ruta J-60, Sector Puente Lautaro - Iloca, Km. 101.074,58 a Km. 122.969,62, que figuran a nombre de Rogelio Rojas Rojas, roles de avalúos 165-5 y 165-1, comuna de Licantén, superficies 1.377 y 1.576 M2. respectivamente. La Comisión de Peritos compuesta por los señores Carlos Sottolichio Díaz, Renato Guerra Estévez y Guillermo Picón Vicioso, fijó con fecha 8 de julio de 1997, los valores provisionales de las indemnizaciones en las cantidades de $ 27.540.- para el lote No. 7 y $ 236.400.- para el lote No.
+
+8. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal de Ministerio de Obras Públicas.
