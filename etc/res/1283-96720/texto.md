@@ -1,0 +1,5 @@
+Por Resolución No. 1.283 de 26 de Octubre de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la Resolución No. 411 de 1989, de esta Subsecretaría, que autorizó a don EDUARDO NARCISO HERNANDEZ VALDERRAMA, R.U.T. No. 6.869.979-7, domiciliado en la ciudad de Puerto Aysén, calle Ciro Arredondo No. 520, para desarrollar actividades pesqueras de cultivo, en orden a sustituir el inciso 2° del numeral 3, por el siguiente:
+
+"El cultivo contempla la incubación, alevinaje, smoltificación y engorda de las especies señaladas, para lo cual se instalará canales de alevinaje y alimentación en el Sector 1, 40 balsas - jaulas de 100 m2. cada una en el Sector 2,80 balsas - jaulas de 100 m2. cada una en el Sector 3 y 8 balsas - jaulas de 100 m2. cada una en el sector 4, en un período de cinco años." Se prorroga por 12 meses a contar de esta fecha el plazo otorgado en el numeral 5 de la citada Resolución No. 411, en razón de haberse acreditado la ocurrencia de una fuerza mayor, respecto del sector 4.
+
+Valparaíso.- 26 de Octubre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
