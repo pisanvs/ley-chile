@@ -1768,35 +1768,37 @@ Además de las instrucciones de este capítulo, los bancos deben tener presente 
 
 ### 1. Apertura de cuentas corrientes
 
-1.1. Exigencias mínimas para la apertura de cuentas corrientes.
+1.1- Exigencias mínimas para la apertura de cuentas corrientes.
 
 Para abrir una cuenta corriente a una persona natural, las empresas bancarias deben cumplir con las siguientes exigencias mínimas:
 
 a) Tomar nota de la Cédula de Identidad y del Rol Unico Tributario del interesado, quien para este efecto debe exhibir los documentos originales.
 
-b) Obtener una fotografía reciente del interesado para los archivos del banco. Opcionalmente puede pedírsele, además, al cliente, que deje la impresión digital.
+b) Solicitar al interesado una fotografía reciente (tamaño carné o pasaporte), la que se agregará al documento en que se registran sus antecedentes personales.
 
-c) Reunir informes bancarios actualizados del interesado y verificar que no existan prohibiciones para la apertura de cuentas corrientes, según lo indicado en el numeral 1.4 de este título.
+c) Pedir al interesado que deje estampada su impresión digital (pulgar derecho) en el mismo documento antes señalado, debiendo el banco asegurarse de su nitidez.
 
-d) Registrar la firma del girador.
+d) Reunir informes bancarios actualizados del interesado y verificar que no existan prohibiciones para la apertura de cuentas corrientes, según lo indicado en el numeral 1.4 de este título.
 
-e) Obtener antecedentes acerca de la actividad y solvencia del cliente.
+e) Registrar la firma del girador.
 
-f) Comprobar el domicilio del interesado, de acuerdo con lo instruido en el numeral 1.2 siguiente.
+f) Obtener antecedentes acerca de la actividad y solvencia del cliente.
 
-g) Suscribir con el interesado un documento que contenga las condiciones generales relativas a la cuenta corriente que se abre, según lo indicado en el numeral 1.3 de este título.
+g) Comprobar el domicilio del interesado, de acuerdo con lo instruido en el numeral 1.2 siguiente.
 
-Puede prescindirse de las exigencias señaladas en las letras b), e) y f)anteriores, cuando la persona que abre la cuenta corriente sea notoriamente conocida por alguna actividad públicas o privada de importancia o cuando el solicitante sea presentado por a lo menos dos clientes de la empresa que le merezcan absoluta fe y se responsabilicen, bajo su firma, de conocer la identidad, el domicilio y las actividades de la persona que presentan.
+h) Suscribir con el interesado un documento que contenga las condiciones generales relativas a la cuenta corriente que se abre, según lo indicado en el numeral 1.3 de este título.
 
-Para abrir cuentas corrientes a personas jurídicas, debe verificarse que la sociedad esté legalmente constituida y que sus representantes estén debidamente facultados para girar. En este caso, los requisitos mencionados en las letras a),
+Puede prescindirse de las exigencias señaladas en las letras f) y g) anteriores, cuando la persona que abre la cuenta corriente sea notoriamente conocida por alguna actividad pública o privada de importancia o cuando el solicitante sea presentado por un cliente de la empresa que le merezca absoluta fe y se responsabilice, bajo su firma, de conocer el domicilio y las actividades de la persona que presenta.
 
-- **c)** y
+Para abrir cuentas corrientes a personas jurídicas, debe verificarse que la sociedad esté legalmente constituida y que sus representantes estén debidamente facultados para girar. En este caso, los requisitos mencionados en las letras a), b), c),
 
-- **d)** anteriores se cumplirán respecto de los representantes legales de ellas y los indicados en las letras a), en lo que se refiere al Rol Unico Tributario, e),
+- **d)** y
 
-- **f)** y
+- **e)** anteriores se cumplirán respecto de los representantes legales de ellas y los indicados en las letras a), en lo que se refiere al Rol Unico Tributario, f),
 
-- **g)** respecto de la sociedad misma, sin perjuicio de los mayores requisitos que el banco estime necesario establecer.
+- **g)** y
+
+- **h)** respecto de la sociedad misma, sin perjuicio de los mayores requisitos que el banco estime necesario establecer.
 
 La documentación en que conste el cumplimiento de las exigencias antes señaladas, se mantendrá archivada en la oficina en que se abra la cuenta corriente.
 
