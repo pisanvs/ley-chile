@@ -7102,11 +7102,11 @@ Dichas tasas de interés corresponden a los siguientes tipos de operaciones:
 
 a) Créditos no reajustables en moneda chilena pactados a plazos no superiores a 89 días.
 
-b) Créditos no reajustables en moneda chilena pactados a 90 días o más, superiores al equivalente de 200 unidades de fomento.
+b) Créditos no reajustables en moneda chilena pactados a 90 días o más, superiores al equivalente de 5.000 unidades de fomento.
 
-c) Créditos no reajustables en moneda chilena pactados a 90 días o más, inferiores o iguales al equivalente de 200 y superiores al equivalente de 100 unidades de fomento.
+c) Créditos no reajustables en moneda chilena pactados a 90 días o más, inferiores o iguales al equivalente de 5.000 y superiores al equivalente de 100 unidades de fomento.
 
-d) Créditos no reajustables en moneda chilena pactados a 90 días o más, inferiores o iguales al equivalente de 100 unidades de fomento.
+d) Créditos no reajustables en moneda chilena pactados a 90 días o más, inferiores o iguales al equivalente de 200 unidades de fomento.
 
 e) Créditos reajustables en moneda chilena.
 
@@ -7266,7 +7266,7 @@ Para ese efecto, las tasas por un período se expresarán en términos anuales c
 
 b) La modalidad de cálculo de la tasa de interés tanto de las colocaciones como de las captaciones, debe ser claramente explicada, sobre todo en el caso de las primeras, en que el cobro de interés puede ser vencido o anticipado, o en que debe indicarse la tasa efectiva del crédito según lo previsto en el numeral 7.1 de este título.
 
-c) En la información de las operaciones no reajustables deberán señalarse separadamente, cuando proceda, las tasas de operaciones hasta 89 días de las tasas para operaciones de 90 días o más. Cuando se trate de colocaciones, en estas últimas se distinguirá, a su vez, entre las operaciones no superiores a 100 U.F., las que exceden de 100 U.F. y no superen las 200 U.F. y las superiores al equivalente de 200 U.F.
+c) En la información de las operaciones no reajustables deberán señalarse separadamente, cuando proceda, las tasas de operaciones hasta 89 días de las tasas para operaciones de 90 días o más. Cuando se trate de colocaciones, en estas últimas se distinguirá, a su vez, entre las operaciones no superiores a 200 U.F., las que exceden de 200 U.F. y no superen las 5000 U.F. y las superiores al equivalente de 5000 U.F.
 
 d) Los bancos y sociedades financieras pondrán especial cuidado en proporcionar al público la información de que se trata en forma clara y completa mediante la colocación de pizarras en lugares visibles y destacados, que contengan solamente esa información, de modo que ella sea fácilmente ubicable para todos.
 
