@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.524, de 30 de noviembre de 1998, se expropiaron los lotes de terreno Nºs. 3 y 6, superficies 104 y 105 m2., respectivamente, roles de avalúo en trámite y 53-4, comuna de Coltauco, para la obra Camino Coltauco Cementerio Rol H-366, San Luis y se acordó precio de indemnización con sus propietarios Eliana Moreno Cáceres y Petronila Valenzuela Pérez, ascendentes a las cantidades de $ 744.480.- para el lote 3 y $ 488.565.- para el lote 6.
+
+- Fiscal del Ministerio de Obras Públicas.
