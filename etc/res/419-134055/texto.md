@@ -1,0 +1,9 @@
+Por resolución Nº 419, de 19 de marzo de 1999 de esta Subsecretaría, autorízase a PESQUERA SACHO S.A., para iniciar actividades pesqueras de transformación, en la forma y bajo las condiciones que a continuación se expresan.
+
+La peticionaria podrá instalar y operar una planta ubicada en El Tepual Km. 5, comuna de Puerto Montt, provincia de Llanquihue, X Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco-Refrigerado y Congelado: Cojinoba del norte, Cojinoba del sur, Bacalao de profundidad, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Merluza común, Merluza de cola, Merluza del sur, Pejerrey de mar, Salmón del Atlántico, Salmón cereza, Salmón plateado, Salmón rey, Sardina española, Sardina común, Raya, Róbalo, Tollo, Trucha arcoiris o Cabeza de acero, Almeja o taca, Almeja, Chorito, Culengue, Macha, Navajuela, Navaja de mar o Huepo, Jaiba, Jaiba Mora, Caracol locate, Caracol tegula, Caracol trumulco, Caracol palo palo, Caracol picuyo, Caracol piquilhue, Caracol rubio, Caracol trophon, Lapa, Camarón nailon, Erizo, Pulpo, Loco, Pepino de mar; Salado: Anchoa o anchoveta, Pejerrey de mar, Sardina española, Sardina común, Erizo, Pepino de mar; Ahumado: Salmón del Atlántico, Salmón cereza, Salmón plateado, Salmón rey, Sardina española, Sardina común, Trucha arcoiris o Cabeza de acero, Cholga, Chorito.
+
+Los recursos Salmón del Atlántico, Salmón cereza, Salmón plateado y Trucha arcoiris o Cabeza de acero, deberán provenir de centros de cultivo autorizados.
+
+Déjanse sin efecto las resoluciones Nº 556 y Nº 732 de 1992, Nº 199 de 1993, y Nº 1.129 de 1998, de esta Subsecretaría, en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 19 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
