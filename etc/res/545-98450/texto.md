@@ -1,0 +1,3 @@
+Por resolución Nº 545, de 8 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don IÑIGO RIOSECO RODRIGUEZ, para iniciar actividades pesqueras extractivas en orden a efectuar actividades pesqueras con la nave ''Puerto Aysén'', en el litoral de la VIII Región, por fuera del área de reserva artesanal, con arrastre el recurso hidrobiológico Merluza común.
+
+Valparaíso, 8 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
