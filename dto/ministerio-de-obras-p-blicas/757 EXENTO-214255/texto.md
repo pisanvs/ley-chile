@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 757 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 14, superficie 2.463 m², rol de avalúo Nº 512-201, comuna de Carahue, para la obra "Camino Ruta S-36, sector Tranapuente - Nehuentue, tramo Km. 0,000 a Km. 9,997062, correspondiente al sub tramo I, Km. 0,000 al Km. 4,230, provincia de Cautín, comuna de Carahue", IX región y se acordó el valor de la indemnización con su propietaria Felisa del Carmen Concha Arias y Otros, ascendente a la cantidad de $1.677.092.
+
+- Fiscal del Ministerio de Obras Públicas.
