@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 1.095 de 31 de octubre de 1997, se expropio el lote de terreno N° 80, superficie 98,30 m2, rol de avalúo en trámite comuna de Quinta de Tilcoco, obra Camino Quinta de Tilcoco - Cruce Ruta 66, sector La Estacada y se acordó precio de indemnización con sus propietarios Sucesión Ofelia Soza Salinas, ascendente a las cantidades de $ 590.578.
+
+Fiscal del Ministerio de Obras Públicas
