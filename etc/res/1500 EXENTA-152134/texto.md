@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1500 de 12 de Agosto de 1987, conforme art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a sectores excluidos y expropiados de predios "Hijuela La Primera o Las Casas del Yacal", "Hijuela Tercera o San Rafael del Yacal" e "Hijuela Sexta o El Patagual" de la Comuna de Molina Séptima Región y Derechos Aprovechamiento Aguas que corresponden a las parcelas N°s. 1 a la 39, sitios N°s. 6 al 15, 18, 19 y Reserva CORA No. 2 del Proyecto de Parcelación "Alupenhue", formado por predios señalados y por sector expropiado predios "Parte del Fundo Alupenhue, antes Hijuela Quinta o La Compañía", "Hijuela Durazno Oriente" y "Fundo El Cortijo ex-Hijuela El Durazno Poniente, hoy conocido como "Fundo Alupenhue" e "Hijuela Quinta o La Compañía". Los derechos de agua se extraen del Río Lontué Canal Yacal y Estero Huape.
+
+Publicación hecha conforme art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
