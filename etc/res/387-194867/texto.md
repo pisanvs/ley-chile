@@ -1,0 +1,5 @@
+Por resolución Nº387 de 14 de febrero de 2002 de esta Subsecretaría, autorízase a Kimica Chile Limitada, R.U.T. Nº 79.775.750-0, con domicilio en Camino Lonquén s/n, parcela 12, comuna de Paine, Región Metropolitana, para continuar desarrollando las actividades pesqueras de transformación autorizadas a Industrial Kimitsu Chile Limitada, de igual R.U.T. y domicilio, autorizada por resolución Nº724 de 1996 de esta Subsecretaría.
+
+Autorízase a Kimica Chile Limitada para ampliar actividades pesqueras de transformación, en la planta ubicada en Camino Lonquén s/n, parcela 12, comuna de Paine, Región Metropolitana, donde podrá incorporar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Alginatos de Potasio, Calcio y Amonio, y Propilenglicol de Alginato: Chascón y Cochayuyo.
+
+Valparaíso, 14 de febrero de 2002.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
