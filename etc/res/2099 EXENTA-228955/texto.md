@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.099, de 6 de agosto de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 200111472 presentada por GONZALO ALEJANDRO CAMACHO SANTIBAÑEZ, para instalar y operar un centro de cultivo ubicado en Paso del Medio, entre isla Churrecue e islote Rodríguez, sector 1, XI Región.
+
+Valparaíso, 6 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
