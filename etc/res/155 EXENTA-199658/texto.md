@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 155 EXENTA, DE 2002
+
+Por resolución exenta Nº 155, de 22 de mayo de 2002, de esta Secretaría Regional, se dejan sin efecto, por disolución y término anticipado de la Sociedad Alicia Godoy Alvarez y Compañía Limitada o Escuela de Conductores del Norte Limitada, las resoluciones exentas Nº 091/99 y Nº 146/2000 de esta Secretaría Regional Ministerial, por las que respectivamente se otorgó reconocimiento oficial a la citada Escuela de Conductores, ubicada en calle Uribe Nº 530 de la ciudad de Antofagasta, para impartir cursos conducentes a la obtención de la licencia profesional Clase A-1, A-2, A-4, A-3 y A-5, y se aprobaron sus planes y programas.
+
+Anótese, comuníquese y publíquese, en extracto a costa de la interesada.- Enrique Viveros Jara, Secretario Regional Ministerial de Transportes y Telecomunicaciones II Región.
