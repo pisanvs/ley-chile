@@ -598,11 +598,11 @@ Las bases técnicas y administrativas que se empleen en las licitaciones públic
 
 #### Artículo 4°
 
-Los buses Tipo L referidos en la letra a) del artículo 2° anterior, además de cumplir con los requisitos técnicos relativos a capacidad de pasajeros a que se refiere el número 2 del artículo 3° precedente, deberán cumplir con los siguientes requisitos:
+Los buses Tipo L referidos en la letra a) del artículo 2° anterior, además de cumplir con los requisitos técnicos relativos a capacidad de pasajeros a que se refiere el número 2 del articulo 3° precedente, deberán cumplir con los siguientes requisitos:
 
 1. Puertas de servicio
 
-Deberán tener, a lo menos, dos puertas de servicio.
+Deberá contar con dos puertas de servicio, una de las cuales estará ubicada en la mitad delantera y la otra detrás del eje trasero del vehículo; no obstante, dichas puertas podrán ser reemplazadas por una puerta doble ubicada en la mitad anterior del vehículo.
 
 Las dimensiones y requisitos funcionales que deberán cumplir las puertas de servicio serán las señaladas en el N° 3 del artículo 3° anterior, salvo el requisito relativo al comando que opera simultáneamente todas las puertas de servicio; el ancho del espacio libre con las puertas abiertas, que será como mínimo 65 cm; el requisito de ancho mínimo de la protección del borde libre de las puertas que podrá ser 5 cm; y la prueba de la elasticidad de la protección, que no será exigible.
 
@@ -628,7 +628,13 @@ _______________________________________________________
 
 4. Pasillo
 
-Se aplica lo estipulado en el N° 6 del artículo 3° anterior, con la consideración de que el dispositivo de prueba que allí se especifica tenga las dimensiones siguientes:
+Se aplica lo estipulado en el N° 6 del artículo 3°
+
+anterior, con la consideración de que el dispositivo
+
+de prueba que allí se especifica tenga las
+
+dimensiones siguientes:
 
 _______________________________________________________
 
@@ -646,11 +652,23 @@ _______________________________________________________
 
 5. Asientos de pasajeros
 
-Los asientos para los pasajeros deberán ser del tipo de butacas individuales, dispuestos transversalmente
+Los asientos para los pasajeros deberán ser del tipo
 
-al eje longitudinal del vehículo y orientados en el sentido de marcha de éste.
+de butacas individuales, dispuestos transversalmente
 
-Además, se aplica lo indicado en las letras a2) y b) a e) del N° 7 del artículo 3° anterior, salvo respecto de las dimensiones y espaciamiento que se detallan más adelante, en que se aplicarán los valores que en cada caso se indican;
+al eje longitudinal del vehículo y orientados en el
+
+sentido de marcha de éste.
+
+Además, se aplica lo indicado en las letras a2) y b)
+
+a e) del N° 7 del artículo 3° anterior, salvo
+
+respecto de las dimensiones y espaciamiento que se
+
+detallan más adelante, en que se aplicarán los
+
+valores que en cada caso se indican;
 
 _______________________________________________________
 
@@ -724,9 +742,7 @@ El presente reglamento se aplicará a los vehículos de 18 o más asientos, incl
 
 #### Artículo 6°
 
-El acondicionamiento interior de los buses no podrá afectar el cumplimiento de los requisitos dimensionales y funcionales que establece el presente decreto, salvo que el Ministerio de Transportes y Telecomunicaciones por resolución fundada de aplicación general y con el informe favorable del Centro de Control y Certificación Vehicular, lo autorice.
-
-Del mismo modo, por resolución fundada del Ministerio de Transportes y Telecomunicaciones, se podrá eximir de la aplicación de una o más exigencias a que se refiere el presente decreto, a buses que requieran utilizarse en programas pilotos para la realización de estudios de interés para el transporte u otros fines experimentales. En caso que el Ministerio de Transportes y Telecomunicaciones, por resolución fundada, califique favorablemente los resultados de los programas pilotos o experimentales y determine que éstos fueren beneficiosos para la prestación de servicios de transporte público, los requisitos funcionales y dimensionales autorizados en dichos programas pilotos o experimentales se entenderán incorporados al presente decreto supremo, en los términos que indique la resolución antes referida.
+Por resolución del Ministerio de Transportes y Telecomunicaciones, se podrá eximir de la aplicación de determinadas exigencias a que se refieren los artículos anteriores, a los buses que requieran utilizarse con fines experimentales y de realización de estudios de interés para el transporte.
 
 #### Artículo 7°
 
@@ -790,13 +806,9 @@ Los buses Clase B deberán tener un mínimo de dos puertas dobles de servicio. S
 
 Los buses Clase C deberán tener un mínimo de tres puertas dobles de servicio, con dos de entrada baja, siendo la delantera una de ellas. No obstante, los vehículos de esta clase con más de 17 metros de longitud deberán tener un mínimo de cuatro puertas dobles de servicio, con al menos tres de ellas de entrada baja, incluyéndose dentro de éstas, las dos delanteras.
 
-Todas las puertas de servicio deberán estar situadas en el lado del vehículo próximo al borde de la calzada correspondiente a la dirección del tráfico. Sin perjuicio de lo anterior, cuando el Ministerio de Transportes y Telecomunicaciones por resolución lo disponga, las puertas de servicio podrán tener una ubicación distinta a la señalada, en cuyo caso, las puertas de servicio deberán igualmente cumplir los requisitos establecidos en este artículo.
+Todas las puertas de servicio deberán estar situadas en el lado del vehículo próximo al borde de la calzada correspondiente a la dirección del tráfico.
 
-Los buses de las clases A2,B y C deberán tener, en al menos una de sus puertas de servicio de entrada baja, una plataforma que permita el acceso de usuarios con movilidad reducida, la cual deberá tener superficie antideslizante, ser de fácil accionamiento, permitir acceso expedito, estable y seguro y estar ubicada en la puerta de servicio que se encuentre frente al espacio especial señalado en el numeral 22 de este artículo. La plataforma deberá tener un ancho y largo mínimo de 900 mm y 700 mm., respectivamente. Sus bordes externos serán redondeados con un radio no inferior a 2,5 mm y en las esquinas con un radio no inferior a 5 mm. Los perfiles de la plataforma deberán ser amarillos, preferentemente con propiedades reflectantes. En la imposibilidad de aplicación de perfil, será aceptada cualquier otra forma de señalización en su contorno para la visibilidad superior y frontal de sus límites. No deberán existir cantos vivos y desniveles que comprometan la seguridad de los usuarios. La pendiente de la plataforma extendida o desplegada sobre una solera de 150 mm de altura no deberá ser mayor del 12%. Su superficie deberá ser capaz de resistir una presión igual o superior a 300 kgf/m². La plataforma deberá mantener sus propiedades en cualquier condición climática.
-
-La totalidad del piso del espacio reservado para silla de ruedas deberá ser revestido con material de textura antideslizante de un color que contraste con el resto de la carrocería del bus. Además, este espacio deberá incluir el símbolo del SIA (Símbolo Internacional de Accesibilidad) de la misma materialidad del revestimiento del espacio reservado y en un tamaño proporcional que permita una adecuada visibilidad. A continuación se muestra el simbolo SIA y un ejemplo de su aplicación:
-
-El accionamiento de la rampa debe ser ejecutado por medio de manillas de dimensiones suficientes para permitir su total empuñadura e instalada en un punto de la rampa que facilite la aplicación de la fuerza para su accionamiento. En condición de reposo la referida manilla deberá quedar a nivel de la superficie de la rampa.
+Los buses de las clases A2,B y C deberán tener, en al menos una de sus puertas de servicio de entrada baja, una plataforma que permita el acceso de usuarios con movilidad reducida, la cual deberá tener superficie antideslizante, ser de fácil accionamiento, permitir acceso expedito, estable y seguro y se deberá ubicar lo más próxima al espacio reservado para pasajeros en silla de ruedas.
 
 b) Dimensiones
 
@@ -990,8 +1002,6 @@ No obstante lo anterior, cuando en el área destinada a pasillos existan apoyabr
 
 Figura 1: Dispositivo calibrador de pasillo
 
-En el caso de vehículos de propulsión eléctrica, híbrida o hidrógeno, el diámetro del cilindro inferior del dispositivo calibrador a que se refiere el párrafo primero de este numeral podrá reducirse, cuando el encapsulamiento del sistema de propulsión del vehículo no permita la libre pasada del dispositivo calibrador.
-
 Sin perjuicio de lo anterior, el Ministerio de Transportes y Telecomunicaciones podrá, cuando las características operacionales así lo ameriten, mediante resolución fundada, definir el área a que se refiere el párrafo primero de este numeral, el cual deberá estar libre de pasamanos, asientos u otros obstáculos, y ser de dimensiones tales que permitan la instalación de un sistema de control de acceso en la parte delantera.
 
 7. Asientos
@@ -1024,10 +1034,6 @@ a.2) Distribución
 
 a.2.1) El piso en la zona de los asientos deberá estar al mismo nivel que el piso del pasillo de circulación, salvo en la zona de los cubre-ruedas , en la zona en que el pasillo se encuentre inclinado o, en los vehículos con motor trasero, en que se permitirá que las dos últimas corridas de asientos estén a una altura más elevada.
 
-En el caso de asientos ubicados sobre los cubre-ruedas, la zona del piso ubicada inmediatamente delante del asiento respectivo deberá ser una plataforma plana para apoyo de los pies de los pasajeros.
-
-Dicha plataforma deberá ubicarse perpendicular al punto inferior de medición de altura y con un ancho, a lo menos, igual al ancho mínimo del espacio disponible para cada plaza. Deberá ser revestida con el mismo material aplicado en el piso bajo los asientos, de manera de proveer el máximo confort y debida comodidad de los pies en posición horizontal. En caso que exista espacio libre entre la citada plataforma y un panel o asiento instalado inmediatamente al frente, éste no podrá ser superior a 30 mm.
-
 a.2.2) Los asientos extremos traseros no podrán ser continuos, sino que serán asientos dobles o simples, del mismo tipo que el resto.
 
 a.3) Espaciamientos
@@ -1046,23 +1052,13 @@ VER DIARIO OFICIAL DE 08.01.2004, PÁGINA 6.
 
 Figura 4: Espaciamientos de asiento
 
-a.4) Ángulo
+a.4) Requisitos generales
 
-El ángulo de los asientos con la horizontal debe estar comprendido entre 5º y 15º y el ángulo del respaldo con la horizontal debe estar comprendido entre 105º y 115º, de acuerdo a la figura siguiente:
-
-a.5) Requisitos generales
-
-a.4.1) Material: El material de los asientos deberá tener propiedades que dificulten la propagación de la llama en caso de incendio y ser antideslizante con características de rugosidad superficial que asegure una adherencia apropiada que dificulte el resbalamiento de sus ocupantes cuando el bus se encuentra en operación.
+a.4.1) Material: El material de los asientos deberá tener propiedades que dificulten la propagación de la llama en caso de incendio.
 
 a.4.2) Anclaje: Los asientos deberán estar firmemente fijados a la estructura del vehículo.
 
 a.4.3) Pasamanos en asientos: La parte superior del respaldo de los asientos deberá estar provista de un pasamanos.
-
-a.4.4) Asientos preferentes: Los asientos reservados para el uso preferente por personas con discapacidad y movilidad reducida, exigidos por la normativa vigente, deberán ser de un color distinto y contrastante con el color de los demás asientos para pasajeros. Su ubicación deberá considerar su proximidad tanto a la puerta de acceso como a la de salida del vehículo. El piso de los asientos preferentes deberá estar al mismo nivel que el piso del pasillo de circulación, esto es, no deberán estar en las zonas de los cubre-ruedas o similares o en una ubicación tal que para acceder a ellos el pasajero deba utilizar peldaños.
-
-a.4.5) Dispositivos de apoyo: Deberá instalarse pasamanos, o asideros de sujeción, para el apoyo del pasajero sentado, en todos los
-
-casos en que se verifique una distancia superior a 400 mm entre ese asiento y el asiento frontal o el panel divisorio.
 
 b) Asiento del conductor
 
@@ -1082,11 +1078,11 @@ a) Requisitos generales
 
 a.1) Todos los vidrios utilizados en las ventanas laterales, parabrisas y luneta trasera deberán ser de seguridad cumpliendo, con alguna de las siguientes normas: Norma Chilena NCh135.Of55; Directiva 92/22/CEE de la Comunidad Económica Europea; Resolución 784/94 del Contran Brasil; u otra equivalente.
 
-a.2) Será obligatorio para todos los buses contar con una luneta trasera, con excepción de aquellos buses de propulsión eléctrica, híbrida o hidrógeno.
+a.2) Será obligatorio para todos los buses contar con una luneta trasera.
 
 b) Requisitos Ventanas laterales
 
-b.1) Las ventanas laterales (incluida la superficie vidriada de las puertas) deberán ser, como mínimo, de un 30% de la superficie lateral del bus en los buses Clase A y de un 40% en los buses Clases B y C. Dicho requisito no será exigible a buses de propulsión eléctrica, híbrida o hidrógeno siempre y cuando el encapsulamiento del sistema de propulsión del vehículo no lo permita.
+b.1) Las ventanas laterales (incluida la superficie vidriada de las puertas) deberán ser, como mínimo, de un 30% de la superficie lateral del bus en los buses Clase A y de un 40% en los buses Clases B y C.
 
 b.2) Los vidrios deberán ser tintados, con un índice de transparencia entre 50 y 70%.
 
@@ -1114,15 +1110,9 @@ a.4) La superficie de cada pasamanos y asidero o columna de sujeción debe ser d
 
 b) Pasamanos y asideros de sujeción para pasajeros de pie
 
-b.1) Para cada punto de la superficie del piso destinada a los pasajeros de pie deberá haber pasamanos y asideros de sujeción en número suficiente. A tal efecto, deberá disponerse, a lo menos, de una cantidad de asideros flexibles equivalente a la mitad del número de pasajeros de pie, distribuidos uniformemente a lo largo del vehículo y su empuñadura deberá encontrarse a 1.650 mm de altura, medidos desde el piso del vehículo. Estas condiciones se considerarán cumplidas cuando, para cualquier localización posible del dispositivo de ensayo representado en la Figura 5, dos pasamanos o asideros de sujeción, como mínimo, estén al alcance del brazo móvil del dispositivo calibrador para pasamanos y asideros. El dispositivo antes mencionado podrá girarse libremente alrededor de su eje vertical. Además, en el pasillo de circulación deberán instalarse pilares cada 1,5 metros como máximo o mínimo cada dos asientos, distribuidos a lo largo del eje longitudinal del bus, sin que ellos entorpezcan la circulación desde y hacia el espacio especial destinado para usuarios en silla de ruedas a que se refiere el numeral 22 de este artículo.
-
-Aquellos pilares que se encuentren adyacentes a los asientos preferentes deberán contar con elementos que al tacto indiquen a una persona con discapacidad visual que se encuentra frente a dichos asientos. Estos elementos podrán cubrir su superficie con una goma texturada que deberá distribuirse uniformemente sobre el manto del tubo o, en caso de señales con pequeñas protuberancias, sus bordes deberán ser debidamente redondeados para no provocar daños.
+b.1) Para cada punto de la superficie del piso destinada a los pasajeros de pie deberá haber pasamanos y asideros de sujeción en número suficiente. A tal efecto, si el vehículo está equipado con asideros flexibles, éstos podrán considerarse asideros de sujeción, siempre que estén sujetos en su posición por los medios adecuados. Esta condición se considerará cumplida cuando, para cualquier localización posible del dispositivo de ensayo representado en la Figura 5, dos pasamanos o asideros de sujeción, como mínimo, estén al alcance del brazo móvil del dispositivo. El dispositivo de ensayo podrá girarse libremente alrededor de su eje vertical.
 
 b.2) Cuando se utilice el procedimiento indicado en el punto anterior, únicamente deberán tomarse en consideración los pasamanos y asideros de sujeción que se encuentran a 800 mm como mínimo y a 1.900 mm como máximo del nivel del piso.
-
-En las zonas de los cubre-ruedas o encapsulamientos correspondientes al sistema motor-transmisión, donde se encuentren estos pasamanos, deberá instalarse en un lugar visible una señal adhesiva con la leyenda y forma que se muestra en la figura siguiente, o incluir asideros flexibles cuya empuñadura deberá encontrarse a 1.650 mm de altura desde el piso del vehículo:
-
-La señal anterior, de forma de un triángulo equilátero de 200 mm de lado, será de color amarillo, con orla de color negro de 5 mm y letras de color negro del tipo Arial 14.
 
 b.3) Para cada posición que pueda ser ocupada por un pasajero de pie, al menos uno de los dos pasamanos o asideros de sujeción requeridos deberá encontrarse a no más de 1.500 mm por encima del nivel del piso en dicho lugar. Esta disposición no se aplicará al área adyacente a una puerta en la que ésta o su mecanismo en posición abierta impedirían la utilización de este asidero.
 
@@ -1206,11 +1196,11 @@ g) Indicador del nivel de combustible.
 
 13. Sistema de aviso de parada
 
-El bus deberá contar con un timbre eléctrico del tipo salientes, ubicados a una altura de 1.200 mm como máximo, los que deberán ser de un color contrastante al del resto de la carrocería. Tales timbres se distribuirán uniformemente en el vehículo, procurando además un acceso adecuado cada 1,5 m como máximo, o mínimo cada 2 asientos a lo largo del eje longitudinal del bus. Además, deberá encenderse una señal luminosa sobre las puertas de salida y en el puesto del conductor, que se activará con el toque de timbre y que impedirá que se repita la señal acústica si el conductor ya ha sido alertado de la parada.
+El bus deberá contar con timbres del tipo botones salientes, ubicados a una altura de 1.200 mm como máximo, los que deberán ser de un color que contraste con el resto de la carrocería. Tales mandos se distribuirán uniformemente en el vehículo. Además, deberá encenderse una señal luminosa que se activará con el toque de timbre y que impedirá que se repita la señal acústica si el conductor ya ha sido alertado de la parada.
 
 14. Iluminación interna
 
-La iluminación interna deberá ser en base a lámparas, instaladas de manera que eviten molestias al conductor. La luz que proyecten deberá ser blanca.
+La iluminación interna deberá ser en base a lámparas fluorescentes, instaladas de manera que eviten molestias al conductor. La luz que proyecten deberá ser blanca.
 
 La potencia de la luz será lo más uniforme posible al interior del bus, siendo como mínimo 150 lux a una altura de 1 m sobre el piso del vehículo. En el caso de las lámparas ubicadas en la caja de peldaños, éstas deberán instalarse de modo que no puedan ser oscurecidas por las puertas estando abiertas.
 
@@ -1222,7 +1212,7 @@ El vehículo deberá contar con sistemas electrónicos de identificación de rec
 
 El sistema de luces exteriores deberá contar con las luces a que se refieren los artículos 68 y siguientes de la Ley de Tránsito Nº 18.290, respecto de las cuales deberán cumplirse los siguientes requisitos:
 
-a) La luz alta deberá tener una intensidad que permita, de noche y con buen tiempo, discernir la existencia de obstáculos en el camino frente al vehículo, a una distancia de 100 m; la luz baja deberá tener una intensidad que permita en iguales condiciones, discernir obstáculos a una distancia de 40 m.
+a) Los focos de luces altas y bajas deberán estar lo más alejado posible entre sí y los respectivos centros a una altura de 800 + 100 mm del suelo. La luz alta deberá tener una intensidad que permita, de noche y con buen tiempo, discernir la existencia de obstáculos en el camino frente al vehículo, a una distancia de 100 m; la luz baja deberá tener una intensidad que permita en iguales condiciones, discernir obstáculos a una distancia de 40 m.
 
 b) Las luces de frenos deberán tener una intensidad que permita su buena visibilidad durante el día a 100 m de distancia, sin que provoquen, durante la noche, molestia a los conductores que se encuentren detrás.
 
@@ -1270,7 +1260,7 @@ El sistema deberá atenuar la transmisión al volante de vibraciones o golpes pr
 
 a.2) Maniobrabilidad
 
-Los vehículos deberán cumplir con el núnero 7.6 de La Directiva 97/27/CE de la Comunidad Económica Europea o con los valores indicados en la columna titulada "Básico, Padrón, Articulado, Biarticulado" de la tabla 4 del número 21 de la Norma Brasilera ABNT NBR 15570.
+Los vehículos deberán cumplir con el núnero 7.6 de La Directiva 97/27/CE de la Comunidad Económica Europea.
 
 VER DIARIO OFICIAL DE 08.01.2004, PÁGINA 8.
 
@@ -1350,33 +1340,15 @@ d.2) El piso no pueda soportar el peso de los pasajeros;
 
 d.3) Los movimientos de las paredes presenten peligro para los pasajeros.
 
-Además, en la zona de la articulación, deberán ubicarse pasamanos y asideros de sujeción en número suficiente que permitan a los pasajeros puntos de apoyos seguros y apropiados para tomarse cuando el bus se encuentra en movimiento.
-
 21. Requisitos respecto de la deriva de los vehículos articulados
 
 Cuando un vehículo articulado se desplace en línea recta, los planos medios longitudinales de las partes rígidas del vehículo deberán coincidir e inscribirse en un mismo plano continuo sin ningún desplazamiento.
 
 22. Espacio y anclaje para silla de ruedas
 
-Todo bus de las Clases A2,B y C deberá contar con un espacio especial destinado para usuarios en silla de ruedas. Este espacio deberá estar ubicado frente a la puerta de servicio que posee la plataforma a que se refiere el párrafo final de la letra a) del numero 3 de este artículo. El espacio mínimo deberá ser de 900 x 1.400 mm, siendo el eje de simetría de la silla paralelo con el eje longitudinal del bus. Deberá existir un espaldar, consistente en una franja de 130 cm de alto por 32 cm de ancho, aproximadamente, sobre el cual se arrime el respaldo de la silla de ruedas. Dicho espaldar deberá permitir un apoyo estable del respaldo de la silla de ruedas.
+Todo bus de las Clases A2,B y C deberá contar con un espacio especial destinado para usuarios en silla de ruedas. Este espacio deberá estar ubicado lo más cercano a la puerta de servicio que posea la plataforma a que se refiere el párrafo final de la letra a) del número 3 de este artículo. El espacio mínimo deberá ser de 900 x 1.400 mm, siendo el eje de simetría de la silla paralelo con el eje longitudinal del bus.
 
-En este espacio especial, la superficie del piso deberá ser de material antideslizante de un color que contraste con el resto de la carrocería, deberán existir pasamanos laterales para facilitar la entrada y salida de los usuarios, ubicados a una altura aproximada de 750 mm., y mecanismos de sujeción para la silla, los cuales deberán estar anclados a un elemento estructural del vehículo.
-
-Este mecanismo de sujeción debe tener un sistema sencillo y rápido de operar y que permita utilizar el área como espacio libre cuando no sea usado por personas en silla de ruedas. Deberá contar, además, con un cinturón de seguridad de tres puntas con pretensor destinado a la persona que viaje en la silla y contar con un sistema de aviso de parada, cuya señal acústica permita diferenciarla de las señales del resto del vehículo.
-
-23. Espejos convexos internos
-
-Debe ser instalado un espejo convexo junto a cada puerta de desembarque, que permita la visualización amplia de movimiento de los pasajeros a través de los espejos del puesto del conductor.
-
-24. Ventilación interna
-
-Los buses deberán estar dotados de un sistema de ventilación, formado por dispositivos de aire forzado y tomas de aire natural, diseñado y construido para asegurar una renovación de al menos 20 veces el volumen de aire contenido al interior del bus, por hora. La cantidad mínima de dispositivos de aire forzado (QMD) para garantizar la tasa de renovación de aire anterior, será igual al mayor valor que resulte de comparar el resultado de la ecuación que a continuación se plantea, con el correspondiente valor de la tabla 1 siguiente:
-
-QMD = (VI x 20)/VV, donde VI es el volumen interno del bus expresado en m³ y VV es el caudal del ventilador expresado en m³/ hr.
-
-La cantidad mínima de aire natural debe estar conforme a lo indicado en tabla 2 siguiente:
-
-Si eventualmente se presentara una carrocería que, por condiciones técnicas o de operación, el espacio disponible no le permitiere cumplir con el número mínimo de ventiladores y/o tomas de aire natural, se admitirá un número menor de dichos elementos, siempre que se demuestre que los existentes mantienen la tasa de renovación de aire de al menos 20 veces el volumen de aire contenido al interior del bus, arriba dispuesta.
+En este espacio deberán existir pasamanos para facilitar la entrada y salida de los usuarios y mecanismos de sujeción para la silla, los cuales deberán estar anclados a un elemento estructural del vehículo. Este mecanismo de sujeción debe tener un sistema sencillo y rápido de operar y que permita utilizar el área como espacio libre cuando no se use por personas en silla de ruedas. Además, este espacio deberá contar con un sistema de aviso de parada.
 
 #### Artículo primero
 
