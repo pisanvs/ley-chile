@@ -1,0 +1,3 @@
+Por decreto MOP Nº 127, de fecha 28 de febrero del 2001, se expropió el lote de terreno Nº 16, superficie 577 m², rol de avalúo 182-72, comuna de Fresia, para la obra "Camino Ruta V-20, Sector Bifurcación Fresia - Tegualda, Km. 26,720 al 33,682731" y se acordó el valor de indemnización con su propietaria Otilia Márquez Hernández, ascendente a la cantidad de $655.132.-
+
+Fiscal del Ministerio de Obras Públicas.
