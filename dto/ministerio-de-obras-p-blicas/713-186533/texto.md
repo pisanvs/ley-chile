@@ -1,0 +1,5 @@
+Por decreto MOP Nº 713, de 30 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del DFL. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 101 y 104, para la ejecución de la obra "Camino Conexión Vial Pichidegua-Las Cabras, Sector San Roberto-El Toco-Ruta 66, Tramo Km. 12,70000 a Km.
+
+18,19349", que figuran a nombre de Eugenio Lara Núñez y Sucesión Valenzuela Allende, roles de avalúo 33-280 y 137-19, comuna de Pichidegua, lote 101 y Las Cabras lote 104, VI Región, superficies 6.576 y 6.580 M2. La comisión de peritos fijó con fecha 4 de febrero de 2000, la indemnización provisional en la cantidad de $9.391.200, lote 101 y $18.692.000, lote 104. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
