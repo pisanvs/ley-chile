@@ -1,0 +1,3 @@
+Por Decreto MOP N° 387, de 12 de Noviembre de 1993, se expropiaron los lotes de terreno N°s. 1, 2, 4 y 5, superficies 1.744 m2., 11.260 m2., 2.282 m2. y 856 m2., respectivamente, rol de avalúo 221-043, comuna de Santa Bárbara, para la obra Camino de Acceso y de la Red Vial Internacional de la Central pangue y se acordó precio de indemnización con su propietaria Agrícola, Forestal y Ganadera Entre Ríos Ltda., ascendente a la cantidad de $ 2.574.185.-
+
+Fiscal del Ministerio de Obras Públicas.
