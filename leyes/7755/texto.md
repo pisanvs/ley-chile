@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Providencia ceder a la Compañía de Bomberos de dicha comuna el terreno que indica, y cuyos deslindes señala.
