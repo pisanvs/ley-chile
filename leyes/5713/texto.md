@@ -1,0 +1,1 @@
+Substituye artículo 1°, reemplaza inciso 1° del 14; agrega inciso al 15; reemplaza el 16 y agrega artículos a la ley 5,394, de 1° de febrero de 1934, que autoriza a la Junta de Exportación Agrícola para comprar trigo y sus derivados y exportarlo al extranjero, y, en casos especiales, importarlo y venderlo en el país.
