@@ -1,0 +1,3 @@
+Por resolución No. 232 de 11 de abril de 1990, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó al señor Carlos René Silva Puratic, para efectuar transporte terrestre de pasajeros entre Osorno y Punta Arenas, en tránsito por territorio argentino, por los Pasos Puyehue y Monte Aymond, con Dos frecencias semanales, las que se efectuarán en los siguientes días: Osorno-Punta Arenas: martes - jueves. Punta Arenas-Osorno: martes - viernes.-
+
+Sergio González Tagle, Subsecretario de Transportes.
