@@ -1,0 +1,3 @@
+Mediante resolución Nº30, del Ministerio de Economía, Fomento y Reconstrucción de 27 de marzo del año 2000, se aprobó la Disolución Voluntaria de la Cooperativa de Servicio de Abastecimiento de Agua Potable y Saneamiento Ambiental de la Comunidad de Rungue Ltda.; que consta en la escritura pública suscrita con fecha 11 de febrero del año 2000, ante el Notario Público de la Cuadragésima Notaría de Santiago, don Pedro Parga Muñoz, suplente del Titular don Alberto Mozó Aguilar.
+
+Por orden del Señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
