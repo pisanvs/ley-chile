@@ -1,0 +1,3 @@
+Por decreto MOP. Nº1.259, de 27 de agosto de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº3, para la obra Camino Ruta T-80, sector La Unión - Las Trancas, Kms 0,900 al 10,99034 que figura a nombre de Florin Smith Jaime Arturo, rol de avalúo 524-1, superficie 2.350 m2., comuna de La Unión. La Comisión de Peritos, con fecha 21 de enero de 2000, fijó la indemnización provisional en la cantidad de $5.075.000, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
