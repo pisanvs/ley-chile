@@ -1,0 +1,3 @@
+Por Resolución Exenta No. 7.379, de fecha 06 de Diciembre de 1988, el Servicio Electoral dispuso publicar el siguiente extracto de la solicitud de inscripción en la Región Metropolitana de Santiago, del Partido "Los Verdes". Andrés Koryzma Zep y Rafael Edwards Aguirre en representación del Partido "Los Verdes", solicitan la inscripción del Partido en el Registro de Partidos Políticos de la Región Metropolitana de Santiago, conforme al Art. 17 de la Ley 18.603. Declaran haber presentado más de 13.000 afiliaciones.
+
+Santiago, 05 de Diciembre de 1988.- Andrés Merino Espiñeira, Director Subrogante.
