@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.209, de 10 de noviembre de 2004, de esta Subsecretaría, autorízase a PATRICIO FERNANDO TORRES HEVIA, para efectuar una pesca de investigación en el marco del proyecto "Identificación de huéspedes intermediarios y desarrollo experimental del nematodo Camallanus corderoi Torres, Teuber y Miranda, 1990 en Copépodos y Truchas Arco iris introducidas en ecosistemas de agua dulce en el sur de Chile", cuyo proyecto técnico fue elaborado por el peticionario y aprobado por esta Subsecretaría.
+
+La pesca de investigación que por la presente resolución se autoriza tiene como objetivo determinar experimentalmente las especies de copépodos que actúan como huéspedes intermediarios en el ciclo de vida del nematodo Camallanus corderoi.
+
+El peticionario podrá realizar cuatro campañas de muestreo para capturar, con devolución, mediante redes monofilamento y polifilamento, ejemplares de las especies principales Pejerrey, Perca trucha y Trucha arcoiris; y de las secundarias Bagre y Trucha café. El peticionario podrá capturar sin devolución 10 ejemplares de cada especie principal en cada una de las cuatro campañas de muestreo autorizadas.
+
+Valparaíso, 10 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
