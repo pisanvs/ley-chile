@@ -1,0 +1,3 @@
+Por Resolución N° 547 de 3 de junio de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resolución N° 268, de 1986, la Resoluciones N° 48, de 1988 que modificó y la Resolución N° 1276, de 1990, todas de esta Subsecretaría, que autorizaron a don LUIS ESBERTO ANDRADE PINTO, R.U.T. N° 5.746.949-8, para operar un establecimiento de cultivo, ubicado en un Sector de Playa Sur "Reloncaví", Isla Tenglo, Comuna de Puerto Montt, Provincia de Llanquihue, X Región, por haberse caducado el Decreto Supremo de concesión de acuicultura.
+
+Valparaíso, 3 de junio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
