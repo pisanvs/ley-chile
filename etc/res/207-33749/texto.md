@@ -1,0 +1,3 @@
+Por resolución N° 207 de 10 de marzo de 1993 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, parte inmueble ubicado en Avenida Cinco de Abril N° 4776, presunto rol de avalúos N° 6551-20 comuna de Estación Central, aparente dominio de don Enrique Matthies Matthies. Comisión integrada por peritos Sres. Ricardo Carvallo Rodríguez, arquitecto, Carlos del Pedregal Sánchéz, Constructor Civil y Humberto Mattos Mendoza, ingeniero civil, según informe de 17 de Septiembre 1992, fijó monto provisional indemnización en $ 2.273.573 pagadera al contado.-
+
+Directora SERVIU Metropolitano.
