@@ -1,0 +1,5 @@
+Por Resolución N° 1.075 de 13 de noviembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción autorízase a PACIFIC FISHERIES S.A., R.U.T. N° 96.543.140-3, domiciliada en la ciudad de Santiago, para continuar desarrollando las actividades autorizadas por Resolución N° 1.036, de 1989, de esta Subsecretaría, a Pesquera Nueva Estrella S.A., atendido el cambio de razón social de que da cuenta la escritura pública otorgada con fecha 30 de octubre de 1990, ante el Notario Público de Santiago don Clemente Silva Clares, suplente del Titular don Víctor Manuel Correa Valenzuela.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso 13 de noviembre de 1992.- Alvaro Briones Ramírez, Subsecretario de Pesca Subrogante.
