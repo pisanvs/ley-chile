@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 549, de 30 de junio de 1997, se expropiaron los lotes de terreno Nºs. 112 y 119, superficies 12.346 m² y 4.491 m², roles de avalúo 2234-4 y 2224-48, comuna de Chillán, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Eleodoro Puentes Paredes, y Víctor Carrasco de la Hoz, ascendente a las cantidades de $4.720.824.- y $17.389.672.-
+
+Fiscal del Ministerio de Obras Públicas.
