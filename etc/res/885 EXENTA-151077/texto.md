@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 885 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "El Arenal" de la Comuna de Quinta de Tilcoco VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 5, sitios N°s. 1 al 2 del Proyecto de Parcelación "El Arenal" formado por predio señalado. Los Derechos de Agua se extraen del Canal Silvano.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
