@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.965, de 30 de septiembre de 1999, se expropió el lote de terreno Nº75, superficie 770 m², rol de avalúo 243-7, comuna de Frutillar, para la obra "Concesión Internacional Ruta 5 Tramo: Río Bueno - Puerto Montt. Sector: Frutillar-Fresia", Décima Región y se acordó el valor de indemnización con su propietario Sergio Osvaldo Wulf Hechenleitner, ascendente a la cantidad de $487.671.-
+
+Fiscal del Ministerio de Obras Públicas.
