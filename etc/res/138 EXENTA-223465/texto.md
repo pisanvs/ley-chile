@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 138 EXENTA DE 2004, QUE APROBO REFORMA DE ESTATUTOS DE LA SOCIEDAD "BICE-DREYFUS ADMINISTRADORA GENERAL DE FONDOS S.A."
+
+Certifico: Que por resolución exenta Nº 138 de fecha 31 de marzo de 2004 esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad "Bice-Dreyfus Administradora General de Fondos S.A.", según lo acordado en junta extraordinaria de accionistas de fecha 19 de enero de 2004, cuya acta fue reducida a escritura pública con la misma fecha, ante el titular de la Segunda Notaría de Santiago, don Enrique Morgan Torres, domiciliado en Agustinas Nº 1173 de esta ciudad. Reforma consiste en cambio de nombre de la sociedad, la que pasa a denominarse "Bice Administradora General de Fondos S.A.". Demás modificaciones constan en escritura extractada.
+
+Santiago, 31 de marzo de 2004.- Carmen Undurraga Martínez, Secretaria General.
