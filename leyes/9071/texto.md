@@ -1,0 +1,1 @@
+Establece a contar desde el 1° de noviembre de 1948, una indemnización de desahucio para el personal de Carabineros de Chile, compatible con la pensión de retiro o montepío.
