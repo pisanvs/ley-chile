@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.237, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº6, superficie 142,2 m2., rol de avalúo Nº178-54, comuna de San Clemente, para la obra "Proyecto La Raya - Queri, Rol K-693, Km. 0.024,60 al Km. 2.580", y se acordó el valor de indemnización con su propietaria Gloria del Carmen Cerpa Bravo, ascendente a la cantidad de $253.583.-
+
+Fiscal del Ministerio de Obras Públicas.
