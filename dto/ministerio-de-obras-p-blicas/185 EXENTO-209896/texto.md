@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 185 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº 12, superficie 702,9 m², Rol Nº 137,6, comuna de Vichuquén, VII Región para la obra "Camino Ruta J-820 y J-830, Sector: Vichuquén - Aquelarre Km. 0.000,00 al 7.762,291" y se acordó el valor de indemnización con su propietario Filomena Elena Correa Correa, ascendente a la cantidad de $593.997.
+
+Fiscal del Ministerio de Obras Públicas.
