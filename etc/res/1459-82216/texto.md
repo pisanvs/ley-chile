@@ -1,0 +1,5 @@
+Por Resolución No. 1.459, de 26 de Noviembre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a CONGELADOS Y CONSERVAS FITZ ROY S.A., RUT No. 96.512.680-5, domiciliada en Santiago, para ampliar las actividades pesqueras autorizadas por Resolución No. 687, de 1987, de esta Subsecretaría, en orden a incorporar en el establecimiento ubicado en Estero Huito, Comuna de Calbuco, Provincia de Llanquihue, X Región, autorizado a operar por la Resolución No. 708, de 1988, de esta Subsecretaría, el cultivo del recurso Salmón del Atlántico.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo con las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 26 de Noviembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
