@@ -1,0 +1,3 @@
+Por resolución Nº399 de 7 de Mayo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días, a contar de la fecha de esta resolución, el plazo otorgado a SOCIEDAD PESQUERA AYALA HNOS. S.A., R.U.T. Nº96.542.780-5, domiciliada en la ciudad de Iquique, calle Sotomayor Nº2029, para publicar en el Diario Oficial la resolución Nº16 de 1992 de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 7 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca subrogante.
