@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.058, de 29 de abril de 1999, se expropió el lote de terreno Nº 520, superficie 1.252,4 m², rol de avalúo 539-91, comuna de La Unión, para la obra ''Concesión Internacional Ruta 5; Tramo Temuco-Río Bueno'', Décima Región y se acordó el valor de indemnización con su propietaria Noemí Prieto Olivares, ascendente a la cantidad de $758.851.-.
+
+Fiscal del Ministerio de Obras Públicas.
