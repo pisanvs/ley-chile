@@ -6404,41 +6404,21 @@ contratos.
 
 5.2. Importes recibidos de los titulares de tarjetas de crédito.
 
-a) En moneda chilena:
-
-Los importes en moneda chilena recibidos de los titulares de tarjetas de crédito, se abonarán a la cuenta "Créditos a titulares de tarjetas de crédito" de que trata la letra a) del numeral 5.3 y a la cuenta que corresponda por los intereses, mencionada en el numeral 5.4, o en su defecto, a la cuenta "Pagos de titulares de tarjetas de crédito por aplicar", de la partida 3010 del MB1, para aplicarlos, en la oportunidad que corresponda, a los créditos e intereses que se registren en las cuentas antes indicadas.
-
-b) En moneda extranjera:
-
-Los importes recibidos en moneda extranjera se acreditarán a la cuenta denominada "Cuenta especial-Capítulo XXXI Normas de Cambios", de la partida 3010 del MB1. De acuerdo con las disposiciones del Banco Central de Chile, de esta cuenta se girarán los importes necesarios para reembolsar los gastos en que hubiere incurrido en el exterior el titular de la tarjeta de crédito o para su conversión a moneda chilena.
-
-En consecuencia, los importes abonados a esta cuenta se girarán para ser aplicados a los saldos registrados en la cuenta "Gastos en moneda extranjera de titulares de tarjetas de crédito" de que trata la letra b) del numeral 5.3, sin perjuicio de la obligación de liquidar los excedentes cuando ya se hubieren computado todos los gastos.
+Los importes recibidos de los titulares de tarjetas de crédito, en moneda chilena o extranjera, se abonarán en la moneda respectiva, a la cuenta "Créditos a titulares de tarjetas de crédito", de que trata el numeral 5.3 y a la cuenta que corresponda por los intereses, mencionada en el numeral 5.4, o en su defecto, a la cuenta "Pagos a titulares de tarjetas de crédito por aplicar", de la partida 3010, para aplicarlos, en su oportunidad, a los créditos e intereses que se registren en las cuentas antes indicadas.
 
 5.3. Créditos a los titulares de las tarjetas.
 
 Las utilizaciones que de sus tarjetas de crédito hagan los usuarios de éstas, se considerarán crédito, tanto para los efectos contables como de márgenes individuales de que trata el artículo 84 de la Ley General de Bancos, a partir del día en que venza el estado de cuenta o, si antes de esa fecha la institución paga a los establecimientos afiliados o al operador, en su caso, a contar del día en que se efectúen dichos pagos.
 
-Por consiguiente, al vencimiento de dichos estados o al momento del pago a los
-
-establecimientos comerciales o al operador, según corresponda, se registrarán
-
-las obligaciones de los titulares de acuerdo a las siguientes instrucciones:
-
-a) Moneda chilena:
+Por consiguiente, al vencimiento de dichos estados o al momento del pago a los establecimientos comerciales o al operador, según corresponda, se registrarán las obligaciones de los titulares,en moneda chilena o extranjera, de acuerdo a las siguientes instrucciones:
 
 Debe: "Créditos a titulares de tarjetas de crédito" de la partida 1115 "Préstamos de consumo", del MB1.
 
 Haber: "Utilizaciones de tarjetas de crédito por cobrar".
 
-b) Moneda extranjera:
-
-Debe: "Gastos en moneda extranjera de titulares de tarjetas de crédito", de la partida 1140 "Varios deudores", del MB1.
-
-Haber: "Utilizaciones de tarjetas de crédito por cobrar".
-
 5.4. Intereses.
 
-En concordancia con las normas generales sobre la materia, los intereses que devenguen los créditos a los titulares de las tarjetas de crédito deberán registrarse en la cuenta "Intereses de créditos a titulares de tarjetas de crédito" de la partida 7110 del MR1, con cargo a la cuenta "Intereses por cobrar de créditos a titulares de tarjetas de crédito" de la partida 1805 del MB1.
+En concordancia con las normas generales sobre la materia, los intereses que devenguen los créditos a los titulares de las tarjetas de crédito deberán registrarse en la cuenta "Intereses de créditos a titulares de tarjetas de crédito" de la partida 7110 ó 7115 del MR1, con cargo a la cuenta "Intereses por cobrar de créditos a titulares de tarjetas de crédito" de la partida 1805 ó 1810 del MB1.
 
 5.5. Avances en efectivo y compras de cargo inmediato.
 
@@ -6452,7 +6432,7 @@ Si las comisiones son a favor de los operadores, quedarán incluidas en la conta
 
 5.7. Cartera vencida.
 
-Los importes de los créditos más sus correspondientes intereses no pagados a su vencimiento, así como los saldos que se mantuvieren en la cuenta "Gastos en moneda extranjera de titulares de tarjetas de crédito", deberán traspasarse, dentro de un plazo de 90 días de ocurrido éste, a la cuenta "Colocaciones vencidas", de la partida 1405 del MB1, de que trata el Capítulo 8- 26 de esta Recopilación Actualizada de Normas.
+Los importes de los créditos más sus correspondientes intereses no pagados a su vencimiento, deberán traspasarse, dentro de un plazo de 90 días de ocurrido éste, a la cuenta "Colocaciones vencidas", de la partida 1405 del MB1, de que trata el Capítulo 8- 26 de esta Recopilación Actualizada de Normas.
 
 El no pago del monto mínimo convenido, dentro del plazo de 90 días señalado anteriormente, determinará el traspaso a "Colocaciones vencidas" de la totalidad del saldo adeudado por el respectivo titular de la tarjeta de crédito.
 
@@ -6484,11 +6464,11 @@ Por su parte, las obligaciones a favor de los establecimientos afiliados o de lo
 
 ### 9. Reserva técnica
 
-Los importes adeudados a los establecimientos afiliados, junto con los pagos recibidos de los titulares, que deben registrarse en las cuentas "Pagos de titulares de tarjetas de crédito por aplicar" y "Cuenta especial - Capítulo XXXI Normas de Cambios", se incluirán entre las obligaciones y depósitos a la vista afectos a reserva técnica de que trata el artículo 80 bis de la Ley General de Bancos.
+Los importes adeudados a los establecimientos afiliados, así como los pagos recibidos de los titulares que deben registrarse en la cuenta "Pagos de titulares de tarjetas de crédito por aplicar", se incluyen entre las obligaciones y depósitos a la vista afectos a reserva técnica de que trata el artículo 80 bis de la Ley General de Bancos y el Capítulo 4-2 de esta Recopilación Actualizada de Normas.
 
 ### 10. Sanciones
 
-Sin perjuicio de las sanciones que esta Superintendencia puede aplicar a las instituciones financieras en uso de la facultad que le confiere el artículo 19 del Decreto Ley N° 1.097, las entidades que infrinjan las disposiciones que rigen las actividades relacionadas con la emisión y operación de tarjetas de crédito pueden ser sancionadas con la suspensión o revocación de la autorización que se les haya otorgado para emitir tarjetas de crédito, previo informe favorable por parte del Comité Ejecutivo del Banco Central de Chile. Esta revocación o suspensión podrá originarse, también, cuando el sistema de tarjetas de crédito o su administración, no se realice de acuerdo con sanas prácticas financieras.
+Sin perjuicio de las sanciones que esta Superintendencia puede aplicar a las instituciones financieras en uso de la facultad que le confiere el artículo 19 del Decreto Ley N° 1.097, las entidades que infrinjan las disposiciones que rigen las actividades relacionadas con la emisión y operación de tarjetas de crédito pueden ser sancionadas con la suspensión o revocación de la autorización que se les haya otorgado para emitir tarjetas de crédito, previo informe favorable por parte del Banco Central de Chile. Esta revocación o suspensión podrá originarse, también, cuando el sistema de tarjetas de crédito o su administración, no se realice de acuerdo con sanas prácticas financieras.
 
 Si a una institución financiera se le suspende la autorización para emitir tarjetas de crédito quedará impedida, mientras dure la suspensión, de entregar nuevas tarjetas, renovar las que haya emitido con anterioridad y afiliar nuevos establecimientos. En caso de que a una institución financiera se le revoque tal autorización, ésta deberá adoptar, además, las medidas pertinentes para
 
@@ -6496,17 +6476,7 @@ comunicar a cada uno de los titulares de las tarjetas de crédito emitidas y a c
 
 La institución financiera afectada por la suspensión o revocación, así como aquella que hubiere contratado la administración total o parcial de su sistema de tarjetas de crédito con algún operador al que se le suspenda o revoque la autorización para operar, deberá adecuar o poner término a las operaciones pendientes, según el caso, de acuerdo con las instrucciones que este Organismo le imparta.
 
-### 11. Plazos para dar cumplimiento a las presentes normas
-
-Las instituciones financieras deberán someterse a las normas establecidas en el presente Capítulo a partir de la fecha en que se publique la correspondiente autorización del Banco Central de Chile que las faculte para emitir alguna tarjeta de crédito, salvo en lo siguiente:
-
-a) Modificación a los contratos.
-
-No obstante lo indicado en los numerales 2.1, 2.2 y 2.3 de este Capítulo, en el sentido de que los contratos suscritos deben ajustarse a las disposiciones del Capítulo III.J.l del Compendio de Normas Financieras del Banco Central de Chile, las empresas emisoras u operadoras de tarjetas de crédito tendrán plazo hasta el 30 de junio de 1990 para adecuar los contratos a esas disposiciones.
-
-b) Instrucciones contables.
-
-Para ceñirse a las disposiciones de carácter contable establecidas en el N° 5 del presente Capítulo, las instituciones financieras dispondrán de un plazo que vence el 31 de agosto de 1989.
+### 11. ELIMINADO
 
 CAPITULO 8-4 (Bancos y Financieras)
 
