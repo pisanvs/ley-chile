@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº359, de 30 de marzo de 2001, y en base a la facultad otorgada por el artículo 105 del DFL. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 22, 24, 25, 27, 28 y 29, para la ejecución de la obra "Camino Catripulli - Curarrehue sector Km. 108,20 a Km. 114,80", que figuran a nombre de Silva O. Torrealba Leimbach y Silvia Oriana Torrealba Leimbach, roles de avalúo 156-1 y 156-18, comuna de Curarrehue, IX Región, superficies 13, 77, 32, 84, 310 y 172 m2. La comisión de peritos fijó con fecha 8 de septiembre de 1999, el valor provisional de la indemnización en la cantidad de $28.600, lote 22, $169.400, lote 24; $70.400, lote 25; $184.800, lote 27;
+
+$682.000, lote 28 y $430.000, lote 29. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
