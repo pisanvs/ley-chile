@@ -1,0 +1,3 @@
+Por decreto MOP Nº 578 de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº 53-C, superficie 4.825 m², Rol de Avalúo Nº 611-4, comuna de Nueva Imperial, para la obra ''Camino Ruta S-16, Sector Galvarino - Chol Chol, Tramo Km. 0,0000 al Km. 24,30269, correspondiente al subtramo II Km. 8,339 al Km. 15,574'', IX Región y se acordó el valor de indemnización con su propietaria Adela Paillacán Landeros y Otros, ascendente a la cantidad de $6.050.138.-
+
+Fiscal del Ministerio de Obras Públicas.
