@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 722 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 5, superficie 228,77 m², rol Nº 54-00003, comuna de Hijuelas, V Región para la obra "Calle de Servicio Poniente, Sector enlace Romeral - Punta Torrejón, Sector Punta Torrejón, Km. 0,0000 al 0,60895, y se acordó el valor de indemnización con su propietario Alberto Rafael Varas Meins, ascendente a la cantidad de $1.832.983.
+
+Fiscal del Ministerio de Obras Públicas.
