@@ -1,0 +1,3 @@
+Por decreto MOP Nº 422 de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 28, superficie 378 m², Rol de avalúo en trámite, comuna de Codegua, para la obra "Camino Ruta Rol H-10, Sector Graneros San Francisco de Mostazal Tramo Km. 0,000 al Km. 9,317", VI Región y se acordó el valor de indemnización con su propietario Jorge Figueroa Márquez, ascendente a la cantidad de $13.461.083.
+
+Fiscal del Ministerio de Obras Públicas.
