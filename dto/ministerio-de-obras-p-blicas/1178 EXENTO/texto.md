@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.178 de fecha 31 de julio de 2002, se expropió el lote de terreno Nº 67, superficie 499 m2, rol de avalúo Nº 2215-14, comuna de Coihueco, para la obra ''Camino Ruta N-45, Sector Cruce N-49 (Chillán) - La Capilla - Tres Esquinas, Km. 6,26000 a Km. 28,54000'', VIII Región y se acordó el valor de la indemnización con su propietario Francisco José Contreras Jeldres, ascendente a la cantidad de $877.294.-
+
+Fiscal del Ministerio de Obras Públicas.
