@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.271, de 27 de octubre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para el Fisco los lotes de terreno Nºs.72A, 82B, 84 y 86 para la obra: Mejoramiento Ruta 126, Los Conquistadores, Sector 2: Carrizal- Puente Belco, Tramo Km. 23,38000 a Km.
+
+41,26600, que figuran a nombre de Astudillo Becerra Etelvina, Bueno Salas José y Buenos Salas Alamiro de las M, Roles de Avalúo 264-9, 267-36 y 267-28, comuna de San Javier, VII Región, superficies 25 m²., 4.850 m²., 12.688 m² y 38 m². La Comisión de Peritos, fijó con fecha 8 de junio de 2001, complementada por acta de fecha 7 de agosto de 2003, en lo que respecta al lote Nº86, el monto de la indemnización provisional en la cantidad de $10.000.-, para el lote Nº72A; $1.376.500.-, para el lote Nº82B; $2.838.600.-, para el lote Nº84 y $7.600.-, para el lote Nº86. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
