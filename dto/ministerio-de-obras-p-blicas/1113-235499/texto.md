@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.113, de 24 de noviembre de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 84-A para la obra: Camino Santa Cruz-Yáquil, Rol I-730, km. 0,00000 a km. 7,46939, que figura a nombre de Pérez Rojas Eduardo de Jesús, rol de avalúo 596-4, Comuna de Santa Cruz, VI Región, superficie 1.570 M2. La Comisión de Peritos, fijó con fecha 14 de marzo de 2003, en la cantidad de $4.856.250.- lote N°84-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el articulo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
