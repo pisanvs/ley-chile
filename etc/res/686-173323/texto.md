@@ -1,0 +1,7 @@
+AUTORIZA A DON VITELIO NEIRA CERDA PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 686 de 09 de Julio de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Vitelio Neira Cerda, R.U.T. No. 3.729.020-3 domiciliado en calle Eleuterio Ramírez No. 286 Castro, X Región, para iniciar actividades pesqueras de cultivo con algas del género Gracilaria en un sector de Coñimo, Comuna de Ancud, Provincia de Chiloé, X Región, en un área de 18.200 mt2 de fondo de mar siendo las coordenadas geográficas que delimitan el lugar las siguientes: de acuerdo con el plano que acompaña a la solicitud signado por el Servicio Nacional de Pesca con el No. Ordinal No. 561:
+
+Vértice A Lat. 41° 54' 17,00" S; Long. 73° 31' 03,00" W.; Vértice B Lat. 41° 54' 16,00" S; Long. 73° 31' 04,00" W.; Vértice C Lat. 41° 54' 14,00" S; Long. 73° 30' 56,00" W; Vértice D Lat. 41° 54' 16,00" S; Long. 73° 30' 54,00" W; Vértice E 41° 54' 18,00" S; Long. 73° 30' 58,00" W Vértice F 41° 54' 18,00" S; Long. 73° 31' 00,00" W.La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Roberto Cabezas Bello, Subsecretario de Pesca.
