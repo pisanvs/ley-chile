@@ -1,0 +1,3 @@
+Por Resolución Nº 579 de 22 de abril de 1997 de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; declárase la caducidad de la Resolución Nº 1.266, de 1990, de esta Subsecretaría, que autorizó a don EDUARDO JOAQUIN ZIEGELE RIEDEL, para iniciar actividades pesqueras extractivas con la nave "Carlos", de acuerdo a lo previsto en el Artículo 143 letra b de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 22 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
