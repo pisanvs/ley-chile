@@ -1,0 +1,3 @@
+Por resolución No. 176 de 26 de Febrero de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA SAN MIGUEL S.A., R.U.T. No. 81.740.200-3, domiciliada en Talcahuano, para continuar desarrollando las actividades pesqueras autorizadas a la Empresa Pesquera San Miguel Ltda., de la que es su continuadora legal, en las resoluciones No. 91, de 1982, No. 324, de 1983, No. 604, de 1986, No. 538, de 1987, No. 937, de 1987, No. 238, de 1988, No. 680, de 1989, No. 1363, de 1989, No. 1458, de 1989, No. 1098, de 1990, No. 981 de 1991; de todas de esta Subsecretaría.
+
+Valparaíso, 26 de Febrero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
