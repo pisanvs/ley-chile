@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 657 de fecha 30 de abril de 2002, se expropiaron los lotes de terreno Nºs 23 y 24, superficie 7 y 7 m² respectivamente, Rol Nº 200-126, comuna de Rengo, para la obra ''Camino de Acceso Norte a Puente Lo Cartagena, Km. 3.010 al 4.776, comuna de Rengo; Camino Acceso Sur a Puente Lo Cartagena, Km. 0.000 al 1.483, comuna de Rengo; Camino de Acceso a Puente El Tambo, Km. 1.800 al 2.057, comuna de San Vicente'', y se acordó el valor de indemnización con su propietario Cristina Teresa Ortiz Escobar y Otros, ascendente a la cantidad de $561.462.-
+
+Fiscal del Ministerio de Obras Públicas.
