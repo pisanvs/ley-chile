@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.341, de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 1, superficie 414 m2, Rol en trámite, comuna de Alto del Carmen, III Región, para la obra "Mejoramiento Ruta C-495, Camino Alto del Carmen - Conay, Provincia del Huasco, Región de Atacama, Etapa III" y se acordó el valor de indemnización con su propietario don Valentín del Rosario Fritis Rojas, ascendente a la cantidad de $1.691.921.-
+
+Fiscal del Ministerio de Obras Públicas.
