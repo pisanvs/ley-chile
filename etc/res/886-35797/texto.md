@@ -1,0 +1,3 @@
+Por Resolución N° 886, de 21 de julio de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por GUILLERMO IGNACIO VIDAL HURTADO, R.U.T. N° 3.275.549-6, para un sector ubicado en Bahía Tongoy, Comuna de Coquimbo, Provincia de Elqui, IV Región, conforme a lo dispuesto en el artículo 67, inciso 5°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 21 de julio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
