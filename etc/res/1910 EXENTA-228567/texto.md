@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.910, de 14 de julio de 2004, de esta Subsecretaría, autorízase a SERVICIOS MARITIMOS OQUELDAN LIMITADA para iniciar actividades pesqueras de transformación en orden instalar y operar una planta en Camino Rural Quellón-Chaiguao, Oqueldan s/n, comuna de Quellón, provincia de Chiloé, X Región, donde podrá elaborar en la línea de proceso de Fresco-enfriado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 14 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
