@@ -1,0 +1,5 @@
+DELEGA EN LOS DIRECTORES REGIONALES DE LA I, II, III, IV, V, VI, VII, VIII, IX, X, XI Y XII DIRECCIONES REGIONALES LA FACULTAD QUE INDICA
+
+Por la resolución N°5.657 exenta, de 15 de Octubre de 1993, el Director del Servicio de Impuestos Internos delegó en los Directores Regionales de la I, II, III, IV, V, VI, VII, VIII, IX, X, XI y XII Direcciones Regionales la facultad de representar al Servicio de Impuestos Internos en los recursos de apelación de hecho que interpongan en los procesos sujetos al procedimiento especial para la aplicación de ciertas multas establecido en el artículo 165 del Código Tributario, seguidos en sus respectivas Direcciones Regionales y revocó la resolución N° Ex.2.027, de 23 de Noviembre de 1983, publicada en el Diario Oficial del 24 de Noviembre de 1983.-
+
+Javier Etcheberry Celhay, Director.
