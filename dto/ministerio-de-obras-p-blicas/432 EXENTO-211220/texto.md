@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 432 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 37, superficie 31 m2, rol de avalúo Nº 520-41, comuna de Santa Cruz, para la obra "Camino Santa Cruz - Yaquil, Rol I-730, Km. 0,00000 a Km. 7,46939", VI Región y se acordó el valor de la indemnización con su propietaria Albina del Carmen Muñoz Reyes, ascendente a la cantidad de $966.380.
+
+Fiscal del Ministerio de Obras Públicas.
