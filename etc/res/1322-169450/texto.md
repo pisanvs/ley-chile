@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA FRIO SUR LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 1.322 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Frio Sur Limitada domiciliada en Santiago, para ampliar las actividades pesqueras que tiene autorizadas por resoluciones N° 426 y N° 682, de 1985 y N° 149 y N° 244, de 1986, todas de esta Subsecretaría, en orden a incluir en la planta industrial que tiene autorizada en la XI Región, calle José María Caro s/n, Puerto Chacabuco, la línea de elaboración de conserva donde procesará los mismos recursos autorizados por resolución N° 682, de 1985, N° 149 y N° 244, de 1986. Asimismo, se le autoriza para operar en la planta señalada, en las líneas de congelado y conserva además de los recursos hidrobiológicos ya autorizados los siguientes: Besugo, salmón del atlántico, trucha, sardina austral, cabrilla común, raya, caracol tegula, macha, navajuela, locate, calamar y centollón. La planta será abastecida por flota pesquera y por artesanales de las Regiones X y XI.
+
+Valparaíso, 20 de Noviembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
