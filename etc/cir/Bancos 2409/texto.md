@@ -6124,6 +6124,8 @@ Código Plaza Jurisdicción
 
 0357 Pirque "
 
+0358 Padre Hurtado "
+
 0360 Peñaflor "
 
 0368 Talagante Santiago
@@ -6315,6 +6317,8 @@ Código Plaza Jurisdicción
 0960 Río Bueno "
 
 0968 Osorno "
+
+0970 Entre Lagos "
 
 0984 Río Negro "
 
