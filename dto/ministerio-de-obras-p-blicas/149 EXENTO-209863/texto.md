@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 149 de fecha 31 de marzo del 2003, se expropiaron los lotes de terreno Nºs. 8 y 8-A, superficie 519,00 y 910,00 m² respectivamente, Rol Nº 74-79, comuna de Teno, VII Región para la obra "Camino Ruta J-25, Sector: Cruce Longitudinal - La Montaña, Km. 0,22000 a Km. 25,00000" y se acordó el valor de indemnización con su propietario Hugo Eduardo Vidal Alvarez, ascendente a la cantidad de $1.042.228.
+
+Fiscal del Ministerio de Obras Públicas.
