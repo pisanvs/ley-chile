@@ -1,0 +1,3 @@
+Por Resolución No. 349, de 27 de Marzo de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción se deroga la Resolución No. 1.780, de 1989, de esta Subsecretaría, que autorizó a don VICTOR HUGO MILANCA GUZMAN, RUT No. 5.440.529-4, domiciliado en calle 21 de Mayo No. 43, Maullín, para desarrollar actividades pesqueras de cultivo, por renuncia de su titular.
+
+Valparaíso, 27 de Marzo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
