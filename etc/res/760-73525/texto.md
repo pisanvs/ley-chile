@@ -1,0 +1,3 @@
+Por Resolución Nº 760, de 3 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por doña ISABEL RUTH VASQUEZ NAVARRO, en orden a desarrollar actividades pesqueras extractivas con la nave "Nacho Fuentes" en el litoral de la V a la VIII Regiones, en la extracción del recurso Langostino amarillo, en virtud de haber sido declarada dicha especie en régimen de pesquerías en recuperación, mediante D.S. Nº 787, de 1996, citado en Visto, verificándose la causal denegatoria prevista en el artículo 19 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 3 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
