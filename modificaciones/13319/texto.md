@@ -1,0 +1,1 @@
+Modifica el artículo 3° de la ley 12.140, de 17 de octubre de 1956, que autorizó a la Municipalidad de Toltén para contratar empréstitos para atender a diversas obras de adelanto local, y el artículo 1° de la ley 12.822, de 24 de diciembre de 1957, modificatoria de la ley antes citada.
