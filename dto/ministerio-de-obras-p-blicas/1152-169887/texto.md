@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.152, de 30 de marzo de 2000, se modificó el decreto MOP Nº374, de 31 de marzo de 1998, que expropió el lote de terreno Nº16-A; para la obra Ruta I-85-J, Sector Cruce Longitudinal (Chimbarongo) Codegua Tramo Km. 0.000 al 12.543,68, que figura a nombre de Leopoldo Manuel Rojas Rojas, rol de avalúo en trámite, comuna de Chimbarongo, VI Región, superficie 380 M2., ordenándose la consignación judicial del valor provisional de la indemnización ascendente a la cantidad de $1.260.000; por haber quedado sin efecto el Convenio Directo de Precio suscrito con el expropiado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
