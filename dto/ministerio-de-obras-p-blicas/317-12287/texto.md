@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°317, de 30 de Septiembre de 1993, se expropiaron los lotes de terreno N°s. 2, 3, 4, 5 y 6, superficies: 305,5, 160,0, 278,0, 335,0 y 798,0 m2., Rol de avalúo 202-36, Comuna de Cabildo, para la obra Camino Cabildo - La Vega, y se acordó precio de indemnización con sus propietarios Luis Emilio Silva Olivares y otros, ascendente a la cantidad de $ 351.944.-
+
+Fiscal del Ministerio de Obras Públicas.
