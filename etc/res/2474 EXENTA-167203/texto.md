@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero, mediante resolución exenta No. 2.474 de 27 de Noviembre de 1987, conforme Art.
+
+5° Transitorio del Código de Aguas, determinó Derechos de Aprovechamiento de Aguas que corresponden a las parcelas N°s 1 a la 40, 42 a la 148, 150, 152 y 153 y a los sitios N°s 1A al 33A; 1B al 43B y 1C al 30C del Proyecto de Parcelación "Santa Matilde", de las comunas de Palmilla y Pichidegua, VI Región, formados por los predios "Los Maitenes, hoy parte del Fundo Santa Matilde y Los Cerrillos, hoy resto del Fundo Santa Matilde", "El Caleuche" e Hijuela Número uno o las casas del Fundo Santa Irene de Almahue". Los derechos de aguas se extraen de los canales Las Trancas, Huique y Almahue; del Estero La Condenada y del Desagüe Los Patos que se captan en el Estero La Araña. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
