@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.726 de fecha 30 de junio de 2000, se expropió el lote de terreno Nº1, superficie 8.192 m2., Rol de avalúo 2190-208, comuna de Puerto Montt, para la obra ''Camino Ruta V-615 y V-605, Sector Alerce - La Poza, Km. 0.000,00 a Km. 20,78194'' y se acordó el valor de indemnización con su propietario Héctor Alejandro Vásquez Schmeisser, ascendente a la cantidad de $1.073.267.
+
+- Fiscal del Ministerio de Obras Públicas.
