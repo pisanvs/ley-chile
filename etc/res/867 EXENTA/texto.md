@@ -1,0 +1,3 @@
+CONCEDE CALIDAD DE AGENTE RETENEDOR DE IVA A SALMONES FRIOSUR S.A.
+
+La XI Dirección Regional Coyhaique del S.I.I., por resolución Nº Ex. 867 del 14 de noviembre 1997, concede la calidad de Agente Retenedor de IVA a Salmones Friosur S.A., Rut. Nº 96.812.740-3, en la adquis+ecies Hidrobiológicas de cualquier tipo que realice, desde el 01/07/1997 al 30/06/1998, con vigencia a contar del día primero del mes siguiente al de su publicación en el Diario Oficial, conforme a lo establecido en la resolución Nº Ex. 3173 de la Dirección Nacional, publicada en el Diario Oficial del día 04/07/1997.
