@@ -1,0 +1,3 @@
+Por decreto MOP Nº222, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº17, superficie 75,30 m², rol de avalúo 623-3, comuna de Ovalle, para la obra "Camino Ovalle-Huamalata-Algarrobo, Sector Ovalle-Villaseca, Km. 0,00000 a Km. 5.98083" y se acordó el valor de indemnización con su propietaria Luz América Bravo Cortés, ascendente a la cantidad de $371.179.-
+
+Fiscal del Ministerio de Obras Públicas.
