@@ -1,0 +1,3 @@
+Por decreto MOP Nº320 de fecha 28 de febrero del 2001, se expropiaron los lotes de terreno Nºs. 4 y 6, superficies 678,81 m² y 7.915,62 m², rol de avalúo 248-139, comuna de Salamanca, para la obra "Canal Alimentador, Km. 0,000,00 a Km. 15,084,59 Proyecto "Estudio de Factibilidad y Diseño del Embalse Corrales y sus Obras Complementarias" y se acordó el valor de indemnización con su propietario Heriberto Jacobo González Tapia, ascendente a la cantidad de $7.902.010.
+
+Fiscal del Ministerio de Obras Públicas.
