@@ -1,0 +1,3 @@
+Por decreto MOP No. 544, de fecha 29 de abril de 1998, se autorizó el Convenio Directo de Precio Ad-Referéndum de los lotes 25, 33, 38, 42, 47, 51, 55, 59, 63 y 67, por el cual se acordó precio de indemnización con doña Hilda Sabat Yarur, ascendente a $ 3.494.107, obra Camino Ruta 57-Ch, Santiago - Los Andes, Sector Túnel Chacabuco - Bifurcación Auco, Km. 62.970 a Km. 66.680, cuya expropiación fue autorizada por decreto MOP No. 758, de 30 de septiembre de 1996.-
+
+Fiscal Ministerio de Obras Públicas.
