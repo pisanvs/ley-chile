@@ -1,0 +1,3 @@
+Por Resolución N° 1.205, de 22 de Diciembre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a EMPRESA PESQUERA EPERVA S.A., R.U.T. N° 91.643.000-0, para continuar desarrollando, como sucesora legal, las actividades pesqueras autorizadas por esta Subsecretaría a Pesquera Indo S.A., R.U.T. N° 96.484.000-5, mismo domicilio anterior, en virtud de la fusión por incorporación y absorción de que dan cuenta las escrituras públicas y disposiciones legales señaladas en Visto.
+
+Valparaíso, 22 de Diciembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
