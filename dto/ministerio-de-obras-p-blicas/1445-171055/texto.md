@@ -1,0 +1,5 @@
+Por decreto MOP N° 1.445, de 17 de abril de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 27 para la obra: Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Km. 24.400,00 al Km.
+
+30.500,00, Región Metropolitana, que figura a nombre de Rojas Rojas Domingo Sucesión, rol de avalúo 104-106, comuna de Curacaví, superficie 123 m2. La Comisión de Peritos integrada por los señores María Cristina Camus Palacios, Gustavo Domínguez Errázuriz y Carmen Pilar Ríos Marcuello, fijó con fecha 26 de noviembre de 1999, el valor provisional de la indemnización en la cantidad de $233.550.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
