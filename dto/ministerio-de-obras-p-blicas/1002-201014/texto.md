@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.002 de 17 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nos 12-A y 17-A para la obra: Mejoramiento Ruta I-20, Sector Los Maitenes - La Estrella - Las Damas, km. 20,500 a km.
+
+27,715317, que figuran a nombre de Neas Orellana Felisinda, Parroquia La Estrella, roles de avalúo en trámite, 44-11, comuna de La Estrella, VI Región, superficies 1.092 y 10.370 m² respectivamente. La Comisión de Peritos fijó con fecha 20 de junio de 2001, en las cantidades de $24.797.000.-, para el lote 12-A y $5.392.400.- para el lote 17-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Publicas
