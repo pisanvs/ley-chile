@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 227 de 25 de febrero de 1986, modificó la Resolución Exenta N° 1132 de 30 de agosto de 1985 y conforme Art. 5° Transitorio Código de Aguas, determinó nuevos Derechos Aprovechamiento Aguas proporcionales a parcelas N°s. 1 a la 4, 12 a la 14, 21 a la 27, 29, 33 a 35, 36 (parte), 38 a 48, 49 (parte) y 50 a la 59 y sitios N°s. 6 al 11 que corresponden a parte del Proyecto de Parcelación "El Carmen" formado por predios "El Carmen" e "Hijuela Primera de la Hacienda El Tr nsito". Los Derechos de Agua de este sector se extraen del canal La Sexta o El Tr nsito derivado del río Longaví y del Estero La Potrada o El Membrillo.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
