@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.191, de 25 de julio de 2002, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 32-B, para la obra Camino Ruta F-10-G, sector Cuesta La Dormida, Etapa 2, Km. 10,98400 a Km. 34,50000, que figura a nombre de Hidalgo Ahumada Vitalicio Suce, rol de avalúo 225-7, superficie 1528,66 m2, comuna de Olmué. La comisión de peritos, con fecha 15 de agosto de 2001, fijó la indemnización provisional en la cantidad de $15.606.344, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
