@@ -1,0 +1,3 @@
+Por resolución N° 1199 de 4 de Diciembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 420, de 1989, de esta Subsecretaría, que autorizó a INVERTEC PESQUERA MAR DE CHILOE LIMITADA, R.U.T. N° 79.797.990-2, para instalar y operar un establecimiento de cultivo en un sector ubicado en Laguna de Cajunco, Comuna de Dalcahue, Provincia de Chiloé, X Región, en virtud de lo dispuesto en el artículo 7° del Decreto N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 4 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
