@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.456, de 31 de agosto de 1999, se expropió el lote de terreno Nº11-2J, superficie 75,0 m2., rol de avalúo 258-1, comuna de Ercilla, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli-Temuco'', Novena Región y se acordó el valor de indemnización con su propietaria Indolfa del Carmen Valdés Jiménez, ascendente a la cantidad de $183.460.-
+
+Fiscal del Ministerio de Obras Públicas.
