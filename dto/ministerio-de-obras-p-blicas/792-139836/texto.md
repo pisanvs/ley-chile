@@ -1,0 +1,3 @@
+Por decreto MOP Nº792, de 31 de marzo de 1999, modificado por el decreto MOP Nº1.289, de 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs.6, 8 y 57, superficies 55,16, 678 y 859,04 m2., roles de avalúo 122-17 y 118-50, comuna de Curaco de Vélez, para la obra Camino Ruta W-59, Sector Dalcahue-Achao y se acordó precio de indemnización con sus propietarios José Domingo Cárdenas Ojeda y Luis Enerico Paredes González, ascendentes a las cantidades de $218.915 y $282.270.-
+
+Fiscal del Ministerio de Obras Públicas.
