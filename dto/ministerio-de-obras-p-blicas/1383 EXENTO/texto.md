@@ -1,0 +1,7 @@
+Por decreto exento MOP Nº 1.383, de 28 de septiembre de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 78, 79, 80, 87, 88, 91, 93, 95-A y 106, para la obra Camino Ruta J-25, sector Cruce Longitudinal-La Montaña Km. 0,22000 al Km.
+
+25,00000, que figuran a nombre de Jorge Tagle Castillo, Club de Huasos, Pedro Segundo Galaz Beltrand, Jorge Urzúa Rodríguez, Sara Rivera Castro, Ernesto Segundo Trejo Pérez, Manuel Jesús Astorga Acevedo, José Antonio Pozo Córdova y María Valenzuela Martínez, roles de avalúos 68-19, en trámite, 70-6, 70-4, 68-17, 70-75, 71-2, 71-4 y 71-13, comuna de Teno, superficies 205; 300; 461,20; 30; 3.470; 71; 170; 174,20 y 75 m2., respectivamente. La Comisión de Peritos, fijó con fecha 2 de junio de 1998, para los lotes Nºs. 78, 79, 87, 88, 91, 93, 95-A y 106 y con fecha 1 de marzo de 2000, para el lote Nº 80; en las cantidades de $159.750, lote Nº 78; $300.000, lote Nº 79; $794.420, lote Nº 80;
+
+$50.000, lote Nº 87; $1.244.500, lote Nº 88; $91.000, lote Nº 91; $155.500, lote Nº 93; $136.970, lote Nº 95-A y $165.000, lote Nº 106, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
