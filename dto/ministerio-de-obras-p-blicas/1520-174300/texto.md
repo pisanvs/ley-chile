@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.520, de fecha 31 de mayo de 1999, se ordenó la expropiación y aprobó el plano y cuadro de expropiación de los lotes de terreno Nºs. 16 y 19, y por decreto MOP Nº 1.652, de fecha 28 de abril de 2000, se autorizó el valor provisional de la consignación de la expropiación por la vía judicial, por la cantidad de $23.909.150, lote 16 y $59.037.300, lote 19, para la ejecución de la obra Mejoramiento Autopista Concepción - Talcahuano, Sector Rotonda Bonilla y Campus San Andrés, Km. 0.086.65 al Km. 0.324.15, el pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
