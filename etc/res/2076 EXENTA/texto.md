@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.076, de fecha 22 de agosto de 2003, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 1.860, de 2003, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto FIP Nº 2003-09 denominado "Evaluación del stock desovante de Merluza del sur y Merluza de cola en la zona sur austral, año 2003", en el sentido de incrementar la cuota de investigación de Merluza de cola en 500 toneladas, las que se imputarán a la fracción de la cuota global anual de captura de dicha especie reservada para fines de investigación.
+
+Valparaíso, 22 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
