@@ -1,0 +1,5 @@
+Por resolución Nº 248, de 18 de febrero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a BCA COMERCIAL LIMITADA, para ampliar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en calle Gregorio Mira Nº 180, San Antonio, V Región, en la que podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: fresco, fresco-enfriado, congelado, cocido-congelado: Jaiba mora, Jaiba panchote y Jaiba remadora.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 18 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
