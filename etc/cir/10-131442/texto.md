@@ -1,0 +1,13 @@
+TRATAMIENTO TRIBUTARIO DE LAS INDEMNIZACIONES LEGALES POR AÑOS DE SERVICIO PAGADAS EN EXCESO DE LAS 90 UNIDADES DE FOMENTO QUE ESTABLECE EL CODIGO DEL TRABAJO
+
+Núm. 10.- Santiago, 2 de febrero de 1999.
+
+1.- Este Servicio a raíz de consultas formuladas por los contribuyentes en relación con el tratamiento tributario de los excesos de las indemnizaciones legales por años de servicio pagadas por sobre las 90 Unidades de Fomento que establece el artículo 172 del Código del Trabajo, ha requerido un pronunciamiento de la Dirección del Trabajo, en cuanto a si dichos excesos siguen teniendo la calidad de una indemnización legal o simplemente asumen el carácter de una indemnización voluntaria pagada en forma unilateral por el respectivo empleador.
+
+2.- En relación a dicha consulta, el referido organismo laboral, entregó a este Servicio diversos antecedentes legales, especialmente basados en el artículo 41 del Código del Trabajo, de los que se desprende que tendrían el carácter de indemnización voluntaria los excesos de las indemnizaciones que se paguen por sobre el límite de las 90 Unidades de Fomento que establece el inciso final del artículo 172 del citado Código.
+
+3.- En consecuencia, de acuerdo con esta información y los análisis que sobre esta materia ha realizado este Servicio, se concluye que los mencionados excesos se deben calificar de indemnizaciones voluntarias y como tal se rigen por lo dispuesto en el artículo 17 Nº13 de la Ley de la Renta, en concordancia con lo dispuesto por el inciso segundo del artículo 178 del Código del Trabajo, en cuanto a que su monto no constituirá renta en la medida que no excedan del límite máximo que establece la norma de la Ley de la Renta antes mencionada, considerando para la cuantificación de dicho límite las demás indemnizaciones que pudiera percibir el trabajador según lo dispone el inciso segundo de la norma laboral precitada, todo ello de acuerdo a las instrucciones impartidas sobre esta materia mediante Circular Nº 29, de 1991.
+
+Si de la aplicación de las disposiciones legales antes indicadas aún quedare un exceso, éste constituirá renta para los efectos tributarios, afectándose con el impuesto único de Segunda Categoría establecido en el Nº1 del artículo 43 de la Ley de la Renta, tributo que se aplicará atendida su calidad de una renta accesoria o complementaria a los sueldos, en los términos dispuesto en los incisos segundo y siguientes del artículo 46 de la ley antes mencionada.
+
+Saluda a Ud., Javier Etcheberry Celhay, Director.
