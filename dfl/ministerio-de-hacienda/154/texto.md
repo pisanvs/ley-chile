@@ -1,0 +1,1 @@
+Declara en reorganización la Dirección General de Crédito Prendario y de Martillo y suprime en su planta de empleados los cargos que indica, desempeñados por las personas que señala; fija las plantas y remuneraciones de sus funcionarios; nómina de su personal que no será encasillado.
