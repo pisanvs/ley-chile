@@ -1,0 +1,3 @@
+Por Resolución Nº 733, de 26 de mayo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifícase el extracto de la Resolución Nº 2.017, de 1996, de esta Subsecretaría, publicado en el Diario Oficial el día 11 de diciembre de 1996, en el sentido de señalar que el titular de la solicitud de concesión de acuicultura 93103052, que se deniega, es INVERTEC PESQUERA MAR DE CHILOE LTDA.
+
+Valparaíso, 26 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
