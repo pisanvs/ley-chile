@@ -1,0 +1,5 @@
+AUTORIZA A DON ALBERTO MIGUEL MARTINEZ LAGOS PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 202, de 29 de Febrero de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Alberto Miguel Martínez Lagos, R.U.T. No. 6.250.046-8, domiciliado en calle Ferrocarril No. 1022, Iquique, para iniciar actividades pesqueras mediante la operación de la embarcación Doña María Santo, en el litoral de las Regiones I a X, donde podrá extraer los siguientes recursos hidrobiológicos: Albacora, bacalao o mero, bonito, lisa, cojinoba del Norte, dorado, congrio negro, tiburón, palometa, congrio colorado, congrio dorado, corvina y merluza del Sur. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de Febrero de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
