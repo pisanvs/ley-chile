@@ -1,0 +1,5 @@
+Por decreto MOP. Nºl7O de 23 de febrero de l998,y en base a la facultad otorgada por el artículo 105 del decreto MOP Nº294 de 1984 (D.F.L. Nº850 de 1997), que fijó el texto actualizado de la Ley Nº l5.840, se expropió el lote de terreno Nº22-A, para la obra Camino Santiago - Colina - Los Andes Sector "B", By Pass Colina, km. 0.739,90 al km.
+
+5.926,30, que figura a nombre de Agrícola Río Colina Ltda., rol de avalúo164-616, Comuna de Colina, superficie 2.246,7 m2. La Comisión de Peritos integrada por los señores Raimundo Correa Fabres, Fernando Merino de la Cerda y Sergio Eduardo Yáñez Bugueño, fijó con fecha 29 de diciembre de 1997, el valor provisional de la indemnización en la cantidad de $15.735.887 - La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
