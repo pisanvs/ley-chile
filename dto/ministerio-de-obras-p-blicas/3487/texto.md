@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.487, de 31 de julio de 2000, se expropió el lote de terreno Nº 20, superficie 46 m², rol de avalúo 200-19, comuna de San Javier, para la obra Concesión Internacional Ruta 5. Tramo: Talca - Chillán, Séptima Región y se acordó el valor de indemnización con su propietaria Glafira Verónica Pereira Canales, ascendente a la cantidad de $4.155.153.
+
+Fiscal del Ministerio de Obras Públicas.
