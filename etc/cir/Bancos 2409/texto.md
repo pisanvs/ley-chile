@@ -28530,13 +28530,11 @@ Los anticipos que reciban los exportadores de sus compradores del exterior, se l
 
 La institución bancaria que liquide estos anticipos deberá emitir la correspondiente Planilla de Ingreso Comercio Visible, de acuerdo con las instrucciones que al respecto ha impartido el Banco Central de Chile.
 
-1.2. Venta al Banco Central de Chile con pacto de recompra.
+1.2. Pago de los anticipos que se efectúen dentro de 180 días desde su liquidación.
 
-Los exportadores que reciban anticipos de compradores del exterior en dólares norteamericanos y que opten por venderlos al Banco Central de Chile con pacto de recompra, deberán hacerlo por intermedio de una institución bancaria.
+El pago de los anticipos de compradores del exterior por los cuales no se hayan efectuado embarques de mercaderías, que se haga dentro de los 180 días siguientes a su respectiva liquidación, sólo podrá realizarse con divisas cuya adquisición no se efectúe en el mercado cambiario formal.
 
-De conformidad con las disposiciones del Banco Central de Chile, las divisas vendidas que se recompren deberán liquidarse como retornos de operaciones de exportación. No obstante, si a la fecha de vencimiento del contrato de venta con pacto de recompra no se hubiere realizado el embarque de la correspondiente mercadería y, en consecuencia, no pudiere declararse el retomo, el exportador podrá anular dicho anticipo.
-
-Para cursar las operaciones de venta con pacto de recompra de que se trata, los bancos deben ceñirse a las disposiciones del Capítulo IV.E.1 del Compendio de Normas Financieras del Banco Central de Chile y a las instrucciones del Capítulo 13-6 de la Recopilación Actualizada de Normas de esta Superintendencia.
+El referido pago deberá comunicarse por escrito al Banco Central de Chile, dentro de los cinco días hábiles bancarios siguientes a la fecha en que éste se curse.
 
 ### 2. Créditos externos
 
@@ -28546,23 +28544,15 @@ Los exportadores que contraten créditos del exterior para financiar sus exporta
 
 La liquidación de las divisas provenientes de estos créditos podrá efectuarse en cualquier empresa bancaria, la que deberá informar de ella al Instituto Emisor mediante la respectiva Planilla de Ingreso.
 
-2.2. Venta al Banco Central de Chile con pacto de recompra.
-
-Los créditos externos otorgados en dólares norteamericanos podrán ser vendidos con pacto de recompra al Banco Central de Chile, por intermedio de una institución bancaria, en los términos establecidos en el Capítulo IV.E.1 del Compendio de Normas Financieras.
-
-El pago de estos créditos se hará en la forma señalada en el numeral 2.4 siguiente de este título.
-
-2.3. Intereses de créditos externos.
+2.2. Intereses de créditos externos.
 
 Los bancos podrán vender a los exportadores las divisas necesarias para el pago de los intereses que devenguen los créditos externos y los anticipos que reciban de compradores del exterior, siempre que el Banco Central de Chile haya otorgado previamente su autorización para tal efecto.
 
-2.4. Devolución de los créditos al exterior.
+2.3. Devolución de los créditos al exterior.
 
 Los exportadores que hayan liquidado créditos externos según lo indicado en el numeral 2.1 precedente, podrán devolver el capital e intereses de estos créditos a sus acreedores extranjeros, previa autorización del Banco Central de Chile. El pago de estos créditos podrá hacerse antes del vencimiento pactado, siempre que se realice con la liquidación de divisas correspondientes a retornos de exportación.
 
-En los casos en que el importe de estos financiamientos externos hubiere sido vendido al Banco Central de Chile con pacto de recompra, el pago de los mencionados créditos deberá efectuarse con las divisas provenientes de las respectivas recompras, en los plazos establecidos para cada crédito.
-
-Por otra parte, cuando los exportadores no realicen operaciones de exportación, podrán anular estos créditos, para cuyo efecto deberán contar previamente con la autorización del Banco Central de Chile.
+Con todo, el pago de los créditos externos, por los cuales no se hayan efectuado embarques de mercaderías, que se haga dentro de los 180 días contados desde la fecha de su liquidación, sólo podrá realizarse con divisas cuya adquisición no se efectúe en el mercado cambiario formal. En estos casos, el referido pago deberá ser comunicado por escrito al Banco Central de Chile dentro de los cinco días hábiles bancarios contados desde la fecha en que éste se efectúe.
 
 ### III. FINANCIAMIENTOS INTERNOS
 
@@ -28656,13 +28646,9 @@ Las instituciones bancarias podrán cederse entre sí los créditos internos de 
 
 A los créditos en moneda extranjera que las instituciones bancarias otorguen para el financiamiento de exportaciones, les son aplicables los márgenes individuales de crédito que específicamente establece para estas operaciones el artículo 84 de la Ley General de Bancos.
 
-### 2. Información al Banco Central de Chile
+### 2. Instrucciones escritas de los exportadores
 
-Las empresas bancadas que realicen las ventas de divisas al Banco Central de Chile con pacto de recompra a que se refieren los numerales 1.2 y 2.2 del título II de este capítulo, deberán informar dichas operaciones al Instituto Emisor en la forma prevista por el Banco Central de Chile.
-
-### 3. Instrucciones escritas de los exportadores
-
-Los bancos que liquiden divisas provenientes de financiamientos externos o internos de exportaciones o realicen con ellas, por cuenta de los exportadores y en los casos que proceda, ventas con pacto de recompra con el Banco Central de Chile, deberán obtener previamente, en cada caso, instrucciones escritas del exportador acerca de la operación que éste solicite realizar. Al efectuar dichas operaciones, deberán emitirse las correspondientes Planillas de Ingreso.
+Los bancos que liquiden divisas provenientes de financiamientos externos o internos de exportaciones, deberán obtener previamente instrucciones escritas del exportador para tal efecto.
 
 CAPITULO 14-5 (Bancos y Financieras)
 
@@ -29808,7 +29794,7 @@ Cuando así lo solicite el usuario o el importador, según corresponda, la empre
 
 2.1. Norma general.
 
-Los importadores o usuarios de las Zonas Francas que adquieran divisas para el pago de las mercaderías amparadas por Solicitudes Registro Factura extendidas en moneda extranjera y emitidas por el Banco Central de Chile, de conformidad con lo dispuesto en el antes mencionado Capítulo VI del Título III del Compendio de Normas de Cambios Internacionales, no están sujetos a la obligación de liquidar dicha moneda extranjera. La referida adquisición de divisas sólo podrá efectuarse por el valor indicado para tal efecto por el Banco Central de Chile, en la respectiva Solicitud Registro Factura, una vez que haya sido internada la mercadería y a más tardar dentro de los 30 días hábiles bancarios siguientes a la fecha en que el pago de la respectiva operación se haga exigible.
+Los importadores o usuarios de las Zonas Francas que adquieran divisas para el pago de las mercaderías amparadas por Solicitudes Registro Factura extendidas en moneda extranjera y emitidas por el Banco Central de Chile, de conformidad con lo dispuesto en el antes mencionado Capítulo VI del Título III del Compendio de Normas de Cambios Internacionales, no están sujetos a la obligación de liquidar dicha moneda extranjera. La referida adquisición de divisas sólo podrá efectuarse por el valor indicado para tal efecto por el Banco Central de Chile, en la respectiva Solicitud Registro Factura, una vez que haya sido internada la mercadería y a más tardar dentro de los 30 días hábiles bancarios siguientes a la fecha en que el pago de la respectiva operación se haga exigible, salvo que el Instituto Emisor haya autorizado un plazo superior para tal efecto.
 
 2.2. Requisitos para efectuar la cobertura.
 
@@ -30402,9 +30388,9 @@ La venta de divisas para la cobertura de importaciones se hace normalmente a los
 
 2.1. Norma General.
 
-Los pagos en moneda extranjera de las mercaderías que se importen y de los gastos correspondientes, deben hacerse exclusivamente en el mercado cambiado formal.
+Las personas que adquieran divisas en el mercado cambiario formal de conformidad con las normas del Banco Central de Chile, con el objeto de efectuar los pagos de las mercaderías que se importen y los gastos correspondientes, estarán exentas de la obligación de liquidarlas, siempre que se de fiel cumplimiento a las normas contenidas en el Capítulo III antes mencionado.
 
-Las personas que adquieran divisas para efectuar esos pagos, estarán exentas de la obligación de liquidarlas, siempre que se dé fiel cumplimiento a las normas contenidas en el Capítulo III antes mencionado.
+En todo caso, para que las importaciones tengan acceso a dicho mercado y gocen de la exención señalada en el párrafo precedente, la cobertura deberá efectuarse a más tardar dentro de los 30 días hábiles bancarios siguientes a la fecha en que el pago de la respectiva operación sea exigible.
 
 2.2. Venta de divisas para el pago anticipado de mercaderías.
 
