@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 546 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 138-B, superficie 821 m2, Sin Rol, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al 70,000, Etapa IV'', y se acordó el valor de indemnización con su propietario Adelaida del Rosario Bolados Páez, ascendente a la cantidad de $757.123.
+
+Fiscal del Ministerio de Obras Públicas.
