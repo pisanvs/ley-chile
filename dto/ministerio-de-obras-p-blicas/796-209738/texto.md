@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 796, de 30 de Septiembre de 1996, se expropiaron los lotes de terreno N°s. 6 y 16, superficies 449 M2. y 36,6 M2., roles de avalúos 319-510 y 50-28, comuna de Buin, para la obra Mejoramiento Ruta 5, sector pasada por Buin, Rol R-5 y se acordó precio de indemnización con sus propietarios Luis Aros Leiva y María Becerra y otros, ascendente a las cantidades de $7.756.180 y $1.295.095.
+
+Fiscal del Ministerio de Obras Públicas.
