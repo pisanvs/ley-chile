@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 215, de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 101, superficie 196 m2, Rol Nº 192-49, comuna de Longaví, VII Región, para la obra "Camino Ruta L-49, Cruce Longitudinal - Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12" y se acordó el valor de indemnización con su propietario Jesús Hernán Barros Lagos, ascendente a la cantidad de $668.646.-
+
+Fiscal del Ministerio de Obras Públicas.
