@@ -1,0 +1,3 @@
+Por Resolución Nº1.488, de 5 de Diciembre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a SOCIEDAD COMERCIAL E INDUSTRIAL GIORDANO SOCIEDAD ANONIMA, RUT Nº87.001.100-8, domicilio en Iquique, para continuar desarrollando actividades pesqueras autorizadas a Sociedad Comercial e Industrial Giordano Limitada y Compañía En Comandita por Acciones, por Resolución Nº44, de 1981, de esta Subsecretaría, con sus ampliaciones y sustituciones, en la misma forma y condiciones establecidas en dichos documentos.
+
+Valparaíso, 5 de Diciembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
