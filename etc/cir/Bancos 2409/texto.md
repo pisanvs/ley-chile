@@ -9762,6 +9762,8 @@ c) Desagregar, para el dividendo que se cobra, lo siguiente: monto de la amortiz
 
 d) Fecha de vencimiento del dividendo.
 
+e) Tipos de seguros contratados, nombres de las compañías aseguradoras y números de las pólizas.
+
 En el caso que el monto insoluto del crédito sea servido mediante dividendos afectos a una reprogramación, se recomienda a las instituciones acreedoras enviar a los respectivos deudores, conjuntamente con el primer aviso de vencimiento que se despache conforme a estas instrucciones, una nota explicativa en que se informe que el saldo de la deuda reprogramada que se indica en él, se irá incrementando mensualmente por la parte de cada dividendo pagado que, en virtud de la reprogramación a que esté acogido el crédito, se prorrogue para ser pagado, más los correspondientes intereses, una vez extinguido el préstamo original.
 
 CAPITULO 8-19 (Bancos y Financieras)
