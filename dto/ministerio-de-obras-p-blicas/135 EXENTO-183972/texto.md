@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 135, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 5, superficie 714 m2, rol de avalúo 1238-25, comuna de Yumbel, para la obra "Camino Ruta O-50, Sector Cabrero - Copiulemu, Km. 0,00000 a 46,33803" y se acordó el valor de indemnización con su propietario Manuel Eduardo García García, ascendente a la cantidad de $759.706.-
+
+Fiscal del Ministerio de Obras Públicas.
