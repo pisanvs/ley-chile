@@ -1,0 +1,3 @@
+Por decreto MOP N° 1.058 de fecha 29 de septiembre de 2003, se expropió el lote de terreno N°52, superficie 5.214 m2, Rol N° 302-393, comuna de Cunco, IX Región para la obra Camino Ruta S-61, Sector: Cunco-Melipeuco, tramo Km. 55,000 al Km. 87,46783, correspondiente al sub-tramo II Km. 62,784 al Km. 76,043, y se acordó el valor de indemnización con su propietaria María Benavides Huircaleo, ascendente a la cantidad de $3.227.593.
+
+- Fiscal del Ministerio de Obras Públicas.
