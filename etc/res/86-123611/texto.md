@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE SEÑALA
+
+Por resolución Nº 86, de 12 de agosto de 1998, Serviu II Región, dispuso conforme D.L. 2.186 de 1978 y para ejecución proyecto ''Mejoramiento Eje San Martín e Iquique - Antofagasta'', expropiación parcial del inmueble ubicado en calle Iquique Nº 4009, rol de avalúo Nº 1237-22, comuna de Antofagasta, superficie 19,16 m2., de aparente dominio de don Raúl Gastón Morán Alringo, según inscripción fs. 817, Nº 1.027, año 1968, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión Tasadora integrada por peritos Sr. Alejandro Bargsted Barcells, Sra. Eleonora Román Latorre, arquitectos; y Sr. Héctor Villegas González, constructor civil, según informe de 22 de julio de 1998, fijó monto provisional indemnización en $3.523.708.-, pagadera al contado.
+
+Director Serviu II Región.
