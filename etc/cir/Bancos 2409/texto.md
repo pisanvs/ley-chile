@@ -18616,13 +18616,13 @@ LINEA PARTIDAS (No se indican algunas partidas cuyos saldos deben ser objeto de 
 
 .
 
-OBSERVACIONES
+OBSERVACIONES:
 
-[#A] Importe correspondiente a los ajustes a valor de mercado, según lo señalado en el N° 1 de las instrucciones sobre reagrupaciones de saldos.
+[#A]: Importe correspondiente a los ajustes a valor de mercado, según lo señalado en el N° 1 de las instrucciones sobre reagrupaciones de saldos.
 
-[#B] Cifra que se obtiene después de los ajustes extracontables para demostrar los importes netos, según se indica en el N° 2 de las instrucciones sobre reagrupaciones de saldos.
+[#B]: Cifra que se obtiene después de los ajustes extracontables para demostrar los importes netos, según se indica en el N° 2 de las instrucciones sobre reagrupaciones de saldos.
 
-[#C] Ingresos por recuperación de colocaciones castigadas, según lo indicado en el N° 3 de las instrucciones sobre reagrupaciones de saldos.
+[#C]: Ingresos por recuperación de colocaciones castigadas, según lo indicado en el N° 3 de las instrucciones sobre reagrupaciones de saldos.
 
 INSTRUCCIONES:
 
@@ -18708,13 +18708,15 @@ h) Provisiones por activos riesgosos.
 
 Las provisiones exigidas para cubrir los riesgos de pérdida de los activos han sido constituidas de acuerdo con las normas de la Superintendencia de Bancos e Instituciones Financieras. Los activos se presentan netos de tales provisiones o demostrando la rebaja, en el caso de las colocaciones.
 
-i) Provisiones voluntarias.
-
-De acuerdo con lo dispuesto en la Ley General de Bancos, las instituciones financieras pueden constituir provisiones especiales, denominadas "provisiones voluntarias", que pueden ser computadas como patrimonio efectivo para el cumplimiento de diversas regulaciones contenidas en esa ley. El monto que se mantiene constituido al cierre de cada ejercicio y sus efectos en los resultados, se muestra en el Balance General y en el Estado de Resultados.
-
-j) Impuestos diferidos.
+i) Impuestos diferidos.
 
 Los efectos de impuestos diferidos por las diferencias temporales entre el balance tributario y el balance financiero, se registran sobre base devengada según el Boletín Técnico N° 60 del Colegio de Contadores de Chile A.G.
+
+j) Vacaciones del personal.
+
+El costo anual de vacaciones y los beneficios del personal se reconocen sobre base devengada.
+
+El modelo de notas antes indicado se utilizará en todo lo que resulte aplicable en el caso de cada institución financiera.
 
 k) Vacaciones del personal.
 
