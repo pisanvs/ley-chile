@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.886, de 29 de octubre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 9-5, para la obra:
+
+"Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Camino El Carmen. Km. - 0.300,00 a Km. 0.860,00", Quinta Región, que figura a nombre de Viña Concha y Toro S.A., rol de avalúo 154-153, comuna de Casablanca, superficie 3.038 m². La comisión de peritos integrada por los señores Luis Pablo Padilla Vergara, Patricio Benjamín García Toso y Claudia Paola Arellano Gómez, fijó con fecha 6 de septiembre de 2002, el valor provisional de la indemnización en la cantidad de $16.761.940. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
