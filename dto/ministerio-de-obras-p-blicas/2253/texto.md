@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.253, de 30 de octubre de 1998, se expropió el lote de terreno Nº 26, superficie 250 m², rol de avalúo 2202-123, comuna de Chillán Viejo, para la obra Intersecciones Desniveladas Ruta 5 Sur, Tramo Talca - Chillán, y se acordó el valor de la indemnización con su propietario Víctor Manuel Canahuate Burboa, ascendente a la cantidad de $ 1.472.625.-.
+
+- Fiscal del Ministerio de Obras Públicas.
