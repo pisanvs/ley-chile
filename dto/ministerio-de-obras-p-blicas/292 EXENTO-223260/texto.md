@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 292, de 2 de febrero de 2004, dejó sin efecto el decreto MOP exento Nº 1.411, de 31 de octubre de 2003, en lo que respecta sólo a la expropiación del lote de terreno Nº 116, el cual fue expropiado mediante decreto MOP exento Nº 1.576, de 31 de octubre de 2002 y consignado en la cuenta corriente del Primer Juzgado Civil de Chillán, el monto de indemnización provisional debidamente reajustado. Obra "Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas, Tramo II, Km. 5,57900 a Km. 10,19480". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
