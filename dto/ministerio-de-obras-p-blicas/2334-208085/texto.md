@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.334, de fecha 31 de diciembre de 2002, se expropiaron los lotes de terreno Nºs 67 y 67 A, superficie 6.665,6 y 1.503,2 m2, respectivamente, Rol Nº142-2, comuna de Chonchi, X Región, para la obra "Camino Ruta 5, Sector Chonchi-Tara, Km. 1.205,160 a Km. 1.215,004" y se acordó el valor de indemnización con su propietario Juan Danilo Andrade Andrade y Otros, ascendente a la cantidad de $34.520.450.-
+
+Fiscal de Ministerio de Obras Públicas.
