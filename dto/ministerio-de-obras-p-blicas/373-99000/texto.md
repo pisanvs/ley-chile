@@ -1,0 +1,3 @@
+Por decreto MOP. No 373, de 31 de marzo de 1998, se expropiaron los lotes de terreno Nos 7 y 19-G, superficies 285 m2. y 275 m2., roles de avalúos 2O2O-475 y 2O2O-339, comuna de Melipilla, obra Camino Ruta G-668, sector El Molino-Codigua y se acordó precio de indemnización con sus propietarios Juan José Zuñiga Bustos y José Quiroga Silva, ascendente a las cantidades de $1.405.301 y $1.472.245.-
+
+Fiscal del Ministerio de Obras Públicas.
