@@ -1,0 +1,3 @@
+Por decreto MOP Nº 791 de fecha 31 de agosto del 2004, se expropió el lote de terreno Nº 75-B, superficie 10.756,00 M2, S/R, comuna de Lampa, Región Metropolitana, para la obra "Camino Ruta G-16, Sector Lampa-Polpaico, Tramo Km. 19,72359 a Km. 34,51667" y se acordó el valor de indemnización con su propietario Alfonso Matías de Lourdes Rodríguez Labbé, ascendente a la cantidad de $31.427.730.
+
+- Fiscal del Ministerio de Obras Públicas.
