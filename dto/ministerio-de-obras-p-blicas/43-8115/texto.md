@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 43, de fecha 28 de Febrero de 1994, se expropiaron los lotes de terreno N°s. 42, 45 y 46, superficies 4.667 M2., 2.133 M2. y 878 M2., rol de avalúo 547-2 respectivamente, comuna de Santa Cruz, para la obra Camino Santa Cruz-Lolol I-72, sectores Santa Cruz La Lajuela, sector Santa Cruz Los Maitenes y se acordó valor de indemnización con su propietaria Paz Gabriela Correa Villarroel ascendente a la cantidad de $ 1.462.531.-
+
+Fiscal del Ministerio de Obras Públicas.
