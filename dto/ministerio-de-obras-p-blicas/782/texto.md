@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 782, de 29 de agosto de 1997, se expropiaron los lotes de terrenos Nºs. 124-A y 125, superficies 1.403 y 7.757 m2., rol de avalúo 128-78, comuna de El Carmen, para la obra Proyecto Laja Diguillín, Faja de Expropiación Canal Matriz, sector Pemuco Diguillín y se acordó precio de indemnización con sus propietarios Juan de Dios Vásquez Salazar y María Mercedes Vásquez Salazar, ascendentes a las cantidades de $392.428 y $1.763.037, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
