@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 381, de fecha 30 de agosto de 1994, se expropiaron los lotes de terreno N°s. 1 y 4, superficies 10.560 m2. y 12.560 m2., roles de avalúo 252-4 y 252-3, Comuna de Salamanca, para la obra Camino Illapel-Salamanca, y se acordó valor de indemnización con sus propietarios Guillermo Merino Vallejo y Margarita Vega Valenzuela y otros, ascendente a las cantidades de $4.285.839 y $2.548.776.
+
+Fiscal del Ministerio de Obras Públicas.
