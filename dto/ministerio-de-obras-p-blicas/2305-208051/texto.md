@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.305 de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº84, superficie 508 m2, rol de avalúo Nº2087-408, comuna de Melipilla, para la obra "Camino Reposición Ruta G-74-F, Sector Melipilla - Bollenar, Km. 0.00000 al 14.23039", Región Metropolitana y se acordó el valor de la indemnización con su propietario Manuel Jesús Macaya Delgado, ascendente a la cantidad de $3.028.520.-
+
+Fiscal del Ministerio de Obras Públicas.
