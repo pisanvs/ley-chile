@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.018 de fecha 28 de junio del 2002, se expropió el lote de terreno Nº54-B, superficie 33,30 m², Rol Nº225-17, comuna de Olmué, V Región para la obra ''Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10,984 al 34,500'' y se acordó el valor de indemnización con su propietario Luis Marco Olivares Delgadillo, ascendente a la cantidad de $995.123.-
+
+Fiscal del Ministerio de Obras Públicas.
