@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.878, de fecha 31 de agosto del 2000, se expropiaron los lotes de terreno Nºs. 4, 4-A y 30, superficies 1.527, 2.243 y 1.371 m² respectivamente, rol de avalúo 5026-421, comuna de Punta Arenas, para la obra ''Actualización Proyecto Canal de Trasvase Estero Llau-Llau a Estero Bitsch de Punta Arenas Fase II, Sector Canal de Trasvase Estero Llau-Llau a Estero Bitsch Km. 0,012 a Km. 1,384 y Sector Prolongación Canal Llau-Llau Km. 0,009 a Km. 1,066'' y se acordó el valor de indemnización con su propietario Clara Coralia Díaz Hernández, ascendente a la cantidad de $9.634.737.
+
+- Fiscal del Ministerio de Obras Públicas.
