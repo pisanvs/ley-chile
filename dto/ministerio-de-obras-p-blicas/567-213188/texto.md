@@ -1,0 +1,3 @@
+Por decreto MOP Nº 567 de fecha 30 de mayo de 2003, se expropiaron los lotes de terreno Nºs 2, 7 y 8, superficie 230, 326 y 2.028 m2, Rol Nº 302-157, comuna de Cunco, IX Región, para la obra "Camino Ruta S-61, sector Cunco - Melipeuco, Km. 55,000 al Km. 87,46783, correspondiente al Tramo I Km. 55,000 al Km. 62,784" y se acordó el valor de indemnización con su propietario Esteban Herrera Rubilar, ascendente a la cantidad de $12.295.109.
+
+Fiscal del Ministerio de Obras Públicas.
