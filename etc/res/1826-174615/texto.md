@@ -1,0 +1,3 @@
+Por resolución Nº 1.826, de 18 de agosto de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 98110172 presentada por HUMBERTO JOSE FISCHER LLOP, para instalar y operar el centro de cultivo ubicado en canal Bynon, sector sur de la isla Benjamín - 4, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 18 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
