@@ -1,0 +1,15 @@
+EXTRACTO DE RESOLUCION EXENTA No. 1.096, DE 1988
+
+Por resolución exenta No. 1.096 de fecha 31 de mayo de 1988, se dispuso la publicación del siguiente extracto:
+
+En Santiago, con fecha 29 de Abril de 1988 y 25 de Mayo de 1988 ante los Notarios de Santiago Manuel Almarza Varas y Humberto Quezada Moreno, respectivamente, se otorgaron escrituras públicas de constitución del partido denominado "Liberal", cuya sigla es P. L. La Directiva Central Provisional está constituida por Hugo Zepeda Barrios, presidente; Guillermo Toro Albornoz, primer vicepresidente; Sergio Sepúlveda Garcés, segundo vicepresidente: Pedro Esquivel Santander, tercer vicepresidente; Ignacio Prado Benítez, cuarto vicepresidente; Pedro Montenegro González, quinto vicepresidente; Gabriel León Echaíz, Secretario General; Ricardo Bustos Gómez, prosecretario; Sergio Trucco Palacios, tesorero general; Juan de Dios Ortúzar Cuevas, protesorero general.
+
+El Tribunal Supremo Provisional está constituido por Domingo Cuadra Gazmuri; Fritz Hillmann Suárez; Washington Malagueño Cortés y Juan Smitmans López.
+
+El domicilio común de la Directiva Central Provisional y Tribunal Supremo Provisional, es la calle San Antonio 418 Of icina 803, de Santiago.
+
+Los miembros de la Directiva Central Provisional y Tribunal Supremo Provisional en caso de renuncia, fallecimiento o imposibilidad definitiva o transitoria para asumir o ejercer el cargo, antes de la inscripción del partido serán reemplazados por personas que designe la Directiva Central Provisional por simple mayoria de votos de sus integrantes.
+
+La sintesis de la declaración de principios es la siguiente: El Partido Liberal propicia una Sociedad libre, democrática v pluralista. Reconoce comó principios fundamentales la libertad y la dignidad de la persona humana. El liberalismo sustenta como el mejor sistema de gobierno la democracia. El sufragio universal es el medio más eficaz para la elección y renovación periódica de las autoridades políticas. Debe existir una clara separación entre los poderes públicos y una adecuada distribución de sus funciones, dentro del marco de una estricta fiscalización. Considera que la iniciativa privada es base fundamental del sistema productivo. Propicia una importante acción del Estado como orientador y fiscalizador de la economía. El derecho a la propiedad privada debe estar garantizado constitucionalmente y tener como límite sólo la función social de la propiedad. El liberalismo aspira a un orden social justo y solidario. Los conflictos sociales deben resolverse por los cauces de la legalidad y el Estado de Derecho. Exige participación y autonomía en el proceso de toma de decisiones que dicen relación con los intereses específicos de cada persona. Aspira a conjugar la libertad y la justicia social en un marco que realce la dignidad del ser humano. Los organismos de nivel Nacional y Regional del Partido son los siguientes: Consejo General, Directiva Central, Tribunal Supremo, Consejo Regional, Consejo Distrital, Consejo Comunal.-
+
+Santiago, 31 de Mayo de 1988. Juan Ignacio García Rodríguez, Director.
