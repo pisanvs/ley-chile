@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.729 de fecha 31 de octubre del 2001, se expropió el lote de terreno Nº 27-B, superficie 6.163,80 m², Rol de Avalúo Nº 385-20, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, Expropiaciones Red Primaria 5/5, Derivado Mahuidanche, Sector Km. 7.790,94 al Km. 15.096,56", IX Región y se acordó el valor de indemnización con su propietario Armin Nickel Redel, ascendente a la cantidad de $3.319.475.-
+
+Fiscal del Ministerio de Obras Públicas.
