@@ -1,0 +1,3 @@
+Por decreto MOP Nº 422, de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 12-N, superficie 210,00 m2, Rol de Avalúo Nº 1.507-14, de comuna de Valparaíso, V Región, para la obra "Habilitación Nuevo Camino La Pólvora, Km. 17,86424 a Km. 22,47179, Sector 3, Quebrada Las Animas - Puerto Valparaíso" y se acordó el valor de la indemnización con su propietaria Leticia Fabiola San Martín Baeza, ascendente a la cantidad de $9.414.988.-
+
+Fiscal del Ministerio de Obras Públicas.
