@@ -1,0 +1,3 @@
+Por Resolución No. 451, de 9 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, - parte inmueble - ubicado calle Tocornal 501, presunto rol avalúos 621-1, comuna Santiago, aparentemente dominio de Julia Martin Sáez. Comisión integrada por peritos Luis Rojas Quezada, constructor civil, Emilio Recabarren Solar, Sergio Rojas Ibáñez, ingenieros civiles, según informe de 27 de diciembre de 1988, fijó monto provisional indemnización en $ 2.034.360.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
