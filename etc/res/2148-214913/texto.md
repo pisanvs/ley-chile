@@ -1,0 +1,3 @@
+Por resolución Nº 2.148, de 2 de septiembre de 2003, de esta Subsecretaría, autorízase a PRODUCTOS MARINOS DE EXPORTACION S.A., RUT Nº 79.527.700-5, con domicilio en la comuna de Castro, Llicalidad Rural s/nº, X Región, para continuar desarrollando las actividades pesqueras de transformación autorizadas a Productos Marinos de Exportación Ltda., del mismo RUT y domicilio, en virtud de la escritura pública de fecha 10 de enero de 2000, otorgada ante el Notario Público de Castro don Arcadio Pérez Bórquez, y del contenido de la presente resolución.
+
+Valparaíso, 2 de septiembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
