@@ -1,0 +1,1 @@
+Crea una Junta de Exportación Agrícola, y fija sus atribuciones
