@@ -606,6 +606,8 @@ Deberá, además, ceder al organismo respectivo el total de ese reintegro, conju
 
 Para todos los efectos de la cesión y del reintegro exigidos en el artículo anterior, la Caja y los organismos auxiliares concederán préstamos en las condiciones señaladas en los incisos 1.° y 2.° del artículo 56.°.
 
+Los giros estimados indebidos por la Caja y los Organismos Auxiliares "deberán reintegrarse con sus intereses correspondientes en forma previa al "otorgamiento de las pensiones señaladas en el artículo 12º. No será necesario "efectuar dicho reintegro previo cuando las pensiones devengadas y no cobradas "asciendan a un monto que sea suficiente para cubrir esa deuda y el servicio "mensual de las demás obligaciones que se tenga con las mencionadas Instituciones" de Previsión.
+
 #### Artículo 60°
 
 <!-- parte:9099897 -->
