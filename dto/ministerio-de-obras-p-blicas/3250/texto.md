@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.250 de 29 de octubre de 1999, se expropió el lote de terreno Nº 11, superficie 635,4 m², rol de avalúo 215-209, comuna de Teodoro Schimdt, para la obra Camino Costero Sur, sector Tranapuente Puerto Saavedra Porma Tramo Chelle Hualpín Puente Peule y se acordó precio de indemnización con su propietario Alberto Huircan, ascendente a la cantidad de $193.959.-
+
+Fiscal del Ministerio de Obras Públicas.
