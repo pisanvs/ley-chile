@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.373, de 29 de octubre de 1999, se expropió el lote de terreno Nº 476, superficie 13.894,0 m², rol de avalúo 554-126, comuna de Paillaco, para la obra Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno, Décima Región y se acordó el valor de indemnización con su propietario Norberto Peters Scheiding, ascendente a la cantidad de $13.605.593.
+
+- Fiscal del Ministerio de Obras Públicas.
