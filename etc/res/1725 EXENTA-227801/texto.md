@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.725, de 30 de junio de 2004 de esta Subsecretaría, autorízase a SOCIEDAD COMERCIALIZADORA DE PESCADOS MARISCOS LIMITADA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Cuarta Poniente Nº2310, Tocopilla, II Región, en las líneas de elaboración Cocido, Fresco-Enfriado, Fresco-Refrigerado y Congelado, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 30 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
