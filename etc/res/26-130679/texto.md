@@ -1,0 +1,3 @@
+Por resolución Nº 26, de 19 de enero de 1999 de esta Subsecretaría, se deniega la solicitud de concesión de acuicultura Nº 94103063, presentada por la CORPORACION MUNICIPAL DE QUINCHAO para la Educación, Salud y Atención al Menor, para operar un centro de cultivo en Estero de Quinchao, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 19 de enero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
