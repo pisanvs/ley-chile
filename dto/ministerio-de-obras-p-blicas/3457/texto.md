@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.457, de 19 de noviembre de 1999, se expropiaron los lotes de terreno Nºs 335, 336-A, 338-B y 338-C, superficies 4.959,0 m², 4.945,0 m², 4.351,0 y 1.096,0 m², rol de avalúo 114-19, comuna de Máfil, para la obra Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno, Décima Región y se acordó el valor de indemnización con su propietario Obispado de Valdivia, ascendente a la cantidad total de $15.280.501.
+
+- Fiscal del Ministerio de Obras Públicas.
