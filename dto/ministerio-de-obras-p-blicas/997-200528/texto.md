@@ -1,0 +1,5 @@
+Por decreto MOP Nº997, de 17 de junio de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº20, para la obra: ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal SUR Tramo 4 A. Lámina Especial 1 Km. 100.320,00 a Km.
+
+101.720,00'', Quinta Región, que figura inscrito a Fs. 1360 Nº1826, de 1981, en el Registro de Propiedad del CBR Quilpué, a nombre de Empresa De Obras Sanitarias de Valparaíso S.A., rol de avalúo 3457-12, comuna de Quilpué, superficie 93.277 m2. La comisión de peritos integrada por los señores Claudia Paola Arellano Gómez, Fernando José Senerman Mandel y Eduardo Alejandro Silva Aracena, fijó con fecha 30 de octubre de 2000, el valor provisional de la indemnización en la cantidad de $127.867.500.- La indemnización de pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
