@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 244, de 27 de Agosto de 1985, se expropiaron los lotes No. s. 8, 8A, 9, 10 y 11, cuyas superficies son 25.480 m2., 6.240 m2., 17.552 m2., 164.898 m2., y 3.665 m2., respectivamente, roles de avalúos 171-6 y 171-82, Comuna de San Clemente, para la obra Camino Talca-Paso El Pehuenche, sector El Colorado-Paso Nevado y se acordó el precio de indemnización con su propietaria Sociedad Agrícola Forestal La Esperanza Limitada, ascendente a la cantidad de $ 2.319.757.
+
+Fiscal del Ministerio de Obras Públicas. (2)
