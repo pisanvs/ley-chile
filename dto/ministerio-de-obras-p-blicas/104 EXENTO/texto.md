@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 104, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 5, superficie 420 m2, rol de avalúo 3255-177, comuna de Temuco, para la obra "Camino Ruta S-20, Sector Temuco - Chol Chol, Tramo Km. 3,50000 a Km. 25,01609" y se acordó el valor de indemnización con su propietario Francisco Rucan Huencho, ascendente a la cantidad de $2.077.797.-
+
+Fiscal del Ministerio de Obras Públicas.
