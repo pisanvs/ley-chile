@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.748 de fecha de 30 de diciembre del 2004, se expropió el lote de terreno Nº 80, superficie 445 m2, Rol Nº 606-429, comuna de Nueva Imperial, IX Región para la obra "Camino Reposición Ruta S-40, sector - Nueva Imperial Carahue Tramo Km. 0,00000 al km. 21,58295, Subtramo II Km. 4,04000 al km 12,84000" y se acordó el valor de indemnización con su propietario José Erasmo Millán Millán, ascendente a la cantidad de $693.000.- para el lote Nº80.
+
+Fiscal del Ministerio de Obras Públicas.
