@@ -1,0 +1,5 @@
+Por resolución Nº 1.708, de 2 de septiembre de 1999, de esta Subsecretaría, autorízase a ALIMENTOS DEL MAR LTDA., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Fundo Escuadrón, Parcela Nº 5 Km. 20, Coronel, donde podrá procesar en las líneas que se indican los siguientes recursos hidrobiológicos: Deshidratado: Algas: Carola, Cochayuyo, Cotoni, Chasca, Chascón, Chicorea del mar, Huiro, Luche, Luga Luga, Pelillo; Pescados: Anchoveta, Jurel, Sardina, Sardina común; Alga Seca: Algas: Carola, Cochayuyo, Cotoni, Chasca, Chascón, Chicorea del mar, Huiro, Luche, Luga Luga, Pelillo; Seco Salado: Pescados: Anchoveta, Jurel, Sardina, Sardina común.
+
+Déjase sin efecto la resolución Nº 592, de 1999, en virtud del artículo 6º del D.S. Nº 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 2 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
