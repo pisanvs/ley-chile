@@ -1,0 +1,3 @@
+Por decreto MOP Nº 74, de 31 de enero de 2001, se expropió el lote de terreno Nº 30, superficie 28.025 m², rol de avalúo 1543-138, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, By Pass San Carlos de Purén, Octava Región y se acordó el valor de indemnización con sus propietarios Ana Alicia Higueras Fernández y otros, ascendente a la cantidad de $55.364.609.-
+
+Fiscal del Ministerio de Obras Públicas.
