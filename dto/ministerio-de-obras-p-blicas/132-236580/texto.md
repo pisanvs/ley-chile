@@ -1,0 +1,3 @@
+Por Decretos M.O.P. N°s 117 y 132, ambos de fecha 29 de febrero de 1996, se expropiaron los lotes de terreno N°s. 113 y 133-B, superficies 120 m2 y 2.280 m2, roles de avalúos 668-7 y 1407-1, comuna de Rancagua, para la obra Mejoramiento Ruta 5 Sur, sector pasada por Rancagua y acordó precio de indemnización con sus propietarios Suc. Roberto Enrique Arenas Cavieres y don Alberto Mardones Cerda, ascendente a las cantidades de $11.151.579 y $23.416.068.
+
+- Fiscal del Ministerio de Obras Públicas.
