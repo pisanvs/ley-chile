@@ -1,0 +1,33 @@
+AMPLIA RESOLUCION N° EX. 2.794 DE 1991 QUE CONDONA INTERESES, REAJUSTES Y MULTAS RESPECTO DE IMPUESTOS QUE INDICA, EN COMUNAS DECLARADAS AFECTADAS POR LA CATASTROFE DERIVADA DE LA SEQUIA, DE ACUERDO AL DECRETO DE HACIENDA N° 324.
+
+Santiago, 25 de Marzo de 1992.- Hoy se ha resuelto lo que sigue:
+
+Núm. 1167 Exenta.- Vistos: Las facultades que me confiere el artículo primero del Decreto Supremo de Hacienda N° 324, publicado en el Diario Oficial de 26 de junio de 1991, y lo dispuesto en los Artículos 7° de la Ley Orgánica del Servicio de Impuestos Internos y N° 6 del Código Tributario y la extensión de plazo señalado en el D.S. 1.420 del Ministerio del Interior, publicado en el Diario Oficial de 10 de enero de 1992, que modifica el plazo indicado en la Resolución N° Ex. 2.794 de 24 de septiembre de 1991, de este Servicio y Considerando:
+
+1°) Que por Decreto Supremo N° 750, de 29 de Octubre de 1990, modificado por Decretos Supremos N°s 872, de 13 de Diciembre de 1990 y 199, de 15 de Febrero de 1991, todos del Ministerio del Interior, publicados en los Diarios Oficiales de 6 de Noviembre y 29 de Diciembre de 1990 y 1° de Marzo de 1991, se declaró como afectada por la catástrofe, derivada de la prolongada sequía que ha afectado al país, las comunas de Vallenar, Alto del Carmen, Freirina y Huasco de la Provincia de Huasco; las comunas de Caldera y Tierra Amarilla de la Provincia de Copiapó; todas de la III Región Atacama; las comunas de Ovalle, Río Hurtado, Monte Patria, Combarbalá y Punitaqui de la Provincia de Limarí; las comunas de Illapel, Salamanca, Los Vilos y Canela de la Provincia de Choapa; las comunas de La Higuera, Andacollo Vicuña y Paihuano de la Provincia de Elqui; todas ellas de la IV Región de Coquimbo; las comunas de La Ligua, Petorca, Cabildo y Zapallar de la Provincia de Petorca; la comuna de Putaendo de la Provincia de San Felipe de Aconcagua; las comunas de Olmué, Los Nogales y Limache de la Provincia de Quillota; las comunas de Puchuncaví, Quilpué y Casablanca de la Provincia de Valparaíso; la comuna de San Antonio de la Provincia del mismo nombre; todas ellas de la Región de Valparaíso; las comunas de Navidad, Litueche, La Estrella, Marchigue y Paredones de la Provincia de Cardenal Caro; las comunas de Lolol y Pumanque de la Provincia de Colchagua; todas de la VI Región del Libertador Bernardo O'Higgins: las comunas de Tiltil, Lampa y Colina de la provincia de Chacabuco; las comunas de San Pedro, Curacaví y Alhué de la Provincia de Melipilla de la Región Metropolitana de Santiago; las comunas de Hualañe y Licantén de la Provincia de Curicó y las comunas de Empredrado, Pencahue y Curepto de la Provincia de Talca; todas de la VII Región del Maule.
+
+2°) Que por Decreto Supremo de Hacienda N° 324, de 8 de Mayo de 1991, publicado en el Diario Oficial del 26 de Junio de 1991, en virtud de lo dispuesto en el Artículo 3°, letra d), de la Ley N° 18.282, se autoriza al Servicio de Impuestos Internos para adoptar las siguientes medidas:
+
+"a) Condonar los intereses y reajustes, originados por mora en el pago del Impuesto Territorial que afecta a los bienes raíces agrícolas ubicados en las comunas mencionadas en los decretos de Interior N° 750 y N° 872, ambos de 1990 y 199, de 1991 y
+
+"b) Condonar los reajustes, intereses y multas originados por la mora en el pago de los impuestos a la renta, que afectan a los agricultores que declaren dichos impuestos en base a renta presunta, por los predios ubicados en las comunas a que se refiere la letra anterior.", y
+
+3°) Que por Resolución N° Ex 2.794, de este Servicio, de fecha 24 de Septiembre de 1991, se dispuso la condonación de la totalidad de los intereses, reajustes y multas respecto de los impuestos que en ella se indican y en las condiciones y por el período que en cada caso se señalan.
+
+4°) Que en atención a que por Decreto Supremo N° 1.420, de 23 de Diciembre de 1991, del Ministerio del Interior, publicado en el Diario Oficial de 10 de Enero de 1992, se extendió hasta el 30 de Junio de 1992 el plazo para atender las situaciones derivadas de la sequía en las comunas afectadas por dicha catástrofe, se ha estimado conveniente consultar la ampliación de los beneficios tributarios contemplados en la Resolución N° Ex 2.794 precedentemente citada, en la forma que en cada caso se indica.
+
+Resuelvo:
+
+1.- Amplíase la condonación total dispuesta por la Resolución N° 2794, de 24 de Septiembre de 1991, de este Servicio, a los reajustes e intereses del Impuesto Territorial que se encuentre en mora en el pago, a la fecha de la presente resolución y que corresponda a los bienes raíces indicados en la resolución señalada.
+
+2.- Para el pago de los impuestos netos adeudados, los contribuyentes deberán concurrir al Servicio de Tesorerías quien emitirá los Aviso-Recibos con vencimiento al 30 de Junio de 1992. Los impuestos no pagados al vencimiento empezarán a devengar reajustes e intereses a contar del 1° de Julio del mismo año.
+
+3.- Amplíase hasta el 30 de Abril de 1992 el plazo otorgado a los agricultores favorecidos con la condonación dispuesta en el número 3 de la parte dispositiva de la Resolución N° 2.794, de 24 de septiembre de 1991, de este Servicio, para concurrir a las Direcciones Regionales del Servicio de Impuestos Internos de la IIIa; IVa; Va; VI y VIIa Regiones y Dirección Regional Metropolitana Santiago Poniente, según la Región a la cual pertenece la comuna afectada por la sequía donde esté ubicado el o los predios agrícolas respecto de los cuales declaren su impuesto a la renta en base a renta presunta, acompañando todos los antecedentes que se le requieran, tanto para la determinación del monto adeudado como para acreditar los requisitos necesarios para gozar de la franquicia y solicitar el giro de los impuestos adeudados; incluso aquellos que hubieren dispuesto en la parte final del inciso primero del artículo 72° de la Ley de Impuesto a la Renta, y estén en mora en la totalidad o parte del impuesto declarado.
+
+El Servicio de Impuestos Internos girará los impuestos netos morosos adeudados con fecha de vencimiento al 30 de Junio de 1992. Los giros no pagados al vencimiento empezarán a devengar reajustes e intereses a contar del 1° de Julio de 1992.
+
+4.- Para los efectos del número anterior, si se tratare de predios agrícolas ubicados en comunas correspondientes a Direcciones Regionales diferentes, se deberá concurrir a la Dirección Regional donde esté situado el inmueble agrícola de mayor avalúo fiscal.
+
+Anótese, comuníquese y publíquese.- Javier Etcheberry Celhay, Director.
+
+Lo que transcribo a Ud. para su conocimiento y fines que procedan.- Carlos Villarroel González, Secretario General.
