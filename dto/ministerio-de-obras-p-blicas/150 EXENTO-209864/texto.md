@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº150 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº32, superficie 1.892,50 m2, Rol Nº61-30, comuna de Futrono, X Región, para la obra "Camino Ruta T-55, Sector Futrono-Llifén, tramo Km. 55,300 a Km. 75,76384" y se acordó el valor de indemnización con su propietaria María Francisca Pitripan Vidal, ascendente a la cantidad de $2.318.420.
+
+Fiscal del Ministerio de Obras Públicas.
