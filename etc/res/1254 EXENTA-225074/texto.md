@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.254, de 5 de mayo de 2004, de esta Subsecretaría, recházase la solicitud de modificación de proyecto técnico y cronograma de actividades para concesión de acuicultura Nº 200111216, presentada por JOSE ARMANDO BORQUEZ CARDENAS, para el centro de cultivo otorgado en concesión por resolución Nº 1.570 de 1999 de la Subsecretaría de Marina.
+
+Valparaíso, 5 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
