@@ -1,0 +1,1 @@
+Libera, durante el plazo que indica, de todo derecho, impuesto o contribución la internación de papas.
