@@ -1,0 +1,3 @@
+Por resolución Nº 1.735, de 1 de diciembre de 1998, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 871 de 1991 y Nº 707 de 1995, ambas de esta Subsecretaría, que autorizaron a CULTIVOS MARINOS FLAMENCO S.A., para instalar y operar un centro de cultivo ubicado en Caleta Flamenco, comuna y provincia de Chañaral, III Región.
+
+Valparaíso, 1 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
