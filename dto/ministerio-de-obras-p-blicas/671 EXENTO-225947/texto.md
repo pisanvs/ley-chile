@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 671, de 30 de abril de 2004 y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 1, para la ejecución de la obra "Laja-Diguillín. Canal Alimentador de Km. 0,036 a Km.
+
+0,063; Bocatoma Curapaso", Sector Canal Alimentador a Estero Curapaso, y Lotes Nº 1 y 2, Sector Bocatoma Curapaso, que figuran a nombre de Fuentes Gutiérrez Gabriel, Forestal Cholguán S.A. y Sepúlveda Lagos José Evangelis, Rol de Avalúo 481-2, 480-159 y 480-162, comuna de Yungay, VIII Región, superficies 298, 252 y 83 m². La Comisión de Peritos con fecha 5 de enero de 2003, fijó el monto de la indemnización provisional en la cantidad de $159.430, para el lote Nº 1, Canal Alimentador a Estero Curapaso; $161.000, para el lote Nº 1. y $41.500, para lote Nº 2 Bocatoma Curapaso. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
