@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.704, de 24 de junio de 1999, se expropió el lote de terreno No. 283-C, superficie 127,0 m2., rol de avalúo 105-5, comuna de Máfil, para la obra "Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno", Décima Región y se acordó el valor de indemnización con su propietaria Ema del Carmen Cartes Riffo, ascendente a la cantidad total de $ 253.194.-
+
+Fiscal del Ministerio de Obras Públicas.
