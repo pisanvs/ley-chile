@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.366, de fecha 28 de septiembre de 2001, se expropiaron los lotes de terreno Nºs 54, 56 y 57, superficie 634, 2.226 y 2.086 m², respectivamente, rol de avalúo 533-207, comuna de La Unión, para la obra "Camino Las Ventanas Bifurcación Rapaco, Rol T-60, Km. 36,000 a Km. 47,747,993" y se acordó el valor de indemnización con su propietario Marcial Pozo Ormeño, ascendente a la cantidad de $4.102.418.-
+
+Fiscal del Ministerio de Obras Públicas.
