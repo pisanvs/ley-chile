@@ -1,0 +1,5 @@
+Por decreto MOP. Nº 494, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº98, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Sector Km. 14.800,00 al Km.
+
+21.300,00, que figura a nombre de Heres S.A., rol de avalúo Nº 183-69, comuna de Colina, superficie 2.525 m2. La comisión de peritos integrada por Julio Jorge Machicao Araya, Matías Rafael Norero Urrutia y Valeria Luz Jiménez Matus, fijó con fecha 28 de noviembre de 1997, el valor provisional de la indemnización en la cantidad de $35.413.125.- para el lote 98. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
