@@ -1,0 +1,1 @@
+Autoriza expropiar los inmuebles que indica y cuyos deslindes señala, con el objeto de construir el Instituto Nacional de Santiago.
