@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.331, de 31 de diciembre de 2002, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron para el Fisco los lotes de terreno Nºs. 27 y 31 para la obra: Camino San Fernando-Roma, Rol I-301, I-255, I-151, Km.
+
+0,000 a Km. 10,954264, que figuran a nombre de Zegers León Eugenio, Rol de Avalúo 286-1, comuna de San Fernando, VI Región, superficies 1.177 m2 y 1.208 m2. La Comisión de Peritos fijó, con fecha 20 de septiembre de 2000, el monto de la indemnización provisional en las cantidades de $5.784.000 para el lote Nº27 y $3.804.000 para el lote Nº31. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
