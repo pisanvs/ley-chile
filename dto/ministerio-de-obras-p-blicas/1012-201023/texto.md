@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.012, de 17 de junio de 2002 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº80, para la obra Camino CH-203, sector Bifurcación Coñaripe - Choshuenco, Km. 56,68000 a Km. 93,28612, provincia de Valdivia, X Región, que figura a nombre de Amoyao Lonconanco Pedro, rol de avalúo 204-15, superficie 11.669 m², comuna de Panguipulli. La Comisión de Peritos, con fecha 27 de mayo de 2000, fijó la indemnización provisional en la cantidad de $10.284.800, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Publicas
