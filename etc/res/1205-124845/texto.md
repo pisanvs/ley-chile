@@ -1,0 +1,7 @@
+AUTORIZA A PESQUERA SANTO DOMINGO S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.205, de 03 de Noviembre de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Santo Domingo S.A., R.U.T. No. 96.513.210-4 domiciliada en la ciudad de San Antonio, para ampliar actividades pesqueras, autorizadas por resolución No. 306, de 1987, de esta Subsecretaría, en orden a incluir en la planta industrial, ubicada en Sector Aguas Buenas, Parcela No. 46, Carretera 78, Km. 105,6, San Antonio, V Región, en las líneas de elaboración de Congelado y Fresco - enfriado, además de los recursos autorizados por la resolución antes citada, los siguientes recursos hidrobiológicos: Anchoveta, Atún aleta larga, Atún aleta amarilla, Bacalao de Juan Fernández o Salmón de roca, Blanquillo, Bonito, Breca - Palometa, Caballa Cojinoba del Norte, Lenguado ojos chicos, Lisa, Marrajo o tiburón, Merluza del Sur, Raya, Róbalo, Sardina común, Sardina española, Pulpo, Pejerrey, Tiburón sardinero, Azulejo, Jaiba mora, Jaiba peluda, Jaiba reina, Centolla, Centollón, Calamar, Caracol locate, Caracol trumulco, Almeja, Chorito, Choro zapato, Cholga, Loco, Lapa, Macha, Navajuela, Langostino amarillo, Langostino colorado y Erizo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades. de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 03 de Noviembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
