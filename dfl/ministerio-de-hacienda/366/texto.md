@@ -1,0 +1,1 @@
+El D.F.L. que llevaba este número fué publicado en el "Diario Oficial" N° 22.615, de 5 de agosto de 1953. No obstante, su publicación y, por lo tanto, el D.F.L. mismo, carece de valor legal por cuanto se publicó sin que se hubiera tomado razón por la Contraloría General. (Véase "Diario Oficial" N° 22.621, de 12 de agosto de 1953).
