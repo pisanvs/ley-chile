@@ -1,0 +1,5 @@
+AUTORIZA A EMPRESA PESQUERA CHRIS LTDA., PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 997, de 26 de Diciembre de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Empresa Pesquera Chris Ltda., para iniciar actividades pesqueras extractivas con la embarcación "Carlos Darwin", en el litoral comprendido entre las Regiones IV y VIII, en el de las islas San Félix y San Ambrosio, Sala y Gómez, Pascua y Archipiélago de Juan Fernández. Podrá extraer los siguientes recursos hidrobiológicos: corvina jurel, lenguado ojos grandes, sierra, rollo, vidriola, merluza com£n, camarón nylon, langostino amarillo y colorado, gamba, congrio colorado, dorado y negro, albacora, atún, langosta, pulpo y anguila.
+
+Valparaíso, 26 de Diciembre de 1986.- Roberto Cabezas Bello, Subsecretario
