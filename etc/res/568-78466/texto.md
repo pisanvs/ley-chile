@@ -1,0 +1,3 @@
+Por Resolución 568, de 17 de Junio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, otórgase un nuevo plazo de 30 días a contar de la fecha de esta Resolución, para que la interesada proceda a la publicación del extracto de la Resolución No.1149,de 1991, de esta Subsecretaría, que autorizó a SCAMAR CHILENA S.A., RUT No.79.740.980-4, domiciliada en Avenida Pedro de Valdivia No.0200, Piso 6°,Santiago, para iniciar actividades pesqueras, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 17 de Junio de 1992 Andrés Couve Rioseco, Subsecretario de Pesca.
