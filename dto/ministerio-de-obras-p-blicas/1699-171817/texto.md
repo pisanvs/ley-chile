@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.699, de 28 de abril del 2000, se expropió el lote de terreno Nº 259, superficie 1.020 m2., rol de avalúo 99-28, comuna de La Ligua, para la obra Camino Ruta 5 Norte Tramo Santiago-Los Vilos, Quinta Región y se acordó el valor de indemnización con sus propietarios Humberto del Carmen Fernández Mondaca y otro, ascendente a la cantidad de $18.554.026.-
+
+Fiscal del Ministerio de Obras Públicas.
