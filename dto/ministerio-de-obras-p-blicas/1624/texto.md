@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.624, de 21 de septiembre de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº27, para la obra Camino Santiago-Colina-Los Andes, Sector "A" A. Vespucio-By Pass Colina Km.
+
+0.504,10 al 4.758,40, Región Metropolitana, que figura a nombre de Soc. Const. La Turbina Ltda., rol de avalúo 118-218, comuna de Quilicura, superficie 2.839,2 m². La Comisión de Peritos integrada por los señores Paola Andrea Domingo Porcella, Carmen Pilar Ríos Marcuello y Andrés Echeverría Campo, fijó con fecha 10 de junio de 1998, el valor provisional de las indemnizaciones en la cantidad de $54.862.760.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
