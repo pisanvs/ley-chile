@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 547, de fecha 31 de marzo de 2004, se expropió el lote de terreno Nº 16, superficie 343 m², rol de avalúo Nº 418-50, comuna de Loncoche, para la obra "Reposición Construcción y Habilitación de Caminos para Vialidad Complementaria Concesión Internacional Ruta 5 Sur, Tramo Temuco Río Bueno Puerto Montt, Camino Collimallin", IX Región y se acordó el valor de la indemnización con su propietaria Yesika Jacqueline Navarro Silva, ascendente a la cantidad de $670.555.
+
+Fiscal del Ministerio de Obras Públicas.
