@@ -4,19 +4,19 @@ Por cuanto el Congreso Nacional ha dado su aprobación al siguiente
 
 Proyecto de ley:
 
-#### Artículo 1
+#### Artículo 1°
 
-o- Las cuentas de ahorro a plazo abiertas en el Banco del Estado de Chile, se reajustarán anualmente, en un porcentaje no inferior al 75% ni superior al 100% del promedio de la variación que en dicho período experimenten los índices de precios al consumidor y de sueldos y salarios, del departamento de Santiago, que determine la Dirección General de Estadística y Censos.
+Las cuentas de ahorro a plazo abiertas en el Banco del Estado de Chile, se reajustarán una vez al año en un porcentaje equivalente al 100% de la variación que tenga el índice de precios al consumidor del departamento de Santiago, que determina la Dirección General de Estadística y Censos, entre las fechas de su último reajuste anterior y el que corresponda efectuar.
 
-El cálculo del reajuste y su capitalización en la cuenta respectiva, se efectuarán en el mes de Diciembre de cada año, aplicando el porcentaje de variación experimentado entre los meses de Noviembre del año anterior y Octubre del año en que se efectúe dicha capitalización, ambos meses inclusive.
+El cálculo del reajuste y su capitalización en la cuenta respectiva se efectuará una vez al año en la forma, condiciones y plazos que determine el Directorio del Banco del Estado de Chile, con aprobación de la Comisión Nacional del Ahorro.
 
 Tendrán derecho a reajuste sobre el total del depósito aquellas cuentas cuyos saldos diarios sean iguales o inferiores a 1 1/2 sueldos vitales anuales del departamento de Santiago; en las cuentas cuyos saldos diarios sean superiores a 1 1/2 sueldos vitales anuales del departamento de Santiago, el reajuste sólo se aplicará hasta ese monto no gozando del derecho las sumas que excedan de dicho límite.
 
 Para los efectos previstos en el inciso precedente, en los casos de personas naturales o jurídicas que mantengan más de una cuenta de ahorro a plazo, el reajuste respectivo se calculará tomando en consideración la suma de los saldos de todas sus cuentas.
 
-El monto del reajuste adicionará el saldo de la cuenta respectiva y con él se abrirán los libros para el período siguiente.
+El monto del reajuste adicionará el saldo de la cuenta respectiva.
 
-Las cantidades que gocen de reajuste en conformidad a lo dispuesto en este artículo, devengarán un interés de hasta de un 4 % anual; sobre el saldo del depósito no reajustado, se abonará el interés normal del depósito.
+Las cantidades que gocen de reajuste según lo dispuesto en este artículo devengarán el interés que determine el Directorio del Banco del Estado de Chile con aprobación de la Comisión Nacional del Ahorro. Sobre el saldo del depósito no reajustado se abonará el interés normal del depósito.
 
 Se imputará al reajuste de este artículo, lo que corresponda abonar como bonificación sobre la suma reajustable al tenor del artículo 4.o del DFL. número 251, de 1960.
 
