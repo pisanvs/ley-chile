@@ -1,0 +1,3 @@
+Por decreto MOP. (Exento) Nº 156 de fecha 25 de febrero del 2002, se expropiaron los lotes de terreno Nº 9-A y 10-A, superficies 905 y 1.612 m2, Rol de Avalúo Nº 591-44 y 591-45, comuna de Yungay, para la obra "Area de Riego Yungay, Canal Huencheco faja Adicional Km. 1,523 al Km. 3,632.36, del Proyecto Laja Diguillín", VIII Región y se acordó el valor de indemnización con su propietario Manfredo Fernando Cofre Vega ascendente a la cantidad de $1.258.442.
+
+- Fiscal del Ministerio de Obras Públicas.
