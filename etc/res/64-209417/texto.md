@@ -1,0 +1,3 @@
+Por resolución N° 64, de Agosto 13 de 1981, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IV- Región de Coquimbo, se autoriza a don Manuel Antonio Avila Avila para efectuar todo tipo de servicios de transporte de pasajeros por calles y caminos, dentro del territorio nacional, a excepción de los servicios públicos urbanos de locomoción colectiva de pasajeros.-
+
+Gustavo García Mujica, Secretario Regional Ministerial de Transportes y Telecomunicaciones IV-Región-Coquimbo.
