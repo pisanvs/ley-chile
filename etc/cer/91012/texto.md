@@ -1,0 +1,3 @@
+El Banco Central de Chile, certifica en conformidad a lo dispuesto en la letra b) del No. 2 del Artículo 1° de la Ley No. 18.653, publicada en el Diario Oficial de 03 de Octubre de 1987, modificatoria de la Ley No. 18.480 que el Indice de Precios Promedio Relevante para el Comercio Exterior de Chile en 1989 (Base: Promedio años 1983 y 1984 = 100) fue de 133.319.
+
+Santiago, 07 de Febrero de 1990.- Víctor Vial del Río, Secretario General Interino.
