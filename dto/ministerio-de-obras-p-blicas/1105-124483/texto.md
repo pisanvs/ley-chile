@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.105, de 30 de julio de 1998, se expropió el lote de terreno No. 51, superficie 12.513 m², Rol de Avalúo No. 620-7, comuna de Tomé, para la obra Camino Acceso Norte a Concepción, Ramal Colector, sector Rafael - Agua Amarilla, Km. 9.980,00 al Km. 13.620,00, y se acordó precio de la indemnización con su propietario María Gladys Parra Montero, ascendente a la cantidad de $ 2.620.491 para el lote No. 51.
+
+- Fiscal del Ministerio de Obras Públicas.
