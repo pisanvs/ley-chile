@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 1.035, de 29 de noviembre de 1996, se expropian los lotes de terreno Nºs. 35 y 37, de terreno, superficies 12.475 y 1.692 m2., rol de avalúo 529-79, comuna de Cauquenes, para la obra Camino Cauquenes Límite Regional Quirihue, sector cuesta y se acordó precio de la indemnización con su propietario, Pedro Pinto Casanova, ascendente a la cantidad de $2.158.490.
+
+Fiscal del Ministerio de Obras Públicas
