@@ -1,0 +1,7 @@
+AUTORIZA A AGROINDUSTRIAL SANTA CRUZ S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 620 de 24 de Junio de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Agroindustrial Santa Cruz S.A., domiciliada en Santiago, para iniciar actividades pesqueras, en orden a operar una planta industrial en la X Región, ubicada en camino a Chinquihue, Km. 12, Comuna de Puerto Montt, donde procesará en las lineas de elaboración de congelado y fresco - enfriado, los siguientes recursos hidrobiológicos: Anchoa, Bacalao de profundidad o Mero, Bonito, Cojinova del Norte, Cojinova del Sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Lenguado de ojos chicos, Lenguado de ojos grandes, Lisa, Merluza común, Merluza del Sur, Merluza de cola Pejerrey de mar, Raya, Róbalo, Salmón del Atlántico, Sardina común, Sierra, Tollo, Trucha arco iris, Almeja o taca, Almeja, Calamar, Caracol tegula, Caracol locate, Caracol trumulco, Cholga, Chorito, Choro, Culengue, Lapa, Loco, Macha, Navajuela, Ostión del Sur, Ostra chilena, Ostra del Pacífico, Pulpo, Camarón de roca, Camarón nailón, Centolla, Centollón, Jaiba, Picoroco, Erizo y Piure. Deberá adquirir los recursos Salmón, Trucha y Ostra del Pacífico de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 24 de Junio de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
