@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.169 de fecha 31 de julio del 2001, se expropiaron los lotes de terreno Nº 37, 40 y 41, superficies 5.695,2, 13.839,3 y 5.890 m², respectivamente, rol de Avalúo Nº 178-32, comuna de Chonchi, para la obra ''Camino Ruta 5, Sector Chonchi - Tara, Km. 1.205,160 a Km. 1.215,004, Provincia de Chiloé'' y se acordó el valor de indemnización con su propietaria Teresa del Carmen Bórquez Vera y Otros, ascendente a la cantidad de $9.960.432.
+
+Fiscal del Ministerio de Obras Públicas.
