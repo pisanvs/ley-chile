@@ -1,0 +1,5 @@
+Alcalde I. Municipalidad de Conchalí, mediante Decreto Exento N° 484 de 12.11.93, dispongo expropiación parcial, conforme a D.F.L. 458 de 1976 MINVU Ley General de Urbanismo y Construcciones, Decreto Exento N° 556 de 07.11.82, ratificado por Decreto 73 de 03.05.83. MINVU, D.L. 2186 de 1978 y Art. 19° N°24 de la Constitución Política, de inmueble ubicado en Avda. Independencia N° 3343-3361, Rol de Avalúo 2211-003, de propiedad de Moisés Matus Fernández, para ensanchar la Avda. Independencia de acuerdo al Plan Regulador vigente e implementar el Proyecto del Centro Cívico Cultural de Conchalí. Deslindes parte expropiada: Al Norte: 4,5 Mts. con predio Rol 2214-13, al Sur: 11 Mts. con predio Rol 2211-2; al Oriente: 16,9 Mts. con resto del predio y al Poniente: 18,2 Mts. con Avda. Independencia.
+
+Indemnización provisional: $ 7.200.000.- pagadera de contado.
+
+Carlos Sottolochio Urquiza, Alcalde. Graciela Varas Arriaza, Secretaria Municipal.
