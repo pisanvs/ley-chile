@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.510, de 31 de mayo de 1999, se expropió el lote de terreno Nº8, superficie 6.476 m², rol de avalúo 167-100, comuna de Maule, para la obra Ruta 5 Tramo Talca-Chillán, Calle de Servicio Sector Talca Sur-Unihue y Pirque-Unihue, Séptima Región, y se acordó el valor de indemnización con sus propietarios Héctor Manuel García Tapia y Otro, ascendente a la cantidad de $57.169.882.-
+
+Fiscal del Ministerio de Obras Públicas.
