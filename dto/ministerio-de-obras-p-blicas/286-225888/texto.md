@@ -1,0 +1,3 @@
+Por decreto MOP Nº 286 de fecha 31 de marzo del 2004, se expropió el lote de terreno Nº 28, superficie 101 m2, Rol Nº 1372-12, comuna de Antofagasta, II Región para la obra "Mejoramiento Av. Salvador Allende, Tramo Avda. Circunvalación Avda. Sarmiento" y se acordó el valor de indemnización con su propietaria Ana Rosa Jara Aranda y otros, ascendente a la cantidad de $8.208.360.
+
+- Fiscal del Ministerio de Obras Públicas.
