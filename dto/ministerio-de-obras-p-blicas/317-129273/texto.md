@@ -1,0 +1,5 @@
+Por Decreto M.O.P. No. 317 de 22.11.88 y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. No. 294, de 1984, que fijó el texto actualizado de la Ley No.
+
+15.840, se expropió el lote de terreno No. 2, para la obra Agua Potable de Cauquenes, Mejoramiento de Servicio, que figura a nombre de la Cooperativa Vitivinícola de Cauquenes, rol de avalúo 426-1, comuna de Cauquenes, superficie 5.051 M2. Deslinde: Norte: Río Cauquenes; Sur: Con resto del predio afectado con la expropiación; Oriente, calle C. Urrutia, y Poniente: Lote 4. La Comisión de Peritos compuesta por los señores Carlos Sottolichio Díaz, Iván Correa Opazo y Arnoldo Sánchez Muñoz, fijó con fecha 26.08.88, el valor provisional de la indemnización en $ 808.160. La indemnización se pagar al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del DL No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
