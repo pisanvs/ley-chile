@@ -1,0 +1,21 @@
+RECONOCE, POR GRACIA, TIEMPO SERVIDO POR DOÑA DIOSELINA ORTEGA LEON
+
+Santiago, 9 de Enero de 1980.- Hoy se decretó lo que sigue:
+
+Núm. 3.140.- Visto: Lo dispuesto en los decretos leyes N.os 1 y 128, de 1973; Nº 527, de 1974, y Nº 991, de 1976, y
+
+Considerando: El informe favorable de la Comisión Especial de Beneficios por Gracia, creada por decreto supremo de Interior Nº 1.702, de 27 de Noviembre de 1973.
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo único
+
+Reconócese, por gracia, a doña Dioselina Ortega León, para todos los efectos legales y en especial para su jubilación el tiempo servido entre el 26 de Abril y el 22 de Mayo de 1951; desde el 3 de Junio al 1º de Noviembre de 1951; entre el 14 de Diciembre de 1951 y el 31 de Marzo de 1952; desde el 16 de Junio al 13 de Octubre de 1952 y entre el 16 de Octubre de 1952 y el 14 de Abril de 1953.
+
+Las imposiciones correspondientes a dichos períodos serán de cargo de la interesada y la Caja Nacional de Empleados Públicos y Periodistas procederá a recibirlas.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio Fernández Fernández, Ministro del Interior.
+
+Lo que transcribo a Ud., para su conocimiento.- Saluda a Ud.- Juan Ignacio García Rodríguez, Subsecretario del Interior subrogante.
