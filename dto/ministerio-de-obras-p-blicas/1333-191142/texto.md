@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.333, de 31 de agosto del 2001, se expropió el lote de terreno Nº 21, superficie 3.977 m², rol de avalúo 107-20, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Región Metropolitana y se acordó el valor de indemnización con su propietario Bruno Bonora Bonora, ascendente a la cantidad de $16.716.209.-
+
+Fiscal del Ministerio de Obras Públicas.
