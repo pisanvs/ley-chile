@@ -1,0 +1,3 @@
+Por resolución Nº497, de 8 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº96022002, presentada por CLAUDIA ALEJANDRA GOMEZ VALDES, para operar un centro de cultivo en Punta Choros, Bahía de Mejillones, comuna de Mejillones, provincia de Antofagasta, II Región, conforme lo dispuesto en el artículo 14º del D.S. Nº290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 8 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
