@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°357, de 27 de noviembre de 1992, se expropiaron los lotes de terreno N°s. 10, 11 y 12, superficies 50.110 m2., 19.075 m2. y 50.293 m2., respectivamente, roles de avalúos 9049-6 y 9049-8, Comuna de San Antonio, para la obra Camino Santiago-San Antonio, sector Puangue Leyda y se acordó el valor de indemnización con sus propietarios Agrícola El Ermitaño Limitada y Silvia Silva Beiza, ascendente a las cantidades de $26.971.172 y $31.302.566.-
+
+Fiscal del Ministerio de Obras Públicas.
