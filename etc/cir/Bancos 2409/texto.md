@@ -1160,7 +1160,7 @@ En ningún caso el sistema de transferencia electrónica de fondos al cual esté
 
 4.- Contabilización de las operaciones efectuadas en horario especial.
 
-Para efectos de su contabilización, los giros, depósitos, pagos y toda otra transferencia electrónica de fondos efectuada con posterioridad a las 14:00 horas, como asimismo aquellas realizadas en días sábado, domingo y festivos, deberán quedar registradas en el día hábil bancario siguiente, sin perjuicio de las prelaciones que deben seguirse en las imputaciones a las cuentas de los clientes de las cuales se giran o a las cuales se transfieren fondos.
+Para efectos de su contabilización, los giros, depósitos, pagos y toda otra transferencia electrónica de fondos efectuada con posterioridad a la hora de cierre del horario normal de atención de público (14:00 ó 16:00 horas) de la respectiva institución, como asimismo aquellas realizadas en días sábado, domingo y festivos, deberán quedar registradas en el día hábil bancario siguiente, sin perjuicio de las prelaciones que deben seguirse en las imputaciones a las cuentas de los clientes de las cuales se giran o a las cuales se transfieren fondos.
 
 CAPITULO 1-8 (Bancos y Financieras)
 
@@ -3306,17 +3306,11 @@ SISTEMA DE AHORRO Y FINANCIAMIENTO DE LA VIVIENDA.
 
 I.- SISTEMA GENERAL UNIFICADO DE SUBSIDIO HABITACIONAL.
 
-Este sistema, reglamentado por el Decreto Supremo N° 44 del Ministerio de Vivienda y Urbanismo, publicado en el Diario Oficial del 9 de abril de 1988, y sus modificaciones, en adelante "el Reglamento", permite postular a un subsidio estatal para financiar la construcción o la compra de una vivienda económica nueva o usada, urbana o rural, por un valor de hasta el equivalente de 1.500 ó 1.600 unidades de fomento, según la Región en que esté emplazada la vivienda. A dicho subsidio pueden postular las personas naturales que hayan enterado y mantenido con ese fin, en alguna de las instituciones que el Reglamento indica, un determinado ahorro mínimo durante un período preestablecido, siempre que no sean propietarias de una vivienda y cumplan con los demás requisitos exigidos por el Reglamento.
+Este sistema, reglamentado por el Decreto Supremo N° 44 del Ministerio de Vivienda y Urbanismo, publicado en el Diario Oficial del 9 de abril de 1988, y sus modificaciones, en adelante "el Reglamento", permite postular a un subsidio estatal para financiar la construcción o la compra de una vivienda económica nueva o usada, urbana o rural, hasta por el valor que establece el mencionado Reglamento. A dicho subsidio pueden postular las personas naturales que hayan enterado y mantenido con ese fin, en alguna de las instituciones que el Reglamento indica, un determinado ahorro mínimo durante un período preestablecido, siempre que no sean propietarias de una vivienda y cumplan con los demás requisitos exigidos por el Reglamento.
 
 El subsidio habitacional ofrecido por el Estado es sin cargo de restitución para el beneficiario, pero no puede destinarse a la adquisición o construcción de viviendas de recreación o veraneo, ni a la adquisición de una vivienda a través de los mecanismos contemplados en el D.L. N° 1.519 de 1976, sobre Impuesto Habitacional.
 
-Es requisito imprescindible para postular a ese subsidio, haber enterado el ahorro previo en alguna de las siguientes cuentas:
-
-- **a)** cuenta de ahorro a plazo para la vivienda abierta en una institución financiera;
-
-- **b)** cuenta de ahorro para arrendamiento de vivienda con promesa de compra venta regida por la Ley N° 19.281, mantenida en una institución financiera o en una Caja de Compensación; o,
-
-- **c)** cuenta de ahorro mantenida en la respectiva Administradora de Fondos de Pensiones o en un Servicio de Bienestar Social. Además, el ahorro puede enterarse en la forma de aporte de capital en una cooperativa abierta de vivienda.
+Es requisito para postular a ese subsidio, haber enterado el ahorro previo en una cuenta de ahorro a plazo para la vivienda o en una cuenta de ahorro para arrendamiento de vivienda con promesa de compraventa regida por la Ley N° 19.281. Esas cuentas deberán mantenerse en una institución financiera o en alguna de las otras instituciones que para el efecto señala el Reglamento.
 
 Las instituciones financieras depositarías de los ahorros para las postulaciones al subsidio de que se trata, deben atenerse a las instrucciones del título II de este Capítulo.
 
@@ -3340,7 +3334,7 @@ La apertura de estas cuentas implica para una institución financiera asumir la 
 
 1.2.- Declaración jurada.
 
-Debido a que una misma persona no puede tener más de una cuenta para postular al sistema de subsidio de que se trata, los interesa dos en abrir una cuenta con esa finalidad deberán suscribir una declaración jurada simple, en el sentido de que no mantienen una "Cuenta de ahorro a plazo para la vivienda" en otra institución financiera, ni un contrato de ahorro que contenga cláusulas que permitan postular a ese subsidio mediante una "Cuenta de ahorro para arrendamiento de viviendas con promesa de compraventa", sea en un banco, sociedad financiera o caja de compensación.
+Debido a que una misma persona no puede tener más de una cuenta para postular al sistema de subsidio de que se trata, los interesa dos en abrir una cuenta con esa finalidad deberán suscribir una declaración jurada simple, en el sentido de que no mantienen una "Cuenta de ahorro a plazo para la vivienda" en otra institución, ni un contrato de ahorro que contenga cláusulas que permitan postular a ese subsidio mediante una "Cuenta de ahorro para arrendamiento de viviendas con promesa de compraventa", sea en un banco, sociedad financiera o caja de compensación.
 
 Además, en dicha declaración jurada el interesado indicará que nunca ha hecho uso de ese sistema de financiamiento fiscal, como tampoco del subsidio para arrendamiento con promesa de compraventa de que trata el D.S. N° 120, de 1995, del Ministerio de Vivienda y Urbanismo, salvo en los casos de excepción que contempla el Reglamento.
 
@@ -3386,13 +3380,13 @@ e) La obligación del banco o sociedad financiera depositaría, de entregar a so
 
 f) La opción del ahorrante de modificar el contrato de ahorro.
 
-g) Facultad del ahorrante de traspasar a otra institución financiera el saldo total de ahorro acumulado, conforme a las disposiciones contenidas en el presente Capítulo.
+g) Facultad del ahorrante de traspasar a otra institución financiera u otra entidad autorizada para recibirlos el saldo total de ahorro acumulado, conforme a las disposiciones contenidas en el presente Capítulo.
 
 h) En caso de que el titular de la cuenta contrate un seguro de vida asociado a la cuenta de ahorro según lo previsto en el N° 4 del Capítulo III.E.3 del Compendio de Normas Financieras del Banco Central de Chile, deberá dejarse constancia del nombré del beneficiario del seguro y estipularse la facultad del banco para cerrar la cuenta en caso de fallecimiento del titular, manteniendo los fondos acumulados a título de herencia del causante, y para detraer de los fondos de la cuenta de ahorro los importes correspondientes a las primas del seguro para enterarlas en las oportunidades contratadas con la respectiva compañía aséguradora.
 
 De la modificación de cualquiera de esas cláusulas especiales que en cada caso se acuerden, deberá dejarse expresa constancia tanto en la hoja original del contrato, como en el ejemplar que se entrega al ahorrante, debiendo cuidarse de anotar en forma detallada la cláusula modificada y la fecha en que se perfeccionó el cambio.
 
-Para postular al subsidio, el plazo de antigüedad o de permanencia de los ahorros no podrá ser inferior a 18 meses calendario completos, los que se contarán a partir del día 1° del mes siguiente al de la fecha en que se pacten las condiciones antes mencionadas o en que se realice el primer depósito en la cuenta, si esta última fuere posterior. Los plazos que se pacten por períodos superiores a ese mínimo deberán ser lo, en todo caso, siempre en un número total de meses que sea múltiplo de seis, a fin de poder determinar períodos semestrales completos.
+Para postular al subsidio, el plazo de antigüedad o de permanencia de los ahorros no podrá ser inferior a 18 meses calendario completos, los que se contarán a partir del día 1° del mes siguiente al de la fecha en que se pacten las condiciones antes mencionadas o en que se realice el primer depósito en la cuenta, si esta última fuere posterior. Los plazos que se pacten por períodos superiores a ese mínimo deberán ser lo, en todo caso, siempre en un número total de meses que sea múltiplo de seis, a fin de poder determinar períodos semestrales completos. No obstante, también se podrá postular con una permanencia mínima de 12 meses, siempre que el postulante haya completado el total del ahorro pactado, sin que sea necesario modificar el contrato de ahorro.
 
 3.- Registro de los titulares y control del cumplimiento del plan de ahorro.
 
@@ -18270,15 +18264,9 @@ MATERIA:
 
 LIMITE DE INVERSIONES EN LETRAS DE CREDITO DE PROPIA EMISION.
 
-De acuerdo con lo dispuesto en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras pueden invertir en instrumentos de propia emisión hasta una suma equivalente al 50% del capital básico de la institución.
+De acuerdo con lo dispuesto en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras pueden adquirir letras de crédito de su propia emisión hasta por el 5% del monto total de sus emisiones. No obstante, podrán exceder dicho límite siempre que tales adquisiciones no sobrepasen del 50% de su respectivo capital básico.
 
-No obstante, se permite que las instituciones financieras excedan ese 50%, siempre que no sobrepasen el 100% del capital básico, cuando el exceso corresponda a la adquisición de letras de crédito destinadas a financiar operaciones hipotecarias que hayan tenido por objeto pagar anticipadamente otras obligaciones hipotecarias cuya finalidad hubiera sido el financiamiento de viviendas.
-
-Para verificar el cumplimiento de límites de que se trata, se computará el valor de los instrumentos registrados en el activo, considerando los ajustes a su valor de mercado, de acuerdo con las instrucciones contables del Capítulo 8-21 de esta Recopilación.
-
-El capital básico para estos efectos, corresponderá al monto conformado por el capital pagado, las reservas y las demás cuentas patrimoniales que, de acuerdo a las instrucciones contables de esta Superintendencia, deben incluirse en las partidas 43 05 a 4405, deducido el capital asignado a las sucursales en el exterior.
-
-Las instituciones financieras que al 4 de noviembre de 1997, fecha de publicación de la Ley N° 19.528, hubieran computado bonos subordinados como capital y reservas, de acuerdo con las disposiciones legales entonces vigentes, podrán agregar al capital básico para los efectos de que trata este Capítulo y hasta el 31 de diciembre de 2000, el importe de esos bonos subordinados que corresponda, conforme a esas disposiciones.
+Para verificar el cumplimiento del límite de que se trata, se computará el valor par de los instrumentos de propia emisión que se mantengan.
 
 CAPITULO 12-12 (Bancos y Financieras) MATERIA:
 
