@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Por resolución Nº 15, de 1º de marzo de 1999, Serviu II Región dispuso conforme D.L. 2.186 de 1978 y para ejecución proyecto ''Mejoramiento Eje San Martín e Iquique - Antofagasta", expropiación parcial del inmueble ubicado en calle Iquique Nº3703, rol de avalúo Nº1158-29, comuna de Antofagasta, superficie 87,20 m2., de aparente dominio de don Antonio Armando Jachura Quiquincha, según inscripción fs. 1695, Nº2972, año 1991, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión Tasadora integrada por peritos: Sr. Alejandro Bargsted Barcells, Sra. Eleonora Román Latorre, Arquitectos; y Sr. Héctor Villegas González, Constructor Civil, según informe de 22 de febrero de 1999, fijó monto provisional indemnización en $53.067.174.- pagadera al contado.
+
+Director Serviu II Región.
