@@ -1,0 +1,3 @@
+Por decreto MOP Nº255, de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº37, superficie 243 m2., rol de avalúo 221-28, comuna de Coelemu, para la obra "Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 a Km. 8,28000", VIII Región y se acordó el valor de indemnización con su propietario Pedro Segundo Gómez Godoy, ascendente a la cantidad de $4.801.371.
+
+- Fiscal del Ministerio de Obras Públicas.
