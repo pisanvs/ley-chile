@@ -1,0 +1,3 @@
+Por decreto MOP Nº 946, de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº 3, superficie 5.752 m2, rol Nº 286-00046, comuna de Los Vilos, para la obra "Construcción Puente sobre Río Quilimarí y Accesos, sector Quilimarí, km. 0,0000 a 0,98350", IV Región y se acordó el valor de la indemnización con su propietario Idualdo Riquelme Fierro, ascendente a la cantidad de
+
+$18.188.709.- Fiscal del Ministerio de Obras Públicas.
