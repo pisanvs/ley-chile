@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.574, de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº 106, superficie 456,00 m2, Rol Nº 516-131, comuna de Río Bueno, X Región para la obra ''Camino Río Bueno - Crucero, Rol T-90-U y T-933, Km. 0,00000 al 20,90000, (II parte)'' y se acordó el valor de indemnización con su propietario Delia Andrade Oyarzún, ascendente a la cantidad de $709.744.-
+
+Fiscal del Ministerio de Obras Públicas.
