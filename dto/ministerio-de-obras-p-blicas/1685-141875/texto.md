@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.685, de 24 de junio de 1999, se expropió el lote de terreno No. 405, superficie 2.530,0 mý, rol de avalúo 290-68, comuna de Los Lagos, para la obra "Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno", Décima Región y se acordó el valor de indemnización con su propietaria Herta Basaul Leiva, ascendente a la cantidad de $ 1.275.446.-
+
+Fiscal del Ministerio de Obras Públicas.
