@@ -1,0 +1,3 @@
+Por Resolución Nº 1.579, de 18 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución Nº 648 de 1987 de esta Subsecretaría, que autorizó a SOCIEDAD INDUSTRIAL PESQUERA MC HUGH Y CIA. LTDA., por no haber operado sobre las unidades de pesquería autorizadas en el plazo indicado en la Resolución Nº 410, de 1997, configurándose la causal de caducidad del artículo 143 letra b).
+
+Valparaíso, 18 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
