@@ -1,0 +1,5 @@
+DESIGNA SECRETARIOS, TITULAR Y SUPLENTE, EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAICES DE LA SEGUNDA SERIE DE ANTOFAGASTA Y RANCAGUA
+
+En virtud de lo dispuesto en el artículo 121 del Código Tributario se ha dictado la resolución Nº430 de 15 de noviembre de 2001, designando, a don Sergio Soto Quiroga, como Secretario Titular y a don David Parada Aliaga, como Secretario Suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Antofagasta y a doña Nora Narbona Palma como Secretario Titular y a don Luis Aguilar Zúñiga, como Secretario Suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Rancagua.-
+
+Gina Anastasov Aguilera, Secretaria General.
