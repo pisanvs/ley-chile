@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.977, de fecha 31 de octubre de 2000, se expropiaron los lotes de terrenos Nºs 1, 5, 1-A, superficie 618, 105, 1.094 m2, respectivamente, Rol de avalúo 233-174 comuna de Rengo, para la obra ''Camino Acceso Norte a Puente Lo Cartagena, Km. 3.010 a Km. 4.776'' y se acordó el valor de indemnización con su propietario Julio Hernán Valenzuela Salas, ascendente a la cantidad de $5.378.123.-
+
+Fiscal del Ministerio de Obras Públicas.
