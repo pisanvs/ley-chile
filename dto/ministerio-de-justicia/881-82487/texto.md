@@ -1,0 +1,3 @@
+RECTIFICACION
+
+En la edición del Diario Oficial No. 33.746 de 16 de Agosto de 1990, se publicó Decreto No. 881, que concede Personalidad Jurídica y Aprueba Estatutos a "Club de Pesca y Caza Los Picunches de Temuco", con el error que se salva a continuación: página seis, primera columna, donde dice "Santiago, 10 de Agosto de 1990.- Hoy se decretó lo que sigue:" debe decir "Santiago, 10 de Agosto de 1989.- Hoy se decretó lo que sigue:".
