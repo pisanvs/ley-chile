@@ -1,0 +1,11 @@
+Provision de empleos públicos
+
+Excmo. Señor:
+
+El Senado pasa a V.E. el adjunto acuerdo para que, no habiendo inconveniente, se sirva decretar su publicacion i cumplimiento.
+
+Dios guarde a V.E. muchos años. Sala del Senado i Julio 11 de 1821.- Juan Agustin Alcalde.- José María, Villarreal, secretario.- Excmo. Señor Supremo Director de la República.
+
+En la sesion estraordinaria del dia once de Julio del presente año de mil ochocientos veintiun años determinó S.E. que para cortar abusos i evitar los recursos de muchos pretendientes que aspiran a empleos de Hacienda alegando méritos i aptitud que no pocas veces consiste en la esposicion de los solicitantes, causando con esto grave perjuicio, en el rápido despacho que deben tener los grandes negocios del Estado; ha tenido a bien declarar S.E. que para lo futuro todo empleo de jefe de oficina se provea por el Excmo. Supremo Director, con arreglo a lo dispuesto en la Constitucion; i las plazas vacantes subalternas se llenen por otros de la misma oficina, con la calidad de que hayan servido a mérito cuatro meses, i los que pasados hayan igualmente merecido entrar como meritantes por otros cuatro meses con medio sueldo i con título en forma espedido a peticion de los jefes, i previo su informe; para que de este modo empeñándose por una parte los que sirven en adquirir los mejores conocimientos de las respectivas oficinas para hacerse acreedores a mejor colocacion, se evite por otra que con perjuicio de los empleados se ocupen las plazas por personas que no han prestado servicio alguno en las oficinas; i mandando S.E. se pasara copia de este acuerdo al Excmo. Señor Supremo Director para la publicacion i su debido cumplimiento, firmaron los señores con el infrascrito secretario.- Juan Agustin Alcaide.- José María Rozas.- José Ignacio Cienfuegos.- Francisco de Borja Fontecilla.- Francisco Antonio Pérez.- José María Villarreal, secretario.
+
+Santiago, Julio 12 de 1821.- Conformado.- Tómese razon, imprímase i circúlese.- O'Higgins.- Dr. Rodríguez.
