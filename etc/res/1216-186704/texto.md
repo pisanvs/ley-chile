@@ -1,0 +1,3 @@
+Por resolución Nº 1.216, de 14 de junio de 2001, de esta Subsecretaría, declárase la caducidad de la resolución Nº 145 de 1981, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA GALEB LTDA. para realizar actividades con la nave "Punta del Este", en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 14 de junio de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
