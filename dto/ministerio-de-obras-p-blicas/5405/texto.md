@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.405, de 29 de diciembre del 2000, se expropió el lote de terreno Nº109-A, superficie 1.237 m2., rol de avalúo 65-116, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector K, Séptima Región y se acordó el valor de indemnización con su propietario Luis Armando Cubillo Herrera, ascendente a la cantidad de $4.172.991.-
+
+Fiscal del Ministerio de Obras Públicas.
