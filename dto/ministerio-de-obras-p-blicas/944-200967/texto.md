@@ -1,0 +1,3 @@
+Por decreto MOP Nº944 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº13-K superficie 4.689 m², rol de avalúo Nº160-512, comuna de Petorca, para la obra ''Ruta E-37-D, Sector Pedegua - Palquico Km. 0,000 a Km. 14,000'', V Región y se acordó el valor de indemnización con su propietario Sociedad Huertos Santa Julia Limitada, ascendente a la cantidad de $6.838.182.-
+
+Fiscal del Ministerio de Obras Públicas.
