@@ -1,0 +1,3 @@
+Por decreto MOP Nº711 de fecha 31 de mayo del 2001, se expropiaron los lotes de terreno Nºs 77, 78, 81, superficie 974,0, 1.788, 168,0 m², respectivamente, rol de avalúo 611-53, comuna de Nueva Imperial, para la obra "Camino Ruta S-16, Sector Galvarino-Chol Chol, Tramo Km. 0,00000 al Km. 24,30269", correspondiente al Subtramo III Km. 14,667 al Km. 24,307" y se acordó el valor de indemnización con su propietario Federico Patricio Magofke Garbarini, ascendente a la cantidad de $1.073.111.-
+
+Fiscal del Ministerio de Obras Públicas.
