@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.350, de 7 de octubre de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Punta Bucalemu, V Región, individualizada en el artículo 1º, Nº 4 del DS Nº 713 de 2000, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES MARISCADORES ALGUERAS PLAYA MOSTAZAL DE SANTO DOMINGO.
+
+Valparaíso, 7 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
