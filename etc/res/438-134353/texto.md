@@ -1,0 +1,3 @@
+Por resolución Nº 438, de 25 de marzo de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.524 de 1996, de esta Subsecretaría, que autorizó a PESQUERA HUMBOLDT Y COMPAÑIA LIMITADA, para ampliar actividades pesqueras con la nave en construcción denominada ''Lenguado'', en el litoral de las Regiones III y IV, respecto de los recursos Anchoveta, Cojinoba del norte, Jurel, Palometa y Sardina común.
+
+Valparaíso, 25 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
