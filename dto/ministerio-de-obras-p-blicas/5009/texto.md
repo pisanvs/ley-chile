@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.009, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº5, superficie 608 m², rol de avalúo 1100-11, comuna de Quillón, para la obra ''Camino Ruta 5-Ruta 148, Sector Balsa Liucura, Km. 0,00000 a Km. 0,39000'' y se acordó el valor de indemnización con su propietario Julio Antonio Beyzaga Avendaño, ascendente a la cantidad de $191.207.
+
+Fiscal del Ministerio de Obras Públicas.
