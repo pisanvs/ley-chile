@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 549 de 08 de Abril de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas N°s. 1 a la 6, 9 a la 32, sitios N°s. 1 al 17 y Reservas CORA N°s. 1A, 1B, 2 y 3 del Proyecto de Parcelación "Casas de Quilpué" formado por predio "Hijuela Las Casas de Quilpué". Los derechos de agua se extraen del Canal Quilpué, Canal Herrera, Canal Encón, Estero San Francisco, Derrames del Fundo Jahuel. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
