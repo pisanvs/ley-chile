@@ -218,7 +218,7 @@ Deróganse los decretos supremos del Ministerio de Justicia números 59 y 117, d
 
 #### Artículo transitorio
 
-Mientras se instalan los Juzgados Décimo Octavo al Vigésimo Sexto, la competencia territorial de esos tribunales será ejercida en la forma siguiente: la del Décimo Octavo por el Duodécimo; la del Décimo Noveno por el Décimo; la del Vigésimo por el Quinto; la del Vigésimo Primero por el Sexto; la del Vigésimo Segundo por el Primero; la del Vigésimo Tercero por el Octavo; la del Vigésimo Cuarto por el Décimo Tercero; la del Vigésimo Quinto por el Décimo Quinto, y la del Vigésimo Sexto por el Décimo Cuarto.
+Mientras se instalan los Juzgados del Crimen Vigésimo Cuarto a Vigésimo Sexto, la jurisdicción del Vigésimo Cuarto será ejercida por el Décimo Noveno; la del Vigésimo Quinto por el Vigésimo, y la del Vigésimo Sexto por el Vigésimo Primero.
 
 Anótese, tómese razón y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Mónica Madariaga Gutiérrez, Ministro de Justicia.
 
