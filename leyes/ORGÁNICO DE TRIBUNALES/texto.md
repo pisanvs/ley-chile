@@ -2260,7 +2260,7 @@ Primera categoría: Miembros y fiscal de la Corte Suprema.
 
 Segunda categoría: Miembros y fiscales de las Cortes de Apelaciones; y relatores y secretario de la Corte Suprema.
 
-Tercera categoría: Jueces letrados de juzgados de ciudad asiento de Corte y relatores y secretarios de Corte de Apelaciones.
+Tercera categoría: Jueces letrados de juzgados de ciudad asiento de Corte, relatores y secretarios de Cortes de Apelaciones y Secretario Abogado del Presidente de la Corte Suprema.
 
 Cuarta categoría: Jueces letrados de juzgados de ciudad capital de provincia y defensores públicos de Santiago y Valparaíso.
 
@@ -3166,7 +3166,7 @@ Son funciones de los relatores:
 
 Antes de hacer la relación deben los relatores dar cuenta a la Corte de todo vicio u omisión sustancial que notaren en los procesos; de los abusos que pudieren dar mérito a que la Corte ejerza las atribuciones que le confieren los artículos 539 y 540 y de todas aquellas faltas o abusos que las leyes castigan con multas determinadas.
 
-Las causas que se ordene tramitar, las suspendidas y las que por cualquier motivo no hayan de verse, serán anunciadas en la tabla antes de comenzar la relación de las demás. Siempre que sea posible se hará en cualquier instante de la audiencia igual anuncio de las causas que no hayan de verse por falta de tiempo.
+Las causas que se ordene tramitar, las suspendidas y las que por cualquier motivo no hayan de verse, serán anunciadas en la tabla antes de comenzar la relación de las demás. Asimismo, en esa oportunidad deberán señalarse aquellas causas que no se verán durante la audiencia, por falta de tiempo. La audiencia se prorrogará, si fuere necesario, hasta ver la última de las causas que resten en la tabla.
 
 #### Artículo 374
 
