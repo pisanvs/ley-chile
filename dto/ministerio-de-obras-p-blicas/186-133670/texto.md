@@ -1,0 +1,3 @@
+Por decreto MOP Nº186 de fecha 29 de enero de 1999, se expropió los lotes de terreno Nº14 y Nº17, superficie 6.898 m² y 508 m² respectivamente, rol de avalúo 333-21, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5, Tramo Chillán - Collipulli Sector 1 Km. 414.265,20 a Km. 423.633,50'', y se acordó el valor de indemnización con su propietario Salvador Yeber Campos, la cantidad de $5.981.591.-
+
+Fiscal del Ministerio de Obras Públicas.
