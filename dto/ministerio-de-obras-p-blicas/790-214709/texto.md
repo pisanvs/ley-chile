@@ -1,0 +1,3 @@
+Por decreto MOP Nº 790 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 8, superficie 294,46 m2, rol de avalúo Nº 3830-23, comuna de Talcahuano, para la obra "Mejoramiento Avda. Las Golondrinas - Talcahuano, Sector Golondrinas (Sector I)", VIII Región y se acordó el valor de la indemnización con su propietario Banco del Desarrollo, ascendente a la cantidad de $29.375.136.
+
+Fiscal del Ministerio de Obras Públicas.
