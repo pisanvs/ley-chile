@@ -1,0 +1,3 @@
+Por decreto exento MOP. Nº1.260 de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº48-A, superficie 368,00 m2, rol de avalúo Nº68-328, comuna de Teno, para la obra ''Camino Ruta J-25, Sector Cruce Longitudinal-La Montaña, Km. 0,22000 a Km. 25,00000'', VII Región y se acordó el valor de la indemnización con su propietario Jaime Hernán Duque Pizarro, ascendente a la cantidad de $612.304.-
+
+Fiscal del Ministerio de Obras Públicas.
