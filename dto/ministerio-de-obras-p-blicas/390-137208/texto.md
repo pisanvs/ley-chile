@@ -1,0 +1,3 @@
+Por decreto MOP Nº390, de 26 de febrero de 1999, se expropió el lote de terreno Nº14-B, superficie 6.063 m2., rol de avalúo 1507-126, comuna de Los Angeles, para la obra ''Concesión Internacional Ruta 5 Tramo Chillán - Collipulli'' Sector By Pass Salto del Laja, Octava Región y se acordó el valor de indemnización con su propietario Luis Humberto Romero Parada, ascendente a la cantidad de $15.150.694.
+
+- Fiscal del Ministerio de Obras Públicas.
