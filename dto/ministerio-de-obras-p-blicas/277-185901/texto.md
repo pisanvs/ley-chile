@@ -1,0 +1,3 @@
+Por decreto MOP Nº 277, de 28 de febrero de 2001, se expropió el lote de terreno Nº 21-1, superficie 14.663 m², rol de avalúo 152-133, comuna de Llayllay, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Osvaldo del Carmen Leiva Riquelme, ascendente a la cantidad de $50.081.997.-
+
+Fiscal del Ministerio de Obras Públicas.
