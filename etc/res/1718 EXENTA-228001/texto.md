@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.718, de 24 de junio de 2004, de esta Subsecretaría, modifícase la resolución Nº 289 de 2004, de esta Subsecretaría de Pesca que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de Investigación de Merluza del sur (Merluccius australis) en aguas interiores de la X Región", en el sentido de reemplazar su numeral 6º inciso 1º por el siguiente:
+
+"6.- En cumplimiento del objetivo de la presente pesca de investigación, las embarcaciones participantes podrán extraer un límite máximo de captura de Merluza del sur Merluccius australis ascendente a 2.368 toneladas, fraccionadas de la siguiente manera: 237 toneladas para enero; 237 toneladas para febrero; 237 toneladas para marzo; 237 toneladas para abril, 238,38 toneladas para mayo; 196 toneladas para junio; 196 toneladas para julio; 196 toneladas para septiembre; 196 toneladas para octubre; 196 toneladas para noviembre; 201,62 toneladas para diciembre."
+
+Valparaíso, 24 de junio de 2004.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
