@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 100 de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 23-E, superficie 44 m2., Rol de Avalúo Nº 162-35, comuna de San Nicolás, para la obra "Camino Ruta N-60-O, Sector Río Ñuble-Portezuelo, Km. 6.900.00 a Km. 28.833.35", VIII Región y se acordó el valor de indemnización con su propietario Miguel Efraín Barrera Sandoval, ascendente a la cantidad de $22.946.
+
+- Fiscal del Ministerio de Obras Públicas.
