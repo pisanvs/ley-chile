@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.416, de 29 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra Regadío Pencahue, Canal Oriente, Canal Las Brujas Kms. 0,000 al 0,275, que figura a nombre de Blanca Leppe Corvalán y otros, rol de avalúo 103-18, comuna de Pencahue, superficie 2.052,80 m2. La Comisión de Peritos, fijó con fecha 11 de abril de 1999, en la cantidad de $513.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
