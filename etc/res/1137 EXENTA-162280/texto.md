@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.137 de 30 de Agosto de 1985, conforme Art.
+
+5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a Reserva y Sector Expropiado predios: "Hijuela Segunda o San Miguel del Plano de División del Fundo Isla de Chocal n", "Hijuela Tercera o Santa Lucrecia, del plano de Hijuelación del Fundo Isla de Chocal n" de la comuna de Melipilla, Región Metropolitana, y derechos de aprovechamiento de aguas que corresponden a las parcelas Nos.. 1 a la 17, sitios Nos.. Aa - Ab - Ba - Bb - Ca - Cb - Da - Db - Ea - Eb - Fa - Fb - Ga - Gb - Ha - Hb - Ia - Ib - K - L - M - N - Ñ - T - Pp - Q - R - S - U - V - W - X y Reserva CORA No. Cc y Cd. del Proyecto de Parcelación "Santa Eugenia de Chocalán y Manuel Rodríguez" formado por predios señalados. Los derechos de agua se extraen de los canales: Chocalán, Wodehouse, La Isla o Huechun Bajo, Culipran.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
