@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº317, de 31 de marzo de 1998, se expropió el lote de terreno Nº3, superficie 5.977 M2., rol de avalúo 492-017, comuna de Cauquenes, para la obra Camino San Javier - Cauquenes, Tramo B-3, Estero Arenales - Purapel y se acordó precio de la indemnización con su propietaria Margarita Guerrero Herrera y otros, ascendente a la cantidad de $486.806.
+
+Fiscal del Ministerio de Obras Públicas.
