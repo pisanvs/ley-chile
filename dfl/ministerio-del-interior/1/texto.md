@@ -1,0 +1,109 @@
+REGLAMENTA APLICACION INCISO SEGUNDO DEL ARTICULO 38° DEL DL. N° 3.063, DE 1979
+
+D.F.L. N° 1-3.063.- Santiago, 2 de Junio de 1980.- Visto: Lo dispuesto en el inciso tercero del artículo 38°, del decreto ley N° 3.063, de 1979, vengo en dictar el siguiente
+
+Decreto con fuerza de ley:
+
+#### Artículo 1°
+
+El presente reglamento contiene las normas generales por las cuales se regirá la inversión de los recursos del Fondo Común Municipal, en lo relativo a los siguientes aspectos:
+
+a) Traspaso de servicios del sector público y su consecuente transferencia de activos, recursos financieros, recursos humanos y normas de administración financiera.
+
+b) Control del destino de los recursos del Fondo.
+
+c) Suspensión temporal de la asignación de recursos del Fondo.
+
+#### Artículo 2°
+
+Los traspasos de servicios podrán tener el carácter de provisorio o definitivo, de acuerdo a las necesidades y programas existentes sobre el servicio de que se trate.
+
+#### Artículo 3°
+
+Las Municipalidades que tomen a su cargo la atención de un servicio, se ajustarán en su gestión a todas las disposiciones que sobre el particular rigen para tal actividad y estará sujeta a la supervigilancia técnica y fiscalización que disponga la ley, de parte de las entidades y servicios especializados.
+
+Por lo que se refiere específicamente a establecimientos educacionales y a los que realizan prestaciones de salud en su gestión por las Municipalidades y en cuanto a supervigilancia y fiscalización, quedarán sujetos a las mismas normas aplicables a los establecimientos de uno y otro género, que pertenecen o se explotan por particulares.
+
+#### Artículo 4°
+
+El personal perteneciente al organismo o entidad del sector público que se haya traspasado o se traspase a la Administración Municipal, y el que posteriormente se contrate para este servicio por la Municipalidad, no será considerado dentro de la dotación fijada para el municipio respectivo. Dicho personal se regirá en todo por las normas laborales, de remuneraciones y de previsión aplicables al sector privado.
+
+Al personal a que se refiere el inciso anterior, no le serán aplicables las normas de la legislación actual o futura que rijan las remuneraciones del sector público.
+
+Los cargos que queden vacantes en el organismo del sector público por efecto del traspaso del personal se entenderán suprimidos y, si dicha entidad tenía fijada dotación máxima de personal, ésta quedará disminuida en el número de personas que se haya traspasado.
+
+> **Nota.** NOTA: 1 El artículo 2° transitorio de la ley 18196 dispuso: No obstante la sustitución del artículo 4° del decreto con fuerza de ley N° 1-3.063, de Interior, de 13 de junio de 1980, dispuesta en el artículo 15 de esta ley, el personal que se hubiere acogido a la opción del inciso tercero del texto sustituido, conservará el régimen previsional que hubiere escogido, sin perjuicio de que pueda ejercer el derecho a trasladarse al sistema establecido en el decreto ley N° 3.500, de 1980. Asimismo, el personal que sea traspasado en el futuro, podrá, dentro del plazo de 30 días, contado desde la fecha del traspaso, optar por mantener el régimen previsional de la Caja Nacional de Empleados Públicos y Periodistas, sin perjuicio de que pueda ejercer el derecho a trasladarse al sistema establecido en el decreto ley N° 3.500, de 1980. Para los efectos de las opciones a que se refiere este artículo, dichos personales tendrán como remuneración imponible la del grado que tengan asignado al momento del traspaso. Dicha imponibilidad se reajustará en el mismo porcentaje que pueda concederse en el futuro a dicho grado por aplicación de reajustes generales.
+
+> **Nota.** NOTA: 1.1 Ver el artículo 2°, letra b) de la Ley N° 19.200, publicada en el "Diario Oficial" de 18 de enero de 1993, en relación con el personal regido por el presente decreto con fuerza de ley. El artículo 3° de la citada ley dispuso que a contar del primer día del mes subsiguiente al de su publicación, la definición de remuneración contenida en el artículo 40 del Código del Trabajo, será aplicable en materia previsional al personal traspasado a la Administración Municipal conforme al presente decreto con fuerza de ley, sea ésta directa o ejercida por intermedio de una Corporación que hubiere optado por mantener el régimen previsional de empleado público.Las respectivas remuneraciones estarán sujetas a los límites de imponibilidad contemplados en la legislación vigente.
+
+#### Artículo 5°
+
+En los casos en que una Municipalidad estime conveniente tomar a su cargo un servicio atendido por algún organismo del sector público se ajustará al siguiente procedimiento:
+
+1) Celebración de un convenio con el Ministerio o entidad pública respectiva, sobre el traspaso del servicio y sus bases, el que deberá contener los siguientes puntos a lo menos:
+
+a) Descripción circunstanciada del servicio que toma a su cargo la Municipalidad, consignando los derechos y obligaciones específicos que tal servicio implica.
+
+b) Individualización de los activos muebles e inmuebles que se traspasen, determinando plazos y demás condiciones si las hubiera. Tratándose de inmuebles, deberán individualizarse y expresarse todas las menciones que exige la ley y reglamentación pertinente para la inscripción de tales bienes en los Registros respectivos.
+
+Y si en el traspaso se comprenden vehículos motorizados, regirá similar exigencia respecto de su individualización.
+
+c) Indicación de los recursos financieros asignados al servicio que se traspase, cualquiera sea su origen o naturaleza.
+
+d) Nómina y régimen del personal que se traspase.
+
+2) El citado convenio deberá aprobarse por decreto supremo expedido por el Ministerio respectivo. El decreto de traspaso del servicio se publicará en extracto en el Diario Oficial y podrá ejecutarse aún antes de la toma de razón, debiendo ser enviado a la Contraloría General de la República dentro de los 30 días de dispuesta la medida.
+
+> **Nota.** NOTA: 2 El artículo único del DS 1.641, de Educación, de 20 de abril de 1981, dispuso lo que sigue: Facúltase al Ministro de Educación Pública para firmar "Por orden del Presidente de la República", los decretos supremos que aprueben los convenios suscritos entre el Ministerio de Educación Pública y la Municipalidad respectiva, sobre traspaso del servicio educacional a que se refiere el N° 2 del artículo 5° del D.F.L. N° 1-3063, de 1980, del Ministerio del Interior.
+
+#### Artículo 6°
+
+Los bienes muebles que se traspasen deberán constar en un inventario detallado que servirá de base para darlos de baja en el organismo que se desprende del servicio y se incorporen al patrimonio de la Municipalidad.
+
+#### Artículo 7°
+
+La transferencia de los bienes inmuebles se efectuará mediante inscripción en el Registro respectivo del Conservador de Bienes Raíces que se practicará, con el solo mérito de una copia autorizada del convenio y del decreto supremo que los apruebe.
+
+Lo anterior regirá asimismo, en relación al traspaso de vehículos motorizados para anotarlo en el correspondiente Registro.
+
+#### Artículo 8°
+
+Por decreto del Ministerio correspondiente que deberá llevar la firma además del Ministro de Hacienda, podrá el Fisco, en su caso, asignar a la Municipalidad que toma a su cargo un servicio, recursos presupuestarios para contribuir a los gastos de operación y funcionamiento que irrogue el servicio transferido.
+
+El monto anual de dichos recursos no podrá ser superior a lo que representaba su operación por el organismo del sector público que lo atendía, tomando como base los recursos destinados al efecto en el año anterior al traspaso, y actualizando su monto de conformidad a los índices correspondientes.
+
+> **Nota.** NOTA: 3 El artículo 6° del DL 3477, de 1980, dispuso que: El Presidente de la República mediante decreto supremo del Ministerio de Hacienda, otorgará a las Municipalidades que tomen a su cargo en forma definitiva servicios de las áreas de educación, de salud y de atención de menores, del sector público, de acuerdo a lo establecido en el decreto con fuerza de ley 1-3.063, de 1980, del Ministerio del Interior, un aporte extraordinario, por una vez, sin perjuicio de lo dispuesto en el artículo 8° de dicho decreto con fuerza de ley, equivalente a un 5% del gasto anual en remuneraciones que significaba el servicio transferido, respecto de los servicios que las Municipalidades tomen a su cargo durante el curso del año 1980; de un 4% de dicho gasto, respecto de los servicios que tomen a su cargo en el año 1981 y de un 3% del mismo gasto, respecto de los servicios que tomen a su cargo en el año 1982.
+
+#### Artículo 9°
+
+La Municipalidad deberá llevar presupuesto separado respecto de cada nuevo servicio que se incorpore a su gestión, el que se regirá por las disposiciones del D.L. número 1.263, de 1975 y demás normas pertinentes aplicables al sector municipal.
+
+#### Artículo 10°
+
+Sin perjuició de las facultades que corresponden a la Contraloría General de la República, de acuerdo a la legislación vigente, para el control del destino de los recursos del Fondo Común Municipal, atendiendo a los objetivos que establece el inciso segundo del artículo 38 del decreto ley número 3.063, de 1979, los Ministerios de Interior y de Hacienda podrán requerir de dicho organismo contralor que efectúe las correspondientes auditorías.
+
+#### Artículo 11°
+
+Por resolución de los Ministerios antes citados, sujeta al trámite de toma de razón, podrá ordenarse la suspensión de la entrega de fondos con cargo a los recursos del artículo 38° de la ley, hasta por dos ejercicios presupuestarios. Esta suspensión deberá tener como fundamento preciso la proposición que al efecto se contenga en el informe referido en el artículo anterior.
+
+#### Artículo 12
+
+Las Municipalidades que tomen a su cargo servicios de las áreas de educación, de salud o de atención de menores, para los efectos de la administración y operación de ellos, podrán constituir, conforme a las normas del Título XXXIII del Libro I del Código Civil, con organizaciones de la comuna, interesadas en los servicios referidos, una o más personas jurídicas de derecho privado, o podrán entregar dicha administración y operación a personas jurídicas de derecho privado que no persigan fines de lucro. En los estatutos de las personas jurídicas que constituyan las Municipalidades deberá establecerse que la presidencia de ellas corresponderá al Alcalde respectivo, quien podrá delegarla en la persona que estime conveniente y que el número de directores no podrá ser superior a cinco. Todos estos cargos serán concejiles.
+
+Autorízase a las Municipalidades que otorguen a la administración de los servicios referidos a personas jurídicas de derecho privado para entregarles en comodato los bienes inmuebles destinados a los servicios referidos, ya sean de propiedad de la Municipalidad o ésta los haya recibido, a su vez, en comodato para tales servicios.
+
+#### Artículo 13
+
+Los recursos de origen fiscal o municipal que se destinen a las personas jurídicas de derecho privado a que se refiere el artículo anterior constituirán ingresos propios de ellas correspondientes a prestación de servicios.
+
+#### Artículo 14
+
+No obstante lo dispuesto enel artículo 9°, no se aplicarán las normas del decreto ley N° 1.263, de 1975, a la gestión financiera de las personas jurídicas a que se refiere el artículo 12 precedente, las que deberán ajustarse, sobre la materia, a las disposiciones que rijan para el sector privado.
+
+#### Artículo 15
+
+La Contraloría General de la República fiscalizará las personas jurídicas de derecho privado a que se refiere el artículo 12, de acuerdo a las facultades que le otorga el artículo 25 de su Ley Orgánica.
+
+Tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Sergio Fernández Fernández, Ministro del Interior.- Sergio de Castro Spikula, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Enrique Montero Marx, Coronel de Aviación (J), Subsecretario del Interior.
