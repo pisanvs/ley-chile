@@ -1,0 +1,3 @@
+Por resolución Nº 1.680, de 1 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97103020, presentada por EMA DEL ROSARIO SANTANA OJEDA, para operar un centro de cultivo ubicado en Sector Degan, Isla Quinchao, comuna de Curaco de Vélez, provincia de Chiloé, X Región.
+
+Valparaíso, 1 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
