@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.329, de fecha 31 de agosto de 2001, se expropiaron los lotes de terreno Nº 2, Canal Los Puquios y Nº 2, Ramal 2, superficies 2.270 m² y 17.381 m², respectivamente, rol de avalúo 480-168, comuna de Yungay, para la obra "Area de Riego los Puquios, Canal los Puquios, Km. 0,000 al 1,341 y Ramal 2, Km. 0,005 al 2,165 del Proyecto Laja Diguillín" y se acordó el valor de indemnización con su propietario Juan Antonio Vega Vallejos, ascendente a la cantidad de $9.515.428.-
+
+Fiscal del Ministerio de Obras Públicas.
