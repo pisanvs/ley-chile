@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION DE INMUEBLE QUE INDICA
+
+Resolución N° 92, 06 de Agosto de 1996, SERVIU Sexta Región del Libertador Bernardo O'Higgins ordenó Expropiación del inmueble ubicado en calle Millán N° 796 de Rancagua, Rol de Avalúo N° 442-5, comuna de Rancagua, superficie 198,00 metros cuadrados, delimitada en el Polígono L-J-K-O-N-M-L conforme a Plano SERVIU VI Región U.E.P.-T-328, de aparente dominio de Sucesión Pedro Nolasco Aliaga Reyes, para ejecución Proyecto "Mejoramiento Red Vial Sector Oriente" de Rancagua, conforme Artículo 51 Ley 16.391 y D.L. 2186. Comisión Peritos integrada por peritos Arquitectos Eduardo González Brard, Oscar Novoa Vargas y René Corvalán Correa, según Informe de fecha Septiembre de 1995, fijó monto provisional indemnización en $13.266.000.- pagadera de contado.
+
+Director SERVIU VI Región.
