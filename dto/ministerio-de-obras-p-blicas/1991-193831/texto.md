@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.991 de fecha 30 de noviembre del 2001, se expropiaron los lotes de terreno Nºs. 86 y 87, superficie 131,00 y 6.397,00 m2 respectivamente, Rol de Avalúo Nº259-005, comuna de Fresia, para la obra "Camino Fresia - Parga - Llico - Las Cañitas, Rol V-46, Km. 14.835 al 48.580" y se acordó el valor de indemnización con su propietario Rodrigo Guillermo Kaschel Hitschfeld, ascendente a la cantidad de $5.208.045.
+
+- Fiscal del Ministerio de Obras Públicas.
