@@ -12,7 +12,7 @@ Decreto ley:
 
 La Corporación de Servicios Habitacionales, dentro del plazo de un año, contado desde la publicación en el Diario Oficial de los decretos supremos a que se refiere el artículo 2º, transferirá, preferentemente y a título gratuito, una vivienda ubicada, en lo posible, en el lugar que determine el beneficiario, a la cónyuge sobreviviente o, a falta de ésta, a los hijos legítimos y/o naturales o, a falta de aquélla y éstos, a los ascendientes en primer grado del personal de las Fuerzas Armadas y de Carabineros, fallecido en actos del servicio como consecuencia directa de las acciones militares realizadas a partir del 11 de Septiembre de 1973 y hasta el 31 de Diciembre del mismo año.
 
-Los ascendientes y descendientes sólo serán beneficiarios si a la fecha del deceso eran causantes de asignación familiar del fallecido.
+INCISO SEGUNDO DEROGADO.
 
 #### Artículo 2º
 
