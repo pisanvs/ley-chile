@@ -1,0 +1,3 @@
+Por Resolución N° 1.848, de 28 de octubre de 1996, de esta Subsecretaría de Pesca de Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 94110068, presentada por SALMONES UNIMARC S.A., para un centro de cultivo ubicado al Norte de la Isla Traiguén, comuna y provincia de Aysén, XI Región, en virtud de lo dispuesto en los artículos 14° del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción y 78° y 87° de la Ley General de Pesca y Acuicultura N° 18.892.
+
+Valparaíso, 28 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
