@@ -1,0 +1,3 @@
+Por resolución Nº 798, de 28 de abril de 2000, de esta Subsecretaría, déjase sin efecto la resolución Nº 447 de 1998, de esta Subsecretaría, que autorizó a DELICIAS DEL SUR LIMITADA, para operar una planta ubicada en Villarrica, Km. 6, camino Villarrica a Pucón, en virtud de la renuncia formulada por la titular.
+
+Valparaíso, 28 de abril de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
