@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.526, de 31 de agosto de 1999, se expropió el lote de terreno Nº46, superficie 802 m², rol de avalúo 2597-25, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, sector Las Acacias - Río Maipo, Región Metropolitana y se acordó el valor de indemnización con su propietario Elder S.A., ascendente a la cantidad de $31.127.533.-
+
+Fiscal del Ministerio de Obras Públicas.
