@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.463, de 31 de agosto de 1999, se expropió el lote de terreno Nº147, superficie 184 m2., rol de avalúo 2141-184, comuna de Puerto Montt, para la obra Concesión Internacional Ruta 5. Tramo Río Bueno-Puerto Montt. Sector: Puerto Montt, Décima Región y se acordó el valor de indemnización con su propietaria Inmobiliaria e Inversiones Infabel Ltda., ascendente a la cantidad de $546.654.-
+
+Fiscal del Ministerio de Obras Públicas.
