@@ -1,0 +1,7 @@
+Por decreto MOP Nº697, de 29 de marzo de 1999, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs. 3, 10, 11, 12, 12A, 13, 14, 15 y 16, para la obra Camino Ruta U-72, Sector Riachuelo - Crucero, que figuran a nombre de Forestal Anchile Ltda., Pasenau Bielefeld Jorge y Ot., Alt Winter Eduvino, Schilling Albrecht Hugo y Albrecht Siebert Erica, roles de avalúos 346-373 de la comuna de Río Negro y 344-90, 344-21, 344-25 y 344-66 de la comuna de Purranque, superficies 623, 220, 120, 62, 83, 120, 120, 102 y 115 M2. respectivamente. La Comisión de Peritos compuesta por los señores Carlos Eugenio Mera Santibáñez, Jaime Sanz Bahamonde y Leopoldo Ramón Schumacher Guarda, fijó con fecha 21 de abril de 1998, los valores provisionales de las indemnizaciones en las cantidades de $304.760, lote Nº3; $47.000, lote Nº10;
+
+$37.000, lote Nº11; $31.200, lote Nº12; $28.300, lote Nº12A; $262.000, lote Nº13; $32.000, lote Nº14;
+
+$100.200, lote Nº15 y $11.500, lote Nº16. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
