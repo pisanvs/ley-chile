@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº432, de 17 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº32, para la ejecución de la obra "Camino Mejoramiento Ruca Q-85, Sector Mulchén-Caledonia, Tramo Km. 0.000.00-Km. 13.507.90", que figura a nombre de Renato Reyes Aránguez, Rol de Avalúo 612-2, comuna de Mulchén, VIII Región, superficie 1.134 M2. La comisión de peritos fijó con fecha 31 de octubre de 1998, el valor provisional de la indemnización en la cantidad de $554.220.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
