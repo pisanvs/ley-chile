@@ -1,0 +1,5 @@
+Por decreto (exento) MOP Nº1.822 de fecha 30 de noviembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la ejecución de la obra "Laja-Diguillón, Area de Riego Rinconada, Canal San Fernando de Mogotillo, Ramal 8, Km. 0.004 al Km.
+
+0.339", que figura a nombre de Suazo Arroyo Leonidas Suc., Rol de Avalúo 126-144, de la comuna de El Carmen, VIII Región, superficie 2.897 m2. La Comisión de PERITOS fijó con fecha 30 de septiembre de 2001, la indemnización provisional en la cantidad de $1.495.500.- para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
