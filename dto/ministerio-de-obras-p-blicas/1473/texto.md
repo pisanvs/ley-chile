@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.473, de 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs. 97-A y 99, superficies 485,3 m2. y 12.988,3 m2., rol de avalúo 419-19, comuna de Loncoche, para la obra ''Concesión Internacional Ruta 5; Temuco - Río Bueno'', Novena Región y se acordó el valor de indemnización con su propietaria Irma Aburto Colihueque, ascendente a la cantidad de $6.237.655.-
+
+Fiscal del Ministerio de Obras Públicas.
