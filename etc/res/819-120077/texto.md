@@ -1,0 +1,3 @@
+Por resolución Nº 819, de 4 de junio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº96102045, presentada por PRIETO VIAL UGARTE Y CIA LTDA., para operar un centro de cultivo al norte de Isla Liguiñe, ribera norte del río Tornagaleones, comuna de Valdivia, provincia de Valdivia, X Región, conforme lo dispuesto en los artículos 78 y 87 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 4 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
