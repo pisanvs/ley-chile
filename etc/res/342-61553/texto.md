@@ -1,0 +1,3 @@
+Por Resolución Nº 342, de 5 de marzo de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94103051, presentada por LUIS HERNAN SANCHEZ AGUILA R.U.T. Nº 3.889.248-7, domiciliado en Villa Chacón s/n, Castro, para un centro de cultivo ubicado entre Punta Pello y Punta Dequio, Estero Castro, Comuna de Castro, Provincia de Chiloé, X Región, en virtud de lo dispuesto en el artículo 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
