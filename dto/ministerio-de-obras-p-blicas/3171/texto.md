@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.171, de 22 de octubre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº15.840, se expropió el lote de terreno Nº2, para la obra Camino M-24-K Quivolgo-Puente Lautaro, sector E conexión - La Trinchera, que figura a nombre de José Rojelio Rojas Rojas, rol de avalúo 171-6, comuna de Curepto, superficie 4.979,19 m2. La comisión de peritos, fijó con fecha 9 de enero de 1998, el valor provisional de la indemnización en la cantidad de $1.188.338. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
