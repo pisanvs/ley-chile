@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº199, de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº564, superficie 113 m², Rol Nº32-434, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua-Las Cabras, sector San Roberto-El Toco-Ruta 66, tramo 1, tramo Km. 0,00000 a Km. 12,70000" y se acordó el valor de indemnización con su propietario Emilio Enrique Vera Orellana, ascendente a la cantidad de $1.442.042.
+
+Fiscal del Ministerio de Obras Públicas.
