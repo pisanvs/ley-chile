@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.064 de fecha 28 de junio de 2002, se expropió el lote de terreno Nº56-B, superficie 684 m2, rol de avalúo en trámite, comuna de San Clemente, para la obra ''Camino Los Robles-Huencuecho-Bajo Perquín, Sector Huencuecho-Bajo Perquín, Tramo Km. 46,140.00 al 76,107.70'', VII Región y se acordó el valor de indemnización con su propietaria Mónica de la Cruz Fuster López, ascendente a la cantidad de $281.020.-
+
+Fiscal del Ministerio de Obras Públicas.
