@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.530, de 29 de septiembre del 2000, se expropió el lote de terreno Nº154, superficie 220 m², rol de avalúo 5809-9, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Manuel Antonio Almuna Gómez, ascendente a la cantidad de $22.325.120.-
+
+Fiscal del Ministerio de Obras Públicas.
