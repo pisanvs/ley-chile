@@ -1,0 +1,3 @@
+Por decreto MOP Nº 689 de fecha 30 de junio del 2003, se expropió el lote de terreno Nº 3, superficie 3333 m2, Rol Nº 115-122, comuna de Coihueco, VIII Región para la obra "Construcción Puente Nahueltoro y Accesos, Km. 2,30000 a Km. 3,30000" y se acordó el valor de indemnización con su propietario Carlos Segundo Cofré Neira y Otros, ascendente a la cantidad de $3.239.986.
+
+- Fiscal del Ministerio de Obras Públicas.
