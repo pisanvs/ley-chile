@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.950, de 21 de agosto de 2003, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA QUINTERO LIMITADA, para ampliar actividades pesqueras extractivas con la nave "Elbe", en las áreas marítimas que en cada caso se indican, por fuera del área de reserva artesanal, donde podrá capturar los recursos hidrobiológicos que a continuación se señalan:
+
+a) Regiones V, VI, VII y VIII Región, con arrastre: Besugo, Camarón navaja, Congrio dorado, Jibia y Tollo o fume; b) En el área marítima correspondiente al Archipiélago de Juan Fernández, las Islas Desventuradas y Cerro O'Higgins, con palangre: Vidriola, Alfonsino, Dorado, Atún de aleta azul, Atún de aleta amarilla, Atún de ojos grandes, Atún de aleta larga, Marlin rayado, Marlin negro, Marlin trompa corta, Marlin azul, Atún chauchera, Marrajo y Pejezorro.
+
+Valparaíso, 21 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
