@@ -1,0 +1,3 @@
+Por resolución ministerial Nº 44 de fecha 9 de mayo de 2001, del Ministerio de Economía, Fomento y Reconstrucción, se canceló la Personalidad Jurídica de la Asociación Gremial de Pensionados de Invalidez y Vejez del Seguro Social de Viña del Mar, inscrita bajo el Nº 195-5 del Registro de que para tal efecto lleva este Ministerio, por haberse configurado respecto de ella, la causal de cancelación contemplada en la letra a) del Nº 2 del artículo 18 del decreto ley 2.757, de 1979.-
+
+Alvaro Díaz Pérez, Subsecretario de Economía, Fomento y Reconstrucción.
