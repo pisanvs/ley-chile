@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 377, de 29 de Octubre de 1993, se expropiaron los lotes de terreno N°s. 2, 3, 10 y 12, superficies 16.310 m2., 4.710 m2., 9.130 m2. y 1.230 m2., roles de avalúos 109-030 y 105-016, Comuna de Pencahue, para la obra Regadío Pencahue, Canal Las Brujas y Canal Las Tizas y se acordó precio de indemnización con sus propietarios Pedro Torres Carreño y María del Rosario Rojas L. y otros, ascendentes a las cantidades de $396.463.- y $509.435.-
+
+Fiscal del Ministerio de Obras Públicas.
