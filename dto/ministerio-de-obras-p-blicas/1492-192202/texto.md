@@ -1,0 +1,3 @@
+Por decreto MOP Nº1492 de fecha 28 de septiembre del 2001, se expropió el lote de terreno Nº47, superficie 3.684, Rol de Avalúo Nº187-100, comuna de San Vicente, para la obra "Proyecto Mejoramiento Ruta H-830, Sector San Vicente-El Cardal-Millahue, Tramo Km. 0.000 al Km. 8,622" y se acordó el valor de indemnización con su propietario Sara Soledad de los A. Fuentes Osorio y otros, ascendente a la cantidad de $8.993.022.-
+
+Fiscal del Ministerio de Obras Públicas.
