@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.839, de 30 de agosto del 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 162-2, superficie 1.615 m², rol de avalúo 171-31, comuna de Nogales, Quinta Región, para la obra Camino Ruta 5 Norte Tramo Santiago-Los Vilos, Sector 116.800,00 a Km. 117.200,00. Posteriormente, por decreto MOP Nº 5.384, de 29 de diciembre del 2000, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con su propietaria la Sociedad Maquinarias, Repuestos y Servicios Limitada Guzmán Díaz, ascendente a la cantidad de $4.631.776.-.
+
+Fiscal del Ministerio de Obras Públicas.
