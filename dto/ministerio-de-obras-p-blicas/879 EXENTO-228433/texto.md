@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 879 de fecha 30 de junio del 2004, se expropiaron los lotes de terreno Nº s 14-Z28, 14-Z29, 14-Z30, 14-Z31 y 14-Z32, superficies 243, 110, 508, 965 y 94 m², Rol Nº 217-55, comuna de Curepto, VII Región para la obra "Camino Ruta K-60 y K-16, Sector Mejoramiento Gualleco - Curepto - Puente Lautaro, Tramo Km. 46,180 a Km. 83,91430" y se acordó el valor de indemnización con su propietaria Sara Luisa Poblete, ascendente a la cantidad de $450.198.- para los lotes Nº s 14-Z28, 14-Z29, 14-Z30, 14-Z31 y 14-Z32.
+
+Fiscal del Ministerio de Obras Públicas.
