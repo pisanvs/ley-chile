@@ -1,0 +1,3 @@
+Por Resolución Nº 1.266 de 25 de septiembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las Resoluciones Nº 693, de 1994 y Nº 347, de 1995, ambas de esta Subsecretaría, que autorizaron a PESQUERA BALZAK S.A., para iniciar y ampliar actividades pesqueras extractivas, respectivamente, con la nave "Luminosa", por haberse configurado la causal prevista en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 25 de septiembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
