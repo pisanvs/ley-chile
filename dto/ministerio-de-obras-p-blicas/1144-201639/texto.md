@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.144, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº300, superficie 2.986 m², rol de avalúo 61-66, comuna de Palmilla, VI Región, para la obra ''Camino Colchagua-Pichidegua, Sector San Roberto-Cruceros, Tramo Km. 12,30000 al 26,00400'' y se acordó el valor de indemnización con su propietario don Itziar Araya Anchia y otro, ascendente a la cantidad de $15.851.229.-
+
+Fiscal del Ministerio de Obras Públicas.
