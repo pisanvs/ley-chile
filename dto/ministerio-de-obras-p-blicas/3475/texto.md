@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.475, de fecha 31 de julio de 2000, se expropió el lote de terreno Nº 88, superficie 2.280 m², rol de avalúo 846-39, comuna de Vallenar, para la obra ''Construcción Embalse Santa Juana, Etapa IV, Sector La Laja'' y se acordó el valor de indemnización con su propietaria Hernandina Varas Huanchicay y Otros, ascendente a la cantidad de $1.533.585.
+
+Fiscal del Ministerio de Obras Públicas.
