@@ -1,0 +1,3 @@
+Resolución 375, 15 diciembre 1993, SERVIU Región del Bío Bío ordenó expropiación parcial, conforme art. 51 Ley 16.391, y D.L. 2186 de 1978, para la ejecución de un plan de viviendas en el inmueble ubicado en A. Prat entre calle Riquelme y Mohuatt, ex recinto ferroviario, rol de avalúos N° 90511-1 comuna de Curanilahue, aparente dominio de Ferrocarriles del Estado. Comisión integrada por Peritos Sres. Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 10 de diciembre de 1993, fijó monto provisional indemnización en $ 120.000.000, pagadera de contado.
+
+Director SERVIU Región del Bío Bío.
