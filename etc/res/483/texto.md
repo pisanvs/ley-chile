@@ -1,0 +1,7 @@
+Por resolución N° 483 de 12 de Julio de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA INDO S.A., R.U.T. N° 92.484.000-5, para ampliar actividades pesqueras que tiene autorizadas por resolución N° 67, de 1989, de esta Subsecretaría, en orden a ampliar las actividades de pesca autorizada para la nave "Eperva 58", por la resolución citada precedentemente, en el área de pesca de las Regiones que se indican a continuación donde podrán extraer los siguientes recursos hidrobiológicos, con cerco: a) Litoral de la IV Región, con cerco: Anchoveta, Agujilla, Bacaladillo, Bonito, Caballa, Jurel, Palometa, Pejerrey, Roncacho, Sardina y Roncacho; b) Litoral de la III Región, con cerco: Agujilla, Bacaladillo, Bonito, Palometa, Pejerrey, Roncacho; Sardina común y Roncacho.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización para operar y capturar en las áreas y recursos hidrobiológicos solicitados no comprendidos en la presente Resolución, en virtud de los informes técnicos y normas legales y reglamentarias señaladas en Vistos.
+
+Valparaíso, 12 de Julio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
