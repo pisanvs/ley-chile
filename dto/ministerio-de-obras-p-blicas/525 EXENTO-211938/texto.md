@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 525, de fecha 30 de mayo de 2003, se expropió el lote de terreno Nº 70, superficie 710 m2, rol de avalúo Nº 264-5, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, sector 2 Carrizal - Puente Belco, tramo Km. 23,38000 a Km. 41,26600, Comuna de San Javier, Provincia de Linares y Cauquenes", VII Región, y se acordó el valor de la indemnización con su propietario Eliecer Antonio Salgado González, ascendente a la cantidad de $703.867.
+
+- Fiscal del Ministerio de Obras Públicas.
