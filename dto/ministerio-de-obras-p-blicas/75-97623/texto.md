@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 75, de 30 de enero de 1998, se expropió el lote de terreno N° 62, superficie 588 m2., rol de avalúo 2592-1, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería, para el Sistema Norte-Sur, Las Acacias-Río Maipo y se acordó precio de la indemnización con su propietario ARI 2 S.A., ascendente a la cantidad de $16.790.544.
+
+Fiscal del Ministerio de Obras Públicas.
