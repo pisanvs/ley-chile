@@ -1,0 +1,3 @@
+Por decreto MOP No. 994, de 30 de julio de 1998, se expropiaron los lotes de terreno No.s. 70 y 73, superficies 982 m², y 188 m², roles de avalúos 94-102 y 94-214, comuna de Pelarco, obra Camino Los Robles Huencuecho-Bajo Perquín y se acordó precio de indemnización con sus propietarios Mamerto Torres Valenzuela y Eliana Canales Astete, ascendente a las cantidades de $ 589.772 y $ 192.664.-
+
+Fiscal del Ministerio de Obras Públicas.
