@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 672, de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 74-B, superficie 210 m2, rol de avalúo en trámite, comuna de Constitución, para la obra ''Camino M-24-K Quivolgo - Puente Lautaro, Sector C: Putú - Quivolgo Km. 30,000.00 a Km. 49,815.494'', VII Región y se acordó el valor de indemnización con su propietaria Alicia Leiva Urbina, ascendente a la cantidad de $417.380.-
+
+Fiscal del Ministerio de Obras Públicas.
