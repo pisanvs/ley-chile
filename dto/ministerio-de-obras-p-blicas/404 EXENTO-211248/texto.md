@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº404 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº27, superficie 116 m2, Rol Nº208-97, comuna de Cabildo, V Región para la obra "Cabildo Putaendo, Ruta E-41, Sector La Vega Guayacán, Km. 12,46900 al Km. 22,40000" y se acordó el valor de indemnización con su propietario Luis Hernán Arancibia Tapia, ascendente a la cantidad de $347.760.-
+
+Fiscal del Ministerio de Obras Públicas.
