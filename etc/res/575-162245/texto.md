@@ -1,0 +1,5 @@
+AUTORIZA A DON JOSE ALBINO FERNANDEZ SALAS, PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por Resolución N° 575, 12 de septiembre de 1985 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don José Albino Fernández Salas, RUN. 4.119.678-5, domiciliado en Antofagasta, calle Ongolmo N° 174, Población "Los Pinares", para operar la embarcación denominada "Don Rufino", en el litoral comprendido entre la II y la III Región, en labores extractivas de los siguientes recursos: sardina española, jurel, anchoa, caballa, cojinova, dorado y bonito. Los recursos cojinova, dorado y bonito, deber destinarlos a la industrialización en forma de conserva y congelado, para lo cual deber tener a bordo de la embarcación sistemas de refrigeración o mantención adecuados, tales como, contenedores con hielo, cajas con hielo, etc. Los que deber n ser informados y aprobados técnicamente por la Dirección Regional de Pesca respectiva.
+
+Valparaíso, 12 de septiembre de 1985. Roberto Verdugo Gormaz, Subsecretario de Pesca.
