@@ -1,0 +1,1 @@
+Substituye los incisos 1.° y 2.° del artículo 36.° de la ley 9.342, de 14 de septiembre de 1949, que fijó el texto refundido de la Ley de Organización y Atribuciones de las Municipalidades.
