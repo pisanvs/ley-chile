@@ -1,0 +1,5 @@
+Por resolución Nº 583, de 13 de abril de 1999, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA SAN ANTONIO S.A., para ampliar actividades pesqueras extractivas con la nave ''Vigri'', en el litoral que a continuación se indica, donde podrá capturar los siguientes recursos hidrobiológicos: a) Litoral de la X Región, por fuera del área de reserva artesanal, con red de cerco: Machuelo o tritre y Merluza de cola; b) Litoral de la X Región, por fuera de las 60 millas marinas, medidas desde las líneas de base recta, con red de arrastre de media agua: Machuelo o tritre y Merluza de cola.
+
+Deniégase la autorización solicitada por la peticionaria respecto de las áreas de pesca y recursos hidrobiológicos no contemplados en la presente resolución, en virtud de los informes técnicos y normas legales y reglamentarias.
+
+Valparaíso, 13 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
