@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°263, de 31 de Agosto de 1993, se expropiaron los lotes de terreno N°s. 5 y 6, superficies 1.579 m2. y 3.790 m2. roles de avalúos 1216-170 y 1216-171, Comuna de Teodoro Schmidt, para la obra Camino Freire Toltén por Hualpín, y se acordó precio de indemnización con su propietaria Ema Millalen Pinchulef, ascendente a la cantidad de $556.879.-
+
+Fiscal del Ministerio de Obras Públicas.
