@@ -1,0 +1,1 @@
+Dispone que el excedente del producto del impuesto establecido en el artículo 1° de la ley 8,093, de 19 de febrero de 1945, sobre fomento de las Cooperativas Vitivinícolas, después de atender las obligaciones que señala, será puesto anualmente por la Caja Autónoma de Amortización a disposición del Instituto de Economía Agrícola para los fines que indica.
