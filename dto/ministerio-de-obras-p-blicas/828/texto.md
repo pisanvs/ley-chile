@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 828, de 29 de agosto de 1997, se expropió el lote de terreno Nº 137, superficie 236 m2., rol de avalúo 247-4, comuna de San Vicente, para la obra Camino Quinta de Tilcoco - Cruce Ruta 66, Sector El Manzano de Zúñiga - La Mediagua - Tunca El Medio, y se acordó precio de indemnización con sus propietarios, Sucesión Magaña Fernández, ascendente a la cantidad de $982.072.-
+
+Fiscal del Ministerio de Obras Públicas.
