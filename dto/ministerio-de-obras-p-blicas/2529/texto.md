@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 2.529, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs 34-A, 34-B, 34-C, 34-D, 34-E, 34-F, 34-G, 34-H, 34-I, 34-J y 34-K, superficies 1.604,0 m2., 1.003,0 m2., 1.057,0 m2., 1.056,0 m2., 1.035,0 m2., 1.018,0 m2., 970 m2., 240,0 m2., 884,0 m2., 822,0 m2. y 233,0 m2., rol de avalúo 698-152, comuna de Victoria, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco'', Novena Región y se acordó el valor de indemnización con su propietaria María Carolina Cuevas Neumann, ascendente a la cantidad total de $33.725.604.
+
+- Fiscal del Ministerio de Obras Públicas.
