@@ -1,0 +1,3 @@
+Por Resolución Nº 765, de 3 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94105009, presentada por NELLY VARGAS CARDENAS, para un centro de cultivo ubicado en la localidad de Quetalmahue, Comuna de Ancud, Provincia de Chiloé, X Región, en virtud de lo dispuesto en el artículo 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 3 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
