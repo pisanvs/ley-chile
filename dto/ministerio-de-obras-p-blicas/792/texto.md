@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 792, de 29 de agosto de 1997, se expropió el lote de terreno Nº 6, superficie 1.998 m2, rol de avalúo 4505-18, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, sector Ruta 5 Sur - Departamental y Eje General Velásquez y se acordó precio de indemnización con la propietaria doña Rosa Ivette Díaz Beas, ascendente a la cantidad de $62.391.420.-
+
+Fiscal del Ministerio de Obras Públicas.
