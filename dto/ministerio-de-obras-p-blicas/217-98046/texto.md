@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº217, de 27 de febrero de 1998, se expropiaron los lotes terreno Nºs 9, 12, 20 y 23, superficies 250,107, 205 y 270 m2., respectivamente, roles de avalúo 197-411,202-10,197-148 y 202-394, comuna de Longaví, para la obra Camino Ruta L-55, sector Chalet Quemado - Quinta y se acordó precio de las indemnizaciones con sus propietarios Manuel Antonio Yáñez Márquez, Armando del Carmen Martínez Márquez, Manuel Francisco Alarcón Almuna y Rosalía del Carmen Cerda Rojas, ascendentes a las cantidades de $283.500 para el lote Nº29, $176.558 para el lote Nº12, $222.863 para el lote Nº2O y $253.575 para el lote Nº23.-
+
+Fiscal del Ministerio de Obras Públicas.
