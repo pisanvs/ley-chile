@@ -1,0 +1,5 @@
+Por decreto MOP. No.1.532, de 21 de septiembre de 1998 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP. No.850, de 1997, que fijó el texto actualizado de la ley No.15.840 y del DFL MOP.
+
+No.206, de 1960, se expropió el lote de terreno No.42, para la obra Concesión Internacional Ruta 5, Tramo Temuco - Río Bueno, Km. 726.006,67 al 746.803,60, Novena Región, que figura a nombre de Moenne Loccoz Ducommunn Oscar, rol de avalúo 434-12, comuna de Gorbea, superficie 7.790,3 m². La comisión de peritos integrada por los señores Enrique Vallete de la Harpe, Mario Tillería Torres y Jorge Enrique Brito Gajardo, fijó con fecha 8 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $ 3.589.635.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No.2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
