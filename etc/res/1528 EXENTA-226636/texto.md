@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.528, de 2 de junio de 2004 de esta Subsecretaría, autorízase a PESQUERA AVENDAÑO CARDENAS LIMITADA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en sector rural Curanue s/n, Quellón, X Región, en las líneas de elaboración Cocido, Fresco-enfriado, Fresco-refrigerado, Congelado y Deshidratado, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 2 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
