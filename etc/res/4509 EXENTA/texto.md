@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 4.509 EXENTA, DE 2004, QUE MODIFICA RESOLUCION Nº 191 EXENTA, DE 2004, QUE DELEGA ATRIBUCIONES Y FACULTADES DE DESTINACION DE CADAVERES O PARTES DE ESTOS PARA FINES DE ESTUDIO E INVESTIGACION CIENTIFICA, EN SENTIDO QUE INDICA
+
+La Dirección Nacional del Servicio Médico Legal, por resolución exenta Nº 4.509 de fecha 23/11/04 Modifica resolución exenta Nº191/2004, sobre delegación de Atribuciones y Facultades de Destinación de Cadáveres o partes de éstos para Fines de Estudio o Investigación Científica, en el numeral 1º frase final del cuadro síntesis de delegaciones a nivel nacional, en el sentido de reemplazar a la persona de la Dra. María Viviana San Martín Herrera como delegada del Director del Servicio Médico Legal, para efectuar las destinaciones de cadáveres para fines de estudio o investigación científica en la Región Metropolitana, por el Dr. Juan Carlos Oñate Soto.
+
+- Oscar Vargas Duranti, Director Nacional.
