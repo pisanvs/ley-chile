@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº280, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº38, superficie 182 m², rol de avalúo 2023-344, comuna de Melipilla, para la obra ''Camino Reposición Ruta G-74-F, Sector Melipilla-Bollenar, Km. 0.00000 a Km. 14,23039'' y se acordó el valor de indemnización con su propietario Cristián Mauricio Hodgson Díaz y Otra, ascendente a la cantidad de $1.490.888.
+
+Fiscal del Ministerio de Obras Públicas.
