@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 334 EXENTA, DE 2002
+
+Por resolución exenta Nº 334, de 4 de septiembre de 2002, se estableció que debía dejar de operar y prestar servicios a más tardar el 20 de septiembre de 2002, la Planta Revisora de la clase B0107 de la Comuna de Pozo Almonte, Región de Tarapacá del concesionario Corporación Municipal del Desarrollo Social de Pozo Almonte, ubicada en Arica Nº 454 de Pozo Almonte, y por lo considerado en la resolución Nº 21 del 27 de enero de 2003 se resolvió publicar extracto en el Diario Oficial la fecha efectiva a partir de la cual ha dejado de prestar servicios la Planta de Revisión Técnica, esto es, el día 25 de noviembre de 2002, con lo cual se entenderá por cumplida y totalmente tramitada la resolución exenta Nº 334, del año 2002 de esta Secretaría Regional.
+
+Anótese, notifíquese y publíquese en extracto. Iquique, 27 de septiembre de 2002.- Jorge Cáceres Godoy, Secretario Regional Ministerial de Transportes y Telecomunicaciones I Región Tarapacá.
