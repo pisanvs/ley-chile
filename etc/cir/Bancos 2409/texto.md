@@ -2788,10 +2788,6 @@ En ningún caso los cargos por comisiones podrán ser superiores al saldo de la 
 
 Los cargos por concepto de comisiones sobre las cuentas de ahorro a plazo pueden ser considerados para efectos del cálculo de los reajustes e intereses de que tratan los numerales 8.2 y 9.2 de estas normas, por cuanto disminuyen el saldo efectivo de la cuenta en la oportunidad de ser cargados pero, naturalmente, no pueden computarse como giros para la determinación de la cantidad de giros realizados.
 
-10.4. Cobro de comisiones por el uso de dispositivos electrónicos.
-
-Para el cobro de comisiones o recuperación de gastos por el uso de dispositivos electrónicos autosuficientes, las instituciones financieras se deben atener a lo dispuesto en el título III del Capítulo 1-7 de esta Recopilación.
-
 ### 11. Desahucio o cierre de una cuenta de ahorro
 
 Las cuentas de ahorro son de plazo indefinido por lo que sus saldos, mientras esté vigente la cuenta, no quedan sujetos a caducidad. Por consiguiente, en el caso de las cuentas de ahorro a plazo, los reajustes e intereses deben seguir abonándose a la cuenta respectiva, aunque ella no tenga movimiento.
@@ -14676,7 +14672,9 @@ Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 
 12020 12,0 20.
 
-> **Nota.** La letra C) de la Circular 2928, SBIF, promulgada el 08.04.1998, complementa el presente Anexo, agregando nuevos códigos de tablas de desarrollo.
+> **Nota.** La letra C), de la Circular 2928, SBIF, promulgada el 08.04.1998, complementa el presente Anexo, agregando nuevos códigos de tablas de desarrollo.
+
+> **Nota.** NOTA 1 La letra B), de la Circular 3034, SBIF, promulgada el 30.11.1999, complementa el presente Anexo, agregando nuevos códigos de tablas de desarrollo.
 
 CAPITULO 9-5 (Bancos y Financieras)
 
@@ -21366,7 +21364,7 @@ Ante la sola solicitud del importador, los bancos podrán traspasar a la entidad
 
 En caso que se hayan efectuado coberturas parciales al amparo del Informe de Importación que se solicita traspasar, la institución que realizó alguna venta de divisas para esa importación, deberá mantener en sus archivos los documentos señalados en el N° 9 de este capítulo, inherentes a tales coberturas.
 
-Del mismo modo, ante el solo requerimiento del importador, las empresas bancarias podrán traspasar la Planilla de Cobertura Egreso Comercio Visible debidamente endosada, a la entidad bancaria que éste designe, a fin de que la entidad designada efectúe la venta de divisas de conformidad con lo dispuesto en el Capítulo III del Título III del Compendio de Normas de Cambios Internacionales.
+Del mismo modo, ante el solo requerimiento del importador, las empresas bancarias podrán traspasar la Planilla de Cobertura Egreso Comercio Visible debidamente endosada, a la entidad del Mercado Cambiarlo Formal que éste designe, a fin de que la entidad designada efectúe la venta de divisas de conformidad con lo dispuesto en el Capítulo III del Título III del Compendio de Normas de Cambios Internacionales.
 
 Los endosos, sea del Informe de Importación o de la Planilla de Cobertura, deberán extenderse en la forma dispuesta en las normas del Instituto Emisor.
 
