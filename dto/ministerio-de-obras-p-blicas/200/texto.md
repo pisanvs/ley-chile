@@ -124,9 +124,23 @@ b) Destinar, comisionar y encargar cometidos al personal dentro de sus respectiv
 
 c) Adquirir, en moneda nacional, conforme al reglamento respectivo, los bienes muebles necesarios para el Servicio, debiendo hacerlo por intermedio de la Dirección General de Aprovisionamiento del Estado, cuando se trate de adquisiciones de útiles y mobiliario de oficina que figuren en los cuadros de distribución de dicha Institución;
 
-d) Velar por el buen uso y conservación de los bienes a cargo de sus Servicios; y
+d) Velar por el buen uso y conservación de los bienes a cargo de sus Servicios;
 
-e) Proporcionar a la Dirección General de Obras Públicas y a la Dirección de Planeamiento y Urbanismo, en su caso, los antecedentes relacionados con el personal y con las actividades del Servicio en la forma en que le sean solicitados.
+e) Proporcionar a la Dirección General de Obras Públicas y a la Dirección de Planeamiento y Urbanismo, en su caso, los antecedentes relacionados con el personal y con las actividades del Servicio en la forma en que le sean solicitados;
+
+f) Fiscalizar el cumplimiento de las disposiciones legales y reglamentarias;
+
+g) Sustanciar las investigaciones sumarias y sumarios administrativos que le encomienden las autoridades a que se refiere el artículo 22, letra b) de la ley Nº 15.840;
+
+h) Tramitar las expropiaciones y adquisiciones de inmuebles de acuerdo al artículo 60 de la ley Nº 15.840, en la forma en que fue reemplazado por el decreto ley Nº 688, de 1974;
+
+i) Asesorar, informar y pronunciarse sobre los asuntos legales que le encomienden las autoridades a que se refiere la letra g);
+
+j) Proporcionar los antecedentes y colaborar con el Consejo de Defensa del Estado en los juicios relacionados con el Ministerio y sus servicios dependientes;
+
+k) Redactar los contratos, escrituras públicas y demás documentos legales en que intervengan el Ministerio o sus Servicios dependientes, y
+
+l) Llevar el Registro para Contratos de Obras Públicas.
 
 ## Título IV
 
