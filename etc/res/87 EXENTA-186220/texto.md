@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCION Nº 87 EXENTA, DE 2001
+
+Por resolución exenta Nº 87 del 14.05.2001 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la V Región, se otorga Reconocimiento Oficial a la Escuela de Conductores Profesionales denominada Silobecap, ubicada en San Agustín 584 de Concón, representada por don Jaime Lobos Cabero, para impartir los cursos conducentes a la obtención de Licencia Profesional clases A-1, A-2, A-3, A-4 y A-5.
