@@ -1,0 +1,5 @@
+Por resolución Nº 229 de 2 de febrero de 1999 de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.521 de 1990, de esta Subsecretaría, que autorizó a PESQUERA MARBELLA S.A., para operar la nave "Costa Grande 3", sólo en lo relativo a la especie Jurel, en el litoral de la III y IV Regiones.
+
+Declárase la caducidad parcial de la resolución Nº 15 de 1996, de esta Subsecretaría, que autorizó a Pesquera Marbella S.A., para ampliar actividades pesqueras extractivas con la nave "Costa Grande 3", sólo en lo relativo a las especies Palometa, en el litoral de la X Región; Jibia, en el litoral comprendido entre el límite norte de la I Región y el límite sur de la X Región y Raya volantín, en el litoral comprendido entre el límite norte de la VIII Región y el paralelo 41ø28,6' L.S.
+
+Valparaíso, 2 de febrero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
