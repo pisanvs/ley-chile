@@ -1,0 +1,3 @@
+Por resolución Nº1.577, de 17 de julio de 2000, deniégase la solicitud de autorización de acuicultura Nº96103173, presentada por SOCIEDAD COMERCIAL E INDUSTRIAL AGROMAR LTDA., para operar un centro de cultivo en Lago Lepue, Comuna de Queilén, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
