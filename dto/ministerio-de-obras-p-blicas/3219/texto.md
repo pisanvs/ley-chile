@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.219, de 31 de julio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 4 y 6, para la obra: ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Acceso Oriente Túnel Zapata Km. 54.660,00 a Km.
+
+55.260,00'', Región Metropolitana, que figuran a nombre de Hernández Cid Silvia, rol de avalúo 107-304, comuna de Curacaví, superficies de 9.944 m2 y 10.542 m2, respectivamente. La comisión de peritos integrada por los señores Marlene Teresa Ríos Marcuello, María Cristina Camus Palacios y María Pilar Quiroga González, fijó con fecha 22 de mayo de 2000, el valor provisional de la indemnización en las cantidades de $26.548.200.- para el lote Nº 4 y $17.274.600.- para el lote Nº 6 La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
