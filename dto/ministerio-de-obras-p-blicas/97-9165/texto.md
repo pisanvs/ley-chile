@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 97, de fecha 31 de marzo de 1994, se expropió el lote de terreno N° 7, superficie 462 M2., rol de avalúo 123-13, Comuna de Pencahue, para la obra Regadío Pencahue, Canal Las Doscientas Norte y se acordó valor de indemnización con sus propietarios Agustín del C. Castro González y Mariana del C. Núñez Ramírez, ascendente a la cantidad de $ 24.366.-
+
+Fiscal del Ministerio de Obras Públicas.
