@@ -114,6 +114,8 @@ Será facultad de la Dirección de Instrucción disponer la tramitación del nom
 
 Para este objeto, se constituirá una Comisión presidida por el Director de Instrucción, por el Jefe de Estudios y dos Profesores del Plantel que requiera los nombramientos, debiendo estos últimos ser propuestos por la Dirección de cada establecimiento.
 
+En caso de no disponer de Profesores Civiles que reúnan los requisitos exigidos a su respecto en los Títulos III, IV y V, respectivamente, se podrá nombrar como tal, a la persona que se estime más idónea, atendidos los conocimientos y especialidad que posea.
+
 Las peticiones de nombramiento de Profesores deben ser cursadas a la Dirección de Instrucción, para que la Comisión respectiva proceda al estudio de los antecedentes de cada oponente. Las Reparticiones de las cuales dependan Grupos de Instrucción, u otros Cursos, adoptarán similar procedimiento, interviniendo en la selección de estos Profesores la Comisión que el Director de Instrucción nomine para estos efectos.
 
 Aprobadas las proposiciones correspondientes, se solicitará la dictación del decreto respectivo.
