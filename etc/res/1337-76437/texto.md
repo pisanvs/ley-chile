@@ -1,0 +1,3 @@
+Por Resolución Nº 1.337, de 14 de octubre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de reposición presentada por PESQUERA ORION S.A., que denegó el Certificado de Transferencia de la nave "Nicolás I", en virtud de lo dispuesto en el informe y disposiciones legales.
+
+Valparaíso, 14 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
