@@ -1,0 +1,3 @@
+Por resolución Nº456, de 7 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud para ampliar el plazo otorgado a don JUAN ALBERTO CARRIZO URBINA, para continuar operaciones pesqueras en el litoral de la I y II Regiones, con la nave ''Aurora Patricia'', autorizada por las resoluciones Nº210 de 1986 y Nº1.126 de 1987, ambas de esta Subsecretaría, en razón de haberse invocado la ocurrencia de una situación de fuerza mayor, con posterioridad al plazo de 12 meses de suspensión de actividades previsto en el artículo 143 de la Ley Nº18.892 y sus modificaciones.
+
+Valparaíso, 7 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
