@@ -1,0 +1,3 @@
+Por decreto MOP Nº 706 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº 2, superficie 9.516 m², Rol de avalúo Nº 599-4, comuna de San Ignacio, para la obra: "Proyecto Laja Diguillín, Canal Matriz Diguillín - Larqui Km. 6,416 al Km. 11,893, comuna de San Ignacio, provincia de Ñuble", VIII Región y se acordó el valor de indemnización con su propietario Rafael Antonio Fuentealba Herrera y Otra, ascendente a la cantidad de $7.535.445.
+
+- Fiscal del Ministerio de Obras Públicas.
