@@ -1,0 +1,3 @@
+Por resolución Nº 1.146 de 3 de junio de 2003 de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.004 de 1987, de esta Subsecretaría, que autorizó a RENE CUPERTINO BOLADOS CONTRERAS para operar la nave "Doña Sara", entre la III y VI Regiones, sobre los recursos hidrobiológicos: Jurel, Sardina española, Caballa, Anchoveta, Bonito, Cojinoba del norte y Cachurreta, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 3 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
