@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.101, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº42, superficie 1.480 m², rol de avalúo 221-22, comuna de Coelemu, para la obra "Camino Ruta O-170, O-176, Sector Acceso a Guarilihue, Tramo I, Km. 0,00000 al 8,28000", y se acordó el valor de indemnización con su propietario José Hinojosa Fuentealba, ascendente a la cantidad de $1.707.388.-
+
+Fiscal del Ministerio de Obras Públicas.
