@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 374, de 31 de marzo de 1998, se expropiaron los lotes de terreno Nº s. 16-A y 35, superficies 380 M2. y 811 M2., roles de avalúos en trámite, comuna de Chimbarongo, obra Ruta I-85-J, sector Cruce Longitudinal Chimbarongo Codegua y se acordó precio de indemnización con sus propietarios Leopoldo Rojas Rojas y Luis Matus Arévalo, ascendente a las cantidades de $ 1.583.600 y $ 1.946.544.-
+
+Fiscal del Ministerio de Obras Públicas.
