@@ -1,0 +1,1 @@
+Libera de todo derecho, impuesto o contribución la internación de las máquinas que indica, destinadas a las Municipalidades de La Cisterna y de Providencia y a la Escuela de Agronomía de la Universidad Católica de Santiago.
