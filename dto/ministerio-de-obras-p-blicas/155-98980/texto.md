@@ -1,0 +1,3 @@
+Por decreto MOP. No l55, de 18 de febrero de 1998, se expropió el lote de terreno No 6-A, superficie 4.366 M2., rol de avalúo 261-4, comuna de Tucapel, para la obra Proyecto Laja - Diguillín, Sector Laja Huépil, Canal Matriz, Variante El Litre y se acordó precio de la indemnización con sus propietarios Olga Inés Henríquez y Otro, ascendente a la cantidad de $897.825.-
+
+Fiscal del Ministerio de Obras Públicas.
