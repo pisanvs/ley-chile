@@ -1,0 +1,5 @@
+Por decreto MOP. No. 987, de 30 de julio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. No. 850, de 1997, que fijó el texto actualizado de la ley No.
+
+15.840 y del DFL. No. 206 de 1960, se expropió el lote de terreno No. 4-C, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, sector km. 161.580,00 al 165.800,00, V Región, que figura a nombre de Coop. Campesina Sta. Victoria, rol de avalúo 361-8, de la comuna de La Ligua, superficie 307 m2. La Comisión de Peritos integrada por los Sres. María Isabel Ríos Marcuello, Joaquín Prieto Ochagavía y Claudia Paola Arellano Gómez, fijó con fecha 15 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $ 2.177.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
