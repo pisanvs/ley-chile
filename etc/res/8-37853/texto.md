@@ -1,0 +1,21 @@
+CONSTITUCION DEL "MOVIMIENTO PROGRESISTA INDEPENDIENTE"
+
+Por resolución Exenta N° 0-0008 de fecha 13 Enero 1993 se dispuso la publicación del siguiente extracto, para los efectos señalados en el artículo 29 de la Ley N° 18.603.
+
+"En Santiago de Chile, con fecha 19 de Mayo de 1992, ante el Notario Titular de la Séptima Notaría de Santiago, don Arturo Carvajal Escobar, se otorgó la escritura de constitución del "Movimiento Progresista Independiente", "MPI", modificada por escrituras públicas otorgadas ante el Notario Titular de la Séptima Notaría de Santiago, don Arturo Carvajal Escobar, con fechas 14 de Julio de 1992, 30 de Noviembre de 1992, 10 de Diciembre de 1992, 23 de Diciembre de 1992 y 7 de Enero de 1993.
+
+Su sigla es "M.P.I.". Su símbolo: en fondo blanco teniendo en color azul y gruesas letras MPI, teniendo en la parte superior y baja un trazo de color rojo. Su lema: Fuerza del Futuro.
+
+RESUMEN DECLARACION DE PRINCIPIOS:
+
+El Movimiento Progresista Independiente está integrado por personas progresistas que, con distintas creencias o postulados filosóficos, están de acuerdo en desear para Chile un régimen político, económico y social justo, basado en la soberanía popular, democrático, humanista y solidario, que grantice el respeto de las normas establecidas en la Declaración Universal de los Derechos del Hombre. Desean: una verdadera justicia social, que permita que el bienestar económico, social y cultural pueda ser disfrutado por la totalidad de los chilenos. Promueven: El respeto a la libertad, la parcipación social yla solidaridad como elementos centrales de convivencia y el bien común. Entienden: que la igualdad ante la Ley involucra garantizar derechos y posibilidades, sin discriminaciones de ningún tipo, asumiendo el compromiso de luchar por una real integración y participación en la sociedad de todos aquellos que, teniendo capacidad, por diversas razones no pueden hacerlo. Desean: que Chile, en sus relaciones internacionales, sea siempre un Estado soberano que apoya la distensión, la autodeterminación de los pueblos y el entendimiento entre los países, privilegiando, con sentido bolivariano, la integración latinoamericana.
+
+Que la Directiva Central Provisional del Movimiento Progresista Independiente ha quedado constituida de la siguiente forma: Presidente: Ximena Orrego Montes; Primer Vicepresidente: Miguel Enrique Pizarro Olivares; Segundo Vicepresidente: Sara M. Elena Fornés Llona; Tercer Vicepresidente: Ricardo Fernández Sanhueza; Cuarto Vicepresidente: Ramón Humberto Mancilla Sánchez; Quinto Vicepresidente: Adriana del C. Durán Munita; Secretario General: Juan Carlos Miraga Duque; Subsecretario General: Luis Rodrigo Martínez Zamora; Tesorero: María Angélica Valenzuela Valenzuela; Vocal: Ema Ximena Hormazábal Campaña; Vocal: Willibardo J. Arratia Fábrega; Vocal: Luis Alberto Neira Figueroa; Vocal: Sergio Santis León; Vocal: Rosa A. Díaz León; Vocal: María Luz Valenzuela Césped; Vocal: Carlos Esteban Cáceres Figueroa; Vocal: Patrocinia del C. Allende Cancino; Vocal: Mónica Zamora Cazabón; Vocal: Sandra Hermosilla Sanhueza; Vocal: César Tuma Castro; Vocal: Evandro A. Martínez Fuentes.
+
+Que el Tribunal Supremo Provisional del Movimiento Progresista Independiente ha quedado constituido de la siguiente forma: Presidente: Gerald Smith Hese; Vicepresidente: Jorge Enrique Bravo Muñoz; Secretario y Ministro de Fe: María Magdalena Valenzuela Valenzuela; Director: Williams Cáceres Figueroa; Director: Benito Núñez Muñoz.
+
+El domicilio cumún de la Directiva Central y del Tribunal Supremo Provisionales, es calle Dos número siete mil sesenta y siete, comuna de Cerrillos.
+
+En caso que se produzca vacante por cualquier causa de uno o más de los cargos de la Directiva Central Provisional o Tribunal Supremo provisional, antes de la constitución del Consejo General, el cargo será provisto por acuerdo de la mayoría de los miembros de la Directiva Central Provisional, de entre los suscriptores de la presente escritura. Igual se procederá en el caso de producirse la vacante por fallecimiento, renuncia o imposibilidad de ejercer el cargo antes de la inscripción del Partido".-
+
+Juan Ignacio García Rodríguez, Director Servicio Electoral.
