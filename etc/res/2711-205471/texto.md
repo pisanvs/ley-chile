@@ -1,0 +1,3 @@
+Por resolución Nº 2.711, de 20 de noviembre de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Caleta Pan de Azúcar, III Región, individualizada en el artículo 1º Nº 3 del D.S. Nº 72 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentado por SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS MARISCADORES ARTESANALES DE CHAÑARAL.
+
+Valparaíso, 20 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
