@@ -1,0 +1,5 @@
+Por decreto MOP Nº641, de 28 de marzo de 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 20, 23, 24, 25 y 28, para la ejecución de la obra ''Mejoramiento Avda. Las Golondrinas - Talcahuano, Sector Golondrinas, Km. 2,80000 a Km. 3,23444, (Sector II)'', que figuran a nombre de María E. Morales González y Otros, Suc. Jorge D. Salinas Salinas, José Garcés Matamala, Luis C. Donoso Lara y Otro y Univ. Téc. Federico Sta. María C. Educ., roles de avalúo 3514-9, 3514-5, 3514-6, 3514-4 y 3599-2, comuna de Talcahuano, VIII Región, superficies 930, 465, 465, 720 y 591,20 m2. La Comisión de Peritos fijó, con fecha 30 de noviembre de 2001, el valor provisional de la indemnización en la cantidad de $94.021.091, lote 20; $50.284.913, lote 23;
+
+$56.079.942, lote 24; $81.203.070, lote 25, y $35.801.960, lote 28. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
