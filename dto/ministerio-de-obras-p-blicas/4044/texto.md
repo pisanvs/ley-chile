@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.044, de 30 de diciembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 25 y 27, para la obra Concesión Internacional Ruta 5. Tramo Río Bueno - Puerto Montt. Sector Cuatro Vientos.
+
+Km. 959,840 al Km. 961,200, Décima Región, que figura a nombre de Gimpel Nannig Alfredo C, rol de avalúo 329-116, comuna de Purranque, superficies 8.061 m² y 26.923 m² respectivamente. La Comisión de Peritos integrada por los señores Nelson Fabián Igor Flores, Christian Emil Rauch Yáñez y Enrique Edgardo Hoelck Altmann, fijó con fecha 29 de octubre de 1999, el valor provisional de las indemnizaciones en las cantidades de $8.262.547.- para el lote Nº25 y de $32.996.845.- para el lote Nº27. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
