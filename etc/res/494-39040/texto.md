@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 494 de 20 de mayo de 1993 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó a la sociedad González y Compañía Limitada (Transporte Aconcagua Santiago T.A.S. Choapa Limitada o T.A.S. Choapa Limitada) para efectuar transporte internacional terrestre de pasajeros entre Santiago (Chile) y Lima (Perú), por Paso Concordia, con dos frecuencias semanales de ida y vuelta.-
+
+Fernando Zúñiga Ivany, Subsecretario de Transportes Subrogante.
