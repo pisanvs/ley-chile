@@ -1,0 +1,7 @@
+AUTORIZA A DOÑA MYRIAM ROSA ISABEL CACERES GONZALEZ PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 899, de 25 de Agosto de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a doña Myriam Rosa Isabel Cáceres González, R.U.T. No. 4.764.190-K, domiciliada en calle Libertad No. 147, Chiguayante, Concepción, VIII Región, para iniciar actividades pesqueras, en orden a operar una planta industrial en la X Región, ubicada en sector Pilauco, Osorno, donde procesará en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Para fresco - enfriado y congelado, Albacora o pez espada, Anchoa o Anchoveta, Bacalao de profundidad, Cojinoba del Sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Lisa, Merluza común, Merluza del Sur, Pejegallo, Raya, Tollo, Almeja o taca, Almeja, Caracol trumulco, Cholga, Chorito, Choro, Lapa, Loco, Macha, Navajuela, Ostra chilena y Jaiba. Para secado y molienda de algas Cochayuyo, Chasca, Chicorea de mar, Huiro, Luche y Luga-luga. Para secado, Pelillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 25 de Agosto de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
