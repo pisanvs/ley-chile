@@ -1,0 +1,3 @@
+Por resolución Exenta No. 26 de fecha 24.6.85 de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones XI Región, se autoriza el Sr. Antonio Rodríguez Rodríguez para efectuar servicio de taxi colectivo urbano de la Línea No. 1 Circunvalación, cuyo trazado fue autorizado por la Resolución No. 12 de fecha 21.6.84 de esta Secretaría Regional.-
+
+Coyhaique, 24 de Junio de 1985.- Eliecer Aedo Rivera, Secretario Regional Ministerial de Transportes y Telecomunicaciones XI Región Aysén.
