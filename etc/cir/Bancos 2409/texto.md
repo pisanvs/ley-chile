@@ -5772,7 +5772,7 @@ De conformidad con lo dispuesto por el Consejo del Banco Central de Chile, el va
 
 c) Tipo de cambio del dolar de los Estados Unidos de América.
 
-El Banco Central de Chile determina diariamente el valor del tipo de cambio del dólar de los Estados Unidos de América, correspondiente al valor promedio ponderado de las compras y ventas de dicha moneda realizadas por las empresas bancarias situadas en el país, en el día hábil bancario anterior al de su publicación y vigencia, excluidas las transacciones señaladas por el Instituto Emisor en el Capítulo II.B.3 del Compendio de Normas Financieras.
+El Banco Central de Chile determina diariamente el valor del tipo de cambio del dólar de los Estados Unidos de América, sobre la base de las transacciones realizadas en el día hábil bancario inmediatamente anterior al de su publicación y vigencia.
 
 2.3- Publicación de valores de los sistemas de reajustabilidad.
 
@@ -5914,7 +5914,7 @@ Las obligaciones en moneda nacional reajustables por el valor del dólar deben p
 
 En cambio, las obligaciones expresadas en moneda extranjera deben solucionarse por su equivalente en moneda chilena al tipo de cambio vendedor del día de pago, según lo dispuesto en el artículo 20 de la Ley N° 18.010. El interés máximo convencional aplicable en este caso, es el correspondiente a los créditos en dólares de EE.UU. de América o expresados en moneda extranjera, señalado en la letra d) del numeral 5.1 de este título
 
-Es importante tener presente que las disposiciones del Capitulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, no permiten a las empresas bancarias y sociedades financieras realizar captaciones o colocaciones pactadas de la forma señalada en el párrafo precedente, salvo cuando se trate de las operaciones a que se refieren los Capitules V.B.1 o V.B.2 del mismo Compendio, o de la adquisición de valores mobiliarios de renta fija.
+Es importante tener presente que las disposiciones del Capitulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, no permiten a las empresas bancarias y sociedades financieras realizar captaciones o colocaciones pactadas de la forma señalada en el párrafo precedente, salvo cuando se trate de las operaciones a que se refieren los Capitules V.B.1 o V.B.2 del mismo Compendio, o de la adquisición de valores mobiliarios de renta fija. Aun cuando no se señala expresamente en el citado Capítulo III.B.1, debe entenderse que también se exceptúan de dicha limitación las Boletas de Garantía que emiten los bancos, conforme a lo señalado en el Capítulo 8-11 de esta Recopilación.
 
 Cabe agregar también que el artículo 24 de la Ley 18.010 deja expresamente establecido que en esas obligaciones expresadas en moneda extranjera, pagaderas en pesos, no puede pactarse otra forma de reajuste que la que llevan implícita.
 
@@ -6022,7 +6022,7 @@ La suma de dichos intereses y reajustes se registrara en la cuenta "Devengo de i
 
 b) Bonos y debentures.
 
-Los intereses y reajustes devengados, no reconocidos en los resultados, por inversiones en bonos o debentures, se registraran en las siguientes cuentas: "Intereses devengados de bonos y debentures riesgosos vigentes" o "Intereses devengados de bonos y debentures vencidos", de la partida 9490 del formulario MB1 y "Reajustes devengados de bonos y debentures riesgosos vigentes" o "Reajustes devengados de bonos y debentures riesgosos vencidos" de la partida 9510 de dicho formulario, respectivamente, con abono a la cuenta "Devengo de intereses y reajustes de bonos y debentures riesgosos", de la partida 9900 del formulario MB1.
+Los intereses y reajustes devengados, no reconocidos en los resultados, por inversiones en bonos o debentures, se registraran en las siguientes cuentas: "Intereses devengados de bonos y debentures riesgosos vigentes" o "Intereses devengados de bonos y debentures riesgosos vencidos", de la partida 9490 del formulario MB1 y "Reajustes devengados de bonos y debentures riesgosos vigentes" o "Reajustes devengados de bonos y debentures riesgosos vencidos" de la partida 9510 de dicho formulario, respectivamente, con abono a la cuenta "Devengo de intereses y reajustes de bonos y debentures riesgosos", de la partida 9900 del formulario MB1.
 
 3.1.4. Suspensión de reajustes e intereses en créditos registrados a su valor final.
 
