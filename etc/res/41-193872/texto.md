@@ -1,0 +1,3 @@
+Por resolución Nº 41, de 9 de enero de 2002, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 275 de 1997 y Nº 1.131 de 2001, ambas de esta Subsecretaría, que autorizaron a don MARIO ORELLANA PALMA, para operar la nave "Claevelkaren", matrícula 340, en virtud de lo señalado en el Art. 143 letra b) del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 9 de enero de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
