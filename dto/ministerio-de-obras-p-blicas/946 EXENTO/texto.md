@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 946 de fecha 29 de agosto de 2003, se expropiaron los lotes de terreno Nos 83, 84 y 86, superficies 429 m², 129 m² y 432 m², rol de avalúo Nº 159-9, comuna de Ranquil, para la obra "Camino Ruta O-66-N, Sector Nueva Aldea-Ñipas, Tramo I Km. 0,00000 a Km. 5,58300 y Tramo II Km. 5,57900 a Km. 10,19480", VIII Región y se acordó el valor de la indemnización con su propietaria Angélica Honoria Muñoz Gacitúa y otra, ascendente a la cantidad de $3.628.522.
+
+Fiscal del Ministerio de Obras Públicas.
