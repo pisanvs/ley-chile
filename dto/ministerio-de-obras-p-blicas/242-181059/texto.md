@@ -1,0 +1,3 @@
+Por decreto MOP Nº242, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº12, superficie 457,00 m², rol de avalúo 620-3, comuna de Ovalle, para la obra "Camino Ovalle-Huamalata-Algarrobo, Sector Ovalle-Villaseca, Km. 0,00000 a Km. 5.98083" y se acordó el valor de indemnización con su propietaria Mirella Jacqueline Villalobos Rivera, ascendente a la cantidad de $703.612.-
+
+Fiscal del Ministerio de Obras Públicas.
