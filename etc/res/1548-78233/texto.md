@@ -1,0 +1,3 @@
+Por Resolución Nº 1.548, de 14 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la solicitud de concesión de acuicultura, solicitud Nº 95104004, presentada por ROBERTO CARLOS VIAL ARANGUA, para el centro de cultivo ubicado en Banco San Agustín, Estero Rulo, comuna de Calbuco, provincia de Llanquihue, X Región, conforme lo dispuesto en los artículos 10 letra c) y 14 del Decreto Supremo Nº 290, de 1993 del Ministerio de Economía, y Fomento y Reconstrucción.
+
+Valparaíso, 14 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
