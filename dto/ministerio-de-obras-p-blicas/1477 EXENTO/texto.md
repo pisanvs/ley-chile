@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.477 de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº2, superficie 3.240 m2, rol de avalúo Nº157-15, comuna de Pemuco, para la obra ''Area de Riego Pemuco, Canal El Oyente Ramal 4 Km. 0,014 al Km. 0,645 del Proyecto Laja Diguillín'' y se acordó el valor de indemnización con su propietario Manuel Eladio Ocampo Salinas, ascendente a la cantidad de $1.303.530.
+
+- Fiscal del Ministerio de Obras Públicas.
