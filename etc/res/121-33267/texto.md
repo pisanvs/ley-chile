@@ -1,0 +1,7 @@
+Por resolución N°121, de 19 de Enero de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don JOSE SZIGETI DOLANYI, R.U.T. N°3.460.241-7, para incorporar el recurso que indica y apruébase el respectivo proyecto técnico y modificación del cronograma de actividades del centro de cultivo autorizado por Resolución N°53, de 1989, de esta Subsecretaría, ubicado en Sector Ruta 5, Km.1266, Predio 32, Segundo Sector Fundo Coihuín, Localidad de Molulco, Comuna de Quellón, Provincia de Chiloé, X Región, en orden a incorporar al centro de cultivo individualizado precedentemente las especies Salmón del Atlántico, Salmón Rey, Trucha arcoiris y Trucha café, Salmo Trutta, en donde cultivará además, la señalada en la Resolución N°53, de 1989, de esta Subsecretaría, esto es, Salmón plateado.
+
+El interesado deberá cultivar y tener una producción de las especies e instalar la infraestructura que se autoriza, de acuerdo a lo establecido en la presente Resolución y el proyecto técnico aprobado.
+
+El interesado deberá inscribirse oportunamente en el Registro Nacional de Acuicultura, que llevará el Servicio Nacional de Pesca.
+
+Valparaíso, 19 de Enero de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
