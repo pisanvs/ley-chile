@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 703, de fecha 30 de junio 2003, se expropió el lote de terreno Nº 146-A, superficie 6.245 m², rol de avalúo 628-27, comuna de Mulchén, para Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli. Sector: Km. 553.470,00 al Km. 558.740,00, VIII Región y se acordó el valor de indemnización con Sady Julio Villalobos Sanhueza, ascendente a la cantidad de $4.619.301.
+
+- Fiscal del Ministerio de Obras Públicas.
