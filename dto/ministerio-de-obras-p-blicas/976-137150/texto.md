@@ -1,0 +1,5 @@
+Por decreto MOP Nº976, de 29 de abril de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs 1, 2 y 3, para la obra Mejoramiento del Sistema de Agua Potable del sector de Pelluco de Puerto Montt, que figuran a nombre de Inmobiliaria Habitacorp S.A. y María Lafrentz Schwerter, roles de avalúos 2205-47 y 2196-42, comuna de Puerto Montt, X Región, superficies 399,95 m², 352,33 m² y 506 m². La Comisión de Peritos compuesta por los señores Carlos Mera Santibáñez, Jaime Sanz Bahamonde y Juan Christian Rauch Yáñez, fijó con fecha 23 de febrero de 1999, el valor provisional de la indemnización en la cantidad de $15.600.000, lote 1;
+
+$1.800.054, lote 2 y $2.600.334, lote 3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
