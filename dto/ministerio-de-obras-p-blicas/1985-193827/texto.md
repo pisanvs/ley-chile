@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.985, de 30 de noviembre de 2001, se expropió el lote de terreno Nº95-C, superficie 1.733 m2., rol de avalúo 1437-6, comuna de Llanquihue, para la obra Concesión Internacional Ruta 5 Tramo Río Bueno Puerto Montt. Sector Llanquihue Norte Kms. 997,300 al 998,00, Décima Región y se acordó el valor de indemnización con su propietario Ilustre Municipalidad de Llanquihue, ascendente a la cantidad de $4.896.332.
+
+- Fiscal del Ministerio de Obras Públicas.
