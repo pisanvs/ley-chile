@@ -1,0 +1,3 @@
+Por Resolución N° 442, de 25 de Junio de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 731, de 1991, de esta Subsecretaría, que autorizó a don EUGENIO RAUL YOKOTA BEURET, R.U.T. N° 6.856.865-K, domiciliado en Antonio Varas N° 77, Calbuco, X Región, para instalar y operar un establecimiento de cultivo en Estero Chauquear, Isla Puluqui, Comuna de Calbuco, Provincia de Llanquihue, X Región, en el sentido de reemplazar en el numeral 2° de la citada Resolución la siguiente expresión: "... en un área de 33.000 M2..." por la frase "... en un área de 11.400 M2...".
+
+Valparaíso, 25 de Junio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
