@@ -1,0 +1,3 @@
+Por decreto MOP Nº 858 de fecha 30 de septiembre de 2004, se expropio el lote de terreno Nº 6-A, superficie 352 m2, rol Nº 153-32, comuna de San Vicente, VI Región para la obra "Mejoramiento Camino Ruta H-724, Sector la Gruta-Pueblo de Indios, Km.0,000 a Km.1,187 y Sector Ruta H-730, Km.1,600 al Km.3,292", y se acordó el valor de indemnización con su propietaria Erika de las Mercedes Jiménez Soto y otros, ascendente a la cantidad de $10.492.134.
+
+- Fiscal del Ministerio de Obras Públicas.
