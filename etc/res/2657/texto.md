@@ -1,0 +1,3 @@
+Por resolución Nº 2.657, de 30 de diciembre de 1999, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.110 de 1990, de esta Subsecretaría, que autorizó al SINDICATO DE TRABAJADORES INDEPENDIENTES, CULTIVADORES Y EXPLOTADORES DE ALGAS ''EL LUCERO'' para instalar y operar el centro de cultivo ubicado en Golfete de Quetalmahue, comuna de Ancud, provincia de Chiloé, X Región.
+
+Valparaíso, 30 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
