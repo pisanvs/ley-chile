@@ -1,0 +1,3 @@
+Por decreto MOP Nº303, de fecha 29 de diciembre de 2000, se expropió el lote de terreno Nº14, superficie 518,60 m², rol de avalúo 620-2, comuna de Ovalle, para la obra "Camino Ovalle-Huamalata-Algarrobo, Sector Ovalle-Villaseca, Km. 0,0000 a Km. 5.98083" y se acordó el valor de indemnización con su propietario Gabriel Enrique Bravo Cartes, ascendente a la cantidad de $918.208.-
+
+Fiscal del Ministerio de Obras Públicas.
