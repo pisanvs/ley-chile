@@ -1,0 +1,3 @@
+Por resolución Nº 315, de 6 de febrero de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo denominada Península de Coquimbo, Sector C, IV Región, individualizada en el artículo 1º Nº 3 del DS Nº 110 de 1999, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION GREMIAL DE BUZOS Y ASISTENTES DE BUZOS DE COQUIMBO.
+
+Valparaíso, 6 de febrero de 2002.- Edith Saa Collantes, Subsecretario de Pesca (S).
