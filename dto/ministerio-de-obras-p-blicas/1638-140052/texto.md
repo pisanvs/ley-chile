@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.638, de 22 de junio de 1999, se expropió el lote de terreno Nº8, superficie 264 m2., rol de avalúo 152-37, comuna de Maule, para la obra Ruta 5, Tramo Talca-Chillán, Intersección Desnivelada Acceso a Maule, Séptima Región, y se acordó el valor de indemnización con su propietario Héctor M. Ortiz Berríos, ascendente a la cantidad de $1.687.296.-
+
+Fiscal del Ministerio de Obras Públicas.
