@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.817, de 31 de octubre de 2001, se expropió el lote de terreno Nº 17-1, superficie 407 m2, rol de avalúo 118-50, comuna de Quilicura, para la obra Camino Santiago-Colina-Los Andes, sector "A", A. Vespucio-By Pass Colina, Región Metropolitana y se acordó el valor de indemnización con su propietario Arturo José Amenábar Vives, ascendente a la cantidad de $10.469.200.- el que se pagará mediante la entrega en compensación del terreno individualizado como lote Nº 17-2 en el plano y cuadro de compensación.
+
+Fiscal del Ministerio de Obras Públicas.
