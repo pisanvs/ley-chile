@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 536 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 3, superficie 3.383 m², Rol de Avalúo Nº 264-92, comuna de Chanco, para la obra ''Camino Ruta M-450, Sector: Chanco - Empredrado (Acceso a Puente Rari), Tramo Km. 14,120 a Km. 14,925'' VII Región y se acordó el valor de indemnización con su propietario Osvaldo Luis del Carmen Villalobos Esquivel, ascendente a la cantidad de $677.268.-
+
+Fiscal del Ministerio de Obras Públicas.
