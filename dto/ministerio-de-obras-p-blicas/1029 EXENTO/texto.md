@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.029, de 31 de julio de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs 42 y 43, para la ejecución de la obra "Diseño Definitivo Regadío Faja Maisán, Red Primaria 2/5 Derivado Comuy, Km. 6.120,36 al Km.
+
+10.016,42", que figuran a nombre de Rosendo Cortés Jaramillo y Francisco Marín Pilquimán, rol de avalúo 384-1 y 384-143, comuna de Pitrufquén, IX Región, superficies 3.590 y 613 m2. La Comisión de Peritos fijó con fecha 14 de junio de 2000, el valor provisional de la indemnización en la cantidad de $1.690.500, lote 42 y $337.150, lote 43.- Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
