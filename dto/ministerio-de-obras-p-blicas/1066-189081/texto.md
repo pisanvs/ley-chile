@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.066, de fecha 29 de junio de 2001, se expropiaron los lotes de terreno Nº 3 y 12, 1, 1, 1, superficies 5.315 m², 182 m², 4.878 m², 2.184 m², 6.658 m², respectivamente, roles de avalúos Nº 480-167 y Nº 480-164, comuna de Yungay, para la obra "Area de Riego Los Puquios, Canal Los Puquios Ramal 1 y 5 Desagüe 4 del Proyecto Laja Diguillín" y se acordó el valor de indemnización con su propietario Ricardo Miguel Cortés Burgos, ascendente a la cantidad de $9.719.532.-
+
+Fiscal del Ministerio de Obras Públicas.
