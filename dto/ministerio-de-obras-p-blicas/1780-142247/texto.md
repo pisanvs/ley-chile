@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.780, de 30 de junio de 1999, se expropiaron los lotes de terreno Nºs. 89, 90, 91 y 94, superficies 2.602, 13.466, 1.202 y 721 m², respectivamente, rol de avalúo 514-80, comuna de Carahue, para la obra Camino Costero Tirúa-Carahue, tramo Bajo Yupehue-Cruce Puyanhue y se acordó precio de indemnización con su propietario Antonio Pincheira Díaz, ascendente a la cantidad de $3.223.583.
+
+- Fiscal del Ministerio de Obras Públicas.
