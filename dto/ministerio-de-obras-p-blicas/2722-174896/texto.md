@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.722 de fecha 30 de junio de 2000, se expropió el lote de terreno Nº68, superficie 724,88 m2, rol de avalúo 117-8, comuna de Curaco de Vélez, para la obra ''Camino Ruta W-59, Sector Dalcahue - Achao, Km. 0,00000 a Km. 19,71856'' y se acordó el valor de indemnización con su propietaria Patricia Maribel Cárdenas Gallardo, ascendente a la cantidad de $300.462.
+
+Fiscal del Ministerio de Obras Públicas.
