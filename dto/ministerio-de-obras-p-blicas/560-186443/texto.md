@@ -1,0 +1,3 @@
+Por decreto MOP Nº 560, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 36, superficie 4.318,00 m², rol de avalúo 384-63, comuna de Pitrufquén, para la obra "Proyecto Diseño Definitivo Regadío Faja Maisan, Red Primaria 2/5, Derivado Comuy", Kms. 6.120,36 al 10.016,42 y se acordó el valor de indemnización con su propietario Octavio Cortez Martínez, ascendente a la cantidad de $2.999.157.-
+
+Fiscal del Ministerio de Obras Públicas.
