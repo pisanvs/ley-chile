@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.428, de 29 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 50-C y 52-B, para la obra Camino M-24-K Quivolgo-Puente Lautaro, sector C Putú-Quivolgo, Kms.
+
+30,000 al 49,815.494, que figuran a nombre de Silvia O. Vergara Salas y Segundo Andrade, roles de avalúo 322-52 y en trámite, comuna de Constitución, VII Región, superficies 165 m2 y 137 m2. La Comisión de Peritos fijó con fecha 3 de septiembre de 1999, en las cantidades de $57.200, lote 50-C y $71.960, lote 52-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
