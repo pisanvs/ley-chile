@@ -1,0 +1,3 @@
+Por decreto MOP Nº 357 de fecha 30 de abril del 2004, se expropió el lote de terreno Nº 117, superficie 3.109 m², Rol Nº 273-85, comuna de San Fernando, VI Región para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector H: Km. 128.400,00 al Km. 140.850,00", y se acordó el valor de indemnización con su propietario Igor Eduardo Selaive Valenzuela y Otros, ascendente a la cantidad de $12.111.600.-
+
+Fiscal del Ministerio de Obras Públicas.
