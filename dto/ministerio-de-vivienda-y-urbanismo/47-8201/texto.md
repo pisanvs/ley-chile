@@ -164,6 +164,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Patio»: superficie desprovista de toda construcción situada dentro de una propiedad y destinada al uso de sus ocupantes.
 
+«Persona con discapacidad»: toda aquella que, como consecuencia de una o más deficiencias físicas, síquicas o sensoriales, congénitas o adquiridas, previsiblemente de carácter permanente y con independencia de la causa que las hubiera originado, vea obstaculizada, en a lo menos un tercio, su capacidad educativa, laboral o de integración social.
+
 «Plaza»: espacio libre de uso público destinado, entre otros, al esparcimiento y circulación peatonal.
 
 «Portal»: circulación peatonal cubierta formada por una arcada o columnata
@@ -590,13 +592,17 @@ Para los efectos de las tablas 2 y 3, los porcentajes que en ellas se señalan, 
 
 #### Artículo 2
 
-2.8. Con el objeto de facilitar el desplazamiento de personas discapacitadas en espacios de uso público, el instrumento de planificación territorial respectivo, determinará los sectores de la comuna en los cuales dichos espacios deberán cumplir, a lo menos, con las siguientes disposiciones mínimas:
+2.8. Con el objeto de facilitar el desplazamiento de personas con discapacidad, por espacios de uso público, se deberá cumplir, a lo menos, con las siguientes prescripciones:
 
-1. En las esquinas e intersecciones de vías en donde se consulte especialmente cruce peatonal, el desnivel de las aceras con las calzadas deberá ser salvado mediante rampas antideslizantes, las cuales no podrán exceder el 12% de pendiente con un desarrollo máximo de 2 m y un ancho mínimo de 0,90 m.
+1. En los cruces peatonales ubicados en las esquinas e intersecciones de vías, el desnivel de las aceras con las calzadas deberá ser salvado mediante rampas antideslizantes, las cuales no podrán exceder el 12% de pendiente con un desarrollo máximo de 2 m y un ancho mínimo de 0,90 m.
 
-2. En el espacio público se ubicará el mobiliario urbano adecuado a las necesidades de los discapacitados, tales como teléfonos, señalizaciones, protecciones.
+2. Las veredas deberán consultar espacios para el desplazamiento de personas con discapacidad en sillas de ruedas. Dichos espacios deberán ser de trazados preferentemente rectos; con pavimento liso; su recorrido deberá estar libre de entrabamientos y obstáculos, y las juntas de dilatación no podrán superar los dos centímetros de ancho.
 
-3. En los estacionamientos públicos, un estacionamiento de cada cien se destinará a personas discapacitadas, con un ancho mínimo de 3,30 m y un largo no inferior a 5 m, debidamente señalizado.
+3. Los dispositivos de control de los semáforos de accionamiento manual, que se consulten en las veredas, en los cruces peatonales de vías de tránsito vehicular, deberán ubicarse a una altura máxima de 0,90 m respecto de la vereda.
+
+4. El mobiliario urbano ubicado en el espacio público, como ser teléfonos, señalizaciones y protecciones, deberá consultar condiciones adecuadas para las personas con discapacidad.
+
+5. En los estacionamientos de uso público, un estacionamiento de cada cien se destinará a personas con discapacidad, con un ancho mínimo de 3,30 m y un largo no inferior a 5 m debidamente señalizado.
 
 ## Capítulo 3.
 
@@ -850,11 +856,15 @@ AUTOMOTOR Y ESTACIONES DE SERVICIO AUTOMOTOR
 
 #### Artículo 2
 
-4.2. Los instrumentos de planificación territorial deberán establecer las exigencias de estacionamientos, las que estarán en relación a la ubicación y destino de las edificaciones, como asimismo los casos en que no habrá exigencias al respecto.
+4.2. Los instrumentos de planificación territorial deberán establecer las exigencias de estacionamientos en relación a la ubicación y destino de las edificaciones, señalando asimismo los casos en que no habrá exigencias al respecto.
 
-Las exigencias de estacionamientos establecidas en los instrumentos de planificación territorial deberán cumplirse en el mismo predio cuyo edificio genera la obligación.
+De la dotación mínima de estacionamientos que deban proyectarse de acuerdo con lo establecido en el instrumento de planificación territorial, un 1% como mínimo deberá destinarse a ser utilizado por personas con discapacidad. Estos estacionamientos deberán singularizarse en los planos del proyecto y su comunicación con el resto del edificio así como el acceso al espacio público deberá efectuarse en concordancia con lo establecido en el artículo 4.1.7. de esta Ordenanza.
 
-Los instrumentos de planificación territorial podrán contemplar sectores donde se prohíba la construcción de estacionamientos.
+Las exigencias de estacionamientos establecidas en los instrumentos de planificación territorial deberán cumplirse en el predio de ubicación del edificio que genera la obligación. Sin embargo, podrán cumplirse en otros predios que consulten construcciones destinadas a estacionamientos o adquiriendo estacionamientos existentes que no hubieren sido destinados al cumplimiento de esta exigencia respecto de otro edificio, y en ambas alternativas entre los accesos de uno y otro inmueble no podrá haber una distancia superior a 300 metros que sea salvable a través de vías urbanas de uso público.
+
+Los estacionamientos destinados al cumplimiento de esta exigencia, emplazados en un predio distinto al del edificio que generó la obligación, podrán dejar de estar adscritos a esta última en el evento que el instrumento de planificación territorial que hizo exigible la obligación se modifique dejándola sin efecto.
+
+La propiedad que genera la exigencia de estacionamientos, sólo podrá transferirse conjuntamente con éstos, lo que deberá constar en el certificado de recepción definitiva de dicho inmueble, y anotarse al margen de la inscripción de los respectivos títulos de dominio. En las escrituras mediante las cuales se enajenen estos inmuebles deberá dejarse constancia de la obligación antedicha.
 
 #### Artículo 2
 
@@ -876,9 +886,7 @@ Los instrumentos de planificación territorial podrán contemplar sectores donde
 
 6. Deberá existir una separación material entre la propiedad privada y el espacio de uso público, de a lo menos 0,15 m de altura, la que sólo podrá ser interrumpida en cada acceso o salida autorizada y en una longitud no superior a 7,5 m cada una.
 
-7. El pavimento del acceso, en su intersección con la acera, deberá estar constituido por un material antideslizante que proteja al peatón y que se destaque del resto de la acera, ya sea por su diferencia en forma, color o demarcación, con el objeto de advertir a los peatones del posible paso de vehículos.
-
-Estas exigencias anotadas podrán ser aumentadas explícitamente por el instrumento de planificación territorial, en determinadas zonas, no pudiendo sobrepasarse las exigencias dadas a este respecto por el Volumen 3 del Manual de Vialidad Urbana "Recomendaciones para el Diseño de Elementos de Infraestructura Vial Urbana», a que se refiere el artículo 2.3.6.
+7. La intersección entre el acceso y la vereda deberá encontrarse al mismo nivel y su pavimento deberá estar constituido por un material antideslizante de textura distinta a la de la vereda, el que deberá prolongarse un metro hacia ambos lados de la intersección. Las exigencias precedentes podrán ser aumentadas por los Planes Reguladores Comunales o por los Planes Seccionales, en determinadas zonas, en concordancia con las exigencias contenidas en el Volumen 3 "Recomendaciones para el Diseño de Elementos de Infraestructura Vial Urbana", Sección 3.402.5 "Dispositivos para rodados en cruces", del Manual de Vialidad Urbana, aprobado por D.S. N° 12 (V. y U.) de 1984, publicado en el Diario Oficial de 3 de marzo de 1984.
 
 #### Artículo 2
 
@@ -1600,27 +1608,47 @@ Los edificios del cuarto grupo no podrán construirse en sectores habitacionales
 
 #### Artículo 4
 
-1.7. Con el objeto de establecer requisitos mínimos de accesibilidad y desplazamiento en las edificaciones, o parte de ellas, para ser utilizadas adecuadamente por personas discapacitadas, los edificios de uso público que se construyan o destinen a tal fin, deberán cumplir con las siguientes disposiciones mínimas:
+1.7. Con el objeto de facilitar la accesibilidad y desplazamiento de personas con discapacidad, todo edificio acogido a la Ley de Propiedad Horizontal o que consulte atención de público, deberá cumplir con los siguientes requisitos mínimos:
 
-1. A lo menos, una puerta de acceso al edificio deberá tener un rasgo de un ancho libre mínimo de 0,85 m y no podrá ser giratoria. Esta puerta deberá ser fácilmente accesible a nivel de acera correspondiente, o proveerse de rampa antideslizante o elemento mecánico, cuando el área de ingreso esté a desnivel con dicha acera.
+1. Al menos una puerta de acceso al edificio deberá ser fácilmente accesible desde el nivel de la vereda; consultar un ancho libre mínimo de 0,90 m; un peinazo resistente al impacto de una altura no inferior a 0,30 m, y no podrá ser giratoria.
 
-2. Los desniveles que se produzcan entre el recinto de acceso al edificio y los recintos de uso del público o entre recinto destinados al uso del público al interior del edificio, se salvarán mediante rampas antideslizantes o elementos mecánicos, las que serán opcionales únicamente cuando existan ascensores o montacargas que cumplan con la misma función.
+2. Cuando el área de ingreso se encuentre a desnivel con la vereda, se deberá consultar una rampa antideslizante o un elemento mecánico.
 
-3. Las rampas y elementos mecánicos a que se refieren los números 1. y 2. de este artículo, deberán tener una pendiente no mayor de un 8%, un ancho libre mínimo de 0,90 m y deberán estar provistas de a lo menos un pasamano continuo a 0,90 m de altura cuando su longitud sea mayor de 1,50 m.
+3. Los desniveles que se produzcan entre los recintos de uso público se salvarán mediante rampas antideslizantes o elementos mecánicos, los que serán opcionales sólo cuando existan ascensores o montacargas que cumplan la misma función.
 
-El pasamano deberá prolongarse en 0,30 m horizontalmente en ambos extremos y su sección deberá ser tal, que se amolde a la mano, permitiendo la sujeción fácil y segura.
+4. Las rampas antideslizantes deberán contar con un ancho libre mínimo de 0,90 m sin entrabamientos para el desplazamiento y consultar una pendiente máxima de 12% cuando su desarrollo sea de hasta 2 m. Cuando requieran de un desarrollo mayor, su pendiente irá disminuyendo hasta llegar a 8% en 8 m de largo.
 
-4. Los pasillos que conduzcan a recintos de atención o de uso del público tendrán un ancho mínimo de 1,50 m.
+La pendiente máxima que la rampa deberá consultar en función de su longitud se calculará según la siguiente fórmula:
 
-5. Cuando se consulten ascensores, al menos uno de ellos deberá tener su puerta con rasgo mínimo de 0,85 m y su plataforma mínima será de 1,40 m de profundidad por 1,10 m de ancho.
+i% = 13,14 - 0,57L
 
-6. En los edificios donde se realicen espectáculos públicos, como cines, teatros y otros similares, y en recintos deportivos, en ambos casos con capacidad para más de 500 espectadores deberán cumplirse con las siguientes condiciones:
+i% = pendiente máxima expresada en porcentaje L = longitud de la rampa
 
-a) Consultar áreas para personas en sillas de ruedas equivalente a lo menos al 1% de las localidades.
+En caso de requerir mayor desarrollo, el largo deberá seccionarse cada 8 m, con descansos horizontales de un largo libre mínimo de 1,50 m.
 
-b) Ubicar en la zona de los servicios higiénicos públicos, un baño independiente unisex para personas discapacitadas de ambos sexos, de dimensión tal, que permita consultar un inodoro y un lavamanos y además el ingreso y evolución de una silla de ruedas.
+Cuando la longitud sea mayor que 2 m, las rampas deberán estar provistas al menos de un pasamanos continuo a 0,90 m de altura.
 
-7. Tanto los ascensores, como los servicios higiénicos públicos para uso de los discapacitados, deberán señalizarse con el símbolo internacional.
+Cuando se requiera de juntas de dilatación, éstas no podrán ser superiores a dos centímetros.
+
+5. Las rampas y las terrazas que tengan diferencias de nivel de piso de al menos 1 m respecto de los espacios que los rodean deberán consultar una solera de borde con una altura mínima de 0,30 m.
+
+6. La superficie de piso que enfrenta a las escaleras deberá tener una franja con una textura distinta, de aproximadamente 0,50 m de ancho, que señale su presencia al no vidente.
+
+7. En los accesos principales, espacios de distribución y pasillos no se permitirá alfombras o cubrepisos no adheridos al piso, y los desniveles entre los pisos terminados no podrán ser superiores a dos centímetros.
+
+8. Los pasillos que conduzcan a recintos de uso o de atención de público tendrán un ancho mínimo de 1,40 m.
+
+9. Cuando se consulten ascensores, la puerta de al menos uno de ellos deberá ser de un ancho libre mínimo de 0,85 m y las dimensiones mínimas de la plataforma serán de 1,40 m de profundidad por 1,10 m de ancho.
+
+10. La separación entre el piso de la cabina del ascensor y el piso del vestíbulo no deberá ser superior a dos centímetros, debiendo estar al mismo nivel.
+
+11. El área que enfrente a un ascensor deberá tener una dimensión mínima de 1,40 m por 1,40 m, lo que deberá compatibilizarse con lo establecido en el artículo 6.1.7. de esta Ordenanza respecto de los espacios que enfrenten las escaleras comunes.
+
+12. Los botones de comando del ascensor para personas con discapacidad deberán estar ubicados a una altura que fluctúe entre 1 m y 1,40 m como máximo. La numeración y las anotaciones requeridas deberán ser sobrerrelieve. El tiempo de detención deberá ser suficiente para permitir el paso a una persona con discapacidad en silla de ruedas o a un no vidente.
+
+13. Tanto los ascensores como los servicios higiénicos públicos para uso de las personas con discapacidad deberán señalizarse con el símbolo internacional correspondiente.
+
+14. Cuando existan teléfonos de uso público, al menos 1 de cada 5 de ellos, con un mínimo de 1, deberá permitir el uso por personas en sillas de ruedas.
 
 #### Artículo 4
 
@@ -1641,6 +1669,8 @@ DE LAS CONDICIONES GENERALES DE SEGURIDAD
 1. En recintos de uso privado...... 0,5 kN/m
 
 2. En recintos de uso público...... 1,0 kN/m
+
+Cuando la altura sobre el nivel del terreno o pavimento definitivo adyacente a la edificación a que se refiere el artículo anterior sea inferior a 1 m y mayor que 0,30 m se deberá disponer una solera de borde de una altura mínima de 0,30 m y de una franja de textura distinta a la del pavimento, de aproximadamente 0,50 m de ancho.
 
 Las barandas transparentes y abiertas, tendrán sus elementos estructurales y ornamentales dispuestos de manera tal, que no permitan el paso de una esfera de 0,12 m de diámetro a través de ellos.
 
@@ -2080,6 +2110,14 @@ EDIFICIOS DE ASISTENCIA HOSPITALARIA
 
 4.1. Se concederá permiso para la habilitación de los locales a que se refiere el presente Capítulo, con la aprobación del organismo del Ministerio de Salud que corresponda. La autorización sólo podrá acordarse cuando los locales cumplan con las condiciones de seguridad e higiene establecidas para los edificios similares del Estado, con las disposiciones de la presente Ordenanza y demás reglamentos complementarios del Código Sanitario, en lo que les sea aplicable.
 
+Deberán contar con un recinto independiente destinado a servicio higiénico para personas con discapacidad que permita el ingreso y circulación de una silla de ruedas y disponga de artefactos adecuados:
+
+1. Los dispensarios y policlínicas;
+
+2. Las secciones destinadas a hospedar enfermos de clínicas y casas de salud, y
+
+3. Los edificios de asistencia hospitalaria con capacidad para 50 o más enfermos, debiendo, además, agregarse un recinto más por cada 50 enfermos.
+
 Dispensarios y Policlínicas.
 
 #### Artículo 4
@@ -2510,7 +2548,7 @@ hasta 20 alumnos por cada 10 alumnos
 
 Cuando el local escolar de nivel general básico atienda además a alumnos de Jardín Infantil, deberá contar con un recinto de servicios higiénicos independiente para el uso exclusivo de los alumnos del jardín, con las características consultadas en el presente artículo en el número 1. letra b), exceptuada la tineta.
 
-El local escolar ubicado en áreas urbanas que tenga una capacidad igual o superior a 600 alumnos, deberá contar con un recinto independiente destinado a servicio higiénico de personas discapacitadas de dimensión tal, que permita consultar un inodoro y un lavamanos y además el ingreso y evolución de una silla de ruedas.
+El local escolar ubicado en áreas urbanas que tenga una capacidad igual o superior a 300 alumnos, deberá contar con un recinto independiente destinado a servicio higiénico de personas discapacitadas de dimensión tal, que permita consultar un inodoro y un lavamanos y además el ingreso y evolución de una silla de ruedas.
 
 Los locales escolares de nivel general básico y los hogares estudiantiles ubicados en el sector rural, donde no exista red de agua potable podrán disponer como única fuente de la misma de un pilón proveniente de una noria o pozo sanitario u otro sistema aprobado por la autoridad sanitaria, sin que les sean exigibles los lavamanos y duchas señalados en el presente artículo en los números 2. y 3. Cuando en estas mismas edificaciones no se puedan instalar servicios higiénicos con arrastre de agua, deberán disponer de instalación de letrinas sanitarias en número necesario para proceder al reemplazo de los inodoros indicados en el presente artículo en los números 2. y 3. sin que les sea exigible un número de letrinas en reemplazo de los urinarios a que dichos puntos se refieren.
 
@@ -2674,6 +2712,8 @@ Estos patios o espacios libres tendrán su piso o pavimento en un solo plano. Po
 
 Estos edificios deberán construirse de las clases A o B que establece el artículo 5.3.1. de esta Ordenanza, cuando su cabida total sea superior a 1.000 personas, o cuando las aposentadurías para personas comprendan más de un piso principal y un balcón o galería.
 
+En los edificios a que se refiere este capítulo se deberán consultar áreas para personas en sillas de ruedas equivalentes como mínimo al 1% de las localidades accesibles por ellas.
+
 #### Artículo 4
 
 7.4. Los locales o salas destinadas a los usos a que se refiere el presente Capítulo deberán estar totalmente rodeados de muros cortafuego.
@@ -2798,11 +2838,13 @@ Sin perjuicio de lo anterior, cuando el sistema de proyección corresponda a pan
 
 3. Sobre 2.000 y hasta 3.000 personas, un inodoro más por cada 500 personas y un urinario más por cada 250.
 
-4. Sobre 3.000 personas, un inodoro por cada 1.000 y un urinario más por cada 500 personas.
+4. Sobre 3.000 personas, un inodoro más por cada 1.000 y un urinario más por cada 500 personas.
 
 5. Los camarines tendrán los servicios higiénicos que determine la Dirección de Obras Municipales.
 
 Además de los artefactos indicados en los números 1. al 4., habrá un lavamanos por cada inodoro independiente y cuando éstos estén agrupados en una sola unidad, habrá como mínimo un lavamanos por cada 4 inodoros.
+
+Los teatros y otros locales de reuniones, deberán contar con un recinto independiente destinado a servicio higiénico para personas con discapacidad que permita el ingreso y circulación de una silla de ruedas y disponga de artefactos adecuados, debiendo agregarse un recinto más por cada 200 personas o fracción que exceda de esa cantidad.
 
 #### Artículo 4
 
@@ -2860,6 +2902,8 @@ BAÑOS, PISCINAS PUBLICAS Y LOCALES DESTINADOS A CULTURA FISICA
 
 8.1. Los edificios que se construyan o destinen a establecimientos de baños, piscinas o locales para educación física, deben satisfacer, en cuanto le sean aplicables, las condiciones relativas a edificios públicos y las referentes a seguridad, higiene y fácil evacuación de los locales, en caso de incendio y pánico.
 
+En los edificios a que se refiere este Capítulo, se deberá consultar áreas para personas en sillas de ruedas, equivalentes como mínimo al 1% de la respectiva cabida.
+
 #### Artículo 4
 
 8.2. Los locales destinados a piscinas se regirán por las disposiciones contenidas en el D.S. N° 327, de 1977, del Ministerio de Salud, normado conforme a las disposiciones del Código Sanitario.
@@ -2875,6 +2919,8 @@ BAÑOS, PISCINAS PUBLICAS Y LOCALES DESTINADOS A CULTURA FISICA
 #### Artículo 4
 
 8.5. Los campos deportivos, gimnasios públicos, salas de box y otros locales similares destinados a educación física, estarán dotados de servicios higiénicos, duchas y camarines para ambos sexos, guardarropa y bebederos, proporcionales a las cabidas de los respectivos locales.
+
+Asimismo, los campos deportivos, gimnasios públicos, salas de box y otros locales destinados a educación física, deberán contar con un recinto independiente destinado a servicio higiénico para personas con discapacidad que permita el ingreso y circulación de una silla de ruedas y disponga de artefactos adecuados, debiendo agregarse un recinto más por cada 200 personas o fracción que exceda de esa cantidad.
 
 #### Artículo 4
 
@@ -2990,6 +3036,10 @@ Todo pasillo que sirva dormitorios, debe conducir directamente a la escalera pri
 
 9.16. Los hoteles de más de cuatro pisos estarán provistos de ascensores y de montacargas independientes. Su número y capacidad estarán de acuerdo con el Reglamento respectivo.
 
+#### Artículo 4
+
+9.17. Todo edificio destinado a hotel con capacidad para más de 50 camas, deberá consultar al menos un dormitorio con acceso a un baño habilitado para el uso de personas con discapacidad en sillas de ruedas.
+
 ## Capítulo 10
 
 CENTROS COMERCIALES
@@ -3033,6 +3083,10 @@ _______________________________________________________
 Para los fines previstos en el presente artículo se entenderá por galería, el espacio interior, horizontal o en rampa, cubierto o descubierto, destinado a la circulación del público, con locales comerciales a uno o a ambos lados. Se entenderá por superficie servida por una galería, la suma de las superficies de cada local para los cuales se prevé la evacuación del público en el respectivo tramo de la galería. En el caso de galerías en rampa, la superficie servida será el resultado de la suma de la superficies de los locales ubicados en los distintos niveles que se relacionan a través de ellas.
 
 El ancho resultante de las galerías deberá ser constante en toda su longitud o creciente hacia el espacio de salida, correspondiéndole en todo caso a cada tramo con ancho diferente, el ancho proporcional a su superficie servida.
+
+#### Artículo 4
+
+10.3. En los centros comerciales se deberá consultar espacios e instalaciones para personas con discapacidad, en los estacionamientos, circulaciones y servicios higiénicos.
 
 ## Capítulo 11
 
@@ -3079,6 +3133,10 @@ La altura libre para cada piso no será inferior a 2,20 m.
 #### Artículo 4
 
 11.9. Las dimensiones libres mínimas de un estacionamiento para un vehículo serán 2,50 m de ancho, 5,00 m de largo y 1,90 m de altura bajo las vigas. El ancho mínimo podrá ser interrumpido por elementos estructurales aislados siempre que éstos no impidan la abertura de las puertas de los vehículos. El ancho de todas las vías de circulación en un conjunto de estacionamientos, deberá ser justificado técnicamente ante el Director de Obras de la Municipalidad respectiva.
+
+#### Artículo 4
+
+11.10. Las estaciones de servicio automotor que consultan atención de restaurantes, deberán considerar espacios e instalaciones para personas con discapacidad en los estacionamientos, circulaciones y servicios higiénicos.
 
 ## Capítulo 12
 
@@ -3368,7 +3426,9 @@ Los establecimientos industriales que ocupen más de dos pisos tendrán escalera
 
 #### Artículo 4
 
-14.12. Los establecimientos industriales deberán estar dotados de servicios higiénicos de acuerdo a lo establecido en el DS No. 78, (Salud), de 1983, Reglamento sobre Condiciones Sanitarias y Ambientales Mínimas en los Lugares de Trabajo.
+14.12. Los establecimientos industriales deberán estar dotados de servicios higiénicos, a lo menos con el número de artefactos exigidos por el Ministerio de Salud para los lugares de trabajo, de conformidad a la legislación vigente.
+
+Se deberá considerar asimismo, espacios e instalaciones para personas con discapacidad en los estacionamientos, circulaciones y servicios higiénicos.
 
 Los establecimientos que ocupen más de 50 personas tendrán una sala destinada a primeros auxilios y también una sala cuna cuando ocupen personal femenino, en número superior a 20.
 
@@ -5018,9 +5078,9 @@ Instalaciones interiores de gas.
 
 9.3. Los edificios colectivos de habitación de más de un piso deberán consultar instalaciones interiores de gas, además de conductos colectivos y secundarios para evacuar los productos de la combustión de calefones o termos. Dichos conductos deberán quedar ubicados de tal modo que permitan instalar el calefón o termo en un recinto que cumpla con las dimensiones y ventilaciones de aire exigidas por los reglamentos respectivos, como con las normas y resoluciones de la Superintendencia de Electricidad y Combustibles.
 
-Sólo se podrán omitir las instalaciones interiores de gas, pero manteniendo los conductos de evacuación antes citados, en los edificios colectivos de hasta tres pisos y no más de seis departamentos. Esta excepción también regirá para partes de edificios con acceso independiente desde la calle, siempre que estén separadas del resto del edificio mediante muros cortafuego.
+La instalación interior de gas de toda edificación deberá ajustarse a la reglamentación y normativa técnica vigentes, lo cual se acreditará ante la Dirección de Obras Municipales al momento de solicitar la recepción final de la obra correspondiente, acompañando la copia del anexo de inscripción de declaración de la instalación con la constancia de acuso de recibo por la Superintendencia de Electricidad y Combustibles.
 
-La instalación interior de gas de toda edificación deberá ajustarse a la normativa técnica vigente y su correcta ejecución se acreditará ante la Dirección de Obras Municipales, acompañando a la solicitud de recepción de la obra correspondiente, copia de la declaración de instalación con la constancia de acuso de recibo en la Superintendencia de Electricidad y Combustibles.
+Para solicitar dicha recepción el instalador autorizado extenderá el certificado correspondiente, una vez realizadas conforme las pruebas relativas a la hermeticidad de las tuberías.
 
 Calefacción central y agua caliente.
 
@@ -5554,7 +5614,7 @@ Sin perjuicio de lo anterior y respecto del urbanizador, loteador o propietario,
 
 En predios de una superficie no inferior a 1.000 m2 se aceptará solución propia consistente en noria, pozo profundo o vertiente, autorizada por el Ministerio de Salud.
 
-2. Alcantarillado: Conexión a red pública si ésta existe. En su defecto, redes colectivas conectadas a baterías de fosas sépticas y drenes. Excepcionalmente se aceptarán sistemas de alcantarillado domiciliario unitario en predios de una superficie mínima de 1000 m2. Todas las soluciones deberán ser aprobadas por el Ministerio de Salud.
+2. Alcantarillado: conexión a red pública si ésta existe. En su defecto, redes colectivas conectadas a baterías de fosas sépticas y drenes. Excepcionalmente se aceptarán sistemas de alcantarillado domiciliario unitario en predios de una superficie mínima de 1.000 m2, la que se podrá disminuir hasta 300 m2 si se cuenta con un suministro de agua potable a través de redes públicas. Todas las soluciones deberán ser aprobadas por el Ministerio de Salud.
 
 3. Pavimentación: Zona norte: Formación de calzada con estabilizado a nivel de subrasante con riego asfáltico y solera sin zarpa.
 
@@ -5604,7 +5664,15 @@ Los sistemas o clases de edificación que hayan adoptado o aprobado la ex Corpor
 
 #### Artículo 7
 
-5.3. Las viviendas sociales que contemplen red de gas, no requerirán de calentadores de agua a gas instalados, bastando que se realicen las pruebas relativas a la hermeticidad de las redes para que el instalador responsable extienda el certificado correspondiente y para que la Superintendencia de Electricidad y Combustibles (SEC) vise dicho Certificado. En consecuencia, la Dirección de Obras Municipales procederá a la recepción final de estas viviendas, en lo que a instalaciones de gas se refiere, con el sólo mérito de la prueba mencionada.
+5.3. Los edificios colectivos de habitación de hasta seis pisos desde el nivel del acceso vehicular, con un máximo de 25 viviendas sociales con un acceso común, podrán consultar instalaciones individuales de gas en tuberías de cobre tipo K o L, o de tuberías aprobadas de acero con recubrimiento negro o galvanizado, alimentadas desde cilindros de gas licuado de petróleo tipo 15, siempre que cumplan con lo siguiente:
+
+1.- La tubería deberá ir desde el terminal para conexión del artefacto de cocina, calefactor, calefón o termo de gas, a los cilindros de gas licuado de petróleo, debiendo terminar en una boquilla de conexión estriada para que pueda ser conectado el tubo flexible del regulador de presión, terminal que deberá fabricarse en un material similar a la tubería, y sus dimensiones será equivalentes a las de la boquilla de conexión de los reguladores.
+
+2.- Los cilindros de gas licuado de petróleo se instalarán en espacios ventilados, ubicados a lo más en el quinto piso desde el nivel del acceso vehicular del edificio, protegidos mediante un gabinete construido en material resistente a impactos, con una resistencia al fuego igual o superior a F-60. El gabinete deberá contar con una puerta hermética, si éste se encuentra ubicado en un espacio que comunique con el interior de un recinto habitable, y deberá tener una cara abierta al exterior del edificio, protegida con una rejilla metálica electrosoldada empotrada a la construcción, rejilla que no podrá comunicar con el sector de ingreso de las viviendas.
+
+3.- Los gabinetes deberán considerar el espacio suficiente para la ubicación de una cantidad de cilindros que permita satisfacer la potencia instalada de los artefactos proyectados, debiendo considerarse al menos el espacio para dos cilindros tipo 15.
+
+Las viviendas sociales que contemplen instalaciones de gas, incluidas las señaladas en el inciso primero de este artículo, no requerirán de calefón o termo de gas instalado, pero, en todo caso, las viviendas ubicadas en edificios colectivos de habitación deberán contar con conductos de evacuación para los gases producto de la combustión, de acuerdo con la reglamentación y normativa técnica vigentes.
 
 #### Artículo SEGUNDO
 
