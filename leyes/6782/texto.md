@@ -1,0 +1,1 @@
+Crea en los servicios de la Dirección General de Impuestos Internos una Administración de Zona en La Serena y otra en la de Chillán; modifica la planta fijada por la ley 5,686, de 16 de septiembre de 1935, y los sueldos; quinquenios, y agrega incisos a los artículos 24 y 42 de la ley 6,457, de 18 de octubre de 1939, que fijó texto definitivo a la Ley sobre Impuesto a la Renta.
