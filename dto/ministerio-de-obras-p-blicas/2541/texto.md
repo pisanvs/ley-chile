@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.541, de 30 de noviembre de 1998, se expropió el lote de terreno Nº 3, superficie 177 m2, rol de avalúo 206-14, comuna de Peñaflor, para la obra Camino Autopista Santiago-San Antonio, Sector Plaza de Peaje Malloco y se acordó el valor de indemnización con su propietario Eduardo Vitelio Varas Silvera, ascendente a la cantidad de $ 4.933.315.
+
+- Fiscal del Ministerio de Obras Públicas.
