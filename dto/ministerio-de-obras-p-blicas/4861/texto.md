@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.861, de 31 de octubre del 2000, se expropió el lote de terreno Nº132-B16, superficie 422 m2., rol de avalúo 105-8, comuna de Pemuco, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, Octava Región y se acordó el valor de indemnización con su propietario Héctor Alamiro Pavez Chandía, ascendente a la cantidad de $2.344.210.-
+
+Fiscal del Ministerio de Obras Públicas.
