@@ -1,0 +1,173 @@
+DECRETO LEY N° 2.224
+
+CREA COMISION NACIONAL DE ENERGIA
+
+Núm. 2.224.- Santiago, 25 de Mayo de 1978.- Visto: lo dispuesto en los decretos leyes N° 1 y 128, de 1973; 527, de 1974, y 991, de 1976,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+## Título I
+
+Del Ministerio de Energía
+
+#### Artículo 1º
+
+Derogado
+
+#### Artículo 2°
+
+Corresponderá, en general, al Ministerio de Energía, elaborar y coordinar los planes, políticas y normas para el buen funcionamiento y desarrollo del sector, velar por su cumplimiento y asesorar al Gobierno en todas aquellas materias relacionadas con la energía.
+
+Se relacionarán con el Presidente de la República por intermedio del Ministerio de Energía, la Comisión Nacional de Energía, la Superintendencia de Electricidad y Combustibles y la Comisión Chilena de Energía Nuclear.
+
+#### Artículo 3°
+
+Para los efectos de la competencia que sobre la materia corresponde al Ministerio de Energía, el sector de energía comprende a todas las actividades de estudio, exploración, explotación, generación, transmisión, transporte, almacenamiento, distribución, consumo, uso eficiente, importación y exportación, y cualquiera otra que concierna a la electricidad, carbón, gas, petróleo y derivados, energía nuclear, geotérmica y solar, y demás fuentes energéticas.
+
+#### Artículo 4°
+
+Para el cumplimiento de su objetivo corresponderá al Ministerio, en particular las siguientes funciones y atribuciones:
+
+-a) Preparar, dentro del marco del plan nacional de desaroollo, los planes y políticas para el sector energía y proponerlos al Presidente de la República para su aprobación;
+
+-b) Estudiar y preparar las proyecciones de la demanda y oferta nacional de energía que deriven de la revisión periódica de los planes y políticas del sector;
+
+-c) Contratar con personas naturales o jurídicas, públicas o privadas, nacionales o extranjeras, los estudios generales relacionados con el funcionamiento y desarrollo integral del sector, así como los de prefactibilidad y factibilidad que sean necesarios para la formulación y ejecución de los planes y políticas energéticas;
+
+-d) Elaborar, coordinar,proponer y dictar, según corresponda, las normas aplicables al sector energía que sean necesarias para el cumplimiento de los planes y políticas energéticas de caracter general así como para la eficiencia energética, la seguridad y adecuado funcionamiento y desarrollo del sistema en su conjunto. Al efecto, podrá requerir la colaboración de las instituciones y organismos que tengan competencia normativa, de fiscalización o ejecución en materias relacionadas con la energía;
+
+-e) Velar por el efectivo cumplimiento de las normas sectoriales, sin perjuicio de las atribuciones que correspondan a los organismos en ella mencionados, a los que deberá impartir instrucciones, pudiendo delegar las atribuciones y celebrar con ellos los convenios que sean necesarios;
+
+-f) Proponer al Presidente de la República y evaluar las políticas, planes y normas relativas a los contratos especiales de operación a que se refiere el inciso décimo del número 24º del artículo 19 de la Constitución Política, tratándose de hidrocarburos o materiales atómicos naturales
+
+g) Integrar y participar en la formación y constitución de personas jurídicas de derecho privado, sin fines de lucro, a que se refiere el Título XXXIII del Libro Primero del Código Civil, cuya finalidad fundamental sea la promoción, información, desarrollo y coordinación de iniciativas de investigación, transferencia y difusión de conocimientos económicos, tecnológicos y de experiencias en el área de la energía. Del mismo modo, el Ministerio está facultado para participar en la disolución y liquidación de las entidades de que forme parte, con arreglo a los estatutos de las mismas.
+
+El Ministro de Energía, mediante resolución, nombrará uno o más representantes del Ministerio, los que estarán facultados para participar en los órganos de dirección y de administración que contemplen los estatutos de las personas jurídicas que se constituyan en virtud de lo dispuesto en la presente disposición.
+
+-h) Fijar, mediante resolución, los estándares mínimos de eficiencia energética que deberán cumplir los productos, máquinas, instrumentos, equipos, artefactos, aparatos y materiales que utilicen cualquier tipo de recurso energético, para su comercialización en el país.
+
+Los importadores, fabricantes y distribuidores, según corresponda, de los bienes señalados en el párrafo anterior, que persigan su comercialización en el territorio nacional, deberán certificar para dicho efecto que cumplen con el estándar exigido, por intermedio de entidades autorizadas para ello y etiquetar los respectivos productos con las indicaciones del consumo energético de los mismos, cuando así se establezca de conformidad con lo dispuesto en la letra precedente.
+
+Mediante un reglamento expedido por el Ministerio de Energía, se establecerá el procedimiento y las demás normas necesarias para la aplicación de los preceptos establecidos en esta letra. Dicho reglamento deberá contemplar, a lo menos:
+
+i) Los aspectos básicos a considerar durante la etapa de diseño del estándar mínimo de eficiencia energética, incluida la forma de consulta y coordinación de los organismos del Estado que puedan vincularse con su determinación.
+
+ii) La forma cómo se comprobará la adecuación de estándar mínimo de eficiencia energética, a los estándares internacionales en la materia.
+
+iii) El mecanismo de participación del público interesado en la determinación del estándar, considerando las dimensiones informativa, consultiva y resolutiva.
+
+iv) La forma de publicidad del programa de implementación.
+
+-i) Establecer, mediante resolución los productos, máquinas, instrumentos, equipos, artefactos, aparatos y materiales eléctricos, de gas y de combustibles líquidos o que utilicen cualquier tipo de recurso energético, que deberán contar para su comercialización con un certificado de aprobación o la respectiva etiqueta de consumo energético, conforme lo dispuesto en el número 14.- del artículo 3º de la ley Nº 18.410.
+
+Mediante un reglamento expedido a través del Ministerio de Energía, se establecerán los procedimientos, el sistema de etiquetado y las demás normas necesarias para la aplicación de los preceptos establecidos en esta letra.
+
+j) Suscribir en representación del Estado, con los requisitos y bajo las condiciones que el Presidente de la República fije por decreto supremo, los contratos especiales de operación relativos a hidrocarburos y materiales atómicos naturales a que se refiere el inciso décimo del número 24º del artículo 19 de la Constitución Política; ejercer, directamente o por intermedio de un organismo o empresa del Estado, funciones y derechos que el decreto supremo y el correspondiente contrato especial de operación antes mencionado le señalen; y celebrar, en representación del Estado, y previo informe favorable del organismo correspondiente, contratos de servicio que tengan por objeto la ejecución de determinados trabajos relacionados con la exploración de yacimientos de hidrocarburos y materiales atómicos naturales. Tratándose de la suscripción de contratos especiales de operación relativos a materiales atómicos naturales, será necesario el informe previo favorable del Consejo de la Comisión Chilena de Energía Nuclear.
+
+-k) Cumplir las demás funciones y tareas que las leyes o el Gobierno le encomienden concernientes a la buena marcha y desarrollo del sector energía.
+
+#### Artículo 5º
+
+La conducción del Ministerio corresponderá al Ministro de Energía, en conformidad con las políticas e instrucciones que imparta el Presidente de la República. La administración interna del Ministerio corresponderá al Subsecretario de Energía, quién será el Jefe Superior del Servicio y coordinará la acción de los servicios públicos del sector.
+
+La organización interna del Ministerio, las denominaciones y funciones que correspondan a cada una de las unidades que sean establecidas, serán determinadas por resolución del Ministro. Para los efectos de establecer la referida estructura interna, se considerarán como áreas funcionales, entre otras, mercado energético, energías renovables, eficiencia energética, medio ambiente y desarrollo sustentable, energización rural y social, estudios y desarrollo energético.
+
+Sin perjuicio de lo dispuesto por el inciso segundo del artículo 62 del decreto con fuerza de ley Nº 1, de 2005, del Ministerio del Interior, que fija el texto refundido, coordinado, sistematizado y actualizado de la ley Nº 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional, el Ministerio de Energía contará con seis Secretarías Regionales Ministeriales, las que representarán al Ministerio en una o más regiones. Mediante decreto supremo se establecerán las regiones que le corresponderán a cada una de ellas, así como la ciudad en la que tendrá su asiento el Secretario Regional Ministerial. Para estos efectos, se deberán considerar las características comunes del territorio y las condiciones y potencialidades de desarrollo energético de las regiones.
+
+## Título II
+
+De la Comisión Nacional de Energía
+
+#### Artículo 6º
+
+La Comisión Nacional de Energía será una persona jurídica de derecho público, funcionalmente descentralizada, con patrimonio propio y plena capacidad para adquirir y ejercer derechos y contraer obligaciones, que se relacionará con el Presidente de la República por intermedio del Ministerio de Energía. Su domicilio será la ciudad de Santiago, sin perjuicio de los domicilios especiales que pudiera establecer.
+
+La Comisión será un organismo técnico encargado de analizar precios, tarifas y normas técnicas a las que deben ceñirse las empresas de producción, generación, transporte y distribución de energía, con el objeto de disponer de un servicio suficiente, seguro y de calidad, compatible con la operación más económica.
+
+La Comisión estará afecta al Sistema de Alta Dirección Pública establecido en la ley Nº19.882.
+
+#### Artículo 7º
+
+Para el cumplimiento de su objetivo, y sin perjuicio de las demás atribuciones conferidas en otros cuerpos legales, corresponderá a la Comisión, en particular, las siguientes funciones y atribuciones:
+
+a) Analizar técnicamente la estructura y nivel de los precios y tarifas de bienes y servicios energéticos, en los casos y forma que establece la ley.
+
+b) Fijar las normas técnicas y de calidad indispensables para el funcionamiento y la operación de las instalaciones energéticas, en los casos que señala la ley.
+
+c) Monitorear y proyectar el funcionamiento actual y esperado del sector energético, y proponer al Ministerio de Energía las normas legales y reglamentarias que se requieran, en las materias de su competencia.
+
+d) Asesorar al Gobierno, por intermedio del Ministerio de Energía, en todas aquellas materias vinculadas al sector energético para su mejor desarrollo.
+
+#### Artículo 8°
+
+La administración de la Comisión corresponderá al Secretario Ejecutivo, quien será el Jefe Superior del Servicio y tendrá su representación legal, judicial y extrajudicial. Será nombrado por el Presidente de la República mediante el proceso de selección de altos directivos públicos previsto en el párrafo 3º del Titulo VI de la ley Nº 19.882.
+
+#### Artículo 9°
+
+Corresponderá al Secretario Ejecutivo:
+
+-a) Preparar el proyecto de presupuesto de la Comisión, incluido el programa anual de acción, ejecutar el que definitivamente se apruebe y proponer las modificaciones que se requieran durante su ejecución;
+
+-b) Disponer la organización interna de la Comisión y sus modificaciones;
+
+-c) Dirigir técnica y administrativamente la Comisión;
+
+-d) Designar y contratar personal, asignarle funciones y poner término a sus servicios, conforme a la ley;
+
+-e) Adquirir, enajenar, gravar y administrar toda clase de bienes y ejecutar o celebrar cualquier acto o contrato tendiente directa o indirectamente al cumplimiento de su objeto y funciones;
+
+-f) Conferir poder a abogados habilitados para el ejercicio de la profesión, aun cuando no sean funcionarios del servicio, y delegarles las facultades de ambos incisos del artículo 7° del Código de Procedimiento Civil;
+
+-g) Delegar parte de sus funciones y atribuciones en funcionarios del Servicio, y
+
+-h) En general, dictar las resoluciones y ejercer las demás facultades que sean necesarias para la buena marcha del Servicio.
+
+#### Artículo 10
+
+El patrimonio de la Comisión estará formado por:
+
+-a) Los recursos que se le asignen anualmente en el Presupuesto de la Nación o en otras leyes generales o especiales, y
+
+-b) Los bienes muebles e inmuebles, corporales o incorporales, que se le transfieran o adquiera a cualquier título.
+
+## Título III
+
+Disposiciones Comunes
+
+#### Artículo 11
+
+El personal de la Comisión se regirá por las normas del Código del Trabajo y las leyes y reglamentos que lo complementan y no quedará sujeto al decreto ley N° 249, de 1973, y sus modificaciones. No obstante, sus remuneraciones se fijarán y modificarán conforme al procedimiento establecido en el artículo 9° del decreto ley N° 1.953, de 1977.
+
+La dotación máxima de la Comisión será de 30 personas.
+
+#### Artículo 12
+
+En el cumplimiento de sus funciones, y para el ejercicio de éstas, tanto el Ministerio de Energía como la Comisión Nacional de Energía podrán requerir de los Ministerios, Servicios Públicos y entidades en que el Estado tenga aportes de capital, participación o representación, los antecedentes y la información necesarios para el cumplimiento de sus funciones, quedando los funcionarios que dispongan de dichos antecedentes e informaciones, obligados a proporcionarlos en el más breve plazo. El incumplimiento de esta obligación podrá ser administrativamente sancionado, en caso de negligencia, por la Contraloría General de la República, en conformidad a las reglas generales.
+
+Asimismo, podrán requerir la información que fuere necesaria para el ejercicio de sus funciones a las entidades y empresas del sector energía y a los usuarios no sujetos a regulación de precios a los que se refiere el decreto con fuerza de ley Nº 4, del año 2007, del Ministerio de Economía, Fomento y Reconstrucción, sobre Ley General de Servicios Eléctricos, en la medida que no perjudique las funciones propias de las entidades, empresas y usuarios señalados. Las entidades o empresas requeridas en uso de la facultad señalada precedentemente, sólo podrán exceptuarse de entregar la información solicitada, invocando una norma legal vigente sobre secreto. El incumplimiento del requerimiento de información o de la obligación de proporcionarla sin mediar aquél, así como la entrega de información falsa, incompleta o manifiestamente errónea, serán sancionados por la Superintendencia de Electricidad y Combustibles, de acuerdo a las normas establecidas en la ley Nº 18.410.
+
+Los funcionarios de ambas instituciones y las personas que le presten servicios bajo cualquier modalidad de contratación, deberán guardar reserva de los documentos y antecedentes señalados en los incisos precedentes, siempre que tales documentos y antecedentes no tengan el carácter de públicos. La infracción de esta obligación será sancionada en la forma establecida en el inciso primero del artículo 247 del Código Penal, sin perjuicio de las sanciones administrativas que procedan. Esta prohibición, en beneficio propio o de terceros, obliga hasta tres años después de dejar el cargo funcionario o haber prestado servicios.
+
+## Artículos transitorios
+
+#### Artículo 1°
+
+Dentro del plazo de noventa días contado desde la vigencia del presente decreto ley, la Comisión propondrá al Presidente de la República para su aprobación el reglamento que le regirá.
+
+#### Artículo 2°
+
+Facúltase al Presidente de la República para que, dentro del plazo de un año y por decreto expedido a través del Ministerio de Minería, refunda, coordine y sistematice la legislación vigente atinente con el sector energía, pudiendo igualmente modificarla con la sola finalidad de adaptar las atribuciones que por este decreto ley se confieren a la Comisión con las facultades y funciones que corresponden, en relación con el sector energía, a otros servicios y organismos del Estado.
+
+Para los efectos previstos en el inciso anterior, la Comisión Nacional de Energía deberá proponer al Presidente de la República las modificaciones, derogaciones y concordancias que sean necesarias.
+
+El plazo concedido se contará a partir del 31 de Diciembre de 1979.
+
+#### Artículo 3°
+
+Facúltase al Presidente de la República para que dentro del plazo de un año, por decreto del Ministerio de Minería, fije la planta del personal de la Comisión.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General Director de Carabineros.- Luis Enrique Valenzuela Blanquier, Ministro de Minería.
+
+Lo que transcribo para su conocimiento.- Mario Duvauchelle Rodríguez, Capitán de Navío (JT), Secretario de Legislación de la Junta de Gobierno.
