@@ -1,0 +1,3 @@
+Por decreto MOP Nº670 de fecha 31 de mayo de 2001, se expropiaron los lotes de terreno Nºs 10 y 12, superficie 2.240,454 m2., respectivamente, rol de avalúo 94-178, comuna de Pelarco, para la obra "Camino Los Robles-Huencuecho-Bajo Perquín, Sector Huencuecho- Bajo Perquín, Tramo Km. 46,140.00 al 76,107.70" y se acordó el valor de indemnización con su propietario Héctor Octavio Araujo León, ascendente a la cantidad de $1.377.864.-
+
+Fiscal del Ministerio de Obras Públicas.
