@@ -1,0 +1,5 @@
+Por Resolución N° 525, de 29 de Abril de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a CONGELADOS Y CONSERVAS FITS ROY S.A., R.U.T. N° 96.512.680-5, domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras que tiene autorizadas por Resolución N° 687, de 1987, de esta Subsecretaría, en orden a incluir en la línea de procesamiento de congelado en la planta industrial que tiene autorizada por la Resolución citada precedentemente, la elaboración del recurso hidrobiológico Culengue. Asimismo, podrá incorporar en la planta industrial citada precedentemente, la línea de elaboración de ahumado, donde podrá procesar el recurso hidrobiológico Chorito.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de Abril de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
