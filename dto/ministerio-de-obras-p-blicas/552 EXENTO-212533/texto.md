@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº552 de fecha 30 de mayo de 2003, se expropió el lote de terreno Nº2-A, superficie 13 m2, rol de Avalúo Nº1418-155, comuna de Rancagua, para la obra "Camino Ruta H-188, Sector Cruceros-Chancón, Tramo 1, Km. 0,00000 al Km. 7,85900", VI Región y se acordó el valor de la indemnización con su propietario José Genaro Jiménez Contreras, ascendente a la cantidad de $605.055.
+
+Fiscal del Ministerio de Obras Públicas.
