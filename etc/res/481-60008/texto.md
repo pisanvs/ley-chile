@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE SEÑALA
+
+Resolución 481, 13 Diciembre 1996, SERVIU Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 1.210, Rol de Avalúo Nº 573-0001, comuna Concepción, superficie 268 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-573-0001 de aparente dominio de Miguel Vallejos Muñoz, para ejecución programa "Mejoramiento Interconexión Vial Centro Concepción-Autopista Talcahuano", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Boris Aptecar G., arquitecto, Gerardo Valverde V., arquitecto y Sergio Labarca G., constructor civil, según informe de fecha 5 de noviembre de 1996, fijó monto provisional indemnización en $29.432.080.-, pagadera de contado.
+
+Director SERVIU Región del Bío Bío.
