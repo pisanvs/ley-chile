@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 738 de 31 de julio de 1997, se expropiaron los lotes de terreno Nºs 17 y 23, superficies 1.215 y 1.320 M2. roles de avalúo 160-43 y 160-10 comuna de Pemuco, para la obra Proyecto Laja Diguillín, Area de Riego Pemuco, Canal Relbún y se acordó precio de indemnización con sus propietarios Adelaida Gutiérrez Betancourt y Marcelino Arriagada Barrera ascendente a las cantidades de $449.580 y $394.508.-
+
+Fiscal del Ministerio de Obras Públicas.
