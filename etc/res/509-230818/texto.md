@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 509, 18 agosto 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº 1937, Rol de Avalúo 3105-42, comuna Chiguayante, superficie 109,71 m2. de terreno y 117,72 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.097, de aparente dominio de Iglesia Unida Metodista Pentecostal, para ejecución programa "Mejoramiento Vial Eje O'Higgíns de Chiguayante", conforme artículo 51 ley 16.391 y D.L. 2186. Comisión Peritos integrada por Eduardo Rivera Gajardo, arquitecto; Alejandra Gutiérrez Flores, arquitecto, y Marcelo Andrade Pérez, arquitecto, según informe de fecha 22 de julio de 2004, fijó monto provisional indemnización en $31.505.254.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
