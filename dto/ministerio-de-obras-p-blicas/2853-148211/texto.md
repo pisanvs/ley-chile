@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.853, de 29 de septiembre de 1999, se expropió el lote de terreno Nº3, superficie 1.236 m², rol de avalúo 1328-77, comuna de San Carlos, para la obra "Ruta 5 Tramo Talca - Chillán, Calle de Servicio Población Nueva Esperanza", Octava Región y se acordó el valor de indemnización con sus propietarios Gonzalo René Hernández Uribe y otros, ascendente a la cantidad de $3.396.596.-
+
+Fiscal del Ministerio de Obras Públicas.
