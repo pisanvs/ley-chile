@@ -1,0 +1,7 @@
+Por decreto exento MOP Nº 319, de 29 de diciembre
+
+de 2000, y en base a la facultad otorgada por los
+
+artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 94-1, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector I: Km. 140.850,00 al Km. 151.500,00", Sexta Región, que figura a nombre de Figueroa Salinas José, rol de avalúo 202-4, comuna de Chimbarongo, superficie 154 m2. La comisión de peritos integrada por los señores Victoria Adriana Blanco Costa, Eduardo Alejandro Silva Aracena y Jaime Rolando Jürgens Bittner, fijó con fecha 14 de agosto de 2000, el valor provisional de la indemnización en la cantidad de $1.068.400.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
