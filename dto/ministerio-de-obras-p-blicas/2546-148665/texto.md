@@ -1,0 +1,3 @@
+Por decreto del Ministerio de Obras Públicas Nº 2.546, de 31 de agosto de 1999, se dejó sin efecto el decreto de dicho Ministerio Nº 1.129, de 30 de abril de 1999, que ordenó la expropiación, autorizó Convenio Directo de Precio Ad Referéndum y aprobó el Plano y Cuadro de Expropiación del lote de terreno Nº 3, necesario para la obra ''Ruta 5 Tramo Talca - Chillán: Pasarela Nº 5 La Finca''.
+
+Fiscal del Ministerio de Obras Públicas.
