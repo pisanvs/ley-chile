@@ -1,0 +1,3 @@
+Por resolución Nº174, de 29 de enero de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº684 de 1985, de esta Subsecretaría, en cuanto autorizó a LEFERSA ALIMENTOS S.A., para operar el centro de cultivo correspondiente al sector ubicado en Laguna Lobera o Manzano, localizada al Oeste del Fiordo Pichicolo, en el sector de Punta Caballito, comuna de Hualaihué, provincia de Palena, X Región.
+
+Valparaíso, 29 de enero de 1999.- Edith Saa Collantes, Subsecretaria de Pesca (S).
