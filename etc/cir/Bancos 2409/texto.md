@@ -9288,7 +9288,7 @@ No obstante lo anterior, en virtud de lo dispuesto en el último inciso del art�
 
 Atendido lo anterior, para celebrar contratos de crédito con alguna empresa en que participe el Estado, las instituciones financieras deberán obtener de su cliente una declaración escrita en el sentido de que la empresa cuenta con la autorización de que se trata o bien, de que no se encuentra dentro de aquellas sociedades a que se refieren las disposiciones legales antes mencionadas.
 
-Por otra parte, las corporaciones, fundaciones o asociaciones municipales están impedidas de contratar préstamos de conformidad con lo dispuesto en el artículo 138 de la Ley N° 18.695, modificado por la Ley N° 19.130
+Por otra parte, las corporaciones, fundaciones o asociaciones municipales están impedidas de contratar préstamos de conformidad con lo dispuesto en el artículo 138 de la Ley N° 18.695, modificado por la Ley N° 19.130. Sin embargo, debe tenerse presente que el artículo 139 de la misma ley exceptúa de esta prohibición a las corporaciones culturales municipales que cumplan con lo dispuesto en esa disposición legal.
 
 CAPITULO 8-9 (Bancos y Financieras)
 
@@ -17480,9 +17480,9 @@ Conforme a lo dispuesto por el Banco Central de Chile en el Capítulo III.B.2 de
 
 Las instituciones financieras deberán mantenerse diariamente encuadradas dentro de los márgenes permitidos.
 
-2.- Capital Básico.
+2.- Capital básico y patrimonio efectivo.
 
-El "capital básico" para los efectos tratados en este Capítulo, corresponderá al monto conformado por el capital pagado, las reservas y las demás cuentas patrimoniales que, de acuerdo a las instrucciones contables de esta Superintendencia, deben incluirse en las partidas 4305 a 4405.
+El capital básico y el patrimonio efectivo mencionados en este Capítulo, corresponderán a los definidos en los numerales 2 y 3.1 del Capítulo 12-1 de esta Recopilación.
 
 3.- Equivalencia en moneda chilena de las operaciones en monedas extranjeras.
 
@@ -17646,7 +17646,7 @@ V.- MARGEN DE TASAS DE INTERES.
 
 1.- Margen.
 
-Los descalces de tasas de interés que mantengan las instituciones financieras, entre operaciones activas y pasivas, no podrán exceder un monto equivalente al 8% del capital básico.
+Los descalces de tasas de interés que mantengan las instituciones financieras, entre operaciones activas y pasivas, no podrán exceder un monto equivalente al 8% del patrimonio efectivo.
 
 El cumplimiento de este margen se medirá sobre la base de los flujos de las operaciones computados en el período de tiempo en que ocurrirán, esto es, según plazos remanentes definidos a contar de la fecha del cómputo, aplicando a dichos flujos los cálculos de sensibilidad previstos en el N° 6 del Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile.
 
@@ -17654,7 +17654,7 @@ El cumplimiento de este margen se medirá sobre la base de los flujos de las ope
 
 De acuerdo con las normas del Banco Central de Chile, para la demostración de los cálculos deben considerarse separadamente el capital y sus intereses, y las distintas monedas.
 
-La primera banda temporal comprenderá los fondos disponibles y todas las operaciones a la vista o sin vencimiento, con la sola excepción de las cuentas de ahorro con giro diferido. La primera banda incluye todos los flujos que ocurrirán a menos de 30 días. La segunda banda temporal, por su parte, incluirá los flujos desde 30 a 89 días y la tercera desde 90 días a 6 meses. Las demás bandas temporales, esto es, de la 4° a la 13°, no requieren de precisiones para la aplicación de lo señalado en el N°6 del Capítulo III.B.2 del Compendio de Normas Financieras.
+La primera banda temporal comprenderá los fondos disponibles y todas las operaciones a la vista o sin vencimiento, con la sola excepción de las cuentas de ahorro a plazo. La primera banda incluye todos los flujos que ocurrirán a menos de 30 días. La segunda banda temporal, por su parte, incluirá los flujos desde 30 a 89 días y la tercera desde 90 días a 6 meses. Las demás bandas temporales, esto es, de la 4° a la 13°, no requieren de precisiones para la aplicación de lo señalado en el N°6 del Capítulo III.B.2 del Compendio de Normas Financieras.
 
 Los flujos por intereses de las operaciones sin vencimiento, como es el caso de las cuentas de ahorro a plazo, incluirán solamente los intereses devengados y contabilizados a la fecha del cómputo.
 
@@ -17694,7 +17694,7 @@ Además, se computarán los activos subyacentes de cualquier instrumento derivad
 
 Deben incluirse todas las operaciones que de acuerdo con las instrucciones de esta Superintendencia, se muestran bajo los conceptos que se señalan a continuación:
 
-- Depósitos, captaciones y otras obligaciones (Partidas 3005 a 3075). Las cuentas de ahorro a plazo con giro diferido se computarán para este efecto dentro de la banda temporal a más de un año a dos años.
+- Depósitos, captaciones y otras obligaciones (Partidas 3005 a 3075). Las cuentas de ahorro a plazo se computarán para este efecto dentro de la banda temporal a más de un año a dos años.
 
 - Operaciones con pacto de retrocompra (Partidas 3110 y 3115)
 
