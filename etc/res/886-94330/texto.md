@@ -1,0 +1,13 @@
+AUTORIZA A PESCA CHILE S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA
+
+Por Resolución No. 886, de 01 de Agosto de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesca Chile S.A., RUT No.
+
+95.023.000-2, domiciliada en la ciudad de Santiago, para ampliar las actividades pesqueras que tiene autorizadas por Resoluciones No. 208, de 1983 y No. 640, de 1986, ambas de esta Subsecretaría, en orden a operar las cuatro embarcaciones palangreras hieleras en construcción "Magallanes I" "Magallanes II", "Magallanes III" y "Magallanes IV", en aguas interiores de la XII Región, donde podrá extraer los siguientes recursos hidrobiológicos: Besugo, brótula, caballa cabrilla española, chancharro cojinoba del Norte, cojinoba del Sur, congrio dorado, jurel, merluza común, merluza de cola, merluza del Sur, merluza de tres aletas, raya, reineta y tollo de cachos. Asimismo, la peticionaria podrá operar una planta industrial ubicada en km. 5,5 Norte, Sector Tres Puentes, en Punta Arenas, en la XII Región, donde procesará en la línea de elaboración de congelado, los siguientes recursos hidrobiológicos: Bacalao de profundidad o mero, besugo, brótula, caballa, cabrilla española, cazón, chancharro, cojinoba del Norte, cojinoba del Sur, congrio dorado, fume, jurel, merluza común, merluza del Sur, merluza de cola, merluza de tres aletas raya reineta, salmón del Pacífico salmón del Atlántico, salmón keta, salmón plateado, salmón rey, tollo de cachos, almeja o taca, almeja, calamar, caracol trumulco, cholga, chorito, jibia, lapa, loco y macha. Los recursos salmonídeos antes mencionados deberán ser adquiridos de centros de cultivo autorizados.
+
+Deniégase la autorización solicitada por la peticionaria para capturar con las naves señaladas el recurso Bacalao de profundidad o Mero, de conformidad a lo dispuesto en el Decreto No. 439, de 1985, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Deniégase, la autorización solicitada por la peticionaria para extraer peces demersales en aguas interiores de la XI Región y en el mar exterior situado al sur del paralelo 47° LS atendiendo el estado de plena explotación en que se encuentra esta pesquería.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 01 de Agosto de 1989.-Roberto Cabezas Bello, Subsecretario de Pesca.
