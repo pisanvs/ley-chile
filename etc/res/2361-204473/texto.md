@@ -1,0 +1,3 @@
+Por resolución Nº 2.361, de 30 de octubre de 2002, modifícase el numeral 3º de la resolución Nº 2.060, modificada por resolución Nº 2.229, ambas de 2002, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Distribución espacial de Jurel en la zona costera de la VIII Región. Segunda etapa", en el sentido de señalar que la pesca de investigación se extenderá hasta el 9 de diciembre de 2002.
+
+Valparaíso, 30 de octubre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
