@@ -1,0 +1,7 @@
+Por decreto MOP Nº 2.954, de 30 de septiembre de 1999 se expropiaron los lotes de terreno Nºs. 38, 39, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50, 52, 54, 60, 63, 65 y 68-A, superficies 200, 383, 363, 377, 276, 84, 220, 228, 15, 112, 627, 645, 2.650, 315, 982, 417, 29 y 360 m2., respectivamente, roles de avalúos 230-4, 234-31, 234-20, 230-21, 234-11, 230-24, 240-26, 234-23, 230-30, 234-21, 225-25, 235-9, 235-13 y 220-12, comuna de Monte Patria, obra Camino Ruta D-597, Monte Patria-Carén, sector Juntas-Carén y se acordó precio de indemnización con sus propietarios Gonzalo Carmona Jopia, Benito Herrera Muñiz, Manuel Alucema López, Jil Rogelio Analiz Araya, Carlos Vallejo Delgado, Rosa Delgado Contreras, Digna Avalos Castillo y otros, Rolando Araya Araya, Ricardo Delgado Contreras, René Araya Cortés, Carlos Carvajal Chavarría, Elsa Díaz Bolvarán, Duanel Jesús Rojas, Rodolfo Arancibia Fuentes, René González Olivares y Carmen Rivera Jofré, ascendente a las cantidades de $1.180.445, lote 38; $1.057.833, lote 39; $1.292.298, lote 40; $1.044.232, lote 41; $1.116.906, lote 43;
+
+$799.820, lotes 44 y 47; $345.100, lote 45; $1.158.318, lotes 46 y 50; $468.524, lote 48; $521.812, lote 49;
+
+$2.590.280, lote 52; $1.433.180, lote 54; $684.719, lote 60; $589.512, lote 63; $330.484, lote 65 y $433.405, lote 68-A.
+
+Fiscal del Ministerio de Obras Públicas.
