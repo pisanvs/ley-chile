@@ -1,0 +1,3 @@
+Por resolución Nº 1.035, de 29 de mayo de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96105023 presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES, RECOLECTORES Y EXTRACTORES DE ALGAS "LA ULTIMA ESPERANZA", de Lechagua, para un centro de cultivo ubicado en Punta Pilluco, X Región.
+
+Valparaíso, 29 de mayo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
