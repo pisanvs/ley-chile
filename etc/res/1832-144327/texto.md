@@ -1,0 +1,3 @@
+Por resolución Nº 1.832, de 13 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97106025, presentada por SONIA ANGELICA CAMPOS NUÑEZ, para operar un centro de cultivo ubicado en Punta Carvajal, Ensenada Malfanti, Estero Huildad, comuna de Quellón, provincia de Chiloé, X Región.
+
+Valparaíso, 13 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
