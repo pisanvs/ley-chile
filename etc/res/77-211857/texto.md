@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Resolución Nº77 de 28.05.2003, Serviu VI Región del Libertador Bernardo O'Higgins, Tomada Razón en fecha 03.06.03, ordenó expropiación parte de un inmueble ubicado en Avenida Freire Nº827-841, Rol Nº339-25 de la comuna de Rancagua, superficie aproximada de 83,26 m2. de terreno y 83,26 de construcciones, delimitada en polígono X-Y-Z-A'-X, conforme al Plano 1/2000, de aparente dominio de Silvia González Bolbarán y doña Irma Margot González Bolbarán, inscrita a fojas 4451 Vta. Nº3846 del año 2000, y a fojas 2107 Vta. Nº2168 del año 1985, Proyecto de Mejoramiento Red Vial Avenida Freire, Rancagua, conforme al Art. 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shippley R., Jorge Godoy Rojas, Florencio Carter B., Ingeniero, Arquitecto y Constructor Civil, respectivamente, según informe de fecha febrero de 2000, monto provisional en $39.124.650, más reajustes legales respectivos.
+
+Directora Serviu VI Región.
