@@ -1,0 +1,3 @@
+Por Resolución Nº 2.158, de 26 de diciembre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94110169, presentada por JORGE ALEJANDRO OSSA ARANGUA, para un sector ubicado en Estero Quitralco, Comuna de Aysén, Provincia de Aysén, XI Región, conforme lo dispuesto en el Artículo 14º, del D.S. Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
