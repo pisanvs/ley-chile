@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 415, de 30 de abril de 1997, se expropiaron los lotes de terreno Nºs. 19-B y 20, superficies 1.456 y 6.366 M2., roles de avalúo 109-42 y 109-51, comuna de Quilicura, para la obra Estudio de Ingeniería Hablitación Segunda Calzada Avenida A. Vespucio, sector Carretera Panamericana Norte-Ruta 72, y sese acordó precio de indemnización con sus propietarios Roberto Gustavo Guzmán Lyon y Manfredo González Gutiérrez, ascendente a las cantidades de $89.954.892 para el lote 19-B y $326.865.672 para el lote 20.-
+
+Fiscal del Ministerio de Obras Públicas.
