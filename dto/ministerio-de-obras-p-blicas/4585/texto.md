@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.585 de 29 de septiembre del 2000, se expropió el lote de terreno Nº13, superficie 9.812, rol de avalúo Nº157-20, comuna de Pemuco, para la obra Proyecto Laja Diguillín, Area de Riego Pemuco, Canal San Ramón, Km. 0.000 al Km. 6.637 y se acordó precio de la indemnización con su propietario Juan Antonio Barrera Cartes, ascendente a la cantidad de $4.221.546.-
+
+Fiscal del Ministerio de Obras Públicas.
