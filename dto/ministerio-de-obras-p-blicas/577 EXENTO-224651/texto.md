@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 577 de fecha 31 de marzo del 2004, se expropió el lote de terreno Nº 1, superficie 2.238,82 m2, Rol Nº 161-163, comuna de Puerto Octay, X Región para la obra "Construcción Puentes Pichi-Río Negro y Blanco" y se acordó el valor de indemnización con su propietario Molina Crichton Limitada, ascendente a la cantidad de $1.893.966.- para el lote Nº 1.
+
+Fiscal del Ministerio de Obras Públicas.
