@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 524, de 31 de julio de 1996, se dejó sin efecto el Decreto M.O.P. N° 520 de 3 de junio de 1970, modificado por el Decreto N° 1.077, de 10 de diciembre de 1971, en, lo que se refiere a la expropiación de los lotes de terreno N°s. 3 4 y 5 para la obra Regadío Maule Norte, Canal Villalobos Bajo, roles de avalúo 165-10, 165-17 y 165-24, de la comuna de San Clemente, VII Región.
+
+Fiscal del Ministerio de Obras Públicas.
