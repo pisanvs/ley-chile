@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.052, de 29 de abril de 1999, se expropiaron los lotes de terreno No. s.27, 28, 29, 34 y 36, superficie 3.942; 13.605; 4.470; 1.169 y 6.409 M2., roles de avalúo 531-168 y 529-266, comuna de Cauquenes, obra Camino Cauquenes - Límite Regional - Quirihue, Sector Cuesta, y se acordó precio de indemnización con sus propietarios Abraham Fuad Rizik Jamade y otros, ascendente a la cantidad de $ 12.400.410.- para los lotes 27, 28, 29, 34 y 36.-
+
+Fiscal del Ministerio de Obras Públicas.
