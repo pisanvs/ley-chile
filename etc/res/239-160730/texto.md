@@ -1,0 +1,13 @@
+EXTRACTO DE LA REFORMA DE ESTATUTOS DEL BANCO O'HIGGINS
+
+Certifico que por resolución No. 239 de 16 de noviembre de 1989, se aprobaron las reformas introducidas a los estatutos del Banco O'Higgins, acordadas en la Junta Extraordinaria de Accionistas celebrada en Santiago el día 10 de octubre de 1989, cuya acta fue reducida a escritura pública el mismo día en la Notaría de Santiago de don Andrés Rubio Flores.
+
+Extracto de la reforma:
+
+1. Se aumentó el capital social de $ 7.597.843.580, dividido en 52.000.000 de la Serie A u ordinarias y 17.780.000 acciones preferidas de la Serie B, a la suma de $ 18.651.086.778, representado por 127.652.000 acciones nominativas, sin valor nominal. El aumento de $ 11.053.243.198 se efectuará mediante la emisión de 57.872.000 acciones preferidas de la Serie C, que deberán ser suscritas y pagadas de contado en dinero efectivo o mediante la capitalización de créditos o títulos de deuda externa suscritos o aceptados por el Banco O'Higgins, dentro del plazo de un año contado desde la fecha de la resolución que aprobó esta reforma. Las acciones de la Serie C que se emitirán gozarán del derecho a recibir dividendos con cargo a los excedentes de cada ejercicio social que transcurra mientras existan vigentes pactos de recompra de cartera vendida por el Banco O'Higgins al Banco Central de Chile o la obligación subordinada que asuma aquél frente a éste por la novación de las obligaciones derivadas de dichos pactos, en virtud de lo dispuesto en el artículo 15 de la Ley No.
+
+18.401. Dicho dividendo alcanzará al ochenta y cinco por ciento de aquella parte de los excedentes que proporcionalmente corresponda a las acciones de esta Serie C, en relación con el número total de acciones que estén emitidas al término del ejercicio cuyo excedente corresponda repartir. Las acciones que no estén totalmente pagadas se considerarán sólo por la parte pagada para calcular la proporción indicada.
+
+2. Se acordó reducir el capital social de $ 18.651.086.778 a la suma de $ 10.361.143.580. La disminución de capital se producirá por la destinación de la diferencia a efectuar una o más recompras extraordinarias de cartera vendida al Banco Central de Chile o bien, a hacer abonos a la obligación subordinada que el Banco O'Higgins asuma en favor del Banco Central de Chile por novación, en virtud de lo dispuesto en el artículo 15 de la Ley No. 18.401, y deberá llevarse a efecto dentro del plazo de un año contado desde la fecha de la resolución que aprobó esta reforma. La disminución de capital no afectará el número de acciones emitidas.
+
+Santiago, 16 de Noviembre de 1989.- Guillermo Fornet Fernández, Superintendente de Bancos e Instituciones Financieras subrogante.
