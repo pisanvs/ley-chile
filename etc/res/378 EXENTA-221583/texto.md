@@ -1,0 +1,3 @@
+Por resolución exenta Nº 378, de 9 de febrero de 2004 de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL COLD SOCIEDAD ANONIMA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Avenida Pedro Montt Nº 1082, Puerto Natales, XII Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-enfriado, Fresco-refrigerado, Congelado, Seco-salado, Conserva, Alga seca y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 9 de febrero de 2004.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
