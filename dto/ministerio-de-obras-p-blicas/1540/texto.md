@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.540, de 21 de septiembre de 1998, y en base a la facultad otorgada por el artículo 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 46, para la obra Camino Autopista Santiago - San Antonio, Sector Empalme I. Riquelme - Bif. Malloco, Km.
+
+9.703 al 24.734,99 (Sector Rural), que figura a nombre de Pardo del Río Bernardita, rol de avalúo 302-133, comuna de Peñaflor, superficie 9.955 m². La Comisión de Peritos integrada por los señores Sergio Rojas Ibáñez, Ricardo Carvallo Rodríguez y Carlos del Pedregal Sánchez, fijó con fecha 24 de febrero de 1995, el valor provisional de la indemnización en la cantidad de $ 24.869.750.- para el lote Nº 46.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
