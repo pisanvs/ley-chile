@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.188, de fecha 31 de julio de 2001, se expropiaron los lotes de terreno Nºs. 99 y 101, superficies 1.494 M2 y 1.013 M2, respectivamente, rol de avalúo 2026-49, comuna de Melipilla, Región Metropolitana, para la obra ''Camino Reposición Ruta G-74-F, Sector Melipilla-Bollenar, Km. 0.00000 al 14,23039'' y se acordó el valor de indemnización con su propietaria doña María Inés Cruz Barros, ascendente a la cantidad de $14.772.853.
+
+- Fiscal del Ministerio de Obras Públicas.
