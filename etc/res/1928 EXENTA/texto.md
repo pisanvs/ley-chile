@@ -1,0 +1,7 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN LAS COMUNAS DE TALCA Y MAULE
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1928 de 9 de Noviembre de 1989, conforme art. 5° transitorio Código Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sectores Excluidos, Reservas y Sectores Expropiados predios "El Fuerte", "El Delirio" y "Palmira" y Derechos Aprovechamiento Aguas que corresponden a las parcelas N°s. 1 a la 43, 48 a la 51 53, 54, 56 63 a la 72 y 84; sitios N°s. 1 a; 42, 46 al 50, 52, 54 al 57, 59, 61, 62, 64 al 76, 78 al 102, 104 al 149 y Reservas CORA N°s 1 al 7 del Proyecto de Parcelación Porvenir de las comunas de Talca y Maule, formado por predios señalados y por predios expropiados "Palmira", "Huilquilemu o Hijuela Sur o Primera del antiguo Fundo Huilquilemu", "El Sauce", "Los Pequenes" y "El Porvenir". Los derechos de agua se extraen de Derrames captados en Estero Pejerreyes, derrames del Fundo El Fuerte, derrames de la vertiente Palmira Alto, Canal Quiñantu del Rio Maule, derrames captados por esteros Perquin, Maquehua, Aguas Negras y Pejerreyes, derrames de predios sectores Las Latas y Nogales, Canal La Oriental o Tinajones, Canal Huilquilemu, derrames conducidos por Canal La Oriental o Tinajones, derrames de] fundo Porvenir, derrames de Población Las Mercedes, Canal El Molino, derrames del Fundo El Rosario por Canal Colorado y Canal San Antonio.
+
+Publicación hecha conforme art. 13 Ley No. 18.377.
+
+Director Nacional.
