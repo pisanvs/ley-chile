@@ -1,0 +1,7 @@
+Por Decreto MOP. Nº 3.808, de 30 de agosto de 2000 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 27, 29, 30, 32, 34, 39, 41, 42, 43, 47, 48, 51, 53, 55, 57, 58, 59, 62 y 66, para la obra Camino Ruta F-800, sector Cruce Ruta 68-Las Tablas-Bifurcación Tunquén, tramo Kms. 0,000 al 16,266, que figuran a nombre de Soc. Agrícola Ganadera Requínoa, rol de avalúo 171-3, superficies 342 m2; 1.442 m2.; 799 m2.; 608 m2.; 318 m2.; 1.318 m2.; 187 m2.; 249 m2.;
+
+1.772 m2.; 900 m2:, 384 m2.; 816 m2.; 379 m2; 656 m2.;
+
+5.106 m2.; 1.605 m2.; 1.319 m2.; 108 m2. y 122 m2., comuna de Casablanca. La Comisión de peritos, con fecha 2 de septiembre de 1999, fijó la indemnización provisional en las cantidades de $250.800, lote Nº 27, $870.200, lote Nº 29, $500.400, lote Nº 30, $413.440, lote Nº 32, $205.800, lote Nº 34, $805.600, Lote Nº 39, $147.200, lote Nº 41, $149.400, lote Nº 42, $1.250.100, lote Nº 43, $585.000, lote Nº 47, $241.920, lote Nº 48, $560.100, lote Nº 51, $241.800, lote Nº 53, $467.100, lote Nº 55, $3.171.600, lote Nº 57, $1.372.400, lote Nº 58, $1.110.000, lote Nº 59, $135.600, lote Nº 62 y $168.800, lote Nº 66, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
