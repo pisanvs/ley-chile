@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.158, de 30 de octubre de 1998, se expropió el lote de terreno Nº 17, superficie 111 m², rol de avalúo 153-37, comuna de Quemchi, para la obra Camino Las Ventanas - Bifurcación Rapaco Rol T-6 Camino Ruta W-35, Cruce Longitudinal Quemchi, Sector Acceso a Loncomilla - Quemchi y se acordó precio de indemnización con su propietario Otilio Rogel Hernández, ascendente a la cantidad de $ 589.308.-
+
+Fiscal del Ministerio de Obras Públicas.
