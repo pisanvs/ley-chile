@@ -1,0 +1,3 @@
+Por resolución exenta Nº 641, de 27 de febrero de 2004, de esta Subsecretaría, modifícase la resolución Nº 559 de 2002, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para realizar las actividades experimentales de acuicultura sobre las especies Esturión de Siberia Acipenser baeri y Esturión blanco Acipenser transmontanus, en el sentido de reemplazar en el inciso segundo del numeral 3.- la expresión "diciembre de 2003", por la frase "el 30 de junio de 2004".
+
+Valparaíso, 27 de febrero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
