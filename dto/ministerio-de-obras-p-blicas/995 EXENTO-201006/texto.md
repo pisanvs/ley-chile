@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº995, de fecha 28 de junio de 2002, se expropiaron los lotes de terreno Nºs. 28-D y 28-E, superficies 1.575 m² y 2.560 m², respectivamente, rol de avalúo 348-32, comuna de Constitución, VII Región, para la obra ''Camino M-24-K, Quivolgo Puente Lautaro, sector La Trinchera - Putú (Variante Costera), Km. 13,240 al 30,000'', y se acordó el valor de indemnización con su propietario don Edilio Vergara Muñoz, ascendente a la cantidad de $2.661.300.
+
+Fiscal del Ministerio de Obras Publicas
