@@ -1,0 +1,3 @@
+Por decreto MOP. Nº1.141 de 31 de julio de 2002, se expropió el lote de terreno Nº45-6, superficie 60 M2., rol de avalúo 738-19, comuna de El Tabo para la obra Red. Vial Litoral Central Sector 1, Nuevo Camino Costero. Acceso a El Tabo. Km. 1.400,00 al Km. 3.822,00, V Región y se acordó el valor de indemnización con Laureano Esteban Cantillano Cáceres, ascendente a la cantidad de $830.342.-
+
+Fiscal del Ministerio de Obras Públicas.
