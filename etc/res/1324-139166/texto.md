@@ -1,0 +1,3 @@
+Por resolución Nº 1.324, de 12 de julio de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96103292, presentada por Marco Ernesto Toledo OyarzUn, para operar un centro de cultivo ubicado en un sector entre Lincay y Quechomo, Isla Lemuy, comuna de Puqueldón, provincia de Chiloé, X Región.
+
+Valparaíso, 12 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
