@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.216, de 3 de diciembre de 2003, de esta Subsecretaría, autorízase a SOUTHPACIFIC KORP S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida Pedro Aguirre Cerda s/n, sitio 7, Coronel, VIII Región, en la línea de elaboración Harina y Aceite, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 3 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
