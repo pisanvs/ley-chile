@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº289 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº18, superficie 158 m², rol de avalúo Nº2210-535, comuna de Chillán, para la obra "Camino Ruta N-45, Sector Cruce Ruta N-49 (Chillán) - La Capilla - Tres Esquinas, Km. 0,00000 a Km. 5,88000", VIII Región y se acordó el valor de la indemnización con su propietario Inversiones Trigal Ltda., ascendente a la cantidad de $736.181.-
+
+Fiscal del Ministerio de Obras Públicas.
