@@ -1,0 +1,3 @@
+Por resolución No. 804, de 25 de Agosto de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año a contar del 17 de septiembre de 1992, el plazo otorgado a don ENRIQUE ESCOBAR FERNANDEZ, RUT No. 3.380.849-6, domicilio Postal en Casilla 17, Maullín, X Región, para instalar y operar un establecimiento de cultivo ubicado en Río San Pedro Nolasco, Comuna de Maullín, Provincia de Llanquihue, X Región, autorizado por la resolución No. 1.087, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 25 de Agosto de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
