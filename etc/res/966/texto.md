@@ -1,0 +1,3 @@
+Por Resolución N° 966 de 26 de Noviembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcanse las Resoluciones N° 353, de 1984 y N° 329, de 1986, ambas de esta Subsecretaría, que autorizaron a SOCIEDAD INDUSTRIAL PESQUERA DE CHILE LTDA., R.U.T. N° 85.682.900-6, para operar las naves "Sipec I" y "Sipec II", en virtud de lo prescrito en el artículo 143 letra b) del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de Noviembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
