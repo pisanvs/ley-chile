@@ -1,0 +1,3 @@
+Por decreto MOP Nº218, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº112, superficie 800,00 m², rol de avalúo 234-62, comuna de Villa Alegre, para la obra "Camino Mejoramiento Ruta L-19, Sector Cruce Longitudinal (Villa Alegre-Esperanza), Tramo Km. 0,000.00 al Km. 10,623.89" y se acordó el valor de indemnización con su propietario Marcelino Segundo Faúndez Lillo, ascendente a la cantidad de $1.401.216.-
+
+Fiscal del Ministerio de Obras Públicas.
