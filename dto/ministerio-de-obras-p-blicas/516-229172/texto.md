@@ -1,0 +1,5 @@
+Por decreto MOP Nº 516, de 30 de junio de 2004, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 111, para la ejecución de la obra "Camino Ruta S-16, Sector Chol-Chol - Nueva Imperial Tramo Km. 24,30269 al Km.
+
+43,50000, Subtramo III Km. 35,380 a Km. 43,50000", que figura a nombre de Agrícola y Forestal Agropucón, rol de Avalúo 602-12, comuna de Nueva Imperial, IX Región, superficie 7.806 M². La Comisión de peritos con fecha 21 de octubre de 2002, fijó el monto de la indemnización provisional en la cantidad de $15.708.400.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el articulo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
