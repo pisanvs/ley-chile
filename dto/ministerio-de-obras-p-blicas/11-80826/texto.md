@@ -1,0 +1,3 @@
+Por Decreto MOP No. 111, de 27.05.91, se expropiaron los lotes No. s. 18-c y 53, superficies 24.977 y 1.567 m2., roles de avalúo 15006-9 y 5004-70, Comunas de Concepción y Coronel, para la Ampliación Ruta 160, Camino Concepción-Coronel y se acordó precio de indemnización con sus propietarios Forestal Mininco S.A. y Norma del C. Soto Calderón, ascendente a las cantidades de $ 22.892.042.- y $ 1.887.865.- respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
