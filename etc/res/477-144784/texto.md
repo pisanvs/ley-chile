@@ -1,0 +1,19 @@
+DETERMINA PROCEDIMIENTOS PARA RESOLVER SITUACIONES QUE INDICA, EN CASO DE POSTULACION COLECTIVA A PROGRAMAS QUE SEÑALA
+
+Santiago, 15 de septiembre de 1999.- Hoy se resolvió lo que sigue:
+
+Núm. 477.- Visto: El D.S. Nº 62 (V. y U.), de 1984, y sus modificaciones, que regula el Sistema de Postulación, Asignación y Venta de Viviendas destinadas a Atender Situaciones de Marginalidad Habitacional, en especial lo previsto en el inciso cuarto de su artículo 10; el D.S. Nº140 (V. y U.), de 1990, y sus modificaciones, que regula los Programas de Viviendas Progresivas, en especial lo previsto en su artículo 7º;
+
+y,
+
+Considerando: La conveniencia de determinar claramente los procedimientos a utilizar en situaciones de postulación colectiva a los Programas de Viviendas Sociales, Básicas y Progresivas, que regulan los decretos supremos Nº 62 y Nº 140, ambos de Vivienda y Urbanismo, de 1984 y 1990, respectivamente, cuando se postula indicando más de una preferencia y en una de ellas uno o más integrantes del mismo grupo resulta inhábil, en tanto que en la otra preferencia resulta hábil; o cuando en una preferencia se selecciona parte del grupo en consideración al número mínimo informado quedando un remanente de postulantes hábiles del mismo grupo sin atender, pero que reune las condiciones para participar en la selección respecto de la segunda preferencia; así como el procedimiento para dirimir en los casos en que se presente igualdad de puntaje entre dos o más grupos postulantes, dicto la siguiente
+
+R e s o l u c i ó n:
+
+1º.- Cuando como consecuencia de un proceso de postulación y selección en los casos de postulación colectiva a Programas de Viviendas Sociales, Básicas y Progresivas que regulan los decretos supremos Nº 62 y Nº 140, ambos de Vivienda y Urbanismo, de 1984 y 1990, respectivamente, en que el mismo grupo hubiere señalado más de una preferencia, la inhabilidad de uno o más integrantes del grupo, con respecto a cualquiera de esas preferencias, producirá su exclusión también respecto de la otra preferencia indicada.
+
+2º.- Cuando como consecuencia de un proceso de postulación y selección, en los casos de postulación colectiva a Programas de Viviendas Sociales, Básicas y Progresivas que regulan los decretos supremos Nº 62 y Nº 140, ambos de Vivienda y Urbanismo, de 1984 y 1990, respectivamente, cuando se postula indicando más de una preferencia, la preselección o selección de parte del grupo en una de las preferencias señaladas, como consecuencia de la aplicación del número mínimo de socios, miembros o afiliados a atender, producirá la exclusión automática de los no seleccionados respecto de la otra preferencia señalada, así como su exclusión de las listas de espera en que hubiere quedado incluido con respecto a selecciones que correspondan a alternativas indicadas con mayor preferencia que aquella en que resulte seleccionado parte del mismo grupo, sin perjuicio de los ajustes que pudieren producirse como consecuencia del proceso de atención de reclamaciones y de confección de la nómina de ratificación.
+
+3º.- En caso de producirse igualdad de puntaje entre dos o más grupos postulantes, el empate se resolverá atendiendo al puntaje promedio obtenido por cada grupo, considerando para dirimir el empate cada factor de puntaje, en el mismo orden señalado para el caso de postulantes individuales, en el artículo 13 del D.S. Nº 62 (V. y U.), de 1984; en el inciso final del artículo 45 del mismo reglamento; o, en el artículo 13 del D.S. Nº 140 (V. y U.), de 1990, según corresponda.
+
+Anótese, tómese razón y publíquese.- Sergio Henríquez Díaz, Ministro de Vivienda y Urbanismo. Lo que transcribo para su conocimiento.- Berta A. Belmar Ruiz, Subsecretaria de Vivienda y Urbanismo.
