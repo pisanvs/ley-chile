@@ -4374,7 +4374,7 @@ Los promedios señalados precedentemente, se determinarán considerando sólo lo
 
 2.- Equivalencia en dólares de los saldos en otras monedas extranjeras.
 
-Para determinar la equivalencia en dólares de los Estados Unidos de América de los saldos en monedas extranjeras, se convertirán los respectivos saldos diarios a dólares, de acuerdo con las paridades informadas por esta Superintendencia para efectos de representación contable, vigentes en las fechas correspondientes.
+Para determinar la equivalencia en dólares de los Estados Unidos de América de los saldos en monedas extranjeras, se convertirán los respectivos saldos diarios a dólares, de acuerdo con las paridades, por la palabra "para" representación contable, vigentes en las fechas correspondientes.
 
 ### 3. Intereses y reajustes
 
@@ -4726,7 +4726,7 @@ Además, de acuerdo a lo señalado en la ley, se entenderán también como oblig
 
 También quedan comprendidos en estas obligaciones los depósitos a plazo cuyos titulares hayan requerido el retiro anticipado y la entidad depositaria haya consentido en restituirlos antes del vencimiento.
 
-Para determinar el equivalente en pesos de las obligaciones en moneda extranjera comprendidas en las citadas partidas, se aplicará el tipo de cambio de representación contable establecido por esta Superintendencia.
+Para determinar el equivalente en pesos de las obligaciones en moneda extranjera comprendidas en las citadas partidas, se aplicará el tipo de cambio de representación contable.
 
 Debe tenerse presente que la obligación impuesta en el artículo 80 bis de la Ley General de Bancos debe cumplirse diariamente, de manera que los bancas y sociedades financieras deben llevar día a día el cómputo de sus obligaciones afectas, a fin de determinar el monto de éstas por las que deben enterar reserva técnica.
 
@@ -8726,39 +8726,25 @@ Participación que suscriban con el Banco Central de Chile.
 
 ### 7. Normas contables
 
-Las operaciones de que trata este capítulo, serán contabilizadas en la forma que
-
-a continuación se indica:
+Las operaciones de que trata este capítulo, serán contabilizadas en la forma que a continuación se indica:
 
 7.1. Préstamos expresados en moneda extranjera.
 
 a) Moneda extranjera.
 
-Debe: "Préstamos PRF", cuenta cuyo saldo se incluirá en la partida 1205 del
+Debe: "Préstamos PRF", cuenta cuyo saldo se incluirá en la partida 1205 del formulario MB1.
 
-formulario MB1.
-
-Haber: "Conversión Préstamos PRF". El saldo de esta cuenta será demostrado en la
-
-partida 4510 ó 2510 del formulario MB1.
+Haber: "Conversión Préstamos PRF". El saldo de esta cuenta será demostrado en la partida 4510 ó 2510 del formulario MB1.
 
 b) Moneda chilena.
 
-Debe: "Cambio Préstamos PRF". El saldo de esta cuenta será demostrado en las
+Debe: "Cambio Préstamos PRF". El saldo de esta cuenta será demostrado en las partidas 2510 ó 4510 del formulario MB1.
 
-partidas 2510 ó 4510 del formulario MB1.
-
-Haber: "Caja" o la cuenta que corresponda por el desembolso del importe del
-
-crédito.
+Haber: "Caja" o la cuenta que corresponda por el desembolso del importe del crédito.
 
 7.2. Préstamos reajustables por la variación de la Unidad de Fomento.
 
-Estos préstamos serán registrados en moneda chilena en la cuenta "Préstamos
-
-PRF", de la partida 1205, del formulario MB1, con abono a "Caja" o la cuenta que
-
-corresponda por la entrega de su importe al beneficiario.
+Estos préstamos serán registrados en moneda chilena en la cuenta "Préstamos PRF", de la partida 1205, del formulario MB1, con abono a "Caja" o la cuenta que corresponda por la entrega de su importe al beneficiario.
 
 7.3. Refinanciamiento de los créditos cursados.
 
@@ -8768,85 +8754,37 @@ a) Moneda extranjera.
 
 Debe: "Conversión Préstamos PRF".
 
-Haber: "Adeudado por refinanciamiento Préstamo PRF", cuenta cuyo saldo será
-
-demostrado en la partida 3455 del formulario MB1.
+Haber: "Adeudado por refinanciamiento Préstamo PRF", cuenta cuyo saldo será demostrado en la partida 3455 del formulario MB1.
 
 b) Moneda chilena.
 
-Debe: La cuenta que corresponda por el importe recibido del Banco Central de
+Debe: La cuenta que corresponda por el importe recibido del Banco Central de Chile.
 
-Chile.
-
-Haber: "Cambio Préstamos PRF", por el equivalente en pesos moneda nacional, de
-
-la moneda extranjera.
+Haber: "Cambio Préstamos PRF", por el equivalente en pesos moneda nacional, de la moneda extranjera.
 
 7.3.2. Refinanciamiento de créditos reajustables por la Unidad de Fomento.
 
-Las obligaciones por el refinanciamiento de estos créditos serán registradas en
-
-moneda chilena en la cuenta "Adeudado por refinanciamiento préstamos PRF", con
-
-cargo a la cuenta que corresponda por el importe recibido del Banco Central de
+Las obligaciones por el refinanciamiento de estos créditos serán registradas en moneda chilena en la cuenta "Adeudado por refinanciamiento préstamos PRF", con cargo a la cuenta que corresponda por el importe recibido del Banco Central de
 
 Chile.
 
 7.4. Intereses.
 
-Los intereses que devenguen los créditos cursados por las instituciones
+Los intereses que devenguen los créditos cursados por las instituciones financieras con los recursos de que se trata, serán acreditados en la cuenta"Intereses ganados por créditos URF", cuyo saldo será demostrado en la partida 7105 ó 7115 del formulario MR1, según corresponda, con cargo a "Intereses por cobrar".
 
-financieras con los recursos de que se trata, serán acreditados en la
-
-cuenta"Intereses ganados por créditos URF", cuyo saldo será demostrado en la
-
-partida 7105 ó 7115 del formulario MR1, según corresponda, con cargo a
-
-"Intereses por cobrar".
-
-Los intereses que se adeuden a favor del Banco Central de Chile por los
-
-refinanciamientos recibidos, se debitarán en la cuenta "Intereses pagados por
-
-refinanciamiento crédito PRF", la que se incluirá en la partida 5155 del
-
-formulario MR1, con abono a "Intereses por pagar".
+Los intereses que se adeuden a favor del Banco Central de Chile por los refinanciamientos recibidos, se debitarán en la cuenta "Intereses pagados por refinanciamiento crédito PRF", la que se incluirá en la partida 5155 del formulario MR1, con abono a "Intereses por pagar".
 
 7.5. Reajustes.
 
-Los reajustes que devenguen los créditos otorgados en Unidades de Fomento, se
+Los reajustes que devenguen los créditos otorgados en Unidades de Fomento, se acreditarán en la cuenta "Reajustes ganados por créditos PRF", la que será demostrada en la partida 7305 del formulario MR1, con cargo a "Reajustes por cobrar".
 
-acreditarán en la cuenta "Reajustes ganados por créditos PRF", la que será
-
-demostrada en la partida 7305 del formulario MR1, con cargo a "Reajustes por
-
-cobrar".
-
-Los reajustes que se adeuden al Banco Central de Chile se debitarán en la cuenta
-
-"Reajustes pagados por refinanciamiento créditos PRF", cuyo saldo se demostrará
-
-en la partida 5360 del formulario MR1.
+Los reajustes que se adeuden al Banco Central de Chile se debitarán en la cuenta "Reajustes pagados por refinanciamiento créditos PRF", cuyo saldo se demostrará en la partida 5360 del formulario MR1.
 
 7.6. Ajuste de la cuenta "Cambio préstamos PRF".
 
-El último día de cada mes las instituciones financieras ajustarán el saldo de la
+El último día de cada mes las instituciones financieras ajustarán el saldo de la cuenta "Cambio préstamos PRF", de tal manera que refleje el equivalente del saldo de la cuenta "Conversión préstamos PRF" al tipo de cambio de representación contable.
 
-cuenta "Cambio préstamos PRF", de tal manera que refleje el equivalente del
-
-saldo de la cuenta "Conversión préstamos PRF" al tipo de cambio fijado por esta
-
-Superintendencia para el ajuste de las cuentas "Cambio".
-
-El referido ajuste será acreditado en la cuenta "Utilidades por variación de
-
-tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715
-
-del formulario MR1, o bien, "Pérdidas por variación de tipo de cambio de
-
-recursos en moneda extranjera liquidados" de la partida 5715 del referido
-
-formulario.
+El referido ajuste será acreditado en la cuenta "Utilidades por variación de tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715 del formulario MR1, o bien, "Pérdidas por variación de tipo de cambio de recursos en moneda extranjera liquidados" de la partida 5715 del referido formulario.
 
 ### 8. Pago anticipado de los créditos
 
@@ -10940,7 +10878,7 @@ En los casos en que los bancos realicen ventas de oro en el exterior, deberán e
 
 3.1- Registro de las inversiones en oro.
 
-Las instituciones financieras deben registrar por su equivalente en pesos moneda chilena, el oro que mantengan, utilizando para tal efecto la cotización informada por esta Superintendencia para el oro sellado chileno y el respectivo equivalente, cuando se trate de oro en otra forma. En todo caso, deberá mantenerse un control de la cantidad de unidades en que se exprese el oro que se tenga en calidad de inversión de la empresa.
+Las instituciones financieras deben registrar por su equivalente en pesos moneda chilena, el oro que mantengan, utilizando para tal efecto la cotización para representación contable del***D**** oro sellado chileno y el respectivo equivalente, cuando se trate de oro en otra forma. En todo caso, deberá mantenerse un control de la cantidad de unidades en que se exprese el oro que se tenga en calidad de inversión de la empresa.
 
 Estos importes serán registrados en la cuenta "Inversiones en oro", de la partida 1735.
 
@@ -10950,7 +10888,7 @@ Sin perjuicio de lo anterior, las instituciones financieras que entregaren en pr
 
 3.3.- Ajustes de los saldos contables.
 
-El saldo de la cuenta "Inversiones en oro" deberá corregirse, al cierre de cada mes o en las demás oportunidades que esta Superintendencia disponga, de acuerdo con la cotización informada por este Organismo para tal efecto, o bien, por el equivalente de ésta que en cada caso corresponda, cuando se trate de oro distinto al oro sellado chileno. El registro de dicho ajuste se considerará como "corrección monetaria", abonándose o cargándose los resultados por ese concepto, según proceda.
+El saldo de la cuenta "Inversiones en oro" deberá corregirse, al cierre de cada mes o en las demás oportunidades que esta Superintendencia disponga, de acuerdo con la cotización para representación contable, o bien, por el equivalente de ésta que en cada caso corresponda, cuando se trate de oro distinto al oro sellado chileno. El registro de dicho ajuste se considerará como "corrección monetaria", abonándose o cargándose los resultados por ese concepto, según proceda.
 
 Por la misma cotización antes señalada, o por el equivalente de ésta que corresponda, se deberá ajustar el oro registrado en las cuentas de orden a que se refiere el numeral 3.2 precedente.
 
@@ -10966,9 +10904,9 @@ Los bancos y las sociedades financieras pueden recibir oro de terceros sólo en 
 
 2.- Contabilización del Oro en custodia.
 
-Las instituciones financieras deben registrar por su equivalente en pesos moneda chilena, el oro depositado en custodia, utilizando para tal efecto la cotización informada por esta Superintendencia para el oro sellado chileno y el respectivo equivalente, cuando se trate de oro en otra forma En todo caso, deberá mantenerse un control de la cantidad de unidades en que se exprese el oro que se haya recibido en custodia. El registro de estos importe se efectuará en cuentas de orden, de las partidas 9260 y 9900.
+Las instituciones financieras deben registrar por su equivalente en pesos moneda chilena, el oro depositado en custodia, utilizando para tal efecto la cotización para representación contable del oro sellado chileno y el respectivo equivalente, cuando se trate de oro en otra forma En todo caso, deberá mantenerse un control de la cantidad de unidades en que se exprese el oro que se haya recibido en custodia. El registro de estos importe se efectuará en cuentas de orden, de las partidas 9260 y 9900.
 
-Las referidas cuentas de orden deben ajustarse de acuerdo con la cotización informada por este Organismo para tal efecto, o bien, por el equivalente de esta que en cada caso corresponda, cuando se trate de oro distinto al oro sellado chileno.
+Las referidas cuentas de orden deben ajustarse de acuerdo con la cotización para representación contable, o bien, por el equivalente de esta que en cada caso corresponda, cuando se trate de oro distinto al oro sellado chileno.
 
 CAPITULO 8-26 (Bancos y Financieras)
 
@@ -12648,7 +12586,7 @@ Los reajustes que se adeuden al Banco Central de Chile se registrarán con cargo
 
 7.6. Ajuste de la cuenta "Cambio préstamos PFI".
 
-El último día de cada mes las instituciones financieras ajustarán el saldo de la cuenta "Cambio préstamos PFI", de tal manera que refleje el equivalente del saldo de la cuenta "Conversión préstamos PFI" al tipo de cambio fijado por esta Superintendencia para tal efecto.
+El último día de cada mes las instituciones financieras ajustarán el saldo de la cuenta "Cambio préstamos PFI", de tal manera que refleje el equivalente del saldo de la cuenta "Conversión préstamos PFI" al tipo de cambio de representación contable.
 
 El referido ajuste será acreditado en la cuenta "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715 del MR1, o bien, "Pérdidas por variación del tipo de cambio de recursos en moneda extranjera liquidados" de la partida 5715 del MR1.
 
@@ -17428,11 +17366,7 @@ e) El valor par de los pagarés "Acuerdo 1506" que mantenga la institución y qu
 
 ### 3. Saldos en moneda extranjera
 
-Los saldos en moneda extranjera se computarán por su equivalente en moneda
-
-chilena, calculado al tipo de cambio informado por esta Superintendencia,
-
-vigente en la fecha a la cual esté referido el cómputo.
+Los saldos en moneda extranjera se computarán por su equivalente en moneda chilena, calculado al tipo de cambio de representación contable, vigente en la fecha a la cual esté referido el cómputo.
 
 ### 4. Capital y reservas
 
@@ -18440,7 +18374,7 @@ estos eventos, debe realizarse de acuerdo con lo dispuesto a continuación.
 
 Para determinar el monto a que ascienden las obligaciones directas o indirectas de los deudores, debe considerarse el valor de los créditos con los intereses y reajustes devengados hasta el último día del mes inmediatamente anterior a la fecha a que se refiera el cómputo. Para estos efectos, los demás créditos que se hubieren otorgado en el mismo mes se considerarán sin intereses ni reajustes por el lapso que medie entre su otorgamiento y la fecha del cómputo.
 
-Los saldos en moneda extranjera deberán expresarse en moneda corriente, de acuerdo con el tipo de cambio de representación contable que informa periódicamente esta Superintendencia, vigente a la fecha en que se determine el endeudamiento.
+Los saldos en moneda extranjera deberán expresarse en moneda corriente, de acuerdo con el tipo de cambio de representación contable vigente a la fecha en que se determine el endeudamiento.
 
 Con todo, la cartera vencida incluirá solamente los intereses y reajustes devengados hasta la fecha de vencimiento.
 
@@ -19612,7 +19546,7 @@ El Capital Pagado y Reservas que se considerará para los efectos de que trata e
 
 3.- Equivalencia en moneda chilena de las operaciones en monedas extranjeras.
 
-Para determinar la equivalencia en moneda chilena de los saldos en monedas extranjeras, se convertirán éstos al tipo de cambio de representación contable fijado por esta Superintendencia que se encuentre vigente.
+Para determinar la equivalencia en moneda chilena de los saldos en monedas extranjeras, se convertirán éstos al tipo de cambio de representación contable que se encuentre vigente.
 
 4.- Reajustes e intereses.
 
@@ -19804,7 +19738,7 @@ Las instituciones financieras no podrán efectuar nuevas inversiones en los bien
 
 Para este efecto se considerará el monto del capital pagado y reservas a la fecha de la inversión, calculado de la forma señalada en el numeral 1.1 del Capítulo 12-1 de esta Recopilación Actualizada de Normas, y el valor contable a la misma fecha, incluida su corrección monetaria, de los bienes que deben registrarse en las partidas 2305 y 2320 y en la cuenta "Inversiones en Oro" de la partida 1735.
 
-Los saldos en moneda extranjera se computarán por su equivalente en moneda chilena calculado al tipo de cambio de representación contable vigente, informado por esta Superintendencia.
+Los saldos en moneda extranjera se computarán por su equivalente en moneda chilena calculado al tipo de cambio de representación contable vigente.
 
 4 - Sanciones.
 
@@ -19974,7 +19908,7 @@ c) Ajuste de las cuentas "Cambio".
 
 El último día de cada mes, los bancos ajustarán el saldo de las cuentas "Cambio Mercado Bancario" con cargo a la cuenta "Pérdidas de cambio" de la partida 5705 o con abono a "Utilidades de cambio" de la partida 7705, según corresponda.
 
-Para realizar los referidos ajustes, deberán utilizar el tipo de cambio y el procedimiento que, para tal efecto, les señale esta Superintendencia, de conformidad con lo dispuesto en el Capítulo 13-30 de esta Recopilación.
+Para realizar los referidos ajustes, deberán utilizar el tipo de cambio y el procedimiento señalado en el Capítulo 13-30 de esta Recopilación.
 
 En la misma fecha antes señalada, ajustarán el saldo de las cuentas "Cambio Mercado de Divisas de Libre Disposición" con cargo a la cuenta "Pérdidas varias de cambio" de la partida 5710 o con abono a "Utilidades varias de cambio" de la partida 7710, según proceda, debiendo aplicar para tal efecto el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera el día que realice el ajuste.
 
@@ -20642,7 +20576,7 @@ Sin embargo, en los casos en que el producto de los referidos aportes de capital
 
 Las divisas recompradas se acreditarán en la cuenta "Conversión recompra aportes de capital D.L. N° 600" de la partida 4510 del formulario MB1, en tanto que su equivalente en pesos moneda corriente, se registrará en la cuenta "Cambios recompra aportes de capital D.L. N° 600", de la partida 2510 del referido formulario.
 
-El último día de cada mes, los bancos ajustarán el saldo de la cuenta "Cambio recompra aportes de capital D.L. N° 600" y contabilizarán dicho ajuste en la forma prevista en el capítulo 13-30 de la Recopilación Actualizada de Normas, debiendo aplicar el tipo de cambio fijado por esta Superintendencia para tal efecto, vigente en esta fecha.
+El último día de cada mes, los bancos ajustarán el saldo de la cuenta "Cambio recompra aportes de capital D.L. N° 600" y contabilizarán dicho ajuste en la forma prevista en el capítulo 13-30 de la Recopilación Actualizada de Normas, debiendo aplicar el tipo de cambio de representación contable vigente en esta fecha.
 
 CAPITULO 13-7 (Bancos y Financieras)
 
@@ -21528,7 +21462,7 @@ Haber: La cuenta en que se mantenga disponible el importe en moneda extranjera.
 
 4.14. Ajuste de la cuenta "Cambio Créditos Externos-Acuerdo 1196".
 
-Las instituciones financieras deben ajustar el saldo de la cuenta "Cambio Créditos Externos-Acuerdo 1196", en la forma prevista en la Circular N° 1.892-343, de 3 de marzo de 1983, de tal manera que ésta refleje el equivalente en pesos del saldo de su respectiva cuenta "Conversión", calculado al tipo de cambio que ordene esta Superintendencia.
+Las instituciones financieras deben ajustar el saldo de la cuenta "Cambio Créditos Externos-Acuerdo 1196", en la forma prevista en la Circular N° 1.892-343, de 3 de marzo de 1983, de tal manera que ésta refleje el equivalente en pesos del saldo de su respectiva cuenta "Conversión", calculado al tipo de cambio de representación contable.
 
 4.15. Descuento en la retroventa de pagarés del Banco Central de Chile.
 
@@ -21716,7 +21650,7 @@ Las comisiones pagadas por márgenes recibidos, serán debitadas en la cuenta "C
 
 6.7.- Ajuste mensual.
 
-El último día de cada mes los bancos ajustarán el saldo de la cuenta "Cambio recursos propios-Acuerdo 1418" y contabilizarán dicho ajuste en las cuentas "Pérdidas por variación del tipo de cambio de recursos en moneda extranjera liquidados" o "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados", según corresponda Estas cuentas se demuestran en las partidas 5715 ó 7715, respectivamente Para los efectos de este ajuste se empleará el tipo de cambio fijado para tal objeto por esta Superintendencia, vigente a esa fecha.
+El último día de cada mes los bancos ajustarán el saldo de la cuenta "Cambio recursos propios-Acuerdo 1418" y contabilizarán dicho ajuste en las cuentas "Pérdidas por variación del tipo de cambio de recursos en moneda extranjera liquidados" o "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados", según corresponda Estas cuentas se demuestran en las partidas 5715 ó 7715, respectivamente Para los efectos de este ajuste se empleará el tipo de cambio de representación contable vigente a esa fecha.
 
 7.- Información al Banco Central de Chile.
 
@@ -22552,7 +22486,7 @@ Las instituciones financieras solucionarán el saldo acreedor de de la cuenta"Co
 
 debe hacerse, en lo pasible, en forma simultánea con el pago o sustitución de títulos en moneda extranjera.
 
-Si al término de mes subsiste un saldo en la cuenta "Cambio títulos deuda externa-Acuerdo 1.725", éste será ajustado sobre la base del tipo de cambio que esta Superintendencia haya fijado para la liquidación de las cuentas "Cambio" o bien será traspasado a la correspondiente cuenta de resultados, en el caso que no se registrare saldo en la cuenta "Conversión títulos deuda externa-Acuerdo 1.725.
+Si al término de mes subsiste un saldo en la cuenta "Cambio títulos deuda externa-Acuerdo 1.725", éste será ajustado sobre la base del tipo de cambio de representación contable o bien será traspasado a la correspondiente cuenta de resultados, en el caso que no se registrare saldo en la cuenta "Conversión títulos deuda externa-Acuerdo 1.725.
 
 ### 16. Márgenes individuales de crédito
 
@@ -22978,7 +22912,7 @@ Los documentos emitidos en canje o sustitución de títulos de deuda externa que
 
 Las instituciones financieras solucionarán el saldo acreedor que demuestre la cuenta "Conversión títulos deuda externa-Acuerdo 1725" mediante la liquidación de divisas recompradas o la conversión o sustitución de otros activos en moneda extranjera o expresados en dicha moneda y pagaderos en moneda chilena, por activos en pesos, moneda nacional, en concordancia con lo dispuesto en el número 12 de este capítulo. Esta reducción de activos en moneda extranjera deberá hacerse en lo posible, en forma simultánea con el pago o sustitución de títulos en moneda extranjera.
 
-Si al término de mes subsistiera un saldo en la cuenta "Cambio títulos deuda externa-Acuerdo 1725", será ajustado sobre la base del tipo de cambio que esta Superintendencia haya fijado para la liquidación de las cuentas "Cambio" o bien traspasado a la correspondiente cuenta de resultado si la cuenta "Conversión títulos deuda externa-Acuerdo 1725", no registrare saldo.
+Si al término de mes subsistiera un saldo en la cuenta "Cambio títulos deuda externa-Acuerdo 1725", será ajustado sobre la base del tipo de cambio de representación contable o bien traspasado a la correspondiente cuenta de resultado si la cuenta "Conversión títulos deuda externa-Acuerdo 1725", no registrare saldo.
 
 ### 16. Márgenes legales
 
@@ -23406,19 +23340,19 @@ cobertura de tasas de interés" o con cargo a "Pérdidas contratos a futuro de c
 
 El ajuste se realizará sobre la base de las variaciones de precio que, con respecto al precio pactado a futuro, hayan experimentado al último día del respectivo mes, los contratos que se mantengan vendidos, debiendo considerar, en todo caso, los ajustes parciales que pudieran haberse efectuado durante su vigencia, ya sea mediante la liquidación de diferencias a su favor o la remesa de las diferencias que sean de su cargo.
 
-El importe resultante se convertirá a moneda chilena al tipo de cambio que haya dado a conocer esta Superintendencia para fines de representación contable, vigente en la fecha del ajuste.
+El importe resultante se convertirá a moneda chilena al tipo de cambio de representación contable, vigente en la fecha del ajuste.
 
-Por otra parte, las instituciones financieras ajustarán el saldo de la cuenta "Cambio garantía por contratos a futuro de tasas de interés", el último día de cada mes, de tal manera que refleje el equivalente en pesos moneda nacional del saldo de la cuenta "Conversión garantía por contratos a futuro de tasas de interés", al tipo de cambio fijado por esta Superintendencia para el ajuste delas cuentas "Cambio'. Dicho ajuste se realizará con abono a la cuenta "Utilidades por variación de tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715 del formulario MR1, o bien, con cargo a "Pérdida por variación de tipo de cambio de recursos en moneda extranjera liquidados", dela partida 5715 de ese formulario. Al mes siguiente, antes de registrar el nuevo ajuste, revertirán el asiento efectuado en el mes precedente.
+Por otra parte, las instituciones financieras ajustarán el saldo de la cuenta "Cambio garantía por contratos a futuro de tasas de interés", el último día de cada mes, de tal manera que refleje el equivalente en pesos moneda nacional del saldo de la cuenta "Conversión garantía por contratos a futuro de tasas de interés", al tipo de cambio de representación contable. Dicho ajuste se realizará con abono a la cuenta "Utilidades por variación de tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715 del formulario MR1, o bien, con cargo a "Pérdida por variación de tipo de cambio de recursos en moneda extranjera liquidados", dela partida 5715 de ese formulario. Al mes siguiente, antes de registrar el nuevo ajuste, revertirán el asiento efectuado en el mes precedente.
 
 9.7.2. Opciones.
 
 El último día de cada mes, las instituciones financieras procederán a calcular y registrar provisionalmente la variación de precio a su favor que hayan experimentado las opciones compradas.
 
-Al mes siguiente, antes de registrar el nuevo ajuste o al efectuar la liquidación de las respectivas opciones procederán a revertir el que hayan contabilizado en el mes precedente. Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo a la cuenta "Variación provisional de opciones sobre contratos de cobertura de tasas
+Al mes siguiente, antes de registrar el nuevo ajuste o al efectuar la liquidación de las respectivas opciones procederán a revertir el que hayan contabilizado en el mes precedente.
 
-de interés", de la partida 2120 del formulario MB1 y con abono a la cuenta "Utilidades de opciones sobre contratos de cobertura de tasas de interés".
+Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo a la cuenta "Variación provisional de opciones sobre contratos de cobertura de tasas de interés", de la partida 2120 del formulario MB1 y con abono a la cuenta "Utilidades de opciones sobre contratos de cobertura de tasas de interés".
 
-El ajuste corresponderá exclusivamente al valor de la prima de la respectiva opción, antes de que ésta expire o se ejerza. El importe de dicho valor se convertirá a moneda chilena, en forma extracontable, al tipo de cambio que haya dado a conocer esta Superintendencia para fines de representación contable, vigente a la fecha del ajuste.
+El ajuste corresponderá exclusivamente al valor de la prima de la respectiva opción, antes de que ésta expire o se ejerza. El importe de dicho valor se convertirá a moneda chilena, en forma extracontable, al tipo de cambio de representación contable, vigente a la fecha del ajuste.
 
 ### 10. Límites que afectan estas operaciones
 
@@ -23732,9 +23666,9 @@ Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pe
 
 El ajuste se realizará sobre la base de las paridades que tengan entre sí las monedas involucradas, según las equivalencias que publica diariamente el Banco Central de Chile y que correspondan, en este caso, a la publicada en la fecha en que se realice el ajuste.
 
-Para los efectos de calcular dicha variación en términos de pesos moneda chilena, se considerará el efecto de la variación de paridad, sobre la moneda extranjera de contrapartida, esto es, la que debe recibirse en pago de la moneda que se vende o la que debe entregarse en pago de la moneda que se compra. El tipo de cambio que se aplicará para la conversión a moneda nacional, será el que haya dado a conocer esta Superintendencia para fines de representación contable, vigente a la fecha del ajuste.
+Para los efectos de calcular dicha variación en términos de pesos moneda chilena, se considerará el efecto de la variación de paridad, sobre la moneda extranjera de contrapartida, esto es, la que debe recibirse en pago de la moneda que se vende o la que debe entregarse en pago de la moneda que se compra. El tipo de cambio que se aplicará para la conversión a moneda nacional, será el de representación contable, vigente a la fecha del ajuste.
 
-Por otra parte, los bancos ajustarán el saldo de la cuenta "Cambio-Divisas para Garantía contratos a futuro", el último día de cada mes, de tal manera que éste refleje el equivalente en pesos del saldo de la cuenta "Conversión-Divisas para Garantía contratos a futuro", al tipo de cambio fijado por esta Superintendencia para tal efecto. Dicho ajuste se realizará con abono a la cuenta "Utilidades por variación de tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715 del MR1, o bien, con cargo a "Pérdidas por variación de tipo de cambio de recursos en moneda extranjera liquidados" de la partida 5715.
+Por otra parte, los bancos ajustarán el saldo de la cuenta "Cambio-Divisas para Garantía contratos a futuro", el último día de cada mes, de tal manera que éste refleje el equivalente en pesos del saldo de la cuenta "Conversión-Divisas para Garantía contratos a futuro", al tipo de cambio de representación contable. Dicho ajuste se realizará con abono a la cuenta "Utilidades por variación de tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715 del MR1, o bien, con cargo a "Pérdidas por variación de tipo de cambio de recursos en moneda extranjera liquidados" de la partida 5715.
 
 5.7.2.- Opciones.
 
@@ -25332,23 +25266,45 @@ El movimiento que se registre en las referidas cuentas corrientes, deberá corre
 
 CAPITULO 13-30 (Bancos y Financieras)
 
-MATERIA: TIPO DE CAMBIO DE REPRESENTACION CONTABLE.
+MATERIA:
 
-1. Utilización del tipo de cambio y paridades informadas por esta Superintendencia.
+TIPO DE CAMBIO DE REPRESENTACIÓN CONTABLE.
 
-Las instituciones financieras determinarán el equivalente en moneda chilena de los saldos en moneda extranjera para los efectos de la Ley General de Bancos, para los fines de la información que debe enviarse a esta Superintendencia y para el ajuste de las cuentas "cambio" de que trata el N° 2 siguiente, al tipo de cambio y paridades informados por esta Superintendencia.
+1.- Tipo de cambio y paridades de representación contable.
 
-Este Organismo dará a conocer las equivalencias que deben aplicarse para esos efectos mediante una "Carta Circular - Equivalencias" que emitirá periódicamente. El tipo de cambio y las paridades informadas tendrán vigencia desde la fecha que en cada oportunidad se indique y hasta que empiecen a regir los nuevos valores que los remplacen.
+Para los efectos de la Ley General de Bancos y para los fines de la información que debe enviarse a esta Superintendencia, que se refieran a operaciones o saldos en monedas extranjeras, así como para el ajuste de las cuentas "cambio" de que trata el N° 5 de este Capítulo, las instituciones financieras deben aplicar el tipo de cambio o paridades de representación contable que correspondan, según lo dispuesto en los numerales siguientes.
 
-### 2. Ajustes de las cuentas "cambio"
+Las instrucciones de esta Superintendencia que aludan al tipo de cambio o paridades de "representación contable", deben entenderse referidas a las equivalencias en moneda chilena o paridades de monedas extranjeras tratadas en este Capítulo.
 
-Las instituciones financieras registrarán los ajustes mensuales de las cuentas " Cambio Mercado Bancario", de acuerdo con las e quivalencias informadas por esta Superintendencia y de la forma prevista en el Capítulo 13-1 de esta Recopilación Actualizada de Normas.
+2.- Determinación del tipo de cambio y equivalencias de monedas extranjeras.
 
-El ajuste de las demás cuentas "Cambio" y de las que hagan sus veces, deberá también efectuarse mensualmente de acuerdo con el tipo de cambio y paridades informadas por este Organismo y registrarse directamente en las respectivas cuentas con cargo o abono a "Pérdidas por variación del tipo de cambio recursos en moneda extranjera liquidados" de la partida 5715 y "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715, según corresponda, o en las cuentas que esta Superintendencia haya dispuesto para el ajuste de determinados saldos.
+2.1.- Monedas publicadas en el Diario Oficial.
 
-No obstante, al tratarse del ajuste de la cuenta "Cambio Mercado de Divisas de Libre Disposición", según lo dispuesto en el Capítulo 13-1, se utilizará el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera el día en que se efectúe el ajuste, sin perjuicio de que, para la representación de los saldos en moneda extranjera en los estados financieros y en la información que debe enviarse a esta Superintendencia, deben utilizarse las equivalencias que informe este Organismo.
+Las equivalencias o paridades para representación contable corresponderán a los tipos de cambio en moneda chilena y paridades de las distintas monedas extranjeras que publique el Banco Central de Chile en el Diario Oficial el último día hábil bancario de cada mes para los efectos del del Capítulo I del Título I de su Compendio de Normas de Cambios Internacionales.
 
-Debe tenerse presente, además, que para calcular y registrar los reajustes de operaciones en moneda chilena reajustables por la variación del dólar estadounidense, las instituciones financieras deben considerar el tipo de cambio que se haya pactado, ateniéndose a las instrucciones del Capítulo 7-1 de esta Recopilación.
+2.2.- el Diario Oficial.
+
+En el caso de las monedas no incluidas en la publicación efectuada por el Banco Central de Chile en el Diario Oficial el último día hábil bancario de cada mes, la cotización para efectos de representación contable corresponderá al valor que resulte de dividir el tipo de cambio observado para el dólar de Estados Unidos de América que anuncie el Instituto Emisor en dicha publicación, por la paridad respectiva "moneda extranjera/dólar" que entregue el Banco Central de Chile en su Informativo Diario de la misma fecha. El equivalente que resulte en pesos, se expresará con dos decimales, para lo cual el segundo de éstos se ajustará, en los casos que corresponda, sobre la base del valor del tercero.
+
+3. El precio del Peso oro chileno para efectos de representación contable y del ajuste de las inversiones en oro que mantengan las instituciones financieras, se determinará de acuerdo con la cotización que informe el Banco Central de Chile para la onza troy de ese metal el último día hábil bancario de cada mes.
+
+Por consiguiente, el precio de un peso oro se obtendrá de multiplicar el factor 0,0058854 por el precio en dólares de la onza troy, convirtiendo en pesos moneda chilena el resultado obtenido, según el tipo de cambio observado ya referido.
+
+4.- Información de esta Superintendencia.
+
+No obstante que las instituciones financieras deben aplicar las cotizaciones para efectos de representación contable obtenidas según lo señalado, a partir del último día de cada mes, esta Superintendencia igualmente las dara a conocer en el curso de los cuatro primeros días hábiles bancarios del mes siguiente, con el objeto de que las entidades fiscalizadas cuenten con una información oficial al respecto y puedan, a la vez, verificar las cotizaciones que ellas mismas debieron aplicar de acuerdo a lo instruido en los numerales precedentes.
+
+5.- Ajustes de las cuentas "cambio".
+
+Las instituciones financieras registrarán los ajustes mensuales de las cuentas "Cambio Mercado Bancario", de acuerdo con las equivalencias señaladas en este Capítulo, con cargo o abono a "Pérdidas por variación del tipo de cambio recursos en moneda extranjera liquidados" de la partida 5 7 15 y "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715, según corresponda.
+
+Salvo disposición expresa en contrario, el ajuste de las demás cuentas "Cambio" y de las que hagan sus veces, deberá también efectuarse mensualmente de acuerdo con el tipo de cambio y paridades antes señaladas, con cargo o abono a las cuentas que esta Superintendencia haya dispuesto para el ajuste de determinados saldos.
+
+En todo caso, al tratarse del ajuste de la cuenta "Cambio Mercado de Divisas de Libre Disposición" señalada en el Capítulo 13-1 de esta Recopilación, se utilizará el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera el día en que se efectúe el ajuste, sin perjuicio de que, para la representación de los saldos en moneda extranjera en los estados financieros y en la información que debe enviarse a esta Superintendencia, deben utilizarse las equivalencias señaladas en este Capítulo.
+
+6.- Información de las cuentas "Conversión" y "Cambio".
+
+En la información que las instituciones financieras envíen a esta Superintendencia, incluirán el saldo neto de las cuentas "Conversión Mercado Bancario", las que serán compensadas entre sí, y el saldo neto de las cuentas "Cambio Mercado Bancario", correspondientes a las diferentes monedas sujetas a posición. Igual procedimiento deberá seguirse con las cuentas de conversión y cambio de monedas de libre disposición.
 
 CAPITULO 13-31 (Bancos)
 
