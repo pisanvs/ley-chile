@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.371 de fecha 31 de octubre del 2003, se expropió el lote de terreno Nº 13, superficie 282,90 m2, rol Nº 160-109, comuna de Petorca, V Región para la obra "Ruta E-37-D, sector Palquico - Las Palmas, Km. 10,04861 a Km. 26,13776, y se acordó el valor de indemnización con su propietaria María Violeta Oyanedel Oyanedel, ascendente a la cantidad de $351.158.
+
+- Fiscal del Ministerio de Obras Públicas.
