@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 388 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 35-D, superficie 40 m2, rol de avalúo Nº 511-36, comuna de Longaví, para la obra "Camino Ruta L-49, cruce Long. - Mesamávida, sector cruce Longitudinal - San Luis, tramo Km. 0,000.00 a Km. 13,841.12" VII Región y se acordó el valor de la indemnización con su propietaria Ema Rosa Silva González, ascendente a la cantidad de $436.392.-
+
+Fiscal del Ministerio de Obras Públicas.
