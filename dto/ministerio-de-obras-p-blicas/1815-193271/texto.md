@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.815, de 31 de octubre de 2001, se expropió el lote de terreno Nº76, superficie 64 m2., rol de avalúo 692-36, comuna de Estación Central, para la obra Sistema Norte-Sur. Tramo G: Nudo Alameda. Sector: Km. 1.980,00 al Km. 2.220,00, Región Metropolitana, se acordó el valor de la indemnización con su propietaria Sociedad Agrícola y de Inversiones Banaz Limitada, ascendente a la cantidad de $22.655.417.
+
+- Fiscal del Ministerio de Obras Públicas.
