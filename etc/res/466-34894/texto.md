@@ -1,0 +1,5 @@
+DESIGNA SECRETARIOS DE LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAICES QUE INDICA
+
+En virtud de la facultad que el artículo 121 del Código Tributario confiere al suscrito se ha dictado la resolución N° 466, de 27 de Septiembre de 1994, designando en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, Agrícolas, con jurisdicción en el territorio de la Corte de Apelaciones de Punta Arenas como Secretario a doña Clotilde Bernardita Céspedes Rodríguez, carácter de titular y como suplente a don Víctor Manuel Grandón Cerda; y en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, No Agrícolas, con jurisdicción en el territorio de la Corte de Apelaciones de Punta Arenas como Secretario a doña Fabiola Margarita Mosso Fritz, en el carácter de titular y como suplente a don Víctor Manuel Grandón Cerda.-
+
+Javier Etcheberry Celhay, Director.
