@@ -1,0 +1,7 @@
+ENTIDADES RELIGIOSAS DE DERECHO PÚBLICO
+
+EXTRACTO ESTATUTOS IGLESIA CRISTIANA SEPTIMA TROMPETA
+
+Registro Nº 41 Ley 19.638. Joel Vásquez Castillo, Osvaldo Cortez Rojas, Alejandro Urrea Laurel, Luis Lienlaf Guzmán, Jerónimo Cortez Rojas, Pedro Cabezas Aguilera, Orlando Opazo Aravena, José Rojas Solís, Pedro Santibáñez Bahamondes, Miriam Riquelme Campos, Patricia Llafquén Nahuelpán, Ana Santibáñez Bahamondes, Hilda González Morales, Sandra Cortez Rojas, Ana Mejías Retamal, constituyeron Iglesia Derecho Público ley 19.638, denominada "Séptima Trompeta". Domicilio: Pasaje Nº 12 Nº 1881, Peñalolén, Región Metropolitana. Finalidad: Alcanzar Reino de Dios mediante alabanza pública, predicación Evangelio, evangelismo personal y colectivo, establecimiento y manutención de locales de extensión. Sus órganos serán: Asamblea y Directorio (administrativos): Atribuciones: Dirigir y administrar bienes sociales y recursos, velar por cumplimiento estatutos, citar a asambleas generales ordinarias y extraordinarias, cumplir acuerdos. Pastor autoridad máxima eclesiástica que vela por marcha y administración religiosa de la Iglesia. Lo que consta de escritura pública de fecha 28 de noviembre de 2000, otorgada ante Notario Titular de 13ª Notaría de Santiago, don Clovis Toro Campos. Doy Fe.
+
+Santiago.
