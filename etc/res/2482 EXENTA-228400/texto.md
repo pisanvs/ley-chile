@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta 2.482, 16 julio 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle 7 Oriente Nº 301, Ex Recinto Caupolicán, Rol de Avalúo Nº 2755-00014, comuna Chiguayante, superficie 11,97 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R 19.059, de aparente dominio de María Florentina Alvarez Portino, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor, Víctor Toledo Quijada, arquitecto y Alvaro Berríos San Martín, arquitecto, según informe de fecha 16 de junio de 2004, fijó monto provisional indemnización en $918.660.- pagadera de contado.
+
+Director Serviu Región del Bío Bío.
