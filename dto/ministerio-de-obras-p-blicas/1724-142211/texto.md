@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.724, de 25 de junio de 1999, se expropiaron los lotes de terreno Nºs. 1 y 2, superficies 535 y 305 m², respectivamente roles de avalúo 220-10 y 221-26, comuna de Lebu, para la obra Camino Ruta 160, sector Tres Pinos-Lebu, y se acordó precio de indemnización con sus propietarias Lidia Flores Flores y Eva Ramírez Torres, ascendente a las cantidades de $795.506 y $229.644.
+
+- Fiscal del Ministerio de Obras Públicas.
