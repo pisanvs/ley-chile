@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.146, de 30 de abril de 1999, se expropió el lote de terreno Nº 51, superficie 3.824,0 m2., rol de avalúo 3283-105, comuna de Padre Las Casas, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco; Sector II: Pillanlelbún - Gorbea'', Novena Región y se acordó el valor de indemnización con sus propietarios Ema Rosa Vivallos Quidel y Otros, ascendente a la cantidad de $22.839.326.
+
+Fiscal del Ministerio de Obras Públicas.
