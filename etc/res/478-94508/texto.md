@@ -1,0 +1,3 @@
+Por Resolución No. 478 de 12 de mayo 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, inmueble ubicado calle Ricardo Santa Cruz No. 592, presunto rol avalúos 624-54 comuna Santiago aparentemente dominio de don Fernando Echeverría Leiva. Comisión integrada por peritos Sres. Teresa Sancho Pernas, arquitecto y José Miguel Haltenlhoff Aenishalslin y Carlos del Pedregal Sánchez, constructores civiles, según informe de 1 de diciembre 1988, fijó monto provisional indemnización en $ 1.930.770.-, pagadera al contado.
+
+- Director SERVIU Metropolitano.
