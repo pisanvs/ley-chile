@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.889, de 30 de septiembre de 1999, se expropió el lote de terreno Nº43, superficie 3.379 m², rol de avalúo 292-35, comuna de Frutillar, para la obra "Concesión Internacional Ruta 5 Tramo: Río Bueno - Puerto Montt. Sector: Cuatro Vientos - Casma", Décima Región y se acordó el valor de indemnización con su propietaria Irene Iturra Loaiza, ascendente a la cantidad de $9.112.112.-
+
+Fiscal del Ministerio de Obras Públicas.
