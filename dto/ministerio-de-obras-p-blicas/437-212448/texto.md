@@ -1,0 +1,3 @@
+Por decreto MOP Nº437 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº24-B, superficie 408 m2, Rol Nº559-17, de la comuna de Linares, VII Región para la obra "Camino Ruta L-45, Sector: Linares - Llepo, Tramo: Km. 2,750.2 a Km. 13,147" y se acordó el valor de indemnización con su propietario Héctor Enrique del C. Pérez Canales, ascendente a la cantidad de $19.303.112.
+
+- Fiscal del Ministerio de Obras Públicas.
