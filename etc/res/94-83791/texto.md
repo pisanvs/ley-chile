@@ -1,0 +1,7 @@
+AUTORIZA A INVERTEC PESQUERA MAR DE CHILOE LIMITADA PARA AMPLIAR ACTIVIDADES
+
+Por resolución No. 94 de 23 de Enero de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Invertec Pesquera Mar de Chiloé Limitada. R.U.T. No. 79.797.990-2. domiciliada en Santiago, para ampliar actividades pesqueras, autorizadas por resoluciones No. 1.136, de 1988 y No. 480, de 1989, ambas de esta Subsecretaría, en orden a capturar 130 hembras y 70 machos del recurso salmón plateado, en la desembocadura del Lago Natri, utilizando solamente redes de trasmalle en los sectores señalados, con el objeto de obtener productos sexuales de la especie, destinada a reemplazar las importaciones de ovas, por la producción de ovas en el país. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria para capturar salmón plateado en la desembocadura del Río Pescado y Río Sur de conformidad con lo dispuesto en el Decreto No. 224, de 1985, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 23 de Enero de 1990.- Roberto Cabezas Bello, Subsecretario de Pesca.
