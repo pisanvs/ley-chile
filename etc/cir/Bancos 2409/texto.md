@@ -8516,63 +8516,17 @@ inherentes o accesorios a la obligación principal.
 
 ### 2. Valor y moneda para registrar las colocaciones adquiridas
 
-Las instituciones financieras deben registrar en las cuentas de colocaciones que
+Las instituciones financieras deben registrar en las cuentas de colocaciones que corresponda y en la moneda en que se encuentren expresados cada uno de los créditos adquiridos, sea que se trate de créditos vigentes o vencidos, salvo aquellos que deban ser castigados, según lo señalado en el N° 4 de este capítulo y aquellos cuyo precio de adquisición haya resultado igual o inferior al 5% de su valor par, de acuerdo con lo expresado en el N° 6 de las presentes normas.Mientras los referidos créditos no sean clasificados, como se dispone en el N° 5 de estas instrucciones, su contabilización se hará al valor de adquisición, ya sea que el precio al cual se compraron haya sido pagado efectivamente o que se haya contraído la obligación de pagarlo en un plazo
 
-corresponda y en la moneda en que se encuentren expresados cada uno de los
+determinado. Dicho valor deberá constar en la correspondiente documentación de la compra de cartera.
 
-créditos adquiridos, sea que se trate de créditos vigentes o vencidos, salvo
+La diferencia entre el valor de adquisición y el valor del documento debe registrarse también en forma provisional en las cuentas de orden dispuestas para ese efecto.
 
-aquellos que deban ser castigados, según lo señalado en el N° 4 de este capítulo
-
-y aquellos cuyo precio de adquisición haya resultado igual o inferior al 5% de
-
-su valor par, de acuerdo con lo expresado en el N° 6 de las presentes
-
-normas.Mientras los referidos créditos no sean clasificados, como se dispone en
-
-el N° 5 de estas instrucciones, su contabilización se hará al valor de
-
-adquisición, ya sea que el precio al cual se compraron haya sido pagado
-
-efectivamente o que se haya contraído la obligación de pagarlo en un plazo
-
-determinado. Dicho valor deberá constar en la correspondiente documentación de
-
-la compra de cartera.
-
-La diferencia entre el valor de adquisición y el valor del documento debe
-
-registrarse también en forma provisional en las cuentas de orden dispuestas para
-
-ese efecto.
-
-Cuando se trate de adquisiciones cuyo precio incluya varios créditos, el valor
-
-de adquisición de cada uno de ellos será proporcional al precio pagado por el
-
-total de la operación.
-
-En la medida en que los créditos adquiridos sean clasificados, y previa revisión
-
-de esta Superintendencia, se contabilizarán definitivamente por su
-
-correspondiente valor par.
+Cuando se trate de adquisiciones cuyo precio incluya varios créditos, el valor de adquisición de cada uno de ellos será proporcional al precio pagado por el total de la operación.
 
 ### 3. Diferencias entre el valor par y el precio de adquisición
 
-Las diferencias entre el precio a que se adquieren esos créditos y el valor par
-
-al que deben ser registrados según lo señalado en el número anterior, serán
-
-reconocidas en cuentas de resultado, en la medida en que este Organismo apruebe
-
-la clasificación asignada a cada crédito. Durante el tiempo que medie entre la
-
-fecha de adquisición y la de clasificación acordada, dichas diferencias de
-
-precio deben registrarse en las cuentas de orden que se indican en el numera
-
-l7.1 de estas instrucciones.
+Las diferencias entre el precio a que se adquieren los créditos y el valor par de los respectivos documentos, deben registrarse transitoriamente en cuentas de orden. Una vez que dichos créditos se encuentren clasificados de acuerdo con lo señalado en el N° 5 de este Capítulo, los créditos registrados en el activo se ajustarán a su valor par, reconociendo como ingresos el mayor valor.
 
 ### 4. Tratamiento de los créditos vencidos
 
@@ -8596,11 +8550,9 @@ castigo deberá efectuarlo la entidad compradora, en el momento de la adquisici�
 
 Los créditos que se adquieran a una institución en liquidación tanto vigentes como vencidos cuyo precio de adquisición hubiera sido superior al 5% de su valor par, deben clasificarse de conformidad con las normas establecidas en el Capítulo 8-28 de esa Recopilación Actualizada de Normas.
 
-Tan pronto como esta Superintendencia haya aprobado las calificaciones respectivas, estos créditos se contabilizarán por su correspondiente valor par ala fecha de adquisición, considerándose desde ese instante para la determinación del riesgo de la cartera de colocaciones. Al mismo tiempo, las diferencias deprecio de estos créditos que se mantengan en cuentas de orden, se
+Una vez efectuada la clasificación, los créditos que quedaron registrados en el activo se ajustarán a su valor par, reconociendo en resultados el ingreso por las diferencias de precio. Dicha clasificación afectará de inmediato la constitución de las provisiones, considerando ese valor par. Al tratarse de créditos hipotecarios para la vivienda o créditos de consumo pagaderos en cuotas que, conforme a las normas del citado Capítulo 8-28, deben clasificarse de acuerdo con su morosidad, ese procedimiento se efectuará dentro del mismo mes en que se reciban de la entidad vendedora. Los demás créditos podrán ajustarse a su valor par a medida que se vayan clasificando, o bien, una vez concluido el análisis de todos los créditos comerciales adquiridos.
 
-llevarán a cuentas de resultado. Conjuntamente con ese traspaso deberán también constituirse las provisiones adicionales que se generen por el mayor riesgo resultante de la clasificación de los créditos adquiridos.
-
-Los préstamos en letras de crédito y los préstamos de consumo pagaderos en cuotas se clasificarán de acuerdo a su morosidad, al momento en que la institución adquirente los reciba de la entidad vendedora y contrariamente a lo dispuesto para los créditos comerciales, no quedarán sujetos a la revisión previa de este Organismo para los efectos de contabilizarlos a su valor par.
+No obstante lo anterior, al tratarse de créditos comerciales las instituciones financieras que no estén clasificadas por dos o más veces consecutivas en categoría I según la calidad de sus procesos de clasificación, podrán registrar el valor par de esos créditos y los correspondientes ingresos sólo una vez que esta Superintendencia haya revisado y dado su conformidad a la clasificación de la cartera adquirida.
 
 ### 6. Créditos exceptuados de clasificación
 
@@ -8648,9 +8600,7 @@ Esta cuenta se representa en las partidas 3420 ó 3475, del formulario MB1, seg�
 
 7.2. Abono a resultados de las diferencias de precio obtenidas.
 
-En concordancia con lo expresado anteriormente, los importes contabilizados en la cuenta de orden "Diferencias de precio por créditos adquiridos a instituciones en liquidación" serán registrados en la correspondiente cuenta de resultado, en la medida en que la respectiva clasificación de esos créditos sea revisada por esta Superintendencia.
-
-El abono a resultados de la mencionada diferencia se hará a la cuenta "Beneficio por activación de créditos adquiridos a instituciones en liquidación", de la partida 7605, con cargo a la cuenta de colocaciones que corresponda, por el ajuste al valor par que debe hacerse de la respectiva colocación una vez revisada su clasificación. Simultáneamente deben revertirse las diferencias registradas en la cuenta de orden a que se refiere el numeral 7.1 precedente.
+El ajuste al valor par de los créditos se registrará, conforme a lo señalado en los N°s 3 y 5 de estas normas, cargando la cuenta de colocaciones que corresponda, con abono a la cuenta "Beneficios por activación de créditos adquiridos a instituciones en liquidación", de la partida 7605. Simultáneamente deben revertirse las diferencias registradas en la cuenta de orden a que se refiere el numeral 7.1 precedente.
 
 7.3. Préstamos para vivienda en letras de crédito y préstamos pagaderos en cuotas.
 
@@ -11340,7 +11290,7 @@ respectivo, incluidos los intereses por cobrar, dicha provisión deberá ajustar
 
 Las provisiones individuales para créditos vencidos se refieren al resguardo que debe tener cada institución financiera respecto del riesgo de irrecuperabilidad de cada uno de tales créditos.
 
-La provisión individual se constituirá al momento de traspasarse el crédito o porción de éste a cartera vencida o a la cuenta "Intereses por cobrar vencidos", conforme a lo dispuesto en el N° 1 del Capítulo 8-26 de esta Recopilación, y será equivalente al 100% del monto registrado en la cartera vencida o en la cuenta "Intereses por cobrar vencidos", que no cuente con garantías o esté amparado sólo en garantías personales (avales o fianzas).
+La provisión individual se constituirá por el 100% del importe del crédito o porción de éste que, de acuerdo con las instrucciones de esta Superintendencia, se encuentre registrado en cartera vencida y que no cuente con garantías o esté amparado sólo en garantías personales (avales o fianzas).
 
 Cuando se trate de créditos en moneda extranjera, las respectivas provisiones individuales se constituirán por su equivalente en pesos moneda chilena, determinado sobre la base de la cotización vigente de la moneda en que se encuentre expresado el crédito, fijada por esta Superintendencia para fines de representación contable.
 
@@ -11353,8 +11303,6 @@ de esta Recopilación.
 Por otra parte, como el valor de las garantías reales que amparen créditos vencidos puede sufrir variaciones que afectan a su vez el monto de las respectivas provisiones individuales, al cierre de cada ejercicio anual éstas deberán ajustarse, como asimismo, en la ocasión en que se proceda al castigo de esos créditos, de modo que correspondan a la diferencia que en esa oportunidad
 
 exista entre los valores de la garantía y del crédito caucionado. Sin embargo, en el caso de los créditos en moneda extranjera, el ajuste señalado deberá hacerse al término de cada mes, considerando el tipo de cambio de representación contable, fijado por esta Superintendencia, que se encuentre vigente a esa fecha.
-
-Tratándose de cartera adquirida a instituciones financieras en liquidación, las provisiones individuales podrán constituirse a partir del momento en que esta Superintendencia apruebe las clasificaciones de los créditos adquiridos, según lo dispuesto en el Capítulo 8-7 de esta Recopilación.
 
 1.3. Cómputo de provisiones individuales y global.
 
