@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.176, de 1 de diciembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 200103066 presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES Y RAMOS SIMILARES DEL SECTOR PALQUI, para instalar y operar un centro de cultivo ubicado en Canal Quinchao, sector norte de Punta Veleo, Isla Quinchao, X Región.
+
+Valparaíso, 1 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
