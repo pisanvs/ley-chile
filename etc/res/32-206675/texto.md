@@ -1,0 +1,3 @@
+Por resolución Nº 32, de 8 de enero de 2003, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 34 de 1997, sólo en cuanto autorizó a Sociedad Pesquera Bío Bío S.A., hoy PESQUERA BIO BIO S.A., para operar la nave "Bonn", en la VIII y IX Regiones, con arrastre, sobre el recurso Raya, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 8 de enero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
