@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.447, de 29 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 88, 89, 99 y 108, para la obra Camino Cauquenes Límite Regional Quirihue, sector Cauquenes Kms. 0.000 al 17.780, que figuran a nombre de Carlos A. Candia Cantero, José del T. Reyes Muñoz y Manuel Vega Manríquez, roles de avalúo 530-6, 530-7 y 531-249, Comuna de Cauquenes, VII Región, superficies 211, 1.035, 6.387 y 98 M2., respectivamente. La Comisión de Peritos, fijó con fecha 7 de abril de 1997, en las cantidades de $57.660, para el lote 88; $92.100, para el lote 89;
+
+$971.220, para el lote 99 y $135.880, para el lote 108. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
