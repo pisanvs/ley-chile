@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Romeral contratar empréstito hasta por $ 600,000, a fin de que ponga esta cantidad a disposición del Fisco, como anticipo reembolsable, para que éste se haga cargo del servicio público eléctrico de esa localidad.
