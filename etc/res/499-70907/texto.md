@@ -1,0 +1,5 @@
+Por Resolución Nº 499, de 10 de abril de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a BERNARDA PILAR DEL ROSARIO ORTIZ ALFARO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Caleta Los Verdes, Iquique, I Región, donde podrá procesar en la línea de elaboración de Precocido los siguientes recursos hidrobiológicos: Caracol locate, Cholga, Lapa, Loco, Ostión del norte, Ostra del Pacífico, Pulpo, Jaiba peluda o pachona, Erizo.
+
+Cadúcase la Resolución Nº 2.139, de 1996, de esta Subsecretaría, conforme lo dispuesto en el artículo 6º, del D.S. Nº 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 10 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
