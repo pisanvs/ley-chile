@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.873 de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº14, superficie 3.599 m2, rol de avalúo Nº49-34, comuna de Lonquimay, para la obra "Camino Malalcahuello-Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Puente La Puntilla-Lonquimay, Km. 106,69041 al Km. 119,30000", IX Región y se acordó el valor de la indemnización con su propietario Arcadio Aquiles Yáñez, ascendente a la cantidad de $870.636.-
+
+Fiscal del Ministerio de Obras Públicas.
