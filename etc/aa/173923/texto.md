@@ -1,0 +1,3 @@
+Rectifícase el texto del Auto Acordado del Primer Tribunal Electoral de la Región Metropolitana sobre ''Tramitación y Fallo de las Reclamaciones que se interpongan en Contra de la Resolución del Director Regional del Servicio Electoral que Acepta o Rechaza las Candidaturas a los Cargos de Concejal'', publicado en las páginas 4 y 5 del Diario Oficial de fecha 24 de julio pasado, en el sentido que por un error tipográfico no apareció en la publicación antedicha el Nº6 de Auto Acordado citado que dispone: ''6.- El Tribunal podrá decretar las medidas para mejor resolver que estime necesarias''.
+
+Santiago, 1º de agosto de 2000.- Secretaria Relatora.
