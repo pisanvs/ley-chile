@@ -1,0 +1,3 @@
+Por resolución Nº 108, de 14 de agosto de 1998, Serviu II Región dispuso conforme D.L. 2.186 de 1978, y para ejecución proyecto Mejoramiento Eje San Martín e Iquique - Antofagasta, expropiación parcial del inmueble ubicado en calle Iquique Nº 4193, rol avalúo Nº 1264-25, comuna de Antofagasta, superficie 24,56 m2, de aparente dominio de don Leonardo Mamani Apaza, según inscripción fs. 374, Nº 477, año 1985, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión Tasadora integrada por peritos Sr. Alejandro Bargsted B., Sra. Eleonora Román L., arquitectos, y Sr. Héctor Villegas G., constructor civil, según informe de 22 de julio de 1998, fijó monto provisional indemnización en $2.772.669.-, pagadera al contado.
+
+Director Serviu II Región.
