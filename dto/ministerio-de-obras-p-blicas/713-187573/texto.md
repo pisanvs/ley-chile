@@ -1,0 +1,3 @@
+Por decreto MOP Nº713 de fecha 31 de mayo del 2001, se expropió el lote de terreno Nº4, superficie 479 m², rol de avalúo 8-4, comuna de Angol, para la obra "Camino Ruta R-226, Sector Angol Vegas Blancas, Tramo Km. 0,07350 al Km. 0,26050" y se acordó el valor de indemnización con su propietaria María Cristina Bascur Almuna, ascendente a la cantidad de $2.658.700.-
+
+Fiscal del Ministerio de Obras Públicas.
