@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 321 de 23 de Marzo de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden al Proyecto de Parcelación El Esfuerzo de la Comuna de Quintero, V Región, que corresponden a 17 parcelas N°s. 1 a la 17, sitios N°s. 1 al 21, formado por los predios "Fundo Santa María de Quintero" y "Quintero Abajo". Los Derechos de Agua se extraen del Canal Mauco del Río Aconcagua, 3ra. Sección y Del Estero de Quintero.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
