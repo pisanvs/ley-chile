@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº2.041 de 31 de diciembre de 2001, se expropió el lote de terreno Nº138-B, superficie 86 M2., rol de avalúo 136-255, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca Sector B: Kms.42.950,00 al 55.200,00, Región Metropolitana y se acordó el valor de indemnización con su propietario Juan Bautista Pizarro Valdés, ascedente a la cantidad de $980.673.-
+
+Fiscal del Ministerio de Obras Públicas
