@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.178 de fecha 31 de julio de 2001, se expropió el lote de terreno Nº 42, superficie 1.106 M2, rol de avalúo 141-128, comuna de Codegua, VI Región, para la obra ''Camino Ruta Rol H-10, Sector Graneros-San Francisco de Mostazal, Tramo Km. 0,000 al 9,317'' y se acordó el valor de indemnización con su propietario don Eduardo Rafael Manzo Escobedo, ascendente a la cantidad de $6.138.336.-
+
+Fiscal del Ministerio de Obras Públicas.
