@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.595 de fecha 31 de octubre del 2002, se expropió el lote de terreno Nº 4, superficie 464 m2, Rol Nº 125-31, comuna de Doñihue, VI Región para la obra ''Camino Punta de Cortes - Plaza Lo Miranda, Rol H-270, Km. 0,000 al Km. 4,000'' y se acordó el valor de indemnización con su propietario Eusebio Enrique Barrera Ortiz, ascendente a la cantidad de $1.405.070.-
+
+Fiscal del Ministerio de Obras Públicas.
