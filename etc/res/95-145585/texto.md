@@ -1,0 +1,7 @@
+REGLAMENTO DE CAUCIONES SOLIDARIAS CORFO
+
+En cumplimiento de lo dispuesto en el decreto del Ministerio de Economía Nº 291, de 11 de junio de 1999, publicado en el Diario Oficial de fecha 13 de agosto de 1999, certifico que por resolución Nº 95, de 14 de septiembre de 1999, del Sr. Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción, se puso en vigencia el Acuerdo Nº 2.016, adoptado por el Consejo de la Corporación en la Sesión Nº 305, efectuada el 12 de marzo de 1999. En virtud de la referida resolución, de la cual tomó razón la Contraloría General de la República con fecha 24 de septiembre de 1999, se aprobó la modificación del ''Reglamento de Cauciones Solidarias para Financiamiento de Inversiones en Zonas o Sectores Productivos en Proceso de Reconversión, Proyectos de Innovación Tecnológica y de Pequeñas y Medianas Empresas Exportadoras'', en adelante ''Reglamento de Cauciones Solidarias Corfo''.
+
+El texto completo de la antes referida resolución estará a disposición de los usuarios en la Secretaría General de la Corporación y en las Direcciones Regionales,
+
+Santiago, 13 de octubre de 1999.- Corporación de Fomento de la Producción, Yerko Koscina Peralta, Secretario General.
