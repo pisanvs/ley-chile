@@ -20656,39 +20656,27 @@ MATERIA:
 
 INCENTIVOS DISTINTOS DE INTERESES, REAJUSTES O COMISIONES.
 
-A las instituciones financieras no les está permitido ofrecer incentivos en dinero o avaluables en dinero, distintos de intereses, reajustes o comisiones, para atraer a la clientela y al público a qué efectúe depósitos, contrate créditos u otros servicios con ellas.
+1.- Otorgamiento de incentivos.
 
-Se exceptúan de esa prohibición los beneficios otorgados a los titulares de tarjetas emitidas por las instituciones financieras, en los casos y bajo las condiciones que a continuación se indican, como asimismo aquellos que se ofrezcan u otorguen para fomentar el uso de servicios automáticos de pagos y de transferencias electrónicas de fondos de que trata el Capítulo 1-7 de esta Recopilación Actualizada de Normas, como igualmente los que se otorguen para incentivar la utilización de los servicios de cajas que ofrecen algunas sociedades de apoyo al giro, para el pago de servicios y recaudaciones.
+Los bancos pueden ofrecer incentivos a las personas naturales, beneficiarias de créditos, de tarjetas de crédito, tarjetas de débito o para cajeros automáticos, o que contraten otros servicios, tales como pagos automáticos o el uso de medios electrónicos de pagos o transferencias. Asimismo pueden ofrecerse para atraer el interés del público hacia los servicios de cajas que ofrecen algunas sociedades de apoyo al giro, para el pago de servicios y recaudaciones.
 
-1.- Beneficios otorgados a las personas en su calidad de tenedores de tarjetas.
+De ninguna manera podrán brindar incentivo alguno por la captación o mantención de depósitos, cuentas corrientes, cuentas de ahorro o cualquiera otra operación que genere un pasivo para el banco.
 
-Se podrán otorgar beneficios a las personas por el hecho de tener una tarjeta bancaria, sea ésta de crédito, de débito o sólo para cajeros automáticos, cuando consistan en descuentos o prestaciones gratuitas ofrecidos por terceros y que, por consiguiente, no correspondan a operaciones de la institución financiera o sus filiales, ni sean entregados directamente por ellos.
+2.- Tipo de incentivos.
 
-La entrega de estos beneficios puede circunscribirse a un sector específico de los usuarios de una tarjeta, siempre que la distinción no se haga en función de la realización de operaciones con la institución financiera o sus filiales y comprenda a todas las personas que se encuentren en una misma situación.
+Los beneficios pueden consistir en descuentos o prestaciones gratuitas ofrecidos por terceros o la entrega de bienes corporales, bajo alguna de las modalidades y condiciones indicadas en el N° 3 de este Capítulo.
 
-2.- Beneficios otorgados por la utilización de tarjetas de crédito o de débito.
+En ningún caso tales incentivos podrán corresponder a la entrega de dinero, como tampoco a beneficios en relación con los intereses, reajustes o comisiones.
 
-Podrán otorgarse beneficios a los titulares de tarjetas de crédito o de débito, a través de un sistema basado en la asignación y acumulación de un puntaje según el uso que se haga de ellas, siempre que los beneficios estén disponibles para todos los poseedores de un mismo tipo de tarjeta.
+3.- Condiciones para el ofrecimiento y entrega de los beneficios.
 
-Este tipo de beneficios puede corresponder a bienes o prestaciones de servicios y descuentos en adquisiciones en el comercio o en operaciones activas o pasivas con la institución financiera, con la limitación de que ésta no puede entregar directamente los bienes corporales en que consistan los beneficios.
+a) Los beneficios podrán circunscribirse a un sector específico de los usuarios del respectivo servicio o beneficiarios de las operaciones correspondientes, que se encuentren en una misma situación y cumplan las condiciones impuestas para ser acreedores del beneficio. Esas condiciones podrán ser, a manera de ejemplo, la acumulación de determinados puntajes por operaciones realizadas, que dan derecho a un premio o la participación en determinados sorteos.
 
-Al tratarse de tarjetas de crédito o de aquellas operaciones a que se refiere el N° 3 siguiente, los beneficios indicados en este número también pueden otorgarse mediante sorteos.
+b) No podrá condicionarse la entrega de un beneficio acordado por el uso de un servicio o la contratación de una operación determinada, al posterior cumplimiento de cualquiera condición adicional, como la realización de una operación distinta o la contratación o adquisición de un nuevo servicio, diferente de aquél para el cual se ofrece el incentivo.
 
-3. - Beneficios por la utilización de servicios de pagos y transferencias automáticos y de cajas especiales de recaudación y pagos.
+c) La entidad bancaria no podrá participar en la entrega de bienes o servicios ajenos a su giro. Esto se refiere tanto a la administración de su entrega como a la responsabilidad que se asume en el proceso.
 
-Las instituciones financieras podrán ofrecer los mismos beneficios, según lo establecido en los N°s 1 y 2 precedentes a los clientes que utilicen sus servicios automáticos para pagos y transferencias de fondos, como también podrán hacerlo las sociedades de apoyo al giro cuyo rubro contemple la recepción de pagos y recaudaciones, para aquellas personas que concurran a efectuar pagos de cuentas a las cajas de sus locales Los beneficios antes mencionados, también podrán otorgarse, en el caso de que trata este número 3, mediante sorteos o concursos por acumulación de puntaje por los servicios utilizados. En todo caso, los premios quedan sujetos a las limitaciones y condiciones establecidas en este Capítulo.
-
-4.- Condiciones generales.
-
-La posibilidad de otorgar los beneficios de que tratan los números precedentes, queda sujeta al cumplimiento de las siguientes condiciones generales:
-
-a) Los beneficios no podrán consistir en la entrega de dinero en cualquier forma.
-
-b) Los beneficios podrán asignarse mediante sorteo solamente en el caso de tarjetas de crédito y de las operaciones mencionadas en el N° 3 anterior.
-
-c) La institución financiera no podrá participar en la entrega de bienes o servicios ajenos a su giro. Esto se refiere tanto a la administración de su entrega como a la responsabilidad que se asume en el proceso.
-
-d) En las promociones de las tarjetas y en cualquier información acerca del sistema, dirigida a sus clientes o al público en general, las instituciones financieras deberán señalar en forma explícita que la entrega de los bienes y la prestación de servicios no bancarios ofrecidos, como asimismo los descuentos en el comercio, son de exclusiva responsabilidad de la empresa que realiza tal actividad, no cabiéndole a la entidad financiera intervención alguna en su entrega o en la ulterior atención que ellos demanden.
+d) En las promociones que realicen las empresas bancarias y en cualquier información relativa a los incentivos ofrecidos que dirijan a sus clientes como al público en general, deberá señalarse en forma explícita que la entrega de los bienes y la prestación de servicios no bancarios ofrecidos, como asimismo los descuentos en el comercio, son de exclusiva responsabilidad de la empresa que realiza tal actividad, no cabiéndole a la entidad financiera intervención alguna en su entrega o en la ulterior atención que ellos demanden.
 
 e) La institución financiera no podrá exhibir en ninguno de sus locales ni en los de sus filiales, los premios que, ya sea por acumulación de puntaje, sorteos o cualquiera otra modalidad, ofrezca a sus clientes por los servicios que contraten, susceptibles de esos beneficios, de acuerdo con estas normas.
 
