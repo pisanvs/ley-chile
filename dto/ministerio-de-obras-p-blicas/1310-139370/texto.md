@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.310, de 31 de mayo de 1999, se expropió el lote de terreno Nº 392, superficie 3.269,9 m2., rol de avalúo 254-62, comuna de Los Lagos, para la obra ''Concesión Internacional Ruta 5; Tramo Temuco-Río Bueno'', Décima Región y se acordó el valor de indemnización con su propietario José René Muñoz Jara, ascendente a la cantidad de $1.202.684.
+
+Fiscal del Ministerio de Obras Públicas.
