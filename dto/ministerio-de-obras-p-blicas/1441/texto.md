@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.441, de 31 de agosto de 1998, se expropió el lote de terreno No. 29, superficie 7.204 m²., rol de avalúo 20-67, comuna de Calle Larga, para la obra Camino Santiago-Colina-Los Andes, Sector G, By Pass Los Andes, y se acordó el valor de indemnización con su propietario Quezada Aracena Ernesto Antonio, ascendente a la cantidad $ 9.163.272.-
+
+Fiscal del Ministerio de Obras Públicas.
