@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PESQUERA COLOSO S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 347 de 17 de Junio de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Pesquera Coloso S.A., domiciliada en Santiago, para extender la zona de operación de las embarcaciones denominadas "Rengo", "Lientur" y "Vitacura", fijada por resolución Nº 264, de 1985, de la misma Subsecretaría, al litoral de la III, IV y V Región, en la extracción de sardina común, agujilla, atún aleta amarilla, atún aleta larga, bonito, cachurreta, cojinova del Norte y cabinza, recursos que serán destinados a las plantas de conserva, congelado y deshidratado que tiene autorizadas por decreto Nº 629, de 1976, del Ministerio de Agricultura.
+
+Santiago, 17 de Junio de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
