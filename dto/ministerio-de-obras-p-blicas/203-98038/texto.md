@@ -1,0 +1,3 @@
+Por decreto M.O. P. Nº 203, de 27 de febrero de 1998, se expropió el lote de terreno Nº 117, superficie 163 M2., rol de avalúo 675-13, comuna de Rancagua, obra Proyecto Mejoramiento Ruta 5 Sur, sector Pasada por Rancagua, Camino Ruta 5 Sury se acordó precio de indemnización con su propietaria Juana del Carmen Correa Vidal y otra, ascendente a la cantidad de $3.850.198.-
+
+Fiscal del Ministerio de Obras Públicas.
