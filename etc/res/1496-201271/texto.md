@@ -1,0 +1,3 @@
+Por resolución Nº 1.496, de 24 de julio de 2002, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA COLOMBO LIMITADA, RUT Nº 79.790.970-K, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Panamericana Norte Km. 668, Vallenar, III Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Alga Seca: Chascón Lessonia nigrescens, Chascón Lessonia flavicans, Chascón Lessonia trabeculata, Chascón Lessonia fuscences, Huiro Macrocystis integrifolia, Huiro Macrocystis pyrifera, Cochayuyo Durvillaea antartica.
+
+Valparaíso, 24 de julio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
