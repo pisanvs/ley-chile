@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.058, de fecha 29 de junio del 2001, se expropió lote de terreno único, superficie 39.500,00 m2., Rol de Avalúo Nº 252-2, comuna de Monte Patria, para la obra ''Proyecto Sifón Omar Elorza, Plano de expropiación Bocatoma Canal Alimentador Recoleta'', y se acordó el valor de indemnización con su propietario, Sociedad Agrícola y de Transportes Alfalfares Limitada, ascendente a la cantidad de $10.186.000.-
+
+Fiscal del Ministerio de Obras Públicas.
