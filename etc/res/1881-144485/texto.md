@@ -1,0 +1,3 @@
+Por resolución Nº1.881, de 20 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº97103204, presentada por CARLOS WENCESLAO MARCOS LEVIÑANCO, para operar un centro de cultivo ubicado en un sector al Noroeste de Isla Caguache, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 20 de septiembre de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
