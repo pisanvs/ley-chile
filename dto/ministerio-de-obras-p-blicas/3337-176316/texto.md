@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.337, de 31 de julio de 2000, se expropió el lote de terreno Nº 8-A, superficie 86 m², rol de avalúo 2131-97, comuna de Puerto Montt, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Enlace Petorca, Décima Región y se acordó el valor de indemnización con su propietaria Inmobiliaria Recondo S.A., ascendente a la cantidad de $2.093.017.-
+
+Fiscal del Ministerio de Obras Públicas.
