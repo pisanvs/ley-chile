@@ -1,0 +1,139 @@
+FIJA TEXTO REFUNDIDO DE LOS ARTICULOS 24°. A 36°. DE LA LEY N°. 5.604, DE 16 DE FEBRERO DE 1935
+
+Santiago, 21 de Febrero de 1968.- Hoy se decretó lo que sigue:
+
+Núm. 103.- Vistos: La facultad que me confiere el artículo 18°. de la ley N°. 16.742, de 8 de Febrero de 1968,
+
+Decreto:
+
+Fíjase el siguiente texto refundido de los artículos
+
+24°. a 36°. de la ley N°. 5.604, de 16 de Febrero de
+
+1935, con las modificaciones introducidas por el
+
+#### Artículo 9°
+
+de la ley N°. 16.392. de 16 de Diciembre de 1965 y por el artículo 16°. de la ley N°.o 16.742, ya citada:
+
+#### Artículo 24°
+
+Decretada la expropiación, si la indemnización se ajustare directamente entre el propietario y la entidad expropiante, ésta la depositará en arcas fiscales, en su totalidad o en la forma señalada en el inciso primero del artículo 35°., a la orden del Juez a que se refiere el artículo 28°., y tomará inmediatamente posesión de los terrenos.
+
+#### Artículo 25°
+
+Si la indemnización no se ajustare entre la cantidad expropiante y el interesado, aquélla nombrará una comisión de tres técnicos, de entre los miembros de la nómina que establezca el Presidente de la República por decreto supremo, con el fin de que tase el valor del predio y las indemnizaciones que corresponda pagar.
+
+En la comisión no podrán figurar funcionarios dependientes de la cantidad expropiante o del Ministerio a que ésta pertenezca o de cualquiera de los Servicios de éste o de las instituciones que se relacionan administrativamente con él.
+
+#### Artículo 26°
+
+Una vez practicada la tasación, la entidad expropiante quedará autorizada para tomar posesión de los terrenos, previo depósito en arcas fiscales de la quinta parte del monto de dicha tasación a la orden del Tribunal llamado a conocer del reclamo que pudiere interponerse en contra de ella.
+
+Autorizada la toma material del inmueble, la entidad expropiante podrá requerir directamente el auxilio de la fuerza pública al Intendente o Gobernador que corresponda, quienes deberán concederla sin más trámite.
+
+#### Artículo 26°
+
+bis.- Cuando hayan de notificarse las expropiaciones a que se refiere la presente ley a personas cuya individualidad o residencia sea difícil determinar, el Juez ordenará sin más trámite y con la sola petición que al efecto formule la entidad expropiante que se proceda de conformidad con el artículo 54°. del Código de Procedimiento Civil y sin sujeción a lo dispuesto por el inciso segundo de ese mismo artículo.
+
+Cuando se trate de la expropiación de inmuebles de dominio de una Comunidad, la tasación se notificará en la forma prescrita en el inciso anterior.
+
+Los comuneros deberán comparecer mediante un solo mandatario, designado de común acuerdo. A falta de acuerdo, la representación de todos ellos la asumirá el Defensor Público. El mandatario común o el Defensor Público, en su caso, se considerará representante de todos los componentes de la Comunidad para todos los efectos legales, incluso para aceptar el valor de tasación que se le notifique.
+
+El Defensor Público sólo podrá reclamar de la tasación si ésta es inferior al avalúo fiscal del predio materia del procedimiento expropiatorio.
+
+El Defensor Público representará también al poseedor inscrito que hubiere fallecido o cuyo paradero se ignora, si sus herederos o sus representantes legales no se hubieren hecho parte en el procedimiento expropiatorio.
+
+Los libramientos de la indemnización se harán mediante un depósito directo que hará el Tribunal en el Banco del Estado de Chile a nombre del notificado en el procedimiento expropiatorio, previa deducción de los honorarios del Defensor Público, en su caso, tasados por el Juez.
+
+En el caso de las expropiaciones a que se refiere el artículo 25°. de esta ley, luego de transcurrido el plazo de un año, contado desde la notificación judicial de la expropiación, sin que se presente al Banco del Estado de Chile persona alguna con derecho a solicitar que se gire libramiento del valor de tasación consignado, y depositado en su favor, y le sean entregados los pagarés de que trata el artículo 35°., la entidad expropiante solicitará del Juez que, sin más tramite, ordene girar lo depositado en el Banco del Estado de Chile a la Corporación de Mejoramiento Urbano, quien lo administrará con facultad de disposición. Transcurrido un segundo año, dicho monto girado ingresará al dominio de dicha Corporación y se extiniguirán las obligaciones provenientes de los referidos pagarés. Si dentro de este segundo año concurriere al juicio de expropiación alguna persona con derecho a solicitar que se gire libramiento en su favor, la Corporación de Mejoramiento Urbano estará obligada a restituir la cantidad girada, depositándola en la cuenta corriente del Tribunal, una vez transcurrido el término de 30 días corridos, contados desde la fecha en que quede ejecutoriada la resolución que así lo ordene.
+
+En el caso de las expropiaciones a que se refiere el artículo 25°. de la presente ley, notificada que sea la expropiación, no le será lícito al expropiado celebrar acto o contrato alguno que afecte al bien expropiado, y el Juez, de oficio o a petición de parte, decretará la prohibición pertinente, la que el Conservador de Bienes Raíces respectivo deberá inscribir sin costo alguno para la solicitante.
+
+#### Artículo 27°
+
+Tanto la entidad expropiante como el propietario podrán reclamar de la tasación ante la justicia ordinaria dentro de los veinte días siguientes a aquel en que la entidad expropiante notifique al propietario que ha tomado posesión de los terrenos.
+
+#### Artículo 28°
+
+En la reclamación el solicitante indicará el valor en que estima el bien expropiado, nombrará un perito y pedirá que su contendor designe otro para que procedan juntos a efectuar una nueva tasación.
+
+Si los peritos no se pusieren de acuerdo, se nombrará un tercero en discordia, por las partes o por el Juez, en subsidio. La inhabilidad señalada en el artículo 25°. afectará al tercero nombrado por el Juez.
+
+Los informes de los peritos servirán al Tribunal de dato meramente ilustrativo.
+
+Si el propietario, de conformidad a lo dispuesto en el artículo 27°. de la presente ley, reclamare de la tasación y la entidad expropiante se desistiere de la expropiación dentro del plazo de 30 días, contado desde la reclamación, el Servicio de Impuestos Internos deberá modificar el avalúo del predio, para todos los efectos tributarios, elevándolo hasta el valor asignado en la tasación reclamada. El Tribunal, de oficio, comunicará a ese Servicio el desistimiento de la expropiación y el valor señalado en la tasación.
+
+#### Artículo 29°
+
+Si el valor que fijare el Tribunal fuere superior al de la tasación a que se refiere el artículo 25°., la diferencia resultante entre dicha tasación y el valor fijado por el Tribunal se pagará en tantas cuotas como años falten para completar los cinco años que señala el inciso segundo del artículo 35°. de esta ley y en la forma que esa disposición establece. Si a la fecha de fijarse por el Tribunal dicho valor hubieren transcurrido los cinco años, contados desde la iniciación del juicio de expropiación, la diferencia de valores resultante se pagará en dinero y de una sola vez. En caso contrario, se solucionará la obligación con pagarés otorgados en la forma que establece el artículo 35°.
+
+#### Artículo 30°
+
+Efectuado por la entidad expropiante el depósito de la indemnización por la expropiación, o de la primera cuota en su caso, el Tribunal ordenará publicar tres avisos, en otros tantos días hábiles, en un periódico del departamento en que estuvieren situados los terrenos, con el fin de que los terceros puedan hacer valer sus derechos. Transcurridos diez días desde la publicación del último aviso, y no habiendo oposición de terceros se girará a favor del expropiado libramiento de la suma consignada por la entidad expropiante, en la parte que no fuere reclamada por ella.
+
+Sólo una vez fallado el reclamo se girará libramiento de la parte de la indemnización reclamada, dando cumplimiento a lo dispuesto por el artículo 29°..
+
+Para los efectos de fijar el justo precio dentro del procedimiento expropiatorio a que se refiere la presente ley, no se considerará la plusvalía del terreno objeto de la expropiación cuando ella derive de obras o servicios públicos o municipales de urbanización, equipamiento o remodelación realizados en sectores contiguos y dentro de los cinco años anteriores al decreto o acuerdo que determine la respectiva expropiación.
+
+#### Artículo 31°
+
+Las acciones y derechos y los juicios pendientes sobre dominio, posesión o mera tenencia de la cosa expropiada no suspenderán el procedimiento de expropiación.
+
+Los interesados harán valer sus derechos sobre el valor de la expropiación y los usufructos, las servidumbres, arrendamientos y otros derechos o gravámenes que existieren, quedarán extinguidos.
+
+#### Artículo 32°
+
+Los gravámenes, embargos y prohibiciones que afectaren a la cosa expropiada tampoco serán obstáculo para llevar a cabo la expropiación.
+
+Las gestiones a que diere lugar el ejercicio de estos derechos se ventilarán ante el Juez a quien corresponda conocer de la expropiación y se tramitarán como incidentes en ramo separado, sin entorpecer el cumplimiento de la expropiación, y quedarán extinguidos.
+
+#### Artículo 33°
+
+Producido el acuerdo de que trata el artículo 24°. o vencido el plazo a que se refiere el artículo 30°., y aunque se hubiere formulado el reclamo, el Tribunal ordenará, dentro del segundo día, el otorgamiento de la escritura de expropiación.
+
+La escritura será firmada por el Juez, en representación del expropiado y en ella se dejará constancia de si hay o no reclamo interpuesto y, en caso afirmativo, del monto de la suma demandada.
+
+En la inscripción de esta escritura, no será necesario mencionar la inscripción precedente ni cumplir los trámites que se exigen para inscribir títulos relativos a propiedades no inscritas.
+
+Al margen de la inscripción se anotará el fallo del reclamo que se hubiere interpuesto contra la estimación de los técnicos y la circunstancia de haberse pagado la diferencia de precio en su caso.
+
+#### Artículo 34°
+
+Las apelaciones sólo se concederán en lo devolutivo y tendrán preferencia para su vista y fallo.
+
+#### Artículo 35°
+
+La indemnización a que se refiere el artículo 24°. de la presente ley, podrá ser pagada por la entidad expropiante en parcialidades, dentro del plazo que convenga con el propietario.
+
+En el caso del artículo 25°., el monto de la tasación se pagará siempre a cinco años plazo. La cuantía del depósito a que se refiere el artículo 26°. será equivalente a la quinta parte del valor de la tasación. El saldo se pagará dentro de los cinco años siguientes, en otras tantas cuotas iguales, mediante pagarés que emitirá la entidad expropiante. Cada una de dichas cuotas vencerá al término de cada año, considerándose como fecha inicial para determinar los vencimientos respectivos, aquella en que se efectúe el depósito de la quinta parte del valor de la tasación.
+
+El 60% del valor de cada cuota a plazo tendrá un reajuste anual, equivalente al porcentaje de variación que experimenten los índices de sueldos y salarios o de precios al consumidor, que determine el Instituto Nacional de Estadísticas, debiendo elegirse la cifra más baja, la cual se rebajará en una unidad y se despreciarán las fracciones.
+
+Cada cuota a plazo devengará un interés anual del seis por ciento. En caso de mora en el pago de alguna de las cuotas, se agregará al interés señalado, y a partir de la mora, un interés penal anual del tres por ciento. Los intereses se calcularán sobre el monto original de cada cuota y se pagarán a la fecha de vencimiento del pagaré.
+
+En el caso del artículo 29°., y respecto del mayor valor que pueda decretar el Tribunal que conoce la expropiación, operarán la reajustabilidad y los intereses a que se refiere el inciso precedente.
+
+Los terceros que tengan derechos que hacer valer sobre el monto de la indemnización deberán hacerlos efectivos sobre la cantidad consignada, y en caso de ser ésta insuficiente para cubrir sus créditos, sobre el saldo de la indemnización, pagándoseles en tal caso en la forma y con los intereses que establece este artículo.
+
+El monto de las cuotas que resulten se deducirá de las que deban pagarse al expropiado.
+
+Los pagarés se emitirán a la orden del expropiado y se entenderán siempre garantizados por el Estado. Su transferencia se hará por simple endoso, sin que asuma el endosante responsabilidad alguna por su pago. La entidad expropiante llevará un Registro de Pagarés en que se anotará el valor de cada uno, el nombre de sus dueños, su pago y los endosos de que sean objeto.
+
+Efectuada la consignación de la indemnización por la expropiación, o la primera cuota de ella, en su caso, quedará transferido de pleno derecho a la institución expropiante el dominio del bien expropiado, con todos los efectos contemplados por el artículo 36°. de la presente ley.
+
+La entidad expropiante podrá desistirse de la expropiación mientras no consigne la indemnización que se fije por sentencia ejecutoriada.
+
+Si al desistirse de la expropiación la entidad expropiante se hubiere girado en favor del expropiado la quinta parte del valor de tasación a que se refiere el artículo 26°., éste deberá devolverlo dentro del plazo máximo de 30 días. Si así no lo hiciere, deberá pagar un interés penal sobre la cantidad girada, que será igual al interés bancario y correrá a contar del vencimiento del plazo indicado. Igual norma se aplicará respecto de los terceros.
+
+En el caso a que se refiere el inciso precedente y para garantizar el reintegro de lo girado, el bien de cuya expropiación se haya desistido la entidad expropiante quedará gravado con hipoteca legal a favor de la entidad expropiante y con prohibición de enajenar. Esta hipoteca y prohibición se inscribirán en el respectivo Conservador de Bienes Raíces.
+
+El crédito proveniente del giro a que se refieren los dos incisos precedentes gozará del privilegio a que se refiere el N°. 1°. del artículo 2.472 del Código Civil.
+
+#### Artículo 36°
+
+Los bienes expropiados quedan con título saneado y nadie tendrá acción ni derecho contra ellos por vicios o derechos existentes con anterioridad a la consumación de la expropiación.
+
+Anótese, regístrese, tómese razón, comuníquese, insértese en el Boletín de Leyes y Decretos de la Contraloría General de la República y publíquese.- E. FREI M.- Juan Hamilton Depassier.
+
+Lo que transcribo a U.- Dios guarde a U.- J. Eduardo Truyol Díaz, Subsecretario de la Vivienda y Urbanismo.
