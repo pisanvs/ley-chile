@@ -1,0 +1,3 @@
+Por resolución Nº 249, de 18 de febrero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución Nº 455 de 1988, de esta Subsecretaría, que autorizó a don GONZALO VERDUGO COLLARTE, para operar la nave "Liberty", matrícula 216 de Constitución, en virtud de la renuncia formulada por el titular.
+
+Valparaíso, 18 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
