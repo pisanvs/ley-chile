@@ -1,0 +1,1 @@
+Confiere facultades a la Comisión liquidadora de la Compañía de Salitre de Chile.
