@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 935 de 30 de junio de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 152-A para la obra: "Camino Ruta S-10, Sector Cruce Long. (Lautaro) - Galvarino, Tramo Km. 0,000 a Km.
+
+34,50853, correspondiente al Subtramo V, Km. 25,837 a Km. 34,50853", que figura a nombre de Bachmann Kehr Carlos Otto, rol de avalúo 75-27, comuna de Galvarino, IX Región, superficie 3.618 m2. La Comisión de Peritos, fijó con fecha 12 de septiembre de 2002 en la cantidad de $1.662.840.- lote 152-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
