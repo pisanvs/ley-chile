@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.615, de 30 de junio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Mº1. Obra: Conservación Periódica G-312, sector Pajaritos Kms. 0.000 al 4.093,54 que figura a nombre de Di Melchiorre Dicrescenso Amadeo, rol de avalúo 302-32, comuna de Peñaflor, superficie 362m2. La Comisión de Peritos, fijó con fecha 11 de agosto de 1999, en la cantidad de $3.077.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
