@@ -1,0 +1,3 @@
+Por decreto MOP N°518, de 28 de febrero del 2000, se expropió el lote de terreno N°89, superficie 602 m2, rol de avalúo 233-529, comuna de Rengo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector F, Sexta Región y se acordó el valor de indemnización con su propietario José Domingo Sepúlveda Gaete, ascendente a la cantidad de $5.350.148.-
+
+Fiscal del Ministerio de Obras Públicas.
