@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 556, de 29 de abril de 1998, se expropió el lote de terreno Nº16, superficie 844 M2, rol de avalúo 4505-46, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería, para el Sistema Norte - Sur, sector Ruta 5 Sur-Departamental y sector Eje General Velásquez y se acordó precio de indemnización con el propietario María Cecilia Oyarzo Morales, ascendente a la cantidad de $34.579.824.
+
+Fiscal del Ministerio de Obras Públicas.
