@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION QUE INDICA. DEROGA RESOLUCION QUE SEÑALA
+
+Por Resolución No. 1.562, de 27 de Octubre de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la Resolución No. 454, de 1989, de esta Subsecretaría, numeral 1° inciso 2° letra d) en cuanto se deja sin efecto la declaración de caducidad de la Resolución No. 510, de 1987, de esta Subsecretaría, que autorizó a la Sociedad Pesquera Isla Tenglo Limitada, domiciliada en Rengifo No. 946, Puerto Montt, para ampliar actividades pesqueras de transformación, en una planta industrial emplazada en el Parque Industrial de Puerto Montt. Derógase la Resolución No. 328, de 1987, de esta Subsecretaría, que autorizó a la Sociedad Pesquera Isla Tenglo Limitada, para operar una planta industrial en calle Los Mañíos No. 38, Población Colina, Puerto Montt, por renuncia del permisionario.
+
+Valparaíso, 27 de Octubre de 1989.- Roberto Cabezas Bello Subsecretario de Pesca.
