@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 233, de 22 de octubre de 1990, se expropiaron los lotes N°s. 3 y 4, superficies 181,50 M2. y 60 M2., roles de avalúos 137-78 y 137-217, respectivamente, Comuna de Paine, para la obra Camino Champa - Pintué y se acordó precio de indemnización con sus propietarios Marcos Millán Cruz y Víctor Rojas Sanhueza, ascendente a las cantidades de $ 159.324 y $ 100.980.
+
+- Fiscal del Ministerio de Obras Públicas.
