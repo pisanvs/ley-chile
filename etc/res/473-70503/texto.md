@@ -1,0 +1,3 @@
+Por Resolución Nº 473, de 3 de abril de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; deniégase la autorización solicitada por PESQUERA MAR S.A., para sustituir la nave "Mar" por la nave "Granada", en virtud de lo dispuesto en el artículo 19 letra d) de la Ley Nº 18.892 y sus modificaciones y artículo 5º del D.S. Nº 64, de 1992.
+
+Valparaíso, 3 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
