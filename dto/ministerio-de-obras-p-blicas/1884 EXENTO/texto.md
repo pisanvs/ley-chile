@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.884, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº12-A, superficie 317 m2, rol de avalúo 417-119, comuna de Los Muermos, X Región, para la obra "Camino Los Muermos Cruce Ruta V-650, Sector Km. 0,000 al 7.825,95" y se acordó el valor de indemnización con su propietario don José Samuel Subiabre Vidal, ascendente a la cantidad de $504.941.
+
+- Fiscal del Ministerio de Obras Públicas.
