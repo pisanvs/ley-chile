@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 544, de fecha 30 de abril de 2001, se expropiaron los lotes de terreno Nºs. 13, 14, 15, 33, 42 y 48, superficies 380 M2, 46 M2, 332 M2, 65 M2, 332 M2 y 1.228 M2, roles de avalúos 181-14, 526-243, 181-14, 534-70, 537-249 y 537-256, respectivamente, comuna de Río Bueno, para la obra "Camino Río Bueno-Cruce (II Parte). Sector T-90-U y T-933, tramo Km. 0,00000 al 20,90000" y se acordó el valor de indemnización con sus propietarios Osvaldo Chicago Duarte, María Aurora Pardo Ramírez y Otras, Osvaldo Chicago Duarte, Sonia María Andrade Figueroa, Hans Werner Helmrich von Elgott Robert y Carlos Domingo Noriega Martínez, ascendente a las cantidades de $2.267.317, lotes Nºs. 13 y 15; $281.978, lote Nº 14;
+
+$254.158, lote Nº 33; $367.487, lote Nº 42; $1.575.201, lote Nº 48.-
+
+Fiscal del Ministerio de Obras Públicas.
