@@ -14812,38 +14812,6 @@ ANEXO N° 10
 
 .
 
-ANTECEDENTES ACERCA DE LA FORMULA MENCIONADA EN EL CUPON
-
-s = Saldo de capital adeudado a la fecha de la última amortización, sobre el
-
-cual se determinarán los intereses.
-
-n = Número de períodos de amortización comprendidos en el lapso de un año. A vía
-
-de ejemplo, si la amortización es semestral: n - 2.
-
-TIP = Tasa de Interés Promedio de que trata el N°5 del Capitulo IV.B.8.1 del
-
-Compendio de Normas Financieras, certificada y publicada por el Banco Central de
-
-Chile, que corresponda aplicar en el respectivo período, sin exceder el límite
-
-máximo de dicha tasa ni el límite mínimo, en caso que no se haya prescindido de
-
-este último.
-
-X = Monto de los intereses ganados al término del período considerado.
-
-En el pago de los cupones, el factor que se determine sobre la base de la fórmula
-
-.
-
-deberá comprender a lo menos siete decimales. El séptimo decimal podrá elevarse
-
-al número inmediatamente superior sólo en el caso que el octavo sea igual o
-
-superior número al 5.
-
 ANEXO N° 11
 
 INDICE DE CODIGOS DE TABLAS DE DESARROLLO DE LETRAS DE CREDITO
