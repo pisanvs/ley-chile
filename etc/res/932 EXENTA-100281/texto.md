@@ -1,0 +1,3 @@
+Por resolución exenta No. 0-932 de fecha 18 de Mayo de 1989, se ordenó publicar en d Diario Oficial la solicitud de inscripción en la XII Región de Magallanes y de la Antártica Chilena, en el Registro de Partidos Políticos, formulada por los señores Jaime Guzmán Errázuriz y Pablo Longueira Montes, en representación del Partido Unión Demócrata Independiente. Santiago, 18 de Mayo de 1889.-
+
+Juan Ignacio García Rodríguez, Director.
