@@ -1,0 +1,3 @@
+Por decreto MOP Nº 241, de 31 de enero del 2000, se expropió el lote de terreno Nº 10, superficie 3.824 m2., rol de avalúo 118-12, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietario Francisco Javier Matus Soto, ascendente a la cantidad de $37.170.047.
+
+- Fiscal del Ministerio de Obras Públicas.
