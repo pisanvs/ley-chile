@@ -1,0 +1,3 @@
+Por decreto MOP. Exento Nº703, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº13, superficie 1.102,9 M2, rol de avalúo 68-289, comuna de Teno, VII Región, para la obra ''Camino Teno-Maitenes Sector La Montaña-Maitenes Tramo Km. 25,00046 al 37,61620'' y se acordó el valor de indemnización con su propietario don Eufracio Reyes González, ascendente a la cantidad de $1.453.867.-
+
+Fiscal del Ministerio de Obras Públicas.
