@@ -1,0 +1,5 @@
+Por decreto MOP Nº 529, de 30 de junio de 2004, y en base a la facultad otorgada por el artículo 105 del DFL. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 61 y Nº 67 para la obra "Laja - Diguillín, Canal Matriz Diguillín - Larqui, Km. 12,900 a Km. 19,000", que figuran a nombre de Troncoso Vásquez Claudio y San Martín Muñoz José Ernesto, roles de Avalúo Nº 575-29 y 575-10, comuna de San Ignacio, VIII Región, superficies:
+
+13.240 y 1.656 m². La Comisión de peritos fijó con fecha 26 de febrero de 2004 en las cantidades de $11.054.560, para lote 61, y $1.412.520, para el lote Nº 67. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
