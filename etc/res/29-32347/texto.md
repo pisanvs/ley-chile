@@ -1,0 +1,3 @@
+Por Resolución N° 29, de 27 de febrero de 1996, Serviu II Región, dispuso, conforme D.L. 2.186 de 1978, expropiación parcial del inmueble ubicado en Avda. Argentina N° 2720, rol de avalúo N° 905-002, comuna de Antofagasta, superficie 18,060 M2., de aparente dominio de doña Sonia de Lourdes Cortés Cortés, según inscripción fs. 726, N° 1098-A, año 1992, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión Tasadora integrada por peritos Srs. Iván Vladilo Vargas, Ingeniero Civil, Alejandro Barsted Balcells y Eleonora Román Latorre, Arquitectos, según informe de 1° de febrero de 1996, fijó monto provisional indemnización en $4.298.631.-, pagadera al contado.-
+
+Director Serviu II Región.
