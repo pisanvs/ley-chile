@@ -1,0 +1,5 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA GANADO A COMPAÑIA DE INVERSIONES LA CENTRAL S.A.
+
+La Dirección Regional Metropolitana Santiago Oriente del Servicio de Impuestos Internos, por Res. Nº Ex. 2.369 de 4 de diciembre de 2000 certifica que a contar del día 1º del mes siguiente al de esta publicación y en forma indefinida, la sociedad Compañía de Inversiones La Central S.A., RUT Nº 99.036.000-6, se excepciona del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las operaciones de ganado vivo, de acuerdo con lo establecido en la Res. Nº Ex. 3.721 del 28 de julio del 2000, de la Dirección Nacional del Servicio y publicada en el Diario Oficial. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus operaciones de ganado vivo.-
+
+Bernardo Seaman González, Director Regional.
