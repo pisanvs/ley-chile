@@ -1,0 +1,3 @@
+Por decreto MOP No. 379, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. 2, 3, 4, 5, 6, 7 y 8, superficies 157; 167,5; 2.875; 469; 1.141; 482 y 359,5 m2 respectivamente, roles de avalúo 1061-12, 1064-12 y en trámite, comuna de Vicuña, para la obra Camino Ruta 41-CH, sector Huanta Juntas del Toro y se acordó precio de indemnización con sus propietarios Carlos Majín Aguirre Díaz, Hugo Orlando Aguirre Díaz, Víctor Hugo Rojas Núñez, ascendentes a las cantidades de $ 626.182, para el lote No. 2; $ 378.609, para el lote No. 3 y $ 2.789.634, para los lotes No. s. 4, 5, 6, 7 Y 8.-
+
+Fiscal del Ministerio de Obras Públicas.
