@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.713, de 25 de junio de 1999, se expropió el lote de terreno No. 2, superficie 163 m2, rol de avalúo 1305-1, comuna de San Carlos, para la obra "Ruta 5 Tramo Talca - Chillán: Sector Bifurcación Cape", Octava Región y se acordó el valor de indemnización con su propietario Rubén Antonio Garrido Muñoz, ascendente a la cantidad de $ 1.834.388.-
+
+Fiscal del Ministerio de Obras Públicas.
