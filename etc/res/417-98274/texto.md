@@ -1,0 +1,3 @@
+Por resolución Nº 417, de 30 de marzo de 1998 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por PESQUERA YELCHO S.A., en orden a modificar las características náuticas de la nave ''Gualas'', autorizada para desarrollar actividades pesqueras extractivas mediante resolución Nº511, de 1996 modificada por resolución Nº1.318, de 1997, ambas de esta Subsecretaría.
+
+Valparaíso, 30 de marzo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
