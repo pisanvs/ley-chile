@@ -1,0 +1,5 @@
+Dispone expropiacion parcial DE INMUEBLE
+
+Por decreto alcaldicio Nº 904, de 9 de agosto del 2000, de la I. Municipalidad de Valparaíso, de acuerdo a lo dispuesto en los artículos 29 inciso segundo y 58 letra f) de la ley Nº 18.695, y para los efectos de dar cumplimiento al Plan Regulador Comunal, se expropió una porción del lote Nº 337-A, del ex Fundo Las Mercedes, de la comuna de Valparaíso, Sector Placilla, formada por el polígono e-f-g-h-e-, de una superficie de 809,50 metros cuadrados, individualizado en el Plano de Subdivisión aprobado por resolución Nº 6 de 12 de febrero de 1993 de la Dirección de Obras Municipales y agregado con el Nº 207 al Registro de Documentos del año 1993 del Conservador de Bienes Raíces de Valparaíso, que figura a nombre de Transp. y Servic. Mujica y Cía. Ltda., Rol de Avalúo 9317-283, comuna de Valparaíso. La Comisión de Peritos fijó el valor provisional de la indemnización en la suma de $8.700.182. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento de lo dispuesto en el artículo 7 del decreto ley Nº 2.186, de 1978.-
+
+El Alcalde.
