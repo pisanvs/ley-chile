@@ -1,0 +1,1 @@
+Substituye los artículos 14° y 17°, deroga la letra g) del 18° y agrega artículo 18° bis a la ley 11.828, de 5 de mayo de 1955, en la parte que se refiere a la organización y funcionamiento del Departamento del Cobre.
