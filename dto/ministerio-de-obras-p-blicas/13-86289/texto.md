@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 13, de 29.01.90, se expropió el lote 7 y se constituyó Servidumbre sobre el lote 8, superficies 744 m2. y 1.285 m2, respectivamente, rol de avalúo 2.12120, Comuna Renca, para Avenida Américo Vespucio, sector Recoleta - Panamericana Norte, y se acordó precio de indemnización con sus propietarios Cominco S.A., ascendente a 1.033,5 UF.
+
+- Fiscal del Ministerio de Obras Públicas.
