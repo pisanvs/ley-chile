@@ -1,0 +1,1 @@
+Fija las Plantas Permanentes de Oficiales y Empleados Civiles de las Fuerzas Armadas y de las Subsecretarías del Ministerio de Defensa Nacional.
