@@ -1,0 +1,3 @@
+EXTRACTO DE DECRETO DE EXPROPIACION
+
+Por Resolución N° 163, de fecha 03.04.91 SERVIU Región del Bío Bío, dispuso expropiación conforme art. 51 Ley N° 16.391, sustituido por Decreto Ley N° 1.523 y D.S. N° 151 de 12 de Septiembre de 1990, de inmueble ubicada en Camino a Chiguayante Km. 1884,65 a KM. 1911 presunto rol de avalúo N° 4028-3, de la comuna de Concepción, de aparente dominio de La Mochita S.A. Comisión de Peritos formada por señores Teodoro Medina Reyes, ingeniero civil; Luis Soto Abarca, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 30.11.90, fijó monto provisional de indemnización en la suma de $ 158.100,00, pagaderos de contado.
