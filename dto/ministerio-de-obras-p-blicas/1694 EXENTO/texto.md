@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.694 de fecha 29 de noviembre de 2002, se expropió el lote de terreno Nº 12A, superficie 2.462 m2, rol de avalúo Nº 156-3, comuna de Pemuco, para la obra: ''Area de Riego Pemuco Canal San Ramón Faja Adicional Km. 0,022 al Km. 6,378, del Proyecto Laja Diguillín'', VIII Región y se acordó el valor de indemnización con su propietario Héctor Ricardo Acuña Sandoval, ascendente a la cantidad de $1.795.874.-
+
+Fiscal del Ministerio de Obras Públicas.
