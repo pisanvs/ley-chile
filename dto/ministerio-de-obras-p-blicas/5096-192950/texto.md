@@ -1,0 +1,5 @@
+Por decreto MOP Nº 5.096, de 24 de noviembre de 2000, modificado por decreto MOP Nº 1.686 de 31 de octubre de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP. Nº 206, de 1960, se expropió el lote de terreno Nº 126-B, para la obra: "Camino: Ruta 5 Norte. Tramo: Santiago - Los Vilos. Sector Km.
+
+21.100,00 al Km. 22.000,00"; Región Metropolitana, que figura a nombre de Republic Leasing Chile S.A., rol de avalúo 382-139, comuna de Lampa, superficie 1.955 m2. La comisión de peritos integrada por los señores Julio Víctor Fischer Gaysinsky, Inés Elena Otárola Castillo y Jaime Rolando Jurgens Bittner, fijó con fecha 11 de junio de 2001, el valor provisional de la indemnización en la cantidad de $43.504.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
