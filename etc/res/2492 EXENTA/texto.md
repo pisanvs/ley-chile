@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 2.492, de 27 de Noviembre de 1987, conforme Art. 5° Transitorio del Código de Aguas, determinó Derechos de Aprovechamiento de Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado predio "La Chipana" de las comunas de Chimbarongo y Teno, VI y VII Regiones. Los Derechos de Aprovechamiento de Aguas se extraen del Río Teno por el Canal Huemul; Toma El Castaño del Estero de Chimbarongo y derrames de la antigua Hacienda Casas de Huemul. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
