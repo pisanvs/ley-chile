@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.812, de fecha 30 de noviembre del 2001, se expropió el lote de terreno Nº 18, superficie 32,00 m², rol de avalúo Nº 231-44, comuna de Villa Alegre, para la obra "Camino Mejoramiento Ruta L-19, Sector Cruce Longitudinal (Villa Alegre - Esperanza), Tramo Km. 0,000.00 al 10,623.89" y se acordó el valor de indemnización con su propietario Sergio Antonio Tapia Paiva, ascendente a la cantidad de $352.836.
+
+Fiscal del Ministerio de Obras Públicas.
