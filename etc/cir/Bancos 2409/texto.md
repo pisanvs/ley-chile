@@ -15648,7 +15648,7 @@ ACTIVIDADES AUTORIZADAS A EMPRESAS DE APOYO AL GIRO.
 
 A continuación se describen los tipos de servicios que esta Superintendencia ha autorizado para la constitución de empresas de apoyo al giro:
 
-A) SERVICIOS VINCULADOS A SISTEMAS DE PAGOS:
+A) SERVICIOS VINCULADOS A SISTEMAS DE PAGOS.
 
 - Transferencia electrónica de fondos.
 
@@ -15664,17 +15664,15 @@ A) SERVICIOS VINCULADOS A SISTEMAS DE PAGOS:
 
 - Otros servicios vinculados a los sistemas de pagos.
 
-B) OTROS SERVICIOS:
+B) OTROS SERVICIOS.
 
 - Transferencia electrónica de información.
 
 - Recaudación de pagos de servicios (agua, gas, electricidad, teléfono), impuestos, contribuciones, cuotas de créditos, cuotas de patentes u otros derechos, imposiciones previsionales, matrículas, cuotas de establecimientos educacionales, cuotas de socios de instituciones, etc.
 
-- Pagos previsionales y de salud, de dividendos a accionistas, a proveedores, de remuneraciones y beneficios al personal de empresas, etc.
+- Pagos previsionales y de salud, de dividendos a accionistas, a proveedores,de remuneraciones y beneficios al personal de empresas, etc.
 
 - Recopilación y preevaluación de antecedentes de potenciales clientes de una institución financiera.
-
-- Prestación de servicios de personal a sus asociados y a las filiales de éstos.
 
 ANEXO N° 3
 
