@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.031, de 21 de noviembre de 2003, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.097 de 1999, de esta Subsecretaría, sólo en cuanto autorizó a MAESTRANZA TALCAHUANO LIMITADA para operar la nave "Pigargo", respecto de los recursos hidrobiológicos Besugo, en el litoral de la VIII Región, con arrastre, y Bacalao de profundidad, en el litoral comprendido entre Punta Liles y el paralelo 47º L.S., con espinel, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 21 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
