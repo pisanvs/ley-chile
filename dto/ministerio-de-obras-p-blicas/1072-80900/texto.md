@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 1.072, de 31 de octubre de 1997, se expropiaron los lotes de terreno Nºs. 2, 12-A, 16 y 19, superficies 1.470, 6.507, 2.636 y 2.608 m2. respectivamente, roles de avalúo 12-2, 13-4 y 29-161, comuna de San Pedro, para la obra Camino Ruta 66, Sector Crucero Las Arañas-Límite V Región y se acordó precio de indemnización con sus propietarios José Santín Aqueveque, Enrique Nieto Madariaga y Berta Lecaros Mackenna, ascendentes a las cantidades de $3.151.848, para el lote 2; $12.040.553.- para el lote 12-A y $11.341.924.- para los lotes 16 y 19.
+
+Fiscal del Ministerio de Obras Públicas.
