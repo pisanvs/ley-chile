@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 10 de 07 de Enero de 1988, conforme Art. 5º Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido - Reserva y Sector Expropiado Predios "Granja El Peral, Ex - Granja El Porvenir" y "Resto de la Hijuela Sur del Fundo Santa Teresa" o "Fundo El Carmen que formaba parte del Fundo Las Juntas" de la comuna de San Esteban, V Región; y derechos aprovechamiento aguas que corresponden a parcelas Nºs. 1 a la 13, sitios Nºs. 1 al 3. y 5 al 12 del Proyecto de Parcelación "El Lucero" formado entre otros por los predios señalados. Los derechos de agua se extraen del Canal San Miguel Publicación hecha conforme. Art. 13 Ley Nº 18.377.-
+
+Director Ejecutivo.
