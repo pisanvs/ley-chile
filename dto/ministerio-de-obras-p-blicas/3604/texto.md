@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.604 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 27, superficie 1.453 m², rol de avalúo 512-26, comuna de Talagante, para la obra ''Camino Autopista Santiago-San Antonio, Tramo: Talagante-El Paico, Sector Segmento 3, Sector 5-0, Lado Derecho Km. 38,64000 a Km. 43,56000'' y se acordó el valor de indemnización con su propietario Lucía Gaete Droguett, ascendente a la cantidad de $12.140.893.-
+
+Fiscal del Ministerio de Obras Públicas.
