@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.718, de 29 de diciembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº7-A, para la obra: Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt Sector By Pass - Puerto Montt Km.
+
+1.019,700 al Km. 1.021,700, Décima Región, que figura a nombre de Diharce Navarro Iván, rol de avalúo 2130-26, comuna de Puerto Montt, superficie 7.152 m². La Comisión de Peritos integrada por los señores Enrique Edgardo Hoelck Altman, Christián Emil Rauch Yáñez y Nelson Fabián Igor Flores, fijó con fecha 21 de septiembre de 1999, el valor provisional de la indemnización en la cantidad de $53.640.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
