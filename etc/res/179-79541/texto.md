@@ -1,0 +1,3 @@
+Por resolución No. 179 de 26 de Febrero de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase parcialmente la resolución No. 475, de 1989, de esta Subsecretaría, por la cual se autorizó a Compañía Pesquera Camanchaca S.A., RUT. No. 93.711.000-6, domiciliada en Santiago, para operar tres naves en construcción, en el litoral de las Regiones IV, V y VI, en virtud de lo dispuesto en el Artículo 143, letra b) de la Ley 18.892, Ley General de Pesca y Acuicultura.
+
+Valparaíso, 26 de Febrero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
