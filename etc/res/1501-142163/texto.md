@@ -1,0 +1,3 @@
+Por resolución Nº 1.501, de 5 de agosto de 1999, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Zapallar Sector A, V Región, individualizada en el artículo 1º) Nº 7 del D.S. Nº 652, de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES CALETA ZAPALLAR.
+
+Valparaíso, 5 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
