@@ -1,0 +1,9 @@
+Por Resolución No. 103, 05 de enero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a INTERCOMERCIAL SAMA LIMITADA; R.U.T. No.
+
+79.522.680K, domiciliado en la ciudad de Valparaíso, calle Blanco 1663, Oficina 1601, para ampliar actividades pesqueras que tiene autorizadas por Resolución No. 554 y No. 1319, ambas de 1991, de esta Subsecretaría, donde podrá incorporar a la planta ubicada en Valparaíso Los Peumos 535 la líneas de proceso de aceite con el recurso lobo marino. Asimismo, podrá incorporar a las líneas de proceso autorizadas por las resoluciones citadas precedentemente los siguientes recursos hidrobiológicos: Congelado y frescoenfriado: Agujilla Atún aleta amarilla, Ayanque, Azulejo, Bacalao de profundidad, Barrilete, Bonito, Caballa, Cabinza, Cabrilla española, Congrio pardo, Chancharro, Granadero, Machete, Mote, Nototenia, Pejegallo, Pejerrata, Pejerrey de mar, Pichiguén, Raya volantín, Reineta, Tiburón, Tollo de cachos, Tomoyo, Berberecho, Calamar, Culengue, Ostión del Norte, Ostra del Pacífico, Centolla, Centollón. Aceite: Lobo marino común. Congelado: Camarón de roca, Camarón nailon, Jurel, Langostino amarillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada para procesar el recurso loco de conformidad con lo señalado en el DS No. 614 de 1991 del Ministerio de Economía, Fomento y Reconstrucción como asimismo los demás recursos solicitados y no consignados en esta resolución en razón de carecer ellos de presencia regional.
+
+Valparaíso, 05 de enero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
