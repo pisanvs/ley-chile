@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION DE TERRENO QUE INDICA
+
+Alcaldesa de la I. Municipalidad de Providencia, mediante Decreto Ex. No. 200, de 30 de Enero de 1987, dispone expropiación parcial, conforme Decreto Supremo No. 458, de Vivienda de 1976 y Decretos Leyes 1.289, 2.186 y 3.464, de inmueble ubicado en Avda. Francisco Bilbao No. 2032, Rol de Avalúos No. 2728-47 aparentemente de propiedad de don Werner Maeske Rueckert, para el ensanche de Avda. Francisco Bilbao. Deslindes parte expropiada: Norte, 16,30 mts. resto de la propiedad que se expropia; Sur, 16,30 mts. Avda. Francisco Bilbao; Oriente, 5 mts. Rol No. 2728-48, y Poniente, 5 mts. Rol No. 2728-46, Indemnización provisional $ 1.361.480, determinada por Comisión integrada por señores Pastor Correa Prats, Pablo Risopatrón Garmendia y Hernán Cerda Correa, según informe de fecha 20 de Enero de 1987.-
+
+Carmen Grez de Anrique, Alcaldesa, Jorge O. Herrera Ramírez, Secretario Abogado Municipal.
