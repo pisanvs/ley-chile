@@ -1,0 +1,5 @@
+DISPONEN EXPROPIACIONES TOTALES Y PARCIALES DE INMUEBLES QUE INDICAN
+
+Resolución 264, 21 noviembre 2000, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado al Norte de la ciudad de Cobquecura, en el sector del camino al Molino, denominado ''Pajonal'' o ''La Quinta'', Rol de Avalúo Nº 161-39, comuna Cobquecura, superficie 23.584 m2. de terreno, dentro polígonos y linderos señalados plano expropiación S8R-15389; de aparente dominio de Narcisa de las Mercedes Díaz Orellana, Pedro Nicanor Díaz Orellana, Moraima del Carmen Díaz Orellana, Guillermo Arturo Díaz Orellana y Gloria Hortensia Díaz Orellana, para ejecución programa viviendas básicas año 2001 y siguientes, conforme artículo 51 ley 16.391 y DL Nº 2.186. Comisión Peritos integrada por don Pedro Tagle Martínez, arquitecto, don Aris Sergio Drápela Alvarez, ingeniero civil y don Juan Tepper Lavanderos, ingeniero agrónomo, según informe de fecha 21 de Agosto de 2000, fijó monto provisional indemnización en $72.252.000.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
