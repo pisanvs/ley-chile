@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 266, de 31 de agosto de 1993, se expropiaron los lotes de terreno N°s. 2, 9 y 11, superficies 3.815 m2., 4.383 m2. y 4.569 m2., roles de avalúo 1216-167, 1216-7 y 1216-10, Comuna de Teodoro Schmidt, para la obra Camino Freire-Toltén por Hualpín, sector Hualpín-Puente Peule y se acordó precio de indemnización con sus propietarios Sindulfo Sáez Pinchulef, Guillermo Brand Carrera y Edita Aravena Robles, ascendente a las cantidades de $ 360.175.-, $401.241.- y $ 414.689.-, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
