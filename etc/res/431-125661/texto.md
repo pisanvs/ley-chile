@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA QUINTERO S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 431 de 08 de Mayo de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Quintero S.A. con domicilio en Santiago, para ampliar las actividades pesqueras señaladas en la resolución No. 128, de 1983, de esta entidad, en el sentido que se le faculta a efectuar faenas pesqueras de transformación en su planta ubicada en Avenida 21 de Mayo 1057, Quintero, V Región, en la línea de conserva de los recursos hidrobiológicos, sardina española, anchoa, jurel, atunes aleta larga y amarilla y agujilla y en la de congelado; de sardina española, anchoa, jurel y langostino colorado.
+
+Valparaíso, 08 de Mayo de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
