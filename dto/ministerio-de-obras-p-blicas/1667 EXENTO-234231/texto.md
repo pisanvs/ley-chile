@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.667 de 30 de noviembre de 2004, se expropió el lote de terreno Nº15-C, superficie 353,13 m², rol de Avalúo Nº651-061, comuna de Quintero, para la obra ''Ruta F-190, Sector Colmo Puchuncaví, Km. 0,00000 al 25,22591'', V Región y se acordó el valor de la indemnización con su propietaria Filomena del Carmen Díaz Olivares, ascendente a la cantidad de $1.343.657.-
+
+Fiscal del Ministerio de Obras Públicas.
