@@ -1,0 +1,3 @@
+Por resolución Nº 386, de 11 de marzo de 1999, de esta Subsecretaría, deniégase la solicitud presentada por PESQUERA SAN JOSE S.A., para sustituir la nave ''Purén'' y dos naves en construcción, por la nave ''Don Antonio'', por no reunirse los requisitos establecidos en el D.S. Nº 64 de 1992, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
