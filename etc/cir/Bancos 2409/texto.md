@@ -5594,6 +5594,8 @@ Código Plaza Jurisdicción
 
 0008 Arica Arica
 
+0010 Putre "
+
 0016 Iquique Iquique
 
 0024 Tocopilla Antofagasta
