@@ -1,0 +1,7 @@
+Penas a los que mezclen la yerba-mate con otras sustancias
+
+El Director Supremo de la República de Chile:
+
+Por cuanto estoi instruido que bajo el sijilo sacramental se ha confesado un individuo de haber adulterado la yerba mate con quillipatagua i con hojas del venenoso arbusto litre, asegurando que otras personas cometen el mismo fraude tan pernicioso a la salud pública: Por tanto, i en atencion a que la circunstancia espresada hace inverificable la indagacion de su autor, prohibo que en lo sucesivo se haga semejante mezcla, declarando que en el caso de justificarse la infraccion de esta prohibicion, el que la cometa incurrirá irremisiblemente en la confiscacion de todos sus bienes i en ocho años de destierro fuera del pais. El que denunciase esta clase de fraude, será premiado con la mitad del valor líquido de los bienes que se confiscaren al delincuente, cuyo importe se le abonará en dinero efectivo. Se espera que todos los ciudadanos amantes del bien jeneral, estarán a la mira para comunicar cualquier noticia que adquieran sobre este objeto al Gobierno, el cual va a tomar las mas sérias providencias para contener semejante abuso.
+
+Publíquese e imprímase.-Dado en el Palacio Directorial de Santiago de Chile a 4 de Julio de 1822.-O'Higgins.-Echeverría.
