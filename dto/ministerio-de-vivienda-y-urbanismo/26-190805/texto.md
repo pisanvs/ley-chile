@@ -1536,7 +1536,7 @@ c) La superficie ocupada por instalaciones, tales como salas de máquinas, ducto
 
 5.- En estos estacionamientos, las rampas de acceso desde la calle deberán tener un tramo horizontal dentro del predio, de una longitud no inferior a 3 m. medidos a partir de la línea oficial.,
 
-6.- No se exigirán estacionamientos en ros siguientes casos:
+6.- No se exigirán estacionamientos en los siguientes casos:
 
 a) En aquellos predios de la comuna que sólo enfrentan escaleras, vías peatonales u otros que impidan el acceso de vehículos al inmueble.
 
@@ -1545,6 +1545,14 @@ b) Cuando el cambio de destino de todo o parte del edificio ya construido, origi
 c) Cuando se trate de un proyecto de alteración o rehabilitación de un edificio existente.
 
 d) Cuando el frente de un predio existente sea inferior al mínimo exigido para la zona en que se encuentra.
+
+En la Zona B1-1, para el uso de Vivienda la exigencia de estacionamientos será de una unidad de estacionamiento por vivienda.
+
+Sin perjuicio de lo estipulado por el Art 2.4.3. de la O.G.U.y C. Todo lo proyecto a realizar en las Zonas A3-1 y B1-1 que se presente para su aprobación en la Dirección de Obras Municipales, cualquiera sea la cantidad de estacionamientos que genere, deberá considerar Estudios de Impacto sobre el Sistema de Transporte Urbano (EISTU) par los viajes generados y atraídos, además de incluir en el análisis los viajes de todos los proyectos autorizados en dichas Zonas, con anterioridad a la fecha de su presentación a la DOM.
+
+Los estudios de impacto vial deben considerar que el flujo de saturación de la rama de acceso desnivelada en Barón, equivale a 1100 veq/equiv hr (vehículos equivalentes por hora). Cuando la capacidad máxima sea excedida, entendiendo por ello un grado de saturación mayor al 85%, se deberá analizar como alternativas de solución la generación de otras conexiones desniveladas para el flujo vehicular (Simón Bolívar por ejemplo), considerando que la frecuencia de operación de Merval corresponde a 12 trenes/hr, por sentido, en horarios punta.
+
+Respecto a los accesos peatonales, los Estudios de Impacto sobre el Sistema de Transporte Urbano deberán, al menos, considerar accesos en las estaciones de Merval. Si lo anterior es insuficiente dada la demanda esperada, se deberá considerar analizar otras alternativas a desnivel.
 
 #### Artículo 9º
 
@@ -1659,6 +1667,34 @@ Area V-8 : Areas con condiciones generales de alturas,
 correspondientes a la totalidad del sector
 
 graficado en el plano ESPV-01.
+
+Area V-9 : Paseo Costanera y Bodega Simón Bolívar La altura máxima para la edificación será de 9 m.
+
+Area V-10 : Protección de Vistas desde Rambla Bicentenario y Ventana Francia
+
+La altura máxima será de 15 m.
+
+Area V-11 : Protección de Vistas desde Miradores oriente y sur.
+
+La altura máxima para la edificación aislada será de 21 m.
+
+La altura máxima para el agrupamiento en continuidad será de 12 m.
+
+Area V-12 : Ventana Urbana Francia La altura máxima para la edificación aislada será de 24 m.
+
+La altura máxima para el agrupamiento en continuidad será de 15 m.
+
+Area V-13 : Sector que permite mayores alturas por estar en ubicaciones que ya no permiten vistas desde Miradores: entre los ejes de calles Morris y San Ignacio La altura máxima para la edificación aislada será de 34 m.
+
+La altura máxima para el agrupamiento en continuidad será de 24 m.
+
+Area V-14 : Protección de Vistas desde Mirador Barón La altura máxima para la edificación aislada será la dada, en cada caso, por la rasante de menos 2 grados trazada desde el nivel de vereda del Mirador Barón hasta el mar, en el punto que ella lo enfrente, no pudiendo, sin embargo, en ningún caso, sobrepasar los 37,5 m. de altura.
+
+La altura del Mirador se determinará para cada caso con la intersección de la perpendicular trazada desde el eje del edificio proyectado con la horizontal de la vereda del Mirador (o del nivel del Mirador si éste no está aún constituido). Los puntos singulares están definidos en el plano por las coordenadas UTM correspondientes.
+
+La altura máxima para el agrupamiento en continuidad será de 24 m.
+
+Las alturas máximas que se indican para cada Area incluyen elementos como ascensores, estanques, antenas de cualquier tipo, u otros y las techumbres tendrán la calidad de Quinta fachada y de Miradores, sean públicos o sólo para sus usuarios.
 
 Para las Zonas B1, B2, C1, C2 e I se aplicarán las normas de agrupamiento y altura que a continuación se describen para cada área graficada en el E.S.P.V-01 en reemplazo de las que indica en cada zona el art. 25, inciso b.3 referido a esa materia.
 
@@ -1798,6 +1834,10 @@ Las fajas de terreno que a continuación se identifican deberán permanecer libr
 
 Los monumentos nacionales y zonas típicas declaradas por D.S. del Ministerio de Educación, son los que se grafican en el plano PRV-02 y se regirán por lo dispuesto en la Ley N° 17.288, Ley de Monumentos Nacionales.
 
+Asimismo las Zonas de Patrimonio Arqueológico catastradas y graficadas por el Estudio Anexo a la Memoria Explicativa, se rigen por la Ley de Monumentos Nacionales.
+
+Según el Art. 1.4.4. O.G.U. y C. la Dirección de Obras Municipales deberá dejar constancia de su existencia en el Certificado de Condiciones Previas.
+
 ## Capítulo IV
 
 Zonificación y Normas de Uso del Suelo, Subdivisión y Edificación para cada Zona
@@ -1808,7 +1848,7 @@ Zonificación
 
 #### Artículo 24°
 
-Para los efectos de aplicar la presente Ordenanza, el área urbana de Valparaíso se divide en las siguientes zonas, las que se encuentran graficadas en el Plano PRV- O1: Zona A 1 corresponde a la zona costera portuaria o área de faenas del puerto de Valparaíso. Zona A 2 corresponde a la franja litoral de preservación
+Para los efectos de aplicar la presente Ordenanza, el área urbana de Valparaíso se divide en las siguientes zonas, las que se encuentran graficadas en el Plano PRV- O1: Zona A 1 corresponde a la zona costera portuaria o área de faenas del puerto de Valparaíso. La delimitación de esta Zona corresponde a la ZONA PORTUARIA - P1 definida por el Plan Intercomunal (Plano MPIV 01 / 4 Nº 02), cuyo deslinde oriente es la prolongación hacia el malecón de la vereda poniente de la calle Edwards. (Puntos G-H). Zona A 2 corresponde a la franja litoral de preservación
 
 del medio ambiente costero
 
@@ -1816,9 +1856,15 @@ Zona A 3 corresponde a la zona costera de equipamiento
 
 complementario al puerto, de usos mixtos.
 
+Zona A3.1 corresponde a equipamiento urbano costero y sus límites se definen en el plano por la franja que prolonga paralelamente el Borde Norte de Av.
+
+Errázuriz en un ancho variable por el costado norte de la Bodega Simón Bolívar, hasta el deslinde con la actual Zona A3. (Puntos HH'JI'I).
+
 Zona B 1 corresponde a la zona del plan con muy alta
 
 intensidad de ocupación del suelo.
+
+Zona B1.1 corresponde a la Zona del plan con alta intensidad de uso de suelo, y sus límites se definen como prolongación del deslinde norte de la Zona B1 hasta la Av. Argentina, en forma coincidente con el límite sur de la Zona A3.1 (Puntos H'GJ)
 
 Zona B 2 corresponde a la zona del plan con alta
 
@@ -2034,6 +2080,68 @@ b.4 Estacionamientos: Regirá lo dispuesto en los
 
 artículos 8° y 9° de la presente Ordenanza.
 
+Zona A3.1
+
+a) Condiciones de uso de suelo:
+
+a.1 Usos permitidos:
+
+. Tipo Equipamiento: Clases: Culto y Cultura;
+
+Científico; Comercio; Deporte; Esparcimiento;
+
+Servicios;
+
+. Tipo Residencial: Hoteles y servicios conexos (bares, restaurantes y otros).
+
+. Tipo Infraestructura: De transporte ferroviario, portuario, pesquero y sus servicios.
+
+. Espacios públicos y áreas verdes.
+
+a.2 Usos prohibidos
+
+Todos los no especificados anteriormente y en especial;
+
+Tipo Residencial: Vivienda, Tipo actividades productivas Tipo Infraestructura: aeroportuaria; sanitaria de mayor envergadura conforme a Art. 2.1.29 OGU y C.
+
+Tipo Equipamiento: Clase Seguridad; clase Social;
+
+clase Educación y clase Salud.
+
+Clase Comercio: Estaciones de servicios o centros de servicio automotor.
+
+b.1. Subdivisión predial mínima: 2.000 m²
+
+b.2. Alturas máximas: según Areas V que correspondan b.3. Sistema de agrupamiento y ocupación suelo:
+
+Continuidad: 80% Aislado a nivel de suelo: 50%.
+
+No se acepta edificación aislada sobre la continuidad.
+
+b.4. Distanciamientos: Las edificaciones que enfrenten Avenida España, deberán emplazarse perpendiculares a la Avenida, con un distanciamiento mínimo entre ellas de 15 m.
+
+Las edificaciones que enfrenten a la Bodega Simón Bolívar deberán distanciarse de ella en la siguiente forma:
+
+* paralelamente a la Bodega: 10 m (salvo en los sectores donde se proyecten atraviesos que la comuniquen con las edificaciones cercanas y que requieran adosamientos, los que deberán ser justificados por la memoria de intervención);
+
+* transversalmente entre ellas y en sentido perpendicular al mar. 15 m.
+
+Las edificaciones que enfrenten el Paseo Costanera deberán distanciarse 25 m mínimo a los ejes de las calles entre Edwards y Freire.
+
+b.5. Estacionamientos: Serán obligatoriamente subterráneos tanto bajo los espacios de uso privado como de uso público y cumplirán los estándares del Art. 8 de la Ordenanza local del Plan Regulador Comunal.
+
+c) Edificaciones sobre espacios públicos: Podrán permitirse edificaciones sobre el Paseo Costanera y hasta el mar y en terrenos ganados al mar siempre que estas edificaciones tengan por objeto:
+
+habilitar equipamientos relacionados con el uso del mar o con las actividades culturales que conformen el Parque urbano Marítimo;
+
+- tengan una altura de 6 m sobre el Paseo;
+
+- mantengan la altura permitida, y
+
+- permitan el acceso público a dichos
+
+equipamientos.
+
 Zona B.1.
 
 a. Condiciones de Uso del Suelo.
@@ -2141,6 +2249,62 @@ Dirección del Tránsito, que considere el carácter
 comercial y peatonal de dichas vías, además del carácter
 
 patrimonial de las edificaciones que las conforman.
+
+Zona B1-1
+
+a) Condiciones de uso de suelo:
+
+a.1 Usos permitidos:
+
+Tipo Residencial: Hoteles, hospedajes y servicios conexos;
+
+La vivienda sólo se permitirá a partir del segundo nivel, siendo obligatorio en primer nivel el comercio y equipamientos de servicios relacionados con ella, tales como parvularios, servicios profesionales, artesanales, y otros de nivel menor.
+
+Tipo Equipamiento: Educación; Culto y Cultura;
+
+Científico; Comercio; Servicios profesionales;
+
+Deporte; Esparcimiento; Social.
+
+Infraestructura: Portuaria, ferroviaria y estaciones, de transporte terrestre y marítimo, helipuertos;
+
+Espacios públicos y áreas verdes.
+
+a.2. Usos prohibidos:
+
+Tipo Residencial: vivienda en 1er. piso;
+
+Tipo actividades productivas molestas y peligrosas;
+
+Tipo infraestructura aeroportuaria y sanitaria mayor conforme a lo descrito en el Art. 2.1.29 O.G.U. y C.;
+
+Tipo Equipamiento: Clase Salud; clase Seguridad;
+
+clase Educación: básica, media, especial;
+
+b) Condiciones de edificación y subdivisión:
+
+b.1. Condiciones de subdivisión predial mínima: 1.000 m²
+
+b.2. Alturas máximas: según Areas V que correspondan
+
+b.3. Sistema de Agrupamiento y ocupación suelo:
+
+Continuo: 80%
+
+Aislado a nivel de suelo: 50%.
+
+No se acepta la edificación aislada sobre la continuidad.
+
+b.4. Distanciamientos
+
+Las edificaciones que enfrenten la Avenida Errázuriz deberán mantener, paralelamente a la línea imaginaria resultante de la prolongación de los ejes de las calles de la trama del Almendral, una distancia de 15 metros como mínimo entre ellas y emplazarse en forma perpendicular a dicha avenida.
+
+b.5. Estacionamientos: Serán obligatoriamente subterráneos tanto bajo los espacios de uso privado como de uso público y cumplirán los estándares del Art. 8 PRV.
+
+No obstante lo anterior podrán permitirse estacionamientos interiores sobre nivel de suelo sin frente a la calle; el frente a la calle deberá ser utilizado obligatoriamente por comercio.
+
+b.6. Densidad: neta máxima: 1200 Habs/Há.
 
 Zona B.2
 
@@ -3517,6 +3681,10 @@ d. Martínez Cruz Ruta 68 - Límite Urbano
 en sur
 
 tramo M - N 15 m.
+
+Decláranse de utilidad pública los espacios destinados a las Ventanas Urbanas (plazas) de Av. Argentina y Av. Francia, Paseo Costanera, y la vialidad interior, conformada por la prolongación de la calle Simón Bolívar hasta el Paseo Costanera y la Avenida Bicentenario, graficados en el plano PRV-BC-01, y sus perfiles.
+
+Sólo para los efectos de determinar la escala de los equipamientos que se enfrenten a las vías, y en conformidad a lo dispuesto por el Art. 2.1.36 O. G. U. y C., se considerará que ellas tienen la calidad de vía troncal.
 
 #### Artículo 3º
 
