@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero, mediante Resolución Exenta N° 673 de 20 de Mayo de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predios "Parte o Porción de 220 H s. de la Hijuela Tercera o San Guillermo de Quiñipeumo", "Hijuela Fundo El Carmen" "Hijuela Número Cinco" parte de la Parcela Siete del Fundo El Carmen y parte de la propiedad ubicada en San Antonio, ubicada en la parte Central Oriente de la Propiedad Hijuela Fundo El Carmen de la comuna de Linares, VII Región; y Derechos Aprovechamiento Aguas que corresponden a Parcelas N°s 1 a la 9, sitios 1 al 17 y Reservas Ceras 1 y 2 del Proyecto de Parcelación "La Ballica" formado por predios. señalados, Los Derechos de Agua se extraen del canal Melado y de los Esteres Quiuquenes y Lliu-Lliu.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
