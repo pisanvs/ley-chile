@@ -1,0 +1,2543 @@
+APRUEBA NUEVA LEY GENERAL DE URBANISMO Y CONSTRUCCIONES
+
+Santiago, 18 de Diciembre de 1975.- Hoy se dictó el siguiente decreto:
+
+Núm. 458.- Vistos: las facultades que el decreto ley N° 602, de 5 de Agosto de 1974, otorgó al Ministerio de la Vivienda y Urbanismo para fijar los textos definitivos de las leyes relativas a construcciones y urbanización,
+
+Decreto:
+
+El nuevo texto de la Ley General de Construcciones y Urbanización será el siguiente:
+
+LEY GENERAL DE URBANISMO Y CONSTRUCCIONES
+
+## Título I
+
+Disposiciones Generales
+
+## Capítulo I
+
+Normas de Competencia
+
+#### Artículo 1°
+
+Las disposiciones de la presente ley, relativas a planificación urbana, urbanización y construcción , y las de la Ordenanza que sobre la materia dicte el Presidente de la República, regirán en todo el territorio nacional.
+
+#### Artículo 2°
+
+Esta legislación de carácter general tendrá tres niveles de acción:
+
+La Ley General, que contiene los principios, atribuciones, potestades, facultades, responsabilidades, derechos, sanciones y demás normas que rigen a los organismos, funcionarios, profesionales y particulares, en las acciones de planificación urbana, urbanización y construcción.
+
+La Ordenanza General, que contiene las disposiciones reglamentarias de esta ley y que regula el procedimiento administrativo, el proceso de planificación urbana, urbanización y construcción, y los standards técnicos de diseño y construcción exigibles en los dos últimos.
+
+Las Normas Técnicas, que contienen y definen las características técnicas de los proyectos, materiales y sistemas de construcción y urbanización, de acuerdo a los requisitos de obligatoriedad que establece la Ordenanza General. Las normas técnicas de aplicación obligatoria deberán publicarse en internet y mantenerse a disposición de cualquier interesado de forma gratuita.
+
+#### Artículo 2 bis
+
+La Ordenanza General de Urbanismo y Construcciones podrá especificar los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones o permisos señalados en la presente ley, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y a las normas establecidas en los artículos 9 y siguientes de dicha ley.
+
+#### Artículo 3°
+
+Al Ministerio de Vivienda y Urbanismo corresponderá proponer al Presidente de la República las modificaciones que esta Ley requiera para adecuarla al desarrollo nacional.
+
+Le corresponderá, igualmente, estudiar las modificaciones que requiera la Ordenanza General de esta Ley, para mantenerla al día con el avance tecnológico y desarrollo socio-económico, las que se aprobarán por decreto supremo.
+
+Para los efectos indicados, podrá oir a los respectivos Colegios Profesionales y asesorarse por los técnicos que estime conveniente.
+
+Le corresponderá, también, aprobar por decreto supremo las Normas Técnicas que confeccionare el Instituto Nacional de Normalización y las normas sobre pavimentación.
+
+El decreto supremo mencionado en el inciso precedente se dictará por el Ministerio de Vivienda y Urbanismo, por orden del Presidente de la República.
+
+#### Artículo 4
+
+Al Ministerio de Vivienda y Urbanismo corresponderá, a través de la División de Desarrollo Urbano, interpretar las disposiciones de esta ley y su Ordenanza General, así como impartir las instrucciones que sean necesarias para su aplicación mediante circulares, que deberán mantenerse a disposición de cualquier interesado en el sitio electrónico institucional. Dicho ministerio deberá publicar en el Diario Oficial, dentro de los diez primeros días hábiles de cada mes, un aviso en que informe las circulares que se hayan emitido, modificado o derogado, según sea el caso, con indicación de la fecha en que fueron publicadas en el sitio electrónico institucional. Asimismo, a través de las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, deberá supervigilar las disposiciones legales, reglamentarias, administrativas y técnicas sobre construcción y urbanización e interpretar las disposiciones de los instrumentos de planificación territorial mediante resolución. Para el cumplimiento de esta función, las secretarías regionales ministeriales de oficio, a solicitud de parte o de otro órgano de la Administración del Estado, podrán requerir el pronunciamiento previo de la División de Desarrollo Urbano en las materias de su competencia.
+
+En el marco de las facultades indicadas en el inciso precedente, la División de Desarrollo Urbano o las secretarías regionales ministeriales, según corresponda, deberán requerir informe a los órganos de la Administración del Estado con competencia en la materia de conformidad con el artículo 37 bis de la ley Nº 19.880, de ser procedente.
+
+Las interpretaciones de los instrumentos de planificación territorial que las secretarías regionales ministeriales emitan en el ejercicio de las facultades señaladas en este artículo deberán evacuarse dentro de los plazos que señale la Ordenanza General y mantenerse a disposición de cualquier interesado en el sitio electrónico de la respectiva Secretaría Regional Ministerial.
+
+Las interpretaciones emitidas por la División de Desarrollo Urbano y las Secretarías Regionales Ministeriales de Vivienda y Urbanismo en el ámbito de sus competencias serán obligatorias para la aplicación de la norma o texto interpretado. Los cambios que puedan producirse en dichas interpretaciones sólo producirán efectos en los casos ocurridos con posterioridad a la publicación de la nueva interpretación en el respectivo sitio electrónico, sin afectar situaciones acaecidas durante la vigencia de la interpretación sustituida.
+
+#### Artículo 5°
+
+A las Municipalidades corresponderá aplicar esta ley, la Ordenanza General, las Normas Técnicas y demás Reglamentos, en sus acciones administrativas relacionadas con la planificación urbana, urbanización y construcción, y a través de las acciones de los servicios de utilidad pública respectivos, debiendo velar, en todo caso, por el cumplimiento de sus disposiciones.
+
+#### Artículo 6°
+
+A los Intendentes y Gobernadores corresponderá supervigilar que los bienes nacionales de uso público se conserven como tales, impedir su ocupación con otros fines y exigir su restitución, en su caso, conforme a sus facultades.
+
+#### Artículo 7°
+
+Las disposiciones de la presente ley prevalecerán sobre cualquiera otra que verse sobre las mismas materias, sin perjuicio de las disposiciones que contenga el Decreto Ley de Reestructuración del Ministerio de Vivienda y Urbanismo. En consecuencia, se entenderán derogadas las disposiciones de otras leyes que fueren contrarias a las de la presente ley.
+
+## Capítulo II
+
+De los funcionarios
+
+#### Artículo 8°
+
+En todas las Municipalidades se consultará el cargo de Director de Obras, que deberá ser desempeñado por un profesional con título universitario.
+
+En aquellas comunas que tengan más de 40.000 habitantes, este cargo deberá ser desempeñado por un arquitecto o ingeniero civil; en las demás comunas podrá serlo, además, un constructor civil. Para desempeñar el cargo se requerirá, además, ser miembro activo inscrito en el Colegio Profesional respectivo. Ningún otro funcionario municipal podrá ejercer estas funciones.
+
+Cuando no hubiere oponentes al cargo, o cuando los ingresos municipales no fueren suficientes para costearlo, la Municipalidad deberá contratar, por un periodo determinado, los servicios de un profesional particular o que desempeñe otro cargo en la misma comuna o provincia. La remuneración por estos servicios se fijará de acuerdo al arancel de honorarios del Colegio respectivo, y será compatible con la de otros cargos que desempeñe.
+
+#### Artículo 9°
+
+Serán funciones del Director de Obras:
+
+a) Estudiar los antecedentes, dar los permisos de ejecución de obras, conocer de los reclamos durante las faenas y dar recepción final de ellas, todo de acuerdo a las disposiciones sobre construcción contempladas en esta ley, la Ordenanza General, los Planes Reguladores, sus Ordenanzas Locales y las Normas y Reglamentos respectivos aprobados por el Ministerio de la Vivienda y Urbanismo;
+
+b) Dirigir las construcciones municipales que ejecute directamente el Municipio, y supervigilar estas construcciones cuando se contraten con terceros.
+
+#### Artículo 10
+
+Las municipalidades que cuenten con Plan Regulador Comunal, y cuya comuna tenga un centro urbano con más de 50.000 habitantes, deberán contemplar el cargo de Asesor Urbanista. Éste deberá poseer un título universitario correspondiente a una carrera de, al menos, diez semestres o grado académico y podrá ser desempeñado por un profesional con formación afín en materias de planificación urbana.
+
+Serán funciones del Asesor Urbanista:
+
+a) Estudiar el Plan Regulador Urbano- Comunal y mantenerlo actualizado, propiciando las modificaciones que sean necesarias, y preparar los Planos Seccionales de detalle para su aplicación;
+
+b) Revisar todos los planos de subdivisión, loteo y urbanización, cautelando su estricta concordancia con las disposiciones del Plan Regulador y su Ordenanza Local, y autorizar los "conjuntos armónicos".
+
+En este sentido, será condición previa el informe favorable del Asesor Urbanista, para que la Dirección de Obras pueda extender los permisos de subdivisión, loteo, urbanización y "conjuntos armónicos", y
+
+c) Estudiar los programas anuales de desarrollo comunal para la materialización de los Planes Reguladores, y que faciliten la confección del presupuesto de inversiones de capital de la comuna.
+
+#### Artículo 11°
+
+A falta del Director de Obras los permisos, autorizaciones y certificados establecidos en esta ley o en leyes especiales, incluidas las solicitudes para acogerse al régimen de copropiedad inmobiliaria, serán otorgados por la Secretaría Regional correspondiente del Ministerio de la Vivienda y Urbanismo. En estos casos, la Municipalidad sólo cobrará el 50% de los derechos correspondientes.
+
+#### Artículo 12
+
+La Secretaría Regional correspondiente del Ministerio de Vivienda y Urbanismo resolverá las reclamaciones interpuestas por particulares interesados en contra de las resoluciones dictadas por el Director de Obras Municipales y de los rechazos señalados en el inciso tercero del artículo 118, por contravenir las disposiciones legales, reglamentarias y administrativas sobre construcción y urbanización contenidas en esta ley, su Ordenanza General o los instrumentos de planificación territorial, o normas técnicas de aplicación obligatoria.
+
+#### Artículo 13°
+
+Prohíbese a los funcionarios municipales intervenir en los estudios o la ejecución, por cuenta de particulares, de las obras a que se refiere la presente ley, dentro de la comuna en que ejercen sus funciones, cuando éstas deban ser aprobadas por el Departamento Municipal donde ellos trabajan. Se exceptúan de esta prohibición los proyectos u obras relacionados con predios que pertenezcan, en dominio, al empleado o a sus parientes hasta el 4° grado de consanguinidad o 2° de afinidad, inclusive, debiendo en estos casos, obtenerse previamente una autorización especial de la Alcaldía.
+
+Los funcionarios que contravengan la prohibición anterior serán sancionados por el Alcalde, hasta con su destitución, previa instrucción del sumario correspondiente.
+
+#### Artículo 14°
+
+Los Directores de Obras y Asesores Urbanistas deberán representar al Secretario Regional de Vivienda y Urbanismo y a la Contraloría General de la República las acciones ilegales del Municipio, que vulneren las disposiciones legales y reglamentarias que les corresponde aplicar.
+
+#### Artículo 15
+
+Si la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, o las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, en el desempeño de sus labores o por denuncia fundada de cualquier persona, tuvieren conocimiento de que algún funcionario, en el ejercicio de sus funciones, ha contravenido las disposiciones de esta ley, de su ordenanza general o de aquellas contenidas en los instrumentos de planificación territorial vigentes en la comuna, deberán solicitar la instrucción del correspondiente sumario administrativo a la Contraloría General de la República, debiendo informar de ello al Alcalde respectivo, para los efectos legales a que haya lugar y al Concejo Municipal, para su conocimiento.
+
+> **Nota.** El Art. Transitorio de la LEY 19472, publicada el 16.09.1996, dispuso su vigencia noventa días después de su publicación.
+
+## Capítulo III
+
+De los profesionales
+
+#### Artículo 16°
+
+Toda obra sometida a las disposiciones de la presente ley deberá ser proyectada y ejecutada por profesionales legalmente autorizados para ello, de acuerdo a las normas que señale la Ordenanza General.
+
+#### Artículo 17
+
+Para los efectos de la presente Ley, son arquitectos, ingenieros civiles, ingenieros constructores y constructores civiles, las personas que se encuentran legalmente habilitadas para ejercer dichas profesiones, quienes serán responsables por sus acciones u omisiones en el ámbito de sus respectivas competencias.
+
+La intervención de estos profesionales en una construcción requerirá acreditar que cuentan con patente vigente en la comuna de su residencia o trabajo habitual.
+
+#### Artículo 18
+
+El propietario primer vendedor de una construcción será responsable por todos los daños y perjuicios que provengan de fallas o defectos en ella, sea durante su ejecución o después de terminada, sin perjuicio de su derecho a repetir en contra de quienes sean responsables de las fallas o defectos de construcción que hayan dado origen a los daños y perjuicios. En el caso de que la construcción no sea transferida, esta responsabilidad recaerá en el propietario del inmueble respecto de terceros que sufran daños o perjuicios como consecuencia de las fallas o defectos de aquélla.
+
+El arquitecto que realice el proyecto de arquitectura deberá cumplir con todas las normas legales, reglamentarias y técnicas aplicables a dicho proyecto y será responsable por los errores en que haya incurrido en el ejercicio de sus funciones cuando de aquellos se han derivado daños o perjuicios.
+
+El profesional competente que realice el proyecto de cálculo estructural, incluidos los planos, la memoria de cálculo y las especificaciones técnicas, será responsable de cumplir con todas las normas aplicables a estas materias y por los errores en que haya incurrido en el ejercicio de sus funciones cuando de aquellos se han derivado daños o perjuicios.
+
+El profesional competente que realice el estudio de mecánica de suelos y/o los proyectos de socalzado y entibación será responsable de cumplir con todas las normas aplicables a estas materias y por los errores en que haya incurrido en el ejercicio de sus funciones cuando de aquellos se han derivado daños o perjuicios.
+
+Sin perjuicio de lo establecido en el N° 3 del artículo 2003 del Código Civil, los constructores serán responsables por las fallas, errores o defectos en la construcción, incluyendo las obras ejecutadas por subcontratistas y el uso de materiales o insumos defectuosos, sin perjuicio de las acciones legales que puedan interponer a su vez en contra de los proveedores, fabricantes y subcontratistas.
+
+El inspector técnico de obra (ITO) será responsable de supervisar que las obras se ejecuten conforme a las normas de construcción aplicables en la materia y al permiso de construcción aprobado y sus modificaciones, así como al proyecto de arquitectura correspondiente, el proyecto de cálculo estructural y su memoria, y los proyectos de especialidades, incluidos los planos y especificaciones técnicas correspondientes.
+
+Respecto de las responsabilidades, daños y perjuicios a que se refiere este artículo, las personas jurídicas serán solidariamente responsables con el profesional competente que actúe por ellas como arquitecto, ingeniero civil, ingeniero constructor o constructor civil, los que deberán individualizarse en el respectivo permiso de construcción.
+
+El propietario primer vendedor estará obligado a incluir en la escritura pública de compraventa, una nómina que contenga la individualización del arquitecto que realizó el proyecto de arquitectura, del profesional que realizó el proyecto de cálculo estructural, del profesional a cargo de la obra, de los profesionales a cargo de los proyectos de especialidades, así como del inspector técnico de obra (ITO), del revisor independiente de obras de construcción, del revisor del proyecto de cálculo estructural y del profesional a cargo de la elaboración del plan de emergencia, cuando corresponda, a quienes pueda asistir responsabilidad de acuerdo a esta ley. Tratándose de personas jurídicas deberá individualizarse a sus representantes legales. Las condiciones ofrecidas en la publicidad y la información que se entregue al comprador se entenderán incorporadas al contrato de compraventa. Tal información deberá expresar claramente la superficie total y útil de la o las unidades que se están ofertando, la de sus terrazas, bodegas y estacionamientos. Los planos y las especificaciones técnicas, definitivos, como asimismo el Libro de Obras a que se refiere el artículo 143, se mantendrán en un archivo en la Dirección de Obras Municipales a disposición de los interesados.
+
+La responsabilidad civil a que se refiere este artículo, tratándose de personas jurídicas que se hayan disuelto, se hará efectiva respecto de quienes eran sus representantes legales a la fecha de celebración del contrato.
+
+Las acciones para hacer efectivas las responsabilidades a que se refiere este artículo prescribirán en los plazos que se señalan a continuación:
+
+1. En el plazo de diez años, en el caso de fallas o defectos que afecten a la estructura soportante del inmueble.
+
+2. En el plazo de cinco años, cuando se trate de fallas o defectos de los elementos constructivos o de las instalaciones.
+
+3. En el plazo de tres años, si hubiesen fallas o defectos que afecten a elementos de terminaciones o de acabado de las obras.
+
+En los casos de fallas o defectos no incorporados expresamente en los numerales anteriores o que no sean asimilables o equivalentes a los mencionados en éstos, las acciones prescribirán en el plazo de cinco años.
+
+Los plazos de prescripción se contarán desde la fecha de la recepción definitiva de la obra por parte de la Dirección de Obras Municipales, con excepción del señalado en el número 3, que se contará a partir de la fecha de la inscripción del inmueble a nombre del comprador en el Conservador de Bienes Raíces respectivo.
+
+> **Nota.** El Art. Transitorio de la LEY 19472, publicada el 16.09.1996, dispuso su vigencia noventa días después de su publicación.
+
+> **Nota.** NOTA: 1 El Artículo Transitorio de la LEY 20016, publicada el 27.05.2005, dispone que las modificaciones introducidas a la presente norma, entrarán en vigencia noventa días después de su publicación en el Diario Oficial y que estas modificaciones sólo se aplicarán a los permisos y autorizaciones que ingresen a tramitación con posterioridad a su entrada en vigencia.
+
+#### Artículo 19
+
+Las causas a que dieren lugar las acciones a que se refiere el artículo anterior, se tramitarán conforme con las reglas del procedimiento sumario establecido en el Título XI del Libro III del Código de Procedimiento Civil.
+
+Con todo, las partes podrán someter las controversias a la resolución de un árbitro de derecho que, en cuanto al procedimiento, tendrá las facultades de arbitrador a que se refiere el artículo 223 del Código Orgánico de Tribunales. El árbitro deberá ser designado por el juez letrado competente y tener, a lo menos, cinco años de ejercicio profesional.
+
+En caso de que el inmueble de que se trata comparta un mismo permiso de edificación y presente fallas o defectos de los señalados en el artículo anterior, será aplicable el procedimiento especial para protección del interés colectivo o difuso de los consumidores establecido en el Párrafo 2° del Título IV de la ley N° 19.496, con las siguientes salvedades:
+
+1.- Será competente para conocer de estas demandas el juez de letras correspondiente a la ubicación del inmueble de que se trate.
+
+2.- El número de consumidores afectados bajo un mismo interés a que se refiere la letra c) del N° 1 del artículo 51 de la ley N° 19.496 no podrá ser inferior a 6 propietarios.
+
+3.- No regirá lo dispuesto en los artículos 51 N°9, 52 y 53 de la ley N° 19.496.
+
+4.- Las indemnizaciones podrán extenderse al lucro cesante y al daño moral. Tanto éste como la especie y monto de los perjuicios adicionales sufridos individualmente por cada demandante serán determinados de acuerdo a lo establecido en los incisos segundo y tercero del artículo 54 C de la ley N° 19.496. Mientras se sustancia el juicio quedará suspendido el plazo para demandar este daño.
+
+5.- La sentencia definitiva producirá efectos respecto de todas las personas que tengan el mismo interés colectivo. Aquellas personas a quienes les empece la sentencia definitiva pero que no hayan ejercido la acción podrán acreditar el interés común en conformidad al inciso primero del artículo 54 C de la ley N° 19.496, previo abono de la proporción que les correspondiere en las costas personales y judiciales en que hayan incurrido las personas que ejercieron la acción.
+
+6.- En caso de no ser habido el demandado, se podrá practicar la notificación de la demanda conforme a lo establecido en el artículo 44 del Código de Procedimiento Civil, en el domicilio que haya señalado el propietario primer vendedor en las escrituras de compraventa suscritas con los demandantes y, en caso de ser varios, en cualquiera de ellos.
+
+7.- Se acumularán al juicio colectivo los juicios individuales que se hubieren iniciado, a menos que en éstos se haya citado a las partes para oír sentencia.
+
+8.- Acogida total o parcialmente la demanda deberán imponerse las costas a la parte demandada y, si son varios los demandados, corresponderá al tribunal determinar la proporción en que deberán pagarlas.
+
+9.- Serán aprobadas por el tribunal las propuestas de conciliación para poner término al proceso formuladas por la parte demandada, siempre que ellas cuenten con la aceptación de los dos tercios de los demandantes, que se ofrezcan garantías razonables del efectivo cumplimiento de las obligaciones que se contraen, si no fueren de ejecución instantánea y que no se contemplen condiciones discriminatorias para alguno de los actores.
+
+10.- En los contratos que se perfeccionen a partir de la publicación de esta ley no será impedimento para demandar colectivamente el que se haya pactado compromiso de arbitraje, el cual quedará sin efecto por el solo hecho de la presentación de la demanda colectiva.
+
+> **Nota.** El Art. Transitorio de la LEY 19472, publicada el 16.09.1996, dispuso su vigencia noventa días después de su publicación.
+
+## Capítulo IV
+
+De las sanciones
+
+#### Artículo 20
+
+Toda infracción a las disposiciones de esta ley, a su ordenanza general y los instrumentos de planificación territorial que se apliquen en las respectivas comunas, será sancionada con multa, a beneficio municipal, no inferior a un 0,5% ni superior al 20% del presupuesto de la obra, a que se refiere el artículo 126 de la presente ley. En caso de no existir presupuesto, el juez podrá disponer la tasación de la obra por parte de un perito o aplicar una multa que no será inferior a una ni superior a cien unidades tributarias mensuales. Todo lo anterior es sin perjuicio de la paralización o demolición de todo o parte de la obra, según procediere, a menos que el hecho sea constitutivo de delito o tenga una sanción especial determinada en esta ley o en otra.
+
+La municipalidad que corresponda, la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva o cualquier persona podrán denunciar ante el Juzgado de Policía Local correspondiente, el incumplimiento de las disposiciones aludidas en el inciso anterior. La denuncia deberá ser fundada y acompañarse de los medios probatorios de que se disponga.
+
+Las acciones relativas a las infracciones a que se refiere este artículo, prescribirán al momento de la recepción de la obra por parte de la Dirección de Obras Municipales. No obstante, si la obra no requiere contar con permiso de construcción para su ejecución, tales acciones prescribirán en el plazo de un año, contado desde la comisión de la infracción.
+
+> **Nota.** El Art. Transitorio de la LEY 19472, publicada el 16.09.1996, dispuso su vigencia noventa días después de su publicación.
+
+> **Nota.** NOTA: 1 El Art. Transitorio de la LEY 20016, publicada el 27.05.2005, dispone que las modificaciones que introduce a la presente norma, comenzarán a regir noventa días después de su publicación.
+
+#### Artículo 21
+
+Las infracciones a las disposiciones de esta ley, de su ordenanza general y de los instrumentos de planificación territorial serán de conocimiento del Juez de Policía Local respectivo. Tratándose de la responsabilidad de las personas jurídicas se estará a lo dispuesto en el artículo 28 de la ley N° 18.287. En caso de disolución, mientras esté pendiente el plazo de prescripción, las acciones se seguirán en contra de los que eran sus representantes legales a la fecha de la infracción.
+
+> **Nota.** El Art. Transitorio de la LEY 19472, publicada el 16.09.1996, dispuso su vigencia noventa días después de su publicación.
+
+#### Artículo 22°
+
+Los funcionarios fiscales y municipales serán civil, criminal y administrativamente responsables de los actos, resoluciones u omisiones ilegales que cometan en la aplicación de esta ley.
+
+#### Artículo 23°
+
+El Ministerio de Vivienda y Urbanismo o los Secretarios Regionales del mismo podrán requerir del Consejo de Defensa del Estado la iniciación de las acciones criminales que procedan, cuando comprobaren que el Alcalde de una Municipalidad ha incurrido en violaciones de las disposiciones de la presente ley, su Ordenanza General u Ordenanzas Locales, sin que sea necesaria, para estos efectos, la declaración previa de ilegalidad de los decretos del Alcalde.
+
+Será causal de remoción de los Alcaldes el incumplimiento de las obligaciones que impone la presente ley, especialmente en los casos de interferencia en el procedimiento de denuncia y sanciones contemplado en este Capítulo.
+
+#### Artículo 24°
+
+Los notarios y Conservadores de Bienes Raíces que otorgaren escrituras o efectuaren inscripciones en sus registros en contravención a las disposiciones de esta ley y de las Ordenanzas incurrirán en la pena de suspensión de su oficio hasta el término de seis meses, sin perjuicio de las responsabilidades civiles que pudieren afectarles. La suspensión será decretada por la Corte de Apelaciones respectiva.
+
+#### Artículo 25
+
+El Ministerio de Vivienda y Urbanismo, respecto de las viviendas que cuenten con financiamiento estatal para su construcción o adquisición, deberá disponer, para cada programa, en la forma que el respectivo reglamento determine, los mecanismos que aseguren la calidad de la construcción.
+
+En estos mismos casos, los Servicios de Vivienda y Urbanización, directamente o a través de terceros, podrán hacerse parte en las causas a que dieren lugar las acciones a que se refiere el inciso final del artículo 18.
+
+> **Nota.** El Art. Transitorio de la LEY 19472, publicada el 16.09.1996, dispuso su vigencia noventa días después de su publicación.
+
+#### Artículo 26
+
+DEROGADO.-
+
+> **Nota.** El Art. Transitorio de la LEY 19472, publicada el 16.09.1996, dispuso su vigencia noventa días después de su publicación.
+
+## Título II
+
+De la Planificación Urbana
+
+## Capítulo I
+
+Definiciones
+
+#### Artículo 27°
+
+Se entenderá por Planificación Urbana, para los efectos de la presente ley, el proceso que se efectúa para orientar y regular el desarrollo de los centros urbanos en función de una política nacional, regional y comunal de desarrollo social, económico, cultural y medioambiental, la que debe contemplar, en todos sus niveles, criterios de integración e inclusión social y urbana.
+
+Los objetivos y metas que dicha política nacional establezca para el desarrollo urbano serán incorporados en la planificación urbana en todos sus niveles.
+
+En los nuevos instrumentos de planificación territorial y en las modificaciones integrales o actualizaciones que deban efectuarse de los existentes conforme al artículo 28 sexies, se deberán contemplar normas urbanísticas u otras exigencias o disposiciones que resguarden o incentiven la construcción, habilitación o reconstrucción de viviendas de interés público.
+
+Las viviendas de interés público corresponden a aquéllas destinadas a hogares que, en atención a su condición de vulnerabilidad socioeconómica o derivada de otros factores, requieren apoyos estatales u otras medidas de colaboración o impulso que les permitan acceder a una solución habitacional adecuada, sea ésta temporal o definitiva. En esta categoría se encuentran tanto los proyectos que financie, impulse o fomente el Ministerio mediante los programas habitacionales, como también aquellos proyectos destinados a la población que podría ser beneficiada con dichos programas que sean impulsados por cooperativas de vivienda, personas jurídicas sin fines de lucro, entidades privadas, o por otros órganos de la Administración del Estado, en el marco de sus funciones y competencias.
+
+Con el objeto de evitar o revertir la segregación urbana de las viviendas de interés público, especialmente de aquellas destinadas a las familias más vulnerables, las disposiciones que se incluyan en los planes reguladores deberán promover el acceso equitativo de la población a bienes públicos urbanos relevantes, tales como la cercanía a ejes estructurantes de movilidad, el acceso a servicios de transporte público o la disponibilidad de espacios públicos, áreas verdes o equipamientos de interés público, como educación, salud, servicios, comercio, deporte y cultura.
+
+En la incorporación de normas de resguardo o de incentivo en los planes reguladores deberá garantizarse la participación de la comunidad. Asimismo, las referidas normas deberán ser coherentes con los antecedentes de diagnóstico que formen parte de la respectiva memoria explicativa, con el objeto que el instrumento de planificación territorial permita enfrentar, de manera efectiva y oportuna, el déficit habitacional existente.
+
+La Ordenanza General podrá establecer mecanismos de reporte y seguimiento periódico, con el objeto de revisar si las disposiciones para enfrentar el déficit habitacional y para resguardar o promover la integración social y urbana, incluidas en el respectivo plan por el gobierno regional o la municipalidad, están generando los efectos esperados o si requieren ser ajustadas o modificadas por dichos órganos.
+
+#### Artículo 27 bis
+
+La Política Nacional a la que se refiere el artículo anterior tendrá en consideración las necesidades de las personas, con especial énfasis en las circunstancias que puedan afectarles durante todo el curso de vida, particularmente en atención a su sexo, edad o situación de discapacidad, e impulsará la generación de espacios públicos seguros y accesibles para éstas mediante la planificación territorial y su diseño y gestión, y la incorporación de elementos de prevención situacional que procuren la visibilidad y la seguridad.
+
+#### Artículo 27 ter
+
+El proceso de planificación urbana que se efectúe a través de la elaboración o modificación de un instrumento de planificación territorial se iniciará por medio de un acto administrativo y contemplará tres etapas: preparación, diseño y aprobación.
+
+La etapa de preparación comenzará con el acto de inicio; la etapa de diseño lo hará con la elaboración del diagnóstico territorial; y la etapa de aprobación con el acuerdo del consejo regional o concejo municipal para iniciar el proceso de consulta pública del anteproyecto, conforme con lo establecido en el artículo 36 o en el artículo 43, según corresponda. En los casos regulados en el inciso noveno de este artículo, el acto de inicio dará comienzo a la formulación del anteproyecto dentro de la etapa de diseño.
+
+La autoridad encargada de la elaboración o modificación del instrumento deberá dictar el acto de inicio del proceso, previo acuerdo del consejo regional o del concejo municipal, según se trate de un instrumento de planificación territorial de nivel intercomunal o comunal. Dicho acto administrativo contendrá, al menos, los siguientes antecedentes:
+
+a) La singularización del instrumento de que se trata y su ámbito de aplicación territorial.
+
+b) La justificación sobre la necesidad de llevar a cabo el procedimiento.
+
+c) Las temáticas generales preliminares que se abordarán en el proceso de planificación.
+
+d) Un cronograma estimativo del procedimiento hasta la promulgación del instrumento.
+
+e) Los demás antecedentes que señale la Ordenanza General de Urbanismo y Construcciones.
+
+f) La singularización de la imagen objetivo y los términos en que se elaborará el anteproyecto, junto con la individualización de los informes técnicos favorables y el acuerdo del consejo regional o del concejo municipal respectivos, en los casos que corresponda de acuerdo con el inciso noveno.
+
+El acto administrativo de inicio deberá publicarse en el sitio electrónico de la autoridad encargada a que se refiere el inciso segundo, para efectos de su disponibilidad en el sistema de información regulado en la letra b) del artículo 28 undecies. Asimismo, la autoridad deberá remitir el acto a los integrantes del Consejo de Ministros para la Sustentabilidad y el Cambio Climático.
+
+Se dará término al procedimiento cuando hayan transcurrido más de tres años entre la dictación del acto administrativo de inicio y el acuerdo del consejo regional o del concejo municipal para dar inicio a la etapa de aprobación y consulta pública del anteproyecto, conforme con lo establecido en el artículo 36 o en el artículo 43, según corresponda. Vencido el plazo, el proceso de planificación se entenderá terminado automáticamente, y la autoridad encargada de la elaboración o modificación del instrumento dejará constancia de ello mediante un acto administrativo que deberá ser dictado en el plazo máximo de diez días contado desde el término automático del proceso y publicará el documento en el sistema de información regulado en la letra b) del artículo 28 undecies.
+
+Excepcionalmente, el Gobierno Regional o la Secretaría Regional Ministerial, según se trate del nivel intercomunal o comunal de planificación, podrá prorrogar el plazo señalado por una sola vez y por un término que no podrá exceder la mitad del plazo original. Lo anterior, a solicitud fundada del organismo encargado de la elaboración o modificación del instrumento de planificación territorial de que se trate, realizada a lo menos con treinta días de anticipación a su vencimiento y atendidas las causales fundadas que disponga la Ordenanza General. Para estos efectos, el organismo deberá acompañar en su solicitud los antecedentes que fundamentan la prórroga y un nuevo cronograma del procedimiento hasta la promulgación del instrumento. Transcurrido este plazo de prórroga sin que se haya obtenido el acuerdo, procederá el término automático en la forma descrita en el inciso anterior.
+
+La autoridad encargada podrá poner término anticipado al proceso de planificación mediante acto administrativo fundado, que deberá señalar expresamente los motivos por los cuales se pone término al proceso y su estado de avance conforme con hito cumplido que definirá para estos efectos la Ordenanza General.
+
+Los antecedentes del proceso de planificación que ha terminado automáticamente o de forma anticipada solo podrán ser utilizados por el órgano encargado para iniciar un nuevo procedimiento, en aquellos casos en que resulte procedente conforme con lo dispuesto en el artículo 28 decies. Para ello, deberán considerarse las circunstancias que puedan afectar la pertinencia de dichos antecedentes para la tramitación del nuevo procedimiento mediante informe fundado. En dicho caso, en el informe deberá hacerse mención expresa a la suficiencia de los estudios técnicos y solicitarse la opinión de los órganos de la Administración del Estado con competencia en la materia, si corresponde.
+
+La imagen objetivo podrá ser utilizada para iniciar un nuevo proceso si cuenta con informe favorable del Jefe de la División de Planificación y Desarrollo Regional o del asesor urbanista o, en su defecto, del Secretario Comunal de Planificación, según se trate de un instrumento de nivel intercomunal o comunal. Asimismo, deberá obtenerse el acuerdo del concejo regional o del concejo comunal, según corresponda, y el pronunciamiento favorable del Ministerio del Medio Ambiente en relación con el procedimiento de evaluación ambiental estratégica de acuerdo con lo que establezca el reglamento de dicho procedimiento.
+
+En esos casos, el acto de inicio del proceso deberá indicar expresamente los antecedentes que se utilizarán y que forman parte de un proceso de planificación anterior que ha terminado.
+
+> **Nota.** El artículo primero transitorio de la ley 21807, publicada el 16.02.2026, dispone que el presente articulo, incorporado por el numeral 4 del artículo 5 de la citada ley, solo será aplicable a los procesos de planificación territorial iniciados con posterioridad a su entrada en vigencia.
+
+## Capítulo II
+
+De la Planificación Urbana en particular
+
+#### Artículo 28°
+
+La planificación urbana se efectuará en tres niveles de acción, que corresponden a tres tipos de áreas: nacional, intercomunal y comunal.
+
+Cada instrumento de planificación urbana tendrá un ámbito de competencia propio en atención al área geográfica que abarca y a las materias que puede regular, en el cual prevalecerá sobre los demás.
+
+Sin perjuicio de lo anterior, los instrumentos podrán establecer, sólo para territorios no planificados, disposiciones transitorias con carácter supletorio sobre las materias propias del otro nivel, sea éste superior o inferior, las que quedarán sin efecto al momento de entrar en vigencia el instrumento de planificación territorial que contenga las normas correspondientes a ese ámbito de competencia. Estas disposiciones transitorias con carácter supletorio no serán imperativas para el nuevo instrumento.
+
+Excepcionalmente, si un plan regulador intercomunal o metropolitano modifica normas de su ámbito de competencia propio, y deja sin regulación sectores dentro de un territorio planificado por un plan regulador de nivel comunal, podrá establecer disposiciones transitorias con carácter supletorio en dichos sectores con el objeto de evitar un desfase entre los niveles de planificación y permitir su coherencia. Estas disposiciones no serán imperativas para el nivel inferior y quedarán sin efecto al momento de entrar en vigencia la modificación del instrumento de planificación territorial de nivel comunal que contenga las nuevas normas para el sector en cuestión.
+
+#### Artículo 28 bis
+
+A través de planos de detalle podrá fijarse con exactitud los trazados y anchos de los espacios declarados de utilidad pública en los planes reguladores comunales, seccionales o intercomunales, siempre que no los modifiquen.
+
+Los planos de detalle serán elaborados por el municipio o por la Secretaría Regional Ministerial de Vivienda y Urbanismo, según especifiquen planes de nivel comunal o intercomunal. Cuando los confeccione el municipio deberá solicitar un informe a la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva sobre el proyecto de plano, y cuando los elabore esta última, deberá requerir informe de los municipios afectados. Si el informe no se emite dentro de quince días hábiles contados desde su recepción se entenderá que no hay observaciones, salvo que la autoridad correspondiente solicite, dentro de dicho plazo, una prórroga por igual período.
+
+Con el mérito de todos estos antecedentes, y un informe que justifique la propuesta y su consistencia con el instrumento especificado, el proyecto será sometido a la aprobación del concejo municipal, si se trata de planes comunales o seccionales, o a la del consejo regional, en el caso de los planes intercomunales. Los planos serán promulgados por decreto alcaldicio o resolución del intendente, según sea el caso.
+
+#### Artículo 28 ter
+
+Asimismo, a través de planos de detalle subordinados a los planes reguladores comunales, seccionales o intercomunales, podrán fijarse con exactitud el diseño y características de los espacios públicos, los límites de las distintas zonas o áreas del plan y, en el caso de los planes reguladores comunales y seccionales, el agrupamiento de edificios y las características arquitectónicas de los proyectos a realizarse en sectores vinculados con monumentos nacionales, en inmuebles o zonas de conservación histórica o en sectores en que el plan regulador exija la adopción de una determinada morfología o un particular estilo arquitectónico de fachadas.
+
+Estos planos de detalle serán elaborados y aprobados conforme señala el artículo precedente, con los siguientes cambios:
+
+a) Deberán contener una breve memoria y disposiciones reglamentarias.
+
+b) Se deberá realizar una o más audiencias públicas en los barrios o sectores afectados para exponer la propuesta de plan de detalle a la comunidad, en la forma establecida en la ordenanza de participación ciudadana de la respectiva municipalidad.
+
+c) Antes de su aprobación, se expondrán a la comunidad por un plazo de treinta días, vencido el cual los interesados podrán formular observaciones escritas y fundadas hasta por otros treinta días, aplicándoseles lo previsto en el artículo 43.
+
+PÁRRAFO PRELIMINAR.- Ámbitos de competencia y medidas de transparencia en la Planificación Urbana
+
+#### Artículo 28 quáter
+
+Estándares urbanísticos mínimos para los instrumentos de planificación urbana comunal. Los instrumentos de planificación urbana comunal deberán ajustarse, en su elaboración o modificación, a:
+
+a) La superficie, accesibilidad y tipos de áreas verdes por ocupantes o habitantes que señale la Ordenanza General.
+
+b) La superficie, accesibilidad y tipos de equipamientos por ocupantes o habitantes que señale la Ordenanza General.
+
+c) El mínimo de estacionamientos que estarán localizados en el interior del predio que determine la Ordenanza General, con las excepciones que esta misma establezca. Para el caso de viviendas, será uno por cada dos unidades, a menos que el propio instrumento contemple límites diferentes, sean inferiores o superiores, por razones de congestión o densidad, y sin perjuicio de respetar lo dispuesto en el artículo 8 de la ley N° 19.537, sobre copropiedad inmobiliaria. Tratándose de usos distintos del habitacional, se estará a lo que determine la Ordenanza General en función del destino e intensidad de ocupación.
+
+d) Una trama vial que incorpore circulaciones destinadas al uso público cuyas intersecciones permitan garantizar la continuidad del espacio público y la conectividad con la vialidad del sector, lo cual deberá quedar expresamente abordado en la memoria explicativa y sus estudios técnicos.
+
+e) Los demás estándares que indique la Ordenanza General para garantizar el acceso equitativo a los bienes públicos urbanos.
+
+En los literales a) y b) se considerará la totalidad de ocupantes o habitantes que pueda llegar a tener la comuna como consecuencia de las disposiciones del instrumento o de su modificación.
+
+La Ordenanza, al reglamentar estos estándares, reconocerá las condiciones locales y de diversidad territorial.
+
+#### Artículo 28
+
+quinquies.- Normas urbanísticas supletorias para territorios sin planificación comunal o seccional. Las construcciones que se levanten en zonas urbanas que no estén normadas por un Plan Regulador Comunal o un Plan Seccional deberán ajustarse, mientras mantengan esta situación, a las siguientes disposiciones:
+
+a) No podrán superar la altura promedio de los edificios ya construidos en las manzanas edificadas, con un máximo de diez pisos. En caso de no haber edificación no podrán exceder de dos pisos, salvo que se trate de conjuntos habitacionales de viviendas de interés público, los que podrán alcanzar cuatro pisos.
+
+b) No podrán superar la densidad promedio de la manzana en que se emplacen y, de no ser aplicable esta norma, la del promedio de las zonas contiguas que ya estén edificadas, salvo que se trate de conjuntos habitacionales de viviendas de interés público.
+
+c) No podrán alterar el sistema de agrupamiento de las edificaciones, sus características arquitectónicas y volumétricas ni las líneas oficiales y de edificación del sector, debiendo adaptarse al entorno urbano en que se emplacen.
+
+d) Deberán dar continuidad a la trama vial existente.
+
+e) Deberán cumplir las demás normas urbanísticas supletorias que, para estos efectos y reconociendo las condiciones locales y de diversidad territorial, señale la Ordenanza General.
+
+Las normas precedentes se aplicarán también cuando se declare la nulidad total o parcial de un Plan Regulador Comunal o Seccional.
+
+Lo dispuesto en este artículo regirá sin perjuicio de las normas que respecto de las áreas de extensión urbana establezcan los Planes Reguladores Intercomunales.
+
+#### Artículo 28
+
+sexies.- Actualización de los instrumentos de planificación territorial. Los instrumentos de planificación territorial deberán mantenerse actualizados y sus disposiciones deberán revisarse periódicamente con el objeto de monitorear el cumplimiento de sus proposiciones, objetivos, metas y prioridades y, en base a ello, establecer la necesidad de su actualización conforme con las normas que disponga la Ordenanza General.
+
+Para dichos efectos, el organismo encargado deberá elaborar un informe bienal de monitoreo en base a los indicadores de seguimiento y criterios de actualización y rediseño del instrumento, y cumplir con el contenido que señale la Ordenanza General de Urbanismo y Construcciones. Dicho informe deberá concluir con un pronunciamiento expreso sobre si es o no necesaria la actualización del instrumento, expresará las razones y antecedentes que fundamentan su conclusión, y deberá ponerse a disposición del público el último trimestre del año calendario de la forma establecida en la letra b) del artículo 28 undecies.
+
+El incumplimiento de los deberes señalados en este artículo será considerado una vulneración del principio de probidad administrativa. Corresponderá a la respectiva Secretaría Regional Ministerial supervigilar el cumplimiento de esta disposición, conforme lo disponga la referida Ordenanza General.
+
+La Ordenanza General de Urbanismo y Construcciones podrá establecer indicadores de seguimiento y criterios de actualización y rediseño mínimos, y al reglamentar estos indicadores y criterios reconocerá las condiciones locales y de diversidad territorial.
+
+> **Nota.** El artículo segundo transitorio de la ley 21807, publicada el 16.02.2026, dispone que para efectos de la aplicación del presente artículo, en el caso de los instrumentos vigentes, el organismo encargado deberá elaborar y suministrar el primer informe de monitoreo al sistema de información regulado en la letra b) del artículo 28 undecies de la misma ley dentro del plazo de un año contado desde la publicación de la presente ley y, bienalmente de manera sucesiva dentro del último trimestre del año calendario a contar de dicho primer informe. Asimimso, establece que en los casos en que los instrumentos de planificación territorial aún no contengan en su memoria explicativa los indicadores de seguimiento y criterios de actualización o rediseño conforme con lo dispuesto en esta disposicón, deberán actualizarse periódicamente en un plazo no mayor a diez años conforme con las normas del artículo 2.1.4. bis de la Ordenanza General de Urbanismo y Construcciones o aquellas que lo reemplacen.
+
+#### Artículo 28
+
+septies.- Acceso a la información de los instrumentos de planificación territorial. Los actos administrativos que promulguen la aprobación o modificación de un instrumento de planificación territorial deberán publicarse en el sitio electrónico del organismo que los promulgue junto con la respectiva Ordenanza, y se informará de su disponibilidad en aquél mediante un aviso, que deberá indicar expresamente la fecha en que se realizó dicha publicación, en un periódico de circulación local, regional o en una radio comunal o regional, según sea el caso, y en el Diario Oficial, y deberá la autoridad que los promulgue informar de este hecho al Servicio de Impuestos Internos dentro de quinto día, indicando si involucran modificaciones de límites urbanos y en qué zonas. La memoria explicativa, los planos y la ordenanza correspondiente se archivarán en los Conservadores de Bienes Raíces respectivos, en la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, en la respectiva secretaría regional de dicho ministerio y, cuando se trate de instrumentos de nivel comunal, en las municipalidades correspondientes.
+
+Estos documentos, junto con su memoria explicativa y el informe ambiental, deberán estar disponibles en el sitio electrónico del organismo que los promulgue conforme a lo dispuesto en el artículo 7 del artículo primero de la ley N° 20.285, sobre Acceso a la Información Pública. Asimismo, deberá publicarse en dicho sitio electrónico un resumen ejecutivo del instrumento de planificación que incluya su descripción y los principales efectos esperados, sin perjuicio de la difusión de otros resúmenes explicativos en lenguaje claro y simple.
+
+Con el objeto de facilitar el acceso a los textos y planos vigentes de los instrumentos de planificación territorial que hayan sido modificados, la autoridad facultada para promulgarlos podrá aprobar versiones actualizadas de los planos; deberá fijar el texto refundido, coordinado y sistematizado de las ordenanzas, y podrá introducirles los cambios de forma que sean indispensables, mediante decreto alcaldicio o resolución, según se trate de municipalidades o gobiernos regionales, respectivamente, siempre que con ello no se altere, en caso alguno, su verdadero sentido y alcance. Los actos administrativos que promulguen estas versiones actualizadas no se someterán al procedimiento de evaluación ambiental estratégica.
+
+#### Artículo 28
+
+octies.- Imagen objetivo de los instrumentos de planificación territorial y consulta pública. En el proceso de elaboración de los planes reguladores intercomunales o metropolitanos y sus modificaciones; en el proceso de elaboración de los planes reguladores comunales y de los planes seccionales, sus modificaciones integrales y aquellas que involucren una modificación del límite urbano o afecten al 50% o más del territorio regulado por el instrumento, ya sea que dicho porcentaje se supere en una única modificación o de forma acumulativa en modificaciones consecutivas, y en los demás casos que disponga la Ordenanza General, deberá formularse una imagen objetivo del desarrollo urbano del territorio a planificar como paso previo a la elaboración del anteproyecto del plan. En caso de dudas sobre si una modificación requiere o no tramitar una imagen objetivo, el alcalde podrá consultar la procedencia de su tramitación a la División de Desarrollo Urbano, la que se pronunciará dentro del plazo máximo de quince días hábiles con base a los antecedentes presentados.
+
+La formulación de la imagen objetivo deberá realizarse conforme con el siguiente procedimiento:
+
+1. El alcalde o el secretario regional ministerial de vivienda y urbanismo, según se trate de un instrumento de nivel comunal o intercomunal, formulará y consultará una propuesta de imagen objetivo del desarrollo urbano del territorio a planificar. Esta propuesta consistirá en un resumen ejecutivo que sintetizará, en un lenguaje claro y simple, el diagnóstico y sus fundamentos técnicos; los objetivos generales y los principales elementos del instrumento a elaborar; las alternativas de estructuración del territorio por las que se propone optar en un orden priorizado, y los cambios que provocarían respecto de la situación existente, para lo cual se apoyará en uno o más planos que expresen gráficamente estos conceptos. En los casos en que se considere modificar el límite urbano, el resumen ejecutivo deberá señalarlo expresamente.
+
+En el caso de los planes reguladores comunales o planes seccionales, el resumen ejecutivo y sus planos deberán ser remitidos a la Secretaría Regional Ministerial de Vivienda y Urbanismo para que emita un informe sobre los aspectos técnicos de la propuesta de imagen objetivo, dentro del plazo de quince días hábiles contado desde su recepción. El informe se pronunciará respecto a la concordancia de la propuesta con esta ley, su Ordenanza General y el instrumento de planificación territorial de nivel intercomunal, si lo hay.
+
+Si el informe es favorable, la autoridad encargada podrá someter el resumen ejecutivo y sus planos al proceso de consulta pública que se indica en los siguientes numerales. Si existen observaciones, la municipalidad tendrá el plazo máximo de quince días hábiles para remitir a la Secretaría Regional Ministerial de Vivienda y Urbanismo su subsanación. Ésta deberá pronunciarse definitivamente y emitirá su informe favorable, en caso de corresponder, dentro del plazo de diez días hábiles contado desde la recepción de la subsanación de las observaciones. Transcurrido dicho plazo sin pronunciamiento expreso se entenderá que el informe es favorable y podrá continuar el procedimiento. Si el informe es desfavorable, la municipalidad podrá remitir una nueva propuesta de resumen ejecutivo y planos para su pronunciamiento, siguiendo el mismo procedimiento y plazos señalados en este inciso.
+
+2. La propuesta de imagen objetivo con su resumen ejecutivo y sus planos serán enviados por la autoridad encargada al consejo regional o al concejo comunal, según se trate de un instrumento de nivel intercomunal o comunal, para su conocimiento.
+
+Dichos documentos serán publicados en el sitio electrónico de la municipalidad o de la Secretaría Regional Ministerial de Vivienda y Urbanismo, según corresponda, y simultáneamente se expondrán a la comunidad en lugares visibles y de libre acceso al público. Los interesados podrán formular observaciones fundadas, por medios electrónicos o en soporte de papel, hasta treinta días después de publicados en el sitio electrónico el resumen ejecutivo y sus respectivos planos.
+
+3. Además, durante los primeros quince días del periodo de exposición deberán realizarse dos o más audiencias públicas para presentar la imagen objetivo a la comunidad, para lo cual deberá invitarse al consejo comunal de organizaciones de la sociedad civil, a las organizaciones de la sociedad civil y a los demás interesados que señale la Ordenanza General. Si se trata de instrumentos de nivel intercomunal, deberá invitarse además al consejo de la sociedad civil regional.
+
+4. El lugar y plazo de exposición, el lugar, fecha y hora de las audiencias públicas, el plazo, medio o soporte para formular observaciones, así como la disponibilidad de los antecedentes en internet, deberán informarse por el organismo encargado al consejo comunal de organizaciones de la sociedad civil o al consejo de la sociedad civil regional si se trata de un instrumento de nivel intercomunal, a las organizaciones de la sociedad civil y a los demás interesados que señale la Ordenanza General.
+
+Lo anterior, mediante comunicación a la dirección de correo electrónico registrada por dichas organizaciones o, en su defecto, mediante carta certificada despachada únicamente al domicilio actualizado que se tenga de éstas en la o las comunas del territorio a planificar, a más tardar, el mismo día en que se publiquen en el sitio electrónico el resumen ejecutivo y sus planos. Adicionalmente, la misma información deberá comunicarse por medio de un aviso publicado en algún diario de los de mayor circulación en la comuna o las comunas involucradas, mediante su exposición en lugares de afluencia de público, como consultorios y colegios, a través de avisos radiales y en la forma de comunicación masiva más adecuada o habitual en la comuna o comunas objeto del plan.
+
+5. Terminado el periodo para realizar observaciones, la autoridad encargada de elaborar el plan deberá emitir un informe que sintetice todas las observaciones presentadas al consejo regional o concejo municipal, según corresponda.
+
+Dentro de treinta días, contados desde la recepción de dicho informe por la secretaría del órgano respectivo, el consejo regional o el concejo municipal deberá acordar la respuesta fundada a cada una de las observaciones realizadas, con indicación de si las acepta o las rechaza, y aprobará mediante acuerdo la imagen objetivo que contendrá los términos en que se procederá a elaborar el anteproyecto de plan, los que podrán plantearse por medio de rangos de las principales normas urbanísticas de la propuesta y se seguirá lo establecido para cada instrumento en los Párrafos siguientes de este Capítulo.
+
+Tanto el informe elaborado como el acuerdo adoptado deberán estar disponibles en el sitio electrónico de la municipalidad o de la Secretaría Regional Ministerial de Vivienda y Urbanismo, según corresponda.
+
+Transcurrido el plazo de treinta días sin que el consejo regional o el concejo municipal haya emiti do un pronunciamiento expreso, con el acuerdo de los términos en que se procederá a elaborar el anteproyecto de plan, se entenderá que éste deberá elaborarse en los términos en que fue sometida a consulta la propuesta de imagen objetivo, junto al resumen ejecutivo y sus planos, y conforme con la alternativa de estructuración del territorio priorizada. En este caso, para todos los efectos legales se entenderá que se ha obtenido el acuerdo del consejo regional o del concejo municipal, según corresponda.
+
+Si los términos en que se procederá a elaborar el anteproyecto, aprobados por acuerdo expreso o tácito, consideran una modificación del límite urbano, la autoridad encargada deberá informar de este hecho al Servicio de Impuestos Internos, dentro de quinto día contado desde la adopción del acuerdo o desde el vencimiento del plazo de que se disponía para adoptarlo, y señalará la zona considerada para estos efectos.
+
+6. Elaborado el anteproyecto, si el órgano competente para aprobar en definitiva el instrumento de planificación territorial rechaza o altera una propuesta de modificación del límite urbano contenida en los términos a que se refiere el numeral precedente, conforme con la letra c) del artículo 36 de la ley N° 19.175, orgánica constitucional sobre Gobierno y Administración Regional, y el inciso primero del artículo 43 bis, el inciso primero del artículo 43 ter y el numeral 6 del artículo 53 de la presente ley, la autoridad encargada de su elaboración deberá informar de este hecho a los consejos comunales de organizaciones de la sociedad civil; a las organizaciones de la sociedad civil y a los demás interesados que señale la ordenanza que hayan formulado observaciones fundadas; al Ministerio de Vivienda y Urbanismo para lo dispuesto en la letra b) del artículo 28 undecies, y al Servicio de Impuestos Internos con identificación de las zonas.
+
+Todas las publicaciones que señala este artículo deberán estar disponibles dentro de los mecanismos de participación ciudadana que exige el artículo 7° contenido en el artículo primero de la ley N° 20.285, sobre acceso a la información pública.
+
+La imagen objetivo aprobada en estos términos podrá utilizarse para tramitar la elaboración de uno o más anteproyectos simultáneamente para distintas porciones del territorio, conforme lo establezca la Ordenanza General. En estos casos no será necesario emitir un nuevo acto de inicio, y los plazos del artículo 27 ter continuarán transcurriendo para los procesos que se tramiten en forma simultánea. Para estos efectos, en caso de corresponder, el organismo encargado deberá adaptar el procedimiento de evaluación ambiental estratégica, y velará por la validación de lo ya realizado, de conformidad con el artículo 27 ter.
+
+#### Artículo 28
+
+nonies.- Intervención de particulares en la elaboración y aprobación de los instrumentos de planificación territorial. Los particulares podrán proponer nuevos instrumentos de planificación territorial o modificaciones de los existentes solamente mediante presentaciones formales realizadas en ejercicio del derecho de petición consagrado en el numeral 14 del artículo 19 de la Constitución Política de la República. La autoridad que promueva un nuevo instrumento o una modificación del instrumento deberá mencionar expresamente las solicitudes planteadas por particulares que se relacionen directamente con su propuesta.
+
+Los particulares podrán acompañar antecedentes y/o estudios para fundamentar nuevos instrumentos de planificación territorial o sus modificaciones para su ponderación por la autoridad, siempre que en ellos se consigne con claridad quien los presenta, quien los elaboró y a qué título. Si se trata de estudios técnicos que formen parte de la Memoria Explicativa, sólo podrán ser considerados por los órganos administrativos si cumplen con lo anterior, con los estándares metodológicos vigentes a la fecha de su presentación, si están suscritos por profesional especialista y si fueron aprobados por un órgano del Estado, en los casos en que requieran dicha aprobación.
+
+La infracción de los deberes señalados en los incisos anteriores será considerada una grave vulneración del principio de probidad administrativa.
+
+Serán aplicables las mismas reglas para las propuestas de modificación de instrumentos de planificación territorial que se tramiten vía enmienda, plan seccional de remodelación, plan maestro de regeneración o cualquier otro mecanismo simplificado.
+
+#### Artículo 28
+
+decies.- Transparencia en el ejercicio de la potestad planificadora. La planificación urbana es una función pública cuyo objetivo es organizar y definir el uso del suelo y las demás normas urbanísticas de acuerd o con el interés general. Su ejercicio deberá:
+
+a) Ser transparente y fundado, y señalar expresamente sus motivaciones y los objetivos específicos que persigue en cada caso, especialmente cuando se realicen cambios en las propuestas, anteproyectos o proyectos.
+
+b) Considerar información suficiente sobre la realidad existente y su evolución previsible. Para estos efectos, la autoridad que promueva un nuevo instrumento de planificación territorial o su modificación deberá utilizar la información territorial pública que elaboren o posean las instituciones públicas con competencia en la materia. Dichas instituciones estarán obligadas a proveer la información territorial necesaria para estos fines en forma gratuita y permanente en el repositorio que se establezca para dichos efectos, conforme con las políticas, disposiciones legales y reglamentarias vigentes, estándares y tecnologías que estén a disposición del Estado de Chile. El Ministerio de Vivienda y Urbanismo, a través de la División de Desarrollo Urbano, podrá individualizar mediante circular la información territorial mínima que deberá proporcionarse con estos fines. Para lo anterior, deberá solicitar informe previo de los organismos públicos con competencia según la materia y podrá generar los acuerdos institucionales necesarios y permanentes para el cumplimiento de los objetivos indicados en coordinación con la institución que administre el repositorio antes mencionado.
+
+c) Desarrollarse el proceso de planificación con la máxima economía de medios, sencillez y eficacia.
+
+d) Ajustarse a los principios de sustentabilidad en sus dimensiones social, económica, cultural y ambiental, cohesión territorial y eficiencia energética, procurar que el suelo se ocupe de manera eficiente y combine los usos en un contexto urbano seguro, saludable, accesible universalmente e integrado socialmente, y considerar las múltiples formas de exclusión que pueden aquejar a las personas, con especial énfasis en las circunstancias que puedan afectarles durante todo el curso de vida, particularmente en atención a su sexo, edad o situación de discapacidad.
+
+e) Evitar la especulación y procurar la participación de la comunidad afectada, y la satisfacción de las necesidades de vivienda de la población.
+
+f) Ser consistente con los estudios técnicos referidos a movilidad urbana, infraestructura sanitaria y energética, riesgos para asentamientos humanos y protección del patrimonio natural y cultural, entre otros, conforme lo establezca la Ordenanza General, los que necesariamente deberán estar en coordinación con las políticas sectoriales asociadas a cada materia.
+
+g) Ser coherente, de manera tal que exista la debida armonía y coordinación entre los distintos niveles de planificación territorial.
+
+#### Artículo 28
+
+undecies.- Observatorios del mercado del suelo urbano, de los instrumentos de planificación territorial y de los permisos. Para promover la transparencia del mercado del suelo, el Ministerio de Vivienda y Urbanismo mantendrá en un Portal Único de Información:
+
+a) Un observatorio del mercado del suelo urbano que informará de la evolución de precios por metro cuadrado de los bienes raíces a nivel nacional, regional, comunal y otras zonas geográficas específicas. Para estos efectos, el Servicio de Impuestos Internos pondrá a disposición del observatorio los montos y otros antecedentes necesarios para que pueda caracterizar los bienes raíces enajenados, informados en las Declaraciones sobre Enajenación e Inscripción de los Bienes Raíces, o la declaración que las reemplace, y que el Servicio recibe en el ejercicio de sus atribuciones, exceptuados aquellos datos que permitan individualizar a los predios, sus propietarios, poseedores u ocupantes. El Ministerio de Hacienda determinará, mediante una resolución exenta que también suscribirá el Ministro de Vivienda y Urbanismo, previa propuesta del Servicio de Impuestos Internos, las zonas geográficas específicas que se considerarán en el observatorio y la forma y oportunidad de entrega de dicha información, resguardando que el procedimiento no identifique o no permita identificar bienes raíces, propietarios, poseedores u ocupantes en particular, y cumpliendo las disposiciones de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el decreto con fuerza de ley N° 7, de 1980, del Ministerio de Hacienda, y en el Código Tributario.
+
+b) Un sistema de información de los procesos de elaboración, aprobación, revisión y monitoreo de los instrumentos de planificación territorial, y de sus modificaciones, el que deberá dar cuenta de manera sistematizada de toda la información disponible en los sitios electrónicos referidos en los artículos 28 septies y 28 octies y de los informes bienales de monitoreo según corresponda, conforme con lo dispuesto en esta ley. Para estos efectos, las municipalidades, los gobiernos regionales y demás órganos y servicios competentes deberán suministrar la información que señale la ordenanza de esta ley en la forma y plazos que allí se indiquen, con el objeto de poner a disposición del público la información referida de forma fácil y expedita.
+
+c) Un sistema de información sobre el estado de tramitación de los permisos de urbanización y de edificación en cada municipalidad, en la forma que determine la Ordenanza General, que también permitirá a las respectivas direcciones de obras municipales cumplir con los trámites que regula la presente ley de manera electrónica.
+
+La infracción de los deberes señalados en el inciso anterior será considerada una grave vulneración del principio de probidad administrativa.
+
+### Párrafo 1° — .- De la Planificación Urbana Nacional
+
+#### Artículo 29°
+
+Corresponderá al Ministerio de la Vivienda y Urbanismo la Planificación del desarrollo urbano a nivel nacional. Le corresponderá, asimismo, a través de la Ordenanza General de la presente ley, establecer normas específicas para los estudios, revisión, aprobación y modificaciones de los instrumentos legales a través de los cuales se aplique la planificación urbana en los niveles antes señalados.
+
+Estos instrumentos, sancionados por la autoridad correspondiente, tendrán fuerza legal en su aplicación, incluso para las reparticiones públicas.
+
+### Párrafo 2° — .- De la Planificación Urbana Regional Derogado.
+
+#### Artículo 30°
+
+Derogado.
+
+#### Artículo 31°
+
+Derogado.
+
+#### Artículo 32°
+
+Derogado.
+
+#### Artículo 33°
+
+Derogado.
+
+### Párrafo 3° — .- De la Planificación Urbana Intercomunal
+
+#### Artículo 34°
+
+Se entenderá por Planificación Urbana Intercomunal aquella que regula el desarrollo fisico de las áreas urbanas y rurales de diversas comunas que, por sus relaciones, se integran en una unidad urbana.
+
+Cuando esta unidad sobrepase los 500.000 habitantes, le corresponderá la categoría de área metropolitana para los efectos de su planificación.
+
+La Planificación Urbana Intercomunal se realizará por medio del Plan Regulador Intercomunal o del Plan Regulador Metropolitano, en su caso, instrumentos constituidos por un conjunto de normas y acciones para orientar y regular el desarrollo físico del área correspondiente y para resguardar y promover la integración social y el acceso equitativo a bienes y servicios públicos urbanos relevantes.
+
+A los referidos planes les corresponde resguardar que la infraestructura pública de escala intercomunal sea aprovechada de manera eficiente y equitativa, mediante disposiciones que promuevan la integración social y urbana en torno a ejes de transporte público o equipamientos relevantes.
+
+En cumplimiento de lo anterior, los nuevos planes reguladores intercomunales o metropolitanos, o bien sus actualizaciones o modificaciones, podrán establecer incentivos en las normas urbanísticas aplicables en sectores y sus áreas de influencia que dichos planes identifiquen como zonas de buena accesibilidad a bienes y servicios públicos urbanos relevantes, condicionando tales incentivos a la incorporación de un porcentaje de viviendas de interés público. Asimismo, en dichos sectores podrán definir las densidades mínimas que deberán establecerse en los planes reguladores comunales.
+
+Las dispoposiciones de los artículos siguientes, referentes al Plan Regulador Intercomunal, regirán igualmente para los Planes Reguladores Metropolitanos.
+
+#### Artículo 35°
+
+El Plan Regulador Intercomunal estará compuesto de:
+
+a) Una memoria explicativa, que contendrá los objetivos, metas, programas de acción, así como los aspectos conceptuales y técnicos que justifican las decisiones de planificación adoptadas en relación con los principales elementos del Plan. Asimismo, la memoria deberá contener indicadores de seguimiento y criterios de actualización y rediseño que permitan realizar su revisión periódica y monitoreo conforme lo dispone el artículo 28 sexies en coherencia con aquellos indicadores y criterios establecidos en el artículo 7 quáter de la ley Nº 19.300.
+
+b) Una Ordenanza, que contendrá las disposiciones reglamentarias pertinentes, y
+
+c) Los planos, que expresen gráficamente las disposiciones sobre zonificación general, equipamiento, relaciones viales, áreas de desarrollo prioritario, de riesgo y restricción, límites de extensión urbana, densidades, máximas, mínimas y/o promedio que tendrán que establecerse en los planes reguladores comunales, preferentemente diferenciadas por comunas o sectores de éstas, etc.
+
+Para los efectos de su aprobación, modificación y aplicación, estos documentos constituirán un solo cuerpo normativo.
+
+#### Artículo 36
+
+El anteproyecto de Plan Regulador Intercomunal o Metropolitano, o sus modificaciones, será elaborado por la secretaría regional ministerial de Vivienda y Urbanismo, con consulta a las municipalidades correspondientes y a los organismos de la administración del Estado que sean necesarios, con el fin de resguardar una actuación pública coordinada sobre el territorio planificado. Como paso previo a la elaboración del anteproyecto se deberá formular y consultar la imagen objetivo del instrumento, conforme a lo dispuesto en el artículo 28 octies de esta ley, y se ajustará a lo señalado en el inciso cuarto del artículo 7 bis de la ley N° 19.300, sobre Bases Generales del Medio Ambiente.
+
+De conformidad al inciso quinto del artículo 7 bis de la ley N° 19.300, sobre Bases Generales del Medio Ambiente, el anteproyecto de plan regulador que se elabore contendrá un informe ambiental, que será remitido al Ministerio del Medio Ambiente para sus observaciones. Posteriormente, ambos documentos, junto con un resumen ejecutivo que incluya su descripción y los principales efectos esperados, sin perjuicio de la difusión de otros resúmenes explicativos en lenguaje claro y simple, serán sometidos a un proceso de consulta pública previo acuerdo del consejo regional conforme a lo dispuesto en los numerales 2, 3 y 4 del artículo 28 octies.
+
+En paralelo a la consulta pública se solicitará la opinión de las Municipalidades correspondientes, las que deberán pronunciarse sobre el anteproyecto dentro del plazo de treinta días, contado desde su conocimiento oficial, vencido el cual la falta de pronunciamiento será considerada como aprobación.
+
+Terminadas las consultas anteriores, la secretaría regional ministerial de Vivienda y Urbanismo elaborará un proyecto de Plan Regulador Intercomunal o Metropolitano y lo remitirá, junto al expediente completo, al gobierno regional para continuar su trámite de aprobación en conformidad a las disposiciones de su ley orgánica constitucional. En caso que el proyecto altere la propuesta de modificación del límite urbano contenida en el acuerdo a que se refiere el numeral 5 del artículo 28 octies, la misma autoridad informará de este hecho, dentro de quinto día, al Servicio de Impuestos Internos, señalando la zona afectada.
+
+#### Artículo 37
+
+Previa autorización de la secretaría regional ministerial de Vivienda y Urbanismo correspondiente, un grupo de municipalidades afectas a relaciones intercomunales podrán elaborar directamente un anteproyecto de Plan Regulador Intercomunal, el que deberá ser diseñado de acuerdo al procedimiento establecido en el artículo precedente y enviado a dicha secretaría para que verifique, dentro del plazo de sesenta días, si el instrumento propuesto se ajusta a esta ley y su ordenanza. Si el informe es favorable, la secretaría deberá remitirlo al gobierno regional para iniciar su trámite de aprobación en conformidad a las disposiciones de su ley orgánica constitucional.
+
+#### Artículo 37 bis
+
+Podrán aprobarse enmiendas a los planes reguladores intercomunales cuando se trate de modificaciones que no sean sustantivas y recaigan en disposiciones relativas al ámbito de competencia propio de estos instrumentos o en disposiciones establecidas con carácter supletorio transitorio, dentro de los márgenes y de acuerdo con el procedimiento simplificado que establezca la Ordenanza General. Dicho procedimiento, en todo caso, deberá contemplar una consulta a las municipalidades correspondientes y un proceso de consulta pública.
+
+Si se trata de modificaciones o de la eliminación de los trazados de las vías intercomunales, será necesario un informe favorable de la autoridad regional o metropolitana competente en materia urbanística. La eliminación de los trazados de las vías intercomunales se considerará una modificación no sustantiva únicamente cuando se deba a la imposibilidad o dificultad técnica de su ejecución por razones topográficas u otros motivos que señale la Ordenanza General.
+
+Cualquier procedimiento especial y/o simplificado de modificación de un plan regulador de nivel intercomunal que pueda implicar una modificación sustancial, conforme con el artículo 7 bis de la ley N° 19.300, se someterá al procedimiento simplificado de evaluación ambiental estratégica que establezca para dichos efectos el reglamento a que alude el artículo 7 ter de la misma ley.
+
+La subsanación de los errores de copia, de referencia, de cálculos numéricos y, en general, los puramente materiales o de hechos que aparezcan de manifiesto en el plan regulador, se regirá por lo dispuesto en la ley N° 19.880.
+
+#### Artículo 38°
+
+Las disposiciones de los Planes Reguladores Intercomunales, que constituyan alteraciones a las disposiciones de los Planes Reguladores Comunales existentes, se entenderán automáticamente incorporadas a éstos como modificaciones.
+
+En las comunas que carezcan de Plan Regulador Comunal harán los efectos de tal las disposiciones del Plan Regulador Intecomunal, sin perjuicio de la exigencia establecida en la letra a) del artículo 47°.
+
+#### Artículo 39°
+
+Las Secretarías Regionales del Ministerio de la Vivienda y Urbanismo calificarán en cada caso:
+
+(a) Las Areas sujetas a Planificación Urbana Intercomunal;
+
+(b) Las comunas que, para los efectos de la confección del Plan Regulador Comunal, estén sujetas a la aprobación previa del Plan Regulador Intercomunal.
+
+#### Artículo 40°
+
+Las Secretarías Regionales del Ministerio de la Vivienda y Urbanismo podrán designar comisiones para asesorar en los estudios de la Planificación Urbana Intercomunal y, posteriormente, coordinar la programación y realización de los mismos a través de los planes de obras estatales y municipales.
+
+En las áreas metropolitanas la Secretaría Regional del Ministerio de la Vivienda y Urbanismo podrá asesorar a las Juntas de Alcaldes que se organicen para el estudio y resolución de problemas comunes a varios municipios, y que se aborden en la forma dispuesta en la Ley Orgánica de Municipalidades.
+
+### Párrafo 4° — .-
+
+De la Planificación Urbana Comunal
+
+#### Artículo 41°
+
+Se entenderá por Planificación Urbana Comunal aquella que promueve el desarrollo armónico del territorio comunal, en especial de sus centros poblados, en concordancia con las metas regionales de desarrollo social, económico, cultural y medioambiental y que incorpora disposiciones que resguardan y promueven la integración social y el acceso equitativo a bienes y servicios públicos urbanos.
+
+La planificación urbana comunal se realizará por medio del Plan Regulador Comunal.
+
+El Plan Regulador es un instrumento constituido por un conjunto de normas sobre adecuadas condiciones de higiene y seguridad en los edificios y espacios urbanos, y de comodidad en la relación funcional entre las zonas habitacionales, de trabajo, equipamiento y esparcimiento.
+
+Sus disposiciones se refieren al uso del suelo o zonificación, localización del equipamiento comunitario, estacionamiento, jerarquización de la estructura vial, fijación de límites urbanos, densidades y determinación de prioridades en la urbanización de terrenos para la expansión de la ciudad, en función de la factibilidad de ampliar o dotar de redes sanitarias y energéticas, y demás aspectos urbanísticos.
+
+Con todo, para la promoción de la integración e inclusión urbana, los destinos de establecimientos de larga estadía para el adulto mayor, centros diurnos para el adulto mayor, establecimientos deportivos de escala barrial, jardines infantiles y salas cunas se entenderán como complementarios a cualquier destino del uso residencial, incluyendo la vivienda, y por tanto siempre admitidos en zonas que el plan regulador comunal defina con dicho uso de suelo.
+
+Cuando sus disposiciones se establezcan en terrenos regulados con normas del ámbito de competencia propio de un plan regulador intercomunal o metropolitano, las normas del nivel comunal deberán ser compatibles con aquellas fijadas por el nivel superior, lo que será supervigilado por la Secretaría Regional Ministerial de Vivienda y Urbanismo en la forma que establece la Ordenanza General.
+
+#### Artículo 42°
+
+El Plan Regulador Comunal estará compuesto de:
+
+a) Una memoria explicativa que contendrá los antecedentes socioeconómicos, aquellos relativos a crecimiento demográfico, desarrollo industrial, de factibilidad económica de la propuesta, y demás antecedentes conceptuales y técnicos que sirvieron de base a las proposiciones y los objetivos, metas y prioridades de las obras básicas proyectadas. Asimismo, la memoria deberá contener un listado de indicadores de seguimiento y criterios de actualización y rediseño que permitan realizar su revisión periódica y monitoreo conforme lo dispone el artículo 28 sexies, en coherencia con aquellos indicadores y criterios establecidos en el artículo 7 quáter de la ley Nº 19.300.
+
+b) Un estudio de factibilidad para ampliar o dotar de agua potable y alcantarillado, en relación con el crecimiento urbano proyectado, estudio que requerirá consulta previa al Servicio Sanitario correspondiente de la Región;
+
+c) Una Ordenanza Local que contendrá las disposiciones reglamentarias pertinentes, y
+
+d) Los planos, que expresan gráficamente las disposiciones sobre uso de suelo, zonificación, equipamiento, relaciones viales, líimite urbano, áreas prioritarias de desarrollo urbano, de riesgo y restricción, etc.
+
+Para los efectos de su aprobación, modificación y aplicación, estos documentos constituirán un solo cuerpo normativo.
+
+#### Artículo 43
+
+El anteproyecto de plan regulador comunal o de sus modificaciones será elaborado por la municipalidad correspondiente, considerará la formulación y consulta de su imagen objetivo en los casos en que así corresponda, conforme con el artículo 28 octies, y se ajustará a lo dispuesto en el inciso cuarto del artículo 7° bis de la ley N° 19.300. De conformidad al inciso quinto del señalado artículo 7° bis, el anteproyecto de plan regulador que se elabore contendrá un informe ambiental que será remitido al Ministerio del Medio Ambiente para sus observaciones.
+
+Al mismo tiempo se solicitará la opinión del gobierno regional correspondiente, que deberá pronunciarse sobre el anteproyecto de plan regulador dentro del plazo de treinta días, contado desde su recepción. Vencido dicho término sin pronunciamiento se entenderá que no existen observaciones. Cumplido lo anterior, el anteproyecto deberá ser remitido a la Secretaría Regional Ministerial de Vivienda y Urbanismo para que lo revise y emita un informe sobre sus aspectos técnicos, administrativos y procedimentales relativos a su concordancia con esta ley, su Ordenanza General y el instrumento de planificación territorial de nivel intercomunal, si lo hay, dentro del plazo de veinte días hábiles contado desde su recepción. Si el informe es favorable, la municipalidad podrá iniciar el proceso de participación ciudadana y aprobación que se regula en este artículo. Si hay observaciones, la municipalidad tendrá el plazo de treinta días hábiles para su subsanación. Dentro del plazo de quince días hábiles, contado desde la recepción de la subsanación de las observaciones, la Secretaría Regional Ministerial deberá pronunciarse definitivamente y emitirá su informe favorable, si corresponde. Transcurrido dicho plazo sin pronunciamiento expreso se entenderá que el informe es favorable y podrá continuar el procedimiento. A continuación, la autoridad encargada presentará el anteproyecto al concejo municipal para que, dentro del plazo de treinta días contado desde la sesión en que haya sido presentado, acuerde someter ambos documentos al siguiente proceso de participación ciudadana y aprobación:
+
+1. Informar a los vecinos acerca de las principales características del instrumento de planificación propuesto y de sus efectos, de acuerdo con lo que señale la Ordenanza General. Los documentos que integren el anteproyecto del instrumento de planificación territorial deberán estar disponibles en el sitio electrónico municipal desde el inicio del proceso de participación ciudadana, junto con un resumen ejecutivo, sin perjuicio de otras formas de información masiva que resulten más adecuadas o habituales en la comuna.
+
+Dicho resumen ejecutivo debe incluir, en un lenguaje claro y simple, la descripción del instrumento de planificación y sus principales consecuencias e indicar expresamente si el anteproyecto se ajusta a los términos a que se refiere el número 5 del inciso segundo del artículo 28 octies, con explicación de los cambios que se produjeron de manera fundada, en caso de corresponder.
+
+2. Realizar una o más audiencias públicas en los barrios o sectores más afectados para explicar el anteproyecto a la comunidad, en la forma indicada en la ley orgánica constitucional de Municipalidades. En dichas audiencias deberá informarse expresamente si el anteproyecto se ajusta a los términos a que se refiere el número 5 del inciso segundo del artículo 28 octies y explicarse de manera fundada los cambios que se produjeron, en caso de corresponder. La o las audiencias públicas se llevarán a cabo en forma simultánea a la exposición del anteproyecto a la comunidad conforme con el numeral 4, y en ningún caso podrán extenderse por un periodo superior a sesenta días.
+
+3. Consultar la opinión del consejo comunal de organizaciones de la sociedad civil, en sesión citada expresamente para este efecto. Dicha consulta deberá realizarse transcurridos no más de diez días contados desde la última audiencia pública.
+
+4. Exponer el anteproyecto a la comunidad por el plazo de a lo menos treinta días, de acuerdo con lo establecido en el numeral 2.
+
+5. Los interesados podrán formular por escrito las observaciones fundadas que estimen convenientes acerca del anteproyecto, desde la publicación de los documentos que integren el anteproyecto en el sitio electrónico municipal hasta treinta días después de la audiencia pública a que se refiere el numeral 2 y, en caso de realizarse más de una audiencia pública, hasta treinta días después de la última de ellas.
+
+El lugar y plazo de exposición del anteproyecto y el lugar, fecha y hora de las audiencias públicas, de acuerdo con lo establecido en el numeral 2, deberán comunicarse previamente por medio de dos avisos publicados en semanas distintas en algún diario de los de mayor circulación en la comuna y mediante avisos radiales o en la forma de comunicación masiva más adecuada o habitual en la comuna.
+
+Cumplidos los trámites anteriores, el alcalde deberá presentar el anteproyecto para la aprobación del concejo comunal, junto con las observaciones que hayan hecho llegar los interesados, en el plazo no superior a treinta días contado desde que venza el plazo para formular tales observaciones.
+
+El concejo comunal deberá pronunciarse sobre las proposiciones que contenga el anteproyecto de plan regulador dentro del plazo máximo de sesenta días, y para ello considerará el informe técnico emitido por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo, analizará las observaciones recibidas y adoptará acuerdos respecto de cada una de las materias impugnadas por la comunidad. Transcurrido el plazo anterior sin un pronunciamiento expreso, se entenderá que el proyecto fue aprobado. Si aprueba modificaciones, el concejo deberá cautelar que no impliquen nuevos gravámenes o afectaciones desconocidas por la comunidad, de acuerdo con la Ordenanza General. No podrá pronunciarse sobre materias o disposiciones no contenidas en el aludido anteproyecto, salvo que el anteproyecto modificado producto de la aprobación de las observaciones formuladas por la comunidad se exponga nuevamente conforme con lo dispuesto en el inciso segundo. En este último caso, las observaciones que pueda formular la comunidad al anteproyecto solo podrán estar relacionadas con las materias modificadas. Cualquier observación que incumpla esta condición por reiterar argumentos o estén relacionadas con aspectos que no se hayan alterado del anteproyecto deberá ser considerada inadmisible por el concejo.
+
+La Ordenanza General contemplará normas relativas a los "conjuntos armónicos de edificación" en base a los cuales se podrán autorizar excepciones a la Ordenanza Local del plan regulador comunal.
+
+#### Artículo 43 bis
+
+En el caso de los planes reguladores comunales o planes seccionales de comunas que estén normadas por un plan regulador metropolitano o intercomunal, el proyecto aprobado y todos sus antecedentes serán remitidos a la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva. En caso de haberse tramitado una evaluación ambiental estratégica, será necesario haber obtenido previamente el informe final favorable del Ministerio del Medio Ambiente y dictado el acto administrativo de término de dicho procedimiento. Si el proyecto altera la propuesta de modificación del límite urbano, en los términos a que se refiere el numeral 5 del inciso segundo del artículo 28 octies, junto con enviarlo a la Secretaría Regional Ministerial respectiva, el alcalde informará de este hecho al Ministerio de Vivienda y Urbanismo, dentro de quinto día, para lo dispuesto en la letra b) del artículo 28 undecies; y al Servicio de Impuestos Internos, con identificación de la zona afectada, con copia al concejo municipal.
+
+La Secretaría Regional Ministerial de Vivienda y Urbanismo revisará el proyecto y emitirá un informe sobre sus aspectos técnicos, administrativos y procedimentales dentro del plazo de treinta días contado desde su recepción. El informe deberá elaborarse sobre la base del informe previo emitido conforme con el inciso segundo del artículo 43 de esta ley y en base al informe final favorable emitido por el Ministerio del Medio Ambiente, en caso de corresponder. Adicionalmente, debe revisar y pronunciarse sobre los aspectos técnicos, administrativos o procedimentales de las modificaciones que se hayan introducido al anteproyecto producto de las observaciones de la comunidad.
+
+El informe de la Secretaría Regional Ministerial será remitido directamente al municipio, junto con el proyecto y sus antecedentes, con copia al gobierno regional. Si el informe es favorable, el proyecto de plan regulador o de plan seccional será promulgado por decreto alcaldicio, el que deberá ser dictado dentro del plazo de quince días hábiles contado desde la recepción de dicho informe.
+
+Si el informe de la Secretaría Regional Ministerial es negativo por no ajustarse a los términos del plan regulador metropolitano o intercomunal, dicha autoridad lo remitirá al municipio, junto con el proyecto y sus antecedentes. El municipio podrá modificar el proyecto para concordarlo con el plan regulador metropolitano o intercomunal o insistir en su proyecto. En este último caso, remitirá el proyecto y todos los antecedentes al Gobierno Regional, incluido el informe negativo de la Secretaría Regional Ministerial, para que se pronuncie sobre los aspectos objetados en base al informe técnico de la Secretaría Regional Ministerial. En esta instancia el consejo regional solo podrá aprobar el proyecto mediante acuerdo fundado.
+
+En caso de ser aprobado el proyecto de plan regulador mediante acuerdo fundado del consejo regional en la forma establecida en el inciso anterior, será promulgado por resolución del Gobernador Regional.
+
+#### Artículo 43 ter
+
+Si se trata de planes reguladores comunales o planes seccionales de comunas que no estén normadas por un plan regulador metropolitano o intercomunal, el proyecto aprobado por el concejo municipal será remitido al alcalde para su aprobación mediante decreto alcaldicio. En caso de haberse tramitado una evaluación ambiental estratégica, será necesario haber obtenido previamente el informe final favorable del Ministerio del Medio Ambiente y dictado el acto administrativo de término de dicho procedimiento. Si el proyecto altera la propuesta de modificación del límite urbano, en los términos a que se refiere el numeral 5 del inciso segundo del artículo 28 octies, junto con enviarlo al alcalde, el concejo informará de este hecho al Ministerio de Vivienda y Urbanismo, dentro de quinto día, para lo dispuesto en la letra b) del artículo 28 undecies; y al Servicio de Impuestos Internos, con identificación de la zona afectada.
+
+Una vez aprobado mediante decreto alcaldicio y con todos sus antecedentes, será remitido a la Contraloría General de la República para su toma de razón.
+
+En el trámite de toma de razón, la Contraloría General de la República se pronunciará sobre la legalidad de los instrumentos de planificación territorial en el plazo de tres meses, el cual podrá prorrogarse por una sola vez y hasta por un mes por resolución fundada del Contralor General de la República.
+
+#### Artículo 44
+
+El estudio y aprobación del Plan Regulador Comunal, así como sus revisiones y modificaciones posteriores, se efectuarán de acuerdo con las disposiciones de esta Ley y con las normas para confección de planes reguladores que establezca el Ministerio de Vivienda y Urbanismo, según la población y rango regional de las comunas.
+
+#### Artículo 45
+
+Las modificaciones al plan regulador comunal se sujetarán, en lo pertinente, al mismo procedimiento señalado en el artículo 43, 43 bis y 43 ter, según corresponda.
+
+Sin embargo, respecto de las enmiendas que incidan en las materias que se indican a continuación, y aquellas que defina la Ordenanza General de Urbanismo y Construcciones, las municipalidades aplicarán lo dispuesto en los numerales 1 al 5 del inciso segundo y en los incisos tercero a quinto del artículo 43, salvo lo referido al informe técnico emitido por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo y, una vez aprobadas tales enmiendas por el concejo, serán promulgadas por decreto alcaldicio:
+
+1. Localización del equipamiento básico o vecinal en los barrios o sectores. Para estos efectos, la enmienda podrá referirse a la incorporación del uso de suelo o clase de equipamiento requerida, o a la incorporación o modificación de otras normas urbanísticas para los mismos fines.
+
+2. Eliminar o modificar los trazados o modificar los perfiles de los pasajes y de las vías locales o de servicio que tengan un informe favorable de la autoridad regional o metropolitana competente en materia urbanística.
+
+3. Disposiciones varias relativas a las condiciones de edificación y urbanización dentro de los márgenes que establezca la Ordenanza General de esta ley.
+
+4. Establecimiento de condiciones para la utilización de la capacidad máxima de edificación admitida en una zona con uso de suelo residencial o en parte de ésta, tales como la incorporación de viviendas de interés público u otras exigencias destinadas a promover el acceso equitativo por la población a bienes públicos urbanos relevantes.
+
+5. Establecimiento de incentivos normativos, que respeten los márgenes que establezca la Ordenanza General, en sectores que ya admiten el uso de suelo residencial y cuyos indicadores y estándares de desarrollo urbano sean deficitarios conforme con los parámetros que establezca la Ordenanza General. Tales incentivos deberán quedar condicionados a la incorporación de viviendas de interés público y al cumplimiento de exigencias adicionales que tengan por objeto la puesta en valor o la revitalización de dicho sector, tales como la ejecución de obras específicas en el espacio público o la obligación de destinar parte de lo edificado a ciertos fines que beneficien a la comunidad.
+
+6. Establecimiento de incentivos normativos que respeten los márgenes que establezca la Ordenanza General, en sectores que ya admiten el uso de suelo residencial y cuyo potencial de densificación podría aumentarse en atención a los bienes públicos urbanos existentes o como consecuencia de las inversiones que los órganos de la Administración del Estado realicen o realizarán en materia de movilidad, transporte público, áreas verdes o equipamientos de interés público. Tales incentivos deberán quedar condicionados a la incorporación de viviendas de interés público, sin perjuicio del establecimiento de otras condiciones adicionales destinadas a promover el acceso equitativo por la población a bienes públicos urbanos relevantes.
+
+7. Reconocer, modificar o eliminar las áreas de protección de recursos de valor natural y patrimonial cultural para ajustarse al ordenamiento jurídico sectorial que las estableció, modificó o eliminó, según corresponda, y la definición de las normas urbanísticas aplicables.
+
+8. Reconocer, modificar o eliminar las áreas, zonas o franjas o radios de restricción establecidos, modificados o eliminados por el organismo sectorial competente, previo informe de aquel, y definir las respectivas normas urbanísticas en caso de corresponder.
+
+9. Establecer las normas urbanísticas aplicables en aquellos terrenos que hayan dejado de estar regulados por normas del ámbito de competencia propio de un plan regulador intercomunal o metropolitano.
+
+10. Reclasificar o asimilar la vialidad, y se cuente para ello con un informe favorable de la autoridad regional o metropolitana competente en materia urbanística.
+
+11. Ajustarse a la densidad mínima establecida en el plan regulador intercomunal o metropolitano, conforme a la facultad dispuesta en el inciso quinto del artículo 34 y, en consecuencia, adecuar las normas urbanísticas que correspondan.
+
+12. Disposiciones relativas a la localización y ejecución de obras de edificación e instalaciones destinadas a la desalinización de agua de mar en un sector de área urbana.
+
+Cualquier procedimiento especial y/o simplificado de modificación de un plan regulador comunal que pueda implicar una modificación sustancial, conforme con lo dispuesto en el artículo 7° bis de la ley N° 19.300, se someterá, para dichos efectos, al procedimiento simplificado de evaluación ambiental estratégica que establezca el reglamento a que alude el artículo 7° ter de la citada ley.
+
+La subsanación de los errores de copia, de referencia, de cálculos numéricos y, en general, los puramente materiales o de hechos que aparezcan de manifiesto en el plan regulador, se regirá por lo dispuesto en el Párrafo 4° del Capítulo IV de la ley N° 19.880.
+
+#### Artículo 46
+
+En las comunas en que no exista Plan Regulador podrán estudiarse Planes Seccionales, los que se aprobarán conforme a lo prescrito en los artículos 28 octies y 43.
+
+#### Artículo 47
+
+Deberán contar y mantener actualizado el Plan Regulador Comunal:
+
+a) las comunas que estén sujetas a Planificación urbana intercomunal;
+
+b) todos aquellos centros poblados de una comuna que tengan una población de 7.000 habitantes o más;
+
+c) aquellos centros poblados de una comuna que sean afectados por una destrucción total o parcial, y
+
+d) aquellos centros poblados de una comuna que la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva disponga mediante resolución. La referida Secretaría Regional Ministerial podrá encargarse de la confección del Plan, debiendo, en todo caso, enviarlo a la municipalidad correspondiente para su tramitación de acuerdo al procedimiento señalado en el artículo 43, en el artículo 43 bis o en el artículo 43 ter, según corresponda.
+
+#### Artículo 48
+
+Derogado.
+
+#### Artículo 49°
+
+Las Municipalidades con obligación de tener Plan Regulador Comunal podrán designar una comisión, con representación municipal y particular, para asesorar en su estudio y coordinar su programación y realización. Los cargos de la comisión serán ad honorem y, además, voluntarios para los particulares. Asimismo, las Municipalidades podrán solicitar la designación de funcionarios de la Administración Pública para que integren esta comisión asesora.
+
+#### Artículo 50°
+
+En casos especiales de proyectos de los Servicios Regionales o Metropolitano de Vivienda y Urbanización, éstos podrán proponer al Ministerio de la Vivienda y Urbanismo a través de la respectiva Secretaría Regional, las modificaciones a los Planes Reguladores que estimen necesario. El Ministerio aprobará dichas modificaciones previo informe de la Municipalidad respectiva, la que deberá evacuarlo en el plazo de 30 días. Vencido este plazo, el Ministerio podrá resolver, aunque no se haya emitido dicho informe.
+
+#### Artículo 51°
+
+Los trazados de los Planes Reguladores Comunales se realizarán por el municipio mediante;
+
+(a) las expropiaciones derivadas de la declaración de utilidad pública contenida en el artículo 59°;
+
+(b) las adquisiciones hechas en licitación pública o compra directa por la Municipalidad, de acuerdo con su Ley Orgánica. En el caso de compra directa, el precio no podrá exceder de la tasación respectiva que efectúe la Dirección de Obras Municipales. Para estas adquisiciones, no regirá lo dispuesto en el artículo 49° de la ley N° 17.235, y
+
+(c) las cesiones de terrenos que se urbanicen, de acuerdo con las disposiciones de esta ley y su ordenanza general.
+
+## Capítulo III
+
+De los límites urbanos
+
+#### Artículo 52°
+
+Se entenderá por límite urbano, para los efectos de la presente ley y de la Ley Orgánica de Municipalidades, la línea imaginaria que delimita las áreas urbanas y de extensión urbana que conforman los centros poblados, diferenciándolos del resto del área comunal.
+
+#### Artículo 53
+
+La fijación de límites urbanos de los centros poblados que no cuenten con plan regulador, y sus modificaciones, se sujetarán a las siguientes reglas de tramitación:
+
+1. Se aplicará lo dispuesto en el artículo 27 ter y en el artículo 28 octies, salvo los párrafos segundo y tercero del numeral 1 del inciso segundo de este último artículo.
+
+Cumplido lo anterior, deberá recabarse el informe de la Secretaría Regional Ministerial de Agricultura, organismo que deberá emitirlo dentro del plazo de quince días, contado desde que le sea requerido por la municipalidad. Vencido dicho plazo, se tendrá por evacuado sin observaciones.
+
+2. Se aplicarán los numerales 1, 4 y 5 del inciso segundo del artículo 43. El lugar y plazo de exposición a la comunidad deberá comunicarse por medio de un aviso en algún diario de los de mayor circulación de la comuna, publicado a lo menos con una semana de anticipación al inicio de la exposición y en la forma de comunicación masiva más adecuada o habitual en la comuna. Los interesados podrán formular observaciones conforme a lo indicado en el numeral 5 del artículo citado en forma simultánea a la exposición y dentro del mismo plazo.
+
+3. Cumplidos los trámites anteriores, el alcalde deberá presentar el anteproyecto de límite urbano para la aprobación del concejo comunal, junto con las observaciones que hayan hecho llegar los interesados, en el plazo no superior a quince días contado desde que venza el plazo para formular tales observaciones.
+
+4. El concejo comunal deberá pronunciarse sobre las proposiciones que contenga el anteproyecto dentro del plazo máximo de treinta días. Transcurrido el plazo anterior sin un pronunciamiento expreso, se entenderá que el proyecto fue aprobado. El referido plazo se entenderá suspendido en caso de requerirse el informe que se indica en el numeral siguiente.
+
+5. El concejo comunal solo podrá incorporar modificaciones al anteproyecto producto de la aprobación de las observaciones formuladas por la comunidad con informe previo de la Secretaría Regional Ministerial de Agricultura, en aquellas materias que sean de su competencia, organismo que deberá emitirlo dentro del plazo de quince días, contado desde que le sea requerido por la municipalidad. Vencido dicho plazo, se tendrá por evacuado sin observaciones.
+
+6. Si el proyecto altera la propuesta de modificación del límite urbano, en los términos a que se refiere el n umeral 5 del inciso segundo del artículo 28 octies, el alcalde informará de este hecho al Ministerio de Vivienda y Urbanismo, dentro de quinto día, para lo dispuesto en la letra b) del artículo 28 undecies; al Servi cio de Impuestos Internos, con identificación de la zona afectada, y al concejo municipal.
+
+7. El proyecto aprobado, con todos sus antecedentes, será promulgado de acuerdo con lo dispuesto en los artículos 43 bis o 43 ter, según corresponda, para lo cual será necesario haber obtenido previamente el informe final favorable del Ministerio del Medio Ambiente y dictado el acto administrativo de término de dicho procedimiento.
+
+La fijación del límite urbano y sus modificaciones se someterá al procedimiento simplificado de evaluación ambiental estratégica que establezca el reglamento a que alude el artículo 7° ter de la ley N° 19.300.
+
+La aprobación o modificación de planes reguladores comunales de aquellas comunas que tengan hasta 20.000 habitantes se sujetaran a las reglas de tramitación señaladas en este artículo.
+
+#### Artículo 53 bis
+
+En aquellas localidades que cuenten únicamente con límite urbano, para clasificar la red vial pública, la Dirección de Obras Municipales aplicará supletoriamente los criterios de clasificación que se establecen en la Ordenanza General de Urbanismo y Construcciones en lo relativo a anchos mínimos de sus calzadas pavimentadas y distancia entre líneas oficiales. Dicha información deberá ser consignada en el Certificado de Informaciones Previas. Asimismo, la Dirección de Obras Municipales podrá asimilar las vías existentes a las clases señaladas en la Ordenanza General, aun cuando éstas no cumplan los anchos mínimos o las condiciones y características allí establecidos. Para dicho objeto deberán contar con informe favorable de la autoridad regional o metropolitana competente en materia urbanística.
+
+#### Artículo 54°
+
+En las ciudades en que se aprobare un plan regulador el límite urbano fijado por éste reemplazará automáticamente al límite urbano anterior.
+
+Cuando se amplíe el límite urbano de un Plan Regulador, se definirá simultánemente el uso del suelo, que corresponda a los terrenos que se incorporen al área urbana.
+
+#### Artículo 55
+
+Fuera de los límites urbanos establecidos en los Planes Reguladores no será permitido abrir calles, subdividir para formar poblaciones, ni levantar construcciones, salvo aquellas que fueren necesarias para la explotación agrícola del inmueble, o para las viviendas del propietario del mismo y sus trabajadores, o para la construcción de conjuntos habitacionales de viviendas sociales o de viviendas de hasta un valor de 1.000 unidades de fomento, que cuenten con los requisitos para obtener el subsidio del Estado.
+
+Corresponderá a la Secretaría Regional de Vivienda y Urbanismo respectiva cautelar que las subdivisiones y construcciones en terrenos rurales, con fines ajenos a la agricultura, no originen nuevos núcleos urbanos al margen de la Planificación urbana intercomunal.
+
+Con dicho objeto, cuando sea necesario subdividir y urbanizar terrenos rurales para complementar alguna actividad industrial con viviendas, dotar de equipamiento a algún sector rural, o habilitar un balneario o campamento turístico, o para la construcción de conjuntos habitacionales de viviendas sociales o de viviendas de hasta un valor de 1.000 unidades de fomento, que cuenten con los requisitos para obtener el subsidio del Estado, la autorización que otorgue la Secretaría Regional del Ministerio de Agricultura requerirá del informe previo favorable de la Secretaría Regional del Ministerio de Vivienda y Urbanismo. Este informe señalará el grado de urbanización que deberá tener esa división predial, conforme a lo que establezca la Ordenanza General de Urbanismo y Construcciones.
+
+Igualmente, las construcciones industriales, de infraestructura, de equipamiento, turismo, y poblaciones, fuera de los límites urbanos, requerirán, previamente a la aprobación correspondiente de la Dirección de Obras Municipales, del informe favorable de la Secretaría Regional del Ministerio de Vivienda y Urbanismo y del Servicio Agrícola que correspondan. El mismo informe será exigible a las obras de infraestructura de transporte, sanitaria y energética que ejecute el Estado.
+
+#### Artículo 56°
+
+En las áreas rurales, se prohíbe a los dueños de predios colindantes con los caminos públicos nacionales, definidos por la Ley de Caminos, ocupar las franjas de 35 metros, medidas a cada lado de los cierros actuales a los que se ejecuten en variantes o caminos nuevos nacionales, con construcciones que en el futuro perjudiquen su ensanche.
+
+La apertura de nuevos caminos o calles que desemboquen en los caminos de carácter nacional o regional, requerirán autorización de la Dirección de Vialidad del Ministerio de Obras Públicas, previo informe de la Dirección de Planificación del Desarrollo Urbano del Ministerio de la Vivienda y Urbanismo, cuando ellos incidan en las áreas de los Planos Reguladores Intercomunales.
+
+## Capítulo IV
+
+Del uso del suelo urbano
+
+#### Artículo 57°
+
+El uso del suelo urbano en las áreas urbanas se regirá por lo dispuesto en los Planes Reguladores, y las construcciones que se levanten en los terrenos serán concordantes con dicho propósito.
+
+#### Artículo 58°
+
+Igualmente, el otorgamiento de patentes municipales será concordante con dicho uso del suelo. Las patentes, no regidas por las normas especiales diversas, requerirán el informe previo favorable de la Dirección de Obras Municipales. El otorgamiento de patentes que vulneren el uso del suelo establecido en la planificación urbana acarreará la caducidad automática de éstas, y será causal de destitución del funcionario o autoridad municipal que las hubiere otorgado.
+
+#### Artículo 59
+
+Decláranse de utilidad pública todos los terrenos consultados en los planes reguladores comunales, planes reguladores intercomunales y planes seccionales destinados a circulaciones, plazas y parques, incluidos sus ensanches, en las áreas urbanas, así como los situados en el área rural que los planes reguladores intercomunales destinen a vialidades.
+
+Los propietarios de terrenos afectos a declaratoria de utilidad pública podrán solicitar a la municipalidad o a la Secretaría Regional Ministerial de Vivienda y Urbanismo, según corresponda, que a través de planos de detalle se grafique con exactitud la parte de sus terrenos afecta a utilidad pública cuando el plan intercomunal o comunal no lo haya establecido, debiendo tales planos aprobarse dentro de los seis meses siguientes.
+
+#### Artículo 59 bis
+
+Entretanto se procede a la expropiación o adquisición de los terrenos a que se refiere el artículo precedente, la parte afectada del inmueble estará sujeta a las siguientes reglas:
+
+a) Si a la fecha de la declaratoria existieran construcciones, no podrá aumentarse su volumen, salvo para las excepciones que autoriza el artículo 62 de esta ley y siempre que hubieren contado con los permisos respectivos.
+
+No obstante, si producto de un caso fortuito o fuerza mayor las construcciones existentes experimentasen daños que las dejen inutilizables, podrá autorizarse su reconstrucción hasta completar el volumen de la edificación que existía previamente, siempre que ésta hubiere contado con los permisos respectivos.
+
+Con todo, tratándose de viviendas podrá aumentarse el volumen o reconstruirse hasta dos pisos, conforme a lo señalado en la letra siguiente.
+
+b) Si a la fecha de la declaratoria no existieran construcciones, sólo se admitirá la edificación de una vivienda de hasta dos pisos de altura en los lotes recepcionados a la fecha de la declaratoria, conforme a las reglas que establezca la Ordenanza General. Construida ésta, quedará sujeta al régimen de la letra precedente. En las referidas viviendas se permitirán las actividades que admite el artículo 162 de esta ley.
+
+c) Excepcionalmente, la Dirección de Obras Municipales podrá permitir otras construcciones o alteraciones en las construcciones existentes, en los términos y con las limitaciones prescritos en el artículo 121.
+
+Lo dispuesto en este artículo será sin perjuicio de las limitaciones establecidas en otras disposiciones de esta ley o en otras leyes.
+
+#### Artículo 60°
+
+El Plan Regulador o Plan Seccional señalará los terrenos afectados por riesgos y las normas que les sean aplicables. Asimismo, señalará cuáles de dichos terrenos, por su especial naturaleza y ubicación, no serán edificables, no podrán subdividirse y sólo se aceptará en éstos la ubicación de actividades transitorias, manteniéndose las características rústicas del predio.
+
+Adicionalmente, el Plan Regulador o Seccional incorporará o establecerá, cuando corresponda, las áreas, zonas, franjas o radios de restricción, relativos a:
+
+a) Infraestructura, tales como aeródromos, aeropuertos, helipuertos, oleoductos, gaseoductos, líneas de alta tensión, de conformidad con el ordenamiento jurídico vigente.
+
+b) Instalaciones o actividades peligrosas.
+
+Cuando terrenos que correspondan a áreas, zonas, franjas o radios de restricción de la letra a) del inciso precedente pierdan dicha condición, conforme con lo establecido por el organismo sectorial competente, podrán aplicarse las normas de la zona predominante de las adyacentes a los terrenos desafectados. Para estos efectos, la zona predominante de las adyacentes y la pertinencia de aplicar dichas normas urbanísticas en los citados terrenos será determinada por la Secretaría Regional Ministerial, mediante resolución, o por la municipalidad, mediante decreto alcaldicio, según se trate de instrumentos de planificación territorial de nivel intercomunal o comunal, respectivamente. Lo anterior, previo informe del organismo sectorial competente y según lo establezca la Ordenanza General.
+
+El análisis de pertinencia deberá considerar, a lo menos, la existencia de amenazas de origen natural o antrópico en los terrenos y, en caso afirmativo, sólo podrán aplicarse las normas urbanísticas de la zona predominante de las adyacentes si ella considera la respectiva área de riesgo. La resolución a que alude este artículo deberá publicarse en el Diario Oficial. Lo anterior, sin perjuicio de la posibilidad de aplicar el artículo 45.
+
+#### Artículo 60 bis
+
+Igualmente, el plan regulador señalará los inmuebles o zonas de conservación histórica, en cuyo caso los edificios existentes no podrán ser demolidos o refaccionados sin previa autorización de la Secretaría Regional Ministerial correspondiente.
+
+Todo instrumento de planificación territorial deberá incluir los humedales urbanos declarados por el Ministerio del Medio Ambiente, dentro de su ámbito de competencia propio, en calidad de área de protección de valor natural. Lo anterior, para efectos de establecer las normas bajo las que deberán otorgarse los permisos de urbanizaciones o construcciones que se desarrollen en ellos.
+
+En el caso de instrumentos de planificación territorial que se encuentren en elaboración o en proceso de modificación a la fecha de declaración del humedal urbano, la obligación contenida en el inciso anterior será exigible cuando la declaratoria se produzca antes del acuerdo del consejo regional o del concejo comunal, según corresponda, para dar inicio al proceso de consulta pública y aprobación del anteproyecto, conforme con lo establecido en el artículo 36 o en el artículo 43. En el resto de los casos, la municipalidad o la Secretaría Regional Ministerial deberán iniciar la tramitación de una enmienda al respectivo instrumento de planificación territorial para los fines indicados en el inciso precedente, dentro del plazo de treinta días, contado desde la declaración de un humedal urbano por el Ministerio del Medio Ambiente.
+
+#### Artículo 61°
+
+El cambio de uso del suelo se tramitará como modificación del Plan Regulador correspondiente.
+
+La desafectación de bienes nacionales de uso público se tramitará, por consiguiente, como una modificación del Plan Regulador. El decreto de desafectación dispondrá, además, la inscripción del dominio del predio a nombre del Servicio Metropolitano o Regional de la Vivienda y Urbanización que corresponda.
+
+#### Artículo 62
+
+Los terrenos cuyo uso no se conformare con los instrumentos de planificación territorial correspondientes, se entenderán congelados. En consecuencia, no podrá aumentarse en ellos el volumen de construcción existente para dicho uso de suelo. Sin embargo, los aumentos que tengan por objeto preciso mitigar los impactos ambientales adversos que provocare su actividad productiva no estarán afectos a dicho congelamiento, como, asimismo, las obras destinadas a mejorar la calidad de su arquitectura, de sus estructuras y de sus instalaciones, incluidas aquéllas que tengan un sentido estético que contribuya a mejorar su aspecto.
+
+No estarán afectos al congelamiento a que se refiere el inciso anterior, los aumentos de superficie edificada de establecimientos penitenciarios, de hasta el 50%, que resulten imprescindibles para mejorar su funcionamiento y asegurar el cumplimiento de sus fines, previa calificación fundada de su necesidad por parte del Ministerio de Justicia y Derechos Humanos, con informe favorable de Gendarmería de Chile. En este caso, la calificación de obra imprescindible deberá ser informada por ese ministerio a la dirección de obras municipales del municipio correspondiente dentro del plazo de diez días hábiles contado desde la dictación del respectivo acto administrativo. A estas obras les resultarán plenamente aplicables las disposiciones para obras de carácter penitenciario contempladas en el artículo 116.
+
+Las industrias mal ubicadas, que causen molestias o daños al vecindario, deberán trasladarse dentro del plazo que les señale la Municipalidad, previo informe del Departamento de Higiene Ambiental del Servicio Nacional de Salud y de la Secretaría Regional Correspondiente del Ministerio de Vivienda y Urbanismo. Este plazo no será inferior a un año.
+
+#### Artículo 63°
+
+La fusión de dos o más terrenos en uno solo tendrá un beneficio de mayor densidad, a través de aumentar el coeficiente de constructibilidad del predio en un 30%.
+
+Cuando resulten terrenos de 2.500 m2. o más, podrán acogerse a los beneficios que otorga el concepto de "Conjunto Armónico".
+
+#### Artículo 64°
+
+En las áreas urbanas, los bienes nacionales de uso público que correspondan a terrenos de playa o riberas de mar, de humedales de ríos y de lagos navegables, se usarán en concordancia con lo dispuesto en el Plan Regulador y su Ordenanza Local. Las concesiones que la Dirección del Litoral otorgare sobre ellos requerirán el informe previo favorable de la Dirección de Obras Municipales respectiva.
+
+## Capítulo V
+
+De la Subdivisión y la Urbanización del Suelo
+
+#### Artículo 65°
+
+El proceso de subdivisión y urbanización del suelo comprende cuatro casos:
+
+a) Subdivisión de terrenos, sin que se requiera la ejecución de obras de urbanización, por ser suficientes las existentes;
+
+b) Loteos de terrenos, condicionados a la ejecución de obras de urbanización, incluyendo como tales la apertura de calles y formación de nuevos barrios o poblaciones;
+
+c) Urbanización de loteos existentes, cuyas obras de infraestructura sanitaria y energética y de pavimentación no fueron realizadas oportunamente. El proceso de transferencia de los terrenos estará sujeto a que el propietario de los mismos cumpla con los requisitos que se determinan en el Párrafo 4°, Capítulo II, del Título III de esta ley, y en su Ordenanza General.
+
+d) Urbanizaciones voluntarias ejecutadas en el espacio público o al interior de un predio por parte de su propietario, desvinculadas del proceso de división del suelo, sujetas siempre a aprobación previa de la municipalidad respectiva.
+
+#### Artículo 66°
+
+La formación de nuevas poblaciones, barrios, grupos o conjuntos habitacionales deberá respetar las disposiciones de esta ley y su Ordenanza General, y el Plan Regulador y Ordenanza Local, en cuanto al uso del suelo, trazados viales, densidades, superficie mínima predial, coeficientes de constructibilidad y demás disposiciones de carácter urbanístico.
+
+#### Artículo 67
+
+Los proyectos de subdivisión, divisiones afectas, loteos, urbanización, fusión o modificación de deslindes de terrenos deberán ajustarse estrictamente a los trazados y normas que consulte el Plan Regulador y deberán llevar la firma del profesional competente de acuerdo con la Ordenanza General. En caso de modificación de deslindes, no se podrán afectar los derechos de terceros ni bienes nacionales de uso público.
+
+Las modificaciones y rectificaciones de deslindes autorizadas por la Dirección de Obras Municipales se inscribirán en el Registro de Propiedad del Conservador de Bienes Raíces y se anotarán al margen de la inscripción de dominio respectiva.
+
+#### Artículo 68°
+
+Los sitios o lotes resultantes de una subdivisión, loteo o urbanización, estén edificados o no, deberán tener acceso a un espacio de uso público y cumplir con las disposiciones de la presente ley, su Ordenanza y el Plan Regulador correspondiente.
+
+#### Artículo 69°
+
+Todo plano aprobado de subdivisión, loteo o urbanización pasará automáticamente a ser parte del Plan Regulador de la Comuna.
+
+#### Artículo 70
+
+En toda urbanización de terrenos se cederá gratuita y obligatoriamente para circulación, áreas verdes, desarrollo de actividades deportivas y recreacionales, y para equipamiento, las superficies que señale la Ordenanza General, las que no podrán exceder del 44% de la superficie total del terreno original. Las urbanizaciones de terreno podrán voluntariamente ceder superficies que excedan dicho porcentaje, sujeto siempre a aprobación previa de la municipalidad respectiva.
+
+Si el instrumento de planificación territorial correspondiente contemplare áreas verdes de uso público o fajas de vialidad en el terreno respectivo, las cesiones se materializarán preferentemente en ellas.
+
+La municipalidad podrá permutar o enajenar los terrenos recibidos para equipamiento, con el objeto de instalar las obras correspondientes en una ubicación y espacio más adecuados.
+
+La exigencia establecida en el inciso anterior será aplicada proporcionalmente en relación con la intensidad de utilización del suelo que establezca el correspondiente instrumento de planificación territorial, bajo las condiciones que determine la Ordenanza General de esta ley, la que fijará, asimismo, los parámetros que se aplicarán para las cesiones cuando se produzca crecimiento urbano por densificación.
+
+#### Artículo 71°
+
+La subdivisión, loteo o urbanización de terrenos fiscales en las áreas urbanas se sujetarán a las disposiciones del Plan Regulador respectivo y cumplirán con las normas de urbanización que señala esta ley. En el otorgamiento de los títulos de dominio correspondientes se dejará constancia del uso del suelo prescrito en el Plan Regulador.
+
+Como parte del proceso de desarrollo urbano, dichas subdivisiones se controlarán y aprobarán por la Dirección de Obras Municipales.
+
+En las áreas rurales, la subdivisión de dichos terrenos fiscales para una finalidad no agrícola, requerirá el informe previo favorable de la Secretaria Regional correspondiente del Ministerio de la Vivienda y Urbanismo. En estos casos, deberán ejecutarse las obras mínimas de urbanización que señale para cada subdivisión la misma Secretaría Regional.
+
+## Capítulo VI
+
+De la Renovación Urbana
+
+### Párrafo 1° — .- De las Zonas de Remodelación
+
+#### Artículo 72°
+
+Las municipalidades que tengan plan regulador podrán fijar "zonas de remodelación" en las cuales se disponga modificar la situación existente y establecer una política de renovación de éstas.
+
+La Secretaría Regional Ministerial podrá, asimismo, en determinados casos, proponer a las municipalidades o fijar de oficio "zonas de remodelación" de acuerdo con sus facultades. Para tales objetos, se deberá estudiar, elaborar y aprobar, previamente, un "plan seccional" de la zona escogida en que se determinen sus nuevas características, como el aspecto urbanístico de uso del suelo, trazados viales, densidades, líneas de edificación, sistemas de agrupaciones de la edificación, coeficientes de constructibilidad, alturas mínimas y máximas, incentivos en las normas urbanísticas, entre otras. Con este propósito podrán renovarse sectores destinados a actividad productiva, de impacto similar al industrial o a infraestructura cuyas edificaciones, en su mayoría, se encuentren en desuso o presenten obsolescencia funcional. Para lo anterior, deberá considerarse la opinión de la autoridad sectorial, en caso de corresponder conforme con la normativa vigente.
+
+En este caso, se deberá incentivar la reconversión o modificación de destino de las construcciones existentes que presentan obsolescencia funcional conforme con las nuevas normas urbanísticas definidas en el plan seccional.
+
+Cuando el plan seccional de remodelación establezca un nuevo sector residencial que admita el destino vivienda, deberá considerar normas urbanísticas, incentivos o normas de resguardo, tales como cuotas mínimas, para la construcción de viviendas de interés público.
+
+El mismo procedimiento contemplado en este párrafo podrá aplicarse en el caso de zonas de interés público que hayan sido fijadas por el Ministerio de Vivienda y Urbanismo de acuerdo con sus facultades. En aquellas se priorizará la inversión pública urbana. En estos casos, cuando se requiera elaborar y aprobar un "plan seccional" para llevar a cabo las acciones y obras contempladas para la zona de interés público, se entenderá que existe la necesidad de modificar la situación existente y establecer una política de renovación de dicha zona.
+
+#### Artículo 73°
+
+La declaración de zona de remodelación se aprobará por decreto supremo del Ministerio de la Vivienda y Urbanismo dictado "por orden del Presidente de la República", previa consulta a la municipalidad cuando sean fijadas de oficio por la Secretaría Regional Ministerial de Vivienda y Urbanismo; o por decreto alcaldicio, previo informe favorable de la Secretaría Regional Ministerial cuando sean fijadas por la municipalidad, en la forma que determine la Ordenanza General.
+
+En los actos señalados se fijará el plazo dentro del cual los propietarios deberán edificar de acuerdo con las nuevas normas de la zona de remodelación.
+
+#### Artículo 74°
+
+En el decreto que apruebe la zona de remodelación se fijarán las facilidades o rebajas de derechos municipales o de urbanización u otros incentivos semejantes que promuevan la ejecución de la remodelación.
+
+Las nuevas construcciones, que se realicen en las zonas de remodelación, tendrán preferencia en el goce de los beneficios que otorguen los organismos del Estado para la construcción y urbanización.
+
+Cuando la zona de remodelación y el plan seccional respectivo sean aprobados por decreto supremo, en el mismo decreto podrán consultarse, transitoriamente, impuestos adicionales progresivos a las contribuciones de bienes raíces, en las zonas de remodelación, que no podrán exceder del 200% de la tasa vigente de dichas contribuciones, en total y que se cobrarán como recargo a dichas contribuciones, a beneficio municipal, una vez vencido el plazo a que se refiere el artículo anterior, sin que se hayan iniciado las construcciones respectivas o, iniciadas, se hubieren paralizado por más de 6 meses.
+
+Asimismo, podrá consultarse en el decreto la fijación de áreas adyacentes beneficiadas cuyas propiedades queden sujetas a reavalúo, sea durante o una vez terminado el proceso de remodelación.
+
+#### Artículo 75°
+
+Las características técnicas mínimas que deberán tener los "Planes Seccionales de Zonas de Remodelación" y el procedimiento para su aprobación y aplicación serán regulados en la Ordenanza General.
+
+### Párrafo 2° — .- De las Zonas de Construcción Obligatoria
+
+#### Artículo 76°
+
+Las Municipalidades en cuyas comunas exista Plan Regulador podrán declarar zonas de construcción obligatoria, en cuyo caso los propietarios de sitios eriazos o de inmuebles declarados ruinosos o insalubres por la autoridad competente, deberán edificarlos dentro del plazo que se señale en el decreto aprobatorio correspondiente.
+
+Si transcurrido dicho plazo no se iniciaren las construcciones definitivas o, iniciadas, se suspendieran por más de seis meses, podrá aplicarse al propietario un impuesto adicional progresivo, según determine el mismo decreto supremo que apruebe la declaración de zona de construcción obligatoria, el que se cobrará conjuntamente con la contribución de bienes raíces, a beneficio municipal, en tal caso. El monto de este impuesto no podrá exceder del máximo que señala el artículo 74°.
+
+#### Artículo 77°
+
+La declaración de zonas de construcción obligatoria se aprobará por decreto supremo del Ministerio de la Vivienda y Urbanismo, dictado "por orden del Presidente", a propuesta de la Municipalidad respectiva, en la forma que determine la Ordenanza General.
+
+En el decreto respectivo podrán contemplarse los incisos señalados en el Art. 74°, en lo que sea procedente.
+
+#### Artículo 78°
+
+La Municipalidad podrá declarar que es obligatorio para los propietarios de un inmueble tomar la línea de edificación que determine el Plan Regulador respectivo, siempre que por lo menos en la misma acera de la cuadra se encuentren en línea de edificación el 60% de la superficie lineal de las construcciones.
+
+La resolución respectiva fijará un plazo al propietario para adoptar la nueva línea, el que no podrá ser inferior a 3 años, plazo que podrá ser ampliado hasta por dos años más por razones fundadas.
+
+Si para tomar la línea, quedare el resto del terreno inapropiado para construir, el propietario podrá hacer uso del derecho establecido en el Art. 89° de esta ley.
+
+### Párrafo 3° — .- Del Saneamiento de Poblaciones
+
+#### Artículo 79°
+
+Corresponderá a las Municipalidades desarrollar las acciones necesarias para la rehabilitación y saneamiento de las poblaciones deterioradas o insalubres dentro de la comuna, en coordinación con los planes de esta misma naturaleza y planes habitacionales del Ministerio de la Vivienda y Urbanismo.
+
+#### Artículo 80°
+
+En concordancia con el objeto expresado, la Municipalidad podrá ejecutar directamente, con cargo a presupuesto, las siguientes acciones:
+
+a) Adquirir terrenos para la erradicación de poblaciones mal emplazadas, con riesgos de inundación o imposibilidad de dotarlas de la infraestructura sanitaria;
+
+b) Aportar fondos, materiales, equipo y personal para las obras de agua potable, alcantarillado, pavimentación y energía eléctrica en las calles que aún no disponen de esos servicios, y
+
+c) Ejecutar los jardines y plantaciones de las áreas verdes de uso público.
+
+El cobro de los reembolsos que procedan podrá efectuarse en cuotas junto con la contribución de bienes raíces de los respectivos beneficiarios.
+
+#### Artículo 81°
+
+Para prevenir el deterioro progresivo de un sector o barrio la Municipalidad podrá ejercer las siguientes facultades:
+
+a) Fijar plazo a los propietarios para efectuar las reparaciones necesarias para evitar el colapso parcial o total de una construcción;
+
+b) Ordenar la construcción de cierros exteriores en los sitios eriazos, en plazos no inferiores a seis meses, con las características que señale el Plan Regulador y su Ordenanza Local, o las que se fijen a falta de aquéllos;
+
+c) Fijar plazo para conectarse a las redes públicas de agua potable y alcantarillado, cuando éstas existan, y
+
+d) Ordenar demoler las construcciones que amenacen ruina, o aquéllas construidas ilegalmente vulnerando las disposiciones del Plan Regulador, bajo apercibimiento de ejecutar derechamente la demolición por cuenta del rebelde.
+
+En el ejercicio de estas facultades, la Municipalidad podrá apercibir a los propietarios con la aplicación de una multa si no cumplieren con lo ordenado, la que se hará efectiva administrativamente a beneficio municipal.
+
+#### Artículo 82°
+
+Para el mejor cumplimiento de las acciones señaladas anteriormente, la Municipalidad deberá promover la participación de la comunidad y organizarla en la forma prescrita por la ley 16.880 o en otros textos legales.
+
+Las acciones a desarrollar directamente por la comunidad podrán, ser, entre otras, las siguientes:
+
+a) Conservación de los árboles y plantaciones en los espacios de uso público;
+
+b) Conservación de las aceras, en la forma y con las características que señale la Dirección de Obras Municipales;
+
+c) Proposición anual de planes de obras de la Unidad Vecinal, ante el Alcalde de la comuna, especificando los aportes que hará la Junta de Vecinos respectiva, y
+
+d) Instalación de casetas para teléfono público y refugio en paraderos de locomoción colectiva.
+
+## Capítulo VII
+
+De las expropiaciones
+
+#### Artículo 83
+
+Las expropiaciones que realicen las municipalidades en virtud de una declaratoria de utilidad pública se sujetarán al procedimiento contemplado en el decreto ley Nº 2.186, de 1978, Ley Orgánica de Procedimiento de Expropiaciones.
+
+#### Artículo 84
+
+Tratándose de expropiaciones parciales se deducirá o imputará del monto de la indemnización el cambio de valor que adquiera la parte no expropiada como consecuencia de las inversiones que realice el Estado vinculadas con dicha expropiación, o del plan o instrumento de planificación que declaró la utilidad pública.
+
+#### Artículo 85°
+
+La Municipalidad podrá vender en pública subasta, los terrenos sobrantes que hubiere adquirido en cualquiera forma con motivo de la aplicación de este Capítulo. También podrá dar opción a los propietarios colindantes para adquirir estos terrenos, previo informe de la Dirección de Obras Municipales, la que a su vez fijará el precio de ellos, tomando como base el valor de la expropiación o adquisición, reajustado al valor comercial. Cuando se trate de apropiaciones de retazos en favor de un mismo expropiado, los valores de aquéllas serán determinados en forma análoga a los de la expropiación.
+
+#### Artículo 86
+
+Mientras una municipalidad no haga efectiva la expropiación de los terrenos declarados de utilidad pública de acuerdo a lo prescrito en el artículo 59, la parte afectada de dichos inmuebles estará exenta del pago de contribuciones.
+
+Para hacer efectiva esta exención, el interesado deberá acompañar al Servicio de Impuestos Internos un certificado de informaciones previas que acredite qué parte del predio se encuentra declarada de utilidad pública en virtud del instrumento de planificación respectivo.
+
+## Capítulo VIII
+
+De la regeneración de barrios o conjuntos habitacionales de viviendas de interés público altamente segregados o deteriorados
+
+#### Artículo 87
+
+Cuando el Ministerio de Vivienda y Urbanismo o las municipalidades impulsen procesos de regeneración de barrios o de conjuntos habitacionales de viviendas de interés público podrán acogerse a las disposiciones especiales contenidas en los artículos siguientes y su reglamentación contenida en la Ordenanza General de esta ley. Lo anterior, atendida la necesidad de realizar una renovación integral de sectores afectados por un elevado déficit habitacional cuantitativo o cualitativo conforme con las fuentes estadísticas oficiales, y/o una fuerte segregación o deterioro urbano.
+
+La regeneración de barrios o conjuntos habitacionales altamente deteriorados o irrecuperables requiere la aprobación de una estrategia de intervención, denominada Plan Maestro de Regeneración, compuesto por acciones y obras tendientes a dar respuesta a las problemáticas diagnosticadas, mediante la rehabilitación, construcción o reconstrucción de viviendas; la dotación de equipamiento comunitario y áreas verdes; el mejoramiento del estándar de urbanización; la gestión de la movilidad habitacional y la organización comunitaria, entre otras.
+
+#### Artículo 88
+
+El Plan Maestro de Regeneración corresponde a una herramienta de gestión pública impulsada por el Ministerio de Vivienda y Urbanismo, a través de la Secretaría Regional Ministerial, o por la municipalidad, que debe formularse en conjunto con la comunidad. Cuando sea impulsada por el Ministerio deberá formularse en conjunto con la municipalidad de la comuna en que se emplaza el barrio o conjunto habitacional de viviendas de interés público respecto al que se elaborará el Plan Maestro de Regeneración. Atendida la necesidad de que las acciones y obras allí contenidas puedan concretarse con la mayor rapidez, eficiencia y eficacia posibles, su aprobación estará vinculada a los siguientes efectos normativos sobre el territorio a intervenir, que podrán producirse de manera conjunta o separada:
+
+a) El Plan Maestro de Regeneración que se ejecute sobre un sector respecto del cual el Servicio Regional de Vivienda y Urbanización o la municipalidad, según corresponda, haya adquirido la totalidad de los inmuebles existentes, podrá contemplar la eliminación o reemplazo de espacios públicos existentes. En tal caso, éstos quedarán desafectados del uso público como consecuencia de la publicación del plan, serán subrogados por las nuevas circulaciones, plazas y parques que se construirán, y se transferirán los espacios que se desafectan al Servicio Regional de Vivienda y Urbanización o a la municipalidad respectiva, para que los destine a la ejecución de las obras que contempla el plan. Los inmuebles deberán estar en dominio del respectivo Servicio Regional de Vivienda y Urbanización o de la municipalidad al menos antes de obtener el acuerdo del concejo municipal establecido en el inciso final.
+
+Las superficies que el plan destine a circulaciones, plazas y parques se considerarán incorporadas al dominio nacional de uso público una vez que la dirección de obras municipales efectúe la recepción definitiva de las correspondientes obras de urbanización, en concordancia con lo establecido en la letra a) del artículo 135. Asimismo, efectuada la recepción definitiva, las superficies destinadas a circulaciones, plazas y parques pasarán automáticamente a ser parte del plan regulador de la comuna, en concordancia con lo establecido en el artículo 69.
+
+b) El Plan Maestro de Regeneración podrá contemplar la modificación de las normas urbanísticas aplicables con el objeto de viabilizar las acciones y obras en aquel contenidas. En tal caso, el Plan Maestro de Regeneración no tendrá que tramitar imagen objetivo, contendrá la memoria explicativa de esta modalidad excepcional de modificación del plan regulador comunal y deberá incluir el o los nuevos cuadros normativos aplicables.
+
+Para que el Plan Maestro de Regeneración produzca cualquiera de los efectos señalados en las letras precedentes se requiere que sea publicado en el Diario Oficial, previa aprobación del concejo municipal, y que sea promulgado mediante decreto alcaldicio. En el decreto respectivo podrán contemplarse las materias señaladas en el artículo 74, en lo que sea procedente.
+
+#### Artículo 89
+
+En aquellos sectores protegidos bajo la categoría de Zona Típica o Zona de Conservación Histórica, o en alguna de las categorías que las reemplacen, deberán resguardarse los valores y atributos por los cuales dichas zonas fueron protegidas. En consecuencia, en tales áreas de protección de recursos de valor patrimonial cultural no podrán implementarse Planes Maestros de Regeneración.
+
+#### Artículo 90
+
+En el marco de la elaboración o ejecución del Plan Maestro de Regeneración, los Servicios Regionales de Vivienda y Urbanización o las municipalidades, según corresponda, podrán requerir a la dirección de obras municipales respectiva la evaluación conjunta, en un solo expediente, de algunas o todas las autorizaciones o permisos necesarios para configurar la nueva forma urbana que contemple el referido Plan Maestro. En consecuencia, podrá resolverse, en un solo acto, la desafectación al régimen de copropiedad inmobiliaria de los condominios existentes, la fusión y/o subdivisión de inmuebles, el otorgamiento del o los correspondientes permisos para la ejecución de las obras de edificación y/o de urbanización y cualquier otro acto administrativo necesario para viabilizar la regeneración del sector.
+
+En línea con lo anterior, las inscripciones, anotaciones y archivos de planos para dejar constancia de la desafectación al régimen de copropiedad inmobiliaria, de la fusión y/o subdivisión de inmuebles o de cualquier otro acto previo al otorgamiento del o los correspondientes permisos de edificación o de urbanización, podrán efectuarse, de manera sucesiva y en el orden que corresponda, una vez aprobadas todas las solicitudes ingresadas ante la dirección de obras municipales.
+
+En consecuencia, para el otorgamiento del o los permisos de edificación y/o de urbanización de las obras que contemple el Plan Maestro no se requerirá acreditar que se han efectuado las correspondientes inscripciones, anotaciones y archivos de planos ante el Conservador de Bienes Raíces, el Servicio de Impuestos Internos u otro órgano con competencias en la materia, sin perjuicio que el inicio de las obras requerirá el ingreso de las mencionadas solicitudes ante dichos órganos, y que la recepción definitiva de tales obras quedará condicionada a la acreditación de que los referidos trámites han sido efectuados.
+
+#### Artículo 91
+
+Si durante la ejecución de las obras contempladas en el Plan Maestro de Regeneración, falleciere alguno de los beneficiarios, el Servicio Regional de Vivienda y Urbanización podrá autorizar que las obras continúen hasta su finalización y recepción definitiva, aun cuando se encuentren en trámite los procedimientos de posesión efectiva e identificación de los sustitutos de los beneficiarios fallecidos.
+
+## Capítulo IX
+
+De la habilitación normativa de terrenos para la construcción de proyectos de viviendas de interés público, o de proyectos que consideren obras destinadas a promover el acceso equitativo de la población a bienes públicos urbanos relevantes.
+
+#### Artículo 92
+
+El Ministerio de Vivienda y Urbanismo podrá proponer normas urbanísticas especiales aplicables a uno o más terrenos, en forma excepcional y en cumplimiento de lo dispuesto en este Capítulo y en las normas reglamentarias que puedan dictarse al efecto. Lo anterior, atendida la necesidad de viabilizar la construcción de viviendas de interés público y el equipamiento de clase comercio, culto y cultura, deporte, educación, seguridad o salud necesario para asegurar la integración en la ciudad y una adecuada relación con el entorno urbano de las familias beneficiadas por dichos proyectos. Adicionalmente, el referido ministerio podrá proponer normas urbanísticas especiales para el o los terrenos destinados a la construcción de proyectos que consideren bienes públicos urbanos relevantes y promuevan su acceso equitativo por la población. La Ordenanza General podrá reglamentar las demás disposiciones para la aplicación de este mecanismo.
+
+Este mecanismo excepcional sólo podrá ser aplicado respecto de terrenos que se encuentren inscritos a nombre del Servicio Regional de Vivienda y Urbanización respectivo, de otro órgano que integre la Administración del Estado, empresa pública o sociedad del Estado. También podrá aplicarse respecto de terrenos sobre los cuales exista una promesa de compraventa en favor de tales órganos.
+
+En los casos referidos en los incisos precedentes, las normas urbanísticas especiales que se establezcan para el o los terrenos sólo podrán ser aplicadas para la construcción del o los proyectos que justificaron el uso de esta facultad excepcional y no para la ejecución de proyectos que tengan un objeto distinto.
+
+#### Artículo 93
+
+Las normas urbanísticas especiales sólo podrán aplicarse para la construcción de los proyectos referidos en el artículo precedente y la aplicación de este mecanismo excepcional no implicará una modificación del plan regulador comunal o del plan seccional vigente.
+
+En consecuencia, a través del establecimiento de normas urbanísticas especiales no podrá modificarse el límite urbano, ni eliminarse o modificarse circulaciones, plazas o parques declarados de utilidad pública de acuerdo con el artículo 59. Tampoco podrán eliminarse o modificarse las zonas o áreas definidas en los artículos 60 y 60 bis, tales como zonas no edificables, áreas de protección de recursos de valor patrimonial cultural o de valor natural, ni áreas de riesgo.
+
+En el caso de habilitación normativa de terrenos para la construcción de proyectos que consideren bienes públicos urbanos relevantes, no podrá establecerse el uso de suelo, actividad productiva o infraestructura calificada como molesta, insalubre, contaminante o peligrosa.
+
+No podrá aplicarse este mecanismo especial en terrenos que se encuentren emplazados en áreas de protección de valor natural. Tampoco podrá aplicarse este mecanismo en áreas de protección de valor patrimonial cultural, salvo que el proyecto que se habilita tenga por objeto preservar los valores y atributos de carácter patrimonial cultural por los cuales dichas áreas fueron protegidas.
+
+La habilitación normativa no podrá aplicarse sobre terrenos regulados por instrumentos de planificación de nivel intercomunal, salvo que se encuentren regidos por normas transitorias con carácter supletorio, conforme con el artículo 28.
+
+#### Artículo 94
+
+Corresponderá a la Secretaría Regional Ministerial de Vivienda y Urbanismo elaborar la propuesta de normas urbanísticas especiales aplicables a uno o más terrenos, de oficio o a solicitud del Servicio Regional de Vivienda y Urbanización respectivo, o del órgano de la Administración del Esta do, empresa pública o sociedad del Estado propietario del predio o que promueva el proyecto que considera la construcción de bienes públicos urbanos relevantes. Si se trata de procedimientos iniciados de oficio, deberá contarse previamente con el consentimiento expreso del órgano de la Administración de l Estado, empresa pública o sociedad del Estado propietario del predio.
+
+De forma previa a la elaboración de la propuesta de normas urbanísticas especiales, la referida Secretaría Regional Ministerial deberá realizar un análisis de pertinencia. Para lo anterior, deberá verificar que se trata de proyectos de viviendas de interés público que puedan contribuir a la integración de las familias en la ciudad y generar una adecuada relación con el entorno urbano; o que promuevan el acceso equitativo por la población a bienes públicos urbanos relevantes, según corresponda. Junto a ello, deberán ponderarse las dificultades técnicas que pueda presentar la ejecución de dichos proyectos, tales como la necesidad de efectuar obras extraordinarias de urbanización o de mitigación de riesgo, y podrán considerarse elementos de financiamiento. Lo anterior, sin perjuicio de los criterios relativos a los estándares urbanos, de sustentabilidad y de integración social mínimos que deberán cumplir estos terrenos para aplicar este mecanismo, que en esta materia pueda establecer la Ordenanza General.
+
+Cuando se requiera establecer normas urbanísticas especiales para la construcción del equipamiento necesario para asegurar la integración social y urbana de las familias, la respectiva Secretaría Regional Ministerial deberá verificar que la programación de dichos equipamientos considere el financiamiento y los plazos para que su construcción y puesta en operación, sea de manera previa o simultánea a la construcción y recepción definitiva de los proyectos de vivienda de interés público. Lo anterior, con el objeto de no producir o consolidar situaciones de segregación, déficit o baja disponibilidad de equipamiento.
+
+En aquellos casos en que la aplicación de este mecanismo excepcional se efectúe a solicitud del órgano de la Administración del Estado, empresa pública o sociedad del Estado propietario del predio, el requirente deberá informar el rol de avalúo del o los terrenos y su dirección; las circunstancias de hecho y de derecho que fundamentan la solicitud; las normas urbanísticas especiales y sus índices estimados acorde al proyecto que se requiere viabilizar; además de acompañar todos los antecedentes necesarios para realizar el análisis de pertinencia, tales como el certificado de informaciones previas emitido por la respectiva Dirección de Obras Municipales. A su vez, la Secretaría Regional Ministerial podrá requerir los antecedentes adicionales necesarios para el análisis de pertinencia.
+
+Cuando el o los predios cuya habilitación normativa se evalúa se encuentren emplazados en sectores respecto de los cuales existen antecedentes técnicos o históricos que den cuenta de su exposición a amenazas de origen natural o antrópico se requerirá informe favorable, aun cuando no se encuentre reconocida el área de riesgo en el respectivo plan regulador comunal. Dicho informe se pronunciará respecto de las obras de mitigación contempladas por el proyecto que se desea ejecutar y será elaborado por el organismo técnico correspondiente, conforme con lo dispuesto en la ley N° 21.364, que establece el Sistema Nacional de Prevención y Respuesta ante Desastres.
+
+El resultado del análisis de pertinencia deberá ser notificado al órgano de la Administración del Estado, empresa pública o sociedad del Estado solicitante.
+
+#### Artículo 95
+
+La propuesta que elabore la Secretaría Regional Ministerial de Vivienda y Urbanismo deberá identificar el o los terrenos que serían objeto de esta herramienta excepcional y contener un diagnóstico sobre las normas urbanísticas aplicables y la vialidad existente y proyectada en el sector. Considerará como antecedentes la memoria explicativa, estudios, informes, normas y planos que conforman el respectivo plan regulador.
+
+Si el o los terrenos se encuentran dentro del territorio operacional de una empresa sanitaria, se requerirá un certificado emitido por aquella en que conste que el proyecto cuenta con factibilidad sanitaria. Si el terreno se encuentra fuera del territorio operacional de una empresa sanitaria, bastará con acompañar el convenio suscrito con un concesionario en el que conste el compromiso de presentar una solicitud de nueva concesión o de ampliación de la existente, conforme con lo establecido en el decreto con fuerza de ley N° 382, de 1988, del Ministerio de Obras Públicas, Ley General de Servicios Sanitarios, sin perjuicio de lo dispuesto en la ley N° 20.998, que regula a los servicios sanitarios rurales.
+
+En lo que respecta a la conectividad vial, deberá precisarse en el diagnóstico que el o los terrenos cuentan o podrían contar con acceso a través de una vía pública que factibilizará la ejecución del proyecto que se habilita normativamente, existente o proyectada, e indicarse su categoría y el ancho entre líneas oficiales.
+
+Los proyectos de equipamiento deberán cumplir con las normas generales aplicables según su escala o nivel en lo relativo a su carga de ocupación y ubicación respecto de la categoría de la vía que enfrentan.
+
+En caso de que los terrenos se encuentren emplazados en áreas de riesgo o en áreas de protección, identificadas como tales en el respectivo instrumento de planificación territorial, deberán incluirse en el diagnóstico todos los antecedentes relacionados con dicha condición, con el objeto de contar con la información necesaria para determinar las medidas de subsanación, mitigación o resguardo, referidas en el artículo siguiente.
+
+#### Artículo 96
+
+A partir de la identificación de los elementos de diagnóstico señalados en el artículo precedente, la Secretaría Regional Ministerial elaborará la propuesta específica de normas urbanísticas especiales aplicables a uno o más terrenos.
+
+En cuanto al contenido de la propuesta de normas urbanísticas especiales, se deberá incluir el o los cuadros normativos que tendrán el o los terrenos, según corresponda, e identificarse todas las normas urbanísticas aplicables.
+
+En cuanto a la expresión gráfica de la propuesta de normas urbanísticas especiales, no se requerirá la presentación de un plano detallado del o los proyectos que allí podrían ejecutarse, sino únicamente un esquema general en el que se presenten las posibles tipologías de edificaciones que podrían incluirse en el terreno y su potencial volumetría, así como las superficies que podrían destinarse a uso residencial, equipamiento, áreas verdes u otros, y a espacios públicos o de uso común, según corresponda al tipo de proyecto.
+
+Si las características del o los terrenos lo requieren, en el esquema general también deberán presentarse las características de las posibles nuevas vías o circulaciones y sus conexiones con las existentes, así como la presentación preliminar y esquemática de las medidas para subsanar o mitigar los efectos de las áreas de riesgo y/o para resguardar los valores y atributos protegidos por las áreas de protección.
+
+Lo señalado en los dos incisos precedentes es sin perjuicio que la revisión del diseño específico del o los proyectos a desarrollar en dichos terrenos y su aprobación definitiva corresponderán a la etapa de obtención del correspondiente permiso de edificación. En consecuencia, los proyectos definitivos podrán contemplar diferencias con lo presentado en el esquema general, siempre y cuando se ajusten a las normas urbanísticas especiales incluidas en los cuadros normativos referidos.
+
+#### Artículo 97
+
+La propuesta de normas urbanísticas especiales deberá someterse al procedimiento de evaluación ambiental estratégica únicamente cuando, encontrándose dentro de alguno de los supuestos establecidos en el reglamento que regula dicho procedimiento de evaluación conforme con el artículo 7 ter de la ley Nº 19.300, permita la construcción de más de ciento sesenta viviendas en el o los terrenos en los que se aplique esta herramienta excepcional o permita la construcción de un equipamiento de escala mayor. El procedimiento aplicable será simplificado conforme lo disponga el reglamento citado. El resto de los supuestos se encontrarán exentos de dicho trámite.
+
+Los proyectos que posteriormente se ejecuten en dichos terrenos deberán dar cumplimiento a la normativa general que les resulte aplicable y someterse al Sistema de Evaluación de Impacto Ambiental cuando ello sea exigible conforme a la normativa vigente.
+
+#### Artículo 98
+
+La Secretaría Regional Ministerial enviará al alcalde respectivo la propuesta de normas urbanísticas especiales, quien informará a la comunidad y deberá remitirla al concejo municipal en el plazo máximo de diez días hábiles.
+
+El concejo municipal contará con treinta días hábiles para su pronunciamiento, contados desde el ingreso de la propuesta a la municipalidad. Si transcurrido dicho plazo la Secretaría Regional Ministerial no ha recibido copia del acta en que conste el pronunciamiento del concejo, la propuesta se tendrá por aprobada. Si el concejo rechaza la propuesta o presenta observaciones, la Secretaría Regional Ministerial tendrá el plazo de treinta días hábiles para analizar los argumentos esgrimidos y, eventualmente, remitirle una nueva propuesta para su pronunciamiento, en el mismo plazo y condiciones señalados en este artículo.
+
+Obtenida la aprobación del concejo municipal, de manera expresa o por el vencimiento del plazo, el alcalde podrá sancionar el texto aprobatorio de la propuesta por decreto alcaldicio fundado. En los casos en que se trate de una propuesta de normas urbanísticas especiales que haya debido someterse al procedimiento de evaluación ambiental estratégica, la Secretaría Regional Ministerial de Vivienda y Urbanismo deberá remitir al municipio la resolución de término de dicho procedimiento en forma previa a dictar la resolución que sanciona la propuesta.
+
+#### Artículo 99
+
+El decreto alcaldicio que apruebe el establecimiento de normas urbanísticas especiales aplicables a uno o más terrenos deberá establecer el plazo de vigencia de sus efectos y publicarse en el Diario Oficial. Los planos y una copia del decreto alcaldicio correspondiente se archivarán en el Conservador de Bienes Raíces, en la Secretaría Regional Ministerial de Vivienda y Urbanismo y en la municipalidad correspondiente.
+
+La solicitud de permiso de edificación para tales proyectos deberá especificar el decreto alcaldicio que aprobó las normas urbanísticas especiales y presentarse dentro del plazo indicado en el inciso primero, sin necesidad de adjuntar un certificado de informaciones previas que deje constancia de tales normas .
+
+La recepción definitiva de los proyectos deberá realizarse conforme al permiso otorgado y a las normas urbanísticas especiales establecidas por decreto alcaldicio, aun cuando el instrumento de planificación aplicable en el territorio se haya modificado en el tiempo intermedio o se haya cumplido el plazo indicado en el inciso primero.
+
+La recepción definitiva de los proyectos extinguirá los efectos del decreto alcaldicio que aprueba el establecimiento de normas urbanísticas especiales.
+
+#### Artículo 100
+
+DEROGADO
+
+#### Artículo 101
+
+DEROGADO
+
+#### Artículo 102
+
+DEROGADO
+
+#### Artículo 103
+
+DEROGADO
+
+#### Artículo 104
+
+DEROGADO
+
+## Título III
+
+De la construcción
+
+## Capítulo I
+
+Normas de diseño
+
+### Párrafo 1° — .- Del diseño de obras de urbanización y edificación
+
+#### Artículo 105°
+
+El diseño de las obras de urbanización y edificación deberá cumplir con los standard que establezca la Ordenanza General en lo relativo a:
+
+a) Trazados viales urbanos;
+
+b) Areas verdes y equipamiento;
+
+c) Líneas de edificación, rasantes, alturas, salientes, cierros, etc;
+
+d) Dimensionamiento mínimo de los espacios, según su uso específico (habitación, comercio oficina, escolar, asistencial, circulación, etc.);
+
+e) Condiciones de estabilidad y asismicidad;
+
+f) Condiciones de incombustibilidad;
+
+g) Condiciones de salubridad, seguridad, habitabilidad, iluminación y ventilación;
+
+h) Dotación de servicios sanitarios, de reciclaje o separación de residuos en origen y energéticos, y otras materias que señale la Ordenanza General, y
+
+i) Características de diseño, materialidad, resistencia estructural y seguridad, para las edificaciones que se puedan emplazar en las áreas de riesgo y áreas de restricción incluidas en los planes reguladores y planes seccionales, y, en el caso de urbanizaciones que se emplacen en tales áreas, las características de las obras de urbanización destinadas a mitigar los riesgos y facilitar la evacuación hacia zonas seguras o servir, cuando corresponda, como alternativa para el escurrimiento de las aguas.
+
+j) Características y condiciones tendientes a prevenir los delitos y garantizar la seguridad de las personas y sus bienes en el espacio público.
+
+#### Artículo 106
+
+Para alcanzar la finalidad prevista en el artículo anterior, los materiales y sistemas a usar en las urbanizaciones y construcciones deberán cumplir con las "Normas Técnicas" preparadas por el Ministerio de la Vivienda y Urbanismo, sus servicios dependientes o el Instituto Nacional de Normalización.
+
+Las empresas a las que corresponda proveer a la obra de servicios sanitarios y de servicios energéticos que señale la Ordenanza General deberán acompañar toda la información que sea requerida por el proyecto de construcción en el plazo de diez días, contado desde que se les formule la solicitud por medio de sus canales institucionales.
+
+### Párrafo 2° — .- De los conjuntos armónicos
+
+#### Artículo 107°
+
+Las normas generales de los Planes Reguladores y su Ordenanza Local, respecto a la agrupación de las construcciones, coeficientes de constructibilidad, alturas mínimas y máximas, y tamaños de los predios, podrán variarse cuando los proyectos tengan la calidad de "conjuntos armónicos".
+
+Para este efecto se considerará como tales aquellas agrupaciones de construcciones que, por condiciones de uso, localización, dimensión o ampliación de otras estén relacionadas entre sí, de tal manera que constituyan una unidad espacial propia, distinta del carácter general del barrio o sector.
+
+#### Artículo 108°
+
+En los casos señalados en el artículo precedente, los Asesores Urbanistas podrán autorizar excepciones a la reglamentación de la Ordenanza Local, siempre que no se afecten los espacios de uso público, la línea de edificación, destino y el asoleamiento mínimo de las construcciones colindantes.
+
+En los casos en que hubiere duda sobre la aplicación del concepto de "conjunto armónico", el Asesor Urbanista lo someterá a la consideración de la Secretaría Regional correspondiente del Ministerio de la Vivienda y Urbanismo.
+
+#### Artículo 109°
+
+Las condiciones mínimas de uso, localización, dimensión o ampliación, para aplicar el concepto de "Conjunto Armónico", serán reglamentadas en la Ordenanza General.
+
+### Párrafo 3° — .- De los Edificios y Viviendas Acogidos a la Ley de Propiedad Horizontal
+
+#### Artículo 110
+
+DEROGADO.
+
+#### Artículo 111
+
+DEROGADO
+
+#### Artículo 112
+
+.- DEROGADO
+
+#### Artículo 113
+
+DEROGADO
+
+#### Artículo 114
+
+DEROGADO
+
+#### Artículo 115
+
+DEROGADO
+
+## Capítulo II
+
+De la ejecución de obras de urbanización, edificación e instalaciones complementarias
+
+### Párrafo 1° — .- De los permisos
+
+#### Artículo 116
+
+La construcción, reconstrucción, reparación, alteración, ampliación y demolición de edificios y obras de urbanización de cualquier naturaleza, sean urbanas o rurales, requerirán permiso de la Dirección de Obras Municipales a solicitud del propietario. Con todo, la Ordenanza General señalará las excepciones que no requieren permiso de la Dirección de Obras Municipales y aquellas en que se habilita su ejecución mediante el uso de otras técnicas, las que en ningún caso podrán implicar una carga administrativa mayor para el propietario que la obtención de los permisos a que se refiere este inciso.
+
+Deberán cumplir con esta obligación las urbanizaciones y construcciones fiscales, semifiscales, de corporaciones o empresas autónomas del Estado y de las Fuerzas Armadas, de las Fuerzas de Orden y Seguridad Pública, de Gendarmería de Chile.
+
+Las construcciones destinadas a equipamiento de salud, educación, seguridad y culto, cuya carga de ocupación sea inferior a 1.000 personas, se entenderán siempre admitidas cuando se emplacen en el área rural y, en estos casos, para la obtención del permiso de edificación requerirán contar con el informe previo favorable a que se refiere el inciso tercero del artículo 55 de esta ley, el que señalará, además de las condiciones de urbanización, las normas urbanísticas aplicables a la edificación. Las obras de edificación o instalaciones destinadas a la desalinización de agua de mar se entenderán siempre admitidas en el área rural, sin perjuicio de lo establecido en el inciso final del artículo 55 de esta ley, de lo dispuesto en la ley N° 19.300 y de la normativa sectorial aplicable. Asimismo, sus redes, trazados o ductos se entenderán siempre admitidos tanto en el área urbana como rural y se sujetarán a las disposiciones que establezcan los organismos competentes.
+
+No requerirán permiso las obras de infraestructura de transporte, sanitaria y energética que ejecute el Estado, sin perjuicio de lo establecido en el inciso final del artículo 55, ni las obras urbanas o rurales de carácter ligero o provisorio, en la forma que determine la Ordenanza General.
+
+Sin perjuicio de lo establecido en el inciso segundo, las obras de carácter militar de las Fuerzas Armadas, las de carácter policial de las Fuerzas de Orden y Seguridad Pública, las de carácter penitenciario, destinadas a sus fines propios, y las instalaciones del Banco Central de Chile destinadas a sus procesos de recepción y distribución de circulante, y de almacenamiento, procesamiento y custodia de valores, sean urbanas o rurales, no requerirán de los permisos a que se refiere el inciso primero de este artículo ni estarán sometidas a inspecciones o recepciones de ningún tipo por las Direcciones de Obras Municipales mientras tengan este carácter. En igual forma no les serán aplicables las limitaciones ni autorizaciones establecidas en el artículo 55. Estas excepciones se extenderán igualmente, a las demás obras ubicadas dentro del mismo predio en que se emplacen las construcciones a que se refiere este inciso, aun cuando estén destinadas a su equipamiento o al uso habitacional. Todas estas obras deberán ajustarse a las Normas Técnicas, a la Ordenanza General y al Plan Regulador respectivo, en su caso. Concluidas las obras, el propietario deberá presentar una declaración ante la Dirección de Obras Municipales, indicando el destino de las edificaciones e individualizando a las personas a quienes pudiere corresponder algún grado de responsabilidad de conformidad a los artículos 17 y 18 de esta ley.
+
+El Director de Obras Municipales concederá el permiso o la autorización requerida previo pago de los derechos que procedan, sin perjuicio de las facilidades de pago contempladas en el artículo 128, si de la revisión de los antecedentes acompañados a la solicitud verifica lo siguiente:
+
+a) Que los proyectos cumplen con las normas urbanísticas y las condiciones necesarias para aplicarlas, vigentes a la fecha de presentación de la solicitud.
+
+b) Que se han acompañado aquellos antecedentes exigidos para conceder el permiso o autorización que acreditan el cumplimiento de disposiciones legales y reglamentarias distintas de las indicadas en la letra a) precedente, vigentes a la fecha de presentación de la solicitud. Para estos efectos, el Director de Obras Municipales sólo deberá verificar que se acompañan los antecedentes exigidos para cada tipo de solicitud y que aquellos corresponden al proyecto respectivo. El propietario, el arquitecto y los demás profesionales serán responsables por las infracciones a las disposiciones legales, reglamentarias o técnicas respectivas que consten en los antecedentes que suscriban.
+
+Si el Director de Obras Municipales verifica que no se cumple con lo indicado en la letra a) del inciso anterior, en un solo acto, salvo las excepciones que disponga la Ordenanza General, y dentro del plazo máximo para pronunciarse que corresponda, deberá poner en conocimiento del solicitante un acta donde señale la totalidad de las observaciones que estime deben ser aclaradas o subsanadas para aprobar la solicitud, e indicará con claridad la o las normas no cumplidas. En el evento de que el solicitante no subsane o aclare las observaciones en el plazo de sesenta días, el Director de Obras Municipales deberá emitir una resolución rechazando la solicitud y devolverá todos los antecedentes al solicitante, debidamente timbrados.
+
+Para efectos de dar cumplimiento al principio de economía procedimental, el Ministerio de Vivienda y Urbanismo podrá dictar instrucciones para la aplicación de la revisión y verificación antes descritas en la forma prescrita en el artículo 4°, incluyendo fichas de revisión y verificación de solicitudes y formularios de actas de observaciones.
+
+Se entenderá por normas urbanísticas aquellas contenidas en esta ley, en su Ordenanza General y en los instrumentos de planificación territorial que afecten a edificaciones, divisiones afectas, subdivisiones, fusiones, loteos, urbanizaciones y modificaciones de deslindes, en lo relativo a los usos de suelo, cesiones, sistemas de agrupamiento, coeficientes de constructibilidad, coeficientes de ocupación de suelo o de los pisos superiores, superficie predial mínima, frente predial mínimo, alturas máximas de edificación, adosamientos, distanciamientos, antejardines, ochavos y rasantes, densidades máximas, estacionamientos, franjas afectas a declaratoria de utilidad pública y áreas de riesgo o de protección.
+
+La Dirección de Obras Municipales, a petición del interesado, emitirá un certificado de informaciones previas que contenga las condiciones aplicables al predio de que se trate, de acuerdo con las normas urbanísticas derivadas del instrumento de planificación territorial respectivo. El certificado mantendrá su validez mientras no se modifiquen las normas urbanísticas, legales o reglamentarias pertinentes. Los certificados de informaciones previas que se otorguen respecto de los lotes resultantes de divisiones afectas y loteos con urbanización garantizada mantendrán su vigencia mientras no se modifiquen el plano de subdivisión, loteo o urbanización, o las normas urbanísticas legales o reglamentarias.
+
+Sin perjuicio de lo anterior, podrán someterse a la aprobación del Director de Obras Municipales, anteproyectos de loteo, de edificación o de urbanización. El anteproyecto aprobado mantendrá su vigencia respecto de todas las condiciones urbanísticas del instrumento de planificación territorial respectivo y de las normas de la Ordenanza General de Urbanismo y Construcciones consideradas en aquél y con las que se hubiere aprobado, para los efectos de la obtención del permiso correspondiente, durante el plazo que determine la misma Ordenanza.
+
+La Dirección de Obras Municipales deberá exhibir, en el acceso principal a sus oficinas, durante el plazo de sesenta días contado desde la fecha de su aprobación u otorgamiento, una nómina con los anteproyectos, subdivisiones y permisos a que se refiere este artículo. Asimismo, deberá informar al concejo y a las juntas de vecinos de la unidad vecinal correspondiente y mantener, a disposición de cualquier persona que lo requiera, los antecedentes completos relacionados con dichas aprobaciones o permisos.
+
+> **Nota.** El artículo transitorio de la ley 19472, publicada el 16.09.1996, dispuso su vigencia noventa días después de su publicación.
+
+> **Nota.** NOTA 1: El artículo transitorio de la ley 20016, publicada el 27.05.2005, dispone que las modificaciones introducidas a la presente norma, entrarán en vigencia noventa días después de su publicación en el Diario Oficial y que estas modificaciones sólo se aplicarán a los permisos y autorizaciones que ingresen a tramitación con posterioridad a su entrada en vigencia.
+
+> **Nota.** NOTA 2 Los N°1 y N°2 del artículo 11 de la ley 20956, publicada el 26.10.2016, modifican el inciso cuarto del presente artículo en los términos que allí se indica. Sin embargo, dichas adecuaciones se efectúan en el inciso quinto porque el tenor y la redacción de los textos modificatorios corresponden a este inciso y no al inciso cuarto.
+
+#### Artículo 116 bis
+
+Los propietarios que soliciten un permiso de construcción podrán contratar un revisor independiente, con inscripción vigente en el Registro Nacional de Revisores Independientes de Obras de Construcción, del Ministerio de la Vivienda y Urbanismo creado por la ley Nº 20.071. Sin embargo, será obligatoria la contratación de un revisor independiente cuando se trate de edificios de uso público y demás casos que determine la Ordenanza General.
+
+En el desempeño de sus funciones, los revisores independientes a que se refiere este artículo deberán supervisar y certificar que los proyectos de arquitectura y las obras cumplen con todas las disposiciones legales y reglamentarias aplicables, y emitir los informes que se requieran para tales efectos, cuyo contenido determinará la Ordenanza General. Dichos informes deberán explicar la manera en que se da cumplimiento a las normas urbanísticas que resultan aplicables al proyecto y certificar el cumplimiento de las demás normas generales y específicas de esta ley y su Ordenanza General, además de aquellas provenientes de otros cuerpos legales y reglamentarios sobre construcción que resulten aplicables al proyecto. El Ministerio de Vivienda y Urbanismo, a través de la División de Desarrollo Urbano, deberá elaborar uno o más formatos tipo de informe, según el tipo de proyecto, mediante circular. Estos documentos se deberán mantener a disposición de cualquier interesado en el sitio web institucional. Los informes elaborados por los revisores independientes deberán ajustarse al formato tipo elaborado para estos efectos y el incumplimiento de dicha obligación será causal de rechazo del ingreso de la solicitud del permiso, autorización o recepción. Con todo, los revisores independientes no supervisarán el proyecto de cálculo estructural, ni los proyectos de ingeniería, en su caso.
+
+El revisor independiente será solidariamente responsable con el arquitecto que realice el proyecto de arquitectura, en lo relativo a que el proyecto y sus obras cumplen con todas las normas legales, reglamentarias y técnicas aplicables.
+
+Los derechos municipales a que se refiere el artículo 130 se reducirán en el 30% cuando se acompañe el informe favorable del revisor independiente. Dicha rebaja de derechos incluye la participación del revisor independiente a que se refiere este artículo tanto en el permiso de construcción, como en la recepción definitiva de sus obras.
+
+> **Nota.** El Artículo Transitorio de la LEY 20016, publicada el 27.05.2005, dispone que las modificaciones introducidas a la presente norma, entrarán en vigencia noventa días después de su publicación en el Diario Oficial y que estas modificaciones sólo se aplicarán a los permisos y autorizaciones que ingresen a tramitación con posterioridad a su entrada en vigencia.
+
+#### Artículo 116 bis
+
+A).- Los propietarios que soliciten un permiso de construcción para edificios de uso público y demás casos que determine la Ordenanza General deberán contratar la revisión del proyecto de cálculo estructural respectivo por parte de un tercero independiente del profesional u oficina que lo haya realizado y que cuente con inscripción en un registro que para estos efectos mantendrá el Ministerio de la Vivienda y Urbanismo. El Ministerio podrá encomendar dicho registro a la entidad denominada "Instituto de la Construcción", cuya personalidad jurídica fuera concedida por decreto supremo Nº 1.115, de 1996, del Ministerio de Justicia.
+
+La Ordenanza General de Urbanismo y Construcciones establecerá el alcance, las condiciones, las diversidades geográficas y los demás aspectos que deberán contemplarse en la revisión del cálculo estructural.
+
+En el desempeño de sus funciones, el revisor del proyecto de cálculo estructural será solidariamente responsable con el profesional competente que realizó el proyecto de cálculo estructural, debiendo verificar que los planos, la memoria de cálculo, incluida en ésta el protocolo de inspección que se defina en la norma técnica, y las especificaciones técnicas, cumplan con todas las normas aplicables.
+
+#### Artículo 116 bis
+
+B).- DEROGADO.
+
+#### Artículo 116 bis
+
+C.- La municipalidad deberá publicar en su sitio web, a más tardar el quinto día hábil de cada mes, una resolución de la Dirección de Obras Municipales que contenga el listado con todos los permisos y autorizaciones que hubiesen sido otorgados durante el mes anterior, junto con una copia de aquellos. En dicha publicación se dejará expresa constancia de la fecha en que se realiza y, a contar de ésta, los permisos y autorizaciones se presumirán de derecho conocidos, para efectos de lo dispuesto en el artículo 118 bis.
+
+Lo previsto en el inciso anterior es un deber de transparencia activa, de conformidad a lo previsto en la ley N° 20.285, sobre acceso a la información pública, y le será aplicable lo dispuesto en dicha ley, salvo en lo que resulte contrario con este artículo. Para efectos de lo dispuesto en la letra d) del artículo 33, contenido en el artículo primero de la ley antes indicada, se considerará que los incisos primero y segundo del presente artículo forman parte de la legislación sobre transparencia y acceso a la información, no obstante, el deber del Consejo para la Transparencia de coordinarse y propender a la unidad de acción con el Ministerio de Vivienda y Urbanismo, a través de la División de Desarrollo Urbano.
+
+Dentro del décimo y el décimo quinto día hábil de cada mes, la Secretaría Regional Ministerial respectiva deberá publicar en su sitio web o, en su defecto, en el del Ministerio de Vivienda y Urbanismo, una resolución donde informe las fechas y las formas en que se realizaron las publicaciones del inciso primero y dejará constancia de las Direcciones de Obras Municipales que no hayan cumplido con la obligación dentro de plazo.
+
+Asimismo, la Ordenanza General establecerá la forma, plazo y condiciones mediante las cuales se podrá informar al público, al concejo municipal y a las juntas de vecinos de la unidad vecinal correspondiente de la aprobación de anteproyectos, autorizaciones para subdividir, permisos de edificación, de urbanización o de cambio de destino de un edificio existente. Entre dichas medidas, se considerará la instalación de un letrero visible en el lugar de la obra y la publicación a través de algún medio de circulación local, como radio o periódico, de acuerdo a las características de los proyectos.
+
+#### Artículo 116 bis
+
+D).- La Ordenanza General de esta ley podrá establecer normas especiales y procedimientos simplificados de aprobación y recepción para la regularización de construcciones y la aprobación de nuevas construcciones que se realicen en zonas que hubieren sido decretadas zona afectada por catástrofe, cuando formen parte de los planes de reconstrucción regionales o municipales, o se trate de reconstruir o reponer construcciones dañadas por la catástrofe.
+
+Los permisos y recepciones de obras de que trata el inciso anterior podrán ser otorgados por la Secretaría Regional Ministerial de Vivienda y Urbanismo cuando se trate de las siguientes situaciones especiales:
+
+a) Solicitudes sobre las cuales la Dirección de Obras Municipales no se hubiere pronunciado dentro del plazo máximo establecido en la presente ley, o se encuentren con observaciones que no corresponden de acuerdo a la normativa vigente, sin perjuicio de la opción del solicitante para proceder de conformidad con el artículo 118 inciso tercero, a su elección.
+
+b) Obras ubicadas en localidades distantes más de 30 kilómetros de la ciudad sede de la Dirección de Obras Municipales.
+
+Para los efectos del inciso anterior, la Secretaría Regional, previo al otorgamiento del permiso, deberá consultar la opinión del Director de Obras Municipales respectivo, quien tendrá 5 días hábiles para responder.
+
+Otorgado un permiso o recepción por parte de la Secretaría Regional, para los efectos de archivo y catastro, los planos y antecedentes de la construcción deberán remitirse a la Dirección de Obras Municipales en un plazo no superior a 30 días, junto con el pago de los derechos municipales correspondientes.
+
+La Secretaría Regional Ministerial de Vivienda y Urbanismo podrá autorizar excepciones respecto de las obligaciones de urbanización, atendiendo a las características especiales de las localidades en que se emplazarán los proyectos.
+
+Los proyectos a que se refiere el presente artículo no requerirán autorizaciones o pronunciamientos de otros organismos del Estado ni requisitos adicionales a los que establezca la Ordenanza General.
+
+Las disposiciones que se establecen en el presente artículo, tendrán un plazo de vigencia de dos años, a partir de la fecha de publicación en el Diario Oficial del decreto que declaró la zona afectada por catástrofe, plazo que se podrá prorrogar, mediante decreto supremo, hasta por igual período, por una sola vez.
+
+Tratándose de proyectos habitacionales con subsidio estatal, dirigidos a resolver problemas derivados de la catástrofe, podrá aplicarse lo dispuesto en el artículo 50 de la presente ley.
+
+Las solicitudes de modificaciones de cauces naturales o artificiales a que se refieren los artículos 41 y 171 del Código de Aguas, que fueren necesarias para ejecutar obras de edificación o urbanización, en los casos a que se refiere el presente artículo, deberán ser evacuadas por el organismo competente en un plazo máximo de 15 días hábiles, contados desde la recepción del requerimiento respectivo. Transcurrido dicho plazo sin que hubiere pronunciamiento, se entenderá que no existen objeciones a lo solicitado. Las modificaciones a que se refiere este inciso quedarán exentas del procedimiento establecido en el párrafo 1 del título I del Libro Segundo del Código de Aguas. Lo anterior no podrá menoscabar o perjudicar derechos de terceros.
+
+Durante el plazo establecido en el inciso séptimo del presente artículo, las regularizaciones y ampliaciones de viviendas sociales, cuyo valor de tasación de la vivienda no sea superior a 520 unidades de fomento, calculado conforme a la tabla de costos unitarios por metro cuadrado de construcción del Ministerio de Vivienda y Urbanismo, estarán exentas del pago de derechos municipales a que se refiere el artículo 130 de esta ley.
+
+El Ministro de Vivienda y Urbanismo, mediante resolución, podrá asignar a un proyecto de construcción específico la calificación de "proyecto de interés público". Se entenderá que dichos proyectos forman parte de las nuevas construcciones a que se refiere el inciso primero del presente artículo.
+
+#### Artículo 116 bis
+
+E.- Las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones podrán instalarse en áreas urbanas y rurales, debiendo en ambos casos sujetarse a lo dispuesto en este artículo y en los artículos 116 bis F, 116 bis G, 116 bis H y 116 bis I de esta ley, según sea el caso.
+
+Para estos efectos, se entenderá que las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones corresponden al conjunto específico de elementos soportantes de una antena y sistema radiante de transmisión de telecomunicaciones. Por su parte, la antena y sistema radiante de transmisión de telecomunicaciones corresponde a aquel dispositivo a que se refiere el artículo 19 bis de la Ley General de Telecomunicaciones.
+
+Tratándose de los permisos de instalación de torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones que se soliciten en áreas de riesgo, además de cumplir con los requisitos que se indican en esta ley, se deberá acompañar a la respectiva solicitud un estudio fundado, elaborado por un profesional especialista y validado por el organismo competente, que determine las acciones que deberán ejecutarse para la adecuada utilización de las mismas, conforme a lo dispuesto en la Ordenanza General de esta ley. Tales acciones deberán estar materializadas antes de la recepción de la torre por parte de la Dirección de Obras de la municipalidad respectiva y, en todo caso, dentro del plazo de 12 meses contado desde la fecha de la solicitud del permiso o del aviso de instalación, cuando correspondiere.
+
+Tratándose de áreas de protección, la instalación de torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones será autorizada debiendo darse siempre cumplimiento a lo establecido en la ley Nº 19.300, en los casos que así corresponda. En caso de zonas declaradas de interés turístico conforme al Nº 7) del artículo 8º de la ley Nº 20.423 se aplicará el régimen establecido en los artículos siguientes, según corresponda.
+
+No podrán instalarse antenas y sistemas radiantes de transmisión de telecomunicaciones en aquellas zonas urbanas saturadas de sistemas radiantes de telecomunicaciones conforme al artículo 7º de la Ley General de Telecomunicaciones, mientras dicha calificación se encuentre vigente.
+
+Tampoco podrán emplazarse torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones dentro de establecimientos educacionales públicos o privados, salas cuna, jardines infantiles, hospitales, clínicas o consultorios, predios urbanos donde existan torres de alta tensión, ni hogares de ancianos u otras áreas sensibles de protección así definidas por la Subsecretaría de Telecomunicaciones, ni en sitios ubicados a una distancia menor a cuatro veces la altura de la torre de los deslindes de estos establecimientos, con un mínimo de 50 metros de distancia, salvo que se trate de aquellas torres soportes de antenas y sistemas radiantes de transmisión de telecomunicaciones a que se refieren los artículos 116 bis G y 116 bis H de esta ley o sean requeridas por dichos establecimientos para sus fines propios.
+
+Para los efectos de lo dispuesto en los artículos siguientes, la altura de la torre soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones se medirá desde el suelo natural, salvo que se instalen sobre edificios de más de 5 pisos.
+
+Lo dispuesto en este artículo no será exigible para las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones de los servicios de aficionados a las telecomunicaciones ni al cuerpo de bomberos u organismos que presten servicios de utilidad pública respecto de estas mismas torres instaladas en virtud de una concesión de servicios limitados de telecomunicaciones. Las torres soporte de antenas y sistemas radiantes instaladas en aplicación de la presente norma no podrán compartir su infraestructura con otros concesionarios salvo que reúnan los mismos requisitos establecidos en ésta.
+
+#### Artículo 116 bis
+
+F.- Toda torre soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones de más de doce metros de altura, incluidos en ello sus antenas y sistemas radiantes, instalada por concesionarios, requerirá permiso de instalación de la Dirección de Obras Municipales respectiva.
+
+Con todo, las municipalidades deberán determinar mediante ordenanza dictada conforme con el artículo 65 letra k) de la ley Nº 18.695, las zonas de los bienes municipales o nacionales de uso público que administran, donde preferentemente se tendrá derecho de uso para el emplazamiento de torres soporte de antenas de más de doce metros. Dicha ordenanza establecerá las tarifas que la municipalidad respectiva podrá cobrar por el mencionado derecho de uso. Lo anterior, sin perjuicio del pago de los derechos que las municipalidades cobren en el ejercicio de sus atribuciones conforme al artículo 130 de la presente ley.
+
+La instalación de tales torres en las zonas preferentes se regirá por la presente disposición con la salvedad que en estos casos no será necesaria la autorización municipal a que se refiere la letra a) de este artículo.
+
+Las instalaciones a que se refiere el presente artículo deberán cumplir con lo dispuesto en el artículo 116 bis E, con los distanciamientos establecidos en la Ordenanza General de la presente ley y, en caso de emplazarse en áreas urbanas, les será aplicable, adicionalmente, el régimen de rasantes que establezca el plan regulador respectivo, o en su defecto la Ordenanza General de esta ley.
+
+Quedarán exentas del cumplimiento de las normas sobre distanciamientos a que se refiere el inciso anterior aquellas instalaciones de estructuras que, con el solo objetivo de colocalizar una nueva antena o sistema radiante de otro operador, deban modificar su altura. Para tales efectos, dichas instalaciones podrán sobrepasar las rasantes, siempre que dicha modificación no supere el treinta por ciento de la altura total de la torre soporte original.
+
+A la solicitud de permiso de instalación a que se refiere este artículo se deberán acompañar los siguientes antecedentes:
+
+a) Solicitud de instalación, suscrita por el propietario o propietarios del inmueble donde se efectuará la instalación y por el concesionario responsable de la torre soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones. En caso de que el permiso se solicite para la instalación de torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones en bienes nacionales de uso público o en bienes fiscales administrados por municipalidades, será necesario además de la solicitud por parte del operador, de autorización de la Municipalidad respectiva.
+
+b) Proyecto firmado por un profesional competente en el que se incluyan los planos de la instalación de la torre, los cuales deberán graficar el cumplimiento de los distanciamientos mínimos y las rasantes a que se refiere este artículo. Dicho plano deberá ser firmado por el propietario o copropietarios del inmueble donde se efectuará la instalación y por el concesionario responsable de la misma o su representante legal. Asimismo, el proyecto deberá acompañar una memoria explicativa que indique las medidas de diseño y construcción adoptadas para armonizar la estructura con el entorno urbano y con la arquitectura del lugar donde se emplazan. Tal memoria explicativa no será requerida cuando el diseño de la torre se encuentre entre aquellos incluidos en el catálogo o nómina que al efecto haya dictado el Ministerio de Vivienda y Urbanismo, previo informe de la Subsecretaría de Telecomunicaciones, la que podrá considerar las características urbanas y naturales de las distintas regiones del país.
+
+c) Presupuesto del costo total del proyecto, considerando, entre otros, estructuras, sistemas radiantes de transmisión de telecomunicaciones, equipos, sala de equipos, sistemas anexos y rentas por arriendos.
+
+d) Proyecto de cálculo estructural de la torre, incluidas sus fundaciones, con su respectiva memoria de cálculo y planos de estructura, que señale la capacidad de soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones, elaborado y suscrito por un profesional competente. El proyecto deberá acreditar que la capacidad de soporte antes señalada permitirá la colocalización de antenas y sistemas radiantes de transmisión de telecomunicaciones de, a lo menos, otro concesionario en las mismas condiciones si la infraestructura fuera menor de 30 metros o tres cuando se trate de estructuras de más de 30 metros.
+
+e) Certificado emitido por Correos de Chile, que acredite la comunicación por carta certificada, enviada con una antelación de al menos treinta días a la presentación de la solicitud, a la junta de vecinos respectiva y a los propietarios de todos los inmuebles que se encuentren comprendidos total o parcialmente en el área ubicada al interior de la circunferencia que tiene por centro el eje vertical de la torre y un radio equivalente a dos veces la altura de la misma, incluidas sus antenas y sistemas radiantes. Los inmuebles que se encuentren en la situación antes descrita deberán singularizarse en un plano autorizado ante Notario.
+
+La comunicación deberá incluir el proyecto de instalación de la torre soporte de antenas y sistemas radiantes, indicando la ubicación exacta de la instalación y su altura, así como la propuesta del diseño a adoptar para minimizar el impacto urbanístico y arquitectónico de la torre sobre el entorno en que se emplazará y una reseña de la propuesta de obra u obras de mejoramiento del espacio público a que se refiere la letra f) de este artículo, indicando alternativas priorizadas para el caso que no exista pronunciamiento de los propietarios a que se refiere este literal. Esta comunicación no será necesaria para el inmueble en que se instale la torre. Para los efectos de lo dispuesto en este párrafo, se entenderá cumplida la obligación de comunicación al propietario del inmueble por el solo hecho de haberse remitido la referida carta certificada al propietario registrado en el Servicio de Impuestos Internos para efectos del impuesto territorial.
+
+Los mismos antecedentes incluidos en la comunicación a que hace referencia el párrafo anterior deberán ser puestos en conocimiento de la comunidad por medio de una inserción publicada en un periódico de la capital de la provincia o región con una anticipación de, a lo menos, 15 días a la presentación de la solicitud.
+
+El incumplimiento de lo dispuesto en los párrafos anteriores acarreará la denegación del permiso de instalación o quedará sin efecto de pleno derecho, si es que se hubiese otorgado.
+
+Los propietarios que se encuentren dentro del área descrita en esta letra podrán formular a través de la respectiva Dirección de Obras al Concejo Municipal, por escrito, y previo informe de la junta de vecinos respectiva, las observaciones que estimen convenientes acerca del proyecto de instalación de la torre hasta treinta días corridos después de practicada la comunicación respectiva, debiendo optar sea por una obra de compensación o por una torre armonizada con el entorno urbano y la arquitectura del lugar donde se emplaza, para lo cual se requerirá de la mayoría simple de los propietarios a que hace referencia el primer párrafo de esta letra. Dentro del mismo plazo dicha mayoría conforme a la opción realizada podrá proponer sea obras de mejoramiento del espacio público alternativas a las propuestas por el solicitante, hasta por el monto equivalente al porcentaje a que se refiere la letra f) del presente artículo, o diseños de torres alternativos a los propuestos por el solicitante, que cumplan con el objetivo de minimizar el impacto urbanístico y arquitectónico de la torre sobre el entorno en que se emplazará, siempre y cuando estos diseños se encuentren dentro de la nómina a que se refiere la letra b) de este artículo. Si los propietarios no se pronunciaren sobre la opción a que se refiere el presente literal o no formularen observaciones conforme al procedimiento y dentro de los plazos establecidos en el presente artículo, la Dirección de Obras tendrá por aprobada la obra de mejoramiento o el diseño de torre propuesto por el interesado, de acuerdo a la priorización realizada.
+
+Además, los propietarios que se encuentren dentro del área descrita en esta letra podrán oponerse a la instalación de la torre soporte de antenas y sistemas radiantes, por razones técnicas, en conformidad al artículo 15 de la ley Nº 18.168, General de Telecomunicaciones. El plazo para ejercer tal oposición será de 30 días y se contará desde la fecha en que se haya verificado la publicación a que se refiere el párrafo tercero de esta letra e). Esta comunicación deberá realizarse conjuntamente con la publicación del extracto a que se refiere el inciso tercero del mismo artículo 15. Para los efectos previstos en el presente inciso no será obligatorio fijar domicilio en la comuna de Santiago y las notificaciones que correspondan podrán realizarse por carta certificada o correo electrónico.
+
+El Concejo Municipal deberá pronunciarse exclusivamente sobre la respectiva propuesta de obra de compensación o la modificación del diseño de la torre, conforme a las observaciones que haya recibido de los propietarios, a través de la Dirección de Obras, aprobando la propuesta del solicitante o de los propietarios, para lo cual deberá adoptar los acuerdos pertinentes, todo dentro de un plazo de veinte días corridos contado desde el vencimiento del término para formular tales observaciones. Los acuerdos adoptados por el Concejo en esta materia deberán ser certificados por el Secretario Municipal y remitidos a la respectiva Dirección de Obras. Vencido el plazo de que dispone para ello, sin que exista pronunciamiento del Concejo Municipal, se tendrán por rechazadas tales observaciones y por aprobada la obra de mejoramiento o el diseño de torre propuesto por el interesado, o el o la primera de la lista si la propuesta acompañada comprendiera más de una. Para efectos de lo dispuesto en este párrafo, el Concejo, una vez al año, deberá elaborar un listado que indique los tipos de obras de mejoramiento que serán susceptibles de financiamiento por parte de los interesados.
+
+f) Propuesta escrita de obra u obras de mejoramiento del espacio público ubicado al interior de la circunferencia que tiene por centro el eje vertical de la torre hasta un radio de doscientos cincuenta metros a la redonda del lugar donde se emplazará la misma. La propuesta deberá referirse a obras relacionadas con la implementación o habilitación de servicios de telecomunicaciones, el mejoramiento de áreas verdes, pavimentos, ciclovías, luminarias, ornato u otras, por un monto equivalente al treinta por ciento del costo total de la torre soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones, tomando como referencia el presupuesto a que se refiere la letra c) de este artículo. Las obras de mejoramiento mencionadas precedentemente deberán encontrarse terminadas dentro del plazo de un año contado desde la fecha en que se otorgue el respectivo permiso de instalación de la torre. Este plazo podrá prorrogarse por una sola vez, y por un máximo de seis meses, por motivos de fuerza mayor o caso fortuito debidamente acreditados ante la Dirección de Obras Municipales, debiendo en este caso renovarse la garantía a que se refiere el párrafo siguiente. En caso de que la propuesta aprobada por el Concejo Municipal consista en la prestación de servicios de telecomunicaciones, tales servicios deberán ser otorgados en forma permanente mientras se encuentre instalada la torre soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones correspondiente.
+
+Para garantizar el fiel cumplimiento de las obras de mejoramiento del espacio público a que se refiere esta letra, el solicitante deberá rendir una caución a favor de la Municipalidad respectiva, la cual podrá consistir indistintamente en una boleta bancaria o póliza de seguro por el monto de la obra de que se trate. La garantía debe otorgarse por el plazo de ejecución de la obra. Las instituciones bancarias o aseguradoras que hubieren emitido el respectivo documento de garantía pagarán los valores garantizados con el solo mérito del certificado que otorgue el Director de Obras Municipales, en el sentido de que las obras no se han ejecutado y que el plazo correspondiente se encuentra vencido. En este último caso, dichos valores deberán igualmente destinarse a las obras de mejoramiento anteriormente mencionadas.
+
+g) Certificado de la Dirección General de Aeronáutica Civil que acredite que la altura total de la torre que se pretende emplazar, incluidas sus antenas y sistemas radiantes, no constituyen peligro para la navegación aérea. Estos antecedentes de ubicación geográfica deben coincidir con los del certificado a que se refieren la letra h) y siguientes.
+
+h) Certificado de la Subsecretaría de Telecomunicaciones que acredite el hecho de haber sido presentada una solicitud de otorgamiento o modificación de concesión de un servicio de telecomunicaciones, cuyo proyecto técnico establezca que los sistemas y equipos respectivos se emplazarán en la torre cuyo permiso de instalación se solicita. En caso que el permiso sea solicitado por un concesionario de servicios intermedios de telecomunicaciones que provea de estos servicios de infraestructura sólo se requerirá que sea presentada una copia del decreto en virtud del cual se le otorgó su concesión o una certificación efectuada por la Subsecretaría de encontrarse en tramitación el otorgamiento de la respectiva concesión.
+
+i) Certificado de línea oficial e informaciones previas.
+
+En caso de que la solicitud establecida en este artículo involucre torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones comprendidas dentro del catálogo a que se refiere la letra
+
+- **b)** del presente artículo, la solicitud de permiso sólo deberá cumplir con los requisitos establecidos en las letras a), b), salvo memoria explicativa, d), salvo en lo relativo a la obligación de colocalización,
+
+- **e)** y
+
+- **f)** sólo en cuanto a la comunicación para efectos de la opción a que se refiere el primer literal,
+
+- **g)** y
+
+- **h)** anteriores. A este mismo régimen estarán sometidas aquellas torres soporte de antenas y sistemas radiantes financiadas por la respectiva concesionaria que constituyan una contribución a la arquitectura y al entorno urbano por tratarse de un objeto de arte para la ciudad certificado por un Comité de Expertos convocado por el Ministerio de las Culturas, las Artes y el Patrimonio integrado por dos miembros del Colegio de Arquitectos designados por éste, dos artistas de reconocida trayectoria en el ámbito artístico pertinente nombrados por el Ministerio y un representante de este último organismo nominado por el Ministro, quien tendrá voto dirimente.
+
+Las torres que estén instaladas y las que se pretenda emplazar en zonas declaradas de interés turístico a que se refiere el Nº 7) del artículo 8º de la ley Nº 20.423 deberán reunir las condiciones de diseño y construcción establecidas en la letra
+
+- **b)** del presente artículo o estar comprendidas en el catálogo a que se refiere el mismo literal. Asimismo, en caso de tratarse de torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones que se instalen en reemplazo de otras torres, de acuerdo a lo establecido en el artículo 19 bis de la Ley General de Telecomunicaciones, deberán cumplir con los requisitos establecidos en las letras a),
+
+- **b)** con excepción de la memoria explicativa, d), g), y
+
+- **h)** del presente artículo. En tanto, las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones que se intervengan o emplacen en reemplazo de otras torres, con el propósito de realizar un objeto de arte urbano certificado por la misma instancia señalada en el inciso anterior sólo requerirán de aviso de instalación, siempre que su modificación no supere el treinta por ciento de la altura total de la torre soporte original.
+
+La Dirección de Obras Municipales respectiva, dentro del plazo máximo de quince días hábiles contado de acuerdo a lo establecido en la letra e) precedente, otorgará el permiso si, de acuerdo a los antecedentes acompañados, la solicitud de instalación de la torre cumple con las disposiciones establecidas en esta ley, previo pago de los derechos municipales correspondientes a las Obras Provisorias conforme al Nº 3 de la tabla contenida en el artículo 130 de la Ley General de Urbanismo y Construcciones, o se pronunciará denegándolo. Si cumplido dicho plazo no hubiere pronunciamiento por escrito sobre el permiso se entenderá por ese solo hecho otorgado el permiso por la Dirección de Obras Municipales. Si el permiso fuere denegado los interesados podrán reclamar ante la Secretaría Regional Ministerial correspondiente del Ministerio de Vivienda y Urbanismo, aplicándose para tales efectos lo dispuesto en los artículos 118 bis, 118 ter y 118 quáter.
+
+El permiso de instalación se otorgará al concesionario de servicios públicos e intermedios de telecomunicaciones. Identificará claramente al beneficiario; la localización de las instalaciones autorizadas, y no podrá tener un plazo inferior al que le reste al interesado para completar el plazo de su concesión. Los costos relacionados con el retiro de las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones, una vez expirados los plazos de los permisos, serán de cargo de cada operador, sin perjuicio de lo dispuesto en el inciso segundo del artículo 124, en lo que fuere pertinente.
+
+El Director de Obras, una vez instalada la torre, deberá verificar que la instalación se ejecutó conforme al permiso otorgado y procederá a efectuar la recepción, si fuere procedente.
+
+Los propietarios de los inmuebles emplazados en el radio a que se refiere la letra e) del presente artículo que fueren contribuyentes de impuesto territorial podrán solicitar una retasación del avalúo fiscal de sus propiedades para obtener una disminución de contribuciones, salvo que la instalación de la torre soporte de antenas o un sistema radiante que constituye el factor que disminuye considerablemente el valor de la propiedad le sea imputable al propietario u ocupante. Lo anterior, de acuerdo al artículo 10, letra e), de la ley Nº 17.235 sobre Impuesto Territorial.
+
+#### Artículo 116 bis
+
+G.- Toda torre soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones de más de tres y hasta doce metros de altura, incluidos en ellos sus antenas y sistemas radiantes, que reúnan las condiciones de diseño y construcción previstas en la letra b) del precepto anterior, requerirá permiso de instalación del Director de Obras Municipales conforme a lo dispuesto en este artículo.
+
+Las instalaciones a que se refiere el inciso anterior deberán cumplir con las normas dispuestas en el artículo 116 bis E y con los distanciamientos establecidos en la Ordenanza General de esta ley. La correspondiente solicitud de permiso de instalación, deberá estar acompañada de los antecedentes señalados en las letras a), b),
+
+- **h)** e
+
+- **i)** del artículo 116 bis F de la presente ley. Además, el solicitante deberá presentar un comprobante de correos que acredite haberse enviado con una antelación no menor a 15 días una comunicación a los propietarios a que se refiere la letra
+
+- **e)** del artículo 116 bis F que informe a éstos de su solicitud y en particular de las características de la torre a instalar y su diseño. La mayoría simple de los propietarios podrá solicitar a la Dirección de Obras, dentro del plazo de 15 días, un diseño alternativo para la torre, siempre que éste se encontrare en la nómina a que se refiere la letra
+
+- **b)** del artículo 116 bis F, la que en definitiva resolverá.
+
+La Dirección de Obras Municipales respectiva deberá pronunciarse en la misma forma y dentro del mismo plazo señalado en el artículo 116 bis F, con la excepción de que en estos casos no se podrá denegar el permiso, aun cuando la torre se emplace en un territorio saturado de instalación de estructuras de soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones. Si no hubiere pronunciamiento por escrito del permiso dentro del plazo para dicho efecto o éste fuere denegado, se aplicará lo dispuesto en el referido artículo.
+
+El permiso de instalación de soporte de antenas y sistemas radiantes se otorgará al concesionario de servicios públicos e intermedios de telecomunicaciones. Identificará claramente al beneficiario; la localización de las instalaciones autorizadas, y no podrá tener un plazo inferior al que le reste al interesado para completar el plazo de su concesión.
+
+El Director de Obras, una vez instalada la torre, deberá verificar que la instalación se ejecutó conforme al permiso otorgado y procederá a efectuar la recepción, si fuere procedente.
+
+Aquellas torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones de más de tres y hasta doce metros que no reúnan las condiciones descritas en el inciso primero del presente precepto deberán sujetarse íntegramente a lo dispuesto en el artículo anterior.
+
+Tanto a las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones a que se refiere este artículo, que se adosen o adhieran a una edificación preexistente, como a los postes de alumbrado público o eléctrico, elementos publicitarios, señalética o mobiliario urbano en cualquier altura, no les será exigible el permiso que se contempla en el inciso primero del presente artículo, debiendo cumplir sólo con el aviso de instalación establecido en el artículo 116 bis H. Dichas estructuras deberán cumplir condiciones de armonización con el entorno urbano y la arquitectura del lugar donde se adhieran o adosen.
+
+Sin perjuicio de lo antes señalado, las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones de hasta 18 metros que cumplan con las condiciones de armonización con la arquitectura y el entorno urbano y diseñadas para colocalizar antenas y sistemas radiantes de terceros concesionarios que provean a la comunidad servicio telefónico móvil o de transmisión de datos, se regirán por lo dispuesto en el presente artículo, debiendo acompañar, además de los antecedentes señalados en dicho artículo, los dispuestos en la letra d) del artículo anterior y el acuerdo de colocalización respectivo.
+
+#### Artículo 116 bis
+
+H.- Las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones de tres o menos metros de altura, incluidos en ellos sus antenas y sistemas radiantes, y aquellas torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones que determine la Ordenanza General, de conformidad con el artículo 2° bis, requerirán de aviso de instalación a la Dirección de Obras Municipales conforme a los requisitos establecidos en la Ordenanza General.
+
+Al mismo aviso estará sujeta la instalación de aquellas estructuras porta antenas que se levanten sobre edificios de más de cinco pisos y aquellas que se pretenda instalar en zonas rurales, cualquiera fuese su tamaño.
+
+La instalación de antenas y sistemas radiantes en una torre ya construida producto de la autorización para colocalizar otorgada por el concesionario en virtud de lo dispuesto en el artículo 116 bis F no requerirá permiso o aviso alguno de la Dirección de Obras Municipales respectiva.
+
+#### Artículo 116 bis
+
+I.- Se entenderá que un territorio urbano se encuentra saturado de instalación de estructuras de torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones cuando un concesionario pretenda instalar una torre nueva dentro del radio de cien metros a la redonda donde ya existieren dos o más torres de doce metros o más, medido éste desde el eje vertical de cualquiera de las torres preexistentes. En este caso, el solicitante deberá proceder conforme a los incisos siguientes. La declaración de territorio saturado a que se refiere este inciso se efectuará por la Subsecretaría de Telecomunicaciones, teniendo como antecedente las estructuras existentes en el respectivo territorio, al momento de emitir un pronunciamiento conforme al artículo 19 bis de la Ley General de Telecomunicaciones o durante la tramitación de una solicitud de concesión o su modificación.
+
+En caso que por declaración de un territorio urbano, como saturado de instalación de estructuras de soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones, se deba instalar una o más antenas o sistemas radiantes de transmisión de telecomunicaciones en condiciones de colocalización se requerirá aviso de instalación el que deberá acompañar el acuerdo o autorización de colocalización del propietario de la respectiva torre o copia de la resolución favorable de la Subsecretaría de Telecomunicaciones al concesionario requerido, o del laudo arbitral, según corresponda, conforme a lo dispuesto en el artículo 19 bis de la ley Nº 18.168, General de Telecomunicaciones.
+
+Sólo cuando conforme al artículo 19 bis de la Ley General de Telecomunicaciones la Subsecretaría hubiere determinado que la negativa a la colocalización es fundada por parte del concesionario requerido, se podrán instalar de manera excepcional torres soporte de antenas de más de doce metros en estos territorios, siempre que reúnan las condiciones de armonización con el entorno urbano o la arquitectura del lugar donde se emplaza, y conforme al procedimiento y requisitos señalados en los artículos anteriores.
+
+Este régimen también será aplicable a la franja de 500 metros contigua al límite entre una zona urbana y rural determinado en el instrumento de planificación territorial que corresponda.
+
+#### Artículo 117
+
+Los permisos de subdivisión, loteo o urbanización predial y de construcciones podrán postergarse hasta por un plazo de tres meses, cuando el sector de ubicación del terreno esté afectado por estudios sobre modificaciones del Plan Regulador Intercomunal o Comunal, aprobados por resolución del Alcalde. Esta postergación deberá ser informada previa y favorablemente por la Secretaría Regional correspondiente del Ministerio de Vivienda y Urbanismo.
+
+En caso necesario, el citado plazo de tres meses podrá ser prorrogado hasta completar un máximo de doce meses. La prórroga se dispondrá por decreto supremo del Ministerio de Vivienda y Urbanismo dictado "por orden del Presidente de la República" o por resolución del Secretario Regional Ministerial de Vivienda y Urbanismo respectivo, según se trate de estudios sobre modificaciones de un Plan Regulador Intercomunal o de un Plan Regulador Comunal, en su caso. Tanto el decreto supremo como la resolución se publicarán en el Diario Oficial y en algún diario de los de mayor circulación en la comuna.
+
+#### Artículo 118
+
+La Dirección de Obras Municipales dispondrá del plazo de treinta días, contado desde la presentación de la solicitud y sus antecedentes, para pronunciarse sobre los permisos de construcción. El plazo antes indicado será de sesenta días en proyectos cuya carga de ocupación sea igual o superior a 1.000 personas.
+
+Los plazos señalados en el inciso anterior se reducirán a la mitad si a la solicitud se acompaña el informe favorable de un revisor independiente.
+
+Transcurrido el plazo respectivo sin que la Dirección de Obras Municipales se pronuncie, el solicitante podrá hacer valer el silencio administrativo negativo. La solicitud se entenderá rechazada una vez realizada la presentación del solicitante ante la mencionada Dirección, en que manifiesta su voluntad de tenerla por rechazada.
+
+La Dirección de Obras Municipales no podrá omitir la resolución de la solicitud de permiso bajo pretexto de haber transcurrido el plazo para pronunciarse. Sin embargo, estará impedida de emitir pronunciamiento desde el momento en que se haya realizado la presentación a que se refiere el inciso anterior.
+
+La conclusión del procedimiento por silencio administrativo negativo es sin perjuicio de la responsabilidad administrativa que sea procedente.
+
+#### Artículo 118 bis
+
+Los reclamos que se interpongan ante la Secretaría Regional Ministerial de Vivienda y Urbanismo, conforme a lo dispuesto en el artículo 12, se sujetarán a las siguientes reglas:
+
+a) Los reclamos deberán ser interpuestos por cualquier particular interesado o por el propietario del predio respecto del cual se solicitó el permiso o autorización, dentro del plazo de treinta días, contado desde la fecha de publicación de la resolución o de la presentación a que se refiere el inciso tercero del artículo 118, según corresponda.
+
+b) En el escrito de reclamación se deberá indicar con precisión:
+
+i. La calidad de parte interesada que motiva la presentación; la individualización, con indicación del nombre y apellidos del reclamante; cédula de identidad; domicilio y, en su caso, la individualización de su apoderado, así como los medios electrónicos a través de los cuales se llevarán a cabo las notificaciones.
+
+ii. La resolución que se reclama y, en su caso, la presentación por la cual se hizo valer el silencio administrativo negativo.
+
+iii. La norma legal, reglamentaria o del instrumento de planificación territorial que se estima infringida.
+
+iv. La forma en que se ha producido la infracción y, en los casos que corresponda, los hechos en los que se sustenta.
+
+v. Las peticiones concretas que se formulan.
+
+vi. El listado de los antecedentes y documentos que se acompañan.
+
+c) Dentro de los tres días hábiles siguientes al vencimiento del plazo indicado en el literal a) de este artículo, la Secretaría Regional Ministerial verificará que la o las reclamaciones hayan sido presentadas oportunamente y que se da cumplimiento a las exigencias establecidas en el literal b) precedente. Si la reclamación es extemporánea o no cumple con las exigencias indicadas, la declarará inadmisible por resolución fundada; ésta será susceptible del recurso de reposición, el que deberá interponerse dentro de tercero día.
+
+d) Admitida a trámite, y en el plazo de tres días hábiles, la Secretaría Regional Ministerial solicitará a la Dirección de Obras Municipales que informe respecto de la o las reclamaciones y que remita copia de los documentos que conforman el expediente y los demás antecedentes necesarios para resolver. Para lo anterior, la Dirección de Obras Municipales contará con el plazo de diez días hábiles, contado desde la recepción de la solicitud de informe. Si cumplido el plazo no ha recibido el informe, la Secretaría continuará con la tramitación del procedimiento sin más trámite.
+
+e) Si la reclamación fue interpuesta por un particular interesado distinto del propietario del inmueble que presentó la solicitud que dio origen a la resolución que se reclama, la Secretaría Regional Ministerial deberá comunicar la o las reclamaciones al referido propietario, dentro del plazo de tres días hábiles a que alude el literal d) precedente, con copia de el o los escritos de reclamación y de todos los antecedentes que hasta esa fecha formen parte del expediente, para que haga valer sus alegaciones o defensas, aporte documentos u otros elementos de juicio, dentro del plazo de diez días hábiles, contado desde su notificación. Si cumplido el plazo el propietario no comparece, podrá continuarse con el procedimiento, sin más trámite.
+
+f) La Secretaría Regional Ministerial deberá resolver fundadamente el o los reclamos en el plazo de cuarenta días hábiles, contado desde el vencimiento de los plazos previstos en las letras d) y e) de este artículo.
+
+En caso de acoger la reclamación, la Secretaría Regional Ministerial podrá dejar sin efecto, total o parcialmente, la resolución reclamada y ordenar su reemplazo, enmienda o la adopción de las medidas que correspondan para restablecer el cumplimiento de las normas infringidas.
+
+En el caso de reclamaciones contra los rechazos señalados en el inciso tercero del artículo 118, si la Secretaría Regional Ministerial verifica que el proyecto respectivo cumple lo señalado en el inciso sexto del artículo 116, declarará que el permiso o la autorización requerida debió concederse y ordenará a la Dirección de Obras Municipales otorgarla sin más trámite, previo pago de los derechos municipales reducidos en el 50%. En caso contrario, rechazará el reclamo, con indicación de la o las normas que incumple el proyecto respectivo.
+
+La resolución que resuelva la reclamación deberá ser remitida al particular interesado, al propietario del inmueble, a la Dirección de Obras Municipales, al alcalde y al concejo municipal respectivo.
+
+g) La Dirección de Obras Municipales cumplirá la instrucción dentro del plazo máximo de cinco días hábiles, contado desde su notificación. Si la instrucción no se cumple dentro de plazo, la Secretaría Regional Ministerial procederá conforme al artículo 15, y estará facultada para dictar la o las resoluciones de reemplazo o enmienda, en los términos que señala el artículo 11.
+
+h) Las resoluciones de la Secretaría Regional Ministerial que resuelvan las reclamaciones a que se refiere el presente artículo serán publicadas en el sitio web del Ministerio de Vivienda y Urbanismo, y se permitirá identificarlas por región y Dirección de Obras Municipales.
+
+#### Artículo 118 ter
+
+Las resoluciones de la Secretaría Regional Ministerial que resuelvan los reclamos interpuestos conforme a los términos de los artículos 12 y 118 bis podrán ser impugnadas ante la Corte de Apelaciones respectiva por todo particular interesado, dentro del plazo de quince días hábiles. Se entenderá que son inhábiles los días sábados, domingos y festivos.
+
+El plazo señalado en el inciso anterior se contará desde la notificación al particular interesado de la resolución que resuelve la reclamación.
+
+El escrito deberá indicar, con precisión, al menos, la calidad de interesado que motiva su presentación; el acto que se reclama; la norma legal, reglamentaria o del instrumento de planificación territorial que se estima infringida; la forma en que se ha producido la infracción, y las peticiones concretas que se formulan.
+
+Presentada la reclamación, la Corte examinará en cuenta si ha sido interpuesta oportunamente y cumple con las exigencias señaladas en el inciso anterior. Si no cumple con ello, la declarará inadmisible por resolución fundada, la que será susceptible de recurso de reposición ante la misma Corte, el que deberá interponerse dentro de tercero día. En subsidio de la reposición, procederá la apelación para ante la Corte Suprema, recurso que será resuelto en cuenta.
+
+Acogida a trámite la reclamación, la Corte dará traslado a la Secretaría Regional Ministerial y a todos los interesados que intervinieron en el procedimiento administrativo y que puedan resultar afectados por la sentencia definitiva, por el término de diez días para que remitan informe. Asimismo, podrá solicitar a la División de Desarrollo Urbano que informe, dentro de su ámbito de competencia. Además, podrá dictar orden de no innovar cuando la ejecución del acto impugnado produzca un daño irreparable al recurrente.
+
+Vencido el plazo señalado en el inciso anterior, la Corte continuará el procedimiento y podrá abrir un término de prueba, si lo estima necesario, que se regirá por las reglas de los incidentes que contempla el Código de Procedimiento Civil.
+
+Vencido el término de prueba, se remitirán los autos al fiscal judicial para su informe y, a continuación, se ordenará traer los autos en relación. La vista de esta causa gozará de preferencia.
+
+En caso de dar lugar al reclamo, la sentencia de la Corte dejará sin efecto, total o parcialmente, el acto impugnado; ordenará la dictación de la resolución que corresponda, y dispondrá el envío de los antecedentes al Ministerio Público, cuando estime que la infracción puede ser constitutiva de delito.
+
+Contra la sentencia que resuelve el reclamo sólo procederán los recursos de casación en la forma y el fondo. Dichos recursos deberán interponerse dentro del plazo de diez días hábiles, contado desde la notificación de la sentencia.
+
+#### Artículo 118 quáter
+
+Interpuesto reclamo contra una resolución de acuerdo con el artículo 118 bis, la Dirección de Obras Municipales deberá inhibirse de conocer cualquier reclamación o de iniciar de oficio cualquier revisión, respecto de la misma resolución.
+
+#### Artículo 119°
+
+Toda obra de urbanización o edificación deberá ejecutarse con sujeción estricta a los planos, especificaciones y demás antecedentes aprobados por la Dirección de Obras Municipales.
+
+Si después de concedido un permiso hubiere necesidad de introducir modificaciones o variantes en el proyecto o en las obras correspondientes, tales modificaciones se tramitarán en la forma que señale la Ordenanza General.
+
+La Dirección de Obras proveerá por escrito la información u observaciones sobre el proyecto al propietario o profesional que interviene, en formulario tipo, a solicitud del interesado. Será responsabilidad del profesional aportar los antecedentes necesarios y adecuar el proyecto a las exigencias que se le formulen.
+
+Excepcionalmente, tratándose de establecimientos de salud, educacionales y deportivos, podrán ejecutarse simultáneamente en un mismo predio las obras de edificación aprobadas por la Dirección de Obras Municipales en dos o más permisos de ampliación patrocinados por distintos profesionales. En estos casos, el propietario deberá acreditar el cumplimiento de las normas urbanísticas, considerando para ello las solicitudes en trámite, los permisos de edificación otorgados y las edificaciones recepcionadas definitivamente en el predio. Para efectos del control de las normas urbanísticas aplicables a todas las obras, la Dirección de Obras Municipales deberá llevar un registro separado del predio y los proyectos que se acojan a este artículo. El Director de Obras Municipales revisará las solicitudes, según sus fechas de ingreso, y rechazará aquellas que incumplan alguna norma urbanística.
+
+#### Artículo 119 bis
+
+Conforme a lo establecido en el inciso primero del artículo 116, la Ordenanza General establecerá las obras que, en consideración a aspectos tales como el tipo de proyecto, su carga de ocupación, uso, clase y destino, podrán ejecutarse previa presentación de una declaración jurada ante la Dirección de Obras Municipales según el procedimiento que se indica a continuación.
+
+Dicha declaración jurada deberá ser suscrita por un arquitecto y los demás profesionales que intervengan, los que certifican así, dentro de su ámbito de competencias, que el proyecto cumple con las normas urbanísticas y con todas las disposiciones que le sean aplicables.
+
+La Ordenanza General establecerá el contenido de la declaración jurada, los antecedentes que se deberán acompañar, y la definición de los profesionales que deben suscribirla.
+
+Para efectos de dar cumplimiento a lo dispuesto en el artículo 170, en los casos que corresponda, será requisito acompañar el comprobante de ingreso del informe de mitigación o el certificado que acredite que el proyecto no requiere de ese informe, emitido por el sistema electrónico indicado en dicho artículo.
+
+Presentada la declaración jurada y los antecedentes, la Dirección de Obras Municipales los archivará en un registro especial para estos fines, previo pago de los derechos establecidos en el número 12 del inciso primero del artículo 130, y emitirá un comprobante de archivo timbrado y fechado.
+
+Podrán ejecutarse las obras respectivas una vez emitido el comprobante de archivo de la declaración jurada de inicio de obras. Lo anterior, sin perjuicio de la obtención de las autorizaciones o el cumplimiento de las exigencias que establezcan otras leyes para la ejecución de las mismas. A partir de ese momento, la Dirección de Obras Municipales podrá ejercer las potestades de fiscalización que establece el Párrafo 5° del Capítulo II del Título III, según corresponda.
+
+La municipalidad deberá publicar en su sitio web, dentro del quinto día hábil de cada mes, una resolución de la Dirección de Obras Municipales que contenga el listado con todas las declaraciones juradas de inicio de obras archivadas durante el mes anterior, junto con una copia de aquellas. En dicha publicación se dejará expresa constancia de la fecha en que se realiza. Respecto de las obligaciones que establece este inciso, será aplicable lo señalado en el inciso segundo del artículo 116 bis C.
+
+Dentro del décimo y el décimo quinto día hábil de cada mes, la Secretaría Regional Ministerial respectiva deberá publicar en su sitio web o, en su defecto, en el del Ministerio de Vivienda y Urbanismo, una resolución donde informe las fechas y las formas en que se realizaron las publicaciones señaladas en el inciso anterior y dejará constancia de las Direcciones de Obras Municipales que no hayan cumplido con la obligación dentro de plazo.
+
+Las obras de edificación a las que se refiere el presente artículo deberán ejecutarse con estricta sujeción a la declaración jurada de inicio de obras, a los planos, a las especificaciones y a los demás antecedentes presentados a la Dirección de Obras Municipales, dentro del plazo que defina la Ordenanza General, el cual se contará desde su archivo. Si vencido ese plazo no se presenta ante la Dirección de Obras Municipales la declaración jurada de término de ejecución a que se refiere el artículo 144 bis, el titular del proyecto deberá realizar nuevamente el procedimiento descrito en este artículo para ejecutar las obras.
+
+Para introducir modificaciones o variaciones en el proyecto o en las obras respectivas después de archivada la declaración jurada de inicio de obras, deberá observarse el mismo procedimiento descrito en los incisos precedentes. Sin embargo, en caso de que se trate de variaciones menores en relación a detalles constructivos, instalaciones o terminaciones, el propietario podrá informarlas a la Dirección de Obras Municipales en conjunto con la declaración jurada de término de ejecución a que se refiere el artículo 144 bis.
+
+#### Artículo 120°
+
+La vigencia, caducidad y prórroga de un permiso, como asimismo los efectos derivados de una paralización de obra o la ejecución de una obra sin permiso, se sujetarán a las normas que señale la Ordenanza General.
+
+Contra las resoluciones del Alcalde que ordenaren la demolición de obras ejecutadas sin previo permiso procederán los recursos contemplados en los artículos 152° y 154° de esta ley.
+
+### Párrafo 2° — .- De las autorizaciones especiales para edificación
+
+#### Artículo 121°
+
+La Dirección de Obras Municipales podrá, previa autorización del municipio, permitir nuevas construcciones u otras alteraciones en las construcciones existentes en los terrenos a que se refiere el artículo 59, distintas de las que admite el artículo 59 bis, siempre que el propietario del inmueble renuncie por escritura pública a toda indemnización o pago por dichas mejoras u obras, cuando posteriormente se lleve a cabo la expropiación. En dicha escritura se fijará el valor de expropiación y el plazo dentro del cual deberá adoptarse la línea oficial, siendo de su cargo la demolición. La escritura será inscrita en el Registro de Gravámenes del Conservador de Bienes Raíces y la renuncia afectará a todos los sucesores del renunciante, a cualquier título, en el dominio del inmueble.
+
+En caso de incumplimiento del interesado, la Municipalidad podrá desalojar el edificio con el auxilio de la fuerza pública y demolerlo en la parte que corresponda por cuenta del propietario, sin perjuicio de las acciones legales que correspondan, hasta el reintegro total de los costos del desalojo y la demolición. Los gastos de la demolición y desalojo podrán imputarse al valor de la expropiación.
+
+#### Artículo 122
+
+En los antejardines fijados en los planes reguladores sólo podrán efectuarse las construcciones que estén expresamente admitidas en la Ordenanza General de esta ley o en la ordenanza del respectivo instrumento de planificación.
+
+Sin perjuicio de lo anterior, podrán autorizarse construcciones provisorias, conforme al artículo 124.
+
+#### Artículo 123°
+
+En aquellas propiedades que no cumplan con las disposiciones del Plan Regulador y que fueren parcialmente afectadas por siniestros, las Direcciones de Obras Municipales podrán autorizar la ejecución de trabajos de emergencia y de carácter transitorio, destinados a su mantenimiento, por un plazo no mayor a seis meses, el que sólo podrá ser prorrogado por una sola vez hasta por otro periodo igual, siempre que existan causas justificadas.
+
+Vencidos los plazos señalados en el inciso anterior, el Alcalde, a petición del Director de Obras Municipales, podrá ordenar la demolición de los edificios existentes y el desalojo de sus ocupantes con el auxilio de la fuerza pública, con cargo al propietario, sin perjuicio de las demás sanciones que procedan.
+
+#### Artículo 124°
+
+El Director de Obras Municipales podrá autorizar la ejecución de construcciones provisorias por una sola vez, hasta por un máximo de tres años, en las condiciones que determine en cada caso. Sólo en casos calificados podrá ampliarse este plazo, con la autorización expresa de la Secretaría Regional respectiva del Ministerio de la Vivienda y Urbanismo.
+
+Si, vencido el plazo correspondiente, el beneficiario no retirare las referidas construcciones, el Alcalde podrá ordenar el desalojo y la demolición de las construcciones, con cargo al propietario, con el auxilio de la fuerza pública si fuere necesario, sin perjuicio de imponer las multas que correspondan.
+
+#### Artículo 125°
+
+La Dirección de Obras Municipales no dará curso a los permisos de edificación que se soliciten de acuerdo con los artículos 121°, 122° y 123° en aquellos terrenos en que la Municipalidad hubiere resuelto su expropiación, de conformidad al artículo 85° de esta ley.
+
+### Párrafo 3° — .- De los Derechos Municipales y Garantías
+
+#### Artículo 126
+
+Los permisos de urbanización, subdivisión, loteo y construcción se otorgarán previo pago de los derechos municipales correspondientes.
+
+Los permisos de subdivisión y loteos de terrenos pagarán solamente el derecho de subdivisión, que se calculará sobre el avalúo fiscal del total del terreno a subdividir. Los permisos de urbanización estarán exentos de derechos.
+
+Los permisos de construcción pagarán un derecho que se calculará sobre el monto del presupuesto de la obra. Dicho presupuesto se confeccionará aplicando la tabla de costos unitarios por metro cuadrado de construcción, que se menciona más adelante, conforme a los tipos y materiales de construcción a emplearse.
+
+Las Direcciones de Obras Municipales podrán disponer que, al momento de ingresar una solicitud de aprobación de anteproyecto o de permiso, se consigne un monto no superior al 10% del valor del derecho municipal a cancelar conforme al artículo 130. Dicho monto se descontará al momento del pago del permiso.
+
+> **Nota.** El Art. Transitorio de la LEY 19472, publicada el 16.09.1996, dispuso su vigencia noventa días después de su publicación.
+
+#### Artículo 127°
+
+Para los efectos de lo dispuesto en el artículo anterior, el Ministerio de la Vivienda y Urbanismo llevará una estadística del costo de la construcción, y confeccionará anualmente una tabla de costos unitarios por metro cuadrado de construcción, que será enviada a todas las municipalidades antes del 31 de Diciembre de cada año.
+
+Las Direcciones de Obras Municipales reajustarán dichos precios unitarios trimestralmente, de acuerdo al Indice de Costo de Edificación determinado por el mismo Ministerio.
+
+Las alteraciones, reparaciones, obras menores y provisorias, y demoliciones, pagarán derechos sobre un presupuesto que determinará el Director de Obras en cada caso.
+
+#### Artículo 128°
+
+A petición del interesado, el Director de Obras podrá compensar los derechos de edificación, en todo o en parte, con el valor de la expropiación a que esté afecto el inmueble.
+
+El Director de Obras podrá otorgar facilidades para el pago de derechos por permisos de edificación, mediante cuotas bimestrales o trimestrales, que se reajustarán según el Indice de Precios al Consumidor de la Dirección Nacional de Estadística. Estos derechos, en todo caso, deberán cancelarse íntegramente antes de la recepción definitiva de la obra.
+
+#### Artículo 129°
+
+La garantía de urbanización por el monto total de las obras, que exige esta ley para el efecto de autorizar ventas y adjudicaciones de lotes antes de estar ejecutada y recibida la urbanización, podrá consistir indistintamente en valores hipotecarios reajustables u otros garantizados por el Estado, boletas bancarias o pólizas de seguros.
+
+Las instituciones bancarias y aseguradoras, que hubieren emitido el respectivo documento de garantía por la urbanización, pagarán los valores garantizados o la parte de ellos que corresponda con el solo mérito del certificado que otorgue el Director de Obras Municipales, en el sentido de que las obras no se han ejecutado, total o parcialmente, y que el plazo correspondiente se encuentra vencido, indicado además, el monto proporcional de la garantía que deba hacerse efectivo.
+
+En las urbanizaciones que ejecuten los Servicios Regionales o Metropolitano del Sector Vivienda, por sí o a través de terceros, bastará que dichas Instituciones otorguen a la respectiva Municipalidad una carta de resguardo que garantice que las obras de urbanización se ejecutarán conforme a los proyectos aprobados, para que la Dirección de Obras Municipales proceda a la autorización de ventas y adjudicaciones de lotes antes de estar ejecutada y recibida la urbanización, o a la emisión de certificados de informaciones previas de ellos, o a la recepción definitiva de las viviendas, locales comerciales y obras de equipamiento comunitario que se encuentren terminadas y ejecutadas conforme a los correspondientes permisos o sus modificaciones. Se señalará en estos casos, en los certificados de recepción, que las obras de urbanización se han garantizado conforme a lo dispuesto en este inciso.
+
+#### Artículo 130
+
+Los derechos municipales a cancelar por permisos de subdivisión, loteos, construcción, etc. no constituyen impuesto, sino el cobro correspondiente al ejercicio de una labor de revisión, inspección y recepción, y se regularán conforme a la siguiente tabla:
+
+=============================================
+
+Tipos de Obras Derecho municipal
+
+--------------------------------------------
+
+1. Subdivisiones y - - - 2,0% del avalúo
+
+loteos fiscal del
+
+terreno.
+
+2. Obra nueva y - - - 1,5% del
+
+ampliación presupuesto
+
+3. Alteraciones, - - - 1,0% " "
+
+reparaciones,
+
+obras menores
+
+y provisoria
+
+4. Planos Tipo - - - - - 1,0% " "
+
+autorizados
+
+por el Ministerio
+
+de Vivienda y
+
+Urbanismo
+
+5. Reconstrucción - - - - - 1.0% " "
+
+6. Modificaciones - - - - - 0,75% " "
+
+de proyecto
+
+7. Demoliciones - - - - - - 0,5% " "
+
+8. Aprobación de planos - - - 2 cuotas
+
+para venta por pisos de ahorro
+
+para
+
+vivienda,
+
+por unidad
+
+a vender.
+
+9. Certificados de - - - - 1 cuota
+
+número, línea, de ahorro
+
+recepción, venta para
+
+por pisos, etc. vivienda.
+
+10. Permiso de - - - - 5% del
+
+instalación de presupuesto
+
+torre de la
+
+soporte de instalación.
+
+antenas
+
+y sistemas
+
+radiantes
+
+de transmisión
+
+de telecomunicaciones
+
+11.- Modificaciones 2,0% del
+
+del deslinde avalúo
+
+fiscal
+
+de la parte
+
+del terreno
+
+que se
+
+modifica.
+
+12.- Archivo de - - - 0,75% del
+
+declaración presupuesto.
+
+jurada.
+
+=======================================================
+
+En caso de modificaciones de proyectos de subdivisión o loteo, el derecho municipal se calculará respecto del área de terreno que se modifica.
+
+Las edificaciones fiscales y de sus organismos descentralizados pagarán igualmente estos derechos municipales.
+
+En virtud de lo dispuesto en este artículo, se entienden derogadas todas las exenciones, totales y parciales, contenidas en leyes generales o especiales, reglamentos, decretos y todo otro texto legal o reglamentario, que digan relación con los derechos municipales por permisos de urbanización o de construcción. Lo anterior se aplicará aun en los casos en que las disposiciones legales o reglamentarias otorguen exenciones reales o personales de toda clase de impuestos, contribuciones o derechos, presentes o futuros, y cualquiera que sea la exigencia especial que la norma legal o reglamentaria que las concedió, haya señalado para su derogación. Exclusivamente se exceptúan de esta disposición las exenciones o franquicias que se conceden subordinadas a reciprocidad, en virtud de normas o principios reconocidos por el derecho internacional.
+
+#### Artículo 131
+
+En los conjuntos habitacionales con unidades repetidas, los derechos municipales se rebajarán de acuerdo a las siguientes normas:
+
+Se considerará como unidad repetida la casa individual aislada o pareada, ya sea de uno o dos pisos, que se repite en el conjunto, y en los edificios en altura con piso tipo repetido la totalidad de un piso que se repite.
+
+=======================================================
+
+N° de unidades Disminución derechos
+
+-------------------------------------------------------
+
+3 a 5 10%
+
+6 a 10 20%
+
+11 a 20 30%
+
+21 a 40 40%
+
+41 o más 50%
+
+=======================================================
+
+#### Artículo 132°
+
+Los derechos, aportes, garantías u otros pagos, que dicen relación con uniones, empalmes, extensiones, refuerzos o dación de servicios sanitarios y de pavimentación, serán establecidos por resolución del respectivo servicio, previa aprobación del Ministerio de la Vivienda y Urbanismo.
+
+#### Artículo 133°
+
+LAs construcciones que se ejecutaren sin el previo permiso de construcción, desde la publicación de la presente ley, pagarán un recargo del 50% del derecho municipal que correspondiere pagar al momento en que el interesado solicitare regularizar su situación.
+
+Si el infractor no regularizare su situación, el Director de Obras formulará, en cualquier tiempo, la correspondiente denuncia ante el Juez de Policía Local, el que, además de la multa por la infracción, condenará también al infractor a pagar el valor de los derechos correspondientes a la edificación que se hubiere levantado sin permiso, recargado en 100%.
+
+El Juez de Policía Local aplicará la sanción en esta parte conforme a la liquidación que practique el Director de Obras Municipales, de acuerdo a los valores establecidos, más el recargo aludido.
+
+Verificado el pago en este último caso, se extenderá un certificado final, trámite con el cual se entenderá regularizada la construcción, sin otros requisitos, siempre que no vulnere las disposiciones del Plan Regulador.
+
+A las ampliaciones de viviendas a que se refiere el inciso primero del artículo 166, que cumplan con los requisitos establecidos en dicha norma, les serán aplicables las disposiciones anteriores. En tales casos, la multa establecida en el inciso segundo del presente artículo podrá condonarse.
+
+### Párrafo 4° — .- De las obligaciones del Urbanizador
+
+#### Artículo 134
+
+Para urbanizar un terreno, el propietario del mismo deberá ejecutar, a su costa, el pavimento de las calles y pasajes, las plantaciones y obras de ornato, las instalaciones sanitarias y energéticas, con sus obras de alimentación y desagües de aguas servidas y de aguas lluvias, y las obras de defensa y de servicio del terreno.
+
+Las plantaciones y obras de ornato deberán ser aprobadas y recibidas por la Dirección de Obras Municipales respectiva.
+
+La Ordenanza General establecerá los estándares mínimos de obras de urbanización exigibles fuera del terreno propio, cuando se trate de proyectos desvinculados de la vialidad existente, para los efectos de su adecuada inserción urbana, o su conectividad cuando se trate de proyectos en el área rural conforme al artículo 55.
+
+Asimismo, la Ordenanza General de Urbanismo y Construcciones establecerá las situaciones que comprenden requisitos y efectos de aquellas urbanizaciones que excedan el porcentaje máximo de cesiones dispuesto en el artículo 70 y de aquellas urbanizaciones que no se encuentren vinculadas directamente a la división del suelo, contenidas en la letra d) del artículo 65.
+
+> **Nota.** NOTA : Ver el artículo 6 de la Ley 19525, publicada en el Diario Oficial de 10.11.1997.
+
+#### Artículo 135
+
+Terminados los trabajos a que se refiere el articulo anterior, o las obras de edificación, en su caso, el propietario y el arquitecto solicitarán su recepción al Director de Obras Municipales. Cuando la Dirección de Obras Municipales acuerde la recepción indicada, se considerarán, por este solo hecho, incorporadas:
+
+a) Al dominio nacional de uso público, todas las calles, avenidas, áreas verdes y espacios públicos en general, contemplados como tales en el proyecto, y
+
+b) Al dominio municipal, los terrenos cedidos de conformidad al artículo 70 de esta ley para localizar equipamientos. Para el solo efecto de mantener la historia de la propiedad raíz, dichos terrenos se inscribirán a nombre del municipio respectivo, en el Registro de Propiedad del Conservador de Bienes Raíces, presentando el certificado de recepción definitiva. La Ordenanza General indicará las menciones que deberá incluir el certificado para poder ser inscrito en el mencionado Registro.
+
+Al mismo procedimiento y efectos se sujetarán las urbanizaciones que excedan el porcentaje máximo de cesiones dispuesto en el artículo 70, así como aquellas contenidas en la letra d) del artículo 65.
+
+#### Artículo 136°
+
+Mientras en una población, apertura de calles, formación de un nuevo barrio, loteo o subdivisión de un predio, no se hubieren ejecutado todos los trabajos de urbanización que exigen los dos artículos precedentes y la Ordenanza General, no será lícito al propietario, loteador o urbanizador de los terrenos correspondientes, enajenarlos, acordar adjudicaciones en lote, celebrar contratos de compraventa, promesas de venta, reservas de sitios, constituir comunidades o sociedades tendientes a la formación de nuevas poblaciones o celebrar cualquier clase de actos o contratos que tengan por finalidad última o inmediata la transferencia del dominio de dichos terrenos.
+
+La venta, promesa de venta o cualquier otro acto o contrato que tengan análoga finalidad sobre un predio no urbanizado, en favor de una comunidad, se presumirá que tiene por objeto la subdivisión del mismo sin la necesaria urbanización.
+
+No obstante, la Dirección de Obras podrá autorizar las ventas y adjudicaciones, extendiendo el correspondiente certificado de urbanización, previo otorgamiento de las garantías que señala el artículo 129°, por el monto total de las obras de urbanización pendientes.
+
+El depósito de estas garantías permitirá a la Dirección de Obras Municipales efectuar la recepción definitiva de los edificios.
+
+No podrá inscribirse en el Conservador de Bienes Raíces ninguna transferencia parcial del dominio o adjudicación de terrenos sin un certificado de la Dirección de Obras, que acredite que la calle o avenida en que se halla situado el predio está debidamente urbanizado o que su urbanización ha sido garantizada en la forma prescrita en el artículo 129°.
+
+#### Artículo 137°
+
+No obstante lo dispuesto en los artículos precedentes, el propietario de los terrenos podrá enajenar parte de ellos en favor de las cooperativas de viviendas, sin cumplir con las exigencias de urbanización necesarias, previa autorización de la Secretaría Regional correspondiente del Ministerio de la Vivienda y Urbanismo, otorgada a la respectiva cooperativa. En tal caso, la cooperativa de vivienda asumirá la responsabilidad de ejecutar las obras de urbanización señaladas en el artículo 134° de esta ley. En el cumplimiento de esta obligación no estará sujeta a los requisitos ni excepciones que se establecen en el artículo 97° del DFL. RRA. N° 20, de 1963.
+
+La cooperativa de vivienda podrá cumplir su obligación de urbanizar en dos etapas. En la primera etapa, ejecutará las redes de agua potable, alcantarillado y electricidad y la pavimentación básica parcial que señale la Ordenanza General. La Dirección de Obras Municipales hará la recepción de estas obras. Cumplido este trámite, la Dirección se recibirá de las viviendas que se construyan o se hayan construido. Esta recepción permitirá a la cooperativa entregar las viviendas para el uso y goce de sus socios.
+
+En la segunda etapa, la cooperativa deberá ejecutar las restantes obras de pavimentación, de acuerdo al proyecto y presupuesto respectivo que se hubiere aprobado inicialmente, calculado en "cuotas de ahorro para la vivienda" a su valor provisional a esa fecha. En relación a dicho presupuesto, la cooperativa hará efectivo un plan de ahorro o de capitalización que le permita reunir los recursos correspondientes para esta etapa.
+
+Mientras no estén ejecutadas y recibidas las obras de pavimentación de esta segunda etapa, la cooperativa no podrá efectuar las transferencias de dominio o adjudicaciones de los respectivos lotes y viviendas a sus socios.
+
+Los notarios no autorizarán las escrituras ni los Conservadores de Bienes Raíces inscribirán las transferencias y adjudicaciones que no cumplan con los requisitos señalados en los incisos precedentes, para cuyo afecto aquéllos deberán exigir el correspondiente certificado del Secretario Regional Ministerial o del Director de Obras Municipales, que se insertará en la escritura respectiva.
+
+#### Artículo 138°
+
+Será sancionado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo el ocupante, poseedor, propietario, loteador o urbanizador que realice cualquiera clase de actos o contratos que tengan por finalidad última o inmediata la transferencia del dominio, tales como ventas, promesas de venta, reservas de sitios, adjudicaciones en lote o constitución de comunidades o sociedades tendientes a la formación de nuevas poblaciones, en contravención a lo dispuesto en el presente párrafo.
+
+#### Artículo 138 bis
+
+Las personas naturales o jurídicas que tengan por giro la actividad inmobiliaria o aquellas que construyan o encarguen construir bienes raíces destinados a viviendas, locales comerciales u oficinas, que no cuenten con recepción definitiva y que celebren contratos de promesa de compraventa en los cuales el promitente comprado entregue todo o parte del precio del bien raíz, deberán otorgarlos mediante instrumentos privados autorizados ante notario y caucionarlos mediante póliza de seguro o boleta bancaria, aceptada por el promitente comprador. Esta garantía, debidamente identificada, se incorporará al contrato a favor del promitente comprador, en un valor igual a la parte del precio del bien raíz entregado por éste y establecido en el contrato de promesa respectivo, para el evento de que éste no se cumpla dentro del plazo o al cumplimiento de la condición establecidos por el promitente vendedor. La garantía permanecerá vigente mientras el inmueble se encuentre sujeto a cualquier gravamen o prohibición emanado directamente de obligaciones pendientes e imputables al promitente vendedor y hasta la inscripción del dominio en el registro de propiedad del respectivo conservador de bienes raíces, a favor del promitente comprador.
+
+Los notarios públicos no autorizarán los contratos de promesa de compraventa a que se refiere el inciso anterior si no se ha constituido la garantía a favor del promitente comprador.
+
+La obligación del promitente vendedor de otorgar la garantía no será exigible respecto de la parte del precio que sea depositada por el promitente comprador en alguno de los siguientes instrumentos, de lo que se dejará constancia en el contrato de promesa:
+
+a) Cuenta de ahorro de la cual no pueda girar fondos el promitente comprador.
+
+b) Depósitos a plazo en favor del promitente vendedor, que deberán mantenerse en custodia del notario autorizante.
+
+En los casos indicados en las letras a) y b) del inciso precedente, los montos anticipados serán puestos a disposición del promitente vendedor una vez que se celebre el contrato de compraventa y se inscriba el inmueble a nombre del promitente comprador en el Conservador de Bienes Raíces respectivo.
+
+Los depósitos a plazo y las cuentas de ahorro a que alude esta norma deberán cumplir con los requisitos generales establecidos por las disposiciones legales, reglamentarias y normativa de la Superintendencia de Bancos e Instituciones Financieras vigentes y, además, con los requisitos específicos que al efecto establezca la Ordenanza General de Urbanismo y Construcciones. En los casos previstos en las letras a) y b) del inciso tercero deberá estipularse un plazo para el cumplimiento de la condición de inscribir el dominio del inmueble a nombre del promitente comprador y si nada se dijere se entenderá que dicho plazo es de 1 año contado desde la fecha de la promesa.
+
+Las disposiciones anteriores se aplicarán a cualquier acto jurídico que implique la entrega de una determinada cantidad de dinero para la adquisición del dominio de una vivienda, local comercial u oficina, que no cuente con recepción definitiva, excepto a aquellos regidos por la Ley General de Cooperativas o la ley Nº 19.281, sobre arrendamiento de viviendas con promesa de compraventa, aun cuando no cuenten con recepción definitiva. En todo caso, las disposiciones contenidas en el presente artículo se aplicarán a las compraventas de viviendas, locales comerciales u oficinas cuando al momento de celebrarse dicho contrato el inmueble se encuentre hipotecado, en cuyo evento la garantía que se otorgue se mantendrá vigente mientras no se proceda al alzamiento de dicha hipoteca, salvo que el acreedor hipotecario concurra a la escritura de compraventa alzando la hipoteca y la prohibición de gravar o enajenar si la hubiere.
+
+#### Artículo 139°
+
+Las Municipalidades, los secretarios o secretarias regionales ministeriales de seguridad pública y los Servicios Regionales o Metropolitano del Sector Vivienda estarán obligados a ejercitar las correspondientes acciones penales cuando tengan conocimiento de la comisión de alguno de los delitos descritos en el artículo anterior.
+
+Dichas autoridades y entidades gozarán del privilegio de pobreza en las querellas y denuncias que presenten para perseguir a los responsables de tales delitos, y estarán exentas de las obligaciones de rendir fianza de calumnia y de ratificar las querellas respectivas ante el Tribunal.
+
+Será competente para conocer de los delitos a que se refiere este artículo el juez del lugar en que estuviere ubicado el inmueble. En el caso de terrenos o poblaciones ubicados dentro del radio jurisdiccional de dos o más juzgados, será competente el juez que primero hubiere comenzado a instruir el proceso.
+
+#### Artículo 140
+
+La Dirección de Obras Municipales podrá, excepcionalmente y sólo en las zonas urbanas, autorizar la subdivisión y enajenación de terrenos en lotes de dos hectáreas cada uno, a lo menos, frente a calles existentes, sin cumplir con las exigencias de urbanización establecidas en este párrafo, siempre que el propietario ceda gratuitamente los espacios de uso público contemplados en los Planes Reguladores o Planes Seccionales y sus Ordenanzas. Será necesario, sin embargo, que el adquirente del respectivo lote rinda garantía de urbanización por la parte del lote que adquiere, en la forma prevista en el artículo 129.
+
+En el plano de subdivisión que se aprobare, se dejará expresa constancia de que cada lote resultante sólo podrá enajenarse a una persona, natural o jurídica.
+
+El Conservador de Bienes Raíces respectivo no inscribirá los títulos que no cumplan con las exigencias precedentes, en estos casos.
+
+En el evento de que, en cualquiera de dichos lotes, se efectuare posteriormente algunos de los actos señalados en el artículo 136, habiendo caducado las garantías correspondientes o sin cumplir con los requisitos que prescribe este párrafo, el propietario del respectivo lote, o su representante legal si fuere una persona jurídica, será sancionado con las penas que establece el artículo 139.
+
+> **Nota.** NOTA: 2 Ver alcance de la Contraloría General de la República, al final de este texto.
+
+#### Artículo 141
+
+DEROGADO.-
+
+### Párrafo 5° — .- De las Inspecciones y Recepciones de Obras
+
+#### Artículo 142
+
+Corresponderá a la Dirección de Obras Municipales fiscalizar las obras de edificación y de urbanización que se ejecuten dentro de la comuna, como asimismo el destino que se dé a los edificios.
+
+Los funcionarios municipales tendrán libre acceso a todas las obras de edificación y urbanización que se ejecuten en la comuna, para ejercer las inspecciones que sean necesarias.
+
+Los revisores independientes a que se refiere el artículo 116 bis tendrán libre acceso, durante su ejecución, a las obras de construcción que les corresponda informar; igualmente, los Cuerpos de Bomberos podrán inspeccionar dichas obras a objeto de verificar las condiciones generales de seguridad, las de seguridad contra incendio establecidas en la normativa vigente y el funcionamiento de las instalaciones de emergencia de los edificios, debiendo dejar constancia de sus observaciones en el Libro de Obras a que se refiere el inciso final del artículo 143.
+
+Los Cuerpos de Bomberos, después de recibidas las obras, estarán facultados para inspeccionar las condiciones generales de seguridad, las de seguridad contra incendio y el funcionamiento de las instalaciones de emergencia de los edificios. Si se constatare que no se cumplen las condiciones de seguridad previstas en el plan de emergencia, el Comandante del Cuerpo de Bomberos respectivo dará cuenta por escrito del resultado de la inspección al Director de Obras Municipales, a fin de que se adopten las medidas establecidas en el artículo 20 de esta ley.
+
+Asimismo, después de recepcionadas las obras, las Direcciones de Obras Municipales podrán fiscalizar el cumplimiento de las normas sobre seguridad y conservación de las edificaciones.
+
+> **Nota.** El Art. Transitorio de la LEY 19472, publicada el 16.09.1996, dispuso su vigencia noventa días después de su publicación.
+
+#### Artículo 143
+
+Durante la ejecución de una obra, el constructor a cargo de ella deberá velar por que en la construcción se adopten medidas de gestión y control de calidad para que ésta se ejecute conforme a las normas técnicas obligatorias, la Ley General de Urbanismo y Construcciones y su Ordenanza General, así como a la demás normativa aplicable a la materia, y se ajuste a los planos y especificaciones del respectivo proyecto.
+
+Los contenidos de las medidas de gestión y control de calidad deberán ser establecidos en la Ordenanza General de Urbanismo y Construcciones, debiendo en todo caso referirse como mínimo a los siguientes aspectos: medidas técnicas y de seguridad que se deberán adoptar para la correcta ejecución de las obras de construcción, demolición y excavaciones; los ensayes y certificaciones obligatorios que deberán adoptarse durante el transcurso de la ejecución de las obras, así como las autorizaciones especiales que deberán requerirse para ciertas faenas, cuando la normativa lo establezca; medidas que deberán adoptarse para mitigar el ruido y emisiones de polvo; indicación de los lugares aptos para depositar materiales y elementos de trabajo; aseo de la obra y del espacio público; y programa de trabajo y horarios de ejecución de las obras.
+
+Dichas medidas de gestión y control de calidad deberán ser establecidas y registradas en un documento que se deberá mantener en el lugar de la obra, durante todo el tiempo de ejecución de ésta, a disposición de los profesionales competentes, del inspector técnico de obra (ITO) y de los inspectores de la Dirección de Obras Municipales. Terminada la obra, el constructor a cargo deberá presentar una declaración jurada afirmando que las medidas de gestión y de control de calidad fueron aplicadas.
+
+Tratándose de edificios de uso público y demás casos que señale la Ordenanza General, será obligatorio que la obra cuente con un inspector técnico de obra (ITO), independiente del constructor, con inscripción en un Registro que para estos efectos mantendrá el Ministerio de la Vivienda y Urbanismo. El Ministerio podrá encomendar dicho Registro a la entidad denominada "Instituto de la Construcción", cuya personalidad jurídica fue concedida por decreto supremo Nº 1.115, de 1996, del Ministerio de Justicia. Cuando se trate de obras de organismos o instituciones públicas cuya normativa sectorial contemple mecanismos de supervisión, inspección o fiscalización de obras, la inspección técnica de obra podrá ser desempeñada por profesionales propios, sin necesidad de estar inscritos en el registro aludido. Lo anterior, no los exime de la obligación de acreditar el título profesional de arquitecto, ingeniero civil, ingeniero constructor o constructor civil; de contar con la experiencia mínima exigida de conformidad con la ley N° 20.703, y de no estar sujetos a las inhabilidades e incompatibilidades que define la misma ley, con excepción de lo dispuesto en el numeral 4) del artículo 5° contenido en su artículo primero. Sin perjuicio de ello, dichos organismos podrán optar por la contratación de un inspector técnico de obra cuando así lo consideren pertinente.
+
+El inspector técnico de obra (ITO) estará encargado de supervisar que la obra se ejecute conforme a las normas de construcción aplicables a la ejecución de la obra, al permiso de construcción aprobado y sus modificaciones. Durante la ejecución de la obra será responsable que ésta cumpla con el proyecto de arquitectura; el proyecto de cálculo estructural; y los proyectos de especialidades; incluidos los planos y especificaciones técnicas correspondientes, debiendo para ello, registrar en el Libro de Obras la supervisión de las obras y las respectivas especificaciones técnicas. Asimismo, el inspector técnico de obra deberá supervisar oportunamente el cumplimiento de las medidas de gestión y de control de la calidad. Para cumplir su labor, el inspector técnico de obra estará facultado para requerir tomas de muestras y demoliciones parciales.
+
+El inspector técnico de obra (ITO) que incumpla sus funciones de supervisión, será subsidiariamente responsable con el constructor, por los daños o perjuicios producidos por fallas o defectos en la construcción derivados del incumplimiento de tales funciones.
+
+Se deberá mantener en el lugar de la obra, en forma permanente y actualizada, un Libro de Obras, en el cual se consignarán, debidamente firmadas, las instrucciones y observaciones sobre el desarrollo de la construcción, por parte del profesional que realizó el proyecto de arquitectura y el proyecto de cálculo estructural, así como del constructor y el profesional mencionado en el inciso anterior, sin perjuicio de las observaciones que registren los inspectores municipales cuando lo requieran.
+
+#### Artículo 144
+
+Terminada una obra o parte de la misma que pueda habilitarse independientemente, el propietario y el arquitecto solicitarán su recepción definitiva por la Dirección de Obras Municipales. Sin perjuicio de las recepciones definitivas parciales, habrá, en todo caso, una recepción definitiva del total de las obras.
+
+A la solicitud de recepción deberá adjuntarse un informe del arquitecto, y del revisor independiente cuando lo hubiere, en que se certifique que las obras se han ejecutado de acuerdo al permiso aprobado, incluidas sus modificaciones, conforme a lo indicado en el inciso segundo del artículo 119 de esta ley. En caso que la construcción hubiere contado con un inspector técnico de obra (ITO) también deberá acompañarse un informe de dicho profesional, que señale que la obra fue construida conforme a las normas técnicas de construcción aplicables a la ejecución de la obra y al permiso de construcción aprobado, incluidas sus modificaciones.
+
+Conjuntamente con la solicitud de recepción de las edificaciones cuya carga de ocupación sea igual o superior a 100 personas, destinadas a edificaciones colectivas, equipamientos y actividades productivas, se deberá adjuntar copia del plan de emergencia ingresado al Cuerpo de Bomberos respectivo. Dicho plan incluirá las condiciones generales de seguridad, de seguridad contra incendio y de funcionamiento de las instalaciones de emergencia de los edificios en lo relativo a la señalización implementada para las vías de evacuación, así como un plano que incluya dichas vías, la indicación de los grifos, red seca, red inerte, red húmeda, accesos, sistemas de alumbrado, calefacción, los artefactos a gas contemplados y sus requerimientos de ventilación, y otros antecedentes que sea útil conocer en caso de emergencia.
+
+El Director de Obras Municipales deberá revisar únicamente el cumplimiento de las normas urbanísticas aplicables a la obra, conforme al permiso otorgado, y procederá, en el plazo de treinta días, a efectuar la recepción, si fuere procedente, o a poner en conocimiento del solicitante la totalidad de las observaciones que estime deben ser aclaradas o subsanadas para otorgar la recepción, e indicará con claridad la o las normas supuestamente no cumplidas. Dichas observaciones deberán contenerse en un solo acto, salvo las excepciones que disponga la Ordenanza General. Si las observaciones no son aclaradas o subsanadas en el plazo de sesenta días, contado desde la notificación del acto, el Director de Obras deberá rechazar la solicitud de recepción definitiva y devolver todos los antecedentes al solicitante, debidamente timbrados.
+
+Lo dispuesto en los artículos 12 y 118 bis será aplicable al caso de las resoluciones que resuelvan las solicitudes de recepciones definitivas parciales o totales.
+
+> **Nota.** El Artículo Transitorio de la LEY 20016, publicada el 27.05.2005, dispone que las modificaciones introducidas a la presente norma, entrarán en vigencia noventa días después de su publicación en el Diario Oficial y que estas modificaciones sólo se aplicarán a los permisos y autorizaciones que ingresen a tramitación con posterioridad a su entrada en vigencia.
+
+#### Artículo 144 bis
+
+Una vez finalizadas las obras a las que se refiere el artículo 119 bis, el propietario deberá presentar ante la Dirección de Obras Municipales respectiva una declaración jurada de término de ejecución. Ésta deberá ser suscrita por el arquitecto que presentó la declaración jurada de inicio de obras archivada, quien certificará que el proyecto se ejecutó conforme a aquélla y en cumplimiento de la normativa aplicable. Para ello, se deberá observar el mismo procedimiento descrito en el artículo 119 bis.
+
+Conjuntamente con la declaración jurada, el propietario deberá presentar una nómina que contenga la individualización del arquitecto que realizó el proyecto de arquitectura y de todos los profesionales a quienes pueda asistir responsabilidad de acuerdo a esta ley. Además, en los casos que corresponda, se deberá acreditar la ejecución de las medidas contenidas en la resolución que apruebe el informe de mitigación.
+
+La Ordenanza General establecerá el contenido de la declaración jurada a la que se refiere el presente artículo, además de la definición de los demás profesionales que deberán suscribir la declaración en consideración a las características de edificación.
+
+Acompañados los antecedentes a que se refieren los incisos anteriores, la Dirección de Obras Municipales archivará la declaración jurada en un registro especial para estos fines y emitirá un comprobante de archivo timbrado y fechado. El archivo de la declaración jurada y de los antecedentes respectivos no devengará derechos municipales.
+
+Para efectos de las responsabilidades a las que alude el artículo 18, el archivo de la declaración jurada a que se refiere el presente artículo se considerará como recepción definitiva de la obra.
+
+#### Artículo 145
+
+Ninguna obra podrá ser habitada o destinada a uso alguno antes de su recepción definitiva, parcial o total, o del archivo de la declaración jurada a que se refiere el artículo 144 bis.
+
+Los inmuebles construidos o que se construyan para viviendas de conformidad con un permiso municipal u otra técnica que habilite su ejecución no podrán ser destinados a otros fines, a menos que la municipalidad respectiva autorice el cambio de destino y el propietario obtenga la aprobación de los planos y pague el valor de los permisos correspondientes, cuando procediere.
+
+No se considerará alteración del destino de un inmueble la instalación en él de pequeños comercios o industrias artesanales, o el ejercicio de una actividad profesional, si su principal destinación subsiste como habitacional.
+
+Sin perjuicio de las multas que se contemplan en el artículo 20°, la infracción a lo dispuesto en el inciso primero de este artículo podrá sancionarse, además, con la inhabilidad de la obra, hasta que se obtenga su recepción, y el desalojo de los ocupantes, con el auxilio de la fuerza pública, que decretará el Alcalde, a petición del Director de obras Municipales.
+
+#### Artículo 145 bis
+
+Tratándose de las obras a que se refieren los incisos cuarto y quinto del artículo 116, previo a la recepción de las obras por parte del Servicio respectivo, éste deberá informar a la Dirección de Obras Municipales sobre la forma en que se ha dado cumplimiento a las obligaciones del artículo 70 y, en los casos que corresponda, a las mitigaciones directas reguladas en el capítulo II del título V.
+
+### Párrafo 6° — .- De la Paralización de Obras
+
+#### Artículo 146°
+
+El Director de Obras Municipales, mediante resolución fundada, podrá ordenar la paralización de cualquier obra en los casos en que hubiere lugar a ello.
+
+El Director ordenará la paralización inmediata de las obras cuando compruebe que una obra se estuviere ejecutando sin el permiso o declaración correspondiente; en disconformidad con aquellos o con la normativa aplicable; sin haber ingresado la resolución que aprueba el informe de mitigación, de ser procedente; en ausencia de supervisión técnica; o cuando aquellas impliquenun riesgo no cubierto, sin perjuicio de las sanciones que correspondan. A su vez, dicha autoridad fijará un plazo prudencial para que se proceda a subsanar las observaciones formuladas.
+
+Lo mismo podrá ordenarse tratándose de obras de infraestructura de transporte, sanitaria y energética que ejecute el Estado sin el informe favorable que exige el inciso final del artículo 55, sin perjuicio de las responsabilidades administrativas de los infractores de esta norma.
+
+#### Artículo 147°
+
+El incumplimiento de lo resuelto por el Director de Obras será sancionado en la forma establecida por los artículos 20° y 21°, en cuyo caso el juez deberá, además, fijar un último plazo para regularizar la infracción, vencido el cual ordenará la clausura de la obra.
+
+La clausura sólo podrá ser alzada para dar lugar al cumplimiento de las observaciones formuladas, subsanadas las cuales podrá continuarse la ejecución de la obra.
+
+### Párrafo 7° — .- De las Demoliciones
+
+#### Artículo 148°
+
+El Alcalde, a petición del Director de Obras, podrá ordenar la demolición, total o parcial, a costa del propietario, de cualquiera obra en los siguientes casos:
+
+1.- Obras que se ejecuten en disconformidad con las disposiciones de la presente ley, su Ordenanza General u Ordenanza Local Respectiva.
+
+2.- Obras que se ejecuten fuera de la línea de cierro o en bienes de uso público, sin la autorización correspondiente.
+
+3.- Obras que no ofrezcan las debidas garantías de salubridad y seguridad, o que amenacen ruina.
+
+4.- Obras ejecutadas de conformidad a las autorizaciones señaladas en los artículos 121°, 122° y 123°, que no se hubieren demolido al vencimiento de los plazos estipulados.
+
+#### Artículo 149°
+
+Cualquiera persona podrá denunciar a la Municipalidad las obras que amenacen ruina o que, por el mal estado de ciertas partes de ella, pudieren originar la caída de materiales o elementos de la construcción, sin perjuicio de la obligación de la Dirección de Obra Municipales de solicitar del Alcalde que ordene la demolición del todo o parte de dichas obras.
+
+#### Artículo 150°
+
+Recibida la denuncia, el Director de Obras Municipales hará practicar un reconocimiento de la obra y propondrá a la Alcaldía las medidas que estime procedentes.
+
+La Alcaldía, con el informe de la Dirección de Obras Municipales, fijará al propietario un plazo prudencial para la demolición de ésta o de la parte de la misma que amenazare derrumbarse.
+
+#### Artículo 151°
+
+La resolución que expida la Alcaldía, en conformidad con el artículo anterior, será notificada al propietario, y si este no fuere habido ni tuviere representante legal o mandatario conocido, la notificación se hará por medio de avisos, que se publicarán tres veces en un periódico de la ciudad cabecera de la provincia. En el caso de los edificios, se notificará además a los arrendatarios u ocupantes del mismo, si los hubiere.
+
+#### Artículo 152°
+
+Dentro del plazo fijado por la Alcaldía para la ejecución de la demolición contado desde la fecha de la notificación o de la publicación del último aviso, el propietario de la obra podrá pedir reposición de la resolución respectiva y que se proceda, a su costa, a una nueva revisión de la obra por el Director de Obras Municipales, asesorado del ingeniero o arquitecto que designe el propietario.
+
+#### Artículo 153°
+
+Transcurrido el plazo a que se refiere el artículo 150° o desechada la solicitud de reposición en el caso del artículo precedente la Alcaldía dispondrá que se proceda sin más trámite, a la demolición de la obra ruinosa o de la parte de la misma que corresponda, por cuenta del propietario y con el auxilio de la fuerza pública, previo desalojo de los ocupantes del inmueble.
+
+#### Artículo 154°
+
+Decretada una demolición y notificación al propietario del inmueble la resolución respectiva en la forma prescrita por el artículo 151° aquél podrá reclamar de ella ante la justicia ordinaria, dentro del plazo de 10 días hábiles, a contar de la fecha de su notificación, sin perjuicio de la reposición a que alude el artículo 152°, la que podrá siempre deducirse.
+
+Si dentro del plazo que se hubiere fijado para la demolición el Alcalde no recibiere orden de no innovar, decretada por el juez competente, aquél procederá sin más trámite a la demolición ordenada, previo desalojo de los ocupantes que hubiere. En caso contrario, suspenderá la ejecución de la resolución respectiva hasta el pronunciamiento definitivo de la justicia.
+
+Lo dispuesto en el inciso precedente es sin perjuicio de la facultad que confiere a los Alcaldes el artículo 156° de esta ley.
+
+#### Artículo 155°
+
+Las reclamaciones se deducirán ante el Juzgado de Letras de turno de Mayor Cuantía en Lo Civil del departamento en que estuviere situado el inmueble y la substanciación de ellas se someterá a los trámites del juicio sumario.
+
+#### Artículo 156°
+
+Cuando el peligro de derrumbe de una obra o de parte de ella fuere inminente, la Alcaldía podrá adoptar de inmediato todas las medidas necesarias para eliminar el peligro, incluso la de demoler sin más trámite total o parcialmente la obra, todo por cuenta del propietario del inmueble.
+
+En este caso, deberán hacerse constar en un acta los trabajos que se ejecuten, los gastos que éstos originen y los demás antecedentes e informaciones que procedan. Esta acta será firmada por el Director de Obras Municipales, el Jefe de Carabineros del Sector y un actuario o ministro de fe, que designará el Alcalde.
+
+#### Artículo 157°
+
+El Secretario Regional de Vivienda y Urbanismo podrá, fundadamente y con auxilio de la fuerza pública, si fuere necesario, ordenar la paralización y, por resolución fundada, la demolición total o parcial de las obras que se ejecuten en contravención a los planes reguladores o sin haber obtenido el correspondiente permiso municipal, con el solo informe del Director de Obras Municipales respectivo, quien deberá emitirlo dentro del plazo máximo de 15 días.
+
+La resolución que ordene la demolición deberá notificarse por un ministro de fe en la forma establecida en el artículo 151° y en su contra sólo procederá la reclamación ante la justicia ordinaria dentro del plazo de 10 días hábiles, a contar desde la fecha de notificación.
+
+Transcurridos 10 días hábiles desde el vencimiento del plazo indicado en el inciso anterior, sin que haya sido notificado el reclamo, el Servicio Regional respectivo del Ministerio de la Vivienda y Urbanismo procederá, sin más trámite, a la demolición.
+
+La reclamación se someterá a los trámites indicados en el artículo 155°.
+
+Los gastos que irrogue la aplicación de este artículo serán de cargo a los fondos consultados en el presupuesto del Servicio Regional respectivo.
+
+### Párrafo 8° — .- De la seguridad, conservación y reparación de edificios
+
+#### Artículo 158°
+
+La Dirección de Obras Municipales podrá exigir la terminación de las obras de edificación de un inmueble, que hubieren sido paralizadas, siempre que por su falta de terminación presentaren mal aspecto, o implicaren riesgo de daño a terceros.
+
+Del mismo modo, podrá la Dirección de Obras exigir fundadamente que sean reparados los edificios que presenten daños que comprometan su estabilidad, o bien que, por su vetustez o mal estado de conservación, hicieren desmerecer el aspecto general de la vía o espacio público que enfrentan, o implicaren riesgo de daño a terceros.
+
+#### Artículo 159°
+
+Los propietarios de los establecimientos industriales, comerciales o de edificios de cualquiera índole que no ofrecieren las debidas garantías de salubridad, higiene o seguridad estarán obligados a efectuar en dichos establecimientos o edificios, dentro del plazo que señale la Municipalidad, todas aquellas mejoras o reparaciones que determine la Dirección de Obras Municipales, de acuerdo con la Ordenanza General o Local.
+
+#### Artículo 159 bis
+
+Los ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, que se emplacen en edificios privados o públicos, deberán ser instalados y mantenidos conforme a las especificaciones técnicas de sus fabricantes y a las disposiciones que al efecto determine la Ordenanza General de Urbanismo y Construcciones.
+
+Serán responsables de la mantención los propietarios, quienes deberán celebrar los contratos correspondientes.
+
+La instalación y mantención de los ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, deberán ser ejecutadas por instaladores y mantenedores que cuenten con una inscripción vigente en un registro que al efecto llevará el Ministerio de Vivienda y Urbanismo. El Ministerio podrá encomendar dicho registro a la entidad denominada "Instituto de la Construcción", cuya personalidad jurídica fuera concedida por decreto supremo N°1.115, de 1996, del Ministerio de Justicia o a otras entidades públicas o privadas, habilitadas para dicho efecto.
+
+Asimismo, los propietarios deberán acreditar, mediante un certificado emitido por una entidad de certificación inscrita en la categoría correspondiente del registro a que se refiere el inciso anterior, que los ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, han sido adecuadamente mantenidos y se encuentran en condiciones de seguir funcionando. Los plazos y condiciones de la certificación y el contenido del certificado, serán establecidos en la Ordenanza General de Urbanismo y Construcciones en función de la capacidad de transporte de la instalación y el destino de las edificaciones.
+
+En la instalación, mantención y certificación, deberá darse cumplimiento a las Normas Técnicas Chilenas vigentes sobre la materia. Dichas normas deberán actualizarse permanentemente.
+
+Las certificaciones a que se refiere el inciso precedente deberán ser colocadas en un lugar visible del ascensor, tanto vertical como inclinado o funicular, e ingresadas y registradas, en la oportunidad que establezca la Ordenanza General de Urbanismo y Construcciones, a la Dirección de Obras Municipales respectiva. El no ingreso oportuno deberá ser puesto en conocimiento del Juzgado de Policía Local, por la Dirección de Obras Municipales.
+
+En caso de incumplimiento de las obligaciones derivadas del presente artículo se aplicará lo previsto en los artículos 20 y 21 de la presente ley. Para estos efectos, la multa será de hasta 150 unidades de fomento en contra del propietario.
+
+#### Artículo 160°
+
+En el caso de establecimientos industriales o locales de almacenamiento, expuestos a peligro de explosión o de incendio, y los que produjeren emanaciones dañinas o desagradables, ruidos, trepidaciones u otras molestias al vencindario, la Municipalidad fijará, previo informe de la Secretaría Regional correspondiente del Ministerio de la Vivienda y Urbanismo y del Servicio Nacional de Salud, el plazo dentro del cual deberán retirarse del sector en que estuvieren establecidos. Dicho plazo no podrá ser inferior a un año, contado desde la fecha de la notificación de la resolución respectiva.
+
+#### Artículo 161°
+
+La Alcaldía podrá clausurar los establecimientos o locales comerciales o industriales que contravinieren las disposiciones de la presente ley, de la Ordenanza General y de las Ordenanzas Locales.
+
+#### Artículo 161 bis
+
+Previo informe fundado de la Dirección de Obras, la Municipalidad podrá decretar la inhabitabilidad parcial o total de los edificios que presenten daños que comprometan su estabilidad, ordenando el desalojo correspondiente.
+
+Decretada la inhabitabilidad, la parte de ésta declarada inhabitable no podrá ser utilizada hasta contar con la recepción de las obras de reparación por la Dirección de Obras Municipales.
+
+## Título IV
+
+De las Viviendas Económicas
+
+#### Artículo 162°
+
+Son "viviendas económicas" las que tienen una superficie edificada no superior a 140 metros cuadrados por unidad de vivienda y reúnen los requisitos, características y condiciones que se determinan en el decreto con fuerza de ley 2, de 1959, en la presente ley y en el Reglamento Especial de Viviendas Económicas.
+
+Las viviendas económicas gozarán del régimen de beneficios, franquicias y exenciones del decreto con fuerza de ley 2, de 1959.
+
+Las viviendas ya construidas por las ex Corporaciones de la Vivienda, de Servicios Habitacionales y de Mejoramiento Urbano y las que en el futuro construyan los Servicios de Vivienda y Urbanización se considerarán viviendas económicas para todos los efectos legales, siempre que no excedan la superficie máxima permitida.
+
+Los edificios ya construídos, que al ser alterados o reparados se transformen en viviendas de una superficie edificada no superior a 140 metros cuadrados por unidad de vivienda, podrán acogerse a los beneficios, franquicias y exenciones de las viviendas económicas y se considerarán como tales para todos los efectos legales, siempre que reúnan las características, requisitos y condiciones que se determinan en este Título, en el decreto con fuerza de ley N° 2, de 1959, en el Reglamento Especial de Viviendas Económicas y en los casos que corresponda, además, cumplan los requisitos de la ley N° 6.071 y su Ordenanza.
+
+En las viviendas económicas podrá también instalarse un pequeño comercio, sin perder las franquicias otorgadas por el decreto con fuerza de ley N° 2, de 1959, del Ministerio de Hacienda, cuyo texto definitivo fue fijado por el decreto supremo N° 1.101, de 1960, del Ministerio de Obras Públicas, siempre que su principal destino subsista como habitacional. Con todo, no podrán acogerse a la disposición anterior los comercios que tengan por objeto el expendio y/o venta de bebidas alcohólicas, el establecimiento de juegos electrónicos, salones de pool, juegos de azar, la exhibición de videos u otros que provoquen ruidos u olores molestos y demás cuyo giro esté prohibido por ordenanzas locales o municipales. Las ordenanzas locales o municipales no podrán limitar la presencia de jardines infantiles, establecimientos de larga estadía y centros diurnos de adulto mayor.
+
+En las viviendas económicas podrá consultarse el funcionamiento de pequeños talleres artesanales o el ejercicio de una actividad profesional, si su principal destino subsiste como habitacional.
+
+Sólo podrá autorizarse el cambio de destinación respecto de viviendas que, por su construcción, alteración o reparación, hayan gozado, gocen o sigan gozando de cualquier franquicia o exención tributaria o de otra naturaleza, sea en forma directa o indirecta, cuando hayan transcurrido a lo menos cinco años desde la fecha del certificado de recepción definitiva.
+
+El cambio de destinación en estos casos hará caducar de pleno derecho las franquicias, beneficios o exenciones que se encuentren subsistentes.
+
+Sin perjuicio de lo señalado en los incisos anteriores, en las viviendas económicas podrá también instalarse un jardín infantil, sin necesidad de cambio de destino y sin perder las franquicias otorgadas por el decreto con fuerza de ley Nº 2, del Ministerio de Hacienda, de 1959. El uso de una vivienda económica como jardín infantil será incompatible con cualquier otro uso, sea éste habitacional, de pequeño comercio o para taller.
+
+#### Artículo 163°
+
+La vivienda econonómica podrá emplazarse en cualquier zona habitacional del área urbana. También podrá emplazarse en sectores rurales, siempre que ellas se destinen a habitaciones que complementen actividades agrícolas, industriales, mineras o pesqueras, en cuyo caso se requerirá la autorización previa de la Secretaría Regional correspondiente del Ministerio de la Vivienda y Urbanismo.
+
+Los propietarios de predios agrícolas requerirán solamente del respectivo permiso municipal para la construcción de su propia vivienda económica.
+
+#### Artículo 164°
+
+Las subdivisiones y la urbanizaciones destinadas a viviendas económicas, y las obras de construcción necesarias para su ejecución, se regirán por las disposiciones de la presente Ley y su Ordenanza General.
+
+#### Artículo 165°
+
+Los grupos de Viviendas Económicas podrán tener locales destinados a comercio y profesionales, estacionamientos y bodegas, servicios públicos o de beneficio común, siempre que no excedan los siguientes porcentajes:
+
+a) 20% del total de la superficie construida en los conjuntos habitacionales de viviendas con terreno propio de uno o dos pisos, o conjuntos mixtos con viviendas en altura;
+
+b) 30% del total de la superficie edificada en los conjuntos habitacionales formados exclusivamente por edificios de departamentos de 3 o más pisos.
+
+La limitación de los porcentajes antes señalados no regirá en las zonas en que el Plan Regulador admite los destinos a que se refiere este artículo.
+
+La falta de concordancia entre los destinos admitidos en el inciso primero y los permitidos por el plan regulador no será causal para la denegación o caducidad de las patentes municipales requeridas para el funcionamiento de tales destinos. No podrán acogerse a esta disposición los comercios que tengan por objeto el expendio y/o venta de bebidas alcohólicas, el establecimiento de juegos electrónicos, salones de pool, juegos de azar, la exhibición de videos u otros que provoquen ruidos molestos.
+
+#### Artículo 166
+
+A los permisos para ampliaciones de viviendas sociales, viviendas progresivas e infraestructuras sanitarias, y a las ampliaciones de viviendas cuyo valor de tasación de la construcción no sea superior a 520 unidades de fomento, calculado conforme a la tabla de costos unitarios por metro cuadrado de construcción del Ministerio de Vivienda y Urbanismo, emplazadas en áreas urbanas o rurales, sólo les serán aplicables las disposiciones que se indican a continuación:
+
+a) Las disposiciones de los planes reguladores referidas a áreas de riesgo o protección, declaraciones de utilidad pública y uso de suelo.
+
+b) Las normas que establezca la Ordenanza General de Urbanismo y Construcciones para garantizar la habitabilidad, seguridad y estabilidad de las viviendas ampliadas, y las normas vigentes aplicables a las instalaciones interiores de electricidad, agua potable, alcantarillado y gas, que correspondan.
+
+El cumplimiento de dichas disposiciones y normas será certificado por el profesional competente que suscriba la solicitud del permiso de edificación y de recepción de obras.
+
+Las disposiciones de este artículo también serán aplicables a las edificaciones construidas con anterioridad al 31 de julio de 1959.
+
+Los permisos de edificación y la recepción definitiva de las obras a que se refiere este artículo se tramitarán conforme al procedimiento simplificado que para estos efectos establecerá la Ordenanza General.
+
+Los derechos municipales serán los que se establecen en el artículo 130, rebajados en el 50%.
+
+#### Artículo 167°
+
+Corresponderá al Servicio de Impuestos Internos supervigilar que las Viviendas Económicas mantengan los requisitos, características y condiciones en que fueron aprobadas. Dicho Servicio podrá, mediante resolución, dejar sin efecto los beneficios, franquicias y exenciones de aquellas viviendas en que se comprobare la existencia de alguna infracción, situación prevista en el artículo 5° del DFL. N° 2, de 1959, y declarará caducados los mismos beneficios, franquicias y exenciones en los casos previstos, a su vez, en el artículo 18° del mismo decreto con fuerza de ley, sin perjuicio de la multa que corresponda aplicar.
+
+De la resolución de Impuestos Internos que aplique las referidas sanciones, el afectado podrá apelar ante la Secretaría Regional correspondiente del Ministerio de la Vivienda y Urbanismo, dentro del plazo de 30 días, contados desde su notificación, la que resolverá en definitiva.
+
+## Título V
+
+De las mitigaciones y aportes al espacio público
+
+## Capítulo I
+
+Principios aplicables a las mitigaciones y aportes
+
+#### Artículo 168
+
+Serán aplicables a este Título los siguientes principios:
+
+a) Universalidad: todos los proyectos inmobiliarios públicos y privados deberán mitigar y/o aportar conforme a las reglas del presente Título.
+
+b) Proporcionalidad: las mitigaciones deberán ser equivalentes a las externalidades efectivamente generadas por el proyecto, y no se harán cargo de los déficits históricos de infraestructura. Los aportes se ajustarán a la densidad y al destino del proyecto.
+
+c) Predictibilidad: las mitigaciones y aportes se calcularán según métodos objetivos y en base a procedimientos y plazos predefinidos y estandarizados. La Administración velará porque puedan conocerse en forma oportuna las obras y aportes que se exigirán.
+
+#### Artículo 169
+
+Para los efectos de este Título se entenderá por crecimiento urbano por extensión el proceso que incorpora nuevo suelo urbanizado a consecuencia de un loteo; y por crecimiento urbano por densificación, el proceso que incrementa la intensidad de ocupación del suelo, sea como consecuencia del aumento de sus habitantes, ocupantes o edificación.
+
+Lo anterior se aplicará a los proyectos ubicados dentro de los límites urbanos y a los situados fuera de ellos y autorizados conforme lo dispuesto en esta ley.
+
+## Capítulo II
+
+De las mitigaciones directas
+
+#### Artículo 170
+
+Los proyectos que conlleven crecimiento urbano por extensión o por densificación y ocasionen impactos relevantes sobre la movilidad local deberán ser mitigados a través de la ejecución de medidas relacionadas con la gestión e infraestructura del transporte público y privado y los modos no motorizados, y sus servicios conexos, en el entendido que esto incluye soluciones como las siguientes: pistas exclusivas para buses, terminales, paraderos, semaforización, señalización, habilitación de ciclovías y mejoramientos o adecuaciones a la vialidad.
+
+Estas medidas de mitigación considerarán los impactos del proyecto sobre el sistema de movilidad local, dentro de su área de influencia, y propenderán a que, tras su puesta en operación, aquél mantenga sus estándares de servicio en un nivel semejante al existente, considerando las características de la zona en que se emplaza y resguardando la circulación segura de peatones y medios de transporte, las condiciones de accesibilidad del proyecto, su interacción con el sistema de movilidad y su inserción armónica con el entorno urbano.
+
+El área de influencia se definirá a partir de la dispersión de los flujos vehiculares o peatonales inducidos por el proyecto en la vialidad circundante, considerada desde los accesos y, como máximo, hasta la octava intersección. Para este efecto, se considerarán todas las intersecciones, salvo aquellas que incluyan calles sin salida, pasajes o calles peatonales. Excepcionalmente, el área podrá extenderse hasta la duodécima intersección tratándose de dos o más proyectos cercanos en su localización que presenten, en forma conjunta, un informe de mitigación de impacto vial (en adelante "informe de mitigación"), o de proyectos individuales que induzcan mil o más viajes en transporte privado o tres mil o más viajes totales por hora, al menos en un período del día.
+
+En el caso de los proyectos de loteos, se considerará un área de influencia comprendida desde los accesos y, como máximo, hasta la vigésima intersección en que se realiza una dispersión del flujo vehicular o peatonal, conforme lo establezca el reglamento a que se refiere el inciso segundo del artículo 171. Para este efecto, se considerarán todas las intersecciones, salvo aquellas que incluyan calles sin salida, pasajes o calles peatonales.
+
+Los flujos vehiculares y peatonales inducidos por el proyecto corresponderán al total de viajes en transporte privado y público, como también en modos no motorizados, como bicicleta y caminata, todos ellos obtenidos a partir de las tasas de generación o atracción de viajes que mejor reflejen la actividad, ubicación, período de mayor intensidad y temporalidad del proyecto, para lo cual el reglamento especificará los parámetros y mantendrá actualizado sus valores de acuerdo a lo que determine el Ministerio de Transportes y Telecomunicaciones.
+
+La estimación de los flujos vehiculares y peatonales inducidos por el proyecto, en los términos indicados anteriormente, será implementada en un sistema electrónico que establecerán para este efecto los ministerios de Vivienda y Urbanismo y de Transportes y Telecomunicaciones.
+
+#### Artículo 171
+
+Todos los proyectos que generen crecimiento urbano por extensión o por densificación deberán registrar la información que el reglamento determine en el sistema electrónico especificado en el artículo 170. A través de este sistema, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones indicará si el titular debe elaborar un informe de mitigación. En caso afirmativo, éste se presentará y tramitará, a través del mismo sistema, ante la autoridad que corresponda conforme al inciso siguiente.
+
+El informe de mitigación se elaborará y evaluará conforme al procedimiento y a la metodología que fije el reglamento expedido por decreto del Ministerio de Transportes y Telecomunicaciones, suscrito por el Ministro de Vivienda y Urbanismo, y aplicará los principios de celeridad, economía procedimental y no formalización. Atendiendo a las características y al impacto que pueda producir el proyecto en el área de influencia, el reglamento:
+
+a) Establecerá categorías diferenciadas de informes en función de los flujos vehiculares y peatonales inducidos por el proyecto, y, fundadamente, podrá reducir, para una o todas las categorías, los plazos máximos contemplados en el artículo 172.
+
+b) Fijará las condiciones para que dos o más proyectos que sean cercanos en su localización puedan realizar un informe de mitigación conjunto, a propuesta de los interesados o de la autoridad respectiva.
+
+c) Determinará en qué categorías los informes podrán ser confeccionados por los proyectistas, y deberán ser presentados, a través del sistema electrónico, ante la unidad municipal encargada de la función de tránsito y transporte públicos (en adelante, Dirección de Tránsito y Transporte Públicos Municipal), a través del mismo sistema, ante la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, y elaborados por un consultor inscrito en el registro que, para estos efectos, llevará la Subsecretaría de Transportes.
+
+d) Definirá los proyectos en los que no se requerirá elaborar informes de mitigación por no producir alteraciones significativas en el estándar de servicio del sistema de movilidad local.
+
+e) Detallará el contenido del informe de mitigación del proyecto, que deberá incluir sus características y área de influencia y la justificación de las medidas de mitigación propuestas, representadas gráficamente, todo ello de conformidad a la metodología definida por el reglamento.
+
+Las medidas propuestas en el informe, en conjunto con la ejecución de las consideradas en el plan de inversiones en infraestructura de movilidad y espacio público, deberán mitigar los efectos del proyecto sobre el sistema de movilidad dentro del área de influencia para que sus estándares de servicio tengan un nivel semejante al existente, de acuerdo a las características de la zona en que se inserta. El proyecto no podrá recepcionarse si no se han materializado las obras del plan de inversiones en infraestructura de movilidad y espacio público cuya ejecución hubiere previsto el informe.
+
+Corresponderá al Ministerio de Transportes y Telecomunicaciones, a través de la División de Normas y Operaciones, impartir las instrucciones para la aplicación e implementación del sistema electrónico a que se refiere el inciso final del artículo 170 y el reglamento al que alude el inciso primero de este artículo, mediante circulares que se mantendrán a disposición de cualquier interesado.
+
+#### Artículo 172
+
+El secretario regional ministerial de Transportes y Telecomunicaciones o el director de Tránsito y Transporte Públicos Municipal, según corresponda, tendrá un plazo máximo de sesenta días para aprobar, observar o rechazar el informe de mitigación mediante resolución fundada, previa consulta a los demás órganos competentes, incluyéndose, en el caso de las municipalidades, las Direcciones de Obras Municipales, los cuales deberán remitir sus respuestas en un plazo máximo de treinta días, contado desde el envío del respectivo informe. Vencido este plazo sin que se hayan evacuado dichas respuestas, la autoridad correspondiente estará facultada para pronunciarse directamente sobre la solicitud.
+
+Si el informe fuere observado, el titular del proyecto tendrá un plazo máximo de treinta días para presentar el informe corregido, debiendo el secretario regional ministerial de Transportes y Telecomunicaciones o el director de Tránsito y Transporte Públicos Municipal, según proceda, pronunciarse en un plazo máximo de treinta días, previa repetición de la consulta que exige el inciso anterior. En este caso, los organismos tendrán un plazo máximo de quince días para pronunciarse, contado desde el envío del respectivo informe corregido. Vencido este plazo sin que se hubieren evacuado dichas respuestas, la autoridad correspondiente podrá pronunciarse directamente sobre la solicitud.
+
+La autoridad respectiva, de oficio o a petición del interesado, en este último caso cuando el plazo sea establecido en su favor, podrá prorrogar fundadamente los plazos señalados en los incisos anteriores, por igual período y sólo por una vez, siempre que la complejidad del informe lo justifique.
+
+Vencidos los plazos o las prórrogas sin que hubiere pronunciamiento por parte del secretario regional ministerial de Transportes y Telecomunicaciones o del director de Tránsito y Transporte Públicos Municipal, el informe de mitigación se entenderá aprobado, lo que deberá certificarse a petición del interesado, sin más trámite.
+
+La resolución que apruebe el informe de mitigación deberá consignar las características del proyecto, las medidas de mitigación aprobadas, la posibilidad de considerar etapas con mitigaciones parciales y la de garantizar las obras a ejecutar. En contra de la resolución que apruebe o rechace el informe de mitigación se podrá deducir recurso de reposición de conformidad a lo contemplado en la ley N° 19.880, que Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado. Tratándose de los directores de Tránsito y Transporte Públicos Municipal podrá, además, reclamarse de la legalidad de lo obrado ante la Secretaría Regional Ministerial de Transportes y Telecomunicaciones respectiva, debiendo cumplir para ello las normas sobre plazos y tramitación contempladas para el recurso jerárquico en la ley N° 19.880.
+
+Al solicitar un permiso de urbanización o edificación o las autorizaciones correspondientes, deberá acompañarse el comprobante de ingreso del informe de mitigación o el certificado emitido por el sistema que acredite que el proyecto no requiere de dicho informe. Cuando éste deba elaborarse, la resolución que lo apruebe será requisito para el otorgamiento del correspondiente permiso o autorización y tendrá una vigencia de tres años desde la fecha de su notificación, debiendo ser revisada si el proyecto experimenta modificaciones, para verificar la suficiencia de las medidas. Una vez obtenido el permiso respectivo, la resolución extenderá su vigencia hasta completar, como máximo, un total de diez años para efectos de solicitar la recepción definitiva de las obras. Si vencido ese plazo no se pide la recepción, o si habiendo sido solicitada ésta es rechazada, el titular del proyecto deberá presentar un nuevo informe de mitigación y cumplir las medidas que se dispongan al aprobarlo para obtener la recepción definitiva. Lo anterior, no afectará las etapas con mitigaciones parciales ya ejecutadas y recepcionadas, cuando la resolución aprobatoria del informe las hubiere considerado.
+
+#### Artículo 173
+
+Las Direcciones de Obras Municipales no podrán cursar la recepción definitiva del proyecto sin que el interesado acredite la ejecución de las medidas contenidas en la resolución que apruebe el informe de mitigación o el otorgamiento de una caución que la garantice cuando la resolución lo autorice. En caso que dicha resolución haya considerado etapas con mitigaciones parciales, la recepción de cada etapa requerirá de la ejecución conforme de sus respectivas mitigaciones o del otorgamiento de la caución que la garantice si así se autorizó. El certificado de recepción definitiva deberá consignar las medidas de mitigación que hubieren sido garantizadas.
+
+El interesado en caucionar alguna medida deberá presentar los proyectos y presupuestos aprobados por los organismos competentes, pudiendo la Dirección incrementar, por resolución fundada, el valor a garantizar hasta en un 50% considerando imprevistos y costos administrativos de contratación e inspección, todo ello en conformidad a lo que disponga la Ordenanza General de esta ley.
+
+Las garantías caucionarán la correcta ejecución de las medidas de mitigación dentro del año siguiente a la recepción definitiva, pudiendo renovarse este plazo una sola vez, por igual periodo, y podrán consistir, indistintamente, en una boleta bancaria o una póliza de seguro cuya vigencia exceda en 60 días al plazo para la ejecución o al de la prórroga si la hubiere. Las instituciones bancarias o aseguradoras que hayan emitido el respectivo documento de garantía pagarán los valores garantizados con el solo mérito del certificado que otorgue el Director de Obras Municipales señalando que las medidas no se ejecutaron dentro de este plazo, debiendo dichos valores destinarse a la ejecución de las medidas de mitigación garantizadas en la forma y plazos que establezca la Ordenanza General de esta ley.
+
+#### Artículo 174
+
+Los informes de mitigación que se presenten y las resoluciones finales que recaigan sobre ellos, tramitados a través del sistema electrónico a que se refiere el artículo 170, se encontrarán a disposición permanente del público en los sitios electrónicos del Ministerio de Transportes y Telecomunicaciones y de los respectivos municipios, según corresponda, conforme dispone el artículo 7 contenido en el artículo primero de la ley N° 20.285, de Transparencia de la función pública y de acceso a la información de la Administración del Estado. Las secretarías regionales ministeriales de Transportes y Telecomunicaciones y las direcciones de Tránsito y Transporte Públicos Municipal, según sea el caso, serán las encargadas de mantener dicha información actualizada.
+
+## Capítulo III
+
+De los aportes al espacio público
+
+#### Artículo 175
+
+Los proyectos que conlleven crecimiento urbano por densificación deberán dar cumplimiento a lo dispuesto en el artículo 70, directamente, o a través de un aporte equivalente al avalúo fiscal del porcentaje de terreno a ceder a la municipalidad respectiva, para las finalidades y en la forma que se establecen en los artículos siguientes. Los aportes se ajustarán a la densidad y al destino del proyecto, en la forma que disponga la Ordenanza General.
+
+#### Artículo 176
+
+Cada municipio elaborará un plan comunal de inversiones en infraestructura de movilidad y espacio público, que contendrá una cartera de proyectos, obras y medidas incluidas en los instrumentos de planificación territorial existentes o asociadas a éstos, debidamente priorizadas, para mejorar sus condiciones de conectividad, accesibilidad, operación y movilidad, así como la calidad y seguridad de sus espacios públicos y la cohesión social y sustentabilidad urbanas. Para estos efectos, el municipio contará con la asistencia técnica de las secretarías regionales ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones, y del Programa de Vialidad y Transporte Urbano del Ministerio de Transportes y Telecomunicaciones y de la Subsecretaría de Prevención del Delito. El plan deberá someterse a la aprobación del concejo municipal respectivo. Una vez aprobado, será promulgado por el alcalde, quien remitirá copia al gobierno regional.
+
+Las municipalidades podrán solicitar al gobierno regional la elaboración de estos planes o también incluirlos en la formulación o actualización del plan comunal de desarrollo a que se refiere el artículo 6 de la ley N° 18.695, orgánica constitucional de Municipalidades.
+
+Para la ejecución de las obras incluidas en los planes comunales de inversiones en infraestructura de movilidad y espacio público podrán contemplarse recursos adicionales a los aportes a que se refiere el artículo 175, que provengan de otros órganos de la Administración del Estado.
+
+#### Artículo 177
+
+En las áreas metropolitanas o que estén incluidas en un plan regulador metropolitano o intercomunal las secretarías regionales ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones, con consulta a las municipalidades respectivas, elaborarán un proyecto de plan intercomunal de inversiones en infraestructura de movilidad y espacio público, análogo al previsto en el artículo precedente, pero que contendrá proyectos, obras y medidas incluidas en los instrumentos de planificación de nivel intercomunal o asociadas a éstos. El gobernador regional someterá este proyecto a la aprobación de los alcaldes de las comunas incluidas en el área correspondiente. Obtenida la conformidad de la mayoría absoluta de aquellos, el plan será presentado al consejo regional y promulgado por el gobernador regional luego de su aprobación, remitiendo copia a las municipalidades respectivas y publicándolo en el sitio electrónico del Gobierno Regional.
+
+Para la ejecución de las obras incluidas en los planes intercomunales de inversiones en infraestructura de movilidad y espacio público podrán contemplarse recursos adicionales a los aportes a que se refiere el artículo 175, que provengan de otros órganos de la Administración del Estado.
+
+#### Artículo 178
+
+Los planes comunales e intercomunales de inversiones en infraestructura de movilidad y espacio público deberán actualizarse periódicamente en un plazo no mayor a diez años, y cada vez que se apruebe un nuevo instrumento de planificación comunal o intercomunal, siguiendo el mismo procedimiento señalado en los artículos precedentes.
+
+#### Artículo 179
+
+Los aportes en dinero deberán pagarse en forma previa a la recepción municipal del proyecto o al archivo de la declaración jurada a que se refiere el artículo 144 bis. Tratándose de cambios de destino, modificaciones o ampliaciones del giro de la patente comercial de una propiedad, los aportes deberán pagarse antes del archivo de la declaración jurada o del otorgamiento de la autorización respectiva.
+
+Alternativamente, el interesado podrá solicitar que el aporte se materialice a través de la ejecución de estudios de prefactibilidad, proyectos de ingeniería y/o de arquitectura, medidas operacionales para el transporte público o privado y los modos no motorizados, obras de infraestructura pública u otras medidas, con tal que lo propuesto esté incluido en el plan comunal o intercomunal de inversiones en infraestructura de movilidad y espacio público. También podrán proponerse estudios, proyectos, obras y medidas que no estén considerados en estos planes, pero que sean coherentes con ellos, siempre que no correspondan a mitigaciones directas que deba ejecutar el proyecto. En tal caso, el alcalde deberá someterlos a la aprobación del concejo municipal, y requerirá previamente de un informe favorable de las secretarías regionales ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones cuando se trate de estudios, proyectos, obras y medidas de nivel intercomunal.
+
+La solicitud deberá presentarse a través del sistema electrónico especificado en el artículo 170, se podrá tramitar en conjunto con el informe de mitigación, e incluirá un presupuesto detallado del costo de ejecución, en los términos que establezca el reglamento a que se refiere el inciso segundo del artículo 171. La municipalidad deberá aprobar, rechazar u observar la solicitud, previa consulta a los demás órganos competentes, aplicándose los mismos plazos que señala el artículo 172, incluidas las posibles prórrogas. Tratándose de estudios, proyectos, obras y medidas incluidos en los planes intercomunales, la aprobación requerirá del informe favorable de las secretarías regionales ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones. Una vez vencidos los plazos o sus prórrogas sin pronunciamiento municipal, regirá lo contemplado en el artículo 64 de la ley N° 19.880. Se aplicará a las solicitudes y a las resoluciones finales que recaigan sobre ellas lo dispuesto en el artículo 174 de esta ley, correspondiendo a la municipalidad mantener esta información actualizada.
+
+Aprobada la solicitud y su presupuesto, la municipalidad y el interesado no podrán reclamar posteriormente un aporte adicional o un reembolso del aporte alegando que la obra tuvo un costo inferior o superior al valor que se debía pagar.
+
+Los estudios, proyectos, obras y medidas que se materialicen de acuerdo a los tres incisos anteriores deberán ejecutarse en forma previa a la recepción municipal del proyecto a que corresponden los aportes pertinentes, aplicándoseles lo dispuesto en el artículo 173 de esta ley.
+
+#### Artículo 180
+
+Los aportes serán recaudados por el municipio respectivo, que deberá mantenerlos en una cuenta especial y separada del resto del presupuesto municipal.
+
+Los aportes estarán destinados única y exclusivamente a los siguientes fines:
+
+a) Ejecución de obras identificadas en los planes comunales e intercomunales de inversiones en infraestructura de movilidad y espacio público, incluida la construcción de las nuevas áreas verdes o espacios públicos allí indicados.
+
+b) Pago de expropiaciones que sean necesarias para la materialización de dichas obras.
+
+c) Actualización de los planes de inversiones en infraestructura de movilidad y espacio público, desarrollo de los instrumentos de planificación que sean necesarios para su ejecución y elaboración de los proyectos de las obras.
+
+d) Gastos de administración e inspección, incluidos aquellos en personal, hasta por el 10% de los fondos recaudados.
+
+Al menos el 70% de los aportes percibidos, deducidos los gastos de administración, deberán ser invertidos en movilidad. La municipalidad determinará la parte del remanente que será destinado a la inversión en otros espacios públicos.
+
+En las comunas en que exista un plan intercomunal de inversiones en infraestructura de movilidad y espacio público, al menos el 40% de los aportes recaudados anualmente deberá destinarse a la ejecución de obras incluidas en dicho plan intercomunal. Para estos efectos, la municipalidad deberá ejecutar esas obras directamente o transferir los recursos a alguna de las entidades competentes para ejecutarlas mediante un convenio mandato. En este último caso, la entidad receptora sólo podrá emplear los recursos en los fines señalados en este artículo.
+
+Por resolución de la secretaría regional ministerial de Transportes y Telecomunicaciones, y previa solicitud de la municipalidad interesada, el porcentaje establecido en el inciso precedente podrá ser modificado para la ejecución de obras determinadas, considerando la priorización contemplada en el plan.
+
+#### Artículo 181
+
+En sus rendiciones de cuentas anuales, las municipalidades darán una explicación circunstanciada del uso, situación y movimiento de todos y cada uno de los aportes recaudados, y deberán publicarse tales rendiciones conforme dispone el artículo 7 contenido en el artículo primero de la ley N° 20.285.
+
+Se incluirán dentro de esta rendición las medidas de mitigación a que se refiere el artículo 170, y los estudios, proyectos, obras y medidas que regula el artículo 179, recepcionadas y garantizadas, y las incluidas en los permisos aprobados, consignando las garantías a que alude el artículo 173 que obren en poder del municipio y la situación de los fondos obtenidos por el cobro de garantías.
+
+#### Artículo 182
+
+Tratándose de proyectos que incrementen el coeficiente de constructibilidad a través de beneficios urbanísticos conferidos por esta ley, su Ordenanza General o el instrumento de planificación territorial, el avalúo fiscal del terreno sobre el cual se calculará el porcentaje a ceder se aumentará en la misma proporción del beneficio obtenido.
+
+## Capítulo IV
+
+De la mitigación y los incentivos en los instrumentos de planificación territorial
+
+#### Artículo 183
+
+Los planes reguladores intercomunales o metropolitanos podrán establecer condiciones para la utilización de las normas urbanísticas referidas a obras adicionales de urbanización o equipamiento, así como asociadas a obras que aporten a la protección del medio ambiente o que refieran a consideraciones ambientales del desarrollo sustentable relativas a la mitigación y adaptación al cambio climático. Las condiciones serán exigibles para el desarrollo de los proyectos que se emplacen en las áreas urbanas en que se admita actividad productiva o infraestructura de impacto intercomunal, en áreas de extensión urbana cuando actúe a través de disposiciones transitorias con carácter supletorio, o en áreas rurales cuando se establezcan los usos de suelo para los efectos de la aplicación del artículo 55. Dichas condiciones incluyen la ejecución de obras de urbanización fuera del terreno en que se ubica el proyecto, la ejecución de obras o medidas en el sistema de movilidad urbana o que mejoren los espacios públicos, la inclusión de tipos de vivienda, usos de suelo o tecnologías, la materialización o mejoramiento de equipamientos públicos, áreas verdes u otras medidas que promuevan la integración social y la sustentabilidad urbana y ambiental del territorio, todo lo cual se determinará de acuerdo con un estudio de impacto urbano y con las reglas que establezca la Ordenanza General de Urbanismo y Construcciones.
+
+El cumplimiento de las condiciones será requisito para la recepción de los proyectos a que se refiere este artículo. Si se trata de recepciones definitivas parciales, la recepción de cada etapa requerirá la ejecución conforme de las condiciones respectivas que permitan su habilitación independiente, lo que deberá quedar consignado en el estudio de impacto urbano que se deberá elaborar para estos efectos. Sin perjuicio de lo anterior, el cumplimiento de las condiciones podrá garantizarse mediante cauciones que se ajusten a lo dispuesto en el artículo 173, y su incumplimiento acarreará, además de su cobro, la caducidad de las autorizaciones otorgadas y no ejecutadas.
+
+En estos casos deberá considerarse el área de influencia total del proyecto para efectos de las mitigaciones directas que regula el Capítulo II de este Título, incorporando, a lo menos, la red de vías estructurantes existentes o proyectadas con las que se conectarán las nuevas áreas y el territorio o sector geográfico con el cual interactuarán funcionalmente.
+
+#### Artículo 184
+
+Los planes reguladores comunales podrán otorgar incentivos en las normas urbanísticas aplicadas en todo o parte de su territorio condicionados al desarrollo de proyectos de viviendas de interés público, de espacios públicos o de espacios privados abiertos al uso o tránsito público; al mejoramiento de los espacios públicos existentes; a la materialización, reparación o mejoramiento de equipamientos públicos; a la instalación o incorporación de obras de arte en el espacio público; a la incorporación de equipamiento y obras que aporten al cuidado ambiental y a la eficiencia energética; a la incorporación de viviendas de interés público o usos de suelo en los proyectos o al cumplimiento de otras condiciones que induzcan o colaboren en el mejoramiento de los niveles de integración social y sustentabilidad urbana. Asimismo, para el cumplimiento de los objetivos señalados podrán establecer condiciones para la utilización de las normas urbanísticas aplicables en todo o parte del territorio.
+
+El cumplimiento de las condiciones indicadas en el inciso precedente será requisito para la recepción de los proyectos que se acojan a los incentivos de normas urbanísticas o condiciones para la aplicación de normas urbanísticas. Si se trata de recepciones definitivas parciales, la recepción de cada etapa requerirá la ejecución conforme de las condiciones respectivas que permitan su habilitación independiente.
+
+El plan regulador comunal deberá precisar el área en que dichos incentivos o condiciones serán aplicables, y su aprobación dejará sin aplicación en dicho sector los artículos 63, 107, 108 y 109, se acojan o no los proyectos específicos a dichos incentivos o condiciones.
+
+En aquellos sectores protegidos bajo la categoría de Zona Típica, Zona de Conservación Histórica o en alguna de las categorías que las reemplacen, necesariamente deberán respetarse los valores y atributos por los cuales dichas zonas fueron protegidas. En consecuencia, en tales áreas de protección de recursos de valor patrimonial cultural solo podrán establecerse incentivos normativos o condiciones para la aplicación de las normas urbanísticas cuando ellas tengan por objeto resguardar tales valores y atributos y resulten compatibles con el valor patrimonial cultural protegido, lo que deberá quedar descrito expresamente en la memoria explicativa del instrumento.
+
+#### Artículo 184 bis
+
+Las viviendas de interés público que resulten de la aplicación de las condiciones, exigencias, beneficios o incentivos referidos en los artículos 27, 34, 45, 183 y 184 o en otras normas legales, deberán quedar singularizadas en los respectivos permisos de edificación y recepciones municipales.
+
+Cuando las viviendas a que hace referencia el inciso anterior estén destinadas a beneficiarios de programas públicos para la adquisición del dominio, en los contratos de compraventa que sirvan de título para constituir el dominio de manera originaria sobre tales viviendas se deberá dejar constancia que el comprador es beneficiario del programa habitacional del Estado que corresponda.
+
+Las viviendas referidas en el inciso anterior cuyo precio haya sido pagado exclusivamente mediante apoyo estatal y el ahorro mínimo exigido, si correspondiere éste, sólo podrán ser vendidas posterior y sucesivamente a personas que sean beneficiarias de algún apoyo estatal para la adquisición del dominio y siempre que haya transcurrido el plazo de la prohibición de celebrar actos y contratos que le sea aplicable, conforme a lo establecido en el artículo 29 de la ley N° 17.635. Respecto de estos contratos de compraventa también será aplicable lo señalado en el inciso precedente.
+
+El beneficiario no podrá vender ni enajenar la vivienda antes del cumplimiento del plazo de la referida prohibición de celebrar actos y contratos, sino con autorización del Director Regional del Servicio de Vivienda y Urbanización respectivo. En caso de acceder a la solicitud, el Director Regional deberá condicionar su otorgamiento a la restitución del o de los subsidios recibidos, debidamente reajustados conforme a los índices o indicadores que la legislación contemple a la fecha de la restitución. Sólo en casos debidamente justificados y por resolución fundada, el mencionado Director Regional podrá autorizar la venta y enajenación de la vivienda antes del vencimiento del plazo de la prohibición sin requerir la restitución referida.
+
+Sin perjuicio de lo señalado en el inciso precedente, el Director Regional respectivo también podrá autorizar la venta y enajenación de una vivienda afecta a prohibición en razón del subsidio recibido, sin requerir la restitución de éste, bajo las siguientes condiciones copulativas: a) que la vivienda sea transferida a un beneficiario del mismo programa que otorgó subsidio al vendedor o del programa equivalente que lo reemplace, o bien, a un beneficiario de un programa destinado a hogares con mayor vulnerabilidad que la del vendedor, y b) que el vendedor destine el precio de esa enajenación a la compra de otra vivienda. Este mecanismo de movilidad habitacional se regirá por las normas reglamentarias dictadas por el Ministerio de Vivienda y Urbanismo.
+
+Lo señalado en los dos incisos precedentes será aplicable tanto a las viviendas referidas en el inciso primero como a cualquier otra vivienda financiada total o parcialmente con recursos del Estado.
+
+## Capítulo V
+
+De los aportes urbanos reembolsables
+
+#### Artículo 185
+
+Cuando un interesado proponga ejecutar un estudio, proyecto, obra o medida del plan de inversiones en infraestructura de movilidad y espacio público, conforme admite al artículo 179, y el costo aprobado sea mayor al aporte que le corresponda enterar, podrá acoger dicho excedente a la modalidad de aportes reembolsables.
+
+#### Artículo 186
+
+Para los efectos señalados en el artículo anterior, el interesado firmará un convenio con la municipalidad respectiva. En dicho convenio se establecerá:
+
+a) Los estudios, proyectos, obras o medidas a ejecutar y su costo.
+
+b) El valor a reembolsar y su plazo de devolución por parte de la municipalidad, que no podrá superar los quince años.
+
+c) La forma en que la municipalidad reembolsará dichos aportes.
+
+Las devoluciones se entregarán a la persona que se designe en el respectivo convenio, deberán ser en dinero o pagarés reajustables y equivaldrán al valor inicial reajustado.
+
+TITULO FINAL
+
+#### Artículo 187°
+
+El Ministerio de la Vivienda y Urbanismo fijará, por decreto supremo, el nuevo texto de la Ordenanza General de esta Ley, que derogue y reemplace totalmente a la anterior.
+
+#### Artículo 188°
+
+Derógase el Decreto con Fuerza de Ley N° 224, de 1953, cuyo texto definitivo fue fijado por el decreto supremo N° 880, de 18 de Abril de 1963, de Obras Públicas, publicado en el Diario Oficial de 16 de Mayo del mismo año, en la parte que fija, a su vez, el texto definitivo de la Ley General de Construcciones y Urbanización.
+
+Subsistirán las disposiciones del cuerpo legal que se deroga en la parte relativa al texto definitivo de la Ley N° 6.071, en lo que no se oponga a las normas de la presente Ley y mientras no se promulgue el decreto ley que fije el nuevo texto de la Ley de Propiedad Horizontal.
+
+Deróganse, asimismo, los artículos 22° y 23° de la Ley N° 17.235 y las disposiciones de otras leyes o cuerpos legales que fueren contrarias a las de la presente Ley General de Urbanismo y Construcciones.
+
+#### Artículo 189
+
+Todas las funciones que este cuerpo legal entrega a las Secretarías Regionales del Ministerio de Vivienda y Urbanismo, deberán ejercerse de acuerdo a lo que exprese el Decreto Ley de Reestructuración de dicho Ministerio.
+
+#### Artículo 190
+
+Los plazos de días contenidos en esta ley, en que no se indique expresamente que se trata de plazos de días hábiles, son de días corridos.
+
+Con todo, siempre que el último día de un plazo contemplado en esta ley sea inhábil se entenderá prorrogado al primer día hábil siguiente.
+
+#### Artículo 191
+
+En cumplimiento de las obligaciones establecidas en los artículos 69, 71 y 78 del Código Sanitario, en lo referido a viviendas y equipamientos complementarios, las Secretarías Regionales Ministeriales de Salud deberán pronunciarse dentro del plazo de veinte días, prorrogable por una sola vez por otros veinte días, si así se ordena por resolución fundada. Si la Secretaría Regional Ministerial de Salud respectiva no se pronuncia dentro de plazo, se tendrá por aprobado el proyecto para todos los efectos legales.
+
+ARTICULOS TRANSITORIOS
+
+#### Artículo 1°
+
+La ejecución de construcciones y de obras de urbanización que se hubieren iniciado con anterioridad a la vigencia de la presente ley, se regirán por las disposiciones vigentes a la fecha del respectivo permiso en lo relativo a construcción, y por lo dispuesto en la presente ley en lo relativo a urbanización.
+
+#### Artículo 2°
+
+La actual Ordenanza General de Construcciones y Urbanización continuará rigiendo hasta la dictación de la nueva Ordenanza, en lo que no se oponga a las disposiciones de la presente ley.
+
+#### Artículo 3°
+
+Los actuales Reglamentos de Instalaciones Sanitarias de Agua Potable y Alcantarillado, y de Pavimentación deberán adecuarse a las normas de la nueva Ordenanza General que se dicte, en el plazo que ésta señale.
+
+Las modificaciones correspondientes a dichos Reglamentos se aprobarán por decreto del Ministerio de la Vivienda y Urbanismo, dictado "por orden del Presidente".
+
+#### Artículo 4°
+
+Las disposiciones técnicas contenidas en la Ley General de Construcciones y Urbanización, cuyo texto se reemplaza por la presente ley, y que esta última remite a la nueva Ordenanza General, seguirán vigentes hasta la aprobación de esta Ordenanza.
+
+#### Artículo 5°
+
+Las construcciones o sus ampliaciones que se hubieren ejecutado sin permiso y que, en su conjunto, no excedan de 60 m2., podrán regularizar su situación dentro del plazo de un año, contado desde la fecha de publicación de la presente ley.
+
+Para los efectos indicados, la solicitud respectiva deberá ser acompañada de los siguientes documentos:
+
+a) Plano de arquitectura a escala mínima de 1:100;
+
+b) Croquis de ubicación a escala de 1:500, y c) Certificados de funcionamiento del agua potable, alcantarillado y luz.
+
+Será suficiente, en estos casos, que los planos aludidos sean suscritos por el Servicio de atención gratuita del Colegio de Arquitectos de la respectiva región o provincia.
+
+El permiso correspondiente se otorgará previo pago solamente del 50% de los derechos municipales.
+
+#### Artículo 6°
+
+Lo dispuesto en el artículo 137° de esta ley será también aplicable a las cooperativas de viviendas que hubieren adquirido terrenos u obtenido permiso de urbanización y construcción con anterioridad a la fecha de publicación de esta ley.
+
+Los Directores de Obras Municipales se entenderán autorizados para otorgar recepciones de obras de acuerdo a las nuevas normas referidas, pudiendo aceptar que los proyectos de urbanización ya aprobados sean ejecutados en las dos etapas que menciona dicho artículo, sin cobro de derechos adicionales.
+
+Los Conservadores de Bienes Raíces procederán, de oficio, a cancelar las prohibiciones e hipotecas de carácter general que se hubieren inscrito en garantía de la ejecución de las obras de urbanización por parte de las cooperativas, sin perjuicio de la prohibición que se establece en el expresado artículo 137°.
+
+#### Artículo 7°
+
+Las menciones que este texto legal hace de los Servicios del Ministerio de Vivienda y Urbanismo, se entenderán referidas a las Divisiones que contemple el decreto ley de reestructuración del mismo Ministerio, que tengan análogas funciones, aun cuando éste último les asigne otra denominación.
+
+#### Artículo 8°
+
+Para los efectos previstos en el inciso tercero del artículo 29 de la ley N° 16.959, y el artículo 29 bis del mismo cuerpo legal, se entenderán incorporadas a la presente ley las disposiciones del decreto supremo N° 525, de Vivienda y Urbanismo, de 7 de Octubre de 1974, publicado en el Diario Oficial de 14 de Noviembre de 1974.
+
+Las viviendas y obras de equipamiento comunitario construidos por el Ministerio de Vivienda y Urbanismo o sus Corporaciones con anterioridad a la vigencia de la presente ley, deberán ser recibidas por las Direcciones de Obras Municipales, aun cuando les faltaren las plantaciones y obras de ornato; el pavimento de calles, pasajes o veredas, siempre que se hubieren colocado las soleras; los certificados de agua potable, alcantarillado y alumbrado y/o los jardines infantiles a que se refiere el artículo 25° de la ley N° 17.301.
+
+En los casos en que dichas viviendas o equipamiento no contaren con el permiso de edificación, será suficiente la presentación de los planos respectivos para el otorgamiento simultáneo del permiso y la recepción final.
+
+#### Artículo 9°
+
+Las tasas y porcentajes establecidos en los artículos 130° y 131°, respectivamente, de esta ley, se mantendrán mientras no fueren modificados por el nuevo texto que se fijare a la Ley de Rentas Municipales.
+
+#### Artículo 10°
+
+La arborización de las áreas verdes, calles y obras de ornato, que debieron ejecutarse en los loteos y urbanizaciones iniciados con anterioridad a la publicación de la presente ley, se regirán por las disposiciones vigentes en la fecha del respectivo permiso de urbanización.
+
+Anótese, tómese razón, publíquese e insértese en la Recopilación correspondiente de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Carlos Granifo Harms, Ministro de la Vivienda y Urbanismo. Jorge Cauas Lama, Ministro de Hacienda.
+
+Lo que transcribo a U. para su conocimiento.- Dios guarde a U.- Arthur Clark Flores, Comandante de Grupo (I), Subsecretario de Vivienda y Urbanismo.
+
+CONTRALORIA GENERAL DE LA REPUBLICA
+
+Subdepartamento de Municipalidades Asesoria Legal Provee en decreto N° 458, de 1975, del Ministerio de la Vivienda y Urbanismo
+
+N° 25.028.- Santiago, 8 de Abril de 1976.
+
+Esta Contraloría General cumple con dar curso al decreto del rubro. Sin embargo, debe advertir que el inciso final del artículo 140 cita erróneamente el artículo 139, en circunstancias que debió referirse al artículo 138.
+
+Dios guarde a US.- Héctor Humeres M., Contralor General de la República.
+
+Al señor Ministro de la Vivienda y Urbanismo Presente.
