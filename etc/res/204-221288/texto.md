@@ -1,0 +1,21 @@
+MANTIENE PROHIBICION DE EXTRACCION, TRANSPORTE, COMERCIALIZACION, CONSUMO Y TENENCIA DE MARISCOS PROVENIENTES DE AREA GEOGRAFICA QUE INDICA
+
+Núm. J 204.- Puerto Montt, 5 de febrero de 2004.- Vistos: La necesidad de modificar resolución sanitaria Nº 0180 de 31 de enero de 2004 del Director del Servicio de Salud Llanquihue, Chiloé y Palena debido a la presentación de nuevos casos de intoxicaciones alimentarias por consumo de mariscos contaminados con Vibrio parahemoliticus procedentes de diferentes sectores costeros del Seno de Reloncaví y lugares adyacentes; el riesgo para la salud de la población que representa la comercialización de estos recursos marinos; Teniendo presente: lo informado por el Departamento de Programas sobre el Ambiente de este Servicio de Salud Llanquihue, Chiloé y Palena, los resultados positivos de presencia de Vibrio parahemolyticus entregados tanto por el Laboratorio Bromatológico del Servicio de Salud como por el Laboratorio Clínico del Hospital de Puerto Montt de los análisis de mariscos y deposiciones de los enfermos detectados y considerando que, según los antecedentes existentes, las temperaturas de cocción y esterilización en el proceso de elaboración de productos del mar (conservas y congelados) aseguran la destrucción de dicha bacteria, y teniendo, además, presente: lo dispuesto en el decreto ley Nº 2.763/79, D.S Nº 42/86 Reglamento Orgánico de los Servicios de Salud, resolución Nº 0499 de 02.10.2003 del Ministerio de Salud, lo previsto en los artículos 3, 108, y siguientes del Código Sanitario y artículos 2, 3, 9, 12, 101, 102, 333, 334 y siguientes del Reglamento Sanitario de los Alimentos, decreto 977 de 1996 del Ministerio de Salud, dicto la siguiente:
+
+Resolución:
+
+1. Manténgase la prohibición de extracción, transporte, comercialización, consumo y tenencia a cualquier título de mariscos provenientes de un área geográfica ubicada al norte de línea diagonal que parte desde la Punta Chulao Península de Huequi (Paralelo 42°18' Latitud Sur, Meridiano 72º 50' Longitud Weste) hasta la Caleta Pargua (Paralelo 41° 48' Latitud Sur, Meridiano 73° 29' Weste). Que incluye Estuario de Reloncaví, Isla Tenglo, I. Guar, I. Maillen, I. Caicuras, I. Queullin, I. y Canal Llancahue, Canal Comau, I. Puluqui, I. Calbuco, I. Chidguapi, I. Quenu, I. Tabón, I. Quigua, e I. Abtao entre otras. Carta SHOA 700.
+
+2. La prohibición establecida en la decisión anterior regirá hasta que la autoridad sanitaria disponga lo contrario.
+
+3. Permítase la extracción y transporte de mariscos sólo para uso industrial de recursos procedentes del área señalada en el numeral 1 de la presente resolución. Las industrias procesadoras de productos del mar de la jurisdicción que elaboren conservas o congelados a partir de materias primas obtenidas del área prohibida, sean éstos centros de cultivos o bancos naturales, deberán acreditar que sus procesos tecnológicos aseguran la inocuidad de sus productos, presentando las especificaciones técnicas de éstos y sistemas de control de calidad sanitaria previo a su comercialización.
+
+4. Los locales y establecimientos de alimentos que venden productos a base de pescados y mariscos, solo deberán elaborar platos preparados provenientes de zonas permitidas y debidamente cocidos (Temperaturas y Tiempos recomendados), que garanticen la inocuidad de dichos alimentos.
+
+5. El incumplimiento de esta resolución será sancionada de acuerdo con lo prescrito en el Libro X del Código Sanitario, y sin perjuicio de la denuncia criminal que sea procedente de acuerdo con la Legislación Penal vigente.
+
+6.- Dispónese que el cumplimiento de esta resolución será fiscalizada, en lo que proceda, por personal del Departamento de Programas sobre el Ambiente, la Autoridad Marítima y Carabineros de Chile y su infracción será objeto de sumario sanitario conforme al procedimiento previsto en el Código Sanitario y a las penas que establece el Código Penal.
+
+7.- La presente resolución regirá a contar de esta fecha sin perjuicio de su publicación en el Diario Oficial y, hasta que no se disponga lo contrario, en la jurisdicción del Servicio de Salud Llanquihue, Chiloé y Palena.
+
+Anótese, comuníquese y publíquese.- Claudio Martínez Labra, Director (S) Servicio de Salud Llanquihue, Chilóe y Palena.
