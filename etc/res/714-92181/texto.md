@@ -1,0 +1,3 @@
+Por Resolución No. 714 de 02 de Agosto de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2186 de 1978, parte inmueble calle Ricardo Santa Cruz No. 630, presunto rol avalúos 626-36 comuna Santiago aparentemente dominio de don Clotario Blest Riffo. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos y Walter Soto Silva, Ingeniero Civil, según informe de 31 de Enero de 1989, fijó monto provisional indemnización en $ 2.791.040.- pagadera al contado.
+
+Director SERVIU Metropolitano.
