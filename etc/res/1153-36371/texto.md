@@ -1,0 +1,5 @@
+Por Resolución N° 1.153, de 5 de Diciembre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 298 y la N° 758, ambas de 1989, de esta Subsecretaría, que autorizó a PESCA SURIBERICA S.A., R.U.T. N° 96.536.930-9, para realizar actividades de pesca extractiva, sólo en lo que respecta a la nave "Isla Dolores", en virtud de lo dispuesto en el artículo 143° letra b) de la Ley General de Pesca y Acuicultura.
+
+Deniégase la solicitud presentada por Pesca Suribérica S.A., ya individualizada, de reconsideración de la denegatoria de ampliación de plazo de operación para la nave "Isla Dolores", autorizada por las Resoluciones N° 298 y N° 758, ambas de 1989, de esta Subsecretaría, en virtud de lo dispuesto en el numeral 1° de esta Resolución y por no haberse acreditado la ocurrencia de una causal de fuerza mayor.
+
+Valparaíso, 5 de Diciembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
