@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 136, 5 abril 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº1459, Rol de Avalúo Nº 632-07 comuna Concepción, superficie 10,58 m². de terreno y 21,15 m². de edificación, dentro polígono y linderos señalados plano expropiación S8R-18396; de aparente dominio de Mario Valdebenito V. y Otro, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 Ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Cecilia Carrasco Verdugo, arquitecto, Hernán Danilo Cáceres Moscoso, ingeniero civil, y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 5 de marzo de 2004, fijó monto provisional indemnización en $6.134.400.-, pagadera de contado.-
+
+Carlos Ugarte Méndez, Director Serviu Región del Bío Bío.
