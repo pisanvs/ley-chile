@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.461 de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº20, superficie 288,33 m2. rol de avalúo 142-126, comuna de Chonchi, para la obra ''Camino Acceso Sur a Chonchi, Sector Ruta 5-Chonchi, Km.0,000 a Km. 3,25253'' y se acordó el valor de indemnización con su propietario Francisco Pérez Bórquez y Otra, ascendente a la cantidad de $12.730.686.
+
+- Fiscal del Ministerio de Obras Públicas.
