@@ -1,0 +1,5 @@
+Por resolución Nº 1.453, de 11 de julio de 2001, de esta Subsecretaría, autorízase a PHOENIX UNIVERSAL TRADING COMPANY CHILE S.A. para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 2.497 de 2000, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Cerro San Cristóbal Nº 9681, Loteo Portezuelo, comuna de Quilicura, Santiago, Región Metropolitana, en las líneas de proceso que se indican, donde podrá procesar los siguientes recursos hidrobiológicos: Fresco-Enfriado, Conserva, Congelado, Seco-Salado: Caracol gigante africano y Caracol africano.
+
+Los recursos Caracol gigante africano y Caracol africano deberán cumplir con las normas sobre importación y sanidad correspondientes.
+
+Valparaíso, 11 de julio de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
