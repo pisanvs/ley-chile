@@ -1,0 +1,5 @@
+AUTORIZA A IBERPESCA S.A. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 79, 23.01.90 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Iberpesca S.A. RUT No. 96.563.870-9, domiciliada en la ciudad de Santiago, para iniciar actividades pesqueras, en orden a operar una planta industrial en la IV Región, ubicada en calle Melgarejo No. 527, Coquimbo, donde procesará en la línea de elaboración de congelado, los siguientes recursos hidrobiológicos Albacora o pez espada, Atún sp., Bonito y Marrajo o Tiburón. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 23 de Enero de 1990.- Roberto Cabezas Bello, Subsecretario de Pesca.
