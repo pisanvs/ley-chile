@@ -1,0 +1,3 @@
+Por resolución No. 615, de 26 de junio de 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2186 de 1978, parte inmueble ubicado en calle Ricardo Santa Cruz No. 625 - 631, presunto rol avalúos 593-13, comuna de Santiago, aparentemente dominio de don J. Mario Mas Alfonso. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos, y Walter Soto Silva, ingeniero civil, según informe de 31 de Enero de 1989, fijó monto provisional indemnización en $ 2.263.420.- pagadera al contado.
+
+Director SERVIU Metropolitano.
