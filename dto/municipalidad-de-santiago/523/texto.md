@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 523, de 9 de Junio 1989. Alcalde I. Municipalidad Santiago dispone expropiación total inmueble calle Arturo Prat 464, Rol 599-44 aparentemente dominio Sindicato Suplementeros. Deslindes: Norte: 40,60 mts. propiedad Rol 59943: Sur, 41,20 mts. propiedad Rol 599-45 y 599-8, Oriente, 10,60 mts. propiedad Rol 599-7 y, Poniente, 11,90 mts. calle Arturo Prat. Superficie aproximada 460,13 mts2 Indemnización provisional $ 4.422.392 pagadero contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
