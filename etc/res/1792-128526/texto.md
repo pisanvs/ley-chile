@@ -1,0 +1,3 @@
+Por resolución Nº 1.792, de 11 de diciembre de 1998, de esta Subsecretaría, deniégase la autorización solicitada por SOCIEDAD PESQUERA COLOSO S.A., para incluir a la nave ''Bío Bío'', ex ''Con Con'', autorizada por resoluciones Nº 34 de 1980, Nº 536 y Nº 1.301 de 1991, y Nº 1.607 de 1995, de esta Subsecretaría, en la nómina de naves autorizadas para operar en la pesquería de Jurel, en la III y IV Regiones, señalados en la resolución Nº 1.133 de 1998, de esta Subsecretaría, de conformidad con lo establecido en los informes, reglamentos y normas legales.
+
+Valparaíso, 11 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
