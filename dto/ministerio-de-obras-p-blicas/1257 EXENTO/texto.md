@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.257 de 30 de agosto de 2002, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 52, 54 y 55 para la obra: Camino Ruta M-40 Santa Olga - Empedrado, Sector Santa Olga - Los Pellines, Km. 0,000 a Km. 10,847.92, VII Región, que figuran a nombre de Mendoza Aylwin Eduardo Jesús y Lucifin Cáceres Garrido, roles de avalúo 419-3, Comuna de Constitución y en trámite, comuna de Empedrado, VII Región, superficies 370 m2; 1.145 m2. y 1.314 m2. La comisión de peritos, fijó con fecha 17 de septiembre de 1998, en la cantidad de $449.600.- para el lote Nº52;
+
+$1.591.600.- para el lote Nº54 y $1.680.120.- para el lote Nº55. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
