@@ -1,0 +1,3 @@
+Por resolución Nº 394, de 31 de enero de 2003, de esta Subsecretaría, déjase sin efecto resolución Nº 194 de 2003 que modificó resolución Nº 02 de 2003 que autorizó una pesca de Investigación al INSTITUTO DE FOMENTO PESQUERO de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2002-13 "Evaluación hidroacústica del reclutamiento de anchoveta y sardina común entre la V y X Regiones, año 2002", por recaer sobre los mismos hechos y tener idéntico objeto que la Nº 128 del 2003, todas de esta Subsecretaría de Pesca.
+
+Valparaíso, 31 de enero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
