@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.308, de 31 de mayo de 1999, se expropiaron los lotes de terrenos Nºs. 149-A y 150-A, superficies 449 m2., y 149 m2., rol de avalúo 315-24, comuna de Río Negro, para la obra Concesión Internacional Ruta 5. Tramo Río Bueno-Puerto Montt. Sector Río Negro-Purranque, Décima Región y se acordó el valor de indemnización con su propietario Rodolfo Maurer Furst, ascendente a la cantidad total de $571.214.
+
+Fiscal del Ministerio de Obras Públicas.
