@@ -1,0 +1,3 @@
+Por Resolución Nº 1.254 de 25 de septiembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por PESQUERA BALZAK S.A., para ampliación de plazo para operar por causal de fuerza mayor con la nave "Luminosa", autorizada por Resolución Nº 693, de 1994, que autorizó a la peticionaria a iniciar actividades extractivas con la nave precitada.
+
+Valparaíso, 25 de septiembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
