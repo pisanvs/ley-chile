@@ -8,121 +8,211 @@ Resuelvo:
 
 Nombre Calle Tramo
 
-----------------------------------------------------------------
+-----------------------------------
 
 AUTOPISTA:
 
 AUTOVIAS:
 
-Ruta 78 Puente Arévalo - Cruce Cartagena
+Ruta 78 Puente Arévalo -
 
-Ruta nuevo acceso al Puerto Av. Barros Luco - Cruce Cartagena
+Cruce Cartagena
 
-Av. San Juan Puente Coresa - Cruce Leyda
+Ruta nuevo acceso Av. Barros Luco -
+
+al Puerto Cruce Cartagena
+
+Av. San Juan Puente Coresa -
+
+Cruce Leyda
 
 TRONCALES:
 
-Antonio Núñez de Plaza 11 de Septiembre límite
+Antonio Núñez de Plaza 11 de Septiembre
 
-Fonseca Comuna Cartagena
+Fonseca límite Comuna
 
-Av. San Juan Av. Arrayán - Puente Coresa
+Cartagena
+
+Av. San Juan Av. Arrayán -
+
+Puente Coresa
 
 DE SERVICIO:
 
-Av. Los Aromos Av. Chile - Av. Providencia
+Av. Los Aromos Av. Chile -
 
-Av. Providencia Del Canelo - Av. Chile
+Av. Providencia
 
-Inmaculada Concepción Del Canelo - Av. Chile
+Av. Providencia Santa Lucía -
 
-Av. Barros Luco 10 Sur Av. Barros Luco - Angamos
+Del Canto
+
+Inmaculada Concepción Del Canelo -
+
+Av. Chile
+
+Av. Barros Luco 10 Sur Av. Barros Luco -
+
+Angamos
 
 Angamos 10 Sur - 7 Sur
 
-O'Higgins Av. Barros Luco - Lautaro
+O'Higgins Pablo Neruda -
 
-Av. El Molo Av. Barros Luco - Lautaro
+Acceso al Puerto.
 
-Av. Centenario Av. Barros Luco - Puente Arévalo
+Av. El Molo Av. Barros Luco -
 
-Balmaceda Puente Arévalo - Francisco Javier
+Lautaro
+
+Av. Centenario Av. Barros Luco -
+
+Puente Arévalo
+
+Balmaceda Puente Arévalo -
+
+Francisco Javier
 
 Vera
 
-Lauro Barros Gregorio Mira - Balmaceda
+Lauro Barros Gregorio Mira -
+
+Balmaceda
 
 COLECTORAS DISTRIBUIDORAS:
 
-José Miguel Carrera Av. Providencia - Av. Los Aromos
+José Miguel Carrera Av. Providencia -
 
-Av. Los Aromos José Miguel Carrera - Baquedano
+Av. Los Aromos
 
-Sauce Av. Los Aromos - Julio Letelier
+Av. Los Aromos José Miguel Carrera -
 
-Hurtado de Mendoza José Miguel Carrera - Baquedano
+Baquedano
 
-Baquedano Hurtado de Mendoza -Av.Providencia
+Sauce Av. Los Aromos -
 
-Arzobispo Valdivieso Av. Providencia - Santa Lucía
+Julio Letelier
 
-Av. Providencia Santa Lucía - Los Claveles
+Hurtado de Mendoza José Miguel Carrera -
 
-Los Claveles Av. Providencia - Av. El Arrayán
+Baquedano
 
-Av. El Arrayán Los Claveles - Félix Uribe
+Baquedano Hurtado de Mendoza -
 
-Av. Providencia Félix Uribe - Av. Barros Luco
+Av.Providencia
 
-Pío X Inmaculada Concepción - Av.
+Arzobispo Valdivieso Av. Providencia -
 
-Providencia
+Santa Lucía
+
+Av. Providencia Santa Lucía -
+
+Los Claveles
+
+Los Claveles Av. Providencia -
+
+Av. El Arrayán
+
+Av. El Arrayán Los Claveles -
+
+Félix Uribe
+
+Av. Providencia Félix Uribe -
+
+Av. Barros Luco
+
+Pío X Inmaculada
+
+Concepción -
+
+Av. Providencia
 
 Av. Providencia Pio X - Baquedano
 
-Av. Rosedal Baquedano - Eucaliptus
+Av. Rosedal Baquedano -
 
-Eucaliptus Av. Rosedal - Av. Chile
+Eucaliptus
 
-Av. Chile Av. El Arrayán - Av. Los Aromos
+Eucaliptus Av. Rosedal -
 
-Inmaculada Concepción Del Canelo - Av. Los Aromos
+Av. Chile
+
+Av. Chile Av. El Arrayán -
+
+Av. Los Aromos
+
+Inmaculada Concepción Del Canelo -
+
+Av. Los Aromos
 
 Antofagasta Lautaro - Pudeto
 
-Pudeto Antofagasta - Libertad
+Pudeto Antofagasta -
 
-República Libertad - Independencia
+Libertad
 
-Orella República - Independencia
+República Libertad - Orella
 
-Independencia Orella - Luis Reuss
+Orella República -
 
-Luis Reuss 21 de Mayo - Independencia
+Independencia
 
-21 de Mayo Luis Reuss - Av. Barros Luco
+Independencia Orella -
 
-Lautaro Luis Reuss - Ignacio Carrera Pinto
+Luis Reuss
+
+Luis Reuss 21 de Mayo -
+
+Independencia
+
+21 de Mayo Luis Reuss -
+
+Av. Barros Luco
+
+Lautaro Luis Reuss -
+
+Ignacio Carrera
+
+Pinto
 
 Ignacio Carrera Pinto Orella - Angamos
 
-Angamos 7 Sur - Barros Luco
+Angamos 7 Sur -
 
-Hermanos Carrera Balmaceda - Arturo Prat
+Barros Luco
 
-Arturo Prat Hermanos Carrera - Marcos Hinojosa
+Hermanos Carrera Balmaceda -
 
-Marcos Hinojosa Arturo Prat - O'Higgins
+Arturo Prat
 
-Pedro Montt Palmieri Gregorio Mira - Miraflores
+Arturo Prat Hermanos Carrera -
 
-Ortúzar Miraflores - Chorrillos
+Marcos Hinojosa
 
-Chorrillos Ortúzar - Portales
+Marcos Hinojosa Arturo Prat -
 
-Portales Chorrillos - Miraflores
+O'Higgins
 
-Miraflores Portales - Ortúzar
+Pedro Montt Palmieri Gregorio Mira -
+
+Miraflores
+
+Ortúzar Miraflores -
+
+Chorrillos
+
+Chorrillos Ortúzar -
+
+Portales
+
+Portales Chorrillos -
+
+Miraflores
+
+Miraflores Portales -
+
+Ortúzar
 
 2°.- Cualquier modificación a las características físicas u operacionales de las vías antes individualizadas que alteren el desplazamiento de vehículos y/o personas y los proyectos de construcción de nuevas vías que incidan en la Red Vial Básica antes citada, deberá contar con la aprobación de esta Secretaría Regional Ministerial.
 
