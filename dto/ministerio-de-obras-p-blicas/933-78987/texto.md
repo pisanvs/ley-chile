@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 933, de 30 de septiembre de 1997, se expropió el lote de terreno Nº 43-B , superficies 110,40 m2. rol de avalúo 1100-201, comuna de Cartagena, para la obra Camino Autopista Santiago - San Antonio, sector Leyda - Agua Buena, y se acordó precio de indemnización con su propietarios Luis Soto Soto y otro, ascendente a la cantidad de $512.575.
+
+Fiscal del Ministerio de Obras Públicas
