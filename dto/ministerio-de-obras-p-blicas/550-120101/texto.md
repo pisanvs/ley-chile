@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 550, de 29 de abril de 1998, se expropiaron los lotes de terreno Nºs. 8 y 9, superficies 192 y 393 M2., roles de avalúo 47-2 y 46-13, comuna de Teno, obra Camino Ruta J-30-I, Sector Cuesta El Peral - Teno, y se acordó precio de indemnización con sus propietarios Manuel Segundo Acosta Rojas y Celsa del Carmen Moya González y otros, ascendente a las cantidades de $3.468.985.- y $15.426.463.- respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
