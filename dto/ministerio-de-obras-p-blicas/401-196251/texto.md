@@ -1,0 +1,3 @@
+Por decreto MOP Nº401, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 48, superficie 412 m2, Rol de avalúo Nº3800-127,, comuna de Puente Alto, para la obra "Mejoramiento Eje La Florida, Sector El Peñon a Las Vizcachas, Ruta G-25 Camino Puente Alto" Región Metropolitana, y se acordó el valor de indemnización con su propietaria Inmobiliaria Independencia S.A., ascendente a la cantidad de $10.169.411.
+
+- Fiscal del Ministerio de Obras Públicas.
