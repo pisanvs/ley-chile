@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.233, de 30 de mayo de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 5 y 7, para la obra: Concesión Internacional Ruta 5. Tramo: Talca - Chillán. Sector: Km. 242.560,00 al Km. 245.100,00, Séptima Región, que figuran a nombre de Valdés Bravo Carlos Alberto, rol de avalúo 3983-110, comuna de Talca, superficies de 1.880 m2 y 309 m2, respectivamente. La comisión de peritos integrada por los señores Pablo Antonio Aragón Bernal, Claudia Paola Arellano Gómez y Jorge Gregorio Mendoza Larral, fijó con fecha 10 de marzo de 2000, el valor provisional de la indemnización en las cantidades de $22.271.600.- para el lote Nº5 y $1.015.400.- para el lote Nº7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
+
+(15)
