@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.235 de 31 de agosto de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 59-C para la obra: Camino Ruta Rol H-10, Sector Graneros-San Francisco de Mostazal, km. 0,000 a km. 9,317, que figura a nombre de Figueroa Rodríguez Ramón y Otros, rol de avalúo 136-600, comuna de San Francisco de Mostazal, VI Región, superficie 52,5 m². La Comisión de Peritos fijó con fecha 15 de septiembre de 2000, en la cantidad de $226.063, lote Nº 59-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
