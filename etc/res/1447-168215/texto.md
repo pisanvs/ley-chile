@@ -1,0 +1,5 @@
+AUTORIZA A CORPORACION EXPLOTADORA DE RECURSOS MARINOS MARHEAS LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.447 de 16 de Diciembre de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Corporación Explotadora de Recursos Marinos Marheas Limitada, domiciliada en Santiago, para ampliar actividades pesqueras de cultivo en orden a instalar colectores de semillas del recurso hidrobiológico Ostión del Sur en dos sectores: Estero de las Montañas Lat. 51° 53' 10,00" S; Long. 73° 19' 30,00" W y Canal Santa María Lat. 51° 56' 15,00" S; Long. 73° 01' 30,00" W. Mantendrá instalados los colectores hasta diciembre de 1987. Esta autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 16 de Diciembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
