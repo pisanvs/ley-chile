@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.145, de 29 de mayo de 2000, se expropiaron los lotes de terreno Nºs 7, 13, 14, 15 y 16, superficies 132; 47,52; 3.453,25; 23,86 y 23,86 m² respectivamente, rol de avalúo 162-24, comuna de Puerto Octay, para la obra Camino Nochaco Ensenada sector Bif. Lago Rupanco Pte. Las Cascadas Kms. 10,300 al 31,332.51 y se acordó precio de las indemnizaciones con su propietaria Soc. Agrícola Ganadera y Forestal Pto. Klocker Ltda., ascendente a la cantidad de $9.160.080, para los lotes Nºs 7, 13, 14, 15 y 16.
+
+- Fiscal del Ministerio de Obras Públicas.
