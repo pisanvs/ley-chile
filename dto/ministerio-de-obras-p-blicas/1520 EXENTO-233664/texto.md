@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.520 de fecha 29 de octubre del 2004, se expropiaron los lotes de terreno Nos 18-B y 19, superficies 235 y 150 m², Rol Nº 215-28, comuna de Curepto, VII Región para la obra "Camino Mejoramiento Ruta K-60 y K-16, Sector Mejoramiento Gualleco - Curepto - Puente Lautaro. Tramo Km. 46.180 a Km. 83,91430" y se acordó el valor de indemnización con su propietaria Berta del Carmen Campos Carreño y otros, ascendente a la cantidad de $984.815.- para los lotes Nos 18-B y 19.
+
+Fiscal del Ministerio de Obras Públicas.
