@@ -6,7 +6,7 @@ Decreto con fuerza de ley:
 
 #### Artículo 1
 
-o Las comisiones en el extranjero del personal dependiente del Ministerio de Defensa Nacional y sus remuneraciones se ajustarán exclusivamente a las disposiciones del presente decreto con fuerza de ley, sin perjuicio del beneficio contemplado en el artículo 4.o de la ley número 11,824.
+o Las comisiones en el extranjero del personal dependiente del Ministerio de Defensa Nacional y sus remuneraciones se ajustarán exclusivamente a las disposiciones del presente decreto con fuerza de ley, sin perjuicio del beneficio contemplado los artículos 4° y 5° de la ley N° 11.824.
 
 #### Artículo 2
 
@@ -154,7 +154,7 @@ o Sin perjuicio de lo dispuesto en el artículo 12.o, las remuneraciones del per
 
 a) El personal a quien se cancele sus haberes en todo o parte por Gobiernos extranjeros u Organismos Internacionales, percibirá el sueldo que le corresponde de acuerdo con la escala del artículo 12.o previa deducción de la remuneración que perciba de estos Gobiernos u Organismos Internacionales, de lo que deberá dejar expresa constancia en el decreto supremo de comisión, y
 
-b) Asimismo, el personal a que se refiere el N.o 3 del artículo 2.o, que haga uso de beca y el embarcado en buques de la Armada, aludido en el número 4 del artículo ya mencionado, tendrá derecho a su sueldo en moneda corriente, pudiendo, por decreto supremo, otorgársele una asignación en dólares no superior al equivalente del ya indicado sueldo en moneda corriente.
+b) Asimismo, el personal a que se refiere el N.o 3 del artículo 2.o, que haga uso de beca y el embarcado en buques de la Armada, aludido en el número 4 del artículo ya mencionado, tendrá derecho a las remuneraciones en moneda corriente de que disfrute en el país con exclusión de la asignación familiar y asignación establecida en el artículo 3° de la ley N° 14.603, pudiendo, por decreto supremo, otorgársele una asignación en dólares no superior al equivalente a las ya indicadas remuneraciones en moneda corriente.
 
 Cuando sea necesario, el Presidente de la República, de acuerdo con lo establecido en la letra anterior, fijará el porcentaje en el respectivo decreto supremo que autorice la comisión del buque.
 
