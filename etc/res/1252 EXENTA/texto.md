@@ -1,0 +1,65 @@
+FIJA MENCIONES Y DATOS QUE DEBERAN CONTENER LAS SOLICITUDES DE INSCRIPCION PARA POSTULAR AL PRIMER LLAMADO 1998 DEL SISTEMA GENERAL UNIFICADO DE SUBSIDIO HABITACIONAL; AL LLAMADO A POSTULACION COLECTIVA CON PROYECTOS HABITACIONALES (I LLAMADO 1998); AL LLAMADO A POSTULACION PARA LA ADQUISICION O CONSTRUCCION DE VIVIENDAS EMPLAZADAS EN ZONAS DE RENOVACION URBANA (LLAMADO 1-98) Y AL LLAMADO A POSTULACION COLECTIVA CON PROYECTOS HABITACIONALES EMPLAZADOS EN ZONAS DE RENOVACION URBANA (LLAMADO A-98); DOCUMENTOS QUE DEBERAN ACOMPAÑARSE A ELLAS O EXHIBIRSE; Y SU FORMA DE PRESENTACION
+
+Santiago, 12 de mayo de 1998.- Hoy se resolvió lo que sigue:
+
+Núm. 1.252 exenta.
+
+Visto: El D.S. Nº 44 (V. y U.), de 1988, y sus modificaciones, que regula el Sistema General Unificado de Subsidio Habitacional, en especial lo dispuesto en los artículos 32, 33 y 35 número 3 y en sus Títulos II y III; la resolución exenta Nº 2.383, de fecha 5 de octubre de 1995, publicada en el Diario Oficial del 20 de octubre de 1995, dicto la siguiente
+
+R e s o l u c i ó n:
+
+I.- Para el primer llamado 1998 del Sistema General Unificado de Subsidio Habitacional; para el I llamado 1998 a postulación colectiva con proyectos habitacionales; para el llamado 1-98 a postulación para la adquisición o construcción de viviendas emplazadas en zonas de renovación urbana y para el llamado A-98 a postulación colectiva con proyectos habitacionales emplazados en zonas de renovación urbana se aplicará lo dispuesto en el texto resolutivo de la resolución exenta Nº 2.383, de este Ministerio, de 1995, con las modificaciones que a continuación se indican:
+
+1º.- Numeral I, primera frase de su encabezamiento: Donde dice: ''segundo llamado 1995'', debe decir ''primer llamado 1998''.
+
+2º.- Numeral I, número 4º: Donde dice ''el año 1995'', debe decir ''el año 1998''.
+
+3º.- Numeral I, número 9º, inciso primero: Donde dice ''30 de septiembre de 1995'', debe decir ''30 de abril de 1998''.
+
+4º.- Numeral I, número 9º, inciso segundo: Donde dice:
+
+''8 de noviembre de 1995'', debe decir ''5 de junio de 1998''.
+
+5º.- Numeral I, número 11, primera frase de su encabezamiento: Donde dice: ''18 de octubre y el 8 de noviembre de 1995'', debe decir ''18 de mayo y el 5 de junio de 1998''.
+
+6º.- Numeral I, número 11, letra a): Donde dice: ''30 de septiembre de 1994'', debe decir ''30 de abril de 1997''.
+
+7º.- Numeral I, número 12, letra e): Donde dice ''18 de octubre y el 8 de noviembre de 1995'', debe decir ''18 de mayo y el 5 de junio de 1998''.
+
+8º.- Numeral I, número 12, letra e. 1): Donde dice ''30 de septiembre de 1994'', debe decir ''30 de abril de 1997''.
+
+9º.- Numeral II, primera frase de su encabezamiento: Donde dice : ''II llamado 1995''; ''segundo llamado 1995'';
+
+''llamado 2-95'' y ''llamado B-95'', debe decir: ''I llamado 1998''; ''primer llamado 1998''; ''llamado 1-98'' y ''llamado A-98'', respectivamente.
+
+10.- Numeral II, número 4º, primera frase de su encabezamiento: Donde dice: ''18 de octubre y el 8 de noviembre de 1995'', debe decir ''18 de mayo y el 5 de junio de 1998''.
+
+11.- Numeral II, número 5º, letra h): Donde dice: ''18 de octubre y el 8 de noviembre de 1995'', debe decir ''18 de mayo y el 5 de junio de 1998''.
+
+12.- Agrégase a la letra j) del número 5º del numeral II, la siguiente oración: ''Si en la postulación no se cumpliere con los límites establecidos, serán excluidos los socios, miembros o afiliados excedentes, atendiendo al menor puntaje obtenido por éstos y en caso de empate se dirimirá por sorteo. Si como consecuencia de esta disminución, el número de socios, miembros o afiliados resultante fuere inferior a 10, incluidos los distintos tramos, el grupo, la corporación o fundación, la cooperativa o el respectivo programa habitacional, en su caso, será excluido del proceso de selección.''.
+
+13.- Numeral II, número 5º, letra k): Donde dice ''18 de octubre y el 8 de noviembre de 1995'', debe decir ''18 de mayo y el 5 de junio de 1998''.
+
+14.- Numeral III, primera frase de su encabezamiento: Donde dice: ''llamado 2-95''; ''segundo llamado 1995''; ''II llamado 1995'' y ''llamado B-95'', debe decir: ''llamado 1-98''; ''primer llamado 1998''; ''I llamado 1998'' y ''llamado A-98'', respectivamente.
+
+15.- Numeral III, número 6º, letra d): Donde dice ''18 de octubre y el 8 de noviembre de 1995'', debe decir ''18 de mayo y el 5 de junio de 1998''.
+
+16.- Numeral IV, primera frase de su encabezamiento: Donde dice: ''llamado B-95'', ''segundo llamado 1995''; ''II llamado 1995'' y ''llamado 2-95''; debe decir: ''llamado A-98''; ''primer llamado 1998'', ''I llamado 1998'' y ''llamado 1-98'', respectivamente.
+
+17.- Numeral IV, número 5º, primera frase de su encabezamiento: Donde dice ''18 de octubre y el 8 de noviembre de 1995'', debe decir ''18 de mayo y el 5 de junio de 1998''.
+
+18.- Numeral IV, número 6º, letra d): Donde dice: ''18 de octubre y el 8 de noviembre de 1995'', debe decir ''18 de mayo y el 5 de junio de 1998''.
+
+19.- Agrégase a la letra f) del número 6º del numeral IV, la siguiente oración, reemplazando previamente el punto y coma con que finaliza esa letra, por un punto seguido:
+
+''Si en la postulación no se cumpliere con los límites establecidos, serán excluidos los socios, miembros o afiliados excedentes, atendiendo al menor puntaje obtenido por éstos y en caso de empate se dirimirá por sorteo. Si como consecuencia de esta disminución, el número de socios, miembros o afiliados resultante fuere inferior a 10, incluidos los distintos tramos, el grupo, la corporación o fundación, la cooperativa o el respectivo programa habitacional, en su caso, será excluido del proceso de selección.''.
+
+20.- Numeral IV, número 6º, letra g): Donde dice ''18 de octubre y el 8 de noviembre de 1995'', debe decir ''18 de mayo y el 5 de junio de 1998''.
+
+II.- Las referencias que en la mencionada resolución exenta Nº 2.383, de este Ministerio, de 1995, se hacen a la Ley de Propiedad Horizontal o a la Ley de Venta por Pisos o Propiedad Horizontal, se entenderán referidas a las normas pertinentes de la Ley Nº 19.537, sobre Copropiedad Inmobiliaria.
+
+III.- Las menciones y referencias que en la señalada resolución exenta Nº 2.383, de este Ministerio, de 1995, se hacen a diversas partes de la misma resolución, se deberán entender referidas a esa resolución, en la forma que ella ha sido modificada por esta resolución.
+
+Anótese, publíquese en el Diario Oficial y archívese.- Sergio Henríquez Díaz, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Berta Belmar Ruiz, Subsecretaria de Vivienda y Urbanismo.
