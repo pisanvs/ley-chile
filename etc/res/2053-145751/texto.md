@@ -1,0 +1,3 @@
+Por resolución número 2.053, de 11 de octubre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97110142, presentada por SALMONES MULTIEXPORT LIMITADA, para operar un centro de cultivo ubicado en Isla Tahuenahuec, Estero Medio S/E, Comuna de Cisnes, Provincia de Aysén, XI Región.
+
+Valparaíso, 11 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
