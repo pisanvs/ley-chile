@@ -1,0 +1,3 @@
+Por decreto MOP Nº959, de 30 de marzo de 2000, se modificó el decreto MOP Nº2.043, de 30 de julio de 1999, dejando sin efecto la expropiación de lote Nº14-A, rol de avalúo Nº764-109, comuna de Lampa, que figura a nombre de Alejandro Jacobo Chehade Pinto y otros, Obra: Camino Quilicura-Lampa y se aprobó Convenio Directo de Precio por el lote Nº14-B de Inversiones Trigal S.A. y otro.-
+
+Fiscal del Ministerio de Obras Públicas.
