@@ -1,0 +1,3 @@
+Por Decreto MOP. No 122, de 13 de febrero de 1998, se expropió el lote de terreno No 37-C, superficie 2.647 m2., rol de avalúo 2589-78, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte-Sur, Las Acacias- Río Maipo, y se acordó precio de indemnización con el propietario Silvia Adriana Wilckens Recart y Braulio Wilckens Recart, ascendente a la cantidad de $94.114.271.-
+
+Fiscal del Ministerio de Obras Públicas.
