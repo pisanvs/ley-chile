@@ -1,0 +1,3 @@
+Por resolución No. 219 de 26 de Febrero de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar del 31 de Enero de 1991, el plazo otorgado a HATFIELD INTERNATIONAL S.A., R.U.T. No. 95.435.000-2, domiciliada en la ciudad de Santiago, en el numeral 5° de las resoluciones No. 847 y No. 923, ambas de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 26 de Febrero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
