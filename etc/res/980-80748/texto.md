@@ -1,0 +1,7 @@
+Por resolución No. 980 de 21 de Agosto de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don JORGE POBLETE R.U.T. No. 3.861.194-1, domiciliado en calle Blanco Encalada No. 139, de Lebu, para ampliar actividades pesqueras que tiene autorizada por resolución No. 878 de 1988, de esta Subsecretaría, donde podrá operar la embarcación "Acuario", en el litoral de las Regiones que a continuación se indica, donde podrá extraer los siguientes recursos hidrobiológicos: a) Desde la I a X Región, con enmalle y arpón: Albacora o pez espada. b) Desde Punta Liles a la X Región, con espinel: Bacalao de profundidad o mero.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por el peticionario para extraer con la nave antes mencionada, los recursos hidrobiológicos y en las áreas de pesca no autorizados en el texto de la presente resolución, conforme a lo dispuesto en las normas legales y reglamentarias y a los Informes Técnicos citados en vistos.
+
+Valparaíso, 21 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
