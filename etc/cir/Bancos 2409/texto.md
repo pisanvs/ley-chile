@@ -2224,11 +2224,7 @@ g) Nombre y apellido del último tenedor. Al tratarse de un cheque cobrado por i
 
 h) Causa del protesto.
 
-Las anotaciones en el libro de cheques protestados se harán al momento mismo del protesto. Los cheques que se protesten por falta de fondos o cuenta cerrada registrados en este libro deben ser siempre incluidos en las listas que se envíen al Boletín de Informaciones Comerciales, según lo indicado en el numeral siguiente. Por lo mismo, deberán indicarse en este libro, también, las
-
-observaciones relativas a los cheques pagados con posterioridad a su protesto.
-
-El libro de cheques protestados deberá ser encuadernado y foliado. No obstante,con la autorización previa de esta Superintendencia, los bancos podrán llevar este libro utilizando medios computacionales, siempre que el sistema que se use permita registrar el protesto al momento de hacerse efectivo y cuente con los controles suficientes para asegurar, a juicio de este Organismo, la integridad de la información que el libro de cheques protestados debe contener.
+Las anotaciones en el libro de cheques protestados se harán al momento mismo del protesto. El libro deberá ser encuadernado y foliado. Sin embargo, se podrá llevar por medios computacionales si el sistema utilizado cuenta con suficientes controles para asegurar la integridad de la información registrada en él.
 
 13.9. Envío de nóminas de cheques protestados al Boletín de Informaciones Comerciales.
 
