@@ -1,0 +1,5 @@
+Por resolución No. 407 de 12 de Mayo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA SUR EXPORTACIONES LIMITADA, R.U.T. No. 85.943.600-1, domiciliada en la ciudad de Penco, calle Max Grissar No. 245, para ampliar actividades pesqueras, que tiene autorizada por resolución No. 612, de 1987, de esta Subsecretaría, en orden a incorporar en la línea de proceso de deshidratado el recursos hidrobiólogico denominado pepino de mar, en la planta industrial autorizada por la resolución antes mencionada, ubicada en Sector Lechagua, Comuna de Ancud, Provincia de Chiloé, X Región.
+
+La presente autorización es sin perjucio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 12 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
