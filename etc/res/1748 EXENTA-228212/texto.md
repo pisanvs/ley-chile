@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.748, de esta Subsecretaría, modifícase la resolución Nº 1.125 de 2004, modificada mediante resolución Nº 1.425 de 2004, ambas de esta Subsecretaría que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo y evaluación de la pesquería del Pejerrey de mar (Odontesthes regia), mediante el uso de artes de enmalle y cerco en aguas interiores de la X Región", en el sentido de señalar que la pesca de investigación se extenderá hasta el 31 de octubre de 2004.
+
+Valparaíso, 30 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
