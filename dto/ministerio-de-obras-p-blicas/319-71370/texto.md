@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 319, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs 50, 52 y 53, superficies 331 m2., 2.058 m2. y 111 m2., roles de avalúo 2229-117 y 2229-118, comuna de Chillán, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Narcisa Contreras Castillo y otros, ascendente a las cantidades de $5.235.250.- para el lote Nº 52 y $580.536.- para los lotes Nºs 50 y 53.-
+
+Fiscal del Ministerio de Obras Públicas.
