@@ -1,0 +1,3 @@
+Por decreto MOP Nº 984 de fecha 29 de diciembre del 2004, se expropiaron los lotes de terreno Nº 61, superficie 1.823 m², Rol Nº 168-27, comuna de San Clemente, VII Región para la obra ''Camino Mejoramiento Ruta K-705, sector: Cruce Ruta 115-CH (El Guindo) - Vilches, Tramo Km. 0,0000 a Km. 13,06400 (Ruta K-705) y Km. 35,46000 a Km. 35,80000 (Ruta 115-CH)''. Se acordó el valor de indemnización con su propietario Obispado de Talca, ascendente a la cantidad de $4.129.254.- para el lote Nº 61.
+
+Fiscal del Ministerio de Obras Públicas.
