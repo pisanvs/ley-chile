@@ -1,0 +1,3 @@
+Por resolución Nº 691, de 22 de abril de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 993 de 1992, de esta Subsecretaría, que autorizó a SOCIEDAD PROCESADORA DE ALIMENTOS SOCOVEL LIMITADA, para iniciar actividades pesqueras extractivas con la nave ''Oficina California'', sólo en lo relativo a los recursos Anchoveta, Bonito, Caballa, Cojinoba del norte, Jurel, Machuelo o tritre, Palometa, Sardina española, Sardina común, en el litoral de la III y IV Regiones, con red de cerco.
+
+Valparaíso, 22 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
