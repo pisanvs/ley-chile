@@ -1,0 +1,5 @@
+Por decreto MOP Nº994, de 26 de junio de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº206-
+
+A1, para la obra: "Camino: Ruta 5 Norte. Tramo: Santiago - Los Vilos. Sector: Km. 123.580,00 al Km. 126.400,00"; Quinta Región, que figura a nombre de Vargas Godoy Servando, rol de avalúo 179-24, comuna de Nogales, superficie 988 m2. La comisión de peritos integrada por los señores Pablo Antonio Aragón Bernal, Jorge Gregorio Mendoza Larral y María Cristina Ayala Muñoz, fijó con fecha 12 de enero de 2001, el valor provisional de la indemnización en la cantidad de $3.101.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
