@@ -1342,7 +1342,7 @@ Si la exacción de la contribución o servicio personal se hiciere con ánimo de
 
 Sufrirá la pena de suspensión en sus grados mínimo a medio, si gozare de renta, y la de reclusión menor en su grado mínimo o multa de once a veinte unidades tributarias mensuales, cuando prestare servicios gratuitos, el empleado público que arbitrariamente:
 
-1.° Impidiere la libre publicación de opiniones por la imprenta en la forma prescrita por la ley.
+1.° Derogado.
 
 2.° Prohibiere un trabajo o industria que no se oponga a la ley, a las buenas costumbres, seguridad y salubridad públicas.
 
