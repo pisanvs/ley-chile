@@ -10,195 +10,357 @@ Nombre Vía Tramo
 
 AUTOVIAS
 
-Edmundo Pérez Zujovic P. Aguirre Cerda - Los Tamarugos
+Edmundo Pérez Zujovic P. Aguirre Cerda -
 
-Edmundo Pérez Zujovic Nicolás Tirado - Diagonal Norte
+Los Tamarugos
 
-Carretera Panamericana Límite Urbano - Avda. Ejército
+Edmundo Pérez Zujovic Nicolás Tirado -
 
-Camino Coloso Límite Jardines del Sur - Coloso
+Diagonal Norte
 
-Avda. Ejército Panamericana - Mauret Caamaño,
+Carretera Panamericana Límite Urbano - Avda.
 
-Avda. U. de Chile Panamericana - Jardines del Sur
+Ejército
+
+Camino Coloso Límite Jardines del
+
+Sur - Coloso
+
+Avda. Ejército Panamericana - Mauret
+
+Caamaño,
+
+Avda. U. de Chile Panamericana -
+
+Jardines del Sur
 
 TRONCALES
 
-Diagonal Sur Avda. Andrés Sabella - Concepción
-
-Circunvalación Diagonal Sur - Salar del Carmen
-
-Sicilia Circunvalación - Salar del Carmen
-
-Gral. Oscar Bonilla Salar del Carmen - Rancagua
-
-Avda. Oriental Rancagua - Nicolás Tirado
-
-Avda. Andrés Sabella Chillán - Manuel Antonio Matta
-
-Cautín Manuel Antonio Matta - Pedro Aguirre
-
-Cerda
-
-Avda. Argentina Rivadavia - Avda. 7º de Línea
-
-Iquique Avda. Argentina - Diagonal Norte
-
-Pedro Aguirre Cerda Límite Urbano - Diagonal Norte
-
-Avda. Ejército Mauret Caamaño - Avda. Grecia
-
-Avda. Grecia Avda. Ejército - Manuel Antonio Matta
-
-Avda. Balmaceda Manuel Antonio Matta - Simón Bolívar
-
-7º de Línea - Aníbal Pinto Simón Bolívar - Zenteno
-
-Edmundo Pérez Zujovic Zenteno - Diagonal Norte
-
-Diagonal Norte E. Pérez Zujovic - P. Aguirre Cerda
-
-Gral. Oscar Bonilla Límite Norte - Isabel Riquelme
-
-Calbuco Isabel Riquelme - Magallanes
-
-Araucanía Magallanes - Salar del Carmen
-
-Llanquihue Salar del Carmen - M. Antonio Matta
-
-Manuel Antonio Matta Llanquihue - Avda. Grecia
-
-Edmundo Pérez Zujovic Los Tamarugos - Nicolás Tirado
-
-Santa Guillermina Avda. Argentina - Panamericana
-
-SERVICIO
-
-Huamachuco Límite Urbano Norte - Mateo Toro
-
-Zambrano
-
-Bandera Mateo Toro Zambrano - Isabel Riquelme
-
-Isabel Riquelme Bandera - Avda. Cautín
-
-Teatinos Irarrázabal - Isabel Riquelme
-
-Salar del Carmen Límite Oriente - Tarapacá
-
-Calama Edmundo Pérez Zujovic - Chuquicamata
-
-Manuel Antonio Matta Eleuterio Ramírez - Buenos Aires
-
-Arauco Buenos Aires - Magallanes
-
-Ancud Magallanes - Rancagua
-
-Nicolás Tirado Luis Cruz Martínez - E. Pérez Zujovic
-
-Arica E. Pérez Zujovic - Tarapacá
-
-Paraguay Avda. Cautín - Salar del Carmen
-
-Angamos Víctor Domingo Silva - Antonino Toro
-
-Avda. Bernardo O'Higgins Antonino Toro - Coquimbo
-
-José Santos Ossa Avda. B. O'Higgins - Avda. Argentina
-
-José Miguel Carrera Manuel Antonio Matta - Antonino Toro
-
-COLECTORA DISTRIBUIDORA
-
-Cabo Juan Bolívar Gral. Oscar Bonilla - Pedro Aguirre
-
-Cerda
-
-Sgto. Manuel Silva Gral. O. Bonilla - Héroes de La
+Diagonal Sur Avda. Andrés Sabella -
 
 Concepción
 
-Mateo Toro y Zambrano Luis Cruz Martínez - Morro de Arica
+Circunvalación Diagonal Sur - Salar
 
-Juvenal Morla Gran Avenida - Luis Cruz Martínez
+del Carmen
 
-Irarrázabal Pedro Aguirre Cerda - Luis Cruz
+Sicilia Circunvalación - Salar
+
+del Carmen
+
+Gral. Oscar Bonilla Salar del Carmen -
+
+Rancagua
+
+Avda. Oriental Rancagua - Nicolás
+
+Tirado
+
+Avda. Andrés Sabella Chillán - Manuel
+
+Antonio Matta
+
+Cautín Manuel Antonio Matta-
+
+Pedro Aguirre Cerda
+
+Avda. Argentina Rivadavia - Avda.
+
+7º de Línea
+
+Iquique Avda. Argentina -
+
+Diagonal
+
+Norte
+
+Pedro Aguirre Cerda Límite Urbano -
+
+Diagonal
+
+Norte
+
+Avda. Ejército Mauret Caamaño -
+
+Avda. Grecia
+
+Avda. Grecia Avda. Ejército -
+
+Manuel
+
+Antonio Matta
+
+Avda. Balmaceda Manuel Antonio Matta -
+
+Simón Bolívar
+
+7º de Línea - Aníbal Simón Bolívar - Zenteno
+
+Pinto
+
+Edmundo Pérez Zujovic Zenteno - Diagonal Norte
+
+Diagonal Norte E. Pérez Zujovic - P.
+
+Aguirre Cerda
+
+Gral. Oscar Bonilla Límite Norte - Isabel
+
+Riquelme
+
+Calbuco Isabel Riquelme -
+
+Magallanes
+
+Araucanía Magallanes - Salar
+
+del Carmen
+
+Llanquihue Salar del Carmen -
+
+M. Antonio
+
+Matta
+
+Manuel Antonio Matta Llanquihue - Avda.
+
+Grecia
+
+Edmundo Pérez Zujovic Los Tamarugos -
+
+Nicolás Tirado
+
+Santa Guillermina Avda. Argentina -
+
+Panamericana
+
+SERVICIO
+
+Huamachuco Límite Urbano Norte -
+
+Mateo Toro
+
+Zambrano
+
+Bandera Mateo Toro Zambrano -
+
+Isabel
+
+Riquelme
+
+Isabel Riquelme Bandera - Avda. Cautín
+
+Teatinos Irarrázabal - Isabel
+
+Riquelme
+
+Salar del Carmen Límite Oriente -
+
+Tarapacá
+
+Calama Edmundo Pérez Zujovic -
+
+Chuquicamata
+
+Manuel Antonio Matta Eleuterio Ramírez -
+
+Buenos Aires
+
+Arauco Buenos Aires -
+
+Magallanes
+
+Ancud Magallanes - Rancagua
+
+Nicolás Tirado Luis Cruz Martínez -
+
+E. Pérez
+
+Zujovic
+
+Arica E. Pérez Zujovic -
+
+Tarapacá
+
+Paraguay Avda. Cautín - Salar
+
+del Carmen
+
+Angamos Víctor Domingo Silva -
+
+Antonino
+
+Toro
+
+Avda. Bernardo Antonino Toro - Coquimbo
+
+O'Higgins
+
+José Santos Ossa Avda. B. O'Higgins - Avda.
+
+Argentina
+
+José Miguel Carrera Manuel Antonio Matta -
+
+Antonino Toro
+
+COLECTORA DISTRIBUIDORA
+
+Cabo Juan Bolívar Gral. Oscar Bonilla -
+
+Pedro Aguirre
+
+Cerda
+
+Sgto. Manuel Silva Gral. O. Bonilla -
+
+Héroes de
+
+La Concepción
+
+Mateo Toro y Zambrano Luis Cruz Martínez -
+
+Morro de Arica
+
+Juvenal Morla Gran Avenida - Luis Cruz
+
+Martínez
+
+Irarrázabal Pedro Aguirre Cerda -
+
+Luis Cruz
 
 Martínez
 
 Rancagua Cautín - Fresia
 
-Vicuña Avda. Cautín - Puerto Natales
+Vicuña Avda. Cautín - Puerto
 
-Paihuano Edmundo Pérez Zujovic - Gral. Oscar
+Natales
 
-Bonilla
+Paihuano Edmundo Pérez Zujovic -
 
-Huasco Pedro Aguirre Cerda - Gral. Oscar
+Gral.
 
-Bonilla
+Oscar Bonilla
+
+Huasco Pedro Aguirre Cerda -
+
+Gral. Oscar Bonilla
 
 Fresia Rancagua - Independencia
 
-Independencia Fresia - Gral. Oscar Bonilla
-
-Morro de Arica Cabo Juan Bolívar - Avda. Cautín
-
-Morro del Salar Sgto. Manuel Silva - Nicolás Tirado
-
-Gran Avenida Nicolás Tirado - Avda. Cautín
-
-Cap. Ignacio Carrera Pinto Héroes de La Concepción - Gral. O.
+Independencia Fresia - Gral. Oscar
 
 Bonilla
 
-Los Tamarugos Pedro Aguirre Cerda - Edmundo Pérez
+Morro de Arica Cabo Juan Bolívar -
+
+Avda. Cautín
+
+Morro del Salar Sgto. Manuel Silva -
+
+Nicolás
+
+Tirado
+
+Gran Avenida Nicolás Tirado - Avda.
+
+Cautín
+
+Cap. Ignacio Héroes de La Concepción -
+
+Gral. O.
+
+Carrera Pinto Bonilla
+
+Los Tamarugos Pedro Aguirre Cerda -
+
+Edmundo Pérez
 
 Zujovic
 
-Los Almendros Los Tamarugos - Los Pimientos
+Los Almendros Los Tamarugos - Los
 
-Los Aromos Los Tamarugos - Los Naranjos
+Pimientos
 
-Los Chañares Pedro Aguirre Cerda - Edmundo Pérez
+Los Aromos Los Tamarugos - Los
+
+Naranjos
+
+Los Chañares Pedro Aguirre Cerda -
+
+Edmundo Pérez
 
 Zujovic
 
-Los Naranjos Edmundo Pérez Zujovic - Los Pinos
+Los Naranjos Edmundo Pérez Zujovic -
 
-Los Pinos Los Naranjos - Los Chañares
+Los Pinos
 
-Calle del Alto Los Naranjos - Los Pimientos
+Los Pinos Los Naranjos - Los
 
-Los Pimientos Edmundo Pérez Zujovic - Los Aromos
+Chañares
 
-El Roble Ignacio Carrera Pinto - Juvenal Morla
+Calle del Alto Los Naranjos - Los
 
-Héroes de La Concepción Límite Norte - Nicolás Tirado
+Pimientos
 
-Avda. Industrial Nicolás Tirado - Avda. Cautín
+Los Pimientos Edmundo Pérez Zujovic -
 
-Sarmiento Puerto Natales - Paraguay
+Los Aromos
+
+El Roble Ignacio Carrera Pinto -
+
+Juvenal Morla
+
+Héroes de La Límite Norte - Nicolás
+
+Concepción Tirado
+
+Avda. Industrial Nicolás Tirado -
+
+Avda. Cautín
+
+Sarmiento Puerto Natales -
+
+Paraguay
 
 Alcalde Harris Huasco - Claudio Gay
 
-Claudio Gay Alcalde Harris - Gral. Oscar Bonilla
+Claudio Gay Alcalde Harris - Gral.
+
+Oscar Bonilla
 
 Castro Rancagua - Magallanes
 
-Magallanes Avda. Cautín - Puerto Natales
+Magallanes Avda. Cautín - Puerto
+
+Natales
 
 Traiguén Paihuano - Huasco
 
-Nicolás González Nicolás Tirado - Juvenal Morla
+Nicolás González Nicolás Tirado -
 
-México Avda. Cautín - Talcahuano
+Juvenal
 
-Talcahuano Salar del Carmen - México
+Morla
 
-Río de Janeiro Llanquihue - Avda. Cautín
+México Avda. Cautín -
 
-Río de Janeiro Iquique - Edmundo Pérez Zujovic
+Talcahuano
+
+Talcahuano Salar del Carmen -
+
+México
+
+Río de Janeiro Llanquihue - Avda.
+
+Cautín
+
+Río de Janeiro Iquique - Edmundo
+
+Pérez Zujovic
 
 Montevideo Valdivia - Arauco
 
@@ -210,11 +372,13 @@ Condell 21 de Mayo - Valdivia
 
 San Martín 21 de Mayo - Bolívar
 
-Bolívar Avda. Balmaceda - Manuel Rodríguez
+Bolívar Avda. Balmaceda - Manuel
 
-14 de Febrero Avda. Argentina - Avda. Andrés
+Rodríguez
 
-Sabella
+14 de Febrero Avda. Argentina - Avda.
+
+Andrés Sabella
 
 Méndez Condell - 14 de Febrero
 
@@ -224,137 +388,279 @@ Pasaje San Martín Bolívar - Avda. Argentina
 
 Tarapacá Iquique - Arica
 
-Sucre Avda. Andrés Sabella - Avda.
+Sucre Avda. Andrés Sabella -
 
-Balmaceda
+Avda. Balmaceda
 
-Maipú Avda. Balmaceda - Saavedra
+Maipú Avda. Balmaceda -
 
-Uribe Avda. Argentina - San Martín
+Saavedra
+
+Uribe Avda. Argentina -
+
+San Martín
 
 Orella Latorre - Saavedra
 
-21 de Mayo Andrés Sabella - San Martín
+21 de Mayo Andrés Sabella - San
+
+Martín
 
 Eduardo Lefort 21 de Mayo - Díaz Gana
 
-Copiapó Manuel Antonio Matta - Avda.
+Copiapó Manuel Antonio Matta -
 
-Argentina
+Avda.Argentina
 
-Antonio Poupín Avda. Argentina - Galleguillos Lorca
+Antonio Poupín Avda. Argentina -
 
-Galleguillos Lorca Antonio Poupín - Club Hípico
+Galleguillos Lorca
 
-Playa Blanca Avda. Argentina - Galleguillos Lorca
+Galleguillos Antonio Poupín -
 
-Díaz Gana Avda. Angamos - Avda. Andrés Sabella
+Club Hípico
 
-Concepción Avda. Andrés Sabella - Avda.
+Lorca
 
-Circunvalación
+Playa Blanca Avda. Argentina -
 
-Pezoa Véliz Avda. Argentina - Nicanor Plaza
+Galleguillos Lorca
+
+Díaz Gana Avda. Angamos - Avda.
+
+Andrés Sabella
+
+Concepción Avda. Andrés Sabella -
+
+Avda. Circunvalación
+
+Pezoa Véliz Avda. Argentina - Nicanor
+
+Plaza
 
 Eduardo Orchard Nicanor Plaza - Díaz Gana
 
-Nicanor Plaza Avda. Argentina - Gabriela Mistral
+Nicanor Plaza Avda. Argentina - Gabriela
+
+Mistral
 
 Puerto Natales Rancagua - Magallanes
 
-Gabriela Mistral Nicanor Plaza - Luis Mancilla
+Gabriela Mistral Nicanor Plaza - Luis
 
-Augusto D'Halmar Avda. Angamos - Pezoa Véliz
+Mancilla
 
-Luis Mancilla Gabriela Mistral - Avda. Angamos
+Augusto Avda. Angamos - Pezoa
 
-Virgilio Arias Avda. Ejército - Avda. Angamos
+Véliz
 
-Mauret Caamaño Avda. Ejército - Avda. Angamos
+D'Halmar
 
-Víctor Domingo Silva Avda. Angamos - Blumell
+Luis Mancilla Gabriela Mistral - Avda.
+
+Angamos
+
+Virgilio Arias Avda. Ejército - Avda.
+
+Angamos
+
+Mauret Caamaño Avda. Ejército - Avda.
+
+Angamos
+
+Víctor Domingo Avda. Angamos - Blumell
+
+Silva
 
 Mar del Plata Santa Elena - Santa Marta
 
-Santa Elena Mar del Plata - Avda. Argentina
+Santa Elena Mar del Plata - Avda.
+
+Argentina
 
 Santa Cruz Avda. Argentina - Santa Elena
 
 Avda. Mejillones Diagonal Norte - Arica
 
-Serena Avda. Mejillones - Avda. Cautín
+Serena Avda. Mejillones - Avda.
 
-Vallenar Avda. Cautín - Avda. Mejillones
+Cautín
+
+Vallenar Avda. Cautín - Avda.
+
+Mejillones
 
 Loa Serena - Vallenar
 
-Collico Avda. Argentina - Huellehue
+Collico Avda. Argentina -
 
-Mehuín Huellehue - Avda. Argentina
+Huellehue
 
-Huellehue Avda. Argentina - Antilhue
+Mehuín Huellehue - Avda.
+
+Argentina
+
+Huellehue Avda. Argentina -
+
+Antilhue
 
 Saavedra 21 de Mayo - Maipú
 
-Valdivia Montevideo - Manuel Antonio Matta
+Valdivia Montevideo - Manuel
+
+Antonio Matta
 
 Bellavista Calama - Zenteno
 
-Zenteno Avda. 7º de Línea - Iquique
+Zenteno Avda. 7º de Línea -
 
-Blumell Víctor Domingo Silva - Rebeca Matte
+Iquique
 
-Rebeca Matte Blumell - Gabriela Mistral
+Blumell Víctor Domingo Silva -
 
-Juan Gutemberg Pedro Aguirre Cerda - Gran Avenida
+Rebeca Matte
 
-Pantaleón Cortés Gran Avenida - Pedro Aguirre Cerda
+Rebeca Matte Blumell - Gabriela
 
-Leonardo Da Vinci Gral. Oscar Bonilla - Morro de Arica
+Mistral
+
+Juan Gutemberg Pedro Aguirre Cerda - Gran
+
+Avenida
+
+Pantaleón Cortés Gran Avenida - Pedro
+
+Aguirre Cerda
+
+Leonardo Da Gral. Oscar Bonilla -
+
+Morro de Arica
+
+Vinci
 
 Antilhue Collico - Mehuín
 
-Illapel Salar del Carmen - Serena
+Illapel Salar del Carmen -
 
-Osorno Magallanes - Salar del Carmen
+Serena
+
+Osorno Magallanes - Salar
+
+del Carmen
 
 Esmeralda Maipú - Orella
 
 Esmeralda Avda. Argentina - Sucre
 
-Rodrigo de Triana Mar del Plata - Avda. Argentina
+Rodrigo de Mar del Plata - Avda.
 
-Caracoles Avda. Argentina - Buenos Aires
+Argentina
+
+Triana
+
+Caracoles Avda. Argentina -
+
+Buenos Aires
 
 Buenos Aires Valdivia - Iquique
 
-Clodomiro Rozas Gral. Oscar Bonilla - El Roble
+Clodomiro Rozas Gral. Oscar Bonilla -
 
-Sangra Ramón Freire - Avda. Ejército
+El Roble
 
-Ramón Freire Sangra - Víctor Domingo Silva
+Sangra Ramón Freire - Avda.
+
+Ejército
+
+Ramón Freire Sangra - Víctor
+
+Domingo Silva
 
 Manuel Rodríguez Bolívar - Díaz Gana
 
-El Onix Pedro Aguirre Cerda - Edmundo Pérez
+El Onix Pedro Aguirre Cerda -
+
+Edmundo Pérez
 
 Zujovic
 
-Luis Cruz Martínez Nicolás Tirado - Irarrázabal
+Luis Cruz Nicolás Tirado -
 
-Juan Glasinovic Pedro Aguirre Cerda - Gran Avenida
+Irarrázabal
 
-El Tepual Pedro Aguirre Cerda - Edmundo Pérez
+Martínez
+
+Juan Glasinovic Pedro Aguirre Cerda -
+
+Gran Avenida
+
+El Tepual Pedro Aguirre Cerda -
+
+Edmundo Pérez
 
 Zujovic
 
-Chacalluta Edmundo Pérez Zujovic - Pedro Aguirre
+Chacalluta Edmundo Pérez Zujovic -
+
+Pedro Aguirre
 
 Cerda
 
 Pudahuel Chacalluta - El Tepual
 
 Cerro Moreno El Tepual - La Florida
+
+Washington Bolívar - Uribe
+
+San Martín Bolívar - Av. Grecia
+
+Latorre Valdivia - Av. Grecia
+
+Condell Valdivia - Av. Grecia
+
+Matta Buenos Aires -
+
+Av. Grecia
+
+Ossa Méndez - Av. O'Higgins
+
+14 de Febrero Méndez - Av. O'Higgins
+
+Bolívar Av. Balmaceda -
+
+M. Rodríguez
+
+Sucre Av. Balmaceda -
+
+Av. A. Sabella
+
+Prat Av. Balmaceda -
+
+Av. A. Sabella
+
+Baquedano Av. Balmaceda -
+
+M. Rodríguez
+
+Maipú Av. Balmaceda -
+
+M. Rodríguez
+
+Uribe Av. Balmaceda -
+
+M. Rodríguez
+
+Orella San Martín -
+
+M. Rodríguez
+
+21 de Mayo Av. Balmaceda -
+
+Av. A. Sabella
+
+Copiapó Av. Balmaceda -
+
+Av. Argentina
 
 2.- Cualquier modificación a las características físicas u operacionales de las vías antes individualizadas, que alteren el desplazamiento de los vehículos y/o personas, deberá ser aprobada por esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones.
 
