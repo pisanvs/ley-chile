@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.175, de 7 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL.
+
+No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL. No. 206 de 1960, se expropió el lote de terreno No. 165, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, sector km. 117.500,00 al 120.500,00, V Región, que figuran a nombre de Vásquez Serrano Arturo y otro, rol de avalúo 171-38, de la comuna de Nogales, superficie 4.091 m2. La Comisión de Peritos integrada por los Sres. Orlando Antonio Fariña Vásquez, Luis Humberto Toledo Fuenzalida y Tommy Cederic Butler Bustamante, fijó con fecha 16 de noviembre de 1997, el valor provisional de la indemnización en la cantidad de $ 13.987.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
