@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.919, de 16 de mayo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 12 y 34, para la ejecución de la obra Camino Ruta D-597 Monte Patria Caren, Sector Juntas - Caren, Tramo Km.
+
+8.260,00 a Km. 30.065,19, que figuran a nombre de Federico Blanc Reyes y José Mercedes Vega, Roles de Avalúo 42-5 y 230-16, de la comuna de Monte Patria, IV Región, superficies 106,00 y 19,50 m2. La Comisión Peritos compuesta por José Antonio Valdés Herreros, Iris Marcich Moller y Pelayo Vial Vial, fijó con fecha 4 de diciembre de 1998, la indemnización provisional en la cantidad de $188.600, lote 12 y $102.700, lote 34, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
