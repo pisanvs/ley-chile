@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.488, de 31 de agosto de 1999, se expropió el lote de terreno Nº137, superficie 2.493 m², rol de avalúo 1404-63, comuna de Puerto Varas, para la obra "Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Enlace La Laja", Décima Región y se acordó el valor de indemnización con su propietaria Constructora América S.A., ascendente a la cantidad de $8.110.627.-
+
+Fiscal del Ministerio de Obras Públicas.
