@@ -1,0 +1,3 @@
+Por decreto MOP Nº 504, de 28 de febrero de 2000, se expropió el lote de terreno Nº 40, superficie 1.587,50 m2., rol de avalúo 212-40, comuna de Teodoro Schmidt, obra Camino Costero Sur, sector Tranapuente-Puerto Saavedra Porma, Tramo Chelle-Hualpin y se acordó precio de indemnización con su propietaria Silvia Sandoval Rojas, ascendente a la cantidad de $3.518.663.
+
+Fiscal del Ministerio de Obras Públicas.
