@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 247, de fecha 31 de marzo de 2003, se expropiaron los lotes de terreno Nºs 100 y 101, superficie 39 y 220 m2, respectivamente, sin Rol, comuna de Alto del Carmen, III Región, para la obra "Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 a Km. 70,000, Etapa III" y se acordó el valor de indemnización con su propietario Luis Cristián Gougain Ibarbe, ascendente a la cantidad de $2.325.795.-
+
+Fiscal del Ministerio de Obras Públicas.
