@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.267, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº3-1, superficie 51 m2., rol de avalúo Nº592-6, comuna de Yungay, para la obra "Area de Riego Yungay, Canal San José Ramal 9 Faja Adicional y Prolongación Km. 0,513 al Km. 0,801 del Proyecto Laja Diguillín", y se acordó el valor de indemnización con su propietario Desiderio Omar Cid Herrera y Otra, ascendente a la cantidad de $130.423.-
+
+Fiscal del Ministerio de Obras Públicas.
