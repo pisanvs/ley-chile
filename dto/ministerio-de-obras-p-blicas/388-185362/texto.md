@@ -1,0 +1,3 @@
+Por decreto MOP Nº388 de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº64, superficie 67 m2, rol de avalúo 502-4, comuna de Retiro, para la obra "Camino Ruta L-75, sector El Ajial - Las Camelias Tramo: Kms. 6,320.00 al 23,400.00" y se acordó el valor de indemnización con su propietario Florencio Antonio Sotomayor Prado, ascendente a la cantidad de $307.456.
+
+Fiscal del Ministerio de Obras Públicas.
