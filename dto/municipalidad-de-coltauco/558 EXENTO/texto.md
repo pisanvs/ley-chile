@@ -1,0 +1,3 @@
+Por decreto exento Nº 558 de fecha 19 de agosto de 2003, se expropió el lote Nº 8, superficie de 4.309,00 m², DTO 337, Rol de Avalúo Nº 8-5, comuna de Coltauco, para el proyecto M. DE COLTAUCO "Construcción Lotes con Servicio Coltauco Centro II D.O. 19.06.2004 Etapa", propietarias doña Irene Carmen Irribarra Guajardo y doña Juana Isabel Irribarra Guajardo, ascendente a la suma de $9.212.490.
+
+Coltauco, agosto 27 de 2003.- Beatriz del C. Caro Monsalve, Secretaria Municipal.
