@@ -1,0 +1,3 @@
+Por resolución Nº 1.716 de 30 de noviembre de 1998 de esta Subsecretaría, déjase sin efecto la resolución Nº 1.503 de 1996, de esta Subsecretaría, que autorizó a MARCO ANTONIO TARIS LAGOS, para instalar y operar el centro de cultivo ubicado en Puerto Voigue, Isla Taucolón, comuna de Quemchi, provincia de Chiloé, X Región.
+
+Valparaíso, 30 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
