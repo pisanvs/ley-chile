@@ -1,0 +1,3 @@
+Por decreto MOP Nº 299, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 5, superficie 1.251,78 m2, rol de avalúo 5056-21, comuna de Barranco Amarillo, para la obra "Construcción Caleta de Pescdores de Punta Arenas en Barranco Amarillo" y se acordó el valor de indemnización con su propietario Pedro Antonio Barría Pérez, ascendente a la cantidad de $2.971.841.-
+
+Fiscal del Ministerio de Obras Públicas.
