@@ -2666,6 +2666,8 @@ En las cuentas de ahorro pueden depositarse, además de dinero efectivo, cheques
 
 Se recomienda, sin embargo, a las instituciones financieras que, con el fin de prevenir hechos delictuosos, se abstengan de aceptar depósitos en cuentas de ahorro de personas naturales, constituidos por cheques u otros documentos extendidos a la orden de personas diferentes del titular de la cuenta, y en caso alguno aceptar tales depósitos cuando los beneficiarios de los documentos sean personas jurídicas. No obstante lo expuesto, siempre será admisible que el propio girador de un cheque extendido a su nombre, a su orden o al portador, lo endose para depositarlo en alguna cuenta de ahorro ajena.
 
+Con el mismo objeto antes expresado, conviene que los bancos tampoco acepten depósitos en cheques u otros documentos extendidos a nombre del propio titular de la cuenta o a su orden, cuando su importe exceda de UF 100, salvo que se trate de abonos originados en convenios de pago de remuneraciones. Esta recomendación deriva de la circunstancia de que la apertura de cuentas de ahorro no está sujeta a los requisitos establecidos para la cuenta corriente y, por lo tanto, se presta a un mal uso de ellas por personas inescrupulosas.
+
 A los depósitos que se efectúen en cuentas de ahorro, conformados por cheques y documentos a cargo de bancos de la misma plaza, al igual que los constituidos por instrumentos girados contra oficinas bancarias ubicadas en otras plazas, les son aplicables las disposiciones del Capítulo 3-1 de esta Recopilación de Normas, que establece los plazos de retención obligatoria para los valores en cobro.
 
 ### 7. Giros
