@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.815 de 5 de julio de 2004, de esta Subsecretaría, recházase la solicitud de modificación de proyecto técnico Nº 99103126 presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES ALGUEROS HUYAR BAJO, Comuna de Curaco de Vélez, para el centro de cultivo ubicado en Huyar Bajo, X Región, otorgado mediante resolución Nº 1.822 de 1996, de la Subsecretaría de Marina.
+
+Valparaíso, 5 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
