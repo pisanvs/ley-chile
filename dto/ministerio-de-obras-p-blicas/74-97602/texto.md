@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 74, de 30 de enero de 1998, se expropió el lote de terreno N° 22, superficie 67 m2., rol de avalúo 1065-1, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería, para el Sistema Norte - Sur, Las Acacias - Río Maipo y se acordó precio de la indemnización con su propietario don Dunav Milic Queirolo, ascendente a la cantidad de $4.081.488.
+
+Fiscal del Ministerio de Obra Públicas.
