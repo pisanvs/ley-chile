@@ -1,0 +1,3 @@
+Por resolución No. 730, de 31 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año, a contar del 20 de junio de 1992, el plazo otorgado a PESQUERA SANTA LUCIA S.A., R.U.T. No. 96.527.920-2, domiciliada en Valparaíso, en el numeral 5° de la resolución No. 1791, de 1989, de esta Subsecretaría, respecto de la nave "DOLFYN" (ex "ORA ET LABORA"), en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 31 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
