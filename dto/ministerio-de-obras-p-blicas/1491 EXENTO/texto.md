@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº2.034, de 31 de diciembre de 2001, modificado por decreto exento MOP Nº1.491, de 23 de octubre de 2002 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 37-1 y 37-2 para la obra:
+
+''Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli. Sector: Km. 522.800,00 al Km. 527.100,00 By-Pass San Carlos de Purén'' Octava Región, que figuran a nombre de Neuman Pacheco Ruth Edith y otros, rol de avalúo 608-19, comuna de Mulchén, superficies de 1.480 m2 y 438 m2, respectivamente. La comisión de peritos integrada por los señores Karin Alicia Ernst Elizalde, Christian Cornelio Scherpenisse Infante y Omar Andrés Aspé Neira, fijó con fecha 27 de agosto de 2001, el valor provisional de la indemnización en las cantidades de $1.703.900.- para el lote Nº37-1 y $534.640.- para el lote Nº37-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
