@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 538, de 31 de julio de 1996, se expropiaron los lotes de terreno N°s. 29, 34, 36, 52, 53, 75, 82 y 83, superficies 390, 77, 205, 1.039, 5, 668, 75, 150 y 75 M2, respectivamente, roles de avalúos 220-25, 207-9, 208-15, 220-8, 220-42, 217-47 y 240-3, comuna de San Javier y Villa Alegre, para la obra Camino Ruta 5, Longitudinal Sur, Sector San Javier-Parral I, Tramo A, y se acordó precio de indemnización con sus propietarios, Irma Ramírez Sáez, Saladino Ruiz Ruiz, Pedro Zúñiga Sepúlveda, Guillermina Bueno Campos, Floripa Unda Gaete, María Meza Silva y Edgardo Bruna de la Maza, ascendente a las cantidades de $9.803.790, $954.550, $2.391.990, $ 81.586.152, $ 7.905.920, $ 595.190, $ 1.127.492 y $ 505.350.
+
+Fiscal del Ministerio de Obras Públicas.
