@@ -1,0 +1,3 @@
+Por decreto M.O P: No. 116, de 25 de abril de 1990, se expropiaron los lotes No. s. 30, 31 y 50, superficies 1.119 m2., 1.040 m2. y 308 m2., rol de avalúo para todos los lotes 5004-70, Comuna de Coronel, para la obra Ampliación Ruta 160, Camino Concepción-Coronel y se acordó precio de indemnización con sus propietarios Tulio E. Mossó Iturra, Bernarda Oportus Carrera y Heraldo W. Silva Silva, ascendente a las sumas de $ 1.181.811.-, $ 1.111.149.- y $ 365.604.-respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
