@@ -15526,7 +15526,7 @@ I.- INVERSIONES EN SOCIEDADES EN EL PAIS QUE PUEDEN MANTENER LAS INSTITUCIONES F
 
 Los bancos y sociedades financieras pueden participar en las siguientes sociedades constituidas en el país, con la autorización previa de esta Superintendencia:
 
-a) Sociedades filiales según lo establecido en el artículo 70 de la Ley General de Bancos, tratadas en el título II de este Capítulo;
+a) Sociedades filiales según lo establecido en el artículo 70 de la Ley General de Bancos y en el artículo 23 bis del D.L. N° 3.500, tratadas en el título II de este Capítulo;
 
 b) Sociedades de apoyo al giro según lo dispuesto en el artículo 74 de la Ley General de Bancos y a lo instruido en el título III de este Capítulo; y,
 
@@ -15576,11 +15576,15 @@ m) Sociedades inmobiliarias en los términos señalados en la Ley N° 19.281 y q
 
 n) Administradoras de fondos de vivienda (AFV) a que se refiere el artículo 55 de la Ley N° 19.281.
 
+Según el D.L. N° 3.500:
+
+ñ) Sociedades administradoras de carteras de recursos previsionales, a que se refiere artículo 23 bis del D.L. N° 3.500.
+
 Además de las sociedades antes mencionadas, la ley permite la constitución de filiales que presten servicios financieros con el giro específico que sea determinado por esta Superintendencia por norma de carácter general.
 
 Cada sociedad filial tendrá como objeto exclusivo el giro que le corresponda de acuerdo a la actividad para la cual se crea, según lo señalado en los literales anteriores, salvo en el caso de las sociedades indicadas en la letra a), las que podrán complementar su giro principal con la actividad de asesorías financieras a que se refiere la letra i) , siempre que lo admitan las normas pertinentes.
 
-Las sociedades filiales podrán estar constituidas como sociedades anónimas abiertas o cerradas, o bien como sociedades de responsabilidad limitada. En todo caso, las sociedades que se rigen por la Ley N° 19.281, mencionadas en las letras m) y n), deben estar constituidas como sociedades anónimas.
+Las sociedades filiales podrán estar constituidas como sociedades anónimas abiertas o cerradas, o bien como sociedades de responsabilidad limitada. En todo caso, las sociedades que se rigen por la Ley N° 19.281, mencionadas en las letras m) y n), como asimismo las que se rigen por el D.L. N° 3.500 indicadas en la letra ñ), deben estar constituidas como sociedades anónimas.
 
 La razón social de las sociedades de que trata este título deberá indicar claramente el giro de la empresa y no contener expresiones que puedan inducir a error en cuanto a su objeto.
 
@@ -15594,7 +15598,7 @@ En todo caso, los socios que participen directa o indirectamente en el capital c
 
 3.- Requisitos para constituir filiales.
 
-Las instituciones financieras que deseen constituir una sociedad filial de acuerdo con lo establecido en el articulo 70 de la Ley General de Bancos, deberán solicitar por escrito la autorización de esta Superintendencia, para cuyo efecto deberán cumplir los siguientes requisitos:
+Las instituciones financieras que deseen constituir una sociedad filial de acuerdo con lo establecido en el articulo 70 de la Ley General de Bancos o en el artículo 23 bis del D.L N° 3.500, deberán solicitar por escrito la autorización de esta Superintendencia, para cuyo efecto deberán cumplir los siguientes requisitos:
 
 a) Mantener el capital básico y patrimonio efectivo mínimos que exige el artículo 66 de la Ley General de Bancos, tratados en el Capítulo 12-1 de esta Recopilación.
 
@@ -15616,7 +15620,7 @@ Si la institución financiera solicitante se encuentra en categoría I según la
 
 5.- Estatutos.
 
-Para otorgar la autorización correspondiente, este Organismo deberá dar su aprobación a los estatutos de la sociedad filial. Cualquier modificación de tales estatutos requerirá también la aprobación de esta Superintendencia. Sin embargo, cuando se trate de empresas filiales cuya fiscalización corresponda a la Superintendencia de Valores y Seguros, sólo se requerirá que dichos estatutos y sus eventuales modificaciones sean puestos en conocimiento previo de esta Superintendencia. En este último caso, si las modificaciones consisten en aumentos o disminuciones de capital o significan alteraciones en el porcentaje de participación del banco en su filial, se deberá obtener la conformidad previa de este Organismo para efectuarlas.
+Para otorgar la autorización correspondiente, este Organismo deberá dar su aprobación a los estatutos de la sociedad filial. Cualquier modificación de tales estatutos requerirá también la aprobación de esta Superintendencia. Sin embargo, cuando se trate de empresas filiales cuya fiscalización corresponda a otra superintendencia, sólo se requerirá que dichos estatutos y sus eventuales modificaciones sean puestos en conocimiento previo de esta Superintendencia. En este último caso, si las modificaciones consisten en aumentos o disminuciones de capital o significan alteraciones en el porcentaje de participación del banco en su filial, se deberá obtener la conformidad previa de este Organismo para efectuarlas.
 
 6.- Cambios en la participación en una sociedad filial.
 
@@ -15626,7 +15630,7 @@ Los cambios en la participación de terceros en el capital de las filiales deber
 
 7.- Fiscalización de las sociedades filiales.
 
-Las sociedades a que se refiere la letra a) del artículo 70 de la Ley General de Bancos, como asimismo las administradoras de fondos de vivienda (AFV), están sujetas a la fiscalización de la Superintendencia de Valores y Seguros. A estas sociedades les serán aplicables, además de todas las normas dictadas por ese Organismo, aquéllas de carácter general relativas a filiales de instituciones financieras impartidas por esta Superintendencia.
+Las sociedades a que se refiere la letra a) del artículo 70 de la Ley General de Bancos, como asimismo las administradoras de fondos de vivienda (AFV), están sujetas a la fiscalización de la Superintendencia de Valores y Seguros. Por su parte, las sociedades administradoras de carteras de recursos previsionales son fiscalizadas por la Superintendencia de Administradoras de Fondos de Pensiones. Todas estas sociedades deben regirse por las normas dictadas por sus respectivos organismos fiscalizadores, dentro de las condiciones generales establecidas por esta Superintendencia para desarrollo del giro de las filiales de instituciones financieras.
 
 Todas las sociedades filiales distintas de las mencionadas en el párrafo precedente quedan sujetas a la fiscalización de esta Superintendencia y, por lo tanto, les son aplicables las disposiciones del Título I de la Ley General de Bancos y las normas que este Organismo les imparta, de acuerdo con las facultades que le confiere la ley.
 
@@ -15640,11 +15644,11 @@ Asimismo, esos valores deberán ser clasificados por evaluadores privados inscri
 
 9.- Administración y funcionamiento de las sociedades filiales.
 
-No existe inconveniente para que los directores o los empleados de la institución financiera matriz, sean directores de una sociedad filial.
+No existe inconveniente para que los directores o los empleados de la institución financiera matriz, sean directores de una sociedad filial, siempre que lo admitan las disposiciones que rigen a esta última.
 
 Las sociedades filiales deberán tener gerente, personal, local, equipamiento y servicios independientes de la institución financiera matriz.
 
-No obstante, en el marco de las instrucciones que se indican en los numerales siguientes, el banco o sociedad financiera matriz podrá prestar a sus filiales diversos servicios tendientes a facilitar las actividades comerciales o administrativas de éstas.
+No obstante, en el marco de las instrucciones que se indican en los numerales siguientes, en los casos en que las normas que rigen a la respectiva filial lo permitan el banco o sociedad financiera matriz podrá prestar a sus filiales diversos servicios tendientes a facilitar las actividades comerciales o administrativas de éstas.
 
 9.1.- Utilización de las sucursales de la matriz para promover las operaciones de sus filiales y recopilar antecedentes de los clientes.
 
@@ -15706,13 +15710,13 @@ Los estados financieros anuales de empresas filiales de instituciones financiera
 
 Las entidades sujetas a la fiscalización de esta Superintendencia entregarán dichos estados financieros y los publicarán de acuerdo con las instrucciones impartidas a esas sociedades filiales.
 
-Cuando se trate de sociedades sujetas a la fiscalización de la Superintendencia de Valores y Seguros, sus estados financieros serán entregados por la institución financiera matriz a esta Superintendencia de Bancos e Instituciones Financieras, dentro del mismo plazo establecido para la entrega de sus propios estados financieros anuales, y deberán ser publicados en el mismo periódico en que la matriz publique los suyos.
+Cuando se trate de sociedades sujetas a la fiscalización de otra superintendencia, sus estados financieros serán entregados por la institución financiera matriz a esta Superintendencia de Bancos e Instituciones Financieras, dentro del mismo plazo establecido para la entrega de sus propios estados financieros anuales, y deberán ser publicados en el mismo periódico en que la matriz publique los suyos.
 
 12.2.- Presentación de estados de situación trimestrales a esta Superintendencia.
 
 Además de los estados financieros anuales auditados, las sociedades filiales deberán enviar periódicamente a esta Superintendencia los estados de situación que este Organismo les exija.
 
-Cuando se trate de sociedades fiscalizadas por la Superintendencia de Valores y Seguros, las instituciones financieras matrices deberán hacer llegar a este Organismo, además de los estados financieros auditados de que trata el numeral precedente, estados de situación trimestrales referidos al 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre de cada año. Esta información se entregará a más tardar el duodécimo día hábil bancario siguiente a la fecha a que se refiere el respectivo balance, debiéndose utilizar para el efecto el formato de la Ficha Estadística Codificada Uniforme (FECU) que exige aquella Superintendencia.
+Cuando se trate de sociedades fiscalizadas por otra superintendencia, las instituciones financieras matrices deberán hacer llegar a este Organismo, además de los estados financieros auditados de que trata el numeral precedente, estados de situación trimestrales referidos al 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre de cada año. Esta información se entregará a más tardar el duodécimo día hábil bancario siguiente a la fecha a que se refiere el respectivo balance, debiéndose utilizar para el efecto el formato de la Ficha Estadística Codificada Uniforme (FECU) que exige la Superintendencia de Valores y Seguros.
 
 III.- SOCIEDADES DE APOYO AL GIRO.
 
@@ -15808,7 +15812,7 @@ Las acciones o derechos en las sociedades filiales o coligadas de que se trata, 
 
 Dicho método de contabilización se aplicará siguiendo los criterios señalados en el Boletín Técnico N° 42 del Colegio de Contadores de Chile A.G., debiendo reconocerse proporcionalmente los resultados, las demás variaciones patrimoniales y, cuando proceda, los efectos de las utilidades no realizadas y de la homologación de criterios contables.
 
-El cálculo del valor patrimonial proporcional y los correspondientes ajustes de la inversión en una sociedad filial o en una sociedad coligada sujeta a la fiscalización de esta Superintendencia, se efectuará al cierre de cada mes, de acuerdo con los resultados de la empresa subsidiaria o relacionada a la misma fecha. Al tratarse de una sociedad coligada sujeta a la fiscalización de la Superintendencia de Valores y Seguros, el ajuste podrá basarse en los resultados obtenidos por la empresa relacionada hasta el mes inmediatamente anterior, salvo cuando se trate del cierre del ejercicio anual, en que se deberán tomar sus resultados definitivos hasta el 31 de diciembre.
+El cálculo del valor patrimonial proporcional y los correspondientes ajustes de la inversión en una sociedad filial o en una sociedad coligada sujeta a la fiscalización de esta Superintendencia, se efectuará al cierre de cada mes, de acuerdo con los resultados de la empresa subsidiaria o relacionada a la misma fecha. Al tratarse de una sociedad coligada sujeta a la fiscalización de otra superintendencia, el ajuste podrá basarse en los resultados obtenidos por la empresa relacionada hasta el mes inmediatamente anterior, salvo cuando se trate del cierre del ejercicio anual, en que se deberán tomar sus resultados definitivos hasta el 31 de diciembre.
 
 Las inversiones se reflejarán en las siguientes cuentas de la partida 2320: "Inversiones en filiales que complementan el giro", "Inversiones en sociedades de apoyo al giro" e "Inversiones en coligadas con giro complementario", según se trate de las sociedades señaladas en los títulos II, III o IV de este Capítulo, respectivamente.
 
