@@ -1,0 +1,3 @@
+Por resolución Nº301, de 28 de febrero de 2000, de esta Subsecretaría, déjase sin efecto la resolución Nº396 de 1997, de esta Subsecretaría, que autorizó a JAIME FELIPE BARRIA MONTIEL, para instalar y operar el centro de cultivo ubicado al sureste de Isla Guaiteca, comuna de Guaitecas, provincia de Aysén, XI Región.
+
+Valparaíso, 28 de febrero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
