@@ -1,0 +1,3 @@
+Por resolución Nº243 de 31 de enero de 2002 de esta Subsecretaría, deniégase la autorización solicitada por PESQUERA EL GOLFO S.A., para ampliar actividades pesqueras con la nave "Maitén", en el litoral de la I y III Regiones, sobre todas las especies indicadas en su solicitud, con arrastre de fondo, según artículo 19 letras a) y c) de la Ley General de Pesca y Acuicultura y resoluciones Nº133 de 1998 y Nº1.700 de 2000, ambas de esta Subsecretaría.
+
+Valparaíso, 31 de enero de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
