@@ -1,0 +1,1 @@
+Modifica artículo 6.° y 7.° del decreto 4,540, de 15 de noviembre de 1932, que fijó texto definitivo del decreto con fuerza de ley 8,355, de 23 de diciembre de 1927, sobre retiro, montepío, etc., del personal de Carabineros de Chile.
