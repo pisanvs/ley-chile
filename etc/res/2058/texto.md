@@ -1,0 +1,3 @@
+Por resolución Nº 2.058, de 11 de octubre de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95110369, presentada por CARMEN GLORIA VERA MARTINEZ, para operar un centro de cultivo ubicado al Norte de Isla Simpson, Estero Barros Arana, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 11 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
