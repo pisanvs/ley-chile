@@ -1,0 +1,23 @@
+"PARTIDO LIBERAL DEMOCRATICO"
+
+Por Resolución N° O-29 de fecha 04 de Febrero de 1993 se dispuso la publicación del siguiente extracto, para los efectos señalados en el artículo 29 de la Ley N° 18.603.
+
+"En Santiago, con fecha 18 de Noviembre de 1992, ante el Notario Público de Santiago don Hernán Felipe Cornejo Loyola, se otorgó la escritura pública de constitución del "Partido Liberal Democrático" y modificada por escritura pública otorgada con fecha 28 de Enero de 1993, ante el mismo Notario Público de Santiago.
+
+La sigla es "PLD", su lema "Por una Nación Libre, Desarrollada y Justa Para Todos", su símbolo una letra ele (L) mayúscula. En el ángulo que describe la letra ele (L) se encuentra una estrella de cinco puntas irregulares, ambas de color blanco, hallándose ambos elementos insertos en la sombra de una letra erre (R) y una letra(P) de color morado en lo que constituye la sombra propiamente tal, la que en su parte inferior se proyecta con una base irregular de tres ángulos. En su costado izquierdo, la sombra forma un rectángulo de color morado, a fin de dar a dicho costado la imagen de bloque.
+
+RESUMEN DECLARACION DE PRINCIPIOS:
+
+El Partido Liberal Democrático promueve el establecimiento de una sociedad libre, pluralista, democrática y participativa. Para ello es primordial poner en práctica los ideales de justicia social y la defensa irrestricta de los derechos humanos. Plantea la necesidad de revisar el sentido histórico del liberalismo, terminando con su estancamiento y para procurar mediante los cambios democráticos, interpretar los anhelos y necesidades de nuestro pueblo. Por ello enfatiza en el hecho de que sólo el liberalismo democrático posibilitará el desarrollo integral de las personas. Propicia el respeto a la propiedad privada, la cual debe estar al servicio de la sociedad, con la sola limitación que establezca la ley. En el orden político, la actitud del partido debe ser solidaria y expresada en el robustecimiento y consolidación de la nación. Cree en la democracia representativa, liberal y social, en la que se asegure la participación real de todos los sectores. Misión fundamental del Partido será el respeto a los derechos de las personas. Considera que sólo un orden social justo puede garantizar la igualdad de oportunidades en las diversas instancias del desarrollo social. En lo educacional, postula la libertad de enseñanza, la autonomía universitaria, el respeto a la cátedra de todos los credos religiosos. Propugna la total correspondencia entre la libertad política y económica, dando al Estado los mecanismos necesarios para alentar la participación social y resolver las dificultades que se produzcan en las relaciones de la empresa con los trabajadores. En los internacional, se declara partidario de la no intervención, de la libre determinación de los pueblos, la instauración de un mercado común y de la integración continental.
+
+La Directiva Central Provisional está constituida por las siguientes personas: Jaime Pérez Figueroa, Presidente; Nelson Carvajal Padilla, Primer Vicepresidente; Alicia González Fernández, Segundo Vicepresidente; Marco Guajardo Carrasco, Secretario General; Carolina Riquelme Alvarez, Subsecretario General; Vivian Valdebenito Aliaga, Tesorero; Ruby Muñoz Salinas, Protesorero; Gloria Ponce Bravo y Claudio Ramírez Espinoza, Secretarios de Areas.
+
+El Tribunal Supremo Provisional está constituido por las siguientes personas: Heriberto Loyola Hidalgo, Presidente; Silvia Alvarez Martínez, Vicepresidente;
+
+Héctor Canales Rebolledo, Secretario; Manuel Ibacache Huerta, Primer Vocal; Jorge Largo Alvarez, Segundo Vocal.
+
+El domicilio común de la Directiva Central y del Tribunal Supremo Provisionales, es calle Lord Cochrane N° 30, oficina 905, 9° piso, Santiago.
+
+En caso de fallecimiento, renuncia o cualquier otro motivo que imposibilite o inhabilite a algún miembro de la Directiva Central Provisional o del Tribunal Supremo Provisional, antes de la constitución del Consejo General será reemplazado por decisión de la mayoría de los miembros de la Directiva Central Provisional, de entre los suscriptores de la escritura. La misma norma regirá para el reemplazo o subrogación de un miembro de la Directiva Central Provisional o del Tribunal Supremo Provisional, por fallecimiento, renuncia o imposibilidad para ejercer el cargo antes de la inscripción del partido".
+
+Andrés Merino Espiñeira, Director Subrogante, Servicio Electoral.
