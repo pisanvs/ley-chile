@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.371, de 30 de mayo del 2000, se expropiaron los lotes de terreno Nºs. 26 y 29, superficies 361 y 584 m² respectivamente, rol de avalúo 3800-281, comuna de Puente Alto, para la obra Mejoramiento Eje La Florida, El Peñón - Las Vizcachas, Sector Km. 6.980 a Km. 10.340, Camino Ruta G-25 - Camino Puente Alto y se acordó precio de la indemnización con su propietario Sergio Antonio Angulo Cáceres y otro, ascendente a la cantidad de $47.565.100, para los lotes Nºs. 26 y 29.
+
+- Fiscal del Ministerio de Obras Públicas.
