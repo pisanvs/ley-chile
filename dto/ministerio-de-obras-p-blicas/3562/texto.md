@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.562 de fecha 30 de noviembre de 1999, se expropiaron los lotes de terreno Nºs. 187-B, 187-C, 187-D, 187-E, 187-F, 187-G, 187-H y 187-I, superficie 3.157, 2.008, 2.400, 2.835, 1.335, 728, 1.791 y 306 m². respectivamente, rol de avalúo 613-12, comuna de Tomé, para la obra ''Camino Acceso Norte a Concepción Sector Km. 11.192.00 a Km. 74.105.00'' y se acordó el valor de indemnización con su propietario Forestal Celco S.A., ascendente a la cantidad de $6.270.130.-
+
+Fiscal del Ministerio de Obras Públicas.
