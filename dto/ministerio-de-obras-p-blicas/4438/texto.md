@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.438, de 29 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 3, para la obra Puente Maitenhuapi, Camino Alto Pangue - Maitenhuapi Rol K-440, Tramo Kms. 0,007.60 al 0,360.00, que figura a nombre de Enrique Eulogio Gálvez Abarca, rol de avalúo 8121-110, comuna de San Rafael, VII Región, superficie 1.148,30 m2. La comisión de peritos fijó con fecha 17 de octubre de 1998, en la cantidad de $2.140.919. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
