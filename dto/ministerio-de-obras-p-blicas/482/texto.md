@@ -1,0 +1,5 @@
+Por decreto MOP. Nº482, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del D.F.L.
+
+Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, y del D.F.L. Nº206 de 1960, se expropió el lote de terreno Nº195-C, para la obra Camino Ruta 5 Norte, tramo Santiago-Los Vilos, Sector Km. 121.100,00 al Km. 127.900, que figura a nombre de Vargas Cabrera Edmundo del C., rol de avalúo 179-27, de la comuna de Nogales, superficie 724 m2. La comisión de peritos integrada por el Sr. Alvaro Verdejo Vidal, René Fernando Adaros Alvarez y Raúl Alberto Ubilla Gómez, fijó con fecha 13 de noviembre de 1997, el valor provisional de la indemnización en la cantidad de $2.074.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
