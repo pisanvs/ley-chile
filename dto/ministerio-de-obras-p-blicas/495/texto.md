@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°495, de 23 de mayo de 1997, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N°294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropiaron los lotes de terreno N°s. 71-A y 75, para la obra Proyecto Laja-Diguillín, Canal Matriz, sector Trilaleo-Pemuco, que figura a nombre de Aída Teresa del Carmen Acuña Rozas, rol de avalúo 151-15, comuna de Pemuco, VIII Región, en el sentido que se deja sin efecto el Convenio Directo de Precio que se había suscrito y se ordena la consignación judicial del monto de las indemnización provisoria fijada por la Comisión de Peritos ascendente a $ 8.705.190.-
+
+Fiscal del Ministerio de Obras Públicas.
