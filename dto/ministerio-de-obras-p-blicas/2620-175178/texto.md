@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.620, de fecha 30 de junio de 2000, se expropió los lotes de terreno Nºs. 97 y 99, superficie 2.273, 3.445 m2, respectivamente, rol de avalúo 214-22, comuna de Monte Patria, para la obra ''Camino Ruta D-597, Monte Patria - Carén, Sector Juntas - Carén, Km. 8.260,00 a Km. 30.065,19 Etapa III'' y se acordó el valor de indemnización con su propietario Héctor Domingo Arce Cerda, ascendente a la cantidad de $5.069.502.
+
+Fiscal del Ministerio de Obras Públicas.
