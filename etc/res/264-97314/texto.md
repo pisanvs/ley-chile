@@ -1,0 +1,3 @@
+Por resolución Nº 264, de 19 de febrero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las resoluciones Nº 1143 de 1992 y Nº 747 de 1993, ambas de esta Subsecretaría, que autorizaron a Pesquera Santa Lucia S.A., para ampliar actividades pesqueras con la nave "Lucía", Matrícula 2647, por haber cesado sus operaciones por más de un año respecto de las pesquerías autorizadas, en virtud de lo dispuesto en el Artículo 143 letra b) del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 19 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
