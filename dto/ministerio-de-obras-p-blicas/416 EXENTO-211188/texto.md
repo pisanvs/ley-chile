@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 416 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 12-B, superficie 260,00 m2, rol de avalúo Nº 171-29, comuna de Curepto, para la obra "Camino Ruta M-24-K Quivolgo Puente Lautaro sector E: Conexión La Trinchera, tramo Km. 0,000 a Km. 2,560", VII Región y se acordó el valor de la indemnización con su propietaria Graciela del Carmen Fuenzalida Vilos, ascendente a la cantidad de $291.306.
+
+Fiscal del Ministerio de Obras Públicas.
