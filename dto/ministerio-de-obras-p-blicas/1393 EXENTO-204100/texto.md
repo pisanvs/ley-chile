@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.393, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº19, superficie 36 M2, rol de avalúo 146-99, comuna de San Vicente, VI Región, para la obra ''Mejoramiento Camino Ruta H-724, Sector La Gruta-Pueblo de Indios Km. 0,000 al 1,187 y Sector Ruta H-730, Km. 1,600 al 3,292'' y se acordó el valor de indemnización con su propietaria doña Mauren Guadalupe Ramírez Pizarro, ascendente a la cantidad de $383.160.-
+
+Fiscal del Ministerio de Obras Públicas.
