@@ -1,0 +1,5 @@
+AUTORIZA A DON GERMAN BOETTIGER PONCE PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 653, de 02.07.87, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Germán Boettiger Ponce, R.U.T. No. 7.084.421-4 de Santiago, domiciliado en Pérez Valenzuela No. 1098, Oficina 103, Santiago, para operar en el 60% de las instalaciones de la planta de Dalcahue, X Región, perteneciente a Sociedad Comercial e Industrial Agromar Ltda., autorizada por resolución No. 232, de 1984, de esta entidad, en las líneas de elaboración de congelado, seco - salado, ahumado, seco y surimi de los siguientes recursos hidrobiológicos: Congrio dorado, congrio negro, corvina, jurel, merluza común, mero o bacalao, raya, almeja o taca, almeja, caracol o trumulco, chorito, loco, macha, navajuela o berberecho, camarón nailon, centolla, langostino colorado, jaiba, erizo y cochayuyo.
+
+Valparaíso, 02.07.87.- Roberto Cabezas Bello Subsecretario de Pesca.
