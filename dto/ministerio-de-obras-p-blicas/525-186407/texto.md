@@ -1,0 +1,3 @@
+Por decreto MOP Nº 525 de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 50-A, superficie 471,8 m2, rol de avalúo 65-16, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Lonquimay - Acceso Pedregoso, Km. 119.30000 al Km. 141,00000" y se acordó el valor de indemnización con su propietario Carlos Juan Schweitzer Montecinos, ascendente a la cantidad de $204.136.-
+
+Fiscal del Ministerio de Obras Públicas.
