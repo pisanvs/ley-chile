@@ -1,0 +1,5 @@
+Por decreto MOP.Nº 806, de 22 de junio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP., Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nº s.
+
+73-24 y 73-25, para la obra Concesión Internacional Ruta 5, Tramo Los Vilos - La Serena, Sector B: Hornillos-La Herradura, Km. 325.542 al 457.750, que figuran a nombre de Com. Buenos Aires Punilla, rol de avalúo 803-17, comuna de Ovalle, superficies 2.418 m2 y 776 m2. La comisión de peritos integrada por las señoras María Iris Marcich Moller y Elisa Mercedes Tapia Fernández y señor Juan Agustín Ibáñez Palma, fijó con fecha 6 de abril de 1998, los valores provisionales de las indemnizaciones en las cantidades de $ 967.200.- para el lote Nº 73-24 y $ 310.400.- para el lote Nº 73-25. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
