@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.345 de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº 36, superficie 2.357,00 m2, Rol de Avalúo Nº 534-39, comuna de Río Bueno, para la obra "Camino Río Bueno - Crucero, Sector T-90-U y T-933, Tramo Km. 0,00000 al Km. 20,90000", y se acordó el valor de indemnización con su propietario, Sociedad Agrícola El Cántaro Limitada, ascendente a la cantidad de $8.104.597.-
+
+Fiscal del Ministerio de Obras Públicas.
