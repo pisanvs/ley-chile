@@ -1660,6 +1660,16 @@ Evacuada la negociación encomendada, el comisionista está obligado:
 
 3°. A reintegrar al comitente el saldo que resulte a favor de él, debiendo valerse para ello de los medios que el mismo comitente hubiere designado, o en su defecto, de los que fueren de uso general en el comercio.
 
+#### Artículo 280
+
+Las cuentas que rindiere el comisionista deberán concordar con los asientos de sus libros.
+
+Si no estuvieren conformes con ellos, el comisionista será castigado como reo de hurto con falsedad.
+
+En la misma pena incurrirá el comisionista que altere en sus cuentas los precios o las condiciones de los contratos, suponga gastos o exagere los que hubiere hecho.
+
+> **Nota.** El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+
 #### Artículo 281
 
 El comisionista abonará a su comitente intereses corrientes, aunque no preceda interpelación, si fuere moroso en rendir su cuenta o remitir el saldo en la forma especificada en el artículo 279.
