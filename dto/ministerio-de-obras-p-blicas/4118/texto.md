@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.118, de 31 de agosto del 2000, se expropió el lote de terreno Nº147, superficie 200 m², rol de avalúo 5802-25, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Luis Arturo Lavadie Díaz, ascendente a la cantidad de $30.958.049.-
+
+Fiscal del Ministerio de Obras Públicas.
