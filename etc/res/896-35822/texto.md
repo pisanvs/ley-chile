@@ -1,0 +1,3 @@
+Por Resolución N°896, de 15 de mayo de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por la Ilustre MUNICIPALIDAD DE PUERTO MONTT, para un centro de cultivo ubicado en Isla Maillén-Puntilla Surgidero, comuna de Puerto Montt, Provincia de Llanquihue, X Región, conforme lo dispuesto en el artículo 78, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 15 de mayo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
