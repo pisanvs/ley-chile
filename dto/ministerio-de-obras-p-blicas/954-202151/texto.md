@@ -1,0 +1,3 @@
+Por decreto MOP Nº954 de 31 de mayo de 2002, se expropiaron los lotes de terreno Nºs 1-A y 2-A, superficie 902 y 27 m2, respectivamente, Rol Nº2599-7, comuna de Pudahuel, Región Metropolitana, para la obra ''Planta de Tratamiento de Aguas Servidas La Farfana-Faja Ensanche-Camino Acceso Planta de Tratamiento de Aguas Servidas La Farfana'' y se acordó el valor de indemnización con su propietario Exportadora Aconcagua Limitada, ascendente a la cantidad de $44.629.936.-
+
+Fiscal del Ministerio de Obras Públicas.
