@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 314, de 25 de Octubre de 1985, se expropió lote No. 1, superficie 215 m2, rol de avalúo 1.568-8, Comuna de Ñuñoa, para Eje Avenida América Vespucio, sector Bilbao - Irarrázaval - Los Agustinos - Emilia Téllez, y se acordó precio de indemnización con su propietario don Emilio Segundo Niefergold Romero y otros, ascendente a $ 1.431.205.
+
+- Fiscal del Ministerio de Obras Públicas. (2)
