@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 940, de 30 de septiembre de 1997, se expropiaron los lotes de terreno Nºs. 25, 26, 27 y 28, superficies 2.133, 1.076, 2.081 y 266 M2. respectivamente, roles de avalúo 6250-1 y en trámite, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte -Sur, Las Acacias-Río Maipo, y se acordó precio de indemnización con su propietario Sociedad Duhalde y Ezumendia Limitada y Club de Rodeo Chileno de San Bernardo, Los Valientes de Nos, ascendente a la cantidad de $130.739.960.- para lote N° 25, y $228.039.193 para los lotes N°s 26, 27 y 28.
+
+Fiscal del Ministerio de Obras Públicas.-
