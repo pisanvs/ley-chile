@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 330, de 30 de marzo de 2001, se expropió el lote de terreno Nº 11, superficie 317 m², rol de avalúo 118-154, comuna de Malloa, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector G, Sexta Región y se acordó el valor de indemnización con su propietaria Marisol del Carmen Contreras Moya, ascendente a la cantidad de $1.679.309.-
+
+Fiscal del Ministerio de Obras Públicas.
