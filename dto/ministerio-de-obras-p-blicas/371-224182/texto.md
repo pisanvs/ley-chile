@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 371, de 30 de mayo de 1996, sé expropió el lote de terreno N° 10, superficie 175 M2., rol de avalúo 883-14, comuna de Coquimbo, para la obra Mejoramiento Ruta 5 Norte, sector Coquimbo La Herradura Camino Ruta 5 Norte y se acordó precio de indemnización con su propietario don Manuel Jesús Salinas Jara, ascendente a la cantidad de $37.135.000.
+
+Fiscal del Ministerio de Obras Públicas.
