@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 404, de 28 de abril de 1997, se expropió el lote de terreno Nº 24, superficie 1.610 m², rol de avalúo 3400-63, comuna de Puente Alto, obra Mejoramiento Eje La Florida, sector Los Ararios Las Vizcachas, sector II y se acordó precio de indemnización con su propietario Giovambattista Evangelista Cardillo, ascendente a la cantidad de $115.387.550.
+
+Fiscal del Ministerio de Obras Públicas.
