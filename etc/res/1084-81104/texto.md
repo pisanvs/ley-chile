@@ -1,0 +1,3 @@
+Por resolución No. 1.084, de 02 de septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días desde la fecha de la presente Resolución, el plazo otorgado a don LUIS RIOS CACERES, R.U.T. No. 5.670.484-1, domiciliado en calle Las Dunas No. 584, San Antonio, V Región, en el numeral 4° de la Resolución No. 405 de 1991, de esta Subsecretaría, por haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 02 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
