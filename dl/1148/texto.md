@@ -1,0 +1,1 @@
+Autoriza al Instituto de Financiamiento Cooperativo IFICOOP Ltda. para emitir acciones de capital.
