@@ -1,0 +1,3 @@
+Por decreto MOP Nº 565, de 9 de julio de 2004, que modificó el decreto MOP Nº 1.482, de 19 de diciembre de 2003, que modificó el decreto MOP Nº 596, de 30 de abril de 1998, se dejó sin efecto la expropiación del lote Nº 107, de la obra "Camino Cauquenes - Límite Regional - Quirihue, Sector Cuesta Km. 17.780,00 al Km. 40.504,64", rol de avalúo Nº 316-95, de la comuna de Quirihue, superficie 1.092 M² y que figura a nombre de Sociedad Forestal Millalemu S.A. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
