@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº329 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº42, superficie 1.421 m2., Rol de Avalúo Nº75-934, comuna de Galvarino, para la obra "Camino Ruta S-16, sector Galvarino - Chol Chol, Tramo Km. 0,0000 al 24,30269", IX Región y se acordó el valor de indemnización con su propietaria Juana Fresia Curihual Ancapan, ascendente a la cantidad de $549.346.-
+
+Fiscal del Ministerio de Obras Públicas.
