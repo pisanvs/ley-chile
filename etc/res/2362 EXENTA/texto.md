@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 2362 de 10 de Noviembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido, Reserva y Sector Expropiado predios "Resto del Fundo San Ricardo de Idahue, hoy conocido como Santa Amalia", "La Corderina" de la comunal de Coltauco, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 7, sitios N°s. 1 al 4, del Proyecto de Parcelación "Santa Amalia" formado por predios señalados. Los Derechos de Agua se extraen de los canales Peumal, Estero Grande, Palquial, La Pirca, El Durazno Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
