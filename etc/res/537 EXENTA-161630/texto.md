@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 537, de 29 de Abril de 1985, conforme art. 5º transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a las parcelas Nº I a la 18, y 20 a la 30, sitios Nº I al 4, I1 al 14, 15A, 15B, 16 al 20, 24 al 27, 34 al 50, y 52 al 73 y Reservas CORA Nº 1, 9 y 10 del Proyecto de Parcelación "San Miguel de Diguillin" formado el predio "Hacienda San Miguel, formada por las Hijuelas La de San Miguel, Fundo La Orilla, la de Las Hormigas, que incluye la denominada-Hijuela de 16 cuadras que forma un solo cuerpo con la Hijuela Las Hormigas e Hijuela que corresponde a una parte de la Hijuela Poniente del Fundo Pemuco denominado Granero de Pemuco, ubicado en la comuna de Pemuco, VIII Región. Los derechos de aguas se extraen del Canal San Miguel.
+
+Publicación hecha conforme art. 13 Ley Nº 18.377.-
+
+Director Ejecutivo.
