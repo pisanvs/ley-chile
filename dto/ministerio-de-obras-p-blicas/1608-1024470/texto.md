@@ -44,6 +44,8 @@ o Las "viviendas económicas", en general podrán emplazarse en cualquiera zona 
 
 La limitación de zonas para el emplazamiento de "viviendas económicas" en las áreas urbanas, sólo podrá hacerla el Presidente de la República, a través del Ministerio de Obras Públicas.
 
+> **Nota.** El artículo único del Decreto 645, Vivienda, publicado el 18.08.1977, introduce diversas modificaciones a la presente norma, derogando la letra letra c) del inciso 3º y los incisos 4º, 5º y 6º de artículo 3º.
+
 #### Artículo 4
 
 o Los proyectos de loteamientos y sus modificaciones, las urbanizaciones destinadas a "viviendas económicas" y los proyectos de construcción o modificación de "viviendas económicas", deberán obtener la aprobación previa de los planos, presupuestos y especificaciones en la Dirección de Obras Municipales, en la forma señalada en este Reglamento y especialmente en el artículo 19º.
@@ -98,7 +100,9 @@ La superficie mínima de esta primera etapa será de 25 metros cuadrados.
 
 En todos los casos de etapa transitoria, deberá aprobarse el proyecto total de la vivienda.
 
-En los edificios de más de 10 departamentos se aceptarán que uno de ellos tenga permanentemente las características de la etapa transitoria a que se ha hecho referencia en este artículo.
+No obstante lo dispuesto en los incisos precedentes, en sitios urbanizados se podrá autorizar la construcción de una etapa inicial, con carácter definitivo, de una superficie no inferior a 8 metros cuadrados, compuesta de una cocina y un baño con W.C., lavatorio y ducha, que correspondan a un proyecto de una vivienda social o económica.
+
+La etapa transitoria de que tratan los incisos precedentes, como asimismo la etapa inicial a que alude el inciso anterior, se considerarán viviendas económicas para todos los efectos del DFL. Nº 2, de 1959, y del presente Reglamento, y en especial para los efectos de lo dispuesto en el artículo 71º de dicho DFL. Nº 2 y su Reglamento contenido en el DS. Nº 1.276 (V. y U.), de 1977.
 
 La vivienda para solteros, considerará en su programa cualquier dependencia que tenga relación con el conjunto a que pertenece, pudiendo, además, estar formada exclusivamente por dormitorios.
 
@@ -204,7 +208,7 @@ Las condiciones de asoleamiento, bonificación y unidad de espacio común son de
 
 Sin perjuicio de lo anterior, la superficie de un terreno singular no podrá ser inferior a 160 metros cuadrados, y se aceptará cualquier frente de lotes que sea compatible con una correcta planificación.
 
-Se faculta a los Servicios de Vivienda y Urbanización y a los Comités Habitacionales Comunales, estos últimos autorizados expresamente por la Secretaría Ministerial respectiva del Ministerio de Vivienda y Urbanismo, para rebajar hasta 100 metros cuadrados el mínimo de 160 m2. indicado en el inciso precedente.
+Se faculta a los Servicios de Vivienda y Urbanización y a los Comités Habitacionales Comunales, estos últimos autorizados expresamente por la Secretaría Ministerial respectiva del Ministerio de Vivienda y Urbanismo, para rebajar hasta 100 metros cuadrados el mínimo de 160 m2. indicado en el inciso precedente. No obstante lo expresado, en el caso de las viviendas sociales, los Secretarios Ministeriales de Vivienda y Urbanismo podrán autorizar, si lo estiman conveniente, la aplicación de la norma contenida en el inciso 2º del artículo 20º del DS. Nº 314 (V. y U.), de 1975, que aprobó el reglamento para la aplicación del DL. Nº 1.088, de 1975, sobre programa de viviendas sociales. Esta misma norma de excepción podrán aplicar los Servicios de Vivienda y Urbanización a las viviendas de las poblaciones ya construidas por las Instituciones del sector o que se encuentren en construcción al 30 de Enero de 1978, aun cuando éstas no tengan carácter de viviendas sociales.
 
 En los conjuntos habitacionales que se proyecten en terrenos cuya superficie sea igual o mayor a 5.000 m2. y en los que se garantice a satisfacción de la Dirección de Obras Municipales la ejecución simultánea de la urbanización con la construcción total de las "viviendas económicas", la superficie mínima del terreno singular podrá rebajarse hasta 100 m2. por la Dirección de Obras Municipales respectiva.
 
