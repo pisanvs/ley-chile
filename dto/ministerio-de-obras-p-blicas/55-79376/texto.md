@@ -1,0 +1,3 @@
+Por Decreto M.O.P No. 55, de 26 de febrero de 1992, se expropiaron los lotes N°s. 8 y 9, roles de avalúo 329-28 y 329-5, comuna de Quillota, superficies 7.027 M2 y 10.220 M2, para la obra Camino Internacional Ruta 60-Ch, sector Cruce Ruta 5, Puente Lo Venecia, Acceso a la Cruz, Acceso San Isidro (Ruta F-386) y Enlace Superior San Pedro y se acordó el precio de indemnización con su propietario don Isaías Hernán Díaz Beiza, ascendente a la cantidad de $10.873.380.-
+
+Fiscal del Ministerio de Obras Públicas.
