@@ -1,0 +1,7 @@
+Por decreto exento MOP Nº 1.511, de 22 de octubre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 84, 85, 87, 93, 96, 100, 107, 108, 113 y 115, obra, Camino Ruta L-49, Cruce Long,- Mesamávida, Sector: Cruce Longitudinal San Luis tramo:
+
+Km. 0,000.00 a Km. 13,841.12, que figuran a nombre de Octaviano González Castro, Dulia Norambuena Norambuena, Víctor Ramón Zúñiga Norambuena, Magdalena Méndez Lara, Dionisio Escobar Valdés, Sucesión José E. Méndez, Miguel Dawney Vásquez, Sucesión Manuel Araya Vallejos y Romilio González Alvial, roles de avalúos 192-22, 192-75, 509-27, 192-28, 192-30, 192-31, 194-2, 194-130 y 194-5, comuna de Longaví, superficies 82, 24, 57, 340, 345, 21, 82, 237, 558 y 110 M2., respectivamente. La comisión de peritos fijó con fecha 19 de junio de 2000, en las cantidades de $65.600, lote Nº 84; $115.000, lote Nº 85;
+
+$191.600, lote Nº 87; $721.000, lote Nº 93; $687.500, lote Nº 96; $233.600, lote Nº 100; $173.400, lote Nº 107; $516.600, lote Nº 108; $1.592.000, lote Nº 113 y $280.800, lote Nº 115, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
