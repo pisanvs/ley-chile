@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.105 de 24 de noviembre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra: Sistema Maule Sur: "Canal San Juan de Dios, km. 0,000 al km. 7,988", que figura a nombre de Suc. Segundo Fuentes Tejos, rol de avalúo 161-122, comuna de Yerbas Buenas, VII Región, superficie 4.320 m². La Comisión de Peritos fijó con fecha 7 de octubre de 2003, el monto de la indemnización provisional en la cantidad de $3.147.000.- lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
