@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 856 EXENTO, DE 1997
+
+Por Decreto exento Nº 856, de fecha 8 de agosto de 1997, del Ministerio de Educación, se aprobaron al Centro de Formación Técnica Escuela de Contabilidad y Administración, Centro de Estudios Contables ECACEC, las adecuaciones a los planes y programas de estudios de las carreras de Contablidad con mención en Finanzas, de Administración de Empresas con mención en Finanzas y de Administración de Empresas con mención en Relaciones Industriales. Modificándose en consecuencia el Decreto exento del Ministerio de Educación Nº 278 del 25 de octubre de 1990 y por Resolución exenta Nº 2.917 del 13 de diciembre de 1992, la última de ellas, en el sentido de incorporar dichas adecuaciones, las que podrán aplicarse a contar del año 1997.-
+
+Jaime Pérez de Arce Araya, Subsecretario de Educación.
