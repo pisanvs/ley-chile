@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.404 y 1.405, ambos de fecha de 31 de agosto de 1998, se expropiaron los lotes de terreno No.s. 15, 17 y 9-B, superficies 5.198 m²., 604 m². y 375 m²., roles de avalúos 29-160 y 11-1, comuna de San Pedro, obra Camino Ruta 66, sector Crucero Las Arañas Límite V Región y se acordó precio de indemnización con sus propietarios María Aspillaga Barros y Federico Hermosilla Hermosilla, ascendente a las cantidades de $ 13.234.784 y $ 1.610.750.-
+
+Fiscal del Ministerio de Obras Públicas.
