@@ -1,0 +1,5 @@
+Por decreto MOP Nº 980, de 10 de septiembre de 2003, se modificaron los numerales 2º, 3º y 7º del Decreto Supremo MOP Nº 667 de 30 de junio de 2003, que ordenó la expropiación del lote Nº 68 para la obra:
+
+"Sistema Norte - Sur. Tramo F: Carlos Valdovinos - Río Mapocho. Sector: Km. 2.100,00 al Km. 2.400,00", Región Metropolitana, que figura a nombre de Fuentes Inostroza Roberto Anto, rol de avalúo 3213-6, comuna de Quinta Normal, superficie 154,5 m2. La comisión de peritos integrada por los señores Ricardo Antonio Strickler Arellano, Mufida Viola Abuawad Elias e Itsang Lu Chen, fijó con fecha 01 de septiembre de 2003, el valor provisional de la indemnización en la cantidad de $29.745.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
