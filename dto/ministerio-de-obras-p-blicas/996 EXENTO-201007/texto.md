@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº996, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº96, superficie 136 m², rol de avalúo en trámite, comuna de Yerbas Buenas, VII Región, para la obra ''Camino Ruta L-31, Sector Polvorines - La Floresta, Tramo Km. 0,00000 al Km. 15,480000'' y se acordó el valor de indemnización con su propietario don José Abraham González Vásquez, ascendente a la cantidad de $535.614.
+
+Fiscal del Ministerio de Obras Publicas
