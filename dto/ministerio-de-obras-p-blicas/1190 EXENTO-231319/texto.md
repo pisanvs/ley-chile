@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.190 de fecha 31 de agosto del 2004, se expropió el lote de terreno Nº 21-C, superficie 87 M2, rol Nº 324-12, comuna de Río Negro, X Región, para la obra "Camino Ruta U-72, Sector Huilma-Riachuelo, Tramo Km. 18,14000 al 33,91000" y se acordó el valor de indemnización con su propietario Emir René Turra Hinostroza, ascendente a la cantidad de $302.826.
+
+Fiscal del Ministerio de Obras Públicas.
