@@ -1,0 +1,3 @@
+Por resolución Nº 1.970 de 20 de septiembre de 2001 de esta Subsecretaría, rectifícase el numeral 1º de la resolución Nº 564 de 2001, de esta Subsecretaría, que autorizó a CORPESCA S.A., para operar por sustitución una nave en construcción denominada "Corpesca 1", en el sentido de reemplazar la expresión "T.R.G. (Nacional) 333,00 t" por "T.R.G. (Internacional) 333,0.".
+
+Valparaíso, 20 de septiembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
