@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 155, de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 112, superficie 735 m², Rol Nº305-143, comuna de Melipeuco, IX Región, para la obra "Camino Ruta S-61, Sector: Cunco - Melipeuco. Tramo Km. 55,000 al Km. 87.46783, correspondiente al Sub-Tramo III Km. 76,068 al 87,443" y se acordó el valor de indemnización con su propietaria Juanita Calful Huaiquilaf ascendente a la cantidad de $497.628.
+
+Fiscal del Ministerio de Obras Públicas.
