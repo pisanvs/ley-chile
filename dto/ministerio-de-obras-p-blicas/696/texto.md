@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 696 de 30 de julio de 1997, se expropiaron los lotes de terreno N°s.231-A y 236, superficies 169 m2 y 69.167 m2., roles de avalúo 614-24 y 614-11 comuna de Tomé, para la obra Camino Acceso Norte a Concepción, se acordó el valor de indemnización con sus propietarios Justina Figueroa Ruiz y otros y Sante Herrera Giovannetti, ascendente a las cantidades de $224.984.- y $62.088.987.-
+
+Fiscal del Ministerio de Obras Públicas
