@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº1.702 de fecha 29 de noviembre de 2002, se expropió el lote de terreno Nº28, superficie 1.979,00 m2, rol de Avalúo Nº534-33, comuna de Río Bueno, para la obra "Camino Río Bueno-Crucero, Sector T-90-U y T-933, Tramo Km. 0,00000 a Km. 20,90000, Provincia de Valdivia", X Región y se acordó el valor de la indemnización con su propietario Elías Oliberto Villanueva Vergara, ascendente a la cantidad de $1.347.356.-
+
+Fiscal del Ministerio de Obras Públicas.
