@@ -1,0 +1,5 @@
+Por Resolución N°. 325 de 13 de Abril de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a la SOCIEDAD PROCESADORA DE ALIMENTOS PROVELCO LTDA., RUT N°. 79.501.890-5, domiciliado en Coquimbo, calle Condell N°. 1, para ampliar actividades que tiene autorizadas por Resoluciones N°. 85 y N°. 812 de 1985, ambas de esta Subsecretaría, donde podrá elaborar en las líneas de proceso de congelado y conservas, de la planta autorizada por las resoluciones individualizadas precedentemente, ubicada en calle Condell N°. 1, Coquimbo, IV Región, el recurso hidrobiológico denominado erizo. La materia prima será adquirida a pescadores artesanales de la III y IV Región.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 13 de Abril de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
