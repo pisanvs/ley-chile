@@ -1,0 +1,3 @@
+Por Resolución N° 812 de 20 de Octubre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 1.474, de 1989, de esta Subsecretaría, que autorizó a don MARIO ORLANDO SOTO VALENZUELA para instalar un centro de cultivo de alga del género Gracilaria en el Río Quenuir, Comuna de Maullín, X Región, en virtud de lo prescrito en el artículo 7° del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 20 de Octubre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
