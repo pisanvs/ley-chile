@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 72, 12 marzo 2001, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Línea Férrea s/n, Rol de Avalúo Nº 2720-003, comuna Chiguayante, superficie 391,70 m2. de terreno y 45,40 m2. de edificación, dentro polígono y linderos señalados plano expropiación 2720-003; de aparente dominio de Oscar Delgado Delgado, para ejecución programa ''Mejoramiento Vial Eje O'Higgins de Chiguayante'', conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por don Boris Aptecar González, arquitecto, don Orlando Paredes Vásquez, ingeniero civil y don Sergio Labarca Garrido, constructor civil, según informe de fecha 17 de octubre de 2000, fijó monto provisional indemnización en $12.371.890.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
