@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 142, del Ministerio de Economía, Fomento y Reconstrucción, de fecha 6 de noviembre del año 1992, se aprobó la disolución voluntaria de la Cooperativa de Vivienda y Servicios Habitacionales Funcionarios Instituto Traumatológico Limitada, de Santiago, que consta en la escritura pública suscrita con fecha 6 de agosto de 1992, ante don Aliro Veloso Muñoz, Notario Público de Santiago.
+
+Por orden del Sr. Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
