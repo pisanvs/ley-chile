@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 372, de 29 de Octubre de 1993, se expropió el lote de terreno N° 41, superficie 10.406 m2., rol de avalúo 1202-12, comuna de Lota, para la obra Camino by Pass Coronel-Lota (Ruta 160), sector Segunda Calzada-Tramo Interurbano Coronel-Lota y se acordó el valor de indemnización con su propietario Turismo Playa Blanca Ltda. y Cía. C.P.A., ascendente a la cantidad de $43.090.558.
+
+Fiscal del Ministerio de Obras Públicas.
