@@ -1122,6 +1122,16 @@ Las naves autorizadas para hacer el cabotaje en el litoral administrativa en el 
 
 Las embarcaciones o naves menores de 25 toneladas destinadas al cabotaje o a la pesca, solicitarán el zarpe únicamente, al capitán de puerto en los puertos o caletas habilitadas. Cuando se dirijan a puertos o caletas inhabilitadas, deberá anticipadamente cumplirse con el Art. 11 de la Ordenanza de Aduanas, es decir, serán habilitados por la Aduana y se le otorgará el zarpe a la nave o embarcación con su intervención.
 
+g) El último Certificado de Navegabilidad vigente; el permiso para efectuar el comercio de cabotaje en determinada línea o el permiso para salir al exterior
+
+otorgado por el Ministerio de Economía y Comercio (1).
+
+---------------------------------
+
+(1) Por disposición del decreto con fuerza de ley 88, de 12 de mayo de 1953, este Ministerio ha pasado a denominarse simplemente de Economía.
+
+> **Nota.** El Decreto 2427, Defensa, promulgado el 15.06.1956, dispone agregar al artículo 197 de la presente norma un inciso, sin embargo, comienza con una letra g) el que se incorpora al citado artículo tal como lo indica la citada norma.
+
 #### Artículo 198
 
 La lista de los pasajeros que lleva una nave a su bordo la entregará al capitán por duplicado junto con los demás documentos al solicitar el zarpe y la Capitanía de Puerto le devolverá uno de los ejemplares con su Vº Bº.
@@ -1582,19 +1592,29 @@ Todo propietario o armador que venda o alquile una embarcación o que en alguna 
 
 #### Artículo 279
 
-A más de las inspecciones que obligan los Arts. 274 y 275, las naves y embarcaciones menores a propulsión mecánica inscritas en los puertos, serán sometidas matricularse en los meses de Diciembre y Junio, a una inspección que será hecha por el ingeniero de la Comisión o Subcomisión de Reconocimiento Naves existen estos organismos, o por un perito ad hoc, donde no los haya.
+Además de las inspecciones que obligan los artículos 274 y 275, las naves y embarcaciones menores a propulsión mecánica inscritas en los puertos, serán sometidas, al matricularse y en los meses de Junio y Diciembre, a una inspección que será hecha por el ingeniero de la Comisión o Subcomisión de Reconocimiento de Naves donde existan estos organismos, o por un perito ad-hoc, donde no los haya.
 
-Esta inspección tendrá por objeto formarse concepto sobre el estado de conservación del casco y funcionamiento de sus medios de propulsión para los efectos de la seguridad que debe ofrecer en servicio y tendrá el siguiente arancel:
+Esta inspección tendrá por objeto formarse concepto sobre el estado de conservación del casco y funcionamiento de sus medios de propulsión para los efectos de la seguridad que debe ofrecer el servicio, y tendrá el siguiente arancel:
 
-Naves, según reglamento respectivo.
+Embarcaciones Arancel
 
-Remolcadores a vapor o motor, $ 30.-
+Remolcadores de hasta 100 tons.
 
-Lancha a motor de más de 100 H.P. 30.-
+de registro grueso $ 10.-- oro
 
-Lancha a motor de menos poder. 10.-
+Por cada tonelada de exceso
 
-El arqueo de las embarcaciones menores, en los puertos donde no hayan subinspector, lo hará el capitán de puerto respectivo o la persona idónea que él designe, ciñéndose en todo Reglamento de arqueo de naves de comercio.
+sobre 100 tons. 0,05 "
+
+Lanchas a motor 5.- "
+
+Yates 10.- "
+
+Este arancel será a beneficio fiscal y su cobro será en oro, pero cubriendo su valor en moneda corriente con el recargo que para los efectos de los derechos aduaneros fija periódicamente el Ministerio de Hacienda.
+
+En caso que estas inspecciones sean efectuadas por un perito ad-hoc, los aranceles indicados precedentemente se cobrarán de acuerdo con los dispuesto en el Art. 19 del Reglamento N.o 1.035, aprobado por DS. N.o 129, de 24 de Enero de 1931.
+
+El arqueo de las embarcaciones menores en los puertos donde no haya Subinspector, lo hará el Capitán de Puerto respectivo o la persona idónea que él designe, ciñéndose en todo al Reglamento de Arqueo de Naves de Comercio. (2).
 
 #### Artículo 280
 
