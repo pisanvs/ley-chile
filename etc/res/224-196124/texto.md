@@ -1,0 +1,3 @@
+Por resolución Nº224, de 25 de enero de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Punta Elisa, VIII Región, individualizada en el artículo 1º Nº6 del DS Nº152 de 1998, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL, BUZOS MARISCADORES Y ACTIVIDADES CONEXAS DE CALETA CERRO VERDE.
+
+Valparaíso, 25 de enero de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
