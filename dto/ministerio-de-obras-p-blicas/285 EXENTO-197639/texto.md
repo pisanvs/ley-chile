@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº285, de fecha 28 de marzo de 2002, se expropiaron los lotes de terreno Nºs 5, 6 y 7, superficies 106 m2, 2.408 m2 y 74 m2, respectivamente, rol de avalúo 49-35, comuna de Lonquimay, IX Región, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Lonquimay - Acceso Pedregoso, Km. 119,30000 al 141,00000, correspondiente al Tramo I, Km. 119,30000 al 130,66000" y se acordó el valor de indemnización con su propietario la Sociedad Agrícola y Ganadera Bío Bío Limitada, ascendente a la cantidad de $626.730.-
+
+Fiscal del Ministerio de Obras Públicas.
