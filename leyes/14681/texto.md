@@ -1,0 +1,1 @@
+Fija plazo para cancelar las deudas contraídas por los propietarios de sitios ubicados en poblaciones acogidas a las disposiciones legales que señala; condona los interese penales y recargos que indica.
