@@ -1,0 +1,13 @@
+Por decreto MOP Nº 843, de 22 de abril de 1999, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 34, 60, 83, 85, 89, 95, 98, 100, 108, 116, 124, 127A, 128, 133, 134, 137, 140, 144, 149, 164, 179, 181, 195, 196, 197 y 199, para la obra Camino Ruta J-25, Sector Cruce Longitudinal - La Montaña, que figuran a nombre de Sucesión Juan Bautista Lizana B., José Eusebio González Muñoz, Albertina Ortiz Rojas, Sta. Adela Parc. 9 al 29, Francisco J. Núñez López, José Antonio Pozo Córdova, Osvaldo Miranda Bascuñán, Rodemilo Poblete Farías, Luis Alberto Cornejo Peralta, Antonio Valenzuela Díaz, José López Lizana, Sucesión Farías Alvarez, Marta Medina Orellana, Bien Común, Odelinda Medina Orellana, Roberto Donoso Ramírez, Juan Luis Cornejo Bertrán, Juan de Dios Zúñiga Becerra, Luis Alberto Contreras Saavedra, Hermenegildo Farías, Sergio Cornejo Iraguen, SAG y Forestal Celco S.A., roles de avalúos 70-59, 68-20, 68-276, 70-79, 70-65, 71-4, 69-51, 69-1, 71-36, 71-20, 68-84, 71-23, 68-125, en trámite, 68-101, 69-14, 68-223, 69-32, 68-123, 68-102, 68-210, 68-218, 68-210 y 68-13, de la comuna de Teno, superficies 21; 180; 60; 95; 220; 159; 440; 430; 47; 300; 140; 139,3; 119, 120, 140, 250, 410, 180, 261, 204, 550, 1.050, 2.684, 165, 1.092 y 231 m2. respectivamente. La Comisión de Peritos compuesta por los señores Renato Guerra Estévez, Iván Correa Opazo y Carlos Sottolichio Díaz, fijó con fecha 2 de junio de 1998, los valores provisionales de las indemnizaciones en las cantidades de $80.000, lote Nº 34; $408.000, lote Nº 60; $122.000, lote Nº 83; $157.000, lote Nº 85;
+
+$102.000, lote Nº 89; $129.250, lote Nº 95; $209.000, lote Nº 98; $520.000, lote Nº 100; $136.000, lote Nº 108; $372.000, lote Nº 116, $179.000, lote Nº 124;
+
+$139.300, lote Nº 127A; $150.000, lote Nº 128; $190.000, lote Nº 133; $184.000, lote Nº 134; $155.000, lote Nº 137; $1.989.000, lote Nº 140; $374.000, lote Nº 144;
+
+$356.000, lote Nº 149; $1.275.000, lote Nº 164;
+
+$592.500, lote Nº 179; $445.500, lote Nº 181;
+
+$1.232.400, lote Nº 195; $57.750, lote Nº 196; $550.040, lote Nº 197; $57.750, lote Nº 199. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
