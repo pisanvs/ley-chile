@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 401 EXENTO, DE 1996
+
+Por Decreto Exento N° 401, de fecha 25 de julio de 1996, del Ministerio de Educación, se revocó el reconocimiento oficial y se eliminó del Registro de Centros de Formación Técnica el N° 193, al Centro de Formación Técnica Centro de Investigación, Educación y Desarrollo - CIED, organizado por la Sociedad Centro de Investigación, Educación y Desarrollo Limitada o CIED Limitada, autorizado a funcionar por Decreto Exento de Educación N° 133, del 8 de septiembre de 1989. Asimismo, se derogó la Resolución Exenta N° 3.232, del 15 de diciembre de 1989, que aprobó los planes y programas de estudios de las carreras técnicas para el Centro de Formación Técnica. Ello a solicitud de la propia institución.
+
+Santiago, 14 de agosto de 1996.- Jaime Pérez de Arce Araya, Subsecretario de Educación.
