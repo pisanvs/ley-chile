@@ -19002,7 +19002,7 @@ c) Por cónyuge se entienden no sólo los que se encuentran casados bajo régime
 
 d) Por hijos menores bajo patria potestad se entienden los hijos legítimos menores de 21 años, que se encuentren bajo la patria potestad de su padre o madre, según corresponda, esto es, que tratándose de todo tipo de menores de edad, no se encuentren sometidos a la guarda de otra persona o, tratándose de menores adultos, no hayan sido emancipados.
 
-e) Por sociedades deben entenderse todo tipo de sociedades, tanto de personas como de capitales, atendido que la ley se refiere a que formen parte o tengan participación.
+e) Por sociedades deben entenderse todo tipo de sociedades, tanto de personas como de capitales, atendido que la ley se refiere a que formen parte o tengan participación. La prohibición de otorgar créditos no se aplica por extensión a otras sociedades en que no existe participación directa de un director o apoderado general o sus cónyuges o hijos menores. No obstante, para que ello ocurra se requiere que la sociedad de la que forme parte o en la que participe directamente alguna de esas personas naturales y que, a su vez, sea socia o accionista de otra, tenga giro efectivo, actividad real y patrimonio proporcionado a su giro, de manera que no exista la más leve duda sobre una posible interposición de personas que pretenda evadir la prohibición legal.
 
 ### 2. Sociedades que se excluyen
 
