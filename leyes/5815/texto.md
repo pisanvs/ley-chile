@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Santiago para conceder en uso al Patronato Nacional de la Infancia, por el tiempo que indica, el sitio municipal que expresa.
