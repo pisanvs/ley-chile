@@ -1,0 +1,3 @@
+Por resolución Nº 542, de 9 de abril de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº 744, de 1996, que autorizó a PESQUERA COSTA BRAVA LTDA., para operar la nave ''Argos II'' en el litoral de las Regiones III y IV, respecto de los recursos Agujilla, Anchoveta, Bonito, Caballa, Cabinza, Cojinoba del norte, Jurel, Sardina común y Sardina española.
+
+Valparaíso, 9 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
