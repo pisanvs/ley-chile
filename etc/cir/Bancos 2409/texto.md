@@ -15576,33 +15576,35 @@ f) Corredoras de seguros regidas por el D.F.L. N° 251, de 1931, con exclusión 
 
 - Según la letra b) del artículo 70:
 
-g) Compañías de leasing, las cuales deben encuadrarse dentro de las condiciones establecidas por esta Superintendencia. Bajo esas condiciones, estas empresas podrán efectuar operaciones de leasing tanto de bienes muebles como inmuebles, incluidos los arrendamientos de viviendas con compromiso de compraventa efectuados al amparo de la Ley N° 19.281.
+g) Sociedades administradoras generales de fondos según las normas del Titulo XXVII de la Ley N° 18.045.
 
-h) Compañías de factoraje, las que deberán operar bajo las condiciones establecidas por esta Superintendencia.
+h) Compañías de leasing, las cuales deben encuadrarse dentro de las condiciones establecidas por esta Superintendencia. Bajo esas condiciones, estas empresas podrán efectuar operaciones de leasing tanto de bienes muebles como inmuebles, incluidos los arrendamientos de viviendas con compromiso de compraventa efectuados al amparo de la Ley N° 19.281.
 
-i) Empresas de asesorías financieras, cuando su giro sea asesorar en materias de índole financiera en cualquiera de las siguientes actividades: i) búsqueda de fuentes alternativas de financiamiento; ii) reestructuración de sus pasivos; iii) negociaciones para adquirir, vender o fusionar empresas; iv) emisión y colocación de bonos; v) colocación de fondos en el mercado de capitales; vi) análisis de riesgos crediticios o de mercado; vii) evaluación de nuevos negocios; viii) conocimientos de materias bancarias.
+i) Compañías de factoraje, las que deberán operar bajo las condiciones establecidas por esta Superintendencia.
 
-j) Empresas de custodia o transporte de valores, las que deberán operar bajo las condiciones establecidas por esta Superintendencia.
+j) Empresas de asesorías financieras, cuando su giro sea asesorar en materias de índole financiera en cualquiera de las siguientes actividades: i) búsqueda de fuentes alternativas de financiamiento; ii) reestructuración de sus pasivos; iii) negociaciones para adquirir, vender o fusionar empresas; iv) emisión y colocación de bonos; v) colocación de fondos en el mercado de capitales; vi) análisis de riesgos crediticios o de mercado; vii) evaluación de nuevos negocios; viii) conocimientos de materias bancarias.
 
-k) Empresas de cobranza de créditos, las que deberán operar bajo las condiciones establecidas por esta Superintendencia.
+k) Empresas de custodia o transporte de valores, las que deberán operar bajo las condiciones establecidas por esta Superintendencia.
 
-l) Operadoras de tarjetas de crédito, las que deben actuar de acuerdo con las normas que se establecen en el Capítulo III.J.l del Compendio de Normas Financieras del Banco Central de Chile y según las normas dictadas por esta Superintendencia.
+l) Empresas de cobranza de créditos, las que deberán operar bajo las condiciones establecidas por esta Superintendencia.
+
+m) Operadoras de tarjetas de crédito, las que deben actuar de acuerdo con las normas que se establecen en el Capítulo III.J.l del Compendio de Normas Financieras del Banco Central de Chile y según las normas dictadas por esta Superintendencia.
 
 - Según el inciso segundo del artículo 70:
 
-m) Sociedades inmobiliarias en los términos señalados en la Ley N° 19.281 y que se denominarán "sociedades de leasing inmobiliario". Estas empresas, a diferencia de las señaladas en la letra g) de este número, podrán construir o adquirir viviendas para futuros arrendamientos.
+n) Sociedades inmobiliarias en los términos señalados en la Ley N° 19.281 y que se denominarán "sociedades de leasing inmobiliario". Estas empresas, a diferencia de las señaladas en la letra g) de este número, podrán construir o adquirir viviendas para futuros arrendamientos.
 
-n) Administradoras de fondos de vivienda (AFV) a que se refiere el artículo 55 de la Ley N° 19.281.
+ñ) Administradoras de fondos de vivienda (AFV) a que se refiere el artículo 55 de la Ley N° 19.281.
 
 Según el D.L. N° 3.500:
 
-ñ) Sociedades administradoras de carteras de recursos previsionales, a que se refiere artículo 23 bis del D.L. N° 3.500.
+o) Sociedades administradoras de carteras de recursos previsionales, a que se refiere artículo 23 bis del D.L. N° 3.500.
 
 Además de las sociedades antes mencionadas, la ley permite la constitución de filiales que presten servicios financieros con el giro específico que sea determinado por esta Superintendencia por norma de carácter general.
 
-Cada sociedad filial tendrá como objeto exclusivo el giro que le corresponda de acuerdo a la actividad para la cual se crea, según lo señalado en los literales anteriores, salvo en el caso de las sociedades indicadas en la letra a), las que podrán complementar su giro principal con la actividad de asesorías financieras a que se refiere la letra i) , siempre que lo admitan las normas pertinentes.
+Cada sociedad filial tendrá como objeto exclusivo el giro que le corresponda de acuerdo a la actividad para la cual se crea, según lo señalado en los literales anteriores, salvo en el caso de las sociedades indicadas en la letra a), las que podrán complementar su giro principal con la actividad de asesorías financieras a que se refiere la letra j), siempre que lo admitan las normas pertinentes.
 
-Las sociedades filiales podrán estar constituidas como sociedades anónimas abiertas o cerradas, o bien como sociedades de responsabilidad limitada. En todo caso, las sociedades que se rigen por la Ley N° 19.281, mencionadas en las letras m) y n), como asimismo las que se rigen por el D.L. N° 3.500 indicadas en la letra ñ), deben estar constituidas como sociedades anónimas.
+Las sociedades filiales podrán estar constituidas como sociedades anónimas abiertas o cerradas, o bien como sociedades de responsabilidad limitada. En todo caso, las sociedades que se rigen por la Ley N° 19.281, mencionadas en las letras n) y ñ), como asimismo las que se rigen por el D.L. N° 3.500 indicadas en la letra o), deben estar constituidas como sociedades anónimas.
 
 La razón social de las sociedades de que trata este título deberá indicar claramente el giro de la empresa y no contener expresiones que puedan inducir a error en cuanto a su objeto.
 
