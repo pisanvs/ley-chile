@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº1.081, de 25 de julio de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs 19A, 23A, 25A, 36C y 36D, para la obra Camino Ruta U-72, sector Osorno - Huilma Tramo Kms.
+
+0,00000 al 18,10000, que figuran a nombre de Nolberto Vega Guzmán y Hahn y Compañía S.A., roles de avalúo 2208-14 y 2210-22, superficies 23,80 m2.; 21 m2., 76 m2., 220 m2. y 220 m2., comuna de Osorno. La Comisión de Peritos, con fecha 28 de julio de 2000, fijó la indemnización provisional en las cantidades de $60.710, lote 19A, $9.870, lote 23A, $31.920, lote 25A, $66.000, lote 36C y $66.000, lote 36D, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
