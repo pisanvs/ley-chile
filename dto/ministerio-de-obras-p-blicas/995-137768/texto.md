@@ -1,0 +1,5 @@
+Por decreto MOP Nº 995, de 29 de abril de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 472-A para la obra ''Concesión Internacional Ruta 5; Tramo Temuco -
+
+Río Bueno'' Km. 857.30000 a Km. 860.55000, Décima Región, que figura a nombre de Neira Ayala José del C, rol de avalúos 554-298, comuna de Paillaco, superficie 387 m2. La Comisión de Peritos integrada por los señores, Jorge Max Nusser Arend, Roberto Pedro Martínez Kraushaar y Daniel Gonzalo Villar Haase, fijó con fecha 28 de enero de 1999, el valor provisional de la indemnización en la cantidad de $445.050.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
