@@ -1,0 +1,3 @@
+Por decreto MOP No. 868, de 30 de junio de 1998, se expropiaron, los lotes de terreno No. s. 10, 11 y 15, superficies 610, 190 y 450 m2. respectivamente, roles de avalúos 137-62 y 137-28, comuna de Chonchi, para la obra Camino Chonchi Teupa, se acordó precio de las indemnizaciones con sus propietarios Santiago de la Torre y Roberto Andrade Saldivia, ascendentes a las cantidades de $ 459.785.- para los lotes No. s 10 y 11 y en $ 305.125.- para el lote No. 15.
+
+Fiscal del Ministerio de Obras Públicas.
