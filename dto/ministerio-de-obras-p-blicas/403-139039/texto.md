@@ -1,0 +1,3 @@
+Por decreto MOP Nº 403, de 26 de febrero de 1999, se expropiaron los lotes de terreno Nºs. 25, 66, 70, 71, 72, 133 y 136, superficies 126,38; 1.381,58; 226,03; 520,44; 190,62; 951,16 y 61,87 m2 respectivamente, roles de avalúo 122-69, 117-7, 146-16 y 5-11, comunas de Curaco de Vélez y Quinchao, para la obra Camino Ruta W-59, Sector Dalcahue - Achao y se acordó precio de indemnización con sus propietarios Galo Muñoz España, Elba Sánchez Gallardo y Otros, María Uribe Ruíz y Manuel Estefo Estefo, ascendente a las cantidads de $241.961, $807.819, $522.911 y $676.923.
+
+Fiscal del Ministerio de Obras Públicas.
