@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº710 de fecha 31 de mayo del 2001, se expropió el lote de terreno Nº8, superficie 726,93 m², sin rol, comuna de Vallenar, para la obra "Variante Canal Marañón, Km. 0,00 al Km. 3,773" del Proyecto de Mejoramiento Canales Tercera Sección, Valle Río Huasco y se acordó el valor de indemnización con su propietario Manuel Antonio Tapia Bordones, ascendente a la cantidad de $390.632.-
+
+Fiscal del Ministerio de Obras Públicas.
