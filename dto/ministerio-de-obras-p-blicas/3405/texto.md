@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.405, de 29 de octubre de 1999, se expropió el lote de terreno Nº80-2, superficie 1.715,0 m², rol de avalúo 205-5, comuna de Perquenco, para la obra Concesión Internacional Ruta 5. Tramo: Collipulli-Temuco, Novena Región y se acordó el valor de indemnización con su propietaria Soc. Molinera y Comercial Quillem Limitada, ascendente a la cantidad de $2.171.187.-
+
+Fiscal del Ministerio de Obras Públicas.
