@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.239, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs. 4 y 8, superficies 163 y 296,4 m² respectivamente, roles de avalúos 107-21 y 107-25, comuna de Copiapó, para la obra Acceso Sur a Copiapó y Puente La Paz, camino Ruta 5 Longitudinal Norte y se acordó precio de las indemnizaciones con sus propietarios Sergio Faúndez del Hoyo y Rodrigo Emilio López Murúa y otro, ascendentes a las cantidades de $38.266.620, para el lote Nº 4 y $29.161.628, para el lote Nº 8.-
+
+Fiscal del Ministerio de Obras Públicas.
