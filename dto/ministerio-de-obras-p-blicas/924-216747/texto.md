@@ -1,0 +1,3 @@
+Por decreto MOP Nº924 de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº12-B, superficie 7.128 m2., Rol Nº180-8, comuna de San Nicolás, VIII Región para la obra "Camino Ruta N-60-O, Sector Río Ñuble - Portezuelo, Km. 6.900.00 a Km. 28.833.35" y se acordó el valor de indemnización con su propietario Roberto Enrique Ibáñez Orellana, ascendente a la cantidad de $4.366.890.
+
+Fiscal del Ministerio de Obras Públicas.
