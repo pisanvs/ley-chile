@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.776, de 30 de junio de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº31, para la obra Camino Ruta E-39, sector Quinquimo - El Rayado, tramo Kms 0.300 al 6.600, que figura a nombre de Oscar Riveros Estay, rol de avalúo 308-2, superficie 77,00 m2., comuna de La Ligua. La Comisión de Peritos, fijó con fecha 21 de junio de 1999, la indemnización provisional en la cantidad de $269.500, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
