@@ -1,0 +1,3 @@
+Decreto sección 2ª Nº 106 de 18-08-2004, Alcalde I. Municipalidad de Santiago, dispone expropiación total, conforme artículo 85 decreto 458 Ministerio Vivienda y Urbanismo, inmueble Lord Cochrane 499, Rol 648-6, comuna Santiago, dominio aparente doña Laura López Toledo. Superficie aproximada y deslindes 508,70 metros cuadrados. Norte, 35,70 metros Parque Almagro. Sur, igual dimensión Avda. Santa Isabel. Oriente, 14,50 metros calle Lord Cochrane. Poniente, igual dimensión otros propietarios. Indemnización $86.479.000.- pagadera al contado.
+
+- Joaquín Lavín I., Alcalde de Santiago.
