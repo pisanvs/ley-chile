@@ -1,0 +1,3 @@
+Por resolución Nº 1.509, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al Sector denominado Punta de Choros, IV Región, individualizada en el artículo 1º) Nº 7 del D.S. Nº 10 de 1998, del Ministerio de Economía, Fomento y Reconstrucción, presentado por ASOCIACION GREMIAL DE TRABAJADORES DEL MAR INDEPENDIENTES DE CALETA PUNTA DE CHOROS, IV Región.
+
+Valparaíso, 6 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
