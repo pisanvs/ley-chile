@@ -1,0 +1,3 @@
+Por resolución Nº 1.202, de 13 de agosto de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a VLADIMIR REIMUNDO AVENDAÑO ASPILLAGA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada a 5 Km. al Este de Taltal, camino a basural municipal, II Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Secado y Molienda: Chasca, Chascón, Chicorea de mar, Cochayuyo, Cotoni, Huiro, Huiro palo, Luche, Luga roja y Pelillo.
+
+Valparaíso, 13 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
