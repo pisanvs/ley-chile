@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 194, de 31 de Julio de 1986, se expropió el lote No. 1, cuya superficie es 2.309 M2., rol de avalúo 1494-1, Comuna de Coquimbo, IV Región, para mejoramiento del Agua Potable de Coquimbo, Estanques de Regulación San Juan y se acordó el precio de indemnización con su propietaria Ilustre Municipalidad de Coquimbo, ascendente a $ 2.948.824.-
+
+Fiscal del Ministerio de Obras Públicas.
