@@ -1,0 +1,153 @@
+ESTABLECE LA SEDE Y TERRITORIO DE LOS SERVICIOS DE SALUD DE LA REGION METROPOLITANA DE SANTIAGO
+
+Santiago, 03 de Enero de 1985.- Hoy se decretó lo que sigue:
+
+Núm. 2.- Visto: Lo establecido en el inciso final del artículo 16° del decreto ley N° 2.763, de 1979; en el artículo 3° del decreto supremo N° 281, de 30 de Julio de 1980 y en los artículos 21° al 27° del decreto supremo N° 235, de 17 de Junio de 1980, ambos del Ministerio de Salud, y teniendo presente las facultades que me confiere el artículo 32° N° 8 de la Constitución Política de la República,
+
+Decreto:
+
+#### Artículo 1°
+
+El Servicio de Salud Metropolitano Central tendrá su sede en la ciudad de Santiago y su territorio ser el comprendido dentro de los siguientes
+
+límites:
+
+Norte: La Avda. Presidente Balmaceda, desde Avda. DTO 255 Carrascal hasta la calle General Bulnes; la calle General Bulnes, desde la Avda. Presidente Balmaceda hasta la prolongación norte del puente Bulnes; la prolongación norte del Puente Bulnes, desde la Carretera Panamericana Norte hasta Avda. Santa María; la Avda. Santa María, desde la Carretera Panamericana Norte hasta el puente Pío Nono.
+
+Sur: La línea de ferrocarril de circunvalación, desde la Avda. Vicuña Mackenna hasta la calle Bascuñán Guerrero, la calle Bascuñan Guerrero, desde la línea del ferrocarril de circunvalación hasta el Zanjón de la Aguada; el Zanjón de la Aguada, desde la calle Bascuñán Guerrero hasta la línea del ferrocarril longitudinal sur; la línea del ferrocarril longitudinal sur, desde el Zanjón de la Aguada hasta la calle Plano Regulador; la calle Plano Regulador, desde la línea del ferrocarril longitudinal sur hasta la carretera Panamericana Sur (variante Cerrillos); la carretera panamericana Sur (variante Cerrillos), desde la calle Plano Regulador hasta la Avda. Lo Espejo; la Avda. Lo Espejo, desde la carretera Panamericana Sur (variante Cerrillos) hasta el camino a Lonquén; el camino a Lonquén, desde la Avda. Lo Espejo (Lo Sierra) hasta el lindero sur dé la parcela rol 2612-9; el lindero sur de las parcelas rol 2612-9, 65 A (rol 2612-17), 60 B (rol 2613-9), 6 El Alc zar (rol 2608-30), rol 2608-26 y Alc zar de Chena (rol 2608-18), desde el camino a Lonquén hasta el camino de Santiago a Melipilla; el camino de Santiago a Melipilla, desde el lindero sur de la parcela Alcaz r de Chena (rol 2608-18) hasta el lindero sur de las parcelas del antiguo fundo El Bosque; el lindero sur de las parcelas del antiguo fundo El Bosque, desde el camino de Santiago a Melipilla hasta el río Mapocho; el río Mapocho, desde el lindero sur de las parcelas del antiguo fundo El Bosque hasta la puntilla del Viento; y la línea de cumbres que limita por el sur La Rinconada de Maipú, desde la puntilla del Viento, junto al río Mapocho, hasta la línea de cumbres que limita por el oriente la hoya del estero Puangue, pasando por los cerros Los Ratones, Placeta Ancha, Bandera y por el morro El Fraile.
+
+Oeste: La línea de cumbres que limita por el oriente la hoya del estero Puangue, desde la línea de cumbres que limita por el sur la Rinconada de Maipú hasta el trigonométrico Minas; la línea de cumbres que encierra por el norte la Rinconada Lo Cerda, desde el trigonométrico Minas hasta el trigonométrico cerro Lo Aguirre, pasando por el trigonométrico cerro Las Minas y por los cerros Buitrera y Carneros; el lindero sur del mineral La Africana, desde el trigonométrico cerro Lo Aguirre hasta el río Mapocho; el río Mapocho, desde el lindero sur del mineral La Africana hasta el lindero sur de la chacra La Farfana (rol 2599-5); el lindero sur y oriente de la chacra La Farfana, desde el río Mapocho hasta el lindero sur del predio El Sauce; el lindero sur de los predios El Sauce (rol 2509-15), El Huing n (rol 259055) y Maitén Sur (parcela 4) rol 2599-56), desde el lindero oriente de la chacra La Farfana hasta el lindero oriente del predio Maitén Sur (parcela 4); el lindero oriente de los predios Maitén Sur (parcela 4) (rol 2599-56) y Maitén Norte (parcela 2) (rol 2599-54), desde el lindero sur del predio Maitén Sur (parcela 4) hasta el lindero sur del predio San Pedro (La Reserva, Lote 3) (rol 2599-2); el lindero sur del citado predio San Pedro, desde el lindero oriente del predio Maitén Norte (parcela 2) hasta la Avda. Américo Vespucio; la Avda.
+
+Américo Vespucio, desde el lindero sur del predio San Pedro (La Reserva, Lote 3) hasta el callejón de Los Perros; el callejón de Los Perros, desde la Avda.
+
+Américo Vespucio hasta la Avda. Los Pajaritos; la Avda. Los Pajaritos, desde el callejón de Los Perros hasta el lindero poniente del predio conjunto habitacional La Laguna de Carabineros de Chile; el lindero antes citado, desde la Avda. Los Pajaritos hasta el camino a Pudahuel; el camino a Pudahuel, desde el lindero poniente del predio conjunto habitacional La Laguna de Carabineros de Chile, hasta la Avda. del Libertador Bernardo O'Higgins; la Avda. del Libertador Bernardo O'Higgins, desde el camino a Pudahuel hasta la Avda. Las Rejas; la Avda. Las Rejas, desde la Avda. del Libertador Bernardo O'Higgins hasta la calle Porto Seguro; la calle Porto Seguro, desde la Avda. Las Rejas hasta la Avda. Joaquín Walker Martínez; la Avda. General Velázquez (ex Joaquín Walker Martínez), la Avda. General Velázquez, desde la calle Porto Seguro hasta la calle Santo Domingo; la calle Santo Domingo, desde la Avda. General Velázquez, hasta la Avda. Matucana; la Avda. Matucana, desde la calle Santo Domingo hasta la Avda. Carrascal.
+
+Exclusiones.- Se excluyen del territorio correspondiente al Servicio de Salud Metropolitano Central los siguientes sectores:
+
+1.- Manzana comprendida entre las siguientes calles y avenidas:
+
+Norte: Calle Compañía
+
+Oeste: Avda. Matucana
+
+Sur: Avda. Portales
+
+Este: Calle Chacabuco
+
+2.- Manzana comprendida entre las siguientes calles:
+
+Norte: Calle San Pablo
+
+Oeste: Calle San Martín
+
+Sur: Calle Rosas
+
+Este: Calle Amunátegui
+
+#### Artículo 2°
+
+El Servicio de Salud Metropolitano Sur tendrá su sede en la ciudad de Santiago y su territorio será el comprendido dentro de los siguientes límites:
+
+Norte: La calle Plano Regulador, desde la Carretera Panamericana Sur (variante Cerrillos) hasta la línea del ferrocarril longitudinal sur; la línea del ferrocarril longitudinal sur, desde la calle Plano Regulador hasta el Zanjón de la Aguada; el Zanjón de la Aguada, desde la línea del ferrocarril longitudinal sur hasta la calle Bascuñ n Guerrero; la calle Bascuñ n Guerrero, desde el Zajón de la Aguada hasta la línea del ferrocarril de circunvalación; y la línea del ferrocarril de circunvalación, desde la calle Bascuñ n Guerrero hasta la Avda. Vicuña Mackenna (paso sobre nivel).
+
+Oeste: La Avda. Vicuña Mackenna, desde la línea del ferrocarril de circunvalación (paso bajo nivel) hasta la calle Punta Arenas; la calle Punta Arenas, desde la Avda. Vicuña Mackenna hasta la Avda. Lo Ovalle; la Avda. Lo Ovalle, desde la calle Punta Arenas hasta la Avda. La Granja; la Avda. La Granja (San Francisco o Cerro Negro), desde la Avda. Lo Ovalle hasta el camino El Mariscal; el camino El Mariscal, desde la calle San Francisco (Cerro Negro) hasta la prolongación del lindero poniente de las parcelas La Pintana; el lindero poniente y sur de las Parcelas La Pintana, desde el camino El Mariscal hasta el camino El Retiro (Santa Rosa); el camino El Retiro, desde la prolongación del lindero sur de las parcelas La Pintana hasta el río Maipo; el río Maipo, desde el camino El Retiro hasta la desembocadura del río Clarillo; la línea recta, desde la desembocadura del río Clarillo en el río Maipo hasta el trigonométrico Puente El Morro; y la línea de cumbres que limita por el poniente y sur la hoya del río Clarillo, desde el trigonométrico Puente El Morro hasta la línea de cumbres que limita por el norte la hoya del río Peuco.
+
+Sur: La línea de cumbres que limita por el norte la hoya del río Peuco, desde la línea de cumbres que limita por el sur la hoya del río Clarillo hasta la angostura de Paine; la línea de cumbres, desde la angostura de Paine hasta el cerro Planchón; y la línea de cumbres que limita por el sur la hoya de la laguna de Aculeo, desde el cerro Planchón hasta el trigonométrico cerro Cantillana.
+
+Oeste: La línea de cumbres que limita por el sur y poniente la hoya de la laguna de Aculeo, desde el trigonométrico cerro Cantillana hasta el morro El Maitén; la línea de cumbres de los cerros de Aculeo y la loma El Almendro, desde el morro El Maitén hasta la puntilla El Almendro, junto al río Maipo; el río Maipo, desde la puntilla El Almendro hasta la puntilla de Lonquén; la línea de cumbres de la puntilla de Lonquén, desde la puntilla de Lonquén hasta los cerros de Tango; la línea de cumbres de los cerros de Tango, desde la línea de cumbres de la puntilla de Lonquén hasta la puntilla Calera; el camino a Lonquén, desde la puntilla Calera hasta el lindero norte de la parcela Santa Alicia; el lindero norte de las parcelas Santa Alicia (rol 504-5), San Joaquín (rol 504-6), Santa Luisa de Oliveto (rol 504-8), Los Olmos (rol 5049), Santa Rosa (rol 504-11) y Santa Alicia (rol 504-1), desde el camino a Lonquén hasta el canal Oliveto; el canal Oliveto, desde el lindero norte de la parcela Santa Alicia hasta el lindero poniente de la parcela San Nicol s; el lindero poniente de la parcela San Nicol s (rol 2029) y el fundo El Curato (rol 2221), desde el canal Oliveto hasta el lindero sur de la parcela El Curato (rol 20-155); el lindero sur citado, desde el lindero poniente del fundo El Curato hasta el lindero poniente de la mencionada parcela El Curato; el lindero de las parcelas El Curato (roles 20-155, 20-154, 20151, 20-150, 20-146), desde el lindero sur de la parcela El Curato (rol 20-155) hasta el lindero sur de la parcela El Copihue (rol 332-53); el lindero sur y oriente de la citada parcela, desde el lindero poniente de la parcela El Curato (rol 20-146) hasta el lindero oriente de la parcela Triunfo Chile; el lindero oriente de las parcelas Triunfo Chile (rol 332-54), Doce (rol 332-64) y El Progreso (rol 33283), desde el lindero oriente de la parcela El Copihue hasta el lindero poniente de la parcela El Copihue (rol 20-56); el lindero poniente de las parcelas El Copihue (roles 20-56, 20-53 y 20-52), parcela rol 20-41, La Higuera (rol 20-28) y El Aromo (rol 20-17), desde el lindero oriente de la parcela El Progreso hasta el lindero norte de la mencionada parcela El Aromo; el lindero norte de los predios El Aromo (rol 20-17), La Higuera (rol 20-28) y El Duraznal (rol 20-18), desde el lindero poniente de la parcela El Aromo hasta el lindero poniente de la parcela rol 20-13; el lindero poniente de las parcelas roles 20-13, 20-12 y de la chacra Isabel (rol 20-11), desde el lindero norte de la parcela El Duraznal hasta el lindero sur de la parcela 60-B; el lindero sur de las parcelas 60-B (rol 2613-9), 65-A (rol 2612-17) y rol 2812-9 del antiguo fundo Santa Ana de Chena, desde el lindero poniente de la chacra Isabel hasta el camino a Lonquén; el camino a Lonquén, desde el lindero sur de la parcela rol 2612-9 hasta la Avda. Lo Sierra (Lo Espejo); la Avda. Lo Espejo desde el camino a Lonquén hasta la Carretera Panamericana Sur (variante Cerrillos); y la Carretera Panamericana Sur (variante Cerrillos), desde la Avda. Lo Espejo hasta la calle Plano Regulador.
+
+#### Artículo 3°
+
+El Servicio de Salud Metropolitano Sur - Oriente tendrá su sede en la ciudad de Puente Alto y su territorio será el comprendido dentro de los siguientes límites:
+
+Norte: La Avda. Lo Ovalle, desde la calle San Francisco hasta la calle Punta Arenas; la calle Punta Arenas, desde la Avda. Lo Ovalle hasta la Avda. Vicuña Mackenna; la Avda. Vicuña Mackenna, desde la calle Punta Arenas, hasta la Avda. Departamental; La Avda. Departamental, desde la Avda. Vicuña Mackenna hasta la quebrada de Macul; la quebrada de Macul, desde la Avda. Departamental hasta su origen; la línea de cumbres, desde el origen de la quebrada de Macul hasta el cerro Las Lagunas; la línea de cumbres que limita por el sur y oriente la hoya del río Mapocho, desde el cerro Las Lagunas hasta el cerro Altar; y la línea de cumbres que limita por el sur la hoya del río Aconchada, desde el cerro Altar hasta la frontera con Argentina.
+
+Este: La frontera con Argentina, desde la línea de cumbres que limita por el sur la hoya del río Aconchada hasta el paso de Maipo.
+
+Sur: La línea de cumbres que limita por el sur y poniente la hoya del alto río Maipo, desde la frontera con Argentina hasta la línea de cumbres que limita por el norte la hoya del río Peuco; la línea de cumbres que limita por el norte la hoya del río Peuco; desde la línea de cumbres que limita por el poniente la hoya del alto río Maipo hasta la línea de cumbres que limita por el sur la hoya del río Clarillo; y la línea de cumbres que limita por el sur y oeste la hoya del río Clarillo, desde la línea de cumbres que limita por el norte la hoya del río Peuco hasta el trigonométrico Puente del Morro.
+
+Oeste: Una línea recta, desde el trigonométrico Puente del Morro hasta la desembocadura del río Clarillo en el río Maipo; el río Maipo, desde la desembocadura del río Clarillo hasta el camino El Retiro (prolongación Avda. Santa Rosa); el camino El Retiro, desde el río Maipo hasta el lindero sur de las parcelas de La Pintana; el lindero sur y poniente de las parcelas La Pintana; desde el camino El Retiro hasta el camino El Mariscal; el camino El Mariscal, desde el lindero poniente de las parcelas La Pintana hasta el camino Cerro Negro; y el camino Cerro Negro y su prolongación en la calle San Francisco (llamada en parte, Avda. La Granja), desde el camino El Mariscal hasta la Avda. Lo Ovalle.
+
+#### Artículo 4°
+
+El Servicio de Salud Metropolitano Oriente tendrá su sede en la ciudad de Santiago y su territorio ser el comprendido dentro de los siguientes límites:
+
+Norte: La línea de cumbres del cordón del San Cristóbal, desde la cumbre del cerro San Cristóbal hasta la cumbre del cerro Manquehue; y la línea de cumbres que limita por el poniente y norte la hoya del río Mapocho, desde el cerro Manquehue hasta el cerro Altar.
+
+Este: La línea de cumbres que limita por el oriente y sur la hoya andina del río Mapocho, desde el cerro Altar hasta el cerro de Ramón Corrales.
+
+Sur: La quebrada de Macul, desde su origen en el cerro de Ramón Corrales hasta la Avda. Departamental; y la Avda. Departamental, desde la quebrada de Macul hasta la Avda. Vicuña Mackenna.
+
+Oeste: La Avda. Vicuña Mackenna, desde la Avda. Departamental hasta el puente Pío Nono; la calle Pío Nono desde el puente Pío Nono hasta su intersección con la calle Domínica; una línea recta, desde la intersección de las calles Pío Nono y Domínica hasta el costado poniente de la línea del funicular; el costado poniente de la línea del funicular, a lo largo de toda su extensión; y la línea recta, desde el costado poniente de la línea del funicular hasta la cumbre del cerro San Cristóbal.
+
+> **Nota.** El DTO 214 Exento, Salud, publicado el 11.06.2007, modifica la presente norma, en el sentido de incluir en el territorio de competencia del Servicio de Salud Metropolitano Oriente, Región Metropolitana de Santiago, la Provincia de Isla de Pascua.
+
+#### Artículo 5°
+
+El Servicio de Salud Metropolitano Norte tendrá su sede en la ciudad de Santiago y su territorio será el comprendido dentro de los siguientes límites:
+
+Norte: La línea de cumbres que limita por el sur la hoya del río Aconchada, desde el cerro El Roble hasta el cordón de Los Españoles.
+
+Este: El cordón de Los Españoles, desde la línea de cumbres que limita por el sur la hoya del río Aconchada hasta el cerro Vizcachas; la línea de cumbres que limita por el norte y poniente la hoya del estero Las Hualtatas, desde el cerro Vizcachas hasta el cerro Manquehue; la línea de cumbres de los cerros de El Salto y San Cristóbal, desde el cerro Manquehue hasta la cumbre del cerro San Cristóbal; la línea recta, desde la cumbre del cerro San Cristóbal hasta el costado poniente de la línea del funicular; el costado poniente de la línea del funicular, en toda su extensión; la línea recta que une el costado poniente de la línea del funicular con la intersección de las calles Domínica y Pío Nono; y la calle Pío Nono, desde su intersección con la calle Domínica hasta la Avda. Santa María.
+
+Sur: La Avda. Santa María, desde el puente Pío Nono hasta la intersección de la prolongación del puente Bulnes.
+
+Oeste: La prolongación al norte del puente Bulnes, desde la Avda. Santa María hasta la carretera Panamericana Norte; la carretera Panamericana Norte, desde la intersección con la prolongación al norte del puente Bulnes hasta el camino de acceso al vivero de la Municipalidad de Santiago (paradero 12); el camino de acceso al vivero de la Municipalidad de Santiago, desde la carretera Panamericana Norte hasta el camino Lo Ruiz; el camino Lo Ruiz, desde el camino de acceso al vivero de la Municipalidad de Santiago hasta el lindero sur del citado vivero; el lindero sur del vivero de la Municipalidad de Santiago, desde el camino Lo Ruiz hasta la línea del ferrocarril longitudinal norte; la línea del ferrocarril longitudinal norte, desde el lindero sur del vivero de la Municipalidad de Santiago hasta la puntilla de la línea de cumbres del cerro Lo Ruiz que enfrenta al vivero de la Municipalidad de Santiago; la línea de cumbres del cerro Lo Ruiz, desde la puntilla que enfrenta al vivero de la Municipalidad de Santiago, junto a la línea del ferrocarril longitudinal norte, hasta el cerro Lo Ruiz; la línea de cumbres de los cerros de Renca, desde el cerro Lo Ruiz hasta la puntilla del cerro Colorado; el lindero sur de la parcela 8 (rol 117-242), 13 (rol 117-236), 38 (rol 117-261), 39. (rol 117-262), 42 (rol 117265), 44 (rol 117-267) 46 (rol 117-260), 24 (rol 117-56), 48 (rol 117-271) y 49 (rol 117-272) del antiguo fundo Lo Echevers y del antiguo fundo Cerrillos, desde la puntilla del cerro Colorado hasta el estero Colina; el estero Colina, desde el lindero sur del antiguo fundo Cerrillos hasta su confluencia con el estero Lampa; el camino de Renca a Lampa, desde la confluencia de los esteros Colina y Lampa hasta el lindero sur del fundo Peralillo; el lindero sur del fundo Peralillo (rol 764-1), desde el camino de Renca a Lampa hasta el cerro L stima; la línea de cumbres que limita por el oriente la hoya del estero Puangue, desde el cerro L stima hasta el cerro Vizcacha; la línea de cumbres que limita por el oriente la hoya del estero Limache, desde el cerro Vizcacha hasta el cerro Puntilla El Imán; y la línea de cumbres, desde el cerro Puntilla El Imán hasta el cerro El Roble.
+
+#### Artículo 6°
+
+El Servicio de Salud Metropolitano Occidente tendrá su sede en la ciudad de Santiago y su territorio será el comprendido dentro de los siguientes límites:
+
+Norte: El lindero sur del fundo Peralillo (rol 764-1), desde el cerro L stima hasta el camino de Lampa a Renca; el camino de Lampa a Renca, desde el lindero sur del fundo Peralillo hasta la confluencia de los esteros Colina y Lampa; el estero Colina, desde su confluencia con el estero Lampa hasta el lindero sur del antiguo fundo Cerrillos; el lindero sur del antiguo fundo Cerrillos y de las parcelas 49 (rol 117-272), 48
+
+(rol 117-271), 24 (rol 117-56), 46 (rol 117-269), 44
+
+(rol 117-267), 42 (rol 117-265), 39 (rol 117-262), 38
+
+(rol 117-261), 13 (rol 117-236) y 8 (rol 117-242) Lo
+
+Echevers, desde el estero Colina hasta la puntilla del cerro Colorado; la línea de cumbres de los cerros de Renca, desde la puntilla del cerro Colorado hasta el cerro Lo Ruiz; la línea de cumbres del cerro Lo Ruiz hasta la puntilla que enfrenta al vivero de la Municipalidad de Santiago; la línea del ferrocarril longitudinal norte, desde la puntilla del cerro Lo Ruiz que enfrenta al vivero de la Municipalidad de Santiago hasta el lindero sur del citado vivero; el lindero sur del vivero de la Municipalidad de Santiago, desde la línea del ferrocarril longitudinal norte hasta el camino Lo Ruiz; el camino Lo Ruiz, desde el lindero sur del vivero de la Municipalidad de Santiago hasta el camino de acceso al citado vivero; y el camino de acceso al vivero de la Municipalidad de Santiago, desde el camino Lo Ruiz hasta la carretera Panamericana Norte (paradero 12).
+
+Este: La carretera Panamericana Norte, desde el camino de acceso al vivero de la Municipalidad de Santiago (paradero 12) hasta prolongación en línea recta del puente Bulnes; la prolongación del puente Bulnes, desde la carretera Panamericana Norte hasta la Avda. Presidente Balmaceda; la Avda. Presidente Balmaceda, desde la calle General Bulnes hasta la Avda. Carrascal; la Avda. Matucana, desde la Avda. Carrascal hasta la calle Santo Domingo; la calle Santo Domingo desde la Avda. Matucana hasta la Avda. General Velázquez; la Avda. General Velázquez, desde la calle Santo Domingo hasta la calle Porto Seguro; la calle Porto Seguro, desde la Avda. General Velázquez hasta la Avda. Las Rejas; la Avda. Las Rejas, desde la calle Porto Seguro hasta la banda norte de la Avda. del Libertador Bernardo O'Higgins; la banda norte de la Avda. del Libertador Bernardo O'Higgins, desde la Avda. Las Rejas hasta el camino a Pudahuel; el camino a Pudahuel, desde la banda norte de la Avda. del Libertador Bernardo O'Higgins hasta el lindero poniente del predio Conjunto Habitacional La Laguna, de Carabineros de Chile, el lindero poniente del predio Conjunto Habitacional La Laguna, de Carabineros de Chile, desde el camino a Pudahuel hasta la Avda. Los Pajaritos; la Avda. Los Pajaritos, desde el lindero poniente del predio Conjunto Habitacional La Laguna, de Carabineros de Chile, hasta el callejón Los Perros; el callejón de Los Perros, desde la Avda. Los Pajaritos hasta la Avda. Américo Vespucio; la Avda. Américo Vespucio, desde el callejón de Los Perros hasta el lindero sur del predio San Pedro (Reserva Lote 3, rol 2590-2); el lindero sur del predio citado, desde la Avda. Américo Vespucio hasta el lindero oriente del predio Maitén Norte (parcela 2); el lindero oriente de los predios Maitén Norte (parcela 2) (rol 2599-54) y Maitén Sur (parcela 4) (rol 2599-56), desde el lindero sur del predio San Pedro (Reserva Lote 3) hasta el lindero sur del predio Maitén Sur (parcela 4, rol 2599-56); el lindero sur de los predios Maitén Sur (parcela 4, rol 2599-56), El Huing n (rol 2599-55) y El Sauce (rol 2590-15), desde el lindero oriente del predio Maitén Sur (pala 4) hasta el lindero oriente de la chacra La Farfana; el lindero oriente y sur de la chacra La Farfana (rol 2599-5), desde el lindero sur del predio El Sauce hasta el río Mapocho; el río Mapocho, desde el lindero sur de la chacra La Farfana hasta el lindero sur del mineral La Africana; el lindero sur del mineral La Africana, desde el río Mapocho hasta el trigonométrico cerro Lo Aguirre; la línea de cumbres que encierra por el norte la Rinconada Lo Cerda, desde el trigonométrico cerro Lo Aguirre hasta el trigonométrico Minas; la línea de cumbres que limita por el oriente la hoya del estero Puangue, desde el trigonométrico Minas hasta el Morro El Fraile; la línea de cumbres que limita por el sur la Rinconada de Maipú, desde el Morro El Fraile hasta la puntilla del Viento, junto al río Mapocho; el río Mapocho, desde la puntilla del Viento hasta el lindero sur de las parcelas del antiguo fundo El Bosque; el lindero sur de las parcelas del antiguo fundo El Bosque, desde el río Mapocho hasta el camino de Melipilla a Santiago; el camino de Melipilla a Santiago, desde el lindero sur del antiguo fundo El Bosque hasta el lindero sur de la parcela El Alc zar de Chena; el lindero sur de las parcelas El Alc zar de Chena (rol 2608-16), rol 2608-6, 6 El Alc zar (rol 2608-30) y 60 B (rol 2613-9), desde el camino de Melipilla a Santiago hasta el lindero poniente de la chacra Isabel; el lindero poniente de la chacra Isabel (rol 20-11) y de las parcelas roles 20-12 y 20-13, desde el lindero sur de la parcela 60-B hasta el lindero norte de la parcela El Duraznal; el lindero norte de las parcelas El Duraznal (rol 20-18), La Higuera (rol 20-28) y El Aromo (rol 20-17), desde el lindero poniente de la parcela rol 20-13 hasta el lindero poniente de la citada parcela El Aromo; el lindero poniente de las parcelas El Aromo (rol 2017), La Higuera (rol 20-28), rol 20-41 y El Copihue (roles 2-52, 20-53 y 20-56), desde el lindero norte de la parcela El Aromo (rol 20-17) hasta el lindero oriente de la parcela El Progreso; el lindero oriente de las parcelas El progreso (rol 332-83), Doce (rol 332-64), Triunfo de Chile (rol 332-54) y El Copihue (rol 332-53), desde el lindero poniente de la parcela El Copihue (rol 20-56) hasta el lindero sur de la citada parcela El Copihue (rol 332-53); el lindero sur de la parcela El Copihue, desde su lindero oriente hasta el lindero poniente de la parcela El Curato (rol 20-146); el lindero poniente de las parcelas El Curato (roles 20-146, 20-150 20-151, 20-152, 20-154 y 20155), desde el lindero sur de la parcela El Copihue (rol 332-53) hasta el lindero sur de la parcela El Curato (rol 20-155); el lindero sur de la parcela El Curato, desde su lindero poniente hasta el lindero poniente del fundo El Curato; el lindero poniente del fundo El Curato; (rol 20-21) y de la parcela San Nicol s (rol 20-29), desde el lindero sur de la parcela El Curato hasta el canal Oliveto; el canal Oliveto, desde el lindero poniente de la parcela San Nicol s hasta el lindero norte de la parcela Santa Alicia; el lindero norte de las parcelas Santa Alicia (rol 5041), Santa Rosa (rol 504-11), Los Olmos (rol 504-9), San Rafael de Oliveto (rol 504-8), Santa Luisa de Oliveto (rol 504-7), San Joaquín (rol 504-6) y Santa Alicia (rol 504-5), desde el canal Oliveto hasta el camino a Lonquén; el camino a Lonquén, desde el lindero sur de la parcela Santa Alicia (rol 504-5) hasta la puntilla Calera; la línea de cumbres de los cerros de Tango, desde la puntilla Calera hasta la puntilla de Lonquén, junto al río Maipo; el río Maipo, desde la puntilla de Lonquén hasta la puntilla El Almendro; la loma El Almendro y la línea de cumbres de los cerros de Aculeo, desde la puntilla El Almendro hasta el morro El Maitén; la línea de cumbres que limita por el poniente la hoya de la laguna de Aculeo, desde el morro El Maitén hasta el cerro Cantillana; la línea de cumbres que limita por el sur la hoya de la laguna de Aculeo, desde el cerro Cantillana hasta el portezuelo Enjalma; la línea de cumbres que limita por el oriente la hoya del estero Alhué, desde el portezuelo Enjalma hasta el cerro Los Arrayanes; la línea de cumbres que limita por el sur la hoya del estero Alhué, desde el cerro Los Arrayanes hasta el cerro Altos de Llivillivi, y la línea de cumbres que limita por el oriente la hoya del estero Carén, desde el cerro Altos de Llivillivi hasta el Alto de Llivillivi.
+
+Sur: La línea de cumbres que limita por el sur la hoya del estero Carén, desde el Alto de Llivillivi hasta el trigonométrico morro Pinche; el lindero oriente del predio Quilamuta (rol 2133), desde el trigonométrico Pinche hasta el estiro Alhué; el estero Alhué, desde el lindero oriente del predio Quilamuta (rol 213-3) hasta el lindero poniente del predio San Alfonso (rol 202-3); el lindero poniente del predio San Alfonso (rol 2023); desde el estero Alhué hasta el trigonométrico Molli; la línea de cumbres de la Loma Molles, desde el trigonométrico Molli hasta el trigonométrico Tres Linderos; la línea de cumbres, desde el trigonométrico Tres Linderos hasta el trigonométrico Boldo Ladeado; el lindero norte de los predios Las Varillas (rol 20-9) y Las Casas de San Esteban (rol 20-1), desde el trigonométrico Boldo Ladeado hasta la quebrada de Quelentaro; la quebrada de Quelentaro, desde el lindero norte del predio Las Casas de Quelentaro hasta su origen, una línea recta, desde el origen de la quebrada Quelentaro hasta la cota 302; la línea de cumbres que limita por el poniente la hoya de la quebrada de Quelentaro, desde la cota 302 hasta el río Rapel, y el río Rapel, desde la línea de cumbres que limita por el poniente la hoya de la quebrada de Quelentaro hasta el lindero poniente del fundo Comeche.
+
+Oeste: El lindero poniente de los predios Comeche (rol 28-2) y Bucal (rol 28-1), desde el río Rapel hasta el estero Yali; el estero Yali, desde el lindero poniente del predio Bucal hasta el lindero poniente del predio Cabimbao; el lindero poniente de los predios Cabimbao (rol 2931) y Tamcor (rol 29-30), desde el estero Yali hasta el río Maipo; el río Maipo, desde el lindero poniente del fundo Tamcor hasta la desembocadura del estero Puangue; el estero Puangue, desde su desembocadura en el río Maipo hasta el paralelo astronómico del trigonométrico cerro Las Juntas; dicho paralelo astronómico, desde el estero Puangue hasta el trigonométrico cerro Las Juntas; la línea de cumbres que limita por el poniente la hoya del estero Puangue, desde el trigonométrico cerro Las Juntas hasta la cota 1410, pasando por el cordón de la cuesta de Zapata y por el cerro Mauco de Vinilla; la línea de cumbres divisoria secundaria de aguas, desde la cota 1410 hasta el paso de Los Padrones, pasando por las cotas 770 y 614; la línea de cumbres divisoria secundaria de aguas, desde el paso de Los Padrones, sobre el estero Puangue, hasta el cerro Roble Alto, pasando por las cotas 505, 1022, 1352 y 1438 y por el cerro Casas de Piedra, y línea de cumbres que limita por el oriente la hoya del estero Puangue, desde el cerro Roble Alto hasta el cerro Lástima.
+
+"Incorporaciones.- Se incorporan al territorio correspondiente al Servicio de Salud Metropolitano Occidente los siguientes sectores:
+
+1.- Manzana, en la que se ubica el Hospital San Juan
+
+de Dios, comprendida entre las siguientes calles
+
+y avenidas:
+
+Norte: Calle Compañía
+
+Oeste: Avda. Matucana
+
+Sur: Avda. Portales
+
+Este: Calle Chacabuco
+
+2.- Manzana, en la que se ubica el Instituto
+
+Traumatológico, comprendida entre las siguientes
+
+calles:
+
+Norte: Calle San Pablo
+
+Oeste: Calle San Martín
+
+Sur: Calle Rosas
+
+Este: Calle Amunátegui
+
+#### Artículo 7°
+
+Derógase el decreto supremo N° 235, de 17 de Junio de 1980, del Ministerio de Salud.
+
+Anótese, tómese razón, publíquese e insértese en la Recopilación Oficial de Reglamentos de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Winston Chinchón Bunting, Ministro de Salud.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Héctor Rodríguez Palacios, Subsecretario de Salud subrogante.
