@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº740 de fecha 31 de julio de 2003, se expropiaron los lotes de terreno Nºs 10 y 11, superficies 440 m² y 341 m², rol de avalúo Nº327-1, comuna de Laja, para la obra "Camino Ruta Q-34, Candelaria-La Laja, Sector Puente Huaqui Km. 23,68000 a Km. 24,41220", VIII Región y se acordó el valor de la indemnización con su propietaria María Carolina Valle Benavente, ascendente a la cantidad de $485.470.
+
+- Fiscal del Ministerio de Obras Públicas.
