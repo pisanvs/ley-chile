@@ -1,0 +1,3 @@
+Por Resolución N° 392, de 7 de Abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD AGRICOLA Y COMERCIAL AGRYCOM LTDA., R.U.T. N° 88.370.200-K, para iniciar actividades pesqueras, en orden a instalar y operar una planta ubicada en Parcela 1, Ritoque, Quintero, en la línea de elaboración de harina de crustáceos, los siguientes recursos hidrobiológicos: Camarón nailon, Centolla, Jaiba, Krill, Langosta de J. Fernández, Langostino amarillo, Langostino colorado.
+
+Valparaíso, 7 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
