@@ -1,0 +1,7 @@
+Por Resolución N° 439, de 27 de Abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a CULTIVOS MARINOS DEL PACIFICO S.A., R.U.T. N° 96.633.150-K, para iniciar actividades pesqueras, en orden a instalar y operar una planta ubicada en La Marina s/n° Curaco de Vélez, Isla Quinchao, Chiloé, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Semi-conserva: Almeja, Ostra chilena, Ostra del pacífico, Erizo, Chorito; Fresco-refrigerado y congelado: Congrio colorado, Congrio dorado, Jurel, Merluza del sur, Pejerrey de mar, Salmón cereza, Salmón del atlántico, Salmón plateado, Salmón rey, Salmón keta, Salmón rosado, Trucha arcoiris, Almeja, Caracol trumulco, Culengue, Cholga, Choro, Chorito, Lapa, Macha, Navajuela, Ostión del norte, Ostra chilena, Ostra del pacífico, Centolla, Centollón, Jaiba limón, Jaiba marmola, Jaiba peluda o pachona, Jaiba reina, Erizo.
+
+Deniégase la autorización solicitada respecto de las especies y líneas de elaboración no incluidas en la presente resolución, en virtud de los informes técnicos, normas legales y reglamentarias citadas en visto.
+
+Déjase sin efecto la resolución N° 77, de 1993, de esta Subsecretaría, en virtud de la renuncia de su titular.
+
+Valparaíso, 27 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
