@@ -1,0 +1,5 @@
+REVOCA CALIDAD DE AGENTE RETENEDOR DEL IVA A TAULY ARIEL LARENAS DEL VALLE
+
+La VIII Dirección Regional Concepción del SII, por resolución DRE08/ Nº Ex. 1.469, de fecha 26 de julio de 2004 revoca a Tauly Ariel Larenas del Valle, RUT Nº 5.153.122-1, a partir del día 1º del mes siguiente al de esta publicación, la calidad de Agente Retenedor del Impuesto al Valor Agregado, del cambio de sujeto en las operaciones que digan relación con contratos de instalación o confección de especialidades que lleve a cabo, de acuerdo a la facultad establecida en el dispositivo Nº 9 de la resolución 46 de 01-09-2003, de la Dirección Nacional del Servicio, modificada y complementada por Res. Ex. Nº 63 de 30-10-2003, de la Dirección Nacional.
+
+Concepción, 26 de julio de 2004.- Sergio Flores Gutiérrez, Director Regional.
