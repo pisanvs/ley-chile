@@ -1,0 +1,3 @@
+Por Resolución N° 342 de 30 de Marzo de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD AHUMADOS PATAGONIA LTDA., R.U.T. N° 50.666.390-3, para iniciar actividades pesqueras, en orden a instalar y operar una planta ubicada en Avenida 21 de Mayo N° 1851, Coyhaique, donde podrá procesar en las líneas de elaboración de conserva y ahumado los siguientes recursos hidrobiológicos: Pejerrey de mar, Salmón del Atlántico, Salmón plateado, Trucha arcoiris.
+
+Valparaíso, 30 de Marzo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
