@@ -1,0 +1,5 @@
+Por resolución exenta Nº 684, de 15 de marzo de 2005 de esta Subsecretaría, se rechaza la solicitud de ampliación de plazo para iniciar actividades pesqueras extractivas con la nave "Arauco I", solicitada por PESQUERA MAR PROFUNDO S.A., individualizada mediante C.I. Subpesca Nº 10.910 de fecha 30 de noviembre de 2004, por extemporánea.
+
+Declárase la caducidad parcial de la resolución nº 2945 de 2002, de esta Subsecretaría, sólo en cuanto autorizó a Pesquera Mar Profundo S.A., para ampliar actividades pesqueras extractivas con la nave "Arauco I", en el área marítima correspondiente a las Regiones V, VI, VII y IX, sobre el recurso Alfonsino, por fuera de la línea imaginaria trazada a una distancia de 60 millas náuticas, contadas desde las líneas de base respectivas, con arrastre de media agua, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 15 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
