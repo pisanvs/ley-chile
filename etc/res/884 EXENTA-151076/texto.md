@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 884 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas N°s. 1 a la 22 sitios N°s. 1 al 6 y 8 al 19., del Proyecto de Parcelación "'Los Huinganes El Rosario", de la comuna de El Monte, Región Metropolitana; formado por predios "Los Huinganes", "Hijuela 5a. o El Rosario". Los derechos de agua se extraen de los canales San Miguel y Canal El Paico, ambos derivados del Río Mapocho.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
