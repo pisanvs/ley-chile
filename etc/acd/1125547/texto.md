@@ -1,0 +1,7 @@
+﻿ Prohibicion de endosar créditos contra el Estado
+
+En la Ciudad de Santiago de Chile a 13 dias del mes de Enero de 1819 convocado el Excmo. Senado en su sala de acuerdos i en sesion estraordinaria se hizo mocion sobre la necesidad que ha tenido el Supremo Gobierno de contraer pasivos créditos a favor de particulares, de que ha resultado pagarés o billetes que comprueban la activa accion que les corresponde; i para que cada uno de estos acreedores sea pagado a su tiempo i en su caso, prohibe el Senado que aquellos documentos se endosen a favor de otros sujetos deudores al Erario: frustrándose por este medio la recaudacion de sus entradas efectivas; i para cautelar tan grave perjuicio mandó S.E. se pase al Excmo. Supremo Director copia de este acuerdo para su publicacion i debido cumplimiento, firmando los señores con el infrascripto secretario.-
+
+Cienfuegos.- Fontecilla.- Pérez.- Alcalde.- Rozas.- Villarreal, Secretario.
+
+Santiago i Enero 28 de 1819.- Conformado por lo respectivo a comerciantes, i sujetos particulares; excepcionando los billetes dados a los comisarios del ejército unido, i habilite para pago a las tropas, por llevar la calidad de endosables: e imprímase.- O'Higgins.- Cruz.
