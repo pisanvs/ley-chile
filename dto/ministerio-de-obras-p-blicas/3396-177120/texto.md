@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.396, de 31 de julio de 2000, se expropiaron los lotes de terreno Nºs. 80-A y 83-A, superficies 1.262 m2. y 1.554 m2., rol de avalúo 65-80, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector K, Séptima Región y se acordó el valor de indemnización con su propietario Gilberto Enrique Correa Gajardo, ascendente a la cantidad total de $8.761.858.-
+
+Fiscal del Ministerio de Obras Públicas.
