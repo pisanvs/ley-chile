@@ -1,0 +1,3 @@
+Por Resolución Exenta No. 33, de 03 de Febrero de 1989 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se ha autorizado a la empresa Terminal de Contenedores Santiago S.A. COSAN, domiciliada en Camino Lo Ruiz No. 3200 Renca, Santiago, en calidad de delegada, para que efectúe inspección de contenedores con el objeto de garantizar sus condiciones de seguridad, permitiendo la actualización de su placa C.S.C. de aprobación (replaqueo), de acuerdo con las normas establecidas en el Convenio Internacional sobre Seguridad de los Contenedores (C.S.C.) y sus anexos, instrumentos que se entienden incorporados presente Resolución.-
+
+Carlos Silva Echiburu, Ministro de Transportes y Telecomunicaciones.
