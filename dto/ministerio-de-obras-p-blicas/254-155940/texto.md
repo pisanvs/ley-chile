@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 254, de fecha 30 de Septiembre de 1986, se expropiaron los lotes de terreno Nºs. 3 y 6, cuya superficie es 6.560 M2., rol de avalúo 141-45, Comuna de Codegua, VI Región, para Mejoramiento Camino H-11, Acceso Codegua, sector Acceso Codegua, y se acordó precio de indemnización con su propietario don Guillermo Neira Zarricueta, ascendente a $ 525.800.-
+
+Fiscal del Ministerio de Obras Públicas.
