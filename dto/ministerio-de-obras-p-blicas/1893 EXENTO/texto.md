@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.893, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº3, superficie 1.045,00 m², rol de avalúo Nº301-5, comuna de Vilcún, para la obra "Puente Lan Lan 1, Camino Cajón-Refugio Llaima, Km. 55,600 a Km. 56,300", IX Región, y se acordó el valor de indemnización con su propietario Víctor Constantino Chahin Ananias, ascendente a la cantidad de $399.659.
+
+- Fiscal del Ministerio de Obras Públicas.
