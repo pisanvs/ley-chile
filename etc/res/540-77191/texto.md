@@ -1,0 +1,3 @@
+Por resolución No. 540 de 05 de Junio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modificase la Resolución No. 123, de 1986, de esta Subsecretaría, que autorizó a PESQUERA PUNTA ANGAMOS S.A., domiciliada en Santiago, para ampliar actividades pesqueras, en su numeral primero letra a), en el sentido de indicar que el actual nombre del PAM "LIBRA" es "ANGAMOS 3".
+
+Valparaíso, 05 de Junio de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
