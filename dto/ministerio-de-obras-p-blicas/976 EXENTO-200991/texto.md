@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº976, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº81, superficie 860 m², Rol Nº159-103, comuna de Ránquil, VIII Región, para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas Tramo II, Km. 5,57900 a Km. 10,19480'' y se acordó el valor de indemnización con su propietaria Oriana Ximena Fissore León, ascendente a la cantidad de $1.252.767.-
+
+Fiscal del Ministerio de Obras Públicas.
