@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 91, de fecha 31 de Marzo de 1994, se expropiaron los lotes de terrenos N°s. 1, 1 y 3-B, superficies 2.065 M2., 17.980 M2. y 7.410 M2., rol de avalúo 109-4, comuna de Pencahue, para lo obra Regadío Pencahue Canales Las Tizas, Corinto y Corinto 1 y se acordó precio de indemnización con su propietaria Adriana Cecchi Podestá, ascendente a la cantidad de $2.105.507.-
+
+Fiscal del Ministerio de Obras Públicas
