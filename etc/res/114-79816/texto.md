@@ -1,0 +1,3 @@
+Por Resolución Nº114, del Ministerio de Transportes y Telecomunicaciones, de 18 de Diciembre de 1991, se aceptó a partir del 31 de Diciembre de 1991 la renuncia voluntaria a la concesión otorgada a Eliseo Salazar Automotriz y Cía., para operar la Planta de Revisión Técnica ubicada en calle Seminario Nº134, comuna de Providencia.-
+
+Víctor Germán Correa Díaz, Ministro de Transportes y Telecomunicaciones.
