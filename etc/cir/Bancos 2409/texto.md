@@ -1350,7 +1350,7 @@ Las instituciones financieras podrán eliminar, sin necesidad de micrograbarla o
 
 Las instituciones financieras pueden eliminar, previa su microfilmación o micrograbación, los documentos que se indican a continuación, siempre que correspondan a operaciones, asuntos o situaciones totalmente concluidas o finiquitadas:
 
-a) Duplicados de recibos o de comprobantes de depósitos en cuenta corriente.
+a) Duplicados de recibos o de comprobantes de depósitos en cuenta corriente o en otras cuentas a la vista o a plazo.
 
 b) Traspasos de acciones.
 
@@ -3436,25 +3436,13 @@ En todo caso, las referidas condiciones deben insertarse en las solicitudes de a
 
 En todo aviso con fines publicitarios acerca de sus cuentas de ahorro para la vivienda de que se trata este capítulo, las instituciones financieras deberán mencionar si otorgan o no créditos complementarios y, en caso afirmativo, las condiciones generales establecidas para ello, que comprenderán a lo menos, monto mínimo, tasa de interés y plazo.
 
-### 4. Información a esta Superintendencia
-
-Con el objeto de tener una información que demuestre el comportamiento y las tendencias del sistema de ahorro y financiamiento de la vivienda, las instituciones financieras deben informar trimestralmente a esta Superintendencia acerca de las operaciones realizadas al amparo de este sistema. Para el cumplimiento de esta finalidad las entidades fiscalizadas deben enviar a esta Superintendencia los formularios T-5 "Sistema de ahorro y financiamiento de la vivienda - Información sobre los contratos y cuentas de ahorro" y T-6 "Sistema de ahorro y financiamiento de la vivienda - Información sobre préstamos en letras de crédito cursados", conforme a los formatos instrucciones y plazos dispuestos para tal efecto en el Manual del Sistema de Información.
-
-5. Aplicación de las cuentas de ahorro a otros sistemas de financiamiento para la vivienda.
+4. Aplicación de las cuentas de ahorro a otros sistemas de financiamiento para la vivienda.
 
 Las cuentas de ahorro a plazo de que trata este capítulo también podrán ser utilizadas para otros sistemas de financiamiento que establezca el Ministerio de Vivienda y Urbanismo, en cuyos reglamentos se señale su uso y siempre que dichos sistemas sean compatibles con las normas que rigen para estas cuentas.
 
-6. Garantía prendaria sobre el saldo mantenido en cuenta de ahorro para la vivienda.
+5. Garantía prendaria sobre el saldo mantenido en cuenta de ahorro para la vivienda.
 
 Atendidas las especiales características de los depósitos en cuentas de ahorro para la vivienda, que permiten postular al subsidio estatal y a un préstamo en letras de crédito, a las personas que hayan mantenido un ahorro mínimo, esta Superintendencia estima que no es posible constituir garantía prendaria sobre el saldo mantenido en esas cuentas.
-
-### 7. Disposición transitoria
-
-Las normas relativas a la reducción del valor máximo de la vivienda y al ahorro mínimo exigido en concordancia con el valor de la vivienda que se desea adquirir, serán aplicables a partir del 1° de enero de 1994.
-
-Las personas que hayan pactado en sus contratos de ahorro celebrados antes del 6 de octubre de 1993, fecha de publicación del Decreto Supremo N° 91 en el Diario Oficial, un monto inferior al mínimo exigido por dicho cuerpo legal, pueden postular en los llamados que se realicen hasta el 31 de diciembre de 1994, siempre que dicho monto no tenga su origen en una modificación al contrato de ahorro.
-
-En todo caso, los beneficiarios de subsidio habitacional que indica el Reglamento, que se adjudiquen dicho subsidio en los llamados que se efectúen en 1994, podrán aplicar ese beneficio a una vivienda cuyo valor sea hasta 2.000 Unidades de Fomento.
 
 ANEXO N° 1
 
@@ -6432,7 +6420,7 @@ Por otra parte, el Instituto Emisor publica diariamente en el Diario Oficial el 
 
 La utilización de alguno de los sistemas autorizados por el Banco Central de Chile comprende tanto la posibilidad de que el respectivo documento se exprese en pesos y que se indique el sistema de reajuste que se aplicará, como también la de que dicho documento se exprese en la unidad de valor autorizada por el Instituto Emisor.
 
-Sin embargo, ello no es admisible en el caso de operaciones reajustables por la variación del dólar de los Estados Unidos de América a que se refiere la letra c) del numeral 2.2 precedente, debido a que en ese caso el documento quedaría expresado en moneda extranjera, lo cual supone condiciones contractuales diferentes según se indica en el 8 de este título, y no de una moneda de cuenta equivalente a pesos chilenos, propia del sistema de reajuste autorizado.
+Sin embargo, ello no es admisible en el caso de operaciones reajustables por la variación del dólar de los Estados Unidos de América a que se refiere la letra c) del numeral 2.2 precedente, debido a que en ese caso el documento quedaría expresado en moneda extranjera, lo cual supone condiciones contractuales diferentes según se indica en el N° 9 de este título, y no de una moneda de cuenta equivalente a pesos chilenos, propia del sistema de reajuste autorizado.
 
 3.- Cálculo de interés y reajustes.
 
@@ -8278,103 +8266,27 @@ indica a continuación:
 
 ### 1. Por los préstamos
 
-Los créditos que cursen las empresas financieras para la finalidad a que se
+Los créditos que cursen las empresas financieras para la finalidad a que se refiere este capítulo, se contabilizarán en la cuenta "Préstamos Programa Reactivación Industrial Acuerdo N° 1.675".
 
-refiere este capítulo, se contabilizarán en la cuenta "Préstamos Programa
-
-Reactivación Industrial Acuerdo N° 1.675".
-
-El saldo de esta cuenta se representará en las partidas 1110 ó 1205 del
-
-formulario MB1, dependiendo de cual sea el plazo de otorgamiento de cada crédito.
+El saldo de esta cuenta se representará en las partidas 1110 ó 1205, dependiendo de cual sea el plazo de otorgamiento de cada crédito.
 
 ### 2. Por los refinanciamientos
 
-Los refinanciamientos de estos créditos que las instituciones participantes
-
-obtengan del Banco del Estado de Chile se contabilizarán en la cuenta
-
-"Refinanciamientos Banco del Estado de créditos Programa Reactivación
-
-Industrial-Acuerdo N° 1.675", cuyo saldo se demostrará en la partida 3410 ó
-
-3460, del formulario MB1, según sea su plazo.
+Los refinanciamientos de estos créditos que las instituciones participantes obtengan del Banco del Estado de Chile se contabilizarán en la cuenta "Refinanciamientos Banco del Estado de créditos Programa Reactivación Industrial-Acuerdo N° 1.675", cuyo saldo se demostrará en la partida 3410 ó 3460, según sea su plazo.
 
 ### 3. Por los intereses y comisiones
 
-Los intereses que devenguen los créditos que los bancos otorguen con cargo al
+Los intereses que devenguen los créditos que los bancos otorguen con cargo al Programa, se contabilizarán en la cuenta "Intereses ganados por créditos Programa Reactivación Industrial-Acuerdo N° 1.675" de la partida 7105.
 
-Programa, se contabilizarán en la cuenta "Intereses ganados por créditos
+Por otra parte los intereses adeudados por los refinanciamientos de estas operaciones, obtenidos del Banco del Estado de Chile, se registrarán en la cuenta "Intereses pagados al Banco del Estado por refinanciamiento créditos Programa Reactivación Industrial-Acuerdo N° 1.675", cuyo saldo se reflejará en la partida 5165.
 
-Programa Reactivación Industrial-Acuerdo N° 1.675" de la partida 7105 del
-
-formulario MR1.
-
-Por otra parte los intereses adeudados por los refinanciamientos de estas
-
-operaciones, obtenidos del Banco del Estado de Chile, se registrarán en la
-
-cuenta "Intereses pagados al Banco del Estado por refinanciamiento créditos
-
-Programa Reactivación Industrial-Acuerdo N° 1.675", cuyo saldo se reflejará en
-
-la partida 5165 del formulario MR1.
-
-Las comisiones pagadas al Banco del Estado de Chile por los refinanciamientos
-
-recibidos se registrarán en la cuenta "Comisiones Pagadas al Banco del Estado
-
-por refinanciamiento créditos Programa Reactivación Industrial - Acuerdo
-
-N°1.675", de la partida 5505 del formulario MR1.
+Las comisiones pagadas al Banco del Estado de Chile por los refinanciamientos recibidos se registrarán en la cuenta "Comisiones Pagadas al Banco del Estado por refinanciamiento créditos Programa Reactivación Industrial - Acuerdo N°1.675", de la partida 5505.
 
 ### 4. Por los reajustes devengados
 
-Los reajustes que devenguen los créditos cursados se abonarán a la cuenta
+Los reajustes que devenguen los créditos cursados se abonarán a la cuenta "Reajustes ganados créditos Programa Reactivación Industrial-Acuerdo N° 1.675", que se incluirá en la partida 7305.
 
-"Reajustes ganados créditos Programa Reactivación Industrial-Acuerdo N° 1.675",
-
-que se incluirá en la partida 7305 del formulario MR1.
-
-Los reajustes a favor del Banco del Estado de Chile que devengue el
-
-refinanciamiento de estos créditos se registrarán en la cuenta "Reajustes
-
-pagados al Banco del Estado por refinanciamiento créditos Programa Reactivación
-
-Industrial Acuerdo N° 1.675", de la partida 5370 del formulario MR1.
-
-### IV. OTRAS INSTRUCCIONES
-
-### 1. Límites legales
-
-Las operaciones a que se refiere este capítulo, están afectas a los límites
-
-individuales de crédito que se establecen en el N° 1 del artículo 84 de la Ley
-
-General de Bancos, según corresponda, tanto en lo que se refiere a los créditos
-
-que otorguen las entidades financieras a los usuarios, como respecto de los
-
-refinanciamientos que a estas entidades les curse el Banco del Estado de Chile.
-
-El endeudamiento por los refinanciamientos recibidos de la entidad estatal queda
-
-incluido en el margen de obligaciones con terceros que indican los artículos 81
-
-y 115 de la Ley General de Bancos.
-
-### 2. Límites de operaciones interfinancieras
-
-Los refinanciamientos de las operaciones de que trata este capítulo, que las
-
-instituciones financieras obtengan del Banco del Estado de Chile, no se
-
-computarán para los efectos de los límites de operaciones interfinancieras de
-
-que trata el Capítulo 12-7 de esta Recopilación de Normas y el N° 4 del Capítulo
-
-III.B.2 del Compendio de Normas Financieras del Banco Central de Chile.
+Los reajustes a favor del Banco del Estado de Chile que devengue el refinanciamiento de estos créditos se registrarán en la cuenta "Reajustes pagados al Banco del Estado por refinanciamiento créditos Programa Reactivación Industrial Acuerdo N° 1.675", de la partida 5370.
 
 CAPITULO 8-6 (Bancos y Financieras)
 
@@ -8639,26 +8551,6 @@ reajustes, solamente hasta la fecha en que se produzca el pago y sometiéndose e
 todo lo demás, a las disposiciones que establece el Reglamento del Capítulo
 
 II.B.5.7 del Compendio de Normas Financieras del Banco Central de Chile.
-
-### 9. Límites
-
-Los préstamos que cursen las instituciones financieras de conformidad con lo
-
-dispuesto por este capítulo, quedarán afectos a los límites individuales de
-
-crédito de que trata el artículo 84 de la Ley General de Bancos.
-
-El endeudamiento con el Banco Central de Chile por el refinanciamiento de estas
-
-operaciones quedará afecto al límite establecido en los artículos 81 y 115 de la
-
-Ley General de Bancos.
-
-Asimismo, las referidas obligaciones quedarán sujetas al límite de endeudamiento
-
-con el Instituto Emisor de que trata el Capítulo II.B.6 del Compendio de Normas
-
-Financieras y el Capítulo 12-6 de esta Recopilación de Normas.
 
 CAPITULO 8-7 (Bancos y Financieras)
 
@@ -10434,10 +10326,6 @@ Para el tratamiento contable dispuesto en este Capítulo, se da por entendido qu
 
 Por otra parte, las instituciones financieras deben tener presente que las cuentas que se disponen en este Capítulo corresponden sólo a aquellas que deben ser informadas a esta Superintendencia, lo que no impide el uso de subcuentas para sus propias necesidades de información o adecuadas a los sistemas que utilicen. Se entiende, naturalmente, que la apertura de cuentas en la contabilidad de cada institución considerará también el tipo de reajustabilidad y la moneda que corresponda.
 
-### 13. Información para esta Superintendencia
-
-Las instituciones financieras deberán informar a esta Superintendencia la composición de sus inversiones financieras al cierre de cada mes, de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información.
-
 ANEXO N° 1
 
 CUENTAS PARA LAS INVERSIONES FINANCIERAS.
@@ -10761,10 +10649,6 @@ Conforme a lo dispuesto en el Capítulo 8-29 de esta Recopilación Actualizada d
 3.- Nómina que debe mantenerse a disposición de este Organismo.
 
 Las instituciones financieras deberán mantener a disposición de esta Superintendencia una nómina referida al último día de cada mes, con el detalle de las colocaciones vencidas que se mantengan registradas en sus cuentas de origen en virtud de no haberse cumplido el plazo máximo de 90 días fijado para su traspaso a cartera vencida.
-
-4.- Información que debía remitirse a esta Superintendencia.
-
-La información sobre la morosidad de los créditos en general y su situación respecto al traspaso a cartera vencida, debe informarse a este Organismo conforme a las instrucciones contenidas en el Manual del Sistema de Información.
 
 CAPITULO 8-28 (Bancos y Financieras)
 
@@ -11238,21 +11122,11 @@ Para ese efecto, las acciones o derechos en sociedades se tomarán como un conju
 
 En ningún caso se considerarán dentro de aquellos cálculos, los valores de los bienes que hubieren sido castigados.
 
-### V. OTRAS DISPOSICIONES
-
-### 1. Tasaciones del activo fijo físico
+V.- ACTIVO FIJO FÍSICO.
 
 Debido a que el activo fijo físico está constituido por bienes propios del giro, que no se pretende enajenar, no se requiere efectuar evaluaciones de tales activos en forma permanente.
 
 No obstante, las instituciones financieras deben disponer de tasaciones de todos los bienes que se encuentren registrados en el activo fijo físico por un valor neto de depreciaciones igual o superior al equivalente de 3.000 unidades de fomento, a fin de permitir comparaciones entre el valor de tasación y el valor contable de tales bienes. Esta Superintendencia podrá solicitar nuevas tasaciones cada vez que lo estime necesario.
-
-### 2. Información que debe enviarse a esta Superintendencia
-
-Las instituciones financieras deben proporcionar a esta Superintendencia la información acerca de la clasificación de sus activos en categorías de riesgo, de acuerdo con las instrucciones contenidas al respecto en el Manual del Sistema de Información.
-
-4.- Plazo para reconocer el mayor riesgo de la cartera clasificada según su morosidad.
-
-Las instituciones financieras tendrán plazo hasta el 31 de agosto de 1992 para determinar, cuando proceda, el mayor riesgo de que trata el numeral 5.2 del título II de este Capítulo y reconocer contablemente ese mayor riesgo en su provisión global.
 
 3. Calificación de las instituciones financieras según sus procesos de clasificación de cartera.
 
@@ -12420,21 +12294,7 @@ Sin embargo, cuando un deudor, beneficiario de estos créditos, pague con antici
 
 En todo caso, los pagos que se anticipen deben ser siempre por el valor total de una o varias cuotas, calculándose el respectivo devengo de intereses y reajustes, solamente hasta la fecha en que se produzca el pago y sometiéndose en todo lo demás, a las disposiciones que establece el Reglamento del Capítulo II.B.5.8 del Compendio de Normas Financieras del Banco Central de Chile.
 
-### 10. Límites
-
-10.1. Límites individuales de crédito.
-
-Los préstamos que cursen las instituciones financieras de conformidad con lo dispuesto por este Capítulo, quedarán afectos a los límites individuales de crédito de que trata el artículo 84 de la Ley General de Bancos.
-
-10.2. Endeudamiento con terceros.
-
-El endeudamiento con el Banco Central de Chile por el refinanciamiento de estas operaciones quedará afecto al límite establecido en artículos 81 y 115 de la Ley General de Bancos.
-
-10.3. Obligaciones con el Banco Central de Chile.
-
-Asimismo, las referidas obligaciones quedarán sujetas al límite de endeudamiento con el Instituto Emisor de que trata el Capítulo II.B.6 del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 12-6 de esta Recopilación.
-
-### 11. Control administrativo
+### 10. Control administrativo
 
 Las entidades financieras deben mantener carpetas individuales con todos los antecedentes de cada uno de los préstamos cursados con cargo a esta línea de crédito, que sirvieron de base para darles curso, particularmente los relativos a la evaluación de los proyectos de inversión, en los casos que corresponda.
 
@@ -12658,7 +12518,7 @@ La aplicación práctica de las instrucciones contenidas en este numeral se demu
 
 1.2.2.- Código de transacción bursátil.
 
-Las instituciones financieras están facultadas para imprimir en las letras de crédito el "código de transacción bursátil", con el objeto de facilitar la intermediación de estos títulos y armonizar también los procedimientos de custodia de aquellos títulos mantenidos en el Banco Central de Chile.
+Las instituciones financieras están facultadas para imprimir en las letras de crédito el "código de transacción bursátil", con el objeto de facilitar la intermediación y custodia de estos títulos.
 
 Este código se fijará, en cada caso, de común acuerdo con la Bolsa de Comercio de Santiago. La impresión deberá efectuarse en caracteres menos destacados que los empleados por este Organismo para designar los títulos y se ubicará bajo el código alfanumérico establecido por esta Superintendencia, en un espacio que no exceda de las siguientes dimensiones:
 
@@ -12798,7 +12658,7 @@ A fin de dar cumplimiento a las normas del Banco Central de Chile sobre la mater
 
 Para los efectos de acreditar ante esta Superintendencia esa capacidad, deberá enviarse a este Organismo por parte de la institución financiera que se proponga encargar el trabajo de impresión, un informe técnico de un perito que designe la propia institución financiera, en el que conste que la imprenta de que se trata cumple con las normas de seguridad y está habilitada para efectuar impresiones con las condiciones técnicas establecidas por el Banco Central de Chile para la confección de documentos valorados. Con el recibo de dicho informe, copia del cual se entregará a la empresa que prestará el servicio de impresión, se entenderá cumplida la acreditación señalada en el párrafo precedente, tanto para ese trabajo en particular como para otros trabajos futuros de la misma especie que la empresa ya evaluada técnicamente, contrate con cualquier institución financiera.
 
-3.4.- Información sobre las características de la letra impresa.
+3.3.- Información sobre las características de la letra impresa.
 
 Una vez impresas las letras de crédito y antes de su colocación en el mercado, el emisor enviará a esta Superintendencia y a las bolsas de valores en las que las haya inscrito, un ejemplar debidamente inutilizado de las láminas impresas.
 
@@ -12912,7 +12772,7 @@ irregularidades en su manejo por parte de alguna entidad emisora.
 
 7.- Normas sobre destrucción o pérdida de letras de crédito.
 
-Las instituciones financieras podrán reemplazar las letras de crédito destruidas o extraviadas, ateniéndose a las disposiciones que para el efecto se establecen en el Capítulo II.A.1 1 del Compendio de Normas Financieras del Banco Central de Chile.
+Las instituciones financieras podrán reemplazar las letras de crédito destruidas o perdidas, ateniéndose a las disposiciones que para el efecto se establecen en el Capítulo II.A.1 1 del Compendio de Normas Financieras del Banco Central de Chile.
 
 8.- Información al público.
 
@@ -12947,16 +12807,6 @@ bancario de realizado el sorteo, copia simple del acta a que se refiere el
 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco
 
 Central de Chile.
-
-10.- Información a esta Superintendencia.
-
-Los bancos y sociedades financieras que operen en letras de crédito, deben
-
-remitir a este Organismo el formulario M-43 "Colocaciones hipotecarias en letras
-
-de crédito", de conformidad con las instrucciones dispuestas en el Manual del
-
-Sistema de Información.
 
 II.- PRESTAMOS EN LETRAS DE CREDITO.
 
@@ -13040,53 +12890,21 @@ le asigne al bien raíz.
 
 ### 5. Comisión
 
-Las instituciones financieras pueden pactar libremente con los mutuarios la
-
-comisión que cobrarán sobre el mutuo. La comisión acordada deberá indicarse
-
-explícitamente en el respectivo contrato, ya sea como un monto o como una
-
-proporción del capital insoluto del préstamo, de acuerdo a lo que se haya
-
-establecido en la tabla de desarrollo del mutuo que se convenga aplicar, de modo
-
-que no se confunda con los intereses, con la amortización del crédito o con
-
-cualquier otro gasto de la operación. Esta comisión, en caso que se exprese como
-
-una proporción del saldo insoluto del crédito, será decreciente conforme a dicha
+Las instituciones financieras pueden pactar libremente con los mutuarios la comisión que cobrarán sobre el mutuo. La comisión acordada deberá indicarse explícitamente en el respectivo contrato, ya sea como un monto o como una proporción del capital insoluto del préstamo, de acuerdo a lo que se haya establecido en la tabla de desarrollo del mutuo que se convenga aplicar, de modo que no se confunda con los intereses, con la amortización del crédito o con cualquier otro gasto de la operación. Esta comisión, en caso que se exprese como una proporción del saldo insoluto del crédito, será decreciente conforme a dicha
 
 proporción.
 
-No obstante lo anterior, en los créditos que se acojan a la exención tributaria
+No obstante lo anterior, en los créditos que se acojan a la exención tributaria de que trata el artículo 41 de la Ley N° 18.482, la comisión sólo se podrá
 
-de que trata el artículo 41 de la Ley N° 18.482, la comisión sólo se podrá
+expresar como un monto y su cobro deberá efectuarse por una suma uniforme en el tiempo.
 
-expresar como un monto y su cobro deberá efectuarse por una suma uniforme en el
+En todo caso, la tasa de la comisión no estará sujeta a fluctuaciones y para su cálculo deben emplearse las fórmulas indicadas por el Banco Central de Chile en el Anexo del Capítulo II.A.2 del Compendio de Normas Financieras.
 
-tiempo.
+Lo anteriormente expuesto, es sin perjuicio de lo dispuesto en el numeral 2.3 del título I de este capítulo.
 
-En todo caso, la tasa de la comisión no estará sujeta a fluctuaciones y para su
+El importe de la comisión deberá indicarse explícitamente en cada dividendo, de manera que no se confunda con los intereses, con la amortización o con cualquier otro gasto.
 
-cálculo deben emplearse las fórmulas indicadas por el Banco Central de Chile en
-
-el Anexo del Capítulo II.A.2 del Compendio de Normas Financieras.
-
-Lo anteriormente expuesto, es sin perjuicio de la disposición contenida en la
-
-letra d) del numeral 2.1.2 título I de este capítulo.
-
-El importe de la comisión deberá indicarse explícitamente en cada dividendo, de
-
-manera que no se confunda con los intereses, con la amortización o con cualquier
-
-otro gasto.
-
-Por otra parte, las entidades financieras deben tener presente que la suma delas
-
-tasas de interés y de la comisión, no podrá exceder a la tasa de interés máxima
-
-convencional vigente al momento de la convención.
+Por otra parte, las entidades financieras deben tener presente que la suma delas tasas de interés y de la comisión, no podrá exceder a la tasa de interés máxima convencional vigente al momento de la convención.
 
 6.- Entrega del importe de los préstamos.
 
@@ -15102,21 +14920,11 @@ el quinto día anterior al fijado para el rescate.
 
 ### 8. Instrucciones contables
 
-Los títulos convertibles de que se trata, se acreditarán en la cuenta "Bonos en circulación convertibles en letras de crédito", la que se demostrará en la partida 3075 del formulario MB1.
+Los títulos convertibles de que se trata, se acreditarán en la cuenta "Bonos en circulación convertibles en letras de crédito", la que se demostrará en la partida 3075.
 
-Los descuentos o las primas, correspondientes al monto necesario para cuadrar con el efectivo recibido, en caso que la institución financiera se haga cargo delas diferencias, se imputarán en las cuentas "Diferencias de precio diferidas por emisión de bonos" o "Beneficios por devengar por emisión de bonos", según corresponda, de las partidas 2120 ó 4120 del formulario MB1,
-
-respectivamente.Estas diferencias se llevarán a resultados, mes a mes, linealmente en el período de duración del título, según la fecha de vencimiento pactada. Por consiguiente,en caso de rescate anticipado, el saldo que se mantuviese registrado en alguna de las citadas cuentas, correspondiente al título amortizado, deberá traspasarse de inmediato a resultados. Para efectuar estos traspasos se abrirá la cuenta"Diferencias de precio por emisión de bonos" en la partida 5620 o la cuenta"Beneficios obtenidos por emisión de bonos", en la partida 7620 del formulario MR1, según sea el caso.
+Los descuentos o las primas, correspondientes al monto necesario para cuadrar con el efectivo recibido, en caso que la institución financiera se haga cargo delas diferencias, se imputarán en las cuentas "Diferencias de precio diferidas por emisión de bonos" o "Beneficios por devengar por emisión de bonos", según corresponda, de las partidas 2120 ó 4120, respectivamente.Estas diferencias se llevarán a resultados, mes a mes, linealmente en el período de duración del título, según la fecha de vencimiento pactada. Por consiguiente,en caso de rescate anticipado, el saldo que se mantuviese registrado en alguna de las citadas cuentas, correspondiente al título amortizado, deberá traspasarse de inmediato a resultados. Para efectuar estos traspasos se abrirá la cuenta"Diferencias de precio por emisión de bonos" en la partida 5620 o la cuenta"Beneficios obtenidos por emisión de bonos", en la partida 7620, según sea el caso.
 
 Los reajustes e intereses devengados por los bonos en circulación se registrarán en cuentas complementarias de acuerdo con las normas generales, con cargo a las respectivas cuentas de resultado de las partidas 5315 y 5140, respectivamente.
-
-### 9. Límites legales
-
-Las obligaciones contraídas por la venta de los bonos convertibles en letras de
-
-crédito de propia emisión, quedan afectos al límite de que tratan los artículos
-
-81 y 115 de la Ley General de Bancos.
 
 ANEXO N° 1
 
@@ -15536,9 +15344,7 @@ j) Límite de depósitos, captaciones y préstamos recibidos de otras institucio
 
 k) Límite para la adquisición de letras y bonos de propia emisión, establecido en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile y tratado en el Capítulo 12-11 de esta Recopilación.
 
-l) Límite de obligaciones con el Banco Central de Chile, dispuesto por el Instituto Emisor en el Capítulo II.B.6 de su Compendio de Normas Financieras y tratado en el Capítulo 12-6 de esta Recopilación.
-
-m) Límite de obligaciones con el exterior a que se refiere el Capítulo V.A.l del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 12-8 de esta Recopilación.
+l) Límite de obligaciones con el exterior a que se refiere el Capítulo V.A.l del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 12-8 de esta Recopilación.
 
 4.3. Efectos de los bonos subordinados en las presunciones de los artículos 116 y 119, letra a) de la Ley General de Bancos.
 
@@ -18962,29 +18768,11 @@ e) Los refinanciamientos de las operaciones de la "Línea de Crédito BID/BancoC
 
 Los márgenes de tres y diez por ciento a que se refiere este capítulo, se calcularán sobre la base del promedio de la suma de las partidas incluidas en los siguientes rubros del Activo, tanto en moneda chilena como en moneda extranjera, registrados en el mes de que se trate:
 
-a) Fondos disponibles, excepto las partidas 1015 y 1020 del MB1.
+a) Fondos disponibles, excepto las partidas 1015 y 1020.
 
 b) Colocaciones, con excepción de las colocaciones contingentes, de las colocaciones en letras de crédito (partidas 1245, 1305, 1310, 1315 y 1410) y de las cuentas Deudores por Cartas de Crédito Negociadas y Créditos para Importación, de las partidas 1125 y 1220.
 
 c) Inversiones financieras.
-
-### 6. Información a esta Superintendencia
-
-Las instituciones financieras remitirán a esta Superintendencia los formularios
-
-M-17 y M-18, conforme a las instrucciones del "Manual del Sistema de
-
-Información".
-
-### 7. Entidades eximidas de estos márgenes
-
-En conformidad con las disposiciones contenidas en el Capítulo III.B.2 del
-
-Compendio de Normas Financieras del Banco Central de Chile, las entidades
-
-financieras en que esta Superintendencia haya designado un Administrador
-
-Provisional, no quedarán afectas a los límites de que trata este capítulo.
 
 CAPITULO 12-8 (Bancos y Financieras)
 
@@ -19712,7 +19500,7 @@ El último día de cada mes, los bancos procederán a calcular y registrar provi
 
 Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena, con cargo o abono, según proceda, a la cuenta "Variación contratos a futuro-mercado local" de la partida 2127 ó 4127, acreditando la cuenta "Utilidades por contratos a futuro-mercado local" o bien debitando la cuenta "Pérdidas por contratos a futuro-mercado local", según sea el caso.
 
-El ajuste se realizará sobre la base de las paridades que tengan entre sí las monedas involucradas en los mercados a futuro, correspondientes al plazo de los respectivos contratos.
+El ajuste se realizará sobre la base de las paridades que tengan entre sí las monedas involucradas en los mercados a futuro, correspondientes al plazo remanente de los respectivos contratos.
 
 Para los fines de calcular dicha variación en términos de pesos moneda chilena, se considerará el efecto de la variación de paridad sobre la moneda extranjera de contrapartida, esto es, la que debe recibirse en pago de la moneda que se vende o la que debe entregarse por la que se compra. El tipo de cambio que se aplicará para la conversión a moneda nacional, será el de representación contable vigente a la fecha del ajuste.
 
@@ -20072,7 +19860,7 @@ Las diferencias correspondientes serán debitadas o abonadas a la cuenta "Difere
 
 ### 9. Límites
 
-Estas operaciones no quedan afectas a los límites de crédito ni de obligaciones para con terceros, establecidos en la Ley General de Bancos, como tampoco al límite de endeudamiento con el Banco Central de Chile a que se refiere el Capítulo 12-6 de esta Recopilación de Normas.
+Estas operaciones no quedan afectas a los límites de crédito ni de obligaciones para con terceros, establecidos en la Ley General de Bancos.
 
 CAPITULO 13-8 (Bancos y Financieras)
 
@@ -20288,9 +20076,7 @@ atribuciones,pueda aplicar a la entidad infractora.
 
 3.1. Por los créditos recibidos del Banco Central de Chile.
 
-Las entidades financieras que utilicen estos créditos, contabilizarán la obligación que asumen por ellos, cuando reciban su importe, en la cuenta "Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central de Chile", de las partidas 3430 ó 3485 del formulario MB1, según sea el plazo pactado, con débito a la cuenta corriente que mantienen con el Banco
-
-Central de Chile, en la cual el Instituto Emisor les depositará el monto girado.
+Las entidades financieras que utilicen estos créditos, contabilizarán la obligación que asumen por ellos, cuando reciban su importe, en la cuenta "Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central de Chile", de las partidas 3430 ó 3485, según sea el plazo pactado, con débito a la cuenta corriente que mantienen con el Banco Central de Chile, en la cual el Instituto Emisor les depositará el monto girado.
 
 3.2. Por los intereses.
 
@@ -20300,33 +20086,15 @@ Cada vez que corresponda hacer el pago de estos intereses, se debitará el saldo
 
 3.3. Por los reajustes.
 
-Los reajustes por la variación de la Unidad de Fomento se calcularán al término de cada mes, por el saldo de capital adeudado y se registrarán en la correspondiente cuenta complementaria de "Reajustes por pagar", con cargo a "Reajustes pagados-Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central de Chile", de la partida 5360 del formulario MR1.
+Los reajustes por la variación de la Unidad de Fomento se calcularán al término de cada mes, por el saldo de capital adeudado y se registrarán en la correspondiente cuenta complementaria de "Reajustes por pagar", con cargo a "Reajustes pagados-Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central de Chile", de la partida 5360.
 
 3.4. Por las colocaciones efectuadas con estos recursos.
 
-Las colocaciones que las instituciones financieras cursen con cargo a los créditos recibidos del Banco Central de Chile, se registrarán en la cuenta "Créditos con cargo a recursos Capítulo IV.E.2-B Normas Financieras Banco Central de Chile", de las partidas 1110 y 1205, del formulario MB1, según corresponda.
+Las colocaciones que las instituciones financieras cursen con cargo a los créditos recibidos del Banco Central de Chile, se registrarán en la cuenta "Créditos con cargo a recursos Capítulo IV.E.2-B Normas Financieras Banco Central de Chile", de las partidas 1110 y 1205, según corresponda.
 
-### 4. Límite de obligaciones con el Banco Central de Chile
+### 4. Límite de endeudamiento artículos 81 y 115 de la Ley General de Bancos
 
-Las normas del Banco Central de Chile a que se refieren estas instrucciones,
-
-eximen a los créditos especiales de que tratan las presentes disposiciones, del
-
-margen de obligaciones que las entidades financieras pueden mantener con el
-
-Instituto Emisor, establecido en el Capítulo II.B.6 del Compendio de Normas
-
-Financieras y en el Capítulo 12-6 de esta Recopilación de Normas.
-
-### 5. Límite de endeudamiento artículos 81 y 115 de la Ley General de Bancos
-
-Las obligaciones que las entidades financieras contraigan con el Banco Central
-
-de Chile por las operaciones a que se refiere el título II de este capítulo, no
-
-son computables para los efectos de los límites de endeudamiento establecidos en
-
-los artículos 81 y 115 de la Ley General de Bancos.
+Las obligaciones que las entidades financieras contraigan con el Banco Central de Chile por las operaciones a que se refiere el título II de este capítulo, no son computables para los efectos de los límites de endeudamiento establecidos en los artículos 81 y 115 de la Ley General de Bancos.
 
 CAPITULO 13-13 (Bancos y Financieras)
 
@@ -21140,23 +20908,13 @@ Los intereses que se cobren sobre los financiamientos que se cursen para exporta
 
 Por otra parte, los intereses que los bancos paguen por las líneas de crédito del exterior a que se refiere este Capítulo, serán registrados en la cuenta "Intereses pagados por financiamientos externos", de la partida 5180 6 5185, según proceda.
 
-9.8. Comisiones.
-
-Las comisiones que se cobren a personas situadas en Chile por los financiamientos para importación que cursen, serán registradas en la forma prevista en el Capítulo 15-1 de esta Recopilación.
-
-Las comisiones que los bancos deban pagar por las líneas de crédito del exterior, serán registradas en la cuenta "Comisiones pagadas por financiamientos del exterior", de la partida 5510.
+9.8. ELIMINADO.
 
 9.9. Créditos no pagados a su vencimiento.
 
 Los créditos otorgados por los bancos con cargo a los recursos de que trata este Capítulo que no sean pagados a su vencimiento, serán traspasados a Cartera Vencida de conformidad con las normas generales vigentes sobre la materia.
 
-### 10. Limites legales
-
-Los préstamos que otorguen los bancos con los recursos del exterior a que se refiere este Capítulo, están afectos a los límites de crédito establecidos en el artículo 84 de la Ley General de Bancos.
-
-A su vez, las obligaciones que contraigan las empresas bancarias por la utilización de las líneas de crédito de que se trata, están afectas al límite establecido en el artículo 81 de la Ley General de Bancos.
-
-### 11. Información al Banco Central de Chile
+### 10. Información al Banco Central de Chile
 
 Los bancos deben enviar al Banco Central de Chile la información relativa a las líneas de crédito externas, en los términos indicados en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales.
 
@@ -21222,7 +20980,7 @@ Los bancos registrarán las operaciones de que se trata, de la siguiente forma:
 
 6.1 Por la obligación que se asume.
 
-Debe: - "Créditos originalmente avalados", cuenta que será demostrada en la partida 1110 ó 1205 del formulario MB1, según corresponda.
+Debe: - "Créditos originalmente avalados", cuenta que será demostrada en la partida 1110 ó 1205, según corresponda.
 
 - La cuenta pertinente del rubro obligaciones contingentes en la que se encuentre registrada la obligación que se asume directamente.
 
@@ -21236,29 +20994,11 @@ Los intereses que devenguen los créditos de que se trata, se acreditaran en la 
 
 A su vez, los intereses adeudados por la obligación con el exterior se debitarán en las respectivas cuentas de intereses pagados de las partidas 5180 ó 5185, según corresponda, con abono a la cuenta complementaria de intereses por pagar de la obligación.
 
-### 7. Límites legales
+### 7. Información al Banco Central de Chile
 
-Los créditos y las obligaciones de que se trata, continuarán sujetas a los
+Las ventas de divisas que se efectúen por los importes que las instituciones financieras reciban de los deudores de las operaciones de que se trata, se deberán declarar al Banco Central de Chile mediante las correspondientes Planillas de Egreso, las que deberán llevar la leyenda "Acuerdo N° 1777-19-870114 letra b)". cuando se trate de operaciones asumidas hasta el 17 de enero
 
-límites de los artículos 84, 81 y 115 de la Ley General de Bancos,
-
-respectivamente.
-
-### 8. Información al Banco Central de Chile
-
-Las ventas de divisas que se efectúen por los importes que las instituciones
-
-financieras reciban de los deudores de las operaciones de que se trata, se
-
-deberán declarar al Banco Central de Chile mediante las correspondientes
-
-Planillas de Egreso, las que deberán llevar la leyenda "Acuerdo N° 1777-19-
-
-870114 letra b)". cuando se trate de operaciones asumidas hasta el 17 de enero
-
-de 1987 o "Acuerdo N° 177719-870114 letra c)", cuando se trate de operaciones
-
-asumidas después de esa fecha.
+de 1987 o "Acuerdo N° 177719-870114 letra c)", cuando se trate de operaciones asumidas después de esa fecha.
 
 CAPITULO 13-17 (Bancos y Financieras)
 
@@ -24976,13 +24716,13 @@ Los bancos que adquieran letras y pagarés correspondientes a operaciones de exp
 
 Estos documentos deben contar en el reverso, con la leyenda que a continuación se indica, con sus menciones completas: "REMBOLSO A TRAVES DEL CONVENIO DE CREDITO RECIPROCO CHILENO...............BAJO EL N°.......ESTA (E) LETRA (PAGARE) PROVIENE DE LA EXPORTACION DE:..................(mercadería).................... ................................................................................
 
-PAIS EXPORTADOR : CHILE
+PAIS EXPORTADOR CHILE
 
-PAIS IMPORTADOR :...............................................................
+PAIS IMPORTADOR
 
-FECHA DE EMBARQUE: .......................VALOR US$.............................
+FECHA DE EMBARQUE VALOR US$
 
-FECHA DE AVAL : ..........................VALOR US$............................"
+FECHA DE AVAL "
 
 Si se trata de una letra de cambio, deberá llevar en el anverso la indicación "Letra única de cambio", en tanto que si es pagaré, se deberá anotar la palabra "Pagaré".
 
@@ -25162,51 +24902,21 @@ respectiva entidad.
 
 5.1. Monto de los préstamos.
 
-Los créditos afectos a la garantía serán en Pesos moneda chilena o en moneda
+Los créditos afectos a la garantía serán en Pesos moneda chilena o en moneda extranjera y no podrán exceder en total de US$ 150.000 o su equivalente en moneda nacional para cada exportador no tradicional, cantidad que se reajustará anualmente de conformidad con el índice de precios promedio relevante para el comercio exterior chileno que determine el Banco Central de Chile.
 
-extranjera y no podrán exceder en total de US$ 150.000 o su equivalente en
+El Fondo no garantizará más del 50% del saldo del capital adeudado por cada prestatario.
 
-moneda nacional para cada exportador no tradicional, cantidad que se reajustará
+Para los efectos del límite señalado precedentemente, los préstamos en moneda corriente serán convertidos a dólares de los Estados Unidos de América, al tipo de cambio a que se refiere el N° 6 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Cuando los créditos sean
 
-anualmente de conformidad con el índice de precios promedio relevante para el
-
-comercio exterior chileno que determine el Banco Central de Chile.
-
-El Fondo no garantizará más del 50% del saldo del capital adeudado por cada
-
-prestatario.
-
-Para los efectos del límite señalado precedentemente, los préstamos en moneda
-
-corriente serán convertidos a dólares de los Estados Unidos de América, al tipo
-
-de cambio a que se refiere el N° 6 del Capítulo I del Compendio de Normas de
-
-Cambios Internacionales del Banco Central de Chile. Cuando los créditos sean
-
-cursados en monedas extranjeras distintas del dólar estadounidense, se aplicarán
-
-las equivalencias que publica el Banco Central de Chile para convertir dichas
-
-monedas a dólares.
+cursados en monedas extranjeras distintas del dólar estadounidense, se aplicarán las equivalencias que publica el Banco Central de Chile para convertir dichas monedas a dólares.
 
 5.2. Plazo de los préstamos.
 
-El plazo de los créditos garantizados por el Fondo no podrá exceder de un año.
+El plazo de los créditos garantizados por el Fondo no podrá exceder de un año. Las instituciones que operen con estos créditos podrán renovarlos previa consulta al Administrador, siempre que el plazo original y el de la renovación,no excedan, en total, de un año. Esta consulta deberá acompañarse de:
 
-Las instituciones que operen con estos créditos podrán renovarlos previa
+a) copia de la carta del prestatario en que solicita la ampliación de plazo;
 
-consulta al Administrador, siempre que el plazo original y el de la
-
-renovación,no excedan, en total, de un año. Esta consulta deberá acompañarse de:
-
-a) copia de la carta del prestatario en que solicita la ampliación de plazo; b)
-
-informe de la entidad financiera sobre el comportamiento en el servicio del
-
-crédito y la conveniencia de la ampliación de plazo; y c) calendario de pago
-
-propuesto.
+b) informe de la entidad financiera sobre el comportamiento en el servicio del crédito y la conveniencia de la ampliación de plazo; y c) calendario de pago propuesto.
 
 ### 6. Documentación de los créditos otorgados con la garantía del Fondo
 
@@ -25686,15 +25396,11 @@ Las personas que adquieran en el extranjero mercaderías destinadas a las Zonas 
 
 4.- Comisiones de agentes.
 
-De conformidad con lo dispuesto en el Capítulo V del Título III del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, los agentes, representantes o cualquiera persona natural o jurídica que actúe en el país por cuenta de firmas del exterior en la venta o colocación de mercaderías, deberán retornar las comisiones que perciban por esos negocios, entendidas por tales el beneficio pecuniario, que a cualquier título obtengan por dichas operaciones, dentro del plazo de 90 días contados desde su devengo, y liquidarlas en una empresa bancaria, en el plazo de los 10 días siguientes a la fecha de su retorno.
-
-Se considera como fecha de devengo, aquélla en que la comisión se constituye en crédito para el comisionista, aunque su percepción efectiva no ocurra en la misma oportunidad.
-
-En todo caso, las normas del Instituto Emisor sobre la materia, establecen que se presume que la fecha de pago de la comisión no podrá exceder de 180 días desde la fecha de embarque de la mercadería respectiva o de la partida de la nave, según sea el caso.
+De conformidad con lo dispuesto en el Capítulo V del Título III del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, los agentes, representantes o cualquiera persona natural o jurídica que actúe en el país por cuenta de firmas del exterior en la venta o colocación de mercaderías, deberán retornar, dentro del plazo establecido para el efecto, las comisiones que perciban por esos negocios, entendidas por tales el beneficio pecuniario, que a cualquier título obtengan por dichas operaciones.
 
 La responsabilidad por el retorno y liquidación de los referidos importes, corresponde exclusivamente a los agentes, representantes u otras personas que obtengan el beneficio pecuniario señalado en el primer párrafo de este número.
 
-Cuando se liquiden los importes de que se trata, se deberá entregar al comisionista una liquidación extendida en formularios numerados correlativamente y timbrados por el Servicio de Impuestos Internos, la que contendrá los datos necesarios para individualizar al banco que la emite, el nombre, domicilio y RUT de la persona a quien se paga la comisión y el monto de ésta y del impuesto retenido. El comisionista deberá emitir en todo caso, su respectiva factura por el monto recibido y con la constancia de retención de impuestos amparada por la liquidación que debe entregarle el banco.
+Cuando se liquiden los importes de que se trata, se deberá entregar al comisionista una liquidación extendida en formularios numerados correlativamente y timbrados por el Servicio de Impuestos Internos, la que contendrá los datos necesarios para individualizar al banco que la emite, el nombre, domicilio y RUT de la persona a quien se paga la comisión y el monto de ésta y del impuesto retenido. El comisionista deberá emitir en todo caso, su respectiva factura o boleta por el monto recibido y con la constancia de retención de impuestos amparada por la liquidación que debe entregarle el banco.
 
 5. - Instrucciones contables.
 
@@ -25760,17 +25466,17 @@ Debe: - "Anticipos para importación" subcuenta "Destino zonas francas" o "Desti
 
 - "Créditos para importación" subcuenta "Destino zonas francas" o "Destino resto del país".
 
-El saldo de las tres primeras cuentas señaladas se reflejará en la partida 1125 del formulario MB1, en tanto que el de la última se demostrará en la partida 1220 del referido formulario.
+El saldo de las tres primeras cuentas señaladas se reflejará en la partida 1125, en tanto que el de la última se demostrará en la partida 1220 del referido formulario.
 
-En caso que la carta de crédito se haya negociado bajo reserva y aún no se hubiere recibido la conformidad del ordenante, su importe se deberá registrar en la cuenta "Deudores por cartas de crédito negociadas bajo reserva" subcuenta "Destino zonas francas" o "Destino resto del país", de la partida 1125 del formulario MB1. Cuando se reciba la conformidad del ordenante, se traspasará alas cuentas antes señaladas.
+En caso que la carta de crédito se haya negociado bajo reserva y aún no se hubiere recibido la conformidad del ordenante, su importe se deberá registrar en la cuenta "Deudores por cartas de crédito negociadas bajo reserva" subcuenta "Destino zonas francas" o "Destino resto del país", de la partida 1125. Cuando se reciba la conformidad del ordenante, se traspasará alas cuentas antes señaladas.
 
-Haber: - "Comisiones de agente por pagar", cuando proceda, de la partida 3010 del formulario MB1.
+Haber: - "Comisiones de agente por pagar", cuando proceda, de la partida 3010.
 
-- "Obligaciones por créditos negociados a plazo-ALADI", que se demostrará en la partida 3520 ó 3565, del formulario MB1.
+- "Obligaciones por créditos negociados a plazo-ALADI", que se demostrará en la partida 3520 ó 3565.
 
-- "Obligaciones por créditos negociados a plazo Otros países", cuyo saldo se reflejará en las partidas 3505, 3515, 3555 ó 3560, según sea el caso, del formulario MB1.
+- "Obligaciones por créditos negociados a plazo Otros países", cuyo saldo se reflejará en las partidas 3505, 3515, 3555 ó 3560, según sea el caso.
 
-- La cuenta que corresponda por el desembolso de la moneda extranjera, en caso de tratarse de una carta de crédito pagadera a la vista, con recursos del banco emisor. En caso que este pago se realice con recursos que se obtengan en el exterior para tal efecto, se deberán acreditar las cuentas "Adeudado a bancos y corresponsales del exterior" de la partida 3505, 3510 ó 3555 del formulario MB1, "Adeudado al exterior a oficinas del mismo banco" de la partida 3515 ó 3560 del formulario MB1, o bien, "Adeudado a bancos y corresponsales con rembolso a través de convenios ALADI" de la partida 3520 ó 3565 del referido formulario,según corresponda.
+- La cuenta que corresponda por el desembolso de la moneda extranjera, en caso de tratarse de una carta de crédito pagadera a la vista, con recursos del banco emisor. En caso que este pago se realice con recursos que se obtengan en el exterior para tal efecto, se deberán acreditar las cuentas "Adeudado a bancos y corresponsales del exterior" de la 3505 ó 3555, "Adeudado al exterior a oficinas del mismo banco" de la partida 3515 ó 3560, o bien, "Adeudado a bancos y corresponsales con rembolso a través de convenios ALADI" de la partida 3520 ó 3565,según corresponda.
 
 Simultáneamente deberá revertirse el asiento contable respectivo, señalado en la letra a) del numeral 5.1.1 precedente.
 
@@ -25782,17 +25488,17 @@ Debe: - "Cartas de crédito enteradas en efectivo".
 
 Haber: - "Comisiones de agente por pagar", cuando proceda.
 
-- "Remanente de cartas de crédito enteradas en efectivo", por el saldo que pudiera quedar, si el importe depositado por el ordenante ha sido superior al valor de la negociación. Este saldo se demostrará en la partida 3010 del formulario MB1.
+- "Remanente de cartas de crédito enteradas en efectivo", por el saldo que pudiera quedar, si el importe depositado por el ordenante ha sido superior al valor de la negociación. Este saldo se demostrará en la partida 3010.
 
 - La cuenta que corresponda por el desembolso de la moneda extranjera para pagar el importe de la negociación.
 
-En caso que la carta de crédito se haya negociado bajo reserva y aún no se hubiere recibido la conformidad del ordenante, su importe se deberá registrar en la cuenta "Cartas de crédito enteradas en efectivo negociadas bajo reserva", dela partida 3010 del formulario MB1. Cuando se reciba la conformidad del ordenante, se registrarán los importes que correspondan en las cuentas señaladas precedentemente.
+En caso que la carta de crédito se haya negociado bajo reserva y aún no se hubiere recibido la conformidad del ordenante, su importe se deberá registrar en la cuenta "Cartas de crédito enteradas en efectivo negociadas bajo reserva", dela partida 3010. Cuando se reciba la conformidad del ordenante, se registrarán los importes que correspondan en las cuentas señaladas precedentemente.
 
 c)Cartas de crédito abiertas con depósito provisional en moneda chilena por el ordenante.
 
-Debe: - "Moneda extranjera vendida condicionalmente-Créditos negociados", de la partida 2525 del formulario MB1, o bien,
+Debe: - "Moneda extranjera vendida condicionalmente-Créditos negociados", de la partida 2525, o bien,
 
-- "Moneda extranjera vendida condicionalmente-Negociación bajo reserva", en caso que la carta de crédito hubiere sido negociada bajo reserva y aún no se hubiere obtenido la conformidad del ordenante. Cuando se reciba la conformidad de éste, el importe respectivo será traspasado a la cuenta señalada precedentemente. Esta cuenta se demostrará en la partida 2525 del formulario MB1.
+- "Moneda extranjera vendida condicionalmente-Negociación bajo reserva", en caso que la carta de crédito hubiere sido negociada bajo reserva y aún no se hubiere obtenido la conformidad del ordenante. Cuando se reciba la conformidad de éste, el importe respectivo será traspasado a la cuenta señalada precedentemente. Esta cuenta se demostrará en la partida 2525.
 
 Haber: - "Comisiones de agente por pagar", cuando proceda.
 
@@ -25974,7 +25680,7 @@ Haber: La cuenta que corresponda por el desembolso de la moneda extranjera.
 
 5.3.5.- Comisiones de cobranza.
 
-Las comisiones que los bancos cobren sobre estas operaciones, serán acreditadas en la cuenta "Comisiones ganadas-Cobranzas extranjeras", cuyo saldo será demostrado en la partida 7520 del formulario MR1.
+Las comisiones que los bancos cobren sobre estas operaciones, serán acreditadas en la cuenta "Comisiones ganadas-Cobranzas extranjeras", cuyo saldo será demostrado en la partida 7520.
 
 5.4.- Liquidación de comisiones de agentes.
 
@@ -25984,13 +25690,15 @@ a) Moneda extranjera.
 
 Debe: "Comisiones de agente por pagar", por el importe de la comisión que se liquida.
 
-Haber: "Conversión mercado bancario".
+Haber: -"Impuesto por pagar sobre comisiones de agente", de la partida 3010, por el impuesto que corresponda retener en moneda extranjera.
 
-b) Moneda Chilena.
+- "Conversión mercado bancario".
 
-Debe: "Cambio mercado bancario", por el valor en moneda chilena, pagado por las divisas correspondientes a la comisión que se liquida.
+b) Moneda chilena.
 
-Haber - "Impuesto por pagar sobre comisiones de agente" por el impuesto a que se refiere el D.L. N° 825, de 1974, y sus modificaciones, la que se demostrará en la partida 3010 del formulario MB1.
+Debe: "Cambio mercado bancario", por el valor de la moneda chilena, pagado por las divisas correspondientes a la comisión que se liquida.
+
+Haber: - "Impuesto por pagar sobre comisiones de agente", de la partida 3010, por el impuesto que corresponda retener en moneda chilena.
 
 - La cuenta que corresponda por el pago al comisionista.
 
@@ -26557,22 +26265,6 @@ c) Intereses.
 De acuerdo con las disposiciones que rigen para estas operaciones, los intereses devengados por las entidades bancarias sobre las colocaciones que mantengan con cargo a las líneas de crédito antes indicadas deben registrarse, en moneda chilena, con cargo a la cuenta complementaria de intereses de colocaciones y con abono a la respectiva cuenta de resultados de la partida 7115.
 
 A su vez, los intereses adeudados por las obligaciones con el Banco Central de Chile, se registrarán, en moneda chilena, en la cuenta complementaria de intereses de la partida 3455, con cargo a la respectiva cuenta de resultados de la partida 5155.
-
-3.- Limites legales.
-
-Las operaciones de que se trata son computables para los efectos de los límites
-
-de crédito y de endeudamiento dispuestos en los artículos 84 y 81 de la Ley
-
-General de Bancos, respectivamente.
-
-4.- Límites de obligaciones con el Banco Central de Chile.
-
-Las obligaciones contraídas con el Banco Central de Chile por estas operaciones
-
-están afectas al límite de endeudamiento con el Instituto Emisor a que se
-
-refiere el Capítulo 12-6 de esta Recopilación de Normas.
 
 CAPITULO 15-4 (Bancos)
 
@@ -28484,15 +28176,15 @@ Esta información deberá estar siempre actualizada, de manera que todo cambio d
 
 Deberán mantenerse a disposición del público los siguientes antecedentes financieros mínimos, sin perjuicio de lo indicado en el numeral siguiente:
 
-a) Monto del capital pagado y reservas. Corresponderá a la suma de los saldos que deben incluirse en las partidas 4305 a 4405 del formulario MB1 a la fecha que corresponda;
+a) Monto del capital pagado y reservas. Corresponderá a la suma de los saldos que deben incluirse en las partidas 4305 a 4405 a la fecha que corresponda;
 
-b) Relación deuda/capital. Este indicador se establecerá de acuerdo con las instrucciones que ha impartido esta Superintendencia para la preparación del formulario M-30;
+b) Relación deuda/capital. Este indicador se establecerá de acuerdo con las instrucciones del Capítulo 12-2 de esta Recopilación Actualizada de Normas;
 
 c) Coeficiente de cobertura patrimonial. Deberá corresponder al último porcentaje publicado por esta Superintendencia.
 
-d) Total de compromisos vigentes por avales y fianzas y obligaciones contingentes. Este monto deberá ser igual al total de obligaciones contingentes registrado en el formulario MB1;
+d) Total de compromisos vigentes por avales y fianzas y obligaciones contingentes. Este monto deberá ser igual al total de obligaciones contingentes registradas a la fecha que corresponda;
 
-e) Monto de operaciones de intermediación vigentes. Se indicará la suma de las partidas 3105 a 3115 del formulario MB1.
+e) Monto de operaciones de intermediación vigentes. Se indicará la suma de las partidas 3105 a 3115.
 
 Los antecedentes deben estar referidos a la fecha del último Balance o Estado de Situación que se haya publicado en un periódico de acuerdo con las instrucciones de esta Superintendencia y se actualizarán dentro del plazo máximo de 10 días acontar de la respectiva publicación. La información indicada en la letra c), sin embargo, se actualizará cada vez que el coeficiente de cobertura patrimonial sea publicado por este Organismo, disponiéndose para ello también de un plazo de diez días.
 
@@ -28672,8 +28364,6 @@ MATERIA:
 
 INFORMACION A CLIENTES SOBRE COBRANZA EN EMPRESAS EXTERNAS.
 
-### 1. Información al cliente
-
 Las instituciones financieras que entreguen la cobranza de créditos morosos a empresas externas y traspasen a sus clientes la obligación de pagar los honorarios de estas últimas, deberán informar de la existencia y el monto de dichos honorarios a los solicitantes de créditos, en forma anticipada a la aprobación de los mismos.
 
 Con tal objeto, junto con la solicitud de crédito se deberá entregar al cliente un volante conteniendo la tabla de honorarios que se aplicará, el período de vigencia de ellos y la indicación del número de días hábiles en que el préstamo o la cuota permanecerá impago en la institución antes de ser enviado a cobranza externa. De igual forma, deberá comunicarse a los clientes cuando la tabla de honorarios sufra modificaciones. Además, la solicitud de crédito deberá contener una cláusula en la que el demandante del crédito declare haber recibido información detallada de los costos de cobranza que le afectarán en caso de atrasarse en el pago de sus obligaciones.
@@ -28682,9 +28372,7 @@ Asimismo, en los locales en que se atienda a solicitantes de créditos de consum
 
 Por último, en la chequera de pago, cuando ése sea el sistema utilizado, deberá incluirse una leyenda destacada recordando que los pagos con retraso generarán un recargo por concepto de gastos de cobranza.
 
-### 2. Disposición transitoria
-
-Mientras agoten sus actuales existencias de formularios de solicitud de crédito, las instituciones podrán incluir la cláusula antes indicada en una copia de la tabla de honorarios por tales cobranzas, la que deberá ser firmada por el cliente y agregada a la solicitud de crédito. En todo caso, cuando se produzcan reclamaciones relacionadas con el cobro de honorarios por cobranza de créditos, corresponderá a la entidad financiera probar que, de acuerdo con estas instrucciones, informó de manera completa y oportuna al cliente sobre el particular.
+En todo caso, cuando se produzcan reclamaciones relacionadas con el cobro de honorarios por cobranza de créditos, corresponderá a la entidad financiera probar que, de acuerdo con estas instrucciones, informó de manera completa y oportuna al cliente sobre el particular.
 
 CAPITULO 19-1 (Bancos y Financieras)
 
@@ -29001,62 +28689,6 @@ En aquellos casos en que, sin ser exigible la presentación de la cédula del RU
 la operación la realiza un extranjero no residente, se dejará constancia del
 
 documento exhibido que acredite su calidad de transeúnte.
-
-### 4. Disposición transitoria
-
-En lo que respecta al uso de la cédula de identidad, debe tenerse presente que,
-
-de conformidad con el comunicado del Servicio de Registro Civil e Identificación
-
-que se transcribe en el Anexo N° 1 a este capítulo, las cédulas de identidad
-
-antiguas, cualquiera sea su formato, si bien no son aptas para sustituir al Rol
-
-Unico Tributario, mantienen su vigencia para los efectos de identificación delas
-
-personas, hasta diez años contados desde la fecha de su emisión.
-
-ANEXO N°1
-
-VALIDEZ DE LA CEDULA DE IDENTIDAD.
-
-En relación con la validez de las cédulas que no corresponden a la Cédula
-
-Nacional de Identidad, el Servicio de Registro Civil e Identificación comunicó a
-
-esta Superintendencia lo siguiente:
-
-"De Conformidad con la legislación vigente, todas las cédulas de identidad,
-
-cualquiera sea su formato, tienen una vigencia de diez años contados desde la
-
-fecha de emisión.
-
-Atendiendo lo expuesto, corresponde en el presente año (°) renovar la cédula de
-
-identidad a todas aquellas personas que la obtuvieron en el año 1976 o con
-
-anterioridad.
-
-En consecuencia, la cédula de nuevo formato, sólo es necesario obtenerla en los
-
-siguientes casos:
-
-a) Obtención por primera vez de personas mayores de 18 años y menores de 18 años
-
-sin cédula de identidad que deban viajar al extranjero;
-
-b) Renovación por vencimiento o extravío;
-
-c) Para solicitar la inscripción pertinente en el Registro Electoral, de acuerdo
-
-con lo dispuesto en la Ley Electoral.
-
-Cabe destacar que el hecho de no tener la cédula de nuevo formato, no implica en
-
-caso alguno la aplicación de una multa."
-
-(*) Se refiere al año 1986.
 
 CAPITULO 20-2. Derogado.
 
