@@ -1,0 +1,3 @@
+Por decreto MOP Nº 302, de 28 de febrero de 2001, se expropió el lote de terreno Nº 293-B, superficie 3.094 m2., rol de avalúo 7.146-30, comuna de La Pintana, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector: A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Serviu, ascendente a la cantidad de $58.653.080.-.
+
+Fiscal del Ministerio de Obras Públicas.
