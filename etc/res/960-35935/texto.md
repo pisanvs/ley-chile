@@ -1,0 +1,3 @@
+Por Resolución N° 960, de 20 de mayo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción; declárase la caducidad de las Resoluciones N° 1.418, de 1992, N° 35 y N° 874, ambas de 1995, todas de esta Subsecretaría, que autorizaron a don ROQUE MASSERA UNGERER, para desarrollar actividades extractivas con la nave "Franco M", en virtud de lo dispuesto en el artículo 143 letra b) del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 20 de mayo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
