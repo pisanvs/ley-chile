@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.194 de fecha 31 de julio de 2002, se expropió el lote de terreno Nº 39, superficie 140 m2, rol de avalúo Nº 123-28, comuna de Ránquil, para la obra ''Camino Ruta O-122, Sector Nueva Aldea - Ñipas, Tramo III Km. 10,00000 a Km. 13,29560'', VIII Región y se acordó el valor de la indemnización con su propietaria María Ortiz Figueroa, ascendente a la cantidad de $387.600.-
+
+Fiscal del Ministerio de Obras Públicas.
