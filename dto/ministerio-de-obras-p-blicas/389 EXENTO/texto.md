@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº389 de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº13, superficie 500 m2., Rol de Avalúo Nº302-205, comuna de Cunco, para la obra "Camino Ruta S-61, Sector Cunco - Melipeuco, Km. 55,000 a 87,46783, correspondiente al tramo I Km. 55,000 al 62,784", IX Región y se acordó el valor de indemnización con su propietario Hubaldo González Mendoza, ascendente a la cantidad de $823.860.-
+
+Fiscal del Ministerio de Obras Públicas.
