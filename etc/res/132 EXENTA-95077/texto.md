@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN COMUNA DE YERBAS BUENAS
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 132, de 20 de Enero de 1989, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido, Sector Expropiado Predios: "Propiedad de 186,38 hás que formaba parte del Fundo Lagunillas de Arquén" y "Resto del predio Rústico Denominado Lagunillas de Arquén", "Santa Ana" e "Hijuela Primera, hoy Fundo El Pinar, de la parcelación del Fundo María Elena", de la comuna Yerbas Buenas, VII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N° 1 a la 59, sitios N°s. 1 al 8, 14 al 59 del Proyecto de Parcelación "Arquén" formado por predios señalados y otro. Los derechos de agua se extraen de los canales Benavente, Cunaco, San Lorenzo, Santa Ana 2 Compañía y Quiriquiño, provenientes del río Maule. Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Nacional (S)
