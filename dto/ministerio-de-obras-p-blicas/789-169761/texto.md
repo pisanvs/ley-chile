@@ -1,0 +1,3 @@
+Por decreto MOP Nº789, de 29 de febrero de 2000, se expropió los lotes de terreno Nºs. 1 y 21-A, roles de avalúo 12-23 y 137-20, comuna de Chonchi, Xª Región, para la obra Camino Chonchi-Teupa, y se acordó precio de indemnización con sus propietarios Dolariza Alvarez Andrade y otros y José Alfonso Guaquin, ascendentes a las cantidades que se indican en dicho decreto.-
+
+Fiscal del Ministerio de Obras Públicas.
