@@ -1,0 +1,3 @@
+Por resolución N°2.268 de 18 de octubre de 2000, de esta Subsecretaría, autorízase a CORPESCA S.A., para ampliar las actividades pesqueras extractivas con la nave ''Mar Tirreno'', en el área marítima de la I y II Regiones, donde podrá capturar, con red de cerco, por fuera del área de reserva artesanal, los recursos hidrobiológicos Anchoa blanca, Jurel fino, Sardina redonda y Vinciguerria.
+
+Valparaíso, 18 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
