@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.328, de 27 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra Alcantarillado de Paihuano Impulsión, que figura a nombre de Roberto H. Molina Pinto, rol de avalúo 11-4, comuna de Paihuano, IV Región, superficie 627,10 m². La Comisión de Peritos fijó con fecha 20 de junio de 2000, el valor provisional de la indemnización en la cantidad de $1.254.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
