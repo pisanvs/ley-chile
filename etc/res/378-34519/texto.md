@@ -1,0 +1,3 @@
+Por Resolución N° 378, de 26 de febrero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución N° 45, de 1979, de esta Subsecretaría, que autorizó a don DAVID CRUZ LOPEZ, para operar la nave "Cachagua I", por haberse configurado la causal prevista en el artículo 143 letra b) de la Ley N° 18.892 y sus modificaciones, citadas en Visto.
+
+Valparaíso, 26 de febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
