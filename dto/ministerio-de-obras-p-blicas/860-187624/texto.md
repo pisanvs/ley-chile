@@ -1,0 +1,3 @@
+Por decreto MOP Nº860 de fecha 26 de junio de 2001, se expropió el lote de terreno Nº20, superficie 2.057,00 m², rol de avalúo 387-320, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisán, Expropiaciones Red Primaria 1/5, Derivado Comuy" Kms. 0.000 al 6.120,36" y se acordó el valor de indemnización con su propietario Ana del Carmen Painemil Pichún, ascendente a la cantidad de $1.066.966.
+
+Fiscal del Ministerio de Obras Públicas.
