@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto M.O.P. N° 90, de 30 de abril de 1991, y en base a la facultad otorgada por el artículo 105 del decreto M.O.P. N° 294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropió para la Empresa de Obras Sanitarias de Valparaíso S.A. el lote de terreno N° 4, para la Instalación de Servicio de Alcantarillado en Placilla de Peñuelas, Comuna de Valparaíso, V Región, que figura a nombre de Sucesión Salvador Devoto Solari, rol de avalúo 9315-5, superficie 48.357 M2. Deslindes: Norte: Con Chacra Campton; Sur: Con Fundo Las Mercedes; Este: con calle Cardenal Samoré, y Oeste: Con Fundo Las Mercedes. La Comisión de Peritos compuesta por los señores Osvaldo Muñoz Quintana, Alvaro Verdejo Vidal y Pablo Caria Giurici, fijó con fecha 25 de julio de 1990, el valor provisional de la indemnización en la suma de $ 8.715.700. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.-
+
+El Fiscal del Ministerio de Obras Públicas.
