@@ -1,0 +1,3 @@
+Por resolución Nº 581 de 9 de abril de 2001 de esta Subsecretaría, modifícase el número 4º de la resolución Nº 285 de 2001, que autorizó a la UNIVERSIDAD AUSTRAL DE CHILE para efectuar una pesca de investigación, en el sentido de reemplazar el arte de pesca autorizado por redes de monofilamento y polifilamento con trama de redes entre 32 y 45 mm. de longitud de barra. Rectifícase el número 3º, en el sentido de reemplazar la expresión "IX Región" por "X Región".
+
+Valparaíso, 9 de abril de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
