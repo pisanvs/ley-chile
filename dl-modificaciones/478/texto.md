@@ -1,0 +1,39 @@
+MODIFICA EL DFL. N° 1, de 1971, QUE ESTABLECE NORMAS DE ORGANIZACION, ADMINISTRACION DE FONDOS Y REGIMEN DE BIENES Y SERVICIOS, PARA LOS DEPARTAMENTOS DE BIENESTAR DE LAS FUERZAS ARMADAS
+
+> **Nota.** El artículo 19 de la LEY 18712, publicada el 04.06.1988, derogó este decreto ley.
+
+#### Artículo único
+
+Agréganse al decreto con fuerza de ley N° 1 (SSG), de 6 de Abril de 1971, los siguientes artículos nuevos:
+
+#### Artículo 11
+
+Los Departamentos y Subdepartamentos de Bienestar Social de las Fuerzas Armadas podrán programar, coordinar, controlar, contratar y ejecutar planes habitacionales destinados a proporcionar viviendas propias al personal de las Fuerzas Armadas, para lo cual estarán facultados para optar y contratar préstamos hipotecarios con las Asociaciones de Ahorro y Préstamo, servicios e instituciones de la vivienda, instituciones de previsión u otras instituciones crediticias, para la adquisición, construcción, terminación o ampliación de viviendas. En los préstamos para la construcción de viviendas podrán incluirse el costo de los terrenos y la urbanización.
+
+#### Artículo 12
+
+Los Departamentos y Subdepartamentos de Bienestar Social de las Fuerzas Armadas podrán representar en forma amplia al personal que lo solicite en la adquisición o construcción de viviendas y en todos los actos y contratos tendientes a lograr dicha adquisición o construcción, sin necesidad de mandato y se entenderán expresamente facultados para vender sus propias viviendas al personal representado en la forma antedicha. Podrán del mismo modo, representar a las sociedades de responsabilidad limitada constituidas de conformidad a la ley N° 3.918 y sus modificaciones posteriores, las que, sin fin de lucro, tengan por único objeto la construcción de viviendas económicas para ser adjudicadas a sus socios y a las cooperativas de edificación de viviendas, formadas, ambas, exclusivamente por personal de las Fuerzas Armadas.
+
+#### Artículo 13°
+
+Facúltase a las Asociaciones de Ahorro y Préstamo para otorgar a los Departamentos y Subdepartamentos de Bienestar de las Fuerzas Armadas, préstamos hipotecarios para la adquisición, construcción, ampliación o terminación de viviendas económicas, incluyendo el costo del terreno y urbanización cuando sea procedente.
+
+#### Artículo 14
+
+Los Departamentos y Subdepartamentos de Bienestar Social estarán autorizados y obligados a vender los terrenos adquiridos y las viviendas construidas de conformidad con los tres artículos anteriores, al personal de las Fuerzas Armadas de acuerdo con las normas del derecho común, produciéndose en el mismo acto de la enajenación, y por el solo hecho de ésta, su desafectación del patrimonio que esos Departamentos y Subdepartamentos administran.
+
+Del mismo modo los Departamentos y Subdepartamentos de Bienestar Social podrán gravar esos terrenos en garantía de los préstamos que obtengan para su urbanización y construcción.
+
+#### Artículo 15°
+
+En todos los actos, contratos y actuaciones para la preparación, perfeccionamiento y ejecución de los actos contemplados en los cuatro artículos anteriores, los Departamentos y Subdepartamentos de Bienestar Social gozarán de los privilegios y exenciones que benefician a las cooperativas, según los artículos 55 y siguientes del decreto supremo N° RRA. 20, de 23 de Febrero de 1963, del Ministerio de Hacienda, publicado en el Diario Oficial de 5 de Abril de 1963, y de los que en el futuro se establezcan a favor de ellas.".
+
+#### Artículo transitorio
+
+Autorízase al Departamento de Bienestar Social de la Armada para gravar y enajenar el terreno que es de dominio del patrimonio de afectación fiscal, desafectándose de éste, denominado "Limachito", ubicado en la comuna de Limache, provincia de Valparaíso, inscrito a nombre del Servicio de Bienestar Social de la Armada de Chile a fojas 363, N° 448, del Registro de Propiedad del Conservador de Bienes Raíces de Limache, del 2 de Mayo de 1973, y las viviendas que en él se construyan.
+
+Los gravámenes que se autorizan serán para garantizar los préstamos hipotecarios para la urbanización del terreno y construcción de viviendas en él; y la enajenación se hará a favor del personal de las Fuerzas Armadas socio de la Cooperativa de Viviendas y Servicios Habitacionales "Isla Lenox Ltda.", por haber sido adquiridos con los dineros que esta cooperativa tenía depositados en la Asociación de Ahorro y Préstamo Diego Portales, y con el objeto de transferirle en dominio su vivienda propia.
+
+Regístrese en la Contraloría General de la República, comuníquese y publíquese en el Diario Oficial, insértese en la Recopilación Oficial de dicha Contraloría General y publíquese en los Boletines Oficiales del Ejército, Armada y Fuerza Aérea.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada, Presidente subrogante de la Junta de Gobierno.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Patricio Carvajal Prado, Vicealmirante, Ministro de Defensa Nacional.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.- Arturo Vivero Avila, General de Brigada, Ministro de la Vivienda y Urbanismo.
+
+Lo que se transcribe para su conocimiento.- Ernesto Jobet Ojeda, Contralmirante, Subsecretario de Marina.
