@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1494 de 12 de Agosto de 1987, que ratifica la resolución exenta No. 862 del 15 de Junio de 1984, conforme art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Fundo María Elena" y "Fundo Santa Ana y Potrero El Rancho", de la comuna de La Serena, IV Región; y Derechos Aprovechamientos Aguas que corresponden Parcelas N°s. 1 a la 16, sitios N°s. 1 al 16 y 20 al 24, bienes comunes especiales N°s. 1 y 2 del Proyecto de Parcelación "Nueva Esperanza", formado entre otros, por predios señalados. Los derechos de agua se extraen del Canal Romero, derivado del Río Elqui y Quebrada Santa Gracia.
+
+Publicación hecha conforme art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
