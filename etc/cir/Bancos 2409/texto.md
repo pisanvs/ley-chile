@@ -9710,6 +9710,20 @@ a) Sean emitidas por un banco -ya se trate de la casa matriz, o de una filial o 
 
 b) Se trate de cartas de crédito emitidas por entidades bancarias distintas de la casa matriz u otra sucursal del mismo banco en el exterior o una filial de aquélla. Para este efecto, el término "casa matriz" debe entenderse referido tanto a la entidad matriz de los bancos extranjeros establecidos en Chile como agencias, como a la institución extranjera que tiene participación mayoritaria en un banco constituido en el país como sociedad anónima.
 
+2.6. Garantías constituidas por documentos de resguardo o fianza emitidos por sociedades domiciliadas en el exterior.
+
+Para los solos fines de la clasificación de cartera de créditos comerciales que se debe efectuar de conformidad con lo dispuesto en el numeral 2.2 de este título, serán consideradas las garantías constituidas por documentos de resguardo o fianzas suscritos por sociedades domiciliadas en el exterior, que amparen obligaciones de sus sucursales o filiales en Chile, siempre que cumplan los siguientes requisitos:
+
+a) Que el documento sea suscrito por la sociedad o casa matriz de la empresa deudora ("Parent guarantee") a favor de la institución financiera establecida en Chile;
+
+b) Que los instrumentos de oferta pública emitidos por esa sociedad matriz estén clasificados a lo menos en AA por Standard Poor's o en Aa por Moody's, en boletines cuya antigüedad no sea superior a 12 meses.
+
+c) Que la matriz se comprometa a pagar en forma irrevocable, al solo requerimiento de la institución financiera acreedora, las obligaciones del deudor en caso de que su filial situada en Chile no pague en la fecha convenida.
+
+d) Que el compromiso de resguardo o fianza de que se trata pueda hacerse efectivo ejecutivamente por la vía judicial, conforme a la legislación del respectivo país.
+
+e) Que la institución financiera cuente con un informe completo de su fiscalía, en el que se indique: el monto y tipo de créditos garantizados, las condiciones de la exigibilidad, el plazo de validez y la forma de ejecución.
+
 ### 3. Clasificación de la cartera de créditos de consumo
 
 3.1. Créditos que se deben clasificar.
@@ -28568,7 +28582,7 @@ La institución bancaria que liquide un crédito interno de exportación deberá
 
 El pago de los créditos internos podrá efectuarse antes de su vencimiento si se realiza con la liquidación de divisas provenientes de retornos de exportación.
 
-Los exportadores podrán anular los créditos internos que hayan obtenido, en los casos en que no realicen operaciones de exportación.
+En todo caso, el pago de los créditos internos, por los cuales no se hayan efectuado embarques de mercaderías, que se haga dentro de los 180 días contados desde la fecha de su liquidación, sólo podrá realizarse con divisas cuya adquisición no se efectúe en el mercado cambiario formal. El referido pago deberá ser comunicado por escrito al Banco Central de Chile dentro de los cinco días hábiles bancarios contados desde la fecha en que éste se efectúe.
 
 ### 3. Intereses
 
