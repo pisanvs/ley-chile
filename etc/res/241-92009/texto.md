@@ -1,0 +1,3 @@
+Por Resolución No. 241 de 15 de marzo de 1989 del Servicio de Vivienda y Urbanización Metropolitano, derógase Resolución No. 1.134 de 14 de noviembre de 1988 del mismo Servicio, que ordenaba expropiación, conforme DL No. 2.186 de 1978, de parte inmueble ubicado calle San Pablo No. 8528, presunto rol avalúos No. 5920-1, comuna Pudahuel, aparente dominio de Compañía de Petróleo de Chile S.A.-
+
+Director SERVIU Metropolitano.
