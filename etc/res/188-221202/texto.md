@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE
+
+Resolución Nº 188 de 29 de enero de 2004, Serviu X Región de los Lagos, ordenó expropiar una franja de terreno, Rol de Avalúos 2202-6, comuna y provincia de Osorno, superficie aproximada 320 metros cuadrados, deslindes según plano de expropiación TEP 843: Norte 4 metros Villa Panorámica; Sur: 4 metros propiedad hermanas Casanova; Oriente: 80 metros resto de la propiedad Santísima Trinidad; Poniente: 80 metros resto propiedad Santísima Trinidad, aparente dominio Organización Comunitaria Funcional Santísima Trinidad, inscrito a fojas 5542 vuelta Nº 4610 Registro Propiedad 2002 Conservador de Bienes Raíces de Osorno, Proyecto paso colector aguas servidas, Sector La Misión, Osorno, conforme al artículo 51, ley 16.391 y art. 7 DL 2.186, Comisión Tasadora, peritos Nelson Fabián Igor Flores, constructor civil, Enrique Edgardo Hoelk Altmann y Leopoldo Ramón Schumacher Guarda, ambos ingenieros civiles, según informe de fecha 1 diciembre 2003, monto provisional $1.920.000.-, más reajustes legales respectivos.
+
+- Director Serviu X Región (s).
