@@ -1,0 +1,3 @@
+Por resolución No. 2, de fecha 29 de Mayo de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la II Región, se autoriza a don José del Tránsito Alarcón Alcayaga, para efectuar las revisiones técnicas de los vehículos de transporte de personas de más de nueve (9) asientos incluido el del conductor; de vehículos motorizados de carga con capacidad para transportar más de 1.750 kilos, sus remolques y semirremolques y los taxis, en el establecimiento ubicado en calle Hurtado de Mendoza No. 2179, de la ciudad de Calama.-
+
+Guido M. Ramírez Maturana, Secretario Regional Ministerial de Transportes y Telecomunicaciones II Región.
