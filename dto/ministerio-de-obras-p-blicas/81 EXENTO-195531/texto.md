@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº81, de fecha 21 de febrero de 2002, se expropió el lote de terreno Nº46-A, superficie 450 m², rol de avalúo 2-7, comuna de Río Hurtado, IV Región, para la obra "Camino Ruta D-595, Ovalle - Hurtado, Sector Tranque Recoleta - Samo Alto, Km. 9.780,00 al 31.840,00" y se acordó el valor de indemnización con su propietario don Osciel Osvaldo Urqueta Gallardo, ascendente a la cantidad de $283.230.-
+
+Fiscal del Ministerio de Obras Públicas.
