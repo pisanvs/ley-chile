@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 446 EXENTA, DE 2002
+
+Por resolución exenta Nº 446, de 17 de agosto de 2002, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la V Región, se aprobó el contrato de concesión para operación de una planta revisora Clase AB ubicada en Lote Nº 22-B, Parcela 22, Camino Público a Quebradilla, La Ligua, adjudicada por resolución exenta Nº 285 de 16 de agosto de 2002 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la V Región, a la sociedad Cristián Romero y Compañía Limitada, por el plazo de años, meses y días que resten del saldo de seis años en relación al proceso de licitación convocado para la V Región el año 1999, a contar de la fecha de publicación del presente extracto.
+
+- Emilio Oñate Vera, Secretario Regional Ministerial de Transportes y Telecomunicaciones V Región.
