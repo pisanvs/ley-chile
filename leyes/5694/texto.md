@@ -1,0 +1,1 @@
+Condona rentas de arrendamiento, contribución sobre bienes raíces, intereses penales y multas devengados o que se devenguen hasta el 31 de diciembre de 1936, adeudados al Fisco por arrendatarios chilenos de provincias de Tarapacá, Antofagasta, Atacama y Coquimbo que reunan las condiciones que indica.
