@@ -1,0 +1,3 @@
+Por resolución exenta Nº131 de fecha 22 de diciembre de 1997, del Ministerio de Economía, Fomento y Reconstrucción, se ha rechazado el recurso de reclamación interpuesto por la Sociedad Pesquera San Antonio S.A., Rut: 87.992.600-9 y confirmada la resolución Nº 1.984, de 1996, de la Subsecretaría de Pesca, que declaró la caducidad parcial de la resolución Nº 1.046, de 1993, de esa Subsecretaría, que autorizó a la reclamante para desarrollar actividades pesqueras con la nave "Paniahue".-
+
+Oscar Landerretche Gacitúa, Subsecretario de Economía, Fomento y Reconstrucción.
