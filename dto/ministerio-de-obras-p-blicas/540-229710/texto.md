@@ -1,0 +1,3 @@
+Por decreto MOP Nº 540 de fecha 30 de junio del 2004, se expropiaron los lotes de terreno Nº s. 38 y 42, superficies 3.563 y 19.206 m², Rol Nº 172-429, comuna de San Clemente, VII Región para la obra "Camino Mejoramiento Ruta K-705, sector: Cruce Ruta 115-CH (El Guindo) - Vilches Alto, Tramo Km. 0,0000 a Km. 13,06400 (Ruta K-705) y Km. 35,46000 a Km. 35,80000 (Ruta 115-CH), Comuna de San Clemente, Provincia de Talca" se acordó el valor de indemnización con su propietario Juan Francisco Andrades Valdebenito, ascendente a la cantidad de $16.846.797.- para los lotes Nº s. 38 y 42.
+
+Fiscal del Ministerio de Obras Públicas.
