@@ -1,0 +1,5 @@
+Por Resolución Nº424 de 14 de mayo de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don GERMAN BUENO GALAZ, R.U.T.
+
+Nº7.129.760-8 domiciliado en la ciudad de Santiago, Avenida Salvador Nº615, Departamento 205, Providencia, para ampliar actividades pesqueras de cultivo, autorizadas por Resoluciones Nº789 de 1990 y Nº653 de 1991, ambas de esta Subsecretaría, en orden a incorporar al centro de cultivo autorizado por las resoluciones indicadas precedentemente, ubicado en el sitio Nº3, lote Nº5, Sector Playa Grande de Tongoy, comuna de Coquimbo, IV Región la especie del recurso Ostra del Pacífico, para la producción de semillas. Los reproductores de Ostra del Pacífico deberán provenir de centros de cultivos autorizados, o mediante importación lo que acreditará con el respectivo certificado sanitario. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 14 de mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
