@@ -1,0 +1,3 @@
+Por Resolución Nº 813, de 6 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resoluciones Nº 1.028, de 1991 y Nº 879 de 1995, ambas de esta Subsecretaría, que autorizaron a LEANDRO ANTONIO MIRET ROJAS, para instalar y operar el centro de cultivo ubicado en Bahía Aucar, comuna de Quemchi, X Región, por haberse dejado sin efecto las respectivas Resoluciones de concesión de acuicultura.
+
+Valparaíso, 6 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
