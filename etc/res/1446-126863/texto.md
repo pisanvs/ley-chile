@@ -1,0 +1,3 @@
+Por resolución Nº 1.446 de 7 de octubre de 1998 de esta Subsecretaría, autorízase a MICHEL PATRICIO ROBLES VERDUGO, para ampliar actividades pesqueras autorizadas por resolución Nº 437 de 1997, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Freirina Nº 221-B, Bahía Inglesa, comuna de Caldera, provincia de Copiapó, III Región, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco-Refrigerado y Congelado: Albacora o pez espada, Anguila, Atún aleta amarilla, Azulejo, Bacalao de profundidad, Bonito, Cazón, Corvina, Marrajo o tiburón, Camarón de río, Jaiba mora y Lapa.
+
+Valparaíso, 7 de octubre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
