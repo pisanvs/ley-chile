@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº808 de fecha 31 de mayo del 2002, se expropió el lote de terreno Nº35, superficie 443,0 m2, Rol Nº156-55, comuna de Cararrehue, IX Región para la obra ''Camino Catripulli-Curarrehue, sector Km. 108,02 al Km. 114,80'', y se acordó el valor de indemnización con su propietario José Bernardo Carrasco Alarcón y otros, ascendente a la cantidad de $1.215.238.
+
+Fiscal del Ministerio de Obras Públicas.
