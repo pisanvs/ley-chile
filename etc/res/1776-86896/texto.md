@@ -1,0 +1,5 @@
+Por resolución Nº 1.776, de 30 de diciembre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por SOCIEDAD PESQUERA COLOSO S.A., en el sentido de otorgar la autorización de pesca de la nave "Lientur" contenida en la resolución Nº 1.395, de 1997, a la nave en construcción autorizada para operar mediante resolución Nº 1.121, de 1997, por ser contraria a la normativa vigente, configurándose la causal denegatoria prevista en el artículo 19 letra e) de la ley Nº 18.892 y sus modificaciones.
+
+Déjase sin efecto la resolución Nº 1.395, de 1997, de esta Subsecretaría que autorizó a la Sociedad Pesquera Coloso S.A. para ampliar actividades pesqueras extractivas con la nave "Lientur", por no haber sido publicada en el Diario Oficial, dentro del plazo previsto en el artículo 15 de la ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 30 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
