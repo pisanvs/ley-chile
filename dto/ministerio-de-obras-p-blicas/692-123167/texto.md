@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 692, de 29 de mayo de 1998, se expropió el lote de terreno No. 2, superficie 200 m2., rol de avalúo 229-22, comuna de Rengo, obra Construcción Pasarelas Peatonales y Puentes, Sexta Región, sector Caminos de Acceso al Puente Popeta H-521, Acceso Norte y se acordó precio de indemnización con su propietario Hernán Urquiza Abasolo, ascendente a la cantidad de $ 653.961.
+
+- Fiscal del Ministerio de Obras Públicas.
