@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A SOCIEDAD AGROINDUSTRIAS CASABLANCA S.A.
+
+Núm. 6.- Certifico que la Sociedad Agroindustrias Casablanca S.A., RUT Nº 96.659.460-8, cumple los requisitos establecidos en la resolución Nº 4.916, del 31-10-2000 y que en consecuencia tiene la calidad de agente retenedor del Impuesto al Valor Agregado en las adquisiciones de madera que ella efectúe, entendiendo por madera al bosque en pie y a los productos que se obtengan de su corta, trozado, aserrío, astillado u otra forma de divisionamiento presentación, cualquiera sea su denominación incluyendo la leña y los subproductos que se obtengan de dichos procesos, y tendrá vigencia a partir del día 1º del mes siguiente al de su publicación en el Diario Oficial.
+
+Valparaíso, 31 de octubre de 2001.- Francisco Cárcamo Avendaño, Director Regional.
