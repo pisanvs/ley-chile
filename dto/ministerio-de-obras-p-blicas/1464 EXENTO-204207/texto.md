@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.464 de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº49, superficie 20 m², rol de Avalúo en trámite, comuna de San Vicente de Tagua Tagua, para la obra ''Mejoramiento Camino Ruta H-724, Sector La Gruta - Pueblo de Indios, Km. 0,000 a Km. 1,187 y Sector Ruta H-730, Km. 1,600 al Km. 3,292'', VI Región y se acordó el valor de la indemnización con su propietaria Olga Pérez Miranda y Otra, ascendente a la cantidad de $2.264.970.-
+
+Fiscal del Ministerio de Obras Públicas.
