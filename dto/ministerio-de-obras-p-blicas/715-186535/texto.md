@@ -1,0 +1,3 @@
+Por decreto MOP Nº 715, de 30 de abril de 2001, se modificó el decreto MOP Nº 4803, de 31 de octubre de 2000, en el sentido de que el lote a expropiar es el Nº 106, y no como se individualizó en el Nº 3 de dicho decreto; obra "Camino Costero Pichilemu-Iloca, Sector Puente Cahuil y Accesos". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
