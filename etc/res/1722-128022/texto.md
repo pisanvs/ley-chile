@@ -1,0 +1,3 @@
+Por resolución Nº 1.722 de 30 de noviembre de 1998 de esta Subsecretaría, déjase sin efecto la resolución Nº 1.427 de 1995, de esta Subsecretaría, que autorizó a COMERCIAL E INVERSIONES RAMIREZ GUICHARD LTDA., R.U.T. Nº 78.441.580-5, con domicilio en calle Ramírez Nº 202, Vallenar, para instalar y operar el centro de cultivo ubicado en Puerto Carrizal Bajo, comuna de Huasco, III Región.
+
+Valparaíso, 30 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
