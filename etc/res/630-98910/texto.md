@@ -1,0 +1,3 @@
+Por resolución Nº 630, de 4 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad total de las resoluciones Nº 1.235 de 1990 y Nº 374, de 1991, ambas de esta Subsecretaría, que autorizaron a MAURICIO VILLARROEL SALAZAR para desarrollar actividades pesqueras extractivas con la nave ''Soberana'', conforme a lo dispuesto en el artículo 143 letras b) y d) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 4 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
