@@ -1,0 +1,3 @@
+Por resolución Nº 1.883 de 20 de septiembre de 1999 de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº97103244, presentada por MARCOLFA GUAQUIN PAREDES, para operar un centro de cultivo ubicado en el sector Punta Matao, Isla Quinchao, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 20 de septiembre de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
