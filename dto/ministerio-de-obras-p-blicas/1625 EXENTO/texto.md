@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.625, de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº58 superficie 522,7 m2, rol de avalúo 557-163, comuna de Linares, VII Región, para la obra ''Camino Ruta L-45, Sector Linares-Llepo, Tramo Km.2,750.2 al 13,147'' y se acordó el valor de indemnización con su propietario don Julio del Carmen Rivas Fuentes, ascendente a la cantidad de $1.546.162.-
+
+Fiscal del Ministerio de Obras Públicas.
