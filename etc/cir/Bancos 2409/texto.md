@@ -15712,9 +15712,9 @@ Aparte de las inversiones propias de su giro, los recursos disponibles que pueda
 
 Los estados financieros anuales de empresas filiales de instituciones financieras deberán ser auditados por la misma firma dé auditores externos que audita los estados financieros de su matriz.
 
-Las entidades sujetas a la fiscalización de esta Superintendencia entregarán dichos estados financieros y los publicarán de acuerdo con las instrucciones impartidas a esas sociedades filiales.
+La entidades sujetas a la fiscalización de esta Superintendencia entregarán dichos estados financieros a este Organismo de acuerdo con las instrucciones impartidas a esas sociedades filiales. Cuando se trate de sociedades que no estén sujetas a la fiscalización de esta Superintendencia, sus estados financieros serán entregados a este Organismo por la institución matriz, dentro del mismo plazo establecido para la entrega de sus propios estados financieros anuales.
 
-Cuando se trate de sociedades sujetas a la fiscalización de otra superintendencia, sus estados financieros serán entregados por la institución financiera matriz a esta Superintendencia de Bancos e Instituciones Financieras, dentro del mismo plazo establecido para la entrega de sus propios estados financieros anuales, y deberán ser publicados en el mismo periódico en que la matriz publique los suyos.
+La institución financiera matriz publicará sus estados financieros consolidados junto con los estados financieros de sus filiales, de la forma prevista en el Capítulo 18-1 de esta Recopilación.
 
 12.2.- Presentación de estados de situación trimestrales a esta Superintendencia.
 
@@ -21468,23 +21468,23 @@ En general, en todo aquello que no se encuentre regulado por esta Superintendenc
 
 Las instituciones financieras deberán enviar sus estados financieros a esta Superintendencia a lo menos diez días hábiles bancarios antes de su publicación y en todo caso a más tardar el último día hábil bancario del mes de enero.
 
-Para el efecto se enviarán tres ejemplares, debidamente firmados, con el respectivo dictamen de los auditores externos, incluyendo los estados financieros individuales y los consolidados, cuando corresponda.
+Para el efecto se enviarán dos ejemplares, debidamente firmados, con el respectivo informe de los auditores externos, de los estados financieros individuales y consolidados, cuando corresponda, como asimismo un ejemplar de los estados financieros de las filiales que se consoliden. Los mismos documentos se acompañarán en medios magnéticos, incluyendo los textos en formato Word o PDF.
 
 3.- Publicación de los estados financieros.
 
-3.1.- Publicación en el periódico.
+Las instituciones financieras publicarán en el periódico sus estados financieros consolidados e individuales, en forma conjunta con los estados financieros de sus subsidiarias, a más tardar el último día del mes de febrero.
 
-Las instituciones financieras deberán publicar sus estados financieros individuales y consolidados, en forma conjunta con los estados financieros de sus subsidiarias, a más tardar el último día del mes de febrero.
+Alternativamente, dicha publicación podrá realizarse en el sitio Web de la institución. La información que se incorpore en el sitio Web se mantendrá accesible para cualquier usuario que desee leerla o imprimirla, al menos hasta la publicación de los estados financieros del ejercicio siguiente.
 
-Al respecto, cabe hacer presente que, de conformidad con lo dispuesto en el N° 12 del artículo 49 de la Ley General de Bancos, las instituciones financieras no están obligadas a efectuar una nueva publicación de los estados financieros auditados en el plazo que señala la Ley de Sociedades Anónimas si lo hubieren hecho con anterioridad, debiendo en ese caso informar en los avisos de citación a Junta, el nombre del periódico y fecha en que lo publicaron.
+Las instituciones que opten por divulgar sus estados financieros completos sólo a través de su sitio Web, deberán publicar en el periódico el balance general y el estado de resultados, pudiendo excluir de esa publicación el estado de flujo de fondos, las notas explicativas y el informe de los auditores independientes, caso en que deberá incluirse una inserción cuyo texto aparece en el Anexo N° 3 de este Capítulo. El balance y el estado de resultados que se incluirán en esa publicación serán sólo los consolidados cuando la institución deba prepararlos. No se incluirán los estados de las subsidiarias, salvo el de aquellas filiales que estén obligadas a publicar sus propios estados financieros de acuerdo con las normas que las rigen.
 
-Las publicaciones en el periódico podrán efectuarse incluyendo sólo aquellas notas que para el efecto se señalan en el Anexo N° 3 de este Capítulo, a cuyas instrucciones deberán ceñirse las instituciones que se acojan a esta disposición.
+Al respecto, cabe hacer presente que, de conformidad con el N° 12 del artículo 49 de la Ley General de Bancos, las instituciones financieras no están obligadas a efectuar una nueva publicación en el periódico en el plazo que señala el artículo 76 de la Ley de Sociedades Anónimas si lo hubieren hecho con anterioridad, debiendo en ese caso informar en los avisos de citación a Junta, el nombre del periódico y fecha en que se efectuó la publicación.
 
-Dentro de los cuatro días hábiles bancarios siguientes a la publicación, las instituciones enviarán a esta Superintendencia dos ejemplares de la publicación o fotocopias de la misma. El mismo procedimiento se seguirá en el evento de que publique todo o parte de los estados financieros con posterioridad.
+En la memoria de la sociedad se incluirán todos los estados financieros que deben publicarse, según lo indicado en el primer párrafo de este número.
 
-3.2.- Memoria de la sociedad.
+Dentro de los cuatro días hábiles desde la publicación en el periódico, se enviarán a esta Superintendencia dos ejemplares de ella o fotocopias de la misma.
 
-Las instituciones financieras deberán enviar a esta Superintendencia tres ejemplares de la Memoria de la sociedad, a más tardar en la fecha del primer aviso de convocatoria a Junta Ordinaria de Accionistas.
+Por otra, parte, las instituciones financieras deberán enviar a esta Superintendencia tres ejemplares de la memoria de la sociedad, a más tardar en la fecha del primer aviso de convocatoria a junta ordinaria de accionistas.
 
 II.- ESTADOS FINANCIEROS INDIVIDUALES.
 
@@ -21804,77 +21804,45 @@ D) Incluye todos los activos y pasivos de las filiales que no tienen una integra
 
 ANEXO N°3
 
-PUBLICACIONES RESUMIDAS EN EL PERIODICO
+TEXTO DE INSERCION EN EL PERIODICO
 
-Para publicar en un periódico los estados financieros sin la totalidad de sus notas, las instituciones fiscalizadas deberán atenerse a lo siguiente:
+Para publicar en un periódico los estados financieros incluyendo solamente el balance general y el estado de resultados por haberse divulgado los estados financieros completos a través de un sitio Web, se incluirá la siguiente inserción a que se refiere el N° 3 del título I de este Capítulo:
 
-1.- Notas mínimas.
+INFORMACION PROPORCIONADA
 
-En la publicación deberán incluirse, al menos, las siguientes notas:
-
-a) "Principales criterios contables utilizados".
-
-b) "Cambios Contables".
-
-c) "Hechos relevantes".
-
-d) "Operaciones con partes relacionadas".
-
-e) "Inversiones en sociedades", cuando se incluya la participación en alguna filial.
-
-f) "Provisiones".
-
-g) "Patrimonio".
-
-h) "Operaciones con productos derivados".
-
-i) "Otros ingresos de operación"; "Otros Gastos de Operación"; "Ingresos no Operacionales" y "Gastos no Operacionales".
-
-j) Notas que hayan sido mencionadas en el dictamen de los auditores externos.
-
-2.- Numeración de las notas y leyenda sobre la información no publicada.
-
-Las notas no se renumerarán, debiendo mantenerse en el Balance General, en el Estado de Resultados y en el Estado de Flujo de Efectivo, la mención a la cantidad de notas que realmente componen el estado financiero auditado.
-
-Al final de las notas que se publican se incluirá, en forma destacada, la siguiente leyenda:
-
-.
-
-(1) Incluir el número y enunciado de cada nota omitida.
-
-(2) En caso de que se mantengan los estados financieros en páginas Web, podrá indicarse también el sitio para la consulta.
+Los estados financieros completos con sus respectivas notas y el correspondiente informe de los auditores independientes, se encuentran a disposición de los interesados en el sitio ...(dirección internet)..., pudiendo consultarse además en las oficinas de la institución.
 
 ANEXO N°4
 
 MODELO DE NOTA SOBRE CRITERIOS CONTABLES APLICADOS.
 
-NOTA Nº 1 - PRINCIPALES CRITERIOS CONTABLES UTILIZADOS.
+NOTA N°1 - PRINCIPALES CRITERIOS CONTABLES UTILIZADOS.
 
 a) Información proporcionada.
 
-Los presentes estados financieros han sido preparados de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras, las cuales concuerdan con principios contables generalmente aceptados. Las cifras correspondientes al ejercicio ...... se presentan actualizadas según la variación del Indice de Precios al Consumidor, en un....%.
+Los presentes estados financieros han sido preparados de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras, las cuales concuerdan con principios contables generalmente aceptados. Las cifras correspondientes al ejercicio ............. se presentan actualizadas según la variación del Indice de Precios al Consumidor, en un....%.
 
-b) Intereses y reajustes.
+b) Intereses v reajustes.
 
 Las colocaciones, inversiones y obligaciones se presentan con sus intereses y reajustes devengados hasta la fecha de cierre del ejercicio. Sin embargo, en el caso de las colocaciones vencidas y de las vigentes con alto riesgo de irrecuperabilidad se ha seguido el criterio prudencial de suspender el devengo de intereses y reajustes.
 
 c) Corrección monetaria.
 
-El capital propio financiero, el activo fijo y otros saldos no monetarios, se presentan actualizados de acuerdo con la variación del Indice de Precios al Consumidor (IPC). La aplicación de este mecanismo de ajuste significó un .../cargo/abono/ ...neto a resultados ascendente a $..............millones ($............. millones en ....).
+El capital propio financiero, el activo fijo y otros saldos no monetarios, se presentan actualizados de acuerdo con la variación del Indice de Precios al Consumidor (IPC). La aplicación de este mecanismo de ajuste significó un .../cargo/abono/...neto a resultados ascendente a $............millones ($.........millones en....).
 
 Las cuentas de resultado no se presentan corregidas monetariamente.
 
 d) Moneda extranjera.
 
-Los activos y pasivos en moneda extranjera se muestran a su valor equivalente en pesos, calculados al tipo de cambio de $........ por US$1 ($ ....... por US$ 1 en .....).
+Los activos y pasivos en moneda extranjera se muestran a su valor equivalente en pesos, calculados al tipo de cambio de $......por US$1 ($.......por US$ 1 en.......).
 
-El saldo de $.............. millones correspondiente a la ...utilidad/pérdida... de cambio neta que se muestra en el Estado de Resultados(... utilidad/pérdida de $ .......... millones en .....), incluye el reconocimiento de los efectos de la variación del tipo de cambio en los activos y pasivos en moneda extranjera .../y el resultado realizado por las operaciones de cambio del banco/....
+El saldo de $........... millones correspondiente a la ... utilidad/pérdida... de cambio neta que se muestra en el Estado de Resultados (... utilidad/pérdida de $ ............millones en.......), incluye el reconocimiento de los efectos de la variación del tipo de cambio en los activos y pasivos en moneda extranjera ../y el resultado realizado por las operaciones de cambio del banco/....
 
-e) Inversiones financieras.
+e) Inversiones Financieras.
 
-Las inversiones en instrumentos financieros con mercado secundario y vencimiento a más de un año, se presentan ajustadas a su valor de mercado de acuerdo con instrucciones específicas de la Superintendencia de Bancos e Instituciones Financieras. Dichas instrucciones exigen reconocer tales ajustes contra los resultados del ejercicio, salvo que se trate de cartera que tenga la cualidad de permanente, caso en que, sujeto a ciertos límites, se permite realizar tales ajustes directamente contra la cuenta patrimonial "Fluctuación de valores de inversiones financieras".
+Las inversiones en instrumentos financieros con mercado secundario se presentan ajustadas a su valor de mercado de acuerdo con instrucciones específicas de la Superintendencia de Bancos e Instituciones Financieras. Dichas instrucciones exigen reconocer tales ajustes contra los resultados del ejercicio, salvo que se trate de cartera que tenga la cualidad de permanente, caso en que, sujeto a ciertos límites, se permite realizar tales ajustes directamente contra la cuenta patrimonial "Fluctuación de valores de inversiones financieras".
 
-La aplicación de dicho ajuste significó un.../cargo/abono/...neto a los resultados del ejercicio ascendente a $..............millones ($..............millones en .....), monto que se incluye en los resultados operacionales correspondientes a la ..../"Utilidad por intermediación de documentos"/"Pérdida por intermediación de documentos"/ ..... El ajuste de la cartera permanente, por su parte, significó un ....cargo/abono .... neto contra patrimonio ascendente a $ ........... millones.
+La aplicación de dicho ajuste significó un.../cargo/abono/...neto a los resultados del ejercicio ascendente a $...........millones ($.........millones en .....), monto que se incluye en los resultados operacionales correspondientes a la ..../"Utilidad por intermediación de documentos"/Pérdida por intermediación de documentos"/.......El ajuste de la cartera permanente, por su parte, significó un ....cargo/abono . ... neto contra patrimonio ascendente a $....millones.
 
 Las demás inversiones correspondientes a instrumentos financieros se presentan al valor de adquisición, más sus reajustes e intereses devengados.
 
@@ -22262,39 +22230,15 @@ MATERIA:
 
 PUBLICACION DE ESTADOS DE SITUACION.
 
-1.- Disposiciones generales.
+De conformidad con lo dispuesto en el artículo 16 de la Ley General de Bancos, las entidades bancarias y las sociedades financieras deben publicar, en un periódico de circulación nacional, sus estados de situación referidos al 31 de marzo, 30 de junio y 30 de septiembre de cada año, o en cualquier otra fecha que esta Superintendencia lo exija en casos especiales.
 
-De conformidad con lo dispuesto en el artículo 16 de la Ley General de Bancos, los bancos y las sociedades financieras deben publicar, en un periódico de circulación nacional, sus estados de situación referidos al 31 de marzo, 30 de junio y 30 de septiembre de cada año, o en cualquier otra fecha que esta Superintendencia lo exija en casos especiales.
+Dicha publicación debe efectuarse dentro de la segunda quincena del mes siguiente a la fecha a que se refieran los respectivos estados.
 
-Estos estados de situación se prepararán y publicarán de acuerdo con las instrucciones del presente Capítulo, sin perjuicio de la incorporación de otros antecedentes adicionales que pudiera exigir este Organismo, según las circunstancias.
-
-2.- Publicaciones.
-
-Los estados de situación deben publicarse en un periódico de circulación nacional, dentro de la segunda quincena del mes siguiente a la fecha a que ellos se refieran.
+Sin perjuicio de la incorporación de otros antecedentes adicionales que pudiera exigir este Organismo, según las circunstancias, el estado de situación incluirá en cada oportunidad un balance y un estado de resultados comparativos con el mismo período del año anterior, según los modelos incluidos en el Anexo de este Capítulo.
 
 Una vez efectuada la publicación, las instituciones financieras deberán hacer llegar a este Organismo un ejemplar de ella, dentro del plazo de tres días hábiles contados desde la fecha de la publicación.
 
-Si los estados de situación contienen errores o no cumplen con las normas impartidas, este Organismo podrá exigir, entre otras medidas, una nueva publicación con información corregida, en la forma y plazo que disponga.
-
-3.- Contenido de los estados de situación.
-
-3.1.- Balance y estado de resultados.
-
-El balance y el estado de resultados se prepararán según el modelo e instrucciones incluidos en el Anexo Na1 de este Capítulo.
-
-3.2.- Notas.
-
-El Estado de Situación deberá acompañarse con las siguientes notas básicas: "Información proporcionada" y "Operaciones con partes relacionadas". La primera nota deberá contener la redacción indicada en el modelo del Anexo N° 1 de este Capítulo, en tanto que la segunda se preparará según lo establecido en el Capítulo 18-1.
-
-Deberán incluirse además, en caso de que corresponda, la nota sobre hechos relevantes y la nota sobre compras, ventas, sustituciones o canjes de la cartera de colocaciones, siguiendo para el efecto las instrucciones del Capítulo 18-1 de esta Recopilación, tanto en lo que se refiere al contenido como a las circunstancias que obligan a presentarlas.
-
-Al final de las notas debe indicarse el nombre y cargo del Gerente General y del Contador General o de quienes hagan sus veces y, a conveniencia de la institución, podrá agregarse la de otros ejecutivos.
-
-3.4.- Informe de auditores externos.
-
-En caso de que lo estimen conveniente, las instituciones financieras podrán publicar los estados de situación acompañados de un informe de sus auditores externos.
-
-ANEXO N°1
+ANEXO
 
 MODELOS DEL ESTADO DE SITUACION.
 
@@ -22304,39 +22248,15 @@ El balance deberá presentarse en un formato semejante al de los estados financi
 
 .
 
-En todo lo demás, las instituciones se ceñirán a las instrucciones para el Balance General, según el modelo incluido en el Anexo N° 1 del Capítulo 18-1 para la presentación de los estados financieros individuales.
+En todo lo demás, las instituciones se ceñirán a las instrucciones para el Balance General, según el modelo incluido en el Anexo N° 1 del Capítulo 18-1 para la presentación de los estados financieros consolidados. Las instituciones que no tengan filiales, adecuarán el formato y se basarán en el modelo de balance individual incluido en dicho Anexo.
 
 2.- ESTADO DE RESULTADOS.
 
-El estado de resultados deberá presentarse en un formato semejante al de los estados financieros anuales, pero cuyo encabezamiento será el siguiente:
+El estado de resultados deberá presentarse en un formato semejante al de los estados financieros anuales, con el siguiente encabezamiento:
 
-(Nombre institución financiera)
+.
 
-ESTADO DE RESULTADOS
-
-Por el periodo comprendido entre el 1° de enero
-
-y el.....de..........de.....
-
-$
-
-Millones
-
----------
-
-Salvo por el uso de cifras comparativas con el ejercicio anterior, en todo lo demás deberán seguirse las instrucciones para el Estado de Resultados, según el modelo incluido en el Anexo N e 1 del Capítulo 18-1
-
-3.- MODELO DE NOTA N° 1.
-
-NOTA N° 1 - INFORMACION PROPORCIONADA.
-
-El presente Estado de Situación ha sido preparado de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras
-
-Las cifras correspondientes al ejercicio se incluyen únicamente para efectos comparativos y se presentan actualizadas de acuerdo con la variación del IPC entre el 19 de diciembre de y el de de (*)
-
-Los resultados de las instituciones financieras, en el curso del resto del ejercicio, pueden variar en función del riesgo de la cartera, volumen de negocios, incrementos de capital, tasas de ínteres, tipo de cambio, IPC, etc Por lo tanto, los resultados correspondientes al periodo de meses del año tienen sólo el carácter de provisionales
-
-(*): Deberá indicarse la fecha correspondiente al último día del mes anterior al que se refiere el estado de situación, por tratarse del IPC desfasado.
+En todo lo demás deberán seguirse las instrucciones para el estado de resultados consolidado, según el modelo incluido en el Anexo N° 1 del Capítulo 18-1. Las instituciones que no tengan filiales, adecuarán el formato y se basarán en el modelo de estados financieros individuales incluido en dicho Anexo.
 
 CAPITULO 18-3 (Bancos y Financieras)
 
