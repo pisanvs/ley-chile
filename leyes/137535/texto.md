@@ -40,6 +40,8 @@ De la relijión
 
 La relijión de la República de Chile es la Católica, Apostólica, Romana; con exclusión del ejercicio público de cualquiera otra.
 
+> **Nota.** El Artículo 1° de la Ley S/N, promulgada el 27.07.1865, declara que se permite a los que no profesan la religión Católica, Apostólica, Romana, el culto que practiquen dentro del recinto de edificios de propiedad particular.
+
 ## Capítulo IV
 
 De los chilenos
