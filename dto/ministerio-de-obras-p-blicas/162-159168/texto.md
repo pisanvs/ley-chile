@@ -1,0 +1,3 @@
+Por decreto MOP Nº162, de 31 de enero de 2000, se dejó sin efecto la expropiación de los lotes de terreno Nºs. 1 y 2, aprobada por decreto MOP Nº2.116, de 30 de octubre de 1998, que figuran a nombre de Alvaro Márquez Díaz, rol de avalúo 9031-22, comuna de San Antonio, superficies 481,14 m², para la obra Alcantarillado sector San Juan Lo Gallardo Planta Elevadora y Planta de Tratamiento Lo Gallardo, sector Lo Gallardo.
+
+Fiscal del Ministerio de Obras Públicas.
