@@ -1,0 +1,3 @@
+Por resolución Nº385, de 18 de marzo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº95103030, presentada por GUILLERMO NEUN CALBU-YAHUE, para operar un centro de cultivo en Punta Couquencura, Isla Quinchao, comuna de Quinchao, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14 del D.S. Nº290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 18 de marzo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
