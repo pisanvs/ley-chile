@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.582, de fecha 29 de septiembre de 2000, se dejó sin efecto el decreto MOP Nº 1.740, de 28 de abril de 2000 y se expropió el lote de terreno Nº 1, superficie 680 M2, rol de avalúo 56-593, comuna de San Gregorio Ñiquén, para la obra "Camino Buli-Ñiquén, Sector Puente Espinal, tramo Km. 0.140,29 al 0.258,00" y se acordó el valor de indemnización con su propietario Nicolás Díaz Orellana, ascendente a la cantidad de $905.351.-
+
+Fiscal del Ministerio de Obras Públicas.
