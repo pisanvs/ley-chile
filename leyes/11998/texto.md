@@ -1,0 +1,1 @@
+Suplementa en las cantidades que indica los ítem que señala del Presupuesto de Gastos de la Nación para el año 1955, aprobado por ley 11.768, de 5 de enero de 1955; traspasa las cantidades que expresa y modifica las glosas de diversos ítem del mismo Presupuesto.
