@@ -1,0 +1,3 @@
+Por Resolución Nº 837 de 19 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resoluciones Nº 1060, de 1991, y Nº 1469, de 1995, ambas de esta Subsecretaría, que autorizaron a CLAUDIO ADRIAN CORNIDE GREZ, para operar un centro de cultivo ubicado en Punta Negro, Comuna de Caldera, Provincia de Copiapó, III Región, por haberse dejado sin efecto la respectiva Resolución de concesión de acuicultura.
+
+Valparaíso, 19 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
