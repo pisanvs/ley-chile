@@ -1,0 +1,3 @@
+Por resolución Nº 1.554, de 12 de agosto de 1999, de esta Subsecretaría, déjase sin efecto la resolución Nº 502, de 1990, de esta Subsecretaría, que autorizó al SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES, ALGUEROS QUENUIR BAJO, para instalar y operar el centro de cultivo ubicado en Río Quenuir, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 12 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
