@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.234, de 30 de octubre de 1998, se expropiaron los lotes de terreno Nºs. 13 y 15, superficies 2.079 m² y 1.319 m², rol de avalúo 4505-155, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, sector Ruta 5 Sur - Departamental y sector Eje General Velásquez y se acordó el valor de indemnización con sus propietarios Matrices Plásticos y Metales Jaque S.A. e Inversiones Valladolid S.A., ascendente a las cantidades de $69.361.040.- y $58.784.478.-
+
+Fiscal del Ministerio de Obras Públicas.
