@@ -1,0 +1,7 @@
+Por resolución No. 250, de 11 de Marzo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorizase a PESQUERA SAN JOSE DE COQUIMBO, R.U.T. No. 96.515.540-6, domiciliado en la ciudad de Coquimbo, calle Playa Blanco s/n, para ampliar actividades que tienen autorizadas por Resolución No. 903, de 1987, de esta Subsecretaría, donde podrá incorporar en la línea de proceso que se indica de la planta autorizada por la Resolución citada precedentemente, ubicada en Coquimbo, los siguientes recursos hidrobiológicos: Ahumada: Agujilla, Anchoa o Anchoveta, Atún aleta amarilla, Atún aleta larga, Bacaloa de profundidad o mero, Barrilete, Bonito, Caballa, Cabinza, Cojinoba del Norte, Congrio o colorado, Congrio dorado, Congrio Negro, Jurel, Machuelo o tritre, Merluza común, Pejerrey de mar, Sardina, Sierra. Congelado, conserva, deshidratado: Calamar, Jibia.
+
+Deniégase la autorización para procesar en la línea de harina de pescado los recursos hidrobiológicos denominados calamar y jibia, en conformidad a lo prescrito en el Decreto No. 316, de 1985, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 11 de Marzo de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
