@@ -1,0 +1,3 @@
+Por Resolución N° 1.028, de 14 de agosto de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ALGAS MULTIEXPORT S.A., R.U.T. N° 96.518.040-0, para ampliar actividades pesqueras en orden a instalar y operar una planta ubicada en Obispito Km. 920, Caldera, donde podrá procesar, en las líneas de elaboración de Secado natural y Molienda de algas, los recursos Chascón Lessonia nigrescens, Huiro Macrocystis spp. y Palo palo Lessonia trabeculata.
+
+Valparaíso, 14 de agosto de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
