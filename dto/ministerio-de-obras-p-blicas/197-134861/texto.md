@@ -1,0 +1,3 @@
+Por decreto MOP Nº 197, de 29 de enero de 1999, se expropió el lote de terreno Nº 92-A, superficie 2.557 m², rol de avalúo 851-22, comuna de Bulnes, para la obra Concesión Internacional Ruta 5, Tramo Chillán-Collipulli, Sector 1, VIII Región y se acordó el valor de indemnización con su propietario Oscar González Marchant, ascendente a la cantidad de $4.089.797.-
+
+Fiscal del Ministerio de Obras Públicas.
