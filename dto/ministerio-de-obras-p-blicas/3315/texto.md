@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.315, de 29 de octubre de 1999, se dejó sin efecto el decreto MOP Nº 1.506, de 31 de mayo de 1999, en la parte que se refiere a los lotes Nºs. 19, 20, 21, 23, 27, 28, 29, 30, 32, 33, 34, 35, 36 y 37, roles de avalúo Nºs. 189-99, 189-1, 189-2, 189-38 en trámite, 189-36, 189-8, 189-9, 189-10, 189-11, 189-12, 189-13, 189-14 y 189-15, de la comuna de Linares, para la ejecución de la obra Estudio de Ingeniería Mejoramiento Acceso a Linares Av. León Bustos.-
+
+Fiscal del Ministerio de Obras Públicas.
