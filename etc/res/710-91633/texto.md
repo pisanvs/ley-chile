@@ -1,0 +1,3 @@
+Por Resolución SENDOS No. 710 de 23 de Octubre de 1989, se expropió el lote No. 1 de los terrenos para la obra A.P. de Constitución-Estanque Cerro Centinela, de 2.489,70 m2. de superficie, rol de avalúo 540-1, Comuna de Constitución y se acordó el monto de la indemnización con sus propietarios don Jorge Blum Chávez y doña Mónica Pardo Blum, ascendente a $ 522.837.
+
+Director Nacional de Obras Sanitarias.
