@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.068, de 31 de julio del 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 58, para la obra Camino Ruta K-16, sector Santa Emilia-Villa Prat Tramo Kms. 26,200 al 37,786.72, que figuran a nombre de Elías Valenzuela, rol de avalúo en trámite, comuna de Sagrada Familia, superficie 87 m². La Comisión de Peritos, fijó con fecha 12 de mayo de 1999, en la cantidad de $53.180. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
