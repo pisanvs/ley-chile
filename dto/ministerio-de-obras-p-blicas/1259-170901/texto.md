@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.259, de 31 de marzo de 2000, se expropió el lote de terreno Nº493, superficie 128 m2., rol de avalúo 1.463-25, comuna de Puente Alto, para la obra Concesión Internacional Ruta 5; Tramo: Santiago - Talca. Sector A: Acceso sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Ernesto Villagra Farías, ascendente a la cantidad de $13.467.285.-
+
+Fiscal del Ministerio de Obras Públicas.
