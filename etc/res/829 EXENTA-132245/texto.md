@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 829 de fecha 13 de Mayo de 1988, rectificó Resolución Exenta No. 871 de 25 de Junio de 1987 que aprobó Estudio Técnico de Distribución de Derechos de Aprovechamiento de Aguas del predio "Hijuela Segunda del Fundo El Tambo" y del Proyecto de Parcelación "Libertad de Malloa", de la comuna de Malloa, VI Región, en el sentido de dejar constancia que los derechos del sector excluido del predio "Hijuela Segunda del Fundo El Tambo" en las aguas sobrantes del Estero Antivero que deja pasar la Toma San Rafael, son el 60 % de dicho curso y no la totalidad de las aguas como se señala en la Resolución que se modifica. Publicación hecha conforme art. 13, ley 18.377.
+
+- Director Ejecutivo (S).
