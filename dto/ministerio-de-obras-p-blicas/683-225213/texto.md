@@ -1,0 +1,3 @@
+Por Decretos M.O.P. N° 682 y N° 683, ambos de fecha 30 de agosto de 1996, se expropiaron los lotes de terreno N°s. 3-B, 6 y 7, superficies 2.912, 3.988 y 5.516 M2., respectivamente, roles de avalúos 761-41, 761-4 y 761-20, comuna de Renca, para la obra Estudio de Ingeniería Habilitación Segunda Calzada Avda. Américo Vespucio, sector Carretera Panamericana Norte Ruta 72 y se acordó precio de indemnización con sus propietarios Litografía Marinetti S.A. e Inversiones Campanario S.A. e Inversiones Bellavista S.A., ascendente a las cantidades de $ 153.795.360 y $ 501.621.120.
+
+Fiscal del Ministerio de Obras Públicas.
