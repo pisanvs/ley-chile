@@ -828,13 +828,13 @@ La Corte Suprema
 
 #### Artículo 93
 
-La Corte Suprema se compondrá de trece miembros, uno de los cuales será su Presidente.
+La Corte Suprema se compondrá de dieciséis miembros, uno de los cuales será su Presidente.
 
 El Presidente será nombrado por la misma Corte, de entre sus miembros, y durará en sus funciones cinco años, pudiendo ser reelegido.
 
 Los demás miembros se llamarán ministros y gozarán de precedencia los unos respecto de los otros por el orden de su antigüedad.
 
-La Corte Suprema tendrá un fiscal, un secretario, un prosecretario y tres relatores.
+La Corte Suprema tendrá un fiscal, un secretario, un prosecretario y cinco relatores.
 
 #### Artículo 94
 
@@ -842,13 +842,13 @@ La Corte Suprema tendrá su sede en la capital de la República.
 
 #### Artículo 95
 
-La Corte Suprema funcionará ordinariamente dividida en dos salas o en pleno, correspondiendo a la propia Corte determinar la forma de su funcionamiento.
+La Corte Suprema funcionará ordinariamente dividida en tres salas o en pleno, correspondiendo a la propia Corte determinar la forma de su funcionamiento.
 
-La distribución de los Ministros entre las dos Salas se hará por sorteo, exceptuando al Presidente, de modo que a cada una correspondan seis. El sorteo se hará el 1.o de Marzo de cada año.
+La distribución de los Ministros entre las tres salas se hará por sorteo, exceptuando al Presidente, de modo que a cada una correspondan cinco. El sorteo se hará el 1° de marzo de cada año.
 
-Las Salas funcionarán con no menos de cinco jueces cada una y el Pleno con la concurrencia de nueve de sus miembros a lo menos, y se integrarán en conformidad a la ley; pero para el Presidente de la Corte esta integración será facultada.
+Las salas funcionarán con no menos de cinco jueces cada una, y el pleno, con la concurrencia de once de sus miembros a lo menos, y se integrarán en conformidad a la ley; pero para el Presidente de la Corte esta integración será facultativa.
 
-Cada Sala en que se divida la Corte Suprema será presidida por el Ministro más antiguo, cuando no esté presente el Presidente de la Corte, quien podrá funcionar en cualquiera de las Salas.
+Cada sala en que se divida la Corte Suprema será presidida por el ministro más antiguo, cuando no esté presente el Presidente de la Corte, quien podrá funcionar en cualquiera de las salas.
 
 #### Artículo 96
 
@@ -892,9 +892,9 @@ Las salas de la Corte Suprema conocerán:
 
 #### Artículo 99
 
-Las Salas de la Corte Suprema conocerán por turnos mensuales: una, de los recursos de casación en el fondo y en la forma que se hayan interpuesto en materia civil, y la otra, de los demás asuntos indicados en el artículo 98, con excepción de los recursos de queja de los que conocerá cualquiera de las salas.
+Las salas de la Corte Suprema conocerán por turnos mensuales: una, de todos los asuntos indicados en el artículo 98; otra, de los mismos negocios, con excepción de los recursos de casación en el fondo y en la forma que se hayan interpuesto en materia civil; y la otra, de los recursos de casación en el fondo y en la forma que se hubieren interpuesto en materia civil. De los recursos de queja conocerá cualquiera de las salas.
 
-No obstante, cuando el número y naturaleza de las causas que se encuentren pendientes lo requiera, el Presidente de la Corte Suprema podrá incluir en la tabla de ambas Salas causas de naturaleza tanto civil como criminal.
+No obstante, cuando el número y naturaleza de las causas que se encuentren pendientes lo requiera, el Presidente de la Corte Suprema podrá incluir en la tabla de cualquiera de las salas causas de naturaleza tanto civil como criminal.
 
 #### Artículo 100
 
@@ -902,15 +902,13 @@ Derogado.
 
 #### Artículo 101
 
-La Corte Suprema podrá dividirse extraordinariamente en tres Salas de cinco jueces cada una, cuando el Presidente así lo determine, para conocer de los negocios a que se refiere el artículo 98.
+La Corte Suprema, integrada por su fiscal o abogados integrantes, podrá dividirse extraordinariamente en cuatro salas de cinco miembros cada una, cuando el presidente así lo determine, para conocer de los negocios a que se refiere el artículo 98.
 
-La distribución de los Ministros de la Corte Suprema entre estas tres Salas se efectuará por sorteo, de modo que a cada una correspondan cuatro miembros.
+La distribución de los Ministros de la Corte Suprema entre estas cuatro salas se efectuará por sorteo, de modo que a las tres primeras correspondan cuatro miembros, y a la cuarta, tres. La integración de sala para el Presidente de la Corte será facultativa.
 
-Estas Salas se integrarán en conformidad a la ley; pero, para el Presidente de la Corte, esta integración será facultativa.
+Producida la división en cuatro salas, corresponderá, por turnos mensuales, conocer, a dos de ellas, de todas las materias a que se refiere el artículo 98, a otra, de los asuntos a que se refiere el mismo artículo, con excepción de los recursos de casación en el fondo y en la forma de naturaleza civil; y a la otra, indistintamente, de los recursos de casación en la forma y en el fondo de naturaleza civil o criminal. A las cuatro les corresponderá conocer de los recursos de queja de cualquier naturaleza. El Tribunal, en este caso, propondrá un sexto relator.
 
-Producida la división en tres Salas, corresponderá por turnos mensuales a una de ellas conocer de los recursos de casación en la forma y en el fondo en materia civil, a otra, conocer de los demás asuntos indicados en el artículo 98 y a la otra, conocer, indistintamente, de los recursos de casación en la forma y en el fondo de naturaleza civil o criminal, como asimismo de las demás materias a que se refiere el artículo 98. A las tres les corresponderá conocer de los recursos de queja de cualquiera naturaleza.
-
-El Tribunal, en este caso, propondrá un cuarto relator.
+No obstante, cuando el número y naturaleza de las causas que se encuentren pendientes lo requiera, el Presidente podrá disponer que dos de las salas conozcan exclusivamente de los recursos de casación en la forma y en el fondo, y en tal caso, las dos salas restantes conocerán, una de todas las materias a que se refiere el artículo 98, con excepción de los recursos de casación en el fondo y en la forma de naturaleza criminal, y la otra de los asuntos a que se refiere el mismo artículo, con excepción de los recursos de casación en el fondo y en la forma de naturaleza civil.
 
 #### Artículo 102
 
@@ -1362,7 +1360,7 @@ En los departamentos en donde hubiere más de un juez de letras, se dividirá el
 
 El turno se ejercerá por semanas. Comenzará a desempeñarlo el juez más antiguo, y seguirán desempeñándolo todos los demás por el orden de su antigüedad.
 
-En materia criminal este turno comenzará a las 24 horas del día sábado de cada semana.
+En materia criminal este turno comenzará a las 24 horas del día domingo de cada semana.
 
 Cada juez de letras deberá conocer de todos los asuntos judiciales que se promuevan durante su turno, y seguirá conociendo de ellos hasta su conclusión.
 
@@ -1552,7 +1550,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 422 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 314 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 638 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 476 pesos.
 
 #### Artículo 199
 
@@ -1694,13 +1692,13 @@ Las Salas de la Corte Suprema no podrán funcionar con mayoría de abogados inte
 
 #### Artículo 219
 
-Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema, diez para la Corte de Apelaciones de Santiago, cinco para las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción y tres para cada una de las demás Cortes de Apelaciones, previa formación por la Corte Suprema, de ternas.
+Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema, quince para la Corte de Apelaciones de Santiago, cinco para las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción y tres para cada una de las demás Cortes de Apelaciones, previa formación por la Corte Suprema, de ternas.
 
 La designación de abogados integrantes de las Cortes de Apelaciones se hará en el mes de Enero de cada año. Los abogados designados para la Corte Suprema lo serán por un período de tres años, efectuándose el nombramiento en el mes de Enero en que comienza el trienio respectivo.
 
 Las ternas para abogados integrantes de las Cortes de Apelaciones serán formadas tomando los nombres de una lista que, en el mes de Diciembre de cada año, enviarán a la Corte Suprema las respectivas Cortes de Apelaciones. En esta lista deberán figurar abogados que tengan su residencia en la ciudad que sirve de asiento al tribunal respectivo, que reúnan las condiciones requeridas para ejercer los cargos de ministros, con excepción del límite de edad establecido en el artículo 77 de la Constitución Política de la República de Chile, y que hayan destacado en la actividad profesional o universitaria.
 
-Estas listas se compondrán, para Santiago, de cuarenta nombres; para Valparaíso, Presidente Aguirre Cerda y Concepción, de veinticinco, y de quince para las demás Cortes.
+Estas listas se compondrán, para Santiago, de sesenta nombres; para Valparaíso, Presidente Aguirre Cerda y Concepción, de veinticinco, y de quince para las demás Cortes.
 
 Las ternas para abogados integrantes de la Corte Suprema serán formadas tomando los nombres de una lista que, en el mes de Diciembre en que termina el trienio respectivo, el Senado enviará a dicha Corte. En esta lista deberán figurar cuarenta y cinco abogados con residencia en la ciudad de Santiago, que reúnan las condiciones requeridas para ejercer los cargos de ministros, con excepción del límite de edad establecido en el artículo 77 de la Constitución Política de la República de Chile, y que hayan destacado en la actividad profesional o universitaria.
 
@@ -2148,7 +2146,7 @@ Incisos suprimidos.
 
 Para los efectos del artículo anterior, las Cortes de Apelaciones se reunirán, a contar desde el 1º de Diciembre de cada año, en audiencias secretas, que se llevarán a cabo dentro de las dos primeras horas fijadas para el funcionamiento diario del tribunal.
 
-Los acuerdos se tomarán por las Cortes reunidas en Pleno, con el voto conforme de la mayoría absoluta de los Ministros que asistan a la audiencia y se aplicarán las reglas contenidas en el Párrafo 2 del Título V, en lo que fueren compatibles. Las votaciones tendrán el carácter de secretas.
+Los acuerdos se tomarán por las Cortes reunidas en Pleno, con el voto conforme de la mayoría absoluta de los Ministros que asistan a la audiencia y se aplicarán las reglas contenidas en el Párrafo 2 del Título V, en lo que fueren compatibles.
 
 De los acuerdos se dejará constancia en un libro especial, que se mantendrá reservado.
 
@@ -2350,7 +2348,7 @@ Las ternas para proveer alguno de los cargos de la segunda o tercera serie del E
 
 a) Con los funcionarios con título de abogado de la misma serie; y
 
-b) Con los abogados oponentes y con los funcionarios sin título de abogado de la misma serie del cargo que se trata de proveer, siempre que tengan más de diez años en el ejercicio del cargo. Podrán, también, figurar en estas ternas los empleados subalternos del Poder Judicial que pertenezcan a una de las cuatro primeras categorías del respectivo escalafón y que hayan figurado en ellas el mismo tiempo antes expresado.
+b) Con los abogados oponentes y con los funcionarios sin título de abogado de la misma serie del cargo que se trata de proveer, siempre que tengan más de dos años de permanencia en la categoría inmediatamente inferior, para los que pretendan ascender una categoría; y más de diez años para aquellos que opten a un cargo superior en dos o más categorías. Podrán también figurar en estas ternas los empleados del Poder Judicial a que se refiere el artículo 292, que pertenezcan a una de las cuatro primeras categorías del respectivo escalafón y que hayan figurado en ellas más de diez años.
 
 #### Artículo 290
 
@@ -3976,11 +3974,17 @@ Sólo podrán efectuarse reparaciones en inmuebles de propiedad particular cuand
 
 3.o- Reparación y mantenimiento de los automóviles fiscales del Poder Judicial, como asimismo, de los servicios de calefacción, agua, luz, gas y ascensores;
 
-4.o- Organización de cursos conferencias destinados al perfeccionamiento del personal judicial, y
+4.o- Organización de cursos conferencias destinados al perfeccionamiento del personal judicial;
 
 5.o- Adquisición de inmuebles y construcción de edificios para el funcionamiento de los Tribunales o casa-habitación de los Jueces de Letras. Estas propiedades sólo podrán ser habitadas por los jueces mientras se desempeñen en la respectiva ciudad, quienes, además, deberán pagar a la Junta de Servicios Judiciales la renta legal de arrendamiento que formará parte de los recursos ordinarios de este organismo.
 
-Sin embargo, para efectuar las adquisiciones y construcciones a que se refiere el número precedente, la Junta requerirá, en cada caso, la autorización del Presidente de la República.
+Sin embargo, para efectuar las adquisiciones y construcciones a que se refiere el presente número, la Junta requerirá, en cada caso, la autorización del Presidente de la República, y
+
+6.o- Creación, implementación y mantención de salas cunas en aquellos lugares en que sean necesarias en conformidad a la ley, para los hijos del personal del Poder Judicial.
+
+Para estos efectos, la Junta de Servicios Judiciales podrá contratar el personal que se requiera.
+
+Podrá, asimismo, destinar los fondos que sean necesarios, de sus recursos propios, para solventar los gastos de atención y locomoción de los hijos de dicho personal judicial, en salas cunas externas, que cuenten con la autorización de la Junta Nacional de Jardines Infantiles.
 
 La Junta podrá poner o disposición de los Tribunales las sumas necesarias para el cumplimiento de los fines previstos en este artículo, los cuales deberán rendir, ante ella, cuenta detallada de la inversión de estos fondos.
 
