@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº313 de fecha 28 de marzo de 2002, se expropiaron los lotes de terreno Nos 31 y 31-A, superficie 1.503 y 182 m² respectivamente, Rol de Avalúo Nº32-21, comuna de Litueche, para la obra "Proyecto Mejoramiento Ruta I-20, Sector Los Maitenes - La Estrella - Las Damas, Km. 20,500 al Km. 27,715317" y se acordó el valor de indemnización con su propietario Juan Antonio Gálvez Oyarzún, ascendente a la cantidad de $1.436.430.-
+
+Fiscal del Ministerio de Obras Públicas.
