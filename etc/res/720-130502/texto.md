@@ -1,0 +1,5 @@
+AUTORIZA A EMPRESA PESQUERA EPERVA S.A. PARA SUSTITUIR EMBARCACION QUE INDICA
+
+Por resolución No. 720 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Empresa Pesquera Eperva S.A., domiciliada en calle Huérfanos No. 863, 3° piso, Santiago, para sustituir en el litoral de la I y II Región, la embarcación denominada "Eperva 55", autorizada por resolución No. 393, de 1983, de esta Subsecretaría, por la embarcación denominada "Eperva 60", podrá extraer en el litoral de la I y II Región los siguientes recursos: Sardina española, anchoa, caballa, jurel. A partir de la fecha de inicio de operación de la embarcación "Eperva 60", quedará sin efecto la resolución No. 393, de 1983, de esta Subsecretaría, que autorizó a operar la nave "Eperva 55". La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 13 de Julio de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
