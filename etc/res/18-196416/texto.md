@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº18, del Ministerio de Economía, Fomento y Reconstrucción, de fecha 15 de febrero de 2002, se aprobó la disolución de la Cooperativa de Vivienda y Servicios Habitacionales Jardines de Bahía Limitada, que consta en la escritura pública suscrita con fecha 19 de octubre de 2001, ante al Notario Público de Valparaíso, doña Sonia Ravanal Toro.
+
+Por orden del Sr. Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
