@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.327, de 28 de septiembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron el lote de terreno Nº 1, para la ejecución de la obra "Camino Cobquecura - Colmuyao - Mela, Sector Puente Nogueche, Km. 0,00000 a Km. 0,20800" y los lotes 1 y 3, para la ejecución de la obra "Camino Cruce N-50 - Coipín, Sector Puente Coipín Km. 0,00000 a Km.
+
+0,208000", que figuran a nombre de Soc. Forestal Millalemu S.A., José Agustín Flores Flores y Ramón de la Rosa Parra Fuentes, Rol de Avalúo 208-87, 130-42 y 130-61, comuna de Cobquecura, lote 1 y San Nicolás Lotes 1 y 3, VIII Región, superficies 70, 135 y 310 m2. La comisión de peritos fijó con fecha 3 de julio de 2000, el valor provisional de la indemnización en la cantidad de $56.000, lote 1; $121.500, lote 1 y $774.100, lote 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
