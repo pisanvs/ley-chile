@@ -1,0 +1,7 @@
+EXTRACTO DE DECRETO Nº 4 EXENTO, DE 1999
+
+Por decreto exento Nº 4 de fecha 14 de enero de 1999 del Ministerio de Educación, se revocó el reconocimiento oficial del Centro de Formación Técnica Instituto de Idiomas de la Octava Región, organizado por la Sociedad Instituto de Idiomas de la Octava Región Limitada o INID. Limitada y se eliminó a dicho Centro del Registro correspondiente en que se encuentra inscrito con el Nº 53.
+
+Por este mismo cuerpo legal se derogó el decreto exento Nº 156 del 10 de septiembre de 1982 modificado por decreto exento Nº 197 del 15 de noviembre de 1983 y modificado por decreto exento Nº 466 del 10 de octubre de 1994, que autorizó el funcionamiento del Centro de Formación Técnica Instituto de Idiomas de la Octava Región y resoluciones exentas de Educación Nº 2.574 del 3 de noviembre de 1982, Nº 764 del 12 de abril de 1983, Nº 2.707 del 24 de septiembre de 1985, Nº 248 del 23 de enero de 1986, Nº 1.132 del 12 de mayo de 1986, Nº 1.593 del 20 de julio de 1987 y los decretos exentos de Educación Nº 413 del 28 de diciembre de 1990 y Nº 25 del 22 de enero de 1996, que aprobaron planes y programas de estudios de las carreras técnicas para el Centro de Formación Técnica mencionado.
+
+Santiago, 23 de febrero de 1999.- Juan Eduardo García-Huidobro Saavedra, Subsecretario de Educación (S).
