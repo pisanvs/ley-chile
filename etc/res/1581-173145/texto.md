@@ -1,0 +1,3 @@
+Por resolución Nº1.581, de 17 de julio de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura presentada por CENTROS MARINOS S.A., para instalar y operar el centro de cultivo ubicado en Estero Yaldad, comuna de Quellón, provincia de Chiloé, X Región, según lo dispuesto en el artículo 78, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
