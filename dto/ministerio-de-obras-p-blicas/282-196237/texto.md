@@ -1,0 +1,5 @@
+Por decreto MOP Nº 282, de 18 de febrero de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron para la Empresa de Servicios Sanitarios de Coquimbo S.A., los lotes de terreno Nºs 6, 6- A, 7 y 20, para la obra "Agua Potable Parcela 334", Provincia de Elqui, IV Región, que figuran a nombre de Suc. Poblete Olivares Martha Ad, rol de avalúo 966-020, superficie 243 m2., 89 m2., 274 m2. y 536 m2., comuna de La Serena. La Comisión de Peritos, con fecha 15 de diciembre de 2001, fijó la indemnización provisional en las cantidades de $2.430.000, lote 6;
+
+$890.000, lote 6-A; $2.740.000, lote y $5.360.000, lote 20, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
