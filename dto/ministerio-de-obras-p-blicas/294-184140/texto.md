@@ -1,0 +1,3 @@
+Por decreto MOP Nº 294, de fecha 28 de febrero del 2001, se expropiaron los lotes de terreno Nºs. 52-B, 53-A y 53-B, superficie 650, 1.170 y 550 m², rol de avalúo 209-56, comuna de Panguipulli, para la obra "Camino CH-203, Sector Bifurcación Coñaripe Choshuenco, (Accesos a Puentes) Tramo Km. 56,68000 a Km. 93,28612" y se acordó el valor de indemnización con su propietario Río Niltre S.A., ascendente a la cantidad de $16.314.128.-
+
+Fiscal del Ministerio de Obras Públicas.
