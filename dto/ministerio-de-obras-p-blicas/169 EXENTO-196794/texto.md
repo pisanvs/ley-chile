@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 169, de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 3, superficie 78 m², rol de avalúo 140-83, comuna de Sagrada Familia, VII Región, para la obra "Camino Cruce Longitudinal (Lontué) - Curepto, Sector San Juan - Santa Emilia, Km. 22.373,75 al 25.198,75" y se acordó el valor de indemnización con su propietario don Leonidas Cavieres Pérez, ascendente a la cantidad de $336.062.-
+
+Fiscal del Ministerio de Obras Públicas.
