@@ -1,0 +1,1 @@
+Modifica el inciso 1° del artículo 56° del decreto 3.154, de 23 de julio de 1947, de Hacienda, que fijó el texto definitivo de la Ley General de Bancos; substituye el artículo 3° transitorio del decreto con fuerza de ley 126, de 12 de junio de 1953, que creó el Banco del Estado de Chile.
