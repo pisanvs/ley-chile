@@ -1,0 +1,3 @@
+Por decreto MOP Nº199, de fecha 30 de noviembre de 2000, se expropiaron los lotes de terreno Nºs. 6 y 7, superficies 7.754 m² y 5.413 m², respectivamente, rol de avalúo 49-12, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Puente La Puntilla - Lonquimay, Km. 106,69041 al Km. 119,30000" y se acordó el valor de indemnización con su propietario Rogelio Fernando Moraga Lema, ascendente a la cantidad de $2.468.071.-
+
+Fiscal del Ministerio de Obras Públicas.
