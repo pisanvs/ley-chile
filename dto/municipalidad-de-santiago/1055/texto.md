@@ -1,0 +1,3 @@
+Por Decreto Alcaldicio Secc. 2da. Nº 1.055, Alcalde de I. Municipalidad de Santiago dispone derogación del Decreto Secc. 2da. 752 de 14.08.89, que ordenó expropiar parcialmente inmueble ubicado Mac Iver esq. calle Merced, Santiago. Procédase desistimiento procedimiento judicial iniciado ante 2do. Juzgado Civil Santiago, Rol No. 527-89 caratulados "I. Municipalidad de Santiago con Inversiones Acadian y Otra".
+
+Máximo Honorato A. Alcalde Santiago.
