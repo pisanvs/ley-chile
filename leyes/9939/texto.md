@@ -1,0 +1,1 @@
+Prorroga hasta la fecha que indica el plazo fijado en el artículo 3.° de la ley 8.412, de 9 de febrero de 1946, que concedió franquicias tributarias a los propietarios de los inmuebles ubicados en el sector que indica de la Avenida Doce de Febrero, de la comuna de Santiago.
