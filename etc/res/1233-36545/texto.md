@@ -1,0 +1,3 @@
+Por Resolución N° 1.233, de 2 de julio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por ROBERTO CHRISTIAN HAYDEN NAVARRETE, para un centro de cultivo ubicado en Estero Bonito, Punta San Francisco, Isla Llancahue, Comuna de Hualaihue, Provincia de Palena, X Región, conforme lo dispuesto en los artículos 78°, 87° y 88°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 2 de julio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
