@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.070, de 20 de octubre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs. 1 y 3 para la obra: Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Km. 29.014,00 al Km.
+
+42.800,00, Región Metropolitana, que figuran a nombre de Villarroel Garrido Rebeca y Otro, rol de avalúo 452-29, comuna de Buin, superficies 410 m² y 5.879 m², respectivamente. La Comisión de Peritos integrada por los señores Inés Elena Otárola Castillo, Juan Alfredo Díaz Velasco y Marlen Teresa Ríos Marcuello, fijó con fecha 2 de julio de 1999 el valor provisional de la indemnización en las cantidades de $3.754.500.- para el lote Nº 1 y de $53.234.200.- para el lote Nº 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
