@@ -1,0 +1,3 @@
+Por resolución No. 685, de 25 de Julio de 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2186 de 1978, parte inmueble ubicado en calle Nataniel Cox No. 541, presunto rol avalúos 641-12 comuna Santiago, aparentemente dominio de doña Carmen Jaure Aguilar. Comisión integrada por peritos Sres; Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos y Walter Soto Silva, ingeniero civil, según informe de 24 de Noviembre de 1988, fijó monto provisional indemnización en $ 1.953.245, pagadera al contado.
+
+Director SERVIU Metropolitano.
