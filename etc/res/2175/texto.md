@@ -1,0 +1,5 @@
+Por Resolución Nº 2.175, de 27 de diciembre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por COMPAÑIA PESQUERA SAN BERNARDO S.A., para ampliación de suspensión de actividades pesqueras extractivas correspondiente a la Resolución Nº 1.129 de 1994, de esta Subsecretaría, con la nave "Santa Carmen", en virtud que la solicitante ya ejerció el beneficio que entrega el artículo 143 letra b) de la Ley General de Pesca y Acuicultura. Declárase la caducidad, conforme al artículo 143 letra b) de la Ley Nº 18.892 de la Resolución Nº 1.129, de 1994, de esta Subsecretaría, que autorizó a la sociedad ya individualizada, Compañía Pesquera San Bernardo S.A. para operar la nave "Santa Carmen".
+
+Valparaíso, 27 de diciembre de 1996.-
+
+Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
