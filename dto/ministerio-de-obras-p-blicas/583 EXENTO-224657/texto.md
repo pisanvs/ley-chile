@@ -1,0 +1,5 @@
+Por decreto MOP exento N° 583, de 31 de marzo de 2004, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley N° 15.840, se expropiaron los lotes de terreno Nos 68, 70 y 72, para la ejecución de la obra "Camino Ruta S16, Sector Galvarino-Cholchol, Tramo Km. 0,00000 a Km. 24,33510, Sub-Tramo III, 14,667 al Km. 24,33510", que figuran a nombre de Conoepan Domingo Red y otros, Rol de Avalúo 611-3, comuna de Nueva Imperial, IX Región, superficies 6.208, 5.270 y 425 m². La comisión de peritos con fecha 30 de septiembre de 1999, fijó el monto de la indemnización provisional en la cantidad de $1.105.360, lote 68;
+
+$895.900, lote 70 y $492.250, lote 72. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
