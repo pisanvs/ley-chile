@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.784, de 31 de octubre del 2001, se expropió el lote de terreno Nº 8, superficie 169 m², rol de avalúo 524-39, comuna de Estación Central, para el Sistema Norte - Sur Tramo G: nudo Alameda. Sector Km. 1.400,00 al Km. 1.700,00, Región Metropolitana y se acordó el valor de indemnización con su propietaria Melania del Carmen Garrido Muñoz, ascendente a la cantidad de $40.247.900.-
+
+Fiscal del Ministerio de Obras Públicas.
