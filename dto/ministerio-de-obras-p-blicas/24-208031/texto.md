@@ -1,0 +1,3 @@
+Por decreto MOP Nº24, de 21 de enero de 2003, se rectificó el decreto MOP Nº782, de fecha 17 de mayo de 2001, que dejó sin efecto la expropiación del lote Nº1, para la obra Proyecto Mejoramiento Integral del Servicio de Agua Potable para la Zona de Pirque, en cuanto la fecha correcta del decreto MOP Nº629 es 29 de febrero de 2000 y no como en él se indicó.-
+
+Fiscal del Ministerio de Obras Públicas.
