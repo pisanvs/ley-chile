@@ -1,0 +1,3 @@
+Por decreto MOP Nº834, de 31 de mayo de 2001, se expropió el lote de terreno Nº33-D, superficie 20.501 m², rol de avalúo 1.566-84, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán- Collipulli. By Pass Los Angeles, Octava Región y se acordó el valor de indemnización con su propietaria Rosa Riquelme Riquelme, ascendente a la cantidad de $31.958.332.-
+
+Fiscal del Ministerio de Obras Públicas.
