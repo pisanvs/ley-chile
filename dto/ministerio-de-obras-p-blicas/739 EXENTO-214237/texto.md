@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº739 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº34, superficie 413 m², rol de avalúo Nº156-12, comuna de Curarrehue, para la obra "Camino Catripulli-Curarrehue, Sector Km. 108,02 al Km. 114,80", IX Región y se acordó el valor de la indemnización con su propietario Nemecio o Nemesio Durán Méndez, ascendente a la cantidad de $1.208.535.
+
+- Fiscal del Ministerio de Obras Públicas.
