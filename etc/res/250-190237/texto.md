@@ -1,0 +1,5 @@
+AUTORIZA A INDUSTRIA PESQUERA FRANCIS DRAKE LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 250, de 13 de Marzo de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Industria Pesquera Francis Drake Limitada, domiciliada en Valparaíso, para incorporar como materia prima en la planta que opera en calle Phillippi No. 195, Valparaíso, para ser procesados en las líneas de conserva y congelado, las especies bacalao de Juan Fernández y bacalao de profundidad o mero. La interesada deberá efectuar el transporte de las especies señaladas desde su centro de abastecimiento hasta la planta elaboradora en medios dotados de sistemas adecuados de preservación de la materia prima.
+
+Valparaíso, 13 de Marzo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
