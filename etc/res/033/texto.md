@@ -1,0 +1,5 @@
+Por resolución Nº 033 de 29 de abril de 1998, Serviu II Región, dispuso conforme D.L. 2186 de 1978 y para ejecución proyecto ''Mejoramiento Eje San Martín e Iquique-Antofagasta'', expropiación parcial de los inmuebles ubicados en calle Iquique esquina calle Calama e Iquique Nº 4771-4799, roles de avalúo Nº 1499-31 y 1499-32, respectivamente, comuna de Antofagasta, superficie 15,20 m² y 954,80 m², de aparente dominio del Fisco de Chile, según inscripción fs. 635, Nº 754, año 1965, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión tasadora integrada por peritos Sr. Alejandro Bargsted B., Sra. Eleonora Román L., arquitectos; y Sr.
+
+Héctor Villegas G., constructor civil, según informe de 9 de abril de 1998, fijó monto provisional indemnización en $17.607.653.- y $70.146.616.-, pagadera al contado.-
+
+Director Serviu II Región.
