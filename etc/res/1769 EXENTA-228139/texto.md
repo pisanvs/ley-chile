@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.769, de 1 de julio de 2004, de esta Subsecretaría, autorízase a CONSERVAS Y CONGELADOS Y COMPAÑIA LIMITADA, para continuar desarrollando las actividades pesqueras de transformación autorizadas mediante resolución Nº 1.794, de 1997, de esta Subsecretaría, a Conservas y Congelados S.A., del mismo RUT y domicilio, en virtud de la escritura pública otorgada con fecha 14 de enero de 2004, ante el Notario Público de Santiago María Gloria Acharán Toledo, Repertorio Nº 1.050 y del contenido de la presente resolución.
+
+Valparaíso, 1 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
