@@ -1,0 +1,3 @@
+Por resolución Nº 1.237 de 10 de junio de 2003, de esta Subsecretaría, autorízase a ALIMENTOS MAR PROFUNDO S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Coronel, Avenida Océano Pacífico Nº3679 (Manzana 24, Sitio 6), Parque Industrial, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco-Enfriado, Fresco-Refrigerado y Congelado: Catfish, Langosta enana, Camarón rojo, Cangrejo dorado, Congrio plateado, Alfonsino, Orange roughy, Atún chauchera, Barrilete o Cachurreta, Marlin rayado; Cocido: Langosta enana, Camarón rojo, Cangrejo dorado.
+
+Valparaíso, 10 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
