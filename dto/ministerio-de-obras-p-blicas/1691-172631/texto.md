@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.691 de fecha 28 de abril del 2000, se expropió el lote de terreno Nº49-A, superficie 1.480 m², rol de avalúo 2204-80, comuna de Puerto Montt, para la obra ''Camino Ruta 7, sector Chamiza - Quillaipe Kms. 4,83687 al 15,84700'' y se acordó el valor de indemnización con su propietario Ricardo Alejandro Beroiza Alvarado, ascendente a la cantidad de $2.056.923.
+
+Fiscal del Ministerio de Obras Públicas.
