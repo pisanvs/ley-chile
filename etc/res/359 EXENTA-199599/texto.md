@@ -1,0 +1,5 @@
+APRUEBA SISTEMA DE CONTROL DE EMISION DE CONTAMINANTES
+
+Por resolución exenta Nº 359, de 13 de junio de 2002, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba oficio circular Nº 145, de 13 de junio de 2002, que modifica oficio circular Nº 92/2002, aprobado por resolución exenta Nº 291/2002, todos de esta Secretaría Regional, sobre sistema de control de emisión de contaminantes a que deberán someterse los buses concesionados en los procesos de licitación de vías 1998 y 1998-II, de años de fabricación 1991 y 1992, para la extensión de antigüedad, el que forma parte de la presente resolución y regirá a contar de la fecha de publicación del presente extracto en el Diario Oficial.
+
+- Fernando Orellana Astorga, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
