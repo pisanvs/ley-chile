@@ -1,0 +1,5 @@
+Por resolución Nº1.246, de 4 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a doña CARMEN GLORIA MARIN FUENTES, R.U.T. Nº6.056.055-2, domiciliada calle Almirante Latorre Nº1199, Ancud, para desarrollar la actividad pesquera consistente en la instalación de un vivero, ubicado en la localidad de Ensenada Rilan, comuna de Castro, provincia de Chiloé, X Región, de acuerdo con el plano acompañado a la respectiva solicitud, cuya inscripción se efectuó en el Registro correspondiente del Servicio Nacional de Pesca, por resolución Nº593, de 1982 del mismo Servicio. En el vivero mencionado podrán mantenerse los siguientes recursos hidrobiológicos: almeja, cholga, chorito, loco, ostra, centolla y jaiba.
+
+La inscripción ordenada en virtud del presente instrumento, es sin perjuicio de las autorizaciones o permisos que corresponda conferir a otras autoridades, de acuerdo con las disposiciones legales o reglamentarias vigentes.
+
+Valparaíso, 4 de Septiembre de 1991.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
