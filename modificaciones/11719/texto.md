@@ -1,0 +1,1 @@
+Modifica el inciso final del artículo 1.° y el artículo 2.° de la ley 10.038, de 9 de noviembre de 1951, que autorizó a la Municipalidad de Chillán para contratar uno o varios empréstitos.
