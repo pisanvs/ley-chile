@@ -1,0 +1,3 @@
+Por resolución Nº 740, de 26 de marzo de 2003, de esta Subsecretaría, déjase sin efecto la resolución Nº1.282 de 2002, de esta Subsecretaría, que rechazó la solicitud de concesión de acuicultura Nº99103207, presentada por FRANCISCO DEL CARMEN AGUILAR GODOY para instalar y operar el centro de cultivo ubicado en Bahía Yal, sector oeste de Punta Terao, X Región.
+
+Valparaíso, 26 de marzo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
