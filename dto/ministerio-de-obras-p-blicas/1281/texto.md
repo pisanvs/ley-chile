@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.281, de 24 de agosto de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº184, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Km. 26.200,00 al 30.510,50, Región Metropolitana, que figura a nombre de Soc. Agríc. Melnick Medel Ltda., rol de avalúo 150-345, comuna de Lampa, superficie 337 m2. La Comisión de Peritos integrada por los Sres.
+
+Américo Agustín Delucchi Cabaña, María Marcela Schmauk Oelckers y Juan Eduardo Espinosa Asenjo, fijó con fecha 28 de febrero de 1998, el valor provisional de la indemnización en la cantidad de $1.515.400. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
