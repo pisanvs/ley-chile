@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 319, de 31 de marzo de 1998, se expropiaron los lotes de terreno Nº s. 1 y 2, superficies 323 y 1.763 m2. respectivamente, rol de avalúo 244-7, comuna de Salamanca, para la obra Camino Ruta D-835, Sector Llimpo-Chellepin y se acordó precio de indemnización con su propietario José Mondaca Olivares, ascendente a la cantidad de $ 2.489.872.-
+
+Fiscal del Ministerio de Obras Públicas.
