@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta Nº 911 de 11 de noviembre de 1987, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Xa. Región, se autoriza a Angélica Elgueta Vásquez, Juan Guajardo Barrientos, Roberto Muñoz Hernández y Jorge Núñez para efectuar el servicio de taxi colectivo de la Línea Nº 2 "Manuel Montt - Costanera - Angelmó" de Puerto Montt, cuyo trazado fue autorizado por resolución Nº 120 de 28 de junio de 1984, de esta Secretaría Regional.-
+
+Luis Boldt Quezada, Secretario Regional Ministerial Transportes y Telecomunicaciones, Xa. Región.
