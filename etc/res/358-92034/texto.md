@@ -1,0 +1,3 @@
+Por Resolución No. 358 de 19 de.04.89 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, inmueble calle San Ignacio No. 532, presunto rol avalúos 651-20 comuna Santiago, aparentemente dominio de Sucesión María Leyton Gamboa. Comisión integrada por peritos Sres. Roberto Correa Bezanilla y Eduardo Suárez Suárez, arquitectos, y Pablo Risopatrón Garmendia, ingeniero civil, según informe de 20 de octubre de 1988, fijó monto provisional indemnización en $ 10.785.600.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
