@@ -1,0 +1,3 @@
+Por Resolución N° 470 de 1 de junio de 1993 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, del inmueble ubicado en Avda. Departamental N° 73, presunto rol de avalúos N° 3-0001 comuna de La Florida, aparente dominio de doña Olivia Alegría Flores, Comisión integrada por peritos Sres. Mario Vergara Navarrete, arquitecto, Raúl Varela Hernández, ingeniero civil y Carlos del Pedregal Sánchez, constructor civil, según informe de 8 de febrero de 1993, fijó monto provisional idemnización en $ 15.187.300.- pagadera al contado.-
+
+Directora SERVIU Metropolitano.
