@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 19, de fecha 15 de febrero de 2002, se aprobó la reforma parcial del estatuto de la Cooperativa de Vivienda y Servicios Habitacionales Docencia Limitada, de Concepción, en los términos que da testimonio la escritura pública otorgada con fecha 10 de octubre de 2001, ante el Notario de Concepción, Sr. Sixto Alberto Cruz Arellano, suplente del titular Sr. Ramón García Carrasco.
+
+Por orden del Sr. Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
