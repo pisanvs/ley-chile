@@ -1,0 +1,3 @@
+Por resolución Nº 1.147, de 16 de junio de 1999, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 169 de 1996 y Nº 192 de 1997, ambas de esta Subsecretaría, que autorizaron a RODRIGO PONZINI GARCIA-HUIDOBRO, para instalar y operar el centro de cultivo ubicado en Bahía Tongoy, comuna de Coquimbo, provincia de Elqui, IV Región.
+
+Valparaíso, 16 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
