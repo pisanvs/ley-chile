@@ -1,0 +1,3 @@
+Por resolución Nº 409, de 1 de marzo de 2000, de esta Subsecretaría, autorízase a PROCESADORA DE PRODUCTOS MARINOS LIMITADA, para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 1028, de 1998, de esta Subsecretaría, donde podrá incorporar a la planta ubicada en Puerto Gala, Isla Toto, provincia de Aysén, comuna de Cisnes, XI Región, en las líneas de elaboración que se indican, el siguiente recurso hidrobiológico: congelado, fresco-enfriado y conserva: Loco.
+
+Valparaíso, 1 de marzo de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
