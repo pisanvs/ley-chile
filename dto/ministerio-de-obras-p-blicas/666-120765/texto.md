@@ -1,0 +1,5 @@
+Por decreto MOP. N° 666 de 29 de mayo de 1998, y en base a la facultad otorgada por el artículo 14 letra e) y 105 del DFL. N° 850 de 1997, que fijó el texto actualizado de la ley N° 15.840, se expropiaron los lotes de terrenos N° s. 18 y 21-A, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, Sector Km.
+
+83.100,00 al Km. 87.215,00 que figuran a nombre de Leiva Riquelme Osvaldo del Carmen, rol de avalúo 152-133, Comuna de Llay-Llay, superficies 2.142 m2 y 5.982 m2, respectivamente. La Comisión de Peritos integrada por los señores Patricio Benjamín García Toso, José Rogelio Alfredo Reyes Azancot y Luis Pablo Padilla Vergara, fijó con fecha 28 de noviembre de 1997, los valores provisionales de las indemnizaciones en las cantidades de $ 1.669.400.- para el lote N° 18 y $ 8.457.900.- para el lote N° 21-A.- Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
