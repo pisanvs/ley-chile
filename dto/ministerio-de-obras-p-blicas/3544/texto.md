@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.544 del 30 de noviembre de 1999, se expropiaron los lotes de terreno Nºs. 36, 38 y 51, superficies 115.000 m², 15.000 m² y 123.300 m², respectivamente, roles de avalúos 402-8 y 402-13, comuna de Vicuña, para la obra ''Embalse Puclaro, Sector Punta Azul y San Carlos III Etapa''; y se acordó precio de la indemnización con sus propietarios Carlos Aníbal Martínez y Otra y Jorge Orlando Durán Ramos, ascendente a las cantidades de $110.762.992.- para los lote Nºs. 36 y 38 y $74.655.080.- para el lote Nº 51.
+
+- Fiscal del Ministerio de Obras Públicas.
