@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION PARCIAL DE INMUEBLE QUE SEÑALA
+
+Resolución exenta Nº 978, 11 marzo 2005, Serviu Región del Bío-Bío ordenó expropiación parcial inmueble ubicado en prolongación calle René Schneider de Michaihue, Rol de Avalúo Nº 15009-2, comuna San Pedro de la Paz, superficie 476,41 m² de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-19.449, de aparente dominio de Humilde Silva Gaete, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de San Pedro de la Paz, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2.186. Comisión peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor, Víctor Toledo Quijada, arquitecto, Alvaro Berríos San Martín, arquitecto, según informe de fecha 8 de diciembre 2004, fijó monto provisional indemnización en $500.231.-, pagadera de contado.
+
+- Director Serviu Región del Bío-Bío.
