@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 1.490, de 28 de septiembre de 2001, se expropiaron los lotes de terreno Nºs. 41, 41-A y 42, superficies 132 m², 600 m² y 1.973 m²., respectivamente, rol de avalúo 152-40, comuna de San Nicolás, VIII Región, para la obra ''Camino Ruta N-60-O, Sector Río Ñuble - Portezuelo, Km. 6.900.00 al 28.833.35'' y se acordó el valor de indemnización con su propietario José Guillermo Tolosa Riquelme, ascendente a la cantidad de $1.786.212.
+
+- Fiscal del Ministerio de Obras Públicas.
