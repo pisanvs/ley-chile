@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.467, de 31 de julio del 2000, se expropió el lote de terreno Nº 52, superficie 205,00 m²., rol de avalúo 232-21, comuna de Villa Alegre, para la obra Camino Mejoramiento Ruta L-19, Sector Cruce Long. (Villa Alegre) - Esperanza y se acordó precio de la indemnización con su propietario Grove del Carmen Vásquez Guerra en la cantidad de $842.592.
+
+Fiscal del Ministerio de Obras Públicas.
