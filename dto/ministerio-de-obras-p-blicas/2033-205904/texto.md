@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.033, de 31 de octubre de 2002, se expropió el lote de terreno Nº32-C, superficie 2.778 m², rol de avalúo Nº en trámite, comuna de La Estrella, para la obra "Proyecto Mejoramiento Ruta I-20, sector Los Maitenes - La Estrella - Las Damas, Km. 20,500 al 27,715317", VI Región, y se acordó el valor de la indemnización con su propietario Mario Hugo Dinamarca González y Otros, ascendente a la cantidad de $3.562.095.-
+
+Fiscal del Ministerio de Obras Públicas.
