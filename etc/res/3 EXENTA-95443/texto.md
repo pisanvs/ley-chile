@@ -1,0 +1,3 @@
+Por resolución exenta N° 3 de 20 de Enero de 1989 se canceló la resolución N° 889 de 16 de Julio de 1985 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Va. Región que autorizó a la Sociedad Centromotori Ltda. para efectuar las revisiones técnicas de los vehículos de transporte de personas de más de nueve (9) asientos, incluido el del conductor; de vehículos motorizados de carga con capacidad para transportar más de 1.750 kilos, sus remolques y semirremolques y los taxis, en el establecimiento ubicado en calle Angamos s/n°, Barrancas, Comuna de San Antonio.
+
+Valparaíso 20 de Enero de 1989.- Hernán Vásquez Wacquez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Va. Región.
