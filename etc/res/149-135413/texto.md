@@ -1,0 +1,7 @@
+AUTORIZA A INSTITUTO PROFESIONAL DE OSORNO PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 149, de 18 de Febrero de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Instituto Profesional de Osorno, domiciliado en Osorno, para ampliar actividades pesqueras de cultivo autorizadas por resoluciones No. 267, de 1981 y No. 219, de 1982, de esta Subsecretaría, en orden a instalar y operar un establecimiento de cultivo de salmón del Atlántico en la Piscicultura Experimental Lago Rupanco, ubicada a orillas del Lago Rupanco, Comuna Entre Lagos y en la Piscicultura Río Sur, Comuna de Puerto Varas, ambas de la Provincia de Llanquihue, X Región, autorizadas por las resoluciones anteriormente citadas, en las que se llevará a efecto las etapas de incubación, alevinaje y crianza hasta el estado de smolt de 200.000 ovas del recurso que previa autorización de esta Subsecretaría importará desde Estados Unidos de Norteamérica y Europa. En forma complementaria se adquirirán de centros de cultivos autorizados de la X Región.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 18 de Febrero de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
