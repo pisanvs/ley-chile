@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.369, de 28 de septiembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 1, 3 y 5, para la ejecución de la obra "Proyecto Laja Diguillín, Area de Riego Los Puquios, Canal Los Puquios, Ramal 2, Km.
+
+0.005 a Km. 2.165 (lote Nº 5) y Canal Los Puquios Desagüe 2 Km. 0.004 a Km. 0.472 (lotes Nºs. 1 y 3)", que figuran a nombre de José Santiago Riquelme Osses, rol de avalúo 480-169, comuna de Yungay, VIII Región, superficies 2.642, 805 y 2.410 M2. La Comisión de Peritos fijó con fecha 29 de noviembre de 2000, el valor provisional de la indemnización en la cantidad de $1.190.660, lote 5; $346.150, lote 1 y $1.211.500, lote 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
