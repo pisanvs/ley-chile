@@ -1,0 +1,5 @@
+AUTORIZA A DON HERNAN LENIZ VARGAS PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 398 de 29 de Abril de 1087, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Hernán Léniz Vargas, R.U.N. No. 5.885.358 de Calbuco, domiciliado en calle Sargento Aldea s/n, Calbuco, para operar en el establecimiento de cultivo, ubicado en la localidad de San Rafael, Canal Huito, Comuna de Calbuco, Provincia de Llanquihue, X Región, autorizado por la resolución No. 151, de 1981, de esta entidad, con las especies Salmón plateado y Salmón keta, en un área de 7.200 m2, incluyendo la superficie donde mantiene las balsas para el cultivo de mitílidos autorizado por la resolución antes citada.
+
+Valparaíso, 28 de Abril de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
