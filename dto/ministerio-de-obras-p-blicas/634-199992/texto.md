@@ -1,0 +1,3 @@
+Por decreto MOP Nº634 de fecha 28 de marzo del 2002, se expropiaron los lotes de terreno Nºs. 33-A y 33-B, superficie 7.584 y 12.523 m² respectivamente, rol Nº49-10 y 49-11, comuna de La Estrella, para la obra ''Proyecto Mejoramiento Ruta I-20, Sector Los Maitenes - La Estrella, Las Damas, Km. 20,500 a Km. 27,715317'', y se acordó el valor de indemnización con su propietario Luis Alberto Acuña González, ascendente a la cantidad de $17.362.469.
+
+Fiscal del Ministerio de Obras Públicas.
