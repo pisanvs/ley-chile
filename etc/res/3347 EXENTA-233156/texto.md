@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.347, de 25 de noviembre de 2004, de esta Subsecretaría, autorízase a PESQUERA ITATA S.A., para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Avenida General Prat Nº 60, Coronel, VIII Región, en las líneas de proceso de Harina y aceite, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 25 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
