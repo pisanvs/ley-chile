@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 128, 5 abril 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº1801, Rol de Avalúo Nº 762-9 comuna Concepción, superficie 33,4 m². de terreno y 181 m². de edificación, dentro polígono y linderos señalados plano expropiación S8R-18368; de aparente dominio de Margarita Nieves Pereira Soto, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 Ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Leonardo Eugenio Fasce Casanueva, arquitecto, Mario Fabrizio Bellolio Bosticca, arquitecto, e Italo Zerga Arancibia, constructor civil, según informe de fecha 4 de marzo de 2004, fijó monto provisional indemnización en $29.362.124.-, pagadera de contado.-
+
+Carlos Ugarte Méndez, Director Serviu Región del Bío Bío.
