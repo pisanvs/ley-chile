@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.442 de fecha 30 de septiembre del 2002, se expropió el lote de terreno Nº121, superficie 26 m2, rol Nº194-48, comuna de Longaví, VII Región, para la obra ''Camino Ruta L-49, Cruce Long. - Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0.000.00 a Km. 13,841.12'' y se acordó el valor de indemnización con su propietario Víctor Manuel Salgado Valdés, ascendente a la cantidad de $431.495.-
+
+Fiscal del Ministerio de Obras Públicas.
