@@ -8528,7 +8528,7 @@ MATERIA
 
 FONDO DE GARANTIA PARA PEQUEÑOS EMPRESARIOS
 
-El Fondo de Garantía para Pequeños Empresarios, creado por el DL N° 3472 modificado por las Leyes N° 18280, 18437 y 18840, está formado por un aporte fiscal equivalente a 500000 U F y es administrado por el Banco del Estado de Chile quien lo representa legalmente.
+El Fondo de Garantía para Pequeños Empresarios, creado por el DL N° 3472 modificado por las Leyes N° 18280, 18437, 18840 y 19.498, está formado por un aporte fiscal equivalente a 500000 U F y es administrado por el Banco del Estado de Chile quien lo representa legalmente.
 
 La finalidad del Fondo es garantizar a las instituciones financieras públicas o privadas los préstamos que otorguen a los pequeños empresarios en la forma y condiciones que se señalan en el referido cuerpo legal y en el "Reglamento de Administración del Fondo de Garantía para Pequeños Empresarios" establecido por esta Superintendencia, cuyo texto se incluye en el Anexo N° 1 de este Capítulo.
 
@@ -8544,7 +8544,7 @@ En todo caso, para operar con dicha garantía, la institución financiera deber�
 
 ### 2. Créditos que pueden caucionarse con la garantía del Fondo
 
-Podrán ser caucionados con el Fondo de Garantía para Pequeños Empresarios, los créditos que se destinen a financiar proyectos de inversión, necesidades de capital de trabajo para la constitución de sociedades o para efectuar aportes a éstas, cuando su giro sea la explotación de la misma actividad del mutuario o conexa con ésta. El financiamiento para la constitución o aportes en sociedades y la caución del Fondo, podrán incluir tanto el capital que invertirá el beneficiario, como los gastos en que éste debe incurrir para el efecto.
+Podrán ser caucionados por el Fondo de Garantía para Pequeños Empresarios los créditos que se destinen a satisfacer requerimientos de capital de trabajo del deudor, a proyectos de inversión o aportes en sociedades que se constituyan o ya constituidas, cuyo giro sea la explotación de la misma actividad del deudor o conexa con ésta.
 
 Los montos y plazos de estos créditos deben limitarse a los que se establecen en el Reglamento.
 
@@ -8580,7 +8580,7 @@ h) Garantías adicionales
 
 ### 6. Información que debe enviarse al Administrador
 
-Las entidades financieras que se adjudiquen garantías del Fondo, están obligadas a remitir quincenalmente al Banco del Estado de Chile, en su calidad de Administrador del Fondo, una nómina de los créditos que se cursen, la que deberá contener la misma información que debe anotarse en el registro señalado en el número precedente, además de la que adicionalmente pudiere requerir la entidad bancaria estatal.
+Las entidades financieras que se adjudiquen garantías del Fondo, están obligadas a remitir mensualmente al Banco del Estado de Chile, en su calidad de Administrador del Fondo, una nómina de los créditos que se cursen, la que deberá contener la misma información que debe anotarse en el registro señalado en el número precedente, además de la que adicionalmente pudiere requerir la entidad bancaria estatal.
 
 ### 7. Comisión a favor del Fondo de Garantía
 
@@ -8652,33 +8652,31 @@ ANEXO N° 1
 
 REGLAMENTO DE ADMINISTRACION DEL FONDO DE GARANTIA PARA PEQUEÑOS EMPRESARIOS
 
-De acuerdo con lo dispuesto en el artículo 1° del Decreto Ley N° 3472, modificado por las Leyes N°s 18280, 18437 y el N° III del ARTICULO SEGUNDO de la Ley N° 18840, la Superintendencia de Bancos e Instituciones Financieras establece la siguiente reglamentación para el Fondo de Garantía para Pequeños Empresarios.
+De acuerdo con lo dispuesto en el artículo 1° del Decreto Ley N° 3472, modificado por las Leyes N°s. 18.280 y 18.437, por el N° III del ARTICULO SEGUNDO de la Ley N° 18.840 y por la Ley N° 19.498,la Superintendencia de Bancos e Instituciones Financieras establece la siguiente reglamentación para el Fondo de Garantía para Pequeños Empresarios.
 
 I.- BENEFICIARIOS
 
 #### Artículo 1°
 
-Sólo podrán optar a la garantía del Fondo las personas naturales o jurídicas que cumplan con las disposiciones establecidas en el Decreto Ley N° 3472 de 28 de agosto de 1980 y sus modificaciones y en el presente Reglamento.
+Sólo podrán optar a la garantía del Fondo las personas naturales que sean pequeños empresarios y las entidades integradas por éstos, que cumplan con las disposiciones establecidas en el Decreto Ley N° 3472 de 28 de agosto de 1980 y sus modificaciones y en el presente Reglamento.
 
 #### Artículo 2°
 
-Los pequeños empresarios no agrícolas que opten a la garantía del Fondo, deberán tener activos fijos cuyo valor no exceda de 5000 unidades de fomento.
+Podrán postular a la garantía del Fondo los pequeños empresarios agrícolas cuyas ventas netas anuales no excedan de 14.000 Unidades de Fomento y los pequeños empresarios no agrícolas, productores de bienes o servicios, cuyas ventas netas anuales no excedan de 25.000 Unidades de Fomento.
 
-No obstante lo señalado en el inciso anterior, podrán postular a la garantía del Fondo, pequeñas empresas industriales cuyos activos fijos no excedan de 15000 unidades de fomento, que tengan proyectos de inversión o necesidades de capital de operación financiera estudiados y con informe favorable del Servicio de Cooperación Técnica y que sean financiados, total o parcialmente, con fondos provenientes de líneas de créditos otorgadas por organismos internacionales de asistencia financiera.
+Para estos efectos se entenderá por empresario tanto a los postulantes que tengan esa calidad al momento de solicitar un crédito con garantía del Fondo, como a los que requieran de un crédito de esta naturaleza, para iniciar con sus recursos una actividad empresarial, sea para producir bienes o servicios.
 
-Los pequeños empresarios agrícolas, que postulen a la garantía, deberán explotar, a cualquier título, predios que no excedan de 40 hectáreas de riego básico En ningún caso, el valor de sus activos fijos podrá ser superior a 6500 unidades de fomento.
-
-Para estos efectos se entenderá por empresario tanto a los postulantes que tengan esa calidad al momento de solicitar un crédito con garantía del Fondo, como a los que requieran de un crédito de esta naturaleza, para iniciar con sus recursos una actividad empresarial.
+También podrán postular a la garantía del Fondo las personas jurídicas sin fines de lucro, las sociedades de personas y las organizaciones a que se refiere el artículo 2° de la Ley N° 18.450, para financiar proyectos de riego, de drenaje, de infraestructura productiva o equipamiento, siempre que a lo menos las dos terceras partes de las personas naturales que las integren cumplan con los requisitos señalados en el inciso primero.
 
 #### Artículo 3°
 
-Para los efectos contemplados en el artículo 2° en caso que se trate de personas jurídicas, se entenderán por activos fijos aquellos bienes destinados en forma permanente a las actividades productivas de la empresa, cuya duración sea superior a un año, tales como maquinaria, vehículos, instalaciones, bienes raíces, etc.
+Las ventas netas anuales a que se refiere el artículo 2°, corresponderán a ventas netas del impuesto al valor agregado (IVA) de los bienes, productos o servicios propios del giro de la empresa, declaradas para el pago de dicho impuesto.
 
-En el caso de personas naturales, se entenderán por activos fijos los bienes definidos en el párrafo anterior y el valor neto de otros activos fijos personales, entendiendo este valor como la diferencia entre su tasación y las deudas que por éstos se mantengan,
+La suma de esas ventas no debe exceder el respectivo límite señalado en el inciso primero del artículo 2°, tanto para las ventas realizadas en el año calendario anterior al del otorgamiento del crédito, como para el período de 12 meses anteriores a la fecha de la solicitud.
 
-En el caso de las personas jurídicas o naturales que tengan participación en sociedades superior al 10% del capital o de las utilidades, se deberá sumar a sus activos fijos la parte proporcional de dichos activos en las empresas correspondientes.
+Al tratarse de postulantes que no hayan iniciado sus actividades o, si entre el comienzo de éstas y la presentación de la solicitud hubiere transcurrido un período inferior a seis meses, las ventas netas anuales se determinarán sobre la base de una estimación fundada del importe máximo de ventas anuales posible de obtener en plena actividad.
 
-Las personas naturales o jurídicas aludidas precedentemente, podrán ser productoras de bienes o servicios.
+Si la iniciación de ventas del postulante es anterior en más de seis meses a la fecha de la solicitud, pero no ha alcanzado a cubrir un período de 12 meses, se considerará para los meses faltantes el promedio mensual de las ventas ya declaradas. No obstante, si se trata de una actividad cuyos ciclos de producción y venta son estacionales, se estimarán las ventas según lo indicado en el inciso anterior.
 
 #### Artículo 4°
 
@@ -8700,7 +8698,7 @@ III.- PROCEDIMIENTO DE LICITACION Y UTILIZACION DE LA GARANTIA.
 
 El Administrador del Fondo licitará, total o parcialmente con cargo a los recursos del Fondo, la garantía que podrá otorgar a los créditos concedidos por las instituciones participantes.
 
-El Administrador del Fondo podrá excluir total o parcialmente del acceso a la garantía del Fondo, a los rubros o sectores de actividad que, a su juicio, presenten condiciones de riesgo mayores a los normales. Tales exclusiones deberán ser, en todo caso, de carácter general para el rubro o sector de la actividad afectada, debiendo dejarse constancia de ellas, y su fundamento, en el llamado a licitación.
+Conforme a lo establecido en la Ley, el Administrador del Fondo deberá especificar en las bases de cada licitación, el sector o sectores económicos que podrá hacer uso de los recursos que se comprometen y demás condiciones exigidas para tener acceso a la garantía del Fondo.
 
 #### Artículo 8°
 
@@ -8718,7 +8716,7 @@ Las instituciones participantes sólo podrán presentar una oferta en cada licit
 
 #### Artículo 11
 
-Las instituciones que se hubieren adjudicado la garantía, deberán comunicar al Fondo los créditos otorgados y garantizados con estos recursos. La exigibilidad de la garantía del Fondo estará condicionada a que se hubieren cumplido todos los requisitos establecidos en este Reglamento.
+Las instituciones que se hubieren adjudicado la garantía, deberán comunicar al Fondo los créditos otorgados y garantizados con estos recursos. La exigibilidad de la garantía del Fondo estará condicionada a que se hubieren cumplido todos los requisitos establecidos en la Ley, en este Reglamento y en las bases de la respectiva licitación.
 
 #### Artículo 12
 
@@ -8744,13 +8742,11 @@ IV.- CREDITOS GARANTIZADOS POR EL FONDO.
 
 #### Artículo 16
 
-Los créditos afectos a la Garantía serán en moneda comente y no podrán exceder en total de 1500 unidades de fomento para cada empresa cuyos activos fijos sean de hasta 5000 unidades de fomento, ni ser superiores a 5000 unidades de fomento para cada pequeña empresa industrial a que se hace referencia en el inciso segundo del artículo 2° de este Reglamento.
+Los créditos afectos a la Garantía que se otorguen a pequeños empresarios, no podrán exceder, en total, de 3.000 unidades de fomento para cada empresario.
 
-Los préstamos que garantice el Fondo a las pequeñas empresas industriales señaladas en el inciso anterior, no podrán ser superiores a un tercio del valor del activo fijo de cada pequeña empresa industrial.
+Los créditos afectos a la Garantía que se otorguen a las personas jurídicas u organizaciones a que se hace referencia en el último inciso del artículo 2° de este Reglamento, no podrán ser superiores, en total, a 24.000 unidades de fomento para cada prestatario.
 
-El Fondo no podrá garantizar más del 80% del saldo adeudado por una misma empresa por créditos de esta naturaleza, siempre que ese saldo no exceda de UF 1500 Dicha garantía será del 50% sobre la parte del saldo adeudado que exceda de UF 1500 y que no sobrepase las 5000 unidades de fomento.
-
-Para los efectos de los márgenes que establecen los incisos primero y tercero de este artículo, los préstamos expresados en moneda extranjera y pagaderos por su equivalente en moneda nacional, serán convertidos a esta última moneda de acuerdo al tipo de cambio a que se refiere el N° 6 del Título I del Capítulo I del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile.
+El Fondo no podrá garantizar más del 80% del saldo deudor de los créditos señalados en los incisos precedentes.
 
 #### Artículo 17
 
@@ -8794,7 +8790,7 @@ a) Los capitales no garantizados por el Fondo y los gastos de la cobranza judici
 
 b) La suma desembolsada por el Fondo en cumplimiento de la garantía otorgada.
 
-c) Los intereses compensatorios y moratorios a que tenga derecho la institución otorgante del crédito, tanto en relación con la parte garantizada como no garantizada del crédito.
+c) Los intereses compensatorios y moratorios a que tenga derecho la institución otorgante del crédito, tanto en relación con la parte garantizada, sólo hasta la fecha en que pagó el Fondo, como de aquella parte no garantizada del crédito.
 
 d) Las comisiones y cualquier otra suma a que tenga derecho el Fondo.
 
