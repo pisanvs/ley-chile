@@ -1,0 +1,3 @@
+Por resolución Nº 2.004, de 12 de septiembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110482 presentada por PRODUCTOS MARINOS MARDIM LIMITADA, para instalar y operar el centro de cultivo ubicado en canal Puyuguapi, isla Magdalena, punta Trigueña, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 12 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
