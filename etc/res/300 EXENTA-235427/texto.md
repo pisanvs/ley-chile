@@ -1,0 +1,3 @@
+Por resolución exenta Nº 300 de 3 de febrero de 2005 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203104011 presentada por HUGO ROLANDO MORALES VILLARROEL y JOSE JAIME MANCILLA BECA, para instalar y operar un centro de cultivo ubicado en Estero Rulo, sector norte de Punta Metrencue, X Región.
+
+Valparaíso, 3 de febrero de 2005.- Vilma Correa Rojas, Subsecretario de Pesca (S).
