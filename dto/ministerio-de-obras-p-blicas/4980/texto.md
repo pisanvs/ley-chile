@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.980, de fecha 31 de octubre de 2000, se expropió lote de terreno Nº6, superficie 240 m2., rol de avalúo 161-60, comuna de Pto. Octay, para la obra ''Camino Nochao - Ensenada, Sector Bif. Lago Rupanco - Pte. Las Cascadas, Km. 10,300 al 31,33251'' y se acordó el valor de indemnización con su propietaria doña Verena del Carmen Galle Kuschel, ascendente a la cantidad de $304.920.-
+
+Fiscal del Ministerio de Obras Públicas.
