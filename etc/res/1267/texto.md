@@ -1,0 +1,3 @@
+Por resolución N°1.267 de 23 de Diciembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por EMPACADORA DEL PACIFICO LIMITADA, R.U.T. N°84.768.700-2, domiciliada en calle Ferrari N°80, Lo Espejo, para instalar y operar una piscicultura en una parcela de la Comuna de San Clemente, Provincia de Talca, VII Región, en virtud de prescrito en el artículo 12 N°4 letra a) del D.S. N°427, de 1989, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 23 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
