@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº837, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº1, superficie 11.262 m², Rol Nº2219-266, comuna de San Juan de la Costa, X Región, para la obra ''Camino Costero Sur, Chaihuin - Río Bueno - Estero Quihue, Sector Río Quihue - Bahía Mansa'' y se acordó el valor de indemnización con su propietario Comunidad Indígena Purretrun Pucatrihue, ascendente a la cantidad de $20.508.750.-
+
+Fiscal del Ministerio de Obras Públicas.
