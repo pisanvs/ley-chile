@@ -1,0 +1,5 @@
+Por resolución Nº 2.444 ,de 6 de Noviembre de 2000, de esta Subsecretaría, autorízase a SILVIA FILOMENA MUÑOZ VALDES para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Costanera Sur, sitio 1 M3, Melinka, Región de Aysén, donde podrá procesar en la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Fresco-refrigerado y congelado: Erizo, Lapa, Centolla, Cholgua, Chorito, Loco, Almeja, Culengue, Jaiba, Jaiba mora, Congrio dorado, Congrio negro, Corvina, Merluza del sur, Raya, Róbalo, Salmón del Atlántico, Salmón plateado y Trucha arcoiris.
+
+Los recursos hidrobiológicos Salmón del Atlántico, Salmón plateado, Trucha arcoiris, deberán provenir de centros de cultivos autorizados.
+
+Valparaíso, 6 de noviembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
