@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 141, de 29 de febrero de 1996, se expropiaron los lotes de terreno N°s. 30, 46, 48 y 50, superficies 16.051, 12.960, 2.285 y 1.772 m2., respectivamente, rol de avalúo N° 4229-6, comuna de Cartagena, para la obra Camino Malvilla Orrego Abajo, y se acordó precio de indemnización con su propietaria, Alicia Iris Valenzuela Briseño, ascendente a la cantidad de $31.493.375.
+
+- Fiscal del Ministerio de Obras Públicas.
