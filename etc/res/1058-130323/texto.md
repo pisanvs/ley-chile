@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No 1.058 de 22.06.88, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas Nos. 1 a la 7 y 9 a la 12 y sitios Nos. 1 al 11 del Proyecto de Parcelación "Canta Rana" de la comuna de Los Angeles, VIII Región, formado por predio "Los Huertos" o "Santa Magdalena". Los Derechos de Agua se extraen del canal del Laja derivado del río Laja. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
