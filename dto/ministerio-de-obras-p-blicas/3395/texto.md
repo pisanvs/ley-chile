@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.395, de 29 de octubre de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 8 y 10; para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, sector Ruta 5 Sur - Departamental y sector Eje General Velásquez, Km.
+
+7.148,00 al Km. 9.446,00, Región Metropolitana, que figuran a nombre de Agroindustrias Bas S.A., rol de avalúo 4422-1, comuna de San Bernardo, superficies 795 m2 y 198 m2, respectivamente. La Comisión de Peritos integrada por los señores Ramón Undurraga Montes, Jorge Navarro Navarrete y Patricia Zavala Contreras, fijó con fecha 10 de marzo de 1997, el valor provisional de la indemnización en la cantidad de $23.850.000.- para el lote Nº8, y con fecha 1 de septiembre de 1999 en la cantidad de $5.346.000.- para el lote Nº10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
