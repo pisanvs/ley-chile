@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 212, de 31 de agosto de 1988, se expropiaron los lotes No. s 1 y 2, superficies 1.390 M2. y 652 M2. rol de avalúo 85-8, Comuna de Marchigüe, para la obra Camino San Fernando Pichilemu, Tramo Alcones - Pichilemu, Rol 1-50, sector Alcones, y se acordó el precio de indemnización con sus propietarios Alfredo Duarte Catalán y Sociedad Comercial Agrícola e Industrial El Escorial S.A., ascendente a las sumas de $ 138.316 y $ 70.000.-
+
+Fiscal del Ministerio de Obras Públicas.
