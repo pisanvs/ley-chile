@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.047, de 29 de mayo del 2000, se expropió el lote de terreno Nº10, superficie 252 m², rol de avalúo 697-22, comuna de Yungay, para la obra Proyecto Laja Diguillín - Area de Riego Yungay, Canal Pedregal, Km. 0,000.00 al 3,069.51 y se acordó precio de la indemnización con su propietario Francisco Erices Erices, ascendente a la cantidad de $66.206.
+
+Fiscal del Ministerio de Obras Públicas.
