@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.657, de 27 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 5, 6, 7, 9, 10, 11 y 12, para la obra Camino Long. Los Lagartos-El Molino, sector Cruce Long. Purísima, Kms. 0.00 al 4.390, que figuran a nombre de Hugo Vidal Gortari, Manuel Bustamante Carrera, Sergio Olivares Montecinos, Enrique del Carmen Valdivia Céspedes, Enrique Navarro Reyes, Luisa Inés Díaz Maibee y Marcos Luis Díaz Maibee, roles de avalúo 73-8, 73-124, 73-123, 74-37, 50-32, 74-63 y 74-9, Comuna de Teno, VII Región, superficies 386,02; 104,70; 427,38; 823,75; 233,16; 62 y 17 M2., respectivamente. La Comisión de Peritos, fijó con fecha 7 de enero de 1997, en la cantidad de $77.204, lote Nº5; $20.940, lote Nº6; $85.476, lote Nº7;
+
+$164.750, lote Nº9; $23.316, lote Nº10; $186.000, lote Nº11 y $51.000, lote Nº12. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal de Ministerio de Obras Públicas.
