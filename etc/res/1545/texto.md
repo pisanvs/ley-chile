@@ -1,0 +1,3 @@
+Por Resolución N° 1.545, de 27 de Octubre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 286, de 1995, de esta Subsecretaría, que autorizó a PESQUERA SAN JOSE S.A., R.U.T. N° 96.535.470-0, para desarrollar actividades pesqueras con la nave "Llay Llay", por no haberse dado cumplimiento a lo dispuesto en el artículo 15 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 27 de Octubre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
