@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.082, de 27 de octubre de 2004, de esta Subsecretaría, autorízase a INVERSIONES DOÑA CARMEN S.A. para transferir a Productos del Mar Ventisqueros S.A. la autorización de acuicultura otorgada por resolución Nº 104 de 1988, de esta Subsecretaría, para una piscicultura ubicada en la localidad de Chaqueihua, X Región.
+
+Valparaíso, 27 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
