@@ -7594,19 +7594,11 @@ todos los factores que incidan en el valor que se le asigne al bien raíz.
 
 ### 5. Tasa de interés y reajustes
 
-La tasa de interés anual que se acuerde no podrá exceder a la tasa de interés
+La tasa de interés que se acuerde puede ser fija o flotante. Cuando se utilice una tasa de interés flotante, ella debe tener por base la Tasa de Interés Promedio (TIP) de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras del Banco Central de Chile y deberá pactarse siguiendo las mismas reglas establecidas para los préstamos en letras de crédito, señaladas en la letra c) del numeral 1.1 del título I del Capítulo 9-1 de esta Recopilación Actualizada de Normas.
 
-máxima convencional vigente al momento de la convención. Las obligaciones podrán
+Las obligaciones podrán expresarse en unidades de fomento u otro sistema de reajustabilidad autorizado por el Banco Central de Chile.
 
-expresarse en unidades de fomento u otro sistema de reajustabilidad que autorice
-
-el Banco Central de Chile.
-
-Las instituciones financieras no podrán recargar la tasa de interés pactada en
-
-estas operaciones con comisiones, gastos u otras prestaciones, salvo los
-
-conceptos a que se refiere el N° 10 siguiente.
+Las instituciones financieras no podrán recargar la tasa de interés pactada en estas operaciones con comisiones, gastos u otras prestaciones, salvo los conceptos a que se refiere el N° 10 siguiente.
 
 ### 6. Entrega del importe de los préstamos
 
@@ -7618,31 +7610,15 @@ Raíces.
 
 ### 7. Dividendos hipotecarios
 
-El reembolso de los préstamos otorgados al amparo de estas normas se hará en
+El reembolso de los préstamos otorgados al amparo de estas normas se hará en moneda nacional, por medio de dividendos.
 
-moneda nacional, por medio de dividendos.
-
-En el caso de préstamos hipotecarios para la vivienda, el servicio se hará
-
-mediante dividendos mensuales vencidos debiendo enterarse cada pago dentro de
-
-los 10 primeros días del mes siguiente al de la fecha de vencimiento.
+En el caso de préstamos hipotecarios para la vivienda, el servicio se hará mediante dividendos mensuales sucesivos vencidos. En estos préstamos no podrán pactarse plazos de gracia ni dividendos crecientes o decrecientes, debiendo enterarse cada pago dentro de los 10 primeros días del mes siguiente al de la fecha de vencimiento.
 
 ### 8. Tabla de desarrollo de los mutuos
 
-Las instituciones acreedoras deberán protocolizar en una Notaría las tablas de
+Las instituciones acreedoras deberán protocolizar en una Notaría las tablas de desarrollo de los mutuos hipotecarios de que se trata y dejar constancia, en la respectiva escritura, de la tabla de desarrollo aplicada.
 
-desarrollo de los mutuos hipotecarios de que se trata y dejar constancia, en la
-
-respectiva escritura, de la tabla de desarrollo aplicada.
-
-Las tablas de desarrollo de los mutuos hipotecarios deberán estar referidas a
-
-una unidad de capital y las cifras se expresarán con no menos de cuatro
-
-decimales. En su confección, la institución financiera deberá cuidar que tenga
-
-la siguiente información mínima:
+Las tablas de desarrollo de los mutuos hipotecarios deberán estar referidas a una unidad de capital y las cifras se expresarán con no menos de cuatro decimales. En su confección, la institución financiera deberá cuidar que tenga la siguiente información mínima:
 
 a) Número del dividendo;
 
@@ -7655,6 +7631,8 @@ d) Valor del dividendo;
 e) Saldo de capital adeudado; y,
 
 f) Amortización acumulada.
+
+En el evento de que se pacte una tasa de interés flotante según lo indicado en el N° 5 anterior, se omitirán los antecedentes referidos en las letras c) y d), pero la amortización y los demás datos deberán calcularse sobre la base de la tasa de interés vigente a la fecha del otorgamiento del crédito.
 
 ### 9. Amortizaciones extraordinarias de los préstamos
 
