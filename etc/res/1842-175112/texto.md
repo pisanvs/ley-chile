@@ -1,0 +1,5 @@
+Por resolución Nº1.842, de 18 de agosto de 2000, de esta Subsecretaría, autorízase a PESQUERA EL GOLFO S.A. para ampliar actividades pesqueras extractivas con la nave ''Maracaibo II'', en el área marítima de la V, VI, VII y IX Regiones, por fuera del área de reserva artesanal, donde podrá capturar con arte de pesca cerco los recursos hidrobiológicos Sardina común y Machuelo o tritre.
+
+Deniégase la autorización solicitada por la peticionaria respecto del recurso hidrobiológico Merluza de cola, por configurarse la causal denegatoria del artículo 19 letra e) de la Ley General de Pesca y Acuicultura, en relación con lo dispuesto en el artículo 20 del mismo cuerpo legal y en el DS Nº 419 de 1999, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 18 de agosto de 2000.- Daniel Albarran Ruiz - Clavijo, Subsecretario de Pesca.
