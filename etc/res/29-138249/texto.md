@@ -1,0 +1,5 @@
+AUTORIZA A PESCAFINA S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA
+
+Por resolución No. 29 de 12 de Enero de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pescafina S.A., domiciliada en Santiago, para operar cuatro embarcaciones en construcción en el litoral de las Regiones VIII a XII, con las que podrá extraer los siguientes recursos: Merluza española, congrio dorado, congrio negro, bacalao, tollo, raya, merluza común, merluza de cola, marrajo, pejegallo, reineta, jurel, cabrilla, chancharro, merluza de tres aletas, cojinova, caballa, brótula, besugo y róbalo. Los recursos jurel y caballa no podrán extraerse en el litoral de la VIII Región. Se deniega autorización para extraer el recurso mero, de conformidad a lo dispuesto en el Decreto No. 439, de 1985, del Ministerio de Economía, Fomento y Reconstrucción. Se deroga la resolución No. 399, de 1987, que autorizó a la peticionaria para desarrollar actividades pesqueras.
+
+Valparaíso, 12 de Enero de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
