@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 698, de 30 de julio de 1997, se expropió el lote de terreno Nº 6, superficie 10.769 m2., rol de avalúo 1422-17, comuna de Rancagua, para la obra Conexión Vial, Camino Rancagua - Doñihue Ruta H - 30 - Ruta 5 y se acordó precio de indemnización con su propietario Sociedad Agrícola San Carlos Limitada, ascendente a la cantidad de $27.024.416.
+
+Fiscal del Ministerio de Obras Públicas.
