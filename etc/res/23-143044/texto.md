@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD INDUSTRIAL PESQUERA ALSINA Y COMPAÑIA PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 23, de 08 de Enero de 1987, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Industrial Pesquera Alsina y Compañia, con domicilio en Iquique y Santiago, para iniciar actividades pesqueras extractivas con las embarcaciones en construcción "San Bosco" y "Montserrat", pudiendo operar en el litoral comprendido entre las Regiones I a VIII, ambas inclusive, y capturar los siguientes recursos hidrobiológicos: sardina española, jurel, caballa, cojinova del Norte y del Sur, atún aleta amarilla y atún aleta larga, atendido lo dispuesto en el DS. No. 436, de 1986, y la solicitud de la peticionaria de 20 de diciembre de 1985.
+
+Valparaíso, 08 de Enero de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
