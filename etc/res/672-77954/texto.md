@@ -1,0 +1,3 @@
+Por resolución No. 672, de 23 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año a contar del 04 de julio de 1992, el plazo otorgado a SOCIEDAD MAR JORDAN LTDA., RUT No. 86.583.600-7, domiciliada en Arica, calle Barros Arana No. 3141, para sustituir la embarcación "Mar Azul", autorizada por la resolución No. 1239, de 1988, de esta Subsecretaría, siniestrada el 28 de enero de 1991.
+
+Valparaíso, 23 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
