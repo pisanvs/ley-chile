@@ -1,0 +1,3 @@
+Por resolución Nº 225, de 17 de febrero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la resolución Nº 232 de 1990, de esta Subsecretaría, que autorizó a la SOCIEDAD COMERCIAL E INDUSTRIAL AGROMAR LTDA., para instalar y operar un centro de cultivo ubicado en Laguna Comueno, Sector Quicaví, comuna de Quemchi, X Región, conforme lo dispuesto en el artículo 142 letra e), de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
