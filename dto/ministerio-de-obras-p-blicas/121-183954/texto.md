@@ -1,0 +1,3 @@
+Por decreto MOP Nº 121, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 37, superficie 21 m², rol de avalúo 3800-120, comuna de Puente Alto, para la obra "Mejoramiento Eje La Florida, El Peñón - Las Vizcachas, Sector Km. 6.980 a Km. 10.340, Camino Ruta G-25 - Camino Puente Alto" y se acordó el valor de indemnización con su propietario Juan de Dios Galaz Abarca y Otro, ascendente a la cantidad de $1.287.653.-
+
+Fiscal del Ministerio de Obras Públicas.
