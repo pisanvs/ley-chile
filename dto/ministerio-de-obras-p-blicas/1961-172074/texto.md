@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.961, de 16 de mayo de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 3, para la obra La Raya Queri, Rol K-693, Kms. 0.024,60 al 2.580, que figura a nombre de José Castillo Toledo, rol de avalúo 172-32, comuna de San Clemente, VII Región, superficie 247,30 m². La Comisión de Peritos fijó, con fecha 30 de septiembre de 1999, en la cantidad de $287.190. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
