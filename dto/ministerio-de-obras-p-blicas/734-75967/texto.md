@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 734, de 31 de julio de 1997, se expropió el lote de terreno Nº 34, superficie 528 M2., rol de avalúo 266-257, comuna de Carahue, obra Camino Carahue-Puerto Saavedra, sector I, y se acordó precio de indemnización con su propietario Suc. Segundo Hueche Curivil Tranamil, ascendente a la cantidad de $445.850. Fiscal del Ministerio de Obras Públicas.
+
+Fiscal del Ministerio de Obras Públicas.
