@@ -1,0 +1,3 @@
+Por decreto MOP Nº 252, de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº 34, superficie 2.245,0 m2, Rol de Avalúo Nº849-22, comuna de Traiguén, para la obra "Camino Mejoramiento Ruta R-90-P, Sector Traiguén - Lumaco, Km. 0,000 al Km. 21,86933, Tramo I Km. 0,080 al Km. 12,181", IX Región, y se acordó el valor de la indemnización con su propietaria Danubia Ester Fuentes Perazzo, ascendente a la cantidad de $3.376.870.-
+
+Fiscal del Ministerio de Obras Públicas.
