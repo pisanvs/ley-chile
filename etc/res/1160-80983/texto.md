@@ -1,0 +1,5 @@
+Por Resolución No. 1.160 de 03 de Septiembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modificase el numeral 2° de la Resolución No. 10, de 1990, de esta Subsecretaría, que autorizó a PESQUERA MULTIEXPORT S.A., RUT No. 96.529.530-5, domiciliado en la ciudad de Santiago, para ampliar actividades pesqueras, en el sentido de señalar las actuales características náuticas de la nave "Isabel S" autorizada por la mencionada Resolución.
+
+Autorízase a la peticionaria para extraer con la nave "Isabel S" en el litoral de las Regiones I a IV, el recurso Albacora o Pez espada, Xiphias gladius, con enmalle. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan;
+
+Valparaíso, 03 de Septiembre de 1991. Andrés Couve Rioseco, Subsecretario de Pesca.
