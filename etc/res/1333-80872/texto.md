@@ -1,0 +1,3 @@
+Por Resolución No. 1.333, de 22 de octubre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días a contar de esta fecha, el plazo otorgado a don JUAN GUILLERMO GAETE TORRES, R.U.T. No. 8.743.074-K, domiciliado en la ciudad de Copiapó, calle Salas No. 687, Depto. No. 43, en el numeral 4° de la Resolución No. 1.143, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 22 de octubre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
