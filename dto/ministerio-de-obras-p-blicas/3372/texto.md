@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.372, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs. 8 y 9, superficies 3.651,0 m² y 11.740,0 m², rol de avalúo 3281-7, comuna de Vilcún, para la obra Concesión Internacional Ruta 5. Tramo: Collipulli-Temuco; Sector II: Pillanlelbún-Gorbea, Novena Región y se acordó el valor de indemnización con su propietaria Sociedad Agrícola y Comercial Von Baer y Compañía Limitada, ascendente a la cantidad total de $88.230.860.-
+
+Fiscal del Ministerio de Obras Públicas.
