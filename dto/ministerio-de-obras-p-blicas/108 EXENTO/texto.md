@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 108 de fecha 25 de febrero de 2002, se expropiaron los lotes de terrenos Nºs 15-A y 15-C, superficie 1.699 y 40 m2 respectivamente, Rol de Avalúo Nº 180-2, comuna de San Nicolás, para la obra "Camino Ruta N-60 O, Sector Río Ñuble-Portezuelo, Km. 6.900.00 a Km. 28.833.35" y se acordó el valor de indemnización con su propietario Pedro Antonio Gutiérrez San Martín, ascendente a la cantidad de $906.889.
+
+- Fiscal del Ministerio de Obras Públicas.
