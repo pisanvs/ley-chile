@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº960, de fecha 28 de junio de 2002, se expropiaron los lotes de terreno Nºs. 85, 94 y 99, superficies 640 m², 276 m² y 219 m², respectivamente, rol de avalúo 159-98, comuna de Ranquil, VIII Región, para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas, Tramo II, km. 5,57900 al 10,19480'' y se acordó el valor de indemnización con su propietario don Guillermo Sergio León Pavon, ascendente a la cantidad de $1.139.436.-
+
+Fiscal del Ministerio de Obras Públicas.
