@@ -1,0 +1,3 @@
+Por resolución Nº 2.486 de 22 de diciembre de 1999 de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96110036, presentada por ROLANDO DEL RIO HORNUNG, para operar un centro de cultivo ubicado en un sector de Isla del Tránsito, Fiordo Aysén, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 22 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
