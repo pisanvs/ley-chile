@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.880, de 30 de septiembre de 1999, se expropió el lote de terreno Nº82-1, superficie 880,0 m², rol de avalúo 250-257, comuna de Lautaro, para la obra "Concesión Internacional Ruta 5; Tramo Collipulli-Temuco", Novena Región y se acordó el valor de indemnización con su propietaria Arlette Jenny Constant Durán, ascendente a la cantidad de $3.096.716.-
+
+Fiscal del Ministerio de Obras Públicas.
