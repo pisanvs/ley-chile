@@ -1,0 +1,3 @@
+Por Decreto MOP. No 353, de 31 de marzo de 1998, se expropiaron los lotes de terreno Nos. 6, 7 y 13, superficies 144, 620 y 95 m2. respectivamente, roles de avalúo 2452- 4 y 3502-1, comuna de Valdivia, para la obra Camino Niebla Los Molinos Ruta T-352, Sector Niebla Los Molinos y se acordó precio de indemnización con sus propietarios Floridema González Carrillo y otros y Juan Carios Ortiz Fuentes, ascendente a las cantidades de $11.081.632.- para los lotes 6 y 7 y $1.386.51O.- para el lote 13.-
+
+Fiscal del Ministerio de Obras Públicas.
