@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.152, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº54, superficie 2.045 m2, rol de avalúo 2141-51, comuna de Puerto Montt, para la obra "Camino Ruta V-505, Sector Pto. Varas - Los Alerces - Pto. Montt, Km. 0,000 a Km. 16,340" y se acordó el valor de indemnización con su propietario Club Aéreo Puerto Montt, ascendente a la cantidad de $16.041.020.-
+
+Fiscal del Ministerio de Obras Públicas.
