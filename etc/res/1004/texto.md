@@ -1,0 +1,5 @@
+Por Resolución N° 1.004 de 30 de Noviembre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a LUCK FRIEND CHILE LTDA., R.U.T. N° 78.363.560-7, para iniciar actividades pesqueras de transformación en orden a instalar y operar una planta industrial en la VIII Región, ubicada en Manuel Rodríguez N° 4055, Chiguayante, donde procesará en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Secado artificial y harina de algas: Cochayuyo, Luga-Luga y Pelillo. Los recursos serán adquiridos a terceros.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 30 de Noviembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
