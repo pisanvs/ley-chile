@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.537, de 16 de octubre de 2003, de esta Subsecretaría, autorízase a SOUTHPACIFIC KORP S.A., para ampliar actividades pesqueras extractivas con la nave "Guanaye 3", en la VIII y X Regiones, por fuera de las 60 millas marinas, con arrastre de media agua, donde podrá capturar los siguientes recursos hidrobiológicos: Anchoveta o anchoa, Sardina común, Jurel, Merluza de cola, Agujilla, Bonito, Caballa, Cojinoba del norte Seriolella violacea, Cojinoba del sur, Cojinoba moteada, Dorado, Machuelo o tritre, Palometa, Sardina española, Jurel fino, Anchoa blanca, Sardina redonda, Vinciguerria.
+
+Valparaíso, 16 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
