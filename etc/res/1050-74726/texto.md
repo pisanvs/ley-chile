@@ -1,0 +1,7 @@
+Por Resolución Nº 1.050, de 18 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA COLOSO S.A., para ampliar actividades pesqueras extractivas con la nave "Alerce", Matrícula 2261, autorizada por Resoluciones Nº 278 de 1980, Nº 1.214 y Nº 1.273 de 1988, Nº 753 de 1993 y Nº 1.049 de 1997, todas de esta Subsecretaría, en orden a realizar actividades pesqueras con la nave "Alerce", en el litoral de la X Región, por fuera del área de reserva artesanal, donde podrá capturar con red de cerco los siguientes recursos hidrobiológicos: Agujilla, Anchoveta, Bonito, Caballa, Cabinza, Cojinoba del norte, Jurel, Machuelo, Merluza de cola, Palometa, Sardina común y Sierra.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria respecto de las áreas de pesca y recursos hidrobiológicos no contemplados en la presente Resolución, en virtud de los informes técnicos y normas legales y reglamentarias.
+
+Valparaíso, 18 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
