@@ -1,0 +1,5 @@
+AUTORIZA A EMPRESA PESQUERA TARAPACA S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO AUTORIZACION QUE INDICA
+
+Por resolución No. 571, de 04 de Agosto de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, pronunciándose sobre solicitud de Empresa Pesquera Tarapacá S.A. de fecha 09 de enero de 1986, se autoriza a dicha empresa, domiciliaria en Santiago, para operar la embarcación "Nortemar I", en el litoral de las Regiones I y II, en labores extractivas de Anchoa, sardina española, jurel, caballa y agujilla, que destinará a harina y aceite y la especie bonito para congelado. Asimismo déjase sin efecto la autorización otorgada a Empresa Pesquera Tarapacá S.A., para operar las embarcaciones: "Oficina Rica Aventura", "Oficina Sacramento" y "Marta Isabel", por resolución No. 285, de 1981, de la Subsecretaría de Pesca.
+
+Valparaíso, 04 de Agosto de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
