@@ -1,0 +1,3 @@
+Por resolución Nº 2.622, de 14 de diciembre de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Limarí, IV Región, individualizada en el artículo 1º Nº 16 del DS Nº 509 de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION GREMIAL DE PESCADORES ARTESANALES CALETA RIO LIMARI.
+
+Valparaíso, 14 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
