@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 2.542, de 30 de noviembre de 1998, se rectificó el decreto MOP Nº 882, de fecha 30 de junio de 1998, que autorizó la expropiación del lote de terreno Nº 6, para la obra Camino Ruta 5 Sur, Sector Acceso Norte a Curicó; en lo que respecta a la superficie de dicho lote que es 281 M2. y a la aprobación de un nuevo Convenio Directo de precio con doña María Elena Avendaño Puebla, ascendente a $ 25.726.204.
+
+- Fiscal del Ministerio de Obras Públicas.
