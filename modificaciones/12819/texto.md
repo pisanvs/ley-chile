@@ -1,0 +1,1 @@
+Modifica el artículo 1° y reemplaza el 3° de la ley 12.068, de 24 de julio de 1956, que autorizó a la Municipalidad de Tomé para contratar un empréstito con el fin de atender a diversas obras de adelanto local.
