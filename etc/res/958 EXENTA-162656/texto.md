@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 958 de 26 de Julio de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a las parcelas N°s. 1 a la 17, sitios N°s. 1 al 16 y Bien Común General N° 2 del proyecto de parcelación "Las Rosas", formado por predio "Las Rosas", ubicado en la comuna de Longaví, provincia de Linares, Séptima Región. Los derechos de agua se extraen del Río Liguay, Estero de La Coipa, Estero Las Raíces, Estero Tengue Tengue, Estero Los Puquios y Estero que tiene su origen en Fundo Las Rosas.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+- Director Ejecutivo.
