@@ -1,0 +1,3 @@
+Por resolución Nº 1.742, de 1 de diciembre de 1998, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 94103033, presentada por ARTURO SIMON ANTIGUAL ARRIAGADA, para operar un centro de cultivo ubicado entre Punta Pello y Punta Dequio, Estero Castro, comuna de Castro, provincia de Chiloé, X Región.
+
+Valparaíso, 1 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
