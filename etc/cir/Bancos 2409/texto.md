@@ -4604,7 +4604,7 @@ No se aplica la caducidad antes señalada a las siguientes acreencias:
 
 a) Depósitos y captaciones a plazo indefinido o con cláusula de renovación automática, incluidas las cuentas de ahorro;
 
-b) Boletas o depósitos de garantía;
+b) Boletas o depósitos de garantía, salvo cuando se les haya fijado una fecha de vencimiento, caso en el cual el plazo de caducidad regirá a partir de esa fecha;
 
 c) Sumas recibidas por cheques viajeros; y,
 
@@ -4881,6 +4881,8 @@ Para el cumplimiento de la exigencia señalada, las instituciones financieras de
 El encaje de que trata el presente Capítulo será calculado por "períodos mensuales", que corresponderán al lapso comprendido entre el día 9 de un mes y el día 8 del mes siguiente, sobre la base de los saldos promedios que registren en el respectivo "período mensual" las distintas cuentas, tanto de activo como de pasivo, que se consideran para determinar la posición de encaje."
 
 Los promedios señalados precedentemente, se determinarán considerando los saldos vigentes durante los días corridos del respectivo período mensual.
+
+No obstante lo anterior, el encaje promedio mantenido por las instituciones financieras desde el día 9 hasta el día 23 de cada mes, no podrá ser inferior al 90% del encaje promedio exigido en el mismo período. Para estos efectos se deberán considerar, igualmente, los días corridos de dicho período.
 
 2.- Equivalencia en dólares de los saldos en otras monedas extranjeras.
 
@@ -17624,9 +17626,11 @@ Conforme a lo dispuesto por el Banco Central de Chile en el Capítulo III.B.2 de
 
 Los importes de las operaciones activas y pasivas se computarán sobre la base de los saldos contables que concurren a la determinación de las correspondientes relaciones de acuerdo con estas instrucciones. Dichas relaciones se basarán en los saldos vigentes y, por lo tanto, deberán mantenerse diariamente encuadradas dentro de los márgenes permitidos.
 
-2.- Capital Pagado y Reservas.
+2.- Capital Básico y Capital Pagado y Reservas.
 
-El Capital Pagado y Reservas que se considerará para los efectos de que trata este Capítulo, debe corresponder al definido en el Capítulo 12-1 de esta Recopilación Actualizada de Normas.
+El "capital básico" para los efectos del margen de operaciones en moneda extranjera tratado en el título IV de este Capítulo, corresponderá al monto conformado por el capital pagado, las reservas y las demás cuentas patrimoniales que, de acuerdo a las instrucciones contables de esta Superintendencia, deben incluirse en las partidas 4305 a 4405.
+
+Por otra parte, el "capital pagado y reservas" para la aplicación de los márgenes de operaciones a más de un año plazo y para operaciones no reajustables, tratados en los títulos II y III de este Capítulo, corresponderá al capital básico antes mencionado, menos el monto correspondiente al capital asignado a sucursales en el exterior, cuando corresponda, y más el saldo de la cuenta "Bonos subordinados computados como capital", de la partida 9700, cuando proceda, según lo previsto en las disposiciones transitorias del Capítulo 12-1.
 
 3.- Equivalencia en moneda chilena de las operaciones en monedas extranjeras.
 
@@ -17660,13 +17664,47 @@ Para los fines de que trata este titulo, los bancos y sociedades financieras con
 
 IV.- MARGEN DE OPERACIONES EN MONEDA EXTRANJERA.
 
-La suma de los fondos disponibles, las colocaciones, inversiones y otros activos en moneda extranjera, en moneda nacional documentados en moneda extranjera y en moneda nacional reajustables por la variación del tipo de cambio, no podrá ser superior ni inferior a la suma de las obligaciones en moneda extranjera, en moneda nacional documentadas en moneda extranjera y en moneda nacional reajustables por la variación del tipo de cambio, en más de un 20% del capital pagado y reservas de la respectiva institución financiera.
+1.- Descalce total.
 
-Las sucursales de bancos extranjeros que ingresen o hayan ingresado capitales al país al amparo del Decreto Ley N° 600 de 1974 y sus modificaciones, o de los artículos 14, 15 ó 16 del Decreto Supremo N° 471 de 1977, del Ministerio de Economía, Fomento y Reconstrucción, así como los bancos o sociedades financieras nacionales que reciban o hayan recibido capital de la misma naturaleza, podrán exceder el referido límite del 20%, en una suma igual al monto de los aportes recibidos más las utilidades retenidas, susceptibles de ser remesadas al exterior, sólo en los casos en que los activos superen a los pasivos. Se entenderá para estos efectos como utilidades susceptibles de ser remesadas al exterior, aquellas que hayan sido reconocidas como tales, mediante el correspondiente certificado emitido por esta Superintendencia, sea que ellas se mantengan en moneda chilena o extranjera.
+La suma de los conceptos que a continuación se indican, no podrá ser superior al 20% del Capital Básico:
 
-Asimismo, los bancos podrán exceder el mencionado limite del 20%, en un monto igual a sus provisiones y reservas en moneda extranjera, excluidas las provenientes de utilidades pendientes de remesarse al exterior, únicamente en los casos en que los activos sean superiores a los pasivos.
+a) La diferencia absoluta, de los activos menos los pasivos, de cada una de las monedas extranjeras correspondientes a países cuya deuda externa esté clasificada en categoría AAA. En este grupo se computarán también las inversiones en oro.
 
-Para los fines de que trata este titulo se considerarán las operaciones que deben registrarse en las partidas o cuentas que se indican en el Anexo N°3 de este Capítulo.
+b) La diferencia absoluta, multiplicada por el factor 1,5, de los activos menos los pasivos, de cada una de las monedas extranjeras correspondientes a países cuya deuda externa esté clasificada en categoría AA.
+
+c) La diferencia absoluta, multiplicada por el factor 5, de los activos menos los pasivos, de cada una de las monedas extranjeras correspondientes a países distintos a los señalados precedentemente.
+
+2.- Descalce de activos sobre pasivos.
+
+2.1.- Descalce.
+
+La suma de los conceptos que a continuación se indican, no podrá ser superior al 20% del Capital Básico de la respectiva institución financiera:
+
+a) La diferencia positiva de los activos menos los pasivos de cada una de las monedas extranjeras correspondientes a países cuya deuda externa esté clasificada en categoría AAA, deducido su respectivo margen adicional. También se incluirán en este grupo las diferencias correspondientes a inversiones en oro.
+
+b) La diferencia positiva, deducido su respectivo margen adicional, multiplicada por el factor 1,5, de los activos menos los pasivos de cada una de las monedas extranjeras correspondientes a países cuya deuda externa esté clasificada en categoría AA.
+
+c) La diferencia positiva, deducido su respectivo margen adicional, multiplicada por el factor 5, de los activos menos los pasivos de cada una de las monedas extranjeras correspondientes a países distintos a los señalados en las letras a) y b) precedentes.
+
+2.1.- Margen adicional.
+
+El margen adicional para los descalces de cada una de las monedas, estará compuesto por los siguientes montos en la respectiva moneda:
+
+a) El capital básico de la institución financiera que esté constituido por el monto de los aportes de capital ingresados al país al amparo del D.L. 600 y sus modificaciones, antes del 31 de diciembre de 1998. Su monto será computado en la moneda extranjera en que se haya ingresado el aporte de capital al país.
+
+b) Las utilidades retenidas antes del 31 de agosto de 1998, susceptibles de ser remesadas al exterior de conformidad con las disposiciones del D.L. 600. Se entenderá para estos efectos como utilidades susceptibles de ser remesadas al exterior, aquellas que hayan sido reconocidas como tales, mediante el correspondiente certificado emitido por esta Superintendencia, sea que ellas se mantengan en moneda chilena o extranjera. Estos importes se computarán en la moneda en que se hayan ingresado al país los aportes de capital acogidos al D.L. 600.
+
+c) Las provisiones y reservas en moneda extranjera, constituidas antes del 31 de agosto de 1998, excluidas las que provengan de utilidades pendientes de ser remesadas al exterior.
+
+3.- Clasificación de la deuda externa.
+
+Las clasificaciones de la deuda externa antes mencionadas, corresponderán a las efectuadas por alguna de las empresas clasificadoras internacionales señaladas en el Capítulo III.B.5 del Compendio de Normas Financieras del Banco Central de Chile. Las categorías que se indican, o su equivalente, corresponden a la deuda en moneda extranjera y al nivel mínimo de clasificación exigido para esos efectos.
+
+4.- Cómputo de los activos y pasivos.
+
+El total de activos de cada moneda corresponderá a la suma de los fondos disponibles, las colocaciones, inversiones y demás activos, incluidos los valores nominales correspondientes a instrumentos derivados, en moneda extranjera, en moneda nacional documentados en moneda extranjera, en moneda nacional reajustables por la variación del tipo de cambio y a las inversiones en oro, en su caso. El total de pasivos, a su vez, corresponderá a las captaciones, préstamos y demás pasivos, incluidos los valores nominales correspondientes a instrumentos derivados, en moneda extranjera, en moneda nacional documentados en moneda extranjera y en moneda nacional reajustables por la variación del tipo de cambio.
+
+El computo alcanza, en consecuencia, a todos los saldos que, teniendo las condiciones descritas, se incluyen en las partidas del archivo C01, con excepción de las cuentas de ajuste y control.
 
 V.- OTRAS DISPOSICIONES
 
@@ -17682,107 +17720,57 @@ De acuerdo con lo expresado, los referidos prestamos deberán registrarse median
 
 El mismo procedimiento se aplicara para determinar el plazo de otras operaciones activas o pasivas que contemplen servicio en cuotas y, en consecuencia, registrar las operaciones según la estructura de las partidas y cuentas dispuestas por esta Superintendencia.
 
-1.2.- Registro de saldos en cuentas de orden para efectos de control.
+1.2. Capital, utilidades, provisiones y reservas.
 
-A fin de extraer de los saldos contables que se informan a esta Superintendencia los datos necesarios para determinar los montos a los cuales ascienden todas las operaciones activas o pasivas así como para establecer los márgenes adicionales que contemplan las normas del Banco Central de Chile, las instituciones financieras deberán complementar el registro contable de las operaciones señaladas en los literales siguientes, imputando en las cuentas de orden que en ellos se indican los importes que se señalan, previa reversión, cuando corresponda, de los saldos provenientes del día hábil anterior.
+Las instituciones financieras que mantengan capitales ingresados al país antes del 31 de diciembre de 1998, al amparo del DL 600 de 1974 y sus modificaciones, deberán registrar el correspondiente importe en moneda extranjera en la cuenta de orden "Capital ingresado por DL 600 antes del 31.12.98" de la partida 9705.
 
-a) Operaciones reajustables por la variación del tipo de cambio.
+Por otra parte, dichas instituciones deberán registrar en la cuenta de orden "Utilidades remesables DL 600 anteriores al 31.08.98", de la partida 9705 antes mencionada, el importe al cual asciende, en moneda extranjera, el total de las utilidades remesables anteriores al 31 de agosto de 1998, considerando para el efecto el equivalente en moneda extranjera de las reservas provenientes de utilidades, más su correspondiente corrección monetaria calculada al cierre de cada mes.
 
-Las instituciones financieras que mantengan activos o pasivos reajustables por la variación del tipo de cambio, deberán registrar los saldos correspondientes a esas operaciones en las siguientes cuentas de orden, según corresponda: "Colocaciones reajustables según tipo de cambio", "Compras con pacto reajustables según tipo de cambio"; "Inversiones en depósitos a plazo reajustables según tipo de cambio", "Otras inversiones financieras reajustables según tipo de cambio"; "Otros activos reajustables según tipo de cambio"; "Depósitos y captaciones reajustables según tipo de cambio"; "Otras obligaciones reajustables según tipo de cambio" y, "Otros pasivos reajustables según tipo de cambio".
-
-"Estas cuentas forman parte de la partida 9705 "Control de operaciones activas y pasivas".
-
-En la cuenta "Otras inversiones financieras reajustables según tipo de cambio", se incluirán los saldos contabilizados de las inversiones financieras que deben registrarse en pesos y que se reajustan por la variación del tipo de cambio, incluidos los de aquellas inversiones en instrumentos expresados en moneda extranjera y pagaderos en pesos que reciben dicho tratamiento contable según lo dispuesto en el Capítulo 8-21 de esta Recopilación Actualizada de Normas.
-
-b) Capital, ingresado y utilidades remesables por la ex Ley de Cambios Internacionales o Decreto Ley 600.
-
-Las instituciones financieras que mantengan capitales ingresados al país al amparo de los artículos 14, 15 ó 16 de la ex Ley de Cambios Internacionales o del DL 600 de 1974 y sus modificaciones, deberán registrar el correspondiente importe en moneda extranjera en la cuenta de orden "Capital ingresado por DL. 600 o ex Ley de Cambios Internacionales".
-
-Por otra parte, dichas instituciones deberán registrar en la cuenta de orden "Utilidades remesables DL 600 o ex Ley de Cambios Internacionales", de la partida 9705 antes mencionada, el importe al cual asciende, en moneda extranjera, el total de las utilidades remesables, considerando para el efecto el equivalente en moneda extranjera de la reserva legal y otras reservas provenientes de utilidades, más su correspondiente corrección monetaria calculada al cierre de cada mes.
+Además, las instituciones financieras deberán registrar las provisiones y reservas en moneda extranjera, constituidas antes del 31 de agosto de 1998, en la cuenta "Provisiones y reservas anteriores al 31.08.98", de la partida 9705.
 
 2.- Sanciones.
 
-Las entidades financieras que se excedan de los limites a que se refiere el presente Capítulo, podrán ser sancionadas por esta Superintendencia, según lo previsto en el artículo 19 del D.L. N° 1.097, de 1975.
+Las entidades financieras que se excedan de los limites a que se refiere el presente Capítulo, podrán ser sancionadas por esta Superintendencia, según lo previsto en el artículo 19 de la Ley General de Bancos.
 
 Para ese efecto, se tendrá como una infracción a las presentes instrucciones el incumplimiento dentro de un mes calendario transcurrido, de alguno de los límites que se tratan en este Capítulo.
 
 ANEXO N°1
 
-COMPUTO DE LAS RELACIONES ENTRE OPERACIONES ACTTVAS Y PASIVAS A MAS DE UN AÑO PLAZO
+COMPUTO DE LAS RELACIONES ENTRE OPERACIONES ACTIVAS Y PASIVAS A MAS DE UN AÑO PLAZO
 
-De acuerdo con lo indicado en el titulo II de este Capítulo, la relación entre operaciones activas y pasivas a más de un año plazo queda establecida considerando lo siguiente
+De acuerdo con lo indicado en el título II de este Capítulo, la relación entre operaciones activas y pasivas a más de un año plazo queda establecida considerando lo siguiente:
 
-IMAGEN.
+.
 
-De acuerdo con las normas vigentes relativas a estas relaciones, las colocaciones pactadas a mas de un año plazo no pueden exceder la suma de los depósitos, captaciones y otras obligaciones pactadas a mas de un año plazo, más el capital pagado y reservas que no se encuentre, por convención, aplicado a inversiones en acciones, debentures y activo fijo.
+De acuerdo con las normas vigentes relativas a estas relaciones, las colocaciones pactadas a más de un año plazo no pueden exceder la suma de los depósitos, captaciones y otras obligaciones pactadas a más de un año plazo, más el capital pagado y reservas que no se encuentre, por convención, aplicado a inversiones en acciones, debentures y activo fijo.
 
-Dentro de los conceptos de depósitos y captaciones y otras obligaciones se incluyen las obligaciones por bonos corrientes o bonos subordinados, deducidos de estos la parte computada como capital que, a su vez, se agrega al capital pagado y reservas. Las inversiones en acciones, debentures y activo fijo a que se refieren las normas, se toman como deducibles del capital Se consideran dentro del concepto de acciones, todas las inversiones en sociedades, aun cuando se trate de derechos en sociedades, de manera que se computa el saldo del activo fijo en su conjunto Por otra parte, las inversiones en debentures incluyen aquellas en instrumentos de propia emisión junto con los emitidos por terceros (todo ello según el saldo contable, el que excluye los ajustes a valor de mercado).
+Dentro de los conceptos de depósitos y captaciones y otras obligaciones se incluyen las obligaciones por bonos corrientes o bonos subordinados, deducidos de estos la parte computada como capital que, a su vez, se agrega al capital pagado y reservas. Las inversiones en acciones, debentures y activo fijo a que se refieren las normas, se toman como deducibles del capital. Se consideran dentro del concepto de acciones, todas las inversiones en sociedades, aun cuando se trate de derechos en sociedades, de manera que se computa el saldo del activo fijo en su conjunto. Por otra parte, las inversiones en bonos o debentures incluyen el saldo contable de los bonos registrados en inversiones financieras, sin considerar sus ajustes a valor de mercado.
 
-El cumplimiento o incumplimiento del margen para operaciones a mas de un año (límite al que pueden llegar las colocaciones) queda determinado, conforme a esta relación, en el indicador "E Margen disponible o exceso" Un resultado positivo (mayor que cero) reflejará que se está cumpliendo con la normativa, en tanto que un resultado negativo (menor que cero) indica un exceso de colocaciones pactadas a más de un año
+El cumplimiento o incumplimiento del margen para operaciones a más de un año (límite al que pueden llegar las colocaciones) queda determinado, conforme a esta relación, en el indicador "E Margen disponible o exceso". Un resultado positivo (mayor que cero) reflejará que se está cumpliendo con la normativa, en tanto que un resultado negativo (menor que cero) indica un exceso de colocaciones pactadas a más de un año.
 
-Los indicadores antes señalados corresponden a la suma de los saldos contables que, de acuerdo con las instrucciones vigentes de esta Superintendencia, deben incluirse en las partidas que se indican a continuación, debiendo tomarse para el efecto el saldo total de cada la partida, deduciendo el saldo de las cuentas que se indican en algunos casos
+Los indicadores antes señalados corresponden a la suma de los saldos contables que, de acuerdo con las instrucciones vigentes de esta Superintendencia, deben incluirse en las partidas que se indican a continuación, debiendo tomarse para el efecto el saldo total de cada partida, deduciendo el saldo de las cuentas que se indican en algunos casos:
 
-IMAGEN.
+.
 
-Sin perjuicio de la información que puede solicitarse para verificar el cumplimiento de los límites en el curso del mes, los datos para determinar la situación al cierre de cada mes los obtendrá este Organismo mediante el procesamiento de los saldos informados en el archivo C01.
-
-> **Nota.** La letra C) de la Circular 2793, SBIF, promulgada el 05.10.1994, modifica el presente Anexo, a fin de incorporar la cuenta correspondiente a inversiones en bancos extranjeros, en los indicadores del Sistema Contable relativos al Capital pagado y reservas.
-
-> **Nota.** NOTA 1 La letra G, del N° 7, I) de la Circular 2867, SBIF, promulgada el 17.09.1996, modifica el presente Anexo, a fin de salvar un error en la descripción del indicador "B2", eliminar las referencias a bonos de propia emisión y actualizar los datos correspondientes a la cartera vencida de acuerdo con las nuevas instrucciones.
+Sin perjuicio de la información que puede solicitarse para verificar el cumplimiento de los límites en el curso del mes, los datos para determinar la situación al cierre de cada mes los obtendrá este Organismo mediante el procesamiento de los saldos informados en el archivo COI.
 
 ANEXO N°2
 
 COMPUTO DE LAS RELACIONES ENTRE OPERACIONES ACTIVAS Y PASIVAS EN MONEDA CHILENA NO REAJUSTABLES
 
-De acuerdo con lo indicado en el titulo III de este Capitulo, la relación entre operaciones activas y pasivas en moneda chilena no reajustables queda establecida considerando lo siguiente:
+De acuerdo con lo indicado en el título III de este Capítulo, la relación entre operaciones activas y pasivas en moneda chilena no reajustables queda establecida considerando lo siguiente:
 
-IMAGEN.
+.
 
-Las normas vigentes establecen un limite de descalce para operaciones en moneda chilena no reajustables, entre el activo constituido por las colocaciones e inversiones y el pasivo circulante neto de obligaciones a la vista, igual a dos veces el capital pagado y reservas. Dicho límite se puede sobrepasar en caso de un exceso de activos, por un monto igual a la diferencia entre las obligaciones a la vista y el disponible.
+Las normas vigentes establecen un límite de descalce para operaciones en moneda chilena no reajustables, entre el activo constituido por las colocaciones e inversiones y el pasivo circulante neto de obligaciones a la vista, igual a dos veces el capital pagado y reservas. Dicho límite se puede sobrepasar en caso de un exceso de activos, por un monto igual a la diferencia entre las obligaciones a la vista y el disponible.
 
-El cumplimiento o incumplimiento del margen para operaciones en moneda chilena no reajustables (limite al que puede llegar la suma de las colocaciones más las inversiones de ese tipo) queda determinado, conforme a esta relación, en el indicador "Ñ Posición final no reajustables". Un resultado positivo (mayor que cero) reflejará que se está cumpliendo con la normativa, en tanto que un resultado negativo (menor que cero) indica un exceso.
+El cumplimiento o incumplimiento del margen para operaciones en moneda chilena no reajustables (límite al que puede llegar la suma de las colocaciones más las inversiones de ese tipo) queda determinado, conforme a esta relación, en el indicador "Ñ Posición final no reajustables". Un resultado positivo (mayor que cero) reflejará que se está cumpliendo con la normativa, en tanto que un resultado negativo (menor que cero) indica un exceso.
 
-Los indicadores antes señalados corresponden a la suma de los saldos contables que, de acuerdo con las instrucciones vigentes de esta Superintendencia, deben incluirse en las partidas que se indican a continuación, considerando solamente aquellos saldos que, al tratarse del cierre de un mes, deben informarse en moneda chilena no reajustable en el archivo C01
+Los indicadores antes señalados corresponden a la suma de los saldos contables que, de acuerdo con las instrucciones vigentes de esta Superintendencia, deben incluirse en las partidas que se indican a continuación, considerando solamente aquellos saldos que, al tratarse del cierre de un mes, deben informarse en moneda chilena no reajustable en el archivo CO1:
 
-IMAGEN.
+.
 
-> **Nota.** La letra E) del N° 1, de la Circular 2796, SBIF, promulgada el 14.11.1994, modifica el presente Anexo, a fin de incorporar las cuentas correspondientes a los contratos Forward UF-Pesos, en los indicadores del sistema contable relativos al cómputo de operaciones activas y pasivas.
-
-> **Nota.** NOTA 1 La letra G, del N° 7, I) de la Circular 2867, SBIF, promulgada el 17.09.1996, modifica el presente Anexo, a fin de salvar un error en la descripción del indicador "B2", eliminar las referencias a bonos de propia emisión y actualizar los datos correspondientes a la cartera vencida de acuerdo con las nuevas instrucciones.
-
-ANEXO N° 3
-
-COMPUTO DE LAS RELACIONES ENTRE OPERACIONES ACTIVAS Y PASIVAS EN MONEDA EXTRANJERA
-
-De acuerdo con lo indicado en el título IV de este Capítulo, la relación global entre operaciones activas y pasivas en moneda extranjera queda establecida considerando lo siguiente:
-
-IMAGEN.
-
-Las normas vigentes establecen un limite de descalce entre los activos y pasivos hasta por un monto equivalente al 20% del capital pagado y reservas. Dicho límite se puede sobrepasar en caso de un exceso de activos, por la parte que corresponda a reservas y provisiones en moneda extranjera más las correspondientes a utilidades remesables y el capital ingresado al país al amparo del DL 600 o de los artículos 14, 15 ó 16 del D.S. N° 471 de Hacienda, de 1977.
-
-Las relaciones están establecidas en términos de todos los activos y pasivos en moneda extranjera, expresados en moneda extranjera o reajustables por la variación del tipo de cambio. Las operaciones incluyen los intereses por cobrar o por pagar, aun cuando éstos se devenguen en moneda chilena.
-
-El valor del indicador "W Posición final moneda extranjera", debe corresponder a la suma de los valores de los indicadores "U" y "V" precedentes cuando el indicador "R" muestra una "sobreactivación", es decir, un valor positivo. Si el indicador "R" fuere negativo, la posición final (indicador W) corresponderá al valor del indicador "U Margen disponible o exceso", ya que el margen adicional sólo puede ser utilizado para cubrir sobreactivaciones.
-
-El cumplimiento o incumplimiento del margen para operaciones registradas en moneda extranjera o reajustables por la variación del tipo de cambio queda en consecuencia determinado por el indicador "W Posición final moneda extranjera". Un resultado positivo refleja que se está cumpliendo con la normativa, en tanto que un resultado negativo indica un descalce.
-
-Los indicadores antes señalados corresponden a la suma de los saldos contables de las cuentas que, de acuerdo con las instrucciones vigentes de esta Superintendencia, deben incluirse en las partidas que se indican a continuación, debiendo tomarse para el efecto:
-
-a) Todos los saldos registrados en moneda extranjera (es decir, la moneda extranjera a nivel de partida), salvo en aquellos casos en que el indicador aparece con el signo "(#)", el que se obtiene de cuentas que por su naturaleza no se registran en moneda extranjera, y,
-
-b) Los saldos registrados en moneda chilena en las cuentas de intereses, por cobrar o por pagar, de las partidas que se mencionan, que tienen el calificador "3" en la 10-2- posición ("xxx.xxx.00.3").
-
-IMAGEN.
-
-Sin perjuicio de la información que puede solicitarse para verificar el cumplimiento de los límites en el curso del mes, los datos para determinar la situación al cierre de cada mes los obtendrá este Organismo mediante el procesamiento de los saldos informados en el archivo C01.
-
-> **Nota.** La letra G, de la Circular 2701, SBIF, promulgada el 27.08.1992, modifica el presente Anexo, a fin de actualizar sus referencias a partidas; se elimina la mención a las partidas 1625 y 3625, actualmente no vigentes, se agregan las partidas 2126 y 4126 y se remplaza una cuenta.
-
-> **Nota.** NOTA 1 El N° 2.1 del Numeral 2 de la Circular 2752, SBIF, promulgada el 10.08.1993, de acuerdo a las con las instrucciones de los Capítulos 13-2 y 13-23 adjuntos, se crean las partidas 2127 y 4127 con el nombre "Operaciones a futuro" y se eliminan las partidas 2125, 2126, 4125 y 4126. Además, se modifican los nombres de las partidas 9550 y 9551, las que pasan a denominarse "Contratos a futuro" y "Contratos de protección de tasas de interés", respectivamente.
-
-> **Nota.** NOTA 2 La letra B) de la Circular 2789, SBIF, promulgada el 02.09.1994, modifica el presente Anexo, en lo que concierne a la definición de los indicadores que contemplan el cómputo del saldo de la Posición de Cambios.
-
-> **Nota.** NOTA 3 La letra G, del N° 7, I) de la Circular 2867, SBIF, promulgada el 17.09.1996, modifica el presente Anexo, a fin de salvar un error en la descripción del indicador "B2", eliminar las referencias a bonos de propia emisión y actualizar los datos correspondientes a la cartera vencida de acuerdo con las nuevas instrucciones.
+Sin perjuicio de la información que puede solicitarse para verificar el cumplimiento de los límites en el curso del mes, los datos para determinar la situación al cierre de cada mes los obtendrá este Organismo mediante el procesamiento de los saldos informados en el archivo CO1.
 
 CAPITULO 12-10 (Bancos y Financieras)
 
