@@ -1,0 +1,3 @@
+Por resolución Nº 928, de 15 de mayo de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110605 presentada por PESCA CHILE S.A., para instalar y operar un centro de cultivo ubicado en Isla Benjamín, Canal Bynon, Estero Chico, Caleta Norte, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 15 de mayo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
