@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 571, de 30 de abril de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 1, 2, 3 y 4, para la obra Puente Chinchihuapi, Camino V-86, provincia de Llanquihue, X Región, que figuran a nombre de Loebel Doerner Ana Celia y Díaz Díaz Jorge Omar, roles de avalúo 2120-23 y 2119-35, superficies 1.588 m2.; 1.364 m2;
+
+1.836 m2. y 2.296 m2., comuna de Puerto Montt. La comisión de peritos, con fecha 25 de octubre de 2000, fijó la indemnización provisional en las cantidades de $337.600, lote 1, $322.800, lote 2, $1.147.200, lote 3 y $1.109.200, lote 4, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
