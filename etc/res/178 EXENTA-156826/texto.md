@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 178 de 18 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden Sector transferido del predio "Resto de la Hijuela Primera o de Las Casas de la Hacienda Callejones de Graneros" de la comuna de Codegua, Sexta Región; y a las parcelas N°s 1 a la 7 del proyecto de parcelación "Callejones" formado por el predio referido.- Los derechos de agua se extraen del canal Rafaelino derivado del río Cachapoal. Publicación hecha conforme Art. 13, Ley N° 18.377.-
+
+Director Ejecutivo.
