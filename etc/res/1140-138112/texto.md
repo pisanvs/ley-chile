@@ -1,0 +1,3 @@
+Por resolución Nº 1.140, de 16 de junio de 1999, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 1.384 de 1990 y Nº 947 de 1995, ambas de esta Subsecretaría, que autorizaron al SINDICATO DE TRABAJADORES INDEPENDIENTES, MARISCADORES Y ALGUEROS ''PUENTE MALDONADO'' DE ANCUD, para instalar y operar el centro de cultivo ubicado en Golfo de Quetalmahue, comuna de Ancud, provincia de Chiloé, X Región.
+
+Valparaíso, 16 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
