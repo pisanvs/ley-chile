@@ -1,0 +1,35 @@
+SUSPENDE TRANSITORIAMENTE LAS NORMAS QUE SEÑALA Decreto ley N° 43.- Santiago, 24 de Septiembre de 1973.- Vistos: lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973,
+
+Teniendo presente:
+
+La necesidad de determinar el estado de la Hacienda Pública como paso previo para la formulación de una política económica global que deberá aplicarse en el futuro y por consiguiente, la absoluta conveniencia de no modificar la situación vigente en materia de sueldos, salarios y pensiones.
+
+La Junta de Gobierno de la República de Chile ha dado su aprobación al siguiente,
+
+Decreto ley:
+
+#### Artículo 1°
+
+Suspéndense transitoriamente todas las normas cualquiera que fuere su naturaleza u origen, relativas a determinación o reajustes de sueldos, salarios, asignaciones, beneficios, regalías y remuneraciones en general, tanto para el sector público como privado.
+
+#### Artículo 2°
+
+Suspéndense, transitoriamente, todos los mecanismos automáticos de reajustes de pensiones y de revalorización de las mismas establecidas en la legislación vigente.
+
+De igual modo, quedan transitoriamente suspendidos los mecanismos automáticos de reajustes de remuneraciones mínimas, tales como sueldos vitales, salario mínimo obrero u otras de la misma naturaleza.
+
+#### Artículo 3°
+
+Suspéndese transitoriamente, a contar del 11 de septiembre de 1973, la aplicación del inciso 3° del artículo 22° de la ley 17.322.
+
+Con todo, los empleadores y patrones que adeuden imposiciones y aportes, correspondientes a remuneraciones pagadas o que debieron pagarse con anterioridad a junio de 1973, no quedarán liberados de la obligación de integrar los reajustes devengados hasta el 11 de septiembre de este año.
+
+Suspéndese asimismo, y transitoriamente, a contar del 11 de septiembre de 1973, la reajustabilidad de las cuotas de convenios de pagos de imposiciones adeudadas a que se refiere el inciso final del artículo 24° de la ley 17.322. De consiguiente, las cuotas que vencieren a contar de la fecha indicada mantendrán el valor vigente en ese momento.
+
+> **Nota.** NOTA: 2 El artículo 52 del DL. 307, de 1974, derogó a contar del 1° de marzo de 1974, las suspensiones a que se refiere el artículo 3° del presente Decreto Ley.
+
+#### Artículo 4°
+
+Las disposiciones del presente decreto ley tendrán vigencia a contar de esta misma fecha.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.- Lorenzo Gotuzzo.- Mario Mac-Kay.
