@@ -1,0 +1,3 @@
+Por resolución Nº 1.070, de 15 de junio de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.380 de 1998, de esta Subsecretaría, que autorizó a PESQUERA ISABELLA LIMITADA, para operar la nave ''Oceanía'', sólo en lo relativo al recurso hidrobiológico Albacora, en el área marítima comprendida entre la I y la X Regiones, en virtud de lo señalado en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 15 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
