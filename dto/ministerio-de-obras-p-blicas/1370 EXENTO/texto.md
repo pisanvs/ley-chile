@@ -1,0 +1,7 @@
+Por decreto exento MOP Nº 1.370, de 28 de septiembre de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 154, 156, 158, 166, 168, 169-A, 173, 176 y 178, para la obra Camino Ruta J-25, sector Cruce Longitudinal-La Montaña Km.
+
+0,22000 al Km. 25,00000, que figuran a nombre de Juan Cabrera Quiñones, Eliana del C. Hernández Díaz, Manuel Jesús Gajardo Martínez, Rosa Saavedra Toledo y otros, Municipalidad Teno, José y Carlos Mora Guajardo, Graciela González González, Miguel Villarroel Alvear y Jaime G. Fernández García y otra, roles de avalúos 68- 106, 68-157; E/T, 71-34, 69-33, 71-30, 71-31, 71-35 y 68-119, comuna de Teno, superficies 188; 202,50; 179; 215; 188,70; 80,10; 510; 143 y 83 m2., respectivamente. La Comisión de Peritos, fijó con fecha 2 de junio de 1998, para los lotes Nºs. 166, 169-A, 173, 176 y 178 y con fecha 1 de marzo de 2000, para los lotes 154, 156 y 168, en las cantidades de $306.000, lote Nº 154;
+
+$213.500, lote Nº 156; $198.500, lote Nº 158; $313.000, lote Nº 166; $254.700, lote Nº 168; $94.100, lote Nº 169-A; $1.113.500, lote Nº 173; $476.000, lote Nº 176 y $83.000, lote Nº 178, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
