@@ -3908,9 +3908,9 @@ De conformidad con las autorizaciones que el referido Ministerio ha puesto en co
 
 ANEXO N° 1
 
-INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES
+NSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES
 
-ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
+### I. INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1996
 
 - Astilleros y Maestranzas de la Armada.
 
@@ -3920,11 +3920,11 @@ ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
 
 - Centro de Información de Recursos Naturales.
 
+- Comando Apoyo Administrativo del Ejército.
+
 - Comando de Industria Militar e Ingeniería.
 
-- Comercializadora de Trigo S.A. "COTRISA".
-
-- Comisión Nacional de Investigaciones Científicas y Tecnológicas.
+- Comercializa dora de Trigo S.A. "COTRISA"
 
 - Corporación de Fomento de la Producción.
 
@@ -3943,6 +3943,8 @@ ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
 - Dirección General de Deportes y Recreación.
 
 - Empresa de Correos de Chile.
+
+- Empresa Abastecimiento de Zonas Aisladas
 
 - Empresa de Ferrocarriles del Estado.
 
@@ -3978,8 +3980,6 @@ ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
 
 - Empresa Eléctrica de Aysén S.A.
 
-- Empresa Eléctrica del Norte Grande S.A.
-
 - Empresa Marítima S.A.
 
 - Empresa Metropolitana de Obras Sanitarias S.A.
@@ -4006,7 +4006,7 @@ ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
 
 - Instituto Nacional de Normalización.
 
-- MUNICIPALIDADES (todas las Municipalidades del país).
+- Ministerio de Vivienda y Urbanismo.
 
 - Polla Chilena de Beneficencia.
 
@@ -4036,7 +4036,17 @@ Financieras.
 
 - Zona Franca Iquique S.A.
 
-Todas las entidades indicadas están autorizadas hasta el 28 de febrero de 1994.
+### II. INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1995
+
+- MUNICIPALIDADES (todas las Municipalidades del país).
+
+### III. INSTITUCIONES AUTORIZADAS HASTA EL 31 DE DICIEMBRE DE 1994
+
+- Agencia de Cooperación Internacional.
+
+- Comisión Nacional de Investigaciones Científicas y Tecnológicas.
+
+- Corporación Nacional Forestal.
 
 CAPITULO 2-12 (Bancos y Financieras)
 
