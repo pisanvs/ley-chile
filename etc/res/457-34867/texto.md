@@ -1,0 +1,3 @@
+Por Resolución N° 457 de 27 de Abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por AQUASUR FISHERIES SOCIEDAD PESQUERA LTDA., para un sector ubicado en Estero Quitralco, Sector N° 2, Comuna de Aysén, Provincia de Aysén, XI Región, por no dar el respectivo proyecto técnico cumplimiento al artículo 87° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 27 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
