@@ -1,0 +1,3 @@
+Por resolución exenta No. 605, de 07 de noviembre de 1989, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autoriza en forma complementaria a la empresa argentina Compañía Organizadora Líneas Transporte Automotor Sociedad Anónima Comercial Industrial y Financiera (C.O.L.T.A.S.A.C.I.F.), para efectuar servicio internacional de transporte terrestre de pasajeros entre Córdoba (Argentina) y Santiago (Chile), por paso Cristo Redentor, efectuando tres frecuencias semanales de ida y vuelta.
+
+Manuel Gárate Meneses, Coronel, Subsecretario de Transportes.
