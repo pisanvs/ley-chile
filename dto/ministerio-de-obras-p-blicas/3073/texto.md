@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.073, de 20 de octubre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs. 13 y 14 para la obra: Concesión Internacional Ruta 5. Tramo Santiago-Talca, Sector A: Km. 29.014,00 al Km.
+
+42.800,00, Región Metropolitana, que figuran a nombre de Sucesión Pérez Vega Gerardo, rol de avalúo 650-6, comuna de Buin, superficies 894m2 y 901m2. respectivamente. La comisión de peritos integrada por los señores Inés Elena Otárola Castillo, Juan Alfredo Díaz Velasco y Marlen Teresa Ríos Marcuello, fijó con fecha 2 de julio de 1999 el valor provisional de la indemnización en las cantidades de $33.331.100.- para el lote Nº 13 y de $54.379.084.- para el lote Nº 14. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
