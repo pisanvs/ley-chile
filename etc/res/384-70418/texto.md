@@ -1,0 +1,5 @@
+Por Resolución Nº 384, de 14 de marzo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD COMERCIAL HERNANDEZ NAVARRO Y CARCAMO LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta elaboradora ubicada en Huerto Nº 285, camino a Puerto Bories, Puerto Natales, XII Región, donde podrá procesar en las líneas de elaboración de Congelado y Fresco-enfriado, los siguientes recursos hidrobiológicos: Bacalao de profundidad, Congrio dorado, Merluza de cola, Merluza de tres aletas, Róbalo, Almeja o Taca, Almeja, Cholga, Chorito, Ostión del Sur Chlamys patagonica, Ostión del sur Chlamys vitreae, Centolla, Centollón, Lapa y Erizo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 14 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
