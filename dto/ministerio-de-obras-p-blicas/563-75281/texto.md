@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°563, de 30 de junio de 1997, se expropiaron los lotes de terreno N°s. 3, 4, 6, 7, 13, 15, 16, y 18, superficie 449, 50, 3.110, 3.170, 1.420, 185, 183,50, 330 y 12.466,50 m2 respectivamente, roles de avaluó 21-1, 21-87 y 21-85, comuna de Río Claro, para la obra camino Ruta K-245, Sector El Bolsico-Cumpeo y se acordó precio de indemnización con sus propietarios Gottfried Michael Gondeck Luppy y Sergio Ramírez Meneses, ascendente a las cantidades de $20.777.541 y $3.778.641.
+
+Fiscal del Ministerio de Obras Públicas.
