@@ -1,0 +1,3 @@
+Por decreto MOP Nº 676 de fecha 30 de abril de 2002, se expropiaron los lotes de terreno Nº 63 y 103, superficies 303 y 738 m², Rol de Avalúo Nº 206-19 y 206-113, comuna de Coelemu, para la obra ''Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 al Km. 8,28000'', VIII Región y se acordó el valor de indemnización con su propietaria Violeta María Flores Moraga y Otros, ascendente a la cantidad de $2.011.576.-
+
+Fiscal del Ministerio de Obras Públicas.
