@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.197 de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº24, superficie 170,34 m²., Rol de Avalúo Nº1252-138, comuna de Parral, para la obra "Camino Ruta L-70-, Sector Cruce Ruta 128-Cuatro Esquinas, Tramo Km. 0,000 a Km. 15,800" y se acordó el valor de indemnización con su propietario Luis Alberto Chamorro Moreno, ascendente a la cantidad de $736.638.-
+
+Fiscal del Ministerio de Obras Públicas.
