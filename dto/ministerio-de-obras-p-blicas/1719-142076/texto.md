@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.719, de 25 de junio de 1999, se expropió el lote de terreno No. 69, superficie 8.880,0 m2, rol de avalúo 3366-302, comuna de Padre Las Casas, para la obra "Concesión Internacional Ruta 5; Tramo Collipulli-Temuco; Sector II: Pillanlelbún-Gorbea", Novena Región y se acordó el valor de indemnización con su propietario Manuel Sandoval Sandoval, ascendente a la cantidad de $ 45.661.951.-
+
+Fiscal del Ministerio de Obras Públicas.
