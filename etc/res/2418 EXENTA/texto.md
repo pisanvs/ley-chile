@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION EXENTA No. 2.418, DE 1985
+
+Por resolución exenta No. 2.418 de fecha 26 de Agosto de 1985 del Subsecretario de Educación Pública se modificó la resolución exenta de Educación No. 2.937 de 1982 y No. 767 de 1983 en su artículo 1° y único respectivamente, en el sentido de reemplazar la red secuencial de asignaturas modificadas de los planes y programas de estudios de las carreras de Administración de Personal, Control Industrial, Administración con mención en Finanzas y Contabilidad del Centro de Formación Técnica Simón Bolívar de Santiago. Se modificó ademas el artículo 2° de la resolución exenta de Educación No. 2.937 de 1982, desde su inciso 2°, en lo que se refiere a normas de evaluación, promoción y titulación. del Centro de Formación Técnica Simón Bolívar, a contar del año 1982.
+
+Santiago, 01 de Octubre de 1985.- René Salamé Martín. Subsecretario de Educación Pública.
