@@ -3380,159 +3380,169 @@ De conformidad con las autorizaciones que el referido Ministerio ha puesto en co
 
 ANEXO N° 1
 
-INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES
+INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES
 
-DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
+ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
 
 A.- INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1992.
 
-1. -Empresa Nacional del Petróleo.
+- Astilleros y Maestranzas de la Armada.
 
-2.- Empresa Nacional de Mineria.
+- Carabineros de Chile, Imprenta.
 
-3.- Empresa Portuaria de Chile.
+- Casa de Moneda de Chile.
 
-4.- Empresa Marítima del Estado.
+- Centro de Información de Recursos Naturales.
 
-5.- Empresa de Ferrocarriles del Estado.
+- Centro de Investigación Minero y Metalúrgico.
 
-6.- Empresa de Correos de Chile.
+- Comando de Industria Militar e Ingeniería.
 
-7.- Empresa Metropolitana de Obras Sanitarias.
+- Comercializadora de Trigo S.A. "COTRISA".
 
-8.- Empresa de Obras Sanitarias V Región.
+- Corporación de Fomento de la Producción.
 
-9.- Empresa Nacional del Carbón S.A.
+- Departamento Bienestar Dirección General de Aeronáutica Civil.
 
-10.- Empresa Eléctrica Colbún-Machicura S.A.
+- Dirección de Aprovisionamiento del Estado.
 
-11.- Empresa Eléctrica de Aysén S.A.
+- Dirección de Bibliotecas, Archivos y Museos.
 
-12.- Polla Chilena de Beneficencia.
+- Dirección de Bienestar de Carabineros.
 
-13.- Televisión Nacional de Chile.
+- Dirección General de Crédito Prendario.
 
-14.- Casa de Moneda de Chile.
+- Dirección General de Deportes y Recreación.
 
-15.- Sociedad Agrícola SACOR Ltda.
+- Dirección General de Metro.
 
-16.- Sociedad Transporte Marítimo Chiloé - Aysén Ltda.
+- Empresa de Correos de Chile.
 
-17.- Sociedad Agrícola y Servicios Isla de Pascua.
+- Empresa de Ferrocarriles del Estado.
 
-18.- Sociedad Administradora del Transporte Ltda.
+- Empresa de Obras Sanitarias V Región.
 
-19.- Corporación de Fomento de la Producción.
+- Empresa Eléctrica Colbún-Machicura S.A.
 
-20.- Servicio de Cooperación Técnica.
+- Empresa Eléctrica de Aysén S.A.
 
-21.- Instituto Forestal.
+- Empresa Marítima del Estado.
 
-22.- Instituto de Fomento Pesquero.
+- Empresa Metropolitana de Obras Sanitarias.
 
-23.- Instituto de Investigaciones Tecnológicas.
+- Empresa Nacional de Aronáutica.
 
-24.- Instituto Nacional de Normalización.
+- Empresa Nacional de Minería.
 
-25.- Centro de Información de Recursos Naturales.
+- Empresa Nacional del Carbón S.A.
 
-26.- Centro de Investigación Minero y Metalúrgico.
+- Empresa Nacional del Petróleo.
 
-27.- Comercializadora de Trigo S.A. "COTRISA".
+- Empresa Portuaria de Chile.
 
-28.- Dirección General de Metro.
+- Fábrica y Maestranza del Ejército.
 
-29.- Dirección de Aprovisionamiento del Estado.
+- Instituto de Fomento Pesquero.
 
-30.- Dirección General de Crédito Prendario.
+- Instituto de Investigaciones Tecnológicas.
 
-31.- Dirección General de Deportes y Recreación.
+- Instituto Forestal.
 
-32.- Dirección de Bibliotecas, Archivos y Museos.
+- Instituto Nacional de Normalización.
 
-33.- Junta de Administración y Vigilancia Zona Franca de Iquique.
+- Junta de Administración y Vigilancia Zona Franca de Iquique.
 
-34.- Empresa Nacional de Aeronáutica.
+- Municipalidad de Arica.
 
-35.- Astilleros y Maestranzas de la Armada.
+- Municipalidad de Calama.
 
-36.- Fábrica y Maestranza del Ejército.
+- Municipalidad de Cerro Navia.
 
-37.- Departamento Bienestar Dirección General de Aeronáutica Civil.
+- Municipalidad de Conchalí.
 
-38.- Servicio Bienestar Social de la Armada.
+- Municipalidad de Estación Central
 
-39.- Dirección de Bienestar de Carabineros.
+- Municipalidad de Isla de Maipo.
 
-40.- Carabineros de Chile, Imprenta.
+- Municipalidad de La Cisterna.
 
-41.- Servicio de Bienestar del Magisterio.
+- Municipalidad de La Granja.
 
-42.- Servicio Bienestar de la Superintendencia de Valores y Seguros.
+- Municipalidad de La Reina.
 
-43.- Comando de Industria Militar e Ingeniería.
+- Municipalidad de Las Condes.
 
-44.- Servicio de Bienestar de la Fuerza Aérea de Chile.
+- Municipalidad de Lo Prado.
 
-45.- Municipalidad de Mariquina.
+- Municipalidad de Machalí.
 
-## Capítulo 2-11
+- Municipalidad de Macul.
 
-Pág. 2
+- Municipalidad de Maipú.
 
-B.- INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1991
+- Municipalidad de Mariquina.
 
-46.- Municipalidad de Santiago.
+- Municipalidad de Melipilla.
 
-47.- Municipalidad de Las Condes.
+- Municipalidad de Navarino.
 
-48.- Municipalidad de Machalí.
+- Municipalidad de Ñuñoa.
 
-49.- Municipalidad de Viña del Mar.
+- Municipalidad de Peñaflor.
 
-50.- Municipalidad de Providencia.
+- Municipalidad de Peñalolen.
 
-51.- Municipalidad de Peñalolen.
+- Municipalidad de Providencia.
 
-52.- Municipalidad de Cerro Navia.
+- Municipalidad de Pudahuel.
 
-53.- Municipalidad de Lo Prado.
+- Municipalidad de Puerto Montt.
 
-54.- Municipalidad de Pudahuel.
+- Municipalidad de Quinta Normal.
 
-55.- Municipalidad de Estación Central.
+- Municipalidad de Rancagua.
 
-56.- Municipalidad de La Cisterna.
+- Municipalidad de Renca.
 
-57.- Municipalidad de San Joaquín.
+- Municipalidad de San Bernardo.
 
-58.- Municipalidad de Rancagua.
+- Municipalidad de San Joaquín.
 
-59.- Municipalidad de Arica.
+- Municipalidad de Santiago.
 
-60.- Municipalidad de Valparaíso.
+- Municipalidad de Talagante.
 
-61.- Municipalidad de Renca.
+- Municipalidad de Traiguén.
 
-62.- Municipalidad de Maipú.
+- Municipalidad de Valparaíso.
 
-63.- Municipalidad de San Bernardo.
+- Municipalidad de Viña del Mar.
 
-64.- Municipalidad de Talagante.
+- Polla Chilena de Beneficencia.
 
-65.- Municipalidad de Ñuñoa.
+- Servicio Bienestar de la Superintendencia de Valores y Seguros.
 
-66.- Municipalidad de Quinta Norma.
+- Servicio Bienestar Social de la Armada.
 
-67.- Municipalidad de Macul.
+- Servicio de Bienestar de la Fuerza Aérea de Chile.
 
-68.- Municipalidad de Puerto Montt.
+- Servicio de Bienestar del Magisterio.
 
-69.- Municipalidad de Melipilla.
+- Servicio de Cooperación Técnica.
 
-70.- Municipalidad de La Reina.
+- Sociedad Administradora del Transporte Ltda.
 
-71.- Municipalidad de La Granja.
+- Sociedad Agrícola SACOR Ltda.
+
+- Sociedad Agrícola y Servicios Isla de Pascua.
+
+- Sociedad Transporte Marítimo Chiloé - Aysén Ltda.
+
+- Televisión Nacional de Chile.
+
+B.- OTRAS AUTORIZACIONES
+
+- Ministerio de Salud; para invertir los fondos provenientes del Convenio de Donación entre la Agencia Internacional para el Desarrollo (AID) y la República de Chile, según autorización otorgada mediante D.S. N° 3 de Hacienda, de 9 de enero de 1991.
 
 CAPITULO 2-12 (Bancos y Financieras)
 
@@ -34814,29 +34824,33 @@ N° de Inscripción *Nombre de la empresa.
 
 ANEXO N° 1
 
-FIRMAS DE AUDITORES EXTERNOS DE BANCOS Y SOCIEDADES FINANCIERAS
+FIRMAS DE AUDITORES EXTERNOS DE BANCOS Y SOCIEDADES FINANCIERAS INSCRITAS EN EL
 
-INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA
+REGISTRO DE ESTA SUPERINTENDENCIA.
 
-N° de Inscripción* Nombre de la empresa.
+N° de Incripción * Nombre de la empresa.
 
-002 PRICE WATERHOUSE, CONSULTORES, AUDITORES Y CIA, LTDA.
+002 PRICE WATERHOUSE, CONSULTORES, AUDITORES Y CIA. LTDA.
 
 003 LANGTON CLARKE Y CIA. LTDA.
 
 004 K.P.M.G. PEAT MARWICK AUDITORES CONSULTORES LIMITADA.
 
-005 DELOITTE HASKINS AND SELLS, SOCIEDAD DE AUDITORES Y CONSULTORES.
+005 DELOITTE HASKINS AND SELLS, SOCIEDAD DE AUDITORES Y
 
-006 ARTHUR YOUNG Y CIA. (CHILE) LTDA.
-
-007 AUDITORES Y CONSULTORES PINEDO HERMANOS Y COMPAÑIA LTDA.
+CONSULTORES.
 
 008 JERIA Y ASOCIADOS, AUDITORES CONSULTORES LIMITADA.
 
 010 ERNST & YOUNG (CHILE) AUDITORES - CONSULTORES LIMITADA.
 
-Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos y sociedades financieras.
+015 ESPEJO Y CIA. LTDA. - AUDITORES CONSULTORES ASOCIADOS.
+
+* Se incluyen sólo las firmas inscritas en el Registro que se encuentran
+
+facultadas para prestar sus servicios profesionales a bancos y sociedades
+
+financieras.
 
 CAPITULO 20-1 (Bancos y Financieras)
 
