@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 46 de 14 de Enero de 1986, conforme art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector expropiado predio "Fundo El Molino", "Hijuela Primera de San Ignacio", de la comuna de Quilicura, Región Metropolitana; y derechos aprovechamiento de aguas que corresponden a las parcelas N° 1 a la 23, sitios N° 1 al 9 y Reserva Cora N° 1 del Proyecto de Parcelación "Hijuela Primera de San Ignacio y Los Pasos" formado por predios señalados. Los derechos de agua se extraen del Canal Solar de la Sociedad del Canal de Maipo.- Publicación hecha conforme art. 13 Ley N° 18.377.
+
+- Director Ejecutivo.
