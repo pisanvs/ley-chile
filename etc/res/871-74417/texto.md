@@ -1,0 +1,3 @@
+Por Resolución Nº 871, de 26 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PROSMOLT S.A., para continuar desarrollando las actividades pesqueras autorizadas por Resoluciones Nº 350, de 1986 y Nº 976, de 1989, ambas de esta Subsecretaría, a Chisal S.A., en virtud de la Escritura Pública de fecha 29 de noviembre de 1996, otorgada ante la Notario Público doña Edith Cabello Arroyo, suplente del titular de la Trigésima Tercera Notaría de Santiago don Iván Torrealba Acevedo, que dividió la sociedad "Chisal S.A.".
+
+Valparaíso, 26 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
