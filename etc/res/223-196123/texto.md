@@ -1,0 +1,3 @@
+Por resolución Nº223, de 25 de enero de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Lirquén, Sector A, VIII Región, individualizada en el artículo 1º Nº 4 del DS Nº152 de 1998, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES DE LAS CALETAS DE CERRO VERDE, PENCO Y LIRQUEN.
+
+Valparaíso, 25 de enero de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
