@@ -458,7 +458,7 @@ La pena de inhabilitación absoluta perpetua para cargos y oficios públicos, de
 
 3.° La incapacidad para obtener los honores, cargos, empleos, oficios y profesiones mencionados, perpetuamente si la inhabilitación es perpetua y durante el tiempo de la condena si es temporal.
 
-4.° La pérdida de todo derecho para obtener jubilación u otra pensión por los empleos servidos con anterioridad.
+4.° Derogado.
 
 #### Artículo 39
 
@@ -2109,6 +2109,8 @@ Los que emplearen amenaza o cualquier otro medio fraudulento para alejar a los p
 #### Artículo 288
 
 El que fabricare, vendiere o distribuyere armas absolutamente prohibidas por la ley o por los reglamentos generales que dicte el Presidente de la República, sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a quinientos pesos.
+
+> **Nota.** El artículo 24 de la ley 17798, publicada el 21.10.1972, deroga parcialmente este artículo, sólo en cuanto se refiere a armas de fuego, explosivos y demás elementos contemplados en la referida ley.
 
 ### IX. Delitos relativos a la salud animal y vegetal
 
