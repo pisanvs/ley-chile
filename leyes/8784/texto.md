@@ -1,0 +1,1 @@
+Autoriza a las Municipalidades de Doñihue, Coltauco y Coínco para contratar empréstito hasta por las sumas que menciona.
