@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.004, de 30 de septiembre de 1999, se expropió el lote de terreno Nº 63, superficie 2.012,0 m2., rol de avalúo 307-49, comuna de Freire, para la obra ''Concesión Internacional Ruta 5. Tramo: Collipulli - Temuco'', Novena Región y se acordó el valor de indemnización con sus propietarios Víctor Manuel Muñoz Pineda y otros, ascendente a la cantidad de $17.735.740.
+
+- Fiscal del Ministerio de Obras Públicas.
