@@ -1,0 +1,3 @@
+Por Resolución Nº 1.345, de 21 de octubre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstruucción, declárase la caducidad parcial de la Resolución Nº 362, de 1997, de esta Subscretaría, que autorizó a PESQUERA SANTA INES S.A., para desarrollar actividades pesqueras extractivas con la nave "Cavancha", en lo relativo a las especies: Anchoveta y Sardina española, en el litoral comprendido entre la III a la IV Región, en virtud de no haber operado sobre estas unidades de pesquerías y de conformidad a lo dispuesto en el artículo 143 letra b) de la Ley Nº 18.892 de 1989.
+
+Valparaíso, 21 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
