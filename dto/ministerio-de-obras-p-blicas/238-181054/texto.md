@@ -1,0 +1,3 @@
+Por decreto MOP Nº238, de fecha 30 de noviembre de 2000, se expropiaron los lotes de terreno Nºs. 28 y 29, superficies 500,0 m² y 479,0 m², respectivamente, rol de avalúo 75-897, comuna de Galvarino, para la obra "Camino Ruta S-16, Sector Galvarino - Chol Chol, Tramo Km. 0,00000 a Km. 24,302.69". Sub - Tramo I Km. 0,005 al Km. 8,339" y se acordó el valor de indemnización con su propietario Francisco Huenchual Raiman, ascendente a la cantidad de $356.654.-
+
+Fiscal del Ministerio de Obras Públicas.
