@@ -1,0 +1,3 @@
+Por resolución Nº 1.026, de 27 de julio de 1998, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 1.302, Nº 1.303 y Nº 1.304, todas de 1992, Nº 1.106 y Nº 1.107, ambas de 1993, Nº 271, Nº 272, Nº 278, Nº 280, Nº 1.764, Nº 1.765, Nº 1.766, Nº 1.767, Nº 1.768, Nº 1.769, Nº 1.770, Nº 1.771, Nº 1.772, todas de 1995 y Nº 2.250 de 1996, de esta Subsecretaría, que concedieron permisos extraordinarios de pesca sobre el recurso Bacalao de profundidad a PESQUERA MAR DEL SUR S.A.
+
+Valparaíso, 27 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
