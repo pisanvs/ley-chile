@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº856, de 18 de junio de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 104 y 105, para la obra Camino Ruta D-595, Ovalle-Hurtado, sector Tranque Recoleta- Samo Alto, Kms. 9.780,00 al 31.840,00, que figuran a nombre de Ordenes Gutiérrez Romelia y Taiba Espinoza Estanislao, roles de avalúos 8-8 y 8-19, comuna de Río Hurtado, IV Región, superficies 437 M2. y 254 M2. La Comisión de Peritos, fijó con fecha 10 de octubre de 1999, en la cantidad de $318.400, lote 104 y
+
+$1.315.300, lote 105. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
