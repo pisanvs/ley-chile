@@ -3112,6 +3112,26 @@ Haciendo por sí mismos la liquidación, los socios se ajustarán a las reglas p
 
 ### 7. De la prescripción de las acciones procedentes de la sociedad colectiva
 
+#### Artículo 419
+
+<!-- parte:8725873 -->
+
+Todas las acciones contra los socios no liquidadores, sus herederos o causahabientes prescriben en cuatro años contados desde el día en que se disuelva la sociedad, siempre que la escritura social haya fijado su duración o la escritura de disolución haya sido inscrita conforme al artículo 354.
+
+Si el crédito fuere condicional, la prescripción correrá desde el advenimiento de la condición.
+
+#### Artículo 420
+
+<!-- parte:8725874 -->
+
+La prescripción corre contra los menores y personas jurídicas que gocen de los derechos de tales, aunque los créditos sean ilíquidos, y no se interrumpe sino por las gestiones judiciales que dentro de los cuatro años hagan los acreedores contra los socios no liquidadores.
+
+#### Artículo 421
+
+<!-- parte:8725875 -->
+
+Pasados los cuatro años, los socios no liquidadores no serán obligados a declarar judicialmente acerca de la subsistencia de las deudas sociales.
+
 #### Artículo 422
 
 <!-- parte:8725648 -->
@@ -4675,8 +4695,6 @@ DE LA PRESCRIPCION
 Las acciones que procedan de las obligaciones de que trata el presente Libro y que no tengan señalado un plazo especial de prescripción, durarán cuatro años.
 
 Las prescripciones establecidas en este Código corren contra toda clase de personas.
-
-> **Nota.** El plazo establecido en este inciso por fijado por el Art. 3° de la Ley N° 16.952, de 1° de Octubre de 1968, que comenzó a regir el 1° de Octubre de 1969.
 
 #### Artículo final
 
