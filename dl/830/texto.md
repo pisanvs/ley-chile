@@ -284,11 +284,11 @@ Asimismo, para los efectos de la aplicación de la ley sobre Impuesto a las Rent
 
 A los contribuyentes que no presentaren declaración estando obligados a hacerlo, o a los cuales se les determinaren diferencias de impuestos, el Servicio les practicará una liquidación en la cual se dejará constancia de las partidas no comprendidas en su declaración o liquidación anterior. En la misma liquidación deberá indicarse el monto de los tributos adeudados y, cuando proceda, el monto de las multas en que haya incurrido el contribuyente por atraso en presentar su declaración y los reajustes e intereses por mora en el pago.
 
-Salvo disposición en contrario los impuestos determinados en la forma indicada en el inciso anterior y las multas respectivas se girarán transcurrido el plazo de sesenta días señalado en el inciso 3° del artículo 124° Sin embargo, si el contribuyente hubiere deducido reclamación, los impuestos y multas correspondientes a la parte reclamada de la liquidación se girarán sólo una vez que la Dirección Regional se haya pronunciado sobre el reclamo o deba éste entenderse rechazado de conformidad al artículo 135° o en virtud de otras disposiciones legales. Para el giro de los impuestos y multas correspondientes a la parte no reclamada de la liquidación, dichos impuestos y multas se establecerán provisionalmente con prescindencia de las partidas o elementos de la liquidación que hubieren sido objeto de la reclamación.
+Salvo disposición en contrario, los impuestos determinados en la forma indicada en el inciso anterior y las multas respectivas se girarán transcurrido el plazo de sesenta días señalado en el inciso 3° del artículo 124°. Sin embargo, si el contribuyente hubiere deducido reclamación, los impuestos y multas correspondientes a la parte reclamada de la liquidación se girarán sólo una vez que la Dirección Regional se haya pronunciado sobre el reclamo o deba éste entenderse rechazado de conformidad al artículo 135° o en virtud de otras disposiciones legales. Para el giro de los impuestos y multas correspondientes a la parte no reclamada de la liquidación, dichos impuestos y multas se establecerán provisionalmente con prescindencia de las partidas o elementos de la liquidación que hubieren sido objeto de la reclamación.
 
 A petición del contribuyente podrán también girarse los impuestos con anterioridad a las oportunidades señaladas en el inciso anterior.
 
-En los casos de impuestos de recargo, retención o traslación, que no hayan sido declarados oportunamente, el Servicio podrá girar de inmediato y sin otro trámite previo, los impuestos correspondientes sobre las sumas contabilizadas.
+En los casos de impuestos de recargo, retención o traslación, que no hayan sido declarados oportunamente, el Servicio podrá girar de inmediato y sin otro trámite previo, los impuestos correspondientes sobre las sumas contabilizadas, como también por las cantidades que hubieren sido devueltas o imputadas y en relación con las cuales se haya interpuesto acción penal por delito tributario. En el caso de quiebra del contribuyente, el Servicio podrá, asimismo, girar de inmediato y sin otro trámite previo, todos los impuestos adeudados por el fallido, sin perjuicio de la verificación que deberá efectuar el Fisco en conformidad con las normas generales.
 
 #### Artículo 25
 
@@ -357,6 +357,8 @@ El plazo de declaración y pago de los diversos impuestos se regirá por las dis
 No obstante lo dispuesto en el inciso anterior, el Presidente de la República podrá fijar y modificar las fechas de declaración y pago de los diversos impuestos y establecer los procedimientos administrativos que juzgue más adecuados a su expedita y correcta percepción.
 
 Cuando el plazo de declaración y pago de un impuesto venza en día feriado, en día sábado o el día 31 de diciembre, éste se prorrogará hasta el primer día hábil siguiente. Esta prórroga no se considerará para los efectos de determinar los reajustes que procedan, sin perjuicio de lo dispuesto en el inciso segundo del artículo 53.
+
+Asimismo, el Presidente de la República podrá ampliar el plazo para la presentación de documentos y antecedentes de carácter tributario exigidos por la ley o los reglamentos. Dicha facultad podrá ser delegada en el Director del Servicio de Impuestos Internos mediante decretos expedidos a través del Ministerio de Hacienda.
 
 ## Título III
 
@@ -636,9 +638,9 @@ De otros medios de fiscalización
 
 Las Oficinas de Identificación de la República no podrán extender pasaportes sin que previamente el peticionario les acredite encontrarse en posesión del Rol Unico Nacional, o tener carnet de identidad con número nacional y dígito verificador, o estar inscrito en el Rol Unico Tributario. No será necesario esta exigencia por parte de las Oficinas de Identificación cuando los interesados deban acreditar el pago del impuesto de viaje o estar exento del mismo.
 
-El Servicio de Investigaciones no podrá autorizar la salida del país de las personas investigadas por presuntas infracciones a las leyes tributarias sancionadas con pena corporal sin exigir previamente en cada caso un certificado del Servicio de Impuestos Internos que acredite que el contribuyente ha otorgado caución suficiente, a juicio del Director Regional.
+La Policía de Investigaciones de Chile y Carabineros de Chile no podrán autorizar la salida del país de las personas investigadas por presuntas infracciones a las leyes tributarias sancionadas con pena corporal sin exigir previamente en cada caso un certificado del Servicio de Impuestos Internos que acredite que el contribuyente ha otorgado caución suficiente, a juicio del Director Regional.
 
-Para estos efectos el Servicio de Impuestos Internos deberá enviar al Departamento de Policía Internacional una nómina de los contribuyentes que se encuentren investigados por presuntas infracciones a las leyes tributarias sancionadas con pena corporal.
+Para estos efectos el Servicio de Impuestos Internos deberá enviar al Departamento de Policía Internacional y a Carabineros de Chile una nómina de los contribuyentes que se encuentren investigados por presuntas infracciones a las leyes tributarias sancionadas con pena corporal.
 
 #### Artículo 73
 
@@ -768,9 +770,7 @@ El incumplimiento de esta obligación hará responsable a la institución de tod
 
 #### Artículo 91
 
-Producida una declaratoria de quiebra, la Sindicatura de Quiebras solicitará a la Dirección Regional y al Servicio de Tesorerías una liquidación de los impuestos que adeude el fallido.
-
-El Síndico de Quiebras, con el mérito de las liquidaciones practicadas, verificará al crédito fiscal de acuerdo con el procedimiento señalado en los artículos 102° y siguientes de la Ley de Quiebras.
+El síndico deberá comunicar, dentro de los cinco días siguientes al de su asunción al cargo, la declaratoria de quiebra al Director Regional correspondiente al domicilio del fallido.
 
 #### Artículo 92
 
@@ -1056,7 +1056,7 @@ De los Tribunales
 
 El Director Regional conocerá en primera o en única instancia, según proceda, de las reclamaciones deducidas por los contribuyentes y de las denuncias por infracción a las disposiciones tributarias, salvo que expresamente se haya establecido una regla diversa.
 
-Será competente para conocer de las reclamaciones, ya sean en contra de liquidaciones, o de giros, o resoluciones, o de los pagos, el Director Regional dentro de cuyo territorio tenga su domicilio el contribuyente que reclame.
+Será competente para conocer de las reclamaciones el Director Regional de la unidad del Servicio que emitió la liquidación o el giro o que dictó la resolución en contra de la cual se reclame, en el caso de reclamaciones en contra del pago, será competente el Director Regional de la unidad que emitió el giro al cual corresponda el pago. Si las liquidaciones, giros o resoluciones fueren emitidos por unidades de la Dirección Nacional, o el pago correspondiere a giros efectuados por estas mismas unidades, la reclamación deberá presentarse ante el Director Regional en cuyo territorio tenga su domicilio el contribuyente que reclame al momento de ser notificado de revisión, de citación, de liquidación o de giro.
 
 El conocimiento de las infracciones a las normas tributarias y la aplicación de las sanciones pecuniarias por tales infracciones, corresponderá al Director Regional que tenga competencia en el territorio donde tiene su domicilio el infractor.
 
@@ -1400,7 +1400,7 @@ Las sanciones por infracción a las disposiciones tributarias, que no consistan 
 
 1°.- En conocimiento de haberse cometido una infracción o reunidos los antecedentes que hagan verosímil su comisión, se levantará un acta por el funcionario competente del Servicio, la que se notificará al interesado personalmente o por cédula.
 
-2°.- El afectado tendrá el plazo de diez días para formular sus descargos, contado desde la notificación del acta; en su escrito de descargos el reclamante deberá indicar con claridad y precisión los medios de prueba de que piensa valerse.
+2°.- El afectado, dentro del plazo de diez días, deberá formular sus descargos, contado desde la notificación del acta; en su escrito de descargos el reclamante deberá indicar con claridad y precisión los medios de prueba de que piensa valerse.
 
 Si la infracción consistiere en falta de declaración o declaración incorrecta que hubiere acarreado la evasión total o parcial de un impuesto, el contribuyente podrá, al contestar, hacer la declaración omitida o rectificar la errónea. Si esta declaración fuere satisfactoria, se liquidará de inmediato el impuesto y podrá absolverse de toda sanción al inculpado, si no apareciere intención maliciosa.
 
@@ -1530,7 +1530,7 @@ En contra de la sentencia de segunda instancia no procerán los recursos de casa
 
 7°- La iniciación del procedimiento y la aplicación de sanciones pecuniarias no constituirán impedimento para el ejercicio de la acción penal que corresponda.
 
-8°- Los Directores Regionales podrán delegar las funciones y la facultad que se señala en los números 3° y 5° de este artículo en los funcionarios de su jurisdicción que designe, conforme a las instrucciones que al respecto imparta el Director.
+8°- Los Directores Regionales podrán delegar las funciones y la facultad que se señala en los números 3°, 4° y 5° de este artículo en los funcionarios de su jurisdicción que designe, conforme a las instrucciones que al respecto imparta el Director.
 
 > **Nota.** Las letras c) y d) del Art. 8° del DL 2869, Hacienda, publicado el 29.09.1979, reemplazaron en el inciso primero y en el N° 2 la conjunción "y" por una coma, y agregaron a continuación de los números 11 y 10, respectivamente, lo siguiente: "y 17".
 
