@@ -19400,117 +19400,77 @@ desarrollo del giro.
 
 ### 11. Instrucciones contables
 
-Las inversiones en sociedades de apoyo se contabilizarán de acuerdo con las
-
-siguientes disposiciones:
+Las inversiones en sociedades de apoyo se contabilizarán de acuerdo con las siguientes disposiciones:
 
 11.1. Valorización de las inversiones.
 
-Las acciones o derechos en las sociedades de que trata este capítulo, se
+Las acciones o derechos en las sociedades de que trata este capítulo, se registrarán en el activo a su valor de costo más corrección monetaria.
 
-registrarán en el activo a su valor de costo más corrección monetaria.
+La participación sobre las utilidades de las respectivas empresas se reconocerá en el momento de percibirse los dividendos o beneficios que éstas repartan.
 
-La participación sobre las utilidades de las respectivas empresas se reconocerá
-
-en el momento de percibirse los dividendos o beneficios que éstas repartan.
+En el evento de adquirirse acciones o derechos en sociedades ya constituidas, por un valor mayor que el valor patrimonial proporcional a que se refiere el numeral 11.2 de este capítulo, se llevará a la respectiva cuenta de inversiones solamente el monto correspondiente al valor patrimonial proporcional determinado a la fecha de compra. La diferencia con respecto al costo se registrará en una cuenta del activo transitorio y se traspasará a resultados en el plazo máximo de 24 meses, de la forma dispuesta en la letra e) del numeral 11.4 de este capítulo.
 
 11.2. Provisiones.
 
-En todo momento las instituciones financieras deberán mantener provisiones por
-
-cada empresa de apoyo en que tuvieren participación, para cubrir las diferencias
-
-que existieren entre el valor registrado en el activo y el valor patrimonial
+En todo momento las instituciones financieras deberán mantener provisiones por cada empresa de apoyo en que tuvieren participación, para cubrir las diferencias que existieren entre el valor registrado en el activo y el valor patrimonial
 
 proporcional, cuando este último sea menor.
 
-El mencionado valor patrimonial proporcional corresponderá al monto que se
+El mencionado valor patrimonial proporcional corresponderá al monto que se obtiene de aplicar el porcentaje de participación que tiene la entidad financiera en la correspondiente sociedad, al total del patrimonio que muestren los estados financieros de esta última; esto es, el capital, reservas y resultado acumulado. Este valor se utilizará exclusivamente para determinar las eventuales pérdidas en la inversión realizada por la institución financiera, con el fin de constituir las provisiones que correspondan y no debe ser objeto de ajustes adicionales.
 
-obtiene de aplicar el porcentaje de participación que tiene la entidad
-
-financiera en la correspondiente sociedad, al total del patrimonio que muestren
-
-los estados financieros de esta última; esto es, el capital, reservas y
-
-resultado acumulado. Este valor se utilizará exclusivamente para determinar las
-
-eventuales pérdidas en la inversión realizada por la institución financiera, con
-
-el fin de constituir las provisiones que correspondan y no debe ser objeto de
-
-ajustes adicionales.
-
-La comparación entre el valor contable de la inversión y el referido valor
-
-patrimonial proporcional deberá efectuarse mensualmente y podrá tener por base
-
-los resultados obtenidos hasta el mes inmediatamente anterior, por la sociedad
+La comparación entre el valor contable de la inversión y el referido valor patrimonial proporcional deberá efectuarse mensualmente y podrá tener por base los resultados obtenidos hasta el mes inmediatamente anterior, por la sociedad
 
 en la que se participa.
 
-Sin embargo, al tratarse del cierre del ejercicio anual y si la sociedad de
+Sin embargo, al tratarse del cierre del ejercicio anual y si la sociedad de apoyo tuviere pérdidas, el valor patrimonial proporcional deberá considerar los resultados hasta el 31 de diciembre. En este caso, la institución que participa
 
-apoyo tuviere pérdidas, el valor patrimonial proporcional deberá considerar los
-
-resultados hasta el 31 de diciembre. En este caso, la institución que participa
-
-en dicha sociedad deberá hacer, antes de la entrega de los formularios MB1 y MR1
-
-a esta Superintendencia, los ajustes necesarios para la presentación de sus
-
-propios estados financieros.
+en dicha sociedad deberá hacer, antes de la entrega de los formularios MB1 y MR1 a esta Superintendencia, los ajustes necesarios para la presentación de sus propios estados financieros.
 
 11.3. Subcuentas para el registro.
 
-Para cada una de las cuentas que se mencionan en el numeral siguiente, se abrirá
-
-una subcuenta, denominada "Empresas de apoyo". Se entenderá que las imputaciones
-
-a las cuentas que se indican están referidas a la subcuenta correspondiente.
+Para cada una de las cuentas que se mencionan en el numeral siguiente, se abrirá una subcuenta, denominada "Empresas de apoyo". Se entenderá que las imputaciones a las cuentas que se indican están referidas a la subcuenta correspondiente.
 
 11.4. Contabilizaciones.
 
-a) Constitución de una sociedad de apoyo.
+a) Constitución o compra de acciones o derechos en una sociedad de apoyo al giro.
 
-Debe: - "Inversiones en sociedades", de la partida 2320 del formulario MB1.
+Debe: - "Inversiones en sociedades", de la partida 2320 del formulario MB1, por el costo o el valor patrimonial proporcional,el que sea menor.
+
+- "Mayor valor pagado en inversiones", de la partida 2120, por la diferencia entre el valor patrimonial proporcional y el monto efectivamente pagado, cuando este último sea mayor.
 
 Haber: - "Caja", o la cuenta que corresponda.
 
+Al tratarse de una nueva sociedad, el registro se efectuará al momento de girarse el aporte de capital o pagarse las acciones suscritas.
+
+Cuando se adquieran acciones o derechos en sociedades ya constituidas, por un menor valor que el valor patrimonial proporcional, la diferencia entre ambos no será reconocida contablemente.
+
 b) Provisiones sobre inversiones en sociedades.
 
-Debe: - "Provisiones sobre inversiones en sociedades", de la partida 6135 del
+Debe: - "Provisiones sobre inversiones en sociedades", de la partida 6135 del formulario MR1.
 
-formulario MR1.
-
-Haber: - "Provisiones sobre inversiones en sociedades", de la partida 4240 del
-
-formulario MB1.
+Haber: - "Provisiones sobre inversiones en sociedades", de la partida 4240 del formulario MB1.
 
 c) Dividendos o repartos de utilidades de la filial.
 
 Debe: - "Caja" o la cuenta que corresponda, por el importe recibido.
 
-Haber: - "Dividendos obtenidos de inversiones en sociedades", que se demostrará
-
-en la partida 8315 del formulario MR1.
+Haber: - "Dividendos obtenidos de inversiones en sociedades", que se demostrará en la partida 8315 del formulario MR1.
 
 d) Liberaciones de provisiones.
 
-Debe: - "Provisiones sobre inversiones en sociedades", de la partida 4240 del
+Debe: - "Provisiones sobre inversiones en sociedades", de la partida 4240 del formulario MB1.
 
-formulario MB1.
+Haber: - "Provisiones sobre inversiones en sociedades", de la partida 6135, para revertir el cargo hasta por el saldo, si fuese el caso.
 
-Haber: - "Provisiones sobre inversiones en sociedades", de la partida 6135, para
+- "Liberación de provisiones sobre inversiones en sociedades", por la diferencia que hubiere entre el total de la disminución de las provisiones y el cargo efectuado para incrementarla en el ejercicio. Esta cuenta se demostrará en la partida 8110 del formulario MR1.
 
-revertir el cargo hasta por el saldo, si fuese el caso.
+e) Amortización del mayor valor pagado por acciones o derechos en sociedades.
 
-- "Liberación de provisiones sobre inversiones en sociedades", por la diferencia
+Debe: - "Amortización mayor valor pagado en inversiones en sociedades", que se abrirá para ese efecto en la partida 6315 del formulario MR1.
 
-que hubiere entre el total de la disminución de las provisiones y el cargo
+Haber: - "Mayor valor pagado en inversiones en sociedades", de la partida 2120 del formulario MB1."
 
-efectuado para incrementarla en el ejercicio. Esta cuenta se demostrará en la
-
-partida 8110 del formulario MR1.
+Se traspasará mensualmente a resultados el valor que resulte de dividir el respectivo saldo no amortizado, de la cuenta "Mayor valor pagado en inversiones en sociedades", por la cantidad de meses que resten para cumplirse el plazo de amortización. No obstante, el monto que se lleve a resultados en un ejercicio no podrá ser inferior a la utilidad que se obtuviere, en el mismo ejercicio, por la percepción de dividendos o distribución de utilidades de la correspondiente sociedad de apoyo al giro.
 
 CAPITULO 12-1 (Bancos y Financieras)
 
