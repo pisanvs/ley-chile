@@ -1,0 +1,3 @@
+Por resolución exenta Nº 8 de 4 de enero de 2005, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 3.382 de 2004, modificada mediante resoluciones Nº 3.480 y Nº 3.710, ambas de 2004, todas de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Control y monitoreo de la pesquería de Merluza del sur (Merluccius australis) en aguas interiores de la XII Región", en el sentido de señalar que las actividades de investigación correspondientes al mes de enero de 2005, se realizarán a partir del día 13 de dicho mes.
+
+Valparaíso, 4 de enero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
