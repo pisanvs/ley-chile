@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero, mediante resolución exenta Nº 103 de 25 de Enero de 1988, conforme Art. 5º Transitorio Código Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sectores Excluidos y Expropiados predios "Hijuela Cuarta y Lotes B y D de la Hijuela Tercera del Plano de División de la Hacienda Nancagua", "Hijuela Poniente del Fundo La Uva Blanca" e "Hijuela Oriente del Fundo La Uva Blanca" de la comuna de Nancagua, VI Región y Derechos Aprovechamiento Aguas que corresponden a las parcelas Nºs. 1 a la 45 y sitios Nºs. 1 al 45 del Proyecto de Parcelación "Santa Juana de Nancagua" formado por predios señalados. Los derechos de aguas se extraen del Canal Nancagua del río Tinguiririca y de los canales Huape y Comunidad del Estero Chimbarongo. Publicación hecha conforme Art. 13 Ley Nº 18.377.-
+
+Director Ejecutivo.
