@@ -1,0 +1,3 @@
+Por resolución Nº 1.791, de 11 de diciembre de 1998, de esta Subsecretaría, déjase sin efecto la resolución Nº 317, de 1997, de esta Subsecretaría que autorizó a RAMON ROBERTO CARDENAS BORQUEZ, para instalar y operar el centro de cultivo ubicado en un sector del Estero Pichicolu, comuna de Hualaihué, provincia de Palena, X Región.
+
+Valparaíso, 11 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
