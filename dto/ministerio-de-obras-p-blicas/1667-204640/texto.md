@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.667, de 30 de septiembre del 2002, se expropió el lote de terreno Nº95, superficie 412 m2, rol de avalúo 2636-10, comuna de La Cisterna, para la obra Proyecto Sistema Américo Vespucio Sur Ruta 78-Av. Grecia Sector 3: Ruta 5 - Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Miguel Luciano Margas Garetto, ascendente a la cantidad de $59.471.417.-.
+
+Fiscal del Ministerio de Obras Públicas.
