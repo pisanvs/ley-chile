@@ -19076,7 +19076,7 @@ PRESTAMOS EN MONEDA CHILENA CON CARGO A RECURSOS EN MONEDA EXTRANJERA. CAPITULO 
 
 1.- Generalidades.
 
-En conformidad con las normas del Banco Central de Chile, contenidas en el Capítulo V.B.2 del Compendio de Normas Financieras, las empresas bancarias pueden otorgar préstamos en moneda chilena con recursos en moneda extranjera provenientes de depósitos a plazo constituidos por personas naturales o jurídicas, sujetos al margen de liquidación de divisas establecido para el efecto en dicho Capítulo.
+En conformidad con las normas del Banco Central de Chile, contenidas en el Capítulo V.B.2 del Compendio de Normas Financieras, las empresas bancarias pueden otorgar préstamos en moneda chilena con recursos en moneda extranjera provenientes de depósitos a plazo constituidos por personas naturales o jurídicas.
 
 2.- Documentación de los préstamos.
 
@@ -19084,19 +19084,9 @@ Los préstamos de que se trata, se documentarán mediante la suscripción de pag
 
 3.- Liquidación y recuperación de las divisas.
 
-3.1.- Procedimientos.
+Los bancos se procurarán los recursos para otorgar estos préstamos mediante la liquidación del importe necesario de moneda extranjera.
 
-Los bancos se procurarán los recursos para otorgar estos préstamos mediante la liquidación del importe necesario de moneda extranjera, dentro del margen señalado en el numeral 3-2 siguiente.
-
-Los bancos tienen acceso al mercado cambiario formal para adquirir la moneda extranjera que hayan liquidado para otorgar los préstamos. Esas adquisiciones se efectuarán a partir de la fecha de vencimiento de los respectivos créditos, con los importes pagados por los deudores de los mismos. En el evento de que no se obtuviere la recuperación de todo o parte de algún crédito, el acceso se hará efectivo por el monto equivalente a su castigo.
-
-3.2.- Margen de moneda extranjera liquidada.
-
-El promedio de los saldos diarios de divisas liquidadas que mantengan los bancos, determinado mensualmente sobre la base de los días hábiles bancarios del respectivo mes, no podrá exceder de 0,1 veces el saldo promedio diario, determinado también mensualmente, de su respectiva posición de cambios, entendiéndose por tal aquella definida en el numeral 1.1 del Anexo N° 2 del Capítulo III del Título I del Compendio de Normas de Cambios Internacionales del Instituto Emisor.
-
-3.3- Información al Banco Central de Chile.
-
-Los bancos deben informar al Banco Central de Chile, de acuerdo a sus instrucciones, los recursos en moneda extranjera que liquiden para otorgar estos préstamos y los accesos al mercado de divisas con el producto de las recuperaciones de las colocaciones efectuadas. Además, deben remitir al Banco Central de Chile la información periódica para efectos de control del margen de que trata el Anexo N° 2 del Capítulo V.B.2 del Compendio de Normas Financieras.
+Por otra parte, los bancos tienen acceso al mercado cambiario formal para adquirir la moneda extranjera que hayan liquidado para otorgar los préstamos. Esas adquisiciones se efectuarán con los importes pagados por los deudores de los mismos. En el evento de que no se obtuviere la recuperación de todo o parte de algún crédito, el acceso se hará efectivo por el monto equivalente a su castigo.
 
 4.- Instrucciones contables.
 
