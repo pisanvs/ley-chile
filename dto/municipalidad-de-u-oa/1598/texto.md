@@ -1,0 +1,3 @@
+RECTIFICA DECRETO ALCALDICIO Nº 1.435, DE 2000
+
+Por decreto Nº 1.598, 26 diciembre 2000, decreto Nº 39, 12 enero 2001, Alcalde Municipalidad Ñuñoa, rectifica decreto alcaldicio Nº 1.435, 25 octubre 2000, sentido reemplazar ''art. 3'' por ''punto 3 del presente decreto''. Deja constancia que inmueble referido punto 1 decreto alcaldicio rectificado, se encuentra inscrito a nombre nudos propietarios expropiados fs. 45.854 Nº 53.964 año 1982 y fs. 17.959, Nº 21.405 año 1983, y usufructuario vitalicios expropiados fs. 30.630 Nº 38.025 año 1982 y fs. 10.350 Nº 13.098 año 1983. Registro Propiedad e Hipotecas y Gravámenes Conservador Bienes Raíces Santiago.
