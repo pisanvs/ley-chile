@@ -612,11 +612,7 @@ b) Por haber transcurrido más de un año, contado desde la fecha de la cesantí
 
 #### Artículo 76
 
-El Consejo de la Caja de Previsión de Empleados Particulares podrá autorizar tasas de aumento de las cantidades sobre las cuales se regulen las imposiciones de los imponentes voluntarios, previo informe favorable de la Superintendencia de Seguridad Social.
-
-El aumento no podrá exceder del porcentaje en que haya aumentado el sueldo vital escala A) del departamento de Santiago, en el período en que se solicite el reajuste con respecto al inmediatamente anterior.
-
-Estas tasas regirán por el período de vigencia del correspondiente sueldo vital mensual.
+° DEROGADO.
 
 ## Título VII — (ARTS. 77-81)
 
