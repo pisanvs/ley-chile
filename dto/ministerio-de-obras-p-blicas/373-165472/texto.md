@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 373, de 29 de noviembre de 1985, se expropiaron los lotes N°s. 1, 2 y 3 y se constituyó servidumbres perpetuas subterráneas sobre los lotes N°s. 4, 5 y 6, cuyas superficies son 300 m2., 345 m2., 300 m2., 2.160 m2., 1.260 m2. y 1.020 m2., respectivamente, rol de avalúo 102-18, Comuna de Machalí, VI Región, para Agua Potable de Rancagua en sector recinto Sendos Sanchina y se acordó el precio de indemnización con su propietario Club de Polo Cachapoal, ascendente a $ 1.528.286.
+
+- Fiscal del Ministerio de Obras Públicas. (16)
