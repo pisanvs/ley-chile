@@ -1,0 +1,3 @@
+Por resolución Nº 47, de 3 julio 2003, Serviu Región Tarapacá, conforme DL Nº 1.523/1976; Nº 2.186/1978 y DS Nº 355/76, 131 de 2002 y 71/2003, todos de Vivienda y Urbanismo, dispuso expropiación del inmueble ubicado en Iquique, calle Las Cabras Nº 1753, rol avalúo 79-01 de presunto dominio de María Ester Urdanivia Pozo. Comisión integrada por Peritos Héctor Ruiz Le-Beuffe, arquitecto, y señores Gastón González Kemnis y Oscar Escárate Arancibia, constructores civiles, según informe tasación de 27 junio 2003, fijó monto provisional de indemnización en $12.500.000 pagadera al contado.
+
+Dina Tarraza Lovazzano, Directora Serviu Región de Tarapacá.
