@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO No. 210 EXENTO DE 1989
+
+Por decreto supremo exento de Educación No. 210, de 20 de diciembre de 1989, se han modificado, a contar del año escolar 1990, los decretos supremos exentos de Educación N°s. 34 y 197, ambos de 1987, que aprobaron planes especiales de estudio de educación media para las especialidades de Secretariado Bilingüe y Programador de Aplicaciones, Secretariado Ejecutivo Bilingüe y Traductor, Secretariado Ejecutivo y Programador de Aplicaciones y Secretariado Administrativo Bilingüe con mención en Técnicas Contables, respectivamente, al Instituto Comercial "Iquique English College", de Iquique, en el sentido de sustituir los planes de estudio diferenciados para 1° año medio técnico - profesional por el que se indica en el presente decreto.
+
+Santiago, 16 de Enero de 1990.- María Sixtina Barriga Guzmán. Subsecretaria de Educación Pública.-
