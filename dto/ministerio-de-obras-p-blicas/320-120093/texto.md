@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 320, de 31 de marzo de 1998, se expropió el lote de terreno Nº 3, superficie 619 M2., rol de avalúo en trámite, comuna de Villa Alegre, para la obra Camino San Javier Constitución Rol M-30. L, sector Ptes. Los Gemelos y se acordó precio de la indemnización con su propietario Manuel V. Troncoso Gutiérrez, ascendente a la cantidad de $288.213.-
+
+Fiscal del Ministerio de Obras Públicas.
