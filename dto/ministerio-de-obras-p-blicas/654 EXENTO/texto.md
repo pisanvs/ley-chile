@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº654, de 31 de mayo de 2001, se expropió el lote de terreno Nº65-3, superficie 178 m², rol de avalúo 514-109, comuna de San Fernando, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector H, Sexta Región y se acordó el valor de indemnización con su propietario Pedro Orlando Poblete Torres, ascendente a la cantidad de $913.896.-
+
+Fiscal del Ministerio de Obras Públicas.
