@@ -1,0 +1,3 @@
+Por decreto MOP Nº401, de 26 de febrero de 1999, se expropiaron los lotes de terreno Nºs 18 y 19, superficies 301 m2 y 129 m2, rol de avalúo 1509-299, comuna de Los Angeles, para la Obra ''Concesión Internacional Ruta 5, Tramo: Chillán-Collipulli'', Octava Región y se acordó el valor de indemnización con su propietario Domingo Godoy Pino, ascendente a la cantidad total de $178.095.-
+
+Fiscal del Ministerio de Obras Públicas.
