@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.641, de 28 de abril de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 45-A, para la obra: Camino Acceso Norte a Concepción VIII Región, Ramal Colector, Sector Rafael-Agua Amarilla, Km.
+
+2.709,00 al Km. 10.187,00, Octava Región, que figura a nombre de Juan de Dios Jara Ortiz, rol de avalúo 619-20, comuna de Tomé, superficie 1.602 m2. La comisión de peritos integrada por los señores Pablo Carrillo Valenzuela, Ramón Jofré Soto y José Manuel Gálvez Alegría, fijó con fecha 17 de junio de 1998, el valor provisional de la indemnización en la cantidad de $288.360.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
