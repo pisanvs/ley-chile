@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 97 de 01 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a Sector excluido y Sector expropiado predio "Hijuela Primera o del Norte de las Tres en que se dividió el Fundo Santo Tomás" de las comunas de Parral y Retiro, VII Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N° 1 a la 53, sitios N° 1 al 35 y Reserva CORA N° 1 del Proyecto de Parcelación "Ajial Valdivieso" formado por predio señalado y predio "El Temblador". Los derechos de agua se extraen del Canal San Nicol s y Derrames del Fundo El Ajial.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
