@@ -1,0 +1,157 @@
+DECLARA EN ESTADO DE EMERGENCIA LAS REGIONES, PROVINCIAS Y COMUNAS DEL PAIS QUE SE INDICAN, POR UN LAPSO DE 90 DIAS
+
+Santiago, 05 de Marzo de 1987.- Hoy se decretó lo que sigue:
+
+Núm. 307.- Visto:
+
+a) Que el número 3 del artículo 40 de la Constitución Política de la República de Chile prevé la declaración del Estado de Emergencia cuando existe peligro interno para la Seguridad Nacional;
+
+b) Lo establecido en la letra A) No. 1 de la disposición transitoria décimo - quinta de la misma Carta Fundamental;
+
+c) Lo previsto por los números 4° y 6° del artículo 41 de la Constitución Política de la República de Chile y por el artículos 5° de la Ley No. 18.415;
+
+Considerando: La necesidad que existe de prever la sustitución de un Jefe de Zona en Estado de Emergencia, cuando circunstancias de fuerza mayor impidan al titular desempeñar tal cargo, por enfermedad o ausencia de su área Jurisdiccional,
+
+Decreto:
+
+#### Artículo primero
+
+Decláranse Zonas en Estado de Emergencia a contar de la fecha de publicación del presente Decreto en el Diario Oficial, las Regiones, Provincias y Comunas del país que se indican, por un lapso de 90 días y desígnase Jefes de la Defensa Nacional Titulares y Reemplazantes de ellas a los siguientes Oficiales de las Fuerzas Armadas con las facultades determinadas en el artículo 5° de la Ley No.
+
+18.415.
+
+I REGION
+
+Titular: Mayor General BRAVO Valdés, Julio César (RUN No. 2.773.579-7)
+
+Reemplazantes: General de Brigada Aérea (A) FERNANDEZ Cortés, Enrique (RUN No. 3.851.057-6)
+
+Brigadier General DARRIGRANDI Márquez, Héctor (RUN No. 2.185.689-4)
+
+Coronel de Ejército MEZA Cornejo, Luis Eugenio (RUN No. 4.014.687-3)
+
+II REGION
+
+Titular: Brigadier General KRAUSHAAR Scheuch, Helmut Herman (RUN No. 3.372.596-5)
+
+Reemplazante: Brigadier General SALDES Irarrázabal, Hernán (RUN No. 2.951.048-2)
+
+III REGION
+
+Titular: Teniente Coronel de Ejército ALLIENDE Figueroa, Gabriel Robinson (RUN No. 5.275.294-9)
+
+Reemplazante: Teniente Coronel de Ejército VIVAS Rosales, Arturo (RUN No. 5.528.194-7)
+
+IV REGION
+
+Titular: Teniente Coronel de Ejército REYES Santelices, Hernán (RUN No. 5.185.657-0)
+
+Reemplazante: Teniente Coronel de Ejército PUENTES Vásquez, Jorge Blas (RUN No. 5.516.986-1)
+
+V REGION
+
+(Excepto las Provincias de Valparaíso, San Antonio
+
+e Isla de Pascua)
+
+Titular: Teniente Coronel de Ejército HORTA Jhones, Fernando Atilio (RUN No. 4.635.487-0)
+
+Reemplazante: Teniente Coronel de Ejército MARTIN Junemann, Alejandro José (RUN No. 5.054.443-5)
+
+PROVINCIAS DE VALPARAISO E ISLA DE PASCUA
+
+Titular: Vicealmirante HOWARD Balaresque, John (RUN No. 2.493.005-K)
+
+Reemplazantes: Vicealmirante CAMUS Scherrer, Fernando (RUN No. 2.770.922-2)
+
+Contralmirante SEPULVEDA Ortiz, Jorge (RUN No. 1.817.121-K)
+
+Capitán de Navío DEFORMES Duco, Víctor (RUN No. 3.948.829-9)
+
+REGION METROPOLITANA Y PROVINCIA DE SAN ANTONIO
+
+Titular: Brigadier General ZINCKE Quiroz, Jorge Ernesto (RUN No. 3.375.362-4)
+
+Reemplazante: Brigadier General GONZALEZ Vergara, Jaime (RUN No. 3.389.121-0)
+
+VI REGION
+
+Titular: Coronel de Ejército MOYANO Vatel, Raúl Adolfo (RUN No. 4.217.877-2)
+
+Reemplazantes: Teniente Coronel de Ejército RIVEROS Valdés, Eric (RUN No. 4.065.739-3)
+
+Teniente Coronel de Ejército DURAND González, Ramón Jorge (RUN No. 4.764.908-0)
+
+VII REGION
+
+Titular: Coronel de Ejército LAGOS Silva, Jorge Gustavo (RUN No. 4.315.446-K)
+
+Reemplazantes: Coronel de Ejército PINTO Pérez, Víctor Raúl (RUN No. 4.181.994-4)
+
+Coronel de Ejército PINEIRO García, Sergio Fernando (RUN No. 4.385.417-8)
+
+VIII REGION
+
+(Excepto las Comunas de Talcahuano, Penco y Tomé)
+
+Titular: Brigadier General IBAÑEZ Tillería, Eduardo (RUN No. 3.311.192-4)
+
+Reemplazante: Brigadier General CHACON Soto, Hernán Carlos (RUN No. 3.469.956-9)
+
+COMUNAS DE TALCAHUANO, PENCO Y TOME
+
+Titular: Contralmirante ALVAYAY Fuentes, Eduardo (RUN No. 3.323.787-1)
+
+Reemplazante: Capitán de Navío SARAVIA Neumann, Fernando (RUN No. 2.654.340-1)
+
+IX REGION
+
+Titular: Coronel de Ejército PRADO Lazo, Sergio Osvaldo (RUN No. 4.559.280-4)
+
+Reemplazantes: Teniente Coronel de Ejército OCHOA Zavala, Patricio Hugo (RUN No. 4.583.852-8)
+
+Teniente Coronel de Ejército DURCUDOY Montandon, Pedro Alberto (RUN No. 5.427.918-3)
+
+Teniente Coronel de Ejército TAMBORINO Loayza, Domingo Alfredo (RUN No. 5.490.827-K)
+
+X REGION
+
+(Excepto las Provincias de Llanquihue, Chiloé y Palena)
+
+Titular: Brigadier General ITURRIAGA Neumann, Raúl Eduardo (RUN No. 3.672.875-2)
+
+Reemplazante: Brigadier DE LA BARRERA Werner, Carlos Rodolfo (RUN No. 3.704.415-6)
+
+PROVINCIAS DE LLANQUIHUE Y CHILOE
+
+Titular: General de Brigada Aérea (A) ITURRIAGA Moreira, Jorge Gustavo (RUN No. 3.514.571-0)
+
+Reemplazantes: Coronel de Aviación BESOAIN Armijo, Horacio Alberto (RUN No. 4.382.671-9)
+
+Capitán de Navío CONTRERAS Pivet, Pablo Germán (RUN No. 3.486.764-K)
+
+XI REGION Y PROVINCIA DE PALENA
+
+Titular: Brigadier General SANCHEZ Casillas, Rodrigo (RUN No. 3.800.062-4)
+
+Reemplazantes: Coronel de Ejército CORTES Alvarez, Hernán Julio (RUN No. 4.200.934-2)
+
+Teniente Coronel de Ejército VARGAS Campos, Rodolfo Osvaldo (RUN No. 4.181.057-2)
+
+XII REGION
+
+Titular: Mayor General LOPEZ Silva, Claudio (RUN No. 1.652.784-7)
+
+Reemplazantes: Brigadier General NAVARRETE Barriga, Mario (RUN No. 2.711.3109)
+
+General de Brigada Aérea (A) ALZERRECA de Gortazar, René (RUN No. 1.885.214-4)
+
+Capitán de Navío GALLEGOS Villalobos, Alfredo (RUN No. 3.540.814-2)
+
+#### Artículo segundo
+
+Todas las Fuerzas Armadas y de Orden y Seguridad Pública que se encuentren o lleguen al territorio jurisdiccional de estas Zonas en Estado de Emergencia, se pondrán bajo la autoridad del Jefe respectivo.
+
+Anótese, tómese razón, regístrese y publíquese en el Diario Oficial y en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros y Policía de Investigaciones de Chile.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Ricardo García Rodríguez, Ministro del Interior.- Patricio Carvajal Prado, Ministro de Defensa Nacional.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Alberto Cardemil Herrera, Subsecretario del Interior.
