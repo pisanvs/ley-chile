@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.902 de 09.09.87, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido o Reserva y Sector Expropiado predios "Hijuela Santa Julia de Viluco", "Santa Eugenia de Cervera", "Santa María de Cervera", "San Luis de Cervera" de la comuna de Buin, Región Metropolitana: y Derechos Aprovech am iento Aguas que corresponden a parcelas N°s. 1 a la 46 y sitios N°s. 1 al 35 del Provecto de Parcelación "Viluco, Santa Julia, La Esperanza, Las Encinas, Los Carolinos" formado por predios señalados entre otros. Los Derechos de Agua se extraen del canal Viluco de ta Asociación Canales Unidos de Buin, derivado del río Maipo.
+
+Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecútivo.
