@@ -1,0 +1,5 @@
+AUTORIZA A DON RENE ALEJANDRO MURUA SANTIBAÑEZ PARA INICIAR ACTIVIDADADES PESQUERAS
+
+Por resolución No. 354 de 23 de Abril de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don René Alejandro Murúa Santibáñez, R.U.T. No. 9.446.052-2, domiciliado en San Martín No. 815. Depto. 504, Concepción, para instalar y operar un establecimiento de cultivo de algas del género Graciliaria, Chorito y Choro, en un sector denominado Lomas de Punta Parra, Comuna de Perico, Provincia de Concepción, VIII Región, en fondo de mar y porciones de agua situadas en un área de 80.000 m2. El cultivo de algas se sembrará en 50.000 m2 de fondo de mar, situado en el sector Norte del área solicitada y el de chorito y choro se desarrollará en un área de 30.000 m2 en el sector Sur de dicha superficie.
+
+Valparaíso, 23 de Abril de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
