@@ -1,0 +1,3 @@
+Por Resolución Nº 1.565 de 14 de noviembre de 1997 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la solicitud de concesión de acuicultura, solicitud Nº 95103053, presentada por MANAO BAY FISHERY S.A., para el centro de cultivo ubicado en Sector Punta Couquencura, Isla Quinchao, comuna de Quinchao, provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 78 y 87 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 14 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
