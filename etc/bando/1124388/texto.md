@@ -1,0 +1,5 @@
+Prohibicion del uso de las cuartas en la venta de licores
+
+Con la previa aprobacion del Supremo Gobierno del Estado ordeno; siendo intolerable el abuso que hacen los revendedores de licores, comprando en las antiguas cuartas i vendiendo con las reformadas; llegando a tal estremo este exceso que no pocas veces celebran sus contratos con la calidad de comprar en aquéllas, se prohibe absolutamente el uso de ellas, i los que las tengan deberán romperlas precisamente en el dia, advertidos que enunciada la informacion se les aplicará por la primera vez la multa de 25 pesos i la segunda la pena que en sí reserva la intendencia; dándose al denunciante que calificare el hecho la total exhibicion. Para que no aleguen ignorancia, publíquese por bando, fíjese e imprímase.-
+
+Sala de Intendencia de Santiago i Noviembre 18 de 1817.-Francisco de Borja Fontecilla.
