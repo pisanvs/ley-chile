@@ -1,0 +1,3 @@
+Por Resolución Nº 1.057, de 18 de julio de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las Resoluciones Nº 397 y Nº 1.037, ambas de 1990, de esta Subsecretaría, que autorizaron a don JORGE VERDUGO BUSTOS, para iniciar actividades pesqueras extractivas con la nave "Manutara", por haberse configurado la causal prevista en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 18 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
