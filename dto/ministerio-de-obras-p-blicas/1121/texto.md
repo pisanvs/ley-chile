@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 1.121, de 24 de noviembre de 1997, se expropiaron los lotes de terreno N°s 14 y 14-D, superficies 300 y 330, rol de avalúo 593-28, comuna de Yungay, para la obra Proyecto Laja Diguillín, Area de Riego Yungay, Canal Rinconada y se acordó precio de indemnización con sus propietarios Olga Nieves Cáceres Fuentes y Luis Iván Cáceres Fuentes, ascendente a las cantidades de $249.359 y $274.294.-
+
+Fiscal del Ministerio de Obras Públicas.
