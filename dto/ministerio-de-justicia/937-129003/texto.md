@@ -1,0 +1,21 @@
+CONCEDE PERSONALIDAD JURIDICA Y APRUEBA ESTATUTOS A "CORPORACION INTERDENOMINACIONAL DE PASTORES DE CHILE", DE SANTIAGO
+
+Santiago, 23 de Agosto de 1988.- Hoy se decretó lo que sigue:
+
+Núm. 937.- Vistos: Estos antecedentes, lo dispuesto en el Decreto Supremo de Justicia No. 110, Reglamento sobre Concesión de Personalidad Jurídica, publicado en el Diario Oficial de 20 de marzo de 1979 y lo informado por el señor Intendente de la Región Metropolitana y
+
+Considerando: Que la entidad denominada
+
+"Corporación Interdenominacional de Pastores de Chile", debe contar a la brevedad con el beneficio de la personalidad jurídica, para dar cumplimiento a sus finalidades, destinadas principalmente a propagar la enseñanza del evangelio, para cuyo efecto, propenderá a agrupar obispos y pastores, cooperando al cultivo de un ambiente que permita el respeto de estas creencias cristianas, lo que constituye un fundamento suficiente y calificado para concedérsela en los términos previstos en el inciso tercero del artículo 23 del Reglamento sobre Concesión de Personalidad Jurídica,
+
+Decreto:
+
+1.- Concédese personalidad jurídica a la entidad denominada "Corporación Interdenominacional de Pastores de Chile", con domicilio en la provincia de Santiago, Región Metropolitana de Santiago.
+
+2.- Apruébanse los estatutos por los cuales se ha de regir la citada entidad, en los términos de que dan testimonio las escrituras públicas de fechas 26 de mayo y 27 de julio de 1988, otorgadas ante los Notarios Públicos de Santiago, don Patricio Zaldívar Mackenna y don Jorge Zañartu Squella, suplente del anterior, respectivamente.
+
+3.- La entidad cuya personalidad jurídica se concede por este decreto, deberá dar cumplimiento a las disposiciones del Decreto Ley No. 349, de 1974, y sus modificaciones.
+
+Tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Hugo Rosende Subiabre, Ministro de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Luis Manríquez Reyes, Subsecretario de Justicia.
