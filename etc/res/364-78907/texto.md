@@ -1,0 +1,3 @@
+Por Resolución N°. 364 de 21 de Abril de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N°. 1.521, de 1989, de esta Subsecretaría, que autorizó a don JOSE FRIOLIN AGUILAR ASCENCIO, R.U.T. N°. 4.684.713-K, domiciliado en Sector Rural de Yaldad, Comuna de Quellón, para operar un establecimiento de cultivo, en Estero de Yaldad, Comuna de Quellón, Provincia de Chiloé, X Región por renuncia total de su titular, ya individualizado:
+
+Valparaíso, 21 de Abril de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
