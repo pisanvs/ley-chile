@@ -1,0 +1,3 @@
+Por Resolución No. 442, de 9 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, parte inmueble ubicado en Santa Isabel No. 331, presunto rol avalúos No. 584-40, comuna Santiago, aparentemente dominio de doña María Ramírez Ramírez. Comisión integrada por peritos Sres. Italo Núñez Núñez, Hernán Monckeberg Barros, arquitectos, y Jorge Cavagnaro Michelis, ingeniero civil, según informe de 26.12.88, fijó monto provisional indemnización en $ 1.481.800.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
