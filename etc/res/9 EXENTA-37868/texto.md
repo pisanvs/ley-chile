@@ -1,0 +1,5 @@
+RESUELVE ACEPTAR RENUNCIA VOLUNTARIA A SERGIO MANSILLA GACITUA A CONCESION QUE SEÑALA
+
+Por Resolución Exenta N° 9/96 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, dispúsose la publicación en extracto de esa Resolución Exenta que resolvió aceptar la renuncia voluntaria del concesionario Sergio Mansilla Gacitúa a la concesión para operar un establecimiento destinado a la revisión técnica y verificación de emisiones de contaminantes de los vehículos a que se refiere el inciso 2° del art. 7° del D.S. N° 156/90 del Ministerio de Transportes y Telecomunicaciones, clase B-35, ubicado en Av. Francisco Bilbao N° 8751, comuna de La Reina, Región Metropolitana.-
+
+Antonio Dourthé Castrillón, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
