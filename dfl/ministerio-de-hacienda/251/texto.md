@@ -280,11 +280,9 @@ d) mutuos hipotecarios endosables autorizados en el artículo 21 bis, para las c
 
 e) bonos, pagarés y debentures emitidos por empresas públicas o privadas;
 
-f) 1. cuotas de fondos de inversión mobiliaria, de desarrollo de empresas e inmobiliaria, establecidos de acuerdo a la ley.
+f) 1. cuotas de fondos de inversión;
 
-2. cuotas de fondos de inversión de créditos securitizados, clasificadas en primera clase.
-
-3. cuotas de fondos mutuos de renta fija de corto plazo;
+2. cuotas de fondos mutuos;
 
 g) 1. acciones de sociedades anónimas abiertas, cuya presencia ajustada anual sea igual o superior a 10% y se encuentren clasificadas como acciones de primera clase, en conformidad a la ley N° 18.045, o cuyos emisores sin disponer de tales clasificaciones, presenten en cada uno de los 3 últimos años, coberturas de gastos financieros iguales o superiores a las señaladas anualmente por la Superintendencia. No podrá invertirse en acciones de sociedades administradoras de fondos de pensiones o de fondos mutuos, de instituciones de salud previsional, de entidades aseguradoras, de sociedades deportivas o educacionales y de aquellas cuyo objeto sea la prestación de beneficios de carácter social a sus accionistas, o de sociedades cuyo activo en más de un 50% esté constituido por acciones y derechos en entidades de los tipos recién descritos;
 
@@ -306,13 +304,19 @@ I) 1. títulos de crédito emitidos por Estados Extranjeros y bancos centrales e
 
 6. aceptaciones bancarias, esto es, títulos de crédito emitidos por terceros y afianzados por bancos extranjeros;
 
-7. bonos convertibles o no convertibles en acciones emitidos por sociedades o corporaciones constitiudas fuera del país, y
+7. bonos convertibles o no convertibles en acciones emitidos por sociedades o corporaciones constitiudas fuera del país;
 
-8. acciones emitidas por sociedades o corporaciones constituidas fuera del país.
+8. acciones emitidas por sociedades o corporaciones constituidas fuera del país;
+
+9. Cuotas de Fondos de Inversión, a que se refiere la ley N° 18.815 y cuotas de fondos mutuos, a que se refiere el decreto ley N° 1.328, de 1976, cuyos activos estén invertidos en valores extranjeros;
+
+10. Cuotas de fondos constituidos fuera del país, siempre que sus activos correspondan a aquellos instrumentos señalados en los números 1 a 8, precedentes, y
+
+11. certificados de depósito de valores o CDV a que se refiere el Título XXIV de la ley Nº 18.045.
 
 Los emisores o garantizadores de los instrumentos señalados precedentemente no podrán tener la calidad de persona relacionada con la compañía inversionista.
 
-Las inversiones podrán efectuarse directamente adquiriendo el título respectivo, o mediante la adquisición de cuotas de participación en fondos mutuos extranjeros, o instrumentos equivalentes, siempre que sus políticas de inversión y de diversificación permitan cumplir respecto de los instrumentos que componen su cartera de inversión, las exigencias de esta ley. En caso de duda, resolverá la Superintendencia.
+La Superintendencia podrá establecer, mediante norma de carácter general, los requisitos mínimos que deberán reunir los activos que formen parte de la cartera de inversiones de los fondos señalados en los números 9 y 10 precedentes, para ser representativos de reservas técnicas y patrimonio de riesgo. En caso de duda, resolverá la Superintendencia.
 
 La Superintendencia, previa consulta al Banco Central de Chile, mediante norma de carácter general a publicarse en el Diario Oficial, establecerá las monedas en que podrán expresarse y los países en que podrán efectuarse tales inversiones, y las demás características, reglas y procedimientos a que ellas deberán sujetarse.
 
@@ -334,7 +338,7 @@ II) En bienes raíces urbanos no habitacionales situados en el exterior, destina
 
 La adquisición de las divisas necesarias para realizar las inversiones a que se refiere esta letra y su remesa al exterior, así como el retorno y la liquidación de los capitales y ganancias y su conversión a moneda nacional o extranjera, se sujetarán a las normas que al efecto establezca el Banco Central de acuerdo a las facultades que le confiere su Ley Orgánica.
 
-El mencionado Banco, mediante acuerdo del Consejo, establecerá anualmente los porcentajes máximos posibles de invertirse, dentro de los límites establecidos en el artículo 23, letra h).
+El mencionado Banco, mediante acuerdo del Consejo, establecerá anualmente los porcentajes máximos posibles de invertir, dentro de los límites establecidos en el artículo 23, letra h). No obstante, el porcentaje máximo de inversión en el extranjero que establezca el Banco Central, no podrá ser inferior al diez por ciento de las reservas técnicas y patrimonio de riesgo de las compañías.
 
 i) crédito no vencido por primas no devengadas otorgado a los asegurados provenientes de contratos de seguro con cláusula de resolución por no pago de prima, para respaldar reserva de riesgo en curso y patrimonio de riesgo de las compañías aseguradoras del primer grupo;
 
@@ -400,7 +404,7 @@ e) 40% del total en aquellos instrumentos comprendidos en su letra e);
 
 f) 10% del total en aquellos instrumentos comprendidos en su letra f).
 
-En el caso de las inversiones en cuotas de fondos de desarollo de empresas, éstas no podrán exceder del 5%, y tratándose de cuotas de fondos mutuos, del 5%;
+En el caso de inversiones en cuotas de fondos mutuos, éstas no podrán exceder del 5%;
 
 g) 40% del total en aquellos instrumentos comprendidos en los números 1, 2 y 3 de su letra g), en su conjunto;
 
@@ -408,15 +412,19 @@ Sin perjuicio de lo anterior, las inversiones en aquellos instrumentos del núme
 
 h)
 
-- **i)** 15% del total de las reservas técnicas referidas en los números 1), 2) y 3) del artículo 20 y del patrimonio de riesgo, y el total de la reserva adicional a que se refiere el número 4 del mismo artículo, en aquellos instrumentos comprendidos en los números 1 al 8 de la letra
+- **i)** 20% del total de las reservas técnicas referidas en los números 1), 2) y 3) del artículo 20 y del patrimonio de riesgo, y el total de la reserva adicional a que se refiere el número 4 del mismo artículo, en aquellos instrumentos comprendidos en los números 1 al 11 de la letra
 
-- **h)** I). Los instrumentos de los números 7 y 8 de la letra
+- **h)** I). Los instrumentos del número 7 de la letra
 
-- **I)** no podrán exceder del 5% de las reservas técnicas y patrimonio de riesgo.
+- **I)** no podrán exceder del 5% de las reservas técnicas y patrimonio de riesgo. Los instrumentos de los números 8, 9 y 10 de la letra
 
-El máximo de inversión en cada páis corresponderá a la mitad de los límites señalados precedentemente.
+- **I)** no podrán exceder del 10% de las reservas técnicas y patrimonio de riesgo.
 
-ii) 3% del total en aquellos instrumentos comprendidos en su letra h) II);
+La inversión en los instrumentos del número 11 de la letra h) I) del artículo 21 deberá considerarse como inversión en el título que éste represente, quedando comprendida dentro de los límites precedentes que correspondan.
+
+El máximo de inversión en cada país corresponderá a la mitad de los límites señalados precedentemente. Para la aplicación de esta limitación, no se considerará la inversión en instrumentos de los números 9 y 10 de la letra h) I).
+
+ii) 3% del total en aquellos activos comprendidos en su letra h) II);
 
 i) el total de la reserva de riesgo en curso y 10% del patrimonio de riesgo en los créditos mencionados en su letra i);
 
@@ -430,7 +438,7 @@ m) el total de la reserva de riesgo en curso en los activos mencionados en su le
 
 n) El total de la reserva de siniestros en los activos mencionados en su letra n), y
 
-No obstante lo anterior, el monto máximo de la inversión de los instrumentos y activos señalados en las letras d); g), N° 2, y k), las cuotas de fondos de inversión inmobiliaria de su letra f) y los bonos y efectos de comercio respaldados por títulos de crédito transferibles relacionados con el sector inmobiliario, no podrán superar el 40% de las reservas técnicas y del patrimonio de riesgo de las compañías del segundo grupo.
+No obstante lo anterior, el monto máximo de la inversión de los instrumentos y activos señalados en las letras d); g), N° 2, y k), las cuotas de fondos de inversión de su letra f), en cuanto inviertan en algunos de los activos señalados en los números 10), 11), 12), 13) y 15) del artículo 5º de la ley Nº 18.815 y los bonos y efectos de comercio respaldados por títulos de crédito transferibles relacionados con el sector inmobiliario, no podrán superar el 40% de las reservas técnicas y del patrimonio de riesgo de las compañías del segundo grupo.
 
 #### Artículo 24
 
@@ -456,7 +464,9 @@ I) un múltiplo único para todas las instituciones financieras fijado por la Su
 
 II) la proporción que representan las reservas técnicas y el patrimonio de riesgo de la inversionista respecto del total de las reservas técnicas y del patrimonio de riesgo de todas las compañías del grupo en el cual opera la respectiva aseguradora o reaseguradora;
 
-III) el patrimonio de la entidad financiera, y IV) el factor de riesgo promedio ponderado de la entidad financiera;
+III) el patrimonio de la entidad financiera, y
+
+IV) el factor de riesgo promedio ponderado de la entidad financiera;
 
 c) las inversiones en los instrumentos comprendidos en la letra c) de dicho artículo emitidos por una misma entidad financiera no podrán exceder del menor de los siguientes valores:
 
@@ -470,7 +480,9 @@ I) un múltiplo único para todas las instituciones financieras fijado por la Su
 
 II) la proporción que representan las reservas técnicas y el patrimonio de riesgo de la inversionista respecto del total de las reservas técnicas y del patrimonio de riesgo de todas las compañías del grupo en el cual opera la respectiva aseguradora o reaseguradora;
 
-III) el patrimonio de la entidad financiera, y IV) el factor de riesgo promedio ponderado de la entidad financiera;
+III) el patrimonio de la entidad financiera, y
+
+IV) el factor de riesgo promedio ponderado de la entidad financiera;
 
 d) Las inversiones en los instrumentos comprendidos en la letra d) de dicho artículo no estarán sujetas a límites por este concepto;
 
@@ -486,37 +498,21 @@ I) un múltiplo único para todas las empresas emisoras de bonos, pagarés y deb
 
 II) la proporción que representen las reservas técnicas y el patrimonio de riesgo de la inversionista respecto del total de las reservas técnicas y del patrimonio de riesgo de todas las compañías del grupo en el cual opera la respectiva aseguradora o reaseguradora;
 
-III) el patrimonio consolidado de la emisora. Sin embargo, en el caso de empresas cuyo giro principal sea la realización de operaciones de leasing y aquellas a que se refiere el Título XVIII de la ley 18.045 de Mercado de Valores, este factor será definido por la Superintendencia, no pudiendo ser inferior a cuatro veces el patrimonio consolidado de la emisora , y
+III) el patrimonio consolidado de la emisora. Sin embargo, en el caso de empresas cuyo giro principal sea la realización de operaciones de leasing, de empresas concesionarias de obras de infraestructura de uso público y aquellas a que se refiere el Título XVIII de la ley 18.045 de Mercado de Valores, el factor aplicable por tipo de empresa será definido por la Superintendencia, no pudiendo ser inferior a cuatro veces el patrimonio consolidado de la emisora , y
 
-f) Las inversiones en los instrumentos y activos de un fondo comprendidos en la letra f) de dicho artículo, no podrán exceder del menor de los siguientes valores:
+f) Las inversiones en instrumentos y activos de un fondo comprendido en la letra f) de dicho artículo, no podrán exceder del menor de los siguientes valores:
 
-I) Fondos de Inversión Mobiliaria:
+I) Fondos de inversión:
 
 1. El 7% de las reservas técnicas y patrimonio de riesgo de la inversionista, o
 
+2. El 10% de las cuotas suscritas de dicho fondo o, tratándose de compañías del segundo grupo, el 20% cuando dichos fondos inviertan sus activos en los números 10), 11), 12, 13) y 15) del artículo 5º de la ley Nº 18.815, y
+
+II) Fondos mutuos:
+
+1. El 5% de las reservas técnicas y patrimonio de riesgo de la inversionista, o
+
 2. El 10% de las cuotas suscritas de dicho fondo.
-
-II) Fondos de Inversión de Desarrollo de Empresas:
-
-1. El 2,5% de las reservas técnicas y patrimomio de riesgo de la inversionista, o
-
-2. El 10% de las cuotas suscritas de dicho fondo
-
-III) Fondo de Inversión Inmobiliaria:
-
-1. El 7% de las reservas técnicas y el patrimonio de riesgo de la inversionista, o
-
-2. El 8% y el 20% de las cuotas suscritas de dicho fondo para las compañías del primer y segundo grupos, respectivamente;
-
-IV) Fondos de Inversión de Créditos Securitizados:
-
-1. el 5% de las reservas técnicas y patrimonio de riesgo de la inversionista, o 2. el 10% de las cuotas suscritas de dicho fondo;
-
-V) Fondos Mutuos de Renta Fija de Corto Plazo:
-
-1.- El 5% de las reservas técnicas y patrimonio de riesgo de la inversionista, ó
-
-2.- El 10% de las cuotas suscritas de dicho fondo;
 
 g) 1. las inversiones en los instrumentos comprendidos en la letra g) 1. de dicho artículo emitidos por una misma sociedad anónima abierta no podrán exceder del 7% de las reservas técnicas y del patrimonio de riesgo como tampoco del 8% de sus acciones suscritas. Estos límites se rebajarán a la mitad tratándose de acciones de bancos e instituciones financieras;
 
@@ -530,7 +526,17 @@ h)
 
 - **I)** del artículo 21 emitidos por una misma entidad no podrán exceder del 2% de las reservas técnicas y del patrimonio de riesgo;
 
-ii) las inversiones en los instrumentos comprendidos en el número 8) de la letra h) I) de dicho artículo emitidos por una misma entidad no podrán exceder del 1% de las reservas técnicas y del patrimonio de riesgo, como tampoco del 8% de sus acciones suscritas,
+ii) las inversiones en los instrumentos comprendidos en el número 8) de la letra h) I) de dicho artículo emitidos por una misma entidad no podrán exceder del 2% de las reservas técnicas y del patrimonio de riesgo, como tampoco del 8% de sus acciones suscritas;
+
+iii) Las inversiones en los instrumentos y activos de un fondo comprendido en el número 9 de la letra h) I), no podrán exceder del menor de los siguientes valores:
+
+1. El 3% de las reservas técnicas y patrimonio de riesgo, o
+
+2. El 20% de las cuotas suscritas de dicho fondo.".
+
+iv) Las inversiones en los instrumentos y activos de un fondo comprendido en el número 10 de la letra h) I), no podrán exceder del 2% de las reservas técnicas y patrimonio de riesgo.
+
+La inversión en los instrumentos del número 11 de la letra h) I) del artículo 21 deberá considerarse como inversión en el título que éste represente, quedando comprendida dentro de los límites de los números precedentes que correspondan, e
 
 i) el total de las inversiones en los instrumentos comprendidos en las letras b), c), e) y g) del artículo 21 emitidos por una misma sociedad anónima, banco, institución financiera o empresa y sus respectivas filiales, no podrá exceder del 10% de las reservas técnicas y del patrimonio de riesgo de la compañía inversionista.
 
@@ -672,7 +678,7 @@ En caso de incumplimiento de las órdenes que ella les imparta en ejercicio de s
 
 1° En reconvención;
 
-2° En multa a beneficio fiscal, hasta un monto equivalente a 1.000 unidades de fomento. En caso de tratarse de infracción reiterada de la misma naturaleza, podrá aplicarse una multa de hasta cinco veces el monto máximo antes expresado. Para estos efectos, se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a doce meses.;
+2º En multa a beneficio fiscal, en la forma y montos previstos en el decreto ley Nº 3.538, de 1980;
 
 3° En suspensión de la administración hasta por seis meses;
 
