@@ -1,0 +1,3 @@
+Por resolución Nº 780, de 17 de mayo de 1999, de esta Subsecretaría, prorrógase por el término de un año, contado desde el 27 de abril de 1999, el plazo otorgado a SOCIEDAD PESQUERA BAHIA CHILOTA Y COMPAÑIA LIMITADA para iniciar operaciones de transformación en la planta ubicada en Sector Bahía Chilota, comuna de Porvenir, provincia de Tierra del Fuego, Región de Magallanes y Antártica Chilena, autorizada mediante resolución Nº 444 de 1998, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 17 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
