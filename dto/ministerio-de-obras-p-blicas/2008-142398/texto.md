@@ -1,0 +1,5 @@
+Por decreto MOP. Nº 2.008, de 30 de julio de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 2, para la obra: Ruta 5, Tramo Talca - Chillán:
+
+''Servicios Generales Nº 1 y Servicios de Control Nº 1'', Séptima Región, que figura a nombre de Inversiones Harrison Ltda, rol de avalúo 8086-49, comuna de San Rafael, superficie 29.613 m2. La Comisión de Peritos integrada por los señores Francisco Azócar Bobadilla, Luis Hugo Villarroel Urbina y Carlos Sottolichio Díaz, fijó con fecha 16 de octubre de 1998, el valor provisional de la indemnización en la cantidad de $62.086.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
