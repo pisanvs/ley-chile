@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.416, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs. 3-A, 29-B, 30-B, 33, 34-B, 41, 41-A y 43, superficies 180, 1.613, 339, 950, 1.793, 480, 930 y 1.090 M2., respectivamente, roles de avalúos 1226-57, Comuna de Cabrero y 220-11, 220-23, 223-11 y 223-3, Comuna de Yumbel, obra Camino Ruta 0-60, sector Monteaguila-Yumbel y se acordó precio de indemnización con sus propietarios Jaime Paredes Muñoz, Víctor Paredes Matus, Ernaldo Mundaca Muñoz, María Betancur Cabezas y Francisco Melo Vega, ascendente a las cantidades de $395.388, $1.261.738, $409.588, $609.713, $516.724, $1.043.647 y $1.040.088.
+
+- Fiscal del Ministerio de Obras Públicas.
