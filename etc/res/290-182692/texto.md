@@ -1,0 +1,5 @@
+Por resolución Nº 290, de 21 de febrero de 2001, de esta Subsecretaría, autorízase a GILBERTO CORREA BRAVO, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Duao s/Nº, comuna de Licantén, provincia de Curicó, VII Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco-Enfriado y Congelado: Cojinoba del norte, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Lenguado de ojos chicos, Lisa, Merluza común, Merluza de cola, Pejegallo, Pejerrey de mar, Raya, Reineta, Róbalo, Sierra, Marrajo o tiburón y Tollo.
+
+La materia prima deberá provenir de pescadores artesanales e industriales, debidamente autorizados.
+
+Valparaíso, 21 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
