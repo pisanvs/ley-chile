@@ -1,0 +1,5 @@
+Por Resolución Nº 1.038, de 17 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1º de la Resolución Nº 2.195, de 1996, de esta Subsecretaría, que autorizó a PESCA CHILE S.A., para operar naves en el área señalada en el artículo 12 transitorio de la Ley Nº 18.892 y sus modificaciones, en el sentido de agregar el siguiente inciso segundo:
+
+"Asimismo autorízase a Pesca Chile S.A. para realizar operaciones pesqueras, por el plazo señalado en el inciso precedente, con los barcos factorías, "Faro de Hércules", "Chomapi Maru" y "Puerto Ballena", en aguas interiores, al Sur del paralelo 47°00'00" L.S., respecto de los recursos y con las obligaciones establecidas en sus respectivas autorizaciones de pesca".
+
+Valparaíso, 17 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
