@@ -1,0 +1,3 @@
+Por Resolución N° 1.765, de 15 de octubre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la autorización contenida en la Resolución N° 287, de 1983, de esta Subsecretaría, solamente en cuanto se refiere a la facultad de doña MARIA BAYCIC BAYCIC, para realizar actividades pesqueras extractivas con la nave "Ulyses 2", matrícula 1885, respecto de la autorización para capturar Merluza común, en el litoral de la IV Región al paralelo 41° 28,6' L.S., en virtud de lo señalado en el artículo 3° transitorio inciso 1° del D.S. N° 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 15 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
