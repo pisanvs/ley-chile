@@ -18652,33 +18652,21 @@ AJUSTE A LA TASACION (en porcentaje)
 
 APLICACION DE LA TABLA DE DESCUENTOS
 
-Los porcentajes de descuentos señalados en el cuadro de este Anexo, se refieren
+Los porcentajes de descuentos señalados en el cuadro de este Anexo, se refieren sólo a los ajustes mínimos aplicables en cada caso, dependiendo del tipo de garantía y de los bienes de que se trate.
 
-sólo a los ajustes mínimos aplicables en cada caso, dependiendo del tipo de
+Para la aplicación de los ajustes mínimos, cuando corresponda, debe entenderse por "Inventarios", aquéllos bienes que forman parte del stock renovable de una empresa.
 
-garantía y de los bienes de que se trate.
+Por otra parte, se entiende por "bienes de consumo final" aquéllos que pueden ser utilizados por los consumidores finales, quedando excluidos los productos que requieren mayor elaboración o que constituyen materia prima para otra empresa, aunque correspondan al producto final de una industria intermedia.
 
-En el caso de warrants posibles de valorizar según las normas, el ajuste total
+En el caso de warrants posibles de valorizar según las normas, el ajuste total mínimo de la tasación será cinco puntos porcentuales menor que el indicado en la tabla Por ejemplo, al corresponder a bienes de consumo final, el ajuste mínimo será de un 10%.
 
-mínimo de la tasación será cinco puntos porcentuales menor que el indicado en la
+En el caso de prendas industriales, el ajuste total mínimo que se aplique sobre el valor de tasación sera de 30% si los préstamos que se encuentran resguardados con dichas garantías cumplen copulativamente con las siguientes condiciones.
 
-tabla. Por ejemplo, al corresponder a bienes de consumo final, el ajuste mínimo
+a) hayan sido otorgados para la construcción o equipamiento de una planta industrial,
 
-será de un 10%.
+b) la prenda se haya constituido sobre la totalidad de las maquinarias que conforman la línea de producción de la planta, y,
 
-Para la aplicación de los ajustes mínimos, cuando corresponda, debe entenderse
-
-por "Inventarios", aquéllos bienes que forman parte del stock renovable de una
-
-empresa.
-
-Por otra parte, se entiende por "bienes de consumo final" aquellos que pueden
-
-ser utilizados por los consumidores finales, quedando excluidos los productos
-
-que requieren mayor elaboración o que constituyen materia prima para otra
-
-empresa, aunque correspondan al producto final de una industria intermedia.
+c) en el financiamiento participan a lo menos dos instituciones financieras del país y, a su vez, existe un convenio de acreedores que impide la enajenación de la garantía por partes, es decir, que obligue a su enajenación como unidad económica.
 
 CAPITULO 12-4 (Bancos y Financieras)
 
