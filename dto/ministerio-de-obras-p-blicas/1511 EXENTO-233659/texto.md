@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.511, de fecha 29 de octubre de 2004, se expropiaron los lotes de terreno Nºs 4 y 8, superficies 1.137,00 m². y 374,00 m²., roles de avalúo Nº 203-69 y 203-71, comuna de Toltén, para la obra "Camino Ruta S-790, Sector Nueva Toltén - Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub-Tramo I Km. 71,46676 al Km. 80,55700", IX Región y se acordó el valor de la indemnización con su propietaria Celma del Carmen Franco Durán, ascendente a la cantidad de $1.638.669.
+
+Fiscal del Ministerio de Obras Públicas.
