@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.606 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 11, superficie 374 m², rol de avalúo 10-104, comuna de Paine, para la obra ''Concesión Internacional Ruta 5 Tramo Santiago - Talca, Sector B: Km. 42.950,00 a Km. 55.200,00'' y se acordó el valor de indemnización con su propietario Gumercindo Luciano Moreno Soto y otros, ascendente a la cantidad de $3.368.748.-
+
+Fiscal del Ministerio de Obras Públicas.
