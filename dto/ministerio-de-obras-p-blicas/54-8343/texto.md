@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 54, de 25 de febrero de 1993, se expropiaron los lotes de terreno N°s. 26 y 34, superficies 230 m2. y 80 m2., respectivamente, roles de avalúo 29-1 y 29-15, Comunas de Olivar y Coinco, para la obra Camino Olivar-Coinco, y se acordó precio de indemnización con su propietario Jacinto Miranda Gaínza, ascendente a la cantidad de $1.479.296.-
+
+Fiscal del Ministerio de Obras Públicas.
