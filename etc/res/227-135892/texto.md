@@ -1,0 +1,5 @@
+AUTORIZA A DON RICARDO DEVOTO RIVEROS PARA AMPLIAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+Por resolución No. 227, de 03 de Marzo de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Ricardo Devoto Riveros, cédula de identidad No. 1.668.360-4, domiciliado calle Atacama No. 2822, Antofagasta, II Región, para ampliar actividades pesqueras de transformación que tiene autorizadas por resolución No. 11, de 1984, de esta Subsecretaría, en orden a incluir en el numeral 3° de dicha resolución, el recurso hidrobiológico Bacalao. Declárase la caducidad de las resoluciones No. 637 y No. 1.335, de 1987, ambas de esta Subsecretaría, en virtud de lo dispuesto en el artículo 6° del decreto supremo No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 03 de Marzo de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
