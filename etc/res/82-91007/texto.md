@@ -1,0 +1,5 @@
+Por Resolución Nº 82, de 21 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de ampliación de plazo para realizar actividades pesqueras extractivas presentada por PESQUERA CARACOL LTDA., para su nave "Mar Negro", por no constituir las circunstancias alegadas caso fortuito ni fuerza mayor, y por haberse presentado extemporáneamente.
+
+Declárase la caducidad de las autorizaciones otorgadas por resoluciones Nº 836 de 1989 y Nº 1.138 de 1991, ambas de esta Subsecretaría, que autorizaron a Pesquera Caracol Ltda. para operar con la nave "Mar Negro", por haber incurrido ésta en las causales de caducidad contempladas en el art. 143 letra b) de la Ley de Pesca y Acuicultura, consistente en la suspensión de actividades pesqueras extractivas por más de doce meses sucesivos, y letra d), no pago de la patente única pesquera.
+
+Valparaíso, 21 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
