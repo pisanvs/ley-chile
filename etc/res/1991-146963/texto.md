@@ -1,0 +1,5 @@
+Por resolución Nº 1.991, de 7 de octubre de 1999, de esta Subsecretaría, modifícase la resolución Nº 303, de 1999, de esta Subsecretaría en el sentido de reemplazar sus numerales 4º y 8º por los siguientes:
+
+''4.- En cumplimiento del objetivo de la pesca de investigación, la peticionaria podrá capturar las especies Gamba de profundidad, Calamar común, Anguila de profundidad, Anguila babosa, Jaiba limón, Congrio plateado y Langosta enana, en el área marítima comprendida entre la V y la IX Región. 8.- La presente pesca de investigación autoriza asimismo el procesamiento y utilización de la captura obtenida a través de las siguientes plantas industriales: COMPAÑIA PESQUERA CAMANCHACA S.A., Intercomercial SAMA S.A., Heriberto Concha, Ulises Pérez Darlas y Comercializadora de Productos Alimenticios Frío Natur Limitada, que cuentan con las resoluciones Nº 11 de 1980, Nº 544 de 1991, Nº 571 de 1998, Nº 931 de 1994 y Nº 571 de 1998, todas de esta Subsecretaría, respectivamente.''
+
+Valparaíso, 7 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
