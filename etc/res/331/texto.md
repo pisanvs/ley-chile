@@ -1,0 +1,3 @@
+Por Resolución N° 331, de 30 de Marzo de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 1.028, de 1988, de esta Subsecretaría, que autorizó a NUÑEZ HERMANOS, R.U.T. N° 85.820.100-4, para realizar actividades pesqueras, con la nave "Llauca I", por renuncia de su titular.
+
+Valparaíso, 30 de Marzo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
