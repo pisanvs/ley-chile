@@ -1,0 +1,1 @@
+Fija condiciones para que las empresas que indica normalicen su situación deudora con los organismos que señala.
