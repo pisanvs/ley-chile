@@ -1,0 +1,7 @@
+AUTORIZA A DON MANUEL BARRIENTOS SANCHEZ PARA SUSTITUIR EMBARCACION QUE INDICA. DEROGA RESOLUCIONES QUE SEÑALA
+
+Por resolución No. 664, de 04 de Julio de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Manuel Barrientos Sánchez, R.U.T. No. 5.353.608-5, domiciliado en calle Esmeralda No. 1167, Iquique, para sustituir en el litoral de la I y II Región, la embarcación "Fabiola" hundida en 1987, autorizada por resoluciones No. 382, de 1982 y No. 1.358, de 1987, ambas de esta Subsecretaría, por la embarcación "Fabiola III", de igual capacidad de bodega. Fíjase como zona de operación de la nave individualizada, el litoral de las Regiones I a IV, donde podrá extraer los siguientes recursos hidrobiológicos: Sardina española, anchoa; caballa, jurel, corvina, dorado, bonito, lisa, cojinoba del Norte. Derógase la resolución No. 382, de 1982, de esta Subsecretaría, que autorizó a operar la embarcación "Fabiola" como asimismo los numerales 2° y 3° de la resolución No. 1.358, de 1987, de esta Subsecretaría, en lo que dice relación a la señalada embarcación, por haberse producido su hundimiento.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 04 de Julio de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
