@@ -1,0 +1,63 @@
+CREA EL "FONDO HOSPITAL DEL IMPONENTE DE LA DIRECCIÓN DE PREVISIÓN DE CARABINEROS DE CHILE"
+
+Núm. 1.812.- Santiago, 1° de junio de 1977.-
+
+Vistos: Lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; 444 y 527, de 1974; 844, de 1975, y 991, de 1976,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+> **Nota.** El artículo 7° de la Ley 18.399 dispone que todas las referencias al "Fondo Hospital del imponente de la Dirección de Previsión de Carabineros de Chile" que se contengan en cualesquiera disposición legal o reglamentaria, deberán entenderse hechas al "Fondo Hospital de la Dirección de Previsión de Carabineros de Chile".
+
+#### Artículo 1°
+
+Créase el "Fondo Hospital de la Dirección de Previsión de Carabineros de Chile", que se constituirá con los siguientes ingresos:
+
+a) Cotización básica de cargo de todos los afiliados a la Dirección de Previsión de Carabineros de Chile, equivalente al 1% de las remuneraciones imponibles del sector activo y al 2% de las pensiones de retiro y montepíos del sector pasivo.
+
+b) Excedentes del 1,5% para el pago de subsidio de reposo preventivo actualmente acumulados referidos en la ley N° 17.598, los producidos desde el año 1974 adelante y los que se produzcan en el futuro, sin perjuicio de lo establecido en el decreto ley N° 1.069 de 1975, para los dineros invertidos en "Valores Hipotecarios Reajustables".
+
+c) Rentas que por cualquier concepto produzcan los inmuebles de propiedad de la Dirección de Previsión de Carabineros de Chile, o el valor del precio de venta de ellos, si se enajenaren para estos fines.
+
+d) Intereses y reajustes que produzcan los capitales acumulados en el Fondo.
+
+e) Aportes de la Dirección de Previsión de Carabineros que, con cargo a su presupuesto, acuerde efectuar al Fondo.
+
+f) Fondos provenientes de donaciones, legados y otras asignaciones que se constituyan en favor del Fondo, las que estarán exentas de impuesto y, en su caso, del trámite de insinuación.
+
+g) Recursos percibidos por tarifas cobradas a terceros ajenos al régimen de previsión de la Dirección de Previsión de Carabineros de Chile por concepto de atenciones de salud que se otorguen en el hospital.
+
+h) Participaciones, contribuciones, subvenciones, multas y, en general, todo recurso que le corresponda percibir proveniente de otras fuentes.
+
+Los valores de los recursos señalados de registrarán en una cuenta corriente especial en el Banco del Estado de Chile denominada "Aportes para el Fondo Hospital de la Dirección de Previsión de Carabineros".
+
+#### Artículo 2°
+
+Los recursos del Fondo de aplicarán a la construcción, habilitación y posterior funcionamiento de un hospital destinado a dispensar atención médica integrada, mediante acciones de protección, fomento y recuperación de la salud a las personas afectas al régimen de previsión de la Dirección de Previsión de Carabineros de Chile con al extensión familiar que determine el reglamento. La misma atención médica podrá otorgarse a terceros ajenos al citado régimen de previsión.
+
+Por resolución exenta deberán fijarse las tarifas que se cobrarán por las atenciones que se otorguen en el establecimiento hospitalario a las personas afectas al régimen de la Dirección de Previsión de Carabineros de Chile, a los familiares de las mismas y a los terceros ajenos a ese régimen previsional.
+
+#### Artículo 3°
+
+La administración del Fondo y la aplicación al fin para el cual ha sido creado será ejercida y realizada por el Director de la Dirección de Previsión de Carabineros de Chile, quien decidirá la política de acción, los programas y la inversión de los recursos para obtener los fines perseguidos.
+
+Se le faculta asimismo para invertir los caudales, mientras no se apliquen a su fin específico, en valores del mercado financiero.
+
+#### Artículo 4°
+
+El Director de la Dirección de Previsión de Carabineros de Chile podrá, además, ejecutar y celebrar toda clase de actos o convenciones para el cumplimiento de los fines del Fondo, pudiendo proceder en los contratos mediante propuestas públicas o privadas, cotizaciones o trato directo.
+
+Del mismo modo podrá celebrar todos los actos jurídicos que posibiliten, directa o indirectamente, el otorgamiento de atenciones de salud el otorgamiento de atenciones de salud, en el Hospital de la Dirección de Previsión de Carabineros de Chile, a terceros ajenos al régimen de la referida Dirección.
+
+#### Artículo 5°
+
+El Hospital dependerá administrativamente de la Dirección de Previsión de Carabineros de Chile, determinándose de común acuerdo con la Dirección General de Carabineros los aspectos relativos a la política de salud que deberá cumplir el establecimiento.
+
+El reglamento que dictará el Presidente de la República, a proposición de la Subsecretaría de Carabineros, determinará las modalidades de su funcionamiento.
+
+#### Artículo 6°
+
+Derógase la ley 17.598, de 19 de enero de 1972.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.- Herman Brady.- Sergio de Castro.
