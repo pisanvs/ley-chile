@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.311, de 31 de mayo de 1999, se expropiaron los lotes de terrenos Nºs. 3, 4-A, 5-A, 5-B y 8, superficies 1.791 m2., 3.179 m2., 12.208 m2., 15.068 m2. y 4.845 m2., rol de avalúo 1544-20, comuna de Los Angeles, para la obra ''Concesión Internacional Ruta 5 Tramo Chillán - Collipulli'', Octava Región y se acordó el valor de indemnización con su propietario Miguel Roa Roa, ascendente a la cantidad total de $41.076.739.
+
+Fiscal del Ministerio de Obras Públicas.
