@@ -1,0 +1,3 @@
+Por resolución Nº 242 de 21 de enero de 2004, de esta Subsecretaría, declárase que con fecha 28 de noviembre de 2003, ha quedado sin efecto la resolución Nº 2.987 de 2003, de esta Subsecretaría, que autorizó a COMPAÑIA PESQUERA CAMANCHACA S.A. para desarrollar actividad extractiva con la nave "Yumbel", en virtud de lo dispuesto en el artículo 9º de la ley Nº 19.713. Dicha nave queda permanente e irrevocablemente excluida de la actividad pesquera extractiva, a menos que sustituya a otra u otras naves.
+
+Valparaíso, 21 de enero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
