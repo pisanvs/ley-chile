@@ -1,0 +1,3 @@
+Por decreto MOP Nº1474, de 28 de septiembre de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº34-A, para la obra Camino Ruta D-595; Ovalle-Hurtado, sector Tranque Recoleta-Samo Alto, Kms 9.780,00 al 31.840,00, que figura a nombre de Com. Blas y Bulrreme, rol de avalúo 3003-34, superficie 45 m², comuna de Ovalle. La Comisión de Peritos, con fecha 9 de mayo de 2000, fijó la indemnización provisional en la cantidad de $3.196.500, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
