@@ -1,0 +1,5 @@
+Por decreto MOP Nº 733 de 15 de abril de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 11-K y 11-L para la obra Camino Ruta M-24-K con Ruta M-50, Sector Accesos Puente Maule en Constitución, Tramo: Km. 47.920 -
+
+Km. 53.820, que figuran a nombre de López Santana Flor y Otros, rol de avalúo 4-42, comuna de Constitución, VII Región, superficies 2.070 y 2.700 m2 respectivamente. La Comisión de Peritos, fijó con fecha 27 de noviembre de 2001, en las cantidades de $16.600.000.-, para el lote 11-K y $21.656.000.- para el lote 11-L. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
