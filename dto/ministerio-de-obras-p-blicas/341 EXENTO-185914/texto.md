@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 341, de fecha 30 de marzo de 2001, se expropiaron los lotes de terreno Nºs. 25 y 26, superficies 690 m2 y 690 m2, rol de avalúo 148-9, comuna de San Francisco de Mostazal, para la obra "Camino Ruta H-15, Sector La Punta - Puente Negro, Km. 0.000 al 6.929" y se acordó el valor de indemnización con su propietaria María Angélica de Lourdes Osses Novoa y Otros, ascendente a la cantidad de $4.216.769.-
+
+Fiscal del Ministerio de Obras Públicas.
