@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA ROYALE LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 779 de 22 de Julio de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Royale Limitada, domiciliada en Santiago, para iniciar actividades pesqueras de transformación, en una planta en construcción que se emplazará en camino Río Seco No. 011810, Pampa Alegre, Punta Arenas, XII Región, donde procesará en las líneas de conserva, congelado y deshidratado los siguientes recursos hidrobiológicos: Conserva y congelado: brótula, merluza de cola, merluza de tres aletas, merluza del sur, mero, raya, róbalo, chorito, ostión del sur, cojinova del sur, cojinova del norte, congrio dorado, pejerrey de mar, almeja, calamar, almeja o taca, caracol piquilhue, cholga, loco, pulpo, centolla, centollón, picoroco y erizo; deshidratado: Algas.
+
+Valparaíso, 22 de Julio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
