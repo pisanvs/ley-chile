@@ -1,0 +1,5 @@
+AUTORIZA A INDUSTRIA PESQUERA CRISTAL MAR LIMITADA PARA AMPLIAR ACTIVIDADES
+
+Por Resolución No. 809, de 05 de Agosto de 1988, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Industria Pesquera Cristalmar Limitada , R.U.T. No. 79.556.210-9, domiciliada en Valparaíso, para ampliar actividades pesqueras autorizadas por Resolución No. 92, de 1986, de esta Subsecretaría, en orden a incorporar entre los recursos hidrobiológicos que puede procesar en su planta ubicada en el barrio industrial, sitio 11, Coquimbo, IV Región, el recurso loco. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso,.05 de Agosto de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
