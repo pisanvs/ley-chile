@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 834 de 13 de Mayo de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas N°s. 1 a la 11, sitios N°s. 1 al 3 del Proyecto de Parcelación "San Rafael" de la comuna de Yumbel, VIII Región, formado por predio "Resto del predio denominado Hijuelas Regadas, Tres, Cuatro y Cinco conocido como San Rafael". Los Derechos de Agua se extraen del Río Laja conducidos por canal La Mancha. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
