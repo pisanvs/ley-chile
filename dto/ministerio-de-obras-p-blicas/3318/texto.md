@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.318, de 31 de julio de 2000, se expropió el lote de terreno Nº235, superficie 60 m²., rol de avalúo 6782-4, comuna de La Pintana, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana, y se acordó el valor de indemnización con su propietario Sergio Humberto Cerpa Montero, ascendente a la cantidad de $6.836.985.
+
+Fiscal del Ministerio de Obras Públicas.
