@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.422 de fecha 31 de octubre del 2003, se expropiaron los lotes de terreno Nº s. 14z22, 14z23, 14z24, 14z25, 14z26, y 14z27, superficies 195, 129, 440, 1.009, 147 y 46 m2, Rol Nº 216-4, comuna de Curepto, X Región para la obra "Camino Ruta K-60 y K-16, Sector Mejoramiento Gualleco Curepto-Puente Lautaro Tramo km. 46,180 a km. 83,91430", y se acordó el valor de indemnización con su propietario Eduardo María Díaz Díaz, ascendente a la cantidad de $585.040.-
+
+Fiscal del Ministerio de Obras Públicas.
