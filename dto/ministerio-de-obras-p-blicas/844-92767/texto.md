@@ -1,0 +1,3 @@
+Por Decreto MOP. N°844, de 29 de agosto de 1997, se expropiaron los lotes de terreno N°s. 1 y 4, superficies 11.870,5 y 22.553 m2, respectivamente, Rol de Avalúo 9318-2, comuna de Valparaíso, para la obra Camino Ruta F-66, sector Bifurcación Viña del Mar - Enlace Rodelillo y se acordó precio de la indemnización con su propietario Sociedad Forestal Valparaíso S. A., ascendente a la cantidad de $93.890.096.-
+
+Fiscal del Ministerio de Obras Públicas.
