@@ -1,0 +1,3 @@
+Por resolución Nº 2.252, de 18 de octubre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110398, presentada por PESCA CHILE S.A., para instalar y operar un centro de cultivo ubicado en isla Rivero, estero Dublé Sur, brazo norte, Caleta del Medio, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 18 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
