@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA MARAZUL LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 181, de 27 de Enero de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Marazul Limitada, domiciliada en Avda. Pedro de Valdivia N° 1219, Comuna de Providencia, Santiago, para ampliar actividades pesqueras, autorizadas por Resolución N° 1.022, de 1987, de esta Subsecretaría, en orden a instalar y operar seis embarcaciones que adquirirá, tipo hieleras para espinel, en la zona de aguas interiores correspondiente a las Regiones XI y XII, donde podrá extraer los siguientes recursos hidrobiológicos: Merluza del Sur, merluza de cola, congrio dorado, cojinoba, brótula, merluza de tres aletas y jurel. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 27 de Enero de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
