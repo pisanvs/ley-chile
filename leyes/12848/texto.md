@@ -1,0 +1,1 @@
+Traspasa a la Universidad Técnica del Estado la Escuela Vespertina de Construcción y Topografía de la Dirección General de Educación Agrícola, Comercial y Técnica, dependiente del Ministerio de Educación Pública.
