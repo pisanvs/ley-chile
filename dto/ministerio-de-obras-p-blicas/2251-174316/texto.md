@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.251, de 30 de mayo de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP.
+
+Nº 206, de 1960, se expropió el lote de terreno Nº 1, para la obra: ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar Enlace Tapihue km. 68.410,00 a Km 69.740,00'', Quinta Región, que figura a nombre de Industrial Tresmontes S.A., rol de avalúo 153-33, comuna de Casablanca, superficie 4.761 m². La comisión de peritos integrada por los señores José Rogelio Alfredo Reyes Azancot, María Elena García Monteverde y Claudia Paola Arellano Gómez, fijó con fecha 3 de abril de 2000, el valor provisional de la indemnización en la cantidad de $38.000.820.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
