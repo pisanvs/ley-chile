@@ -1,0 +1,17 @@
+DETERMINA APLICACION DEL IMPUESTO UNICO A LA RENTA Núm. 367.- Santiago, 13 de Marzo de 1974.- Vistos: lo establecido en el decreto ley N° 1, de 11 de Septiembre de 1973, y
+
+Considerando:
+
+La necesidad de exigir un sacrificio extraordinario de los sectores de más altas rentas, con el objeto de coadyuvar a las tareas de reconstrucción nacional en que el Supremo Gobierno se encuentra empeñado;
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+El Impuesto Unico a la Renta, contenido en el N° 1 del artículo 37° de la Ley de la Renta, se aplicará respecto de las rentas que se perciban a contar del 1° de Marzo de 1974 y hasta el 31 de Diciembre de 1974, sustituyendo en la escala contenida en dicha disposición la tasa de 50% por 55%; la tasa de 55% por 65%; la tasa de 60% por 70%, y la tasa de 65% por 80%.
+
+Regístrese en la Contraloría General de la República, publíque se en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Dios guarde a Ud.- Victoria Arellano S., Subsecretario de Hacienda.
