@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.269, de 30 de mayo de 2000, se dejó sin efecto la expropiación de los lotes de terreno Nºs. 1, 2 y 3, aprobada por decreto MOP Nº3.168, de 22 de octubre de 1999, que figuran a nombre de José Rojelio Rojas Rojas, Osvaldo Ramírez Alvarado y Claudio Ramírez San Cristóbal, roles de avalúo 171-6, 171-84 y 171-64, comuna de Romeral, para la obra Camino M-24-K Quivolgo-Puente Lautaro, sector A: Puente Lautaro La Trinchera (Variante Costera) Kms. 4.399,8 al 13.200.
+
+Fiscal del Ministerio de Obras Públicas.
