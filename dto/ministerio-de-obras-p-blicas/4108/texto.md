@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.108, de 31 de agosto de 2000, se expropió el lote de terreno Nº7, superficie 1.676 m2., rol de avalúo 154-279, comuna de Casablanca, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Quinta Región y se acordó el valor de indemnización con su propietario Villard Fine Wines S.A., ascendente a la cantidad de $14.742.628.
+
+Fiscal del Ministerio de Obras Pú-blicas.
