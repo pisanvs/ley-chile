@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD FRIGORIFICO PORTILLO SOCIEDAD ANONIMA PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 32, de 21 de enero de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Frigorífico Portillo Sociedad Anónima, domiciliada en la ciudad de Santiago, para instalar y operar en calle Bío - Bío N° 1072 al 1080 de Santiago, una planta procesadora de recursos hidrobiológicos en las líneas de fresco, enfriado, salado y congelado, en la que podrá utilizar como materia prima albacoras, caballa, congrio colorado, congrio dorado, congrio negro, jurel, merluza común, merluza española, mero, sardina común, sardina española, almeja o taca, caracol locate, cholga, chorito, choro zapato, loco, macha, ostión del Norte, camarón nailon, centolla, langosta de Juan Fernández, langostino colorado, jaiba y erizo.
+
+Santiago, 21 de enero de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
