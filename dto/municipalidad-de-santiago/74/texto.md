@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 74, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas 2367, Rol 332-9 Santiago, aparente dominio Rosa Burgos Villalón, superficie aproximada a expropiar 478 m2. Deslindes: Norte, 14,25 mts. con resto del predio Sur, 14,25 con Agustinas; Oriente, 33.00 mts. con otro propietario y Poniente, 34,00 mts. con otro propietario. Indemnización provisional $ 11.912.000.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
