@@ -5850,7 +5850,13 @@ Código Plaza Jurisdicción
 
 0304 Casablanca "
 
-0336 San Antonio Santiago
+0330 Algarrobo Santiago
+
+0332 El Quisco "
+
+034 Cartagena "
+
+0336 San Antonio "
 
 0340 Llo-lleo "
 
@@ -5872,6 +5878,8 @@ Código Plaza Jurisdicción
 
 0368 Talagante Santiago
 
+0370 El Monte "
+
 0376 Melipilla "
 
 0378 Isla de Maipo "
@@ -5892,7 +5900,11 @@ Código Plaza Jurisdicción
 
 0432 Requínoa "
 
+0434 Quinta de Tilcoco "
+
 0440 Rengo "
+
+0432 Malloa "
 
 0448 San Vicente de Tagua Tagua "
 
