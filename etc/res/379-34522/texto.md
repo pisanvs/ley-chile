@@ -1,0 +1,5 @@
+Por Resolución N° 379, de 07 de Abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a Luz Mariela Paredes Monsalve, R.U.T. N° 8.577.703-3, para iniciar actividades pesqueras, en orden a instalar y operar una planta ubicada en Pasaje Manuela N° 110, Villa Los Colonos, Puerto Aysén, donde podrá procesar, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: conserva de ahumado: Cojinoba del sur, Chorito, Puye, Merluza del sur, Salmón del Atlántico, Salmón plateado, Trucha arcoiris; conserva al natural: Almeja o taca, Centolla, Culengue, Cholga, Choro, Chorito, Jibia, Lapa, Navajuela, Pulpo, Picoroco, Erizo, Jaiba limón, Jaiba marmola, Jaiba peluda o pachona, Jaiba reina; conserva al aceite: Cholga, Choro, Chorito.
+
+Deniégase la autorización solicitada respecto de las especies y líneas de elaboración no incluidas en la presente Resolución, en virtud de los informes técnicos, normas legales y reglamentarias citadas en Visto.
+
+Valparaíso, 7 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
