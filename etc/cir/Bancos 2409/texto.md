@@ -5848,6 +5848,8 @@ Código Plaza Jurisdicción
 
 0264 Villa Alemana "
 
+0268 El Belloto "
+
 0272 Quilpué "
 
 0280 Viña del Mar "
@@ -5937,6 +5939,8 @@ Código Plaza Jurisdicción
 0544 Villa Alegre "
 
 0552 Linares "
+
+0554 Longaví "
 
 0556 Chanco "
 
@@ -6123,6 +6127,8 @@ Código Plaza Cámara de la Agrupación Jurisdicción
 0284 Concón " "
 
 0264 Villa Alemana " "
+
+0268 El Belloto " "
 
 0272 Quilpué " "
 
@@ -16505,6 +16511,8 @@ Por deuda indirecta deben entenderse las obligaciones que afectan a las personas
 No son deudores directos ni indirectos las personas que participan en una obligación sin contraer una responsabilidad personal en ella, pero que afectan bienes de su propiedad al cumplimiento de esa obligación o bien mantienen un compromiso de pago por documentos constituidos en garantía por terceros. Así ocurre, por ejemplo, con el que constituye una hipoteca para caucionar una obligación ajena, con cláusula de garantía general o sin ella; el que da bienes en prenda para garantizar obligaciones de terceros; el aceptante o cualquiera delos obligados al pago de un documento en cobranza endosado en garantía a la institución financiera en resguardo de una obligación contraída por otra persona, etc.
 
 Tampoco se considera deudor directo o indirecto, al banco emisor de una carta de crédito de exportación por el solo hecho de que el banco situado en Chile confirme dicho documento. Tales confirmaciones, entre la fecha en que se otorguen y la fecha de negociación de las respectivas cartas de crédito, no están afectas, por lo tanto, a los límites de crédito de que trata el artículo 84 de la Ley General de Bancos.
+
+Por otra parte, no se considera deudor directo ni indirecto al banco del exterior emisor de una carta de crédito que tenga por objeto garantizar obligaciones de terceros, siempre que se cumplan las condiciones establecidas en la letra d) del N°1 del artículo 84 de la Ley General de Bancos.
 
 4.2. Documentos adquiridos o descontados.
 
