@@ -58,31 +58,63 @@ De los Departamentos de Prevención de Riesgos
 
 #### Artículo 8°
 
-Para los efectos de este reglamento se entenderá por Departamento de Prevención de Riesgos Profesionales a aquella dependencia a cargo de planificar, organizar, ejecutar y supervisar acciones permanentes para evitar accidentes del trabajo y enfermedades profesionales.
+Para los efectos de este reglamento se entenderá por Departamento de Prevención de Riesgos Profesionales a aquella dependencia a cargo de planificar, organizar, asesorar, ejecutar, supervisar y promover acciones permanentes para evitar accidentes del trabajo y enfermedades profesionales.
 
-Toda empresa que ocupe más de 100 trabajadores deberá contar con un Departamento de Prevención de Riesgos Profesionales dirigido por un experto en la materia. La organización de este Departamento dependerá de la magnitud de la industria y la naturaleza de los problemas, pero deberá contar con los medios y el personal necesarios para ejecutar las siguientes acciones mínimas: reconocimiento y evaluación de riesgos de accidentes o enfermedades profesionales, control de riesgos en el ambiente o medios de trabajo, acción educativa de prevención de riesgos y de promoción de adiestramiento de los trabajadores, registro de información y evaluación estadística de resultados, asesoramiento técnico a los comités paritarios, supervisores y línea de administración técnica.
+Toda empresa que ocupe más de 100 trabajadores deberá contar con un Departamento de Prevención de Riesgos Profesionales, dirigido por un experto en la materia. La organización de este Departamento dependerá del tamaño de la empresa y la importancia de los riesgos, pero deberá contar con los medios y el personal necesario para asesorar y desarrollar las siguientes acciones mínimas: reconocimiento y evaluación de riesgos de accidentes y enfermedades profesionales, control de riesgos en el ambiente o medios de trabajo, acción educativa de prevención de riesgos y promoción de la capacitación y adiestramiento de los trabajadores, registro de información y evaluación estadística de resultados, asesoramiento técnico a los comités paritarios, supervisores y líneas de administración técnica.
 
-#### Artículo 9
+#### Artículo 9°
 
-o- Para los efectos de este reglamento se entenderá por experto en prevención a aquella persona que, a juicio del Servicio Nacional de Salud, posea suficientes conocimientos o experiencia práctica en seguridad e higiene industrial.
+Para los efectos de este Reglamento los expertos en prevención de riesgos se clasificarán en la categoría de Profesionales o de Técnicos en conformidad con sus niveles de formación.
 
-Los expertos se clasificarán en dos categorías atendiendo a la calidad de su formación tecnológica. Se entenderá por experto profesional al ingeniero, ingeniero de ejecución y constructor civil titulados y con especialización sistemática en prevención de riesgos, mediante estudios de duración no inferior a seis meses a tiempo completo realizados en el país o en el extranjero, y al técnico universitario titulado con mención en prevención de riesgos. Se entenderá por experto práctico a aquella persona que cuente con suficiente experiencia y especialización adquirida en cursos básicos y en el trabajo de la especialidad.
+La categoría profesional estará constituida por:
 
-El Servicio Nacional de Salud calificará la idoneidad de toda persona para actuar como experto dentro de alguna de estas categorías.
+A. Los ingenieros e ingenieros de ejecución cuyas especialidades tengan directa aplicación en la seguridad e higiene del trabajo y los constructores civiles, que posean un post-título en prevención de riesgos obtenido en una Universidad o Instituto Profesional reconocido por el Estado o en una Universidad extranjera, en un programa de estudios de duración no inferior a mil horas pedagógicas, y
 
-La calidad de práctico en prevención podrá ser revocada cuando, a juicio del Servicio Nacional de Salud, su actividad no sea satisfactoria.
+B. Los ingenieros de ejecución con mención en prevención de riesgos, titulados en una Universidad o Instituto Profesional reconocidos por el Estado.
 
-#### Artículo 10
+La categoría técnico estará constituida por:
 
-o- Las actividades de prevención de riesgos en las empresas que tengan más de 1.000 trabajadores deberán estar a cargo de un ingeniero o técnico en prevención, a tiempo completo. En aquellas cuyo número fluctúe entre 1.000 y 500 trabajadores deberán estar a cargo de un experto de cualquiera de las dos categorías, a tiempo completo.
+Los técnicos en prevención de riesgos titulados en una Institución de Educación Superior reconocida por el Estado.
 
-En las empresas con menos de 500 trabajadores el Departamento de Prevención de Riesgos Profesionales podrá ser dirigido por un experto contratado a tiempo parcial. Este tiempo dependerá de la magnitud de la empresa y la importancia de los riesgos, pero en ningún caso será inferior a un día o jornada normal de trabajo a la semana.
+#### Artículo 10°
 
-Cuando cuenten con más de 150 trabajadores, el tiempo mínimo de un día a la semana del experto a cargo de la prevención de riesgos deberá aumentarse a razón de un día por cada 100 trabajadores o fracción.
+Los Departamentos de Prevención de Riesgos deberán estar a cargo de un experto de una de las dos categorías señaladas en el artículo precedente. El tamaño de la empresa y la importancia de sus riesgos determinarán la categoría del experto y definirán si la prestación de sus servicios será a tiempo completo o a tiempo parcial. El tamaño de la empresa se medirá por el número de trabajadores y la importancia de los riesgos se definirá por la cotización adicional genérica contemplada en el decreto N° 110 de 1968, del Ministerio del Trabajo y Previsión Social.
 
-#### Artículo 11
+En las empresas cuya cotización adicional genérica sea de 0% ó 0,85%, los Departamento de Prevención de Riesgos podrán estar a cargo, indistintamente, de un experto de cualquiera de las dos categorías si el número de trabajadores es inferior a 1.000, y a cargo de un experto profesional si dicho número es igual o superior a la mencionada cifra.
 
-o- Los límites establecidos en el artículo 10.o serán aplicables sólo a aquellas empresas de mayor riesgo y en que, por lo tanto, la cotización adicional genérica que les corresponde pagar sea la máxima, y podrán variarse en la misma proporción en que varíe la ubicación de la empresa en la escala de cotización adicional respecto al máximo. No se considerarán para este efecto las variaciones que pueda experimentar la cotización adicional por sanciones o estímulos. Las fracciones de día que se obtenga de la aplicación de esta reducción se asimilarán al medio día o día completo inmediatamente superior.
+En aquella empresa cuya cotización adicional genérica sea de 1,7%, el Departamento de Prevención de Riesgos podrá ser dirigido por un experto de cualquiera de las dos categorías si el número de trabajadores es inferior a 500, y a cargo de un experto profesional si dicho número es igual o superior a dicha cifra.
+
+Si la cotización adicional genérica es de 2,55% ó 3,4%, el Departamento de Prevención de Riesgos deberá ser dirigido por un experto profesional, independiente del número de trabajadores de la empresa.
+
+#### Artículo 11°
+
+La contratación del experto será a tiempo completo o parcial, lo que se definirá de acuerdo a los límites establecidos en el artículo anterior y a la siguiente tabla:
+
+TIEMPO DE ATENCION DEL EXPERTO
+
+(DIAS A LA SEMANA)
+
+N° Trabajadores Cotización Genérica (D.S. 110)
+
+0% ó 0,85% 1,7% 2,55% 3,4%
+
+De 101 a 200 1,0 1,0 1,5 2,0
+
+De 201 a 300 1,5 2,0 2,5 3,0
+
+De 301 a 400 2,0 2,5 3,0 3,5
+
+De 401 a 500 2,5 3,0 3,5 4,0
+
+De 501 a 750 3,0 T.C. T.C. T.C.
+
+De 751 a 1000 4,0 T.C. T.C. T.C.
+
+Mayor de 1000 T.C. T.C. T.C. T.C.
+
+T.C.= Tiempo completo.
+
+Los expertos en prevención de riesgos deberán inscribirse en los registros que llevarán los Servicios de Salud con el propósito de dar cumplimiento a lo dispuesto en el artículo 65° de la ley 16.744.
 
 ## Título IV
 
