@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 786 de fecha 31 de mayo de 2004, se expropió el lote de terreno Nº 44-A, superficie 142 m2, Rol Nº 266-172, comuna de Carahue; IX Región para la obra "Pavimentación asfáltica Camino Carahue - Puerto Saavedra, sector I, Km. 59.347,87 al Km, 65.594,05" y se acordó el valor de indemnización con su propietario José Domingo Curivil Paillal, ascendente a la cantidad de $259.037.-
+
+Fiscal del Ministerio de Obras Públicas.
