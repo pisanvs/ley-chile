@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº1016, de 28 de noviembre de 1996, se expropiaron los lotes de terreno Nºs. 33 y 34, superficies 34.120 m2 y 5.430, rol de avalúo 623-13, comuna de Tomé, para la obra Camino Acceso Norte a Concepción, Ramal Colector sector Rafael-Agua Amarilla, y se acordó el valor de indemnización con su propietaria Rosalba Mella Aguayo, ascendente a la cantidad de $ 10.547.869.-
+
+Fiscal del Ministerio de Obras Públicas.
