@@ -1,0 +1,5 @@
+Por resolución Nº 2.184, de 9 de octubre de 2002, de esta Subsecretaría, modifícase la resolución Nº 220 de 2002, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE para realizar actividades experimentales de acuicultura sobre la especie Abalón japonés, en conformidad con los términos técnicos de referencia del proyecto "Cultivo de Abalón japonés Haliotis discus hannai en estanques y en el mar", en el sentido que se indica: a) Modifícase el número 9º, en el sentido de señalar que las actividades autorizadas en ese número se realizarán en la concesión marítima otorgada a la Universidad Católica del Norte mediante D.S. Nº 74 de 2000, del Ministerio de Defensa Nacional, ubicada en Bahía Herradura de Guayacán, comuna de Coquimbo, IV Región; b) Modifícase el número 11, en el sentido de señalar que la autorización regirá hasta el 30 de agosto de 2003.
+
+Déjase sin efecto la resolución Nº 2.009 de 2002, de esta Subsecretaría.
+
+Valparaíso, 9 de octubre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
