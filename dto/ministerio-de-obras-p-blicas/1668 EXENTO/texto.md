@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1668, de fecha 31 de octubre de 2001, se expropiaron los lotes de terreno Nos 20-A y 20-C, superficies 210 m² y 72 m², respectivamente, rol de avalúo 341-1, comuna de La Ligua, V Región, para la obra "Ruta E-39, Sector Quinquimo-El Rayado" y se acordó el valor de indemnización con su propietario don Juan Carlos Cisternas Fuentealba, ascendente a la cantidad de $1.320.479.-
+
+Fiscal del Ministerio de Obras Públicas.
