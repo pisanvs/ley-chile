@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 331, de 30 de marzo de 2001, se expropió el lote de terreno Nº 67-B2, superficie 34 m², rol de avalúo 514-24, comuna de San Fernando, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector H, Sexta Región y se acordó el valor de indemnización con su propietaria Mariana del Carmen Rubio Lorca, ascendente a la cantidad de $689.092.-
+
+Fiscal del Ministerio de Obras Públicas.
