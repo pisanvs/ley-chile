@@ -1,0 +1,3 @@
+Por decreto MOP Nº141 de 28 de enero de 1999, se rectificó el decreto MOP Nº1516 de 21 de septiembre de 1998, publicado en el Diario Oficial el 1 de diciembre de 1998, en la parte que se refiere al numeral 7º de dicho decreto, en el sentido de que la indemnización es con cargo único y exclusivo a la Asignación Presupuestaria 08-3287001. Financiamiento 00, y no como se indica en el decreto MOP Nº1516 de 1998.-
+
+Fiscal del Ministerio de Obras Públicas.
