@@ -1,0 +1,3 @@
+Por decreto MOP Nº 92, de 31 de enero de 2001, se expropiaron los lotes de terreno Nºs 20 y 20-1, superficies 2.330 m2 y 233 m2, rol de avalúo 107-21, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Tramo 7B, Región Metropolitana y se acordó el valor de indemnización con su propietaria Guilda Julia Herrera Briso, ascendente a la cantidad de $4.995.577.-
+
+Fiscal del Ministerio de Obras Públicas.
