@@ -1178,29 +1178,41 @@ CAPITULO 1-8 (Bancos y Financieras)
 
 MATERIA:
 
-HORARIO ESPECIAL.
+HORARIO BANCARIO.
 
-1. Autorizaciones para atender determinadas operaciones en horario especial.
+1.- HORARIO OBLIGATORIO DE ATENCION DE PUBLICO.
 
-1.1. Autorización general.
+Por Resolución N° 178 del 24 de diciembre de 1997, publicada en el Diario Oficial del 27 de diciembre de 1997, se estableció que los bancos y sociedades financieras mantendrán abiertas sus oficinas para la atención del público, de lunes a viernes de cada semana, ambos inclusive, con excepción de los días festivos o feriados, desde las 9:00 horas hasta las 14:00 horas, en forma ininterrumpida.
+
+El día 31 de diciembre dicho horario será desde las 9:00 horas hasta las 12:00 horas.
+
+Por otra parte, en Isla de Pascua el primero de los horarios antes mencionados será desde las 8:00 horas hasta las 13:00 horas y el día 31 de diciembre desde las 8:00 horas hasta las 11:00 horas, hora insular.
+
+2.- AUTORIZACIONES PARA ATENDER DETERMINADAS OPERACIONES EN HORARIO ESPECIAL.
+
+2.1.- Autorización general.
 
 Las instituciones financieras que así lo decidan, podrán atender público fuera del horario obligatorio, en los horarios especiales que para el efecto acuerden, siempre que se cumplan copulativamente las siguientes condiciones:
 
-a) Que la atención se preste en días hábiles bancarios.
+a) Que la atención se preste en días hábiles bancarios, con excepción del día 31 de diciembre.
 
-b) Que el horario que se establezca no se inicie antes de las 15.00 hrs., salvo en el caso de atención a jubilados, en que podrán establecerse horarios especiales anteriores a las 9.00 hrs. En Isla de Pascua, el horario especial en la tarde no podrá iniciarse antes de las 14.00 hrs., hora insular.
+b) Que el horario que se establezca no se inicie antes de las 15:00 hrs., salvo en el caso de atención a jubilados, en que podrán establecerse horarios especiales anteriores a las 9:00 hrs. En Isla de Pascua, el horario especial en la tarde no podrá iniciarse antes de las 14:00 hrs., hora insular.
 
-c) Que los servicios ofrecidos no correspondan a operaciones consistentes en la entrega de importes por el otorgamiento de créditos excepto cuando se trate de préstamos de consumo, la recepción de depósitos en cuenta corriente o el pago de cheques, distintos de aquellos que correspondan a convenios celebrados entre el banco y el cuentacorrentista para pagar en forma regular, remuneraciones, dividendos de acciones, etc.
+## Capítulo 1-8
+
+Pág. 2
+
+c) Que los servicios ofrecidos no correspondan a operaciones consistentes en la entrega de importes por el otorgamiento de créditos excepto cuando se trate de préstamos de consumo, la recepción de depósitos en cuenta corriente o el pago de cheques, distintos de aquellos que correspondan a convenios celebrados entre el banco y el cuentacorrentista para pagar en forma regular, remuneraciones, dividendos de acciones, etc..
 
 d) Que se mantengan las medidas de seguridad necesarias para resguardar el normal desarrollo de las actividades.
 
 No obstante lo anterior, cuando un banco participe en actividades de beneficencia recibiendo aportes del público mediante depósitos en una determinada cuenta corriente, podrá atender el recibo de dichos depósitos, en días hábiles o inhábiles, dentro del horario especial que para el efecto determine, siempre que dé aviso a esta Superintendencia con anticipación a la fecha en que ello ocurra.
 
-1.2. Autorizaciones especiales.
+2.2.- Autorizaciones especiales.
 
-Cualquier atención al público en horario especial que no cumpla alguna de las condiciones señaladas en el numeral 1.1 precedente, deberá contar con la autorización previa de esta Superintendencia.
+Cualquier atención al público en horario especial que no cumpla alguna de las condiciones señaladas en el numeral 2.1 precedente, deberá contar con la autorización previa de esta Superintendencia.
 
-### 2. Fecha y registro de las operaciones cursadas en horario especial
+3.- Fecha y registro de las operaciones cursadas en horario especial.
 
 Las operaciones efectuadas en horario especial, deberán llevar la fecha del día en que se cursen en el referido horario.
 
