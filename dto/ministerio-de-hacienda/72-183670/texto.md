@@ -1,0 +1,45 @@
+APRUEBA MODIFICACION AL CONTRATO DE CONCESION APROBADO POR DECRETO Nº 287, DE 1999
+
+Núm. 72.- Santiago, 26 de enero de 2001.- Vistos: El decreto de Hacienda Nº 287, de 1999, publicado en el Diario Oficial de fecha 14 de mayo de 1999, que aprueba el Contrato de Concesión para la administración y explotación de un recinto denominado "Centro de Exportación", en la provincia de Arica, Primera Región de Tarapacá, convenido entre el Estado de Chile, representado por don Manuel Marfán Lewis, como Subsecretario de Hacienda, y la "Sociedad Productora y Distribuidora S.A." (Soprodi S.A.) RUT Nº 85.241.400-6, representada por don Jorge Magallanes Bravo Bargetto, según escritura pública otorgada con fecha 22 de marzo de 1999, ante don Eduardo Pinto Peralta, Notario Público, titular de la Cuarta Notaría de Santiago, y lo dispuesto en los números 2.1.1. y 2.1.1.1 de las Bases de Licitación para la administración y explotación de un Centro de Exportación en Arica, contenidas en el decreto de Hacienda Nº 469, de 1998, modificado por el decreto de Hacienda Nº 1.059, de 1998,
+
+D e c r e t o:
+
+#### Artículo 1º
+
+Apruébase la modificación hecha a la cláusula segunda del Contrato de Concesión aprobado por el decreto de Hacienda Nº 287, de 1999, convenida entre el Estado de Chile, representado por la Subsecretaria de Hacienda, doña María Eugenia Wagner Brizzi, y la "Sociedad Productora y Distribuidora S.A." (Soprodi S.A.), RUT Nº 85.241.400-6, representada por don Jorge Magallanes Bravo Bargetto, según escritura pública otorgada con fecha 28 de diciembre de 2000, ante don Enzo Veglia Mulack, Notario Público Suplente del Titular de la Cuarta Notaría de Santiago, don Eduardo Pinto Peralta.
+
+#### Artículo 2º
+
+La modificación hecha al Contrato de Concesión, referida en el artículo anterior, se entiende que forma parte integrante del presente decreto para todos los efectos legales.
+
+#### Artículo 3º
+
+Por tratarse la cláusula segunda que se modifica, una cláusula esencial del referido Contrato de Concesión, a continuación se transcribe dicha modificación:
+
+Primero.- Que por escritura pública otorgada con fecha 22 de marzo de 1999, ante el Notario Público de Santiago, don Eduardo Pinto Peralta, entre don Manuel Marfán Lewis, como Subsecretario de Hacienda, en representación del Estado de Chile y don Jorge Magallanes Bravo Bargetto, en representación de la Sociedad Productora y Distribuidora S.A., (Soprodi S.A.), se convino en un Contrato de Concesión para la administración y explotación de un recinto denominado "Centro de Exportación", en la Provincia de Arica, Primera Región, en conformidad a las normas de la ley Nº 19.420 y sus disposiciones reglamentarias, y a las estipulaciones que en las cláusulas de dicho contrato se establecen.
+
+Segundo.- Que por resolución exenta Nº 1.600, de 28 de diciembre de 1998, del Subsecretario de Hacienda, se adjudicó la licitación para la administración y explotación de un recinto denominado "Centro de Exportación", en la Provincia de Arica, a la "Sociedad Productora y Distribuidora S.A." (Soprodi S.A.), en la cual se individualiza el inmueble correspondiente a dicho recinto.
+
+Tercero.- Que por decreto de Hacienda Nº 287, de 1999, publicado en el Diario Oficial con fecha 14 de mayo de 1999, se aprobó el Contrato de Concesión para la administración y explotación de un recinto denominado "Centro de Exportación", en la Provincia de Arica, Primera Región de Tarapacá, individualizado en la cláusula primera de la presente escritura.
+
+Cuarto.- Que por decreto de Hacienda Nº 288, de 24 de marzo de 1999, publicado en el Diario Oficial con fecha 14 de mayo de 1999, se individualizó el recinto de propiedad de "Sociedad Productora y Distribuidora S.A." (Soprodi S.A.), ubicado en la Provincia de Arica, Primera Región de Tarapacá, en el cual funciona actualmente el Centro de Exportación entregado en concesión a la mencionada sociedad.
+
+Quinto.- Que por escritura pública de compraventa, otorgada con fecha dos de junio de 2000, por don Ricardo de la Barra Fuenzalida, Notario Público de Iquique, suplente del titular don Jorge Tomás Agurto Chaparro, la "Sociedad Productora y Distribuidora S.A." o Soprodi S.A., representada por don Jorge Magallanes Bravo Bargetto, quien además compareció representando a don Rodrigo Félix Mazuela Cepeda, compró a doña Silvia Sonia Castillo Cortés, quien actuó representada por don Adolfo Rubén Pellegrini Burgos, el Lote número Tres raya A, de mil seiscientos sesenta y siete coma sesenta y cinco metros cuadrados, procedente de la subdivisión del Lote número tres que corresponde a la propiedad ubicada en calle Barros Arana número 3098, de la comuna y provincia de Arica, según plano de subdivisión predial inscrito en el Registro de Planos y Documentos del Conservador de Bienes Raíces de Arica bajo el número 30, del año 2000. Los deslindes particulares del Lote número Tres raya A son: Al Norte, en línea quebrada de 4 y 42 metros, con calle Pucarani. Al Sur, en línea quebrada de 18,62 metros, 6,52 metros y 26,45 metros, con Lote número tres raya B. Al Oriente, en 35,80 metros, con predio rol número 986-025. Al Poniente, en 35,05 metros, con calle Diego Barros Arana. El título se encuentra inscrito a nombre de "Soprodi S.A.", a fojas 2845, número 1382, en el Registro de Propiedad correspondiente al año 2000, del Conservador de Bienes Raíces de Arica.
+
+Sexto.- Atendiendo al desarrollo experimentado por las actividades comerciales del Centro de Exportación que administra y explota Soprodi S.A., es necesario ampliar la actual superficie del recinto a fin de almacenar las diferentes cargas que por sus volúmenes hacen difícil su acopio en la actual superficie que ocupa dicho Centro de Exportación y teniendo presente que en las Bases de Licitación se exigió que el inmueble ofrecido como recinto para operar el Centro de Exportación debía contar con una superficie de a lo menos 5.000 metros cuadrados según lo disponen los números 2.1.1. y 2.1.1.1. de las Bases de Licitación para la administración y explotación de un Centro de Exportación en Arica, contenidas en el decreto de Hacienda Nº 469, de 1998, modificado por el decreto de Hacienda Nº 1.059, de 1998, lo que sumado a que el plazo de veinte años por el cual se otorgó la concesión y que la ley Nº 19.420 y sus modificaciones, conocida como "Ley Arica", que creó los Centros de Exportación, constituye una palanca de estímulo para el desarrollo de dicha ciudad, a juicio de las partes de este contrato, son antecedentes suficientes para que ellas acuerden ampliar el actual recinto que ocupa el referido Centro de Exportación.
+
+Séptimo.- Mediante el presente instrumento las partes modifican el Contrato de Concesión mencionado en la cláusula primera de la presente escritura, con el objeto de hacer extensivas, para todos los efectos legales, dichas normas contractuales como también las normas legales y reglamentarias y sus modificaciones por las cuales se rige el aludido contrato, al Lote número tres raya A, singularizado en la cláusula quinta precedente, también de esta escritura, dejando constancia que el citado Lote tres raya A se encuentra contiguo y por tanto se anexa al inmueble en que actualmente funciona el Centro de Exportación cuya administración y explotación tiene la mencionada sociedad, conformando un solo inmueble o recinto, sin que exista ninguna separación entre los distintos lotes del aludido Centro de Exportación.
+
+Octavo.- Las partes declaran que todas aquellas otras disposiciones contractuales que no se modifican, para todos los efectos legales, reglamentarios y contractuales, conservan su pleno vigor.
+
+Noveno.- La personería de doña María Eugenia Wagner Brizzi como Subsecretaria de Hacienda, consta del decreto supremo de Hacienda Nº 297, de 2000, publicado en el Diario Oficial con fecha 9 de junio de 2000, que no se inserta por ser conocido de las partes.
+
+Décimo.- La personería de don Jorge Magallanes Bravo Bargetto, en representación de la "Sociedad Productora y Distribuidora S.A." (Soprodi S.A.), consta del Acta de la Cuarta Sesión del Directorio de "Sociedad Productora y Distribuidora S.A." o "Soprodi S.A.", de fecha 21 de julio de 1998, reducida a escritura pública con fecha 28 de julio de 1998, ante el Notario Público de Quillota, don Miguel Varas Espejo, anotada en el Repertorio de dicha Notaría con el Nº 1205-98; inscrita a fojas 58, Nº 68 en el Registro de Comercio del año 1998, del Conservador de Bienes Raíces de Quillota que se encuentra vigente según certificado otorgado con fecha 8 de noviembre de 2000, por el Conservador citado, de Quillota, todo lo cual no se inserta por ser conocida de las partes.
+
+#### Artículo 4º
+
+Todas aquellas disposiciones del Contrato de Concesión referido en el artículo 1º del presente decreto, no modificadas, conservan su plena vigencia.
+
+Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., María Eugenia Wagner Brizzi, Subsecretaria de Hacienda.
