@@ -1,0 +1,3 @@
+Por resolución Nº285, de 24 de febrero de 2000, de esta Subsecretaría, declárase la caducidad de la Nº1.506 de 1997, de esta Subsecretaría, que autorizó a PESQUERA CONFISH S.A. para ampliar actividades pesqueras extractivas con una nave en construcción en el litoral de la X Región, respecto de los recursos Agujilla, Anchoveta, Caballa, Cojinoba del norte, Jurel, Merluza de cola y Sardina común, por haber incurrido en la causal de caducidad del artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 24 de febrero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
