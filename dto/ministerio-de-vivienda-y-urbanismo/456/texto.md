@@ -288,6 +288,16 @@ h) Los funcionarios autorizados para formular estados de pago correspondiente a 
 
 Igual medida se adoptará en el caso que no se acredite el entero oportuno en arcas fiscales de los impuestos retenidos al personal con arreglo a la ley.
 
+#### Artículo 12° bis
+
+Aplícase al Ministerio de la Vivienda y Urbanismo y a sus Servicios y a las Instituciones de la Vivienda enumeradas en las letras a), b), c), d), e) y h), del artículo 5° de la ley N° 16.391, en el carácter de disposición general relativa a ejecución de obras, el artículo 53° de la ley N° 15.840, cuyo nuevo texto fue fijado por el decreto ley N° 374, de 18 de Marzo de 1974, publicado en el Diario Oficial del 25 del mismo mes y año, en los términos que se indican a continuación:
+
+Una vez tramitados por la Contraloría General de la República los decretos o resoluciones que aprueben contratos de obras, sus modificaciones o liquidación, tres transcripciones de ellos deberán ser suscritas, ante notario, por el contratista de la obra, en señal de aceptación de su contenido, debiendo protocolizarse ante el mismo notario uno de los ejemplares.
+
+Dentro del plazo de 30 días, contados desde el Ingreso del decreto o resolución a la Oficina de Partes del Ministerio de la Vivienda y Urbanismo o de la respectiva Institución de la Vivienda, una de las transcripciones a que se refiere el inciso anterior será entregada, para su archivo, al Servicio o Institución correspondiente, y la otra, para el mismo efecto, a la Dirección General de Planificación y Presupuesto, o a la Fiscalía de la respectiva Institución, en su caso.
+
+Las transcripciones suscitas en la forma señalada, harán fe respecto de toda persona y tendrán mérito ejecutivo, sin necesidad de reconocimiento previo.
+
 #### Artículo 13º
 
 Aplícase al Ministerio de la Vivienda y Urbanismo y a sus Servicios, en el carácter de Disposiciones Generales los artículos 27º, 30º, 31º, 62º, 63º, 64º, 65º, 67º, 71º, 78º y 81º, de la ley número 15.840, en los términos que se señala a continuación:
