@@ -1,0 +1,3 @@
+Por Resolución N° 1.984, de 28 de noviembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárese la caducidad parcial de la Resolución/N° 1.046 de 1993, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA SAN ANTONIO S.A., para realizar actividades pesqueras extractivas con la nave "Paniahue", en lo relativo a las especies autorizadas en el numeral 3 letra a) entre la III y IV Región, en virtud del artículo 143 letra b) de la Ley N° 18.892 y sus modificaciones.
+
+Valparaíso, 28 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
