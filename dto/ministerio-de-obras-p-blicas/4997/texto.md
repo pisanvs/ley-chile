@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.997, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº116, superficie 1.715 m2., rol de avalúo 9-39, comuna de Río Hurtado, para la obra ''Camino Ruta D-595 Ovalle - Hurtado, Sector Tranque Recoleta - Samo Alto, Km. 9.780,00 a Km. 31.840,00 Etapa III'' y se acordó el valor de indemnización con su propietario Carlos Hernán Perines Alvarez, ascendente a la cantidad de $9.786.114.-
+
+Fiscal del Ministerio de Obras Públicas.
