@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.016 de fecha 28 de junio de 2002, se expropió el lote de terreno Nº38, superficie 270 m2, rol de avalúo 189-38, comuna de Curepto, VII Región, para la obra ''Camino Ruta K-60 y K-16, Sector Mejoramiento Gualleco - Curepto - Puente Lautaro, Tramo Km. 46,180 al 83,91430'' y se acordó el valor de indemnización con su propietario don José Tomás González Aliste, ascendente a la cantidad de $257.558.-
+
+Fiscal del Ministerio de Obras Públicas.
