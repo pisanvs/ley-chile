@@ -1,0 +1,1 @@
+Declara en reorganización el Ministerio de Relaciones Exteriores y fija la planta de su personal.
