@@ -716,6 +716,8 @@ Sin perjuicio de lo dispuesto en los incisos anteriores y en la Ley sobre Impues
 
 La Dirección determinará, en todos los casos, el monto mínimo por el cual deban emitirse las boletas. Estos documentos deberán emitirse en el momento mismo en que se celebre el ingreso que motiva su emisión, y estarán exentos de los impuestos establecidos en la Ley sobre Impuesto de Timbres, Estampillas y Papel Sellado.
 
+En aquellos casos en que deba otorgarse facturas o boletas, será obligación del adquirente o beneficiario del servicio exigirlas y retirarlas del local o establecimiento del emisor.
+
 #### Artículo 89
 
 El Banco Central, el Banco del Estado, la Corporación de Fomento de la Producción, las instituciones de previsión y, en general, todas las instituciones de crédito, ya sean fiscales, semifiscales o de administración autónoma, y los bancos comerciales, para tramitar cualquiera solicitud de crédito o préstamo o cualquiera operación de carácter patrimonial que haya de realizarse por su intermedio, deberán exigir al solicitante que compruebe estar al día en el pago del impuesto global complementario o del impuesto único establecido en el N° 1° del artículo 42 de la Ley sobre Impuesto a la Renta. Este último certificado deberá ser extendido por los pagadores, habilitados u oficiales del presupuesto por medio de los cuales se efectúe la retención del impuesto.
@@ -879,6 +881,8 @@ Las sanciones pecuniarias que se establecen en este número podrán aplicarse in
 18°.- Los que compren y vendan fajas de control de impuestos o entradas a espectáculos públicos en forma ilícita, serán sancionados con multa de uno a diez unidades tributarias anuales y con presidio menor en su grado medio.
 
 La sanción pecuniaria establecida en el inciso precedente podrá hacerse efectiva indistintamente en contra del que compre, venda o mantenga fajas de control y entradas a espectáculos públicos en forma ilícita.
+
+19°.- El incumplimiento de la obligación de exigir el otorgamiento de la factura o boleta, en su caso, y retirarla del local o establecimiento del emisor, será sancionada con multa de hasta una unidad tributaria mensual, previos los trámites del procedimiento contemplado en el artículo 165 de este Código, y sin perjuicio de que al sorprenderse la infracción, el funcionario del Servicio pueda solicitar el auxilio de la fuerza pública para obtener la debida identificación del infractor, dejándose constancia en la unidad policial respectiva.
 
 #### Artículo 98
 
@@ -1442,29 +1446,15 @@ Las denuncias por las infracciones sancionadas en los números 2°, 6°, 7°, 10
 
 2°.- En los casos a que se refieren los números 6°, 7° y 10° del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio al sorprender la infracción, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
 
-3°.- Iniciado el procedimiento señalado en el número 2°, el contribuyente podrá recurrir verbalmente, dentro del décimo día de notificada la infracción ante el administrador de Zona o el Jefe de Inspección de su jurisdicción según proceda, a fin de formular descargos en cuanto digan relación únicamente con los siguientes hechos:
+3.- Iniciado el procedimiento señalado en el N° 2, el contribuyente podrá reclamar verbalmente o por escrito, dentro del plazo de cinco días contado desde la notificación de la infracción, ante el Administrador de Zona de su jurisdicción.
 
-a) Que no ha existido el hecho que da motivo a la infracción que se le imputa;
+4.- Junto al reclamo deberán acompañarse y producirse todas las pruebas que el interesado pretenda rendir. La prueba se apreciará en conciencia.
 
-b) Que la multa que se le trata de aplicar es superior a la que el Código establece, o
+5.- El reclamo deberá ser resuelto en el acto por el Administrador de Zona o a más tardar dentro de tercero día y la resolución que se dicte no será susceptible de recurso alguno.
 
-c) Que la infracción notificada no habría producido en caso alguno perjuicio al interés fiscal. En este último evento sólo podrá recurrirse ante el administrador de Zona de la correspondiente jurisdicción.
+6.- La iniciación del procedimiento anterior y la aplicación de sanción administrativa no constituirá impedimento para el ejercicio de la acción penal correspondiente.
 
-En los casos de las letras a) y c) el administrador de Zona o el Jefe de la Inspección ante quien se haya recurrido, después de haber verificado la efectividad de los hechos en que se fundan los descargos, no dará curso a la denuncia. Cuando concurra la circunstancia de la letra b), se ordenará el giro de la multa que legalmente proceda. La resolución deberá adoptarse en la misma audiencia en que se presenten los descargos y no será reclamable.
-
-4°.- Iniciado el procedimiento de los números 1° y 2°, el afectado podrá solicitar al Director Regional no se dé curso a la denuncia correspondiente, cuando se justificare o apareciere que no ha podido cumplir las obligaciones tributarias respectivas por caso fortuito o fuerza mayor, circunstancias que serán calificadas en forma exclusiva por el Director Regional al resolver sobre la materia. Para los efectos de dar aplicación a las normas de este número, se observará el procedimiento indicado en el número 3° de este artículo, en cuanto fuere pertinente.
-
-5°.- Con todo, el contribuyente que no se conformare con la multa que se le haya girado en conformidad con las disposiciones del presente artículo, podrá reclamar ante el Director Regional dentro del plazo de veinte días, contado en la forma que se indica a continuación:
-
-a) Desde la fecha en que se notifique el giro tratándose de las infracciones prevenidas en el número 2;
-
-b) Desde la fecha del giro, en el caso de multas por atraso en la declaración, sin perjuicio que se dé aviso al contribuyente por carta certificada;
-
-c) Desde la fecha del ingreso de la multa en Tesorería, cuando se trate de multas por mora en el pago.
-
-6°.- Los Administradores de Zona del Servicio dictarán una resolución declarando inadmisible la reclamación, cuando verifiquen que ésta ha sido presentada fuera del plazo legal.
-
-7°.- El procedimiento establecido en este artículo se continuará, cuando procediere, de acuerdo con las normas del Título II de este Libro.
+7.- Los Administradores de Zona podrán delegar la facultad que se señala en los números 3° y 5° de este artículo en los Jefes de Inspección u otros funcionarios del Servicio de su jurisdicción.
 
 8°.- Las resoluciones de la Dirección Regional por las cuales se ordene el comiso de mercaderías, se llevarán a efecto provisoriamente mientras se resuelven los recursos pertinentes.
 
