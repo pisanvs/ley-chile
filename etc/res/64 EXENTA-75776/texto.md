@@ -1,0 +1,3 @@
+Por Resolución exenta Nº 64 de fecha 28 de julio de 1997 del Ministerio de Economía, Fomento y Reconstrucción se ha rechazado el Recurso de Reclamación interpuesto por la Sociedad Pesquera Los Andes Limitada, R.U.T. Nº 96.533.090-9, en contra de la Resolución Nº 103, de 1997, de la Subsecretaría de Pesca, que declaró la caducidad de las autorizaciones de pesca de las naves fábrica "Elqui" y "Ercilla".
+
+Santiago,.- Oscar Landerretche Gacitúa, Subsecretario de Economía, Fomento y Reconstrucción.
