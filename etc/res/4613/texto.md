@@ -1,0 +1,7 @@
+DELEGA FACULTADES QUE INDICA EN FUNCIONARIOS QUE SEÑALA
+
+#### Artículo 1
+
+<!-- parte:9047641 -->
+
+Por resolución N° Ex. 4.613, de 1°.10.96, el Jefe del Departamento de Auditoría Interna y Secretaría General del Servicio de Impuestos Internos delegó las facultades para autorizar las transcripciones de las resoluciones y demás documentos que emitan el Director y otros funcionarios de la Dirección Nacional en los siguientes funcionarios y según el orden de precedencia que se indica: 1° señor Carlos Bustos Franco; 2° señora Marta Monasterio Calderón, y 3° señor Raúl Bustos Cerda.
