@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.173, de 22 de octubre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs. 28, y 29, para la obra Camino Ruta K-635, sector Cruce Ruta 5
+
+(Chacarillas) Duao, que figura a nombre de Juan Alberto Reyes Sánchez y Juan A. Reyes Sánchez, roles de avalúos 172-32 y 173-48, comuna de Maule, superficies 223 y 112 m2. respectivamente. La Comisión de Peritos fijó con fecha 14 de junio de 1996 los valores provisionales de las indemnizaciones en las cantidades que indica este decreto. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
