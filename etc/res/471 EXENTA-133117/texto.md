@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 471 de 29 de Marzo de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado predio "Resto del Fundo Las Mercedes" de la comuna de Maule, Séptima Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 10 y sitios N°s. 1, 3, 4 y 6 al 11 del Proyecto de Parcelación "Mercedes Norte", formado por predio señalado e "Hijuela Uno del Plano de Loteo del Fundo El Carmen, Hijuela que se denomina Santa María". Los Derechos de Agua se extraen del canal Peña-Mercedes-Esmeralda, derivado del Río Maule; Derrames de San Jorge y Derrames de predios vecinos. Publicación hecha conforme Art. 13 Ley No.
+
+18.377.-
+
+Director Ejecutivo.
