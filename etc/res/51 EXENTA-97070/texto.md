@@ -1,0 +1,9 @@
+APRUEBA REFORMAS DE ESTATUTO A INDEPENDENCIA INTERNACIONAL S.A. ADMINISTRADORA DE FONDOS DE INVERSION
+
+Certifico: Que por resolución Ex. Nº51 de fecha 10 de febrero de 1998, de esta Superintendencia de Valores y Seguros, se aprobaron las modificaciones del estatuto social de la sociedad Independencia Internacional S.A. Administradora de Fondos de Inversión, que consta de la escritura publicada de 20 de enero de 1998, otorgada en la Notaría de Santiago de don Raúl Undurraga Laso, domiciliado en Mac Iver Nº225, oficina 302.
+
+Las reformas consisten en: 1) Modificar el nombre de la sociedad por el siguiente: "Inversiones Independencia Internacional S.A."; 2) Modificar el objeto social por el siguiente: "La realización de inversiones en toda clase de bienes muebles e inmuebles, sean éstos corporales o incorporales, incluyendo la adquisición de acciones de sociedades anónimas, derechos en sociedades, debentures, bonos, efectos de comercio y toda clase de valores mobiliarios e instrumentos de inversión y la administración de estas inversiones y sus frutos; b) La participación como inversionista o asesora en toda clase de proyectos y el desarrollo de los mismos por cuenta propia o ajena o en asociación con terceros;
+
+c) La prestación de servicios de asesoría en todas las materias y áreas relacionadas con las inversiones mobiliarias e inmobiliarias, estudios de mercado, desarrollo de proyectos empresariales y, en general, la realización de toda clase de estudios y la prestación de servicios de asesoría profesional a personas y empresas, por cuenta propia o ajena, en el país y el extranjero". Con motivo de dichas modificaciones se reformaron los artículos 1 y 4 de los estatutos sociales.
+
+Santiago, 10 de febrero de 1998.- Nelson Torres Morgado, Secretario General Subrogante.
