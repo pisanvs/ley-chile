@@ -1,0 +1,3 @@
+Por resolución Nº 2.616, de 7 de diciembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96110271 presentada por PESQUERA MARES AUSTRALES LIMITADA para instalar y operar el centro de cultivo ubicado en Seno Ventisqueros, Frente Faro Galvarino, Comuna de Cisnes, Provincia de Aysén, XI Región.
+
+Valparaíso, 7 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
