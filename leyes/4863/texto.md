@@ -438,7 +438,7 @@ La Compañía establecerá un fondo especial destinado a las adquisiciones a que
 
 #### Artículo 8º
 
-Los empleados que hubieren quedado cesantes, a contar del 1º de Mayo por la paralización de faenas, y los que quedaren cesantes a consecuencia de la aplicación de la presente ley, podrán exigir de la Caja de Previsión de Empleados Particulares, la devolución inmediata de sus fondos de retiro.
+La Caja de Previsión de Empleados Particulares y demás instituciones similares, deberán devolver, a petición de los interesados, el total de los fondos de retiro de los empleados que se encuentren cesantes desde el 1º de Enero de 1930 y de los que quedaren cesantes con motivo de la aplicación de la presente ley.
 
 #### Artículo 9º
 
