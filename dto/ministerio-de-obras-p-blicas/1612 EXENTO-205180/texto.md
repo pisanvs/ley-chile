@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.612, de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº51 y 52-A, superficie 2.490 M2 y 14.700 M2, rol de avalúo 192-117, comuna de San Clemente, VII Región, para la obra ''Camino Los Robles - Huencuecho - Bajo Perquin, Sector Huencuecho - Bajo Perquin, Tramo Km. 46,140.00 al 76,107.70'' y se acordó el valor de indemización con su propietario don Manuel Hernán Muñoz Gajardo y Otros, ascendente a la cantidad de $617.850, para el lote Nº51 y $1.758.752, para el lote Nº52-A.-
+
+Fiscal del Ministerio de Obras Públicas.
