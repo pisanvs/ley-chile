@@ -1,0 +1,3 @@
+Por resolución Nº 1.445 de 24 de mayo de 2004, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.536, de 2002, de esta Subsecretaría, que rechazó la solicitud de concesión de acuicultura Nº 200111267, presentada por INVERSIONES CONCOTO LIMITADA, para el centro de cultivo ubicado en Canal Pérez norte, sector este de Isla Valverde, XI Región.
+
+Valparaíso, 24 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
