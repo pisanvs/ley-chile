@@ -1,0 +1,15 @@
+CONCEDE PERSONALIDAD JURIDICA Y APRUEBA ESTATUTOS A "ORGANIZACION NO GUBERNAMENTAL DE DESARROLLO ALBINO LUCIANI", DE TALCA
+
+Santiago, 22 de Abril de 1994.- Hoy se decretó lo que sigue:
+
+Núm. 629.- Vistos: estos antecedentes, lo dispuesto en el artículo 29 del Decreto Supremo N° 110, Reglamento sobre Concesión de Personalidad Jurídica, publicado en el Diario Oficial de 20 de Marzo de 1979, y en el Decreto Supremo de Justicia N° 292, de 19 de Marzo de 1993, y lo informado por la Sra. Gobernadora Provincial de Talca y por el Ministerio de Planificación y Cooperación,
+
+Decreto:
+
+1.- Concédese personalidad jurídica a la entidad denominada "Organización No Gubernamental de Desarrollo Albino Luciani", que podrá usar también la sigla "O.N.G. Albino Luciani", con domicilio en la provincia de Talca, Séptima Región del Maule.
+
+2.- Apruébanse los estatutos por los cuales se ha de regir la citada entidad, en los términos de que da testimonio el instrumento protocolizado bajo el N° 422, con fecha 30 de Junio de 1993, ante el Notario Público de Talca, don Ignacio Vidal Domínguez.
+
+Tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, María Soledad Alvear Valenzuela, Ministro de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Eduardo Jara Miranda, Subsecretario de Justicia.
