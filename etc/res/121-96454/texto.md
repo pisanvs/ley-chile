@@ -1,0 +1,3 @@
+Por Resolución Nº. 121, de 29 de Enero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se declara la caducidad de la Resolución No. 416, de 1988, de esta Subsecretaría, que autorizó a don JAIME EDUARDO HENRIQUEZ DIAZ, R.U.T. No. 8.071.345-2, domiciliado en pasaje Los Pozos No. 21, Población Corvi, Chañaral, III Región, para desarrollar actividades pesqueras de cultivo, de conformidad a lo dispuesto en el artículo 7° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
