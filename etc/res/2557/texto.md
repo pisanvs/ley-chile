@@ -1,0 +1,5 @@
+Por resolución Nº 2.557, de 27 de diciembre de 1999 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Maitencillo, V Región, individualizada en el artículo 1º) Nº 11 del DS Nº 652 de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES DE CALETA MAITENCILLO.
+
+Autorízase la extracción, en el área de manejo indicada, de 15.000 individuos del recurso Loco, entre la fecha de la presente resolución y el 31 de diciembre de 1999; 14.000 individuos del recurso Lapa negra y 6.900 individuos del recurso Lapa rosada, entre la fecha de la presente resolución y el 30 de mayo del año 2000.
+
+Valparaíso, 27 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
