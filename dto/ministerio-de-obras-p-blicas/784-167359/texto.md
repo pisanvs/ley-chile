@@ -1,0 +1,3 @@
+Por decreto MOP Nº 784, de 29 de febrero de 2000, se expropiaron los lotes de terreno Nº 5 y 6, superficie 81 m² y 34 m², rol de avalúo 221-22 y 221-22, comuna de Rengo, obra Mejoramiento Camino Ruta H-65, sector Rengo-Popeta y se acordó precio de indemnización con sus propietarios Pedro Segundo Espinoza Jorquera y Daniel Arturo Martínez Jorquera, ascendente a las cantidades de $638.388, para el lote Nº 5 y $450.264, para el lote Nº 6.
+
+Fiscal del Ministerio de Obras Públicas.
