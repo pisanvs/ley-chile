@@ -1,0 +1,5 @@
+Por Resolución No. 729, de 31 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a SOCIEDAD COMERCIAL FRIGORIFICO VALPARAISO, R.U.T. No. 78.038.030-6, domiciliada en la ciudad de Valparaíso Fundo Las Mercedes, Parcela 277, para ampliar actividades que tiene autorizadas por Resoluciones No. 1.229, de 1991 y No. 145, de 1992, ambas de esta Subsecretaría, en orden a operar una planta industrial en la V Región, ubicada en Ruta 68 No. 1240, localidad de Placilla, Comuna de Valparaíso, Provincia de Valparaíso, donde procesará en la línea de elaboración de congelado, los siguientes recursos hidrobiológicos: Congelado, Salmón del Pacífico, Salmón rey, Trucha arco iris, Salmón del Atlántico.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que establezcan.
+
+Valparaíso, 31 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
