@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.351 de 31 de julio de 2002, se expropió el lote de terreno Nº 208, superficie 385 m2., rol de avalúo 1422-14, comuna de Rancagua, para la obra Concesión Internacional Ruta 5. Tramo Santiago - Talca, Sector: Km. 68.400,00 al Km. 95.600,00 By Pass Rancagua, VI Región, se acordó el valor de la indemnización con su propietaria Hortensia Rosa Zúñiga Pozo y Otros, ascendente a la cantidad de $9.888.005.-
+
+Fiscal del Ministerio de Obras Públicas.
