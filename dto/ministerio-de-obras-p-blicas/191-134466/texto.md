@@ -1,0 +1,3 @@
+Por decreto MOP No. 191, de 29 de enero de 1999, se modificó el decreto MOP No. 898 de 30 de junio de 1998, que ordenó la expropiación del lote 92, en cuanto a que por una parte se rectificó el numeral 25 en el sentido de que la superficie a expropiar son 26.038,4 m2, y no 28.427,3 m2., como se indicó inicialmente. Asimismo, se modificó el numeral 35, en cuanto a que la fecha de tasación del lote es 9 de noviembre de 1998, y no la que allí se indica, y que el valor provisional de dicho lote es la suma de $ 194.978.216.- La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 75 del Decreto Ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
