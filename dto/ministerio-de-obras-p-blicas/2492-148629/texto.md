@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.492, del 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs 93 y 138-B superficies 410 y 768 M2, respectivamente, roles de avalúos S/R y 460-4, comuna de Vicuña para la obra ''Embalse Puclaro, Sector Gualliguaica, IV Etapa''; y se acordó precio de la indemnización con sus propietarios, Cristina de las Mercedes Pastén Gallardo y Otros y María Adelina Pastén Gallardo y Otros, ascendente a las cantidades de $3.936.492.- para el lote Nº 93 y $4.423.220.- para el lote Nº 138-B.
+
+Fiscal del Ministerio de Obras Públicas.
