@@ -1,0 +1,3 @@
+Por decreto MOP. N´° 67, de 30 de enero de 1998, se expropiaron los lotes de terreno N°s. 1, 2 y 3, superficies 9.319, 3.193 y 1.275 m2., roles de avalúo 603-13, 603-5 y 603-4, comuna de Cerrillos, para la obra Camino Autopista Santiago - San Antonio, Sector Empalme l. Riquelme - Bif. Malloco, Km. 4.000,00 al 4.550,00, Lo Errazuriz, y se acordó precio de las indemnizaciones con Sociedad Minera Nueva Cerrillos Limitada, ascendente a la cantidad de $234.579.118.-
+
+Fiscal del Ministerio de Obras Públicas.
