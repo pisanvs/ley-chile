@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.336, de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 1, superficie 124 m2, Rol Nº 865-20, comuna de Alto del Carmen, III Región, para la obra "Mejoramiento Ruta C-495, Camino Alto del Carmen - Conay, Provincia del Huasco, Región de Atacama, Etapa II" y se acordó el valor de indemnización con su propietario don Nilo Omar Cisterna Campillay, ascendente a la cantidad de $610.236.
+
+Fiscal del Ministerio de Obras Públicas.
