@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero, mediante Resolución Exenta N° 677 de 20 de Mayo de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Expropiado Predio "Huechún Bajo" de la Comuna de Melipilla, Región Metropolitana; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 91, de 74 sitios y Reserva CORA N° 1 del Proyecto de Parcelación "Huechún Bajo", formado por predio señalado. Los Derechos de Agua se extraen del Canal Huechún y Derrames provenientes del P.P. San David que ingresan por los puntos B, C y D que se conducen por los canales Las Mulas, Del Bajo y canal Viejo y Derrames que llegan por el Estero Huechún.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
