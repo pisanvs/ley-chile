@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 462, de 7 de octubre de 1994 y en base a la facultad otorgada por el artículo 105 del Decreto MOP. N° 294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropió el lote de terreno N° 1, para obra Camino Longitudinal Sur, Ruta 5, sector Panguilemo- San Javier, que figura a nombre de Héctor M. Ortiz Berríos, rol de avalúo 152-37, comuna de Maule, VII Región, superficie 36 M2. Posteriormente, por Decreto MOP. N° 78, de 28 de febrero de 1995, se autorizó el Convenio Directo de Precio, acordándose el valor de indemnización con dicho propietario, en la cantidad de $190.820.
+
+Fiscal del Ministerio de Obras Públicas.
