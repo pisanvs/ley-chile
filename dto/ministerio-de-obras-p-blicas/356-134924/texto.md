@@ -1,0 +1,3 @@
+Por decreto MOP Nº 356, de 26 de febrero de 1999, se expropiaron los lotes de terreno Nºs 11-1, 12-A y 15-A, superficies 398 m², 61 m² y 1.706 m², rol de avalúo 1164-7, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5 Tramo Chillán-Collipulli'', Sector 1, VIII Región y se acordó el valor de indemnización con su propietaria Juana del Carmen Olate Urrea, ascendente a la cantidad total de $2.714.707.-
+
+Fiscal del Ministerio de Obras Públicas.
