@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.706, de 28 de abril de 2000, se expropió el lote de terreno Nº 2, superficie 3.215 m², rol de avalúo 8085-376, comuna de San Rafael, para la obra Concesión Internacional Ruta 5. Tramo: Talca-Chillán, Séptima Región y se acordó el valor de indemnización con su propietario Pedro Antonio Campos Martínez, ascendente a la cantidad de $6.245.306.-
+
+Fiscal del Ministerio de Obras Públicas.
