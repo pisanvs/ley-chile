@@ -2892,7 +2892,7 @@ SISTEMA DE AHORRO Y FINANCIAMIENTO DE LA VIVIENDA.
 
 ### I. GENERALIDADES DEL SISTEMA DE AHORRO Y FINANCIAMIENTO DE LA VIVIENDA
 
-Este sistema, reglamentado por el Decreto Supremo N° 44 del Ministerio de Vivienda y Urbanismo, publicado en el Diario Oficial del 9 de abril de 1988, y sus modificaciones, en adelante "el Reglamento", permite postular a un subsidio estatal y solicitar un préstamo en letras de crédito para financiar la construcción o la compra de una vivienda económica nueva o usada, urbana o rural, por un valor de hasta el equivalente de 2.000 unidades de fomento, a las personas naturales que, para ese fin, hayan enterado y mantenido en una institución financiera o en su Administradora de Fondos de Pensiones o Servicio de Bienestar Social, un determinado ahorro mínimo, durante un período preestablecido y que no sean propietarias de una vivienda.
+Este sistema, reglamentado por el Decreto Supremo N° 44 del Ministerio de Vivienda y Urbanismo, publicado en el Diario Oficial del 9 de abril de 1988, y sus modificaciones, en adelante "el Reglamento", permite postular a un subsidio estatal y solicitar un préstamo en letras de crédito para financiar la construcción o la compra de una vivienda económica nueva o usada, urbana o rural, por un valor de hasta de 1.500 ó 1.600 unidades de fomento, según la Región en que esté emplazada la vivienda, a las personas naturales que, para ese fin, hayan enterado y mantenido en una institución financiera o en su Administradora de Fondos de Pensiones o Servicio de Bienestar Social o en calidad de aporte de capital en una Cooperativa de Vivienda, un determinado ahorro mínimo, durante un período preestablecido y que no sean propietarias de una vivienda.
 
 El subsidio habitacional ofrecido por el Estado es sin cargo de restitución para el beneficiario, pero no puede destinarse a la adquisición o construcción de viviendas de recreación o veraneo, ni a la adquisición de una vivienda a través de los mecanismos contemplados en el D.L. N° 1.519 de 1976, sobre Impuesto Habitacional. Es requisito imprescindible para postular a ese subsidio, haber enterado el ahorro previo en una cuenta de ahorro a plazo para la vivienda abierta en una institución financiera, en la forma de aporte de capital en una cooperativa abierta de vivienda, o bien, en una cuenta de ahorro mantenida en la respectiva Administradora de Fondos de Pensiones o en un Servicio de Bienestar Social.
 
@@ -2900,9 +2900,9 @@ Los interesados que hayan dado cumplimiento al ahorro previo y que reúnan las d
 
 El subsidio habitacional, que consiste en un subsidio directo y un subsidio implícito que corresponde a la cobertura de la diferencia o parte de ella que puede producirse entre el valor par de las letras de crédito emitidas por el préstamo que puede recibir el beneficiario y el producto que se obtenga de la venta de ellas, se otorga a los postulantes que concursen, sobre la base del puntaje que reúnan, determinado en la forma que se señala en el Reglamento. El Ministerio de Vivienda y Urbanismo fija en cada oportunidad el puntaje de corte para la selección de los postulantes y determina, por ende, a los beneficiarios de esta ayuda estatal.
 
-Los postulantes beneficiados con el subsidio directo tienen derecho a solicitar un préstamo en letras de crédito a una institución financiera, a fin de destinarlo conjuntamente con dicho subsidio y el ahorro previo, a la compra o construcción de una vivienda de hasta un valor equivalente a 2.000 unidades de fomento, conforme a las instrucciones contenidas en el título III de este capítulo.
+Los postulantes beneficiados con el subsidio directo tienen derecho a solicitar un préstamo en letras de crédito a una institución financiera, a fin de destinarlo conjuntamente con dicho subsidio y el ahorro previo, a la compra o construcción de una vivienda de hasta un valor equivalente a 1.500 ó 1.600 unidades de fomento, según el caso, conforme a las instrucciones contenidas en el título III de este capítulo.
 
-Las instituciones financieras que reciban estas cuentas de ahorro quedan obligadas a entregar oportunamente a sus titulares el certificado a que se refiere el artículo 9° del Reglamento.
+Las instituciones financieras que reciban estas cuentas de ahorro quedan obligadas a entregar oportunamente a sus titulares el certificado a que se refiere el artículo 9° del Reglamento, o bien, al Ministerio de Vivienda y Urbanismo la respectiva información solicitada por éste, en virtud de la autorización que le hayan otorgado para tal efecto los titulares de las cuentas de ahorro.
 
 ### II. DE LAS CUENTAS DE AHORRO A PLAZO PARA LA VIVIENDA
 
@@ -2910,7 +2910,7 @@ Los bancos y sociedades financieras pueden abrir y mantener cuentas de ahorro pa
 
 Las cuentas de ahorro a plazo para la vivienda, se rigen en general por las disposiciones de los capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile y por las normas sobre cuentas de ahorro con libreta contenidas en el Capítulo 2-4 de esta Recopilación de Normas, salvo en lo concerniente a sus características especiales y finalidad específica, establecidas en las disposiciones del Capítulo III.E.3 de dicho Compendio y en las presentes instrucciones complementarias, lo que las distingue respecto de las cuentas de ahorro a plazo ordinarias o habituales que operan en el sistema financiero.
 
-La apertura de una cuenta de esta especie por parte de una institución financiera, implica para ella asumir el compromiso de otorgar en su oportunidad,el respectivo certificado de ahorro que se requiere para postular al subsidio habitacional establecido en el Reglamento.
+La apertura de una cuenta de esta especie por parte de una institución financiera, implica para ella asumir el compromiso de otorgar en su oportunidad,el respectivo certificado de ahorro o proporcionar directamente al Ministerio de Vivienda y Urbanismo la información que se requiere para postular al subsidio habitacional establecido en el Reglamento.
 
 ### 1. Apertura de las cuentas de ahorro para la vivienda
 
@@ -2926,15 +2926,15 @@ Cada titular de una cuenta de ahorro a plazo para la vivienda debe firmar un con
 
 a) Cláusula que señale que la cuenta de ahorro de que se trata, se constituye para optar a la adquisición o construcción de una vivienda en los términos y condiciones establecidos en el Reglamento de otorgamiento de subsidio habitacional para el sistema de ahorro y financiamiento de la vivienda, de que trata el Reglamento.
 
-b) Monto mínimo de ahorro expresado en unidades de fomento a que se compromete el titular.
+b) Monto mínimo de ahorro expresado en unidades de fomento a que se compromete el titular, el que debe ser concordante con el valor de la vivienda que desea adquirir, de conformidad con la escala fijada para el efecto por el Ministerio de Vivienda y Urbanismo.
 
-e) Plazo expresado en meses, en que se enterará el monto mínimo del ahorro pactado.
+c) Plazo expresado en meses, en que se enterará el monto mínimo del ahorro pactado.
 
-d) Saldo promedio, expresado en unidades de fomento, que deberá mantenerse durante cada semestre, según lo dispuesto en el inciso primero del Art. 9° del Reglamento.
+d) Saldo promedio, expresado en unidades de fomento, que deberá mantenerse durante cada semestre, según lo dispuesto en el inciso primero del Art. 9° del Reglamento o proporcionar directamente la respectiva información al Ministerio de Vivienda y Urbanismo, cuando proceda.
 
 e) La obligación del banco o sociedad financiera depositaria, de entregar a solicitud del depositante, dentro de los cinco días hábiles bancarios siguientes a la fecha en que fue solicitado, el certificado a que se refiere el artículo 9° del Reglamento.
 
-f) La opción del ahorrante de modificar por una sola vez el contrato de ahorro, en los términos permitidos en el Reglamento.
+f) La opción del ahorrante de modificar el contrato de ahorro.
 
 g) Facultad del ahorrante de traspasar a otra institución financiera el saldo total de ahorro acumulado, siempre que hubieren transcurrido a lo menos seis meses calendario desde la apertura de la cuenta o del traspaso anterior.
 
@@ -2962,9 +2962,9 @@ Las libretas deben tener un diseño que las identifique y las distinga, en forma
 
 ### 3. Depósitos y giros
 
-Los depósitos y giros que se efectúen en cuentas de ahorro para la vivienda quedan sujetos a las disposiciones para cuentas de ahorro establecidas en el Capítulo 2-4 antes citado, sin perjuicio de las normas específicas contenidas en el presente capítulo.
+La facultad de girar quedará suspendida desde la misma fecha en que la institución financiera depositaría otorgue al titular de la cuenta el certificado, o bien, proporcione la información al Ministerio de Vivienda y Urbanismo para postular al subsidio habitacional o emita el certificado para el traspaso de la cuenta de ahorro a otra institución financiera. La suspensión de la facultad de girar originada por la postulación al subsidio quedará sin efecto si el ahorrante no fue beneficiado en el llamado a que postuló o si, habiendo resultado beneficiado, renuncia al subsidio mediante la entrega a la respectiva institución financiera del certificado de subsidio, endosado en forma nominativa al Servicio de Vivienda y Urbanismo o si caduca dicho certificado sin haber sido cobrado.
 
-Para efectuar un giro en una cuenta de ahorro para la vivienda, es requisito indispensable la presentación de la libreta de ahorro y el registro en ella del importe girado.
+Para efectuar un giro en una cuenta de ahorro o al envío de la respectiva información al Ministerio de Vivienda y Urbanismo para la vivienda, es requisito indispensable la presentación de la libreta de ahorro y el registro en ella del importe girado.
 
 No obstante que la finalidad de estas cuentas es el ahorro para la vivienda, los titulares podrán girar de ellas para otros fines, con las limitaciones que encada caso correspondan.
 
@@ -3016,7 +3016,7 @@ Este estado de cuenta deberá enviarse también con ocasión del giro que haga e
 
 ### 8. Determinación del saldo medio semestral mínimo
 
-Los ahorrantes que se incorporen a este sistema deben cumplir con la obligación de mantener en su cuenta de ahorro a plazo para la vivienda un saldo promedio semestral mínimo, que se determina sobre la base del monto total mínimo del ahorro que se han comprometido a enterar.
+Los ahorrantes que se incorporen a este sistema deben cumplir con la obligación de mantener en su cuenta de ahorro a plazo para la vivienda un saldo promedio semestral mínimo, que se determina sobre la base del monto total mínimo del ahorro que se han comprometido a enterar, de acuerdo con lo establecido en la letra b) del numeral 1.2 de este título.
 
 Este saldo promedio debe ser, para cada semestre convenido, contado desde el primer día del mes siguiente a aquel en que se efectúe el primer depósito, el que se indica a continuación:
 
@@ -3058,23 +3058,27 @@ La institución financiera que reciba el traspaso de estas cuentas de ahorro deb
 
 ### 11. Modificación de los contratos
 
-La reglamentación del sistema faculta a los ahorrantes para cambiar por una sola vez el contrato de ahorro en lo relativo a las cláusulas especiales a que se refiere el numeral 1.2 de este título. La modificación que en virtud de esa opción se realice, no podrá significar un mayor crédito que aquel que le correspondía al ahorrante de acuerdo con el ahorro pactado originalmente, amenos que aumente en a lo menos seis meses el plazo primitivamente convenido. No obstante, para los efectos de cumplir con la exigencia de los saldos promedio mínimos semestrales pactados, el titular de la cuenta de ahorro para la vivienda puede solicitar que se consideren a lo menos, solamente los saldos promedio mantenidos en los últimos tres semestres de vigencia del contrato modificado.
+La reglamentación del sistema faculta a los ahorrantes para cambiar el contrato de ahorro en lo relativo a las cláusulas especiales a que se refiere el numeral 1.2 de este título.
 
-De la modificación de cualquiera de esas cláusulas especiales que en cada caso se acuerde, deberá dejarse expresa constancia tanto en la hoja original del respectivo contrato, como en el ejemplar que se entrega al ahorrante, debiendo cuidarse de anotar en forma detallada la cláusula modificada y la fecha en que se perfeccionó el cambio. Igualmente deberán informarse tales cambios en el certificado que se emita con motivo del traspaso de la cuenta a otra institución financiera.
+De la modificación de cualquiera de esas cláusulas especiales que en cada caso se acuerden, deberá dejarse expresa constancia tanto en la hoja original del respectivo contrato, como en el ejemplar que se entrega al ahorrante, debiendo cuidarse de anotar en forma detallada la cláusula modificada y la fecha en que se perfeccionó el cambio.
 
-El cambio de cualquiera de las condiciones especiales antes mencionadas, no puede hacerse más que una sola vez desde la apertura inicial hasta la aplicación final del ahorro depositado, de modo entonces, que las entidades financieras que reciban una cuenta traspasada de otra institución financiera y cuyas condiciones especiales hubieran sido objeto de una modificación, no pueden realizar ningún nuevo cambio en esas cláusulas.
+12. Certificación de ahorro. Cuentas de ahorro a plazo para la vivienda.
 
-12. Certificados de ahorro. Cuentas de ahorro a plazo para la vivienda.
+12.1. Certificación para postular al subsidio habitacional.
 
-12.1. Certificados para postular al subsidio habitacional.
+12.1.1. Información directa al Ministerio de Vivienda y Urbanismo.
 
-Los titulares de estas cuentas de ahorro a plazo para la vivienda que postulen al subsidio habitacional regulado por el Reglamento, deben presentar un certificado extendido por el banco o sociedad financiera en que se haya mantenido la respectiva cuenta de ahorro.
+De conformidad con lo dispuesto en el artículo 9° del Reglamento, los titulares de las cuentas de ahorro a plazo para la vivienda pueden autorizar al Ministerio de Vivienda y Urbanismo para que solicite directamente a las respectivas instituciones financieras, la información relativa a sus ahorros mantenidos.
+
+En tales casos, las instituciones financieras deberán proporcionar, a requerimiento de la mencionada Secretaría de Estado, la información correspondiente a los ahorros de los postulantes al subsidio habitacional, en la forma y por los medios que acuerden, en lugar del certificado de que trata el numeral 12.1.2 siguiente.
+
+12.1.2. Certificados para postular al subsidio habitacional.
+
+Los titulares de estas cuentas de ahorro a plazo para la vivienda que postulen al subsidio habitacional regulado por el Reglamento, deben presentar un certificado extendido por el banco o sociedad financiera en que se haya mantenido la respectiva cuenta de ahorro, a menos que hayan autorizado al Ministerio de Vivienda y Urbanismo para obtener esa información conforme se señala en el numeral precedente.
 
 Las instituciones financieras deberán hacer entrega del mencionado certificado dentro de los cinco días hábiles bancarios siguientes a la fecha en que lo haya solicitado el interesado.
 
-Además, en el caso que el ahorrante haya perdido el derecho a reajuste por exceso de giros, debe dejarse constancia de esa situación en el respectivo certificado, inmediatamente a continuación del párrafo que indica el ahorro total acumulado a la fecha de emisión del certificado, mediante la frase: "Sin derecho a reajuste por haber efectuado en el último período de doce meses una
-
-cantidad de giros superior a la pactada".
+Además, en el caso que el ahorrante haya perdido el derecho a reajuste por exceso de giros, debe dejarse constancia de esa situación en el respectivo certificado, inmediatamente a continuación del párrafo que indica el ahorro total acumulado a la fecha de emisión del certificado, mediante la frase: "Sin derecho a reajuste por haber efectuado en el último período de doce meses una cantidad de giros superior a la pactada".
 
 Estos certificados deberán extenderse de acuerdo al formato que se acompaña como Anexo N° 1 de este capítulo y deberán incluir toda la información que se requiere en él, de conformidad con las instrucciones que forman el Anexo N° 2.
 
@@ -3082,15 +3086,13 @@ La vigencia de estos certificados para su presentación al SERVIU, será de sese
 
 12.2. Certificados para traspaso de la cuenta de ahorro.
 
-Según lo dispuesto en las normas aprobadas por el Comité Ejecutivo del Banco Central de Chile, cuando el titular de una cuenta de ahorro para la vivienda solicite su traspaso a otra institución financiera, el banco o sociedad financiera que hubiere mantenido la cuenta, debe extender un certificado,dejando constancia, además del nombre completo y el RUT del dueño o titular dela cuenta,
+Según lo dispuesto en las normas del Banco Central de Chile, cuando el titular de una cuenta de ahorro para la vivienda solicite su traspaso a otra institución financiera, el banco o sociedad financiera que hubiere mantenido la cuenta, debe extender un certificado,dejando constancia, además del nombre completo y el RUT del dueño o titular dela cuenta, del monto total mínimo de ahorro a que se comprometió el titular, del plazo fijado para enterarlo, de los saldos promedio mantenidos y del saldo de cierre de la cuenta, con sus intereses y reajustes cuando corresponda.
 
-del monto total mínimo de ahorro a que se comprometió el titular, del plazo fijado para enterarlo, de los saldos promedio mantenidos y del saldo de cierre de la cuenta, con sus intereses y reajustes cuando corresponda.
+Estos certificados deben emitirse en el mismo formulario diseñado para extender el certificado a que se refiere el numeral 12.1.2 precedente, cuyo formato y menciones se dan a conocer en el Anexo N° 1 de estas instrucciones, y deberán indicar en forma destacada que la cuenta debe ser abierta en un plazo máximo de tres días ya que si se hace posteriormente se la considerará como una cuenta nueva.
 
-Estos certificados deben emitirse en el mismo formulario diseñado para extender el certificado a que se refiere el numeral 12.1 precedente, cuyo formato y menciones se dan a conocer en el Anexo N° 1 de estas instrucciones, y deberán indicar en forma destacada que la cuenta debe ser abierta en un plazo máximo de tres días ya que si se hace posteriormente se la considerará como una cuenta nueva.
+12.3. Giros que pueden efectuarse después de la emisión del certificado o envío de la información para postular al subsidio habitacional
 
-12.3. Giros que pueden efectuarse con posterioridad a la emisión del certificado para postular al subsidio habitacional.
-
-Los ahorrantes que reciban el certificado a que se refiere el numeral 12.1 anterior, no podrán realizar ningún giro de su cuenta de ahorro para la vivienda a contar de la fecha de emisión del certificado para postular al subsidio habitacional, mientras no se conozcan los resultados de la respectiva postulación. No obstante, el ahorrante podrá ordenar en cualquier momento el traspaso del saldo de su cuenta a otra institución financiera, en los términos señalados en el número 10 anterior.
+Los ahorrantes que reciban el certificado a que se refiere el numeral 12.1.2 anterior, o acerca de cuyas cuentas se haya informado al Ministerio de Vivienda y Urbanismo, no podrán realizar ningún giro de su cuenta de ahorro para la vivienda a contar de la fecha de emisión del certificado o envío de dicha información al citado Ministerio para postular al subsidio habitacional, mientras no se conozcan los resultados de la respectiva postulación. No obstante, el ahorrante podrá ordenar en cualquier momento el traspaso del saldo de su cuenta a otra institución financiera, en los términos señalados en el N° 10 de este título.
 
 Si el interesado salió beneficiado en el llamado a que postuló, podrá girar de la cuenta de ahorro para pagar el precio de la compra de la vivienda, siempre que se haya firmado la correspondiente escritura, debiendo presentar copia de este último documento autorizado por notario. En caso que se trate de pagar la construcción de una vivienda, el interesado podrá girar de la cuenta de ahorro una vez que se haya inscrito la prohibición de enajenar la vivienda por cinco años y siempre que la respectiva municipalidad haya recibido el inmueble, para lo cual deberá presentar el correspondiente certificado de gravámenes y
 
@@ -3098,9 +3100,7 @@ prohibiciones y el certificado de recepción municipal.
 
 No obstante lo anterior, el ahorrante podrá girar los fondos acumulados en su cuenta, antes de que se cumplan las condiciones señaladas precedentemente,siempre que obtenga la autorización del SERVIU, para cuyo efecto deberá ser beneficiario del subsidio habitacional y haber suscrito como tal un contrato de compraventa o de promesa de compraventa o de construcción de una vivienda y entregar a dicho Servicio una boleta de garantía bancaria tomada por el vendedor, promitente vendedor o constructor, según sea el caso, a favor del beneficiario del subsidio y ahorrante, expresada en pesos moneda nacional o en unidades de fomento por el monto de los ahorros acumulados más la suma que determine dicho Servicio.
 
-También se permitirá efectuar giros a aquellos ahorrantes que habiendo resultado beneficiados en la postulación en que participaron, renunciaren al subsidio. En estos casos, la renuncia deberá perfeccionarse mediante la entrega a la institución financiera del certificado de subsidio, endosado por el respectivo beneficiario en forma nominativa a favor del SERVIU, y dejándose constancia en el mismo endoso, de la fecha en que éste se ha firmado. Asimismo, los ahorrantes quedan facultados para efectuar giros sobre los depósitos constituidos con posterioridad a la emisión del certificado para postular al subsidio
-
-habitacional.
+También se permitirá efectuar giros a aquellos ahorrantes que habiendo resultado beneficiados en la postulación en que participaron, renunciaren al subsidio. En estos casos, la renuncia deberá perfeccionarse mediante la entrega a la institución financiera del certificado de subsidio, endosado por el respectivo beneficiario en forma nominativa a favor del SERVIU, y dejándose constancia en el mismo endoso, de la fecha en que éste se ha firmado. Asimismo, los ahorrantes quedan facultados para efectuar giros sobre los depósitos constituidos con posterioridad a la emisión del certificado**P****o envío de la información al Ministerio de Vivienda y Urbanismo para postular al subsidio habitacional.
 
 Los bancos y sociedades financieras remitirán estos certificados al SERVIU, dentro de los cinco días hábiles bancarios siguientes a la fecha del endoso,mediante una carta certificada o bien por entrega personal, caso en que el SERVIU deberá dejar constancia de su recepción en el libro de entrega de correspondencia de la institución remitente.
 
@@ -3124,7 +3124,7 @@ Sin embargo, el ahorrante podrá girar anticipadamente el saldo acumulado, con e
 
 Los titulares de cuentas de ahorro para la vivienda que hubieren cumplido su contrato de ahorro, pero que no hubiesen sido seleccionados en las postulaciones en que participaren, como también aquéllos que no hubiesen postulado, podrán presentarse en llamados posteriores, siempre que registren un saldo no inferior al mínimo convenido.
 
-Para los efectos de las postulaciones en que participen estos ahorrantes, deberán presentar el certificado a que se refiere el numeral 12.1 de este título, en el cual deberán constar, además de los mencionados saldos mínimos mantenidos, los saldos promedios mensuales registrados a partir de la fecha en que se haya cumplido el plazo convenido en el contrato de ahorro, original o modificado, según corresponda.
+Para los efectos de las postulaciones en que participen estos ahorrantes, deberán presentar la certificación a que se refiere el numeral 12.1 de este título, en el cual deberán constar, además de los mencionados saldos mínimos mantenidos, los saldos promedios mensuales registrados a partir de la fecha en que se haya cumplido el plazo convenido en el contrato de ahorro, original o modificado, según corresponda.
 
 ### III. DE LOS PRESTAMOS HIPOTECARIOS
 
@@ -3134,17 +3134,17 @@ Los titulares de cuentas de ahorro a plazo para la vivienda que cumplan con su c
 
 El monto del préstamo, que se curse de conformidad con este sistema, deberá destinarse, junto con la aplicación del subsidio habitacional y del ahorro previo, en caso que proceda, a pagar el saldo de precio de la vivienda adquirida o su construcción. Su importe no podrá exceder del monto máximo que indique el correspondiente Certificado de Subsidio Habitacional.
 
-De acuerdo con las disposiciones del Reglamento, el crédito que puede solicitar el interesado, al amparo de estas normas, no podrá ser superior a ocho veces el ahorro total pactado o el equivalente en Unidades de Fomento del puntaje obtenido por sitio propio, en caso que corresponda, ni al 75% del valor de la vivienda, según cual sea la cantidad que resulte menor, con un máximo que, en todo caso, no deberá exceder de un monto residual en letras de crédito, igual a 280, 670 ó 1.000 Unidades de Fomento, según sea el valor de la vivienda a la que postule, esto es, si dicho valor alcanza a 400, 900 ó 2.000 Unidades de Fomento, respectivamente. No obstante, las instituciones financieras podrán otorgar préstamos hipotecarios adicionales, al margen del sistema de subsidio habitacional, destinados a enterar eventuales saldos de precio no cubiertos por el sistema, siempre que se trate de viviendas cuyo precio no exceda del equivalente a 2.000 Unidades de Fomento, sin exceder, tampoco, del monto máximo del tramo de valor de vivienda a que hubiere postulado el beneficiario respectivo.
+De acuerdo con las disposiciones del Reglamento, el monto residual del crédito que puede solicitar el interesado al amparo de estas normas, con subsidio implícito o sin él, no podrá exceder al menor de los siguientes importes: 1.000 Unidades de Fomento, 75% del precio de la respectiva vivienda o el precio de la vivienda deducido el monto del subsidio y el del ahorro o aporte de capital acreditado.
 
 Se entiende, para estos efectos, por valor residual del crédito, el valor nominal de las respectivas letras de crédito, menos las amortizaciones correspondientes a los meses transcurridos entre el 1° de enero del año de su emisión material y el día 1° del mes subsiguiente a aquél en que se suscriba el contrato de mutuo respectivo.
 
 Los préstamos que se otorguen dentro del sistema de subsidio, lo serán en letras de crédito, expresados en unidades de fomento o en Indice Valor Promedio, pagaderos en un plazo de 12, 15, o 20 años, con tasas de interés máxima para el deudor, de 8,5%, 9% o 10% anual, condiciones ambas a elección del mutuario.
 
-La tasa de interés y el plazo del crédito deben quedar estipulados en el mutuo hipotecario. Por su parte, las letras de crédito emitidas con motivo del otorgamiento de los referidos préstamos, devengarán una tasa de interés nominal no inferior al 5,5% o al 6% anual, a elección de la institución financiera. En ningún caso, el diferencial entre las tasas del mutuo y de las letras de crédito podrá exceder de tres puntos. Tal diferencial corresponde al importe que se cobra como "comisión" en las operaciones habituales en letras de crédito.
+La tasa de interés y el plazo del crédito deben quedar estipulados en el mutuo hipotecario. Por su parte, las letras de crédito emitidas con motivo del otorgamiento de los referidos préstamos, devengarán una tasa de interés no inferior al 5,5% anual. En ningún caso, el diferencial entre las tasas del mutuo y de las letras de crédito podrá exceder de tres puntos. Tal diferencial corresponde al importe que se cobra como "comisión" en las operaciones habituales en letras de crédito.
 
-Corresponde, en consecuencia, que las entidades financieras elaboren las respectivas tablas de desarrollo del mutuo hipotecario sobre la base del interés que se hubiera acordado y de una comisión de hasta el 3% o el 2,5% anual según sea la tasa de interés de las letras de crédito del 5,5% o del 6% anual, respectivamente. Los intereses y la comisión se demostrarán en columnas separadas en las tablas que se presenten a esta Superintendencia para el registro del respectivo prospecto, y en las que formen parte de la escritura de mutuo.
+Corresponde, en consecuencia, que las entidades financieras elaboren las respectivas tablas de desarrollo del mutuo hipotecario sobre la base del interés que se hubiera acordado y de una comisión de hasta el 3% anual. Los intereses y la comisión se demostrarán en columnas separadas en las tablas que se presenten a esta Superintendencia para el registro del respectivo prospecto, y en las que formen parte de la escritura de mutuo.
 
-Tanto para los efectos del préstamo que se curse como de las letras de crédito que por su concepto se emitan, las instituciones financieras deben atenerse, en todo aquello que no está tratado de una manera distinta en estas disposiciones, a las normas generales sobre la materia, dictadas por el Consejo Monetario y el Comité Ejecutivo del Banco Central de Chile, como a las instrucciones que ha impartido esta Superintendencia.
+Tanto para los efectos del préstamo que se curse como de las letras de crédito que por su concepto se emitan, las instituciones financieras deben atenerse, en todo aquello que no está tratado de una manera distinta en estas disposiciones, a las normas generales sobre la materia, contenidas en el Compendio de Normas Financieras del Banco Central de Chile, como a las instrucciones que ha impartido esta Superintendencia.
 
 En todo caso, las entidades financieras que realicen este tipo de operaciones deberán cuidar de que el respectivo Certificado de Subsidio Habitacional se encuentre vigente al momento de cursar el préstamo.
 
@@ -3174,7 +3174,7 @@ Si el remate se efectuare dentro de los cinco años de la fecha de inscripción 
 
 El importe de la restitución al SERVIU se calculará sobre la base del valor de la unidad de fomento a la fecha del remate. En el caso que lo obtenido del remate no alcanzare para cubrir el monto de ambos subsidios, se entregará al SERVIU el saldo que quedare, después de efectuar las deducciones a que se refiere el párrafo anterior. Por lo contrario, si después de todo quedare un sobrante, éste se entregará al ejecutado si procediere.
 
-Si la vivienda que fuere objeto de remate judicial hubiese sido financiada con un crédito no superior a 670 U.F., el SERVIU respectivo enterará a la institución financiera acreedora hasta el 75% de la diferencia que se produjere entre el valor obtenido en el remate y el saldo insoluto de la deuda, incluidos intereses y comisiones devengados hasta el día de la recepción de pago efectivo y de las costas del juicio. El citado 75% se incrementará en un 0,04% por cada unidad de fomento que resulte de la diferencia entre 670 unidades de fomento y el monto del crédito recibido por el usuario, siempre que el total no exceda del equivalente a 200 unidades de fomento.
+Si la vivienda que fuere objeto de remate judicial hubiese sido financiada con subsidio habitacional y con un crédito no superior a 670 U.F., el SERVIU respectivo enterará a la institución financiera acreedora hasta el 75% de la diferencia que se produjere entre el valor obtenido en el remate y el saldo insoluto de la deuda, incluidos intereses y comisiones devengados hasta el día de la recepción de pago efectivo y de las costas del juicio. El citado 75% se incrementará en un 0,04% por cada unidad de fomento que resulte de la diferencia entre 670 unidades de fomento y el monto del crédito recibido por el usuario, siempre que el total no exceda del equivalente a 200 unidades de fomento.
 
 La misma franquicia se aplicará si la institución acreedora se adjudicará el inmueble por los dos tercios del avalúo, según lo previsto en los artículos 499 y 500 del Código de Procedimiento Civil.
 
@@ -3186,11 +3186,11 @@ De acuerdo con lo manifestado por el Director del SERVIU Metropolitano, mediante
 
 ### 1. Generalidades
 
-Las letras de crédito que emitan las instituciones financieras, por los préstamos hipotecarios que cursen para financiar parte del precio de compra o de la construcción de las viviendas acogidas al sistema de ahorro y financiamiento de la vivienda, deberán ajustarse a las normas establecidas por el Consejo Monetario y por el Comité Ejecutivo del Banco Central de Chile para la emisión de letras de crédito para vivienda, como asimismo a las instrucciones que al respecto ha impartido esta Superintendencia.
+Las letras de crédito que emitan las instituciones financieras, por los préstamos hipotecarios que cursen para financiar parte del precio de compra o de la construcción de las viviendas acogidas al sistema de ahorro y financiamiento de la vivienda, deberán ajustarse a las normas establecidas en el Compendio de Normas Financieras del Banco Central de Chile para la emisión de letras de crédito para vivienda, como asimismo a las instrucciones que al respecto ha impartido esta Superintendencia.
 
 ### 2. Plazo y tasa de interés
 
-Las letras de crédito originadas en las operaciones a que se refiere este capítulo, podrán emitirse a 12, 15 ó 20 años, según sea el plazo del respectivo crédito y a una tasa de interés nominal anual no inferior al 5,5% o al 6%, según sea el caso.
+Las letras de crédito originadas en las operaciones a que se refiere este capítulo, podrán emitirse a 12, 15 ó 20 años, según sea el plazo del respectivo crédito y a una tasa de interés nominal anual no inferior al 5,5%.
 
 ### 3. Venta de las letras de crédito
 
@@ -3260,13 +3260,11 @@ El mencionado documento indicará, además del nombre del beneficiario y su céd
 
 - Período de vigencia para presentarlo a cobro;
 
-- Monto máximo del crédito a que puede optar el beneficiario;
-
 - Monto del ahorro acreditado;
 
 - Región del país en la cual se aplicará el subsidio;
 
-Estos certificados tendrán una vigencia de 18 meses contados desde el día 1° del mes siguiente al de la fecha de su emisión.
+Estos certificados tendrán una vigencia de 21 meses contados desde el día 1° del mes siguiente al de la fecha de su emisión.
 
 El postulante seleccionado debe mantener el ahorro previo que acreditó al postular, incluidos sus reajustes e intereses, hasta su aplicación al pago del precio de adquisición o construcción de la vivienda. Si así no lo hiciere, se producirá la caducidad inmediata y automática del certificado de subsidio obtenido. Estos certificados serán pagados por el SERVIU contra su presentación y al valor que tenga la unidad de fomento en la fecha de pago, directamente al beneficiario o a la persona a quien éste se lo hubiese endosado.
 
@@ -3320,13 +3318,13 @@ Las cuentas de ahorro a plazo de que trata este capítulo también podrán ser u
 
 Atendidas las especiales características de los depósitos en cuentas de ahorro para la vivienda, que permiten postular al subsidio estatal y a un préstamo en letras de crédito, a las personas que hayan mantenido un ahorro mínimo, esta Superintendencia estima que no es posible constituir garantía prendaria sobre el saldo mantenido en esas cuentas.
 
-### 7. Certificado por crédito aprobado
+### 7. Disposición transitoria
 
-Los bancos y las sociedades financieras que aprueben, ya sea por su propia cuenta o en calidad de agentes administradores de que trata el título II del Capítulo 8-4 de esta Recopilación, el otorgamiento de préstamos hipotecarios para vivienda superiores a 280 unidades de fomento que les soliciten los postulantes al subsidio que acrediten mantener sus ahorros en las Administradoras de Fondos de Pensiones, Servicios de Bienestar Social o por intermedio de cooperativas por la disponibilidad de sitio o aporte de capital, deberán otorgar a éstos un certificado en el que conste la aprobación en principio del referido crédito, para los efectos de la referida postulación.
+Las normas relativas a la reducción del valor máximo de la vivienda y al ahorro mínimo exigido en concordancia con el valor de la vivienda que se desea adquirir, serán aplicables a partir del 1° de enero de 1994.
 
-### 8. Disposición transitoria
+Las personas que hayan pactado en sus contratos de ahorro celebrados antes del 6 de octubre de 1993, fecha de publicación del Decreto Supremo N° 91 en el Diario Oficial, un monto inferior al mínimo exigido por dicho cuerpo legal, pueden postular en los llamados que se realicen hasta el 31 de diciembre de 1994, siempre que dicho monto no tenga su origen en una modificación al contrato de ahorro.
 
-Las normas relativas al uso de letras de crédito con tasa de interés no inferior al 6% anual para los créditos de que trata este Capítulo y al cobro de comisiones no superiores al 2,5% anual, serán aplicables a partir del 1° de enero de 1992.".
+En todo caso, los beneficiarios de subsidio habitacional que indica el Reglamento, que se adjudiquen dicho subsidio en los llamados que se efectúen en 1994, podrán aplicar ese beneficio a una vivienda cuyo valor sea hasta 2.000 Unidades de Fomento.
 
 ANEXO N° 1
 
