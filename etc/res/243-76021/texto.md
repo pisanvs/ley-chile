@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICA
+
+Resolución 243, 1º septiembre 1997, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 1686, Rol de Avalúo Nº 703-0012, comuna Concepción, superficie 111 m² de terreno y 75 m² de edificación, dentro polígono y linderos señalados plano expropiación S8R-703-0012; de aparente dominio de Belisario Riquelme Riquelme, para ejecución programa "Mejoramiento Interconexión Vial Centro Concepción-Autopista Talcahuano", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Boris Aptecar G., arquitecto, Gerardo Valverde V., arquitecto y Sergio Labarca G., constructor Civil, según informe de fecha 5 de noviembre de 1996, fijó monto provisional indemnización en $13.500.080.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
