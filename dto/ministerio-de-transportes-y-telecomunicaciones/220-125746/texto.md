@@ -80,6 +80,18 @@ c) Comportamiento funcionario 2,0
 
 d) Supervisión 3,0
 
+En el caso de los funcionarios que no sean
+
+evaluados en el Subfactor Supervisión, el coeficiente
+
+de cada uno de los factores restantes será:
+
+a) Rendimiento 4,0
+
+b) Condiciones Personales 3,0
+
+c) Comportamiento funcionario 3,0
+
 B.- Profesionales y Técnicos:
 
 a) Rendimiento 4,0
