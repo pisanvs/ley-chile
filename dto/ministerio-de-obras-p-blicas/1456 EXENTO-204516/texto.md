@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.456 de fecha 30 de septiembre del 2002, se expropiaron los lotes de terreno Nºs 21, 22, 23, 24 y 25, superficie 2.821, 550, 3.574, 1.109 y 911 m2, respectivamente, rol Nº8131-49, comuna de San Rafael, VII Región, para la obra ''Camino Mejoramiento Ruta K-40, Sector San Rafael - Villa Prat, Km. 0,000.00 a Km. 28,400.00'' y se acordó el valor de indemnización con su propietario Claudio José Pino Obrador, ascendente a la cantidad de $3.348.438.-
+
+Fiscal del Ministerio de Obras Públicas.
