@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.120, de 27 de abril de 2004, de esta Subsecretaría, modifícase la resolución Nº 3.554, de 2003, de esta Subsecretaría, que autorizó a PESQUERA YELCHO S.A. para realizar operaciones pesqueras de conformidad con lo dispuesto en el artículo 12 transitorio de la ley Nº 18.892, en el sentido de incorporar a la nave fábrica denominada "Unionsur I", la que podrá operar en aguas exteriores, por fuera de las líneas de base rectas, al sur del paralelo 47° L.S., y a la nave fábrica "Ocean Dawn", la que podrá operar en aguas exteriores, por fuera de las líneas de base rectas, al sur del paralelo 47° L.S., respecto de los recursos y con las obligaciones establecidas en las resoluciones Nº 1.118 y Nº 1.119, ambas de 2004, ambas de esta Subsecretaría.
+
+Déjase sin efecto la resolución Nº 3.554, de 2003, de esta Subsecretaría, sólo en cuanto autorizó a Pesquera Yelcho S.A. a operar con la nave "Gualas", en virtud de lo dispuesto en las resoluciones Nº 1.118 y Nº 1.119, ambas de 2004, y de lo dispuesto en la presente resolución.
+
+Valparaíso, 27 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
