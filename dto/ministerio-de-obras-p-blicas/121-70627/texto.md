@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº 121, de 7 de febrero de 1997, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. Nº 294, de 1984, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs 1, Canal San Miguel Pal Pal Bajo;
+
+2-A, Ramal Nº 4-B y 1, Ramal Nº 9, para la obra Proyecto Laja - Diguillín, Area de Riego Pemuco, Canal San Miguel Pal Pal Bajo, que figuran a nombre de Agrícola y Ganadera San Miguel S.A. y Pedro Pablo Millar Millar, roles de avalúo 160-102 y 160-108, Comuna de Pemuco, VIII Región, superficies 18.720, 204 y 32.964 M2., respectivamente. La Comisión de Peritos compuesta por los señores Luis Abarzúa Ceballos, Jaime García Molina y Eduardo Cerda Ureta, fijó con fecha 23 de septiembre de 1996, el valor provisional de las indemnizaciones en las cantidades de $5.765.760, lote 1, Canal San Miguel Pal Pal Bajo; $173.250, lote 2-A, Ramal Nº 4-B y $10.152.912, lote 1, Ramal Nº 9. Las indeminizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
