@@ -2480,6 +2480,10 @@ Las sociedades en comandita no quedarán definitivamente constituidas sino despu
 
 La suscripción y entrega serán comprobadas por la declaración del gerente en una escritura pública, y ésta será acompañada de la lista de suscriptores, de un estado de las entregas y de la escritura social.
 
+#### Artículo 494
+
+Las acciones de las sociedades en comandita serán nominativas.
+
 #### Artículo 495
 
 Los subscriptores de acciones son responsables, a pesar de cualquiera estipulación en contrario, del monto total de las acciones que hubieren tomado en la sociedad.
