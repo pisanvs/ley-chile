@@ -1,0 +1,1 @@
+Autoriza a Caja de Crédito Hipotecario para suspender los sorteos de letras correspondientes a la amortización de sus obligaciones en moneda extranjera a largo plazo, mientras dure la vigencia de la ley N° 4,972, de 30 de Julio de 1931.
