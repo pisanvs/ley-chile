@@ -1,0 +1,3 @@
+Por decreto MOP Nº 253, de 31 de enero de 2000, se expropió el lote de terreno Nº 116-1KA, superficie 45,5 m², rol de avalúo 570-66, comuna de Lautaro, para la obra ''Concesión Internacional Ruta 5, Tramo Collipulli-Temuco'', Novena Región y se acordó el valor de indemnización con su propietario Carlos Fernando Adam Yáñez, ascendente a la cantidad de $467.470.
+
+Fiscal del Ministerio de Obras Públicas.
