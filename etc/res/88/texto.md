@@ -1,0 +1,9 @@
+APRUEBA REFORMAS DE ESTATUTOS DE COOPERATIVA AGRICOLA DE COLONIZACION PROFESOR JUAN NOE C. LIMITADA Núm. 88.- Santiago, 24 de Mayo de 1991.- Visto: Los antecedentes adjuntos, lo informado por el Departamento de Cooperativas de esta Subsecretaría, lo dispuesto en los Arts. 13° y 132° del Decreto Supremo N° 502, de 1978, del Ministerio de Economía, Fomento y Reconstrucción, en la Ley N° 16.436, en el Decreto Supremo N° 505, de 1966, del mismo Ministerio, y en la Resolución N° 600 de 1977, de la Contraloría General de la República.
+
+Resuelvo:
+
+Apruébase la reforma de los estatutos de la Cooperativa Agrícola de Colonización Profesor Juan Noé C. Limitada, en adelante Cooperativa Agrícola Profesor Juan Noé Crevani Ltda.; - cuya personalidad jurídica fue concedida por el Ministerio de Agricultura en el acuerdo de consejo N° 422, de 9 de Octubre de 1957, y liberada de su dependencia, por Decreto N° 149, de 26 de Noviembre de 1985, publicado en el Diario Oficial de 6 Febero de 1986, en los términos que da testimonio la escritura pública suscrita con fecha 29 de Enero de 1991, ante el Notario Público de la Ciudad de Arica don Armando Sánchez Risi y el documento protocolizado en los registros de don Gerardo Arévalo López, Notario Público Suplente del Titular don Virgilio Cameratti Cofré de la Comuna de La Cisterna, Santiago, de fecha 3 de Abril de 1991, anotada en el Libro de Repertorios de esa Notaría bajo el N° 179 del año 1991.
+
+Anótese, tómese razón y publíquese.- Por Orden del Presidente de l República, Jorge Marshall Rivera, Subsecretario de Economía, Fomento y Reconstrucción.
+
+Lo que transcribo a ud. para su conocimiento.- Saluda atentamente a Ud.- Ximena Silva Morales, Jefe Administrativo.
