@@ -1,0 +1,5 @@
+AUTORIZA A HAN SAN CHANG TENG PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución N° 1.412, de 21 de Diciembre de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción que autoriza a don Han San Chang Teng, RUT N° 9.169.037-1, domiciliado en Nicasio Retamales N° 132, Santiago, para ampliar actividades pesqueras de transformación autorizadas por Resolución N° 72, de 1985, de esta Subsecretaría, en orden a procesar además de los recursos autorizados por la Resolución citada, los siguientes: Almeja, macha, lapa y jurel. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o gue se establezcan.
+
+Valparaíso, 21 de Diciembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
