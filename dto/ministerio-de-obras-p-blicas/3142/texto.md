@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.142, de 20 de octubre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº3, para la obra Camino Curicó Tutuquén (Rol H-620), que figura a nombre de Pedro Atenas Vásquez, rol de avalúo 526-20, comuna de Curicó, VII Región, superficie 50,8 m2. La Comisión de Peritos fijó con fecha 1 de junio de 1994, el valor provisional de la indemnización en la cantidad de $15.240. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
