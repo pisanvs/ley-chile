@@ -1,0 +1,3 @@
+Por resolución Nº 16, de 10 de enero de 2001, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Puerto Aldea, IV Región, individualizada en el artículo 1º Nº 4 del D.S. Nº 110 de 1999, presentado por la ASOCIACION GREMIAL DE BUZOS, ASISTENTES Y PESCADORES ARTESANALES DE PUERTO ALDEA.
+
+Valparaíso, 10 de enero de 2001.- Daniel Albarrán Ruiz - Clavijo, Subsecretario de Pesca.
