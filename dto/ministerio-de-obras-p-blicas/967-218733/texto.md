@@ -1,0 +1,3 @@
+Por decreto MOP Nº 967, de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº 206, superficie 2.437 m², rol Nº 66-229, comuna de Palmilla, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400", VI Región, y se acordó el valor de la indemnización con su propietario Oscar Humberto Lagos Yáñez, ascendente a la cantidad de $3.981.542.
+
+Fiscal del Ministerio de Obras Públicas.
