@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.908, de 31 de octubre de 2000, se expropió el lote terreno Nº2, superficie 357 m², rol de avalúo 347-37, comuna de Nacimiento, para la obra Camino Valdebenito Río Maipo por Carrizal, Sector Puente Santa Rosa, Km. 0,00000 a Km. 0,30000 y se acordó precio de la indemnización con su propietario Raúl Alvear Zuloaga, ascendente a la cantidad de $148.084.
+
+Fiscal del Ministerio de Obras Públicas.
