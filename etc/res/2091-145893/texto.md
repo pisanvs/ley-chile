@@ -1,0 +1,3 @@
+Por resolución Nº 2.091, de 13 de octubre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97103124, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES, PRODUCTORES Y RECOLECTORES DE ALGAS UNION Y ESPERANZA DE AUCAR QUEMCHI, para operar un centro de cultivo ubicado en Aucar, comuna de Quemchi, provincia de Chiloé, X Región.
+
+Valparaíso, 13 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
