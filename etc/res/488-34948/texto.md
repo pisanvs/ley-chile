@@ -1,0 +1,3 @@
+Por Resolución N° 488, de 15 de marzo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PROCESADORA DE PRODUCTOS DEL MAR S.A., para continuar desarrollando en calidad de continuadora legal las actividades pesqueras autorizadas por Resoluciones N° 943, de 1992 y N° 85, de 1993, ambas de esta Subsecretaría, a Pesquera Mares de Chile S.A.
+
+Valparaíso, 15 de marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
