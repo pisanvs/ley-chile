@@ -1,0 +1,1 @@
+Libera de todo impuesto o derecho aduanero el material y equipo que adquiera en el extranjero la Empresa de los Ferrocarriles del Estado.
