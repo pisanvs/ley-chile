@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.057 de 22.06.88, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Santa Luisa" de la comuna de Los Angeles, VIII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 16, sitios Nos. 1 al 25 y Reserva Cora No. 1 del Proyecto de Parcelación "Santa Luisa" formado por predio señalado. Los Derechos de Agua se extraen del canal Bío Bío Norte derivado del río Bío Bío, río Duqueco y Derrames generados en el mismo predio. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
