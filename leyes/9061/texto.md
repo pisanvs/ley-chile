@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República para expropiar el terreno que indica y cuyos deslindes señala, ubicado en la comuna de San Bernardo, con el fin de construir un Liceo.
