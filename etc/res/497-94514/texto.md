@@ -1,0 +1,3 @@
+Por Resolución No. 497 de 16 de mayo 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, parte inmueble ubicado en calle Condell No. 1252 presunto rol avalúos No. 3502-36 comuna Providencia aparentemente dominio de don José Riumallo Pla. Comisión integrada por peritos Sres. Luis Rojas Quezada, constructor civil, Jorge Navarro Navarrete, arquitecto y Emilio Recabarren Solar, ingeniero civil según informe de 21 de diciembre 1988 fijó monto provisional indemnización en $ 24.916.000.-, pagadera al contado.
+
+- Director SERVIU Metropolitano:
