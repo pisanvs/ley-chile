@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 369 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº28, superficie 160,80 m2, rol de avalúo Nº 137-542, comuna de Paine, para la obra "Camino sin Rol, sector Peralillo - Abrantes, tramo Km. 0,00000 a Km. 6,03921", Región Metropolitana y se acordó el valor de la indemnización con su propietario Felipe Ramón Pereira Muñoz, ascendente a la cantidad de $875.187.-
+
+Fiscal del Ministerio de Obras Públicas.
