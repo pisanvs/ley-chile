@@ -1,0 +1,3 @@
+Por resolución Nº 92, de 14 de enero de 2003, de esta Subsecretaría, déjase sin efecto la resolución Nº 2.964 de 1992, de esta Subsecretaría, que declaró la caducidad parcial de la resolución Nº 168 de 1997, modificada por resolución Nº 550 de 1999, ambas de esta Subsecretaría, sólo en cuanto autorizaron a ALIMENTOS MARINOS S.A. para operar la nave "Santa Irene", en la V a la VII y X Regiones, sobre el recurso Sardina común, Anchoveta y Merluza de cola.
+
+Valparaíso, 14 de enero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
