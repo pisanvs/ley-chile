@@ -1,0 +1,5 @@
+Por resolución Nº 2.592, de 4 de diciembre de 2000, de esta Subsecretaría, rectifícase el numeral 4º de la resolución Nº2.455 del 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesca de Investigación de Merluza de cola entre la V y la X Regiones'', en el sentido de incorporar a Pesquera El Golfo S.A. al grupo de armadores participantes en la señalada pesca de investigación integrado por Pesquera Almar S.A., Pesquera Auro S.A., Pesquera Confish S.A., Pesquera Quellón S.A. y Tripesca S.A., en virtud de haberse omitido por un error de hecho.
+
+Modifícase el numeral 4º de la resolución Nº 2.455 de 2000, de esta Subsecretaría, en el sentido de reemplazar la nave ''Saint John'', por la nave ''Pelikan'', ambas de propiedad de Pesquera El Golfo S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 4 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
