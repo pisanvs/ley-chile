@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.451, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 317 de 2003, modificada mediante resolución Nº 656 de 2003, ambas de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las agregaciones de Jurel (Trachurus murphyi) en la III Región, temporada 2003", en el sentido de señalar que la pesca de investigación se extenderá hasta el 31 de diciembre de 2003.
+
+Valparaíso, 30 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
