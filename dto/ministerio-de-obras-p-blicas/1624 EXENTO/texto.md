@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.624, de fecha 31 de octubre de 2002, se expropiaron los lotes de terreno Nºs 32-A, 32-B y 32-C, superficies 240 m2, 236 m2 y 228 m2, roles de avalúos 2213-638, 2213-637 y 2213-636, respectivamente, comuna de Chillán, VIII Región, para la obra ''Camino ruta N-45, Sector Cruce Ruta N-49 (Chillán) - La Capilla - Tres Esquinas, Km. 0,00000 al 5,88000'' y se acordó el valor de indemnización con su propietario don Juan Bautista Gutiérrez Jerez, ascendente a la cantidad de $1.443.200.-
+
+Fiscal del Ministerio de Obras Públicas.
