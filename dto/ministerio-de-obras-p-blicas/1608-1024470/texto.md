@@ -2,9 +2,11 @@ APRUEBA EL REGLAMENTO ESPECIAL DE VIVIENDAS ECONOMICAS
 
 Núm. 1,608.- Santiago, 1.o de Agosto de 1959.- Vistos lo dispuesto en los artículos 1.o y 3.o del decreto con fuerza de ley N.o 2, de 1959, y lo establecido en los artículos del mismo texto legal, que modifican los decretos con fuerza de ley N.os 224 y 285, de 1953, y lo ordenado en la parte segunda del artículo 72.o de la Constitución Política del Estado.
 
-Decreto.
+Decreto:
 
 Apruébase el siguiente REGLAMENTO ESPECIAL DE VIVIENDAS ECONOMICAS.
+
+> **Nota.** El N° 5 del artículo único del Decreto 99, Vivienda, publicado el 08.03.1977, Vivienda, ordena sustituir el artículo 33 de la presente norma, sin embargo ella no tiene el citado artículo.
 
 ## Título I
 
@@ -44,9 +46,9 @@ La limitación de zonas para el emplazamiento de "viviendas económicas" en las 
 
 #### Artículo 4
 
-o Toda persona natural o jurídica que desee hacer o modificar loteamiento y urbanizaciones destinadas a "viviendas económicas" como asimismo la construcción o modificación de éstas, deberá obtener la aprobación previa de los planos, presupuestos y especificaciones del proyecto total en la Dirección de Obras Municipales respectiva.
+o Los proyectos de loteamientos y sus modificaciones, las urbanizaciones destinadas a "viviendas económicas" y los proyectos de construcción o modificación de "viviendas económicas", deberán obtener la aprobación previa de los planos, presupuestos y especificaciones en la Dirección de Obras Municipales, en la forma señalada en este Reglamento y especialmente en el artículo 19º.
 
-Se faculta a la Dirección de Arquitectura del Ministerio de Obras Públicas para aprobar directamente los proyectos que realice la Corvi y la Fundación de Viviendas y Asistencia Social.
+Se faculta a las Secretarías Ministeriales de Vivienda y Urbanismo para aprobar los proyectos que realicen los Servicios de Vivienda y Urbanización, si las Direcciones de Obras Municipales no se pronunciaren dentro de los plazos que señala el inciso primero del articulo 118º del D.S, Nº 453, de Vivienda y Urbanismo, publicado en el Diario Oficial del 13 de Abril de 1976.
 
 #### Artículo 5
 
@@ -170,9 +172,7 @@ De los conjuntos que se proyecten con la apertura de nuevas vías
 
 #### Artículo 19
 
-o Las poblaciones, grupos o conjuntos que se proyecten con la apertura de nuevos pasajes o de vías de tránsito de vehículos, deberán respetar los trazados de vías de comunicación contemplados en los Planos Reguladores y las densidades en ellos propuestas; deberán cumplir con los porcentajes de espacios comunes que se indican en este Reglamento Especial de Viviendas Económicas, y no podrán, en ningún caso, contemplar la edificación de viviendas que no sean "viviendas económicas".
-
-En casos especiales la Corvi podrá proponer al Ministerio de Obras Públicas las modificaciones a los Planos Reguladores que estime convenientes. Este Ministerio podrá resolver dichas modificaciones por simple decreto, previa audiencia de la Municipalidad respectiva.
+o Las poblaciones, grupos o conjuntos que se proyecten con la apertura de nuevos pasajes o vías de tránsito de vehículos, deberán respetar los trazados de vías de comunicación contemplados en los Planes Reguladores, las densidades propuestas en éstos y deberán cumplir con los porcentajes de espacios comunes indicados en este Reglamento.
 
 #### Artículo 20
 
@@ -198,15 +198,29 @@ o La distancia desde la puerta de acceso de una vivienda individual o de un edif
 
 #### Artículo 24
 
-o En los conjuntos de que trata el presente Título se exigirá que se proyecten como espacios comunes libres, superficies no inferiores a 1 metro cuadrado por cada habitante de vivienda con patio propio, y de 7 metros cuadrados por cada habitante de edificio o vivienda con patio común. Para que la vivienda sea considerada en el cálculo de los espacios comunes, como vivienda, con patio propio, dicho patio no debe ser inferior a 6 metros cuadrados por cada habitante de la vivienda. La cantidad de habitantes de las viviendas se calculará como se establece en el artículo 10.o Los pasajes se considerarán como espacios comunes de esparcimiento.
+o En los conjuntos de que trata el presente Título se exigirá que se proyecten como espacios comunes libres superficies no inferiores a un metro cuadrado por cada habitante de vivienda con patio propio, y de 7 metros cuadrados por cada habitante de edificio o vivienda con patio común. Para que la vivienda sea considerada en el cálculo de los espacios comunes como vivienda con patio propio, dicho patio no debe ser inferior a 6 metros cuadrados por cada habitante de la vivienda. La cantidad de habitantes de las viviendas se calculará como se establece en el artículo 10º. Los pasajes se considerarán como espacios comunes de esparcimiento.
 
-Las condiciones de asoleamiento, zonificación y unidad de espacio común son de iniciativa del Arquitecto autor del proyecto, sin perjuicio de las resoluciones que adopten las autoridades correspondientes cuando procedan.
+Las condiciones de asoleamiento, bonificación y unidad de espacio común son de iniciativa del arquitecto autor del proyecto, sin perjuicio de las resoluciones que adopten las autoridades correspondientes, cuando procedan.
 
-En los conjuntos habitacionales que se proyecten en terrenos cuya superficie sea igual o mayor a 5.000 metros cuadrados y en los que se garantice la construcción total y simultánea, la superficie mínima del terreno singular podrá rebajarse hasta 100 metros cuadrados.
+Sin perjuicio de lo anterior, la superficie de un terreno singular no podrá ser inferior a 160 metros cuadrados, y se aceptará cualquier frente de lotes que sea compatible con una correcta planificación.
+
+Se faculta a los Servicios de Vivienda y Urbanización y a los Comités Habitacionales Comunales, estos últimos autorizados expresamente por la Secretaría Ministerial respectiva del Ministerio de Vivienda y Urbanismo, para rebajar hasta 100 metros cuadrados el mínimo de 160 m2. indicado en el inciso precedente.
+
+En los conjuntos habitacionales que se proyecten en terrenos cuya superficie sea igual o mayor a 5.000 m2. y en los que se garantice a satisfacción de la Dirección de Obras Municipales la ejecución simultánea de la urbanización con la construcción total de las "viviendas económicas", la superficie mínima del terreno singular podrá rebajarse hasta 100 m2. por la Dirección de Obras Municipales respectiva.
+
+En los loteamientos que contemplen superficies de terrenos singulares de 160 o más m2., pero que no sean superiores al mínimo señalado en los respectivos Planes Reguladores u Ordenanzas Locales, el proyecto de loteamiento deberá presentarse y aprobarse conjuntamente con los proyectos de las "viviendas económicas". En este caso, el proyecto total podrá desarrollarse por etapas, teniendo por primera etapa la ejecución exclusiva de las obras de urbanización; y por segunda la construcción del todo o parte de las "viviendas económicas" proyectadas. En todo caso, los terrenos debidamente urbanizados podrán enajenarse libremente, pero sus adquirentes sólo podrán levantar en ellos las "viviendas económicas" proyectadas. Será admisible la modificación de los proyectos primitivamente proyectados, siempre que el Director de Obras Municipales estimare que se mantienen las condiciones generales del conjunto habitacional aprobado.
+
+Los loteamientos a que se refieren los incisos anteriores se aprobarán y denominarán como "L o t e o s D. F. L. Nº 2".
+
+La construcción de viviendas no económicas en los Loteos D. F. L. 2, que contemplen superficies de terrenos singulares superiores a 300 m2. e inferiores al mínimo señalado en los respectivos Planes Reguladores y Ordenanzas Locales, podrá ser autorizada por los Directores de Obras Municipales, cuando éstos estimaren que se mantienen las condiciones generales del conjunto habitacional aprobado. En caso de reclamación, resolverá la Secretaría Regional Ministerial de Vivienda y Urbanismo correspondiente.
+
+Los proyectos de loteamientos que contemplen superficies singulares prediales iguales o superiores al mínimo señalado al efecto en los Planes Reguladores o en las Ordenanzas Locales respectivas, se regirán exclusivamente por la Ley General de Urbanismo y Construcciones, por la Ordenanza General y por las respectivas Ordenanzas Locales y Planes Reguladores.
+
+Lo dispuesto en los incisos precedentes se entenderá sin perjuicio de lo prescrito en el Título VI de este Reglamento.
 
 #### Artículo 25
 
-o Se aceptará cualquier frente de lotes que sea compatible con una correcta planificación y siempre que garantice la enajenación total y simultánea del conjunto. Esta última garantía no se exigirá para frentes mayores de 8 metros.
+o Derogado.
 
 ## Título VI
 
