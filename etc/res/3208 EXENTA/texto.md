@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.208, de 3 de diciembre de 2003, de esta Subsecretaría, autorízase a FOODCORP CHILE S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Av. Pedro Aguirre Cerda Nº 995, sector Lo Rojas, Coronel, VIII Región, en las líneas de elaboración Harina y Aceite, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 3 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
