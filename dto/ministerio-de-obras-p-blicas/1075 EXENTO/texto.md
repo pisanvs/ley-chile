@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.075, de fecha 31 de julio de 2000, se expropió el lote de terreno Nº3, superficie 349 m², rol de avalúo 460-239, comuna de Pinto, para la obra "Camino Boyen - La Montaña, Sector Puente Lluanco, Km. 0,00000 al 0,14000" y se acordó el valor de indemnización con su propietaria doña Claudina del Carmen Fuentes Carrasco, ascendente a la cantidad de $432.251.-
+
+Fiscal del Ministerio de Obras Públicas.
