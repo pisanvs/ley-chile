@@ -1,0 +1,3 @@
+Por decreto MOP Nº 971, de fecha 29 de octubre de 2004, se expropió el lote de terreno Nº 1-1, superficie 1.894 m²., rol de avalúo Nº 230-357, comuna de Chimbarongo, para la obra ''Concesión Internacional Ruta 5, Tramo: Santiago - Talca, Sector J: Km. 151.500,00 al Km. 161.650,00'', VI Región y se acordó el valor de la indemnización con su propietario Ricardo Raggio Guardiola, ascendente a la cantidad de $5.167.830.-
+
+Fiscal del Ministerio de Obras Públicas.
