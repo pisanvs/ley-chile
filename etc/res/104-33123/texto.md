@@ -1,0 +1,3 @@
+Por Resolución N° 104, de 16 de enero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 1.853, de 1989, de esta Subsecretaría, que autorizó al SINDICATO DE TRABAJADORES INDEPENDIENTES, CULTIVADORES Y EXPLOTADORES DE ALGAS ÑIDA, para operar un centro de cultivo ubicado en sector Ñida, Bahía Hueihue, Comuna de Ancud, Provincia de Chiloé, X Región, en virtud de lo dispuesto en el artículo 7°, del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 16 de enero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
