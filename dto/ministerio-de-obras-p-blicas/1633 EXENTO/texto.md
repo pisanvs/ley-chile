@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.633, de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº93, superficie 151 m2, rol de avalúo 536-106, comuna de Río Bueno, X Región, para la obra ''Camino Río Bueno - Crucero, rol T-90-U y T-933, tramo Km. 0,00000 al 20,90000'' y se acordó el valor de indemnización con su propietaria doña Isolina Fernández Tirúa, ascendente a la cantidad de $429.739.-
+
+Fiscal del Ministerio de Obras Públicas.
