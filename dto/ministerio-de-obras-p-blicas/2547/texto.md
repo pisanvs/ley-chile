@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.547, de 30 de noviembre de 1998, se expropiaron los lotes de terreno Nºs 5 y 7, superficies 860,10 y 5.401,33 m² respectivamente, roles de avalúo 21-3 y 21-18, comuna de Tierra Amarilla, para la obra Camino Ruta C-35, sector Paipote Cerrillos y se acordó precio de indemnización con sus propietarios Felipe Venancio Inostroza Castillo y Zoila Beatriz Alicia Fuentes Vallejo, ascendente a la cantidad de $1.466.061 y $15.102.834.
+
+Fiscal del Ministerio de Obras Públicas.
