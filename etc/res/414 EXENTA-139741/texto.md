@@ -1,0 +1,5 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUEJETO DEL IVA A CRISTIAN PEREZ DE ARCE SCHILLING
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Nº Ex. 414 de 21 de julio de 1999, excepciona a contar del 1º del mes siguiente al de esta publicación y hasta el 30 de noviembre de 1999, a Cristián Pérez de Arce Schilling, Rut Nº 06.544.479-8, del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las ventas de trigo, establecido en la resolución Nº Ex. 5550-96 de la Dirección Nacional, publicada en el Diario Oficial del 03.12.96, modificada por la resolución Nº Ex. 5916-97, publicada en el Diario Oficial del día 02.12.97 y prorrogada por Res. Ex. 7.034 de 27.11.98, publicada en el Diario Oficial de fecha 30.11.98. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus ventas de trigo.
+
+Rubén Ilabaca Salas, Director Regional (S).
