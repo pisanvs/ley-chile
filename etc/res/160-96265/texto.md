@@ -1,0 +1,3 @@
+Por Resolución Nº 160 de 30 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las Resoluciones Nº 1.702, Nº 1.703, Nº 1.704 y Nº 1.705, todas de esta Subsecretaría, que autorizaron a PESQUERA ATACAMA S.A., para operar las naves "Atacama VI", "Atacama VII", "Atacama VIII" y "Atacama IX", respectivamente, por no haber iniciado dicha operación en el plazo que tenían para ello, de conformidad con lo dispuesto en el artículo 143 letra b) del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 30 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
