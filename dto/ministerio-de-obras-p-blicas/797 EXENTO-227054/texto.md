@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 797 de fecha 31 de mayo del 2004, se expropió el lote de terreno Nº 87, superficie 962 m2, Rol Nº 238-227, comuna de Toltén, IX Región para la obra "Camino Ruta S-790 Sector Nueva Toltén - Limite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub Tramo II Km. 80,55700 al Km. 87,50000" y se acordó el valor de indemnización con su propietario Gabril Yuri Millahual Millahual, ascendente a la cantidad de $1.076.925.- para el lote Nº 87.
+
+- Fiscal del Ministerio de Obras Públicas.
