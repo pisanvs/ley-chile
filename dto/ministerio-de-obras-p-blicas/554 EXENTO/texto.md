@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 554, de 30 de abril de 2002, se expropió el lote de terreno Nº 92-1, superficie 423 m2, rol de avalúo 276-132, comuna de Algarrobo, para la obra Red Litoral Central Enlace Algarrobo Kms. 28.900,00 al 29.300,00, Quinta Región y se acordó el valor de indemnización con su propietaria Carmen Myriam Gabriela Aguilera Valdebenito, ascendente a la cantidad de $1.479.647.- para el lote Nº 92-1.
+
+Fiscal del Ministerio de Obras Públicas.
