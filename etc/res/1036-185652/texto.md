@@ -1,0 +1,3 @@
+Por resolución No. 1.036 de 28 de Agosto de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la resolución No. 1132, de 1988 y No. 751, de 1989, ambas de esta Subsecretaría, por la cual se autorizó a don GERMAN MOYA GARCIA, RUT No. 6.648.889-6, domiciliado en calle Luis Silva Lazaeta No. 0563, Antofagasta, para operar una nave en construcción, en virtud de lo dispuesto en el artículo 7° del DS No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
