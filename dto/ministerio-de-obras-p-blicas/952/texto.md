@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº952, de 31 de octubre de 1996, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P.
+
+Nº294, de 1984, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº6, para la obra Mejoramiento de la Fuente de Agua Potable de la Serena-Coquimbo, sector Las Rojas, que figura a nombre de Sergio Aránguiz Lezaeta, rol de avaluó 1021-97, Comuna de la Serena. IV Región, superficie 3.991 m2. La Comisión de Peritos compuesta por los señores Juan Ibañez Palma, Luis Jeffery Mercado y doña Iris Marcich Moller, fijó con fecha 20 de noviembre de 1995, el valor provisional de la indemnización en la cantidad de $ 3.192.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º Del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
