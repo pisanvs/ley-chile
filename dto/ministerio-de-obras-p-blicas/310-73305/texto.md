@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 310, de 31 de marzo de 1997, se expropió el lote de terreno Nº 9, superficie 250 m²., rol de avalúo 59-1, comuna de Buin, para la obra Proyecto Estudio de Ingeniería Mejoramiento Ruta 5, sector Pasada por Buin, Camino Ruta 5 Sur, Rol R-5 y se acordó precio de indemnización con su propietaria Ana Teresa Muñoz Broco, ascendente a la cantidad de $14.322.000.
+
+Fiscal del Ministerio de Obras Públicas.
