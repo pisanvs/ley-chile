@@ -1,0 +1,3 @@
+Por resolución Nº 1.686, de 1 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96101140, presentada por HUMBERTO JOSE FISCHER LLOP, para operar un centro de cultivo ubicado en un sector al norte de Punta Ilque, Bahía Huenquillahue, comuna de Puerto Montt, provincia de Llanquihue, X Región.
+
+Valparaíso, 1 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
