@@ -26,9 +26,11 @@ El producto del impuesto que establecen los artículos 47 y 48 de la ley Nº 14.
 
 Se declara que la autorización otorgada por la ley Nº 14.921, de 16 de Octubre de 1962, en relación con el inciso tercero del artículo 63 de la ley Nº 15.120, de 3 de Enero de 1963, vigente en virtud de lo dispuesto en el artículo 88 de la ley número 16.735, de 2 de Enero de 1968, tendrá vigencia por cuatro años a partir de 1969.
 
+> **Nota.** El artículo 21 de la ley 17280, publicada el 17.01.1970, otorga carácter permanente a la autorización a que se refiere el artículo 4° de la presente ley.
+
 #### Artículo 5º
 
-Autorízase al Hipódromo Chile y al Club Hípico de Santiago para celebrar cuatro reuniones extraordinarias a beneficio de los Hipódromos de Arica, Antofagasta, Peñuelas, Concepción y Sociedad Rural de Magallanes.
+Autorízase al Hipódromo Chile y al Club Hípico de Santiago para celebrar anualmente cuatro reuniones extraordinarias a beneficio de los Hipódromos de Arica, Antofagasta, Peñuelas, Concepción y Sociedad Rural de Magallanes.
 
 El producto de estos beneficios se distribuirá en la siguiente forma:
 
