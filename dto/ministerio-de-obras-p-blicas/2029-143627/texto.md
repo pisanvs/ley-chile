@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.029, de 30 de julio de 1999, se expropió el lote de terreno No. 555, superficie 1.115,5 m2., rol de avalúo 546-292, comuna de La Unión, para la obra "Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno", Décima Región y se acordó el valor de indemnización con su propietario Mario Enrique Moll Vásquez, ascendente a la cantidad de $ 753.218.-
+
+Fiscal del Ministerio de Obras Públicas.
