@@ -1,0 +1,1 @@
+Declara en reorganización el Servicio de Seguro Social y suprime en su planta de funcionarios los cargos que indica, desempeñados por las personas que señala.
