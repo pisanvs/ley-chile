@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1658 de 12 de Diciembre de 1985 conforme Art.
+
+5° transitorio Código de Aguas, determinó derechos de Aprovechamiento de Aguas proporcionales que corresponden a Sector excluido o Reserva y Sector expropiado Predios "Hijuela 1° del Fundo El Bosque", "Hijuela 2° del Fundo El Bosque, "Hijuela 4° del Fundo El Bosque", "Hijuela 5° del Fundo El Bosque", "Hijuela 7° del Fundo El Bosque", y "Resto del Fundo El Bosque", de la Comuna de Maipú Región Metropolitana, y derechos Aprovechamiento de Aguas que corresponden a las Parcelas No. 1 a la 24 Sitio 1 al 22 del Proyecto de Parcelación "Los Bosquinos" formado por Predios señalados.- Los derechos de Agua se extraen del Canal Espejo y de derrames.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
