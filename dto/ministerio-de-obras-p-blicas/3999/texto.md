@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.999, de 31 de agosto de 2000, se expropió el lote de terreno Nº16, superficie 287 m2., rol de avalúo 30328, comuna de Requínoa, para la obra Concesión Internacional Ruta 5. Tramo Santiago - Talca. Sector F, Sexta Región y se acordó el valor de indemnización con su propietario Hernán Roberto Zúñiga Torres, ascendente a la cantidad de $2.706.622.-
+
+Fiscal del Ministerio de Obras Públicas.
