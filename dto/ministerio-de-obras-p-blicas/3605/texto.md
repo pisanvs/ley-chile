@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.605 de fecha 30 de noviembre de 1999, se expropiaron los lotes de terreno Nºs. 21, 22 y 23, superficie 640, 629 y 205 m² respectivamente, rol de avalúo 513-19, comuna de Talagante, para la obra ''Camino Autopista Santiago-San Antonio, Tramo: Talagante-El Paico, Sector Segmento 3, Sector 5-0, Lado Derecho Km. 38,64000 a Km. 43,56000'' y se acordó el valor de indemnización con su propietario Inmobiliaria e Inversiones Alerce Limitada, ascendente a la cantidad de $12.147.776.-
+
+Fiscal del Ministerio de Obras Públicas.
