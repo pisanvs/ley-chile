@@ -1,0 +1,3 @@
+Por decreto exento N° 237 de fecha 12 de Agosto de 1992 del Ministerio de Educación, se insertó en el decreto exento de Educación N° 250 de 1990 del Centro de Formación Técnica CENCO, las adecuaciones introducidas a las carreras de "Secretariado Ejecutivo Bilingüe y Computacional" y "Contabilidad General mención Sistemas Contables Computacionales", las que podrán aplicarse en su Sede de Santiago, a contar del año 1992.
+
+Santiago, 14 de Diciembre de 1992.- Raúl Allard Neumann, Subsecretario de Educación.
