@@ -1,0 +1,3 @@
+Por Resolución No. 73 de fecha 03 de Junio de 1986, del SERVIU X Región se ordenó expropiación conforme al DL No. 2.186, de 1978, inmueble ubicado en la Provincia de Llanquihue, comuna de Puerto Montt, calle Petorca sin número, Rol de Avalúo No. 344-1, de aparente dominio de don Rolando Heck Glade y Otros. Comisión Tasadora integrada por señores: Jaime Sanz Bahamonde, Ingeniero Civil, Mario Olivares Bustamante, Arquitecto, y Daniel Cisterna Espinoza, Constructor Civil, según informe de fecha 27 de Febrero de 1986, fijó monto provisional de indemnización en $ 760.800.- al contado.
+
+- Ulises García Báez, Director Regional SERVIU X Región.
