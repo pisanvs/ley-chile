@@ -1,0 +1,3 @@
+Por decreto MOP Nº728, de fecha 29 de marzo de 1999, se expropió el lote de terreno Nº33, superficie 1.023 m2, rol de avalúo 167-170, comuna de Maule, para la Obra ''Ruta 5, Tramo Talca-Chillán Sector Calle de Servicio sector Talca Sur-Unihue y Pirque-Unihue'', VII Región y se acordó el valor de indemnización con su propietario Moisés Antonio Vergara Yáñez, la cantidad de $18.180.243.-
+
+Fiscal del Ministerio de Obras Públicas.
