@@ -1,0 +1,3 @@
+Por decreto MOP Nº 195, de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 2, superficie 260 m2, Rol Nº 101-8, comuna de Contulmo, VIII Región, para la obra "Camino Contulmo - Nahuelbuta. Sector: Puente El Peral, Km. 0,10000 a Km. 0,20150" y se acordó el valor de indemnización con su propietario Ilustre Municipalidad de Contulmo, ascendente a la cantidad de $667.893.
+
+Fiscal del Ministerio de Obras Públicas.
