@@ -1,0 +1,11 @@
+Por resolución Nº 2.455, de 9 de noviembre de 2000, de esta Subsecretaría, autorízase al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Pesca de Investigación de Merluza de cola entre la V y la X Regiones'', aprobado por esta Subsecretaría, el cual se considera como parte integrante de la presente resolución.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en caracterizar la distribución, estructura de tallas y condiciones biológicas de la especie merluza de cola entre la V y X Regiones.
+
+La pesca de investigación se efectuará en el área marítima comprendida entre la V y la X Regiones, por fuera del área de reserva artesanal, entre las 12:00 horas del día 13 de noviembre y las 12:00 horas del día 31 de diciembre del presente año.
+
+Los armadores seleccionados para participar en la pesca de investigación podrán operar las naves que se individualizan y que cuentan con autorización vigente para operar sobre la especie merluza de cola entre la V a la X Regiones, pudiendo extraer un límite máximo de captura ascendente a 51.000 toneladas de la señalada especie, divididas en 17.000 toneladas para el mes de noviembre y 34.000 toneladas para el mes de diciembre: Francisco, Don Roberto I, Terranova, Hilmir, Ballena, Don Boris, Isla Rocuant, El Cazador, Líder, Don Julio, Don Telésforo, Ventisquero, Cacique I, María José, Marpro I, Yagán, La Niña I, Oficina Progreso, Biomar III, Biomar V, Duqueco, Galletué, Gardar, Loa 24, Pehuenco, Oceánica 4, Toltén I, Yelcho I, Don Enrique, María Bernardita, Bronco, Cobra, Don Edmundo, Pelagos II, Polaris II, Saint John, Vulcano, Boston Beverly, Boston Blenheim, Cote Saint Jacques, Friosur IX, Friosur VII, Friosur VIII, Friosur X, Querelema y Arauco I.
+
+El Instituto designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102, del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción, a su Director Ejecutivo (S) don Sergio Avilés Goycoolea.
+
+Valparaíso, 9 de noviembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
