@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.266, de 31 de agosto de 2001, se expropió el lote de terreno Nº104, superficie 260 m²., de avalúo 700-48, comuna de Algarrobo, para la obra Red Vial Litoral Central. Sector 2: Camino Algarrobo - Casablanca (Ruta F-90), Quinta Región y se acordó el valor de indemnización con su propietaria Regina Alicia de las Mercedes Ramírez Novoa, ascendente a la cantidd de $1.917.682.
+
+Fiscal del Ministerio de Obras Públicas.
