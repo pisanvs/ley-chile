@@ -1,0 +1,3 @@
+Por Decreto MOP N° 462, de 28 de junio de 1996, se expropió el lote de terreno N°3, superficie 715 M2., rol de avalúo 1008-12, comuna de Natales, para la obra Habilitación y Construcción Regadío Huertos Familiares Puerto Natales y se acordó precio de indemnización con su propietaria doña Bernardita Almonacid Mardones y otros, ascendente a la cantidad de $248.884.
+
+-Fiscal del Ministerio de Obras Públicas.
