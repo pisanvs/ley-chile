@@ -927,7 +927,3 @@ FIRMA DEL CONVENIO
 En testimonio de lo cual, los plenipotenciarios que suscriben, debidamente autorizados, firman el presente Convenio en nombre de sus Gobiernos respectivos en las fechas que aparecen frente a sus firmas.
 
 Hecho en Chicago, el séptimo día de Diciembre de mil novecientos cuarenta, y cuatro, en el idioma inglés. Un texto redactado en los idiomas inglés, francés y español, cada uno de los cuales tiene igual autenticidad quedará abierto para la firma en Washington, D.C. Tales textos serán depositados en los archivos del Gobierno de los Estados Unidos de América, el cual transmitirá copias certificadas a los Gobiernos de todos los Estados que firmen o se adhieran al presente Convenio.
-
-> **Nota.** El numeral 1 del Anexo del Decreto 66, Relaciones Exteriores, publicado el 29.05.2003 dispone sustituir en la segunda oración de la letra a) del artículo 50 del presente Convenio, las palabras "treinta y tres" por "treinta y seis", sin embargo, no ha sido posible efectuar tal modificación por no encontrarse disponibles en su texto las palabras mencionadas.
-
-> **Nota.** NOTA 1 El numeral 1 del Anexo del Decreto 217, Relaciones Exteriores, publicado el 04.11.2008 dispone sustituir el Artículo 56 del presente Convenio la expresión "quince miembros" por la expresión "diecinueve miembros", sin embargo, no ha sido posible efectuar tal modificación por no encontrarse disponibles en su texto las palabras mencionadas.
