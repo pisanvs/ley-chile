@@ -1,0 +1,7 @@
+Por resolución N° 187, de 8 de Febrero de 1994, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don JOSE ZAMBRANO CEA, R.U.T. N° 6.277.012-0, para ampliar actividades pesqueras autorizadas por la Resolución N° 681, de 1992, de esta Subsecretaría, en orden a incorporar a su planta autorizada mediante Resolución citada precedentemente, ubicada en 3° Poniente N° 2996, Tocopilla, las líneas de elaboración que se indican, pudiendo utilizar como materia prima los siguientes recursos hidrobiológicos: Fresco-refrigerado: Almeja o taca, Caracol locate, Caracol tegula, Caracol, Chitón o apretador, Cholga, Lapa, Pulpo, Quiquincho, Jaiba peluda o pachona y Erizo; Precocido: Caracol tegula, Caracol, Chitón o apretador, Cholga, Pulpo, Quiquincho y Jaiba peluda o pachona.
+
+En el ejercicio de las actividades de procesamiento autorizadas, el solicitante deberá dar estricto cumplimiento a las normas legales y reglamentarias que regulen la conservación de recursos hidrobiológicos.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 8 de Febrero de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
