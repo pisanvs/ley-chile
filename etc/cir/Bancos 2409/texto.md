@@ -4372,7 +4372,7 @@ Los importes de las transacciones efectuadas mediante tarjetas de débito deben 
 
 Una cuenta corriente podrá ser girada mediante el uso de tarjetas de débito, sólo si existen fondos disponibles al momento de la transacción, considerando para ese efecto todas las imputaciones efectuadas cronológicamente en la cuenta corriente, incluido el procesamiento del canje según se establece en el N° 2 del título V del Capítulo 5-1 de esta Recopilación.
 
-Los emisores informarán a los titulares de tarjetas de débito mediante las cartolas de sus respectivas cuentas corrientes, en las que deberán incluir el detalle de las transacciones realizadas, con expresa indicación del beneficiario final de cada pago, esto es, el nombre del establecimiento afiliado.
+Los emisores informarán a los titulares de tarjetas de débito mediante las cartolas de sus respectivas cuentas corrientes, en las que deberán incluir el detalle de las transacciones realizadas, con expresa indicación del beneficiario final de cada pago, esto es, el nombre del establecimiento afiliado. No obstante, si el emisor no tuviera aún la información relativa a la identidad de un beneficiario extranjero al momento de emitir la cartola, podrá señalar, en su remplazo, la ciudad y el tipo de establecimiento comercial en que se efectuó la transacción, sin perjuicio de mantener a disposición del titular los datos precisos recibidos posteriormente.
 
 En todo caso, los sistemas para los traspasos de fondos que se originan por el uso de las tarjetas de débito, deben ceñirse a las instrucciones generales sobre transferencias electrónicas de fondos que ha establecido esta Superintendencia, contenidas en el Capítulo 1-7 de esta Recopilación Actualizada de Normas.
 
