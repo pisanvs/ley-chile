@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.914, de 16 de mayo de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 3-A, 3-B y 3-C; para la obra: Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector B: Km. 42.950,00 - Km.
+
+55.200,00, Región Metropolitana, que figuran a nombre de Soc Oroquieta y Acuña Petrosur, rol de avalúo 136-580, comuna de Paine, superficies 505 m2, 1.822 m2 y 147 m2, respectivamente. La comisión de peritos integrada por los señores Paola Andrea Domingo Porcella, Eduardo Alejandro Silva Aracena y Carmen Pilar Ríos Marcuello, fijó con fecha 08 de marzo de 2000, el valor provisional de la indemnización en las cantidades de $2.617.600.- para el lote Nº3-A; $76.768.230 para el lote Nº3-B y de $718.140.- para el lote Nº3-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
