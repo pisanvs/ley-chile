@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 213, de 30 de Julio de 1993, se expropiaron los lotes de terrenos N°s. 32, 38, 36, 42, 45 y 49, superficies 630 M2., 168 M2., 54 M2., 63 M2., 75 M2. y 140 M2., roles de avalúos 34-45, 34-29, 37-37, 37-36 y 36 -125, comuna de Chépica, para la obra Camino Nancagua Puquillay Chépica y se acordó precio de indemnización con sus propietarios Juan Crespo Ureta, Carlos Salinas Peña, Fernando Cáceres Cerpa, David Padilla Molina y Manuel Morales Ruz, ascendente a las cantidades de $ 667.854, $ 492.820, $ 484.666, $ 499,858 y 454.619, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
