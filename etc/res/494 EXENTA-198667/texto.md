@@ -1,0 +1,5 @@
+REVOCA CALIDAD DE AGENTE RETENEDOR DEL IVA A ADMINISTRADORA LAS BRISAS TALCA LTDA.
+
+La VII Dirección Regional Talca del SII, por resolución Nº Ex. 494 de 08/05/02, deja sin efecto a contar del día siguiente al de la publicación de la presente resolución, a Administradora Las Brisas Talca Ltda., RUT Nº 88.998.500-3, la obligación establecida en la resolución Nº Ex. 3.311 de 30/6/2000 y en la resolución Nº 5.282 de 30/11/2000 ambas emitidas por la Dirección Nacional, que le dispuso el cambio de sujeto del IVA en las operaciones de venta especies hidrobiológicas y harina, dejando de ocurrir las circunstancias que ameritaban la obligación. El peticionario deja de tener la calidad de retenedor del impuesto al valor agregado en las operaciones de ventas de especies hidrobiológicas y de harina.
+
+Talca, 8 de mayo de 2002.- Mirtha Barra Paredes, Directora Regional.
