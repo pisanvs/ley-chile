@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 252, de fecha 18 de marzo de 2002, se expropiaron los lotes de terreno Nºs. 12-D y 18-E, superficies 75 m2 y 300 m2, roles de avalúos 23-2 y 23-1, respectivamente, comuna de Quinta de Tilcoco, VI Región, para la obra "Camino Quinta de Tilcoco-Coínco, Sector Quinta de Tilcoco-Coínco, Km. 0.000,00 al 12.732,50" y se acordó el valor de indemnización con su propietario Orfelia u Ofelia Silva Pizarro, ascendente a la cantidad de $1.318.775.-
+
+Fiscal del Ministerio de Obras Públicas.
