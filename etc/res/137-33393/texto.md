@@ -1,0 +1,5 @@
+Por Resolución N° 137, 23 de Febrero de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMERCIAL GOP S.A., R.U.T. N° 88.274.600-3, para ampliar actividades pesqueras de transformación que tiene autorizadas por Resoluciones N° 421, de 1986, N° 127, de 1987, N° 22, de 1988 y N° 136, de 1993, todas de esta Subsecretaría, en orden a incorporar a las líneas de proceso autorizadas para su planta ubicada en Chul Chuy, Isla Lemuy, Comuna de Pulquedón, Provincia de Chiloé, X Región, el proceso de fresco con los mismos recursos hidrobiológicos señalados en las Resoluciones citadas precedentemente.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 23 Febrero de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
