@@ -26000,6 +26000,16 @@ Los importes que los bancos reciban en moneda chilena para destinarlos a la cobe
 
 En la misma cuenta antes señalada se deberán contabilizar los importes que los bancos reciban, ya sea como resultado de la cobranza de letras u otros efectos de comercio constituidos en garantía o de cualquier otro origen, con el objeto de aplicarlos al pago de créditos para importación o de cualquiera otra naturaleza.
 
+5.6.- Financiamiento de importaciones pagaderas al contado.
+
+De conformidad con lo indicado en las instrucciones relativas al Informe de Importación contenidas en el Capítulo II del Título III del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, los bancos están facultados para financiar en moneda extranjera operaciones de importación no amparadas por cartas de crédito, siempre que en el informe de importación se señale que la forma de pago de la operación es al contado.
+
+Estos financiamientos serán registrados en la cuenta "Anticipos para importaciones pagaderas al contado", de la partida 1125 ó 1220, según sea el plazo pactado.
+
+En los casos en que, eventualmente, el importador entregue el equivalente en pesos, moneda chilena, al Banco que efectúe el pago en moneda extranjera de dichas operaciones, la recepción de los pesos debe ser considerada una venta condicional de moneda extranjera y registrarse en forma similar a la indicada en la letra c) del numeral 5.1.2 de este Capítulo, utilizando para el efecto la cuenta "Moneda extranjera vendida condicionalmente-pagos al contado" de la partida 2525.
+
+Los intereses ganados por estos financiamientos se registrarán, en moneda extranjera, de acuerdo con las normas generales sobre la materia. Cuando los bancos reciban el equivalente en moneda chilena por la venta condicional de la respectiva moneda extranjera, no podrán cobrar intereses sobre tales operaciones.
+
 6.- Límites legales.
 
 6.1.- Límite individual de crédito.
@@ -26013,16 +26023,6 @@ Para esos efectos, se pueden considerar como garantía los documentos de embarqu
 Las obligaciones correspondientes a las cartas de crédito de que trata el N° 1 de este capítulo, están afectas al límite establecido en el artículo 81 de la Ley General de Bancos.
 
 El saldo de la cuenta "Pagos a cuenta de ventas condicionales de monedas extranjeras", atendida su naturaleza, no se considera afecto a este límite.
-
-7.- Obligaciones con el Banco Central de Chile.
-
-Las cartas de crédito cuyo rembolso deba efectuarse por intermedio de un
-
-Convenio de Pagos y Créditos Recíproco ALADI, quedan afectas al límite de
-
-obligaciones con el Instituto Emisor, a que se refiere el Capítulo 12-6 de esta
-
-Recopilación de Normas.
 
 CAPITULO 15-2 (Bancos)
 
