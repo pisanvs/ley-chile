@@ -1,0 +1,5 @@
+Por resolución exenta Nº1.444, de 27 de junio de 2003, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº169 de 2003, modificada mediante resoluciones Nº351 y Nº725, ambas de 2003, todas de esta Subsecretaría, que autorizó a CONSULTORA PUPELDE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Monitoreo de la pesquería de merluza del sur en aguas interiores X Región, temporada 2003", en el sentido de señalar que las actividades de investigación autorizadas para el mes de julio, se realizarán en las siguientes fechas: Hualaihué: 27-31, Puerto Montt: 24-26, Calbuco: 21-23.
+
+Asimismo, modifícase el numeral 12 letra e) de la resolución Nº169 de 2003, antes individualizada, en el sentido de incorporar el siguiente inciso 2º: "El Servicio Nacional de Pesca podrá autorizar otros puertos de acreditación, lo que será comunicado oportunamente a los interesados.".
+
+Valparaíso, 27 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
