@@ -1,0 +1,3 @@
+Por decreto MOP. Nº1.256, de 27 de agosto de 2001 y en base a la facultad otorgada por el artículo 105 del DFL. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº107-A, para la obra Camino Rutas W-65 y W-55, sector Cruce Longitudinal (Pid Pid)-Putemún-Dalcahue, que figura a nombre de Díaz Miranda René Alfonso, rol de avalúo 140-68, superficie 105,00 m2., comuna de Dalcahue. La Comisión de Peritos, con fecha 28 de junio de 2000, fijó la indemnización provisional en la cantidad de $19.946.500, la que pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
