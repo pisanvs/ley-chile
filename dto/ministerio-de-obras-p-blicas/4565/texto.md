@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.565 de fecha 29 de septiembre del 2000, se expropiaron los lotes de terreno Nºs. 1 y 2, superficie 1.409,2 y 1.244 m², respectivamente, rol de avalúo 105-7, comuna de Pucón, para la obra ''Camino Ruta 119-CH (Km. 7.5), Sector Pucón-El Turbio, Tramo Kms. 0000 al 4,201,73'' y se acordó el valor de indemnización con su propietaria Mónica R. Sabugal del Solar, ascendente a la cantidad de $3.158.675.-
+
+Fiscal del Ministerio de Obras Públicas.
