@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 290, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 4 y 5, superficies 1.479 y 700 m2., rol de avalúo 1601-30, comuna de Santo Domingo, para la obra Camino Reposición Ruta 66, sector Límite Regional-San Antonio y se acordó precio de la indemnización con la Sociedad Inmobiliaria Los Alerces S.A., ascendente a la cantidad de $5.908.276, para los lotes 4 y 5.
+
+Fiscal del Ministerio de Obras Públicas.
