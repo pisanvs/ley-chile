@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 212, de 05 de Agosto de 1985, se expropió el lote de terreno No. 1, para Alcantarillado de Retiro, Fosa Séptica Norte, que figura a nombre de don Darío Muñoz Barros y otros, rol de avalúo 451-31, superficie 705 m2., Comuna de Retiro. Deslindes: Norte, Sur y Oeste, con don Armando Zapata A. y Este, con camino público. La Comisión de Peritos compuesta por los señores Renato Guerra, Carlos Sottolichio y René Ramírez, fijó con fecha 03 de Noviembre de 1982, el valor provisional de la indemnización en la cantidad de $ 14.100. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas. (16)
