@@ -1,0 +1,3 @@
+Por resolución Nº 1.873, de 10 de septiembre de 2001, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Punta Frödden, III Región, individualizada en el artículo 1º Nº 6 del D.S. Nº 510 de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS MARISCADORES Y ARTESANALES DEL MAR DE CALDERA.
+
+Valparaíso, 10 de septiembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
