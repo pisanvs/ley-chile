@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.308 de 31 de diciembre de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 86 y 87, para la ejecución de la obra "Camino Costero Tirúa-Carahue, Tramo Tranapuente-Carahue, Sector Km.
+
+55.438,97 - Km. 69.895,61; Km. 0.000 - Km. 3.927,45; Sub-Tramo III, Km. 63.405 a Km.3.100", que figuran a nombre de Soc. Agrícola Ganad. Rucalan Ltd. y Juan B. Landarreteh Mendoza, rol de avaluo 273-10 y 273-24, comuna de Carahue, IX Región, superficies 11.457,07 y 6.302,96 M2. La Comisión de peritos fijó con fecha 29 de marzo de 1999, el valor provisional de la indemnización en la cantidad de $6.428.535, lote 86 y $3.711.480, lote 87. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas
