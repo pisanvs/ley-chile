@@ -1,0 +1,9 @@
+AUTORIZA A DON MARIO KOTESKY LEAL PARA SUSTITUIR EMBARCACION, DEJA SIN EFECTO Y DEROGA RESOLUCIONES QUE INDICA
+
+Por resolución No. 697 de 10 de Julio de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Mario Kotesky Leal, R.U.T.
+
+No. 3.573.832-0, domiciliado en Arica, Barros Arana No. 3254, para sustituir la embarcación "Mauricio I", autorizada por resolución No. 41, de 1986, por la nave "Mar Amarillo". de igual capacidad de bodega, que operará en el litoral de la I a II Región en la extracción de jurel, sardina española, caballa y anchoa. Además, se autoriza al peticionario para operar la embarcación "Mauricio 1", en las Regiones I y II donde podrá extraer los siguientes recursos: bonito, cojinova del norte, marrajo, atún aleta amarilla, albacora, corvina, lisa, merluza común, palometa, dorado, agujilla, los que destinará al consumo humano.
+
+Se deja sin efecto la autorización concedida a Empresa Pesquera Chilemar S.A. para operar la embarcación "Mar Amarillo", mediante resolución No. 375, de 1987. Se deroga la resolución No. 41, de 1986, de esta Subsecretaría de Pesca, que autorizó al peticionario para extraer con la embarcación "Mauricio I" en el litoral de las Regiones I y II, las especies sardina, jurel, anchoa y caballa. Se deniega al interesado autorización para extraer el recurso bacalao en las Regiones I y II conforme a lo dispuesto en los Decretos No. 439, de 1985 y No. 43, de 1986, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 10 de Julio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
