@@ -1,0 +1,3 @@
+Por resolución Nº704, de 20 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a HUGO STREETER CORTEZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Mac-Iver 851, Chañaral, III Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Filete, Seco-salado: Tollo, Azulejo, Pejegallo, Merluza común, Congrio colorado y Congrio negro; Aletas Seca: Tollo y Azulejo; Cartílagos Seco: Tollo y Azulejo.
+
+Valparaíso, 20 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
