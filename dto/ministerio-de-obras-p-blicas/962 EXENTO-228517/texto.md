@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 962 de 9 de julio de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s. 1, 3 y 5 para la obra: Sistema de Agua Potable Rural "Orilla de Navarro" km. 0,000 a km.
+
+0,315, que figura a nombre de Navarro Navarrete Luis, rol de avalúo 137-28, comuna de Hualañe, VII Región, superficies 538, 192, 271 M². respectivamente. La Comisión de Peritos, fijó con fecha 9 de noviembre de 2003; en la cantidad de $458.200.- lote Nº 1; $19.200.- lote Nº 3 y $168.970. lote Nº 5. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
