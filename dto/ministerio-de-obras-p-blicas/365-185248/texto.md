@@ -1,0 +1,3 @@
+Por decreto MOP Nº365 de fecha 30 de marzo del 2001, se expropiaron los lotes de terreno Nºs 14 y 15, superficie 180, 130 m²., rol de avalúo 518-49, comuna de Antuco, para la obra "Camino Ruta Q-45, Sector Antuco-Abanico, Tramo I Km. 0,00000 a Km. 3,95000" y se acordó el valor de indemnización con su propietario Luciano Sergio Carrasco, ascendente a la cantidad de $304.880.
+
+Fiscal del Ministerio de Obras Públicas.
