@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.540 de 29 de octubre de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 99, 100 y 104 para la obra: Camino Costero Tirúa - Carahue, Tramo Bajo Yupehue - Puyanhue, Sector Km. 23.348,46 - Km. 41.637,97; Km. 41.769,92 -
+
+Km. 45.286,79, Subtramo IV Km. 34.804 al Km. 39.858, que figuran a nombre de Huaiqui Caniulen Lidia y Ramírez Ortiz Rosendo, sin rol, Comuna de Carahue, IX Región, superficies 381,1 m2; 1.451 m2 y 679,6 m2. La Comisión de Peritos fijó con fecha 28 de mayo de 1998, complementada por acta de fecha 16 de septiembre de 1999, el monto de la indemnización provisional en la cantidad de $297.165.-, para el lote 99; $217.650.-, para el lote 100 y $1.511.940.-, para el lote 104. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
