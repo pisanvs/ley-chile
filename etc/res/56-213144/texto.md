@@ -1,0 +1,3 @@
+Por resolución Nº 056, de 3 julio 2003, Serviu Región Tarapacá, conforme DL Nº 1.523/1976; Nº 2.186/1978 y DS Nº 355/76, 131 de 2002 y 71/2003, todos de Vivienda y Urbanismo, dispuso expropiación del inmueble ubicado en Iquique, calle Las Cabras Nº 1743, rol avalúo 78-10 de presunto dominio de Luis Rivera Flores. Comisión integrada por peritos Héctor Ruiz Le-Beuffe, arquitecto, y señores Gastón González Kemnis y Oscar Escárate Arancibia, constructores civiles, según informe tasación de 27 junio 2003, fijó monto provisional de indemnización en $13.500.000 pagadera al contado.
+
+Dina Tarraza Lovazzano, Directora Serviu Región de Tarapacá.
