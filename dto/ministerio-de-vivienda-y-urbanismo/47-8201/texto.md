@@ -92,11 +92,11 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Densificación»: incremento del número de unidades por unidad de superficie.
 
-«Edificación aislada»: la que se construye separada de los deslindes, emplazada por lo menos a las distancias resultantes de la aplicación de las normas sobre rasantes y distanciamientos que se determinen en el instrumento de planificación territorial o, en su defecto, las que establece la presente ordenanza.
+«Edificación aislada»: la separada de los deslindes, emplazada por lo menos a las distancias resultantes de la aplicación de las normas sobre rasantes y distanciamientos que se determinen en el instrumento de planificación territorial o, en su defecto, las que establece la presente Ordenanza.
 
-«Edificación continua»: la que se construye simultáneamente, o diferida en el tiempo, emplazada a partir de los deslindes laterales opuestos o concurrentes de un mismo predio y ocupando todo el frente de éste, manteniendo un mismo plano de fachada con la edificación colindante y con la altura que establece el instrumento de planificación territorial.
+«Edificación continua»: la emplazada a partir de los deslindes laterales opuestos o concurrente de un mismo predio y ocupando todo el frente de éste, manteniendo un mismo plano de fachada con la edificación colindante y con la altura que establece el instrumento de planificación territorial
 
-«Edificación pareada»: la que corresponde a dos edificaciones que se construyen simultáneamente, o diferidas en el tiempo, emplazadas a partir de un deslinde común, manteniendo una misma línea de fachada, altura y longitud de pareo. Las fachadas no pareadas deberán cumplir con las normas previstas para la edificación aislada.
+«Edificación pareada»: la que corresponde a dos edificaciones emplazadas a partir de un deslinde común, manteniendo una misma línea de fachada, altura y longitud de pareo. Las fachadas no pareadas deberán cumplir con las normas previstas para la edificación aislada.
 
 «Edificio»: toda construcción destinada a la habitación o en la cual una o más personas puedan desarrollar cualquiera labor, transitoria o permanente.
 
@@ -106,11 +106,11 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Edificio de estacionamiento»: el destinado a guardar uno o más automóviles u otros vehículos motorizados.
 
-«Edificio de oficinas»: el dividido en recintos destinados al ejercicio de profesiones o actividades administrativas o comerciales.
+«Edificio de oficinas»: el conformado por recintos destinados a la prestación de servicios profesionales, administrativos, financieros, de seguros, intermediación de intangibles y otros análogos.
 
 «Edificio de uso público»: aquel en donde se reúne habitualmente un gran número de personas, a saber: oficinas públicas, establecimientos de educación, bancos, bibliotecas, museos, teatros, cines, iglesias, centros comerciales y otros análogos.
 
-«Edificio industrial»: aquel en donde se fabrican o elaboran productos industriales, y las plantas de fuerza o transformación de energía.
+«Edificio industrial»: aquel en donde se fabrican o elaboran productos industriales.
 
 «Edificio nuevo»: el que se construye desde sus fundaciones, sin utilizar ningún elemento de construcción existente.
 
@@ -124,9 +124,9 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Estación de servicio automotor»: local destinado al expendio de gasolina, petróleo diesel, kerosene, lubricantes u otros productos de similar naturaleza para vehículos motorizados u otros usos sea que preste o no servicios tales como lavado, lubricación, revisión o mantención de vehículos.
 
-«Estudio de riesgos»: documento técnico de carácter obligatorio, elaborado por un equipo interdisciplinario de profesionales especialistas, que sirve de fundamento para la elaboración de un Plan Regulador Intercomunal o Comunal, cuyo objetivo es, advertir pormenorizadamente, sin omitir ninguna circunstancia o particularidad, sobre los riesgos o peligros reales o potenciales que constituyen, para la localización o emplazamientos de asentamientos humanos, determinadas áreas territoriales de dichos Planes en todos los aspectos que se detallan en el artículo 2.1.5. de la presente Ordenanza.
+«Estudio de riesgos»: documento técnico elaborado por un equipo interdisciplinario de profesionales especialistas, cuyo objetivo es advertir sobre los peligros reales o potenciales para el emplazamiento de los asentamientos humanos.
 
-«Informe de riesgos»: documento técnico elaborado por profesionales especialistas, constitutivo de la Memoria Explicativa de un proyecto de subdivisión o loteo de terreno, exigido por la Dirección de Obras Municipales cuando la situación así lo aconseje, cuyo objetivo es, constatar y advertir en forma circunstanciada respecto a los posibles riesgos yacentes sobre o bajo el terreno o provenientes de áreas colindantes.
+«Informe de riesgos»: documento técnico elaborado por profesionales especialistas, cuyo objetivo es constatar y advertir posibles riesgos yacentes sobre o bajo el terreno o provenientes de áreas colindantes.
 
 «Línea de edificación»: la señalada en el instrumento de planificación territorial, a partir de la cual se podrá levantar la edificación en un predio.
 
@@ -146,7 +146,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Muro medianero»: el que pertenece en común a los dueños de dos predios colindantes.
 
-«Muro soportante»: el que debe resistir cualquier carga, además de su propio peso, con un espesor mínimo de 15 cm.
+«Muro soportante»: el que debe resistir cualquier carga, además de su propio peso, con un espesor mínimo de 14 cm.
 
 «Norma oficial»: norma técnica preparada por el Instituto Nacional de Normalización (INN), y aprobada por decreto supremo del Ministerio de Vivienda y Urbanismo, dictado por orden del Presidente de la República.
 
@@ -166,11 +166,13 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Plaza»: espacio libre de uso público destinado, entre otros, al esparcimiento y circulación peatonal.
 
-«Portal»: pasaje cubierto formado por una arcada o columnata, destinado a la circulación peatonal.
+«Portal»: circulación peatonal cubierta formada por una arcada o columnata
 
 «Pórtico»: espacio cubierto delante de un edificio, con columnas o pilares.
 
 «Profesional competente»: el arquitecto, ingeniero civil o constructor civil a quienes, dentro de sus respectivos ámbitos profesionales, corresponda realizar las tareas u obras a que se refiere la Ley General de Urbanismo y Construcciones.
+
+«Profesional especialista»: profesionales universitarios tales como arquitectos, ingenieros civiles, ingenieros agrónomos, ingenieros forestales, geógrafos, geólogos, cuyas especialidades tengan directa relación con el estudio de riesgos o el informe de riesgos de que se trate.
 
 «Propietario»: persona natural o jurídica que declara, ante la Dirección de Obras Municipales o ante el servicio público que corresponda, ser titular del dominio del predio al que se refiere la actuación requerida.
 
@@ -178,7 +180,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Proyecto»: conjunto de antecedentes de una obra que incluye planos, memorias, especificaciones técnicas y, si correspondiere, presupuestos.
 
-«Rasante»: recta inclinada con respecto al plano horizontal que se levanta desde el nivel del terreno en todos y cada uno de los puntos que forman sus deslindes y el eje de la calle que enfrenta el predio.
+«Rasante»: recta inclinada con respecto al plano horizontal que se levanta en todos y cada uno de los puntos que forman los deslindes y el eje de la calle que enfrenta el predio.
 
 «Reconstrucción»: volver a construir total o parcialmente un edificio.
 
@@ -196,11 +198,11 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Suelo urbano»: superficie territorial urbanizada o potencialmente urbanizable.
 
-«Supervisor»: proyectista o a falta de éste, el profesional arquitecto o ingeniero cuya misión es velar porque el proyecto se materialice en la forma concebida por el proyectista, y de acuerdo al correspondiente permiso de edificación otorgado por la Dirección de Obras Municipales.
+«Supervisor»: proyectista o a falta de éste, el profesional arquitecto o ingeniero civil cuya misión es velar porque el proyecto se materialice en la forma concebida por el proyectista, y de acuerdo al correspondiente permiso de edificación otorgado por la Dirección de Obras Municipales.
 
 «Tabique no soportante»: elemento vertical de separación no estructural.
 
-«Tabique soportante»: el que debe resistir cualquier carga, además de su propio peso, con un espesor menor de 15 cm.
+«Tabique soportante»: el que debe resistir cualquier carga, además de su propio peso.
 
 «Taller»: todo o parte de un edificio destinado a trabajos industriales.
 
@@ -209,6 +211,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 «Terminal de locomoción colectiva»: recinto habilitado para la llegada y salida controlada de vehículos de locomoción colectiva.
 
 «Urbanizar»: dotar a una superficie territorial que experimenta crecimiento urbano por extensión o por densificación, de infraestructura vial, sanitaria y energética, con sus obras de alimentación y desagües; de plantaciones y obras de ornato; obras de defensa y servicio del terreno; equipamiento y áreas verdes, proporcionales a las densidades fijadas por el instrumento de planificación territorial.
+
+«Vereda»: parte pavimentada de la acera.
 
 «Vía»: espacio destinado al tránsito.
 
@@ -248,6 +252,26 @@ DE LAS SANCIONES
 
 3.1. Las infracciones a las normas contenidas en la presente Ordenanza, quedarán sujetas a las disposiciones y multas previstas en el Capítulo IV del Título I, de la Ley General de Urbanismo y Construcciones.
 
+#### Artículo 1
+
+3.2. Sin perjuicio de lo dispuesto en la Ley General de Urbanismo y Construcciones, se considerarán infracciones a las normas contenidas en la presente Ordenanza, y por lo tanto quedarán sujetas a multa las siguientes acciones, entre otras:
+
+1. La ejecución de una obra en contravención con las disposiciones de la presente Ordenanza.
+
+2. La ejecución de una obra en disconformidad con el permiso otorgado por la Dirección de Obras Municipales.
+
+3. La alteración de los planos, especificaciones y demás documentos de una obra, aprobados por la Dirección de Obras Municipales o por los servicios de utilidad pública que correspondan.
+
+4. El incumplimiento por parte del propietario o de cualquier profesional competente, de las instrucciones o resoluciones emanadas de la Dirección de Obras Municipales.
+
+5. Negar el acceso a las obras a los funcionarios municipales encargados de inspeccionarlas.
+
+6. Cambiar el destino de una edificación sin el correspondiente permiso.
+
+7. La ausencia de supervisión técnica en una obra.
+
+Las multas se aplicarán a quienes resulten responsables de la infracción, de acuerdo a la sentencia dictada al efecto por el Juez de Policía Local correspondiente.
+
 ## Título 2
 
 DE LA PLANIFICACIÓN
@@ -286,9 +310,9 @@ DE LA PLANIFICACION URBANA Y SUS INSTRUMENTOS
 
 1. Memoria Explicativa, que contenga el análisis y diagnóstico del área en estudio, los objetivos, las metas, fundamentos y demás estudios técnicos necesarios para la formulación de las proposiciones de estructuración y los programas o líneas de acción para orientar, gestionar y regular el desarrollo físico de comunas que conforman el sistema intercomunal.
 
-2. Ordenanza, que contenga las disposiciones reglamentarias y específicas del plan, referidas entre otros a las distintas áreas que se determinan y sus respectivos sectores urbanos, de extensión urbana, de desarrollo prioritario, de restricción, de riesgo, con sus usos de suelo, red vial estructurante, u otras características.
+2.Ordenanza, que contenga las disposiciones reglamentarias y específicas del plan, referidas entre otros a las distintas áreas que se determinan y sus respectivos sectores urbanos, de extensión urbana, de desarrollo prioritario, de restricción, de riesgo, con sus usos de suelo, densidades, red vial estructurante, u otras características.
 
-3. Planos, que expresen gráficamente, entre otras menciones, zonificación general, equipamiento, red vial, infraestructura, áreas de desarrollo prioritario, límites urbanos, densidades, áreas de extensión urbana, de restricción y de riesgo.
+3. Planos, que expresen gráficamente, entre otros, límites de extensión urbana, zonificación general, áreas de riesgo y de restricción, áreas de desarrollo prioritario, densidades, red vial, infraestructura, áreas verdes y equipamiento.
 
 Los planos se confeccionarán sobre base aerofotogramétrica o similar, actualizada a escala 1:50.000, 1:20.000, 1:10.000 ó a escalas adecuadas a las respectivas temáticas, según lo determine la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
 
@@ -318,13 +342,11 @@ Los planos se confeccionarán sobre base aerofotogramétrica o similar, actualiz
 
 1. Memoria Explicativa, que contenga el análisis y diagnóstico del territorio comunal, estudio de riesgos, objetivos, metas, fundamentos y todos los antecedentes gráficos, planimétricos y descriptivos, sobre aspectos demográficos, sociales, económicos y demás estudios técnicos que sirvan de base para las proposiciones y las alternativas de estructuración y gestión.
 
-2. Estudios de Factibilidad, para ampliar o dotar de agua potable y alcantarillado, en relación con el crecimiento urbano proyectado, estudio que requerirá consulta previa a las entidades regionales o locales competentes encargadas del servicio.
+2. Estudios de Factibilidad, para ampliar o dotar de agua potable y alcantarillado, en relación con el crecimiento urbano por extensión y/o densificación proyectado, estudios que requerirán consulta previa a las entidades regionales o locales competentes.
 
-3. Ordenanza Loca, que fijará con precisión, entre otras normas, el límite urbano, vialidad, usos de suelo permitidos y excluidos, densidades máximas y mínimas, coeficientes de constructibilidad, coeficientes de ocupación del suelo, rasantes y distanciamientos, alturas de edificación máximas y mínimas, tamaños prediales, normas sobre equipamiento, para toda el área territorial sometida a planificación.
+3. Ordenanza Local, que fijará con precisión, entre otras normas, el límite urbano, vialidad, usos de suelo permitidos, restringidos y prohibidos, densidades máximas y mínimas, coeficientes de constructibilidad, coeficientes de ocupación del suelo, rasantes y distanciamientos, alturas de edificación máximas y minimas, tamaños prediales, normas sobre equipamiento, para todo el área territorial sometida a planificación.
 
-4. Planos, que expresen gráficamente, entre otras menciones, límite urbano, zonificación usos de suelo y densidades, áreas prioritarias de desarrollo urbano, áreas de restricción y de riesgo, y red vial estructurante.
-
-Los planos se confeccionarán sobre base aerofotogramétrica o similar, actualizada a escalas 1:10.000, 1:5.000, ó a escalas adecuadas a las respectivas temáticas, según lo determine la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
+4. Planos, que expresen gráficamente, entre otros, límite urbano, áreas de extensión urbana con sus prioridades, áreas de riesgo y de restricción, zonificación, usos de suelo, densidades, red vial estructurante, áreas verdes y equipamiento. Los planos se confeccionarán sobre base aerofotogramétrica o similar, actualizada, a escala 1:50.000, 1:20.000, 1:10.000 ó a escalas adecuadas a las respectivas temáticas, según lo determine la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
 
 #### Artículo 2
 
@@ -334,7 +356,7 @@ La Municipalidad deberá comunicar, a través de dos publicaciones efectuadas en
 
 Los interesados podrán formular observaciones al proyecto del Plan Regulador Comunal, dentro del plazo previsto en la Ley General de Urbanismo y Construcciones, las que deberán ser fundadas y presentarse por escrito. Estas observaciones deberán ser oportunamente puestas en conocimiento del Consejo de Desarrollo Comunal respectivo, al someterse a su aprobación el citado proyecto.
 
-El documento en que conste la aprobación municipal, con todos los antecedentes técnicos que componen el Plan Regulador Comunal, suscritos por el Director de Obras Municipales, con las publicaciones de prensa correspondientes, con las reclamaciones que hubiesen formulado los interesados y lo resuelto al respecto por el Consejo de Desarrollo Comunal, serán remitidos a la Secretaria Regional Ministerial de Vivienda y Urbanismo respectiva para su aprobación. Lo resuelto por el Consejo de Desarrollo Comunal respecto de las observaciones formuladas por los interesados será informado a éstos por el Director de Obras Municipales.
+El documento en que conste la aprobación municipal, con todos los antecedentes técnicos que componen el Plan Regulador Comunal, suscritos por el Director de Obras Municipales, con las publicaciones de prensa correspondientes, con las reclamaciones que hubiesen formulado los interesados y lo resuelto al respecto por el Concejo, serán remitidos a la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, para su aprobación. Lo resuelto por el Concejo respecto de las observaciones formuladas por los interesados, será informado a éstos por el Director de Obras Municipales.
 
 Corresponderá a las Unidades de Desarrollo Urbano e Infraestructura de las Secretarias Regionales Ministeriales de Vivienda y Urbanismo, pronunciarse técnicamente sobre el proyecto del Plan Regulador Comunal sometido a la aprobación de la Secretaría Regional Ministerial respectiva.
 
@@ -414,7 +436,45 @@ Uno de los cuatro ejemplares oficiales a que se refiere el inciso anterior se ar
 
 1.14. Lo dispuesto en el artículo 2.1.7. será igualmente aplicable en la confección de Planes Seccionales y en la fijación y modificación de Límites Urbanos de centros poblados que no cuenten con Plan Regulador Comunal.
 
-Para estos efectos, el informe de la Secretaría Regional Ministerial de Agricultura, a que alude el artículo 53 de la Ley General de Urbanismo y Construcciones, deberá recabarse por la Municipalidad con antelación a la remisión del proyecto respectivo al Consejo de Desarrollo Comunal para su aprobación.
+Para estos efectos, el informe de la Secretaría Regional Ministerial de Agricultura, a que alude el artículo 53 de la Ley General de Urbanismo y Construcciones, deberá recabarse por la Municipalidad con antelación a la remisión del proyecto respectivo al Consejo para su pronunciamiento.
+
+#### Artículo 2
+
+1.15. La fijación de "Zonas de Remodelación" por los Municipios que tengan Plan Regulador, deberá ceñirse al procedimiento siguiente:
+
+1. Elaborar un Plan Seccional del área con los componentes que se señalan en el artículo 2.1.9. de la presente Ordenanza, que será propuesto para su aprobación por decreto supremo al Ministerio de Vivienda y Urbanismo, a través de la respectiva Secretaría Regional Ministerial una vez informado por el Intendente e Instituciones Fiscales que se estime necesario. Las entidades consultadas tendrán un plazo máximo de 60 días para pronunciarse sobre dicho Plan Seccional, contados desde su recepción, vencido el cual, la falta de pronunciamiento será considerada como aprobación sin observaciones.
+
+2. En el decreto supremo se establecerán los plazos, estímulos e impuestos, que procedan.
+
+3. La Municipalidad publicará en el Diario Oficial el decreto supremo correspondiente, y remitirá copia de esta publicación al Servicio de Impuestos Internos para los efectos previstos en el artículo 74 de la Ley General de Urbanismo y Construcciones.
+
+#### Artículo 2
+
+1.16. La fijación de "Zonas de Remodelación" por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, deberá ceñirse al procedimiento siguiente:
+
+1. Elaborar un Plan Seccional del área con los componentes que se señalan en el artículo 2.1.9. de la presente Ordenanza.
+
+2. Enviar el Plan Seccional en consulta, al Intendente, Municipios correspondientes e Instituciones Fiscales que se estime necesario, tales como, el Servicio de Impuestos Internos. Las entidades consultadas tendrán un plazo máximo de 60 días para pronunciarse sobre dicho Plan Seccional, contados desde su recepción, vencido el cual, la falta de pronunciamiento será considerada como aprobación sin observaciones.
+
+3. Remitir el expediente correspondiente al Ministerio de Vivienda y Urbanismo, para su aprobación por decreto supremo. En el decreto supremo se establecerán los plazos, estímulos e impuestos, que procedan.
+
+4. Publicar en el Diario Oficial el decreto supremo correspondiente, y remitir copia de esta publicación al Servicio de Impuestos Internos para los efectos previstos en el artículo 74 de la Ley General de Urbanismo y Construcciones.
+
+#### Artículo 2
+
+1.17. La declaración de "Zonas de Construcción Obligatoria" por los Municipios que tengan Plan Regulador, deberá ceñirse al procedimiento siguiente:
+
+1. Elaborar un plano catastral a escala 1:1.000, u otra adecuada a la propuesta, en el que se indicarán los límites de la zona, los sitios eriazos, el estado de las edificaciones existentes y sus usos, dimensiones de los predios, rol de las propiedades, normas urbanísticas vigentes, estado de la urbanización, población afectada y el avalúo fiscal vigente. Deberá acompañarse memoria escrita que justifique la propuesta y fije los incentivos, impuestos y plazos de construcción.
+
+2. La Municipalidad propondrá el proyecto de declaratoria de "Zonas de Construcción Obligatoria" al Ministerio de Vivienda y Urbanismo, a través de la respectiva Secretaría Regional Ministerial, una vez informado por el Intendente e Instituciones Fiscales que se estime necesario. Las entidades consultadas tendrán un plazo máximo de 60 días para pronunciarse sobre dicho Plan Seccional, contados desde su recepción, vencido el cual, la falta de pronunciamiento será considerada como aprobación sin observaciones.
+
+3. En el decreto supremo se establecerán los plazos, estímulos e impuestos, que procedan.
+
+4. La Municiapalidad publicará en el Diario Oficial el decreto supremo correspondiente y remitirá copia de esta publicación al Servicio de Impuestos Internos para los efectos previstos en los artículos 74 y 76 de la Ley General de Urbanismo y Construcciones.
+
+#### Artículo 2
+
+1.18. Los Seccionales correspondientes a "Zonas de Remodelación" y a "Zonas de Construcción Obligatoria" podrán establecer superficies distintas de cesión a las indicadas en los artículos 2.2.5. y 7.2.2. de la presente Ordenanza.
 
 ## Capítulo 2.
 
@@ -422,21 +482,47 @@ DE LAS NORMAS DE URBANIZACION
 
 #### Artículo 2
 
-2.1. El crecimiento urbano por extensión y/o densificación requerirá previamente de la dotación o incremento de la respectiva urbanización, en relación; la densidad que establezca el instrumento de planificación territorial respectivo.
+2.1. El proceso de subdivisión y urbanización del suelo se origina del crecimiento urbano por extención y del crecimiento urbano por densificación y comprende las gestiones descritas en los artículos 2.2.2. y 2.2.3.
 
 #### Artículo 2
 
-2.2. Para satisfacer las necesidades de áreas verdes, equipamiento circulación que se generen por el crecimiento urbano, sea por extensión y/o por densificación, se cederán gratuitamente las superficies de terreno que resultan de la aplicación de los porcentajes indicados en las tablas siguientes, según los usos de suelo señalados:
+2.2. Subdivisión del suelo es la gestión que tiene por objeto dividir un predio en lotes, sin que el propietario esté obligado a urbanizar por ser suficientes las obras de urbanización existentes.
 
-Tabla 1. CESIONES SEGUN USO HABITACIONAL.
+#### Artículo 2
 
-TRAMOS Nº, SEGÚN DENSIDAD HABITACIONAL BRUTA
+2.3. Loteo del suelo es la gestión que tiene por objeto dividir un predio en lotes, estando obligado el propietario a urbanizar, ya sea porque el predio que se lotea carece de urbanización o porque las obras de urbanización existentes son insuficientes.
 
-(Nº viv/ha)
+Igual obligación se genera tratándose de la formación de nuevos barrios y poblaciones, apertura de nuevas vías de tránsito público en subdivisiones o loteos existentes, y en toda gestión que aun cuando solamente implique la ejecución de obras de edificación, conlleve un crecimiento de la densidad de población o edificación del suelo, para el cual resulte insuficiente la urbanización existente.
+
+#### Artículo 2
+
+2.4. Corresponde al Director de Obras Municipales calificar la suficiencia de las obras de urbanización para las gestiones descritas en los artículos 2.2.2. y 2.2.3., pudiendo al efecto oír a los servicios de utilidad pública competentes.
+
+Para los efecos de calificar la suficiencia de las obras de urbanización en aquellos casos de proyectos que generan un crecimiento urbano por densificación, el Director de Obras Municipales deberá aplicar el siguiente procedimiento:
+
+1. Identificar aquellos sectores del área urbana comunal en que la infraestructura existente es insuficiente para satisfacer las condiciones de densidad habitacional y de edificación contempladas en el respectivo Plan Regulador o Seccional.
+
+2. Si el Plan Regulador o Seccional no contiene normas sobre densidad habitacional, se estará a la capacidad de edificación de los predios que resulte de aplicar el coeficiente de constructibilidad.
+
+3. Los sectores definidos conforme a los números 1.ó.2. se identificarán en un plano, copia del cual se remitirá a la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo.
+
+4. La calificación de la suficiencia de las obras de urbanización hecha por el Director de Obras Municipales deberá constar expresamente en los Certificados de Informaciones Previas.
+
+Tratándose de la ejecución de una obra de edificación o ampliación que origine crecimiento urbano por densificación, mientras no se dé cumplimiento a lo señalado en los números 1. ó 2. y 3. del inciso anterior, se entenderá que no es necesario reforzar la urbanización periférica existente y en consecuencia no podrá exigirse cesiones de terreno para área verde, equipamiento y circulación.
+
+#### Artículo 2
+
+2.5. Para satisfacer las necesidades de áreas verdes, equipamiento y circulación que se generen por el crecimiento urbano, sea por extensión y/o por densificación, se cederán gratuitamente las superficies de terreno que resulten de la aplicación de los porcentajes indicados en las tablas siguientes, según los usos de suelo señalados:
+
+Tabla 1. CESIONES SEGUN USO HABITACIONAL
+
+TRAMOS N°, SEGÚN DENSIDAD HABITACIONAL BRUTA (N°
+
+Viv/ha)
 
 1 2 3 4 5
 
-Hasta 20 21 a 90 91 a 150 151 a 200 2001 y más
+1 a 20 21 a 90 91 a 150 151 a 200 201 y más
 
 Area Verde 7% 7% 8% 9% 10%
 
@@ -444,19 +530,25 @@ Equipamiento 2% 1% 2% 3% 4%
 
 Circulaciones hasta 30%
 
-Para los fines previstos en la tabla 1, la conversión de la densidad de población densidad habitacional corresponderá a una vivienda por cada cinco habitantes.
+Para los fines previstos en la tabla 1, la conversión de la densidad de población a densidad habitacional corresponderá a una vivienda por cada cinco habitantes.
 
-Tabla 2. CESIONES SEGUN USO INDUSTRIAL Y ALMACENAMIENTO
+Para estos mismos fines, se estará a las densidades previstas en los instrumentos de planificación, y a falta de éstos, se aplicarán los porcentajes correspondientes a la densidad del proyecto.
 
-TRAMOS Nº, SEGÚN DENSIDAD DE CONSTRUCCION
+Tabla 2. CESIONES SEGÚN USO INDUSTRIAL Y
 
-(m2 construidos)
+ALMACENAMIENTO
+
+TRAMOS N°, SEGÜN DENSIDAD DE CONSTRUCCION (m2
+
+construidos
+
+por predio)
 
 1 2
 
 Hasta 4000 Más de 4000
 
-Area verde 7% 9%
+Area Verde 7% 9%
 
 Equipamiento 1% 2%
 
@@ -464,15 +556,15 @@ Circulación hasta 30%
 
 Tabla 3. CESIONES SEGUN OTROS USOS
 
-TRAMOS Nº, SEGUN DENSIDAD DE CONSTRUCCION
+TRAMOS N°, SEGUN DENSIDAD DE CONSTRUCCION (m2
 
-(m2 construidos)
+construidos por predio)
 
 1 2
 
 Hasta 4000 Más de 4000
 
-Area verde 7% 9%
+Area Verde 7% 9%
 
 Circulación hasta 30%
 
@@ -480,23 +572,11 @@ Para los efectos de las tablas 2 y 3, los porcentajes que en ellas se señalan, 
 
 #### Artículo 2
 
-2.3. Para los efectos de lo establecido en el artículo anterior, las cesiones de los terrenos recibidos para equipamiento comprenderán los destinos señalados en el artículo 2.1.8.
-
-#### Artículo 2
-
-2.4. Cuando los instrumentos de planificación no contemplen densidades para sus zonas, se aplicarán los porcentajes correspondientes a la densidad del proyecto.
-
-#### Artículo 2
-
-2.5. Los Seccionales correspondientes a Zonas de Renovación Urbana podrán establecer superficies distintas de cesión a las indicadas en las tablas anteriores.
-
-#### Artículo 2
-
 2.6. Si en virtud de lo dispuesto en el artículo 70 de la Ley General de Urbanismo y Construcciones, la Municipalidad permuta o enajena terrenos recibidos para equipamiento, con el objeto de ubicarlos en un predio más adecuado, los nuevos emplazamientos deberán ser concordantes con los usos de suelo de las zonas definidas en los instrumentos de planificación territorial respectivos.
 
 #### Artículo 2
 
-2.7. Las superficies de cesión que no se puedan materializar en el mismo predio, se podrán emplazar en terrenos consultados para áreas verdes y equipamiento en el instrumento de planificación territorial correspondiente, en la misma comuna y previo acuerdo con la Municipalidad respectiva.
+2.7. Los terrenos cedidos para equipamiento deberán inscribirse en el Conservador de Bienes Raíces respectivo a nombre de la Municipalidad correspondiente.
 
 #### Artículo 2
 
@@ -794,11 +874,13 @@ Estas exigencias anotadas podrán ser aumentadas explícitamente por el instrume
 
 4.5. Los recintos y áreas, a que alude el artículo anterior, podrán emplazarse frente a Vías Expresas sólo cuando sus accesos y salidas no lo puedan comunicar directamente con vías de menor categoría, en cuyo caso deberán cumplir con los mismos requisitos como si estuvieran emplazados frente a Vías Troncales o Colectoras.
 
-CAPITULO 5. DE LOS CIERROS, LÍNEAS DE EDIFICACIÓN Y OCHAVOS
+## Capítulo 5
+
+DE LOS CIERROS; LINEAS DE EDIFICACION, OCHAVOS Y ANTEJARDINES
 
 #### Artículo 2
 
-5.1. Los sitios eriazos deberán tener, cierros de acuerdo a las normas fijadas por el instrumento de planificación territorial, levantados en los deslindes que enfrentan espacios públicos y será responsabilidad de los propietarios mantenerlos en buen estado.
+5.1. Los sitios eriazos deberán tener cierros de acuerdo a las normas fijadas por el instrumento de planificación territorial, levantados en los deslindes que enfrentan espacios públicos y será responsabilidad de los propietarios mantenerlos en buen estado.
 
 #### Artículo 2
 
@@ -822,27 +904,27 @@ f) Acotaciones que permitan establecer el porcentaje de edificación fuera de l�
 
 #### Artículo 2
 
-5.3. En las esquinas de las calles y pasajes que determine el Plan Regulador Comunal, los muros de fachada o cierros ubicados en la línea oficial formarán ochavos perpendiculares a la bisectriz del ángulo que forme la línea oficial.
+5.3. En las esquinas de las calles y pasajes que determine el instrumento de planificación territorial, los muros de fachada o cierros ubicados en la línea oficial formarán ochavos perpendiculares a la bisectriz del ángulo que forme la línea oficial.
 
 #### Artículo 2
 
-5.4. La longitud de los ochavos será fijada en cada caso por el instrumento de planificación territorial, según sean la intensidad del tránsito y el ángulo y el ancho de las calles en el crucero.
+5.4. La longitud de los ochavos será fijada en cada caso por el instrumento de planificación territorial, según sean la intensidad del tránsito y el ángulo y el ancho de las calles en el crucero. A falta de esta determinación, el Director de Obras Municipales fijará la longitud del ochavo respectivo, que podrá variar entre 4m y 8m.
 
 #### Artículo 2
 
-5.5. En los casos en que las esquinas tengan un ángulo menor de 75º o mayor de 105º, el Director de Obras Municipales podrá fijar ochavos menores que los señalados en el artículo 2.5.3., y aún suprimirlos cuando el ángulo sea mayor de 135º, siempre que a su juicio se obtengan en esa forma las facilidades y garantías de seguridades impuestas por el tránsito.
+5.5. Cuando se proyecte reemplazar la recta del ochavo por una curva o polígono, sus contornos quedarán inscritos en la poligonal formada por la línea oficial.
 
 #### Artículo 2
 
-5.6. Cuando se proyecte reemplazar la recta del ochavo por una curva, polígono o ángulo entrantes, sus contornos quedarán inscritos en la poligonal formada por la línea de edificación.
+5.6. Los ochavos se podrán suprimir en el caso que se establezcan obligatoriamente jardines entre la vía pública y el edificio o se trate del cruce de avenidas o de éstas con calles de 15 o más metros de ancho.
 
 #### Artículo 2
 
-5.7. Los ochavos se podrán suprimir en el caso de que se establezcan obligatoriamente jardines entre la vía pública y el edificio o se trate del cruce de avenidas o de éstas con calles de 15 o más metros de ancho.
+5.7. En los ochavos de las esquinas los pisos altos podrán sobresalir del plano del ochavo o llevar balcón. La parte saliente deberá quedar dentro de la prolongación de los planos de las fachadas principales.
 
 #### Artículo 2
 
-5.8. En los ochavos de las esquinas los pisos altos podrán sobresalir del plano del ochavo o llevar balcón. La parte saliente deberá quedar dentro de la prolongación de los planos de las fachadas principales.
+5.8. Siempre que el instrumento de planificación territorial lo permita expresamente, en los antejardines se podrá consultar construcciones de carácter ligero, tales como, caseta de portería, zaguán o pérgola.
 
 ## Capítulo 6
 
@@ -852,7 +934,7 @@ DEL AGRUPAMIENTO DE LOS EDIFICIOS Y SU RELACIÓN CON EL SUELO
 
 6.1. El agrupamiento de los edificios se determinará en los Planes Reguladores Comunales y estará destinado a definir las alternativas de emplazamiento de éstos dentro de un predio, cautelando que no se afecte el asoleamiento y privacidad de los predios adyacentes.
 
-Para los fines previstos en el inciso anterior, se podrán distinguir tres tipos de agrupamiento: edificación aislada, edificación continua y edificación pareada.
+Para los fines previstos en el inciso anterior, se podrán distinguir tres tipos de agrupamiento: edificación aislada, edificación continua y edificación pareada. Las edificaciones continuas o pareadas se podrán construir simultáneamente o diferidas en el tiempo. La ubicación del pareo será determinada por el respectivo Plan Regulador Comunal o Seccional.
 
 #### Artículo 2
 
@@ -876,13 +958,13 @@ Las situaciones relativas a adosamientos que no puedan solucionarse de acuerdo a
 
 No serán aplicables a los adosamientos a que se refiere este artículo, las normas sobre rasantes contenidas en ordenanzas locales o especiales.
 
-En los predios de superficie superior a 500 m2 de uso habitacional, como asimismo en predios de cualquier superficie destinadas a otros usos, el Plan Regulador Comunal podrá prohibir los adosamientos.
+En los predios de superficie superior a 500 m2 de uso habitacional, como asimismo en predios de cualquier superficie destinados a otros usos, el Plan Regulador Comunal o Seccional podrá prohibir los adosamientos.
 
 #### Artículo 2
 
 6.3. Con el objeto de asegurar condiciones mínimas de asoleamiento y privacidad, tanto a los habitantes de propiedades vecinas como a sus propios ocupantes, las edificaciones y sus salientes no podrán sobrepasar en ningún punto la superficie de rasante ni ubicarse a menor distancia de los deslindes que las que se indican en el presente artículo.
 
-Para determinar la superficie de rasante se construirá imaginariamente la envolvente de los mantos de cono que se generan por rotación de las rasantes sobre sus puntos de aplicación.
+Para determinar la superficie de rasante se construirá imaginariamente la envolvente de los mantos de cono que se generan por rotación de las rasantes sobre sus puntos de aplicación, los que estarán a nivel del terreno o a los indicados especialmente en este artículo.
 
 Los conos que generan las rasantes al rotar sobre su punto de aplicación son rectos, invertidos y de eje vertical.
 
@@ -1026,7 +1108,7 @@ DE LAS SALIENTES Y DECORACIONES DE LA EDIFICACION
 
 1. Hasta 3 m de altura, medidos en todos y cada uno de los puntos de la línea oficial a partir del nivel de la acera, no se permitirá que ningún cuerpo, fijo o móvil, sobresalga de dicho plano vertical. Se exceptúan las ménsulas cuya saliente podrá comenzar a 2,50 m de altura sobre dicho nivel.
 
-2. El Plan Regulador Comunal podrá permitir que a partir de la altura de los 3 m, existan cuerpos salientes de la línea oficial hasta un ancho de 1,80 m. Así también podrá permitir mayores salientes respecto de marquesinas y toldos.
+2. El Plan Regulador Comunal o Seccional podrá permitir que a partir de la altura de los 3 m existan cuerpos salientes de la línea oficial hasta un ancho de 1,80 m. Así también podrá permitir mayores salientes respecto de marquesinas y toldos.
 
 Para los efectos de la aplicación de la presente norma son cuerpos salientes, entre otros, balcones, marquesinas, cornisas, pisos en volado, vigas, cortinas y toldos.
 
@@ -1034,7 +1116,7 @@ Tratándose de edificación continua, estos cuerpos salientes, excluidas las mar
 
 #### Artículo 2
 
-7.2. Podrá autorizarse la construcción sobre una vía pública, que comunique inmuebles que se enfrenten en ambos costados de la misma, previa concesión otorgada por la Municipalidad correspondiente, siempre que con ello no se afecten negativamente las condiciones físicas y ambientales del entorno según lo defina el Plan Regulador Comunal y, cumpliendo los siguientes requisitos técnicos:
+7.2. Podrá autorizarse la construcción sobre una vía pública, que comunique inmuebles que se enfrenten en ambos costados de la misma, previa concesión otorgada por la Municipalidad correspondiente, siempre que con ello no se afecten negativamente las condiciones físicas y ambientales del entorno según lo defina el Plan Regulador Comunal o Seccional y, cumpliendo los siguientes requisitos técnicos:
 
 1. Que, a lo menos uno de los inmuebles comunicados tenga un frente igual o superior a 40m.
 
@@ -1076,7 +1158,7 @@ Esta misma medida podrá imponerse cuando un lote de terreno sea de menor ancho 
 
 #### Artículo 2
 
-7.10. La colocación de placas, tableros, insignias, carteles y anuncios de cualquier especie en las fachadas, muros medianeros, techos de los edificios, parques, jardines, u otros, se sujetará a las condiciones que exija la Dirección de Obras Municipales y no podrá perjudicar el aspecto decorativo o la estética de los edificios.
+7.10. La colocación de placas, tableros, insignias, carteles y anuncios de cualquier especie en las fachadas, muros medianeros, techos de los edificios, parques, jardines, u otros, se sujetará a las condiciones que exija la autoridad Comunal, y no podrá perjudicar el aspecto decorativo o la estética de los edificios.
 
 ## Título 3
 
@@ -1088,27 +1170,11 @@ DE LOS PERMISOS DE LAS OBRAS Y SUS TRAMITES
 
 #### Artículo 3
 
-1.1. El proceso de subdivisión y urbanización del suelo se origina del crecimiento urbano por extensión y del crecimiento urbano por densificación.
+1.1. La subdivisión, el loteo, el crecimiento urbano por densificación y las aperturas de nuevas vías de tránsito público en subdivisiones o loteos existentes, requerirán de permiso de la Dirección de Obras Municipales.
 
 #### Artículo 3
 
-1.2. Subdivisión del suelo es la gestión que tiene por objeto dividir un predio en lotes, sin que el propietario esté obligado a urbanizar por ser suficientes las obras de urbanización existentes.
-
-#### Artículo 3
-
-1.3. Loteo del suelo esta gestión que tiene por objeto dividir un predio en lotes, estando obligado el propietario a urbanizar, ya sea porque el predio que se lotea carece de urbanización o porque las obras de urbanización existentes son insuficientes.
-
-Igual obligación se genera tratándose de la formación de nuevos barrios y poblaciones, apertura de nuevas vías de tránsito público en subdivisiones o loteos existentes, y en toda gestión que aún cuando solamente implique la ejecución de obras de edificación, conlleve un crecimiento de la densidad de población o edificación del suelo, para el cual resulte insuficiente la urbanización existente.
-
-#### Artículo 3
-
-1.4. Corresponde al Director de Obras Municipales calificar la suficiencia de las obras de urbanización para las gestiones descritas en los artículos 3.1.2 y 3.1.3., pudiendo al efecto oír a los servicios de utilidad pública competentes.
-
-Subdivisiones.
-
-#### Artículo 3
-
-1.5. Para la obtención del permiso, la Dirección de Obras Municipales exigirá que se acompañen los siguientes documentos:
+1.2. Para la obtención de un permiso de subdivisión, el Director de Obras Municipales exigirá que se acompañen los siguientes documentos:
 
 1. Solicitud de subdivisión predial, firmada por el propietario del terreno y por los profesionales competentes.
 
@@ -1122,7 +1188,7 @@ Subdivisiones.
 
 6. Informe de riesgos provenientes de áreas colindantes y/o del mismo terreno, cuando la Dirección de Obras Municipales lo exija por escrito.
 
-7. Plano general de subdivisión a escala no menor a 1:1.000, con curvas de nivel cada 2 m dimensiones de los deslindes del terreno; singularización de los lotes resultantes y sus acotamientos; cuadro de superficies de los lotes resultantes y sus dimensiones; indicación de zonas de restricción y de riesgos que pudieren afectarlo; número de rol de los predios colindantes y otras menciones que se estimen necesarias.
+7. Plano general de subdivisión a escala no menor a 1:1.000, con curvas de nivel cada 2 m; dimensiones de los deslindes del terreno; singularización de los lotes resultantes y sus acotamientos; cuadro de superficies de los lotes resultantes y sus dimensiones; indicación de zonas de restricción y de riesgos que pudieren afectarlo; número de rol de los predios colindantes y otras menciones que estimen necesarias.
 
 8. Plano de ubicación del terreno a escala no inferior a 1:5.000, con indicación de las vías o espacios de uso público existentes en su proximidad y de otros elementos referenciales relevantes del lugar, que faciliten su identificación.
 
@@ -1130,127 +1196,123 @@ Subdivisiones.
 
 Los planos indicados en los números 8. y 9. de este artículo, podrán omitirse si la información correspondiente se incluye en el plano general de subdivisión señalado en el número 7.
 
-Loteos.
+#### Artículo 3
+
+1.3. Podrán someterse a la aprobación del Director de Obras Municipales, anteproyectos de loteos, en cuyo caso deberán acompañarse a la solicitud respectiva los documentos que a continuación se indican:
+
+1. Solicitud de aprobación del anteproyecto de loteo, firmada por el propietario del terreno y por los profesionales competentes.
+
+2. Declaración jurada del propietario de ser titular del dominio del predio.
+
+3. Certificado de informaciones previas.
+
+4. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado para la densidad propuesta, emitido por el Servicio Sanitario regional que corresponda.
+
+5. Plano general del anteproyecto de loteo a escala no menor a 1:1.000, con curvas de nivel cada 1 m, en el que se señalen y singularicen los nuevos lotes y sus acotamientos; se establezcan los trazados de las nuevas vías, sus anchos y los empalmes con vías existentes; se singularicen las áreas verdes y el equipamiento; se indiquen las zonas de restricción o de riesgos que pudieren afectarlo, y otras menciones que se estimen necesarias.
+
+Asimismo, deberá contener, a lo menos, un cuadro con la singularización de los lotes, sus superficies y dimensiones, y un cuadro resumen con los porcentajes de distribución de las superficies correspondientes a las áreas privadas y las de uso público.
+
+6. Plano de ubicación del terreno a escala no inferior a 1:20.000, con indicación de las vías o espacios públicos existentes en su proximidad y de otros elementos referenciales relevantes que faciliten su identificación.
+
+7. Plano a escala 1:200 con los perfiles geométricos de las vías propuestas, debidamente acotados.
+
+Los planos indicados en los números 6. y 7. de este artículo, podrán omitirse si la información correspondiente se incluye en el plano general del anteproyecto del loteo señalado en el número 5.
+
+La aprobación de un anteproyecto será obligatoria tratándose de conjuntos de 300 ó más viviendas, en cuyo caso dicho anteproyecto deberá contemplar, además, la localización y tipología del equipamiento comunitario correspondiente.
+
+Si del estudio del anteproyecto se infiere la factibilidad y conveniencia de desarrollar el loteo propuesto, el Director de Obras Municipales concederá la autorización para desarrollar el proyecto definitivo, señalando al mismo tiempo, en forma escrita, las observaciones que le merecieren y los lineamientos generales a que deberá ajustarse el proyecto definitivo. La autorización concedida por el Director de Obras Municipales, tendrá una vigencia de 180 días contados desde la fecha de la aprobación del anteproyecto.
+
+Las modificaciones que se introduzcan a los Planes Reguladores Comunales o Seccionales, así como también, las postergaciones de permisos de loteo a que se refiere el artículo 117 de la Ley General de Urbanismo y Construcciones, no afectarán las condiciones en que fueron aprobados los anteproyectos, siempre y cuando el permiso sea otorgado dentro de los 90 días siguientes al término del plazo de vigencia de la autorización a que se refiere el inciso anterior.
 
 #### Artículo 3
 
-1.6. Para la obtención del permiso, la Dirección de Obras Municipales exigirá que se acompañen los siguientes documentos:
+1.4. El legajo de antecedentes anexo a la solicitud de proyecto de loteo estará constituido por los siguientes documentos:
 
-1. Anteproyecto
+1. Solicitud de aprobación del proyecto de loteo, firmada por el propietario del terreno y por los profesionales competentes.
 
-a) Solicitud de aprobación del anteproyecto de loteo, firmada por el propietario del terreno y por los profesionales competentes.
+2. Declaración jurada del propietario de ser titular del dominio del predio.
 
-b) Declaración jurada del propietario de ser titular del dominio del predio.
+3. Certificado de avalúo fiscal vigente.
 
-c) Certificado avalúo fiscal vigente o fotocopia autorizada ante notario del boletín de pago de contribuciones cancelado, correspondiente al último trimestre.
+4. Certificado de informaciones previas, o copia de él si cuenta con anteproyecto aprobado.
 
-d) Certificado de informaciones previas.
+5. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado para la densidad propuesta, emitido por el Servicio Sanitario regional que corresponda, o copia de él si cuenta con anteproyecto aprobado.
 
-e) Certificado de factibilidad de dación de servicios de agua potable y alcantarillado para la densidad propuesta, emitido por el Servicio Sanitario regional que corresponda.
+6. Memoria explicativa que permita tener una visión global del proyecto, cuando el Director de Obras Municipales lo exija por escrito.
 
-f) Informe de riesgos provenientes de áreas colindantes y/o del mismo terreno, cuando la Dirección de Obras Municipales lo exija por escrito.
+7. Informe de riesgos provenientes de áreas colindantes y/o del mismo terreno, cuando el Director de Obras Municipales lo exija por escrito.
 
-g) Memoria explicativa que permita tener una visión global del proyecto, cuando la Dirección de Obras Municipales lo exija por escrito.
+8. Anteproyecto de loteo aprobado, cuando corresponda.
 
-h) Plano general del anteproyecto de loteo a escala no menor a 1:2.000, con curvas de nivel cada 2m, en el que se señalen y singularicen los nuevos lotes y sus acotamientos; se establezcan los trazados de las nuevas vías, sus anchos y los empalmes con vías existentes; se singularicen las áreas verdes y de equipamiento; se indiquen las zonas de restricción o de riesgos que pudieren afectarlo. Asimismo, deberá contener, entre otras menciones, un cuadro con la singularización de los lotes, sus superficies y dimensiones, y, un Cuadro Resumen con los porcentajes de distribución de las superficies correspondientes a las áreas privadas y las de uso público.
+9. Planos con los proyectos de la urbanización, debidamente firmados por los profesionales competentes, correspondientes a redes de agua potable y alcantarillado; de pavimentación y sus obras complementarias; de las plantaciones y obras de ornato; y de obras de defensa del terreno, cuando corresponda.
 
-i) Plano de ubicación del terreno a escala no inferior a 1:5.000, con indicación de las vías o espacios públicos existentes en su proximidad y de otros elementos referenciales relevantes que, faciliten su identificación.
+Deberán adjuntarse sus memorias explicativas y especificaciones técnicas.
 
-j) Plano escala 1:200 con los perfiles geométricos de las vías propuestas, debidamente acotados.
+El Director de Obras Municipales al exigir el informe mencionado en el número 7. de este artículo, podrá solicitar que los proyectos de urbanización que sean afectados por esas áreas de riegos, cuenten con la aprobación previa de los organismos competentes.
 
-k) Cuando el anteproyecto contemple la modificación de cursos de agua o de redes de alta tensión, entre otros, deberán acompañarse los informes favorables de los organismos técnicos o servicios competentes.
+#### Artículo 3
 
-Los planos indicados en las letras i) y j) de este artículo, podrán omitirse si la información correspondiente se incluye en el plano general del anteproyecto del loteo señalado en la letra h).
+1.5. Cuando se proyecte incrementar la densidad de ocupación del suelo mediante la ejecución de una obra de edificación nueva o de ampliación de una existente, originando crecimiento urbano por densificación, y, previa calificación del Director de Obras Municipales, fuere necesario reforzar la urbanización periférica existente, para satisfacer los requerimientos de la nueva densidad propuesta, deberán acompañarse los siguientes antecedentes:
 
-Si del estudio del anteproyecto se infiere la factibilidad y conveniencia de desarrollar el loteo propuesto, la Dirección de Obras Municipales concederá la autorización para desarrollar el proyecto definitivo, señalando al mismo tiempo, en forma escrita, las observaciones que le merecieren y los lineamientos generales a que deberá ajustarse el proyecto definitivo. La autorización concedida por la Dirección de Obras Municipales, tendrá una vigencia de 180 días contados desde la fecha de la resolución que apruebe el anteproyecto.
+1. Solicitud de permiso de ampliación de la capacidad de las obras de urbanización, firmada por el propietario del terreno afecto y los profesionales competentes.
 
-Las modificaciones que se introduzcan a los Planes Reguladores Comunales o Seccionales, así como también las postergaciones de permisos de loteo a que se refiere el artículo 117 de la Ley General de Urbanismo y Construcciones, no afectarán las condiciones en que fueron aprobados los anteproyectos, siempre y cuando, el permiso sea otorgado dentro de los 90 días siguientes al término del plazo de vigencia de la autorización a que se refiere el inciso anterior.
+2. Declaración jurada del propietario de ser titular del dominio del predio.
 
-2. Proyecto definitivo
+3. Certificado de informaciones previas.
 
-a) Solicitud de aprobación del proyecto definitivo de loteo, firmada por el propietario del terreno y por los profesionales competentes.
+4. Memoria explicativa que deberá contener los antecedentes esenciales que permitan tener una visión global del proyecto de edificación que se pretende desarrollar y su impacto sobre la urbanización existente por el aumento de la densidad prevista, cuando el Director de Obras Municipales lo exija por escrito.
 
-b) Declaración jurada del propietario de ser titular del dominio del predio.
+5. Plano de ubicación del terreno a escala no inferior a 1:1.000, con indicación de las vías o espacios de uso público existentes en su proximidad y de otros elementos referenciales relevantes que faciliten su identificación, pudiéndose incorporar en el anteproyecto de edificación o ampliación.
 
-c) Certificado de avalúo fiscal vigente o fotocopia autorizada ante notario del boletín de pago de contribuciones debidamente cancelado, correspondiente al último trimestre.
+6. plano de anteproyecto de la edificación o ampliación, cuando corresponda, debidamente aprobado por el Director de Obras Municipales.
 
-d) Copia del certificado de informaciones previas.
+7. Planos con los proyectos de reforzamiento de la urbanización existente, debidamente firmados por los profesionales competentes, correspondientes a redes de agua potable y alcantarillado, redes de electrificación, alumbrado público, y de gas; redes de telecomunicaciones, cuando corresponda; de pavimentación y sus obras complementarias; de las plantaciones y obras de ornato; y de obras de defensa del terreno, cuando corresponda.
 
-e) Copia del certificado de dación de servicios de agua potable y alcantarillado para la densidad propuesta, emitido por el Servicio Sanitario regional que corresponda.
+Deberán adjuntarse sus memorias explicativas y especificaciones técnicas.
 
-f) Plano general del loteo, plano de ubicación y plano de perfiles geométricos de las vías propuestas, conforme a las mismas exigencias establecidas para el anteproyecto.
+#### Artículo 3
 
-g) Planos con los proyectos definitivos de la urbanización debidamente aprobados por las instituciones o servicios competentes, correspondiente a redes de agua potable y alcantarillado; redes de electrificación, alumbrado público, y de gas; redes de telecomunicaciones, cuando corresponda; de pavimentación y sus obras complementarias; de defensa del terreno; de las plantaciones y obras de ornato. Deberán adjuntarse sus memorias explicativas y especificaciones técnicas.
+1.6. Para la obtención del permiso para aperturas de nuevas vías de tránsito público en subdivisiones o loteos existentes, el Director de Obras Municipales exigirá que se acompañen los siguientes documentos:
 
-h) Planos complementarios de urbanización debidamente aprobados por las instituciones competentes cuando se trate de modificaciones, entre otros, de los cursos de agua, de las redes de alta tensión.
+1. Solicitud firmada por los propietarios de los terrenos afectados y los profesionales competentes.
+
+2. Declaración jurada de todos los propietarios de ser titulares del dominio del o de los predios.
+
+3. Certificado de informaciones previas.
+
+4. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, para la densidad propuesta, cuando corresponda.
+
+5. Memoria explicativa que señale los objetivos, los antecedentes esenciales y el impacto que la apertura de la vía significará para el entorno, cuando el Director de Obras Municipales lo exija por escrito.
+
+6. Plano de ubicación de la manzana afectada por la apertura de una vía, a escala no inferior a 1:2.000, pudiendo omitirse si se incorpora esta información en el plano general.
+
+7. Plano general a escala no menor de 1:1.000 con trazado de la nueva vía y sus dimensiones, con curvas de nivel cada 1 m; longitudes máximas con respecto a las vías públicas más próximas; perfiles geométricos debidamente acotados; cuadro con superficies afectadas de cada predio.
+
+8. Planos con los proyectos definitivos de urbanización, debidamente firmados por los profesionales competentes, correspondientes a las redes de agua potable y alcantarillado; redes de electrificación, alumbrado público y de gas; redes de telecomunicaciones, cuando corresponda; de pavimentación y sus obras complementarias; de las plantaciones y obras de ornato; y de obras de defensa del terreno, cuando corresponda.
+
+Deberán adjuntarse sus memorias explicativas y especificaciones técnicas.
 
 Crecimiento urbano por densificación
 
 #### Artículo 3
 
-1.7. Cuando se proyecte incrementar la densidad de ocupación del suelo mediante la ejecución de una obra de edificación o de ampliación, sin que haya subdivisión predial, pero siendo necesario reforzar la urbanización periférica existente para satisfacer los requerimientos de la nueva densidad propuesta, deberán acompañarse los siguientes antecedentes:
-
-1. Solicitud de permiso de ampliación de la capacidad de la obras de urbanización, firmada por el propietario del terreno afecto y los profesionales competentes.
-
-2. Declaración jurada del propietario de ser titular del dominio del predio.
-
-3. Certificado de avalúo fiscal vigente o fotocopia autorizada ante notario del boletín de pago de contribuciones debidamente cancelado, correspondiente
-
-al último trimestre.
-
-4. Certificados de informaciones previas.
-
-5. Memoria explicativa que deberá contener los antecedentes esenciales que permitan tener una visión global del proyecto de edificación que se pretende desarrollar y su impacto sobre la urbanización preexistente por el aumento de la densidad prevista,cuando la Dirección de Obras Municipales lo exija por
-
-escrito.
-
-6. Plano de ubicación del terreno a escala no inferior a 1: 1.000, con indicación de las vías o espacios de uso público existentes en su proximidad y de otros elementos referenciales relevantes que faciliten su identificación pudiéndose incorporar en el anteproyecto de edificación o ampliación.
-
-7. Plano de anteproyecto de la edificación o ampliación,debidamente aprobado por la Dirección de Obras Municipales.
-
-8. Planos con proyecto de reforzamiento de la urbanización existente, debidamente aprobados por las instituciones o servicios competentes, correspondientes a redes de agua potable y alcantarillado; redes de electrificación, alumbrado público, y de gas; redes de telecomunicaciones, cuando corresponda; de la pavimentación y sus obras complementarias; de las obras de defensa del terreno; de las plantaciones y obras de ornato; según sea el caso. Deberán adjuntarse las memorias explicativas y especificaciones técnicas.
-
-Aperturas de nuevas vías de tránsito público en subdivisiones o loteos existentes.
-
-#### Artículo 3
-
-1.8. Para la obtención del permiso, la Dirección de Obras Municipales exigirá que se acompañen los siguientes documentos:
-
-1. Solicitud de aprobación de permiso de urbanización, firmada por los propietarios de los terrenos afectados y los profesionales competentes.
-
-2. Declaración jurada de todos los propietarios de ser titulares del dominio del o de los predios.
-
-3. Certificados de avalúo fiscal vigente o fotocopia autorizada ante notario de los boletines de pago de contribuciones cancelada correspondiente al último trimestre, de todos los predios afectados.
-
-4. Certificado de informaciones previas.
-
-5. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, para la densidad propuesta, cuando corresponda.
-
-6. Memoria explicativa que señale los objetivos, los antecedentes esenciales y el impacto que la apertura de la vía significará para el entorno, cuando la Dirección de Obras Municipales lo exija por escrito.
-
-7. Plano de ubicación de la manzana afectada por la apertura de una vía, a escala no inferior a 1:2.000, pudiendo omitirse si se incorpora esta información en el plano general.
-
-8. Plano general a escala no menor de 1:1.000 con trazado de la nueva vía y sus dimensiones, con curvas de nivel cada 2m; longitudes máximas con respecto a las vías públicas más próximas; perfiles geométricos debidamente acotados; cuadro con superficies afectadas de cada predio.
-
-9. Planos con los proyectos definitivos de urbanización, debidamente aprobados por las instituciones o servicios competentes, correspondientes a las redes de agua potable y alcantarillado; redes de electrificación, alumbrado público y de gas; redes de telecomunicaciones, cuando corresponda; de pavimentación y sus obras complementarias; de defensa del terreno; de las plantaciones y obras de ornato. Deberán adjuntarse sus memorias explicativas y especificaciones técnicas.
-
-#### Artículo 3
-
-1.9. Las acciones a que se refiere el artículo anterior en terrenos ubicados fuera del radio urbano establecido por un instrumento de planificación territorial, deberán cumplir con lo dispuesto en los artículos 55 y 56 de la Ley General de Urbanismo y Construcciones, debiendo elevarse todos los antecedentes exigidos a la Secretaría Regional del Ministerio de Agricultura que corresponda, la que, junto con aprobar el cambio de uso de suelo, podrá autorizar la actuación requerida, previo informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo, la cual señalará el grado mínimo de urbanización que corresponde.
+1.7. El proceso de subdivisión y urbanización del suelo en terrenos ubicados fuera del radio urbano establecido por un instrumento de planificacíon territorial, deberá cumplir con lo dispuesto en los artículos 55 y 56 de la Ley General de Urbanismo y Construcciones, debiendo elevarse todos los antecedentes exigidos a la Secretaría Regional del Ministerio de Agricultura que corresponda, la que, junto con aprobar el cambio de uso de suelo, podrá autorizar la actuación requerida, previo informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo, la cual señalará el grado mínimo de urbanización que corresponde.
 
 El proyecto definitivo, requerirá de los respectivos permisos de la Dirección de Obras Municipales, en conformidad a lo preceptuado en los artículos 55 y 116 de la Ley General de Urbanismo y Construcciones.
 
 Cuando las acciones a que se refiere este artículo tengan el propósito de establecer o habilitar balnearios o campamentos turísticos, los municipios, a través de sus ordenanzas municipales, podrán determinar condiciones especiales para su óptimo funcionamiento en cuanto a su accesibilidad, salubridad, orden y seguridad.
 
-#### Artículo 3
-
-1.10. El Director de Obras Municipales concederá el permiso respectivo una vez que haya comprobado que los antecedentes acompañados a la solicitud, cumplan con las disposiciones contenidas en el instrumento de planificación territorial que corresponda con la Ley General de Urbanismo y Construcciones y, con la presente Ordenanza, previo pago de los derechos que procedan.
-
-Las solicitudes de permisos para las acciones a que se refiere el presente Capítulo, deberán ser resueltas por las Direcciones de Obras Municipales en el plazo máximo de 15 días, excepto tratándose de subdivisiones en cuyo caso dicho plazo será de 15 días, debiendo otorgarse el permiso respectivo dentro de los 3 días hábiles siguientes a aquel en que se efectuó el pago de los derechos, y caducarán a los tres años de concedidos.
+Aperturas de nuevas vías de tránsito público en subdivisiones o loteos existentes.
 
 #### Artículo 3
 
-1.11. Si después de concedido el permiso correspondiente y antes de la recepción definitiva de las obras, hubiere necesidad de introducir cambios que no signifiquen, a juicio de la Dirección de Obras Municipales, una alteración al proyecto inicialmente concebido y ya aprobado o a las obras respectivas, se elevará y tramitará la correspondiente solicitud, adjuntando los antecedentes y planos complementarios exigidos por la Dirección de Obras Municipales. Una vez aprobado el cambio solicitado, los antecedentes serán agregados al legajo original del proyecto.
+1.8. El Director de Obras Municipales concederá el permiso respectivo una vez que haya comprobado que los antecedentes acompañados a la solicitud , cumplan con las disposiciones contenidas en el instrumento de planificación territorial que corresponda, con la Ley General de Urbanismo y Construcciones y, con la presente Ordenanza, previo pago de los derechos que procedan.
+
+Las solicitudes de permisos para las acciones a que se refiere el presente Capítulo, deberán ser resueltas por los Directores de Obras Municipales en el plazo máximo de 15 días, debiendo otorgarse el permiso respectivo dentro de los 3 días hábiles siguientes a aquél en que se efectuó el pago de los derechos, y caducarán a los tres años de concedidos.
+
+#### Artículo 3
+
+1.9. Si después de concedido el permiso correspondiente y antes de la recepción definitiva de las obras, hubiere necesidad de introducir cambios que no signifiquen, a juicio del Director de Obras Municipales, una alteración al proyecto inicialmente concebido y ya aprobado o a las obras respectivas, se elevará y tramitará la correspondiente solicitud, adjuntando los antecedentes y planos complementarios exigidos por el Director de Obras Municipales. Una vez aprobado el cambio solicitado, los antecedentes serán agregados al legajo original del proyecto.
 
 ## Capítulo 2.
 
@@ -1288,7 +1350,7 @@ De la pavimentación y sus obras complementarias.
 
 La naturaleza de los pavimentos de las calzadas y aceras y sus respectivos anchos, los determinará en definitiva el Servicio Regional de Vivienda y Urbanización (SERVIU), o la Municipalidad de Santiago en su territorio jurisdiccional.
 
-No obstante, el ancho mínimo exigible para las calzadas y aceras de los distintos tipos de vías, no podrá ser inferior al que se indica para cada caso, en la tabla siguiente:
+No obstante, el ancho mínimo exigible para los pavimentos de las calzadas y aceras de los distintos tipos de vías, no podrá ser inferior al que se indica para cada caso en la tabla siguiente:
 
 DESPLAZAMIENTO TIPO DE VIA CALZADA ARCERA
 
@@ -1426,7 +1488,7 @@ DE LA RECEPCION DE LAS OBRAS, Y SUS TRANSFERENCIAS E INSCRIPCIONES
 
 #### Artículo 3
 
-4.1. Terminadas todas las obras que contempla un proyecto aprobado o parte de él que pueda habilitarse independientemente, se solicitará la recepción definitiva total o parcial a la Dirección de Obras Municipales. Para estos efectos, el urbanizador deberá presentar los siguientes antecedentes, según sea el caso:
+4.1. Terminadas todas las obras que contempla un proyecto aprobado o parte de él que pueda habilitarse independientemente, se solicitará la recepción definitiva total o parcial al Director de Obras Municipales. Para estos efectos, el urbanizador deberá presentar los planos aprobados por los Servicios competentes, y los siguientes antecedentes, según sea el caso:
 
 1. Solicitud de recepción definitiva total o parcial de las obras de urbanización, firmada por el urbanizador de los terrenos y el profesional competente.
 
@@ -1441,6 +1503,8 @@ DE LA RECEPCION DE LAS OBRAS, Y SUS TRANSFERENCIAS E INSCRIPCIONES
 6. Certificado de ejecución de las redes de telecomunicaciones y sus obras complementarias, emitido por la empresa concesionaria de servicio público de telecomunicaciones que corresponda, cuando proceda.
 
 7. Certificado de ejecución de las plantaciones y obras de ornato, emitido por la municipalidad respectiva.
+
+8. Planos y certificados de ejecución de las obras complementarias de urbanización, emitidos por las instituciones competentes, cuando se trate de modificaciones de los cursos de agua o de las redes de alta tensión, entre otras.
 
 #### Artículo 3
 
@@ -1460,7 +1524,7 @@ DE LA RECEPCION DE LAS OBRAS, Y SUS TRANSFERENCIAS E INSCRIPCIONES
 
 #### Artículo 3
 
-4.6. Por el solo hecho de emitirse por parte de la Dirección de Obras Municipales el correspondiente certificado de recepción definitiva total o parcial, quedarán incorporadas al dominio nacional de uso público, las superficies cedidas gratuitamente en conformidad a lo previsto en el artículo 70 de la Ley General de Urbanismo y Construcciones correspondientes a las vías de tránsito público y áreas verdes, y al dominio municipal, las superficies correspondientes a equipamiento.
+4.6. Por el solo hecho de emitirse por parte del Director de Obras Municipales el correspondiente certificado de recepción definitiva total o parcial, quedarán incorporadas al dominio nacional de uso público las superficies cedidas gratuitamente, en conformidad a lo previsto en el artículo 70 de la Ley General de Urbanismo y Construcciones, corespondientes a las vías de tránsito público y áreas verdes de uso público.
 
 #### Artículo 3
 
@@ -1602,7 +1666,7 @@ Las disposiciones contenidas en el presente Capítulo persiguen como objetivo fu
 
 No obstante lo dispuesto en el inciso anterior, habrá un «Listado Oficial de Comportamiento al Fuego», confeccionado por el Ministerio de Vivienda y Urbanismo, o por la entidad que éste determine, en el cual se registrarán, mediante valores representativos, las cualidades frente a la acción del fuego de los materiales, elementos y componentes utilizados en la actividad de la construcción.
 
-Las características de comportamiento al fuego de los materiales elementos y componentes utilizados en la construcción, exigidas expresamente en esta Ordenanza, que no se encuentren incluidas en el Listado Oficial de Comportamiento al Fuego, deberán acreditarse sólo mediante el certificado de ensaye correspondiente emitido por alguna institución oficial de control técnico de calidad de los materiales.
+Las características de comportamiento al fuego de los materiales, elementos y componentes utilizados en la construcción, exigidas expresamente en esta Ordenanza, que no se encuentren incluidas en el Listado Oficial de Comportamiento al Fuego, deberán acreditarse sólo mediante el certificado de ensaye correspondiente emitido por alguna institución oficial de control técnico de calidad de los materiales.
 
 Si al solicitarse un permiso de edificación, alguno de los elementos de construcción de un proyecto no figura en el Listado Oficial de Comportamiento al Fuego, el Director de Obras Municipales deberá considerar si dicho elemento tiene un comportamiento similar a otro del mismo listado. Si así fuere, lo aceptará. En caso contrario exigirá al interesado la presentación de la certificación del ensaye de laboratorio correspondiente o la inscripción en el Listado Oficial de Comportamiento al Fuego, en forma previa al otorgamiento del permiso.
 
@@ -1878,7 +1942,7 @@ Sin perjuicio de los requisitos específicos que establezcan las normas técnica
 
 1. La distancia máxima desde la puerta de acceso de un departamento u oficina, hasta el ingreso a una zona vertical de seguridad del mismo piso será de 38 m.
 
-2. El diseño, construcción y terminaciones de las zonas verticales de seguridad y su continuidad hasta el egreso al exterior, a nivel de la calle, deben garantizar una resistencia al fuego correspondiente a la que se indica en la tabla del artículo 4.3.3 y facilitar el ingreso y desplazamiento del personal de bomberos con su material, en caso de incendio.
+2. El diseño, construcción y terminaciones de las zonas verticales de seguridad y su continuidad hasta el egreso al exterior, a nivel de la calle, deben garantizar una resistencia al fuego correspondiente a la que se indica en la tabla del artículo 4.3.3. y facilitar el ingreso y desplazamiento del personal de bomberos con su material, en caso de incendio.
 
 3. Las zonas verticales de seguridad, deben estar dotadas de sistemas de iluminación y de ventilación, que permitan a los usuarios desplazarse y evacuar el edificio, sin peligro de verse afectados por los humos y gases generados por el incendio, aún cuando el suministro normal de energía eléctrica sea interrumpido.
 
@@ -2808,7 +2872,7 @@ b) Las normas establecidas para este tipo de construcciones por la Dirección Ge
 
 c) Las normas que dicte el Ministerio de Vivienda y Urbanismo cuando no existan las anteriores.
 
-d) Graderías: Los asientos de las graderías deberán considerar una distancia mínima entre el respaldo de 0.75 m y un ancho mínimo de 0.50 m.
+d) Graderías: Los asientos de las graderías deberán considerar una distancia mínima entre respaldos de 0.75 m y un ancho mínimo de 0.50 m.
 
 e) Estos recintos deberán considerar espacios e instalaciones para minusválidos en estacionamientos, baños, circulaciones y graderías, de acuerdo a lo establecido en esta Ordenanza.
 
@@ -2960,7 +3024,7 @@ La altura libre para cada piso no será inferior a 2,20 m.
 
 #### Artículo 4
 
-11.3. En los edificios de estacionamiento no podrán existir más habitaciones que las destinadas al cuidador, las que deberán contar con acceso fácil a la calle.
+11.3. Los edificios de estacionamiento podrán consultar recintos destinados a otros usos, asegurando la independencia de las distintas actividades.
 
 #### Artículo 4
 
@@ -3068,7 +3132,7 @@ ESTABLECIMIENTOS INDUSTRIALES O DE BODEGAJE
 
 #### Artículo 4
 
-14.1. Los establecimientos industriales o de bodegaje se clasificarán para efectos de su respectiva patente y ubicación.
+14.1. Los establecimientos industriales o de bodegaje se clasificarán según su rubro o giro de actividad para los efectos de la respectiva patente.
 
 #### Artículo 4
 
@@ -3118,7 +3182,7 @@ Asimismo cuando en un inmueble se consulten recintos o locales destinados a esto
 
 #### Artículo 4
 
-14.9. Ningún establecimiento industrial podrá establecer faenas en subterráneos o pisos bajo el nivel de las calles, a menos que los locales correspondientes cumplan con las condiciones establecidas para los locales habitables en el Título 4 Capítulo 1 y 3 de esta Ordenanza.
+14.9. Los establecimientos industriales podrán consultar faenas en subterráneos o pisos bajo el nivel de las calles, siempre que los locales correspondientes cumplan con las condiciones exigidas para los locales habitables en el Título 4 Capítulos 1 y 3 de esta Ordenanza.
 
 #### Artículo 4
 
@@ -3168,21 +3232,21 @@ DE LOS PERMISOS DE EDIFICACION Y SUS TRAMITES
 
 #### Artículo 5
 
-1.1. Todo el que desee construir un edificio, reconstruir, alterar, reparar, demoler elementos importantes, ejecutar obras menores, variar el destino de un edificio existente o modificar sus instalaciones interiores, deberá solicitar la autorización de la Dirección de Obras Municipales respectiva.
+1.1. Todo el que desee construir un edificio, reconstruir, alterar, reparar, demoler elementos importantes, ejecutar obras menores, variar el destino de un edificio existente o modificar sus instalaciones interiores, deberá solicitar permiso del Director de Obras Municipales respectivo.
 
-Tratándose de cambios de destino de todo o parte de una edificación existente, ésta deberá cumplir con las normas sobre seguridad, salubridad y estacionamiento, que para el nuevo uso señale la presente Ordenanza y el instrumento de planificación territorial respectivo.
-
-Con anterioridad a la solicitud de permiso de edificación, los proyectistas deberán pedir las exigencias de urbanización que rigen para el sector en que esté ubicado el predio; las informaciones previas que regulan las edificaciones y la numeración correspondiente. Acompañarán un plano o croquis de ubicación a escala 1:500, que señale la posición relativa de la obra respecto de los terrenos colindantes, calles o plazas, con indicación de las edificaciones existentes en los predios colindantes.
+Con anterioridad a la solicitud de permiso de edificación, los proyectistas deberán solicitar las informaciones previas que regulan las exigencias de urbanización que rijen para el sector en que esté ubicado el predio, las de edificación, la numeración, y otras que sean necesarias para desarrollar el proyecto. Acompañarán un plano o croquis de ubicación a escala 1:500, que señale la posición relativa de la obra respecto de los terrenos colindantes, calles o plazas, con indicación de las edificaciones existentes en los predios colindantes.
 
 Se otorgará permiso para alterar un edificio, si cumple con los siguientes requisitos:
 
-- Que la alteración, aisladamente considerada, cumpla con todas las exigencias de la presentes Ordenanza.
+-Que la alteración, aisladamente considerada, cumpla con todas las exigencias de la presente Ordenanza.
 
-- Que la seguridad sísmica del edificio no sea desmejorada con relación a la existente antes de la alteración.
+-Que la seguridad sísmica del edificio no sea desmejorada con relación a la existente antes de la alteración.
+
+Tratándose de cambios de destino de todo o parte de una edificación existente, ésta deberá cumplir con las normas sobre seguridad, salubridad y estacionamientos, que para el nuevo uso señale la presente Ordenanza y el instrumento de planificación territorial respectivo.
 
 #### Artículo 5
 
-1.2. El permiso no es necesario cuando se trata de construcciones interiores de carácter ligero, como pabellones de jardín, garitas y, en general, pequeños locales aislados que sólo requieren cimientos superficiales, o bien cuando se trata de obras de mantención de escasa importancia en edificios existentes.
+1.2. El permiso no es necesario cuando se trata de construcciones interiores de carácter ligero, como pabellones de jardín, garitas y, en general, pequeños locales aislados que sólo requieren cimientos superficiales, o bien cuando se trate de obras de mantención de escasa importancia en edificios existentes.
 
 #### Artículo 5
 
@@ -3190,137 +3254,131 @@ Se otorgará permiso para alterar un edificio, si cumple con los siguientes requ
 
 Dichos formularios se confeccionarán de acuerdo con las instrucciones que imparta la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo.
 
-De un modo general, los planos se presentarán en formato plegable al formato de oficio. En los dibujos de las plantas, secciones verticales y fachadas se empleará la escala 1:50. Si la planta del edificio tiene una longitud mayor de 50 m dicha escala podrá ser 1:100. En caso justificado, cuando tenga dimensiones aún mayores, el Director de Obras Municipales podrá autorizar planos a escala 1:200.
+#### Artículo 5
 
-El legajo de antecedentes anexos a la solicitud de permiso estará constituido por los siguientes documentos en duplicado:
+1.4. Cuando se trate de obras o de instalaciones que requieran la aprobación o intervención de otras reparticiones públicas, será obligación del interesado acompañar la autorización o los certificados de factibilidad de dación del servicio que corresponda otorgado por la institución competente.
+
+#### Artículo 5
+
+1.5. Podrán someterse a la aprobación del Director de Obras Municipales, anteproyectos de obras de construcción, en cuyo caso deberán acompañarse a la solicitud respectiva los siguientes documentos y planos a escala:
 
 1. Certificado de informaciones previas.
 
-2. Certificado de factibilidad de dación de agua potable y alcantarillado, cuando corresponda.
+2. Plano de ubicación, que señale la posición relativa de la obra respecto de los terrenos colindantes, y/o de calles y/o de plazas.
 
-3. Certificado de urbanización, cuando corresponda
+3. Plano de planta, en que aparezca la silueta del edificio en sus partes más salientes, debidamente acotada y con indicación de sus distancias hacia los deslindes respectivos.
 
-4. Plano de ubicación, definido en el artículo 5.1.1.
+4. Siluetas de todas las elevaciones del edificio que sean necesarias para definirlo adecuadamente, donde se visualicen los puntos más salientes de la construcción, los deslindes prediales, los ángulos de rasantes aplicables y el acotamiento de alturas y distancias a los deslindes.
 
-5. Plano de emplazamiento de la edificación dentro del predio, con acotamiento de las dimensiones principales de su silueta, distanciamientos a línea oficial y deslindes, longitud de los deslindes comunes con los vecinos.
+El Director de Obras Municipales deberá emitir su pronunciamiento dentro del plazo máximo de 15 días contados desde el requerimiento, el que deberá recaer sobre la normativa urbanística establecida para las zonas respectivas en los instrumentos de planificación territorial.
 
-6. Planos de arquitectura: planta general de cada piso o conjunto de pisos iguales de la construcción, elevaciones, cortes verticales fundamentales; todos, debidamente acotados.
-
-7. Cuadro detallado de la superficie construida, según artículo 5.1.5.
-
-8. Especificaciones técnicas resumidas, que incluyen todas las partidas contenidas en el proyecto.
-
-9. Cálculo de estabilidad de la construcción de acuerdo a lo señalado en el artículo 5.1.10., cuando corresponda.
-
-10. Plano de cierro definitivo, cuando corresponda.
-
-11. Presupuesto global, cuando corresponda.
-
-12. Hojas de estadística de la edificación.
-
-Tratándose de alteraciones, reconstrucciones y reparaciones, los planos comprenderán tanto las partes nuevas como las secciones afectadas del edificio existente, a fin de poder verificar sus condiciones futuras de seguridad y salubridad.
-
-#### Artículo 5
-
-1.4. Para la aplicación del coeficiente de constructibilidad, se contabilizarán todos los recintos que sobresalgan total o parcialmente del terreno adyacente definitivo.
-
-Para la aplicación del coeficiente de ocupación del suelo, la superficie edificada se determinará por la proyección del edificio sobre el terreno, descontándose el 100% de la proyección de aleros, balcones y cubiertas en voladizo, entre otras. Las terrazas y pavimentos no se contabilizarán. Tampoco se contabilizarán los cobertizos ni otras construcciones ligeras cubiertas y lateralmente abiertas, siempre que no excedan del 10% de la superficie del terreno. El exceso sobre dicho porcentaje se contabilizará en un 50%.
-
-#### Artículo 5
-
-1.5. La superficie total construida de cualquier edificio o unidad de vivienda, oficina, local, entre otros, será el resultado de sumar las siguientes superficies parciales:
-
-1. El 100% de la superficie interior cubierta y lateralmente cerrada en forma total, medida en obra gruesa por el perímetro exterior de la edificación.
-
-En el caso de edificaciones pareadas o continuas acogidas o no a la Ley de Propiedad Horizontal, se medirá por el eje de los muros medianeros, inclusive los que deslindan con los espacios comunes.
-
-En el caso de muros inclinados, la superficie será el área cerrada por una altura de 1,60 m, medida en forma perpendicular al respectivo piso terminado.
-
-En el caso de escaleras, se descontará la superficie correspondiente a la escotilla por una sola vez.
-
-2. El 50% de la superficie cubierta y lateralmente abierta por 1 lado; o abierta por 2 lados convergentes a un pilar.
-
-3. El 100% de la parte que proporcionalmente corresponde al respectivo departamento, oficina o local de un edificio, en el prorrateo de la superficie edificada, que es bien común según el artículo 111 de la Ley General de Urbanismo y Construcciones, siempre que esa parte sea igual o superior al 20% de la superficie del respectivo departamento, oficina o local. En los casos en que dicho porcentaje no exceda ese 20%, la parte que le corresponde al respectivo departamento, oficina o local no será computada.
-
-Tampoco se computará la superficie cubierta y lateralmente abierta por 2 o más lados contiguos y sin ningún pilar en esta superficie ni en el perímetro de los lados abiertos; o descubierta en más de un 50% de la superficie y lateralmente abierta por uno o más lados.
-
-#### Artículo 5
-
-1.6. Cuando se trate de obras o de instalaciones que requieran la aprobación o intervención de otras reparticiones públicas, será obligación del interesado acompañar la autorización o los certificados de factibilidad de dación del servicio que corresponda otorgado por la institución competente.
-
-#### Artículo 5
-
-1.7. Podrán someterse a la aprobación de la Dirección de Obras Municipales, anteproyectos de obras de construcción, en cuyo caso deberán acompañarse a la solicitud respectiva los siguientes planos a escala, suscritos por el propietario:
-
-1. Plano de ubicación, que señale la posición relativa de la obra respecto de los terrenos colindantes, y/o de calles y/o de plazas.
-
-2. Plano de planta, en que aparezca la silueta del edificio en sus partes más salientes, debidamente acotada y con indicación de sus distancias hacia los deslindes respectivos.
-
-3. Siluetas de todas las elevaciones del edificio que sean necesarias para definirlo adecuadamente, donde se visualicen los puntos más salientes de la construcción, los deslindes prediales, los ángulos de rasantes aplicables y el acotamiento de alturas y distancias a los deslindes.
-
-La Dirección de Obras Municipales deberá emitir su pronunciamiento dentro del plazo máximo de 15 días contados desde el requerimiento, el que deberá recaer sobre la normativa urbanística establecida para las zonas respectivas en los instrumentos de planificación territorial, sin perjuicio de lo señalado en la presente Ordenanza respecto de estas mismas materias.
-
-Los anteproyectos aprobados tendrán una vigencia de 180 días contados desde la fecha que se certifique su aprobación y las normas relativas a los aspectos a que se refiere el inciso anterior, vigentes al momento de aprobarse un anteproyecto serán válidas para los proyectos definitivos, siempre que se otorgue el permiso respectivo dentro de los 90 días siguientes al término del plazo de vigencia del respectivo anteproyecto.
+Los anteproyectos aprobados tendrán una vigencia de 180 días contados desde la fecha que se certifique su aprobación y las normas relativas a los aspectos a que se refiere el inciso anterior, vigente al momento de aprobarse un anteproyecto, serán válidas para los proyectos definitivos, siempre que se otorgue el permiso respectivo dentro de los 90 días siguientes al término del plazo de vigencia del respectivo anteproyecto.
 
 Las postergaciones de permisos de construcción a que se refiere el artículo 117 de la Ley General de Urbanismo y Construcciones, no afectarán a los anteproyectos aprobados con anterioridad a la postergación, siempre que se cumplan las condiciones señaladas en el inciso anterior.
 
 #### Artículo 5
 
-1.8. Los planos señalarán el destino de cada local, las cotas de los distintos niveles y las medidas necesarias para definir los diversos elementos, tales como, dimensiones del terreno y de los locales y patios, espesor de los muros, alturas, secciones de las vigas, pilares.
+1.6. A la solicitud de permiso de edificación se acompañarán los siguientes documentos:
 
-En caso de alteraciones, reconstrucciones y reparaciones, se indicarán con líneas convencionales las partes no afectadas, las partes nuevas y las que deben demolerse.
+1. Certificado de informaciones previas.
+
+2. Aprobación de anteproyecto, cuando corresponda.
+
+3. Certificado de factibilidad de dación de agua potable y alcantarillado, cuando corresponda.
+
+4. Certificado de urbanización, cuando corresponda.
+
+5. Presupuesto global, cuando corresponda.
+
+6. Hojas de estadística de la edificación.
+
+7. Cálculo de estabilidad de la construcción de acuerdo a lo señalado en el artículo 5.1.7., cuando corresponda.
+
+8. Plano de ubicación, definido en el artículo 5.1.1.
+
+9. Plano de emplazamiento de la edificación dentro del predio, con acotamiento de las dimensiones principales de su silueta, distanciamientos a línea oficial y deslindes, y longitud de los deslindes comunes con los vecinos.
+
+10. Planos de arquitectura: planta general de cada piso o conjunto de pisos iguales de la construcción, elevaciones, cortes verticales fundamentales, todos debidamente acotados.
+
+11. Plano de cierro definitivo, cuando corresponda.
+
+12. Cuadro detallado de la superficie edificada, según artículo 5.1.11.
+
+13. Especificaciones técnicas resumidas, que incluyan todas las partidas contenidas en el proyecto.
+
+Los documentos antes singularizados se acompañarán en una copia, excepto el indicado en el número 7., que deberá presentarse en duplicado y los señalados en los números 8. al 13., que irán en triplicado.
+
+De un modo general, los planos se presentarán en formato plegable a tamaño oficio. En los dibujos de las plantas, secciones verticales y fachadas, se empleará la escala 1:50. Si la planta del edificio tiene una longitud mayor de 50 m dicha escala podrá ser 1:100. En caso justificado, cuando tenga dimensiones aún mayores, el Director de Obras Municipales podrá autorizar planos a escala 1:200.
+
+Los planos señalarán el destino de cada local, las cotas de los distintos niveles y las medidas necesarias para definir los diversos elementos, tales como, dimensiones del terreno y de los locales y patios, espesor de los muros, alturas, secciones de las vigas, pilares.
+
+Tratándose de alteraciones, reconstrucciones y reparaciones, los planos indicarán con líneas convencionales las partes no afectadas, las partes nuevas y las que deben demolerse, a fin de poder verificar sus condiciones futuras de seguridad y salubridad.
+
+#### Artículo 5
+
+1.7. En los casos en que deban presentarse cálculos de estabilidad, el Director de Obras Municipales deberá exigir que se acompañen pliego de cálculos y planos de estructura, ambos firmados por el proyectista, y verificar que tanto el pliego como los planos contengan las indicaciones y dibujos que para cada caso se indican en el presente artículo.
+
+No corresponderá al Director de Obras Municipales revisar los cálculos que contengan dichos pliegos.
+
+El piego de cálculos deberá contener las indicaciones siguientes:
+
+1. Cargas y sobrecargas verticales por metro cuadrado (fija y móvil).
+
+2. Fuerzas horizontales (tales como solicitaciones sísmicas, viento, empujes laterales, y sus totales por pisos).
+
+3. Tensiones admitidas en los materiales y en el terreno y justificación de estas últimas.
+
+4. Indicación de las condiciones de medianería y de las previsiones hechas.
+
+los planos de estructuras que se acompañarán al pliego de cálculos contendrán los siguientes dibujos:
+
+1. Plantas de fundaciones y de cada piso o grupo de pisos iguales, a escala 1:100 ó 1:50.
+
+2. Secciones generales indispensables para definir las diversas partes de la estructura a escala 1:100 ó 1:50.
+
+3. Detalles de construcción de fundaciones, losas, vigas, ensambles, perfiles y otros que sean necesarios para la buena ejecución de la obra, a escala 1:10, 1:20 ó 1:50, según sea conveniente para la claridad de los planos, siempre que el Director de Obras Municipales los exija.
+
+4. Detalles de juntas de dilatación o separación entre cuerpos.
+
+En el caso de adición de elementos que impliquen aumento de carga, se justificará por el cálculo la estabilidad de las partes afectadas. Lo mismo se hará en el caso de modificación de la estructura resistente, o de su rigidez, debiendo, además, justificarse la estabilidad del conjunto.
+
+No será necesario presentar cálculos de estabilidad de los edificios de las clases C, D, E y F, siempre que se cumpla con lo dispuesto en el Título 5 Capítulo 6 de la presente Ordenanza. Sin embargo, cuando se trate de edificios en que se reúna público, como ser escuelas, hospitales, salas de espectáculos, lugares de culto, será obligatoria la presentación de los cálculos correspondientes.
+
+#### Artículo 5
+
+1.8. Todo anteproyecto y/o proyecto deberá ser firmado por el propietario y el o los proyectistas, indicándose en cada caso la calidad en que actúan. Tratándose del proyecto, además deberá concurrir a firmarlo el constructor si se contare con él a la fecha de su presentación, y en caso contrario, deberá concurrir a suscribirlo antes de dar inicio a la ejecución de la obra.
 
 #### Artículo 5
 
 1.9. No se podrá autorizar en las partes que estén fuera de la línea de edificación:
 
-1. Reconstruir todo o parte del cuerpo de edificio comprendido entre el muro de fachada y la primera estructura resistente interior paralela a la fachada o entre aquel muro de fachada y la línea de edificación.
+1. Reconstruir todo o parte del cuerpo del edificio comprendido entre el muro de fachada y la primera estructura resistente interior paralela a la fachada, o entre aquel muro de fachada y la línea de edificación.
 
 2. Ejecutar alteraciones en el muro de fachada que impliquen la renovación de dicha pared en más de la mitad de su superficie, o de sus cimientos en más de la mitad de su longitud.
 
-3. Construir un nuevo piso sobre un edificio existente en cualquiera extensión de la parte comprendida entre la línea de edificación existente y la línea oficial; si el edificio estuviere ubicado de acuerdo con esta última línea, podrá autorizarse la edificación de un nuevo piso, conjuntamente con la ejecución de las obras de refuerzo que fueren necesarias en el edificio existente.
+3. Construir un nuevo piso sobre un edificio existente, en cualquiera extensión de la parte comprendida entre la línea de edificación existente y la línea oficial; si el edificio estuviere ubicado de acuerdo con esta última línea, podrá autorizarse la edificación de un nuevo piso, conjuntamente con la ejecución de las obras de refuerzo que fueren necesarias en el edificio existente.
 
 No se autorizarán construcciones de ningún tipo debajo de las líneas de alta tensión ni dentro de la franja de servidumbre de las mismas.
 
 #### Artículo 5
 
-1.10. En los casos en que deban presentarse cálculos de estabilidad, la Dirección de Obras Municipales deberá exigir que se acompañen pliego de cálculos y planos de estructura, ambos firmados por el proyectista, y verificar que tanto el pliego como los planos contengan las indicaciones y dibujos que para cada caso se indican en el presente artículo.
-
-No corresponderá a la Dirección de Obras Municipales revisar los cálculos que contengan dichos pliegos.
-
-1. El pliego de cálculos deberá contener las indicaciones siguientes: a) Cargas y sobrecargas verticales por metro cuadrado (fija y móvil). b) Fuerzas horizontales (tales como solicitaciones sísmicas, viento, empujes laterales, y sus totales por pisos).
-
-c) Tensiones admitidas en los materiales y en el terreno y justificación de estas últimas.
-
-d) Indicación de las condiciones de medianería y de las previsiones hechas.
-
-2. Los planos de estructura que se acompañarán al pliego de cálculos contendrán los siguientes dibujos:
-
-a) Plantas de fundaciones y de cada piso o grupo de pisos iguales, a escala 1:100 ó 1:50.
-
-b) Secciones generales indispensables para definir las diversas partes de la estructura a escala 1:100 ó 1:50.
-
-c) Detalles de construcción de fundaciones, losas, vigas, ensambles, perfiles y otros que sean necesarios para la buena ejecución de la obra, a escala 1:10, 1:20 ó 1:50, según sea conveniente para la claridad de los planos, siempre que la Dirección de Obras Municipales los exija.
-
-d) Detalles de juntas de dilatación o separación entre cuerpos.
-
-3. En el caso de adición de elementos que impliquen aumento de carga, se justificará por el cálculo la estabilidad de las partes afectadas.
-
-Lo mismo se hará en el caso de modificación de la estructura resistente, o de su rigidez, debiendo, además, justificarse la estabilidad del conjunto.
-
-4. No será necesario presentar cálculos de estabilidad de los edificios de las clases C, D, E y F, siempre que se cumpla con lo dispuesto en el Título 5 Capítulo 6 de la presente Ordenanza.
-
-Sin embargo, cuando se trate de edificios en que se reúna público, como ser escuelas, hospitales, salas de espectáculos, lugares de culto, será obligatoria la presentación de los cálculos correspondientes.
+1.10. Para la aplicación del coeficiente de ocupación del suelo, la superficie edificada se determinará por la proyección del edificio sobre el terreno, descontándose el 100% de la proyección de aleros, balcones y cubiertas en voladizo, entre otras. Las terrazas y pavimentos no se contabilizarán. Tampoco se contabilizarán los cobertizos ni otras construcciones ligeras cubiertas y lateralmente abiertas, siempre que no excedan del 10% de la superficie del terreno. El exceso sobre dicho porcentaje se contabilizará en un 50%.
 
 #### Artículo 5
 
-1.11. El proyecto deberá ser firmado por las siguientes personas, indicándose en cada caso la calidad en que actúan:
+1.11. la aplicación del coeficiente de constructibilidad determina la superficie máxima posible de construir, incluidos en ella todos los recintos de cualquier edificio, vivienda, oficina, local, entre otros, y será el resultado de sumar las siguientes superficies parciales:
 
-1. El propietario.
+1. El 100% de la superficie interior cubierta y lateralmente cerrada en forma total, medida en obra gruesa por el perímetro exterior de la edificación.
 
-2. El o los proyectistas.
+En el caso de edificaciones pareadas o continuas, acogidas o no a la Ley de Propiedad Horizontal, se medirá por el eje de los muros medianeros, inclusive los que deslindan con los espacios comunes.
 
-3. El constructor, si se contare con él a la fecha de presentación del proyecto. En caso contrario, el constructor deberá concurrir a suscribir el proyecto antes de dar inicio a la ejecución de la obra.
+En el caso de muros inclinados, la superficie será el área cerrada por una altura de 1,60 m, medida en forma perpendicular al respectivo piso terminado. En el caso de escaleras, se descontará la superficie correspondiente a la escotilla por una sola vez.
+
+2. El 50% de la superficie cubierta y lateralmente abierta por 1 lado; o abierta por 2 lados convergentes a un pilar; o lateralmente abierta por 2 o más lados con uno o más pilares.
+
+3. El 100% de la parte que proporcionalmente corresponde al respectivo departamento, oficina o local de un edificio, en el prorrateo de la superficie edificada que es bien común, según el artículo 111 de la Ley General de Urbanismo y Construcciones.
+
+No se computará la superficie cubierta y lateralmente abierta por 2 o más lados contiguos y sin ningún pilar en esta superficie ni en el perímetro de los lados abiertos; o descubierta en más de un 50% de la superficie y lateralmente abierta por uno o más lados.
 
 #### Artículo 5
 
@@ -3386,7 +3444,7 @@ Si la Dirección de Obras Municipales verificare durante el transcurso de la obr
 
 #### Artículo 5
 
-1.17. El Director de Obras resolverá las solicitudes que se presenten a su consideración en el plazo máximo de 15 días hábiles, a menos que la Ley General de Urbanismo y Construcciones o la presente Ordenanza fijen otro plazo para casos específicos.
+1.17. El Director de Obras resolverá las solicitudes que se presenten a su consideración en el plazo máximo de 15 días hábiles, a menos que la Ley General de Urbanismo y Construcciones o la presente Ordenanza fijen otro plazo para casos específicos. Las observaciones deberán formularse por escrito en un solo acto.
 
 Deberá poner en conocimiento del interesado, por escrito, la totalidad de las observaciones que hubiere merecido el proyecto formulado y que deban ser atendidas antes de concederse el permiso.
 
@@ -3472,7 +3530,7 @@ DE LAS INSPECCIONES Y RECEPCIONES DE OBRAS
 
 #### Artículo 5
 
-2.5. Terminada una obra de edificación, deberá efectuarse una inspección final destinada a comprobar que está en condiciones de ser recibida en forma definitiva. En caso de cumplirse con todos los requisitos exigidos, se levantará un acta que deberá firmar el Director de Obras Municipales, el arquitecto y/o ingeniero según el caso, bajo cuya responsabilidad profesional se terminó la ejecución de la obra.
+2.5. Terminada una obra de edificación, deberá efectuarse una inspección final destinada a comprobar que está en condiciones de ser recibida en forma definitiva. En caso de cumplirse con todos los requisitos exigidos, se levantará un acta que deberá firmar el Director de Obras Municipales, el propietario, el arquitecto y/o ingeniero civil según el caso, y el constructor, bajo cuyas responsabilidades profesionales se terminó la ejecución de la obra.
 
 #### Artículo 5
 
@@ -3497,6 +3555,8 @@ Junto con la solicitud en que se pida la recepción final, se acompañarán los 
 7. Certificados de ensaye de los hormigones empleados en la obra, de acuerdo con las normas oficiales.
 
 No se aceptarán certificados emitidos por instaladores que no estén inscritos en el registro correspondiente.
+
+Además, deberá acompañarse una declaración en el sentido de si ha habido o no cambios en el proyecto aprobado. Si los hubiere habido, deberán adjuntarse, además, los respectivos documentos actualizados en los que incidan las modificaciones introducidas.
 
 #### Artículo 5
 
@@ -3920,21 +3980,21 @@ PISO ESPESOR DE LOS MUROS PARA LADRILLOS
 
 HECHOS A MANO
 
-1 (Superior) 20 cms (exteriores)
+1 (Superior) 20 cm (exteriores)
 
-15 cms (interiores)
+14 cms (interiores)
 
-2 (Inferior) 20 cms (exteriores) con losa de
-
-entrepiso
-
-15 cms (interiores)
-
-20 cms sin losa de
+2 (Inferior) 20 cm (exteriores) con losa de
 
 entrepiso
 
-El espesor de los muros fabricados con ladrillos hechos a máquina será determinado, entre otros factores, por la capacidad resistente de aquéllos al esfuerzo vertical y horizontal, su poder de aislación térmica y acústica. La capacidad resistente y el espesor mínimo deberán ser determinados por un laboratorio de ensaye autorizado. Dicho espesor mínimo no podrá ser inferior a 0,15 m, a menos que el proyecto estructural firmado por un ingeniero o arquitecto, demuestre que bastan espesores inferiores, proyecto que deberá someterse en cada caso a la aprobación de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
+14 cm (interiores)
+
+20 cm sin losa de
+
+entrepiso
+
+El espesor de los muros fabricados con ladrillos hechos a máquina será determinado, entre otros factores, por la capacidad resistente de aquéllos al esfuerzo vertical y horizontal, su poder de aislación térmica y acústica. La capacidad resistente y el espesor mínimo deberán ser determinados por un laboratorio de ensaye autorizado. Dicho espesor mínimo no podrá ser inferior a 14 cm, a menos que el proyecto estructural firmado por un ingeniero o arquitecto, demuestre que bastan espesores inferiores, proyecto que deberá someterse en cada caso a la aprobación de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
 
 Los espesores fijados en el número anterior se aumentarán en el ancho de 1/2 ladrillo cuando la altura libre de los pisos exceda de 4 m.
 
@@ -4472,7 +4532,7 @@ FUNDACIONES
 
 #### Artículo 5
 
-7.1. Los edificios de carácter definitivo tendrán fundaciones de hormigón armado de albañilería de pilotes u hormigón.
+7.1. Los edificios de carácter definitivo tendrán fundaciones de hormigón armado de albañilería, de pilotes u hormigón.
 
 Las fundaciones se apoyarán directamente sobre el terreno o en pilares de hormigón, de hormigón armado, de acero o de madera. En este último caso, el pilotaje completo debe quedar, a lo menos, a 0,30 m por debajo de la cota mínima de la napa de agua subterránea.
 
@@ -4812,7 +4872,7 @@ Las cañerías para cargar petróleo podrán llegar hasta la calle con sus union
 
 En las salas de calderas a petróleo se colocarán aparatos extinguidores de incendio o un sistema de agua atomizada contra inflamación de petróleo.
 
-3. El conducto de humo de un edificio podrá ser ejecutado de materiales tales como, concreto armado, ladrillo, fierro, pizarreño, cerámica.
+3. El conducto de humo de un edificio podrá ser ejecutado de materiales tales como hormigón armado, albañilería, acero, asbesto cemento, cerámica.
 
 Deberá ser construido en tal forma que no ocasione molestias en el edificio ni a los predios vecinos.
 
@@ -4994,7 +5054,7 @@ NORMAS TECNICAS
 
 Los edificios de más de dos pisos deberán tener las características correspondientes a las construcciones de las clases A, B, C o D, definidas en el artículo 5.3.1. de esta Ordenanza, debiendo consultarse una losa de hormigón armado entre las distintas unidades superpuestas, sea que éstas se desarrollen en un piso o en duplex.
 
-Las viviendas aisladas, pareadas o continuas de hasta tres pisos, podrán ser también de clase E, siempre que los tres pisos no constituyan unidades superpuestas y que se cumplan las normas de protección contra incendio, a que se refiere el Título 4 Capítulo 3 esta Ordenanza.
+Las viviendas aisladas, pareadas o continuas de hasta tres pisos, podrán ser también de clase E, siempre que los tres pisos no constituyan unidades superpuestas y que se cumplan las normas de protección contra incendio, a que se refiere el Título 4 Capítulo 3 de esta Ordenanza.
 
 #### Artículo 6
 
@@ -5096,7 +5156,7 @@ Sin perjuicio de lo dispuesto anteriormente, cuando el proyecto aprobado del edi
 
 #### Artículo 6
 
-1.13. Las construcciones que originalmente no se acogieron a la Ley de Propiedad Horizontal, podrán hacerlo con posterioridad, siempre que cumplan las siguientes condiciones mínimas:
+1.13. Las construcciones autorizadas con anterioridad al 15 de Diciembre de 1977, que no cumplan con algunas de las características mínimas señaladas en este Capítulo, podrán acogerse a la Ley de Propiedad Horizontal, siempre que cumplan las siguientes condiciones mínimas:
 
 1. Que al momento de acogerse, la estructura del edificio concuerde con los planos originales y/o sus modificaciones, debidamente aprobados.
 
@@ -5160,13 +5220,17 @@ N° 2, de 1959, las del presente Título referidas a las viviendas sociales, y e
 
 #### Artículo 7
 
-1.4. Las viviendas sociales serán tasadas por el Director de Obras Municipales respectivo, considerando la suma de los siguientes factores:
+1.4. El carácter de vivienda social será certificado por el Director de Obras Municipales respectivo, quien la tasará considerando la suma de los siguientes factores:
 
 1. El valor del terreno, que será el del avalúo fiscal del inmueble, vigente a la fecha de la solicitud del permiso.
 
 2. El valor de construcción de la vivienda, según el proyecto presentado, que se evaluará conforme a la tabla de costos unitarios a que se refiere el artículo 127 de la Ley General de Urbanismo y Construcciones. Para ello, el Ministerio de Vivienda y Urbanismo elaborará dicha tabla y sus reajustes trimestrales, de acuerdo con las tablas de valores bases de construcción utilizadas por el Servicio de Impuestos Internos, excluyendo los factores relativos a clasificación comunal
 
-CAPITULO 2 DE LAS NORMAS DE URBANIZACIÓN
+#### Artículo 7
+
+1.5. Para cálculo de la superficie total edificada por unidad de vivienda o departamento, se aplicará el procedimiento indicado en el artículo 5.1.11. de la presente ordenanza, excepto lo dispuesto en el número 3. del inciso primero de dicho artículo, que será aplicable únicamente cuando la superficie que le corresponda en el prorrateo del bien común sea superior al 20% de la superficie de la vivienda o departamento respectivo.
+
+"CAPITULO 2 DE LAS NORMAS DE URBANIZACIÓN
 
 #### Artículo 7
 
@@ -5176,75 +5240,89 @@ Las viviendas económicas no podrán emplazarse en zonas de restricción y de ri
 
 #### Artículo 7
 
-2.2. En las poblaciones o conjuntos de viviendas de que trata este Título, se cederá para áreas verdes, equipamiento y circulación, las superficies que resulten de aplicar la siguiente tabla
+2.2. Para satisfacer las necesidades de áreas verdes, equipamiento y circulación que se generen por el crecimiento urbano, sea por extensión y/o por densificación, se cederán gratuitamente las superficies de terreno que resulten de la aplicación de los porcentajes indicados en la tabla siguiente:
 
-TRAMOS N° SEGÚN DENSIDAD HABITACIONAL BRUTA ( N° Viv./NA)
+TRAMOS N° , SEGUN DENSIDAD HABITACIONAL BRUTA
 
-1 2 3 4 5
+(N° Viv/ha)
 
-Hasta 20 21 a 90 91 a 150 151 a 200 201 y mas
+1 2 3
 
-Área Verde 2% 2% 4% 6% 7%
+1 a 40 41 a 60 61 a 90
 
-Equipamiento 1% 2% 3% 3%
+Area Verde 2% 2% 2%
 
-Circulaciones hasta 30%
+Equipamiento - 1% 2%
+
+Circulación hasta 30%
+
+4 5 6
+
+91 a 150 151 a 250 251 y más
+
+Area Verde 4% 8% 10%
+
+Equipamiento 2% 2% 3%
+
+Circulación hasta 30%
 
 La conversión de la densidad de población a densidad habitacional corresponderá a una vivienda por cada cinco habitantes.
 
-Las cesiones antes señaladas no serán exigibles en los predios existentes con una vivienda y que se densifican con una más.
+Las cesiones antes señaladas no serán exigibles en los predios existentes con una vivienda y que se densifican con una más, ni a las viviendas que se emplacen en "Zonas de Remodelación" y en "Zonas de Construcción Obligatoria", cuando así lo establezca el decreto supremo que apruebe dichas Zonas.
 
 #### Artículo 7
 
-2.3. En las poblaciones o conjuntos de viviendas de que trata este Título, se destinarán para áreas libres de esparcimiento, 24 m² por cada vivienda sin patio propio. Para los efectos del presente artículo se considerará que una vivienda tiene patio propio, cuando la superficie de éste sea igual o superior a 24 m². Los pasajes y vías de tránsito no se considerarán para el cómputo de estas superficies. Las áreas libres de esparcimiento, por formar parte del terreno, tendrán el carácter de bienes comunes, de acuerdo al artículo 111 de la Ley General de Urbanismo y Construcciones, y se mantendrán en el dominio privado de los comuneros en la proporción que corresponda a cada uno de ellos.
+2.3. En las poblaciones o conjuntos de viviendas de que trata este Título, que se proyecten con la apertura de nuevos pasajes o vías de tránsito de uso público, se destinarán para áreas libres de esparcimiento, 24 m2 por cada vivienda sin patio propio. Para los efectos del presente artículo se considerará que una vivienda tiene patio propio, cuando la superficie de éste sea igual o superior a 24 m2. Los pasajes y vías de tránsito no se considerarán para el cómputo de estas superficies.
+
+Las áreas libres de esparcimiento, por formar parte del terreno, tendrán el carácter de bienes comunes, de acuerdo al artículo 111 de la Ley General de Urbanismo y Construcciones, y se mantendrán en el dominio privado de los comuneros en la proporción que corresponda a cada uno de ellos.
+
+Lo dispuesto en este artículo no se aplicará en "Zonas de Remodelación" y en "Zonas de Construcción Obligatoria", cuando así lo establezca el decreto supremo que apruebe dichas Zonas.
 
 #### Artículo 7
 
-2.4. En las áreas de extensión urbana que permitan la aglomeración de 300 o más viviendas económicas, se requerirá la aprobación previa de un Plan Seccional que defina la localización del equipamiento del nivel de barrio o superior que corresponda, y demás condiciones técnico-urbanísticas del área.
+2.4. En los conjuntos de viviendas sociales, viviendas progresivas e infraestructuras sanitarias, se deberá construir en los terrenos cedidos según el artículo 7.2.2. de la presente Ordenanza, el equipamiento comunitario mínimo señalado en los estándares definidos por el Ministerio de Vivienda y Urbanismo.
+
+Se exceptuarán de esta obligación los predios existentes con una vivienda y que se densifican con una más, y las viviendas que se emplacen en "Zonas de Remodelación" y en "Zonas de Construcción Obligatoria", cuando así lo establezca el decreto supremo que apruebe dichas Zonas.
 
 #### Artículo 7
 
-2.5. Los conjuntos de viviendas sociales deberán contemplar el equipamiento comunitario mínimo señalado en los estándares definidos por el Ministerio de Vivienda y Urbanismo.
-
-Se exceptuarán de esta obligación los predios existentes con una vivienda y que se densifican con una más, o los que se emplazan en zonas de renovación urbana.
+2.5. En las viviendas sociales la puerta de acceso de los edificios colectivos o individuales, no podrá distar más de 30 m de una vía de tránsito público, o espacio público medida desde el correspondiente deslinde del terreno común.
 
 #### Artículo 7
 
-2.6. En las viviendas sociales la puerta de acceso de los edificios colectivos o individuales, no podrá distar más de 30 m de una vía de tránsito público, o espacio público medida desde el correspondiente deslinde del terreno común.
+2.6. Los conjuntos de viviendas con construcción simultánea que se proyecten en terrenos de una hectárea o más podrán alterar las normas del instrumento de planificación territorial respectivo, relativas a tamaños prediales, tipos de agrupamiento, antejardines, altura de edificación, coeficientes de constructibilidad y de ocupación del suelo, rasantes y distanciamientos, de acuerdo a lo que señale el autor del proyecto.
 
-#### Artículo 7
+Estos proyectos deberán cumplir, respecto a los sitios ubicados en el perímetro del loteo donde éste deslinda con otros predios, con las normas sobre rasantes y distanciamientos establecidas en el instrumento de planificación territorial, si lo hubiere, o a falta de éste, las de esta Ordenanza.
 
-2.7. Los conjuntos de viviendas con construcción simultánea que se proyecten en terrenos de una hectárea o más podrán alterar las normas del instrumento de planificación territorial respectivo, relativas a rasantes y distanciamientos, tamaño predial, sistema de equipamiento, coeficiente de constructibilidad y de ocupación de suelo, y alturas, de acuerdo a lo que señale el autor del proyecto. No obstante lo anterior, en los sitios perimetrales del conjunto, deberá cumplirse con todas las normas del instrumento de planificación territorial respectivo.
+Respecto a los sitios que enfrenten espacios de uso público, tales como vías, calles o áreas verdes, existentes o previstos en el instrumento de planificación territorial correspondiente, deberán cumplirse las normas sobre tipo de agrupamiento, antejardines, alturas de edificación y rasantes establecidas en el instrumento de planificación territorial, si lo hubiere, o a falta de éste, las de esta Ordenanza.
 
-Los proyectos de loteo, sus condiciones generales definidas por el arquitecto proyectista y el proyecto de las viviendas, serán aprobados en un solo acto. Estos loteos se denominarán «Loteos DFL N°. 2».
+Los proyectos de loteo, sus condiciones generales definidas por el arquitecto proyectista y el proyecto de las viviendas, serán aprobados en un solo acto. Estos loteos se denominarán "Loteos D.F.L. N° 2".
 
-Los instrumentos de planificación territorial podrán rebajarla superficie mínima de una hectárea donde se emplacen estos conjuntos, de acuerdo a las características propias de cada centro urbano, siempre que no sea inferior a 2.500 m².
+Los instrumentos de planificación territorial podrán rebajar la superficie mínima de una hectárea donde se emplacen estos conjuntos, de acuerdo a las características propias de cada centro urbano, siempre que no sea inferior a 2.500 m2.
 
-En estos conjuntos no se podrá consultar tamaños prediales inferiores a 60 m² para viviendas en dos pisos o más y 100 m2 para viviendas en un piso. Estos mínimos podrán ser aumentados según las características locales y regionales, en los respectivos instrumentos de planificación territorial.
+En estos conjuntos no se podrá consultar tamaños prediales inferiores a 60 m2 para viviendas en dos pisos o más y 100 m2 para viviendas en un piso. Estos mínimos podrán ser aumentados según las características locales y regionales, en los respectivos instrumentos de planificación territorial.
 
 Para efectos de la aplicación de las disposiciones de este artículo, se considerarán también conjuntos de construcción simultánea los conformados por infraestructuras sanitarias y viviendas progresivas.
 
 #### Artículo 7
 
-2.8. Las normas del instrumento de planificación territorial respectivo relativas a tamaños prediales, sistemas de agrupamiento, coeficientes de constructibilidad y ocupación de suelo, alturas, rasantes y distanciamientos, podrán modificarse de acuerdo a un proyecto específico, cuando se trate de densificación de predios existentes, ya urbanizados y construidos con una vivienda singular.
+2.7. Los proyectos de densificación en predios existentes con urbanización calificada como suficiente y construidos con una vivienda singular, podrán alterar las normas del instrumento de planificación territorial respectivo, en lo mismo que establece el artículo 7.2.6. de la presente Ordenanza.
 
-Cuando un área urbana no cuente con el instrumento de planificación territorial, también podrán ejecutarse estos proyectos de densificación.
+Cuando un área urbana no cuente con instrumento de planificación territorial, también podrán ejecutarse estos proyectos de densificación.
 
-Estos proyectos deberán cumplir respecto a los sitios ubicados en el perímetro del loteo donde éste deslinda con otros propietarios o espacios públicos, con las normas sobre antejardines, rasantes y distanciamientos, establecidas en el instrumento de planificación territorial, si lo hubiere, o a falta de éste con las de esta Ordenanza.
-
-En las subdivisiones prediales resultantes ningún sitio podrá ser inferior a los tamaños prediales señalados en el inciso cuarto del artículo 7.2.7.
+En las subdivisiones prediales resultantes ningún sitio podrá ser inferior a los tamaños prediales señalados en el inciso sexto del artículo 7.2.6.
 
 #### Artículo 7
 
-2.9. En el caso de una vivienda interior, cuyo proyecto corresponda a la densificación de un predio con una vivienda existente que no permita la configuración de un pasaje de 2,50 m de ancho mínimo, según lo dispone la presente Ordenanza, el mínimo indicado se podrá rebajar hasta 1,40 m, si no se consultan entradas vehiculares, previa autorización de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
+2.8. En el caso de una vivienda interior, cuyo proyecto corresponda a la densificación de un predio con una vivienda existente que no permita la configuración de un pasaje de 2,50 m de ancho mínimo, según lo dispone la presente Ordenanza, el mínimo indicado se podrá rebajar hasta 1,40 m, si no se consultan entradas vehiculares, previa autorización de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
 
 #### Artículo 7
 
-2.10. Los conjuntos de viviendas de que trata el presente Título, que se emplacen en el área rural deberán hacerlo preferentemente en aldeas, pueblos, villorrios o caletas, existentes, o conformando nuevos asentamientos de este tipo. Para estos efectos corresponderá a la Secretaría Ministerial de Vivienda y Urbanismo respectiva definir sus condiciones técnico-urbanísticas.
+2.9. Los conjuntos de viviendas de que trata el presente Título, que se emplacen en el área rural deberán hacerlo preferentemente en aldeas, pueblos, villorrios o caletas, existentes, o conformando nuevos asentamientos de este tipo. Para estos esfectos corresponderá a la Secretaría Ministerial de Vivienda y Urbanismo respectiva definir sus condiciones técnico-urbanísticas.
 
 #### Artículo 7
 
-2.11. Los predios rústicos singulares en que se proyecte construir una vivienda económica deberán cumplir las siguientes condiciones:
+2.10. Los predios rústicos singulares en que se proyecte construir una vivienda económica deberán cumplir las siguientes condiciones:
 
 1. Contar con acceso directo a un espacio de uso público o servidumbre de tránsito constituida de conformidad con lo preceptuado en el Código Civil.
 
@@ -5254,7 +5332,7 @@ Se exceptúan de esta condición aquellos predios de menor cabida debidamente in
 
 #### Artículo 7
 
-2.12. En los sitios remanentes de loteos DFL N°. 2 que cuentan con la recepción municipal y cuya superficie sea inferior a la mínima establecida en el instrumento de planificación territorial podrán construirse viviendas no económicas siempre que cumplan con las demás normas del instrumento de planificación territorial respectivo, sin perjuicio de lo dispuesto en el artículo 19 del DFL N°. 2, de 1959.
+2.11. En los sitios remanentes de loteos D.F.L. N° 2 que cuentan con la recepción municipal y cuya superficie sea inferior a la mínima establecida en el instrumento de planificación territorial, podrán construirse viviendas no económicas siempre que cumplan con las demás normas del instrumento de planificación territorial respectivo, sin perjuicio de lo dispuesto en el artículo 19 del D.F.L. N° 2, de 1959.
 
 ## Capítulo 3
 
@@ -5336,7 +5414,7 @@ CAPITULO 4 DE LA ARQUITECTURA
 
 4.1. Las condiciones arquitectónicas de la vivienda de que trata este Título, tales como asoleamiento, ventilación, dimensionamiento de recintos y circulaciones, distribución de camas en dormitorios, o de artefactos en baño y cocina, serán de iniciativa del arquitecto autor del proyecto, sin perjuicio de las resoluciones que adopten las autoridades correspondientes, cuando procedan.
 
-- Sin embargo, se considerará en su programa, a lo menos tres recintos: un dormitorio para dos camas, una sala de estar-comedor-cocina, y un baño con inodoro, lavamanos y ducha.
+Sin embargo, se considerará en su programa, a lo menos tres recintos: un dormitorio para dos camas, una sala de estar-comedor-cocina, y un baño con inodoro, lavamanos y ducha, con excepción de la vivienda progresiva en primera etapa y la infraestructura sanitaria, mencionadas en el artículo 7.1.2. de la presente ordenanza.
 
 No obstante que la superficie máxima de una «vivienda económica» es de 140 m2 edificados, en las «viviendas económicas» que se construyan en las provincias de Chiloé y Palena de la X Región, y en las Regiones XI y XII, podrán agregarse construcciones exteriores a la vivienda, que no incluyan instalaciones para servicios higiénicos, y cuya superficie no sobrepase 16m2. Esta construcción adicional exterior no será computable para los efectos de aplicar a dicha vivienda los beneficios, franquicias y exenciones que contempla el DFL No. 2, de 1959.
 
