@@ -1,0 +1,3 @@
+Por decreto MOP Nº533, de 28 de febrero del 2000, se expropió el lote de terreno Nº67, superficie 591 m2., rol de avalúo 32-83, comuna de Requínoa, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector F, Sexta Región y se acordó el valor de indemnización con sus propietarios Luis Artemio Brito González y otros, ascendente a la cantidad de $2.983.527.-
+
+Fiscal del Ministerio de Obras Públicas.
