@@ -1,0 +1,3 @@
+Por Resolución Nº 367 de 23 de abril de 1997 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. Nº 2.186 de 1978, de parte del inmueble ubicado en Avda. Domingo Santa María Nº 4077, presunto rol de avalúos Nº 498-14 comuna de Renca, de aparente dominio de don Pedro S. Ahumada Silva. Comisión integrada por peritos Sra. Patricia Zavala Contreras, constructor civil, Jorge Navarro Navarrete, arquitecto y Raúl Undurraga Montes, ingeniero civil según informe de 5 de febrero de 1997 fijó monto provisional de indemnización en $6.826.500.- pagadera al contado.
+
+Director SERVIU Metropolitano.
