@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.176 de fecha 31 de julio del 2002, se expropió el lote de terreno Nº 10, superficie 430 m², Rol Nº 308-254, comuna de Melipeuco, IX Región para la obra ''Camino Melipeuco - Icalma, sector Melipeuco - Tracura Km. 97,50000 al Km. 104,2038'' y se acordó el valor de indemnización con su propietario Marcelino Natalio Romero Lepin, ascendente a la cantidad de $365.251.-
+
+Fiscal del Ministerio de Obras Públicas.
