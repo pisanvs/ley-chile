@@ -1,0 +1,3 @@
+Por resolución Nº 2.569, de 8 de noviembre de 2002, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.046 de 1994, de esta Subsecretaría, que autorizó a SERVICIOS PESQUEROS LIMITADA a operar una planta ubicada en Juan Macaya Nº 1372, San Vicente, Talcahuano, de acuerdo con lo informado por el Servicio Nacional de Pesca en oficio citado en Visto y lo dispuesto en el artículo 7º del D.S. Nº 175 de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 8 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
