@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.455, de 29 de septiembre del 2000, se expropió el lote de terreno Nº1, superficie 983 m², rol de avalúo 154-45, comuna de Casablanca, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Quinta Región y se acordó el valor de indemnización con su propietaria Bodegas y Viñedos Santa Emiliana S.A., ascendente a la cantidad de $6.063.560.-
+
+Fiscal del Ministerio de Obras Públicas.
