@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.097 de 22 de abril de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201112047 presentada por MARIA ORIANA HERNANDEZ MANSILLA, para instalar y operar un centro de cultivo ubicado en Estero Barros Arana, lado sur weste de Isla Pangal (sector 1), XI Región.
+
+Valparaíso, 22 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
