@@ -1,0 +1,3 @@
+Por resolución Nº 1.819, de 5 de septiembre de 2001, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.342 del 2001, de esta Subsecretaría, que rechazó la solicitud de concesión de acuicultura Nº 95104036, presentada por RAMON ROBERTO CARDENAS BORQUEZ, para instalar y operar el centro de cultivo ubicado en Canal San Antonio, comuna de Calbuco, provincia de Llanquihue, X Región.
+
+Valparaíso, 5 de septiembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
