@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.420, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs. 1, 2, 3, 4, 47 y 48, superficies 1.149, 961, 282, 3.141, 121 y 55 M2. respectivamente, roles de avalúo 62-43, 60-33 y 59,35, comuna de Chépica, para la obra Camino Chépica-Bif. Teno, sector Cuesta El Peral-Chépica y se acordó precio de indemnización con sus propietarios Luis Navarro Sepúlveda y otros y Gregorio Donoso Donoso, ascendente a las cantidades de $2.367.041 y $793.440.
+
+- Fiscal del Ministerio de Obras Públicas.
