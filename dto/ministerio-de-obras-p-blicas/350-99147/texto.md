@@ -1,0 +1,5 @@
+Por decreto M.O.P. Nº 350, de 31 de marzo de 1998, y en base a la facultad otorgada por el artículo 105 del D.F.L.
+
+M.O.P. Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nº s. 8, 9, 13, 15 y 24, para la obra Camino Ruta H-15, Sector La Punta - Puente Negro, que figuran a nombre de Luis A. Raúl Angulo Angulo, H. del C. Bustamante Inostroza, Juan Carlos Godoy Berríos y Soc. Agrícola y Avícola La Cartuja, roles de avalúos 143-36, 141-35, 137-64 y 137-57, superficies 160, 120, 210, 477 y 200 m² respectivamente. La Comisión de Peritos compuesta por los señores Mario Díaz Valenzuela, José Luis Pezo Segovia y Florencio Carter Bertolotto, fijó con fecha 4 de junio de 1997, los valores provisionales de las indemnizaciones en las cantidades de $ 801.000, lote Nº 8; $ 721.000, lote Nº 9; $ 688.000, lote Nº 13; $ 681.600, lote Nº 15 y $ 638.800, lote Nº 24. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
