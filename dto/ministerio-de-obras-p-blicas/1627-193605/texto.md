@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.627, de 30 de octubre de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 21 y 31 para la obra: "Red Vial Litoral Central. Sector 3: Eje Costero Interior. Subtramo: Quillaicillo - Rosario Km.
+
+13.200,00 al Km. 16.782,246", Quinta Región, que figuran a nombre de Invers Tres Marías, rol de avalúo 4253-39, comuna de Cartagena, superficies de 8.871 m² y 1.403 m², respectivamente. La Comisión de Peritos integrada por los señores Hugo Atala Castillo Alam, Orlando Antonio Fariña Vásquez y Valeria Luz Jiménez Matus, fijó con fecha 18 de junio de 2001, el valor provisional de la indemnización en las cantidades de $11.243.140.- para el lote Nº 21 y $1.744.540.- para el lote Nº 31. La indemnización de pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
