@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 470 de 28 de Abril de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Hijuela El Boldal del Fundo El Guaico Número Tres", de la Comuna de Romeral, VII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 5, sitios I al 4, del Proyecto de Parcela "El Boldal" formado por predio señalado. Los Derechos de Agua se extraen del Canal Alto o Socavón derivado del Río Teno y Canal El Tranque que extrae sus aguas del tranque cordillerano. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
