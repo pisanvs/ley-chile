@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.503, de 31 de agosto de 1999, se expropió el lote de terreno Nº116-1F, superficie 42,0 m2., rol de avalúo 570-66, comuna de Lautaro, para la obra "Concesión Internacional Ruta 5; Tramo Collipulli-Temuco", Novena Región y se acordó el valor de indemnización con su propietario Luis Carlos Spiess Harnisch, ascendente a la cantidad de $398.266.-
+
+Fiscal del Ministerio de Obras Públicas.
