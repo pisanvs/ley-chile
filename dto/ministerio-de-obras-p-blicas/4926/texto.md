@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.926, de 31 de octubre de 2000, se expropió el lote de terreno Nº52, superficie 143 m2., rol de avalúo 626-16, comuna de Molina, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector M, Séptima Región y se acordó el valor de indemnización con su propietario Berardo del Carmen Correa Herrera, ascendente a la cantidad de $1.265.025.-
+
+Fiscal del Ministerio de Obras Públicas.
