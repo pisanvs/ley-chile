@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 712, de 30 de noviembre de 1995, se expropió el lote de terrero Nº 16, superficie 2.327 m2, rol de avalúo 9049-28, comuna de San Antonio , para la obra Camino Autopista Santiago - San Antonio, Sector Leyda - Agua Buena y se acordó el valor de indemnización con su propietario Jaime Fernando Hernández Bustos, ascendente a la cantidad de $ 1.360.414.
+
+Fiscal del Ministerio de Obras Públicas.
