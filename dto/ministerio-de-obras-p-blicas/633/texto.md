@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 633, de 30 de junio de 1997, se expropiaron los lotes de terreno N°s 1 y 2, superficies 81 y 124 M2., roles de avalúo 11-12 y 14-25, comuna de Olivar, para la obra Construcción Pasarelas en Ruta 5 Sur Sector Pasarela Peatonal Gultro, y se acordó precio de indemnización con sus propietarios Segundo Baltazar Gonzáles Paredes y Luis Fidel Suárez Rozas, ascendentes a las cantidades de $3.657.675 y $3.651.900, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas
