@@ -1,0 +1,3 @@
+Por Resolución No. 618, de 07 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase en numeral 2° de la Resolución No. 1391, de 1991, de esta Subsecretaría, que autorizó a don RAMON HERNAN AGUERO AGUILA, R.U.T. No. 4.234.982-8, domiciliado en Quellón, calle Pedro Montt No. 159, para iniciar actividades pesqueras de transformación, en el sentido de señalar que el actual domicilio de la planta autorizada en la Resolución citada, es el Predio Rural Rol 172-45, sector de Coínco, 10 kilómetros al norte de la unidad de Quellón, comuna de Quellón, Provincia de Quellón, X Región.
+
+Valparaíso, 07 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
