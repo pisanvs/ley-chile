@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 406 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 54-D, superficie 481 m2, rol de avalúo Nº 278-10, comuna de Pelluhue, para la obra "Camino Chovellen - Cobquecura, sector Chovellen - límite regional, tramo Km. 18,260.00 a Km. 35,158.60", VII Región y se acordó el valor de la indemnización con su propietario Lionso Emérico Muena Muñoz, ascendente a la cantidad de $1.595.597.-
+
+Fiscal de] Ministerio de Obras Públicas.
