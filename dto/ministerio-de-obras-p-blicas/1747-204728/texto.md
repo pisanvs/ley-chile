@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.747, de 11 de octubre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº1 para la obra: ''Sistema Norte - Sur. Tramo F: Carlos Valdovinos - Río Mapocho. Sector: Km. 1.100,00 al Km.
+
+1.360,00'', Región Metropolitana, que figura a nombre de Barriga Duque Pedro Nolasco, rol de avalúo 4212-14, comuna de Quinta Normal, superficie 472 m2. La comisión de peritos integrada por los señores María Angélica Hurtado Arranz, Francisco Alberto López Hidalgo y Luis Herman González, fijó con fecha 28 de agosto de 2002, el valor provisional de la indemnización en la cantidad de $32.888.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
