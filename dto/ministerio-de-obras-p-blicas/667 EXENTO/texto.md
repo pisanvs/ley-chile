@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 667 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 105-A, superficie 906,50 m2, rol de avalúo 145-97, comuna de Quinchao, para la obra "Camino Ruta W-59, Sector Dalcahue-Achao, Km. 0,00000 al Km. 19,71856" y se acordó el valor de indemnización con su propietario Margarita del Carmen Ojeda Paredes, ascendente a la cantidad de $392.903.
+
+Fiscal del Ministerio de Obras Públicas.
