@@ -1,0 +1,5 @@
+Por resolución exenta No. 2.413 de fecha 11 de Julio de 1989, se ordena publicar la nueva composición de la Directiva Central del "Partido por la Democracia": Directiva Central Presidente: Ricardo Lagos Escobar Vicepresidente: Armando Jaramillo Lyon Vicepresidente: Carlos Ominami Pascual Secretario General: Jorge Schaulsohn Brodsky Tesorera: María Maluenda Campos.
+
+Ricardo Núñez Muñoz, Mónica Silva Hiriarte, Aniceto Rodríguez Arenas, Jaime Estévez Valencia, Soledad Larraín Heremans, Hernán Vodanovic Schnacke, Teresa Chadwick Piñera, Sergio Bitar Chacra, Gonzalo Martner Fanta, Pilar Armanet Armanet, Alvaro Briones Ramírez, Víctor Manuel Rebolledo González, Marcelo Schilling Rodríguez, Carlos Estévez Valencia, Víctor Jeame Barrueto, Ricardo Brodsky Baudet, Humberto Lagos Schuffeneger, Guillermo del Valle de la Cruz, Oscar Santelices Altamirano, Enrique Correa Ríos, Lino Morales Ibáñez, Germán Molina Valdivieso, Carlos Montes Cisternas, Akin Soto Morales, María Ester Aliaga de Larraechea, Berta Belmar Ruiz, Julio Subercaseaux Barros.
+
+Santiago, 11 de Julio de 1989.- Juan Ignacio García Rodríguez, Director.
