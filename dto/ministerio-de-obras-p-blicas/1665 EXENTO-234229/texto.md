@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.665, de fecha 30 de noviembre del 2004, se expropiaron los lotes de terreno Nºs. 5-A y 5-B, superficies 649,0 y 164,0 m²., Rol Nº 169-99, comuna de San Clemente, VII Región, para la obra ''Camino Ruta 115-CH, sector Puente Armerillo-Límite Paso Pehuenche, Tramo Km. 70.000 al Km. 126.360'', y se acordó el valor de indemnización con su propietario Manuel Salvador Rebolledo Cáceres, ascendente a la cantidad de $1.585.303.-
+
+Fiscal del Ministerio de Obras Públicas.
