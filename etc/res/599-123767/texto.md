@@ -1,0 +1,5 @@
+AUTORIZA A DON JUAN NEIRA ALTAMIRANO, LUIS SAAVEDRA MANRIQUEZ, MOISES GALLARDO VEGA, OSCAR ADRIANO VIDAL PALMA PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 599 de 11 de Junio de 1987, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Juan Neira Altamirano, Luis Saavedra Manriquez, Moisés Gallardo Vega y Oscar Adriano Vidal Palma, domiciliados en Población La Gloria, calle Los Araucanos No. 1228, San Vicente, Talcahuano, para operar con una embarcación actualmente en construcción denominada "Calipso III", en el litoral de las Regiones V a IX. Los recursos a extraer son: congrio dorado, congrio negro, congrio colorado, raya, mero y merluza común; anchoa, jurel, sardina común, sardina española, langostino amarillo, langostino colorado. Los recursos anchoa, jurel, sardina española y sardina común, no podrán extraerse en el litoral de la VIII Región.
+
+Valparaíso, 11 de Junio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
