@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.253, de 30 de agosto del 2002, se expropió el lote de terreno Nº 45-1, superficie 46 m2, rol de avalúo 744-5, comuna de El Tabo, para la obra Red Vial Litoral Central Sector 1: Nuevo Camino Costero Acceso a El Tabo K. 1.400,00 al 3.822,00, Quinta Región y se acordó el valor de indemnización con su propietario Juan Arturo Muñoz Contreras, ascendente a la cantidad de $2.152.792.- para el lote Nº 45-1.-
+
+Fiscal del Ministerio de Obras Públicas.
