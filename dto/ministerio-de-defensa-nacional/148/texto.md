@@ -3190,9 +3190,11 @@ Las sanciones o medidas disciplinarias administativas aplicadas o que se aplique
 
 #### Artículo 177°
 
-El personal que se reincorpore al servicio en su mismo empleo o plaza pierde el goce de la pensión concedida, pero tiene derecho a que el tiempo anterior de servicios le sea abonado para los efectos de su posterior retiro. El personal que vuelva al servicio en otras plazas o empleos de las Fuerzas Armadas, Carabineros o Policía de Investigaciones, por un tiempo no inferior a tres años ininterrumpidos y que también dé derecho a pensión de retiro, tendrá derecho a que su pensión anterior le sea reliquidada por una sola vez, considerándosele para estos efectos el total del tiempo servido, ya sea en relación a su último empleo o con el empleo en que obtuvo su anterior pensión de retiro.
+El personal que se reincorpore al servicio en su mismo empleo o plaza pierde el goce de la pensión concedida, pero tiene derecho a que el tiempo anterior de servicios le sea abonado para los efectos de su posterior retiro.
 
-Para gozar de este beneficio, el personal deberá efectuar o integrar las imposiciones correspondientes y le serán aplicables, en su caso, las normas de la Ley 10.986. De igual derecho gozará el personal de la reserva llamado al servicio activo.
+El personal que vuelva al servicio en otras plazas o empleos de las Fuerzas Armadas, Carabineros o Policía de Investigaciones, por un tiempo no inferior a tres años ininterrumpidos y que también dé derecho a pensión de retiro, tendrá derecho a que su pensión anterior le sea reliquidada por una sola vez, considerándosele para estos efectos el total del tiempo servido, ya sea en relación a su último empleo o con el empleo en que obtuvo su anterior pensión de retiro. Para gozar de este beneficio, el personal deberá efectuar o integrar las imposiciones correspondientes y le serán aplicables, en su caso, las normas de la Ley 10.986. De igual derecho gozará el personal de la reserva llamado al servicio activo.
+
+Si la nueva plaza o empleo se ha ejercido en una institución afecta a un organismo previsional distinto al del que obtuvo su primitiva pensión, el personal podrá optar por la reliquidación de su pensión en uno u otro. En el caso que se opte por el organismo previsional distinto al que estaba suscrito el ocurrente al momento de su reliquidación, las imposiciones previsionales correspondientes deberán ser traspasadas a dicha institución de previsión.
 
 Si el personal vuelto al servicio falleciere en servicio activo, con un mínimo de dos años de permanencia, sus beneficiarios de montepío tendrán derecho a la reliquidación de su pensión en las mismas condiciones que se señalan en el inciso segundo, para los efectos de la fijación de su correspondiente pensión de montepío.
 
@@ -3370,25 +3372,31 @@ En todo caso, estas pensiones de montepío serán equivalentes a la totalidad de
 
 #### Artículo 200°
 
-Al montepío tienen derecho los siguientes asignatarios del causante: En primer grado, la viuda; En segundo grado, los hijos legítimos y naturales; En tercer grado, el padre legítimo inválido absoluto o mayor de 65 años; En cuarto grado, la madre legítima viuda o natural, soltera o viuda;
+Al montepío tienen derecho los siguientes asignatarios del causante:
+
+En primer grado, la viuda o, en su caso, el viudo que siendo inválido absoluto omayor de sesenta y cinco años no perciba pensión o rentas de ninguna naturaleza;
+
+En segundo grado, los hijos legítimos y naturales;
+
+En tercer grado, el padre legítimo inválido absoluto o mayor de sesenta y cinco años;
+
+En cuarto grado, la madre legítima viuda o natural, soltera o viuda;
 
 En quinto grado, las hermanas solteras huérfanas que carezcan de medios propios de vida iguales a una suma equivalente en ingresos mínimos a un sueldo vital y medio o más mensual de la Región Metropolitana de Santiago vigentes al 14 de agosto de 1981.
 
-A falta de la viuda, suceden los hijos; a falta de éstos, el padre inválido absoluto o mayor de 65 años; a falta de éste, la madre legítima viuda o natural, soltera o viuda, y a falta de ésta, las hermanas solteras huérfanas que carezcan de medios propios de vida iguales a una suma equivalente en ingresos mínimos, a un sueldo vital y medio o más mensual de la Región Metropolitana de Santiago vigentes al 14 de agosto de 1981.
+A falta de la viuda o viudo con derecho a montepío, suceden los hijos; a falta de éstos, el padre inválido absoluto o mayor de sesenta y cinco años; a falta de éste, la madre legítima viuda o natural, soltera o viuda, y a falta de ésta las hermanas solteras huérfanas que carezcan de medios propios de vida iguales a una suma equivalente en ingresos mínimos a un sueldo vital y medio o más mensual de la Región Metropolitana de Santiago vigentes al 14 de agosto de 1981.
 
-Los asignatarios de los grados segundo, tercero, cuarto y quinto, percibirán su pensión respectiva disminuida en un veinticinco por ciento. La cuota anual inferior a una suma equivalente en ingresos mínimos a dos sueldos vitales mensuales de la Región Metropolitana de Santiago vigentes al 14 de agosto de 1981, no estará afecta a esta restricción.
+Los asignatarios de los grados segundo, tercero, cuarto y quinto percibirán su pensión respectiva disminuida en un veinticinco por ciento. La cuota anual inferior a una suma equivalente en ingresos mínimos a dos sueldos vitales mensuales de la Región Metropolitana de Santiago vigentes al 14 de agosto de 1981, no estará afecta a esta restricción.
 
-Si el causante del montepío dejare viuda e hijos legítimos de anteriores matrimonios o hijos naturales, la pensión se distribuirá entre aquélla y éstos, en la forma que se determine por resolución Ministerial.
+Si el causante del montepío dejare viuda o viudo con derecho a montepío e hijos legítimos de anteriores matrimonios o hijos naturales, la pensión se distribuirá entre aquélla, aquél y éstos, en la forma que se determine por resolución ministerial.
 
-En las pensiones de montepío existirá el derecho a acrecer.
+En las pensiones de montepío existirá el derecho de acrecer.
 
-Para los efectos de éste artículo, la madre legítima anulada de matrimonio y no vuelta a casar, será considerada como madre viuda.
+Para los efectos de este artículo, la madre legítima anulada de matrimonio y no vuelta a casar, será considerada como madre viuda.
 
-En el caso del personal soltero sin hijos que fallezca en las circunstancias que establece el artículo 199°, si el padre legítimo, en su caso, no pudiere gozar de montepío por no reunir las condiciones exigidas por la ley, le sucederá la madre legítima aun cuando estuviere casada con aquél. A falta de ésta, le sucederán los hermanos solteros huérfanos hasta los 21 o 23 años si fueren estudiantes, a menos que acreditaren invalidez o incapacidad absoluta.
+En el caso del personal soltero sin hijos que fallezca en las circunstancias que establece el artículo 199, si el padre legítimo, en su caso, no pudiere gozar de montepío por no reunir las condiciones exigidas por la ley, le sucederá la madre legítima aun cuando estuviere casada con aquél. A falta de ésta, le sucederán los hermanos solteros huérfanos hasta los veintiún o veintitrés años si fueren estudiantes, a menos que acreditaren invalidez o incapacidad absoluta. En estos casos tendrá aplicación lo previsto en el inciso tercero de este artículo.
 
-Concurriendo varias personas llamadas en el mismo grado, la pensión se dividirá entre ellas por partes iguales.
-
-No obstante, si entre estos asignatarios hubiere alguno afectado por una invalidez o incapacidad absoluta, podrá establecerse por Resolución Ministerial una forma especial de distribución.
+Concurriendo varias personas llamadas en el mismo grado, la pensión se dividirá entre ellas por partes iguales. No obstante, si entre estos asignatarios hubiere alguno afectado por una invalidez o incapacidad absoluta, podrá establecerse por resolución ministerial una forma especial de distribución.
 
 #### Artículo 201°
 
@@ -3511,6 +3519,8 @@ El desfinanciamiento que pueda producirse en el Fondo de Desahucio, con motivo d
 #### Artículo 215°
 
 El desahucio del personal que fallezca en servicio activo, corresponderá a los asignatarios de la respectiva pensión de montepío.
+
+Concurriendo varios asignatarios, el desahucio se distribuirá en la misma forma que la pensión de montepío.
 
 En caso de no existir asignatarios de montepío, los herederos abinestato del causante tendrán derecho a la devolución de los descuentos que se le hubieren efectuado para el desahucio, sin intereses. De igual derecho gozará el personal que no alcanzare a cumplir el tiempo mínimo para gozar de pensión de retiro.
 
