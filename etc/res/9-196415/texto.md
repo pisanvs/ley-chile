@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 09, de fecha 20 de enero de 2000, se aprobó la disolución voluntaria de la Cooperativa de Vivienda y Servicios Habitacionales El Toro Limitada, de Talca, que consta en la escritura pública suscrita con fecha 23 de agosto y 16 de noviembre de 1999, ante el Notario Público de Talca, don Héctor Manuel Ferrada.
+
+Por orden del Subsecretario, Cecilia González Martínez, Jefe Departamento de Cooperativas Subrogante, Ministerio de Economía, Fomento y Reconstrucción .
