@@ -30,15 +30,7 @@ transporte de automóviles 14,40 m
 
 c.5) Remolque 11,00 m
 
-c.6) Tracto-camión con semirremolque.
-
-Para el caso que se transporten
-
-exclusivamente vehículos, esta
-
-combinación podrá alcanzar
-
-hasta 22,40 m 18,60 m
+c.6) Tracto-camión con semirremolque 18,60 m
 
 c.7) Camión con remolque o cualquier
 
@@ -56,11 +48,11 @@ el transporte de automóviles 22,40 m
 
 En el caso del largo del remolque no será considerada la barra de acoplamiento, la que sí se considera en el largo total de la combinación camión con remolque.
 
-Las combinaciones tracto-camión con semirremolque especial para el transporte de automóviles y tractocamión con semirremolque cuando se transporten exclusivamente vehículos, que excedan los 18,00 m de largo, sólo podrán circular en las vías que fije la Dirección de Vialidad; asimismo, en la parte posterior del semirremolque de estas combinaciones deberá instalarse un letrero rígido con franjas oblicuas negras y amarillas de 15 cm de ancho, el que, sobre fondo blanco, deberá tener la inscripción "Vehículo especial" y la medida del largo total.
+La combinación tracto-camión con semirremolque especial para el transporte de automóviles que exceda los 18,00 m de largo, sólo podrá circular en las vías que fije la Dirección de Vialidad; asimismo, en la parte posterior del semirremolque de esta combinación deberá instalarse un letrero rígido con franjas oblicuas negras y amarillas de 15 cm de ancho, el que, sobre fondo blanco, deberá tener la inscripción "Vehículo especial" y la medida del largo total.
 
 No obstante lo señalado en la letra c.7) anterior, las combinaciones de vehículos formadas por más de tres unidades separables que excedan de 15,00 m de largo, requerirán de una autorización especial de la Dirección de Vialidad, para circular por las vías públicas.
 
-Excepcionalmente, sin perjuicio de lo dispuesto en la letra c.1), tratándose de buses pullman a que se refiere la resolución Nº 98, de 1986, de este Ministerio, cuyo largo exceda los 13,20 m sin superar los 14,00 m o los 15,00 m tratándose de buses distintos a los buses de dos pisos, entendiéndose como tales aquellos en que los espacios destinados a los viajeros están dispuestos, al menos en una parte, en dos niveles superpuestos, podrán circular por las vías públicas, salvo por aquellas que estén expresamente prohibidas por la Dirección de Vialidad del Ministerio de Obras Públicas.
+Excepcionalmente, sin perjuicio de lo dispuesto en la letra c.1), tratándose de buses pullman a que se refiere la resolución Nº 98, de 1986, de este Ministerio, cuyo largo exceda los 13,20 m sin superar los 14,00 m podrán circular por las vías públicas, salvo por aquellas que estén expresamente prohibidas por la Dirección de Vialidad del Ministerio de Obras Públicas.
 
 > **Nota.** EL Nº 2 de la Resolución 62, Transportes, publicada el 27.12.2001 dispuso que la modificación introducida a este artículo regirá después de ciento veinte días de su publicación.
 
