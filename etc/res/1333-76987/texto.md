@@ -1,0 +1,3 @@
+Por Resolución Nº 1.333, de 14 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, apruébase la solicitud presentada por CARDENIO ANGULO AROS y SOCIEDAD CULTIVOS ACUATICOS MANANTIALES S.A., para transferir la autorización de acuicultura otorgada por Resoluciones Nº 194, de 1988 y Nº 1.921, de 1995, ambas de esta Subsecretaría, a Cardenio Angulo Aros, ubicada en el Puerto Nuevo, comuna de La Unión, provincia de Valdivia, a la Sociedad Cultivos Acuáticos Manantiales S.A. Esta transferencia deberá efectuarse conforme a las normas legales y reglamentarias vigentes.
+
+Valparaíso, 14 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
