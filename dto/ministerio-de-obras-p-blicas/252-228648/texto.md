@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 252, de 23 de octubre de 1987, se expropió el lote No. 6, superficie 26.500 m2., rol de avalúo 141181, comuna de San Vicente de Tagua-Tagua, obra: Alcantarillado de Aguas Servidas de San Vicente de Tagua-Tagua y se acordó el precio de indemnización con su propietario don Avelino Enrique Donoso Peña, ascendente a la suma de $ 3.780.490.
+
+Fiscal del Ministerio de Obras Públicas.
