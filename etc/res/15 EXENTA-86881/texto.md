@@ -1,0 +1,7 @@
+AUTORIZA A PERSONA QUE INDICA PARA DELEGAR FACULTADES QUE SEÑALA
+
+Por Resolución Nº Ex.15, de 6 de Enero de 1998, el suscrito ha facultado al Director Regional de la XIII Dirección Regional Metropolitana Santiago Centro, para autorizar, mediante Resolución, al Jefe de la Oficina Jurídica Regional, para que conozca y resuelva las denuncias por infracciones tributarias previstas y tipificadas en los artículos 97º Nºs 6, 7, 10, 16, 17 y 19; y 109º, ambos del Código Tributario, y además, para conceder las condonaciones que se soliciten respecto de las sanciones que les corresponde aplicar, siempre que se cumplan las condiciones y requisitos establecidos en la resolución antes mencionada.
+
+Conjuntamente con la delegación de facultades que se autoriza, al Director Regional de la XIII Dirección Regional Metropolitana Santiago Centro para dejar sin efecto la delegación de facultades que hizo en la persona del Jefe del Departamento Jurídico Regional y a que se refieren específicamente los números 1º y 2º de la Resolución Nº Ex.3.180, de 28.08.1992, modificada por Resolución Nº Ex.1.967, de 19.04.1995; y, Nºs 1º y 2º de la Resolución Nº Ex. 5.277, de 23.10.1997, modificada por Resolución Nº Ex. 5.458, de 31.10.1997, todas de esta Dirección.-
+
+Javier Etcheberry Celhay, Director.
