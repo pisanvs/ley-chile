@@ -1,0 +1,3 @@
+Por decreto MOP Nº 829, de 31 de julio de 2003, se expropiaron los lotes de terreno Nºs 55-A, 77-A y 78-A, superficie 672 m2., 18.377,00 m2. y 2.264,00 m2., roles de avalúo 278-9 y en trámite, comuna de Pelluhue, para la obra Camino Chovellén-Cobquecura, Sector Chovellén-Límite Regional, tramo Km. 18,260.00 a Km. 35,158.60, Séptima Región y se acordó el valor de indemnización con su propietario Jacinto Vega Pavés o Jacinto Vega Pavez, ascendente a la cantidad total de $37.590.655.
+
+- Fiscal del Ministerio de Obras Públicas.
