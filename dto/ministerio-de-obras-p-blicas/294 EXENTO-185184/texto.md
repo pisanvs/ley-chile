@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº294 de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº49, superficie 307,63 m2, rol de avalúo 1252-49, comuna de Parral, para la obra "Camino Ruta L-70, sector Cruce Ruta 128 - Cuatro Esquinas, Km. 0,000 a Km. 15,800" y se acordó el valor de indemnización con su propietario Noemí del Carmen Roa Espinoza, ascendente a la cantidad de $467.431.
+
+Fiscal del Ministerio de Obras Públicas.
