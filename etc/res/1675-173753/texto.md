@@ -1,0 +1,3 @@
+Por resolución Nº 1.675, de 28 de julio de 2000, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, recházase la solicitud de concesión de acuicultura Nº 95105001 presentada por el SINDICATO TRABAJADORES INDEPENDIENTES, CULTIVADORES Y EXPLOTADORES DE ALGAS BAHIA PULELO, para operar un centro de cultivo ubicado en bahía Manao, comuna de Ancud, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14 del DS Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
