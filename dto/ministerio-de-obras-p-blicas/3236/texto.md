@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.236, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs. 10 y 15-A, superficies 460 y 196 m². respectivamente, roles de avalúo 2509-136 y en trámite, comuna de Isla de Maipo, para la obra Camino Ruta G-420, Sector Camino a Naltagua y se acordó precio de indemnización con sus propietarios Jorge Lührs Antoncich y María Vera Contreras y otra, ascendente a las cantidades de $3.218.775 y $746.820.-
+
+Fiscal del Ministerio de Obras Públicas.
