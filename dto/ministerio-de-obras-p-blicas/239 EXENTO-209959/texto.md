@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 239, de fecha 31 de marzo de 2003, se expropiaron los lotes de terreno Nºs 20, 21, 22 y 23, superficies 507, 97, 2.403 y 334 m², Rol Nº267-46, comuna de Carahue, IX Región, para la obra "Mejoramiento Ruta S-46, sector Carahue-Puerto Domínguez, Km. 0,00000 a Km. 7,34893" y se acordó el valor de indemnización con su propietario Bernardo Riffo Carrillo o Bernardo Rifo Carrillo, ascendente a la cantidad de $2.296.543.-
+
+Fiscal del Ministerio de Obras Públicas.
