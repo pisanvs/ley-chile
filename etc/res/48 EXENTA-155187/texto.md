@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 48 de 14 de Enero de 1986, conforme Artículo 5° Transitorio, Código de Aguas, determinó derechos de Aprovechamiento de Aguas proporcionales que corresponden a Sector Excluido y sector expropiado Predio "Resto del Fundo Los Maquis" de la comuna de Romeral, VII Región; y derechos Aprovechamiento de Aguas que corresponden a las parcelas N°s. 1 a 10, Sitio N°s. 1 a 5 y Reserva, a CORA N° 1 del Proyecto de Parcelación "San Eugenio", formado por predios señalados y Predio "Resto del Fundo Los Molinos", de la Comuna de Romeral. Los derechos de Agua se extraen del Río Teno, Canal La Cañada y del Estero Guaiquillo.- Publicación hecha conforme art. 13 Ley N° 18.377.
+
+- Director Ejecutivo.
