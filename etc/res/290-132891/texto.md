@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PESQUERA ORION LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 290, de 18 de Marzo de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera Orión Limitada, domiciliada en Talcahuano, para ampliar actividades pesqueras autorizadas por resolución No. 1.427, de 1987, de esta Subsecretaría, en orden a operar una planta industrial en la VIII Región, Caleta Lo Rojas, Comuna de Coronel, donde procesará en las líneas de elaboración de congelado, fresco, ahumado y conserva los siguientes recursos hidrobiológicos: Merluza, congrio dorado, congrio negro, pejerrey, raya, bacalao, langostino colorado, langostino amarillo, jurel, machuelo, sardina española, sardina común, anchoveta, caballa. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 18 de Marzo de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
