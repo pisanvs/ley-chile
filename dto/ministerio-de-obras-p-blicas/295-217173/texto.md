@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 295, de 31 de mayo de 1995, se expropiaron los lotes de terreno N°s. 2 y 3, superficies 630 m2. y 197 m2., roles de avalúos 639-50 y 673-1, comuna de Curicó, para la obra Camino Cruce Longitudinal Sarmiento, y se acordó precio de indemnización con sus propietarios Jaime Soler Mallafre y José Guerrero León, ascendente a las cantidades de $2.695.587 y $425.944:
+
+Fiscal del Ministerio de Obras Públicas.
