@@ -1,0 +1,3 @@
+Por resolución Nº1.379, de 29 de septiembre de 1998, de esta Subsecretaría, autorízase a CULTIVOS MARINOS TONGOY S.A., para continuar desarrollando las actividades pesqueras autorizadas por resoluciones Nº289, de 1983, Nº298, de 1987, Nº316, de 1988, todas de esta Subsecretaría, a Cultivos Marinos Tongoy Limitada, en virtud de la escritura pública de modificación de sociedad de fecha 28 de septiembre de 1988, otorgada ante el Notario Público de Santiago, don Enrique Morgan Torres, que modificó y transformó a ''Cultivos Marinos Tongoy Limitada'' en ''Cultivos Marinos Tongoy S.A.''.
+
+Valparaíso, 29 de septiembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
