@@ -1,0 +1,3 @@
+Por resolución N° 206 de 10 de marzo de 1993 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, parte inmueble ubicado en Avenida Cinco de Abril N° 4870 (o 4872), presunto rol de avalúos N° 6551-27 comuna de Estación Central, aparente dominio de don Juan Cruz Cruz. Comisión integrada por peritos Sres. Ricardo Carvallo Rodríguez, arquitecto, Carlos del Pedregal Sánchez, constructor civil y Humberto Mattos Mendoza, ingeniero civil, según informe de 17 de Septiembre de 1992, fijó monto provisional indemnización en $ 1.077.730 pagadera al contado.-
+
+Directora SERVIU Metropolitano.
