@@ -1464,17 +1464,25 @@ Por recursos de valor patrimonial cultural se entenderán aquellas áreas o cons
 
 #### Artículo 2
 
-1.19. Las subdivisiones, urbanizaciones y edificaciones que se realicen fuera de los límites urbanos establecidos en los Instrumentos de Planificación Territorial serán autorizadas por la Dirección de Obras Municipales previa verificación de los antecedentes que, según el caso, se señalan a continuación:
+1.19. La división de predios rústicos que se realice de acuerdo al D.L. Nº 3.516, de 1980, y las subdivisiones, urbanizaciones y edificaciones que autoriza el artículo 55 de la Ley General de Urbanismo y Construcciones, se someterán a las siguientes reglas, según sea el caso:
 
-1. Las subdivisiones conforme al D.L. Nº 3.516, de 1980, que no contemplen obras de urbanización o edificación, no requerirán autorización de la Dirección de Obras Municipales, sin perjuicio del archivo de los antecedentes que opcionalmente presente el interesado.
+1.- Según el D.L. N° 3.516, de 1980, los predios rústicos, esto es, los inmuebles de aptitud agrícola, ganadera o forestal ubicados fuera de los límites urbanos o fuera de los límites de los planes reguladores intercomunales de Santiago, Valparaíso y Concepción, podrán ser divididos libremente por sus propietarios en lotes cuya superficie sea igual o superior a 0,5 hectárea física. Estas divisiones, conforme al artículo 46 de la ley N°18.755, requieren certificación del Servicio Agrícola y Ganadero, respecto al cumplimiento de la normativa vigente en la materia, sin que sea exigible autorización de la Dirección de Obras Municipales. No obstante lo anterior, el interesado deberá remitir copia del plano de subdivisión y de la certificación del Servicio Agrícola y Ganadero, a la Dirección de Obras Municipales para su incorporación al catastro a que se refiere la letra d) del artículo 24 de la Ley 18.695, Orgánica Constitucional de Municipalidades, en su texto refundido fijado por D.F.L. N° 1-19.704, del Ministerio del Interior, de 2001.
 
-2. Las subdivisiones que contemplen sitios menores de 0,5 ha, acogidas al artículo 55 de la Ley General de Urbanismo y Construcciones, deberán presentar fotocopia de la autorización otorgada por la Secretaría Regional del Ministerio de Agricultura y del informe favorable de la Secretaría Regional del Ministerio de Vivienda y Urbanismo.
+2.- Conforme al inciso tercero del artículo 55 de la Ley General de Urbanismo y Construcciones, en relación con lo previsto en la letra e) del inciso segundo del artículo 1º del D.L. Nº 3.516, de 1980, cuando sea necesario subdividir y urbanizar terrenos rurales en lotes cuyas superficies sean inferiores a 0,5 hectárea física, para complementar alguna actividad industrial con viviendas, dotar de equipamiento a algún sector rural, o habilitar un balneario o campamento turístico, o para la construcción de conjuntos habitacionales de viviendas sociales o de viviendas de hasta un valor de 1.000 unidades de fomento, que cuenten con los requisitos para obtener el subsidio del Estado, se deberá solicitar la autorización correspondiente a la Secretaría Regional Ministerial de Agricultura respectiva, la que deberá contar con el informe previo favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo, observando el procedimiento previsto en el artículo 3.1.7. de esta Ordenanza. La Secretaría Regional Ministerial de Vivienda y Urbanismo deberá señalar en su informe el grado de urbanización que deberá tener esa división predial, conforme a lo que establece esta Ordenanza en sus artículos 2.2.10. y 6.3.3., según proceda.
 
-3. Las obras de urbanización, previa autorización de las autoridades competentes, requerirán presentar los antecedentes señalados en el artículo 3.1.7. de esta Ordenanza.
+3.- Para las construcciones necesarias para la explotación agrícola del inmueble, o para las viviendas del propietario del mismo y sus trabajadores, como asimismo, una vez obtenida la autorización a que se refiere el número anterior, para la construcción de conjuntos habitacionales de viviendas sociales o de viviendas de hasta un valor de 1.000 unidades de fomento, que cuenten con los requisitos para obtener subsidio del Estado, a que alude el inciso primero del artículo 55 de la Ley General de Urbanismo y Construcciones, se deberá solicitar el permiso de edificación correspondiente del Director de Obras Municipales, conforme lo exige el artículo 116 del mismo cuerpo legal, acompañando los antecedentes que señala el artículo 5.1.6. de esta Ordenanza. Dicha Autoridad lo concederá previa verificación del cumplimiento de las normas generales de edificación que contempla esta Ordenanza, sin perjuicio del pago de los derechos municipales que procedan. En caso de anteproyectos, se acompañarán los antecedentes que señala el artículo 5.1.5.
 
-4. Las obras de edificación requerirán acompañar los antecedentes que señala el artículo 5.1.6. de esta Ordenanza.
+Para la determinación del valor máximo de 1.000 unidades de fomento, de las viviendas a que se refiere este artículo, se estará al presupuesto indicado en el permiso de edificación incrementado en un 30%, excepto tratándose de viviendas sociales, cuya calificación corresponde practicar al Director de Obras Municipales respectivo, conforme al procedimiento previsto en el artículo 6.1.4. de esta Ordenanza.
 
-La tramitación de las autorizaciones indicadas en los números 2., 3. y 4. anteriores se efectuará conforme al procedimiento general previsto para tales actuaciones y los expedientes recibidos o autorizados se archivarán en un registro especial del catastro municipal.
+Se entenderá que las viviendas aludidas precedentemente cumplen con uno de los requisitos exigidos para obtener el subsidio del Estado, cuando se trata de conjuntos de viviendas en los términos que señala el artículo 6.1.2. de esta Ordenanza.
+
+4.- Para las construcciones industriales, de equipamiento, turismo y poblaciones, fuera de los límites urbanos, que no contemplen procesos de subdivisión, se solicitará la aprobación correspondiente de la Dirección de Obras Municipales, previo informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva y del Servicio Agrícola y Ganadero.
+
+La solicitud ante el Director de Obras Municipales se tramitará conforme al procedimiento general que contempla esta Ordenanza, acompañando los antecedentes que señalan los artículos 5.1.5. ó 5.1.6. según se trate de anteproyecto o proyecto, respectivamente. Dicha Autoridad lo concederá si cuenta con los informes favorables respectivos antes aludidos y previa verificación del cumplimiento de las normas generales de edificación que contempla esta Ordenanza, sin perjuicio del pago de los derechos municipales que procedan.
+
+La Secretaría Regional Ministerial de Vivienda y Urbanismo verificará que las construcciones cumplen con las disposiciones pertinentes del respectivo Instrumento de Planificación Territorial y en el informe favorable se pronunciará acerca de la dotación de servicios de agua potable, alcantarillado y electricidad que proponga el interesado. Para estos efectos, el interesado deberá presentar una memoria explicativa junto con un anteproyecto de edificación, conforme al artículo 5.1.5. de esta Ordenanza. La Secretaría Regional Ministerial respectiva evacuará su informe dentro de 30 días, contados desde el ingreso de la solicitud. El Servicio Agrícola y Ganadero emitirá su informe de acuerdo a la normativa vigente en la materia.
+
+La obtención del permiso de la Dirección de Obras Municipales se sujetará a lo dispuesto en los artículos 118 y 130 de la Ley General de Urbanismo y Construcciones, y en los artículos 1.4.9., 3.1.8. y 5.1.14. de esta Ordenanza.
 
 #### Artículo 2
 
@@ -1490,7 +1498,7 @@ En el área urbana, excluidas las áreas de extensión urbana, cuando la zona af
 
 En los casos en que los Instrumentos de Planificación Territorial no contengan disposiciones sobre superficie predial mínima, ésta será libre, según lo determine el arquitecto autor del proyecto, salvo que se trate de proyectos de loteo acogidos al D.F.L. Nº2, de 1959, en cuyo caso deberá estarse a su Reglamento Especial.
 
-En las áreas rurales la superficie predial mínima será la que determine el respectivo Instrumento de Planificación Territorial, con un mínimo de 5.000 m2.
+En las áreas rurales la superficie predial mínima será la que determine el respectivo Instrumento de Planificación Territorial.
 
 #### Artículo 2
 
@@ -1925,6 +1933,22 @@ En las comunas en que subsidiariamente cumplan la función de Plan Regulador Com
 En las zonas en que el Instrumento de Planificación Territorial permita más de un uso de suelo, deberá especificarse en el plano de loteo o de subdivisión respectivo el o los usos de suelo asignados a cada lote de entre los permitidos por el Instrumento de Planificación Territorial. Este uso de suelo pasará a ser parte del Plan Regulador Comunal, o del Plan Regulador Intercomunal o Metropolitano en las comunas a que alude el inciso anterior, al aprobarse el plano del loteo o de subdivisión por la Dirección de Obras Municipales, sólo si el Instrumento de Planificación Territorial contempla expresamente esta posibilidad.
 
 Los originales de los planos de loteo o de subdivisión deberán archivarse en la Dirección de Obras Municipales y una copia oficial de los mismos en el Conservador de Bienes Raíces respectivo, enviándose además copias del mismo tenor, cuando no exista Plan Regulador Comunal, al Gobierno Regional, a la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, y a la respectiva Secretaría Regional Ministerial del mismo Ministerio.
+
+#### Artículo 2
+
+2.10. Cuando sea necesario subdividir y urbanizar terrenos en el área rural, dotar de equipamiento o habilitar un balneario o campamento turístico, en los términos que señala el artículo 55 de la Ley General de Urbanismo y Construcciones, el informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo deberá considerar los siguientes grados mínimos de urbanización:
+
+1. Agua potable: conexión a red pública o a la red de la empresa concesionaria de servicios sanitarios correspondientes, si existe. En su defecto, sistema de redes colectivas con fuente propia, de acuerdo a lo dispuesto en el Código Sanitario y sus reglamentos, aprobado por la autoridad sanitaria correspondiente.
+
+2. Alcantarillado: conexión a red pública o a la red de la empresa concesionaria de servicios sanitarios correspondientes, si existe. En su defecto, redes colectivas conectadas a plantas de tratamientos y su disposición final, conforme a lo dispuesto en el Código Sanitario y sus reglamentos, aprobado por la autoridad sanitaria correspondiente.
+
+3. Evacuación de aguas lluvias: el escurrimiento de las aguas se deberá hacer en forma natural por calles y pasajes, o por cauces naturales o artificiales de aguas o mediante pozos absorbentes, u otra solución alternativa técnicamente aceptable.
+
+4. Pavimentación: se aplicará lo dispuesto en el artículo 3.2.5. de la presente Ordenanza.
+
+5. Electricidad: conexión a red pública, si la hubiere, o a generador, acorde con los requerimientos del proyecto. Todas las redes de electrificación, de alumbrado público y sus respectivas obras complementarias se ejecutarán en conformidad a las normas y especificaciones sobre diseño y construcción, de acuerdo a las normas técnicas vigentes.
+
+Con todo, cuando sea necesario subdividir o urbanizar un terreno para complementar una actividad industrial con viviendas, habilitar con viviendas un balneario, o para conjuntos habitacionales de viviendas sociales o de viviendas de hasta un valor de 1.000 UF., se aplicará lo dispuesto en los artículos 6.2.8. y 6.3.3. de esta Ordenanza.
 
 ## Capítulo 3.
 
@@ -2716,7 +2740,7 @@ Crecimiento urbano por densificación
 
 #### Artículo 3
 
-1.7. El proceso de subdivisión y urbanización del suelo en terrenos ubicados fuera del límite urbano establecido por un Instrumento de Planificación Territorial, deberá cumplir con lo dispuesto en los artículos 55 y 56 de la Ley General de Urbanismo y Construcciones y ajustarse al siguiente procedimiento:
+1.7. Las solicitudes de subdivisión y urbanización del suelo en terrenos ubicados fuera del límite urbano establecido por un Instrumento de Planificación Territorial, a que se refiere el número 2 del artículo 2.1.19., deberán ajustarse al siguiente procedimiento:
 
 1. Deberán presentarse a la Secretaría Regional del Ministerio de Agricultura los siguientes antecedentes:
 
@@ -2758,7 +2782,7 @@ plano indicando sus características.
 
 2. La Secretaría Regional del Ministerio de Agricultura, en un plazo máximo de 45 días, evaluará la solicitud previo informe del Servicio Agrícola y Ganadero y, en caso de no haber objeciones, enviará los antecedentes a la Secretaría Regional del Ministerio de Vivienda y Urbanismo solicitando el informe favorable correspondiente.
 
-3. La Secretaría Regional del Ministerio de Vivienda y Urbanismo, en un plazo máximo de 45 días, informará lo solicitado y cuando corresponda, fijará las condiciones de urbanización exigibles al proyecto, sin perjuicio de lo dispuesto en el artículo 6.3.3. de esta Ordenanza que establece las condiciones de urbanización que deberán cumplir las viviendas económicas emplazadas en terrenos fuera del límite urbano.
+3. La Secretaría Regional Ministerial de Vivienda y Urbanismo, en un plazo máximo de 30 días, informará lo solicitado y si dicho informe fuere favorable, señalará el grado de urbanización que deberá tener dicha división predial, respetando lo dispuesto en los artículos 2.2.10. y 6.3.3. de esta Ordenanza, según proceda. Si el proyecto de subdivisión o urbanización corresponde a un área normada por un Plan Regulador Intercomunal o Metropolitano, la Secretaría Regional Ministerial de Vivienda y Urbanismo deberá verificar que el proyecto cumple con las normas pertinentes del respectivo Instrumento de Planificación Territorial.
 
 4. Con el mérito de los antecedentes precitados, la Secretaría Regional del Ministerio de Agricultura resolverá sin más trámite respecto a la solicitud y en caso de aprobarla, dejará constancia de las condiciones de urbanización informadas por la Secretaría Regional del Ministerio de Vivienda y Urbanismo.
 
@@ -8052,9 +8076,13 @@ Para efectos de la aplicación de las disposiciones de este artículo, se consid
 
 #### Artículo 6
 
-2.8. Los conjuntos de viviendas de que trata el presente Título, que se emplacen en el área rural, deberán hacerlo preferentemente en aldeas, pueblos, villorrios o caletas, existentes o conformando nuevos asentamientos de este tipo, en cuyo caso, se deberá presentar un proyecto que grafique el emplazamiento del conjunto, sus construcciones, los usos complementarios contemplados conforme al artículo 165 de la Ley General de Urbanismo y Construcciones, y las conexiones con las vías públicas existentes. Para estos efectos, corresponderá a la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva definir las condiciones mínimas de urbanización conforme al artículo 55 de la citada Ley General.
+2.8. Los conjuntos de viviendas económicas emplazados en el área rural de que trata el inciso tercero del artículo 55 de la Ley General de Urbanismo y Construcciones, deberán estar dotados de infraestructura, equipamiento y servicios de acuerdo a las condiciones que establece el presente artículo. Para estos efectos el interesado deberá presentar un proyecto que grafique el emplazamiento del conjunto, sus construcciones y las conexiones con las vías públicas existentes de acuerdo a las disposiciones legales correspondientes.
 
-Para solicitar las autorizaciones de los conjuntos a que se refiere el inciso anterior se estará al procedimiento contemplado en los artículos 3.1.7. y 5.1.6. de esta Ordenanza.
+Corresponderá a la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva informar las condiciones de urbanización que deberán cumplir de acuerdo a lo establecido en el artículo 6.3.3. de la presente Ordenanza, según lo dispone el artículo 55 de la Ley General de Urbanismo y Construcciones.
+
+Sin perjucio de lo anterior, los conjuntos de que trata este artículo deberán cumplir con las disposiciones de restricción, reserva y protección establecidas por los organismos públicos competentes de acuerdo a sus facultades legales y las establecidas en los Instrumentos de Planificación Territorial.
+
+Para solicitar las autorizaciones de los conjuntos de viviendas de que trata este artículo se estará al procedimiento contemplado en los artículos 3.1.7. y 5.1.6. de esta Ordenanza y se tramitará como loteo con construcción simultánea, en el cual se ejecuta simultáneamente la urbanización y la construcción de las edificaciones.
 
 ## Capítulo 3
 
@@ -8100,27 +8128,19 @@ Sin perjuicio de lo anterior y respecto del urbanizador, loteador o propietario,
 
 #### Artículo 6
 
-3.3. Los conjuntos de viviendas de que trata este Título, emplazadas en el área rural deberán cumplir las siguientes condiciones de urbanización mínimas:
+3.3. Los conjuntos de viviendas de que trata este Título, emplazados en el área rural, deberán cumplir las siguientes condiciones de urbanización mínimas:
 
-1. Agua potable: Conexión a red pública si ella existe. En su defecto sistema de redes colectivas con fuente propia, aprobado por el Ministerio de Salud.
+1. Agua potable: conexión a red pública o a la red de la empresa concesionaria de servicios sanitarios correspondiente, si existe. En su defecto, sistema de redes colectivas con fuente propia, de acuerdo a lo dispuesto en el Código Sanitario y sus reglamentos, aprobado por la autoridad sanitaria correspondiente.
 
-En predios de una superficie no inferior a 1.000 m2 se aceptará solución propia consistente en noria, pozo profundo o vertiente, autorizada por el Ministerio de Salud.
+2. Alcantarillado: conexión a red pública o a la red de la empresa concesionaria de servicios sanitarios correspondiente, si existe. En su defecto, redes colectivas conectadas a plantas de tratamientos y su disposición final, conforme a lo dispuesto en el Código Sanitario y sus reglamentos, aprobado por la autoridad sanitaria correspondiente.
 
-2. Alcantarillado: Conexión a red pública si ésta existe. En su defecto, redes colectivas conectadas a baterías de fosas sépticas y drenes. Excepcionalmente se aceptarán sistemas de alcantarillado domiciliario unitario en predios de una superficie mínima de 1000 m2, la que se podrá disminuir hasta 300 m2 si se cuenta con un suministro de agua potable a través de redes públicas. Todas las soluciones deberán ser aprobadas por el Ministerio de Salud.
+3. Evacuación de aguas lluvias: el escurrimiento de las aguas se deberá hacer en forma natural por calles y pasajes, o por cauces naturales o artificiales de aguas o mediante pozos absorbentes, u otra solución alternativa técnicamente aceptable.
 
-3. Pavimentación:
+4. Pavimentación: deberán cumplir con las disposiciones establecidas en el artículo 3.2.5.
 
-Zona norte: Formación de calzada con estabilizado a nivel de subrasante con riego asfáltico y solera sin zarpa.
+de la presente Ordenanza.
 
-Zonas central y sur: Calzadas ripiadas, con estabilizado a nivel de subrasante y solera con zarpa. Se aceptará la formación de calzadas en tierra y solera con zarpa a nivel de subrasante, si en el pueblo, aldea, caleta o villorrio las calles no cuentan con pavimento. En estos casos deberán considerarse los dispositivos de drenaje de las aguas superficiales que eviten la erosión y anegamiento de las calzadas.
-
-Sin perjuicio de lo anterior, las respectivas Secretarías Regionales Ministeriales de Vivienda y Urbanismo podrán establecer condiciones diferentes en atención a las características de los sistemas de centros poblados regionales.
-
-4. Electricidad: Se podrán usar postes de madera de 8 m como mínimo.
-
-En la ferretería a usar, se podrá reemplazar el galvanizado por recubrimiento a base de pinturas, conforme a normas técnicas de la Superintendencia de Electricidad y Combustibles.
-
-En el alumbrado público se permitirá el uso de lámparas incandescentes.
+5. Electricidad: conexión a red pública, si la hubiere, o a generador, acorde con los requerimientos del proyecto. Todas las redes de electrificación, de alumbrado público y sus respectivas obras complementarias se ejecutarán en conformidad a las normas y especificaciones sobre diseño y construcción, de acuerdo a las normas técnicas vigentes.
 
 #### Artículo 6
 
