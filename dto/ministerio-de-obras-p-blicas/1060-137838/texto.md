@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.060, de 29 de abril de 1999, se expropió el lote de terreno Nº 521-C, superficie 1.679,0 m², rol de avalúo 539-87, comuna de La Unión, para la obra ''Concesión Internacional Ruta 5; Tramo Temuco-Río Bueno'', Décima Región y se acordó el valor de indemnización con su propietario Arturo Ismael Prieto Olivares, ascendente a la cantidad de $683.554.-.
+
+Fiscal del Ministerio de Obras Públicas.
