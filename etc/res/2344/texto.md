@@ -1,0 +1,3 @@
+Por resolución Nº 2.344, de 20 de octubre de 2000, de esta Subsecretaría, autorízase a CORPESCA S.A., para ampliar las actividades pesqueras extractivas con la nave ''Eperva 49'', en el área marítima de la I y II Regiones, donde podrá capturar, con red de cerco, por fuera del área de reserva artesanal, los recursos hidrobiológicos Anchoa blanca, Jurel fino, Sardina redonda y Vinciguerria.
+
+Valparaíso, 20 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
