@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 107, de 22 de Mayo de 1986, se expropió el lote N° 7, superficie 44,5 m2., rol de avalúo 128-1, Comuna de La Reina, para Eje Avenida Américo Vespucio, sector Bilbao - Irarrázaval Echeñique - Las Abejas y se acordó el precio de indemnización con su propietaria Sociedad Herman, Anfruns y Compañía Limitada, ascendente a la cantidad de $ 389.760.-
+
+Fiscal del Ministerio de Obras Públicas.
