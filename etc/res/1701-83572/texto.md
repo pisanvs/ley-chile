@@ -1,0 +1,3 @@
+Por Resolución Nº 1.701, de 12 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de reposición presentada por SOCIEDAD VENTURA HERMANOS LIMITADA, respecto de la Resolución Nº 508, de 1997, de esta Subsecretaría, que denegó la autorización para ampliar actividades pesqueras extractivas con la nave "Ventura I", en el litoral de las Regiones I a XII, en virtud de los informes técnicos y normas legales y reglamentarias.
+
+Valparaíso, 12 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
