@@ -1,0 +1,3 @@
+Por Resolución N° 671 de 8 de Septiembre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a TRIPESCA S.A., R.U.T. N° 96.653.590-3, para continuar desarrollando en calidad de continuadora legal de Pesquera San Miguel S.A., R.U.T. N° 81.740.200-3, las actividades pesqueras que ésta tenía autorizadas mendiante las Resoluciones N° 238, de 1988, N° 589, de 1989, N° 981, de 1991, N° 192, N° 193, N° 194, N° 195, todas de 1992, todas de esta Subsecretaría de conformidad a lo dispuesto en el dictamen N° 2299, de 16 de mayo de 1992, de la Superintendencia de Valores y Seguros.
+
+Valparaíso, 8 de Septiembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
