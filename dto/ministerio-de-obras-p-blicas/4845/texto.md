@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.845, de fecha 31 de octubre del 2000, se expropió el lote de terreno Nº53-B, superficie 243 m², rol de avalúo 619-8, comuna de Molina, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca, Séptima Región y se acordó el valor de indemnización con su propietaria Dorila del Carmen Huerta Mondaca, ascendente a la cantidad de $1.666.804.
+
+Fiscal del Ministerio de Obras Públicas.
