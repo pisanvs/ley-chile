@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 547 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 142, superficie 690 m2, Sin Rol comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al 70,000, Etapa IV'' y se acordó el valor de indemnización con su propietaria Victoria Paredes Barraza, ascendente a la cantidad de $1.336.577.
+
+Fiscal del Ministerio de Obras Públicas.
