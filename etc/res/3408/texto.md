@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.408, de 29 de noviembre de 2004, de esta Subsecretaría, autorízase a EMPRESA CONSTRUCTORA CONTEX LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en camino San Antonio s/n, kilómetro 3, comuna Quellón, X Región, donde podrá elaborar en la línea de proceso de Fresco-Enfriado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 29 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
