@@ -1,0 +1,3 @@
+Por Resolución Nº 786, de 4 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 94105012, presentada por ANN EILEEN MARIE CHIPP, para una concesión de acuicultura ubicada en un sector del Golfo de Quetalmahue, comuna de Ancud, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14º, del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 4 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
