@@ -1,0 +1,3 @@
+Por decreto MOP Nº 292, de fecha 31 de marzo de 2004, se expropió el lote de terreno Nº 1-A, superficie 840,68 m², rol Nº 331-58, comuna de Río Negro, para la obra "Camino Ruta U-72, sector Huilma - Riachuelo, tramo Km. 18,14000 al 33,91000", X Región y se acordó el valor de la indemnización con su propietaria María Eugenia Mabel Rosas Vergara, ascendente a la cantidad de $12.041.618.
+
+- Fiscal del Ministerio de Obras Públicas.
