@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 426, de 23 de marzo de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 121, para la obra Camino Cabildo-Putaendo Ruta E-41, sector Guayacán-El Tártaro 2, Tramo Km.
+
+48,50000 a Km. 58,94400, V Región, que figura a nombre de Muñoz Foncea Juan Segundino, rol de avalúo 276-94, superficie 1.429 m²., comuna de Putaendo. La Comisión de Peritos, con fecha 30 de septiembre de 2002, fijó el monto de la indemnización provisional en la cantidad de $2.861.900, para el lote Nº 121, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
