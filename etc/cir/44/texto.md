@@ -1,0 +1,9 @@
+EXTRACTO DE CIRCULAR N° 44 DE 28.10.94
+
+Materia: Entero del impuesto de la Ley de Timbres y Estampillas que afecta a los mutuos de dinero otorgados mediante instrumento privado.
+
+Mediante Circular N° 44, de 1994, la Dirección Nacional del Servicio de Impuestos Internos imparte instrucciones sobre la Resolución Ex. N° 2.824, de 23.06.94, publicada en el Diario Oficial de fecha 04 de Julio del mismo año. De acuerdo con la facultad que le otorga el Art. 18° de la Ley sobre Impuesto de Timbres y Estampillas, contenida en el D.L. N° 3.475, de 1980, el Director ha dispuesto que en el caso de los mutuos de dinero contenidos en un documento privado suscrito entre particulares, el gravamen se pague únicamente mediante ingreso de dinero en la Tesorería, debiendo este pago acreditarse con el respectivo formulario 24.1, especialmente diseñado para ese efecto. El referido formulario no reemplaza al N° 24, en uso para los efectos de declaración y pago del tributo que afecta al resto de las actuaciones y documentos afectos al impuesto. De acuerdo con lo dispuesto en el Art. 11°, inciso tercero, en relación con el Art. 16° de la Ley de Timbres y Estampillas, los Notarios y los Oficiales del Registro Civil que autoricen o protocolicen escrituras públicas o privadas o documentos afectos a los impuestos de esta ley, son responsables del pago de dichos tributos, sin perjuicio de su derecho a retener estos gravámenes y salvo que se trate de documentos que deban pagar los tributos con arreglo a lo dispuesto en el N° 2 del Art. 15°.
+
+El texto completo de la Circular N° 44, de 1994, se publicará en el Boletín del Servicio de Impuestos Internos, del mes de Noviembre de 1994.
+
+Javier Etcheberry Celhay-Director.
