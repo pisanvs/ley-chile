@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº710 de fecha 30 de abril del 2002, se expropiaron los lotes de terreno Nº30 y 33, superficies 146 y 147 m2, rol de avalúo Nº221-49, comuna de Coelemu, para la obra ''Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 a Km. 8,28000'', VIII Región y se acordó el valor de indemnización con su propietario Cornelio Octavio Alegría Flores, ascendente a la cantidad de $543.451.-
+
+Fiscal del Ministerio de Obras Públicas.
