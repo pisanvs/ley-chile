@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 224, de 14 de marzo de 1997, el Fisco se desistió parcialmente de la expropiación para la Empresa Metropolitana de Obras Sanitarias S.A., correspondiente al lote Nº 2, destinado a la ejecución de la obra Programa de Tratamiento A.S., del Gran Santiago, Planta de Tratamiento A.S., Santiago Sur, aprobada por Decreto M.O.P. Nº 698, de fecha 22 de noviembre de 1995, en lo que respecta a una superficie de 80.000 m2., que se individualiza en el plano y cuadro de expropiación respectivo.
+
+Fiscal del Ministerio de Obras Públicas.
