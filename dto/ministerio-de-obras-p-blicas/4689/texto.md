@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.689, de 27 de octubre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP. Nº206, de 1960, se expropió el lote de terreno Nº14, para la obra:
+
+''CONCESION INTERNACIONAL INTERCONEXION VIAL SANTIAGO-VALPARAISO-VIÑA DEL MAR. TRONCAL SUR. TRAMO 3. KM. 96.800,00 A KM. 99.200,00'', Quinta Región, que figura a nombre de Serviu, sin rol de avalúo, comuna de QUILPUE, superficie 72.884 m2. La comisión de peritos integrada por los señores Marcela Alejandra Redard Ayala, Joaquín Prieto Ochagavía y Fernando José Senerman Mandel, fijó con fecha 10 de julio de 2000, el valor provisional de la indemnización en la cantidad de $294.780.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
