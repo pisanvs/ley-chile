@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA GRUBNER LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No.1.187 de 29 de Agosto de 1989 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Grubner Limitada, R.U.T. No.79.511.730-K, domiciliada en la ciudad de Puerto Chacabuco, para ampliar actividades pesqueras que tiene autorizadas por Resoluciones No.841, de 1987 y No.66, de 1988, ambas de esta Subsecretaría, en orden a incluir en la planta industrial ubicada en Puerto Aysén, calle O'Higgins No.498, autorizada por Resolución No.66, antes citada, los recursos hidrobiológicos Pejerrey de mar y Tollo de cachos. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de Agosto de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
