@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.226, de 28 de diciembre de 2001, se expropió el lote de terreno Nº72, superficie 1.427 m2., rol de avalúo 103-153, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 6A3; Kms. 33.800,00 al 34.720,00 y se acordó el valor de indemnización con su propietario Rodolfo Luciano Pinto Villanueva, ascendente a la cantidad de $11.639.831.-
+
+Fiscal del Ministerio de Obras Públicas.
