@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº116, de fecha 6 de diciembre del año 2000, se aprobó la disolución voluntaria de la Cooperativa de Trabajo La Esquila Limitada, de sigla ''La Esquila Ltda.'', de Punta Arenas, que consta en la escritura pública suscrita con fecha 3 de noviembre del año 2000, ante el Notario Público de Magallanes y Antártica Chilena, don Horacio Silva Reyes.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
