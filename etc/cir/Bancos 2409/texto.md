@@ -5462,11 +5462,11 @@ Los depósitos, captaciones y otras obligaciones en monedas extranjeras estarán
 
 1.1. Depósitos, captaciones y obligaciones a la vista
 
-Los depósitos, captaciones y obligaciones a la vista estarán afectos a una tasa de encaje de 19%.
+Los depósitos, captaciones y obligaciones a la vista estarán afectos a una tasa de encaje de 9%.
 
 1.2. Depósitos, captaciones y obligaciones hasta un año plazo.
 
-Los depósitos, captaciones y obligaciones a plazo, cualquiera que sea su naturaleza, estarán afectos a una tasa de encaje de 13,6%.
+Los depósitos, captaciones y obligaciones a plazo, cualquiera que sea su naturaleza, estarán afectos a una tasa de encaje de 3,6%.
 
 2. Cuentas de depósitos, captaciones y obligaciones en monedas extranjeras afectas a encaje.
 
@@ -5496,29 +5496,9 @@ N° 3065 "Depósitos y captaciones", con excepción de la cuenta "Captaciones a 
 
 N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a plazo, mencionadas en el Anexo N° 2 del Capítulo 8-21 de esta Recopilación.
 
-### 3. Impartes que se pueden deducir de las obligaciones afectas a encaje
+3.- Deducción del canje de las obligaciones afectas a encaje.
 
-3.1.- Canje.
-
-Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaciones a la vista afectos a encaje, el saldo de las cuentas "Canje de la plaza" y "Canje de otras plazas", en la respectiva moneda extranjera. La permanencia de los importes registrados en la cuenta "Canje de la plaza" será de un día hábil bancario, en tanto que para los contabilizados en la cuenta "Canje de otras plazas", será de dos días hábiles bancarios.
-
-3.2.- Inversiones y colocaciones en el exterior.
-
-Los bancos podrán deducir de sus obligaciones a plazo afectas a encaje señaladas en, este título; los saldos que mantengan correspondientes a las inversiones financieras y a las colocaciones en el exterior, de que trata la letra
-
-- **B)** y la letra
-
-- **C)** , respectivamente, del Capítulo III.B.5 del Compendio de Normas Financieras, como asimismo las inversiones en bonos, adquiridos en el exterior, de que trata la letra
-
-- **b)** del numeral 2.2 del Capítulo XIII del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile.
-
-Los bancos podrán deducir de las obligaciones a la vista mencionadas en este título, el excedente de deducible que se origine cuando las obligaciones a plazo mencionadas en este título sean inferiores al total del importe deducible por las inversiones y colocaciones en el exterior antes señaladas.
-
-En caso que el importe deducible sea superior al monto de las obligaciones a plazo y a la vista de que trata este título, el remanente puede ser deducido del monto de las obligaciones con el exterior de que trata el título IV de este Capítulo.
-
-El importe total que los bancos pueden deducir de sus obligaciones afectas a encaje, conforme a lo señalado en los párrafos precedentes, no podrá exceder del 70% de su patrimonio efectivo. No obstante, ese límite podrá superarse hasta por el 70% del patrimonio efectivo, siempre que el exceso corresponda exclusivamente a las inversiones financieras aludidas en el N° 3 de la letra A del Capítulo III. B. 5 del Compendio de Normas Financieras.
-
-Para el solo efecto de la determinación de la posición de encaje, el importe de las inversiones y de los créditos señalados en el primer párrafo de este numeral, susceptibles de ser deducidos de las obligaciones afectas a encaje, será registrado en las cuentas "Inversiones en el exterior deducibles para encaje" y "Créditos al exterior deducibles para encaje", respectivamente, de la partida 9167. La cuenta "Inversiones en el exterior deducibles para encaje" reflejará todas las inversiones que se deducen, incluidas las que permiten ampliar el monto de la deducción. El importe contenido en esa cuenta que corresponda a estas inversiones en particular, se reflejará además en la cuenta "Inversiones utilizables para el margen adicional", de la misma partida. Por otra parte, el monto correspondiente al límite del deducible sin considerar el margen adicional, esto es, el equivalente al 70% del patrimonio efectivo, se incluirá en la cuenta "Límite del deducible por inversiones y colocaciones", de la partida 9167 antes mencionada.
+Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaciones a la vista afectos a encaje, el saldo de las cuentas "Canje de la plaza" y "Canje de otras plazas", en la respectiva moneda extranjera La permanencia de los importes registrados en la cuenta "Canje de la plaza" será de un día hábil bancario, en tanto que para los contabilizados en la cuenta "Canje de otras plazas", será de dos días hábiles bancarios.
 
 ### 4. Encaje exigido y mantenido
 
@@ -5544,11 +5524,11 @@ Aquellos fondos de las cuentas corrientes que se utilicen para efectuar depósit
 
 IV.- ENCAJE SOBRE OBLIGACIONES CON EL EXTERIOR.
 
-Las instituciones financieras darán cumplimiento a la exigencia de encaje sobre las obligaciones con el exterior, de acuerdo con las siguientes instrucciones:
+Los bancos darán cumplimiento a la exigencia de encaje sobre las obligaciones con el exterior, de acuerdo con las siguientes instrucciones:
 
 1.- Tasa de encaje.
 
-Las obligaciones contraídas con el exterior por las entidades financieras, estarán afectas a una tasa de encaje del 13,6%
+Las obligaciones contraídas con el exterior hasta un año plazo, estarán afectas a una tasa de encaje del 3,6%.
 
 2.- Obligaciones afectas a encaje.
 
@@ -5566,23 +5546,15 @@ N° 3520 "Corresponsables ALADI-Banco Central".
 
 N° 3525 "Otros préstamos y obligaciones".
 
-3.- Importe que se puede deducir.
+3.- Encaje exigido y mantenido.
 
-Los bancos pueden deducir diariamente de sus obligaciones con el exterior afectas a encaje de que trata este título, el importe remanente de sus inversiones financieras y colocaciones en el exterior que se haya determinado conforme a lo previsto en el numeral 3.2 del título III de este Capítulo.
-
-4.- Encaje exigido y mantenido.
-
-4.1.- Encaje exigido.
+3.1.- Encaje exigido.
 
 El encaje exigido se calculará por "períodos mensuales", según lo señalado en el N° 1 del título I de este Capítulo, sobre el promedio de las obligaciones antes mencionadas, en cada una de las diferentes monedas extranjeras, calculado sobre la base de los saldos diarios del respectivo mes, considerando los días corridos del período.
 
-4.2.- Encaje mantenido.
+3.2.- Encaje mantenido.
 
 El encaje, para cada una de las monedas extranjeras en que estén expresadas las obligaciones con el exterior, deberá estar compuesto sólo por los fondos señalados en el numeral 4.2 del título III de este Capítulo.
-
-V.- Información a esta Superintendencia.
-
-Las instituciones financieras deberán enviar a esta Superintendencia la información relativa a los encajes de que tratan los títulos II, III y IV de este Capítulo, de conformidad con las instrucciones del Manual del Sistema de Información.
 
 VI.- ELIMINADA.
 
@@ -5597,6 +5569,8 @@ A continuación se señalan los principales indicadores que guardan relación co
 (1) Sólo en moneda chilena y en monedas extranjeras sujetas a posición.
 
 .
+
+> **Nota.** La letra G), de la Circular 3222, SBIF, promulgada el 30.04.2003, suprime los indicadores signados con los números 505, 506, 507, 508 y 509 del del presente Anexo.
 
 CAPITULO 4-2 (Bancos y Financieras)
 
