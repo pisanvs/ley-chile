@@ -1,0 +1,5 @@
+AUTORIZA A DON PEDRO SILVA SANTANA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 679, de 05 de Julio de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Pedro Silva Santana R.U.T. No. 4.758.823-5, domiciliado en Santiago, para ampliar actividades pesqueras autorizadas en resolución No. 894, de 1987, de esta Subsecretaría, en orden a operar la embarcación denominada "Irma Rosa", en el litoral de las Regiones I a X, donde podrá extraer los siguientes recursos hidrobiológicos: Albacora o pez espada, bacalao de profundidad, congrio negro, congrio dorado, corvina. Asimismo, se autoriza al peticionario para ampliar la zona de operación de la embarcación "Constanza", autorizada por la resolución citada, al litoral de la I, II y X Región. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo con las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 05 de Julio de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
