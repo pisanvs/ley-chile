@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 862 Agosto 03 de 1988, Alcalde I. Municipalidad de Santiago dispone expropiación total propiedad García Reyes 226 Rol 334-11 Santiago, aparentemente dominio Fortunato Ferreira Vildósola. Deslindes Norte: 17,30 Mts. Otro propietario: Sur: 16,50 Mts. línea quebrada otro propietario; Oriente: 10,50 Mts. calle García Reyes; Poniente: 10 Mts área uso público. Superficie aproximada 145 Mts.2. Indemnización provisional $ 1.232.500.- pagadera contado.
+
+Alcalde de Santiago.
