@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº54, de 25 de febrero de 1993, se ordenó la expropiación y aprobó el plano y cuadro de expropiación del lote de terreno Nº26, y por decreto MOP Nº1588, de 12 de octubre de 2001, se autorizó el valor de la consignación provisional de la expropiación por la vía judicial, en la cantidad de $237.500 necesario para la ejecución de la obra "Camino Olivar-Coinco Curepto, Km. 3.460.00 a Km. 17.715.00". El pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
