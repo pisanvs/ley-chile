@@ -1,0 +1,5 @@
+Por Resolución Nº 2.146, de 26 de diciembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PRODUCTORA Y COMERCIALIZADORA DEL MAR LIMITADA, para ampliar actividades pesqueras, autorizadas por Resoluciones Nº 1.030 de 1992, Nº 251 y Nº 801, ambas de 1994, todas de esta Subsecretaría, en orden a incorporar la línea de proceso seco-salado a las ya autorizadas, esto es, Conserva, Congelado y Fresco-refrigerado. En todas estas líneas de elaboración podrá utilizar los siguientes recursos hidrobiológicos: Atún aleta amarilla, Atún aleta larga, Atún ojos grandes, Cabrilla, Cojinoba del norte, Cojinoba del sur, Dorado, Reineta, Chitón o apretador, Navaja de mar o huepo, Tumbao y Centolla del norte.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 26 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
