@@ -1,0 +1,3 @@
+Por Resolución N° 683, de 15 de Julio de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las Resoluciones N° 513, de 1988 y N° 980, de 1989, ambas de esta Subsecretaría, solamente en cuanto autorizaron a PESQUERA MAR DEL SUR S.A., R.U.T. N° 96.513.090-K, domiciliada en Avda. 11 de Septiembre N° 1860, Oficina 142, para operar la nave "Mar del Sur III", en virtud de lo dispuesto en la letra b) del artículo 143 del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 15 de Julio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
