@@ -1,0 +1,9 @@
+EXTRACTO DE DECRETO Nº 297 EXENTO, DE 2003
+
+Por decreto exento Nº297 de fecha 5 de mayo de 2003 del Ministerio de Educación, se modifica el artículo 1º del decreto exento Nº409 del 16 de abril de 1997 del Centro de Formación Técnica Santo Tomás en el sentido de impartir la carrera de Técnico en Enfermería de Nivel Superior en la Sede Nº20 de Punta Arenas, por única vez, en tres etapas, para los funcionarios Auxiliares Paramédicos de Enfermería pertenecientes al Servicio de Salud Magallanes, Corporación Municipal de Magallanes y Clínica Magallanes, que cumplen los requisitos de ingreso a este nivel de educación y con las exigencias establecidas por la institución, según nómina que se anexa y que forma parte del decreto.
+
+El programa especial de titulación, se desarrollará de acuerdo al número de horas del plan de estudios aprobado por el Ministerio de Educación, más un proceso de titulación, en un año académico, en tres cursos y etapas, correspondiendo la Segunda Etapa desde el 12 de abril de 2002 al 12 de abril de 2003, a fin de regularizar las diferentes situaciones académicas de los postulantes que cumplan con los requisitos de ingreso a este nivel de educación y con las exigencias establecidas por la institución.
+
+Asimismo, se mantiene para todos los efectos legales lo dispuesto en el artículo 1º del decreto exento Nº409 del 16 de abril de 1997 del Centro de Formación Técnica Santo Tomás, de aprobación del plan y programas de la carrera de Técnico en Enfermería de Nivel Superior, para los alumnos regulares del centro antes mencionado.
+
+Santiago, 19 de mayo de 2003.- María Ariadna Hornkohl Venegas, Subsecretaria de Educación.
