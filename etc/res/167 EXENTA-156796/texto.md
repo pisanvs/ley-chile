@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 167 de 14 de Febrero de 1985 conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a Sector excluido y Sector expropiado predio "Resto del Predio Rústico denominado Los Litres", de la Comuna de Nogales, Quinta Región; y derechos aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 35 y sitios N°s. 1 al 35 del Proyecto de Parcelación "El Tranque" formado por predio señalado. Los derechos de agua se extraen del Canal "Los Litres".Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
