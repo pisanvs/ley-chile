@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº422, de 17 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº17, para la obra Camino Ruta L-70, sector Cruce Ruta 128- Cuatro Esquinas Km. 0,000 al 15,800, que figura a nombre de Francisco L. Fuentes Medel, rol de avalúo 1252-142, comuna de Parral, superficie 153,10 m². La Comisión de Peritos, fijó con fecha 3 de febrero de 1999, en la cantidad de $396.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
