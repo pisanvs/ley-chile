@@ -1,0 +1,3 @@
+Por Resolución No. 617 de 07 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deja sin efecto la Resolución Nº 851 de 1991, que derogó la Resolución Nº 56 de 1983, ambas de esta Subsecretaría, la cual autorizó a doña JULIA NAUCO CALFULAF, R.U.T. Nº 8.290.096-9, domiciliada en Sector Desembocadura Río Colún, Comuna de Corral, para realizar actividades pesqueras de cultivo de choro zapato.
+
+Valparaíso, 07 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
