@@ -1,0 +1,9 @@
+Por resolución No. 948, de 19 de Agosto de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD COMERCIAL E INDUSTRIAL PESMAR LIMITADA, RUT No. 78.063.450-2, domiciliada en la ciudad de Talcahuano, para iniciar actividades pesqueras, en orden a instalar y operar una planta industrial ubicada en Ernesto Macaya No. 1348, Talcahuano, donde podrá procesar en la línea de elaboración de conserva, los siguientes recursos hidrobiológicos: Bacalao de profundidad, Pejerrey de mar, Salmón del Atlántico, Salmón Keta, Salmón plateado, Salmón rey, Trucha arcoiris, Almeja o taca, Calamar, Cholga, Chorito, Culengue, Lapa, Navajuela, Navaja de Mar, Ostra chilena, Pulpo, Jaiba mora, Jaiba marmola, Jaiba peluda, Jaiba reina, Jaiba araña, Picoroco, Erizo y Piure. Para elaborar el recurso Erizo, el interesado deberá acreditar su procedencia de zonas no afectas a restricción, mediante Guías de Libre Tránsito otorgado por el Servicio Nacional de Pesca.
+
+Las especies cholga, chorito, ostra y Salmones deberán provenir de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria, para la elaboración de los demás recursos hidrobiológicos, individualizados por la peticionaria, en razón de que en sus características físico- químicas no es factible su proceso en la línea de elaboración de conservas." Deniégase además, la autorización solicitada por la peticionaria para procesar el recurso loco, de conformidad al DS No. 126 de 1989, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 19 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
