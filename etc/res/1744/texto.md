@@ -1,0 +1,5 @@
+Por Resolución N° 1.744, de 8 de octubre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 5° de la Resolución N° 1.452, de 1995, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DE VALPARAISO, para efectuar una pesca de investigación de conformidad con el proyecto "Evaluación de la Interacción Jurel-Merluza con Redes de Media Agua Pelágicas", en el sentido de señalar que la pesca de investigación finalizará el 31 de diciembre de 1996 y constará sólo de una etapa conforme a las modificaciones de los Términos Técnicos de Referencia aprobados por esta Subsecretaría.
+
+Déjase sin efecto la Resolución N° 323, de 1996, de esta Subsecretaría, en virtud de lo dispuesto en la presente Resolución.
+
+Valparaíso, 8 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
