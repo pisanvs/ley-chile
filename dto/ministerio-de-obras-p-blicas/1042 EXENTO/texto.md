@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.042, de 31 de julio de 2001, se expropió el lote de terreno Nº29, superficie 99 m², rol de avalúo 546-65, comuna de Linares, para la obra "Camino Ruta L-31, Sector Polvorines - La Floresta, Tramo Km. 0,00000 al 15,48000" y se acordó el valor de indemnización con su propietaria María Cecilia Bucarey Elgueta, ascendente a la cantidad de $496.777.-
+
+Fiscal del Ministerio de Obras Públicas.
