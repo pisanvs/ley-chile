@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.060, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº4, superficie 9.784 m², rol de avalúo 70-25, comuna de Galvarino, para la obra "Camino Ruta S-16, Sector Galvarino - Chol Chol, tramo Km. 0,0000 al 24,30269, correspondiente al Sub-Tramo I Km. 0,005 al 8,339" y se acordó el valor de indemnización con su propietario Susana del Carmen Escobar Vergara, ascendente a la cantidad de $2.550.093.-
+
+Fiscal del Ministerio de Obras Públicas.
