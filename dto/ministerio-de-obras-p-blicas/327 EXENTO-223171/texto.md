@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 327 de fecha 27 de febrero del 2004, se expropiaron los lotes de terreno Nº s. 91-B, 91-C y 92, superficies 595, 745 y 720 m2, respectivamente Rol Nº 957-012 y 957-009, comuna de Alto Carmen, III Región para la obra "Camino Ruta C - 489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 a Km. 70,000, Etapa III" y se acordó el valor de indemnización con su propietaria Noelia Díaz Yáñez, ascendente a la cantidad de $5.062.430.-
+
+Fiscal del Ministerio de Obras Públicas.
