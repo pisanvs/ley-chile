@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.414 de 29 de octubre de 1999, se expropió el lote de terreno Nº 97-5, superficie 668 m², rol de avalúo 190-6, comuna de Osorno, para la obra Concesión Internacional Ruta 5: Tramo Río Bueno - Puerto Montt. Sector: Enlace Osorno, Décima Región y se acordó el valor de indemnización con su propietario Fidel Carrillo, ascendente a la cantidad de $33.727.373.
+
+- Fiscal del Ministerio de Obras Públicas.
