@@ -4394,15 +4394,17 @@ Las entidades públicas regidas por el D.L. N° 1.263, de Administración Financ
 
 De conformidad con las autorizaciones que el referido Ministerio ha puesto en conocimiento de esta Superintendencia, las entidades públicas incluidas en el Anexo N° 1 adjunto quedan autorizadas, hasta la fecha que en cada caso se indica, para invertir sus excedentes estacionales de caja en depósitos o en otros instrumentos del mercado de capitales, sin necesidad de requerir en cada oportunidad la conformidad expresa del Ministerio correspondiente.
 
-ANEXO N° 1
+ANEXO N°1
 
-INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
+INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES
 
 INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Agencia de Cooperación Internacional (AGCI).
 
-- Astilleros y Maestranzas de la Armada (ASMAR). Carbonífera Victoria-Lebu S.A.(CARVILE).
+- Astilleros y Maestranzas de la Armada (ASMAR).
+
+- Carbonífera Victoria-Lebu S.A.(CARVILE)
 
 - Casa de Moneda de Chile.
 
@@ -4414,7 +4416,7 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Comando de Industria Militar e Ingeniería.
 
-- Comercializadora de Trigo S.A.(COTRISA S.A.)
+- Comercializadora de Trigo S.A. (COTRISA S.A.)
 
 - Comisión Nacional Investigaciones Científicas y Tecnológicas (CONICYT).
 
@@ -4424,9 +4426,11 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Cuerpo Militar del Trabajo.
 
-- Departamento Bienestar Dirección General de Aeronáutica Civil.
+- Departamento Bienestar Dirección General de Aeronáutica Civil
 
 - Dirección de Aprovisionamiento del Estado (DAE).
+
+- Dirección de Bibliotecas, Archivos y Museos (DIBAM).
 
 - Dirección de Bienestar de Carabineros de Chile.
 
@@ -4450,15 +4454,15 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Empresa de Obras Sanitarias de Valparaíso S.A. (ESVAL S.A.)
 
-- Empresa de Servicios Sanitarios de Antofagasta S A. (ESSAN S.A.)
+- Empresa de Servicios Sanitarios de Antofagasta S.A. (ESSAN S.A.)
 
-- Empresa de Servicios Sanitarios de Atacama S.A. (EMSSAT S.A. )
+- Empresa de Servicios Sanitarios de Atacama S.A. (EMSSAT S.A.)
 
-- Empresa de Servicios Sanitarios de Aysén S.A. (EMSSA S.A.)
+- Empresa de Servicios Sanitarios de Aysén S.A.(EMSSA S.A. )
 
 - Empresa de Servicios Sanitarios de Coquimbo S.A. (ESSCO S.A.)
 
-- Empresa de Servicios Sanitarios de La Araucanía S.A.(ESSAR S.A.)
+- Empresa de Servicios Sanitarios de La Araucanía S.A. (ESSAR S.A.)
 
 - Empresa de Servicios Sanitarios de Los Lagos S.A. (ESSAL S.A.)
 
