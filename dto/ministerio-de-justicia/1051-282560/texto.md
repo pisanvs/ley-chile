@@ -24,9 +24,9 @@ Constitúyese una corporación de derecho privado, regida por el Título treinta
 
 La corporación tiene por objeto: 1° Desarrollar entre sus asociados la práctica y fomento de la radioafición, como una actividad recreativa, proyectándola hacia la comunidad 2°. Reunir a todas las personas que deseen integrarla y que tengan interés en la radioafición; 3° Propender al mutuo conocimiento, solaz y perfeccionamiento de sus asociados, aumentando sus relaciones y practicando la amistad y solidaridad entre ellos; 4°. Organizar conferencias, cursos y en general todo tipo de actividades que favorezcan el mejoramiento de la radioafición; 5° Prestar su apoyo y colaboración en telecomunicaciones a las autoridades, especialmente en casos de catástrofes o emergencias, por intermedio de sus recursos técnicos y humanos.
 
-#### Artículo 3°
+#### Artículo 3º
 
-Para todos los efectos legales, el domicilio del Club será la provincia de Región .
+El domicilio de la corporación será la comuna de ___________ , Provincia de __________ , Región ________ , sin perjuicio que pueda desarrollar sus actividades en otros puntos del país.
 
 #### Artículo 4°
 
@@ -68,7 +68,7 @@ Los socios activos tienen las siguientes obligaciones:
 
 a) Servir los cargos para los cuales sean designados y colaborar en las tareas que se les encomienda;
 
-b) Asistir a las reuniones a que fueren legalmente convocados;
+b) Asistir a las reuniones a que fueren convocados de acuerdo a sus estatutos;
 
 c) Cumplir oportunamente con sus obligaciones pecuniarias para con la corporación;
 
@@ -166,7 +166,7 @@ e) Los acuerdos a que se refieren las letras a), b), y d), deberán reducirse a 
 
 #### Artículo 22
 
-Las citaciones a las Asambleas se harán por carta o circular enviada con quince días de anticipación, a lo menos, a los domicilios que los socios tengan registrados en la corporación. Deberá publicarse además, un aviso, por dos veces, en un diario de la capital de la provincia en que se encuentre ubicado el domicilio de la corporación, dentro de los diez días que precedan al fijado para la reunión. No podrá citarse en el mismo aviso para una segunda reunión, cuando por falta de quórum no se lleve a efecto la primera.
+Las citaciones a las Asambleas se harán por carta o circular enviada con quince días de anticipación, a lo menos, a los domicilios que los socios tengan registrados en la corporación. Deberá publicarse además, un aviso en un Diario de circulación nacional, dentro de los diez días que precedan al fijado para la reunión. No podrá citarse en el mismo aviso para una segunda reunión, cuando por falta de quórum no se lleve a efecto la primera.
 
 #### Artículo 23
 
@@ -194,11 +194,11 @@ Del Directorio
 
 #### Artículo 28
 
-Al Directorio compuesto de siete miembros corresponde la administración y dirección de la corporación, en conformidad a los estatutos y a los acuerdos de la Asamblea General.
+Al Directorio corresponde la administración y dirección superior de la Corporación en conformidad a los Estatutos y a los acuerdos de las Asambleas Generales.
 
 #### Artículo 29
 
-El Directorio de la corporación se elegirá en la Asamblea General Ordinaria de cada año en la cual cada miembro sufragará en una sola cédula por una sola persona, proclamándose elegidos a los que en una misma y única votación resulten con el mayor número de votos, hasta completar el número de miembros del Directorio que deban elegirse. En caso de empate entre dos o más candidatos que ocupen el último lugar, se decidirá por sorteo.
+El Directorio de la Corporación, compuesto por ______ miembros, se elegirá en la Asamblea General Ordinaria de cada año en la cual cada socio sufragará en una sola cédula por una sola persona, proclamándose elegidos a los que en una misma y única votación resulten con el mayor número de votos, hasta completar el número de miembros del Directorio que deban elegirse. En caso de empate entre dos o más candidatos que ocupen el último lugar, se decidirá por sorteo.
 
 #### Artículo 30
 
@@ -218,7 +218,7 @@ El Directorio de la corporación deberá en primera sesión, designar presidente
 
 #### Artículo 34
 
-Podrá ser elegido miembro del Directorio cualquier socio activo, siempre que al momento de la elección no se encontrare suspendido en sus derechos, conforme a lo dispuesto en el artículo décimo. Los Directores durarán un año en sus funciones y podrán ser reelegidos.
+Podrá ser elegido miembro del Directorio cualquier socio activo, siempre que al momento de la elección no se encontrare suspendido en sus derechos, conforme a lo dispuesto en el artículo 11. Los Directores durarán un año en sus funciones y podrán ser reelegidos.
 
 #### Artículo 35
 
@@ -228,7 +228,7 @@ a) Dirigir la corporación y velar porque se cumplan los estatutos y las finalid
 
 b) Administrar los bienes sociales e invertir sus recursos;
 
-c) Citar a Asambleas Generales de socios, tanto ordinarias como extraordinarias, en la forma y época que señalen estos estatutos;
+c) Citar a Asambleas Generales de Socios, tanto ordinarias como extraordinarias, en la forma y época que señalen estos estatutos. En el evento que el Directorio no cite a Asambleas Generales de Socios, debiendo hacerlo de conformidad a sus estatutos, podrá hacerlo el 10% de los socios.;
 
 d) Redactar los reglamentos que se estimen necesarios para el mejor funcionamiento de la corporación y de los diversos órganos que se creen para el cumplimiento de sus fines y someter dichos reglamentos a la aprobación de la Asamblea General;
 
@@ -290,7 +290,7 @@ Los deberes del secretario serán los siguientes:
 
 a) Llevar el Libro de Actas del Directorio y el de las Asambleas de socios y el Libro de Registro de socios;
 
-b) Despachar las citaciones a Asambleas de socios, ordinarias y extraordinarias, y publicar el aviso a que se refiere el artículo vigésimo tercero;
+b) Despachar las citaciones a Asambleas de socios, ordinarias y extraordinarias, y publicar el aviso a que se refiere el artículo 42;
 
 c) Formar la tabla de sesiones de Directorio y de Asambleas Generales, de acuerdo con el presidente;
 
@@ -324,7 +324,7 @@ De la Comisión Revisora de Cuentas
 
 En la Asamblea General Ordinaria de cada año los socios designarán por votación secreta y simple mayoría, una Comisión Revisora de Cuentas compuesta por tres socios, sus obligaciones y atribuciones serán:
 
-a) Revisar trimestralmente los Libros de Contabilidad y los comprobantes de ingreso, que el tesorero deberá exhibirle;
+a) Revisar trimestralmente los Libros de Contabilidad y los comprobantes de ingreso y egreso que el Tesorero deberá exhibirle;
 
 b) Velar porque los socios se mantengan al día en el pago de sus cuotas y representar al tesorero cuando algún socio se encuentre atrasado, a fin de que éste investigue la causa y procure que se ponga al día en sus pagos.
 
@@ -334,7 +334,7 @@ d) Elevar a la Asamblea Ordinaria anual un informe escrito sobre las finanzas de
 
 e) Comprobar la exactitud del inventario.
 
-La Comisión Revisora de Cuentas será presidida por el que obtenga el mayor número de sufragios y no podrá intervenir en los actos administrativos del Directorio. En caso de vacancia del cargo de presidente, será reemplazado por el socio que obtuvo la votación inmediatamente inferior a éste. Si se produjere la vacancia de dos o más cargos de la Comisión Revisora de Cuentes, se llamará a nuevas elecciones para ocupar los puestos vacantes. Si la vacancia fuera de un solo miembro, continuará con los que se encuentren en funciones, con todas las atribuciones de la Comisión, hasta el término de su mandato.
+La Comisión Revisara de Cuentas será presidida por el que obtenga el mayor número de sufragios y no podrá intervenir en los actos administrativos del Directorio. En caso de vacancia del cargo de presidente, será reemplazado por el socio que obtuvo la votación inmediatamente inferior a éste. Si se produjere la vacancia de dos o más cargos de la Comisión Revisora de Cuentes, se llamará a nuevas elecciones para ocupar los puestos vacantes. Si la vacancia fuera de un solo miembro, continuará con los que se encuentren en funciones, con todas las atribuciones de la Comisión, hasta el término de su mandato.
 
 #### Artículo 43
 
