@@ -26120,9 +26120,7 @@ e) En el pagaré debe constar la autorización del Banco suscriptor o avalista d
 
 ### 3. Antecedentes de los deudores
 
-Los bancos que efectúen descuentos de estos pagarés, deberán disponer de antecedentes suficientes que les sirvan de base para adoptar su decisión crediticia y para la evaluación periódica de sus créditos, de conformidad con lo dispuesto en el Capítulo 8-28 de esta Recopilación Actualizada de Normas.
-
-Los referidos antecedentes deberán permitir, además, determinar si existe relación real o presunta entre el Banco descontante y el deudor, de acuerdo con las normas contenidas en el Capítulo 12-4 de esta Recopilación.
+En consideración a que los documentos descontados en virtud de las normas contenidas en este Capítulo, deben ser emitidos o avalados por un banco autorizado para operar por intermedio del Convenio de Pagos y Créditos Recíproco, el que además deberá otorgar su autorización para que dichos instrumentos sean rembolsados con cargo al referido Convenio, no es necesario que los bancos descontantes cuenten con los documentos exigidos en el Capítulo 8-28 para la evaluación de estos créditos.
 
 ### 4. Instrucciones contables
 
@@ -26144,7 +26142,7 @@ El saldo de colocaciones correspondientes a pagarés descontados que mantengan l
 
 5.2. Limite de crédito.
 
-Los créditos otorgados mediante el descuento de los documentos de que trata este Capítulo, estarán afectos al límite de endeudamiento individual sin garantía de que trata el artículo 84 de la Ley General de Bancos, a menos que se encuentren caucionados con alguna de las garantías válidas para efectos de márgenes señaladas en el Capítulo 12-3 de esta Recopilación Actualizada de Normas.
+Los créditos otorgados mediante el descuento de los documentos de que trata este Capítulo, estarán afectos al límite de endeudamiento individual del 25% para operaciones con garantía de que trata el artículo 84 de la Ley General de Bancos, siempre que en el instrumento descontado se establezca que su rembolso se efectuará por intermedio del Convenio de Pagos y Créditos Recíproco vigente entre el Banco Central de Chile y el Banco Central del país del respectivo deudor.
 
 CAPITULO 13-28 (Bancos)
 
