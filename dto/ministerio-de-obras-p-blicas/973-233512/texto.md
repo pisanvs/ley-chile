@@ -1,0 +1,3 @@
+Por decreto MOP Nº973, de fecha 29 de octubre de 2004, se expropiaron los lotes de terrenos Nº90, 91 y 92, superficies 1.457 m2, 1.500 m2 y 895 m2, rol de avalúo Nº63-38, comuna de Lonquimay, para la obra ''Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, sector Acceso Pedregoso - Liucura, Km. 141,00000 al Km.158,54000, correspondiente al tramo III, Km.153,84800 al Km. 158,54000, provincia de Malleco, comuna de Lonquimay'', IX Región y se acordó el valor de la indemnización con su propietaria María Nancy Córdova Echeverría y Otras, ascendente a la cantidad de $8.262.984.-
+
+Fiscal del Ministerio de Obras Públicas.
