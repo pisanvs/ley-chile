@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 39, del 23 de abril del año 2001, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Trabajo Tecnología y Desarrollo del Sur, de nombre de fantasía Raíces de Futuro, de la ciudad de Achao, en los términos que da testimonio el acta constitutiva protocolizada con fecha 15 de marzo de 2001, bajo el Nº 27, al final de los registros de la Notario de Achao, doña Eliana Spotorno Oyarzún.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
