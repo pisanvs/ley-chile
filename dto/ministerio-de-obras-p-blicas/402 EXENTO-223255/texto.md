@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 402 de fecha 27 de febrero del 2004, se expropiaron del lote de terreno Nº 526, superficie 102 m2 , Rol en trámite, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 0,00000 a Km. 12,7000" y se acordó el valor de indemnización con su propietaria Silvia de las Mercedes Arce Canales, ascendente a la cantidad de $2.157.041.
+
+- Fiscal del Ministerio de Obras Públicas.
