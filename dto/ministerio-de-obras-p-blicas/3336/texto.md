@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.336, de 29 de octubre de 1999, se expropió el lote de terreno Nº 13, superficie 1.675 m², rol de avalúo 273-322, comuna de San Fernando, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector H, Sexta Región y se acordó el valor de indemnización con su propietario Sergio Raúl Araos Menay, ascendente a la cantidad de $10.253.312.-
+
+Fiscal del Ministerio de Obras Públicas.
