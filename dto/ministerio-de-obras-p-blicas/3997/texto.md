@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.997 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 1, superficie 398 m², rol de avalúo 329-5, comuna de Renca, para la obra ''Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, Sector Río Mapocho - Ruta 5 Norte, Eje General Velásquez, Km. 1.061 al 5.020'' y se acordó el valor de indemnización con su propietario José Braulio Yáñez Cornejo y otro, ascendente a la cantidad de $87.463.422.-
+
+Fiscal del Ministerio de Obras Públicas.
