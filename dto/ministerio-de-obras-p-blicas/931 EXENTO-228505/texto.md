@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 931 de fecha 30 de junio del 2004, se expropió el lote de terreno Nº 26, superficie 63 M²; Rol Nº 58-50, comuna de Romeral, VII Región para la obra Camino Ruta J-55, Guaico 3-P. Vergara, Sector Guaico 3- La Unión, Km. 0,00000 a Km, 7,60000" y se acordó el valor de indemnización con su propietario José Miguel Barrios Araya, ascendente a la cantidad de $363.992.- para el lote Nº 26.
+
+Fiscal del Ministerio de Obras Públicas.
