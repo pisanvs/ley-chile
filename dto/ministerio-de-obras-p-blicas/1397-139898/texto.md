@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.397, del 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs.18 y 64, superficies 248 y 436 m2., respectivamente, roles de avalúo en trámite, comunas de Empedrado y Constitución para la obra Camino Ruta M-40, Santa Olga-Empedrado, Sector Santa Olga-Los Pellines, y se acordó el precio de indemnización con sus propietarios María del Carmen Gómez Valdés y Humberto del Carmen Torres Bravo, ascendente a las cantidades de $195.307 y $203.198.-
+
+Fiscal del Ministerio de Obras Públicas.
