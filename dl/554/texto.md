@@ -1,0 +1,1 @@
+Fija las plantas y las remuneraciones del personal del Instituto de Seguros del Estado.
