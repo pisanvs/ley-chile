@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº291 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº26-B, superficie 173,4 m², rol de avalúo Nº228-99, comuna de Toltén, para la obra "Camino Costero Sur, Sector Puente Peule - Límite Regional, tramo By Pass Queule Km. 0,000 al Km. 5,000", IX Región y se acordó el valor de la indemnización con su propietario José Luis Maturana Miranda, ascendente a la cantidad de $375.189.-
+
+Fiscal del Ministerio de Obras Públicas.
