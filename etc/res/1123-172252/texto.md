@@ -1,0 +1,3 @@
+Por resolución Nº 1.123, de 21 de junio de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Rumena, VIII Región, individualizada en el artículo 1º) Nº24 del D.S. Nº729 de 1997, citado en Visto, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES Y ACTIVIDADES CONEXAS DE LA CALETA RUMENA.
+
+Valparaíso, 21 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
