@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.024, del 30 de septiembre de 1999, se expropiaron los lotes de terreno Nº1, Canal San Manuel Descarga Km. 5.600, superficie 6.975 m², rol de avalúo Nº117-2 y Nº2, Canal Oriente Predial OD1-10A Prolongación, superficie 265 m², rol de avalúo Nº120-52, de la comuna de Pencahue, para la obra Regadío Pencahue, se acordó precio de las indemnizaciones con sus propietarios, Fresia Inés Tessari Sanfor y Violeta de las Mercedes Labra Rojas, ascendentes a $1.171.751.- lote Nº1 y $185.763.- para el lote Nº2.-
+
+Fiscal del Ministerio de Obras Públicas.
