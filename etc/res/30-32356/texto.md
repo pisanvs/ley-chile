@@ -1,0 +1,3 @@
+Por Resolución N° 30, de 10 de enero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad, conforme al Artículo 143, letra b) de la Ley General de Pesca y Acuicultura, de la Resolución N° 1.001, de 1986, en cuanto autoriza a PESQUERA MAR DEL SUR S.A., para operar la nave "Mar del Sur II".
+
+Valparaíso, 10 de enero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
