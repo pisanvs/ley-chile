@@ -1,0 +1,3 @@
+Por resolución Nº 1.317, de 21 de septiembre de 1998, de esta Subsecretaría, declárase la caducidad de la resolución Nº 849 de 1997, de esta Subsecretaría, que autorizó a PESQUERA SAN JOSE S.A. para operar una nave en construcción, en virtud de lo señalado en el Art. 143 letra b) del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción, por no haber iniciado operaciones, con la mencionada nave, dentro del plazo que tenía para ello.
+
+Valparaíso, 21 de septiembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
