@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.764, de 1 de julio de 2004, de esta Subsecretaría, autorízase a ANGEL CUSTODIO CONCHA SANCHEZ, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida Las Industrias Nº 1090, Barrio Industrial, Caldera, III Región, en la línea de elaboración Congelado, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 1 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
