@@ -1,0 +1,3 @@
+Por resolución Nº751, de 20 de abril de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº99110123, presentada por SALMONES PACIFICO SUR S.A., para instalar y operar el centro de cultivo ubicado en Rada Palena, Sector Oeste de Punta Piti, Comuna de Cisnes, Provincia de Aysén, XI Región.
+
+Valparaíso, 20 de abril de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
