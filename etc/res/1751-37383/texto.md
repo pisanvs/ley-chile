@@ -1,0 +1,5 @@
+Por Resolución N° 1.751, de 30 de Noviembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, sustitúyase el numeral 2° de la Resolución N° 1.109, de 1993, de esta Subsecretaría, que otorgó a PESCA CHILE S.A., un permiso extraordinario de pesca para la unidad de pesquería del recurso Bacalao de profundidad, por el siguiente:
+
+"2.- Este permiso extraordinario tendrá una vigencia para las temporadas de pesca de la especie Bacalao de profundidad, que se fijen en los años 1994 a 2003, ambos inclusive; y faculta a su titular para pescar anualmente el 1% de la cuota global anual de captura disponible para los permisos extraordinarios de pesca, equivalente al 0,9% de la cuota global anual de captura, de conformidad con lo dispuesto en el artículo 40 de la Ley General de Pesca y Acuicultura".
+
+Valparaíso, 30 de Noviembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
