@@ -4266,23 +4266,37 @@ De conformidad con las autorizaciones que el referido Ministerio ha puesto en co
 
 ANEXO N° 1
 
-INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES
+INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES
 
-ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES
+INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1998.
 
-INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1996.
+- Agencia de Cooperación Internacional.
 
 - Astilleros y Maestranzas de la Armada.
 
-- Carabineros de Chile, Imprenta Casa de Moneda de Chile.
+- Carabineros de Chile, Imprenta.
+
+- Carbonífera Victoria-Lebu.
+
+- Casa de Moneda de Chile.
+
+- Centrales odontológicas de Valparaíso, Viña del Mar y Talcahuano.
 
 - Centro de Información de Recursos Naturales.
 
 - Comando Apoyo Administrativo del Ejército.
 
-- Comando de Industria Militar e Ingeniería. Comercializadora de Trigo S.A "COTRISA".
+- Comando de Industria Militar e Ingeniería.
+
+- Comercializadora de Trigo S.A. "COTRISA".
+
+- Comisión Nacional Investigaciones Científicas y Tecnológicas.
 
 - Corporación de Fomento de la Producción.
+
+- Corporación de Investigación Tecnológica.
+
+- Cuerpo Militar del Trabajo.
 
 - Departamento Bienestar Dirección General de Aeronáutica Civil.
 
@@ -4300,15 +4314,13 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1996.
 
 - Empresa de Correos de Chile.
 
-- Empresa Abastecimiento de Zonas Aisladas
+- Empresa Abastecimiento de Zonas Aisladas Empresa de Ferrocarriles del Estado.
 
-- Empresa de Ferrocarriles del Estado
-
-- Empresa de Obras Sanitarias V Región S.A.
+- Empresa de Obras Sanitarias y Región S.A.
 
 - Empresa de Servicios Sanitarios de Antofagasta S.A.
 
-- Empresa de Servicios Sanitarios de Atacama S.A
+- Empresa de Servicios Sanitarios de Atacama S.A.
 
 - Empresa de Servicios Sanitarios de Aysén S.A.
 
@@ -4324,63 +4336,79 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1996.
 
 - Empresa de Servicios Sanitarios del Bio-Bio S.A.
 
-- Empresa de Servicios Sanitarios del Libertador S A.
+- Empresa de Servicios Sanitarios del Libertador S.A.
 
 - Empresa de Servicios Sanitarios del Maulé S.A.
 
 - Empresa de Transporte Ferroviario S.A.
 
-- Empresa de Transporte de Pasajeros Metro S A
+- Empresa de Transporte de Pasajeros Metro S.A.
 
-- Empresa Eléctrica Colbún-Machicura S.A
+- Empresa Eléctrica Colbún-Machicura S.A.
 
-- Empresa Eléctrica de Aysén S A
-
-- Empresa Marítima S A
+- Empresa Eléctrica de Aysén S.A.
 
 - Empresa Metropolitana de Obras Sanitarias S.A.
 
-- Empresa Nacional de Aeronáutica Empresa Nacional de Minería.
+## Capítulo 2-11
+
+ANEXO N° 1
+
+Pág. 2
+
+- Empresa Nacional de Aeronáutica.
+
+- Empresa Nacional de Minería.
 
 - Empresa Nacional del Carbón S.A.
 
 - Empresa Nacional del Petróleo.
 
-- Empresa Portuaria de Chile Fábrica y Maestranza del Ejército.
+- Empresa Periodística La Nación S.A.
 
-- Fondo Nacional de Desarrollo Tecnológico y Productivo
+- Empresa Portuaria de Chile.
 
-- Instituto de Fomento Pesquero
+- Estado Mayor Fuerza Aérea de Chile.
 
-- Instituto de Investigaciones Tecnológicas.
+- Fábrica y Maestranza del Ejército.
 
-- Instituto Forestal
+- Fondo Nacional de Desarrollo Tecnológico y Productivo.
+
+- Instituto de Fomento Pesquero.
+
+- Instituto Forestal.
 
 - Instituto Nacional de Normalización.
 
-- Ministerio de Vivienda y Urbanismo Polla Chilena de Beneficencia
+- Ministerio de Vivienda y Urbanismo.
 
-- Servicio de Bienestar de la Fuerza Aérea de Chile
+- Polla Chilena de Beneficencia.
 
-- Servicio de Bienestar de la Superintendencia de Bancos e Instituciones
+- Servicio Aerofotogramétrico de la Fuerza Aérea.
 
-Financieras
+- Servicio de Bienestar de Emporchi.
 
-- Servicio de Bienestar de la Superintendencia de Valores y Seguros
+- Servicio de Bienestar de la Fuerza Aérea de Chile.
 
-- Servicio de Bienestar del Magisterio Servicio de Bienestar Social de la Armada.
+- Servicio de Bienestar de la Superintendencia de Bancos e Instituciones Financieras.
 
-- Servicio de Cooperación Técnica Sociedad Agrícola SACOR Ltda.
+- Servicio de Bienestar de la Superintendencia de Valores y Seguros.
+
+- Servicio de Bienestar del Magisterio.
+
+- Servicio de Bienestar Social de la Armada.
+
+- Servicio de Cooperación Técnica.
+
+- Sociedad Agrícola SACOR Ltda.
 
 - Sociedad Agrícola y Servicios Isla de Pascua Ltda.
 
-- Sociedad Transporte Marítimo Chiloé - Aysén Ltda
+- Sociedad Transporte Marítimo Chiloé - Aysén Ltda.
 
 - Superintendencia de Bancos e Instituciones Financieras.
 
-- Transporte por Containers S.A.
-
-- Zona Franca Iquique S A
+- Zona Franca Iquique S.A.
 
 - MUNICIPALIDADES (todas las Municipalidades del país).
 
