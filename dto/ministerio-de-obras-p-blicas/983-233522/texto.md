@@ -1,0 +1,3 @@
+Por decreto MOP Nº 983 de fecha 29 de octubre del 2004, se expropió el lote de terreno Nº 12-3, superficie 495 m², Rol Nº 39-28, comuna de La Cisterna, Región Metropolitana para la obra ''Proyecto Estación de Intercambio Modal La Cisterna Túneles de Acceso y Egreso'' y se acordó el valor de in-demnización con su propietario Fundación Niño y Patria, ascendente a la cantidad de $81.621.062.-
+
+Fiscal del Ministerio de Obras Públicas.
