@@ -1,0 +1,3 @@
+Certifico que por Resolución N° E-123-96, de fecha 25 de junio de 1996, se autorizó la modificación de estatutos de la sociedad Filial de A.F.P. Bansander S.A., denominada "Inversiones y Asesorías Previsionales Bansander S.A.", hoy, "Inversiones Internacionales Bansander S.A.", que consta en la escritura pública otorgada con fecha 8 de mayo de 1996, ante la Notario de Santiago, doña Margarita María Mendoza Negri, Suplente de la Titular, doña Antonieta Mendoza Escalas.
+
+Santiago, junio 25 de 1996.- Julio Bustamante Jeraldo, Superintendente.
