@@ -1,0 +1,3 @@
+Por Decreto MOP N° 420, de fecha 28 de septiembre de 1994, se expropió el lote de terreno N° 1, superficie 620 M2., rol de avalúo 1068-54, comuna de Coyhaique, para la ejecución de la obra Conservación Aeródromo Teniente Vidal, Obras de Drenaje, y se acordó valor de indemnización con su propietaria Elsa Bahamonde Osses, ascendente a la cantidad de $286.118.-
+
+Fiscal del Ministerio de Obras Públicas.
