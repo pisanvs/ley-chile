@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.194 de fecha 31 de julio del 2001, se expropiaron los lotes de terreno Nºs 11, 11-A, 11-B y 11-C, superficies 4.095, 657, 434 y 38 m2., respectivamente, Rol de Avalúo Nº 200-105, comuna de Rengo, para la obra "Camino de Acceso Norte a Puente Lo Cartagena, Km. 3.010 a Km. 4.776/Camino de Acceso Sur a Puente Lo Cartagena Km. 0.000 a Km. 1.483" y se acordó el valor de indemnización con su propietario Agrícola Joaquín Edgardo Cura Osorio y Compañía, ascendente a la cantidad de $18.335.776.-
+
+Fiscal del Ministerio de Obras Públicas.
