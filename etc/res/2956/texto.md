@@ -1,0 +1,3 @@
+Por resolución Nº2.956, de 20 de diciembre de 2002, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº902 de 1992, de esta Subsecretaría, que autorizó a PESCA CHILE S.A. para operar la nave "Boston Blenheim", en relación con el recurso hidrobiológico Merluza de tres aletas, entre los paralelos 41º28,6' L.S. y 47º L.S., en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y del memorándum de la División de Desarrollo Pesquero de esta Subsecretaría, citado en Visto.
+
+Valparaíso, 20 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
