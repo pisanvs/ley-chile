@@ -1,0 +1,3 @@
+Por resolución Nº 92, de 23 de enero de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 99121131 presentada por PESCA CHILE S.A., para instalar y operar un centro de cultivo ubicado en Ensenada Staples, Isla Capitán Aracena, Estrecho de Magallanes, Comuna de Punta Arenas, Provincia de Magallanes, XII Región.
+
+Valparaíso, 23 de enero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
