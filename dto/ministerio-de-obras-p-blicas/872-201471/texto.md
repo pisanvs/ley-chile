@@ -1,0 +1,3 @@
+Por decreto MOP Nº872, de 30 de abril de 2002, se expropiaron los lotes de terreno Nºs 44 y 45, superficies 1.597 y 1.599 m2, roles de avalúo Nº9093-7 y 9093-6, comuna de Peñalolén, para la obra Proyecto Sistema Américo Vespucio Sur. Ruta 78-Av. Grecia. Sector 5: Av. Vicuña Mackenna - Av. Grecia, Región Metropolitana y se acordó el valor de indemnización con sus propietarios Alfredo y María Luisa Dunner Martin, ascendente a la cantidad de $386.351.062.- para los lotes Nºs 44 y 45.
+
+Fiscal del Ministerio de Obras Públicas.
