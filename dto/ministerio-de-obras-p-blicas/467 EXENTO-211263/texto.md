@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 467, de 26 de mayo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 55-10 para la obra: "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector C: Km. 56.300,00 a Km.
+
+68.450,00", Sexta Región, que figura a nombre de Abarca Rubio Olga, rol de avalúo 136-416, comuna de San Francisco de Mostazal, superficie 31 m2. La comisión de peritos integrada por los señores Ricardo Antonio Strickler Arellano, José Cristián Larraín Barros y María Isabel de Jesús Ríos Marcuello, fijó con fecha 4 de abril de 2003, el valor provisional de la indemnización en la cantidad de $723.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
