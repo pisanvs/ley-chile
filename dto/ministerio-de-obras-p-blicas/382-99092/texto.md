@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 382, de 31 de marzo de 1998, se expropió el lote de terreno Nº48-B, superficie 31 m2., rol de avalúo 498-19, comuna de Concepción, obra Mejoramiento Autopista Concepción Talcahuano, sector Rotonda Bonilla y Campus San Andrés, se acordó precio de indemnización con su propietaria Elisa Melgarejo Caamaño, ascendente a la cantidad de $1.778.920.-
+
+Fiscal del Ministerio de Obras Públicas.
