@@ -1,0 +1,11 @@
+APRUEBA MODIFICACION PLAN REGULADOR COMUNAL DE CONCEPCION
+
+Núm. 617.- Concepción, 24 de septiembre de 1998.- Vistos: La modificación al Plan Regulador Comunal de Concepción Seccional de Vialidad Nudo Plaza Acevedo propuesta por la Dirección de Obras Municipales de Concepción mediante Oficio Ord. Nº 583-A-74, de 8 de abril de 1998, que adjunta informe favorable del Asesor Urbanista; el Certificado Nº 158, de 2 de septiembre de 1998, del señor Secretario Municipal, por el que se certifica el período en que esta modificación estuvo expuesta al público; el Acuerdo Nº 565-85-98, de 3 de septiembre de 1998, del Concejo Municipal de Concepción, por el que se aprueba esta modificación; teniendo presente, las disposiciones del D.F.L. Nº 458, del Ministerio de Vivienda y Urbanismo; lo dispuesto en los artículos 58 letra b) y 69 letra b) de la Ley Nº 18.695; y, en uso de las atribuciones que me confieren los artículos 10, 49 y 56 de la misma Ley, Orgánica Constitucional de Municipalidades,
+
+D e c r e t o:
+
+1.- Apruébase la modificación al Plan Regulador Comunal de Concepción, aprobado por Decreto del Ministerio de Vivienda y Urbanismo, de fecha 31 de agosto de 1982, y publicado en el Diario Oficial con fecha 20 de octubre de 1982, dejando sin efecto el Plan Seccional de Vialidad - Nudo Plaza Acevedo de Concepción, contenido en el Plano MPR-4 publicado en el Diario Oficial con fecha 22 de febrero de 1990, acogiéndose al trámite de aprobación de acuerdo a lo dispuesto en el artículo 45 de la Ley General de Urbanismo y Construcciones.
+
+2.- Establécese que la presente modificación al Plan Regulador Comunal no modifica lo establecido en el artículo 21 de Ordenanza Local de dicho Plan, en lo que dice relación con las vías estructurantes consignadas en este artículo, manteniéndose los nombres, clasificación, tramos, anchos entre líneas oficiales y de edificación y demás normas del sector.
+
+Anótese, comuníquese, publíquese en el Diario Oficial de la República, remítase copia al señor Secretario Regional Ministerial de Vivienda y Urbanismo y archívese.- Ariel Ulloa Azócar, Alcalde.- Manuel Lagos Espinoza, Secretario Municipal.
