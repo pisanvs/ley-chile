@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.147, de 28 de noviembre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 15, para la obra: ''Prolongación Camino Carriel Sur (Av. Alessandri). Km. 0.000,00 a Km.
+
+3.820,00'', Octava Región, que figura a nombre de Ingeniería y Construcción San AN, rol de avalúo 7023-4, comuna de Talcahuano, superficie 16.802 m2. La comisión de peritos integrada por los señores Karin Alicia Ernst Elizalde, Christian Cornelio Scherpenisse Infante y Paula Soledad González Ortega, fijó con fecha 31 de agosto de 2002, el valor provisional de la indemnización en la cantidad de $202.452.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
