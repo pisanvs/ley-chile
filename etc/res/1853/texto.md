@@ -1,0 +1,3 @@
+Por Resolución N° 1.853, de 30 de octubre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; cadúcase la Resolución N° 78, de 1995, de esta Subsecretaría, que autorizó a ARTE AMERICA S.A., para realizar importación y mantención en circuito controlado y con tratamiento de efluentes de 2 ejemplares machos de la especie Delfín, por no haberse dado cumplimiento a lo dispuesto en los numerales 2° y 3° de la Resolución señalada precedentemente.
+
+Valparaíso, 30 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
