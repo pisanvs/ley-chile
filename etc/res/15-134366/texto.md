@@ -1,0 +1,3 @@
+Por resolución Nº 15, modificada por resolución Nº 28, de fechas 12 de febrero y 11 de marzo de 1999, respectivamente de Serviu Región de Coquimbo, se ordenó expropiación, conforme art. 51 ley 16.391 y D.L. 2.186 de 1978, de parte del inmueble ubicado en calle Cisternas s/nº presunto rol avalúo 461-1 comuna La Serena, aparentemente dominio de la Universidad de La Serena, de una superficie aproximada de 3.663,00 metros cuadrados. Comisión Peritos integrada por don Patricio Mena López, Alfredo Prieto Parra y doña Iris Marcich Moller, arquitectos, según informe de 20 de octubre de 1998, fijó monto provisional indemnización en $76.072.694, debidamente reajustada, pagadera al contado.-
+
+Director Serviu Región Coquimbo.
