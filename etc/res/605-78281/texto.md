@@ -1,0 +1,5 @@
+Por resolución Nº605 de 03 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción autorízase a PISCICOLA ENTRE RIOS S.A., R.U.T. Nº96.594.200-9, domiciliada en la ciudad de Talagante, Hijuela 2, Fundo El Carmen de Sorrento, Casilla Postal Nº125, Talagante, para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº1.188, de 1991, de esta Subsecretaría, en orden a operar una planta industrial, en la Décima Región, ubicada en el kilómetro 13, Pullinque, Panguipulli, Valdivia, donde procesará en la línea de elaboración de congelado el recurso Trucha arcoiris; el cual provendrá de su propio establecimiento de cultivo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 03 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca
