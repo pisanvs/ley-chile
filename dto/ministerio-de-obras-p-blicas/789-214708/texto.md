@@ -1,0 +1,3 @@
+Por decreto MOP Nº 789, de fecha 31 de julio del 2003, se expropió el lote de terreno Nº 54, superficie 338 m², Rol Nº 546-22, comuna de Linares, VII Región para la obra "Camino Ruta L-31, Sector Polvorines - La Floresta, Tramo Km. 0,00000 a 15,48000, y se acordó el valor de indemnización con su propietario Manuel Octavio Sáez Valenzuela y Otra, ascendente a la cantidad de $11.915.112.
+
+Fiscal del Ministerio de Obras Públicas.
