@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº315, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº4-26, superficie 35,3105 m², rol de avalúo 3392-26, comuna de Punta Arenas, para la obra "Habilitación Costanera Estrecho de Magallanes I, Sector Chañarcillo - Manantiales, Tramo Km. 1,97992 al 3,30000", y se acordó el valor de indemnización con su propietario Manuel Mario Alvarado Davey, ascendente a la cantidad de $1.037.371.-.
+
+Fiscal del Ministerio de Obras Públicas.
