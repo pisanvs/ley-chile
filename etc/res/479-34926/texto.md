@@ -1,0 +1,3 @@
+Por Resolución N° 479 de 17 de Mayo de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don ARTURO SOLO DE ZALDIVAR CLAVEL, R.U.T. N° 6.219.053-1, para ampliar actividades pesqueras autorizadas por Resolución N° 1.266, de 1988, de esta Subsecretaría en orden a operar una planta Industrial en la XII Región, ubicada en Río de los Ciervos, Km. 5,5 Sur, Punta Arenas, donde procesará en las líneas de elaboración que a continuación se indican, los siguientes recursos hidrobiológicos:
+
+Valparaíso, 17 de Mayo de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
