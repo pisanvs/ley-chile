@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.435, de fecha 31 de julio de 2000, se expropió el lote de terreno Nº91, superficie 38,85, rol de avalúo 140-36, comuna de Dalcahue, para la obra "Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid.Pid) - Putemún - Dalcahue, Km. 0,000 al 11,991647" y se acordó el valor de indemnización con su propietario Ramón Segundo Cárcamo Mansilla, ascendente a la cantidad de $363.670.-
+
+Fiscal del Ministerio de Obras Públicas.
