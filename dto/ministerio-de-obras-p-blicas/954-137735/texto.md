@@ -1,0 +1,5 @@
+Por decreto MOP Nº 954, de 29 de abril de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 565-A1 para la obra ''Concesión Internacional Ruta 5; Tramo Temuco -
+
+Río Bueno'' Km. 885.90000 a Km. 888.50000, Décima Región, que figura a nombre de Beckmann Vitores Sergio y otros, rol de avalúo 546-331, comuna de La Unión, superficie 798 m2. La comisión de peritos integrada por los señores Nelson Fabián Igor Flores, Christian Emil Rauch Yáñez y Nelson Bernardo Turra Turra, fijó con fecha 14 de enero de 1999, el valor provisional de la indemnización en la cantidad de $1.936.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
