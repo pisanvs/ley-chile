@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 241 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 62-C, superficie 475,00 m2, Rol Nº 3360-18, comuna de Padre Las Casas, IX Región para la obra "Camino Mejoramiento Ruta S-269, Padre Las Casas Niágara, Sector Km. 0.000,00 a Km. 17.357,22, Tramo Km. 2.300 al Km. 17.340" y se acordó el valor de indemnización con su propietario Lorenza Alvian Tralcal, ascendente a la cantidad de $978.000.-
+
+Fiscal del Ministerio de Obras Públicas.
