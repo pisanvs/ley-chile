@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.145, de 30 de octubre de 1998, se expropiaron los lotes de terrenos Nºs. 656 y 665, superficies 11.415 y 7.910 m², roles de avalúo 313-61 y 314-38, comuna de Pitrufquén, para la obra Regadío Faja Maisan Canal Matriz y se acordó precio de indemnización con sus propietarios, Celestino Llancaman Calfuquir y René Santini Venegas, ascendente a las cantidades de $1.787.491, para el lote Nº656 y $5.785.622, para el lote Nº665.-
+
+Fiscal del Ministerio de Obras Públicas.
