@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 387, 16 julio 2004, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Manuel Rodríguez Nº480, Rol de Avalúo Nº2771-9, comuna Chiguayante, superficie 200 m2. de terreno y 128,40 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.075, de aparente dominio de Raúl Jara Peña, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y D.L. 2186. Comisión Peritos integrada por Orlando Paredes Vásquez, ingeniero civil, Guillermo Villafañe Feres, arquitecto e Italo Zerga Arancibia, constructor civil, según informe de fecha 16 de junio de 2004, fijó monto provisional indemnización en $21.170.895.-, pagadera de contado. Director Serviu Región del Bío Bío.
+
+- Serviu Región del Bío Bío.
