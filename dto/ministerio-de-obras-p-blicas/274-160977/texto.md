@@ -1,0 +1,3 @@
+Por decreto MOP Nº 274, de 31 de enero del 2000, se expropió el lote de terreno Nº 217-1, superficie 12.583,0 m2., rol de avalúo 161-20, comuna de Lanco, para la obra Concesión Internacional Ruta 5. Tramo: Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietaria Miriam Soler Poveda Pineda, ascendente a la cantidad de $14.858.846.
+
+Fiscal del Ministerio de Obras Públicas.
