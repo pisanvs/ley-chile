@@ -1,0 +1,3 @@
+Por resolución Nº 465, de 7 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº95110110, presentada por SALMONES MULTIEXPORT LTDA., para operar un centro de cultivo ubicado en Seno Magdalena, comuna de Cisnes, provincia de Aysén, XI Región, conforme lo dispuesto en los artículos 78, 87 y 88 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 7 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
