@@ -1,0 +1,1 @@
+Fija el texto del Estatuto del Personal de la Corporación de la Reforma Agraria y del Instituto de Desarrollo Agropecuario.
