@@ -160,7 +160,7 @@ De los Jueces de Distrito y de los Jueces de Subdelegación
 
 #### Artículo 14
 
-En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, salvo los distritos del Departamento Presidente Aguirre Cerda, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de noventa escudos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de doscientos escudos.
+En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, salvo los distritos del Departamento Presidente Aguirre Cerda, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de mil seiscientos ochenta escudos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de tres mil setecientos cuarenta escudos.
 
 Le corresponderá, asimismo, el nombramiento de curador ad-litem en su caso.
 
@@ -244,7 +244,7 @@ A los jueces de distrito corresponden las atribuciones propias de ministro de fe
 
 En cada subdelegación de la República que no esté comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía, salvo las subdelegaciones del Departamento Presidente Aguirre Cerda, habrá un funcionario que con el título de Juez de Subdelegación conocerá:
 
-1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de doscientos escudos y no pase de cuatrocientos escudos;
+1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de tres mil setecientos cuarenta escudos y no pase de siete mil cuatrocientos setenta escudos;
 
 2°) En segunda instancia, de las causas de que conocieren en primera los respectivos jueces de distrito; y
 
@@ -254,7 +254,7 @@ Les corresponderá, asimismo, el nombramiento de curador ad litem en su caso.
 
 Lo dispuesto en este artículo regirá también en toda sección de subdelegación no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
 
-No obstante lo dispuesto en el número 1.o, los jueces de subdelegación conocerán en primera instancia de los juicios especiales del contrato de arrendamiento cuya cuantía no exceda de noventa escudos.
+No obstante lo dispuesto en el número 1.o, los jueces de subdelegación conocerán en primera instancia de los juicios especiales del contrato de arrendamiento cuya cuantía no exceda de mil seiscientos ochenta escudos.
 
 Los jueces de subdelegación de las ciudades cabeceras de departamento no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
 
@@ -318,15 +318,15 @@ Los jueces de letras de menor cuantía de Santiago y Valparaíso deberán funcio
 
 Los jueces de letras de menor cuantía conocerán:
 
-1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de cuatrocientos escudos;
+1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de siete mil cuatrocientos setenta escudos;
 
-2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de cuatrocientos escudos y no sea superior a ocho mil ciento cincuenta escudos, y
+2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de siete mil cuatrocientos setenta escudos y no sea superior a ciento cincuenta y dos mil doscientos escudos y
 
 3.o) De los asuntos que otras leyes entreguen a su conocimiento.
 
 Incisos derogados.
 
-Conocerán también estos jueces, en primera instancia, de los juicios sobre alimentos futuros, siempre que la pensión mensual que se cobre no exceda de seiscientos escudos. No tendrán esta competencia cuando ella corresponda a un juez especial de menores.
+Conocerán también estos jueces, en primera instancia, de los juicios sobre alimentos futuros, siempre que la pensión mensual que se cobre no exceda de once mil doscientos diez escudos. No tendrán esta competencia cuando ella corresponda a un juez especial de menores.
 
 Los Jueces de Letras de Menor Cuantía no tendrán la competencia indicada en este artículo cuando ella corresponda a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 
@@ -368,7 +368,7 @@ Si en la capital del departamento hubiere dos o más jueces letrados de menor cu
 
 Los jueces de letras de menor cuantía conocerán, además, de las siguientes materias:
 
-1°) De las cuestiones que se susciten sobre el ejercicio de servidumbres naturales y legales y de las prestaciones a que ellas dieren lugar, siempre que el valor de estas últimas no exceda de ocho mil ciento cincuenta escudos.
+1°) De las cuestiones que se susciten sobre el ejercicio de servidumbres naturales y legales y de las prestaciones a que ellas dieren lugar, siempre que el valor de estas últimas no exceda de ciento cincuenta y dos mil doscientos escudos.
 
 Pero si se promoviere contienda sobre el dominio del predio dominante o sirviente, o sobre la adquisición por prescripción u otro título de una manera especial de ejercer la servidumbre, se inhibirán de todo conocimiento.
 
@@ -380,9 +380,9 @@ Será competente para conocer de estos juicios el juez del lugar donde hubiere o
 
 3°) De las notificaciones de las actas de protestos de cheques a las personas domiciliadas en la respectiva jurisdicción.
 
-Si el valor del cheque excediere de ocho mil ciento cincuenta escudos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
+Si el valor del cheque excediere de ciento cincuenta y dos mil doscientos escudos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
 
-4°) De las cuestiones civiles valorizables hasta ocho mil ciento cincuenta escudos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
+4°) De las cuestiones civiles valorizables hasta ciento cincuenta y dos mil doscientos escudos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
 
 #### Artículo 39
 
@@ -432,6 +432,8 @@ No obstante lo dispuesto en el inciso primero del artículo anterior, formará p
 
 No obstante lo dispuesto en el inciso primero, el Juzgado de Letras de Mayor Cuantía de Pisagua tendrá su asiento en la localidad de Huara, la que será considerada capital de departamento para todos los efectos del servicio judicial. El territorio jurisdiccional de dicho Juzgado estará formado por el departamento de Pisagua y por las comunas-subdelegaciones de Huara y Pozo Almonte, excluido de esta última el distrito Pintados.
 
+No obstante lo dispuesto en el inciso primero, el Juzgado de Letras de Pozo Almonte hará las veces de Juzgado de Letras de Mayor Cuantía del departamento de Pisagua, considerándose a la comuna subdelegación de Pozo Almonte como integrante de dicho departamento para todos los efectos del Servicio Judicial.
+
 #### Artículo 43
 
 Los jueces del crimen de los departamentos de Santiago y Presidente Aguirre Cerda ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago y del Consejo General del Colegio de Abogados.
@@ -440,7 +442,7 @@ El Presidente de la República, previo informe favorable de la misma Corte y oye
 
 Tanto los jueces del crimen a que se refiere el inciso primero, como los tribunales civiles a los cuales se fije un territorio jurisdiccional exclusivo, podrán practicar actuaciones en cualesquiera de los dos departamentos, en los asuntos sometidos a su conocimiento.
 
-Con el acuerdo previo de la Corte de Apelaciones de Santiago, y por no más de una vez al año, el Presidente de la República, oyendo al Consejo General del Colegio de Abogados, podrá modificar los límites de la jurisdicción territorial de los juzgados a que se refieren los incisos primero y segundo.
+Inciso derogado.
 
 #### Artículo 44
 
@@ -456,11 +458,11 @@ Los jueces de letras de mayor cuantía conocerán:
 
 1°) En única o en primera instancia, conforme al inciso final de este número:
 
-a) De las causas civiles sobre cosas cuyo valor exceda de cuatrocientos escudos; pero, tratándose de los juicios especiales del contrato de arrendamiento, conocerán de aquellos en que el valor de la materia exceda de la suma de noventa escudos y también de los de cuantía inferiores cuando dichos juicios se promuevan dentro de la ciudad cabecera de departamento. Se exceptúan de estas reglas las causas cuyo conocimiento corresponda a los jueces de letras de menor cuantía y a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
+a) De las causas civiles sobre cosas cuyo valor exceda de siete mil cuatrocientos setenta escudos; pero, tratándose de los juicios especiales del contrato de arrendamiento, conocerán de aquellos en que el valor de la materia exceda de la suma de mil seiscientos ochenta escudos y también de los de cuantía inferiores cuando dichos juicios se promuevan dentro de la ciudad cabecera de departamento. Se exceptúan de estas reglas las causas cuyo conocimiento corresponda a los jueces de letras de menor cuantía y a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 
 b) De las causas de comercio, con la misma salvedad de la letra precedente.
 
-Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de noventa escudos y las causas de comercio que no excedan de cuatrocientos escudos y en primera todas las demás.
+Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de mil seiscientos ochenta escudos y las causas de comercio que no excedan de siete mil cuatrocientos setenta escudos y en primera todas las demás.
 
 2°) En primera instancia:
 
@@ -978,7 +980,7 @@ Las salas de la Corte Suprema conocerán:
 
 Las Salas de la Corte Suprema conocerán por turnos mensuales: una, de los recursos de casación en el fondo y en la forma que se hayan interpuesto en materia civil, y la otra, de los demás asuntos indicados en el artículo 98, con excepción de los recursos de queja de los que conocerá cualquiera de las salas.
 
-No obstante, cuando el número y naturaleza de las causas que se encuentren pendientes lo requiera el Presidente de la Corte Suprema podrá disponer que esta última Sala también conozca de los recursos de casación en el fondo y en la forma que se hayan interpuesto en materia civil.
+No obstante, cuando el número y naturaleza de las causas que se encuentren pendientes lo requiera, el Presidente de la Corte Suprema podrá incluir en la tabla de ambas Salas causas de naturaleza tanto civil como criminal.
 
 #### Artículo 100
 
@@ -992,7 +994,7 @@ La distribución de los Ministros de la Corte Suprema entre estas tres Salas se 
 
 Estas Salas se integrarán en conformidad a la ley; pero, para el Presidente de la Corte, esta integración será facultativa.
 
-Producida la división en tres Salas, regirá también lo dispuesto en el artículo 99, correspondiendo a dos de las Salas conocer de los recursos de casación en el fondo y en la forma interpuestos en materia civil, y a la otra, de los demás negocios indicados en el artículo 98, con excepción de los recursos de queja de los que conocerá cualquiera de las salas.
+Producida la división en tres Salas, corresponderá por turnos mensuales a una de ellas conocer de los recursos de casación en la forma y en el fondo en materia civil, a otra, conocer de los demás asuntos indicados en el artículo 98 y a la otra, conocer, indistintamente, de los recursos de casación en la forma y en el fondo de naturaleza civil o criminal, como asimismo de las demás materias a que se refiere el artículo 98. A las tres les corresponderá conocer de los recursos de queja de cualquiera naturaleza.
 
 El Tribunal en este caso designará un cuarto relator en el carácter de interino de entre aquellos que están sirviendo el cargo en propiedad en la Corte de Apelaciones de Santiago.
 
@@ -1396,7 +1398,13 @@ Si siendo muchos los responsables de un delito o de varios delitos conexos, hubi
 
 #### Artículo 170
 
-Si un mismo individuo fuere responsable de delitos sometidos a la jurisdicción militar y a la jurisdicción ordinaria, será competente para juzgarlo por todos los delitos la jurisdicción militar; pero respecto a la decisión de los delitos comunes el tribunal militar se ajustará a las leyes del fuero común.
+Cuando se hubiere cometido por un mismo agente delitos de jurisdicción militar y de jurisdicción común, que no sean conexos, el Tribunal Militar será competente para conocer de los primeros y el tribunal ordinario de los segundos. Si la aplicación de esta norma creare alguna interferencia o dificultad para la práctica de medidas o diligencias que se relacionen con el inculpado, tendrán preferencia las requeridas por el Tribunal Militar.
+
+Los tribunales deberán remitirse recíprocamente copias de los autos de procesamiento y de los fallos que se dictaren en sus respectivas causas, las que deberán agregarse a los autos.
+
+El tribunal que dictare el último fallo no podrá considerar circunstancias modificatorias de responsabilidad criminal que de estar acumulados los procesos no se hubieren podido tomar en cuenta.
+
+El reo podrá solicitar, dentro del plazo de un año, a contar del último fallo, al tribunal superior común, la unificación de las penas cuando ello lo beneficiare.
 
 #### Artículo 170 bis
 
@@ -1628,7 +1636,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema, deberá pagarse en estampillas un impuesto de veinte escudos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de diez escudos.
+Para recusar a un abogado integrante de la Corte Suprema, deberá pagarse en estampillas un impuesto de trescientos setenta escudos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de diez escudos.
 
 #### Artículo 199
 
@@ -1774,7 +1782,7 @@ Las Salas de la Corte Suprema no podrán funcionar con mayoría de abogados inte
 
 #### Artículo 219
 
-Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema, diez para la Corte de Apelaciones de Santiago, y tres para cada una de las demás Cortes de Apelaciones, previa formación, por la Corte Suprema, de ternas. El Presidente de la República efectuará los nombramientos en el orden de prioridad propuesto por la Corte Suprema.
+Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema, diez para la Corte de Apelaciones de Santiago, cinco para las Cortes de Apelaciones de Valparaíso y Concepción y tres para cada una de las demás Cortes de Apelaciones, previa formación de ternas por la Corte Suprema. El Presidente de la República efectuará los nombramientos conservando el orden numérico de las ternas propuestas por la Corte Suprema.
 
 La designación de abogados integrados de las Cortes de Apelaciones se hará en el mes de Enero de cada año. Los abogados designados para la Corte Suprema lo serán por un período de tres años, efectuándose el nombramiento en el mes de Enero en que comienza el trienio respectivo.
 
@@ -2098,7 +2106,7 @@ No podrán ser nombrados ministros de una Corte de Apelaciones las personas que 
 
 #### Artículo 260
 
-No podrá existir el parentesco de consanguinidad hasta el cuarto grado o de afinidad hasta el segundo grado inclusive entre los miembros de la Corte Suprema y los de las Cortes de Apelaciones, ni entre éstos y los jueces letrados de su respectiva jurisdicción.
+No podrá existir el parentesco de consanguinidad o de afinidad en la línea recta o en la colateral hasta el segundo grado inclusive, entre los miembros de la Corte Suprema y los de las Cortes de Apelaciones, entre éstos y los jueces letrados de su respectiva jurisdicción.
 
 #### Artículo 261
 
@@ -2126,7 +2134,7 @@ Habrá también, un Escalafón Especial del personal subalterno.
 
 En el Escalafón Primario figurarán los miembros y fiscales de la Corte Suprema y de las Cortes de Apelaciones, los jueces letrados de mayor y menor cuantía, los relatores, los secretarios de Cortes y de juzgados de letras de mayor y menor cuantía y los defensores públicos.
 
-En el Escalafón Secundario figurarán los notarios, conservadores, archiveros, procuradores del número y receptores.
+En el Escalafón Secundario figurarán los notarios, conservadores, archiveros, procuradores del número, receptores y asistentes sociales judiciales.
 
 En el Escalafón Especial del personal subalterno, figurarán los empleados de secretaría de los Tribunales de Justicia, los empleados de los fiscales y los empleados, con nombramiento fiscal de los defensores públicos.
 
@@ -2172,25 +2180,27 @@ Igual regla se aplicará a los defensores públicos de las categorías sexta y s
 
 El Escalafón Secundario tendrá las siguientes series:
 
-PRIMERA SERIE. Notarios, conservadores y archiveros.
+Primera serie. Notarios, conservadores y archiveros.
 
-SEGUNDA SERIE. Procuradores del número.
+Segunda serie. Procuradores del Número.
 
-TERCERA SERIE. Receptores de juzgados de letras.
+Tercera serie. Receptores de juzgados de letras.
 
-Las dos primeras series se dividirán en cuatro categorías y la tercera en cinco.
+Cuarta serie. Asistentes Sociales judiciales.
+
+Las dos primeras y la cuarta serie se dividirán en cuatro categorías y la tercera en cinco.
 
 Figurarán:
 
-En la PRIMERA CATEGORIA, los funcionarios de la primera y segunda series que desempeñen sus cargos en Santiago y los receptores del mismo departamento.
+En la primera categoría, los funcionarios de las cuatro series que desempeñen sus cargos en el departamento de Santiago;
 
-En la SEGUNDA CATEGORIA, los funcionarios de la primera y segunda series que sirvan sus cargos en los demás departamentos de asiento de Corte de Apelaciones y los receptores de los mismos departamentos;
+En la segunda categoría, los funcionarios de las cuatro series que sirvan sus cargos en los demás departamentos de asiento de Corte de Apelaciones;
 
-En la TERCERA CATEGORIA, los funcionarios indicados en el inciso anterior que desempeñen sus cargos en las capitales de provincia;
+En la tercera categoría, los funcionarios de las cuatro series que desempeñen sus cargos en las capitales de provincia;
 
-En la CUARTA CATEGORIA, los funcionarios indicados en el mismo inciso, que sirvan sus cargos en las cabeceras de departamentos; y
+En la cuarta categoría, los funcionarios de las cuatro series que sirvan sus cargos en las cabeceras de departamento, y
 
-En la QUINTA CATEGORIA, de la tercera serie, los receptores que actúen exclusivamente ante los Juzgados de Letras de Menor Cuantía.
+En la quinta categoría, los receptores que actúen exclusivamente ante los Juzgados de Letras de Menor Cuantía.
 
 3). Formación del Escalafón y calificación del personal
 
@@ -2240,19 +2250,21 @@ De los acuerdos se dejará constancia en un libro especial, que se mantendrá re
 
 #### Artículo 275
 
-La Corte Suprema, una vez recibidos los informes a que se refiere el artículo 273, hará en el mes de Enero de cada año, una calificación general de los Ministros y Fiscales de las Cortes de Apelaciones, de los Relatores y Secretario de la Corte Suprema y de los funcionarios indicados en el inciso segundo de dicho artículo, con el objeto de formar tres listas de los funcionarios del Orden Judicial.
+La Corte Suprema, una vez recibidos los informes a que se refiere el artículo 273, hará en el mes de Enero de cada año, una calificación general de los Ministros y Fiscales de las Cortes de Apelaciones, de los Relatores y Secretario de la Corte Suprema y de los funcionarios indicados en el inciso segundo de dicho artículo, con el objeto de formar cuatro listas de los funcionarios del Orden Judicial.
 
-En la lista número uno, figurarán los funcionarios meritorios, en la lista número dos, los funcionarios satisfactorios y en la lista número tres, los funcionarios deficientes.
+En la lista número uno, figurarán los funcionarios sobresalientes; en la lista número dos, los funcionarios satisfactorios; en la lista número tres, los funcionarios regulares, y en la lista número cuatro, los funcionarios deficientes.
 
-En caso de producirse empate de votos, respecto de si un funcionario debe figurar en las listas uno, dos o tres, decidirá el voto del que presida.
+En caso de producirse empate de votos, respecto de si un funcionario debe figurar en las listas uno, dos, tres o cuatro, se repetirá la votación, y si se produce un segundo empate, decidirá el voto del que preside. Si no se reuniere el quorum legal para incluir en la lista número cuatro a los funcionarios que gocen de inamovilidad, quedarán incluidos en la lista número tres.
 
-La calificación no será susceptible de recurso alguno.
+La calificación efectuada por los Jueces de Letras de Mayor Cuantía, por los de Menores y por los de Menor Cuantía, será apelable ante las Cortes de Apelaciones respectivas; tales apelaciones serán vistas, en cuenta, por el Tribunal Pleno de cada Corte. Las calificaciones efectuadas por las Cortes de Apelaciones serán apelables ante la Corte Suprema, la que las resolverá en cuenta. Las calificaciones que efectúe la Corte Suprema sólo serán susceptibles del recurso de reposición. Este recurso deberá interponerse dentro del plazo de cinco días, contados desde la fecha en que se efectuó la transcripción de la calificación. Si el afectado desempeñare sus funciones fuera del Departamento de Santiago, dicho plazo se aumentará en la misma forma que el de emplazamiento para contestar demandas, según lo dispuesto en los artículos 258 y 259 del Código de Procedimiento Civil.
 
 En la lista número uno se colocará a los funcionarios que además de tener moralidad intachable, reúnan cualidades sobresalientes de criterio y preparación jurídica, vocación profesional, laboriosidad, eficiencia y celo en el cumplimiento de sus deberes y obligaciones.
 
 En la lista número dos se incluirá a los funcionarios moralmente intachables, que cumplan satisfactoriamente los deberes y obligaciones de su cargo y sean eficientes y celosos en su desempeño.
 
-En la lista número tres, se colocará a los funcionarios que no posean las condiciones requeridas para figurar en la lista número dos; a los que, a juicio de la Corte Suprema, hubieren infringido alguna de las prohibiciones indicadas en los números segundo y tercero del artículo 323 de este Código; y a los que en el año anterior hayan sido objeto de medidas disciplinarias de censura por escrito o suspensión de las funciones, cuando la falta cometida, a juicio de la Corte Suprema, sea de gravedad.
+En la lista número tres, se incluirá a los funcionarios que no posean los requisitos para figurar en la lista número dos, que tengan moralidad intachable y cuyo desempeño funcionario sea solamente regular, y a los que en los meses que precedan al período en que se efectúa la calificación, hubieren sido objeto de algunas de las medidas disciplinarias de amonestación privada, censura por escrito, pago de costas o multa.
+
+En la lista número cuatro, se colocará a los funcionarios que no posean los requisitos para figurar en la lista número tres; a los funcionarios deficientes; a los que a juicio de la Corte Suprema, hubieren infringido alguna de las prohibiciones indicadas en los números 2° y 3° del artículo 323; a los que por dos años consecutivos hubieren figurado en la lista número tres y a los que en los meses que precedan al período en que se efectúa la calificación, hayan sido objeto de la medida disciplinaria de suspensión de sus funciones, cuando la falta cometida, a juicio de la Corte Suprema, sea de especial gravedad.
 
 #### Artículo 276
 
@@ -2262,39 +2274,43 @@ Estas audiencias se llevarán a cabo dentro de las dos primeras horas fijadas pa
 
 #### Artículo 277
 
-Los funcionarios incluidos en la lista número tres, con el voto de la mayoría de los miembros en ejercicio de la Corte Suprema, quedan removidos de sus cargos. El Presidente de la República cumplirá este acuerdo, transcurridos treinta días desde que la Corte Suprema comunique al Ministerio de Justicia el resultado de la calificación anual.
+Los funcionarios que gocen de inamovilidad, incluidos en la lista cuatro con el voto de la mayoría de los miembros en ejercicio de la Corte Suprema, quedarán removidos de sus cargos. Igualmente removidos quedarán aquellos funcionarios que no gocen de inamovilidad, que fueren incluidos en la lista número cuatro con el voto de la mayoría de los miembros de la Corte Suprema presentes en la votación. En ambos casos, los funcionarios quedarán de inmediato suspendidos de sus funciones, con goce de medio sueldo. El Presidente de la República cumplirá los acuerdos de remoción, transcurridos 30 días desde que la Corte Suprema comunique al Ministerio de Justicia el resultado de la Calificación anual.
 
 El funcionario afectado, dentro del término de treinta días, contados desde la fecha en que, por carta certificada dirigida al lugar en que debe desempeñar sus funciones, se le comunique la calificación, podrá iniciar su expediente de jubilación, siempre que acredite, a lo menos, diez años de servicios computables.
 
-La inclusión en la lista número tres deberá ser comunicada al Ministerio de Justicia, a las Cortes de Apelaciones de la República y al Fiscal de la Corte Suprema cuando proceda. Se les comunicará, asimismo, la nómina de los funcionarios incluidos en las listas números uno y dos.
+La inclusión en la lista número cuatro deberá ser comunicada al Ministerio de Justicia, a las Cortes de Apelaciones de la República y al Fiscal de la Corte Suprema cuando proceda. Se les comunicará, asimismo, la nómina de los funcionarios incluidos en las listas números uno y dos.
 
 #### Artículo 278
 
-Los Jueces de Letras de Mayor Cuantía, los Jueces de Letras de Menores y los Jueces de Letras de Menor Cuantía, efectuarán anualmente, durante la primera quincena de Noviembre, una calificación de los empleados de secretaría y de los oficiales de sala de su dependencia, con el objeto de formar las tres listas a que se refiere el artículo 275 del presente Código.
+Los Jueces de Letras de Mayor Cuantía, los Jueces de Letras de Menores y los Jueces de Letras de Menor Cuantía, efectuarán anualmente, durante la primera quincena de Noviembre, una calificación de los empleados de secretaría y de los oficiales de sala de su dependencia, con el objeto de formar las cuatro listas a que se refiere el artículo 275 del presente Código.
 
 En la lista número uno se colocará a los empleados que además de tener moralidad intachable, reúnan cualidades sobresalientes de preparación, vocación profesional y celo en el cumplimiento de sus deberes y obligaciones. Los Oficiales de Sala figurarán en la lista número uno cuando reúnan cualidades sobresalientes de moralidad intachable de eficiencia y de puntualidad y celo en el cumplimiento de sus obligaciones.
 
 En la lista número dos se incluirá a los empleados moralmente intachables que cumplan satisfactoriamente los deberes y obligaciones de su cargo y sean eficientes y celosos en su desempeño. Los Oficiales de Sala figurarán en la lista número dos, cuando posean condiciones de moralidad intachable y de eficiencia, puntualidad y celo satisfactorios, en el cumplimiento de sus obligaciones.
 
-En la lista número tres, se colocará a los empleados que no posean las condiciones requeridas para figurar en la lista número dos y a los que en el año anterior hayan sido objeto de medidas disciplinarias de censura por escrito o suspensión, cuando la falta cometida, a juicio del Juez respectivo, sea de gravedad.
+En la lista número tres, se colocará a los empleados que teniendo moralidad intachable, no posean los requisitos necesarios para figurar en la lista número dos y cuyo desempeño funcionario sea solamente regular y a los que en los meses que precedan al período en que se efectúa la calificación, hubieren sido objeto de alguna de las medidas disciplinarias de amonestación privada, censura por escrito o multa.
 
-Igual calificación y formación de listas, efectuarán la Corte Suprema, las Cortes de Apelaciones y los Fiscales de esos tribunales respecto de sus empleados de secretaria y oficiales de sala. La Corte Suprema efectuará, además las calificaciones de los empleados y oficiales de sala de la Oficina del Presupuesto y de la Biblioteca del Tribunal; y el Presidente la del chofer de la presidencia, de los ascensoristas y aseadores del Palacio de los Tribunales.
+En la lista número cuatro, se colocará a los empleados que no posean los requisitos para figurar en la lista número tres, a los que hayan tenido una actuación deficiente, a los que en los meses que precedan al período en que se efectúa la calificación, hubieren sido objeto de la medida disciplinaria de suspensión, cuando la falta cometida, a juicio del Juez respectivo, sea de especial gravedad, y a los que por dos años consecutivos hubieren figurado en la lista número tres.
 
-Las calificaciones hechas por los Jueces, en la lista número tres, serán reclamables ante la Corte de Apelaciones respectiva, dentro del quinto día hábil contado desde la notificación de ellas al interesado.
+Igual calificación y formación de listas, efectuarán la Corte Suprema, las Cortes de Apelaciones y los Fiscales de esos tribunales respecto de sus empleados de secretaria y oficiales de sala. La Corte Suprema efectuará, además las calificaciones de los empleados y oficiales de sala de la Oficina del Presupuesto y de la Biblioteca del Tribunal; y el Presidente la de su Secretario Privado, del chofer de la presidencia, de los ascensoristas y aseadores del Palacio de los Tribunales.
 
-Las calificaciones efectuadas por las Cortes de Apelaciones, en la lista número tres, serán reclamables ante la Corte Suprema, dentro del quinto día hábil contado desde la notificación de ellas al afectado.
+Las calificaciones hechas por los Jueces, en la lista número cuatro, serán apelables ante la Corte de Apelaciones respectiva, dentro del quinto día hábil contado desde la notificación de ellas al interesado.
+
+Las calificaciones efectuadas por las Cortes de Apelaciones, en la lista número cuatro, serán apelables ante la Corte Suprema, dentro del quinto día hábil contado desde la notificación de ellas al afectado.
 
 Las calificaciones efectuadas por los Fiscales de las Cortes de Apelaciones serán reclamables ante el Fiscal de la Corte Suprema, dentro del mismo plazo.
 
-Las calificaciones efectuadas por la Corte Suprema respecto de los empleados de la secretaría y oficiales de sala del Tribunal, de los empleados y oficiales de sala de la Oficina de Presupuesto y Biblioteca de esa Corte; las que efectuare el Presidente respecto del chofer de la presidencia, de los ascensoristas y aseadores del Palacio de los Tribunales, y la que hiciere el Fiscal de la misma Corte respecto de su secretario abogado, serán susceptibles del recurso de reposición que deberá interponerse dentro del término de cinco días de notificada la calificación.
+Las calificaciones efectuadas por la Corte Suprema respecto de los empleados de la secretaría y oficiales de sala del Tribunal, de los empleados y oficiales de sala de la Oficina de Presupuesto y Biblioteca de esa Corte; las que efectuare el Presidente respecto de su Secretario Privado, del chofer de la presidencia, de los ascensoristas y aseadores del Palacio de los Tribunales, y la que hiciere el Fiscal de la misma Corte respecto de su secretario abogado, serán susceptibles del recurso de reposición que deberá interponerse dentro del término de cinco días de notificada la calificación.
 
-Los Jueces, vencido el plazo de la reclamación, comunicarán todas las calificaciones que hayan efectuado a la respectiva Corte de Apelaciones, y al Ministerio de Justicia la de las personas que figuren en la lista número tres.
+La Corte Suprema, cuando lo estime conveniente para el buen servicio, podrá calificar, por sí misma, a los empleados de cualquier tribunal del país, requiriendo para ello, cuando lo considere necesario, informe a las Cortes de Apelaciones y Juzgados respectivos y demás autoridades que puedan proporcionarle antecedentes relacionados con la materia.
 
-Transcurrido el plazo para reclamar, las Cortes de Apelaciones comunicarán a la Corte Suprema todas las calificaciones efectuadas, y al Ministerio de Justicia la de las personas que figuren en la lista número tres. Vencido el mismo plazo, los Fiscales de las Cortes de Apelaciones comunicarán las calificaciones al Fiscal de la Corte Suprema, y al Ministerio de Justicia las de las personas incluidas en la lista número tres.
+Los Jueces, vencido el plazo de la apelación, comunicarán todas las calificaciones que hayan efectuado a la respectiva Corte de Apelaciones, y al Ministerio de Justicia la de las personas que figuren en la lista número cuatro.
 
-La Corte Suprema y el Fiscal de la misma, en su caso, comunicarán al Ministerio de Justicia la nómina de las personas calificadas en la lista número tres.
+Transcurrido el plazo para apelar, las Cortes de Apelaciones comunicarán a la Corte Suprema todas las calificaciones efectuadas, y al Ministerio de Justicia la de las personas que figuren en la lista número cuatro. Vencido el mismo plazo, los Fiscales de las Cortes de Apelaciones comunicarán las calificaciones al Fiscal de la Corte Suprema, y al Ministerio de Justicia las de las personas incluidas en la lista número cuatro.
 
-Una vez recibida por el Poder Ejecutivo la nómina de las personas calificadas en la lista número tres, procederá a decretar la remoción transcurridos treinta días contados desde la fecha de la comunicación. Las calificaciones reclamadas se comunicarán cuando el reclamo haya sido resuelto.
+La Corte Suprema y el Fiscal de la misma, en su caso, comunicarán al Ministerio de Justicia la nómina de las personas calificadas en la lista número cuatro.
+
+Una vez recibida por el Poder Ejecutivo la nómina de las personas calificadas en la lista número cuatro, procederá a decretar la remoción transcurridos treinta días contados desde la fecha de la comunicación. Las calificaciones reclamadas se comunicarán cuando el reclamo haya sido resuelto.
 
 Las audiencias que celebren las Cortes de Apelaciones para calificar a su personal y para conocer de las reclamaciones a que se refiere el inciso sexto, se realizarán dentro de las dos primeras horas fijadas para el funcionamiento diario del tribunal, serán secretas y se aplicarán las reglas contenidas en el párrafo segundo del Título V, en lo que fueren compatibles.
 
@@ -2324,7 +2340,7 @@ El tiempo servido en las provincias de Chiloé, Aysen y Magallanes, hasta un má
 
 #### Artículo 281
 
-En las presentaciones no podrán figurar funcionarios incluidos en la lista número dos, salvo que al concurso respectivo no se hubiere presentado número suficiente de funcionarios incluidos en la lista número uNº Tampoco podrán figurar en las presentaciones los funcionarios a quienes, con posterioridad a la calificación anual, se hubiere aplicado medidas disciplinarias de censura por escrito, pago de costas, multas o suspensión de sus cargos; pero si en conformidad al artículo 83 de la Constitución Política del Estado alguno hubiere de figurar en la propuesta por antigüedad, en ella se dejara constancia de hallarse incluido en dicha lista o de habérsele aplicado alguna de las medidas disciplinarias antes mencionadas.
+En las presentaciones no podrán figurar funcionarios incluidos en la lista número tres, salvo que al concurso respectivo no se hubiere presentado número suficiente de funcionarios que figuren en las listas números uno y dos. Un oponente, de los que figuran en la lista número uno, deberá ser incluido en la terna. Tampoco podrán figurar en las presentaciones los funcionarios a quienes, con posterioridad a la calificación anual, se hubiere aplicado medidas disciplinarias de censura por escrito, pago de costas, multas o suspensión de sus cargos; pero sí, en conformidad al artículo 83 de la Constitución Política del Estado, alguno hubiere de figurar en la propuesta, por antigüedad, en ella se dejará constancia de hallarse incluido en la lista número tres o de habérsele aplicado alguna de las medidas disciplinarias antes mencionadas.
 
 Los funcionarios figurarán en la propuesta por orden estricto de antigüedad, debiendo aplicarse la lista en que se encuentren incluidos.
 
@@ -2337,6 +2353,10 @@ El fiscal podrá integrar el tribunal para los efectos de este artículo.
 #### Artículo 283
 
 Para proveer el cargo de ministro o fiscal de la Corte Suprema, este tribunal enviará al Presidente de la República una lista de cinco personas, en la que deberán figurar los dos miembros más antiguos de las Cortes de Apelaciones. Los otros tres lugares se llenarán en atención a los méritos de los candidatos pudiendo figurar personas extrañas a la Administración de Justicia.
+
+Los candidatos pertenecientes a la Administración de Justicia deberán, además, haber estado siempre incluidos en la lista número uno a que se refiere el artículo 275.
+
+Si alguno de los dos miembros más antiguos de las Cortes de Apelaciones no cumpliere este requisito, se dejará constancia de ello en la propuesta.
 
 #### Artículo 284
 
@@ -2379,6 +2399,12 @@ La terna para el nombramiento de notarios, Conservadores y Archiveros de las tre
 Podrán figurar funcionarios de la misma serie de la categoría subsiguiente, siempre que tengan más de 10 años de antigüedad en el grado.
 
 A falta de opositores que reúnan los requisitos que preceden, la terna se formará con otros funcionarios de la misma serie y categorías inmediatamente inferior y subsiguientes señaladas; en su defecto, con abogados, y, a falta de éstos, con personas idóneas.
+
+La terna para el nombramiento de asistente social judicial de las tres primeras categorías se formará del mismo modo que el señalado en el inciso primero. A falta de opositores al concurso para proveer el cargo de asistente social judicial de las dos primeras categorías que reúnan tales requisitos, la terna se formará con funcionarios de la misma serie de la categoría subsiguiente, o, en su defecto, con asistentes sociales ajenos al Servicio. En el caso que al concurso para proveer el cargo de asistente social judicial de tercera categoría no se presentaren funcionarios con las calidades indicadas en el inciso primero, la terna se formará con asistentes sociales ajenos al Servicio.
+
+La terna para el nombramiento de asistente social judicial de cuarta categoría se formará con un funcionario de la misma categoría que se oponga al concurso y con asistentes sociales ajenos al Servicio.
+
+Para oponerse al cargo de asistente social judicial se requiere estar en posesión del título respectivo otorgado por alguna Universidad del Estado o reconocida por éste y estar inscrito en el Colegio de Asistentes Sociales.
 
 #### Artículo 288
 
@@ -2446,7 +2472,7 @@ Los empleados subalternos que estén en posesión del título de abogado y de lo
 
 #### Artículo 294
 
-En las ternas para el nombramiento de empleados de Secretaría y Oficiales de Sala, no podrán figurar empleados incluidos en la lista número dos, ni tampoco aquellos a quienes se haya sancionado disciplinariamente, con posterioridad a su última calificación, con censura por escrito, multas o suspensión de sus cargos. Los empleados que figuren en ellas se colocarán por orden de antigüedad, y si figuran personas extrañas al servicio, después de aquéllos.
+En las ternas para nombramiento de empleados de Secretarías y Oficiales de Sala, no podrán figurar empleados incluidos en la lista número tres, ni tampoco aquellos a quienes se haya sancionado disciplinariamente, con posterioridad a la última calificación, con censura por escrito, multa o suspensión de sus cargos. Un empleado de los que se presenten al concurso y que se halle incluido en la lista número uno, tendrá derecho preferente para ocupar un lugar en la terna. Los empleados que figuren en ellas se colocarán por orden de antigüedad, y si figuran personas extrañas al servicio, después de aquellos.
 
 Las ternas serán formadas, previo concurso por el tribunal en que deban prestar sus servicios, con un empleado de la misma categoría del cargo que se trata de proveer y dos de la categoría inferior. A falta de oponentes de la misma categoría, la terna se formará con tres empleados de la categoría inferior y por si en ella no hubiere interesados en número suficiente, ocuparán sus lugares los de la categoría siguiente y a falta de éstos, personas extrañas a la carrera.
 
@@ -3468,7 +3494,7 @@ El notario que ejerciere funciones de tal, fuera del departamento o territorio p
 
 #### Artículo 441
 
-El notario que faltare a las obligaciones que le señalan los números 8° y 9° del art. 401, será castigado con las penas de suspensión del empleo en cualquiera de sus grados y multa de cuarenta escudos a cuatrocientos escudos.
+El notario que faltare a las obligaciones que le señalan los números 8° y 9° del art. 401, será castigado con las penas de suspensión del empleo en cualquiera de sus grados y multa de setecientos cincuenta escudos a siete mil cuatrocientos setenta escudos.
 
 #### Artículo 442
 
@@ -3554,6 +3580,8 @@ Los archiveros son ministros de fe pública encargados de la custodia de los doc
 
 Habrá archivero en los departamentos de Santiago y Valparaíso y en los demás que determine el Presidente de la República con previo informe de la respectiva Corte de Apelaciones.
 
+Cuando el archivero estuviere implicado o se imposibilitare por cualquiera causa para el ejercicio de sus funciones, será reemplazado por los notarios del departamento, conforme al orden de su antigüedad.
+
 #### Artículo 455
 
 Son funciones de los archiveros:
@@ -3586,9 +3614,15 @@ Las funciones de los archiveros, en cuanto ministros de fe, se limitan a dar con
 
 Los archiveros generales podrán dar, sin decreto judicial, copia autorizada de las escrituras contenidas en los protocolos de su archivo, en todos aquellos casos en que el notario que haya intervenido en su otorgamiento habría podido darlas sin decreto.
 
+### 10. Los Asistentes Sociales Judiciales
+
 #### Artículo 457
 
-Cuando el archivero estuviere implicado o se imposibilitare por cualquiera causa para el ejercicio de sus funciones, será reemplazado por los notarios del departamento, conforme al orden de su antigüedad.
+Los asistentes sociales judiciales son auxiliares de la administración de justicia cuya función es la de informar al tribunal acerca de los aspectos sociales, económicos, ambientales, educacionales y demás que se les requiera, con respecto a las partes o a los hechos y situaciones que han provocado el conflicto o la conducta irregular del individuo.
+
+En cada juzgado especial de menores habrá, a lo menos, un asistente social judicial.
+
+Cuando por implicancia o recusación el asistente social judicial no pudiere intervenir en determinadas causas, o se imposibilitare para el ejercicio de su cargo, será subrogado por los demás asistentes sociales del tribunal a que pertenece, según el orden de sus nombramientos; en subsidio, por el asistente social de cualquier servicio publico que el juez designe, el que estará obligado a desempeñar el encargo.
 
 ## Título XII
 
@@ -3660,6 +3694,8 @@ Para ser receptor ante los Juzgados de Letras y procurador del número es menest
 
 Para ser receptor ante los juzgados de distrito y subdelegación se requiere esta misma edad.
 
+Para ser asistente social judicial se requiere tener más de veintiún años de edad, encontrarse en posesión del título de asistente social otorgado por alguna Universidad del Estado o reconocida por éste y estar inscrito en el Colegio de Asistentes Sociales.
+
 #### Artículo 468
 
 Para ser secretario de juzgado de letras de menor cuantía se requiere tener más de veintiún años, y saber leer y escribir. Los Secretarios de estos juzgados en Santiago, deberán, además, ser abogados.
@@ -3668,7 +3704,7 @@ Para ser secretario de juzgado de letras de menor cuantía se requiere tener má
 
 Las incapacidades en razón de parentesco establecidas en el artículo 258, rigen para todos los funcionarios del Escalafón Primario dependientes de una Corte de Apelaciones en su respectivo territorio jurisdiccional.
 
-No podrán ser oficiales del ministerio público en un tribunal, las personas que tengan con uno o más jueces de él alguno de los parentescos indicados en el citado artículo.
+No podrán ser oficiales del Ministerio público o asistentes sociales judiciales en un Tribunal las personas que tengan con uno o más jueces de él alguno de los parentescos indicados en el citado artículo.
 
 No pueden ser defensores públicos los que tengan con algunos de los jueces de letras propietarios del departamento cualquiera de los parentescos indicados en dicho artículo.
 
@@ -3722,6 +3758,8 @@ Los secretarios deberán mantener abierta su oficina al público desde una hora 
 
 Los notarios, los Conservadores y los Archiveros deberán mantener abierta su oficina al público en las horas que señalen las leyes y los reglamentos respectivos.
 
+Los asistentes sociales judiciales, en cumplimiento de sus funciones, deberán atender en el recinto del Tribunal los días y horas que señale el juez respectivo.
+
 #### Artículo 476
 
 Los relatores deberán asistir a la Corte diariamente con la anticipación necesaria para instruirse de los negocios de que deban dar cuenta.
@@ -3758,7 +3796,7 @@ Es prohibido a los notarios la aceptación y desempeño de arbitrajes y particio
 
 #### Artículo 481
 
-La prohibición del art. 321 regirá también con los fiscales, defensores, relatores, secretarios y receptores.
+La prohibición del artículo 321 regirá también con los fiscales, defensores, relatores, secretarios, receptores y asistentes sociales judiciales.
 
 Los notarios y los procuradores del número no podrán comprar los bienes en cuyo litigio han intervenido y que se vendan a consecuencia del litigio, aunque la venta se haga en pública subasta.
 
@@ -3792,15 +3830,15 @@ Los defensores públicos pueden ser recusados en los casos y por las personas po
 
 #### Artículo 487
 
-Las causas de implicancia señaladas respecto de los jueces por el art. 195 rigen también respecto de los relatores, secretarios y receptores.
+Las causas de implicancia señaladas respecto de los jueces por el artículo 195 rigen también respecto de los relatores, secretarios, receptores y asistentes sociales judiciales.
 
 En consecuencia, les es prohibido intervenir como tales en los negocios a que este artículo se refiere.
 
 #### Artículo 488
 
-Para recusar a los relatores y secretarios es menester expresar y probar causa legal.
+Para recusar a los relatores, secretarios y asistentes sociales judiciales es menester expresar y probar causa legal.
 
-Las causas de recusación de un secretario son, en cuanto puedan ser aplicables a ellos, las determinadas para la recusación de los jueces por el art. 196.
+Las causas de recusación de los secretarios y asistentes sociales judiciales son, en cuanto puedan ser aplicables a ellos, las determinadas para la recusación de los jueces por el artículo 196.
 
 Son causas legales para los relatores las señaladas en los números 1, 2, 4, 5, 6, 7, 8, 11, 12, 13 y 16 del precitado artículo.
 
@@ -4036,7 +4074,7 @@ En cuanto al destino de las fianzas y de los dineros decomisados, y de los que n
 
 #### Artículo 517
 
-El secretario de cada tribunal dará cuenta anualmente a su superior respectivo, en la primera semana de Marzo, de los depósitos que se encuentren en la situación indicada en el artículo anterior, y el tribunal decretará, en los expedientes correspondientes, el ingreso de dichos depósitos a la orden de la Junta de Servicios Judiciales. La resolución se notificará por el estado, y por tres avisos que se publicarán, a costa del Fisco, en las primeras ediciones del mes de Abril en uno de los diarios o periódicos del departamento. Si el expediente estuviere en otro tribunal, se le dirigirá el oficio que corresponda, con inserción del decreto. Este oficio se agregará al proceso y se notificará en la forma antedicha.
+El Secretario de cada Tribunal dará cuenta anualmente a su superior respectivo y a la Junta de Servicios Judiciales, en la primera semana del mes de marzo, de los depósitos que se encuentren en la situación indicada en el artículo anterior, y el Tribunal decretará, en los procesos correspondientes, el ingreso de dichos depósitos a la orden de la Junta. La resolución se notificará por el estado diario. Si el expediente estuviere en otro tribunal, se le dirigirá oficio con inserción del decreto. Este oficio se agregará al proceso y se notificará en la forma antedicha.
 
 #### Artículo 518
 
@@ -4134,7 +4172,7 @@ Los jueces de distrito y de subdelegación y los jueces de letras de mayor y de 
 
 1°) Amonestación verbal e inmediata;
 
-2°) Multa que no exceda de cuatro escudos, nueve escudos, cuarenta escudos o ciento diez escudos según se trate respectivamente de un juez de distrito, de subdelegación o de un juez de letras de menor o de mayor cuantía; y
+2°) Multa que no exceda de setenta escudos, ciento setenta escudos, setecientos cincuenta escudos o dos mil cincuenta escudos según se trate respectivamente de un juez de distrito, de subdelegación o de un juez de letras de menor o de mayor cuantía; y
 
 3°) Arresto que no exceda de veinticuatro o cuarenta y ocho horas, según se trate de un juez de distrito en el primer caso, o de un juez de subdelegación o de letras de menor cuantía en el segundo, y de cuatro días, si se trata de un juez de letras de mayor cuantía.
 
@@ -4150,7 +4188,7 @@ Podrán también los jueces de letras de mayor cuantía, para la represión o ca
 
 3°) Exigir firma de abogado para ese escrito y los demás que en adelante presente la misma parte, cuando ésta no esté patrocinada por un abogado en conformidad a la ley;
 
-4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de noventa escudos, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
+4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de mil seiscientos ochenta escudos, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
 
 5°) Imponer efectivamente al abogado, o a la parte, o a ambos, las penas expresadas en el número anterior.
 
@@ -4202,7 +4240,7 @@ Las faltas o abusos de que habla el artículo anterior podrán corregirlos las C
 
 3°) Pago de costas;
 
-4°) Multa que no sea inferior a cuarenta escudos ni exceda de doscientos escudos;
+4°) Multa que no sea inferior a setecientos cincuenta escudos ni exceda de tres mil setecientos cuarenta escudos;
 
 5°) Suspensión de funciones hasta por cuatro meses. Durante este tiempo el funcionario gozará de medio sueldo.
 
@@ -4242,11 +4280,11 @@ Para la represión y castigo de las faltas que se cometieren ante la Corte Supre
 
 2°) Censura por escrito;
 
-3°) Multa que no exceda de doscientos escudos;
+3°) Multa que no exceda de tres mil setecientos cuarenta escudos;
 
 4°) Arresto que no exceda de ocho días.
 
-Este arresto será siempre conmutable en multa, en proporción de cuarenta escudos por cada día.
+Este arresto será siempre conmutable en multa, en proporción de setecientos cincuenta escudos por cada día.
 
 Estos tribunales tendrán, también, las facultades que el artículo 531 otorga a los jueces de letras de mayor cuantía, para la represión o castigo de las faltas de respeto que se cometieren en los escritos que se les presentaren.
 
