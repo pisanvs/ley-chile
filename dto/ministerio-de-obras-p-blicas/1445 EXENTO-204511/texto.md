@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.445 de fecha 30 de septiembre del 2002, se expropió el lote de terreno Nº26-A, superficie 448 m2, rol Nº559-26, comuna de Linares, VII Región, para la obra ''Camino Ruta L-45, Sector Linares Llepo, Tramo Km. 2,750.2 al 13,147'' y se acordó el valor de indemnización con su propietaria Aurelia del Carmen Vásquez San Martín y otras, ascendente a la cantidad de $620.811.-
+
+Fiscal del Ministerio de Obras Públicas.
