@@ -1,0 +1,3 @@
+Andrés Cuneo Macchiavello, Superintendente Subrogante de la Superintendencia de Administradoras de Fondos de Pensiones, certifica que: En el Atestado extendido por este Organismo de fecha 1° de septiembre de 1994, relativo a la reforma de estatutos de A.F.P. Previpan S.A., inscrito a fs. 20007 N° 16336, Registro de Comercio Santiago, año 1994, publicado en el Diario Oficial de fecha 16 de septiembre de 1994, se incurrió en un error al señalar en el número 2, de la letra a) lo siguiente: "Con $1.108.150.276, dividido en 226.000 acciones"; debiendo decir: "a) Con $1.108.150.276, dividido en 226.800 acciones".
+
+Santiago, octubre 28 de 1994.- Andrés Cuneo Macchiavello, Superintendente Subrogante.
