@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 210, de 30 de Julio de 1993, se expropiaron los lotes de terreno N°s 35, 37, 40, 46 y 48, superficies 114 M2., 220 M2, 1.030 M2., 300 M2. y 670 M2., rol de avalúo 37-37, Comuna de Chépica, para la obra Camino Nancagua Puquillay Chépica y se acordó precio de indemnización con su propietario Pedro Segundo Padilla Miranda, ascendente a la cantidad de $ 1.653.383.
+
+Fiscal del Ministerio de Obras Públicas.
