@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.283, de 16 de noviembre de 2004, de esta Subsecretaría, autorízase a PESQUERA EL GOLFO S.A., para continuar desarrollando las actividades pesqueras autorizadas a Qurbosa Tres S.A., con las naves ''Tranoi'' y ''Mar Austral'', en virtud de la escritura pública y disposiciones legales citadas en Visto.
+
+Valparaíso, 16 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
