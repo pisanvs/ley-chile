@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº989, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº35-A, superficie 371 m², rol de avalúo 225-81, comuna de Olmué, V Región, para la obra ''Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10,984 al 34,500'' y se acordó el valor de indemnización con su propietario don Cayetano Alberto del Carmen Hidalgo Zamora, ascendente a la cantidad de $2.572.699.-
+
+Fiscal del Ministerio de Obras Públicas.
