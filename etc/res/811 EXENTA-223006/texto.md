@@ -1,0 +1,3 @@
+Por resolución exenta Nº 811, de 16 de marzo de 2004 de esta Subsecretaría, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Manuel Montt Nº 1941, Tomé, VIII Región, en las líneas de elaboración Harina y Aceite, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 16 de marzo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
