@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.365, de 16 de diciembre de 2003 de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL PIZARRO Y COMPAÑIA LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Jaime Repullo Nº 1224, Talcahuano, VIII Región, donde podrá elaborar en la línea de proceso Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 16 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
