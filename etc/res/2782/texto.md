@@ -1,0 +1,5 @@
+DISPONE INCLUSION DE PERSONAS QUE INDICA EN NOMINA DE POSTULANTES QUE SEÑALA
+
+Resolución exenta N° 2.782, de fecha 4 de diciembre de 1995, dispone inclusión de doña Antonia Mercedes Cahuin Coña, de doña Humilde Campos Albornoz, de don Luis Gaspar González Castro y de don Juan Carlos Leyton Durán, a las nóminas de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al I llamado 1995 a postulación colectiva con proyectos habitacionales del Sistema General Unificado de Subsidio Habitacional.
+
+Como consecuencia de ello queda en 3.612 el número de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al I llamado 1995 a postulación colectiva con proyectos habitacionales del Sistema General Unificado de Subsidio Habitacional y en 455.600 Unidades de Fomento (U.F.), el monto de recursos comprometidos para el financiamiento del subsidio directo, para la atención de dichos postulantes seleccionados.
