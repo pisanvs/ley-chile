@@ -3580,81 +3580,31 @@ CAPITULO 2-12 (Bancos y Financieras)
 
 MATERIA:
 
-EXTRAVIO PERDIDA O DETERIORO PARCIAL DE TITULOS DE CREDITO DE DINERO EMITIDOS
+PERDIDA O DETERIORO DE TITULOS DE CREDITO.
 
-CON CLAUSULA A LA ORDEN.
+### 1. Documentos emitidos con cláusula a la orden
 
-1. Conforme a lo establecido en el artículo 1° de la Ley 18.552, de 20 de
+Conforme a lo establecido en el artículo l° de la Ley N° 18.552, de 20 de septiembre de 1986, las normas del párrafo 9° del Título I de la Ley N° 18.092, sobre Letra de Cambio y Pagaré, relativas al procedimiento que debe seguirse en caso de extravío, sustracción o deterioro de la letra, son aplicables tanto a los certificados de depósito a la orden, como a cualesquiera otros títulos de crédito de dinero emitidos con la cláusula a la orden, en favor de, a disposición de u otras equivalentes, cualesquiera fuere la denominación con que se designare a dichos instrumentos.
 
-septiembre de 1986, las normas del párrafo 9° del Título I de la Ley N°
+El objeto del citado procedimiento es que el tribunal competente declare el extravío, pérdida o deterioro parcial del documento y autorice al solicitante para que, con el mérito de una copia autorizada de la sentencia, ejerza los mismos derechos que le correspondían en virtud del documento original.
 
-18.092,sobre Letra de Cambio y Pagaré, relativas al procedimiento que debe
+En conformidad con lo expuesto y lo establecido en el artículo 96 de la Ley N° 18.092, que señala que "la aceptación o el pago autorizado por la resolución judicial a que se refiere el artículo 90, producen los mismos efectos que los derivados del ejemplar auténtico de la letra; pero no perjudican los derechos del portador legítimo frente a quien, invocando indebidamente esa calidad, haya obtenido la aceptación o el pago", esta Superintendencia es de opinión que la institución financiera que paga en virtud de la copia autorizada de la sentencia que acogió la solicitud del requirente, ha pagado bien; es decir, cumple con su obligación como si lo hubiera hecho en virtud del documento original, de manera que no le implicará responsabilidad el hecho de que posteriormente se presente un tercero a cobrar el documento, pretendiendo ser su legítimo tenedor.
 
-seguirse encaso de extravío, sustracción o deterioro de la letra, es aplicable
+En consecuencia, las instituciones financieras deberán efectuar el pago del documento en la forma que determine la sentencia que se les exhiba y si ésta no establece condiciones, el pago deberá efectuarse de manera pura y simple.
 
-al extravío, pérdida o deterioro parcial de cualesquiera otros títulos de
+### 2. Documentos emitidos al portador
 
-crédito de dinero emitidos con la cláusula a la orden, en favor de, a
+Al tratarse de títulos de crédito emitidos al portador, rige lo dispuesto en el artículo 2° de la Ley 18.552 que señala expresamente:
 
-disposición de u otras equivalentes, cualesquiera fuere la denominación con que
+"El extravío, pérdida o deterioro de un título de crédito de dinero emitido al portador, cualquiera fuere su emisor, será del exclusivo riesgo de su último tenedor legítimo, quedando liberado de toda responsabilidad el deudor que lo pagare a quien se presente como detentador material del documento.
 
-se designare a dichos instrumentos.
+Lo dispuesto en el inciso precedente no obsta a la obligación de quien apoderándose indebidamente del documento, logró obtener su cobro y pago, de reintegrar al portador legítimo del mismo el monto íntegro de lo percibido, sin perjuicio de las responsabilidades civiles y penales que correspondan.
 
-2. El objeto del citado procedimiento es que el tribunal competente declare el
+Cualquiera estipulación en contrario se tendrá por no escrita.
 
-extravío, pérdida o deterioro parcial del documento y autorice al solicitante
+### 3. Destrucción o pérdidas de letras de crédito
 
-para que, con el mérito de una copia autorizada de la sentencia, ejerza los
-
-mismos derechos que le correspondían en virtud del documento original.
-
-3. En conformidad con lo expuesto y lo establecido en el artículo 96 de la Ley
-
-N° 18.092, que señala que "la aceptación o el pago autorizado por la resolución
-
-judicial a que se refiere el artículo 90, producen los mismos efectos que los
-
-derivados del ejemplar auténtico de la letra; pero no perjudican los derechos
-
-del portador legítimo frente a quien, invocando indebidamente esa calidad, haya
-
-obtenido la aceptación o el pago", esta Superintendencia es de opinión que la
-
-institución financiera que paga en virtud de la copia autorizada de la sentencia
-
-que acogió la solicitud del requirente, ha pagado bien; es decir, cumple con su
-
-obligación como si lo hubiera hecho en virtud del documento original, de manera
-
-que no le implicará responsabilidad el hecho de que posteriormente se presente
-
-un tercero a cobrar el documento, pretendiendo ser su legítimo tenedor.
-
-### 4. No obstante lo expuesto en el número anterior, y lo establecido en el
-
-#### Artículo 89
-
-de la Ley N° 18.092, que confiere a los bancos y financieras, como
-
-obligados al pago del documento, un plazo para que formulen su oposición a la
-
-solicitud y pidan al juez que exija al requirente que rinda garantía de
-
-resultas, esta Superintendencia ha tomado conocimiento de que, al momento de
-
-presentárseles copia autorizada de la sentencia, las instituciones financieras
-
-exigen al solicitante que suscriba a la orden de dichas entidades un pagaré a la
-
-vista ante notario por el monto del depósito extraviado, para así asegurar una
-
-eventual responsabilidad de la entidad por un doble pago, práctica de la que
-
-deberán abstenerse en el futuro. Esto es, deberán efectuar el pago del documento
-
-en la forma que determine la sentencia que se les exhiba y si ésta no establece
-
-condiciones, el pago deberá efectuarse de manera pura y simple.
+De conformidad con el Acuerdo del Consejo Monetario, transcrito en el Capítulo II.A. 1.1 del Compendio de Normas Financieras del Banco Central de Chile, cuando una letra de crédito, nominativa o al portador, resulte inutilizada para su circulación o sea destruida o perdida en un incendio u otro accidente similar, el tenedor de ella puede solicitar y obtener de la institución emisora una nueva letra de crédito de la misma serie, número y fecha de emisión de la letra inutilizada, que tendrá el carácter de duplicada, para cuyo efecto deberá precederse según las normas contenidas en dicho Capítulo.
 
 CAPITULO 2-13 (Bancos y Financieras)
 
