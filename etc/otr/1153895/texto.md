@@ -1,0 +1,5 @@
+Cultivo del algodon
+
+Uno de los objetos de ocupacion útil para los habitantes de esa provincia puede incontestablemente ser el cultivo del algodon que reemplazaria con ventaja al que se trae de fuera del Reyno i hace el doble perjuicio de estraer su numerario i condenar a la desidia las muchas manos que emplearia la cosecha de esta materia primera i su beneficio. Hai repetidas esperiencias de que ese suelo lo produce de excelente calidad, i V. hará el mas importante servicio a la humanidad i a la patria dando de que vivir a la parte mas numerosa i necesitada de la sociedad, fomentando esta labor. Para estimular a ella hará publicar que está libre de todos derechos el algodon que produzcan esos terrenos i que a mas se gratificará al dueño con cuatro pesos por cada quintal que presente, acompañado de la certificacion que compruebe el lugar de su orijen.-
+
+Dios guarde a Ud. muchos años.- Santiago, 26 de Noviembre de 1812.- Pedro José Prado Jaraquemada. - José Miguel de Carrera. - José Santiago Portales. - Al Gobernador de Coquimbo. - Al Subalterno del Huasco. -Al Subalterno de Copiapó.- Al de la Ligua.
