@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.482, de 30 de noviembre de 1998, se expropió el lote de terreno Nº 3, superficie 2.639 m2., rol de avalúo 317-12, comuna de Quirihue, para la obra Camino Cauquenes-Límite Regional-Quirihue, Sector Acceso a Quirihue y se acordó precio de indemnización con su propietario Carlos Montane Ramírez y otros, ascente a la cantidad de $ 4.634.574.
+
+- Fiscal del Ministerio de Obras Públicas.
