@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PRODUCTOS DEL MAR PACIFICO SUR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.152, de 29 de Septiembre de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Productos del Mar Pacífico Sur S.A., domiciliada en Santiago, para ampliar las actividades pesqueras que tiene autorizadas por resolución No. 494, de 1987, - de esta Subsecretaría, en orden a extraer 1.000.000 unidades de semillas de ostión del sur, de longitud no superior a 30 mm. desde bancos naturales situados en Seno Ventisquero, Bahía Brookes y áreas adyacentes en la XII Región, las que serán destinadas a las instalaciones de cultivo autorizadas a operar por la peticionaria en la XII Región. La extracción deberá ser realizada en su totalidad en 1987, mediante selección manual por parte de buzos y será controlada por el Servicio Nacional de Pesca.
+
+Valparaíso, 29 de Septiembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
