@@ -16244,7 +16244,7 @@ b) Instrumentos financieros en moneda de su país de origen, emitidos o garantiz
 
 2.3.- Categoría 3.
 
-a) Créditos contra otras instituciones financieras regidas por la Ley General de Bancos. Incluye préstamos interbancarios, operaciones con pacto de retroventa, inversiones en letras de crédito o en bonos, depósitos a plazo y cualquier otro crédito contra bancos o sociedades financieras constituidos en Chile o sucursales de bancos extranjeros que operen en el país.
+a) Créditos contra otras instituciones financieras regidas por la Ley General de Bancos. Incluye préstamos interbancarios, operaciones con pacto de retroventa, inversiones en letras de crédito o en bonos, depósitos a plazo y cualquier otro crédito contra bancos o sociedades financieras constituidos en Chile o sucursales de bancos extranjeros que operen en el país*, incluidos los saldos registrados en la cuenta "Divisas adquiridas pendientes de transferencia", de la partida 2115.
 
 b) Depósitos a plazo constituidos en bancos del exterior, con vencimiento no superior a 180 días a contar de la fecha del cómputo, clasificados en una categoría de riesgo no inferior a A-, por una empresa clasificadora internacional que figure en la nómina que se incluye en el Capítulo 1-12 de esta Recopilación.
 
@@ -21292,7 +21292,7 @@ II.- PROCESAMIENTO DE DATOS FUERA DE LA INSTITUCION.
 
 1.- Condiciones generales.
 
-Para encargar a otra empresa, de preferencia relacionada, el procesamiento parcial o total de sus datos, las instituciones financieras deberán obtener una autorización de esta Superintendencia, salvo que se contrate con una sociedad de apoyo al giro, autorizada para el efecto de acuerdo con lo previsto en el artículo 74 de la Ley General de Bancos.
+Para encargar a otra empresa situada en Chile o en el exterior, de preferencia relacionada, el procesamiento parcial o total de sus datos, las instituciones financieras deberán obtener una autorización de esta Superintendencia, salvo que se contrate con una sociedad de apoyo al giro, autorizada para el efecto de acuerdo con lo previsto en el artículo 74 de la Ley General de Bancos.
 
 Para ese efecto, la institución financiera solicitante deberá asegurarse de que la empresa cuente con la necesaria solidez financiera, una organización y personal adecuados, con conocimiento y experiencia en el procesamiento de datos o en servicios bancarios, como asimismo de que sus sistemas de control interno responden a las características del servicio que se desea contratar.
 
