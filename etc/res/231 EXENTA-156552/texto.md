@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 231 de 26 de febrero de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas N°s. 1 a la 12; sitio N°s. 3, 4, 8, 9, 26 y 27; Bienes Comunes A y B y Reservas CORA N°s. 1 y 2 del Proyecto de Parcelación "Camarico Viejo" formado en parte por "Resto de Predio Camarico Viejo" de la comuna de Punitaqui, IV Región. Los Derechos de Agua se extraen del Embalse Cogotí; canales La Escoria, La Represa y Romero y Vertiente de Parcela 13.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
