@@ -1,0 +1,3 @@
+Por decreto MOP. Nº569, de 29 de abril de 1998, se expropiaron los lotes de terreno Nºs. 1, 2, 3, 4 y 5, superficies 2.367, 1.150, 220, 1.990 y 315 M2. respectivamente, rol de avalúo 203-20, comuna de Coelemu, para la obra Mejoramiento Sector Coelemu - Rafael - Tomé y se acordó precio de indemnización con su propietario Bosques Santa Laura Limitada, ascendente a la cantidad de $2.601.580.
+
+Fiscal del Ministerio de Obras Públicas.
