@@ -7512,47 +7512,23 @@ MUTUOS HIPOTECARIOS ENDOSABLES.
 
 ### 1. Préstamos Hipotecarios
 
-Las instituciones financieras están facultadas para otorgar préstamos endosables
-
-con garantía hipotecaria, sujetos a las disposiciones contenidas en el N° 4 bis
-
-del artículo 83 de la Ley General de Bancos y en el presente capítulo.
+Las instituciones financieras están facultadas para otorgar préstamos endosables con garantía hipotecaria, sujetos a las disposiciones contenidas en el N° 4 bis del artículo 83 de la Ley General de Bancos y en el presente capítulo.
 
 Los referidos préstamos deberán cumplir con los siguientes requisitos:
 
-a) Los contratos de mutuo deberán extenderse en escritura pública que llevará
+a) Los contratos de mutuo deberán extenderse en escritura pública que llevará cláusula a la orden, de la cual se otorgará una sola copia autorizada endosable, la que será para la institución financiera acreedora. El mutuo y la hipoteca que lo garantice deberán constar en el mismo documento. Cualquiera de las partes podrá obtener del notario autorizante, copias no endosables según lo previsto en el artículo 1° de la Ley N° 19.439, las que no tendrán en caso alguno mérito para cobrar lo adeudado, sea por la vía ejecutiva u ordinaria.
 
-cláusula a la orden, de la cual se otorgará una sola copia autorizada, la que
+b) Los préstamos podrán otorgarse para el financiamiento de viviendas o para fines generales.
 
-será para la institución financiera acreedora. El mutuo y la hipoteca que lo
+c) En el caso del financiamiento de viviendas, los préstamos sólo podrán otorgarse para la adquisición, ampliación, reparación o construcción de éstas, siempre que, en este último caso, sean otorgados al usuario final de tales inmuebles.
 
-garantice deberán constar en el mismo documento.
+d) Los préstamos no podrán otorgarse a plazos inferiores a 1 año ni superiores a 30 años.
 
-b) Los préstamos podrán otorgarse para el financiamiento de viviendas o para
+e) La propiedad entregada en garantía deberá contar con seguro de incendio por el valor de tasación del inmueble, el que se mantendrá hasta la extinción del importe total de la deuda.
 
-fines generales.
+f) El mutuario deberá mantener vigente un seguro de desgravamen por un monto equivalente al saldo insoluto de la deuda.
 
-c) En el caso del financiamiento de viviendas, los préstamos sólo podrán
-
-otorgarse para la adquisición, ampliación, reparación o construcción de éstas,
-
-siempre que, en este último caso, sean otorgados al usuario final de tales
-
-inmuebles.
-
-d) Los préstamos no podrán otorgarse a plazos inferiores a 1 año ni superiores a
-
-30 años.
-
-e) La propiedad entregada en garantía deberá contar con seguro de incendio por
-
-el valor de tasación del inmueble, el que se mantendrá hasta la extinción del
-
-importe total de la deuda.
-
-f) El mutuario deberá mantener vigente un seguro de desgravamen por un monto
-
-equivalente al saldo insoluto de la deuda.
+Conforme a lo establecido en el artículo 5° de la Ley N° 19.439, las instituciones financieras podrán seguir un procedimiento simplificado de escrituración de los mutuos, mediante el uso de escrituras públicas de cláusulas generales inscritas en el Registro de Hipotecas y Gravámenes del respectivo Conservador de Bienes Raíces. Las escrituras que se inscriban para el efecto deberán contener solamente aquellas cláusulas que son comunes a todos los mutuos de que se trate, es decir, no contendrán aquellas referidas a la individualización de los deudores, garantías, tasas de interés, plazos u otras especificaciones que son propias de un contrato en particular. Las escrituras públicas de cláusulas generales de que se trata, constituirán un contrato de adhesión, debiendo darse a conocer su contenido a la parte que lo acepte y dejarse constancia en cada mutuo de la fecha y notaría en que la respectiva escritura fue otorgada, de su inscripción y de la entrega de una copia simple al mutuario.
 
 ### 2. Monto máximo de los préstamos
 
@@ -7738,7 +7714,7 @@ General de Bancos.
 
 ### 12. Cesión de los mutuos
 
-Los mutuos de que tratan estas instrucciones serán transferibles mediante endoso escrito a continuación, al margen o al dorso de la copia autorizada de la escritura pública respectiva.
+Los mutuos de que tratan estas instrucciones serán transferibles mediante endoso escrito a continuación, al margen o al dorso de la copia autorizada endosable de la escritura pública respectiva.
 
 La cesión del crédito implica el traspaso de las garantías, derechos y privilegios del acreedor.
 
@@ -7756,7 +7732,7 @@ b) Las sociedades securitizadoras de que trata la Ley N° 18.045 y los fondos de
 
 c) Las compañías de seguros del segundo grupo según la definición contenida en el artículo 8° del Decreto con Fuerza de Ley N° 251 de 1931 y sus modificaciones, y las sociedades a que se refiere el inciso tercero del artículo 21 bis de ese mismo cuerpo legal, siempre que se encuentren inscritas en el registro especial que llevará para estos efectos la Superintendencia de Valores y Seguros. Además, conforme a lo dispuesto en el artículo 134 del D.L. N° 3.500, podrán ser cesionarias las "sociedades anónimas inmobiliarias" a que se refiere el artículo 98, letra j) de dicho Decreto Ley.
 
-Salvo en los casos en que el cesionario sea un banco, sociedad financiera o sociedad securitizadora, el crédito deberá quedar en cobranza en la institución financiera cedente, la que estará facultada para percibir los importes que correspondan y para alzar el gravamen, cuando proceda.
+Salvo en los casos en que el cesionario sea un banco, sociedad financiera, sociedad securitizadora, alguno de los agentes administradores de mutuos hipotecarios a que se refiere el artículo 21 bis del DFL N° 251 de 1931 o cualquier otra entidad autorizada por ley para administrar mutuos hipotecarios endosables, el crédito deberá quedar en cobranza en la institución financiera cedente, la que estará facultada para percibir los importes que correspondan y para alzar el gravamen, cuando proceda.
 
 ### 13. Numeración de los mutuos hipotecarios endosables
 
@@ -7776,9 +7752,15 @@ conformidad con lo previsto en el artículo 1° de la Ley N° 18.552.
 
 La operación de préstamo hipotecario a que se refiere este Capítulo, da nacimiento a un título de crédito constituido por la escritura pública en que consta, con la precisa finalidad de que éste circule, para lo cual se permite que sea transferido mediante endoso, sin responsabilidad para la institución endosante.
 
-Dadas las características indicadas, resulta necesario que tanto el crédito como la hipoteca que lo caucione consten en el mismo documento, el que sólo se puede transferir completo, no siendo posible separar el crédito y la hipoteca, ni modificar sus condiciones, como ocurriría con la novación por cambio de deudor, la sustitución de garantías hipotecarias u otras modificaciones que alteren la naturaleza de la obligación original.
+Dadas las características indicadas, resulta necesario que tanto el crédito como la hipoteca que lo caucione consten en el mismo documento, el que sólo se puede transferir completo, no siendo posible separar el crédito y la hipoteca, ni modificar sus condiciones, como ocurriría con la sustitución de garantías hipotecarias u otras modificaciones que alteren la naturaleza de la obligación original.
 
-En concordancia con lo señalado en los párrafos precedentes, la única forma de modificar las condiciones de un mutuo hipotecario endosable, consiste en otorgar un nuevo crédito con cuyo producto se pague el que se desea modificar.
+De acuerdo con lo mencionado en los párrafos precedentes, el mutuo hipotecario endosable no admite modificaciones, salvo que se trate de una novación por cambio de deudor, la que debe ser solicitada a la institución que tenga a su cargo la administración del mutuo según lo establecido en el artículo 3° de la Ley N° 19.439.
+
+Por consiguiente, la única forma de modificar las demás condiciones consiste en otorgar un nuevo crédito con cuyo producto se pague el que se desea modificar.
+
+16.- Procedimiento para la ejecución de las garantías hipotecarias.
+
+El procedimiento para ejecutar forzadamente los contratos de mutuos hipotecarios endosables celebrados a contar del 31 de enero de 1996, de acuerdo a la Ley N° 19.439, quedará sujeto a las disposiciones especiales de los artículos 98 a 106 de la Ley General de Bancos.
 
 ### II. OPERACIONES CON MUTUOS HIPOTECARIOS ENDOSABLES REALIZADAS COMO AGENTES DE
 
@@ -9253,6 +9235,44 @@ hábiles contado desde la fecha del vencimiento de la respectiva obligación.
 El incumplimiento de estas instrucciones será sancionado de acuerdo con lo
 
 previsto en el artículo 19 del Decreto Ley N° 1.097, de 1975.
+
+CAPITULO 8-18 (Bancos y Financieras)
+
+MATERIA:
+
+COBRANZA. DE DIVIDENDOS HIPOTECARIOS.
+
+I.- PAGO DE DIVIDENDOS MEDIANTE DESCUENTO POR PLANILLA.
+
+El artículo 4° de la Ley N° 19.439 hace aplicable a los dividendos de préstamos hipotecarios otorgados con emisión de letras de crédito o con mutuos hipotecarios endosables, las normas sobre descuentos por planilla contenidas en el artículo 9° de la Ley N° 19.281, sobre arrendamiento de vivienda con promesa de compraventa, materia esta última que se encuentra tratada por esta Superintendencia en el Capítulo 2-8 de esta Recopilación Actualizada de Normas.
+
+Para el efecto las instituciones financieras deberán atenerse a lo indicado en los numerales 4.2 y 4.3 del mencionado Capítulo 2-8, salvo en lo siguiente:
+
+a) Las menciones a aportes metódicos o ahorro voluntario que contienen dichas normas deben entenderse referidas, en este caso, al pago de los dividendos mensuales de créditos con mutuos hipotecarios endosables o letras de crédito.
+
+b) No es aplicable el uso de cuentas de ahorro para la canalización del pago de los dividendos, como tampoco el cobro de las indemnizaciones a que se refiere el inciso 2° del artículo 9° antes mencionado.
+
+c) Las retenciones del empleador se enterarán al valor que la unidad de fomento tenga al día de vencimiento del correspondiente dividendo.
+
+d) En caso de que se agoten con el empleador las gestiones de cobranza judicial de los dividendos retenidos sin que se haya obtenido su pago íntegro, los importes faltantes constituyen deudas morosas de cargo del trabajador dependiente, de acuerdo con las condiciones pactadas en el respectivo mutuo hipotecario, a diferencia de las obligaciones que emanan de los contratos de arrendamiento con promesa de compraventa pactados al amparo de la Ley N° 19.439, para las cuales el último inciso de su artículo 9° contempla ampliaciones de plazos y pagos sin recargos.
+
+En concordancia con lo anterior, el procedimiento de descuento por planilla puede ser exigido a sus respectivos empleadores por los deudores de créditos vigentes con letras de crédito o con mutuos hipotecarios endosables, cualesquiera sea la fecha en que ellos se hayan otorgado, pudiendo aplicarse el sistema tanto a los créditos a favor de las instituciones financieras como a aquellos mutuos hipotecarios endosables administrados por ellas, cuya cobranza se les haya encargado.
+
+En todo caso, conforme a lo previsto en la Ley, si el empleador no entera los dividendos correspondientes a dos meses consecutivos o de tres meses en total en cualquier época, quedará sin efecto el sistema de descuento, debiendo la institución financiera comunicar oportunamente dicha situación al deudor a fin de que éste efectúe directamente los pagos siguientes.
+
+II.- INFORMACION QUE DEBE CONTENER EL AVISO DE COBRANZA DE DIVIDENDOS HIPOTECARIOS PARA VIVIENDA.
+
+Los avisos de cobranza de dividendos que las instituciones financieras envían mensualmente a los deudores de créditos hipotecarios para la vivienda, ya sea que se trate de préstamos en letras de crédito, mutuos hipotecarios endosables, créditos adquiridos de la Asociación Nacional de Ahorro y Préstamo u otros, deberán incluir, a lo menos, la siguiente información:
+
+a) Número de dividendos pagados, número del dividendo que se cobra y número de dividendos pactados.
+
+b) Monto insoluto del crédito. Si existe deuda reprogramada se debe indicar además el monto insoluto de ésta en forma separada.
+
+c) Desagregar, para el dividendo que se cobra, lo siguiente: monto de la amortización, comisión, intereses, seguro de incendio, seguro de desgravamen y otros seguros o gastos, si los hay.
+
+d) Fecha de vencimiento del dividendo.
+
+En el caso que el monto insoluto del crédito sea servido mediante dividendos afectos a una reprogramación, se recomienda a las instituciones acreedoras enviar a los respectivos deudores, conjuntamente con el primer aviso de vencimiento que se despache conforme a estas instrucciones, una nota explicativa en que se informe que el saldo de la deuda reprogramada que se indica en él, se irá incrementando mensualmente por la parte de cada dividendo pagado que, en virtud de la reprogramación a que esté acogido el crédito, se prorrogue para ser pagado, más los correspondientes intereses, una vez extinguido el préstamo original.
 
 CAPITULO 8-19 (Bancos y Financieras)
 
@@ -12162,17 +12182,11 @@ II.- PRESTAMOS EN LETRAS DE CREDITO.
 
 1.- Mutuos hipotecarios.
 
-De acuerdo con las disposiciones establecidas en el Reglamento Financiero del
-
-Banco Central de Chile, las instituciones financieras deberán incorporar
-
-obligatoriamente en los contratos de compraventa y mutuo hipotecario
-
-correspondientes a préstamos para vivienda, las cláusulas indicadas en los
-
-anexos N°s. 1 y 2, adjuntos al presente capítulo, según se trate de operaciones
+De acuerdo con las disposiciones establecidas en el Reglamento Financiero del Banco Central de Chile, las instituciones financieras deberán incorporar obligatoriamente en los contratos de compraventa y mutuo hipotecario correspondientes a préstamos para vivienda, las cláusulas indicadas en los anexos N°s. 1 y 2, adjuntos al presente capítulo, según se trate de operaciones
 
 con tasa de interés fija o flotante, respectivamente.
+
+Conforme a lo establecido en el artículo 5° de la Ley N° 19.439, las instituciones financieras podrán seguir un procedimiento simplificado de escrituración de los mutuos, mediante el uso de escrituras públicas de cláusulas generales inscritas en el Registro de Hipotecas y Gravámenes del respectivo Conservador de Bienes Raíces. Las escrituras que se inscriban para el efecto deberán contener solamente aquellas cláusulas que son comunes a todos los mutuos de que se trate, es decir, no contendrán aquellas referidas a la individualización de los deudores, garantías, tasas de interés, plazos u otras especificaciones que son propias de un contrato en particular. Las escrituras públicas de cláusulas generales de que se trata, constituirán un contrato de adhesión, debiendo darse a conocer su contenido a la parte que lo acepte y dejarse constancia en cada mutuo de la fecha y notaría en que la respectiva escritura fue otorgada, de su inscripción y de la entrega de una copia simple al mutuario.
 
 2.- Condiciones generales de los prestamos.
 
