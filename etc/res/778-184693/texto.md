@@ -1,0 +1,3 @@
+Por resolución Nº778, de 20 de abril de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº97110504, presentada por PABLO ENRIQUE AGUILERA MARIN, para instalar y operar el centro de cultivo ubicado en canal Carrera Allao, Isla Level, Comuna de Cisnes, Provincia de Aysén, XI Región.
+
+Valparaíso, 20 de abril de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
