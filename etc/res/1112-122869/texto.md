@@ -1,0 +1,3 @@
+Por resolución Nº 1.112, de 4 de agosto de 1998, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 168, de 1997, de esta Subsecretaría, que autorizó a ALIMENTOS MARINOS S.A., para operar la nave ''Santa Irene'', en lo relativo a las especies Jurel, Agujilla, Bonito, Caballa, Cabinza, Cojinoba del norte, Machuelo, Merluza de cola y Sardina común, en el litoral de la III y IV Regiones.
+
+Valparaíso, 4 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
