@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS A "BICE VIDA COMPAÑIA DE SEGUROS S.A."
+
+Certifico: Que por resolución exenta Nº128 de fecha 10 de marzo de 2005, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de Bice Vida Compañía de Seguros S.A., acordada en junta extraordinaria de accionistas celebrada el 15 de noviembre de 2004, reducida a escritura pública el 22 de noviembre de 2004, y complementada por escritura pública de 23 de febrero de 2005, según requerimiento efectuado por oficio 1.640, de 2005, ambas otorgadas en la Notaría de Santiago de don René Benavente Cash, domiciliado en Huérfanos 979, piso 7º, Santiago.
+
+La reforma consiste en aumentar el capital social de $46.546.594.381 pesos dividido en 7.830 acciones de igual valor y sin valor nominal, que se compone de: a) 6.404 acciones correspondientes a $38.097.919.206 pesos suscritas y pagadas, y b) 1.426 acciones correspondientes a $8.448.675.175 pesos, a suscribir y pagar dentro de tres años desde el 19 de enero de 2004, a $142.460.791.653 pesos, dividido en 23.691 acciones. El aumento de capital de $95.914.197.272 pesos dividido en 15.861 acciones, se pagará dentro de tres años desde el 15 de noviembre de 2004. Se modifican artículos cuarto y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 10 de marzo de 2005.- Carmen Undurraga Martínez, Secretario General.
