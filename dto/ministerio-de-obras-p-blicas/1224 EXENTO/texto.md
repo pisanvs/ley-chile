@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.224, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº50, superficie 117,03 m2., rol de avalúo 1252-102, comuna de Parral VII Región, para la obra "Camino Ruta L-70, Sector Cruce Ruta 128-Cuatro Esquinas, Km. 0,000 al 15,800" y se acordó el valor de indemnización con su propietario don Ovido José Morales Fuentes y otro, ascendente a la cantidad de $496.792.-
+
+Fiscal del Ministerio de Obras Públicas.
