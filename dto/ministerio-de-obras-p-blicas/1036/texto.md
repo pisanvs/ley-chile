@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 1.036, de 29 de noviembre de 1996, se expropiaron los lotes de terrenos Nºs. 64, 65 y 66, superficies 761,60, 489,40 y 897,55 m2, roles de avalúos 4020-20, 3400-4 y 3400-5, Comuna de La Florida y Puente Alto, para la obra Mejoramiento Eje La Florida, sector Los Ararios - Las Vizcachas, sector II, se acordó precio de la indemnización con sus propietarios Edgardo Baeza Ahumada y Nancy Audalía Romo Guajardo y otro, ascendente a las cantidades de $105.827.271, para los lotes 64 y 65 y $84.211.160, para el lote Nº 66.-
+
+Fiscal del Ministerio de Obras Públicas.
