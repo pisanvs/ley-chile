@@ -1,0 +1,3 @@
+Por resolución No. 129, de 16 de Agosto de 1991, modificada por la resolución No. 144 de 12.09.91, se canceló la personalidad jurídica de la "Cámara Regional de Turismo de la Tercera Región de Atacama, Asociación Gremial", inscrita bajo el No. 13-3, por haberse configurado la causal contemplada en el inciso 3° del artículo 5° del decreto ley No. 2.757, de 1979.
+
+- Jorge Marshall Rivera, Subsecretario de Economía, Fomento y Reconstrucción.
