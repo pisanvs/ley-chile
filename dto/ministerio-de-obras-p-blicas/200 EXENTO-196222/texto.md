@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 200 de fecha 28 de febrero del 2002, se expropió el lote de terreno Nº 7, superficie 250 m2, rol de avalúo Nº 1238-50, comuna de Yumbel, para la obra "Camino Ruta O-50, Sector Cabrero-Copiulemu, Km. 0,00000 a Km. 46,33803", VIII Región y se acordó el valor de indemnización con su propietario Juan Rubén Carlos Olave León, ascendente a la cantidad de $266.357.
+
+- Fiscal del Ministerio de Obras Públicas.
