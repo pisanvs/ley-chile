@@ -944,6 +944,8 @@ desaparecidas o afectadas y los daños sufridos por éstas, por la nave o por ot
 
 El Fiscal que designe la Autoridad Marítima para instruir una Investigación Sumaria deberá ser un Oficial de la Armada en servicio activo.
 
+Asimismo, cuando el accidente o siniestro a investigar requiera de conocimientos o preparación especial, se podrá designar en calidad de Fiscal o Secretario a un empleado civil, profesional o técnico, afecto al Estatuto del Personal de las Fuerzas Armadas.
+
 #### Artículo 158
 
 La instrucción de las Investigaciones Sumarias a que se refiere el artículo anterior se sujetará a las normas siguientes:
