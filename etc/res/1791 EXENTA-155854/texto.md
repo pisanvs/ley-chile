@@ -1,0 +1,27 @@
+LLAMA A INSCRIPCION PARA LA OCTAVA OPORTUNIDAD DE POSTULACION AL SUBSIDIO HABITACIONAL DEL SISTEMA DE AHORRO Y FINANCIAMIENTO DE LA VIVIENDA Y A INSCRIPCION PARA LOS CUPOS DISPONIBLES QUE RESTAREN UNA VEZ EFECTUADA LA SELECCION CORRESPONDIENTE A LA OCTAVA OPORTUNIDAD DE POSTULACION, Y FIJA NUMERO DE SUBSIDIOS A OTORGAR Y SU DISTRIBUCION REGIONAL
+
+Santiago, 11 de Junio de 1986.- Hoy se resolvió lo que sigue:
+
+Núm. 1.791 exenta.- Visto: El DS N° 74 (V. y U.), de 1984, que regula el otorgamiento de Subsidio Habitacional para el Sistema de Ahorro y Financimiento de la Vivienda, y sus modificaciones, y en especial lo dispuesto en su artículo 6° transitorio agregado por DS N° 228 (V. y U.), de 1985, publicado en el Diario Oficial del 31 de diciembre de 1985, modificado por el DS N° 104 (V. y U.), de 1986, publicado en el Diario Oficial del 11 de junio de 1986, dicto la siguiente,
+
+Resolución:
+
+1°.- Llámase a inscripción para la octava oportunidad de postulación al Subsidio Habitacional del Sistema de Ahorro y Financiamiento de la Vivienda, de conformidad a las disposiciones del DS N° 74 (V. y U.), de 1984 y sus modificaciones, y en especial, a las de sus artículos transitorios.
+
+2°.- Llámase asimismo a inscripción para postular a los cupos disponibles que restaren una vez efectuada la selección correspondiente a la octava oportunidad de postulación, conforme a lo dispuesto en el artículo 6° transitorio del DS N° 74 (V. y U.), de 1984, agregado por DS N° 228 (V. y U.), de 1985, y modificado por el número 2 del artículo único del DS N° 104 (V. y U.), de 1986.
+
+3°.- Fíjase en la cantidad de 4.000 (cuatro mil) el número de Certificados de Subsidio Habitacional que se otorgarán en los llamados a inscripción dispuestos en los números 1° y 2° de la presente resolución, incluyendo en esta cifra los Certificados que se extiendan por el equivalente a cero Unidades de Fomento de subsidio directo. La selección de postulantes inscritos en las condiciones a que se refiere el artículo 6° transitorio del DS N° 74 (V. y U.), de 1984, sólo se efectuará si restaren cupos disponibles una vez efectuada la selección entre los postulantes que cumplan con los requisitos señalados en el artículo lo transitorio del DS N° 74 (V. y U.), de 1984.
+
+4º.- La selección para la asignación de los 4.000 Subsidios Habitacionales a que se refiere el número anterior se efectuará de la siguiente forma:
+
+a) Primeramente se efectuará la selección entre los postulantes que cumplan con los requisitos señalados en el artículo 1° transitorio del DS N° 74 (V. y U.), de 1984, incluyendo aquellos postulantes que acrediten disponibilidad de sitio propio conforme al artículo 3° transitorio del mismo texto reglamentario. Dicha selección se efectuará por regiones, y la distribución regional por tipos o tramos de crédito solicitado se efectuará en forma directamente proporcional a la cantidad de postulantes en cada uno de ellos, conforme lo dispone el inciso primero del artículo 7° del DS N° 74 (V. y U.), de 1984. En este caso no regirá la norma del artículo 4° transitorio del citado reglamento, en conformidad a lo dispuesto en el número 1 del artículo único del DS N° 104 (V. y U. ), de 1986.
+
+b) Una vez efectuada la selección a que se refiere la letra anterior, si aún restaren cupos disponibles se efectuará una selección entre los postulantes que sin haber cumplido el requisito de permanencia o antigüedad mínima de la cuenta de ahorro, o de aporte de capital en su caso, que se indica en la tabla inserta en el artículo lo transitorio en DS N° 74 (V. y U.), de 1984, hubieren enterado el total del ahorro mínimo pactado. Esta selección se efectuará por regiones, y la distribución regional por tipos o tramos de crédito solicitado se efectuará en forma directamente proporcional a la cantidad de postulantes en cada uno de ellos, conforme lo dispone el inciso primero del artículo 7° del DS N° 74 (V. y U.), de 1984, aplicándose lo dispuesto en el artículo 6° transitorio del mismo texto reglamentario, de tal forma que la cantidad de postulantes seleccionados en este proceso alcanzará al 80% del total de los inscritos en estas condiciones, con un tope máximo igual al saldo de los cupos disponibles para este llamado.
+
+5°.- Durante el período que se extenderá desde el 16 de junio de 1986 y hasta el 18 de julio de 1986, ambas fechas inclusive, los SERVIU entregarán los formularios y demás antecedentes necesarios a los interesados para los llamados a postulación que dispone la presente resolución, y les proporcionarán toda la información que éstos requieran sobre la materia.
+
+En virtud de lo dispuesto en el artículo 21 del DS N° 74 (V. y U.), de 1984, establécese que sólo durante este período podrá acreditarse ante el SERVIU respectivo la disponibilidad de sitio en las condiciones y para los efectos previstos en el artículo 3° transitorio del DS N° 74 (V. y U.), de 1984.
+
+6°.- Los SERVIU mantendrán abiertas las inscripciones para postular a los llamados al Subsidio Habitacional dispuestos en la presente resolución, entre el 07 de julio de 1986 y el 18 de julio de 1986, ambas fechas inclusive, período durante el cual procederán a la recepción de las solicitudes de postulación y documentos que deben acompañarla.
+
+Anótese, publíquese en el Diario Oficial y archívese.- Miguel A. Poduje Sapiaín, Ministro de Vivienda y Urbanismo. Lo que transcribo a US. para su conocimiento.- Dios guarde a US.- Luis Salas Romo, Subsecretario de Vivienda y Urbanismo.
