@@ -1,0 +1,5 @@
+Por decreto MOP Nº 937, de 18 de octubre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 1, para la ejecución de la obra "Mejoramiento Camino Lonquimay - Troyo por Paso Paz, Sector Cuesta El Hierro, tramo Km.
+
+7,800 al Km. 8,300", que figura a nombre de Chandía Bastidas Yolanda Carme, Rol de Avalúo 55-27, comuna de Lonquimay, IX Región, superficie: 15.241 M2. La Comisión de peritos con fecha 29 de junio de 2004, fijó el monto de la indemnización provisional en la cantidad de $3.548.200, para el lote Nº 1. La indemnización se pagará al contado.- La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
