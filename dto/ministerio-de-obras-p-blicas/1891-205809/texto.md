@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.891 de fecha 29 de octubre de 2002, se expropió el lote de terreno Nº 15-A, superficie 6.432 m², rol de avalúo Nº 157-18, comuna de Pemuco, para la obra: "Area de Riego Pemuco Canal El Oyente Alternativa Dos Foja Adicional Km. 0,135 al Km. 8,062, del Proyecto Laja Diguillín", VIII Región y se acordó el valor de indemnización con su propietario Alonso Neftalí Soto Figueroa y Otros, ascendente a la cantidad de $3.361.299.-
+
+Fiscal del Ministerio de Obras Públicas.
