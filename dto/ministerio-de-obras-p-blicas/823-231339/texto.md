@@ -1,0 +1,3 @@
+Por decreto MOP Nº 823 de 16 de septiembre de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 10, para la obra: Camino Estancia Vicuña - Yendegaia, sector Km. 45,00000 al Km. 51,96160, 7ª etapa, Tierra del Fuego, que figura a nombre de Forestal Savia Limitada, rol de avalúo 671-37, Comuna de Timaukel, XII Región, superficie 305.877 m2. La Comisión de Peritos, fijó con fecha 30 de enero de 2004, en la cantidad de $3.058.770. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
