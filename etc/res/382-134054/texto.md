@@ -1,0 +1,11 @@
+Por resolución Nº 382, de 11 de marzo de 1999, de esta Subsecretaría, modifícase la resolución Nº 1.643 de 1998, de esta Subsecretaría, que autorizó a la SOCIEDAD GUIDOMAR LIMITADA, para iniciar actividades pesqueras de transformación, en el sentido de reemplazar el numeral 2 por el siguiente: ''La peticionaria podrá instalar y operar una planta ubicada en calle Libertad Nº 19, comuna de Coquimbo, IV Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco: Blanquillo, Cojinoba del norte, Congrio colorado, Congrio dorado, Congrio negro, Jurel, Merluza común, Palometa, Camarón nailon, Gamba, Chorito, Loco, Ostión del norte, Langostino colorado. Refrigerado: Blanquillo, Congrio colorado, Congrio dorado, Congrio negro, Jurel, Merluza común, Camarón nailon, Chorito, Loco, Ostión del norte, Langostino colorado. Congelado: Anguila, Bacalao de profundidad o mero, Blanquillo, Caballa, Cojinoba del norte, Lenguado ojos chicos, Palometa, Caracol locate, Lapa, Macha, Pulpo, Jibia, Chorito, Ostión del norte, Cholga, Loco, Gamba, Langostino colorado, Camarón nailon, Jaiba, Langostino amarillo. Conserva: Caballa, Jurel, Sardina, Lapa, Macha, Camarón nailon, Langostino amarillo, Chorito, Ostión del norte, Loco, Langostino colorado.
+
+La materia prima deberá provenir de pescadores artesanales e industriales debidamente autorizados.
+
+El recurso Ostión del norte deberá provenir de centros de cultivo autorizados.
+
+El recurso Langostino colorado deberá provenir de agentes autorizados por permiso extraordinario de la Subsecretaría de Pesca.
+
+El recurso Langostino amarillo deberá provenir de zonas no afectas a restricción, mediante guías de libre tránsito otorgadas por el Servicio Nacional de Pesca.'' Transcríbase copia de esta resolución a la Subsecretaría de Economía del Ministerio de Economía, Fomento y Reconstrucción y al Servicio Nacional de Pesca.
+
+Valparaíso, 11 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
