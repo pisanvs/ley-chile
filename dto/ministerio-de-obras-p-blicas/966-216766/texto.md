@@ -1,0 +1,3 @@
+Por decreto MOP Nº966, de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº216, superficie 557 m², rol de Avalúo en trámite, comuna de Palmilla, para la obra "Camino Colchagua-Pichidegua, sector San Roberto-Cruceros, tramo Km. 12,30000 a Km. 26,00400", VI Región y se acedó el valor de la indemnización con su propietario Miguel Angel Ahumada Hidalgo y Otros, ascendente a la cantidad de $4.235.352.
+
+Fiscal del Ministerio de Obras Públicas.
