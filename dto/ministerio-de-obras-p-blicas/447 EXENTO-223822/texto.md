@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 447 de 26 de marzo de 2004, se expropió el lote de terreno Nº 7-B, superficie 1.331,00 m², rol de avalúo Nº 169-9, comuna de Curarrehue, para la obra "Camino Mamull Malal, Tramo Puente Correntoso Km. 130,988 al Km. 134,620", IX Región y se acordó el valor de indemnización con su propietario Baldemar Novoa Guillibrand, ascendente a la cantidad de $1.729.699.
+
+Fiscal del Ministerio de Obras Públicas.
