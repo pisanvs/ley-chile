@@ -1,0 +1,3 @@
+Núm. 6.- Certifico que Carnes Ensenada Ltda. Rut. Nº 77.013.740-3 cumple los requisitos establecidos en la resolución Nº 2705 de 07.05.98 según consta en Informe Nº 216 emitido por el Departamento de Fiscalización el 18.06.98 y que en consecuencia tiene la calidad de agente retenedor del Impuesto al Valor Agregado por las ventas de carnes que efectúe, a contar de la fecha de publicación de este certificado en el Diario Oficial.
+
+Valparaíso, 24 de Junio de 1998.- Francisco Cárcamo Avendaño, Director Regional.
