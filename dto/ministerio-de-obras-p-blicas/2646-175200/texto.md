@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.646, de 30 de junio de 2000, se expropiaron los lotes de terreno Nºs. 3, 4 y 7, superficies 1.260, m², 179 m² y 856 m², rol de avalúo 1332-33, comuna de San Carlos, para la obra Concesión Internacional Ruta 5. Tramo Talca - Chillán, Octava Región, y se acordó el valor de indemnización con su propietario Carlos José Huber Schulz, ascendente a la cantidad total de $2.729.089.
+
+Fiscal del Ministerio de Obras Públicas.
