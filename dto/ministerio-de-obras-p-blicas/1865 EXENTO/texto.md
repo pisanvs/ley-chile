@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.865, de 30 de noviembre de 2001, se expropiaron los lotes de terreno Nos 29, 29-1 y 30, superficies 369, 38 y 317 m², rol de avalúo 374-81, comuna de El Quisco, para la obra Red Litoral Central Sector 1: Nuevo Camino Costero Acceso a Punta de Tralca Kms.0.000,00 al 5.622,00, Quinta Región y se acordó el valor de indemnización con su propietaria Raquel Nestalba Salinas Bascur, ascendente a la cantidad de $2.708.018.- para los lotes Nos 29, 29-1 y 30.
+
+- Fiscal del Ministerio de Obras Públicas.
