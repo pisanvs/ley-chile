@@ -1,0 +1,3 @@
+Por resolución exenta No. 493, de 4 de Julio de 1985, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se renueva la concesión otorgada al señor Walter Roth Minte (Andina del Sud), por resoluciones No.s. 1398/75 y 579/83, ambas del Ministerio de Transportes y Telecomunicaciones, para efectuar servicio regular de transporte internacional terrestre de pasajeros entre Peulla (Chile) y Lago Frías (Argentina) por Paso Vicente Pérez Rosales, efectuando cinco frecuencias semanales.
+
+Santiago, Julio 9 de 1985.- Enrique Yávar Martin, Coronel de Ejército, Subsecretario de Transportes.
