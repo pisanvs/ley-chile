@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP. Nº699 de fecha 30 de abril de 2002, se expropió el lote de terreno Nº39, superficie 131,82 M2, Rol Nº1252-80, comuna de Parral, para la obra ''Camino Ruta L-70-, Sector Cruce Ruta 128-Cuatro Esquinas, Tramo Km. 0,000 a Km. 15,800 y se acordó el valor de indemnización con su propietario Edelmira del Carmen Vásquez Veloso, ascendente a la cantidad de $393.537.-
+
+Fiscal del Ministerio de Obras Públicas.
