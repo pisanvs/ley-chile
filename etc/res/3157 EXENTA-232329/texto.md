@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.157, de 2 de noviembre de 2004, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 3.555 de 2003, modificada mediante resoluciones Nº 1.494, Nº 1.750 y Nº 2.983, todas de 2004, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Pesca de Investigación de Merluza del sur en la Región de Magallanes-Fase III, 2004", en el sentido de señalar que las actividades de investigación correspondientes al mes de noviembre se realizarán entre el 15 y el 30 de dicho mes, ambas fechas inclusive.
+
+Déjase sin efecto la resolución Nº 2.983 de 2004, de esta Subsecretaría de Pesca, en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 2 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
