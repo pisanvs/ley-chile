@@ -1,0 +1,5 @@
+Por decreto MOP Nº241, de 28 de marzo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº103-H para la obra:
+
+"Sistema Norte-Sur. Tramo F: Carlos Valdovinos - Río Mapocho. Sector: Km. 2.900,00 al Km. 3.240,00", Región Metropolitana, que figura a nombre de Cárdenas Ramírez María y otras, rol de avalúo 1613-13, comuna de Quinta Normal, superficie 58 m2. La comisión de peritos integrada por los señores Mufida Viola Abuawad Elias, Ricardo Antonio Strickler Arellano y Roberto Carlos Muñoz Ordenes, fijó con fecha 3 de marzo de 2003, el valor provisional de la indemnización en la cantidad de $5.490.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
