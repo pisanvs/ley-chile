@@ -1,0 +1,41 @@
+DISUELVE EL TRIBUNAL CONSTITUCIONAL
+
+Decreto ley N.o 119.-
+
+Santiago, 5 de Noviembre de 1973.- Vistos:
+
+a) Lo dispuesto en el decreto ley N.o 1, de fecha 11 de Septiembre de 1973;
+
+b) La disolución del Congreso Nacional dispuesta por el decreto ley N° 27, de fecha 21 de Septiembre en curso;
+
+c) Que el Tribunal Constitucional contemplado en el artículo 78, letras a), b) y c) de la Constitución Política del Estado tiene por función primordial resolver conflictos entre el Poder Ejecutivo y el Poder Legislativo, que no pueden presentarse por estar disuelto el Congreso Nacional, y
+
+d) Que todo lo anterior demuestra que la existencia del mencionado Tribunal Constitucional es innecesaria, la Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1
+
+o- Disuélvese el Tribunal Constitucional, cesando en sus funciones sus actuales miembros, a contar de esta fecha.
+
+#### Artículo 2
+
+o- Los empleados administrativos que pertenecían al Tribunal Constitucional, a excepción de los funcionarios pertenecientes al Poder Judicial, quedarán bajo la autoridad del Subsecretario del Interior, en calidad de interinos, quien podrá destinarlos o comisionarlos a prestar servicios a las reparticiones del Estado que determine.
+
+#### Artículo 3
+
+o- El Gobierno dispondrá de los bienes muebles e inmuebles del Tribunal Constitucional y demás bienes destinados a su funcionamiento, para otros órganos y Servicios del Estado.
+
+#### Artículo 4
+
+o- Modifícase en la letra c), inciso 1.o de la disposición 17a. transitoria de la Constitución Política del Estado, lo siguiente: Sustitúyese la frase "un Ministro de la Corte Suprema, designado por ésta, que lo presidirá," por "dos Ministros de la Corte Suprema, designados por ésta, de los cuales el más antiguo como Ministro lo presidirá; sustitúyese la frase "por un Ministro de la Corte de Apelaciones de Santiago, designado por ésta", por la siguiente: "por un Ministro de la Corte de Apelaciones de Santiago, designado por la Corte Suprema"; elimínase la frase "por un Ministro del Tribunal Constitucional designado por éste,"; sustitúyese la oración "Los Ministros de la Corte Suprema, de la Corte de Apelaciones de Santiago y del Tribunal Constitucional serán subrogados por las personas que la Corte respectiva y el tribunal, en su caso, designen de entre sus miembros", por la siguiente:
+
+"Los Ministros de la Corte Suprema y de la Corte de Apelaciones de Santiago, serán subrogados por las personas que la Corte Suprema designe de entre los miembros de las respectivas Cortes."
+
+#### Artículo 5
+
+o- Sustitúyese en la letra i), inciso segundo, de la disposición 17a. transitoria de la Constitución Política del Estado las palabras "el Tribunal Constitucional previsto en el artículo 78 a) de esta Constitución", por las siguientes: "la Corte Suprema".
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros, Investigaciones y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Gonzalo Prieto Gándara, Ministro de Justicia.- Oscar Bonilla Bradanovic, General de División, Ministro del Interior.
+
+Lo que transcribo para su conocimiento.- Max Silva del Campo, Subsecretario de Justicia.
