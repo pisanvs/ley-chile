@@ -1,0 +1,3 @@
+Por resolución Nº 2.862, de 14 de octubre de 2004, de esta Subsecretaría, declárase que con fecha 3 de junio de 2004 han quedado sin efecto las resoluciones Nº 2.986 de 2003 y Nº 812 de 2004, ambas de esta Subsecretaría, que autorizaron a PESQUERA ITATA S.A. para desarrollar actividad extractiva con la nave "Caupolicán", en virtud de lo dispuesto en el artículo 9º de la ley Nº 19.713. Dicha nave queda permanente e irrevocablemente excluida de la actividad pesquera extractiva, a menos que sustituya a otra u otras naves.
+
+Valparaíso, 14 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
