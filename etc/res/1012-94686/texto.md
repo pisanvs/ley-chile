@@ -1,0 +1,9 @@
+AUTORIZA A PESQUERA MULTIEXPORT S.A. PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA
+
+Por resolución No. 1.012, de 09 de Agosto de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Multiexport S.A., R.U.T. No. 96.529.530-5, domiciliada en Santiago, para iniciar actividades pesqueras, en orden a operar la embarcación "Portugal II", en el litoral de las Regiones que a continuación se indica, donde podrá extraer los siguientes recursos hidrobiológicos: a) Entre la VI y X Región, con trampa: Jaiba, anguila y jaiba mora. b) Entre la VI Región al paralelo 43° LS excluidas las aguas interiores de la X Región: Lenguado de ojos chicos, lenguado de ojos grandes, camarón de roca, gamba, cachurreta, sierra, cojinoba del Sur, congrio colorado, congrio dorado, congrio negro, corvina, dorado, merluza común, merluza del sur, merluza de cola, pejegallo, pejezorro, raya, róbalo, tollo; vidriola, atún, marrajo o tiburón, brótula, cabrilla española y cabrilla común.
+
+Deniégase la autorización para extraer con la nave "Portugal II" el recurso bacalao de profundidad o mero, de conformidad con lo prescrito en el Decreto No. 439, de 1985, del Ministerio de Economía, Fomento y Reconstrucción. Deniégase la autorización solicitada por la peticionaria para operar en el litoral comprendido entre la I y V Región. Asimismo, se deniega autorización para extraer peces demersales en el mar exterior al sur del paralelo 43° LS y en aguas interiores de la X, XI y XII Región atendiendo el estado de plena explotación en que se encuentra la pesquería demersal sur austral.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 09 de Agosto de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
