@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.812, de 6 de agosto de 2003, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 1.706 de 2003, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Determinación de la Distribución Espacial de Jurel entre la V y X Regiones, Invierno 2003", en el sentido de señalar que el área de estudio se extenderá hasta las 450 millas náuticas de la costa.
+
+Valparaíso, 6 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
