@@ -1,0 +1,3 @@
+Por Resolución N° 1.335, de 18 de julio de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la Resolución N° 480 de 1983, de esta Subsecretaría, en cuanto autorizó a PESQUERA IQUIQUE S.A., hoy Pesquera Iquique-Guanaye S.A., domiciliada en Santiago, Estado N° 337, Tercer piso, para operar las naves Vinga y Timor, en la captura de los recursos demersales Congrio y Merluza común, así como el uso del arte de pesca red de arrastre, en virtud de lo señalado en el Artículo 143 letra b), del D.S. N° 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 18 de julio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
