@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.271, de 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs. 154, 155, 156, 157 y 159, superficies 1.510 m2., 1.994 m2., 1.879 m2., 2.200 m2,. y 844 m2., rol de avalúo 219-9, comuna de Canela, para la obra Concesión Internacional Ruta 5, Tramo Los Vilos - La Serena, Sector A, Bifurcación Illapel - Hornillos, Cuarta Región y se acordó el valor de indemnización con su propietaria Agrícola Huentelauquén Limitada, ascendente a la cantidad total de $1.485.188.
+
+Fiscal del Ministerio de Obras Públicas.
