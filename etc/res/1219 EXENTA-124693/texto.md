@@ -1,0 +1,3 @@
+Por resolución exenta No. 1.219 de 16 de septiembre de 1988, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autoriza a la Sociedad González y Compañía Limitada (Transporte Aconcagua Santiago T.A.S. Choapa Limitada o T.A.S. Choapa Limitada), para efectuar servicio internacional de transporte terrestre de pasajeros entre Puerto Montt-Osorno (Chile) y San Carlos de Bariloche (Argentina), por el Paso de Portezuelo de Puyehue, el que se atenderá con dos (2) frecuencias semanales.-
+
+Manuel Gárate Meneses, Coronel, Subsecretario de Transportes.
