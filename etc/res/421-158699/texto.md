@@ -1,0 +1,5 @@
+AUTORIZA A COMERCIAL GARDEWEG, ORTUZAR Y PALMA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 421, de 15 de Mayo de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Comercial Gardeweg, Ortúzar y Palma Limitada, "Comercial Gop Limitada", domiciliada en Santiago para instalar y operar una planta elaboradora de recursos hidrobiológicos, en las líneas de congelado, deshidratado y conserva, en Chulehui, Isla Lemuy, Comuna de Puqueldón, Chiloé, X Región, en la que podrá utilizar como materia prima: congrio, jurel, corvina, cojinova, mero o bacalao. róbalo, lenguado, sierra, lisa, pejegallo, sardina, pejerrey de mar, albacora, calamar, pulpo, raya, jibia, merluza, bonito, atún, tollo, almejas, choritos, cholgas, caracul, navajuela, ostras, ostión, macha, jaiva, loco y erizo. La interesada deberá efectuar el transporte de las especies citadas desde su centro de abastecimiento hasta la planta elaboradora en medios dotados de sistemas adecuados de preservación de la materia prima.
+
+Valparaíso, 15 de Mayo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
