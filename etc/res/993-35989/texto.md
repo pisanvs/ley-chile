@@ -1,0 +1,3 @@
+Por Resolución N° 993, de 9 de agosto de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 1.003, de 1990, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA PUYUHUAPI LIMITADA, R.U.T. N° 79.757.170-9, para realizar actividades pesqueras extractivas con la nave "Trapananda", en virtud de lo dispuesto en el artículo 143 letra b) del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 9 de agosto de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
