@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 1123, de 27 de agosto de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 28-C, 29-A, 30-C, 31-A, 34-B y 35-A, para la obra Camino M-24-K Quivolgo-Puente Lautaro, sector B: La Trinchera-Putu (Variante Costera), Tramo: Km. 13,240 al Km. 30,000, que figuran a nombre de Forestal Celco S.A.; Concha Mino Rosa a Suc. y Peredo Vd. Núñez Juana Suc., roles de avalúos 353-29; 347-42; 350-40 y en trámite, comuna de Constitución, VII Región, superficies 1.701; 715; 190; 456; 492 y 686 M2., respectivamente. La Comisión de Peritos, fijó con fecha 5 de febrero de 2000, en las cantidades de $1.198.229, para el lote Nº 28-C; $143.000, para el lote Nº 29-A;
+
+$1.276.000, para el lote Nº 30-C; $360.192, para el lote Nº 31-A; $384.720, para el lote Nº 34-B y $499.134, para el lote Nº 35-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
