@@ -1,0 +1,1 @@
+Condona el pago de las contribuciones fiscales; sus intereses, multas y costas, adeudadas por el Club de la Fuerza Aérea de Chile, respecto de su propiedad, que indica, ubicada en Santiago.
