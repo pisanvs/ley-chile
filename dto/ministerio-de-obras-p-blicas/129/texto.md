@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 129, de 29 de abril de 1993, se expropiaron los lotes de terreno N°s. 13, 15, 16, 17, 53, 54 y 55, superficies 2.225 M2., 2.840 M2., 4.100 M2., 4.290 M2., 290 M2., 100 M2. y 570 M2., roles de avalúo 144-34, 149-5 y 35-21, Comunas de Nancagua y Chépica, obra Camino Nancagua-Puquillay-Chépica y se acordó el valor de indemnización con sus propietarios Herminia Palma Barra, Juan de Dios Rivera Aguero y otros y Carol Urzúa Urzúa, ascendente a las cantidades de $ 1.305.037, $ 7.354.151 y $ 4.848.285.-
+
+Fiscal del Ministerio de Obras Públicas.
