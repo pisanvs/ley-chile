@@ -1,0 +1,5 @@
+Por decreto MOP Nº913, de 22 de abril de 1999, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs. 1, 2, 3 y 4, para la obra Habilitación de varios Sondajes de Agua Potable de Maullín, Pozos Nºs. 2037, 2038, 2039 y 2040, que figuran a nombre de Jaime Montealegre Randolph y otro, rol de avalúo 557-24, Comuna de Maullín, X Región, superficies 177, 108, 16 y 16 M2., respectivamente. La Comisión de Peritos compuesta por los señores Carlos Mera Santibáñez, Nelson Fabián Igor Flores y Christian Rauch Yáñez, tasó con fecha 12 de marzo de 1999, el valor provisional de las indemnizaciones en las cantidades de $141.600, lote Nº1;
+
+$86.400, lote Nº2; $12.800, lote Nº3 y $12.800, lote Nº4. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
