@@ -1,0 +1,3 @@
+Por Resolución Nº 511, de 14 de abril de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº 45, de 1997, que caducó la Resolución Nº 36 de 1991, ambas de esta Subsecretaría, a PESQUERA OCEANICA LIMITADA, en virtud de haberse acreditado por la peticionaria la operación de la nave "Don Nelson", en la forma exigida por la Ley Nº 18.892.
+
+Valparaíso, 14 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
