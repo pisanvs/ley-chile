@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.172, de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 3, superficie 294,80 m², rol de avalúo Nº 298-61, comuna de Vilcún, para la obra "Mejoramiento Trazado, Camino Cajón - Refugio Llaima, tramo Km. 14,59370 a Km. 14,95370", IX Región, y se acordó el valor de la indemnización con su propietaria Aída Violeta Millaleo Parra, ascendente a la cantidad de $389.662.-
+
+Fiscal del Ministerio de Obras Públicas.
