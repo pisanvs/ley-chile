@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 713, de 30 de julio de 1997, se expropiaron los lotes de terreno Nºs. 41, 44 y 67, superficie 650, 696 y 555,63 M2. respectivamente, roles de avalúo 9317-174 y 9371-7, comuna de Valparaíso, para la obra Habilitación Nuevo Camino La Pólvora Etapa I, Sector Ruta 68-Acceso Sur a Valparaíso, Camino La Pólvora Rol F-724 F-730, sector Placilla-Puertas Negras y se acordó precio de indemnización con sus propietarios Julio Valdés Steffes y otra y Felicita Leiva Elgueta, ascendente a las cantidades de $4.812.984.- y $1.649.807.-
+
+Fiscal del Ministerio de Obras Públicas.
