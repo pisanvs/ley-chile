@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.938, de 21 de julio de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Estaquilla Sector B, X Región, individualizada en el artículo 1º Nº 7, del decreto exento Nº 677 de 2003, del Ministerio de Economía, Fomento y Reconstrucción, presentada por la ASOCIACION GREMIAL DE PESCADORES ARTESANALES LAS LAJAS DE QUENUIR.
+
+Valparaíso, 21 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
