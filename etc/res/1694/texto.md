@@ -1,0 +1,3 @@
+Por Resolución Nº 1.694, de 12 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a Rene Alberto Romero Paez, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Herradura Oriente, Parcela 115, Coquimbo, IV Región, donde podrá procesar, en las líneas de elaboración que se señalan a continuación, los siguientes recursos hidrobiológicos: Harina: Anchoveta, Sardina española, Jurel y Krill. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 12 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
