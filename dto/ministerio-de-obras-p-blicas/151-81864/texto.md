@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 151, de 28 de junio de 1991, se expropió el lote No. 3, superficie 1.750 m2., rol de avalúo 113-28, Comuna La Cruz, para la obra Camino Internacional Ruta 60-CH, sector Cruce Ruta 5-Puente Lo Venecia, Acceso a La Cruz y se acordó precio de indemnización con su propietaria doña María Angélica Valenzuela Guina, ascendente a la cantidad de $ 1.780.680.-
+
+Fiscal del Ministerio de Obras Públicas.
