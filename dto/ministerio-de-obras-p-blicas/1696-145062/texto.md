@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.696, de 24 de junio de 1999, se expropió el lote de terreno Nº31-A, superficie 2.259 m², rol de avalúo 460-300, comuna de Retiro, para la obra Camino Ruta 5 Longitudinal Sur, Sector San Javier-Parral II Tramo C, Séptima Región, y se acordó el valor de indemnización con su propietario Humberto del Carmen Romero Quiroz, ascendente a la cantidad de $3.699.772.-
+
+Fiscal del Ministerio de Obras Públicas.
