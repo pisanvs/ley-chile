@@ -16612,7 +16612,7 @@ Los bancos sólo podrán tener participación en sociedades filiales cuyo giro c
 
 a) Intermediarios de valores según la forma establecida en la Ley N° 18.045, ya sea en calidad de agentes de valores o bien como corredores de bolsa;
 
-b) Administradoras de fondos mutuos en la forma establecida en el D.L. N° 1.328 de 1976. Las carteras de los fondos podrán tener acciones siempre que se cumpla con lo siguiente: i) que el nombre del fondo mutuo contenga la palabra "acciones", de manera que el público pueda identificar plenamente esta característica; y, ii) que el porcentaje máximo a invertir en acciones sea, medido como promedio para cada trimestre calendario, un 50% del total del fondo. Esta disposición deberá estar contenida en el reglamento interno de operación de cada fondo.
+b) Administradoras de fondos mutuos en la forma establecida en el D.L. N° 1.328 de 1976. Las carteras de los fondos podrán tener acciones siempre que el nombre del fondo mutuo contenga la palabra "acciones", de manera que el público pueda identificar plenamente esa característica.
 
 c) Administradoras de fondos de inversión en la forma establecida en la Ley N° 18.815 del 20 de julio de 1989.
 
@@ -16810,13 +16810,17 @@ empresa filial y la empresa matriz.
 
 ### 12. Participación de la sociedad filial en otras sociedades
 
-Conforme a lo dispuesto en la Ley General de Bancos, las sociedades filiales no podrán adquirir acciones ni tomar participación en otras sociedades, salvo que la inversión sea imprescindible para el desarrollo de su giro y siempre que no exceda en momento alguno del 5% del capital pagado de la sociedad en que se
+12.- Participación de la sociedad filial en otras sociedades.
 
-efectúe dicha inversión.
+El artículo 83, N° 11 bis, inciso segundo, de la Ley General de Bancos establece, en general, una prohibición para que las sociedades filiales de bancos puedan adquirir acciones o tomar participación en otras sociedades.
 
-Para dar cumplimiento a lo anterior, toda inversión que una empresa filial de un banco efectúe en alguna sociedad debe contar con la autorización previa de esta Superintendencia. En la solicitud que para este objeto se presente, deberá informarse de las razones por las cuales la inversión es imprescindible para el desarrollo del giro.
+La misma disposición establece una excepción para el caso de que la inversión sea imprescindible para el desarrollo de su giro y siempre que no exceda en momento alguno del 5% del capital pagado de la sociedad en que se efectúe dicha inversión.
 
-En todo caso, las sociedades que se constituyan como corredores de bolsa pueden mantener, dentro del límite antes señalado, acciones de la bolsa de valores en la cual operen. Asimismo, una sociedad filial podrá tener participación en la propiedad de otra sociedad filial del mismo banco, siempre que el porcentaje de participación sobre el capital pagado y las utilidades, no exceda el 1%.
+Para dar cumplimiento a lo anterior, toda inversión que una empresa filial de un banco efectúe en otra sociedad deberá contar con la autorización previa de esta Superintendencia. En la solicitud que se presente con este objeto, deberán informarse las razones por las cuales la inversión se estima imprescindible para el desarrollo del giro.
+
+En todo caso, las sociedades cuyo giro sea el de corredor de bolsa o de agente de valores, quedan autorizadas para invertir en las acciones que puedan adquirir para sí, hasta el límite del 5% del capital pagado de las respectivas sociedades emisoras, conforme a las normas de la Ley sobre Mercado de Valores y las instrucciones de la Superintendencia de Valores y Seguros a cuya fiscalización se encuentran sometidas. Además, los corredores de bolsa pueden adquirir, dentro ese límite, las acciones de bolsas de valores que requieran para cumplir su función.
+
+Finalmente, una sociedad filial podrá tener participación en otra sociedad filial del mismo banco, siempre que el porcentaje de participación en el capital y en las utilidades no exceda del 1%.
 
 ### 13. Instrucciones contables
 
@@ -29853,8 +29857,6 @@ Las referidas cartas de crédito pueden ser revocables o irrevocables y confirma
 Los bancos situados en Chile, a petición de sus clientes y de acuerdo con sus instrucciones, pueden emitir cartas de crédito que amparen el embarque de mercaderías desde el exterior con destino a Chile, de conformidad con las disposiciones vigentes sobre dichas operaciones. Igualmente, las empresas bancarias pueden emitir cartas de crédito por su propia cuenta, cuando se trate
 
 de importaciones de bienes para su uso.
-
-Para proceder a la apertura de una carta de crédito para importación, se debe contar con el correspondiente Informe de Importación, emitido por el Banco Central de Chile, salvo para aquellas importaciones en que las normas del Instituto Emisor dispensan la exigencia de ese documento o autorizan que el importador obtenga su emisión con posterioridad a la fecha de embarque de la respectiva mercadería.
 
 Asimismo, los bancos pueden emitir cartas de crédito que amparen el envío de mercaderías desde el extranjero a las Zonas Francas del país. Para el reembolso de estas cartas de crédito no se cuenta con acceso almercado cambiario formal, a diferencia de aquéllas que se abran para realizar importaciones al resto del país, las cuales tienen ese acceso, en la medida que cumplan con las normas fijadas para el efecto por el Banco Central de Chile.
 
