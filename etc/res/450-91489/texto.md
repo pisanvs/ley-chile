@@ -1,0 +1,3 @@
+Por Resolución No. 450, de 9 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, - parte inmueble - ubicado Santa Isabel 0314, presunto rol avalúos 917-10, comuna Providencia, aparentemente dominio de César Ausen Fernández y otros. Comisión integrada por peritos Luis Rojas Quezada, constructor civil Jorge Navarro Navarrete, arquitecto: Emilio Recabarren Solar, ingeniero civil, según informe de 21.12.88 fijó monto provisional indemnización en $ 4.588.000.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
