@@ -1,0 +1,3 @@
+Por resolución Nº1.334 de 22 de Octubre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días a contar de esta fecha, el plazo otorgado a SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES, BUZOS MARISCADORES Y RAMOS SIMILARES DE LA LOCALIDAD DE YALDAD, Comuna de Quellón, Décima Región, R.U.T. Nº71.649.500-0, domiciliado en Yaldad Rural s/n, dirección postal en Correo de Quellón, en el numeral 4º de la resolución Nº1.105, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 22 de Octubre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
