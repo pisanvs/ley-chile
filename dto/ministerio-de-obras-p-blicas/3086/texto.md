@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.086, de 20 de octubre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 1, 2, 12, 15 y 16, para la obra Camino Máfil Cayumapu, sector Máfil Cayumapu, Kms. 0.000 al 16.966,62, que figuran a nombre de Federico Pozas Valle, roles de avalúos 117-1 y 117-8, comuna de Máfil, X Región, superficies 150, 416, 49, 286 y 310 m², respectivamente. La Comisión de Peritos compuesta por los señores Hernán Arnés Valencia, Luis Narváez Espinoza y Ernesto Zumelzu Delgado, fijó con fecha 20 de junio de 1993, el valor provisional de la indemnización en la cantidad de $280.000, lote 1; $546.000, lote 2; $143.920, lote 12;
+
+$152.880, lote 15 y $154.800, lote 16. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
