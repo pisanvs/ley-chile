@@ -8388,7 +8388,7 @@ En todo caso, para operar con dicha garantía, la institución financiera deber�
 
 ### 2. Créditos que pueden caucionarse con la garantía del Fondo
 
-Podrán ser caucionados con el Fondo de Garantía para Pequeños Empresarios, los créditos que se destinen a financiar proyectos de inversión, necesidades de capital de trabajo para la constitución de sociedades o para efectuar aportes a éstas, cuando su giro sea la explotación de la misma actividad del mutuario o conexa con ésta.
+Podrán ser caucionados con el Fondo de Garantía para Pequeños Empresarios, los créditos que se destinen a financiar proyectos de inversión, necesidades de capital de trabajo para la constitución de sociedades o para efectuar aportes a éstas, cuando su giro sea la explotación de la misma actividad del mutuario o conexa con ésta. El financiamiento para la constitución o aportes en sociedades y la caución del Fondo, podrán incluir tanto el capital que invertirá el beneficiario, como los gastos en que éste debe incurrir para el efecto.
 
 Los montos y plazos de estos créditos deben limitarse a los que se establecen en el Reglamento.
 
@@ -8448,7 +8448,7 @@ Cada vez que la empresa curse un crédito al amparo de la garantía del Fondo, r
 
 9.3. Liberación de la garantía.
 
-Si la liberación parcial o total de la garantía licitada se origina por la no utilización de ella dentro del plazo de cuatro meses transcurrido desde la fecha de su licitación, se deberá revertir el valor correspondiente de las cuentas indicadas en el numeral 9.1.
+Si la liberación parcial o total de la garantía licitada se origina por la no utilización de ella dentro del plazo de seis meses transcurrido desde la fecha de su licitación, se deberá revertir el valor correspondiente de las cuentas indicadas en el numeral 9.1.
 
 En el caso de que esa liberación ocurra por la devolución del préstamo amparado por esa garantía, se revertirá el asiento efectuado en las cuentas mencionadas en el numeral 9 2, con motivo de la utilización de la garantía.
 
@@ -8472,7 +8472,11 @@ Las sumas recuperadas y abonadas a esta cuenta deberán remitirse al Fondo a lo 
 
 Los préstamos otorgados al amparo de las disposiciones del Decreto Ley N° 3472 y que cuentan con la garantía a que se refiere ese cuerpo legal, quedan sujetos a los márgenes individuales de crédito del artículo 84 N° 1 de la Ley General de Bancos para operaciones sin garantía.
 
-### 11. Inversión de los recursos del Fondo
+11.- Información de las deudas subrogadas.
+
+Para dar cumplimiento a lo dispuesto en el inciso segundo del artículo 28 del Reglamento, el Administrador del Fondo informará mensualmente las deudas correspondientes a la parte subrogada de acuerdo con las instrucciones sobre información de deudas vencidas o castigadas contenidas en el Capítulo 18-5 de la Recopilación Actualizada de Normas y con las demás instrucciones específicas que para el efecto le imparta esta Superintendencia.
+
+### 12. Inversión de los recursos del Fondo
 
 Conforme a lo establecido en el Capítulo III K 1 del Compendio de Normas Financieras del Banco Central de Chile, el Administrador del Fondo deberá invertir la totalidad de los recursos y excedentes del Fondo de Garantía para Pequeños Empresarios en los siguientes instrumentos financieros.
 
@@ -8540,6 +8544,8 @@ III.- PROCEDIMIENTO DE LICITACION Y UTILIZACION DE LA GARANTIA.
 
 El Administrador del Fondo licitará, total o parcialmente con cargo a los recursos del Fondo, la garantía que podrá otorgar a los créditos concedidos por las instituciones participantes.
 
+El Administrador del Fondo podrá excluir total o parcialmente del acceso a la garantía del Fondo, a los rubros o sectores de actividad que, a su juicio, presenten condiciones de riesgo mayores a los normales. Tales exclusiones deberán ser, en todo caso, de carácter general para el rubro o sector de la actividad afectada, debiendo dejarse constancia de ellas, y su fundamento, en el llamado a licitación.
+
 #### Artículo 8°
 
 Sólo podrán concurrir a estas licitaciones INDAP, ENAMI, CORFO, SERCOTEC y las instituciones financieras fiscalizadas por la Superintendencia de Bancos e Instituciones Financieras.
@@ -8560,13 +8566,13 @@ Las instituciones que se hubieren adjudicado la garantía, deberán comunicar al
 
 #### Artículo 12
 
-Las instituciones participantes deberán otorgar y poner a disposición del interesado los créditos garantizados por el Fondo en un plazo no superior a cuatro meses contados desde la fecha de adjudicación Transcurrido este plazo, se entenderán liberados los derechos de garantía adjudicados y no utilizados.
+Las instituciones participantes deberán otorgar y poner a disposición del interesado los créditos garantizados por el Fondo en un plazo no superior a seis meses contados desde la fecha de adjudicación Transcurrido este plazo, se entenderán liberados los derechos de garantía adjudicados y no utilizados.
 
 #### Artículo 13
 
 La garantía se libera al momento del pago del crédito.
 
-En caso que el pago del préstamo caucionado se realice antes del plazo de cuatro meses contado desde la fecha de la adjudicación de la garantía, la entidad financiera podrá utilizarla nuevamente para caucionar otro crédito que cumpla con las condiciones para ello.
+En caso que el pago del préstamo caucionado se realice antes del plazo de seis meses contado desde la fecha de la adjudicación de la garantía, la entidad financiera podrá utilizarla nuevamente para caucionar otro crédito que cumpla con las condiciones para ello.
 
 #### Artículo 14
 
@@ -8612,7 +8618,9 @@ En el título representativo del crédito otorgado con garantía del Fondo, se d
 
 #### Artículo 22
 
-En caso de mora del deudor, el Administrador del Fondo procederá a reembolsar los montos garantizados dentro de un plazo máximo de 15 días hábiles contados desde la fecha del requerimiento fundamentado de la institución participante Si a juicio del Administrador no procediera el pago de la garantía, éste deberá rechazar el requerimiento del referido pago dentro del mismo plazo de 15 días antes señalado.
+En caso de mora del deudor, la institución acreedora podrá solicitar al Administrador del Fondo el reembolso del importe caucionado dentro de los 365 días siguientes a la fecha de vencimiento del respectivo crédito, para cuyo efecto deberá demostrar que ha iniciado las correspondientes acciones de cobro.
+
+Cuando le sea requerido el pago de la garantía, el Administrador del Fondo procederá a reembolsar los montos garantizados dentro de un plazo máximo de 15 días hábiles contados desde la fecha del requerimiento fundamentado de la institución participante. Si a juicio del Administrador no procediera el pago de la garantía, éste deberá rechazar el requerimiento del referido pago dentro del mismo plazo de 15 días antes señalado.
 
 La negativa del Administrador a efectuar el pago de la garantía, habilitará a la institución participante para recurrir a la Superintendencia de Bancos e Instituciones Financieras en conformidad a lo dispuesto en el artículo 8° del Decreto Ley 3472.
 
@@ -8655,6 +8663,8 @@ VII.- FISCALIZACION.
 #### Artículo 28
 
 La Superintendencia de Bancos e Instituciones Financieras tendrá a su cargo la fiscalización del Fondo, como asimismo del cumplimiento de las disposiciones de este Reglamento.
+
+Para los fines previstos en el artículo 13 bis del D.L. N° 1.097, le corresponderá al Administrador del Fondo informar a la Superintendencia de Bancos e Instituciones Financieras los importes impagos de los créditos correspondientes a la subrogación pagada por el Fondo.
 
 CAPITULO 8-10 (Bancos y Financieras)
 
