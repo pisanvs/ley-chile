@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 673 de 27.05.87, conforme a Art. 229, 231, 239, y 234 de la Ley 16.640 y Art. 5° Transitorio Código de Aguas, revocó Resolución Exenta No. 348 de fecha 25.03.87 del mismo Servicio y determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas N°s. 1 a la 20, sitios 1 al 18 y Reserva COBA No. 1 del Proyecto de Parcelación "Las Coles", de la comuna de Chillán, formado por predios "Las Coles o Cato o La Concepción", "Venecia" y "Santa Clara". Los Derechos de Agua se extraen del río Chillán y los canales Cato y Ñuble o de La Luz.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
