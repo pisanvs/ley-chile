@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 313, 2 julio 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 1385, Rol de Avalúo Nº 762-10, comuna Concepción, superficie 23,60 m² de terreno y 5,8 m² de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-18368, de aparente dominio de Miller y Cía. Ltda., para ejecución programa de viviendas, obras de infraestructura, etc. en comuna de Concepción, conforme artículo 51 Ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Leonardo Eugenio Fasce Casanueva, arquitecto, Mario Fabricio Bellolio Bosticca, arquitecto, e Italo Zerga Arancibia, constructor civil, según informe de fecha 23 de abril 2004, fijó monto provisional indemnización en $3.974.328.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
