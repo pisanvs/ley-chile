@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.445, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº38, superficie 17 m2., rol de avalúo 3800-120, comuna de Puente Alto, para la obra ''Mejoramiento Eje La Florida, El Peñón-Las Vizcachas, Sector km. 6.980 al 10.340'' y se acordó el valor de indemnización con su propietaria doña Juana de las Mercedes Orellana Araya y Otros, ascendente a la cantidad de $925.575.
+
+- Fiscal del Ministerio de Obras Públicas.
