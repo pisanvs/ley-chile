@@ -1,0 +1,3 @@
+Por Decreto MOP N 1.015 de fecha 28 de noviembre de 1996, se expropiaron los lotes N°s. 8-D y 19-A, superficies 139,2y 6.407,50 m2 respectivamente, roles de avalúo 101-32y 109-42, Comuna de Quilicura, para la obra Proyecto Estudio de Ingeniería habilitacíon segunda Calzada Av. Américo Vespucio, sector Carretera Panamericana Norte-ruta 772, y se acordó valor de indemnización con sus propietarios Hernán Antonio Acosta Salinas e Inmobiliaria e inversiones Rapai., ascedentes a las cantidades de $8.534.426 y $386.565.140.-
+
+Fiscal del Ministerio de Obras Públicas
