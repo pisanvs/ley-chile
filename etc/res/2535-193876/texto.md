@@ -1,0 +1,3 @@
+Por resolución Nº 2.535, de 19 de diciembre 2001, de esta Subsecretaría, modifícase el numeral 4 de la resolución Nº 2.338 de 2001, de esta Subsecretaría, que autorizó al INSTITUTO DE INVESTIGACION PESQUERA OCTAVA REGION, para efectuar una pesca de investigación, en el sentido de reemplazar la nave "Santa María II" por "La Niña I".
+
+Valparaíso, 19 de diciembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
