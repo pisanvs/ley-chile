@@ -1,0 +1,3 @@
+Por resolución Nº1.024 de 29 de mayo de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº97105037 presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES CULTIVADORES Y EXPLOTADORES DE ALGAS "BAHIA PULELO", para un centro de cultivo ubicado en sector Nor Este de Punta Putique, Bahía Manao, X Región.
+
+Valparaíso, 29 de mayo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
