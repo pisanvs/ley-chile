@@ -1,0 +1,3 @@
+Por resolución N° 236, de 6 de Abril de 1993, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 463, de 1992, de esta Subsecretaría, que autorizó a MAR DE CHILE LIMITADA, R.U.T. N° 78.168.580-1, para operar una planta industrial en Prat N° 133, Barrio Barazarte, comuna de Taltal, provincia de Antofagasta, II Región, por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 6 de Abril de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
