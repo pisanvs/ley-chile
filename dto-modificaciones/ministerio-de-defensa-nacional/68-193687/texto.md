@@ -1,0 +1,437 @@
+MODIFICA DECRETO MDN (GUERRA) Nº 56, DE 12 DE OCTUBRE DE 2001, QUE DESIGNO JEFES DE FUERZA EN LAS CIRCUNSCRIPCIONES DEL TERRITORIO NACIONAL
+
+Santiago, 11 de diciembre de 2001.- Hoy se decretó lo siguiente:
+
+Núm. 68.- Visto:
+
+a) El decreto supremo MDN (Guerra) Nº56, de 12 de octubre de 2001;
+
+b) El decreto supremo MDN (Guerra) Nº61, de 2 de noviembre de 2001;
+
+c) Lo dispuesto en el artículo 111 de la ley Nº18.700 sobre Votaciones Populares y Escrutinios;
+
+d) Lo establecido en los artículos 18 y 32 Nº19, de la Constitución Política de la República de Chile;
+
+e) Lo solicitado por el Jefe del Estado Mayor de la Defensa Nacional, mediante oficios EMDN DPS (R) Nºs. 6815/9433 y 6815/9729, de fechas 22 de noviembre y 3 de diciembre de 2001, respectivamente, y
+
+Considerando:
+
+Que las instituciones han solicitado cambios en la designación de los Jefes de Fuerza, por necesidades del servicio,
+
+Que el Director del Servicio Electoral comunicó la creación de cuatro nuevas circunscripciones electorales durante el presente año,
+
+La necesidad de regularizar el nombramiento de Jefes de Fuerza dispuesto por decreto supremo citado en Visto a),
+
+D e c r e t o:
+
+1.- Modifícase el punto Nº1 del decreto supremo MDN (Guerra) Nº56, de 12 de octubre de 2001, modificado por el decreto supremo MDN (Guerra) Nº61, de 2 de noviembre de 2001, que designó Jefes de Fuerza en las circunscripciones del territorio nacional, en el sentido que los Jefes, Titular y/o Reemplazante, en las comunas y circunscripciones del país que en cada caso se señala, son los Oficiales de las Fuerzas Armadas y Carabineros que a continuación se indican:
+
+II REGION
+
+PROVINCIA ANTOFAGASTA
+
+COMUNA MEJILLONES CIRCUNSCRIPCION MEJILLONES
+
+Donde Dice:
+
+Reemplazante : COMANDANTE DE ESCUADRILLA (FUERZA AEREA)
+
+SOTO CUADROS OSCAR ARMANDO
+
+8.282.289-5
+
+Debe Decir:
+
+Reemplazante : COMANDANTE DE ESCUADRILLA (FUERZA AEREA)
+
+OVIEDO SANCHEZ RENATO LUIS
+
+9.867.300-8
+
+IV REGION
+
+PROVINCIA LIMARI
+
+COMUNA COMBARBALA CIRCUNSCRIPCION COMBARBALA
+
+Donde Dice:
+
+Titular : CAPITAN (EJERCITO)
+
+SANDOVAL BRAVO DANIEL GERARDO
+
+11.613.211-7
+
+Debe Decir:
+
+Titular : CAPITAN (EJERCITO)
+
+MESA FERES RAFAEL ALEJANDRO
+
+10.054.582-9
+
+REGION METROPOLITANA Y PROVINCIA DE SAN ANTONIO
+
+PROVINCIA DE SANTIAGO Y CHACABUCO
+
+COMUNAS LA CISTERNA, CIRCUNSCRIPCIONES LA
+
+EL BOSQUE Y SAN RAMON CISTERNA, LUIS CRUZ
+
+MARTINEZ, CAPITAN AVALOS
+
+Y SAN RAMON
+
+Donde Dice:
+
+Titular : CORONEL DE AVIACION (FUERZA AEREA)
+
+GALLARDO AGÜERO GUILLERMO ABEL
+
+6.618.889-2
+
+Debe Decir:
+
+Titular : CORONEL DE AVIACION (FUERZA AEREA)
+
+PEÑA LEIVA HUGO ADOLFO
+
+6.376.143-5
+
+COMUNAS LO ESPEJO, CIRCUNSCRIPCIONES ESTACION
+
+SAN MIGUEL Y PEDRO LO ESPEJO, LO VALLEDOR
+
+AGUIRRE CERDA, SAN MIGUEL, PEDRO AGUIRRE
+
+CERDA NORTE Y SUR
+
+Donde Dice:
+
+Titular : CORONEL DE AVIACION (FUERZA AEREA)
+
+PEÑA LEIVA HUGO ADOLFO
+
+6.376.143-5
+
+Debe Decir:
+
+Titular : CORONEL DE AVIACION (FUERZA AEREA)
+
+GALLARDO AGÜERO GUILLERMO ABEL
+
+6.618.889-2
+
+VI REGION
+
+PROVINCIA CACHAPOAL
+
+COMUNA DOÑIHUE CIRCUNSCRIPCION LO MIRANDA
+
+Donde Dice:
+
+Titular : MAYOR (EJERCITO)
+
+BERRIOS ARANCIBIA CARLOS ARMANDO
+
+8.090.030-9
+
+Debe Decir:
+
+Titular : MAYOR (EJERCITO)
+
+PUALUAN VASQUEZ LEONARDO MARCELO
+
+7.919.173-6
+
+PROVINCIA CARDENAL CARO
+
+COMUNA PAREDONES CIRCUNSCRIPCION PAREDONES
+
+Donde Dice:
+
+Titular : CAPITAN (EJERCITO)
+
+RUIZ FERRARI GERARDO ITALO
+
+10.579.792-3
+
+Debe Decir:
+
+Titular : MAYOR (EJERCITO)
+
+SANCHEZ OPAZO RICARDO YURI
+
+8.281.390-K
+
+VIII REGION
+
+PROVINCIA ÑUBLE
+
+COMUNA CHILLAN CIRCUNSCRIPCIONES CHILLAN
+
+Y QUINCHIAMALI
+
+Donde Dice:
+
+Titular : TENIENTE CORONEL (EJERCITO)
+
+FUENZALIDA HELMS EDUARDO ANDRES
+
+7.593.909-4
+
+Reemplazante : MAYOR (EJERCITO)
+
+TORO GARAY RAMON ERNESTO
+
+8.610.981-6
+
+Debe Decir:
+
+Titular : MAYOR (EJERCITO)
+
+TORO GARAY RAMON ERNESTO
+
+8.610.981-6
+
+Reemplazante : CAPITAN (EJERCITO)
+
+CACERES CUADRA ANDRES ADRIAN
+
+7.761.156-8
+
+Donde Dice:
+
+PROVINCIA BIO BIO
+
+COMUNA CABRERO CIRCUNSCRIPCIONES CABRERO
+
+Y MONTE AGUILA
+
+Titular : MAYOR (EJERCITO)
+
+REPENNING MARTIN LEONCIO ANDRES
+
+8.566.628-2
+
+Reemplazante : CAPITAN (EJERCITO)
+
+MIRANDA BARRIA LUIS ANTONIO
+
+9.323.242-9
+
+Debe Decir:
+
+PROVINCIA BIO BIO
+
+COMUNA CABRERO CIRCUNSCRIPCION CABRERO
+
+Titular : MAYOR (EJERCITO)
+
+REPENNING MARTIN LEONCIO ANDRES
+
+8.566.628-2
+
+Reemplazante : CAPITAN (EJERCITO)
+
+MIRANDA BARRIA LUIS ANTONIO
+
+9.323.242-9
+
+COMUNA CABRERO CIRCUNSCRIPCION MONTE AGUILA
+
+Titular : TENIENTE (CARABINEROS)
+
+SCHOWER MUÑOZ ALVARO ANDRES
+
+9.837.999-1
+
+Reemplazante : SUBTENIENTE (CARABINEROS)
+
+COFRE VILLASECA JUAN PABLO
+
+13.303.502-8
+
+Donde Dice:
+
+COMUNA YUMBEL CIRCUNSCRIPCIONES YUMBEL,
+
+RERE, RIO CLARO Y TOMECO
+
+Titular : CAPITAN (EJERCITO)
+
+ROSALES ROBIN JORGE ALBERTO
+
+9.934.336-2
+
+Reemplazante : TENIENTE (EJERCITO)
+
+BARRIGA CURILEMU LEONARDO NABOR
+
+8.283.479-6
+
+Debe Decir:
+
+COMUNA YUMBEL CIRCUNSCRIPCION YUMBEL
+
+Titular : CAPITAN (EJERCITO)
+
+ROSALES ROBIN JORGE ALBERTO
+
+9.934.336-2
+
+Reemplazante : TENIENTE (EJERCITO)
+
+BARRIGA CURILEMU LEONARDO NABOR
+
+8.283.479-6
+
+COMUNA YUMBEL CIRCUNSCRIPCIONES RERE,
+
+RIO CLARO Y TOMECO
+
+Titular : CAPITAN (CARABINEROS)
+
+BERGER SANDOVAL EDGARDO RODRIGO
+
+10.083.469-3
+
+Reemplazante : SUBTENIENTE (CARABINEROS)
+
+PAVEZ CONTRERAS CLAUDIO ANDRES
+
+13.077.713-9
+
+IX REGION
+
+PROVINCIA CAUTIN
+
+COMUNA PERQUENCO CIRCUNSCRIPCION PERQUENCO
+
+Donde Dice:
+
+Reemplazante : CAPITAN (EJERCITO)
+
+JACOME GONZALEZ ALFREDO MARCELO
+
+7.624.936-9
+
+Debe Decir:
+
+Reemplazante : CAPITAN (EJERCITO)
+
+GAJARDO LEIGH CARLOS ALBERTO
+
+8.714.941-2
+
+X REGION
+
+PROVINCIA OSORNO
+
+COMUNA PUERTO OCTAY CIRCUNSCRIPCION PUERTO OCTAY
+
+Donde Dice:
+
+Reemplazante : SUBTENIENTE (EJERCITO)
+
+SCHAFFHAUSER GUERRERO CRISTIAN IGNACIO
+
+10.487.968-3
+
+Debe Decir:
+
+Reemplazante : TENIENTE (EJERCITO)
+
+FUGELLIE VILLARROEL ALEX ROBERTO
+
+10.662.446-1
+
+2.- Agrégase las siguientes nuevas circunscripciones electorales creadas por el Servicio Electoral durante el presente año, en el territorio nacional, afectando el proceso de la siguiente forma:
+
+Donde Dice:
+
+IV REGION
+
+PROVINCIA DE ELQUI
+
+COMUNA COQUIMBO CIRCUNSCRIPCION COQUIMBO
+
+Debe Decir:
+
+IV REGION
+
+PROVINCIA DE ELQUI
+
+COMUNA COQUIMBO CIRCUNSCRIPCIONES COQUIMBO
+
+Y TIERRAS BLANCAS
+
+Se mantienen los mismos Jefes de Fuerza titular y reemplazante.
+
+Donde Dice:
+
+REGION METROPOLITANA Y PROVINCIA DE SAN ANTONIO
+
+PROVINCIA SANTIAGO Y CHACABUCO
+
+COMUNAS ESTACION CIRCUNSCRIPCIONES ALAMEDA,
+
+CENTRAL Y MAIPU LAS AMERICAS Y MAIPU
+
+Debe Decir:
+
+REGION METROPOLITANA Y PROVINCIA DE SAN ANTONIO
+
+PROVINCIA SANTIAGO Y CHACABUCO
+
+COMUNAS ESTACION CIRCUNSCRIPCIONES ALAMEDA,
+
+CENTRAL Y MAIPU LAS AMERICAS, MAIPU Y MAIPU
+
+ORIENTE
+
+Se mantienen los mismos Jefes de Fuerza titular y reemplazante.
+
+Donde Dice:
+
+VIII REGION
+
+PROVINCIA ÑUBLE
+
+COMUNA BULNES CIRCUNSCRIPCION BULNES
+
+Debe Decir:
+
+VIII REGION
+
+PROVINCIA ÑUBLE
+
+COMUNA BULNES CIRCUNSCRIPCIONES BULNES
+
+Y SANTA CLARA
+
+Se mantienen los mismos Jefes de Fuerza titular y reemplazante.
+
+IX REGION
+
+PROVINCIA CAUTIN
+
+COMUNA TEODORO SCHMIDT CIRCUNSCRIPCION BARROS
+
+ARANA
+
+Titular : MAYOR (EJERCITO)
+
+TOROMORENO RIOFRIO ALEJANDRO ARMANDO
+
+8.137.700-6
+
+Reemplazante : CAPITAN (EJERCITO)
+
+GAETE FICA HECTOR EDUARDO
+
+9.315.523-8
+
+Anótese, tómese razón, regístrese, comuníquese y publíquese en el Diario Oficial y en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros y Policía de Investigaciones de Chile.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Mario Fernández Baeza, Ministro de Defensa Nacional.- José Miguel Insulza Salinas, Ministro del Interior.
+
+Lo que se transcribe para su conocimiento.- Gabriel Gaspar Tapia, Subsecretario de Guerra.
