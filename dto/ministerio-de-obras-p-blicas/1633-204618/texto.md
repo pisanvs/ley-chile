@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.633, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº13, superficie 3.382 m², rol de avalúo 182-67, comuna de Fresia, X Región, para la obra ''Camino Ruta V-20, Sector Bifurcación Fresia - Tegualda'' y se acordó el valor de indemnización con su propietaria doña Blanca Luz González González, ascendente a la cantidad de $3.066.621.-
+
+Fiscal del Ministerio de Obras Públicas.
