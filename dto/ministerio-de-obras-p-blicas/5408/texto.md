@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.408, de 29 de diciembre de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 13-A Obra: Camino Ruta G-10-F, sector Cuesta La Dormida, Km. 0,00000 al 11,00000, que figura a nombre de Rafael Donoso Gallo, rol de avalúo 64-2, comuna de Til-Til, superficie 18.823,60 m². La Comisión de Peritos, fijó con fecha 5 de septiembre de 2000, en la cantidad de $28.235.400. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
