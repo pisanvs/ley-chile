@@ -1,0 +1,3 @@
+Por resolución Nº 522, de 5 de marzo de 2002, de esta Subsecretaría, modifícase el numeral 1º, de la resolución Nº 2.333, de 2001, de esta Subsecretaría, que declaró la caducidad de resoluciones que autorizaban a operar a diversas plantas de transformación, en el sentido de eliminar su punto 7). Como consecuencia recobran vigencia resoluciones Nº 305 de 1994, Nº 138 y Nº 1.035 de 1997, que autorizaron a doña CONSUELO DEL CARMEN FREIRE SAAVEDRA, a operar una planta de transformación ubicada en calle Atacama Nº 2822, Taltal, II Región.
+
+Valparaíso, 5 de marzo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
