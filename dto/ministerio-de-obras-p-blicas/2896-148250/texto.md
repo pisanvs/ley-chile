@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.896, de 30 de septiembre de 1999, se expropió el lote de terreno Nº9, superficie 531,0 m², rol de avalúo 395-196, comuna de Pitrufquén, para la obra "Concesión Internacional Ruta 5; Tramo Collipulli-Temuco", Novena Región, y se acordó el valor de indemnización con su propietario Joel Contreras Galaz, ascendente a la cantidad de $766.933.-
+
+Fiscal del Ministerio de Obras Públicas.
