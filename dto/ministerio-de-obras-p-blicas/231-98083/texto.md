@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº231, de 27 de febrero de 1998, se expropió el lote de terreno Nº 25-E, superficie 200 m2., rol de avalúo en trámite, comuna de Marchigüe, para la obra Camino San Fernando Pichilemu, sector La Rosa Alto Colorado (1-174) y se acordó precio de la indemnización con su propietario Juan Adolfo Vidal Calderón, ascendente a la cantidad de $395.160.-
+
+Fiscal del Ministerio de Obras Públicas.
