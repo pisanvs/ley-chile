@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.400, de 31 de mayo de 1999, se expropiaron los lotes de terrenos Nºs. 198 y 199, superficies 1.801 m2. y 2.018 m2., roles de avalúo 150-151 y 150-152, comuna de Lampa, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Región Metropolitana y se acordó el valor de indemnización con su propietaria Viviendas Económicas Metropolitana S.A., ascendente a la cantidad total de $17.481.119.-
+
+Fiscal del Ministerio de Obras Públicas.
