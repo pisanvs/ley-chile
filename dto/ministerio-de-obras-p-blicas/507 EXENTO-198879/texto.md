@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 507, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 97, superficie 137 M2, rol de avalúo 112-34, comuna de Corral, X Región, para la obra ''Camino Longitudinal Costero Sur, Sector El Morro-Chaihuin II (3ª Parte), Km. 15,755 al 27,017'' y se acordó el valor de indemnización con su propietario don Luis Hernán Benavides Riquelme, ascendente a la cantidad de $392.526.-
+
+Fiscal del Ministerio de Obras Públicas.
