@@ -1,0 +1,3 @@
+Por Resolución N° 1.898, de 8 de noviembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 94103086, presentada por CULTIVOS MARINOS CHILOE S.A., para un sector ubicado en Isla Butachauques, comuna de Quemchi, provincia de Chiloé, X Región, conforme lo dispuesto en los artículos N° 14°, del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción y N° 78° y N° 87°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 8 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
