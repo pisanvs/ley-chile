@@ -1,0 +1,3 @@
+Por Resolución N° 323, de 19 de febrero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por el plazo de 2 meses, a contar de la fecha de publicación de la presente Resolución, la primera etapa de la pesca de investigación "Evaluación de la Interacción Jurel-Merluza con Redes de Mediagua Pelágicas", autorizada mediante Resolución N° 1.452, de 1995, de esta Subsecretaría, a la UNIVERSIDAD CATOLICA DE VALPARAISO, R.U.T. N° 81.669.200-8, domiciliada en Avenida Brasil 2950, Valparaíso, por ser necesario para el cumplimiento de los fines de la investigación.
+
+Valparaíso, 19 de febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
