@@ -1,0 +1,3 @@
+Por decreto MOP exento P Nº325, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº59, superficie 21 m², rol de avalúo 153-1, comuna de Chonchi, para la obra "Camino Ruta W-80, Sector Cruce Longitudinal-Huillinco Kms. 0,000 al 9,556" y se acordó el valor de indemnización con su propietaris Gusmenia de Lourdes Picticar Guelnao, ascendente a la cantidad de $242.386.
+
+Fiscal del Ministerio de Obras Públicas.
