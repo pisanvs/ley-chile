@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.393, de 31 de mayo de 1999, se expropió el lote de terreno Nº 107, superficie 745 m2., rol de avalúo 218-4, comuna de Canela, para la obra Concesión Internacional Ruta 5, Tramo Los Vilos - La Serena, Sector A, Bifurcación Illapel - Hornillos, Cuarta Región y se acordó el valor de indemnización con sus propietarias Sociedad Agrícola Talinay Limitada y otra, ascendente a la cantidad de $237.174.-
+
+Fiscal del Ministerio de Obras Públicas.
