@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 357, de 25 de noviembre de 1985, se expropió el lote 1, superficie 103,3 m2., rol de avalúo 44-4, Comuna de Peumo, Para Ruta H-66-G Pelequén Cruce Las Arañas, sector Codao-Las Cabras y se acordó precio de indemnización con su propietaria Sociedad Protectora de la Infancia, hoy Sociedad de Asistencia y Capacitación, ascendente a $ 375.372.
+
+- Fiscal del Ministerio de Obras Públicas.
