@@ -1,0 +1,1 @@
+Libera de derechos de Aduanas un altar de mármol y accesorios, consignados a la comunidad religiosa que indica.
