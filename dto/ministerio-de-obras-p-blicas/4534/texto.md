@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.534 de 29 de septiembre del 2000, se expropió el lote de terreno Nº5, superficie 651 m²., rol de avalúo Nº5026-109, comuna de Punta Arenas, para la obra Actualización Proyecto Canal de Trasvase Estero Llau Llau a Estero Bitsch de Punta Arenas Fase II, Prolongación Canal Llau-Llau, Km. -0.009 al km. 1.066 y se acordó precio de la indemnización con su propietario Juan Sixto Carrera Millalonco, ascendente a la cantidad de $267.222.
+
+Fiscal del Ministerio de Obras Públicas.
