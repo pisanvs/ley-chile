@@ -1,0 +1,3 @@
+AUTORIZA EXCEPCION REGIMEN CAMBIO SUJETO DEL IVA A LUIS FERNANDO FLORES VALDES
+
+La Dirección Regional Talca del S.I.I., por resolución Nº Ex. 670 de 6 de junio de 1997, excepciona a contar del 1º del mes siguiente al de esta publicación, a don Luis Fernando Flores Valdés, RUT Nº6.140.161-K, del régimen de cambio de sujeto del IVA establecido en la resolución Nº Ex. 4.325 de 12 de septiembre de 1996, de la Dirección Nacional, publicada en el Diario Oficial del día 17 de septiembre de 1996.
