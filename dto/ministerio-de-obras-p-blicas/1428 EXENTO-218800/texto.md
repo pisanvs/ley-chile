@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.428, de fecha 31 de octubre de 2003, se expropió el lote de terreno Nº 131, superficie 81 m², rol en trámite, comuna de Pichidegua, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400", VI Región, y se acordó el valor de la indemnización con su propietario Juan Bautista Castro Canales, ascendente a la cantidad de $1.776.825.-
+
+Fiscal del Ministerio de Obras Públicas.
