@@ -1,0 +1,97 @@
+APRUEBA NUEVO ARANCEL PARA LOS RECEPTORES JUDICIALES E INTRODUCE MODIFICACIONES AL CÓDIGO ORGÁNICO DE TRIBUNALES
+
+NUM. 2.876.- Santiago, 10 de octubre de 1979.- Visto: lo dispuesto en los decretos leyes 1 y 128, de 1973; 527, de 1974; y 991, de 1976, y
+
+Considerando: 1° Que una de las finalidades fundamentales de todo ordenamiento judicial es poner la justicia al alcance de todas las personas, en términos tales que el acceso a ella sea expedito y económicamente posible.
+
+2° Que entre los gastos en que debe incurrirse en nuestro país al recabar la actividad judicial, se encuentran los derechos que deben cancelarse a los auxiliares de la administración de justicia y, entre ellos, los que corresponden a los receptores judiciales, cuya participación, conforme a nuestra legislación, resulta obligatoria e ineludible.
+
+3° Que para los efectos de regular tales derechos se ha hecho aconsejable contemplar un sistema que permita, anualmente, la actualización automática del arancel que los rige, a fin de evitar su ajuste periódico mediante la dictación de sucesivos decretos supremos.
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+DECRETO LEY:
+
+#### Artículo 1°
+
+DEROGADO.-
+
+#### Artículo 2°
+
+DEROGADO.-
+
+#### Artículo 3°
+
+DEROGADO.-
+
+#### Artículo 4°
+
+DEROGADO.-
+
+#### Artículo 5°
+
+El tribunal que conoce de la causa ejercerá el control y fiscalización del cumplimiento de las obligaciones y deberes que las leyes imponen a los receptores judiciales y, especialmente, la correcta aplicación del arancel.
+
+Los secretarios de los tribunales y los receptores judiciales deberán mantener permanentemente en sus oficios, a la vista del público y a disposición de los interesados, un ejemplar del arancel y la respectiva tabla de sueldos vitales mensuales.
+
+Cualquiera persona que tenga interés específico en ello podrá formular reclamo en contra de un receptor por el incumplimiento de las normas del arancel o de las demás obligaciones y deberes que le correspondan, directamente al tribunal de la causa o a la Corte de Apelaciones respectiva, los que conocerán de ellos sumariamente, sin forma de juicio y sin otra formalidad que la de oír al receptor en contra de quien se reclama. Justificado el reclamo, podrán imponer medidas disciplinarias al receptor, en conformidad con las facultades que les confieren los artículos 539° del Código Orgánico de Tribunales.
+
+Sin perjuicio de lo anterior y para el caso en que se cobrare por el receptor una cantidad superior a la que corresponda de acuerdo con el arancel, el interesado podrá ocurrir ante el juez respectivo y consignar el valor allí asignado, pudiendo solicitar, si la diligencia no se hubiere realizado, que se practique por el receptor de turno o, en su defecto, por el que designe el tribunal.
+
+#### Artículo 6°
+
+Introdúcense las siguientes modificaciones al Código Orgánico de Tribunales:
+
+a) Agrégase en el inciso final del artículo 275°, en punto seguido (.), el siguiente párrafo: "En todo caso, figurarán en esta lista los receptores judiciales que hayan sido suspendidos de sus funciones, por dos o más veces en el año, o por una vez cada año, en dos años consecutivos mediante resolución ejecutoriada".
+
+b) En el artículo 392° agrégase como inciso tercero el siguiente:
+
+"Sin perjuicio de lo anterior, podrá el tribunal de la causa designar receptor a un empleado de la secretaría del mismo tribunal para el sólo efecto de que practique una diligencia determinada que no pueda realizarse por ausencia, inhabilidad u otro motivo calificado, por los receptores judiciales a que se refieren los incisos anteriores. Esta designación deberá hacerse mediante resolución fundada, escrita en el libro establecido en el inciso final del artículo 384°. La persona designada prestará el juramento exigido por el artículo 471° ante el mismo tribunal; practicará la diligencia encomendada ciñéndose a las obligaciones impuestas por el artículo 393°, y quedará facultada para cobrar los derechos que correspondan de acuerdo con el arancel de receptores judiciales.
+
+c) Sustitúyese el artículo 393° por el siguiente:
+
+#### Artículo 393°
+
+Los receptores deberán cumplir con prontitud y fidelidad las diligencias que se les encomendaren, ciñéndose en todo a la legislación vigente, y dejar testimonio íntegro de ellas en los autos respectivos, anotando al margen de esos testimonios, bajo su firma y timbre, los derechos que cobraren, expresados en sueldos vitales y en pesos. Asimismo, deberán otorgar con la debida especificación, recibo firmado por los derechos que les pagaren, el que deberá extenderse en formularios impresos.
+
+Deberán, además, servir, gratuitamente a los pobres, con arreglo a lo dispuesto en el artículo 595°.
+
+Los expedientes en que se anotaren los testimonios antedichos serán devueltos a la Secretaría del tribunal respectivo, dentro del segundo día hábil, siguiente a aquel en que se realice la diligencia encomendada. Los receptores no podrán retardar la devolución de los expedientes a pretexto de no habérseles pagado sus derechos o los gastos en que hubieren incurrido.
+
+d) Suprímese, en el inciso primero del artículo 475°, las palabras: "y los receptores"; e intercálanse, como inciso tercero y cuarto, los siguientes:
+
+"Los receptores deberán permanecer diariamente en sus oficinas durante las dos primeras horas de audiencia de los tribunales, a disposición de éstos y de los litigantes, especialmente para los efectos de lo dispuesto en el inciso segundo del artículo 390°".
+
+"Sin embargo, el juez de la causa podrá autorizar su ausencia para el cumplimiento de diligencias urgentes".
+
+e) Sustitúyese el artículo 532° por el siguiente:
+
+#### Artículo 532°
+
+A los jueces de letras de mayor cuantía corresponde inmediatamente mantener la disciplina judicial en toda la extensión del departamento sujeto a su autoridad, haciendo observar las leyes relativas a la administración de justicia y los deberes de los emplados subalternos y demás personas que ejercen funciones concernientes a ella.
+
+En consecuencia, deberán vigilar la conducta ministerial de los jueces de distrito y subdelegación y de todas las personas que ejercen funciones concernientes a la administración de justicia y que se hallen sujetas a su autoridad.
+
+Las faltas o abusos en la conducta ministerial de las personas expresadas en el inciso anterior, así como las infracciones u omisiones en que éstas y los empleados de la secretaría incurrieren en el cumplimiento de sus deberes y obligaciones, podrán ser corregidas por los jueces de letras con algunas de las siguientes medidas:
+
+1) Amonestación privada;
+
+2) Censura por escrito;
+
+3) Multa de uno a quince días de sueldo o de una cantidad que no exceda de quince sueldos vitales mensuales para la Región Metropolitana de Santiago, y 4) Suspensión de sus funciones hasta por un mes, gozando del cincuenta por ciento de sus remuneraciones, cuando procediere.
+
+Las faltas o abusos de los notarios se castigarán disciplinariamente por las Cortes de Apelaciones, las cuales podrán delegar estas atribuciones en los jueces de leras correspondientes cuando la notaría no se halle en el mismo lugar del asiento de la corte.
+
+Las providencias que tomaren los jueces en el ejercicio de sus facultades disciplinarias se entenderán sin perjuicio de formarse el proceso correspondiente al empleado que hubiere faltado gravemente a sus deberes o cuya conducta diere lugar a presumir que ha habido en ella dolo o malicia".
+
+f) Sustitúyese el N° 4 del artículo 537° por el siguiente:
+
+"4.- Multa de 1 a 15 días de sueldo o una cantidad que no exceda de 15 sueldos vitales mensuales para la Región Metropolitana de Santiago, y".
+
+g) Sustitúyese el N° 3 del artículo 542° por el siguiente:
+
+"3.- Multa de 1 a 15 días de sueldo o una cantidad que no exceda de 15 sueldos vitales mensuales para la Región Metropolitana de Santiago, y".
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- FERNANDO MATTHEI AUBEL.- ARTURO TRONCOSO DAROCH.- MARIO MAC KAY JARAQUEMADA.-
+
+Mónica Madariaga.
