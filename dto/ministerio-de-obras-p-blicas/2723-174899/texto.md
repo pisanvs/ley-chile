@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.723, de 30 de junio de 2000, se expropió el lote de terreno Nº76, superficie 4.451,48 m²., rol de avalúo 1131-30, comuna de Castro, para la obra Camino Ruta W-65 y W-55, sector Cruce Longitudinal (Pid Pid) - Putemun - Dalcahue, Kms. 0,000 al 11,991647 y se acordó precio de la indemnización con su propietaria Elda Oty Bastidas San Martín, ascendente a la cantidad de $3.157.432, para el lote Nº76.
+
+Fiscal del Ministerio de Obras Públicas.
