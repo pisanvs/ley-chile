@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.399, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº36, superficie 31 M2, rol de avalúo 125-48, comuna de Ranquil, VIII Región, para la obra ''Camino Ruta O-122, Sector Nueva Aldea-Ñipas, Tramo III Km. 10,00000 al 13,29560'', y se acordó el valor de indemnización con su propietario don Ramón del Carmen Riquelme Baeza, ascendente a la cantidad de $141.350.-
+
+Fiscal del Ministerio de Obras Públicas.
