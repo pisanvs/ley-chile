@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Teno para contratar un préstamo que produzca hasta $ 4.000.000 con el objeto de construir la Casa Consistorial, habilitar el Estadio Municipal y abrir la calle que indica; para su servicio establece una contribución adicional del uno y medio por mil anual sobre el avalúo de los bienes raíces de la comuna.
