@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD TORRES Y RIVERA LIMITADA PARA AMPLIAR ACTIVIDADES
+
+Por resolución No. 1.004, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Torres y Rivera Limitada, domiciliada en Talcahuano, para ampliar actividades pesqueras que tiene autorizadas por resolución No. 283, de 1982, de esta Subsecretaría, en orden a incluir entre los recursos hidrobiológicos que tiene autorizados a procesar en la linea de harina y aceite de pescado, los siguientes: Agujilla, merluza de cola, merluza de tres aletas. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 22 de Septiembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
