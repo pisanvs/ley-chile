@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.181, de 31 de julio de 2001, se expropiaron los lotes de terreno Nos 59-L, 59-M, 59-N, 59-Ñ, 59-O y 59-P, superficies 132 m², 147 m², 150 m², 141 m², 141 m² y 147 m², rol de avalúo 375-2, comuna de El Quisco, para la obra Red Vial Litoral Central. Sector 2: Camino Algarrobo - Casablanca (Ruta F-90), Quinta Región y se acordó el valor de indemnización con sus propietarios Alberto Gaspar Melkonian Pereira y otros, ascendente a la cantidad total de $4.420.765.
+
+- Fiscal del Ministerio de Obras Públicas.
