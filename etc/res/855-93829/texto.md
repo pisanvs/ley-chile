@@ -1,0 +1,11 @@
+AUTORIZA A PESQUERA EL SOLFO S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA
+
+Por Resolución No. 855, de 24 de Julio de 1989, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera El Golfo S.A., RUT No. 96.237.000-4, domiciliada en Talcahuano, para ampliar actividades pesqueras que tiene autorizadas por Resoluciones No. 350, de 1981 y No. 1435, de 1987, ambas de esta Subsecretaria, en orden a operar la embarcación "Pelikan" ex "Bjorgvin", en el litoral comprendido entre la y Región y el paralelo 41° L.S., donde podrá extraer los siguientes recursos hidrobiológicos: Azulejo. Besugo, Blanquillo; Bonito, Brótula, Cabinza, Cabrilla española, Cachurreta, Chancharro, Cochinilla, Cojinoba del norte, Cojinoba del sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Lenguado ojos chicos, Lenguado ojos grandes Lisa, Machuelo, Marrajo o tiburón Merluza común, Merluza del sur, Merluza de cola Merluza de tres aletas, Palometa, Pampanito, Pejegallo, Pejeperro, Pejerrata, Pejerrey, Raya Reineta, Róbalo, Roncacho, Sierra Tollo, Calamar Camarón nylon y Langostino amarillo.
+
+Asimismo, la interesada podrá extraer con la nave antes referida, en el litoral comprendido entre las Regiones y y VII y IX y el paralelo 41 L.S., los siguientes recursos: Anchoa, Caballa, Jurel, Sardina común y Sardina española. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Se deniega la autorización solicitada por la interesada, para extraer con la nave "Pelikan" en el litoral de la VIII Región los recursos hidrobiológicos: Anchoa, caballa, jurel, sardina y sardina común, de conformidad a lo dispuesto en el Decreto No. 436, de 1986, prorrogado por el Decreto No. 110, de 1989, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Se deniega asimismo, la autorización solicitada por la interesada, para extraer con la nave antes mencionada el recurso Bacalao de Profundidad o Mero, de acuerdo a lo establecido en el Decreto No. 439, de 1985, del Ministerio de Economía, Fomento y Reconstrucción, y sus modificaciones.
+
+Valparaíso, 24 de Julio de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
