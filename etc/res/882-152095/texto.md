@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PESQUERA DEL SUR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 882 de 07 de Agosto de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera del Sur S.A., domiciliada en Santiago, para ampliar actividades pesqueras extractivas autorizadas por resolución No. 433, de 1984, de esta Subsecretaría de Pesca, en orden a autorizarle para ampliar la zona de operación de sus embarcaciones Coray I" y "Coray II" al litoral de las Regiones III a V, desde donde podrá extraer para destinar a la elaboración de harina y aceite, los siguientes recursos hidrobiológicos: Jurel, sardina española, caballa y anchoa. Y para destinar al consumo humano los recursos bonito y cojinova.
+
+Valparaíso, 07 de Agosto de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
