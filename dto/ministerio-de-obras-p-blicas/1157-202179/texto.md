@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.157, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº4, superficie 7.401 M2, rol de avalúo 127-12, comuna de Machalí, VI Región, para la obra ''Camino Caletones Termas de Cauquenes, conexión Ruta 5 Sur, Roles H-255, H-35 y H-405 sector Coya-Gultro'' y se acordó el valor de indemnización con su propietaria la Agrícola Super Limitada, la dación en pago del lote de terreno Nº4-A, de propiedad Fiscal.-
+
+Fiscal del Ministerio de Obras Públicas.
