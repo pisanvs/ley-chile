@@ -1,0 +1,5 @@
+Por Decreto M.O.P. No. 97, de 28 de abril de 1987, en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. No. 294, de 1984, que fija el texto actualizado de la Ley No. 15.840, se expropió para la Empresa Portuaria de Chile la concesión para ocupar un terreno ubicado en el malecón de defensa del recinto portuario del Puerto de Valparaíso, otorgada a la Asociación de Clubes de Regatas de Valparaíso, por la Ley No. 3.526, prorrogada por la Ley No.
+
+16.685, a fin de destinarlo a la ejecución de la obra Reparación integral del sector de la costanera del Puerto de Valparaíso. La Comisión de Peritos compuesta por los señores Osvaldo Muñoz, Edmundo Bravo y Archibald Hughes, fijó con fecha 09.01.87, el valor provisional de la indemnización en la cantidad de $ 13.320.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley No. 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
