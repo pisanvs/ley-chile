@@ -1,0 +1,3 @@
+Por Resolución N°1038, de 15 de Diciembre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución N° 490, de 1991, de esta Subsecretaría, que autorizó a SIETE MARES S.A., R.U.T. N°96.559.910-K, para operar dos naves en construcción denominadas "Pacífico" y "Antártico", en virtud de lo señalado en el artículo 143 letra b), del D.S. N°430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 15 de Diciembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
