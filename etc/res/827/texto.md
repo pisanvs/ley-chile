@@ -1,0 +1,3 @@
+Por Resolución N° 827 de 29 de Octubre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 425, de 1987, de esta Subsecretaría, que autorizó a COMPAÑIA PESQUERA Y NAVIERA PROAUSTRAL LTDA., R.U.T. N° 79.623.240-4, para operar la nave "Olimpo", por renuncia de su titular.
+
+Valparaíso, 29 de Octubre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
