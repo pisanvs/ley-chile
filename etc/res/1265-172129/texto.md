@@ -1,0 +1,3 @@
+Por resolución Nº 1.265, de 3 de Julio de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96101087 presentada por la SOCIEDAD PESQUERA RALUN LTDA. para instalar y operar el centro de cultivo ubicado en Bahía Huenquillahue, Comuna de Puerto Montt, provincia de Llanquiue, X Región, conforme lo dispuesto en el artículo 78 inciso 2º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 3 de Julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
