@@ -1,0 +1,3 @@
+Por resolución Nº 2.604, de 31 de diciembre de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 99105001, presentada por ASOCIACION GREMIAL DE ALGUEROS Y PESCADORES ARTESANALES Y CULTIVADORES DEL MAR DE PULLIHUE, comuna de Ancud, para un centro de cultivo en Desembocadura Estero Guillingo, X Región.
+
+Valparaíso, 31 de diciembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
