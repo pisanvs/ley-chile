@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.163, de fecha 30 de noviembre del 2000, se expropió el lote de terreno Nº 25, superficie 3.732 m², rol de avalúo 58-43, comuna de San Esteban, para la obra ''Camino Ruta E-755, Sector San Esteban-Lo Calvo, Tramo Km. 0.000 a Km. 7.001,80'' y se acordó el valor de indemnización con su propietario Eduardo Rodolfo Herrera Ramírez y otro, ascendente a la cantidad de $19.554.859.-
+
+Fiscal del Ministerio de Obras Públicas.
