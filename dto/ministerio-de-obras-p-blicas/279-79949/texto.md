@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 279, de 21 de octubre de 1991, se expropiaron los lotes 1, 2, 3 y 4 superficies 797 M2., 2.047 M2. y 7.614 M2., roles de avalúos N°s. 210-001, 210-002 y 40-015, Comunas de San Vicente y Peumo, para la obra Construcción Puente Peumo y sus accesos y se acordó precio de indemnización con sus propietarios Elías Peña Lagos, Sergio Abarca Guerra y Sociedad Agrícola Comercial Huertos Los Molinos Ltda., ascendente a las sumas de $ 927.907, $ 12.789.366 y $ 11.179.987, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
