@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA Y CONSERVERA CABO DE HORNOS S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS Y MODIFICA RESOLUCION QUE INDICA
+
+Por resolución No. 1.053, de 04 de Septiembre de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera y Conservera Cabo de Hornos S.A., domiciliada en Punta Arenas, para ampliar actividades pesqueras autorizadas por resolución No. 413, de 26 de Noviembre de 1981, de esta Subsecretaría de Pesca, en orden a operar una planta industrial ubicada en Punta Arenas, Kilómetro 13,5 Norte, en la línea de elaboración de congelado, donde procesará los siguientes recursos hidrobiológicos: Krill, merluza del Sur, merluza de cola, cojinova, brótula, raya, congrio dorado, róbalo y merluza austral. Modifícase el numeral 3° de la resolución citada precedentemente, en orden a señalar que la matrícula de la embarcación "Cutter Victoria" es 443 y de "Cutter Leonor" es 175, como asimismo el numeral 5° señalando que la zona de operación corresponde a la XII Región.
+
+Valparaíso, 04 de Septiembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
