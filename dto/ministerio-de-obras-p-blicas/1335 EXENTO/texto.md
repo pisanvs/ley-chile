@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.335, de 28 de septiembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 85, 86, 87, 88 y 130, para la ejecución de la obra "Camino Ruta O-170, O-176, Sector Acceso a Guarilihue, Km. 0,00000 a Km.
+
+8,28000, Tramo II; Km. 4,20200 a Km. 8,28000", que figuran a nombre de Gladys Eliana Fuentealba Reyes, Grisel Yanett Palma Fuentealba y Olga Nuria Reyes Mora, rol de avalúo 205-33, 205-70, 205-69 y 205-45, comuna de Coelemu, VIII Región, superficies 792, 465, 660, 415 y 175 M2. La Comisión de peritos fijó con fecha 10 de marzo de 2001, el valor provisional de la indemnización en la cantidad de $1.530.600, lote 85; $1.026.600, lote 86; $1.717.000, lote 87; $907.000, lote 88 y $437.500, lote 130. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
