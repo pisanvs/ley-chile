@@ -1,0 +1,3 @@
+Por decreto MOP Nº423 de 28 de febrero del 2002, se modificó el decreto MOP Nº107, de 28 de febrero del 2001, que ordenó la expropiación de los lotes 1 al 61, en cuanto a que por una parte se rectificó el numeral 2º, en la parte que se refiere al nombre del propietario de los lotes 51 al 61 que es "Comunidad Orrego" y no como en él se indican, asimismo se dejaron sin efecto los numerales 3º y 7º, en cuanto a que la indemnización definitiva de la expropiación, más su correspondiente reajuste, es la suma de $8.174.143.- para los lotes Nº1 al 50 y $2.317.174.- para los lotes Nº51 al 61.-
+
+Fiscal del Ministerio de Obras Públicas.
