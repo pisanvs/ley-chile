@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 194, de 23 de Julio de 1985, se expropiaron los lotes N°s. 26 - A y 26 - B, superficies 1.226 m2. y 11.184 m2., roles de avalúos 67 - 21 y 67 - 19, respectivamente, comuna de Marchigüe, para Camino San Fernando a Pichilemu, sector Marchigüe y se acordó precio de indemnización con sus propietarios don Ramón Horacio de Jesús Flores Galarce y otros, ascendente a $ 477.168.
+
+- Fiscal del Ministerio de Obras Públicas. (16)
