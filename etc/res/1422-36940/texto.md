@@ -1,0 +1,5 @@
+Por Resolución N° 1.422 de 30 de julio de 1996 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA LANDES S.A., para iniciar actividades pesqueras extractivas, en orden a operar la nave en construcción, en el litoral de la III y IV Regiones, por fuera del área de reserva artesanal, en la captura, mediante cerco de los recursos hidrobiológicos: Agujilla, Anchoveta, Bonito, Caballa, Cachurreta, Cojinoba del norte, Jurel, Machuelo o tritre, Sardina española y Sardina común.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 30 de julio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
