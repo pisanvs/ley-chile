@@ -1,0 +1,3 @@
+Por resolución No. 547, de 30 de mayo de 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, inmueble ubicado en calle Ricardo Santa Cruz No. 761, presunto rol avalúos No. 596-15, comuna de Santiago, aparentemente dominio de don David Saye Carvajal. Comisión integrada por peritos Sres. Ricardo Carvallo Rodríguez y Luis del Pozo Concha, arquitectos, y Raúl Varela Hernández ingeniero civil según informe de 2 de diciembre de 1988, fijó monto provisional indemnización en $ 1.793.400, pagadera al contado.
+
+Director SERVIU Metropolitano.
