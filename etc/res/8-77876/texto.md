@@ -1,0 +1,3 @@
+Por resolución No. 8 del 21 de Abril de 1992, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la III Región, se adjudicó a Comercial Atacama Autos Ltda. la concesión para operar, por un plazo de cinco años a contar de la fecha de publicación del presente extracto, un establecimiento ubicado en Avenida El Tofo No. 002 El Salvador, de la comuna de Diego de Almagro, destinado a la revisión técnica y verificación de emisión de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques en la forma, plazo y condiciones que se señalan en el contrato que se aprueba.-
+
+Luis Fernando Orellana Astorga, Secretario Regional Ministerial de Transportes yTelecomunicaciones, Región de Atacama.
