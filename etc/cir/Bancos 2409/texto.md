@@ -10146,13 +10146,7 @@ Las adquisiciones de efectos de comercio deben ajustarse a las instrucciones del
 
 3.- Adquisición de documentos en moneda extranjera.
 
-Las empresas bancarias pueden adquirir créditos en moneda extranjera excepto en los siguientes casos:
-
-a) cuando el deudor directo o indirecto sea otro banco establecido en Chile, salvo que se trate de documentos a favor de exportadores originados en la negociación de cartas de crédito.
-
-b) cuando correspondan a créditos que el banco haya cedido anteriormente a entidades del exterior y cuyos deudores sean personas domiciliadas y residentes en Chile.
-
-A las sociedades financieras, por su parte, les está prohibida la adquisición de cualquier título de crédito en moneda extranjera.
+A las sociedades financieras, les está prohibida la adquisición de cualquier título de crédito en moneda extranjera.
 
 ### III. VENTAS DE DOCUMENTOS DE LA CARTERA DE COLOCACIONES
 
