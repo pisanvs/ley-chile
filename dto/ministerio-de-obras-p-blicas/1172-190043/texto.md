@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.172, de fecha 31 de julio de 2001, se expropiaron los lotes de terreno Nºs. 27 y 41, superficies 341 M2 y 2.553 M2, respectivamente, rol de avalúo en trámite y 141-127, comuna de Codegua, VI Región, para la obra ''Camino Ruta Rol H-10, Sector Graneros-San Francisco de Mostazal, Tramo Km. 0,000 al 9,317'' y se acordó el valor de indemnización con su propietario don Julio Enrique Valenzuela, ascendente a la cantidad de $6.863.718.-
+
+Fiscal del Ministerio de Obras Públicas.
