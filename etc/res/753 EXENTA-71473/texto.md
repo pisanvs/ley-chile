@@ -1,0 +1,3 @@
+Por Resolución Exenta Nº 753, de fecha 12 de mayo de 1997, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó a la empresa Turibús Limitada o Turibús Ltda., para efectuar servicio de transporte terrestre internacional de pasajeros entre Osorno y Punta Arenas, el tránsito por territorio argentino, utilizando los pasos fronterizos de Portezuelo de Puyehue y Monte Aymond, con cinco (5) frecuencias semanales de ida y vuelta.-
+
+José Andrés Wallis Garcés, Subsecretario de Transportes.
