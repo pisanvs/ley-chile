@@ -1,0 +1,3 @@
+Por Resolución No. 31 de 15 de abril de 1992 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó a la sociedad chilena EMPRESA DE TRANSPORTES RURALES LIMITADA, cuyo nombre de fantasía es TUR BUS LIMITADA para efectuar transporte internacional terrestre de pasajeros entre Santiago Viña del Mar Valparaíso (Chile) y Mendoza (Argentina) por Paso Los Libertadores (Túnel Cristo Redentor) y alternativa Puyehue efectuando 3 frecuencias diarias de ida y vuelta.
+
+Sergio González Tagle, Subsecretario de Transportes.
