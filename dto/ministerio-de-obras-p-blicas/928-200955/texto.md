@@ -1,0 +1,3 @@
+Por decreto MOP Nº928 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº86, superficie 159,00 m², Rol de Avalúo Nº2087-65, comuna de Melipilla, para la obra ''Camino Reposición Ruta G-74-F, Sector Melipilla - Bollenar, tramo Km. 0.00000 a Km. 14.23039'', Región Metropolitana y se acordó el valor de indemnización con su propietaria Erminda Beatriz Aguayo Urbina, ascendente a la cantidad de $3.571.393.-
+
+Fiscal del Ministerio de Obras Públicas.
