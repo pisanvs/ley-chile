@@ -1,0 +1,3 @@
+Por Resolución Nº 568, de 21 de abril de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a EMPRESA PESQUERA EPERVA S.A., para ampliar actividades pesqueras extractivas autorizadas mediante Resoluciones Nº 782, de 1989 y Nº 575, de 1993, ambas de esta Subsecretaría de Pesca, en orden a operar la nave "Eperva 61", matrícula Nº 2.604, en el litoral de la X Región, por fuera del área de reserva artesanal, donde podrá extraer con red de Cerco, los siguientes recursos hidrobiológicos: Anchoveta, Jurel, Merluza de cola y Sardina común.
+
+Valparaíso, 21 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
