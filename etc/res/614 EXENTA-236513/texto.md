@@ -1,0 +1,3 @@
+Por resolución exenta Nº 614, de 2 de marzo de 2005, de esta Subsecretaría, autorízase a PESQUERA EL GOLFO S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en lote 8, sector de La Usina y Muelle Francés, Corral, X Región, en la línea de elaboración Salado, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 2 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
