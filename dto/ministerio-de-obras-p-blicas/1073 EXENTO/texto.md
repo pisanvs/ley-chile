@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.073, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº44, superficie 30 m², rol de avalúo Nº499-429, comuna de Retiro, para la obra "Camino Ruta L-75, Sector El Ajial - Las Camelias, Tramo Km. 6,320.00 al 23,400.00" y se acordó el valor de indemnización con su propietario José Celerino Chandía Ortega, ascendente a la cantidad de $232.713.-
+
+Fiscal del Ministerio de Obras Públicas.
