@@ -1,0 +1,1 @@
+Declara de utilidad pública, y autoriza a la Municipalidad de Ultima Esperanza expropiar a su favor los terrenos que indica, ubicados en Puerto Natales.
