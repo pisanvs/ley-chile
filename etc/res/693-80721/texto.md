@@ -1,0 +1,5 @@
+Por resolución No. 693, de 11 de Junio de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a pesqura y Conservera Cabo de Hornos S.A., R.U.T. No. 85.692.300-2, domiciliada en Punta Arenas, para ampliar actividades pesqueras que tiene autorizadas por Resolución No. 1.053, de 1987, de esta Subsecretaría, en orden a incorporar en la línea de proceso de congelado, de la planta industrial que tiene autorizada por la Resolución citada precedentemente, el siguiente recurso hidrobiológico: Pota.
+
+La presente autorización es sin perjuicio de las que correspondan conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 11 de Junio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
