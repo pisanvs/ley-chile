@@ -1,0 +1,3 @@
+Por resolución Nº 2.642, de 14 de noviembre de 2002, de esta Subsecretaría, autorízase a EMPACADORA DEL PACIFICO LIMITADA, RUT Nº 84.768.700-2, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Ferrari Nº 80, Lo Espejo, Santiago, en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Fresco Enfriado, Fresco Refrigerado y Congelado: Caballa, Lenguado de ojos chicos, Lenguado de ojos grandes, Reineta, Róbalo, Besugo; Congelado: Trucha arcoiris, Blanquillo, Raya tembladera, Raya espinosa, Raya volantín, Merluza de cola, Pejegallo, Sierra, Jurel.
+
+Valparaíso, 14 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
