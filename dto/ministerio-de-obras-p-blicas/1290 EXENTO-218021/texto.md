@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.290, de 30 de octubre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para el Fisco los lotes de terreno Nºs. 43-B, 73-A y 94-A, para la obra: Camino Santa Cruz-Yaquil, Rol I-730, Km.
+
+0,00000 a Km. 7,46939, que figuran a nombre Durán Donoso Margarita Inés, Núñez Cancino Carlos y Tobar Núñez Eduardo, Roles de Avalúo 518-11, 602-15 y en trámite, comuna de Santa Cruz, VI Región, superficies 30 m²., 1.624 m² y 509 m². La Comisión de Peritos, fijó con fecha 14 de marzo de 2003, el monto de la indemnización provisional en la cantidad $75.000.-, para el lote Nº43-B, $1.884.100.- para el lote Nº73-A y $1.363.200.- para el lote Nº94-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
