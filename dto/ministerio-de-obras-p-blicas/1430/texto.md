@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.430, de 31 de agosto de 1998, se expropiaron los lotes de terreno No. s 78, 78-A, 78-B, 105, 105-A, 105-B, 105-C y 109-A, superficies 48, 12, 30, 110, 64, 18, 80 y 4.278 m², respectivamente, roles de avalúo en trámite, 251-31 y 246-35, comuna de San Vicente, para la Obra: Camino Quinta de Tilcoco - Cruce Ruta 66 y se acordó precio de indemnización con sus propietarios Mariano Tobar Jaña, Nieves Tobar Droguett, Luis Tobar Droguett, Manuel Jerónimo Rossel, Luis Quintanilla Jaña, Erika Rossel López, Luis Rossel López y María Horta Contreras, ascendente a las cantidades de $602.057, $389.880, $449.388, $1.806.786, $1.315.742, $829.829, $1.362.528 y $6.567.836.-
+
+Fiscal del Ministerio de Obras Públicas.
