@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº385, de 28 de marzo de 2002, se expropió el lote de terreno Nº152-A, superficie 202 m², rol de avalúo 191-11, comuna de Collipulli, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli, IX Región y se acordó el valor de indemnización con Agrícola y Forestal Nueva Esperanza Limitada, ascendente a la cantidad de $281.776.-.
+
+Fiscal del Ministerio de Obras Públicas.
