@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.946, de 31 de octubre de 2000, se expropió el lote de terreno Nº479, superficie 27.299 m², rol de avalúo 2650-15, comuna de Puente Alto, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Sociedad Agrícola Avícola La Granja Limitada, ascendente a la cantidad de $308.171.762.-
+
+Fiscal del Ministerio de Obras Públicas.
