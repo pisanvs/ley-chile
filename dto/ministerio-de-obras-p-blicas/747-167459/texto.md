@@ -1,0 +1,3 @@
+Por decreto MOP Nº 747, de 29 de febrero del 2000, se expropiaron los lotes de terreno Nºs. 6 y 7, superficies 3.196 m² y 12.637 m², rol de avalúo 273-81, comuna de San Fernando, para la obra Concesión Internacional Ruta 5 Tramo: Santiago - Talca. Sector H: Sexta Región y se acordó el valor de indemnización con su propietaria Carlota Inés Pérez Salazar, ascendente a la cantidad total de $61.639.647.-.
+
+Fiscal del Ministerio de Obras Públicas.
