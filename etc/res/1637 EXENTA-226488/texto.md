@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.637, de fecha 11 de junio de 2004, de esta Subsecretaría, amplíase por el término de un año, contado desde la fecha de esta resolución, el plazo otorgado a MONICA RAQUEL SABUGAL DEL SOLAR, para iniciar operaciones en la piscicultura autorizada por resolución Nº 2.338, de 2002, de esta Subsecretaría, ubicada en Estero sin Nombre, sector El Turbio, IX Región.
+
+Valparaíso, 11 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
