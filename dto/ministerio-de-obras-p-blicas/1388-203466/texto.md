@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.388, de fecha 31 de julio de 2002, se expropió el lote de terreno Nº405-A, superficie 6.740 m², rol de avalúo 33-114, comuna de Pichidegua, VI Región, para la obra ''Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 12,70000 al 16,48000'', y se acordó el valor de indemnización con su propietario don Luis Alberto Zúñiga Araya, ascendente a la cantidad de $16.389.934.-
+
+Fiscal del Ministerio de Obras Públicas.
