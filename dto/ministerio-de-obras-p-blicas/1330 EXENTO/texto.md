@@ -1,0 +1,5 @@
+Por decreto MOP, exento Nº1.330, de 28 de septiembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº2, para la ejecución de la obra "Mejoramiento Autopista Concepción-Talcahuano, Sector Lientur Km. 0,03800 - Km. 0,08233", que figura a nombre de Domingo Antonio Beltrán Grandón, rol de avalúo 825-
+
+79, comuna de Concepción, VIII Región, superficie 34,53 m2. La comisión de peritos fijó con fecha 29 de agosto de 2000, el valor provisional de la indemnización en la cantidad de $1.312.140.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
