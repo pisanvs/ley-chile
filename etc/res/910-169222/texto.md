@@ -1,0 +1,3 @@
+Por resolución Nº910, de 18 de mayo de 2000, de esta Subsecretaría, déjase sin efecto la resolución Nº929 de 1991, de esta Subsecretaría, que autorizó a la ASOCIACION GREMIAL DE ALGUEROS Y PESCADORES ARTESANALES DE LOS COIHUES, para instalar y operar diversos centros de cultivo ubicados en la ribera norte del río Maullín, comuna de Maullín, provincia de Llanquihue, X Región, en virtud de la renuncia presentada por su titular.
+
+Valparaíso, 18 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
