@@ -1,0 +1,5 @@
+Por decreto MOP Nº452, de 30 de marzo de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+2-12, 2-14 y 2-17; para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. sector M. Km. 192.900,00 al Km. 209.700,00", Septima Región, que figuran a nombre de Agrícola Santa Digna Ltda., rol de avalúo 509-8, comuna de Curicó, superficies 253 m2, 93 m2 y 1.116 m2, respectivamente. La comisión de peritos integrada por los señores Pablo Antonio Aragón Bernal, Jorge Gregorio Mendoza Larral y Claudia Paola Arellano Gómez, fijó con fecha 23 de octubre de 2000, el valor provisional de la indemnización en las cantidades de $1.138.500.para el lote Nº2-12, $488.100.- para el lote Nº2-14 y de $5.179.150.- para el lote Nº2-17. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
