@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 1.461, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº 57, superficie 142 m², Rol de Avalúo 187-83, comuna de San Vicente, VI Región, para la obra ''Proyecto Mejoramiento Ruta H-830, Sector San Vicente - El Cardal - Millahue, Tramo Km. 0,000 al 8,622'' y se acordó el valor de indemnización con su propietario don Eduardo Fuentes Fuentes, ascendente a la cantidad de $1.183.030.
+
+- Fiscal del Ministerio de Obras Públicas.
