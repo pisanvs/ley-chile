@@ -1,0 +1,3 @@
+Por resolución Nº349, de 16 de marzo de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por SOCIEDAD PESQUERA SAN ANTONIO S.A., para ampliar actividades pesqueras extractivas con la nave "Arequipa IV", sobre los recursos y áreas solicitadas, en virtud que la peticionaria ya cuenta con los permisos solicitados.
+
+Valparaíso, 16 de marzo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
