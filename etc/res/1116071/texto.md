@@ -1,0 +1,9 @@
+Pago de contribuciones por los estranjeros
+
+Excmo. Señor:
+
+Cuando el Senado dispuso que en las contribuciones ordinarias i estraordinarias del Estado no fuesen comprendidos los estranjeros, a no ser que tuviesen carta de ciudadanía; no tuvo presente las Reales órdenes de 6 de Julio i 20 de Octubre de 1815 en que se manda, que los comerciantes estranjeros establecidos en España deben entrar lo mismo que los españoles en las contribuciones, a ménos que sean transeuntes. La constitucion provisoria del Estado ordena, seamos rejidos por los mismos códigos i lejislacion que antes de nuestra independencia, a no ser que pugnen con ella. Aquellas reales disposiciones en nada se oponen a la libertad civil; i por el contrario, si con ella admitimos a los estranjeros en nuestro comercio, permitimos su vecindad i les dispensarnos los títulos de naturales i ciudadanos, es justo sean igualmente comprendidos, como lo eran ántes por aquella lei, en las pensiones que los demas. De aquí es que el estranjero, que tenga alguna propiedad o casa de comercio establecida i no sea un mero transeunte, debe participar de las contribuciones, gravámenes, i empréstitos jenerales con proporcion a sus facultades i jiro, lo mismo que los naturales del pais. Los que en la presente contribucion no se habiesen incluido, no quedarán exentos de ella, i se les gravará bajo aquella órden i se ejecutarán los pensionados, sin que la calidad de estranjeros debe aprovecharles. Así puede V.E. sancionarlo, publicarlo i decidir por esta resolucion cualesquiera duda que ocurriese.
+
+Dios guarde a V.E. muchos años.- Sala del Senado, Junio 7 de 1820.- José María Rozas.- José María Villarreal, Secretario.- Excmo. Señor Supremo Director del Estado.
+
+Santiago, Junio 8 de 1820.- Conforme: imprímase i circúlese.- O'Higgins.- Dr. Rodríguez.
