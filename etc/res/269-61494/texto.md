@@ -1,0 +1,3 @@
+Por Resolución Nº 269, de 19 de febrero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SALMONES TECMAR S.A., para continuar desarrollando las actividades de cultivo autorizadas por Resoluciones Nº 1.299, de 1988, y Nº 6, de 1992, ambas de esta Subsecretaría, a Salmones del Navegante S.A., de mismos R.U.T. y domicilio, en virtud de la Escritura Pública de fecha 4 de enero de 1996, otorgada ante el Notario Público de Santiago, don Kamel Saquel Zaror, que fusionó la sociedad "Salmones del Navegante S.A." con "Salmones Tecmar S.A.".
+
+Valparaíso, 19 de febrero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
