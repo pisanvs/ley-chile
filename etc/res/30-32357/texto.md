@@ -1,0 +1,3 @@
+Por Resolución N° 30, de febrero de 1996, Serviu II Región, dispuso, conforme D.L 2.186 de 1978, expropiación parcial del inmueble ubicado en Avda. Argentina N° 2722 (antes 959), rol de avalúo N° 905-003, comuna de Antofagasta, superficie 17,4906 M2., de aparente dominio de doña Peta del Rosario Cortés de Osses, según inscripción fs. 612, N° 603, año 1949, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión Tasadora integrada por peritos Srs. Iván Vladilo Vargas, Ingeniero Civil, Alejandro Bargsted Balcells y Eleonora Román Latorre, Arquitectos, según informe de 1° de febrero de 1996, fijó monto provisional indemnización en $2.392.467.-, pagadera al contado.-
+
+Director Serviu II Región.
