@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 224, de 29 de agosto de 1986, se expropió el lote N° 1, rol de avalúo 1004-34, superficie 12.000 m2, Comuna de Coyhaique, para Agua Potable de Coyhaique, Mejoramiento Captaciones y Planta de Tratamiento y se acordó precio de indemnización con su propietaria Sociedad Agrícola, Inmobiliaria y Comercial Lomas del Sol Limitada, ascendente a $ 2.727.000.-
+
+Fiscal del Ministerio de Obras Públicas.
