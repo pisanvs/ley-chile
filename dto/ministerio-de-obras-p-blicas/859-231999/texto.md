@@ -1,0 +1,3 @@
+Por decreto MOP Nº 859 de 30 de septiembre de 2004, se expropió el lote de terreno Nº 4-A, superficie 2.565,40 m2., rol Nº 247-467, comuna de Salamanca, IV Región, para la obra "Diseño de Obras Complementarias para la Red de Canales del Proyecto Corrales" y se acordó el valor de indemnización con su propietario Miguel Enrique Olivares Vicencio, ascendente a la cantidad de $4.861.677.
+
+Fiscal del Ministerio de Obras Públicas.
