@@ -1,0 +1,3 @@
+Por Decreto Alcaldicio Secc. 2a. No. 1.056 de 10.10.89, Alcalde I. Municipalidad de Santiago dispone expropiación parcial inmueble Merced 711 - 719 Rol 154-1, aparentemente dominio Inés Casanova vda. de Lamas. Superficie franja expropiada 128 m2, Deslindes: Norte, 25,72 mts. resto predio; Sur, 25,72 mts. calle Merced; Oriente, 5,20 mts. ensanche calle Mac Iver y Poniente, 4,75 mts. ensanche calle Merced. Indemnización provisional $ 16.000.000.- (dieciséis millones de pesos), pagadera contado.
+
+Máximo Honorato A. Alcalde Santiago.
