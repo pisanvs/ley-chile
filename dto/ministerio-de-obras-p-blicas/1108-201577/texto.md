@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.108, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº8, superficie 2.402,0 m2, rol de avalúo 251-2, comuna de Frutillar, X Región, para la obra ''Camino Ruta V-20, Sector Bifurcación Fresia - Tegualda, Km. 26,720 al 33,682731'' y se acordó el valor de indemnización con su propietaria doña Inés del Carmen Jara Bustos y Otros, ascendente a la cantidad de $9.772.468.-
+
+Fiscal del Ministerio de Obras Públicas.
