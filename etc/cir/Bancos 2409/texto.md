@@ -6244,7 +6244,7 @@ ORDENES DE PAGO DE PENSIONES LEY 17.671.
 
 1.- Obligación de pagar órdenes de pago de pensiones.
 
-El artículo 15 de la Ley 17.671 dispone que las instituciones de previsión podrán emitir y entregar a los beneficiarios, órdenes de pago intransferibles, las que deberán ser pagadas a partir de sus respectivas fechas de vencimiento en cualquiera institución bancaria, libres de comisiones o derechos, lo que actualmente sólo tiene aplicación respecto del Instituto de Normalización Previsional.
+El artículo 15 de la Ley 17.671 dispone que las instituciones de previsión podrán emitir y entregar a los beneficiarios, órdenes de pago intransferibles, las que deberán ser pagadas a partir de sus respectivas fechas de vencimiento en cualquiera institución bancaria, libres de comisiones o derechos, lo que actualmente sólo tiene aplicación respecto del Instituto de Normalización Previsional (INP) y la Caja de Previsión de la Defensa Nacional (CAPREDENA).
 
 Las empresas bancarias deberán, en consecuencia, pagar esos documentos al beneficiario que compruebe su identidad, salvo que no cuenten con los medios suficientes para verificar la autenticidad de la orden de pago, caso en el cual deberán explicar al interesado el motivo por el cual rechazan su pago.
 
@@ -16918,7 +16918,7 @@ c) Letras de cambio o pagarés, originados en exportaciones de mercaderías chil
 
 respectivos Bancos Centrales, siempre que el banco avalista haya otorgado su autorización para que el importe de esos documentos sea reembolsado a través del correspondiente convenio de crédito recíproco.
 
-Para considerar estos documentos como garantías válidas para los efectos de límites de crédito, los bancos deben estar en posesión material de la letra de cambio o del pagaré, y deben cumplir con las formalidades que se indican en el N° 5 del título III del Capítulo 14-3 de esta Recopilación de Normas.
+Para considerar estos documentos como garantías válidas para los efectos de límites de crédito, los bancos deben estar en posesión material de la letra de cambio o del pagaré, debiendo constar que el documento es reembolsable por intermedio de un convenio de crédito recíproco conforme a lo dispuesto en el Capítulo XXV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile
 
 ### 2. Documentos emitidos por el Banco Central de Chile o por el Estado y sus
 
@@ -23983,6 +23983,8 @@ En todo lo demás, las instituciones se ceñirán a las instrucciones para el Ba
 El modelo del estado de resultados que debe utilizarse es el siguiente:
 
 Este modelo contiene menos líneas que aquel correspondiente al ejercicio anual. La diferencia consiste en la presentación resumida de las líneas signadas con las letras O, P y Q, de tal manera que los importes que corresponde consignar en cada una de ellas corresponderán a la suma de aquellos que se identifican con las mismas letras en el estado de resultados no resumido indicado en el Anexo N° 1 del Capítulo 18-1 (por ejemplo: línea Q = Q1+Q2+Q3).
+
+> **Nota.** La letra C, de la Circular 2888, SBIF, promulgada el 05.03.1997, modifica el presente Anexo, a fin de incluir la demostración de las "Provisiones Voluntarias" en el modelo de Estado de Resultados Resumido, en concordancia con las instrucciones del Capítulo 18-1.
 
 ANEXO N°2
 
