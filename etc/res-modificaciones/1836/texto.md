@@ -1,0 +1,3 @@
+Por resolución Nº 1.836, de 16 de diciembre de 1998, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 1.277, Nº 1.278, Nº 1.279, Nº 1.280, Nº1.281 y Nº 1.282, todas de 1998, de esta Subsecretaría, que autorizaron a PESQUERA CHAQUIHUAL S.A., para continuar desarrollando actividades pesqueras con las naves ''Santa Adriana'', ''Tocaril'', ''Cristián Claudio'', ''San Andrés'', ''Gabrielita'' y ''Adelita'', respectivamente.
+
+Valparaíso, 16 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
