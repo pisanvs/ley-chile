@@ -1,0 +1,3 @@
+Por resolución Nº 1.979, de 12 de septiembre de 2002, de esta Subsecretaría, déjase sin efecto parcialmente la resolución Nº 2.510 de 2001, de esta Subsecretaría, sólo en cuanto autorizó a SOCIEDAD PESQUERA GENMAR LIMITADA para desarrollar actividades pesqueras extractivas con la nave "Don Chelo I", en el área marítima correspondiente a la VIII Región, por fuera del área de reserva artesanal, sobre el recurso hidrobiológico Merluza de cola Macrunorus magellannicus, en virtud de lo dispuesto en el artículo 20 de la Ley General de Pesca y Acuicultura, y lo informado por la División de Desarrollo Pesquero de esta Subsecretaría en memorándum citado en Visto.
+
+Valparaíso, 12 de septiembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
