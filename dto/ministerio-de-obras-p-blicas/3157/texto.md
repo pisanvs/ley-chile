@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.157 de 31 de julio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº4, para la ejecución de la obra Construcción Pasarelas Peatonales y Puentes Sexta Región, Sector Caminos de Acceso al Puente Popeta H-521, Acceso Norte Km. 11.00 -
+
+Km. 11.375,50, Acceso Sur Km. 0.00 - Km. 0.200, que figura a nombre de Ida Sofía Dorn Schurter, rol de avalúo 221-14, de la comuna de Rengo, VI Región, superficie 1.033 m². La comisión de peritos fijó con fecha 2 de abril de 1997, la indemnización provisional en la cantidad de $5.719.220.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
