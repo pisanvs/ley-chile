@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.960, de 28 de diciembre de 2001, se expropió el lote de terreno Nº8-1, superficie 247 m2, rol de avalúo 639-56, comuna de Curicó, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector L: Kms. 179.500,00 al 192.900,00, Séptima Región y se acordó el valor de indemnización con su propietario Inversiones Civil Agro Limitada, ascendente a la cantidad de $1.569.267.-
+
+Fiscal del Ministerio de Obras Públicas.
