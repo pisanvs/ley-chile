@@ -1,0 +1,3 @@
+Alcaldesa de la I. Municipalidad de Providencia, mediante Decreto No. Ex. 291 de 09 de Mayo de 1986, dispone expropiación parcial, conforme Decreto Supremo No. 458, de Vivienda, de 1976 y Decretos Leyes 1.289, 2.186 y 3.464, de inmueble ubicado en Av. Bilbao No. 2157-2163 y 2179, Rol de Avalúos No. 3230-2, aparentemente de propiedad de don Juan Riumallo Pla, para el ensanche de Av. Bilbao. Deslindes parte expropiada: Al Norte, 20 mts. Av. Bilbao; al Sur, 20 mts. resto de la propiedad que se expropia; al Oriente, 5 mis. Rol No. 3230-3; al Poniente, 5 mts. Rol No. 3230-1. Indemnización provisional $ 1.050.000.
+
+- Carmen Grez de Anrique, Alcaldesa.- Jorge O. Herrera Ramírez, Secretario Abogado Municipal.
