@@ -1,0 +1,3 @@
+Por decreto MOP Nº443 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº12-F, superficie 231,00 m2, rol de avalúo Nº1507-21, comuna de Valparaíso, V Región, para la obra "Habilitación Nuevo Camino La Pólvora, Km. 17,86424 a Km. 22,47179, Sector 3, Quebrada Las Animas - Puerto Valparaíso" y se acordó el valor de indemnización con su propietaria Iris del Carmen Aguilera Guerrero, ascendente a la cantidad de $8.156.871.
+
+- Fiscal del Ministerio de Obras Públicas.
