@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.323, de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº87-B, superficie 893 m², rol de avalúo en trámite, comuna de San Fernando, para la obra ''Camino San Fernando-Roma Rol I-301, I-255, I-151, Km. 0,000 a Km. 10,954264'', VI Región y se acordó el valor de la indemnización con su propietario Jorge Jaime Fredes Lisboa, ascendente a la cantidad de $2.230.421.-
+
+Fiscal del Ministerio de Obras Públicas.
