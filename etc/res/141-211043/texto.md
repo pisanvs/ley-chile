@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD PESQUERA BIO-BIO LTDA. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS
+
+Por resolución N° 141, de 3 de Mayo de 1983, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Pesquera Bío-Bío Ltda., domiciliada en Talcahuano, para ampliar sus actividades pesqueras, en el sentido de que podrá operar las embarcaciones denominadas "Oceanic II", "Pelícano", "Biomar I" y "Biomar II", que tiene autorizadas por resoluciones 82 y 269, de 1979, de la Subsecretaría de Pesca, en el litoral comprendido entre la I y la XII Región y destinarlas a la extracción de los siguientes recursos: Agujilla, Anchoveta, atún, cabrilla, bonito, caballa, cojinova, congrio, cachurreta, cabinza, jurel, merluza, palometa, pejegallo, sardina española, sardina común, langostino colorado, langostino amarillo, camarón nailon, tollo, pejerrey de mar, tiburón, sierra, azulejo, lisa, apañado, pejeperro, pez espada, loco, erizo, cholga y chorito.
+
+Santiago, 3 de Mayo de 1983.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
