@@ -1,0 +1,3 @@
+Por Resolución de la Fiscalía del Ministerio de Obras Públicas F. N° 23, de 22 de marzo de 1989, se ha ordenado pagar la suma de $ 210.147.- a la Comunidad La Herradura o a quien acredite derecho, como valor del 100% del avalúo fijado por la Comisión de Hombres Buenos para el lote N° 1, ubicado en la Comuna de Coquimbo, IV Región, necesario para la ejecución de la obra Pozo de lastre y estanques de asfalto camino Herradura-Centinela, Km. 456,205 al 456,635. Se deja constancia que el plazo para reclamar judicialmente del avalúo es de 30 días contados desde la fecha de la 2a. publicación que se hará en un periódico de la IV Región.
+
+Fiscal del Ministerio de Obras Públicas.
