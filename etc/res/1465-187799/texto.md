@@ -1,0 +1,5 @@
+Por resolución Nº 1.465, de 12 de julio de 2001, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones Nº 324 y Nº 429, de 1998, de esta Subsecretaría, que autorizó a PESQUERA SAN AMBROSIO S.A., para ampliar actividades pesqueras extractivas con nave "Pacific Sea", sólo en lo relativo a la operación respecto del recurso Camarón nailon, en el litoral comprendido entre la IV a VIII Regiones conforme lo dispuesto en el artículo 143 letra b) de la Ley de Pesca.
+
+Declárase la caducidad parcial de la resolución Nº 1.017 de 1998, de esta Subsecretaría, que autorizó a Pesquera San Ambrosio S.A., ya individualizada, para operar la nave "Pacific Sea", sólo en lo relativo a la operación respecto de los recursos Calamar, Besugo y Gamba, en el litoral comprendido entre la IV y VIII Regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley de Pesca.
+
+Valparaíso, 12 de julio de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
