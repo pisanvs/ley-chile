@@ -1,0 +1,3 @@
+Por decreto MOP Nº 470, de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 9, superficie 259 M2, rol de avalúo 152-85, comuna de Graneros, VI Región, para la obra "Camino Ruta Rol H-10, Sector Graneros-San Francisco de Mostazal, Tramo Km. 0,000 al 9,317" y se acordó el valor de indemnización con su propietario don Héctor Raimundo Montenegro Pinto y Otros, ascendente a la cantidad de $25.423.647.-
+
+Fiscal del Ministerio de Obras Públicas.
