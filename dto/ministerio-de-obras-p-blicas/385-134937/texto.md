@@ -1,0 +1,3 @@
+Por decreto MOP Nº 385, de 26 de febrero de 1999, se expropió el lote de terreno Nº 20, superficie 1.757 m², rol de avalúo 1509-297, comuna de Los Angeles, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli'', VIII Región y se acordó el valor de indemnización con su propietario Ruperto Segundo Castillo Mora, ascendente a la cantidad de $684.144.-
+
+Fiscal del Ministerio de Obras Públicas.
