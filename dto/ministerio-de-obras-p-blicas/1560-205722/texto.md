@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 1.733, de 31 de octubre de 2001, modificado Por decreto MOP Nº 1.560, de 31 de octubre de 2002, se expropió el lote de terreno Nº 8 para la obra: ''Red Vial Litoral Central. Sector 1: Nuevo Camino Costero. Acceso a Punta de Tralca Km.
+
+0.000,00 al Km. 5.622,00'', Quinta Región, que figura a nombre de Leonardo Enrique Molina Trujillo, rol de avalúo 374-82, comuna de El Quisco, superficie 178 m². La comisión de peritos integrada por los señores Orlando Antonio Fariña Vásquez, Valeria Luz Jiménez Matus y Enrique Luis Figueroa Echeverría, fijó con fecha 18 de julio de 2001, el valor provisional de la indemnización en la cantidad de $517.100.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
