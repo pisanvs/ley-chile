@@ -1,0 +1,3 @@
+Por Resolución Nº 1.466, de 5 de noviembre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA COJINOVA LTDA., para continuar desarrollando actividades pesqueras autorizadas a Pesquera Cojinova S.A., en virtud de la escritura pública y disposiciones legales.
+
+Valparaíso, 5 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
