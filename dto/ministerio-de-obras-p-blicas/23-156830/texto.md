@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 23, de 31 de Enero de 1985, se expropió el lote de terreno N° 1, para Variante Nuevo Puente sobre el río Andalién, Camino Concepción-Tomé. que figura a nombre de doña Virginia Flores Núñez, rol de avaldo 357-8, superficie 423 ras., conlumna de Concepción, VIII Región. La Comisión de Peritos compuesta por los señores Teodoro Medina R., Ramón Jofré J. y Gerardo Valverde V., fijó con fecha 07 de Septiembre de 1984, el valor provisional de la indemnización en la cantidad de $ 872.025. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Fiscal subrogante del Ministerio de Obras Públicas.
