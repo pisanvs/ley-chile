@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 61, del Ministerio de Economía, Fomento y Reconstrucción, de fecha 26 de junio del 2002, se aprobó la disolución voluntaria de la Cooperativa de Viviendas y Servicios Habitacionales "San Andrés" Limitada, de Talca, que consta en la escritura pública suscrita con fecha 30 de mayo de 2002, ante el Notario Público de Talca, doña Lidia María Ferrada Valdebenito, suplente del Titular don Héctor Manuel Ferrada Escobar.
+
+Por orden del señor Subsecretario.- Cecilia González Martínez, Jefe Departamento de Cooperativas (S) Ministerio de Economía, Fomento y Reconstrucción.
