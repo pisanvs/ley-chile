@@ -1,0 +1,5 @@
+Por decreto MOP No. 1.197, de 9 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP No. 850, de 1997, que fijó el texto actualizado de la ley No.
+
+15.840 y DFL MOP No. 206, de 1960, se expropió el lote de terreno No. 47 para la obra por concesión "Ruta 5 Sur, Tramo Talca Chillán, Intersección Desnivelada Acceso a Parque Lantaño, VIII Región", que figura a nombre de Contreras García Fernando, rol de avalúo 2204-23, comuna de Chillán, superficie 7649 m2. La comisión de peritos integrada por los señores, Jaime García Molina, Teodoro Medina Reyes y Luis Abarzúa Ceballos, fijó con fecha 31 de marzo de 1998, el valor provisional de la indemnización en la cantidad de $ 16.226.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 75 del decreto Ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
