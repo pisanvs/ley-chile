@@ -1,0 +1,7 @@
+AUTORIZA A DON JAIME AZOCAR CAMPUSANO PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 703 de 12 de Julio de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Jaime Azócar Campusano, R.U.T. No. 6.804.525-8, domiciliado en Avenida Central No. 611, San Antonio, para iniciar actividades pesqueras, en orden a operar una planta industrial en la V Región, ubicada en Avenida Molo Sur s/n, Recinto Portuario, San Antonio, donde procesará en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Para conserva, Anchoa, Jurel, Sardina española, Señorita, Almeja, Chocha, Cholga, Lapa, Loco, Macha, Navajuela, Ostión del Norte, Ostión del Sur. Para fresco, refrigerado y congelado, Albacora, Agujilla, Mero, Bacalao de J. Fernández, Caballa, Cojinova, Congrio colorado, Congrio dorado; Congrio negro, Corvina, Lenguado, Lisa, Machuelo o tritre, Merluza común, Merluza del Sur, Pejegallo, Pejerrey de mar, Róbalo, Sierra, Tollo, Caracol trumulco, Chorito, Camarón de roca, Camarón nailon, Langostino amarillo, Langostino colorado, Jaiba y Erizo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 12 de Julio de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
