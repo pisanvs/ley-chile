@@ -4,7 +4,7 @@ Núm. 690.- Santiago, 15 de Julio de 1994.- Visto: Lo dispuesto en el artículo 
 
 D e c r e t o:
 
-Establécese la siguiente lista de mercancías que podrán adquirir los pasajeros que arriben al país en los Almacenes de Venta Libre o "Duty Free Shop" del Aeropuerto Arturo Merino Benítez de Santiago:
+Establécese la siguiente lista de mercancías que podrán adquirir los pasajeros que arriben al país en los Almacenes de Venta Libre o "Duty Free Shop":
 
 Posición Mercancías
 
@@ -34,7 +34,9 @@ caviar y sus sucedáneos.
 
 1605 Crustáceos, moluscos y demás
 
-invertebrados acuáticos, conservados.
+invertebrados acuáticos,
+
+conservados.
 
 1704 Artículos de confitería sin cacao
 
@@ -54,7 +56,9 @@ purés y pasta de frutas.
 
 2008 Frutos y demás partes comestibles
 
-de plantas, preparados o conservados.
+de plantas, preparados o
+
+conservados.
 
 2009 Jugos de frutas o de legumbres u
 
@@ -90,21 +94,25 @@ plantas o sustancias aromáticas.
 
 2206 Demás bebidas fermentadas.
 
-2208 Licores y demás bebidas espirituosas.
+2208 Licores y demás bebidas
+
+espirituosas.
 
 2402 Cigarros o puros, puritos y
 
-cigarrillos, de tabaco o de sucedáneos
+cigarrillos, de tabaco o de
 
-del tabaco.
+sucedáneos del tabaco.
 
 2403 Tabaco para pipa.
 
 3303 Perfumes y aguas de tocador.
 
-3304 Preparaciones de belleza, de maquillaje
+3304 Preparaciones de belleza, de
 
-y para el cuidado de la piel, excepto
+maquillaje y para el cuidado
+
+de la piel, excepto
 
 los medicamentos, incluidas las
 
@@ -118,25 +126,31 @@ bronceadoras.
 
 dental.
 
-3307 Preparaciones para afeitar o para antes
+3307 Preparaciones para afeitar o
 
-o después del afeitado, desodorantes
+para antes o después del afeitado,
 
-corporales, preparaciones para el baño,
+desodorantes corporales,
 
-depilatorios y demás preparaciones de
+preparaciones para el baño,
 
-perfumería, de tocador o de cosmética.
+depilatorios y demás
+
+preparaciones de perfumería,
+
+de tocador o de cosmética.
 
 3401 Jabones.
 
 3702 Películas fotográficas en rollos.
 
-3926 Las demás manufacturas de plástico;
+3926 Las demás manufacturas de
 
-artículos de plástico de oficina y para
+plástico; artículos de plástico
 
-escolares, adornos, los demás.
+de oficina y para escolares,
+
+adornos, los demás.
 
 4202 Baúles, maletas (valijas), maletines
 
@@ -146,45 +160,53 @@ portadocumentos, carteras de mano
 
 (portafolios) cartapacios,
 
-fundas y estuches para gafas, gemelos,
+fundas y estuches para gafas,
 
-aparatos fotográficos, cámaras,
+gemelos, aparatos fotográficos,
 
-instrumentos de música o armas, y
+cámaras, instrumentos de música
 
-continentes similares; sacos de viajes,
+o armas, y continentes similares;
 
-bolsas de aseo, mochilas, bolsos de
+sacos de viajes, bolsas de aseo,
+
+mochilas, bolsos de
 
 mano, bolsas para la compra,
 
-billeteras, portamonedas, portamapas,
+billeteras, portamonedas,
 
-petacas, pitilleras y bolsas para
+portamapas, petacas, pitilleras
 
-tabaco, estuches para herramientas,
+y bolsas para tabaco, estuches
 
-bolsas para artículos de deportes,
+para herramientas, bolsas para
+
+artículos de deportes,
 
 estuches para botellas, joyas,
 
-maquillajes y orfebrería y continentes
+maquillajes y orfebrería y
 
-similares, de cuero natural, artificial
+continentes similares, de cuero
 
-o regenerado, de hojas de plástico,
+natural, artificial o regenerado,
 
-materias textiles, fibra vulcanizada o
+de hojas de plástico, materias
 
-cartón, o recubiertos totalmente o en
+textiles, fibra vulcanizada o
 
-su mayor parte, de estas materias.
+cartón, o recubiertos totalmente
+
+o en su mayor parte, de estas
+
+materias.
 
 4203 Prendas y complementos de vestir de
 
-cuero natural o de cuero artificial o
+cuero natural o de cuero artificial
 
-regenerado.
+o regenerado.
 
 4420 Adornos y demás artículos de madera.
 
@@ -192,25 +214,29 @@ regenerado.
 
 4817 Sobres, tarjetas.
 
-4818 Papel higiénico, toallitas, pañuelos,
+4818 Papel higiénico, toallitas,
 
-manteles, servilletas, pañales, toallas
+pañuelos, manteles, servilletas,
 
-y tampones higiénicos, sábanas y
+pañales, toallas y tampones
 
-artículos similares para uso doméstico,
+higiénicos, sábanas y artículos
+
+similares para uso doméstico,
 
 de tocador, higiénico o clínico,
 
-prendas y complementos de vestir, de
+prendas y complementos de vestir,
 
-pasta de papel, papel, guata de
+de pasta de papel, papel, guata de
 
-celulosa o napas de fibras de celulosa.
+celulosa o napas de fibras de
 
-4820 Agendas, carpetas, álbumes de papel o
+celulosa.
 
-cartón.
+4820 Agendas, carpetas, álbumes de
+
+papel o cartón.
 
 4909 Tarjetas postales impresas o
 
@@ -218,17 +244,17 @@ ilustradas.
 
 6117 Los demás complementos de vestir
 
-confeccionados, de punto; partes de
+confeccionados, de punto; partes
 
-prendas o de complementos de vestir, de
+de prendas o de complementos
 
-punto.
+de vestir, de punto.
 
 6214 Chales, pañuelos de cuello,
 
-pasamontañas, bufandas, mantillas,
+pasamontañas, bufandas,
 
-velos.
+mantillas, velos.
 
 6215 Corbatas y lazos similares.
 
@@ -238,15 +264,19 @@ velos.
 
 6505 Sombreros de tejido de punto.
 
-6601 Paraguas, sombrillas y quitasoles.
+6601 Paraguas, sombrillas y
 
-6913 Estatuillas y demás objetos de adorno,
+quitasoles.
 
-de cerámica.
+6913 Estatuillas y demás objetos
 
-7013 Objetos de vidrio para el servicio de
+de adorno, de cerámica.
 
-mesa, de cocina, de tocador, de
+7013 Objetos de vidrio para el
+
+servicio de mesa, de cocina,
+
+de tocador, de
 
 oficina, y de adorno.
 
@@ -274,17 +304,19 @@ metales preciosos.
 
 incluso por inmersión; aparatos
 
-electrotérmicos para el cuidado del
+electrotérmicos para el cuidado
 
-cabello; planchas eléctricas y hornos
+del cabello; planchas eléctricas
 
-microondas.
+y hornos microondas.
 
-8519 Tocadiscos, reproductores de casetes y
+8519 Tocadiscos, reproductores de
 
-demás reproductores de sonido, sin
+casetes y demás reproductores
 
-dispositivo de grabación.
+de sonido, sin dispositivo de
+
+grabación.
 
 9004 Gafas (anteojos) para el sol.
 
@@ -292,45 +324,57 @@ dispositivo de grabación.
 
 9006 Aparatos fotográficos.
 
-9007 Cámaras y proyectores cinematográficos.
+9007 Cámaras y proyectores
 
-9101 Relojes pulsera y de bolsillo, con caja
+cinematográficos.
 
-de metales preciosos o chapados de
+9101 Relojes pulsera y de bolsillo,
 
-metales preciosos.
+con caja de metales preciosos o
+
+chapados de metales preciosos.
 
 9102 Relojes pulsera y de bolsillo,
 
-distintos de los de la Partida 9101.
+distintos de los de la Partida
+
+9101.
 
 9103 Despertadores y demás relojes con
 
 pequeño mecanismo de relojería.
 
-9104 Relojes para tableros de automóviles.
+9104 Relojes para tableros de
+
+automóviles.
 
 9502 Muñecas.
 
-9503 Juguetes; modelos reducidos y modelos
+9503 Juguetes; modelos reducidos y
 
-similares para entretenimiento, incluso
+modelos similares para
 
-animados; rompecabezas.
+entretenimiento,
 
-9504 Videojuegos, los juegos de ajedrez,
+incluso animados;
 
-damas, dominó, halma, chaquete,
+rompecabezas.
 
-honchel, loto y mahjong.
+9504 Videojuegos, los juegos de
+
+ajedrez, damas, dominó, halma,
+
+chaquete, honchel, loto y
+
+mahjong.
 
 9506 Artículos y material para gimnasia,
 
 atletismo y deportes.
 
-9507 Cañas de pescar y demás artículos para
+9507 Cañas de pescar y demás artículos
 
-la pesca.
+para la pesca.
 
 9601 Manufacturas de marfil.
 
@@ -338,17 +382,17 @@ la pesca.
 
 afeitar.
 
-9605 Conjuntos o surtidos de viajes para el
+9605 Conjuntos o surtidos de viajes para
 
-aseo personal, costura o limpieza de
+el aseo personal, costura o limpieza
 
-calzado o de las prendas.
+de calzado o de las prendas.
 
-9608 Bolígrafos, rotuladores, y marcadores,
+9608 Bolígrafos, rotuladores, y
 
-estilográficas y otras plumas,
+marcadores, estilográficas y
 
-portaminas.
+otras plumas, portaminas.
 
 9613 Encendedores.
 
@@ -356,11 +400,13 @@ portaminas.
 
 9615 Peines y peinetas.
 
-9617 Termos y demás recipientes isotérmicos,
+9617 Termos y demás recipientes
 
-montados y aislados por vacío, así como
+isotérmicos, montados y aislados
 
-sus partes (excepto las ampollas de
+por vacío, así como sus partes
+
+(excepto las ampollas de
 
 vidrio).
 
