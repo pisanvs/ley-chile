@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº512, 18 agosto 2004, Serviu Región del Bío Bio ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº 1937, Rol de Avalúo Nº3105-35, comuna Chiguayante, superficie 225,77 metros cuadrados de terreno y 204 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R 19.096, de aparente dominio de Brigitte Bertsch Schubiger, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Eduardo Rivera Gajardo, arquitecto, Alejandra Gutiérrez Flores, arquitecto y Marcelo Andrade Pérez, arquitecto, según informe de fecha 22 de julio 2004, fijó monto provisional indemnización en $33.079.798.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
