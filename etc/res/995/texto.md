@@ -1,0 +1,3 @@
+Por resolución N° 995, de 21 de Octubre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año a contar del 30 de septiembre de 1992, el plazo otorgado a doña ANDREA XIMENA JARA ITURRA, R.U.T. N° 8.327.154-K, para instalar y operar un establecimiento de cultivo en un sector del Lago Tepuhueico, comuna de Chonchi, Provincia de Chiloé, X Región, autorizada por la resolución N° 1126, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 21 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
