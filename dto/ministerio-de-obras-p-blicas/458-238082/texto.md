@@ -1,0 +1,3 @@
+Por Decreto MOP N° 458, de 28 de junio de 1996, se expropiaron los lotes de terreno N°s. 56, 59, 60, 71, 72, 75 y 76, superficie 2.836 m2., 103 m2., 2.566 m2., 4.011 m2., 1.275 m2., 4.570 m2. y 747 m2., rol avalúo 2229-97, 2229-130, 2229-10 y 2224-15, comuna de Chillán, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Julia Luisa Quijada González y otro, Domitila González Escalona, Julia Luisa Quijada González, José Miguel Venegas Franco y Carmela Enedina Prado Lillo, ascendente a la cantidad de $4.706.217.-, $51.435.-, $2.552.783.-, $1.494.381.- y $1.717.832.-, respectivamente.
+
+- Fiscal del Ministerio de Obras Públicas.
