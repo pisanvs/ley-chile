@@ -1,0 +1,5 @@
+AUTORIZA A CULTIVOS MARINOS TONGOY LIMITADA PARA PROSEGUIR CON LAS ACTIVIDADES PESQUERAS QUE INDICA)
+
+Por resolución Nº 289, de 9 de Agosto de 1983, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Cultivos Marinos Tongoy Limitada, con domicilio en la ciudad de Santiago, para continuar con el desarrollo de las actividades pesqueras autorizadas a Fundación Chile, consistentes en la operación del laboratorio marino de ambiente controlado (Hatchery), en la operación del establecimiento de crecimiento y engorda de la semilla producida en el laboratorio y en el cultivo de abalón rojo, turbot, lenguado, corvina y choro, instalados por la citada Fundación en la localidad de Tongoy, comuna de Coquimbo, IV Región. Además, se derogan las resoluciones Nºs. 317, de 1980 y 161, de 1982, de la Subsecretaría de Pesca, que autorizaron a Fundación Chile para realizar las actividades antes señaladas.
+
+Santiago, 9 de Agosto de 1983.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
