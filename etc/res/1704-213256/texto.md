@@ -1,0 +1,5 @@
+Por resolución Nº 1.704 de 29 de julio de 2003, de esta Subsecretaría, prorrógase hasta el 15 de agosto del 2003 el período de extracción del recurso Loco Concholepas concholepas desde las áreas de manejo establecidas entre la VII y XI regiones que, contando con una cuota de extracción autorizada para el recurso indicado, no hubiere sido extraída en su totalidad al 31 de julio del presente, quedando sometido en lo demás a las disposiciones establecidas en las resoluciones que autorizaron la extracción.
+
+Prorrógase hasta el 15 de agosto del 2003 el período de extracción del recurso Loco establecido en las resoluciones que autorizan pescas de investigación sobre dicho recurso entre la IX y XI regiones, sólo en los casos en que las cuotas autorizadas no hubieren sido extraídas en su totalidad al 31 de julio del presente, quedando sometido en lo demás a las disposiciones establecidas en las resoluciones que autorizaron la extracción.
+
+Valparaíso, 29 de julio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
