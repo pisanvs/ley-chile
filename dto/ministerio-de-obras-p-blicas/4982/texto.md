@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.982, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº6, superficie 74,00 m², rol de avalúo 620-8, comuna de Ovalle, para la obra ''Camino Ruta D-585, Ovalle-Huamalata-Algarrobo, Sector Ovalle-Villaseca, Km. 0,00000 a Km. 5,98083'' y se acordó el valor de indemnización con su propietario Jorge Estanislao Martínez Flores, ascendente a la cantidad de $406.569.
+
+Fiscal del Ministerio de Obras Públicas.
