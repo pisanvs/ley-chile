@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.894 de fecha 29 de octubre de 2002, se expropiaron los lotes de terreno Nºs 65 y 67, superficies 6.540,00 y 3.147,00 m2, rol de Avalúo Nº536-26, comuna de Río Bueno, para la obra ''Camino Río Bueno Crucero, Sector T-90-U y T-933, Tramo Km. 0,00000 a Km. 20,90000'', X Región, y se acordó el valor de la indemnización con su propietario Víctor Germán Heinrich Heinrich, ascendente a la cantidad de $6.307.419.-
+
+Fiscal del Ministerio de Obras Públicas.
