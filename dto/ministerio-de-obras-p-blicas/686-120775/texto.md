@@ -1,0 +1,3 @@
+Por decreto MOP. N° 686, de 29 de mayo de 1998, se expropió el lote de terreno N° 47-A, superficie 2.518 mý, Rol de Avalúo 220-28, comuna de Santa Juana, para la obra Camino de La Madera, sector Bifurcación Diuquín - Santa Juana, Km. 10.000 al 22.500, y se acordó precio de la indemnización con su propietario Gricelda Carrasco Jofré, ascendente a la cantidad de $ 541.089.- para el lote N° 47-A.-
+
+Fiscal del Ministerio de Obras Públicas.
