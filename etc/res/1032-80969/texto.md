@@ -1,0 +1,3 @@
+Por Resolución No. 1.032 de 28 de Agosto de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 6 meses desde la fecha de la presente Resolución, el plazo otorgado a SOCIEDAD COMERCIAL E INDUSTRIAL AGROMAR LTDA., RUT No. 89.042.600-K, domiciliada en Castro, en el numeral 5° de la Resolución No. 799 de 1990, de esta Subsecretaría, por haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 28 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
