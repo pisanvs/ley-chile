@@ -1,0 +1,3 @@
+Por resolución Nº 1.000, de 1 de junio de 2000, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 342, de 1984, y Nº 354, de 1985, de esta Subsecretaría que autorizaron a don BRIAND GONSALES FRANKIS para operar la nave ''Astrid Sue'' sobre los recursos Camarón nailon, Bacalao de profundidad y Langostino amarillo, en el litoral de la III y IV Regiones, Merluza común, Langostino colorado y Langostino amarillo, en el litoral de la V a VIII Regiones, en virtud de los artículos 7 y 8 del D.S. Nº 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 1 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
