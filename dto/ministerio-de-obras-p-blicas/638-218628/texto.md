@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 638, de 30 de octubre de 1995, se expropiaron los lotes de terreno Nºs. 3, 5, 9, 10 y 19, superficies 699, 3.110, 152, 160 y 1.120 M2., respectivamente, roles de avalúo Nºs. 337-60, 333-48, 336-26, 336-1, comunas de Nacimiento y Santa Juana, para la obra Camino de la Madera, sector Bifurcación Diuquín-Santa Juana y se acordó precio de indemnización con sus propietarios Reineria González Medina, Luis Medina Medina, Eduardo Martínez Martínez y Teresila Fuentes Medina, ascendente a las cantidades de $ 110.931, $658.076, $66.019 y $177.744.
+
+Fiscal del Ministerio de Obras Públicas.
