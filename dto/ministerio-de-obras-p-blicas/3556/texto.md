@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.556, de 30 de noviembre de 1999, se expropiaron los lotes de terreno Nºs. 8 y 9, superficies 2.492 y 382 M2 respectivamente, rol de avalúo 536-60, comuna de Río Bueno, X Región, para la obra Camino Río Bueno - Crucero, Rol T-90-U y T-933, y se acordó precio de indemnización con su propietaria María Pinninghoff Junemann, ascendente a la cantidad de $2.386.945.
+
+Fiscal del Ministerio de Obras Públicas.
