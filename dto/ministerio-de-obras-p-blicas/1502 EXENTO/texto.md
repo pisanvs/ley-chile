@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.502, de 23 de octubre de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 30 y 43 para la obra: Camino Ruta T-80, Sector La Unión-Las Trancas, Tramo Km. 0,900 a Km.
+
+10,99034, que figuran a nombre de Inmob La Aurora de Coval Ltda y Figueroa Soto Selín, roles de avalúo 524-287 y 524-89, comuna de La Unión, X Región, superficies 2.980 m2 y 1.810 m2. La Comisión de Peritos fijó, con fecha 21 de enero de 2000, complementada por acta de fecha 7 de septiembre de 2000, sólo en lo que respecta al lote Nº30, el monto de la indemnización provisional en la cantidad de $745.000.- para el lote Nº30 y $947.500.- para el lote Nº43. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
