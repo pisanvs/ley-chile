@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 1.474, de 27 de octubre de 2004, modificado por decreto exento MOP Nº 1.602, de 22 de noviembre de 2004 y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997; que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 11-A, para la ejecución de la obra "Camino Mejoramiento Ruta S-269 Padre Las Casas - Niagara, Sector Km. 0.000,00 a Km. 17.357,22, tramo Km.
+
+2.300 al Km. 17.340", que figura a nombre de Aliquintui Urrutia Ruperto, rol de avalúo 3283-506; comuna de Padre Las Casas, IX Región, superficie 821 m². La Comisión de Peritos con fecha 29 de diciembre de 2003, fijó el monto de la indemnización provisional en la cantidad de $1.950.255, para el lote Nº 11-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
