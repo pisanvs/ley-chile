@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 663 de fecha 30 de abril del 2004, se expropió el lote de terreno Nº 572, superficie 227 m², rol Nº 32-435, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 0,00000 al Km. 12,70000" y se acordó el valor de indemnización con su propietario Omar Arturo Vera Soto, ascendente a la cantidad de $1.833.333.- para el lote Nº 572.
+
+Fiscal del Ministerio de Obras Públicas.
