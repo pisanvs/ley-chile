@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 1.155 de 25 de agosto de 2004 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 49 para la obra "Proyecto: Camino Internacional Ruta 60 CH. Sector 2: Km. 0.000,00 al Km. 38.500,00. Tramo 1: Km.
+
+0.000,00 al Km. 21.000,00" Quinta Región, que figura a nombre de Ilustre Municipalidad de La Calera, sin rol de avalúo, comuna de La Calera, superficie 144 m2. La comisión de peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Mauricio Rodrigo Rojo Vega y Miguel Juan Fernández Cádiz, fijó con fecha 21 de junio de 2004, el valor provisional de la indemnización en la cantidad de $576.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
