@@ -1,0 +1,9 @@
+AUTORIZA A DON ENRIQUE SEGUNDO VALDES ARCE Y A DON LUIS ALBERTO CEPEDA ELIZONDO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA
+
+Por Resolución No. 970 de 08 de Agosto de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Enrique Segundo Valdés Arce, R.U.T. No. 7.278.087-6 y a don Luis Alberto Cepeda Elizondo, R.U.T. No. 6.650.446-8, ambos domiciliados en calle 12 de Febrero No. 1510, Iquique, para iniciar actividades pesqueras, en orden a procesar en la planta industrial ubicada en calle 12 de Febrero No. 1510, Iquique, en la línea de elaboración de congelado los siguientes recursos hidrobiológicos: Acha, Cojinoba del norte, Congrio, Corvina, Lenguado ojos chicos, Lenguado ojos grandes, Pejeperro, Pejerrey de mar, Sardina, Almeja o taca, Almeja, Caracol locate, Macha, Pulpo, Camarón nailon, Jaiba, Langostino amarillo y Piure.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias o que se establezcan. Se deniega la autorización solicitada por los peticionarios, para procesar el recurso Loco, de acuerdo a lo establecido en el Decreto No. 126, de 1989, del Ministerio de Economía, Fomento y Reconstrucción.-
+
+Se deniega la autorización solicitada para procesar el recurso langostino colorado, de conformidad a lo establecido en el Decreto No. 421, de 1989, del Ministerio de Economía, Fomento y Reconstrucción; y respecto del langostino amarillo se necesitará acreditar su procedencia mediante la correspondiente Guia de libre tránsito otorgada por el Servicio Nacional de Pesca.
+
+Valparaíso, 08 de Agosto de 1990.Andrés Couve Rioseco, Subsecretario de Pesca.
