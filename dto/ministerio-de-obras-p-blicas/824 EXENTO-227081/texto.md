@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 824 de fecha 31 de mayo del 2004, se expropió el lote de terreno Nº 101, superficie 295 m², Rol Nº 601-555, comuna de Nueva Imperial, IX Región para la obra "Camino Ruta S-16, sector Chol Chol - Nueva Imperial Tramo Km. 24,30269 al Km. 43,50000, Sub Tramo III Km. 35,380 al Km. 43,50000" y se acordó el valor de indemnización con su propietaria Cristina del Carmen Gonzalez Quezada, ascendente a la cantidad de $1.660.020.-.
+
+Fiscal del Ministerio de Obras Públicas.
