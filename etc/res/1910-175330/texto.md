@@ -1,0 +1,3 @@
+Por resolución Nº 1.910, de 6 de septiembre de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 507 de 1988, de esta Subsecretaría, sólo en cuanto autorizó a VICENTE SAAVEDRA ALCAYAGA para operar la nave ''Guajache'' en el área marítima de la I y II Regiones, respecto de los recursos hidrobiológicos Albacora, Atún aleta larga y Atún aleta amarilla, de conformidad con lo establecido en la letra b) del artículo 143 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 6 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
