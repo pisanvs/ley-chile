@@ -1,0 +1,9 @@
+RENUNCIA DEL MINISTRO DE HACIENDA
+
+Santiago, Junio 23 de 1828.
+
+Convencido el Gobierno de que no es justo obligar a que continúe en un destino al ciudadano que por haberlo desempeñado con la constancia y exactitud correspondiente a su gravedad, ha tocado en el riesgo de consumar el sacrificio de su salud, y de imposibilitarse absolutamente para cualesquiera otros a que pueda llamarlo el bien de la República, si oportunamente no se le exonera de obligaciones tan perjudiciales a su individuo; y cierto de que D. Ventura Blanco Encalada que ha servido hasta aquí el Ministerio de Hacienda, hallándose en el caso enunciado, no podria sobrellevar las vastas y complicadas atenciones de esta parte esencial de la administracion del Estado, sin agravar enormemente los males que aquejan su delicada salud, de resultas de la asiduidad y conato con que se consagró a las tareas de su cargo; tiene a bien ceder a las vivas y reiteradas instancias con que le ha pedido acepte la dimision que hace del expresado Ministerio; declarando que solo compelido por una razon tan poderosa como la que ha indicado, podría adoptar una medida que le cuesta el sentimiento mas acervo, porque con ella pierde el eficaz auxilio que recibía de sus luces, actividad, celo e incesante empeño por la felicidad de la República, y asegurándole de su gratitud y reconocimiento por tan eminentes servicios a la Nacion, a cuyo nombre será un deber suyo manifestarle en todas circunstancias, las distinguidas consideraciones a que le hacen acreedor su intachable honradez, su esclarecido patriotismo y demas prendas igualmente recomendables que lo adornan. Comuníquese y tómese razon.
+
+PINTO
+
+Rodríguez
