@@ -1,0 +1,5 @@
+Por decreto MOP Nº849, de 30 de abril de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº114-E, para la ejecución de la obra ''Camino Costero Tirúa - Carahue, Tramo Tranapuente - Carahue, Sector Km.
+
+55.438,97 - Km. 69.895,61; Km. 0.000 - Km. 3.927,45; Subtramo III, Km. 63.405 a Km. 3.100'', que figura a nombre de Salazar Valencia Nieve Arnoldo, rol de avalúo 261-4, comuna de Carahue, IX Región, superficie 870 M2. La Comisión de Peritos fijó con fecha 14 de agosto de 2001, el valor provisional de la indemnización en la cantidad de $4.537.050.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas .
