@@ -1,0 +1,3 @@
+Por resolución Nº 2.187, de 21 de octubre de 1999 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96110218, presentada por THOMAS CHACE KEHLER, para operar un centro de cultivo ubicado en Golfillo de la Lobada de Quetros, sector Isla Marta, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 21 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
