@@ -1,0 +1,3 @@
+Por resolución Nº 773, de 17 de mayo de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.290 de 1996, que autorizó a SOCIEDAD PESQUERA FRANCO LIMITADA, para operar una nave en construcción denominada ''Jofrani'', matrícula 2495 de Quintero, en virtud de lo dispuesto en la letra b) y d) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 17 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
