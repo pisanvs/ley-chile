@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.721 de fecha 30 de junio de 2000, se expropió los lotes de terreno Nºs. 36-A y 37-A, superficie 132,00 y 340,00 m2, respectivamente, rol de avalúo 125-14, comuna de Curaco de Vélez, para la obra ''Camino Ruta W-59, Sector Dalcahue - Achao, Km. 0,00000 a Km. 19,71856'' y se acordó el valor de indemnización con su propietario Raúl del Carmen Ampuero Serón, ascendente a la cantidad de $272.924.
+
+Fiscal del Ministerio de Obras Públicas.
