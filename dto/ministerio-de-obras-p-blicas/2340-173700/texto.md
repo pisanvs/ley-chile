@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.340, de 30 de mayo del 2000, se expropió el lote de terreno Nº132, superficie 180 m2, rol de avalúo 5356-23, comuna de La Granja, para la obra Concesión Inernacional Ruta 5, Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Carlos Enrique Jiménez Gutiérrez, ascendente a la cantidad de $19.637.433.
+
+Fiscal del Ministerio de Obras Públicas.
