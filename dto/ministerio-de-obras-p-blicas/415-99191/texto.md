@@ -1,0 +1,5 @@
+Por decreto MOP. Nº 415, de 31 de marzo de 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s 150-A y 150-B, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, sector km.
+
+21.900,00 al km. 26.200,00, que figura a nombre de Besa Carvajal Juan Pablo y ot., Rol de Avalúo Nº 150-177, Comuna de Lampa, superficies 1.218 y 95 m2. La comisión de peritos integrada por Luz Araya Elizalde, René Armando Cruz Momberg y Leonardo Enrique Bastías Tessada, fijó con fecha 11 de diciembre de 1997, los valores provisionales de la indemnización son las cantidades de $ 5.332.850.- para el lote 150-A y $ 410.875.- para el lote 150-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
