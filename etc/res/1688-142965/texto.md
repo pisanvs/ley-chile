@@ -1,0 +1,3 @@
+Por resolución Nº 1.688, de 1 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 98121008, presentada por SOCIEDAD MARITIMA Y TURISTICA CABO FROWARD LIMITADA, para operar un centro de cultivo ubicado en Bahía del Aguila, comuna de Punta Arenas, provincia de Magallanes, XII Región.
+
+Valparaíso, 1 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
