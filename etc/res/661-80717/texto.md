@@ -1,0 +1,3 @@
+Por resolución No. 661, de 11 de Junio de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por seis meses a contar de la fecha de la presente Resolución, el plazo otorgado a Sociedad Comercial e Industrial Giordano Ltda. y Compañía en Comandita por Acciones o Pesquera Isluga Ltda. y Cía CP A., R.U.T. No. 87.001.100-8, domiciliada en Casilla No. 730, Iquique, para empezar a operar la nave "Surire", autorizada por la Resolución No. 1969, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 11 de Junio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
