@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.337, de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 2, superficie 75 m2, Rol Nº 8004-75, comuna de Alto del Carmen, III Región, para la obra "Mejoramiento Ruta C-495, Camino Alto del Carmen - Conay, Provincia del Huasco, Región de Atacama, Etapa II" y se acordó el valor de indemnización con su propietaria doña Gloria de Lourdes Alvarez Rodríguez, ascendente a la cantidad de $592.760.
+
+Fiscal del Ministerio de Obras Públicas.
