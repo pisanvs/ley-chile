@@ -1,0 +1,3 @@
+Por resolución exenta Nº 951, de 6 de abril de 2004, de esta Subsecretaría, autorízase a PESQUERA PACIFIC STAR SOCIEDAD ANONIMA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Ruta 5 Sur, kilómetro 1171, sector Piruquina, Castro, X Región, en las líneas de elaboración de concentrado de proteína soluble estabilizado obtenido de fracciones líquidas parcialmente desgrasadas extraídas durante la elaboración de harina y aceite de pescado, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 6 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
