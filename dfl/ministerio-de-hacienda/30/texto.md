@@ -1,0 +1,1 @@
+Suprime la Escuela Industrial de Pesca de San Vicente y la Escuela Industrial de Segunda Clase de Talcahuano y crea una Escuela Industrial de Primera Clase en esta última ciudad.
