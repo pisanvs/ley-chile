@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.415 de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº4, superficie 366,8 m², rol de avalúo Nº552-46, comuna de Linares, para el Camino Ruta L-45, Sector: Linares - Llepo, Tramo Km. 2,750.2 a Km. 13,147 y se acordó el valor de la indemnización con su propietario Juan Luis Vivanco Montecinos ascendente a la cantidad de $1.141.358.-
+
+Fiscal del Ministerio de Obras Públicas.
