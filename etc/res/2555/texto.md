@@ -1,0 +1,3 @@
+Por resolución Nº 2.555, de 23 de diciembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96103246, presentada por VICTOR SEBASTIAN VALLE VARAS, para operar un centro de cultivo ubicado en un Sector entre Curahue y Punta Lepe, Comuna de Castro, Provincia de Chiloé, X Región.
+
+Valparaíso, 23 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
