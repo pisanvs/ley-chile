@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.972, de fecha 31 de octubre de 2000, se expropiaron los lotes de terrenos Nºs 37-B, 40-A y 42, superficies 215, 52 y 165 m2., respectivamente, rol de avalúo 59-36, comuna de Chépica, para la obra ''Camino Chépica - Bif. Teno, Sector Cuesta El Peral - Chépica, Tramo Km. 5.250 a Km. 18.893,22'' y se acordó el valor de indemnización con su propietario Orlando del Carmen Díaz Díaz, ascendente a la cantidad de $1.186.473.-
+
+Fiscal del Ministerio de Obras Públicas.
