@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 75, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación total conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble General Bulnes No. 219, Rol 332-14. Santiago, aparente dominio Francisco Rojas Durán, superficie aproximada a expropiar 128 m2. Deslindes: Norte, 10,20 mts. con otro propietario Sur, 10,20 mts. con otro propietario; Oriente, 13,00 mts. con otro propietario y Poniente, 12,15 mts. con calle General Bulnes. Indemnización provisional $ 2.754.000.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
