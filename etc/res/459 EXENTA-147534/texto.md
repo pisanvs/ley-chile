@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 459 de 23 de Abril de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas N°s. 1 a la 7 y sitios 1 al 4 del Proyecto de Parcelación "Quiñantu" formado por predio Quiñantu de la comuna de Maule, Séptima Región. Los Derechos de Agua se extraen del canal Quiñantu, derivado del Río Maule. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
