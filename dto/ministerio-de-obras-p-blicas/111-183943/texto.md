@@ -1,0 +1,3 @@
+Por decreto MOP Nº 111 de fecha 28 de febrero del 2001, se expropió el lote de terreno Nº 1, superficie 102 m², rol de avalúo 324-41, comuna de Laja, para la obra "Camino Santa Elcira-Laja, Sector Puente Chivato, Km. 0,00000 a Km. 0,20000" y se acordó el valor de indemnización con su propietario Sociedad Cuevas y Tarrason Ltda., ascendente a la cantidad de $256.166.-
+
+Fiscal del Ministerio de Obras Públicas.
