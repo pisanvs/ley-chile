@@ -1,0 +1,3 @@
+Por decreto MOP Nº448 de fecha 30 de abril del 2003, se expropiaron los lotes de terreno Nºs. 1, 2, 3, 4 y 5, superficies 107,75 m2, 791,50 m2, 2.062,38 m2, 2.090,46 m2 y 203,50 m2, rol de avalúo Nº329-64, comuna de Purranque, para la obra "Construcción Puente Las Juntas", X Región y se acordó el valor de la indemnización con su propietario Gerda Ortrud Siebert Werner, ascendente a la cantidad de $4.158.688.
+
+- Fiscal del Ministerio de Obras Públicas.
