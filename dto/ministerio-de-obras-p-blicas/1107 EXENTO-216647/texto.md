@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.107, de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº1, superficie 3.401 m2, rol de Avalúo Nº786-25, comuna de Ovalle, para la obra "Construcción Calle de Servicio Cerrillos Poniente-Enlace Fray Jorge Sector Cerrillos Km. 0,00110 a 1,56414", IV Región y se acordó el valor de la indemnización con su propietario Israel del Carmen Araya Tello, ascendente a la cantidad de $2.789.207.-
+
+Fiscal del Ministerio de Obras Públicas.
