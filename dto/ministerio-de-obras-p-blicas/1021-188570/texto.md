@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.021, de 29 de junio de 2001, se expropió el lote de terreno Nº 194-2, superficie 666 m2., rol de avalúo 179-29, comuna de Nogales, para la obra Camino Ruta 5 Norte Tramo Santiago-Los Vilos, Quinta Región y se acordó el valor de indemnización con sus propietarios Jaime Aliro Ramírez Navarro y otros, ascendente a la cantidad de $3.187.434.-
+
+Fiscal del Ministerio de Obras Públicas.
