@@ -1,0 +1,7 @@
+Villa de San Francisco del Monte
+
+Santiago, 25 de Febrero de 1814.
+
+El Gobierno se conforma en todas sus partes con el anterior dictámen del Ministerio Fiscal de lo Civil i Hacienda, sobre la solicitud entablada por el P. Guardian i Síndico del Convento de S. Francisco del Monte, para que se declare por Villa aquella poblacion bajo las condiciones que espresan en su representacion. Por tanto, decreta que desde esta fecha será llamada Villa Deseada de S. Francisco del Monte, i que para el arreglo i organizacion de sus calles, repartimiento de solares i otras cosas anexas a tan interesante establecimiento, se comisionan al P. ex-Provincial Dr. Fr. Francisco Javier Gnzman, al actual Guardian Fr. José Saavedra, i a D. Manuel Valdes i Bravo; con la calidad que cuando la Villa pueda pagar el terreno i edificios de la Recova pueda reasumirla para sus propios: concediéndole por ahora al Convento la gracia de que pueda cobrar el derecho de sombra de dos reales diarios, en que se ha calculado, en compensativo del gasto que va a hacer en levantar dicha Recova:
+
+tómese razon de este decreto, en las oficinas que corresponda; trascríbase a los comisionados i publíquese en El Monitor. - Echeverría.
