@@ -1,0 +1,1 @@
+Por Decreto Alcaldicio Nº 0331 del 29 de enero de 2004, se aprueba la Ordenanza Municipal Nº 23, sobre "Registro de Personas Jurídicas Receptoras de Fondos Públicos Municipalidad de Vicuña", cuyo texto se encuentra a disposición del público en la Secretaría de Planificación y Secretaría Municipal.
