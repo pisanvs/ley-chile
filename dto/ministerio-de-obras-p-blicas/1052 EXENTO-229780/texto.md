@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.052 de 29 de julio de 2004, se expropiaron los lotes de terreno Nº s. 79 y 80-A, superficies 753 y 198 m² respectivamente, Rol Nº 615-780, comuna de Nueva Imperial, IX Región para la obra "Camino Ruta S-16, Sector Chol Chol - Nueva Imperial Tramo Km. 24,30269 al Km. 43,50000, Subtramo II Km. 29,840 al Km. 35,215" y se acordó el valor de indemnización con su propietaria María Eduviges Garrido Torres, ascendente a la cantidad de $1.588.834.
+
+- Fiscal del Ministerio de Obras Públicas.
