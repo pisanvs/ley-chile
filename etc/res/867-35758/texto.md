@@ -1,0 +1,5 @@
+Por Resolución N° 867, de 20 de julio de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMERCIAL E INDUSTRIAL CHILE ALGAS S.A., R.U.T. N° 78.017.760-8, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en Fundo San José s/n, camino a Lirquén, Penco, VIII Región, en la línea de elaboración de Deshidratado artificial, los siguientes recursos hidrobiológicos: Cochayuyo, Chasca, Chascón, Chicorea de mar, Huiro, Luga-Luga, Pelillo, Anchoveta, Jurel, Merluza común, Sardina común, Almeja o taca, Almeja, Culengue, Lapa, Loco, Navaja de mar o Huepo, Navajuela, Erizo, Pepino de mar.
+
+El recurso Loco, además, podrá ser procesado en las líneas de conserva, fresco-enfriado y congelado.
+
+Valparaíso, 20 de julio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
