@@ -1,0 +1,3 @@
+Por Resolución exenta No. 578 de 31.08.90, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, modifícanse las resoluciones N°s. 579 de 09.06.90 y 1540 de 24.11.87, ambas del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, en el sentido de dejar establecido que la Compañía de Transportes Igi Llaima Internacional Sociedad Anónima y/o Cía. de Transportes Igi Llaima Internacional S.A., queda autorizada para efectuar servicio de transporte internacional terrestre de pasajeros entre Concepción - Temuco (Chile) y Zapala - Neuquén (Argentina) por Paso Pino Hachado. La empresa, alternativamente podrá utilizar los pasos habilitados y situados al sur del mismo.
+
+Sergio González Tagle, Subsecretario de Transportes.
