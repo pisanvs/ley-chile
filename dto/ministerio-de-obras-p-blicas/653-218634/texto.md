@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 653, de 31 de octubre de 1995, se expropió el lote de terreno Nº 59, superficie 1.440 m2, rol de avalúo 301-78, comuna de Peñaflor, para la obra Camino Autopista Santiago-San Antonio, sector Empalme I. Riquelme-Bif. Malloco y se acordó el valor de indemnización con sus propietarios Héctor Bordones Castro y otra, ascendente a la cantidad de $15.936.496.
+
+Fiscal del Ministerio de Obras Públicas.
