@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.699, de 24 de junio de 1999, se expropió el lote de terreno No. 153-A, superficie 124 m2., rol de avalúo 191-56, comuna de Collipulli, para la obra "Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli", Novena Región y se acordó el valor de indemnización con su propietario José Erasmo Liguen Sáez, ascendente a la cantidad de $ 255.024.-
+
+Fiscal del Ministerio de Obras Públicas.
