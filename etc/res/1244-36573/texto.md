@@ -1,0 +1,3 @@
+Por Resolución N° 1.244, de 2 de julio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por VICTOR GUSTAVO GUERRERO OYARZUN, para un centro de cultivo ubicado en Estero Guamblad, Comuna de Quellón, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67°, inciso 5°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 2 de julio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
