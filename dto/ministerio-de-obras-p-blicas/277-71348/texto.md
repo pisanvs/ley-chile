@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 277, de 31 de marzo de 1997, se expropió el lote de terreno Nº 2, superficie 3.884,48 m2., rol de avalúo 601-180, comuna de Nueva Imperial, para la obra Camino Protección Ribera Norte Río Cautín, sector Puente Almagro y se acordó precio de la indemnización con su propietaria doña Florinda Millaqueo Quintrel, ascendente a la cantidad de $2.608.472.
+
+Fiscal del Ministerio de Obras Públicas.
