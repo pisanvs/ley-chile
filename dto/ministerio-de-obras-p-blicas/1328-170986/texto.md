@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.328, de 17 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840, se expropió el lote de terreno Nº6-A, para la obra Camino Costero Tirúa - Carahue, Tramo Bajo Yupehue - Cruce Puyanhue, Sector: Km. 23.348,46 - Km. 41.637,97 / Km.
+
+41.769,92 - Km. 45.286,79 que figura a nombre de Leopoldo Astorga Peña, rol de avalúo 519-47 de la comuna de Carahue, superficie 2.680 m2. respectivamente. La Comisión de Peritos fijó con fecha 7 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $929.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
