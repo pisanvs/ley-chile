@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 2.034 de 31 de diciembre de 2001, se expropiaron los lotes de terreno Nos 37-1 y 37-2, superficies 1.480 y 438 m², rol de avalúo 608-19, comuna de Mulchén, para la obra Concesión Internacional Ruta 5. Tramo: Chillán Collipulli. Sector: Kms. 522.800,00 al 527.100,00 By Pass San Carlos de Purén, Octava Región y se acordó el valor de indemnización con su propietaria Ruth Neuman Pacheco y otras, ascendente a la cantidad de $2.275.923.-.
+
+Fiscal del Ministerio de Obras Públicas.
