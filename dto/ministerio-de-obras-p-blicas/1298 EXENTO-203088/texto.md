@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.298 de fecha 30 de agosto de 2002, se expropiaron los lotes de terreno Nº89 y 90, superficies 1.240 y 4.163 m², rol de avalúo Nº486-4, comuna de Cauquenes, para la obra ''Camino Mejoramiento Ruta 126, Los Conquistadores, Sector 2 Carrizal - Puente Belco'' VII Región y se acordó el valor de la indemnización con su propietario Domingo Arellano Canales, ascendente a la cantidad de $2.934.985.-
+
+Fiscal del Ministerio de Obras Públicas.
