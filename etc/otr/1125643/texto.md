@@ -1,0 +1,7 @@
+﻿ Donacion de una obra
+
+Excmo. Señor Supremo Director del Estado Chileno:
+
+Todos los que íntimamente persuadidos por una madura reflexion, de que son inalienables los derechos del pueblo, se deciden altamente por el que tienen, para aspirar a la posesion de su civil libertad, deben esforzarse por su parte, a que un glorioso fin corone los faustos principios con que comenzaron tan gloriosa carrera. Penetrado de esta idea, i estorbándome la inopia peculiar de mi Seráfico instituto contribuir con erogacion pecuniaria al sosten de la justa causa comun, serví la capellanía del número 4 de Chile desde fines de Noviembre hasta mediado de Marzo en la nacional ciudad de Rancagua no solo con la posible exactitud, sino tambien espontanea i gratuitamente. La ilustracion popular, que V.E. promueve con actividad es sin duda poderoso medio para la asecucion de nuestro digno empeño. Juzgo contribuirá a ella la coleccion de los viajes hecha por Mr. Prevost. La tengo de mi uso en sesenta i ocho tomos, en octavo, pasta fina i adornada de multitud de mapas i cartas jeográficas, i con el permiso de mi Superior la ofrezco al servicio público. Dígnese V.E. admitirla a nombre de la esforzada nacion Chilena, que de corazon ama.- Fr. Gregorio Vázquez.
+
+Santiago, i Abril 16 de 1819.- Se admite la patriótica i jenerosa oferta del ciudadano Fr. Gregorio Vázquez, dándosele por ella las debidas gracias a nombre de la Patria. Insértese en la Gaceta Ministerial esta representacion i su proveido para satisfaccion del donante.- O'Higgins. Echeverría.
