@@ -16,7 +16,7 @@ Artículo l°.- La Dirección de Asuntos Indígenas del Ministerio de Tierras y 
 
 #### Artículo 2°
 
-Habrá becas para los alumnos indígenas de la enseñanza primaria, secundaria, especial, técnica y universitaria.
+Habrá becas para los alumnos indígenas de la enseñanza primaria, secundaria, especial, técnica y universitaria. Las becas se extenderán también a los estudiantes indígenas, egresados de cualquier grado de la enseñanza, que prosigan estudios de capacitación o perfeccionamiento profesional, en cualquiera institución fiscal, semifiscal o particular que promueva o fomente el perfeccionamiento profesional mediante cursos extensivos o intensivos, con residencia en Chile. Esta enseñanza especial no podrá comprender cursos inferiores a los seis meses de duración.
 
 #### Artículo 3°
 
