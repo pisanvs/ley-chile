@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República invertir hasta $ 500,000 para atender pago del personal a contrata del Ministerio de Tierras y Colonización, y faculta a la Caja Nacional de Ahorros para anticipar, en calidad de préstamo, esa cantidad.
