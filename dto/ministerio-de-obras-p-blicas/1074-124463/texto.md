@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.074, de 30 de julio de 1998, se expropió el lote de terreno No. 80, superficie 255 m2., Rol de Avalúo 505-39, comuna de Los Andes, para la Obra Camino Santiago-Colina-Los Andes, Sector "G" By Pass Los Andes "Empalme Ruta 60", Km. 0.080,00 al Km. 0.379,00, V Región, y se acordó precio de la indemnización con Stewart Acevedo Lillyan E., ascendente a la cantidad de $ 1.105.327.
+
+- Fiscal del Ministerio de Obras Públicas.
