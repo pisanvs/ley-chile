@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 577, de fecha 30 de abril del 2001, se expropiaron los lotes de terreno Nºs 134, 136, 138-A, 141 y 149, superficies 1.063 m2, 780 m2, 906 m2, 1.626 m2 y 335 m2, todos sin rol de avalúo, comuna de Alto del Carmen, para la obra "Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa IV" y se acordó el valor de indemnización con sus propietarios Ricardo Bolados Páez, Yexica Bolados Arriagada, Félix Bolados Páez, Belmor Bolados Flores y Basilia Paredes, ascendente a las cantidades de $549.969, lote Nº 134; $918.760, lote Nº 136; $1.071.818, lote Nº 138-A; $1.421.606, lote Nº 141 y $827.348, lote Nº 149.-
+
+Fiscal del Ministerio de Obras Públicas.
