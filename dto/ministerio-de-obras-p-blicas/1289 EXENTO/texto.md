@@ -1,0 +1,7 @@
+Por decreto MOP, exento Nº1.289, de 20 de septiembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs. 1, 82, 83, 84, 85 y 98, para la ejecución de la obra "Camino Costero Tirúa-Carahue, Tramo Bajo Yupehue-Puyanhué, Sector Km. 23.348,46 - Km.
+
+41.637,97; Km. 41.769,92 - Km. 45.286,79. Subtramo IV Km. 34.804 al Km. 39.858", que figuran a nombre de Celestina Sepúlveda, María Eleodora Ríos San Martín, Humberto Fierro Constanzo e Iván del Tránsito Fierro Yévenes, rol de avalúo sin rol y 514-106, comuna de Carahue, IX Región, superficies 1.997; 1.897; 474;
+
+1.242; 5.755 y 3.192,5m2. La comisión de peritos fijó con fecha 16 de septiembre de 1999, el valor provisional de la indemnización en la cantidad de $1.159.520, lote 81; $303.520, lote 82; $315.840, lote 83; $198.720, lote 85 y con fecha 28 de mayo de 1998, complementada por acta de fecha 16 de septiembre, en la cantidad de $758.875, lote 98. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
