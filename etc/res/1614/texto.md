@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION N° 1.614 EXENTA, DE 1993
+
+Por Resolución Exenta N° 1.614 de fecha 17.11.93, del Ministerio de Transportes y Telecomunicaciones, se autorizó complementariamente a la empresa de origen argentino Expreso Panamericano S.R.L, para efectuar servicio internacional de transporte terrestre de pasajeros entre Buenos Aires (Argentina) y Lima (Perú), en tránsito por territorio chileno y viceversa, utilizando los pasos fronterizos de Jama y Concordia, con Dos Frecuencias Semanales de ida y vuelta, con prohibición de efectuar tráfico en nuestro país, y autorizado el transbordo dentro del territorio nacional a vehículos de menor capacidad, los cuales deberán ser de propiedad de la Empresa. El viaje continuará hasta su destino final, siendo efectuado por otros vehículos de propiedad de la Empresa.-
+
+Sergio González Tagle, Subsecretario de Transportes.
