@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.412, de 29 de septiembre de 2000, se modificó el decreto MOP Nº796, de 13 de marzo de 2000, en el sentido que el propietario y rol de avalúo del lote Nº6 es Lucrecia Aranda González, rol 137-6, de la comuna de El Monte, necesario para la ejecución de la obra Camino Santiago - El Monte Ruta G-78, sector Pte. San Francisco en El Monte, kms. 0.000 al 1.623,36.
+
+Fiscal del Ministerio de Obras Públicas.
