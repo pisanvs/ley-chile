@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 85, de 10 de marzo de 2003 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL Nº 206, de 1960, se expropió el lote de terreno Nº 41-B1 para la obra:
+
+"Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli. Sector: Km. 506.200,00 al Km. 515.600,00. By Pass Los Angeles" Octava Región, que figura a nombre de Calabrano González Ana Luisa, rol de avalúo 1547-19, comuna de Los Angeles, superficie 928 m2. La Comisión de Peritos integrada por los señores Karin Alicia Ernst Elizalde, Omar Andrés Aspé Neira y Christian Cornelio Scherpenisse Infante, fijó con fecha 3 de enero de 2003, el valor provisional de la indemnización en la cantidad de $1.670.400.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
