@@ -1,0 +1,3 @@
+Por decreto MOP Nº698 de fecha 31 de mayo del 2001, se expropiaron los lotes de terreno Nºs 39, 40, 41, superficie 1.480, 7.952, 660 m2., respectivamente, rol de avalúo 65-03, comuna de Lonquimay, para la obra "Camino Malalcahuello-Paso Pino Hachado Rutas R-891, R- 955 y R-89, Sector Acceso Pedregoso, Km. 119.300.00 al Km. 141,000.00, correspondiente al Tramo 1 Km. 119,30000 al Km. 130,66000" y se acordó el valor de indemnización con su propietaria Graciela Gatica Garrido y otros, ascendiente a la cantidad de $1.948.872.-
+
+Fiscal del Ministerio de Obras Públicas.
