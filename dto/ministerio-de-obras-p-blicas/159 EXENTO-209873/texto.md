@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 159 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº 588-E, superficie 76 m2, Rol Nº 32-54, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 0,00000 a Km. 12,70000" y acordó el valor de indemnización con su propietario Nibaldo Antonio Farías Zúñiga, ascendente a la cantidad de $406.455.
+
+Fiscal del Ministerio de Obras Públicas.
