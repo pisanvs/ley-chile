@@ -1,0 +1,3 @@
+Por Resolución No. 40, de 20 de Enero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifícase la Resolución No. 1430, de 1991, de esta Subsecretaría, por la cual se autorizó a PESQUERA DEL CABO S.A. R.U.T. No. 96.520.580-2, domiciliada en San Martín No. 45, Concepción, para incluir en su línea de procesamiento de conservas de la planta ubicada en Porvenir No. 181, Manquimávida, Concepción, los recursos hidrobiológicos que en ella se señalan en el sentido de que donde dice "Marrajo Isurus Oxyrinchus" debe decir "Navaja Encis macha".
+
+Valparaíso, 20 de Enero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
