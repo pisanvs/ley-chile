@@ -1,0 +1,1 @@
+Por decreto MOP. Nº 3.512 de fecha 31 de julio del 2000, se dejó sin efecto el decreto MOP. Nº 1.956 de fecha 30 de julio de 1999, que ordenó la expropiación del lote Nº 62, por no ser necesario para la obra.
