@@ -1,0 +1,3 @@
+Por decreto MOP Nº815, de 31 de mayo de 2001, se expropió el lote de terreno Nº132, superficie 7.337 m², rol de avalúo 32-1, comuna de Requínoa, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector F, Sexta Región y se acordó el valor de indemnización con su propietaria Alicia Elena María de Begoña Martínez Grez, ascendente a la cantidad de $98.325.611.-
+
+Fiscal del Ministerio de Obras Públicas.
