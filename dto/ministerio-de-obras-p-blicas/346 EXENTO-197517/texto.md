@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº346, de 28 de marzo de 2002, y en base a la facultad otorgada por el artículo 105 del DFL. Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs 15, 19, 20, 22, 24 y 26, para la ejecución de la obra "Camino de Acceso Sur a Puente Lo Cartagena Km. 0.000 a Km. 1.483", que figuran a nombre de Luis A. Ríos Cerón, Humberto Hernán Miranda Latorre, Ariel Porfirio Manan Galaz y Rudecindo del C. Leiva Orellana, Roles de avalúo 200-100, 200-71, 200-69 y 200-126, comuna de Rengo, VI Región, superficies 7, 31, 14, 15, 7 y 15 M2. La Comisión de Peritos fijó con fecha 8 de octubre de 1999, la indemnización provisional en la cantidad de $187.000, lote 15; $186.000, lote 19;
+
+$84.000, lote 20; $759.000, lote 22; $250.000, lote 24 y $125.000, lote 26.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
