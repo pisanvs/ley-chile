@@ -1,0 +1,3 @@
+Por resolución No. 388, de 07 de Mayo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución No. 603, de 1987, de esta Subsecretaría, que autorizó a Sandalio Segundo Ruiz Rival R.U.T. No. 4.271.049-0, domiciliado en El Habal, La Pasada, Casilla 108, Maullín, para instalar y operar un establecimiento de cultivo de algas del género Gracilaria, en un sector de fondo de río, Río Cululil, sector Chanhué, Comuna de Maullín, Provincia de Llanquihue, X Región, en una extensión de aproximadamente 30.000 m!., por renuncia de su titular.
+
+Valparaíso, 07 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
