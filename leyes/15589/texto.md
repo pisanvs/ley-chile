@@ -1,0 +1,23 @@
+LEY NUM. 15.589
+
+AGREGA EN EL ARTICULO UNICO DE LA LEY NUMERO 15.175 LOS NOMBRES QUE SEÑALA
+
+Por cuanto el Congreso Nacional ha dado su aprobación al siguiente
+
+Proyecto de ley:
+
+#### Artículo 1
+
+o- Agréganse en el artículo único de la ley N.o 15.175, los siguientes nombres:
+
+José Miguel Saavedra Herrera; Juan Heraldo Rocuant; Alberto Aguilar Aguilar; Ricardo Segundo Araya Herrera; Eduardo Ramírez Balart; Carlos Alberto Latrille Molina; Benigno Segundo Garay Figueroa; Eduardo Ríos Ríos; Carlos Villagra Marín; Juan Acosta Huerta; José de Rosa Villagrán Bobadilla; Marcos Córdova Sosa; Guillermo Arturo Vega Araya; Ismael Evaristo Lillo Bustamante; Juan Elgueda Elgueda; Juan Nepomuceno Varas Alvarez; Abraham Barahona Rojas; José Samuel Navarrete Velásquez; Juan Vega Román; Juan de Dios Aravena Sarmiento; Claudio Antonio Segundo López Alvarez; Fabio Francisco Pacheco Pacheco; Olegario Trujillo Miller; Macaria Araya de Pérez; Vicente Ponce Oróstegui; Jorge Alfredo Urbina Barraza; Ernesto Cruz Devia; Luis Arturo Recabarren; Alejo Aurelio Villarroel Cavada; Rosalía Díaz Astorga; Victoriano Valencia Alvarez; José del Carmen Barría Barrientos; José Víctor Hodgson Zamorano; Pedro Pablo Rogers Vallejos; Gregorio Roberto Fernández Leyva; Salvador María Chamorro Saavedra; Arturo Camilo Lara Meneses; Brunilda Cortez; Salustio Segundo Ramírez; Pablo Cuevas Alvarez; Dámaso Miranda López; Camilo del Carmen Pérez Cortés; Moisés Zegarra Carrera; Quinto Zacarías Chávez Alvarez; José Isidoro Farías González; José Gavino Vera Silva; Angel Lucio Dávalos Granadino; Julio Guillermo Alvarado Alvarez; Manuel Díaz Díaz; Zacarías Saavedra Soto; María Saavedra de Mery; Manuel Jesús Domínguez Allendez; Zunilda Varas Núñez; Juan Williams Rivera; Daniel Segundo Coydan Manzur; Carlos Humberto Obregón Morán; Elcira del Carmen Acevedo Villarroel; Pedro Delfín González Aravena; Camilo Gustavo Aguilar Díaz; Francisco Segundo Marín Lagunas; Luis Carmona Valdivia; Ernestina Pizarro viuda de Díaz; Floridor Valencia Alvarez; Vicente Savaresse Sagardia; Bruno Segundo Méndez Rodríguez; Pedro Aníbal Contreras Zuleta; Juan Eduardo Benavides Carrera; Eugenio Segundo del Transito Olguín; José Galloso Benavides; Mariano Humberto Cortés González; Luis Alberto Gómez, Alberto Castillo Pastén; Alberto Segundo Yánez Briceño; Raúl Alfredo Vélez Brito; Guillermo Alfredo Lindsay Howard; Alfredo Segundo Garín Soto; Alberto Segundo Martínez Rodríguez; Manuel Antonio Alvarez Cortés; Luis Pérez Toro; José Segundo Guerrero; Manuel Segundo Salgado Serrano; Carlos Segundo Arancibia Araya; Santiago Cortés González; Alberto Juan Lindsay Howar; José Ernesto Soza; Juan Horacio Araya Campos; José Manuel Díaz Tapia; Severo Leonardo Martínez Bernal; Domingo Troncoso; José Aladino Velásquez Villaseca; Carlos Ortiz Parra; Rafael Vásquez Báez; Rafael Humberto Hiriart Cruz; Luis Felipe Soto Salas; Teodoro Hidalgo Arévalo; Segundo Vásquez Arraño; Alipio Avilés Vergara; Juan de Dios Segundo Díaz Jofré; Angela Malbrán Ibacache; Manuel Jesús Araya Herrera; Marcos Estalislao Medina Mendoza; Pedro León Hidalgo Arévalo; Juan F. Howard Fernández; Víctor Thomas Jessop S.; Stephen Coy S.; Guillermo Alberto Mericq González; José Miguel Avalos; Arturo Espinoza Rivera; Juan Bautista Jara Escobar; Damián Segundo Leiva Martínez; Ercilia del Tránsito Zúñiga Liñandaris; José Cartagena Vilche; Gregorio Segundo Díaz Aguilera; José Antonio Díaz; Juvenal Leiva Santibáñez; Carlos Páez Pino; Estanislao Medina Jordán; David Rojas Jorquera; Vicente Segundo Castillo Pastén; Secundino Alvarez Carrasco; Guillermo del Carmen Sarmiento Ruiz; Juan Fierro; Samuel Soto Ruz; José Luis Pizarro Díaz; Héctor Ramón González Vidal; Federico César Gaete Leiton; Carlos Enrique Fica Chamorro; Luis Galleguillos Galleguillos; Juan Segundo Puente Pizarro; Angel Belmonte Fernández; Eduardo Juan Luna Arancibia; Luis Bello Varas; Federico García Barraza.
+
+#### Artículo 2
+
+o- Las personas individualizadas en el artículo anterior gozarán de la pensión que concede la ley N.o 15.175, a contar de la fecha de publicación de la presente ley.
+
+Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, publíquese y llévese a efecto como ley de la República.
+
+Santiago, a nueve de Junio de mil novecientos sesenta y cuatro.- JORGE ALESSANDRI RODRIGUEZ.- Luis Mackenna S.
+
+Lo que transcribo a U. para su conocimiento.- Dios guarde a U.- Carlos Reed Valenzuela, Subsecretario de Hacienda.
