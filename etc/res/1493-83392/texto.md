@@ -1,0 +1,3 @@
+Por Resolución Nº1.493, de 5 de Diciembre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por un año a contar del 9 de junio de 1990, el plazo otorgado a EMPRESA NACIONAL DE PESCA S.A., R.U.T. Nº96.540.500-3, domiciliada en Santiago, en el numeral 5º de la Resolución Nº603, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 5 de Diciembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
