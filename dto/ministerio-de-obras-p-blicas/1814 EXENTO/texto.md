@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.814, de fecha 30 de noviembre del 2001, se expropiaron los lotes de terreno Nºs. 87, 88 y 89, superficie 670, 729 y 161 m², respectivamente, Rol de Avalúo Nº 63-38, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Acceso Pedregoso - Liucura, Km. 141,00000 al Km. 158,54000, correspondiente al tramo III Km. 153,84800 al Km. 158,54000" y se acordó el valor de indemnización con su propietario Anacleto Segundo Cordova Estrada, ascendente a la cantidad de $627.780.
+
+Fiscal del Ministerio de Obras Públicas.
