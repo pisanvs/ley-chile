@@ -1,0 +1,7 @@
+Por resolución Nº 92, de 21 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a HONORIO GARCES VERGARA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada Punta Aichu s/nº, Sector La Vega, Comuna de Calbuco, Provincia de Llanquihue, X Región, donde podrá procesar, en las líneas de elaboración que se señalan a continuación, los siguientes recursos hidrobiológicos: Fresco-Enfriado y Congelado: Bacalao de profundidad, Pejerrey de mar, Corvina, Macha, Almeja o taca, Tollo, Raya, Pejegallo, Chancharro, Cojinoba del sur, Congrio colorado, Congrio negro, Jurel, Merluza común, Merluza de cola, Brótula, Cabrilla común, Róbalo, Rollizo, Salmón del Atlántico, Calamar, Chorito, Cholga, Pulpo, Picoroco, Erizo, Piure, Loco, Culengue, Caracol picuyo y Lapa.
+
+El recurso Salmón del Atlántico, deberá provenir de centros de cultivos autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 21 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
