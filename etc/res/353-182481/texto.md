@@ -1,0 +1,3 @@
+Por resolución Nº 353 de 22 de febrero de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 98110168 presentada por HUMBERTO JOSE FISCHER LLOP, para instalar y operar un centro de cultivo ubicado en canal Bynon, sector sur de isla Benjamín-5, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 22 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
