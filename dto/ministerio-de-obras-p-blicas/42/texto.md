@@ -1,0 +1,3 @@
+Por Decretos M.O.P. N°s 42 y 58, de fechas 23 y 25 de febrero de 1993, se expropiaron los lotes de terreno N°s. 5- A, 1 y 3, superficies 190 M2., 330 M2. y 480 M2., roles de avalúos 24-28 y 23-66, Comuna de Olivar, para la obra Camino Olivar Coinco, se acordó el valor de indemnización con sus propietarios Luis Ramírez Gaete y Sociedad Agrícola Santa Julia Limitada, ascendente a las cantidades de $178.880 y $1.249.664, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
