@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº49 EXENTA, DE 1997
+
+Por Resolución Exenta Nº 49, de fecha 16 de junio de 1997, del Ministerio de Economía, Fomento y Reconstrucción, se ha dispuesto que para el cumplimiento del fallo de fecha 22 de abril de 1997 dictado por la Exma. Corte Suprema en el Recurso de Protección Rol 83-97, que dejó sin efecto la Resolución de este Ministerio Nº 112, de 1996, declarando vigentes las Resoluciones Nº 94, de 1996 y 1.001, de 1986, del Ministerio de Economía, Fomento y Reconstrucción y de la Subsecretaría de Pesca, respectivamente, corresponde que se realicen los actos jurídicos administrativos o se elaboren los oficios y documentos necesarios para dar cabal ejecución a lo resuelto por ese Tribunal, estableciéndose además, que se notifique dicha Resolución y la Resolución Ministerial Nº 94, de 1996, a la Subsecretaría de Pesca, para los fines legales pertinentes.-
+
+Oscar Landerretche Gacitúa, Subsecretario de Economía, Fomento y Reconstrucción.
