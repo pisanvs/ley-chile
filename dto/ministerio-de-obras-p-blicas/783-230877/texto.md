@@ -1,0 +1,3 @@
+Por decreto MOP Nº 783 de fecha 31 de agosto de 2004, se expropió el lote de terreno Nº 9, superficie 1.744 m2, rol de avalúo Nº 5170-45, comuna de Antofagasta, para la obra "Mejoramiento Costanera Norte, Antofagasta", II Región y se acordó el valor de la indemnización con su propietaria Jessica Marisol Rubina Rosales, ascendente a la cantidad de $32.002.696.-
+
+Fiscal del Ministerio de Obras Públicas.
