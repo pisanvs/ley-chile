@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.137, de 30 de julio de 2002, se expropió el lote de terreno Nº74, superficie 467 m2, rol de avalúo 141-32, comuna de Codegua, para la obra Concesión Internacional Ruta 5 Tramo Santiago-Talca. Sector C: Km. 56.30,00 al Km. 68.450,00, Sexta Región, y se acordó el valor de indemnización con su propietario Agrícola Santa Ana de Codegua Limitada, ascendente a la cantidad de $2.230.355.-
+
+Fiscal del Ministerio de Obras Públicas.
