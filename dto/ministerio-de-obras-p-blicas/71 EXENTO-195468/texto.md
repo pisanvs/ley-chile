@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº71, de 18 de febrero de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para la Empresa de Servicios Sanitarios de Coquimbo S.A., el lote de terreno Nº1, para la obra Colector de Aguas Servidas de Andacollo, Provincia de Elqui, IV Región, que figura a nombre de Suc. Soza Pastén, rol de avalúo 149-107, superficie 331 m2., comuna de Andacollo. La Comisión de Peritos, con fecha 14 de diciembre de 2001, fijó la indemnización provisional en la cantidad de $1.614.949, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
