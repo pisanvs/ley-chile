@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 938 de fecha 29 de junio del 2001, se expropió el lote de terreno Nº 1-A, superficie 367 m², rol de avalúo Nº 591-57, comuna de Yungay, para la obra "Area de Riego Yungay, Canal San José Adicional Ramal Nº 8 Km. 0,005 al Km. 0,977 del Proyecto Laja Diguillín", y se acordó el valor de indemnización con su propietario José Antonio Campos Peña, ascendente a la cantidad de $289.142.-
+
+Fiscal del Ministerio de Obras Públicas.
