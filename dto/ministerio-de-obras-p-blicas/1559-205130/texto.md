@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.559, de 16 de septiembre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 11-1 y 11-2, superficies 368 y 97 m2, rol de avalúo 4560-37, comuna de San Bernardo, Región Metropolitana, para la obra Sistema Norte - Sur Tramo A: Río Maipo - Las Acacias Sector: Kms 15.400,00 al 16.400,00.
+
+Posteriormente, Por decreto MOP Nº2.060, de 31 de octubre de 2002, se autorizó el Convenio Directo de Precio Ad Referéndum y se acordó el valor de indemnización con su propietario Banasur S.A., ascendente a las cantidades de $15.253.058.- para los lotes Nºs 11-1 y $3.975.837.- para el lote Nº11-2.-
+
+Fiscal del Ministerio de Obras Públicas.
