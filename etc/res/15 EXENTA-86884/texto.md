@@ -1,0 +1,7 @@
+DELEGA A PERSONA QUE SEÑALA FACULTADES PARA CONOCER Y RESOLVER DENUNCIAS POR INFRACCIONES TRIBUTARIAS
+
+En cumplimiento de la Resolución Nº Ex.15, de 6 de Enero de 1998, del Director del Servicio, el suscrito ha dictado la Resolución Nº Ex. 2, de 6 de enero de 1998, en virtud de la cual he procedido a delegar en el Jefe de la Oficina Jurídica Regional las facultades para conocer y resolver las denuncias por infracciones tributarias que se señalan y, además para conceder las condonaciones que se soliciten respecto de las sanciones que les corresponda aplicar, siempre que se cumplan las condiciones y requisitos establecidos en la mencionada Resolución Nº Ex. 15, de 6 de Enero de 1998, del Director.
+
+Coetáneamente con lo anterior, se ha dejado sin efecto la delegación de facultades hecha en la persona del jefe del Departamento Jurídico Regional y a que se refieren específicamente los números 1º y 2º de la Resolución Nº Ex. 3.180, de 28.08.1992, modificada por Resolución Nº Ex. 1.967, de 19.04.1995; y, Nºs 1º y 2º de la Resolución Nº Ex. 5.277, de 23.10.1997, modificada por Resolución Nº Ex. 5.458, de 31.10.1997, todas de la Dirección del Servicio.-
+
+Víctor Villa Lezana, Director Regional (S).
