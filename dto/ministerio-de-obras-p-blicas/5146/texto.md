@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.146, de 30 de noviembre de 2000, se expropió el lote de terreno Nº152-42, superficie 161 m², rol de avalúo 1282-87, comuna de La Calera, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región, y se acordó el valor de indemnización con su propietario Giannino Pierino Macellari Ceci, ascendente a la cantidad de $11.724.641.-
+
+Fiscal del Ministerio de Obras Públicas.
