@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 2.329, 2 julio 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Pasaje Amanda Labarca Nº 405 Lt 1, Inés Enríquez F., Rol de Avalúo Nº 3120-450, comuna Chiguayante, superficie 18,2 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R 19.199, de aparente dominio de Jaime César Medina Figueroa, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por María Carolina Poch, arquitecto, Luis Abarzúa Ceballos, constructor civil, y Lía Fuentealba Rohland, arquitecto, según informe de fecha 16 de junio de 2004, fijó monto provisional indemnización en $2.016.800.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
