@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 549 de fecha 30 de abril del 2002, se expropiaron los lotes de terreno Nºs 5 y 6, superficie 50 y 630 m2 respectivamente, Rol Nº 823-9, comuna de Vallenar, para la obra ''Construcción variante Ruta 5 - El Jilguero, Km. 0,0000 a km. 6,119703'', y se acordó el valor de indemnización con su propietario Yerco Castillo Rojas, ascendente a la cantidad de $1.406.700.
+
+Fiscal del Ministerio de Obras Públicas.
