@@ -1,0 +1,3 @@
+Por resolución Nº 777, de 27 de marzo de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Bahía Polocué, Sector A, X Región, individualizada en el artículo 1º, letra b), del D.S. Nº 700 de 2000, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, BUZOS MARISCADORES, ASISTENTES Y PESCADORES ARTESANALES "POLOCUE".
+
+Valparaíso, 27 de marzo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
