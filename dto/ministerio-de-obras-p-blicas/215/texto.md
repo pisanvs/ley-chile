@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 215, de 30 de Julio de 1993, se expropiaron los lotes de terreno N°s. 2 y 3, superficies 1.040 M2 y 2.250 M2., roles de avalúos 328-142 y 328-140, Comuna de Villarrica, para la obra Camino Villarrica Coñaripe, sector Villarrica Licanray y se acordó precio de indemnización con sus propietarios Vicariato Apostólico de la Araucanía y Mireya Huilipán Lagos, ascendente a las cantidades de $ 478.034 y $ 547.113.
+
+Fiscal del Ministerio de Obras Públicas.
