@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.440, de 27 de junio de 2003, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 1.125 de 2003, modificada mediante resolución Nº 1.179 de 2003, ambas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Evaluación hidroacústica del recurso Jurel entre la V y X Regiones, año 2003", en el sentido de señalar que la investigación se extenderá hasta el 15 de agosto de 2003.
+
+Valparaíso, 27 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
