@@ -1,0 +1,3 @@
+Por decreto MOP Nº110, de 31 de enero de 2002, se expropió el lote de terreno Nº88, superficie 1.025 m2., rol de avalúo 103-480, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar Tramo 6 A3: Km. 33.800,00 a Km. 34.720,00 Región Metropolitana y se acordó el valor de indemnización con su propietario Jorge Hernán Meneses Aravena, ascendente a la cantidad de $6.539.789.-
+
+Fiscal del Ministerio de Obras Públicas.
