@@ -5930,12 +5930,6 @@ A continuación se señalan los principales indicadores que guardan relación co
 
 .
 
-(1) Sólo en moneda chilena y en monedas extranjeras sujetas a posición.
-
-.
-
-> **Nota.** La letra G), de la Circular 3222, SBIF, promulgada el 30.04.2003, suprime los indicadores signados con los números 505, 506, 507, 508 y 509 del del presente Anexo.
-
 CAPITULO 4-2 (Bancos y Financieras)
 
 MATERIA:
