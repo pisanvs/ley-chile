@@ -1,0 +1,3 @@
+Por decreto M.O.P., No. 146, de 27 de Mayo de 1985, se expropió el lote de terreno No. 1, para Agua Potable de Arauco, que figura a nombre de doña Paulina Salgado Toledo, rol de avalúo 163-32, superficie 11.065 m2., comuna de Arauco. La Comisión de Peritos compuesta por los señores Manuel Concha Rojas, José Manuel Gálvez Alegría y César Burotto Manetti, fijó con fecha 9 de Abril de 1984, el valor provisional de la indemnización en la cantidad de $ 243.430. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley No 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
