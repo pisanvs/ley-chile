@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 463, de 28 de junio de 1996, se expropió los lotes de terrenos N°s 6, 7 y 8 superficies 935,75, 250 y 250 m2, roles de avalúos 2512-1, 2510-5 y 2510-6, comuna de La Florida, para la obra Mejoramiento Eje La Florida, sector Los Ararlos-Las Vizcachas, y se acordó precio de indemnización con sus propietarios Edelmira Graciela Trinidad Herrera Millán y Luis Alberto Figueroa Becerra, ascendente a la cantidad de $75.465.974, para el lote N°6 $62.653.680 para los lotes N °s 7 y 8.
+
+Fiscal del Ministerio de Obras Públicas.
