@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 570, de 30 de abril de 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se modificó el Decreto MOP. Exento Nº 2050, de 31 de diciembre de 2001, que rectifica la fecha de tasación del lote de terreno Nº 1, necesario para la ejecución de la obra ''Laja-Diguillín'', Area de Riego Rinconada, Canal Las Verbenas, Entrega Larga RV-EL2, Km. 0.007 al Km. 0.075", que es 26 de noviembre de 2001. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
