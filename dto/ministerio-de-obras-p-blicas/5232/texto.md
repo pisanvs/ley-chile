@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.232, de 30 de noviembre de 2000, se expropió el lote de terreno Nº24, superficie 315 m², rol de avalúo 5463-4, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A, Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Ricardo Rodolfo Rivera Dueñas, ascendente a la cantidad de $42.450.724.-
+
+Fiscal del Ministerio de Obras Públicas.
