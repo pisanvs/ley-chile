@@ -1,0 +1,3 @@
+Por Resolución N° 31, de 27 de febrero de 1996, Serviu II Región, dispuso, conforme D.L. 2.186 de 1978, expropiación parcial del inmueble ubicado en Avda. Argentina N° 2712, rol de avalúo N° 905-031, comuna de Antofagasta, superficie 31,0066 M2., de aparente dominio de doña Laura Anjelina Aguilera, según inscripción fs. 394 vta., N° 595, año 1992, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión Tasadora integrada por peritos Srs. Iván Vladilo Vargas, Ingeniero Civil, Alejandro Bargsted Balcells y Eleonora Román Latorre, Arquitectos, según informe de 1° de febrero de 1996, fijó monto provisional indemnización en $3.700.327.-, pagadera al contado.-
+
+Director Serviu II Región.
