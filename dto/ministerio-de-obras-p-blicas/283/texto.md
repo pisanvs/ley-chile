@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 283, de 31 de marzo de 1997, se expropió el lote de terreno Nº 1, superficie 2.840 m2., Rol de avalúo 5029-6, comuna de Punta Arenas, para la obra Habilitación Acceso al Puerto Nuevo de Punta Arenas, sector Avda. Bulnes Chañarcillo y se acordó precio de la indemnización con su propietario la Empresa Cabo de Hornos S.A., ascendente a la cantidad de $37.522.690.-
+
+Fiscal del Ministerio de Obras Públicas.
