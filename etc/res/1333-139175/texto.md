@@ -1,0 +1,3 @@
+Por resolución Nº 1.333, de 12 de julio de 1999, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura solicitud Nº 95110035, presentada por JOSE ALBAN MANCILLA DIAZ, para un centro de cultivo ubicado en Isla Filomena, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 12 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
