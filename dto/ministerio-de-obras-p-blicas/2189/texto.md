@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.189, de 30 de octubre de 1998, se expropió el lote de terreno Nº6, superficie 1.037 m2., rol de avalúo 8085-8, comuna de San Rafael, para la obra Ruta 5, Tramo Talca - Chillán, Calle de Servicio, sector Los Naranjos y se acordó el valor de indemnización con su propietario José Eduardo Vásquez Ponce, ascendente a la cantidad de $1.856.547.-
+
+Fiscal del Ministerio de Obras Públicas.
