@@ -1,0 +1,1 @@
+Por decreto MOP. N°599, de 30 de abril de 1998, se modifica el N°2 del decreto MOP. N°428, de 9 de abril de 1998, en la parte que se refiere al lote N°278, en el sentido que el rol de avalúo es el N°21281-2 y no el 2181-2, como se indica en el decreto
