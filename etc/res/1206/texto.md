@@ -1,0 +1,3 @@
+Por Resolución N° 1206, de 22 de Diciembre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA BIO BIO LIMITADA, R.U.T. N° 84.902.900-2, para continuar desarrollando, como sucesora legal, las actividades pesqueras autorizadas por esta Subsecretaría a Pesquera Cucao S.A., R.U.T. N° 96.657.080-6, en virtud de la fusión por compraventa de acciones y absorción de que da cuenta la escritura pública y disposiciones legales señaladas en Visto.
+
+Valparaíso, 22 de Diciembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
