@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 791 de fecha 17 de mayo del 2001, se expropió el lote de terreno Nº 8, superficie 2.794,78 m2., sin rol, comuna de Salamanca, para la obra ''Canal alimentador, Kms. 0,000,00 al 15,084,59 Estudio de Factibilidad y diseño del embalse Corrales y sus obras complementarias'' y se acordó el valor de indemnización con su propietario Gregorio del Tránsito Pizarro Carvajal, ascendente a la cantidad de $4.998.695.-.
+
+Fiscal del Ministerio de Obras Públicas.
