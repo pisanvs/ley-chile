@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Yumbel para contratar un préstamo hasta por la suma de $ 1.000.000 con el objeto de instalar, mejorar o ampliar el servicio público de distribución de energía eléctrica en la comuna.
