@@ -1,0 +1,9 @@
+ESTABLECE VIGENCIA DEL DS (TT Y TT) No. 150, DE 1986
+
+Núm. 483.- Valparaíso, 26 de Diciembre de 1986.- Vistos: El DS (TT y TT). No. 198, de 198l, que facultó al Director de la Empresa Portuaria de Chile para individualizar, reglamentar y fijar precios de los servicios que presta la Empresa; el Oficio Ord. No. 2312, de 11.11.86, mediante el cual se solicita patrocinio de decreto para modificar el DS (TT y TT) No. 198/81, en el sentido de reemplazar el guarismo US$ 0,50 por US$ 0,75 de la Tarifa de Muellaje correspondiente al Sitio No. 1 del Puerto de Talcahuano, contenida en Título II, letra G del capítulo III, Precios Máximos de los Servicios; los aspectos 0peracionales y comerciales que aconsejan la modificación señalada; el DS (TT y TT) No. 150, del 26.11.86, mediante el cual se modifica el DS (TT y TT) No. 198/81, en los términos mencionados en los vistos anteriores y se autoriza al Director de la Empresa para fijar la fecha de vigencia de dicha modificación y en virtud de la facultad que me confiere el No. 1 del Artículo 14 del DS (TT y TT) No. 91/78, que fijó el texto refundido, coordinada y sistematizado de la Ley Orgánica de la Empresa Portuaria de Chile, aprobada por el DFL No. 290, de 1960, dicto la siguiente.
+
+Resolución:
+
+Pónese en vigencia a contar del día 19 de Enero de 1987 para el Puerto de Talcahuano/San Vicente, el DS (TT y TT) No. 150, de 1986, que modifica el DS (TT y TT) No. 198/81, el cual establece la Individualización, Reglamentación y Precios de los Servicios Portuarios.
+
+Anótese, tómese razón, comuníquese y publíquese.- Jorge Baeza Concha, Vicealmirante, Director.
