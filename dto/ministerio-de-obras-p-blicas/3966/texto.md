@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.966 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 48-2, superficie 1.804 m²., rol de avalúo 293-53, comuna de Frutillar, para la obra ''Concesión Internacional Ruta 5 Tramo: Río Bueno-Puerto Montt, Sector: Enlace Casma Km. 967,400 a Km. 968,100'' y se acordó el valor de indemnización con su propietario Juan Edalio Vidal Gómez, ascendente a la cantidad de $3.098.093.-
+
+Fiscal del Ministerio de Obras Públicas.
