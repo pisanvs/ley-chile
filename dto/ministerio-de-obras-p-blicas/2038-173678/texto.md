@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.038, de 29 de mayo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº9, para la ejecución de la obra Camino Ruta I-50, sector Nancagua-Santa Cruz tramo Kms. 26,800 al 42,321, que figura a nombre de Miguel Ramón Mujica González, Rol de Avalúo 153-235, comuna de Nancagua, VI Región, superficie 20 M2. La comisión de peritos fijó con fecha 10 de agosto de 1998, el valor provisional de la indemnización en la cantidad de $300.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
