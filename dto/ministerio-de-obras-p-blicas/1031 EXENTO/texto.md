@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.031, de 31 de julio de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 110, para la ejecución de la obra "Camino Costero Tirúa - Carahue, Tramo Tranapuente - Carahue, Sector Km. 55.438,97 - Km. 69.895,61; Km. 0,000,00 - Km.
+
+3.927,45; Sub-Tramo III Km. 63.405 a Km. 3.100", que figura a nombre de Sandoval Adelaida e Hijos, rol de avalúo Nº 261-21, Comuna de Carahue, IX Región, superficie 2.789,23 m2. La Comisión de Peritos fijó con fecha 29 de marzo de 1999, el valor provisional de la indemnización en la cantidad de $1.394.615.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
