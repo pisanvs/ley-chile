@@ -1,0 +1,5 @@
+Por Resolución No. 1.231, de 04 de septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don LUIS GERARDO RIOS CACERES, R.U.T. No. 5.670.484-1, domiciliado en Las Dunas No. 584, C. Arenas, San Antonio, para iniciar actividades pesqueras, en orden a operar la embarcación "Covadonga", en el litoral de la I a X Región, donde podrá extraer los siguientes recursos hidrobiológicos, con el arte de pesca enmalle y espinel: Albacora o pez espada, Atún aleta larga, Atún ojo grande, Tiburón marrajo, Azulejo y Pejezorro.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 04 de Septiembre de 1991.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
