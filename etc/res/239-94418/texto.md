@@ -1,0 +1,3 @@
+Por Resolución No. 239 de fecha 27 de Julio de 1989, SERVIU IX Región dispuso expropiación inmueble ubicado en calle Andrés Bello No. 1198-B, ciudad Temuco, Rol de Avalúo No. 222-11, Temuco, de aparente dominio de doña Rosa Nahuelhual Miranda y/o de Irma Sobarzo Chico, conforme el artícuo 51 Ley No. 16391, de 1985 y DS No. 181 de 1988, de Vivienda y Urbanismo. Informe Tasación Expropiación fecha 28.11.88 Comisión Peritos señores José Méndez Manríquez, ingeniero civil, Mario Molina Ramwell, constructor civil, y Pablo Reidel Wanner, arquitecto. Monto provisional indemnización suma $ 2.699.692.- incluido reajuste legal artículo 5° DL No. 2.186 de 1978, pagadero al contado.
+
+Director Regional.
