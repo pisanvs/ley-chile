@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.878, de 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs. 249-A, 249-B, 250-A y 252-A, superficies 755 m², 532 m², 962 m² y 227 m², rol de avalúo 622-25, comuna de Tomé, para la obra "Camino Acceso Norte a Concepción", Octava Región y se acordó el valor de indemnización con sus propietarios Berta Nelly Ramos Vásquez y Otros, ascendente a la cantidad total de $914.310.-
+
+Fiscal del Ministerio de Obras Públicas.
