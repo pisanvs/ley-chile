@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.214, de 31 de julio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 39 y 40, superficies 2.119 m2 y 6.932 m2, rol de avalúo 866-4, comuna de Villa Alemana, Quinta Región, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Troncal Sur. Tramo 1. Atravieso Los Almendros. Km. 90.200,00 a Km. 90.700,00. Posteriormente, por decreto MOP Nº4.943, de 31 de octubre de 2000, se autorizó el Convenio Directo de Precio Ad - Referéndum y se acordó el valor de indemnización con su propietario Harry Arturo Bailey Martínez, ascendente a la cantidad total de
+
+$109.297.105.-
+
+Fiscal del Ministerio de Obras Públicas.
