@@ -2034,19 +2034,33 @@ Si la infracción al deber del cargo consistiere en ejercer influencia en otro e
 
 El empleado público que solicitare o aceptare recibir un beneficio económico para sí o para un tercero para cometer alguno de los crímenes o simples delitos expresados en este Título, o en el párrafo 4 del Título III, será sancionado con la pena de inhabilitación especial perpetua e inhabilitación absoluta temporal, o bien con inhabilitación absoluta perpetua para cargos u oficios públicos, y multa del tanto al triplo del provecho solicitado o aceptado.
 
-Lo establecido en el inciso anterior se entiende sin perjuicio de la pena aplicable al delito cometido por el empleado público. Si aquella pena resultare inferior a la señalada para el sobornante en el inciso segundo del artículo siguiente, se aplicará al empleado la pena establecida en esta última disposición.
+Lo establecido en el inciso anterior se entiende sin perjuicio de la pena aplicable al delito cometido por el empleado público, la que no será inferior, en todo caso, a la de reclusión menor en su grado medio.
 
 #### Artículo 250
 
-El que ofreciere o consintiere en dar a un empleado público un beneficio económico para que realice las acciones o incurra en las omisiones señaladas en los artículos 248, 248 bis y 249, o por haberlas realizado o haber incurrido en ellas, será castigado con las mismas penas de multa e inhabilitación establecidas en dichas disposiciones.
+El que ofreciere o consintiere en dar a un empleado público un beneficio económico, en provecho de éste o de un tercero, para que realice las acciones o incurra en las omisiones señaladas en los artículos 248, 248 bis y 249, o por haberla realizado o haber incurrido en ellas, será castigado con las mismas penas de multa e inhabilitación establecidas en dichas disposiciones.
 
-Tratándose del beneficio consentido u ofrecido en relación con las acciones u omisiones señaladas en el artículo 248 bis, el sobornante será sancionado, además, con la pena de reclusión menor en su grado medio.
+Tratándose del beneficio consentido u ofrecido en relación con las acciones u omisiones señaladas en el artículo 248 bis, el sobornante será sancionado, además, con pena de reclusión menor en sus grados mínimo a medio, en el caso del beneficio ofrecido, o de reclusión menor en su grado mínimo, en el caso del beneficio consentido.
 
-Tratándose del beneficio consentido u ofrecido en relación con los crímenes o simples delitos señalados en el artículo 249, el sobornante será considerado inductor de acuerdo al artículo 15 Nº 2.
+Tratándose del beneficio consentido u ofrecido en relación con los crímenes o simples delitos señalados en el artículo 249, el sobornante será sancionado, además, con pena de reclusión menor en su grado medio, en el caso del beneficio ofrecido, o de reclusión menor en sus grados mínimo a medio, en el caso del beneficio consentido. En estos casos, el sobornante no podrá ser sancionado, adicionalmente, por la responsabilidad que le hubiere cabido en el crimen o simple delito cometido por el funcionario.
 
 #### Artículo 250 bis
 
 En los casos en que el delito previsto en el artículo anterior tuviere por objeto la realización u omisión de una actuación de las señaladas en los artículos 248 ó 248 bis que mediare en causa criminal a favor del procesado, y fuere cometido por su cónyuge, por alguno de sus ascendientes o descendientes consanguíneos o afines, por un colateral consanguíneo o afín hasta el segundo grado inclusive, o por persona ligada a él por adopción, sólo se impondrá al responsable la multa que corresponda conforme las disposiciones antes mencionadas.
+
+#### Artículo 250 bis
+
+A.
+
+El que ofreciere dar a un funcionario público extranjero un beneficio económico, en provecho de éste o de un tercero, para que realice una acción o incurra en una omisión con miras a la obtención o mantención, para sí u otro, de cualquier negocio o ventaja en el ámbito de transacciones comerciales internacionales, será sancionado con las mismas penas de reclusión, multa e inhabilitación establecidas en el inciso primero del artículo 248 bis. De igual forma será castigado el que ofreciere dar el aludido beneficio a un funcionario público extranjero por haber realizado o haber incurrido en las acciones u omisiones señaladas.
+
+El que, en iguales hipótesis a las descritas en el inciso anterior, consintiere en dar el referido beneficio, será sancionado con pena de reclusión menor en su grado mínimo, además de las mismas penas de multa e inhabilitación señaladas.
+
+#### Artículo 250 bis
+
+B.
+
+Para los efectos de lo dispuesto en el artículo anterior, se considera funcionario público extranjero toda persona que tenga un cargo legislativo, administrativo o judicial en un país extranjero, haya sido nombrada o elegida, así como cualquier persona que ejerza una función pública para un país extranjero, sea dentro de un organismo público o de una empresa de servicio público. También se entenderá que inviste la referida calidad cualquier funcionario o agente de una organización pública internacional.
 
 #### Artículo 251
 
@@ -2834,9 +2848,9 @@ Para los efectos de los dos artículos anteriores, se entenderá por acción sex
 
 El que, sin realizar una acción sexual en los términos anteriores, para procurar su excitación sexual o la excitación sexual de otro, realizare acciones de significación sexual ante una persona menor de doce años, la hiciere ver o escuchar material pornográfico o la determinare a realizar acciones de significación sexual delante suyo o de otro, será castigado con reclusión menor en cualquiera de sus grados.
 
-Con la misma pena será castigado el que empleare un menor de doce años en la producción de materia pornográfico.
+Inciso Eliminado.
 
-También se sancionará con igual pena a quien realice alguna de las conductas descritas en los incisos anteriores con una persona menor de edad pero mayor de doce años, concurriendo cualquiera de las circunstancias del numerando 1º del artículo 361 o de las enumeradas en el artículo 363.
+También se sancionará con igual pena a quien realice alguna de las conductas descritas en el inciso anterior con una persona menor de edad pero mayor de doce años, concurriendo cualquiera de las circunstancias del numerando 1º del artículo 361 o de las enumeradas en el artículo 363.
 
 #### Artículo 367
 
@@ -2870,9 +2884,11 @@ Exceptúanse los casos en que el delito sea de aquellos que la ley describe y pe
 
 #### Artículo 369
 
-No puede procederse por causa de los delitos previstos en los artículos 361 a 366 quater, sin que a lo menos se haya denunciado el hecho a la justicia, al ministerio público o a la policía por la persona ofendida, por sus padres, abuelos o guardadores, o por quien la tuviere bajo su cuidado.
+No se puede proceder por causa de los delitos previstos en los artículos 361 a 366 quáter, sin que, a lo menos, se haya denunciado el hecho a la justicia, al Ministerio Público o a la policía por la persona ofendida o por su representante legal.
 
-Si la persona ofendida, a causa de su edad o estado mental, no pudiere hacer por sí misma la denuncia, ni tuviere padres, abuelos, guardadores o persona encargada de su cuidado, o si, teniéndolos, estuvieren imposibilitados o implicados en el delito, la denuncia podrá ser efectuada por los educadores, médicos u otras personas que tomen conocimiento del hecho en razón de su actividad, o podrá procederse de oficio por el ministerio público, quien estará facultado también para deducir las acciones civiles a que se refiere el artículo 370.
+Si la persona ofendida no pudiere libremente hacer por sí misma la denuncia, ni tuviere representante legal, o si, teniéndolo, estuviere imposibilitado o implicado en el delito, podrá procederse de oficio por el Ministerio Público, que también estará facultado para deducir las acciones civiles a que se refiere el artículo 370. Sin perjuicio de lo anterior, cualquier persona que tome conocimiento del hecho podrá denunciarlo.
+
+Con todo, tratándose de víctimas menores de edad, se estará a lo dispuesto en el inciso segundo del artículo 53 del Código Procesal Penal.
 
 En caso de que un cónyuge o conviviente cometiere alguno de los delitos previstos en los artículos 361 y 366 Nº1 en contra de aquél con quien hace vida en común, se aplicarán las siguientes reglas:
 
