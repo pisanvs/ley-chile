@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 889 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a las parcelas N°s. 39 a la 43 y 48, sitios N°s. 30 al 38, y parte del Proyecto de Parcelación "El Maitén", formado por el predio "Hijuela Tercera o Santa Ana del Fundo La Compañía" de la comuna de Graneros, provincia de Cachapoal, VI Región. Los Derechos de Aguas se extraen del canal Viejo de la Compañía.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
