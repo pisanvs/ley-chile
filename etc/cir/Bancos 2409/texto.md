@@ -3650,7 +3650,7 @@ Por otra parte, en la cuenta "Depósitos y captaciones a más de un año afectos
 
 c) Cuentas especiales.
 
-Se exceptúan de las instrucciones precedentes de este numeral los depósitos a plazo constituidos con divisas correspondientes a retornos de exportación, los depósitos provenientes del exterior de que trata el Capítulo V.B.1 del Compendio de Normas Financieras del Banco Central de Chile y los depósitos a que se refiere el N° 3 de la letra A del número I del Capítulo XIV Título I del Compendio de Normas de Cambios Internacionales, los que deben registrarse en las cuentas que se señalan en los Capítulos 14-6, 13-13 y 13-33, respectivamente, de esta Recopilación Actualizada de Normas.
+Se exceptúan de las instrucciones precedentes de este numeral, los depósitos provenientes del exterior de que trata el Capítulo V.B.1 del Compendio de Normas Financieras del Banco Central de Chile y los depósitos a que se refiere el N° 3 de la letra A del número I del Capítulo XIV Título I del Compendio de Normas de Cambios Internacionales, los que deben registrarse en las cuentas que se señalan en los Capítulos 13-13 y 13-33, respectivamente, de esta Recopilación Actualizada de Normas.
 
 6.2. Intereses y reajustes.
 
@@ -24626,169 +24626,95 @@ Los créditos de que trata este capítulo y las obligaciones que de ellos se der
 
 CAPITULO 14-3 (Bancos)
 
-MATERIA:
+MATERIA
 
 FINANCIAMIENTO DE EXPORTACIONES.
 
-### I. MODALIDADES DE FINANCIAMIENTO SUJETAS A ESTAS NORMAS
-
-Los financiamientos en moneda extranjera de exportaciones en las siguientes modalidades, deben atenerse a las instrucciones de que tratan el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y este Capítulo:
-
-a) Anticipos de compradores del exterior;
-
-b) Créditos externos; y,
-
-c) Créditos internos.
-
-### II. FINANCIAMIENTOS EXTERNOS
-
-Los exportadores que reciban financiamientos externos que pueden asumir la forma de anticipos de compradores o de créditos externos, tienen la obligación de liquidar las correspondientes divisas en el Mercado Cambiario Formal.
-
-### 1. Anticipos de Compradores del Exterior
-
-1.1. Liquidación de las divisas.
-
-Los anticipos que reciban los exportadores de sus compradores del exterior, se liquidarán en cualquier empresa bancaria, de conformidad con lo dispuesto en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales, del Instituto Emisor.
-
-La institución bancaria que liquide estos anticipos deberá emitir la correspondiente Planilla de Ingreso Comercio Visible, de acuerdo con las instrucciones que al respecto ha impartido el Banco Central de Chile.
-
-1.2. Obligación de efectuar embarques.
-
-Las personas que obtengan estos anticipos, estarán obligadas a realizar embarques de mercaderías dentro del plazo establecido para tal efecto en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
-
-1.3. Aplicación o devolución de los anticipos.
-
-Los anticipos de compradores deberán ser aplicados como retornos de exportaciones, dentro de un plazo de 150 días contados desde la fecha de aceptación a trámite de la Declaración de Exportación del correspondiente embarque.
-
-Los anticipos de compradores por los que no se realicen embarques de mercaderías, podrán ser pagados con divisas adquiridas en el mercado cambiario formal.
-
-1.4. Sanción por no embarcar.
-
-El Banco Central de Chile podrá aplicar una multa a las personas que hayan obtenido anticipos de compradores del exterior y no efectúen embarques de mercaderías por tales operaciones o los efectúen sólo por una parte de dichos financiamientos o los realicen fuera de plazo.
-
-### 2. Créditos externos
-
-2.1. Registro y liquidación.
-
-Los exportadores que contraten créditos del exterior para financiar sus exportaciones, deben registrar tales operaciones en el Banco Central de Chile, antes de su contratación.
-
-Los referidos créditos están afectos a un depósito del 30% sobre su monto por concepto de encaje, que debe constituirse en el Banco Central de Chile.
-
-Estos depósitos no devengarán intereses y deberán efectuarse por intermedio de la empresa bancaria que realice la liquidación del crédito externo, el día hábil bancario siguiente a la fecha de dicha liquidación y en dólares de los Estados Unidos de América. El plazo de permanencia de estos depósitos en el Instituto Emisor será de un año, cualquiera sea el plazo al que se haya pactado el crédito.
-
-En sustitución del encaje señalado en este numeral, los beneficiarios de créditos externos pueden optar por adquirir y retrovender los pagarés emitidos por el Banco Central de Chile de que trata el Anexo N° 5 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
-
-La liquidación de las divisas provenientes de estos créditos podrá efectuarse en cualquier empresa bancaria, la que deberá informar de ella al Instituto Emisor mediante la respectiva Planilla de Ingreso.
-
-2.2. Intereses de créditos externos.
-
-Los bancos podrán vender a los exportadores las divisas necesarias para el pago de los intereses que devenguen los créditos externos y los anticipos que reciban de compradores del exterior, siempre que el Banco Central de Chile haya otorgado previamente su autorización para tal efecto.
-
-2.3. Devolución de los créditos al exterior.
-
-Los exportadores que hayan liquidado créditos externos según lo indicado en el numeral 2.1 precedente, podrán devolver el capital e intereses de estos créditos a sus acreedores extranjeros, previa autorización del Banco Central de Chile. El pago de estos créditos podrá hacerse antes del vencimiento pactado, siempre que se realice con la liquidación de divisas correspondientes a retornos de exportación.
-
-El pago de los créditos externos, por los cuales no se hayan efectuado embarques de mercaderías, podrá realizarse con divisas adquiridas en el mercado cambiario formal.
-
-### III. FINANCIAMIENTOS INTERNOS
-
-Los financiamientos internos de exportación que otorguen las empresas bancarias, pueden asumir las modalidades de préstamo con letra o contra suscripción de pagaré, como también pueden corresponder al descuento o compra de letras de cambio o pagarés, con responsabilidad del endosante o sin ella, originados en cartas de crédito negociadas a plazo o en exportaciones efectuadas en cobranza.
+Los financiamientos de exportación que otorguen las empresas bancarias, pueden asumir las modalidades de préstamo con letra o contra suscripción de pagaré, como también pueden corresponder al descuento o compra de letras de cambio o pagarés, con responsabilidad del endosante o sin ella, originados en cartas de crédito negociadas a plazo o en exportaciones efectuadas en cobranza.
 
 Asimismo, quedan comprendidos en estos financiamientos los pagos anticipados de las obligaciones derivadas de la negociación de cartas de crédito confirmadas, pagaderas a plazo o contra aceptación, como también los que se hagan por cartas de crédito no confirmadas, siempre que éstas hayan sido negociadas sin reservas por el banco emisor y que cuenten con la autorización de ese banco para cursar dicho pago anticipado y para rembolsarse al vencimiento.
 
-### 1. Liquidación de créditos internos
+1.- Liquidación los créditos
 
-Los créditos internos para el financiamiento de exportaciones deben ser liquidados en el Mercado Cambiario Formal, a través de una empresa bancaria, a más tardar el día hábil bancario siguiente al de su otorgamiento.
+Los créditos para el financiamiento de exportaciones deben ser liquidados en el Mercado Cambiario Formal, a través de una empresa bancaria, a más tardar el día hábil bancario siguiente al de su otorgamiento.
 
-La institución bancaria que liquide un crédito interno de exportación deberá emitir la correspondiente Planilla de Ingreso, de conformidad con las instrucciones del Banco Central de Chile.
+La institución bancaria que liquide un crédito de exportación deberá emitir la correspondiente Planilla de Ingreso, de conformidad con las instrucciones del Banco Central de Chile.
 
-### 2. Pago de los créditos
+2.- Pago de los créditos.
 
-El pago de los créditos internos podrá efectuarse antes de su vencimiento si se realiza con la liquidación de divisas provenientes de retornos de exportación.
+El pago de los créditos podrá efectuarse antes de su vencimiento si se realiza con la liquidación de divisas provenientes de retornos de exportación.
 
-El pago de los créditos internos, por los cuales no se hayan efectuado embarques de mercaderías, podrá realizarse con divisas adquiridas en el mercado cambiario formal.
+El pago de los créditos por los cuales no se hayan efectuado embarques de mercaderías, podrá realizarse con divisas adquiridas en el mercado cambiario formal.
 
-### 3. Intereses
+3.- Intereses.
 
 Las instituciones bancarias tienen acceso al Mercado Cambiario Formal de divisas para cubrir los intereses ganados sobre los créditos que otorguen en moneda extranjera destinados al financiamiento de exportaciones.
 
-La tasa de interés que se aplique a estas operaciones será la que se convenga entre las partes, con sujeción, en todo caso, a las limitaciones establecidas en la Ley N° 18.010.
+La tasa de interés que se aplique a estas operaciones será la que se convenga entre las partes, con sujeción, en todo caso, a las limitaciones establecidas en la Ley N° 18010.
 
-### 4. Anticipos sobre cartas de crédito negociadas
+4.- Anticipos sobre cartas de crédito negociadas.
 
 De conformidad con lo dispuesto en los Capítulos 14-1 y 13-27 de esta Recopilación, las instituciones bancarias están facultadas para otorgar financiamiento a los respectivos emisores de cartas de crédito de exportación negociadas, confirmadas y no confirmadas, pagaderas a la vista o a plazo.
 
 Asimismo, los bancos pueden anticipar a los beneficiarios el pago de las obligaciones contraídas en su favor con motivo de la negociación a plazo de las cartas de crédito que hayan confirmado, como también podrán pagar anticipadamente las cartas de crédito a plazo, no confirmadas, siempre que hayan sido negociadas sin reservas por el banco emisor y que cuenten con la autorización de ese banco para cursar dicho pago anticipado y para rembolsarse al vencimiento.
 
-5. Adquisición de letras o pagarés correspondientes a exportaciones en cobranza reembolsables por intermedio de Convenio de Crédito Recíproco.
+5.- Adquisición de letras o pagarés correspondientes a exportaciones en cobranza reembolsables por intermedio de Convenio de Crédito Recíproco.
 
-Los bancos que adquieran letras y pagarés correspondientes a operaciones de exportación enviadas en cobranza, aceptadas o suscritos por el importador y avalados por un banco facultado para operar por intermedio del Convenio de Pagos y Créditos Recíprocos, que haya autorizado su reembolso con cargo al referido convenio, deberán estar en posesión material de la letra de cambio o del pagaré para dar curso a tales operaciones.
+Los bancos que adquieran letras y pagarés correspondientes a operaciones de exportación enviadas en cobranza, aceptadas o suscritos por el importador y avalados por un banco facultado para operar por intermedio del Convenio de Pagos y Créditos Recíprocos, que haya autorizado su rembolso con cargo al referido convenio, deberán estar en posesión material de la letra de cambio o del pagaré para dar curso a tales operaciones.
 
-Estos documentos deben contar en el reverso, con la leyenda que a continuación se indica, con sus menciones completas: "REMBOLSO A TRAVES DEL CONVENIO DE CREDITO RECIPROCO CHILENO...............BAJO EL N°.......ESTA (E) LETRA (PAGARE) PROVIENE DE LA EXPORTACION DE:..................(mercadería).................... ................................................................................
+Estos documentos deben contar en el reverso, con la leyenda que a continuación se indica, con sus menciones completas: "REMBOLSO A TRAVES DEL CONVENIO DE CREDITO RECIPROCO CHILENO................BAJO EL N°.....ESTA (E) LETRA (PAGARE) PROVIENE DE LA EXPORTACION DE: (mercadería)
 
-PAIS EXPORTADOR CHILE
+PAIS EXPORTADOR: CHILE
 
-PAIS IMPORTADOR
+PAIS IMPORTADOR: ...............................................................
 
-FECHA DE EMBARQUE VALOR US$
+FECHA DE EMBARQUE:.............VALOR US$........................................
 
-FECHA DE AVAL "
+FECHA DE AVAL:................"
 
 Si se trata de una letra de cambio, deberá llevar en el anverso la indicación "Letra única de cambio", en tanto que si es pagaré, se deberá anotar la palabra "Pagaré".
 
-Los bancos remitirán oportunamente al banco avalista, las correspondientes letras o pagarés para su cobro al importador, debiendo señalar en la respectiva carta remesa la siguiente leyenda: "SIRVANSE TOMAR NOTA QUE AL VENCIMIENTO DE ESTAS (OS) LETRAS (PAGARES) NOS REEMBOLSAREMOS AUTOMATICAMENTE DE SUS IMPORTES A TRAVES DEL CONVENIO DE CREDITO RECIPROCO SUSCRITO ENTRE NUESTROS BANCOS CENTRALES".
+Los bancos remitirán oportunamente al banco avalista, las correspondientes letras o pagarés para su cobro al importador, debiendo señalar en la respectiva carta remesa la siguiente leyenda "SIRVANSE TOMAR NOTA QUE AL VENCIMIENTO DE ESTAS (OS) LETRAS (PAGARES) NOS REEMBOLSAREMOS AUTOMATICAMENTE DE SUS IMPORTES A TRAVES DEL CONVENIO DE CREDITO RECIPROCO SUSCRITO ENTRE NUESTROS BANCOS CENTRALES".
 
 Antes de enviar al banco avalista las referidas letras o pagarés, deberán dejar en sus archivos fotocopia del anverso y reverso de dichos documentos.
 
-### 6. Normas contables
+6.- Normas contables.
 
-Las instituciones bancarias contabilizarán de la siguiente forma los créditos que cursen para el financiamiento de exportaciones:
+Las instituciones bancarias contabilizarán de la siguiente forma los créditos que cursen para el financiamiento de exportaciones.
 
-6.1. Préstamos.
+6.1.- Préstamos.
 
 Los préstamos documentados mediante aceptación de letra o suscripción de pagaré por parte de los exportadores, serán registrados en la cuenta "Préstamos para exportadores" de la partida 1130 ó 1225, según sea el plazo pactado.
 
-6.2. Descuento de letras o pagarés de operaciones de exportación.
+6.2.- Descuento de letras o pagarés de operaciones de exportación.
 
-En el evento de que el financiamiento se otorgue mediante el descuento de letras giradas y aceptadas o de pagarés emitidos al amparo de una carta de crédito o de una cobranza de exportación sobre el exterior, la operación se registrará en la cuenta "Descuento de documentos de exportación" subcuenta "Documentos avalados-Corresponsales ALADI" u "Otros", según sea el caso. Estos créditos se registrarán por el valor par o, en su caso, por el valor nominal del documento, en la partida 1130 ó 1225, según sea el plazo que medie entre la fecha del descuento y el vencimiento del respectivo instrumento.
+En el evento de que el financiamiento se otorgue mediante el descuento de letras giradas y aceptadas o de pagarés emitidos al amparo de una carta de crédito o de una cobranza de exportación sobre el exterior, la operación se registrará en la cuenta "Descuento de documentos de exportación" subcuenta "Documentos avalados Corresponsales ALADI" u "Otros", según sea el caso. Estos créditos se registrarán por el valor par o, en su caso, por el valor nominal del documento, en la partida 1130 ó 1225, según sea el plazo que medie entre la fecha del descuento y el vencimiento del respectivo instrumento.
 
-6.3. Compra de letras o pagarés de operaciones de exportación.
+6.3.- Compra de letras o pagarés de operaciones de exportación.
 
 Las letras de cambio giradas y aceptadas al amparo de una carta de crédito o de una cobranza de exportación sobre el exterior o de pagarés originados en esas operaciones, que sean adquiridos por las instituciones bancarias, serán registrados por su valor par, esto es, el valor nominal más los intereses devengados, o por su valor nominal, según proceda, en la cuenta "Documentos de exportación adquiridos" subcuenta "Documentos avalados-Corresponsales ALADI" u "Otros", según corresponda, de la partida 1130 ó 1225, de acuerdo con el plazo que medie entre la fecha de la adquisición y la del vencimiento del documento negociado.
 
-6.4. Intereses sobre préstamos y descuentos.
+6.4.- Intereses sobre préstamos y descuentos.
 
 Los intereses devengados por los préstamos señalados en el numeral 6.1, serán acreditados en la cuenta "Intereses ganados por préstamos para exportadores", de la partida 7115.
 
-Los intereses correspondientes al descuento de letras o pagarés a que se refiere el numeral 6.2 de este capítulo serán acreditados en la cuenta "Intereses descuento documentos de exportación", de la partida 4120. El importe que se devengue efectivamente en la medida en que transcurra el tiempo que medie entre la fecha del descuento y la fecha de vencimiento, se traspasará mensualmente a la cuenta "Intereses ganados por descuento documentos de exportación" de la partida 7115. Los bancos que operen estos documentos deben tener presente que no podrán descontar del valor de retomo de la exportación los intereses en moneda extranjera, de modo que el descuento deberá liquidarse a Pesos moneda chilena, a menos que exista autorización del Banco Central de Chile para hacerlo en moneda extranjera.
+Los intereses correspondientes al descuento de letras o pagarés a que se refiere el numeral 6 2 de este Capitulo serán acreditados en la cuenta "Intereses descuento documentos de exportación", de la partida 4120 El importe que se devengue efectivamente en la medida en que transcurra el tiempo que medie entre la fecha del descuento y la fecha de vencimiento, se traspasará mensualmente a la cuenta "Intereses ganados por descuento documentos de exportación" de la partida 7115.
 
-6.5. Diferencias de precio en la compra de letras o pagarés.
+6.5.- Diferencias de precio en la compra de letras o pagarés.
 
-La diferencia entre el valor par del documento y el precio de compra, se registrará por su equivalente en moneda chilena en la cuenta "Diferencias de precio diferidas por compra de efectos de comercio", de la partida 2120, cuando este último sea mayor.
+La diferencia entre el valor par del documento y el precio de compra, se registrará en la cuenta "Diferencias de precio diferidas por compra de efectos de comercio", de la partida 2120, cuando este último sea mayor.
 
-Por otra parte, cuando el valor par o nominal del documento sea mayor que el precio de compra, la diferencia se registrará por su equivalente en moneda chilena en la cuenta "Beneficios obtenidos y no devengados por compra de efectos de comercio", de la partida 4120.
-
-Las diferencias de precio de que se trata, se percibirán y contabilizarán por su valor en moneda nacional, a menos que el Banco Central de Chile autorice hacerlo en moneda extranjera.
+Por otra parte, cuando el valor par o nominal del documento sea mayor que el precio de compra, la diferencia se registrará en la cuenta "Beneficios obtenidos y no devengados por compra de efectos de comercio", de la partida 4120.
 
 Estas diferencias se traspasarán a resultados al término de cada mes, en forma proporcional al tiempo que medie entre la fecha de adquisición del documento y su vencimiento.
 
-6.6. Créditos no pagados a su vencimiento.
+7.- Cesión de créditos de exportación entre instituciones bancarias.
 
-Los créditos de esta naturaleza que no fueren pagados a su vencimiento, se traspasarán a "Cartera Vencida", de acuerdo con las instrucciones de aplicación general en la materia, en la misma moneda en que se encuentren documentados.
+Las instituciones bancarias podrán cederse entre sí los créditos internos de exportación en moneda extranjera, de conformidad con las normas sobre Captación e Intermediación contenidas en el Capítulo III.B.1. del Compendio de Normas Financieras del Banco Central de Chile.
 
-### 7. Cesión de créditos de exportación entre instituciones bancarias
+8.- Instrucciones escritas de los exportadores.
 
-Las instituciones bancarias podrán cederse entre sí los créditos internos de exportación en moneda extranjera, de conformidad con las normas sobre Captación e Intermediación contenidas en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile.
-
-### IV. OTRAS INSTRUCCIONES
-
-### 1. Límites legales
-
-A los créditos en moneda extranjera que las instituciones bancarias otorguen para el financiamiento de exportaciones, les son aplicables los márgenes individuales de crédito que específicamente establece para estas operaciones el artículo 84 de la Ley General de Bancos.
-
-### 2. Instrucciones escritas de los exportadores
-
-Los bancos que liquiden divisas provenientes de financiamientos externos o internos de exportaciones, deberán obtener previamente instrucciones escritas del exportador para tal efecto.
+Los bancos que liquiden divisas provenientes de financiamientos de exportaciones, deberán obtener previamente instrucciones escritas del exportador para tal efecto.
 
 CAPITULO 14-5 (Bancos y Financieras)
 
@@ -25166,106 +25092,6 @@ mencionados préstamos y cualquier otro antecedente que éste les solicite en la
 
 oportunidad que lo requiera.
 
-CAPITULO 14- 6 (Bancos)
-
-MATERIA
-
-RETORNOS DE EXPORTACION. FACULTAD DE LOS EXPORTADORES DE DEDUCIR PARTE DE LOS RETORNOS QUE LIQUIDEN.
-
-### 1. Retornos de exportación
-
-De conformidad con lo dispuesto en los Capítulos I y III del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las personas que realicen exportaciones desde Chile están obligadas a retornar al país, dentro del plazo establecido por el Instituto Emisor y en alguna de las monedas extranjeras indicadas para tal efecto, el total del valor que obtengan en pago de dichas operaciones y a liquidar en una empresa bancaria situada en el país el importe líquido recibido por este concepto, dentro de un período que no puede exceder de los 11 días siguientes al vencimiento del plazo de retorno.
-
-Sin embargo, el mencionado plazo para liquidar podrá ampliarse a 90 días siempre que el retorno de la moneda extranjera se realice dentro del plazo fijado para tal efecto, y las divisas se mantengan en depósitos a plazo en empresas bancadas situadas en Chile. En estos casos, será responsabilidad de las empresas bancadas que reciban los depósitos a plazo, acreditar ante el Instituto Emisor los retornos que hagan procedente la ampliación del plazo para liquidar las divisas antes mencionadas, como asimismo, verificar que dichas operaciones se encuentren perfeccionadas.
-
-Los exportadores, junto con poner a disposición de una empresa bancaria situada en Chile el importe de las divisas retornadas, dentro del plazo establecido para efectuar dicho retorno, y darle las instrucciones para constituir un depósito a plazo, deberán presentar los documentos que acrediten el embarque de las respectivas mercaderías y permitan efectuar la operación solicitada.
-
-Cuando los referidos depósitos a plazo se hubieren constituido con anterioridad a la fecha en que el exportador decida acogerse al mayor plazo señalado para la liquidación de esos recursos, éste podrá impartir a la institución bancaria en la que mantengan dichos depósitos a plazo, las instrucciones para comunicar el retomo de la moneda extranjera al Instituto Emisor. En todo caso, la referida opción sólo podrá ejercerla dentro del plazo establecido para el retorno de las divisas.
-
-Sin perjuicio de lo indicado en el segundo párrafo de este número, las empresas bancarias que reciban las instrucciones de los exportadores señaladas precedentemente, deberán comunicar al Banco Central de Chile el retorno y, cuando proceda, la liquidación de las divisas, en la forma establecida para tal efecto. En los casos en que los exportadores decidan liquidarlas en una institución bancaria distinta de aquella en la cual se haya constituido el correspondiente depósito a plazo, ésta deberá traspasar el monto respectivo mediante un documento girado a su propio nombre y endosado a favor de la entidad bancaria en la que se realizará la liquidación, debiendo señalar en el endoso, que éste se efectúa para el solo fin de proceder a la liquidación de las divisas cuyo retorno se encuentra informado al Banco Central de Chile.
-
-Las personas que realicen exportaciones ocasionales, cuyo valor líquido de retorno, por cada embarque, no supere los US$ 2.000 ó su equivalente en otras monedas extranjeras, no están obligadas a retornar el importe de dichas exportaciones.
-
-2. Facultad de los exportadores de deducir un porcentaje de los retornos que liquiden.
-
-Las disposiciones del Capítulo VIII del Título II del Compendio ya mencionado, facultan a los exportadores para deducir hasta un porcentaje del monto de los retornos que liquiden, correspondientes a las exportaciones que realicen. Estas deducciones deben hacerse con sujeción a las condiciones y montos máximos que se indican en este capítulo.
-
-Las referidas deducciones sólo podrán efectuarse simultáneamente con la liquidación de los respectivos retornos de exportación.
-
-### 3. Instrucciones contables
-
-3.1. Depósitos a plazo por retornos declarados pendientes de liquidación.
-
-Los depósitos a plazo constituidos con divisas cuyo retorno sea informado al Banco Central de Chile y que se acojan al plazo especial de 90 días para su liquidación, de conformidad con lo previsto en el N° 1 de este Capítulo, serán registrados en la cuenta "Depósitos a plazo divisas retornadas por liquidar" de la partida 3020 ó 3025, según corresponda.
-
-3.2. Intereses.
-
-Los intereses que devenguen los depósitos a plazo a que se refiere este capítulo, serán debitados en la cuenta que corresponda de la partida 5110 ó 5120, con abono a la respectiva cuenta complementaria de intereses de los pasivos registrados en la partida 3020 ó 3025.
-
-CAPITULO 14-7 (Bancos)
-
-MATERIA:
-
-PAGO DE IMPORTACIONES Y DE CREDITOS FINANCIEROS O DE PROVEEDORES DEL EXTERIOR CON RETORNOS DE EXPORTACION.
-
-### 1. Normas Generales
-
-De conformidad con las normas contenidas en los Capítulos IV y V del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, los exportadores podrán pagar, con los retornos que generen las exportaciones que realicen, importaciones y obligaciones a más de un año plazo originadas en créditos obtenidos de instituciones financieras del exterior o de proveedores extranjeros, bajo las condiciones indicadas en dichas normas y en este Capítulo.
-
-### 2. Aplicación de retornos de exportación al pago de importaciones
-
-Los exportadores podrán ser liberados de su obligación de retomar y liquidar las divisas correspondientes a las exportaciones que realicen, amparadas por Informes de Exportación y Declaración de Exportación aceptada a trámite por el Servicio Nacional de Aduanas, cuando la respectiva moneda extranjera sea destinada a pagar o a reembolsar el monto de las importaciones que los mismos exportadores realicen.
-
-2.1. Condiciones para obtener la liberación de la obligación de retornar divisas.
-
-Para obtener la liberación de la obligación de retomar las divisas correspondientes a exportaciones, el exportador deberá presentar al Banco Central de Chile, en la forma establecida para tal efecto, un Informe de Importación Complementario al Informe de Importación que ampare las mercaderías cuyo pago, total o parcial, se efectuará con las divisas correspondientes a exportaciones.
-
-2.2. Responsabilidad de pago.
-
-Los exportadores serán responsables de que el pago o reembolso del monto de la respectiva importación, se efectúe en el plazo previsto para tal efecto en el Capítulo III del Título III del Compendio de Normas de Cambios Internacionales.
-
-Las empresas bancarias, a su vez, deberán verificar que se cumplan todas las condiciones para efectuar los referidos pagos o reembolsos.
-
-2.3. Aplicación parcial de los retornos al pago de importaciones.
-
-En el caso que sólo una parte de los retornos de una exportación sean destinados al pago de importaciones en la forma señalada precedentemente, el exportador estará obligado a retomar y liquidar el respectivo saldo.
-
-3. Aplicación de retornos de exportación al pago de créditos financieros o de proveedores.
-
-Los exportadores pueden aplicar una parte de los retornos correspondientes a cada una de las exportaciones que realicen, al pago de las obligaciones a más un año plazo, que tengan registradas en el Banco Central de Chile y que se originen en créditos financieros otorgados por instituciones financieras o por proveedores del exterior, que hayan tenido por objeto financiar proyectos de inversión, por montos no inferiores a US$ 15.000.000 o su equivalente en otras monedas extranjeras, realizados en el país con la finalidad de producir mercaderías para la exportación.
-
-3.1. Solicitud de celebración de contrato.
-
-Las personas que deseen acogerse a esta modalidad de operación, deberán solicitar al Banco Central de Chile la celebración de un contrato en el que se contemple la aplicación de las normas del Capítulo V antes citado, a las obligaciones de retomo y liquidación del producto de las exportaciones que realicen. Para tal efecto, el solicitante deberá acompañar el respectivo proyecto de inversión y los demás antecedentes que requiera el Instituto Emisor, el que podrá denegarla sin expresión de causa.
-
-En caso de ser aprobada la solicitud, el Banco Central de Chile suscribirá el mencionado contrato con el solicitante, el que no podrá tener un plazo de vigencia superior a diez años, prorrogable por otro período semejante.
-
-3.2. Apertura de cuenta especial.
-
-Las personas que hayan suscrito con el Banco Central de Chile el contrato de que trata el numeral 3.1 precedente, deberán abrir una cuenta especial en moneda extranjera en un banco situado en el país o en el exterior, debiendo contar, en este último caso, con la aprobación previa del Instituto Emisor.
-
-En la mencionada cuenta podrán depositar una parte del producto de las respectivas exportaciones, cuyo monto se determinará sobre la base de una proporción que establecerá el Banco Central de Chile en el contrato suscrito con el solicitante. El saldo mantenido en esa cuenta no podrá exceder del monto de la cuota más próxima del crédito externo que deba pagar el exportador.
-
-Los fondos depositados en la referida cuenta, deberán ser girados en su totalidad para pagar con ellos la cuota pertinente de la respectiva deuda con el acreedor del exterior registrada en el Banco Central de Chile. Los importes utilizados en esta finalidad, dentro de los plazos que corresponda, quedarán liberados de la obligación de retorno y liquidación, para cuyo efecto los exportadores deberán acreditar su uso ante el Banco Central de Chile.
-
-Los titulares de la cuenta especial de que se trata, deberán informar al Banco Central de Chile, en la forma que éste determine y dentro de los cinco primeros días de cada mes, los movimientos registrados en ella en el mes calendario inmediatamente anterior.
-
-Asimismo, los titulares deberán otorgar un mandato irrevocable o extender un documento similar en el cual se den instrucciones de carácter irrevocable al banco en el que mantengan la referida cuenta especial, para que informe al Banco Central de Chile con la frecuencia que él determine, los montos depositados y los movimientos registrados en la mencionada cuenta.
-
-En caso que el exportador mantenga obligaciones registradas en el Banco Central de Chile a favor de varios acreedores, que reúnan los requisitos antes señalados, podrá abrir, previa comunicación al Instituto Emisor, tantas cuentas especiales o subcuentas de ella, como sea el número de acreedores registrados.
-
-3.3. Prórroga del plazo para retomar y liquidar divisas.
-
-En los casos en que la obligación que se deba pagar con los fondos depositados en la cuenta especial de que trata el numeral 3.2 precedente, venza después de que se cumpla el plazo para retomar y liquidar las divisas depositadas, el exportador gozará de una prórroga automática para tal efecto, la que, en todo caso, estará sujeta a la condición de que el exportador pague oportunamente la cuota de la respectiva deuda.
-
-El simple retardo del exportador en el pago de la cuota que deba extinguir con los fondos señalados en el párrafo precedente, producirá la caducidad de la prórroga automática, entendiéndose que, para los efectos del plazo de retomo y liquidación de la moneda extranjera depositada en la cuenta especial, dicha prórroga nunca existió.
-
-3.4. Renuncia al acceso al mercado cambiario formal Los exportadores que paguen las obligaciones de que se trata con recursos provenientes de sus exportaciones en la forma señalada precedentemente, deberán renunciar al acceso al mercado cambiario formal por un monto equivalente al importe de los retornos de exportaciones que hayan utilizado en dicho fin.
-
-3.5. Instrucciones contables.
-
-Las cuentas especiales de que trata el presente Capítulo, se incluirán en la cuenta "Cuentas especiales de retornos Capítulo V Título II Normas de Cambios", de la partida N° 3010.
-
 CAPITULO 14-8 (Bancos)
 
 MATERIA:
@@ -25292,11 +25118,7 @@ e) Las letras de cambio y los pagarés con los que se documenten los créditos o
 
 De conformidad con lo dispuesto por el N° 16 del articulo 24 del D.L. N° 3.475, incorporado por la Ley N° 19.155, publicada en el Diario Oficial del 13 de agosto de 1992, están exentos del impuesto de timbres y estampillas los documentos necesarios para el otorgamiento de créditos de dinero desde Chile hacia otros países, dentro del marco de los Convenios de Pagos y Créditos Recíprocos entre Bancos Centrales de los países miembros de la Asociación Latinoamericana de Integración (ALADI) , cuyas características determine esta Superintendencia.
 
-En concordancia con la disposición citada, se establece que los documentos que se beneficiarán de la exención antes citada, serán los siguientes.
-
-a) Los instrumentos con que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, para financiar exportaciones destinadas a Chile, de conformidad con lo dispuesto en la letra f) del N° 1 del Capítulo XIII del Titulo I del Compendio de Normas de Cambios Internacionales y en el N° 2 del titulo I del Capitulo 13-27 de esta Recopilación, siempre que tales documentos sean rembolsables por intermedio del respectivo Convenio de Pagos y Créditos Recíproco.
-
-b) Los pagarés descontados emitidos por bancos u otras personas del exterior, sobre la base de instrumentos originados en operaciones de comercio exterior entre países integrantes de ALADI, pagaderos por intermedio de Convenios de Pagos y Créditos Recíprocos, de que trata la letra C) del Capitulo XXV del título I del Compendio de Normas de Cambios Internacionales y el titulo II del Capítulo 13-27 de esta Recopilación.
+En concordancia con la disposición citada, se establece que los documentos que se beneficiarán de la exención antes citada, serán los instrumentos con que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, para financiar exportaciones destinadas a Chile, de conformidad con lo dispuesto en la letra e) del N° 1 del Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales y en el N° 2 del título I del Capítulo 13-27 de esta Recopilación, siempre que tales documentos sean rembolsables por intermedio del respectivo Convenio de Pagos y Créditos Recíproco.
 
 CAPITULO 15-1 (Bancos)
 
@@ -25774,7 +25596,7 @@ Los importadores o usuarios de las Zonas Francas que adquieran divisas para el p
 
 a) Que se presente carta instrucciones de cobertura, dirigida a la empresa bancaria, debidamente firmada por el usuario o por el importador, según el caso, con indicación del N° y fecha de emisión de la Solicitud Registro Factura y del monto en moneda extranjera a cubrir.
 
-b) Que se presente la Solicitud Registro Factura emitida y cumplida por el Servicio de Aduanas, junto con una fotocopia de la misma. En los casos que corresponda, se acompañará, en lugar del "cumplido" de Aduanas, la Declaración de Salida Ley N° 18.110 debidamente legalizada.
+b) Que se presente la Solicitud Registro Factura emitida.
 
 2.3. Moneda en que se puede efectuar la cobertura.
 
@@ -25792,13 +25614,13 @@ Las planillas emitidas deberán ser enviadas diariamente al Banco Central de Chi
 
 2.5. Anotación de las ventas de divisas.
 
-Las empresas bancarias que efectúen la venta de divisas para cubrir mercaderías amparadas por una Solicitud Registro Factura "cumplida" por el Servicio de Aduanas, deberán anotar al dorso de dicho documento, el número, la fecha y el monto de la respectiva Planilla de Cobertura Egreso Comercio Visible-SRF.
+Las empresas bancarias que efectúen la venta de divisas para cubrir mercaderías amparadas por una Solicitud Registro Factura, deberán anotar al dorso de dicho documento, el número, la fecha y el monto de la respectiva Planilla de Cobertura Egreso Comercio Visible-SRF.
 
 2.6. Archivo de la documentación.
 
 Las empresas bancarias formarán un legajo con cada una de las Solicitudes Registro Factura por las cuales hayan vendido divisas. Estos legajos serán mantenidos bajo su responsabilidad y se archivarán correlativamente por el número de Solicitud Registro Factura e incluirán obligadamente los siguientes documentos, pudiendo exceptuarse únicamente la respectiva Solicitud Registro Factura cuando haya sido endosada a otra entidad bancaria, caso en el cual esta última asumirá la responsabilidad de mantenerla en sus archivos por el plazo que establece el artículo 19 de la Ley General de Bancos:
 
-a) Copia "Banco Central de Chile (Venta de Divisas)" de la Solicitud Registro Factura emitida, cumplida por el Servicio de Aduanas o acompañada de la Declaración de Salida Ley N° 18.110, legalizada, según proceda. En los casos de venta anticipada de divisas, se archivará solamente copia de la Solicitud Registro Factura emitida.
+a) Copia "Banco Central de Chile (Venta de Divisas)" de la Solicitud Registro Factura emitida.
 
 b) Original de la o de las respectivas Planillas de Cobertura Egreso Comercio Visible-SRF.
 
@@ -26386,7 +26208,7 @@ f) Cuando las mercaderías provengan de Zonas Francas, se podrá aceptar la fact
 
 g) Original o copia de la Carta de Crédito, Nota de Débito o Carta del Cedente, sea que se trate de acreditivo o cobranza;
 
-h) Declaración de Importación, Acta de Correo cumplida o Declaración de Salida al resto del país, según corresponda, o bien, Certificado de Aduana que indique extravío o abandono a beneficio fiscal o remate de la mercadería. Para las coberturas efectuadas con Informe de Importación que amparen mercaderías ingresadas a Depósito Franco (Art. 2° Ley N° 17.170) destinadas a atender las necesidades de las bases antárticas bastará, en remplazo de la Declaración de Importación o del documento que haga sus veces, la presentación de una copia autorizada del ejemplar de las hojas de entrega, con las cuales se efectúa la salida de la mercadería del depósito franco. (Decreto de Hacienda N° 1731/70);
+h) Declaración de Importación o Acta de Correo cumplida, según corresponda, o bien, Certificado de Aduana que indique extravío o abandono a beneficio fiscal o remate de la mercadería. Para las coberturas efectuadas con Informe de Importación que amparen mercaderías ingresadas a Depósito Franco (Art. 2° Ley N° 17.170) destinadas a atender las necesidades de las bases antárticas bastará, en remplazo de la Declaración de Importación o del documento que haga sus veces, la presentación de una copia autorizada del ejemplar de las hojas de entrega, con las cuales se efectúa la salida de la mercadería del depósito franco. (Decreto de Hacienda N° 1731/70);
 
 i) Original o copia de la Factura de Seguro de Crédito o financiamiento, cuando proceda;
 
@@ -26416,13 +26238,7 @@ Al efectuar la cobertura de estas operaciones, su importe se deberá revertir en
 
 Además, cuando no remesen las divisas el mismo día en que se efectúe la cobertura, acreditarán su importe en la cuenta "Coberturas por remesar", de la partida 3010.
 
-### 12. Seguros
-
-En los casos en que los seguros en moneda extranjera que amparen las mercaderías que se traigan al país se contraten en Chile a nombre del importador, éste, conjuntamente con la compañía de seguros, deberá con- ferir un mandato irrevocable a una empresa bancaria situada en Chile, para que ésta liquide las divisas que le sean entregadas y que provengan de pagos efectuados por la Compañía de Seguros por concepto de indemnización de siniestros.
-
-En los casos de seguros tomados en el extranjero cuyo beneficiario sea el importador, éste deberá suscribir una declaración jurada simple en la que se comprometa a retornar y liquidar en una empresa bancaria situada en Chile, el importe de las eventuales indemnizaciones de siniestros.
-
-### 13. Sanciones
+### 12. Sanciones
 
 La infracción a las normas de cobertura indicadas en el Capítulo III del Título III del Compendio de Normas de Cambios Internacionales, podrá ser sancionada en conformidad con lo dispuesto en el Capítulo II del Título IV de dicho Compendio.
 
