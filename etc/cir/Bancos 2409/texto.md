@@ -9658,6 +9658,8 @@ Las empresas bancarias pueden emitir boletas de garantía con validez por un pla
 
 La vigencia de la boleta estará dada entonces por el plazo señalado en el documento respectivo, plazo dentro del cual el beneficiario podrá solicitar su pago. Transcurrido éste sin que se hubiere hecho efectiva, se entenderá caducada la validez del documento.
 
+Sin embargo, el beneficiario y el tomador podrán acordar una prórroga del plazo de vigencia, el que puede constar en la misma boleta o en un documento anexo que dé cuenta de la nueva fecha de vencimiento y los datos necesarios para identificar la boleta a que corresponde Este documento deberá presentarse junto con la boleta al momento de hacerla efectiva o cancelarla.
+
 En todo caso, esta Superintendencia recomienda a los bancos que se fije un plazo de caducidad o vencimiento dentro del cual el beneficiario pueda ejercer los derechos para impetrar el cobro del documento, de manera que vencido dicho plazo, la entidad bancaria se encuentre en situación de dar por cancelada la operación y evitar así su permanencia indefinida, a la espera de que le sea devuelta la correspondiente boleta, para extinguirla en sus registros.
 
 ### 6. Aviso previo de la boleta de garantía
@@ -9666,7 +9668,7 @@ Esta Superintendencia recomienda igualmente que se estipule en la boleta de gara
 
 Lo expuesto anteriormente, tiene por objeto que el banco disponga de un plazo para notificar del cobro al tomador del documento que tenga la calidad de deudor de la institución por ese concepto, a fin de que provea los fondos necesarios para efectuar el pago. Dicho aviso de cobro puede darlo el beneficiario hasta el día del vencimiento o de caducidad que se pueda contemplar en el
 
-documento,debiendo el banco efectuar el pago en la fecha que corresponda, aunque ésta resulte posterior a la de vencimiento de la boleta.
+documento o de la prórroga que se hubiere acordado,debiendo el banco efectuar el pago en la fecha que corresponda, aunque ésta resulte posterior a la de vencimiento de la boleta.
 
 El aviso de cobro debe ir acompañado en ese mismo acto o antes del vencimiento original o prorrogado del documento, de la presentación a cobro de la boleta Esta presentación puede hacerse directamente al banco emisor o a través de otro banco, siempre que se haga mientras se encuentre vigente. En caso de que la presentación se efectúe por intermedio de otro banco, la fecha que debe tomarse en consideración es aquella en que la boleta fue presentada al banco emisor.
 
