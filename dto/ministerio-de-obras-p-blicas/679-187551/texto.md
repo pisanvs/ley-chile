@@ -1,0 +1,3 @@
+Por decreto MOP Nº679 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº103-A, superficie 595,00 m2., rol de avalúo 68-90, comuna de Teno, para la obra "Camino Ruta J-25, Sector Cruce Longitudinal- La Montaña, Km. 0,22000 a Km. 25,00000" y se acordó el valor de indemnización con su propietario Hernán Sebastián Muñoz Basai, ascendente a la cantidad de $789.144.-
+
+Fiscal del Ministerio de Obras Públicas.
