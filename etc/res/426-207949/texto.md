@@ -1,0 +1,3 @@
+Por resolución Nº 426, de 6 de febrero de 2003, de esta Subsecretaría, modifícase el numeral 1º de la resolución Nº 1.347, de 2002, de esta Subsecretaría, que autorizó la operación de armadores y naves en el programa de investigación pesquera conjunto del Pez espada en las aguas internacionales del Pacífico Sur Oriental, en el sentido de reemplazar la nave autorizada Kofuku Maru Nº 58, de Pesquera Apóstol Santiago S.A., por la nave Brisca, de PESQUERA GALICIA LTDA.
+
+Valparaíso, 6 de febrero de 2003.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
