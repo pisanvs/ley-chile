@@ -1,0 +1,3 @@
+Por resolución Nº 967, de 22 de mayo de 2001, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 322 de 1990 y Nº 550 de 1996, ambas de esta Subsecretaría, que autorizaron a don ERASMO ANTONIO MUÑOZ FLORES, para realizar actividades pesqueras extractivas con la nave "Skorpion II", matrícula 766 San Antonio, conforme lo dispuesto en el artículo 143 letra d) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 22 de mayo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
