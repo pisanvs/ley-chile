@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 533, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 19, superficie 2.712 M2, Rol de avalúo 75-10, comuna de Galvarino, para la obra "Camino Ruta S-16, Sector Galvarino-Chol Chol, Tramo Km. 0,0000 al 24,30269" y se acordó el valor de indemnización con su propietario Edmundo Rolando Kehr Petermann, ascendente a la cantidad de $2.207.634.-
+
+Fiscal del Ministerio de Obras Públicas.
