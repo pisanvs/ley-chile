@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.135, de fecha 30 de noviembre de 2004, se expropiaron los lotes de terreno Nº23-A y 23-B, superficies 2.232 m² y 1.350 m², rol de avalúo Nº228-17, comuna de Toltén, para la obra ''Camino Costero Sur, Sector Puente Peule - Límite Regional, tramo By Pass Queule Km. 0,000 al Km. 5,000'', IX Región y se acordó el valor de la indemnización con su propietario Egidio Leopoldo Geisse Wellmann, ascendente a la cantidad de $5.285.946.
+
+- Fiscal del Ministerio de Obras Públicas.
