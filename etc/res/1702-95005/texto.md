@@ -1,0 +1,7 @@
+AUTORIZA A FELIU CHEN Y CIA. LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución N° 1.702, de 30 de Diciembre de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Feliu Chen y Compañía Limitada, RUT N° 79.585.700-1, domiciliada en Santiago, para ampliar actividades pesqueras de transformación, en orden a operar una planta industrial, ubicada en Santa Filomena N° 2768, Quintero V Región, donde procesará en las líneas de elaboración de congelado, conserva y deshidratado, los siguientes recursos hidrobiológicos: Bonito, cojinoba del norte, cojinoba del sur, congrio colorado, congrio dorado, congrio negro, corvina, jurel, lenguado ojos chicos, lenguado ojos grandes, puye, merluza común, merluza del sur, merluza de cola, mero, pejerrey de mar, raya, róbalo, salmón del Pacífico, sardina común, sardina española, caracol locate, caracol trumulco, loco, lapa, cholga, chorito, macha, navajuela, ostión del norte, ostra, pulpo, camarón de roca, camarón de río, camarón nailon, centolla, centollón, jaiba, erizo, albacora, anchoa, machuelo o tritre. El recurso salmón deberá provenir de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias o que se establezcan.
+
+Valparaíso, 30 de Diciembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
