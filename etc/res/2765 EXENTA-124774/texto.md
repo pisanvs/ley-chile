@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN COMUNA DE QUINTA DE TILCOCO
+
+Servicio Agrícola y Ganadero mediante resolución exenta No. 2765, de fecha 24 de Octubre de 1980, ratificada por resolución exenta No. 1.712 de fecha 07 de Octubre de 1988, conforme artículo 5° Transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a las Parcelas números 1 a la 12, los sitios números 1 al 10, del Proyecto de Parcelación "Rinconada de Guacargue" de la Comuna de Quinta de Tilcoco, VI Región, formado por predio "Una propiedad ubicada dentro del Fundo El Espinal conocido como La Rinconada". Los derechos de agua se extraen del canal La Rinconada, canal Del Medio y canal De los Sitios, todos derivados del estero Romeral. Publicación hecha conforme Art. 13 Ley 18.377.
+
+Director Ejecutivo.
