@@ -1,0 +1,3 @@
+Por resolución Nº 1.182, de 11 de junio de 2002, de esta Subsecretaría, recházase la solicitud de modificación de proyecto técnico para concesión de acuicultura Nº 201103046 presentada por GONZALO ALEJANDRO CAMACHO SANTIBAÑEZ, para un centro de cultivo ubicado entre Punta Tanecuhe y Punta Coñao, Isla Quinchao, X Región.
+
+Valparaíso, 11 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
