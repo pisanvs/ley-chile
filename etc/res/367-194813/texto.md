@@ -1,0 +1,3 @@
+Por resolución Nº 367, de 8 de febrero de 2002, de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A. para ampliar las actividades pesqueras de transformación autorizadas por resoluciones citadas en Visto, en orden a incorporar a la planta ubicada en Playa Blanca s/n, Coquimbo, IV Región, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Congelado y Conserva: Abalón rojo, Almeja o taca, Caracol tegula, Caracol rubio, Choro, Chorito, Chocha, Culengue, Erizo, Ostra chilena, Ostra del Pacífico, Picoroco, Piure, Blanquillo, Cabrilla. Conserva: Reineta, Albacora, Anguila.
+
+Valparaíso, 8 de febrero de 2002.- Edith Saa Collantes, Subsecretario de Pesca (S).
