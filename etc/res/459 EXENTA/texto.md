@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 459 de 29 de Marzo de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado predio "San Gabriel de Rihue que corresponde a la Hijuela del Centro de la Hacienda Rihue" de la comuna de Negrete, VIII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 6 a la 20 y sitios N°s. 14 y 15 del Proyecto de Parcelación "San Gabriel", formado por predio señalado. Los derechos de agua se extraen del Canal Bío Bío Negrete derivado del Río Bío Bío. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
