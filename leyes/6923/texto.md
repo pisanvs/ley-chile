@@ -1,0 +1,1 @@
+Abona tiempo de servicios a los funcionarios judiciales que sirvieron en Tacna durante el período plebiscitario comprendido desde 1921 hasta la entrega de ese departamento al Perú.
