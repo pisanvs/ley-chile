@@ -1,0 +1,3 @@
+Por resolución Nº 2.164, de 10 de octubre de 2001, de esta Subsecretaría, modifícase el numeral 6º de la resolución Nº 2.017 de 2001, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Distribución espacio temporal de las capturas de jurel en la I y II Región (Cuarta Etapa)", en el sentido de reemplazar la nave "Halcón" por la nave "Blanquillo", ambas de propiedad de Corpesca S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 10 de octubre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
