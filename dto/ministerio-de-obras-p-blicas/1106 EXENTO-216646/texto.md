@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.106, de 30 de septiembre de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron para el Fisco los lotes de terreno Nºs 1-A y 1-B, para la obra: Camino Ruta S-61, Sector Cunco-Melipeuco, Tramo Km. 55,000 a Km. 87,46783, Tramo I, Km. 55,000 al Km.
+
+62,784, que figuran a nombre de Ceballos Faúndez Nelson, Rol de Avalúo 302-94, comuna de Cunco, IX Región, superficies 51,57 m² y 136,86 m². La Comisión de Peritos fijó, con fecha 14 de octubre de 2002, el monto de la indemnización provisional en la cantidad $246.570, lote 1-A, y $668.760, lote 1-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
