@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.055, de 31 de agosto del 2000, se expropió el lote de terreno Nº28, superficie 251 m², rol de avalúo 9317-295, comuna de Valparaíso, para la obra Camino La Pólvora, Etapa I, Sector Ruta 68 - Acceso Sur a Valparaíso, Sector Placilla-Puertas Negras y se acordó precio de la indemnización con su propietaria Margarita Haselbauer Berger, ascendente a la cantidad de $1.127.115.
+
+Fiscal del Ministerio de Obras Públicas.
