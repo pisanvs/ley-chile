@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.248, de 30 de octubre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s. 121-A y 133, para la ejecución de la obra "Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas, Tramo II, Km.
+
+5,57900 a Km. 10,19480", que figuran a nombre de Osorio Muñoz José Ricardo y Soto Vargas Baldomero Daniel, roles de avalúo 123-74 y 126-1, comuna de Ranquil, VIII Región, superficies 3.944 y 8.986 m2. La comisión de peritos con fechas 12 de enero de 2002, tasó el lote 121-A y 20 de junio de 2001, lote 133, fijó el monto de la indemnización provisional en la cantidad de $3.155.200, lote 121-A y $10.006.000, lote 133. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
