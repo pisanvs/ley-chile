@@ -1,0 +1,3 @@
+Por resolución Nº 373, de 8 de febrero de 2002, de esta Subsecretaría, autorízase a SUZUKI ALGAS LIMITADA, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Daniel Belmar Ríos Nº 399, Boca Sur, San Pedro de la Paz, VIII Región, donde podrá elaborar en la línea de proceso que se indica, los siguientes recursos hidrobiológicos: Alga seca: Carola, Cochayuyo, Chasca, Chascón, Chicorea de mar, Huiro, Luche, Luga Luga, Pelillo.
+
+Valparaíso, 8 de febrero de 2002.- Edith Saa Collantes, Subsecretario de Pesca (S).
