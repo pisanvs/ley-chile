@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº 311, de 07 de noviembre de 1986, en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. Nº 294, de 1984, que fija el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 1, rol de avalúo 1173-2, Comuna de Hualqui, superficie 860 m2. Deslindes: Norte, con línea férrea en 30 metros; Sur, con resto del predio afectado con la expropiación en 10 metros y Este y Oeste, con resto del predio afectado con la expropiación en 44 metros. La Comisión de Peritos compuesta por los señores Manuel Concha, José Manuel Gálvez y Ramón Jofré, fijó con fecha 08 de agosto de 1986, el valor provisional de la indemnización en la cantidad de $ 43.060. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
+
+(1º)
