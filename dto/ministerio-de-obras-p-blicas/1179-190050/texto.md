@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.179, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº 29, superficie 1.800 M2, rol de avalúo en trámite, comuna de Codegua, VI Región, para la obra ''Camino Ruta Rol H-10, Sector Graneros-San Francisco de Mostazal, Tramo Km. 0,000 al 9,317'' y se acordó el valor de indemnización con su propietario don Luis Alberto Cerón Rojas, ascendente a la cantidad de $2.910.240.
+
+- Fiscal del Ministerio de Obras Públicas.
