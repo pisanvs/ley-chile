@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 657, de 31 de octubre de 1995, se expropiaron los lotes de terreno Nºs. 4 y 4-A, superficies 30 y 853 M2., respectivamente roles de avalúo Nºs. 18-46 y en trámite, Comuna de Lolol, para la obra Camino Santa Cruz Lolol-Bucalemu, Sector Santa Cruz-Lolol, y se acordó precio de indemnización con su propietarios Sociedad Agrícola Hacienda Lolol Limitada y otro, ascendente a la cantidad de $2.584.811.
+
+Fiscal del Ministerio de Obras Públicas.
