@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 464, de fecha 31 de Diciembre de 1984, se expropiaron los lotes de terrenos N°s. 1 y 2, cuyas superficies son 12.222 m2. y 11.778 m2., roles de avalúo 7263 y 72-64, comuna de Chépica, VI Región, para Alcantarillado de Chépica, Laguna de Estabilización, y se acordó el precio de indemnización con sus propietarios don José M. Rebolledo Henríquez y don Alfonso Morales Devia, ascendentes a $ 705.014 para el lote 1 y $ 671.346 para el lote 2.-
+
+Fiscal del Ministerio de Obras Públicas.
