@@ -1,0 +1,3 @@
+Por decreto MOP Nº 774, de 29 de febrero del 2000, se expropió el lote de terreno Nº 45-D, superficie 6.224 m², rol de avalúo 1545-316, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli. By Pass Los Angeles, Octava Región y se acordó el valor de indemnización con su propietaria Lucy Irene Neira Díaz, ascendente a la cantidad de $8.380.355.
+
+Fiscal del Ministerio de Obras Públicas.
