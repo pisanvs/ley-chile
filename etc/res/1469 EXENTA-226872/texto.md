@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.469, de 25 de mayo de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Los Chonos de Guabún, X Región, individualizada en el artículo 1º Nº 1 del decreto exento Nº 601 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, BUZOS MARISCADORES, CULTIVADORES Y EXPLOTADORES DE ALGAS Y RAMOS CONEXOS "LOS CHONOS" DE GUABUN.
+
+Valparaíso, 25 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
