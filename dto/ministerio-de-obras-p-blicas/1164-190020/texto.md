@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.164 de fecha 31 de julio de 2001, se expropió el lote de terreno Nº 14, superficie 2.344 m², rol de avalúo Nº 152-311, comuna de Graneros, para la obra ''Camino Ruta H-10, Sector Graneros - San Francisco de Mostazal, Tramo Km. 0,000 a Km. 9,317'' y se acordó el valor de indemnización con su propietario José David Herrera Maldonado, ascendente a la cantidad de $5.533.068.
+
+Fiscal del Ministerio de Obras Públicas.
