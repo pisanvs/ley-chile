@@ -1,0 +1,3 @@
+Por decreto MOP. No 318, de 31 de marzo de 1998, se expropió el lote de terreno No 118, superficie 40.800 M2, rol de avalúo 127-80, comuna de Pemuco, para la obra Proyecto Laja Diguillín, Faja de Expropiación Canal Matriz, sector Pemuco Diguillín y se acordó precio de indemnización con su propietaria Sonia Albertina Vallejos Mardones y otros, ascendente a la cantidad de $12.416.759.-
+
+Fiscal del Ministerio de Obras Públicas.
