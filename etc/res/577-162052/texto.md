@@ -1,0 +1,3 @@
+Por resolución Nº577, de 16 de marzo de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº663, de 1995, de esta Subsecretaría, en cuanto autorizó a ARTURO EDUARDO MOLINA FOCACCI, para realizar actividades pesqueras extractivas con la nave ''Ike II'' respecto de los recursos Anchoveta, Sardina española, Sardina común, Jurel, Agujilla, Ayanque, Bacaladillo o mote, Bonito, Caballa, Cabinza, Cabrilla, Cojinoba del norte, Corvina, Dorado, Machuelo, Palometa, Roncacho y Sierra, en el litoral de la III y IV Regiones, de conformidad con lo establecido en la letra b) del artículo 143 del D.S. Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 16 de marzo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
