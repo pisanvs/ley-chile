@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº300 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº3, superficie 618 m2, rol de Avalúo Nº266-63, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, sector 2 Carrizal-Puente Belco, Tramo Km. 17,34000 a Km. 23,51000", VII Región y se acordó el valor de la indemnización con su propietario Mario Orlando Orellana Araya, ascendente a la cantidad de $2.029.104.-
+
+Fiscal del Ministerio de Obras Públicas.
