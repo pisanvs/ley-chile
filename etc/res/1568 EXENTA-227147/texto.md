@@ -1,0 +1,9 @@
+Por resolución exenta Nº 1.568, de 9 de junio de 2004, de esta Subsecretaría, autorízase a la UNIVERSIDAD AUSTRAL DE CHILE, CENTRO UNIVERSITARIO DE LA TRAPANANDA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2004-13 denominado "Estimación de la biomasa reproductiva de Orange roughy en sus principales zonas de concentración, 2004", elaborados por la solicitante y aprobados por el Fondo de Investigación Pesquera y por esta Subsecretaría de Pesca.
+
+El objetivo principal de la pesca de investigación consiste en evaluar el stock desovante de orange roughy a través del método hidroacústico en cuatro de los principales caladeros del Archipiélago de Juan Fernández y dos caladeros del sector de Bajo O'Higgins.
+
+La pesca de investigación se efectuará entre la fecha de la presente resolución y el 30 de agosto de 2004, ambas fechas inclusive, en los montes submarinos del Archipiélago de Juan Fernández y del sector de Bajo O'Higgins, por fuera del área de reserva artesanal. En la pesca de investigación que se autoriza, participarán realizando tareas de prospección hidroacústica, en el área marítima individualizada en el numeral 3º, las siguientes naves industriales: "Bonn", "Friosur IX", "Pelagos II". Asimismo, participará en la presente pesca de investigación en B/F Betanzos en remodelación, de propiedad de Pesquera Yelcho S.A.
+
+En cumplimiento del objetivo de la presente pesca de investigación las naves participantes podrán capturar un máximo de 650 toneladas del recurso Orange roughy. La peticionaria designa como persona responsable de esta pesca de investigación a doña Elizabeth Manzano Ortiz, domiciliada en Portales Nº 73, Coyhaique.
+
+Valparaíso, 9 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
