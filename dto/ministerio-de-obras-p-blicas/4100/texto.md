@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.100, de 31 de agosto de 2000, se expropió el lote de terreno Nº130, superficie 1.316 m²., rol de avalúo 73-229, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago -Talca. Sector K, Séptima Región y se acordó el valor de indemnización con su propietario José Agustín González Maturana, ascendente a la cantidad de $4.125.651.
+
+- Fiscal del Ministerio de Obras Públicas.
