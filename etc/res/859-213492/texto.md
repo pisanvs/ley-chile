@@ -1,0 +1,3 @@
+Por Resolución Nº 859 de 05 de diciembre de 1990 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. 2.186 de 1978 parte inmueble ubicado en Avenida Santa Rosa Nº 6395, presunto rol avalúos Nº 6533-4, comuna San Miguel aparentemente dominio de doña Marta Contreras G.. Comisión integrada por Peritos Sres. José Miguel Haltenhoff Aenishanslin, constructor civil, Roberto Correa Bezanilla, arquitecto y Sergio Rojas Ibáñez, ingeniero civil, según informe de 11 de octubre de 1990, fijó monto provisional indemnización en $ 7.145.700.- pagadera al contado.
+
+Directora SERVIU Metropolitano.
