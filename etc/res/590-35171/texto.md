@@ -1,0 +1,5 @@
+Por Resolución N° 590, de 9 de Agosto de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PRODIEL ALIMENTOS LTDA., R.U.T. N° 78.940.670-5, para ampliar actividades pesqueras de transformación, autorizadas por Resoluciones N° 725 y N° 1.407, ambas de 1991, de esta Subsecretaría, en orden a incorporar como materia prima a las lineas de proceso autorizados en su planta industrial ubicada en Avenida Alessandri Sitio 66, Coquimbo, IV Región, autorizada por las Resoluciones señaladas precedentemente, los siguientes recursos hidrobiológicos: Conserva: Lapa, Chiton y Jibia. Congelado: Chiton y Jibia. Fresco refrigerado: Jibia.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 9 de Agosto de 1993 de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
