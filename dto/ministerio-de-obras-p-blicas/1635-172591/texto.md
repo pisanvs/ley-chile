@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.635, de fecha 28 de abril del 2000, se expropió el lote de terreno Nº69-A, superficie 718,1 m², rol de avalúo 519-160, comuna de Carahue, para la obra ''Camino Costero Tirúa - Carahue Tramo Bajo Yupehue Cruce Puyanhue sector Kms. 23.348,46 al 41.637,97 y 41.769,92 al 45.286,79'' y se acordó el valor de indemnización con su propietario Dionisio Luciano Constanzo Salgado, ascendente a la cantidad de $232.131.
+
+Fiscal del Ministerio de Obras Públicas.
