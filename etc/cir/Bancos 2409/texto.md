@@ -9218,7 +9218,7 @@ Las instituciones financieras no podrán avalar o afianzar obligaciones a cargo 
 
 6.- Avales y fianzas en moneda extranjera.
 
-De conformidad con lo dispuesto en el Capítulo XX del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las empresas bancarias pueden avalar o afianzar operaciones en moneda extranjera, con las limitaciones que se indican en el Capítulo III.I.1 antes mencionado, a favor de personas naturales o jurídicas residentes en Chile o en el extranjero, siempre que no correspondan a garantía de pago de importaciones chilenas.
+De conformidad con lo dispuesto en el Capítulo XX del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las empresas bancarias pueden avalar o afianzar operaciones en moneda extranjera, con las limitaciones que se indican en el Capítulo III.I.1 antes mencionado, a favor de personas naturales o jurídicas residentes en Chile o en el extranjero.
 
 Los importes en moneda extranjera que los bancos paguen a las personas residentes en el país, por haberse hecho efectivos los avales o fianzas que hayan otorgado, deberán ser liquidados a moneda corriente nacional en el mercado cambiario formal. Los bancos avalistas o fiadores serán responsables del cumplimiento de esta norma.
 
