@@ -1,0 +1,3 @@
+Por decreto MOP Nº1482, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº57, superficie 846 M2, rol de avalúo 5050-360, comuna de Punta Arenas, XII Región, para la obra "Reposición Ruta 9 y Acceso Aeropuerto, Sector (Ruta 9), Km. 5,31490 al 19,342349" y se acordó el valor de indemnización con su propietario don Juan Alejandro Mancilla Hidalgo, ascendente a la cantidad de $5.594.222.-
+
+Fiscal del Ministerio de Obras Públicas.
