@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.279, de 24 de agosto de 2004, de esta Subsecretaría, autorízase a ADOLFO GINES GARVISO OLIVARES, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Ruta B1, sector Playa Hueso a 51 kilómetros al norte de Tocopilla, II Región, donde podrá procesar, en la línea de elaboración de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 24 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
