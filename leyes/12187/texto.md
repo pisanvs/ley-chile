@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Santa María para contratar uno o varios préstamos hasta por la cantidad de $ 8.000.000 con el fin de destinarlos en la extensión del alumbrado eléctrico en la comuna; para su servicio establece una contribución adicional de un dos por mil anual sobre el avalúo de los bienes raíces de la comuna.
