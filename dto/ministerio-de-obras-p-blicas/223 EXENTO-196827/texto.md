@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº223 de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº18, superficie 87,0 m², Rol de Avalúo Nº155-42, comuna de Cararrehue, para la obra "Camino Catripulli-Cararrehue, Sector Km. 108,02 al Km. 114,80" y se acordó el valor de indemnización con su propietario Juan Abel Jaramillo Pacheco, ascendente a la cantidad de $327.286.-
+
+Fiscal del Ministerio de Obras Públicas.
