@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.025 de fecha 28 de junio del 2002, se expropió el lote de terreno Nº91, superficie 362,00 m2, rol Nº764-97, comuna de Lampa, Región Metropolitana, para la obra ''Camino Ruta G-16 (Lipangue), tramo de Km. 4,450 a Km. 15,04419'' y se acordó el valor de indemnización con su propietaria Elvira Inés Saavedra Domínguez, ascendente a la cantidad de $2.041.736.-
+
+Fiscal del Ministerio de Obras Públicas.
