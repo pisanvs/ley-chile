@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº914, de 14 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840 se expropió el lote de terreno Nº4-D para la obra: Conexión Vial Camino Rancagua - Doñihue, Ruta H-30 - Ruta 5; que figura a nombre de Miguel Ortúzar, rol de avalúo en trámite, Comuna de Rancagua, VI Región, superficie 110 m2. La Comisión de Peritos, fijó con fecha 8 de noviembre de 1996, en la cantidad de $271.500.- para el lote 4-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186 de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
