@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.706, de 24 de junio de 1999, se expropió el lote de terreno No. 51, superficie 5.204 m2, rol de avalúo 106-26, comuna de San Pablo, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno-Puerto Montt. Sector San Pablo-Osorno, Décima Región y se acordó el valor de indemnización con su propietario Hugo Juan Soto Picand, ascendente a la cantidad de $ 3.445.647.-
+
+Fiscal del Ministerio de Obras Públicas.
