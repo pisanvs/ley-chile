@@ -1,0 +1,7 @@
+AUTORIZA A DON CORSINO BEYER STANGE PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 503 de 17 de Mayo de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Corsino Beyer Stange, RUT No. 3.955.907-2, domiciliado en Coihuín, Km. 13 camino Chamiza a Correntoso s/n, X Región, para ampliar actividades pesqueras autorizadas por resolución No. 1245, de 1987, de esta Subsecretaría, en orden a instalar y operar un establecimiento de cultivo del recurso Trucha arcoiris, en un sector de la ribera del río Chamiza, camino de Chamiza a Correntoso, Km 11 1/2, Comuna de Puerto Montt, Provincia de Llanquihue, X Región. La ubicación de la piscicultura está dada por las siguientes coordenadas U.T.M., de acuerdo con el plano que acompaña a la solicitud signado por el Servicio Nacional de Pesca con el No. Ordinal 826 a y b: N: 5.408.400 E: 681.250 Los alevines del recurso Trucha arcoiris provendrán de centros de cultivo autorizados del país.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo con las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 17 de Mayo de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
