@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº338 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº27, superficie 882 m², rol de avalúo Nº214-5, comuna de Teodoro Schmidt, para la obra "Camino S-60 Sector: Teodoro Schmidt - Hualpín, Km. 43,94000 al Km. 59,10294, Tramo I Km. 44,84000 al Km. 53,08000", IX Región y se acordó el valor de indemnización con su propietario Eduardo Pacter Pacter, ascendente a la cantidad de $1.667.758.-
+
+Fiscal del Ministerio de Obras Públicas.
