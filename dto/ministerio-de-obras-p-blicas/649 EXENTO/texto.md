@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 649, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 113, superficie 104 M2, rol de avalúo 2026-485, comuna de Melipilla, Región Metropolitana, para la obra ''Camino Reposición Ruta G-74-F, Sector Melipilla - Bollenar, Km. 0,00000 al 14,23039'' y se acordó el valor de indemnización con su propietario don Fernando Meza Velásquez, ascendente a la cantidad de $845.852.-
+
+Fiscal del Ministerio de Obras Públicas.
