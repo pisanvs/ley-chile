@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 471, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 24, superficie 1.491 M2, rol de avalúo 162-8, comuna de San Nicolás, para la obra "Camino Ruta N-60-O, Sector Río Ñuble - Portezuelo Tramo Km. 6.900,00 al 28.833,35 y se acordó el valor de indemnización con su propietario Marcelino Onias Carrasco Espinoza, ascendente a la cantidad de $633.973.-
+
+Fiscal del Ministerio de Obras Públicas.
