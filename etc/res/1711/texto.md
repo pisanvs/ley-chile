@@ -1,0 +1,11 @@
+Por Resolución N° 1711, de 22 de Noviembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a TOKYO SEA LIFE PARK, domiciliado en 6-2-3, Rinkaicho, Edogawa-ku, Tokyo 134, Japón, para recolectar en el litoral y las aguas de la bahía Fildes, Isla Rey Jorge, Archipiélago de las Shetland del Sur, Territorio Antártico Chileno y destinar a dicho centro extranjero, las especies que se indican, bajo la forma y condiciones que a continuación se expresan: Peces: Notothenidae; Invertebrados: Sedentaria, Anthozoa, Gastropoda, Isopoda, Pycnogonida, Holothuroidea, Ophiuroidea, Porifera, Ascidiacea y Especies bénticas no identificadas; Algas: Algas Rojas y Algas Cafés.
+
+Los ejemplares serán capturados mediante buceo, pesca con redes de mano y cerco y trampas. Las capturas se realizarán entre febrero y marzo de 1996, por un período máximo de dos semanas.
+
+Asimismo, autorízase a Tokio Sea Life Park para realizar en la Bahía Maxwell, Isla Ardley, Archipiélago de las Shetland del Sur, durante el período indicado anteriormente, observaciones de las siguientes especies de pingüinos, como parte de un proyecto científico destinado a estudiar su manejo, reproducción y comportamiento (ecología) en condiciones de cautiverio: Pygoscelis adeliae, Pygoscelis antarctica, Pygoscelis papua.
+
+El peticionario deberá llevar a su costa, a don José Miguel Fariña, C.I. N° 10.848.059-9, investigador del proyecto INACH N° 143 #Peces Herbívoros del Sublitoral Rocoso Antártico: una aproximación ecológica y fisiológica-, quien participará en la realización de las actividades que por la presente Resolución se autorizan, y deberán evacuar un informe con una descripción y evaluación de las labores desarrolladas por la peticionaria en las Islas Rey Jorge y Ardley.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes.
+
+Valparaíso, 22 de Noviembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
