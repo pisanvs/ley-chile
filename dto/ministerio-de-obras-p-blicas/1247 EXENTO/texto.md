@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.247, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº31, superficie 236 m², rol de avalúo 5050-140, comuna de Punta Arenas, XII Región, para la obra "Reposición Ruta 9 y Acceso Aeropuerto, Sector (Ruta 9) Km. 5,31490 al 19,342349, (Acceso Aeropuerto) Km. 0,000 al 1,295819" y se acordó el valor de indemnización con su propietario don Romualdo del Carmen Vera Bahamonde, ascendente a la cantidad de $2.154.346.
+
+Fiscal del Ministerio de Obras Públicas.
