@@ -40490,11 +40490,9 @@ N° de Inscripción* Nombre de la empresa.
 
 008 JERIA Y ASOCIADOS, AUDITORES CONSULTORES LIMITADA.
 
-Se incluyen sólo las firmas inscritas en el Registro que se encuentran
+010 ERNST & YOUNG (CHILE) AUDITORES - CONSULTORES LIMITADA.
 
-facultadas para prestar sus servicios profesionales a bancos y sociedades
-
-financieras.
+Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos y sociedades financieras.
 
 CAPITULO 20-1 (Bancos y Financieras)
 
