@@ -1,0 +1,3 @@
+Por resolución exenta Nº 777, de 3 de marzo de 2004, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 2.448, de 2000, de esta Subsecretaría, sólo en cuanto autorizó a SOCIEDAD PESQUERA IBIZA LIMITADA para operar la nave "Monte Igueldo" en la I Región, sobre el recurso Besugo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 3 de marzo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
