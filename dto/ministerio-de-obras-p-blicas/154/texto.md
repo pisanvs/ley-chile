@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº154, de 18 de febrero de 1 998, se expropiaron los lotes de terreno Nºs 24 y 27, superficies 4.980 y 2.350 m2. roles de avalúo 59l-6y590-22,comuna de Yungay, para la obra Proyecto Laja Diguillín, Area de Riego Yungay, Canal San José y se acordó precio de indemnización con su propietario Leonel Seguel Godoy, ascendente a la cantidad de $2.740.980.-
+
+Fiscal del Ministerio de Obras Públicas.
