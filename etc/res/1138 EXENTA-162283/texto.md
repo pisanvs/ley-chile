@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.138 de 30 de Agosto de 1985, conforme Art.
+
+5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector expropiado predios: "Hijuela Primera o Las Casas del Fundo San José de Colina" y "Resto de la Hijuela Central del Fundo San José", "San José y San Martín" de la comuna de Colina, Región Metropolitana, y derechos de aprovechamiento de aguas que corresponden a las parcelas Nos. 1 a la 26, sitios Nos. 1 al 29 y Reserva CORA Nos. 1 y 2 del Proyecto de Parcelación "San José" formado por predios señalados. Los derechos de agua se extraen del canal Colina y canal El Carmen, de derrames que se captan de la esquina nor - oriente del bien común C, y de Pozo Profundo.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
