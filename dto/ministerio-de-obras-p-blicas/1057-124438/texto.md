@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.057, de 30 de julio de 1998, se expropiaron los lotes de terreno No. s 2, 4, 8 y 9, superficies 12, 17, 609,50 y 3881,13 m2., respectivamente, roles de avalúos en trámite, 209-112 y 209-94, comuna de San Javier, para la obra Camino Ruta 5, sector Talca-Chillán, Km. 272.050 al 272.600. Intersección Desnivelada Acceso a Colbún y se acordó precio de las indemnizaciones con sus propietarios Abdias Cáceres, Celestino Tapia Macaya, Carmen Isabel Tolosa Allende y María Allende Ortiz y Otros, ascendentes a las cantidades de $ 141.984, para el lote 2; $ 609.696, para el lote 4; $ 54.121.586, para el lote 8; $ 244.013.313, para el lote 9.-
+
+Fiscal del Ministerio de Obras Públicas.
