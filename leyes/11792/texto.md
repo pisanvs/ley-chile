@@ -1,0 +1,1 @@
+Agrega inciso al artículo 38° de la ley 11.764, de 27 de diciembre de 1954, que reajustó las remuneraciones del personal de empleados y obreros de la Administración Civil del Estado.
