@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.483 de 6 de diciembre de 2004, de esta Subsecretaría, déjase sin efecto parcialmente la resolución Nº 3.298 de 2004, sólo en cuanto declaró la caducidad de la resolución Nº 2.542 de 2001, ambas de esta Subsecretaría, que autorizó a PESQUERA AGUA FRIA S.A. para desarrollar actividades pesqueras extractivas con la nave "Dubrovnik II", en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 6 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
