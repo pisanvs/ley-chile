@@ -4920,7 +4920,7 @@ a) El mismo día en que se efectúe el depósito y durante el día siguiente há
 
 b) El mismo día en que se efectúe el depósito y hasta el término del proceso de la tercera reunión de la cámara de compensación en que se presenten a cobro, para los depósitos efectuados con documentos de otras plazas de cargo de instituciones financieras que tienen presencia en la plaza o agrupación de plazas en que el documento se presenta a cobro.
 
-c) El mismo día en que se efectúe el depósito y hasta el cuarto día hábil bancario siguiente a aquél, cuando se trate de documentos a cargo de un banco que no tenga presencia en la plaza o agrupación de plazas en que el documento se recibe y cuyo cobro, por consiguiente, se efectúe mediante cobranza directa o a través de un sistema de corresponsalía.
+c) El mismo día en que se efectúe el depósito y hasta el tercer día hábil bancario siguiente a aquél, cuando se trate de documentos a cargo de un banco que no tenga presencia en la plaza o agrupación de plazas en que el documento se recibe y cuyo cobro, por consiguiente, se efectúe mediante cobranza directa o a través de un sistema de corresponsalía.
 
 Con todo, en aquellos casos en que el cobro de los documentos se haga efectivo en plazos inferiores a los señalados en este numeral, la institución depositaría deberá, desde el momento en que reciba el reembolso, permitir al depositante disponer de tales valores.
 
@@ -5598,7 +5598,7 @@ Las entidades que por algún motivo no concurran a alguna de las reuniones de c�
 
 6.- Documentos a cargo de instituciones que no tienen presencia en la plaza en que son recibidos.
 
-La instituciones bancarias que no tengan oficinas en alguna plaza o su respectiva agrupación de plazas, recibirán en cualquier cámara de compensación a la que concurran regularmente, los valores a su cargo que les sean presentados a cobro por el banco receptor, o bien podrán convenir un servicio de corresponsalía con una institución financiera que tenga presencia en esas plazas. Estas instituciones representarán a la respectiva entidad bancaria, recibiendo los documentos a su cargo, con el fin de proceder a su envío a la entidad librada, para su pago o rechazo, trámite que deberá ajustarse al plazo máximo de retención de cinco días, de que trata el Capítulo 3-1 de esta Recopilación.
+La instituciones bancarias que no tengan oficinas en alguna plaza o su respectiva agrupación de plazas, recibirán en cualquier cámara de compensación a la que concurran regularmente, los valores a su cargo que les sean presentados a cobro por el banco receptor, o bien podrán convenir un servicio de corresponsalía con una institución financiera que tenga presencia en esas plazas. Estas instituciones representarán a la respectiva entidad bancaria, recibiendo los documentos a su cargo, con el fin de proceder a su envío a la entidad librada, para su pago o rechazo, trámite que deberá ajustarse al plazo máximo de retención de que trata el Capítulo 3-1 de esta Recopilación.
 
 ### II. CANJE DE DOCUMENTOS EN MONEDA EXTRAJERA ENTRE INSTITUCIONES BANCARIAS
 
@@ -5890,7 +5890,7 @@ e5) Cada vez que lo disponga la Superintendencia de Bancos e Instituciones Finan
 
 f) Segunda Reunión (Corrección de errores / documentos de otras plazas).
 
-f1) Esta reunión se efectuará el subsiguiente día hábil bancario de efectuada la primera reunión, a las 9:45 horas en el mismo recinto de la Cámara, y estará destinada a rectificar los valores mal cobrados en la primera reunión.
+fl) Esta reunión se efectuará el siguiente día hábil bancario de efectuada la primera reunión, a las 9:45 horas en el mismo recinto de la Cámara, y estará destinada a rectificar los valores mal cobrados en la primera reunión.
 
 f2) La determinación de saldos a favor y en contra se hará conforme al procedimiento señalado en el numeral e4) anterior.
 
@@ -5900,17 +5900,17 @@ g) Tercera Reunión (Cámara de Devoluciones / documentos de otras plazas).
 
 g1) Esta reunión se efectuará todos los días hábiles a las horas que se indican:
 
-Martes: 12:00 horas
+Martes: 12.00 horas
 
-Miércoles a lunes: 11:30 horas
+Miércoles a lunes: 11.30 horas
 
 Si el día martes no fuere hábil la tercera Cámara del día siguiente hábil se celebrará a las 12.00 horas.
 
-g2) El objeto de esta reunión es efectuar el canje de los cheques u otros documentos rechazados por las instituciones libradas por falta de fondos o por cualquier otra causa. En esta reunión deberán ser presentados todos los valores entregados en la primera reunión del día hábil bancario anteprecedente y que las instituciones hayan devuelto por alguno de los motivos señalados.
+g2) El objeto de esta reunión es efectuar el canje de los cheques u otros documentos rechazados por las instituciones libradas por falta de fondos o por cualquier otra causa. En esta reunión deberán ser presentados todos los valores entregados en la primera reunión del día hábil bancario precedente y que las instituciones hayan devuelto por alguno de los motivos señalados.
 
 g3) Los cheques, para ser devueltos, deberán llevar estampado en el dorso un timbre de protesto, extendido en la forma prevista en el artículo 33 de la Ley de Cuentas Corrientes Bancarias y Cheques.
 
-En consecuencia, quedará establecida la conformidad de todos aquellos documentos que no sean devueltos por su intermedio, salvo que por acuerdo entre la institución receptora y la obligada al pago se resuelva que esta última pague el documento fuera de Cámara.
+En consecuencia, quedará establecida la conformidad de todos aquéllos documentos que no sean devueltos por su intermedio, salvo que por acuerdo entre la institución receptora y la obligada al pago se resuelva que esta última pague el documento fuera de Cámara.
 
 g4) El procedimiento de compensación de esta tercera reunión será igual al establecido en el numeral e4) anterior.
 
@@ -5970,13 +5970,13 @@ b) La Institución de Turno mencionada en la letra a) precedente, deberá entreg
 
 c) El Banco Central de Chile, sobre la base del "Estado de Saldos Resumidos Netos de Cámara", efectuará en el mismo día los cargos y abonos en las cuentas corrientes de las instituciones participantes, lo que representará el pago definitivo de los saldos resultantes de las reuniones del ciclo de cámara de los documentos de la misma plaza o agrupación de plazas, de las reuniones del ciclo de cámara de los documentos de otras plazas no pertenecientes a la misma agrupación de plazas, y de la compensación diaria por las operaciones de la red de cajeros automáticos.
 
-### IV. DEL ARCHIVO OFICIAL
+XV.- DEL ARCHIVO OFICIAL.
 
 12.- Cada Institución de Turno mantendrá en sus propios archivos las planillas o mensajes correspondientes a todas las reuniones de la Cámara Compensadora, efectuadas durante el período que haya ejercido el turno. La información que se origine por la utilización de un sistema de transmisión y procesamiento electrónico de datos, podrá conservarse en los medios magnéticos. El plazo de mantención de estos archivos será el que establezca la Superintendencia de Bancos e Instituciones Financieras, de acuerdo con lo dispuesto en el Art. 19° de la Ley General de Bancos.
 
 V.- DISPOSICION TRANSITORIA.
 
-13.- El procedimiento de cobro, compensación y pago de los documentos de otras plazas no pertenecientes a la misma agrupación de plazas será obligatorio a partir del 9 de marzo de 1998. No obstante, las instituciones podrán, de común acuerdo, fijar una fecha de inicio anterior, en cuyo caso la correspondiente Institución de Turno lo deberá informar oportunamente a la Superintendencia de Bancos e Instituciones Financieras.
+13.- Las modificaciones a que se refiere el Acuerdo N°855-06-000803 del Consejo del Banco Central de Chile, relativas a los numerales f1) y g2) del número 9.2, regirán a contar del 13 de septiembre de 2000.
 
 ANEXO N° 2
 
