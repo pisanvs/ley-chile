@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 240, de fecha 31 de Agosto de 1992, se expropió el lote de terreno No. 1, superficie 4.383 m2, rol de avalúo 2023-22, Comuna de Melipilla, para la obra Camino Autopista Santiago San Antonio, sector Melipilla Puangue y se acordó el valor de indemnización con su propietaria Rosa del Carmen Romanini Pozo y otro, ascendente a la cantidad de $ 2.226.591.-
+
+Fiscal del Ministerio de Obras Públicas.
