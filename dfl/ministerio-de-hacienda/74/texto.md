@@ -1,0 +1,1 @@
+Declara en reorganización la Dirección General de Prisiones y fija la planta y remuneraciones de su personal.
