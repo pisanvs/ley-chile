@@ -1,0 +1,5 @@
+AUTORIZA A DON WILLY ENRIQUE BERGS MORENO PARA INICIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA
+
+Por resolución No. 1.286, de 02 de Noviembre de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Willy Enrique Bergs Moreno, RUT No. 5.828.305-3, domiciliado en Avenida Pedro de Valdivia No. 0541, Temuco, para operar una planta industrial denominada "La Bahía", ubicada en Avenida Pedro de Valdivia No. 0541, Temuco, en la línea de elaboración de ahumado, donde procesará los siguientes recursos hidrobiológicos: Jurel, sierra, róbalo, cojinova del sur, trucha arcoiris, trucha café y salmón del pacífico. Los recursos trucha y salmón del pacífico deberán provenir de centros de cultivo autorizados. Se derogan las Resoluciones No. 188, de 1979 y No. 420, de 1981, ambas de esta Subsecretaría, que autorizaron a operar a don Enrique Bergs Muller en la planta antes citada, por muerte de su titular.
+
+Valparaíso, 02 de Noviembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
