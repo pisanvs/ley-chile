@@ -1,0 +1,5 @@
+Por Resolución No. 444, de 22 de Mayo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a C.I.P. CONSTRUCCION, INGENIERIA Y PROYECTOS LIMITADA, R.U.T. No. 85.521.800-3, domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras, que tiene autorizadas por Resolución No. 792, de 1989, de esta Subsecretaría, en orden a incorporar al centro de cultivo ubicado en el Sector 1 a que alude la Resolución citada precedentemente, las especies Trucha arco iris, Trucha café y Trucha cabeza de acero.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 22 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
