@@ -1,0 +1,3 @@
+Por resolución Nº 1.613, de 20 de noviembre de 1998, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 599 de 1987, Nº 264 y Nº 923 de 1988, Nº 1.652 y Nº 1.653, ambas de 1997 y Nº 149 de 1998, de esta Subsecretaría, que autorizaron a JUAN NEIRA ALTAMIRANO, Luis Saavedra Manríquez, Moisés Gallardo Vega, Raúl González Hurtado, Oscar Vidal Palma, para operar la nave ''Calypso III'', en virtud de la renuncia formulada por los titulares.
+
+Valparaíso, 20 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
