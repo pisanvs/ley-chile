@@ -40,37 +40,33 @@ o Se declaran bienes del patrimonio de la Universidad el edificio en que funcion
 
 #### Artículo 4
 
-o La Universidad se compone de las siguientes facultades presididas por su respectivo Decano:
+o La Universidad se compone de las siguientes Facultades, presididas por su respectivo Decano:
 
-a) De Ciencia, Matemáticas y Naturales;
+a) De Ciencias Matemáticas y Naturales;
 
-b) De Ingeniería y Arquitectura;
+b) De Ingeniería y de Arquitectura;
 
-c) de Ciencias Médicas;
+c) De Ciencias Médicas;
 
-d) De Ciencias Jurídicas y Sociales; y
+d) De Ciencias Jurídicas y Sociales;
 
-e) De Humanidades, Filosofía y Letras.
+e) De Humanidad, Filosofía y Letras; y
+
+f) De Agronomía y Veterinaria;
 
 #### Artículo 5
 
-o Formarán el Consejo Universitario:
+o El Consejo Universitario estará formado por:
 
-a) El Rector de la Universidad, que será a la vez, Director General de Educación Universitaria;
+a) El Rector de la Universidad que lo presidirá;
 
-b) Los Decanos de Facultades;
+b) Los Decanos de las Facultades;
 
-c) Dos representantes elegidos por la mayoría absoluta del Claustro Pleno Universitario, el cual deberá sesionar, para este objeto, con quorum no inferior a la mitad de sus miembros;
+c) Un miembro nombrado por el Presidente de la República; y
 
-d) El Director del Instituto Pedagógico;
+d) Dos representantes, ajenos a la docencia y pertenecientes a las actividades profesionales, elegido por la mayoría absoluta del claustro pleno universitario.
 
-e) El Director del Instituto Superior de Educación Física y Manual;
-
-f) Un miembro nombrado por el Presidente de la República;
-
-g) Tres representantes elegidos por instituciones científicas o profesionales, que signe el Presidente de la República; y
-
-h) Un representante de las Universidades particulares designado por el Presidente de la República.
+En caso de empate, decidirá el voto del Rector de la Universidad.
 
 #### Artículo 6
 
