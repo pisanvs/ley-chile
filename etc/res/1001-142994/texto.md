@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA MAR DEL SUR S.A. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.001, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Mar del Sur S.A., con domicilio en Punta Arenas, para iniciar actividades pesqueras extractivas en la zona de 200 millas marinas al Sur de 44° 30' L.S. con las embarcaciones "Mar del Sur I" y "Mar del Sur II", con las que podrá capturar los siguientes recursos hidrobiológicos: Merluza del Sur, merluza de cota, merluza de tres aletas, merluza común, raya, cojinova, jurel, caballa, sardina española, brótula, congrio colorado, congrio negro, congrio dorado y krill. Asimismo, se la autoriza para operar planta procesadora en las líneas de elaboración de congelado y conserva en la XII Región, camino Tres Puentes, kilómetro 5 Norte, donde elaborará los mismos recursos que se le faculta extraer con las embarcaciones autorizadas.
+
+Valparaíso, 29 de Diciembre de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
