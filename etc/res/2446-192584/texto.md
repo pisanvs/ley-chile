@@ -1,0 +1,3 @@
+Por resolución Nº 2.446 de 5 de diciembre de 2001 de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 2.338 de 2001, de esta Subsecretaría, que autorizó al INSTITUTO DE INVESTIGACION PESQUERA OCTAVA REGION, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2001-12 denominado ''Condición Biológica de Jurel en Altamar, año 2001'', en el sentido de reemplazar la nave ''Huachinango'' por la nave ''Don Boris'', ambas de propiedad de Sociedad Pesquera Landes S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 5 de diciembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
