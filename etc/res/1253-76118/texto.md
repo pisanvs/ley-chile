@@ -1,0 +1,3 @@
+Por Resolución Nº 1.253 de 25 de septiembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las Resoluciones Nº 270, de 1990 y Nº 79, de 1991, ambas de esta Subsecretaría, que autorizaron a JUAN JOSE ROJAS STUBING, para realizar actividades pesqueras extractivas con la nave "Reina del Quisco", por suspender operaciones de pesca por más de 12 meses sucesivos, a contar del mes de octubre de 1995, incurriendo en la causal de caducidad prevista en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 25 de septiembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
