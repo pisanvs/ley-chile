@@ -1,0 +1,5 @@
+DISPONEN EXPROPIACIONES DE INMUEBLES QUE INDICAN
+
+Resolución Nº 69 de fecha 5 de agosto de 1998, Serviu VI Región Libertador Bernardo O'Higgins ordenó expropiación de parte de un inmueble ubicado en el Litoral s/n, Rol de Avalúos Nº 1403-10 de la comuna de Rancagua, de una superficie de 2.247,00 metros cuadrados, delimitada en el Polígono A-B-C-D-A-, conforme al Plano Serviu VI Región T-364, de marzo de 1997, de aparente dominio de don Carlos Barrios Aros, dominio inscrito a fojas 4517 Nº 4167 del Registro de Propiedad del Conservador de Bienes Raíces de Rancagua, correspondiente al año 1985, para ejecución de las obras de ''Ensanche de la Avenida El Sol, entre las calles Los Talaveras y Lircay'', de la comuna de Rancagua, conforme artículo Nº 51 Ley 16.391 y D.L. 2.186. Comisión Tasadora Peritos: arquitectos Sres. Alejandro Sandoval, Eduardo González Brard y constructor civil don Eduardo Padilla, según informe de fecha 22 de julio de 1998, fijó monto provisional en la cantidad de $17.529.000.
+
+Director Serviu VI Región.
