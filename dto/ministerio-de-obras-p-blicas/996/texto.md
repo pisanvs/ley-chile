@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 996 de 25 de noviembre de 1996, se expropiaron los lotes de terreno Nºs.3,4,5y6, superficies 467,163,167 y 1.063 m2, rol de avalúo 539-25, comuna de Linares, para la obra Camino Ruta 5 Longitudinal Sur, sector San Javier-Parral I,Tramo B, de acordó el valor de indemnización con su propietario Luis Rojas larrañaga, ascendente a la cantidad de $13.759.460.
+
+Fiscal del Ministerio de Obras Públicas.
