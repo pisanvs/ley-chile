@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República para transferir a la Municipalidad de Temuco el dominio de la propiedad fiscal que indica, ubicada en dicha ciudad, con el fin de que construya un gimnasio cerrado.
