@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.216 de 31 de agosto de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s. 4-F y 27, para la obra: Camino Ruta H-455, Sector Santa Amalia - Pimpinela, Tramo km.
+
+0.000,00 a km. 12.282,94, que figuran a nombre de Espinoza Hernández Patricio, Pinto Miranda Hugo, rol de avalúo 31-298 y 31-478, comuna de Requínoa, VI Región, superficies 130 y 30 m2. respectivamente. La Comisión de Peritos fijó con fecha 15 de septiembre de 1998, en las cantidades de $792.000.- lote Nº 4-F y $239.000.- lote Nº 27. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
