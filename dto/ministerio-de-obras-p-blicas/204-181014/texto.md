@@ -1,0 +1,3 @@
+Por decreto MOP Nº204, de fecha 30 de Noviembre de 2000, se expropió el lote de terreno Nº20, superficie 17,00 M2, rol de avalúo 231-14, comuna de Villa Alegre, para la obra "Camino mejoramiento Ruta L-19, Sector cruce Longitudinal (Villa Alegre-Esperanza), Tramo Km. 0,000.00 al Km. 10,623.89" y se acordó el valor de indemnización con su propietario Carlos Enrique Ramírez Lobos y Otra, ascendente a la cantidad de $202.920.-
+
+Fiscal del Ministerio de Obras Públicas.
