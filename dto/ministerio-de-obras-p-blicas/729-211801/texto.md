@@ -1,0 +1,3 @@
+Por Decreto M.O. P. N° 729, de fecha 30 de Noviembre de 1995, se expropiaron los lotes de terreno N°s. 207, 263 y 268, superficies 186, 344 y 31,50 Mz, respectivamente roles de avalúos 258-9, 223-9 y 221-12, comuna de San Vicente, para la obra Camino Quinta de Tilcoco-Cruce Ruta 66, sector Tunca El Medio y se acordó precio de indemnización con sus propietarios Suc. Avila Aguilar y Suc. Raúl Castro Cáceres y otros, ascendente a las cantidades de $749.086 y $1.339.007.
+
+Fiscal del Ministerio de Obras Públicas.
