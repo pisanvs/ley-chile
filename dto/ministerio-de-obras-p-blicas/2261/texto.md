@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.261, de 30 de octubre de 1998, se expropiaron los lotes de terreno Nºs 24 y 26, superficies 1.123 y 840 m2, roles de avalúo 2141-148 y 1999-26, comuna de Puerto Montt, para la obra Camino Ampliación Ruta 5 Sur, Sector Puerto Varas Puerto Montt y se acordó precio de indemnización con su propietario Sergio Waldo Malatrassi Aguilera, ascendente a la cantidad de $ 16.618.090, para los lotes Nºs 24 y 26.
+
+- Fiscal del Ministerio de Obras Públicas.
