@@ -1,0 +1,5 @@
+Por Resolución Nº 780, de 4 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a FUNDACION ALMIRANTE CARLOS CONDELL, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Bajo Molle s/n, Iquique, I Región, donde podrá procesar, en las líneas de elaboración que a continuación se indican, los siguientes recursos hidrobiológicos: Conserva: Bonito, Caballa, Jurel, Sardina Española, Cholga, Almeja o taca, Culengue, Lapa, Locate, Pulpo; Congelado: Bacalao de profundidad, Bonito, Caballa, Cojinoba del norte, Cojinoba del sur, Cojinoba moteada, Jurel, Sardina española, Cholga, Almeja o taca, Culengue, Lapa, Locate y Pulpo; Fresco-refrigerado: Erizo, Lapa, Locate; Ahumado: Jurel y Cholga.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 4 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
