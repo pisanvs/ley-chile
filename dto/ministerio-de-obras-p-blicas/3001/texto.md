@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.001, de 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs. 1 y 3, superficies 1.075 m2. y 3.288 m2., rol de avalúo 24-77, comuna de Calle Larga, para la obra Camino Santiago - Colina - Los andes, Sector ''G'' By Pass Los Andes, Auco - Pocuro, Quinta Región y se acordó el valor de indemnización con su propietario Víctor Hernán Céspedes Lobos, ascendente a la cantidad total de $17.747.119.
+
+- Fiscal del Ministerio de Obras Públicas.
