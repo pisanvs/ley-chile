@@ -1,0 +1,3 @@
+Por resolución Nº 1.640 de 26 de julio de 2000 de esta Subsecretaría, déjase sin efecto las resoluciones Nº 1.005, de 1991 y Nº 48, de 1994, ambas de esta Subsecretaría, que autorizaron a CULTIVOS MARINOS PLEAMAR S.A., para operar un centro de cultivo ubicado en río Pudeto, sector de Quempillén, comuna de Ancud, provincia de Chiloé, X Región.
+
+Valparaíso, 26 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
