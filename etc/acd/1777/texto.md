@@ -1,0 +1,23 @@
+ACUERDO ADOPTADO POR EL COMITE EJECUTIVO DEL BANCO CENTRAL DE CHILE EN SU SESION No. 1.777
+
+Certifico que el Comité Ejecutivo de este Banco Central de Chile en su Sesión No. 1.777, celebrada el 14 de enero de 1987, adoptó el siguiente acuerdo:
+
+1777-19-870114 - Créditos externos avalados por instituciones Financieras.
+
+Se acordó autorizar a las empresas bancarias y sociedades financieras que, al 17 de enero de 1987 y en conformidad a los contratos de reestructuración de la deuda externa chilena, asumieron directamente, en forma total o parcial, obligaciones avaladas por ellas en favor de entidades financieras del exterior para con las recuperaciones en moneda nacional que hayan obtenido u obtenga de los deudores directos de las deudas así asumidas acceder al mercado de divisas para adquirir dólares de los Estados Unidos de América, al tipo de cambio vigente a la fecha de compra de las divisas. La adquisición de las divisas señaladas se realizará de la siguiente manera:
+
+a) Las instituciones financieras que hayan recibido tales pagos con anterioridad al 17 de enero de 1987, podrán adquirir la referida moneda extranjera hasta el 30 de marzo de 1987, para lo cual deberán presentar, a la aprobación previa de la Gerencia de Financiamiento Externo del Banco Central de Chile, la correspondiente Solicitud de Giro, cuyo monto en moneda extranjera no podrá exceder del importe en divisas que, al tipo de cambio establecido en el No. 6 del Capítulo I del Compendio de Normas de Cambios Internacionales, vigente a la fecha de pago efectuado por el deudor directo, haya sido equivalente al monto de dicho pago.
+
+b) En el evento que los pagos aludidos sean efectuados a partir del 17 de enero de 1987, las instituciones financieras podrán adquirir las respectivas divisas, hasta por los montas máximos señalados, sólo el mismo día en que dichos pagos sean efectuados, para lo cual deberán emitir la correspondiente Planilla de Cambios Internacionales, que indicará "Acuerdo No. 1777-19-870114 letra b)".
+
+Conjuntamente con las copias de la Solicitud de Giro o la Planilla de Cambios Internacionales antes aludida, según corresponda, las empresas bancarias deberán enviar al Banco Central de Chile una comunicación por la que instruyan a éste, en orden a que las divisas respectivas les sean depositadas en la correspondiente cuenta especial a que se refiere el Capítulo IV.E.2. del Compendio de Normas Financieras y declaren que renuncian, expresamente, por el monto pertinente, a la línea de crédito que establece la letra B del aludido Capítulo.
+
+c) Las instituciones financieras que, en el futuro, deban asumir en sus respectivos contratos de reestructuración, deudas originalmente avaladas por ellas en favor de entidades financieras del exterior, por estar impagas a su vencimiento y haber sido invocadas por los acreedores, deberán devolver los respectivos certificados de ingreso de los créditos al Departamento de Aportes de Capital del Banco Central de Chile, para su inutilización o modificación, según corresponda. No obstante lo anterior, dichas instituciones financieras tendrán derecho al acceso al mercado de divisas, previsto en este Acuerdo, por las recuperaciones que reciban de los deudores directos originales de las obligaciones asumidas, para lo cual deberán actuar en conformidad a lo señalado en la letra b), indicando en la correspondiente Planilla de Cambios Internacionales "Acuerdo No. 1777-19-870114 letra c)".
+
+Se acordó, asimismo, determinar, que si las obligaciones asumidas en virtud de lo dispuesto en el párrafo anterior tenían o tienen acceso a la modalidad de pago a que se refiere el Capítulo XIII del Compendio de Normas de Cambios Internacionales y el deudor directo hubiere pagado o pague, a su garante, el todo o parte de la obligación se podrá solicitar, a la citada Gerencia de Financiamiento Externo, el acceso referido el que, de ser procedente, se otorgará en las condiciones que el aludido Capítulo establece.
+
+Se faculta a la Dirección de Operaciones del Banco Central de Chile para establecer los procedimientos necesarios para controlar y fiscalizar las operaciones que se realicen al amparo del presente Acuerdo.
+
+La Superintendencia de Bancos e Instituciones Financieras, en uso de sus atribuciones, dictará las normas contables y de control que sean procedentes.
+
+Santiago, 16 de enero de 1987.- Carmen Hermosilla Valencia, Secretario General.
