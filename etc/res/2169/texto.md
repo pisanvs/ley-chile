@@ -1,0 +1,3 @@
+Por resolución Nº 2.169, de 20 de octubre de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.271 de 1988, de esta Subsecretaría, en cuanto autorizó a PESQUERA CANTABRICO S.A., para operar la nave ''Maresma'' en el litoral de la X Región, de conformidad con lo establecido en el inciso segundo de la letra b) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 20 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
