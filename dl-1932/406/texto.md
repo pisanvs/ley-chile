@@ -1,0 +1,33 @@
+Consulta fondos
+
+Núm. 406.- Santiago, 11 de Agosto de 1932.- Teniendo presente:
+
+Que para fines de seguridad interior y mantenimiento del orden y tranquilidad públicos es indispensable la inversión de fondos cuya rendición de cuentas no puede quedar sujeta a las disposiciones generales que rigen la materia;
+
+Que se han efectuado y deberán efectuarse en lo sucesivo gastos reservados cuya imputación, en razón de no existir en el Presupuesto del Ministerio del Interior un rubro especial, se ha efectuado al ítem de imprevistos del citado Ministerio;
+
+Que para regularizar esta situación y facilitar en lo sucesivo las inversiones de esta naturaleza que sea indispensable autorizar, procede determinar de antemano la forma en que deberán rendirse las cuentas correspondientes.
+
+El Presidente Provisorio de la República ha acordado y dicta el siguiente
+
+Decreto- ley:
+
+#### Artículo 1
+
+o Agréguese en la partida 04/01/04/v, el siguiente rubro:
+
+v-2 Gastos reservados__________________$ 100,000
+
+Dicha suma se deducirá de los fondos consultados para gastos imprevistos en la misma letra y partida.
+
+#### Artículo 2
+
+o Para los efectos de lo dispuesto en el artículo (23), veintitrés del decreto-ley N.o 258, de 22 de Julio próximo pasado, del Ministerio de Hacienda, se considerará como suficiente rendición de cuentas de la inversión de dichos fondos, los recibos globales que se presenten por el contador del Ministerio del Interior, visados por el Ministerio respectivo, o los que se presenten por el director de Investigaciones.
+
+Para la rendición de cuentas de los fondos a que se refieren los decretos del Ministerio del Interior, N.os 1,853 y 1,854, de 23 de Junio, 1,866, 1,867, y 1,868, de 25 del mismo mes, 2,265 y 2,526, de 11 y 20 de Julio respectivamente, imputados a imprevistos y que se considerarán de gastos reservados, bastarán los recibos globales que se presenten por el contador del Ministerio o por el director o prefecto de Investigaciones.
+
+#### Artículo 3
+
+o El presente decreto-ley regirá desde su publicación en el Diario Oficial.
+
+Anótese, tómese razón, regístrese, comuníquese, públiquese e insértese en el Boletín de Leyes y Decretos del Gobierno.- CARLOS DAVILA.- Joaquín Fernández F.- Enrique Zañartu P.
