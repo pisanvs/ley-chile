@@ -1,0 +1,3 @@
+Por Resolución N° 118 de 23 de Noviembre de 1994 de SERVIU I Región de Tarapacá, se dispuso expropiación conforme al Decreto Ley N° 2.186 de 1978 de edificaciones o mejoras, aparente dominio de Hernán Meyer y Cía. Ltda. construidas sobre predio Rol de Avalúo N° 950-1, Comuna de Arica. Comisión integrada por peritos señores Jorge Romero Ossio, Ricardo Muixi Decona, Constructores Civiles y Santiago Vallejos Medicic, Arquitecto, según informe de 05 de Octubre de 1994, fijó monto provisional de indemnización en $18.500.000, pagadero al contado.
+
+Director SERVIU I Región de Tarapacá.
