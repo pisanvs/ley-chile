@@ -1,0 +1,3 @@
+Por resolución Nº 754, de 11 de mayo de 1999, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al Sector Los Choros, IV Región, individualizada en el artículo 1º) Nº 10 del D.S. Nº 10, de 1998, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ORGANIZACION COMUNITARIA FUNCIONAL DE PESCADORES DE BAHIA LOS CHOROS.
+
+Valparaíso, 11 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
