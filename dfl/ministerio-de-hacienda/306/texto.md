@@ -1,0 +1,1 @@
+Reestructura la Dirección General del Crédito Prendario y de Martillo y fija la planta de su personal.
