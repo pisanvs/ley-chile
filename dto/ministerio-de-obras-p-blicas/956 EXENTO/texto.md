@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº956, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº1-B, superficie 2.249,22 m², rol de avalúo 94-79, comuna de Pelarco, VII Región, para la obra ''Camino Los Robles - Huencuecho - Bajo Perquín, Sector Huencuecho - Bajo Perquín, Tramo Km. 46,140 al 76,107.70'' y se acordó el valor de indemnización con su propietaria doña María Josefina Correa Echenique, ascendente a la cantidad de $1.815.179.-
+
+Fiscal del Ministerio de Obras Públicas.
