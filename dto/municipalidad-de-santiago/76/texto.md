@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 76, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas 2431-2439, Rol 333-4 Santiago, aparente dominio Asociación General Buses Catedral Lourdes, superficie aproximada a expropiar 422 m2. Deslindes: Norte, 10,80 mts. resto predio Sur, 10,80 mts. calle Agustinas; Oriente 38,00 mts. con otro propietario en línea quebrada y Poniente, 38,00 mts. otro propietario. Indemnización provisional $ 7.353.000.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
