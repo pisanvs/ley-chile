@@ -1,0 +1,3 @@
+Por resolución Nº 545, de 30 de marzo de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95101049 presentada por FELIPE GUSTAVO INFANTE URREJOLA, para instalar y operar el centro de cultivo ubicado en la ribera norte del Río Maullín, Comuna de Maullín, Provincia de Llanquihue, X Región.
+
+Valparaíso, 30 de marzo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
