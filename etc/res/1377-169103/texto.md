@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución interna N° 1.377, de fecha 20.10.87, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a la Asociación Gremial de Transporte de Pasajeros Buses Servicio Pullman "Santiago - Puente Alto" para efectuar el servicio de combinación con el Ferrocarril Metropolitano de Santiago que se individualiza más adelante, cuyo trazado se describe a continuación
+
+LINEA DE BUSES N° 82 "SERVICIO PULLMAN SANTIAGO - PUENTE ALTO" SERVICIO COMBINACION: SAN GERONIMO - TRINIDAD - METRO LO OVALLE Circunvalación: Desde su terminal en Costanera con Ejército Libertador continúa por Ejército Libertador - Sargento Menadier - Augusto D'Halmar - Genaro Salinas Av. Concha y Toro - Eyzaguirre - Balmaceda - Cordero Av. Vicuña Mackenna - Av. Trinidad - Av. Américo Vespucio - Cran Av. José Miguel Carrera - Jorge Cáceres - Angamos - Fuenzalida Urrejola Contacto Estación Metro Lo Ovalle - Gran Av. José Miguel Carrera - Av. Américo Vespucio - Av. Trinidad - Av. Vicuña Mackenna - Av. Concha y Toro - Sargento Menadier - Ejército Libertador hasta Costanera, su terminal.
+
+Santiago, 21.10.87.- Carlos Román Toro, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
