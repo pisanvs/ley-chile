@@ -1,0 +1,3 @@
+Por resolución Nº 753, de 26 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 95103037, presentada por SALMONES CHONCHI S.A., para operar un centro de cultivo al sur de Punta Chulequehue, canal Dalcahue, comuna de Castro, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14 del D.S. Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
