@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.200 de 31 de agosto de 2004, se expropió el lote de terreno Nº 126, superficie 1.920,00 M2, rol de avalúo 144-49, comuna de Queilén, para la obra "Camino Ruta W-853, Teupa-Queilén, Sector Santa María-Queilén, Tramo Km. 25,96000 a Km. 42,34833", X Región y se acordó el valor de la indemnización con Ema Chacón Naguelquin, ascendente a la cantidad de $686.339.
+
+Fiscal del Ministerio de Obras Públicas.
