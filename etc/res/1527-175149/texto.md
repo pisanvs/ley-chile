@@ -1,0 +1,3 @@
+Por resolución Nº 1.527, de 14 de julio de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Puerto Oscuro, IV Región, individualizada en el artículo 1º) Nº 6 del DS Nº 10 de 1998, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION GREMIAL DE PESCADORES ARTESANALES CALETA PUERTO OSCURO, comuna de Canela, IV Región.
+
+Valparaíso, 14 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
