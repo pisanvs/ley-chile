@@ -1,0 +1,5 @@
+DELEGA EN EL JEFE JURIDICO REGIONAL FACULTADES QUE INDICA
+
+Mediante resolución N° Ex. 3.316, de Junio de 1994, el suscrito delegó en el Jefe del Departamento Jurídico de esta Regional las facultades para conocer y fallar todas las reclamaciones de los contribuyentes en contra de las liquidaciones, giros, pagos, resoluciones que deban tramitarse con arreglo a los procedimientos establecidos en el Título II, y en el párrafo 1° del Título III del Libro Tercero del Código Tributario, y para que conozca y resuelva todas las denuncias por infracciones que deban tramitarse de acuerdo a los procedimientos contemplados en los párrafos 1° y 2° del Título IV del Libro Tercero del citado Código Tributario, sin perjuicio de las facultades delegadas en las Resoluciones N° 13.585 y 9.679, de 1991 y 1992, respectivamente, derogándose las delegaciones de facultades que sobre las materias señaladas se habían efectuado con anterioridad en el Jefe del Departamento de Resoluciones Regional.-
+
+Bernardo Seaman González, Director Regional.
