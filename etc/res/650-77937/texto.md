@@ -1,0 +1,3 @@
+Por Resolución No. 650, de 15 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año a contar del 12 de Junio de 1992, el plazo otorgado al CENTRO DE ESTUDIOS AGRARIOS LIMITADA RUT No. 79.783.0801, domiciliado en Valdivia, domicilio postal Casilla No. 164, Valdivia, XI Región, para operar un establecimiento de cultivo, ubicado en un sector del Río Tornagaleones, Islote Huapi, Comuna de Corral, Provincia de Valdivia, X Región, autorizada por la Resolución No. 553, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de fuerza mayor.
+
+Valparaíso, 15 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
