@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 83, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas No. 2373-2377, Rol 332-10 Santiago, aparente dominio Alicia Cañas y Otra, superficie aproximada a expropiar 480 m2. Deslindes: Norte 13,25 mts. con resto predio; Sur, 14,60 mts. con calle Agustinas; Oriente, 34,00 mts. otro propietario y Poniente, 35,00 mts. otro propietario. Indemnización provisional $ 8.428.000.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
