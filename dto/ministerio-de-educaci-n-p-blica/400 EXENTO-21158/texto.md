@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 400 EXENTO, DE 1996
+
+Por Decreto Exento N° 400, de fecha 25 de julio de 1996, del Ministerio de Educación, se revocó el reconocimiento oficial y se eliminó del Registro de Centros de Formación Técnica el N° 103, al Centro de Formación Técnica Conandes de Arica, organizado por la Sociedad Comercial de Responsabilidad Limitada "Capacitación Ocupacional Norte Andes Limitada", Conandes Limitada. Asimismo, se derogó el Decreto Exento de Educación N° 91, del 20 de junio de 1984 que autorizó el funcionamiento del centro mencionado, también se derogaron las Resoluciones Exentas de Educación N° 2.106, del 20 de agosto de 1984, N° 950, del 7 de mayo de 1985 y N° 892, del 14 de abril de 1986, que aprobaron planes y programas de estudios de las carreras técnicas para el Centro de Formación Técnica.
+
+Santiago, 14 de agosto de 1996.- Jaime Pérez de Arce Araya, Subsecretario de Educación.
