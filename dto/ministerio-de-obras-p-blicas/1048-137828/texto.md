@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.048, de 29 de abril de 1999, se expropió el lote de terreno Nº 383, superficie 330,4 m², rol de avalúo 254-66, comuna de Los Lagos, para la obra ''Concesión Internacional Ruta 5; Tramo Temuco-Río Bueno'', Décima Región y se acordó el valor de indemnización con su propietaria Norma Alicia Vásquez Arévalo, ascendente a la cantidad de $309.549.-.
+
+Fiscal del Ministerio de Obras Públicas.
