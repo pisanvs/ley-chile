@@ -1,0 +1,7 @@
+AUTORIZA A ELABORACIONES Y DISTRIBUCIONES ALIMENTICIAS S.A. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 743, de 19 de Julio de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Elaboraciones y Distribuciones Alimenticias S.A., RUT No. 83.412.600-1, domiciliada en Santiago, para iniciar actividades pesqueras, en orden a operar una planta industrial ubicada en la V Región, calle Bernardo O'Higgins No. 218, San Felipe, donde procesará en la línea de elaboración de conserva, los siguientes recursos hidrobiológicos: Anchoa, Caballa, Jurel, Pejerrey, Salmón del Atlántico, Salmón del Pacífico, Sardina española, Sardina común, Trucha arco iris, Almeja, Caracol tegula, Caracol locate, Caracol trumulco, Chocha, Cholga, Chorito, Chorito maico o mejillón, Choro, Lapa, Loco, Ostión del Norte, Ostión del Sur, Camarón de roca, Camarón nailon, Centolla, Centollón, Langostino amarillo, Langostino colorado, Jaiba y Jaiba mora. Deberá adquirir los recursos Salmón y Trucha de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 19 de Julio de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
