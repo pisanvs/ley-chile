@@ -1,0 +1,5 @@
+Por decreto MOP. Nº 413, de 31 de marzo de 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 137, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, sector km. 21.900,00 al km.
+
+26.200,00, que figura a nombre de Magallón Gómez Nelson, Rol de Avalúo Nº 150-170, Comuna de Lampa, superficie 6.229 m2. La comisión de peritos integrada por Luz Araya Elizalde, René Armando Cruz Momberg y Leonardo Enrique Bastías Tessada, fijó con fecha 11 de diciembre de 1997, el valor provisional de la indemnización en la cantidad de $ 33.405.948.- para el lote 137. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
