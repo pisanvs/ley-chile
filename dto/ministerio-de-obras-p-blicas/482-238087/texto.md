@@ -1,0 +1,3 @@
+Por Decreto MOP N° 464 y 482, de 28 de junio de 1996, se expropió los lotes de terrenos N°s 40 y 59 respectivamente superficies 374 y 17.615 M2 rol de avalúo 20757 y 222-20 comuna de San Javier y Villa Alegre, para la obra Camino Ruta 5, Longitudinal Sur, Sector San Javier Parral I, Tramo A, y se acordó precio de la indemnización con sus propietarios, Guillermina del Carmen Bueno Campos y Jaime Prieto Ovalle, ascendente a las cantidades de $40.600.357 para el lote N° 40 y $118.276.062 para el lote Nº 59.
+
+- Fiscal del Ministerio de Obras Públicas.
