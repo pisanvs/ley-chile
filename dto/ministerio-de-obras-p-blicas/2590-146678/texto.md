@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.590, de 24 de septiembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº54-1 para la obra: Camino Santiago - Colina - Los Andes. Sector: ''A'' A. Vespucio - By Pass Colina. P.P. Las Canteras. Km. 6.680,00 al Km.
+
+6.970,00, Región Metropolitana, que figura a nombre de Soc. Agrícola El Portezuelo Ltda., rol de avalúo en trámite, comuna de Colina, superficie 404,2 m2. La Comisión de Peritos integrada por los señores Gustavo Domínguez Errázuriz, Carmen Pilar Ríos Marcuello y María Cristina Camus Palacios, fijó con fecha 06 de julio de 1999, el valor provisional de la indemnización en la cantidad de $2.741.650.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
