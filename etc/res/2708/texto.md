@@ -1,0 +1,7 @@
+Por resolución Nº2.708 de 30 de diciembre de 1999, de esta Subsecretaría, autorízase a TOKYO SEA LIFE PARK, para recolectar en el litoral y las aguas de la Bahía Fildes, Isla Rey Jorge, archipiélago de las Shetland del Sur, Territorio Antártico Chileno y destinar a dicho centro extranjero, las especies que se indican, bajo la forma y condiciones que a continuación se expresan: hasta 30 ejemplares de peces de la familia Notothenidae; hasta 210 ejemplares e invertebrados bentónicos, de los grupos: Porifera, Anthozoa, Gastropoda, Sedentaria, Arthropoda, Echinodermata, Ascidiacea y de otras taxas no identificadas; 20 ejemplares de macroalgas; y 50 kilos de algas sumergidas a la deriva, incluyendo los invertebrados asociados a ellas.
+
+Los ejemplares serán capturados mediante buceo, pesca con redes de mano y cerco y trampas. Las capturas se realizarán entre enero y febrero del año 2000, por un período máximo de dos semanas.
+
+El solicitante designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102 del D.S. Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción, al Director del Tokyo Sea Life Park, señor Fumio Watanabe.
+
+Valparaíso, 30 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
