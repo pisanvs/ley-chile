@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 349, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº 40, superficie 1.182,44 m², rol de avalúo 381-79, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, Expropiaciones Primaria 5/5, Derivado Mahuidanche, Sector Km. 7.790,94 al Km. 15.096,56" y se acordó el valor de indemnización con su propietario Francisco Sauterel Trinkl, ascendente a la cantidad de $633.975.-
+
+Fiscal del Ministerio de Obras Públicas.
