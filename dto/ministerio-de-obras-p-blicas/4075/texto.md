@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.075, de fecha 31 de agosto de 2000, se expropió el lote de terreno Nº11, superficie 46 M2, rol de avalúo 127-3, comuna de Machalí, para la obra ''Camino Caletones - Termas Cauquenes, Conexión Ruta 5 Sur, Roles H-255; H-35 y H-405, Sector Coya - Gultro, Km. 0,00000 a Km. 28,38019'' y se acordó el valor de indemnización con su propietaria Rosa Alba Gaete Contreras, ascendente a la cantidad de $431.388.
+
+Fiscal del Ministerio de Obras Públicas.
