@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.793, de 30 de septiembre de 1998, se expropiaron los lotes de terreno No. s 6, 6-A, 7, 7-A y 8 superficies 169, 280, 515, 280 y 2.907 m² respectivamente, rol de avalúo 137-347, comuna de San Francisco de Mostazal, para la obra Camino Ruta H-111, Sector Ruta 5-La Punta y se acordó precio de indemnización con su propietario Francisco Barriga Villarino y otro, ascendente a la cantidad de $11.606.069.- para los lotes 6, 6-A, 7, 7-A y 8.-
+
+Fiscal del Ministerio de Obras Públicas.
