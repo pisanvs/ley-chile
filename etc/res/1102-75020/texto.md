@@ -1,0 +1,3 @@
+Por Resolución Nº 1.102, de 1 de agosto de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase parcialmente la Resolución Nº 1.721, de 1989, de esta Subsecretaría que autorizó a Pesquera BahIa Inglesa S.A., para operar la nave "Matías", solo en cuanto se refiere a la III y IV Regiones, respecto de los siguientes recursos hidrobiológicos: Agujilla, Anchoveta, Jurel, Machuelo o tritre, Sardina española, Sardina común, conforme lo dispuesto en el artículo 143, letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 1 de agosto de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
