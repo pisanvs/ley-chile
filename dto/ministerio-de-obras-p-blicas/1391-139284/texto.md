@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.391, de 31 de mayo de 1999, se expropió el lote de terreno Nº 25, superficie 162 m2., rol de avalúo 189-133, comuna de Longaví, para la obra Camino Ruta 5 Longitudinal Sur, Sector San Javier - Parral II Tramo C: Km. 318.200,30 a km. 339.511,15, Sector Puente Longaví (Lado Norte - Sur), Séptima Región y se acordó el valor de indemnización con su propietario Juan Bautista Ortuya Fuentes, ascendente a la cantidad de $522.315.-
+
+Fiscal del Ministerio de Obras Públicas.
