@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 53, de 28 de febrero de 1994, se expropiaron los lotes de terreno N°s. 13 y 14, superficies 1.152 m2. y 504 m2., roles de avalúo 123-32 y 123-31, Comuna de Pencahue, para la obra Canal Las Doscientas Norte del Regadío Pencahue, y se acordó el valor de indemnización con su propietario Manuel Segundo Rojas Rojas, ascendente a la cantidad total de $87.064.-
+
+Fiscal del Ministerio de Obras Públicas.
