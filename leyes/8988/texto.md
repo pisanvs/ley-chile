@@ -1,0 +1,1 @@
+Aumenta la planta de Oficiales de Armas, de los Servicios y de Empleados Militares; suprime las plazas o empleos que indica; establece planta suplementaria con el personal civil que expresa.
