@@ -1422,11 +1422,13 @@ b) Los siguientes documentos emitidos por el Banco Central de Chile:
 
 - Pagarés Reajustables en Dólares (PRD), Capítulo IV.B.10 del Compendio de Normas Financieras.
 
+- Cupones de emisión reajustables opcionales (C.E.R.O.) en unidades de fomento.
+
+- Cupones de emisión reajustables opcionales (C.E.R.O.) en dólares.
+
 c) Pagarés emitidos por la Tesorería General de la República, correspondientes a emisiones seriadas de instrumentos de oferta pública.
 
-d) Bonos de la deuda interna y cualquiera otra clase de documentos.
-
-representativos de obligaciones del Estado o de sus instituciones o garantizados por aquél o éstas.
+d) Bonos de la deuda interna y cualquiera otra clase de documentos representativos de obligaciones del Estado o de sus instituciones o garantizados por aquél o éstas.
 
 e) Bonos, debentures y otros valores de renta fija inscritos en el Registro de Valores de la Superintendencia de Valores y Seguros.
 
@@ -1434,7 +1436,7 @@ e) Bonos, debentures y otros valores de renta fija inscritos en el Registro de V
 
 En las ventas o cesiones de documentos de su cartera de colocaciones o inversiones financieras que realicen los bancos y sociedades financieras deberán cumplirse las siguientes condiciones:
 
-a) Deben transferirse los títulos completos, no pudiendo, por lo tanto, venderse documentos sin transferirlos, vender separadamente los cupones de un título o ceder sólo participaciones sobre créditos. No obstante, al tratarse de Pagarés Reajustables del Banco Central de Chile con Pago en Cupones (PRC) y Pagarés Reajustables en Dólares del Banco Central de Chile (PRD), las instituciones financieras podrán venderlos o cederlos en forma fraccionada, a partir de un cupón o de la parte correspondiente a los derechos del mismo. En el caso de la venta de valores depositados en una empresa de depósito y custodia de valores de acuerdo con la Ley N° 18.876, la condición de vender títulos completos debe entenderse en relación con la posición mínima transferible según el reglamento de esa empresa;
+a) Deben transferirse los títulos completos, salvo que el fraccionamiento del instrumento de que se trate esté permitido en las normas del Banco Central de Chile como excepción a esta regla general. En todo caso, esta obligación de vender o ceder títulos completos no alcanza al fraccionamiento que, en base a posiciones mínimas trasfenbles, se efectúe con valores depositados en una empresa de depósito y custodia de valores de acuerdo con la Ley N° 18.876;
 
 b) Los títulos de crédito deberán estar extendidos cumpliendo todas las formalidades legales y exigencias tributarias;
 
@@ -6197,6 +6199,8 @@ Código Plaza Jurisdicción
 1008 Puerto Varas "
 
 1016 Fresia "
+
+1020 Los Muermos "
 
 1024 Puerto Montt "
 
@@ -17858,7 +17862,7 @@ d) Inversiones financieras (partidas 1705 a 1750).
 
 Se considerarán dentro de estos límites todas las obligaciones a plazo registradas en el pasivo a favor de otras instituciones financieras del país, cuyo plazo residual de vencimiento sea igual o inferior a un año a contar de la fecha del cómputo. No se consideran, por consiguiente, las obligaciones a la vista (partidas 3005 a 3015) y aquella parte de las obligaciones a plazo que será exigible a más de un año.
 
-Además, de acuerdo con lo establecido en el Capítulo III.D.l del Compendio de Normas Financieras del Banco Central de Chile, deben computarse como obligaciones las "pérdidas diferidas" de las operaciones con derivados efectuadas con las demás instituciones financieras del país. Para este efecto, se entenderá por "pérdida diferida" de un contrato derivado, el monto correspondiente a su equivalente de crédito calculado bajo las mismas reglas que las instituciones acreedoras deben aplicar para determinar sus activos ponderados por nesgo según lo previsto en el N° 3 del título II del Capítulo 12-1 de esta Recopilación.
+Además, de acuerdo con lo establecido en el Capítulo III.D.1 del Compendio de Normas Financieras del Banco Central de Chile, deben computarse las obligaciones correspondientes a operaciones con derivados efectuadas con las demás instituciones financieras del país. Para este efecto se entenderá por obligación de un contrato derivado, el monto correspondiente a su equivalente de crédito calculado bajo las mismas reglas que las instituciones acreedoras deben aplicar para determinar sus activos ponderados por nesgo según lo previsto en el N° 3 del título II del Capítulo 12-1 de esta Recopilación.
 
 No obstante lo indicado en los párrafos precedentes, no se considerarán como obligaciones computables, quedando en consecuencia exentas de los límites de que trata este Capítulo, los montos adeudados que se encuentren cubiertos con garantías constituidas con documentos de la cartera de inversiones financieras del deudor, cuando dichos documentos correspondan a alguno de los señalados en las letras a), b) o c) del N° 1 del Capítulo 8-21 de esta Recopilación.
 
