@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 322 de 23 de Marzo de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden al Proyecto de Parcelación "El Monte" de la Comuna de Calle Larga, V Región; y Derecho Aprovechamiento Aguas que corresponden a 20 parcelas N°s. 1 a la 20, sitios N°s. 1 al 19 y Reservas Cora N°s. 1 y 2, formado por el predio Santa Rosa de la misma Comuna. Los Derechos de Agua se extraen de los canales Petorca, Canal Santa Rosa y del Estero Pocuro.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
