@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 627 de 30 de junio de 1997, se expropiaron los lotes de terrenos Nºs. 2 y 3, superficies 682 m2. y 1.245 m2. respectivamente, rol de avalúo 265-26, Comuna de El Monte, para la obra Camino Autopista Santiago-San Antonio, Sector Plaza de Peaje El Paico, y se acordó precio de la indemnización con Patricia Bárbara del C. Frademann Elizondo, ascendente a la cantidad de $11.595.101.-
+
+Fiscal del Ministerio de Obras Públicas.
