@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PESQUERA RALUN LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 184, de 23 de Mayo de 1983, modificada por la Nº 193, de 30 de Mayo de 1983, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera Ralún Limitada, domiciliada en Santiago, para instalar y operar una planta elaboradora de conservas en Puerto Varas, Xa. Región, en la que podrá utilizar como materia prima loco, almejas, chorito, cholga, choro, erizo, ostra, macha, locate, jaiba, merluza común, merluza española, congrio negro, congrio dorado, culangue, congrio colorado, tollo, pejegallo, cojinova, corvina, jurel, calamar, salmón del Pacífico, trucha arco iris, centolla, pejerrey, langostino colorado, camarón y sardina común.
+
+Santiago, 30 de Mayo de 1983.- Roberto Verdugo Gomaz, Subsecretario de Pesca.
