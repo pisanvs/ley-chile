@@ -1,0 +1,65 @@
+EXTRACTO DE RESOLUCION Nº 404 EXENTA, DE 2002
+
+Por resolución exenta del Ministerio de Transportes y Telecomunicaciones Nº 404 de 18.03.2002, que se extracta, se asignó en el concurso público correspondiente al Segundo Cuatrimestre de 2001, a la sociedad Cornejo, Aguilar y Compañía Limitada, RUT Nº 78.776.530-0, con domicilio en Sargento Aldea Nº 641, comuna de Coyhaique, XI Región, una concesión de Radiodifusión Sonora en Frecuencia Modulada, para la localidad de Puerto Aysén, XI Región, con las características técnicas siguientes:
+
+- Potencia Máxima : 250 Watts.
+
+- Frecuencia : 88,3 MHz.
+
+- Sistema radiante : Direccional con polarización
+
+vertical, 12 antenas dipolo de
+
+media onda, de 12,8 dBd de
+
+ganancia máxima, con un azimut de
+
+radiación máxima en 45°, y una
+
+altura del centro de radiación de
+
+30 m.
+
+- Pérdidas en
+
+cables,
+
+conectores
+
+y otras : 1,27 dB.
+
+- Diagrama de radiación horizontal, de acuerdo a la siguiente tabla:
+
+Radial 0° 45° 90° 135° 180° 225° 270° 315°
+
+Pérdida
+
+por
+
+lóbulo
+
+(dB) 0,30 0,00 0,30 1,66 4,54 5,02 4,54 1,66
+
+- Ubicación del
+
+estudio, planta
+
+transmisora y
+
+sistema radiante : Teniente Merino Nº 1090, comuna de
+
+Aysén, XI Región.
+
+- Coordenadas
+
+Geográficas : 45°24'18". Latitud Sur;
+
+72°41'24" Longitud Oeste.
+
+Los plazos serán los que se indican a continuación: Inicio de obras: 5 días; Término de obras: 30 días; Inicio de servicio: 60 días.
+
+Todos estos plazos se cuentan a partir de la fecha de publicación en el Diario Oficial del decreto que otorgue la concesión.
+
+La presente publicación se hace de acuerdo a lo dispuesto en el artículo 13A de la Ley Nº 18.168 (Ley General de Telecomunicaciones), a objeto que quien tenga interés en ello pueda reclamar de la resolución exenta del Ministerio de Transportes y Telecomunicaciones Nº 404 de 18.03.2002, que se extracta, la cual asignó concesión, dentro del plazo de 10 días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.
+
+Subsecretario de Telecomunicaciones.
