@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.088, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº5, superficie 426,00 m², rol de avalúo 2087-097, comuna de Melipilla, para la obra "Camino Reposición Ruta G-74-F, Sector Melipilla - Bollenar, Km. 0.00000 a Km. 14,23039", y se acordó el valor de indemnización con su propietario Eleodoro Roberto Ahumada Villanueva, ascendente a la cantidad de $2.348.032.-
+
+Fiscal del Ministerio de Obras Públicas.
