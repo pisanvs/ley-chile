@@ -1,0 +1,5 @@
+En cumplimiento de lo dispuesto en los decretos del Ministerio de Economía, Fomento y Reconstrucción Nº 291, de 11 de junio de 1999, publicado en el Diario Oficial de fecha 13 de agosto de 1999, y Nº 668, de 16 de noviembre de 1999, certifico que por resolución (exenta) Nº 548, de 10 de julio de 2002, del señor Vicepresidente Ejecutivo, totalmente tramitada, se modificó la resolución (exenta) Nº 510, de 21 de junio de 2002 Ejecutivo, que aprobó el Reglamento de Subsidio Contingente a Intermediarios Financieros para el Financiamiento de Proyectos de Inversión de Pequeñas y Medianas Empresas - Sucoinversión.
+
+El texto completo de la antes referida resolución estará a disposición de los usuarios en la Secretaría General de la Corporación y en las Direcciones Regionales.
+
+Santiago, 12 de julio de 2002.- Yerko Koscina Peralta, Secretario General.
