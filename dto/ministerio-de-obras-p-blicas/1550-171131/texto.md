@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.550, de 28 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº2-A, para la obra Reposición Puente Bío Bío Antiguo Ruta 160 Concepción San Pedro, que figura a nombre de Santa Isabel S.A., rol de avalúo 558-5, comuna de Concepción, VIII Región, superficie 82 m2. La Comisión de Peritos, fijó con fecha 24 de mayo de 1999, el valor provisional de la indemnización en la cantidad de $10.385.000 el lote Nº2-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
