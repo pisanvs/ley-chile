@@ -1,0 +1,3 @@
+Por Resolución Nº 1.581, de 18 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución Nº 166 de 1990 y Nº 599 de 1995, de esta Subsecretaría, que autorizaron a PESQUERA CALIPSO S.A., para operar cuatro naves en construcción, en virtud de lo señalado en el Artículo 143 letra b), del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 18 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
