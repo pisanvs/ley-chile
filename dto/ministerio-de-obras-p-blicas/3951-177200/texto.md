@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.951, de 31 de agosto de 2000, se expropió el lote de terreno Nº2, superficie 1.055 m2., rol de avalúo 189-146, comuna de Longaví, para la obra Concesión Internacional Ruta 5. Tramo Talca - Chillán. Séptima Región y se acordó el valor de indemnización con su propietario Pedro Lorenzo Muñoz Méndez, ascendente a la cantidad de $14.050.801.-
+
+Fiscal del Ministerio de Obras Públicas.
