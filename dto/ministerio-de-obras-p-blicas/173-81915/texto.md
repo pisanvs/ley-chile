@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 173, de 26 de julio de 1991, se expropiaron los lotes N°s. 1 y 2, superficies 3.610 m2. y 10.348 m2., respectivamente, rol de avalúo para ambos lotes 153-1, Comuna de Maule, para la obra Camino Longitudinal Sur, Ruta 5 (Segunda Calzada), sector Panguilemo - San Javier y se acordó precio de indemnización con su propietario don Hugo Sergio Gálvez Gaete, ascendente a la cantidad total de $ 6.263.704.- para dichos lotes.
+
+Fiscal del Ministerio de Obras Públicas.
