@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.479, de 28 de septiembre de 2001, se expropió el lote de terreno Nº 53, superficie 913 m2., rol de avalúo 499-7, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso-Viña del Mar, Troncal Sur, Tramo 1, Tramo Km. 87.700,00 al Km. 91.000,00, Quinta Región, se acordó el valor de la indemnización con su propietario Jaime Javier Herreros Cuadra, ascendente a la cantidad de $10.439.950.
+
+- Fiscal del Ministerio de Obras Públicas.
