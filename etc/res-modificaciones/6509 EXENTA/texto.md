@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION No. EX 3.024 DE 06.05.92 SOBRE DELEGACION DE FACULTADES
+
+Por Resolución No. Ex-6.509 de 30 de Octubre de 1992, el suscrito ha modificado la Resolución No. Ex-3024 de 06 de Mayo de 1992, sobre delegación de facultades, en los funcionarios que se señalan por su referencia numérica y que corresponden a los descrito en la Resolución No. Ex-968 de 11.03.92 y su modificación mediante Resolución No. Ex-2410 de 26.06.92 ambos de la Dirección Nacional publicada en el Diario Oficial el día 16.03.92 y 04.07.92, respectivamente. La modificación señalada dice relación con materias referentes a la Ley 17.235, sobre Impuesto Territorial en el sentido de incorporar a la Unidad de San Carlos, con iguales facultades a las señaladas para la Unidad de Lebu.-
+
+Concepción, Noviembre 1992.- Eduardo Escare Castillo, Director Regional.
