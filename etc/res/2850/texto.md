@@ -1,0 +1,3 @@
+Por resolución Nº 2.850, de esta Subsecretaría, rectifícase la letra d) del numeral 1º de la resolución Nº 2.817 de 2002, que modificó la resolución Nº2.318 de 2002, ambas de esta Subsecretaría, que autorizó a la UNIVERSIDAD AUSTRAL DE CHILE, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Monitoreo de la pesquería artesanal de anchoveta y sardina común X Región Exterior (Valdivia)", en el sentido de señalar que las naves excluidas de la pesca de investigación corresponden a las siguientes: Don Joaquín, Eben Ezer, Nelly, Elizabeth II y Samaritano II.
+
+Valparaíso, 11 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
