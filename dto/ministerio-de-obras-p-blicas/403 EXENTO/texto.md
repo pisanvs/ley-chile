@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº403, de 28 de marzo de 2002, se expropió el lote de terreno Nº13, superficie 8 m², rol de avalúo 549-16, comuna de La Florida, para la obra Proyecto Sistema Américo Vespucio Sur. Ruta 78-Av. Grecia, sector 4: Acceso Sur a Santiago-Av. Vicuña Mackenna, Región Metropolitana y se acordó el valor de indemnización con su propietaria Lilian del Carmen Velásquez Quezada y otros, ascendente a la cantidad de $620.600.- para el lote Nº13,
+
+Fiscal del Ministerio de Obras Públicas.
