@@ -1,0 +1,7 @@
+Reconocimiento de órdenes de pago
+
+Santiago, i Diciembre 11 de 1820.
+
+El Supremo Gobierno, que tiene empeñada su palabra por la amortizacion mas pronta i efectiva de la deuda nacional, i que ha visto con satisfaccion casi estinguido el papel moneda, que ya obra en el cambio con mui corta diferencia que el sonante: deseoso de manifestar a costa de cualquier sacrificio la sinceridad i buena fe de sus pactos, la firmeza i buen estado de su crédito i la delicadeza de su carácter; ordena por el presente: que así como se tomó razon de los billetes en el Tribunal de Cuentas, para que fueran, como ha sido, relijiosamente cubiertos, se presenten desde la publicacion de este decreto hasta el treinta i uno de Enero inmediato en la Tesorería Jeneral todos los decretos, sentencias u órdenes de pago librados o visados por el Supremo Gobierno, para que, pasados allí al libro de créditos pasivos, pongan los Ministros al pié de cada uno de los presentados el cónstame con media firma de ámbos i todos los que no se presentaren en el término dado de cualesquiera punto del Estado donde existan sus propietarios o tenedores, quedarán sin efecto.
+
+Tómese razon en el Tribunal de Cuentas i Tesorería Jeneral: publíquese por bando es esta capital i en las de provincia, a quiénes se circulará; e imprímase en la Ministerial.-O'Higgins.-Dr. Rodríguez.
