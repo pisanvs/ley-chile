@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1141 de 6 de Julio de 1988, modificó Resolución Exenta No. 2020 de 28 de Septiembre de 1987, que aprobó Estudio Técnico de Distribución de Derechos de Aprovechamiento de Aguas de Proyecto de Parcelación "Santa Margarita", de la comuna de El Carmen, VIII Región, en el sentido de distribuir derechos de agua a los sectores A y B de los sitios 7, 8 y 9 y no como se expresaba en dicha Resolución. Publicación hecha conforme art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
