@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 43, de 23 de febrero de 1993, se expropiaron los lotes de terreno N°s. 1 y 5, superficies 240 m2. y 537 m2., respectivamente, roles de avalúo 337-95 y 335-10, Comuna de Cunco, para la obra Camino Temuco Cunco por Huichahue y se acordó precio de indemnización con sus propietarios Fermín Huircaleo Collío y Reginio Beltrán Domínguez, ascendente a las cantidades de $ 372.621.- y $1.515.788.
+
+Fiscal del Ministerio de Obras Públicas.
