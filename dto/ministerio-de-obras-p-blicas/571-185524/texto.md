@@ -1,0 +1,3 @@
+Por decreto MOP Nº571, de 30 de marzo de 2001, se expropiaron los lotes de terreno Nºs. 14 y 15, superficies 357 m² y 216 m², rol de avalúo 107-51, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Tramo 7B, Región Metropolitana y se acordó el valor de indemnización con su propietaria Laura de las Mercedes González González, ascendente a la cantidad total de $3.253.690.
+
+Fiscal del Ministerio de Obras Públicas.
