@@ -1,0 +1,3 @@
+Por resolución Nº 1.832, de 31 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las resoluciones Nº 1.401 de 1990, Nº 377 de 1991 y Nº 465 de 1994, todas de esta Subsecretaría, que autorizaron a don ARNOLDO MARIA POBLETE LARA, para realizar actividades pesqueras extractivas con la nave "Monserrat" por no haber operado sobre la especie Albacora entre marzo de 1992 y marzo de 1994 y no registrar operaciones respecto de las especies Sardina española y Anchoveta, de conformidad a lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 31 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
