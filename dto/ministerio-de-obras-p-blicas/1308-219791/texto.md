@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.308 de fecha 31 de octubre de 2003, se expropió el lote de terreno Nº 21, superficie 10.319 m2, Rol Nº 328-31, comuna de Laja, VIII Región para la obra "Camino Ruta Q-34, Candelaria - La Laja, sector Millantú - La Laja, Km. 20,00000 a Km. 35,88380" y se acordó el valor de indemnización con su propietario Alejandro Torres Urra, ascendente a la cantidad de $4.998.288.-
+
+Fiscal del Ministerio de Obras Públicas.
