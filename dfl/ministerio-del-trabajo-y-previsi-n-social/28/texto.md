@@ -1,0 +1,211 @@
+FIJA EL ESTATUTO DEL PERSONAL DE LA SUPERINTENDENCIA DE ADMINISTRADORAS DE FONDOS DE PENSIONES Y DETERMINA SU PLANTA Y REGIMEN DE REMUNERACIONES
+
+Santiago, 6 de Marzo de 1981.- Hoy se dictó el siguiente D.F.L. N° 28.- Visto: la facultad que me otorga el artículo 95 del decreto ley N° 3500, de 1980, dicto el siguiente
+
+Decreto con fuerza de ley:
+
+#### Artículo 1°
+
+Las relaciones jurídicas de la Superintendencia de Administradoras de Fondos de Pensiones con sus trabajadores se regirán por las normas contenidas en este Estatuto y en lo no contemplado en ellas, por las disposiciones establecidas en el D.F.L. 338, de 1960, y sus modificaciones.
+
+Para todos los efectos de este decreto con fuerza de ley, se entenderá por "Superintendencia" a la Superintendencia de Administradoras de Fondos de Pensiones; por "Superintendente" al Superintendente de la Superintendencia de Administradoras de Fondos de Pensiones; y por "trabajadores" o por "personal" a los trabajadores de la Superintendencia de Administradoras de Fondos de Pensiones.
+
+#### Artículo 2°
+
+Los trabajadores de la Superintendencia serán nombrados por resolución del Superintendente y podrán serlo de planta o a contrata. Son de planta aquellos consultados en la organización estable de la Institución con carácter permanente. Son a contrata aquellos que se desempeñen transitoriamente en la organización de la Superintendencia.
+
+Podrán efectuarse designaciones a contrata por jornada parcial y, en este caso, la remuneración será proporcional a ella.
+
+#### Artículo 3°
+
+Sin perjuicio de lo dispuesto en el artículo anterior, el Superintendente podrá contratar profesionales o expertos en determinadas materias a base de honorarios para la ejecución de labores específicas y que no sean las habituales de la Superintendencia. Estas personas no tendrán la calidad jurídica de trabajadores de la Institución ni les corresponderá, por los servicios que presten, ser imponentes o afiliados a un organismo previsional en calidad de dependientes.
+
+#### Artículo 4°
+
+Los trabajadores que desempeñen empleos de planta podrán hacerlo en el carácter de titulares, interinos, suplentes o subrogantes.
+
+Son titulares aquellos nombrados para ocupar en forma permanente una plaza vacante en la planta.
+
+Son interinos aquellos que se nombran para ocupar una plaza vacante, mientras se nombra a un titular, no pudiendo desempeñarse en esta calidad por un plazo superior a seis meses, al término del cual cesará automáticamente en el cargo.
+
+Son suplentes aquellos que se designan para ocupar un empleo de un titular o un interino, mientras éste se encuentre ausente o impedido de desempeñarlo, por más de 15 días, por cualquier causa.
+
+Serán subrogantes aquellos que por el solo ministerio de la ley deben ocupar el cargo de un titular, interino o suplente cuando éstos se hallen impedidos de desempeñarlo y regirá a su respecto lo dispuesto en el inciso final del artículo 23 del D.F.L. 338, de 1960. El orden de subrogación será determinado en resolución dictada por el Superintendente, sin perjuicio de lo establecido en el D.F.L. 101, de 1980, del Ministerio del Trabajo y Previsión Social.
+
+#### Artículo 5°
+
+Los trabajadores a contrata prestarán sus servicios por el término que fije el Superintendente en la resolución de nombramiento, la cual contendrá el grado de la planta de la Superintendencia a la que deberán estar asimilados, sin que les sea aplicable lo dispuesto en el artículo 6° del D.F.L. 338, de 1960.
+
+#### Artículo 6°
+
+Para ser designado trabajador de la Superintendencia, en cualquier calidad, se requerirá el cumplimiento de los requisitos establecidos en el artículo 12 del decreto ley 3551, publicado en el Diario Oficial de 2 de Enero de 1981.
+
+El personal será clasificado en los escalafones establecidos en dicho decreto ley debiendo, para tal efecto, cumplir los requisitos respectivos, sin perjuicio de la facultad del Superintendente para eximir de su cumplimiento a determinadas personas, por resolución fundada.
+
+Pertenecerán al escalafón Directivo: el Fiscal, los Jefes de División, los Jefes de Departamentos y los demás Directivos señalados en la planta.
+
+Pertenecerán al escalafón de Jefaturas los cargos denominados como tales en la Planta del Servicio.
+
+Pertenecerán al escalafón de Profesionales los funcionarios que realicen labores especializadas para cuyo desempeño se requiere algún título profesional universitario.
+
+Pertenecerán al escalafón Fiscalizador los funcionarios que ejecutan labores relacionadas con la aplicación y fiscalización de las normas que la ley establece para las Administradoras de Fondos de Pensiones.
+
+Pertenecerán al escalafón Administrativo los funcionarios que desempeñen labores administrativas y demás funciones que se les encomienden de acuerdo a su ubicación en el Servicio.
+
+Pertenecerán al escalafón Auxiliar los funcionarios que están a cargo del mantenimiento y aseo de los inmuebles y muebles del Servicio, de la conducción de vehículos motorizados y de la ejecución de otras tareas y funciones que les son propias.
+
+#### Artículo 7°
+
+El Superintendentetendrá la más amplia libertad para el nombramiento y destinación del personal.
+
+Los funcionarios de la Superintendencia cesarán en el cargo según lo dispuesto en la ley N° 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda. Sin perjuicio de lo anterior, los cargos afectos al sistema de alta dirección pública se regirán de acuerdo a las normas que regulan dicho sistema.
+
+El personal a contrata de la Superintendencia podrá desempeñar funciones de carácter directivo o de jefatura, las que serán asignadas, en cada caso, por el Superintendente. El personal que se asigne a tales funciones no podrá exceder del 10% del personal a contrata de la institución.
+
+#### Artículo 8°
+
+Los trabajadores de la Superintendencia estarán afectos al régimen de previsión de la Caja de Previsión de Empleados Particulares, sin perjuicio de que puedan acogerse, en su oportunidad, al sistema establecido en el decreto ley 3.500, de 1980.
+
+#### Artículo 9°
+
+De acuerdo a lo dispuesto en el D.F.L. 101, publicado en el Diario Oficial de 29 de Noviembre de 1980, que fija el Estatuto Orgánico de la Superintendencia y a lo establecido en el presente decreto con fuerza de ley, el Superintendente dictará un reglamento interno que fijará las funciones, atribuciones, deberes y responsabilidades del personal, su calificación y demás normas que sean necesarias para un mayor y más eficiente rendimiento de los trabajadores de la Superintendencia.
+
+#### Artículo 10°
+
+La jornada ordinaria de trabajo será de cuarenta y cuatro horas semanales, la que se distribuirá en la forma que determine el Superintendente en el Reglamento Interno.
+
+#### Artículo 11°
+
+El personal de la Superintendencia tendrá derecho, como retribución por sus servicios, al sueldo asignado al grado de la planta en que se encuentra designado, a la asignación de fiscalización que le corresponda de acuerdo al artículo 6° del decreto ley 3.551, de 1980, así como a las asignaciones especiales y demás remuneraciones adicionales establecidas en el artículo 7° del referido decreto ley conforme al artículo 47 del decreto ley 3.551, y se reajustarán en los mismos porcentajes de aumento que en cada oportunidad se establezcan para la Administración Pública. Las resoluciones que dispongan el nombramiento del personal contendrán el grado y escalafón que corresponda al trabajador.
+
+#### Artículo 12°
+
+Queda prohibido a toda persona que a cualquier título preste servicios en la Superintendencia, revelar el contenido de los informes que haya emitido, o dar a personas extrañas a ella noticia alguna acerca de cualesquiera hechos, negocios o situaciones que hubiere tomado conocimiento en el desempeño de su cargo.
+
+Esta prohibición no obstará a las informaciones que sobre los entes fiscalizados debe proporcionar el Superintendente dentro del ejercicio de sus funciones.
+
+Se prohíbe a los trabajadores de la Superintendencia intervenir en cualquier asunto en que tenga interés directo o indirecto él o su cónyuge o parientes hasta el 4° grado de consanguinidad o hasta el 2° grado de afinidad. Asimismo, les está prohibido prestar servicios de cualquier índole a empresas fiscalizadas por la Superintendencia, por sí o por medio de sociedades en que formen parte.
+
+comisión de estudios o como beneficiarios de becas y a quienes se les conserven sus empleos y las remuneraciones respectivas, quedarán obligados a:
+
+a) Informar por escrito dentro del plazo de los 30 días siguientes de su regreso al país de la labor o los estudios realizados;
+
+b) No abandonar el Servicio voluntariamente sino después de transcurrido un plazo igual al doble del período de la comisión; y
+
+c) Rendir caución para asegurar el cumplimiento de las obligaciones señaladas.
+
+Lo establecido en las letras b) y c) también podrá ser exigido por el Superintendente respecto de los Cursos de Capacitación realizados dentro o fuera del Servicio.
+
+Lo establecido en este artículo no obstará a la aplicación supletoria de las disposiciones contenidas en el decreto supremo N° 1.147, de 1977, del Ministerio del Interior.
+
+#### Artículo 13°
+
+Los trabajadores que se ausenten al extranjero en comisión de estudios o como beneficiarios de becas y a quienes se les conserven sus empleos y las remuneraciones respectivas, quedarán obligados a:
+
+a) Informar por escrito dentro del plazo de los 30 días siguientes de su regreso al país de la labor o los estudios realizados;
+
+b) No abandonar el Servicio voluntariamente sino despúes de transcurrido un plazo igual al doble del período de la comisión; y
+
+c) Rendir caución para asegurar el cumplimiento de las obligaciones señaladas.
+
+Lo establecido en las letras b) y c) también podrá ser exigido por el Superintendente respecto de los Cursos de Capacitación realizados dentro o fuera del Servicio.
+
+Lo establecido en este artículo no obstará a la aplicación supletoria de las disposiciones contenidas en el decreto supremo N° 1.147, de 1977, del Ministerio del Interior.
+
+#### Artículo 14°
+
+Créase la siguiente planta de la Superintendencia:
+
+------------------------------------------------------
+
+Designación N° de Grado Total por
+
+cargos EF. estamentos
+
+------------------------------------------------------
+
+Jefes Superiores
+
+Superintendente - - - - - 1 1 1
+
+Directivos
+
+Fiscal - - - - - - - - - 1 2
+
+Jefe de División - - - - 5 2
+
+Jefe de Fiscalizadores - 2 7
+
+Subjefe de Fiscalizadores 1 8 0
+
+Profesionales
+
+Profesionales I - - - - - 7 4
+
+Profesionales II- - - - - 5 5
+
+Profesionales III - - - - 4 6
+
+Profesionales IV- - - - - 1 10
+
+Profesionales V - - - - - 1 11 18
+
+Fiscalizadores
+
+Fiscalizadores I- - - - - 3 11
+
+Fiscalizadores II - - - - 2 12
+
+Fiscalizadores III- - - - 4 13
+
+Fiscalizadores IV - - - - 3 14 12
+
+Administrativos
+
+Administrativos I - - - - 8 17
+
+Administrativos II- - - - 11 18
+
+Administrativos III - - - 4 19
+
+Administrativos IV- - - - 2 20 25
+
+Auxiliares
+
+Auxiliares I - - - - - - 3 20
+
+Auxiliares II - - - - - - 2 21
+
+Auxiliares III - - - - - - 2 22 7
+
+-------------------------
+
+TOTAL DE LA PLANTA - - - - 72 72
+
+#### Artículo 15°
+
+Sin perjuicio de lo dispuesto en el artículo 1°, regirá respecto a la Superintendencia, en cuanto corresponda, lo previsto en el decreto ley 3551, de 1981.
+
+Tómese razón, comuníquese, publíquese e insértese en la Recopilación que corresponda de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Miguel Kast Rist, Ministro del Trabajo y Previsión Social.- Sergio de Castro Spikula, Ministro de Hacienda.
+
+Lo que transcribo a U. para su conocimiento.- Saluda a U.- Alfonso Serrano Spoerer, Subsecretario de Previsión Social.
+
+CONTRALORIA GENERAL DE LA REPUBLICA Departamento Jurídico
+
+Cursa con alcance DFL. N° 28, de 1981, del Ministerio del Trabajo y Previsión Social
+
+N° 10.413.- Santiago, 27 de Marzo de 1981.
+
+Esta Contraloría General ha dado curso al decreto con fuerza de ley del rubro, que fija el Estatuto del Personal de la Superintendencia de Administradoras de Fondos de Pensiones y determina su planta y régimen de remuneraciones, por cuanto ha sido dictado en conformidad con la norma delegatoria contenida en el artículo 95 del DL. N° 3500 de 1980, y a lo dispueto en el DL. N° 3551 del mismo año.
+
+Con todo, en cuanto a la facultad que el artículo 9° otorga al Superintendente para dictar las normas reglamentarias que indica, este Organismo entiende que ella concierne a aspectos meramente internos relativos al personal y que ha de ejercerse con sujeción a las disposiciones estatutarias que contiene el presente texto y a las que supletoriamente contempla el DFL. 338 de 1960.
+
+Además, cabe hacer presente que de acuerdo con lo establecido en el artículo 13 del DL. N° 3551, de 1980, las disposiciones sobre calificaciones del personal de esa entidad deberán aprobarse mediante resolución sujeta al trámite de toma de razón.
+
+Asimismo, cumple señalar que el encasillamiento derivado de la planta del personal que fija el documento en examen, deberá disponerse también por resolución afecta a toma de razón, conforme a lo que previene el artículo 11 del DL 3551.
+
+Con los alcances anotados, se ha tomado razón del decreto con fuerza de ley de la suma.
+
+Transcríbase al Departamento de Toma de Razón y Registro.- Dios guarde a US.- Miguel Solar Mandiola, Contralor General subrogante.
+
+Al señor Ministro del Trabajo y Previsión Social Presente
