@@ -1,0 +1,7 @@
+AUTORIZA A LA SOCIEDAD PESQUERA CORMORAN LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 809, de 13 de Julio de 1989, de esta. Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Pesquera Cormorán, R.U.T. No. 79.769.820-2, domiciliada en Puerto Montt, para ampliar actividades pesqueras que tiene autorizadas por Resolución No. 811, de 1988 de esta Subsecretaria, en orden a incorporar en la planta industrial ubicada en Pasaje Angelmó No. 5 y 7, Puerto Montt, X Región en las lineas de elaboración y además de los recursos autorizados por la Resolución antes citada, los siguientes: Albacora o pez espada, Agujilla, Anchoa, Bacalao de J. Fernández, Bacalao de profundidad o mero, Cojinoba del Norte, Cojinoba del Sur, Salmón keta, Salmón plateado (coho), Salmón rey, Trucha arco iris, Trucha café, Caracol locate, Choro, Lapa, Ostión del Norte, Ostión del Sur, Ostra chilena y Ostra del Pacífico. Las especies Ostra del Pacífico, Trucha arco iris Trucha café, Salmón keta, Salmón rey y Salmón plateado provendrán de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo con las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 13 de Julio de 1989.- Roberto Cabezas Bello Subsecretario de Pesca.
