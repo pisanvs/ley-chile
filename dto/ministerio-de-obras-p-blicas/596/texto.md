@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 596 de 30 de junio de 1997, se expropió el lote de terreno Nº 2, superficie 11.507,80 M², rol de avalúo 9049-23, Comuna de San Antonio, para la obra Proyecto Enlaces Ruta 78 del Camino Santiago-San Antonio, Sector Leyda-Agua Buena, Enlace Lo Gallardo y se acordó precio de la indemnización con Champion S.A. ascendente a la cantidad de $36.779.733.-
+
+Fiscal del Ministerio de Obras Públicas.
