@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.549, de 31 de agosto de 1999, se dejó sin efecto el decreto MOP Nº 1.131, de 28 de noviembre de 1999, complementado por decreto Nº 837, de 25 de junio de 1998, en la parte que se refiere a los lotes Nºs. 1 y 2-C, que figuran a nombre de Gustavo Alberto Jiménez Benavente y Alicia Angélica Burgos Muñoz, destinados para la ejecución de la obra Proyecto Laja - Diguillín, Area de Riego Pemuco, Canal San Miguel Pal Pal Bajo Ramal Nº 3-A y Ramal Nº 4.
+
+Fiscal del Ministerio de Obras Públicas.
