@@ -4002,7 +4002,7 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 
 31.° El que, habiendo recibido de buena fe moneda falsa o cercenada o títulos de crédito falsos, los circulare después de constarle su falsedad o cercenamiento, siempre que su valor no exceda de una unidad tributaria mensual.
 
-32.° El que con objeto de lucro interpretare sueños, hiciere pronósticos o adivinaciones, o abusare de la credulidad de otra manera semejante.
+32.° Derogado.
 
 33.° El que entrare en heredad ajena para coger frutas y comerlas en el acto.
 
