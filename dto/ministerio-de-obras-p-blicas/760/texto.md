@@ -1,0 +1,5 @@
+Por Decreto M.O.P. No. 760, de 29 de mayo de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. No. 850, de 1997, que fijó el texto actualizado de la Ley No. 15.840 de 1964 y del DFL. MOP.
+
+No. 206, 1960, se expropió el lote de terreno No. 73-9, para la obra Concesión Internacional Ruta 5, Tramo Los Vilos - La Serena, Sector B Hornillos - La Herradura, que figura a nombre de Araya Tello Israel del Carmen, Rol de Avalúo 786-25, comuna de Ovalle, IV Región, superficie 1.525 m². La Comisión de Peritos compuesta por las señoras María Iris Marcich Moller y Elisa Mercedes Tapia Fernández y el señor Juan Agustín Ibáñez Palma, fijó con fecha 7 de marzo de 1998, el valor provisional de la indemnización en la cantidad de $ 1.626.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley No. 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
