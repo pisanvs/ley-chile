@@ -1,0 +1,5 @@
+Por Decreto M.O.P. No. 336, de 26 de noviembre de 1986, se expropiaron los lotes de terreno N°s. 18, 65 y 66, 73 y 74, 84, 89-A. y 89-A1, 100 y 110, cuyas superficies son 327,50 m2., 114,50 m2., 27,60 m2., 11,90 m2., 367 m2., 79,50 m2. y 564,50 m2., respectivamente, roles de avalúo 44-122, 46-163, 46-110, 46-87,46.- 90, 46-69 y 46-204, Comuna de Peumo, para la obra Ruta H-66-G. Pelequén Cruce Las Arañas, sector Codao-Las Cabras y se acordó el precio de indemnización con sus propietarios don Héctor Teresio Orellana Orellana, Carlos Reyes Catalán, Luis Alberto Fuentes Olea, Juan Esteban Pino Vargas, Luis Artemio Espinoza Reyes y otros, Pedro Francisco Castro Venegas y Manuel Contreras Lara, ascendentes a $ 150.324, $ 135.221, $ 64.861, $ 60.386, $ 161.581, $ 51.153 y $ 297.656.
+
+- Fiscal del Ministerio de Obras Públicas.
+
+(2)
