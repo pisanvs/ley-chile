@@ -1,0 +1,3 @@
+Por resolución Nº 1.635, de 31 de agosto de 1999 de esta Subsecretaría, autorízase a GEOMAR S.A., para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 301, de 1994 y Nº 670, de 1995, ambas de esta Subsecretaría, en orden a incorporar a la planta ubicada en camino a Coronel Ruta 160 Km. 20, sector B, Escuadrón Coronel, VIII Región, en las líneas de elaboración que a continuación se indican los siguientes recursos hidrobiológicos: Conserva: Caracol real, Caracol trophon, Caracol trumulco y Caracol gigante; Congelado: Caracol real, Caracol trophon y Caracol gigante.
+
+Valparaíso, 31 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
