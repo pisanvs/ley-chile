@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.363, de 31 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, de 1964 y del DFL MOP.
+
+No. 206, 1960, se expropió el lote de terreno No. 203, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Km. 210.000 al 210.500, que figura a nombre de Comunidad Agrícola Fdo. Totoral, rol de avalúo 293-1, comuna de Los Vilos, IV Región, superficie 22.574 M2. La comisión de peritos compuesta por las señoras María Iris Marcich Moller y Elisa Mercedes Tapia Fernández y el señor Juan Agustín Ibáñez Palma, fijó con fecha 26 de junio de 1998, el valor provisional de la indemnización en la cantidad de $ 69.438.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
