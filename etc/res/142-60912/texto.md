@@ -1,0 +1,3 @@
+Por Resolución Nº 142, de 31 de enero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2 de la Resolución Nº 1.447 de 1996, de esta Subsecretaría, que autorizó a COMPAÑIA PESQUERA CAMANCHACA S.A., para operar la nave "Huara", matrícula Nº 2377, en el sentido de agregar el recurso hidrobiológico Sardina española, Sardinops sagax, entre los autorizados para pescar en la misma área y con el mismo arte de pesca señalados en dicho numeral.
+
+Valparaíso, 31 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
