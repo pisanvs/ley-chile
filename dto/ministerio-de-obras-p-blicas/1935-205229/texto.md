@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.935, de 31 de octubre de 2002, se expropió el lote de terreno Nº93-B, superficie 4.285,00 m2., rol de avalúo 600-11, comuna de Mulchén, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli. Sector Km. 534.180,00 al 544.020,00, Octava Región y se acordó el valor de indemnización con su propietaria Claudina M. Gómez González, ascendente a la cantidad de $5.243.122.- para el lote Nº93-B.-
+
+Fiscal del Ministerio de Obras Públicas.
