@@ -1,0 +1,7 @@
+Enseñanza pública
+
+Santiago, Enero 12 de 1813.
+
+Los cuidados que incesantemente ocupan al Gobierno no han bastado a distraer su atencion del objeto que debe influir mas segura i directamente en el bien público, cuya posteridad pende de la formacion de ciudadanos ilustrados i nutridos en los principios de virtudes que inspira la buena educion. A ese fin ha reedificado el antiguo Colejio de San Cárlos i unido a él la Academia de Matemáticas, el Seminario de Indias i las aulas de primeras letras i latinidad para que todos los jóvenes de la capital i de las provincias que quieran recibir enseñanza, o en calidad de alumnos, o de solo concurrentes, oigan lecciones desde los rudimentos de la relijion i el alfabeto hasta la conclusion de las ciencias abstractas i las de demostracion. El dia 3 de Marzo próximo se abrirá; i para entónces se habrán presentado los que aspiran a aprovecharse de las luces que allí se suministran i los Gobernadores, Jueces, Párrocos i Prelados que faciliten el acceso a los que por la distancia, falta de resolucion o de medios para venir, están espuestos a malograr talentos, o aplicacion que cultivados puedan ser útiles a la Patria, le harán el mayor servicio facilitándoles los arbitrios de aprovecharse de la Doctrina que se les prepara: en la intelijencia de que no los retraerá ni el lujo, ni las preferencias que solo se dispensarán al mérito i a los Indios para reparar la dura humillacion a que los redujo la injusticia. Para que llegue a noticia de todo el Reyno, imprímase. –
+
+Carrera.-Portales.
