@@ -1,0 +1,5 @@
+Por decreto MOP No. 1.295, de 31 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropiaron los lotes de terreno No.s. 1, 4, 5 y 6, para la obra Camino Ruta T-75, sector Chan-Chan, Puerto Nuevo, Tramo Kms.
+
+17,697.32 al 38,521.94 que figuran a nombre de Sergio Solís Pardo, Sociedad Fdo. Los Chilcos Ltda. y Alberto Lacoste Etchepare, roles de avalúos 540-116, 540-97 y 540-63, comuna de La Unión, superficies 270; 240; 150 y 230 m², respectivamente. La Comisión de Peritos compuesta por los señores Luis Narváez Espinoza, Luis Collarte Concha y Ernesto Zumelzu Delgado, fijó con fecha 30 de octubre de 1997, el valor provisional de las indemnizaciones en las cantidades de $ 108.000, lote 1; $ 240.000, lote 4; $ 152.500, lote 5 y $ 92.000, lote 6. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
