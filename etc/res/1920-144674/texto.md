@@ -1,0 +1,3 @@
+Por resolución Nº 1.920, de 23 de septiembre de 1999, de esta Subsecretaría, autorízase a PESQUERA COLOSO S.A., para ampliar las actividades pesqueras extractivas con la nave ''Marga Marga'', en orden a que la interesada podrá realizar actividades pesqueras con la nave señalada precedentemente, en el litoral de la I y II regiones, por fuera del área de reserva artesanal, donde podrá capturar con red de cerco los recursos hidrobiológicos Jurel fino y Sardina redonda.
+
+Valparaíso, 23 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
