@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº1.405, de fecha 30 de septiembre del 2002, se expropió el lote de terreno Nº1, superficie 1.937,5 m2, Rol Nº643-5, comuna de Río Claro, VII Región, para la obra ''Camino Ovejería-El Radal Rol K-275, Sector Pte. Pancho, Tramo Km. 0,177 al 0,652.15'' y se acordó el valor de indemnización con su propietario Jorge Raúl Cáceres Cavieres, ascendente a la cantidad de $1.041.703.-
+
+Fiscal del Ministerio de Obras Públicas.
