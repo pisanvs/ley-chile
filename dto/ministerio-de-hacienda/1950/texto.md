@@ -56,7 +56,9 @@ También podrán importar vehículos los estudiante lisiados de establecimientos
 
 #### Artículo 9°
 
-Las personas lisiadas que menciona el artículo 1° de éste Reglamento, podrán volver a importar un vehículo cuando el anterior hubiese sido destruido en algún accidente o siniestro, o fuese vendido a otro lisiado que cuente con el certificado de la. Comisión Especial, para utilizar el mismo tipo de vehículo, y a un precio inferior al valor aduanero actualizado al tipo de cambio vigente al día de la venta, siempre que en ambos casos así fuese aprobado por la Honorable Junta General de Aduanas, de conformidad con lo dispuesto en el artículo 3°, letra d), de la Ordenanza del Ramo.
+Las personas lisiadas que menciona el artículo 1° de este reglamento, podrán importar un nuevo vehículo al amparo de las franquicias que concede el artículo 6° de la Ley N° 17.238, cuando hubiesen transcurrido cinco años contados desde la fecha de la importación del anterior.
+
+Sin embargo, estos lisiados podrán importar otro vehículo antes de cumplirse el plazo señalado en el inciso precedente, cuando al anterior hubiese sido destruido en algún accidente o siniestro, o fuese vendido a otro lisiado que cuente con el certificado de la Comisión Especial para utilizar el mismo tipo de vehículo, circunstancias que serán calificadas por el Ministerio de Hacienda en la respectiva resolución que autorice la nueva importación.
 
 #### Artículo 10
 
@@ -162,7 +164,7 @@ Los vehículos a que se refiere el artículo 6° de la ley N° 17.238, sus modif
 
 #### Artículo 30°
 
-Los vehículos motorizados indicados en la letra b) del artículo 7° de este decreto, deberán ser conducidos exclusivamente por las personas en cuyo beneficio fueron importados.
+Los vehículos motorizados indicados en la letra b) del artículo 7° de este decreto, deberán ser conducidos exclusivamente por las personas en cuyo beneficio fueron importados. No obstante lo anterior, dichos vehículos podrán ser conducidos por el cónyuge, únicamente cuando el lisiado viaje en compañía del conductor.
 
 Para los efectos de un adecuado control del Cuerpo de Carabineros, las Municipalidades respectivas deberán estampar un timbre en los padrones que extiendan para estos vehículos, el que deberá contener la siguiente leyenda: "Vehículo Especial para Lisiados, ley N° 17.238".
 
