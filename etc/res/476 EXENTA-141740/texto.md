@@ -1,0 +1,5 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A REGINA SCHILLING MOHR
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Nº Ex. 476 de 19 de agosto de 1999, excepciona a contar del 1º del mes siguiente al de esta publicación y hasta el 30 de noviembre de 1999, a Regina Schilling Mohr , Rut Nº 2.941.057-7, del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las ventas de trigo, establecido en la resolución Nº Ex-5550/96 de la Dirección Nacional, publicada en el Diario Oficial del 03.12.96, modificada por la resolución Nº Ex-5.916/97, publicada en el Diario Oficial del día 02.12.97 y prorrogada por Res.Ex. 7034 de 27.11.98, publicada en el Diario Oficial de fecha 30.11.98. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus ventas de trigo.-
+
+Rubén Ilabaca Salas, Director Regional (S).
