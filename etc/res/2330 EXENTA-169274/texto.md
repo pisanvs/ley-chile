@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 2330 de 09 de Noviembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "La Flor de Ñiquén", de la Comuna de Ñiquén, VIII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 5, sitios N°s. 1 y 2 del Proyecto de Parcelación "Flor de Niquén", formado por predio señalado. Los Derechos de Agua se extraen del Canal La Flor de Ñiquén derivado del Río Ñuble; del Estero Virginal y de Pozo Surgente. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
