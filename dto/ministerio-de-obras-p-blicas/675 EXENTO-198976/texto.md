@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 675 de fecha 30 de abril de 2002, se expropiaron los lotes de terreno Nº 173 y 174, superficies 311 y 76 m², Rol de Avalúo Nº 211-23, comuna de Coelemu, para la obra ''Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 al Km. 8,28000'', VIII Región y se acordó el valor de indemnización con su propietaria Rosa Inés Fuentes Ortiz y Otras, ascendente a la cantidad de $397.554.-
+
+Fiscal del Ministerio de Obras Públicas.
