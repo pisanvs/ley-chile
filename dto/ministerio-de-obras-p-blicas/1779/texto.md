@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.779, de 30 de septiembre de 1998, se expropiaron los lotes de terreno Nº s 4 y 5, superficies 4.957 y 71 m2. respectivamente, rol de avalúo 136-187, comuna de San Francisco de Mostazal, para la obra Camino Ruta 5 Sur, sector Atravieso Los Lagartos y se acordó precio de indemnización con su propietario Humberto Lira Maffioletti, ascendente a la cantidad de $ 36.427.690.- para los lotes 4 y 5.-
+
+Fiscal del Ministerio de Obras Públicas.
