@@ -1,0 +1,3 @@
+Por resolución Nº1.556, de 17 de julio de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura 98122008 presentada por ACUIMAG LIMITADA, para instalar y operar un centro de cultivo ubicado en Puerto Demaistre, Golfo Almirante Montt, Comuna de Natales, Provincia de Ultima Esperanza, XII Región.
+
+Valparaíso, 17 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
