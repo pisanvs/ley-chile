@@ -1,0 +1,5 @@
+Por decreto MOP Nº 4.865, de 31 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs.
+
+33, 37 y 43, para la ejecución de la obra ''Camino Malloa-Tunca, por Corcolén Km. 5.600 a Km. 10.750'', que figuran a nombre de Guillermo Ogaz González y Angela Pérez de Lorca, Roles de Avalúo 138-31 y 138-26, comuna de Malloa, VI Región, superficies 90, 144 y 457 m². La Comisión de Peritos fijó con fecha 30 de noviembre de 1998, la indemnización provisional en la cantidad de $258.000, lote 33; $337.800, lote 37 y $1.171.900, lote 43, las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
