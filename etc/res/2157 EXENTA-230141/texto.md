@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.157, de 11 de agosto de 2004 de esta Subsecretaría, autorízase a CARLOS HERNAN RODRIGUEZ MANNS, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Camino Caicaén kilómetro 3 s/n, Calbuco, X Región, en las líneas de proceso de Fresco-Enfriado y Seco-Salado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 11 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
