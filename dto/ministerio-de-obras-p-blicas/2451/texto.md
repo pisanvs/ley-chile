@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.451, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 2 y 3, superficies 220 y 262 M2., respectivamente, rol de avalúo 2108-29, comuna de Puerto Montt, para la obra camino Ruta V-815, sector Bifurcación Angelmó - Calbuco y se acordó precio de indemnización con su propietario José Hernández Almonacid, ascendente a la cantidad de $477.876.-
+
+Fiscal del Ministerio de Obras Públicas.
