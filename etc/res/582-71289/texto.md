@@ -1,0 +1,3 @@
+Por Resolución Nº 582 de 22 de abril de 1997 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a JUAN CARLOS MUÑOZ CHIA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Loteo Sector Punta Blanca de Tocopilla, Kilómetro 8 de la ruta 1, Camino Costero, tramo Tocopilla-Antofagasta, donde podrá procesar en las líneas de elaboración de Secado natural y Molienda de algas, los siguientes recursos hidrobiológicos: Chascón y Huiro.
+
+Valparaíso, 22 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
