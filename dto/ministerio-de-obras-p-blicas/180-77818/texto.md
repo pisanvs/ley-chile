@@ -1,0 +1,5 @@
+Por Decreto MOP No. 180, de 30 de Junio de 1992, y en base a la facultad otorgada por el artículo 105 del Decreto MOP No. 294, de 1984, que fijó el texto actualizado de la Ley No.
+
+15.840, se expropió el lote de terreno No. 6-A, para la ejecución de la obra Camino By Pass Coronel-Lota (Ruta 160), Sector By Pass Coronel - Lota, km. 19.500,00 al 29.590,12, VIII Región, que figura a nombre de Antonio Sánchez Miranda, Rol de Avalúo 5015-19, Comuna de Coronel, superficie 190 M2. Deslindes: Norte, con lote No. 6; Sur y Este, con resto del predio afectado con la expropiación y Oeste, con lote No. 7. La Comisión de Peritos compuesta por los señores Pablo Carrillo Valenzuela, Jaime García Molina y Luis Abarzúa Ceballos, fijó con fecha Agosto de 1991, el valor provisional de la indemnización en la cantidad de $ 41.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley No. 2186.-
+
+Fiscal del Ministerio de Obras Públicas.
