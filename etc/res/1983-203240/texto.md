@@ -1,0 +1,3 @@
+Por resolución Nº 1.983, de 12 de septiembre de 2002 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Hornos, Sector B, IV Región, individualizada en el artículo 1º Nº 3 del D.S. Nº 109 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentada por la ASOCIACION GREMIAL DE TRABAJADORES MAR PANAMERICANA NORTE, IV REGION.
+
+Valparaíso, 12 de septiembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
