@@ -1,0 +1,11 @@
+Lei núm. 402.- Por cuanto el Congreso Nacional ha dado su aprobación al siguiente
+
+PROYECTO DE LEI:
+
+#### Artículo único
+
+Se autoriza al Presidente de la República para que invierta, durante el año en curso, hasta la suma de trescientos mil pesos en atender a la construcción, conservación i reparación de puentes.
+
+I por cuanto, oido el Consejo de Estado, he tenido a bien aprobarlo i sancionarlo; por tanto, promúlguese i llévese a efecto como lei de la República.
+
+Santiago, a 2 de febrero de 1899.- FEDERICO ERRAZURIZ.- Arturo Alessandri.
