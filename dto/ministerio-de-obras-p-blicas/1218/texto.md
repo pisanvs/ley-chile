@@ -1,0 +1,5 @@
+Por Decreto M.O.P. N° 1.218, de 30 de diciembre de 1997, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N° 294, de 1984, que fijó el texto actualizado de la ley N° 15.840, se expropiaron los lotes de terreno N°s. 1, 2, 3, 4 y 5, para la obra
+
+Disposición Final Alcantarillado Aguas Servidas Poblaciones Villa Maullín y San Pedro Ciudad de Maullín, que figuran a nombre de Obispado Puerto Montt y Hernán Ojeda Vera, roles de avalúos 400-8 y 400-9, Comuna de Maullín, X Región, superficies 957,6 - 423,75 - 445,75 - 546,25 y 126,50 m2 respectivamente. La Comisión de Peritos compuesta por los señores Carlos Mera Santibañez, Jaime Sanz Bahamonde y Leopoldo Schumacher Guarda, fijó con fecha 16 de julio de 1997, los valores provisionales de las indemnizaciones en la cantidades de $957.600, lote N° 1; $423.750, lote N° 2; $445.750, lote N° 3; $819.375, lote N° 4 y $189.750, lote N° 5. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978
+
+Fiscal del Ministerio de Obras Públicas.
