@@ -1,0 +1,3 @@
+Por resolución Nº 2.062, de 11 de octubre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97103080, presentada por HARNALDO ARNOLDO WINTER LEVICOY, para operar un centro de cultivo ubicado en un sector entre Punta Veleo y Achao, Isla Quinchao, comuna de Quinchao, provincia de Chonchi, X Región.
+
+Valparaíso, 11 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
