@@ -1,0 +1,3 @@
+Por decreto MOP Nº 87, de 29 de enero de 2002, se expropió el lote de terreno Nº 24-A1, superficie 2.520 m², rol de avalúo 162-31, comuna de Casablanca, para la Obra Red Vial Litoral Central, Sector 3: Eje Costero Interior, Subtramo: Rosario-Orrego Abajo Kms. 16.840,00 al 20.673,30, Quinta Región y se acordó el valor de indemnización con su propietaria María Eloísa Vera Suárez, ascendente a la cantidad de $3.437.771.-.
+
+Fiscal del Ministerio de Obras Públicas.
