@@ -1,0 +1,3 @@
+Por resolución Nº 1.505, de 5 de agosto de 1999, de esta Subsecretaría, deniégase la solicitud presentada por PESQUERA MARBELLA S.A., para ampliar actividades pesqueras extractivas con la nave ''Costa Grande 4'', respecto de las áreas y especies hidrobiológicas solicitadas, en virtud de lo dispuesto en el artículo 19 letra c) del D.S. 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
