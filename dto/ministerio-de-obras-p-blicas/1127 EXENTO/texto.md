@@ -1,0 +1,5 @@
+Por decreto MOP, exento Nº1.127, de 27 de agosto de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs, 77, 78, 79 y 80, para la ejecución de la obra "Camino San Fernando - Roma Rol I-301, I-255, I-151, Km. 0,000 - Km. 10,954264", que figuran a nombre de Teresa Silva Valenzuela y Otra, Luis Iglesias Espinoza, Humberto Vilo Díaz y José Iglesias Espinoza y Otro, Roles de avalúo 284-36, 284-74, 284-75 y 284-37, comuna de San Fernando, VI Región, superficies 108, 45, 23 y 12 m2. La Comisión de Peritos fijó con fecha 20 de septiembre de 2000, la indemnización provisional en la cantidad de $459.000, lote 77; $282.500, lote 78;
+
+$265.500, lote 79 y $260.000, lote 80. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
