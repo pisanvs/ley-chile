@@ -1,0 +1,5 @@
+Por Resolución N° 701, de 7 de Junio de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárese la caducidad parcial de la Resolución N° 1058, de 1989, de esta Subsecretaría, que autorizó a PESQUERA SAN SEBASTIAN S.A., R.U.T. N° 96.525.250-9, para ampliar actividades pesqueras extractivas con la nave "Arteta" en lo relativo a las especies Jurel, Atún aleta larga, Bonito, Brótula, Camarón nailon, Cojinoba del Norte y Lisa, por haberse configurado la causal prevista en el artículo 143 letra b) de la Ley N° 18.892 citada en Visto.
+
+Amplíase por un año a contar de la fecha de publicación de la presente Resolución, el plazo de vigencia de la Resolución N° 1058, de 1989, de esta Subsecretaría, por haberse acreditado la existencia de fuerza mayor.
+
+Valparaíso, 7 de Junio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
