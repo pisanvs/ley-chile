@@ -1,0 +1,5 @@
+ORDENA EXPRIACIONES TOTALES Y PARCIALES DE INMUEBLES QUE INDICA
+
+Resolución 119, 20 mayo 1996, SERVIU Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Los Carrera N° 972, Rol de Avalúo N° 339-19, comuna Concepción, superficie 154 m2. de terreno y 153 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-11029-339-19; de aparente dominio de doña Elena Bustos Vera, para ejecución programa "Mejoramiento Eje Vial Los Carrera de Concepción", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 25 de Abril de 1996, fijó monto provisional indemnización en $21.540.000.-, pagadera de contado.
+
+Director SERVIU Región del Bío Bío.
