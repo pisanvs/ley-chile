@@ -1,0 +1,3 @@
+Por decreto MOP Nº815, de fecha 30 de abril de 2002, se expropiaron los lotes de terreno Nºs. 2 y 3, superficies 1.003,20 m² y 364,18 m², respectivamente, rol de avalúo 211-5, comuna de Curacautín, IX Región, para la obra ''Puente Cautín, Camino Curacautín - Conguillío, Km. 0,00000 al 0,60000'' y se acordó el valor de indemnización con su propietario don José Eduardo Vega Fierro, ascendente a la cantidad de $13.477.693.-
+
+Fiscal del Ministerio de Obras Públicas.
