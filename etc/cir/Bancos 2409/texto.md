@@ -5620,8 +5620,6 @@ II.- CANJE DE DOCUMENTOS Y COMPENSACIÓN DE OBLIGACIONES EN MONEDA CHILENA.
 
 El canje de documentos en moneda chilena entre instituciones financieras, se rige por las disposiciones del Capítulo III.H.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
-El canje de los documentos, sean éstos de la misma plaza o agrupación o de otras plazas o agrupaciones de plazas, se efectuará en las reuniones previstas en el numeral 6 1 del título II de ese Capítulo III H.1.
-
 La primera reunión de la cámara debe incluir todos los documentos recibidos por las instituciones financieras participantes, en ese mismo día dentro de su horario de atención normal a público autorizado por esta Superintendencia. Por lo tanto, el horario para la reunión se acordará considerando la hora de cierre de atención al público de cada uno de los participantes en la respectiva plaza o agrupación de plazas (14 ó 16 hrs.) y las dificultades propias de las distancias que deben recorrerse para concurrir, especialmente en el caso de las agrupaciones de plazas.
 
 2.- Compensación de operaciones efectuadas a través de cajeros automáticos.
@@ -8258,7 +8256,7 @@ Raíces.
 
 El reembolso de los préstamos otorgados al amparo de estas normas se hará en la moneda que corresponda, por medio de dividendos.
 
-En el caso de préstamos hipotecarios para la vivienda, el servicio se hará mediante dividendos mensuales sucesivos vencidos. En estos préstamos no podrán pactarse dividendos crecientes o decrecientes, ni plazos de gracia superiores a tres meses a contar de la fecha de otorgamiento del crédito, debiendo enterarse cada pago dentro de los 10 primeros días del mes siguiente al de la fecha de vencimiento.
+En el caso de préstamos hipotecarios para la vivienda, el servicio se hará mediante dividendos mensuales sucesivos vencidos. En estos préstamos no podrán pactarse dividendos crecientes o decrecientes, ni plazos de gracia superiores a tres meses a contar de la fecha de otorgamiento del crédito.
 
 ### 8. Tabla de desarrollo de los mutuos
 
