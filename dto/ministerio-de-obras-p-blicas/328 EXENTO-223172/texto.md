@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 328 de fecha 27 de febrero del 2004, se expropió el lote de terreno Nº 24, superficie 693 m2, Rol Nº 204-30 comuna de Los Alamos VIII Región, para la obra "Camino Ruta P - 46, Sector Los Alamos - Sara de Lebu, Km. 0,00000 a Km. 16,84000" y se acordó el valor de indemnización con su propietaria Gladys del Carmen Rojas Villa y otros, ascendente a la cantidad de $258.462.-
+
+Fiscal del Ministerio de Obras Públicas.
