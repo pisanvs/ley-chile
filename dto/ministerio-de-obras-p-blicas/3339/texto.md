@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.339, de 29 de octubre de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+10-A1 y 10-A2; para la obra: Camino: Santiago - Colina - Los Andes. Sector ''D'' Casas de Chacabuco - Túnel Chacabuco. Km. 43.000,00 al 48.970,00, Región Metropolitana, que figura a nombre de Aguilera Villarroel Sergio E y Otro, rol de avalúo 186-107, comuna de Colina, superficies 3.363,5 m2 y 20.536,1 m2., respectivamente. La Comisión de Peritos integrada por los señores Norma Julieta Briones Aguila, Marlene Teresa Ríos Marcuello y Pastor Correa Prats, fijó con fecha 28 de septiembre de 1999, el valor provisional de la indemnización en las cantidades de $6.727.000.- para el lote Nº10-A1 y de $45.060.938.- para el lote Nº10-A2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
