@@ -1,0 +1,9 @@
+EXTRACTO DE EXPROPIACION
+
+Por Decreto Alcaldicio No. 1565 de 09 de Abril de 1985, I. Municipalidad de Valparaíso dispuso expropiación por necesidades de utilidad pública y en conformidad artículos 42, letra b) y 3°, letra B, No. 5 del DL 1289/75, de inmueble ubicado al Sur de Población Montedónico, Cerro Playa Ancha, Valparaíso, en la parte individualizada en plano anexo a dicho decreto, cuyos deslindes, medidas y superficie son: Norte: en 63,50 metros (L-M-N) con propiedad Esval; 255 metros (H-I-J-K) con calle Vargas Stoller y 165,50 metros (F-G-H) con calle Pezoa Véliz; Sur: en 469,80 metros
+
+(N-O-P-Q-R-S-T-U-A) con Camino Laguna Verde; Oriente: en 350 metros (A-B-C-D-E-F) con calle Pezoa Véliz y Poniente: en 55 metros (K-L) con propiedad Esval, enterrando superficie, aproximada de 96.085,10 metros cuadrados. Propietarios aparentes: Elena Herrera viuda de Ballivian, Sucesión Rodolfo Nebel Ovalle; Sucesión Contado Waltemath; Sucesión Eduardo Bustamante; Carlos García Fernández, Jorge Villagra Miranda y Moisés Astoreca Granja, encontrándose fojas 88 No. 2.236 del Registro de Propiedad del año 1928; fojas 89 No. 2.237 del Registro de Propiedad del año 1928; fojas 2.059 No.
+
+2.026 del Registro de Propiedad del año 1934; fojas 206 vta. No. 1.771 del Registro de Propiedad del año 1912; fojas 2.215 No. 2.223 del Registro de Propiedad del año 1935; fojas 1.515 No. 1.855 del Registro de Propiedad del año 1942; fojas 623 No. 713 del Registro de Propiedad del año 1956 y fojas 402 - 403 No. 546-547 del Registro de Propiedad del año 1902, respectivamente, todos del Conservador de Bienes Raíces de Valparaíso, y enrolado para los efectos de su avalúo, y en una parte del mismo, bajo los números 3228-1 y 3159-4. Indemnización Provisoria fijada en la suma $ 5.284.681 por Comisión de Peritos, pagadera contado.
+
+Francisco Bartolucci Johnston, Alcalde I. Municipalidad de Valparaíso.
