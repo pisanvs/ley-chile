@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 138 de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº 35-I, superficie 579 m2, rol de Avalúo Nº 209-394, comuna de Los Alamos, para la obra "Camino Ruta P - 46, Sector Los Alamos - Sara de Lebu, Km. 0,00000 a Km. 16,84000", VIII Región y se acordó el valor de la indemnización con su propietaria Ana Yevilao Nahuelpán, ascendente a la cantidad de $337.869.
+
+Fiscal del Ministerio de Obras Públicas.
