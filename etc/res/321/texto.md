@@ -1,0 +1,3 @@
+Por resolución N° 321, de 14 de Mayo de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a EMPRESA PESQUERA EPERVA S.A., R.U.T. N° 91.643.000-0, para continuar desarrollando las actividades pesqueras autorizadas mediante las resoluciones vigentes otorgadas a Pesquera Tocopilla S.A., R.U.T. N° 95.024.000-8, domiciliada en Santiago, en virtud de la escritura pública de 30 de noviembre de 1992, otorgada ante la Cuadragésima primera Notaría de Santiago, que fusionó por incorporación a Pesquera Tocopilla S.A. en Empresa Pesquera Eperva S.A.
+
+Valparaíso, 14 de Mayo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
