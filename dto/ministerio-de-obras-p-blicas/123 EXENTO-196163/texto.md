@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 123, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 3, superficie 2.237 m², rol de avalúo 202-82, comuna de Los Alamos, VIII Región, para la obra "Camino Ruta P - 46, Sector Los Alamos - Sara de Lebu, Km. 0,00000 al 16,84000" y se acordó el valor de indemnización con su propietario Tito Milcíades Jara Paredes, ascendente a la cantidad de $599.335.
+
+- Fiscal del Ministerio de Obras Públicas.
