@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº874, de 31 de mayo de 2002, se expropió el lote de terreno Nº64-A, superficie 2.863,74 m2., rol de avalúo Nº214-292, comuna de Teodoro Schmidt, para la obra Camino S-60, Sector Teodoro Schmidt - Hualpín, Km. 43.94000 al 59,10294, Tramo II Km. 53,075 al 59,093, IX Región y se acordó el valor de indemnización con su propietario Mariano Maximiliano Quiñelef Ranguiman, ascendente a la cantidad de $1. 593.805.
+
+Fiscal del Ministerio de Obras Públicas.
