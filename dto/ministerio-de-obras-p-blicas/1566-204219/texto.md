@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.566, de 16 de septiembre de 2002, se rectificó el decreto MOP Nº1.623 de 30 de octubre de 2001, que expropió el lote de terreno Nº14, perteneciente a la obra: ''Red Vial Litoral Central. Sector 3: Eje Costero Interior. Subtramo: Quillaicillo Rosario Km. 13.200,00 al Km. 16.782,246''; en el sentido que en su numeral 2º el Rol de Avalúo es 600-5 y la comuna es EL Tabo y no como en él se señala. Además se modifica el numeral 3º del decreto MOP Nº1.623, antes citado, en el sentido de intercalar, después de donde dice: ''... por Resolución fiscalía exenta MOP Nº967, de 23 de mayo de 2001 ...'' la siguiente frase:
+
+''... modificada por resolución fiscalía exenta MOP Nº1.222 de 23 de julio de 2002, ...'' y sustituir la frase: ''... con fecha 18 de junio de 2001 ...'' por la siguiente: ''... mediante Informe de Tasación de 18 de junio de 2001, complementado por Acta de 30 de julio de 2002 ...''.-
+
+Fiscal del Ministerio de Obras Públicas.
