@@ -1,0 +1,1 @@
+Establece que la elección ordinaria de regidores que corresponde efectuar el primer domingo de abril de 1953, se verificará, en cédula separada, el primer domingo de marzo del mismo año, conjuntamente con la elección ordinaria de senadores y diputados al Congreso Nacional.
