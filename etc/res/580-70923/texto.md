@@ -1,0 +1,3 @@
+Por Resolución Nº 580 de 22 de abril de 1997 de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; deniégase la solicitud presentada por SOCIEDAD PESQUERA SAN ANTONIO S.A., para incluir la nave "Arequipa IV" en la nómina autorizada a operar sobre los recursos Anchoveta y Sardina española, en la III y IV Regiones, en conformidad a lo dispuesto en el artículo 143 Letra b) de la Ley Nº 18.892 de 1989.
+
+Valparaíso, 22 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
