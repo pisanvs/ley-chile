@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.378, de 16 de diciembre de 2003, de esta Subsecretaría, apruébase la solicitud presentada por BERNARDO PATRICIO BARRIENTOS SOTO, para transferir una piscicultura ubicada en la localidad de La Nave, San José, X Región, autorizada por resolución Nº 621 de 1998, de esta Subsecretaría, a Grieg Seafood Chile, hoy Chile Seafood S.A.
+
+Valparaíso, 16 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
