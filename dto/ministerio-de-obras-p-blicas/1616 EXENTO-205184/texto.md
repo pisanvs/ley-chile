@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.616, de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº79-A, superficie 292,40 m2, rol de avalúo 224-8, comuna de Olmué, V Región, para la obra ''Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10,98400 al 34,50000'' y se acordó el valor de indemnización con su propietario don Juan Elicer Delgadillo Bruna, ascendente a la cantidad de $643.557.-
+
+Fiscal del Ministerio de Obras Públicas.
