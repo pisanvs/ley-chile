@@ -1,0 +1,3 @@
+Por decreto MOP N°578, de 28 de febrero del 2000, se expropió el lote de terreno N°394-C, superficie 3.203,5 m2, rol de avalúo 254-61, comuna de Los Lagos, para la obra Concesión Internacional Ruta 5. Tramo: Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietaria Ruth Mireya Conejeros Pinto, ascendente a la cantidad de $2.460.312.-
+
+Fiscal del Ministerio de Obras Públicas.
