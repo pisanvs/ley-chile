@@ -1,0 +1,5 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A JUAN MANUEL SOLIS RAMIREZ
+
+La VII Dirección Regional Talca del SII, por resolución Nº Ex. 1.214 de 21 de agosto de 1998 excepciona a contar del 1º del mes siguiente al de esta publicación y hasta el 31 de julio de 1999, a Juan Manuel Solís Ramírez, RUT Nº 8.210.848-3, del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las operaciones de ganado vivo, establecido en la resolución Nº Ex. 2.379/98 de la Dirección Nacional, publicada en el Diario Oficial del 24.04.98, modificada por la resolución Nº 3.785/98, publicada en el Diario Oficial del día 30.06.98. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus operaciones de ganado vivo.
+
+Talca, 21 de agosto de 1998.- José A. Moretti Soto, Director Regional.
