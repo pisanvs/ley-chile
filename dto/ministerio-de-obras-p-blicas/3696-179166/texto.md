@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.696, de 28 de agosto de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº477, para la obra ''Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: acceso Sur a Santiago. Km.
+
+-0.150,00 a Km. 10.986,00'', Región Metropolitana, que figura a nombre de Fondo Inv. Inmob. Aetfin Miato, rol de avalúo 2650-19, comuna de Puente Alto, superficie 2.206 m². La Comisión de Peritos integrada por los señores Gustavo Domínguez Errázuriz, Américo Agustín Delucchi Cabaña y Héctor Diego Altamirano Cornejo, fijó con fecha 1 de marzo de 2000, el valor provisional de la indemnización en la cantidad de $91.120.100.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
