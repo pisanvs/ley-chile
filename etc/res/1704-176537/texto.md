@@ -1,0 +1,3 @@
+Por resolución Nº 1.704, de 3 de agosto de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Punta Pichicui, VIII Región, individualizada en el artículo 1º) Nº 13 del DS Nº 729 de 1997 del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES, BUZOS MARISCADORES, ACUICULTORES Y ALGUEROS ''RIO TUBUL''.
+
+Valparaíso, 3 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
