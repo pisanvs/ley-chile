@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.076 de 25 de julio de 2002, se dejó sin efecto el decreto MOP exento Nº1.755 de fecha 21 de noviembre del 2001, en la parte que se refiere a la expropiación de los lotes Nºs. C1-14-A y C1-14-A1, roles de Avalúo Nºs. 31-6 y 31-11, comuna de Curacaví, superficies 94,50 m². respectivamente, que figuran a nombre de Durán Cerda Félix E. y Durán Cerda Georgina. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
