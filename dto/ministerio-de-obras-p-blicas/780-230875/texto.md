@@ -1,0 +1,3 @@
+Por decreto MOP Nº 780 de fecha 31 de agosto de 2004, se expropió el lote de terreno Nº 77, superficie 4.669,00 m2, rol de avalúo Nº 62-40, comuna de Lampa, para la obra "Camino Ruta G-16, sector Lampa-Polpaico, tramo Km.19,72359 a Km. 34,51667", Comunas de Lampa y Til Til, Provincia de Chacabuco" Región Metropolitana y se acordó el valor de la indemnización con su propietario Sociedad Agrícola Vitroplanta Limitada, ascendente a la cantidad de $13.253.558.-
+
+Fiscal del Ministerio de Obras Públicas.
