@@ -1,0 +1,3 @@
+Por resolución No.834 de 17 de Julio de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por don MARIO MANUEL ROMO FERNANDEZ, R.U.T. No.3.453.155-2, domiciliado en calle Daniel Vega s/nº, Ventanas, V Región, para ampliar las actividades pesqueras extractivas con la nave "Manto Sagrado", autorizada por la resolución No.828, de 1990, de esta Subsecretaría, en virtud de las disposiciones legales, reglamentarias e Informes Técnicos citados en los vistos.
+
+Valparaíso, 17 de Julio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
