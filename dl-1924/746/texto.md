@@ -1,0 +1,1 @@
+Decreto-Lei N° 746. Da carácter de lei al decreto supremo número 4,501, de 25 de setiembre último, que autorizó a la Municipalidad de Antofagasta para contratar un empréstito por L 250,000.
