@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 83 EXENTA, DE 30 DE AGOSTO DE 2004, QUE ESTABLECE INSTRUCCIONES COORDINADAS Y ACTUALIZADAS SOBRE LA EMISION Y USO DE BOLETAS DE HONORARIOS EMITIDAS A TRAVES DE INTERNET
+
+Los contribuyentes sujetos a las normas de 2ª Categoría, según lo dispuesto en el Art. 42º Nº 2 de la Ley de Impuesto a la Renta, como también de las sociedades de profesionales que en virtud al inciso 3º, del Nº 2, del mismo artículo, hayan optado por tributar de acuerdo a las normas de la Primera Categoría, podrán emitir Boletas de Honorarios Electrónicas y realizar otras funciones afines a dicha emisión, a través de una aplicación computacional a la que podrán acceder a través del sitio web del SII, cumpliendo los requisitos y condiciones establecidos en esta resolución.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en agosto de 2004.
