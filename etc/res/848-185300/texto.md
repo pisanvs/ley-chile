@@ -1,0 +1,3 @@
+Por resolución Nº 848, de 11 de mayo de 2001, de esta Subsecretaría, autorízase a PESQUERA YELCHO S.A. para realizar operaciones pesqueras, a contar de la fecha de la presente resolución y hasta el 31 de diciembre de 2001, ambas fechas inclusive, con el barco fábrica denominado Gualas, en aguas exteriores, por fuera de las líneas de base recta, al sur del paralelo 44°30 de latitud sur, respecto de las áreas y recursos y con las obligaciones establecidas en su autorización.
+
+Valparaíso, 11 de mayo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
