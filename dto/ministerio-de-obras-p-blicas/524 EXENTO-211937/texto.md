@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 524, de fecha 30 de mayo de 2003, se expropió el lote de terreno Nº 1, superficie 57 m2, rol de avalúo Nº 538-102, comuna de La Unión, para la obra "Camino Conexión La Unión - Corral, Sector Cruce Ruta 5, Fin de Pavimento, Ruta T-712, Km. 0,00000 a Km. 5,60000", X Región, y se acordó el valor de la indemnización con su propietaria Ana María Soto Miranda y Otra, ascendente a la cantidad de $371.271.
+
+- Fiscal del Ministerio de Obras Públicas.
