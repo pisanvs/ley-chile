@@ -1,0 +1,3 @@
+Por decreto MOP Nº787, de 30 de abril de 2002 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº69-A, para la obra Camino Ruta F-10-G, sector Cuesta La Dormida, Etapa 2, Km. 10,98400 a Km. 34,50000, provincia de Quillota, V Región, que figura a nombre de Hidalgo Ilazar del Rosario, rol de avalúo 225-38, superficie 1.081 m², comuna de Olmué. La comisión de Peritos, con fecha 2 de marzo de 2001, fijó la indemnización provisional en la cantidad de $12.467.606, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
