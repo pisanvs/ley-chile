@@ -1,0 +1,25 @@
+LIBERA DE LOS DERECHOS E IMPUESTOS QUE INDICA A LOS EQUIPOS, MAQUINARIAS Y ELEMENTOS DESTINADOS A LAS EMPRESAS PERIODISTICAS, A QUE SE REFIERE LA LEY N.° 10.621
+
+Núm. 723.- Santiago, 28 de Octubre de 1974.- Vistos: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973, y N° 527, de 1974,
+
+la Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo primero
+
+Libérase de todos los derechos e impuestos percibidos por las Aduanas, incluso de la tasa de despacho y del impuesto establecido en el artículo 44 de la ley N° 17.564, a los equipos, maquinarias y elementos destinados a las Empresas Periodísticas, a que se refiere la ley número 10.621, que tengan Registro de Importación aprobado a la fecha de publicación del presente decreto ley.
+
+#### Artículo segundo
+
+Derógase el artículo 7° de la ley N° 7.321, de 31 de Octubre de 1942.
+
+Sin perjuicio de lo dispuesto en el inciso precedente, cada fábrica nacional mantendrá el derecho a usar, en forma exclusiva, marcas de agua propias, las que deberán ser registradas en el Ministerio de Economía, Fomento y Reconstrucción.
+
+#### Artículo tercero
+
+Si dentro del plazo de cinco años, contados desde la fecha de la importación, las mercancías a que se refiere el presente decreto ley fueren objeto de negociación a cualquier título o se les diere un destino distinto del específico, deberán integrarse en arcas fiscales la totalidad de los derechos, impuestos y demás gravámenes de cuyo pago se eximen, quedando solidariamente responsables de ello las personas o entidades que intervengan en los actos o contratos respectivos y sin perjuicio de lo establecido en el artículo 197, letra e), de la Ordenanza de Aduanas.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Jefe Supremo de la Nación.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Jorge Cauas Lama, Ministro de Hacienda.
+
+Lo que transcribo a U. para su conocimiento.- Saluda atentamente a U.- Pedro Larrondo Jara, Capitán de Navío (AB), Subsecretario de Hacienda.
