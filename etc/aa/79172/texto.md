@@ -1,0 +1,49 @@
+AUTO ACORDADO SOBRE PROCESO DE RECLAMACIONES DE NULIDAD ELECTORAL O DE RECTIFICACION DE ESCRUTINIOS, FORMACION DE ESCRUTINIO GENERAL Y PROCLAMACION DE CANDIDATOS ELEGIDOS
+
+En Santiago, a veinticinco de noviembre de mil novecientos noventa y siete, siendo las trece horas, se reunió extraordinariamente el Tribunal Calificador de Elecciones con la concurrencia de los Ministros señores don Enrique Zurita Camps, quien presidió, don Roberto Dávila Díaz, don Lionel Beraud Poblete y don Cecil Chellew Cáceres. Actuó como Ministro de Fe la Secretaria Relatora señora Carmen Gloria Valladares Moyano.
+
+De conformidad a las disposiciones contenidas en los artículos 84 de la Constitución Política de la República de Chile, 9º y 12 de la Ley Nº 18.460, Orgánica Constitucional sobre el Tribunal Calificador de Elecciones y atendida, especialmente, la importancia que reviste reglamentar la tramitación y fallo de las reclamaciones electorales y solicitudes de rectificación de escrutinios, la formación del escrutinio general y la proclamación de los candidatos que resulten definitivamente elegidos, todo ello de acuerdo a las normas establecidas en la Ley Nº 18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios, este Tribunal Calificador de Elecciones acordó dictar el siguiente Auto Acordado que deberá reglar la próxima elección de parlamentarios:
+
+1º) El Tribunal conocerá primeramente de la elección de senadores y luego la de diputados.
+
+2º) El Tribunal comenzará el proceso de calificación y escrutinio general del acto eleccionario, de norte a sur, conforme a la disponibilidad que exista en Secretaría de las Actas y Cuadros de los Colegios Escrutadores y Mesas Receptoras de Sufragios que hubieren funcionado en las distintas Regiones del país, abocándose primeramente al estudio y revisión de los resultados no reclamados para, luego, proseguir con el de aquellos que hayan sido motivo de reclamación salvo que el Tribunal ordene el examen de lo reclamado en forma conjunta a la calificación para confeccionar el escrutinio general.
+
+3º) Sin perjuicio del derecho que asiste a cualquier elector ara interponer reclamaciones de nulidad electoral o solicitudes de rectificación de escrutinios, éstas deberán ser de preferencia deducidas por el candidato agraviado o por su mandatario habilitado o por el presidente del partido político al cual ese candidato perteneciere, si fuere del caso, todo ello ante el Juzgado del Crimen competente y en la forma, plazo y condiciones establecidos en el Título IV° de la Ley Nº 18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios.
+
+4º) Si se encontrare vencido el plazo a que se refiere el artículo 98 de la Ley Nº 18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios, sin que el Juez del Crimen competente haya enviado, por la vía más expedita y rápida, todos los antecedentes reunidos a este Tribunal Calificador de Elecciones, el Secretario Relator adoptará las medidas necesarias para obtener el envío urgente de esos antecedentes, sin perjuicio de lo establecido en el artículo 99 de la Ley Orgánica recién citada.
+
+5º) El escrito de reclamación o rectificación deberá ser fundado, contener peticiones concretas y acompañarse los medios probatorios que le sirven de fundamento, bajo el apercibimiento del Nº 6 de este Auto Acordado.
+
+6º) uego de ingresados los respectivos autos a la Secretaría de este Tribunal Calificador de Elecciones, si el reclamante de nulidad o solicitante de rectificación no hubiere dado estricto cumplimiento a la norma señalada precedentemente, el Tribunal de oficio o a petición de parte declarará la inadmisibilidad de la presentación, sin más trámite.
+
+7º) Cada elector o candidato agraviado o su mandatario habilitado o el presidente del partido político al cual ese candidato perteneciere, si fuere del caso, deberá formular sus reclamaciones de nulidad o de rectificaciones de escrutinio en una sola presentación por cada circunscripción senatorial o distrito electoral, si fuere posible, sin perjuicio de la facultad que corresponde al Tribunal para decretar de oficio las acumulaciones de autos que estimare procedentes.
+
+8º) Admitido a tramitación el reclamo de nulidad y/o solicitud de rectificación, éste se fallará en cuenta, salvo que el Tribunal estimare conveniente oír alegatos, los que deberán hacerse por medio abogado habilitado para el ejercicio de la profesión, fijándose en la misma resolución el tiempo que éstos dispondrán para hacerlo.
+
+9º) La vista de la causa, cuya suspensión no procederá por motivo alguno, se anunciará por el Secretario Relator en una Tabla que se colocará, a más tardar el día antes a su vista en un lugar visible de la Secretaría del Tribunal, y que se formará consultando el orden de precedencia de los asuntos que disponga el señor Presidente.
+
+10º) Toda cuestión accesoria que se suscite en el curso de la reclamación o solicitud de rectificación se fallará de plano, sin que proceda a su respecto recurso alguno.
+
+11º) El Tribunal conociendo de las reclamaciones de nulidad y/o solicitudes de rectificación de escrutinios apreciará los hechos como jurado y al tenor de la influencia que, a su juicio, ellos hayan tenido en el resultado de la elección y declarará válido o nulo el acto sentenciando conforme a derecho.
+
+12º) El reclamante deberá en su primera presentación señalar domicilio y esta designación se entenderá subsistente mientras la parte no haga otra, bajo el apercibimiento del número 13º de este Auto Acordado.
+
+13º) Las resoluciones que dicte el Tribunal se notificarán mediante su incorporación en un estado que confeccionará diariamente el Secretario Relator, salvo que se disponga que se practique por otro medio legal. La sentencia definitiva se notificará personalmente en la Secretaría del Tribunal o por medio de carta certificada. Si la notificación se efectuare mediante carta certificada, ésta se entenderá practicada al tercer día hábil siguiente de la expedición que de ella haga el Secretario Relator del Tribunal, debiendo certificarse este hecho en los respectivos autos. La sentencia definitiva se notificará por el estado diario si el reclamante no diere cumplimiento a lo dispuesto en el Nº 12 de este Auto Acordado y así se encontrare certificado de oficio o a petición de parte.
+
+14º) Si con motivo de la formación del escrutinio general o en virtud de una reclamación de nulidad o solicitud de rectificación, el Tribunal debiera practicar el escrutinio público a que se refiere el Nº 5 del artículo 103 de la Ley Nº 18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios, éste se celebrará en presencia del o los electores reclamantes y/o candidato agraviado o su mandatario habilitado y/o del presidente y/o de la mesa directiva central del partido político al cual ese candidato perteneciere, si fuere del caso y estuvieren presentes al momento del llamado. El escrutinio público se anunciará por medio de un aviso que se fijará en la Secretaría del Tribunal, a lo menos, con doce horas de anticipación a su realización.
+
+15º) Si el Tribunal dispusiera la repetición de la elección en una o más mesas receptoras de sufragios del país, deberá hacerlo en una sola resolución, la que se comunicará al Presidente de la República para los efectos de la respectiva convocatoria de repetir la elección en la o las mesas afectadas.
+
+16º) El Tribunal, luego de haber dictado sentencia definitiva en todas las reclamaciones de nulidad electoral y/o solicitudes de rectificación de escrutinio, procederá a efectuar el escrutinio general el que incluirá la suma total de votos emitidos en favor de los candidatos de una misma lista o nómina, resultado que determinará los votos de la lista o nómina.
+
+17º) Luego el Tribunal proclamará, de norte a sur y en un solo acto, a los candidatos que hubieren resultado elegidos.
+
+18º) Si el Tribunal al proclamar un parlamentario se encontrare en el caso de empate entre candidatos de una misma lista o entre candidatos de distintas listas o nóminas, que a su vez estuviesen empatadas, procederá en audiencia pública a un sorteo entre ellos, el que se celebrará en presencia de los candidatos empatados o de sus respectivos mandatarios habilitados, de los presidentes o de las mesas directivas centrales del o los partidos políticos a los cuales los candidatos pertenecieren, si fuere del caso y estuvieren presentes al momento del llamado. Este sorteo se anunciará por medio de un aviso que se fijará en la Secretaría del Tribunal con doce horas de anticipación, a lo menos, de su realización.
+
+19º) En contra de las resoluciones, de la sentencia definitiva que resuelva el reclamo de nulidad electoral y/o la solicitud de rectificación de escrutinio, del escrutinio general y de la sentencia de proclamación que dicte el Tribunal no procederá recurso alguno, sin perjuicio que de oficio o a petición de parte se rectifique algún error de hecho en que se hubiere incurrido.
+
+20º) El Tribunal, sin perjuicio de comunicar a los presidentes de las respectivas ramas del Congreso Nacional la proclamación de los senadores y diputados definitivamente elegidos, entregará, a petición de cada parlamentario o de mandatario habilitado, un certificado que acredite su proclamación, que le servirá de título suficiente para incorporarse a la Cámara o al Senado, según corresponda.
+
+Publíquese en el Diario Oficial.
+
+Para debido testimonio se extendió la presente Acta que junto a SS.SS. Excmas. firmó la Secretaria Relatora.- Enrique Zurita Camps, Presidente, Roberto Dávila Díaz, Lionel Beraud Poblete, Cecil Chellew Cáceres.- Carmen Gloria Valladares Moyano, Secretaria Relatora.
