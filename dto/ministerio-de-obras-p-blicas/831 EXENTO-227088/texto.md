@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 831 de fecha 31 de mayo del 2004, se expropió el lote de terreno N° 2, superficie 651 m2, Rol En Trámite, comuna de Combarbalá, IV Región para la obra "Camino Ruta D-715, Combarbalá - Cogotí 18, Sector Km. 0,00641 a Km. 13,94546" y se acordó el valor de indemnización con su propietaria Violeta Isabel Moraleda Vega, ascendente a la cantidad de $1.294.206.
+
+- Fiscal del Ministerio de Obras Públicas.
