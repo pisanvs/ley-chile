@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 161 de 31 de enero de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento de Aguas proporcionales que corresponden a las parcelas N°s. 14 a la 24, 28 a la 29, 34, 38 a la 44, 49 a la 50 y 52 a la 55, sitios N° 1 al 47, 50 al 52, 54 y 56 y Reserva CORA s/n. del Proyecto de Parcelación "Tierras Libres", formado por predio "Munilque" ubicado en la comuna de Mulchén, VIII Región. Los Derechos de Agua Se extraen del canal Bío Bío Negrete y Derrames conducidos por estero Mamuleo. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
