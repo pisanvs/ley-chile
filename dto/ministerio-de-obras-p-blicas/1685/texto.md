@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.685, de 28 de septiembre de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº4, para la obra Camino Santiago-Colina-Los Andes, Sector "A" A. Vespucio-By Pass Colina Km.
+
+0.504,10 al 4.758,40, Región Metropolitana, que figura a nombre de Marroquin Pizarro Alba Nelly, rol de avalúo 118-104, comuna de Quilicura, superficie 831,2 m². La Comisión de Peritos integrada por los señores(as) Victoria Adriana Blanco Costa, María Cristina Camus Palacios y Gustavo Domínguez Errázuriz, fijó con fecha 4 de junio de 1998, el valor provisional de la indemnización en la cantidad de $35.546.196.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
