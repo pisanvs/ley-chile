@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.892 de 29 de octubre de 2002, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP Nº2.874, de 30 de septiembre de 1999, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y sólo en lo que respecta a la indemnización del lote Nº19. Consígnese judicialmente el monto provisional de la indemnización del lote Nº19, fijada por la comisión de peritos con fecha 10 de marzo de 1999, ascendente a la cantidad de $883.000.-
+
+Fiscal del Ministerio de Obras Públicas.
