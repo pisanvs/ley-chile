@@ -14544,6 +14544,8 @@ Las sociedades de apoyo al giro deben enviar a esta Superintendencia para efecto
 
 Las sociedades de apoyo al giro se atendrán a lo dispuesto en el N° 9 del título II de este Capítulo, en lo que se refiere a la relación con sus instituciones financieras socias o accionistas, las filiales de éstas y las demás sociedades de apoyo al giro en que sus dueños participen.
 
+Sin embargo, no podrán ser directores de una sociedad de apoyo al giro cuyas funciones consistan en la administración y operación de Cámaras de Compensación de Alto Valor, los gerentes o empleados de una institución financiera que sea accionista o socia de aquella.
+
 7.- Restricciones en las inversiones de las sociedades de apoyo al giro.
 
 Por tratarse de sociedades con giro exclusivo, las empresas de apoyo de bancos y sociedades financieras no podrán tener entre sus activos acciones o derechos en otras sociedades, salvo que ello sea imprescindible para el desarrollo de su giro. En este caso la sociedad deberá contar con la autorización previa de esta Superintendencia, para cuyo efecto se presentará una solicitud informando de las razones por las cuales la inversión es imprescindible.
@@ -14750,7 +14752,7 @@ Deberán definirse las políticas relativas a los estándares de seguridad y con
 
 4.- Tarificación de los servicios.
 
-Exponer a) los principios en los que se basa la fijación de las tarifas aplicadas a los servicios que prestará la sociedad y esquemas o modelos de determinación de precios que se desprenden de esos principios.
+Exponer: a) los principios en los que se basa la fijación de las tarifas aplicadas a los servicios que prestará la sociedad y esquemas o modelos de determinación de precios que se desprenden de esos principios.
 
 b) la política de diferenciación de tarifas entre socios y no socios, en caso de existir y los factores que la avalan.
 
@@ -14764,7 +14766,15 @@ Explicar las definiciones y políticas respecto de la compatibilidad y cumplimie
 
 6.- Evaluaciones adicionales.
 
-Esta Superintendencia podrá recurrir a empresas y consultores externos calificados con el objeto de disponer de evaluaciones adicionales, como asimismo, solicitar el punto de vista de la Asolación de Bancos e Instituciones Financieras de Chile AG., cuando tenga dudas acerca del proyecto que se presenta. Además, si se estimara que aquél puede afectar la competencia, podrá también solicitar la opinión del organismo que regula dicha materia.
+Esta Superintendencia podrá recurrir a empresas y consultores externos calificados con el objeto de disponer de evaluaciones adicionales, como asimismo, solicitar el punto de vista de la Asociación de Bancos e Instituciones Financieras de Chile A.G., cuando tenga dudas acerca del proyecto que se presenta. Además, si se estimara que aquél puede afectar la competencia, podrá también solicitar la opinión del organismo que regula dicha materia.
+
+7.- Sociedad Operadora de Cámara de Compensación de Pagos de Alto Valor.
+
+Para la constitución de una sociedad cuyo giro sea el de operador de Cámaras de Compensación de Pagos de Alto Valor, según lo previsto en el Capítulo III.H.5 del Compendio de Normas Financieras del Banco Central de Chile, deberá solicitarse la autorización previa de esta Superintendencia, acompañando a la solicitud correspondiente los antecedentes que se indican en los números precedentes de este Anexo. Una vez aprobada esa solicitud, los interesados deberán, acorde con lo dispuesto en el Capítulo III.H.5 antes referido, presentar a la aprobación del Banco Central de Chile el respectivo Reglamento Operativo. Luego de aprobado por el Banco Central de Chile, deberán presentarlo a esta Superintendencia, para obtener la autorización de funcionamiento de la sociedad, previa comprobación por parte de este organismo de las condiciones técnicas y de seguridad de las instalaciones, de la preparación del personal directivo y operativo, como también de los procedimientos y controles que aseguren su buen funcionamiento.
+
+Por otra parte, en concordancia con lo indicado en el N° 21 del Capítulo III.H.5 antes, mencionado, se dispone que el límite máximo que la sociedad operadora puede fijar para la posición deudora neta multilateral de cada participante con bancos establecidos en el país no podrá ser, en cada ciclo de compensación, superior al 40% de su activo circulante con vencimiento a un año o menos, en tanto que el límite del saldo acreedor con otra institución participante, no podrá ser superior al 30% del patrimonio efectivo del banco acreedor.
+
+Además, en relación con lo dispuesto en el N° 35 del mencionado Capítulo III.H.5, se establece que la sociedad operadora deberá contratar anualmente una auditoría externa para que realice una evaluación de los procedimientos para la solución de contingencias operativas y del cumplimiento del Reglamento Operativo.
 
 ANEXO N°4
 
