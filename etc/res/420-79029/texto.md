@@ -1,0 +1,3 @@
+Por resolución No. 420 de 14 de Mayo de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución No. 252, de 1986, de esta Subsecretaría, por la cual se autorizó a don EDUARDO SALOMON ATALA ATALA, R.U.T. No. 7.221.892-2, domiciliado en Balmaceda 205, Maullín, para operar un centro de cultivo del recurso alga del género Gracilaria, en la comuna de Maullín, provincia de Llanquihue, X Región, por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 14 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
