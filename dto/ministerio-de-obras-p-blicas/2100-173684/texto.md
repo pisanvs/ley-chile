@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.100, de 29 de mayo de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº2, para la obra Programa de Caminos Productivos Ruta W-45 Longitudinal-Dalcahue Kms. 0.000 al 7.346, que figura a nombre de José A. Asencio González, rol de avalúo 133-35, superficie 350 m², comuna de Dalcahue. La Comisión de Peritos, fijó con fecha 13 de octubre de 1988, la indemnización provisional en la cantidad de $35.600, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
