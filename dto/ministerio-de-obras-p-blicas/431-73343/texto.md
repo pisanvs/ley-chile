@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 431, de 30 de abril de 1997, se expropió el lote de terreno Nº 2 del Enlace Agua Buena, superficie 3.548,25 m², rol de avalúo 9035-171, comuna de San Antonio, para la obra Proyecto Enlaces Ruta 78 del Camino Santiago-San Antonio, sector Leyda-Agua Buena, y se acordó el valor de indemnización con su propietaria Inmobiliaria San Antonio Limitada, ascendente a la cantidad de $17.132.231.-
+
+Fiscal del Ministerio de Obras Públicas.
