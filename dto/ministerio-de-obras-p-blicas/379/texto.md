@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 379, de 21 de abril de 1997, se expropiaron los lotes de terreno Nºs 14, 16, 24-C y 54, superficies 274 m2., 289 m2., 516 m2. y 418 m2., roles de avalúo 3330-10, 3330-12, 1065-12 y 2598-1, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte-Sur, sector Las Acacias-Río Maipo, y se acordó el valor de indemnización con sus propietarios María Bernarda Soto González, Iris Núñez Chamorro, Luis Salinas Maulén, y Jorge Mestre Barrera y otro, ascendente a las cantidades de $22.738.900.-, $29.445.600.-, $26.681.200.- y $24.154.660.
+
+Fiscal del Ministerio de Obras Públicas.
