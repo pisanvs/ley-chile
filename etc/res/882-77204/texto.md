@@ -1,0 +1,3 @@
+Por resolución No. 882 de 10 de Septiembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por 30 días a contar de la fecha de la presente resolución, el plazo otorgado a PESQUERA PUNTA ANGAMOS S.A., RUT No. 94.053.000-8, domiciliada en calle Huérfanos No. 863, Piso 3°, Santiago, para publicar el extracto de la resolución No. 540, de 1992, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 10 de Septiembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
