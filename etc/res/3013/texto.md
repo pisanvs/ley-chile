@@ -1,0 +1,3 @@
+Por resolución Nº 3.013, de 27 de diciembre de 2002, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 276, Nº277, Nº 279, modificadas por resoluciones Nº 1.791, Nº1.792 y Nº 1.793, todas de 1995, de esta Subsecretaría, que otorgaron a EMPRESA DE CONSTRUCCION Y CARPINTERIA NAVAL CONCAR S.A. permisos extraordinarios de pesca para la unidad de pesquería del recurso hidrobiológico Bacalao de profundidad.
+
+Valparaíso, 27 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
