@@ -1,0 +1,1 @@
+Libera del impuesto de transferencia a los bienes raíces a la compraventa de los terrenos que hará la Congregación Religiosa Instituto de los Hermanos Maristas de la Enseñanza, con el objeto de destinarlos a la construcción de un estadio y dependencias anexas para el Instituto Rafael Ariztía de la ciudad de Quillota.
