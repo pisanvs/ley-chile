@@ -12910,10 +12910,6 @@ Este ajuste o deducción para determinar el valor máximo que debe asignarse al 
 
 Los bienes usados que sean adquiridos para darlos en arrendamiento deberán estar libres de gravámenes y prohibiciones.
 
-3.3.- Límite de operaciones de lease-back de bienes usados.
-
-La suma de los contratos de arrendamiento que mantenga la institución financiera, correspondientes a operaciones de lease-back de bienes usados, no podrá exceder el 50% del saldo total de contratos de arrendamiento de la respectiva empresa:
-
 4.- Tipos de cartera de contratos.
 
 Para efectos contables y estadísticos, los contratos se agruparán en los siguientes tipos:
