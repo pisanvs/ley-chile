@@ -8768,9 +8768,7 @@ En "Tipo de operación" se informará si se trata de un crédito efectivo o cont
 
 6.- Información que debe enviarse al Administrador.
 
-Las entidades financieras que se adjudiquen garantías del Fondo, están obligadas a remitir mensuálmente al Banco del Estado de Chile, en su calidad de Administrador del Fondo, una nómina de los créditos que se cursen, la que deberá contener la misma información que debe anotarse en el registro señalado en el número precedente, además de la que adicionalmente pudiere requerir la entidad bancaria estatal.
-
-En el caso de créditos contingentes, deberá informarse además, también mensualmente, el monto total utilizado (desembolsado), los abonos realizados y el saldo efectivamente adeudado al término del mes respectivo.
+Las entidades financieras que se adjudiquen garantías del Fondo, están obligadas a remitir mensualmente al Banco del Estado de Chile, en su calidad de Administrador del Fondo, una nómina de los créditos que cursen, sean éstos efectivos o contingentes. Esta nomina deberá contener la misma información que debe anotarse en el registro señalado en el número precedente, además de la que adicionalmente pudiere requerir la entidad bancaria estatal.
 
 7.- Comisión a favor del Fondo de Garantía.
 
