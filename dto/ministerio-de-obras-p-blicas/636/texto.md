@@ -1,0 +1,5 @@
+Por Decreto MOP. Nº 636, de 30 de junio de 1997, y en base a la facultad otorgada por el artículo 105 del Decreto MOP. Nº 294, de 1984, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 6, para la obra Camino Autopista Santiago-San Antonio, Sector Enlace y Plaza de Peaje Talagante, km.
+
+11.100 al km. 12.100, que figura a nombre de Religiosas Adoratrices, rol de avalúo 507-37 comuna de Talagante, superficie 3.470 m2. La comisión de peritos integrada por los señores Sergio Rojas Ibáñez, Ricardo Carvallo Rodríguez y Carlos del Pedregal Sánchez, fijó con fecha 22 de enero de 1997, el valor provisional de la indemnización en la cantidad de $37.556.240.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
