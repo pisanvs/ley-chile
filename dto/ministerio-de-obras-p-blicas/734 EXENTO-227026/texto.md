@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 734 de fecha 31 de mayo de 2004, se expropió el lote de terreno Nº 689, superficie 84 m², rol Nº 32-601, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto El Toco - Ruta 66, tramo Km. 0,00000 al Km. 12,70000" y se acordó el valor de indemnización con su propietaria Guadalupe Fredes Pino, ascendente a la cantidad de $322.300.-
+
+Fiscal del Ministerio de Obras Públicas.
