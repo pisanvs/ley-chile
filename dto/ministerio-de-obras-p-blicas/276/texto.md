@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 276, de 14 de Septiembre de 1993, se expropió el lote de terreno N° 1, superficie 1.311.675 m2, Rol de Avalúo 839-13, comuna de Vallenar, para la obra Embalse Santa Juana Valle del Huasco y se acordó precio de indemnización con su propietario Compañía Minera del Huasco Sociedad Minera Contractual, ascendente a la cantidad de $6.390.448.-
+
+Fiscal del Ministerio de Obras Públicas.
