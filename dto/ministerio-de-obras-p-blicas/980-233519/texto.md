@@ -1,0 +1,3 @@
+Por decreto MOP Nº 980 de 29 de octubre de 2004, se expropió el lote de terreno Nº 71-A, superficie 1.276 m²., rol de avalúo 1125-32, comuna de Castro, para la obra ''Camino Ruta 5 Sur, sector Quemchi-Castro, Tramo Km. 1.165,30000 a Km. 1.184,93643.'', X Región y se acordó el valor de la indemnización con su propietaria Miguelina de Los Angeles Alvarado Cárdenas, ascendente a la cantidad de $4.229.362.-
+
+Fiscal del Ministerio de Obras Públicas.
