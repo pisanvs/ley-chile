@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°630, de 26 de agosto de 1996, se ordenó la consignación judicial de la indemnización provisional del lote de terreno N° 71, ascendente a $1.102.000.destinado a la ejecución de la obra Embalse Santa Juana, Sector La Laja, Etapa II, expropiado por Decreto M.O.P. N° 516, de 31 de octubre de 1994, que figura a nombre de Segundo Rodríguez Díaz, rol de avalúo 849-16, superficie 630 m2., comuna de Vallenar, III Región.
+
+Fiscal del Ministerio de Obras Públicas.
