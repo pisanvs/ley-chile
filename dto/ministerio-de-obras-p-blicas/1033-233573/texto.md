@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.033, de 16 de noviembre de 2004 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº34 para la obra ''Acceso al Puerto de San Antonio Ruta 78. Sector: Agua Buena - Puerto San Antonio. Km. 1.200,00 a Km.
+
+7.840,00'', Quinta Región, que figura a nombre de Orellana Pino Carlos, rol de avalúo 4027-40, comuna de San Antonio, superficie 296 m². La comisión de peritos integrada por los señores Fernando José Senerman Mandel, Mufida Viola Abuawad Elias y Cristián Larraín Arnolds, fijó con fecha 18 de octubre de 2004, el valor provisional de la indemnización en la cantidad de $12.084.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
