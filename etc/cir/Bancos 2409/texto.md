@@ -9508,7 +9508,7 @@ Dada esa característica especial, en ningún caso puede disponerse de la boleta
 
 a) Menciones mínimas.
 
-Las menciones que, como mínimo, debe indicar la boleta son el nombre y firma del Banco depositario, el nombre del beneficiario y del tomador; la obligación que garantiza la boleta; el monto de la suma depositada; el plazo que tiene el banco para restituir la cantidad depositada, después de haber sido requerido para ello; el lugar y la fecha de otorgamiento.
+Las menciones que, como mínimo, debe indicar la boleta son el nombre y firma del Banco depositario, el nombre del beneficiario y el nombre y número de RUT del tomador; la obligación que garantiza la boleta; el monto de la suma depositada; el plazo que tiene el banco para restituir la cantidad depositada, después de haber sido requerido para ello; el lugar y la fecha de otorgamiento.
 
 b) Carácter de nominativa y no endosable.
 
