@@ -16,6 +16,8 @@ a) Disponer la realización de cometidos funcionales (artículo 145 D.F.L. núme
 
 b) Ordenar el pago de asistencia médica a los funcionarios que sufran accidentes en actos de servicio o enfermedades profesionales. (Artículo 84 D.F.L. número 338, del 1960).
 
+c) Suscribir contratos o convenios con otras entidades, sean éstas públicas o privadas.
+
 III.- En el Jefe del Subdepartamento de Personal:
 
 a) Conceder al personal permisos fraccionados o continuos, cuando circunstancias especiales lo justifiquen, hasta por seis días hábiles en cada año calendario, con goce de remuneraciones (Artículo 91 D.F.L. Nº 338, de 1960). Esta facultad la ejercerá siempre que procediere con la aprobación previa del Jefe directo del peticionario;
