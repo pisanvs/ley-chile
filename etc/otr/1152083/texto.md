@@ -1,0 +1,7 @@
+Declaracion de invalidez a favor de soldados enfermos
+
+Santiago, Noviembre 28 de 1822.
+
+Habiendo representado el cirujano mayor del hospital militar, que muchos soldados de los que concurren a medicinarse, van aquejados de enfermedades crónicas, superiores a los preceptos del arte, quienes dedicándose a una vida pasiva, o respirando los aires saludables del campo, adquirirían acaso su restablecimiento inverificable en el hospital; he tenido a bien resolver que todo soldado, al ser dado de baja para dicho hospital, será detenidamente reconocido por el cirujano mayor; i si la dolencia fuese de las indicadas, con tal que haya servido sin nota de desercion u otra fealdad de las que prescribe la ordenanza, al menos por el término de dos años, será retirado a inválidos con el correspondiente pré, advirtiéndose que si la enfermedad segun sus pronósticos, que escrupulosamente examinará el espresado cirujano, trajese su oríjen antes de haber entrado en el servicio, o no estuviese cumplido el tiempo prefinido, o hubiese incurrido en alguna falta de las espresadas, en cualquiera de estos casos se le concederá su licencia, previo el informe de su respectivo jefe, para que libremente se ocupe segun lo permita su salud.
+
+Tómese razon, comuníquese a quien corresponda e imprímase.- O'Higgins. - Rodríguez.
