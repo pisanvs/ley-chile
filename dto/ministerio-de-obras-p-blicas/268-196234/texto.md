@@ -1,0 +1,3 @@
+Por decreto MOP Nº 268, de 31 de enero del 2002, se expropió el lote de terreno Nº 53, superficie 7.588 m2., rol de avalúo 104-205, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago Valparaíso Viña del Mar Tramo 6A2: Kms. 33.200,00 al 33.880,00, Región Metropolitna y se acordó el valor de indemnización con su propietario Aldo Domingo Lubiano Bruzzo, ascendente a la cantidad de $44.822.799.
+
+- Fiscal del Ministerio de Obras Públicas.
