@@ -1,0 +1,3 @@
+Por decreto MOP Nº 769, de 29 de febrero del 2000, se expropió el lote de terreno Nº 460, superficie 100 m², rol de avalúo 7798-28, comuna de La Pintana, para la obra Concesión Internacional Ruta 5 Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Roberto Hernán Saavedra Faus, ascendente a la cantidad de $4.517.188.
+
+Fiscal del Ministerio de Obras Públicas.
