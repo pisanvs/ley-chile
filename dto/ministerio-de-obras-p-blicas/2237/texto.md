@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.237, de 30 de octubre de 1998, se expropió el lote de terreno Nº14, superficie 17.296 m2., rol de avalúo 209-93, comuna de San Javier, para la obra Camino Ruta 5, sector Talca - Chillán, Intersección Desnivelada Acceso a Colbún y se acordó el valor de indemnización con su propietario José Segundo Hernández Aravena, ascendente a la cantidad de $100.094.835.-
+
+Fiscal del Ministerio de Obras Públicas.
