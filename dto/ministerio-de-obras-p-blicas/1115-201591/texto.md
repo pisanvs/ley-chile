@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.115 de fecha 28 de junio del 2002, se expropió el lote de terreno Nº5, superficie 2.191,68 m2, rol de avalúo Nº3210-551 comuna de Padres Las Casas, para la obra ''Estudio de Ingeniería Varios Puentes en la IX Región, Sector Puente Misión Araucana, Camino Misión Boroa - Temuco, Km. 0,000 a Km. 0,64239'', IX Región y se acordó el valor de indemnización con su propietaria Lidia Esmerita Reyes Cofré, ascendente a la cantidad de $6.467.434.-
+
+Fiscal del Ministerio de Obras Públicas.
