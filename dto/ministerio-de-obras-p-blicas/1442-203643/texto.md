@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.442, de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº39, superficie 3.866 m², sin rol de avalúo, comuna de Alto del Carmen, III Región, para la obra ''Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 al 70,000, Etapa II'' y se acordó el valor de indemnización con su propietario don Hernando Gárate Páez, ascendente a la cantidad de $5.660.794.-
+
+Fiscal del Ministerio de Obras Públicas.
