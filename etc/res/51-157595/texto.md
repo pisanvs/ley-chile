@@ -1,0 +1,3 @@
+Por resolución N° 51 de 22 de Enero de 1985, de Servicio de Vivienda y Urbanización Metropolitano, se derogó resolución N° 794 de 24 de Julio de 1984, del mismo servicio, que ordenó expropiación conforme DL N° 2.186 de 1978, parte inmueble ubicado en Avda. Larraín s/N°, entre Pasaje y Calle Javiera Carrera, rol de avalúos N° 3300-50, comuna de La Reina, a varios propietarios.-
+
+Director SERVIU Metropolitano.
