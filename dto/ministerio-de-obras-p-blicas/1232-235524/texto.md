@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.232, de fecha 30 de diciembre del 2004, se expropió el lote de terreno Nº 128, superficie 109 m2, Rol Nº 1432-16, comuna de Antofagasta, II Región para la obra ''Mejoramiento Av. Salvador Allende, Tramo Avda. Sarmiento - Avda. Costanera'' y se acordó el valor de indemnización con su propietaria Raquel del Rosario Chacana Ahumada y Otros, ascendente a la cantidad de $31.347.384.
+
+Fiscal del Ministerio de Obras Públicas.
