@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.631 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 280-1, superficie 915 m², rol de avalúo 101-108, comuna de Papudo, para la obra ''Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Sector Km. 156.320,00 a Km. 157.100,00'' y se acordó el valor de indemnización con su propietario Eloísa del Carmen Chacana Pizarro, ascendente a la cantidad de $3.537.529.-
+
+Fiscal del Ministerio de Obras Públicas.
