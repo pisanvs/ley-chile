@@ -1,0 +1,3 @@
+Por resolución Nº 2.382, de 27 de octubre de 2000, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 2.194 de 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesca de Investigación del Jurel entre la III y la X regiones'', en el sentido de reemplazar la nave ''Atacama III'' por la nave ''Yagán'', ambas de propiedad de Compañía Pesquera Camanchaca S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 27 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
