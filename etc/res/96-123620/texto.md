@@ -1,0 +1,3 @@
+Por resolución Nº 96, de 14 de agosto de 1998, Serviu II Región dispuso conforme D.L. 2.186 de 1978, y para ejecución proyecto Mejoramiento Acceso Puerto de Antofagasta, expropiación parcial del inmueble ubicado en Avda. Balmaceda Nº 2370, rol avalúo Nº 786-1, comuna de Antofagasta, superficie 10,94 m2, de aparente dominio de don Ivo Ivisevic R. Comisión Tasadora integrada por peritos Sr. Alejandro Bargsted B., Sra. Eleonora Román L., arquitectos, y Sr. Héctor Villegas G., constructor civil, según informe de 22 de julio de 1998, fijó monto provisional indemnización en $9.370.890.- pagadera al contado.
+
+Director Serviu II Región.
