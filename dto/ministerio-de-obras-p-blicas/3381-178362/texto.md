@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.381, de 31 de julio de 2000, se expropiaron los lotes de terreno Nºs. 35, 36, 37 y 38, superficies 3.120, 2.983, 627 y 1.410 m² respectivamente, rol de avalúo 112-27 y 112-28, comuna de Corral, para la obra Camino Longitudinal Costero Sur, Sector El Morro - Chaihuin II, Km. 15.755 a Km. 27.017 y se acordó precio de la indemnización con su propietario Vicente Rivera Leal, ascendente a la cantidad de $2.550.327, para los lotes Nºs. 35, 36, 37 y 38.-
+
+Fiscal del Ministerio de Obras Públicas.
