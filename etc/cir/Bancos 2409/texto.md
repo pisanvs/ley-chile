@@ -11392,6 +11392,8 @@ Debe: - "Colocaciones castigadas" o "Créditos vigentes castigados anticipadamen
 
 Haber: - "La cuenta de orden de la partida 9900".
 
+Los créditos de consumo castigados de acuerdo con lo señalado en el numeral 3.2.2 precedente, se registrarán siempre en la cuenta "Colocaciones castigadas", aun cuando existan cuotas por vencer.
+
 Se excluirán de la contabilización descrita precedentemente, los créditos vencidos que a su vez no se consideran para la información sobre créditos castigados que refunde esta Superintendencia, según lo indicado en el Capítulo 18-5 de esta Recopilación y en el Manual del Sistema de Información.
 
 Los importes registrados en las cuentas de orden antes indicadas, deberán revertirse en las oportunidades que se señalan en el numeral 3.5 de este título y en el N° 4 del título IV de este Capítulo.
@@ -11520,7 +11522,7 @@ Por otra parte, en el caso en que desaparezcan las causas que hubieren motivado 
 
 4.2. Créditos castigados contablemente que deben informarse como créditos vigentes.
 
-Deben informarse como créditos vigentes los créditos castigados cuyo vencimiento aún no se haya cumplido y aquellos que, estando castigados, hayan sido renegociados.
+Deben informarse como créditos vigentes los créditos castigados cuyo vencimiento aún no se haya cumplido y aquellos que, estando castigados, hayan sido renegociados. No obstante, las cuotas por vencer de créditos de consumo castigados conforme a lo dispuesto en el numeral 3-2.2 del título I de este Capítulo, no se informarán como vigentes.
 
 Cuando un crédito castigado sea objeto de renegociación, sin que ella involucre el pago del crédito mediante el otorgamiento de un nuevo crédito, se registrará aquél en la cuenta de orden "Créditos castigados renegociados" que se incluirá en la partida 9600.
 
