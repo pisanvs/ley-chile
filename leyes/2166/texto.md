@@ -1,0 +1,1 @@
+Lei núm. 2,166, que autoriza a la Caja de Crédito Salitrero para emitir cédulas o bonos con hipoteca de ferrocarriles en esplotacion.
