@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.522, de fecha 29 de octubre de 2004, se expropió el lote de terreno Nº 28-B, superficie 182 m²., rol de avalúo Nº 306-321, comuna de Laja, para la obra "Camino Ruta Q-90-O, Sector Cruce Longitudinal - Laja, Km. 0,00000 al Km. 35,53000", VIII Región y se acordó el valor de la indemnización con su propietario Waldo Chávez Martínez, ascendente a la cantidad de $275.776.
+
+Fiscal del Ministerio de Obras Públicas.
