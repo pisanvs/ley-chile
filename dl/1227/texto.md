@@ -1,0 +1,1 @@
+Establece una tasa adicional transitoria de 2% sobre la comisión que indica, autorizada para descontarse sobre el monto de las apuestas hípicas que señala.
