@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Res. Ex. N° 1.404, de fecha 17 de Mayo de 1991, dispone exclusión de don Manuel Edgardo Merlo Castillo y de doña María Cecilia Espinoza Rubio, de las nóminas de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al primer llamado 1990 del Sistema General Unificado de Subsidio Habitacional, y deja sin efecto los Certificados de Subsidio Habitacional Serie A-90 N° 01-01456 y Serie B-90 N° 01-08222, extendidos a su favor, respectivamente, quedando en 9.374 el número de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente a dicho llamado, y en 1.279.680 Unidades de Fomento, el monto de los recursos comprometidos para el financiamiento del subsidio directo para la atención de los postulantes seleccionados en ese llamado.-
+
+Joan Mac Donald M., Subsecretaría de Vivienda y Urbanismo.
