@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.473, de 19 de noviembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+27-B1 y 27-B2; para la obra: Camino: Santiago-Colina-Los Andes. Sector ''G'' By Pass Los Andes. Km. 5.200,00 a Km. 5.900,00, Quinta Región, que figuran a nombre de Herrera Vásquez Jorge Raúl, rol de avalúo 20-61, comuna de Calle Larga, superficies 130 m² y 688 m², respectivamente. La Comisión de Peritos integrada por los señores Patricio Benjamín García Toso, José Rogelio Alfredo Reyes Azancot y Claudia Arellano Gómez, fijó con fecha 28 de septiembre de 1999, el valor provisional de la indemnización en las cantidades de $315.360.- para el lote Nº27-B1 y de $900.136.- para el lote Nº27-B2.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
