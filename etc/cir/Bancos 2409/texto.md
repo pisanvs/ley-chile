@@ -28468,37 +28468,13 @@ Este Organismo dará a conocer las equivalencias que deben aplicarse para esos e
 
 Las instituciones financieras registrarán los ajustes mensuales de las cuentas " Cambio Mercado Bancario", de acuerdo con las e quivalencias informadas por esta Superintendencia y de la forma prevista en el Capítulo 13-1 de esta Recopilación Actualizada de Normas.
 
-El ajuste de las demás cuentas "Cambio" y de las que hagan sus veces, deberá también efectuarse mensualmente de acuerdo con el tipo de cambio y paridades informadas por este Organismo y registrarse directamente en las respectivas cuentas con cargo o abono a "Pérdidas por variación del tipo de cambio recursos en moneda extranjera liquidados" de la partida 5715 del formulario MR1 y
+El ajuste de las demás cuentas "Cambio" y de las que hagan sus veces, deberá también efectuarse mensualmente de acuerdo con el tipo de cambio y paridades informadas por este Organismo y registrarse directamente en las respectivas cuentas con cargo o abono a "Pérdidas por variación del tipo de cambio recursos en moneda extranjera liquidados" de la partida 5715 y "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715, según corresponda, o en las cuentas que esta Superintendencia haya dispuesto para el ajuste de determinados saldos.
 
-"Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715 de dicho formulario, según corresponda, o en las cuentas que esta Superintendencia haya dispuesto para el ajuste de determinados saldos.
-
-No obstante, al tratarse del ajuste de la cuenta " Cambio Mercado de Divisas de Libre Disposición", según lo dispuesto en el Capítulo 13-1, se utilizará el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera el día en que se efectúe el ajuste, sin perjuicio de que, para la representación de los saldos en moneda extranjera en los formularios MB1 y MR1, deben utilizarse las equivalencias que informe este Organismo.
+No obstante, al tratarse del ajuste de la cuenta "Cambio Mercado de Divisas de Libre Disposición", según lo dispuesto en el Capítulo 13-1, se utilizará el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera el día en que se efectúe el ajuste, sin perjuicio de que, para la representación de los saldos en moneda extranjera en los estados financieros y en la información que debe enviarse a esta Superintendencia, deben utilizarse las equivalencias que informe este Organismo.
 
 Por otra parte, los ajustes correspondientes a las ventas de divisas realizadas al Banco Central de Chile con pacto de recompra, deben efectuarse conforme a lasdisposiciones del Capítulo 13-6.
 
 Debe tenerse presente, además, que para calcular y registrar los reajustes de operaciones en moneda chilena reajustables por la variación del dólar estadounidense, las instituciones financieras deben considerar el tipo de cambio que se haya pactado, ateniéndose a las instrucciones del Capítulo 7-1 de esta Recopilación.
-
-3. Diferencias entre el tipo de cambio de representación contable y el tipo de cambio de mercado.
-
-En la medida en que el tipo de cambio de representación contable establecido por esta Superintendencia sea superior al tipo de cambio observado vigente en la fecha en que corresponda efectuar el ajuste, las instituciones bancarias debitarán o abonarán las diferencias resultantes entre ambas cotizaciones en las cuentas que se establecen para ese fin, con efecto en las cuentas de "Utilidades de cambio" o "Pérdidas de Cambio", según sea el caso, conforme al siguiente procedimiento:
-
-a) se efectuará el ajuste de las cuentas "Cambio" de acuerdo con las disposiciones vigentes, al tipo de cambio de representación contable,
-
-b) se determinará el porcentaje que corresponda a la diferencia entre el tipo de cambio de representación contable y el tipo de cambio observado, vigente en la fecha en que corresponda efectuar el ajuste,
-
-c) el porcentaje así calculado, hasta con dos decimales, se aplicará sobre el saldo de la cuenta "Cambio" respectiva, previamente ajustado en la forma señalada en la letra a) precedente,
-
-d) Si como consecuencia del ajuste al tipo de cambio contable a que se refiere la letra a) anterior resultara un abono a la cuenta "Utilidades de Cambio", por el importe que se obtenga de la aplicación del porcentaje antedicho se constituirá una provisión, para lo cual se debitará la misma cuenta "Utilidades de Cambio" recién mencionada y se acreditará la cuenta "Provisión por diferencia ajuste tipo de cambio contable", cuyo saldo se demostrará en la partida N° 4120,
-
-e) en el caso que el ajuste al tipo de cambio contable de que trata la letra a) precedente generara un débito a la cuenta "Pérdidas de Cambio", el importe correspondiente al porcentaje representativo de la diferencia entre el tipo de cambio de representación contable y el tipo de cambio observado, se acreditará a la respectiva cuenta "Pérdidas de Cambio", debitando al efecto la cuenta "Diferencia ajuste tipo de cambio contable", que se incluirá en la partida 2120,
-
-f) el primer día hábil bancario del mes siguiente al de la fecha del ajuste, se procederá a revertir los importes debitados o acreditados a las cuentas "Diferencia ajuste tipo de cambio contable" o "Provisión por diferencia ajuste tipo de cambio contable", respectivamente, de modo que estas cuentas se mantendrán sin saldo en el curso del mes y hasta la fecha del nuevo ajuste.
-
-Si el tipo de cambio de representación contable fuera inferior al tipo de cambio observado, vigente en la fecha en que corresponda efectuar el ajuste, se seguirá el mismo procedimiento pero, en lugar de realizar un débito a la cuenta "Utilidades de Cambio" por el importe que resulte al aplicar el porcentaje correspondiente a la diferencia entre ambas cotizaciones, este importe se acreditará en esta última cuenta, con cargo a la cuenta de activo transitorio "Diferencia ajuste tipo de cambio contable" A su vez, si el ajuste de la cuenta "Cambio" da origen a un débito a la cuenta "Pérdidas de Cambio", la diferencia que resulte por efecto de la aplicación del porcentaje ya citado, se debitará igualmente a esa cuenta, con abono a la cuenta "Provisión por diferencia ajuste tipo de cambio contable".
-
-Las disposiciones a que se refiere este número se aplicarán a las cuentas "Cambio" correspondientes a las cuentas de "Conversión" que registren las operaciones de contado, efectuadas en el mercado cambiario formal. Asimismo, quedarán sujetas a estas normas las cuentas "Cambio" que correspondan a equivalentes de aquellas Conversiones que reflejen inversiones financieras en instrumentos del Banco Central de Chile que, además de ser transferibles, esté expresamente señalado en las normas respectivas que su pago se hará al tipo de cambio que se establece en el N°6 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales.
-
-Quedan exceptuadas de este procedimiento las cuentas "Cambio" que reflejen los equivalentes de cuentas "Conversión" relativas a la recompra de divisas por aportes de capital efectuados por la institución, como también aquellas que correspondan a inversiones que tengan un carácter permanente, como por ejemplo, los instrumentos del Banco Central de Chile no transferibles o de aquellos que siendo transferibles se hayan adquirido con la intención de conservarlos y, por consiguiente, no enajenarlos Igualmente se exceptuarán las cuentas relativas a los equivalentes de reservas y provisiones en moneda extranjera y de utilidades por remesar, las que registran las operaciones de ventas de divisas con pacto de recompra, de que tratan los Capítulos 13-6 y 13-7 de la Recopilación Actualizada de Normas, y las Cuentas "Cambio Futuro", que se actualizan conforme a las instrucciones del Capítulo 13-2 de la Recopilación Actualizada de Normas".
 
 CAPITULO 13-31 (Bancos)
 
