@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº822 de fecha 31 de mayo del 2002, se expropió el lote de terreno Nº18, superficie 615,19 m2, Rol Nº503-327, comuna de Carahue, IX Región para la obra ''Camino Costero Tirúa - Carahue, Tramo Tranapuente - Carahue, sector Km. 55.438,97 al 69.895,61 y Km. 0.000,00 al 3.927,45, correspondiente al Subtramo I, Km. 55.448 al 59.388,60'', y se acordó el valor de indemnización con su propietario Irenio Silva Llancaleo, ascendente a la cantidad de $442.829.-
+
+Fiscal del Ministerio de Obras Públicas.
