@@ -1,0 +1,5 @@
+Por Resolución Nº 34, de 13 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a EASTER ISLAND CORP. S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Hanga-Pico Isla de Pascua, donde podrá procesar, en las líneas de elaboración que se señalan a continuación, los siguientes recursos hidrobiológicos: Fresco-Refrigerado, Congelado, Salado, Ahumado y Deshidratado: Albacora o pez espada, Atún aleta amarilla, Atún aleta larga, Atún ojos grandes, Bacalao de profundidad, Cojinoba del norte, Toremo, Remoremo, Paratoti, Nanue, Ruhi, Poopoo, Kakakana, Mahimahi, Paparauri, Pei, Marrajo o tiburón, Pez volador, Tollo, Anguila, Langosta y Camarón nailon.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 13 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
