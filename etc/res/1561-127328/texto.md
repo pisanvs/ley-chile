@@ -1,0 +1,3 @@
+Por resolución Nº 1.561, de 13 de noviembre de 1998, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 39, de 1991 de esta Subsecretaría, que autorizó a PESQUERA EPERVA S.A., para operar la nave ''Eperva 63'', sólo en lo relativo a las especies Anchoveta, Caballa, Jurel, Sardina común y Sardina española, en el litoral de la III Región, por haber suspendido actividades por más de 12 meses sucesivos, configurándose la causal prevista en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 13 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
