@@ -1,0 +1,3 @@
+Por Decreto MOP. No 192, de 27 de febrero de 1998, se expropiaron los lotes de terreno Nos. 27, 28 y 29, superficies 750, 2.554 y 959 m2., roles de avalúo 60-23 y 60-17 comuna de Palmilla, para la obra Camino Santa Cruz Palmilla, Sector Ruta 1-720 por Barriales, se acordó precio de indemnización con su propietario Sociedad Agrícola Estampa Sociedad Limitada, ascendente a la cantidad de$8.096.562.
+
+Fiscal del Ministerio de Obras Públicas.
