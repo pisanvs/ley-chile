@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 689, de 30 de agosto de 1996, se expropió el lote de terreno N°229-A, superficie 245 m2., rol de avalúo 219-19, comuna de San Vicente, para la obra Camino Quinta de Tilcoco, Cruce Ruta 66, sector Tunca El Medio, y se acordó precio de indemnización con su propietario Sucesión de don Carlos René Pino Zúñiga, ascendente a la cantidad de $710.861.
+
+Fiscal del Ministerio de Obras Públicas.
