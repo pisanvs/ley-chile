@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.708, de 28 de abril de 2000, se expropió el lote de terreno Nº4, superficie 729 m2., Rol de avalúo 8.085-30, comuna de San Rafael, para la obra Concesión Internacional Ruta 5. Tramo: Talca - Chillán, Séptima Región y se acordó el valor de indemnización con su propietario Luis Omar Ahumada Adasme, ascendente a la cantidad de $2.752.790.
+
+- Fiscal del Ministerio de Obras Públicas.
