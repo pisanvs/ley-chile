@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.316, de 31 de agosto de 2001, se expropió el lote de terreno Nº19, superficie 7.895 m2., de avalúo 154-22, comuna de Casablanca, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso, Viña del Mar, Quinta Región y se acordó el valor de indemnización con su propietario Sopraval S.A., ascendente a la cantidad de $41.339.014.-
+
+Fiscal del Ministerio de Obras Públicas.
