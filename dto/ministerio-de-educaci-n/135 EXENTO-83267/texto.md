@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO EXENTO N°. 135, DE 1990
+
+Por decreto supremo exento de Educación No. 135 de 17 de abril de 1990, se ha aprobado al Colegio San Rafael de la Fundación Educacional Barnechea, de Santiago, Planes Complementarios y Programas de Estudio para la Educación Media Humanístico - Científica, los cuales se aplicarán en 3°s. y 4°s. años en 1990 y para 5° año de Educación Media. Según Art. 6° del mencionado decreto, se han aprobado Talleres Complementarios al citado Plan y Programas de Estudio, los que se realizarán durante el Verano. La evaluación y calificación de los Planes y Programas aprobados no incidirán en la promoción de los cursos respectivos. Los alumnos recibirán, al cabo del 5° año una certificación que acredite las asignaturas impartidas, el número de clases anuales y la calificación obtenida.
+
+Santiago, 27 de abril de 1990.- Raúl Allard Neumann, Subsecretario de Educación Pública.
