@@ -1,0 +1,7 @@
+Por resolución Nº 2.669, de 30 de diciembre de 1999 de esta Subsecretaría, otórgase a PESCA SURIBERICA S.A., un permiso extraordinario de pesca para la unidad de pesquería del recurso hidrobiológico Bacalao de profundidad, fijada en el artículo 1º del DS Nº 328, de 1992, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Este permiso extraordinario tendrá vigencia para las temporadas de pesca de la especie Bacalao de profundidad, que se fijen en los años 2000 a 2009, ambos inclusive, y faculta a su titular para pescar anualmente el 1% de la cuota global anual de captura, de conformidad a lo dispuesto en el artículo 40 de la Ley General de Pesca y Acuicultura.
+
+El adjudicatario de los derechos que dan origen al presente permiso extraordinario, deberá pagar en las fechas que a continuación se indican, los montos en dinero expresados en UTM que se señalan y que corresponden a las cuotas anuales individualizadas en el numeral anterior: Diciembre 2000: 54 UTM; Diciembre 2001: 54 UTM; Diciembre 2002: 54 UTM; Diciembre 2003: 54 UTM; Diciembre 2004: 54 UTM; Diciembre 2005: 54 UTM; Diciembre 2006: 54 UTM; Diciembre 2007: 54 UTM; Diciembre 2008: 54 UTM.
+
+Valparaíso, 30 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
