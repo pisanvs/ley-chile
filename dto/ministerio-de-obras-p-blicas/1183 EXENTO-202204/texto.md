@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.183 de fecha 31 de julio de 2002, se expropiaron los lotes de terreno Nº 39 y 40, superficies 131 y 423 m2, rol de avalúo Nº 2071-6 y 2070-8, comuna de Melipilla, para la obra ''Camino Reposición Ruta G-74-F, Sector: Melipilla - Bollenar Tramo: Kms. 0,0000 al 14,23039'', Región Metropolitana y se acordó el valor de la indemnización con su propietario Sociedad Inmobiliaria B. Z. Limitada, ascendente a la cantidad de $3.306.979.-
+
+Fiscal del Ministerio de Obras Públicas.
