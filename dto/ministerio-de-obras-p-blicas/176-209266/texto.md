@@ -1,0 +1,5 @@
+Por decreto MOP Nº176, de 10 de marzo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº8 para la obra:
+
+"Proyecto Sistema Américo Vespucio Norte. Ruta 78-Av. El Salto. Sector 4: Costanera Norte-Avenida Condell", Región Metropolitana, que figura a nombre de Montt Lehuedé Luis, rol de avalúo 7761-5, comuna de Pudahuel, superficie 256 m2. La comisión de peritos integrada por los señores Jaime Rolando Jurgens Bittner, Andrés Rainer Schulz Villanueva e Itsang Lu Chen, fijó con fecha 13 de diciembre de 2002, el valor provisional de la indemnización en la cantidad de $4.368.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
