@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.051, de 30 de julio de 1999, se expropiaron los lotes de terreno No. 1 del Sector 10, Lado Izquierdo, y lote No. 1 del Sector 3, Lado Derecho, superficies 4.893,8 m². y 7.627,9 m²., rol de avalúo 269-36, comuna de El Monte, para la obra Camino Autopista Santiago - San Antonio, Segmento 4: El Paico - Puangue, Región Metropolitana y se acordó el valor de indemnización con su propietaria Sociedad Agrícola Chiñigüe Limitada, ascendente a la cantidad total de $ 67.290.389.-
+
+Fiscal del Ministerio de Obras Públicas.
