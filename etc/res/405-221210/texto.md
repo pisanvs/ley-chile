@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 405, 22 diciembre 2003, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle A. Bello s/nº, Rol de avalúo Nº 59-001, comuna Concepción, superficie 456,40 m2 de terreno, dentro polígono y linderos señalados plano expropiación S8R-59-001; de aparente dominio de Fondo de Inversiones Inmobiliaria Cimenta Expansión, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 ley 16.391 y DL Nº 2.186. Comisión Peritos integrada por Cecilia Carrasco Verdugo, arquitecto, Hernán Danilo Cáceres Moscoso, ingeniero civil, y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 6 de noviembre de 2003, fijó monto provisional indemnización en $55.086.745.-, pagadera de contado.
+
+Director Serviu, Región del Bío Bío.
