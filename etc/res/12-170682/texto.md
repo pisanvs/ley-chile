@@ -1,0 +1,5 @@
+AUTORIZA A DON MARCELINO GONZALEZ HERNANDEZ PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 12, de 11 de Enero de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Marcelino González Hernández, RUT Nº 3.235.203-0, domiciliado en Avenida España Nº 312, San Vicente, Talcahuano, para ampliar actividades pesqueras autorizadas por resolución Nº 335, de 1981, de esta Subsecretaría, en orden a operar en la planta industrial ubicada en Frigorífico Talcahuano de su propiedad y en Frigorífico Concepción de Comercial Alesa S.A., en la línea de elaboración de congelado, donde procesará los siguientes recursos hidrobiológicos: Congrio colorado, congrio negro, bacalao, sardina española, jurel, sardina común, caballa, pejegallo, pejerrey, bonito, tollo, raya, cabrilla, agujilla, anchoa, merluza común merluza del Sur, caracol, calamar, lapa, almeja, loco, macha, navajuela, cholga, chorito, ostra, ostión, langostino colorado, langostino amarillo, camarón, jaiba mora, jaiba peluda, jaiba reina, picoroco, piure y erizo.
+
+Valparaíso, 11 de Enero de 1988.- Roberto Cabezas Bello Subsecretario de Pesca.
