@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.230, de fecha 30 de diciembre de 2004, se expropió el lote de terreno Nº 3, superficie 3.330 m2, rol de avalúo Nº 147-127, comuna de Dalcahue, para la obra ''Camino Ruta 5 Sur, Sector Quemchi - Castro, Tramo Bifurcación Quemchi - Acceso a Dalcahue, Km. 1.143.500,00 a Km. 1.165.300,00''; X Región y se acordó el valor de la indemnización con su propietario José Enrique Andrade Alvarado, ascendente a la cantidad de $28.904.484.
+
+Fiscal del Ministerio de Obras Públicas.
