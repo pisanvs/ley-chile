@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 2335 de 09 de Noviembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas N°s. 1 a la 14, sitios A al K del Proyecto de Parcelación "El Cardal" formado por predio "El Cardal" de la Comuna de Malloa Vía. Región. Los Derechos de Agua se extraen de los canales "Chuchué" o "San Alberto", "La Palma" y Derrames que conduce el foso ubicado al Norte del Estero Huinico Grande. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
