@@ -1,0 +1,3 @@
+Por decreto MOP Nº 102, de 31 de enero de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para la Empresa de Servicios Sanitarios del Maule S.A. el lote de terreno Nº 1, para la obra Planta de Tratamiento de Aguas Servidas de Longaví, que figura a nombre de Eduardo Antonio Batarca Dagach, rol de avalúo 189-57, comuna de Longaví, superficie 65.355,58 m2. La Comisión de Peritos fijó con fecha 18 de diciembre de 2000, en la cantidad de $23.528.009. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
