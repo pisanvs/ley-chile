@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 94, de 31 de enero de 1997, se dejó sin efecto el Decreto MOP Nº 252, de 23 de abril de 1996, en lo que se refiere al lote de terreno Nº 17, que figura a nombre de Delia Isab Metzner Mathws, Rol de Avalúo Nº 4001-1, Comuna de Concepción, para la obra Agua Potable de Concepción Talcahuano, II Etapa, Sectores Nonguén, Collao Palomares, Cañería Alimentadora "Estanque Nonguén Alto Santa Andrea T1".-
+
+Fiscal del Ministerio de Obras Públicas.
