@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 624 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº 40, superficie 3.101 m², rol de avalúo Nº 608-67, comuna de San Ignacio, para la obra: "Proyecto Laja Diguillín, Canal Matriz Diguillín - Larqui Km. 6,416 al Km. 11,893", VIII Región, y se acordó el valor de indemnización con su propietario Iván José Sandoval Pavez y Otro, ascendente a la cantidad de $2.226.809.-
+
+Fiscal del Ministerio de Obras Públicas.
