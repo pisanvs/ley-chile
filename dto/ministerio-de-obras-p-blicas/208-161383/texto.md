@@ -1,0 +1,3 @@
+Por decreto MOP Nº 208, de 31 de enero de 2000, se expropió el lote de terreno Nº 41-B, superficie 2.082 m², rol de avalúo 1547-19, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli. By Pass Los Angeles, Octava Región y se acordó el valor de indemnización con su propietario Florencio Aguilera Gómez, ascendente a la cantidad de $7.447.172.
+
+- Fiscal del Ministerio de Obras Públicas.
