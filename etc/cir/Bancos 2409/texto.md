@@ -2644,7 +2644,7 @@ Las disposiciones del Banco Central de Chile permiten a los bancos pagar interes
 
 6.1.- Condiciones para el pago de intereses.
 
-Los bancos podrán pagar intereses sobre los saldos mantenidos en cuentas corrientes, pudiendo exigir como único requisito para acceder a ese pago, la mantención de un determinado saldo promedio mensual disponible mínimo. Sin embargo, dentro de esa limitación pueden ofrecer distintas tasas, de acuerdo a los niveles de los saldos mínimos que se establezcan para el efecto.
+Los bancos podrán pagar intereses sobre los saldos mantenidos en cuentas corrientes, pudiendo exigir como único requisito para acceder a ese pago, la mantención de un determinado saldo promedio mensual disponible mínimo. Sin embargo, dentro de esa limitación pueden ofrecer distintas tasas, de acuerdo a los niveles de los saldos mínimos que se establezcan para el efecto. Al respecto, el Banco Central de Chile ha expresado que no existe inconveniente que se pueda considerar la calidad de la persona de que se trata y, por lo tanto, distinguir entre personas naturales o personas jurídicas, pero sin que se pueda dentro de cada grupo establecer alguna forma de discriminación arbitraria. Agrega, dentro del mismo contexto, que los bancos también están facultados para establecer en los contratos de cuentas corrientes, las condiciones generales que estimen pertinentes relativas al pago de intereses, en la medida que no se afecte la naturaleza de dicho contrato y la normativa dictada en materia de encaje y reserva técnica, en su caso.
 
 La estipulación del pago de intereses deberá constar en el contrato de cuentas corrientes que se suscriba para ese objeto entre el banco y el titular de la cuenta corriente. En ese documento deberá quedar establecida la condición que deberá cumplirse, en lo relativo a la exigencia de mantener un determinado saldo promedio mensual disponible mínimo para recibir el beneficio, como asimismo se estipulará la tasa de interés que se pagará y el abono mensual de los intereses resultantes. También deberá estipularse el medio por el cual se avisarán los cambios en la tasa de interés pactada o la eventual modificación de los saldos mínimos que darán derecho a ese pago.
 
@@ -12900,7 +12900,7 @@ Todas las garantías otorgadas o recibidas por la institución financiera deber�
 
 VI.- DISPOSICION TRANSITORIA.
 
-No obstante lo indicado en el N° 3 del título IV de este Capítulo, al tratarse de bienes recuperados durante los años 1999, 2000 y 2001, el plazo para su castigo se amplía hasta 30 meses a contar de la fecha de su recuperación.
+No obstante lo indicado en el N° 3 del título IV de este Capítulo, al tratarse de bienes recuperados durante los años 1999, 2000, 2001 y 2002 el plazo para su castigo se amplía hasta 30 meses a contar de la fecha de su recuperación.
 
 ANEXO N° 1
 
@@ -14798,7 +14798,7 @@ Los castigos efectuados en cumplimiento de lo dispuesto en el penúltimo inciso 
 
 IV.- DISPOSICION TRANSITORIA.
 
-El plazo adicional de 18 meses a que se refiere el numeral 4 2 del título I de este Capítulo, podrá aplicarse también a los bienes que no se encuentren en las situaciones que se indican en ese numeral, cuando se trate de bienes recibidos o adjudicados en pago durante los años 1999, 2000 y 2001.
+El plazo adicional de 18 meses a que se refiere el numeral 4 2 del título I de este Capítulo, podrá aplicarse también a los bienes que no se encuentren en las situaciones que se indican en ese numeral, cuando se trate de bienes recibidos o adjudicados en pago durante los años 1999, 2000, 2001 y 2002.
 
 APITULO 10-2 (Bancos y Financieras)
 
