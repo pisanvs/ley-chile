@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.123, de 30 de abril de 1999, se expropió el lote de terreno Nº 40, superficie 835 m², rol de avalúo 167-203, comuna de Maule, para la obra Camino Ruta 5 Tramo Talca - Chillán, Calle de Servicio sector Talca Sur - Unihue y Pirque Unihue, Séptima Región y se acordó el valor de indemnización con su propietario José Guillermo Aravena Sandoval, ascendente a la cantidad de $44.907.171.
+
+Fiscal del Ministerio de Obras Públicas.
