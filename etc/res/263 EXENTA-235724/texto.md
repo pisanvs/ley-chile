@@ -1,0 +1,3 @@
+Por resolución exenta Nº 263, de 27 de enero de 2005, de esta Subsecretaría, autorízase a SAUL EDUARDO VEGA ZAMBRA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Avenida Guanaqueros Nº 677, Tongoy, Coquimbo, IV Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco Enfriado, Fresco Refrigerado y Congelado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de enero de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
