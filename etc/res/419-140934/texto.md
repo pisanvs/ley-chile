@@ -1,0 +1,9 @@
+CAUTORIZA A DON JOSE A. SCHAFER MATELUNA PARA INICIAR ACTIVIDADES PESQUERAS
+
+(Extracto)
+
+Por resolución No. 419, de 25 de Abril de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don José A. Schafer Mateluna, R.U.T. No. 5.144.748, domiciliado en calle Manuel Cruzat No. 2744, Comuna de Providencia, Santiago, para iniciar actividades pesqueras, en orden a operar una planta industrial en la III Región, ubicada en lote 1 y 2, Manzana No. 1, Barrio Industrial de Caldera, Calderá, Provincia de Copiapó, donde procesará en la línea de elaboración de congelado, los siguientes recursos hidrobiológicos: Albacora, Anchoveta, Apañado, Atún aleta amarilla Atún aleta larga, Azulejo, Bacalao de profundidad, Blanquillo, Bonito, Caballa, Cabinza, Cabrilla española, Cabrilla, Cachurreta, Cojinova del Norte, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Dorado, Jurel, Lenguado de ojos chicos, Lenguado de ojos grandes, Lisa, Marrajo o tiburón, Machuelo o tritre, Merluza común, Mulata o vieja negra, Palometa, Pejegallo, Pejeperro, Pejerrey de mar, Pejesapo, Róbalo, Rollizo, Roncacho, Sardina española, Sardina común, Sargo, Sierra, Tollo, Almeja o taca, Almeja, Caracol, Caracol trumulco, Chocha, Cholga, Chorito, Lapa, Loco, Macha, Navajuela, Ostión del Norte, Pulpo, Camarón nailon, Camarón de río del Norte, Gamba, Langostino amarillo, Langostino colorado, Jaiba, Picoroco, Erizo y Piure.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo con las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 25 de Abril de 1988.- Roberto Cabezas Bello Subsecretario de Pesca.
