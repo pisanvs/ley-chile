@@ -1,0 +1,5 @@
+Por decreto MOP Nº156, de 10 de marzo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº1-18 para la obra:
+
+"Sistema Norte-Sur. Tramo A: Río Maipo-Las Acacias. Sector: Km. 0.620,00 al Km. 1.400,00", Región Metropolitana, que figura a nombre de Galindo Rojas Ortiz, sin rol de avalúo, comuna de San Bernardo, superficie 317 m². La comisión de peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Francisco Javier Díaz Alvarez y Miguel Juan Fernández Cádiz, fijó con fecha 14 de enero de 2003, el valor provisional de la indemnización en la cantidad de $7.844.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
