@@ -1,0 +1,3 @@
+Por decreto MOP Nº375 de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº19, superficie 209 m2, Rol de avalúo 540-64 comuna de Linares, para la obra "Camino Ruta L-31, Sector Polvorines-La Floresta, Tramo: Km. 0,00000 a Km. 15,48000" y se acordó el valor de indemnización con su propietario Eugenio del Carmen Parada Flores, ascendente a la cantidad de $477.108.
+
+Fiscal del Ministerio de Obras Públicas.
