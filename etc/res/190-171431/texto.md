@@ -1,0 +1,5 @@
+AUTORIZA A DON JORGE EDUARDO MARDONES REYES PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 190, de 27 de Mayo de 1983, de la Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Jorge Eduardo Mardones Reyes, cédula de identidad Nº 3.074.564-7 de Santiago, domiciliado en Ancud, calle Aníbal Pinto Nº 1072, para instalar y operar un establecimiento de cultivo de algas Gracilaria en la localidad de Santa Rosa, Estero Huildad, comuna de Quellón, Chiloé, Xª Región. Las actividades que podrá realizar en el establecimiento consistirán en labores de reconocimiento y limpieza de fondo de mar, plantación, control y cosecha de la pradera artificial y secado y limpieza de la especie señalada.
+
+Santiago, 27 de Mayo de 1983.- Roberto Verdugo Gormaz, Subsecretaría de Pesca.
