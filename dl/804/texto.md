@@ -1,0 +1,1 @@
+Crea cargo de Asesor Cultural de la Junta de Gobierno.
