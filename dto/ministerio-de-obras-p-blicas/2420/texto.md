@@ -1,0 +1,5 @@
+Por decreto MOP No. 2.420, de 18 de noviembre de 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropió el lote de terreno No.
+
+4-A, para la obra Camino Quilicura Lampa, que figura a nombre de Raúl S. Galaz Peñaloza, rol de avalúo No. 117-291, comuna de Quilicura, Región Metropolitana, superficie 2.000 m2. La comisión de peritos compuesta por las señoras Nancy Sánchez Sepúlveda, Patricia V. Zavala Contreras y don Fernando Merino de la Cerda, fijó con fecha 21 de octubre de 1996, el valor provisional de la indemnización en la cantidad de $ 4.000.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
