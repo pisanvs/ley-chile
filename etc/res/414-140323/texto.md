@@ -1,0 +1,3 @@
+Por resolución Nº 414, de 12 de marzo de 1999, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Bahía Parry Sector A, individualizada en el artículo 1º del D.S. Nº 76, de 1998, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE PESCADORES ARTESANALES DE TIERRA DEL FUEGO.
+
+Valparaíso, 12 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
