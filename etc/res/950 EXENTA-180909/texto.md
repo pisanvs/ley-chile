@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIONES EXENTAS QUE INDICAN, QUE DELEGAN FACULTAD DE CITAR (ART. 63º, INCISO 2º, DEL CODIGO TRIBUTARIO) Y CONCEDER LAS PRORROGAS QUE SE SOLICITEN, EN LOS FUNCIONARIOS QUE SE SEÑALA
+
+Conforme lo dispuesto en resolución exenta Nº5.170 del 22 de noviembre de 2000, y por resoluciones exentas Nºs., 1.338, de 4.12.2000; 1.123, de 11.12.2000; 02, de 12.01.2001; 1.895, de 27.11.2000; 950, de 30.11.2000; 873, de 12.12.2000; 2.202, de 13.12.2000; 2.007, de 14.12.2000; 05, de 5.01.2001; 07, de 01.12.2000; 33, de 10.01.2001; 05, de 04.01.2001; 510, de 30.11.2000; 111, de 27.11.2000; 213, de 30.11.2000; 285 de 23.11.2000, los Directores de la I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV y XVI, Direcciones Regionales del Servicio, delegaron en los Jefes de Grupo de los Departamentos de Fiscalización, Resoluciones y Unidades, la facultad de citar a los contribuyentes conforme al art. 63º, inciso 2º, del Código Tributario, y conceder las prórrogas que se le soliciten, hasta por un mes, del plazo referido en el inciso citado.-
+
+Pilar Ruiz García, Secretaria General.
