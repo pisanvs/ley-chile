@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.768, de 28 de agosto de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº22, para la obra ''Concesión Internacional Ruta 5. Tramo: Santiago Talca. Sector E: Km. 84.300,00 al Km.
+
+92.000,00'', Sexta Región, que figura a nombre de Troncoso Moreno Juan Bautista, rol de avalúo 15-110, comuna de Olivar, superficie 373 m². La Comisión de Peritos integrada por los señores Gustavo Antonio Domínguez Errázuriz, Jaime Rolando Jürgens Bittner y Carmen Pilar Ríos Marcuello, fijó con fecha 7 de julio de 2000, el valor provisional de la indemnización en la cantidad de $3.385.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
