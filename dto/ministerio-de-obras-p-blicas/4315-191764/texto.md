@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.315 de 27 de septiembre de 2000, modificado por decreto MOP Nº1.509 de 9 de octubre de 2001, el cual a su vez, dejó sin efecto el decreto MOP Nº1.152 de 31 de julio de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº1, para la obra:
+
+''Camino: Ruta 5 Norte. Tramo: Santiago-Los Vilos. Sector: Km.10.700,00 al Km.11.100,00''; Región Metropolitana, que figura a nombre de Barzelatto Cruzat María Ester, rol de avalúo 118-296, comuna de Quilicura, superficie 3.906 m2. La comisión de peritos integrada por los señores Marly Ester Flores Altónaga, María Marcela Schmauck Oelckers y Mónica del Carmen Conejeros Rudloff, fijó con fecha 31 de enero de 2001, el valor provisional de la indemnización en la cantidad de $224.527.916.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
