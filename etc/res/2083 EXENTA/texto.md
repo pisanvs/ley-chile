@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.083 de 26 de agosto de 2003 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Punta Copiapó, III Región, individualizada en el artículo 1º, Nº 1) del DS Nº 48 de 1999, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE PESCADORES BUZOS MARISCADORES, ARTESANALES, CALETA PUERTO VIEJO.
+
+Valparaíso, 26 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
