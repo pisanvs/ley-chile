@@ -1,0 +1,3 @@
+Por decreto MOP Nº833 de fecha 30 de abril de 2002, se expropiaron los lotes de terreno Nº2, 7 y 10, superficies 490 m², 300 m² y 689 m², rol de avalúo Nº540-26, comuna de Linares, para la obra ''Camino Ruta L-31, sector Polvorines - La Floresta, Tramo Km. 0,00000 a Km. 15,48000'' y se acordó el valor de indemnización con su propietario Inmobiliaria Caleruega Sociedad Anónima, ascendente a la cantidad de $6.970.328.-
+
+Fiscal del Ministerio de Obras Públicas.
