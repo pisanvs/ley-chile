@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.045, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº79, superficie 306,00 M2, rol de avalúo 233-70, comuna de Villa Alegre, para la obra ''Camino Mejoramiento Ruta L-19, Sector Cruce Longitudinal (Villa Alegre-Esperanza), Tramo 0,00.00 a Km. 10,623.89'' y se acordó el valor de indemnización con su propietario Pedro Florentino Gerardo Herrera Camousseigt, ascendente a la cantidad de $743.400.
+
+- Fiscal del Ministerio de Obras Públicas.
