@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.077 de fecha 30 de septiembre de 2003, se expropiaron los lotes de terreno Nos 53-A y 54-A, superficie 144,0 y 224,0 m² respectivamente, Rol Nº557-225 y 557-224, comuna de Linares, VII Región para la obra "Camino Ruta L-45, Sector: Linares-Llepo, Tramo: Km. 2,750.2 a Km. 13,147" y se acordó el valor de indemnización con su propietario Francisco Alejandro Campos Cerda, ascendente a la cantidad de $2.648.878.-
+
+Fiscal del Ministerio de Obras Públicas.
