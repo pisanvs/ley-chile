@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.249 de 29 de octubre de 1999, se ordenó y aprobó el plano y cuadro de expropiación de los lotes de terreno Nºs. 2, 3, 5, 10 y 11, y por decreto MOP Nº2.900, de 30 de junio de 2000, se autorizó el valor de la consignación provisional de la expropiación por la vía judicial, en la cantidad de $1.926.520, para los lotes 2, 3, 5, 10 y 11, necesarios para la ejecución de la obra Camino Mejoramiento Ruta Q-85, Sector Mulchén - Caledonia, Tramo Km. 0.000.00 a Km. 13.507.90; el pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
