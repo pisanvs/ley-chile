@@ -1,0 +1,3 @@
+Por Resolución Nº 218, de 31 de enero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94103102, presentada por INVERTEC PESQUERA MAR DE CHILOE LTDA., para un sector ubicado en Estero Compu, Comuna de Quellón, Provincia de Chiloé, Xª Región, conforme lo dispuesto en el artículo 14º, del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 31 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
