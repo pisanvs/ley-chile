@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.786, de 30 de junio de 1999, se expropiaron los lotes de terreno Nºs. 35 y 38, superficies 1.270 y 1.330 m2. respectivamente, rol de avalúo 220-24, comuna de Yumbel, para la obra Camino Ruta 0-60, Sector Monteáguila - Yumbel y se acordó precio de indemnización con su propietario Juan González Muñoz, ascendente a la cantidad de $1.698.226.-
+
+Fiscal del Ministerio de Obras Públicas.
