@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 556, de 30 de junio de 1997, se expropiaron los lotes de terreno Nºs 9-B y 9-B1, superficies 1.026 y 260 m2., rol de avalúo 101-13, Comuna de Quilicura, para la obra Estudio de Ingeniería Habilitación Segunda Calzada Avda. A. Vespucio, Sector Carretera Panamericana Norte-Ruta 72, y se acordó precio de indemnización con su propietaria Carmen Ana Sánchez Rojas y otros, ascendente a la cantidad de $83.630.684.-
+
+Fiscal del Ministerio de Obras Públicas.
