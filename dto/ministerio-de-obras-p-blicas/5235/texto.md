@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.235, de 30 de noviembre de 2000, se expropió el lote de terreno Nº23-1, superficie 4.467 m², rol de avalúo 136-45, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietario Juan Carlos Donoso Cornejo, ascendente a la cantidad de $54.319.608.-
+
+Fiscal del Ministerio de Obras Públicas.
