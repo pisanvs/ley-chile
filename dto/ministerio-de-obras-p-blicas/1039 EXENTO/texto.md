@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.039, de 31 de julio de 2001, se expropiaron los lotes de terreno Nºs. 16 y 17, superficies 604 m² y 609 m², rol de avalúo 107-18, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 7 A2, Región Metropolitana y se acordó el valor de indemnización con su propietaria Agrícola Purén Limitada, ascendente a la cantidad total de $4.974.939.-
+
+Fiscal del Ministerio de Obras Públicas.
