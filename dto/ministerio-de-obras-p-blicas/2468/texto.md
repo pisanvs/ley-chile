@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.468 de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs 10, 11, 15, 16 y 17, superficies 27, 11, 14, 58 y 573 M2, roles de avalúo 106-40, 106-15, 2101-1, 2430-1 y 2430-55, comuna de Valdivia, para la obra Mejoramiento Ruta 5 Sur Camino Longitudinal Sur, Sector Avenida Ramón Picarte y se acordó precio de indemnización con sus propietarios Filomena del Carmen Marcos Cano, Rolando Humberto Rail Silva, María Erminda Alvarado Muñoz, Guillermo Sánchez Velásquez y Lidia Antonia Alvarez Pinto, ascendentes a las cantidades de $631.150 el lote Nº 10; $439.502 el lote Nº 11; $413.888 el lote Nº 15; $1.115.863 el lote Nº 16 y $13.051.851 el lote Nº 17.
+
+Fiscal del Ministerio de Obras Públicas.
