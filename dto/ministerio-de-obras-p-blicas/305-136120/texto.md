@@ -1,0 +1,3 @@
+Por Decreto MOP No. 305, de 26 de febrero de 1999, se expropió el lote de terreno No. 22, superficie 1.701,3 M2., rol de avalúo 215-199, comuna de T. Schmidt, obra Camino Costero Sur, sector Tranapuente Puerto Saavedra-Porma, Tramo Chelle-Hualpín-Puente Peule y se acordó precio de indemnización con su propietario Julio Blanco Curihuinca, ascendente a la cantidad de $ 948.226.-
+
+Fiscal del Ministerio de Obras Públicas.
