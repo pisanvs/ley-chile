@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.369, de 31 de agosto de 1998, se expropiaron los lotes de terreno No.s. 3, 5 y 7, superficies 15.905,10; 2.251,20 y 327 m²., respectivamente, rol de avalúo 102-3, comuna de Futaleufú, obra Mejoramiento Agua Potable de Futaleufú y se acordó precio de indemnización con su propietaria Ilda Sepúlveda Valenzuela, ascendente a la cantidad de $ 6.981.878.-
+
+Fiscal del Ministerio de Obras Públicas.
