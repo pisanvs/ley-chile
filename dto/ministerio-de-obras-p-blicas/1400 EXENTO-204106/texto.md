@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.400, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº3, superficie 2.825,28 m2, rol de avalúo 203-5, comuna de Toltén, IX Región, para la obra ''Mejoramiento Rutas S-60 y S-70, Sector Hualpin Toltén, Tramo Km.68,15530 al 71,46676'' y se acordó el valor de indemnización con su propietaria doña Gladis Norma Bustamante Pineda o Gladys Norma Bustamante Pineda, ascendente a la cantidad de $2.846.959.-
+
+Fiscal del Ministerio de Obras Públicas.
