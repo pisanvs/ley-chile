@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 227, de 30 de Septiembre de 1991, se expropiaron los lotes Nºs. 2 y 3, superficies 296 M2., y 2.387 M2, respectivamente, rol de avalúo 2087-95, Comuna de Melipilla, para la obra Camino Autopista Santiago-San Antonio, sector Melipilla Puangue y se acordó precio de indemnización con su propietario Rafael Prieto Moreno, ascendente a la suma de $ 2.457.930.-
+
+Fiscal del Ministerio de Obras Públicas.
