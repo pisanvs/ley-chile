@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.019, de 30 de julio de 1998, se expropiaron los lotes de terreno No. s.17-A y 18-A, superficies 6.201 m² y 351 m², roles de avalúos 29-158 y 29-031, comuna de San Pedro, obra Camino Ruta 66, sector Crucero Las Arañas Límite V Región y se acordó precio de indemnización con sus propietarios Adriana y María Eugenia Lecaros Mackenna, ascendente a las cantidades de $ 17.621.528, y $ 789.188.-
+
+Fiscal del Ministerio de Obras Públicas.
