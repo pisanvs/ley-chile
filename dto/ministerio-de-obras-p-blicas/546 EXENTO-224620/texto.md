@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 546 de fecha 31 de marzo de 2004, se expropió el lote de terreno Nº 5, superficie 68 m², rol de avalúo Nº 434-57, comuna de Gorbea, para la obra "Reposición Construcción y Habilitación de Caminos para Vialidad Complementaria Concesión Internacional Ruta 5 Sur, Tramo Temuco Río Bueno Puerto Montt, Camino El Liuco", IX Región y se acordó el valor de la indemnización con su propietaria Mercedes Medina Salgado, ascendente a la cantidad de $893.812.
+
+Fiscal del Ministerio de Obras Públicas.
