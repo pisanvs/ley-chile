@@ -7434,19 +7434,21 @@ En cumplimiento de las disposiciones contenidas en el artículo 6° de la Ley N�
 
 Dichas tasas de interés corresponden a los siguientes tipos de operaciones:
 
-a) Créditos no reajustables en moneda chilena pactados a plazos no superiores a 89 días.
+a) Créditos no reajustables en moneda chilena pactados a plazos no superiores a 89 días, que exceden el equivalente de 5.000 unidades de fomento.
 
-b) Créditos no reajustables en moneda chilena pactados a 90 días o más, superiores al equivalente de 5.000 unidades de fomento.
+b) Créditos no reajustables en moneda chilena pactados a plazos no superiores a 89 días, inferiores o iguales al equivalente de 5.000 unidades de fomento.
 
-c) Créditos no reajustables en moneda chilena pactados a 90 días o más, inferiores o iguales al equivalente de 5.000 y superiores al equivalente de 100 unidades de fomento.
+c) Créditos no reajustables en moneda chilena pactados a 90 días o más, superiores al equivalente de 5.000 unidades de fomento.
 
-d) Créditos no reajustables en moneda chilena pactados a 90 días o más, inferiores o iguales al equivalente de 200 unidades de fomento.
+d) Créditos no reajustables en moneda chilena pactados a 90 días o más, inferiores o iguales al equivalente de 5.000 y superiores al equivalente de 200 unidades de fomento.
 
-e) Créditos reajustables en moneda chilena.
+e) Créditos no reajustables en moneda chilena pactados a 90 días o más, inferiores o iguales al equivalente de 200 unidades de fomento.
 
-f) Créditos en dólares de EE.UU. de América o expresados en moneda extranjera.
+f) Créditos reajustables en moneda chilena.
 
-Los montos en unidades de fomento señalados en las letras b), c) y d), se refieren al importe inicial del crédito, calculado de acuerdo con el valor de la unidad de fomento a la fecha de la convención.
+g) Créditos en dólares de EE.UU. de América o expresados en moneda extranjera.
+
+Los montos en unidades de fomento señalados en estos literales, se refieren al importe inicial del crédito, calculado de acuerdo con el valor de la unidad de fomento a la fecha de la convención.
 
 6.2.- Tasa máxima que se puede pactar en las operaciones.
 
@@ -7476,7 +7478,7 @@ Por último, viene al caso recordar que si no se pacta tasa alguna para el perí
 
 6.2.3.- Aplicación de las tasas para operaciones en moneda chilena no reajustable.
 
-Para establecer cuál es la tasa de interés máximo convencional que rige para las operaciones en moneda chilena no reajustable, de acuerdo con su plazo y monto según lo indicado en las letras a), b), c) y d) del numeral 6.1, deberán seguirse las siguientes reglas:
+Para establecer cuál es la tasa de interés máximo convencional que rige para las operaciones en moneda chilena no reajustable, de acuerdo con su plazo y monto según lo indicado en el numeral 6.1, deberán seguirse las siguientes reglas:
 
 a) Operaciones sin plazo de vencimiento.
 
@@ -7484,13 +7486,7 @@ Al tratarse de pagarés a la vista u otras operaciones sin plazo de vencimiento,
 
 b) Operaciones con vencimientos hasta 89 días y a 90 días o más.
 
-Cuando se pacte una operación de crédito de dinero en moneda chilena no reajustable, pagadero en su totalidad dentro de los 89 días siguientes a la operación, la tasa de interés no podrá exceder de la tasa máxima vigente para las operaciones a menos de 90 días, sin perjuicio de lo señalado en la letra
-
-- **c)** siguiente. Del mismo modo, cuando la totalidad del capital deba pagarse a 90 días o más, la tasa queda limitada por el interés máximo convencional fijado en relación con el monto de la operación, según lo indicado en las letras b),
-
-- **c)** y
-
-- **d)** del numeral 6.1.
+Cuando se pacte una operación de crédito de dinero en moneda chilena no reajustable, pagadero en su totalidad dentro de los 89 días siguientes a la operación, la tasa de interés no podrá exceder de la correspondiente tasa máxima vigente para las operaciones a menos de 90 días, sin perjuicio de lo señalado en la letra c) siguiente. Del mismo modo, cuando la totalidad del capital deba pagarse a 90 días o más, la tasa queda limitada por el respectivo interés máximo convencional fijado para ese plazo.
 
 En el caso de operaciones pagaderas en cuotas, en las que una o más de ellas venzan dentro de los primeros 89 días de vigencia del crédito y otras después de ese plazo, se deberá calcular el plazo promedio ponderado del total del crédito, a fin de determinar si la tasa cobrada debe enmarcarse dentro del interés máximo convencional referido a operaciones hasta 89 días, o bien dentro del límite respectivo para operaciones a 90 días o más.
 
