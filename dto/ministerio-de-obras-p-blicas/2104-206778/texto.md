@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.104 de 31 de octubre del 2002, se expropiaron los lotes de terreno Nºs 15 y 17, superficies 10.129 y 55.204 m2., rol de Avalúo 103-24, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso Viña del Mar Tramo 6C1: Km. 38.620,00 al 41.853,56, Región Metropolitana y se acordó el valor de indemnización con su propietario Luis Emilio Saavedra Sánchez y Otros ascendente a la cantidad de $538.851.257.-
+
+Fiscal del Ministerio de Obras Públicas.
