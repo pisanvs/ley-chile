@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.640, de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº31-A, superficie 104 m2, rol de avalúo 2213-376, comuna de Chillán, VIII Región, para la obra ''Camino Ruta N-45, Sector Cruce N-49 (Chillán) - La Capilla - Tres Esquinas, Km. 0,00000 al 5,88000'' y se acordó el valor de indemnización con su propietario don Rogelio Fernando Lagos Martínez, ascendente a la cantidad de $319.800.-
+
+Fiscal del Ministerio de Obras Públicas.
