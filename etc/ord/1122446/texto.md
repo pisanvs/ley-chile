@@ -1,0 +1,7 @@
+Obras públicas i contratos durante el Gobierno realista
+
+El Director Supremo del Estado de Chile:
+
+Ordeno que todo individuo, i artesano sea de la clase i calidad i ejercicio que fuere, se presente a este mi Palacio, i dé razon prolija al secretario de la guerra, don José Ignacio Zenteno, de todas i cualesquiera comisiones que haya tenido pertenecientes a las obras públicas que se trabajan en esta capital, tanto de vestuarios, forraje i monturas, como cualesquiera otras contratas celebradas con el antiguo Gobierno: ya fuesen para proveer de materiales o de otras cualesquiera especies indistintamente; con advertencia que en este mandato están comprendidos los artesanos i sus menestrales a quienes encarga el Gobierno le den parte de cuanto sepan sobre el particular; i el que contravenga a este bando será castigado con la confiscacion de sus bienes, i diez años de presidio. Deberán concurrir desde el momento en que se publique esta órden, i el que demorare mas de ocho dias en dar las noticias que se exijen, siendo descubierto, será escarmentado con la pena arriba designada. Fíjese después de publicado.-
+
+Santiago, 22 de Febrero de 1817.- Bernardo O'Higgins.- José Ignacio Zenteno, secretario.
