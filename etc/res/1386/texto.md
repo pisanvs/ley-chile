@@ -1,0 +1,5 @@
+Por Resolución N° 1.386, de 31 de Diciembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA MONTEMAR NORTE S.A., R.U.T. N° 96.591.490-5 domiciliada en la ciudad de Viña del Mar, Avenida Libertad N° 800, para ampliar actividades pesqueras que tiene autorizadas por Resolución N° 248 y N° 505, ambas de 1986, N° 1.063, de 1987, N° 525 y N° 1.215, ambas de 1992, todas de esta Subsecretaría, en orden a ampliar las actividades de pesca extractiva que tiene autorizadas con la nave "Monte Brújula", por las resoluciones señaladas, precedentemente en el área de pesca entre la I a X Regiones, donde podrá extraer los siguientes recursos hidrobiológicos, con poteras; Jibia y Calamar.
+
+La presente autorización es sin perjuicio de las que correspondan conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 31 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
