@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.730, de 30 de junio de 2000, se expropió el lote de terreno Nº83-3, superficie 1.866,0 m2., rol de avalúo 250-161, comuna de Lautaro, para la obra Concesión Internacional Ruta 5. Tramo Collipulli - Temuco, Novena Región y se acordó el valor de indemnización con sus propietarios Erna Oriana Bachler Maturana y otros, ascendente a la cantidad de $6.355.753.-
+
+Fiscal del Ministerio de Obras Públicas.
