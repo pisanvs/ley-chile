@@ -1,0 +1,3 @@
+Por resolución No. 2, de 16 de Julio de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la XII Región, se autoriza a Darío Gómez Hernández, para efectuar las revisiones técnicas de los vehículos de transporte de personas de más de nueve (9) asientos, incluido el del conductor; de vehículos motorizados de carga con capacidad para transportar más de 1.750 kilos, sus remolques y semirremolques y los taxis, en el establecimiento ubicado en calle Blanco Encalada No. 679, de la ciudad de Puerto Natales.-
+
+José Urbano Peralta, Secretario Regional Ministerial de Transportes y Telecomunicaciones XII Región.
