@@ -1,0 +1,1 @@
+Autoriza la importación y libera de derechos de internación y toda otra contribución a las especies que señala, destinadas a la Sociedad "Radio Taxi 33 Ltda." de Santiago.
