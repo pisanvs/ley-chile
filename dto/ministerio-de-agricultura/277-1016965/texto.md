@@ -6,23 +6,25 @@ Núm. 277.- Vistos: El DFL. N° 294, de 5 de Abril de 1960, orgánico del Minist
 
 Decreto:
 
-#### Artículo 1°
-
-Créase, en el carácter de Asesora del Supremo Gobierno, la Comisión Nacional de Pesticidas, la que estará integrada por las siguientes personas, quienes desempeñarán sus cargos en calidad de ad honorem:
+Artículo l.o- Créase, en el carácter de Asesora del Supremo Gobierno, la Comisión Nacional de Pesticidas, la que estará integrada por las siguientes personas, quienes desempeñarán sus cargos en calidad de ad-honorem;
 
 a) Un Ingeniero Agrónomo, representante del Ministerio de Agricultura, designado por el Ministro de dicha Secretaría de Estado, quien la presidirá;
 
-b) El Director Ejecutivo del Servicio Agrícola y Ganadero, o un Ingeniero Agrónomo que él mismo designe para que lo represente;
+b) El Director Ejecutivo del Servicio Agrícola y Ganadero o un Ingeniero Agrónomo que él mismo designe para que lo represente;
 
-c) Un representante del Colegio de Ingenieros Agrónomos;
+c) Un representante del Colegio de Ingenieros Agrónomos, quien se desempeñará como Secretario Ejecutivo de la Comisión;
 
 d) Un Ingeniero Agrónomo, representante del Banco Central de Chile, designado por su Vicepresidente;
 
-e) Un Ingeniero Comercial del Servicio Agrícola y Ganadero, designado por el Jefe Superior del Servicio, quien se desempeñará como Secretario Ejecutivo de la Comisión;
+e) Un Ingeniero Agrónomo Economista, designado por el Servicio Agrícola y Ganadero o un Ingeniero Comercial designado por el mismo Servicio;
 
-f) Un Ingeniero Comercial del Ministerio de Economía. Fomento y Reconstrucción, designado por el Ministro de esa Secretaría de Estado;
+f) Un Ingeniero Comercial del Ministerio de Economía, Fomento y Reconstrucción, designado por el Ministro de esa Secretaría de Estado;
 
-g) Un Ingeniero Agrónomo o un Químico Especialista en Pesticidas del Servicio Agrícola y Ganadero, designado por su Director Ejecutivo.
+g) Un Médico Especialista del Servicio Nacional de Salud, designado por el Ministro de Salubridad;
+
+g) Un Médico Veterinario representante del Colegio de Médicos Veterinarios; e
+
+i) Un profesional universitario de la Corporación de Fomento, designado por el Ministro de Economía, Fomento y Reconstrucción.
 
 #### Artículo 2°
 
@@ -50,13 +52,19 @@ g)Estudiar y recomendar la adquisición de pesticidas por medio de convenios o p
 
 h) Estudiar y recomendar una adecuada asistencia técnica en pesticidas que deban proporcionar las empresas que comercialicen estos insumos.
 
-Para los acuerdos qua adopte la Comisión Nacional de Pesticidas en relación a las letras b), e) y g), se requerirá el voto favorable de los representantes del Ministerio de Agricultura y del Servicio Agrícola y Ganadero. En las demás materias, los acuerdos se adoptarán por simple mayoría de los miembros presentes.
+Para los acuerdos que adopte la Comisión Nacional de Pesticidas, en relación a las letras b),
+
+- **e)** y g), se requerirá el voto favorable de los miembros de la Comisión designados en las letras
+
+- **a)** y
+
+- **b)** del artículo l.o. En las demás materias, los acuerdos se adoptarán por simple mayoría de los miembros presentes.
 
 Los acuerdos a que se refieren las letras b), e) y g), serán remitidos al Ministerio de Agricultura, como recomendación, para los efectos de lo que dispone el artículo 188°, inciso 29, de la ley N° 16.640, y de lo que preceptúa el artículo 2° de la ley número 15.703.
 
 #### Artículo 4°
 
-La Comisión Nacional de Pesticidas sesionará en forma ordinaria, con la periodicidad que la propia Comisión acuerde, no pudiendo hacerlo menos de dos veces en cada mes. Extraordinariamente, la Comisión podrá reunirse las veces que sea necesario, previa citación del presidente de la misma.
+La Comisión Nacional de Pesticidas sesionará en forma ordinaria, con la periodicidad que la propia Comisión acuerde, no pudiendo hacerlo menos de dos veces en cada mes. Extraordinariamente, la Comisión podrá reunirse las veces que sea necesario, previa citación del presidente de la misma. El quórum mínimo para tomar acuerdos será de 5 miembros.
 
 #### Artículo 5°
 
