@@ -1,0 +1,5 @@
+Por decreto M.O.P. No. 213, de 05 de Agosto de 1985, se expropió el lote de terreno No. 2, para Agua Potable de Puerto Aysén, Recinto Captación Río Arredondo, que figura a nombre de doña Carmen Cárdenas Bórquez, rol de avalúo 1003-9, superficie 1.926 m2., comuna de Puerto Aysén. Deslindes Norte, en 115 metros con resto del predio afectado con la apropiación; Sur, en 115 metros con Río Arredondo; Oriente, en 27 metros con resto del predio afectado con la expropiación y Poniente, en 31,50 metros con resto del predio afectado con la expropiación. La Comisión de Peritos compuesta por los señores Eduardo G ndara Welch, Feddy Holmberg Barrientos y Germán Wulf Andrade, fijó con fecha 16 de Enero de 1985, el valor provisional de la indemnización en la cantidad de $ 38.520. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley No.
+
+2.188, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas. (16)
