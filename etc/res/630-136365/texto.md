@@ -1,0 +1,3 @@
+Por resolución Nº 630, de 22 de abril de 1999, de esta Subsecretaría, prorrógase por el término de un año contado desde el 28 de abril de 1999, el plazo otorgado a PESQUERA ARTESANAL GALLEGO HERMANOS LIMITADA, para iniciar actividades pesqueras de transformación, autorizadas por resolución Nº 415 de 1998, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 22 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
