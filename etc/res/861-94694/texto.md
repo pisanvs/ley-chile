@@ -1,0 +1,7 @@
+AUTORIZA A DON JUAN REINALDO ASENCIO GOMEZ, PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 861, de 24 de Julio de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Juan Reinaldo Asencio Gómez, R.U.T. No. 8.738.610-4, domiciliado en Pasaje 1 Villa Maullín, Comuna de Maullín X Región, para iniciar actividades pesqueras, en orden a instalar y operar un establecimiento de cultivo del recurso Alga del género Gracilaria, en Río Cariquilda, Comuna de Maullín, X Región, en un área de 12.500 m2. Las coordenadas geográficas son las siguientes de acuerdo con el Plano que acompaña a su solicitud signado por el Servicio Nacional de Pesca con el Ordinal No. 1527 y la Carta del Instituto Hidrográfico de la Armada No. 702:
+
+Vértice: A Latitud: 41° 37' 28,35" S Longitud: 73° 35' 30,00" W Vértice: B Latitud: 41° 37' 29,99" S Longitud: 73° 35' 30,00" W Vértice: C Latitud: 41° 37' 29,99" S Longitud: 73° 35' 42,00" W Vértice: D Latitud: 41° 37' 28,35" S Longitud: 73° 35' 42,00" W El alga será adquirida de centros de cultivos autorizados o praderas naturales de acuerdo, a la legislación vigente. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 24 de Julio de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
