@@ -1,0 +1,3 @@
+Por decreto MOP Nº 870 de fecha 30 de septiembre de 2004, se expropiaron los lotes de terrenos Nº s.22, 24, 25, 27, 29 y 30, superficies 105, 1.800, 1.373, 849, 5.155 y 22.080 m2 respectivamente, Rol Nº 63-20, comuna de Lonquimay, IX Región para la obra "Camino Malalcahuello-Paso Pino Hachado Rutas R-891, R-89, Sector Liucura-Paso Pino Hachado, Km.158,54000 al 179,59862, Tramo II Km.164,75450 al Km.179,59862" y se acordó el valor de indemnización con su propietario Carlos Eleuterio Méndez Albornoz y Otros, ascendente a la cantidad de $6.994.225.
+
+- Fiscal del Ministerio de Obras Públicas.
