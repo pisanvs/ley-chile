@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.175, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº 94, superficie 6.223 M2, rol de avalúo 33-121, comuna de Pichidegua, VI Región, para la obra ''Camino Conexión Vial Pichidegua-Las Cabras, Sector San Roberto-El Toco-Ruta 66, Tramo Km. 12,70000 al 18,19349'' y se acordó el valor de indemnización con su propietario Patricio Robinson Miranda Vera, ascendente a la cantidad de $13.448.347.-
+
+Fiscal del Ministerio de Obras Públicas.
