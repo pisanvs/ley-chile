@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 204, de 30 de Julio de 1992, se expropiaron los lotes de terreno Nos 1 y 3, superficies 6.308 m2. y 12.930 m2., rol de avalúo 610-7, Comuna de Tomé, para la obra Camino Coelemu Rafael Tomé, sector 3, Tramo Variante Rafael y se acordó el valor de indemnización con su propietaria Compañía Forestal Chile S.A., ascendente a la cantidad de $ 9.384.589.
+
+Fiscal del Ministerio de Obras Públicas.
