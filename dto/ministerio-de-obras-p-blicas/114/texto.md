@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 114, de fecha 31 de Marzo de 1994, se expropiaron los lotes de terrenos N°s. 2, 4 y 1, superficies 1.458 M2., 1.938 M2. y 333 M2., respectivamente, roles de avalúos 123-16 y 123-19, comuna de Pencahue, para lo obra Canales Las Doscientas Norte y del Tranque, Derivado 2, por el cual se fijó precio de indemnización con sus propietarios Julio Abaca Abaca y Jaime Castro Castro, ascendente a las cantidades de $126.797 y $ 76.895.-
+
+Fiscal del Ministerio de Obras Públicas
