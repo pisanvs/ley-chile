@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.331, de 29 de octubre de 1999, se expropió el lote de terreno Nº 125, superficie 105 m2., rol de avalúo 136-594, comuna de Paine, para la obra Concesión Internacional Ruta 5; Tramo: Santiago - Talca. Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietario Roberto Antonio Soto Castro, ascendente a la cantidad de $1.176.329.-
+
+Fiscal del Ministerio de Obras Públicas.
