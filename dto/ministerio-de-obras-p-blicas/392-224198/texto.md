@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°392, de 31 de mayo de 1996, se expropiaron los lotes de terreno N°s. l8-B, 19-A, l9-B, 19-C y 24, superficies 700 m2, 158 m2, 940 m2, 920 m2 y 143 m2, respectivamente, roles de avalúos en trámite y 26-10, comuna de Lolol, para la obra Camino Santa Cruz-Lolol, sector Puente Naval 1 y se acordó precio de indemnización con sus propietarios Fermín Allendes Herrera, María Emilia Ihnen Curtze y Armando Zúñiga Gaete, ascendente a las cantidades de $7.886.862, $2.159.012 y $542.754.
+
+Fiscal del Ministerio de Obras Públicas.
