@@ -1,0 +1,379 @@
+REGIONALIZACION DEL PAIS
+
+Núm. 575.- Santiago, 10 de Julio de 1974.- Visto: lo dispuesto en los decretos leyes N°s 1 y 128, de 1973, y 527 y 573, de 1974,
+
+La Junta de Gobierno de la República de Chile ha resuelto dictar el siguiente
+
+Decreto ley:
+
+## Título I
+
+División Regional
+
+#### Artículo 1°
+
+Para el Gobierno y la Administración del Estado, el territorio de la República se dividirá en las siguientes regiones, con las ciudades capitales que se indican:
+
+I Región, capital Iquique
+
+Comprende la actual I Región y el sector correspondiente, en general, al distrito minero ubicado en el norponiente del distrito 3 Collaguasi, de la actual comuna de Calama, del departamento de El Loa.
+
+II Región. Capital Antofagasta. Comprende la actual II Región excluyendo, en general, el distrito minero ubicado al norponiente del distrito 3 Collaguasi, de la actual comuna de Calama, del departamento de El Loa.
+
+III Región. Capital Copiapó. Comprende la actual III Región y el área denominada sector minero Los Cristales, ubicada en la parte norte de la actual comuna de La Higuera del departamento de La Serena.
+
+IV Región. Capital La Serena. Comprende la actual IV Región, excluida el área denominada sector minero Los Cristales, ubicada en la parte norte de la actual comuna de La Higuera del departamento de La Serena.
+
+V Región. Capital Valparaíso. Comprende la actual V Región, excluida el área ubicada al sur del estero Yali y que se identifica con la comuna de Navidad y el distrito 3 Yali de la actual comuna de Santo Domingo del departamento de San Antonio.
+
+VI Región. Capital Rancagua. Comprende la actual VI Región a la cual se le incluyen los siguientes territorios:
+
+a) El área ubicada al Sur del estero Yali y que se identifica con la actual comuna de Navidad y distrito 3 Yali, de la actual comuna de Santo Domingo, del departamento de San Antonio, y
+
+b) Las actuales comunas de San Pedro y Alhué del departamento de Melipilla.
+
+VII Región, capital Talca. Comprende las actuales provincias de Curicó, Talca, Maule y Linares.
+
+VIII Región, capital Concepción VIII Región. Capital Concepción. Comprende la actual VIII Región y el distrito 12 Tirúa Sur, de la actual comuna de Saavedra, del departamento de Imperial, y el sector correspondiente a la hoya del río Chaquilvín, ubicado al norte del distrito 2 Contraco, de la actual comuna de Lonquimay, del departamento de Curacautín.
+
+IX Región. Capital Temuco. Comprende la actual IX Región a la cual se le incluye la ribera Norte del lago Calafquén que se identifica con el distrito 4 Licán y parte Norponiente del distrito 5 Coñaripe de la actual comuna y departamento de Panguipulli.
+
+X Región. Capital Puerto Montt. Comprende la actual X Región excluida la ribera Norte del lago Calafquén, que se identifica con el distrito 4 Licán y parte Norponiente del distrito 5 Coñaripe de la actual comuna y departamento de Panguipulli.
+
+XI Región Aisén del General Carlos Ibáñez del Campo. Capital Coyhaique. Comprende la actual XI Región; el distrito 7 Guaitecas, de la actual comuna de Quellón, del departamento de Castro, excepto la Isla Guafo, y los sectores que en general vierten sus aguas a la Rada Palena, de los distritos 1 Corcovado y 2 Tic Toc, de la actual comuna de Corcovado, del departamento de Palena.
+
+XII Región, capital Punta Arenas Comprende la actual provincia de Magallanes y el Territorio Antártico Chileno.
+
+Existirá, además, una Región Metropolitana. Comprende la actual Región Metropolitana, excluidas las actuales comunas de San Pedro y Alhué, del departamento de Melipilla.
+
+> **Nota.** NOTA 1: El Decreto Ley 2339, publicado el 10.10.1978, dispuso la denominación que indica a las distintas regiones del país.
+
+> **Nota.** NOTA 2: El artículo 10 del Decreto Ley 1230, publicado el 04.11.1975, establece que las regiones no incorporadas al régimen previsto en los Decretos Leyes 573 y 575, de 1974, quedarán incluidas en él a contar del 1° de Enero de 1976.
+
+> **Nota.** NOTA 3 La Ley 20174, publicada el 05.04.2007, crea la XIV Región de Los Ríos, capital Valdivia y comprende las Provincias de Valdivia y la del Ranco.
+
+> **Nota.** NOTA 4 La Ley 20175, publicada el 11.04.2007, crea XV Región de Arica y Parinacota, capital Arica y comprende las actuales provincias de Arica y de Parinacota, de la Región de Tarapacá.
+
+## Título II
+
+Gobierno y Administración Regionales
+
+### Párrafo 1° — Intendentes Regionales
+
+#### Artículo 2°
+
+El Gobierno y la Administración superiores de cada región residen en un Intendente Regional. Su nombramiento corresponderá al Poder Ejecutivo, de quien será su agente natural e inmediato en el territorio de su jurisdicción. Permanecerá en su cargo mientras cuente con la confianza de éste.
+
+#### Artículo 3°
+
+Para ser nombrado Intendente Regional se requiere ser chileno, tener a lo menos 21 años de edad y reunir los requisitos que el Estatuto Administrativo exija para el ingreso a la Administración Pública.
+
+#### Artículo 4°
+
+El Intendente Regional tendrá la superior iniciativa y responsabilidad en la ejecución y coordinación de todas las políticas, planes, programas y proyectos de desarrollo de la respectiva región.
+
+#### Artículo 5°
+
+Al Intendente Regional le corresponderá:
+
+1) Dirigir las tareas propias del Gobierno Interior de acuerdo con las instrucciones que le impartan el Poder Ejecutivo a través del Ministro del Interior, o éste directamente.
+
+2) Resolver respecto de los proyectos de políticas, planes de desarrollo y presupuesto regional, oyendo al Consejo Regional de Desarrollo.
+
+3) Fijar las prioridades de los proyectos y programas regionales.
+
+4) Elevar en su oportunidad los proyectos de políticas, planes de desarrollo y presupuesto regional al Supremo Gobierno para su aprobación o modificación, a fin de hacerlos compatibles con las políticas, planes y presupuestos nacionales.
+
+5) Coordinar y regular la forma en que deben actuar los servicios de la Administración del Estado, de carácter civil, para la debida ejecución, por su intermedio, de las políticas, planes y proyectos a que se refiere el artículo 5° del decreto ley N° 573, de 1974. Para estos efectos, quedarán subordinados al Intendente Regional los jefes de servicios existentes en la región, sin perjuicio de las facultades propias, de carácter técnico, que correspondan a los jefes superiores de los servicios a que pertenezcan. Igual norma se aplicará a los de otras instituciones del Estado.
+
+En el ejercicio de estas facultades, podrá disponer comisiones de servicios y destinaciones de cualquier funcionario público en el territorio de su jurisdicción. Asimismo podrá formar comités coordinadores de la Administración del Estado regionales, integrados por los Secretarios Regionales Ministeriales.
+
+6) Crear comisiones regionales sectoriales e intersectoriales para hacer estudios o preparar recomendaciones específicas.
+
+7) Ejercer la supervigilancia y fiscalización de todos los servicios de la Administración del Estado, de carácter civil, y de los servicios de utilidad pública de la región, a fin de cautelar la legalidad de sus actuaciones y su funcionamiento regular, contínuo y eficiente y, asimismo, supervigilar y fiscalizar todas las obras que dichas entidades ejecuten, directamente o a través de terceros.
+
+8) Dictar los reglamentos, resoluciones e instrucciones que estime necesarios en el ejercicio de sus atribuciones.
+
+9) Fomentar la actividad privada, orientarla hacia el desarrollo regional y procurar su coordinación con la actividad estatal.
+
+10) Girar y disponer de las sumas que contemple anualmente el Presupuesto de la Región, en conformidad con las normas que rijan la materia, y
+
+11) Representar extrajudicialmente al Estado en la respectiva región, en la realización de los actos y celebración de los contratos que sean necesarios para el desarrollo de la misma, con cargo al Presupuesto Regional, pudiendo delegar esta representación en los jefes de servicios, según la naturaleza de la materia de que se trate.
+
+Las atribuciones que este artículo confiere a los Intendentes Regionales sobre los servicios públicos no serán aplicables respecto de la Contraloría General de la República.
+
+> **Nota.** El artículo final de la LEY 18605 dispuso la derogación de este numerando en lo que dice relación con los Consejos Regionales de Desarrollo.
+
+#### Artículo 6
+
+La organización administrativa de la Intendencia y de los demás organismos regionales previstos en este texto legal, será establecida por decreto reglamentario, a proposición del respectivo Intendente, y previo informe de la Comisión Nacional de la Reforma Administrativa.
+
+### Párrafo 2 — .- Consejos Regionales de Desarrollo
+
+#### Artículo 7
+
+DEROGADO
+
+#### Artículo 8
+
+DEROGADO
+
+#### Artículo 9
+
+DEROGADO
+
+#### Artículo 10
+
+DEROGADO
+
+#### Artículo 11
+
+DEROGADO
+
+### Párrafo 3° — Secretaría Regional de Planificación y Coordinación
+
+#### Artículo 12
+
+DEROGADO
+
+#### Artículo 13
+
+DEROGADO
+
+### Párrafo 4° — Secretarías Regionales Ministeriales
+
+#### Artículo 14
+
+Los Ministerios se desconcentrarán territorialmente mediante Secretarías Regionales Ministeriales, de acuerdo con las instrucciones que imparta el Poder Ejecutivo, con excepción de los Ministerios del Interior, de Defensa Nacional y de Relaciones Exteriores, y los demás que determine el Poder Ejecutivo.
+
+#### Artículo 15
+
+Las Secretarías Regionales Ministeriales estarán a cargo de un Secretario Regional Ministerial, que será el representante del respectivo Ministerio en la región, actuará como colaborador directo del Intendente Regional, al que estará subordinado para los efectos previstos en el artículo 4°. Su nombramiento y remoción corresponderán al Ministerio del cual dependan, oyendo a los Intendentes Regionales.
+
+#### Artículo 16
+
+A los Secretarios Regionales Ministeriales corresponderá:
+
+1) Ejecutar las políticas regionales y coordinar la labor de los servicios de su sector de acuerdo con las instrucciones del Intendente Regional y con las normas técnicas de los respectivos Ministerios;
+
+2) Presidir las Comisiones Sectoriales de su sector;
+
+3) Estudiar con los respectivos Directores Regionales de los servicios o jefes de las instituciones los planes de desarrollo del sector;
+
+4) Preparar con los Directores Regionales y demás jefaturas el anteproyecto de presupuesto y balance anual del sector, que serán remitidos a la Secretaría Regional de Planificación y Coordinación;
+
+5) Proponer oportunamente al Intendente Regional el programa anual de trabajo del sector respectivo, y mantenerlo informado sobre su cumplimiento;
+
+6) Desempeñar las funciones que contemplen las leyes y reglamentos orgánicos de los respectivos Ministerios, y
+
+7) Cumplir los cometidos que les encomienden los Ministerios en relación con los planes y programas de carácter nacional o interregional, manteniendo permanentemente informado al Intendente Regional.
+
+#### Artículo 17
+
+El Ministerio respectivo podrá determinar que el Secretario Regional Ministerial sea, simultáneamente, director o jefe regional de un servicio, cuando su sector esté constituido por un escaso número de servicios o instituciones.
+
+### Párrafo 5° — Direcciones Regionales de los Servicios Públicos y entidades del Estado.
+
+#### Artículo 18
+
+Los servicios públicos se desconcentrarán territorialmente mediante Direcciones Regionales, de acuerdo con las instrucciones que imparta el Poder Ejecutivo, salvo los casos de excepción que este último determine. Igual norma se aplicará a otras entidades del Estado.
+
+Habrá oficinas regionales de la Contraloría General de la República, con amplias facultades para ejercer las tareas de fiscalización que le competen a dicho organismo, bajo la dirección y coordinación del Contralor General de la República.
+
+#### Artículo 19
+
+Los directores regionales de los servicios públicos serán nombrados, destinados y removidos por la autoridad competente, oyendo al Intendente Regional.
+
+Los directores regionales se relacionarán con el Intendente Regional a través del respectivo Secretario Regional Ministerial.
+
+#### Artículo 20
+
+Corresponderá a los directores regionales:
+
+1) Aplicar las políticas que en relación con sus respectivos servicios determine el Intendente Regional, en la esfera propia de la competencia de éste;
+
+2) Asesorar técnicamente al Secretario Regional Ministerial y colaborar con éste en la coordinación de las instituciones relacionadas con el sector;
+
+3) Informar al respectivo Secretario Regional Ministerial de su sector del cumplimiento de los planes y programas regionales de su servicio;
+
+4) Recopilar, procesar y entregar a la Secretaría Regional de Planificación y Coordinación las informaciones que reuna y requerir de esta Secretaría las que le sean solicitadas por las autoridades regionales;
+
+5) Disponer los cometidos que deban realizar los funcionarios y delegar cuando fuere necesario las atribuciones que hagan posible su cumplimiento dentro del territorio regional;
+
+6) Disponer las comisiones de servicios, con consulta al Secretario Regional y Ministerial respectivo, y
+
+7) Realizar los actos y celebrar los contratos que sean necesarios para el cumplimiento de las tareas propias de sus respectivos servicios, de acuerdo con las facultades que les confieran los Intendentes Regionales o los jefes superiores respectivos.
+
+Sin perjuicio de lo anterior, los Directores Regionales deberan desempeñar las funciones que contemplen las leyes y reglamentos orgánicos de sus respectivas instituciones y cumplir las instrucciones de sus jefes superiores, en materias que excedan el ámbito regional.
+
+### Párrafo 6° — Ciudad Capital de la Región.
+
+#### Artículo 21
+
+En la ciudad capital de la región tendrán su asiento el Intendente Regional, la Secretaría Regional de Planificación y Coordinación, las Secretarías Regionales de los Ministerios y las Direcciones Regionales.
+
+Por decreto supremo fundado podrán establecerse excepciones a esta norma.
+
+### Párrafo 7° — Régimen Presupuestario.
+
+#### Artículo 22
+
+El Presupuesto Nacional se elaborará sectorial y regionalmente a fin de dar cumplimiento a las disposiciones de este decreto ley.
+
+#### Artículo 23
+
+La ejecución presupuestaria a nivel regional se atendrá a las instrucciones que imparta el Ministerio de Hacienda.
+
+#### Artículo 24
+
+Sin perjuicio de los fondos que se asignen sectorialmente a las regiones, existirá en el Presupuesto de la Nación un Fondo Nacional de Desarrollo Regional, al cual se destinará a lo menos un 5% del volumen total de los ingresos calculados para los sistemas tributarios y arancelarios, excluida la contribución de bienes raíces. Esta última se destinará a la formación de un Fondo de Financiamiento del Régimen Municipal, sin perjuicio de los otros recursos que incrementen este régimen. Ambos Fondos se asignarán a las distintas regiones o comunas, según corresponda, de acuerdo con las prioridades que establezcan las políticas de estímulo al desarrollo regional y comunal.
+
+## Título III
+
+Gobierno y Administración Provinciales.
+
+#### Artículo 25
+
+La autoridad superior de la provincia será el Gobernador Provincial, quien estará subordinado al Intendente Regional. Será nombrado por el Poder Ejecutivo, oyendo al Intendente Regional respectivo y permanecerá en su cargo mientras cuente con la confianza de aquél.
+
+El Gobernador Provincial tendrá su asiento en la ciudad cabecera de la provincia.
+
+#### Artículo 26
+
+Al Gobernador Provincial le corresponderá especialmente:
+
+1) Efectuar las tareas propias de gobierno y administración interiores dentro de la provincia;
+
+2) Fiscalizar la ejecución de los planes, programas y proyectos de desarrollo provincial;
+
+3) Fiscalizar los servicios públicos de la provincia;
+
+4) Velar por la debida coordinación de los servicios públicos;
+
+5) Concertar acciones comunes con las municipalidades o con otras instituciones públicas y privadas, y
+
+6) Proponer proyectos de desarrollo provincial al Intendente Regional respectivo.
+
+#### Artículo 27
+
+En cada provincia habrá un Comité Asesor presidido por el Gobernador Provincial e integrado por las personas que él mismo designe. Dicho Comité prestará asesoría en todas las materias para las que sea requerido por el Gobernador Provincial, quien podrá citar a los alcaldes para que asistan a sus reuniones.
+
+El Gobernador Provincial reglamentará el funcionamiento de este Comité Asesor Provincial.
+
+#### Artículo 28
+
+Los Gobernadores Provinciales podrán delegar facultades específicas en los alcaldes o en otras autoridades de la provincia para el gobierno o administración de determinadas localidades, en los siguientes casos:
+
+a) Cuando se trate de localidades aisladas geográficamente, y
+
+b) Cuando el gobierno y administración interiores se hacen muy difíciles en atención a la complejidad de los problemas o por circunstancias de fuerza mayor debidamente calificadas.
+
+La delegación deberá ser autorizada por el respectivo Intendente Regional, ajustándose a las instrucciones que para el efecto imparta el Supremo Gobierno.
+
+## Título IV
+
+Administración Comunal
+
+#### Artículo 29
+
+La administración de los intereses locales en cada comuna será de competencia de las municipalidades. Se ejercerán de acuerdo con las disposiciones de la ley de Organización y Atribuciones de las Municipalidades.
+
+## Título V
+
+Gobierno y Administración de las Areas Metropolitanas.
+
+#### Artículo 30
+
+El régimen de gobierno y administración de las áreas metropolitanas se ajustará a las disposiciones de la ley respectiva.
+
+## Título VI
+
+Facultades de Supervigilancia y cuestiones de competencia
+
+#### Artículo 31
+
+El Supremo Gobierno, a través del Ministerio del Interior, tendrá facultades de supervigilancia sobre los Intendentes Regionales, los Gobernadores Provinciales y los Alcaldes, a fin de velar por el cumplimiento de las políticas y planes de desarrollo regionales en relación con los nacionales.
+
+En el ejercicio de estas facultades, previo informe técnico del servicio nacional de planificación, podrán revocarse o suspenderse los planes, programas, proyectos o medidas específicas de carácter regional, provincial o comunal, cuando se contrapongan con las políticas, planes y programas nacionales.
+
+> **Nota.** El artículo final de la LEY 18605, dispuso la derogación del presente artículo en lo que dice relación con los Consejos Regionales de Desarrollo.
+
+#### Artículo 32
+
+La solución de las cuestiones de competencia que pudieren suscitarse entre las autoridades nacionales, regionales, provinciales, comunales y metropolitanas, se regirá por las disposiciones de la Ley sobre Procedimiento Administrativo.
+
+#### Artículo 33
+
+Sin perjuicio de las incompatibilidades que contemple la legislación general, el cargo titular de Intendente Regional es incompatible con el de Gobernador Provincial y Alcalde.
+
+## Título VII
+
+Disposiciones transitorias
+
+#### Artículo 1
+
+El proceso de regionalización se realizará gradualmente.
+
+Las regiones I, II, VIII, XI y XII señaladas en el artículo 1° se incorporarán al régimen establecido en este decreto ley a contar del 1° de Agosto de 1974 y, en consecuencia, desde esa fecha quedarán sometidas al presente decreto ley.
+
+Las demás regiones se incorporarán a este régimen a medida que lo disponga el Supremo Gobierno.
+
+#### Artículo 2
+
+Al ponerse en marcha el sistema de división territorial que se establece en este decreto ley, los Intendentes Regionales que se designen deberán presentar al Supremo Gobierno proyectos de división provincial y comunal de sus respectivas regiones, en el plazo que en cada caso aquél determine, de acuerdo con las instrucciones técnicas que imparta el Supremo Gobierno, a proposición de la Comisión Nacional de la Reforma Administrativa.
+
+Dichos proyectos serán estudiados e informados por esa Comisión Nacional.
+
+Con estos antecedentes, el Supremo Gobierno establecerá, mediante decretos leyes, las divisiones territoriales correspondientes.
+
+#### Artículo 3
+
+Mientras no se ponga en marcha el sistema de división territorial previsto en este decreto
+
+ley, continuará vigente la división actual y subsistirán
+
+los organismos y autoridades correspondientes.
+
+Estos últimos deberán colaborar con los Intendentes Regionales respectivos en el cumplimiento de sus tareas.
+
+#### Artículo 4
+
+A medida que se estructuren los organismos regionales que consulta esta ley quedarán suprimidas las corporaciones, los comités programadores, las juntas de desarrollo y las otras instituciones de igual naturaleza que existen en las regiones, en las fechas precisas que se determinen por decreto supremo. En todo caso su vigencia no podrá extenderse más allá del 31 de Diciembre de 1976. Al producirse la supresión de que trata este artículo, todos los bienes, derechos y obligaciones de las instituciones referidas pasarán, por el solo ministerio de la ley, al patrimonio fiscal. En consecuencia, el Fisco será el sucesor legal de dichos organismos.
+
+El Intendente Regional podrá destinar o transferir, según corresponda, a los Servicios y Empresas del Estado y a las Municipalidades, los bienes de las instituciones mencionadas en el inciso anterior, debiendo comunicar la destinación o transferencia al Departamento de Bienes Nacionales del Ministerio de Tierras y Colonización y a la Contraloría General de la República.
+
+El Intendente Regional podrá asimismo disponer la enajenación de los bienes a que se refiere este artículo, en cuyo caso se empleará el procedimiento establecido en los artículos 8°. y siguientes del decreto ley N°. 1.056, entendiéndose que este procedimiento quedará vigente hasta que se haya dispuesto de todos los bienes de los organismos indicados en el inciso anterior.
+
+Las enajenaciones se ordenarán por resolución del Intendente Regional y no serán necesarios el informe ni la autorización previa del Ministerio del ramo a que alude el inciso segundo del artículo 8°. del decreto ley N°. 1.056, y el producto de ellas se destinará al servicio de la región en la forma que el Intendente Regional determine.
+
+Las obligaciones de los organismos nombrados, que estuvieren pendientes a la fecha de ser suprimidos, se pagarán con los fondos no utilizados del presupuesto de 1976 de la entidad respectiva y, a contar del año 1977, los saldos adeudados se pagarán con los recursos que cada vez deberán consultarse en la Ley de Presupuesto.
+
+El Intendente Regional tendrá, para todos los efectos relacionados con los organismos que se supriman, la representación legal del Fisco. Quedará además facultado para disponer que los funcionarios de los organismos suprimidos tengan preferencia en la provisión de las vacantes existentes o que se produzcan en los Servicios de la administración centralizada o descentralizada del Estado de la región correspondiente, siempre que dichos funcionarios reúnan los requisitos legales para desempeñar los cargos y lo autorice el jefe superior del Servicio respectivo.
+
+#### Artículo 5
+
+DEROGADO
+
+#### Artículo 6
+
+Las Secretarías Regionales de Planificación y Coordinación consultadas en el párrafo 3° del Título II se organizarán sobre la base de las actuales corporaciones de desarrollo, comités programadores, juntas de adelanto, oficinas regionales de planificación y de otras entidades de la misma naturaleza que determine el Intendente Regional respectivo tomando en cuenta el personal y el patrimonio de dichas entidades. Ello se hará por decreto supremo, a proposición de la Comisión Nacional de la Reforma Administrativa.
+
+#### Artículo 7
+
+Los Ministerios, los servicios públicos y demás entidades del Estado deberán proponer al Supremo Gobierno planes de desconcentración administrativa territorial que faciliten el cumplimiento de este decreto ley. Los planes deberán presentarse en el plazo de sesenta días a contar desde la fecha de publicación del presente decreto ley. Los planes aludidos no podrán contemplar aumento de cargos o funcionarios de los respectivos Ministerios, servicios e instituciones existentes. La dotación del personal de las intendencias y demas organismos contemplados en el presente decreto ley se hara preferentemente sobre la base del traslado o sustitución de cargos y de la destinación de funcionarios que trabajan en Santiago.
+
+#### Artículo 8
+
+Dentro del plazo de sesenta días, la Comisión Nacional de la Reforma Administrativa, en coordinación con el Ministerio del Interior, presentará al Supremo Gobierno el proyecto de nueva ley de Organización y Atribuciones de las Municipalidades.
+
+#### Artículo 9
+
+Lo dispuesto en el párrafo 7° del Título II comenzará a regir el 1° de Enero de 1975.
+
+#### Artículo 10
+
+Mientras se dictan las normas definitivas sobre la materia, les serán aplicables a los Intendentes Regionales y a los Gobernadores Provinciales las inhabilidades, sistemas de subrogación e incompatibilidades que actualmente rigen para los Intendentes y Gobernadores.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno, Jefe del Estado.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General Director de Carabineros.- Oscar Bonilla Bradanovic, General de División, Ministro del Interior.
+
+Lo que transcribo a Ud. para su conocimiento.- Enrique Montero Marx, Subsecretario del Interior.
