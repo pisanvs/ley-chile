@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.416 de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº 45, superficie 734 m2, rol de avalúo 286-9, comuna de San Fernando, para la obra ''Camino San Fernando - Roma, Rol I - 301, I-255, I-151, Km. 0.000 al 10,954264'' y se acordó el valor de indemnización con su propietario Humberto Mardini Malollan, ascendente a la cantidad de $2.183.952.
+
+- Fiscal del Ministerio de Obras Públicas.
