@@ -1,0 +1,3 @@
+Por resolución Nº 930, de 30 de junio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1 de la resolución Nº 85 de 1997, de esta Subsecretaría, que fijó las características náuticas de la nave ''Ventisquero'', de PESQUERA SAN JOSE S.A., en el sentido de señalar que la matrícula de dicha nave es la Nº 2906.
+
+Valparaíso, 30 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
