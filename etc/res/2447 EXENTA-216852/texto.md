@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.447 de 10 de octubre de 2003 de esta Subsecretaría, autorízase a COMERCIALIZADORA DE PRODUCTOS ALIMENTICIOS FRIO NATUR LIMITADA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Las Heras Nº 2241, Concepción, VIII Región, en las líneas de elaboración de Fresco-Enfriado y Fresco-Refrigerado, el recurso hidrobiológico Channel Catfish.
+
+Valparaíso, 10 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
