@@ -1,0 +1,1 @@
+Libera de todo derecho, impuesto o contribución la internación de vehículos carrozados destinados al servicio público de movilización colectiva de pasajeros, que ingresen al país por concepto de aporte de capitales.
