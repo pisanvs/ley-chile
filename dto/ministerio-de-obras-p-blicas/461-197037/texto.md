@@ -1,0 +1,3 @@
+Por decreto MOP Nº 461, de 28 de febrero de 2002, se expropiaron los lotes de terreno Nºs. 26-D, 26-E y 26-I, superficies 2.285, 238 y 498 m², rol de avalúo 162-46, comuna de Casablanca, para la obra Red Vial Litoral Central. Sector 3: Eje Costero Interior Subtramo Rosario Orrego Abajo Km. 20.673,30 al 27.340,00, Quinta Región y se acordó el valor de indemnización con su propietaria Agustina del Rosario Amunátegui Meza, ascendente a la cantidad de $4.812.387.- para los lotes Nºs. 26-D, 26-E y 26-I.
+
+Fiscal del Ministerio de Obras Públicas.
