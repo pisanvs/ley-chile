@@ -1,0 +1,1 @@
+Fija planta, sueldos y quinquenios de la Dirección General de Agua Potable y Alcantarillado.
