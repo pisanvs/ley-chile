@@ -1,0 +1,5 @@
+Por Resolución N° 1.349, de 18 de julio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESCA CHILE S.A., para ampliar actividades pesqueras que tiene autorizadas por Resolución N° 902, de 1992 de esta Subsecretaría, en orden a operar la nave "Boston Blenheim", autorizada por la Resolución señalada precedentemente, en el litoral comprendido entre los paralelos 41°28,6' L.S. y 47°00' L.S., donde podrá capturar el recurso hidrobiológico Orange roughy, mediante red de arrastre, por fuera del área de reserva artesanal.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 18 de julio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
