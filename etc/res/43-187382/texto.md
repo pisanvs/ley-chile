@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 43, de fecha 8 de mayo de 2001, se aprobó la disolución voluntaria de la "Cooperativa de Vivienda y Servicios Habitacionales Villa Metal Limitada", que consta en la escritura pública sucrita con fecha 9 de abril de 2001, ante el Notario Público Titular de la Primera Notaría de La Florida, don Sergio Leñero González.-
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
