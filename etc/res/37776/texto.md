@@ -1,0 +1,5 @@
+Autorízase a la empresa chilena "BUSES AHUMADA LIMITADA", para efectuar servicio de transporte internacional terrestre de pasajeros entre Viña del Mar-Santiago (Chile) y Buenos Aires (Argentina), por paso fronterizo de Cristo Redentor (Sistema Cristo Redentor), alternativa paso Puyehue, efectuando una frecuencia semanal de ida y vuelta:
+
+Desde Buenos Aires por Ruta Nacional N° 7 hasta San Martín (Provincia de Mendoza) donde desvía por Rutas Provinciales pasando por Maipú-Luján hasta empalmar con brazo sur de Ruta Nacional N° 7 hasta el Límite Internacional, por el Túnel Cristo Redentor continuando por alguna de las alternativas que a continuación se indican: Los Andes Camino Internacional (Ruta 60)- Viña del Mar o, Los Andes-Santiago (Rutas 57 y 5)- Viña del Mar (Ruta 68).
+
+Sergio González Tagle, Subsecretario de Transportes.
