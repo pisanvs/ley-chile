@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.598 de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº 2, superficie 821 m2, rol Nº 1362-123, comuna de San Carlos, VIII Región, para la obra ''Construcción Puente Nahueltoro y Accesos Km. 2,30000 a 3,30000'' y se acordó el valor de indemnización con su propietario Orlando Rodríguez Biernay, ascendente a la cantidad de $321.361.-
+
+Fiscal del Ministerio de Obras Públicas.
