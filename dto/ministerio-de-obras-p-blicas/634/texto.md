@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 634, de 30 de junio de 1997, se expropiaron los lotes de terreno N°s 7, 12, 17 y 18, superficies 173, 163, 230 y 180 M2. respectivamente, roles de avalúo 10-4, 23-2 y 21-5, comuna de Quinta de Tilcoco, para la obra Camino Quinta de Tilcoco-Coinco, Sector Quinta de Tilcoco-Coinco y se acordó precio de indemnización con sus propietarios Nancy del Carmen Arias Contreras, Marcos Antonio González Contreras y otros y María Mercedes Pizarro Ramírez, ascendente a las cantidades de $1.211.579, $1.669.103 y $1.205.565.-
+
+Fiscal del Ministerio de Obras Públicas
