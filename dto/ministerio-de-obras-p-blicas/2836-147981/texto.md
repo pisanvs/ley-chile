@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.836, de 29 de septiembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº65-3, para la obra "Concesión Internacional Ruta 5 Tramo: Collipulli - Temuco".
+
+Km. 616,90000 al Km. 619,50000, Novena Región, que figura a nombre de Renner Meier Carlos E., rol de avalúo 636-47, comuna de Victoria, superficie 1.077 m2. La Comisión de Peritos integrada por los señores Pablo Alex Mansilla Aravena, Fernando Luis Contreras Hennings y Enrique Guillermo Smith Mason, fijó con fecha 28 de enero de 1999, el valor provisional de la indemnización en la cantidad de $430.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
