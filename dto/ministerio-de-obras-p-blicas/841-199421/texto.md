@@ -1,0 +1,3 @@
+Por decreto MOP. Nº841, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº148, superficie 149 M2, sin rol de avalúo, comuna de Alto del Carmen, III Región, para la obra ''Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al 70,000, Estapa IV'' y se acordó el valor de indemnización con su propietaria doña Carlota Paredes, ascendente a la cantidad de $3.315.439.-
+
+Fiscal del Ministerio de Obras Públicas .
