@@ -1,0 +1,5 @@
+Por Resolución N° 319, de 14 de Mayo de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a CONSERVAS DALCAHUE S.A., R.U.T. N° 87.568.800-6, para ampliar actividades pesqueras de transformación, autorizadas por Resoluciones N° 314 y N° 470, ambas de 1986 y N° 731, de 1992, todas de esta Subsecretaría, en orden a incorporar el recurso hidrobiológico Culengue, a la línea de proceso de conserva autorizado para la planta industrial ubicada en la X Región, calle Lautaro N° 001, Dalcahue, Chiloé. Adquirirá el recurso de pescadores artesanales.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.-
+
+Valparaíso, 14 de Mayo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
