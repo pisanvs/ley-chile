@@ -1,0 +1,3 @@
+Por Resolución Nº676 de 23 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2º de la Resolución Nº1.908, de 1989, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA LANDES S.A., R.U.T. Nº92.387.000-8, domiciliada en calle Agustinas Nº1022, Of. 423, Santiago, para operar una nave "Huachinango", en construcción en el sentido de señalar las actuales caraterísticas náuticas.
+
+Valparaíso, 23 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
