@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.029 de fecha 28 de junio de 2002, se expropió el lote de terreno Nº89, superficie 52 m2, rol de avalúo Nº509-26, comuna de Longaví, para la obra ''Camino Ruta L-49, Cruce Long.- Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 al 13,841.12'', VII Región y se acordó el valor de indemnización con su propietario Héctor Fernando Vásquez Figueroa, ascendente a la cantidad de $341.320.
+
+Fiscal del Ministerio de Obras Publicas
