@@ -1,0 +1,3 @@
+Por resolución Nº 2.576, de 27 de diciembre de 2001, de esta Subsecretaría, autorízase a PESCA SURIBERICA S.A. para realizar operaciones pesqueras, a contar del 1 de enero del año 2002 y hasta el 31 de diciembre del mismo año, ambas fechas inclusive, con el barco fábrica denominado "Isla Camila", en aguas interiores, al sur del paralelo 47° L.S., respecto de los recursos y con las obligaciones establecidas en sus respectivas resoluciones.
+
+Valparaíso, 27 de diciembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
