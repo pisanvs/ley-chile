@@ -1,0 +1,3 @@
+Por resolución Nº 707, de 20 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la resolución Nº 560, de 1998, que autorizó a PESQUERA DEL NORTE S.A., para ampliar actividades pesqueras de procesamiento, en el sentido de señalar que su actual domicilio y ubicación de la planta es Pedro Aguirre Cerda Nº 995, Sitio 6, sector Lo Rojas, Coronel y no el que allí se indica.
+
+Valparaíso, 20 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
