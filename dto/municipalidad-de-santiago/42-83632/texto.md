@@ -1,0 +1,3 @@
+Por Decreto Secc. 2a, No. 42 de Enero de 1990 Alcalde I. Municipalidad de Santiago dispone expropiación total conforme DS No. 458 Vivienda y Urbanismo, Ley No. 18.695 y Decreto Ley No. 2.186 inmueble San Ignacio No. 410 Casa 2 rol 542-54 aparentemente dominio Gilberto Salazar Sandoval y otro. Superficie aproximada 68,75 m2. Deslindes Norte 12,50 mts. otro propietario Sur 12,50 mts. bien nacional uso público. Oriente 5,5 mts. bien nacional uso público. Poniente 5,50 mts. calle San Ignacio. Indemnización provisional $ 653.125. pagadera contado.
+
+Máximo Honorato Alamos.- Alcalde Santiago.
