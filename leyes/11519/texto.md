@@ -8,9 +8,7 @@ Proyecto de ley:
 
 #### Artículo único
 
-Libérase a la Universidad de Chile, a las Universidades Católica de Santiago y Valparaíso, a la Universidad de Concepción, a la Universidad Técnica del Estado, Universidad del Norte, Universidad Austral, a la Universidad Técnica Santa María y a la Universidad Austral de Chile, del pago de los derechos, impuestos y tasas que se perciben por las aduanas y consulares y que afecten a los aparatos, maquinarias, útiles de laboratorio, texto de estudio y, en general, a todo el material y a los diversos elementos que sea necesario importar para el desarrollo exclusivo de las actividades docentes y de investigación científica y técnica de dichas Universidades.
-
-Si dentro del plazo de diez años contados desde la internación se enajenaren a cualquier título las especies a que se refiere el inciso anterior, o se les diere un destino distinto del señalado, deberán integrarse en arcas fiscales los derechos, impuestos y gravámenes de cuyo pago esta ley libera, quedando solidariamente responsables de ello las personas o entidades que intervengan en los actos o contratos respectivos.
+DEROGADO
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como ley de la República.
 
