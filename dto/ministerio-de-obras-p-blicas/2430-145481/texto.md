@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.430, de 30 de agosto de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº182, para la obra Concesión Internacional Ruta 5 Tramo: Santiago-Talca. Sector A: Km. 29.014,00 al Km.
+
+42.800,00, Región Metropolitana, que figura a nombre de Vitores Anselmo Remigio F., rol de avalúo 111-2, comuna de Paine, superficie 1.158 m². La Comisión de Peritos integrada por los señores Victoria Adriana Blanco Costa, Gustavo Domínguez Errázuriz y Carlos Albrecht Viveros, fijó con fecha 26 de abril de 1999, el valor provisional de la indemnización en la cantidad de $23.622.766.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186 de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
