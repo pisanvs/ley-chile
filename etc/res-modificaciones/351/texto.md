@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIONES QUE INDICA Y AUTORIZA A EMPRESA PESQUERA CHILEMAR S.A. PARA EXTRAER RECURSOS QUE INDICA
+
+Por resolución Nº 351, de 30 de Septiembre de 1983, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifican las resoluciones Nos. 403 y 184 de 1980 y 1981, respectivamente, de la misma Subsecretaría, que autorizaron a Empresa Pesquera Chilemar S.A. para operar las embarcaciones que en ellas se mencionan, en el sentido de sustituir las denominaciones de las embarcaciones "EPERVA 33" por "CALAMAR II", "EPERVA 35" por "MARSOPA II" y "EPERVA 34" por "CAMARON II". Asimismo, se autoriza a la sociedad para extraer los recursos bonito, cachurreta y atún aleta amarilla.
+
+Santiago, 30 de Septiembre de 1983.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
