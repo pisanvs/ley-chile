@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 177, de 28 de febrero de 1997, se expropiaron los lotes de terreno Nºs 2, 5, 6 y 7, superficies 1.238, 887, 2.178 y 983, roles de avalúo 336-67 y 301-23, respectivamente, comuna de Cunco, para la obra Camino Temuco Cunco Sector III Etapa y se acordó precio de indemnización con sus propietarios: Eduardo Valdebenito Arriagada y Ruth Adriana Ahuile Sepúlveda y otro, ascendente a las cantidades de $1.053.452.- y $3.252.192.- respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
