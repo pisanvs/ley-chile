@@ -1,0 +1,3 @@
+Por resolución Nº 385, de 11 de marzo de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.014 de 1998, de esta Subsecretaría, que autorizó a PESQUERA SAN JOSE S.A., para operar una nave en construcción, en virtud de no haber operado la nave en el término legal, en las pesquerías autorizadas, de conformidad con lo señalado en la letra b) del artículo 143 del D.S. Nº 430 de 1991 del Ministerio de Economía, Fomento y Reconstrucción, que fijó el texto refundido, coordinado y sistematizado de la Ley de Pesca.
+
+Valparaíso, 11 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
