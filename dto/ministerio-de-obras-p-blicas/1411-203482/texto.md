@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.411, de 22 de agosto de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº25-2 para la obra: ''RED VIAL LITORAL CENTRAL. SECTOR 2: CAMINO ALGARROBO - CASABLANCA (RUTA F - 90). TRAMO: KM.
+
+0.000,00 AL KM. 32.100,00'', Quinta Región, que figura a nombre de CASA LAPOSTOLLE S A, rol de avalúo 152-123, comuna de Casablanca, superficie 2.240 m2. La comisión de peritos integrada por los señores Marlene Teresa Ríos Marcuello, Luis Pablo Padilla Vergara y José Cristián Larraín Barros, fijó con fecha 7 de junio de 2002, el valor provisional de la indemnización en la cantidad de $5.734.400.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
