@@ -1,0 +1,29 @@
+ORDENA TOMAR RAZON DEL DECRETO No. 600, DE 1990, QUE REMUEVE DE SU CARGO AL RECTOR DE LA UNIVERSIDAD DE PLAYA ANCHA DE CIENCIAS DE LA EDUCACION
+
+Núm. 647.- Santiago, 27 de Agosto de 1990.- Vistos: Lo dispuesto en el DFL No. 2 de 1986, de Educación; las leyes N°s. 18.575; 10.336; y 18.834; y en los artículos 24, 87 y 88 de la Constitución Política de la República de Chile; Considerando:
+
+1) Que, la Contraloría General de la República ha devuelto sin tramitar el Decreto Supremo No. 600, de 1990, de Educación, que dispone la remoción del Rector de la Universidad de Playa Ancha de Ciencias de la Educación, porque a su juicio, el acuerdo de la Junta Directiva de esa Corporación, que sirve de fundamento al acto administrativo, no fue adoptado con el quórum exigido por la normativa pertinente;
+
+2) Que, el Organismo de Control en su oficio devolutorio ha interpretado que los señores Munilla, Praus y Christie tenían, al momento de dictarse el citado acuerdo, la calidad de miembros en ejercicio del máximo organismo colegiado de la Universidad, por cuanto sus renuncias supuestamente no se encontraban afinadas conforme a la decisión del Consejo Académico que las aceptó;
+
+3) Que, de acuerdo con el DFL No. 2, de 1986, de Educación, el aludido Consejo Académico cuenta con atribuciones asesoras y resolutivas, siendo de esta última índole la de pronunciarse sobre las renuncias de los integrantes de la Junta Directiva de su designación, no exigiéndole la ley ni los estatutos otras formalidades para expresar su decisión, que aquellas necesarias para la adopción original del acuerdo respectivo, a saber, reunir el quórum establecido
+
+4) Que, el Decreto del Rector mencionado en el acta de la sesión de fecha 04 de julio de 1990 no es un requisito esencial ni natural para que la aceptación de renuncia voluntaria produzca sus efectos y, por lo mismo, la introducción de tal exigencia por el Consejo Académico en el acuerdo adoptado en la sesión extraordinaria del 04 de julio, que no tiene fundamento en ninguna norma legal, estatutaria o reglamentaria - no altera el valor jurídico de la decisión adoptada por el Consejo de aceptar las renuncias que en carácter de indeclinables habían presentado algunos de sus miembros;
+
+5) Que, habiendo sido presentadas las renuncias voluntarias de los señores Munilla Praus y Christie el 12 de junio del año en curso, con carácter de indeclinables, y mediando aceptación de las mismas por el órgano competente, jurídicamente no podían ostentar la calidad de miembros en ejercicio de la Junta Directiva al momento de realizarse la sesión de fecha 04 de julio de 1990, en la cual se adoptó el acuerdo de proponer al Presidente de la República la remoción de la Rectora, ni ser considerados por tanto para la determinación del quórum requerido por los estatutos de la Corporación para la adopción de tal decisión;
+
+6) Que, en consecuencia, el Gobierno no comparte el criterio sustentado por el señor Contralor General de la República en su oficio No. 21.786 del 01 de agosto de 1990 y, por el contrario, estima que tanto la Junta Directiva de la Universidad como el Presidente de la República han concurrido válidamente a la determinación de remover al Rector;
+
+7) Que, la representación del Decreto Supremo No. 600 de Educación no ha tenido lugar por ser contrario a la Constitución, ni tampoco a las normas legales estatutarias o reglamentarias, sino que la Entidad Fiscalizadora se ha fundado únicamente en una interpretación de una jurisprudencia administrativa referida a personas y entidades de naturaleza diversa, la que ha aplicado sin considerar cabalmente nuestras reglas y principios de hermenéutica jurídica, ni las propias instrucciones contenidas en su circular interna No. 70.118 de 1970 sobre interpretación de las normas administrativas;
+
+8) Que, además, se ha producido una situación de hecho en la mencionada Casa de Estudios Superiores que amenaza la paz social en la ciudad de Valparaíso, bien jurídico cuya protección es obligación primordial del Supremo Gobierno;
+
+9) Que, por expreso mandato constitucional, corresponde al Presidente de la República el gobierno y la administración del Estado y, en especial, el resguardo del orden público;
+
+Decreto:
+
+#### Artículo único
+
+La Contraloría General de la República tomará razón y dará curso al Decreto Supremo de Educación No. 600, de 06 de julio de 1990.
+
+Anótese, tómese razón, comuníquese y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Ricardo Lagos Escobar, Ministro de Educación.- Enrique Krauss Rusque, Ministro del Interior.- Enrique Silva Cimma, Ministro de Relaciones Exteriores.- Patricio Rojas Saavedra, Ministro de Defensa Nacional.- Carlos Ominami Pascual, Ministro de Economía, Fomento y Reconstrucción.- Alejandro Foxley Ríoseco, Ministro de Hacienda.- Francisco Cumplido Cereceda, Ministro de Justicia.- Carlos Hurtado Ruiz-Tagle, Ministro de Obras Públicas.- Juan Figueroa Yávar, Ministro de Agricultura.- Luis Alvarado Constela, Ministro de Bienes Nacionales.- René Cortázar Sanz, Ministro del Trabajo y Previsión Social.- Jorge Jiménez de la Jara, Ministro de Salud.- Juan Hamilton Depassier, Ministro de Minería.- Alberto Etchegaray Aubry, Ministro de la Vivienda y Urbanismo.- Germán Correa Díaz, Ministro de Transportes y Telecomunicaciones.- Enrique Correa Ríos, Ministro Secretario General de Gobierno.- Edgardo Boeninger Kausel, Ministro Secretario General de la Presidencia.- Sergio Molina Silva, Ministro de Planificación y Cooperación. Lo que transcribo a usted para su conocimiento.- Saluda a usted.- Raúl Allard Neumann, Subsecretario de Educación.
