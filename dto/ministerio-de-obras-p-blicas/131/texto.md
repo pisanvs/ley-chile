@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 131, de 30 de abril de 1992, se expropió el lote de terreno No. 5, superficie 29.963 m2., rol de avalúo 5004-224, Comuna de Coronel, para la obra Camino By Pass Coronel - Lota (Ruta 160), sector By Pass Coronel - Lota y se acordó precio de indemnización con sus propietarios Juan A. Aburto Medina y otros, ascendente a la cantidad de $ 14.119.958.-
+
+Fiscal del Ministerio de Obras Públicas.
