@@ -15240,7 +15240,13 @@ c) Inversiones minoritarias en sociedades, mantenidas de conformidad con lo disp
 
 2.- Límite de inversiones.
 
-Las inversiones que se realicen en las sociedades mencionadas en el N° 1 precedente, se encuentran comprendidas dentro del límite general de inversiones de que trata el inciso segundo del artículo 69 de la Ley General de Bancos y el Capítulo 12-10 de esta Recopilación, sin perjuicio de que el valor de tales inversiones debe ser deducido para determinar el patrimonio efectivo, conforme a lo dispuesto en el artículo 66 de la Ley General de Bancos y en el Capítulo 12-1 de esta Recopilación.
+Las inversiones que se realicen en las sociedades mencionadas en el N° 1 precedente, se encuentran comprendidas dentro del límite general de inversiones de que trata el inciso segundo del artículo 69 de la Ley General de Bancos y el Capítulo 12-10 de esta Recopilación.
+
+3.- Límites de crédito sobre activos consolidados.
+
+Las disposiciones de los N°s 1, 2 y 4 del artículo 84 de la Ley General de Bancos, deben cumplirse computando los activos consolidados de la institución financiera con sus filiales y sucursales en el país y en el exterior que participan en la consolidación según lo previsto en el Capítulo 12-1 de esta Recopilación.
+
+Por consiguiente, las sociedades filiales de una institución financiera, además de atenerse a las disposiciones que les rigen, deben sujetar sus operaciones de crédito a las instrucciones que les imparta la institución financiera matriz para cumplir con las disposiciones de la Ley General de Bancos antes indicadas.
 
 II.- SOCIEDADES FILIALES QUE COMPLEMENTAN EL GIRO.
 
@@ -15498,9 +15504,9 @@ Todas las transacciones efectuadas entre la institución financiera y las socied
 
 Las sociedades a que se refieren los títulos II, III y IV de este Capítulo, no podrán adquirir acciones de los bancos o sociedades financieras que sean accionistas o socios de ellas. Esta prohibición alcanza también a la recepción en pago, como asimismo impide recibirlas en garantía por el cumplimiento de una obligación que un tercero tenga en favor de la sociedad filial, coligada o de apoyo al giro.
 
-3.- Créditos otorgados por la institución financiera.
+3.- Créditos otorgados a las sociedades en que participe la institución financiera o sus filiales.
 
-De acuerdo con lo dispuesto en el Capítulo 12-4 de esta Recopilación, las sociedades filiales, de apoyo al giro y coligadas a que se refieren los títulos II, III y IV del presente Capítulo, junto con las sociedades constituidas en el exterior en las cuales participe la institución financiera, conformarán un solo grupo de empresas vinculadas a ella para los efectos de las limitaciones establecidas en el artículo 84 N° 2 de la Ley General de Bancos.
+De acuerdo con lo dispuesto en el Capítulo 12-4 de esta Recopilación, las sociedades constituidas en el país o en el exterior en que la institución financiera o sus filiales tengan participación y cuyas operaciones no se consolidan para efecto de los límites de crédito del artículo 84 de la Ley General de Bancos, conformarán un solo grupo de empresas vinculadas para las limitaciones establecidas en el N° 2 de ese artículo.
 
 VI.- NORMAS CONTABLES.
 
@@ -15527,8 +15533,6 @@ Las utilidades no realizadas se abonarán a la cuenta "Utilidades no realizadas"
 En el evento de que se adquieran acciones o derechos en sociedades ya constituidas, las diferencias entre el costo y el valor patrimonial proporcional determinado a la fecha de la adquisición, se tratarán de la siguiente forma:
 
 a) Valor pagado mayor que el VPP ("Goodwill"): Cuando el valor pagado sea mayor que el valor patrimonial proporcional, la diferencia se registrará en la cuenta "Mayor valor pagado en inversiones en sociedades" de la partida 2120 y se amortizará en el período esperado de retorno de la inversión, con cargo a la cuenta "Amortización mayor valor pagado en inversiones en sociedades" de la partida 6315, en cuotas mensuales iguales y consecutivas, corregidas monetariamente. En todo caso, ese período de amortización no podrá exceder de 10 años.
-
-El saldo no amortizado de la cuenta "Mayor valor pagado en inversiones en sociedades" se considerará como parte de la inversión para los efectos señalados en los Capítulos 12-1 y 12-10 de esta Recopilación, esto es, para la determinación del patrimonio efectivo, la ponderación de activos por riesgo y el cumplimiento del límite general de inversiones.
 
 b) Valor pagado menor que el VPP: Si el valor pagado fuere menor que el valor patrimonial proporcional, la diferencia se abonará a la cuenta "Menor valor pagado en inversiones en sociedades" de la partida 4120 y se amortizará con abono a la cuenta "Amortización menor valor pagado en inversiones en sociedades", de la partida 8315, en un plazo de diez años, en cuotas mensuales iguales y consecutivas, corregidas monetariamente. No obstante, si la inversión en la respectiva sociedad filial o coligada origina pérdidas en un ejercicio, el monto que se traspase a resultados podrá ser equivalente a esas pérdidas.
 
@@ -15696,7 +15700,7 @@ En este caso, el plazo para requerir antecedentes complementarios será de 22 d�
 
 Las instituciones financieras sólo podrán acogerse a este procedimiento especial cuando, además de los requisitos señalados en el N° 2 precedente, reúnan en forma copulativa los que se indican a continuación:
 
-i) Exceder en un 25% el porcentaje mínimo de patrimonio efectivo, esto es, que éste no sea inferior al 10% de los activos ponderados por riesgo. En este caso, el patrimonio efectivo y los activos ponderados se calcularán sobre base consolidada, según las instrucciones del título VIII de este Capítulo.
+i) Exceder en un 25% el porcentaje mínimo de patrimonio efectivo, esto es, que éste no sea inferior al 10% de los activos ponderados por riesgo.
 
 ii) Estar calificadas en categoría I por esta Superintendencia, según la clasificación de gestión y solvencia.
 
@@ -15732,25 +15736,27 @@ En ningún caso las sociedades financieras pueden participar en entidades que ej
 
 2.- Límites de inversiones.
 
-2.1.- Límite global que afecta a las inversiones en sociedades.
+2.1 - Límite global que afecta a las inversiones en sociedades.
 
-Las inversiones mencionadas en el N° 1 se encuentran comprendidas dentro del límite general de inversiones de que trata el inciso segundo del artículo 69 de la Ley General de Bancos y el Capítulo 12-10 de esta Recopilación, sin perjuicio de que el valor de tales inversiones debe ser deducido para determinar el patrimonio efectivo, conforme a lo dispuesto en el artículo 66 de la Ley General de Bancos y en el Capítulo 12-1 de esta Recopilación.
+Las inversiones mencionadas en el N° 1 se encuentran comprendidas dentro del límite general de inversiones de que trata el inciso segundo del artículo 69 de la Ley General de Bancos y el Capítulo 12-10 de esta Recopilación.
 
 2.2.- Límite de inversiones en un mismo país.
 
-De acuerdo con lo establecido en el N° 1 del artículo 80 de la Ley General de Bancos, los bancos constituidos en Chile sólo podrán invertir hasta un 40% de su patrimonio efectivo en bancos u otras sociedades establecidas en un mismo país. Ese porcentaje incluirá también el capital asignado a las sucursales que mantuvieren en el mismo país, conforme a lo señalado en el N° 1 del artículo 81. La misma limitación afecta a las sociedades financieras constituidas en Chile, con respecto a sus sucursales y a las sociedades en las que inviertan en el exterior.
+De acuerdo con lo establecido en el N° 1 del artículo 80 de la Ley General de Bancos, los bancos constituidos en Chile sólo podrán invertir hasta un 40% de su patrimonio efectivo sin consolidar, en bancos u otras sociedades establecidas en un mismo país. Ese porcentaje incluirá también a las sucursales que mantuvieren en el mismo país Para la aplicación de este límite se tomarán los saldos de los activos de la institución financiera que correspondan a sucursales e inversiones en sociedades en un mismo país, incluido el "goodwill" que exista.
+
+La misma limitación afecta a las sociedades financieras constituidas en Chile, con respecto a sus sucursales y a las sociedades en las que inviertan en el exterior.
 
 3.- Otras exigencias legales de carácter general.
 
-a) La suma de los depósitos, préstamos y otras acreencias que los bancos chilenos mantengan, ya sea directamente o a través de otras personas, en sociedades del giro bancario de las que sean accionistas, no podrán exceder del 25% del patrimonio efectivo de la entidad extranjera. Esta disposición del N° 2 del artículo 80 de la Ley General de Bancos alcanza a todos los depósitos a la vista o a plazo y los créditos que otorgue la institución financiera chilena, sus sucursales en el exterior y sus filiales, como asimismo los efectuados por cualquier persona a través de la cual la institución financiera provea de fondos a la entidad extranjera a que se refiere este límite.
+a) Las disposiciones de los N°s 1, 2 y 4 del artículo 84 de la Ley General de Bancos, deben cumplirse computando los activos consolidados de la institución financiera con sus filiales y sucursales en el exterior que se encuentren establecidas en países clasificados en primera categoría de riesgo por empresas calificadoras internacionales. Por consiguiente, dichas filiales y sucursales, además de cumplir con las disposiciones del país anfitrión, deben sujetar sus operaciones de crédito a las instrucciones que les imparta la institución financiera matriz para cumplir con las disposiciones de la Ley General de Bancos antes indicadas. Lo mismo se aplica para las filiales y sucursales que no se consolidan para estos efectos, en relación con los créditos otorgados a deudores relacionados con la institución financiera y los otorgados a personas residentes o domiciliadas en Chile.
 
-b) Las instituciones financieras chilenas podrán avalar, afianzar o, en cualquier forma, caucionar obligaciones de bancos u otras sociedades en las que participen en el extranjero, con sujeción al límite señalado en la letra a) precedente y dentro de los márgenes generales mencionados en el Capítulo 8-10 de esta Recopilación.
+b) La suma de los depósitos, préstamos y otras acreencias que los bancos chilenos mantengan, ya sea directamente o a través de otras personas, en sociedades del giro bancario de las que sean accionistas, incluidas sus filiales, no podrán exceder del 25% del patrimonio efectivo de la entidad extranjera. Esta disposición del N° 2 del artículo 80 de la Ley General de Bancos alcanza a todos los depósitos a la vista o a plazo y los créditos que otorgue la institución financiera o una sucursal o filial chilena, sus sucursales en el exterior y sus filiales, como asimismo los efectuados por cualquier persona a través de la cual la institución financiera provea de fondos a la entidad extranjera a que se refiere este límite.
 
-c) Las instituciones financieras chilenas deberán proporcionar a esta Superintendencia información sobre las entidades extranjeras en que participen, sin perjuicio de la obligación que imponen los artículos 9° y 10 de la Ley N° 18.045. Dichas información se entregará conforme a lo previsto en los títulos IV y y de este Capítulo.
+c) Las instituciones financieras chilenas podrán avalar, afianzar o, en cualquier forma, caucionar obligaciones de bancos u otras sociedades en las que participen en el extranjero, con sujeción al límite señalado en la letra a) precedente y dentro de los márgenes generales mencionados en el Capítulo 8-10 de esta Recopilación.
 
-d) Los bancos o sociedades financieras chilenos tendrán la obligación de obtener los resguardos necesarios para que los créditos o garantías que sus sucursales en el exterior y las instituciones en las que participen en el extranjero concedan a deudores relacionados directamente o a través de otras personas, a la propiedad o gestión de la institución financiera chilena participante, se sujeten a los límites que para tal efecto establece la Ley General de Bancos de Chile. Tendrán también la obligación de obtener dichos resguardos para que los créditos a personas domiciliadas o residentes en Chile se sujeten a los límites contemplados en el artículo 84 N° 1 y a las normas del artículo 85 de la ley mencionada.
+d) Las instituciones financieras chilenas deberán proporcionar a esta Superintendencia información sobre las entidades extranjeras en que participen, sin perjuicio de la obligación que imponen los artículos 9° y 10 de la Ley N° 18.045. Dichas información se entregará conforme a lo previsto en los títulos IV y y de este Capítulo.
 
-Las sucursales en el exterior se rigen, además, por las normas del artículo 81 de la Ley General de Bancos.
+e) Los bancos o sociedades financieras chilenos tendrán la obligación de obtener los resguardos necesarios para que los créditos o garantías que las entidades no sujetas a su control en las que participen en el extranjero concedan a deudores relacionados directamente o a través de otras personas, a la propiedad o gestión de la institución financiera chilena participante, se sujeten a los límites que para tal efecto establece la Ley General de Bancos de Chile. Tendrán también la obligación de obtener dichos resguardos para que los créditos a personas domiciliadas o residentes en Chile se sujeten a los límites contemplados en el artículo 84 N° 1 y a las normas del artículo 85 de la ley mencionada.
 
 4.- Operaciones entre partes relacionadas.
 
@@ -15764,9 +15770,9 @@ Todas las transacciones efectuadas entre la institución financiera y una sucurs
 
 Atendidas las disposiciones que rigen para las sociedades filiales constituidas en Chile, las instituciones financieras deberán tomar los resguardos necesarios para que sus sucursales o filiales en el exterior no adquieran bajo ningún concepto acciones o títulos representativos de acciones de su matriz.
 
-4.3.- Créditos otorgados por la institución financiera a sus filiales u otras sociedades en que tenga participación.
+4.3.- Créditos otorgados a las sociedades en que participe la institución financiera o sus filiales.
 
-De acuerdo con lo dispuesto en el Capítulo 12-4 de esta Recopilación, todas las sociedades radicadas en el exterior en que una institución financiera tenga participación conformarán, junto con las sociedades chilenas en las cuales participe, un solo grupo de empresas vinculadas para los efectos de las limitaciones establecidas en el artículo 84 N° 2 de la Ley General de Bancos.
+De acuerdo con lo dispuesto en el Capítulo 12-4 de esta Recopilación, las sociedades constituidas en el país o en el exterior en que la institución financiera o sus filiales tengan participación y cuyas operaciones no se consolidan para efecto de los límites de crédito del artículo 84 de la Ley General de Bancos, conformarán un solo grupo de empresas vinculadas para las limitaciones establecidas en el N° 2 de ese artículo.
 
 5.- Fiscalización de las sucursales y filiales en el exterior.
 
@@ -15790,39 +15796,27 @@ El artículo 117 de la ley faculta también a las sociedades financieras para ab
 
 2.- Capital asignado.
 
-Conforme a lo previsto en el N° 1 del artículo 81 de la Ley General de Bancos, las instituciones financieras que mantengan una sucursal en el exterior, deberán asignar a ésta un capital, sea que se aporte o no parcial o totalmente a la respectiva sucursal, lo cual dependerá de las exigencias que sobre la materia dispongan las normas del país anfitrión.
+En el caso de que los bancos consoliden con sus sucursales en el exterior, se considerará como capital asignado, para los efectos previstos en el artículo 81 de la Ley General de Bancos, así como para las exigencias de capital de la matriz y para los límites de crédito, el valor de la inversión efectuada en ellas que la casa matriz tenga registrado en su activo, de acuerdo con las normas contables del título VI de este Capítulo, que consideran los aportes efectivos de capital.
 
-Para los efectos de las normas que se aplican a las sucursales en el exterior, el capital asignado es equivalente al capital básico y al patrimonio efectivo de la respectiva sucursal.
+Dicho capital asignado será el que se aplique para los requerimientos de capital y límites para las operaciones de sucursales en el exterior mencionados en el N° 3 siguiente.
 
-2.1.- Asignaciones de capital.
+Si la institución financiera tiene más de una sucursal en un mismo país, se considerará el conjunto de esas sucursales como una sola entidad para estos efectos.
 
-El capital que se tenga previsto asignar a una nueva sucursal en el exterior, será informado a esta Superintendencia en la solicitud de apertura.
+3.- Límites de la Ley General de Bancos que rigen a una sucursal y que no se aplican en forma consolidada con la matriz.
 
-Los aumentos que sean necesarios, como asimismo las disminuciones que la institución financiera resuelva efectuar posteriormente, deberán ser igualmente informados a esta Superintendencia. Para la aplicación de las disposiciones legales pertinentes, tales cambios tendrán efecto a contar del primer día del mes siguiente a su comunicación a este Organismo.
+Además de cumplir con las normas del país anfitrión y de lo indicado en el N° 3 del título II de este Capítulo, las sucursales en el exterior deben sujetar sus operaciones a los siguientes límites establecidos en relación con su capital asignado, en concordancia con lo previsto en el N° 2 del artículo 81 de la Ley General de Bancos y lo dispuesto en el N° 2 precedente.
 
-En todo caso, la matriz no podrá aumentar o disminuir el capital asignado si con ello excede los límites o márgenes legales o reglamentarios basados en el capital pagado y reservas, capital básico o patrimonio efectivo de la matriz o de la sucursal, según sea el caso.
+a) El capital asignado de una sucursal no podrá ser inferior al 3% de su activo total, medido de acuerdo con las reglas del Capítulo 12-1 de esta Recopilación.
 
-2.2.- Capital asignado mínimo.
+b) La suma de las obligaciones por avales o fianzas en moneda chilena de una sucursal, no podrá exceder de una vez su capital asignado.
 
-En cumplimiento de las disposiciones del artículo 81 de la Ley General de Bancos, el capital asignado a una sucursal en el exterior no podrá ser inferior al 3% de sus activos totales. La determinación del activo total de una sucursal, para efectos del cumplimiento de esta norma, se efectuará conforme a los criterios establecidos para la matriz en el Capítulo 12-1 de esta Recopilación.
+c) Los bienes recibidos en pago por una sucursal no podrán superar el 20% de su capital asignado.
 
-El equivalente en pesos chilenos del capital asignado a una sucursal no podrá ser inferior al valor en que se encuentre registrada en el activo de la matriz la inversión efectuada en ella, de acuerdo con las normas contables contenidas en el título VI de este Capítulo.
+Cuando exista más de una sucursal en un mismo país, se considerará el capital asignado total y los activos u operaciones consolidadas de las sucursales situadas en ese país.
 
-3.- Aplicación de las reglas del país anfitrión sobre la base del capital asignado.
+Si se tratara de una sucursal que no se consolida con su matriz para los efectos indicados en el Capítulo 12-1 de esta Recopilación, la sucursal debe sujetarse, además, a las disposiciones de los N°s 1 y 3 del artículo 81 de la Ley General de Bancos.
 
-El N°1 del artículo 81 de la Ley General de Bancos establece que el capital asignado a una sucursal debe ser utilizado para los efectos de los márgenes que establezca la legislación del país en que funcione la sucursal. Por consiguiente, las sucursales en el exterior deben encuadrarse en los márgenes aplicables a sus operaciones que sean pertinentes en la legislación extranjera, considerando el capital asignado a la respectiva sucursal.
-
-4.- Créditos otorgados a deudores residentes y domiciliados en Chile y a personas relacionadas.
-
-Los créditos otorgados por una sucursal en el exterior a deudores relacionados directamente o a través de otras personas a la propiedad o gestión de la institución financiera matriz, quedan sujetos a las limitaciones señaladas en el artículo 84 N° 2 de la Ley General de Bancos y en el Capítulo 12-4 de esta Recopilación. Lo anterior es sin perjuicio del límite establecido en el N° 2 del artículo 80 de esa ley y que se menciona en la letra a) del N° 3 del título II de este Capítulo, cuando se trate de créditos otorgados a otras entidades en el exterior en las cuales participe la institución. Quedarán excluidos de la aplicación de los límites del artículo 84 N° 2, los créditos que la sucursal otorgue a su matriz. Al tratarse de créditos a otras sucursales en el exterior que mantenga la matriz, ellas quedarán incluidas para estos efectos dentro del grupo a que se refiere el numeral 4.3 del título II de este Capítulo.
-
-Por otra parte, cualquier crédito que la sucursal otorgue a una persona con domicilio o residencia en Chile, con excepción de los otorgados a su propia matriz, debe encuadrarse en los límites individuales de crédito según las reglas de los artículos 84 N° 1 y 85 de la Ley General de Bancos y del Capítulo 12-3 de esta Recopilación. También son aplicables a las sucursales las limitaciones y prohibiciones de los números 3 y 4 del artículo 84.
-
-El cumplimiento de los límites de crédito mencionados en los párrafos precedentes deben medirse en relación con el capital asignado a la respectiva sucursal acreedora.
-
-Cuando se trate de créditos distintos a los señalados en este número, los límites quedan fijados sólo por la norma general tratada en el N° 3, salvo que se aplique la norma de excepción establecida en el N° 9 de este título.
-
-5.- Estados financieros de las sucursales según criterios contables chilenos.
+4.- Estados financieros de las sucursales según criterios contables chilenos.
 
 Las instituciones financieras deberán presentar mensualmente estados financieros de sus sucursales en el exterior, ajustados a los criterios contables de la matriz y expresados en moneda chilena, siguiendo para el efecto los procedimientos técnicos de homologación y conversión aludidos en el título VI de este Capítulo.
 
@@ -15832,35 +15826,17 @@ Los estados de que se trata serán enviados por la casa matriz a esta Superinten
 
 Sin perjuicio de lo anterior, cuando estos estados financieros se refieran al ejercicio anual, la institución financiera matriz los entregará también, según lo previsto en el Capítulo 18-1 de esta Recopilación, acompañados de sus correspondientes notas, de acuerdo con los criterios contables chilenos, y de un dictamen de los auditores externos que hayan emitido su opinión sobre el balance consolidado de la matriz.
 
-6.- Información a esta Superintendencia relativa a las operaciones de la sucursal.
+5.- Información a esta Superintendencia relativa a las operaciones de la sucursal.
 
 Las instituciones financieras deberán enviar periódicamente a esta Superintendencia la información acerca de los créditos y otras operaciones o saldos de sus sucursales, conforme a lo que se establezca para el efecto en las instrucciones del Manual del Sistema de Información, sin perjuicio de otra información no estandarizada o específica que se exija mediante instrucciones generales o por requerimientos especiales.
 
-7.- Estados financieros para su presentación o divulgación en el exterior.
+6.- Estados financieros para su presentación o divulgación en el exterior.
 
 A más tardar dentro de los diez días hábiles siguientes a su emisión, deberán entregarse a esta Superintendencia, los estados financieros anuales preparados por las sucursales, destinados a su presentación o divulgación en el país en que estén radicadas.
 
-8.- Auditores externos.
+7.- Auditores externos.
 
 Los estados financieros de las sucursales en el exterior deberán ser auditados por una empresa de auditores externos que representen la misma firma internacional a la que pertenezca la empresa que realiza la auditoría de la casa matriz en Chile, salvo que esa firma no tenga presencia en el país o que ello no fuera posible por aplicación de normas que exijan rotación de auditores, casos en los cuales se designará una empresa de la misma firma a que pertenezca o se encuentre asociado alguno de los auditores inscritos en el registro de esta Superintendencia.
-
-9.- Sucursales en el exterior en que se consoliden con su casa matriz los márgenes de crédito.
-
-El párrafo final del artículo 81, inciso segundo, N° 1 de la Ley General de Bancos, permite a esta Superintendencia, mediante normas generales, establecer la consolidación de los márgenes de crédito de los bancos chilenos con sus sucursales en el exterior.
-
-Este sistema corresponde a una alternativa a la aplicación de las normas que se han examinado en el N° 3 de este título.
-
-Las normas excepcionales a que se refiere este N°9 sólo serán aplicables respecto de sucursales ubicadas en países que se encuentren clasificados en primera categoría de riesgo por una empresa calificadora internacional según lo establecido en el Capítulo 1-12 de esta Recopilación, y la consolidación se hará entre todas las sucursales del banco chileno que se encuentren sujetas al sistema alternativo y su casa matriz.
-
-La excepción de que se trata se refiere a los créditos que esas sucursales concedan a personas que no se rijan por el número 4 de este título, esto es, que no sean personas naturales o jurídicas domiciliadas o residentes en Chile ni personas relacionadas por propiedad o gestión al banco, las que quedarán sujetas en todo a lo dispuesto en el N° 3 del inciso segundo del artículo 81.
-
-La diferencia de tratamiento estriba, entonces, en los márgenes aplicables a las personas domiciliadas o residentes en el exterior que no sean relacionadas. A ellas se les aplicará como margen de crédito, con o sin garantía, el menor de los siguientes factores:
-
-a) El límite del 5% sobre el patrimonio efectivo del banco en Chile sin deducir el capital asignado a la sucursal de que se trate.
-
-b) El margen del 40% del capital asignado a la sucursal correspondiente.
-
-Además, la suma de los créditos que el mismo deudor registre con la matriz del banco y con todas las sucursales sujetas a la consolidación de márgenes a que se refiere este N° 9, no podrá superar el margen de que dispone la casa matriz, conforme a la Ley General de Bancos, para prestar a un mismo deudor. Dicho margen se determinará a su vez, sobre la base del patrimonio efectivo de la casa matriz, sin deducir el capital asignado a las referidas sucursales.
 
 IV.- FILIALES EN EL EXTERIOR.
 
@@ -15884,21 +15860,13 @@ La Ley N° 18.046 define como sociedad filial de una sociedad anónima aquélla 
 
 Las filiales a que se refiere este título deben cumplir esas condiciones, pudiendo constituirse una sociedad con ese objeto o bien adquirir tal control en una empresa que ya se encuentre en funcionamiento.
 
-3.- Límites de créditos otorgados por las filiales bancarias.
+3.- Operaciones de crédito, depósitos y otras acreencias.
 
-El N° 4 del artículo 80 de la Ley General de Bancos, mencionado en la letra d) del N° 3 del título II de este Capítulo, obliga a los bancos a obtener los resguardos necesarios para que los créditos o garantías que otorguen las sociedades en que participan en el exterior, se sujeten a los límites establecidos por dicha ley.
-
-Para dar cumplimiento a esta disposición, el banco matriz deberá fijar las políticas y procedimientos para su filial en el exterior y mantener un adecuado control a fin de que:
-
-a) Los créditos que otorgue la filial a deudores relacionados directamente o a través de otras personas a la propiedad o gestión de su matriz, queden sujetos a las limitaciones señaladas en el artículo 84 N° 2 de la Ley General de Bancos y en el Capítulo 12-4 de esta Recopilación. Lo anterior es sin perjuicio del límite establecido en el N° 2 del artículo 80 de esa ley y que se menciona en la letra a), del N° 3 del titulo II de este Capítulo cuando se trate de créditos otorgados a otras entidades en el exterior en las cuales participe su matriz. Para la aplicación de las disposiciones del artículo 84 N° 2, la matriz y sus sucursales en el exterior quedarán incluidas dentro del mismo grupo a que se refiere el numeral 4.3 del título II de este Capítulo.
-
-b) Cualquier crédito que la filial otorgue a una persona domiciliada o residente en Chile, incluidos los otorgados a su matriz, se encuadre en las reglas de los artículos 84 N° 1 y 85 de la Ley General de Bancos y del Capítulo 12-3 de esta Recopilación.
-
-Dichas reglas deberán aplicarse considerando la relación entre los referidos créditos otorgados por la filial y el patrimonio efectivo de ésta.
+Además de cumplir con las normas del país anfitrión, las filiales en el exterior deben sujetar sus operaciones a lo establecido por su matriz para dar cumplimiento a lo indicado en las letras a) y b) del N° 3 del título II de este Capítulo.
 
 4.- Patrimonio efectivo de una filial.
 
-Para efectos de los límites de que trata el N° 3 precedente, como asimismo para el cumplimiento de lo establecido en el N° 2 del artículo 80 de la Ley General de Bancos, el patrimonio efectivo de la filial corresponderá al que se determina de acuerdo con los balances señalados en el N° 5 siguiente.
+Para cumplir con lo establecido en el N° 2 del artículo 80 de la Ley General de Bancos, el patrimonio efectivo de una filial bancaria corresponderá al que se determina de acuerdo con los balances señalados en el N° 5 siguiente.
 
 5.- Estados financieros preparados de acuerdo con las normas chilenas.
 
@@ -15992,8 +15960,6 @@ Al tratarse de inversiones en una filial, el valor patrimonial proporcional corr
 
 a) Valor pagado mayor que el VPP ("Goodwill"): Cuando el valor pagado sea mayor que el valor patrimonial proporcional, la diferencia se registrará en la cuenta "Mayor valor pagado en inversiones en sociedades" de la partida 2120 y se amortizará en el período esperado de retorno de la inversión, con cargo a la cuenta "Amortización mayor valor pagado en inversiones en sociedades" de la partida 6315, en cuotas mensuales iguales y consecutivas, corregidas monetariamente. En todo caso, ese período de amortización no podrá exceder de 10 años.
 
-El saldo no amortizado de la cuenta "Mayor valor pagado en inversiones en sociedades" se considerará como parte de la inversión para los efectos señalados en los Capítulos 12-1 y 12-10 de esta Recopilación, esto es, para la determinación del patrimonio efectivo, la ponderación de activos por riesgo y el cumplimiento del límite general de inversiones, como asimismo para el cumplimiento del límite establecido en el N° 1 del artículo 80 de la Ley General de Bancos, mencionado en el numeral 2.2 del título II del presente Capítulo.
-
 b) Valor pagado menor que el VPP: Si al invertir en una sociedad coligada, el valor pagado fuere menor que el valor patrimonial proporcional, la diferencia se abonará a la cuenta "Menor valor pagado en inversiones en sociedades" de la partida 4120 y se amortizará con abono a la cuenta "Amortización menor valor pagado en inversiones en sociedades", de la partida 8315, en un plazo de diez años, en cuotas mensuales iguales y consecutivas, corregidas monetariamente. No obstante, si la inversión en la respectiva sociedad origina pérdidas en un ejercicio, el monto que se traspase a resultados podrá ser equivalente a esas pérdidas.
 
 El saldo de las cuentas "Mayor valor pagado en inversiones en sociedades" y "Menor valor pagado en inversiones en sociedades" antes señaladas, deberá ajustarse proporcionalmente en caso de enajenaciones parciales o cambios en los porcentajes de participación en las sociedades por cuya inversión se originaron.
@@ -16010,10 +15976,6 @@ Las provisiones de que se trata se abonarán a la cuenta "Provisiones sobre inve
 
 De acuerdo con las normas de los números precedentes, las inversiones en sucursales y en sociedades en el exterior deben registrarse en el activo en moneda chilena. La conversión a pesos moneda chilena de los recursos invertidos o recibidos se contabilizará en la cuenta "Conversión posición de cambios.
 
-4.- Cuenta de orden para reflejar el capital asignado a sucursales en el exterior.
-
-Para fines de información a esta Superintendencia, las instituciones financieras que mantengan sucursales en el exterior, deberán incluir el importe del capital asignado a ellas en la cuenta "Capital asignado a sucursales en el exterior", de la partida 9700.
-
 VII.- OTRAS ACCIONES O DERECHOS EN SOCIEDADES QUE PUEDEN MANTENER LAS INSTITUCIONES FINANCIERAS.
 
 1.- Tenencia transitoria de acciones o derechos en sociedades.
@@ -16027,58 +15989,6 @@ Los bancos también pueden poseer las acciones o derechos que sean necesarios pa
 3.- Alcance de estas disposiciones.
 
 Los bancos y las sociedades financieras, no podrán adquirir para sí acciones o derechos en sociedades en el exterior que no se ajusten a lo indicado en los títulos anteriores y en los números precedentes. Sin embargo, eso no es óbice para que los bancos, en sus operaciones de custodia o de comisiones de confianza, registren a su nombre, cuando así se lo soliciten los respectivos compradores, las acciones adquiridas por orden y cuenta de terceros. Naturalmente que en estos casos, el banco debe tener en su poder los documentos que acrediten el mandato correspondiente, en el que exista constancia de que los títulos de las acciones adquiridas deben quedar a nombre de la institución mandataria. Esto no se aplica a las sociedades financieras, por cuanto el artículo 116 de la Ley General de Bancos les prohíbe actuar como mandatarias a nombre propio.
-
-VIII.- INFORMACION CONSOLIDADA PARA EFECTOS DEL PROCEDIMIENTO ESPECIAL DE AUTORIZACION.
-
-Para acceder al procedimiento especial de autorización tratado en el numeral 3.2 del título I de este Capítulo, las instituciones financieras deberán atenerse a las siguientes instrucciones, en lo que se refiere al cumplimiento de la exigencia de patrimonio efectivo mínimo en relación con los activos ponderados por riesgo determinados en forma consolidada:
-
-1.- Criterios de consolidación.
-
-La consolidación se efectuará sobre la base de los criterios contables referidos a estados financieros consolidados descritos en los Boletines Técnicos N°s. 42 y 64 del Colegio de Contadores de Chile A.G., incluyendo a la matriz con sus sucursales y filiales del país y del exterior. Se excluyen de la consolidación, en consecuencia, las inversiones en otras sociedades que no sean filiales.
-
-Los activos y pasivos que integrarán los estados financieros consolidados se ajustarán a los criterios establecidos en el Capítulo 18-1 para la publicación de estados financieros.
-
-Las provisiones por Riesgo-País constituidas por los créditos intercompañías que se eliminen, se incluirán en el pasivo como una provisión genérica no computable como patrimonio.
-
-2.- Activos consolidados.
-
-Para determinar los activos ponderables a partir de los activos del balance consolidado, se seguirán los criterios señalados en el título II del Capítulo 12-1 de esta Recopilación, esto es:
-
-a) Se excluirán del activo los importes correspondientes a las inversiones en las sociedades no consolidadas, como asimismo el saldo no amortizado del mayor valor pagado en inversiones en esas sociedades. Esto incluye tanto las inversiones de la matriz como las inversiones en sociedades que mantengan las demás entidades que se consolidan. No obstante, el mayor valor pagado en inversiones en sociedades que se consolidan, formará parte del activo consolidado para los efectos del procedimiento especial de autorización de que trata este título.
-
-b) Se remplazará el activo neto que refleja las operaciones con instrumentos derivados, por sus respectivos equivalentes de crédito según las normas del Capítulo 12-1 antes mencionado, previa anulación de las operaciones entre las entidades que se consolidan, si fuere el caso.
-
-La ponderación por riesgo de los activos consolidados se efectuará estrictamente según las instrucciones del título II del Capítulo 12-1, con prescindencia del país en que esté radicada una sucursal o una filial.
-
-Las operaciones de leasing para vivienda de una filial se incluirán en categoría 4.
-
-Los activos ponderados incluirán, cuando corresponda, los ajustes por las utilidades no realizadas.
-
-El mayor valor pagado en inversiones en sociedades que se consolidan, que para los efectos tratados en este título VIII se incluyen en el activo, debe clasificarse en categoría 5.
-
-3.- Patrimonio efectivo consolidado.
-
-El patrimonio efectivo consolidado comprenderá el interés minoritario y el capital pagado y reservas, más la provisión voluntaria y los bonos subordinados computados por la matriz, y menos los siguientes importes:
-
-a) El valor contable de las inversiones en sociedades que no se consolidan y el saldo del mayor valor en inversiones en esas sociedades.
-
-b) Los importes correspondientes a inversiones en sociedades que mantengan las filiales o sucursales consolidadas, incluido el mayor valor pagado en esas inversiones.
-
-4.- Antecedentes que entregará la institución financiera para la autorización especial.
-
-4.1.- Para obtener la autorización.
-
-a) Balance consolidado de la matriz con sus sucursales y filiales, preparado de acuerdo con las instrucciones del Capítulo 18-1 de esta Recopilación Actualizada de Normas y referido al cierre del mes anterior al de su presentación.
-
-b) Estado pormenorizado de la composición de los activos clasificados por riesgo, que entregue información acerca de los activos y la entidad que los mantiene. El grado de detalle de este estado debe alcanzar, al menos, los conceptos señalados en los literales del N° 2 del título II del Capítulo 12-1, debiendo mantenerse a disposición de esta Superintendencia todos los antecedentes de respaldo de las agrupaciones.
-
-c) Dictamen de una firma de auditores externos inscrita en el Registro de esta Superintendencia, sobre los estados financieros mencionados en la letra a).
-
-d) Opinión de los mismos auditores externos, relativa a la correcta clasificación de acuerdo con las normas, de los activos que se presentan en el Estado mencionado en la letra b).
-
-4.2.- Información posterior a la autorización.
-
-Para el control de lo dispuesto en el artículo 119 de la Ley General de Bancos, las instituciones financieras deberán remitir a esta Superintendencia los antecedentes señalados en las letras a) y b) del numeral 4.1 precedente, referidos al último día de cada trimestre calendario que concluya después de la fecha de la autorización. La información se entregará en el curso del mes siguiente, salvo cuando se trate del ejercicio anual, en cuyo caso dichas exigencias se suplen por la entrega, dentro del plazo previsto en el Capítulo 18-1, del balance consolidado de publicación que será utilizado para estos efectos.
 
 ANEXO N°1
 
@@ -16152,45 +16062,59 @@ PATRIMONIO PARA EFECTOS LEGALES Y REGLAMENTARIOS.
 
 I.- CAPITAL BASICO. PATRIMONIO EFECTIVO Y LIMITES LEGALES Y REGLAMENTARIOS.
 
-1.- Capital básico.
+1.- Situación consolidada de la institución financiera con sus sucursales y sociedades filiales.
 
-El "capital básico" o capital pagado y reservas comprende el capital pagado, las reservas y las demás cuentas patrimoniales que, conforme a las instrucciones contables de esta Superintendencia, deben incluirse en las partidas 4305 a 4405.
+Las normas relativas al capital básico y patrimonio efectivo a que se refiere el artículo 66 de la Ley General de Bancos, se cumplirán considerando los activos consolidados de la institución financiera con a) sus filiales en el país, con excepción de las sociedades de apoyo al giro constituidas al amparo del artículo 74 de la Ley General de Bancos, y, b) sus sucursales o filiales establecidas en países clasificados en primera categoría de riesgo,según lo indicado en el Capítulo 1-12 de esta Recopilación, por alguna de las empresas clasificadoras internacionales que allí se mencionan.
 
-Para los efectos de la aplicación de los márgenes referidos al capital pagado y reservas, mencionados en el numeral 5.1 de este título, se deducirá el capital asignado a las sucursales en el exterior, señalado en la letra a) del numeral 2.1 de este título.
+Los criterios de consolidación para estos efectos serán los mismos que deben utilizarse para la preparación de los estados financieros consolidados a que se refiere el Capítulo 18-1 de esta Recopilación, con la diferencia de que se considerarán solo las entidades que se indican en el párrafo precedente.
 
-2.- Patrimonio efectivo.
+También se tomarán los activos consolidados de la institución financiera con las filiales y sucursales que participan en la consolidación, cuando se trate de los límites de crédito establecidos en los N°s 1, 2 y 4 del artículo 84 de la Ley General de Bancos y tratados en los Capítulos 12-3, 12-4 y 12-5 de esta Recopilación.
 
-De acuerdo con el artículo 66 de la Ley General de Bancos, se entiende por "patrimonio efectivo" el capital pagado y reservas, con las deducciones y agregados que se indican a continuación:
+Para los demás límites a que se refiere la Ley General de Bancos, deben computarse solamente las operaciones de la institución financiera, considerando el capital básico o el patrimonio efectivo, según corresponda, determinados también en la forma que se establece en este Capítulo, salvo que se trate del límite a que se refiere el N° 1 del artículo 80, en que se considerará el patrimonio efectivo sin consolidar.
 
-2.1.- Importes que se deducen.
+2.- Capital básico.
 
-a) El capital asignado a sucursales en el exterior, según lo establecido en el N° 1 del artículo 81 de la Ley General de Bancos, tratado en el título III del Capítulo 11-7 de esta Recopilación.
+El "capital básico" corresponde al capital pagado y reservas de la institución financiera, esto es, a la suma del capital pagado, las reservas y las demás cuentas patrimoniales que, conforme a las instrucciones de esta Superintendencia, deben incluirse como patrimonio neto en los estados financieros, con excepción de la utilidad o pérdida del período o ejercicio en curso.
 
-b) Las inversiones en sociedades, según lo establecido en el último inciso del artículo 66 de la Ley General de Bancos. La rebaja incluirá los saldos registrados en el activo por las inversiones permanentes en sociedades en el país y en el exterior, de acuerdo con lo establecido en los Capítulos 11-6 y 11-7 de esta Recopilación, respectivamente. No obstante, para este efecto se excluirán las variaciones de las inversiones correspondientes a los resultados registrados en el ejercicio por la aplicación del método del VPP y por la amortización del mayor valor pagado en inversiones en sociedades, que se reflejan en las partidas 8350, 6350 y 6315 de acuerdo con las instrucciones de esos capítulos.
+Para la aplicación del artículo 66 de la Ley General de Bancos, que exige un capital básico no inferior al 3% del activo total neto de provisiones exigidas, el monto de dicho activo se determinará de acuerdo con lo indicado en el N° 1 del título II de este Capítulo, debiendo considerarse los activos consolidados de la institución financiera con sus filiales y sucursales.
 
-2.2.- Importes que se agregan.
+El capital básico antes definido se aplicará para todos los límites establecidos en la Ley General de Bancos que se refieren al capital básico o capital pagado y reservas.
 
-a) Bonos subordinados colocados, hasta concurrencia de un 50% del capital básico. El valor de estos bonos computable como patrimonio efectivo, disminuirá en un 20% por cada año que transcurra a contar de la fecha en que falten seis años para su vencimiento. Para este efecto las instituciones financieras se atendrán a lo indicado en el Capítulo 9-6 de esta Recopilación.
+3.- Patrimonio efectivo.
 
-b) Provisiones voluntarias constituidas de acuerdo con lo previsto en el N° 4 de este título, hasta concurrencia del 1,25% de los activos ponderados por riesgo a que se refiere el título II de este Capítulo.
+3.1.- Determinación del patrimonio efectivo.
 
-3.- Exigencias de capital.
+3.1.1.- Agregados y deducciones al capital básico.
 
-Sin perjuicio de lo dispuesto en los artículos 50 y 114 de la Ley General de Bancos, que establecen un capital pagado y reservas mínimo de 800.000 y 400.000 Unidades de Fomento, respectivamente, según se trate de bancos o sociedades financieras, las instituciones están sujetas a las siguientes exigencias de patrimonio mínimo de acuerdo a lo señalado en el artículo 66 de la misma ley:
+El patrimonio efectivo será igual al capital básico antes mencionado, con los agregados y deducciones que se indican a continuación:
 
-3.1.- Capital básico mínimo.
+a) Se agregan los bonos subordinados emitidos por la institución financiera que se computan como patrimonio efectivo, de acuerdo con lo indicado en el Capítulo 9-6 de esta Recopilación.
 
-El capital básico de una institución financiera no podrá ser inferior al 3% de los activos totales, netos de las provisiones exigidas. Para este efecto, los activos totales se determinarán según lo previsto en el título II de este Capítulo.
+b) Se agregan las provisiones voluntarias constituidas por la institución financiera de acuerdo con lo previsto en el N° 4 de este título, hasta concurrencia del 1,25% de los activos ponderados por riesgo de que trata el N° 2 del título II de este Capítulo.
 
-3.2.- Patrimonio efectivo mínimo.
+c) Se deduce el saldo de los activos que correspondan a un "goodwill", cualquiera sea su origen, esto es, tanto los que provengan de inversiones en sociedades o de una fusión por compra, como los que se originen por combinaciones de negocios.
 
-El patrimonio efectivo de un banco no podrá ser inferior al 8% de sus activos ponderados por riesgo. Para este efecto los activos deben considerarse netos de sus respectivas provisiones y con las ponderaciones de que trata el título II de este Capítulo.
+d) Se deducen los saldos de los activos que correspondan a inversiones en filiales o sucursales en el exterior que no participen en la consolidación.
 
-3.3.- Insuficiencia de patrimonio.
+e) Cuando los activos por inversiones minoritarias en sociedades distintas de empresas de apoyo al giro representen un porcentaje importante del capital básico, se efectuará también la deducción que corresponda según lo dispuesto en el numeral 3.1.2 siguiente.
 
-Las instituciones financieras que no dieren cumplimiento a las exigencias de capital básico y patrimonio efectivo señaladas en los numerales 3.1 y 3.2 precedentes, deberán encuadrarse en ellas dentro de un plazo de sesenta días, contado desde la fecha en que se produjo el incumplimiento, sin perjuicio de incurrir en una multa del uno por mil sobre el déficit de patrimonio efectivo o capital básico, según corresponda, por cada día que lo mantenga.
+Los activos a que se refieren las letras precedentes serán los activos consolidados a que se refiere el N° 1 de este título. Al respecto debe tenerse presente que el interés minoritario que se origina en esa consolidación no se computa como patrimonio efectivo.
 
-Esas insuficiencias patrimoniales pueden dar origen además, según su magnitud, a las presunciones legales de que tratan los artículos 118 y 122 de la Ley General de Bancos.
+3.1.2.- Tratamiento de inversiones minoritarias en sociedades.
+
+Para establecer la magnitud de los activos correspondientes a inversiones en sociedades que pueden dar origen a una deducción, se sumarán los correspondientes a las inversiones minoritarias en sociedades distintas de las empresas de apoyo al giro.
+
+Si esa suma supera el equivalente al 5% del capital básico, se estará en la situación prevista en la letra e) del numeral precedente, caso en el cual la deducción corresponderá a la cantidad en que aquella suma exceda ese 5%.
+
+3.1.3.- Inversiones en sociedades que se ponderan en categoría 5.
+
+En concordancia con lo anterior, se clasificarán en categoría 5 para los efectos de la ponderación por riesgo de que trata el N° 2 del título II de este Capítulo, los activos que correspondan a inversiones en sociedades de apoyo al giro, cualquiera sea la participación que se tenga en ellas, como asimismo el monto de las inversiones minoritarias en otras sociedades que no exceda el 5% del capital básico, de acuerdo con lo indicado en el numeral 3.1.2 precedente.
+
+3.2.- Aplicación del patrimonio efectivo.
+
+Para los efectos del artículo 66 de la Ley General de Bancos, que exige un patrimonio efectivo no inferior al 8% de los activos ponderados por riesgo, como asimismo para las demás disposiciones que se refieren a la relación porcentual entre patrimonio efectivo y activos ponderados, los activos se clasificarán de acuerdo con lo indicado en el N° 2 del título II de este Capítulo, debiendo considerarse los activos consolidados de la institución financiera con sus filiales y sucursales, cuando corresponda, según lo previsto en el N° 1 de este título.
+
+El patrimonio efectivo antes definido se aplicará para todos los límites establecidos en la Ley General de Bancos que se refieren a ese concepto, con excepción del límite tratado en el N° 1 de su artículo 80, debiendo considerarse los activos consolidados cuando se trate de los márgenes de crédito a que se refieren los N°s 1, 2 y 4 de su artículo 84.
 
 4.- Provisiones voluntarias.
 
@@ -16198,41 +16122,13 @@ Constituyen "provisiones voluntarias", de acuerdo con el artículo 66 de la Ley 
 
 A ese respecto, las disposiciones de este Organismo exigen expresamente la constitución de provisiones para la mayoría de los activos y, por otra parte, ordenan aplicar criterios de general aceptación en todo aquello que no ha sido objeto de instrucciones específicas.
 
-El hecho de que esta Superintendencia establezca provisiones mínimas para los principales activos no es óbice para constituir provisiones superiores a esas mínimas exigidas. Por el contrario, si en algún momento la administración estima insuficientes las coberturas que se determinan mediante las metodologías de aplicación general dispuestas por este Organismo, la institución debe constituir mayores provisiones para obtener el resguardo que estime prudente frente a las circunstancias, como asimismo, constituir las demás provisiones que sean necesarias de acuerdo con criterios contables de aceptación general. Estas mayores provisiones sobre los activos deben también ser rebajadas de ellos para la medición del cumplimiento de las exigencias de capital básico y patrimonio efectivo mínimos de que tratan los numerales 3.1 y 3.2 de este título.
-
-Debe entenderse entonces que, para los efectos del artículo 66 de la Ley General de Bancos, tienen el carácter de provisiones voluntarias aquellas que no han sido establecidas obligatoriamente por esta Superintendencia y que no correspondan a una finalidad específica y concordante con criterios contables de aceptación general, esto es, aquellas que no están destinadas a cubrir riesgos o contingencias que pudieran estar presentes en los activos, ni corresponden a determinadas obligaciones de pago reales o contingentes.
+Debe entenderse entonces que, para los efectos del cálculo del patrimonio efectivo a que se refiere el artículo 66 de la Ley General de Bancos, tienen el carácter de provisiones voluntarias aquellas que no están destinadas a cubrir riesgos o contingencias que pudieran estar presentes en los activos, ni correspondan a obligaciones de pago reales o contingentes.
 
 Con ese carácter de resguardos genéricos frente a eventuales pérdidas futuras o incertidumbre propias de la industria bancaria, las provisiones voluntarias constituidas pueden considerarse como representativas de patrimonio, permitiendo la ley computarlas como patrimonio efectivo hasta un 1,25% de los activos ponderados por riesgo.
 
 Desde el momento en que las provisiones voluntarias se computen como patrimonio efectivo, las instituciones financieras quedan impedidas de disminuirlas, si con ello infringen la respectiva proporción establecida en el artículo 66 de la Ley General de Bancos o los demás márgenes o límites legales y reglamentarios establecidos sobre la base del patrimonio efectivo.
 
-5. - Límites o márgenes a los que se aplica el capital pagado y reservas o el patrimonio efectivo.
-
-5.1.- Capital pagado y reservas.
-
-El capital pagado y reservas, con la correspondiente deducción del capital asignado a sucursales del exterior, debe aplicarse para los siguientes límites señalados en la Ley General de Bancos:
-
-a) Límite de inversiones dispuesto en el inciso segundo del artículo 69 de la Ley General de Bancos, tratado en el Capítulo 12-10 de esta Recopilación.
-
-b) Límite relativo a la obligación de constituir reserva técnica, establecido en el artículo 65 de la Ley General de Bancos, tratado en el Capítulo 4-2 de esta Recopilación.
-
-c) Límite de tenencia transitoria de acciones de primera emisión, adquiridas en virtud de la garantía otorgada como agente colocador, establecido en el artículo 69 N° 25 de la Ley General de Bancos.
-
-5.2.- Patrimonio efectivo.
-
-El patrimonio efectivo se utilizará para los límites legales que a continuación se indican:
-
-a) Límites de crédito de que tratan los N°s. 1, 2 y 4 del artículo 84 de la Ley General de Bancos y los Capítulos 12-3, 12-4 y 12-5 de esta Recopilación Actualizada de Normas.
-
-b) Límite a que se refiere la letra a) del N° 5 del artículo 84 de la Ley General de Bancos, sobre bienes recibidos en pago, materia de que trata el Capítulo 10-1 de esta Recopilación.
-
-c) Límite establecido en el N° 1 del artículo 80 de la Ley General de Bancos, relativo a inversiones en sucursales y sociedades en el exterior.
-
-d) Límite establecido para las instituciones acreedoras de los créditos especiales de que trata el artículo 140 de la Ley General de Bancos.
-
-e) Límites de avales y fianzas en moneda chilena establecidos por esta Superintendencia, tratados en el Capítulo 8-10 de esta Recopilación.
-
-6.- Reparto de dividendos o remesas de utilidades.
+5.- Reparto de dividendos o remesas de utilidades.
 
 Conforme lo establece el inciso tercero del artículo 56 de la Ley General de Bancos, está vedado a las instituciones financieras repartir dividendos con cargo a utilidades del ejercicio o a fondos de reserva si, por efecto de ese reparto, se transgrede alguna de las proporciones que fija el artículo 66 o los márgenes de crédito señalados en el artículo 84 de la misma ley. La única excepción que se contempla en cuanto a que una institución financiera pueda disminuir su patrimonio efectivo, excediendo las proporciones o márgenes antedichos, ocurre cuando se trata de repartos de dividendos obligatorios fijados por la ley.
 
@@ -16242,21 +16138,17 @@ Si bien las agencias de bancos extranjeros no reparten dividendos, dichas instit
 
 II.- ACTIVOS PONDERADOS POR RIESGO Y ACTIVOS TOTALES.
 
-1.- Determinación de los activos que se computan y ponderan.
+1.- Activo total.
 
-Para determinar el activo total en relación con la exigencia de capital básico a partir de los saldos que deben incluirse en el sistema de información de esta Superintendencia (archivo C01) , se tomará la suma de los montos que se informan en las partidas de "activos y saldos deudores" (1005 a 2525), efectuando las deducciones y agregados que se indican a continuación:
+El activo total corresponderá a los activos consolidados de la institución financiera con sus filiales y sucursales que participan en la consolidación según lo indicado en el N° 1 del título I de este Capítulo, con las deducciones o agregados que se indican a continuación:
 
-A) Se deducen: los importes de la partida 2127 "Operaciones a futuro" y la cuenta "Contratos a futuro" de la partida 2525, debido a que incluyen valores nominales de control de derivados financieros, los que deberán computarse por su equivalente de crédito según lo indicado en la letra E).
+a) Se deducen los saldos correspondientes a operaciones con instrumentos derivados, agregándose, en su reemplazo, sus equivalentes de crédito según lo instruido en el N° 3 de este título.
 
-B) Se deducen: el importe de la partida 2105 "Saldos con sucursales en el país"; los montos de las partidas 2505 a 2525, correspondientes a cuentas de ajuste y control; y, el saldo de la cuenta "Pagos provisionales mensuales (PPM)" de la partida 2120, a fin de incorporar, cuando corresponda, los saldos netos identificables como activos en un balance, según lo indicado en la letra D). Además, se deduce, con su respectivo ajuste a valor de mercado, el importe de las letras de crédito de propia emisión que mantenga la institución.
+b) Se agregan los créditos contingentes que tuvieren las sucursales y filiales que participan en la consolidación y que no se incluyen en el consolidado por aplicación de las reglas del Capítulo 18-1.
 
-C) Se deducen: los montos de las siguientes partidas que en el sistema de información se incluyen bajo "pasivos y saldos acreedores", por tratarse de provisiones constituidas sobre los activos: 4205 "Provisiones sobre colocaciones"; 4207 "Provisiones para créditos hipotecarios para vivienda"; 4210 "Provisiones sobre inversiones"; 4220 "Provisiones por bienes recibidos en pago"; y, 4241 "Provisiones por riesgo-país".
+Al tratarse de instituciones financieras que no tengan filiales ni sucursales en el exterior que participen en la consolidación, el activo total corresponderá al del balance individual a que se refiere el Capítulo 18-1, con la exclusión y agregado indicado en letra a).
 
-D) Se agregan: los siguientes importes netos cuando los saldos deudores sean mayores que los saldos acreedores asociados: la diferencia entre las partidas 2105 y 4105,
-
-"Saldos con sucursales en el país"; la diferencia entre las cuentas de ajuste y control de las partidas 2505 a 2525 y 4505 a 4525, con excepción de las cuentas "Contratos a futuro"; y, la diferencia entre la cuenta "Pagos provisionales mensuales (PPM)" de la partida 2120 y la cuenta "Provisión para impuesto a la renta" de la partida 4120.
-
-E) Se agregan: los importes correspondientes al equivalente de crédito de los instrumentos derivados, según el procedimiento de cálculo señalado en el N° 3 de este título.
+Para los efectos de los requerimientos de capital, los activos se ponderarán por riesgo según lo indicado en el N° 2 siguiente.
 
 2.- Clasificación de los activos por categorías.
 
@@ -16286,17 +16178,15 @@ b) Fondos depositados a la vista en instituciones financieras regidas por la Ley
 
 c) Instrumentos financieros emitidos o garantizados por el Banco Central de Chile.
 
-d) Los activos correspondientes a las inversiones en sociedades y sucursales en el exterior, que se deducen de acuerdo con el artículo 66.
-
 2.2.- Categoría 2.
 
-a) Instrumentos financieros emitidos o garantizados por el Fisco de Chile. Se entienden comprendidos dentro de ellos los impuestos netos por cobrar y que, para efectos de su cómputo, comprenderá todos los saldos que deben incluirse en las cuentas de la partida 2115 que se indican en los N°s 1 y 2 del título VI del Capítulo 7-5 de esta Recopilación.
+a) Instrumentos financieros emitidos o garantizados por el Fisco de Chile. Se entienden comprendidos dentro de ellos los impuestos netos por cobrar y que, para efectos de su cómputo, comprenderá todos los saldos que deben incluirse en las cuentas de la partida 2115 que se indican en los N°s 1 y 2 del título VI del Capítulo 7-5 de esta Recopilación. El mismo criterio debe seguirse para considerar los impuestos diferidos de las filiales.
 
 b) Instrumentos financieros en moneda de su país de origen, emitidos o garantizados por Estados o bancos centrales de países extranjeros, siempre que los instrumentos en esas monedas estén calificados en primera categoría de riesgo por una empresa calificadora internacional, incluida en la nómina del Capítulo 1-12 de esta Recopilación Actualizada de Normas.
 
 2.3.- Categoría 3.
 
-a) Créditos contra otras instituciones financieras regidas por la Ley General de Bancos. Incluye préstamos interbancarios, operaciones con pacto de retroventa, inversiones en letras de crédito o en bonos, depósitos a plazo y cualquier otro crédito contra bancos o sociedades financieras constituidos en Chile o sucursales de bancos extranjeros que operen en el país*, incluidos los saldos registrados en la cuenta "Divisas adquiridas pendientes de transferencia", de la partida 2115.
+a) Créditos contra otras instituciones financieras regidas por la Ley General de Bancos. Incluye préstamos interbancarios, operaciones con pacto de retroventa, inversiones en letras de crédito o en bonos, depósitos a plazo y cualquier otro crédito contra bancos o sociedades financieras constituidos en Chile o sucursales de bancos extranjeros que operen en el país, incluidos los saldos registrados en la cuenta "Divisas adquiridas pendientes de transferencia", de la partida 2115.
 
 b) Depósitos a plazo constituidos en bancos del exterior, con vencimiento no superior a 180 días a contar de la fecha del cómputo, clasificados en una categoría de riesgo no inferior a A-, por una empresa clasificadora internacional que figure en la nómina que se incluye en el Capítulo 1-12 de esta Recopilación.
 
@@ -16306,15 +16196,15 @@ c) La ley también incluye en esta categoría las "cartas de crédito irrevocabl
 
 a) Préstamos con garantía hipotecaria para vivienda, otorgados al adquiriente final de tales inmuebles. Incluye los créditos vigentes y en cartera vencida, definidos como créditos hipotecarios para vivienda en el Capítulo 8-28 de esta Recopilación.
 
-b) Contratos de leasing de vivienda, en los términos señalados en el Capítulo 8-37 de esta Recopilación, esto es, los contratos que recaigan sobre una vivienda y que se celebren directamente con el usuario final.
+b) Contratos de leasing de vivienda, en los términos señalados en el Capítulo 8-37 de esta Recopilación o en la Circular N° 18 dirigida a las sociedades filiales, esto es, los contratos que recaigan sobre una vivienda y que se celebren directamente con el usuario final.
 
-c) Créditos contingentes que, de acuerdo con las instrucciones de esta Superintendencia, deben incluirse en las partidas 1605, 1610, 1615, 1620, 1655 y 1660. Incluye, en consecuencia, las colocaciones contingentes que corresponden a: emisión de boletas de garantía, otorgamiento de avales y fianzas, emisión de cartas de crédito y confirmaciones de cartas de crédito. Las confirmaciones de cartas de crédito que cumplan las condiciones indicadas en la letra b) del numeral 2.3 precedente, se incluirán en categoría 3.
+c) Créditos contingentes que, de acuerdo con las instrucciones de esta Superintendencia, deben incluirse en las partidas 1605, 1610, 1615, 1620, 1655 y 1660. Incluye, en consecuencia, las colocaciones contingentes que corresponden a: emisión de boletas de garantía, otorgamiento de avales y fianzas, emisión de cartas de crédito y confirmaciones de cartas de crédito. Las confirmaciones de cartas de crédito que cumplan las condiciones indicadas en la letra b) del numeral 2.3 precedente, se incluirán en categoría 3. Los mismos conceptos se aplican para los créditos contingentes de las sucursales y filiales que consolidan.
 
 d) Depósitos a plazo constituidos en bancos del exterior, con vencimiento a más de 180 días a contar de la fecha del cómputo, clasificados en una categoría de riesgo no inferior a A-, por una empresa clasificadora internacional que figure en la nómina que se incluye en el Capítulo 1-12 de esta Recopilación.
 
 2.5.- Categoría 5.
 
-En esta categoría deben computarse todos los demás activos no incluidos en las categorías anteriores. El importe clasificado en esta categoría corresponderá, en consecuencia, al activo total determinado según lo señalado en el N° 1 de este título, menos los importes de los activos netos clasificados en las categorías anteriores.
+En esta categoría deben computarse todos los demás activos no incluidos en las categorías anteriores. El importe clasificado en esta categoría corresponderá, en consecuencia, al activo total a que se refiere el N° 1 de este título II, menos los montos del activo que deben deducirse para determinar el patrimonio efectivo según lo previsto en las letras c), d) y e) del numeral 3.1.1 del título I de este Capítulo y menos los importes de los activos clasificados en las categorías anteriores.
 
 3.- Equivalente de crédito de los instrumentos derivados.
 
@@ -16476,9 +16366,11 @@ Este límite de un 30% del patrimonio efectivo debe entenderse referido al conju
 
 Los límites señalados en los números precedentes son sin perjuicio de las mayores limitaciones que pudieren derivarse de la aplicación de los márgenes de crédito a personas relacionadas directa o indirectamente a la propiedad o gestión del banco o sociedad financiera y a trabajadores de la empresa, según se dispone en los N°s. 2 y 4 del artículo 84 de la Ley General de Bancos.
 
-6.- Sucursales y filiales bancarias en el exterior.
+6.- Créditos otorgados por las sucursales y filiales de la institución financiera o que se concedan a esas entidades.
 
-En el caso de las sucursales y filiales bancarias en el exterior, se aplicarán las reglas del artículo 84 de la Ley General de Bancos de acuerdo con lo previsto en el Capítulo 11-7 de esta Recopilación Actualizada de Normas.
+El límite de crédito de que trata el N° 1 del artículo 84 de la Ley General de Bancos y el presente Capítulo, debe cumplirse considerando las operaciones consolidadas de la institución financiera con sus filiales en el país, con excepción de las empresas de apoyo al giro constituidas al amparo del artículo 74 de la Ley, y con sus sucursales y filiales establecidas en países clasificados en primera categoría de riesgo por alguna de las empresas clasificadoras internacionales mencionadas en el Capítulo 1-12 de esta Recopilación.
+
+Por consiguiente, por una parte deben computarse también los créditos que otorguen esas filiales y sucursales y, por otra, no quedan afectos a este límite los créditos que se otorguen entre sí las distintas entidades que participan en esa consolidación.
 
 ### II. CREDITOS AFECTOS A LOS LIMITES DEL ARTICULO 84 N° 1 DE LA LEY GENERAL DE
 
@@ -17168,7 +17060,7 @@ Con respecto a las personas para las cuales se presume relación, la Superintend
 
 3. Relaciones que se originan por la participación o la adquisición de acciones o derechos en otras sociedades.
 
-Constituyen empresas relacionadas a una institución financiera las sociedades filiales, de apoyo al giro y coligadas a que se refieren los títulos II, III y IV del Capítulo 11-6 de esta Recopilación, al igual que las empresas filiales y demás sociedades establecidas en el exterior de que tratan los títulos IV y y del Capítulo 11-7. Todas estas sociedades conformarán un solo grupo para los efectos de las limitaciones que se establecen en el artículo 84 N°2 de la Ley General de Bancos.
+Constituyen empresas relacionadas a una institución financiera las sociedades filiales, de apoyo al giro y coligadas a que se refieren los títulos II, III y IV del Capítulo 11-6 de esta Recopilación, al igual que las empresas filiales y demás sociedades establecidas en el exterior de que tratan los títulos IV y y del Capítulo 11-7. No obstante, para el cumplimiento de los límites de crédito del artículo 84 N° 2 de la Ley General de Bancos, las entidades que consolidan con la institución financiera de acuerdo con lo indicado en el Capítulo 12-1 de esta Recopilación, no se consideran en el cómputo de las deudas, puesto que deben tomarse las operaciones consolidadas Las demás sociedades en que participa la institución financiera, como asimismo aquellas en que participan sus filiales, si fuere el caso, conformarán un solo grupo para los efectos señalados en el N° 2 del título III de este Capítulo.
 
 Las sociedades cuyas acciones o derechos han sido adquiridos por la institución, ya sea en pago o por adjudicación en subasta pública en conformidad con el artículo 84 N° 5 de la Ley General de Bancos, como asimismo aquellos emisores cuyas acciones de primera emisión se adquieran en virtud de la garantía otorgada como agente colocador de acuerdo con el artículo 69 N° 25, no se incluirán, por ese solo hecho, en la nómina de deudores relacionados.
 
@@ -17198,13 +17090,13 @@ Las instituciones financieras deberán entregar a este Organismo la información
 
 Para computar los créditos otorgados a personas relacionadas con el objeto de determinar el grado de concentración crediticia y el cumplimiento de los límites de que trata el título III de este Capítulo, se considerarán todos los montos adeudados por las personas y sociedades clasificadas en la categoría de relacionadas de acuerdo a los criterios establecidos en el título I, que tengan la calidad de deudores directos según lo indicado en el N° 4 del título II del Capítulo 12-3 de esta Recopilación.
 
-La medición incluye, en consecuencia, los créditos correspondientes a:
+La medición incluye, en consecuencia, los créditos otorgados por la institución financiera y por sus filiales y sucursales cuyas operaciones se consolidan para este efecto, que corresponden a:
 
-a) Colocaciones efectivas o contingentes registradas en el activo o en cuentas de orden;
+a) Colocaciones efectivas o contingentes.
 
 b) Operaciones de compra de valores mobiliarios o efectos de comercio, cuando hayan sido vendidos con pacto de retrocompra por una persona relacionada.
 
-c) Instrumentos emitidos por empresas relacionadas que se mantengan como inversiones financieras. Al tratarse de títulos emitidos por una sociedad Securitizadora, para efectos del artículo 84 N° 2 se computarán los instrumentos cuando sean emitidos por las sociedades que tengan la calidad de filial de la institución financiera, considerándolos en el grupo correspondiente a las filiales.
+c) Instrumentos emitidos por empresas relacionadas que se mantengan como inversiones financieras. Al tratarse de títulos emitidos por una sociedad Securitizadora, para efectos del artículo 84 N° 2 se computarán los instrumentos cuando sean emitidos por las sociedades que tengan la calidad de filial de la institución financiera, considerándolos en el grupo correspondiente a las sociedades en las cuales participa la institución financiera.
 
 d) Operaciones de Forward de monedas y de unidades de fomento, las que deben computarse para estos efectos según lo establecido en los Capítulos 13-2, 13-23 y 8-36 de esta Recopilación.
 
@@ -17308,231 +17200,81 @@ Todo lo anterior es sin perjuicio del cumplimiento de los límites individuales 
 
 Estas instrucciones rigen igualmente para los créditos que otorgue el Banco del Estado de Chile a su personal, según Resolución N° 37, del 13 de marzo de 1991, del Ministerio de Hacienda, dictada en virtud de lo dispuesto en el artículo 44 de la Ley Orgánica del Banco del Estado de Chile, modificado por el N° IV del ARTICULO SEGUNDO de la Ley N° 18.840.
 
-### 2. Concepto de trabajador
+2.- Aplicación de los límites en forma consolidada con filiales y sucursales.
 
-Para los efectos de los márgenes de que trata este capítulo, debe entenderse por
+Las instituciones financieras deben dar cumplimiento a lo dispuesto en este Capítulo considerando tanto a sus empleados como a los contratados por las filiales y sucursales que participan en la consolidación de acuerdo con lo indicado en el Capítulo 12-1 de esta Recopilación, debiendo computarse los créditos otorgados por todas las entidades que consolidan.
 
-trabajador a toda persona que preste servicios a la institución financiera en
+Por consiguiente, las alusiones que en los numerales que siguen se hacen a una institución financiera en relación con sus empleados o sus créditos concedidos, deben entenderse referidas a la matriz con esas filiales y sucursales, como una sola entidad para estos efectos".
 
-forma continua y permanente, con una clara subordinación o sin ella, remunerada
+### 3. Concepto de trabajador
 
-mediante honorarios o un sueldo pagadero en períodos fijos, ya sea que esté o no
+Para los efectos de los márgenes de que trata este capítulo, debe entenderse por trabajador a toda persona que preste servicios a la institución financiera en forma continua y permanente, con una clara subordinación o sin ella, remunerada mediante honorarios o un sueldo pagadero en períodos fijos, ya sea que esté o no sujeta a horario de trabajo, se desempeñe dentro o fuera del local de la respectiva entidad, tenga o no otros empleadores o ejerza libremente su profesión.
 
-sujeta a horario de trabajo, se desempeñe dentro o fuera del local de la
+### 4. Créditos afectos a los límites individuales y global
 
-respectiva entidad, tenga o no otros empleadores o ejerza libremente su
+4.1. Obligaciones por créditos.
 
-profesión.
+Para los efectos de la aplicación del N° 4 del artículo 84 de la Ley General de Bancos, que limita el monto tanto individual como global de los créditos otorgados a los trabajadores de las respectivas instituciones financieras, deben considerarse todas las obligaciones directas e indirectas que mantengan los trabajadores con la respectiva institución, con excepción de los créditos para la adquisición de vivienda que cumplan las condiciones señaladas en el N° 5 de este Capítulo. Además, deben computarse las obligaciones complementarias que tuvieren esas mismas personas, imputadas de conformidad con lo dispuesto en el artículo 85 del referido cuerpo legal.
 
-### 3. Créditos afectos a los límites individuales y global
+4.2. Créditos cursados a la cónyuge de un trabajador.
 
-3.1. Obligaciones por créditos.
+Quedarán sujetos a los límites ya señalados los créditos directos e indirectos que se cursen a la cónyuge de un trabajador de la respectiva institución financiera, a menos que concurran las siguientes causales que permitan eximir dichos créditos de los referidos límites:
 
-Para los efectos de la aplicación del N° 4 del artículo 84 de la Ley General de
+a) Que la mujer casada con un trabajador de la institución financiera dentro del régimen de sociedad conyugal, desempeñe algún empleo o ejerza una profesión,oficio o industria separados de los de su marido. En este caso, de conformidad con lo dispuesto en el artículo 150 del Código Civil, la mujer se considera separada de bienes respecto de su empleo, oficio, profesión o industria y de lo que en ellos obtenga. En tales situaciones, la mujer deberá acreditar la calidad que invoque.
 
-Bancos, que limita el monto tanto individual como global de los créditos
+b) Que la mujer casada con un trabajador de la institución financiera, lo esté bajo el régimen de separación de bienes.
 
-otorgados a los trabajadores de las respectivas instituciones financieras, deben
-
-considerarse todas las obligaciones directas e indirectas que mantengan los
-
-trabajadores con la respectiva institución, con excepción de los créditos para
-
-la adquisición de vivienda que cumplan las condiciones señaladas en el N° 4 de
-
-este capítulo. Además, deben computarse las obligaciones complementarias que
-
-tuvieren esas mismas personas, imputadas de conformidad con lo dispuesto en el
-
-#### Artículo 85
-
-del referido cuerpo legal.
-
-3.2. Créditos cursados a la cónyuge de un trabajador.
-
-Quedarán sujetos a los límites ya señalados los créditos directos e indirectos
-
-que se cursen a la cónyuge de un trabajador de la respectiva institución
-
-financiera, a menos que concurran las siguientes causales que permitan eximir
-
-dichos créditos de los referidos límites:
-
-a) Que la mujer casada con un trabajador de la institución financiera dentro del
-
-régimen de sociedad conyugal, desempeñe algún empleo o ejerza una
-
-profesión,oficio o industria separados de los de su marido. En este caso, de
-
-conformidad con lo dispuesto en el artículo 150 del Código Civil, la mujer se
-
-considera separada de bienes respecto de su empleo, oficio, profesión o
-
-industria y de lo que en ellos obtenga. En tales situaciones, la mujer deberá
-
-acreditar la calidad que invoque.
-
-b) Que la mujer casada con un trabajador de la institución financiera, lo esté
-
-bajo el régimen de separación de bienes.
-
-De acuerdo con lo señalado precedentemente, los créditos otorgados a las mujeres
-
-que se encuentren en las situaciones previstas en las letras a) y b)
-
-anteriores,que actúen sobre la base de la responsabilidad y solvencia de la
-
-administración de su patrimonio reservado o propio, no quedarán afectos a los
-
-límites de que trata el inciso primero del N° 4 del artículo 84 ya mencionado,
-
-siempre que el marido no caucione o afiance dichos créditos, toda vez que en
+De acuerdo con lo señalado precedentemente, los créditos otorgados a las mujeres que se encuentren en las situaciones previstas en las letras a) y b) anteriores,que actúen sobre la base de la responsabilidad y solvencia de la administración de su patrimonio reservado o propio, no quedarán afectos a los límites de que trata el inciso primero del N° 4 del artículo 84 ya mencionado, siempre que el marido no caucione o afiance dichos créditos, toda vez que en
 
 caso de hacerlo, estos quedarán sujetos a los límites de que se trata.
 
-Por otra parte, cabe señalar que todo crédito otorgado al marido de una
+Por otra parte, cabe señalar que todo crédito otorgado al marido de una trabajadora de la respectiva institución financiera, no queda afecto a los límites en comento, siempre que la mujer no caucione o afiance los créditos otorgados a su marido, ya que de hacerlo, éstos quedarán sometidos a los límites de que trata el N° 4 del artículo 84 ya citado.
 
-trabajadora de la respectiva institución financiera, no queda afecto a los
+4.3. Anticipos de sueldos o gratificaciones.
 
-límites en comento, siempre que la mujer no caucione o afiance los créditos
+Los anticipos de sueldos, de gratificaciones o de otros beneficios que las instituciones financieras concedan a sus trabajadores, se consideran crédito a no ser que, en el caso de los anticipos de sueldo, éstos se hayan otorgado para ser pagados totalmente con el sueldo del mismo mes calendario en el que se cursen y, en los demás casos, que el adelanto constituya una proporción equivalente o inferior a la parte de los beneficios ya devengada. Todo adelanto que comprometa emolumentos futuros, debe considerarse crédito para todos los efectos legales y queda sujeto, por lo tanto, a las limitaciones que rigen para los créditos a los trabajadores de la institución financiera, ya que la excepción antes referida se justifica sólo porque es una consecuencia directa del contrato de trabajo.
 
-otorgados a su marido, ya que de hacerlo, éstos quedarán sometidos a los límites
+### 5. Préstamos para la adquisición de vivienda
 
-de que trata el N° 4 del artículo 84 ya citado.
+5.1. Exención de los límites de crédito para trabajadores.
 
-3.3. Anticipos de sueldos o gratificaciones.
+El inciso segundo del N° 4 del artículo 84 de la Ley General de Bancos, faculta a las empresas para otorgar a sus trabajadores, sin sujeción a los límites del inciso primero del mismo artículo, préstamos con garantía hipotecaria con el objeto de que adquieran una casa habitación para su uso personal.
 
-Los anticipos de sueldos, de gratificaciones o de otros beneficios que las
+Respecto de una misma persona esta facultad podrá ejercitarse en una sola oportunidad mientras subsista la calidad de trabajador, a no ser que se trate de un nuevo crédito hipotecario destinado a pagar anticipadamente préstamos de similar naturaleza y propósito, adeudados a sea a la misma institución financiera o a una distinta.
 
-instituciones financieras concedan a sus trabajadores, se consideran crédito ano
+Debe tenerse presente que los créditos que las instituciones financieras otorguen a sus trabajadores bajo la forma de saldos de precio, para financiar la adquisición de bienes de propiedad de la respectiva institución, están sujetos a los límites a que se refiere el primer inciso del N° 4 del artículo 84.
 
-ser que, en el caso de los anticipos de sueldo, éstos se hayan otorgado para ser
+5.2. Requisitos de los préstamos.
 
-pagados totalmente con el sueldo del mismo mes calendario en el que se cursen y,
+Los préstamos que las entidades financieras otorguen a sus trabajadores para la compra de una vivienda, a que se refiere el numeral 5.1 anterior, deben reunirlos siguientes requisitos:
 
-en los demás casos, que el adelanto constituya una proporción equivalente o
+a) Que se trate de préstamos con garantía hipotecaria, sean o no en letras de crédito;
 
-inferior a la parte de los beneficios ya devengada. Todo adelanto que comprometa
+b) Que su objeto sea la adquisición de una vivienda y no la construcción o ampliación de ella;
 
-emolumentos futuros, debe considerarse crédito para todos los efectos legales y
+c) Que los préstamos se encuadren en las condiciones y normas generales establecidas para estas operaciones, especialmente en lo relativo a plazos y tasas de interés;
 
-queda sujeto, por lo tanto, a las limitaciones que rigen para los créditos a los
+d) Que las letras de crédito, cuando se trate de préstamos de esta naturaleza y ellas sean adquiridas por la institución financiera, lo sean a los precios y condiciones normales vigentes en el mercado; y,
 
-trabajadores de la institución financiera, ya que la excepción antes referida se
+e) Que los trabajadores beneficiarios de estos créditos suscriban una declaración jurada, en la que dejen constancia de que el inmueble que adquirirán mediante el préstamo que les otorguen lo destinarán a su uso personal.
 
-justifica sólo porque es una consecuencia directa del contrato de trabajo.
-
-### 4. Préstamos para la adquisición de vivienda
-
-4.1. Exención de los límites de crédito para trabajadores.
-
-El inciso segundo del N° 4 del artículo 84 de la Ley General de Bancos, faculta
-
-a las empresas para otorgar a sus trabajadores, sin sujeción a los límites del
-
-inciso primero del mismo artículo, préstamos con garantía hipotecaria con el
-
-objeto de que adquieran una casa habitación para su uso personal.
-
-Respecto de una misma persona esta facultad podrá ejercitarse en una sola
-
-oportunidad mientras subsista la calidad de trabajador, a no ser que se trate de
-
-un nuevo crédito hipotecario destinado a pagar anticipadamente préstamos de
-
-similar naturaleza y propósito, adeudados a sea a la misma institución
-
-financiera o a una distinta.
-
-Debe tenerse presente que los créditos que las instituciones financieras
-
-otorguen a sus trabajadores bajo la forma de saldos de precio, para financiar la
-
-adquisición de bienes de propiedad de la respectiva institución, están sujetos a
-
-los límites a que se refiere el primer inciso del N° 4 del artículo 84.
-
-4.2. Requisitos de los préstamos.
-
-Los préstamos que las entidades financieras otorguen a sus trabajadores para la
-
-compra de una vivienda, a que se refiere el numeral 4.1 anterior, deben
-
-reunirlos siguientes requisitos:
-
-a) Que se trate de préstamos con garantía hipotecaria, sean o no en letras de
-
-crédito;
-
-b) Que su objeto sea la adquisición de una vivienda y no la construcción o
-
-ampliación de ella;
-
-c) Que los préstamos se encuadren en las condiciones y normas generales
-
-establecidas para estas operaciones, especialmente en lo relativo a plazos y
-
-tasas de interés;
-
-d) Que las letras de crédito, cuando se trate de préstamos de esta naturaleza y
-
-ellas sean adquiridas por la institución financiera, lo sean a los precios y
-
-condiciones normales vigentes en el mercado; y,
-
-e) Que los trabajadores beneficiarios de estos créditos suscriban una
-
-declaración jurada, en la que dejen constancia de que el inmueble que adquirirán
-
-mediante el préstamo que les otorguen lo destinarán a su uso personal.
-
-### 5. Cómputo de las obligaciones para ajustarse a los márgenes
+### 6. Cómputo de las obligaciones para ajustarse a los márgenes
 
 Si el límite global de crédito se encuentra cubierto por préstamos u otros créditos ya concedidos, la institución financiera no puede otorgar nuevos créditos a sus trabajadores, mientras se mantenga esta situación. Del mismo modo, la empresa no puede otorgar nuevos créditos a un trabajador o a su cónyuge,salvo que ésta cumpla con los requisitos indicados en las letras a) y b)
 
-del numeral 3.2 anterior, si ello produce un exceso en relación con el 0,15% del patrimonio efectivo establecido por la ley como límite individual.
+del numeral 4.2 anterior, si ello produce un exceso en relación con el 0,15% del patrimonio efectivo establecido por la ley como límite individual.
 
-5.1. Efecto de los intereses y reajustes.
+6.1. Efecto de los intereses y reajustes.
 
-Para establecer la procedencia de otorgar un nuevo crédito afecto a los márgenes de que se trata, deben computarse, junto con éste, las obligaciones a que se refiere el N° 3 del presente capítulo, incluyendo el capital insoluto, los reajustes o variación del tipo de cambio y los intereses ganadas y no percibidos a la fecha en que aquél se otorgaría.
+Para establecer la procedencia de otorgar un nuevo crédito afecto a los márgenes de que se trata, deben computarse, junto con éste, las obligaciones a que se refiere el N° 4 del presente Capítulo, incluyendo el capital insoluto, los reajustes o variación del tipo de cambio y los intereses ganadas y no percibidos a la fecha en que aquél se otorgaría.
 
-5.2. Deudas de personas que adquieren la calidad de trabajador.
+6.2. Deudas de personas que adquieren la calidad de trabajador.
 
-Las personas que adquieran la calidad de trabajador de una institución financiera y que mantengan deudas con ésta, deberán ajustar previamente sus obligaciones a los límites de que trata el N° 4 del artículo 84 ya citado y, por lo tanto, no podrán asumir sus funciones mientras los créditos que adeuden excedan dichos límites. Lo mismo deberá hacer la cónyuge del trabajador cuando los créditos que se le hubieren cursado queden sujetos a estos límites de conformidad con lo previsto en el numeral 3.2 de este capítulo.
+Las personas que adquieran la calidad de trabajador de una institución financiera y que mantengan deudas con ésta, deberán ajustar previamente sus obligaciones a los límites de que trata el N° 4 del artículo 84 ya citado y, por lo tanto, no podrán asumir sus funciones mientras los créditos que adeuden excedan dichos límites. Lo mismo deberá hacer la cónyuge del trabajador cuando los créditos que se le hubieren cursado queden sujetos a estos límites de conformidad con lo previsto en el numeral 4.2 de este capítulo.
 
 No obstante lo anterior, cuando la deuda de estas personas corresponda a un crédito con garantía hipotecaria cursado para la compra de una vivienda para su uso personal, éste podrá acogerse a la exención de que trata el N° 4 de este capítulo, siempre que cumpla los requisitos y condiciones que allí se señalan.
 
 Debe tenerse presente, sin embargo, que la facultad de otorgar créditos para la vivienda, exentos de los límites, puede ejercitarse por una sola vez para cada deudor; por lo tanto, cuando una persona que haya obtenido créditos en esas condiciones deje de tener la calidad de trabajador de la institución financiera acreedora, y posteriormente se reintegre a ella, recuperando esa calidad, estará impedida de obtener un nuevo crédito acogido a la exención de los márgenes del artículo 84 N° 4 ya citado.
-
-### 6. Normas contables
-
-Las entidades financieras deben registrar los créditos que otorguen a sus trabajadores en las cuentas que correspondan, según la naturaleza de los préstamos o créditos otorgados.
-
-Los anticipos que se otorguen a los trabajadores, deberán registrarse en la cuenta "Anticipos al personal" de la partida 2110.
-
-Para el control de los créditos a trabajadores se abrirán las siguientes cuentas de orden que formarán parte de la partida 9170:
-
-a) "Préstamos en letras de crédito a trabajadores exentos del margen art. 84 N° 4";
-
-b) "Otros préstamos a trabajadores exentos del margen art. 84 N° 4".
-
-c) "Obligaciones directas de trabajadores afectas a margen art. 84 N° 4"; y,
-
-d) "Obligaciones indirectas de trabajadores afectas a margen art. 84 N° 4".
-
-Las cuentas indicadas anteriormente deberán ajustarse mensualmente, para reflejar los saldos de las respectivas obligaciones de los deudores, de acuerdo con la reajustabilidad e intereses pactados y los pagos efectuados.
-
-En la cuenta señalada en la letra d) anterior, se registrarán las obligaciones indirectas de los trabajadores y, cuando corresponda, las obligaciones directas o indirectas de la cónyuge y los créditos complementarios imputados de acuerdo
-
-con las disposiciones del artículo 85 de la Ley General de Bancos.
-
-### 7. Sanciones
-
-La ley dispone que la contravención de cualquiera de los preceptos contenidos en
-
-el artículo 84 N° 4, relativos a créditos a trabajadores, hace incurrir a la
-
-institución financiera infractora en una multa igual al valor del exceso.
 
 CAPITULO 12-7 (Bancos y Financieras)
 
@@ -17868,7 +17610,7 @@ d) Inversiones en oro amonedado o en pastas.
 
 Las instituciones financieras no podrán efectuar inversiones en los bienes señalados en el N° 2, cuando el monto de la adquisición sumado al valor contable de aquellas inversiones que ya se mantienen, exceda una vez el importe de su capital pagado y reservas.
 
-Para este efecto se considerará, por una parte, el monto del capital pagado y reservas determinado de acuerdo con lo señalado en el Capítulo 12-1 de esta Recopilación, deduciendo el capital asignado a sucursales del exterior y por otra, el valor contable de las inversiones a la fecha en que se efectúe la adquisición. Este valor corresponderá a la suma de los montos que se informan en las partidas 2305 y 2320, más los informados en las cuentas "Mayor valor pagado en inversiones en sociedades" de la partida 2120 e "Inversiones en oro" de la partida 1775.
+Para este efecto se considerará el valor contable, a la fecha del cómputo, de los activos correspondientes a inversiones en sociedades, incluido el saldo del "goodwill" que se mantuviere por ellas, al activo fijo físico neto de depreciaciones, y a las inversiones en oro.
 
 CAPITULO 12-11 (Bancos y Financieras)
 
