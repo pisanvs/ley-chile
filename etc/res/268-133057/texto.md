@@ -1,0 +1,7 @@
+AUTORIZA A LA SOCIEDAD "WESTERN SEAFOODS S.A." PARA INICIAR ACTIVIDADES PESQUERAS
+
+(Extracto)
+
+Por resolución No. 268 de 14 de Marzo de 1988 de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Western Seafoods S.A., domiciliada en Santiago, para instalar y operar una planta industrial ubicada en Santiago, Camino La Vara No. 03175, San Bernardo, en las líneas de elaboración de fresco-refrigerado, ahumado y congelado, donde procesará los siguientes recursos hidrobiológicos: Merluza del Sur, merluza común, congrio dorado, congrio negro, congrio colorado, bacalao de profundidad, albacora, corvina, lenguado de ojos chicos, lenguado de ojos grandes tollo, raya, jurel, bonito, salmón del Atlántico, salmón keta, salmón plateado, salmón rey, salmón rosado, trucha arcoiris, choro, cholga, chorito, macha, almeja o taca, almeja, ostra chilena, ostra del Pacífico, loco, ostión del Norte, ostión del Sur, pulpo, lapa, navajuela, erizo, camarón de roca, camarón nailon, langostino colorado, langostino amarillo, langostino de los canales, jaiba, gamba y centolla. Los recursos trucha y salmones deberán provenir de centros de cultivo autorizados. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 14 de Marzo de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
