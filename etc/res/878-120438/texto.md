@@ -1,0 +1,3 @@
+Por resolución Nº 878, de 12 de junio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1 de la resolución Nº 606, de 1998, de esta Subsecretaría, que autorizó a PESQUERA IQUIQUE GUANAYE S.A., para ampliar por un año el plazo realizar operaciones pesqueras con la nave ''Kansas'', en el sentido de agregar en su inciso segundo entre los recursos autorizados al Jurel, en el litoral de la I, II y III Regiones en los plazos que allí se señalan.
+
+Valparaíso, 12 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
