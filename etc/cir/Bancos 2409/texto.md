@@ -8940,6 +8940,10 @@ Los créditos cuyo valor de adquisición resulte igual o inferior al cinco por c
 
 Los importes efectivamente pagados por la compra de estos créditos se debitarán,cuando sea procedente, en la cuenta "Diferencias por adquisición de créditos a instituciones en liquidación", cuyo saldo será demostrado en la partida 5605,del formulario MR1.
 
+Los créditos que queden registrados en las cuentas "Créditos adquiridos a instituciones en liquidación" y "Responsabilidad por créditos adquiridos a instituciones en liquidación" antes señaladas, se mantendrán en dichas cuentas de orden, ajustados a su valor par, mientras no cumplan las condiciones generales que se establecen en el numeral 3.1 1 del título I del Capítulo 8-29 de esta Recopilación, para el castigo de colocaciones vencidas. Cuando un crédito adquiera alguna de esas condiciones, deberán revertirse los correspondientes importes de las referidas cuentas de orden. Simultáneamente con esa reversión, aquellos créditos vencidos cuyo cobro aún puede obtenerse por la vía de un juicio ejecutivo se registrarán en las cuentas "Colocaciones castigadas" y "Responsabilidad por operaciones castigadas" de las partidas 9600 y 9900, respectivamente, quedando sujeto su tratamiento posterior a las instrucciones contenidas en la letra b) del numeral 3.3 del título I del Capítulo 8-29 antes mencionado y a las normas relativas a la información sobre
+
+créditos castigados contenidas en el Manual del Sistema de Información.
+
 7.6. Garantías.
 
 Las garantías inherentes a los créditos adquiridos deben registrarse en las siguientes cuentas:
@@ -8969,40 +8973,6 @@ capítulo, no se consideran operaciones interfinancieras y, por consiguiente, no
 quedan afectos a los límites a que se refiere el Capítulo 12-7 de esta
 
 Recopilación de Normas.
-
-### 9. Disposiciones transitorias
-
-Las entidades financieras que mantengan en su cartera créditos adquiridos de
-
-instituciones en liquidación, procederán a clasificar a la brevedad posible cada
-
-uno de ellos, de conformidad con las presentes instrucciones, de manera que en
-
-la próxima inspección de cartera que realice esta Superintendencia, se pueda
-
-proceder a su revisión para su posterior registro de acuerdo con lo previsto en
-
-las presentes normas.
-
-La clasificación comprenderá según lo establecido en las presentes
-
-disposiciones, los créditos cuyo precio de compra haya sido superior al 5% de su
-
-respectivo valor par a la fecha de adquisición. Los créditos por los cuales se
-
-pagó un precio igual o inferior al referido 5% serán traspasados a las cuentas
-
-de orden que se señalan en el numeral 7.5. de estas instrucciones, al momento
-
-que finalice la clasificación de los restantes créditos adquiridos. En esa misma
-
-oportunidad, los importes correspondientes a los valores a que tales créditos se
-
-encontraban registrados en el activo, serán debitadas a la cuenta "Diferencias
-
-por adquisición de créditos a instituciones en liquidación", a que se refiere el
-
-numeral 7.5 antes citado.
 
 CAPITULO 8-8 (Bancos y Financieras)
 
