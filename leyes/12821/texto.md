@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Coronel para contratar uno o más empréstitos que produzcan hasta la cantidad de $ 30.000.000 con el fin de destinarlos a la extensión de la red de alumbrado público; para su servicio establece una contribución adicional de uno por mil anual sobre el avalúo imponible de los bienes raíces de la comuna.
