@@ -1,0 +1,3 @@
+Por resolución Nº 805, de 28 de abril de 2000, de esta Subsecretaría, déjase sin efecto la resolución Nº 620 de 2000, de esta Subsecretaría, sólo en cuanto declaró la caducidad de la resolución Nº 1.809 de 1997, de esta Subsecretaría, que otorgó a EMPRESA PESQUERA BRAVAMAR Y COMPAÑIA LIMITADA, un permiso extraordinario de pesca para la unidad de pesquería del recurso hidrobiológico Langostino amarillo fijada en el artículo 1º del D.S. Nº 787, de 1996, del Ministerio de Economía, Fomento y Reconstrucción, por haberse constatado el pago oportuno de la obligación indicada en el artículo 46 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 28 de abril de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
