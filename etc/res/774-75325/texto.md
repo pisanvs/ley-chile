@@ -1,0 +1,7 @@
+Por resolución Nº 774, de 10 de Agosto de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Recontrucción, se autoriza a don ANGEL CUSTODIO CONCHA SANCHEZ, R.U.T. Nº 8.929.149-6, domiciliado en la ciudad de Caldera, calle Carvallo Nº 621, para iniciar actividades, en orden a operar una planta industrial en la III Región ubicada en calle Carvallo Nº 621, Comuna de Caldera, Provincia de Copiapó, donde procesará en la línea de elaboración de congelado los siguientes recursos hidrobiológicos: Congelado, Albacora o pez espada, Anchoa o anchoveta, Anguila, Atún, Azulejo, Bacalao de profundidad o mero, Bonito, Caballa, Cojinoba del norte, Congrio colorado, Congrio dorado, Corvina, Dorado, Jurel, Marrajo o tiburón, Merluza común, Sardina común, Sardina, Tollo, Almeja, Calamar, Caracol locate, Caracol tegula, Chocha, Cholga, Choro, Chitón, Lapa, Macha, Navajuela, Ostión del norte, Ostra del Pacífico, Pulpo, Camarón nailon, Gamba, Jaiba, Jaiba mora, Langostino amarillo, Erizo.
+
+Deberá adquirir los recursos Ostión del norte y Ostra del Pacífico de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que establezcan.
+
+Valparaíso, 10 de Enero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
