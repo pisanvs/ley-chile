@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº758, de 30 de mayo de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº64, para la obra: Camino Longitudinal Costero Sur, sector El Morro-Chaihuin II, Km.15,755 a Km.27,017, que figura a nombre de Naipan Naipe Antonio, rol de avalúo 112-17, superficie 373 m2., comuna de Corral. La Comisión de Peritos con fecha 16 de octubre de 1999, fijó la indemnización provisional en la cantidad de $373.000, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
