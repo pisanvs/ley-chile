@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.481, de 1 de julio de 2003, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta Nº 1.181 de 2003, de esta Subsecretaría, que autorizó al CENTRO DE ESTUDIOS Y DESARROLLO PESQUERO SUR AUSTRAL LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto "Estudio Biológico-Pesquero del Recurso Loco (Concholepas concholepas) en Areas de Manejo de la X Región", en el sentido de incorporar las siguientes áreas marítimas de la X Región, donde se realizará la pesca de investigación: a) Punta Lar y b) Punta Esperanza.
+
+La peticionaria podrá extraer el número máximo de ejemplares del recurso Loco por cada área que se señala, respetando la talla mínima de extracción legal: Punta Lar: 60.000 y Punta Esperanza: 60.000.
+
+Valparaíso, 1 de julio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
