@@ -1,0 +1,5 @@
+Por decreto M.O.P. No. 655, de 29 de mayo de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. M.O.P. No. 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley No.
+
+15.840, se expropiaron los lotes de terreno No. s. 1 y 4, para la obra Camino L-31, Polvorines - San Juan - Queri, Sector Puente La Barra, que figuran a nombre de S.A.G. y Luis Guillermo Bustamante Rebolledo, roles de avalúo 179-52 y 32-157, comuna de Yerbas Buenas y Colbún, superficies 117,25 y 162,73 m2 respectivamente. La Comisión de Peritos compuesta por los señores Carlos Sottolichio Díaz, Sergio Lay Gómez y Claudio Burgos Valera, fijó con fecha 8 de abril de 1997, los valores provisionales de las indemnizaciones en las cantidades de $ 135.300.- para el lote No. 1 y $ 186.184.- para el lote No. 4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
