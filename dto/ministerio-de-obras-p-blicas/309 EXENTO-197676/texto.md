@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº309, de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº20, superficie 3.267 M2, rol de avalúo Nº28-91, comuna de Paredones, VI Región, para la obra "Camino Mejoramiento Ruta I-72, Sector Paredones - Bucalemu, Tramo Km. 27,800 al 43,100" y se acordó el valor de indemnización con su propietaria doña María Celinda Bernales Montero, ascendente a la cantidad de $2.246.336.-
+
+Fiscal del Ministerio de Obras Públicas.
