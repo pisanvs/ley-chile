@@ -1,0 +1,9 @@
+Por resolución Nº940 de 23 de Septiembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA SANTO DOMINGO S.A., RUT Nº96.513.210-4, domiciliada en Ruta 78 Nº5605, San Antonio, para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº306, de 1987, Nº1.205, de 1988, Nº64, de 1991 y Nº123, de 1991, todas de esta Subsecretaría, en orden a elaborar en las líneas de proceso que se indican, en la planta autorizada por las resoluciones citadas precedentemente, ubicada en sector Aguas Buenas, Parcela Nº46, Carretera 78, San Antonio, V Región, los siguientes recursos hidrobiológicos: Congelado y fresco-refrigerado: Brótula, cabrilla española, cachurreta, cazón, chancharro, cochinilla, cojinoba del sur, dorado, mulata o vieja negra, pampanito, pejeperro, pejerrata, pejesapo, pejezorro, rollizo, roncacho, salmón del pacífico, sargo, tomoyo, trucha arcoiris, vidriola, almeja o taca, chocha, jibia, ostión del norte, ostión del sur, cangrejo panchote, camarón de roca, camarón nailon, camarón de río del norte, gamba, langosta de J. Fernández, langostino colorado y anhfeltia.
+
+Deberá adquirir la materia prima a terceros. Asimismo, los recursos ostión del norte, salmón del pacífico y trucha arcoiris, deberán ser adquiridos de centros de cultivo autorizados.
+
+El recurso langostino colorado deberá ser abastecido por personas que cuenten con permisos extraordinarios de pesca para la captura de esta especie.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 23 de Septiembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
