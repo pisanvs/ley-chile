@@ -2316,43 +2316,33 @@ Si alguno de tales hechos punibles se cometiere por imprudencia temeraria o por 
 
 El que pusiere en peligro la salud pública por infracción de las reglas higiénicas o de salubridad, debidamente publicadas por la autoridad, en tiempo de catástrofe, epidemia o contagio, será penado con presidio menor en su grado mínimo o multa de uno a cinco sueldos vitales.
 
-#### Artículo 319°
+#### Artículo 319
 
-a El que elaborare, fabricare, extrajere o prepare sustancias estupefacientes contraviniendo las prohibiciones y restricciones legales o reglamentarias, será penado con presidio mayor en su grado medio y multa de diez a cien sueldos vitales.
+a). Derogado.
 
-Para todos los efectos legales, se considerarán sustancias estupefacientes las que sean calificadas como tales en el reglamento que dictará el Presidente de la República, el que podrá ser adicionado o modificado por esta misma autoridad.
+#### Artículo 319
 
-#### Artículo 319°
+b). Derogado.
 
-b En las mismas penas incurrirán los que, sin estar competentemente autorizados, trafiquen en sustancias estupefacientes y los que por otros medios promuevan o faciliten el enviciamiento de terceros con tales sustancias.
+#### Artículo 319
 
-Realizan este tráfico los que suministran a terceros, a cualquier título, dichas sustancias o materias primas destinadas a obtenerlas.
+c). Derogado.
 
-Asimismo, se entenderá que lo realizan los que adquieran, sustraigan, porten consigo, importen, exporten, transporten o guarden tales sustancias o materias primas, a menos que sea notorio que lo hacen exclusivamente para su uso personal.
+#### Artículo 319
 
-En los casos a que se refiere el presente artículo, la prueba se apreciará en conciencia.
+d). Derogado.
 
-#### Artículo 319°
+#### Artículo 319
 
-c El que, estando autorizado para el expendio de sustancias estupefacientes, las suministrare en contravención a las disposiciones legales o reglamentarias restrictivas de su uso, será penado con presidio menor en su grado máximo y multa de cinco a cincuenta sueldos vitales.
+e). Derogado.
 
-En las mismas penas incurrirá el médico que, con abuso de su profesión, recetare sustancias estupefacientes sin una necesidad médica o terapéutica que lo justifique o en dosis apreciablemente mayores que las necesarios.
+#### Artículo 319
 
-#### Artículo 319°
+f). Derogado.
 
-d Para los efectos de los dos artículos precedentes, las normas señaladas en los cinco artículos se considerará circunstancia agravante el hecho de suministrar sustancias estupefacientes a menores de 18 años de edad, o promover o facilitar el enviciamiento de dichos menores con tales sustancias.
+#### Artículo 319
 
-#### Artículo 319°
-
-e El que a sabiendas proporcionare un local, a cualquier título, para que terceros concurran a él con el objeto de consumir sustancias estupefacientes, será penado con presidio menor en su grado medio y multa de tres a diez sueldos vitales.
-
-#### Artículo 319°
-
-f Las normas señaladas en los cincos artículos precedentes, se aplicarán, igualmente, cuando se trate de drogas que produzcan efectos de dependencia y que estén incluidas en el reglamento a que se refiere el inciso 2° del artículo 319° a. En estos casos, el Tribunal podrá rebajar hasta en tres grados las penas que en los referidos artículos se establecen.
-
-#### Artículo 319°
-
-g Por los delitos previstos en los seis artículos anteriores se impondrá, además, la pena accesoria de sujeción a la vigilancia de la autoridad por el máximo del tiempo que señala la ley.
+g). Derogado.
 
 ### XV. De la infracción de las leyes o reglamentos sobre inhumaciones y exhumaciones
 
