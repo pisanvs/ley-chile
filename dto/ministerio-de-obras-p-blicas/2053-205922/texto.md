@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.053, de 31 de octubre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 90 para la obra:
+
+"Sistema Norte - Sur. Tramo F: Carlos Valdovinos - Río Mapocho. Sector: Km. 2.700,00 al Km. 2.940,00", Región Metropolitana, que figura a nombre de Lineros Vergara Julia E. y Otros, rol de avalúo 1814-17, comuna de Quinta Normal, superficie 60 m². La comisión de peritos integrada por los señores Ricardo Antonio Strickler Arellano, Joaquín Guillermo Enrique Eyzaguirre Edwards y Jesús Fernando Díaz Pasmiño, fijó con fecha 7 de octubre de 2002, el valor provisional de la indemnización en la cantidad de $9.787.750.- La indemnización se pagará al contado. La se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
