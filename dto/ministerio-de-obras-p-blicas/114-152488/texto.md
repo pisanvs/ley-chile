@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 114, de 29 de Mayo de 1986, se expropiaron los lotes N°s. 1, 3 y 5, roles de avalúo 37-20, 37-18 y 37-13, superficies 1.452 m2, 2.112 m2 y 2.242 m2, comuna de Chépica, VI Región, para Camino Variante La Cabrería, sector Puente La Cabrería a Puente Uvas Blancas y se acordó precio de indemnización con sus propietarios señores Oscar Avelino Ibarra Lobos, Carlos Riesco Grez y Julio Silva Quezada, ascendente a $ 161.695, $ 305.750 y $ 324.570, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas. (1°)
