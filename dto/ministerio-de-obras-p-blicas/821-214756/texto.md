@@ -1,0 +1,3 @@
+Por decreto MOP Nº 821 de fecha 31 de julio del 2003, se expropiaron los lotes de terreno Nºs. 25-E, 25-F y 25-G, superficie 429; 120 y 470 m², Rol Nº 204-46, comuna de Los Alamos, VIII Región para la obra "Camino Ruta P - 46, Sector Los Alamos - Sara de Lebu, Km. 0,00000 a Km. 16,84000" y se acordó el valor de indemnización con su propietario Hernando Araneda Pereira, ascendente a la cantidad de $5.186.858.
+
+Fiscal del Ministerio de Obras Públicas.
