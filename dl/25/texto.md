@@ -1,0 +1,61 @@
+DETERMINA CESE DE LOS ALCALDES Y REGIDORES DE LAS MUNICIPALIDADES DEL PAIS
+
+NUM. 25.- Santiago, 19 de septiembre de 1973.- Visto: lo dispuesto en el decreto ley 1, de 11 septiembre de 1973, y
+
+Considerando: La necesidad de armonizar la organización y funcionamiento de las Municipalidades del territorio nacional con los postulados enunciados en dicho cuerpo legal, la Junta de Gobierno dicta el siguiente
+
+DECRETO LEY:
+
+#### Artículo 1°
+
+Declárase que los Alcaldes y Regidores de las Municipalidades del país cesaron en sus funciones a contar del día 11 de septiembre de 1973.
+
+#### Artículo 2°
+
+Desde la vigencia del presente decreto ley, los Alcaldes serán designados por la Junta de Gobierno y serán de su exclusiva confianza.
+
+#### Artículo 3°
+
+En caso de ausencia o imposibilidad física transitoria, el Alcalde será subrogado por el funcionario de la respectiva Municipalidad que él mismo designe.
+
+Si la ausencia o imposibilidad se prolongare más de treinta días, el Intendente de la Provincia designará al Alcalde Suplente.
+
+#### Artículo 4°
+
+Las obligaciones y atribuciones que correspondían, hasta la fecha de publicación del presente decreto ley a la Corporación Edilicia, conforme a la legislación vigente, corresponderán y serán ejercidas exclusivamente por el Alcalde mediante decretos refrendados por el Secretario de la Alcaldía en calidad de ministro de fe.
+
+El Alcalde podrá delegar determinadas funciones que le correspondían en tal calidad en uno o varios Jefes de Oficina de la respectiva Municipalidad.
+
+El Alcalde sólo podrá insistir los decretos de pagos, planillas u otros libramientos que hubieren sido representados por el Tesorero Comunal o Municipal con el informe favorable del Abogado Jefe de la Defensa Municipal o del Secretario Municipal si no hubiere defensa. En este caso el Tesorero quedará liberado de responsabilidad y ella se radicará en el Alcalde.
+
+#### Artículo 5°
+
+Para ser designado Alcalde se requerirá ser mayor de 21 años, saber leer y escribir, haber cumplido con la Ley de Reclutamiento y no haber sido condenado o estar actualmente procesado por delito que merezca pena aflictiva.
+
+#### Artículo 6°
+
+Mientras se dicta el régimen de remuneraciones para los alcaldes, éstos tendrán derecho a una remuneración igual a la establecida en el artículo 27° de la ley 11,469, para la categoría o grado más alto del escalafón de la respectiva Municipalidad, sin perjuicio de las asignaciones personales que les correspondan, tales como quinquenios y asignaciones familiares.
+
+#### Artículo 7°
+
+El cargo de Alcalde es incompatible con los de Intendente, Gobernador, Secretario de Intendencia o Gobernación y con los empleos, funciones o comisiones en la misma Municipalidad en que presta sus servicios.
+
+#### Artículo 8°
+
+La representación judicial y extrajudicial de las Municipalidades corresponderá al Alcalde.
+
+#### Artículo 9°
+
+En todo aquello que no se oponga al presente decreto ley, continuarán vigentes las disposiciones contenidas en la ley 11.860, sobre organización y atribuciones de las Municipalidades y sus leyes complementarias, así como lo dispuesto en las ordenanzas generales, locales y reglamentos municipales.
+
+Artículos transitorios (ARTS. 1-3TRANS) ARTICULO 1° Sin perjuicio de lo dispuesto en el artículo 2°, las personas que se desempeñen como alcaldes continuarán sirviendo este cargo mientras las autoridades correspondientes no hayan designado a sus reemplazantes o ellos mismos hayan sido confirmados en sus cargos.
+
+#### Artículo 2°
+
+Los Presupuestos Municipales para el año 1974 deberán ser presentados por los Alcaldes al Intendente respectivo dentro del mes de octubre del año en curso, para su aprobación en el plazo señalado en el artículo 80° de la ley 11.860.
+
+#### Artículo 3°
+
+No obstante lo dispuesto en el artículo 1° de este decreto ley, las resoluciones o acuerdos que los Alcaldes y Municipalidades hubieren adoptado en el período intermedio hasta la fecha de publicación del presente decreto ley, tendrán plena validez jurídica. Sin perjuicio de ello, el Alcalde que se designe podrá, dentro del plazo de 15 días contados desde la fecha de su nombramiento, dejar sin efecto dichas resoluciones o acuerdos por decreto fundado.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.- Oscar Bonilla.
