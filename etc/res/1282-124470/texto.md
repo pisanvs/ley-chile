@@ -1,0 +1,7 @@
+Por resolución Nº1.282, de 31 de agosto de 1998, de esta Subsecretaría, autorízase a PESQUERA CHAQUIHUAL S.A., para continuar desarrollando actividades pesqueras con una nave en construcción denominada ''Adelita'', autorizada por la resolución Nº1.519, de 1996, de esta Subsecretaría, en el litoral de la III y IV Regiones respecto de los recursos hidrobiológicos, Anchoveta, Jurel y Sardina española, declarados en plena explotación y sometidas a dicho régimen de administración, derechos que fueron transferidos por Pesquera San Francisco S.A. a Pesquera Chaquihual S.A., conjuntamente con la nave en construcción ya indicada, de conformidad con lo dispuesto en el artículo 23 de la Ley General de Pesca y Acuicultura, según da cuenta la escritura pública.
+
+En consecuencia, Pesquera Chaquihual S.A., podrá capturar con red de cerco, por fuera del área de reserva artesanal, con la nave en construcción ya indicada, en el área de pesca que se indica, los siguientes recursos hidrobiológicos: Litoral de la III y IV Regiones: Anchoveta, Jurel y Sardina española.
+
+Déjase sin efecto la resolución Nº1.519, de 1996, de esta Subsecretaría que autorizó a Pesquera San Francisco S.A. para operar la nave en construcción denominada ''Adelita'', en virtud de lo señalado en la escritura de transferencia.
+
+Valparaíso, 31 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
