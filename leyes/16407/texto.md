@@ -6,13 +6,13 @@ Proyecto de ley:
 
 #### Artículo 1°
 
-Las cuentas de ahorro a plazo abiertas en el Banco del Estado de Chile, se reajustarán una vez al año en un porcentaje equivalente al 100% de la variación que tenga el índice de precios al consumidor del departamento de Santiago, que determina la Dirección General de Estadística y Censos, entre las fechas de su último reajuste anterior y el que corresponda efectuar.
+Las cuentas de ahorro a plazo abiertas en el Banco del Estado de Chile, se reajustarán en un porcentaje equivalente al 100% de la variación que tenga el índice de precios al consumidor del departamento de Santiago, que determina la Dirección General de Estadística y Censos, entre las fechas de su último reajuste anterior y el que corresponda efectuar.
 
-El cálculo del reajuste y su capitalización en la cuenta respectiva se efectuará una vez al año en la forma, condiciones y plazos que determine el Directorio del Banco del Estado de Chile, con aprobación de la Comisión Nacional del Ahorro.
+El cálculo del reajuste y su capitalización en la cuenta respectiva se efectuará en la forma, condiciones y plazos que determine el Directorio del Banco del Estado de Chile, con aprobación de la Comisión Nacional del Ahorro.
 
-Tendrán derecho a reajuste sobre el total del depósito aquellas cuentas cuyos saldos diarios sean iguales o inferiores a 1 1/2 sueldos vitales anuales del departamento de Santiago; en las cuentas cuyos saldos diarios sean superiores a 1 1/2 sueldos vitales anuales del departamento de Santiago, el reajuste sólo se aplicará hasta ese monto no gozando del derecho las sumas que excedan de dicho límite.
+Tendrán derecho a reajuste sobre el total del depósito aquellas cuentas cuyos saldos diarios sean iguales o inferiores a 4 1/2 sueldos vitales anuales de la provincia de Santiago; en las cuentas cuyos saldos diarios sean superiores a 4 1/2 sueldos vitales anuales de la provincia de Santiago, el reajuste sólo se aplicará hasta ese monto no gozando del derecho las sumas que excedan de dicho límite.
 
-Para los efectos previstos en el inciso precedente, en los casos de personas naturales o jurídicas que mantengan más de una cuenta de ahorro a plazo, el reajuste respectivo se calculará tomando en consideración la suma de los saldos de todas sus cuentas.
+En los casos de personas naturales o jurídicas que registren dos o más cuentas de ahorro a plazo, el reajuste se les determinará calculándolo independientemente en cada cuenta. No obstante lo anterior, la suma de los reajustes así obtenidos, no podrá exceder de la cantidad que resulte de aplicar el porcentaje de reajuste sobre el monto de capital a que se refiere el inciso anterior.
 
 El monto del reajuste adicionará el saldo de la cuenta respectiva.
 
@@ -22,15 +22,9 @@ Se imputará al reajuste de este artículo, lo que corresponda abonar como bonif
 
 #### Artículo 2
 
-o- Los bancos comerciales y el Banco del Estado destinarán al financiamiento de los reajustes indicados en el artículo 1.o una parte de las tasas de interés que cobran por sus operaciones de crédito equivalente al 0,5 % anual. Para estos efectos podrán recargar las tasas de interés bancario hasta en un 0,25 %, debiendo el 0,25 % restante ser cancelado por los bancos de los recursos que perciban por concepto de intereses. Esta sobretasa no se aplicará en las operaciones que realicen los Bancos aludidos con el Fisco y Municipalidades.
+o- El reajuste será cubierto con los fondos que al efecto destine el Banco del Estado de Chile, los que no podrán ser inferiorees, en cada ejercicio anual, a la suma de las siguientes cantidades: 1°.) a las utilidades que obtenga como accionista de bancos de fomento, y 2°.) a la diferencia que se produzca entre las dos cantidades siguientes: a) los intereses que debería pagar por los depósitos reajustables si se les aplicaran las tasas que rigen para los no reajustables; y b) los intereses pagados por los depósitos a que se refiere el artículo 1°.. A falta de tales recursos o si éstos fueren insuficientes, la cantidad correspondiente será aportada mediante una transferencia del Fisco al Banco del Estado de Chile, en las oportunidades necesarias, con cargo a la participación que le corresponde en las utilidades del Banco Central de Chile. Para tal objeto, a partir de 1966 se incluirá en la Ley de Presupuestos de cada año de un ítem de transferencia al Banco del Estado de Chile.
 
-El rendimiento de la sobretasa que perciban los Bancos Comerciales deberá ser depositado mensualmente en una cuenta especial en la Tesorería General de la República; las sumas depositadas serán transferidas por el Fisco al Banco del Estado de Chile, con la finalidad indicada en el inciso precedente.
-
-El rendimiento del 0,25% deducido de la tasa de interés que cobran los bancos particulares y el Banco del Estado también serán depositados en la cuenta especial señalada en el inciso anterior.
-
-En caso de no ser insuficientes los fondos asi acumulados para el pago del porcentaje máximo de reajuste indicado en el inciso primero del artículo 1°., la diferencia será cubierta con los fondos que al efecto destine el Banco del Estado de Chile, los que no podrán ser inferiorees, en cada ejercicio anual, a la suma de las siguientes cantidades: 1°.) a las utilidades que obtenga como accionista de bancos de fomento, y 2°.) a la diferencia que se produzca entre las dos cantidades siguientes: a) los intereses que debería pagar por los depósitos reajustables si se les aplicaran las tasas que rigen para los no reajustables; y b) los intereses pagados por los depósitos a que se refiere el artículo 1°.. A falta de tales recursos o si éstos fueren insuficientes, la cantidad correspondiente será aportada mediante una transferencia del Fisco al Banco del Estado de Chile, en las oportunidades necesarias, con cargo a la participación que le corresponde en las utilidades del Banco Central de Chile. Para tal objeto, a partir de 1966 se incluirá en la Ley de Presupuestos de cada año de un ítem de transferencia al Banco del Estado de Chile.
-
-Si los recursos contemplados en este artículo fueren aún insuficientes para aplicar el reajuste máximo, no obstante haberse transferido al Banco del Estado de Chile el total de la regalía fiscal en el Banco Central de Chile, se rebajará este porcentaje de reajuste de conformidad al inciso primero del artículo 1°..
+Si los recursos contemplados en este artículo fueren aún insuficientes para aplicar el reajuste máximo, no obstante haberse transferido al Banco del Estado de Chile el total de la regalía fiscal en el Banco Central de Chile, se rebajará este porcentaje de reajuste de conformidad al inciso primero del artículo 1°.
 
 #### Artículo 3°
 
