@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.334, de 17 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº3, para la obra Puente Codinhue, sector Vilcún - El Alambrado, Kms. 0,040 al 0,320.00, que figura a nombre de Manuel Jesús Sánchez Manríquez, rol de avalúo 3288-53, comuna de Vilcún, IX Región, superficie 1.320 m2. La Comisión de Peritos fijó con fecha 9 de julio de 1998, en la cantidad de $264.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
