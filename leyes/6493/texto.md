@@ -1,0 +1,1 @@
+Incorpora al sueldo del personal civil de la Administración Pública, de las Fuerzas Armadas y de instituciones fiscales y semifiscales la gratificación de 25%; reliquidación de pensiones.
