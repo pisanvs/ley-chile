@@ -1,0 +1,1971 @@
+APRUEBA REGLAMENTO DE LA LEY N° 19.070, ESTATUTO DE LOS PROFESIONALES DE LA EDUCACION
+
+Núm. 453.- Santiago, 26 de Noviembre de 1991.
+
+VISTO:
+
+Lo dispuesto en la Ley N° 18.956; Ley N° 18.962, Orgánica Constitucional de Enseñanza; Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración Central del Estado; Ley N° 18.695, Orgánica Constitucional sobre Municipalidades; Ley N° 19.070; Decreto Supremo de Educación N° 27.952, de 1965 y en los artículos 32° N° 8 y 35 de la Constitución Política de la República de Chile;
+
+DECRETO:
+
+Apruébase el siguiente Reglamento de la Ley N° 19.070, Estatuto de los Profesionales de la Educación:
+
+TITULO
+
+NORMAS GENERALES
+
+### Párrafo 1°
+
+Ambito de Aplicación
+
+#### Artículo 1°
+
+Este Reglamento se aplica a los Profesionales de la Educación que prestan servicios en los establecimientos de educación básica y media, de administración municipal, o particular reconocida oficialmente, como asimismo en los de educación pre-básica subvencionados conforme al Decreto con Fuerza de Ley N° 2, del Ministerio de Educación, de 1989, así como en los establecimientos de educación técnico
+
+profesional administrados por corporaciones privadas sin fines de lucro, según lo dispuesto en el Decreto Ley N° 3166, de 1980.
+
+Dentro del ámbito de aplicación fijado en el inciso anterior los profesionales de la educación que presten servicios en establecimientos de educación de adultos municipales y particulares reconocidos oficialmente
+
+serán considerados, según el nivel respectivo, en la educación básica o media; y, los que se desempeñan en establecimientos de educación especial o diferencial, municipal o particular, reconocidos oficialmente, serán considerados de educación básica.
+
+#### Artículo 2°
+
+Asimismo, en los términos del artículo 1° de la Ley N° 19.070, este reglamento será aplicable a los profesionales de la educación que ocupen cargos directivos y técnico-pedagógicos que por su naturaleza requieran ser servidos por estos profesionales y que se desempeñen en los departamentos de administración de educación municipal.
+
+#### Artículo 3°
+
+Este Reglamento regula:
+
+a. Los requisitos, deberes, derechos y obligaciones de carácter profesional comunes a todos los profesionales de la educación mencionados en el artículo 1° de la ley N° 19.070;
+
+b. La carrera de los profesionales de la educación que se desempeñen en el sector municipal; y
+
+c. El contrato de los profesionaless de la educación que se desempeñan en establecimientos educacionales particulares sean subvencionados o no y los administrados de acuerdo a lo dispuesto en el Decreto Ley N° 3.166.
+
+#### Artículo 4°
+
+Se aplicará a los profesionales de la educación de los establecimientos educacionales pertenecientes al sector municipal, lo referente a derechos, deberes, requisitos y obligaciones de carácter profesional y los aspectos propios de su carrera a que se refieren los Títulos I, II y III del presente Reglamento.
+
+#### Artículo 5°
+
+Se aplicará a los profesionales de la educación de establecimientos educacionales particulares subvencionados reconocidos oficialmente, lo referente a derechos, deberes, requisitos y obligaciones de carácter profesional, y lo referente al Contrato de Trabajo contenidos respectivamente en los Títulos I, II y IV del presente Reglamento.
+
+#### Artículo 6°
+
+Se aplicará a los profesionales de la educación de establecimientos educacionales particulares pagados, reconocidos oficialmente, lo referente a derechos, deberes, requisitos y obligaciones de carácter profesional y lo atingente a su contrato de trabajo contenidos respectivamente en los Títulos I, II, con excepción del Párrafo VII y el inciso tercero del artículo 50° del Párrafo VIII; y los párrafos I, II, con excepción de los tres incisos finales del artíuclo 151 y artículo 152; IV con excepción del artículo 158, VI y VII con excepción del artículo 163 del TITULO IV.
+
+#### Artículo 7°
+
+Se aplicará a los profesionales de la educación de establecimientos educacionales administrados por instituciones públicas o personas jurídicas sin fines de lucro de acuerdo a lo dispuesto en el Decreto Ley N° 3.166, lo referente a derechos, deberes, requisitos y obligaciones de carácter profesional y lo atingente al Contrato de Trabajo contenidos respectivamente en los TITULOS I y II, y en los párrafos I, II, IV, con excepción del artículo 158; V y VI del TITULO IV del presente Reglamento.
+
+### Párrafo II
+
+Profesionales de la Educación
+
+#### Artículo 8°
+
+Son profesionales de la educación las personas que posean el título de profesor o educador concedido por las Escuelas Normales, Institutos Profesionales o Universidades, y los que lo hubieren obtenido en el extranjero debidamente convalidado según los casos, de acuerdo a las disposiciones vigentes.
+
+#### Artículo 9°
+
+Están legalmente habilitados para ejercer la función docente los que se hubieren inscrito en su oportunidad en el Registro correspondiente del Colegio de Profesores según lo prescrito en el Decreto Ley N° 678 de 1974 o tuvieren autorización del Ministerio de Educación según lo dispuesto en el Decreto con Fuerza de Ley N° 29 de 1981 de Educación y en el Decreto Supremo de Educación N° 7723, de 1981.
+
+#### Artículo 10°
+
+No obstante lo dispuesto anteriormente, los profesionales de la educación están afectos a las siguientes inhabilidades para ejercer sus labores docentes.
+
+a. Las contempladas en el artículo 9° de la Constitución Política de la República de Chile, que impide a los responsables de conductas terroristas por un plazo de quince (15) años ejercer funciones o cargos públicos sean o no de elección popular, o de Rector o Director de establecimiento de educación o para ejercer en ellos funciones de enseñanza.
+
+b. Las generales contempladas en el Código Penal de inhabilitación absoluta o especial perpetua para cargos y oficios públicos, derechos políticos y profesiones titulares y la de inhabilitación absoluta o especial temporal para cargos y oficios públicos y profesiones titulares, en los casos y respecto de las personas a las que se apliquen estas penas ya sea como principales o accesorias, según lo dispuesto en dicho cuerpo legal.
+
+c. Las especiales contempladas en el artículo 4° de la ley N° 19.070 de inhabilidad para ejercer labores docentes cuando hayan sido condenado por los delitos de aborto, rapto, violación, estupro, incesto, corrupción de menores y otros actos deshonestos, ultrajes públicos a las buenas costumbres, homicidio o infanticidio.
+
+#### Artículo 11°
+
+En el caso que un profesional de la educación sea encargado reo por alguno de los delitos señalados en el artículo anterior, podrá ser suspendido de sus funciones por el tiempo que se prolongue la encargatoria de reo.
+
+La suspensión así decretada podrá llevar anexo o no el derecho a percibir la remuneración respectiva, ya sea total o parcialmente.
+
+> **Nota.** El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+
+> **Nota.** NOTA 1: El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir las expresiones "auto de reo", "encargatoria de reo" y "auto encargatoria de reo" por la de "auto de procesamiento".
+
+#### Artículo 12°
+
+Dictada sentencia definitiva por el Tribunal que conoce del proceso respectivo, se deberá decretar el término de la suspensión si se hubiera ordenado, en el caso que ésta sea de sobreseimiento y se deberá poner término a la relación laboral, previo sumario de acuerdo al artículo 145 de este Reglamento, en el caso que ésta sea condenatoria.
+
+#### Artículo 13°
+
+En el caso de las inhabilidades señaladas en las letras a) y b) del artículo 10° de este Reglamento, se deberá ordenar la suspensión del ejercicio de la función docente por el tiempo que ella fuera ordenada por el Tribunal competente por sentencia ejecutoriada.
+
+#### Artículo 14°
+
+Las medidas de que tratan los artículos anteriores deberán ser comunicadas por los empleadores a la Inspección del Trabajo respectiva en el caso de los profesionales de la educación de establecimientos particulares pagados y subvencionados y de establecimientos administrados por corporaciones privadas según lo dispuesto en el Decreto Ley N° 3.166 de 1980 y a la Contraloría General de la República en el caso de los profesionales de la educación del sector municipal.
+
+## Título II
+
+ASPECTOS PROFESIONALES
+
+### Párrafo I
+
+Funciones Profesionales
+
+#### Artículo 15°
+
+Son funciones de los profesionales de la educación la docente, la docente directiva y la técnico pedagógica.
+
+#### Artículo 16°
+
+La función docente es aquella de carácter profesional de nivel superior que lleva a cabo directamente los procesos sistemáticos de enseñanza y educación, lo que incluye el diagnóstico, planificación, ejecución y evaluación de estos procesos y las actividades educativas generales y complementarias que tienen lugar en las unidades educativas.
+
+#### Artículo 17°
+
+La función docente comprende la docencia de aula y las actividades curriculares no lectivas.
+
+La docencia de aula es la acción o exposición personal directa realizada en forma continua y sistemática por el docente, inserta dentro del proceso educativo.
+
+La hora docente de aula será de 45 minutos como máximo.
+
+Las actividades curriculares no lectivas son aquellas labores educativas complementarias de la función docente de aula, tales como la administración de la educación, las actividades anexas o adicionales a la función docente propiamente tal, la jefatura de curso, las actividades coprográmaticas y culturales, las actividades extraescolares, las actividades vinculadas con organismos o acciones propias del quehacer escolar y las actividades de coordinación con organismos o instituciones del sector que indican directa o indirectamente en la educación en la forma indicada en el artículo 20° de este Reglamento y las análogas que se establezcan por el Ministerio de Educación mediante decreto.
+
+#### Artículo 18°
+
+La función docente directiva es aquella de carácter profesional de nivel superior que, sobre la base de una formación y experiencia docente específica para la función se ocupa de lo atinente a la dirección, administración, supervisión y coordinación de la educación y que conlleva tuición y responsabilidad adicionales directas sobre el personal docente, paradocente, administrativo, auxiliar o de servicios menores y respecto de los alumnos.
+
+Sin perjuicio de lo establecido en el inciso anterior, la función principal del director de un establecimiento educacional será dirigir y liderar el proyecto educativo institucional.
+
+Los directores de establecimientos educacionales, para dar cumplimiento a las funciones a que se refiere el inciso precedente, y para asegurar la calidad del trabajo educativo, contarán en el ámbito pedagógico, como mínimo, con las siguientes atribuciones:
+
+a.- Formular, hacer seguimiento y evaluar las metas y objetivos del establecimiento educacional, los planes y programas de estudio y las estrategias para su implementación;
+
+b.- Organizar y orientar las instancias de trabajo técnico-pedagógico y de desarrollo profesional de los docentes del establecimiento, y
+
+c.- Adoptar las medidas necesarias para que los padres y apoderados reciban regularmente información sobre el funcionamiento del establecimiento y el progreso de sus hijos.
+
+Estas atribuciones podrán ser delegadas dentro del equipo directivo del establecimiento.
+
+#### Artículo 18 bis
+
+En los establecimientos educacionales de dependencia directa de los Departamentos de Administración de Educación Municipal o de las Corporaciones Municipales de Educación, el director, complementariamente, deberá gestionar administrativa y financieramente el establecimiento y cumplir las demás funciones, atribuciones y responsabilidades que le otorguen las leyes.
+
+Los directores del sector municipal, para cumplir con las funciones complementarias que les otorga el inciso anterior, contarán con las siguientes atribuciones:
+
+a) En el ámbito administrativo: organizar y supervisar el trabajo de los docentes y del personal no docente del establecimiento educacional regido por la Ley Nº 19.464; proponer al sostenedor el personal a contrata y de reemplazo, tanto el docente como el no docente antes referido; ser consultado en la selección de los profesores cuando vayan a ser destinados a ese establecimiento; y promover una adecuada convivencia en éste, y
+
+b) En el ámbito financiero: asignar, administrar y controlar los recursos que les fueren delegados en conformidad a la ley y, especialmente, los delegados en virtud de la Ley Nº 19.410 y sus modificaciones.
+
+#### Artículo 19°
+
+Las funciones docentes técnico-pedagógicas son aquellas de carácter profesional de nivel superior que, sobre la base de una formación y experiencia docente específica para cada función, se ocupan de campos de apoyo o complemento de la docencia, tales como:
+
+- Orientación educacional y vocacional; supervisión pedagógica; planificación curricular; evaluación del aprendizaje; investigación pedagógica; coordinación de procesos de perfeccionamiento docente; y otras análogas que se determinen, previo informe informe de los organismos competentes, por Decreto del Ministerio de Educación.
+
+#### Artículo 20°
+
+Constituyen actividades curriculares no lectivas entre otras, las siguientes:
+
+1. Actividades relacionadas con planes y programas de estudio:
+
+a. Clases de reforzamiento a las asignaturas del plan de estudios;
+
+b. Funcionamiento de academias, talleres y clubes;
+
+c. Investigación, estudio y elaboración de planes y programas de estudio;
+
+d. Relativas al proceso de titulación en educación media técnico-profesional;
+
+e. Vinculadas con los procesos de validación, y convalidación de estudios;
+
+f. Conferencias, charlas u otras acciones en terreno sobre temas o aspectos específicos vinculadas con la labor docente.
+
+g. Clases de preparación para la prueba de aptitud académica.
+
+2. Actividades relacionadas con la administración de la educación, tales como:
+
+a. Actividades complementarias a las funciones de dirección, planificación, orientación, supervisión y evaluación educacional.
+
+b. Matrícula de alumnos.
+
+c. Anotación de datos y constancia en formularios oficiales, tales como: libro de vida o libro de clases, registro diario de asistencia, registro de recepción y distribución de material recibido, ficha escolar, certificados, actas de exámenes, registros diversos, informes.
+
+d. Secretarías de los diversos Consejos.
+
+e. Supervisión del mantenimiento y conservación de máquinas, equipos, herramientas e instalaciones de los talleres, laboratorios, terrenos, oficinas de práctica y gabinete, cuando corresponda.
+
+3. Actividades anexas a la función docente propiamente tal, como:
+
+a. Elaboración y corrección de instrumentos evaluativos del proceso enseñanza aprendizaje;
+
+b. Preparación, selección y confección de material didáctico;
+
+c. Régimen escolar y comportamiento de los alumnos;
+
+d. Planificación de clases;
+
+e. Funciones de monitores en programas de auto aprendizaje;
+
+f. Acciones de alfabetización a apoderados y adultos de la comunidad;
+
+g. Atención individual de alumnos y apoderados;
+
+h. Estudios relacionados con el desarrollo del proceso educativo;
+
+i. Investigación docente;
+
+j. Complementarias a las funciones del Gabinete Técnico en la educación especial o diferencial;
+
+k. Jefaturas de Departamentos de asignaturas o de Consejo de Profesores Jefes;
+
+l. Consejo de Profesores del establecimiento;
+
+m. Otras reuniones técnicas como talleres y actividades de perfeccionamiento dentro del establecimiento educacional;
+
+n. Realización de visitas a instituciones cuyas actividades se relacionan con los objetivos de los programas de estudio, ya sea del docente sólo o con sus alumnos;
+
+ñ. Preparación del modelos simulados de rendimiento en procesos de aprendizaje tecnológico;
+
+o. Coordinación técnica con funcionarios del Ministerio de Educación;
+
+p. Acciones directas de vinculación del establecimiento educacional con la comunidad:
+
+capacitación, diagnósticos, investigaciones, y otras.
+
+q. Diseñar diversas estrategias curriculares tendientes a incentivar el uso de los recursos para el aprendizaje como un apoyo a las prácticas pedagógicas en todas las áreas del conocimiento.
+
+r. Organizar actividades de extensión utilizando el tiempo libre en la lectura recreativa y promover trabajos de investigación que desarrollen en los estudiantes capacidades analíticas, deductivas y críticas.
+
+4. Actividades relacionadas con la Jefatura de curso, tales como:
+
+a. Reuniones periódicas con padres y apoderados;
+
+b. Atención individual de padres y apoderados;
+
+c. Consejos de profesores de curso y Consejo de Curso;
+
+d. Atención individual a los alumnos;
+
+e. Confrontación periódica de la realidad del grupo con el estudio hecho al comienzo del año escolar;
+
+f. Transcripción y entrega de calificaciones periódicas a los alumnos y a los padres y apoderados;
+
+g. Elaboración de los informes educacionales;
+
+h. Visitas, foros, paneles, conferencias, charlas de orientación educacional y vocacional.
+
+5. Actividades coprogramáticas y culturales, tales como:
+
+a. Coordinación de actividades culturales y recreativas;
+
+b. Participación en actos oficiales de carácter cultural, cívico y educativo del colegio y de la comunidad, cuando ésta lo solicite;
+
+c. Realización de actos cívicos y culturales;
+
+d. Giras de estudio o excursiones escolares;
+
+6. Actividades extraescolares, tales como:
+
+a. Las referidas al área científico-tecnológica (academias, concursos, otros semejantes);
+
+b. Las relacionadas con el área artística (grupos de teatro, musicales, de pintura, concursos, otros);
+
+c. Las relativas al área cívico-social (brigadas y otros);
+
+d. Las que se refieren al área deportiva (clubes deportivos, programas especiales, otros).
+
+7. Actividades vinculadas con organismos o acciones propias del quehacer escolar, tales como:
+
+a. Asesoramiento a:
+
+- Centros de Alumnos;
+
+- Centros de Ex-alumnos;
+
+- Centros de Padres y Apoderados.
+
+b. Desarrollar acciones de:
+
+- Bienestar;
+
+- Cruz Roja y/o Primeros Auxilios;
+
+- Escuela para Padres;
+
+- Coordinación y participación en comisiones
+
+mixtas salud-educación.
+
+c. Organizar y asesorar:
+
+- Biblioteca del establecimiento;
+
+- Diarios Murales;
+
+- Ropero escolar;
+
+- Brigada de Seguridad en el Tránsito;
+
+- Brigada de Boy Scouts o Girl Guides.
+
+- Brigadas o Grupos Ecológicos.
+
+8. Actividades vinculadas con la coordinación de acciones con organismos o instituciones que incidan directa o indirectamente en la educación, tales como:
+
+a. Asistencialidad escolar;
+
+b. Del sector cultural como Bibliotecas Museos y otras;
+
+c. De educación superior;
+
+d. Comisiones de Senescencia;
+
+e. Instituciones de la comunidad;
+
+9. Participación en Asociaciones Gremiales de profesores legalmente constituidas, de conformidad con lo que se señala en el artículo siguiente.
+
+#### Artículo 21°
+
+Para asignar actividades curriculares no lectivas de aquellas a que se refiere el numeral 9 del artículo anterior, los empleadores deberán constatar que se trata de docentes dirigentes nacionales, regionales, provinciales y comunales o locales elegidos conforme a los estatutos de sus respectivas asociaciones gremiales.
+
+Para estos efectos, los Directores Regionales de estas asociaciones enviarán a los empleadores y directores de establecimientos educacionales respectivos, la nómina de quienes reúnen esas calidades, con indicación del tiempo que duren sus mandatos.
+
+### Párrafo II
+
+Año Laboral Docente y Año Escolar.
+
+#### Artículo 22°
+
+Para los efectos de la Ley N° 19.070 y de este Reglamento, se entenderán, en cada establecimiento como "año laboral docente" el período comprendido entre el primer día hábil del mes en que se inicia el año escolar y el último del mes inmediatamente anterior a aquél en que se inicia el año escolar siguiente.
+
+#### Artículo 23°
+
+Se entiende por "año escolar" el período fijado de acuerdo a las normas que rige el calendario escolar y que por regla general, abarca el período comprendido entre el 1° de marzo y el 31 de diciembre de cada año.
+
+Se entiende por "año lectivo" el período comprendido dentro del año escolar en el que los alumnos concurren a clases y que, generalmente abarca 38 semanas.
+
+### Párrafo III
+
+Formación
+
+#### Artículo 24°
+
+La formación de los profesionales de la educación corresponde a las Universidades e Institutos Profesionales de acuerdo a lo establecido en la Ley N° 18.962 Orgánica Constitucional de Enseñanza.
+
+#### Artículo 25°
+
+El título profesional es el que de conformidad con la legislación vigente se otorga a un egresado de un Instituto Profesional o de una Universidad que ha aprobado un programa de estudios cuyo nivel y contenido le confieren una formación general y científica necesaria para un adecuado desempeño profesional.
+
+#### Artículo 26°
+
+Los grados académicos de Licenciado, Magister y Doctor son los que de conformidad con la legislación vigente, se otorga al alumno de una Universidad que ha cumplido los requisitos establecidos.
+
+#### Artículo 27°
+
+Los títulos que otorguen las Universidades e Institutos Profesionales a los profesionales de la educación pueden tener menciones o especialidades.
+
+### Párrafo IV
+
+Perfeccionamiento
+
+#### Artículo 28°
+
+Los profesionales de la educación tienen derecho al perfeccionamiento profesional.
+
+Se entiende que constituyen perfeccionamiento los programas, cursos, o actividades de perfeccionamiento de post-título y post-grado cuyo objetivo es contribuir al mejoramiento del desempeño profesional de los docentes, mediante la actualización de conocimiento relacionados con su formación profesional o la adquisición de nuevas técnicas y medios que signifiquen un mejor cumplimiento de sus funciones.
+
+#### Artículo 29°
+
+Para efectos del presente Reglamento, se entenderá por:
+
+a. Programa de perfeccionamiento; al conjunto de cursos o actividades de perfeccionamiento, de naturaleza homogénea, estructurado en torno a un tema específico, a un proceso o a un área educacional, que es evaluado y se desarrolla en un marco temporal definido.
+
+b. Curso de perfeccionamiento; a la organización sistemática, planificada y evaluada de una unidad o de un conjunto de unidades temáticas sobre una disciplina o área del conocimiento o técnicas y procedimientos de acción pedagógica, en un tiempo preestablecido.
+
+Esta organización comprenderá, entre otros, objetivos, estrategias metodológicas, actividades y modalidades de evaluación.
+
+c. Curso de especialización: al estudio particular y en profundidad de una disciplina de la pedagogía o de una modalidad específica del sistema que entregue una formación en un área o disciplina educacional d. Actividades de perfeccionamiento de post-Título: a la denominación genérica referida a los estudios realizados luego de la obtención del título de profesor que impliquen un desarrollo sistemático, permanente, evaluado y que culminen en la realización de una práctica intensiva o proyecto conducente a la obtención de una formación en una área o disciplina educacional que capaciten para desempeñar un rol diferente dentro del campo profesional.
+
+e. Actividades de perfeccionamiento de post-grado: a las acciones conducentes a los grados académicos de Licenciado, siempre que no sea pre-requisito del título, de Magister y de Doctor.
+
+#### Artículo 29°
+
+A.- El nivel académico del programa, curso o actividad de perfeccionamiento de post-título o post-grado y sus horas de duración serán los siguientes:
+
+a) Nivel Básico de Actualización: Es aquel que está ligado a la práctica docente, tiene como objetivo el mejoramiento del desempeño profesional actual que realiza el profesional de la educación, con una duración mínima de 20 y una máxima de 200 horas;
+
+b) Nivel Intermedio de Especialización: Es aquel que implica el estudio particular y en profundidad de una disciplina, de un área de la pedagogía o de una modalidad específica del sistema que entregue una formación en un área o disciplina educacional, con una duración mínima de 250 horas y un máximo de 400;
+
+c) Nivel avanzado: Los post-grados, asimilándose a este nivel los post-títulos que presenten las características establecidas en el artículo 29 letra d) del presente Reglamento y que tengan una duración mínima de 640 horas.
+
+#### Artículo 29°
+
+B.- Los distintos cursos, programas o actividades de perfeccionamiento pueden ser impartidos en las siguientes modalidades:
+
+Cursos presenciales: son aquellos en que el proceso de enseñanza y de aprendizaje se realiza fundamentalmente a través de la interacción directa entre docente y alumno en horas previamente establecidas. No obstante, en esta modalidad se pueden incorporar actividades no presenciales de aplicación o transferencia al aula de conocimientos o experiencias adquiridas en forma sistemática, planificada, evaluada y en un tiempo preciso, que justificadamente no podrán exceder del 20% del total de horas del curso.
+
+Cursos a distancia: son aquellos en los que la interacción del docente y los alumnos en el proceso de enseñanza y de aprendizaje, se realiza fundamentalmente a través de medios o materiales pedagógicos, incluyendo recursos informáticos. Esta modalidad podrá considerar tutorías o talleres como medio de apoyo a los alumnos.
+
+Cursos mixtos: son aquellos en los que la interacción del docente y los alumnos en el proceso de enseñanza y de aprendizaje se realiza a través de una combinación de acciones, de relación directa o presencial y de la utilización de medios o materiales pedagógicos, incluyendo recursos informáticos.
+
+#### Artículo 30°
+
+Los programas, cursos o actividades de perfeccionamiento, deberán cumplir con los siguientes requisitos mínimos:
+
+a) Presentar las siguientes características académicas: objetivos, principales contenidos, metodologías de realización y materiales de apoyo;
+
+b) Guardar la debida correspondencia entre el número de horas y los requerimientos académicos del curso, programa o actividad de perfeccionamiento;
+
+c) Identificar el cuerpo docente, adjuntando el respectivo currículum y señalando el número de horas y materias a desarrollar por cada uno de los docentes;
+
+d) Especificar los procedimientos, tipos y fechas en que se efectuarán las evaluaciones de los aprendizajes de los alumnos;
+
+e) Calificar los aprendizajes de los alumnos por medio de una escala de notas 1 a 7, en la cual la nota 4 representa la nota mínima de aprobación; u otra escala equivalente para los post-títulos o post-grados;
+
+f) Exigir a los alumnos una asistencia mínima de 80% si se trata de programas o cursos presenciales; o las normas específicas que establecerá el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas para los programas o cursos cuya ejecución sea mediante la modalidad a distancia o mixta;
+
+g) Presentar en las actividades de perfeccionamiento de post-título o post-grado los requisitos de evaluación y asistencia que las respectivas instituciones de educación superior, habilitadas legalmente para impartirlos, hayan establecido en sus planes curriculares; y
+
+h) Especificar distribución horaria y fechas de inicio y de término del curso, programa o actividad de perfeccionamiento.
+
+En todo caso, los cursos, programas o actividades de perfeccionamiento deben inscribirse con antelación a su inicio en el Registro Público que deberá llevar el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, según el procedimiento que se establece en los artículos 40, 41 y 42 de este Reglamento.
+
+#### Artículo 30°
+
+A.- El diseño de los cursos, programas o actividades de perfeccionamiento deberá contener la especificación de la función o de las funciones docentes; los niveles y modalidades escolares; los sectores y subsectores de aprendizaje a los cuales van dirigidos, para que puedan considerarse válidos para impetrar la asignación de perfeccionamiento, sin perjuicio de la validez general de ellos para otros efectos.
+
+#### Artículo 31°
+
+Corresponderá al Ministerio de Educación a través del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, en adelante el "CENTRO", en general, colaborar al perfeccionamiento de los profesionales de la educación mediante la ejecución en las regiones de programas, cursos, o actividades de este tipo y en otorgamiento de becas de montos equitativos para todos los profesionales de establecimientos subvencionados, especialmente para quienes se desempeñan en localidades aisladas:
+
+En particular cumplirá las siguientes funciones:
+
+a. Mantener un Registro Público en el cual se inscribirán los programas, cursos y actividades de perfeccionamiento de post-títulos y post-grados que se ofrezcan en el país con indicación de los datos señalados en el artículo 40° del presente Reglamento.
+
+b. Acreditar a las instituciones públicas o privadas que así lo requieran y que tengan interés en desarrollar programas o cursos de perfeccionamiento, de acuerdo al procedimiento fijado en los artículos 33° al 39° del presente Reglamento.
+
+c. Aprobar programas o cursos de perfeccionamiento que ofrezcan instituciones públicas o privadas acreditadas y evaluar su desarrollo.
+
+d. Ejecutar en regiones, ya sea directamente o a través de terceros mediante convenio, programas o cursos de perfeccionamiento.
+
+e. Otorgar becas de montos equitativos para los profesionales de la educación subvencionada para seguir programas, cursos, o actividades de perfeccionamiento de post-título o post-grado, privilegiando a quienes se desempeñen en localidades aisladas, de acuerdo con el financiamiento que se determine en el presupuesto respectivo.
+
+#### Artículo 32°
+
+Pueden realizar programas o cursos de perfeccionamiento las siguientes instituciones:
+
+a. El Centro de Perfeccionamiento,
+
+Experimentación e Investigaciones Pedagógicas;
+
+b. Las instituciones de educación superior que gocen de autonomía y se dediquen a estos fines; y c. Las instituciones públicas o privadas que estén debidamente acreditadas ante el Centro
+
+Podrán realizar actividades de perfeccionamientos conducente a la obtención de post-título y post-grados sólo las Instituciones de Educación Superior que gocen de plena autonomía y que estén legalmente habilitadas para ofrecerlos, como asimismo las instituciones de Educación Superior que no gozando de plena autonomía, hayan sido autorizadas para hacerlo por haber sido acreditadas para ello por el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, previa aprobación, según corresponda, del Consejo Superior de Educación y obtenido la autorización respectiva del Ministerio de Educación. La División de Educación Superior del Ministerio de Educación, en caso necesario, certificará la situación en que se encuentra la Institución de Educación Superior respecto de su plena autonomía.
+
+Los Departamentos de Administración de Educación Municipal y las entidades privadas de educación subvencionada, podrán colaborar a los procesos de perfeccionamiento vinculados al cumplimiento de los objetivos señalados en los artículos anteriores, desarrollando respecto de los profesionales de la educación de su dependencia toda clase de actividades de capacitación ya sea directamente o a través de terceros.
+
+### Párrafo V
+
+Acreditación
+
+#### Artículo 33°
+
+Las instituciones públicas o privadas, las Municipalidades las Corporaciones Educacionales y las entidades privadas de educación subvencionada que tengan interés en desarrollar programas o cursos de perfeccionamiento, deberán acreditarse ante el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas.
+
+El Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas y las Instituciones de Educación Superior que gocen de autonomía y se dediquen a estos fines, no estarán sujetas a esta exigencia.
+
+#### Artículo 34°
+
+Las instituciones ejecutoras de perfeccionamiento, que postulen a ser acreditadas ante el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, deberán cumplir copulativamente con los siguientes requisitos:
+
+a) Acreditar su calidad jurídica, constando que entre sus fines u objeto social está la realización de perfeccionamiento, en el ámbito que le es propio;
+
+b) Acompañar el proyecto de perfeccionamiento y sus correspondientes cursos para su evaluación. Se entenderá por tal la organización de programas y/o cursos en torno a objetivos de perfeccionamiento que estén en relación con el objetivo del perfeccionamiento que se define en el artículo 11 del D.F.L. Nº 1, de 1996 de Educación. La estructura de estos proyectos será definida y dada a conocer por el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas;
+
+c) Demostrar que posee la infraestructura suficiente y adecuada y que dispone de los recursos humanos suficientes para el normal funcionamiento de la institución;
+
+d) Demostrar que dispone o dispondrá de infraestructura adecuada y suficiente y que cuenta con los recursos humanos, profesionales, técnicos, administrativos y auxiliares necesarios para impartir el perfeccionamiento de que se trate;
+
+e) Presentar los antecedentes que avalen la idoneidad de los docentes que impartirán los distintos perfeccionamientos, así como los materiales que emplearán;
+
+f) Presentar toda otra información o documentación adicional que resulte indispensable y necesaria para facilitar el proceso de acreditación de la institución y la aprobación de su proyecto de perfeccionamiento; y
+
+g) Pagar los costos correspondientes.
+
+En todo caso, el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas podrá pedir información o documentación adicional; y, además, podrá señalar procedimientos específicos.
+
+#### Artículo 35°
+
+Las instituciones que deseen acreditarse deberán solicitarlo entre el 1 de marzo y el 30 de noviembre del año respectivo, debiendo respetar siempre que tal solicitud se presente 90 días antes del comienzo de ejecución del primer curso.
+
+El Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas deberá conceder o rechazar la acreditación de la institución solicitante en un plazo de 60 días, considerando el proyecto de perfeccionamiento presentado y los cursos, programas o actividades de perfeccionamiento contenidos en él; los antecedentes acompañados; y el cumplimiento de los requisitos antes señalados.
+
+El Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas deberá comunicar, según corresponda, el rechazo o la aprobación en el plazo indicado y, en este último caso, deberá inscribir los cursos, programas o actividades de perfeccionamiento incluidos en el proyecto de perfeccionamiento presentado, en el Registro Público Nacional de Perfeccionamiento.
+
+Si no se pronunciare en el plazo determinado anteriormente, la institución quedará acreditada automáticamente y se entenderá aprobado el proyecto de perfeccionamiento presentado y deberán inscribirse los cursos, programas o proyectos de perfeccionamiento incluidos en él.
+
+#### Artículo 36°
+
+DEROGADO
+
+#### Artículo 37°
+
+Las instituciones acreditadas podrán realizar nuevos cursos, programas o actividades de perfeccionamiento, solicitándolo en el período señalado en el artículo 35 anterior, debiendo respetar siempre que tal solicitud se presente antes de su inicio con una anticipación de 60 días si se trata de cursos o programas de perfeccionamiento de nivel básico, 75 días si se trata de cursos o programas de perfeccionamiento de nivel intermedio y de 90 días si se trata de actividades de perfeccionamiento de post-título o post-grado, acompañando los antecedentes académicos correspondientes.
+
+Estos cursos, programas o actividades de perfeccionamiento deberán guardar correspondencia y armonía con el proyecto de perfeccionamiento presentado por la institución. En caso que sean de distinta naturaleza deberá presentarse una adecuación a su proyecto de perfeccionamiento inicial.
+
+El Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas podrá rechazarlos o aprobarlos, en un plazo de 30 días cuando se trate de cursos o programas de perfeccionamiento de nivel básico, de 45 días para los de nivel intermedio y de 60 días para las actividades de perfeccionamiento de post-título o post-grado de nivel avanzado, plazos que se contarán desde la fecha de su presentación.
+
+En caso de que los apruebe o no se pronuncie en los plazos señalados en el inciso anterior, los cursos, programas o actividades de perfeccionamiento deberán inscribirse en el Registro Público Nacional de Perfeccionamiento, y se determinará la vigencia de la inscripción de acuerdo a su naturaleza y desarrollo curricular.
+
+#### Artículo 37°
+
+A.- Las instituciones que realicen cursos, programas o actividades de perfeccionamiento deberán remitir al Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, en un plazo máximo de 15 días contados desde la fecha declarada de iniciación del respectivo curso, programa o actividad de perfeccionamiento, la nómina de los alumnos matriculados en cada uno de ellos.
+
+#### Artículo 38°
+
+Después de finalizado el curso en un plazo máximo de quince días contados desde esa fecha, la institución acreditada deberá enviar al Centro la siguiente información:
+
+a. Acta de evaluación final señalando con precisión nombres y apellidos completos de todos los profesores-alumnos matriculados con sus respectivos RUT; nota final; porcentaje de asistencia y situación final indicando si aprobó o reprobó;
+
+b. Un ejemplar de cada uno de los instrumentos de evaluación aplicados;
+
+c. Período efectivo de realización indicando fechas de inicio y término y sede en que se realizó;
+
+d. Nómina de los docentes que realizaron cada una de las asignaturas o actividades;
+
+e. Informe del Coordinador del curso de acuerdo a formato tipo elaborado especialmente para este efecto.
+
+#### Artículo 39°
+
+Las instituciones que soliciten ser acreditadas deberán pagar los siguientes costos:
+
+a) Análisis y revisión institucional 5 UTM
+
+b) Proceso de análisis y revisión de
+
+proyectos de perfeccionamiento:
+
+- Post-títulos y post-grados 3 UTM
+
+- Cursos Intermedios de Especialización 2 UTM
+
+- Cursos Básicos de Actualización 1 UTM
+
+Las instituciones ya acreditadas deberán cancelar, según corresponda, los costos señalados en la letra b) del inciso anterior, cuando soliciten aprobación de nuevos cursos, programas o actividades de perfeccionamiento, vinculados a sus respectivos proyectos de perfeccionamiento.
+
+### Párrafo VI
+
+Registro Público
+
+#### Artículo 40°
+
+El Centro, las instituciones de educación superior que gocen de plena autonomía dedicadas a estos fines y las instituciones públicas o privadas acreditadas, deberán inscribir en el Registro Público que llevará el Centro los programas, cursos y actividades de Perfeccionamiento de post-títulos y post-grados solicitándolo en un formulario tipo que proporcionará este organismo.
+
+El formulario tipo deberá contener, a lo menos, los siguientes datos:
+
+a) Institución que ofrece el perfeccionamiento y sede;
+
+b) Nombre del curso, programa o actividad de perfeccionamiento;
+
+c) Modalidad del curso: presencial, a distancia o mixta;
+
+d) Grado de relación con una o más funciones docentes, niveles y modalidades escolares, sectores y/o subsectores de aprendizaje, según corresponda;
+
+e) Fechas de inicio y término, carga horaria, nivel y cuerpo docente a cargo del curso, programa o actividad de perfeccionamiento;
+
+g) Requisitos de ingreso, destinatarios y número de vacantes;
+
+h) Características académicas: objetivos, principales contenidos y metodologías de realización; materiales de apoyo; modalidades de evaluación y requisitos de aprobación; y
+
+i) Valor total de curso para el alumno que incluye matrícula, materiales, certificados y otros.
+
+Los cursos, programas o actividades de perfeccionamiento que se inscriban deberán cumplir con lo señalado en los artículos 28 a 30 de este reglamento.
+
+Las instituciones que hayan inscrito cursos, programas o actividades de perfeccionamiento en el Registro Público deberán enviar el Acta de Evaluación Final correspondiente en un plazo de 20 días luego de concluido el curso, programa o actividad de perfeccionamiento.
+
+#### Artículo 41°
+
+Las solicitudes de inscripción de nuevas ejecuciones de cursos ya aprobados e inscritos por las instituciones acreditadas y de cursos por las instituciones autónomas o por el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, deberán presentarse en un plazo no inferior a 40 días antes del inicio del respectivo curso, programa o actividad de perfeccionamiento de post-título o post-grado y el Centro deberá practicar la inscripción en el Registro Público Nacional de Perfeccionamiento, en un plazo de 10 días hábiles contados desde la fecha de presentación de la solicitud.
+
+La inscripción en el Registro Público deberá indicar, entre otros datos, el tipo de función docente a la que está destinado el curso, programa o actividad de perfeccionamiento, el respectivo nivel escolar, modalidad, sector y subsector de aprendizaje, según corresponda.
+
+Las instituciones señalarán en la publicidad que realicen y en los certificados que otorguen, junto con el nombre del curso, programa o actividad de perfeccionamiento, el número de Registro Público Nacional de Perfeccionamiento (RPNP) y su fecha; el número de horas pedagógicas; el nivel académico; la relación con una función docente determinada; el respectivo nivel, modalidad escolar, sector o subsector de aprendizaje; el período de ejecución (fecha de inicio y término); y la sede donde se desarrollará o se desarrolló el curso, programa o actividad. Estos datos deben ser coincidentes con aquellos incorporados en el Registro Público.
+
+#### Artículo 42°
+
+El Centro deberá elaborar listados nacionales en los que se incluirán los programas, cursos o actividades de perfeccionamiento de post-títulos o post-grados inscritas en el Registro Público. Estos listados incluirán, a lo menos, nombre del curso, fecha de realización, sede, duración, relación con la función docente, nivel, modalidad escolar, sector y subsector de aprendizaje, según corresponda, institución oferente, costo de cada uno de ellos y número de inscripción en el registro.
+
+Los listados deberán ponerse a disposición de los usuarios en las Secretarías Regionales Ministeriales de Educación, en los Departamentos Provinciales de Educación, en los Municipios o en otros lugares públicos de común acceso, o mediante Internet u otro medio informático y, en la medida de los recursos disponibles, se publicarán en, a lo menos, un diario de circulación nacional.
+
+Los listados nacionales deberán actualizarse, a lo menos, semestralmente.
+
+### Párrafo VII
+
+Del procedimiento para aplicar las sanciones del
+
+#### Artículo 12 bis
+
+DFL Nº 1, de 1996 de Educación.
+
+#### Artículo 42
+
+A.- El Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, por resolución fundada y atendida la gravedad y reiteración de la conducta, oída la entidad afectada, podrá sancionarla con amonestación; multa a beneficio fiscal de hasta 5 UTM; revocación de la inscripción del curso, programa o actividad de perfeccionamiento de que se trate; o pérdida de la acreditación de la institución, cuando corresponda, por incumplimiento de las condiciones de ejecución de los cursos o actividades presentadas al momento de la inscripción del curso, programa o actividad respectiva, por evidentes deficiencias administrativas o de recursos que afecten la calidad del servicio educacional, o por presentar irregularidades que afecten seriamente a los usuarios.
+
+Con el objetivo de aplicar alguna de las sanciones indicadas en el inciso anterior deberá seguirse el siguiente procedimiento:
+
+1.- Detectada una acción u omisión que pudiere constituir una causal de las señaladas en el artículo siguiente, se ordenará una visita indagatoria a la entidad afectada o se le solicitarán antecedentes;
+
+2.- Con el resultado de la visita o según conste de los documentos acompañados, se le formularán cargos por escrito al representante de la entidad, notificándolos y concediéndoles un plazo de 10 días hábiles para que presenten descargos por escrito, a los que deberá acompañar los medios de prueba que correspondan;
+
+3.- Presentados los descargos o transcurrido el plazo concedido para tal efecto, se emitirá un informe y mediante resolución del Jefe del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, se determinará si se han acreditado las acciones u omisiones detectadas y se sobreseerá o se aplicará la sanción que corresponda;
+
+Las notificaciones se practicarán mediante carta certificada dirigida a la dirección que la entidad tuviere registrada en el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, y producirán sus efectos 3 días después de la fecha de su despacho, de lo cual se dejará constancia expresa.
+
+### Párrafo VIII
+
+Becas para Perfeccionamiento
+
+#### Artículo 43°
+
+Los profesionales de la educación subvencionada, podrán participar en los programas de becas de perfeccionamiento que el Ministerio de Educación establezca de acuerdo al financiamiento que para ello se determine en el presupuesto respectivo.
+
+Para estos efectos se entenderá por beca de perfeccionamiento el beneficio de participación, sin costo para el profesor becario, en alguno de los programas, cursos, o actividades de perfeccionamiento de post-títulos o post-grados que ofrezca el Ministerio de Educación a través del Centro, ya sea directamente o mediante convenio con terceros.
+
+La beca podrá ser total o parcial cubriendo costos de derechos de matricula, alimentación, estadía, pasajes, estipendio personal u otros, según quede establecido en el llamado a postulación respectivo y tendrá la duración que allí se determine.
+
+#### Artículo 44°
+
+Los profesionales de la educación podrán postular a las becas de perfeccionamiento siempre que cumplan con los siguientes requisitos:
+
+a. Trabajar en un establecimiento educacional subvencionado;
+
+b. contar con el patrocinio del sostenedor del establecimiento de que se trate cuando el programa, curso o actividad de perfeccionamiento de post-títulos o post-grados se realice fuera del respectivo local escolar o durante los períodos de actividades normales que se desarrollen durante el año escolar; este patrocinio deberá otorgarse siempre que se trate de programas, cursos o actividades de perfeccionamiento de post-títulos o post-grados de carácter general y que digan relación con los programas y proyectos educativos del establecimiento.
+
+c. Estar aceptado en alguno de los programas, cursos o actividades de perfeccionamiento de post-títulos o post-grados inscritos en el Registro Público correspondiente.
+
+d. Contraer el compromiso de trabajar en el establecimiento patrocinante durante el año escolar siguiente. Con todo, si la beca se realiza durante los dos primeros meses del año calendario, el compromiso de permanencia se referirá al año laboral docente respectivo.
+
+#### Artículo 45°
+
+El Ministerio de Educación hará la distribución equitativa, tanto regional como provincial de las becas, de acuerdo a la política educacional vigente, a las reales necesidades de perfeccionamiento de los docentes, y a las disponibilidades de financiamiento.
+
+#### Artículo 46°
+
+Las becas se otorgarán por el Secretario Regional Ministerial de Educación respectivo considerando un informe técnico de evaluación realizado por la Secretaría Regional Ministerial de Educación y las recomendaciones del Consejo Provincial respectivo creado por Decreto Supremo de Educación N° 616, de 1990.
+
+#### Artículo 47°
+
+En el otorgamiento de las becas, se considerarán como criterios de prioridad los siguientes antecedentes:
+
+a. Trabajar en establecimientos de bajo rendimiento escolar o que tenga especiales necesidades de apoyo o mejoramiento;
+
+b. Informe de desempeño de los postulantes otorgado por el Director del establecimiento respectivo si son docentes, docentes directivos o docentes de funciones técnico pedagógicas y por el Jefe del Departamento de Administración de Educación Municipal o de la Corporación Educacional o del sostenedor, si de trata de un Director de establecimiento educacional.
+
+Se considerarán, asimismo, entre los antecedentes, no haber sido beneficiado con beca de este tipo en los últimos tres años; que exista un grado de relación entre la función que ejerce el profesional en el establecimiento y los contenidos del programa al cual postula; y el aporte que puedan realizar el establecimiento patrocinador o el propio postulante para el financiamiento del curso al cual postulan.
+
+El Secretario Regional Ministerial de Educación correspondiente comunicará directamente a los beneficiados la concesión de las becas.
+
+#### Artículo 48°
+
+El becario estará sujeto a las siguientes obligaciones:
+
+a. Mantener un alto rendimiento en sus estudios;
+
+b. Observar una conducta personal intachable;
+
+c. Cumplir todas las exigencias académicas y de asistencia que los programas, cursos, o actividades de perfeccionamiento de post-título o post-grado demanden; e
+
+d. Informar a la autoridad inmediatamente superior, el resultado final de su participación en el programa, curso o actividad de perfeccionamiento de post-título o post-grado.
+
+Cuando el perfeccionamiento se realice por terceros, los convenios respectivos contemplarán la cláusula que señale que el retiro o suspensión de los estudios por parte del becario sólo procederá por razones fundadas debiendo comunicarse por escrito este hecho por la institución ejecutora al Secretario Regional Ministerial de Educación que corresponda.
+
+### Párrafo IX
+
+Participación
+
+#### Artículo 49°
+
+Los profesionales de la educación tendrán derecho a participar, con carácter consultivo, en las siguientes actividades:
+
+a. Diagnóstico, planeamiento, ejecución y evaluación de dichas actividades en la unidad educativa correspondiente;
+
+b. En lo atinente a las relaciones de la unidad educativa con la comunidad;
+
+c. En los procesos de proposición de políticas educacionales en los distintos niveles del sistema a petición de las autoridades competentes.
+
+#### Artículo 50°
+
+En los establecimientos educacionales habrán consejos de profesores u otros organismos equivalentes, integrados por los profesionales de la educación docente-directivos, técnico-pedagógicos y docentes.
+
+Los Consejos de Profesores son organismos técnicos en los que se expresará la opinión profesional de sus integrantes y por medio de los cuales se encausa la participación de los profesionales de la educación en el cumplimiento de los objetivos y programas educacionales y en el desarrollo del proyecto educativo del establecimiento.
+
+Estos Consejos podrán tener carácter resolutivo en materias técnico-pedagógicas, en conformidad al proyecto educativo del establecimiento y su Reglamento Interno.
+
+Los profesores podrán ser invitados a las reuniones de los Centros de Cursos y Centros de Padres y Apoderados, cualquiera que sea su denominación. En lo posible en la invitación se indicarán las materias que se tratarán.
+
+### Párrafo X
+
+Autonomía Profesional
+
+#### Artículo 51°
+
+Los profesionales de la educación que se desempeñen en las funciones docentes gozarán de autonomía en el ejercicio de ésta, sujetos a las disposiciones legales que orientan al sistema educacional, al proyecto educativo del establecimiento y a los programas específicos de mejoramiento e innovación en los que el establecimiento participe.
+
+#### Artículo 52°
+
+La autonomía profesional se ejercerá en:
+
+a. El planeamiento de los procesos de enseñanza y de aprendizaje que desarrollará el profesional de la educación en su ejercicio lectivo;
+
+b. La aplicación de los métodos y técnicas correspondiente;
+
+c. La evaluación de los procesos de enseñanza y de aprendizaje de sus alumnos sobre la base de las normas nacionales, generales o especiales y aquellas que hubiere acordado el establecimiento.
+
+d. La aplicación de los textos de estudio y materiales didácticos en uso en el establecimiento respectivo, tomando en consideración las condiciones geográficas y ambientales y las relativas a la personalidad y capacidades de sus alumnos.
+
+e. La relación con las familias y los apoderados de sus alumnos, teniendo presente las normas adoptadas por el establecimiento.
+
+### Párrafo XI
+
+Responsabilidad Profesional
+
+#### Artículo 53°
+
+Las quejas o denuncias contra un profesional de la educación deberán formularse por escrito, o escribirse por el funcionario que las reciba, por persona o personas individualizadas para que sean admitidas a tramitación por el director del establecimiento.
+
+Respecto de los directores de establecimientos educacionales y de los profesionales de la educación que se desempeñen en los organismos de administración educacional del sector municipal, estas quejas o denuncias deberán presentarse ante el jefe de dicho organismo.
+
+#### Artículo 54°
+
+La queja o denuncia deberá ponerse en conocimiento del profesional de la educación afectado en un plazo de cinco días de recibida, para que éste, también en un plazo de cinco días proceda a dar respuesta escrita a la misma, acompañando los antecedentes que estime del caso.
+
+#### Artículo 55°
+
+El director, sostenedor o jefe respectivo resolverá en un plazo de 10 días con el mérito de los antecedentes que obren en su poder, desestimando la queja o denuncia o bien adoptando las medidas correctivas que la naturaleza de la situación amerite. No obstante, siempre podrá recabar antecedentes adicionales cuando el mérito de la queja o denuncia así lo aconsejen y, cuando se trate de asuntos técnico pedagógicos podrá pedir informe al Consejo de Profesores.
+
+Este procedimiento deberá llevarse en forma privada de tal manera que no dañe la imagen o la honra profesional de la educación para el caso que la queja o denuncia resultare infundada.
+
+#### Artículo 56°
+
+Si se trata de quejas o denuncias contra un profesonal de la educación de establecmientos del sector municipal, que fueron acogidas, se aplicará el procedimiento que se establece en los artículos 136° y siguientes de este Reglamento.
+
+#### Artículo 57°
+
+En los casos señalados y según el mérito de la queja o denuncia que afecte a los profesionales de la educación del sector particular, se aplicarán las normas especiales que se hubieren dado sobre materia y, en el caso de los establecimientos educacionales subvencionados o administrados de acuerdo al Decreto Ley N° 3166 de 1980 lo que se señale en el respectivo reglamento interno.
+
+#### Artículo 58°
+
+No obstante lo señalado en los artículos anteriores, si se trata de quejas o denuncias que impliquen la comisión de un delito, se deberán poner los antecedentes en conocimiento de la Justicia Ordinaria.
+
+### Párrafo XII
+
+Evaluación de la Labor Docente, Directiva Docente y de Unidades Técnico Pedagógicas.
+
+#### Artículo 59°
+
+Los profesionales de la educación son personalmente responsables de su desempeño en la función correspondiente. En tal virtud deberán someterse a los procesos de evaluación de su labor y serán informados de los resultados de dichas evaluaciones. Los profesionales de la educación gozarán del derecho a recurrir contra una apreciación o evaluación directa de su desempeño, si la estima infundada.
+
+La calificación tendrá por objeto evaluar el desempeño funcionario del profesional de la educación para los efectos que señala el presente Reglamento.
+
+## Título III
+
+DE LA CARRERA DE LOS PROFESIONALES DE LA EDUCACION DEL SECTOR MUNICIPAL
+
+### Párrafo I
+
+Ambito de Aplicación y Normativa Supletoria
+
+#### Artículo 60°
+
+Las normas de este Título son aplicables:
+
+a. A los profesionales de la educación que se desempeñan en los establecimientos educacionales del sector municipal.
+
+b. A los profesionales de la educación que ocupan cargos directivos y técnico-pedagógicos en los organismos de administración del sector en los términos señalados en la parte final del artículo 1° de la ley N° 19.070.
+
+#### Artículo 61°
+
+Para estos efectos se considera "sector municipal" los establecimientos educacionales que dependen directamente de los Departamentos de Administración Educacional de cada Municipalidad o de las Corporaciones Educacionales creadas por éstas o los que habiendo sido municipales son administrados por personas jurídicas privadas sin fines de lucro, de acuerdo al DFL. N° 1-3063, de 1980 de Interior.
+
+#### Artículo 62°
+
+Los profesionales de la educación que se desempeñan en el sector municipal se regirán por las normas de la ley N° 19.070, en lo que le sean aplicables y supletoriamente por las del Código del Trabajo y sus leyes complementarias, y las de este Reglamento.
+
+#### Artículo 63°
+
+Los profesionales de la educación que se desempeñan en el sector municipal no estarán afectos a las normas sobre negociación colectiva.
+
+### Párrafo II
+
+Ingreso a la Carrera Docente
+
+### 1. Forma de Ingreso y Disposiciones Generales
+
+#### Artículo 64°
+
+El ingreso a la carrera docente del sector municipal se realizará mediante la incorporación del profesional de la educación a una dotación docente.
+
+Esta incorporación se realizará mediante nombramiento.
+
+#### Artículo 65°
+
+Los profesionales de la educación, para ingresar a la dotación docente, deberán cumplir con los siguientes requisitos, como mínimo:
+
+A. En el caso de horas de trabajo docente:
+
+a. Ser ciudadano;
+
+b. Haber cumplido con la ley de reclutamiento y movilización cuando fuere procedente;
+
+c. Tener salud compatible con el desempeño del cargo;
+
+d. Tener título de profesor o educador según los casos o estar legalmente habilitado o tener autorización para ejercer la función docente en los términos señalados en el artículo 2° de la ley N° 19.070;
+
+e. No estar inhabilitado para el ejercicio de funciones o cargos públicos ni hallarse condenado o procesado por crimen o simple delito;
+
+f. No estar inhabilitado por alguna de las causales señaladas en el artículo 10° del presente Reglamento; y
+
+g. No estar condenado en virtud de la Ley Nº 19.325, sobre violencia intrafamiliar.
+
+B.- Tratándose de cargos directivos docentes o de unidades técnico-pedagógicas, además de lo señalado precedentemente, los postulantes deberán cumplir con el requisito de contar, a lo menos, con perfeccionamiento en las áreas pertinentes, y una experiencia docente de 5 años.
+
+#### Artículo 66°
+
+La dirección de los Departamentos de Administración de Educación Municipal, sea cual fuere su denominación, será ejercida por un profesor con especialización en Administración Educacional y, en el evento que tal profesional no exista en la comuna o no se manifestare interés, podrá ser ejercida por otro profesional de la educación.
+
+#### Artículo 67°
+
+Podrán ingresar a una dotación docente los extranjeros que cumplan con los requisitos señalados en la letra A. letras c), d), e), f) y g) del artículo 65 del presente Reglamento, previa autorización de la Secretaría Regional Ministerial de Educación correspondiente, la que se otorgará mediante resolución.
+
+En el caso de postular a cargos docente directivos y técnico-pedagógicos deberán además contar con los requisitos establecidos en el artículo 65 letra B.
+
+#### Artículo 68°
+
+El cumplimiento de los requistos señalados en los artículos anteriores, se acreditará mediante certificaciones de las autoridades correspondientes y lo señalado en las letras e y f de la letra A) del artículo 65° que no pudieren ser acreditados de ese modo, serán materia de una declaración jurada ante Notario Público.
+
+#### Artículo 69°
+
+Los profesionales de la educación pueden ingresar a una dotación docente en calidad de titulares o en calidad de contratados.
+
+Los titulares son aquellos que ingresan a la dotación docente previo concurso público de antecedentes, u oposición y antecedentes, según corresponda.
+
+Los contratados son aquellos que desempeñan labores docentes transitorias, experimentales, optativas, especiales o de reemplazo de titulares.
+
+#### Artículo 70°
+
+Funciones transitorias son aquellas que requieren el nombramiento de un profesional de la educación sólo por un determinado período de tiempo, mientras se designe a un titular, o mientras sean necesarios sus servicios.
+
+Un contratado desempeña labores docentes experimentales, cuando debe aplicar un nuevo plan de estudios o una nueva metodología o un nuevo material didáctico o audiovisual, por un tiempo determinado y cuyo resultado debe evaluarse desde un punto de vista técnico-pedagógico.
+
+Constituyen labores docentes optativas las que se desempeñan respecto de asignaturas o actividades que tengan tal calificación en los planes de estudios.
+
+Un contratado desempeña labores docentes especiales cuando deba desarrollar ciertas actividades pedagógicas no permanentes que no se encuentren entre aquellas que se describen en los incisos anteriores.
+
+Los docentes desempeñan un contrato de reemplazo cuando prestan servicios en un establecimiento para suplir a otro docente titular que no puede desempeñar su función cualquiera que sea la causa y mientras dure su ausencia. Deberá establecerse el nombre del docente que se reemplaza y la causa de su ausencia.
+
+#### Artículo 71°
+
+El número de contratados de un establecimiento educacional no podrá ser superior al 20% del total de la dotación docente del mismo, salvo en los siguientes casos:
+
+a. Cuando en la localidad donde esté ubicado el establecimiento no haya suficientes docentes que puedan ingresar como titulares, situación que será certificada por el Jefe del Departamento Provincial de Educación previa acreditación del Jefe del Departamento de Administración de Educación Municipal o de Corporación Educacional en su caso, y
+
+b. En establecimientos cuya dotación fuere inferior a cinco profesores.
+
+De la Dotación Docente
+
+#### Artículo 72°
+
+Se entiende por dotación docente la cantidad de profesionales de la educación necesaria para atender el número de horas de trabajo en los cargos docentes, docentes - directivos y técnico-pedagógicos que requiere el funcionamiento de los establecimientos del sector municipal de la comuna.
+
+#### Artículo 73°
+
+La dotación docente para cada establecimiento educacional, se fijará en el mes de noviembre de cada año por el Departamento de Administración de Educación Municipal respectiva o por la Corporación Educacional correspondiente. En ambos casos, corresponderá aprobar las dotaciones mediante Resolución fundada del Alcalde respectivo.
+
+#### Artículo 74°
+
+La dotación docente comunal deberá contemplar la agregación de las dotaciones de todos los establecimientos educacionales de la respectiva comuna.
+
+#### Artículo 75°
+
+La dotación de cada establecimiento se fijará de acuerdo a las siguientes variables:
+
+a) Número de alumnos;
+
+b) Número de cursos, considerando los máximos establecidos en el Decreto Supremo de Educación N° 8144, de 1980;
+
+c) Tipos de enseñanza: Especiales i diferenciada o de adultos u otras;
+
+e) Planes de estudio que se estén aplicando, sean estos generales o especiales.
+
+#### Artículo 76°
+
+La dotación docente de un establecimiento sólo podrá sufrir variaciones por adecuaciones basadas en las siguientes causales:
+
+a) Variación del número de alumnos;
+
+b) Modificaciones curriculares establecidas por leyes o decretos;
+
+c) Cambios en el tipo de eduación que se imparte; Situación especiales del establecimiento.
+
+Las adecuaciones que procedan se comuncarán al Departamento Provincial de Educación correspondiente y, si implican una reducción del número de profesores de la respectiva comuna, ésta regirá a contar del inicio del años escolar siguiente.
+
+#### Artículo 77°
+
+La Resolución Municipal fundada que fija la dotación docente, deberá comunicarse acompañada de los documentos justificatorios al Departamento Provincial de Educación respectivo.
+
+Este Departamento Provincial, en un plazo de diez días hábiles contados desde la recepción de los antecedentes, podrá observar la dotación fijada por la carencia de relación óptima que debe existir entre el personal necesario y el número de alumnos y cursos.
+
+Esta relación óptima debe establecerse de acuerdo a lo que se indica:
+
+El número máximo de almunos por curso de acuerdo al decreto supremo de educación N° 8144 de 1980, es el siguiente:
+
+- Educación Pré-básica o Parvularia,
+
+básica o media 45 alumnos.
+
+- Educación Especial o diferencial 15 alumnos.
+
+- Cursos combinados 1er. ciclo eduacional
+
+básica 45 alumnos.
+
+- Cursos combinados 5° y 6° año básico. 45 alumnos.
+
+- Cursos combinados 1° y 6° año básico
+
+en escuelas rurales 35 alumnos.
+
+Este número máximo de alumnos por curso sólo podrá ser aumentado por la Secretaría Regional Ministerial de Educación respectiva, según las normas establecidas en el D.F.L. N° 2, de Educación, de 1989.
+
+Asmismo, la observación deberá contenr apreciaciones fundadas que expresen criterios generales objetivos previamente establecidos por escrito y deberá considerarse una fórmula alternativa de determinación de la dotación, pero no podrá proponerse incremento en las dotaciones determinadas por la Municipalidad respectiva.
+
+#### Artículo 78°
+
+La Municipalidad en un plazo de siete días, contado desde la notificación de la observación practicada por el Departamento Provincial de Educación respectivo, podrá aceptarla y ajustar sus dotaciones a la propuesta alternativa formulada; concordar con otra determinación que respete los criterios establecidos o no aceptarla.
+
+#### Artículo 79°
+
+Si se mantienen las diferencias entre la Municipalidad y el Departamento Provincial de Educación, éstas serán resueltas en conjunto por la Municipalidad y Desarrollo Regional, que adoptarán la decisión por mayoría, dentro del plazo de siete días.
+
+### 3. De los Concursos
+
+A.- Normas generales.
+
+#### Artículo 80
+
+La incorporación a una dotación como docente de aula, técnico-pedagógico o directivo en calidad de titular se hará por concurso público de antecedentes. En caso de proveer el cargo de director el concurso público será de antecedentes y oposición.
+
+Los concursos públicos de antecedentes son aquellos convocados de conformidad a lo dispuesto por las bases elaboradas por el Departamento de Administración de Educación Municipal respectivo, o la Corporación Municipal en su caso, y que determinan los requisitos y documentación que deben presentar los postulantes al cargo concursable, de conformidad a lo establecido por el Decreto con Fuerza de Ley Nº 1, de 1996, del Ministerio de Educación y el presente Reglamento.
+
+Durante el desarrollo y para la resolución de los concursos deberán considerarse siempre las normas de transparencia, imparcialidad y objetividad, que se señalan en el presente reglamento.
+
+El cómputo de los plazos establecidos para la convocatoria y resolución de los concursos a que se refiere este párrafo son de días hábiles, entendiéndose que son inhábiles los días sábados, los domingos y los festivos.
+
+#### Artículo 80 bis
+
+Corresponderá al Departamento de Administración de Educación Municipal respectivo, o a la Corporación Municipal en su caso, la administración de los concursos.
+
+El Departamento de Administración de Educación Municipal de la Municipalidad de que se trate, o la Corporación Educacional en su caso, convocará a concurso público nacional de antecedentes, o antecedentes y oposición según el caso, dos veces al año, debiendo efectuarse la convocatoria de una de ellas antes del 15 de diciembre del año en que se produjo la vacante, con el objeto de llenar todas las vacantes que se hubieren producido en la dotación docente de los establecimientos educacionales de su dependencia o en el organismo de administración del sector a la fecha del respectivo llamado a concurso.
+
+Sin perjuicio de lo dispuesto en el inciso anterior, podrá llamarse a concurso público cada vez que fuere imprescindible llenar una vacante producida y no fuere posible contratar a un profesional de la educación de acuerdo a lo dispuesto en el artículo 25 del Decreto con Fuerza de Ley Nº 1, de 1996, del Ministerio de Educación.
+
+Las convocatorias de carácter nacional y sus respectivas bases serán comunicadas y remitidas en forma previa a los Departamentos Provinciales de Educación que tengan jurisdicción en las respectivas comunas, con una antelación de, a lo menos, 30 días al cierre del concurso, entendiéndose por tal el último día del plazo para la recepción de las postulaciones y sus antecedentes.
+
+Además, dicha convocatoria deberá publicarse con la misma antelación señalada en el inciso anterior en un diario de circulación nacional, en uno de circulación regional, y en el establecimiento educacional donde se produzca la vacante.
+
+Las postulaciones deberán presentarse dentro del plazo establecido en la convocatoria, el que no podrá ser inferior a treinta días, ante el Departamento de Administración de Educación de la Municipalidad respectiva o la Corporación Educacional de que se trate.
+
+Dichas entidades deberán poner todos los antecedentes a disposición de las Comisiones Calificadoras de Concursos dentro del plazo de tres días contados desde la fecha de cierre de las postulaciones.
+
+#### Artículo 81
+
+Las Comisiones Calificadoras de Concursos son aquellas destinadas a analizar los antecedentes de los postulantes a los concursos públicos y ponderarlos para confeccionar una lista de los postulantes según el puntaje ponderado que cada uno de ellos obtenga.
+
+Las Comisiones Calificadoras de Concursos deberán establecerse anualmente para cada una de las siguientes funciones:
+
+a) Director;
+
+b) Docente directiva y técnico-pedagógica;
+
+c) Docente de enseñanza media, y
+
+d) Docente de enseñanza básica y pre-básica o parvularia.
+
+#### Artículo 82
+
+Las Comisiones Calificadoras de Concursos, sin perjuicio de lo establecido en el artículo 86 de este reglamento, estarán integradas, cada una de ellas, por:
+
+a) El Director del Departamento de Administración de Educación Municipal o de la Corporación Municipal que corresponda o quien se designe en su reemplazo;
+
+b) El director del establecimiento educacional que corresponda a la vacante concursable o quien esté desempeñando el cargo;
+
+c) Un docente elegido por sorteo entre los pares de la especialidad de la vacante a llenar; para estos efectos se entenderá por "especialidad" el nivel, la modalidad de enseñanza y el sector o subsector de aprendizaje.
+
+d) Un funcionario designado por el Jefe Provincial de Educación que corresponda, que actuará como ministro de fe, sin derecho a voto.
+
+Será aplicable a los integrantes de las Comisiones Calificadoras de Concursos lo dispuesto en el artículo 62 Nº 6 de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado ha sido fijado por el Decreto con Fuerza de Ley Nº 1/19.653.
+
+#### Artículo 82 bis
+
+Anualmente, quince días antes de la fecha de cierre de recepción de antecedentes del primer concurso nacional obligatorio que se realice en un año calendario, el Director del Departamento de Administración de Educación Municipal o el Jefe de la Corporación Educacional procederá a efectuar los sorteos que determinarán los integrantes de las Comisiones Calificadoras de Concursos.
+
+En el sorteo se determinará un número igual de miembros titulares y de reemplazantes, los que asumirán la designación en caso de impedimento grave, inhabilidad o ausencia del titular. Siempre se entenderá que constituye impedimento grave el que el titular o el reemplazante sea uno de los oponentes del concurso.
+
+Los sorteos serán públicos y podrán asistir a ellos todos los profesionales de la educación de la comuna.
+
+#### Artículo 83
+
+Las Comisiones Calificadoras de Concursos deberán constituirse y funcionar tres días después de terminado el plazo de recepción de postulaciones y acordar, por la mayoría de sus integrantes, cuándo y cómo funcionarán y la forma en que ponderarán cada una de las variables señaladas en la presente convocatoria. Sus decisiones se adoptarán por simple mayoría.
+
+En todo caso, deberán dejar constancia de sus actuaciones en Actas que deberán suscribir todos sus integrantes y el ministro de fe designado por el Jefe Provincial de Educación competente.
+
+Las Comisiones Calificadoras de Concursos deberán analizar los siguientes aspectos:
+
+a) Cumplimiento de los requisitos formales de postulación;
+
+b) Excelencia en el desempeño profesional del postulante;
+
+c) Perfeccionamiento pertinente, y
+
+d) Años de servicio.
+
+La Comisión Calificadora asignará un puntaje a cada uno de estos aspectos, según la ponderación de los mismos que determinen las bases de la convocatoria.
+
+En el caso que el docente acreditare años de servicio, deberá asignarse mayor ponderación a los desempeñados en escuelas básicas rurales, a lo menos durante tres años.
+
+#### Artículo 84
+
+Las Comisiones Calificadoras de Concursos evacuarán un informe fundado en un plazo de quince días contado desde la fecha que los antecedentes son puestos a su disposición. Dicho informe contendrá el puntaje ponderado de cada postulante, a los cuales se les ubicará en un orden decreciente de acuerdo a sus puntajes. Este informe deberá ser presentado al Alcalde.
+
+#### Artículo 84 bis
+
+El Alcalde, en un plazo máximo de cinco días contados desde la fecha de recepción del informe de la Comisión, deberá nombrar a quien ocupe el primer lugar ponderado en el concurso.
+
+Sólo en caso de renuncia voluntaria de quien ocupe el primer lugar se podrá nombrar a los siguientes en estricto orden de precedencia y así sucesivamente.
+
+B.- Normas especiales para proveer el cargo de Director.
+
+#### Artículo 85
+
+Las vacantes para ejercer el cargo de director serán provistas mediante concurso público de antecedentes y oposición y el nombramiento o designación tendrá una vigencia de cinco años.
+
+Los concursos públicos de antecedentes y oposición son aquellos convocados para la elección de director y se desarrollarán en dos etapas:
+
+a) En la primera etapa, la comisión calificadora preseleccionará una quina de postulantes de acuerdo con sus antecedentes, y
+
+b) En la segunda etapa, los postulantes preseleccionados deberán presentar una propuesta de trabajo para el establecimiento educacional, sin perjuicio de rendir otras pruebas, las que serán establecidas a través del llamado a concurso para el cargo, que la comisión calificadora considere necesarias para evaluar las competencias y la idoneidad del postulante.
+
+Estos concursos se regirán por estas normas y supletoriamente por las de la letra "A.- Normas generales", de este numeral.
+
+#### Artículo 86
+
+En el caso de los concursos para llenar las vacantes de director de un establecimiento educacional, las Comisiones Calificadoras de Concursos estarán integradas por:
+
+a) El Director del Departamento de Administración de Educación Municipal o de la Corporación Municipal que corresponda;
+
+b) Un director de otro establecimiento educacional del sostenedor que imparta el mismo nivel de enseñanza en la comuna. En el evento que no hubiese otro director del mismo nivel, integrará cualquier director que labore para el sostenedor en la comuna. Estos profesionales serán elegidos por sorteo entre sus pares que pudiesen integrar la comisión;
+
+c) Un representante del centro general de padres y apoderados del establecimiento elegido por éstos;
+
+d) Un docente elegido por sorteo de entre los profesores de la dotación del establecimiento, y
+
+e) Un funcionario del respectivo Departamento Provincial de Educación, quien actuará como ministro de fe, sin derecho a voto.
+
+#### Artículo 87
+
+Dentro del plazo de quince días desde que los antecedentes son puestos a su disposición, la Comisión Calificadora de Concursos para directores preseleccionará una quina de postulantes.
+
+En aquellas comunas que tengan menos de diez mil habitantes, el número de postulantes preseleccionados podrá ser inferior a cinco, con un mínimo de dos si no hubiere más postulantes que cumplan con los requisitos.
+
+El resultado de este proceso se notificará a los interesados mediante carta certificada.
+
+#### Artículo 87 bis
+
+En la etapa de oposición los candidatos preseleccionados deberán presentar una propuesta de trabajo para el establecimiento en el plazo indicado por las bases.
+
+La Comisión Calificadora de Concursos deberá evaluar los antecedentes, los resultados de las pruebas realizadas y la propuesta de trabajo presentada, debiendo considerar en su evaluación los siguientes elementos:
+
+a) Experiencia del postulante en el ejercicio de la función docente directiva o técnico-pedagógica;
+
+b) Evaluación de su desempeño anterior;
+
+c) Perfeccionamiento pertinente;
+
+d) Competencias del postulante para ser director, y
+
+e) Calidad de la propuesta de trabajo presentada.
+
+La Comisión Calificadora de Concursos presentará al Alcalde un informe fundado que contendrá el puntaje ponderado de cada postulante, a los cuales se les ubicará en un orden decreciente de acuerdo a sus puntajes, debiendo éste nombrar a quien figure en el primer lugar ponderado en el respectivo concurso. No obstante, por resolución fundada, podrá nombrar a quien figure en el segundo lugar de dicho concurso.
+
+En todo caso, las Comisiones Calificadoras de Concursos deberán evacuar el informe fundado al Alcalde en un plazo no superior a treinta días desde que los antecedentes de los postulantes son puestos a su disposición.
+
+#### Artículo 88
+
+El reemplazo del director titular no podrá prolongarse más allá del término del año escolar, desde que el cargo se encuentre vacante, al cabo del cual obligatoriamente deberá llamarse a concurso.
+
+Cuando el reemplazo del director titular se deba a que éste se encuentre realizando estudios de post-título o post-grado, su reemplazo podrá extenderse hasta el plazo máximo señalado en el inciso tercero del artículo 40 del Decreto con Fuerza de Ley Nº 1, de 1996, del Ministerio de Educación, ya sea dos o cuatro años, según el caso.
+
+C.- Normas especiales para proveer cargos Docente Directivos y Técnico-pedagógicos.
+
+#### Artículo 89
+
+Las vacantes para ejercer la función docente directiva y técnico-pedagógicas serán provistas por concurso público de antecedentes.
+
+Estos concursos se regirán por estas normas y supletoriamente por las de la letra "A.- Normas generales", de este numeral.
+
+#### Artículo 90
+
+En el caso de los concursos para llenar las vacantes de cargos docente directivos y técnico-pedagógicos, las Comisiones Calificadoras de Concursos estarán integradas por:
+
+a) El director del Departamento de Administración de Educación Municipal o de la corporación municipal que corresponda o quien se designe en su reemplazo;
+
+b) El director del establecimiento educacional que corresponda a la vacante concursable o quien esté desempeñando el cargo;
+
+c) Un docente que realice funciones docente directivas o técnico-pedagógicas, según sea el caso, elegido por sorteo, y
+
+d) Un funcionario designado por el jefe provincial de Educación que corresponda quien actuará como ministro de fe, sin derecho a voto.
+
+#### Artículo 91
+
+Las Comisiones Calificadoras de Concursos deberán considerar en su evaluación los siguientes elementos:
+
+a) Evaluación de su desempeño anterior;
+
+b) Perfeccionamiento pertinente, y
+
+c) Competencias del postulante para desempeñar esas funciones.
+
+La Comisión Calificadora emitirá un informe fundado al alcalde, quien nombrará a quien ocupe el primer lugar ponderado en el respectivo concurso.
+
+D.- Normas especiales para proveer el cargo de Jefe de Departamento de Administración de Educación Municipal.
+
+#### Artículo 91 bis
+
+Los jefes de Departamentos de Administración Municipal, sea cual fuere su denominación, serán nombrados mediante concurso público de antecedentes. Para este efecto, se conformará una Comisión Calificadora de Concursos, la que estará integrada por los tres funcionarios de mayor jerarquía de la Municipalidad. El alcalde resolverá el concurso sobre la base de una terna propuesta por dicha Comisión.
+
+El nombramiento de estos jefes tendrá una vigencia de cinco años, al término de los cuales se deberá efectuar un nuevo concurso, pudiendo postular el jefe en ejercicio.
+
+Estas jefaturas serán ejercidas por un profesional con un grado académico en el área de la educación o con a lo menos dos años de ejercicio de administración educacional y, en el evento de que ningún profesional con estas características manifestare interés, podrán ser ejercidas por otro profesional de la educación.
+
+### Párrafo III
+
+De los Derechos del Personal Docente del Sector Municipal
+
+### 1. ESTABILIDAD
+
+#### Artículo 92°
+
+Los profesionales de la educación que tengan la calidad de titulares, tienen derecho a la estabilidad en el cargo y sólo podrán cesar en él por alguna de las causales de expiración de funciones establecidas en la Ley.
+
+### 2. Accidentes en Actos de Servicios
+
+#### Artículo 93°
+
+Los profesionales de la educación se rigen en materia de accidentes en actos de servicio y de enfermedades contraídas en el desempeño de la función por las normas de la ley N° 16.744 que establece el Seguro Social contra riesgos de accidentes del Trabajo y Enfermedades Profesionales.
+
+Sin perjuicio de lo anterior, las Municipalidades o Corporaciones educacionales podrán afiliar a su personal a una Caja de Compensación de Asignación Familiar y a una Mutual de Seguridad.
+
+En el primer caso, se aplicarán las normas que regulan este tipo de instituciones y deberán cumplirse los requisitos y formalidades que en ellas se establecen.
+
+En el segundo caso, les serán aplicables especialmente los conceptos de accidente del trabajo y enfermedad profesional definidos en la Ley N° 16.744
+
+### 3. Licencias Médicas
+
+#### Artículo 94°
+
+Los profesionales de la educación tendrán derecho a licencia médica, que le permite ausentarse o reducir su jornada de trabajo durante un determinado lapso con el fin de atender al restablecimiento de su salud, en cumplimiento de una prescripción profesional certificada por un médico cirujano, cirujano dentista o matrona, según corresponda, autorizada por el Servicio de Salud o Institución de Salud Previsional competente, en su caso.
+
+Durante la vigencia de la licencia el profesional de la educación continuará gozando del total de sus remuneraciones.
+
+### 4. Permisos con Goce de Remuneraciones
+
+#### Artículo 95°
+
+Los profesionales de la educación podrán solicitar permisos para ausentarse de sus labores por motivos particulares hasta por seis (6) días hábiles en el año calendario, con goce de remuneraciones Estos permisos podrán fraccionarse por días o medios días.
+
+Las solicitudes respectivas se presentarán al Director del establecimiento en el que se desempeñe el profesional de la educación, o al Director del Departamento de Administración de Educación Municipal o Corporación Educacional, en su caso si se trata de directores de establecimientos educacionales o de profesionales de la educación que se desempeñan en el organismo de administración del sector, el que podrá concederlo o denegarlo.
+
+Serán hábiles para estos efectos los días de la semana en que se distribuyan las labores semanales de los profesionales de la educación en sus lugares de desempeño.
+
+### 5. Feriados
+
+#### Artículo 96°
+
+El feriado de los profesionales de la educación, para todos los efectos legales será el período de interrupción de las actividades escolares en los meses de enero a febrero o el que medie entre el término de un año escolar y el comienzo del siguiente, según corresponda.
+
+Durante su feriado, los profesionales de la educación podrán ser convocados, por una sola vez, a realizar actividades de perfeccionamiento hasta por un período máximo de tres semanas.
+
+### 6. Destinaciones
+
+#### Artículo 97°
+
+Los profesionales de la educación podrán ser objeto de destinaciones a otros establecimientos educacionales, dependientes de un mismo Departamento de Administración de Educación Municipal o de una misma Corporación Educacional, según corresponda.
+
+La destinación podrá ser:
+
+a) Voluntaria, a petición suya, que la autoridad puede o no aceptar discrecionalmente; o
+
+b) Por Resolución fundada del Alcalde, previa consulta al profesional de la educación y siempre que no signifique menoscabo en su situación laboral y profesional.
+
+#### Artículo 98°
+
+El profesional de la educación, cuyo cónyuge, funcionario público o municipal, sea destinado a una localidad distinta de aquella en la cual ambos trabajan como funcionarios del sector público o municipal, tendrá preferencia para ser contratado en la nueva localidad, en condiciones que no signifiquen menoscabo en su situación laboral y profesional.
+
+Esta preferencia se refiere al ingreso a una dotación docente en calidad de contratado según la definición de los artículos 69 y 70 de este Reglamento.
+
+### 7. Permutas
+
+#### Artículo 99°
+
+Los profesionales de la educación tendrán derecho a permutar sus cargos desde y hacia cualquier comuna del país siempre que cumplan los siguientes requisitos:
+
+a. Que sean empleos de la misma naturaleza, esto es, que ambos sean docentes, docentes-directivos o de funciones técnico-pedagógicas;
+
+b. Que exista una petición expresa de ambos profesionales de la educación; y
+
+c. Que cuente con la autorización expresa de ambos Alcaldes o Jefe de Corporaciones Educacionales.
+
+La permuta permitirá a los profesionales de la educación involucrados conservar las asignaciones de experiencia y de perfeccionamiento de que estuvieren gozando.
+
+### 8. Imponibilidad Sobre Totalidad de las Remuneraciones
+
+#### Artículo 100°
+
+Los profesionales de la educación tendrán derecho, a partir desde el 1° de marzo de 1992, a que se les efectúen imposiciones previsionales sobre la totalidad de sus remuneraciones. No obstante, su aplicación se efectuará en forma gradual señalada en el artículo 12 Transitorio de la Ley N° 19.070, para todos aquellos que ejercieron la opción establecida en el artículo 4° del Decreto con Fuerza de Ley N° 1-3063, de 1980 de Interior.
+
+Para estos efectos se entiende por remuneraciones lo establecido en el artículo 40° del Código del Trabajo
+
+### Párrafo IV
+
+Derechos Remuneratorios
+
+### 1. Descripción
+
+#### Artículo 101°
+
+Los profesionales de la educación del sector municipal tendrán derecho a percibir una Remuneración Básica Mínima Nacional y las asignaciones:
+
+a) De experiencia;
+
+b) De perfeccionamiento;
+
+c) De desempeño en condiciones difíciles;
+
+d) De responsabilidad directiva y de responsabilidad técnico-pedagógica.
+
+Sin perjuicio de lo señalado en el inciso anterior, las Municipalidades o las Corporaciones Educacionales podrán, con fondos propios, establecer asignaciones especiales de incentivo profesional o incrementar los montos de las asignaciones establecidas en la ley y en este Reglamento.
+
+2 Remuneración Básica Mínima Nacional
+
+#### Artículo 102°
+
+La Remuneración Básica Mínima Nacional, para cada nivel del sistema educativo es el monto básico expresado en pesos que es el producto resultante de multiplicar el valor mínimo de la hora cronológica fijado en la ley por el número de horas cronológicas semanales por mes para las cuales haya sido contratado el profesional de la educación.
+
+#### Artículo 103°
+
+La Remuneración Básica Mínima Nacional constituye un estipendio de igual monto para los profesionales de la educación que se encuentren afectos al estatuto docente, según el nivel de enseñanza que se imparta.
+
+El valor mínimo será uno para los profesionales de la educación que se desempeñen en la educación pre-básica, básica o especial y otro para los que se desempeñen en la educación media, humanístico-científica o técnico-profesional. En la educación de adultos su valor se determinará según sea el nivel de enseñanza que se imparta.
+
+#### Artículo 104°
+
+Los valores mínimos establecidos en el artículo 5° Transitorio de la Ley N° 19.070, se reajustarán cada vez y en el mismo porcentaje en que se reajuste el valor de la Unidad de Subvención Educacional establecido en el artículo 9° del Decreto con Fuerza de Ley N° 2, de 1989 de Educación.
+
+#### Artículo 105°
+
+Sin perjuicio de lo establecido en el inciso primero del artículo 103° de este Reglamento, los valores mínimos establecidos por ley se complementarán con una cantidad adicional, en las localidades donde la subvención estatal se incremente por concepto de zona, que se pagará con cargo a dicho incremento y en un porcentaje equivalente al de este mismo, según la normativa señalada en el inciso sexto y siguientes del artículo 5° Transitorio de la Ley N° 19.070.
+
+Este complemento no será considerado para el cálculo de las otras asignaciones a que tenga derecho el profesional de la educación.
+
+3 Asignación de Experiencia
+
+#### Artículo 106°
+
+La asignación de experiencia se aplicará sobre la Remuneración Básica Mínima Nacional y consiste en un porcentaje de ésta, de acuerdo a los años de servicio docentes que acredite el profesional de la educación, cuyos montos corresponden a un 6.76%, los dos primeros años y a un 6,66% por cada dos años adicionales, con un tope máximo de un 100%, para aquellos profesionales que totalicen treinta años de servicios
+
+#### Artículo 107°
+
+El tiempo computable para los efectos de percibir esta asignación corresponderá a servicios docentes efectivos, continuos o discontinuos, prestados tanto en el sector público como en el particular, no pudiendo computarse los servicios paralelos desempeñados durante el mismo período. Los períodos inferiores a dos años incrementarán el bienio siguiente.
+
+#### Artículo 108°
+
+El procedimiento para acreditar bienios y su reconocimiento para efectos del pago de la asignación, se regirá por el Decreto Supremo de Educación N° 264, de 1991.
+
+#### Artículo 109°
+
+La asignación de experiencia que esté gozando el profesional de la educación del sector municipal la conservará siempre en el caso de destinación, permuta o designación por concurso para ingresar a una misma u otra dotación docente.
+
+4 Asignación de Perfeccionamiento
+
+#### Artículo 110°
+
+La asignación de perfeccionamiento se de aplicará sobre la Remuneración Básica Mínima Nacional, y consiste en un porcentaje de hasta un 40% de dicha remuneración, por haber aprobado programas, cursos, o actividades de perfeccionamiento, de post-título o post-grado, inscritos en el Registro Público del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas. El objetivo de la asignación de Perfeccionamiento es incentivar la superación técnico-profesional del educador, conforme a lo señalado en el inciso 2° del artículo 28° de este Reglamento.
+
+#### Artículo 111°
+
+Los programas, cursos o actividades de perfeccionamiento, de post-título o post-grado que darán derecho a percibir la asignación de perfeccionamiento, serán aquellos que cumplan los requisitos señalados en el presente Reglamento, con excepción del grado académico de Licenciado cuando es requisito del título profesional.
+
+#### Artículo 112°
+
+Para determinar el porcentaje de asignación de perfeccionamiento que corresponda a cada profesional de la educación, deberá considerarse:
+
+a. Su experiencia docente acreditada, según definición de los artículos 106° a 109° de este Reglamento y en el Decreto Supremo de Educación N° 264 de 1991;
+
+b. Las horas de duración del programa, curso o actividad de perfeccionamiento de post-título o post-grado y la evaluación obtenida en ellos;
+
+c. El nivel académico respectivo; y
+
+d. El grado de relación con la función profesional que desempeña el beneficiario de la asignación.
+
+#### Artículo 113°
+
+En todo caso para la concesión de la asignación de perfeccionamiento será requisito indispensable que los programas, cursos o actividades de perfeccionamiento de post-títulos o de post-grados estén inscritos en el Registro Público conforme a lo indicado en los artículo 40° y 41° de este Reglamento.
+
+INCISO DEROGADO
+
+#### Artículo 114°
+
+El grado de relación con la función profesional que desempeñe el profesor es el siguiente:
+
+a. Función docente: Los programas, cursos, o actividades de perfeccionamiento de post-títulos o de post-grados que les permita mejorar el desempeño profesional en su especialidad o mención a través de la actualización o complementación de los conocimientos adquiridos o la adquisición de nuevos conocimientos que tengan relación directa con el proceso enseñanza-aprendizaje; o que les permita desarrollar innovaciones curriculares que estén en función de un mejoramiento sostenido de la calidad de la educación.
+
+b. Función docente-directiva o técnico-pedagógica: Los programas, cursos o actividades de perfeccionamiento de post-título o de post-grados que le permitan mejorar el desempeño profesional en la respectiva función.
+
+INCISO DEROGADO
+
+#### Artículo 115°
+
+El perfeccionamiento realizado se acreditará mediante las certificaciones de las instituciones pertinentes y se reconocerá para efectos de percibir la asignación por el empleador mediante acto formal que establezca además el cumplimiento de los requisitos señalados en los artículos anteriores.
+
+#### Artículo 116°
+
+La asignación de perfeccionamiento se pagará a partir del 1° de enero de 1993 de acuerdo a una o más tablas que se fijarán por Decreto Supremo del Ministerio de Educación, configuradas tomando en cuenta los aspectos y variables definidos en los artículos anteriores. Dicho Decreto señalará, además las condiciones de aprobación e inscripción en el Registro respectivo del perfeccionamiento logrado por los profesionales de la educación, con anterioridad a la vigencia de la Ley N° 19.070.
+
+Sólo podrán considerarse válidos para estos efectos los cursos de perfeccionamiento que haya dictado el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas u otras instituciones siempre que hayan contado con el patrocinio de éste, como asimismo las actividades de perfeccionamiento de post-título y post-grado otorgados por instituciones de Educación Superior, cuando ellos se hayan elaborado de acuerdo a los objetivos de perfeccionamiento que señala la ley y las modalidades de reconocimiento y aprobación establecidas en este Reglamento, especialmente lo señalado en el artículo 32°, en lo que respectivamente les sean aplicables.
+
+#### Artículo 117°
+
+La asignación de perfeccionamiento que esté gozando el profesional de la educación del sector municipal la conservará siempre en el caso de destinación, permuta y, en el caso de designación por concurso para ingresar a una misma u otra dotación docente.
+
+### 5. Asignación por Desempeño en Condiciones Difíciles
+
+#### Artículo 118°
+
+La asignación por desempeño en condiciones difíciles se aplicará sobre la Remuneración Básica Mínima Nacional, y consiste en un porcentaje de ésta de hasta un 30% a que tienen derecho los profesionales de la educación que ejercen sus funciones en establecimientos educacionales que sean calificados como de desempeño difícil en razón de su aislamiento geográfico, ruralidad efectiva, extrema pobreza, dificultades de acceso o inseguridad en el medio urbano o, por atender alumnos o comunidades bilingües o biculturales.
+
+#### Artículo 119°
+
+Los grados en que se presenten las condiciones referidas, la forma de acreditarlas, sus equivalencias en porcentajes de asignación y los procedimientos respectivos serán aquellos determinados en la Ley y en el Decreto Supremo de Educación N° 427 de 1991.
+
+6. Asignaciones de Responsabilidad Directiva y de Responsabilidad Técnico-Pedagógica
+
+#### Artículo 120°
+
+Las asignaciones de responsabilidad directiva y de responsabilidad técnico-pedagógica se aplican sobre la Remuneración Básica Mínima Nacional y consisten en un porcentaje de ésta de hasta un 20% y un 10% respectivamente, que corresponde pagar a los profesionales de la educación que sirvan cargos superiores.
+
+#### Artículo 121°
+
+La asignación de responsabilidad directiva, de hasta un 20%, corresponderá a aquellos profesionales de la educación que desempeñen cargos superiores correspondientes a funciones docentes directivas.
+
+El porcentaje que tendrá derecho a percibir el profesional de la educación estará en relación a la matrícula del establecimiento educacional y la jerarquía interna que los cargos de este tipo tengan en él.
+
+#### Artículo 122°
+
+La asignación de responsabilidad técnico-pedagógica, de hasta un 10%, corresponderá a aquellos profesionales de la educación que desempeñen cargos superiores correspondientes a funciones técnico-pedagógicas.
+
+El porcentaje que tendrá derecho a percibir el profesor estará en relación a la matrícula del establecimiento educacional y la jerarquía interna que los cargos de este tipo tengan en él.
+
+#### Artículo 123°
+
+El Departamento de Administración Educacional de la Municipalidad o Corporación Educacional respectiva deberá determinar el porcentaje que le corresponderá percibir a cada cargo de cada establecimiento educacional de su comuna.
+
+#### Artículo 124°
+
+Las asignaciones de responsabilidad directiva y de responsabilidad técnico-pedagógica se mantendrán por el profesional de la educación al desempeñarse en otra localidad si el nuevo cargo da derecho a percibirlas y en el porcentaje que éste tenga asignado.
+
+### Párrafo V
+
+Del Reglamento Interno
+
+#### Artículo 125°
+
+Los establecimientos educacionales del sector municipal, dictarán reglamentos internos que deberán aprobarse y darse a conocer a la comunidad escolar, del modo que cada sostenedor establezca y se actualizarán, a lo menos, una vez al año.
+
+Las modificaciones y/o las adecuaciones en su caso, deberán aprobarse y darse a conocer del mismo modo establecido en el inciso anterior y deben comenzar a regir a contar del próximo año escolar.
+
+El Reglamento y sus modificaciones deben comunicarse al Departamento Provincial de Educación correspondiente.
+
+#### Artículo 126°
+
+El Reglamento Interno debe contener, a lo menos, las siguientes materias:
+
+a. Normas generales de índole técnico pedagógicas, incluyendo las relativas a los Consejos de Profesores.
+
+b. Normas técnico-administrativas sobre estructura y funcionamiento general del establecimiento.
+
+c. Normas sobre prevención de riesgos, de higiene y seguridad.
+
+#### Artículo 127°
+
+Los establecimientos educacionales que, ya sea en virtud de las normas del Decreto con Fuerza de Ley N° 1-3063, de 1980, de Interior o de la Ley N° 18.602, hubieren aprobado reglamentos internos, se entenderá que cumplen con la obligación legal y, solamente, deberán adecuarlos a lo dispuesto en la Ley N° 19.070 y al presente Reglamento.
+
+### Párrafo VI
+
+De la Jornada de Trabajo
+
+#### Artículo 128°
+
+La jornada de trabajo de los profesionales de la educación se expresará en horas de trabajo, que no podrá exceder de 44 horas cronológicas semanales para un mismo empleador, cualquiera sea la naturaleza de la función docente que realicen.
+
+#### Artículo 129°
+
+La jornada semanal de los docentes se conformará por horas de docencia de aula y horas de actividades curriculares no lectivas.
+
+La docencia de aula semanal no podrá exceder de 33 horas cronológicas, excluidos los recreos, cuando el docente hubiere sido designado con una jornada de trabajo semanal de 44 horas. El tiempo restante deberá destinarse a actividades curriculares no lectivas. A cada hora de clase le corresponderá un recreo que tendrá, por regla general, una duración de 4 minutos, que podrán acumularse para los efectos de conformar el horario diario de clases.
+
+En el caso que el docente fuere designado con una jornada de trabajo semanal inferior, el máximo de docencia de aula será determinado no podrá exceder el 75% de su jornada contratada.
+
+En los casos contemplados en los incisos anteriores la proporción entre horas de aula y horas de actividades curriculares no lectivas, será la siguiente:
+
+_______________________________________________________
+
+| NOTA: VER DIARIO OFICIAL N° 34.358 DEL DIA JUEVES |
+
+| 3 DE SEPTIEMBRE DE 1992, PAGINA 14 |
+
+|_____________________________________________________|
+
+Esta tabla varía cuando la duración de la clase es de tiempo inferior a 45 minutos.
+
+La docencia de aula semanal de los docentes que se desempeñen en establecimientos educacionales que estén afectos al régimen de Jornada Escolar Completa Diurna, no podrá exceder de las 32 horas con 15 minutos excluidos los recreos, cuando la jornada contratada fuere igual a 44 horas semanales. El horario restante será destinado a actividades curriculares no lectivas.
+
+Cuando la jornada contratada fuere inferior a 44 horas semanales e igual o superior a 38 horas semanales, el máximo de clases quedará determinado por la proporción respectiva.
+
+En conformidad a lo establecido en este artículo, principalmente en el inciso anterior, la proporción entre horas de aula, horas de actividades curriculares no lectivas y recreos, será la siguiente:
+
+Contrato Recreos Docencia Aula Docencia Aula Activ.
+
+semanal hrs. Nº clases hrs. cronológicas Curricul.
+
+horas cronol. (45 min) No
+
+cronológicas Lectivas
+
+44 hrs. 3 hrs. 43 clases 32 h 15 min. 8 h 45 min.
+
+43 hrs. 2 h 56 min. 42 clases 31 h 30 min. 8 h 34 min.
+
+42 hrs. 2 h 52 min. 41 clases 30 h 45 min. 8 h 23 min.
+
+41 hrs. 2 h 48 min. 40 clases 30 hrs. 8 h 12 min.
+
+40 hrs. 2 h 44 min. 39 clases 29 h 15 min. 8 h 01 min.
+
+39 hrs. 2 h 40 min. 38 clases 28 h 30 min. 7 h 50 min.
+
+38 hrs. 2 h 35 min. 37 clases 27 h 45 min. 7 h 40 min.
+
+37 hrs. 2 h 31 min. 37 clases 27 h 45 min. 6 h 44 min.
+
+36 hrs. 2 h 27 min. 36 clases 27 hrs. 6 h 33 min.
+
+35 hrs. 2 h 23 min. 35 clases 26 h 15 min. 6 h 22 min.
+
+34 hrs. 2 h 19 min. 34 clases 25 h 30 min. 6 h 11 min.
+
+33 hrs. 2 h 15 min. 33 clases 24 h 45 min. 6 hrs.
+
+32 hrs. 2 h 11 min. 32 clases 24 hrs. 5 h 49 min.
+
+31 hrs. 2 h 07 min. 31 clases 23 h 15 min. 5 h 38 min.
+
+30 hrs. 2 h 03 min. 30 clases 22 h 30 min. 5 h 27 min.
+
+29 hrs. 1 h 59 min. 29 clases 21 h 45 min. 5 h 16 min.
+
+28 hrs. 1 h 55 min. 28 clases 21 hrs. 5 h 05 min.
+
+27 hrs. 1 h 50 min. 27 clases 20 h 15 min. 4 h 55 min.
+
+26 hrs. 1 h 46 min. 26 clases 19 h 30 min. 4 h 44 min.
+
+25 hrs. 1 h 42 min. 25 clases 18 h 45 min. 4 h 33 min.
+
+24 hrs. 1 h 38 min. 24 clases 18 hrs. 4 h 22 min.
+
+23 hrs. 1 h 34 min. 23 clases 17 h 15 min. 4 h 11 min.
+
+22 hrs. 1 h 30 min. 22 clases 16 h 30 min. 4 hrs.
+
+21 hrs. 1 h 26 min. 21 clases 15 h 45 min. 3 h 49 min.
+
+20 hrs. 1 h 22 min. 20 clases 15 hrs. 3 h 38 min.
+
+19 hrs. 1 h 18 min. 19 clases 14 h 15 min. 3 h 27 min.
+
+18 hrs. 1 h 14 min. 18 clases 13 h 30 min. 3 h 16 min.
+
+17 hrs. 1 h 10 min. 17 clases 12 h 45 min. 3 h 05 min.
+
+16 hrs. 1 h 05 min. 16 clases 12 hrs. 2 h 55 min.
+
+15 hrs. 1 h 01 min. 15 clases 11 h 15 min. 2 h 44 min.
+
+14 hrs. 57 min. 14 clases 10 h 30 min. 2 h 33 min.
+
+13 hrs. 53 min. 13 clases 9 h 45 min. 2 h 22 min.
+
+12 hrs. 49 min. 12 clases 9 hrs. 2 h 11 min.
+
+11 hrs. 45 min. 11 clases 8 h 15 min. 2 hrs.
+
+10 hrs. 41 min. 10 clases 7 h 30 min. 1 h 49 min.
+
+9 hrs. 37 min. 9 clases 6 h 45 min. 1 h 38 min.
+
+8 hrs. 33 min. 8 clases 6 hrs. 1 h 27 min.
+
+7 hrs. 29 min. 7 clases 5 h 15 min. 1 h 16 min.
+
+6 hrs. 25 min. 6 clases 4 h 30 min. 1 h 05 min.
+
+5 hrs. 20 min. 5 clases 3 h 45 min. 55 min.
+
+4 hrs. 16 min. 4 clases 3 hrs. 44 min.
+
+3 hrs. 12 min. 3 clases 2 h 15 min. 33 min.
+
+2 hrs. 8 min. 2 clases 1 h 30 min. 22 min.
+
+1 hora 4 min. 1 clase 45 min. 11 min.
+
+#### Artículo 130°
+
+Los docentes que tengan 30 o más años de servicios que realicen docencia de aula efectiva, podrán reducirla a un máximo de 24 horas cronológicas semanales, debiendo destinar el resto de su horario a actividades curriculares no lectivas.
+
+La reducción de docencia de aula efectiva deberá ser solicitada expresamente por el docente y surtirá efectos a partir del año escolar siguiente o, en el año respectivo cuando no se produjere menoscabo en la atención docente.
+
+#### Artículo 131°
+
+Los docentes que cumplan funciones en jornada nocturna, tendrán un horario de trabajo semanal que no podrá sobrepasar la medianoche.
+
+Se exceptuarán de la norma anterior, los docentes que hubieren sido designados para cumplir labores en un internado.
+
+### Párrafo VII
+
+De las Calificaciones
+
+#### Artículo 132°
+
+La evaluación y calificación de los profesionales de la educación que se desempeñan en el sector municipal, se regirán por las normas que se aprueban en los artículos siguientes.
+
+#### Artículo 133°
+
+La calificación tendrá por objeto evaluar el desempeño funcionario del profesional de la educación y servirá de antecedente para concursar, para optar a cupos de becas de perfeccionamiento o para financiar proyectos individuales de innovación educativa.
+
+#### Artículo 134°
+
+El período a evaluar será de un año y se extenderá desde el 1° de marzo de cada año hasta el 28 de febrero del año siguiente. El proceso calificatorio deberá estar terminado, a más tardar, el 30 de abril de cada año.
+
+Se calificará a los docentes que tengan seis meses, a lo menos, de desempeño.
+
+#### Artículo 135°
+
+Los profesionales de la educación serán clasificados en alguna de las siguientes listas:
+
+Lista 1. Distinción, cuando tengan un mínimo de 62 puntos, ningún puntaje inferior a tres, no más de una nota cuatro en cada aspecto con, a lo menos, una anotación meritoria y ninguna anotación de demérito.
+
+Lista 2. Normal, cuando tengan entre 61 y 52 puntos y no más de dos notas tres en los distintos conceptos y, a lo más, una anotación de demérito.
+
+Lista 3. Demérito, cuando tengan menos de 52 puntos, o un puntaje superior a éste con más de dos puntajes inferiores a tres o con más de una anotación de demérito.
+
+#### Artículo 136°
+
+Serán documentos de la calificación la Hoja de Vida y la Hoja de Calificación. Deberá llevarse una Hoja de Vida, en la que se anotarán todas aquellas actuaciones u omisiones que sean diferentes, ya sea positiva (mérito) o negativamente (de demérito) a las normales y usuales del desempeño docente. Además se anotará el resultado del procedimiento a que se refiere el artículo 56 de este Reglamento cuando corresponda, los resultados de los sumarios o investigaciones, los cursos de capacitación y el perfeccionamiento. el perfeccionamiento.
+
+La Hoja de Vida deberá ser llevada en original, por el jefe directo del profesional de la educación, el que deberá efectuar en ésta, las anotaciones de su puño y letra por orden cronológico, en un plazo máximo de dos días luego de conocidos y comprobados los hechos que la motivan, señalando tiempo y lugar en términos que no dejen lugar a dudas, suscribiendo cada una de ellas. El profesional de la educación afectado deberá firmar como constancia. Sin embargo, si se niega a firmar, se anotará esta circunstancia y las razones que tuvo para no hacerlo.
+
+#### Artículo 137°
+
+La calificación apreciará las condiciones y aptitudes del profesional de la educación, se ajustará a una escala de conceptos y su correspondiente valoración numérica teniendo como antecedente necesario las anotaciones efectuadas en la Hoja de Vida.
+
+Los conceptos a considerar en cada uno de los aspectos que se señalan, son los siguientes:
+
+A Responsabilidad profesional y funcionaria:
+
+a) Cumplimiento oportuno de los programas de estudio;
+
+b) Cumplimiento oportuno de sus otras labores;
+
+c) Cumplimiento de metas;
+
+d) Cooperación y participación;
+
+e) Creatividad.
+
+B Perfeccionamiento realizado:
+
+a) Cursos, programas o actividades de perfeccionamiento ejecutados y aprobados, post-títulos o post-grados ejecutados o en ejecución en el período a calificar;
+
+b) Trabajos de investigación conocidos y evaluados;
+
+c) Publicaciones que reflejen estudio de asuntos técnico-pedagógicos que contribuyan a elevar la calidad de la educación.
+
+C Calidad de desempeño.
+
+a) Conocimientos que aporta;
+
+b) Capacidad para comunicarse y darse a entender por alumnos y comunidad escolar;
+
+c) Rendimiento que obtiene de sus alumnos habida consideración de la realidad de su (s) grupo-curso (s);
+
+d) Eficiencia en el desempeño de su labor;
+
+e) Seguridad en si mismo y espíritu de superación y perseverancia.
+
+D Méritos excepcionales. Se considerarán aquellas cualidades personales o acciones que hagan destacarse notoriamente al profesional de la educación del resto de sus pares que labore en un establecimiento educacional o en un organismo de administración educacional de una comuna.
+
+Para estos efectos se considerará el desempeño relevante el que haya realizado en la organización, ejecución y proyección de actividades educacionales, tanto al interior del establecimiento como en su relación con la comunidad a nivel comunal o regional en beneficio del aprendizaje del alumno y su inserción en la comunidad.
+
+#### Artículo 138°
+
+Cada uno de estos conceptos será valorado conforme a las siguientes calificaciones y puntajes:
+
+Excelente : 5 Puntos
+
+Bueno : 4 Puntos
+
+Satisfactorio : 3 Puntos
+
+Insuficiente : 2 Puntos
+
+Deficiente o Malo : 1 Punto
+
+La calificación Satisfactorio, deberá asignarse siempre al profesional de la educación que no tenga anotaciones en la Hoja de Vida, de ningún tipo.
+
+#### Artículo 139°
+
+Las calificaciones se practicarán por Comisiones Calificadoras que estarán integradas por:
+
+a. El Director de cada establecimiento educacional o el jefe del respectivo organismo de administración del sector municipal.
+
+b. Un representante de los profesionales de la educación, que se desempeñen en el respectivo establecimiento educacional u organismo de administración del sector municipal, designados por ellos en votación directa;
+
+c. Un representante de la Municipalidad o de la Corporación Educacional en su caso.
+
+Tratándose del personal docente directivo de los establecimientos educacionales y de los docentes del organismo de administración del sector municipal, las Comisiones Calificadoras estarán integradas por:
+
+a) El Director del Departamento de Administración de Educación Municipal o por el ejecutivo superior de la Corporación Educacional respectiva;
+
+b) Los dos docentes directivos de mayor antigüedad en la respectiva comuna o los que le siguen en orden de antigüedad, cuando se trate de su propia calificación;
+
+c) Un representante de los docentes directivos de la comuna designados por ellos en votación directa.
+
+Estas Comisiones deberán estar constituidas a más tardar, el día 25 de febrero de cada año.
+
+#### Artículo 140°
+
+Los profesionales de la educación pueden apelar de su calificación, dentro de tercero día ante una Comisión Calificadora de Apelaciones que estará integrada por:
+
+a. El Alcalde;
+
+b. El Jefe del Departamento de Administración de Educación Municipal o de la Corporación Educacional en su caso;
+
+c. Un representante del personal docente directivo, del personal técnico-pedagógico o del personal docente, según sea el caso. Estos representantes serán elegidos por sus pares dentro del respectivo nivel en votación indirecta que se realizará por los delegados de los correspondientes establecimientos educacionales, en votaciones destinadas única y exclusivamente a la constitución de estas Comisiones de Apelación, las cuales deberán estar constituídas, a más tardar el día 15 de marzo de cada año.
+
+#### Artículo 141°
+
+La evaluación misma deberá realizarse en una Hoja de Calificación en la que se resumirá y valorará el desempeño del docente y en ella se dejará constancia de la Lista en que éste se clasificó.
+
+Las Comisiones Calificadoras deberán dejar constancia en la Hoja de Vida de sus acuerdos firmando en el lugar correspondiente.
+
+Las Comisiones Calificadoras deberán practicar la calificación en un plazo de treinta días contados desde que venza el período a evaluar a que se refiere el artículo 134 de este Reglamento.
+
+La Comisión Calificadora de Apelación tendrá un plazo de quince días hábiles para resolver, contados desde que la apelación se interponga.
+
+#### Artículo 142°
+
+Las actuaciones de las Comisiones Calificadoras y de la Comisión Calificadora de Apelación deberán ser notificadas personalmente a los profesionales de la educación, los que deberán firmar el documento de notificación.
+
+#### Artículo 143°
+
+A los profesionales de la educación clasificados en Lista 3 Demérito, por dos períodos de calificación sucesivos podrá ponérseles término a la relación laboral, según lo dispuesto en el artículo 52° de la Ley N° 19.070.
+
+### Párrafo VIII
+
+Del Término de la Relación Laboral
+
+#### Artículo 144°
+
+Los profesionales de la educación que forman parte de una dotación docente, dejarán de pertenecer a ella, solamente por las siguientes causales:
+
+a. Renuncia voluntaria;
+
+b. Por falta de probidad, conducta inmoral o incumplimiento grave de las obligaciones que impone su función;
+
+c. Por término del período por el cual se efectuó el contrato;
+
+d. Por obtención de jubilación, pensión o renta vitalicia en un régimen previsional, en relación al respectivo cargo docente;
+
+e. Por fallecimiento;
+
+f. Por calificación en lista de Demérito por dos años consecutivos;
+
+#### Artículo 145°
+
+La causal señalada en la letra b) del artículo anterior sólo procede cuando se han probado fehacientemente las condiciones que en ella se establecen mediante sumario.
+
+Para estos efectos, el Jefe del Departamento de Administración de Educación Municipal o de la Corporación Educacional ordenará que se prectique un sumario, el que no podrá durar más de veinte días. Si a su término resultaren cargos, éstos se notificarán personalmente al profesional de la educación quien tendrá un plazo de cinco días hábiles para formular descargos y, con el mérito de ellos o del simple transcurso del tiempo si no se formularen, el funcionario antes mencionado resolverá absolviéndolo, ordenando que sea amonestado mediante constancia del hecho en la Hoja de Vida o solicitando a la autoridad respectiva que ponga término a la relación laboral.
+
+El profesional de la educación afectado podrá recurrir al Alcalde o Jefe de la Corporación Educacional para que reconsidere la medida expulsiva adoptada, quién deberá resolver en definitiva, en un plazo máximo de cinco días hábiles.
+
+#### Artículo 146°
+
+La causal señalada en la letra d) del artículo 144° de este Reglamento, producirá efectos desde la fecha en que la respectiva institución previsional conceda la jubilación, pensión o renta vitalicia.
+
+#### Artículo 147°
+
+Cuando la aplicación del artículo 22 de la Ley N° 19.070 hicieren necesario ajustar la dotación mediante la supresión de horas o cargos, deberá estarse al siguiente procedimiento:
+
+a) Se afectarán en primer término las correspondientes al personal contratado, siempre que ello fuere posible por término del período de contratación;
+
+b) Sin no obstante lo anterior, subsiste la necesidad de ajustar la dotación, los profesores titulares se reubicarán en otros establecimientos de la misma comuna;
+
+c) Si no pudiere operar lo dispuesto anteriormente los profesores podrán, voluntariamente, acogerse a jubilación, siempre que cumplan los requisitos que para ello exige la ley;
+
+d) Si, pese a lo señalado en las letras precedentes se mantiene un excedente en la dotación de los profesionales de la educación, podrán optar voluntariamente por el término de la relación laboral, caso en el cual tendrán derecho a:
+
+- a una indemnización de un mes por cada año de servicio o fracción superior a seis meses, con un máximo de de 11 meses; o - a la indemnización a todo evento que hubieren pactado con su empleador de acuerdo al artículo 6° de la Ley N° 19.010, si ésta fuere mayor.
+
+El ejercicio de este derecho, impone al profesional de la educación la prohibición de desempeñarse remuneradamente como tal en establecimientos educacionales del sector municipal, a nivel nacional. Puede hacerlo cuando restituya a la respectiva Municipalidad o Corporación el total de la indemnización recibida, reducida a Unidades de Fomento conforme a la equivalencia vigente a la fecha en que recibió el pago más el interés corriente para créditos de dinero reajustables. Con tal propósito, cuando se produzca la situación descrita en la letra b) la respectiva Municipalidad o Corporación deberá comunicar la individualización del profesor a la Secretaría Regional Ministerial de Educación respectiva. El Ministerio de Educación tomará las medidas administrativas que correspondan para que los distintos municipios del país tengan esta información.
+
+#### Artículo 148°
+
+El término de la relación laboral, cualquiera que sea la causa invocada deberá ser objeto de un acto formal.
+
+## Título IV
+
+DEL CONTRATO DE LOS PROFESIONALES DE LA EDUCACION EN EL SECTOR PARTICULAR
+
+### Párrafo I
+
+Normas Generales
+
+#### Artículo 149°
+
+Este Título regula las relaciones laborales entre los profesionales de la educación y los empleadores del sector particular, pagado y subvencionado y aquellos existentes en los establecimientos de educación media técnico-profesional cuya administración se rige por el Decreto Ley N° 3166, de 1980, sin perjuicio de lo señalado en el artículo 6° y 7° del presente Reglamento.
+
+#### Artículo 150°
+
+Las relaciones laborales a que se refiere el artículo anterior serán de derecho privado, y se regirán por el Código del Trabajo y sus disposiciones complementarias en todo aquello que no esté expresamente establecido en el Título IV de la Ley N° 19.070 y de este Reglamento.
+
+### Párrafo II
+
+Normas Especiales del Contrato de Trabajo
+
+#### Artículo 151°
+
+Los contratos de trabajo de los profesionales de la educación a que se refiere este título, deberán contener especialmente las siguientes estipulaciones:
+
+a. Descripción de las labores docentes que se encomiendan, determinándose específicamente si éstas corresponden a docencia, docencia-directiva o docencia técnico-pedagógica.
+
+b. Determinación de la jornada semanal de trabajo, diferenciándose las funciones de docencia de aula de otras actividades contratadas. Con todo cuando se trate de labores docentes se aclarará la parte de jornada destinada a docencia de aula y la parte que corresponda a actividades curriculares no lectivas.
+
+c. Lugar y horario para la prestación de los servicios:
+
+- Si el empleador tuviere varios establecimientos educacionales en una misma ciudad y el profesional de la educación sirviere en más de uno de ellos, indicar en cuales se desempeña, señalando el lugar preciso en que están ubicados y el tiempo que destinarán a cada uno.
+
+- El tiempo que el profesional de la educación utilice en un mismo día para trasladarse de un establecimiento a otro en virtud de una misma relación laboral se considerará trabajado para todos los efectos de la Ley N° 19.070 y este Reglamento y el costo de movilización será de cargo del empleador. Ambas circunstancias deberán señalarse expresamente.
+
+d. Duración del contrato, el que podrá ser de plazo fijo, de plazo indefinido o de reemplazo.
+
+El Contrato de plazo fijo tendrá una duración de un año laboral docente, pudiendo renovarse en conformidad a lo dispuesto en el Código del Trabajo.
+
+El Contrato de reemplazo es aquel en virtud del cual un docente presta servicios en un establecimiento educacional para suplir transitoriamente a otro con contrato vigente que no puede desempeñar su función, cualquiera que sea la causa. En el contrato respectivo debe establecerse el nombre del docente que se reemplaza y la causa de su ausencia.
+
+El contrato de reemplazo puede tener una duración inferior al tiempo de ausencia del docente reemplazado, cuando así se estipule expresamente.
+
+#### Artículo 152°
+
+Los empleadores podrán contratar a un profesional de la educación por el tiempo que reste hasta el término del contrato de un profesor que haya terminado durante el año laboral docente por cualquier causa.
+
+Asimismo, estos empleadores están facultados para contratar a un profesional de la educación para una actividad extraordinaria o especial, que por su naturaleza tenga una duración inferior a un año escolar. En este caso el contrato deberá estipular una fecha de inicio y una fecha de término y los profesionales de la educación no podrán desempeñar actividades docentes regulares, sino la especial o extraordinaria contratada.
+
+### Párrafo III
+
+De la Jornada de Trabajo
+
+#### Artículo 153°
+
+La jornada de trabajo de los profesionales de la educación que se desempeñen en establecimientos educacionales subvencionados, no podrá exceder de 44 horas cronológicas semanales para un mismo empleador.
+
+En lo demás, les serán aplicables las normas del Párrafo VI del Título III del presente Reglamento.
+
+#### Artículo 154°
+
+La jornada de trabajo de los profesionales de la educación que se desempeñan en establecimientos educacionales particulares pagados y en aquellos administrados en virtud del Decreto Ley N° 3166, de 1980, se regirá por las normas del Código del Trabajo.
+
+### Párrafo IV
+
+Derechos de los Profesionales de la Educación del Sector Particular
+
+#### Artículo 155°
+
+Los profesionales de la educación que se desempeñen en establecimientos educacionales particulares pagados y subvencionados y en aquellos administrados de acuerdo al Decreto Ley N° 3166, de 1980, tienen los derechos, deberes, obligaciones y deben cumplir los requisitos profesionales señalados en los Títulos I y II, del presente Reglamento.
+
+#### Artículo 156°
+
+Los contratos de trabajo vigentes al mes de diciembre de cada año, se entenderán prorrogados por los meses de enero y febrero o por el período que medie entre dicho mes y el día anterior al inicio del año escolar siguiente, siempre que el profesional de la educación tenga más de seis meses continuos de servicios para el mismo empleador.
+
+#### Artículo 157°
+
+El valor de la hora pactado en los contratos no podrá ser inferior al valor hora mínimo nacional vigente fijado por ley.
+
+#### Artículo 158°
+
+Los profesionales de la educación que se desempeñen en establecimientos educacionales particulares subvencionados tendrán, además, derecho a percibir la asignación de desempeño en condiciones difíciles, cuando el establecimiento respectivo sea clasificado como tal según las normas del Decreto Supremo de Educación N° 427 de 1991.
+
+Esta asignación será financiada en forma adicional al valor de la subvención estatal respectiva.
+
+### Párrafo V
+
+Del Reglamento Interno
+
+#### Artículo 159°
+
+Los establecimientos educacionales particulares subvencionados y aquellos administrados de acuerdo al Decreto Ley N° 3166, de 1980, dictarán Reglamentos Internos, los que se regirán por las mismas normas establecidas en el Párrafo V del TITULO III del presente Reglamento.
+
+Estos reglamentos serán puestos en conocimiento del Departamento Provincial de Educación, de la Dirección del Trabajo, y de la respectiva Secretaría Regional Ministerial de Salud, en un plazo no mayor de sesenta días.
+
+Asimismo, deberá ponerse en conocimiento de los profesionales de la educación, de acuerdo a los artículos 152° y 153° del Código del Trabajo.
+
+### Párrafo VI
+
+De la Terminación del Contrato de Trabajo
+
+#### Artículo 160°
+
+El contrato de trabajo de los profesionales de la educación a que se refiere este Título termina por las causales estipuladas en el Código del Trabajo y sus modificaciones y por aquellas establecidas en el artículo 10° de este Reglamento.
+
+Con todo, si el contrato de trabajo termina por cualquiera de las causales señaladas en el artículo 3° de la Ley N° 19.010, el empleador deberá pagar además de la indemnización por años de servicios a que se refiere el artículo 5° de la misma Ley, otra adicional equivalente al total de la remuneraciones que habría tenido derecho a percibir si el contrato hubiere durado hasta el término del año laboral en curso.
+
+La indemnización señalada en el inciso anterior, es incompatible con el derecho establecido en el artículo 74° del Código del Trabajo.
+
+#### Artículo 161°
+
+No obstante, lo señalado en el inciso segundo del artículo anterior el empleador podrá poner término al contrato por alguna de las causales allí establecidas, siempre que la terminación de los servicios se haga efectiva el día anterior al primero del mes en que se inician las clases en el año escolar siguiente y el aviso de tal desahucio haya sido otorgado con no menos de sesenta días de anticipación a esta misma fecha.
+
+Lo dispuesto anteriormente constituye una opción para el empleador que, en el caso que no se cumplan los requisitos establecidos no, producirá efecto alguno y, en tal circunstancia el contrato continuará vigente.
+
+### Párrafo VII
+
+De la Negociación Colectiva
+
+#### Artículo 162°
+
+Los profesionales de la educación de los establecimientos educacionales particulares pagados o subvencionados tendrán derecho a negociar colectivamente conforme a las normas del sector privado.
+
+#### Artículo 163°
+
+Si un sostenedor de establecimiento particular subvencionado contrata indefinidamente a todos los profesionales de la educación que allí se desempeñan y, a lo menos, los remunera según las normas establecidas en la Ley N° 19.070 para el sector municipal, las partes podrán, de común acuerdo, excluir al establecimiento del mecanismo de negociación colectiva.
+
+## Título V
+
+DE LA VIGENCIA DEL ESTATUTO DE LOS PROFESIONALES DE LA EDUCACION
+
+#### Artículo 164°
+
+Las normas del estatuto de los profesionales de la educación tienen una vigencia general al 1° de julio de 1991, fecha de publicación en el Diario Oficial de la Ley N° 19.070.
+
+No obstante, las normas que establecen la Renta Básica Mínima Nacional, su valor y las asignaciones de experiencia, de desempeño en condiciones difíciles y la de responsabilidad directiva y técnico-pedagógica, rigen retroactivamente a partir desde el 1° de marzo de 1991.
+
+#### Artículo 165°
+
+Sin perjuicio de lo señalado en el artículo anterior, la percepción de las asignaciones allí mencionadas tiene una aplicación diferida y gradual, debiendo alcanzar el total de sus valores dentro del plazo de cinco años contados desde la entrada en vigencia de la ley.
+
+#### Artículo 166°
+
+La asignación de experiencia se pagará:
+
+- Durante 1991 se pagará el 50% del monto que corresponda por cada bienio debidamente acreditado.
+
+- Durante 1992 se pagará un 30% más, completando un 80% del monto que corresponda por cada bienio debidamente acreditado.
+
+- Durante 1993 se pagará un 10% más, completando un 90% del monto que corresponda por cada bienio debidamente acreditado.
+
+- A partir de 1994 se pagará un 10% más, completando un 100% del monto que corresponda por cada bienio debidamente acreditado.
+
+Si durante este período de aplicación gradual, el profesional de la educación cumpliere un nuevo bienio, se pagará éste en el porcentaje que corresponda a ese año desde la fecha en que dicho bienio se cumplió.
+
+#### Artículo 167°
+
+El bono de perfeccionamiento, se reconocerá y pagará a los profesionales de la educación municipal y de la educación particular subvencionada durante 1991 y 1992, con un monto de $ 10.000 por cada año de acuerdo a las disposiciones contenidas en el Decreto Supremo de Educación N° 324, de 1991.
+
+La asignación de perfeccionamiento se pagará a contar del 1° de enero de 1993 de acuerdo a lo señalado en el artículo 116 de este Reglamento.
+
+#### Artículo 168°
+
+La asignación por desempeño en condiciones difíciles se pagará, según la disponibilidad del fondo destinado al pago de esta asignación;
+
+Durante los años 1991 y 1992 hasta un 25% del porcentaje que corresponda según así se haya determinado, del máximo del 30% fijado en la ley;
+
+Durante el año 1993 se pagará un 50% del porcentaje que corresponda, según se haya determinado, del máximo del 30% fijado en la ley;
+
+Durante el año 1994 hasta un 75% del porcentaje que corresponda, según se haya determinado, del máximo del 30% fijado en la ley;
+
+A partir del año 1995 hasta un 100% del porcentaje que corresponda según se haya determinado, del máximo del 30% fijado en la ley.
+
+#### Artículo 169°
+
+Las asignaciones de responsabilidad directiva y la asignación de responsabilidad técnico-pedagógica se pagarán a partir del año 1991, según se haya determinado, hasta el máximo de 20% y 10% respectivamente, fijado en la ley.
+
+#### Artículo 170°
+
+El complemento adicional por zona, a que se refiere el artículo 105 de este Reglaamento deberá pagarse, conforme a lo señalado en los incisos sexto y siguientes del artículo 5° Transitorio de la Ley N° 19.070 en un plazo que no podrá exceder el 31 de diciembre de 1993. En todo caso su financiamiento deberá corresponder al incremento de la subvención educacional que perciben los sostenedores de acuerdo a lo dispuesto en el artículo 10° del D.F.L. N° 2 de 1989 del Ministerio de Educación.
+
+#### Artículo transitorio
+
+La primera calificación que se practicará de acuerdo al procedimiento establecido en el Párrafo VII del Título III de este Reglamento abarcará el período comprendido entre el 1° de marzo de 1993 y el 28 de febrero de 1994.
+
+> **Nota.** NOTA 1: El Artículo 1° del Decreto Supremo N° 107, de Educación, publicado en el "Diario Oficial" de 26 de abril de 1993, dispuso que por el período 1° de Marzo de 1993 al 28 de Febrero de 1994 el proceso de calificaciones a que se refiere el presente Artículo Transitorio, se efectuará con carácter experimental con el objeto de detectar una racional aplicación del sistema, considerando los diferentes elementos y personas que deben intervenir en ese proceso. El artículo 2° del Decreto Supremo N° 107, citado precedentemente, ordenó que la primera calificación que deberá hacerse de acuerdo a los establecido en el Párrafo VII del Título III del Decreto Supremo de Educación N° 453, de 1991, abarcará el período comprendido entre el 1° de Marzo de 1994 y el 28 de Febrero de 1995.
+
+> **Nota.** NOTA 2: Ver el Decreto Supremo N° 162, del Ministerio de Educación, publicado en el "Diario Oficial" de 13 de Mayo de 1994, que modificó el Decreto Supremo N° 107, de Educación, de 1993, en la forma que indica.
+
+Anótese, tómese razón, publíquese e insértese en la recopilación de reglamentos de la Contraloría General de la República.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Ricardo Lagos Escobar, Ministro de Educación.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a Ud.- Raúl Allard Neumann, Subsecretario de Educación.
+
+CONTRALORIA GENERAL DE LA REPUBLICA
+
+División Jurídica
+
+División de Municipalidades
+
+Cursa con alcances Decreto N° 453, de 1991, del Ministerio de Educación
+
+Núm. 21.619.- Santiago, 31 de Agosto de 1992.
+
+Esta Contraloría General ha tomado razón del documento indicado en el rubro, que aprueba el Reglamento de la Ley N° 19.070, por ajustarse a derecho.
+
+Sin perjuicio de lo anterior, cumple con hacer presente, en relación con el artículo 14 de ese instrumento, que la comunicación a que alude sólo procede efectuarla a este Organismo Contralor, cuando se trate de profesionales de la educación que se desempeñen en colegios que dependen directamente de los Departamentos de Administración de la Educación Municipal, y de quienes ocupen en éstos últimos cargos directivos o técnico-pedagógicos, que por su naturaleza requieran ser servidos por esos profesionales.
+
+En cuanto a los artículos 45 y 46 del Párrafo VII, Título II del Reglamento en examen, sobre "Becas para Perfeccionamiento", cabe precisar que el otorgamiento y distribución equitativa de estos beneficios debe hacerse necesariamente a través del Centro de Perfeccionamiento, Experimentación e Investi-gaciones Pedagógicas, según lo ordena, de manera expresa, el artículo 12, inciso segundo, de la ley N° 19.070.
+
+Asimismo, en lo que concierne al artículo 74, es necesario puntualizar que de acuerdo con el criterio sustentado en el dictamen N° 12.956, de 1992, en la dotación docente comunal debe incluirse a todo el personal del sector municipal regido por la ley N° 19.070, que trabaje tanto en los establecimientos educacionales, como en los organismos de administración de dicho sector.
+
+Por otra parte, respecto del artículo 117, es del caso señalar que en conformidad con el artículo 47, inciso primero del citado cuerpo legal, el derecho a conservar la asignación de perfeccionamiento a que se refiere, únicamente corresponde a los profesionales de la educación que presten servicios en establecimientos educacionales del sector municipal.
+
+Enseguida, debe anotarse que lo dispuesto en el inciso cuarto del artículo 129 del decreto en estudio, sólo es aplicable en aquellos casos contemplados en los incisos segundo y tercero del mismo precepto, pero no cuando la designación comprende una proporción de horas de aula inferior al máximo del 75% de la jornada, que contempla la ley, como sucede, por ejemplo, con la situación prevista en el artículo 130 del mismo reglamento.
+
+A su vez, en cuanto al inciso segundo, parte final, del precitado artículo 129, en cuya virtud "cada recreo tendrá por regla general una duración de 4 minutos, que podrán acumularse para los efectos de conformar el horario diario de clases", cabe manifestar que según aparece del contexto de esta disposición su alcance no es otro que el de establecer que por cada hora de clases a los docentes les corresponderá, por regla general, cuatro minutos de recreo.
+
+Finalmente, es oportuno consignar que las Municipalidades que administren directamente establecimientos de enseñanza deben remitir a la Contraloría General las respectivas dotaciones docentes, para que ésta pueda dar debido cumplimiento al trámite de registro a que están afectos los decretos alcaldicios relativos al ingreso y cese de funciones de los profesionales de la educación pertinentes.
+
+Con los alcances que anteceden, se da curso al documento del epígrafe.
+
+Dios guarde a US.- Miguel Solar Mandiola, Contralor General de la República subrogante.
+
+Al Señor
+
+Ministro de Educación
+
+Presente
