@@ -1,0 +1,3 @@
+Por resolución N° 655 de 11 de Julio de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por el LICEO B-6, de la I. Municipalidad de Caldera, R.U.T. N° 60.920.308-0, para instalar un centro de cultivo ubicado en Punta Caleta, Bahía de Caldera, Comuna de Caldera, Provincia de Copiapó, III Región, por no encontrarse ubicado dentro de las Areas Aptas para la Acuicultura, establecidas en el D.S.(M) N° 612, de 1993, del Ministerio de Defensa Nacional.
+
+Valparaíso, 11 de Julio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
