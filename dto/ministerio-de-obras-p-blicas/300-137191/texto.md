@@ -1,0 +1,3 @@
+Por decreto MOP Nº300, de 26 de febrero de 1999, se expropiaron los lotes de terreno Nºs. 10, 11 y 19, superficies 309 m2., 670 m2. y 113 m2., roles de avalúo 172-7, 172-6 y 172-43, comuna de Yerbas Buenas, para la obra Camino Ruta L-25, Sector Lisonjera-Yerbas Buenas y se acordó precio de indemnización con sus propietarios Víctor Salvador Avila Rebolledo, Orfelina Vega Gaete y Gilberto Cancino Chandía, ascendente a las cantidades de $723.522, $1.463.475 y $3.555.474.
+
+- Fiscal del Ministerio de Obras Públicas.
