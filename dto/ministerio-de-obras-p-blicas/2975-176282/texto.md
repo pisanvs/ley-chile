@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.975, de 30 de junio de 2000 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 4-B, para la obra Puente Cucao, sector Camino Chonchi - Cucao, que figura a nombre de Serviu, superficie 30 m2, rol de avalúo 154-169, comuna de Chonchi. La Comisión de Peritos fijó con fecha 10 de septiembre de 1999, en la cantidad de $60.000, la que se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
