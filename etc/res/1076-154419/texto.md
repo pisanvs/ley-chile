@@ -1,0 +1,5 @@
+AUTORIZA A SOPESA ALIMAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.076, de 14 de Septiembre de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sopesa Alimar S.A., domiciliada en Santiago, para ampliar las actividades pesqueras de transformación autorizada por resolución No. 209, de 1984, de la Subsecretaría de Pesca, numeral 5°, en orden a incorporar en su planta de Avenida Marina No. 1250, Talcahuano, VIII Región, las líneas de elaboración de congelado, fresco y de productos derivados de las siguientes especies: jurel, sardina española, merluza común y merluza del sur y en su planta de Molo Sur S/N°, San Antonio, V Región los siguientes recursos, en las líneas de elaboración de congelado, saldo y fresco: atún aleta amarilla, atún aleta larga, cojinova, congrio colorado, congrio dorado, congrio negro, corvina, merluza común, mero, anchoa, pez espada, sardina común, sardina española y loco.
+
+Valparaíso, 14 de Septiembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
