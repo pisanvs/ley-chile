@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº827 de fecha 31 de mayo del 2002, se expropió el lote de terreno Nº43, superficie 3.357,6 m2, rol Nº178-96, comuna de Chonchi, X Región para la obra ''Camino Ruta 5, Sector Chonchi - Tara, Km. 1.205,160 a Km. 1.215,004 y se acordó el valor de indemnización con su propietario Mirta Ana Pérez Bórquez, ascendente a la cantidad de $1.405.150.-
+
+Fiscal del Ministerio de Obras Públicas.
