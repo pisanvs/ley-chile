@@ -1,0 +1,5 @@
+Por decreto MOP No. 497, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP No. 850, de 1997, que fijó el texto actualizado de la ley No.
+
+15.840 y del DFL. No. 206, de 1960, se expropió el lote de terreno No. 100, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, Sector A, que figura a nombre de Inmobiliaria San Bernardo, rol de avalúo No. 183-41, comuna de Colina, Región Metropolitana, superficie 5.509 m2. La Comisión de peritos compuesta por los señores Julio Jorge Machicao Araya, Matías Rafael Norero Urrutia y la señora Valeria Luz Jiménez Matus, fijó con fecha 28 de noviembre de 1997, el valor provisional de la indemnización en la cantidad de $ 79.358.205. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
