@@ -1,0 +1,3 @@
+Por resolución Nº 354 de 22 de febrero de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95101021 presentada por RAMON ROBERTO CARDENAS BORQUEZ, para instalar y operar un centro de cultivo ubicado en la ribera norte del río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 22 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
