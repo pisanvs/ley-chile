@@ -1,0 +1,3 @@
+Por resolución exenta Nº 258, de 27 de enero de 2005, de esta Subsecretaría, autorízase a CONSERVAS Y CONGELADOS Y COMPAÑIA LIMITADA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Bernardo O'Higgins Nº 300, Calbuco, X Región, en las líneas de elaboración fresco enfriado, fresco refrigerado, congelado y conserva, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 27 de enero de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
