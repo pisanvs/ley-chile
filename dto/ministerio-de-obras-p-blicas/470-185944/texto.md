@@ -1,0 +1,3 @@
+Por decreto MOP Nº 470, de fecha 30 de abril del 2001, se expropió el lote de terreno Nº 49, superficie 183 m², rol de avalúo 2213-217, comuna de Chillán, para la obra "Camino Ruta N-45. Sector Cruce N-49 (Chillán) - La Capilla - Tres Esquinas, Km. 6,26000 a Km. 28,54000" y se acordó el valor de indemnización con su propietario Luis Reyes Jiménez, ascendente a la cantidad de $688.554.-
+
+Fiscal del Ministerio de Obras Públicas.
