@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 2335 de 10 de Noviembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado de parte del predio Ucúquer de la comunal de Llay Llay, V Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 5, sitios N°s. 1 al 6 del Proyecto de Parcelación "Nuevo Horizonte" formado por predio señalado. Los derechos de agua se extraen del Canal Lorino, Canal Valdesano y canal Comunero. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
