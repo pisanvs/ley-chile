@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.188, de 2 de diciembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 202111090 presentada por AURORA PATRICIA AROS RIVEROS, para instalar y operar un centro de cultivo ubicado en Canal Troya, lado noroeste de Isla Alberto Vargas (sector B), XI Región.
+
+Valparaíso, 2 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
