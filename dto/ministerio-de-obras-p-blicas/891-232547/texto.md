@@ -1,0 +1,9 @@
+Por decreto MOP Nº 891, de 5 de octubre de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s. 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82 y 85, para la obra: Mejoramiento Av. Salvador Allende, Tramo Avda. Sarmiento-Avda. Costanera, Comuna de Antofagasta, Provincia de Antofagasta, II Región, sector Calle Cardenal Oviedo Cavada-Calle Chuquicamata, que figuran a nombre de Araya Espinoza Manuel, Jachura Calizana Gladys Juana, Aros Mora Miguel, Soza Chávez Nicolás, Buzolic Araya Danica, Wall Ochoa Charles Dusan, Gómez Gijon Gonzalo Eddy, Gómez Gijon Marcos, Gómez Gijon Pablo, Gómez Gijon Danilo y Larraguibel Valencia Silvia, roles de avalúo 1401-9, 1401-14, 1401-8, 1401-7, 1401-6, 1401-5, 1401-4, 1401-21, 1401-20, 1401-18, 1401-19 y 1400-7, superficies 162 m²., 253 m²., 297 m²., 296 m²., 144 m²., 127 m²., 127 m²., 119 m²., 102 m²., 69 m²., 120 m². y 174 m². La Comisión de Peritos, fijó con fecha 14 de abril de 2004, en las cantidades de $34.977.300, para el lote Nº 72; $37.230.138, para el lote Nº 73;
+
+$62.417.153, para el lote Nº 74; $59.033.521, para el lote Nº 75; $24.302.813, para el lote Nº 76;
+
+$19.477.161, para el lote Nº 77; $33.976.263, para el lote Nº 78; $24.365.485, para el lote Nº 79;
+
+$12.134.484, para el lote Nº 80; $9.527.704, para el lote Nº 81; $12.737.478, para el lote Nº 82 y $28.642.483, para el lote Nº 85. Las indemnizaciones se pagarán al contado.- La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
