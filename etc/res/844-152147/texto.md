@@ -1,0 +1,5 @@
+AUTORIZA A "AUSTRALIS SOCIEDAD ANONIMA COMERCIAL E INDUSTRIAL" PARA INICIAR ACTIVIDADES PESQUERAS CADUCA RESOLUCION QUE INDICA
+
+Por resolución No. 844 de 30 de Julio de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a "Australis Sociedad Anónima Comercial e Industrial", domiciliada en Santiago, para instalar y operar en camino Pargua s/n, Puerto Montt, X Región, una planta elaboradora de recursos hidrobiológicos en las líneas de salado y harina de pescado, en la que podrá utilizar como materia prima los recursos Anchoveta, para la línea de salado y sardina española, sardina común, jurel y anchoveta, para la línea de harina de pescado. Cadúcase la resolución No. 181, de 1987, de esta entidad por haber incurrido en la causal establecida en el artículo 6° del decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 30 de Julio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
