@@ -1,0 +1,3 @@
+Por Resolución N° 427, de 08 de marzo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase hasta el 31 de diciembre de 1996, el plazo otorgado a PESQUERA HUILCA S.A., para operar la nave "San Rafael", autorizada por Resolución N° 523 de 1995, de esta Subsecretaría, en virtud de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 8 de marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
