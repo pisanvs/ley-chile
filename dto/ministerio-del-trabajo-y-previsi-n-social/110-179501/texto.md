@@ -18,23 +18,23 @@ Unidas diferenciadas (%)
 
 División 0.- AGRICULTURA, CAZA,
 
-SILVICULTURA Y PESCA 2
+SILVICULTURA Y PESCA 1,13
 
 Sub-actividades
 
 diferenciadas:
 
--Aserraderos 3
+-Aserraderos 2,55
 
 -Tala y corta de
 
-árboles 3
+árboles 2,55
 
--Empresas de pesca 3
+-Empresas de pesca 2,55
 
 División 1.- EXPLOTACION DE MINAS
 
-Y CANTERAS 4
+Y CANTERAS 3,40
 
 No hay sub-actividades
 
@@ -42,21 +42,21 @@ diferenciadas.
 
 División 2-3.- INDUSTRIAS
 
-MANUFACTURERAS 2
+MANUFACTURERAS 1,13
 
 Sub-actividades
 
 diferenciadas:
 
--Fábricas de conservas 3
+-Fábricas de conservas 2,55
 
 -Fábricas o refinerías
 
-de aceite 3
+de aceite 2,55
 
 -Elaboración de vinos
 
-y chichas 3
+y chichas 2,55
 
 -Fábricas de muebles,
 
@@ -66,23 +66,23 @@ cajones, envases y
 
 otros productos de la
 
-madera 3
+madera 2,55
 
--Barracas 3
+-Barracas 2,55
 
 -Fabricación, instala-
 
 ción y reparación de
 
-maquinarias 3
+maquinarias 2,55
 
 -Garage de reparación
 
-de vehículos 3
+de vehículos 2,55
 
 -Talleres de
 
-maestranza y mecánica 3
+maestranza y mecánica 2,55
 
 -Fábricas de pernos,
 
@@ -90,7 +90,7 @@ tornillos, tuercas,
 
 clavos y otros
 
-productos metálicos 3
+productos metálicos 2,55
 
 -Fábricas de muebles
 
@@ -98,29 +98,29 @@ metálicos y cromados,
 
 y otros de industrias
 
-metálicos 3
+metálicos 2,55
 
 -Cerrajerías en
 
-general 3
+general 2,55
 
 -Carrocerías en
 
-general 3
+general 2,55
 
 -Fundición y refinación
 
-de metales 4
+de metales 3,40
 
 -Caldererías en
 
-general 4
+general 3,40
 
--Astilleros 4
+-Astilleros 3,40
 
 -Fábricas de cemento y
 
-cal, con canteras 4
+cal, con canteras 3,40
 
 -Fábricas de vidrios,
 
@@ -128,7 +128,7 @@ espejos, botellas,
 
 tubos, envases y otros
 
-productos de vidrio 4
+productos de vidrio 3,40
 
 -Fábricas y depósitos
 
@@ -138,9 +138,9 @@ municiones, fulminantes,
 
 grúas para minas
 
-y fuegos artificiales 4
+y fuegos artificiales 3,40
 
-División 4.- CONSTRUCCION 3
+División 4.- CONSTRUCCION 2,55
 
 Sub-actividades
 
@@ -152,17 +152,17 @@ interior y exterior en
 
 edificios de cualquier
 
-número de pisos 4
+número de pisos 3,40
 
 -Demolición de
 
-construcciones 4
+construcciones 3,40
 
 División 5.- ELECTRICIDAD, GAS,
 
 AGUA Y SERVICIOS
 
-SANITARIOS 2
+SANITARIOS 1,13
 
 No hay sub-actividades
 
@@ -178,13 +178,13 @@ diferenciadas:
 
 parafina y otros
 
-productos combustibles 3
+productos combustibles 2,55
 
 División 7.- TRANSPORTES,
 
 ALMACENAJE Y
 
-COMUNICACIONES 3
+COMUNICACIONES 2,55
 
 Sub-actividades
 
@@ -192,9 +192,9 @@ diferenciadas:
 
 -Carga y descarga
 
-de buques 4
+de buques 3,40
 
--Frigoríficos 4
+-Frigoríficos 3,40
 
 División 8.- SERVICIOS 0
 
@@ -204,11 +204,13 @@ diferenciadas:
 
 -Lavanderías y
 
-tintorerías 1
+tintorerías 0,85
 
 -Empresas de
 
-fumigación aérea 4
+fumigación aérea 3,40
+
+> **Nota.** El Artículo 1° transitorio del Decreto Ley 3501, Trabajo, publicado el 18.11.1980, dispuso que las cotizaciones a que se refiere el Artículo 15 letra b) de la ley 16744 deben reducirse a lo que resulte de dividir las presentes tasas por 1,1757, expresadas en dos decimales, elevando a la cifra superior el tercer decimal que sea igual o mayor que cinco y despreciando el inferior.
 
 Tómese razón, comuníquese, publíquese e insértese en la Recopilación que corresponda de la Contraloría General de la República.- E. FREI M.- Eduardo León Villarreal.
 
