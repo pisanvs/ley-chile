@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.494, de 28 de mayo de 2004, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 3.555, de 2003, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Pesca de Investigación de Merluza del sur en la Región de Magallanes-Fase III, 2004", en el sentido de señalar que las actividades de investigación correspondientes al mes de junio se realizarán entre el 7 y el 30 de dicho mes, ambas fechas inclusive.
+
+Valparaíso, 28 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
