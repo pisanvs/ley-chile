@@ -1,0 +1,5 @@
+ENTIDADES RELIGIOSAS DE DERECHO PÚBLICO
+
+EXTRACTO
+
+Acta: Congregación Evangélica de Cristo, Vecinal 2611 P.A.C. registro público entidades religiosas Nº214 8 febrero 2002 constituyen: Hildre Abraham Alarcón Moraga, Armando Antonio Vega Sanhueza, Cristián Andrés Silva Hormazábal, Sandra Elizabeth Alarcón Cabello y Berta del Carmen Sánchez Astudillo. 1. Administración: Presidente nacional y representante legal Hildre Abraham Alarcón Moraga, sostenemos la ley de Chile, no habrá fin de lucro, las transacciones económicas se realizarán por representante legal más un miembro. 2. Fundamentos, principios, creencias, la Biblia que es la Palabra de Dios, un Dios Creador el Hijo Redentor, y el Espíritu Consolador, Bautismo Presentación de niños, Santa Cena, Matrimonio. Se garantiza el libre y voluntario acceso a cultos. 3.- Escritura pública que contiene estatutos 6 de febrero 2002 repertorio 2316 Notario Público Gloria Acharán Toledo, Matías Cousiño 154, Santiago. Hildre Abraham Alarcón Moraga, Representante Legal.
