@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 175 de 29 de Julio de 1991, se expropiaron los lotes N°s. 1 y 2, superficies 55 y 1.688 m2., Rol de Avalúo 113-18, Comuna La Cruz, para la obra Camino Internacional Ruta 60 CH, Sector Cruce Ruta 5, Puente Lo Venecia, Acceso a La Cruz, Acceso a San Isidro (Ruta F-386) y Enlace Superior San Pedro, y se acordó precio de indemnización con su propietario don Gunther Wolff Schaufler, ascendente a la cantidad de $ 1.507.765.-
+
+Fiscal del Ministerio de Obras Públicas.
