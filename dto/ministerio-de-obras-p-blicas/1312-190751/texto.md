@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.312, de 31 de agosto de 2001, se expropió el lote de terreno Nº32, superficie 1.251 m2., de avalúo 104-247, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Enlace Los Panguiles, Región Metropolitana y se acordó el valor de indemnización con sus propietarios Modinia Gertrudis Sánchez Ruz y otros, ascendente a la cantidad de $57.546.652.-
+
+Fiscal del Ministerio de Obras Públicas.
