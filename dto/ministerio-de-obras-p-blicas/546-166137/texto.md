@@ -1,0 +1,3 @@
+Por decreto MOP Nº546, de 28 de febrero del 2000, se expropió el lote de terreno Nº15, superficie 2.183 m2., rol de avalúo 273-359, comuna de San Fernando, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector H, Sexta Región y se acordó el valor de indemnización con su propietario Víctor Orlando González García, ascendente a la cantidad de $8.802.620.-
+
+Fiscal del Ministerio de Obras Públicas.
