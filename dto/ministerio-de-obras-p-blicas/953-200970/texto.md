@@ -1,0 +1,3 @@
+Por decreto MOP Nº953 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº14, superficie 11.190 m², Rol de Avalúo Nº70-3, comuna de Negrete, para la obra ''Camino Ruta Q-80, sector Ruta 5 - Negrete, tramo II, Km. 0,00000 a Km. 29,93300'', VIII Región y se acordó el valor de indemnización con su propietario Corporación Servicio Evangélico para el Desarrollo ''Sepade'', ascendente a la cantidad de $10.308.518.-
+
+Fiscal del Ministerio de Obras Públicas.
