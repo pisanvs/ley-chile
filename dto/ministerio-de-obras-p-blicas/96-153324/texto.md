@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 96, de 30 de Abril de 1986, se expropiaron los lotes N°s. 1 y 2, roles de avalúo 149-5 y 1152-38, superficies 2,590 m2 y 1.890 m2, Comunas de Nancagua y Santa Cruz, para Camino Nancagua-Chépica, sector Uvas Blancas y se acordó precio de indemnización con sus propietarios señores Pedro Rivera Ojeda y Carlos Mario Mardones Suvett, ascendente a $ 1.522.252 y $ 523.641, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
