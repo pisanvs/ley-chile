@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.705, de 24 de junio de 1999, se expropiaron los lotes de terreno No. s. 517 y 521-A, superficies 4.496,4 m2. y 15,6 m2., rol de avalúo 538-176, comuna de La Unión, para la obra "Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno", Décima Región y se acordó el valor de indemnización con su propietario Daniel Uribe Hernández, ascendente a la cantidad total de $ 3.046.585.-
+
+Fiscal del Ministerio de Obras Públicas.
