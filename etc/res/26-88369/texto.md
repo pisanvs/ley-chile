@@ -1,0 +1,3 @@
+Por Resolución Nº 26, de 13 de enero de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de reposición presentada por Construcciones y CarpinterIa Naval CONCAR S.A., respecto de la Resolución Nº 291, de 1989, de esta Subsecretaría, en virtud de las disposiciones legales y reglamentarias.
+
+Valparaíso, 13 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
