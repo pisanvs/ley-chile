@@ -1,0 +1,3 @@
+Por Resolución N° 798, de 11 de Octubre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 1.326, de 1989, de esta Subsecretaría, que autorizó a IBER CHILE S.A., R.U.T. N° 96.535.870-6, para operar la nave "Iber I", en virtud de lo prescrito en el artículo 143 letra d) del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de Octubre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
