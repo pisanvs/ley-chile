@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 4 del 20 de Mayo de 1993, se adjudica a Soc. Touring Club. la concesión para operar, hasta el 14 de Febrero de 1995, un establecimiento ubicado en calle Mar Jónico 8771 de la comuna de Vitacura, destinado a la verificación de emisiones contaminantes de vehículos motorizados livianos, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Marcelo Belmar Berenguer.- Secretario Regional Ministerial (S) Transportes y Telecomunicaciones Región Metropolitana.
