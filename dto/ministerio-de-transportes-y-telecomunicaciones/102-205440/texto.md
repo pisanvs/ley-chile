@@ -16,7 +16,7 @@ La Junta de Aeronáutica Civil llamará a licitación pública para asignar la o
 
 #### Artículo 3°
 
-DEROGADO
+Si en la oportunidad a que se refiere el artículo anterior se presentaren más interesados que frecuencias disponibles, y aquellos cumplieren con la garantía exigida, la Junta de Aeronáutica Civil procederá a recibir ofertas por cada una de las frecuencias disponibles, en presencia de dichos interesados. La última oferta de cada interesado deberá constar en un acta que será firmada, al menos, por el oferente que hubiere que hubiere hecho la oferta más alta.
 
 #### Artículo 4°
 
