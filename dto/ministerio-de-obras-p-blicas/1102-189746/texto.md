@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.102, de 31 de julio de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 5-1, 5-2 y 5-3, para la obra: "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector I: Km. 140.850,00 al Km. 151.500,00", Sexta Región, que figuran a nombre de Luis Jiménez López y Otros, sin rol de avalúo, comuna de Chimbarongo, superficies de 572 m2, 368 m2 y 306 m2, respectivamente. La comisión de peritos integrada por los señores María Angélica Hurtado Arranz, Victoria Adriana Blanco Costa y Marcela Alejandra Redard Ayala, fijó con fecha 12 de febrero de 2001, el valor provisional de la indemnización en las cantidades de $3.074.800.- para el lote N° 5-1;
+
+$2.233.200.- para el lote N° 5-2 y $2.150.130.- para el lote N° 5-3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
