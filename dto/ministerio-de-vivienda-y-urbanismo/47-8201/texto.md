@@ -1922,7 +1922,7 @@ Para los efectos del presente Capítulo, se entenderá por «Unidad» toda edifi
 
 13. Las escaleras que comunican hasta dos pisos dentro de una misma unidad estarán exentas de exigencias de resistencia al fuego.
 
-14. Las viviendas aisladas sin adosamiento, de una superficie edificada inferior o igual a 140 m2, de uno o dos pisos, que se encuentren separadas por una distancia igual o superior a tres metros de todos los medianeros con predios adyacentes, tendrán una resistencia al fuego a lo menos F-15 en todos sus elementos y componentes soportantes. La anterior disposición será aplicable también a viviendas pareadas o adosadas de 140 m2 o menor superficie cada una, siempre que el muro de pareo o adosamiento entre ambas cumpla la exigencia de muros divisorios entre unidades de la tabla del artículo 4.3.3. que le corresponda.
+14. Las viviendas aisladas, pareadas o continuas, de hasta 2 pisos, cuya superficie edificada sea inferior o igual a 140 m2, tendrán una resistencia al fuego a lo menos F-15 en todos sus elementos y componentes soportantes, siempre que el muro de adosamiento o muro divisorio, según corresponda, cumpla con las exigencias de muros divisorios entre unidades establecidas en la columna signada con el número (4) en la Tabla del artículo 4.3.3.
 
 15. Si debido a una ampliación una vivienda o edificio de viviendas pasa de un tipo a otro más exigente, será suficiente que la superficie en exceso sobre lo indicado en la tabla 1 del artículo 4.3.4., cumpla con las exigencias del nuevo tipo.
 
