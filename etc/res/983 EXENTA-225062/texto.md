@@ -1,0 +1,3 @@
+Por resolución exenta, Nº 983, de 13 de abril de 2004, de esta Subsecretaría, modifícase el numeral 1.- de la resolución Nº 2362 de 2003, de esta Subsecretaría, que autorizó a YOLANDA MONICA GALLARDO RODRIGUEZ para instalar colectores de semillas de chorito Mytilus chilensis en el sector denominado Ensenada Raliguao, seno Reloncaví, X Región, en el sentido de reemplazar la frase "30 de abril del 2004", por la expresión "31 de mayo de 2004".
+
+Valparaíso, 13 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
