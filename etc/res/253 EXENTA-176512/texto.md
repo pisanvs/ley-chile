@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCION Nº253 EXENTA, DE 2000
+
+Con fecha 21 de septiembre de 2000 la Secretaría Regional Ministerial de Bienes Nacionales dictó resolución exenta N°253, por medio de la cual se le otorga a la Municipalidad de Punta Arenas una concesión de uso gratuito del inmueble fiscal ubicado en calle Zenteno N°191 y 195, comuna de Punta Arenas, provincia de Magallanes, por un plazo de cinco (5) años.
