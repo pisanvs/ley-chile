@@ -1,0 +1,3 @@
+Por Resolución N° 731, de 20 de Junio de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución N° 1.334, de 1987, de esta Subsecretaría, que autorizó a SOCIEDAD JIMENEZ Y CIA. LIMITADA, R.U.T. N° 79.554.370-8, para ampliar actividades pesqueras extractivas con la nave "La Portada", por haberse configurado la causal prevista en el artículo 143, letra b) de la Ley N° 18.892, citada en Visto.
+
+Valparaíso, 20 de Junio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
