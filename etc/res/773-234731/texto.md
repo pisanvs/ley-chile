@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 773, 27 diciembre 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº 1329, Rol de Avalúo 633-2, comuna Concepción, superficie 102,30 m² de terreno y 18,40 m² de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.473, de aparente dominio de Inmobiliaria e Inversiones Alborada del Bío, para ejecución programa "Mejoramiento Eje Vial Paicaví", conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por María Pamela Mac-Guire Acevedo, arquitecto, Ricardo Echeverría Hohmann, arquitecto y Andrés Risso Caamaño, arquitecto, según informe de fecha 17 de diciembre de 2004, fijó monto provisional indemnización en $23.181.410.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
