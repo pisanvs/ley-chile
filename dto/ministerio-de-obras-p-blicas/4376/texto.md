@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.376, de 29 de septiembre de 2000,y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP. Nº206, de 1960, se expropió el lote de terreno Nº2, para la obra:
+
+''CONCESION INTERNACIONAL INTERCONEXION VIAL SANTIAGO-VALPARAISO-VIÑA DEL MAR. KM. 80.450,00 A KM. 91.935,00'', Quinta Región, que figura a nombre de Abarca Henríquez Ciro y otros, rol de avalúo 174-28, comuna de CASABLANCA, superficie 3.101 m2. La comisión de peritos integrada por los señores Joaquín Prieto Ochagavía, Marlene Teresa Ríos Marcuello y Luis Pablo Padilla Vergara, fijó con fecha 19 de mayo de 2000, el valor provisional de la indemnización en la cantidad de $3.864.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
