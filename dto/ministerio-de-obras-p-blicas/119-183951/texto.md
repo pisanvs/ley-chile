@@ -1,0 +1,3 @@
+Por decreto MOP Nº 119, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 5, superficie 8.556 m2, rol de avalúo 165-17, comuna de San Clemente, para la obra "Sistema Maule Norte Canal Villalobos Bajo Km. 0,100 al Km. 5,878" y se acordó el valor de indemnización con su propietario José Guajardo Bustamante o José Adán, ascendente a la cantidad de $2.706.957.-
+
+Fiscal del Ministerio de Obras Públicas.
