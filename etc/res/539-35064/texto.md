@@ -1,0 +1,3 @@
+Por Resolución N° 539 de 23 de Julio de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 846, de 1989, de esta Subsecretaría, que autorizó a don JORGE SEPULVEDA ORTIZ, para operar un establecimiento de cultivo en un sector Punta Camello, Seno Aysén, Comuna y Provincia de Aysén, XI Región, por renuncia de su titular.-
+
+Valparaíso, 23 de Julio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
