@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.152 de 7 de agosto de 1998, y en base a la facultad otorgada por el artículo 14 letra e) y 105 del DFL. No. 850 de 1997, que fijó el texto actualizado de la Ley No. 15.840, se expropió el lote de terreno No.
+
+74-B, para la obra Camino Ruta 5 Norte, tramo Santiago-Los Vilos, Sector Km. 93.800,00 al km. 97.970,00, que figura a nombre de Aedo León Luisa Nelly, rol de avalúo 228-119, Comuna de Hijuelas, superficie 5.986 m2. La Comisión de Peritos integrada por los Señores Jorge Gregorio Mendoza Larral, Pablo Antonio Aragón Bernal y Juan Carlos Paniagua López, fijó con fecha 28 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $ 44.481.700.- para el lote No. 74-B.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
