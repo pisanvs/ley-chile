@@ -1,0 +1,3 @@
+Por resolución Nº 458, de 15 de marzo de 2001, de esta Subsecretaría, déjase sin efecto la letra p) del número 1º de la resolución Nº 104 de 2001, de esta Subsecretaría, que declaró la caducidad parcial de las resoluciones Nº 1.276 de 1994 y Nº 1.458 de 1996, que autorizaron a INDUSTRIA PESQUERA OCEANICA DOS LTDA. para operar la nave Oceánica 3.
+
+Valparaíso, 15 de marzo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
