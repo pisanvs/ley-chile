@@ -1,0 +1,5 @@
+Por resolución No. 356, de 27 de Marzo de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a SOCIEDAD COMERCIAL PACIFICO SUR S.A., R.U.T. No. 96.501.110-2, domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras que tiene autorizadas por Resolución No. 804, de 1988, de esta Subsecretaría, en orden a operar una planta industrial ubicada Santa Rosa No. 3602, San Joaquín, Santiago, donde podrá procesar en las líneas de elaboración de congelado y fresco enfriado, los siguientes recursos hidrobiológicos: Bacalao de profundidad o Mero, Congrio dorado y Merluza del Sur.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 27 de Marzo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
