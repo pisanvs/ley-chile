@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 481 de 23 de Abril de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predios: "Parte de los Fundos San Gabriel y San Manuel", "Propiedad de 157,50 hectáreas, conocido como La Victoria", "Parte de los Fundos San Gabriel y San Manuel, Porción que corresponde a la del lado Nor-Poniente, en que han sido subdivididos dichos Fundos" de la comuna de Linares, 7a Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 16, sitios N°s. 1 al 31 y Reserva CORA No. 1 del Proyecto de Parcelación "San Gabriel" formado por predios señalados. Los Derechos de Agua se extraen de los canales San Gabriel derivado del Río Achibueno y Victoria, ramal del anterior, Derrames del Estero El Burro y de la Toma del Estero El Burro Chico. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
