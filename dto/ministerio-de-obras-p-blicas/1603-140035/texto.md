@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.603, de 21 de junio de 1999, se modificó el decreto MOP Nº204, de 28 de abril de 1995, que expropió entre otros el lote de terreno Nº45, para la obra Camino Lo Orozco, Quilpué, que figura a nombre de Santiago Font De La Vall González, rol de avalúo 177-96, comuna de Casablanca, V Región, ordenándose la consignación judicial del valor provisional de la indemnización ascendente a la cantidad de $84.000, por haber quedado sin efecto el convenio directo de precio suscrito con el expropiado. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
