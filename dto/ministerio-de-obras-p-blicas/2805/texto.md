@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 2.805, de 30 de diciembre de 1998, se expropiaron los lotes de terreno Nos. 5 y 5-A, superficies 186 M2. y 364 M2., rol de avalúo 136-35, comuna de San Francisco de Mostazal, obra Camino Ruta 5 Sur Atravieso La Punta y se acordó precio de indemnización con su propietario Javier Echeverría Alessandri, ascendente a la cantidad de $ 2.876.930.
+
+Fiscal del Ministerio de Obras Públicas.
