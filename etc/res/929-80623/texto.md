@@ -1,0 +1,3 @@
+Por Resolución No. 929 de 29 de Noviembre de 1991 de SERVIU Metropolitano, ordenóse expropiación, conforme DL No. 2.186 de 1978, -parte inmueble- ubicado en Anda. Libertador Bernardo O' Higgins y las Rejas, presunto rol de avalúos No. 547-005 comuna Estación Central aparente dominio de Compañía de Petróleos de Chile S.A. Comisión integrada por peritos Sres. Sergio Rojas Ibáñez, ingeniero civil, Fernando Merino de la Cerda y Roberto Correa Benzanilla, arquitectos, según informe 12 de Agosto de 1991, fijó monto provisionl indemnización en $ 14.410.000.- pagadera al contado.
+
+Directora SERVIU Metropolitano.
