@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.574, de 30 de junio de 2000, se expropió el lote de terreno Nº 148, superficie 692 m2., rol de avalúo 106-13, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A, Región Metroplitana y se acordó el valor de indemnización con su propietario Carlos Antonio Allendes Herrera, ascendente a la cantidad de $13.884.315.-
+
+Fiscal del Ministerio de Obras Públicas.
