@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 737 de fecha 31 de mayo de 2004, se expropió el lote de terreno Nº 64, superficie 1.209 m2, Rol Nº 231-72, comuna de Toltén, IX Región para la obra "Camino Ruta S-790 Sector Nueva Toltén - Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub Tramo II Km. 80,55700 al Km, 87,50000" y se acordó el valor de indemnización con su propietario Manuel Loncon Landeros, ascendente a la cantidad de $1.378.474.-
+
+Fiscal del Ministerio de Obras Públicas,
