@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 610 de 30 de junio de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco los lotes Nºs. 13, 15 y 16 para la obra: Laja - Diguillín, Canal Matriz Diguillín - Larqui Fajas Adicionales Km. 0,000 a Km.
+
+23,420, que figuran a nombre de Veloso Figueroa Miguel Antonio y Quintana Morales Alejo del C., roles de avalúo 602-42 y 600-60, comuna de San Ignacio, VIII Región, superficies 572 m²; 2.443 m² y 1.800 m². La Comisión de Peritos, fijó con fecha 5 de enero de 2003, el monto de la indemnización provisional en la cantidad de $508.200.-, para el lote 13; $1.911.600.-, para el lote 15 y $1.435.000.-, para el lote 16. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
