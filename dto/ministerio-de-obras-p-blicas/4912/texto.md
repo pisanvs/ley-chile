@@ -1,0 +1,7 @@
+Por decreto MOP Nº4.912, de 31 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 1, 2, 2-A, 3, 5, 7, 9, 12, 14, 17, 20, 21 y 22. Obra: Camino Ruta G-25, sector San José de Maipo - San Gabriel, Km. 34.500,00 al 55.557,30, que figuran a nombre de Munic. de San José de Maipo, León Carlos Tapia Ponce, Sind. Trab. del Bco. del Estado, Silvia Vásquez Duhalde, M. Eugenia Molinario de la Plaza, Celia Mercedes Cáceres Hernández, Suc. Lorenzoni Masina y ots., Alfonso Astorga Barriga, Silvia de las M. Casas Cordero, Ladislao Ríos Quezada, Fresia Cerda Allende y Suc. Pascuala García Orellana, roles de avalúo Nºs. 105-1, 105-2, 105-31, 105-3, 105-4, 105-7, 455-1, 456-20, 456-14, 500-32 500-29 y 500-4, comuna de San José de Maipo, superficies 223,00, 83,30; 1.645,00; 154,30; 228,60; 69,90; 17,80; 125,00; 19,50; 34,70;
+
+55,40; 23,20 y 21,00 M2., respectivamente. La Comisión de fijó con fecha 7 de julio de 1998, el valor provisional de la indemización en las cantidades de $5.301.000, lote 1; $1.305.600, lote 2; $1.963.000, lote 3; $3.557.400, lote 5; $1.448.850, lote 7; $2.765.400, lote 9; $1.650.000, lote 12; $2.212.500, lote 14;
+
+$1.090.000, lote 17; $593.200, lote 20; 335.600, lote 21 y $318.000, lote 22. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
