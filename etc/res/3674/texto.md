@@ -1,0 +1,7 @@
+Por resolución Nº 3.674, de 28 de diciembre de 2004, de esta Subsecretaría, aplícase al grupo de armadores PESQUERA COSTA AFUERA S.A., FRIOSUR IX S.A., FRIOSUR VII S.A., FRIOSUR VIII S.A., FRIOSUR X S.A., PESQUERA PACIFICO SUR S.A., PESCA CHILE S.A., cuya participación conjunta fue reconocida mediante resolución Nº 79, de 2004, de esta Subsecretaría de Pesca, la sanción establecida en el artículo 12 inciso 4º de la ley Nº 19.713, respecto de la unidad de pesquería de Merluza común, individualizada en el artículo 2º letra m) de la ley Nº 19.713.
+
+Descuéntese el 10% de los límites máximos de captura autorizados al grupo de armadores antes individualizado, reconocidos mediante decreto exento Nº 845, de 2003, Ministerio de Economía, Fomento y Reconstrucción, reducidos mediante resolución sancionadora Nº 3.673, de 2004, de esta Subsecretaría de Pesca, ascendente a 1.550,392 toneladas.
+
+En consecuencia, redúzcase de los límites máximos de captura asignados al grupo de armadores antes individualizado un total de 1.550,392 toneladas, quedando un remanente para el año 2004 ascendente a 13.953,524 toneladas, fraccionadas de la manera señalada en el numeral 3º de la presente resolución.
+
+Valparaíso, 28 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
