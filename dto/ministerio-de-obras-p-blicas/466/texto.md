@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 466, de 30 de abril de 1997, se expropiaron los lotes de terreno Nºs. 19, 24 y 26, superficies 26.445 m², 10.075 m² y 33.514 m², roles de avalúo 603-9 y 602-34, comuna de Tomé, para la obra Camino Acceso Norte a Concepción, Ramal Colector, sector Rafael - Agua Amarilla, y se acordó el valor de indemnización con sus propietarios Adolfo Mella Mella, y Mario Ballerini Espejo, ascendente a las cantidades de $4.645.969.- para el lote 19 y $15.859.020.- para los lotes 24 y 26.
+
+Fiscal del Ministerio de Obras Públicas.
