@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.373, de 16 de diciembre de 2003, de esta Subsecretaría, autorízase a SOUTHPACIFIC KORP S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Manuel Rodríguez Nº 302, Talcahuano, VIII Región, en la línea de elaboración Harina y Aceite, del recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 16 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
