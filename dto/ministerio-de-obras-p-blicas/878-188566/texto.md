@@ -1,0 +1,3 @@
+Por decreto MOP Nº 878, de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 8-A, superficie 29 m2., rol de avalúo 3198-129, comuna de Chillán, para la obra ''Camino Ruta N-545, Chillán - Tanilvoro, Sector Chillán - Universidad Adventista, Km. 0.000.00 al 8.000.00'' y se acordó el valor de indemnización con su propietario José Retamal Retamal y Otros, ascendente a la cantidad de $11.253.609.-
+
+Fiscal del Ministerio de Obras Públicas.
