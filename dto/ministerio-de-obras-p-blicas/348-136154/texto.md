@@ -1,0 +1,3 @@
+Por decreto MOP No. 348, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s. 65, 83 y 84, superficies 148, 1.480 y 1.703 m2., roles de avalúo 60-5 y 58-7, comuna de Chépica, obra camino Chépica - Bif. Teno, sector Cuesta El Peral - Chépica, y se acordó precio de indemnización con sus propietarios Luis Orlando Donoso Donoso y Gladys Elena Urzúa Urzúa, ascendente a las cantidades de $ 777.742.- lote 65 y $ 4.738.944.- lotes 83 y 84.-
+
+Fiscal del Ministerio de Obras Públicas.
