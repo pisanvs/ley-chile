@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.324, de 31 de julio de 2000, se expropió el lote de terreno Nº 216, superficie 90 m², rol de avalúo 6589-11, comuna de La Pintana, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Luis Alberto Contreras González, ascendente a la cantidad de $8.310.486.-
+
+Fiscal del Ministerio de Obras Públicas.
