@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº372, de 30 de marzo de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº245-1, para la obra: "Camino: Ruta 5 Norte. Tramo: Santiago-Los Vilos. Sector: Km. 57.200,00 al Km. 57.800,00"; Región Metropolitana, que figura a nombre de Soc.
+
+Electrometalúrgica Ltda., rol de avalúo 75-21, comuna de Tiltil, superficie 2.196 m². La comisión de peritos integrada por los señores Jorge Tuteleers Binyons, Joaquín Guillermo Enrique Eyzaguirre Edwards y Luis Herman González, fijó con fecha 13 de noviembre de 2000, el valor provisional de la indemnización en la cantidad de $2.244.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
