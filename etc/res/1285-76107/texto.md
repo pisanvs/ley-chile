@@ -1,0 +1,3 @@
+Por Resolución Nº 1.285, de 29 de septiembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la solicitud de concesión de acuicultura, solicitud Nº 95104003, presentada por ALBERTO PAREDES ALMONACID, R.U.T. Nº 4.500.948-3, con domicilio en calle Arturo Prat Nº 140, Calbuco, para el centro de cultivo ubicado en Banco San Agustín, Estero Rulo, Comuna de Calbuco, Provincia de Llanquihue, X Región, conforme lo dispuesto en el artículo 14 del Decreto Supremo Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de septiembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
