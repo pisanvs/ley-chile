@@ -1,0 +1,3 @@
+Por Resolución N° 1.528, de 26 de Octubre de 1995, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por INVERSIONES CENTINELA S.A., R.U.T. N° 96.601.250-1, para un sector ubicado en Bahía Tongoy, Comuna de Tongoy, Provincia de Elqui, IV Región, conforme lo dispuesto en el artículo 78, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 26 de Octubre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
