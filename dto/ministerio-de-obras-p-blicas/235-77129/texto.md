@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 235, de fecha 28 de Agosto de 1992, se expropíaron los lotes de terreno No. s. 13 y 25, superficies 1.786 m2. y 276 m2, respectivamente, roles de avalúos 179-1 176-4, Comuna de Coronel, para la obra Camino By Pass Coronel Lota Ruta 160, sector By Pass Coronel Lota y se acordó el valor de indemnización con sus propietarios Guillermina Oyarzúa González y Juan E. Carrasco Contreras, ascendente a las cantidades de $ 4.624.367 y $ 4.268.678.-
+
+Fiscal del Ministerio de Obras Públicas.
