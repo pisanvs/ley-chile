@@ -1,0 +1,11 @@
+SUSTITUYE INTEGRANTE QUE INDICA EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAICES DE LA SEGUNDA SERIE DE SANTIAGO
+
+Núm. 808.- Santiago, 28 de Agosto de 1992.- Vistos: Lo dispuesto en el artículo 121 del Código Tributario; el DS No. 1.061, del Ministerio de Hacienda, de 01 de diciembre de 1989, publicado en el Diario Oficial de 16 de enero de 1990; el oficio No. 150, de 16 de enero de 1992, del Presidente del Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie de Santiago; el Fax No. 588, de 13 de junio de 1992 y el oficio Ord. No. 4993, de 24 de julio de 1992, de la Dirección Regional Metropolitana Centro del Servicio de Impuestos Internos, y Considerando: Que doña María Elisa Valcarcel Carvallo ha presentado su renuncia al cargo de titular como representante del Presidente de la República, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, correspondiente al territorio jurisdiccional de la Corte de Apelaciones de Santiago, en el cual había sido nombrada por DS de Hacienda No. 1.061, de 01 de diciembre de 1989, publicado en el Diario Oficial de 16 de enero de 1992.
+
+Decreto:
+
+1°.- Pónese término al nombramiento de doña María Elisa Valcarcel Carvallo, como representante del Presidente de la República, en calidad de titular, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie correspondiente al territorio jurisdiccional de la Corte de Apelaciones de Santiago.
+
+2°.- Desígnase en su reemplazo, en calidad de titular, como representante del Presidente de la República, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Corte de Apelaciones de Santiago, al Constructor Civil don Hernán Iriarte González.
+
+Tómese razón, regístrese, comuníquese y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Alejandro Foxley Rioseco, Ministro de Hacienda. Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Jorge Rodríguez Grossi, Subsecretario de Hacienda.
