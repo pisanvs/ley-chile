@@ -1,0 +1,3 @@
+Por decreto MOP Nº298, de fecha 24 de marzo de 1998, se ordenó y aprobó el plano y cuadro de expropiación del lote de terreno Nº9, y Por decreto MOP Nº2.030, de fecha 29 de mayo de 2000, se autoriza el valor de la consignación provisional de la expropiación por la vía judicial, en la cantidad de $460.500, para la ejecución de la obra Camino Ruta L-25, Sector Lisonjera - Yerbas Buenas, Tramo Km. 11.419 a Km. 19.855; el pago de la indemnización se efectuará al contado. La publicación se realiza en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
