@@ -1,0 +1,3 @@
+Por decreto MOP Nº 868 de fecha 30 de septiembre de 2004, se expropiaron los lotes de terrenos Nº 3 y 4, superficies 1.044 m² y 488 m², rol de avalúo Nº 417-20, comuna de Loncoche, para la obra "Reposición Construcción y Habilitación de Camino para Vialidad Complementaria Concesión Internacional Ruta 5 Sur, Tramo Temuco Río Bueno Puerto Montt", IX Región y se acordó el valor de la indemnización con su propietario Jaime Muro Cuadra, ascendente a la cantidad de $6.515.456.
+
+- Fiscal del Ministerio de Obras Públicas.
