@@ -1,0 +1,1 @@
+Autoriza a la Universidad de Concepción para disponer hasta de treinta y cinco millones de pesos, para los fines que menciona.
