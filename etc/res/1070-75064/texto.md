@@ -1,0 +1,3 @@
+Por Resolución Nº 1.070, de 31 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución Nº 99 de 1997, de esta Subsecretaría, que autorizó a PESQUERA IQUIQUE GUANAYE S.A., para operar por sustitución la nave "Salmón", en el sentido de agregar en el inciso segundo del numeral 2, entre los recursos hidrobiológicos autorizados, al Bacaladillo o mote.
+
+Valparaíso, 31 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
