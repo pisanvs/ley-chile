@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 47 de 13 de Enero de 1995, autorízase a la empresa chilena sociedad Buses Ahumada Limitada para efectuar transporte internacional terrestre de pasajeros entre Viña del Mar-Valparaíso-Santiago (Chile) y Mendoza (Argentina) por paso fronterizo de Cristo Redentor (Sistema Cristo Redentor) efectuando Dos Frecuencias Diarias de ida y vuelta.-
+
+Claudio Hohmann Barrientos, Subsecretario de Transportes.
