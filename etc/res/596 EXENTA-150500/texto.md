@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 596 de 15.05.87, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento de Aguas proporcionales que corresponden a sector expropiado y sector reserva del predio "Fundo Pequenes", de la comuna de Peralillo, Sexta Región y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 4 y sitios N°s. 1 al 9 C del Proyecto de Parcelación "Los Pequenes", formado por predio señalado. Los derechos de aguas se extraen del Estero Lihueimo por el Canal Los Pequenes; por el Estero Perales y por el Estero Peumo.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
