@@ -9446,7 +9446,7 @@ En el título representativo del crédito otorgado con garantía del Fondo, se d
 
 #### Artículo 22
 
-En caso de mora del deudor, la institución acreedora podrá solicitar al Administrador del Fondo el reembolso del importe caucionado dentro de los 365 días siguientes a la fecha de vencimiento del respectivo crédito, para cuyo efecto deberá demostrar que ha iniciado las correspondientes acciones de cobro.
+En caso de mora del deudor, la institución acreedora podrá solicitar al Administrador del Fondo el reembolso del importe caucionado dentro de los 425 días siguientes a la fecha de vencimiento del respectivo crédito, para cuyo efecto deberá demostrar que ha iniciado las correspondientes acciones de cobro.
 
 Cuando le sea requerido el pago de la garantía, el Administrador del Fondo procederá a reembolsar los montos garantizados dentro de un plazo máximo de 15 días hábiles contados desde la fecha del requerimiento fundamentado de la institución participante. Si a juicio del Administrador no procediera el pago de la garantía, éste deberá rechazar el requerimiento del referido pago dentro del mismo plazo de 15 días antes señalado.
 
@@ -9454,7 +9454,7 @@ La negativa del Administrador a efectuar el pago de la garantía, habilitará a 
 
 #### Artículo 23
 
-Se permite al Fondo garantizar préstamos hasta por un máximo equivalente a ocho veces el valor de su patrimonio.
+Se permite al Fondo garantizar préstamos hasta por un máximo equivalente a diez veces el valor de su patrimonio.
 
 V.- COMISIONES Y GASTOS DE OPERACION.
 
