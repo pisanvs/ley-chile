@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 291 de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs 11, Canal Huencheco y Nº 2-A, Canal Huencheco Ramal Nº 3, Superficies 2.280 y 36, roles de avalúo 591-47 y 593-16, comuna de Yungay, para la obra Proyecto Laja Diguillín, Area de Riego Yungay, Canal Huencheco Ramal Nº 3 y se acordó precio de indemnización con su propietaria Mireya o Mirella de las Nieves Jara Acuña, ascendente a la cantidad de $591.769.
+
+Fiscal del Ministerio de Obras Públicas.
