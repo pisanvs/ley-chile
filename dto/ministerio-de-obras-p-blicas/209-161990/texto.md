@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 209, de 31 de Julio de 1985, se expropiaron los lotes Nos.. 1 y 2, cuyas superficies son 651 m² y 1.274 m²., rol de avalúo 421-2, Comuna de Cauquenes, para la obra Agua Potable Población Fernández, Cauquenes, y se acordó el precio de indemnización con su propietario Instituto Nacional de Investigaciones Agrícolas, ascendente a la cantidad de $ 396.299.
+
+- Fiscal del Ministerio de Obras Públicas. (2)
