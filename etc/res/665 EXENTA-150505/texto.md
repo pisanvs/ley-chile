@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 665 de 27.05.87, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido, Reserva y Sector Expropiado Predios "Hacienda y Viña Rosario de Codao", "Fundo La Posada" y "Una Propiedad Agrícola ubicada en Codao", de la Comuna de Peumo, VI Región; y Derechos Aprovechamiento Aguas que corresponden a Parelas N°s. 1 a la 57, sitios N°s. 1 al 40, del Proyecto de Parcelación "Rosario de Codao" formado por predios señalados. Los Derechos de Agua se extraen de los Canales Cocalán, Codagüino y Aguas Claras de la Asociación de Cahules Unidos de Codao, Las Cabras y Aguas Claras, derivados del río Cachapoal.- Publicación hecha conforme Art. 13 Ley No.
+
+18.377.
+
+Director Ejecutivo.
