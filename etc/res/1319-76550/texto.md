@@ -1,0 +1,3 @@
+Por Resolución Nº 1.319, de 14 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a EXPORTACIONES PRODUCTOS DEL MAR B Y D LIMITADA, para continuar desarrollando actividades pesqueras extractivas autorizadas a Exportaciones Productos del Mar B y D S.A.
+
+Valparaíso, 14 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
