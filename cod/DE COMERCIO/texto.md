@@ -994,7 +994,7 @@ Denomínase cargador, remitente o consignante el que por cuenta propia o ajena e
 
 Se llama consignatario la persona a quien se envían las mercaderías. Una misma persona puede ser a la vez cargador y consignatario.
 
-La cantidad que el cargador se obliga a pagar por la conducción se llama porte.
+La cantidad que el cargador o, en su caso, el consignatario, están obligados a pagar por la conducción, se llama porte.
 
 El que ejerce la industria de hacer transportar personas o mercaderías por sus dependientes asalariados y en vehículos propios o que se hallen a su servicio, se llama empresario de transportes, aunque algunas veces ejecute el transporte por sí mismo.
 
@@ -1046,19 +1046,21 @@ Convenidos los contratantes en el otorgamiento de la carta de porte, deberán ex
 
 La carta de porte debe expresar:
 
-1° El nombre, apellido y domicilio del cargador, porteador y consignatario;
+1°. El nombre, apellido y domicilio del cargador, porteador y consignatario;
 
-2° La calidad genérica de las mercaderías, su peso y las marcas y número de los bultos que las contengan;
+2°. La calidad genérica de las mercaderías, su peso y las marcas y número de los bultos que las contengan;
 
-3° El lugar de la entrega;
+3°. El lugar de la entrega;
 
-4° El precio de la conducción;
+4°. El precio de la conducción y la designación del obligado al pago;
 
-5° El plazo en que debe hacerse entrega de la carga;
+5°. El plazo en que debe hacerse entrega de la carga;
 
-6° El lugar, día, mes y año del otorgamiento;
+6°. El lugar, día, mes y año del otorgamiento;
 
-7° Cualesquiera otros pactos o condiciones que acordaren los contratantes.
+7°. El nombre, apellidos y firma de las personas que concurren a su otorgamiento, presumiéndose que éstas representan al cargador y al porteador, y
+
+8°. Cualesquiera otros pactos o condiciones que acordaren los contratantes.
 
 #### Artículo 176
 
@@ -1084,7 +1086,7 @@ En defecto de carta de porte, la entrega de la carga hecha por el cargador al po
 
 El cargador está obligado a entregar las mercaderías al porteador bien acondicionadas y en el tiempo y lugar convenidos, y a suministrarle los documentos necesarios para el libre tránsito o pasaje de la carga.
 
-Asimismo, entregará al porteador una guía de despacho de la mercadería, timbrada por la autoridad tributaria, en la que, a lo menos, se expresará la fecha de expedición del documento, el nombre, apellidos y domicilio del cargador, del porteador y del consignatario, el recinto de la entrega de la mercadería al consignatario y, el precio de la conducción y su modalidad de pago.
+> **Nota.** El N° 3 del Artículo Único de la Ley 19755, publicada el 27.09.2001, deroga el inciso segundo de la presente norma.
 
 #### Artículo 181
 
@@ -1258,9 +1260,11 @@ No obteniendo el pago, podrá solicitar el depósito y venta en martillo de las 
 
 Las acciones señaladas en los incisos anteriores se sustanciarán de acuerdo con el procedimiento sumario, sin que sea aplicable el artículo 681 del Código de Procedimiento Civil.
 
-Con todo, constituirá título ejecutivo en connta del consignatario el recibo de la mercadería que ordena el número primero del artículo 216, otorgado en la guía de despacho a que se refiere el artículo 180, cuando puesto en su conocimiento por notificación judicial, no alegue en ese mismo acto, o dentro de tercero día, que el documento ha sido falsificado materialmente, o cuando opuesta la tacha, ésta fuere rechazada por resolución judicial. Esta impugnación se tramitará como incidente y en contra de la resolución que la deniegue no procederá recurso alguno.
+Con todo, constituirá título ejecutivo en contra de los obligados al pago la carta de porte en la que conste el recibo de la mercadería que ordena el número 1 del artículo 216, cuando, puesta en su conocimiento por notificación judicial, no se alegue en ese mismo acto, o dentro de tercero día, que el documento ha sido falsificado materialmente, o cuando, opuesta la tacha, ésta fuere rechazada por resolución judicial. Esta impugnación se tramitará como incidente y en contra de la resolución que la deniegue no procederá recurso alguno.
 
 El que maliciosamente impugnare de falsedad el documento y tal impugnación fuere rechazada en el incidente respectivo, incurrirá en la pena de presidio menor en su grado mínimo.
+
+La carta de porte en que conste el recibo de la mercadería por el consignatario será transferible por endoso, constituyéndose el endosante en codeudor solidario del pago del valor que se establezca en ella. El endoso deberá contener el nombre, apellidos y domicilio del endosante y endosatario y la firma del endosante, y se perfeccionará por la entrega de la carta de porte.
 
 #### Artículo 212
 
@@ -1304,15 +1308,9 @@ Las que nazcan de fraude, infidelidad o delito, sólo se extinguen por el vencim
 
 El consignatario, además de las obligaciones que son correlativas a los derechos del porteador, tiene las siguientes:
 
-N° 1.- La de otorgar al porteador recibo de las mercaderías que éste le entregare, con indicación del recinto y fecha de la entrega, y del nombre y apellidos del consignatario o de quien reciba en su nombre, aunque esas menciones sean distintas a las expresadas en la guía de despacho.
+1º. La de otorgar al porteador, en la carta de porte, recibo de las mercaderías que éste le entregare, con indicación del recinto y fecha de la entrega y del nombre y apellidos del consignatario o de quien reciba en su nombre, aunque esas menciones sean distintas de las expresadas en dicho documento. Se presume que representa al consignatario la persona adulta que recibe a su nombre la mercadería, en el recinto indicado para ello en la carta de porte.
 
-Se presume que representa al consignatario la persona adulta que recibe a su nombre la mercadería en el recinto indicado para ello en la guía de despacho.
-
-El recibo de la mercadería, otorgado en la guía de despacho, será transferible por endoso, constituyéndose el endosante en codeudor solidario del pago del valor que se establece en el documento.
-
-2° La de pagar el porte y gastos inmediatamente después de vencido el término que señala el artículo 211.
-
-> **Nota.** El artículo transitorio de la ley 18528, dispuso: En tanto no se dicte el reglamento que permita el uso de la guía de despacho para los efectos de esta ley, bastará para ser usado en el recibo que ordena el N° 1° del artículo 216 del Código de Comercio, una fotocopia auténtica del original del documento a que se refiere el artículo 70 del decreto supremo N° 55, del Ministerio de Hacienda, de 1977.
+2º. La de pagar, en su caso, el porte y gastos inmediatamente después de vencido el término que señala el artículo 211.
 
 #### Artículo 217
 
