@@ -5042,15 +5042,13 @@ El encaje exigido se calculará por "períodos mensuales", según lo señalado e
 
 4.2.- Encaje mantenido.
 
-El encaje por las obligaciones antes mencionadas deberá estar constituido por dólares de los Estados Unidos de América, depositados en el Banco Central de Chile para tal efecto en la "Cuenta especial encaje Acuerdo N° 143-01-910705".
-
-Tales depósitos se registrarán contablemente en la cuenta que con el mismo nombre se incluirá en la partida 1010.
+El encaje, para cada una de las monedas extranjeras en que estén expresadas las obligaciones con el exterior, deberá estar compuesto sólo por los fondos señalados en el numeral 4.2 del título III de este Capítulo.
 
 V.- ENCAJE DE CREDITOS INGRESADOS AL AMPARO DEL CAPITULO XIV DEL TITULO I DEL COMPENDIO DE NORMAS DE CAMBIOS INTERNACIONALES.
 
 1.- Encaje de los créditos externos.
 
-De conformidad con lo dispuesto en el N° 6 de la letra A) del Capítulo III del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, por los créditos ingresados al país al amparo del Capítulo XIV del mismo Título se debe constituir un depósito en el Instituto Emisor por concepto de encaje, en dólares de los Estados Unidos de América, equivalente al 30% del respectivo crédito, salvo los casos expresamente exceptuados por las normas del Banco Central de Chile. Estos depósitos no devengan intereses y deben mantenerse durante un año, cualquiera sea el plazo al que se haya pactado el crédito.
+De conformidad con lo dispuesto en el N° 6 de la letra A) del Capítulo III del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, por los créditos ingresados al país al amparo del Capítulo XIV del mismo Título se debe constituir un depósito en el Instituto Emisor por concepto de encaje, en dólares de los Estados Unidos de América, equivalente al 10% del respectivo crédito, salvo los casos expresamente exceptuados por las normas del Banco Central de Chile. Estos depósitos no devengan intereses y deben mantenerse durante un año, cualquiera sea el plazo al que se haya pactado el crédito.
 
 No obstante, en sustitución del encaje antes señalado, las instituciones financieras pueden optar por adquirir y retrovender los pagarés emitidos por el Banco Central de Chile de que trata el Anexo N° 5 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
 
