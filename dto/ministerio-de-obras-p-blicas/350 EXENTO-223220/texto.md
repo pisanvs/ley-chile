@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 350 de fecha 27 de febrero del 2004, se expropió el lote de terreno Nº 511, superficie 98 m2, Rol Nº 39-233, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 0,00000 a Km. 12,7000" y se acordó el valor de indemnización con su propietario José Miguel Carroza Gaete, ascendente a la cantidad de $1.540.392.-
+
+Fiscal del Ministerio de Obras Públicas.
