@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.044 de 29 de julio de 2004, se expropiaron los lotes de terrenos Nº s. 30 y 31, superficies 103 y 115 m² respectivamente, Rol Nº 394-2, comuna de Loncoche, IX Región para la obra "Reposición Construcción y Habilitación de Caminos para Vialidad Complementaria Concesión Internacional Ruta 5 Sur, Tramo Temuco - Río Bueno Puerto Montt, Camino Las Violetas" y se acordó el valor de indemnización con su propietario Juan Carlos Chacón Schuster, ascendente a la cantidad de $750.186.
+
+- Fiscal del Ministerio de Obras Públicas.
