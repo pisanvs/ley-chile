@@ -1,0 +1,3 @@
+Por resolución N° 1.018, de 26 de Octubre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1° de la Resolución N° 726, de 1992, de esta Subsecretaría y su respectivo extracto, en el sentido que donde dice "Sociedad Fisher Llop..." debe decir "Sociedad Fischer Llop...".
+
+Valparaíso, 26 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
