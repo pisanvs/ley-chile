@@ -1,0 +1,5 @@
+Por Resolución N° 206, de 5 de Febrero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMERCIAL FINESUR LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en calle Profesor Zepeda Lote 8, Coquimbo, IV Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos: Deshidratado y Salado: Chicorea de mar, Pelillo. Seco-salado: Cochayuyo, Cotoni, Chasca, Chascón, Chicorea de mar, Huiro, Luga-Luga, Luche, Pelillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 5 de Febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
