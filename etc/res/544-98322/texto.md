@@ -1,0 +1,3 @@
+Por resolución Nº 544, de 8 de abril de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, modifícase la resolución Nº 245, de 1998, de esta Subsecretaría, que autorizó a PESQUERA IQUIQUE GUANAYE S.A., para ampliar actividades pesqueras de transformación, en su planta ubicada en Manuel Rodríguez Nº 302, Talcahuano, VIII Región, en el sentido de incorporar los recuros Anchoveta y Machuelo o tritre, a los ya autorizados.
+
+Valparaíso, 8 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
