@@ -1,0 +1,5 @@
+AUTORIZA EMISORES ELECTRONICOS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 38 de 1 de abril de 2005, que autoriza a contribuyentes como emisores electrónicos. Se autoriza como emisores de documentos tributarios electrónicos a los contribuyentes, RUT 82.524.300-3, RUT 91.537.000-4, RUT 96.643.560-7, RUT 86.806.000-K, RUT 78.772.370-5, RUT 99.500.410-0, RUT 94.730.000-8, RUT 61.104.000-8, RUT 77.239.380-6, RUT 96.872.010-4 y RUT 96.551.730-8, a contar del mes de abril de 2005. En el sitio web del SII se podrán consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+El texto íntegro de esta resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el boletín del SII del mes de abril de 2005.
