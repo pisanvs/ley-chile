@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 553, de 30 de junio de 1997, se expropió el lote de terreno N° 1, superficie 2.082 M2., rol de avalúo 79-1, comuna de Futrono, para la obra Programa Integral de Conservación y Mejoramiento Vial Ruta T-55 Santa Laura - Futrono y se acordó precio de indemnización con su propietario Sociedad Agrícola Santa Isabel S.A. ascendente a la cantidad de $552.744.
+
+Fiscal del Ministerio de Obras Públicas
