@@ -1,0 +1,3 @@
+Por decreto MOP Nº 570 de fecha 30 de abril del 2001, se expropió el lote de terreno Nº 39, superficie 2.657,29 m2., rol de avalúo 248-94, comuna de Salamanca, para la obra "Estudio de Factibilidad y Diseño del Embalse Corrales y sus Obras Complementarias Canal Alimentador" y se acordó el valor de indemnización con su propietario Fernando del Carmen Ramírez Cortés y Otros, ascendente a la cantidad de $2.656.382.-
+
+Fiscal del Ministerio de Obras Públicas.
