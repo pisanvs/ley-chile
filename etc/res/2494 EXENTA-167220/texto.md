@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 2.494, de 27 de Noviembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido, Reserva y Sector Expropiado Predio "Hijuela Uno A, Dos A, Tres A, Cuatro A, Cinco A del Plano de División de los predios California y Las Rosas", "Resto del Fundo Los Perales o Sección Poniente", de la comuna de Requínoa, VI Región; y Derechos Aprovechamiento kguas que corresponden a parcelas N°s. 1 a la 63, sitios N°s. 1 al 46 y Reserva Cora No. 1 del Proyecto de Parcelación "Las Rosas" formado por predios señalados, y por predio "Las Rosas de California". Los derechos de agua se extraen de los Canales Perales, Comunidad, El Abra, todos derivados del Río Cachapoal. Publicación hecha conforme Art. 13 Ley No.
+
+18.377.
+
+Director Ejecutivo.
