@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.742, de fecha 31 de diciembre de 2002, se expropiaron los lotes de terreno Nºs. 39 y 39-A, superficie 31 y 40 m2, respectivamente, Rol Nº 146-39, comuna de San Vicente, VI Región, para la obra ''Mejoramiento Camino Ruta H-724, Sector la Gruta - Pueblo de Indios, Km. 0,000 a Km. 1,187, y Sector Ruta H-730, Km. 1,600 al Km. 3,292'', y se acordó el valor de indemnización con su propietario Eleodoro del Carmen Calderón Fuentes ascendente a la cantidad de $943.037.
+
+Fiscal del Ministerio de Obras Públicas.
