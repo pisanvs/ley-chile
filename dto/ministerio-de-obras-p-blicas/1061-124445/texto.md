@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.061, de 30 de julio de 1998, se expropió el lote de terreno No. 76, superficie 399 m2., respectivamente, rol de avalúo 171-7, comuna de Puchuncaví, para la obra Ampliación Camino, sector Nogales-Puchuncaví Ruta F-20, Km. 0.730,36 al 26.866,82 y se acordó precio de la indemnización con su propietario Roberto Alfredo Ehrenfeld Kunstmann, ascendente a la cantidad de $ 675.317.
+
+- Fiscal del Ministerio de Obras Públicas.
