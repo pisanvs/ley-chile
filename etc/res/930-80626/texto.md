@@ -1,0 +1,3 @@
+Por Resolución No. 930 de 29 de Noviembre de 1991 de SERVIU Metropolitano, ordenóse expropiación, conforme DL No. 2.186 de 1978, -parte inmueble- ubicado en Avenida Las Rejas esquina Nor - Poniente con Avenida Libertador Bernardo O'Higgins, presunto rol de avalúos No. 300-007 comuna Lo Prado, aparente dominio de don Hernán Aguirre Mac-Kay. Comisión integrada por peritos Sres. Sergio Rojas Ibáñez, ingeniero civil, Fernando Merino de la Cerda y Roberto Correa Bezanilla, arquitectos, según informe de 12 de Agosto de 1991, fijó monto provisional indemnización en $ 8.950.000.- pagadera al contado.
+
+Directora SERVIU Metropolitano.
