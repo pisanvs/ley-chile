@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.223 de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº43-A, superficie 263,00, rol en trámite, comuna de Teno, para la obra "Camino Ruta J-25, Sector: Cruce Longitudinal-La Montaña, Km. 0,22000 a Km. 25,00000" y se acordó el valor de indemnización con su propietario Sigela del Carmen Medina Cavieres, ascendente a la cantidad de $367.903.-
+
+Fiscal del Ministerio de Obras Públicas.
