@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº292 de fecha 31 de marzo de 2003, se expropiaron los lotes de terreno Nºs 3, 5 y 6, superficies 720,50; 659,25 y 770,25 m², rol de avalúo Nº1154-254, comuna de Puerto Varas, para la obra "Construcción Puentes Reyes Nº1 y Nº2", provincia de Llanquihue, X Región y se acordó el valor de la indemnización con su propietaria Rafaela del Carmen Ojeda Barrientos, ascendente a la cantidad de $1.278.850.-
+
+Fiscal del Ministerio de Obras Públicas.
