@@ -1,0 +1,3 @@
+Por decreto MOP No. 759, de 29 de mayo de 1998, se expropiaron los lotes de terreno No. s. 38, y 54, superficies 327,98 m2. y 534,38 m2., roles de avalúo 3210-14, comuna La Florida y 3400-53, comuna Puente Alto, obra Mejoramiento Eje La Florida, sector Los Ararios Las Vizcachas, sector II y se acordó precio de indemnización con sus propietarios Luis Márquez Amado y otros y Sebastián Pío Gilbert Ceballos, ascendente a las cantidades de $ 84.138.176, para el lote No. 38 y $ 29.759.342, lote 54.
+
+Fiscal del Ministerio de Obras Públicas.
