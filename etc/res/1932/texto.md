@@ -1,0 +1,3 @@
+Por Resolución N° 1.932 de 11 de noviembre de 1996 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 92000173, presentada por ALBRETO PEREZ ROJAS, para un centro de cultivo ubicado entre Punta Piñihué y Punta Pillul, Estero Castro, comuna de Castro, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67, inciso 5°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
