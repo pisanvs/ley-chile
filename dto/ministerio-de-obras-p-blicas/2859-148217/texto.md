@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.859, de 29 de septiembre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº7, para la ejecución de la obra Camino Ruta M-24-K con Ruta M-50, Sector Accesos Puente Maule en Constitución, Tramo Km.
+
+47.920 - Km. 53.820; que figura a nombre de Ramón del Carmen López Rojas, Rol de Avalúo 3-5, comuna de Constitución, VII Región, superficie 1.761,8 m2. La Comisión de Peritos compuesta por los señores Luis Hugo Villarroel Urbina; Juan Sangueza Hinostroza y Luis Villanueva Rodríguez, fijó con fecha 17 de julio de 1998, el valor provisional de la indemnización en la cantidad de $30.963.600, lote 7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
