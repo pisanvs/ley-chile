@@ -1,0 +1,3 @@
+Por Resolución Nº 973, de 4 de julio de 1997 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase el Certificado de Transferencia de la nave "Nicolás I" solicitado por PESQUERA ORION S.A., por no reunirse los requisitos exigidos en el artículo 23 del D.S. Nº 430, de 1991, en virtud de haberse declarado la caducidad de las autorizaciones de pesca de la señalada embarcación mediante Resolución Nº 972 de 1997, de esta Subsecretaría de Pesca.
+
+Valparaíso, 4 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
