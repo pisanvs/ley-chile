@@ -1,0 +1,3 @@
+Por Resolución N° 27, de 27 de febrero de 1996, Serviu II Región, dispuso, conforme D.L. 2.186 de 1978, expropiación parcial del inmueble ubicado en Avda. Argentina N° 2674-2680, rol de avalúo N° 880-31, comuna de Antofagasta, superficie 389,91 M2., de aparente dominio de la Ilustre Municipalidad de Antofagasta, según inscripción fs. 73, N° 121, año 1919, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión Tasadora integrada por peritos Srs. Iván Vladilo Vargas, Ingeniero Civil, Alejandro Bargsted Balcells y Eleonora Román Latorre, Arquitectos, según informe de 1° de febrero de 1996, fijó monto provisional indemnización en $40.144.459.-, pagadera al contado.-
+
+Director Serviu II Región.
