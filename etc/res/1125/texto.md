@@ -1,0 +1,5 @@
+Por Resolución N° 1.125, de 30 de Noviembre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 409, de 1994, que modificó la Resolución N° 684, de 1985, ambas de esta Subsecretaría, que autorizó a LEFERSA ALIMENTOS S.A., R.U.T. N° 91.277.000-1, para operar un centro de cultivo ubicado en Fiordo Pichicolo, Río Negro, Comuna de Hualaihué, Provincia de Palena, X Región, en el sentido de reemplazar en su numeral 1° la expresión "R.U.T. N° 91.277.222-1" por "R.U.T. N° 91.277.000-1" y la frase "... que comprende una superficie de 7,48 hectáreas" por "... que comprende una superficie de 24,5 hectáreas".
+
+Déjase sin efecto la Resolución N° 779, de 1994, de esta Subsecretaría, en virtud de lo dispuesto en la presente Resolución.
+
+Valparaíso, 30 de Noviembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
