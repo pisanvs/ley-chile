@@ -1,0 +1,3 @@
+Por resolución exenta No. 791 de fecha 26 de Junio de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la V Región, se autoriza a Patricio y Claudia Villanueva Morales, para efectuar servicio de taxi colectivo no urbano dentro del territorio nacional.
+
+Valparaíso, 26 de Junio de 1985.- Héctor Soto Miranda, Secretario Regional Ministerial de Transportes y Telecomunicaciones subrogante V Región.
