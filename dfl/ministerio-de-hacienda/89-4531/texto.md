@@ -1,0 +1,1 @@
+Declara en reorganización la Sindicatura General de Quiebras y fija las plantas y remuneraciones de sus funcionarios.
