@@ -1,0 +1,3 @@
+Por decreto MOP Nº 608, de 20 de julio de 2004, se dejó sin efecto el decreto MOP Nº 1.368, de 21 de noviembre de 2003, en la parte que se refiere a los lotes 1 y 3, ya que no son necesarios para la construcción de la obra "Camino Ruta 5 - Vialidad Complementaria, sector Conexión Ruta Q-896 - Res. Indígena Alhuelemu, Tramo Km. 0,00000 a Km. 4,76080". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
