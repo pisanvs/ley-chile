@@ -1,0 +1,3 @@
+Por decreto MOP N°2.247, de 30 de octubre de 1998, se expropió el lote de terreno N°3, superficie 174.730 m2, rol de avalúo 671-41, comuna de Timaukel, para la obra Camino Estancia Vicuña-Yendegaia, sector Km. 0.0 al Km. 5.0 1ª Etapa Tierra del Fuego. XII Región y se acordó precio de indemnización con su propietario Gustavo Adolfo Leiva Balich y otros, ascendente a la cantidad de $5.446.661.
+
+Fiscal del Ministerio de Obras Públicas.
