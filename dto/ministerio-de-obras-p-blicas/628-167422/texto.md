@@ -1,0 +1,3 @@
+Por decreto MOP Nº 628, de 29 de febrero de 2000, se expropiaron los lotes de terreno Nºs. 18 y 20, roles de avalúo 2430-56 y 2429-51, comuna de Valdivia, X Región, para la obra Mejoramiento Ruta 5 Sur, Camino Longitudinal Sur, Sector Avenida Ramón Picarte y se acordó precio de indemnización con sus propietarios Celica Bahamonde Pérez y Leonardo Ilí Mella, ascendente a las cantidades que se indican en dicho decreto.
+
+Fiscal del Ministerio de Obras Públicas.
