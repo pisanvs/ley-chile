@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.712, de 31 de octubre del 2001, se expropió el lote de terreno Nº 126-B, superficie 288 m2., rol de avalúo 1000-163, comuna de Puerto Varas, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno-Puerto Montt. Sector C.S. Puerto Varas Poniente Kms. 1.004,900 al 1.007,340, Décima Región y se acordó el valor de indemnización con su propietario Ma-nuel Nelson Inostroza Vera, ascendente a la cantidad de $981.228.-
+
+Fiscal del Ministerio de Obras Públicas.
