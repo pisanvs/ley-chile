@@ -25194,9 +25194,9 @@ Sin perjuicio de lo indicado en el segundo párrafo de este número, las empresa
 
 Las personas que realicen exportaciones ocasionales, cuyo valor líquido de retorno, por cada embarque, no supere los US$ 2.000 ó su equivalente en otras monedas extranjeras, no están obligadas a retornar el importe de dichas exportaciones.
 
-2. Facultad de los exportadores de deducir hasta un 10% de los retornos que liquiden.
+2. Facultad de los exportadores de deducir un porcentaje de los retornos que liquiden.
 
-Las disposiciones del Capítulo VIII del Título II del Compendio ya mencionado, facultan a los exportadores para deducir hasta el 10% del monto de los retornos que liquiden, correspondientes a las exportaciones que realicen. Estas deducciones deben hacerse con sujeción a las condiciones y montos máximos que se indican en este capítulo.
+Las disposiciones del Capítulo VIII del Título II del Compendio ya mencionado, facultan a los exportadores para deducir hasta un porcentaje del monto de los retornos que liquiden, correspondientes a las exportaciones que realicen. Estas deducciones deben hacerse con sujeción a las condiciones y montos máximos que se indican en este capítulo.
 
 Las referidas deducciones sólo podrán efectuarse simultáneamente con la liquidación de los respectivos retornos de exportación.
 
