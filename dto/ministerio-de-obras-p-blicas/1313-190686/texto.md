@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.313, de 31 de agosto de 2001, se expropió el lote de terreno Nº46, superficie 227 m2, de avalúo 594-38, comuna de Estación Central, para la obra Sistema Norte-Sur. Tramo G: Nudo Alameda, Región Metropolitana, y se acordó el valor de indemnización con sus propietarios Juan Manuel Armijo Soto y Otra, ascendente a la cantidad de $141.477.284.-
+
+Fiscal del Ministerio de Obras Públicas.
