@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.095, de 30 de octubre de 1998, se expropió el lote de terreno Nº 4-G, superficie 405,2 m²., rol de avalúo 186-23, comuna de Colina, para la obra Camino Santiago - Colina - Los Andes, Sector Enlace Chacabuco y se acordó el valor de indemnización con sus propietarios Moisés Segundo Henríquez Araya y Otros, ascendente a la cantidad de $ 12.002.042.-
+
+Fiscal del Ministerio de Obras Públicas.
