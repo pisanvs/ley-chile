@@ -1,0 +1,5 @@
+Por Resolución N°. 75 de 28 de Enero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PRODUCTORA Y COMERCIALIZADORA DARWIN LTDA., R.U.T. N°. 79.670.130-7, domiciliada en calle Hernando de Aguirre N°. 391, Santiago, para ampliar actividades pesqueras, que tiene autorizada por Resolución N°. 530, de 1989, de esta Subsecretaría, en orden a incluir en la línea de procesamiento de la planta industrial, ubicada en la Ex Estación Cuarentenaria SAG, Puerto Chacabuco, Aysén, XI Región, autorizada por la Resolución N°. 530, de 1989, de esta Subsecretaría, la elaboración de los siguientes recursos hidrobiológicos: Puye, Róbalo y Caracol piquilhue.
+
+La presente autorización es sin perjucio de las corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 28 de Enero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
