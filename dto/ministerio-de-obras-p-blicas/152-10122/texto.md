@@ -1,0 +1,3 @@
+Por Decreto MOP N° 152, de 29 de Abril de 1994, se expropiaron los lotes de terreno N°s. 1 y 11, superficies 518 m2. y 2.200 m2., roles de avalúo 2008-274 y 2009-113, comuna de Melipilla, para la obra Camino Chocalán-Cholqui, sector N° 1, y se acordó el valor de indemnización con sus propietarios Luis Alberto Negrete y Pedro Araya Muñoz, ascendente a las sumas de $341.974.- y $1.080.871.-
+
+Fiscal del Ministerio de Obras Públicas.
