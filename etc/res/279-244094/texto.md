@@ -1,0 +1,5 @@
+APRUEBA NORMA QUE FIJA CARACTERISTICAS TECNICAS DE TELEVISIÓN POR CABLE
+
+Por resolución Nº 279, de 16 de Octubre de 1984, la Subsecretaría de Telecomunicaciones aprobó la norma que fija las características técnicas de los sistemas de televisión por cable. Junto con definir los términos técnicos empleados en la norma, se especifican las características técnicas básicas de las señales de video y de sincronismo que se suministrarán a través de los sistemas de televisión por cable. De igual forma, se especifican los requisitos técnicos mínimos de las instalaciones y los procedimientos de comprobación. La Subsecretaría de Telecomunicaciones proporcionará ejemplares de la citada resolución a los organismos fiscales, semifiscales y particulares que tengan relación con las materias que trata la citada norma.-
+
+Italo Seccatore Gómez, Teniente Coronel, Subsecretario de Telecomunicaciones.
