@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 142, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 8, superficie 4.537 m2, rol de avalúo Nº 204-17, comuna de Los Alamos, para la obra "Camino Ruta P-46, Sector Los Alamos-Sara de Lebu, Km. 0,00000 a Km. 16,84000", VIII Región, y se acordó el valor de indemnización con su propietaria Ruth Avelina Vegas Bustos, ascendente a la cantidad de $1.397.610.
+
+- Fiscal del Ministerio de Obras Públicas.
