@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 334, de 31 de marzo de 1997, se expropiaron los lotes de terreno N°s. 56, 101, 102, y 103, superficie 8.277, 3.309, 787 y 356 m2 respectivamente, roles de avalúo 4234-1 y 162-6 comunas de Cartagena y Casablanca, para la obra Camino Malvilla - Orrego Abajo y se acordó precio de indemnización con sus propietarios Louisette Vuillemin Renaud y Victoria Vera Suárez y otras, ascendente a las cantidades de $3.848.486, $2.730.177.-
+
+Fiscal del Ministerio de Obras Públicas
