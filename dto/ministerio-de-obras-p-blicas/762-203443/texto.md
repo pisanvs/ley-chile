@@ -1,0 +1,17 @@
+EXTRACTO
+
+1.- Por decreto supremo Nº 762 del 29/04/2002, del Ministerio de Obras Públicas, tramitado el 6/09/2002, se otorgó a Cooperativa de Agua Potable Santo Domingo Ltda.
+
+''Coopagua Ltda.'', domiciliada Griselda 21 Santo Domingo, RUT 70.011.730-8, Ampliación de las Concesiones de Producción y Distribución de Agua Potable y Recolección y Disposición de Aguas Servidas para incorporar terrenos correspondientes al sector sur este del área urbana de la comuna de Santo Domingo - Balneario de Carabineros, Club de Golf, Villa La Hornilla, población Serviu, Villa Santo Domingo y Desarrollos Futuros.- Provincia de San Antonio Quinta Región.- 2.- La zona de concesión o territorio operacional de los servicios de distribución de agua potable y de recolección de aguas servidas, cuya ampliación se solicitó, abarca superficie de 42 hás., que se encuentran identificados y delimitados en planos ''Territorio Operacional Ampliación de Zona de Concesión Hornilla y otros. Distribución de Agua Potable'' y ''Territorio Operacional Ampliación Zona de Concesión Hornilla y otros. Recolección de Aguas Servidas'', que forman parte integrante del presente decreto. En el primer establecimiento, se consulta dar servicio a 417 arranques de agua potable e igual número de uniones domiciliarias de alcantarillado. En tanto, al final del período, se consulta dar servicio a 685 arranques e igual número de uniones domiciliarias de alcantarillado.- 3.- El servicio público de producción de agua potable, primeros 5 años, será abastecido por la fuente que se describe en el numeral 3.1 a) de la Ficha de Antecedentes Técnicos ''F.A.T.'', que es la misma que se considera en F.A.T. de Santo Domingo, cuyas concesiones fueron formalizadas y ampliadas por DS. MOP 496/96, sobre las cuales la concesionaria tiene los derechos que se individualizan en el informe de títulos respectivo, bienes que serán afectados a la concesión.-
+
+4.- Las demás condiciones de prestación de los servicios otorgados en la ampliación, son las establecidas en ''F.A.T.'' números SC0507B.-
+
+- **5.-** El concesionario queda sujeto a las leyes y reglamentos que regulan el establecimiento, construcción y explotación de servicios públicos sanitarios y a las normas técnicas, instrucciones, órdenes y resoluciones que dicte la Superintendencia de Servicios Sanitarios.-
+
+- **6.-** Forma parte integrante del presente decreto el cronograma de inversiones correspondiente a los servicios sanitarios otorgados en ampliación que la empresa Copagua Ltda., estará obligada a cumplir para materializar el respectivo programa de desarrollo.-
+
+- **7.-** De conformidad establecido Art. 40 DS MOP 121/91, una vez terminadas las obras necesarias para la entrada en explotación del servicio, la concesionaria comunicará el término de las obras e informará a la Superintendencia de Servicios Sanitarios la fecha de entrada en explotación del servicio.-
+
+- **8.-** Programa de desarrollo, nivel tarifario vigente, garantías y otros puntos decreto que se extracta reducido escritura pública 20/09/2002, Notario Público San Antonio María Soledad Salinas Hernández Suplente Titular Ximena Ricci Díaz. San Antonio, Septiembre 20 de 2002.-
+
+Juan Eduardo Saldivia Medina, Superintendente de Servicios Sanitarios.
