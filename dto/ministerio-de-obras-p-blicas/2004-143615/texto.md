@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.004, de 30 de julio de 1999, se expropió el lote de terreno No. 8, superficie 210 m2., rol de avalúo 327-1, comuna de Concepción, para la obra Reposición Puente Bío Bío Antiguo Ruta 160 Concepción-San Pedro, Sector Enlace 5 y se acordó precio de indemnización con su propietaria Municipalidad de Concepción, ascendente a la cantidad de $ 8.063.480.-
+
+Fiscal del Ministerio de Obras Públicas.
