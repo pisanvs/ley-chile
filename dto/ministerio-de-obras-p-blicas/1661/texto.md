@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.661, de 24 de junio de 1999, se expropió el lote de terreno No. 3, superficie 1.287 m2., rol de avalúo 1322-35, comuna de San Carlos, para la obra "Ruta 5 Tramo Talca - Chillán, sector Ciclovía San Carlos", Octava Región y se acordó el valor de indemnización con su propietario Juan Francisco Contreras Bahamondes, ascendente a la cantidad de $ 6.948.576.-
+
+Fiscal del Ministerio de Obras Públicas.
