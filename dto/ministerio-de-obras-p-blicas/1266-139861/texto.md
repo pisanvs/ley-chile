@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.266, del 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs.79, 80, 81 y 85, superficies 172,16 m2., 68,13 m2., 860,68 m2. y 2.059,23 m2. respectivamente rol de avalúo 137-64, comuna de Curaco de Vélez, para la obra Camino Ruta W-59, sector Dalcahue - Achao, y se acordó precio de indemnización con su propietario Santiago Ibarrola Ruiz, ascendente a la cantidad de $643.244.-
+
+Fiscal del Ministerio de Obras Públicas.
