@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.084, de 25 de julio de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº146-C, para la obra Camino Ruta F-10-G, sector Cuesta La Dormida, Etapa 2, Km. 10,98400 a Km. 34,50000, que figura a nombre de Berta Canales Miranda, rol de avalúo en trámite, superficie 53,00 m2., comuna de Olmué. La Comisión de Peritos, con fecha 23 de agosto de 2001, fijó la indemnización provisional en la cantidad de $161.650, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
