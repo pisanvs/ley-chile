@@ -1,0 +1,3 @@
+Por resolución Nº 345 de 22 de febrero de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96101216 presentada por RAUL OSVALDO PARANCAN SOTO, para instalar y operar un centro de cultivo ubicado en lote C, parcela Nº 20, ribera norte del río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 22 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
