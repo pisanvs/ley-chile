@@ -1,0 +1,3 @@
+Por decreto MOP Nº 489 de 22 de junio de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 4, para la obra: Mejoramiento Ruta 60-CH, sector Villa Dulce - Torquemada, Tramo Km. 0,00000 a Km. 10,47641, que figura a nombre de Figueroa Soto María y Ots, rol de avalúo 2330-18, Comuna de Viña del Mar, V Región, superficie 50 m². La Comisión de Peritos, fijó con fecha 17 de noviembre de 2003, en la cantidad de $11.864.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
