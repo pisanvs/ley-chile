@@ -1,0 +1,3 @@
+Por Resolución N° 624 de 24 de Mayo de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por AQUASUR FISHERIES SOCIEDAD PESQUERA LTDA., R.U.T. N° 79.728.530-7, para un sector ubicado en Isla Magdalena (Seno Magdalena), Comuna de Aysén, Provincia de Aysén, XI Región, por no dar cumplimiento el respectivo proyecto técnico al artículo 87° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 24 de Mayo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
