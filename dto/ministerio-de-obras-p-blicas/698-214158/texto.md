@@ -1,0 +1,3 @@
+Por decreto MOP Nº 698 de fecha 30 de junio del 2003, se expropió el lote de terreno Nº 20-A, superficie 552,0 m², rol Nº 559-7, comuna de Linares, VII región para la obra "Camino Ruta L-45, Sector: Linares - Llepo, Tramo: Km. 2,750.2 a Km. 13,147" y se acordó el valor de indemnización con su propietario Elba o Elva Castro Bahamóndez, ascendente a la cantidad de $18.949.068.
+
+Fiscal del Ministerio de Obras Públicas.
