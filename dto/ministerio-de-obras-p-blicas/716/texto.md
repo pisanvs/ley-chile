@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 716, de 29 de mayo de 1998, se expropiaron los lotes de terreno Nº s 1 y 2, superficies 5.170 y 95 M2., respectivamente, roles de avalúos 512-165 y 512-160, comuna de Longaví, para la obra Ruta 5, Tramo Talca-Chillán, Intersección Desnivelada, Acceso a Miraflores y se acordó precio de indemnización con sus propietarios doña Mirella del Carmen González González y don Ricardo Antonio Bravo Méndez, ascendente a las cantidades de $ 27.076.221, para el lote Nº 1 y $ 400.925, para el lote Nº 2.-
+
+Fiscal del Ministerio de Obras Públicas.
