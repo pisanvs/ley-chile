@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº402 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº105, superficie 89 m2, Rol de Avalúo Nº606-30, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz-Yaquil, Rol I-730, Km. 0,00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietaria María Yanet Toledo Pérez, ascendente a la cantidad de $497.644.-
+
+Fiscal del Ministerio de Obras Públicas.
