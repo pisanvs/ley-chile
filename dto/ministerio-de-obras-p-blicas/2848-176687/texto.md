@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.848, de 30 de junio de 2000, se expropió el lote de terreno Nº 33, superficie 174 m², rol de avalúo 212-510, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector J, Sexta Región y se acordó el valor de indemnización con su propietario Alamiro Cerda Gorigoitia, ascendente a la cantidad de $829.149.-
+
+Fiscal del Ministerio de Obras Públicas.
