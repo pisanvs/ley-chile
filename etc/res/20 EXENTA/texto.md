@@ -1,0 +1,45 @@
+PROHIBE CIRCULACION DE VEHICULOS QUE INDICA EN DIAS QUE SEÑALA
+
+Núm. 20 exenta.- Antofagasta, 17 de Julio de 1991.- Vistos: Lo dispuesto por los artículos N°s. 113 y 118 de la Ley N° 18.290; la resolución N° 59 de 1985, del Ministerio de Transportes y Telecomunicaciones; y lo prescrito en el Art. 1° de la Constitución Política de la República de Chile; y
+
+Considerando:
+
+1°.- Lo solicitado por el Sr. Secretario Regional Ministerial de Salud y lo dispuesto por el Sr. Intendente Regional;
+
+2°.- Que se mantienen altas concentraciones de partículas de polvo en suspensión, según informe del Servicio Nacional de Salud de Antofagasta, que exceden significativamente la norma nacional;
+
+3°.- La necesidad de despejar y limpiar las calles de la ciudad, en un programa que se encuentra en ejecución por parte de la I. Municipalidad.
+
+Resuelvo:
+
+1°.- Prohíbese la circulación de los vehículos motorizados de cuatro o más ruedas, a excepción de los vehículos destinados al transporte de carga, de acuerdo al último dígito de su placa patente única, desde el 22 de Julio hasta el 28 de Julio, inclusive, en las vías públicas urbanas de la comuna de Antofagasta, de acuerdo al siguiente calendario:
+
+Lun. 22 Mart. 23 Miérc. 24 Jue. 25 Vier. 26
+
+3-2 4-1 6-5 8-0 9-7
+
+Sáb. 27 Dgo. 28
+
+5-3 1-2
+
+Dicha prohibición regirá a contar de las 06:00 hrs. A.M. hasta las 22.00 hrs. P.M., salvo los días Sábados 27 y Domingo 28, el que será hasta las 14.00 hrs.
+
+2°.- La prohibición señalada en el punto anterior, además, no regirá respecto de los siguientes vehículos:
+
+a) Vehículos que efectúen servicios de locomoción colectiva no urbana, vehículos que transporten personal de industrias y trabajadores en general y buses que efectúen servicios intercomunales o interprovinciales;
+
+b) Vehículos de los servicios públicos debidamente identificados y de las diversas ramas de las Fuerzas Armadas, Carabineros de Chile, Policía de Investigaciones, Municipales, de las Universidades de Antofagasta y Católica del Norte, Cuerpo de Bomberos y Gendarmería de Chile;
+
+c) Carros mortuorios;
+
+d) Ambulancias de las diversas instituciones o establecimientos del área de la salud, estatal o privada;
+
+e) Vehículos acondicionados para personas lisiadas, a que se refiere el Art. 6° de la Ley 17.238;
+
+f) Vehículos de Centros de Rehabilitación, Hospitales, Clínicas o Consultorios, destinados al transporte de enfermos o minusválidos;
+
+g) Transporte escolar.
+
+3°.- Carabineros de Chile e Inspectores Municipales fiscalizarán el cumplimiento de la presente resolución.
+
+Anótese y publíquese.- Gastón Viveros Viveros, Secretario Regional Ministerial de Transportes y Telecomunicaciones II Región.
