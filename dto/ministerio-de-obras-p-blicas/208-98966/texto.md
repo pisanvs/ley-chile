@@ -1,0 +1,3 @@
+Por decreto MOP. No 208 de 27 de febrero de 1998, se expropió el lote de terreno No 75-A, superficie 3.711 M2., rol de avalúo 8295-10, comuna de Valparaíso, para la obra Habilitación Nuevo Camino La Pólvora Etapa l, Sector Ruta 68, Acceso Sur a Valparaíso Camino La Pólvora Rol F-724, F-730, Sector Placilla Puertas Negras y se acordó precio de indemnización con su propietario Fundación Chilena de Difusión y Cultura, ascendente a la cantidad de $12.842.914.-
+
+Fiscal del Ministerio de Obras Públicas.
