@@ -1,0 +1,7 @@
+MODIFICA RESOLUCION QUE INDICA. AUTORIZA A PESQUERA TRAFALGAR S,A, PARA AMPLIAR ACTIVIDADES
+
+Por resolución No. 1.673, de 07 de Noviembre de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la Resolución No. 348, de 1989, de esta Subsecretaría, que autorizó a Pesquera Trafalgar S.A., R.U.T. No. 9.5.449.000-9, domiciliada en Iquique, para desarrollar actividades pesqueras de extracción, en el sentido se señalar las actuales características náuticas de la nave "Oficina Progreso". Se amplían las Resoluciones No. 348 y No. 349, ambas de 1989, de esta Subsecretaría, en cuanto se autoriza a la peticionaria para extraer con las naves "Oficina Progreso "Oficina Unión", en el litoral de las Regiones III a VII. los siguientes recursos hidrobiológicos: Agujilla, Atún aleta amarilla, Atún aleta larga, Ayanque, Bonito, Cabinza, Cojinoha del norte, Corvina, Lisa, Machuelo, Pampanito, Pejerrey de mar, Merluza de cola, Anchoa, Caballa, Jurel, Sardina común y Sardina española.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 07 de Noviembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
