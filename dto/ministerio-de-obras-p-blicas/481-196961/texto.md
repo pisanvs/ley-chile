@@ -1,0 +1,3 @@
+Por decreto MOP Nº 481 de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 44-A, superficie 940 m², Rol de avaluó Nº 27-45, comuna de Paredones, para la obra "Camino Lolol - Paredones - Bucalemu, Sector Alto Nilahue - Acceso Paredones, Tramo Km. 12.700 a Km. 27.800", VI Región y se acordó el valor de indemnización con su propietario Miguel Armando Carvacho Vargas, ascendente a la cantidad de $45.903.658.-
+
+Fiscal del Ministerio de Obras Públicas.
