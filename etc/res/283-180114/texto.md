@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Por resolución 283, 5 diciembre 2000, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Línea Ferrea s/nº, Rol de Avalúo Nº2720-002, comuna Chiguayante, superficie 2.523,20 m2. de terreno, dentro polígono y linderos señalados plano expropiación 2720-002, de aparente dominio de Darío Pulgar Arriagada, para ejecución programa ''Mejoramiento Vial Eje O'Higgins de Chiguayante'', conforme artículo 51 Ley 16.391 y D.L. Nº2.186. Comisión Peritos, integrada por don Pedro Tagle Martínez, arquitecto; don Aris Sergio Drápela Alvarez, ingeniero civil, y don Luis Abarzúa Ceballos, constructor civil, según informe de fecha 19 de octubre de 2000, fijó monto provisional indemnización en $40. 791.200.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
