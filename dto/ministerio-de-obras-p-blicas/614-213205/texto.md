@@ -1,0 +1,3 @@
+Por decreto MOP Nº 614 de 30 de junio de 2003, se expropió el lote de terreno Nº 24-1 superficie 1.692 m², rol de avalúo 374-869, comuna de El Quisco, para la obra Red Vial Litoral Central Sector 1: Nuevo Camino Costero Acceso a Punta de Tralca: Km. 1.440,00 al Km. 2.060,00, Quinta Región y se acordó el valor de indemnización con Agrícola Santa Luisa Limitada, ascendente a la cantidad de $2.259.863.
+
+Fiscal del Ministerio de Obras Públicas.
