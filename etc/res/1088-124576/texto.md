@@ -1,0 +1,9 @@
+AUTORIZA A EMPRESA PESQUERA ERMAR SOCIEDAD ANONIMA PARA AMPLIAR ACTIVIDADES PESQUERAS, DENIEGA AUTORIZACION QUE INDICA
+
+Por resolución No. 1.088, de 18 de Octubre de 1988, de esta Subsecretaría de Pesca de! Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Empresa Pesquera Ermar Sociedad Anónima, R.U.T. No. 95.389.000-3, domiciliada en la ciudad de Iquique, para ampliar actividades pesqueras autorizadas por resolución No. 421, de 1984, de esta Subsecretaría, en orden a operar la embarcación denominada Ermar II, en el litoral de las Regiones I a XII, donde podrá extraer los siguientes recursos hidrobiológicos: Agujilla, Atún aleta larga, Atún aleta amarilla, Bonito, Cojinoba del Norte, Cojinoba del Sur, Pejerrey de mar. Asimismo, la peticionaria podrá extraer con la nave antes referida y en el litoral de las Regiones III a VII y IX a XII, los siguientes recursos hidrobiológicos: Anchoveta, Caballa, Jurel, Sardina común y Sardina española.
+
+Deniégase la autorización solicitada por la peticionaria para extraer con la embarcación que se autoriza por la presente resolución, en de litoral de las Regiones I, II y VIII, los siguientes recursos hidrobiológicos: Anchoveta, Caballa, Jurel, Sardina común y Sardina española, de conformidad a lo dispuesto en el Decreto No. 436, de 1985, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 18 de Octubre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
