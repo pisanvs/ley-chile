@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Lota para contratar uno o más préstamos que produzcan hasta la cantidad de 18 millones de pesos con el fin de destinarlos a la construcción de un Mercado; para su servicio establece una contribución adicional de dos por mil anual sobre el avalúo de los bienes raíces de la comuna.
