@@ -1,0 +1,5 @@
+Por decreto MOP No. 1.554, de 21 de septiembre de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL MOP No. 206, de 1960, se expropió los lotes de terreno No.
+
+s. 1 y 2, para la obra Ruta 5, Tramo Talca-Chillán, Solución Acceso a Colonia Panguilemito, Séptima Región, que figuran a nombre de Suc Morales Alburquenque Celia, rol de avalúo 8085-56, superficie 93 m², el primero y Nilo Nilo Alfonso, rol de avalúo 8083-232, superficie 37 m², el segundo, comuna de San Rafael. La Comisión de Peritos integrada por los señores Sergio Lay Gómez, Iván Correa Opazo y Carlos Sottolichio Díaz, fijó con fecha 24 de marzo de 1998, los valores provisionales de las indemnizaciones en las cantidades de $80.000.- para el lote No. 1 y $106.000.- para el lote No. 2, respectivamente. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
