@@ -1,0 +1,1 @@
+Reemplaza artículo 1° y letra d) del 2° y suprime su letra j); modifica inciso 1° del artículo 4°; reemplaza el 5° y suprime inciso 3° del artículo 6°, y le agrega artículos a la ley 5,736, de 9 de octubre de 1935, que autoriza contratar empréstito por $ 2.500,000 por cuenta de la Municipalidad de Copiapó, que se destina a la construcción de edificios, pavimentación, etc.
