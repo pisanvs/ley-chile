@@ -350,7 +350,9 @@ El derecho de aprovechamiento de las aguas subterráneas para cualquier otro uso
 
 Cualquiera persona puede explorar con el objeto de alumbrar aguas subterráneas, sujetándose a las normas que establezca la Dirección General de Aguas.
 
-En suelo ajeno sólo se podrá explorar previo acuerdo con el dueño del predio, y en bienes nacionales con la autorización de la Dirección General de Aguas.
+El suelo ajeno sólo se podrá explotar previo acuerdo con el dueño del predio, y en bienes nacionales con la autorización de la Dirección General de Aguas.
+
+No se podrán efectuar exploraciones en terrenos públicos o privados de zonas que alimenten áreas de vegas y de los llamados bofedales en las Regiones de Tarapacá y de Antofagasta, sino con autorización fundada de la Dirección General de Aguas, la que previamente deberá identificar y delimitar dichas zonas.
 
 ### 3. De la explotación de aguas subterráneas
 
@@ -374,7 +376,11 @@ Esta medida quedará sin efecto cuando los solicitantes reconsideren su petició
 
 #### Artículo 63°
 
-La Dirección General de Aguas podrá declarar zonas de prohibición para nuevas explotaciones, mediante resolución fundada en la protección del acuífero, la cual se publicará en el Diario Oficial.
+La Dirección General de Aguas podrá declarar zonas de prohibición para nuevas explotaciones, mediante resolución fundada en la protección de acuífero, la cual se publicará en el Diario Oficial.
+
+Las zonas que correspondan a acuíferos que alimenten vegas y los llamados bofedales de las Regiones de Tarapacá y de Antofagasta se entenderán prohibidas para mayores extracciones que las autorizadas, así como para nuevas explotaciones, sin necesidad de declaración expresa. La Dirección General de Aguas deberá previamente identificar y delimitar dichas zonas.
+
+Sin perjuicio de lo dispuesto en el inciso anterior, la Dirección General de Aguas podrá alzar la prohibición de explotar, de acuerdo con el procedimiento indicado en el artículo siguiente.
 
 #### Artículo 64°
 
@@ -832,13 +838,13 @@ La presentación y su tramitación se efectuará de acuerdo a las disposiciones 
 
 #### Artículo 131°
 
-Toda presentación que afecte o pueda afectar a terceros deberá publicarse, a costa del interesado, por una sola vez en el Diario Oficial los días primero o quince de cada mes o el primer día hábil inmediato si aquéllos fueren feriados, y en forma destacada en un diario matutino de Santiago.
+Toda presentación que afecte o pueda afectar a terceros deberá publicarse, a costa del interesado, dentro de treinta días contados desde la fecha de su recepción por una sola vez en el Diario Oficial los días primero o quince de cada mes o el primer día hábil inmediato si aquéllos fueren feriados, y en forma destacada en un diario de Santiago.
 
-Las presentaciones que no correspondan a la Región Metropolitana se publicarán, además, en un diario o periódico de la provincia respectiva y si no lo hubiere, en uno de la capital de la Región correspondiente.
+Las presentaciones que no correspondan a la Región Metropolitana se publicarán, además, en un diario o periódico de la provincia respectiva y si no hubiere, en uno de la capital de la región correspondiente.
 
 La presentación se publicará íntegramente o en un extracto que contendrá, a lo menos, los datos necesarios para su acertada inteligencia.
 
-Excepcionalmente, el jefe de la oficina del lugar o el Gobernador, según el caso, dispondrá la notificación personal cuando aparezca de manifiesto la individualidad de la o las personas afectadas con la presentación y siempre que el número de éstas no haga dificultosa la medida.
+Excepcionalmente el jefe de la oficina del lugar o el Gobernador, según el caso, dispondrá la notificación personal cuando aparezca de manifiesto la individualidad de la o las personas afectadas con la presentación y siempre que el número de éstas no haga dificultosa la medida.
 
 #### Artículo 132°
 
@@ -862,7 +868,9 @@ Reunidos los antecedentes solicitados, la Dirección General de Aguas deberá em
 
 #### Artículo 135°
 
-Los gastos que irroguen las presentaciones ante la Dirección General de Aguas serán de cargo del interesado y los que originen las medidas que dicha Dirección adopte de oficio, serán de cargo de ella.
+Los gastos que irroguen las presentaciones ante la Dirección General de Aguas, serán de cargo del interesado y los que originen las medidas que dicha Dirección adopte de oficio, serán de cargo de ella.
+
+Si la Dirección estimare necesario practicar inspección ocular determinará la suma que el interesado debe consignar para cubrir los gastos de esta diligencia.
 
 #### Artículo 136°
 
@@ -912,9 +920,9 @@ Si la solicitud recae en un derecho para usos no consuntivos, se indicará adem�
 
 #### Artículo 141°
 
-Las solicitudes se publicarán en la forma establecida en el artículo 131°, dentro de quince días contados desde la fecha de su presentación.
+Las solicitudes se publicarán en la forma establecida en el artículo 131, dentro de 30 días contados desde la fecha de su presentación.
 
-Los que se crean perjudicados por la solicitud y la junta de vigilancia, podrán oponerse dentro del plazo establecido en el artículo 132°.
+Los que se crean perjudicados por la solicitud y la junta de vigilancia, podrán oponerse dentro del plazo establecido en el artículo 132.
 
 Se entenderá, además, que hay oposición cuando en el mismo plazo, se hubieren presentado dos o más solicitudes sobre las mismas aguas, o cuando en una solicitud un tercero pida para sí parte o el total de ellas, y no hubiere recursos suficientes para satisfacer todos los requerimientos.
 
@@ -1174,6 +1182,8 @@ El titular de un derecho de aprovechamiento o quien goce de la presunción a que
 
 El ejercicio de este derecho no requerirá otras formalidades que las prescritas en los artículos siguientes y será innecesario, en primera instancia, el patrocinio de abogado.
 
+En este amparo judicial procederá siempre la habilitación a que se refiere el artículo 60 del Código de Procedimiento Civil.
+
 #### Artículo 182°
 
 La solicitud de amparo deberá contener las siguientes menciones:
@@ -1228,13 +1238,15 @@ Las comunidades podrán organizarse por escritura pública suscrita por todos lo
 
 Si cualquier interesado o la Dirección General de Aguas promueve cuestión sobre la existencia de la comunidad o sobre los derechos de los comuneros en el agua o en la obra común, se citará a comparendo ante el Juez del lugar en que esté ubicada la bocatoma del canal principal.
 
-La citación o comparendo se hará por medio de cuatro avisos, tres de los cuales se publicarán en un periódico de la provincia o región en que funcione el Tribunal, y uno en un diario de Santiago, debiendo mediar por lo menos entre la primera publicación y el comparendo un plazo no inferior a diez días. El o los periódicos serán designados por el Juez.
+La citación a comparendo se hará por medio de cuatro avisos, tres de los cuales se publicarán en un periódico de la provincia o región en que funcione el Tribunal, y uno en un diario de Santiago, debiendo mediar por lo menos entre la primera publicación y el comparendo un plazo no inferior a diez días. El o los periódicos serán designados por el Juez.
 
 Si los interesados son menos de cuatro, se les notificará también personalmente y la notificación se hará en la forma determinada por el artículo 44°, del Código de Procedimiento Civil, aunque la persona a quien deba notificarse no se encuentre en el lugar de su morada o donde ejerce habitualmente su industria, profesión o empleo.
 
-El comparendo se celebrará con los interesados que asistan, si son dos o más o si sólo asiste uno, se repetirá la citación en la misma forma, a excepción de la notificación que será hecha por cédula, expresándose en ésta y en los avisos que es segunda citación. En este caso, el comparendo se celebrará con el que asista.
+El comparendo se celebrará con los interesados que asistan, si son dos o más y si sólo asiste uno, se repetirá la citación en la misma forma, a excepción de la notificación que será hecha por cédula, expresándose en ésta y en los avisos que es segunda citación. En este caso, el comparendo se celebrará con el que asista.
 
 No podrá organizarse una comunidad de aguas ante el Juez si existe otra organización ya constituida en la obra común, que tenga la misma jurisdicción.
+
+La Dirección General de Aguas podrá participar y comprometer recursos en la organización de una comunidad de aguas desde la iniciación de la gestión judicial hasta su inscripción en el Registro de Propiedad de Aguas.
 
 #### Artículo 189°
 
@@ -2236,7 +2248,7 @@ Si la expropiación hubiere sido parcial, o si habiendo sido total se le hubiere
 
 #### Artículo 5°
 
-La determinación e inscripción de los derechos de aprovechamiento provenientes de predios expropiados total o parcialmente por aplicación de las leyes N°s 15.020 y 16.640, podrá efectuarse de acuerdo con las reglas siguientes:
+La determinación e inscripción de los derechos de aprovechamiento provenientes de predios expropiados total o parcialmente o adquiridos a cualquier título por aplicación de las leyes N°s 15.020 y 16.640, podrá efectuarse de acuerdo con las reglas siguientes:
 
 1.- El Servicio Agrícola y Ganadero determinará, en forma proporcional a la extensión regada, los derechos de aprovechamiento que corresponden a cada predio asignado, a la reserva, a la parte que se hubiere excluido de la expropiación y a la que se hubiere segregado por cualquier causa cuando ello fuere procedente. Cuando la dotación que tenga el predio expropiado total o parcialmente fuere insuficiente para efectuar una adecuada distribución de las aguas, el Servicio podrá incorporar a ella otros derechos de que disponga.
 
@@ -2245,6 +2257,8 @@ La determinación e inscripción de los derechos de aprovechamiento provenientes
 3.- Los interesados podrán reclamar de la resolución del Servicio Agrícola y Ganadero dentro del plazo de 60 días corridos desde la fecha de su publicación en el Diario Oficial, ante el Juez de Letras Civil competente, quien conocerá y fallará de acuerdo con el procedimiento establecido en los artículos 177 y siguientes de este Código.
 
 4.- Los propietarios de los predios comprendidos en la resolución a que se refiere el número 2 podrán inscribir a su nombre los derechos de aprovechamiento establecidos para tales predios con la sola presentación de la inscripción de dominio del inmueble. En este caso, la inscripción de la aludida resolución será suficiente para determinar la cantidad de derechos que corresponde a cada predio y no regirá lo establecido en el artículo 1° transitorio de este Código.
+
+El Servicio Agrícola y Ganadero podrá requerir la inscripción de los derechos de aprovechamiento a que se refiere este artículo y comprometer recursos en ello.
 
 #### Artículo 6°
 
@@ -2276,7 +2290,7 @@ El aprovechamiento efectivo se acreditará solamente con la existencia de obras 
 
 #### Artículo 11°
 
-La Dirección General de Aguas, a petición de la Comisión Nacional de Riego y previo informe de la Dirección de Riego, otorgará derechos de aprovechamiento en las obras de riego construidas por el Estado y total o parcialmente terminadas, cuya entrega se haya efectuado o se efectúe a sus beneficiarios.
+La Dirección General de Aguas, a petición de la Comisión Nacional de Riego y previo informe de la Dirección de Riego, otorgará derechos de aprovechamiento en las obras de riego construidas por el Estado y total o parcialmente terminadas.
 
 #### Artículo 12°
 
