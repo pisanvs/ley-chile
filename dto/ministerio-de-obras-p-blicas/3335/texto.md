@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.335, de 29 de octubre de 1999, se expropió el lote de terreno Nº 119, superficie 933 m2., rol de avalúo 136-350, comuna de Paine, para la obra Concesión Internacional Ruta 5; Tramo: Santiago - Talca. Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietaria María Jesús Córdova González, ascendente a la cantidad de $5.826.513.-
+
+Fiscal del Ministerio de Obras Públicas.
