@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 27, de fecha 14 de marzo del año 2003, se autorizó la existencia y aprobó el estatuto de la "Cooperativa de Trabajo de Producción y Transformación de Bienes y Servicios Profesionales y Desarrollo Sustentable", de nombre de fantasía "Cooperativa Unión Del Pacífico Ltda." de la ciudad de Maullín, comuna de Maullín, Décima Región, en los términos que da cuenta el Acta Constitutiva protocolizada con fecha 21 de enero del año 2003, al final de los registros del Notario Titular de la ciudad de Puerto Montt, don Hernán Tike Carrasco, bajo el Nº 110-2003.
+
+Por orden del señor Subsecretario, Raúl Oliva Camadro, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
