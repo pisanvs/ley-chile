@@ -1,0 +1,3 @@
+Por Resolución N° 383, de 27 de mayo de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2° de la Resolución N° 1.124, de 1992, de esta Subsecretaría, que autorizó a PESQUERA OCEANICA LTDA., R.U.T. N° 82.957.700-3, para operar la nave "Pionero I", en orden a señalar que la matrícula de la referida embarcación es la N° 2766, en lugar de la N° 2749.
+
+Valparaíso, 27 de mayo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
