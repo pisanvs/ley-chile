@@ -1,0 +1,3 @@
+Por resolución de la Fiscalía del Ministerio de Obras Públicas F. Nº 34, de 26 de Abril de 1985,. se ha ordenado pagar a la persona que a continuación se indica o a quien acredite derecho como valor del 100% del avalúo fijado por la Comisión de Hombres Bueno, más su reajuste., para el lote expropiado para Doble Vía Concepción a Coronel, sectores San Pedro a Lomas Coloradas, Kms. 0 al 7.240,53 y acceso sur al nuevo Puente Bío - Bío, cuya superficie y rol de avalúo de la comuna de concepción se indica: Lote 5: Mario Gutiérrez Moreno, 225 m2., rol 12.033-29, $ 2.135.822. Se deja constancia que el plazo para reclamar del avalrio es el determinado por el artículo 12 del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
