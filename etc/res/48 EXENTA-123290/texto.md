@@ -1,0 +1,5 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A GUTIERREZ HERMANOS LTDA.
+
+La IV Dirección Regional La Serena del SII, por Resolución DRE04.00 Nº Ex. 48 de 14 de julio de 1998, excepciona a contar del 1º del mes siguiente al de esta publicación y hasta el 31 de julio de 1999, a la sociedad Gutiérrez Hermanos Ltda., R.U.T. Nº 50.280.200-3, del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las operaciones de ganado vivo, establecido en la Resolución Nº Ex. 2379 de 1998 de la Dirección Nacional, publicada en el Diario Oficial del 24.04.1998, modificada por la Resolución Nº 3785, de 1998, publicada en el Diario Oficial del 30.06.1998. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus operaciones de ganado vivo.-
+
+Luis Muñoz Arratia, Director Regional.
