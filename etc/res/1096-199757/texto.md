@@ -1,0 +1,3 @@
+Por resolución número 1.096, de 5 de junio de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Mehuín Sector B, X Región, individualizada en el artículo 1º letra a) del D.S. Nº 443 de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
