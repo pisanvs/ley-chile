@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD FISHER LLOP Y COMPAÑIA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 69 de 02 de Febrero de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Fisher Llop y Compañía Limitada, domiciliada en Coyhaique, para ampliar actividades Pesqueras señaladas en resolución No. 1.002, de 1986, de esta Subsecretaría, en orden a operar en el establecimiento de cultivo autorizado, el recurso salmón del Atlántico. Autorízase, asimismo, a la peticionaria para aumentar en dicho establecimiento el número de balsas - jaulas destinadas al cultivo de salmón plateado, de 38 a 58 estructuras de cultivo. Los recursos deberán provenir de centros de cultivo autorizados. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 02 de Febrero de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
