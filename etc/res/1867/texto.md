@@ -1,0 +1,5 @@
+Por resolución Nº 1.867, de 24 de diciembre de 1998, de esta Subsecretaría, autorízase a PESCA CHILE S.A., para realizar operaciones pesqueras, a contar del 1 de enero de 1999 y hasta el 31 de diciembre del mismo año, ambas fechas inclusive, con los barcos fábrica denominados ''Faro de Hércules'', ''Puerto Ballena'', ''Chomapi Maru'', ''Betanzos'' y ''Pedrosa'', en aguas exteriores, por fuera de las líneas de base recta, al sur del paralelo 44°30 de latitud sur, respecto de las áreas y recursos y con las obligaciones establecidas en sus respectivas resoluciones.
+
+Asimismo autorízase a Pesca Chile S.A. para realizar operaciones pesqueras, por el plazo señalado en el inciso precedente, con los barcos factorías ''Faro de Hércules'', ''Puerto Ballena'' y ''Chomapi Maru'', en aguas interiores al sur del paralelo 47°00'00" L.S., respecto de los recursos y con las obligaciones establecidas en sus respectivas autorizaciones de pesca.
+
+Valparaíso, 24 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
