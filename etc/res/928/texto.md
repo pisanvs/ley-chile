@@ -1,0 +1,3 @@
+Por Resolución N° 928, de 6 de Noviembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a GUILLERMINA LETELIER V. CIA. LTDA., R.U.T. N° 79.839.400-2, para continuar desarrollando las actividades pesqueras autorizadas por Resolución N° 1.492, de 1988, de esta Subsecretaría, a Letelier y Asencio Ltda., de mismo R.U.T. y domicilio, en virtud de la Escritura Pública de fecha 15 de Junio de 1989, otorgado ante el Notario Público de Punta Arenas, don Armando Ulloa Contreras, que sustituyó la razón social de la sociedad "Letelier y Asencio Ltda." por Gillermina Letelier V. y Cía. Ltda.".
+
+Valparaíso, 16 de Noviembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
