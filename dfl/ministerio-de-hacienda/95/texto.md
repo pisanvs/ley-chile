@@ -1,0 +1,1 @@
+Declara en reorganización el Servicio de Registro Civil e Identificación y fija las plantas y remuneraciones de sus funcionarios; agrega inciso final al artículo 348° del decreto con fuerza de ley 2.128, de 1930, que aprobó el Reglamento Orgánico del Registro Civil.
