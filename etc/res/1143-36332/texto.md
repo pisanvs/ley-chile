@@ -1,0 +1,3 @@
+Por Resolución N° 1.143, de 5 de Diciembre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 940, de 1986, de esta Subsecretaría, que autorizó al SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES DE LA CALETA COLIUMO, R.U.T. N° 71.292.800-K, para operar un centro de cultivo de alga Gracilaria, en un sector de Caleta Coliumo, localidad de Coliumo, Comuna de Tomé, Provincia de Concepción, VIII Región, en virtud de lo dispuesto en el artículo 7° del D.S. N° 175, de 1980 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de Diciembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
