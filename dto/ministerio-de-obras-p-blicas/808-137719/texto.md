@@ -1,0 +1,3 @@
+Por decreto MOP Nº 808, de 31 de marzo de 1999, se expropió el lote de terreno Nº 19, superficie 400 m², rol de avalúo 12027-14, comuna de San Pedro para la obra Reposición Puente Bío-Bío Antiguo, Ruta 160, Concepción - San Pedro, Sector San Pedro y se acordó precio de indemnización con sus propietarios Irma del Carmen Ortega Añasco y otros, ascendente a la cantidad de $46.874.004.
+
+Fiscalía del Ministerio de Obras Públicas.
