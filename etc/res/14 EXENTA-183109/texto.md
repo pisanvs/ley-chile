@@ -1,0 +1,3 @@
+Por R.M. (Ex) Nº 14, de 15 de marzo de 2001, del Ministerio de Economía, Fomento y Reconstrucción, acógese parcialmente el recurso de reclamación interpuesto por PESQUERA TREMAR S.A. Considérese en la determinación de su límite máximo de captura, en las unidades de pesquerías que se indican, las siguientes capturas totales de la nave ''Cacique I'': Jurel, V a IX Regiones: Mayo 1997: 3123 t.; Jurel, X Región: Febrero 1998: 485 t.-
+
+José de Gregorio Rebeco, Ministro de Economía, Fomento y Reconstrucción.
