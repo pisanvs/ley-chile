@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución N° 92 de 01 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a las parcelas N°s. 1 a la 45., sitios N°s. 1 al 40, bien común general N° 3, bienes comunes especiales N°s. 1 y 2; y reservas CORA N° 1, 2A, 2B y 3 del Proyecto de Parcelación "La Vinilla Norte", formado por el predio "Hijuela Norte de la Hacienda La Vinilla "de la comuna de Casablanca, V Región. Los derechos de agua se extraen del tranque Tapihue, Embalse La Vinilla y Pozos Profundos.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
