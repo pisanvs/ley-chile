@@ -1,0 +1,3 @@
+Por decreto MOP Nº 328, de 28 de febrero de 2001, se expropió el lote de terreno Nº 3, superficie 1.990 m2, rol de avalúo 189-536, comuna de Longaví, para la obra Concesión Internacional Ruta 5. Tramo: Talca - Chillán, Séptima Región y se acordó el valor de indemnización con su propietario Eduardo Enrique González Aravena, ascendente a la cantidad de $4.269.728.-
+
+Fiscal del Ministerio de Obras Públicas.
