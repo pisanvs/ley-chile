@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.314 de fecha 30 de agosto de 2002, se expropiaron los lotes de terreno Nº24 y 25, superficies 399 y 2.596 m2, rol de Avalúo Nº214-335, comuna de Teodoro Schmidt, para la obra ''Camino S-60 Sector Teodoro Schmidt - Hualpín, Km. 43,94000 al 59,10294, Tramo I Km. 44,84000 al 53,08000'', IX Región y se acordó el valor de la indemnización con su propietaria Hortencia Llancamán Ranquileo u Hortencia Llancamán Ranguileo, ascendente a la cantidad de $2.662.392.-
+
+Fiscal del Ministerio de Obras Públicas.
