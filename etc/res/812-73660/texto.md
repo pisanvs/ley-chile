@@ -1,0 +1,3 @@
+Por Resolución Nº 812, de 6 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resoluciones Nº 1.129, de 1989 y Nº 932 de 1995, ambas de esta Subsecretaría, que autorizaron a CARMEN ROSA ALVAREZ CHACANO, para instalar y operar el centro de cultivo ubicado en Caleta Nehuentué, Río Imperial, Carahue, IX Región, por haberse dejado sin efecto la respectiva Resolución de concesión de acuicultura.
+
+Valparaíso, 6 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
