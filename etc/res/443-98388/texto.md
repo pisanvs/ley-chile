@@ -1,0 +1,5 @@
+Por resolución Nº443, de 6 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD COMERCIAL E INDUSTRIAL GOLDEN SEAGULL LIMITADA, para ampliar actividades pesqueras de transformación, en orden a operar la planta ubicada en Avenida Normandie Nº2686, Quintero, V Región, en la que podrá procesar en las líneas de elaboración que a continuación se indican, los siguientes recursos hidrobiológicos: Fresco-Refrigerado, Congelado, Conserva, Deshidratado, Ahumado, Seco Salado: Besugo, Reineta, Trucha arcoiris o Cabeza de acero, Turbot, Camarón de río, Camarón ecuatoriano; Fresco-Refrigerado, Conserva, Deshidratado, Ahumado, Seco-Salado: Raya; Conserva, Seco-Salado, Ahumado: Marrajo o Tiburón; Fresco-Refrigerado: Merluza común y Jurel.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 6 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
