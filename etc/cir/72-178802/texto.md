@@ -1,0 +1,1 @@
+Se ha emitido la Circular Nº 72, de fecha 12 de diciembre de 2000, que establece instrucciones para el uso del nuevo formulario 2118 ''Solicitud de Modificación al Catastro de Bienes Raíces'', el que comenzará a regir a contar del 2 de enero de 2001 en todas las oficinas del S.I.I. y a través de Internet en www.sii.cl.
