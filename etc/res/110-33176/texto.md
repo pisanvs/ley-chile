@@ -1,0 +1,3 @@
+Por Resolución N° 110, 19 de Enero de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 756, de 1992, que caducó la Resolución N° 582, de 1991, ambas de esta Subsecretaría, que autorizó a don JORGE PAREDES LEIVA, R.U.T. N° 5.699.508-0, para operar un establecimiento de cultivo, en virtud de las normas legales, reglamentarias y Resoluciones citadas en Visto, por haberse dictado erróneamente.-
+
+Valparaíso, 19 de Enero de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
