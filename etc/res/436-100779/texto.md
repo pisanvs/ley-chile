@@ -1,0 +1,3 @@
+REVOCA CALIDAD DE AGENTES RETENEDORES DE IVA.
+
+La VIII Dirección Regional del Servicio de Impuestos Internos, en virtud de sus atribuciones, por resoluciones Nºs. 0433, 0435 y 0436, de 29.05.98, ha procedido a revocar, respectivamente, la calidad de Agente Retenedor del IVA a los siguientes contribuyentes: ''Sociedad Comercial y Agropecuaria Ltda.'', RUT. Nº 79.960.580-5, por la adquisición de Trigo; ''Sociedad Comercial y Agrícola Agromehuin Ltda.'', RUT. Nº 78.044.640-4, por la adquisición de Legumbres, y ''Cooperativa Campesina El Mirador de Bío Bío Ltda.'', RUT. Nº 72.367.400-K, por la adquisición de Trigo. Estas revocaciones regirán a contar de la fecha de publicación del presente extracto.
