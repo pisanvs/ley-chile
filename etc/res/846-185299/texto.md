@@ -1,0 +1,3 @@
+Por resolución Nº 846, de 11 de mayo de 2001, de esta Subsecretaría, rectifícase el numeral 22 de la resolución Nº 70 de 2001, que declaró la caducidad parcial de la resolución Nº 861 de 1997, ambas de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA TRAVESIA S.A. para realizar actividad extractiva con la nave "María José", matrícula Nº 2914, sobre los recursos Anchoveta y Sardina común, en el área marítima de la V a VII y IX Regiones, en el sentido de señalar que el área marítima cuya caducidad se declara corresponde a la V a VII, IX y X Regiones.
+
+Valparaíso, 11 de mayo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
