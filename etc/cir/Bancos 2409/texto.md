@@ -9344,7 +9344,7 @@ Si la emisión se realiza contra un depósito del tomador, este último, en caso
 
 Las boletas de garantía se extinguen al momento que el beneficiario la hace efectiva o que el tomador la devuelve al banco, dentro del plazo de validez que se le ha dado al documento. En caso que la boleta de garantía sea devuelta, deberá constar en el dorso la leyenda "Devuelta al tomador" y el nombre o razón social y la firma del beneficiario.
 
-Si ella no es cobrada o devuelta hasta la fecha fijada para su vencimiento, la institución emisora podrá cancelarla en sus registros y efectuar, si fuera del caso, la correspondiente liquidación al tomador. Los depósitos enterados para boleta de garantía que permanezcan inmovilizados después de haber vencido la correspondiente boleta, quedarán sujetos a los plazos de prescripción de que trata el Capítulo 2-13 de esta Recopilación de Normas.
+Si ella no es cobrada o devuelta hasta la fecha fijada para su vencimiento, la institución emisora podrá cancelarla en sus registros y efectuar, si fuera del caso, la correspondiente liquidación al tomador. Los depósitos enterados para boleta de garantía que permanezcan inmovilizados después de haber vencido la correspondiente boleta, quedarán sujetos a los plazos de caducidad de que trata el Capítulo 2-13 de esta Recopilación de Normas.
 
 En cuanto a las boletas emitidas sin un plazo determinado de vencimiento, ellas podrán cancelarse, si no son cobradas o devueltas, si el banco obtiene del beneficiario una declaración en el sentido de que ella no será cobrada y que, en consecuencia, renuncia a todo derecho que pudiera haber tenido sobre esa garantía.
 
@@ -20980,40 +20980,6 @@ que la ley exige cuando no se acredita identidad o para determinados actos
 
 solemnes.
 
-CAPITULO 16-5 (Bancos y Financieras)
-
-MATERIA:
-
-RECAUDACIONES DE IMPUESTOS, CONTRIBUCIONES Y DEMAS OBLIGACIONES TRIBUTARIAS.
-
-### 1. Recaudaciones tributarias por parte de las instituciones financieras
-
-De acuerdo con las normas del Servicio de Impuestos Internos, los bancos y las sociedades financieras pueden recibir formularios de declaraciones de pagos de obligaciones tributarias de parte de los contribuyentes, siempre que cuenten con
-
-la respectiva autorización para actuar como delegados del Servicio de Tesorerías, otorgada por el Director del Servicio de Impuestos Internos.
-
-Las instituciones financieras que actúen como recaudadoras autorizadas de tributos y demás obligaciones a favor del Fisco, deben atenerse a las isposiciones establecidas en el D.S. N° 255 de 1979 y sus modificaciones, del Ministerio de Hacienda, y a la reglamentación y procedimientos operativos que le son aplicables en su calidad de delegados del Servicio de Tesorerías.
-
-El Director del Servicio de Impuestos Internos está facultado para dejar sin efecto la autorización otorgada a una institución financiera, en caso de incumplimiento de las disposiciones que regulan las operaciones de que se trata. Por otra parte, el banco o sociedad financiera que desee retirarse del sistema, debe comunicarlo por escrito al Director del Servicio de Impuestos Internos, a lo menos con seis meses de anticipación.
-
-### 2. Depósitos en la Cuenta Unica Fiscal
-
-Según lo establecido en el artículo 2° del D.S. N° 668 de Hacienda, de 1981, el monto de lo recaudado debe ser depositado en la Cuenta Unica Fiscal del Banco del Estado de Chile, dentro del tercer día hábil siguiente al de su percepción.
-
-Al respecto, las instituciones fiscalizadas deben tener presente lo siguiente:
-
-a) Los depósitos de los importes recaudados deben efectuarse mediante vales de cámara;
-
-b) El cómputo del plazo para depositar debe hacerse sobre la base de los días hábiles bancarios; vale decir, se consideran también como inhábiles los días sábado y el 31 de diciembre de cada año;
-
-c) Las recaudaciones percibidas en horario especial se entenderán recibidas en el día hábil bancario siguiente.
-
-### 3. Contabilización
-
-Los montos recaudados por impuestos, contribuciones y demás obligaciones, deben registrarse en la cuenta "Recaudaciones tributarias por cuenta del Servicio de Tesorerías", de la partida 3010 del formulario MB1.
-
-La contabilización de las recaudaciones percibidas en horario especial debe efectuarse en el día hábil bancario inmediatamente siguiente, de acuerdo con las normas generales sobre operaciones en horario especial.
-
 CAPITULO 16-6 (Bancos)
 
 MATERIA:
@@ -22815,26 +22781,6 @@ que se entrega.
 CAPITULO 20-4. Derogado.
 
 Artículo .- Derogado.
-
-CAPITULO 20-5 (Bancos)
-
-MATERIA
-
-DEVOLUCION DE EXCEDENTES DE IMPUESTO A LA RENTA MEDIANTE ABONO EN CUENTAS CORRIENTES BANCARIAS
-
-El Servicio de Tesorerías implantó, a partir del año 1989, un procedimiento que permite la devolución de excedentes de impuesto a la renta, mediante su depósito directo en las cuentas corrientes bancarias de los contribuyentes que así lo soliciten en su declaración anual de impuestos Los procedimientos para efectuar esa devolución serán los que comunique la Asociación de Bancos e Instituciones Financieras A G en su calidad de coordinadora, y los que se indican en este Capítulo.
-
-1.- Contabilización de los recursos recibidos.
-
-Las empresas bancarias acreditarán en las cuentas corrientes de los contribuyentes los importes correspondientes a devolución de impuesto a la renta que, por intermedio del Banco del Estado de Chile, reciban de la Tesorería General de la República en la fecha prevista en el calendario de actividades establecido para el efecto, según lo convenido entre el Servicio de Tesorerías y la Asociación de Bancos e Instituciones Financieras A G Este procedimiento se aplicará solamente en los casos en que los contribuyentes así lo hayan solicitado en su declaración de impuesto a la renta.
-
-Los importes recibidos se abonarán directamente en la cuenta comente de los respectivos beneficiarios, o bien, se acreditarán transitoriamente, al momento de recibirlos, en una cuenta que habilitarán para tal efecto y que será demostrada en la partida 3010 "Otros saldos acreedores a la vista" En todo caso, los bancos que opten por acreditar en esa cuenta los recursos que les haya abonado el Banco del Estado de Chile por dicho concepto, deberán traspasar esos recursos a las cuentas corrientes de los respectivos beneficiarios dentro del plazo previsto para tal efecto en los procedimientos operativos establecidos.
-
-2.- Utilización de Vales de Cámara.
-
-La entrega de los fondos de que se trata por parte del Banco del Estado de Chile, se hará efectiva mediante vales de cámara extendidos a favor de cada banco
-
-Por su parte, los importes que los bancos no puedan acreditar en la cuenta comente del beneficiario, ya sea por cuenta cerrada o por otra causa, serán devueltos al Banco del Estado de Chile también mediante vales de cámara.
 
 CAPITULO 20-6 (Bancos y Financieras)
 
