@@ -1,0 +1,3 @@
+Por Resolución Nº 652, de 7 de Mayo de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, modifícase el númeral 2º de la Resolución Nº 123, de 1986, de esta Subsecretaría, que autorizó a Pesquera Punta Angamos S.A., hoy empresa Pesquera Eperva S.A., para ampliar actividades pesqueras, con la nave "Angamos 3".
+
+Valparaíso, 7 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
