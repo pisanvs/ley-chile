@@ -9028,7 +9028,7 @@ b) Responder a préstamos financieros, internados al país de acuerdo al Capítu
 
 c) Responder como garante directo o como contra fiador o avalista de documentos emitidos en el exterior que sirvan de garantía de calidad de las exportaciones chilenas o de seriedad en el cumplimiento de propuestas abiertas en el extranjero a que concurran exportadores chilenos; y,
 
-d) Responder de los pagos que se deriven de las obligaciones generadas por los contratos a futuro celebrados con corredores de Bolsas Oficiales Extranjeras,por las personas autorizadas para ello de conformidad con las disposiciones contenidas en el Capítulo VIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Estas cauciones también pueden otorgarse mediante cartas de crédito Stand by, las que deben sujetarse a las normas contenidas en este capítulo.
+d) Responder de los pagos que se deriven de las obligaciones generadas por los contratos a futuro celebrados con corredores de Bolsas Oficiales Extranjeras,por las personas autorizadas para ello de conformidad con las disposiciones contenidas en el Capítulo VI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Estas cauciones también pueden otorgarse mediante cartas de crédito Stand by, las que deben sujetarse a las normas contenidas en este capítulo.
 
 e) Responder como garante directo de letras de cambio aceptadas o de pagarés suscritos en el exterior, correspondientes al precio pagadero a plazo de exportaciones chilenas. En estos casos, las empresas bancarias deberán enviar al Banco Central de Chile la información requerida en el Capítulo XX del título I del Compendio de Normas de Cambios Internacionales, dentro del plazo establecido para tal efecto.
 
@@ -18896,53 +18896,31 @@ Las operaciones a futuro (Forward) y los Swaps de que trata este Capítulo, con 
 
 Para los efectos de estas normas, se entenderá por compraventa a futuro de monedas (forwards), aquella transacción en la que uno de los contratantes se compromete a entregar al otro una moneda, chilena o extranjera, y el otro se compromete a entregar una moneda, chilena o extranjera distinta, a cambio de la que recibe, en la fecha futura que hayan pactado.
 
-2. Requisito para la entrega de la moneda extranjera en contratos de ventas a futuro contra recepción del pago en moneda chilena.
+2.- Entrega o recepción de la moneda extranjera contra moneda chilena.
 
-Cuando los bancos celebren, con cualquier persona que no sea otro banco, un contrato de compraventa a futuro (forward) que contemple la entrega física de la moneda extranjera pactada, cuyo importe les será pagado en pesos moneda chilena, sólo podrán efectuar dicha entrega de moneda extranjera si se les acredita que ésta será destinada a cubrir, en la misma fecha en que la reciba el comprador, una obligación de pago al exterior que cuente con acceso al mercado cambiado formal y que el monto de esa obligación sea igual o superior al importe pactado en el respectivo contrato.
-
-En caso que la obligación con el exterior sea inferior al importe en moneda extranjera pactado en el contrato, la entrega de dicha moneda sólo procederá hasta el monto de la obligación, debiendo solucionarse la diferencia por el procedimiento de compensación a que se refiere el N° 3 siguiente.
+Los bancos pueden celebrar contratos de compraventa a futuro (forward) que contemple la entrega o recepción física de la moneda extranjera pactada, cuyo importe sea pagado por quien corresponda en pesos moneda chilena, debiendo dar cumplimiento a las instrucciones del Instituto Emisor en el sentido de emitir las respectivas planillas con la codificación de la operación del mercado cambiario formal de que se trate.
 
 ### 3. Compensación
 
-Las partes contratantes, en lugar de la entrega de las monedas pactadas, al vencimiento del contrato, podrán convenir que se efectúe solamente la compensación en moneda chilena por las diferencias producidas entre los precios pactados a futuro y los precios referenciales de mercado que hayan estipulado en el respectivo contrato, de acuerdo con lo señalado en los numerales siguientes. Asimismo, la compensación puede convenirse como única forma de cumplimiento del contrato. Sin embargo, cuando se pacte la entrega efectiva de la moneda extranjera vendida contra recepción del pago en moneda chilena, deberá establecerse el procedimiento de compensación por el total o parte del contrato, como alternativa en caso de que, por no reunirse las condiciones exigidas, a que se refiere el N° 2 precedente, no pueda cumplirse, parcial o totalmente, con la entrega de la moneda extranjera pactada. 3.1. Contratos que involucren moneda chilena y una moneda extranjera.
+Las partes contratantes, en lugar de la entrega de las monedas pactadas a que se refiere el N° 2 precedente, al vencimiento del contrato, podrán convenir que se efectúe solamente la,compensación en moneda chilena por las diferencias producidas entre los precios pactados a futuro y los precios referenciales de mercado que hayan estipulado en el respectivo contrato, de acuerdo con lo señalado en los numerales siguientes.
 
-Para efectuar la compensación, el tipo de cambio convenido se aplicará al monto de la moneda extranjera pactada en el contrato, de modo de expresar su valor en pesos moneda chilena.
+4 .- Condiciones de los contratos.
 
-El tipo de cambio de referencia de mercado acordado por las partes, vigente en la fecha de vencimiento del contrato, se aplicará al monto de moneda extranjera pactado, con el objeto de expresar su valor en pesos moneda corriente nacional.
+Los contratos correspondientes a estas operaciones deberán ajustarse en sus términos, tipo de cambio, paridades y demás condiciones a los que normalmente se utilizan en los mercados nacional e internacional y que sean los prevalecientes en la fecha de su celebración.
 
-Cuando el valor en moneda chilena pactado en el contrato sea superior al respectivo valor de referencia de la moneda extranjera, el comprador pagará al vendedor la diferencia entre ambos importes. Por el contrario, si el valor en moneda chilena pactado en el contrato es inferior al respectivo valor de referencia de la moneda extranjera, el vendedor deberá pagar dicha diferencia al comprador.
+5.- Modificaciones a los contratos.
 
-3.2. Contratos que Involucren dos monedas extranjeras.
+Durante la vigencia del contrató las partes podrán, de común acuerdo, modificar la fecha de vencimiento, los precios pactados, los precios referenciales de mercado a utilizar en el mecanismo de compensación y los montos involucrados, los que deben corresponder a los prevalecientes en el mercado.
 
-Cuando un banco celebre un contrato de compraventa a futuro de moneda extranjera pagadero en otra moneda extranjera con otro banco o con otra persona natural o jurídica situada en el país, la compensación se efectuará sobre la base de la paridad pactada en relación con la paridad de referencia convenida para este fin, de modo tal que los importes de las monedas involucradas queden expresados en una misma denominación.
+### 6. Excepción a la obligación de liquidar la moneda extranjera
 
-La diferencia que se produzca entre ambos valores se convertirá a pesos chilenos, al tipo de cambio que se haya acordado para calcular el monto que debe compensarse.
+Las personas naturales o jurídicas residentes en el país distintas de los bancos, que compren moneda extranjera a futuro de conformidad con las normas de este Capítulo, efectuando el pago de su importe en pesos moneda chilena, no estarán obligadas a liquidar dicha moneda en el mercado cambiario formal, siempre que den cumplimiento a las normas y condiciones contenidas en el Capítulo VII del Título I antes mencionado.
 
-### 4. Precio y monto de las compraventas
-
-Las partes podrán convenir libremente los precios y montos en los contratos de las compraventas a futuro y los precios que servirán de referencia para determinar las diferencias en el caso de compensación, los que deberán corresponder siempre a los imperantes en el mercado.
-
-### 5. Transferibilidad de los contratos
-
-En los contratos deberá quedar expresamente señalado si los derechos contenidos en éstos tendrán el carácter de transferibles o intransferibles.
-
-### 6. Garantías
-
-Las partes contratantes podrán convenir libremente las eventuales garantías destinadas a caucionar el cumplimiento de los contratos.
-
-### 7. Modificaciones al contrato
-
-Durante la vigencia del contrato las partes podrán, de común acuerdo, modificar la fecha de vencimiento, los precios pactados, los precios referenciales de mercado a utilizar en el mecanismo de compensación y los montos involucrados.
-
-### 8. Excepción a la obligación de liquidar la moneda extranjera
-
-Las personas naturales o jurídicas residentes en el país distintas de los bancos, que compren moneda extranjera a futuro de conformidad con las normas de este Capítulo, efectuando el pago de su importe en pesos moneda chilena, no estarán obligadas a liquidar dicha moneda en el mercado cambiario formal, siempre que la destinen, en la misma fecha en que la reciban, a pagar una obligación con el exterior que tenga acceso al mercado antes mencionado.
-
-### 9. Instrucciones contables
+### 7. Instrucciones contables
 
 Las operaciones de compraventa a futuro (forwards) se registrarán de la siguiente forma:
 
-9.1. Compras a futuro de moneda extranjera con pago en moneda chilena.
+7.1. Compras a futuro de moneda extranjera con pago en moneda chilena.
 
 a) Moneda extranjera.
 
@@ -18960,7 +18938,7 @@ Haber: - "Acreedores por compras a futuro de divisas", por el valor en pesos que
 
 - "Utilidades diferidas por compraventas a futuro", de la partida 4127, por la diferencia entre el precio al contado de las divisas adquiridas y el precio que el banco se haya obligado a pagar a futuro.
 
-9.2. Ventas a futuro de moneda extranjera con pago en moneda chilena.
+7.2. Ventas a futuro de moneda extranjera con pago en moneda chilena.
 
 a) Moneda extranjera.
 
@@ -18978,11 +18956,11 @@ Haber: - "Cambio futuro", por el precio al contado de las divisas vendidas a fut
 
 - "Utilidades diferidas por compraventas a futuro", por la diferencia entre el precio al contado de las divisas vendidas y el precio que el comprador se haya obligado a pagar a futuro.
 
-9.3. Vencimiento de las compras y ventas.
+7.3. Vencimiento de las compras y ventas.
 
 En la fecha de vencimiento de los contratos de compra o venta a futuro de divisas, los bancos efectuarán los siguientes asientos:
 
-9.3.1. El banco que ha adquirido divisas a futuro.
+7.3.1. El banco que ha adquirido divisas a futuro.
 
 a) Moneda extranjera.
 
@@ -19004,7 +18982,7 @@ Haber: - "Caja" o la cuenta que corresponda por la entrega del importe convenido
 
 - "Cambio futuro", por el valor en pesos chilenos de las divisas compradas, calculado al tipo de cambio del mercado bancario, vigente en la fecha de la liquidación.
 
-9.3.2. El banco que ha vendido divisas a futuro.
+7.3.2. El banco que ha vendido divisas a futuro.
 
 a) Moneda extranjera.
 
@@ -19026,13 +19004,13 @@ Haber: - "Cambio mercado bancario", por el equivalente al contado de las divisas
 
 - "Deudores por ventas a futuro de divisas".
 
-9.4. Contratos de compraventa de una moneda extranjera pagaderos en moneda chilena que se solucionen por compensación.
+7.4. Contratos de compraventa de una moneda extranjera pagaderos en moneda chilena que se solucionen por compensación.
 
-Aquellos contratos de compras y ventas de divisas a futuro, en los que se pacte su cumplimiento mediante la compensación de la diferencia entre el precio convenido a futuro de la moneda extranjera y el precio de referencia en el mercado al contado estipulado en el contrato, se registrarán en la misma forma señalada en los numerales 9.1 y 9.2 de este título.
+Aquellos contratos de compras y ventas de divisas a futuro, en los que se pacte su cumplimiento mediante la compensación de la diferencia entre el precio convenido a futuro de la moneda extranjera y el precio de referencia en el mercado al contado estipulado en el contrato, se registrarán en la misma forma señalada en los numerales 7.1 y 7.2 de este título.
 
 Los contratos mencionados en el párrafo anterior, incluidos aquellos pactados con entrega de moneda extranjera pero que se solucionen parcial o totalmente mediante compensación, deberán registrarse al vencimiento de la siguiente forma:
 
-9.4.1. Compras a futuro de moneda extranjera con pago en moneda chilena, efectuadas por un banco y solucionadas por compensación.
+7.4.1. Compras a futuro de moneda extranjera con pago en moneda chilena, efectuadas por un banco y solucionadas por compensación.
 
 a) Moneda extranjera.
 
@@ -19050,7 +19028,7 @@ Haber: - "Cambio futuro", por el equivalente de la moneda extranjera al tipo de 
 
 - "Caja" o la cuenta que corresponda por la entrega de la diferencia entre el precio de las divisas pactado a futuro y el valor de referencia de ellas, en caso que éste sea inferior a aquél.
 
-9.4.2. Ventas a futuro de moneda extranjera con pago en moneda chilena, efectuadas por un banco y solucionadas por compensación.
+7.4.2. Ventas a futuro de moneda extranjera con pago en moneda chilena, efectuadas por un banco y solucionadas por compensación.
 
 a) Moneda extranjera.
 
@@ -19068,7 +19046,7 @@ Haber: - "Deudores por ventas a futuro de divisas", para revertir el importe en 
 
 - "Caja" o la cuenta que corresponda por la entrega de la diferencia entre el precio de las divisas pactado a futuro y el valor de referencia de ellas, en caso que éste sea superior a aquél.
 
-9.5. Contratación de la compraventa de una moneda extranjera con pago en otra moneda extranjera.
+7.5. Contratación de la compraventa de una moneda extranjera con pago en otra moneda extranjera.
 
 a) Por la moneda extranjera que se adquiere.
 
@@ -19082,7 +19060,7 @@ Debe: - "Contratos a futuro", por el monto del arbitraje.
 
 Haber: - "Moneda extranjera vendida a futuro-mercado local", de la partida 4127.
 
-9.6. Entrega y recepción de las monedas extranjeras pactadas en la compraventa.
+7.6. Entrega y recepción de las monedas extranjeras pactadas en la compraventa.
 
 a) Por la moneda extranjera que se recibe.
 
@@ -19114,31 +19092,31 @@ Haber: - "Cambio mercado bancario", por el equivalente de la moneda extranjera q
 
 - "Utilidades por contratos a futuro-mercado local", de la partida 7710, por la diferencia entre los importes que se registran en las cuentas "Cambio mercado bancario", de las monedas comprometidas en el contrato, cuando corresponda.
 
-9.7. Compraventas a futuro de monedas extranjeras pagaderas en otras monedas extranjeras que se solucionan mediante compensación.
+7.7. Compraventas a futuro de monedas extranjeras pagaderas en otras monedas extranjeras que se solucionan mediante compensación.
 
-La contratación de compraventas a futuro de monedas extranjeras pagaderas en otras monedas extranjeras en las que se pacte como mecanismo único o alternativo el procedimiento de compensación para su cumplimiento, será registrada de la misma forma señalada en el numeral 9.5.
+La contratación de compraventas a futuro de monedas extranjeras pagaderas en otras monedas extranjeras en las que se pacte como mecanismo único o alternativo el procedimiento de compensación para su cumplimiento, será registrada de la misma forma señalada en el numeral 7.5.
 
-En la fecha de vencimiento de los contratos que se solucionen mediante compensación, se revertirán los asientos contables señalados en el numeral 9.5 y se registrarán las compensaciones con abono a la cuenta "Utilidades por contratos a futuro-mercado local", al tratarse de una compensación a favor del banco, o con cargo a la cuenta "Pérdidas por contratos a futuro-mercado local", cuando se trate de una compensación de su cargo.
+En la fecha de vencimiento de los contratos que se solucionen mediante compensación, se revertirán los asientos contables señalados en el numeral 7.5 y se registrarán las compensaciones con abono a la cuenta "Utilidades por contratos a futuro-mercado local", al tratarse de una compensación a favor del banco, o con cargo a la cuenta "Pérdidas por contratos a futuro-mercado local", cuando se trate de una compensación de su cargo.
 
-9.8. Ajustes contables que deben efectuarse al cierre de cada mes.
+7.8. Ajustes contables que deben efectuarse al cierre de cada mes.
 
-9.8.1. Ajuste de las cuentas "Deudores por ventas a futuro de divisas" y "Acreedores por compras a futuro de divisas".
+7.8.1. Ajuste de las cuentas "Deudores por ventas a futuro de divisas" y "Acreedores por compras a futuro de divisas".
 
 En el caso que el pago en moneda chilena por las compras o ventas a futuro de divisas se exprese en términos reajustables, el monto registrado en las cuentas "Deudores por ventas a futuro de divisas" y "Acreedores por compras a futuro de divisas", se ajustará el último día de cada mes, de acuerdo con la modalidad de reajuste pactado, con cargo o abono a la cuenta "Cambio futuro", según corresponda.
 
-9.8.2. Ajuste de las cuentas "Pérdidas diferidas por compraventas a futuro" y "Utilidades diferidas por compraventas a futuro".
+7.8.2. Ajuste de las cuentas "Pérdidas diferidas por compraventas a futuro" y "Utilidades diferidas por compraventas a futuro".
 
 Los importes registrados en estas cuentas se traspasarán linealmente a la cuenta "Cambio futuro" en forma proporcional al tiempo transcurrido desde la fecha en que se haya celebrado el respectivo contrato en relación con el plazo pactado. Este ajuste se efectuará, a lo menos, al término de cada mes.
 
 En caso de que, como consecuencia de modificarse el monto, el tipo de cambio o el plazo convenidos en el contrato, varíen las diferencias registradas en las cuentas "Pérdidas diferidas por compraventas a futuro" o "Utilidades diferidas por compraventas a futuro", se deberá efectuar el cálculo del importe que corresponda de acuerdo con los nuevos montos resultantes y registrarse el ajuste que proceda contra la cuenta "Cambio futuro".
 
-9.8.3. Ajuste de la cuenta "Cambio futuro".
+7.8.3. Ajuste de la cuenta "Cambio futuro".
 
 El último día de cada mes, los bancos ajustarán el saldo de la cuenta "Cambio futuro", de modo que represente el equivalente de la respectiva cuenta "Conversión futuro", calculado al tipo de cambio al contado, vigente al término del mes correspondiente. La diferencia que resultare de ese ajuste se registrará en la cuenta "Pérdidas por compraventas a futuro" o "Utilidades por compraventas a futuro", de la partida 5710 y 7710, respectivamente.
 
 Al mes siguiente, antes de efectuar el nuevo ajuste de la cuenta "Cambio futuro", se revertirá el importe correspondiente al ajuste del mes precedente.
 
-9.8.4. Ajuste por los contratos de compraventas a futuro de monedas extranjeras pagaderas en otras monedas extranjeras
+7.8.4. Ajuste por los contratos de compraventas a futuro de monedas extranjeras pagaderas en otras monedas extranjeras
 
 El último día de cada mes, los bancos procederán a calcular y registrar provisionalmente el efecto de la variación de la paridad neta que a esa fecha hayan experimentado los contratos vigentes. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hayan efectuado en el mes precedente.
 
@@ -19148,7 +19126,7 @@ El ajuste se realizará sobre la base de las paridades que tengan entre sí las 
 
 Para los fines de calcular dicha variación en términos de pesos moneda chilena, se considerará el efecto de la variación de paridad sobre la moneda extranjera de contrapartida, esto es, la que debe recibirse en pago de la moneda que se vende o la que debe entregarse por la que se compra. El tipo de cambio que se aplicará para la conversión a moneda nacional, será el de representación contable vigente a la fecha del ajuste.
 
-9.9. Garantías.
+7.9. Garantías.
 
 Las garantías que los bancos reciban por las operaciones de que trata este título, se registrarán en la cuenta de orden "Garantías por compraventas y arbitrajes a futuro" de la partida 9210 ó 9220, según proceda.
 
@@ -19160,9 +19138,7 @@ En las operaciones antes mencionadas podrá convenirse la entrega de las respect
 
 Cuando se convenga la entrega de las monedas extranjeras pactadas, contra el pago en moneda chilena, deberá estipularse, en los contratos con personas naturales o jurídicas distintas de bancos, el procedimiento de compensación como alternativa para el caso en que no se reúnan las condiciones exigidas para la entrega de las monedas pactadas, o bien, para solucionar la diferencia que se genere cuando la obligación que dichas personas deban pagar con divisas del mercado cambiario formal, sea inferior al monto convenido para ese efecto en el respectivo contrato.
 
-Las operaciones de compraventa a futuro contenidas en un mismo contrato, serán registradas individualmente, como si se tratara de operaciones que constaran en contratos separados, ya sea que el cumplimiento de dichas operaciones sea mediante la entrega de la moneda pactada o mediante el procedimiento de compensación.
-
-Para tal efecto, los bancos deberán aplicar las instrucciones contables contenidas en el N° 9 del título II de este Capítulo.
+Para tal efecto, los bancos deberán aplicar las instrucciones contables contenidas en el N° 7 del título II de este Capítulo.
 
 ### IV. OTRAS INSTRUCCIONES
 
@@ -19170,13 +19146,11 @@ Para tal efecto, los bancos deberán aplicar las instrucciones contables conteni
 
 Las operaciones de compraventas a futuro de moneda extranjera (forward), estarán afectas a los límites de que trata el artículo 84 N° 1 de la Ley General de Bancos, por la diferencia entre el precio pactado a futuro por dichas operaciones y el precio al contado de éstas, a la fecha de celebración del pacto, que sea de cargo de los respectivos obligados. No obstante, dichos importes nominales no serán incluidos en los archivos de deudores que deben remitirse a esta Superintendencia.
 
-Por otra parte las obligaciones que un banco mantenga por compraventas a futuro de moneda extranjera (forward), estarán afectas al límite a que se refiere el artículo 81 de la Ley General de Bancos, por la diferencia entre el precio pactado a futuro por dichas operaciones y el precio al contado de éstas, a la fecha de celebración del pacto, que sea de cargo del banco.
-
 En todo caso, las operaciones antes mencionadas que realicen los bancos, registradas en las partidas 2127 y 4127, quedan sujetas al margen a que se refiere el título IV del Capítulo 12-9 de esta Recopilación.
 
-### 2. Cómputo para efectos de límites de obligaciones
+2.- Información al Banco Central de Chile.
 
-Para el cómputo de las obligaciones de los bancos de que trata el segundo párrafo del N° 1 precedente, las diferencias de su cargo se mantendrán registradas en la cuenta "Endeudamiento por contratos de compraventa y arbitrajes a futuro" de la partida 9700.
+Los bancos que realicen compras o ventas a futuro de monedas, deberán presentar al Banco Central de Chile, dentro de los plazos que señala, la información que se establece en el Capítulo VII del Título I del Compendio de Normas de Cambios Internacionales o la que, de acuerdo a sus facultades, solicite el Instituto Emisor.
 
 CAPITULO 13-3 (Bancos)
 
@@ -19922,7 +19896,7 @@ TRANSACCIONES A FUTURO EN MERCADOS EXTRANJEROS. AVALES QUE PUEDEN OTORGAR LOS BA
 
 1. Avales y fianzas destinados a garantizar los pagos derivados de transacciones a futuro.
 
-De acuerdo con las disposiciones contenidas en el Capítulo VIII del Título I del Compendio de Normas de Cambios Internacionales, las personas residentes en el país están facultadas para realizar las operaciones a futuro de que trata dicho Capítulo, con el objeto de cubrir el riesgo inherente a flujos futuros de productos o monedas extranjeras, correspondientes a operaciones ya realizadas o por realizarse en el mercado cambiario formal.
+De acuerdo con las disposiciones contenidas en el Capítulo VI del Título I del Compendio de Normas de Cambios Internacionales, las personas residentes en el país están facultadas para realizar las operaciones a futuro de que trata dicho Capítulo, con el objeto de cubrir el riesgo inherente a flujos futuros de productos o monedas extranjeras, correspondientes a operaciones ya realizadas o por realizarse en el mercado cambiario formal.
 
 Las obligaciones de pago que se generen con motivo de la realización de las operaciones antes mencionadas, pueden ser avaladas y afianzadas por los bancos, de acuerdo con las siguientes instrucciones:
 
@@ -19932,7 +19906,7 @@ Los bancos podrán caucionar mediante aval o fianza, los pagos derivados de los 
 
 a) Que la solicitud de aval o caución indique claramente el producto y su volumen físico o el monto de la moneda extranjera cubiertos mediante las transacciones que se garantizarán, como asimismo el período de vigencia de la garantía solicitada.
 
-b) Que el interesado se comprometa a dar estricto cumplimiento a todas las disposiciones contenidas en el Capítulo VIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, aplicables a la operación que será avalada.
+b) Que el interesado se comprometa a dar estricto cumplimiento a todas las disposiciones contenidas en el Capítulo VI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, aplicables a la operación que será avalada.
 
 c) Que los avales y fianzas que se otorguen para caucionar estos compromisos, no excedan los límites de que trata el N° 8 del Capítulo 8-10 de esta Recopilación Actualizada de Normas.
 
@@ -19960,743 +19934,11 @@ Los importes que los bancos desembolsen cuando efectúen pagos en su calidad de 
 
 ### 3. Márgenes legales
 
-Los compromisos que los bancos contraigan por esta clase de obligaciones, estarán sujetos a los límites sobre avales y fianzas de que trata el N° 8 del Capítulo 8-10 de esta Recopilación de Normas, sin perjuicio de los márgenes legales de que tratan los artículos 81 y 84 de la Ley General de Bancos.
+Los compromisos que los bancos contraigan por esta clase de obligaciones, estarán sujetos a los límites sobre avales y fianzas de que trata el N° 8 del Capítulo 8-10 de esta Recopilación de Normas, sin perjuicio de los límites de crédito del artículo 84 de la Ley General de Bancos.
 
 ### 4. Antecedentes de los avales o fianzas otorgados
 
 Los bancos deberán archivar en una carpeta individual, los antecedentes completos relativos a las operaciones amparadas por los avales o fianzas otorgados, incluida una copia del documento en que se dejó constancia de la garantía bancaria.
-
-CAPITULO 13-22 (Bancos)
-
-MATERIA:
-
-PROTECCION DE TASAS DE INTERES.
-
-### 1. Generalidades
-
-Los bancos pueden realizar las operaciones a futuro de que trata el Capítulo VI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, con el único objeto de cubrir el riesgo derivado de las fluctuaciones de las tasas de interés en el mercado internacional, que les afecten por los descalces que registren al mantener activos a tasas fijas y pasivos a tasas variables o viceversa, como asimismo, en los casos en que las tasas de interés de sus activos y pasivos son variables, pero ellas están pactadas a plazos distintos.
-
-2. Entidades con las que se pueden contratar operaciones de protección de tasas de Interés a futuro.
-
-Las instituciones financieras podrán efectuar las operaciones de que trata este Capítulo, con Corredores de Bolsas Oficiales Extranjeras (Stock Exchange Brokers) o con agentes de valores (Security Dealers) o intermediarios (Brokers), debidamente autorizados por las autoridades locales donde operen, o con bancos del exterior.
-
-No obstante lo anterior, estas operaciones sólo se podrán realizar con entidades distintas de Bolsas Oficiales Extranjeras (Over the Counter), cuando la moneda a la que se refiera la tasa de interés que se cubra, sea una moneda que se transe en las Bolsas de futuros u opciones, o bien, sea una operación para la cual existan cotizaciones diarias en los mercados internacionales.
-
-3. Operaciones de protección de tasas de interés a futuro que se pueden realizar.
-
-Las instituciones financieras pueden realizar compras o ventas de contratos a futuro (Futures) de tasas de interés en Bolsas Oficiales Extranjeras y celebrar contratos swaps de tasas de interés, acuerdos de tasas de interés a futuro (forward-"FRA's"), mecanismos de protección de tasas de interés conocidos internacionalmente como "CAP", "FLOOR" Y "COLLAR", con las demás entidades señaladas en el N° 2 precedente.
-
-Además, las instituciones financieras pueden comprar opciones sobre futuros de tasas de interés en sus modalidades de venta (Put) o de compra (Call) y venderlas, en Bolsas Oficiales Extranjeras o fuera de ellas.
-
-Dichas operaciones deben tener por objeto cubrir el riesgo de tasas de interés y tanto su realización como la posición que tomen las instituciones financieras, debe corresponder a lo siguiente:
-
-a) La venta neta de futuros o forwards, cuando se quiera llevar a tasa fija la de un pasivo que ha sido contraído a tasa variable, o bien, cuando se quiera llevar a tasa variable la de un activo que devenga una tasa fija.
-
-b) La compra neta de futuros o forwards, cuando se quiera llevar a tasa variable la tasa de interés de un pasivo que ha sido contraído a tasa fija, o bien, cuando se quiera fijar la tasa de interés de un activo.
-
-c) La compra de un "CAP", incluyendo o no la venta de un "FLOOR", cuando se tenga un pasivo a tasa variable respecto del cual se quiera limitar el riesgo de alza de la tasa de interés.
-
-d) La compra de un "FLOOR", incluyendo o no la venta de un "CAP", cuando se tenga un activo a una tasa variable, respecto del cual se quiere asegurar un rendimiento mínimo.
-
-e) La realización de operaciones "Swaps" para llevar tasas variables a fijas o para llevar tasas fijas a variables, tanto de activos como de pasivos.
-
-### 4. Autorización del Banco Central de Chile
-
-Las instituciones financieras que decidan contratar las operaciones a futuro de que se trata, deberán obtener previamente la autorización del Banco Central de Chile. Tales autorizaciones tendrán el plazo de vigencia que fije el Instituto Emisor.
-
-### 5. Facultad de contratar líneas de crédito y adquirir divisas
-
-Las instituciones que obtengan la autorización antes señalada, podrán contratar con la entidad que actúe como contraparte, créditos o líneas de crédito en moneda extranjera, así como adquirir divisas en el mercado cambiario formal exentas de la obligación de liquidar, destinadas exclusivamente a:
-
-a) Constitución de márgenes o garantías de los contratos suscritos.
-
-b) Costos propios de la compra y liquidación de opciones Call y Put.
-
-c) Compensaciones netas por fluctuaciones de tasas de interés, producidas durante la vigencia de los contratos.
-
-d) Comisiones derivadas de las transacciones realizadas.
-
-e) Amortización y pago de intereses de las referidas líneas de crédito.
-
-Las líneas de crédito o los créditos que se contraten no estarán afectos a las disposiciones contenidas en el Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile.
-
-Por su parte, las divisas que se hayan adquirido en el mercado cambiario formal para los fines antedichos, deberán liquidarse en el mismo mercado a más tardar a los treinta días siguientes al vencimiento de la operación cubierta, si al término de la vigencia de ésta, se mantienen posiciones abiertas.
-
-### 6. Obligación de retomar y liquidar los importes percibidos
-
-Las instituciones financieras autorizadas para realizar estas operaciones, tendrán la obligación de retomar y liquidar los importes que perciban por los siguientes conceptos:
-
-a) Devolución de márgenes o garantías por los contratos.
-
-b) Ingresos propios de la venta y liquidación de opciones.
-
-c) Compensaciones netas por fluctuaciones de tasas de interés.
-
-d) Cualesquiera otros ingresos que provengan directamente de las operaciones de que trata este Capítulo.
-
-La obligación de retomar los importes antes mencionados, no será exigible cuando la respectiva moneda extranjera sea destinada a los fines señalados en el N° 5 precedente.
-
-### 7. Plazo para efectuar el retorno y liquidación de divisas
-
-El importe de moneda extranjera recibido por los conceptos a que se refiere el N° 6 precedente, deducidos los montos destinados a efectuar pagos en el exterior derivados de las operaciones de que trata este Capítulo, deberá ser retornado y liquidado dentro de los plazos que fijan las normas del Banco Central de Chile.
-
-Por otra parte, los Bancos no están obligados a retornar, y liquidar los ingresos netos que obtengan por concepto de valoración diaria de contratos a futuro, ni los saldos que mantengan en el exterior sin tener posiciones abiertas. En caso que decidan retornar dichos importes, deberán cumplir ese trámite por intermedio del mercado cambiario formal y liquidarlos dentro de los plazos establecidos por el Instituto Emisor.
-
-### 8. Instrucciones contables
-
-8.1. Garantías otorgadas a Corredores.
-
-8.1.1. Adquisición de las divisas para constituir la garantía.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión mercado bancario" de la partida 2505 ó 4505.
-
-Haber: - "Conversión garantía por contratos a futuro de tasas de interés", de la partida 4525.
-
-En estas cuentas se registrará el importe de la moneda extranjera adquirida para enterar el depósito destinado a cumplir los márgenes de garantía exigidos, sobre contratos de cobertura a futuro de tasas de interés.
-
-b) Moneda chilena.
-
-Debe: - "Cambio garantía por contratos a futuro de tasas de interés", de la partida 2525.
-
-Haber: - "Cambio mercado bancario" de la partida 2505 ó 4505.
-
-8.1.2. Constitución de la garantía.
-
-a) En efectivo.
-
-Debe: - "Garantías por contratos a futuro de tasas de interés", de la partida 1775.
-
-Haber: - La cuenta que corresponda por el giro de la moneda extranjera para entregar el importe que se constituirá para cumplir con el margen de garantía exigido.
-
-b) Carta de crédito stand by.
-
-Debe: - "Cauciones otorgadas por contratos a futuro de tasas de interés", de la partida 9290.
-
-Haber: - La cuenta de orden de la partida 9900.
-
-Los bancos registrarán en estas cuentas el importe en moneda extranjera de las cartas de crédito u otros documentos emitidos para cumplir el margen de garantía de los contratos vigentes.
-
-8.2. Operaciones realizadas en Bolsas Oficiales Extranjeras.
-
-8.2.1. Compra de contratos a futuro.
-
-Debe: - "Contratos a futuro de cobertura de tasas de interés comprados", de la partida 9550.
-
-Haber: - La cuenta de orden de la partida 9900.
-
-8.2.2. Venta de contratos a futuro.
-
-Debe: - "Contratos a futuro de cobertura de tasas de interés vendidos", de la partida 9550.
-
-Haber: - La cuenta de orden de la partida 9900.
-
-Al efectuar la liquidación de los referidos contratos, mediante la respectiva compra o venta, se revertirán los asientos contables señalados en los numerales 8.2.1 u 8.2.2, según corresponda. Asimismo, procederán a revertir, cuando proceda, los asientos contables relativos a las garantías que se mantuvieren por los contratos que se liquiden.
-
-8.2.3. Pago de comisiones a los Corredores.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión mercado bancario".
-
-Haber: - La cuenta que corresponda por el giro para efectuar el pago por este concepto.
-
-b) Moneda chilena.
-
-Debe: - "Comisiones pagadas por contratos a futuro de tasas de interés" de la partida 5530.
-
-Haber: - "Cambio mercado bancario".
-
-8.3. Contratos celebrados fuera de Bolsas Oficiales Extranjeras.
-
-Debe: - "Contratos de protección de tasas de interés", por el monto del capital sobre el cual se hubiere acordado la protección de la tasa de interés, de la partida 9551.
-
-Haber: - La cuenta de orden de la partida 9900.
-
-Los importes registrados en estas cuentas se revertirán al liquidarse los respectivos contratos.
-
-8.4. Opciones.
-
-8.4.1. Compra de opciones put (de venta).
-
-Debe: - "Opciones put compradas sobre contratos de cobertura de tasas de interés", de la partida 9550.
-
-Haber: - La cuenta de orden de la partida 9900.
-
-Los importes registrados en estas cuentas se revertirán al extinguirse o liquidarse la opción.
-
-8.4.2. Compra de opciones call (de compra).
-
-Debe: - "Opciones call compradas sobre contratos de cobertura de tasas de interés", de la partida 9550.
-
-Haber: - La cuenta de orden de la partida 9900.
-
-Los importes registrados en estas cuentas se revertirán al extinguirse o liquidarse la opción.
-
-8.4.3. Prima por la compra de opciones.
-
-Los importes que se paguen por la adquisición de las opciones, se registrarán como sigue:
-
-a) Moneda extranjera.
-
-Debe: - "Conversión mercado bancario".
-
-Haber: - La cuenta que corresponda por el giro para pagar la prima.
-
-b) Moneda chilena.
-
-Debe: - "Primas por compra de opciones sobre contratos de tasas de interés", de la partida 5530.
-
-Haber: - "Cambio mercado bancario".
-
-8.4.4. Liquidación de opciones.
-
-Las diferencias que resulten a favor de las instituciones financieras al liquidar las opciones, se registrarán de la siguiente forma:
-
-a) Moneda extranjera.
-
-Debe: - La cuenta que corresponda por la recepción del importe en moneda extranjera.
-
-Haber: - "Conversión mercado bancario".
-
-b) Moneda chilena.
-
-Debe: - "Cambio mercado bancario".
-
-Haber: - "Utilidades de opciones sobre contratos de tasas de interés", de la partida 7710.
-
-8.5. Liquidación de las diferencias derivadas de los contratos a futuro.
-
-Las diferencias que resulten a favor de las instituciones financieras o que sean de su cargo, ya sea durante la vigencia de los contratos o al proceder a su liquidación, serán registradas como se señala en los siguientes numerales:
-
-8.5.1. Diferencias a favor.
-
-a) Moneda extranjera.
-
-Debe: - La cuenta que corresponda por la recepción de la diferencia.
-
-Haber: - "Conversión mercado bancario".
-
-b) Moneda chilena.
-
-Debe: - "Cambio mercado bancario".
-
-Haber: - "Utilidades contratos a futuro de tasas de interés", de la partida 7710.
-
-8.5.2. Diferencias de su cargo.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión mercado bancario".
-
-Haber: - La cuenta que corresponda por el giro para pagar la diferencia.
-
-b) Moneda chilena.
-
-Debe: - "Pérdidas contratos a futuro de tasas de interés", por el equivalente en moneda chilena del importe pagado al exterior, de la partida 5710.
-
-Haber: - "Cambio mercado bancario".
-
-8.6. Gastos de correo y de comunicaciones.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión mercado bancario".
-
-Haber: - La cuenta que corresponda por el giro para pagar el respectivo gasto.
-
-b) Moneda chilena.
-
-Debe: - La cuenta de resultado que proceda según el gasto de que se trate.
-
-Haber: - "Cambio mercado bancario".
-
-8.7. Pago de primas, honorarios o comisiones.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión mercado bancario", por el importe de la prima, honorario o comisión.
-
-Haber: - La cuenta que corresponda por el desembolso de la moneda extranjera.
-
-b) Moneda chilena.
-
-Debe: - "Comisiones pagadas por contratos de tasas de interés", por el equivalente en moneda chilena del respectivo importe en moneda extranjera, de la partida 5530.
-
-Haber: - "Cambio mercado bancario".
-
-8.8. Ajustes contables que deben efectuarse al cierre de cada mes.
-
-8.8.1. Contratos a futuro transados en Bolsas Oficiales Extranjeras.
-
-El último día de cada mes, las instituciones bancarias procederán a calcular y registrar provisionalmente la variación de precio que a esa fecha hayan experimentado los contratos que mantengan vendidos a futuro por cobertura de tasas de interés. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hayan contabilizado en el mes precedente.
-
-Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo o abono, según proceda, a la cuenta "Variación provisional de contratos a futuro por cobertura de tasas de interés", de la partida 2120 ó 4120, y con abono a la cuenta "Utilidades contratos a futuro de tasas de interés" o con cargo a "Pérdidas contratos a futuro de tasas de interés", según corresponda.
-
-El ajuste se realizará sobre la base de las variaciones de precio que, con respecto al precio pactado a futuro, hayan experimentado al último día del respectivo mes, los contratos que se mantengan vendidos, debiendo considerar, en todo caso, los ajustes parciales que pudieran haberse efectuado durante su vigencia, ya sea mediante liquidación de diferencias a su favor o la remesa de las diferencias que sean de su cargo.
-
-El importe resultante se convertirá a moneda chilena al tipo de cambio de representación contable, vigente en la fecha del ajuste.
-
-8.8.2. Contratos celebrados fuera de Bolsas Oficiales Extranjeras.
-
-El último día de cada mes, las instituciones bancarias procederán a calcular las variaciones de las tasas de interés pactadas en cada uno de los respectivos contratos y, en caso de determinar una diferencia a su favor o de cargo suyo, contabilizarán provisionalmente dicho importe. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hubieren contabilizado en el mes precedente.
-
-Dichos ajustes se registrarán por el equivalente en pesos moneda chilena de la respectiva moneda extranjera, con cargo o abono, según proceda, a la cuenta "Variación provisional por contratos de tasas de interés", cuyo saldo se demostrará en la partida 2120 ó 4120 y con abono a la cuenta "Utilidades contratos a futuro de tasas de interés" o con cargo a "Pérdidas contratos a futuro de tasas de interés", según corresponda.
-
-Para determinar el equivalente en pesos de las mencionadas diferencias en moneda extranjera, se utilizará el tipo de cambio de representación contable, vigente en la fecha de ajuste.
-
-8.8.3. Opciones.
-
-El último día de cada mes, los bancos procederán a calcular y registrar provisionalmente la variación de precio a su favor que hayan experimentado las opciones compradas.
-
-Al mes siguiente, antes de registrar el nuevo ajuste o al momento de efectuar la liquidación de las respectivas opciones procederán a revertir el que hayan contabilizado en el mes precedente.
-
-Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo a la cuenta "Variación provisional de opciones sobre contratos de tasas de interés", de la partida 2120 y con abono a la cuenta "Utilidades de opciones sobre contratos de tasas de interés" de la partida 7710.
-
-El ajuste corresponderá exclusivamente al valor de la prima de la respectiva opción, antes de que ésta expire o se ejerza. El importe de dicho valor se convertirá a moneda chilena, en forma extracontable, al tipo de cambio de representación contable, vigente a la fecha del ajuste.
-
-8.8.4. Ajuste cuenta "cambio".
-
-Además de los ajustes indicados anteriormente, los bancos deberán ajustar el saldo de la cuenta "Cambio garantía por contratos a futuro de tasas de interés", de acuerdo con las normas generales sobre la materia.
-
-9.- Operaciones Swaps.
-
-Las operaciones "Swaps" de intereses que pueden realizar los bancos de acuerdo con las disposiciones del Banco Central de Chile, son aquellas en las que se pacta con una contraparte el pago recíproco de intereses, calculados a las tasas fija y variable convenidas, sobre un monto denominado teórico o nocional y durante un plazo estipulado. En estas operaciones también se fijan las fechas en las que se liquidarán los intereses durante la vigencia del contrato, cuyo pago se efectúa por el vendedor o por el comprador del swap, según corresponda, por el monto neto entre los intereses fijos y los variables.
-
-En caso que se pacte más de una operación en un mismo contrato, cada una de ellas deberá constar separadamente de las otras.
-
-Cada una de las operaciones contenidas en un mismo contrato será registrada individualmente, debiéndose aplicar las instrucciones contables contenidas en el numeral 8.3 de este Capítulo.
-
-### 10. Información al Banco Central de Chile
-
-Los bancos deberán enviar al Banco Central de Chile, dentro de los dos días hábiles bancarios siguientes a la fecha en que efectúen compras o ventas de divisas para sí o para otras personas correspondientes a las operaciones de que trata este Capítulo, copia de las respectivas planillas de ingreso y egreso que emitan por tales operaciones.
-
-Además, las instituciones financieras deben enviar al Instituto Emisor, toda la información que se exige en el Capítulo VI del Título I, antes mencionado, correspondiente a las operaciones que realicen y a los créditos y líneas de crédito que hayan contratado para esos Fines.
-
-### 11. Márgenes legales
-
-Los contratos de protección de tasa de interés que las instituciones Financieras celebren con instituciones del exterior, no afectan los límites de que tratan los artículos 81 y 84 de la Ley General de Bancos. No obstante, las cauciones que emitan las entidades Financieras, como las cartas de crédito "Stand-by" en el caso de los bancos, a que se refiere la letra b) del numeral 8.1.2 anterior y que se registran en la partida 9290, se incluirán en el monto de obligaciones afectas al límite de endeudamiento establecido en el artículo 81 de la Ley General de Bancos.
-
-CAPITULO 13-23 (Bancos)
-
-MATERIA:
-
-OPERACIONES A FUTURO DE MONEDAS EXTRANJERAS EN EL MERCADO EXTERNO.
-
-### 1. Generalidades
-
-Los bancos están facultados para realizar, por cuenta propia, las operaciones a futuro de que trata el Capítulo VIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, solamente cuando ellas estén referidas a monedas extranjeras. Estas operaciones quedan sujetas al margen de que trata el Capítulo III.B.2 del Compendio de Normas Financieras y el título IV del Capítulo 12-9, de esta Recopilación, para operaciones activas y pasivas.
-
-2. Entidades con las que se pueden contratar operaciones a futuro de monedas extranjeras.
-
-Los bancos podrán efectuar las operaciones de que trata este Capítulo, con corredores de Bolsas Oficiales Extranjeras debidamente registrados (Stock Exchange Brokers) o con agentes de valores (Security Dealers) o intermediarios (Brokers), debidamente autorizados por las autoridades locales donde operen, o con bancos del exterior.
-
-No obstante lo anterior, estas operaciones sólo se podrán realizar con entidades distintas de Bolsas Oficiales Extranjeras, cuando la moneda que se cubra, sea una moneda que se transe en las Bolsas de futuros u opciones, o bien, sea una operación para la cual existan cotizaciones diarias en los mercados internacionales.
-
-### 3. Operaciones a futuro que se pueden realizar
-
-Los bancos pueden realizar compras o ventas de contratos a futuro (Futures) de monedas en Bolsas Oficiales Extranjeras y celebrar contratos swaps de monedas y contratos forward de monedas, con las demás personas señaladas en el N° 2 precedente.
-
-Además, los bancos pueden comprar opciones sobre futuros en sus modalidades de venta (Put) o de compra (Call) y venderlas, en Bolsas Oficiales Extranjeras o fuera de ellas.
-
-### 4. Facultad de contratar líneas de crédito y adquirir divisas
-
-Los bancos están facultados para contratar, con la entidad que actúe como contraparte, créditos o líneas de crédito en moneda extranjera y para adquirir divisas en el mercado cambiario formal destinadas exclusivamente a:
-
-a) Constitución de márgenes o garantías por los contratos que suscriban.
-
-b) Costos propios de la compra y liquidación de opciones call y Put.
-
-c) Compensaciones netas por fluctuaciones de precios, producidas durante la vigencia de los contratos.
-
-d) Comisiones derivadas de las transacciones realizadas.
-
-e) Amortización y pago de intereses de las referidas líneas de crédito o créditos externos.
-
-Los créditos externos antes mencionados no estarán afectos a las disposiciones contenidas en el Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, en la medida que concuerden con los montos y plazos de las operaciones financiadas con ellos.
-
-### 5. Obligación de liquidar los ingresos obtenidos
-
-Los bancos que realicen estas operaciones, tendrán la obligación de retornar y liquidar los importes que perciban por los siguientes conceptos:
-
-a) Devolución de márgenes o garantías por los contratos suscritos.
-
-b) Ingresos propios de la venta y liquidación de opciones Call y Put.
-
-c) Compensaciones netas por fluctuaciones de monedas.
-
-d) Cualesquiera otros ingresos que provengan directamente de las operaciones a futuro de que trata este Capítulo.
-
-La obligación de retomar los importes antes mencionados, no será exigible cuando la respectiva moneda extranjera sea destinada a los fines señalados en el N° 4 precedente.
-
-### 6. Plazo para efectuar el retorno y liquidación de divisas
-
-El importe de moneda extranjera recibido por los conceptos a que se refiere el N° 5 precedente, deducidos los montos destinados a efectuar pagos en el exterior derivados de las operaciones de que trata este Capítulo, deberá ser retornado y liquidado dentro de los plazos que fijan las normas del Banco Central de Chile.
-
-Por otra parte, los Bancos no están obligados a retornar y liquidar los ingresos netos que obtengan por concepto de valoración diaria de contratos a futuro, ni los saldos que mantengan en el exterior sin tener posiciones abiertas. En caso que decidan retornar dichos importes, deberán cumplir ese trámite por intermedio del mercado cambiario formal y liquidarlos dentro de los plazos establecidos por el Instituto Emisor.
-
-### 7. Normas contables
-
-Los bancos registrarán las operaciones de que se trata, de la siguiente forma:
-
-7.1. Garantías otorgadas a Corredores.
-
-7.1.1. Adquisición de divisas para constituir garantía.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión Mercado Bancario" de la partida 2505 ó 4505.
-
-Haber: - "Conversión-Divisas para garantía contratos a futuro", de la partida 4525.
-
-b) Moneda chilena.
-
-Debe: - "Cambio-Divisas para garantía contratos a futuro", de la partida 2525.
-
-Haber: - "Cambio Mercado Bancario" de la partida 2505 ó 4505.
-
-7.1.2. Constitución de la garantía.
-
-a) En efectivo:
-
-Debe: - "Garantías en efectivo por contratos a futuro de monedas extranjeras", de la partida 1775.
-
-Haber: - La cuenta que corresponda por el giro de la moneda extranjera para entregar el importe que se constituirá para cumplir con el margen de garantía de los contratos a futuro vigentes.
-
-b) Carta de Crédito Stand By.
-
-Debe: - "Cauciones otorgadas por contratos a futuro moneda extranjera", por el monto de la carta de crédito u otro documento, de la partida 9290.
-
-Haber: - La cuenta de orden de la partida 9900.
-
-7.2. Compra y venta de contratos a futuro en Bolsas Oficiales Extranjeras.
-
-Los contratos de compra o venta a futuro de moneda extranjera comprenden, además de la moneda que se "adquiere" o se "vende" en esa forma, aquélla mediante la cual se pagará el precio del contrato de compra o de venta. En consecuencia, cada transacción comprenderá dos monedas: la que se adquiere o se vende por medio del contrato correspondiente y la moneda en la que se ha fijado el precio de la transacción a futuro. Para los fines de reflejar adecuadamente en la contabilidad del banco, tanto el derecho como la obligación emanada de estos contratos a futuro, habrá que registrar tales derechos y deberes en las monedas que corresponda.
-
-7.2.1. Compra de contratos a futuro.
-
-a) Por el importe de los contratos en la moneda que ellos representan.
-
-Debe: - "Contratos a futuro moneda extranjera adquiridos" de la partida 2127.
-
-Haber: - "Contratos a futuro", de la partida 4525 ó 2525.
-
-b) Por el contravalor de los contratos en la moneda del precio pactado.
-
-Debe: - "Contratos a futuro".
-
-Haber: - "Contravalor de contratos a futuro moneda extranjera adquiridos", de la partida 4127.
-
-7.2.2. Venta de contratos a futuro.
-
-a) Por el importe de los contratos vendidos en la moneda que ellos representan.
-
-Debe: - "Contratos a futuro".
-
-Haber: - "Contratos a futuro moneda extranjera vendidos", de la partida 4127.
-
-b) Por el contravalor de los contratos en la moneda del precio pactado.
-
-"Contravalor contratos a futuro moneda extranjera vendidos", de la partida 2127.
-
-Debe:- "Contravalor contratos a futuro moneda extranjera vendidos", de la partida 2127
-
-Haber: - "Contratos a futuro".
-
-7.2.3. Remesas durante la vigencia de los contratos.
-
-Los importes que los bancos reciban de sus corredores y los que remitan a éstos por concepto de garantía, fluctuaciones de precio u otros similares, serán registrados de la siguiente forma:
-
-7.2.3.1. Importes recibidos del corredor.
-
-a) Moneda extranjera.
-
-Debe: - La cuenta que corresponda por la recepción del importe respectivo y, en caso que el monto recibido se encuentre registrado como garantía constituida,
-
-- "Conversión-Divisas para garantía contratos a futuro".
-
-Haber: - "Conversión Mercado Bancario" y, cuando la remesa corresponda a un aumento de la garantía,
-
-- "Garantías en efectivo por contratos a futuro de monedas extranjeras".
-
-b) Moneda chilena.
-
-Debe: - "Cambio Mercado Bancario".
-
-Haber: - "Utilidades por contratos a futuro-mercado externo", de la partida 7710, o bien, en caso que el importe recibido se encontrare registrado como garantía constituida,
-
-- "Cambio-Divisas para garantía contratos a futuro".
-
-7.2.3.2. Importes remesados al corredor.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión Mercado Bancario" y, cuando la remesa corresponda a un aumento de la garantía,
-
-- "Garantías en efectivo por contratos a futuro de monedas extranjeras".
-
-Haber: - La cuenta que corresponda por el giro para efectuar la remesa al corredor y, cuando proceda,
-
-- "Conversión-Divisas para garantía contratos a futuro".
-
-b) Moneda chilena.
-
-Debe: - "Pérdidas por contratos a futuro-mercado externo", de la partida 5710, o bien en el caso que el importe remesado pase a incrementar la garantía constituida,
-
-- "Cambio-Divisas para garantía contratos a futuro".
-
-Haber: - "Cambio Mercado Bancario".
-
-7.2.4. Liquidación de los contratos.
-
-La liquidación de los contratos a futuro en sus fechas de vencimiento dará lugar a la reversión de los asientos contables señalados en los numerales 7.2.1 y 7.2.2, según corresponda. Además, se procederá a revertir, cada vez que sea pertinente, los asientos relativos a las garantías que se mantuvieren registradas por los contratos que se liquidan.
-
-Simultáneamente, los bancos liquidarán, en los casos en que proceda, las diferencias que resulten a su favor o sean de su cargo, las que serán registradas de la siguiente forma:
-
-7.2.4.1. Diferencias a favor del banco.
-
-a) Moneda extranjera.
-
-Debe: - La cuenta que corresponda por la recepción de la diferencia.
-
-Haber: - "Conversión Mercado Bancario".
-
-b) Moneda chilena.
-
-Debe: - "Cambio Mercado Bancario".
-
-Haber: - "Utilidades por contratos a futuro-mercado externo".
-
-7.2.4.2. Diferencias de cargo del banco.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión Mercado Bancario".
-
-Haber: - La cuenta que corresponda por el giro para pagar la respectiva diferencia.
-
-b) Moneda chilena.
-
-Debe: - "Pérdidas por contratos a futuro-mercado externo".
-
-Haber: - "Cambio Mercado Bancario".
-
-7.3. Contratos a futuro de monedas (Forwards) celebrados con personas distintas de Bolsas Oficiales Extranjeras.
-
-Al celebrar estos contratos, se registrará el importe de la moneda extranjera que se adquiere a futuro y el monto de la moneda extranjera que se vende a futuro.
-
-7.3.1. Celebración de los contratos.
-
-a) Por la moneda extranjera que se adquiere.
-
-Debe: - "Moneda extranjera adquirida a futuro-mercado externo" de la partida 2127.
-
-Haber: - "Contratos a futuro".
-
-b) Por la moneda extranjera que se vende.
-
-Debe: - "Contratos a futuro".
-
-Haber: - "Moneda extranjera vendida a futuro-mercado externo", de la partida 4127.
-
-7.3.2. Liquidación de los contratos con entrega y recepción de las monedas extranjeras.
-
-a) Por la moneda extranjera que se recibe.
-
-Debe: - La cuenta que corresponda por la moneda extranjera recibida.
-
-- "Contratos a futuro".
-
-Haber: - "Conversión mercado bancario".
-
-- "Moneda extranjera adquirida a futuro-mercado externo".
-
-b) Por la moneda extranjera que se entrega.
-
-Debe: - "Conversión mercado bancario".
-
-- "Moneda extranjera vendida a futuro-mercado externo".
-
-Haber: - La cuenta que corresponda por el giro de la moneda extranjera vendida.
-
-- "Contratos a futuro".
-
-c) Por la moneda chilena.
-
-Debe: - "Cambio mercado bancario", por el equivalente de la moneda extranjera que se adquiere.
-
-- "Pérdidas por contratos a futuro-mercado externo", de la partida 5710, por la diferencia entre los importes que se registran en las cuentas "Cambio mercado bancario", cuando proceda.
-
-Haber: - "Cambio mercado bancario", por el equivalente de la moneda extranjera que se vende.
-
-- "Utilidades por contratos a futuro-mercado externo", de la partida 7710, por la diferencia entre los importes que se registran en las cuentas "Cambio mercado bancario", cuando corresponda.
-
-7.3.3. Liquidación de los contratos por compensación.
-
-En los casos en que no se realice la entrega de la moneda extranjera y los contratos se solucionen por compensación, su liquidación en las fechas de vencimiento dará lugar a la reversión de los asientos contables señalados en las letras a) y b) del numeral 7.3.1 y las diferencias que resulten a su favor o que sean de su cargo, serán registradas de la siguiente forma:
-
-7.3.3.1. Diferencias a favor del banco.
-
-a) Moneda extranjera.
-
-Debe: - La cuenta que corresponda por la recepción de la diferencia.
-
-Haber: -"Conversión Mercado Bancario".
-
-b) Moneda chilena.
-
-Debe: - "Cambio Mercado Bancario".
-
-Haber: - "Utilidades por contratos a futuro-mercado externo", de la partida 7710.
-
-7.3.3.2. Diferencias de cargo del banco.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión Mercado Bancario".
-
-Haber: - La cuenta que corresponda por el giro para pagar la respectiva diferencia.
-
-b) Moneda chilena.
-
-Debe: - "Pérdidas por contratos a futuro-mercado externo", de la partida 5710.
-
-Haber: - "Cambio Mercado Bancario".
-
-7.4. Pago de comisiones a los corredores.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión mercado bancario".
-
-Haber: - La cuenta que corresponda por el giro para efectuar dicho pago.
-
-b) Moneda chilena.
-
-Debe: - "Comisiones pagadas por contratos a futuro", de la partida 5530.
-
-Haber: - "Cambio mercado bancario".
-
-7.5. Opciones sobre contratos a futuro de divisas.
-
-7.5.1. Compra de opciones call (de compra) o put (de venta).
-
-a) Por el Importe de los contratos a los que se refieren las opciones en la moneda que ellos representan.
-
-Debe: - "Opciones call adquiridas sobre contratos a futuro de divisas", o bien,
-
-- "Opciones put adquiridas sobre contratos a futuro de divisas". Ambas de la partida 2127.
-
-Haber: - "Contratos a futuro".
-
-b) Por el contravalor de los contratos a los que se refieren las opciones en la moneda del precio pactado.
-
-Debe: - "Contratos a futuro."
-
-Haber: - "Contravalor de opciones call adquiridas sobre contratos a futuro de divisas", o bien,
-
-- "Contravalor de opciones put adquiridas sobre contratos a futuro de divisas". Ambas de la partida 4127.
-
-Los importes registrados en estas cuentas se revertirán al extinguirse, venderse o liquidarse la opción.
-
-7.5.2. Primas por compras y ventas de opciones.
-
-a) Por compra de opciones.
-
-i) Moneda extranjera.
-
-Debe: - "Conversión mercado bancario".
-
-Haber: - La cuenta que corresponda por el importe pagado.
-
-ii) Moneda chilena.
-
-Debe: - "Prima por compra de opciones sobre contratos a futuro de divisas", de la partida 5530.
-
-Haber: - "Cambio mercado bancario".
-
-b) Prima por venta de opciones.
-
-i) Moneda extranjera.
-
-Debe: - La cuenta que corresponda por el importe recibido.
-
-Haber: - "Conversión mercado bancario".
-
-ii) Moneda chilena.
-
-Debe: - "Cambio mercado bancario".
-
-Haber: - "Prima por venta de opciones sobre contratos a futuro de divisas", de la partida 7530.
-
-7.5.3. Liquidación de opciones.
-
-Las diferencias que resulten a favor de los bancos al liquidar las opciones, se registrarán de la siguiente forma:
-
-a) Moneda extranjera.
-
-Debe: - La cuenta que corresponda por la recepción del importe en moneda extranjera.
-
-Haber: - "Conversión mercado bancario".
-
-b) Moneda chilena.
-
-Debe: - "Cambio mercado bancario".
-
-Haber: - "Utilidades de opciones sobre contratos a futuro de divisas", de la partida 7710.
-
-7.6. Ajustes contables que deben efectuarse al cierre de cada mes.
-
-7.6.1. Contratos a futuro.
-
-El último día de cada mes los bancos procederán a calcular y registrar provisionalmente la variación de paridad neta que a esa fecha hayan experimentado los contratos que mantengan vendidos y comprados a futuro en Bolsas Oficiales Extranjeras, como asimismo por los contratos a futuro de monedas (Forwards) celebrados con personas distintas de éstas, que se encuentren vigentes. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hayan efectuado en el mes precedente.
-
-Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo o abono, según proceda, a la cuenta "Variación contratos a futuro-mercado externo", cuyo saldo se demostrará en la partida 2127 ó 4127, y con abono a la cuenta "Utilidades por contratos a futuro-mercado externo" o con cargo a "Pérdidas por contratos a futuro-mercado externo", según proceda.
-
-El ajuste se realizará aplicando las paridades que tengan entre sí las monedas involucradas, según las cotizaciones a futuro internacionales cuyo plazo concluya en la fecha más cercana a la del vencimiento de los respectivos contratos, debiendo considerar, en todo caso, los ajustes parciales que se hayan efectuado durante su vigencia, ya sea mediante liquidación de diferencias a favor o la remesa de diferencias que sean de su cargo.
-
-Para los efectos de calcular dicha variación en términos de pesos moneda chilena, se aplicará el tipo de cambio de representación contable, vigente a la fecha del ajuste.
-
-Por otra parte, los bancos deben ajustar el saldo de la cuenta "Cambio-Divisas para garantía contratos a futuro", de acuerdo con las normas generales sobre la materia.
-
-7.6.2. Opciones.
-
-El último día de cada mes, las instituciones financieras procederán a determinar las diferencias de precio que hayan experimentado las opciones compradas vigentes, desde la fecha de compra, para registrar los importes de ellas en caso de que proceda. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hayan contabilizado en el mes precedente.
-
-Dicho ajuste se registrará por el equivalente de las respectivas monedas, en pesos moneda chilena, con cargo a la cuenta "Variación opciones sobre contratos a futuro de divisas", de la partida 2127 y abono a "Utilidades de opciones sobre contratos a futuro de divisas".
-
-El ajuste corresponderá exclusivamente al valor de las primas de las respectivas opciones y sólo se registrará en caso de que ellas aumenten antes de que expiren o se ejerzan. El importe de dicho valor se convertirá a moneda chilena, al tipo de cambio de representación contable vigente a la fecha del ajuste.
-
-8.- Operaciones forwards múltiples (Swaps).
-
-Las operaciones "Swaps" de monedas que pueden realizar los bancos en el mercado externo al amparo de las disposiciones del Banco Central de Chile, son aquellas en las que se pactan dos o más operaciones forwards que consten en un solo contrato.
-
-En las operaciones antes mencionadas podrá convenirse la entrega de las respectivas monedas o el procedimiento de compensación de las diferencias que se generen en las fechas de vencimiento pactadas.
-
-Cada uno de los forwards incluidos en los referidos contratos, deberán constar separadamente unos de otros. Las operaciones contenidas en un mismo contrato serán registradas individualmente, siguiendo al efecto las instrucciones contenidas en el numeral 7.3 de este Capítulo.
-
-### 9. Antecedentes de las operaciones a futuro
-
-Los bancos deberán abrir carpetas separadas para las compras y ventas de contratos a futuro, para los contratos celebrados a futuro y para las compras y ventas de opciones.
-
-En dichas carpetas deberán mantener los documentos en que conste la realización de dichas operaciones, las comunicaciones mantenidas con la persona que actúe como contraparte y los antecedentes relativos a las remesas de divisas para constituir garantías, pagar diferencias por variación de paridad u otros conceptos, como asimismo, los relativos a los importes recibidos por variación de paridad de los contratos a futuro y recuperación de garantías que hayan constituido.
-
-### 10. Límites
-
-Las operaciones de compra y venta de contratos a futuro en Bolsas Oficiales Extranjeras y la compra y venta de opciones sobre contratos a futuro, no se considerarán para los efectos de los límites individuales de crédito o de endeudamiento, de que tratan los artículos 84 y 81 de la Ley General de Bancos. No obstante, los saldos registrados en la cuenta de orden "Cauciones otorgadas por contratos a futuro moneda extranjera", de la partida 9290, deben incluirse para los efectos del límite de obligaciones con terceros, del mencionado artículo 81, en concordancia con las normas establecidas en el Capítulo 12-2 de esta Recopilación.
-
-Las operaciones de compraventa a futuro de monedas extranjeras (Forward), estarán afectas a los límites de que trata el artículo 84 de la Ley General de Bancos, por la diferencia entre el precio pactado a futuro por dichas operaciones y el precio al contado de éstas, a la fecha de celebración del pacto, que sea de cargo de los respectivos obligados. En todo caso, dichos importes nominales no serán incluidos en los archivos de deudores que deben remitirse a esta Superintendencia.
-
-Por otra parte las obligaciones que un banco mantenga por compraventas a futuro de monedas extranjeras (Forward), estarán afectas al límite a que se refiere el artículo 81 de la Ley General de Bancos, por la diferencia entre el precio pactado a futuro por dichas operaciones y el precio al contado de éstas, a la fecha de celebración del pacto, que sea de cargo del banco. Para el cómputo de las obligaciones, esos valores nominales serán registrados en la cuenta "Endeudamiento por contratos de compraventa y arbitrajes a futuro", de la partida 9700.
-
-En todo caso, las operaciones antes mencionadas que realicen los bancos, registradas en las partidas 2127 y 4127 quedan sujetas al margen a que se refiere el título IV del Capítulo 12-9 de esta Recopilación.
-
-### 11. Información al Banco Central de Chile
-
-Los bancos que realicen compras o ventas de contratos a futuro de monedas extranjeras y opciones sobre dichos contratos, deberán presentar al Banco Central de Chile, dentro de los plazos que en cada caso se indican, la información que se establece en el Capítulo VIII del Título I del Compendio de Normas de Cambios Internacionales o la que, de acuerdo a sus facultades, solicite el Instituto Emisor.
-
-Los bancos deberán tener especial cuidado de enviar al Banco Central de Chile, dentro de los dos días hábiles bancarios siguientes a la fecha en que efectúen compras o ventas de divisas para sí o para otras personas correspondientes a las operaciones de que trata este Capítulo, copia de las respectivas planillas de ingreso y egreso que emitan por tales operaciones.
 
 CAPITULO 13-27 (Bancos)
 
@@ -21175,6 +20417,314 @@ e) Autorización del organismo extranjero regulador de los mercados bursátiles 
 7.- Encaje
 
 Las obligaciones correspondientes a los bonos en circulación en el exterior quedan afectas a las normas de encaje sobre créditos externos, contenidas en el Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, salvo en los casos en que estén expresamente exceptuadas de acuerdo con las disposiciones de dicho Banco.
+
+CAPITULO 13-35 (Bancos)
+
+MATERIA:
+
+OPERACIONES CON DERIVADOS EN EL MERCADO EXTERNO.
+
+I.- OPERACIONES CON INSTRUMENTOS DERIVADOS.
+
+1.- Generalidades.
+
+Los bancos están facultados para realizar, por cuenta propia, las operaciones a futuro referidas a monedas extranjeras de que trata el Capítulo VI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+
+Asimismo, los bancos pueden realizar las operaciones a futuro sobre tasas de interés de que trata el Capítulo VI antes mencionado, con el único objeto de cubrir el riesgo derivado de las fluctuaciones de las tasas de interés en el mercado internacional, que les afecten por los descalces que registren al mantener activos a tasas fijas y pasivos a tasas variables o viceversa, como también, en los casos en que las tasas de interés de sus activos y pasivos sean variables, pero estén pactadas a plazos distintos.
+
+2.- Operaciones a futuro que se pueden realizar.
+
+Los bancos pueden realizar compras o ventas de contratos a futuro (Futures) de monedas o de tasas de interés y compras de opciones sobre dichos contratos, en sus modalidades call o put, en Bolsas Oficiales Extranjeras.
+
+Además, los bancos pueden contratar forwards de monedas, swaps de monedas o de tasas de interés, acuerdos de tasas de interés a futuro (forward-"FRA's"), mecanismos de protección de tasas de interés conocidos internacionalmente como "CAP", "FLOOR" Y "COLLAR" y comprar opciones sobre contratos de monedas o de tasas de interés, en sus modalidades call o put, en mercados distintos a las Bolsas Oficiales Extranjeras, conocidos como "Over The Counter" (OTC).
+
+La facultad para adquirir las opciones antes mencionadas, lleva implícita la de enajenar las opciones adquiridas.
+
+3.- Autorización del Banco Central de Chile.
+
+Los bancos que decidan contratar las operaciones a futuro de coberturas de tasa de interés de que se trata, deberán obtener previamente la autorización del Banco Central de Chile. Tales autorizaciones tendrán el plazo de vigencia que fije el Instituto Emisor.
+
+4.- Facultades de los usuarios.
+
+Los bancos podrán contratar y operar libremente líneas de crédito en moneda extranjera, así como adquirir divisas en el mercado cambiario formal exentas de la obligación de liquidar, para responder a las obligaciones de pago contraídas en virtud de los contratos celebrados.
+
+Por otra parte, los bancos no estarán obligados a retornar las divisas que obtengan por las operaciones realizadas.
+
+Además, podrán utilizar divisas que no hayan sido adquiridas en el mercado cambiario formal para responder a las obligaciones de pago contraídas por operaciones con instrumentos derivados.
+
+5.- Obligaciones de los usuarios.
+
+Las normas del Banco Central de Chile establecen que los usuarios de las operaciones de que se trata, que decidan retornar las divisas que obtengan por estas operaciones, deberán efectuar dicho retorno por intermedio del mercado cambiario formal y liquidar esos importes en este mismo mercado.
+
+Por otra parte, los contratos que se celebren al amparo de las normas del Capítulo VI del Título I antes mencionado, deberán ajustarse en sus términos, paridades, tasas de interés, precios y demás condiciones, a aquellas estipulaciones normalmente utilizadas y prevalecientes en los mercados internacionales a la fecha de su celebración.
+
+6.- Aplicación de la moneda extranjera correspondiente a estas operaciones.
+
+De conformidad con las disposiciones contenidas en el Capítulo VI, aludidas precedentemente, los bancos pueden utilizar la facultad de adquirir divisas en el mercado cambiario formal para efectuar las operaciones de que trata este Capítulo, o bien, aplicar directamente la moneda extranjera de que dispongan, incluso cuando se trate de gastos en tales monedas.
+
+Por otra parte, de acuerdo con las mismas normas citadas en el párrafo precedente, los bancos tienen la opción de liquidar a pesos chilenos la moneda extranjera que reciban por sus operaciones con instrumentos derivados, o bien, pueden aplicar directamente la misma moneda extranjera recibida, según se establece en el título siguiente.
+
+II.- NORMAS CONTABLES.
+
+Los bancos registrarán las operaciones de que se trata, de la forma que se indica en este título.
+
+Cuando no se señala expresamente la moneda, las instrucciones deben entenderse referidas a la moneda que corresponda en cada caso.
+
+1.- Garantías otorgadas a Corredores.
+
+Las garantías que se enteren en efectivo se registrarán en la cuenta "Garantías en efectivo por contratos a futuro", de la partida 1775, en tanto que las garantías correspondientes a cartas de crédito stand by u otros documentos, se registrarán en la cuenta de orden "Cauciones otorgadas por contratos a futuro", de la partida 9290.
+
+2.- Compraventa de contratos a futuro en Bolsas Oficiales Extranjeras.
+
+2.1.- Contratos a futuro de monedas.
+
+Los contratos de compra o venta a futuro de moneda extranjera comprenden, además de la moneda que se "adquiere" o se "vende" en esa forma, aquélla mediante la cual se pagará el precio del contrato de compra o de venta. En consecuencia, cada transacción comprenderá dos monedas: la que se adquiere o se vende por medio del contrato correspondiente y la moneda en la que se ha fijado el precio de la transacción a futuro. Para los fines de reflejar adecuadamente en la contabilidad del banco, tanto el derecho como la obligación emanada de estos contratos a futuro, habrá que registrar tales derechos y deberes en las monedas que corresponda.
+
+2.1.1.- Compra de contratos a futuro.
+
+a) Por el importe de los contratos en la moneda que ellos representan.
+
+Debe: "Contratos a futuro moneda extranjera adquiridos" de la partida 2127.
+
+Haber: "Contratos a futuro", de la partida 4525 ó 2525.
+
+b) Por el contravalor de los contratos en la moneda del precio pactado.
+
+Debe: "Contratos a futuro."
+
+Haber: "Contravalor de contratos a futuro moneda extranjera adquiridos", de la partida 4127.
+
+2.1.2.- Venta de contratos a futuro.
+
+a) Por el importe de los contratos vendidos en la moneda que ellos representan.
+
+Debe: "Contratos a futuro".
+
+Haber: "Contratos a futuro moneda extranjera vendidos", de la partida 4127.
+
+2.2.3.- Liquidación de los contratos.
+
+Al efectuar la liquidación de los referidos contratos, mediante la respectiva compra o venta, se revertirán los asientos contables señalados en los numerales 2.2.1 ó 2.2.2, según corresponda. Asimismo, se procederá a revertir, cuando sea el caso, los asientos contables relativos a las garantías que se mantuvieren por los contratos que se liquiden.
+
+Las diferencias que resulten a favor de las instituciones financieras o que sean de su cargo al proceder a su liquidación, serán registradas en la cuenta "Utilidades contratos a futuro de tasas de interés", de la partida 7710, o bien, en la cuenta "Pérdidas contratos a futuro de tasas de interés", de la partida 5710, según corresponda.
+
+2.3.- Remesas durante la vigencia de los contratos.
+
+Los importes que los bancos reciban de sus corredores y los que remitan a éstos por concepto de garantía, fluctuaciones de precio u otros similares, serán registrados de la siguiente forma:
+
+2.3.1.- Importes recibidos del corredor.
+
+En caso que el monto recibido se encuentre registrado como garantía constituida, se acreditará en la cuenta "Garantías en efectivo por contratos a futuro" o, en su defecto, se abonará a la cuenta "Utilidades por contratos a futuro - mercado externo", o bien, a "Utilidades contratos a futuro de tasas de interés", de la partida 7710.
+
+2.3.2.- Importes remesados al corredor.
+
+Estos importes serán debitados en la cuenta "Garantías en efectivo por contratos a futuro", si el monto remesado pasa a incrementar la garantía constituida, o bien, en la cuenta "Pérdidas por contratos a futuro - mercado externo" o "Pérdidas contratos a futuro de tasas de interés", de la partida 5710, según corresponda.
+
+3.- Contratos a futuro celebrados con personas distintas de Bolsas Oficiales Extranjeras (PTC).
+
+3.1.- Contratos a futuro de monedas.
+
+Al celebrar estos contratos, se registrará el importe de la moneda extranjera que se adquiere a futuro y el monto de la moneda extranjera que se vende a futuro.
+
+3.1.1.- Celebración de los contratos.
+
+a) Por la moneda extranjera que se adquiere.
+
+Debe: "Moneda extranjera adquirida a futuro - mercado externo" de la partida 2127.
+
+Haber: "Contratos a futuro".
+
+b) Por la moneda extranjera que se vende.
+
+Debe: "Contratos a futuro".
+
+Haber: "Moneda extranjera vendida a futuro - mercado externo", de la partida 4127.
+
+3.1.2.- Liquidación de los contratos con entrega y recepción de las monedas extranjeras.
+
+a) Por la moneda extranjera que se recibe.
+
+Debe: - La cuenta que corresponda por la moneda extranjera recibida.
+
+- "Contratos a futuro".
+
+Haber: - "Conversión mercado bancario".
+
+- "Moneda extranjera adquirida a futuro - mercado externo".
+
+b) Por la moneda extranjera que se entrega.
+
+Debe: - "Conversión mercado bancario".
+
+- "Moneda extranjera vendida a futuro - mercado externo".
+
+Haber: - La cuenta que corresponda por el giro de la moneda extranjera vendida.
+
+- "Contratos a futuro".
+
+c) Por la moneda chilena.
+
+Debe: "Cambio mercado bancario", por el equivalente de la moneda extranjera que se adquiere.
+
+- "Pérdidas por contratos a futuro - mercado externo", de la partida 5710, por la diferencia entre los importes que se registran en las cuentas "Cambio mercado bancario", cuando proceda.
+
+Haber: - "Cambio mercado bancario", por el equivalente de la moneda extranjera que se vende.
+
+- "Utilidades por contratos a futuro - mercado externo", de la partida 7710, por la diferencia entre los importes que se registran en las cuentas "Cambio mercado bancario", cuando corresponda.
+
+3.1.3.- Liquidación de los contratos por compensación.
+
+En los casos en que no se realice la entrega de la moneda extranjera y los contratos se solucionen por compensación, su liquidación en las fechas de vencimiento dará lugar a la reversión de los asientos contables señalados en las letras a) y b) del numeral 3.1.1 y las diferencias que resulten a su favor o que sean de su cargo, serán registradas en la cuenta "Utilidades por contratos a futuro - mercado externo" , de la partida 7710, o bien, "Pérdidas por contratos a futuro - mercado externo", de la partida 5710, según proceda.
+
+3.2.- Contratos de protección de tasas de interés.
+
+3.2.1.- Celebración de los contratos.
+
+Debe: "Contratos de protección de tasas de interés", por el monto del capital sobre el cual se hubiere acordado la protección de la tasa de interés, de la partida 9551.
+
+Haber: La cuenta de orden de la partida 9900.
+
+Los importes registrados en estas cuentas se revertirán al liquidarse los respectivos contratos.
+
+3.2.2.- Liquidación de las diferencias.
+
+Las diferencias que resulten a favor de los bancos o que sean de su cargo, ya sea durante la vigencia de los contratos o al proceder a su liquidación, serán registradas en la cuenta "Utilidades contratos a futuro de tasas de interés", o bien, en la cuenta "Pérdidas contratos a futuro de tasas de interés", según corresponda.
+
+4.- Opciones.
+
+4.1.- Opciones sobre contratos a futuro de divisas.
+
+4.1.1.- Compra de opciones call (de compra) o put (de venta)
+
+a) Por el importe de los contratos a los que se refieren las opciones en la moneda que ellos representan.
+
+Debe: - "Opciones call adquiridas sobre contratos a futuro de divisas", o bien,
+
+- "Opciones put adquiridas sobre contratos a futuro de divisas"; ambas de la partida 2127.
+
+Haber: "Contratos a futuro".
+
+b) Por el contravalor de los contratos a los que se refieren las opciones en la moneda del precio pactado.
+
+Debe: - "Contratos a futuro."
+
+Haber: - "Contravalor de opciones call adquiridas sobre contratos a futuro de divisas", o bien,
+
+- "Contravalor de opciones put adquiridas sobre contratos a futuro de divisas", de la partida 4127.
+
+Los importes registrados en estas cuentas se revertirán al extinguirse, venderse o liquidarse la opción.
+
+4.1.2.- Primas por compras y enajenación de opciones.
+
+Las primas pagadas por compra de opciones serán debitadas en la cuenta "Primas por compra de opciones sobre contratos a futuro de divisas", de la partida 5530, en tanto que las primas cobradas por la enajenación de opciones serán registradas en la cuenta "Primas por venta de opciones sobre contratos a futuro de divisas", de la partida 7530.
+
+4.1.3.- Liquidación de opciones.
+
+Las diferencias que resulten a favor de los bancos al liquidar las opciones, se registrarán en la cuenta "Utilidades de opciones sobre contratos a futuro de divisas", de la partida 7710.
+
+4.2.- Opciones sobre contratos a futuro de tasas de interés.
+
+4.2.1.- Compra de opciones call (de compra) o put (de venta).
+
+Debe: - "Opciones put compradas sobre contratos de cobertura de tasas de interés", o bien,
+
+- "Opciones call compradas sobre contratos de cobertura de tasas de interés"; ambas de la partida 9550.
+
+Haber: La cuenta de orden de la partida 9900.
+
+Los importes registrados en estas cuentas se revertirán al extinguirse, venderse o liquidarse la opción.
+
+4.2.2.- Primas por las compras y enajenación de opciones.
+
+Los importes que se paguen por la adquisición de las opciones, se registrarán en la cuenta "Primas por compra de opciones sobre contratos de tasas de interés", de la partida 5530, o bien, "Primas por venta de opciones sobre contratos de tasas de interés", de la partida 7530, según corresponda.
+
+4.2.4.- Liquidación de opciones.
+
+Las diferencias que resulten a favor de las instituciones financieras al liquidar las opciones, se registrarán en la cuenta "Utilidades de opciones sobre contratos de tasas de interés", de la partida 7710.
+
+5.- Pago de comisiones a los corredores.
+
+Los gastos por comisiones serán registrados en la cuenta "Comisiones pagadas a corredores por operaciones con derivados", de la partida 5530.
+
+6.- Operaciones múltiples.
+
+6.1.- Operaciones forwards múltiples (Swaps) de divisas.
+
+Las operaciones "Swaps" de monedas que pueden realizar los bancos en el mercado externo al amparo de las disposiciones del Banco Central de Chile, son aquellas en las que se pactan dos o más operaciones forwards que consten en un solo contrato.
+
+En las operaciones antes mencionadas podrá convenirse la entrega de las respectivas monedas o el procedimiento de compensación de las diferencias que se generen en las fechas de vencimiento pactadas.
+
+Cada uno de los forwards incluidos en los referidos contratos, deberán constar separadamente unos de otros y registrarse individualmente, siguiendo al efecto las instrucciones contenidas en el N° 3 de este título.
+
+6.2.- Operaciones Swaps de tasas de interés.
+
+Las operaciones "Swaps" de intereses que pueden realizar los bancos de acuerdo con las disposiciones del Banco Central de Chile, son aquellas en las que se pacta con una contraparte el pagó recíproco de intereses, calculados a las tasas fija y variable convenidas, sobre un monto denominado teórico o nocional y durante un plazo estipulado. En estas operaciones también se fijan las fechas en las que se liquidarán los intereses durante la vigencia del contrato, cuyo pago se efectúa por el vendedor o por el comprador del swap, según corresponda, por el monto neto entre los intereses fijos y los variables.
+
+En caso que se pacte más de una operación en un mismo contrato, cada una de ellas deberá constar separadamente de las otras y registrarse individualmente, debiéndose aplicar las instrucciones contables contenidas en el N° 3 de este título.
+
+7.- Cuentas de "conversión" y "cambio" especiales.
+
+Los bancos habilitarán las cuentas "Conversión" y "Cambio" que estimen necesarias para el registro de las operaciones de que trata este título, como podría ser, a vía de ejemplo, cuando adquieran moneda extranjera con moneda chilena para constituir garantías.
+
+8.- Ajustes contables que deben efectuarse al cierre de cada mes.
+
+8.1.- Contratos a futuro de divisas.
+
+El último día de cada mes los bancos procederán a calcular y registrar provisionalmente la variación de paridad neta que a esa fecha hayan experimentado los contratos que mantengan vendidos y comprados a futuro en Bolsas Oficiales Extranjeras, como asimismo por los contratos a futuro de monedas (Forwards) que se encuentren vigentes, celebrados con personas o entidades distintas de dichas bolsas. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hayan efectuado en el mes precedente.
+
+Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo o abono, según proceda, a la cuenta "Variación contratos a futuro - mercado externo", de la partida 2127 ó 4127, y con abono a la cuenta "Utilidades por contratos a futuro - mercado externo" o con cargo a "Pérdidas por contratos a futuro -mercado externo", según proceda.
+
+El ajuste se realizará aplicando las paridades que tengan entre sí las monedas involucradas, según las cotizaciones a futuro internacionales cuyo plazo concluya en la fecha más cercana a la del vencimiento de los respectivos contratos, debiendo considerar, en todo caso, los ajustes parciales que se hayan efectuado durante su vigencia, ya sea mediante liquidación de diferencias a favor o la remesa de diferencias que sean de su cargo.
+
+Para los efectos de calcular dicha variación en términos de pesos moneda chilena, se aplicará el tipo de cambio de representación contable, vigente a la fecha del ajuste.
+
+8.2.- Contratos a futuro de tasas de interés.
+
+8.2.1.- Contratos transados en Bolsas Oficiales Extranjeras.
+
+El último día de cada mes, las instituciones bancarias procederán a calcular y registrar provisionalmente la variación de precio que a esa fecha hayan experimentado los contratos que mantengan comprados o vendidos a futuro por cobertura de tasas de interés. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hayan contabilizado en el mes precedente.
+
+Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo o abono, según proceda, a la cuenta "Variación provisional de contratos a futuro por cobertura de tasas de interés", de la partida 2127 ó 4127, y con abono a la cuenta "Utilidades contratos a futuro de tasas de interés" o con cargo a "Pérdidas contratos a futuro de tasas de interés", según corresponda.
+
+El ajuste se realizará sobre la base de las variaciones de precio que, con respecto al precio pactado a futuro, hayan experimentado al último día del respectivo mes, los contratos que se mantengan comprados o vendidos, debiendo considerar, en todo caso, los ajustes parciales que pudieran haberse efectuado durante su vigencia, ya sea mediante liquidación de diferencias a su favor o la remesa de las diferencias que sean de su cargo.
+
+El importe resultante se convertirá a moneda chilena al tipo de cambio de representación contable, vigente en la fecha del ajuste.
+
+8.2.2.- Contratos celebrados fuera de Bolsas Oficiales Extranjeras.
+
+El último día de cada mes, las instituciones bancarias procederán a calcular las variaciones de las tasas de interés pactadas en cada uno de los respectivos contratos y, en caso de determinar una diferencia a su favor o de cargo suyo, contabilizarán provisionalmente dicho importe. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hubieren contabilizado en el mes precedente.
+
+Dichos ajustes se registrarán por el equivalente en pesos moneda chilena de la respectiva moneda extranjera, con cargo o abono, según proceda, a la cuenta "Variación provisional por contratos de tasas de interés", de la partida 2127 ó 4127 y con abono a la cuenta "Utilidades contratos a futuro de tasas de interés" ó con cargo a "Pérdidas contratos a futuro de tasas de interés", según corresponda.
+
+Para determinar el equivalente en pesos de las mencionadas diferencias en moneda extranjera, se utilizará el tipo de cambio de representación contable, vigente en la fecha de ajuste.
+
+8.3.- Opciones.
+
+El último día de cada mes, las instituciones financieras procederán a determinar las diferencias de precio que hayan experimentado las opciones compradas vigentes, desde la fecha de compra, para registrar los importes de ellas en caso de que proceda. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hayan contabilizado en el mes precedente.
+
+Dicho ajuste se registrará por el equivalente de las respectivas monedas, en pesos moneda chilena, con cargo a la cuenta "Variación provisional de opciones sobre contratos a futuro de divisas", de la partida 2127 y abono a "Utilidades de opciones sobre contratos a futuro de divisas", o bien, en la cuenta "Variación provisional de opciones sobre contratos de tasas de interés", de la partida 2127 y con abono a la cuenta "Utilidades de opciones sobre contratos de tasas de interés".
+
+El ajuste corresponderá exclusivamente al valor de las primas de las respectivas opciones y sólo se registrará en caso de que ellas aumenten antes de que expiren o se ejerzan. El importe de dicho valor se convertirá a moneda chilena, al tipo de cambio de representación contable vigente a la fecha del ajuste.
+
+III.- OTRAS INSTRUCCIONES.
+
+1.- Antecedentes de las operaciones a futuro.
+
+Los bancos deberán abrir carpetas separadas para las compras y ventas de contratos a futuro, para los contratos celebrados a futuro y para las compras y enajenación de opciones.
+
+En dichas carpetas deberán mantener los documentos en que conste la realización de dichas operaciones, las comunicaciones mantenidas con la persona que actúe como contraparte y los antecedentes relativos a las remesas de divisas para constituir garantías, pagar diferencias por variación de paridad u otros conceptos, como asimismo, los relativos a los importes recibidos por variación de paridad de los contratos a futuro y recuperación de garantías que hayan constituido.
+
+2.- Límites.
+
+Las operaciones de compra y venta de contratos a futuro en Bolsas Oficiales Extranjeras y la compra de opciones sobre contratos a futuro, no se considerarán para los efectos de los límites individuales de crédito de que trata el artículos 84 de la Ley General de Bancos. Tampoco quedarán afectos a estos límites, los contratos de protección de tasa de interés que las instituciones financieras celebren con instituciones del exterior.
+
+Las operaciones de compraventa a futuro de monedas extranjeras (Forward), estarán afectas a los límites de que trata el artículo 84 de la Ley General de Bancos, por la diferencia entre el precio pactado a futuro por dichas operaciones y el precio al contado de éstas, a la fecha de celebración del pacto, que sea de cargo de los respectivos obligados. En todo caso, dichos importes nominales no serán incluidos en los archivos de deudores que deben remitirse a esta Superintendencia.
+
+Las operaciones antes mencionadas que realicen los bancos, registradas en las partidas 2127 y 4127, quedan sujetas al margen a que se refiere el título IV del Capítulo 12-9 de esta Recopilación.
+
+3.- Información al Banco Central de Chile.
+
+Los bancos que realicen compras o ventas de contratos a futuro de monedas extranjeras o de tasas de interés y opciones sobre dichos contratos, deberán presentar al Banco Central de Chile, dentro de los plazos que en cada caso se indican, la información que se establece en el Capítulo VI del Título I del Compendio de Normas de Cambios Internacionales o la que, de acuerdo a sus facultades, solicite el Instituto Emisor.
 
 CAPITULO 14-1 (Bancos)
 
