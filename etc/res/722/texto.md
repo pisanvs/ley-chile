@@ -1,0 +1,7 @@
+Por Resolución N° 722, de 20 de Septiembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA QUINTERO S.A., R.U.T. N° 91.374.000-9, para ampliar actividades pesqueras que tiene autorizadas por Resolución N° 364, de 1984, de esta Subsecretaría, en orden a operar la embarcación "Crusoe I", en el litoral que se indica, donde podrá extraer los siguientes recursos hidrobiológicos con arrastre: a) Litoral entre el paralelo 28°00' L.S. y el límite sur de la III Región: Besugo, Blanquillo, Cabrilla, Congrio dorado, Congrio negro, Congrio colorado, Gamba, Jibia, Lenguado de ojos chicos, Pejegallo, Pejehumo, Raya, Tollo; b) Litoral entre el límite norte de la IV Región y el paralelo 37° 10' L.S.: Besugo, Blanquillo, Cabrilla, Congrio dorado, Congrio negro, Congrio colorado, Gamba, Jibia, Lenguado de ojos chicos, Pejegallo, Pejehumo, Raya y Tollo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización para realizar faenas de pesca extractiva respecto de los recursos hidrobiológicos y áreas de pesca no contemplados en la presente resolución, en virtud de los informes técnicos y normas legales y reglamentarias citadas en visto.
+
+Valparaíso, 20 de Septiembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
