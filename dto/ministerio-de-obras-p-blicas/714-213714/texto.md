@@ -1,0 +1,3 @@
+Por decreto MOP Nº 714 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº 16-A, superficie 11.452 m², Rol de avalúo Nº 157-17, comuna de Pemuco, para la obra: "Proyecto Laja Diguillín, Area de Riego Pemuco Canal El Oyente Alternativa Dos Faja Adicional Km. 0,135 al Km. 8,062", VIII Región y se acordó el valor de indemnización con su propietario Julio César Ocampo Salinas, ascendente a la cantidad de $6.045.522.
+
+- Fiscal del Ministerio de Obras Públicas.
