@@ -1,0 +1,5 @@
+Por Resolución N° 1.872, de 8 de noviembre de 1996, de esta Subsecretaría, del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la Resolución N°/442, de 1988, de esta Subsecretaría, que autorizó a Exportaciones Productos del Mar B&D S.A., para iniciar actividades pesqueras extractivas con la nave "Gustavo I", en lo relativo a las especies Congrio colorado, Congrio negro, Merluza común, Pejegallo, Raya, Tollo, Camarón nailon, Langostino amarillo, Merluza del sur y Bacalao de profundidad, por haberse configurado la causal prevista en el artículo 143 letra b) de la Ley N° 18.892 citada en Visto.
+
+Modifícase el numeral 2° de la Resolución N° 442, de 1988, individualizada precedentemente, en el sentido de señalar que el sistema de pesca autorizado corresponde sólo a cerco.
+
+Valparaíso, 8 de Noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
