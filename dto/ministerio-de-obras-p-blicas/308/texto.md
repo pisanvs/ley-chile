@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 308, de fecha 23 de octubre 1992, se expropiaron los lotes de terreno N°s. 1 y 2, superficies 5.522,00 M2. y 11.959,80 M2., roles de avalúos 203-7 y 203-6, Comuna de Toltén, para la obra Camino Pitrufquén-Toltén, sector Acceso Sur Puente Peule, y se acordó el valor de indemnización con sus propietarios Lucy Hofer Munro y Germán Emilio Ruth Medina, ascendente a las cantidades de $976.062 y $872.254, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
