@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 1.262 de 03 de Octubre de 1985, conforme Art, 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a Sector Reserva y Sector Expropiado predio "Hijuela Tercera del Fundo Los Quillayes" de la comuna de Requínoa, VI Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N° s 1 a la 5 y sitio N° 1, del proyecto de parcelación "El Ciruelo" formado por predio señalado. Los derechos de agua se extraen del canal Peumal derivado del río Cachapoal, Derrames, Vertientes y afloramientos provenientes dé los antiguos Fondos Las Cabras e Hijuela 1ra. de Los Quillayes. Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
