@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.992, de fecha 31 de octubre de 2000, se expropiaron los lotes de terreno Nºs. 19, 20 y 21, superficies 369 m², 215 m² y 88 m², respectivamente, rol de avalúo 155-43, comuna de Curarrehue, para la obra ''Camino Catripulli-Curarrehue, Sector Km. 108,20 al Km. 114,80'' y se acordó el valor de indemnización con su propietario Pedro Iván Jaramillo Pacheco, ascendente a la cantidad de $1.664.928.
+
+Fiscal del Ministerio de Obras Públicas.
