@@ -4066,9 +4066,7 @@ De conformidad con las autorizaciones que el referido Ministerio ha puesto en co
 
 ANEXO N° 1
 
-INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES
-
-ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
+INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
 
 A. INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1990.
 
@@ -4179,6 +4177,42 @@ A. INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1990.
 53. Empresa Eléctrica de Magallanes S.A. "EDELGMAG S.A.".
 
 54. Empresa Eléctrica de Aysén S.A. "EDELAYSEN S.A.".
+
+### 55. Municipalidad de Santiago
+
+### 56. Municipalidad de Las Condes
+
+### 57. Municipalidad de Machalí
+
+### 58. Municipalidad de Viña del Mar
+
+### 59. Municipalidad de Providencia
+
+### 60. Municipalidad de Peñalolén
+
+### 61. Municipalidad de Cerro Navia
+
+### 62. Municipalidad de Lo Prado
+
+### 63. Municipalidad de Pudahuel
+
+### 64. Municipalidad de Estación Central
+
+### 65. Municipalidad de La Cisterna
+
+### 66. Municipalidad de San Joaquín
+
+### 67. Municipalidad de Rancagua
+
+### 68. Municipalidad de Arica
+
+### 69. Municipalidad de Renca
+
+### 70. Municipalidad de Maipú
+
+### 71. Municipalidad de San Bernardo
+
+### 72. Municipalidad de Valparaíso
 
 B. INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1989.
 
@@ -4814,197 +4848,75 @@ Los importes registrados en las cuentas señaladas precedentemente, podrán reba
 
 ### 5. Forma y oportunidad de constituir la reserva técnica
 
-Las instituciones financieras que deban constituir reserva técnica podrán
+Las instituciones financieras que deban constituir reserva técnica podrán hacerlo el mismo día en que se origina su exigibilidad o bien al cierre de las operaciones del día hábil bancario inmediatamente siguiente.
 
-hacerlo el mismo día en que se origina su exigibilidad o bien al cierre de las
+En todo caso, cuando una institución financiera opte por constituir su reserva técnica en forma diferida de conformidad con lo señalado en el párrafo precedente, deberá mantener esa modalidad, sin perjuicio de lo dispuesto en el numeral 10.2 de este título, y sólo podrá cambiarla con autorización previa de esta Superintendencia.
 
-operaciones del día hábil bancario inmediatamente siguiente.
+Dicha reserva técnica se enterará con billetes y monedas de curso legal en el país o con monedas extranjeras sujetas a posición de cambio que la institución financiera mantenga ya sea en caja, como remesa en efectivo en tránsito entre oficinas, como remesa en efectivo en tránsito al Banco Central de Chile o en cuentas corrientes de libre disposición en el Banco Central de Chile incluidas en éstas los depósitos "overnight" y la cuenta corriente en pesos expresada en dólares a que se refiere el Capítulo IV.D.1 del Compendio de Normas Financieras del Instituto Emisor. Asimismo, podrá enterarse con depósitos en moneda chilena
 
-En todo caso, cuando una institución financiera opte por constituir su reserva
+constituidos en ese Banco, específicamente para estos efectos, o bien, con documentos emitidos por el Banco Central de Chile o por la Tesorería General dela República, para cuyo vencimiento no falten más de 90 días, sean instrumentos destinados especialmente para estos efectos o los demás que cumplan con esa condición y que se señalan en los numerales 5.3 y 5.4 de este título.
 
-técnica en forma diferida de conformidad con lo señalado en el párrafo
+En los casos en que los documentos emitidos por el Instituto Emisor o por la Tesorería General de la República sean pagaderos en cuotas, sólo se considerará como reserva técnica mantenida, el importe de capital de dichos documentos, que se percibirá dentro de los 90 días siguientes a la fecha en que se realice el cómputo de esa reserva, sin perjuicio de agregar los intereses efectivamente devengados hasta esta última fecha.
 
-precedente, deberá mantener esa modalidad, sin perjuicio de lo dispuesto en el
+Los saldos de dinero efectivo disponibles en caja, en moneda chilena o extranjera, que se computen para enterar la reserva técnica, así como los saldos de cuentas corrientes o los depósitos especiales mantenidos en el Banco Central de Chile que las instituciones financieras destinen a estos fines, no servirán,en la fecha en que se imputen a la reserva técnica, para dar
 
-numeral 10.2 de este título, y sólo podrá cambiarla con autorización previa de
+cumplimiento a la obligación de encaje establecida en el artículo 78 de la Ley General de Bancos.
 
-esta Superintendencia.
+Los bancos y sociedades financieras que declaren mantener el total o parte de la reserva técnica constituida en documentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, deberán estar en posesión material
 
-Dicha reserva técnica se enterará con billetes y monedas de curso legal en el
+de los respectivos instrumentos, a menos que se encuentren depositados en custodia en el Instituto Emisor.
 
-país o con monedas extranjeras sujetas a posición de cambio que la institución
+La adquisición de los instrumentos que se destinen a reserva técnica deberá hacerse en forma pura y simple, por documentos completos, no siendo admisible que se realice su compra con pactos de cualquier naturaleza. Mientras los documentos de que se trata se computen como reserva técnica, las instituciones financieras no podrán realizar transacción alguna sobre esos valores, tales como ventas con pacto de retrocompra o ventas con responsabilidad u otras condiciones similares.
 
-financiera mantenga ya sea en caja, como remesa en efectivo en tránsito entre
+5.1. Saldos en moneda extranjera de caja y de cuentas corrientes mantenidas en el Banco Central de Chile.
 
-oficinas, como remesa en efectivo en tránsito al Banco Central de Chile o en
-
-cuentas corrientes de libre disposición en el Banco Central de Chile incluidas
-
-en éstas los depósitos "overnight" y la cuenta corriente en pesos expresada en
-
-dólares a que se refiere el Capítulo IV.D.1 del Compendio de Normas Financieras
-
-del Instituto Emisor. Asimismo, podrá enterarse con depósitos en moneda chilena
-
-constituidos en ese Banco, específicamente para estos efectos, o bien, con
-
-documentos emitidos por el Banco Central de Chile o por la Tesorería General
-
-dela República, para cuyo vencimiento no falten más de 90 días, sean
-
-instrumentos destinados especialmente para estos efectos o los demás que cumplan
-
-con esa condición y que se señalan en los numerales 5.3 y 5.4 de este título.
-
-En los casos en que los documentos emitidos por el Instituto Emisor o por la
-
-Tesorería General de la República sean pagaderos en cuotas, sólo se considerará
-
-como reserva técnica mantenida, el importe de capital de dichos documentos, que
-
-se percibirá dentro de los 90 días siguientes a la fecha en que se realice el
-
-cómputo de esa reserva, sin perjuicio de agregar los intereses efectivamente
-
-devengados hasta esta última fecha.
-
-Los saldos de dinero efectivo disponibles en caja, en moneda chilena o
-
-extranjera, que se computen para enterar la reserva técnica, así como los saldos
-
-de cuentas corrientes o los depósitos especiales mantenidos en el Banco Central
-
-de Chile que las instituciones financieras destinen a estos fines, no
-
-servirán,en la fecha en que se imputen a la reserva técnica, para dar
-
-cumplimiento a la obligación de encaje establecida en el artículo 78 de la Ley
-
-General de Bancos.
-
-Los bancos y sociedades financieras que declaren mantener el total o parte de la
-
-reserva técnica constituida en documentos emitidos por el Banco Central de Chile
-
-o por la Tesorería General de la República, deberán estar en posesión material
-
-de los respectivos instrumentos, a menos que se encuentren depositados en
-
-custodia en el Instituto Emisor.
-
-La adquisición de los instrumentos que se destinen a reserva técnica deberá
-
-hacerse en forma pura y simple, por documentos completos, no siendo admisible
-
-que se realice su compra con pactos de cualquier naturaleza. Mientras los
-
-documentos de que se trata se computen como reserva técnica, las instituciones
-
-financieras no podrán realizar transacción alguna sobre esos valores, tales como
-
-ventas con pacto de retrocompra o ventas con responsabilidad u otras condiciones
-
-similares.
-
-5.1. Saldos en moneda extranjera de caja y de cuentas corrientes mantenidas en
-
-el Banco Central de Chile.
-
-Los saldos en billetes y monedas extranjeras, mantenidos en caja, así como los
-
-saldos de las cuentas corrientes con el Banco Central de Chile en esas
-
-monedas,que las entidades financieras computen para la reserva técnica, serán
-
-considerados por su equivalente en moneda chilena calculado al tipo de cambio de
-
-representación contable vigente, fijado periódicamente por esta
+Los saldos en billetes y monedas extranjeras, mantenidos en caja, así como los saldos de las cuentas corrientes con el Banco Central de Chile en esas monedas,que las entidades financieras computen para la reserva técnica, serán considerados por su equivalente en moneda chilena calculado al tipo de cambio de representación contable vigente, fijado periódicamente por esta
 
 Superintendencia.
 
-5.2. Depósitos constituidos específicamente en el Banco Central de Chile para
+5.2. Depósitos constituidos específicamente en el Banco Central de Chile para reserva técnica.
 
-reserva técnica.
+No obstante que las entidades financieras pueden cumplir la exigencia de reserva técnica entre otros, con los saldos que mantienen en sus cuentas corrientes con el Banco Central de Chile, podrán hacerlo también mediante depósitos especiales
 
-No obstante que las entidades financieras pueden cumplir la exigencia de reserva
+en pesos, moneda chilena, enterados exclusivamente con ese objeto en el Instituto Emisor.
 
-técnica entre otros, con los saldos que mantienen en sus cuentas corrientes con
-
-el Banco Central de Chile, podrán hacerlo también mediante depósitos especiales
-
-en pesos, moneda chilena, enterados exclusivamente con ese objeto en el
-
-Instituto Emisor.
-
-En todo caso, las instituciones que financien su reserva técnica mediante los
-
-préstamos que, en conformidad a lo dispuesto en el artículo 2° transitorio de la
-
-Ley N° 18.576, les otorgue con esa finalidad el Banco Central de Chile, deberán
-
-mantener en estos depósitos, a lo menos una suma igual al monto de los préstamos
-
-otorgados por el Instituto Emisor, que se encuentren vigentes.
+En todo caso, las instituciones que financien su reserva técnica mediante los préstamos que, en conformidad a lo dispuesto en el artículo 2° transitorio de la Ley N° 18.576, les otorgue con esa finalidad el Banco Central de Chile, deberán mantener en estos depósitos, a lo menos una suma igual al monto de los préstamos otorgados por el Instituto Emisor, que se encuentren vigentes.
 
 5.3. Documentos emitidos por el Banco Central de Chile.
 
-La reserva técnica podrá constituirse con los siguientes documentos emitidos por
+La reserva técnica podrá constituirse con los siguientes documentos emitidos por el Banco Central de Chile, para cuyo vencimiento total o parcial no falten más de noventa días:
 
-el Banco Central de Chile, para cuyo vencimiento total o parcial no falten más
+a) Pagarés descontables, Capítulo IV.B.6 del Compendio de Normas Financieras del Banco Central de Chile.
 
-de noventa días:
+b) Pagarés reajustables, Capítulo IV.B.7 del Compendio de Normas Financieras.
 
-- Pagarés descontables, Capítulo IV.B.6 del Compendio de Normas Financieras del
+c) Pagarés reajustables con tasa flotante (PTF), Capítulo IV.B.8 del Compendio de Normas Financieras.
 
-Banco Central de Chile;
+d) Pagarés en dólares de Estados Unidos de Norteamérica, Capítulo IV.B.9 del Compendio de Normas Financieras.
 
-- Pagarés reajustables, Capítulo IV.B.7 del Compendio de Normas Financieras;
+e) Pagarés expresados en dólares norteamericanos, Capítulo IV.B.10 del Compendio de Normas Financieras.
 
-- Pagarés reajustables con tasa flotante (PTF), Capítulo IV.B.8 del Compendio de
+f) Pagarés de reprogramación de que tratan los capítulos II.B.5, II.B.5.1, II.B.5.3 y II.B.5.4 del Compendio de Normas Financieras.
 
-Normas Financieras;
+g) Pagarés por compra de letras de crédito, Capítulo IV.A.2 del Compendio de Normas Financieras.
 
-- Pagarés en dólares de Estados Unidos de Norteamérica, Capítulo IV.B.9 del
+h) Pagarés Dólar Preferencial (PDP), Capítulo XIII del Compendio de Normas de Cambios Internacionales.
 
-Compendio de Normas Financieras;
+i) Pagarés emitidos con motivo de ventas de cartera al Instituto Emisor, de conformidad con lo dispuesto en el Acuerdo 1555-07-840209 y sus modificaciones.
 
-- Pagarés expresados en dólares norteamericanos, Capítulo IV.B.10 del Compendio
+j) Pagarés de que trata el Anexo N° 1 del Capítulo XVIII del Compendio de Normas de Cambios Internacionales.
 
-de Normas Financieras;
+k) Pagarés emitidos de conformidad con lo dispuesto en el Anexo N°1 del Capítulo XIX del Compendio de Normas de Cambios Internacionales.
 
-- Pagarés de reprogramación de que tratan los capítulos II.B.5, II.B.5.1,
+l) Pagarés reajustables con pago en cupones (PRC), Capítulo IV.B.8.3 del
 
-II.B.5.3 y II.B.5.4 del Compendio de Normas Financieras;
+Compendio de Normas Financieras.
 
-- Pagarés por compra de letras de crédito, Capítulo IV.A.2 del Compendio de
-
-Normas Financieras;
-
-- Pagarés Dólar Preferencial (PDP), Capítulo XIII del Compendio de Normas de
-
-Cambios Internacionales del Banco Central de Chile; y,
-
-- Pagarés emitidos por el Banco Central de Chile con motivo de ventas de cartera
-
-efectuadas por las instituciones financieras, de conformidad con lo dispuesto
-
-por el Acuerdo N° 1555-07-840209 y sus modificaciones.
-
-Para constituir la reserva técnica con los pagarés señalados precedentemente, se
-
-computará, como ya se indicó, sólo el capital y los intereses efectivamente
-
-devengados a la fecha respectiva, que se percibirán dentro de los noventa días
-
-siguientes.
+Para constituir la reserva técnica con los pagarés señalados precedentemente, se computará, como ya se indicó, sólo el capital y los intereses efectivamente devengados a la fecha respectiva, que se percibirán dentro de los noventa días siguientes.
 
 5.4. Pagarés emitidos por la Tesorería General de la República.
 
-Podrán mantenerse como reserva técnica los pagarés ordinarios, descontables o
-
-reajustables emitidos por la Tesorería General de la República, para cuyo
-
-vencimiento total o parcial no falten más de noventa días.
+Podrán mantenerse como reserva técnica los pagarés ordinarios, descontables o reajustables emitidos por la Tesorería General de la República, para cuyo vencimiento total o parcial no falten más de noventa días.
 
 ### 6. Exención de encaje de las obligaciones afectas a reserva técnica
 
@@ -6800,7 +6712,7 @@ iii) El monto pactado de cada cuota no alcanza a cubrir el importe de los intere
 
 Lo establecido en el numeral i) anterior no se aplica a los préstamos que, en virtud de los Acuerdos N°s 1.507 y 1.578 del Banco Central de Chile sobre reprogramación de créditos, contemplen períodos de gracia superiores a los indicados en ese numeral.
 
-Las normas relativas a la suspensión de reajustes contenidas en este numeral 3.1.1., no se aplicarán a las colocaciones contingentes.
+La suspensión del devengo de intereses y reajustes por las causales señaladas en las letras a) y b) de este numeral 3.1.1, no se aplicarán a los créditos de consumo de que trata el N° 3 del título II del Capítulo 8-28 de esta Recopilación Actualizada de Normas, como tampoco a las colocaciones contingentes, en lo que respecta a la suspensión de reajustes.
 
 Los intereses y reajustes devengados con anterioridad a la fecha en que se cumplan algunas de las condiciones señaladas en las letras precedentes, no serán objeto de reversión; de manera que quedarán registrados en el activo los intereses y reajustes por cobrar devengados hasta esa fecha, en tanto que los devengos posteriores se reflejarán en cuentas de orden.
 
