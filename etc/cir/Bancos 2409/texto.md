@@ -24830,7 +24830,7 @@ La institución bancaria que liquide estos anticipos deberá emitir la correspon
 
 1.2. Obligación de efectuar embarques.
 
-Las personas que obtengan estos anticipos estarán obligadas a realizar embarques de mercaderías, dentro de los 180 días contados desde la fecha de liquidación en el mercado cambiario formal, de las divisas provenientes de estos financiamientos.
+Las personas que obtengan estos anticipos, estarán obligadas a realizar embarques de mercaderías dentro del plazo establecido para tal efecto en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
 1.3. Aplicación o devolución de los anticipos.
 
