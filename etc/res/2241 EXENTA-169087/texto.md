@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 2.241 de 29 de Octubre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas que corresponden a Derecho de Adquisición y Sector Expropiado Predio "Hijuela Primera de Riego del Plano de Hijuelación del fundo Lolenco", de la comuna de Curacaví, Región Metropolitana; y Derechos Aprovechamiento de Aguas que corresponden a parcelas N°s. 12 a la 28, sitios N°s. 1, 2, 4 al 9, 11, 13, 15, 17, A B y C del Resto del Proyecto de Parcelación "Unión San José" formado entre otros por predio señalado. Los Derechos de Agua se extraen del Canal de Las Mercedes derivado del Río Mapocho.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
