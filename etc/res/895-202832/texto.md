@@ -1,0 +1,5 @@
+INFORMA NOMBRAMIENTO DIRECTIVA CENTRAL DEL PARTIDO RADICAL SOCIALDEMOCRATA
+
+Jean Pierre Warnier y Peter Sharp Vargas, Presidente y Secretario del Tribunal Supremo del Partido Radical Socialdemócrata, respectivamente, han informado el nombramiento de don Ernesto Velasco Rodríguez como Presidente, don Carlos González Márquez como Cuarto Vicepresidente y don Carlos Maldonado Curti como Secretario General, en la Directiva Central de la colectividad, a consecuencia del fallecimiento de don Anselmo Sule Candia, Presidente Titular, el reemplazo de don Roberto Teplizki Barahona, Cuarto Vicepresidente y designación en un cargo público de don Isidro Solís Palma, Secretario General, quedando vacantes los cargos de Primer Vicepresidente y Subsecretario General; Publicación ordenada en virtud de lo establecido en el Auto Acordado del Tribunal Calificador de Elecciones, de fecha 27 de junio de 1988, por resolución O-Nº 895 de fecha 12 de septiembre de 2002.
+
+- Juan Ignacio García Rodríguez, Director.
