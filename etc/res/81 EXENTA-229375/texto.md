@@ -1,0 +1,5 @@
+AUTORIZA ORGANISMOS PUBLICOS COMO RECEPTORES DE DOCUMENTOS TRIBUTARIOS ELECTRONICOS
+
+Por resolución exenta del Servicio de Impuestos Internos Nº 81, de fecha 17/08/04, se han autorizado como receptores electrónicos de Documentos Tributarios Electrónicos, a contar del mes de agosto de 2004, a los Organismos Públicos RUT Nº60.915.000-9, RUT Nº61.513.000-1, RUT Nº82.174.900-K, RUT Nº61.402.000-8, RUT Nº61.935.000-6, RUT Nº61.402.008-3, RUT Nº61.802.014-2, RUT Nº61.402.014-8, RUT Nº61.402.018-0, RUT Nº61.402.006-7, RUT Nº61.402.019-9, RUT Nº70.470.900-5, RUT Nº61.402.016-4, RUT Nº61.402.020-2, RUT Nº61.938.700-7, RUT Nº61.402.017-2, RUT Nº61.402.005-9, RUT Nº61.701.000-3, RUT Nº60.601.000-1, RUT Nº70.940.000-2, RUT Nº82.983.100-7, RUT Nº74.245.600-5, RUT Nº61.608.700-2, RUT Nº 61.603.000-0, RUT Nº60.511.120-3, RUT Nº 61.109.000-5.
+
+El texto íntegro de esta resolución está publicado en el sitio Web del SII (www.sii.cl) y, además, aparecerá en el Boletín del SII agosto de 2004.
