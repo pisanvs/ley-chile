@@ -1,0 +1,5 @@
+Por decreto MOP Nº 688, de 30 de junio de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco los lotes Nºs. 2, 3 y 4 para la obra: Camino Ruta 5-Vialidad Complementaria, Sector El Carolino-Bulnes Sur, Tramo Km. 0,00000 a Km. 1,50000, que figuran a nombre de Champion S.A. Productora de Ave, Tattersal Remates S.A. y Hostelería Las Brisas Limitada, Roles de Avalúos 747-30, 747-198 y 747-31, comuna de Bulnes, VIII Región, superficies 7.494 m2.; 7.089 m2 y 2.637 m2. La Comisión de Peritos fijó, con fecha 29 de noviembre de 2002, el monto de la indemnización provisional en la cantidad de $28.557.200.- para el lote Nº 2;
+
+$27.077.200.- para el lote Nº 3, y $10.036.600.- para el lote Nº 4. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
