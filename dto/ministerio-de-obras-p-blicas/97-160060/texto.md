@@ -1,0 +1,3 @@
+Por Decreto MOP No. 97, de 27 de Marzo de 1992, se expropiaron los lotes de terreno No. s. 13 y 14, superficies 2.667 M2 y 455 M2, rol de avalúo 221-021, Comuna de Santa Bárbara, para la obra Camino de Acceso y de la Red Vial Interna de la Central Pangue, Tramo C. y se acordó precio de indemnización con sus propietarios Elisa del C. Vidal Bastidas y otros ascendentes a la cantidad de $ 818.415.-
+
+Fiscal del Ministerio de Obras Públicas.
