@@ -1,0 +1,3 @@
+Por resolución Nº 88 de 8 septiembre 2000, Serviu Región de Tarapacá, conforme a decretos leyes Nº1.523 de 1976 y Nº2.186 de 1978 y decretos supremos Nº355 de 1976, 63 de 1996 y decreto Nº120 de 2000, todos de Vivienda y Urbanismo, dispuso expropiación total del inmueble ubicado en Iquique, calle Luis Jaspard Nº2585, Rol de Avalúo Nº139-03, de presunto dominio de don Eleodoro Segundo Quiñones Sánchez. Comisión integrada por peritos señores Jorge Romero Ossio, Ricardo Muixi Decona, Constructores Civiles y Santiago Vallejos Medic, Arquitecto, según Informe de Tasación de 6 de agosto 2000, fijó monto provisional de indemnización en $10.160.785 pagadera al contado.
+
+Iván Figueroa Llona, Director Serviu Región de Tarapacá.
