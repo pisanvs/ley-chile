@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 814 de 31 de mayo del 2004, se expropió el lote de terreno Nº 1, superficie 521 m², Rol Nº 169-60, comuna de Arauco, VIII Región, para la obra "Camino Arauco - Lebu por Curihuillin, Sector Puente Los Patos, Km. 0,00000 a Km. 0,20112" y se acordó el valor de indemnización con su propietario Renato del Río del Río, ascendente a la cantidad de $495.101.-
+
+Fiscal del Ministerio de Obras Públicas.
