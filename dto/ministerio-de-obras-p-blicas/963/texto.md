@@ -1,0 +1,5 @@
+Por decreto MOP. No.963, de 30 de julio de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL. MOP. No.850, de 1997, que fijó el texto actualizado de la ley No.15.840 y del DFL. MOP.
+
+No.206, de 1960, se expropió el lote de terreno No.23, para la obra Camino Ruta 5 Norte, tramo Santiago - Los Vilos, Km. 83.100,00 al 87.215,00, Quinta Región, que figura a nombre de Sorge de Seta Rubén, rol de avalúo 152-243, comuna de Llay Llay, superficie 1.702 m². La comisión de peritos integrada por los señores Patricio Benjamín García Toso, José Rogelio Alfredo Reyes Azancot y Luis Pablo Padilla Vergara, fijó con fecha 28 de noviembre de 1997, el valor provisional de la indemnización en la cantidad de $ 1.191.400.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No.2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
