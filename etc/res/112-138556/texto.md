@@ -1,0 +1,5 @@
+AUTORIZA A CONSERVAS Y CONGELADOS FITZ ROY S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 112 de 09 de Febrero de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Conservas y Congelados Fitz Roy S.A. domiciliada en Santiago, para ampliar actividades pesqueras autorizadas por resolución No. 687, de 1987, de esta Subsecretaría, en orden a que podrá procesar en la planta y en las líneas a que se refiere el numeral 2° del mencionado instrumento, además de los ya autorizados, los siguientes recursos: Almeja o taca, almeja, cholga, chorito, choro, lapa, ostra, loco, centolla, jaiba, picoroco, erizo, brótula, chancharro, congrio dorado, congrio negro, congrio colorado, jurel, merluza de cola, pejegallo, róbalo, sierra, tollo, cazón y caballa. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 09 de Febrero de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
