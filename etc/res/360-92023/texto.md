@@ -1,0 +1,3 @@
+Por Resolución No. 360 de 19.04.89 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1987, inmueble ubicado en calle Lord Cochrane No. 518, presunto rol avalúos 646-47 comuna Santiago, aparentemente dominio de don Omar Chacra Orfali. Comisión integrada por peritos Sres. Roberto Correa Bezanilla y Eduardo Suárez Suárez, arquitectos y Pablo Risopatrón Garmendia, ingeniero civil, según informe de 20 de octubre de 1988, fijó monto provisional indemnización en $ 3.611.880.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
