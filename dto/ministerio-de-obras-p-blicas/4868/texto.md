@@ -1,0 +1,3 @@
+Por decreto MOP 4.868, de 31 de octubre del 2000, se expropió el lote de terreno Nº149, superficie 200 m2., rol de avalúo 5802-26, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A, Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Rosa Amelia Mondaca Valdebenito, ascendente a la cantidad de $18.363.942.-
+
+Fiscal del Ministerio de Obras Públicas.
