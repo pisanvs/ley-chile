@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 174, de 26 de julio de 1991, se expropiaron los lotes Nºs. 18-B y 18-C, superficies 383 m2. y 383 m2., roles de avalúo 2036-024 y 2036-003, respectivamente, Comuna de La Cisterna, para la obra Avenida Américo Vespucio, sector Gran Avenida Ochagavía y se acordó precio de indemnización con sus propietarios don Enrique Brante Osorio y doña rifaria Brante Osorio, ascendentes a $ 8.565.081.- para el lote 18-B y $ 6.068.618.- para el lote 18-C.
+
+- Fiscal del Ministerio de Obras Públicas.
