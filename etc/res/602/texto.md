@@ -1,0 +1,5 @@
+Por resolución N° 602, de 22 de Mayo de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a CONGELADOS Y CONSERVAS FITZ ROY S.A., R.U.T. N° 96.512.680-5, domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras que tiene autorizadas por resoluciones N° 687, de 1987, N° 112 y N° 846, ambas de 1988, todas de esta Subsecretaría, en orden a incluir en las líneas de elaboración de congelado, conserva y deshidratado, en la planta industrial que tiene autorizada por las resoluciones antes citadas, además de los recursos hidrobiológicos señalados en dichas resoluciones los siguientes. Caracol locate y navaja de mar.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 22 de Mayo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
