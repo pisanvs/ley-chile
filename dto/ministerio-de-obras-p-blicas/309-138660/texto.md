@@ -1,0 +1,3 @@
+Por decreto MOP No. 309, de 26 de febrero de 1999, se expropió el lote de terreno No. 21, superficie 645 mý, rol de avalúo 21-266, comuna de Río Claro, obra Camino Los Robles-Huencuecho-Bajo Perquín, Sector Los Robles-Huencuecho, y se acordó precio de indemnización con su propietaria Soc. Agrícola y Comercial Camarico Ltda., ascendente a la cantidad de $ 12.617.579.-
+
+Fiscal del Ministerio de Obras Públicas.
