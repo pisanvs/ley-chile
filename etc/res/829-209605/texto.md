@@ -1,0 +1,7 @@
+Por resolución Nº 829, de 15 de abril de 2003, de esta Subsecretaría, modifícase el numeral 6º de la resolución Nº 533, de 2003, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco I y II Región", en el sentido de señalar que las embarcaciones artesanales de la I Región participantes en la presente pesca de investigación podrán capturar, adicionalmente, un máximo de 6.000 toneladas de anchoveta, entre la fecha de la presente resolución y el 30 de abril de 2003, ambas fechas inclusive.
+
+Asimismo, modifícase la resolución Nº 533 de 2003, antes individualizada, en el sentido de incorporar a su numeral 8º, el siguiente inciso final:
+
+"Las plantas de procesamiento que cuenten con autorización para realizar actividades pesqueras de transformación en líneas de reducción, de la I y II Región, podrán procesar las capturas provenientes de naves participantes en la presente pesca de investigación, siempre que éstas se hayan efectuado con red de cerco en el área de estudio, respetando los porcentajes de fauna acompañante y sus respectivos márgenes de tolerancia autorizados".
+
+Valparaíso, 15 de abril de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
