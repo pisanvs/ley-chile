@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.435, de 31 de agosto de 1998, se expropió el lote de terreno No. 115, superficie 812,7 m², rol de avalúo 166-306, comuna de Colina, para la obra Camino Santiago - Colina - Los Andes, Sector A. Vespucio - By Pass Colina, y se acordó el valor de indemnización con su propietaria Pacheco López Ema Rosa, ascendente a la cantidad de $ 5.836.542.-
+
+Fiscal del Ministerio de Obras Públicas.
