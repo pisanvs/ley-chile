@@ -1,0 +1,3 @@
+Por Resolución número 810, de 12 de Julio de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resoluciones N° 571 y N° 584, ambas de 1995 de esta Subsecretaría, que denegaron dos solicitudes de concesión de acuicultura presentada por PESQUERA LOS FIORDOS LTDA., R.U.T. N° 79.872.420-7, para instalar dos centros de cultivo, uno ubicado en Puntilla Tabla y el otro en Sector Punta Paredes, respectivamente, ambos de la localidad de Puerto Cisnes, Comuna de Cisnes, Provincia de Aysén, XI Región, en virtud de nuevos antecedentes técnicos que acreditan que fueron dictadas con un error de hecho.
+
+Valparaíso, 12 de Julio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
