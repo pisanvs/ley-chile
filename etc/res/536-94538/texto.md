@@ -1,0 +1,3 @@
+Por resolución No. 536 de 29 de mayo 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, inmueble, ubicado en Ricardo Santa Cruz 714, presunto rol avalúos 630-15, comuna de Santiago, aparentemente dominio de doña Lucia Vargas Silva. Comisión integrada por peritos Ricardo Carvallo Rodríguez y Luis del Pozo Concha, arquitectos y Raúl Varela Hernández, ingeniero civil, según informe de 2 de diciembre 1988, fijó monto provisional indemnización en $ 2.397.820.-, pagadera al contado.
+
+- Director SERVIU Metropolitano.
