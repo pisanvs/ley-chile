@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 639, de 30 de octubre de 1995, se expropiaron los lotes de terreno Nºs. 50, 52, 62, 64, 65, 10 y 109, superficies 8.734, 3.856, 630, 5.806, 2.536, 5.118 y 73 M2., respectivamente, roles de avalúo Nºs. 315-23, 315-115, 317-68, Comuna de Quirihue para la obra Camino Cauquenes-Límite Regional-Quirihue Sector Cuesta, y se acordó precio de indemnización con sus propietarios Sucesión Juan Candia C., Sucesión César Castillo Molina y Sucesión Waldo Placencia Mora, ascendente a las cantidades de $1.064.382.- $853.483 y $603.784.
+
+Fiscal del Ministerio de Obras Públicas.
