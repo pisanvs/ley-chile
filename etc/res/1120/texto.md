@@ -1,0 +1,13 @@
+Por Resolución N°1.120 de 25 de noviembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a FRIGORIFICO COSTANERA S.A. R.U.T. N° 96.589.990-1, domiciliada en la ciudad de Coquimbo, para iniciar actividades pesqueras de transformación, en orden a operar su planta industrial en la IV Región, ubicada en calle Lo Barrio N° 10, comuna de Coquimbo, donde procesará en las líneas de elaboración de congelado y fresco-refrigerado, los siguientes recursos hidrobiológicos: Congelado y fresco-refrigerado: Acha, Albacora o pez espada, Anchoa o Anchoveta, Anguila, Apañado, Atún aleta amarilla, Atún aleta larga, Azulejo, Bacalao de J. Fernández, Bacalao de profundidad o Mero, Blanquillo, Bonito, Brótula, Caballa, Cabinza, Cabrilla española, Cabrilla común, Cachurreta, Cazón, Chancharro, Cochinilla, Cojinoba del norte, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Dorado, Jurel, Lenguado de ojos chicos, Lenguado de ojos grandes, Lisa, Machuelo o tritre, Marrajo o tiburón, Merluza común, Merluza española, Mulata o vieja negra, Palometa, Pampanito, Pejegallo, Pejeperro, Pejerrata, Pejerrey de mar, Pejesapo, Pejezorro, Raya, Róbalo, Rollizo, Roncacho, Salmón del Pacífico, Sardina común, Sardina, Sargo, Sierra, Tollo, Tomoyo, Trucha arco iris, Almeja o taca, Almeja, Calamar, Caracol locate, Caracol tegula, Caracol trumulco, Chocha, Cholga, Choro, Jibia, Lapa, Macha, Navajuela, Ostión del norte, Ostión del sur, Ostra chilena, Ostra del Pacífico, Pulpo, Camarón de roca, Camarón de río del norte, Camarón nailón, Centolla Centollón, Gamba, Krill, Jaiba, Jaiba mora, Langostino amarillo, Picoroco, Erizo, Pepino de mar, Piure.
+
+La materia prima será adquirida a pescadores artesanales e industriales debidamente autorizados.
+
+Deberá adquirir los recursos Salmón del Pacífico, Trucha arco iris, Ostión del norte y Ostra del Pacífico, de centros de cultivo autorizados.
+
+El recurso Pulpo deberá referirse a individuos mayores de un Kg. de peso.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria respecto de los recursos no mencionados en esta Resolución en virtud de Informe Técnico y disposiciones legales y reglamentarias citadas en Visto.
+
+Vaparaíso, 25 de noviembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
