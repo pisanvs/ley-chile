@@ -1,0 +1,3 @@
+Por Resolución Nº 784, de 4 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las Resoluciones Nº 1.741, de 1989 y Nº 220, de 1990, ambas de esta Subsecretaría, que autorizaron a SOCIEDAD PESQUERA SANTOS DEL MAR LTDA., para iniciar actividades pesqueras extractivas con la nave "Caicaven", por haberse configurado la causal prevista en el artículo 143 letras b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 4 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
