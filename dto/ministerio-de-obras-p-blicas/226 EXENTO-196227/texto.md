@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 226 de fecha 28 de febrero del 2002, se expropiaron los lotes de terrenos Nºs 1 y 2, superficie 295, 558 m2 respectivamente, Rol de Avalúo Nº 338-19, comuna de Pelluhue, para la obra "Camino P. Hundido-Pelluhue P. Las Lomas, Sector Pte. El Durazno, Rol-804, Tramo Km. 0,000 al 0,317.33" y se acordó el valor de indemnización con su propietario Raúl Vera Peñailillo, ascendente a la cantidad de $2.276.256.
+
+- Fiscal del Ministerio de Obras Públicas.
