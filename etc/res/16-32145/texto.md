@@ -1,0 +1,3 @@
+Por Resolución N° 16 de 14 Septiembre de 1993, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VI Región, se adjudicó a Revitec Limitada la concesión para operar, por un plazo de cinco años a contar de la publicación del presente extracto, un establecimiento ubicado en calle Las Rosas de Antivero/Parcela 20 N° s/n de la comuna de San Fernando, destinado a la revisión técnica y verificación de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Luis Díaz Solís, Secretario Regional Ministerial de Transportes y Telecomunicaciones VI Región.
