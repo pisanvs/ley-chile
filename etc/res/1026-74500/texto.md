@@ -1,0 +1,3 @@
+Por Resolución Nº 1.026, de 17 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase parcialmente sin efecto la Resolución Nº 1.268, de 1991, de esta Subsecretaría, que autorizó a FLOR ALBORNOZ TOBAR, para operar un establecimiento de cultivo ubicado en Puerto Pérez, Isla Grupo Cinco Hermanos, Seno de Aysén, comuna y Provincia de Aysén, XI Región, sólo en lo que respecta al sector 1, en virtud de haberse denegado la respectiva solicitud de concesión de acuicultura.
+
+Valparaíso, 17 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
