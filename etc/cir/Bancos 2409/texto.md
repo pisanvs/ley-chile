@@ -16896,7 +16896,7 @@ según se trate de un banco o de una sociedad financiera, respectivamente.
 
 Para establecer el monto de las obligaciones sujetas al margen de que tratan los artículos 81 y 115 de la Ley General de Bancos, se sumarán los saldos de las cuentas que deben incluirse en las partidas 3005 a 3820, exceptuados los de aquellas comprendidas en las partidas 3430 y 3485 ("Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central de Chile").
 
-A lo anterior se sumará el saldo de la cuenta "Bonos subordinados computados como obligaciones", de la partida 9700.
+A lo anterior se sumarán los saldos de las cuentas de orden "Bonos subordinados computados como obligaciones" y "Endeudamiento por contratos de compraventa y arbitrajes a futuro", ambas de la partida 9700.
 
 Además, se incluirán todas las cauciones y garantías registradas en cuentas dela partida 9290, por obligaciones que no se hayan computado al considerar laspartidas señaladas en el párrafo anteprecedente.
 
@@ -17348,23 +17348,9 @@ crédito de los respectivos deudores, mientras no sean efectivamente pagadas o n
 
 se extinga legalmente la obligación de éstos por otra causa.
 
-### 8. Compromisos de compra o venta a futuro de divisas
+8.- Compromisos por compraventas y arbitrales a futuro de monedas extranjeras.
 
-Para los efectos de su cómputo para los límites individuales de crédito, las
-
-colocaciones contingentes derivadas de las operaciones de compra de divisas a
-
-futuro, por el monto de la moneda extranjera, como asimismo las que se originan
-
-por el valor en moneda chilena de ventas a futuro de divisas, deben considerarse
-
-ponderadas por el factor 0,17, atendido que el riesgo y consecuentemente la
-
-responsabilidad de esta operación está representado sólo por las posibles
-
-variaciones o pérdidas de cambio que pueden producirse en la fecha de
-
-liquidación de los contratos.
+El cómputo, para efectos de los límites individuales de crédito, en estas operaciones se hará considerando sólo la diferencia entre el precio pactado a futuro y el precio al contado de las mismas, a la fecha de celebración del pacto, cuando esa diferencia sea de cargo del correspondiente deudor.
 
 ### III. GARANTIAS VALIDAS PARA AMPLIAR LOS MARGENES DE CREDITO
 
@@ -18334,6 +18320,8 @@ c) Operaciones de compra de valores mobiliarios o efectos de comercio, cuando ha
 
 d) Instrumentos emitidos por empresas relacionadas que se mantengan como inversiones financieras.
 
+e) Obligaciones por compraventas y arbitrajes a futuro de monedas extranjeras.
+
 Cuando se trate de créditos expresados en monedas extranjeras, éstos deben convertirse a moneda local de acuerdo con el tipo de cambio de representación contable establecido por esta Superintendencia.
 
 Los montos incluirán, además del capital adeudado, los reajustes e intereses por cobrar que se encuentren registrados en la contabilidad de acuerdo con las instrucciones de esta Superintendencia. Por consiguiente, incluirán los reajustes e intereses registrados tanto en el activo como aquellos que estuvieren anotados en cuentas de orden.
@@ -19036,11 +19024,9 @@ El monto total de este endeudamiento, a menos de un año plazo, no puede exceder
 
 Las obligaciones que las empresas bancarias mantengan en el exterior a menos de un año plazo, excluidas las que se destinen al financiamiento de exportaciones, no pueden exceder en promedio, de la suma de los siguientes rubros:
 
-a) El 100% del capital pagado y reservas;
+a) El 100% del capital pagado y reservas.
 
-b) El promedio de los depósitos y captaciones en moneda extranjera, obtenidos de personas establecidas en el país, distintas de bancos y financieras; y,
-
-c) El promedio de las divisas vendidas por cuenta propia al Banco Central de Chile con pacto de recompra de acuerdo con las disposiciones del Capítulo IV.E.1 del Compendio de Normas Financieras.
+b) El promedio de los depósitos y captaciones en moneda extranjera, obtenidos de personas establecidas en el país, distintas de bancos y financieras.
 
 1.3. Excepciones.
 
@@ -19056,43 +19042,17 @@ No se considerarán en el cómputo de las obligaciones, los intereses devengados
 
 ### 3. Cesión de márgenes entre instituciones financieras
 
-Las instituciones financieras podrán traspasarse entre sí los márgenes que, de
+Las instituciones financieras podrán traspasarse entre sí los márgenes que, de acuerdo a lo señalado en los números precedentes, tengan disponibles.
 
-acuerdo a lo señalado en los números precedentes, tengan disponibles.
+Estas cesiones de margen podrán hacerse por períodos mínimos de un mes calendario completo.
 
-Estas cesiones de margen podrán hacerse por períodos mínimos de un mes
+La entidad que traspase parte de su margen a otra institución no podrá exceder el promedio de sus obligaciones con el exterior, a menos de un año, del límite señalado en el número 1 de este capítulo, deducidas las cesiones de márgenes que haya efectuado, aun en el caso en que se encuentre facultada para excederse en razón de ser el plazo promedio de su endeudamiento externo no inferior a tres años.
 
-calendario completo.
+Los traspasos de márgenes deben ser comunicados en conjunto por la entidad cedente y por la cesionaria, tanto a esta Superintendencia como al Banco Central de Chile. Esa comunicación se efectuará a más tardar el último día hábil del mes en que se haya realizado el traspaso yen ella se informará el monto traspasado y el período de vigencia.
 
-La entidad que traspase parte de su margen a otra institución no podrá exceder
+Igualmente, dentro del mismo plazo, deberá comunicarse cualquiera modificación a los traspasos acordados.
 
-el promedio de sus obligaciones con el exterior, a menos de un año, del límite
-
-señalado en el número 1 de este capítulo, deducidas las cesiones de márgenes que
-
-haya efectuado, aun en el caso en que se encuentre facultada para excederse en
-
-razón de ser el plazo promedio de su endeudamiento externo no inferior a tres
-
-años.
-
-Los traspasos de márgenes deben ser comunicados en conjunto por la entidad
-
-cedente y por la cesionaria, tanto a esta Superintendencia como a la Gerencia de
-
-Financiamiento Externo del Banco Central de Chile. Esa comunicación se efectuará
-
-a más tardar el último día hábil del mes en que se haya realizado el traspaso
-
-yen ella se informará el monto traspasado y el período de vigencia.
-
-Igualmente, dentro del mismo plazo, deberá comunicarse cualquiera modificación a
-
-los traspasos acordados.
-
-Las instituciones financieras que reciban márgenes traspasados no podrán, a su
-
-vez, cederlos a otros bancos o sociedades financieras.
+Las instituciones financieras que reciban márgenes traspasados no podrán, a su vez, cederlos a otros bancos o sociedades financieras.
 
 ### 4. Determinación de los plazos
 
@@ -19117,16 +19077,6 @@ cuota; luego se dividirá la suma de los productos obtenidos de esas
 multiplicaciones por el monto total del crédito y ello dará el plazo promedio de
 
 vigencia.
-
-### 5. Información a esta Superintendencia y al Banco Central de Chile
-
-Los bancos y sociedades financieras enviarán mensualmente a esta
-
-Superintendencia y al Banco Central de Chile, los formularios M-32-1 y M-32-
-
-2,según el modelo e instrucciones contenidos en el "Manual del Sistema de
-
-Información".
 
 CAPITULO 12-9 (Bancos y Financieras)
 
@@ -19299,6 +19249,8 @@ b) Los saldos registrados en moneda chilena en las cuentas de intereses, por cob
 IMAGEN.
 
 Sin perjuicio de la información que puede solicitarse para verificar el cumplimiento de los límites en el curso del mes, los datos para determinar la situación al cierre de cada mes los obtendrá este Organismo mediante el procesamiento de los saldos informados en el archivo C01.
+
+> **Nota.** La letra G, de la Circular 2701, SBIF, promulgada el 27.08.1992, modifica el presente Anexo, a fin de actualizar sus referencias a partidas; se elimina la mención a las partidas 1625 y 3625, actualmente no vigentes, se agregan las partidas 2126 y 4126 y se remplaza una cuenta.
 
 ANEXO N°4
 
@@ -20110,13 +20062,11 @@ El saldo de esta cuenta no podrá exceder el monto total de las divisas recompra
 
 Los giros que se hagan con cargo a las cuentas corrientes especiales de que trata el presente capítulo, podrán destinarse exclusivamente a alguno de los siguientes fines:
 
-a) Para su conversión a moneda nacional;
+a) Para su conversión a moneda nacional.
 
-b) Para liquidar a moneda nacional con el objeto de efectuar pagos al exterior;
+b) Para liquidar a moneda nacional con el objeto de efectuar pagos al exterior.
 
-c) Para realizar las operaciones de venta de divisas con pacto de recompra, de que trata el Capítulo IV.E.1 del Compendio de Normas Financieras; y,
-
-d) Para traspasar el total del saldo a otra empresa bancaria establecida en el país.
+c) Para traspasar el total del saldo a otra empresa bancaria establecida en el país.
 
 Los giros con cargo a esta cuenta, se efectuarán mediante "cheques internos" o "cheques sueltos", extendidos a la propia orden del titular de la cuenta y que, en cada oportunidad proporcionará el banco. Cada giro que se realice, deberá acompañarse de una declaración del titular en la que se indique el destino que se dará a esos recursos y que no podrá ser otro que alguno de los contemplados expresamente en las disposiciones del Banco Central de Chile. Además, cuando proceda, los bancos requerirán del titular la presentación de la respectiva autorización del Instituto Emisor para girar de esta cuenta.
 
@@ -20845,10 +20795,6 @@ Con estas divisas deberán efectuar algunas de las siguientes operaciones:
 a) Liquidar a moneda chilena para cursar las colocaciones a que se refiere este capítulo.
 
 b) Liquidar a moneda chilena con el objeto de efectuar, en caso que proceda, pagos al exterior, previa autorización del Banco Central de Chile.
-
-c) Adquirir pagarés en dólares emitidos por el Banco Central de Chile, a que se refiere el Capítulo IV.B.9 del Compendio de Normas Financieras y la Circular N° 1.899-349 del 28 de marzo de 1983, de este Organismo.
-
-d) Adquirir pagarés en dólares emitidos por la Tesorería General de la República.
 
 ### 4. Normas contables
 
@@ -22750,7 +22696,7 @@ b) Entregar al Banco Central de Chile, dentro de los veinte primeros días hábi
 
 Los bancos que hayan aceptado actuar en calidad de bancos designados de los participantes en las operaciones de que se trata, se obligan a:
 
-a) Entregar al Departamento de Cambios del Banco Central de Chile, dentro de los veinte primeros días hábiles bancarios de cada mes, el resumen de las compras y ventas de divisas relativas a las operaciones a futuro de que se trata, efectuadas por las personas autorizadas para operar en Bolsas Oficiales Extranjeras, correspondiente al mes inmediatamente anterior.
+a) Entregar al Banco Central de Chile, dentro de los veinte primeros días hábiles bancarios de cada mes, el resumen de las compras y ventas de divisas relativas a las operaciones a futuro de que se trata, efectuadas por las personas autorizadas para operar en Bolsas Oficiales Extranjeras, correspondiente al mes inmediatamente anterior.
 
 b) Abrir una carpeta para cada uno de sus clientes, en la que deben mantener todos los documentos relativos a las operaciones realizadas por su intermedio.
 
@@ -23386,7 +23332,7 @@ respectivas obligaciones con el exterior.
 
 ### 6. Registro de los contratos en el Banco Central de Chile
 
-Los bancos que suscriban contratos de protección de tasa de interés flotante, ya sea por cuenta propia o de terceros, enviarán un ejemplar de éstos a la Gerencia de Cambios Internacionales del Banco Central de Chile, para su registro, dentro de los diez días hábiles bancarios siguientes a la fecha en que se hayan suscrito,debiendo proceder en la forma establecida en el Anexo N° 3 del Capítulo IX antes mencionado.
+Los bancos que suscriban contratos de protección de tasa de interés flotante, ya sea por cuenta propia o de terceros, enviarán un ejemplar de éstos al Banco Central de Chile, para su registro, dentro de los diez días hábiles bancarios siguientes a la fecha en que se hayan suscrito,debiendo proceder en la forma establecida en el Anexo N° 3 del Capítulo IX antes mencionado.
 
 ### 7. Operaciones de cambios derivadas de los contratos
 
@@ -23398,35 +23344,13 @@ a) Pagar las comisiones especificadas en el correspondiente contrato; y,
 
 b) Diferencias que puedan estar obligadas a solucionar, en el evento de haber convenido la modalidad de contrato denominada "FLOOR".
 
-8. Prohibición de modificar, ceder o liquidar anticipadamente contratos sin
+8. Prohibición de modificar, ceder o liquidar anticipadamente contratos sin autorización del Instituto Emisor.
 
-autorización del Instituto Emisor.
+Los contratos de protección de tasa de interés flotante, una vez registrados,sólo podrán ser modificados, cedidos o liquidados anticipadamente, si el Banco Central de Chile hubiere otorgado previamente su autorización para tal efecto, la que podrá ser denegada sin expresión de causa.
 
-Los contratos de protección de tasa de interés flotante, una vez
+9. Facultad del Banco Central de Chile para requerir información respecto a estas operaciones.
 
-registrados,sólo podrán ser modificados, cedidos o liquidados anticipadamente,
-
-si la Gerencia de Cambios Internacionales del Banco Central de Chile hubiere
-
-otorgado previamente su autorización para tal efecto, la que podrá ser denegada
-
-sin expresión de causa.
-
-9. Facultad del Banco Central de Chile para requerir información respecto a
-
-estas operaciones.
-
-El Banco Central de Chile, por intermedio de su Gerencia de Cambios
-
-Internacionales, puede exigir en cualquier momento la presentación de
-
-antecedentes tales como comprobantes de pago, registros contables y otros
-
-documentos sustentatorios de las operaciones de que se trata, como asimismo
-
-cualquier otra información que estime necesaria, relacionada con los contratos
-
-de protección de tasa de interés flotante.
+El Banco Central de Chile puede exigir en cualquier momento la presentación de antecedentes tales como comprobantes de pago, registros contables y otros documentos sustentatorios de las operaciones de que se trata, como asimismo cualquier otra información que estime necesaria, relacionada con los contratos de protección de tasa de interés flotante.
 
 ### 10. Responsabilidad de los bancos que celebren contratos
 
@@ -24688,7 +24612,7 @@ El importe registrado en la cuenta "Beneficios por devengar de pagarés terceros
 
 5.1. Monto máximo de descuentos que se pueden realizar con depósitos a plazo.
 
-El saldo de colocaciones correspondientes a pagarés descontados que mantengan los bancos, financiadas con recursos provenientes de depósitos y captaciones a plazo en moneda extranjera, no podrá exceder el 20% de los saldos diarios que registren por concepto de dichos depósitos y captaciones.
+El saldo de colocaciones correspondientes a pagarés descontados que mantengan los bancos, financiadas con recursos provenientes de depósitos y captaciones a plazo en moneda extranjera, no podrá exceder el 25% de los saldos diarios que registren por concepto de dichos depósitos y captaciones, más el 25% de los saldos diarios de sus obligaciones con el exterior.
 
 5.2. limite de crédito.
 
@@ -24702,317 +24626,117 @@ MATERIA:
 
 RESERVAS Y PROVISIONES EN MONEDA EXTRANJERA.
 
-### 1. Generalidades
+1.- Generalidades.
 
-Los bancos pueden mantener divisas en calidad de reservas o provisiones en
+Los bancos pueden mantener divisas en calidad de reservas o provisiones en moneda extranjera, generadas principalmente por la compra que les ha permitido efectuar anualmente el Banco Central de Chile, de sus ingresos netos en esas monedas.
 
-moneda extranjera, generadas principalmente por la compra que les ha permitido
+Además, los bancos receptores de aportes de capital del exterior acogidos a las disposiciones del Decreto Ley N° 600, de 1974, como sucede con las sucursales de bancos extranjeros, pueden mantener en calidad de reservas sus utilidades liquidas, convertidas a moneda extranjera, siempre que para ello cuenten con la aprobación de esta Superintendencia y del Banco Central de Chile.
 
-efectuar anualmente el Banco Central de Chile, de sus ingresos netos en esas
+El uso que las entidades bancarias pueden dar a estos recursos en moneda extranjera, es el que se indica en los N°s. 2 y 3 de este Capitulo.
 
-monedas.
+2.- Reservas en moneda extranjera no remesables al exterior y provisiones en moneda extranjera.
 
-Además, los bancos receptores de aportes de capital del exterior acogidos a las
+Las reservas o provisiones en moneda extranjera que mantengan los bancos, originadas en la adquisición de los ingresos netos en esas monedas o provenientes de otras fuentes distintas a las utilidades de los aportes de capital del D.L. 600, podrán utilizarse solamente en los siguientes fines, según lo dispuesto en el Compendio de Normas Financieras del Banco Central de Chile:
 
-disposiciones del Decreto Ley N° 600, de 1974, como sucede con las sucursales de
+a) Financiar operaciones de comercio exterior de conformidad con las normas del Instituto Emisor.
 
-bancos extranjeros, pueden mantener en calidad de reservas sus utilidades
+b) Castigar operaciones en moneda extranjera, previa autorización de este Organismo Fiscalizador y del Banco Central de Chile, según lo señalado en el N° 4 de este Capitulo.
 
-líquidas, convertidas a moneda extranjera, siempre que para ello cuenten con la
+3.- Reservas correspondientes a utilidades remesables al exterior.
 
-aprobación de esta Superintendencia y del Banco Central de Chile.
+La moneda extranjera que sea el producto de utilidades acumuladas remesables al exterior, mantenidas como reservas con autorización de esta Superintendencia y del Banco Central de Chile, sólo podrá destinarse a ser remesada al exterior, de conformidad con lo dispuesto en el Capítulo XI del Título I del Compendio de Normas de Cambios Internacionales.
 
-El uso que las entidades bancarias pueden dar a estos recursos en moneda
+4.- Castigo de operaciones en moneda extranjera con provisiones o reservas en dichas monedas.
 
-extranjera, es el que se indica en los N°s. 2, 3 y 4 de este capítulo.
-
-### 2. Reservas en moneda extranjera no remesables al exterior
-
-Las reservas en moneda extranjera que mantengan los bancos, originadas en la adquisición de los ingresos netos en esas monedas o provenientes de otras fuentes distintas a las utilidades de los aportes de capital del D.L. 600, podrán utilizarse solamente en los siguientes fines, según lo dispuesto en el Capítulo XI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile:
-
-a) Utilizarse para financiar operaciones de comercio exterior de conformidad con las normas del Instituto Emisor. En este caso, una vez que las divisas sean recuperadas de la respectiva operación, deberán reintegrarse a la cuenta especial N° 2; y,
-
-b) Castigar, previa autorización de este Organismo Fiscalizador y del Banco Central de Chile, operaciones en moneda extranjera, en los términos del N° 5 de este capítulo.
-
-### 3. Reservas correspondientes a utilidades remesables al exterior
-
-La moneda extranjera que sea el producto de utilidades acumuladas remesables al exterior, mantenidas como reservas con autorización de esta Superintendencia y del Banco Central de Chile, deberá emplearse en alguno de los siguientes fines exclusivos:
-
-a) Constituir depósitos en moneda extranjera en empresas bancadas establecidas en Chile;
-
-b) Adquirir pagarés del Banco Central de Chile en dólares norteamericanos, según el Capítulo IV.B.9 del Compendio de Normas Financieras y la Circular de esta Superintendencia N° 1.899-349, del 28 de marzo de 1983;
-
-c) Adquirir pagarés en dólares norteamericanos emitidos por la Tesorería General de la República;
-
-d) Remesar al exterior de acuerdo a los procedimientos establecidos por el Instituto Emisor, previa conformidad de esta Superintendencia y del Banco Central de Chile;
-
-e) Financiar operaciones de comercio exterior.
-
-### 4. Provisiones en moneda extranjera
-
-Las instituciones bancarias que mantengan provisiones en moneda extranjera, sólo pueden utilizar dichos recursos en castigar operaciones en moneda extranjera, de conformidad con lo dispuesto en el N° 5 de este Capítulo.
-
-5. Castigo de operaciones en moneda extranjera con provisiones o reservas en dichas monedas.
-
-5.1. Facultad de castigar operaciones en moneda extranjera.
+4.1.- Facultad de castigar operaciones en moneda extranjera.
 
 Los bancos pueden utilizar las provisiones y reservas en moneda extranjera que mantengan, para castigar colocaciones en dichas monedas, que estimen irrecuperables, siempre que obtengan previamente la autorización del Banco Central de Chile y de esta Superintendencia para tal efecto.
 
-5.2. Autorización de esta Superintendencia.
+4.2.- Autorización de esta Superintendencia
 
-En la solicitud para obtener la autorización de esta Superintendencia con el fin de efectuar un castigo con reservas o provisiones en moneda extranjera, deberá detallarse cada una de las operaciones que se desea castigar y las razones que motivan el castigo. Además, se identificará la reserva o provisión que se utilizará para ese efecto, indicando la cuenta en la cual se encuentra registrada, según la clasificación establecida en los numerales 6.1 y 6.2 de este capítulo.
+En la solicitud para obtener la autorización de esta Superintendencia con el fin de efectuar un castigo con reservas o provisiones en moneda extranjera, deberá detallarse cada una de las operaciones que se desea castigar y las razones que motivan el castigo.
 
-5.3. Liquidación de compra y venta de moneda extranjera.
+4.3.- Liquidación de compra y venta de moneda extranjera.
 
-Los bancos, previa la autorización a que se refiere el numeral 5.1 anterior, deberán liquidar en el mercado cambiario formal, con cargo a sus provisiones o reservas en monedas extranjeras, una cantidad igual al monto de las colocaciones que en esas monedas se castigue.
+Los bancos, previa la autorización a que se refiere el numeral 4.1 anterior, deberán liquidar en el mercado cambiario formal, con cargo a sus provisiones o reservas en monedas extranjeras, una cantidad igual al monto de las colocaciones que en esas monedas se castigue.
 
-Si la operación que va a ser castigada está expresada en una moneda distinta a aquéllas en que están constituidas las provisiones o reservas que se aplicarán, la suma de éstas que se liquide deberá calcularse sobre la relación de paridad que exista entre la moneda correspondiente a la colocación que se castiga y aquella que se detraerá de la provisión o reserva, informada por el Banco
+Si la operación que va a ser castigada esta expresada en una moneda distinta a aquellas en que están constituidas las provisiones o reservas que se aplicarán, la suma de éstas que se liquide deberá calcularse sobre la relación de paridad que exista entre la moneda correspondiente a la colocación que se castiga y aquélla que se detraerá de la provisión o reserva, informada por el Banco Central de Chile en el "Informativo Diario" correspondiente a la fecha en que se realice el castigo.
 
-Central de Chile en el Informativo Diario correspondiente a la fecha en que se realice el castigo.
+El ingreso que se haga a la Posición de Cambios de las divisas que se detraigan de las provisiones o reservas, deberá hacerse simultáneamente con el egreso o venta de la moneda extranjera con cargo a la misma Posición, para el castigo de la respectiva colocación.
 
-El ingreso que se haga a la Posición de Cambios de las divisas que se detraigan de las provisiones o reservas, deberá hacerse simultáneamente con el egreso o venta de la moneda extranjera con cargo a la misma Posición, para el castigo dela respectiva colocación.
+4.4.- Información sobre las operaciones castigadas.
 
-5.4. Información sobre las operaciones castigadas.
+Los bancos deberán mantener a disposición de esta Superintendencia, para la oportunidad en que les sean requeridos, todos los antecedentes relativos a cada una de las operaciones que castiguen con cargo a sus propios recursos en monedas extranjeras, incluidos en ellos copias de las respectivas planillas de ingreso y egreso de cambios, por la compra y venta de divisas a que dé origen cada castigo.
 
-Los bancos deberán mantener a disposición de esta Superintendencia, para la oportunidad en que les sean requeridos, todos los antecedentes relativos a cada una de las operaciones que castiguen con cargo a sus propios recursos en monedas extranjeras, incluidos en ellos, copias de las respectivas planillas de ingreso y egreso de cambios, por la compra y venta de divisas a que dé origen cada castigo.
+5.- Instrucciones contables.
 
-### 6. Instrucciones contables
+Las empresas bancarias deberán atenerse a las siguientes instrucciones para el registro de las operaciones de que se trata.
 
-Las empresas bancarias deberán atenerse a las siguientes instrucciones para el
+5.1.- Reservas y provisiones en moneda extranjera
 
-registro de las operaciones de que se trata:
+a) Moneda extranjera
 
-6.1. Reservas en moneda extranjera.
-
-a) Moneda extranjera.
-
-El importe de las reservas en moneda extranjera que mantienen las empresas
-
-bancarias, debe mantenerse registrado en las siguientes cuentas, según su
-
-origen:
-
-i) "Reservas en M/E constituidas con excedentes en M/E", la que comprende las
-
-siguientes subcuentas: "Recursos adquiridos con utilidades remesables D.L. 600";
-
-"Recursos adquiridos hasta el 02.07. 85"; y, "Recursos adquiridos desde el
-
-03.07.85".
-
-ii) "Reservas en M/E constituidas con utilidades D.L. 600", la que incluye las
-
-siguientes subcuentas: "Utilidades por remesar"; y, "Utilidades por
-
-capitalizar".
-
-Las referidas cuentas deben demostrarse en la partida 4520 del formulario MB1.
+Los importes de las reservas en moneda extranjera que mantienen las empresas bancarias deben encontrarse registrados en la cuenta "Reservas en M/E constituidas con excedentes en M/E" o en la cuenta "Reservas en M/E constituidas con utilidades remesables al exterior", según cual sea su origen, ambas de la partida 4520 Al tratarse de provisiones, ellas se reflejarán en la cuenta "Provisiones en moneda extranjera", de la misma partida.
 
 b) Moneda chilena.
 
-El equivalente en moneda chilena de cada una de las reservas en moneda
+El respectivo equivalente en moneda chilena de las reservas y provisiones en moneda extranjera, a su vez, debe estar registrado en las cuentas "Equivalente reservas en M/E constituidas con excedentes en M/E", "Equivalente reservas en M/E constituidas con utilidades remesables al exterior" o "Equivalente provisiones en moneda extranjera", según corresponda, todas de la partida 2520.
 
-extranjera, a su vez, debe estar registrado en las cuentas que a continuación se
+5.2.- Ajuste de las cuentas que registren los equivalentes en moneda chilena
 
-indican:
+El saldo de las cuentas "Equivalente reservas en M/E constituidas con excedentes en M/E", "Equivalente reservas en M/E constituidas con utilidades remesables al exterior" y "Equivalente provisiones en moneda extranjera", deberá ajustarse mensualmente de acuerdo con el tipo de cambio de representación contable vigente a la fecha del ajuste, con abono a la cuenta "Variación del tipo de cambio de recursos en M/E-Reservas y Provisiones", de la partida 7725 Esta misma cuenta debe utilizarse en el evento de que se produjere una variación negativa del tipo de cambio, que signifique un cargo a resultados.
 
-i) Cuenta "Equivalente reservas en M/E constituidas con excedentes en M/E", la
+5.3.- Remesa de utilidades.
 
-que comprende las siguientes subcuentas: "Equivalente recursos adquiridos con
-
-utilidades remesables D.L. 600"; "Equivalente recursos adquiridos hasta el
-
-02.07.85"; y, "Equivalente recursos adquiridos desde el 03.07.85".
-
-ii) Cuenta "Equivalente reservas en M/E constituidas con utilidades D.L. 600",
-
-la que incluye las siguientes subcuentas: "Equivalente utilidades por remesar";
-
-y, "Equivalente utilidades por capitalizar".
-
-Las mencionadas cuentas deben demostrarse en la partida 2520 del formulario MB1.
-
-6.2. Provisiones en moneda extranjera.
+Las instituciones bancarias que, previa autorización de esta Superintendencia, remesen al exterior utilidades por las cuales hayan constituido reservas en moneda extranjera, registrarán dicha operación de la forma que se indica a continuación.
 
 a) Moneda extranjera.
 
-El importe de las provisiones en moneda extranjera que mantengan las
+Debe: - "Reservas en M/E constituidas con utilidades remesables al exterior", por el importe que se liquide de la moneda extranjera en que se mantenían invertidas las utilidades por remesar.
 
-instituciones bancarias, debe encontrarse registrado en las siguientes cuentas,
+- "Conversión mercado bancario", de la partida 2505 ó 4505, por la venta (Egreso de la Posición de Cambio) de la moneda extranjera necesaria para efectuar la remesa al exterior.
 
-según su origen:
-
-i) "Provisiones en M/E constituidas con excedentes en M/E"; y,
-
-ii) "Otras provisiones en M/E".
-
-Estas cuentas deben demostrarse en la partida 4520 del formulario MB1.
-
-b) Moneda chilena.
-
-El equivalente en moneda chilena de las provisiones en moneda extranjera, a la
-
-vez, se debe mantener registrado como sigue:
-
-i) "Equivalente provisiones en M/E constituidas con excedentes en M/E"; y,
-
-ii) "Equivalente otras provisiones en M/E".
-
-Ambas cuentas deben demostrarse en la partida 2520 del formulario MB1.
-
-6.3. Ajuste de las cuentas que registren los equivalentes en moneda chilena
-
-El saldo de las cuentas "Equivalente reservas en M/E constituidas con excedentes
-
-en M/E", "Equivalente reservas en M/E constituidas con utilidades D.L. 600",
-
-"Equivalente provisiones en M/E constituidas con excedentes en M/E" y
-
-"Equivalente otras provisiones en M/E", deberá ajustarse mensualmente de acuerdo
-
-con el tipo de cambio de representación contable fijado por esta
-
-Superintendencia, que se encuentre vigente a la fecha del ajuste, con abono a la
-
-cuenta "Variación del tipo de cambio de recursos en M/E-Reservas y Provisiones",
-
-de la partida 7725 del formulario MR1. Esta misma cuenta debe utilizarse en el
-
-evento de que se produjere una variación negativa del tipo de cambio, que
-
-signifique un cargo a resultados.
-
-6.4. Remesa de utilidades.
-
-Las instituciones bancarias que, previa autorización de esta Superintendencia,
-
-remesen al exterior utilidades por las cuales hayan constituido reservas en
-
-moneda extranjera, registrarán dicha operación de la forma que se indica a
-
-continuación:
-
-a) Moneda extranjera.
-
-Debe: - La cuenta de reservas que corresponda de la partida 4520 del formulario
-
-MB1, por el importe que se liquide de la moneda extranjera en que se mantenían
-
-invertidas las utilidades por remesar.
-
-- "Conversión mercado bancario", de la partida 2505 ó 4505 del formulario MB1,
-
-por la venta (Egreso de la Posición de Cambio) de la moneda extranjera necesaria
-
-para adquirir las divisas necesarias para efectuar la remesa al exterior.
-
-Haber: - "Conversión mercado bancario", por la compra (Ingreso a la Posición de
-
-Cambio) de las reservas en moneda extranjera que se liquidan.
+Haber: - "Conversión mercado bancario", por la compra (Ingreso a la Posición de Cambios) de las reservas en moneda extranjera que se liquidan.
 
 - La cuenta que corresponda por el giro para remesar las utilidades al exterior.
 
-El monto en moneda extranjera a remesar corresponderá al equivalente de las
+b) Moneda chilena.
 
-utilidades retenidas que se rebajan de la respectiva cuenta de la partida 4320
+Debe: - La cuenta de patrimonio que corresponda, de la partida 4320, por el importe de las utilidades que se remesan, corregidas monetariamente, incluido el impuesto que proceda.
 
-del formulario MB1, deducido el impuesto que corresponda, convertido de acuerdo
+- "Cambio mercado bancario", de la partida 2505 ó 4505, por el equivalente de las reservas en moneda extranjera liquidadas.
 
-con el tipo de cambio que rige para el efecto.
+Haber: - "Cambio mercado bancario", por el equivalente de la moneda extranjera vendida para remesar las utilidades al exterior, calculado al tipo de cambio más alto del mercado. Este importe no podrá ser, en caso alguno, superior al monto en moneda chilena detraído de las cuentas de patrimonio, menos el impuesto que corresponda.
+
+- "Equivalente reservas en M/E constituidas con utilidades remesables al exterior".
+
+- "Provisión de impuesto por remesas de utilidades", de la partida 4120, para reflejar el impuesto correspondiente a la utilidad remesada, en forma independiente del pago provisional Esta provisión se saldará al año siguiente, de acuerdo con la respectiva declaración de impuestos.
+
+En todo caso, se entiende que para efectuar la remesa se debe haber dado cumplimiento a las disposiciones tributarias mediante el pago provisional del impuesto correspondiente.
+
+La respectiva cuenta del equivalente en moneda chilena de la partida 2520 se deberá ajustar previamente sobre la base del tipo de cambio establecido para el efecto, que se encuentre vigente en la fecha del ajuste.
+
+5.4.- Castigo de colocaciones en moneda extranjera.
+
+a) Moneda extranjera
+
+Debe: - La cuenta de provisiones o reservas que corresponda de la partida 4520, por el importe en moneda extranjera que se utilice en el castigo.
+
+- "Conversión mercado bancario", por el egreso de la Posición de Cambios del importe en moneda extranjera para efectuar el castigo.
+
+Haber: - "Conversión mercado bancario", por la liquidación de las divisas provenientes de provisiones o reservas.
+
+- La cuenta de colocación que corresponda por el castigo de la operación en moneda extranjera.
 
 b) Moneda chilena.
 
-Debe: - La cuenta de patrimonio que corresponda, de la partida 4320 del
+Debe: - La cuenta de provisiones individuales sobre cartera vencida, de provisión global sobre la cartera de colocaciones o la que corresponda, por el importe castigado expresado por su equivalente en moneda chilena.
 
-formulario MB1, por el importe de las utilidades que se remesan, corregidas
+- "Cambio mercado bancario", por el equivalente de la moneda extranjera liquidada proveniente de provisiones o reservas.
 
-monetariamente, incluido el impuesto que proceda.
+Haber: - "Cambio mercado bancario", por el equivalente de la moneda extranjera que egresa de la Posición de Cambios para efectuar el castigo.
 
-- "Cambio mercado bancario", de la partida 2505 ó 4505 del formulario MB1, por
-
-el equivalente de las reservas en moneda extranjera liquidadas.
-
-Haber: - "Cambio mercado bancario", por el equivalente de la moneda extranjera
-
-vendida para remesar las utilidades al exterior, calculado al tipo de cambio más
-
-alto del mercado. Este importe no podrá ser, en caso alguno, superior al monto
-
-en moneda chilena detraído de las cuentas de patrimonio, menos el impuesto que
-
-corresponda.
-
-- La cuenta del equivalente en moneda chilena que proceda, de la partida 2520
-
-del formulario MB1.
-
-- "Provisión de impuesto por remesas de utilidades" que formará parte de la
-
-partida 4120 del formulario MB1 para reflejar el impuesto correspondiente a la
-
-utilidad remesada, en forma independiente del pago provisional. Esta provisión
-
-se saldará al año siguiente, de acuerdo con la respectiva declaración de
-
-impuestos.
-
-En todo caso, se entiende que para efectuar la remesa se debe haber dado
-
-cumplimiento a las disposiciones tributarias mediante el pago provisional del
-
-impuesto correspondiente.
-
-La respectiva cuenta del equivalente en moneda chilena de la partida 2520 que se
-
-utilice según las instrucciones precedentes, se deberá ajustar previamente sobre
-
-la base del tipo de cambio establecido para el efecto, que se encuentre vigente
-
-en la fecha del ajuste.
-
-6.5. Castigo de colocaciones en moneda extranjera.
-
-a) Moneda extranjera.
-
-Debe: - La cuenta de provisiones o reservas que corresponda de la partida 4520
-
-del formulario MB1, por el importe en moneda extranjera que se utilice en el
-
-castigo.
-
-- "Conversión mercado bancario", por el egreso de la Posición de Cambios del
-
-importe en moneda extranjera para efectuar el castigo.
-
-Haber: - "Conversión mercado bancario", por la liquidación de las divisas
-
-provenientes de provisiones o reservas.
-
-- La cuenta de colocación que corresponda por el castigo de la operación en
-
-moneda extranjera.
-
-b) Moneda chilena.
-
-Debe: - La cuenta de provisiones individuales sobre cartera vencida, de
-
-provisión global sobre la cartera de colocaciones o la que corresponda, por el
-
-importe castigado expresado por su equivalente en moneda chilena.
-
-- "Cambio mercado bancario", por el equivalente de la moneda extranjera
-
-liquidada proveniente de provisiones o reservas.
-
-Haber: - "Cambio mercado bancario", por el equivalente de la moneda extranjera
-
-que egresa de la Posición de Cambios para efectuar el castigo.
-
-- La cuenta que corresponda de la partida 2520 del formulario MB1, por el
-
-equivalente de las provisiones o reservas en moneda extranjera utilizadas en el
-
-castigo, al tipo de cambio vigente a la fecha del castigo.
+- La cuenta que corresponda de la partida 2520, por el equivalente de las provisiones o reservas en moneda extranjera utilizadas en el castigo, al tipo de cambio vigente a la fecha del castigo.
 
 CAPITULO 13-29 (Financieras)
 
