@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1478 de 12 de Agosto de 1987, conforme art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Reserva y Sector Expropiado Predio "Hijuela Quinta de aquellas en que se han dividido los fundos Llallauquén y El Tabón, Hijuela que se denomina El Tabón" de la comuna de Las Cabras, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 15, sitios N°s. 1 al 13, del Proyecto Parcelación "El Tabón" formado por predio señalado y por predio "Hijuela Cuarta de aquellas en que se han dividido los fundos Llallauquén y El Tabón, hoy Albahaquita". Los derechos de agua se extraen de los canales Cocalán, Aguirre, del Zanjón El Carmen y de vertientes, quebradas y desagües.
+
+Publicación hecha conforme art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
