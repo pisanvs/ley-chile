@@ -1,0 +1,3 @@
+Por resolución Nº1.706, de 14 de agosto de 2002, modifícase el numeral 6º de la resolución Nº712 de 2002, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo y evaluación hidroacústica del Jurel, I y II Región", en el sentido de reemplazar las naves "Costa Grande 1", "Costa Grande 2", "Costa Grande 3" y "Atacama III" por las naves "Costa Grande 4", "Ralún", "Atacama II" y "Oficina Germania", todas de propiedad de Compañía Pesquera Camanchaca S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 14 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
