@@ -194,13 +194,11 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Galería»: espacio generalmente cubierto, horizontal o en rampa, destinado a la circulación de público, con locales comerciales a uno o ambos lados.
 
-Informe de riesgos»: DEROGADO.
+«Informe de riesgos»: DEROGADO.
 
 «Inmueble de conservación histórica»: el individualizado como tal en un Instrumento de Planificación Territorial dadas sus características arquitectónicas, históricas o de valor cultural, que no cuenta con declaratoria de Monumento Nacional.
 
-«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente.
-
-Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
+«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente. Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
 
 «Instrumento de Planificación Territorial»: vocablo referido genérica e indistintamente al Plan Regional de Desarrollo Urbano, al Plan Regulador Intercomunal o Metropolitano, al Plan Regulador Comunal, al Plan Seccional y al Límite Urbano.
 
@@ -278,6 +276,8 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Persona con discapacidad»: toda aquella que, como consecuencia de una o más deficiencias físicas, síquicas o sensoriales, congénitas o adquiridas, previsiblemente de carácter permanente y con independencia de la causa que las hubiera originado, vea obstaculizada, en a lo menos un tercio, su capacidad educativa, laboral o de integración social.
 
+«Piso mecánico»: el destinado a contener exclusivamente las instalaciones de un edificio, tales como ventilaciones, equipos de aire acondicionado, extractores, estanques y maquinaria de ascensores.
+
 «Piso subterráneo»: planta o nivel de un edificio cuyos paramentos que la definen exteriormente se encuentran bajo la superficie del terreno circundante con el que están en contacto, correspondiente al suelo natural o al suelo resultante del proyecto, en caso que éste fuere más bajo que el suelo natural. Se considerará también como subterráneo aquel piso que emerge del terreno circundante en un porcentaje inferior al 50% de la superficie total de sus paramentos exteriores, aun cuando una o más de sus fachadas queden al descubierto parcial o totalmente.
 
 «Playa de mar»: la extensión de tierra que las olas bañan y desocupan alternativamente hasta donde llegan en las más altas mareas.
@@ -337,6 +337,8 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 «Saldo predial»: sitio cuya superficie o frente, por efecto de una expropiación o cesión obligatoria, resulta menor a la subdivisión o frente predial mínimos establecidos en el Instrumento de Planificación Territorial respectivo.
 
 «Sector»: DEROGADO.
+
+«Sistema automático de extinción de incendio»: conjunto formado por dispositivos y equipos capaces de detectar y descargar, en forma automática, un agente extintor de fuego en un área de incendio.
 
 «Sistema de evacuación de personas»: conjunto de elementos arquitectónicos y dispositivos de apoyo con que cuenta una edificación para la evacuación de personas desde su interior.
 
@@ -400,7 +402,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Vivienda unifamiliar»: la destinada a residencia de una familia con salida independiente a una vía de uso público.
 
-«Volumen de la edificación«: volumen resultante de unir los planos exteriores de una edificación para los efectos de representar la sombra que proyecta sobre los predios vecinos.
+«Volumen de la edificación»: volumen resultante de unir los planos exteriores de una edificación para los efectos de representar la sombra que proyecta sobre los predios vecinos.
 
 «Volumen teórico»: volumen o envolvente máxima, expresado en metros cúbicos, resultante de la aplicación de las disposiciones sobre superficies de rasante, distanciamientos, antejardines y alturas máximas, cuando las hubiere, en un terreno determinado.
 
@@ -408,7 +410,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Zona central»: regiones V a VII y metropolitana.
 
-«Zona de conservación histórica»: área o sector identificado como tal en un Instrumento de Planificación Territorial, conformado por uno o más conjuntos de inmuebles de valor urbanístico o cultural cuya asociación genera condiciones que se quieren preservar y que no cuenta con declaratoria de Monumento Nacional.
+«Zona de conservación histórica»: área o sector identificado como tal en un Instrumento de Planificación Territorial, conformado por uno o más conjuntos de inmuebles de valor urbanístico o cultural cuya asociación genera condiciones que se quieren preservar.
 
 «Zona de Protección Costera»: área de tierra firme de ancho variable, de una extensión mínima de 80 metros medidos desde la línea de la playa, en la que se establecen condiciones especiales para el uso del suelo, con el objeto de asegurar el ecosistema de la zona costera y de prevenir y controlar su deterioro.
 
@@ -420,7 +422,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 Las definiciones de los vocablos contenidos en este artículo prevalecerán sobre toda otra que contengan los Instrumentos de Planificación Territorial relativas a la misma materia.
 
-> **Nota.** NOTA 1 El Nº 3 del Artículo único del Decreto 217, Vivienda, publicado el 20.02.2002, eliminó estos vocablos y sus respectivas definiciones, en la versión anterior a la entrada en vigencia del Decreto 75, Vivienda, publicado el 25.06.2001, por lo que no se incorporó dicha modificación en el presente texto actualizado.
+> **Nota.** NOTA 1 El Nº3 del Artículo único del Decreto-217, Vivienda, publicado el 20.02.2002, eliminó estos vocablos y sus respectivas definiciones, en la versión anterior a la entrada en vigencia del Decreto-75, Vivienda, publicado el 25.06.2001, por lo que no se incorporó dicha modificación en el presente texto actualizado.
 
 #### Artículo 1
 
@@ -836,7 +838,7 @@ En todo caso un mismo predio no podrá estar afecto a postergación de permisos 
 
 #### Artículo 1
 
-4.19. Los estudios que, conforme a la Ley General de Urbanismo y Construcciones y a esta Ordenanza, deben presentarse acompañando solicitudes para la obtención de aprobaciones de anteproyecto o de permisos ante la Dirección de Obras Municipales, tales como estudios de tránsito, de seguridad, de evacuación, de riesgo, de carga combustible, de ascensores y similares, no requerirán aprobación de otros organismos para la obtención de permisos, aprobación de anteproyectos u otras solicitudes, siempre que estén debidamente suscritos por el profesional especialista, sin perjuicio de exigencias que en forma explícita y para los mismos efectos determinen otras leyes.
+4.19. Los estudios de seguridad, de evacuación, de riesgo, de carga combustible y de ascensores que, conforme a la Ley General de Urbanismo y Construcciones y a esta ordenanza, deben presentarse acompañando solicitudes para la obtención de aprobaciones de anteproyecto o de permisos ante la Dirección de Obras Municipales, no requerirán aprobación de otros organismos para la obtención de permisos, aprobación de anteproyectos u otras solicitudes, siempre que estén debidamente suscritos por el profesional especialista, sin perjuicio de las exigencias que en forma explícita y para los mismos efectos determinen otras leyes.
 
 ## Título 2
 
@@ -1300,6 +1302,8 @@ Aprobado el proyecto de Plan Regulador Comunal en la forma establecida en los tr
 
 Las modificaciones a los Planes Reguladores Comunales se sujetarán al mismo procedimiento señalado en el presente artículo.
 
+Sin perjuicio de lo señalado en el inciso anterior, cuando las modificaciones a los Planes Reguladores Comunales se refieran exclusivamente a la incorporación de inmuebles o zonas de conservación histórica a que se refiere el inciso segundo del artículo 60º de la Ley General de Urbanismo y Construcciones o a modificaciones de las normas urbanísticas de estos inmuebles o zonas, el procedimiento de modificación del Plan Regulador Comunal estará exento de someterse a la evaluación de impacto ambiental.
+
 #### Artículo 2
 
 1.12. A contar del inicio de la elaboración del proyecto de Plan Regulador Comunal, los Municipios deberán solicitar la asesoría técnica tanto de la Secretaría Regional Ministerial de Vivienda y Urbanismo como de la Comisión Regional del Medio Ambiente que correspondan, con el objeto de uniformar criterios respecto de los parámetros técnicos y medioambientales que se deberán contemplar y concordar procedimientos en forma previa al despacho oficial del proyecto de Plan Regulador Comunal hacia tales instancias para requerir su pronunciamiento.
@@ -1686,6 +1690,28 @@ Para tal efecto, el interesado deberá acompañar el informe de un arquitecto es
 
 #### Artículo 2
 
+1.43. Para declarar un inmueble o zona como de "conservación histórica", conforme lo señalado en el inciso segundo del artículo 60 de la Ley General de Urbanismo y Construcciones, será condición que se cumplan, en cada caso, cualquiera de las siguientes características:
+
+1. Zonas de conservación histórica:
+
+a) Que se trate de sectores cuya expresión urbanística represente valores culturales de una localidad y cuyas construcciones puedan ser objeto de acciones de rehabilitación o conservación.
+
+b) Que se trate de sectores urbanísticamente relevantes en que la eventual demolición de una o más de sus edificaciones genere un grave menoscabo a la zona o conjunto.
+
+c) Que se trate de sectores relacionados con uno o más Monumentos Nacionales en la categoría de Monumento Histórico o Zona Típica. En estos casos deberán identificarse los inmuebles declarados Monumento Nacional, los que se regirán por las disposiciones de la ley Nº 17.288.
+
+2. Inmuebles de conservación histórica:
+
+a) Que se trate de inmuebles que representen valores culturales que sea necesario proteger o preservar, sean éstos arquitectónicos o históricos, y que no hubieren sido declarados Monumento Nacional, en la categoría de Monumento Histórico.
+
+b) Que se trate de inmuebles urbanísticamente relevantes cuya eventual demolición genere un grave menoscabo a las condiciones urbanísticas de la Comuna o localidad.
+
+c) Que se trate de una obra arquitectónica que constituya un hito de significación urbana, que establece una relación armónica con el resto y mantiene predominantemente su forma y materialidad original.
+
+Los inmuebles o zonas de conservación histórica que se declaren como tales conforme al presente artículo podrán regularse conforme a las normas urbanísticas señaladas en la letra c), del numeral 3 del artículo 2.1.10., y por las disposiciones que se establezcan en la forma contemplada en el artículo 2.7.8., ambos de la presente ordenanza.
+
+#### Artículo 2
+
 1.10. El Límite Urbano, para efectos de su aprobación y aplicación, estará conformado por los siguientes documentos:
 
 1. Memoria Explicativa, que contenga los elementos técnicos necesarios para fundamentar su proposición.
@@ -1770,7 +1796,7 @@ Cuando se trate de "loteos con construcción simultánea", se seguirán las mism
 
 2. Cuando se trate de proyectos acogidos a la ley Nº 19.537, sobre copropiedad inmobiliaria, cuyo predio esté afecto a utilidad pública por el Instrumento de Planificación Territorial.
 
-En estos casos, el propietario estará obligado a urbanizar y ceder, únicamente, la superficie del predio afecta a utilidad pública indicada en el citado instrumento, con un máximo del 30% de la superficie de éste.
+En estos casos, el propietario estará obligado a urbanizar y ceder, únicamente, la superficie del predio afecta a utilidad pública indicada en el citado instrumento.
 
 3. Cuando se trate de la división de un predio que está afecto a utilidad pública por el Instrumento de Planificación Territorial.
 
@@ -2264,7 +2290,7 @@ El porcentaje de adosamiento podrá excederse, tanto para construcciones nuevas 
 
 El adosamiento deberá inscribirse dentro de un ángulo no superior a 45 grados sexagesimales, aplicado en el deslinde común, desde la altura máxima de adosamiento permitida.
 
-Las normas sobre adosamientos se aplicarán como la envolvente teórica que puede ocupar una edificación, pudiendo ésta situarse libremente dentro de dicha envolvente, sin perjuicio de las normas mínimas de habitabilidad señaladas en el Capítulo 1 del Título 4 de esta Ordenanza.
+Las normas sobre adosamientos se aplicarán como la envolvente teórica que puede ocupar una edificación, pudiendo ésta situarse libremente dentro de dicha envolvente, sin perjuicio de las normas mínimas de habitabilidad señaladas en el Capítulo 1 del Título 4 de esta Ordenanza. Con todo, para resguardar las condiciones de privacidad de los vecinos, los vanos ubicados a una altura superior a la del muro de adosamiento y, a su vez, a menos de 1,8 m. respecto del piso que sirven, deberán cumplir con los distanciamientos señalados en el cuadro respectivo del artículo 2.6.3. de este mismo Capítulo.
 
 En toda el área de adosamiento deberá construirse en el deslinde un muro de adosamiento con una altura mínima de 2,0 m y con una resistencia mínima al fuego de F-60, salvo que se trate de edificaciones no residenciales que, de acuerdo a su destino, requieran una resistencia al fuego mayor. Tratándose de edificaciones adosadas al deslinde el muro de adosamiento deberá llegar hasta la cubierta del cuerpo adosado. Además, el adosamiento deberá contemplar un sistema de evacuación de aguas lluvia que no afecte a los predios vecinos.
 
@@ -2300,9 +2326,9 @@ X a XII Región 60°
 
 En cualquier caso, los edificios aislados de cinco o más pisos ubicados en zonas sin límite de altura, no podrán ocupar un volumen edificado superior al 90% del volumen teórico.
 
-Los distanciamientos mínimos en cada caso son los siguientes:
+Los distanciamientos, medidos en cada una de las alturas de la edificación que se señalan en la siguiente tabla, consideradas separadamente, serán:
 
-Altura de la Distancia mínima
+Altura de la Distanciamiento
 
 Edificación
 
@@ -2314,21 +2340,23 @@ Sobre 3,5 m y hasta 7,0 m 3,0 m 2,5 m
 
 Sobre 7,0 m 4,0 m 4,0 m.
 
-En las fachadas en que existan tramos con vanos y otros sin vanos, en diferentes planos, las distancias al medianero se aplicarán a cada tramo por separado.
+En las fachadas en que existan tramos con vanos y otros sin vanos los distanciamientos se aplicarán a cada tramo por separado.
 
 Los vanos incorporados a techumbres o planos inclinados deberán cumplir con los distanciamientos indicados en la tabla anterior, salvo aquellos cuyo nivel inferior esté a más de 1,8 m de altura con respecto al piso que sirven.
 
-En casos de edificación aislada por sobre la edificación continua, para la aplicación de la tabla anterior, la altura de la edificación se medirá a partir de la altura máxima de la edificación continua.
+Sin perjuicio del cumplimiento de las rasantes, a las techumbres de viviendas unifamiliares les serán aplicables los distanciamientos sólo respecto de los vanos.
+
+En casos de edificación aislada por sobre la edificación continua, para la aplicación de la tabla anterior, la altura de la edificación se medirá a partir de la altura máxima permitida para la edificación continua en el Instrumento de Planificación Territorial.
 
 A las antenas con sus soportes y elementos rígidos no les serán aplicables las rasantes. Sin embargo deberán cumplir con un distanciamiento mínimo de un tercio de su altura total, salvo cuando estas estructuras se instalen sobre edificios de más de 5 pisos, en cuyo caso deberán cumplir con un distanciamiento de al menos un cuarto de su altura total. En todo caso, estos distanciamientos no serán exigidos para las antenas que se instalen adosadas a las fachadas de edificios existentes.
 
-Los distanciamientos a que se refiere el inciso anterior tendrán un mínimo de 4 m y la altura total de las torres porta antenas, en ambos casos, se medirá desde el suelo natural.
+Los distanciamientos a que se refiere el inciso anterior tendrán un mínimo de 4 m y la altura total de las torres porta antenas, en ambos casos, se medirá desde el suelo natural, siempre que no sobrepasen su altura total.
 
 Además del cumplimiento de los distanciamientos señalados, dichas antenas deberán cumplir las regulaciones sectoriales que establezca el Ministerio de Transportes y Telecomunicaciones o la Subsecretaría respectiva, en virtud de la ley Nº 18.168, Ley General de Telecomunicaciones. La persona natural o jurídica responsable de la operación de las antenas deberá dar cumplimiento a dichas regulaciones, especialmente en lo que se refiere a las edificaciones cercanas a la antena, sean éstas existentes o que se construyan con posterioridad a la instalación de la misma.
 
 Las instalaciones y equipos que sobrepasen la altura de 2 m, tales como salas de máquinas, estanques, chimeneas, ductos, equipos de climatización y paneles solares, ubicadas sobre el terreno o incorporadas a la edificación, deberán considerarse como fachadas sin vano y cumplir con los distanciamientos y rasantes exigidos en el presente artículo.
 
-Las salas de máquinas, chimeneas, estanques, miradores y similares elementos exteriores ubicados en la parte superior de los edificios podrán sobrepasar la altura de edificación máxima permitida, siempre que se encuentren contempladas en el proyecto aprobado, cumplan con las rasantes correspondientes y no ocupen más del 20% de la superficie de la última planta del edificio.
+Las salas de máquinas, chimeneas, estanques, miradores y similares elementos exteriores ubicados en la parte superior de los edificios podrán sobrepasar la altura de edificación máxima permitida, siempre que se encuentren contempladas en el proyecto aprobado, cumplan con las rasantes correspondientes y no ocupen más del 20% de la superficie de la última planta del edificio. El piso mecánico no se contabilizará para la altura máxima permitida siempre que se ubique en la parte superior de los edificios y se contemplen paramentos que impidan la visión de las instalaciones desde el exterior.
 
 Los Planes Reguladores Comunales, según sean las características ambientales, topográficas o de asoleamiento, podrán disponer mayores exigencias que las señaladas en las tablas contenidas en el presente artículo. Excepcionalmente, para las regiones I, II, XI y XII, los Planes Reguladores Comunales podrán disponer menores exigencias.
 
@@ -2388,19 +2416,17 @@ Del mismo modo, en los conjuntos armónicos el aumento de altura no libera del c
 
 6.11. Con el fin de evitar diseños con planos inclinados de los edificios producto de las rasantes a que se refiere el artículo 2.6.3. de este mismo Capítulo, las edificaciones aisladas podrán sobrepasar opcionalmente éstas siempre que la sombra del edificio propuesto, proyectada sobre los predios vecinos no supere la sombra del volumen teórico edificable en el mismo predio y se cumplan las condiciones que señalan los artículos siguientes, todo lo cual deberá graficarse en un plano comparativo que permita verificar su cumplimiento.
 
+Asimismo, podrán acogerse a este artículo los proyectos que, por efecto de aplicación de alguna norma, resulten con retranqueos, salvo que se trate de una condición morfológica expresamente contemplada en el respectivo Instrumento de Planificación Territorial.
+
 No corresponderá a las Direcciones de Obras Municipales, ni al Revisor Independiente en su caso, verificar los cálculos presentados, los que serán de la responsabilidad del autor del proyecto, bastando la comparación de lo informado en el plano que señala el artículo 2.6.14. de este mismo Capítulo.
 
 #### Artículo 2
 
-6.12. Para los efectos de calcular la sombra proyectada sobre los predios vecinos bastará con medir la superficie de ésta, pudiendo redistribuirse las sombras parciales de cada orientación sólo cuando en los predios vecinos el Instrumento de Planificación Territorial admita edificaciones de 4 o más pisos y no se supere los márgenes que a continuación se señalan:
+6.12. Para los efectos de calcular la sombra proyectada sobre los predios vecinos bastará con medir la superficie de ésta. Las áreas adyacentes con uso espacio público no se contabilizarán en dicho cálculo, a pesar de que el volumen teórico planteado les proyecte sombra.
 
-1. Las sombras parciales podrán superar hasta en 200 m2 o hasta en 1/3 la cantidad de sombra proyectada por el volumen teórico en cada orientación, cuando en el predio vecino el citado instrumento admita edificaciones de más de 5 pisos.
+En ningún caso el proyecto podrá superar las superficies de sombra parciales que proyecta el volumen teórico hacia las orientaciones, oriente, poniente y sur, ni por ende la superficie de sombra total producida por dicho volumen teórico edificable en el predio, así como tampoco su altura total.
 
-2. Las sombras parciales podrán superar hasta en 100 m2 o hasta en 1/6 la cantidad de sombra proyectada por el volumen teórico en cada orientación, cuando en el predio vecino el citado instrumento admita edificaciones de hasta 5 pisos.
-
-Sin embargo, cuando el predio en que se emplaza el proyecto tenga más de 5.000 m2, las sombras parciales del proyecto sólo podrán superar las sombras parciales del volumen teórico hasta en 200 m2 y 100 m2, respectivamente.
-
-En ningún caso el proyecto podrá superar la superficie de sombra total producida por el volumen teórico edificable en el predio, así como tampoco su altura total.
+Adicionalmente, sin perjuicio de los distanciamientos mínimos establecidos en el artículo 2.6.3. o en el respectivo Instrumento de Planificación Territorial, las edificaciones aisladas que se acojan al artículo 2.6.11., además deberán cumplir a partir de los 10,5 m. de altura, con un distanciamiento hacia los predios vecinos no inferior a 1/6, 1/5 o 1/4 de la altura total de la edificación, según se trate de edificaciones ubicadas en la zona norte, centro o sur, conforme se definen en la tabla de rasantes del artículo 2.6.3. de esta ordenanza. En el caso de la edificación aislada por sobre la edificación continua, la altura total de la edificación para aplicar dicho distanciamiento, se medirá a partir de la altura máxima permitida para la edificación continua.
 
 #### Artículo 2
 
@@ -2530,7 +2556,9 @@ Tratándose de edificación continua, estos cuerpos salientes, excluidas las mar
 
 #### Artículo 2
 
-7.8. Los Municipios, a través de Planos Seccionales, podrán establecer características arquitectónicas determinadas para los proyectos que se realicen en sectores ligados a Monumentos Nacionales o zonas de conservación histórica, de manera que las nuevas construcciones constituyan un aporte urbanístico para dichas zonas o sectores, las que deberán haberse determinado previamente en el Plan Regulador Comunal.
+7.8. Las Municipalidades, a través de Planos Seccionales, podrán establecer características arquitectónicas determinadas para los proyectos que se realicen en sectores ligados a Monumentos Nacionales, o cuando se trate de inmuebles o zonas de conservación histórica, de manera que las nuevas construcciones, o la modificación de las existentes, constituyan un aporte urbanístico relevante. Tales características arquitectónicas deberán situarse dentro de las normas urbanísticas establecidas para la respectiva zona o subzona en el Plan Regulador Comunal o Seccional.
+
+En el caso de inmuebles o zonas de conservación histórica, el Plano Seccional a que se refiere este artículo podrá aprobarse de manera simultánea con la modificación del Plan Regulador Comunal destinado a la incorporación de tales inmuebles o zonas al Plan Regulador Comunal o Seccional.
 
 #### Artículo 2
 
@@ -3124,7 +3152,9 @@ d) La solución constructiva especificada para el complejo de techumbre, deberá
 
 1. Dotación:
 
-a) Los edificios de 6 o más pisos de altura deberán contemplar al menos dos ascensores con parada y acceso para todos los usuarios en todos los pisos con acceso a unidades que contemplen recintos habitables, uno de los cuales deberá cumplir con las dimensiones de cabina establecidas en el número 2 de este artículo.
+a) Los edificios de 6 o más pisos de altura
+
+deberán contemplar al menos dos ascensores con parada y acceso para todos los usuarios en todos los pisos con acceso a unidades que contemplen recintos habitables, uno de los cuales deberá cumplir con las dimensiones de cabina establecidas en el número 2 de este artículo.
 
 En los edificios con dos o más subterráneos el ascensor de mayor capacidad deberá atender a cada uno de ellos.
 
@@ -3138,9 +3168,7 @@ d) Los edificios de 3 o más pisos destinados a asistencia hospitalaria deberán
 
 e) Los cambios de destino de edificios o parte de ellos que requieran uno o más ascensores deberán acompañar un informe, suscrito por profesional competente, que acredite que la capacidad de la instalación es compatible con el nuevo uso.
 
-Cuando el acceso del edificio se encuentre en un piso intermedio, que no diste más de 4 pisos hacia arriba o hacia abajo del acceso a alguna unidad que consulte recintos habitables, no se requerirán ascensores, siempre que los estacionamientos se encuentren a una distancia no mayor que la citada.
-
-Tampoco requerirán ascensores los edificios de 5 pisos cuyos pisos superiores sean dúplex.
+Cuando el acceso del edificio se encuentre en un piso intermedio, que no diste más de 4 pisos hacia arriba o hacia abajo del acceso a alguna unidad que consulte recintos habitables, no se requerirán ascensores, siempre que los estacionamientos se encuentren a una distancia no mayor que la citada. Tampoco requerirán ascensores los edificios de 6 pisos cuyos pisos superiores sean dúplex.
 
 Los edificios de 5 o más pisos cuyos ascensores sirvan una superficie útil sobre el primer piso superior a 5.000 m2, requerirán presentar un Estudio de Ascensores que determinará la cantidad y características de los ascensores necesarios sobre la dotación mínima indicada en este artículo.
 
@@ -3186,7 +3214,9 @@ c) La capacidad de transporte de la instalación, medida según el porcentaje de
 
 Los planos y especificaciones técnicas de la instalación de ascensores, sean éstos requeridos o adicionales, suscritos por el fabricante o representante oficial, deberán incorporarse al expediente del proyecto con anterioridad a la recepción definitiva de las obras.
 
-La cantidad, disposición, capacidad y características de los ascensores que excedan la dotación mínima antes descrita, o los contemplados en edificios que no los requieran conforme a este artículo, serán las que determine el arquitecto del proyecto. Estas instalaciones deberán cumplir sólo con las especificaciones del fabricante.
+La cantidad, disposición, capacidad y características de los ascensores que excedan la dotación mínima antes descrita, o los contemplados en edificios que no los requieran conforme a este artículo, serán las que determine el arquitecto del proyecto.
+
+Estas instalaciones deberán cumplir sólo con las especificaciones del fabricante.
 
 #### Artículo 4
 
@@ -3720,13 +3750,35 @@ Parte 1: Terminología, características y
 
 clasificación.
 
+NCh 2095/2 Sistemas de rociadores - Parte 2: Equipos y
+
+componentes.
+
+NCh 2095/3 Sistemas de rociadores - Parte 3:
+
+Requisitos de los sistemas y de
+
+instalación.
+
+NCh 2095/4 Sistemas de rociadores - Parte 4: Diseño,
+
+planos y cálculos.
+
+NCh 2095/5 Sistemas de rociadores - Parte 5:
+
+Suministro de agua.
+
+NCh 2095/6 Sistemas de rociadores - Parte 6: Recepción
+
+del sistema y mantención.
+
 No obstante lo dispuesto en el inciso anterior, habrá un "Listado Oficial de Comportamiento al Fuego", confeccionado por el Ministerio de Vivienda y Urbanismo o por la entidad que éste determine, en el cual se registrarán, mediante valores representativos, las cualidades frente a la acción del fuego de los materiales, elementos y componentes utilizados en la actividad de la construcción.
 
 Las características de comportamiento al fuego de los materiales, elementos y componentes utilizados en la construcción, exigidas expresamente en esta Ordenanza, que no se encuentren incluidas en el Listado Oficial de Comportamiento al Fuego, deberán acreditarse mediante el certificado de ensaye correspondiente emitido por alguna Institución Oficial de Control Técnico de Calidad de los Materiales y Elementos Industriales para la Construcción.
 
 Aquellos proyectos que cuenten con un Estudio de Seguridad podrán utilizar materiales, elementos y componentes cuyo comportamiento al fuego se acredite mediante certificado de ensayes expedido por entidades extranjeras, reconocidas internacionalmente y que efectúen los ensayes bajo normas de la Asociación Americana de Pruebas de Materiales . American Society for Testing and Materials (ASTM), de Laboratorios Aseguradores . Underwriter Laboratories (UL) o del Comité de Normas Alemán . Deutscher Normenausschuss (Normas DIN).
 
-Mientras no se dicten las demás Normas Técnicas Oficiales sobre sistemas de rociadores, los Estudios de Seguridad podrán utilizar las normas NFPA 13 de la Asociación Nacional de Protección contra el Fuego.
+Mientras no se dicten las demás Normas Técnicas Oficiales sobre sistemas de rociadores, los Estudios de Seguridad podrán utilizar las normas NFPA 13 de la Asociación Nacional de Protección contra el Fuego .
 
 National Fire Protection Association (N.F.P.A.).
 
@@ -4146,7 +4198,7 @@ Tratándose de edificaciones con protección activa, se podrá aumentar la altur
 
 1. Está aislado con respecto a otros recintos mediante elementos con una resistencia al fuego no menor a F-120.
 
-2. Las puertas y tapas de aberturas tienen una resistencia al fuego de al menos F-30 y no ocupan más del 10% de la superficie de los paramentos del pasillo.
+2. Las puertas y tapas de aberturas tienen una resistencia al fuego de al menos F-30 y no ocupan más del 20% de la superficie de los paramentos del pasillo.
 
 3. Contempla detectores de humo e iluminación de emergencia.
 
@@ -5794,7 +5846,11 @@ acotadas, señalando los accesos especiales
 
 para personas con discapacidad y el o los
 
-destinos contemplados.
+destinos contemplados. Las cotas deberán
+
+ser suficientes para permitir calcular
+
+la superficie edificada de cada planta.
 
 d) Cortes y elevaciones que ilustren los
 
@@ -5844,7 +5900,7 @@ f) Plano de cierro, cuando el proyecto lo
 
 consulte.
 
-7. Cuadro de superficies, indicando las superficies parciales necesarias según el tipo de proyecto.
+7. Cuadro de superficies, indicando las superficies parciales necesarias según el tipo de proyecto y cálculo de carga de ocupación de acuerdo a estas superficies y a los destinos contemplados en el proyecto.
 
 8. Plano comparativo de sombras, en caso de acogerse al artículo 2.6.11. de la presente Ordenanza.
 
@@ -5935,6 +5991,8 @@ En el caso de cuerpos salientes, se computará la superficie horizontal de ellos
 #### Artículo 5
 
 1.12. Para la aplicación del coeficiente de constructibilidad debe presentarse el cálculo de superficie edificada separado en superficie edificada sobre el terreno natural o el suelo resultante del proyecto si éste fuere más bajo que el terreno natural y superficie edificada en subterráneo, para los efectos de no contabilizar esta última.
+
+Con todo, cuando en los subterráneos se contemplen unidades con destino residencial, las superficies útiles de estas unidades deberán contabilizarse para el coeficiente de constructibilidad.
 
 #### Artículo 5
 
@@ -6162,19 +6220,21 @@ Junto a la solicitud de recepción definitiva de la obra se acompañará el lega
 
 1. Informe del constructor o de la empresa o profesional distinto del constructor, según corresponda, en que se detallen las medidas de gestión y de control de calidad adoptadas durante la obra y la certificación de su cumplimiento. En dicho informe deben incluirse las exigencias señaladas en el artículo 5.8.3. de este mismo Título.
 
-2. Certificado de dotación de agua potable y alcantarillado, emitido por la Empresa de Servicios Sanitarios que corresponda o por la autoridad sanitaria, según proceda.
+2. Certificado de instalaciones de agua potable y alcantarillado, emitido por la Empresa de Servicios Sanitarios que corresponda o por la autoridad sanitaria, según proceda.
 
 3. Documentos a que se refieren los artículos 5.9.2. y 5.9.3. , según se trate de instalaciones eléctricas interiores o instalaciones interiores de gas, respectivamente, cuando proceda.
 
 4. Aviso de instalación y planos correspondientes a las redes y elementos de telecomunicaciones, cuando proceda.
 
-5. Certificados de instalaciones de ascensores y montacargas, emitido por la autoridad que corresponda y por el instalador, cuando proceda. Asimismo la certificación de aprobación de los sistemas electromecánicos o electrohidráulicos.
+5. Declaración de instalaciones eléctricas de ascensores y montacargas inscrita por el instalador autorizado en la Superintendencia de Electricidad y Combustibles, la cual registrará la inscripción.
+
+Certificado del fabricante o instalador de ascensores indicando que la instalación está conforme a las normas vigentes, dirigido a la Dirección de Obras Municipales respectiva.
 
 6. Declaración de instalaciones de calefacción, central de agua caliente y aire acondicionado, emitida por el instalador, cuando proceda.
 
 7. Certificados de ensaye de los hormigones empleados en la obra, de acuerdo con las normas oficiales, cuando proceda.
 
-Además, deberá acompañarse una declaración en el sentido de si ha habido o no cambios en el proyecto aprobado. Si los hubiere habido, deberán adjuntarse los documentos actualizados en los que incidan tales cambios.
+Además, deberá acompañarse una declaración en el sentido de si ha habido o no cambios en el proyecto aprobado. Si los hubiere habido, deberán adjuntarse los documentos actualizados en los que incidan tales cambios. Si las modificaciones inciden en el proyecto de cálculo estructural, deberán adjuntarse, debidamente modificados, los documentos a que se refiere el artículo 5.1.7. Tratándose de proyectos de cálculo estructural que deben someterse a revisión conforme al artículo 5.1.25., estos documentos deberán estar visados por el Revisor de Proyecto de Cálculo Estructural.
 
 El Director de Obras Municipales, para cursar la recepción definitiva, deberá verificar la reposición de los pavimentos y obras de ornato existentes con anterioridad al otorgamiento del permiso, en el espacio público que enfrenta el predio.
 
@@ -6183,6 +6243,8 @@ Cuando el proyecto aprobado incluya la ejecución de obras de urbanización, deb
 Tratándose de proyectos de loteo con construcción simultánea, se recepcionarán simultáneamente las obras de edificación y de urbanización, salvo que estas últimas se hubieren recepcionado en forma anticipada.
 
 Los antecedentes y certificaciones a que se refiere este artículo se archivarán conjuntamente con el legajo que señala el inciso primero del artículo 5.1.16. de esta Ordenanza y formarán parte del mismo.
+
+> **Nota.** NOTA El Artículo primero transitorio del Decreto-115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días desde su publicación.
 
 #### Artículo 5
 
@@ -6536,7 +6598,7 @@ MATERIALES DE CONSTRUCCION
 
 5.1. La calidad de los materiales y elementos industriales para la construcción y sus condiciones de aplicación a las obras quedará sujeta a las normas oficiales vigentes, y a falta de ellas, a las reglas que la técnica y el arte de la construcción establezcan.
 
-El control de calidad de los materiales establecidos en el inciso anterior será obligatorio y lo efectuarán las Instituciones Oficiales de Control Técnico de Calidad de los Materiales y Elementos Industriales para la Construcción que para estos efectos se declaren como Instituciones Oficiales de Control Técnico, mediante resoluciones del Ministro de Vivienda y Urbanismo.
+El control de calidad de los materiales establecidos en el inciso anterior será obligatorio y lo efectuarán los Laboratorios de Control Técnico de Calidad de Construcción que estén inscritos en el Registro Oficial de Laboratorios de Control Técnico de Calidad de Construcción del Ministerio de Vivienda y Urbanismo, según el decreto Nº 10 del Ministerio de Vivienda y Urbanismo del 15.01.02.
 
 #### Artículo 5
 
@@ -7654,9 +7716,7 @@ b) Deberá cumplir con las disposiciones para personas con discapacidad indicada
 
 En el caso de ascensores especiales, tales como los panorámicos o hidráulicos, las características señaladas en los números 2, 3 y 4 de este artículo serán las que determine el fabricante.
 
-Los sistemas electromecánicos o electrohidráulicos de los ascensores se aprobarán por la Superintendencia de Electricidad y Combustibles.
-
-Todo tipo de ascensores y funiculares deberá contar para su funcionamiento con un certificado de revisión técnica, válido durante un año, otorgado por el fabricante, o por servicios técnicos especialistas en la materia, autorizados por la Superintendencia de Electricidad y Combustibles, o por esta última, que permita asegurar su uso sin peligro de accidentes.
+Todo tipo de ascensores y funiculares deberán contar para su funcionamiento con un certificado de revisión técnica, válido durante un año, otorgado por el fabricante o instalador y firmado por un Ingeniero Civil responsable, dirigido a la Dirección de Obras Municipales respectiva.
 
 Los montacargas, escaleras o rampas mecánicas y similares, sólo deberán cumplir con las especificaciones técnicas que determine el fabricante.
 
@@ -7665,6 +7725,12 @@ Pavimentación de calzadas interiores.
 #### Artículo 5
 
 9.6. Los pavimentos de las calzadas para el tránsito vehicular que se materialicen en predios de carácter privado, estén o no acogidos al régimen de copropiedad inmobiliaria, deberán ejecutarse en conformidad con las Normas Técnicas Oficiales correspondientes, las cuales podrán ser modificadas por el arquitecto del proyecto siempre que en las especificaciones técnicas se aseguren condiciones similares en cuanto a resistencia y durabilidad.
+
+Instalaciones interiores de telecomunicaciones
+
+#### Artículo 5
+
+9.7. Los edificios que consulten instalaciones interiores tales como teléfonos o televisión por cable, deberán contemplar ductos independientes para contener los cables, cuya sección admita la prestación de dichos servicios por más de un proveedor.
 
 ## Título 6
 
