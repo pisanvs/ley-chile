@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.996, de 30 de julio de 1999, se expropió el lote de terreno Nº 4, superficie 2.085 m², rol de avalúo 1322-3, comuna de San Carlos, para la obra ''Ruta 5 tramo Talca-Chillán, sector Ciclovía San Carlos'', Octava Región y se acordó el valor de indemnización con su propietaria Cooperativa Abierta de Vivienda Chillancoop Limitada, ascendente a la cantidad de $10.853.038.-
+
+Fiscal del Ministerio de Obras Públicas.
