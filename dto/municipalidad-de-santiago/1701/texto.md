@@ -1,0 +1,3 @@
+Por Decreto Seec. 2da. No. 1701 de 05 de Diciembre de 1986, Alcalde I. Municipalidad de Santiago dispone expropiación total, conformidad Decreto Supremo No. 458 Vivienda y Urbanismo, Decretos Leyes 1289 y 2186 de inmueble calle Pablo Urzúa 1492-1494 ó 1440 Rol 3548-93 Santiago, dominio aparente "Morera Hermanos y Compañía Limitada". Superficie aproximada 289,77 ms. Deslindes Norte, 8,60 tots. calle Pablo Urzúa, Sur, 8,40 tots. y 0,20 tots. otros propietarios, Oriente 33,50 mts. otro propietario, Poniente 33,50 mts. otro propietario. Indemnización $ 672.768.- pagadera contado.
+
+- Carlos Bombal Otaegui, Alcalde de Santiago.
