@@ -1,0 +1,3 @@
+Por Resolución No. 531, de 03 de Mayo de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2º de la Resolución No. 314 de 1991, de esta Subsecretaría, que a su vez modificó la Resolución No. 262, de 1982, relativa a SALMONES ANTARTICA LTDA., domiciliada en Santiago, en el sentido de sustituir la expresión "un establecimiento en el Lago Popetán, Río Colú y Estuario de Colú" por "los establecimientos ubicados en Río Colú y Estuario Colú".
+
+Valparaíso, 03 de Mayo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
