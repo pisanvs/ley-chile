@@ -1,0 +1,5 @@
+Por Decreto M.O.P. N°909, de 30 de septiembre de 1997, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N°294, de 1984, que fijó el texto actualizado de la Ley N°15.840, se expropiaron los lotes de terreno N°s. 198-A, 216-A y 216-B, para la obra Camino Acceso Norte a Concepción, Km 35.037 al 50.083, que figuran a nombre de Pérez Vega Mario Arturo y Vergara Jara Benedicto Inocencio, roles de avalúo 210-20 y 609-73, comuna de Florida y Tomé, superficie 230 m2, 2.900 m2 y 109 m2. La Comisión de Peritos, integrada por los señores Ramón Jofré Soto, Luis Soto Abarca y José Manuel Gálvez Alegría fijó con fecha 23 de junio de 1996, los valores provisionales de las indemnizaciones en las cantidades de $253.500.- para el lote 198-A;
+
+$826.000.- para el lote 216-A y $30.805.- para el lote 216-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del Decreto Ley N°2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
