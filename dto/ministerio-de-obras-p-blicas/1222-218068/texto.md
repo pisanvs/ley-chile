@@ -1,0 +1,5 @@
+Por decreto MOP. Nº 1.222, de 27 de octubre de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco los lotes de terreno Nºs. 69-B y 75, para la obra Camino Cabildo Putaendo, Ruta E-41, Sector Guayacán-El Tártaro 1, Tramo Km. 22,40000 a Km. 48,50000, que figuran a nombre de Soc. Agrícola El Manzano, Rol de Avalúo 1203-5, comuna de Putaendo, V Región, superficie 5.437,39 m2 y 17.816 m2. La Comisión de Peritos, fijó con fecha 28 de febrero de 2002, el monto de la indemnización provisional en la cantidad de
+
+$5.344.800.-, para el lote Nº 75 y con fecha 28 de octubre de 2002, se tasó en la cantidad de $2.174.956.-, para el lote Nº 69-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
