@@ -1,0 +1,3 @@
+Por decreto MOP. No. 875, de 30 de junio de 1998, se expropiaron los lotes de terreno No. s 4, 5 y 6, superficies 65,70; 142,40 y 134,50 m2., respectivamente, rol de avalúo 16-265, comuna de María Pinto, obra Camino Ruta G-74-F, sector Chorombo-Cuesta Ibacache y se acordó precio de indemnización con sus propietarios Miren Alazne Zarrantz Echaveguren y otros, ascendente a la cantidad de $ 356.339, lotes 4, 5 y 6.-
+
+Fiscal del Ministerio de Obras Públicas.
