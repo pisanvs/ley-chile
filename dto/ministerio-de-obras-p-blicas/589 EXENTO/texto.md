@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 589, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 65, superficie 4.524 m2, rol de avalúo Nº 131-34, comuna de Sagrada Familia, VII Región, para la obra ''Camino Mejoramiento Ruta K-40, Sector San Rafael - Villa Prat, Km. 0,000.00 al 28,400.00'' y se acordó el valor de indemnización con su propietario don Manuel Jesús Véliz Mejías, ascendente a la cantidad de $905.229.-
+
+Fiscal del Ministerio de Obras Públicas.
