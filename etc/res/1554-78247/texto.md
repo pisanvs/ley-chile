@@ -1,0 +1,3 @@
+Por Resolución Nº 1.554, de 14 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 96103231, presentada por ISAIAS ITAMAR PEREZ MIRALLES, para la concesión de acuicultura ubicada en Bahía Yal, sector Terao, comuna de Chonchi, provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 67, inciso 5º y 78, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 14 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
