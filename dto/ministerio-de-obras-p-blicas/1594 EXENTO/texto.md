@@ -1,0 +1,7 @@
+Por decreto exento MOP Nº 1.594, de 31 de octubre
+
+de 2002, y en base a la facultad otorgada por los
+
+artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1-13 para la obra: ''Sistema Norte - Sur. Tramo A: Río Maipo - Las Acacias. Sector: Km. 1.000,00 al Km. 1.600,00'', Región Metropolitana, que figura a nombre de Puschel Ofitz Arturo, rol de avalúo 4580-10, comuna de San Bernardo, superficie 74 m². La comisión de peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Carmen Pilar Ríos Marcuello y María Pilar Quiroga González, fijó con fecha 8 de agosto de 2002, el valor provisional de la indemnización en la cantidad de $2.001.400.- La indemnización se pagará al contado. La se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
