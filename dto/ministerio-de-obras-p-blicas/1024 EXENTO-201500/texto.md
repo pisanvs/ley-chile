@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.024 de fecha 28 de junio del 2002, se expropió el lote de terreno Nº97, superficie 41 m², Rol Nº1420-223, comuna de Rancagua, VI Región para la obra ''Mejoramiento Camino Ruta H-240, sector Rancagua - San Ramón, Km. 0,0000 a Km. 5,0000'' y se acordó el valor de indemnización con su propietario David Antonio Fuentes Pérez y Otros, ascendente a la cantidad de $726.379.-
+
+Fiscal del Ministerio de Obras Públicas.
