@@ -1,0 +1,9 @@
+Obligaciones de los fiscales i ajentes
+
+Excmo. Señor:
+
+Con motivo del nuevo recurso del Fiscal, sobre que el ajente acuda a su despacho, i no se mantenga independiente, se ha traido el espediente a la vista; i vuelto a nuevas sesiones, satisfecho el Senado de los sólidos fundamentos con que el Fiscal ha defendido sus regalías i privilejios, al paso que manifestado la necesidad legal, de tener un ajente: ha resuelto moderar i enmendar el capítulo de la Constitucion, en que se manda que despachen por sí mismos los Fiscales i que el ajente sirva solo a las justicias inferiores, disponiendo, que a mas de esta atribucion, quede sujeto, i dependiente del Fiscal de lo civil, para ausiliar su despacho; i de consiguiente elejido por él, como se ha acostumbrado hasta ahora. El de lo criminal debe crearse, conforme a lo prevenido en la misma Constitucion, i servir para el despacho de los recursos de segunda suplicacion e injusticia notoria, desempeñando estas causas por sí solo, sin ajente, en consideracion a tantas ménos atribuciones de su empleo, respecto del de lo civil. Así puede V.E. sancionarlo i publicarlo para intelijencia de los Tribunales e interesados, miéntras se acuerdan i disponen mas individualmente las atribuciones de cada uno de estos Ministerios, de que se está conociendo por espediente separado.
+
+Dios guarde a V.E. muchos años.- Sala del Senado, 2 de Setiembre 1820.- José Ignacio Cienfuegos.- José María Villarreal, Secretario.- Excmo. Señor Supremo Director de la República.
+
+Santiago, Setiembre 5 de 1820.- Me conformo con la decision del Excmo. Senado.- Insértese en la Gaceta Ministerial para su cumplimiento.- O'Higgins.- Echeverría.
