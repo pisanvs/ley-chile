@@ -5212,6 +5212,8 @@ Código Plaza Jurisdicción
 
 0008 Arica Arica
 
+0010 Putre "
+
 0016 Iquique Iquique
 
 0024 Tocopilla Antofagasta
@@ -5238,6 +5240,8 @@ Código Plaza Jurisdicción
 
 0104 Copiapó "
 
+0108 Huasco "
+
 0112 Vallenar Santiago
 
 0120 La Serena "
@@ -5263,6 +5267,8 @@ Código Plaza Jurisdicción
 0200 La Ligua "
 
 0208 San Felipe "
+
+0216 Putaendo "
 
 0224 Los Andes "
 
@@ -5300,9 +5306,7 @@ Código Plaza Jurisdicción
 
 0312 Curacaví "
 
-Código Plaza Jurisdicción
-
-0320 Santiago Santiago
+0320 Santiago "
 
 0324 Colina "
 
