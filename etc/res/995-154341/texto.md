@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PESQUERA MAR AZUL LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 995 de 27 de Agosto de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera Mar Azul Limitada, domiciliada en Iquique, para instalar y operar una planta industrial ubicada en calle Sotomayor sitio No. 6, Sector AGPIA de Iquique en la I Región, en la línea de elaboración congelado donde procesará los siguientes recursos hidrobiológicos: Anchoa, bonito, mero, caballa, congrio colorado, congrio dorado, congrio negro, cojinova del norte, lenguado de ojos chicos, jurel, pejerrey, sardina, almeja, cholga, lapa, loco, macha, ostión del norte y pulpo, las que adquirirá por compra a terceros.
+
+Valparaíso, 27 de Agosto de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
