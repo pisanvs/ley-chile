@@ -1,0 +1,3 @@
+Por resolución exenta Nº 492, de 23 de febrero de 2005, de esta Subsecretaría, autorízase a PATAGONIA SALMON FARMING S.A., para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Bahía Ilque s/n, Puerto Montt, X Región, en la línea de proceso de Salado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de febrero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
