@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.100, de 26 de agosto de 2003, de esta Subsecretaría, autorízase a PESQUERA LOTA VEDDE S.A. SANTA MARIA Y COMPAÑIA COMANDITA POR ACCIONES, para ampliar actividades pesqueras extractivas con la nave "Santa María II", en el área marítima comprendida entre la V a VII Regiones, y entre la IX a X Regiones, por fuera del área de reserva artesanal, con cerco, sobre los siguientes recursos hidrobiológicos: Sardina española, Caballa, Agujilla, Cojinoba del norte, Machuelo o tritre, Anchoveta blanca, Bacaladillo o mote, Bonito, Cojinoba negra, Cojinoba moteada, Dorado, Palometa, Jurel fino, Jibia, Calamar, Sardina redonda.
+
+Valparaíso, 26 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
