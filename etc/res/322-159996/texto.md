@@ -1,0 +1,3 @@
+Por resolución N°322, de 28 de febrero de 2000, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura N°97104080, presentada por SINDICATO DE TRABAJADORES ARTESANALES, ALGUEROS Y RAMOS SIMILARES ''UNION Y ESFUERZO'' de Isla Puluqui, para operar un centro de cultivo ubicado en estero Chauquiar, Isla Puluqui, comuna de Calbuco, provincia de Llanquihue, X Región.
+
+Valparaíso, 28 de febrero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
