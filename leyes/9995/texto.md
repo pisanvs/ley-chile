@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Buin para contratar un empréstito que produzca la suma de $ 5.000.000 con el fin de destinarlo a la terminación del edificio municipal, compra de acciones de la Sociedad Constructora de Establecimientos Educacionales y compra de terrenos para construir estadios, parques, plazas y un edificio para el Teatro Municipal.
