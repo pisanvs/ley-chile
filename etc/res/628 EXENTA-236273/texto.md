@@ -1,0 +1,3 @@
+Por resolución exenta Nº 628, de 4 de marzo de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 202105012 presentada por el SINDICATO TRABAJADORES INDEPENDIENTES, PESCADORES Y BUZOS MARISCADORES Y RAMOS SIMILARES "RIO HUEIHUE", para instalar y operar un centro de cultivo ubicado en Bahía Hueihue, al norte de Piedra Lobos, X Región.
+
+Valparaíso, 4 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
