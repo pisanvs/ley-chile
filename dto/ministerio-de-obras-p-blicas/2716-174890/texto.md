@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.716, de 30 de junio de 2000, se expropió el lote de terreno Nº5, superficie 143,5 m², sin rol de avalúo, comuna de Quilicura, para la obra Camino Santiago - Colina - Los Andes, Sector Calle de Servicio Caupolicán, Región Metropolitana, y se acordó el valor de indemnización con sus propietarios Emilio del Carmen Villarroel Corro y Otros, ascendente a la cantidad total de $5.759.885.
+
+Fiscal del Ministerio de Obras Públicas.
