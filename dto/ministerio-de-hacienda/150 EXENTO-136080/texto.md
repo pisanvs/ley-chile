@@ -1,0 +1,699 @@
+ESTABLECE DERECHO ESPECIFICO Y REBAJA A LA IMPORTACION DE AZUCARES DE REMOLACHA Y DE CAÑA EN ESTADO SOLIDOS
+
+Núm. 150 exento.- Santiago, 7 de Mayo de 1999.- Visto: lo dispuesto en el artículo 12 de la Ley N° 18.525; en el inciso segundo del artículo segundo transitorio de la Ley N°18.589; en el Decreto de Interior N° 654, de 1994, y en la Resolución N° 520, de 1996, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón, y
+
+Considerando:
+
+1. Que la política del Supremo Gobierno en materia de productos agrícolas básicos, tiene por objeto establecer un margen razonable de fluctuación de los precios internos, en relación a los precios internacionales de tales productos.
+
+2. Que para cumplir con dicho objetivo es indispensable establecer derechos específicos y rebajas a la importación de azúcares de remolacha y de caña en estado sólidos, en forma permanente hasta el 31 de marzo del año 2001.
+
+D e c r e t o:
+
+#### Artículo 1°
+
+Establécese, a contar del 1° de abril del año 2000, y hasta el 31 de marzo del año 2001, un derecho específico a la importación de las mercancías que se clasifican en las posiciones arancelarias que a continuación se indican:
+
+Posición Producto
+
+1701.1100 De caña
+
+1701.1200 De remolacha
+
+1701.9100 Con adición de
+
+aromatizante o
+
+colorante
+
+1701.9900 Los demás
+
+Este derecho específico, expresado en dólares de los Estados Unidos de América por kilo bruto, se aplicará conforme a la tabla que a continuación se señala y para el período que se indica, en base al menor precio FOB de los azúcares en bruto cuando se trate de importación de dichos productos o al menor precio FOB de los demás azúcares en su caso, que se clasifican en las posiciones antes señaladas, vigente en el mercado internacional a la fecha de su embarque. Para estos efectos, tal precio será aquel que informe semanalmente el Servicio Nacional de Aduanas.
+
+Desde 01.04.2000 Desde 01.01.2001
+
+hasta 31.12.2000 hasta 31.03.2001
+
+Precio Derecho Derecho
+
+FOB Específico Específico
+
+US$/TON US$/KG US$/KG
+
+50 0,31417 0,31499
+
+51 0,31305 0,31388
+
+52 0,31193 0,31276
+
+53 0,31080 0,31165
+
+54 0,30968 0,31053
+
+55 0,30855 0,30942
+
+56 0,30743 0,30831
+
+57 0,30630 0,30719
+
+58 0,30518 0,30608
+
+59 0,30405 0,30496
+
+60 0,30293 0,30385
+
+61 0,30181 0,30273
+
+62 0,30068 0,30162
+
+63 0,29956 0,30051
+
+64 0,29843 0,29939
+
+65 0,29731 0,29828
+
+66 0,29618 0,29716
+
+67 0,29506 0,29605
+
+68 0,29393 0,29493
+
+69 0,29281 0,29382
+
+70 0,29169 0,29271
+
+71 0,29056 0,29159
+
+72 0,28944 0,29048
+
+73 0,28831 0,28936
+
+74 0,28719 0,28825
+
+75 0,28606 0,28713
+
+76 0,28494 0,28602
+
+77 0,28381 0,28490
+
+78 0,28269 0,28379
+
+79 0,28157 0,28268
+
+80 0,28044 0,28156
+
+81 0,27932 0,28045
+
+82 0,27819 0,27933
+
+83 0,27707 0,27822
+
+84 0,27594 0,27710
+
+85 0,27482 0,27599
+
+86 0,27370 0,27488
+
+87 0,27257 0,27376
+
+88 0,27145 0,27265
+
+89 0,27032 0,27153
+
+90 0,26920 0,27042
+
+91 0,26807 0,26930
+
+92 0,26695 0,26819
+
+93 0,26582 0,26708
+
+94 0,26470 0,26596
+
+95 0,26358 0,26485
+
+96 0,26245 0,26373
+
+97 0,26133 0,26262
+
+98 0,26020 0,26150
+
+99 0,25908 0,26039
+
+100 0,25795 0,25928
+
+101 0,25683 0,25816
+
+102 0,25570 0,25705
+
+103 0,25458 0,25593
+
+104 0,25346 0,25482
+
+105 0,25233 0,25370
+
+106 0,25121 0,25259
+
+107 0,25008 0,25147
+
+108 0,24896 0,25036
+
+109 0,24783 0,24925
+
+110 0,24671 0,24813
+
+111 0,24558 0,24702
+
+112 0,24446 0,24590
+
+113 0,24334 0,24479
+
+114 0,24221 0,24367
+
+115 0,24109 0,24256
+
+116 0,23996 0,24145
+
+117 0,23884 0,24033
+
+118 0,23771 0,23922
+
+119 0,23659 0,23810
+
+120 0,23547 0,23699
+
+121 0,23434 0,23587
+
+122 0,23322 0,23476
+
+123 0,23209 0,23365
+
+124 0,23097 0,23253
+
+125 0,22984 0,23142
+
+126 0,22872 0,23030
+
+127 0,22759 0,22919
+
+128 0,22647 0,22807
+
+129 0,22535 0,22696
+
+130 0,22422 0,22585
+
+131 0,22310 0,22473
+
+132 0,22197 0,22362
+
+133 0,22085 0,22250
+
+134 0,21972 0,22139
+
+135 0,21860 0,22027
+
+136 0,21747 0,21916
+
+137 0,21635 0,21804
+
+138 0,21523 0,21693
+
+139 0,21410 0,21582
+
+140 0,21298 0,21470
+
+141 0,21185 0,21359
+
+142 0,21073 0,21247
+
+143 0,20960 0,21136
+
+144 0,20848 0,21024
+
+145 0,20736 0,20913
+
+146 0,20623 0,20802
+
+147 0,20511 0,20690
+
+148 0,20398 0,20579
+
+149 0,20286 0,20467
+
+150 0,20173 0,20356
+
+151 0,20061 0,20244
+
+152 0,19948 0,20133
+
+153 0,19836 0,20022
+
+154 0,19724 0,19910
+
+155 0,19611 0,19799
+
+156 0,19499 0,19687
+
+157 0,19386 0,19576
+
+158 0,19274 0,19464
+
+159 0,19161 0,19353
+
+160 0,19049 0,19242
+
+161 0,18936 0,19130
+
+162 0,18824 0,19019
+
+163 0,18712 0,18907
+
+164 0,18599 0,18796
+
+165 0,18487 0,18684
+
+166 0,18374 0,18573
+
+167 0,18262 0,18461
+
+168 0,18149 0,18350
+
+169 0,18037 0,18239
+
+170 0,17924 0,18127
+
+171 0,17812 0,18016
+
+172 0,17700 0,17904
+
+173 0,17587 0,17793
+
+174 0,17475 0,17681
+
+175 0,17362 0,17570
+
+176 0,17250 0,17459
+
+177 0,17137 0,17347
+
+178 0,17025 0,17236
+
+179 0,16913 0,17124
+
+180 0,16800 0,17013
+
+181 0,16688 0,16901
+
+182 0,16575 0,16790
+
+183 0,16463 0,16679
+
+184 0,16350 0,16567
+
+185 0,16238 0,16456
+
+186 0,16125 0,16344
+
+187 0,16013 0,16233
+
+188 0,15901 0,16121
+
+189 0,15788 0,16010
+
+190 0,15676 0,15899
+
+191 0,15563 0,15787
+
+192 0,15451 0,15676
+
+193 0,15338 0,15564
+
+194 0,15226 0,15453
+
+195 0,15113 0,15341
+
+196 0,15001 0,15230
+
+197 0,14889 0,15118
+
+198 0,14776 0,15007
+
+199 0,14664 0,14896
+
+200 0,14551 0,14784
+
+201 0,14439 0,14673
+
+202 0,14326 0,14561
+
+203 0,14214 0,14450
+
+204 0,14101 0,14338
+
+205 0,13989 0,14227
+
+206 0,13877 0,14116
+
+207 0,13764 0,14004
+
+208 0,13652 0,13893
+
+209 0,13539 0,13781
+
+210 0,13427 0,13670
+
+211 0,13314 0,13558
+
+212 0,13202 0,13447
+
+213 0,13090 0,13336
+
+214 0,12977 0,13224
+
+215 0,12865 0,13113
+
+216 0,12752 0,13001
+
+217 0,12640 0,12890
+
+218 0,12527 0,12778
+
+219 0,12415 0,12667
+
+220 0,12302 0,12556
+
+221 0,12190 0,12444
+
+222 0,12078 0,12333
+
+223 0,11965 0,12221
+
+224 0,11853 0,12110
+
+225 0,11740 0,11998
+
+226 0,11628 0,11887
+
+227 0,11515 0,11775
+
+228 0,11403 0,11664
+
+229 0,11290 0,11553
+
+230 0,11178 0,11441
+
+231 0,11066 0,11330
+
+232 0,10953 0,11218
+
+233 0,10841 0,11107
+
+234 0,10728 0,10995
+
+235 0,10616 0,10884
+
+236 0,10503 0,10773
+
+237 0,10391 0,10661
+
+238 0,10278 0,10550
+
+239 0,10166 0,10438
+
+240 0,10054 0,10327
+
+241 0,09941 0,10215
+
+242 0,09829 0,10104
+
+243 0,09716 0,09993
+
+244 0,09604 0,09881
+
+245 0,09491 0,09770
+
+246 0,09379 0,09658
+
+247 0,09267 0,09547
+
+248 0,09154 0,09435
+
+249 0,09042 0,09324
+
+250 0,08929 0,09213
+
+251 0,08817 0,09101
+
+252 0,08704 0,08990
+
+253 0,08592 0,08878
+
+254 0,08479 0,08767
+
+255 0,08367 0,08655
+
+256 0,08255 0,08544
+
+257 0,08142 0,08432
+
+258 0,08030 0,08321
+
+259 0,07917 0,08210
+
+260 0,07805 0,08098
+
+261 0,07692 0,07987
+
+262 0,07580 0,07875
+
+263 0,07467 0,07764
+
+264 0,07355 0,07652
+
+265 0,07243 0,07541
+
+266 0,07130 0,07430
+
+267 0,07018 0,07318
+
+268 0,06905 0,07207
+
+269 0,06793 0,07095
+
+270 0,06680 0,06984
+
+271 0,06568 0,06872
+
+272 0,06456 0,06761
+
+273 0,06343 0,06650
+
+274 0,06231 0,06538
+
+275 0,06118 0,06427
+
+276 0,06006 0,06315
+
+277 0,05893 0,06204
+
+278 0,05781 0,06092
+
+279 0,05668 0,05981
+
+280 0,05556 0,05869
+
+281 0,05444 0,05758
+
+282 0,05331 0,05647
+
+283 0,05219 0,05535
+
+284 0,05106 0,05424
+
+285 0,04994 0,05312
+
+286 0,04881 0,05201
+
+287 0,04769 0,05089
+
+288 0,04656 0,04978
+
+289 0,04544 0,04867
+
+290 0,04432 0,04755
+
+291 0,04319 0,04644
+
+292 0,04207 0,04532
+
+293 0,04094 0,04421
+
+294 0,03982 0,04309
+
+295 0,03869 0,04198
+
+296 0,03757 0,04087
+
+297 0,03644 0,03975
+
+298 0,03532 0,03864
+
+299 0,03420 0,03752
+
+300 0,03307 0,03641
+
+301 0,03195 0,03529
+
+302 0,03082 0,03418
+
+303 0,02970 0,03307
+
+304 0,02857 0,03195
+
+305 0,02745 0,03084
+
+306 0,02633 0,02972
+
+307 0,02520 0,02861
+
+308 0,02408 0,02749
+
+309 0,02295 0,02638
+
+310 0,02183 0,02526
+
+311 0,02070 0,02415
+
+312 0,01958 0,02304
+
+313 0,01845 0,02192
+
+314 0,01733 0,02081
+
+315 0,01621 0,01969
+
+316 0,01508 0,01858
+
+317 0,01396 0,01746
+
+318 0,01283 0,01635
+
+319 0,01171 0,01524
+
+320 0,01058 0,01412
+
+321 0,00946 0,01301
+
+322 0,00833 0,01189
+
+323 0,00721 0,01078
+
+324 0,00609 0,00966
+
+325 0,00496 0,00855
+
+326 0,00384 0,00744
+
+327 0,00271 0,00632
+
+328 0,00159 0,00521
+
+329 0,00046 0,00409
+
+#### Artículo 2°
+
+Establécese, a contar del 1° de Abril del año 2000, y hasta el 31 de Marzo del año 2001, una rebaja que se aplicará a las sumas que corresponda pagar por concepto de derechos ad-valorem del Arancel Aduanero, a la importación de los productos indicados en el artículo 1°. Esta rebaja, expresada en dólares de los Estados Unidos de América por tonelada, se aplicará conforme a la tabla que a continuación se señala y para el período que se indica, en base al menor precio FOB de los azúcares en bruto cuando se trate de importación de dichos productos o al menor precio FOB de los demás azúcares en su caso, que se clasifican en las posiciones arancelarias antes señaladas, vigente en el mercado internacional a la fecha de embarque. Este precio será el que informe semanalmente el Servicio Nacional de Aduanas para los efectos del artículo 1°.
+
+Desde 01.04.2000 Desde 01.01.2001
+
+hasta 31.12.2000 hasta 31.03.2001
+
+Precio Rebaja Rebaja
+
+FOB US$/TON US$/TON
+
+US$/TON
+
+375 4,70 0,60
+
+376 5,82 1,72
+
+377 6,94 2,83
+
+378 8,07 3,95
+
+379 9,19 5,06
+
+380 10,32 6,18
+
+381 11,44 7,29
+
+382 12,57 8,40
+
+383 13,69 9,52
+
+384 14,82 10,63
+
+385 15,94 11,75
+
+386 17,06 12,86
+
+387 18,19 13,98
+
+388 19,31 15,09
+
+389 20,44 16,20
+
+390 21,56 17,32
+
+391 22,69 18,43
+
+392 23,81 19,55
+
+393 24,94 20,66
+
+394 26,06 21,78
+
+395 27,18 22,89
+
+396 28,31 24,00
+
+397 29,43 25,12
+
+398 30,56 26,23
+
+399 31,68 27,35
+
+400 32,81 28,46
+
+401 33,93 29,58
+
+402 35,06 30,69
+
+403 36,18 31,81
+
+404 37,30 32,92
+
+405 38,43 34,03
+
+406 39,55 35,15
+
+407 40,68 36,26
+
+408 41,80 37,38
+
+409 42,93 38,49
+
+410 44,05 39,61
+
+411 45,17 40,72
+
+Cuando el precio FOB en el mercado internacional resulte superior a US$ 411/TON, la rebaja corresponderá al equivalente en dólares del derecho ad-valorem vigente.
+
+#### Artículo 3°
+
+Las rebajas establecidas en el artículo precedente, en ningún caso podrán exceder a la suma que corresponda pagar por concepto de derechos ad-valorem a las importaciones de tales mercancías conforme a la correspondiente Declaración de Importación.
+
+Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Eduardo Aninat Ureta, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud. Manuel Marfán Lewis, Subsecretario de Hacienda.
