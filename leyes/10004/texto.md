@@ -1,0 +1,1 @@
+Concede subvención anual a la Universidad de Concepción; modifica el N° 1° del artículo 1° del decreto ley 312, de 27 de julio de 1932, que reglamentó la distribución de las utilidades de la Lotería de Beneficencia Pública.
