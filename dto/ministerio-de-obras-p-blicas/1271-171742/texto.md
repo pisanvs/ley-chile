@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.271, de 31 de marzo del 2000, se expropió el lote de terreno Nº 7-B, superficie 4.037 m², rol de avalúo 2130-25, comuna de Puerto Montt, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno-Puerto Montt. Sector: By Pass-Puerto Montt, Décima Región y se acordó el valor de indemnización con su propietario Jorge Recondo Brauning, ascendente a la cantidad de $32.350.903.-
+
+Fiscal del Ministerio de Obras Públicas.
