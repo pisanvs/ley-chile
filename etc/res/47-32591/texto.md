@@ -1,0 +1,3 @@
+Por Resolución N° 47 de 11 de Enero de 1996, de esta Subsecretaría, del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las Resoluciones N° 513 y N° 1461 de 1991, de esta Subsecretaría, que autorizaron a SOCIEDAD AGRICOLA, INDUSTRIAL Y COMERCIAL PEREZ Y RAMIREZ LIMITADA, para operar la nave Valdivia I, matrícula N° 1785, en virtud de lo señalado en el Art. 143 letra b), del D.S. N° 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de Enero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
