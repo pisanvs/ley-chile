@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.471, de 28 de septiembre del 2001, se expropiaron los lotes de terreno Nºs 5, 7 y 8, superficies 275, 661 y 634 m2., rol de avalúo en trámite, comuna del Tabo, para la obra Red Litoral Central Sector 3: Eje Costero Interior Subtramo Quillaicillo Rosario, Quinta Región y se acordó el valor de indemnización con su propietaria Inmobiliaria Nauantu Ltda., ascendente a las cantidades de $498.753.-, para el lote Nº 5, $1.368.975.- para el lote Nº 7 y $1.255.611.- para el lote Nº 8.
+
+Fiscal del Ministerio de Obras Públicas.
