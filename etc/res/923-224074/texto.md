@@ -1,0 +1,3 @@
+Por resolución Nº 923, de 6 de abril de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Caleta Parga, X Región, individualizada en el artículo 1º Nº 14) del decreto exento Nº 641 de 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentada por la ASOCIACION GREMIAL DE PESCADORES ARTESANALES Y RUBROS AFINES CALETA LA PASADA.
+
+Valparaíso, 6 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
