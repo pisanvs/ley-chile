@@ -1,0 +1,7 @@
+DISPONE EXCLUSION DE PERSONAS QUE INDICA EN NOMINAS DE POSTULANTES AL SISTEMA SUBSIDIO HABITACIONAL ATENCION DEL SECTOR RURAL
+
+Res. exenta Nº 330, de fecha 08 febrero 2001, dispone la exclusión de don Celcio Rodolfo Díaz Reyes, de las nóminas de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al I Llamado 1998 a Postulación para la Adquisición o Construcción de Viviendas Rurales Emplazadas en Asentamientos Poblacionales del Sistema de Subsidio Habitacional para la Atención del Sector Rural, a cuyo favor se extendió el Certificado de Subsidio Habitacional Serie SRII Nº 1-98-001751, por un monto equivalente a 180 Unidades de Fomento (U.F.) de subsidio directo, el que ha caducado automáticamente.
+
+Como consecuencia de ello queda en 3.879 el número de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al I Llamado 1998 a Postulación para la Adquisición o Construcción de Viviendas Rurales Emplazadas en Asentamientos Poblacionales y en 724.840 Unidades de Fomento (U.F.), el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados.
+
+Sonia Tschorne Berestesky, Subsecretaria de Vivienda y Urbanismo.
