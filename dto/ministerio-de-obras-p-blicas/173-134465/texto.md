@@ -1,0 +1,3 @@
+Por decreto MOP No. 173, de 29 de enero de 1999, se expropiaron los lotes de terreno No. s. 19 y 19-1, superficies 518 mt y 93 mt, rol de avalúo 333-19, comuna de Bulnes, para la obra Concesión Internacional Ruta 5 Tramo Chillán - Collipulli, Sector 1 y se acordó el valor de indemnización con su propietario Luis Humberto Lagos Garrido, ascendente a la cantidad total de $ 891.404.-
+
+Fiscal del Ministerio de Obras Públicas.
