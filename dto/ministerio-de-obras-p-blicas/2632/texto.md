@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.632 de 18 de diciembre de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs 42-A y 42-B; para la Obra: Concesión Internacional Ruta 5, Tramo: Chillán-Collipulli, Sector:
+
+Km. 423.646,00 al 427.251,20, Octava Región, que figuran a nombre de Flores Soto José Samuel, rol de avalúo 747-208, comuna de Bulnes, superficies de 433 m2 y 899 m2, respectivamente. La comisión de peritos integrada por los señores Ramón Jofré Soto, Pablo Carrillo V. y José Manuel Gálvez Alegría, fijó con fecha 14 de agosto de 1998, el valor provisional de las indemnizaciones en las cantidades de $ 1.320.000.- para el lote 42-A y $ 2.727.000.- para el lote 42-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
