@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 868, de 26 de junio de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 8, para la ejecución de la obra "Camino Chépica - Bif. Teno, Sector Cuestra El Peral - Chépica, Tramo Km. 5.250 a Km. 18.893.22", que figura a nombre de Luis Vidal Trejos, Rol de Avalúo 59-63, comuna de Chépica, VI Región, superficie 923 m². La Comisión de Peritos fijó con fecha 30 de junio de 1997, la indemnización provisional en la cantidad de $2.558.450.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
