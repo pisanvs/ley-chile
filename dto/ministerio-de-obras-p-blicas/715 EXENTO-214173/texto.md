@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº715 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº3, superficie 56,1 m², rol de avalúo Nº390-226, comuna de Buin, para la obra "Camino Rol G-520, sector Viluco-Vínculo, tramo Km. 0,00000 a Km. 5,92000", Región Metropolitana y se acordó el valor de la indemnización con su propietario Sergio Rafael Carrasco Almendras, ascendente a la cantidad de $1.075.675.
+
+Fiscal del Ministerio de Obras Públicas.
