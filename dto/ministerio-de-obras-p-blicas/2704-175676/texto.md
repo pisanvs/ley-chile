@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.704, de 30 de junio de 2000, se expropió el lote de terreno Nº1-A, superficie 162.292, sin Rol de avalúo, comuna de Vicuña, para la obra Embalse Puclaro, Sector La Polvada, II Etapa Complementaria y se acordó precio de la indemnización con su propietario Comunidad Agrícola La Polvada, ascendente a la cantidad de $34.853.830 para el lote Nº1-A.
+
+- Fiscal del Ministerio de Obras Públicas.
