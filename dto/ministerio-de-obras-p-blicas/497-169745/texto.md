@@ -1,0 +1,3 @@
+Por decreto MOP Nº497, de 28 de febrero de 2000, se expropiaron los lotes de terreno Nºs. 12, 13, 14, 17, 19, 20, 21, 22, 24, 25, 27 y 30, roles de avalúo 1054-39, 1054-4, 1053-2, 1052-10, 1052-11, 1024-2, 1051-13, 1024-25, 1024-12, 1024-9 y 1052-8, comuna de Santa Cruz, Obra Camino Ruta I-50, Sector Nancagua - Santa Cruz y se acordó precio de indemnización con sus propietarios Ramón Pulgar Muñoz, José García García y otros, Alonso Bolbarán González, Pedro Guerrero Guzmán, Teresa Farías Farías y otros, Ilda Acevedo Caris, Manuel Acevedo Escobar y otros, Doris Valdebenito Moraga, Pablo Villalobos Villalobos y otro, Celsa Suárez Trujillo y otros y José Vilches Duque, ascendentes a las cantidades que se indican en dicho decreto.-
+
+Fiscal del Ministerio de Obras Públicas.
