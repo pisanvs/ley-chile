@@ -1,0 +1,5 @@
+Por Decreto MOP. No. 779 de 19 de junio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. No. 850 de 1997, que fijó el texto actualizado de la Ley No. 15.840, se expropió el lote de terreno No.
+
+99, para la obra Camino Santiago - Colina - Los Andes Sector "A" A. Vespucio - By Pass Colina, km. 7.953,70 al km. 13.502,60, que figura a nombre de Armijo Luis, rol de avalúo 166-181, comuna de Colina, superficie 884,3 m2. La Comisión de Peritos integrada por los señores Paola Andrea Domingo Porcella, Inés Elena Otárola Castillo y Andrés Echeverría Campo, fijó con fecha 27 de abril de 1998, el valor provisional de la indemnización en la cantidad de $ 20.937.112.- para el Lote No. 99.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley No. 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
