@@ -1,0 +1,3 @@
+Por resolución Nº519, de 8 de abril de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº95105005, presentada por ALBA ELIANA TORRES MALDONADO, para operar un centro de cultivo ubicado en Estero del Dique, Península Lacui, comuna de Ancud, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14 del D.S. Nº290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 8 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
