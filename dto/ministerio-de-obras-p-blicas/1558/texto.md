@@ -1,0 +1,5 @@
+Por decreto MOP No. 1.558, de 21 de septiembre de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL MOP No. 206, de 1960, se expropiaron los lotes de terreno No. s. 1 y 2, para la Obra Ruta 5, Tramo Talca-Chillán, Solución Acceso Norte a Los Maquis, Séptima Región, que figuran a nombre de Enrique Zaror y Cía. Ltda., rol de avalúo 24-192, comuna de Río Claro, superficies 83 m² y 125 m², respectivamente. La Comisión de Peritos integrada por los señores Claudio Burgos Valera, Francisco Azócar Bobadilla y Jorge Brito Obreque, fijó con fecha 11 de mayo de 1998 los montos de las indemnizaciones provisionales en las cantidades de $108.000.- para el lote No. 1 y $250.000.- para el lote No. 2, respectivamente. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No.
+
+2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
