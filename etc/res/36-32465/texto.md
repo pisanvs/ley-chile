@@ -1,0 +1,3 @@
+Por Resolución N° 36 de 27 de Julio de 1995, se adjudica a "Servicios Técnicos Motrices S.A.", la concesión para operar hasta el 1 de Julio del año 2000, un establecimiento destinado a la revisión técnica y verificación de emisión de contaminantes de los buses inscritos en el Registro Nacional de Servicios de Transporte de Pasajeros de la Región Metropolitana y a aquellos que presten servicios privados de transporte de personas en dicha región, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Antonio Dourthe Castrillón, Secretario Regional Ministerial Transportes y Telecomunicaciones, Región Metropolitana.
