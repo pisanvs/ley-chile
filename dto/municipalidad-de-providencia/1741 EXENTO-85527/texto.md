@@ -1,0 +1,7 @@
+EXTRACTO DE DECRETO EXPROPIATORIO
+
+Alcaldesa I. Municipalidad de Providencia, mediante decreto ex. No. 1.741, de fecha 21 de agosto de 1992, dispone la expropiación parcial conforme a Art. 5, 6, 7, 17, 21 y 39 del DL 2.186 de 1978, Ley Orgánica de Procedimiento de Expropiaciones; Art. 42, 48, 51, 83 y 85 del DFL No. 458 de Vivienda, de 1976, Ley General de Urbanismo y Construcciones; Art. 19 No. 24 de la Constitución Política del Estado y Art. 5, 10, 27, 53 letra i), 55 letra f) y 78 letra f) de la ley No. 18.695 Orgánica Constitucional de Municipalidades, del inmueble ubicado en Nueva Los Leones No. 001 al 015, roles de avalúos No. s. 137-3, 137-40, 137-41, 137-42, 137-43, 137-44, 137-45 y 137-46, aparentemente de propiedad de la Sucesión del señor Martín Goicochea, para dar cumplimiento a lo establecido en el Plan Intercomunal de Santiago.
+
+Los deslindes del inmueble expropiado son los siguientes: al Norte: Punta (0,00m.) con otros propietarios; al Sur: 150 m. con Nueva Los Leones y Punta (0,00 m.) con Plazoleta de Avenida Providencia; al Oriente: en aproximadamente 31 m. con resto de la misma propiedad, y al Poniente: en aproximadamente 31 m. con calle Nueva Los Leones. Indemnización provisional de $ 64.522.500, de acuerdo con el informe de fecha 15 de julio de 1992, por la Comisión Tasadora integrada por los Sres. Patricio Bunster Larraguibel, Hernan Rivera Alonso y Sergio Rojas Ibáñez, pagadera al contado.
+
+C.G. de A., Alcaldesa.- Eduardo Vasquez Silva, Asesor Jurídico(S).
