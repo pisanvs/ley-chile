@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 650, de 31 de octubre de 1995, se expropió el lote de terreno Nº 58, superficie 4.980 m2, rol de avalúo 310-80, comuna de Peñaflor, para la obra Camino Autopista Santiago-San Antonio, sector Empalme I. Riquelme-Bif. Malloco y se acordó el valor de indemnización con su propietario José Ignacio Garay Vanconislo, ascendente a la cantidad de $63.783.083.
+
+Fiscal del Ministerio de Obras Públicas.
