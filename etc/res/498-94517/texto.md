@@ -1,0 +1,3 @@
+Por Resolución No. 499 de 16 de mayo 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978. inmueble calle Ricardo Santa Cruz No. 567-569, presunto rol avalúos No. 592-25 comuna Santiago. aparentemente dominio de doña Amalia Moya Vergara. Comisión integrada por peritos Sres. Teresa Sancho Pernas, arquitecto, José Miguel Haltenhoff Aenishaslin y Carlos del Pedregal Sánchez, constructores civiles, según informe de 1 de diciembre 1988. fijó monto provisional indemnización en $ 1.601.490.-, pagadera al contado.
+
+- Director SERVIU Metropolitano.
