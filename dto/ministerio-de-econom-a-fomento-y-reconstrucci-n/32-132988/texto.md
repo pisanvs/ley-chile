@@ -1,0 +1,117 @@
+OTORGA A EMEC S.A. CONCESION DEFINITIVA DE SERVICIO PUBLICO DE DISTRIBUCION EN LA V REGION
+
+Núm. 32.- Santiago, 20 de enero de 1999.- Visto: Estos antecedentes y lo dispuesto en los artículos 11º y 28º del D.F.L. Nº1, de 1982, del Ministerio de Minería, y en la ley Nº18.410.
+
+D e c r e t o:
+
+#### Artículo 1º
+
+<!-- parte:8341934 -->
+
+Otórgase a la Empresa Eléctrica EMEC S.A. concesión definitiva para establecer, operar y explotar en la Quinta Región de Valparaíso, provincia de Petorca, comuna de Papudo, las instalaciones de servicio público de distribución de energía eléctrica correspondientes al proyecto denominado ''Electrificación II Sector Las Salinas'', según plano EEC-7105.
+
+#### Artículo 2º
+
+<!-- parte:8341935 -->
+
+El objetivo de estas instalaciones será suministrar energía eléctrica en la zona de concesión que se define en el artículo 8º del presente decreto.
+
+#### Artículo 3º
+
+<!-- parte:8341936 -->
+
+El presupuesto del costo de las obras ascenderá a $5.196.401.-
+
+#### Artículo 4º
+
+<!-- parte:8341937 -->
+
+Copias del plano general de las obras, de la memoria explicativa de las mismas y de los demás antecedentes técnicos, que pasan a formar parte del presente decreto, quedarán archivadas en la Superintendencia de Electricidad y Combustibles.
+
+#### Artículo 5º
+
+<!-- parte:8341938 -->
+
+No se constituye servidumbre legal, atendido a que se ha constituido en forma voluntaria.
+
+#### Artículo 6º
+
+<!-- parte:8341939 -->
+
+Reconócese el derecho a usar bienes nacionales de uso público para tender líneas áreas y subterráneas destinadas a la distribución en la zona de concesión, en los términos del artículo 16 del D.F.L. Nº1, de 1982, del Ministerio de Minería, sin perjuicio de las demás autorizaciones que deban ser otorgadas por los organismos competentes.
+
+#### Artículo 7º
+
+<!-- parte:8341940 -->
+
+Las líneas podrán atravesar los ríos, canales, las líneas férreas, puentes, acueductos, cruzar calles, caminos y otras líneas eléctricas. Estos cruzamientos se ejecutarán en conformidad con las prescripciones que establecen los reglamentos, de manera que garanticen la seguridad de las personas y propiedades.
+
+#### Artículo 8º
+
+<!-- parte:8341941 -->
+
+La zona de concesión será la comprendida dentro de la poligonal que se encuentra demarcada en la carta del Instituto Geográfico Militar, Código 5-04-05-0028-00, Placilla, escala 1:50.000, según las siguientes coordenadas geográficas UTM:
+
+Vértice Norte (Km) Este (Km)
+
+A 6409,269 278,081
+
+B 6409,190 278,619
+
+C 6409,216 278,925
+
+D 6409,200 279,059
+
+E 6409,000 279,059
+
+F 6408,916 278,925
+
+G 6408,985 278,616
+
+H 6409,060 278,081
+
+#### Artículo 9º
+
+<!-- parte:8341942 -->
+
+La presente concesión se otorga en conformidad a lo dispuesto en el D.F.L. Nº1, de 1982, del Ministerio de Minería, y queda sometida a todas las disposiciones legales y reglamentarias vigentes o que se dicten en el futuro sobre la materia.
+
+#### Artículo 10º
+
+<!-- parte:8341943 -->
+
+Esta concesión se otorga por plazo indefinido.
+
+#### Artículo 11º
+
+<!-- parte:8341944 -->
+
+El plazo para la iniciación de las obras es de 30 días, a partir de la fecha de reducción a escritura pública del presente decreto, y el plazo para su terminación será de 35 días, a contar de la fecha de iniciación de los trabajos.
+
+Los plazos para la terminación por etapas serán los siguientes:
+
+Etapa Descripción Días
+
+I Estacado y montaje de estructuras 15
+
+II Tendido de conductores 15
+
+III Pruebas finales y Recepción de la
+
+Obra 5
+
+#### Artículo 12º
+
+<!-- parte:8341945 -->
+
+El presente decreto deberá ser reducido a escritura pública por el interesado, antes de treinta días contados desde su publicación en el Diario Oficial.
+
+#### Artículo 13º
+
+<!-- parte:8341946 -->
+
+La concesión obliga a su titular a mantener la calidad de servicio y suministro exigido por el ordenamiento jurídico vigente. En consecuencia, mediante decreto supremo fundado podrá decretarse caducada si la calidad del servicio suministrado no corresponde a las exigencias preestablecidas en dicho ordenamiento, o a las condiciones estipuladas en este decreto, a no ser que el concesionario, requerido por la Superintendencia de Electricidad y Combustibles, remediare tales situaciones en los plazos que ésta exija, sin perjuicio de las demás causales de caducidad contempladas en la ley.
+
+Tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Jorge Leiva Lavalle, Ministro de Economía, Fomento y Reconstrucción.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte a Ud., Luis Sánchez Castellón, Subsecretario de Economía, Fomento y Reconstrucción.
