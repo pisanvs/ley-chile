@@ -1,0 +1,5 @@
+EVALUACION DE IMPACTO AMBIENTAL DEL PROYECTO "AUTOPISTA BY PASS RANCAGUA"
+
+En virtud de lo dispuesto en el artículo Nº 28 de la ley 19.300 y el artículo 54 del Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica a las Organizaciones Ciudadanas con personalidad jurídica y a las personas naturales que presentaron observaciones durante la evaluación ambiental del proyecto "Autopista By Pass Rancagua", presentado al Sistema de Evaluación de Impacto Ambiental por el Ministerio de Obras Públicas, que por resolución exenta Nº 052 del 07 de mayo de 2002, esta Comisión resolvió calificar ambientalmente favorable el proyecto individualizado. Con fecha 31 de mayo se remitió por carta certificada la notificación de dicha resolución al representante legal del proyecto Sr. Eduardo Arriagada Moreno. El texto íntegro de la resolución puede ser conocido en la oficina de la Dirección Regional de Conama Sexta Región, ubicada en Hermano Claudio 364, Rancagua, y en la Gobernación de Cachapoal, ubicada en Plaza Los Héroes s/n, Rancagua.
+
+Mario Meneses Terán, Secretario Ejecutivo de la Comisión Regional del Medio Ambiente Sexta Región.
