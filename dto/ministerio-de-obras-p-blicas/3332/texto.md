@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.332, de 29 de octubre de 1999, se expropió el lote de terreno Nº 131, superficie 445 m2., rol de avalúo 136-591, comuna de Paine, para la obra Concesión Internacional Ruta 5; Tramo: Santiago - Talca. Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietario Bernardo Domingo Hidalgo Olguín, ascendente a la cantidad de $3.079.768.-
+
+Fiscal del Ministerio de Obras Públicas.
