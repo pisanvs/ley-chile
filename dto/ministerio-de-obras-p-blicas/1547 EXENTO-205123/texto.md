@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.547 de fecha 29 de octubre del 2002, se expropiaron los lotes Nºs 33 y 34, superficie 998 y 2.357 m2, respectivamente, Rol Nº524-283, comuna de La Unión, X Región para la obra ''Camino Ruta T-80, Sector La Unión - Las Trancas, tramo Km. 0,900 al 10,99034'' y se acordó el valor de indemnización con su propietario José Leonel Westermeier Martínez, ascendente a la cantidad de $1.809.978.-
+
+Fiscal del Ministerio de Obras Públicas.
