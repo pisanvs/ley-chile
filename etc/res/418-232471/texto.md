@@ -1,0 +1,5 @@
+DECLARA AREA DE RESTRICCION ACUIFERO ESTERO SAN JERONIMO, PROVINCIAS DE VALPARAISO Y SAN ANTONIO, V REGION
+
+Mediante resolución DGA Nº 418, de fecha 14 de octubre de 2004, se ha declarado Area de Restricción para extracciones de aguas subterráneas el sector hidrogeológico del Acuífero del Estero San Jerónimo ubicado en las Provincias de Valparaíso y San Antonio, V Región. Los antecedentes se encuentran disponibles en las oficinas de la Dirección General de Aguas de la V Región, del Nivel Central y en la página Web de la DGA. Establécese que la Dirección General de Aguas en el Acuífero del Estero San Jerónimo, otorgará en virtud de lo previsto por el artículo 66 del Código de Aguas, derechos provisionales por un caudal correspondiente al 25% de los derechos otorgados como definitivos en el acuífero, esto es un caudal de 116 l/s.
+
+- Humberto Peña T., Director General de Aguas.
