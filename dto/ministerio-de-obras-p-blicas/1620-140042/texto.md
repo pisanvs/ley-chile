@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.620, de 21 de junio de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº466-B, para la obra ''Concesión Internacional Ruta 5; Tramo Temuco -
+
+Río Bueno''; Km. 857,30000 a Km. 860,55000, Décima Región, que figura a nombre de Perinetti Santis Carmen Gloria, rol de avalúo 554-185, comuna de Paillaco, superficie 6.636 m2. La comisión de peritos integrada por los señores Jorge Max Nusser Arend, Roberto Pedro Martínez Kraushaar y Daniel Gonzalo Villar Haase, fijó con fecha 28 de enero de 1999, el valor provisional de la indemnización en la cantidad de $2.986.200.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
