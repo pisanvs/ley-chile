@@ -1,0 +1,3 @@
+Por decreto MOP Nº 322 de fecha 31 de marzo del 2003, se expropiaron los lotes de terreno Nºs. 403 y 404, superficie 9.367 y 760 m2, respectivamente, Rol Nº 33-114, comuna de Pichidegua, VI Región, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Km. 12,70000 a Km. 16,48000" y se acordó el valor de indemnización con su propietaria Adriana del Carmen Araya Vera, ascendente a la cantidad de $21.899.808.
+
+Fiscal del Ministerio de Obras Públicas.
