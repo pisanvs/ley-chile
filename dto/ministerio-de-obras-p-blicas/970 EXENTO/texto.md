@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº970, de fecha 28 de junio del 2002, se expropió el lote de terreno Nº29, superficie 353 m², Rol Nº209-55, comuna de Los Alamos, VIII Región para la obra ''Camino Ruta P-46, Sector Los Alamos - Sara de Lebu, Km. 0,00000 al 16,84000'' y se acordó el valor de indemnización con su propietario Roberto Nain Muñoz, ascendente a la cantidad de $193.303.-
+
+Fiscal del Ministerio de Obras Públicas.
