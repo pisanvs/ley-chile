@@ -1,0 +1,3 @@
+Por resolución No. 983, de 13 de Octubre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año a contar del 23 de septiembre de 1992, el plazo otorgado a Pesquera Oceánica Limitada, R.U.T. No. 82.957.700-3, domiciliada en Santiago, Avenida Los Conquistadores No. 1700, Torre Santa María, Piso 14B, en el numeral 5° de la Resolución No. 1.177, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor
+
+Valparaíso, 13 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
