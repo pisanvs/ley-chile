@@ -1,0 +1,3 @@
+Por Resolución N° 857 de 14 de Septiembre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 769, de 1994, de esta Subsecretaría, por la cual se autorizó a Pesquera Itata S.A., en el sentido que el nombre correcto de la embarcación mencionada en ella es "Inger Hildur" y no el que se señala en la citada Resolución.-
+
+Patricio Bernal Ponce, Subsecretario de Pesca. Valparaíso, 14 de Septiembre de 1994.
