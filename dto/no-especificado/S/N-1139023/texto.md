@@ -1,0 +1,7 @@
+Recompensa al brigadier don Joaquín Prieto
+
+Santiago, Diciembre 5 de 1821.
+
+Siendo deber tan esencial de la buena administracion castigar los crímenes, como premiar las virtudes, el Supremo Gobierno dejaría un vacío a este deber sagrado, sino reconociera el mérito del brigradier don Joaquín Prieto, a quien no solo debe el Estado recientemente sus glorias sobre las Vegas de Saldías, la estincion del vandalaje al sur, i pacificacion de la provincia de Concepcion, sino las mayores economías del Tesoro, i la seguridad de todo el pais, que amagada por la combinacion de los pérfidos Carrera i Benavides, estuvo inminentemente espuesto a la convulsion mas desastrosa; por tanto, i usando de las facultades supremas que me dispensa la Constitucion, vengo en conceder a este jeneral benemérito de la Patria, i que por su defensa perdió las valiosas propiedades heredadas de su familia en la propia provincia de Concepcion, la hacienda de Peumuco secuestrada al español prófugo don Pablo Hurtado, en toda propiedad i dominio, i libre de pension, reconocimiento o hipoteca, que caso de ligarlas, se traspasarán a otros fundos de los secuestrados por virtud de este decreto de que se tomará razon en el Tribunal de Cuentas, i Tesorería Jeneral i principal de Concepcion.
+
+Trascríbase al Intendente de la provincia i al agraciado, imprímase, archívese.- O'Higgins.- Vial.
