@@ -27308,7 +27308,7 @@ FINANCIAMIENTOS A BANCOS Y A OTRAS PERSONAS DEL EXTERIOR.
 
 ### 1. Créditos para financiar Importaciones procedentes de Chile
 
-Los bancos podrán otorgar créditos a bancos del exterior o a otras personas naturales o jurídicas residentes en el exterior, para financiar importaciones procedentes de Chile, cuyo plazo máximo será de 180 días.
+Los bancos podrán otorgar créditos a bancos del exterior o a otras personas naturales o jurídicas residentes en el exterior, para financiar importaciones procedentes de Chile.
 
 Los referidos créditos, cuando se otorguen a bancos del exterior, deberán tener por objeto el financiamiento de cartas de crédito emitidas por éstos, a la vista o con pago diferido, a favor de exportadores chilenos, que sean negociadas por intermedio de bancos situados en este país.
 
@@ -27316,7 +27316,7 @@ Los créditos que sean otorgados a personas naturales o jurídicas residentes en
 
 ### 2. Créditos para financiar exportaciones destinadas a Chile
 
-Los bancos podrán otorgar créditos a bancos del exterior o a otras personas naturales o jurídicas residentes en el exterior, para financiar exportaciones destinadas a Chile, los que se podrán pactar a un plazo máximo de 180 días.
+Los bancos podrán otorgar créditos a bancos del exterior o a otras personas naturales o jurídicas residentes en el exterior, para financiar exportaciones destinadas a Chile.
 
 Los créditos que otorguen los bancos para esa finalidad, deberán consistir en préstamos a exportadores extranjeros o a bancos del exterior, cursados contra recepción, en calidad de garantía, de las letras de cambio o de los pagarés aceptadas o suscritos por importadores chilenos, siempre que esos documentos no se encuentren avalados por bancos situados en Chile. Los créditos que se otorguen bajo esta modalidad deberán ser cursados en la misma moneda en que estén expresados los respectivos documentos que se reciban en garantía. Asimismo, los montos y vencimientos de tales préstamos no podrán exceder los de aquéllos.
 
@@ -27336,7 +27336,7 @@ Las operaciones de que trata este título, serán registradas de la siguiente fo
 
 Debe: - "Préstamos a bancos del exterior para rembolso de cartas de crédito negociadas", o bien,
 
-- "Préstamos a personas del exterior para pagar a exportadores", de la partida 1130.
+- "Préstamos a personas del exterior para pagar a exportadores", de la partida 1130 ó 1225.
 
 Haber: La cuenta que corresponda según el destino que se le dé a la moneda extranjera.
 
@@ -27350,7 +27350,7 @@ Debe: - "Préstamos a bancos del exterior caucionados por documentos de importad
 
 - "Documentos aceptados por importadores adquiridos con responsabilidad".
 
-Todas estas cuentas corresponden a la partida 1125.
+Todas estas cuentas corresponden a la partida 1125 ó 1220.
 
 Haber: - La cuenta que corresponda por el desembolso del importe respectivo.
 
@@ -27380,7 +27380,7 @@ c) El pagaré debe ser emitido a favor del Banco descontante situado en Chile y 
 
 d) En el dorso del pagaré se deben indicar los datos del documento original, particularmente los relativos a la exportación de que se trate con mención del país de origen y de destino, como asimismo una declaración del suscriptor en la que deje constancia que no se han emitido ni se emitirán otros documentos negociables sobre la base del mismo documento original.
 
-e) En el pagaré debe constar la autorización del Banco suscriptor o avalista de ese instrumento, para que su importe sea rembolsado por intermedio del Convenio de Pagos y Créditos Recíproco, así como la referencia bajo la cual se deberá requerir el rembolso.
+e) En el pagaré debe constar la autorización del Banco suscriptor o avalista de ese instrumento, para que su importe sea rembolsado por intermedio del Convenio de Pagos y Créditos Recíproco, así como la referencia bajo la cual se deberá requerir el rembolso. Al respecto, se deberá tener presente que sólo podrán ser reembolsados con cargo al Convenio de Pagos y Créditos Recíproco los importes de estas operaciones cuyo plazo no exceda de 365 días. En caso de vencimientos superiores a ese plazo, el reembolso por el importe que venza después de 365 días deberá cursarse fuera de convenio.
 
 ### 3. Antecedentes de los deudores
 
@@ -27407,6 +27407,8 @@ El saldo de colocaciones correspondientes a pagarés descontados que mantengan l
 5.2. limite de crédito.
 
 Los créditos otorgados mediante el descuento de los documentos de que trata este título, estarán afectos al límite de endeudamiento individual del 25% para operaciones con garantía de que trata el artículo 84 de la Ley General de Bancos, siempre que en el instrumento descontado se establezca que su rembolso se efectuará por intermedio del Convenio de Pagos y Créditos Recíproco vigente entre el Banco Central de Chile y el Banco Central del país del respectivo deudor.
+
+Cuando se trate de importes que no sean reembolsables por intermedio del Convenio de Pagos y Créditos Recíproco, se les aplicará el límite de endeudamiento individual del 5% para operaciones sin garantía.
 
 CAPITULO 13-28 (Bancos)
 
