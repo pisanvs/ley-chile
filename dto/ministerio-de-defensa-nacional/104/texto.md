@@ -148,9 +148,9 @@ De los Fondos de la Comisión Acción Social
 
 Los fondos de la Comisión Acción Social se constituirán e incrementarán con los siguientes ingresos:
 
-1º) Una cuota fija de todos los socios de la Comisión, equivalente al 0,75% de un sueldo vital mensual, escala A, para el Departamento de Santiago, destinado a un fondo especial para el otorgamiento de una cuota mortuoria;
+1º) Una cuota fija de todos los socios de la Comisión, equivalente al 0,75% de un sueldo base o sueldos bases del grado de Carabinero (grado 18), de la Escala aplicable a Carabineros de Chile, destinado a un fondo especial para el otorgamiento de una cuota mortuoria;
 
-2º) Una cotización fija de todos los miembros de la Organización, equivalente al 6% de un sueldo vital, escala A, para el Departamento de Santiago;
+2º) Una cotización fija de todos los miembros de la Organización, equivalente al 6% de un sueldo base o sueldos bases del grado de Carabinero (grado 18), de la Escala aplicable a Carabineros de Chile;
 
 3º) El aporte de un 5% que efectúen los socios, correspondiente a los aumentos generales de sueldos base, que se descontará por una sola vez;
 
@@ -182,9 +182,9 @@ De los beneficios
 
 #### Artículo 18º
 
-Todos los beneficios que otorga la Comisión Acción Social se concederán en base al sueldo vital mensual escala A, vigente para el departamento de Santiago.
+Todos los beneficios que otorga la Comisión Acción Social se concederán en base al sueldo base o sueldos bases del grado de Carabinero (grado 18), de la Escala aplicable a Carabineros de Chile.
 
-Las variaciones que puedan producirse en cuanto al número de sueldos vitales a concederse como beneficio o los aumentos que experimente dicho sueldo, aun con efecto retroactivo, no darán lugar a la reliquidación ni ampliación de los ya otorgados, los que consistirán en:
+Las variaciones que puedan producirse en cuanto al número de sueldos bases a concederse como beneficio o los aumentos que experimente dicho sueldo, aun con efecto retroactivo, no darán lugar a la reliquidación ni ampliación de los ya otorgados, los que consistirán en:
 
 a) Cuota mortuoria;
 
@@ -200,7 +200,7 @@ Se otorgará una cuota mortuoria de hasta cuatro sueldos vitales para atender ga
 
 Igual beneficio se concederá por el fallecimiento de los padres, cónyuge o hijos legítimos, adoptivos o hijastros hasta los 18 años de edad, aun cuando el socio no perciba asignación familiar por ellos; o haber nacido hijo muerto a la cónyuge del socio, siempre que ello ocurra después del 7º mes de gestación.
 
-En todo caso los padres deberán tener más de 60 años de edad y percibir una renta inferior a un sueldo vital de Santiago.
+En todo caso los padres deberán tener más de 60 años de edad y percibir una renta inferior a un sueldo base de Santiago.
 
 #### Artículo 20º
 
@@ -226,7 +226,7 @@ De los subsidios
 
 Los socios con un año de cotizaciones tendrán derecho a que se les paguen los siguientes subsidios:
 
-1º) Por nacimiento de hijo legítimo, un sueldo vital.
+1º) Por nacimiento de hijo legítimo, un sueldo base.
 
 Cuando se trate de nacimientos múltiples se otorgará este beneficio por cada hijo nacido vivo. Si uno o más naciesen muertos, podrá impetrar el beneficio contemplado en el artículo 19º, y si el fallecimiento se produjere después del término del alumbramiento, tendrá derecho al subsidio y a la cuota mortuoria.
 
@@ -236,11 +236,11 @@ El o los beneficios correspondientes podrá percibirlos el socio o la cónyuge, 
 
 Si los contrayentes son miembros de la Organización, ambos tendrán derecho a este beneficio, en forma íntegra.
 
-3º.- Para gastos de estudio del socio y/o su cónyuge, de cada hijo legítimo, adoptivo o hijastro, por los cuales perciba o no asignación familiar, un subsidio anual de escolaridad equivalente al 25% de un sueldo vital mensual, siempre que cursen estudios regulares de enseñanza media, técnica, universitaria o profesional equivalente.
+3º.- Para gastos de estudio del socio y/o su cónyuge, de cada hijo legítimo, adoptivo o hijastro, por los cuales perciba o no asignación familiar, un subsidio anual de escolaridad equivalente al 25% de un sueldo base mensual, siempre que cursen estudios regulares de enseñanza media, técnica, universitaria o profesional equivalente.
 
 Este beneficio se otorgará hasta que el causante cumpla 23 años de edad, exceptuándose el caso del socio o cónyuge, en que será hasta el término de sus estudios.
 
-4º) Para la atención en salas cunas o jardines infantiles de los hijos de los socios viudos que deban permanecer alejados del hogar por hospitalizaciones o reposo en sanatorios, se podrá conceder un subsidio de hasta un 0,5% de un sueldo vital mensual, diariamente y por cada hijo.
+4º) Para la atención en salas cunas o jardines infantiles de los hijos de los socios viudos que deban permanecer alejados del hogar por hospitalizaciones o reposo en sanatorios, se podrá conceder un subsidio de hasta un 0,5% de un sueldo base mensual, diariamente y por cada hijo.
 
 El derecho a este subsidio se devengará, siempre y cuando el socio no perciba otra ayuda por esta misma causa y en la localidad respectiva Carabineros no cuente con estos servicios o, habiéndolos, no posean la capacidad suficiente.
 
@@ -312,7 +312,7 @@ Para los casos indicados en la letra a) del artículo 28º, se otorgarán sólo 
 
 Para optar a préstamos habitacionales será indispensable que el socio reúna los siguientes requisitos:
 
-a) Tener a lo menos tres años como socio de la Organización. No obstante, cuando el monto del préstamo sea superior a 15 sueldos vitales, deberá acreditar, además, un mínimo de 5 años de servicios en Carabineros;
+a) Tener a lo menos tres años como socio de la Organización;
 
 b) Poseer el socio un alcance líquido mensual promedio, en los tres últimos meses, de cuatro veces el valor del dividendo correspondiente al préstamos que solicita;
 
@@ -320,9 +320,21 @@ c) No ser el peticionario o su cónyuge propietario de algún bien raíz, adquir
 
 d) No habérsele otorgado al socio, desde su ingreso a la Organización, más de tres préstamos destinados a cualquiera de los fines señalados en el artículo 28º;
 
-e) Haber cancelado íntegramente cualquier préstamo de esta naturaleza concedido anteriormente, y
+e) Haber cancelado íntegramente cualquier préstamo de esta naturaleza concedido anteriormente;
 
-f) Acompañar a la solicitud los documentos que para cada caso se determinen.
+f) Acompañar a la solicitud los documentos que para cada caso se determinen, y
+
+g) El monto del préstamo se fijará de acuerdo a la siguiente escala:
+
+De 3 a 5 años de servicio en la institución hasta 7 sueldos base;
+
+De 5 a 10 años de servicio en la institución hasta 10 sueldos base;
+
+De 10 a 15 años de servicio en la institución hasta 15 sueldos base;
+
+De 15 a 20 años de servicio en la institución hasta 22 sueldos base, y
+
+Más de 20 años de servicio en la institución hasta 30 sueldos base.
 
 #### Artículo 35º
 
