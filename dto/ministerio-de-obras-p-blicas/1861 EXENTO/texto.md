@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.861 de fecha 30 de noviembre del 2001, se expropiaron los lotes de terreno Nºs. 7 y 8, superficies 2.540 y 1.405 m², rol de avalúo Nº128-17 comuna de El Carmen, para la obra ''Area de Riego Rinconada Canal San Fernando Mogotillo Km. 0,015 al Km. 5,584 y Ramal 1, Km. 0,006 al Km. 2,972, del Proyecto Laja Diguillín'', VIII Región y se acordó el valor de indemnización con su propietaria Sonia Cortés Villagrán, ascendente a la cantidad de $2.450.133.
+
+- Fiscal del Ministerio de Obras Públicas.
