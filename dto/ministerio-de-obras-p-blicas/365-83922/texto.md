@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 365, de 24 de noviembre de 1989, se expropió el lote No. 7, superficie 2.090 m2., rol de avalúo 21290-11, Comuna de Concepción, para Ampliación y Reposición Ruta 150, Concepción - Lirquén, sector Concepción Penco y se acordó precio de indemnización con su propietario Inmobiliaria Hazbun Rezuc Limitada y otros, ascendente a $ 1.954.234,
+
+Fiscal del Ministerio de Obras Públicas.
