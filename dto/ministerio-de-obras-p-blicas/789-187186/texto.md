@@ -1,0 +1,3 @@
+Por decreto MOP Nº 789, de 17 de mayo de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 45, para la obra Canal Alimentador Kms 0,000,00 al 15,084,59, Estudio de Factibilidad y Diseño del Embalse Corrales y sus Obras Complementarias, que figura a nombre de Roco Adán del Rosario, rol de avalúo 248-84, superficie 10.442,63 m², comuna de Salamanca. La comisión de peritos, con fecha 10 de septiembre de 1999, fijó la indemnización provisional en la cantidad de $7.702.789, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
