@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.520, de 29 de septiembre de 2000, se expropió el lote de terreno Nº746-B, superficie 166 m², rol de avalúo en trámite, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector C, Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Carol Jeannette Becerra Santander, ascendente a la cantidad de $1.375.271.-
+
+Fiscal del Ministerio de Obras Públicas.
