@@ -1,0 +1,5 @@
+Por decreto MOP Nº526, de 30 de mayo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP.
+
+Nº206, de 1960, se expropió el lote de terreno Nº48-2, para la obra: "PROYECTO: SISTEMA AMERICO VESPUCIO SUR. TRAMO: RUTA 78 - AV. GRECIA. SECTOR 5: AV. VICUÑA MACKENNA - AV. GRECIA", Región Metropolitana, que figura a nombre de I MUNICIPALIDAD DE PENALOLEN, rol de avalúo 7832-1, comuna de Peñalolen, superficie 365 m2. La comisión de peritos integrada por los señores Carmen Pilar Ríos Marcuello, Jimena Francisca Asenjo Burgos y Patricia Verónica Zavala Contreras, fijó con fecha 17 de abril de 2003, el valor provisional de la indemnización en la cantidad de $44.559.050.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
