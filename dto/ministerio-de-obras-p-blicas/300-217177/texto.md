@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 300, de 31 de mayo de 1995, se expropiaron los lotes de terreno N°s 20, 21, 23, 24, 32, 35, 37, 41, 42 y 43 superficies 70, 1.150, 200, 800, 830, 1.780, 1.583, 30, 54 y 820 m2., respectivamente, roles de avalúos 177-41 y 177-36, comuna de Casablanca, para la obra Camino Lo Orozco Quilpué y se acordó precio de indemnización con sus propietarios Lidia Marín Zúñiga y otros, Humberto Olguín Marín y Liliana Olguín Marín, ascendente a las cantidades de $515.309, $935.934 y $607.669.
+
+Fiscal del Ministerio de Obras Públicas.
