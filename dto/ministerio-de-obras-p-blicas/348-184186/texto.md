@@ -1,0 +1,5 @@
+Por decreto MOP Nº 348, de 29 de diciembre de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs 17-A, 17-K y 17-O para la obra: "Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli. Sector Km. 498.780,00 al Km. 506.940,00. By-Pass Los Angeles" Octava Región, que figuran a nombre de Inmobiliaria Río Rarinco Ltda., rol de avalúo 1503-60, comuna de Los Angeles, superficies de 1.670 m2, 590 m2 y 514 m2, respectivamente. La comisión de peritos integrada por los señores Juan Pablo Cuevas Castillo, Christian Cornelio Scherpenisse Infante y Jaime García Molina, fijó con fecha 30 de agosto de 2000, el valor provisional de la indemnización en las cantidades de $2.342.500.- para el lote Nº 17-A;
+
+$678.500.- para el lote Nº 17-K y $591.100.- para el lote Nº 17-O. La indemnización de pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
