@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.100, de 30 de julio de 1999, se expropió el lote de terreno Nº110, superficie 9.083 m², rol de avalúo 1403-128, comuna de Llanquihue, para la obra "Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Enlace Llanquihue Sur", Décima Región y se acordó el valor de indemnización con su propietaria Irma Patricia Dethleffsen Hapette, ascendente a la cantidad de $24.861.061.-
+
+Fiscal del Ministerio de Obras Públicas.
