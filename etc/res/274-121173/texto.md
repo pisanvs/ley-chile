@@ -1,0 +1,3 @@
+Por resolución Nº274, de 12 de junio de 1998, de Serviu Metropolitano, ordenóse expropiación, conforme D.L. Nº2.186 de 1978, de parte del inmueble ubicado en Avda. Lo Errázuriz S/Nº, presunto rol de avalúos Nº2071-3, Lote 1, comuna de Cerrillos, de aparente dominio de Sra. María Magdalena Arangua Rivas. Comisión integrada por peritos Sres. Juan 0Pagola Idiart, arquitecto, Néstor Peralta Toro, ingeniero civil y Jorge Santibáñez Sandoval, constructor civil, según informe de 9 de marzo de 1998 fijó monto provisional de indemnización en $12.276.813.- pagadera al contado.-
+
+Director Serviu Metropolitano.
