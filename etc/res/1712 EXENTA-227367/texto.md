@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.712 de 18 de junio de 2004 de esta Subsecretaría, modifícase la resolución Nº 146 de 2004, modificada mediante resoluciones Nº 154 y Nº 787, ambas de 2004, todas de esta Subsecretaría, que autorizó a CONSULTORA PUPELDE LIMITADA, para efectuar un pesca de investigación de conformidad con los términos Técnicos de Referencia del proyecto denominado "Control y Evaluación de un Sistema para la Administración y seguimiento de la Pesquería Artesanal de Merluza del sur (Merluccius australis) en aguas interiores de la Décima Región, año 2004", en el sentido de reemplazar el inciso final del numeral 5º por el siguiente:
+
+"En el evento de fuerza mayor el Servicio Nacional de Pesca podrá autorizar la operación de la totalidad o parte de la flota de una determinada zona en forma conjunta con la flota autorizada por el período siguiente. La facultad antes señalada se aplicará respecto de las zonas autorizadas mediante la presente resolución como asimismo respecto de la zona Chiloé Palena".
+
+Valparaíso, 18 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
