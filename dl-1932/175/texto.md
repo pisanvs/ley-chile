@@ -1,0 +1,1 @@
+Modifica, del decreto con fuerza de ley N° 65, de 26 de marzo de 1931, que reglamenta funciones de la Caja Nacional de Ahorros, reformado por el 328, de 20 de mayo de ese mismo año, los artículos 8, 10, 11, 12, 13, 14, 23, 33, 35, 36, 39, 46 y 49; suprime 40 y 41, y agrega a otros.
