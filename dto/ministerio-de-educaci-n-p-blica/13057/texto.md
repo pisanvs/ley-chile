@@ -182,6 +182,40 @@ MATERIA
 
 1.- Permisos sin goce de remuneraciones por motivos particulares, dentro del país, superiores a 30 días (artículo 91º, inciso 3º, letra a) del DFL. 338, de 1960).
 
+DIRECTOR DEL CENTRO DE PERFECCIONAMIENTO, EXPERIMENTACIÓN E INVESTIGACIONES PEDAGÓGICAS.
+
+MATERIA:
+
+1.- Nombramientos en cualquiera calidad, reincorporaciones, contrataciones de funcionarios en empleos del respectivo Centro, con excepción del personal de la exclusiva confianza del Presidente de la República;
+
+2.- Contrataciones sobre la base de honorarios para el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, de acuerdo a las normas legales vigentes;
+
+3.- Comisiones de servicio, dentro del Ministerio y en el país del personal de su dependencia;
+
+4.- Permisos sin goce de remuneraciones para trasladarse al extranjero del personal de su dependencia;
+
+5.- Petición y aceptación de renuncia, destitución, término anticipado de contrato, caducidad de nombramiento, declaración de vacancia de cargos de su dependencia que no sean de la exclusiva confianza del Presidente de la República;
+
+6.- Designación de funcionarios alumnos para hacer cursos de perfeccionamiento y asistir a seminarios.
+
+Jefe Departamento Administrativo Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas.
+
+Materia:
+
+1.- Permisos sin goce de remuneraciones del personal del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas;
+
+2.- Aceptación de renuncias voluntarias del personal de las Plantas Administrativa y de Servicios Menores del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas;
+
+3.- Ascensos del personal del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas de acuerdo a las normas legales vigentes;
+
+4.- Declaración de vagancia del cargo del personal del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, por las siguientes causales:
+
+a) Por no asumir funciones;
+
+b) Por fallecimiento;
+
+c) Por salud irrecuperable.
+
 DIRECTORES PROVINCIALES DE EDUCACION
 
 MATERIA
