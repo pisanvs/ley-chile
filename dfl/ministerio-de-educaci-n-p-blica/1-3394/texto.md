@@ -1,0 +1,255 @@
+FIJA NORMAS SOBRE UNIVERSIDADES
+
+(Año 1980)
+
+D.F.L. N° 1.- Santiago, 30 de Diciembre de 1980.- Visto, lo dispuesto en el decreto ley N° 3.541, de 1980, Decreto con fuerza de ley:
+
+I.- LAS UNIVERSIDADES Y SUS FINES
+
+#### Artículo 1°
+
+La Universidad es una institución de educación superior, de investigación, raciocinio y cultura que, en el cumplimiento de sus funciones, debe atender adecuadamente los intereses y necesidades del país, al más alto nivel de excelencia.
+
+#### Artículo 2°
+
+Corresponde especialmente a las universidades:
+
+a) Promover la investigación, creación, preservación y transmisión del saber universal y el cultivo de las artes y de las letras;
+
+b) Contribuir al desarrollo espiritual y cultural del país, de acuerdo con los valores de su tradición histórica;
+
+c) Formar graduados y profesionales idóneos, con la capacidad y conocimientos necesarios para el ejercicio de sus respectivas actividades;
+
+d) Otorgar grados académicos y títulos profesionales reconocidos por el Estado, y
+
+e) En general, realizar las funciones de docencia, investigación y extensión que son propias de la tarea universitaria.
+
+II.- AUTONOMIA UNIVERSITARIA Y LIBERTAD ACADEMICA
+
+#### Artículo 3°
+
+La Universidad es una institución autónoma que goza de libertad académica y que se relaciona con el Estado a través del Ministerio de Educación.
+
+#### Artículo 4°
+
+Se entiende por autonomía el derecho de cada universidad a regir por sí misma, en conformidad con lo establecido en sus estatutos, todo lo concerniente al cumplimiento de sus finalidades y comprende la autonomía académica, económica y administrativa.
+
+La autonomía académica incluye la potestad de la universidad para decidir por sí misma la forma como se cumplan sus funciones de docencia, investigación y extensión y la fijación de sus planes y programas de estudio.
+
+La autonomía económica permite a la Universidad disponer de sus recursos para satisfacer los fines que le son propios de acuerdo con sus estatutos y las leyes.
+
+La autonomía administrativa faculta a cada universidad para organizar su funcionamiento de la manera que estime más adecuada de conformidad con sus estatutos y las leyes.
+
+#### Artículo 5°
+
+La libertad académica incluye la facultad de abrir, organizar y mantener establecimientos educacionales, cumpliendo los requisitos establecidos por la ley, y la de buscar y enseñar la verdad conforme con los cánones de la razón y los métodos de la ciencia.
+
+#### Artículo 6°
+
+La autonomía y la libertad académica no autoriza a las universidades para amparar ni fomentar acciones o conductas incompatibles con el orden jurídico, ni para permitir actividades orientadas a propagar, directa o indirectamente, tendencia político partidista alguna.
+
+Estas prerrogativas, por su esencia misma, excluyen el adoctrinamiento ideológico político, entendiendo por tal la enseñanza y difusión que excedan los comunes términos de la información objetiva y de la discusión razonada, en las que se señalan las ventajas y las objeciones más conocidas a sistemas, doctrinas o puntos de vista.
+
+#### Artículo 7°
+
+Los recintos y lugares que ocupen las universidades en la realización de sus funciones no podrán ser destinados ni utilizados para actos tendientes a propagar o ejecutar actividades perturbadoras para las labores universitarias.
+
+Corresponderá a las autoridades universitarias velar por el estricto cumplimiento de lo dispuesto en el inciso anterior y arbitrar las medidas necesarias para evitar la utilización de dichos recintos y lugares para actividades prohibidas en el inciso precedente.
+
+#### Artículo 8°
+
+Las universidades establecerán en sus respectivos estatutos los mecanismos que resguarden debidamente los principios a que se hace referencia en los artículos anteriores.
+
+III.- GRADOS ACADEMICOS Y TITULOS PROFESIONALES.
+
+#### Artículo 9°
+
+Corresponde exclusivamente a las universidades otorgar los grados académicos del Licenciado, Magister y Doctor.
+
+El grado de licenciado es el que se otorga al alumno de una universidad que ha aprobado un programa de estudios que comprenda todos los aspectos esenciales de un área del conocimiento o de una disciplina determinada.
+
+El grado de Magister es el que se otorga al alumno de una Universidad que ha aprobado un programa de estudios de profundización en una o más de las disciplinas de que se trate. Para optar al grado de Magister se requiere tener grado de Licenciado o un título profesional cuyo nivel y contenido de estudios sean equivalentes a los necesarios para obtener el grado de Licenciado.
+
+El grado de Doctor es el máximo que puede otorgar una Universidad. Se confiere al alumno que ha obtenido un grado de Licenciado o Magister en la respectiva disciplina y que ha aprobado un programa superior de estudios y de investigación, y acredita que quien lo posee tiene capacidad y conocimientos necesarios para efectuar investigaciones originales.
+
+En todo caso, además de la aprobación de cursos u otras actividades similares, un programa de Doctorado deberá contemplar necesariamente la elaboración, defensa y aprobación de una tesis, consistente en una investigación original, desarrollada en forma autónoma y que signifique una contribución a la disciplina de que se trate.
+
+#### Artículo 10°
+
+Las Universidades podrán admitir alumnos provenientes de cualquier lugar del país. Dichos alumnos deberán ser egresados de la Enseñanza Media o tener estudios equivalentes que les permita cumplir las exigencias objetivas de tipo académico.
+
+Los alumnos extranjeros deberán cumplir con los requisitos y exigencias que señalan los estatutos y reglamentos de cada universidad.
+
+Para los efectos de determinar la duración de los estudios universitarios, cada universidad reglamentará los períodos académicos en los que éstos se deben desarrollar, la forma de su medición y años de estudio.
+
+#### Artículo 11°
+
+Corresponde en forma exclusiva a las universidades otorgar los títulos profesionales respecto de los cuales la ley requiere haber obtenido previamente el grado de Licenciado en una disciplina determinada.
+
+No obstante, el otorgamiento del título profesional de Abogado corresponde a la Corte Suprema de Justicia en conformidad a la ley.
+
+#### Artículo 12°
+
+Los títulos profesionales que a continuación se indican requieren haber obtenido el grado de Licenciado que se señala:
+
+a) Título de Abogado: Licenciado en Ciencias Jurídicas.
+
+b) Título de Arquitecto: Licenciado en Arquitectura.
+
+c) Título de Bioquímico: Licenciado en Bioquímica.
+
+d) Título de Cirujano Dentista: Licenciado en Odontología.
+
+e) Título de Ingeniero Agrónomo: Licenciado en Agronomía.
+
+f) Título de Ingeniero Civil: Licenciado en Ciencias de la Ingeniería.
+
+g) Título de Ingeniero Comercial: Licenciado en Ciencias Económicas o Licenciado en Ciencias en la Administración de Empresas.
+
+h) Título de Ingeniero Forestal: Licenciado en Ingeniería Forestal.
+
+i) Título de Médico Cirujano: Licenciado en Medicina.
+
+j) Título de Médico Veterinario: Licenciado en Medicina Veterinaria.
+
+k) Título de Psicólogo: Licenciado en Psicología.
+
+l) Título de Químico Farmacéutico: Licenciado en Farmacia.
+
+#### Artículo 13°
+
+Los títulos profesionales no comprendidos en los artículos 11 y 12, podrán otorgarlos también otras instituciones de enseñanza superior no universitaria.
+
+Una ley regulará la acción de estas instituciones.
+
+#### Artículo 14°
+
+Las universidades pueden crear y otorgar toda clase de títulos profesionales distintos de los indicados en el artículo 12, asignarles grados académicos; otorgar diplomas y certificados de estudio o capacitación, todo ello en conformidad a lo establecido en sus estatutos.
+
+También podrán conferir grados académicos honoríficos.
+
+IV.- CREACION Y DISOLUCION DE UNIVERSIDADES.
+
+#### Artículo 15°
+
+Podrán crearse universidades, las que deberán constituirse como personas jurídicas de derecho privado sin fines de lucro.
+
+Estas universidades se regirán por las disposiciones de la presente ley y de sus respectivos estatutos; supletoriamente, les serán aplicables las disposiciones del Título XXXIII del Libro I del Código Civil, en lo que no sean incompatibles con aquéllas.
+
+#### Artículo 16°
+
+Las universidades podrán constituirse por escritura pública o por instrumento privado reducido a escritura púbica, debiendo contener el acta de constitución y los estatutos por los cuales ha de regirse la entidad.
+
+#### Artículo 17°
+
+Las universidades gozarán de personalidad jurídica por el solo hecho de depositar una copia del instrumento constitutivo a que se refiere el artículo anterior en un Registro que llevará al efecto el Ministerio de Educación.
+
+Con todo, las universidades no podrán funcionar como tales sino una vez transcurrido el plazo a que se refiere el artículo siguiente, siempre que el Ministerio de Educación no hubiere objetado su constitución o sus estatutos y se hayan aprobado sus programas de estudios de conformidad a lo dispuesto en el artículo 24.
+
+#### Artículo 18°
+
+El Ministerio de Educación no podrá negar el registro de una universidad y deberá autorizar una copia del instrumento constitutivo estampando en ella el número de registro correspondiente.
+
+Sin embargo, dentro del plazo de 90 días contado desde la fecha del depósito, el Ministerio podrá objetar la constitución de la universidad si faltare cumplir algún requisito para constituirla, o si los estatutos no se ajustaren a lo prescrito por la ley.
+
+#### Artículo 19°
+
+La universidad deberá subsanar los defectos de constitución o conformar sus estatutos a las observaciones formuladas por el Ministerio de Educación dentro del plazo de 60 días. Vencido este plazo sin que la Universidad haya procedido a subsanar los reparos, el Ministerio, mediante resolución, cancelará la personalidad jurídica a la Universidad, ordenando sea eliminada del Registro respectivo.
+
+#### Artículo 20°
+
+En el Registro a que se refiere el artículo 17 se anotarán las universidades constituidas, con indicación de sus nombres, individualización de los constituyentes y los objetivos que se proponen. En dicho Registro se anotará también la disolución de la respectiva corporación o fundación y la cancelación de su personalidad jurídica. En un Registro separado se mantendrá copia de los estatutos y de sus modificaciones.
+
+Las modificaciones de los estatutos, aprobadas por el quorum y requisitos que éstos establezcan y reducidas a escritura pública, deberán registrarse dentro del plazo de 30 días contado desde la fecha de la escritura pública respectiva aplicándose además, en lo que sea pertinente, lo dispuesto en los artículos 18 y 19.
+
+#### Artículo 21°
+
+Los estatutos de las Universidades deberán contemplar, en todo caso, lo siguiente:
+
+1. Individualización de sus organizadores;
+
+2. Indicación precisa del nombre y domicilio de la entidad;
+
+3. Fines que se propone y los medios económicos de que dispondrá para su realización;
+
+4. Disposiciones que establezcan quienes forman y cómo serán integrados sus órganos de administración;
+
+5. Atribuciones que correspondan a las mismas;
+
+6. El o los títulos profesionales y grados académicos que otorgará. En todo caso, la Universidad deberá contemplar en sus programas de estudio el otorgamiento de, a lo menos, un título profesional de los señalados en el artículo 12;
+
+7. Disposiciones relativas a modificación de estatutos y a su disolución.
+
+#### Artículo 22°
+
+Para los efectos de lo dispuesto en el N° 4 del artículo anterior, la forma de gobierno de la nueva entidad deberá excluir necesariamente la participación con derecho a voto de los alumnos y de los funcionarios administrativos en los órganos encargados de la gestión y dirección de ella, como asimismo, en la elección de las autoridades unipersonales o colegiadas.
+
+#### Artículo 23°
+
+Las nuevas universidades sólo podrán conferir otros títulos profesionales de conformidad con lo establecido en el artículo 14 de esta ley, si estuvieren otorgando, a lo menos, tres de los títulos a que se refiere el artículo 12.
+
+#### Artículo 24°
+
+Dentro del plazo de treinta días contados desde la fecha de obtención de la personalidad jurídica, los organizadores de la nueva entidad deberán presentar a una Universidad examinadora los programas de estudios conducentes a obtener los títulos profesionales que se pretende otorgar y los grados académicos que se resuelva asignarle.
+
+Sólo podrán ser universidades examinadoras aquellas que por más de cinco años hayan estado independientemente otorgando y, en su oportunidad, otorguen los grados académicos y él o los títulos a que se refiere el artículo 12 de la presente ley, que aparezcan en los programas de la nueva universidad. La universidad examinadora deberá pronunciarse dentro de los 90 días sobre los referidos programas aprobándolos o rechazándolos.
+
+Se entenderá que los aprueba si no los informare dentro del plazo señalado.
+
+En caso de ser rechazados los respectivos programas de estudio, los solicitantes podrán presentar nuevos programas en los que se subsanen las observaciones formuladas, o declarar que seguirán los programas oficiales de la universidad a la cual solicitaron la aprobación de ellos.
+
+#### Artículo 25°
+
+La creación de otros títulos profesionales o grados académicos por parte de una Universidad, con posterioridad a la aprobación de un programa de estudios o a la adopción del programa de la Universidad examinadora, seguirá el mismo procedimiento que el programa de estudios inicial señalado en el artículo anterior.
+
+No será aplicable lo dispuesto en el inciso anterior a la universidad que esté otorgando independientemente tres o más de los títulos a que se refiere el artículo 12.
+
+Sin embargo, para el otorgamiento del título de Médico Cirujano, Licenciado en Medicina o grados académicos que se le asignen se requerirá cumplir siempre con lo preceptuado por el inciso primero de este artículo.
+
+#### Artículo 26°
+
+Las cinco primeras promociones de los alumnos de cada profesión o grados académicos de las nuevas universidades, deberán rendir los exámenes finales de las respectivas asignaturas y el examen de grado ante comisiones mixtas paritarias integradas por profesores de la nueva Universidad y de la Universidad examinadora, siendo decisoria la opinión de los profesores de esta última, en caso de producirse divergencia entre unos y otros.
+
+Con todo, si la Universidad durante la tuición señalada en el inciso anterior, no obtuviere la aprobación de un porcentaje promedio equivalente o superior al cincuenta por ciento de los alumnos que postulen al grado de Licenciado o título profesional, no podrá otorgar independientemente los títulos respectivos en tanto no alcance dicho promedio.
+
+> **Nota.** NOTA: 2 El artículo tercero transitorio del D.F.L. N° 5 de 1981, dispone que tanto las Universidades como los Institutos Profesionales que se deriven de la reestructuración de las Universidades existentes al 31 de diciembre de 1980, podrán otorgar independientemente grados académicos y títulos profesionales según corresponda y no requerirán presentar a una Universidad, o entidad examinadora, sus programas de estudios; ni les será aplicable lo dispuesto en el artículo 26 del presente D.F.L. N° 1.
+
+#### Artículo 27°
+
+Mediante Decreto Supremo del Ministerio de Educación, podrá liberarse de la obligación de someter a la aprobación de una entidad examinadora los programas de estudios relativos a determinadas profesiones o grados académicos no comprendidos en los artículos 9° y 12° de esta ley. Dictado el respectivo decreto supremo cesará respecto de esas profesiones o grados académicos, además, la obligación de rendir exámenes finales y de título ante las comisiones mixtas a que se refiere el artículo precedente. Estas exenciones regirán por igual para todas las universidades que impartan la enseñanza respectiva.
+
+> **Nota.** NOTA: 3 Por oficio N° 41.747, de 23 de diciembre de 1981, la Contraloría General ha dado curso al D.F.L. N° 50, Min. Educación, publicado el 4 de enero de 1982, pero hace presente que con motivo de la norma agregada por el N° 5 del artículo 1° del citado D.F.L. 50, debe entenderse que el actual artículo 27 del presente texto legal pasa a ser artículo 28°.
+
+#### Artículo 28°
+
+La disolución de una Universidad se producirá conforme lo dispongan sus estatutos.
+
+Por decreto supremo del Ministerio de Educación se podrá cancelar la personalidad jurídica a una universidad si no cumple con sus fines o si realizare actividades contrarias a las leyes, al orden público, a las buenas costumbres, a la moral o a la seguridad nacional o incurriere en infracciones graves a sus estatutos o dejare de otorgar títulos de aquellos a que se refiere el artículo 12 o contare con un número de alumnos regulares inferior a cien.
+
+En conformidad a lo prescrito en la Constitución Política del Estado, los afectados podrán recurrir de protección en contra de esta decisión de la autoridad, sin perjuicio de sus demás derechos.
+
+Para los efectos de lo dispuesto en el inciso segundo de este artículo, las universidades estarán sujetas a la fiscalización del Ministerio de Educación. Las universidades deberán enviar anualmente a dicho Ministerio un balance y una memoria explicativa de sus actividades.
+
+> **Nota.** Por oficio N° 41.747, de 23 de diciembre de 1981, la Contraloría General ha dado curso al D.F.L. N° 50, Min. Educación, publicado el 4 de enero de 1982, pero hace presente que con motivo de la norma agregada por el N° 5 del artículo 1° del citado D.F.L. 50, debe entenderse que el actual artículo 27 del presente texto legal pasa a ser artículo 28°.
+
+ARTICULOS TRANSITORIOS
+
+#### Artículo 1°
+
+Aplícanse a las universidades actualmente existentes todas las normas de esta ley con excepción de lo dispuesto en los artículos 15 a 19, 20 inciso primero, 21 y 23 a 27.
+
+#### Artículo 2°
+
+Las Universidades actualmente existentes mantendrán su carácter de tales y podrán continuar otorgando los títulos profesionales y grados académicos que actualmente confieren. Dichas Universidades y las que de ellas se deriven tendrán el carácter de Universidad Examinadora, para todos los efectos legales, respecto de los títulos y grados académicos que otorguen.
+
+#### Artículo 3°
+
+En tanto no se dicte la ley a que se refiere el inciso segundo del artículo 13 sólo las universidades podrán otorgar los títulos profesionales que por cualquier norma legal en actual vigencia estén reservados a ellas.
+
+#### Artículo 4°
+
+Durante el plazo de siete años contado desde la fecha de publicación de la presente ley para que las nuevas universidades puedan gozar de personalidad jurídica y funcionar como tales, será necesario, previo al depósito del instrumento constitutivo de la entidad, contar con la autorización del Ministerio del Interior el que sólo podrá otorgarla cuando a su juicio no se atente o no pudiere atentarse con su establecimiento en contra del orden público o de la seguridad nacional.
+
+Tómese razón, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Sergio Fernández Fernández, Ministro del Interior.- Sergio de Castro Spikula, Ministro de Hacienda.- Alfredo Prieto Bafalluy, Ministro de Educación Pública.- Mónica Madariaga Gutiérrez, Ministro de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente.- Silvia Peña Morales, Subsecretaria de Educación Pública.
