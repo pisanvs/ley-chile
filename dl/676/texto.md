@@ -1,0 +1,111 @@
+FACULTA AL DIRECTOR DEL TRABAJO PARA CONDONAR MULTAS ADMINISTRATIVAS. OTRAS MATERIAS
+
+Núm. 676.- Santiago, 1° de Octubre de 1974.- La Junta de Gobierno de la República de Chile,
+
+Vistos: lo dispuesto en el decreto ley N° 527, de 1974, y
+
+Teniendo presente:
+
+1.- Que es de urgente necesidad dictar un conjunto de normas destinadas a hacer más efectiva la acción reguladora del Estado en el ámbito de las relaciones de trabajo;
+
+2.- Que la primordial finalidad de los Servicios Inspectivos del Trabajo consiste en obtener el cumplimiento de la ley laboral, de tal modo que lograda dicha finalidad no aparece aconsejable mantener una sanción cuya ejecución final puede resultar, en tales circunstancias, injusta y onerosa provocando daños morales y económicos de gravedad;
+
+3.- Que, en consecuencia, resulta de imperiosa necesidad conceder la facultad de condonar las multas administrativas o desistirse de su ejecución, radicando esta atribución en el Director del Trabajo;
+
+4.- Que es conveniente, también, otorgar facultades a la Dirección del Trabajo en cuanto a la investigación y denuncia de las infracciones a la legislación laboral que pudieren configurar algunos de los delitos contemplados en el artículo 12° del decreto ley N° 280, de 1974, en razón de estar este Organismo legalmente encargado de la fiscalización laboral;
+
+5.- Que, del mismo modo, se hace necesario modificar las normas del actual artículo 86° del Código del Trabajo, a fin de hacer más expedita su aplicación y con el objeto de dotar al Estado de los elementos necesarios para el adecuado manejo de las situaciones que allí se consideran y de otras similares, y
+
+6.- Que, finalmente, es de urgente necesidad dictar normas complementarias al sistema de terminación de contratos de trabajo, tendientes a asegurar la expedición y rapidez de los procedimientos,
+
+Ha acordado dictar el siguiente Decreto ley:
+
+#### Artículo 1°
+
+Facúltase al Director del Trabajo, en los casos en que el afectado no haya reclamado de conformidad con el artículo 448 del Código del Trabajo, para dejar sin efecto o rebajar, en su caso, las multas administrativas impuestas por funcionarios de su dependencia y renunciar o desistirse de la acción ejecutiva para su cobro siempre que concurra alguna de las circunstancias siguientes:
+
+1) Que se acredite fehacientemente haber dado íntegro cumplimiento a las disposiciones legales, convencionales o arbitrales cuya infracción motivó la sanción;
+
+2) Que aparezca de manifiesto que se ha incurrido en un error de hecho al imponerse la multa.
+
+Si dentro de quince días de notificada la multa, el empleador corrigiere la infracción a satisfacción de la Dirección del Trabajo, el monto de la multa se rebajará en un cincuenta por ciento, sin perjuicio del derecho de solicitar una reconsideración por el monto total de la multa, a la misma Dirección.
+
+> **Nota.** NOTA: 1 El Artículo 2° Transitorio de la Ley N° 19.250, publicada en el "Diario Oficial" de 30 de septiembre de 1993, dispuso su entrada en vigencia a partir del primer día del mes subsiguiente a su publicación, sin perjuicio de las excepciones que señala.
+
+#### Artículo 2°
+
+El Director del Trabajo hará uso de esta facultad mediante resolución fundada, a solicitud escrita del interesado, la que deberá presentarse dentro del plazo de treinta días de notificada la resolución que aplicó la multa administrativa. Esta resolución será reclamable ante el Juez de Letras del Trabajo dentro de quince días de notificada y en conformidad al artículo 448 del Código del Trabajo.
+
+#### Artículo 3°
+
+Corresponderá a la Dirección del Trabajo denunciar las infracciones señaladas en el artículo 12° del decreto ley 280, de 1974. La denuncia deberá ser formulada en la forma prescrita en los artículos 15°, 16°, 17° y 18° del decreto ley citado.
+
+#### Artículo 4°
+
+Introdúcense las siguientes modificaciones al Código del Trabajo:
+
+a) Deróganse los incisos 5°, 6° y 7° del artículo 86°;
+
+b) Intercálase entre los Párrafos X y XI del Título II, Libro I, un nuevo Párrafo XA, que contendrá los artículos siguientes:
+
+#### Artículo 88
+
+1. Ninguna empresa podrá paralizar sus actividades, ni podrá despedir más de 10 empleados u obreros, dentro de un mismo mes calendario, sin autorización previa de los Ministerios del Trabajo y Previsión Social y de Economía, Fomento y Reconstrucción.
+
+La solicitud para proceder a la paralización de faenas o despido colectivo, en su caso, deberá presentarse a la Subsecretaría del Trabajo, y la Resolución Ministerial respectiva que autorice, total o parcialmente, la paralización o despido, o que deniegue tal autorización, deberá dictarse en un plazo máximo de 45 días, contado desde la presentación de la solicitud. Las Secretarías de Estado indicadas en el inciso anterior podrán formar una comisión especial permanente que se ocupe de estas materias.
+
+Para resolver sobre la solicitud a que se refiere el inciso 1°, cualquiera de los Ministerios señalados en ese inciso podrá, si fuere menester, designar un funcionario que se constituya en la empresa peticionaria con el objeto de imponerse de todos los antecedentes administrativos, económicos, laborales, etc. que se estimaren necesarios; para este fin, el funcionario tendrá acceso a todos los libros, papeles y operaciones de la empresa peticionaria.
+
+#### Artículo 88
+
+2. Si se procediera a paralizar las faenas o a efectuar un despido colectivo sin que proceda la autorización prevista en el artículo anterior, la empresa infractora será sancionada con multa de 1 a 10 sueldos vitales anuales del departamento de Santiago, la que se aplicará administrativamente de conformidad a las normas de la ley 14.972, sin perjuicio de aplicarse, a quien corresponda, la pena de presidio menor en sus grados medios a máximo establecido en el artículo 10° del decreto ley 280, de 1974, en su caso.
+
+En el caso previsto en este artículo, los obreros o empleados afectados por la paralización de faenas, o el despido colectivo, tendrán derecho a una indemnización igual a un mes de la última remuneración mensual que hubieren percibido por cada año trabajado en la empresa o fracción superior a 6 meses. Esta indemnización será compatible con la que pudiere corresponder a los afectados conforme a los respectivos contratos, actas de avenimiento, fallos arbitrales o resoluciones de Comisiones Tripartitas y con la que pudiere determinarse de acuerdo a la ley 16.455.".
+
+#### Artículo 88
+
+3. Si en el período de doce meses una misma empresa llevare a cabo dos o más despidos colectivos sin haber obtenido la autorización de que trata el artículo 88-1, el infractor, además de pagar las multas establecidas en el artículo anterior, será sancionado con la pena de presidio menor en su grado medio. Corresponderá a la Dirección del Trabajo denunciar a los Juzgados del Crimen esta infracción, denuncia que deberá ser formulada en la forma prescrita en los artículos 15°, 16°, 17° y 18° del decreto ley 280, de 1974.".
+
+#### Artículo 88
+
+4. Si se produjere despidos colectivos o paralización de faenas sin la correspondiente autorización, el Ministerio del Trabajo y Previsión Social, previo informe del Ministerio de Economía, Fomento y Reconstrucción podrá, en casos calificados, designar un funcionario que, con el título de delegado de Gobierno, asuma la administración de la empresa, con el objeto de adoptar las medidas necesarias para superar las causas que pudieron determinar los despidos colectivos o paralizaciones de faenas, en su caso.
+
+En el cometido de sus funciones al delegado que haya tomado la administración de la empresa, le corresponderá la representación judicial y extrajudicial de ella, para los efectos de la gestión del giro administrativo ordinario de los negocios o actividades de la misma.
+
+Al hacerse cargo de la administración de la empresa, el delegado de Gobierno ordenará de inmediato la confección de un inventario de los bienes de que se hace cargo, ante un ministro de fe que, podrá ser un notario público o un inspector del Trabajo.
+
+El delegado de Gobierno deberá rendir cuenta detallada de su gestión ante el Ministerio del Trabajo y Previsión Social, cada 30 días.".
+
+#### Artículo 5°
+
+DEROGADO.-
+
+#### Artículo 6°
+
+DEROGADO.-
+
+#### Artículo 4°
+
+#### Artículo 7°
+
+DEROGADO.
+
+#### Artículo 49
+
+#### Artículo 8°
+
+Deróganse el artículo 6° de la ley 16.455 y los artículos 1°, 2°, 6°, 7°, 8° y 9° del decreto ley 32, de 1973, y el decreto ley 107, del mismo año.
+
+Restablécese la vigencia de las normas de la ley 16.455, que fueron modificadas por los artículos 1°, 2°, 6°, 7°, 8° y 9° del decreto ley 32, de 1973.
+
+#### Artículo 9°
+
+Deróganse, a contar del 1° de julio de 1974, el artículo 13° del decreto ley 275 y el artículo 13° del decreto ley 446, ambos de 1974.
+
+#### Artículo TRANSITORIO
+
+Las causas actualmente radicadas en los Tribunales Especiales de que trata el artículo 1° del decreto ley 32, de 1973, continuarán siendo conocidas por el Tribunal que sea competente con arreglo a lo dispuesto en el artículo 8° del presente decreto ley.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.-
+
+Nicanor Díaz.- Hugo Musante.
