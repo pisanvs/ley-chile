@@ -1,0 +1,3 @@
+Por resolución No. 636, de 14 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deróganse las autorizaciones conferidas a SOCIEDAD PESQUERA TAIYO CHILE LTDA., RUT No. 85.720.400-K, domiciliada en calle Estado No. 337, Of. 620 Santiago, en Decreto No. 419 de 1978, del Ministerio de Agricultura, para operar la nave "Guamblin" y la Resolución No. 429, de 1986, de esta Subsecretaría de Pesca, para operar la nave "Gualas", por renuncia de su titular.
+
+Valparaíso, 14 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
