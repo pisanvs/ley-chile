@@ -1,0 +1,5 @@
+Por Resolución N° 1.999, de 29 de Noviembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a TERRA NATUR S.A., para ampliar actividades pesqueras, autorizadas por Resolución N° 29, de 1992, de esta Subsecretaría, en orden a procesar en la planta ubicada en camino El Aguila Km. 1,5 Hualqui, VIII Región, en la línea de elaboración de Deshidratado de Algas, los siguientes recursos hidrobiológicos: Deshidratados de Algas; Anfeltia, Cotoni, Chasca, Chascón, Huiro, Pelillo y Luche.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
