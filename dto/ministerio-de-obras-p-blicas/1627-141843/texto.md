@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.627, de 21 de junio de 1999, se expropió el lote de terreno No. 228, superficie 530 m2., rol de avalúo 123-2, comuna de Punitaqui, para la obra Concesión Internacional Ruta 5, Tramo Los Vilos - La Serena, Sector A, Bifurcación Illapel - Hornillos, Cuarta Región y se acordó el valor de indemnización con sus propietarios Mario Alejandro Ramírez Neyra y Otros, ascendente a la cantidad de $ 291.322.-
+
+Fiscal del Ministerio de Obras Públicas.
