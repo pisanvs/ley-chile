@@ -1,0 +1,7 @@
+Por Resolución N° 627 de 24 de Mayo de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase la incorporación de especies salmonídeas y apruébase la respectiva modificación del proyecto técnico y cronograma de actividades de acuicultura presentado por SALMONES TIERRA DEL FUEGO S.A., R.U.T. N° 79.825.270-4, y la modificación del cronograma de actividades para la piscicultura autorizada por Resolución N° 976, de 1993, de esta Subsecretaría, ubicada en Parcela A-1, Barrio Hortícola, Río Tres Puentes, Punta Arenas, XII Región, en que deberá cultivar una o más de las especies del grupo Salmónidos señalados en el artículo 21 bis del D.S. N° 290, modificado por el D.S. N° 604, de 1994, ambos del Ministerio de Economía, Fomento y Reconstrucción, de acuerdo con el proyecto técnico presentado y aprobado por esta Resolución.
+
+La solicitante deberá cultivar y tener una producción de las especies e instalar la infraestructura que se autoriza, de conformidad a lo establecido en la presente Resolución y el proyecto técnico aprobado.
+
+La interesada deberá inscribirse en el Registro Nacional de Acuicultura, que lleva el Servicio Nacional de Pesca.
+
+Valparaíso, 24 de Mayo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
