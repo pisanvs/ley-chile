@@ -4492,13 +4492,19 @@ El encaje exigido se calculará por "períodos mensuales", según lo señalado e
 
 4.2 .Encaje mantenido.
 
-El encaje mantenido debe estar compuesto por billetes y monedas de curso legal del país, ya sea que estén disponibles en caja, en las respectivas empresas bancarias y sociedades financieras o depositados a la vista en el Banco Central de Chile. Para estos efectos se considerarán, asimismo, como si estuvieran en caja, las remesas en efectivo en tránsito entre oficinas de una misma empresa bancaria o sociedad financiera y las remesas en efectivo al Banco Central de Chile. Es decir, se computarán como encaje los saldos de las partidas 1005 y 1010 del MB1, excluidas las cuentas "Caja en custodia en empresas transportadoras de valores" y "Caja en custodia en otras entidades financieras".
+El encaje mantenido deberá estar compuesto solo por los siguientes fondos en moneda chilena:
 
-Asimismo, se considerará como parte del encaje mantenido, el depósito de garantía a que se refiere el artículo 36 de la Ley General de Bancos.
+a) Billetes y monedas de curso legal del país, ya sea que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa, en tránsito al Banco Central de Chile o en custodia en empresas transportadoras de valores;
 
-Los fondos disponibles en caja y los depósitos a la vista en el Banco Central de Chile utilizados para enterar la reserva técnica a que se refiere el Capitulo 4-2 de esta Recopilación, no pueden, a la vez, ser empleados para constituir el encaje mantenido.
+b) Depósitos en cuenta corriente en el Banco Central de Chile;
 
-Del mismo modo, el monto depositado en el Banco Central de Chile, especialmente para constituir la reserva técnica, registrado en la cuenta "Depósitos de reserva técnica en el Banco Central de Chile", no podrá, en caso alguno, ser utilizado para enterar el encaje mantenido.
+c) Otros depósitos a la vista en el Instituto Emisor, con excepción de aquellos efectuados con el solo objeto de constituir la reserva técnica a que se refiere el Capitulo 4-2 de esta Recopilación Actualizada de Normas; y
+
+d) Depósito en garantía a que se refiere el artículo 36 de la Ley General de Bancos.
+
+Por consiguiente, son computables como encaje mantenido todos los saldos en moneda chilena que se incluyan, conforme a las normas vigentes, en las partidas 1005 y 1010, con excepción de las cuentas "Caja en custodia en otras entidades financieras" y "Depósitos de reserva técnica en el Banco Central de Chile", que se tratan, respectivamente, en los Capítulos 16-3 y 4-2 de esta Recopilación
+
+Con todo, no pueden ser empleados para constituir encaje aquellos fondos que se hayan utilizado, a la vez, para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación.
 
 4.3 Depósitos en el Banco Central de Chile.
 
@@ -4550,7 +4556,7 @@ N° 3055 "Depósitos y captaciones".
 
 Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaciones a la vista afectos a encaje, el saldo de las cuentas "Canje de la plaza" y "Canje de otras plazas", en la respectiva moneda extranjera. La permanencia de los importes registrados en la cuenta "Canje de la plaza" será de un día hábil bancario, en tanto que para los contabilizados en la cuenta "Canje de otras plazas", será de dos días hábiles bancarios.
 
-3.2.- Descuento de instrumentos a que se refiere la letra C) del Capítulo XXV del Titulo I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Los bancos podrán deducir de sus obligaciones afectas a encaje los saldos provenientes del descuento de los instrumentos a que se refiere la letra C) del Capítulo XXV del Título I del Compendio de Normas de Cambios Internacionales, registrados en la cuenta "Pagarés descontados terceros países ALADI" de las partidas 1135 ó 1230, hasta un máximo equivalente al 20% de la suma de los depósitos, captaciones y obligaciones a plazo afectos a encaje.
+3.2.- Descuento de instrumentos a que se refiere la letra C) del Capítulo XXV del Titulo I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Los bancos podrán deducir de sus obligaciones a plazo afectas a encaje los saldos provenientes del descuento de los instrumentos a que se refiere la letra C) del Capítulo XXV del Título I del Compendio de Normas de Cambios Internacionales, registrados en la cuenta "Pagarés descontados terceros países ALADI" de las partidas 1135 ó 1230, hasta un máximo equivalente al 20% de la suma de los depósitos, captaciones y obligaciones a plazo afectos a encaje.
 
 3.3.- Inversiones financieras en el exterior que se refiere el Capítulo IV.D.2.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
@@ -4566,13 +4572,19 @@ La instrucción precedente implica que las disponibilidades que los bancos tenga
 
 4.2. Encaje mantenido.
 
-El encaje, para cada una de las monedas extranjeras, deberá estar constituido por billetes y monedas del respectivo país, que estén disponibles en caja en el respectivo banco, en tránsito entre sus oficinas o en tránsito al Banco Central de Chile. Se excluyen, para efectos de este cómputo, los billetes y monedas en custodia en empresas transportadoras de valores o en otras instituciones financieras.
+El encaje, para cada una de las monedas extranjeras, deberá estar compuesto sólo por los siguientes fondos en moneda del respectivo país:
 
-Asimismo, servirán para constituir el encaje los depósitos mantenidos en cuenta corriente en el Banco Central de Chile, en las mismas monedas.
+a) Billetes y monedas de curso legal en el respectivo país, ya sea que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa o en tránsito al Banco Central de Chile, y,
 
-De conformidad con lo señalado en el N° 5 del titulo I de este Capítulo, el encaje exigido en monedas extranjeras también puede enterarse con excedentes de encaje mantenido en moneda chilena.
+b) Depósitos mantenidos en cuenta corriente en el Banco Central de Chile.
 
-Los fondos en moneda extranjera así como aquellos en moneda chilena, disponibles en caja o depositados a la vista en el Banco Central de Chile, que hayan sido utilizados para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación, no podrán, a su vez, ser empleados para constituir el encaje mantenido.
+El encaje exigido en moneda extranjera puede cubrirse, además, con excedentes del encaje mantenido en moneda chilena de que trata el título II de este Capítulo
+
+Con todo, los fondos en moneda extranjera que hayan sido utilizados para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación, al igual que los fondos en moneda chilena que se encuentran en esa situación, no pueden, a su vez, ser empleados para constituir el encaje mantenido.
+
+4.3.- Depósitos "overnight" en el Banco Central de Chile.
+
+Aquellos fondos de las cuentas corrientes que se utilicen para efectuar depósitos del tipo "overnight", deberán traspasarse a la cuenta "Depósitos "overnight" en el Banco Central de Chile", tanto para los efectos de control como para excluir dichos fondos del cómputo del encaje mantenido.
 
 ### IV. ENCAJE SOBRE DEPOSITOS POR ENCAJE DE TERCEROS Y OBLIGACIONES CON EL EXTERIOR
 
@@ -4722,7 +4734,17 @@ Las instituciones financieras que deban constituir reserva técnica podrán hace
 
 En todo caso, cuando una institución financiera opte por constituir su reserva técnica en forma diferida de conformidad con lo señalado en el párrafo precedente, deberá mantener esa modalidad, sin perjuicio de lo dispuesto en el numeral 10.2 de este título, y sólo podrá cambiarla con autorización previa de esta Superintendencia.
 
-Dicha reserva técnica se enterará con billetes y monedas de curso legal en el país o con monedas extranjeras sujetas a posición de cambio, que estén disponibles en caja, en las respectivas instituciones financieras, o depositados a la vista en e] Banco Central de Chile, incluido el saldo de la cuenta "Depósitos "overnight" en el Banco Central de Chile", Para estos efectos se considerarán como caja las remesas en efectivo en tránsito entre oficinas de una misma empresa bancaria o sociedad financiera y las remesas en efectivo al Banco Central de Chile. Por consiguiente, serán utilizables como reserva técnica los saldos de las partidas 1005 y 1010, excluidos los saldos en monedas extranjeras de libre disposición y los importes de las cuentas "Caja en custodia en empresas transportadoras de valores", "Caja en custodia en otras entidades financieras" y "Cuenta especial encaje Acuerdo N° 143-01-910705".
+Dicha reserva técnica podrá enterarse con los siguientes recursos registrados, conforme a las normas vigentes, en cuentas de las partidas 1005 y 1010:
+
+a) Billetes y monedas de curso legal en el país o monedas extranjeras sujetas a posición de cambio, que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa, en transito al Banco Central de Chile o en custodia en empresas transportadoras de valores;
+
+b) Depósitos a la vista en el Banco Central de Chile, con excepción de los fondos depositados en la cuenta especial destinada a cubrir el encaje de que trata el título IV del Capítulo 4-1 de esta Recopilación;
+
+c) Depósitos "overnight" en el Banco Central de Chile, y
+
+d) Depósito en garantía a que se refiere el artículo 36 de la Ley General de Bancos
+
+Por consiguiente, podrán considerarse para reserva técnica todos los saldos que deben incluirse en las partidas 1005 y 1010, con excepción de los correspondientes a monedas de libre disposición y los importes de las cuentas "Caja en custodia en otras entidades financieras." y "Cuenta especial encaje Acuerdo N° 143-01910705".
 
 Asimismo, la reserva técnica podrá enterarse con documentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, para cuyo vencimiento no falten más de 90 días, sean instrumentos destinados especialmente para estos efectos o los demás que cumplan con esa condición y que se señalan en los numerales 5.3 y 5.4 de este título.
 
@@ -4749,8 +4771,6 @@ Superintendencia.
 No obstante que las entidades financieras pueden cumplir la exigencia de reserva técnica entre otros, con los saldos que mantienen en sus cuentas corrientes con el Banco Central de Chile, podrán hacerlo también mediante depósitos especiales
 
 en pesos, moneda chilena, enterados exclusivamente con ese objeto en el Instituto Emisor.
-
-En todo caso, las instituciones que financien su reserva técnica mediante los préstamos que, en conformidad a lo dispuesto en el artículo 2° transitorio de la Ley N° 18.576, les otorgue con esa finalidad el Banco Central de Chile, deberán mantener en estos depósitos, a lo menos una suma igual al monto de los préstamos otorgados por el Instituto Emisor, que se encuentren vigentes.
 
 5.3. Documentos emitidos por el Banco Central de Chile.
 
@@ -16868,7 +16888,7 @@ según se trate de un banco o de una sociedad financiera, respectivamente.
 
 ### 2. Determinación de las obligaciones
 
-Para establecer el monto de las obligaciones sujetas al margen de que tratan los artículos 81 y 115 de la Ley General de Bancos, se sumarán los saldos de las cuentas que deben incluirse en las partidas 3005 a 3820, exceptuados los de aquellas comprendidas en las partidas 3430 y 3485 ("Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central de Chile"). Asimismo, se excluirán los saldos de las cuentas "Redescuento documentos avalados-corresponsales ALADI" de las partidas 3405 y 3455.
+Para establecer el monto de las obligaciones sujetas al margen de que tratan los artículos 81 y 115 de la Ley General de Bancos, se sumarán los saldos de las cuentas que deben incluirse en las partidas 3005 a 3820, exceptuados los de aquellas comprendidas en las partidas 3430 y 3485 ("Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central de Chile").
 
 A lo anterior se sumará el saldo de la cuenta "Bonos subordinados computados como obligaciones", de la partida 9700.
 
@@ -16878,11 +16898,11 @@ De la suma de los saldos antes mencionados, se deducirán los siguientes montos,
 
 a) El saldo de la partida 1015 "Documentos a cargo de otros bancos";
 
-b) El saldo de la cuenta "‘Documentos deducibles de encaje a cargo de sucursales", de la partida 2115 del formulario MB1;
+b) El saldo de la cuenta "‘Documentos deducibles de encaje a cargo de sucursales", de la partida 2115;
 
-c) El valor par de los documentos registrados en la cuenta "Letras de crédito de propia emisión", de la partida 1735 del formulario MB1;
+c) El valor par de los documentos registrados en la cuenta "Letras de crédito de propia emisión", de la partida 1735;
 
-d) El valor par de los pagarés provenientes del refinanciamiento de reprogramación de deudas, a que se refiere el N° 5 del Capítulo II.B.5 y el N° 6 del Capítulo II.B.5.3 del Compendio de Normas Financieras del Banco Central de Chile, que mantenga la institución y que hayan sido obtenidos directamente del Instituto Emisor, aun en el caso en que dichos instrumentos estén vendidos con pacto de retrocompra a la fecha del cómputo. En el evento de que todo o parte de esos pagarés se hubieren aplicado a la adquisición de los certificados de depósito expresados en dólares estadounidenses, de que trata el título III de la Circular N° 2.088-527, de 24 de junio de 1985 y sus modificaciones, se podrá rebajar también, del referido endeudamiento, una cantidad igual al valor de los pagarés que se utilizaron en la compra de estos certificados de depósito. Este último importe debe establecerse en cada oportunidad, considerando los pagarés que se utilizaron y que se encuentren vigentes, por su valor par calculado a la fecha en que se determine el endeudamiento; y,
+d) El valor par de los pagares provenientes del refinanciamiento de reprogramación de deudas, a que se refiere el N° 5 del Capítulo II.B.5 y el N° 6 del Capítulo II.B.5.3 del Compendio de Normas Financieras del Banco Central de Chile, que mantenga la institución y que hayan sido obtenidos directamente del Instituto Emisor, aun en el caso en que dichos instrumentos estén vendidos con pacto de retrocompra a la fecha del cómputo. En el evento de que todo o parte de esos pagares se hubieren aplicado en su oportunidad a la adquisición de certificados de depósito expresados en dólares de los Estados Unidos de América-Acuerdo 1649, se rebajará también una cantidad igual al valor de los pagares que se utilizaron en la compra de estos certificados de depósito El importe de esta última deducción deberá establecerse en cada oportunidad, considerando los pagarés aplicados a la referida compra, siempre que de acuerdo a su fecha de vencimiento se hubieren encontrado vigentes, por su valor par calculado a la fecha en que se determine el endeudamiento Dicho importe deberá registrarse en la cuenta "Pagares de reprogramación deducibles-Vendidos Acuerdo 1649", de la partida 9530, cuyo saldo reflejará, al cierre de cada mes, el monto deducible por ese concepto, y,
 
 e) El valor par de los pagarés "Acuerdo 1506" que mantenga la institución y que se hayan adquirido en la oportunidad de la venta de letras de crédito emitidas por la institución financiera, efectuada al Instituto Emisor, aunque ellos se encuentren vendidos con pacto de retrocompra a la fecha del cómputo del endeudamiento. En ningún caso se rebajarán los pagarés que hayan sido adquiridos a otras instituciones financieras o a terceros.
 
@@ -16901,58 +16921,6 @@ El capital y reservas para los efectos del artículo 81 ó 115 de la Ley General
 de Bancos debe determinarse de acuerdo con las instrucciones contenidas en el
 
 Capítulo 12-1 de esta Recopilación de Normas.
-
-### 5. Registro contable de pagarés emitidos por el Banco Central de Chile
-
-Las instituciones financieras registrarán los pagarés emitidos por el Banco
-
-Central de Chile por reprogramaciones y los pagarés "Acuerdo 1506" en las
-
-siguientes cuentas, según la situación en que dichos documentos se encuentren:En
-
-la partida 1715 del formulario MB1 se abrirán las cuentas "Pagarés de
-
-reprogramación obtenidos del Banco Central" y "Pagarés de reprogramación
-
-comprados a otras instituciones", para registrar separadamente los pagarés que
-
-se obtuvieron directamente del Instituto Emisor, de los adquiridos a otra
-
-institución financiera.
-
-Para registrar los pagarés "Acuerdo 1506" se utilizarán las cuentas "Pagarés
-
-Acuerdo 1506 obtenidos del Banco Central o de deudores" y "Pagarés Acuerdo 1506
-
-comprados a terceros", de la partida 1705 del formulario MB1.
-
-En la primera de estas cuentas se mantendrá el registro de los pagarés que
-
-fueron adquiridos por la institución financiera mediante la venta de letras de
-
-crédito de su propiedad y, en la segunda, los pagarés que se compraron a otras
-
-instituciones financieras o a terceros.
-
-En todo caso, de acuerdo con lo señalado en las letras d) y e) del N° 2 de este
-
-capítulo, para los efectos de las deducciones mencionadas en dicho número debe
-
-considerarse el valor par de los documentos y, además, deben computarse los
-
-pagarés que se encuentren vendidos con pacto de retrocompra cuando correspondan
-
-a aquellos que se obtuvieron en las reprogramaciones efectuadas por la
-
-institución.
-
-### 6. Información a esta Superintendencia
-
-Las entidades financieras deben remitir mensualmente a este Organismo, el
-
-formulario M-30 de acuerdo a las instrucciones contenidas en el Manual del
-
-Sistema de Información.
 
 CAPITULO 12-3 (Bancos y Financieras)
 
@@ -29875,8 +29843,6 @@ CAJA. DINERO EN TRANSITO O EN CUSTODIA.
 ### 1. Remesas en tránsito a cargo de empresas transportadoras de valores
 
 Se considerarán como remesas en tránsito de una institución financiera, los importes que se entreguen a una empresa transportadora de valores con el fin de que ésta los transporte a otra oficina de la misma institución que encarga el traslado en virtud de un contrato de prestación de tal servicio que se haya suscrito entre ambas partes, o que, de acuerdo con lo establecido en el mismo contrato, la empresa transportadora guarde en custodia en sus bóvedas, sujetos a las instrucciones que le imparta la institución depositante.
-
-Las remesas en tránsito que se mantengan en custodia en las empresas transportadoras de valores no serán computables para los efectos de constituir el encaje y la reserva técnica a que se refieren los Capítulos 4-1 y 4-2, respectivamente, de esta Recopilación.
 
 En todo caso, corresponderá a las instituciones bancarias y sociedades financieras que contraten estos servicios comprobar y exigir los resguardos necesarios y precisar las responsabilidades de la empresa encargada de la custodia de esos valores.
 
