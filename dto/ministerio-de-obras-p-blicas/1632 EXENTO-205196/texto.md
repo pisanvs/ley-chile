@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.632, de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº 3, superficie 1.458 m², rol de avalúo 70-104, comuna de Futrono, X Región, para la obra ''Camino Ruta T-55, Sector Futrono - Llifén, Km. 55,300 al 75,76384'' y se acordó el valor de indemnización con su propietario don Diógenes Rosales Montecinos, ascendente a la cantidad de $614.360.-
+
+Fiscal del Ministerio de Obras Públicas.
