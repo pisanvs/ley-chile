@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.255, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº1, superficie 2.408 m2., rol de avalúo Nº590-67, comuna de Yungay, para la obra "Area de Riego Yungay, Canal Trilaleo Desagüe Final Km. 4,58600 al Km. 4,98900 del Proyecto Laja Diguillín", y se acordó el valor de indemnización con su propietaria Ana Luisa Muñoz Muñoz, ascendente a la cantidad de $1.004.261.-
+
+Fiscal del Ministerio de Obras Públicas.
