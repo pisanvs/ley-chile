@@ -1,0 +1,3 @@
+Por resolución Nº1.681, de 28 de julio de 2000, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº1.099 del 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del Proyecto denominado ''Pesca de Investigación del Jurel entre la III y la X Regiones'', en el sentido de eliminar la nave ''Antarctic'' de propiedad de Pesquera San José S.A. de la nómina de naves participantes, por renuncia de su titular.
+
+Valparaíso, 28 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
