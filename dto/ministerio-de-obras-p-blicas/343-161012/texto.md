@@ -1,0 +1,5 @@
+Por decreto MOP Nº 343, de 7 de febrero de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 17, para la obra Reposición Puente Bío-Bío Antiguo Ruta 160 Concepción-San Pedro, sector Enlace 3, que figura a nombre de Sergio Hermosilla Hermosilla, rol de avalúo 12027-11, comuna de San Pedro de la Paz, VIII Región, superficie 600 m2. La Comisión de Peritos compuesta por los señores Boris Aptecar González, Pedro Tagle Martínez y Gerardo Valverde Vildósola, fijó con fecha 22 de abril de 1998, en la cantidad de
+
+$54.940.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
