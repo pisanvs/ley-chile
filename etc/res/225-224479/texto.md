@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 225, 8 abril 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 2508, Lote B, Rol de Avalúo Nº 975-01 comuna Concepción, superficie 220,69 m2. de terreno y 45,16 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-18303; de aparente dominio de Cipriano Segundo Flores Muñoz, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 Ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Patricia Cecilia Palacios González, arquitecto, Luis Soto Abarca, arquitecto, y Leonardo Esteban de la Fuente Vera, constructor civil, según informe de fecha 4 de marzo de 2004, fijó monto provisional indemnización en $9.711.473.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
