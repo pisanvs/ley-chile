@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.624, de 30 de septiembre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 11-6, 11-7 y 11-8 para la obra: ''Concesión Internacional Ruta 5. Tramo Río Bueno - Puerto Montt. Sector: Calles de Cardonal Km. 1.022,740 a Km. 1.023,300'', Décima Región, que figura a nombre de Suc Barría Bórquez Edith y otros, rol de avalúo 2053-1, comuna de Puerto Montt, superficies 2.812 m2, 518 m2 y 740 m2, respectivamente. La comisión de peritos integrada por los señores Leopoldo Schumacher Guarda, Juan Samuel Barrientos Bahamonde y Enrique Hoelck Altmann fijó, con fecha 23 de agosto de 2002, el valor provisional de la indemnización en la cantidad de $118.104.000.- para el lote Nº11-6;
+
+$17.094.000.- para el lote Nº11-7 y $24.420.000.- para el lote Nº11-8. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
