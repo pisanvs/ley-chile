@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.667, de 24 de junio de 1999, se expropió el lote de terreno No. 90-C, superficie 454 m2., rol de avalúo 1435-49, comuna de Llanquihue, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Fresia - Puerto Varas, Décima Región y se acordó el valor de indemnización con sus propietarios Juan Bautista Ilharreguy Vergara y otra, ascendente a la cantidad de $ 951.297.-
+
+Fiscal del Ministerio de Obras Públicas.
