@@ -1,0 +1,3 @@
+Por resolución Nº 994, de 1 de junio de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 322, de 1990, de esta Subsecretaría, en cuanto autorizó a don ERASMO ANTONIO MUÑOZ FLORES, para operar la nave ''Skorpion II'', sólo en lo relativo al recurso Raya, en el litoral comprendido entre la VIII Región y el paralelo 43º L.S., y Albacora, Atún de aleta amarilla, Cojinoba del norte y Machuelo de la I Región al paralelo 43º L.S., de conformidad con lo establecido en la letra b) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 1 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
