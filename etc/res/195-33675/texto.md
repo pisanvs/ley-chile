@@ -1,0 +1,3 @@
+Por resolución N° 195 de 10 marzo de 1993 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, parte inmueble ubicado en Avenida Cinco de Abril N° 4750, presunto rol de avalúos N° 6551-19 comuna de Estación Central, aparente dominio de don Samuel Machuca Herrera. Comisión integrada por peritos Sres. Ricardo Carvallo Rodríguez, arquitecto, Carlos del Pedregal Sánchez, Contructor Civil y Humberto Mattos Mendoza, ingeniero civil, según informe de 17 de Septiembre 1992, fijó monto provisional indemnización en $ 981.000 pagadera al contado.-
+
+Directora SERVIU Metropolitano.
