@@ -1,0 +1,3 @@
+Por resolución Nº 937, de 14 de mayo de 2002, de esta Subsecretaría, autorízase a JOSE MIGUEL ORTEGA MELO para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 1.920 de 2001, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Camino a Lagunitas Km 6 (Las Quemas), Puerto Montt, X Región, en la línea de elaboración de Ahumado, el recurso hidrobiológico Bacalao de profundidad.
+
+Valparaíso, 14 de mayo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
