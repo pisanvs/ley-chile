@@ -1,0 +1,7 @@
+EXTRACTO DE DECRETO Nº 317 EXENTO, DE 2003
+
+Por decreto exento Nº 317 de fecha 9 de mayo de 2003 del Ministerio de Educación, se aprueba el programa especial de la carrera de Técnico en Enfermería de Nivel Superior del Centro de Formación Técnica Santo Tomás, para ser impartido en la Sede Nº 10 de Concepción, por única vez, para los funcionarios Auxiliares Paramédicos de Enfermería pertenecientes al Hospital Clínico Regional Guillermo Grant Benavente de Concepción, que cumplen los requisitos de ingreso a este nivel de educación y con las exigencias establecidas por la institución, según nómina que se anexa y que forma parte de este decreto.
+
+El programa especial de titulación se desarrollará de acuerdo al número de horas del plan de estudios aprobado por el Ministerio de Educación mediante decreto exento Nº 409 del 16 de abril de 1997, más un proceso de titulación, en un año académico, desde el 19 de abril de 2002 al 18 de junio de 2003, a fin de regularizar las diferentes situaciones académicas de los postulantes que cumplan con los requisitos de ingreso a este nivel de educación y con las exigencias establecidas por la institución.
+
+Santiago, 4 de julio de 2003.- María Ariadna Hornkohl Venegas, Subsecretaria de Educación.
