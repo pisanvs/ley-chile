@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.570 de 9 de junio de 2004, de esta Subsecretaría, autorízase a SERVICIOS MARITIMOS OXXEAN SOCIEDAD ANONIMA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en camino a Chinquihue, kilómetro 14, Puerto Montt, X Región, donde podrá elaborar en la línea de proceso de Fresco-Enfriado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 9 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
