@@ -1,0 +1,19 @@
+AUTORIZA A LA SOCIEDAD PRO - AYUDA AL NIÑO LEUCEMICO, PARA EFECTUAR COLECTA QUE INDICA
+
+Santiago, 07 de Mayo de 1987.- Hoy se decretó lo que sigue:
+
+Núm. 371 exento.- Visto: Estos antecedentes, lo informado por la Oficina de Pensiones de Gracia, Rifas, Sorteos y Colectas y teniendo presente el Decreto Reglamentario No. 955, de 3.VI.74, modificado por los Decretos N°s 1.309 y 1.447, de 12.VIII.74 y 15.XII.75, respectivamente,
+
+Decreto:
+
+1.- Autorízase a la Sociedad Pro - Ayuda al Niño Leucémico, para realizar una colecta pública en todo el territorio nacional el día 26 de Junio de 1987.
+
+2.- Las utilidades producto de esta Colecta serán destinadas a financiar la adquisición de drogas y fármacos para proporcionarlos a aquellos menores de 14 años que padecen enfermedades catalogadas médicamente como leucémicas.
+
+3.- Las erogaciones sólo podrán recibirse en alcancías numeradas y controladas por el Intendente o Gobernador respectivo o las personas que se designen en su representación.
+
+4.- La referida Sociedad deberá remitir al Ministerio del Interior dentro del plazo de 60 días contados desde la fecha de realización de la colecta, un informe detallado del ingreso obtenido y de su inversión.
+
+Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Ricardo García Rodríguez, Ministro del Interior.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Alberto Cardemil Herrera Subsecretario del Interior.
