@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 623 de fecha 30 de abril del 2002, se expropiaron los lotes de terreno Nºs 31-A y 31-B, superficie 200 y 215 m2 respectivamente, sin rol, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al 70,000, Etapa I'', y se acordó el valor de indemnización con su propietario Francisco Bou Ruiz-Aburto, ascendente a la cantidad de $413.058.
+
+Fiscal del Ministerio de Obras Públicas.
