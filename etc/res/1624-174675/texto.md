@@ -1,0 +1,3 @@
+Por resolución número 1.624, de 26 de julio de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Sierra, IV Región, individualizado en el artículo 1º) Nº 9 del DS Nº 10 de 1998 del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION GREMIAL DE PESCADORES ARTESANALES ''CALETA SIERRA'' - OVALLE, IV REGION.
+
+Valparaíso, 26 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
