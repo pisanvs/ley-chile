@@ -1,0 +1,3 @@
+Por resolución Nº 1.209, de 23 de junio de 1999, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al Sector denominado Chañaral de Aceituno, III Región, individualizada en el artículo 1º) Nº 2) del D.S. Nº 510 de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS MARISCADORES Y PESCADORES ARTESANALES en todas sus categorías de Caleta Chañaral de Aceituno, Comuna de Freirina, Provincia de Huasco.
+
+Valparaíso, 23 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
