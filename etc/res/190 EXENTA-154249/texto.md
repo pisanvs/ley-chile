@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta Nº 190, del 20 de junio de 1986, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IV Región de Coquimbo, se autoriza a Jorge Edison Jaime Cisternas y Jorge Eduardo Díaz Aguilera, Johny Rojas Valenzuela, Waldo Araya Gallardo, José Abelardo Rojas Muñoz, Juan Guillermo Solís Araya, José Mercedes Campos Muñoz, Guillermo Luciano Ortega Retamales, Pedro Antonio S. Lara Vergara, Miriam Ana J., Señoret Soto, Manuel A. Rivera Cofré, María C. Rivera González y Gastón Bugueño Marambio para efectuar el servicio de taxi colectivo urbano de la Línea Nº 18.- "Población Limarí - Portales" cuyo trazado que a continuación se indica fue autorizado por resolución exenta Nº 129, del 28 de junio de 1984, de esta Secretaría Regional:
+
+Circunvalación: Desde su terminal ubicado en calle Diaguitas con Fray Jorge, en la ciudad de Ovalle, continúa por Fray Jorge - Av. Las Palmas - Av. Las Acacias - Los Pimientos - Ruta 43 - Rotonda - Ariztía Poniente - Libertad - Portales - Vicuña Mackenna - Ariztía Poniente - Tangue - Ariztía Oriente - Rotonda - Ruta 43 - Av. Las Palmas - Av. Las Torres Diaguitas hasta su terminal con Fray Jorge.-
+
+Jorge Vargas Borcosky, Secretario Regional Ministerial de Transportes y Telecomunicaciones IV Región de Coquimbo.
