@@ -1,0 +1,3 @@
+Por decreto MOP Nº 311, de 26 de febrero de 1999, se expropió el lote de terreno Nº 414, superficie 2.870,6 m², rol de avalúo 291-46, comuna de Los Lagos, para la obra Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietario Santos Nelson Villanueva Aguilera, ascendente a la cantidad de $1.166.612.-
+
+Fiscal del Ministerio de Obras Públicas.
