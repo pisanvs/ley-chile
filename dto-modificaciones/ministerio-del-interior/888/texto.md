@@ -1,0 +1,51 @@
+MODIFICA EN TERMINOS QUE INDICA DECRETO Nº 3.875, DE 2000, QUE REGLAMENTA FUNCIONAMIENTO DEL PROGRAMA DE SEGURIDAD Y PARTICIPACION CIUDADANA Y DEL "FONDO NACIONAL CONCURSABLE DE PROYECTOS COMUNA SEGURA, COMPROMISO CIEN"
+
+Santiago, 16 de diciembre de 2002.- Hoy se decretó lo que sigue:
+
+Núm. 888.- Considerando:
+
+Que, en conformidad a lo previsto en el decreto con fuerza de ley Nº 7.912, de Interior, de 30 de noviembre de 1927, considerado como Ley Orgánica del Ministerio del Interior, corresponde a esta Secretaría de Estado, entre otras funciones, el mantenimiento de la seguridad, tranquilidad y orden públicos;
+
+Que, para el cumplimiento de la finalidad descrita, el Ministerio del Interior ha implementado acciones vinculadas a la prevención y control delictual, reforzando especialmente su gestión a nivel local, fomentando y apoyando la constitución y desarrollo de Instancias Comunales de Seguridad Ciudadana, las cuales no sólo han facilitado la implementación exitosa de programas específicos de seguridad ciudadana enmarcados en modalidades de participación, sino que también han permitido conocer las inquietudes y evaluaciones de la población en relación a las políticas públicas en la materia, sin perjuicio de haber posibilitado la obtención de información relativa a hechos delictuales de los que la población ha sido víctima;
+
+Que, dentro del contexto indicado, y mediante la dictación del decreto supremo Nº 3.875, de Interior, de 27 de diciembre de 2000, se reglamentó el funcionamiento del Programa de Seguridad y Participación Ciudadana creado por la Ley Nº 19.702, Ley de Presupuesto para el Sector Público para el año 2001, destinado a profesionalizar y perfeccionar la función de seguridad ciudadana de las municipalidades, constituir y desarrollar Instancias Comunales de Seguridad Ciudadana a nivel local y crear un Fondo Concursable de iniciativas de prevención de la criminalidad denominado "Fondo Nacional Concursable de Proyectos para el Programa Comuna Segura, Compromiso Cien", al cual durante el año 2001 sólo pudieron acceder para una primera fase experimental o piloto según lo dispuesto por el decreto supremo referido, 12 comunas seleccionados de entre aquellos municipios con más de 70.000 habitantes que presentaran altos índices de delincuencia e índices de pobreza relevantes;
+
+Que, la Ley Nº 19.774, Ley de Presupuesto para el Sector Público para el año 2002, ha previsto nuevamente la existencia de recursos destinados a profesionalizar y perfeccionar la función de seguridad ciudadana de las municipalidades, constituir y desarrollar Instancias Comunales de Seguridad Ciudadana a nivel local y crear un Fondo Concursable de iniciativas de prevención de la criminalidad para financiar proyectos de seguridad vecinal postulados por organizaciones sociales y a elaborar un Plan de Acción Comunal en dicha materia con la participación de los sectores más representativos de cada comuna, traduciéndose en la continuación de las Unidades o Instancias Comunales encargadas de la Seguridad Ciudadana ya constituidas y en la organización de Unidades o Instancias Comunales encargadas del tema referido en 12 nuevas comunas, en la generación de Diagnósticos y Planes Comunales y en la implementación del Fondo Concursable indicado;
+
+Que, en conformidad a lo indicado y mediante la dictación del decreto supremo Nº 1.292, de Interior, de 28 de diciembre de 2001 se amplió el número de comunas que participan en la ejecución del "Programa de Seguridad y Participación Ciudadana", seleccionándose al efecto a las comunas de Calama, San Antonio, Linares, Talca, Talcahuano, Melipilla, Cerro Navia, San Miguel, San Ramón, Estación Central, Pudahuel y Macul mediante la aplicación de los mismos criterios indicados en el decreto supremo 3.875 citado, con el objeto de que estos municipios implementen y ejecuten el Programa de Seguridad y Participación Ciudadana a través de sus Unidades o Instancias Comunales encargadas de la Seguridad Ciudadana especialmente creadas para estos efectos;
+
+Que, atendiendo a la existencia de recursos financieros en la ley Nº 19.842, Ley de Presupuesto del sector público para el año 2003 para la extensión del "Programa Comuna Segura, Compromiso Cien"; a la exitosa experiencia proporcionada por el trabajo en conjunto con las 24 comunas mencionadas y con el fin de validar y expandir los beneficiosos resultados obtenidos en la primera y segunda fase de aplicación de este programa piloto y, al mismo tiempo, extender los conocimientos y la puesta en práctica de éstos, asociados a la implementación del Programa de Seguridad y Participación Ciudadana a nivel local y con el fin de mantener el carácter de experimental de dicha acción con el objeto de examinar su posible aplicación a nivel nacional como política en materia de seguridad ciudadana, la superioridad de esta cartera ha resuelto ampliar nuevamente el número de comunas beneficiadas con los resultados del "Programa de Seguridad y Participación Ciudadana".
+
+Visto: Lo dispuesto en el artículo 32 Nº 8 de la Constitución Política de la República de Chile; en la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la Ley Nº 18.695, Orgánica Constitucionl de Municipalidades, cuyo texto refundido fue fijado por el DFL Nº 1-19.704, de 2002, de Interior; en la Ley Nº 19.774, Ley de Presupuesto del Sector Público para el año 2002 y lo establecido en el decreto supremo Nº 3.875, de Interior, de 27 de diciembre de 2000 y 1.292, de Interior, de 28 de diciembre de 2001 y en la resolución Nº 55, de 1992, de la Contraloría General de la República y, teniendo presente la trascendencia de reglamentar la administración de los recursos asignados en la ley Nº 19.842, Ley de Presupuesto del Sector Público para el "Programa de Seguridad y Participación Ciudadana" para el año 2003, para el cumplimiento de los objetivos de éste,
+
+D e c r e t o:
+
+#### Artículo primero
+
+Sustitúyase la letra e) del artículo segundo del decreto supremo Nº 3.875 del Ministerio del Interior, año 2000, por el siguiente:
+
+"Para la determinación de las comunas que ejecutarán el "Fondo Nacional Concursable de Proyectos para el Programa Comuna Segura, Compromiso Cien" se deberán considerar los siguientes criterios de selección:
+
+número de habitantes no inferior a 70 mil, la tendencia y evolución de las tasas de denuncias de los delitos de homicidio, violación, robo con fuerza, robo con violencia, hurto, lesiones y violencia intrafamiliar en cada una de las comunas que se encuentre postulando así como variables de vulnerabilidad social delictual, tales como indigencia, pobreza, desempleo, hacinamiento, déficit educacional y prevalencia de consumo de drogas ilícitas y de alcohol en ellas; vulnerabilidad y propensión al consumo de drogas y las tasas relativas a población penal y habitantes por comuna.
+
+#### Artículo segundo
+
+Agrégase como letra f) al artículo segundo del decreto supremo Nº 3.875 citado, lo siguiente: "En conformidad a los criterios señalados, para el año 2003 han sido seleccionados para la ejecución del "Fondo Nacional Concursable de Proyectos para el Programa de Comuna Segura, Compromiso Cien" las siguientes comunas: Copiapó, Ovalle, Valparaíso, San Pedro de la Paz, Coronel, Valdivia, Santiago, La Pintana, San Bernardo, Renca, Lo Espejo, El Bosque, Calama, San Antonio, Linares, Talca, Talcahuano, Melipilla, Cerro Navia, San Miguel, San Ramón, Estación Central, Pudahuel, Macul, Arica, Antofagasta, Coquimbo, Viña del Mar, Concepción, Temuco, Osorno, Lo Prado, La Granja, Maipú, Colina, Huechuraba, Recoleta, Peñalolén, La Florida y Puente Alto.
+
+#### Artículo tercero
+
+Agrégase como letra g) al artículo segundo del decreto supremo Nº 3.875 citado, lo siguiente: "La incorporación de nuevas comunas a este programa y la distribución de recursos entre comunas en cada región deberá ser informada al Gobierno Regional respectivo, el cual podrá convenir con la Subsecretaría del Interior la extensión del programa a otras comunas de su región. Dicha extensión podrá ser cofinanciada por ambas entidades y, en tal caso, el aporte regional deberá destinarse a financiar proyectos de inversión en esta área.
+
+Con todo, la incorporación de nuevas comunas mediante este mecanismo, deberá realizarse bajo los criterios de selección señalados en la letra e) precedente".
+
+#### Artículo cuarto
+
+Sustitúyase el artículo primero transitorio del decreto supremo Nº 3.875 indicado, por el siguiente texto:
+
+#### Artículo primero
+
+transitorio: Los fondos asignados por la Ley Nº 19.842, Ley de Presupuesto del Sector Público para el año 2003 para la ejecución del Programa de Seguridad y Participación Ciudadana, podrán ser invertidos, entre otros, en asignaciones de recursos a los municipios destinados al pago de honorarios de los profesionales que se desempeñen como Secretarios Técnicos de las Unidades o Instancias Comunales encargadas de la Seguridad Ciudadana en las 40 comunas en las que se implementará el programa indicado y en la adquisición de equipos informáticos de respaldo; en el financiamiento de los planes de capacitación de funcionarios públicos, actividades de difusión y otras conexas y de estudios y encuestas para el seguimiento y apoyo del programa orientados a apoyar científicamente la intervención social y en la elaboración de diagnósticos y del Plan Comunal de Seguridad Ciudadana, en gastos de administración del programa y en la ejecución del "Fondo Nacional Concursable de Proyectos para el Programa Comuna Segura, Compromiso Cien" para el año 2003, que será distribuido entre los 40 municipios ya indicados en conformidad a los términos previstos en los Convenios de Colaboración suscritos al efecto entre éstas y el Ministerio del Interior."
+
+Anótese, tómese razón, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- José Miguel Insulza Salinas, Ministro del Interior.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Jorge Correa Sutil, Subsecretario del Interior.
