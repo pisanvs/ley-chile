@@ -1,0 +1,5 @@
+EXTRACTO DE EXPROPIACION
+
+Alcalde I. Municipalidad de Conchalí, mediante Decreto Exento No. 300, de 12 de Julio de 1989, dispone expropiación total, conforme Decreto Supremo No. 458, de Vivienda, de 1976, Decretos Leyes 2.186 y 3.464 Ley No. 18.695 de inmueble ubicado en calle Rubén Darío No. 3294 Rol de Avalúo No. 1036-12 aparentemente de propiedad de don Esteban Rivas López, para permitir continuación de Avenida Dorsal desde José María Caro hasta Avenida Recoleta. Deslindes parte expropiada: Norte: 25,75 mt. con la propiedad Rol de Avalúo No. 1036-13; Sur: 25,75 mt. con la propiedad Rol de Avalúo No. 1036-11; Oriente: 09,00 mt. con la calle Rubén Darío; y Poniente 09,00 mt. con espacio libre de uso público destinado a la futura Avenida Dorsal. Indemnización provisional de $ 4.995.000.- pagadera contado.
+
+- Fernando Alvarez Gálvez Alcalde.- Neftalí Pastén Ibarra, Secretario Municipal.
