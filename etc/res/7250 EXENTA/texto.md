@@ -1,0 +1,25 @@
+DISPONE CAMBIO DE SUJETO DE DERECHO DEL IVA EN LAS VENTAS DE MADERA DESDE EL 1º DE NOVIEMBRE DE 1999 Y HASTA EL 31 DE OCTUBRE DE 2000
+
+Núm. 7.250 Ex., de fecha 28.10.99, que ''Dispone cambio de sujeto de derecho del IVA en las ventas de madera, desde el 1º de noviembre de 1999 y hasta el 31 de octubre de 2000''.
+
+Para efectos de la presente resolución se entenderá por madera al bosque en pie y a los productos que se obtengan de su corta, trozado, aserrío, astillado u otra forma de divisionamiento o presentación, cualquiera sea su denominación, incluyendo la leña y los subproductos que se obtengan de dichos procesos.
+
+Se ha dispuesto el cambio parcial del sujeto pasivo de derecho del Impuesto al Valor Agregado al adquirente que durante los años 1996, 1997 ó 1998 hubiere comprado 200 millones de pesos o más en madera y tenga un capital propio inicial igual o superior a 100 millones de pesos; al adquirente que en el transcurso del período comprendido entre el 1º de enero de 1999 y el 31 de octubre de 1999 hubiere comprado 200 millones de pesos o más en madera y tenga un capital propio inicial igual o superior a 100 millones de pesos; al adquirente que en el transcurso del período comprendido entre el 1º de noviembre de 1999 y el 31 de octubre del año 2000 complete compras por 200 millones de pesos o más en madera y tenga un capital propio inicial igual o superior a 100 millones de pesos, y al vendedor que se haya excepcionado del cambio de sujeto, de conformidad a lo previsto en el Nº 13 de esta resolución. También deberán retener el IVA, por las compras de madera que efectúen, las empresas que tengan como dueño, socio, comunero, accionista de sociedad anónima cerrada a un adquirente obligado a retener el tributo.
+
+Las ventas de madera que se efectúen entre los adquirentes indicados en los incisos anteriores, no quedan afectas al cambio de sujeto de derecho del Impuesto al Valor Agregado.
+
+Como consecuencia del cambio parcial de sujeto del impuesto, los compradores de madera señalados anteriormente deberán emitir ''facturas de compra'' y recargar, separadamente en ellas un 8% de IVA a retener y un 10% de IVA sobre esta misma base, que deberá declarar y pagar al vendedor como débito fiscal, no teniendo obligación de emitir factura por dicho débito. En la factura que emita el comprador deberá dejar constancia expresa que ha retenido el 8% del IVA sobre el total de la compra.
+
+Se dispone el cambio de sujeto con retención total del IVA, cuando los vendedores de madera, al momento de la venta, no entreguen guías de despacho o facturas, o que por efecto de la fiscalización del Servicio de Impuestos Internos se encuentren figurando en nóminas de contribuyentes de difícil fiscalización. En tal caso, en la factura de compra que emitan los adquirentes, se indicará el monto neto de la operación, el impuesto recargado y el impuesto retenido, debiendo corresponder ambos impuestos al 100% de la tasa vigente del IVA.
+
+Los vendedores de madera a quienes se les retenga total o parcialmente el IVA en virtud de esta resolución, tienen derecho a recuperar el respectivo crédito fiscal, al igual que el remanente que se origine, imputándolo directamente al débito fiscal no afectado por la medida de cambio de sujeto, sin perjuicio de lo dispuesto en el Art. 27 bis del D.L. Nº 825, de 1974. Si efectuadas las imputaciones indicadas, subsistieren créditos fiscales o remanentes que no hayan podido ser imputados por efecto de los débitos retenidos que produce el cambio de sujeto, el contribuyente podrá pedir su devolución, presentando una solicitud ante el Servicio de Impuestos Internos.
+
+Los vendedores de madera que pasen a ser retenedores en virtud de cumplir con los requisitos señalados en la resolución, deberán solicitar en la Unidad del Servicio de Impuestos Internos que corresponda a su domicilio, se les certifique su calidad de agente retenedor, dentro del plazo de treinta días hábiles, contado desde la fecha de publicación de este extracto en el Diario Oficial.
+
+Los certificados que se emitan otorgando la calidad de agente retenedor serán notificados a los interesados y terceros mediante su publicación en extracto en el Diario Oficial, por cuenta del Servicio, y entrarán en vigencia a partir del día de su publicación.
+
+Los agentes retenedores deberán presentar, hasta el día 15 de cada mes, en la Unidad del Servicio que corresponda a su domicilio, un informe que contenga el detalle de las operaciones efectuadas y de las retenciones de IVA conforme al detalle indicado en el dispositivo número 18.
+
+El texto íntegro de esta resolución se encuentra incluido en la página Web del Servicio en Internet, cuya dirección es http://www.sii.cl y, además, se publicará en la edición del Boletín del Servicio del mes de octubre de 1999.-
+
+Javier Etcheverry Celhay, Director.
