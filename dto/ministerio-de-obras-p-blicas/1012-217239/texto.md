@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.012, de 29 de septiembre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco los lotes de terreno Nºs. 20 y 21, para la obra: Laja - Diguillín, Canal Matriz Diguillín - Larqui, Km.
+
+6,416 a Km. 11,893, que figuran a nombre de Moraga Henríquez Juan Ramón y Aedo García Robustiano Segundo, rol de avalúo 603-14 y 603-77, comuna de San Ignacio, VIII Región, superficies 10.264 m² y 12.700 m². La Comisión de Peritos, fijó con fecha 26 de julio de 2002, el monto de la indemnización provisional en la cantidad $6.682.400.-, lote 20 y $7.815.000.-, lote 21. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
