@@ -1,0 +1,3 @@
+Por decreto MOP Nº744 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº4, superficie 750,36 m², rol de avalúo Sin Rol, comuna de Vallenar, para la obra "Variante Canal Marañón, Km. 0,00 al Km. 3,773, del Proyecto de Mejoramiento Canales Tercera Sección, Valle Río Huasco" y se acordó el valor de indemnización con su propietario Hugo Hernando Marín, ascendente a la cantidad de $315.780.
+
+Fiscal del Ministerio de Obras Públicas.
