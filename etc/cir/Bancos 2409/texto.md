@@ -5914,6 +5914,8 @@ Código Plaza Jurisdicción
 
 0202 Puchuncavi "
 
+0204 Nogales "
+
 0208 San Felipe "
 
 0216 Putaendo "
