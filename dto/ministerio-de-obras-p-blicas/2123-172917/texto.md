@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.123, de 29 de mayo del 2000, se expropió el lote de terreno Nº4, superficie 654,58 m², rol de avalúo 419-103, comuna de Parral, para la obra Camino Ruta L-85, sector Cruce Longitudinal (Parral) - Villa Rosa Kms. 0,000.00 al 12,500.00 y se acordó precio de la indemnización con su propietaria Sociedad Agropecuaria y Forestal Los Placeres Limitada, ascendente a la cantidad de $2.363.818.
+
+Fiscal del Ministerio de Obras Públicas.
