@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 633, de 30 de Octubre de 1995, se expropiaron los lotes de terreno Nºs 93 y 111, superficie 105,00 m2 y 84,60 roles de avalúo 650-21 y 668-5, comuna de Rancagua, para la obra Mejoramiento Ruta 5 Sur, sector Pasada por Rancagua Camino Ruta 5 Sur y se acordó precio de indemnización con sus propietarios José Ortiz Lara y otros Juan Latife Saadi y otros, ascendente a las cantidades de $1.520.400, para el lote N° 93, $2.968.125, para el lote N° 111.
+
+Fiscal del Ministerio de Obra Públicas.
