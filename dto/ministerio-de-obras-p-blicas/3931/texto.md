@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.931 de fecha 29 de diciembre de 1999, se rectifica el decreto MOP Nº 1.628 de fecha 21 de junio de 1999, que expropió el lote de terreno Nº 190-A, rol de avalúo 386-11, comuna de Loncoche, para la obra ''Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno, Km. 762,40000 a Km. 764,36020'', en el sentido de reducir la superficie a expropiar de 1.043 m² a 750 m². y se acordó el valor de indemnización con su propietario Hernán Vega Campos, ascendente a la cantidad de $8.495.109.-
+
+Fiscal del Ministerio de Obras Públicas.
