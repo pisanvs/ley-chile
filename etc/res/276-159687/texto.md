@@ -1,0 +1,11 @@
+Por resolución Nº276 de 24 de febrero de 2000 de esta Subsecretaría, autorízase a PESQUERA ICALMA S.A., para continuar desarrollando actividades pesqueras con la nave denominada ''Don Gino'', que se individualiza, autorizada por resoluciones Nº161 de 1996 y Nº691 de 1998, de esta Subsecretaría, en el litoral de la I, II y III Regiones, respecto de los recursos hidrobiológicos, Sardina española, Anchoveta y Jurel.
+
+Estas áreas y recursos constituyen las pesquerías señaladas en las letras a), b) y c) del artículo 1º del DS Nº354 y parte de las pesquerías señaladas en los DS Nº493 de 1996 y Nº608 de 1997, del Ministerio de Economía, Fomento y Reconstrucción, las cuales fueron transferidas por Pesquera Iquique Guanaye S.A., RUT Nº91.123.000-3 a Pesquera Icalma S.A., conjuntamente con la nave ''Don Gino'', de conformidad con lo dispuesto en el artículo 23 de la Ley General de Pesca y Acuicultura, según da cuenta la escritura pública de compraventa citada en Visto.
+
+En consecuencia, Pesquera Icalma S.A. podrá capturar con la nave ''Don Gino'', individualizada precedentemente, en el área de pesca correspondiente al litoral de la I, II y III Regiones, por fuera del rea de reserva artesanal los recursos hidrobiológicos Sardina española, Anchoveta y Jurel.
+
+Además Pesquera Icalma S.A. podrá capturar los siguientes recursos hidrobiológicos: a) Litoral de la I y II Regiones, por fuera del área de reserva artesanal, con red de cerco: Agujilla, Anchoa blanca, Bonito, Bacaladillo, Caballa, Cabinza, Cojinoba del norte, Dorado, Jurel fino, Machuelo, Palometa, Roncacho, Sardina redonda, Vinciguerria; b) En el litoral de la III Región, por fuera del rea de reserva artesanal, con red de cerco: Agujilla, Bonito, Bacaladillo, Caballa, Cabinza, Cojinoba del norte, Dorado, Machuelo, Palometa, Roncacho, Sierra.
+
+Déjanse sin efecto las resoluciones Nº161 de 1996 y Nº691 de 1998, de esta Subsecretaría, en cuanto autorizaron a Pesquera Iquique Guanaye S.A. para operar la nave denominada ''Don Gino'' en virtud de lo señalado en la escritura de transferencia.
+
+Valparaíso, 24 de febrero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
