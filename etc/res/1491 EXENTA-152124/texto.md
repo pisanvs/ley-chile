@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1491 de 12 de Agosto de 1987, que ratifica la resolución exenta No. 207 de 21 de Enero de 1981, conforme art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento de Aguas que corresponden a las Parcelas N°s. 1 a 30, sitios N°s. 7, 8, 9 y Reserva CORA No. 2 del Proyecto de Parcelación "Los Molles", conformado por predio "Resto del Fundo Los Molles" y por Sector Expropiado de los Predios "Varillar" y "Resto de la Hacienda Valdivia", de la comuna de Monte Patria, IV Región. Los derechos de agua se extraen del Río Rapel por los canales Arenas, San Jorge, Algarrobito, Chibato, Inquilino Sur, Perales, Centinela, Vega de Valdivia, Albaricoque y Trapiche y del Río Palomo por los canales Buitre, Molino de Valdivia, por Tomás Macho Rucio No. 2, Inquilinos Casas No. 1, Inquilinos Casas No. 2 e Inquilinos Casas No. 3 y por Toma Los Culenes, y de los esteros Pajonales y El Maitén.
+
+Publicación hecha conforme art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
