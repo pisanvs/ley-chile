@@ -1,0 +1,3 @@
+Por resolución Nº725, de 12 de abril de 2000, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº97103113, presentada por MANUEL HERMINDO NORAMBUENA HIDALGO, para operar un centro de cultivo ubicado en sector entre Punta Tanecuhe y Punta Coñao, Isla Quinchao, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 12 de abril de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
