@@ -1,0 +1,5 @@
+AUTORIZA A DON LUIS ARAYA CASTILLO PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 615, de 16 de Junio de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza, a don Luis Araya Castillo, R.U.T. No. 2.612.361-5, domiciliado en Portales No. 113 Población Gaete, Talcahuano para ampliar actividades pesqueras autorizadas por resolución No. 209, de 05 de Marzo de 1986, de esta entidad, en orden a efectuar faenas de extracción con embarcación Alfa Centauro, en las Regiones I a IV respecto de los recursos hidrobiológicos: Cojinova, corvina y tritre y en las Regiones III a IV las especies sardina española, sardina común, anchoa y jurel. El arte de pesca a usarse será cerco.
+
+Valparaíso, 16 de Junio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
