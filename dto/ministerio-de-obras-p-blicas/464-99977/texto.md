@@ -1,0 +1,5 @@
+Por decreto MOP. No. 464, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP.
+
+No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL. No. 206, de 1960, se expropiaron los lotes de terreno No. s 1 y 2, para la obra Camino Autopista Santiago - San Antonio, Sector Segmento 4, Calles de Servicio, Sector 4-1, 4-2 y 4-3, Lado Izquierdo, que figuran a nombre de Fernández Mancini Julio y Rubio Suárez Marcelina, roles de avalúos No. s 2024-10 y 2024-9, comuna de Melipilla, Región Metropolitana, superficies 248 y 511 m2. La Comisión de peritos compuesta por los señores Ramón Undurraga Montes, Carlos del Pedregal Sánchez y la señora Marcela Alejandra Redard Ayala, fijó con fecha 9 de octubre de 1997, el valor provisional de la indemnización en las cantidades de $ 1.368.960, para el lote No. 1 y $ 2.963.800, para el lote No. 2. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley No. 2.186, de 1978.
+
+-Fiscal del Ministerio de Obras Públicas.
