@@ -1,0 +1,3 @@
+Por decreto MOP Nº753, de fecha 30 de abril de 2001, se expropiaron los lotes de terreno Nºs. 105-A, 106, 106-A y 107, superficie 16.163,9, 2.464, 1.015,1 y 2.548 m², respectivamente, rol de avalúo 515-26, comuna de Carahue, para la obra "Camino Costero Tirúa - Carahue, Tramo Bajo Yupehue - Puyanhue, Km. 23.348,46 al 45.286,79", y se acordó el valor de indemnización con su propietaria Guillerma Peña Aravena, ascendente a la cantidad de $7.803.002.-
+
+Fiscal del Ministerio de Obras Públicas.
