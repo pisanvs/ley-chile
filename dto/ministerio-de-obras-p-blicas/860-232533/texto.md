@@ -1,0 +1,3 @@
+Por decreto MOP Nº 860 de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 41, superficie 77 m², rol de avalúo Nº 1406-3, comuna de Antofagasta, para la obra "Mejoramiento Av. Salvador Allende, Tramo Avda. Sarmiento - Av. Costanera, Comuna de Antofagasta, Provincia de Antofagasta, II Región, Sector Avda. Sarmiento - Calle Cardenal Oviedo Cavada", II Región y se acordó el valor de la indemnización con su propietaria Elsa Aurora Pacheco Elgueta, ascendente a la cantidad de $10.701.618.
+
+- Fiscal del Ministerio de Obras Públicas.
