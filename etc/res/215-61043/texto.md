@@ -1,0 +1,3 @@
+Por Resolución Nº 215, de 31 de enero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 91001131, presentada por JOSE FRUCTUOSO HERMIDA GOMEZ, para un centro de cultivo ubicado en Punta Pillul, Estero Castro, Comuna de Castro, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67, inciso 5º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 31 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
