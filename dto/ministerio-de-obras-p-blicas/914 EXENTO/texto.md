@@ -1,0 +1,5 @@
+Por decreto exento M.O.P. Nº 914, de 29 de junio de 2001 y en base a la facultad otorgada por el arttículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron para la Empresa Metropolitana de Obras Sanitarias S.A., los lotes de terreno Nºs. 17, 18 y 18-A, para la obra Mejoramiento del Servicio de Alcantarillado El Monte-Lo Chacón-El Paico, que figuran a nombre de Mercedes Gallardo Leiva y otras; Antonio González Olbaneja y Ot. y Horacio Gallardo Maulén roles de avalúos 258-10, 258-24 y 258-41, comuna de El Monte, Región Metropolitana, superficies 393, 340 y 70 m2., respectivamente. La Comisión de Peritos fijó con fecha 16 de marzo de 2001, el valor provisional de la indemnización en la cantidad de $2.695.600, lote Nº 17;
+
+$2.190.000, lote 18 y $601.000, lote 18-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
