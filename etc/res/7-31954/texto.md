@@ -1,0 +1,3 @@
+Por Resolución N° 7 de 15 de Septiembre de 1993, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones IX Región, se adjudicó a don Jorge Abraham Arellano Díaz, la concesión para operar, por un plazo de cinco años a contar de la publicación del presente extracto, un establecimiento ubicado en calle Avda. Pedro de Oña N° 076, de la Comuna de Angol, destinado a la revisión técnica y verificación de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Humberto Ivor Fierro Bustos, Secretario Regional Ministerial de Transportes y Telecomunicaciones IX Región.
