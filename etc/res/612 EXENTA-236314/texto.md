@@ -1,0 +1,3 @@
+Por resolución exenta Nº 612, de 2 de marzo de 2005, de esta Subsecretaría, autorízase a YADRAN QUELLON S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Quellón Viejo Rural, Chiloé, X Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado, Seco Salado, Ahumado, Conserva y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 2 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
