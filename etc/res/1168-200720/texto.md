@@ -1,0 +1,3 @@
+Por resolución número 1.168, de 11 de junio de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector El Bronce, Sector C, III Región, individualizada en el artículo 1º Nº 1 del D.S. Nº 521 de 2000, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, RECOLECTORES Y COMERCIALIZADORES DE ALGAS CALETA LOS BRONCES, PROVINCIA DE HUASCO.
+
+Valparaíso, 11 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
