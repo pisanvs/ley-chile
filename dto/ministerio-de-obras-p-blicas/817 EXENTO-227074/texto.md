@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 817 de fecha 31 de mayo del 2004, se expropió el lote de terreno N°2, superficie 528 m2, Rol N° 412-008, comuna de Buín, Región Metropolitana, para la obra "Construcción Puente Valdivia de Paine, sector accesos al Puente Valdivia de Paine" y se acordó el valor de indemnización con su propietario Francisco Parada Quezada, ascendente a la cantidad de $1.607.764.-
+
+Fiscal del Ministerio de Obras Públicas.
