@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.179 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 82-A, superficie 93,00 m², rol de avalúo Nº 62-38, comuna de Lampa, para la obra "Camino Ruta G-16, Sector Lampa - Polpaico, tramo Km. 19,72359 a Km. 34,51667", comunas de Lampa y Til-Til, provincia de Chacabuco", Región Metropolitana y se acordó el valor de la indemnización con su propietario Jorge Rubén Torres Olivares, ascendente a la cantidad de $732.555.-
+
+Fiscal del Ministerio de Obras Públicas.
