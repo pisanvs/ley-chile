@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 666 de 30 de abril de 2004, se expropió el lote de terreno Nº 63-A, superficie 298 m2, rol de Avalúo 334-12, comuna de Laja, para la obra "Camino Ruta Q-34, Candelaria - La Laja, Sector Millantú - La Laja, Km. 20,00000 a Km. 35,88380", VIII Región y se acordó el valor de la indemnización con su propietaria María Patricia Elizabeth Enríquez Mardones, ascendente a la cantidad de $412.287.
+
+Fiscal del Ministerio de Obras Públicas.
