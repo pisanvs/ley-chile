@@ -1,0 +1,3 @@
+Por decreto MOP Nº521, de 28 de febrero del 2000, se expropió el lote de terreno Nº456, superficie 119 m², rol de avalúo 7798-14, comuna de La Pintana, para la obra Concesión Internacional Ruta 5, Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario René Antonio Marchant Albornoz, ascendente a la cantidad de $8.568.290.-
+
+Fiscal del Ministerio de Obras Públicas.
