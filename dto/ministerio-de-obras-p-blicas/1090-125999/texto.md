@@ -1,0 +1,5 @@
+Por decreto MOP. No.1.090, de 30 de julio de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL. MOP. No.850, de 1997, que fijó el texto actualizado de la ley No.15.840 y del DFL. MOP.
+
+No.206, de 1960, se expropió el lote de terreno No.113, para la obra Camino Ruta 5 Norte. Tramo Santiago - Los Vilos, Km. 101.000,00 al 103.815,00, Quinta Región, que figura a nombre de Maluendas Marcelaino de Jesús, rol de avalúo 22.9, comuna de Hijuelas, superficie 779 m2. la comisión de peritos integrada por los señores Orlando Antonio Fariña Vásquez, Luis Humberto Toledo Fuenzalida y Tommy Cederic Butler Bustamante, fijó con fecha 28 de febrero de 1998, el valor provisional de la indemnización en la cantidad de $ 3.072.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley No.2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
