@@ -9834,55 +9834,69 @@ d) que tales boletas no comprometan, por lo tanto, en forma alguna, la responsab
 
 Sólo si se cumplen esos requisitos podrá entenderse que la emisión de la boleta de garantía no representa obligación alguna, directa o indirecta del banco y, por lo tanto, su importe no se computará para los márgenes legales y reglamentarios, debiendo en todo caso registrarse en cuentas de orden para efectos de control.
 
-CAPITULO 8-12 (Bancos y Financieras)
+CAPITULO 8-12 (Bancos)
 
 MATERIA:
 
-CARTAS DE GARANTIA INTERBANCARIAS. MOVILIDAD DE GARANTIAS.
+CARTAS DE GARANTIA Y CARTAS DE RESGUARDO INTERFINANCIERAS. MOVILIDAD DE GARANTIAS.
 
-1.- Generalidades.
+I.- GENERALIDADES.
 
-La carta de garantía interbancaria es un documento que, como una variante de la boleta bancaria de garantía, se reconoce como un instrumento válido para caucionar obligaciones que un deudor tenga en una institución financiera distinta de aquella que la otorga.
+Las instituciones bancarias pueden emitir los documentos de que trata este Capítulo, para las finalidades que se señalan más adelante, indistintamente a favor de otras entidades bancarias o de las sociedades filiales de bancos.
 
-2.- Aplicaciones.
+### 1. Cartas de Garantía
 
-La aplicación de este instrumento estará limitada a las dos siguientes finalidades específicas:
+La carta de garantía interfinanciera es un documento que, como una variante de la boleta bancaria de garantía, se reconoce como un instrumento válido para caucionar obligaciones que un deudor tenga en una institución financiera distinta de aquella que la otorga.
 
-a) Servir de garantía del cumplimiento de una obligación asumida por un cliente en otra institución financiera. Para este efecto, el banco emisor deberá contar con la provisión de fondos correspondiente o bien otorgar un crédito que le permita cumplir con la garantía otorgada. La aplicación más frecuente en estos casos, será aquella que ha motivado el uso de la carta de resguardo a que se refiere el Capítulo 9-5 de esta Recopilación, esto es la asunción por parte de un banco de la obligación de pagar una suma de dinero a otra institución financiera, cuando éste se ha allanado a alzar una hipoteca o una prohibición que garantice cualquier obligación de que sea titular. En este caso el banco pagador, emisor de la carta de garantía, se compromete a pagar cuando se haya inscrito una hipoteca o prohibición a su favor. El otorgamiento de esta carta de garantía no irroga la obligación del banco de contabilizarla como un crédito al cliente. Una vez emitida, compromete pura y simplemente al emisor frente a la institución beneficiaria, independientemente de las relaciones que aquél tenga con el solicitante.
+### 2. Cartas de Resguardo
 
-b) Garantizar a otro banco la obligación de un cliente que le ha otorgado garantías reales. Ej. Un cliente del Banco A ha constituido hipoteca a su favor sobre una propiedad que está tasada en $ 100.000.000 y le ha otorgado una línea de crédito de $ 25.000.000. El cliente quiere obtener otro crédito en el Banco B pero no dispone de otra garantía.
+Las cartas de resguardo se dan, por lo general, para efectos de alzamiento de gravámenes, ya sea que se trate de hipotecas o de prendas, o bien que tengan su origen en un mandato de comisiones de confianza. No están afectas a la prohibición contenida en el N° 6 del artículo 84 de la Ley General de Bancos, siempre que el emisor de dicho instrumento cuente con la provisión de fondos o que otorgue un crédito que permita cumplir lo prometido.
 
-Le pide entonces al Banco A que le otorgue una carta de garantía interbancaria por $ 20.000.000 a favor del Banco B, amparada en la hipoteca que tiene constituida en el primero de ellos.
+II.- CARTAS DE GARANTÍA INTERFINANCIERAS.
 
-Este sistema de carta de garantía interbancaria no es diferente de aquél de la boleta bancaria de garantía, pero existirá una condición o plazo, que hará exigible el documento. Al cumplirse dicho plazo o condición, el banco emisor deberá pagar la obligación asumida, de inmediato y sin más trámite.
+La aplicación de este instrumento estará limitada a garantizar a otra entidad financiera la obligación que un cliente mantenga con ella.
 
-3.- Moneda y reajustabilidad.
+### 1. Aplicaciones
 
-Las cartas de garantía a que se refieren las letras a) y b) del N° 2 precedente, pueden expresarse solamente en moneda chilena sin cláusula de reajustabilidad o reajustables sobre la base de algunos de los sistemas autorizados por el Banco Central de Chile en su Compendio de Normas Financieras.
+Las entidades financieras podrán emitir estas cartas de garantía, sea que se encuentren respaldadas o no con garantías reales o personales del cliente por cuenta de quien son emitidas.
 
-4.- Menciones mínimas que debe contener.
+En las cartas de garantía interfinancieras a que se refiere este N° 1 deberá establecerse una condición o plazo, que indicará la oportunidad en que se hará exigible el documento por parte del acreedor a cuyo favor se extienda Al cumplirse dicho plazo o condición, el emisor deberá pagar la obligación asumida, de inmediato y sin más trámite.
 
-Las cartas de garantía interbancarias deberán contener como mínimo las siguientes menciones:
+2.- Moneda y reajustabilidad.
+
+Las cartas de garantía pueden expresarse en moneda chilena sin cláusula de reajustabilidad o reajustables sobre la base de algunos de los sistemas autorizados por el Banco Central de Chile en su Compendio de Normas Financieras o en moneda extranjera cuando se trate de garantizar una obligación en esa moneda.
+
+3.- Menciones mínimas que debe contener.
+
+Las cartas de garantía interfinancieras deberán contener como mínimo las siguientes menciones:
 
 - Nombre del deudor cuyos créditos se caucionan.
 
-- Monto garantizado.
+- Tipo y monto de créditos garantizados.
 
 - Plazo de vigencia de la garantía o condiciones a que se sujeta.
 
-Sin perjuicio de lo anterior, las instituciones bancarias podrán agregar la información adicional que estimen conveniente respecto de las condiciones de estas garantías.
+Sin perjuicio de lo anterior, las instituciones financieras podrán agregar la información adicional que estimen conveniente respecto de las condiciones de estas garantías.
 
-5.- Aplicación de límites o márgenes legales o reglamentarios.
+4.- Aplicación de límites o márgenes legales o reglamentarios.
 
-Los créditos contingentes que se originen por la emisión de cartas de garantía interbancarias a que se refiere la letra b) del N° 2 de este Capítulo, se computarán del mismo modo que aquellos que se otorgan para emitir las boletas de garantía a que se refiere el Capítulo 8-11 de esta Recopilación, para los efectos de las siguientes disposiciones:
+Los créditos contingentes que se originen por la emisión de cartas de garantía interfinancieras a que se refiere el N° 1 de este Título, se computarán del mismo modo que aquellos que se otorgan para emitir las boletas de garantía de que trata el Capítulo 8-11 de esta Recopilación, para los efectos de las siguientes disposiciones:
 
-a) Márgenes de crédito del artículo 84 de la Ley General de Bancos; y,
+a) Márgenes de crédito del artículo 84 de la Ley General de Bancos, y,
 
 b) Ponderación por riesgo de los activos, según el artículo 67 de la misma ley y lo dispuesto en el Capítulo 12-1 de esta Recopilación.
 
-6.- Instrucciones contables.
+5.- Instrucciones contables.
 
-Las cartas de garantía interbancarias emitidas, referidas en la letra b) del N° 2 anterior, se registrarán en las cuentas "Garantías interbancarias otorgadas" de las partidas 1605 y 3605, cualquiera sea su plazo y mientras tengan el carácter de operaciones contingentes.
+Las cartas de garantía interfinancieras emitidas, referidas en el N° 1 anterior, se registrarán en las cuentas "Garantías interfinancieras otorgadas" de las partidas 1605 y 3605, cualquiera sea su plazo y mientras tengan el carácter de operaciones contingentes.
+
+III.- CARTAS DE RESGUARDO.
+
+Las cartas de resguardo que emitan las instituciones financieras para el alzamiento de gravámenes, ya sea que se trate de hipotecas o de prendas, o bien tengan su origen en un mandato de comisiones de confianza, siempre que el emisor de dicho instrumento cuente con la provisión de fondos o que otorgue un crédito que permita cumplir lo prometido, no están afectas a la prohibición contenida en el N° 6 del artículo 84 de la Ley General de Bancos.
+
+En efecto, si se trata, por ejemplo, de la compraventa de un inmueble, en la que sea necesario que el banco otorgante del crédito comprometa su responsabilidad en beneficio de su cliente para que otra institución alce un gravamen que afecte al inmueble e impida perfeccionar la operación, no existe inconveniente para que pueda extender el documento de compromiso, toda vez que se trata de un acto indispensable para realizar la operación y que está aceptado por los usos normales, siendo similar a otro que es tradicional en nuestro medio, esto es, los "libros de instrucciones" de las notarías, que están fundados en la confianza más que en una estricta legalidad.
+
+Cualquier otro tipo de "carta de resguardo" que no reúna las características precedentemente indicadas, como es el caso de aquellas que extendían algunas instituciones financieras en que certificaban la concesión de un determinado crédito o se comprometían a pagar determinados bienes y obligaciones por cuenta de sus clientes con cargo a créditos que les cursarían al efecto, están prohibidas por el artículo 84 N° 6 citado y, a mayor abundamiento, están viciadas de nulidad.
 
 CAPITULO 8-13. Derogado.
 
@@ -14379,18 +14393,6 @@ ANEXO N° 11
 INDICE DE CODIGOS DE TABLAS DE DESARROLLO DE LETRAS DE CREDITO
 
 .
-
-CAPITULO 9-5 (Bancos y Financieras)
-
-MATERIA:
-
-CARTAS DE RESGUARDO EMITIDAS POR LAS INSTITUCIONES FINANCIERAS. SU VALIDEZ.
-
-Las cartas de resguardo que se dan para efectos del alzamiento de gravámenes, ya sea que se trate de hipotecas o de prendas, o bien, que tengan su origen en un mandato de comisiones de confianza, siempre que el emisor de dicho instrumento cuente con la provisión de fondos o que otorgue un crédito que permita cumplir lo prometido, no están afectas a la prohibición contenida en el N° 6 del artículo 84 de la Ley General de Bancos.
-
-En efecto, si se trata, por ejemplo, de la compraventa de un inmueble, en la que sea necesario que el banco otorgante del crédito comprometa su responsabilidad en beneficio de su cliente para que otra institución alce un gravamen que afecte al inmueble e impida perfeccionar la operación, no existe inconveniente para que pueda extender el documento de compromiso, toda vez que se trata de un acto indispensable para realizar la operación y que está aceptado por los usos normales, siendo similar a otro que es tradicional en nuestro medio, esto es, los "libros de instrucciones" de las notarías, que están fundados en la confianza más que en una estricta legalidad.
-
-Cualquier otro tipo de "carta de resguardo" que no reúna las características precedentemente indicadas, como es el caso de aquellas que extendían algunas instituciones financieras en que certificaban la concesión de un determinado crédito o se comprometían a pagar determinados bienes y obligaciones por cuenta de sus clientes con cargo a créditos que les cursarían al efecto, están prohibidas por el artículo 84 N° 6 citado y, a mayor abundamiento, están viciadas de nulidad.
 
 CAPITULO 9-6 (Bancos y Financieras)
 
