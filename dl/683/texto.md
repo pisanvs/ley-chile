@@ -1,0 +1,22517 @@
+FIJA UBICACION EN LA ESCALA UNICA DE LOS TRABAJADORES DE LAS MUNICIPALIDADES QUE SEÑALA
+
+Núm. 683.- Santiago, 1.o de Octubre de 1974.- Vistos: lo dispuesto en los decretos leyes N.os 1 y 128, de 1973, y 527, de 1974, y en el artículo 13.o del decreto ley N.o 249, de 1974,
+
+la Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Achao, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Grado
+
+Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Alcalde 1° 17°
+
+Planta Administrativa
+
+Secretario Municipal y de
+
+Alcaldía 10 20°
+
+Inspector Municipal de
+
+Tránsito y Patentes 11° 23°
+
+Planta Obreros
+
+Portero 9° 30°
+
+Chofer 10° 27°
+
+El o los cargos de Inspector Municipal de Tránsito y Patentes grado 23° se convertirán en grado 24° a medida que vayan quedando vacantes.
+
+El o los cargos de Portero grado 30 se convertirán en grado 35° a medida que vayan quedando vacantes.
+
+El o los cargos de Chofer grado 27° se convertirán en grado 30° a medida que vayan quedando vacantes.
+
+MUNICIPALIDAD DE ALGARROBO
+
+#### Artículo 2°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Algarrobo de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+-------------------------------------------------------
+
+Gdo. Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 1° 12°
+
+Abogado, Juez de Policía
+
+Local 1° 13°
+
+Arquitecto, Director de
+
+Obras Municip. 1° 14°
+
+Abogado Defensa Municipal 2° 15°
+
+Secretario Municipal y de
+
+la Alcaldía y Jefe de todo
+
+el Personal 2° 14°
+
+Director del Tránsito e
+
+Inspector,
+
+Jefe de Dirección Obras
+
+Municipales,
+
+Patentes Comerciales,
+
+Industriales,
+
+Profesionales y Artes
+
+y de Alcoholes 2° 15°
+
+Director de Aseo, Parques
+
+y Jardines
+
+e Inspección del Matadero 3° 16°
+
+Médico Gabinete Psicotécnico Ley 15.076
+
+Secretario Juez Policía Local,
+
+Bibliotecaria y Habilitada 6° 19°
+
+Planta Administrativa
+
+Oficial de Partes 9° 23°
+
+Actuario Juez Policía Local
+
+e Inspección Direc. Obras
+
+Municipales 9° 23°
+
+Oficial de Secretaría
+
+Municipal 10° 25°
+
+Choferes
+
+Choferes 6° 25°
+
+Chofer 7° 27°
+
+Chofer 9° 29°
+
+Chofer 10° 31°
+
+Planta Electricistas y
+
+Especializados
+
+Mecánico Electricista 6° 25°
+
+Jardinero 7° 27°
+
+Planta de Servicios Menores
+
+Portero 6° 27°
+
+Planta de Obreros
+
+Obreros 6° 28°
+
+Obreros 7° 31°
+
+El o los cargos de Arquitecto, Director de Obras Municipales grado 14° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Abogado Defensa Municipal grado 15° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Secretario Municipal y de la Alcaldía y Jefe de todo el Personal grado 14° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Jefe de Dirección de Obras Municipales, Patentes Comerciales, Industriales, Profesionales y Artes y de Alcoholes grado 15° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Choferes grado 6°, grado 25° se convertirán en grado 26 al quedar vacantes.
+
+El o los grados de Chofer grado 7°, grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Chofer grado 9°, grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Chofer grado 10°, grado 31° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Mecánico Electricista grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Jardinero grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE ALHUE
+
+#### Artículo 3°
+
+Fíjase a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Alhué, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974 la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Gdo. Escala Gdo. Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 4° 17°
+
+Administrativos
+
+Secretario Municipal 4° 20°
+
+Chofer Microbús 7° 27°
+
+Obreros Sin Calificación
+
+Obrero 4° 28°
+
+Obrero 6° 31°
+
+El o los cargos de Chofer Microbús de grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de obrero grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE ANCUD
+
+#### Artículo 4°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Ancud, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 9
+
+Secretario Municipal 6a Cat. 12
+
+Juez de Policía Local 6a Cat. 10
+
+Secretario Juzgado P. Local Gr. 3° 19
+
+Jefe Rentas y Patentes Gr. 4° 14
+
+Administrador Matadero Gr. 7° 13
+
+Secretario de la Alcaldía Gr. 8° 15
+
+Director de Obras Gr. 8° 12
+
+Director del Tránsito Gr. 8° 14
+
+Médico Gabinete Psicotécnico Gr. 12° Ley 15.076
+
+Planta Administrativa
+
+Secretario Dirección de Obras Gr. 8° 21
+
+Inspector Dirección de Obras Gr. 8° 21
+
+Ayudante Secretario Municipal Gr. 8° 21
+
+Inspector Calles y Alumbrado Gr. 9° 23
+
+Inspector Matadero y Mercado Gr. 9° 23
+
+Oficiales Administrativos Gr. 10° 27
+
+Chofer Gr. 14° 27
+
+Servicios Menores
+
+Portero Gr. 10° 27
+
+Ordenanza Gr. 12° 29
+
+Portero Gr. 14° 31
+
+Planta de Obreros
+
+Obreros Gr. 1° 25
+
+Obreros Gr. 2° 26
+
+Obreros Gr. 3° 27
+
+Obreros Gr. 4° 28
+
+Obreros Gr. 5° 29
+
+Obreros Gr. 6° 30
+
+Obreros Gr. 7° 31
+
+Obreros Gr. 8° 32
+
+Obreros Gr. 10° 33
+
+El o los cargos de Administrador Matadero de grado 13° se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de obreros de grado 1°, gr. 2°, gr. 3°, gr. 4°, asimilados a los grados 25, 26, 27 y 28, de la Escala Unica, respectivamente, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obreros de grado 33, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE ANDACOLLO
+
+#### Artículo 5°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Andacollo, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249 de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Gr. Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Alcalde 14
+
+Planta Directiva
+
+Secretario Municipal y
+
+de Alcaldia Gr. 7° 17
+
+Planta Administrativa
+
+Inspector Municipal Gr. 8° 21
+
+Inspector de Obras Gr. 10° 24
+
+Inspector de Tránsito Gr. 11° 27
+
+Personal Especializado
+
+Chofer Gr. 6° 27
+
+Matarife Gr. 6° 27
+
+Chofer Gr. 8° 29
+
+Matarife Gr. 8° 29
+
+Portero Gr. 6° 27
+
+Jardinero Gr. 8° 31
+
+Obreros
+
+Obreros Aseo Gr. 8° 32
+
+El o los cargos del Inspector Municipal de grado 21°, se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Chofer gr. 29, Matarife gr. 29, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Portero gr. 27, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Jardinero gr. 31° se convertirán en grado 35, al quedar vacantes.
+
+El o los cargos de Obreros, Aseo de Grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE ANGOL
+
+#### Artículo 6°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Angol, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Gdo. Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 7
+
+Planta General de Empleados
+
+Secretario Municipal y Alcaldía Gr. 6° 9
+
+Juez Policía Local Gr. 6° 8
+
+Director de Obras Municipales Gr. 6° 10
+
+Director de Tránsito Gr. 13° 12
+
+Inspector de Matadero y Servicio Gr. 15° 20
+
+Oficial de Secretaría Gr. 15° 21
+
+Inspector de Servicios Gr. 14° 19
+
+Inspector de Patentes Gr. 14° 19
+
+Secretario Jdo. Policía Local Gr. 13° 19
+
+Inspector de Servicios Gr. 15° 21
+
+Inspector de Servicios Gr. 20° 27
+
+Inspector de Tránsito Gr. 20° 27
+
+Habilitada Gr. 20° 25
+
+Médico Gabinete Psicotécnico Ley 15.076
+
+Planta General del Personal de Obreros
+
+Personal Especializado
+
+Chofer Mecánico Gr. 8° 25
+
+Choferes Gr. 6° 25
+
+Choferes Gr. 7° 28
+
+Carpintero (Mayordomo de Obras) Gr. 6° 25
+
+Carpinteros Gr. 7° 29
+
+Jardineros Gr. 7° 28
+
+Jardineros Gr. 8° 30
+
+Mecánico Gr. 5° 25
+
+Gásfiter Gr. 10° 30
+
+Bibliotecaria Gr. 8° 23
+
+Tractorista Gr. 8° 28
+
+Personal sin Especialización
+
+Jornaleros Gr. 6° 28
+
+Jornaleros Gr. 7° 29
+
+Jornaleros Gr. 8° 30
+
+Jornaleros Gr. 10° 32
+
+Auxiliar Gr. 7° 29
+
+El cargo de Alcalde de grado 7° se convertirá en grado 8° al quedar vacante.
+
+El o los cargos de Secretario Municipal y Alcaldía de grado 9, se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Juez de Policía Local de grado 8°, se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Director de Tránsito de grado 12, se convertirán en grado 13, al quedar vacantes.
+
+El o los cargos de Director de Obras Municipales de grado 10, se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Inspector de Matadero y Servicio de grado 20, se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Oficial de Secretaría de grado 21 se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Inspector de Servicios de gr. 19, Inspector de Patentes gr. 19, se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Inspector de Servicios de grado 21, se convertirán en grado 23, al quedar vacantes.
+
+El o los cargos de Chofer Mecánico de grado 25°, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Choferes de grado 25, se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Choferes de grado 28, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Carpintero (Mayordomo de Obras) de grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Bibliotecaria de grado 23 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Tractorista de gr. 28 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Jornaleros de grado 30, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Jornaleros de grado 32, se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Auxiliar de grado 29, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE ANTOFAGASTA
+
+#### Artículo 7°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Antofagasta, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Gr. Escala Grado
+
+Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 1a Cat. 5
+
+Juez del Primer y Segundo
+
+Juzgado de Policía Local 1a Cat. 6
+
+Directores de Secretaría Alcaldía 1a Cat. 8
+
+Director Tránsito 1a Cat. 9
+
+Director Aseo y Jardines 1a Cat. 9
+
+Director Rentas e Inspección 1a Cat. 9
+
+Director Obras y Asesor
+
+Urbanista (Arquitecto) 1a Cat. 8
+
+Director Contabilidad y Control
+
+(contador) 1a Cat. 8
+
+Director de Fiscalía y
+
+Secretario (Abogado) 1a Cat. 7
+
+Sub-Director Asesor
+
+Urbanista (arquitecto) 2a Cat. 10
+
+Secretario del Primer y Segundo
+
+Juzgado de Policía Local (Abogado) 3a Cat. 10
+
+Director del Matadero y
+
+Subsistencias (Médico Veterinario) Gr. 2° 9
+
+Sub-Director y Coordinador
+
+de Secret. Alcaldía Gr. 2° 13
+
+Sub-Director Rentas e Inspección Gr. 2° 13
+
+Sub-Director Aseo y Jardines Gr. 2° 13
+
+Sub-Director Secret. Munic. Gr. 2° 13
+
+Jefe Depto Aprovisionamiento Gr. 2° 15
+
+Sub-Director Analista (Contador) Gr. 3° 13
+
+Sub-Director Tránsito Gr. 3° 13
+
+Jefe Depto. Bienestar (Asist. Soc) Gr. 3° 15
+
+Jefe Depto. Personal (Téc.Ad.Pub.) Gr. 3° 15
+
+Jefe Depto. Parques y Jardines Gr. 3° 16
+
+Jefe Depto. Rentas Gr. 3° 16
+
+Jefe Sección Topografía y
+
+Catastro (Topógrafo) Gr. 3° 17
+
+Jefe Sección Redacción y Decretos Gr. 3° 19
+
+Jefe Depto. de Aseo Gr. 4° 16
+
+Jefe Sección Inspección y Control Gr. 4° 17
+
+Jefe Sección Edificación Gr. 4° 17
+
+Jefe Sección Mercados y Ferias Gr. 4° 18
+
+Jefe Sección Mantención
+
+de Vehículos Gr. 4° 21
+
+Jefe Sección Cultura Gr. 4° 19
+
+Jefe Sección Inspección Gr. 5° 19
+
+Jefe Sección Recaudación Gr. 5° 19
+
+Jefe Sección Talleres y
+
+Mantención Gr. 5° 23
+
+Jefe Secretaría de Juzgado Gr. 5° 20
+
+Jefe Sección Administración Gr. 5° 20
+
+Jefe Sección Urbanización Gr. 5° 20
+
+Médico Psicotécnico Gr. 6° Ley 15.076
+
+Jefe Sección Planta
+
+Procesadora de Basuras Gr. 6° 20
+
+Jefe Sala de Actuarios Gr. 7° 19
+
+Jefe Sección Dibujo y Archivo Gr. 7° 21
+
+Jefe Sección Licencias Gr. 7° 21
+
+Jefe Sección Patentes
+
+de Vehículos Gr. 7° 21
+
+Jefe Sección de Remuneraciones Gr. 7° 21
+
+Jefe Sección Planificación Urbana Gr. 8° 21
+
+Jefe Sección Plantas Faenadoras
+
+y control carnes Gr. 8° 21
+
+Topógrafo 8° 19
+
+Dibujante Técnico 8° 19
+
+Jefe Sección Biblioteca
+
+(Bibliotecólogo) 11° 18
+
+Planta Administrativa.
+
+Inspector de Rentas 6° 19
+
+Actuario 1° 6° 19
+
+Oficial de Partes e Informaciones 6° 19
+
+Oficial de Contabilidad 6° 19
+
+Actuario 2° 6° 19
+
+Inspector de Rentas 7° 21
+
+Inspector de Obras 7° 21
+
+Oficial de Control del Personal 8° 23
+
+Inspectores de Tránsito 8° 23
+
+Secretarios 8° 23
+
+Sub-Jefe de Mantenimiento 9° 25
+
+Receptor 9° 25
+
+Inspector de Aseo 9° 24
+
+Planilleros 9° 25
+
+Dactilógrafos 9° 25
+
+Inspector de Mercados y Ferias 10° 25
+
+Clasificador de Patentes 10° 26
+
+Oficial 1° de Partes 10° 26
+
+Secretario de Fiscalía 10° 26
+
+Dactilógrafo 10° 26
+
+Inspector Delegado Pedro de Valdivia 11° 26
+
+Oficial Administrativo 11° 27
+
+Cajeros 11° 27
+
+Dactilógrafos 11° 27
+
+Inspector de Tránsito 12° 27
+
+Cargo
+
+Sub-Administrador Estadios y Baños 12° 27
+
+Oficiales Administrativos 12° 29
+
+Ayudante Administrativo 12° 29
+
+Ayudante Administrativo (Obrero) 3° 25
+
+Ayudante Administrativo (Obrero) 4° 26
+
+Sub-Administrador Terminal de
+
+Buses (Obrero) 5° 27
+
+Planta de Empleados Especializados.
+
+Electricista 6° 26
+
+Chofer 8° 26
+
+Electristas 9° 28
+
+Choferes 9° 27
+
+Mecánico 10° 27
+
+Choferes 10° 28
+
+Choferes 11° 29
+
+Chofer 12° 30
+
+Choferes (Obrero) 1° 25
+
+Maquinista (Obrero) 1° 25
+
+Electricista (Obrero) 2° 25
+
+Choferes (Obrero) 2° 25
+
+Mecánicos (Obrero) 3° 26
+
+Choferes (Obrero) 3° 26
+
+Maquinista (Obrero) 4° 26
+
+Choferes (Obrero) 4° 26
+
+Choferes (Obrero) 5° 27
+
+Planta de Servicios Menores
+
+Auxiliares 9° 31
+
+Auxiliares 10° 32
+
+Ordenanzas (Obrero) 3° 27
+
+Ordenanzas (Obrero) 4° 29
+
+Planta de Obreros Calificados.
+
+Capataces 1° 25
+
+Capataces 2° 26
+
+Capataz 3° 27
+
+Capataz 4° 29
+
+Herrero 1° 25
+
+Herrero 2° 26
+
+Ayudante de Herreros 3° 27
+
+Ayudante de Herrero 4° 29
+
+Carpintero 1° 25
+
+Carpintero 2° 26
+
+Carpintero 3° 27
+
+Carpinteros 4° 29
+
+Carpintero 5° 31
+
+Bodegueros 2° 26
+
+Bodeguero 4° 29
+
+Pañolero 1° 25
+
+Perforista 2° 26
+
+Perforista 3° 27
+
+Pintores 2° 26
+
+Pintor 4° 29
+
+Fogonero 2° 26
+
+Motorista 2° 26
+
+Motorista 3° 27
+
+Motorista 4° 29
+
+Maestros Jardineros 2° 26
+
+Maestros Jardineros 3° 27
+
+Maestros Jardineros 4° 29
+
+Gásfiter 2° 26
+
+Gásfiter 3° 27
+
+Gásfiter 5° 31
+
+Albañiles 2° 26
+
+Albañiles 4° 29
+
+Albañiles 5° 31
+
+Matarifes Jefes de Cuadrilla 3° 27
+
+Matarifes 3° 27
+
+Matarife 4° 29
+
+Matarifes 5° 31
+
+Soldadores 4° 29
+
+Botero 5° 31
+
+Planta de Obreros no Calificados.
+
+Sereno 1° 25
+
+Sereno 2° 27
+
+Serenos 3° 28
+
+Serenos 4° 30
+
+Serenos 5° 32
+
+Maestros de Vivero 1° 26
+
+Encargados 2° 27
+
+Engargados 3° 28
+
+Engargado 5° 32
+
+Maestros de Cancha 3° 28
+
+Maestros de Mantenimiento 4° 30
+
+Ayudante Mecánicos 4° 30
+
+Alarifes 3° 28
+
+Obrero Oficios Varios 2° 27
+
+Obreros Oficios Varios 3° 28
+
+Obreros Oficios Varios 4° 30
+
+Obreros Oficios Varios 5° 32
+
+Guatero 4° 30
+
+Guatero 5° 32
+
+Jardineros 4° 30
+
+Jardineros 5° 32
+
+El o los cargos de Director de Secretaría Alcaldía de grado 8°, se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Director Obras y Asesor Urbanista (Arquitecto), de grado 8°, se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Director Contabilidad y Control (Contador) de grado 8°, se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Sub-Director y Coordinador de Secretaría Alcaldía de gr. 13; de Sub-Director Secretaría Municipal de gr. 13, y Sub-Director Analista (Contador) de gr. 13, se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Jefe Depto. Bienestar (Asistente Social) de grado 15, se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Jefe Sección Biblioteca (Bibliotecólogo) de grado 18°, se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Actuario 1° de gr. 19°; de Oficial de Partes e Informaciones de gr. 19, y de Oficial de Contabilidad de gr. 19, se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Actuario 2° de grado 19°, se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Ayudante Administrativo (Obrero) de grado 25°, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Ayudante Administrativo (Obrero) de gr. 26; de Sub-Administrador Terminal de Buses (Obrero) de gr. 27; de Choferes gr.1° (Obrero), de gr. 25°; de Maquinista gr. 1° (Obrero) de gr. 25; y de Choferes gr. 2° (Obreros) de gr. 25, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Mecánicos gr. 3° (Obreros) de gr. 26 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Electricistas de gr. 2° (Obrero) de gr. 25, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Choferes gr. 3° (Obrero) de gr. 26; Maquinista gr. 4° (Obrero) gr. 26; Choferes gr. 4° (Obrero) de gr. 26; se convertirán en grado 32; al quedar vacantes.
+
+El o los Choferes gr. 5° (Obrero) de grado 27, se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Auxiliar gr. 10, de gr. 32; Ordenanzas gr. 4° (Obrero) de gr. 29, se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Ordenanzas gr. 3° (Obrero) de gr. 27, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Herrero gr. 1° de gr. 25° o Pañolero gr. 1° de gr. 25; Pintores gr. 2° de gr. 26°, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Herrero de gr. 2° gr. 26 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Ayudante de Herrero de gr. 27, se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Ayudante de Herrero gr. 4° de grado 29, se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Pintor gr. 4° de grado 29, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Fogonero gr. 2° de grado 26, se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Maestros Jardineros gr. 4° de grado 29, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Matarifes gr. 3° de grado 27, se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Botero de grado 31, se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Serenos gr. 3° de grado 28, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Serenos gr. 4° de grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Serenos gr. 5° de grado 32, se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Encargados gr. 2° de grado 27, se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Encargados gr. 3° de grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Encargado gr. 5° de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Maestro de Cancha de grado 28, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Maestro de Mantenimiento gr. 4° de grado 30, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Ayudante Mecánicos gr. 4° de grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Alarifes grado 3°, de grado 28, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obreros - Oficios Varios gr. 3° de grado 28, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obreros - Oficios Varios grado 4° de grado 30, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros Oficios Varios gr. 5°, de grado 32 se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Guatero gr. 4° de grado 30, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Guatero gr. 5° de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Jardineros gr. 4° de grado 30, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Jardineros gr. 5° de grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE ARAUCO
+
+#### Artículo 8°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Arauco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Alcalde 12° 11°
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Secretario Municipal
+
+y de Alcaldía 12° 13°
+
+Director de Obras Municipales 12° 13°
+
+Juez de Policía Local 12° 12°
+
+Director del Tránsito
+
+Patentes e Inspección 15° 14°
+
+Médico Veterinario 12° 14°
+
+Secretario Jdo. Policía Local 15° 19°
+
+Abogado Defensa Municipal 18° 14°
+
+Planta Administrativa
+
+Inspector 18° 19°
+
+Inspector 20° 23°
+
+Chofer 20° 25°
+
+Servicios Menores
+
+Auxiliar Direc. de Obras 10° 27°
+
+Obreros
+
+a) Especializados
+
+Matarifes 10° 25°
+
+Carpinteros 10° 25°
+
+b) Sin Calificación
+
+Obreros 10° 28°
+
+El cargo de Alcalde grado 11° se convertirá en grado 12° al quedar vacante.
+
+El o los cargos de Secretario Municipal y de Alcaldía grado 13° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Director de Obras Municipales grado 13° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Juez de Policía Local grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Director del Tránsito, Patentes e Inspección grado 14° se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Médico Veterinario grado 14° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Secretario Juzgado Policía Local grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Abogado Defensa Municipal grado 14° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Inspector grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Inspector grado 23° se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de Auxiliar Dirección de Obras grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Matarifes grado 25° se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Carpinteros grado 25 se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros grado 28° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE ARICA
+
+#### Artículo 9°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Arica, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Escalafón de Directivos y Jefes
+
+de Oficina.
+
+Alcalde 1a Cat. 5°
+
+Contador Jefe Rentas,
+
+Control y Presupuestos 1a Cat. 9°
+
+Abogado Jefe Defensa Municipal 1a Cat. 9°
+
+Administrador Veterinario
+
+del Matadero Municipal 1a Cat. 11°
+
+Arquitecto Director de
+
+Obras Municip. 1a Cat. 8°
+
+Arquitecto Asesor Urbanista 1a Cat. 9°
+
+Juez de Polícia Local 1a Cat. 6°
+
+Secretario Abogado del
+
+Juzgado Polícia Local 2a Cat. 10°
+
+Secretario Municipal y
+
+de Alcaldía 3a Cat. 7°
+
+Director Tránsito Municipal 3a Cat. 9°
+
+Contador Jefe del Sub Depto.
+
+de Rentas 1° 14°
+
+Jefe de Servicio, de Aseo
+
+y Jardines 1° 9°
+
+Escalafón de Profesionales
+
+Constructores Civiles 2a Cat. 13°
+
+Contador de la Empresa
+
+Municipal de Teléfonos 2a Cat. 18°
+
+Arquitecto Sub-Director
+
+de Obras 2a Cat. 11°
+
+Asistente Social 3a Cat. 15°
+
+Periodista - Relacionador
+
+Público 2° 17°
+
+Jefe Psicotécnico y Médico
+
+del Personal 4° Ley 15.076
+
+Practicante. 8° 23°
+
+Escalafón de Técnicos
+
+Dibujantes Técnicos 1° 19°
+
+Técnico de Mantención
+
+del Matadero Municipal 2° 20°
+
+Planta de Administrativos
+
+Administrador de la E.M.T. 1° 18°
+
+Subsecretario Municipal
+
+y Jefe del Personal 1° 17°
+
+Habilitado del Personal 1° 19°
+
+Sub-Jefe de Tránsito 1° 19°
+
+Jefe Oficinas de Inspecciones 1° 19°
+
+Oficial 1° Jdo. Policía Local 1° 19°
+
+Oficial de Patentes 2° 20°
+
+Inspector de Obras 2° 20°
+
+Sub-Jefe Administrador del Matadero 3° 21°
+
+Oficial Administrativo 3° 21°
+
+Oficial de Aprovisionamiento E.M.T. 3° 21°
+
+Jefe de Operadoras 3° 21°
+
+Oficial de la Oficina Turismo 4° 22°
+
+Inspector de Obras Municipales 4° 22°
+
+Oficial Administrativo 4° 22°
+
+Inspector 4° 22°
+
+Oficial 2° Jdo. Policía Local 4° 22°
+
+Oficial de Patentes 5° 23°
+
+Inspector de Obras Municipales 5° 23°
+
+Inspector 5° 23°
+
+Jefe Oficina de Juntas Vecinales 5° 19°
+
+Secretaria de la Administración 5° 23°
+
+Jefe de Patentes 6° 24°
+
+Jefes Ferias y Mercados y
+
+Administrador
+
+Mercados Colón y Tucapel 6° 24°
+
+Inspector 6° 24°
+
+Oficial Administrativo 6° 24°
+
+Jefe de Contabilidad y Estadística 6° 24°
+
+Oficial de Redacción 7° 25°
+
+Oficial de Egresos 7° 25°
+
+Oficial Control de Abonados 7° 25°
+
+Oficiales de Tráfico e Ingresos 7° 25°
+
+Oficial de Patentes 8° 26°
+
+Oficial Administrativo 8° 26°
+
+Oficial de Importaciones 8° 26°
+
+Oficial de Tráfico e Ingresos 8° 26°
+
+Oficial Girador 9° 27°
+
+Administrador Mercado Central 9° 27°
+
+Inspector 9° 27°
+
+Sub Jefe Servicio Aseo y Jardines 9° 27°
+
+Secretario del Depto. Técnico 9° 27°
+
+Oficial de Tráfico e Ingresos 9° 27°
+
+Oficial de Contabilidad 10° 28°
+
+Oficial de Inventarios 10° 28°
+
+Oficial Administrativo 10° 28°
+
+Recaudador de Ferias 10° 28°
+
+Oficial Administrativo D.O.M. 10° 28°
+
+Oficial de Urbanismo 10° 28°
+
+Auxiliar de Administración 10° 28°
+
+Oficial de Partes e Informaciones 11° 29°
+
+Oficial de Contabilidad 11° 29°
+
+Secretaria Defensa Municipal 11° 29°
+
+Secretario de Tránsito 11° 29°
+
+Oficial de Patentes 11° 29°
+
+Oficial Administrativo 11° 29°
+
+Oficial Psicotécnico y Licencias 11° 29°
+
+Administrador Mercado Benedicto 11° 29°
+
+Oficial de Partes 11° 29°
+
+Oficial de Urbanismo 11° 29°
+
+Oficial de Compras 11° 29°
+
+Oficial de Bodega 11° 29°
+
+Oficial de Secretaría 11° 29°
+
+Oficial de Inventarios y Planillas 11° 29°
+
+Operadoras 11° 29°
+
+Auxiliar de Administración 11° 29°
+
+Auxiliar de Cobranzas 11° 29°
+
+Oficial de Tráfico e Ingresos 11° 29°
+
+Oficial de Informaciones 11° 29°
+
+Escalafón de Funcionarios
+
+Especializados
+
+Jefe Técnico y Señalización
+
+del Tránsito 5° 24°
+
+Mecánico Jefe de Taller Municipal 6° 24°
+
+Electricista - Embobinador 7° 25°
+
+Mecánico del Matadero 8° 26°
+
+Mecánicos 8° 26°
+
+Soldador Eléctrico 8° 26°
+
+Eléctricista 8° 26°
+
+Mecánico 10° 27°
+
+Mecánicos 1° 26°
+
+Jefe de Matanza 1° 26°
+
+Choferes 1° 26°
+
+Instaladores Red-Telefónica 1° 26°
+
+Matarifes 1° 26°
+
+Planta de Servicios Menores.
+
+Escalafón de Funcionarios Auxiliares
+
+Mayordomos 1° 26°
+
+Ayudante del Mayordomo 1° 28°
+
+Porteros 1° 28°
+
+Serenos 1° 28°
+
+Cuidador de Garaje 1° 28°
+
+Cuidador de Plaza 1° 28°
+
+Escalafón de Obreros Especializados
+
+Desabolladores 1° 27°
+
+Ayudante Soldador 1° 27°
+
+Ayudante Eléctrico 1° 27°
+
+Instalador Sanitario 1° 27°
+
+Carpintero 1° 27°
+
+Ayudante Carpintero 1° 27°
+
+Pintores 1° 27°
+
+Albañil 1° 27°
+
+Ayudante Albañil 1° 27°
+
+Ayudantes de Red Telefónica 1° 27°
+
+Ayudante de Instalaciones
+
+Telefónicas 1° 27°
+
+Tapiceros 1° 27°
+
+Gásfiter 1° 27°
+
+Jardineros 1° 27°
+
+Ayudantes Jardineros 1° 27°
+
+Calderero del Matadero 1° 27°
+
+Escalafón de Obreros No
+
+Especializados
+
+Aseadores 1° 32°
+
+Policía de Aseo 1° 32°
+
+Guateros 1° 32°
+
+Corralero del Matadero 1° 32°
+
+Aseadores del Matadero 1° 32°
+
+Ayudantes del Taller 1° 32°
+
+Ayudantes de Riego 1° 32°
+
+El o los cargos de Administrador Veterinario del Matadero Municipal de grado 11° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Arquitecto Director de Obras Municipales grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Arquitecto Subdirector de Obras grado 11° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Asistente Social grado 15° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Inspector grado 4° (22°) se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Oficial 2° Juzgado Policía Local grado 22° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Inspector de Obras Municipales grado 23° se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de Inspector grado 5° (23°) se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de Inspector grado 6° (24°) se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Oficial Administrativo grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Oficial de Informaciones grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Mecánico Jefe de Taller Municipal grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Electricista-Embobinador grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Mecánicos grado 8° (26°) se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Soldador-Eléctrico grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Electricista grado 26° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Mecánicos grado 10° (27°) se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Mecánicos grado 1° (26°) (OO.MM.) se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Choferes grado 1° (26°) (OO.MM.) se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Instaladores red-Telefónica grado 26° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Matarifes grado 1° (26°) (OO.MM.) se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Cuidador de Garage grado 1° (28°) se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Cuidador de Plaza grado 28° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Ayudante Soldador grado 1° (27°) (OO.MM.) se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Ayudante Eléctrico grado 1° (27°) (OO.MM.) se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Instalador Sanitario grado 1° (27°) (OO.MM) se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Carpintero grado 1° (27°) (OO.MM.) se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Ayudante Carpintero grado 1° (27°) (OO.MM. se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Pintores grado 1° (27°) (OO.MM.) se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Albañil grado 1° (27°) (OO.MM.) se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Ayudante Albañil grado 1° (27°) (OO.MM.) se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Ayudantes de red Telefónica grado 1° (27°) (OO.MM.) se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Ayudante de Instalaciones Telefónicas grado 1° (27°) (OO.MM.) se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Tapicero grado 1° (27°) (OO.MM.) se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Gásfiter grado 1° (27°) (OO.MM.) se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Jardineros grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Ayudantes Jardineros grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Calderero del Matadero grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Aseadores, Policía de Aseo, Guateros, Corraleros del Matadero, Aseadores del Matadero, Ayudantes del Taller, Ayudantes de riego grado 32° se convertirán en grado 35° al quedar vacantes.
+
+> **Nota.** El Art. 2º del DL 1138, Interior, publicado el 14.08.1975, creó a contar del 1º de enero de 1975 los cargos que indica.
+
+MUNICIPALIDAD DE BUIN
+
+#### Artículo 10°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Buin, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Alcalde 6
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Juez Policía Local 3a. Cat. 8
+
+Secretario Municipal 3a. Cat. 10
+
+Habilitado y Director
+
+Adquisiciones 4a. Cat. 11
+
+Director Rentas 4a. Cat. 11
+
+Secretario Alcaldía 5a. Cat. 12
+
+Director Obras Municipales 6a. Cat. 11
+
+Director Aseo y Jardines 6a. Cat. 12
+
+Secretario Juzgado Policía
+
+Local 6a. Cat. 19
+
+Director Tránsito Gr. 1° 12
+
+Abogado Municipal Gr. 5° 12
+
+Médico Veterinario Gr. 9° 14
+
+Médico Psicotécnico Ley N° 15.076
+
+Planta Administrativa
+
+Oficial 1° Juzgado Policía
+
+Local Gr. 1° 19
+
+Oficial 1° Dirección de
+
+Obras Gr. 3° 19
+
+Inspector 2° Patentes Gr. 4° 20
+
+Inspector Municipal Gr. 9° 27
+
+Choferes Gr. 9° 27
+
+Chofer Gr.11° 29
+
+Planta de Obreros
+
+Mayordomo Gr. 1° 25
+
+Pañolero Gr. 1° 26
+
+Jardineros Gr. 1° 26
+
+Sifoneros Gr. 1° 26
+
+Podadores Gr. 1° 26
+
+Portero Gr. 1° 26
+
+Albañil Gr. 1° 26
+
+Albañil Gr. 3° 29
+
+Mecánico Gr. 1° 26
+
+Fumigadores Gr. 1° 26
+
+Peonetas Gr. 5° 32
+
+Pintor Gr. 5° 32
+
+El cargo de Alcalde grado 6° se convertirá en grado 8° al quedar vacante.
+
+El o los cargos de Juez de Policía Local grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Secretario Municipal de grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Habilitado y Director Adquisiciones grado 11° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Director Rentas de grado 11° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Secretaria Alcaldía de grado 12° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Director Aseo y Jardines de grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Director Tránsito de grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Abogado Municipal de grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Oficial 1° Juzgado Policía Local de grado 19° se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Oficial 1° Dirección de Obras de grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Inspector 2° Patentes de grado 20° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Chofer de grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Mayordomo de grado 25 se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Pañolero de grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Jardineros de grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Sifoneros de grado 26° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Podadores de grado 26° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Portero de grado 26° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Albañil de grado 26° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Albañil de grado 29° se convertirán en grado 32° al quedar vacantes.
+
+El o los cargos de Mecánico de grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Fumigadores de grado 26° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Peonetas de grado 32° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Pintor de grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE BULNES
+
+#### Artículo 11°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Bulnes de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 12
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Médico Gabinete Psicotécnico Gdo. 3° Ley 15076
+
+Secretario Municipal Gdo. 7° 14
+
+Juez Policía Local Gdo. 7° 13
+
+Directora de Tránsito e
+
+Inspectora Patentes Gdo. 8° 16
+
+Director de Obras Gdo. 13° 14
+
+Planta Administrativa
+
+Secretaria Jdo. Policía Local Gdo. 14° 20
+
+Ayudante Inspec. Patentes Gdo. 16° 24
+
+Ayudante Dirección Tránsito Gdo. 16° 24
+
+Inspector Aseo Gdo. 17° 25
+
+Servicios Menores
+
+Choferes Gdo. 4° 26
+
+Auxiliar Gdo. 7° 30
+
+Planta Obreros
+
+Ayudante Dirección de Obras Gdo. 4° 26
+
+Obreros Gdo. 4° 28
+
+Obreros Gdo. 6° 30
+
+Obreros Gdo. 7° 32
+
+El o los cargos de Secretario Municipal grado 14 se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Director de Obras grado 14 se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE CABILDO
+
+#### Artículo 12°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Cabildo, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 14
+
+Secretario Municipal y Alcaldía Gr. 4° 17
+
+Juez de Policía Local Gr. 5° 15
+
+Auxiliar Patentes Gr. 10° 25
+
+Inspector Municipal Gr. 10° 23
+
+Auxiliar de Secretaría Gr. 11° 26
+
+Planta Obreros
+
+Obreros Gr. 4° 29
+
+Obreros Gr. 5° 31
+
+El o los cargos de Auxiliar de Secretaría grado 26 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros grado 31° se convertirán en grado 35, al quedar vacantes.
+
+MUNICIPALIDAD DE CABRERO
+
+#### Artículo 13°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Cabrero, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+Alcalde 16
+
+Planta Administrativa
+
+Secretario Municipal e Inspector
+
+de Patentes 19
+
+Secretario Juzgado de
+
+Policía Local 23
+
+Planta de Choferes
+
+Chofer 27
+
+Planta Obreros
+
+Jardinero 29
+
+Obrero de Aseo 30
+
+Mozo de Mercado 31
+
+Mozo de Aseo 32
+
+El o los cargos de Mozo de Aseo de grado 32, se convertirán en grado 35, al quedar vacantes.
+
+MUNICIPALIDAD DE CALAMA
+
+#### Artículo 14°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Calama, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+-------------------------------------------------------
+
+Grado Grado
+
+Nombre del Cargo Escala Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta directiva,
+
+profesional y técnica
+
+Alcalde 1° 6
+
+Secretario Municipal y Alcaldía 1° 8
+
+Juez Policía Local 1° 7
+
+Abogado de la Defensa 1° 10
+
+Director de Obras Municipales 1° 8
+
+Jefe Contabilidad y Control 1° 11
+
+Jefe Depto. Aseo y Jardines 1° 11
+
+Adm. Matadero y Veterinario 1° 11
+
+Jefe Depto. Rentas e Inspección 1° 12
+
+Jefe Bodega y Adquisiciones 1° 13
+
+Jefe Depto. del Tránsito 1° 11
+
+Asesor Urbanista 2° 11
+
+Constructor Civil 2° 13
+
+Contador Depto. Rentas e Inspección 3° 18
+
+Jefe Depto. Cine Municipal 4° 14
+
+Médico Jefe Depto. Psicotécnico 4° Ley 15076
+
+Bibliotecario 5° 16
+
+Topógrafo 6° 18
+
+Planta de Empleados
+
+Administrativos
+
+Subadministrador Matadero 2° 19
+
+Subjefe Depto. e Inspector
+
+de Servicios 5° 21
+
+Auxiliares de Contabilidad 5° 21
+
+Ayudante de Secretaría 5° 21
+
+Ayudante Dirección de Obras 5° 21
+
+Auxiliar Depto. Psicotécnico 5° 21
+
+Secretario Jdo. Policía Local 6° 21
+
+Auxiliar 1er. Jdo. Policía Local 6° 23
+
+Auxiliar Secretaria Taquígrafa 7° 25
+
+Habilitado 7° 25
+
+Pasatiempo Municipal 5° 21
+
+Auxiliares de Oficina 6° 21
+
+Auxiliares de Oficina 7° 22
+
+Auxiliares de Oficina 8° 23
+
+Auxiliares de Oficina 9° 25
+
+Auxiliares de Oficina 10° 27
+
+Auxiliares de Oficina 11° 28
+
+Auxiliares de Oficina 12° 29
+
+Planta de Oficios
+
+Jefe Depto. Electricidad 5° 24
+
+Mecánico Taller Municipal 6° 25
+
+Chofer Municipal 6° 25
+
+Choferes Municipales 7° 26
+
+Choferes Municipales 8° 27
+
+Choferes Municipales 11° 29
+
+Choferes Municipales 12° 30
+
+Ayudante Sección Electricidad 6° 26
+
+Inspector de Servicios 10° 27
+
+Electricistas Municipales 11° 29
+
+Mecánicos Municipales 11° 29
+
+Soldador 11° 29
+
+Carpinteros 11° 29
+
+Carpintero 12° 30
+
+Planta Servicios Menores
+
+Mayordomo 10° 25
+
+Mayordomos 11° 29
+
+Obreros Municipales
+
+Operarios 1° 25
+
+Operarios 2° 26
+
+Operarios 3° 27
+
+Operarios 4° 28
+
+Operarios 5° 29
+
+Operarios 6° 30
+
+Operarios 8° 31
+
+Operarios 9° 32
+
+Operarios 10° 32
+
+El o los cargos de Administrador Matadero y Veterinario grado 11° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Jefe Depto. Rentas e Inspección grado 12°, se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Jefe Depto. Cine Municipal de grado 14 se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Bibliotecario de grado 16, se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Pasatiempo de grado 21, se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Auxiliar de Oficina de grado 29, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Jefes Depto. Electricidad de grado 24 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Mécanico Taller Municipal de grado 25, se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Mayordomos, Choferes Municipales Electricistas Municipales, Mecánicos Municipales, Soldadores y Carpinteros de grado 29, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Choferes Municipales de grado 30, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Ayudantes Sección Electricidad de grado 26, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Carpintero de grado 30, se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Operarios grado 10 de grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE CALBUCO
+
+#### Artículo 15°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Calbuco, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 13
+
+Secret. Municipal y de Alcaldía 2° 16
+
+Director Obras 12° 16
+
+Planta Administrativa
+
+Inspector de Calles 11° 23
+
+Oficiales Servicios de Peajes 15° 25
+
+Ayudante Oficinas 16° 25
+
+Inspector de Patentes 18° 26
+
+Director del Tránsito 20° 23
+
+Choferes y otros
+
+Chofer 11° 25
+
+Chofer 14° 27
+
+Choferes 15° 29
+
+Mecánicos 15° 27
+
+Obreros
+
+Obreros 7° 27
+
+Obreros 10° 31
+
+El o los cargos de Choferes de grado 25, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Chofer gr. 27 y Mecánico gr. 27 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Choferes de grado 29, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros 31, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE CALDERA
+
+#### Artículo 16°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Caldera, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 4° 14
+
+Secretario Municipal y de Alcaldía 4° 17
+
+Inspector de Patentes 8° 23
+
+Inspector de Obras 9° 24
+
+Choferes especializados 7° 27
+
+Carpintero especializado 8° 29
+
+Chofer Mecánico 15° 29
+
+Obrero 7° 29
+
+Obrero 8° 31
+
+Obreros 11° 32
+
+El o los cargos de Inspector de Obras de grado 24, se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Obreros de grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD CALERA DE TANGO
+
+#### Artículo 17°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Calera de Tango, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Alcalde 12
+
+Secretario Municipal Gr. 5° 15
+
+Director del Tránsito Gr. 7° 19
+
+Médico Psicotécnico Gr. 10° Ley 15.076
+
+Inspector de Patentes Gr. 10° 21
+
+Director de Obras Gr. 11° 15
+
+Abogado Def. Municipal Gr. 7° 15
+
+Secretario Jdo. Policía Local Gr. 11° 22
+
+Chofer Gr. 12° 27
+
+Inspector Municipal Gr. 13° 27
+
+Planta de Obreros
+
+Chofer Gr. 1° 28
+
+Obrero Especializado Gr. 1° 28
+
+Choferes Gr. 2° 30
+
+Obrero Gr. 2° 29
+
+Obrero Gr. 4° 32
+
+El cargo de Alcalde de grado 12° se convertirá en grado 15 al quedar vacante.
+
+El o los cargos de Secretario Municipal de grado 15° se convertirán en grado 18° al quedar vacantes.
+
+El o los cargos de Inspector de Patentes de grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Director de Obras de grado 15 se convertirán en grado 18° al quedar vacantes.
+
+El o los cargos de Abogado Defensa Municipal de grado 15 se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Obrero de grado 32° se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE CALLE LARGA
+
+#### Artículo 18°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Calle Larga, de acuerdo con lo dispuesto en el artículo 13° decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+--------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 15
+
+Secretario Municipal y Alcaldía Gr. 3° 18
+
+Director del Tránsito Gr. 7° 19
+
+Secretario Juzgado Policía Local Gr. 10° 22
+
+Médico Psicotécnico Ley 15.076
+
+Planta de Obreros
+
+Obrero Calificado Gr. 7° 26
+
+Obrero Especializado Gr. 9° 28
+
+Obrero sin Calificación Gr. 8° 30
+
+Obrero sin Calificación Gr. 9° 32
+
+El o los cargos de Obrero sin calificación de grado 32° se convetirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE CAÑETE
+
+#### Artículo 19°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Cañete, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249 de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Jefaturas
+
+Alcalde Gr. 10° 15
+
+Secretario Municipal y Alcaldía Gr. 10° 18
+
+Juez de Policía Local Gr. 10° 16
+
+Director de Obras Municipales Gr. 10° 18
+
+Planta Administrativa
+
+Inspector Patentes y
+
+Bibliotecario Gr. 10° 19
+
+Secretario Jdo. Policía Local
+
+- Encargado Cementerio e
+
+Inspector del Tránsito Gr. 10° 19
+
+Inspector Mercado y Matadero Gr. 11° 25
+
+Inspector de Obras y Aseo Gr. 12° 27
+
+Servicios Menores
+
+Portero y Auxiliar Oficinas Gr. 12° 28
+
+Chofer Gr. 13° 27
+
+Personal de Obreros
+
+Sin Especialización
+
+Obreros Gr. 6° 29
+
+Obreros Gr. 7° 32
+
+El o los cargos de Inspector Patentes y Bibliotecario de grado 19° se convertirán en grado 22° al quedar vacantes.
+
+El o los cargos de Secretario Juzgado Policía Local, Encargado Cementerio e Inspector del Tránsito grado 19° se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Obreros grado 29 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE CARAHUE
+
+#### Artículo 20°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Carahue de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Alcalde Gr. 3° 14
+
+Juez de Policía Local Gr. 3° 15
+
+Secretario Municipal de la
+
+Alcaldía y Jefe de Servicios Gr. 3° 17
+
+Inspector de Patentes y
+
+Habilitado Gr. 5° 21
+
+Administradora de Cementerio y
+
+Auxiliar de Secretaría Gr. 9° 23
+
+Inspector de Matadero y de
+
+Servicios varios Gr. 10° 27
+
+Bibliotecaria y Secretaria del
+
+Juzgado de Policía Local Gr. 12° 25
+
+Personal Especializado
+
+Chofer Gr. 5° 27
+
+Chofer Gr. 10° 29
+
+Planta de Obreros
+
+Obreros Municipales Gr. 4° 28
+
+Obreros Municipales Gr. 5° 30
+
+Obreros Municipales Gr. 6° 31
+
+Obrero Municipal Gr. 7° 32
+
+El o los cargos de Inspector de Patentes y Habilitado grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Administrador de Cementerio y Auxiliar de Secretaría de grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Chofer de grado 29 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obrero Municipal de grado 32° se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE CARTAGENA
+
+#### Artículo 21°
+
+Fíjase, a contar del 1° de Enero de 1974 para los trabajadores de la Municipalidad de Cartagena, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 2° 12°
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Secretario Municipal y
+
+Alcaldía 2° 14°
+
+Juez Policía Local 2° 13°
+
+Abogado Municipal 2° 15°
+
+Director de Rentas y Tránsito 2° 15°
+
+Director de Obras Municipales 2° 15°
+
+Director Depto. Desarrollo
+
+Social 4° 16°
+
+Secretario Juzgado
+
+Policía Local 8° 19°
+
+Director Aseo, Jardines
+
+y Matadero 8° 16°
+
+Planta Administrativa
+
+Oficial Administrativo 5° 19°
+
+Oficial Administrativo 7° 21°
+
+Oficial Administrativo 8° 23°
+
+Oficiales Administrativos 9° 25°
+
+Secretario Dactilógrafo General 9° 25°
+
+Oficial Administrativo 10° 27°
+
+Oficiales Administrativos 12° 28°
+
+Oficial Administrativo 13° 29°
+
+Planta Especializada de Empleados
+
+Choferes 13° 27°
+
+Choferes 14° 29°
+
+Bodeguero 14° 29°
+
+Jardinero 14° 29°
+
+Planta de Obreros
+
+Obrero 3° 26°
+
+Obreros 4° 27°
+
+Obreros 5° 28°
+
+Obreros 7° 31°
+
+Obreros 10° 32°
+
+El o los cargos de Secretario Municipal, Alcaldía grado 14° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Abogado Municipal grado 15° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Director de Rentas y Tránsito grado 15° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Secretario Juzgado Policía Local grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Jardinero grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CASABLANCA
+
+#### Artículo 22°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Casablanca, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 10° 14°
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Juez de Policía Local 10° 15°
+
+Secretario Municipal 10° 16°
+
+Secretario Jdo. Policía Local 11° 19°
+
+Director Tránsito 13° 17°
+
+Médico Veterinario 15° 17°
+
+Planta Administrativa
+
+Auxiliar de Secretaría 11° 21°
+
+Inspector Municipal 12° 23°
+
+Ayudante de Secretaria 12° 25°
+
+Médico Psicotécnico 22° Ley 15.076
+
+Abogado Municipal 22° 17°
+
+Ayudante de Secretaria 22° 29°
+
+Planta Obreros Especializados
+
+Choferes 5° 25°
+
+Matarife 5° 26°
+
+Jardinero 5° 28°
+
+Ayudante Matarife 5° 28°
+
+Albañil 5° 27°
+
+Carpintero 5° 27°
+
+Chofer 15° 27°
+
+Planta de Servicios Menores
+
+Portero Municipal 5° 29°
+
+Planta Obreros No Especializados
+
+Obreros 5° 31°
+
+El o los cargos de secretario Municipal grado 16° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Secretario Juzgado Policía Local grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Director Tránsito grado 17° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Ayudante de Secretaría grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Choferes grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Matarife grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Jardinero grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Ayudantes Matarife grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Albañil grado 27° y Carpintero grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Chofer grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obreros grado 31 se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CASTRO
+
+#### Artículo 23°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Castro, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva
+
+Alcalde 10°
+
+Juez de Policía Local 7° 11°
+
+Secretario Municipal y Alcaldía 7° 12°
+
+Director Obras Municipales 7° 12°
+
+Director Tránsito 7° 14°
+
+Planta Administrativa
+
+Inspector Matadero 10° 19°
+
+Secretario Jdo. Policía Local 11° 19°
+
+Oficial de Secretaría 12° 21°
+
+Inspector de Patentes 14° 23°
+
+Inspector Cine Municipal 14° 23°
+
+Inspector Aseo, Ornato y Jardines 18° 26°
+
+Operador Cine Municipal 18° 27°
+
+Inspector Mercado 18° 26°
+
+Médico Psicotécnico 20° Ley 15.076
+
+Planta Personal Especializado
+
+Obrero Especializado 8° 27°
+
+Chofer 10° 28°
+
+Chofer 20° 29°
+
+Chofer 21° 30°
+
+Servicios Menores
+
+Auxiliar 14° 28°
+
+Auxiliar 19° 30°
+
+Auxiliar 20° 32°
+
+Obreros
+
+Obreros 6° 27°
+
+Obreros 7° 29°
+
+Obreros 8° 31°
+
+Obreros 10° 32°
+
+El o los cargos de Secretario Municipal y Alcaldía grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Director Obras Municipales grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Chofer grado 30° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos Auxiliar grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Auxiliar grado 32° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CATEMU
+
+#### Artículo 24°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Catemu, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde Gr. 2° 14
+
+Secretario Municipal y Alcaldía
+
+Jefe de personal y habilitado Gr. 2° 16
+
+Juez de Policía Local Gr. 2° 15
+
+Director de Tránsito, Patentes
+
+e Inspección Gr. 5° 17
+
+Secretario Jdo. Policía Local Gr. 6° 19
+
+Administrador Empresa Eléctrica Gr. 15 21
+
+Director de Obras Municipales Gr. 16° 15
+
+Auxiliar de Secretaría
+
+e Inventario Gr. 17° 25
+
+Planta de Obreros
+
+Electricista Gr. 1° 25
+
+Maestro Jefe de Obras y
+
+Carpintero de Primera Gr. 1° 25
+
+Choferes de Máquina Pesada Gr. 1° 25
+
+Jardinero Gr. 1° 27
+
+Barredores Gr. 2° 29
+
+Barredores Gr. 3° 31
+
+Ayudante Electricista Gr. 9° 32
+
+El cargo de Alcalde grado 14° se convertirá en grado 15 al quedar vacante.
+
+El o los cargos de Secretario Municipal y Alcaldía, Jefe de Personal y Habilitado grado 16° se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Juez de Policía Local grado 15° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Director de Tránsito, Patentes e Inspección grado 17° se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Secretario Juzgado de Policía Local grado 19° se convertirán en grado 22° al quedar vacantes.
+
+El o los cargos de Administrador Empresa Eléctrica grado 21° se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Director de Obras Municipales grado 15° se convertirán en grado 18° al quedar vacantes.
+
+El o los cargos de Auxiliar de Secretaría e Inventario grado 25° se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Electricista grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Maestro Jefe de Obras y Carpintero de 1a. Choferes de Máquina Pesada grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Jardineros grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Ayudante Electricista grado 32 se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CAUQUENES
+
+#### Artículo 25°
+
+Fíjase a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Cauquenes, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 9°
+
+Secretario Municipal, Alcaldía
+
+y Jefe del Personal 4° 12°
+
+Director Obras (Arquitecto) 4° 11°
+
+Administrador Veterinario
+
+del Matadero 4° 12°
+
+Director del Tránsito
+
+y Jefe Patentes 4° 14°
+
+Juez Policía Local 2° 10°
+
+Secretario Juzgado Policía Local
+
+y Asesor Jurídico (Abogado) 10° 12°
+
+Oficial 1° Jdo. Policía Local 10° 21°
+
+Oficial 2° Jdo. Policía Local 13° 24°
+
+Planta Administrativa
+
+Inspector Patentes 8° 19°
+
+Administrador, Recaudador
+
+Mercados y Ferias y Derechos
+
+Varios 9° 21°
+
+Inspector Obras y Calles
+
+(Constructor Civil) 12° 19°
+
+Oficial 3° de Secretaría 15° 25°
+
+Inspector Aseo 17° 27°
+
+Bibliotecario 19° 27°
+
+Médico Psicotécnico Ley 15.076
+
+Planta Obreros
+
+Obreros 1° 25°
+
+Obreros 2° 28°
+
+Obreros 3° 31°
+
+Obreros 5° 32°
+
+El o los cargos de Administrador Veterinario del Matadero grado 12 se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Director de Obras grado 11° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE COBQUECURA
+
+#### Artículo 26°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Cobquecura, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde y Juez de Policía Local 16
+
+Planta de Empleados
+
+Secretario Municipal y de la
+
+Alcaldía, Secretario Juzgado
+
+Policía Local, Inspector del
+
+Tránsito y Habilitado 7° 19
+
+Inspector Municipal, Inspector
+
+de Obras Municipales y Ayudante
+
+de Secretaría 10° 24
+
+Planta Obreros
+
+Obreros 7° 31
+
+El o los cargos de Obreros de grados 31, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE COCHRANE
+
+#### Artículo 27°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Cochrane, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 12° 16
+
+Secretario Municipal
+
+y de Alcaldía 12° 19
+
+Inspector de Patentes 19° 24
+
+Planta Obreros
+
+Obrero Municipal 8° 30
+
+Obrero Municipal 10° 32
+
+El o los cargos de Obrero Municipal de grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE CODEGUA
+
+#### Artículo 28°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Codegua, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 6a Cat. 14
+
+Secretario Municipal y Alcaldía 6a Cat. 16
+
+Director Tránsito Gr. 5° 19
+
+Secretario Jdo. Policía
+
+Local y Oficial Partes Gr. 5° 21
+
+Director Cultura e Inspección Gr. 8° 24
+
+Planta Choferes
+
+Chofer Gr. 8° 25
+
+Planta Obreros
+
+Obreros Gr. 1° 26
+
+Obreros Gr. 2° 27
+
+Obreros Gr. 3° 29
+
+El o los cargos de Alcalde de grado 14, se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Secretario Municipal y Alcaldía de grado 16, se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Secretario Juzgado y Oficial de Partes grado 21, se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Chofer Gr. 25 y de Obreros Gr. 26, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros de grado 27 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obreros Gr. 29, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE COELEMU
+
+#### Artículo 29°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Coelemu, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 246, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva
+
+Alcalde de la Comuna 6° 14
+
+Secretaria Municipal y Alcaldía 6° 17
+
+Director de Obras 8° 17
+
+Planta Sub-Directiva
+
+Administrador Matadero Mercado,
+
+Secretario Juzgado Policía Local
+
+Jefe Sección 7° 19
+
+Planta Administrativa
+
+Inspector de Tránsito y Encargado
+
+de Vehículos Municipales 9° 21
+
+Inspector Patentes 14° 26
+
+Planta Obreros Especializados
+
+Obreros Especializados 5° 25
+
+Obreros Especializados 8° 29
+
+Obreros no Especializados
+
+Obreros 5° 28
+
+Obreros 7° 30
+
+Obreros 10° 32
+
+El o los cargos de Administrador Matadero, Mercado, Secretario Juzgado Policía Local, Jefe Sección grado 19, se convertirán en grado 23, al quedar vacantes.
+
+El o los cargos de Inspector de Tránsito y Encargado de Vehículos Municipales de grado 21, se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Inspector de Patentes de grado 26, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros Especializados de grado 25, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros Especializados de grado 29, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obreros de grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE COIHUECO
+
+#### Artículo 30°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Coihueco, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 15
+
+Secretario Municipal y Alcaldía,
+
+Director del Tránsito y Jefe de
+
+los Servicios Municipales 2° 18
+
+Juez de Policía Local, Abogado
+
+Municipal y Jefe de Servicio 2° 16
+
+Director de Obras Municipales,
+
+Arquitecto Jefe de Servicio. 17° 17
+
+Médico Gabinete Psicotécnico. Ley 15.076
+
+Secretario Juzgado Policía Local,
+
+1er Inspector e Inspector
+
+de Tránsito 6° 21
+
+2do Inspector Municipal e
+
+Inspector de Obras Municipales 8° 23
+
+3er Inspector Municipal,
+
+Inspector del Tránsito y
+
+Relacionador Público 13° 27
+
+Oficial Administrativo 13° 27
+
+Planta de Obreros
+
+Choferes 7° 27
+
+Choferes 10° 29
+
+Obreros 7° 27
+
+Obreros 10° 32
+
+El o los cargos de Secretario Juzgado Policía Local 1er Inspector e Inspector de Tránsito de grado 21, se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Oficial Administrativo de grado 27 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros de grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE COINCO
+
+#### Artículo 31°
+
+Fíjase a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Coinco, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde y Juez de Policía Local 14
+
+Secretario Municipal y de
+
+Alcaldía 1° 17
+
+Director del Tránsito, de
+
+Patentes, Secretario del Juez
+
+de Policía Local 2° 19
+
+Médico Psicotécnico Ley 15.076
+
+Inspector Municipal y
+
+Auxiliar de Secretaría 11° 23
+
+Chofer Municipal 11° 27
+
+Mayordomo Municipal 3° 27
+
+Obreros 5° 30
+
+Obreros 6° 32
+
+El o los cargos de Obreros de grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE COLBUN
+
+#### Artículo 32°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Colbún, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 8° 16
+
+Director Tránsito y Secretario
+
+Juzgado Policía Local 8° 19
+
+Inspector Patentes y Auxiliar
+
+Secretaría 11° 24
+
+Planta Obreros
+
+Obreros de Aseo 8° 30
+
+El o los cargos de Obreros de Aseo de grado 30, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE COLINA
+
+#### Artículo 33°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Colina de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 11
+
+Secretario Municipal
+
+Abogado y Jefe de la Defensa 7° 14
+
+Secretario de la Alcaldía y
+
+Jefe del Personal 7° 16
+
+Juez de Policía Local 7° 13
+
+Director de Aseo y Jardines y
+
+Jefe Inspección 7° 15
+
+Secretaria Juzgado Policía Local 8° 19
+
+Director de Obras Municipales 10° 15
+
+Jefe de Facturación y Patentes 10° 18
+
+Oficial de Secretaría 11° 22
+
+Director Departamento del
+
+Tránsito 12° 16
+
+Secretaria Departamento
+
+del Tránsito 12° 23
+
+Jefe Bienestar Social 12° 23
+
+Oficial de Partes 12° 23
+
+Oficial de Secretaría 12° 23
+
+Oficial de Secretaría 13° 25
+
+Electricista 10° 25
+
+Chofer 10° 25
+
+Chofer 12° 27
+
+Ayudante Electricista 12° 27
+
+Planta Obreros
+
+Choferes 1° 29
+
+Ayudante Electricista 1° 29
+
+Aseadores Jardineros 1° 29
+
+Aseadores 1° 29
+
+Obreros 2° 31
+
+El o los cargos de Director de Aseo y Jardines y Jefe Inspección de grado 15, se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Secretario Juzgado Policía Local de grado 19, se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Secretaria Departamento del Tránsito de grado 23; Oficial de Secretaría de grado 23 y Oficial de Partes grado 23, se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Oficial de Secretaría de grado 25, se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Chofer de grado 27, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Ayudante de Electricista de grado 27, de Aseadores Jardineros de grado 29, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Choferes grado 29, Ayudante electricista grado 29, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Aseadores de gr. 29 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Obreros gr. 31, se convertirán en grado 35 al quedar vacantes.
+
+El cargo de Alcalde de grado 11, se convertirá en grado 12 al quedar vacante.
+
+MUNICIPALIDAD DE COLTAUCO
+
+#### Artículo 34°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Coltauco, de acuerdo con lo dispuesto en el artículo 13 del decreto-ley N° 249 de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 5° 14
+
+Secretario Municipal y Alcaldía 5° 17
+
+Juez de Policía Local 5° 15
+
+Inspector y Director de Tránsito 14° 19
+
+Secretaria Juzgado y Auxiliar
+
+Oficinas 19° 21
+
+Planta Obreros
+
+Obrero 7° 26
+
+Obreros 8° 27
+
+Obreros 9° 31
+
+El o los cargos de Secretario Juzgado y Auxiliar Oficinas grado 21 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Obrero grado 26 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Obreros grado 27 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obrero grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE COLLIPULLI
+
+#### Artículo 35°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Collipulli, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta Personal de Empleados
+
+Alcalde 6a Cat. 14
+
+Secretario 7° 17
+
+Juez Policía Local 7° 15
+
+Director Patentes 7° 18
+
+Director Obras 9° 17
+
+Inspector Obras 9° 19
+
+Secretario Juzgado 10° 19
+
+Administrador Mercado 13° 23
+
+Veterinario 15° 17
+
+Escalafón de Choferes y
+
+Electricistas
+
+Operador Teatro Municipal 1° 25
+
+Choferes 11° 25
+
+Planta Personal de Obreros
+
+Tractoristas 1° 26
+
+Carpinteros 1° 27
+
+Albañil 1° 27
+
+Cuidador Cementerio 1° 29
+
+Obreros 1° 30
+
+Servicios Menores
+
+Of. Partes 1° 27
+
+Mayordomo 1° 25
+
+El o los cargos de Inspector Obras grado 19 se convertirán en grdo 21 al quedar vacantes.
+
+El o los cargos de Administrador Mercado grado 23 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Choferes grado 25 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Tractoristas grado 26 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Carpinteros grado 27 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Albañil grado 27 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Cuidador Cementerio grado 29 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Obreros grado 30 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Mayordomo grado 25 se convertirán en grado 33 al quedar vacantes.
+
+MUNICIPALIDAD DE COMBARBALA
+
+#### Artículo 36°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Combarbalá, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Directivos Superiores
+
+Alcalde y Juez de Policía Local 2° 12
+
+Jefaturas
+
+Secretario Municipal y de la 2° 15
+
+Alcaldía Habilitado
+
+Secretario del Juzgado 6° 23
+
+Policía Local
+
+Servicios Menores
+
+Auxiliar 10° 31
+
+Chofer-Obreros
+
+Chofer 6° 27
+
+Chofer 7° 29
+
+Planta de Obreros
+
+Obrero 5° 28
+
+Obreros 7° 30
+
+El o los cargos de Auxiliar grado 31 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Chofer grado 29 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Obreros grado 30 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE CONCHALI
+
+#### Artículo 37°
+
+Fíjase a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Conchalí, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 5
+
+Director Departamento Aseo 6a Cat. 8
+
+Director de Adquisiciones 6a Cat. 10
+
+Director Subs. e Inspección 6a Cat. 9
+
+Director de Rentas 6a Cat. 9
+
+Director del Tránsito 6a Cat. 9
+
+Director Obras Municipales y
+
+Arquitecto Urbanista 6a Cat. 8
+
+Director del Personal y Control 6a Cat. 9
+
+Secretario Municipal 6a Cat. 7
+
+Secretario de Alcaldía 6a Cat. 9
+
+Juez Juzgado de Policía Local 6a Cat. 6
+
+Abogado Defensa Municipal 6a Cat. 9
+
+Subdirector Obras Const. Civil Gr. 1° 10
+
+Subdirector Rentas Jefe Egresos Gr. 1° 12
+
+Secretario Abogado Juzgado
+
+Policía Local Gr. 1° 10
+
+Oficial 1° Jdo. Policía Local Gr. 1° 19
+
+Jefe Ingresos Depto. Rentas Gr. 2° 15
+
+Subdirector del Tránsito 2° 13
+
+Jefe de Inspectores 2° 15
+
+Dibujante Dirección de Obras 2° 19
+
+Mecánico Insp. 2° 19
+
+Técnico Depto. Tránsito
+
+Oficial 1° Depto Rentas. 2° 20
+
+Subdirector Depto. Aseo 3° 13
+
+Prosecretario Municipal 3° 19
+
+Jefe del Personal Depto.
+
+Cont. y Personal 3° 18
+
+Prosecretario Alcaldía 3° 19
+
+Oficial 1° de Egresos 3° 20
+
+Médico Jefe Gabinete Psicotécnico Ley 15.076
+
+Asistente Social 7° 16
+
+Inspector 1° 2° 19
+
+Inspector 2° 4° 20
+
+Inspector 3° 4° 20
+
+Inspector 4° 5° 21
+
+Inspector 5° 5° 21
+
+Inspector 6° 5° 21
+
+Inspector 7° 5° 21
+
+Inspector 8° 6° 22
+
+Inspector 9° 6° 22
+
+Inspector 10° 7° 23
+
+Inspector 11° 7° 23
+
+Inspector 12° 7° 23
+
+Inspector 13° 7° 23
+
+Inspector 14° 8° 24
+
+Inspector 15° 8° 24
+
+Inspector 16° 9° 25
+
+Inspector 17° 11° 26
+
+Inspector 18° 13° 27
+
+Jefe Control Depto. Control y 4° 19
+
+Personal Oficial 1° del Personal
+
+Depto. Control y Personal 4° 21
+
+Oficial 2° de Ingreso Depto. Rentas 4° 21
+
+Oficial 1° Secretaría Alcaldía 4° 21
+
+Oficial 1° Dirección Obras Municipales 4° 21
+
+Oficial 1° Depto. Tránsito 4° 21
+
+Administración Edificio Consistorial 4° 21
+
+Oficial 3° Depto. Rentas 5° 22
+
+Oficial 1° Depto. Aseo. 5° 22
+
+Oficial 2° Jdo. Policía Local 5° 22
+
+Oficial 1° Desarrollo Comunal 5° 22
+
+Oficial 1° Secretaría Municipal 5° 22
+
+Técnico Electricista 5° 22
+
+Mecánicos Depto. Aseo 6° 25
+
+Oficial 2° Egresos Depto. Rentas 6° 23
+
+Oficial 3° Jdo. Policía Local 6° 23
+
+Oficial 4° Ingresos Depto. Rentas 7° 24
+
+Oficial 2° Depto. Aseo 7° 24
+
+Oficial 2° Depto. Tránsito 7° 24
+
+Oficial 5° Depto. Rentas 7° 24
+
+Oficial 2° Ofic. Des. Comunal 7° 24
+
+Oficial de Partes Sec. Alcaldía 9° 24
+
+Oficial de Archivos Sec. Alcaldía 9° 26
+
+Oficial 6° Depto. Rentas 9° 26
+
+Oficial 3° Egresos Depto. Rentas 9° 26
+
+Oficial 4° Jdo. Policía Local 9° 26
+
+Oficial 2° Dirección de Obras 9° 26
+
+Oficial 3° Depto. Aseo 9° 26
+
+Oficial 7° Ingresos Depto. Rentas 10° 27
+
+Oficial 1° Depto. Control y Rentas 10° 27
+
+Oficial 8° Depto. Rentas Ingresos 10° 27
+
+Oficial 4° Egresos Depto. Rentas 10° 27
+
+Oficial 4° Depto. Aseo 10° 27
+
+Mecánico Desabollador Depto. Aseo 10° 27
+
+Oficial 2° Secretaría Municipal 10° 27
+
+Oficial 5° Jdo. Policía Local 11° 28
+
+Oficial 9° Ingresos Depto. Rentas 11° 28
+
+Secretaria Asistente Social 12° 29
+
+Oficial 10° Ingresos Depto. Rentas 12° 29
+
+Oficial 11° Ingresos Depto. Rentas 12° 29
+
+Oficial 5° Depto. Aseo 12° 29
+
+Oficial 6° Jdo. Policía Local 13° 30
+
+Secretaria Depto. Subs. e Inspección 13° 30
+
+Oficial 3° Depto. Tránsito 13° 30
+
+Secretario Defensa Municipal 14° 30
+
+Oficial 3° Dirección de Obras
+
+Municipales 14° 31
+
+Oficial 4° Dirección de Obras
+
+Municipales 14° 31
+
+Oficial 7° Jdo. Policía Local 14° 31
+
+Oficial 8° Jdo. Policía Local 14° 31
+
+Oficial 9° Jdo. Policía Local 14° 31
+
+Secretarios Sala Regidores 14° 31
+
+Secretario de Alcaldía 14° 31
+
+Oficial 2° Depto. Cont.y Personal 14° 31
+
+Oficial 3° Oficina Des. Comunal 14° 31
+
+Secretario Depto. Adquisiciones 14° 31
+
+Oficial 10° Jdo. Policía Local 14° 31
+
+Oficial 4° Oficina Desarrollo Comunal 14° 31
+
+Planta de Obreros
+
+Obreros 20% Especialización 1° 25
+
+Obreros 10% Especilaización 1° 25
+
+Obreros 10% Especialización 2° 27
+
+Obreros sin Especialización 1° 28
+
+Obreros sin Especialización 2° 30
+
+Obreros sin Especialización 5° 32
+
+El o los cargos de Director Departamento Aseo grado 8, Director Obras Municipales y Arquitecto Urbanista gr. 8°, se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Director de Adquisiciones grado 10, de Secretario de Alcaldía grado 9, se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Director del Personal de Grado 9, Subdirector Obras Const. Civil de grado 10, se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Subdirector Rentas Jefe Egresos grado 12, se converirán en grado 13 al quedar vacantes.
+
+El o los cargos de Jefe de Inspectores grado 15, se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Mecánico Insp. grado 19, Jefe Control Depto. Control y Personal grado 19, se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Oficial 1° del Personal Depto. Control y Personal grado 21, se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Obreros sin Especialización de grado 28, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obreros sin Especialización de grado 30, se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Obreros sin Especialización de gr. 32, se convertirán en gr. 35 al quedar vacantes.
+
+MUNICIPALIDAD DE CONSTITUCION
+
+#### Artículo 38°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Constitución, de acuerdo con lo dispuesto en el artículo 13 del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica.
+
+Alcalde 10
+
+Secretario Municipal y Alcaldía 6a Cat. 13
+
+Administrador y Boletero
+
+Teatro Municipal 6a Cat. 18
+
+Inspector Municipal y
+
+Patentes y Director del Tránsito 1° 14
+
+Juez de Policía Local 1° 11
+
+Director Obras Municipales 10° 13
+
+Planta Administrativa
+
+Secretario Jdo. Policía Local
+
+y Boletero Teatro Municipal 5° 19
+
+Ayudante Operador Teatro y
+
+Auxiliar Jdo. Policía Local 7° 22
+
+Administrador Mercado y
+
+Matadero Municipal 9° 25
+
+Auxiliar Secretaría 10° 28
+
+Inspector Obras
+
+Urbanización y Aseo 10° 27
+
+Operador Teatro Municipal 12° 29
+
+Médico Psicotécnico Ley N° 15.076
+
+Obreros
+
+Obreros 3° 27
+
+Obreros 5° 29
+
+Obreros 6° 32
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE CONTULMO
+
+#### Artículo 39°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Contulmo, de acuerdo con lo dispuesto en el artículo 13 del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 6° 16
+
+Secretario Municipal, Alcaldía
+
+y Jdo. Policía Local 6° 19
+
+Planta Administrativa
+
+Inspector de Patentes, Obras
+
+Matadero y Cementerio 16° 24
+
+Chofer 17° 25
+
+Obreros
+
+Jardinero 5° 28
+
+Obrero 10° 32
+
+El o los cargos de Chofer grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obrero grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE COPIAPO.
+
+#### Artículo 40°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Copiapó, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+A) Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 1° 6°
+
+Secretario Municipal y de Alcaldía 1° 8°
+
+Juez de Policía Local 1° 7°
+
+Director de Obras Municipales 1° 8°
+
+Director Aseo y Jardines 2° 11°
+
+Contador Jefe Control y
+
+Rentas habilitado 2° 11°
+
+Director del Tránsito 3° 11°
+
+Abogado Defensa Municipal 3° 10°
+
+Médico Psicotécnico Ley 15.076
+
+Veterinario Adm. Matadero 3° 13
+
+Constructor Con. de Obras 3° 13
+
+B) Planta Administrativa
+
+Secretario Jdo. Policía
+
+Local y Encargado 6° 19
+
+Adquisiciones
+
+Oficial Administrativo 6° 19
+
+Oficiales Administrativos 7° 21
+
+Inspectores 8° 23
+
+Inspectores 9° 25
+
+Inspectores 10° 27
+
+C) Escalafón Personal
+
+Especializado
+
+Electricista 8° 25
+
+Mecánico 8° 25
+
+Oficial Técnico 10° 27
+
+Choferes 10° 25
+
+Chofer (Obreros) 1° 25
+
+Choferes (Obreros) 2° 26
+
+Choferes (Obreros) 3° 27
+
+Choferes (Obreros) 4° 28
+
+D) Escalafón Obreros
+
+Especializados
+
+Electricistas 3° 27
+
+Soldador 4° 29
+
+Gásfiter 3° 27
+
+Carpintero 2° 25
+
+Carpintero 3° 27
+
+Carpintero 4° 29
+
+Albañiles 4° 29
+
+Pintor 4° 29
+
+Ayudante Mecánico 2° 27
+
+Jardineros 2° 27
+
+Jardineros 4° 29
+
+E) Escalafón Servicios Menores
+
+Auxiliar 2° 26
+
+Auxiliar 3° 28
+
+Auxiliares 4° 30
+
+Portero 2° 26
+
+Porteros 3° 28
+
+F) Escalafón Obreros sin Calificar
+
+Operarios 2° 26
+
+Operarios 3° 28
+
+Operarios 4° 30
+
+El o los cargos de Constructor Con. de Obras grado 13, se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Oficial Administrativo gr. 19 se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Oficiales Administrativos grado 21 se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Mecánico gr. 25, Electricistas gr. 25, Choferes (Obreros)
+
+gr. 26 y Operarios gr. 26, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Chofer (Obreros) gr. 25, Carpintero gr. 25, se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Choferes (Obreros) de gr. 27, Carpintero gr. 27, Portero gr. 26, se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Gásfiter gr. 27, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Choferes (Obreros) gr. 28, Electricistas gr. 27, Albañiles gr. 29, Pintor gr. 29 y Operarios gr. 28, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Carpintero gr. 29 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Ayudante Mecánico gr. 27, se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Jardineros gr. 29 Auxiliares gr 30, Porteros gr. 28, y Operarios gr. 30, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE COQUIMBO
+
+#### Artículo 41°
+
+Fíjase a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Coquimbo, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 5a Cat. 6°
+
+Secretario Municipal 5a Cat. 8°
+
+Secretario Alcaldía 5a Cat. 13°
+
+Juez de Policía Local 5a Cat. 7°
+
+Director del Tránsito 6a Cat. 11°
+
+Director de Obras Municipales 6a Cat. 8°
+
+Secretario Juzgado Policía Local 2° 19°
+
+Jefe Inspección y Patentes 2° 20°
+
+Jefe de Aseo 4° 20°
+
+Contralor 5° 11°
+
+Abogado Municipal 6° 10°
+
+Médico Psicotécnico 9° Ley 15.076
+
+Oficial Administrativo 3° 19°
+
+Oficial Administrativo 4° 21°
+
+Oficial Administrativo 5° 23°
+
+Oficiales Administrativos 6° 25°
+
+Oficiales Administrativos 7° 27°
+
+Oficiales Administrativos 8° 29°
+
+Director Banda Municipal 7° 23°
+
+Mecánico Jefe Garajes 5° 25°
+
+Choferes 5° 26°
+
+Choferes 6° 27°
+
+Choferes 7° 29°
+
+Planta Obreros
+
+Jornaleros 4° 26°
+
+Jornaleros 5° 27°
+
+Jornaleros 6° 28°
+
+Jornaleros 7° 29°
+
+Jornaleros 8° 31°
+
+Jornaleros 9° 32°
+
+El o los cargos de Oficiales Administrativos grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Director Banda Municipal grado 23° se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de Choferes grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Jornaleros grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Jornaleros grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Jornaleros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+> **Nota.** NOTA : La letra a) del Art. 3º del DL 1245, Hacienda, publicado el 08.11.1975, incluyó en esta planta el cargo de Inspector de Técnico de Obras grado 3° Administrativo, en el grado 21º de la Escala Unica.
+
+MUNICIPALIDAD DE CORONEL
+
+#### Artículo 42°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Coronel, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Administrativa y
+
+Profesional
+
+Alcalde 4a Cat. 8°
+
+Secretario Municipal y Alcaldía
+
+Jefe de Personal 4a Cat. 11°
+
+Juez de Policía Local 4a Cat. 9°
+
+Director de Tránsito 4a Cat. 13°
+
+Jefe de Control y Contabilidad 5a Cat. 14°
+
+Director de Obras Municipales 5a Cat. 11°
+
+Abogado Defensa Municipal 6a Cat. 14°
+
+Asesor Urbanista 6a Cat. 14°
+
+Planta Técnica
+
+Topógrafo 6a Cat. 17°
+
+Médico Gabinete Psicotécnico Ley 15.076
+
+Planta Administrativa
+
+Inspectores Jefes 5° 18°
+
+Inspectores Jefes 6° 19°
+
+Inspectores Jefes 7° 20°
+
+Subinspectores 6° 21°
+
+Subinspectores 7° 22°
+
+Subinspectores 8° 23°
+
+Subinspectores 9° 24°
+
+Subinspectores 10° 27°
+
+Oficiales 1° 5° 19°
+
+Oficiales 1° 7° 21°
+
+Oficiales 1° 8° 23°
+
+Oficiales 1° 9° 25°
+
+Oficiales 1° 10° 27°
+
+Oficiales 1° 11° 29°
+
+Oficiales 2° 8° 23°
+
+Oficiales 2° 10° 27°
+
+Oficiales 2° 11° 29°
+
+Servicios de Mantención
+
+Oficiales 1° 8° 25°
+
+Oficiales 2° 7° 26°
+
+Oficiales 2° 9° 27°
+
+Oficiales 2° 10° 29°
+
+Obreros Especializados
+
+Choferes 1° 25°
+
+Choferes 2° 27°
+
+Choferes 3° 29°
+
+Carpinteros 1° 26°
+
+Carpinteros 2° 28°
+
+Albañiles 1° 26°
+
+Albañil 2° 28°
+
+Gásfiter 1° 26°
+
+Gásfiter 2° 28°
+
+Pintores 1° 26°
+
+Pintores 2° 28°
+
+Soldador 2° 28°
+
+Obreros No Especializados
+
+Jornaleros 1° 27°
+
+Jornaleros 2° 28°
+
+Jornaleros 3° 30°
+
+Jornaleros 10° 32°
+
+El o los cargos de Oficiales 2° Planta Administrativa grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Oficiales 2° grado 26° se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Oficiales 2° grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Oficiales 2° Servicios de Mantención grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Choferes grado 2°, grado 27 se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Choferes grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Carpinteros grado 28° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Albañil grado 28° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Gásfiter grado 28° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Pintores grado 28° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Soldador grado 28° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Jornaleros grado 30° se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Jornaleros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CORRAL
+
+#### Artículo 43°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Corral, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva
+
+Alcalde 17°
+
+Secretario Municipal y Alcaldía 7° 19°
+
+Planta Administrativa (A)
+
+Secretario del Juzgado de Policía
+
+Local e Inspector Municipal 10° 23°
+
+Planta Administrativa (B)
+
+Chofer 3° 27°
+
+Planta Obreros
+
+Obreros 3° 31°
+
+El o los cargos de Secretario Municipal y Alcaldía grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Chofer grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obreros grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE COYHAIQUE
+
+#### Artículo 44°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Coyhaique, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 10° 8°
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Juez Policía Local 10° 9°
+
+Director Obras 10° 11°
+
+Veterinario Adm. Matadero 10° 13°
+
+Secretario Municipal 10° 11°
+
+Director Rentas 12° 13°
+
+Secretario Juzgado Policía Local 12° 19°
+
+Director Aseo y Ornato 14° 13°
+
+Médico Psicotécnico Ley 15.076
+
+Contralor Contador 14° 14°
+
+Director Tránsito 14° 13°
+
+Planta Administrativa
+
+Inspector Jefe Matadero 12° 19°
+
+Inspector Obras Municipales 13° 21°
+
+Oficial 1° Juz. Policía Local 14° 23°
+
+Inspector Rentas Municipales 14° 23°
+
+Inspector Tránsito 14° 23°
+
+Ayudante Secretaría Municipal 14° 25°
+
+Inspector Obras Municipales 14° 23°
+
+Oficial de Partes 14° 25°
+
+Planta Obreros Especializados
+
+Carpintero 8° 26°
+
+Chofer 8° 25°
+
+Chofer 10° 28°
+
+Matarifes 10° 28°
+
+Servicios Menores
+
+Administrador Cementerio
+
+Municipal 8° 27°
+
+Portero Matadero Municipal 8° 29°
+
+Portero Mercado Municipal 10° 30°
+
+Portero Edificio Municipal 10° 30°
+
+Auxiliar Edificio Municipal 10° 30°
+
+Capataz Depto. Aseo 10° 30°
+
+Planta de Obreros
+
+Obreros 10° 30°
+
+Obrero Ayudante 10° 32°
+
+El o los cargos de Veterinario Adm. Matadero grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Inspector Obras Municipales grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Oficial de Partes grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Chofer grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Matarife grado 28° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Portero Matadero Municipal grado 29° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Portero Mercado Municipal grado 30° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Portero Edificio Municipal grado 30° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Auxiliar Edificio Municipal grado 30° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Capataz Depto. Aseo grado 30° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Obreros grado 30° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Obrero Ayudante grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CUNCO
+
+#### Artículo 45°
+
+Fíjese, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Cunco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 15°
+
+Planta de Empleados
+
+Secretaría Municipal y Alcaldía,
+
+Juzgado Policía Local y Junta
+
+Clasificadora Patentes 1° 18°
+
+Auxiliar de Secretaría 7° 22°
+
+Inspector Municipal 12° 23°
+
+Planta de Obreros
+
+Chofer 5° 27°
+
+Jornaleros 5° 30°
+
+Jornaleros 8° 32°
+
+El o los cargos de Auxiliar de Secretaría grado 22° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Jornaleros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CURACAUTIN
+
+#### Artículo 46°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Curacautín, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 14°
+
+Planta Directiva
+
+Secretaría Municipal y
+
+de la Alcaldía 8° 17°
+
+Juez Policía Local 8° 15°
+
+Planta Administrativa
+
+Inspector de Patentes y Tránsito 8° 19°
+
+Auxiliar de Secretaría 12° 21°
+
+Director de Biblioteca y Oficial
+
+de Contabilidad 12° 21°
+
+Inspector de Luces y Matadero 13° 23°
+
+Secretaria del Jdo.
+
+Policía Local 13° 21°
+
+Inspector de Obras 13° 22°
+
+Inspector de Cementerio 17° 25°
+
+Planta de Servicios Menores
+
+Ordenanza 13° 26°
+
+Planta de Obreros
+
+Obreros 3° 25°
+
+Obreros 4° 27°
+
+Obreros 6° 29°
+
+Obreros 7° 30°
+
+Obreros 8° 31°
+
+Obreros 9° 32°
+
+El o los cargos de Auxiliar de Secretaría grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Inspector de Luces y Matadero grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Inspector de Obras grado 22° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Ordenanza grado 26° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Obrero grado 32 se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CURACAVI
+
+#### Artículo 47°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Curacaví, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 6a Cat. 14°
+
+Secretario Municipal y Alcaldía 6a Cat. 16°
+
+Director Depto. Tránsito 6a Cat. 16°
+
+Director Depto. Patentes e
+
+Inspección 1° 17°
+
+Juez de Policía Local 6a Cat. 15°
+
+Abogado Municipal 1° 16°
+
+Arquitecto Municipal 3° 17°
+
+Médico Gabinete Psicotécnico 14° Ley 15.076
+
+Secretario Jdo. Policía Local 2° 20°
+
+Ayudante Secretaría y Habilitado 2° 20°
+
+Oficial Organiz. Comunitarias 11° 25°
+
+Mayordomo 4° 26°
+
+Choferes 2° 25°
+
+Planta de Obreros
+
+Obreros 1° 28°
+
+El o los cargos de Secretario Municipal y Alcaldía grado 16° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Director Depto. Tránsito grado 16° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Director Depto. Patentes e Inspección grado 17° se convertirán en grado 18° al quedar vacantes.
+
+El o los cargos de Abogado Municipal grado 16° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Choferes. grado 25° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros grado 28° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CURACO DE VELEZ
+
+#### Artículo 48°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Curaco de Velez, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 17°
+
+Planta Administrativa
+
+Secretario Municipal 21° 19°
+
+MUNICIPALIDAD DE CURANILAHUE
+
+#### Artículo 49°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Curanilahue, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 11°
+
+Secretario Municipal y de la
+
+Alcaldía 10° 14°
+
+Secretario Jdo. Policía Local 11° 19°
+
+Juez de Policía Local 12° 13°
+
+Director Obras Municipales 17° 15°
+
+Planta Administrativa
+
+Secretario Dirección Obras
+
+Municipales 12° 21°
+
+Inspector Obras y Alumbrado
+
+Administrador Matadero, Inspector de 12° 21°
+
+Patentes y Aseo 12° 25°
+
+Recaudador Bodeguero Planillero 12° 25°
+
+Jefe de Garaje
+
+Planta de Obreros
+
+Choferes 4° 25°
+
+Mayordomo 4° 26°
+
+Chofer 5° 27°
+
+Jefe Matarifes 5° 27°
+
+Albañil 5° 28°
+
+Ordenanza 6° 28°
+
+Matarifes 6° 28°
+
+Jornaleros 6° 32°
+
+El o los cargos de Alcalde grado 11° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Secretario Municipal y de la Alcaldía grado 14° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Secretario Jdo. Policía Local grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Secretario Dirección Obras Municipales, Inspector Obras y Alumbrado grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Administrador Matadero Inspector Patentes y Aseo grado 21 se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Recaudador, Bodeguero Planillero grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Choferes grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Chofer grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Ordenanza grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Matarifes grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Jornaleros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CUREPTO
+
+#### Artículo 50°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Curepto, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde y Juez Policía Local 16°
+
+Secretario Municipal y
+
+Juzgado Policía Local 4° 19°
+
+Inspector Municipal,
+
+Patentes y Obras 14° 23°
+
+Planta de Obreros Municipales
+
+Obreros Especializados 10° 27
+
+Obreros sin Calificación 10° 31
+
+El o los cargos de Inspector Municipal Patentes y Obras grado 23° se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de Obreros sin calificación grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CURICO
+
+#### Artículo 51°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Curicó, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 3a Cat. 6°
+
+Juez de Policía Local 3a Cat. 7°
+
+Director Obras Municipales 3a Cat. 8°
+
+Secretario Municipal 3a Cat. 8°
+
+Jefe de Control 4a Cat. 11°
+
+Director del Tránsito 4a Cat. 11°
+
+Secretario de Alcaldía 4a Cat. 13°
+
+Jefe de Rentas 4a Cat. 13°
+
+Abogado Municipal 5a Cat. 10°
+
+Veterinario Adm. Matadero 5a Cat. 13°
+
+Secretario Jdo. Policía Local 1° 19°
+
+Jefe Parques y Jardines 10 19°
+
+Médico Gabinete Psicotécnico Ley 15.076
+
+Planta Administrativa.
+
+Oficial 1° Secretaría 2° 19°
+
+Oficial 2° Secretaría 7° 23°
+
+Inspector de Patentes 4° 20°
+
+Inspector Tránsito, Patentes y Obras 5° 21°
+
+Inspector Obras 6° 22°
+
+Inspector de Aseo 6° 22°
+
+Inspector Tránsito 8° 24°
+
+Inspector de Patentes 8° 24°
+
+Inspector de Patentes 9° 25°
+
+Inspector Alumbrado Público 9° 25°
+
+Inspector Tránsito 13° 27°
+
+Oficial 1° Jdo. Policía Local 1° 19°
+
+Jefe de Aseo 6° 19°
+
+Oficial Jdo. Policía Local 6° 22°
+
+Administrador Mercado y Vega 7° 23°
+
+Oficial de Control 8° 24°
+
+Habilitado de Personal 8° 24°
+
+Oficial de Partes 8° 24°
+
+Sub-Administrador Matadero 10° 24°
+
+Mecánico Jefe de Talleres 11° 24°
+
+Oficial de Alcaldía 11° 27°
+
+Bodeguero 12° 29°
+
+Personal Especializado
+
+Mecánico 9° 25°
+
+Choferes 13° 27°
+
+Choferes 17° 30°
+
+Planta de Servicios Menores
+
+Portero Alcaldía y Secretaría 10° 26°
+
+Mayordomo Matadero Municipal 12° 27°
+
+Mayordomo Parques y Jardines 13° 29°
+
+Planta de Obreros
+
+Carpinteros 1° 26°
+
+Carpintero 3° 27°
+
+Carpintero 4° 29°
+
+Pintor 1° 26°
+
+Pintor 2° 27°
+
+Pintor 3° 28°
+
+Jardineros 2° 27°
+
+Jardineros 3° 28°
+
+Jardineros 4° 29°
+
+Jardineros 5° 31°
+
+Jardineros 6° 32°
+
+Vulcanizador 1° 26°
+
+Caldereros 4° 28°
+
+Gásfiter 5° 29°
+
+Forjador 1° 26°
+
+Forjador 4° 28°
+
+Albañil 2° 27
+
+Albañil 3° 28
+
+Albañil 6° 32
+
+Jornaleros 3° 28
+
+Jornaleros 4° 29
+
+Jornaleros 5° 30
+
+Jornaleros 6° 31
+
+Jornaleros 7° 32
+
+El o los cargos de Oficial 1° Secretaría y Oficial 1° Juzgado Policía Local grado 19, se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Jefe de Aseo grado 19 se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Oficial Juzgado Policía Local grado 22 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Oficial de Control; Habilitado del Personal; y Mecánico Jefe de Talleres grado 24 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Oficial de Partes grado 24 y Portero Alcaldía y Secretaría grado 26 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Oficial de Alcaldía grado 27 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Bodeguero grado 29 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Mecánico grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Mayordomo Matadero Municipal grado 27; Vulcanizador y Forjador grado 26 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Mayordomo Parques y Jardines grado 29 se convertirán en grado 32 al quedar vacantes.
+
+El o los cargos de Carpintero grado 29; Pintor, Forjador de grado 28 y Albañil grado 32 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Jardineros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Jornaleros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE CHAITEN
+
+#### Artículo 52°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Chaitén, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 18° 16°
+
+Secretario Municipal 18° 19°
+
+Planta de Obreros
+
+Obrero 9° 30°
+
+Chofer 10° 27°
+
+Obreros 10° 32°
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CHANCO
+
+#### Artículo 53°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Chanco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Empleados
+
+Alcalde 14°
+
+Secretario Municipal y
+
+Alcaldía e Inspector Municipal 2° 17°
+
+Secretario Juzgado Policía
+
+Local, Bibliotecario e
+
+Inspector Municipal 2° 19°
+
+Oficial de Secretaría 19° 23°
+
+Chofer 12° 25°
+
+Obreros
+
+Tractorista 5° 26°
+
+Obrero 5° 27°
+
+Obreros 7° 29°
+
+Obreros 8° 31°
+
+El o los cargos de Chofer grado 25° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Obreros grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CHAÑARAL
+
+#### Artículo 54°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Chañaral, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 11°
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Juez de Policía Local 6a Cat. 12°
+
+Secretario Municipal y de la
+
+Alcaldía
+
+Contador-Contralor 6a Cat. 12°
+
+Director de Aseo y Jardines 6a Cat. 14°
+
+Jefe de Rentas 6a Cat. 14°
+
+Director Obras Municipales 6a Cat. 14°
+
+Secretario Juzgado Policía Local 5a 19°
+
+Director de Tránsito 6a Cat. 15°
+
+Médico Psicotécnico 8° Ley 15.076
+
+Planta Administrativa
+
+Oficial de Partes y
+
+Aydte. Secretaría 5° 19°
+
+Inspector de Aseo y Jardines 5° 19°
+
+Inspector de Patentes 5° 19°
+
+Inspector de Matadero 5° 19°
+
+Inspector de Tránsito 5° 19°
+
+Administrador de Mercado 5° 19°
+
+Auxiliar Ayudante 6° 23°
+
+Ayudante Bodeguero 14° 27°
+
+Mayordomo Servicios Municipales 14° 27°
+
+Bodeguero 6° 23°
+
+Choferes, Electricistas y Otros
+
+Electricista 5° 26°
+
+Mecánico 5° 26°
+
+Choferes 5° 26°
+
+Chofer 6° 28°
+
+Chofer 13° 30°
+
+Servicios Menores
+
+Capataz 12° 26°
+
+Mensajero 14° 32°
+
+Jornaleros Especializados
+
+Carpinteros 3° 26°
+
+Albañiles 3° 26°
+
+Gasfiter 3° 26°
+
+Jornaleros
+
+Ayudante de chofer 2° 26°
+
+Jornaleros 2° 28°
+
+Jornaleros 3° 30°
+
+Jornaleros 4° 31°
+
+Jornaleros 5° 32°
+
+El o los cargos de Alcalde grado 11° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Juez de Policía Local grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Secretario Municipal y de la Alcaldía Contador Contralor grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Director Obras Municipales; Director de Aseo y Jardines y Jefe de Rentas grado 14° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Secretario Juzgado Policía Local grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Oficial de Partes y Ayudante Secretaría; Inspector de Aseo y Jardines; Inspector de Patentes; Inspector de Matadero; Inspector de Tránsito y Administrador de Mercado grado 19° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Auxiliar Ayudante grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Ayudante Bodeguero grado 27° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Bodeguero grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Chofer grado 30° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Capataz; Carpinteros; Albañiles y Gásfiter grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Mensajero grado 32° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Ayudante Chofer grado 26° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Jornaleros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CHEPICA
+
+#### Artículo 55°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Chépica, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde y Juez Policía Local 5° 15°
+
+Secretario Municipal y
+
+Alcaldía, Secretario Juzgado
+
+Policía Local Adm. Teatro
+
+Municipal y Habilitado 5° 18°
+
+Inspector Municipal,
+
+Patentes Tránsito y Aseo 11° 23°
+
+Planta de Obreros
+
+Obreros 7° 29°
+
+Obreros 8° 31°
+
+Obreros 10° 32°
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CHILE CHICO
+
+#### Artículo 56°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Chile Chico, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 17°
+
+Planta Empleados
+
+Secretario Municipal, Secretario
+
+de la Alcaldía, Director del
+
+Tránsito, Secretario Jdo.
+
+Policía Local y Administrador
+
+Teatro Municipal 13° 20°
+
+Inspector de Patentes e
+
+Inspector de Matadero 19° 23°
+
+Planta Administrativa
+
+Chofer e Inspector de Máquinas 18° 27°
+
+Planta Obreros
+
+Obreros 8° 30°
+
+Obreros 10° 32°
+
+El o los cargos de Inspector de Patentes e Inspector de Matadero grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Chofer e Inspector de Máquinas grado 27 se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CHILLAN
+
+#### Artículo 57°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Chillán, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 5°
+
+Directivos Superiores
+
+Director de Control,
+
+Contador Auditor Contralor 1° 8°
+
+Director del Personal y
+
+Asistencia Social 1° 9°
+
+Abogado Jefe de la
+
+Defensa Municipal 1° 8°
+
+Director de Obras y Ornato 1° 8°
+
+Juez de Policía Local 1° 7°
+
+Director de Urbanización,
+
+Arquitecto, Asesor Urbanista 1° 8°
+
+Secretario de la Alcaldía 1° 9°
+
+Secretario de la Municipalidad 1° 8°
+
+Director de Aseo 1° 10°
+
+Director de Subsistencias,
+
+Ferias y Mercados 1° 10°
+
+Director de Adquisiciones y
+
+Administrador del Estadio 1° 10°
+
+Director de Rentas y Patentes 1° 10°
+
+Director de Tránsito 1° 10°
+
+Jefaturas
+
+Secretario Abogado del Juzgado
+
+de Policía Local 6° 9°
+
+Médico de Gabinete Psicotécnico 6° Ley 15.076
+
+Jefe Sección Control y Planillas 6° 15°
+
+Jefe Sección Inventarios y
+
+Administrador del Gimnasio 8° 16°
+
+Jefe Sección Obras Comunales 8° 16°
+
+Jefe Sección Recaudación Ferias
+
+y Mercados 8° 16°
+
+Jefe Sección Gabinete
+
+Psicotécnico 8° 16°
+
+Jefe Sección Decretos 9° 18°
+
+Jefe Sección Mantenimiento
+
+y Talleres 9° 18°
+
+Jefe Sección
+
+Clasificación Patentes 9° 18°
+
+Jefe Sección Depto. Tránsito 9° 18°
+
+Administrativos
+
+Oficial 1° del Jdo. de
+
+Policía Local 6° 19°
+
+Oficial 2° del Jdo. de
+
+Policía Local 6° 19°
+
+Recaudador 7° 19°
+
+Bibliotecaria 9° 20°
+
+Oficial de Partes y Archivero 9° 20°
+
+Oficinista de la
+
+Dirección de Obras 9° 20°
+
+1er Ayudante de Parques
+
+y Jardines 9° 20°
+
+Ayudante de la Dirección de Aseo 9° 20°
+
+Secretario de la Oficina
+
+de Rentas 9° 20°
+
+Oficial 3° del Jdo. de
+
+Policía Local 9° 20°
+
+Inspectores 9° 20°
+
+2do. Ayudante de
+
+Parques y Jardines 9° 20°
+
+Conductor de Obras 10° 23°
+
+Oficinista de Contabilidad 13° 25°
+
+Ayudante de la Dirección
+
+de Obras 13° 25°
+
+Recaudador 13° 25°
+
+Oficinista de la Dirección
+
+del Tránsito 13° 25°
+
+Inspectores 13° 24°
+
+Ayudante Bibliotecario 13° 29°
+
+Oficial Ayudante de
+
+Ferias y Mercados 13° 29°
+
+Servicios Menores
+
+y Oficios
+
+Choferes 5° 25°
+
+Mecánicos 5° 25°
+
+Mueblistas 5° 25°
+
+Electricistas 5° 25°
+
+Gásfiter 5° 25°
+
+Mayordomo 5° 25°
+
+Herreros 5° 25°
+
+Carpinteros 5° 25°
+
+Carrocero 5° 25°
+
+Talabartero 5° 25°
+
+Auxiliar Mecánicos 5° 26°
+
+Albañiles 5° 25°
+
+Auxiliar 5° 27°
+
+Obreros sin Especialidad 5° 28°
+
+Mayordomo Predio Termal 6° 25°
+
+Choferes 6° 26°
+
+Carpinteros 6° 26°
+
+Electricista 6° 26°
+
+Serenos 6° 26°
+
+Auxiliares Mecánicos 6° 27°
+
+Albañil 6° 27°
+
+Auxiliares 6° 29°
+
+Portero Dirección de Aseo 6° 30°
+
+Obreros sin especialidad 6° 30°
+
+Choferes 7° 27°
+
+Gásfiter 7° 27°
+
+Pintor 7° 27°
+
+Carpinteros 7° 27°
+
+Albañil 7° 29°
+
+Auxiliares 7° 32°
+
+Obreros sin especialidad 7° 32°
+
+El o los cargos de Alcalde grado 5° se convertirán en grado 6° al quedar vacantes.
+
+El o los cargos de Director de Control, Contador Auditor Contralor; Abogado Jefe de la Defensa Municipal; Director de Urbanización, Arquitecto Asesor Urbanista grado 8° se convertirán en grado 10° al quedar vacantes.
+
+El o los cargos de Director del Personal y Asistente Social grado 9° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Secretario de Alcaldía grado 9 se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Director de Aseo; Director de Subsistencias, Ferias y Mercados; Director de Adquisiciones y Administrador del Estadio y Director del Tránsito grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Oficial 2° del Juzgado de Policía Local y Recaudador grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Bibliotecaria; Oficial de Partes y Archivero; Oficinista de la Dirección de Obras; 1er Ayudante de Parques y Jardines; Ayudante de la Dirección de Aseo, y Secretario de la Oficina de Rentas grado 20° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Oficial 3° del Juzgado de Policía Local grado 20° se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de 2do. Ayudante de Parques y Jardines grado 20° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Choferes y Mecánicos grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Ayudante de la Dirección de Obras; Recaudador; Oficinista de la Dirección del Tránsito; Mueblistas; Electricistas; Gásfiter; Carpinteros; Carrocero; Talabartero; Albañiles; Mayordomo Predio Termal grado 25° e Inspectores grado 24° se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Herreros grado 25 y Auxiliares Mecánicos; y Choferes grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Serenos grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Carpinteros; Electricistas grado 26° y Pintor grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Auxiliares Mecánicos; Albañil, Choferes y Gásfiter grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Oficial Ayudante de Ferias y Mercados grado 29° se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Carpinteros grado 27° se convertirán en grado 32° al quedar vacantes.
+
+El o los cargos de Albañil grado 29 se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Auxiliares y Obreros sin Especialidad grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE CHIMBARONGO
+
+#### Artículo 58°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Chimbarongo, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Empleados
+
+Alcalde 14
+
+Juez de Policía Local Gr. 3° 15
+
+Secret. de Jdo. Policía Local Gr. 4° 21
+
+Secret. Munic. y de la Alcaldía Gr. 4° 17
+
+Director del Tránsito e Inspector
+
+de Aseo y Jardines Gr. 4° 19
+
+Inspectora de Patentes Gr. 4° 19
+
+Veterinario Municipal Gr. 9° 17
+
+Director de Obras Municipales Gr. 9° 17
+
+Planta Obreros Sin
+
+Especialización
+
+Obreros Gr. 1° 28
+
+El o los cargos de Inspector de Patentes grado 19° se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Obreros de grado 28 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE CHONCHI
+
+#### Artículo 59°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Chonchi, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva
+
+Alcalde Gr. 12° 17
+
+Secretaría Gr. 12° 20
+
+Obreros
+
+Obreros Gr. 10° 31
+
+El o los cargos de Obreros de grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE DALCAHUE
+
+#### Artículo 60°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Dalcahue, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 15
+
+Planta Empleados
+
+Secretario Municipal Gr. 13° 18
+
+Planta Obreros
+
+Obreros Gr. 10° 32
+
+El o los cargos de Obreros de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE DOÑIHUE
+
+#### Artículo 61°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Doñihue, de acuerdo con lo dispuesto en el artículo 13°, del decreto-Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Empleados
+
+Alcalde Gr. 9° 14
+
+Secretario Municipal y Alcaldía Gr. 9° 16
+
+Juez de Policía Local Gr. 9° 16
+
+Secretario Juzgado de Policía
+
+Local y Oficial Secretaría Gr. 11° 21
+
+Inspector Patentes Gr. 13° 24
+
+Planta Choferes y otros similares
+
+Chofer Gr. 12° 25
+
+Planta Obreros
+
+Obrero Gr. 3° 26
+
+Obrero Gr. 4° 27
+
+Obrero Gr. 5° 28
+
+Obrero Gr. 6° 29
+
+Obrero Gr. 8° 31
+
+El o los cargos de Alcalde de grado 14° se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Secretario Municipal y Alcaldía grado 16 se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Secretario Juzgado de Policía Local y Oficial Secretaría grado 21° se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Chofer de grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros de grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE EL CARMEN
+
+#### Artículo 62°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de El Carmen, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249 de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 17
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Secretario Municipal y
+
+de Alcaldía, Inspector de
+
+Patentes y Servicios
+
+Municipales Gdo. 13° 19
+
+Plantas Obreros Especializados
+
+Chofer Gdo. 5° 25
+
+Albañil - Carpintero Gdo. 6° 29
+
+Chofer Gdo. 7° 29
+
+El o los cargos de Secretario Municipal y de Alcaldía, Inspector de Patentes y Servicios Municipales grado 19 se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Albañil-Carpintero grado 29 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Chofer de grado 29 se convertirán en grado 33 al quedar vacantes.
+
+MUNICIPALIDAD DE EL MONTE
+
+#### Artículo 63°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de El Monte, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde Gdo. 2° 14
+
+Juez Policía Local Gdo. 2° 15
+
+Secretario de Alcaldía y
+
+Municipal Gdo. 2° 17
+
+Coordinador del Alcalde y
+
+Director de Rentas y Patentes Gdo. 4° 17
+
+Director de Aseo y
+
+Adm. Cementerio Gdo. 4° 19
+
+Director del Tránsito y
+
+Secretario del Jdo.
+
+Policía Local Gdo. 4° 19
+
+Inspector de Aseo y
+
+Obras Municipales Gdo. 6° 23
+
+Director de Obras Municipales Gdo. 9° 17
+
+Planta de Obreros
+
+Obreros Gdo. 1° 26
+
+Obreros Gdo. 2° 28
+
+Obreros Gdo. 3° 31
+
+Obrero Gdo. 5° 32
+
+El o los cargos de Coordinador del Alcalde y Director de Rentas y Patentes grado 17 se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Obrero grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE EL QUISCO
+
+#### Artículo 64°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de El Quisco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 6a Cat. 14
+
+Secretario Municipal y Alcaldía 6a Cat. 16
+
+Juez de Policía Local 6a Cat. 15
+
+Director de Obras Municipales 6a Cat. 16
+
+Director de Tránsito y Rentas 6a Cat. 17
+
+Director de Cont. y Contab. 6a Cat. 17
+
+Abogado Defensa Municipal 6a Cat. 17
+
+Médico Gabinete Psicotécnico Ley 15076
+
+Planta Administrativa
+
+Inspector de Obras Municipales Gr. 2° 19
+
+Secretario Juzgado Policía Local Gr. 2° 19
+
+Secretario Direc. Ob. Municipales Gr. 5° 25
+
+Inspector de Trans. y Rentas Gr. 5° 25
+
+Oficial de Secretaría Gr. 6° 27
+
+Planta Servicios Menores y Choferes
+
+Obreros Gr. 3° 26
+
+Obreros Gr. 4° 28
+
+Obreros Gr. 5° 30
+
+Choferes Gr. 6° 27
+
+Oficiales Administrativos Gr. 6° 27
+
+Floricultor Gr. 6° 27
+
+El o los cargos de Secretario Municipal y Alcaldía de grado 16 se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Director de Obras Municipales de grado 16 se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Director de Tránsito y Rentas de grado 17 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Director de Cont. y Contab. de grado 17 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Inspector de Obras Municipales de grado 19° se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Secretario Juzgado Policía Local grado 19 se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Oficial de Secretaría de grado 27 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros de grado 30 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Oficiales Administrativos de grado 27 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Floricultor de grado 27 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE EL TABO
+
+#### Artículo 65
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de El Tabo de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249 de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Grado Escala Grado Escala
+
+Nombre del cargo Municipal Unica
+
+_______________________________________________________
+
+Alcalde Gr. 5 14
+
+Secretario Municipal Gr. 5° 17
+
+Juez de Policía Local Gr. 5° 15
+
+Director Obras Municipales Gr. 8° 17
+
+Abogado Municipal Gr. 9° 17
+
+Secretario Juzgado Pol. Local Gr. 9° 19
+
+Secretario Dirección
+
+Obras Municipales Gr. 9° 19
+
+Director del Tránsito Gr. 9° 19
+
+Inspector Municipal Gr. 9° 21
+
+Inspector Municipal Gr. 12° 23
+
+Inspector Municipal Gr. 16° 25
+
+Médico Gabinete Psico técnico Gr. 20 Ley 15.076
+
+Chofer Gr. 12° 25
+
+Obreros Municipales
+
+Chofer Gr. 1° 26
+
+Choferes Gr. 3° 28
+
+Jardinero Gr. 1° 27
+
+Jardinero Gr. 2° 28
+
+Obreros Gr. 3° 29
+
+Obreros Gr. 4° 30
+
+Obreros Gr. 6° 32
+
+Estafeta Gr. 6° 32
+
+El o los cargos de Secretario Juzgado Policía Local grado 19 se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Secretario Dirección Obras Municipales grado 19 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Inspector Municipal de grado 21 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Inspector Municipal grado 23 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Inspector Municipal grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Chofer grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Chofer grado 26 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Choferes grado 28 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Jardinero grado 28 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Estafeta de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE EMPEDRADO
+
+#### Artículo 66°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Empedrado, de acuerdo con lo dispuesto en el artículo 13° del Decreto-Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Grado Escala Grado Escala
+
+Nombre del cargo Municipal Unica
+
+_______________________________________________________
+
+Alcalde 17
+
+Secretario Municipal y
+
+de Alcaldía Gr. 8° 20
+
+Planta de Obreros
+
+Obreros sin calificación Gr. 10° 31
+
+El o los cargos de Obreros sin Calificación grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE ENTRE LAGOS
+
+#### Artículo 67°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Entre Lagos, de acuerdo con lo dispuesto en el artículo 13° del Decreto-Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Grado Escala Grado Escala
+
+Nombre del cargo Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 17
+
+Secretario Municipal y
+
+Juzgado de Policía Local Gr. 4° 19
+
+Inspector de Patentes Gr. 7° 23
+
+Planta de Obreros
+
+Chofer 27
+
+Obrero 30
+
+El o los cargos de Secretario Municipal y Juzgado de Policía Local grado 19 se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Inspector de Patentes de grado 23° se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Chofer de grado 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Obrero de grado 30 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE ERCILLA
+
+#### Artículo 68°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Ercilla, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 16
+
+Secretario Municipal de
+
+la Alcaldía y del Juzgado Gr. 11° 24
+
+Inspector de Servicios
+
+Municipales y Ayudante
+
+Secretaría Gr. 13° 19
+
+Planta de Obreros
+
+Obrero Gr. 4° 28
+
+Obrero Gr. 7° 31
+
+Obrero Gr. 8° 32
+
+El o los cargos de Obrero de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE FLORIDA DE CONCEPCION
+
+#### Artículo 69°
+
+Fíjase, a contar del 1° de Enero, de 1974, para los trabajadores de la Municipalidad de Florida de Concepción, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación, en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde Gr. 5° 14
+
+Secretario Municipal de
+
+la Alcaldía Gr. 5° 16
+
+Juez de Policía Local Gr. 5° 15
+
+Administrativos
+
+Oficial, Secretario
+
+Juzgado Policía Local Gr. 9° 21
+
+Oficial, Inspector de Tránsito Gr. 9° 21
+
+Planta Obreros
+
+Obreros Especializados
+
+Chofer Taxibús Turismo Gr. 3° 26
+
+Jardinero, Carpintero
+
+y Albañil Gr. 7° 28
+
+Mayordomo, Mimeografista
+
+y Auxiliar Gr. 8° 29
+
+Obreros No Especializados
+
+Obrero Gr. 6° 29
+
+Obrero Gr. 7° 31
+
+Obreros Gr. 8° 32
+
+El o los cargos de Alcalde de grado 14 se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Secretario Municipal y de la Alcaldía grado 16 se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Juez de Policía Local grado 15 se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Oficial Secretario Juzgado Policía Local grado 21 se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Oficial, Inspector de Tránsito grado 21 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Mayordomo, Mimeografista y Auxiliar grado 29 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE FREIRE
+
+#### Artículo 70°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Freire, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 14
+
+Secretario Municipal
+
+y Alcaldía 6a. Cat. 17
+
+Juez Policía Local Gr. 10° 15
+
+Director Tránsito e Inspector
+
+Servicios varios Gr. 9° 19
+
+Ayudante de Secretaría y
+
+Secretario Juez Policía Local Gr. 21 21
+
+Planta de Obreros
+
+Chofer Jefe Taller Maquinarias Gr. 1° 25
+
+Mayordomo Gr. 1° 25
+
+Choferes Gr. 6° 28
+
+Cuidador Cementerio Municipal Gr. 6° 29
+
+Aseador Gr. 9° 30
+
+Aseadores Gr. 10° 32
+
+El o los cargos de Aseador grado 30° se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Aseador grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE FREIRINA
+
+#### Artículo 71°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Freirina, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 15
+
+Secretario Municipal Gr. 10° 18
+
+Secretario Alcaldía Gr. 11° 19
+
+Inspector Municipal Gr. 12° 24
+
+Chofer Gr. 15° 27
+
+Chofer Gr. 17° 29
+
+Obrero Gr. 4° 30
+
+Obrero Gr. 5° 31
+
+Obrero Gr. 6° 32
+
+El o los cargos de Alcalde grado 15 se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Secretario Municipal grado 18 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Secretario Alcaldía grado 19 se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Obrero grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE FRESIA
+
+#### Artículo 72°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad Fresia, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 15
+
+Planta Empleados
+
+Secretario Municipal Gr. 7° 18
+
+Inspector Patentes Gr. 12° 23
+
+Inspector y Chofer Gr. 14° 25
+
+Planta Obreros
+
+Obreros Gr. 9° 30
+
+El o los cargos de Inspector y Chofer grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros de grado 30 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE FRUTILLAR
+
+#### Artículo 73°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Frutillar, de acuerdo con lo dispuesto en el artículo 13° del decreto - ley N° 249, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Grado
+
+Escala Municipal Escala Unica
+
+_______________________________________________________
+
+Planta Empleados
+
+Alcalde Gr. 10° 14
+
+Secretario Municipal Gr. 10° 16
+
+Juez Policía Local Gr. 10° 15
+
+Inspector Patentes Gr. 10° 17
+
+Secretario Juz. Policía Local Gr. 13° 21
+
+Director de Tránsito Gr. 15° 19
+
+Médico Psicotécnico Gr. 22° Ley 15.076
+
+Planta Obreros
+
+Chofer Gr. 3° 26
+
+Obreros Gr. 6° 30
+
+Obrero Gr. 9° 32
+
+El o los cargos de Secretario Municipal grado 16 se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Inspector Patentes grado 17 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Chofer de grado 26 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obrero grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE FUTALEUFU
+
+#### Artículo 74°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Futaleufú, de acuerdo con lo dispuesto en el artículo 13° del decreto - ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Grado
+
+Escala Municipal Escala Unica
+
+_______________________________________________________
+
+Alcalde 16
+
+Planta Administrativa
+
+Secretaria Municipal y
+
+Secretaria Jdo. Policía
+
+Local Gr. 14° 19
+
+Planta Obreros
+
+Obrero Gr. 8° 30
+
+Obrero Gr. 9° 32
+
+El o los cargos de Obrero grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE FUTRONO
+
+#### Artículo 75°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Futrono, de acuerdo con lo dispuesto en el artículo 13° del decreto - ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del cargo Grado Grado
+
+Escala Municipal Escala Unica
+
+_______________________________________________________
+
+Planta Empleados
+
+Alcalde Gr. 4° 16
+
+Secretario Municipal Gr. 4° 19
+
+Inspector Municipal Gr. 8° 23
+
+Chofer Municipal Gr. 20° 26
+
+Matarife Gr. 3° 26
+
+Portero Gr. 3° 29
+
+Obrero Gr. 6° 31
+
+Panteonero Gr. 7° 32
+
+El o los cargos de Inspector Municipal grado 23° se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Chofer Municipal de grado 26 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Matarife grado 26 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Panteonero grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE GALVARINO
+
+#### Artículo 76°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Galvarino, de acuerdo con lo dispuesto en el artículo 13° del Decreto-Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 15
+
+Planta Directiva, Profesional
+
+y Técnica.
+
+Secretario de Alcaldía y
+
+Municipal, Secretario del
+
+Juzgado de Policía Local,
+
+Inspector del Tránsito,
+
+Inspector de Patentes y Adm
+
+del Cementerio Municipal Gr. 7° 18
+
+Planta Administrativa.
+
+Inspector Municipal y
+
+Administrador de la
+
+Empresa Municipal de
+
+Transportes Gr. 12° 21
+
+Inspector Municipal y
+
+de Matanza Gr. 18° 5
+
+Planta de Choferes.
+
+Chofer Bus Municipal Gr. 17° 27
+
+Planta Obreros sin calificación
+
+Obreros Gr. 10° 30
+
+El o los cargos de Inspector Municipal y Administrador de la Empresa Municipal de Transportes grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Inspector Municipal y de Matanza grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros grado 30 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE GORBEA
+
+#### Artículo 77°
+
+Fíjase , a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Gorbea, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados.
+
+Alcalde y Juez Policía Local 1a Cat. 14
+
+Secretario Municipal y de
+
+Alcaldía 1a Cat. 17
+
+Inspector Municipal Gr. 4° 19
+
+Inspector Municipal Gr. 10° 25
+
+Planta de Obreros.
+
+Matarife Gr. 1° 26
+
+Chofer Gr. 1° 25
+
+Policía Aseo Gr. 1° 28
+
+Ordenanza Gr. 2° 29
+
+Carpintero Gr. 2° 29
+
+Panteonero Gr. 2° 29
+
+Policía Aseo Gr. 2° 29
+
+Policía Aseo Gr. 3° 30
+
+Policías Aseos. Gr. 4° 31
+
+Mecánico Gr. 4° 31
+
+Policías Aseo Gr. 10° 32
+
+El o los cargos de Inspector Municipal grado 19 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Inspector Municipal grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Policías Aseo grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE GRANEROS
+
+#### Artículo 78°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Graneros, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Empleados.
+
+Alcalde 14
+
+Secretario Municipal
+
+y Alcaldía Gr. 3° 16
+
+Juez Policía Local Gr. 4° 15
+
+Director Obras Municipales Gr. 11° 17
+
+Médico Psicotécnico Gr. 11° Ley 15.076
+
+Abogado Municipal Gr. 11° 17
+
+Médico Veterinario Gr. 10° 15
+
+Jefe Servicio Aseo e
+
+Inspector Servicios
+
+Municipales Gr. 7° 21
+
+Director Depto. Tránsito
+
+y Administrador Bus Municipal Gr. 6° 19
+
+Director Depto. Patentes y
+
+Ayudante Secret. Municipal Gr. 8° 21
+
+Secretario Juzgado Policía
+
+Local y Habilitado Gr. 6° 21
+
+Inspector Servicios Municipales Gr. 9° 23
+
+Choferes Gr. 9° 25
+
+Planta Obreros.
+
+Obreros Gr. 1° 26
+
+Obreros Gr. 3° 29
+
+Obreros Gr. 4° 32
+
+El o los cargos de Secretario Municipal y Alcaldía grado 16 se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Médico Veterinario grado 15 se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Choferes grado 25 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE HIJUELAS
+
+#### Artículo 79°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Hijuelas, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde Gr. 4° 14
+
+Planta Empleados Municipales.
+
+Secretario Municipal, Alcaldía,
+
+Jefe Personal y Habilitado Gr. 4° 17
+
+Director del Tránsito y
+
+Secretario del Jdo. de
+
+Policía Local Gr. 8° 19
+
+Inspector Servicios
+
+Municipales Gr. 11° 23
+
+Director Obras Municipales
+
+(Arquitecto) Gr. 22° 17
+
+Médico Gabinete Psico técnico Ley 15.076
+
+Obreros.
+
+Obrero Especializado Gr. 4° 27
+
+Obrero sin oficio Gr. 4° 29
+
+Obrero sin oficio Gr. 6° 31
+
+Obrero Especializado Gr. 7° 30
+
+Obrero sin Oficio Gr. 7° 32
+
+El o los cargos de Obreros sin oficio grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE HUALAÑE
+
+#### Artículo 80°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Hualañé, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva Profesional
+
+Alcalde y Juez de Policía Local 14
+
+Secretario Municipal, Alcaldía,
+
+Juzgado Policía Local, Director
+
+Tránsito y Jefe Rentas Gr. 6° 17
+
+Médico Psicotécnico Ley 15.076
+
+Planta Administrativa
+
+Inspector de Patentes, Inspector
+
+de Tránsito y otros servicios
+
+Municipales Gr. 15° 24
+
+Planta Chofer
+
+Chofer Gr. 11° 26
+
+Planta de Obreros
+
+Jardinero Gr. 6° 28
+
+Matarife Gr. 7° 29
+
+Carpintero - Albañil Gr. 7° 29
+
+Obreros sin Especialización Gr. 8° 32
+
+Obrero sin Especialización Gr. 10° 32
+
+El o los cargos de Obreros sin Especialización grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE HUALQUI
+
+#### Artículo 81°
+
+Fíjase, a contar de 1° de Enero de 1974, para los trabajadores de la Municipalidad de Hualqui, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 15
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Juez de Policía Local 1° 16
+
+Secretario Municipal y de
+
+Alcaldía 3° 18
+
+Planta Administrativa
+
+Inspector Municipal y
+
+de Patentes 5° 21
+
+Secretaria de Juzgado y
+
+Oficial de Oficina de
+
+Partes e Inf. 6° 22
+
+Oficial Contable Habilitado 7° 25
+
+Obreros Especializados
+
+Chofer 1° 25
+
+Obreros no Especializados
+
+Obreros 1° 26
+
+Obreros 2° 28
+
+Obreros 5° 32
+
+El o los cargos de Inspector Municipal y de Patentes grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Chofer grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Obrero grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE HUASCO
+
+#### Artículo 82°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Huasco, de acuerdo con lo dispuesto en el artículo 13° del decreto -ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 15
+
+Planta Empleados
+
+Secretario Municipal y
+
+de Alcaldía 9° 18
+
+Inspector del Tránsito y
+
+Obras Municipales 14° 23
+
+Inspector de Patentes
+
+y Planillero 14° 23
+
+Planta de Obreros
+
+Obreros 9° 29
+
+Obreros 10° 31
+
+El o los cargos de Inspector de Patentes y Planillero grado 23° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Obreros grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE ILLAPEL
+
+#### Artículo 83°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Illapel, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 7
+
+Secretario Municipal y
+
+Alcaldía 4° 10
+
+Juez de Policía Local 4° 8
+
+Director Tránsito
+
+Inspector de Patentes y
+
+Of. de Secretaría 5° 12
+
+Director de Obras 13° 10
+
+Médico Gabinete
+
+Psicotécnico 14° Ley 15.076
+
+Planta Administrativa
+
+Administrador Mat. y Mercado 8° 19
+
+Inspector Aux. Bibliotecario
+
+Of. de Secretaría y Locutor
+
+de Radio 13° 25
+
+Secretario Jdo. Pol. Local. 13° 25
+
+Planta de Servicios Menores
+
+Mayordomo 15° 25
+
+Portero 15° 27
+
+Choferes Tractoristas 15° 25
+
+Choferes 25° 25
+
+Planta Obreros
+
+Obreros 6° 26
+
+Obrero 8° 28
+
+Obrero 9° 31
+
+El o los cargos de Alcalde grado 7° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Secretario Municipal y Alcaldía grado 10° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Juez de Policía Local grado 8° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Director Tránsito, Inspector de Patentes y Of. de Secretaría grado 12 se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Director de Obras grado 10° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Administrador Mat. y Mercado grado 19 se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Mayordomo grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Choferes Tractoristas grado 25° se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Choferes grado 25 se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Obrero grado 26° se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obrero grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE IQUIQUE
+
+#### Artículo 84°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Iquique, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 5
+
+Secretaría Municipal
+
+Secretario Municipal 1° 7
+
+Prosecretario 8° 17
+
+Oficial 13° 27
+
+Secretaría de la Alcaldía
+
+Secretario Alcaldía 1° 8
+
+Prosecretaria 8° 17
+
+Oficial de Partes 8° 19
+
+Oficial Bibliotecaria 10° 21
+
+Oficial 11° 23
+
+Defensa Municipal
+
+Abogado Defensa 1a Cat. 8
+
+Oficial 13° 27
+
+Contraloría Municipal
+
+Contador Jefe Control 1a Cat. 9
+
+Sub- Contralor 9° 17
+
+Habilitado 8° 19
+
+Planillera 10° 22
+
+Oficial 13° 25
+
+Planillero 13° 27
+
+Planillero 15° 29
+
+Rentas e Inspección
+
+Contador Jefe de Rentas 1a Cat. 9
+
+Subjefe de Rentas 10° 17
+
+Secretaría 10° 22
+
+Administrador Matadero 8° 19
+
+Administrador Mercado 10° 21
+
+Inspector 11° 22
+
+Inspectores 13° 25
+
+Inspector 15° 27
+
+Dirección del Tránsito
+
+Director del Tránsito 1° 9
+
+Sub-Director 8° 17
+
+Inspector 9° 21
+
+Médico Psicotécnico 9° Ley 15.076
+
+Oficiales 13° 27
+
+Oficial 15° 29
+
+Juzgado de Policía Local
+
+Juez de Policía Local 1° 6
+
+Secretario Jdo. 7° 18
+
+Oficial Segundo 8° 19
+
+Inspector 9° 21
+
+Dirección de Obras Municipales
+
+Director de Obras 1a Cat. 8
+
+Topógrafo 9° 19
+
+Secretaria 10° 22
+
+Oficial 15° 29
+
+Servicios Menores
+
+Mayordomo 13° 25
+
+Porteros 13° 27
+
+Departamento Explotac. Municipales
+
+Director 6° 12
+
+Jefe Mecánico 11° 24
+
+Ayudantes Mecánicos 10° 25
+
+Ayudante Mecánico 12° 26
+
+Ayudante Mecánico 15° 29
+
+Choferes 10° 25
+
+Choferes 11° 26
+
+Choferes 13° 27
+
+Electricista 11° 26
+
+Electricista 12° 26
+
+Electricista 13° 27
+
+Electricista 15° 29
+
+Bodeguero 10° 24
+
+Capataz 11° 25
+
+Pasatiempo 13° 27
+
+Oficial 13° 27
+
+Mayordomo 13° 27
+
+Jardineros 1° 27
+
+Jardineros 2° 28
+
+Jardineros 3° 29
+
+Jardineros 4° 30
+
+Gásfiter 1° 25
+
+Gásfiter 2° 28
+
+Carpintero 1° 25
+
+Carpinteros 2° 28
+
+Carpinteros 3° 29
+
+Albañil 2° 28
+
+Albañil 3° 29
+
+Herrero 2° 28
+
+Soldador 4° 30
+
+Operarios 2° 28
+
+Operarios 3° 29
+
+Operarios 4° 30
+
+Operarios 7° 32
+
+El o los cargos de Secretario Alcaldía grado 8° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Oficial grado 23° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Abogado Defensa grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Planillero grado 29 se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Oficial Dir. Tránsito grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Secretario Juzgado grado 18° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Oficial Segundo grado 19° se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Inspector grado 21° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Director de Obras grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Oficial Dr. Obras Municipales grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Porteros grado 27° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Director Depto. Explotac. Municipales grado 12° se convertirán en grado 16° a quedar vacantes.
+
+El o los cargos de Ayudante Mecánico grado 26° se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Ayudante Mecánico grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Choferes grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Electricista grado 26° se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Electricista grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Electricista grado 29° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Bodeguero grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Capataz grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Pasatiempo grado 27° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Oficial grado 27° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Mayordomo grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Jardineros grado 30° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Gásfiter grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Gásfiter grado 28° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Carpinteros grado 29° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Albañil grado 29° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Operarios grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE ISLA DE MAIPO
+
+#### Artículo 85°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Isla de Maipo, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Empleados
+
+Alcalde 3° 14
+
+Secretario Municipal
+
+y Alcaldía 3° 17
+
+Juez de Policía Local (Abogado). 3° 15
+
+Inspector Obras y Aseo 4° 19
+
+Inspector Patentes y Tránsito 6° 21
+
+Secretario Jdo. Pol. Local 8° 21
+
+Médico Veterinario 8° 17
+
+Ayudante Secretaría 8° 23
+
+Obreros
+
+Obreros Especializados 1° 26
+
+Choferes 1° 26
+
+Obreros 2° 31
+
+El o los cargos de Inspector Obras y Aseo grado 19 se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Inspector Patentes y Tránsito grado 21 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Ayudante Secretaría grado 23 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Obreros grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE ISLA DE PASCUA
+
+#### Artículo 86°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Isla de Pascua, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249 de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 17°
+
+Tesorero Municipal y
+
+Secretario de la Alcaldía 2° 19°
+
+Secretario Municipal 4° 24°
+
+El o los cargos de Tesorero Municipal y Secretario de la Alcaldía grado 19 se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Secretario Municipal grado 24° se convertirán en grado 27° al quedar vacantes.
+
+MUNICIPALIDAD DE LA CALERA
+
+#### Artículo 87°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de La Calera, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva
+
+Alcalde 2° 7°
+
+Secretario Municipal y
+
+de Alcaldía 2° 10°
+
+Juez de Policía Local 2° 9°
+
+Director Obras Asesor Urbanista 3° 11°
+
+Director de Tránsito-Jefe
+
+Movilización 5° 12°
+
+Abogado Municipal 14° 12°
+
+Planta Profesional
+
+Médico Gabinete Psicotécnico 10° Ley 15.076
+
+Planta Administrativa
+
+Secretario Juzgado Policía
+
+Local 4° 19°
+
+Inspector de Obras Técnico
+
+de Proyectos 4° 19°
+
+Habilitado Municipal
+
+Inspección de Aseo 5° 20°
+
+Inspector Servic. Capataz
+
+Obreros 5° 20°
+
+Inspector de Tránsito 8° 21°
+
+Oficial 1° Jdo. Policía Local 8° 23°
+
+Ayudante Secretaría, Oficial
+
+de Partes 10° 23°
+
+Inspector Patentes y
+
+Recaudación 10° 23°
+
+Ayudante Asesor Urbanista
+
+y Planif. 10° 23°
+
+Inspector Feria y Matadero 11° 24°
+
+Inspector Ayudante de Patentes 13° 25°
+
+Inspector Ayudante de Obras 14° 27°
+
+Inspector Ayudante Serv.
+
+Municipales 15° 27°
+
+Planta Electricista, Choferes y Otros
+
+Chofer 6° 25°
+
+Electricista 9° 26°
+
+Chofer 11° 27°
+
+Choferes 12° 29°
+
+Mecánico Vehículos Municipales 13° 29°
+
+Planta Servicios Menores
+
+Portero Municipal 11° 26°
+
+Mayordomo Matadero Municipal 11° 26°
+
+Mayordomo Estadio Municipal 13° 28°
+
+Portero Biblioteca 13° 29°
+
+Mayordomo Piscina Municipal 14° 30°
+
+Planta de Obreros
+
+Obreros con oficio 1° 25°
+
+Obreros con oficio 2° 26°
+
+Obreros con oficio 3° 27°
+
+Obreros con oficio 4° 29°
+
+Obreros con oficio 5° 31°
+
+Obreros sin oficio 3° 26°
+
+Obreros sin oficio 4° 28°
+
+Obreros sin oficio 5° 30°
+
+Obreros sin oficio 6° 31°
+
+Obreros sin oficio 7° 32°
+
+El o los cargos de Alcalde grado 7° se convertirán en grado 8° al quedar vacantes.
+
+El o los cargos de Secretario Municipal de Alcaldía grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Director de Tránsito - Jefe Movilización grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Abogado Municipal grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Inspector de Obras Técnico de Proyectos grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Habilitado Municipal Inspección de Aseo grado 20° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Inspector Servicio Capataz Obreros grado 20° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Inspector de Tránsito grado 21 se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Ayudante Secretaría Oficial de Partes grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Inspector Patentes y Recaudación; y Ayudante Asesor Urbanista y Planificación grado 23° se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de Inspector Feria y Matadero grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Inspector Ayudante de Patentes, chofer, y Obreros con oficio grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Electricista grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Portero Municipal; Mayordomo Matadero Municipal, grado 26° y Obreros con oficio grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Choferes grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Portero Biblioteca grado 29° se convertirán en grado 32° al quedar vacantes.
+
+El o los cargos de Obreros con oficio grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obreros con oficio grado 31° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Obreros sin oficio grado 32° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Obreros con oficio grado 26° se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros sin oficio grado 26° se convertirán en grado 27 al quedar vacantes.
+
+MUNICIPALIDAD DE LA CISTERNA
+
+#### Artículo 88°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de La Cisterna, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 5
+
+Director Rentas Municipales 1a Cat. 9
+
+Director Defensa Municipal 1a Cat. 9
+
+Director Secretaría de Alcaldía 1a Cat. 8
+
+Director de Obras Municipales 1a Cat. 8
+
+Director Matadero Municipal,
+
+Administración Técnica 1a Cat. 10
+
+Director de Aseos y Jardines 1a Cat. 9
+
+Director de Urbanismo 1a Cat. 9
+
+Director de Tránsito 1a Cat. 9
+
+Director de Subsistencias 1a Cat. 9
+
+Director de Adquisiciones 1a Cat. 10
+
+Director Secretaría Municipal 1a Cat. 7
+
+Director del Personal 1a Cat. 11
+
+Juez de Policía Local 1a Cat. 6
+
+Médico Gabinete Psico técnico Ley 15.076
+
+Subdirector Rentas Municipales 4a Cat. 12
+
+Subdirector de Obras
+
+Municipales 4a Cat. 12
+
+Subdirector de Aseo y Jardines 4a Cat. 12
+
+Subdirector de Tránsito 4a Cat. 13
+
+Subdirector de Subsistencias 4a Cat. 13
+
+Subdirector del Personal 4a Cat. 14
+
+Secretario Juzgado de Policía
+
+Local 4a Cat. 10
+
+Director de Casa de la Cultura 4a Cat. 15
+
+Jefe de Inspección y Ferias
+
+Libres 4a Cat. 15
+
+Jefe Oficina de Desarrollo
+
+Comunal 4a Cat. 15
+
+Jefe de Oficina de Partes 4a Cat. 19
+
+Arquitecto Jefe Subdivisión
+
+y Loteo 4a Cat. 12
+
+Constructor Jefe Inspección
+
+y Cálculo 4a Cat. 13
+
+Jefe de Existencias y
+
+Cotizaciones Dirección
+
+de Adquisiciones 1° 18
+
+Administrador Piscina
+
+Municipal 1° 19
+
+Oficial Primero Juzgado
+
+Policía Local 1° 19
+
+Jefe Sección Propagandas
+
+Dirección Subsistencias 1° 19
+
+Actuario Primero Causas
+
+Arrendamiento 1° 19
+
+Actuario Primero Causas
+
+Contravenciones 1° 19
+
+Jefe de Planillas Sueldos
+
+y Salarios 2° 20
+
+Jefe Distribución Personal
+
+Dirección de Aseo y Jardines 2° 21
+
+Jefe Matrícula y Taxis 2° 21
+
+Jefe Ingresos y Egresos y
+
+Dirección Rentas 3° 20
+
+Bibliotecario Casa de la
+
+Cultura 3° 19
+
+Oficiales Administrativos 3° 22
+
+Constructor Jefe Control y
+
+Revisión de Expedientes 4° 14
+
+Contador Jefe Contraloría
+
+Municipal 4° 16
+
+Jefe Recepción y Administrativo
+
+Dirección Obras 4° 20
+
+Oficiales Administrativos 4° 24
+
+Jefe Sección Cultura y Deportes 5° 21
+
+Dibujante Técnico Dirección
+
+Obras Municipales 5° 19
+
+Actuario Primero Casos Daños
+
+en Choques 5° 27
+
+Oficiales Administrativos 5° 27
+
+Jefe de la Redacción y
+
+Administrativo Secretaría
+
+Municipal 6° 19
+
+Procurador Defensa Municipal 6° 27
+
+Oficiales Administrativos 6° 29
+
+Planta de Obreros Municipales.
+
+Choferes 1° 25
+
+Choferes 2° 26
+
+Choferes 3° 28
+
+Choferes 4° 30
+
+Mayordomos 1° 25
+
+Mayordomos 2° 26
+
+Mayordomos 3° 28
+
+Mayordomos 4° 29
+
+Mayordomos 5° 30
+
+Jardineros 1° 25
+
+Jardineros 2° 27
+
+Jardineros 3° 29
+
+Especializados
+
+Pañolero 1° 25
+
+Desabollador 1° 25
+
+Mecánicos 1° 25
+
+Mecánicos 2° 27
+
+Mecánicos 3° 29
+
+Carpintero 1° 25
+
+Carpintero 2° 27
+
+Carpinteros 4° 32
+
+Electricista 2° 27
+
+Electricista 3° 29
+
+Ayud Desabollador 3° 29
+
+Gásfiter 2° 27
+
+Sellador Placas 2° 27
+
+Auxiliar Veterin. 3° 29
+
+Calderero 2° 27
+
+Pintores 3° 29
+
+Rondines 3° 29
+
+Porteros 1° 27
+
+Porteros 2° 29
+
+Porteros 3° 31
+
+Porteros 4° 32
+
+Auxiliares 2° 27
+
+Auxiliares 3° 29
+
+Auxiliares 4° 31
+
+Auxiliares 5° 32
+
+El o los cargos de Director Secretario de Alcaldía grado 8° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Director de Obras Municipales grado 8° se convertirán en grado 9 al quedar vacantes.
+
+El o los cargos de Director Matadero Municipal Administración Técnico grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Director de Adquisiciones grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Director del Personal grado 11 se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Subdirector Rentas Municipales grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Subdirector Obras Municipales grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Subdirector de Aseo y Jardines grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Subdirector del Personal grado 14° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Jefe de Inspección y Ferias Libres grado 15° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Jefe Oficina de Desarrollo Comunal grado 15° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Arquitecto Jefe Subdivisión y Loteos grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Construcción Jefe Inspección y Cálculo grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Actuario Primero Causas Arrendamiento grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Actuario Primero Causas Contravenciones grado 19° se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Jefe de Planillas, Sueldos y Salarios grado 20° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Oficiales Administrativos grado 22, Jefe Sección Cultura y Deportes grado 21 y Jefe de la Redacción y Administrativo Secret. Municipal grado 19, se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Constructor Jefe Control y Revisión de Expedientes grado 14 se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Contador Jefe Contraloría Municipal grado 16 se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Jefe Recepción y Administrativo Dir. Obras grado 20 se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Oficiales Administrativos grado 24 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Oficiales Administrativos grado 29 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Mayordomos grado 30, Jardineros grado 29, se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Jardineros grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Jardineros grado 27, Gásfiter grado 27 y Calderero grado 27, se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Mecánicos grado 29, Electricista grado 29 y Sellador de Placas grado 27, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Pañolero y Desabollador grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Ayud. Desabollador grado 29 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Porteros y Auxiliares grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LA CRUZ
+
+#### Artículo 89°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de La Cruz, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 14
+
+Secretario Municipal y Alcaldía 4 17
+
+Juez de Policía Local y Abogado
+
+Municipal 4 15
+
+Director Tránsito y Renta 4 19
+
+Director Obras Municipales 4 17
+
+Secretario Juzgado de Policía Local
+
+y Jefe Parques y Jardines 6 21
+
+Ayudante Direc. Obras Jefe de Aseo 11 26
+
+Médico Psicotécnico 13 Ley 15.076
+
+Ayudante Secret. Jefe de Archivo 13 28
+
+Planta de Obreros
+
+Capataz 1 27
+
+Chofer 1 27
+
+Cerrajero 1 29
+
+Jardinero 1 29
+
+Obrero 1 29
+
+Obreros 2 30
+
+Obrero 3 31
+
+Obreros 5 32
+
+El o los cargos de Ayudante Secret. Jefe de Archivo grado 28 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LA ESTRELLA
+
+#### Artículo 90°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de La Estrella, de acuerdo con lo dispuesto en el artículo 13 del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde, Juez de Policía Local 16
+
+Planta Administrativa
+
+Secretario Municipal y de
+
+la Alcaldía, Inspector de
+
+Patentes y Secretario Jdo.
+
+de Policía Local 13 19
+
+Planta Obreros
+
+Obrero 4 28
+
+Obrero 6 30
+
+Obrero 15 32
+
+El o los cargos de Obrero grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LA FLORIDA
+
+#### Artículo 91°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de La Florida, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 5
+
+Planta Empleados
+
+Secretario Abogado Municipal 2° 7
+
+Director de Obras 2° 9
+
+Juez de Policía Local 2° 6
+
+Director de Tránsito 2° 9
+
+Jefe de Control y Adquisiciones 2° 9
+
+Abogado Jefe de la Defensa
+
+Municipal 2° 9
+
+Administrador Técnico del
+
+Matadero Municipal 2° 13
+
+Arquitecto Jefe de Planificación
+
+e Integración Vecinal 3° 10
+
+Subdirector de Obras 3° 14
+
+Secretario Abogado de la Alcaldía 4° 10
+
+Jefe de Inspección y Patentes 5° 13
+
+Secretaria del Juzgado de
+
+Policía Local 5° 17
+
+Jefe de Aseo, Ornato y Maquinarias 6° 9
+
+Oficiales Administrativos 6° 19
+
+Oficiales Administrativos 7° 20
+
+Oficiales Administrativos 8° 21
+
+Oficiales Administrativos 9° 23
+
+Oficiales Administrativos 10° 25
+
+Oficiales Administrativos 11° 27
+
+Oficiales Administrativos 12° 28
+
+Oficiales Administrativos 13° 29
+
+Médico Cirujano Gabinete
+
+Psicotécnico Municipal Ley 15.076
+
+Planta de Obreros
+
+Choferes 1° 25
+
+Choferes 2° 27
+
+Choferes 4° 29
+
+Obreros Especializados 1° 25
+
+Obreros Especializados 2° 26
+
+Obreros Especializados 3° 27
+
+Obreros Especializados 4° 29
+
+Obreros Especializados 7° 31
+
+Obreros No Especializados 1° 25
+
+Obreros No Especializados 2° 27
+
+Obreros No Especializados 3° 28
+
+Obreros No Especializados 4° 29
+
+Obreros No Especializados 5° 30
+
+Obreros No Especializados 6° 31
+
+Obreros No Especializados 7° 32
+
+Obreros No Especializados 8° 32
+
+El o los cargos de Secretario Abogado de la Alcaldía grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Secretaria del Juzgado de Policía Local, grado 17° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Oficiales Administrativos grado 29° se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Choferes grado 29 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obreros Especializados grado 31 se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Obreros no Especializados grado 32 se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE LA GRANJA
+
+#### Artículo 92°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de La Granja, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249 de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 4a Cat. 5
+
+Juez de Policía Local 4a Cat. 6
+
+Secretario Abogado 4a Cat. 7
+
+Director de Obras Municipales 4a Cat. 9
+
+Veterinario Administrador
+
+del Matadero 4a Cat. 11
+
+Asesor Urbanista 4a Cat. 9
+
+Prosecretario Abogado Jefe
+
+Defensa Municipal 4a Cat. 9
+
+Director de Control 5a Cat. 9
+
+Director de Aseo y Jardines 5a Cat. 9
+
+Director de Tránsito 5a Cat. 9
+
+Director de Patentes 5a Cat. 9
+
+Secretario Juzgado Policía
+
+Local (Abogado) 6a Cat. 10
+
+Subdirector de Obras
+
+Municipales 6a Cat. 13
+
+Jefe Sección de Obras Comunit. 6a Cat. 15
+
+Oficial de Partes 6a Cat. 19
+
+Jefe Sección Habilitación 6a Cat. 19
+
+Topógrafo 1 19
+
+Inspectores 1 19
+
+Oficiales 1 20
+
+Inspectores 3 21
+
+Oficiales 3 21
+
+Oficiales 5 23
+
+Inspectores 5 23
+
+Inspectores 7 25
+
+Oficial 7 25
+
+Oficiales 9 27
+
+Inspectores 9 27
+
+Oficiales 11 29
+
+Planta Obreros
+
+Mecánico 1 25
+
+Electricistas 1 25
+
+Choferes 1 25
+
+Calderero 1 26
+
+Mayordomo 1 25
+
+Soldador 1 26
+
+Carpinteros 1 26
+
+Gásfiter 1 26
+
+Estafeta 1 26
+
+Jardinero 1 26
+
+Obreros 1 25
+
+Choferes 3 27
+
+Obreros 3 27
+
+Obreros 4 29
+
+Obreros 6 31
+
+Obreros 7 32
+
+El o los cargos de Veterinario Administrador del Matadero grado 11 se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Oficiales grado 29 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Calderero grado 26 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Carpintero grado 26 y Soldador grado 26 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Gásfiter grado 26 y Jardinero grado 26 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Estafeta grado 26 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Choferes grado 27 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LAGO RANCO
+
+#### Artículo 93°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Lago Ranco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 6a Cat. 16
+
+Secretario Municipal, Alcaldía
+
+y Juzgado de Policía Local 6a Cat. 17
+
+Director Obras Municipales Gr. 6° 18
+
+Inspector Municipal y Patentes Gr. 2° 23
+
+Planta de Choferes
+
+Chofer Gr. 5° 26
+
+Chofer Gr. 4° 26
+
+Planta de Servicios Menores
+
+Albañil y Carpintero Gr. 4° 28
+
+Jardinero Gr. 6° 29
+
+Obrero Gr. 6° 31
+
+Obreros Gr. 8° 32
+
+El o los cargos de Secretario Municipal, de Alcaldía y Juzgado de Policía Local grado 17° se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Director Obras Municipales grado 18° se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Inspector Municipal y Patentes grado 23° se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Chofer grado 5° asimilado al grado 26 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Chofer grado 4° asimilado al grado 26 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LA HIGUERA
+
+#### Artículo 94°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de La Higuera, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Empleados
+
+Alcalde 10° 14
+
+Secretario Municipal, Alcaldía,
+
+Ayudante Juez Policía Local y
+
+Habilitado 10° 17
+
+Inspector de Patentes y
+
+Auxiliar de Secretaría 12° 21
+
+Chofer 13° 26
+
+Chofer 14° 28
+
+Planta Obreros
+
+Obreros 5° 28
+
+Obreros 7° 30
+
+Obreros 8° 31
+
+Obreros 9° 32
+
+El o los cargos de Inspector de Patentes y Auxiliar de Secretaría grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Chofer grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE LAJA
+
+#### Artículo 95°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Laja, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 2° 13
+
+Juez de Policía Local 2° 14
+
+Secretario Juzgado Policía Local 10° 19
+
+Planta Directiva
+
+Secretario Municipal y de
+
+Alcaldía, Abogado 2° 15
+
+Administrador Matadero, Médico
+
+Veterinario 2° 17
+
+Director de Obras Municipales 3° 16
+
+Director del Tránsito 3° 17
+
+Médico Psicotécnico 7° Ley 15.076
+
+Planta Administrativa
+
+Inspector de Patentes 10° 19
+
+Sub-Administrador Matadero 12° 21
+
+Habilitado y Recaudador Municipal 13° 23
+
+Inspector Local 13° 23
+
+Inspector Obras Municipales 13° 23
+
+Encargado de Taller y Vehículos 13° 25
+
+Auxiliar de Secret. y Of. de Partes 14° 25
+
+Mayordomo Municipal 14° 26
+
+Planta de Obreros
+
+Obreros 7° 27
+
+Obreros 8° 29
+
+Obreros 9° 31
+
+Obreros 10° 32
+
+El o los cargos de Secretario Juzgado Policía Local grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Secretario Municipal y de Alcaldía, Abogado grado 15° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Inspector de Patentes grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Subadministrador Matadero grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Habilitado y Recaudador Municipal grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Inspector Local grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Inspector Obras Municipales grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Encargado de Taller y Vehículos grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Auxiliar de Secretaría y Of. de Partes grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Mayordomo Municipal grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE LA LIGUA
+
+#### Artículo 96°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de La Ligua, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 14
+
+Juez Policía Local 1° 15
+
+Secretario Municipal, Alcaldía
+
+y Miembro H. Jta. Clasif. Pattes. 1° 17
+
+Secretario Juzgado Policía
+
+Local y Director Tránsito 3° 19
+
+Arquitecto Director de Obras 6° 17
+
+Médico Veterinario Adm. Matadero 7° 17
+
+Médico Psicotécnico 14° Ley 15.076
+
+Planta Administrativa
+
+Inspector Municipal de Patentes
+
+y Secretario Jta. Clasif. Pattes. 5° 21
+
+Inspector Tránsito de Obras Aux.
+
+de Secret. y Enc. Invent. Municip. 9° 25
+
+Planta Obreros
+
+Obreros 1° 26
+
+Obreros 2° 29
+
+El o los cargos de Obreros grado 29° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE LAMPA
+
+#### Artículo 97°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Lampa, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 12
+
+Secretario Municipal y de
+
+Alcaldía, Director del
+
+Personal 2° 15
+
+Director Tránsito 2° 16
+
+Director Rentas 2° 16
+
+Director Control y Secretario
+
+Juzgado Policía Local 2° 17
+
+Planta Profesional y Técnica
+
+Juez de Policía Local 2° 13
+
+Director Obras 2° 15
+
+Planta Administrativa
+
+Actuario del Juzgado y Oficial
+
+de Secretarías 12° 19
+
+Secretaria Dirección Obras y
+
+Oficial de Secretaría 13° 23
+
+Recaudador Inspector 20° 26
+
+Planta de Obreros
+
+Choferes 1° 25
+
+Electricistas 1° 26
+
+Auxiliares-Porteros 1° 29
+
+Jardineros 1° 29
+
+Obreros sin Especialización 1° 31
+
+El o los cargos de Alcalde grado 12 se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Secretario Municipal y de Alcaldía grado 15° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Director Tránsito grado 16° y Director Rentas grado 16° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Juez de Policía Local grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Director de Obras grado 15° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Actuario del Juzgado y Oficial de Secretarías grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Recaudador Inspector grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Choferes grado 25°, Electricistas grado 26°, Auxiliares-Porteros grado 29° y Obreros sin Especialización grado 31° se convertirán en grado 28°, 28°, 35° y 35°, respectivamente al quedar vacantes.
+
+MUNICIPALIDAD DE LANCO
+
+#### Artículo 98
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Lanco, de acuerdo con lo dispuesto en el artículo 13° del Decreto-Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 5a Cat. 16
+
+Secretario Municipal y de
+
+Alcaldía y Director del
+
+Tránsito 5a Cat. 18
+
+Planta Administrativa
+
+Secretario del Jdo. Policía
+
+Local y Auxiliar de oficina
+
+Secret. Municipal Gr. 6° 21
+
+Inspector Municipal de Patentes Gr. 6° 21
+
+Oficial de Partes y Bodeguero Gr. 8° 25
+
+Chofer Mecánico Municipal Gr. 10° 26
+
+Planta de Obreros Municipales
+
+Tractoristas Municipales Gr. 7° 28
+
+Panteonero Municipal Gr. 8° 30
+
+Jardinero Municipal Gr. 8° 30
+
+Obreros Municipales Gr. 8° 31
+
+Carpintero Municipal Gr. 9° 29
+
+Obreros Municipales Gr. 9° 32
+
+El o los cargos de Secretario Municipal y de la Alcaldía y Director del Tránsito grado 18 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Secretario del Juzgado de Policía Local y Auxiliar de Ofic. Secret.
+
+Municipal grado 21 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Inspector Municipal de Patentes grado 21 se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Oficial de Partes y Bodeguero grado 25 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Chofer Mecánico Municipal grado 26 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Obreros Municipales grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LAS BARRANCAS
+
+#### Artículo 99°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Las Barrancas, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 5
+
+Secretario Municipal 4a Cat. 7
+
+Secretario de la Alcaldía 4a Cat. 10
+
+Abogado Defensa Municipal 4a Cat. 9
+
+Director de Aseo y Jardines 4a Cat. 9
+
+Director del Tránsito 4a Cat. 9
+
+Juez de Policía Local 4a Cat. 6
+
+Director de Subsistencias
+
+y Patentes 4a Cat. 9
+
+Jefe de Control y Rentas 4a Cat. 9
+
+Jefe de Personal y
+
+Subdirector de Obras 4a Cat. 12
+
+Director de Obras Municipales 5a Cat. 9
+
+Arquitecto Asesor Urbanista 5a Cat. 9
+
+Subdirector del Tránsito Gr. 3° 14
+
+Subjefe de Rentas Gr. 3° 14
+
+Médico Gabinete Psicotécnico Gr. 3° 15.076
+
+Subdirector de Subsitencias
+
+y Patentes Gr. 4° 14
+
+Secretario de Rentas Gr. 4° 17
+
+Secretario Archivero
+
+Oficina de Urbanismo 4° 19
+
+Jefe Oficina de Partes e
+
+Informaciones 4° 17
+
+Secretario Cementerio General 5° 19
+
+Oficial del Tránsito 5° 19
+
+Administrador de Estado
+
+y Piscina 5° 19
+
+Administrador del Cementerio
+
+Municipal 5° 19
+
+Veterinario Municipal e
+
+Inspector de Matadero 5° 11
+
+Secretario Abogado Jdo.
+
+Policía Local 5° 10
+
+Jefe Taller Mecánico 5° 23
+
+Subdirector de Aseo y Jardines 5° 17
+
+Oficiales del Tránsito 6° 20
+
+Inspector Servicios Aseo
+
+y Jardines 6° 20
+
+Secretario Subsistencias
+
+y Patentes 6° 20
+
+Actuario Jdo. Policía Local 6° 20
+
+Secretario del Tránsito 6° 20
+
+Oficial de Obras Municipales 6° 20
+
+Secretario Oficina de
+
+Partes e Informaciones 7° 21
+
+Oficiales del Tránsito 7° 21
+
+Oficial de Obras Municipales 7° 21
+
+Actuario Jdo. Policía Local 7° 21
+
+Oficial Subsistencias y Patentes 7° 21
+
+Dibujante Oficina Urbanismo 7° 20
+
+Mecánico Municipal 7° 25
+
+Oficial Secretaría Municipal 8° 23
+
+Oficial de Rentas 8° 23
+
+Actuario Jdo. Policía Local 8° 23
+
+Oficial de Obras Municipales 9° 25
+
+Oficial de Línea Oficina
+
+de Urbanismo 9° 25
+
+Electricista Municipal 9° 27
+
+Oficial Oficina de Control 9° 25
+
+Oficial de Subsistencias 9° 25
+
+Oficial de Control 10° 28
+
+Oficial Oficina de Partes
+
+e Información 10° 27
+
+Actuario Jdo. Policía Local 10° 27
+
+Secretario Plazas y Jardines 10° 27
+
+Oficial Secretaría de la
+
+Alcaldía 10° 28
+
+Bodeguero Municipal 10° 27
+
+Mecánico Municipal 10° 28
+
+Oficiales Secretaría Municipal 11° 29
+
+Secretario de Obras Municipales 11° 29
+
+Oficiales Secretaría de la
+
+Alcaldía 11° 29
+
+Oficial Archivo Municipal 11° 29
+
+Planta de Obreros con Especialización.
+
+Choferes 1° 25
+
+Ayudante Mecánico 1° 25
+
+Mayordomo 1° 25
+
+Mecánico Diesel 1° 25
+
+Carpinteros 1° 25
+
+Chofer 2° 27
+
+Vulcanizador 1° 25
+
+Gásfiter 1° 25
+
+Carpintero 2° 27
+
+Choferes 3° 29
+
+Choferes 4° 30
+
+Planta de Obreros Sin Especialización
+
+Servicios Generales
+
+Obreros 1° 25
+
+Obreros 2° 27
+
+Obreros 3° 29
+
+Obreros 4° 31
+
+Obreros 5° 32
+
+El o los cargos de Secretario de la Alcaldía grado 10, se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Jefe de Personal y Subdirector de Obras gr. 12, Veterinario Municipal e Inspector de Matadero gr. 11, se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Secretario de Rentas gr. 17, Jefe de Oficina de Partes e Informaciones gr. 17, se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Secretario Cementerio General de gr. 19 Oficial de Tránsito gr. 19 se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Jefe Taller Mecánico gr. 23, se convertirán en gr. 24 al quedar vacantes.
+
+El o los cargos de Oficiales del Tránsito gr. 20, Secretario Subsistencias y Patentes gr. 20, Actuario Jdo. Policía Local gr. 20; Secretario del Tránsito gr. 20 y Oficial de Obras Municipales, gr. 20, se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Inspector de Servicios Aseos, gr. 20, Secretario Oficina de Partes e Información gr. 21, Oficiales del Tránsito gr. 21, Oficial de Obras Municipales gr. 21, Actuario Juzgado Policía Local gr. 21, y Oficial Subsistencias y Patentes gr. 21, se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Oficial Secretaría Municipal gr. 23, Oficial de Rentas gr. 23, y Actuario Juzgado Policía Local gr. 23, se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Oficial de Obras Municipales gr. 25, Oficial de Línea Oficina de Urbanismo gr. 25, Oficial Oficina de Control gr. 25 y Oficial de Subsistencias gr. 25, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Mecánico Diesel gr. 25, y Carpinteros gr. 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Oficial Oficina de Partes e Información gr. 27, Actuario Jdo. Policía Local gr. 27, Secretario Plazas y Jardines gr. 27;
+
+Bodeguero gr. 27, Vulcanizador gr. 25 y Gásfiter, gr. 25, se convertirán en gr. 28 al quedar vacantes. Lo mismo para el Ayudante Mecánico de gr. 25.
+
+El o los cargos de Carpintero gr. 27, se convertirán en gr. 29 al quedar vacantes.
+
+El o los cargos de Oficial Archivo Municipal gr. 29, se convertirán en gr. 31 al quedar vacantes.
+
+El o los cargos de Obreros gr. 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LAS CABRAS
+
+#### Artículo 100°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Las Cabras, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 16
+
+Planta de Empleados
+
+Juez de Policía Local 9° 17
+
+Secretario Municipal y Alcaldía 9° 19
+
+Director Obras Municipales 10° 19
+
+Secretaria Juzgado Policía
+
+Local 11° 21
+
+Inspector Patentes y Tránsito 18° 23
+
+Planta de Obreros
+
+Choferes 10° 28
+
+Obreros no Calificados 10° 31
+
+El o los cargos de Secretaria Juzgado Policía Local de grado 21, se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Inspector Patentes y Tránsito gr. 23, se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Obreros no Calificados de grado 31, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LA SERENA
+
+#### Artículo 101°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de La Serena de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en el Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva Profesional
+
+y Técnica
+
+Alcalde 5a Cat. 5
+
+Juez de Policía Local 5a Cat. 7
+
+Secretario de la Alcaldía
+
+y Relaciones Públicas 5a Cat. 8
+
+Director Departamento de Control
+
+y Rentas Abogado Jefe 5a Cat. 8
+
+Secretario Municipal y
+
+Habilitado 5a Cat. 8
+
+Director del Departamento
+
+del Tránsito 5a Cat. 9
+
+Director del Departamento de
+
+Aseo 5a Cat. 9
+
+Director de Obras Municipales 5a Cat. 8
+
+Arquitecto Asesor Urbanista 5a Cat 9
+
+Asistente Social Jefe 5a Cat. 12
+
+Veterinario Administrador
+
+del Matadero 6a Cat. 10
+
+Secretario Abogado Jdo.
+
+Policía Local Gr. 2° 9
+
+Médico Gabinete Psico técnico Ley 15.076
+
+Jefe Depto. de Inspección y
+
+Patentes Gr. 3° 12
+
+Jefe de Parques y Jardines Gr. 3° 12
+
+Administrador de los Mercados 4° 16
+
+Jefe de Sección 4° 19
+
+Administrador del Estadio 4° 16
+
+Bibliotecario 9° 23
+
+Planta Administrativa
+
+Oficial Inspector 3° 19
+
+Sub-Administrador del Matadero 4° 19
+
+Oficial Inspector 4° 20
+
+Oficial Inspector 5° 21
+
+Oficial Inspector 6° 22
+
+Oficial Inspector 7° 23
+
+Oficial Inspector 8° 25
+
+Inspector de Obras 8° 25
+
+Oficial Inspector 9° 27
+
+Inspector del Tránsito 11° 27
+
+Telefonista 11° 29
+
+Inspector de Patentes 11° 27
+
+Planta de Choferes
+
+Chofer 7° 25
+
+Chofer 8° 27
+
+Chofer 9° 29
+
+Chofer 11° 30
+
+Servicios Menores
+
+OB.- Portero 3° 26
+
+OB.- Portero 4° 30
+
+Planta de Obreros
+
+OB. Matarifes Especializados 3° 26
+
+Obreros Especializados 3° 26
+
+Obreros 3° 26
+
+Obreros 4° 30
+
+Obreros 6° 32
+
+El cargo de Alcalde grado 5, se convertirá en grado 6 al quedar vacante.
+
+El o los cargos de Director Departamento de Control y Rentas grado 8°, Abogado Jefe grado 8°, y Arquitecto Asesor Urbanista grado 9°, se convertirán en grado 10 al quedar vacantes.
+
+El o los cargos de Director del Departamento de Aseo grado 9°, Director del Departamento de Tránsito grado 9°, se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Secretario de la Alcaldía y Relaciones Públicas de grado 8° y Veterinario Administrador del Matadero grado 10, se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Asistente Social Jefe grado 12°, se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Administrador de los Mercados grado 16° y Administrador del Estadio grado 16°, se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Sub-Administrador del Matadero grado 19° se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Chofer grado 25, se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Telefonistas grado 29, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Chofer grado 30, se convertirán en grado 32 al quedar vacantes.
+
+El o los cargos de Ob-Portero grado 30, de Obrero grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LA UNION
+
+#### Artículo 102°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de La Unión, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Empleados
+
+Alcalde 9
+
+Secretario Municipal
+
+y Alcaldía 2° 12
+
+Juez de Policía Local 2° 10
+
+Director Depto. Control 3° 14
+
+Director Obras Municipales 4° 12
+
+Secretario Jdo. Policía Local 4° 19
+
+Director Tránsito 5° 14
+
+Inspector Patentes 5° 21
+
+Bibliotecaria y Auxiliar
+
+Jdo. Pol. Local 7° 23
+
+Administrador Estadio Cubierto 7° 23
+
+Mayordomo 8° 25
+
+Jefe Taller y Mantención Máq. 8° 25
+
+Chofer Jefe Máquinas Aseo 8° 26
+
+Chofer Jefe Equipo Mecanizado 9° 27
+
+Planta de Obreros
+
+Obreros 1° 26
+
+Obreros 2° 27
+
+Obreros 3° 29
+
+Obreros 5° 30
+
+Obreros 6° 31
+
+Obreros 7° 32
+
+El o los cargos de Inspector de Patentes grado 21 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Bibliotecaria y Auxiliar Jdo. Policía Local grado 23°, Administrador Estadio Cubierto grado 23° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE LAUTARO
+
+#### Artículo 103°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Lautaro, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Empleados
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 12
+
+Secretario Municipal
+
+y Alcaldía 6° 15
+
+Juez Policía Local 6° 13
+
+Director de Obras Municipales 9° 15
+
+Veterinario Administrador
+
+Matadero 12° 16
+
+Médico Psicotécnico Ley 15.076
+
+Planta Administrativa
+
+Secretario Jdo. Policía Local 7° 20
+
+Director del Tránsito 8° 19
+
+Inspector de Patentes 8° 21
+
+Mayordomo Policía de Aseo 10° 25
+
+Mayordomo del Matadero 10° 25
+
+Auxiliar de Secretaría 10° 26
+
+Bibliotecaria 18° 23
+
+Planta Obreros
+
+Obreros 5° 29
+
+Obreros 6° 31
+
+Obreros 8° 32
+
+El o los cargos de Bibliotecaria grado 23° se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE LEBU
+
+#### Artículo 104°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Lebu, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 11
+
+Juez de Policía Local 8° 12
+
+Secretario Municipal
+
+y Alcaldía 8° 14
+
+Inspector Patentes, Director
+
+Servicio Aseo y Rentas 8° 15
+
+Director de Obras Municipales 20° 14
+
+Planta Administrativa
+
+Ayudante Secretaría Inspector
+
+Matadero y Tránsito 12° 19
+
+Secretario Juzgado Policía
+
+Local 16° 19
+
+Planta Personal Especializado
+
+Chofer 14° 25
+
+Chofer 16° 28
+
+Planta de Obreros
+
+Obreros 6° 28
+
+Obreros 7° 30
+
+El o los cargos de Chofer grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Chofer grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Obreros grado 30° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE LICANTEN
+
+#### Artículo 105°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Licantén, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 17
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Secretario Municipal
+
+y Alcaldía 7° 19
+
+Planta Administrativa
+
+Inspector Chofer Municipal 20° 26
+
+Planta de Obreros
+
+Obreros 7° 28
+
+Obrero 9° 31
+
+El o los cargos de Secretario Municipal y Alcaldía grado 19, se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Inspector Chofer Municipal grado 26, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obrero de grado 31, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LIMACHE
+
+#### Artículo 106°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Limache, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 9
+
+Directivos Superiores
+
+Secretario Municipal
+
+y de Alcaldía 2° 12
+
+Juez de Policía Local 2° 12
+
+Jefe de Control 2° 12
+
+Jefe de Rentas 3° 13
+
+Director de Obras Municipales 5° 12
+
+Director del Tránsito 5° 13
+
+Abogado Municipal 8° 13
+
+Director de Aseo y Of. de
+
+Secretaría 9° 13
+
+Planta Profesional
+
+Médico Gabinete Psico técnico 14° Ley 15.076
+
+Veterinario Matadero 15° 13
+
+Inspector Direc. OO.MM.
+
+(Const. Civil) 5° 17
+
+Planta Administrativa
+
+Secretario Juzgado Policía
+
+Local 5° 19
+
+Administ. Matadero e
+
+Inspec. Municipal 12° 19
+
+Oficial de Partes 8° 21
+
+Inspector Municipal 16° 27
+
+Personal Especializado
+
+Choferes 7° 26
+
+Electricista e Inspect.
+
+Municipal 12° 28
+
+Obreros Especializados
+
+Obreros 4° 25
+
+Obreros 5° 28
+
+Obreros 6° 29
+
+Obreros sin Calificación
+
+Obrero 3° 27
+
+Obreros 5° 29
+
+Obreros 6° 30
+
+Obreros 7° 31
+
+Obreros 8° 32
+
+Obreros 9° 32
+
+El cargo de Alcalde grado 9, se convertirá en grado 11, al quedar vacante.
+
+El o los cargos de Secretario Municipal y de Alcaldía grado 12, y Director de Obras grado 12, se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Jefe de Control de grado 12, Jefe de Rentas de gr. 13, Director de Tránsito grado 13, Abogado Municipal grado 13 y Veterinario Matadero gr. 13, se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Director de Aseo y Oficial de Secretaría grado 13, se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Administrador Matadero e Inspector Municipal grado 19, se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Oficial de Partes grado 21, se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Choferes grado 25, se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Obreros grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LINARES
+
+#### Artículo 107°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Linares, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 5a Cat. 5
+
+Secretario Municipal y de
+
+la Alcaldía e Inspector
+
+de Espectáculos Públicos 5a Cat. 8
+
+Juez de Policía Local 5a Cat. 7
+
+Director de Obras Municipales 6a Cat. 8
+
+Contralor Municipal y Jefe
+
+de Adquisiciones y
+
+Aprovisionamiento 6a Cat. 10
+
+Abogado Municipal 6a Cat. 10
+
+Director del Tránsito y
+
+Jefe de Patentes 6a Cat. 11
+
+Jefe de Aseo, Vehículos
+
+y OO.MM. 6a Cat. 14
+
+Administrador Veterinario
+
+Matadero Municipal Gr. 2° 12
+
+Sub-Contralor Municipal Gr. 6° 16
+
+Secretario Jdo. Policía Local Gr. 6° 18
+
+Administrador Mercados
+
+y Pérgolas Gr. 7° 16
+
+Oficial 1° de Secretaría
+
+e Inspector de Espectáculos
+
+Públicos y Teatro Gr. 7° 17
+
+Subjefe de Patentes Gr. 7° 16
+
+Sub-Jefe Aseo, Vehículos
+
+Obreros Municipales 7° 16
+
+Oficial 1° Jdo. Policía Local 7° 20
+
+Inspector Dirección de Obras
+
+Municipales (Dibujante Técnico) 8° 19
+
+Inspector Dirección de Obras
+
+Municipales 8° 21
+
+Ayudante Contraloría 8° 21
+
+Ayudante Matadero Municipal 9° 23
+
+Inspector de Aseo y Vehículos
+
+Motorizados 9° 23
+
+Ayudante Oficina de Patentes 9° 23
+
+Oficial 2° Jdo. de Policía
+
+Local 9° 23
+
+Oficial de Partes y Archivo 11° 23
+
+Oficial 2° de Secretaría
+
+Secretaría de Comisiones 12° 29
+
+Médico Municipal Ley 15.076
+
+Planta de Obreros
+
+Obreros 4° 26
+
+Obreros 6° 29
+
+El cargo de Alcalde gr. 5 se convertirá en grado 6 al quedar vacante.
+
+El o los cargos de Administrador Veterinario Matadero Municipal gr. 12, se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Secretario Juzgado de Policía Local gr. 18, Administrador Mercados y Pérgolas grado 16, Subjefe de Patentes grado 16, Oficial 1° de Secretaría e Inspector de Espectáculos Públicos y Teatros de grado 17°, Subjefe de Aseo, Vehículos, Obreros Municipales grado 16, se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Oficial 1° Juzgado Policía Local de grado 20, se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Inspector Dirección Obras Municipales (Dibujante Técnico) de grado 19, se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Inspector Dirección Obras Municipales de grado 21, se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Ayudante Contraloría grado 21, se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Oficial 2° Juzgado de Policía Local grado 23 y Ayudante Matadero Municipal de grado 23, se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Ayudante Oficina de Patentes grado 23 e Inspector Aseo y Vehículos Motorizados de grado 23, se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Oficial de Partes y Archivos grado 23, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros grado 26, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Oficial 2° de Secretaría y Secretario de Comisiones de grado 29, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros de grado 29, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LOLOL
+
+#### Artículo 108°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Lolol, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 16
+
+Secretario Municipal, Alcaldía
+
+y Juzgado de Policía Local 6° 19
+
+Planta de Obreros
+
+Obrero-Tractorista 3° 27
+
+Obrero-Chofer 10° 29
+
+El o los cargos de Obrero Chofer de grado 29°, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LONCOCHE
+
+#### Artículo 109°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Loncoche, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Personal de Empleados y Alcalde
+
+Alcalde 14
+
+Secretario de la Alcaldía,
+
+Munic. de la H. Junta
+
+Clasificadora de Patentes
+
+y Director del Tránsito 8° 17
+
+Juez de Policía Local 8° 15
+
+Secretario del Juzgado de
+
+Policía Local y Ayudante
+
+Secretaría 12° 20
+
+Inspector Municipal 14° 23
+
+Médico Gabinete Psico técnico 22° Ley 15.076
+
+Portero 16° 28
+
+Planta de Obreros
+
+Obreros 8° 28
+
+Obreros 10° 30
+
+El o los cargos de Obreros de grado 30, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LONGAVI
+
+#### Artículo 110°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Longaví, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 15
+
+Secretario Municipal y
+
+Alcaldía, Secretario Juzgado
+
+Policía Local y Director
+
+Tránsito 1° 18
+
+Jefe Servicios e
+
+Inspector Municipal 10° 23
+
+Planta de Obreros
+
+Obreros 6° 30
+
+Obreros 7° 32
+
+El o los cargos de Obreros de grado 32°, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LONQUIMAY
+
+#### Artículo 111°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Lonquimay, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 17
+
+Secretario Municipal y
+
+de Alcaldía 10° 19
+
+Planta de Obreros
+
+Chofer-Mecánico 10° 26
+
+Ordenanza 18° 28
+
+Obreros 10° 31
+
+El o los cargos de Secretario Municipal y de Alcaldía grado 19, se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Chofer Mecánico grado 26, se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Ordenanza grado 28, se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Obreros grado 31, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LOS ALAMOS
+
+#### Artículo 112°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Los Alamos, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 14° 16
+
+Administrativos
+
+Secretario Municipal 14° 19
+
+Inspector Municipal 15° 24
+
+Inspector Matadero 16° 27
+
+Servicios Menores
+
+Chofer Municipal 17° 28
+
+Planta de Obreros
+
+Obreros 5° 30
+
+Obreros 6° 32
+
+El o los cargos de Obreros de grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LOS ANDES
+
+#### Artículo 113°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Los Andes de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 1° 8
+
+Secretario Alcalde 1° 12
+
+Juez de Policía Local 1° 9
+
+Secretario Abogado Municipal 1° 11
+
+Director de Obras Municipales 1° 11
+
+Médico Veterinario 1° 12
+
+Médico Gabinete Psicotécnico
+
+y Bienestar 1° Ley 15.076
+
+Director del Tránsito 1° 13
+
+Director Policía de Aseo 1° 13
+
+Secretario Juzgado Policía Local 3° 19
+
+Contador y Habilitado 3° 16
+
+Inspector Jefe 3° 19
+
+Inspector 4° 20
+
+Inspector 5° 21
+
+Inspector 6° 22
+
+Inspectores 7° 23
+
+Inspectores 9° 24
+
+Inspector 10° 25
+
+Inspectores 11° 26
+
+Inspector 12° 27
+
+Chofer 7° 25
+
+Chofer 9° 26
+
+Chofer 10° 27
+
+Choferes 13° 28
+
+Choferes 14° 29
+
+Chofer 15° 30
+
+Jardinero 7° 26
+
+Archivero 8° 27
+
+Forjador 9° 28
+
+Electricista 11° 25
+
+Bodeguero 12° 27
+
+Mecánico 25
+
+Cuidador Baños Municipales 12° 28
+
+Obreros 4° 26
+
+Obreros 5° 27
+
+Obreros 6° 28
+
+Obreros 7° 29
+
+Obreros 8° 30
+
+Obreros 9° 31
+
+Obreros 10° 32
+
+El o los cargos de Secretario Alcalde grado 12, se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Médico Veterinario grado 12, se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Jardinero grado 26 y de Electricista grado 25, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Bodeguero grado 27, se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Cuidador de Baños Municipales grado 28, y Obreros grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LOS ANGELES
+
+#### Artículo 114°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Los Angeles, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva Superior
+
+Alcalde 4a Cat. 5
+
+Director de Control,
+
+Presupuestos y Rentas 4a Cat. 8
+
+Secretario Municipal y
+
+Alcaldía (Abog) 4a Cat. 8
+
+Director de Obras
+
+Municipales (Arquitecto) 4a Cat. 8
+
+Juez de Policía Local (Abogado) 4a Cat. 7
+
+Director de Tránsito 4a Cat. 10
+
+Planta Profesional y Técnica
+
+Secretario Abogado
+
+Juzgado Policía Local Gr. 4° 9
+
+Visitadora Social Gr. 4° 15
+
+Bibliotecaria Municipal Gr. 4° 16
+
+Inspector de Obras (Arquitecto) Gr. 6° 12
+
+Administrador, Matadero
+
+(Veterinario) Gr. 6° 12
+
+Inspector Patentes (Contador) Gr. 7° 18
+
+Médico Gabinete Psico técnico Ley 15.076
+
+Jefaturas
+
+Jefe Sección Inspección Patentes 6 Cat. 13
+
+Jefe Sección Parques y Jardines
+
+(ornato) Técnico Agrícola Gr. 1° 13
+
+Jefe de Servicios de Aseo 3° 14
+
+Jefe Sección Adquisiciones
+
+y Aprovisionamiento 3° 15
+
+Administrador Mercados
+
+y Ferias Libres 3° 15
+
+Jefe Sección Mantenimiento
+
+Equipos y Talleres 3° 16
+
+Jefe Sección Secretaría
+
+y Relaciones Públicas 4° 16
+
+Planta Administrativa
+
+Oficial 1° Juzgado Policía Local 2° 19
+
+Inspector de Tránsito 4° 20
+
+Ayudante Depto. de Contabilidad 5° 20
+
+Inspector Patentes 5° 21
+
+Habilitado y Pagador 6° 22
+
+Subadministrador Matadero 6° 22
+
+Inspector de Obras Municipales 6° 22
+
+Secretario Alcalde y
+
+Oficial de Partes 6° 22
+
+Inspector de Tránsito 6° 22
+
+Oficial 2° Receptor
+
+Jdo. Policía Local 7° 25
+
+Recaudador de Rentas y Derechos 7° 25
+
+Oficial 3° Juzgado
+
+de Policía Local 8° 26
+
+Inspector Servicios de Patentes 9° 27
+
+Choferes, Electricistas y
+
+Personal Especializado
+
+Mecánico y Choferes 1° 25
+
+Choferes 2° 26
+
+Choferes 3° 27
+
+Tractoristas y Gásfiter 4° 28
+
+Choferes y Electricistas 5° 30
+
+Obreros de Servicios Generales
+
+Jardineros y Carpinteros 1° 26
+
+Jardineros y Aseadores 2° 27
+
+Jardineros, Aseadores y Ordenanzas 3° 28
+
+Aseadores y Ordenanzas 4° 30
+
+Aseadores y Ordenanzas 5° 32
+
+El cargo de Alcalde grado 5, se convertirá en grado 6 al quedar vacantes.
+
+El o los cargos de Director de Control, Presupuestos y Rentas grado 8, se convertirán en grado 10 al quedar vacantes.
+
+El o los cargos de Director de Tránsito grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Visitadora Social grado 15, se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Bibliotecaria Municipal grado 16 se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Inspector de Obras (Arquitecto) grado 12, se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Administrador Matadero (Veterinario) grado 12 se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Jefe Sección Inspección Patentes grado 13 se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Jefe Sección Parques y Jardines (Ornato) Técnico Agrícola grado 13 se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Jefe de Servicios de Aseo grado 14 se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Jefe Sección Adquisiciones y Aprovisionamiento grado 15 se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Administrador Mercados y Ferias Libres grado 15, se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Jefe Sección Mantenimiento Equipos y Talleres grado 16, se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Jefe Sección Secretaría y Relaciones Públicas grado 16, se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Inspector Patentes grado 21, se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Habilitado y Pagador grado 22, Sub-Administrador Matadero grado 22 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Inspector de Obras Municipales grado 22, Inspector de Tránsito grado 22 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Secretario Alcalde y Oficial de Partes grado 22 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Oficial 2° Receptor Juzgado de Policía Local grado 25, Recaudador de Rentas y Derechos grado 25 y Choferes grado 26, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Choferes grado 27, se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Mecánico y Choferes grado 25, se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Tractoristas y Gasfiter grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Oficial 3 Juzgado de Policía Local grado 26, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Choferes y Electricistas grado 30 se convertirán en grado 32 al quedar vacantes.
+
+El o los cargos de Aseadores y Ordenanzas grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LOS LAGOS
+
+#### Artículo 115°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Los Lagos, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 14
+
+Juez de Policía Local 5a Cat. 15
+
+Secretario Municipal, de
+
+Alcaldía y Director del Tránsito Gr. 5 17
+
+Inspector de Patentes y Obras
+
+Municipales y Alumbrado 5° 18
+
+Secretario Jdo. Pol. Local y
+
+Of. de Partes 9° 21
+
+Portero Municipal 11° 27
+
+Director de Obras Municipales 12° 17
+
+Chofer Municipal 13° 25
+
+Médico Psicotécnico Ley 15.076
+
+Planta de Obreros Municipales
+
+Chofer Tractorista 3° 27
+
+Cuidador Gimnasio Municipal 4° 28
+
+Obrero y Panteonero Cementerio
+
+Municipal Antilhue 5° 29
+
+Obrero y Panteonero Cement.
+
+Municip. Reumen 5° 29
+
+Obreros 5° 29
+
+Obreros 6° 30
+
+Obrero 9° 31
+
+Obrero y Panteonero Cement.
+
+Municip. Los Lagos 9° 31
+
+Obrero 14° 32
+
+El o los cargos de Inspector de Patentes y Obras Municipales y Alumbrado grado 18, se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Chofer Municipal de grado 25, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obrero grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LOS MUERMOS
+
+#### Artículo 116°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Los Muermos, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 17
+
+Secretario Municipal,
+
+Alcaldía y Director del
+
+Tránsito 5° 19
+
+Inspector Municipal y Oficial
+
+Administrativo 8° 23
+
+Planta de Obreros
+
+Portero 5° 28
+
+Obreros 6° 29
+
+Chofer 8° 27
+
+Obrero 8° 31
+
+El o los cargos de Secretario Municipal, Alcaldía y Director del Tránsito grado 19, se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Inspector Municipal y Oficial Administrativo grado 23 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Chofer grado 27, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obrero grado 31, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LOS SAUCES
+
+#### Artículo 117°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Los Sauces, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 13° 16
+
+Secretario Municipal y Alcaldía 13° 19
+
+Inspector Patentes y Abasto 14° 24
+
+Inspector Aseo y Obras 19° 27
+
+Chofer 9° 27
+
+Planta de Obreros
+
+Obreros 8° 29
+
+Obrero 9° 31
+
+Obreros 10° 32
+
+El o los cargos de Chofer grado 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LOS VILOS
+
+#### Artículo 118°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Los Vilos, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 1° 15
+
+Secretario Municipal
+
+y Alcaldía Habilitado 1° 17
+
+Juez de Policía Local 1° 16
+
+Director de Obras 6° 17
+
+Secretario Juzgado Policía Local 6° 19
+
+Médico Municipal 12° Ley 15076
+
+Director Tránsito Adm.
+
+Matadero y Jefe Depto. Aseo 8° 19
+
+Inspector de Patentes,
+
+Tránsito y Construcciones 8° 23
+
+Planta Administrativa
+
+Ordenanza e Inspector Auxiliar 8° 29
+
+Choferes 6° 27
+
+Planta Obreros
+
+Jardineros 6° 29
+
+Matarife 6° 29
+
+Oficiales de Aseo 6° 30
+
+El o los cargos de Secretario Municipal grado 17 se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Director de Obras grado 17 se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Secretario Juzgado Policía Local grado 19 se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Oficiales de Aseo grado 30 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LOTA
+
+#### Artículo 119°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Lota de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 4° 9
+
+Juez Policía Local 4° 10
+
+Director Obras Municipales 8° 12
+
+Secretario Municipal
+
+y de Alcaldía 4° 12
+
+Jefe Contabilidad y Control 6° 14
+
+Director de Tránsito 6° 14
+
+Director Aseo 6° 14
+
+Médico Gabinete Psico técnico Ley 15076
+
+Planta Administrativa
+
+Administ. Merc. y Feria Libre 6° 19
+
+Inspector Jefe de Patentes 6° 19
+
+Secretario Juzgado Policía Local 6° 19
+
+Inspector de Tránsito 6° 19
+
+Encargado Bod. Abastec. y Distrib. 8° 23
+
+Administ. Cementerio Municipal 8° 23
+
+Actuario Jdo. Policía Local 8° 23
+
+Oficial Secretaría y Ayudante
+
+Contabilidad 8° 23
+
+Oficial de Partes y Archivo 9° 27
+
+Planta de Mantención
+
+Mecánico Municipal 8° 25
+
+Electricista 8° 25
+
+Chofer Municipal 9° 25
+
+Choferes Mecánicos 9° 25
+
+Planta Obreros Especializados
+
+Bibliotecario 5° 25
+
+Choferes 5° 26
+
+Ayudante Electricista 5° 27
+
+Pintor 5° 27
+
+Carpinteros 5° 27
+
+Jardinero 5° 27
+
+Albañil 5° 27
+
+Desabollador 6° 27
+
+Inspector de Obras 7° 26
+
+Ayudante Mecánico 7° 27
+
+Ayudante Inspector Obras 5° 27
+
+Ayudante Inspector Obras 7° 29
+
+Recaudadores 7° 29
+
+Ayudante Jardinero 5° 28
+
+Ayudante Inspector de Tránsito 7° 29
+
+Auxiliar 7° 29
+
+Planta Obreros no Especializados
+
+Obreros 5° 30
+
+Obreros 6° 31
+
+Obreros 7° 32
+
+El o los cargos de Choferes Mecánicos grado 25 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Ayudante Mecánico grado 27 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LUMACO
+
+#### Artículo 120°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Lumaco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Escala Unica
+
+Municipal Grado
+
+_______________________________________________________
+
+Alcalde 1° 17
+
+Secretario Municipal de Alcaldía
+
+y del Jdo. de Policía Local. 1° 20
+
+Inspector Municipal 10° 25
+
+Planta de Obreros.
+
+Jornaleros 10° 32
+
+El o los cargos de Jornaleros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LLANQUIHUE
+
+#### Artículo 121°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Llanquihue, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva
+
+Alcalde 14
+
+Secretario Municipal 5° 17
+
+Juez Policía Local 5° 15
+
+Médico Psicotécnico 18° Ley 15076
+
+Planta Administrativa
+
+Inspector Municipal 8° 21
+
+Secretario Juzgado y
+
+Director Tránsito 11° 20
+
+Planta Choferes
+
+Chofer Mecánico 8° 25
+
+Chofer 9° 27
+
+Planta de Obreros
+
+Especializados 3° 27
+
+No Especializados 5° 31
+
+El o los cargos de Inspector Municipal grado 21 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Chofer grado 27 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obreros No Especializados grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE LLAY-LLAY
+
+#### Artículo 122°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Llay-Llay, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 3° 11
+
+Secretaria Municipal, Alcaldía
+
+Jefe Control y Habilitado 3° 14
+
+Juez Policía Local 3° 13
+
+Director Tránsito, Secretario
+
+Juzgado Policía Local 4° 16
+
+Director de Obras 10° 16
+
+Veterinario Adm. Matadero 12° 16
+
+Planta Administrativa
+
+Inspector Jefe Patentes
+
+Impuestos y Ferias 5° 19
+
+Inspector Jefe Aseo,
+
+Matadero y Obras 5° 19
+
+Oficial Secretaría 14° 25
+
+Of. Secretaría Juzgado
+
+Policía Local 16° 27
+
+Chofer Mecánico
+
+Chofer Jefe Taller 1° 25
+
+Servicios Menores
+
+Mayordomo 1° 25
+
+Portero 2° 30
+
+Obreros Especializados
+
+Obreros Especializados Chofer 2° 25
+
+Obrero Especializado Jardinero 3° 27
+
+Obrero Especializado Gásfiter 3° 27
+
+Obrero Especializado Jardinero 4° 29
+
+Obrero Especializado Electricista 4° 29
+
+Obreros
+
+Obreros 4° 26
+
+Obreros 5° 28
+
+Obreros 6° 30
+
+Obreros 7° 31
+
+Obreros 8° 32
+
+El o los cargos de Alcalde grado 11 se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Secretario Municipal grado 14° se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Obreros Especializados grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Obreros grado 26 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Obreros grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE MACHALI
+
+#### Artículo 123°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Machalí, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 6a Cat. 11
+
+Secretario Municipal 6a Cat. 14
+
+Abogado Defensa Municipal 6a Cat. 15
+
+Juez Policía Local 6a Cat. 12
+
+Director Obras Municipales 6a Cat. 14
+
+Director Tránsito y Patentes 1° 16
+
+Secretario Alcaldía,
+
+Inspector Turismo 1° 16
+
+Relaciones Públicas
+
+Director Servicios Coya 1° 16
+
+Director Aseo y Jardines 2° 16
+
+Secretario Juzgado Policía Local 3° 19
+
+Mecánico Garage 3° 25
+
+Oficial 1° Secretaría 3° 21
+
+Inspector Obras Municipales 3° 21
+
+Inspector Tránsito y Patentes 3° 21
+
+Jefe Area Garage 3° 24
+
+Auxiliar y Archivero Municipal 4° 26
+
+Chofer Auxiliar Tránsito 4° 26
+
+Mecánico Banco 4° 26
+
+Eléctrico 4° 26
+
+Jefe Talleres Bodega Coya 5° 25
+
+Encargado Cultural 5° 25
+
+Oficial 1° Jdo. Policía Local 6° 27
+
+Médico Psicotécnico 7° Ley 15076
+
+Inspector Parques 7° 27
+
+Choferes 7° 28
+
+Personal Obreros
+
+Técnico Máquinas 1° 25
+
+Jardineros 1° 29
+
+Albañil 1° 29
+
+Carpintero 1° 29
+
+Electricista 1° 29
+
+Choferes 1° 29
+
+Gásfiter 1° 29
+
+Pintor 1° 29
+
+Sin Especialización 1° 31
+
+Sin Especialización 2° 32
+
+El o los cargos de Obreros sin especialización de grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE MAFIL
+
+#### Artículo 124°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Máfil, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 16
+
+Secretario Municipal y
+
+Alcaldía, Director del
+
+Tránsito, Secretario
+
+Jdo. Policía Local 1° 19
+
+Médico Gabinete Psico técnico 21° Ley 15076
+
+Planta Administrativa
+
+Inspector Servicios Municipales
+
+y Administrador Cementerio 14° 24
+
+Planta Obreros
+
+Jornaleros 5° 29
+
+Jornaleros 8° 32
+
+El o los cargos de Jornaleros grado 32° se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE MAIPU
+
+#### Artículo 125°
+
+Fíjase, a contar del l° de Enero de 1974, para los trabajadores de la Municipalidad de Maipú, de acuerdo con lo dispuesto en el artículo 13º del decreto ley Nº 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+Alcalde 1ª. Cat. 5
+
+Cargos Directivos
+
+Director de Tránsito y
+
+Departamento Rentas y 1ª. Cat. 7
+
+Coordinador e Inspector General
+
+de los Servicios.
+
+(Alcalde Subrogante)
+
+Secretario Abogado y Jefe Defensa
+
+Municipal 1ª Cat. 7
+
+Secretaria Alcaldía y Jefe Control
+
+(Contador) Jefe del Departamento
+
+de Contabilidad 1ª Cat. 8
+
+Departamento de Obras Municipales
+
+Director Arquitecto 1ª Cat. 8
+
+Asesor Urbanista (Arquitecto) 1ª Cat. 8
+
+Director Departamento de Aseo
+
+y Jardines 1ª Cat. 9
+
+Director Depto. de Subsistencias
+
+e Inspección 1ª Cat 9
+
+Juez de Policía Local (Abogado) 1ª Cat. 6
+
+Jefaturas y Profesionales
+
+Jefe Depto. de Obras de
+
+Emergencia (Ingeniero Civil) 2ª Cat. 9
+
+Jefe Depto. de Educación
+
+Municipal (Profesor de Estado) 2ª Cat 11
+
+Arquitecto Asesor 2ª Cat 9
+
+Jefe de Inspección de Obras
+
+(Constructor Civil) 2ª Cat 11
+
+Jefe Depto. de Construcciones
+
+Municipales 2ª Cat 11
+
+Jefe Depto. de Desarrollo
+
+Comunitario y Relaciones
+
+Públicas 2ª Cat 12
+
+Jefe de Sección Bienestar
+
+(Asistente Social) 2ª Cat 12
+
+Secretario Juzgado Policía
+
+Local (Abogado) 2ª Cat 10
+
+Jefe Depto. de Matadero
+
+(Médico Veterinario) 1ª Cat 10
+
+Rector Liceo 2ª Cat 9
+
+Secretario General y Jefe
+
+Depto. Administrativo 3ª Cat 13
+
+Jefe del Depto. de Jardines 4ª Cat 13
+
+Secretario General Dirección
+
+de Obras 3ª Cat 13
+
+Abogado Procurador 6º 13
+
+Secretario General Depto. de
+
+Desarrollo Comunitario y
+
+Relaciones Públicas 8º 16
+
+Jefe de Sección Contabilidad 3ª Cat 15
+
+Jefe Sección Ingresos y Egresos
+
+Depto. Contabilidad 5ª Cat 16
+
+Jefe de Zona Depto. de Aseo
+
+y Jardines 6ª Cat 18
+
+Jefe de Sección Tránsito 6ª Cat 18
+
+Jefe de Sección Patentes
+
+y Permisos 6ª Cat 18
+
+Proveedor Despacho Juzgado
+
+Policía Local 6ª Cat 18
+
+Jefe de Sección Personal
+
+y Habilitado 1º 18
+
+Jefe de Inspectores 5ª Cat 18
+
+Jefe de Inventario e
+
+Importaciones 1º 18
+
+Inspector Revisor Jefe de
+
+Control de Planillas 2º 19
+
+Inspector Revisor Jefe de
+
+Control de Planillas 5º 19
+
+Inspectores Generales Liceo
+
+Municipal (Jornadas diurna
+
+y vespertina) 6ª Cat 15
+
+Oficial 3ª Cat 19
+
+Jefe Sección Mantenimiento
+
+Depto. de Aseo 2º 19
+
+Secretario Liceo Municipal 4º 19
+
+Inspector 6ª Cat 19
+
+Inspector Liceo Municipal 3º 22
+
+Inspector Liceo Municipal 4º 24
+
+Dibujante 2º 19
+
+Actuario Juzgado Policía Local 8º 21
+
+Oficial 6ª Cat 20
+
+Subjefe Sección Mantenimiento
+
+Depto. de Aseo 2º 21
+
+Inspector 4º 23
+
+Jefe Revisión Documentos y
+
+Registro de Vehículos 5º 23
+
+Jefe de Padrones Dirección
+
+Tránsito 5º 23
+
+Inspector Dirección de Obras 5º 24
+
+Inspector Liceo Municipal 5º 25
+
+Directores Enseñanza Escuelas
+
+Básicas 5º 16
+
+Profesores Enseñanza Básica 6º 19
+
+Profesores Enseñanza Básica 7º 19
+
+Profesores Enseñanza Básica 8º 19
+
+Personal, Administrativo, Oficios y
+
+Servicios Menores
+
+Oficiales 6ª Cat. 19
+
+Oficiales 1º 20
+
+Oficiales 2º 21
+
+Oficial 1º 20
+
+Oficiales 2º 21
+
+Oficiales 3º 23
+
+Oficiales 4º 24
+
+Mayordomo 1º 25
+
+Oficiales 5º 25
+
+Oficial 6º 26
+
+Oficial 7º 27
+
+Oficial 2º 21
+
+Oficial 3º 23
+
+Oficial 4º 24
+
+Oficiales 6º 26
+
+Oficiales 7º 27
+
+Oficial 6º 26
+
+Oficiales 9º 29
+
+Choferes 2º 26
+
+Choferes 3º 27
+
+Oficial 2º 21
+
+Oficial 3º 23
+
+Oficial de Sala 1º 25
+
+Choferes 1º 25
+
+Chofer 2º 26
+
+Gásfiter 2º 26
+
+Carpinteros 1º 26
+
+Maestro Vulcanizador 1º 26
+
+Carpinteros 3º 27
+
+Oficiales de Sala 1º 26
+
+Oficiales de Sala 2º 27
+
+Oficiales de Sala 3º 29
+
+Ayudante de Vulcanización 1º 29
+
+Ayudante de Fragua 1º 29
+
+Albañiles 1º 26
+
+Maestros de Alcantarillado 1º 27
+
+Albañiles 2º 28
+
+Albañil 3º 29
+
+Ayudantes de Mecánicos 3º 29
+
+Cargadores 1º 28
+
+Cargadores 2º 29
+
+Cargadores 3º 30
+
+Jefe de Grupo 1º 24
+
+Operador de Equipo Pesado 1º 24
+
+Operador de Equipo Pesado 2º 25
+
+Jardineros 1º 28
+
+Jardineros 2º 29
+
+Jardineros 3º 30
+
+Aseadores 1º 28
+
+Aseadores 2º 29
+
+Aseadores 3º 30
+
+El o los cargos de Director de Tránsito y Departamento Rentas y Coordinador e Inspector General de los Servicios (Alcalde Subrogante) grado 7º se convertirán en grado 9º al quedar vacantes.
+
+El o los cargos de Secretaria Alcaldía, Jefe Control (Contador) Jefe del Departamento de Contabilidad grado 8º se convertirán en grado 9 al quedar vacantes.
+
+El o los cargos de Director Arquitecto Departamento de Obras Municipales grado 8º se convertirán en grado 9 al quedar vacantes.
+
+El o los cargos de Asesor Urbanista (Arquitecto) grado 8º se convertirán en grado 9º al quedar vacantes.
+
+El o los cargos de Jefe Departamento de Obras de Emergencia (Ingeniero Civil) grado 9º se convertirán en grado 12º al quedar vacantes.
+
+El o los cargos de Jefe Depto. de Educación Municipal (Profesor de Estado) grado 11º se convertirán en grado 12º al quedar vacantes.
+
+El o los cargos de Arquitecto Asesor grado 9º se convertirán en grado 12º al quedar vacantes.
+
+El o los cargos de Jefe de Inspección de Obras (Constructor Civil) grado 11º se convertirán en grado 13º al quedar vacantes.
+
+El o los cargos de Jefe Depto. de Construcciones Municipales grado 11º se convertirán en grado 13º al quedar vacantes.
+
+El o los cargos de Jefe Depto. de Desarrollo Comunitario y Relaciones Públicas grado 12º se convertirán en grado 13º al quedar vacantes.
+
+El o los cargos de Jefe de Sección Bienestar (Asistente Social) grado 12º se convertirán en grado 16º al quedar vacantes.
+
+El o los cargos de Jefe Depto. de Matadero (Médico Veterinario) grado 10º se convertirán en grado 13º al quedar vacantes.
+
+El o los cargos de Secretario General Dirección de Obras grado 13º se convertirán en grado 16º al quedar vacantes.
+
+El o los cargos de Jefe de Sección Contabilidad grado 15º se convertirán en grado 16º al quedar vacantes.
+
+El o los cargos de Inspector Revisor Jefe de Control de Planillas grado 19º se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Inspector grado 23º se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Inspector Dirección de Obras grado 24 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Oficiales grado 29 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Choferes grado 27 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Chofer grado 26, Gásfiter grado 26, Carpinteros grado 26 y Maestro Vulcanizador grado 26 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Carpinteros grado 27 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Oficiales de Sala grado 29 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Albañil grado 29 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Cargadores grado 30 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Jardinero grado 30 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Aseadores grado 30 se convertirán en grado 35 al quedar vacantes.
+
+Planta de Funcionarios Servicio Municipal de Agua Potable y Alcantarillado
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Administrador Ingeniero Civil 1ª Cat. 7
+
+Jefe Departamento Contabilidad 2ª Cat. 10
+
+Secretario General 2ª Cat. 14
+
+Jefe Subdepartamento
+
+Facturación y Control 2ª Cat. 15
+
+Jefe Subdepartamento Const. y
+
+Mantención 2ª Cat. 15
+
+Jefe Departamento Pres. e
+
+Invest. Técnicas 3ª Cat. 10
+
+Jefe Departamento Técnico
+
+Comercial 4ª Cat. 10
+
+Jefe Departamento Técnico
+
+de Explotación 4ª Cat. 10
+
+Jefe Sección Redes Agua
+
+Potable 4ª Cat. 16
+
+Jefe Sección Abastec.
+
+Agua Potable 4ª Cat. 16
+
+Jefe Sección Ingresos 5ª Cat. 17
+
+Jefe Sección Adquisiciones 5ª Cat. 17
+
+Jefe Sección Redes Alcantarillado 6ª Cat. 17
+
+Jefe Sección Maquinarias 6ª Cat. 18
+
+Jefe Sección Gasfitería
+
+Mantención 6ª Cat. 18
+
+Jefe Sección Invent. y Cont.
+
+Bodega 6ª Cat. 18
+
+Operador Máquina Retroexcavadora 6ª Cat. 24
+
+Jefe Oficina San José 1º 17
+
+Jefe Sección Planchetas e
+
+Inspección 1º 18
+
+Encargado Archivo General 1º 19
+
+Oficial Bodega 1º 19
+
+Jefe Mat. de Agua Potable 1º 24
+
+Maestro Mantención
+
+Alcantarillado 1º 24
+
+Operador Máquina Retroexcavadora 1º 25
+
+Maestro Inst. Matrices de Agua
+
+Potable 1º 25
+
+Ayudante Mant. Alcantarillado 1º 25
+
+Jefe Grupo Armador de Bombas 1º 25
+
+Jefe Cuadrilla Fca. Tubos 1º 25
+
+Choferes 1º 25
+
+Ayudantes Instalación Matrices 1º 25
+
+Maestro Reparador de Medidores 1º 25
+
+Maestro Gásfiter 1º 25
+
+Maestro Armadores de Bombas 1º 25
+
+Operadores de Bombas 1º 25
+
+Maestros Fca. de Tubos 1º 25
+
+Maestro Colocador Tubos
+
+Alcantarillado 1º 25
+
+Oficiales de Sala 1º 25
+
+Ayud. Operador Máq.
+
+Retroexcavadora 1º 25
+
+Ayudantes de Gásfiter 1º 25
+
+Albañiles 1º 25
+
+Ayudantes Excavac. Agua Potable 1º 25
+
+Jardinero 1º 25
+
+Ayudantes Fca. de Tubos 1º 25
+
+Jefe Sección Gasfitería
+
+Construcción 2º 17
+
+Secretario Administrativo 2º 20
+
+Oficial Facturación y Control 2º 20
+
+Perforista Máquina N.C.R. 2º 20
+
+Jefe Cuadrilla Fca. Tubos 2º 25
+
+Maestro Gásfiter 2º 27
+
+Operadores de Bombas 2º 27
+
+Maestros Fca. de Tubos 2º 27
+
+Ayudantes Fca. de Tubos 2º 27
+
+Maestros Camareros 2º 27
+
+Ayudantes de Gásfiter 2º 27
+
+Carpintero 2º 27
+
+Estucador 2º 27
+
+Personal de Patio Fca. Tubos 2º 27
+
+Ayudantes Excavac. Alcantarillado 2º 27
+
+Jardineros 2º 27
+
+Jefe Sección Ingresos 3º 19
+
+Encarg. Factura y Cont. Of.
+
+Central 3º 21
+
+Cajera Oficina Central 3º 22
+
+Jefe Grupo Mantención
+
+Alcantarillado 3º 22
+
+Oficial Facturación y Control 3º 22
+
+Oficial Dactilógrafo 3º 22
+
+Lector Oficina Central 3º 23
+
+Ayudante Mant. Alcantarillado 3º 29
+
+Choferes 3º 28
+
+Oficial Topógrafo 4º 23
+
+Oficial Dibujo 4º 23
+
+Cajero Oficina Cerrillos 4º 23
+
+Cajero Oficina San José 4º 23
+
+Oficial Presupuestos 4º 23
+
+Lector Oficina Central 4º 25
+
+Lector Oficina San José 4º 25
+
+Dactilógrafo lector 4º 25
+
+Mecánico Electricista 4º 27
+
+Ayudante Mecánico 5º 29
+
+Oficial Archivo 6º 29
+
+El o los cargos de Administrador - Ingeniero Civil grado 7 se convertirán en grado 8 al quedar vacantes.
+
+El o los cargos de Jefe Departamento Contabilidad grado 10 se convertirán en grado 12 al quedar vacantes.
+
+El o los cargos de Jefe Depto. Pres. e Investigaciones Técnicas grado 10 se convertirán en grado 12 al quedar vacantes.
+
+El o los cargos de Jefe Depto. Técnico Comercial grado 10 se convertirán en grado 12 al quedar vacantes.
+
+El o los cargos de Jefe Depto. Técnico de Explotación grado 10 se convertirán en grado 12 al quedar vacantes.
+
+El o los cargos de Jefe Sección Gasfitería, Construcción grado 17 se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Jefe Cuadrilla Fca. Tubos grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Jardineros grado 27 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Jefe de Grupo Mantención Alcantarillado grado 22 se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Ayudante Mantención Alcantarillado grado 29 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Ayudante Mecánico grado 29 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Oficial Archivo grado 29 se convertirán en grado 31 al quedar vacantes.
+
+MUNICIPALIDAD DE MALLOA
+
+#### Artículo 126
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Malloa, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 16
+
+Planta Empleados
+
+Secretario Municipal y de la
+
+Alcaldía 2a Cat. 18
+
+Juez de Policía Local 4° 17
+
+Secretario Juzgado Policía Local
+
+y Habilitado 5° 20
+
+Director Departamento Tránsito y
+
+Aseo e Inspector General Servicios
+
+Municipales 8° 20
+
+Director Departamento Patentes e
+
+Inspector 9° 21
+
+General de Servicios Municipales
+
+Médico Gabinete Psico técnico 13° Ley 15076
+
+Portero y Chofer 8° 25
+
+Mayordomo 8° 25
+
+Chofer 9° 28
+
+Chofer 10° 29
+
+Planta Obreros
+
+Obreros 1° 31
+
+El o los cargos de Secretario Municipal y de la Alcaldía, grado 18 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Secretario Juzgado Policía Local y Habilitado grado 20 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Director Depto. Patentes e Inspector General de Servicios Municipales grado 21 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Portero y Chofer grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Mayordomo grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Chofer grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Chofer grado 29 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obreros grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE MARCHIGÜE
+
+#### Artículo 127°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Marchigüe, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 17
+
+Planta de Empleados
+
+Secretario Municipal y
+
+del Juzgado de Policía Local 8° 19
+
+Director del Tránsito e
+
+Inspector de obras Municipales 13° 21
+
+Médico Gabinete Psicotécnico Ley 15076
+
+Planta Obreros
+
+Obrero 1° 28
+
+Obreros 6° 30
+
+Obreros 8° 32
+
+El o los cargos de Secretario Municipal y del Juzgado de Policía Local grado 19 se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE MARIA PINTO
+
+#### Artículo 128°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de María Pinto, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde la de Comuna 1° 16
+
+Secretario Municipal
+
+y de la Alcaldía 1° 18
+
+Director de Obras Municipales 4° 19
+
+Médico Gabinete Psicotécnico Ley 15076
+
+Obreros (Jardineros) 1° 29
+
+El o los cargos de Secretario Municipal de la Alcaldía grado 18 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Obreros (Jardineros) grado 29 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE MARIQUINA
+
+#### Artículo 129°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Mariquina de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva
+
+Alcalde 3° 16
+
+Secretario Municipal y de
+
+Alcaldía y Director del
+
+Tránsito 3° 18
+
+Juez de Policía Local 3° 17
+
+Secretario del Depto. del
+
+Tránsito Inspector de
+
+Servicios Municipales y
+
+Administrador del Matadero
+
+Municipal 5° 21
+
+Planta Administrativa
+
+Secretaria del Jdo. Pol.
+
+Local y Auxiliar de Oficina 3° 23
+
+Auxiliar de Secretaría 7° 27
+
+Médico Equipo Psicotécnico 15° Ley 15076
+
+Planta de Servicios Menores
+
+Cuidador Gimnasio Obrero Jefe 1° 25
+
+Obreros 4° 27
+
+Portero-Ordenanza 4° 27
+
+Albañil 5° 29
+
+Chofer-Tractorista 5° 29
+
+Obrero 5° 29
+
+Obreros 6° 30
+
+Obrero 7° 31
+
+Obrero 10° 32
+
+El o los cargos de Secretario Municipal y de Alcaldía y Director del Tránsito grado 18 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Secretario del Depto. del Tránsito Inspector de Servicios Municipales y Ad. Matadero Municipal grado 21 se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Auxiliar de Secretaría grado 27 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obrero grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE MAULE
+
+#### Artículo 130°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Maule, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva
+
+Alcalde 15
+
+Secretario Municipal y
+
+Alcaldía 12° 18
+
+Juez Policía Local 12° 16
+
+Jefe Depto. Tránsito e
+
+Inspector Municipal 16° 19
+
+Planta Administrativa
+
+Secretario Juzgado Policía
+
+Local y Auxiliar Secretaría
+
+Municipal 18° 22
+
+Planta de Obreros
+
+Electricista 10° 28
+
+Chofer Mecánico 4° 25
+
+Obrero 10° 31
+
+El o los cargos de Electricista grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Chofer Mecánico grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Obrero grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE MAULLIN
+
+#### Artículo 131°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Maullín, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 11° 15
+
+Secretario Municipal y
+
+de la Alcaldía 11° 18
+
+Inspector de Patentes
+
+y Rentas 11° 22
+
+Oficial de Sala 17° 24
+
+Planta de Obreros
+
+Obreros 7° 28
+
+Obreros 8° 30
+
+Obreros 9° 32
+
+El o los cargos de Inspector de Patentes y Rentas grado 22, se covertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE MEJILLONES
+
+#### Artículo 132°
+
+Fíjase a contar del 1° de Enero de 1974 para los trabajadores de la Municipalidad de Mejillones, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 6° 14
+
+Secretaria Municipal
+
+Alcaldía, Sec. Juzgado 6° 17
+
+Policía Local
+
+Jefe Rentas e Inspección 6° 19
+
+Director de Tránsito 6° 19
+
+Jefe de Labores 13° 26
+
+Médico Psicotécnico 21° Ley 15076
+
+Planta de Obreros
+
+Operarios 2° 28
+
+Operarios 5° 30
+
+Operarios 6° 32
+
+El o los cargos de Operarios grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE MELIPILLA
+
+#### Artículo 133°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Melipilla, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 6a Cat. 8
+
+Secretario Municipal
+
+y Alcaldía 6a Cat. 11
+
+Juez de Policía Local 6a Cat. 9
+
+Director Tránsito 1° 12
+
+Adm. Matadero Méd. Veterinario 1° 12
+
+Director de Rentas 2° 12
+
+Abogado Municip. Secret. Jdo.
+
+Policía Local 2° 11
+
+Director Obras Municipales
+
+Constructor Civil 2° 11
+
+Contralor Municipal 2° 13
+
+Subdirector Aseo 4° 16
+
+Oficial 1° Juzgado Policía Local 4° 19
+
+Sub-Administrador Matadero 4° 15
+
+Oficial 1° Secretaría 4° 19
+
+Médico Psicotécnico 5° Ley 15076
+
+Control Habilitado 5° 20
+
+Oficial 2° Juzgado Policía Local 5° 20
+
+Subdirector de Rentas 5° 17
+
+Subdirector de Tránsito 5° 17
+
+Subdirector de Obras Municipales 6° 16
+
+Inspector Técnico Tránsito 7° 23
+
+Asistente Social 7° 16
+
+Bibliotecaria 8° 19
+
+Director de Aseo 12° 14
+
+Planta Administrativa
+
+Oficial Secretaría 6° 19
+
+Inspector Obras Municipales 6° 19
+
+Inspector Rentas 9° 24
+
+Inspectores Tránsito 11° 27
+
+Escalafón Obreros Especializados
+
+Choferes 1° 25
+
+Jardineros 1° 25
+
+Carpintero 1° 25
+
+Electricista 1° 25
+
+Choferes 2° 27
+
+Chofer 3° 29
+
+Choferes 5° 30
+
+Carpinteros 6° 32
+
+Escalafón Obreros sin Especialidad
+
+Jornalero 1° 26
+
+Barredores 1° 26
+
+Cuidador Edificio 1° 26
+
+Cuidador Piscina 1° 26
+
+Cuidador Matadero 1° 26
+
+Jornaleros 2° 28
+
+Jornaleros 3° 29
+
+Jornaleros 5° 31
+
+Jornaleros 6° 32
+
+El o los cargos de Director Tránsito grado 12 se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Adm. Matadero Med. Veterinario grado 12 se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Director de Rentas grado 12 se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Oficial 1° Juzgado Policía Local grado 19 se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Sub-Administrador Matadero grado 15 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Control Habilitado grado 20 se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Oficial 2° Juzgado Policía Local grado 20 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Sub-Director Obras Municipales grado 16 se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Bibliotecaria grado 19 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Oficial Secretaría grado 19 se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Inspector Obras Municipales grado 19 se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Jardineros grado 25 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Carpintero grado 25 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Electricista grado 25 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Carpinteros grado 32 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Jornalero grado 26 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Barredores grado 26 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Cuidador Edificio grado 26 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Cuidador Piscina grado 26 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Cuidador Matadero grado 26 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Jornaleros grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Jornaleros grado 29 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Jornaleros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE MINCHA
+
+#### Artículo 134°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Mincha, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 17
+
+PLANTA DE EMPLEADOS
+
+Secretario Municipal y Alcaldía 9° 19
+
+Inspector Patentes, Tránsito
+
+y Municipal 14° 23
+
+PLANTA DE OBREROS
+
+Obreros 6° 31
+
+El o los cargos de Secretario Municipal y Alcaldía grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Inspector Patentes, Tránsito y Municipal grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Obreros grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE MOLINA
+
+#### Artículo 135°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Molina, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Planta de Empleados Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 7° 9
+
+Secretario Abogado Municipal 7° 12
+
+Juez Policía Local 7° 10
+
+Veterinario Adm. Matadero 11° 13
+
+Inspector Obras 7° 15
+
+Secretario Alcaldía 10° 14
+
+Director Tránsito 12° 14
+
+Inspector Patentes 11° 20
+
+Secretario Juzgado Pol. Local 13° 19
+
+Jardinero 12° 25
+
+Inspector Matadero y Mercado 13° 24
+
+Inspector Tránsito 13° 24
+
+Inspector Aseo 13° 24
+
+Planta de Obreros
+
+Mayordomo 4° 26
+
+Chofer Mecánico 5° 26
+
+Maestros 5° 26
+
+Choferes 5° 26
+
+Chofer 6° 28
+
+Chofer 7° 29
+
+Choferes 8° 30
+
+Ayudante Maestro 8° 30
+
+Electricista 6° 28
+
+Maestro Carpintero 8° 30
+
+Obreros 6° 29
+
+Obreros 7° 31
+
+Obreros 8° 32
+
+El o los cargos de Veterinario Adm. Matadero grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Secretario Alcaldía grado 14° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Jardinero grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Choferes grado 30° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Ayudante Maestro grado 30° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Obrero grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE MONTEPATRIA
+
+#### Artículo 136°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Montepatria, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Grado Escala Grado
+
+Municipal Escala Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 5° 16
+
+Secretario Municipal
+
+y Alcaldía 5° 19
+
+Planta Administrativa
+
+Inspector Patentes 8° 22
+
+Auxiliar de Patentes 12° 25
+
+Chofer 12° 27
+
+Planta Obreros
+
+Obreros 2° 29
+
+Obreros 3° 32
+
+El o los cargos de Inspector Patentes grado 22° se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de Auxiliar de Patentes grado 25° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Chofer grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE MOSTAZAL
+
+#### Artículo 137°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Mostazal, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Grado Escala Grado
+
+Municipal Escala Unica
+
+_______________________________________________________
+
+PLANTA DE EMPLEADOS
+
+Alcalde 3° 14
+
+Secretario Municipal 3° 17
+
+Juez Policía Local 3° 15
+
+Inspector Tránsito Patentes 3° 21
+
+Administrador Cine Municipal 6° 23
+
+Secretaría Juzgado Policía
+
+Local 6° 21
+
+Oficial 1° del Juzgado 6° 23
+
+Oficial 2° del Juzgado 7° 27
+
+Planta de Obreros
+
+Obreros 1° 25
+
+Obreros 2° 27
+
+Obreros 3° 29
+
+Obreros 4° 30
+
+Obrero 5° 31
+
+Obreros 6° 32
+
+El o los cargos de Inspector Tránsito y Patentes grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Oficial 2° del Juzgado grado 27° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+> **Nota.** La letra c) del Art. 3º del DL 1245, Hacienda, publicado el 08.11.1975, incluyó en esta planta los cargos de Mayordomo Jefe de Aseo grado 6º Administrativo, en el grado 25 de la Escala Unica, y Choferes grado 7º Administrativo, en grado 27 de la Escala Unica. Asimismo, agregó la siguiente conversión: "El o los cargos de Choferes grado 27° se convertirán en el grado 33° al quedar vacantes".
+
+MUNICIPALIDAD DE MULCHEN
+
+#### Artículo 138°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Mulchén, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Grado Escala Grado
+
+Municipal Escala Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+Alcalde 1° 13
+
+Secretario Municipal y
+
+de Alcaldía 1° 16
+
+Juez de Policía Local 1° 14
+
+Direc. Depto. del Tránsito
+
+y Patentes 3° 17
+
+Director Servicio de Aseo
+
+e Inspector Municipal 3° 17
+
+Médico Veterinario y Adm.
+
+Matadero Municipal 9° 17
+
+Director Obras Municipales 9° 16
+
+Médico Gabinete Psicotécnico Ley 15076
+
+Planta Administrativa
+
+Secretario Juzgado Policía
+
+Local 7° 19
+
+Auxiliar de Secretaría 8° 23
+
+Bibliotecaria Municipal 8° 23
+
+Auxiliar de Matadero e
+
+Inspector Municipal 8° 23
+
+Oficial 1° Juzgado Policía
+
+Local 11° 25
+
+Planta de Servicios Menores
+
+Oficial de Sala 12° 28
+
+Planta de Obreros
+
+Choferes 5° 27
+
+Obreros 6° 29
+
+Obreros 7° 31
+
+Obreros 8° 32
+
+El o los cargos de Secretario Juzgado Policía Local grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Oficial de Sala grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE NACIMIENTO
+
+#### Artículo 139°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Nacimiento, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado
+
+Municipal Escala Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 12° 15
+
+Secretario Municipal
+
+y Alcaldía 12° 18
+
+Juez Policía Local 12° 16
+
+Médico Veterinario
+
+Matadero Municip. 13° 17
+
+Director de Obras Municipales 19° 18
+
+Planta Administrativa
+
+Secretario Juzgado Policía
+
+Local 9° 22
+
+Inspec. Patentes Sanidad
+
+y Matadero 13° 23
+
+Inspector Recaudador 14° 26
+
+Planta Obreros
+
+Chofer 3° 26
+
+Obrero 4° 27
+
+Obrero 5° 29
+
+Obreros 6° 31
+
+Obreros 7° 32
+
+El o los cargos de Inspector Recaudador grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE NANCAGUA
+
+#### Artículo 140°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Nancagua, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado
+
+Municipal Escala Unica
+
+_______________________________________________________
+
+Empleados
+
+Alcalde 14
+
+Secretario Municipal 7° 17
+
+Juez Policía Local 7° 15
+
+Oficial Partes 8° 19
+
+Sec. Juzgado Policía Local 11° 21
+
+Mayordomo Cementerio 11° 25
+
+Sec. Gab. Psicotécnico 18° 26
+
+Médico Veterinario 16° 17
+
+Director Obras 17° 17
+
+Médico Gab. Psicotécnico 21° Ley 15.076
+
+Obreros
+
+Chofer Bus Escolar 4° 26
+
+Electricista 7° 28
+
+Auxiliar Oficina 7° 30
+
+Sepulturero 7° 30
+
+Barredores de Calles 6° 29
+
+Barredores de Calles 7° 32
+
+El o los cargos de Oficial de Partes grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Auxiliar de Oficina grado 30° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Sepultero grado 30° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Barredores de Calles grado 32° se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE NATALES
+
+#### Artículo 141°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Natales, de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado
+
+Municipal Escala Unica
+
+_______________________________________________________
+
+Alcalde 12
+
+Secretario Municipal
+
+y Alcaldía 9° 15
+
+Juez de Policía Local 9° 13
+
+Director de Obras Municipales 11° 15
+
+Secretario Juzgado Policía
+
+Local 12° 19
+
+Director del Tránsito 12° 16
+
+Oficial de Partes 13° 21
+
+Ayudante Inspección Patentes 18° 23
+
+Ayudante Direc. Obras
+
+Municipales 20° 25
+
+Planta de Obreros
+
+Municipales
+
+Obreros 7° 26
+
+Obrero 8° 28
+
+Obrero 9° 30
+
+Obrero 10° 32
+
+El o los cargos de Oficial de Partes grado 21° se convertirán en grado 22° al quedar vacantes.
+
+El o los cargos de Ayudante Inspección grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Ayudante Direcc. Obras Municipales grado 25° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Obrero grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE NAVIDAD
+
+#### Artículo 142°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Navidad, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 8° 17
+
+Secretario Municipal 8° 20
+
+Obrero 9° 30
+
+El o los cargos de Obrero grado 30° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE NEGRETE
+
+#### Artículo 143°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Negrete, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 16
+
+Secretario Municipal 8° 19
+
+Juez de Policía Local 8° 17
+
+Director Obras Municipales 11° 17
+
+Director Tránsito y Patentes 10° 19
+
+Médico Psicotécnico Ley 15076
+
+Secretario Juzgado Policía
+
+Local 11° 24
+
+Mayordomo 15° 26
+
+Médico Veterinario 18° 17
+
+Auxiliar 19° 30
+
+Planta de Obreros Especializados
+
+Chofer 3° 27
+
+Jornalero 3° 30
+
+Chofer 4° 29
+
+Jornaleros 4° 31
+
+Jornaleros 6° 32
+
+El o los cargos de Director Obras Municipales grado 17° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Director Tránsito y Patentes grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Auxiliar grado 30° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Jornaleros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE NINHUE
+
+#### Artículo 144°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Ninhue, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N°249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 11° 16
+
+Secretario Municipal 11° 19
+
+Planta de Obreros
+
+Obrero 7° 30
+
+El o los cargos de Obrero grado 30° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE NOGALES
+
+Artículo N° 145°.- Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Nogales, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974 la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+A) Directivos
+
+Alcalde 3° 14
+
+Secretario Municip. y Dr.
+
+de Control 3° 17
+
+Director de Obras Municipales 4° 17
+
+Director del Tránsito y
+
+Oficial de Inventarios 5° 19
+
+B) Profesionales
+
+Médico Gabinete Psicotécnico 8° Ley 15.076
+
+Juzgado de Policía Local
+
+Secretario Juzgado Policía
+
+Local e Inspector Municipal
+
+Recaudador 4° 20
+
+Planta Administrativa
+
+A) Empleados Administrativos
+
+Adm. Matadero e Inspector Obras 4° 19
+
+Municipales
+
+Inspector Servicios y Jefe
+
+Personal de Obreros 7° 23
+
+Secretaria Ayudante 9° 26
+
+Médico Gabinete
+
+Psicotécnico
+
+B) Choferes
+
+Choferes Inspectores 12° 26
+
+Planta Obreros
+
+Obreros 1° 26
+
+Obreros 2° 28
+
+Obreros 5° 32
+
+El o los cargos de Administrador Matadero e Inspector Obras Municipales grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Inspector Servicios y Jefe Personal de Obreros grado 23° se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de obreros grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Obreros grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE NUEVA IMPERIAL
+
+#### Artículo 146°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Nueva Imperial, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 6° 12
+
+Secretaria Municipal y de
+
+la Alcaldía
+
+Habilitada Jefe de los
+
+Servicios Municipales 6° 15
+
+Juez de Policía Local 6° 13
+
+Director de Tránsito,
+
+Inspector de Patentes Obras
+
+y Recaudador Municipal 11° 16
+
+Planta Administrativa
+
+Secretaria del Juzgado de
+
+Policía Local y Oficial
+
+Administrativo 13° 20
+
+Auxiliar de Secretaría 16° 23
+
+Jefe del Matadero 18° 25
+
+Inspector Policía de Aseo
+
+y Alumbrado
+
+Servicios Menores
+
+Portero-Ordenanza y
+
+Archivero Municipal 18° 27
+
+Obreros Especializados
+
+Jardineros 6° 28
+
+Carpinteros 6° 28
+
+Chofer Mecánico 6° 28
+
+Hojalatero 8° 29
+
+Mecánico 9° 29
+
+Jardineros 10° 31
+
+Choferes Mecánicos 10° 31
+
+Electricista 10° 31
+
+Albañiles 10° 31
+
+El o los cargos de Jardineros grado 31 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Choferes Mecánicos grado 31 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Electricista grado 31 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Albañiles grado 31 se convertirán en grado 33 al quedar vacantes.
+
+MUNICIPALIDAD DE ÑIQUEN
+
+#### Artículo 147°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Ñiquén de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 17
+
+Planta de Empleados
+
+Secretario Municipal
+
+y de Alcaldía 5° 19
+
+Inspectora de Obras, Sanidad
+
+y Patentes 12° 23
+
+Mozo y Jardinero Municipal 11° 28
+
+Planta de Obreros
+
+Electricista 5° 26
+
+Chofer 6° 27
+
+Obreros 10° 31
+
+El o los cargos de Secretario Municipal y de Alcaldía grado 19 se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Inspectora de Obras, Sanidad y Patentes grado 23 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Mozo y Jardinero Municipal grado 28 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Obreros grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE OLIVAR
+
+#### Artículo 148°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Olivar, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Empleados
+
+Alcalde 4° 15
+
+Secretaria Municipal; Alcaldía
+
+e Inspect. de Patentes 4° 18
+
+Juez Policía Local 5° 16
+
+Inspector y Chofer 8° 23
+
+Secretaria Juzgado 8° 22
+
+Oficial 1° Juzgado 9° 25
+
+Oficial de Secretaría 11° 27
+
+Obreros
+
+Obreros 4° 26
+
+Obrero 5° 28
+
+Obreros 7° 32
+
+El o los cargos de Oficial de Secretaría grado 27 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obrero grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE OLMUE
+
+#### Artículo 149
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Olmué, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva Superior
+
+Alcalde 2° 14
+
+Secretario Municip.
+
+Director Personal 2° 16
+
+Juez de Policía Local
+
+y Control 2° 15
+
+Director Obras Municipales 12° 16
+
+Planta Administrativa
+
+Director de Tránsito 5° 19
+
+Inspector de Obras Municipales 6° 22
+
+Secretario Juzgado Policía
+
+Local 9° 21
+
+Of. de Partes-Habilitado 10° 25
+
+Inspector de Servicios
+
+Municipales 12° 25
+
+Planta de Servicios Menores
+
+Ordenanza Municipal 7° 28
+
+Planta de Obreros Especializados
+
+Obrero Capataz 2° 25
+
+Chofer 3° 26
+
+Chofer 4° 29
+
+Chofer 5° 30
+
+Chofer 11° 27
+
+Planta de Obreros No Especializados
+
+Obrero 3° 26
+
+Obrero 4° 28
+
+Obreros 5° 30
+
+Obreros 6° 31
+
+Obreros 7° 32
+
+El o los cargos de Secretario Municipal grado 16 se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Director Obras Municipales grado 16 se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Inspector de Obras grado 22 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Obrero Capataz grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Obrero grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE OSORNO
+
+#### Artículo 150°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Osorno, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 5a. Cat. 5
+
+Secretario Abogado Municipal 5a. Cat. 8
+
+Juez Policía Local 5a. Cat. 7
+
+Contador Contralor y Jefe
+
+Adquisiciones 5a. Cat. 10
+
+Director Obras Municipales 5a. Cat. 8
+
+Arquitecto Urbanista y
+
+Jefe Planificación 5a. Cat. 10
+
+Médico Psicotécnico 6a. Cat. Ley 15.076
+
+Secretario Abogado Jdo.
+
+Pol. Local 6a. Cat. 9
+
+Asistente Social 6a. Cat. 16
+
+Topógrafo e Inspector 6a. Cat. 19
+
+Secretario de Alcaldía Gr 1° 13
+
+Jefe Control Patentes Gr 1° 13
+
+Director Tránsito Gr 1° 11
+
+Director Servicio Aseo y
+
+Ornato Gr 1° 11
+
+Director Subsistencias
+
+Ferias y Mercados Gr 1° 11
+
+Adm. Teatro Municipal y
+
+Jefe Doc. y Archivo Gr 1° 17
+
+Inspector 1° Obras y Calles Gr 4° 20
+
+Inspector 1° Aseo y Ornato Gr 6° 20
+
+Secretario del Alcalde Gr 7° 19
+
+Jefe de Biblioteca Gr 7° 19
+
+Inspector 1° Ferias y
+
+Mercados Gr 7° 19
+
+Ayudante Contador Contralor Gr 8° 20
+
+Inspector Patentes Gr 8° 20
+
+Oficial 1° Jdo. Pol. Local Gr 9° 21
+
+Inspector Patentes Gr 9° 21
+
+Inspector Tránsito Gr 9° 21
+
+Ayudante Contador-Contralor Gr 10° 23
+
+Jefe Museo Historia, Casa
+
+del Arte y la Cultura Gr 10° 21
+
+Ayudante Biblioteca, Museo
+
+y Casa de la Cultura Gr 10° 23
+
+Oficial de Partes Gr 10° 23
+
+Secret. Direc. Obras y
+
+Planificación Gr 10° 23
+
+Secret. Direc. Aseo y
+
+Ornato, Guarda Almacén y
+
+Bodeguero Gr 10° 23
+
+Oficial 2° Jdo. Policía
+
+Local Gr 10° 23
+
+Inspector Patentes Gr 10° 23
+
+Inspector 2° Obras y Calles Gr 10° 23
+
+Inspector Tránsito Gr 10° 23
+
+Inspector 2° Ferias y
+
+Mercados Gr 10° 23
+
+Choferes Gr 10° 25
+
+Inspector Patentes Gr 11° 25
+
+Inspector Tránsito Gr 11° 25
+
+Choferes Gr 11° 27
+
+Ascensoristas Gr 11° 28
+
+Electricista Gr 11° 27
+
+Ayudante Electricista Gr 11° 28
+
+Mayordomo Edificio Gr 11° 26
+
+Portero Casa del Arte Gr 11° 29
+
+Planta de Obreros
+
+Obreros Gr 1° 27
+
+Obreros Gr 2° 28
+
+Obreros Gr 3° 29
+
+Obreros Gr 4° 30
+
+Obreros Gr 5° 31
+
+Obreros Gr 6° 32
+
+Obreros Gr 7° 32
+
+El o los cargos de Alcalde grado 5 se convertirán en grado 6 al quedar vacantes.
+
+El o los cargos de Inspector 1° Ferias y Mercados grado 19 se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Ayudante Contador-Contralor grado 20 se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Inspector Patentes grado 20 se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Inspector Patentes grado 21 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Inspector Tránsito grado 21 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Ayudante Contador-Contralor grado 23 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Ayudante Biblioteca Museo y Casa de la Cultura grado 23 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Oficial de Partes grado 23 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Secret. Direc. Obras y Planificación grado 23 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Secret. Direc. Aseo y Ornato Guarda Almacén grado 23 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Oficial 2° Jdo. Policía Local grado 23 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Inspector Patentes grado 23 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Inspector 2° Obras y Calles grado 23 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Bodeguero grado 23 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Inspector Tránsito grado 23 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Inspector 2° Ferias y Mercados grado 23 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Choferes grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Inspector Patentes grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Inspector Tránsito grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Choferes grado 27 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Ascensoristas grado 28 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Electricistas de grado 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Ayudante Electricista de grado 28 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Portero Casa del Arte grado 29 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Obreros grado 7° grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE OVALLE
+
+#### Artículo 151°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Ovalle, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Directivo Superior
+
+Alcalde Gr. 3° 8
+
+Jefaturas Profesionales
+
+Juez de Policía Local Gr. 3° 9
+
+Director Obras Municipales Gr. 3° 11
+
+Administrador de Matadero Gr. 3° 12
+
+Jefaturas Administrativas
+
+Secretario de Alcaldía Gr. 3° 15
+
+Secretario Municipal Gr. 3° 11
+
+Jefe de Rentas e Inspección Gr. 3° 14
+
+Director de Tránsito Gr. 3° 13
+
+Profesionales y Técnicos
+
+Médico Municipal Ley 15.076
+
+Constructor Civil, Asistente
+
+Técnico Gr. 9° 16
+
+Contador, Inspector Gr. 9° 20
+
+Planta Administrativa
+
+Administrativos
+
+Secretario Jdo. Policía Local Gr. 9° 19
+
+Inspector Municipal Gr. 10° 21
+
+Inspector Sub-Administrador
+
+Matadero Gr. 9° 19
+
+Inspector de Aseo Gr. 10° 21
+
+Inspector de Mercado y Feria Gr. 11° 23
+
+Bibliotecaria Gr. 11° 23
+
+Secretario Dirección Obras Gr. 12° 24
+
+Inspector de Tránsito Gr. 12° 24
+
+Oficial de Partes Gr. 12° 24
+
+Inspector de Feria Gr. 13° 25
+
+Oficial de Jdo. Policía Local Gr. 13° 25
+
+Oficial de Secretaría Gr. 13° 25
+
+Oficial de Secretaría Gr. 15° 27
+
+Inspector Municipal Gr. 15° 27
+
+Choferes (Planta EE.)
+
+Choferes Gr. 12° 25
+
+Chofer Gr. 13° 26
+
+Planta Obreros
+
+Choferes Gr. 4° 27
+
+Jornaleros Gr. 6° 29
+
+Servicios Menores y Oficio
+
+Porteros (OO. MM.)
+
+Porteros Gr. 4° 29
+
+Jornalero Gr. 6° 32
+
+Obreros Especializados
+
+Carpintero Gr. 4° 27
+
+Matarifes Gr. 4° 27
+
+Punteador Gr. 4° 27
+
+Calderero Gr. 4° 27
+
+Albañil Gr. 5° 30
+
+Gásfiter Gr. 5° 30
+
+Soldador Gr. 5° 30
+
+Jardineros Gr. 5° 30
+
+Oficial Carpintero Gr. 5° 30
+
+Repartidores Carnes Gr. 5° 30
+
+Corralero Gr. 5° 30
+
+Obreros (Labores Diversas)
+
+Jornaleros Gr. 6° 32
+
+Jornaleros Gr. 10° 32
+
+El o los cargos de Administrador de Matadero grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Secretario de Alcaldía grado 15° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Inspector Subadministrador Matadero grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Oficial de Secretaría grado 27° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Choferes de grado 25° se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Chofer grado 26 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Choferes grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Jornaleros grado 29° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Jornaleros grado 32 se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Carpinteros grado 27° se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Matarifes grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Punteador grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Calderero grado 27° se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Albañil de grado 30° se convertirán en grado 32° al quedar vacantes.
+
+El o los cargos de Gásfiter grado 30° se convertirán en grado 32 al quedar vacantes.
+
+El o los cargos de Soldador grado 30° se convertirán en grado 32 al quedar vacantes.
+
+El o los cargos de Jardineros grado 30° se convertirán en grado 32° al quedar vacantes.
+
+El o los cargos de Oficial Carpintero grado 30° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Repartidores Carnes grado 30° se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Corralero grado 30° se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Jornaleros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Jornaleros grado 32 se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PAIHUANO
+
+#### Artículo 152°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Paihuano, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 17
+
+Planta Administrativa
+
+Secretario Municipal Gr. 7° 20
+
+Chofer Mecánico y Jefe
+
+Taller Obras Municipales Gr. 14° 25
+
+Planta Obreros
+
+Obreros Gr. 10° 31
+
+El o los cargos de Chofer Mecánico y Jefe Taller Obras Municipales grado 25° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PAILLACO.
+
+#### Artículo 153°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Paillaco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Directivos Superiores
+
+Alcalde 16
+
+Secretario Municipal de
+
+Alcaldía 5a Cat. 19
+
+Juez de Policía Local 5a Cat. 17
+
+Directora Obras Municipales
+
+y Directora de Tránsito Gr. 9° 19
+
+Planta Administrativa
+
+Oficial Secretaría, Partes
+
+e Inspector Patentes
+
+Comerciales y de Alcoholes Gr. 7° 22
+
+Inspector - Secretario
+
+Dirección Obras y de
+
+Tránsito Gr. 9° 25
+
+Secretaria Juzgado Policía
+
+Local y Secretaria Recaudadora
+
+de Adm. de Matadero Gr. 9° 24
+
+Planta Obreros Municipales
+
+Chofer Mecánico Gr. 2° 25
+
+Mayordomo Gr. 4° 27
+
+Matarife Matadero Gr. 6° 28
+
+Aseadores Calles y
+
+Domiciliario Gr. 6° 32
+
+Cuidador Cementerio Gr. 6° 32
+
+Jardinero Gr. 6° 28
+
+Portero-Ordenanza Gr. 6° 32
+
+Obrero Gr. 6° 32
+
+El o los cargos de Oficial Secretaría y Partes e Inspector Patentes Comerciales y de Alcoholes grado 22° se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de Inspector Secretario Dirección Obras y de Tránsito grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Chofer Mecánico grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Matarife Matadero grado 28 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Jardinero grado 28 se convertirán en grado 32 al quedar vacantes.
+
+El o los cargos de Obrero grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PAINE
+
+#### Artículo 154°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Paine, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 11
+
+Planta Directiva y Profesional
+
+Secretaria Municipal
+
+y Alcaldía Gr. 1° 14
+
+Director de Aseo y Jardines Gr. 1° 15
+
+Juez de Policía Local Gr. 1° 13
+
+Veterinario Adm.-Matadero
+
+Municipal Gr. 3° 16
+
+Director de Obras Gr. 3° 14
+
+Director Depto. Tránsito Gr. 6° 15
+
+Planta Administrativa
+
+Secretario Jdo. Policía Local Gr. 6° 19
+
+Inspector Patentes Gr.10° 23
+
+Inspector y Ayudante
+
+Secretaria Gr.11° 27
+
+Especializado
+
+Chofer Gr.11° 27
+
+Servicios Menores
+
+Ordenanza y Jardinero Gr.10° 28
+
+Planta Obreros
+
+Obreros Gr. 1° 29
+
+Obreros Gr. 2° 30
+
+Obreros Gr. 3° 31
+
+El o los cargos de Alcalde de grado 11 se convertirán en grado 12 al quedar vacantes.
+
+El o los cargos de Secretaria Municipal y Alcaldía grado 14 se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Director de Aseo y Jardines grado 15 se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Director de Obras grado 14 se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Director Depto. Tránsito grado 15 se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Secretario Jdo. Policía Local grado 19 se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Inspector y Ayudante Secretaría grado 27 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Chofer grado 27 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obreros de grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PALENA
+
+#### Artículo 155°
+
+Fíjase, a contar del 1° de Enero de 1974 para los trabajadores de la Municipalidad de Palena, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 16
+
+Planta Administrativa
+
+Secretario Municipal y de
+
+la Alcaldía Gr. 8° 19
+
+Planta de Obreros
+
+Obrero Gr. 10° 30
+
+El o los cargos de Obrero de grado 30 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PALMILLA
+
+#### Artículo 156°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Palmilla, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 15
+
+Secretario Municipal y Alcaldía Gr. 2° 17
+
+Inspector Municipal y Patentes Gr. 3° 21
+
+Secretario Juzgado Policía Local Gr.13° 22
+
+Obrero Depto. Aseo Gr. 2° 27
+
+Obrero Jardinero Gr. 2° 27
+
+Obrero Albañil Gr. 4° 28
+
+Obrero Depto. Aseo Gr. 5° 31
+
+El o los cargos de Secretario Municipal y Alcaldía grado 17° se convertirán en grado 18 al quedar vacantes.
+
+El o los cargos de Inspector Municipal y Patentes grado 21 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Obrero Depto. Aseo grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PANGUIPULLI
+
+#### Artículo 157°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Panguipulli, de acuerdo con lo dispuesto en artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 11
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Secretario Municipal y
+
+de Alcaldía 6a Cat. 14
+
+Director Tránsito e Inspector
+
+de Patentes y Matadero 6a Cat. 15
+
+Director de Aseo y Ornato e
+
+Inspector de Obras Municipales
+
+y Alumbrado 6a Cat. 15
+
+Juez de Policía Local 6a Cat. 12
+
+Médico Psicotécnico Ley N° 15.076
+
+Planta Administrativa
+
+Auxiliar de Secretaría -
+
+Habilitado Gr. 2° 20
+
+Secretaría Juzgado Policía
+
+Local
+
+Bibliotecaria y Auxiliar Gr. 8° 23
+
+Inspector Municipal Gr.14° 23
+
+Planta de Choferes
+
+Choferes Gr.11° 26
+
+Planta de Obreros
+
+Obrero Gr. 5° 27
+
+Obreros Gr. 6° 29
+
+Obreros Gr. 7° 31
+
+Obreros Gr. 8° 32
+
+El o los cargos de Inspector Municipal grado 23 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Choferes de grado 26 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PANQUEHUE
+
+#### Artículo 158°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Panquehue, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde Gr. 2° 17
+
+Secretario Municipal Gr. 2° 19
+
+Obrero Gr. 3° 28
+
+Obrero Gr. 4° 32
+
+El o los cargos de Secretario Municipal de grado 19 se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Obrero de grado 28 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obreros de grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PAPUDO
+
+#### Artículo 159°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Papudo, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde Gr. 4° 12
+
+Secretario Gr. 4° 15
+
+Juez Policía Local Gr. 5° 13
+
+Director Obras Gr.11° 15
+
+Secretaria Juzgado Policía
+
+Local Gr. 9° 21
+
+Inspector Municipal Gr. 6° 19
+
+Aux. Secretaría Jdo. Pol.
+
+Local Gr.18° 28
+
+Planta de Obreros
+
+Obrero Gr. 5° 26
+
+Obrero Gr. 7° 28
+
+Obreros Gr. 8° 30
+
+Obreros Gr. 9° 32
+
+El o los cargos de Alcalde grado 12 se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Secretario grado 15 se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Juez Policía local grado 13 se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Director Obras grado 15° se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Inspector Municipal grado 19 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Auxiliar Secretaría Juzgado Policía Local grado 28 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PAREDONES
+
+#### Artículo 160°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Paredones, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva y Administrativa
+
+Alcalde 15
+
+Secretario Municipal y de
+
+la Alcaldía Gr. 8° 18
+
+Inspector Municipal Gr. 12° 24
+
+Planta de Obreros Municipales
+
+Obreros Gr. 7° 31
+
+El o los cargos de Obreros de grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PARRAL
+
+#### Artículo 161°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Parral, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 4° 9°
+
+Juez de Policía Local 4° 10°
+
+Secretario Municipal 4° 12°
+
+Oficial de Secretaría y Jefe
+
+de Adquisiciones y
+
+Aprovisionamiento 4° 14°
+
+Director de Tránsito 4° 14°
+
+Médico Psicotécnico 5° Ley 15.076
+
+Médico Veterinario 6° 15°
+
+Secretario Juzgado Policía
+
+Local 7° 19°
+
+Inspector Matadero y Patentes 7° 21°
+
+Inspector Tránsito 7° 21°
+
+Inspector Mercado e Higiene 7° 21°
+
+Oficial 1° Juzgado Policía
+
+Local 13° 26°
+
+Portero Ordenanza 13° 28°
+
+Oficial de Sala de Juzgado 13° 28°
+
+Planta de Obreros
+
+Mayordomo 2° 25°
+
+Chofer 3° 26°
+
+Chofer 4° 27°
+
+Obreros 4° 29°
+
+Choferes 5° 28°
+
+Obreros 5° 31°
+
+Obreros 6° 32°
+
+El o los cargos de Alcalde grado 9° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Juez de Policía Local grado 10° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Secretario Municipal grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Oficial de Secretaría y Jefe de Adquisiciones y Aprovisionamiento grado 14° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Director de Tránsito grado 14° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Inspector Matadero y Patentes grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Inspector Tránsito grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Inspector Mercado e Higiene grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PELARCO
+
+#### Artículo 162°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Pelarco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 15°
+
+Secretario Municipal de
+
+Alcaldía e Inspector de Obras 12° 17°
+
+Juez de Policía Local 12° 16°
+
+Secretario del Juzgado
+
+Policía Local 15° 22°
+
+Electricista 16° 28°
+
+Planta de Obreros
+
+Chofer 1° 27°
+
+Chofer 3° 29°
+
+Obrero 3° 32°
+
+El o los cargos de Secretario Municipal de Alcaldía e Inspector de Obras grado 17° se convertirán en grado 18° al quedar vacantes.
+
+El o los cargos de Obrero grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PEMUCO
+
+#### Artículo 163°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Pemuco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva
+
+Alcalde 7° 16°
+
+Secretario Municipal de
+
+la Alcaldía
+
+Director del Tránsito 7° 19°
+
+Planta Administrativa
+
+Secretario Juzgado Policía
+
+Local Inspector Municipal,
+
+de Aguas M.M. y Ayudante
+
+Secretaría 12° 25°
+
+Obreros Especializados
+
+Chofer 8° 27°
+
+Chofer 10° 29°
+
+Servicios Menores
+
+Portero-Bodeguero-Jardinero 8° 29°
+
+Obrero Auxiliar 10° 32°
+
+El o los cargos de Alcalde grado 16° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Secretario Municipal de la Alcaldía, Director del Tránsito grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Chofer grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Chofer grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obreros Auxiliar grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PENCAHUE
+
+#### Artículo 164°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Pencahue, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249°, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado. Escala Grado. Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 16°
+
+Planta de Empleados
+
+Secretario Municipal 11° 19°
+
+Juez de Policía Local 11° 17°
+
+Secretario Juzgado
+
+Policía Local 15° 21°
+
+Planta de Obreros
+
+Obreros Especializados 3° 27°
+
+Obreros 10° 32°
+
+El o los cargos de Secretario Juzgado Policía Local grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PENCO
+
+#### Artículo 165°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Penco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+_______________________________________________________
+
+Nombre del Cargo Grado. Escala Grado. Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde 2a. Cat. 11°
+
+Juez de Policía Local 2a. Cat. 12°
+
+Director de Obras 4a. Cat. 14°
+
+Secretario Municipal y
+
+de Alcaldía 2a. Cat. 14°
+
+Director de Aseo 7° 16°
+
+Planta Administrativa
+
+Inspector Patentes y Tránsito 7° 19°
+
+Secretario Juzgado
+
+Policía Local 7° 19°
+
+Inspector 9° 24°
+
+Ayudante de Secretaría 9° 24°
+
+Ayudante Dirección Obras 9° 24°
+
+Bibliotecaria 9° 24°
+
+Oficial de Secretaría 10° 27°
+
+Electricista 10° 27°
+
+Choferes 1° 25°
+
+Choferes 3° 27°
+
+Servicios Menores
+
+Ordenanza 5° 29°
+
+Ordenanza 9° 31°
+
+Obreros con Especialidad
+
+Obreros 3° 25°
+
+Obreros sin Especialidad
+
+Obrero 2° 26°
+
+Obreros 3° 27°
+
+Obrero 4° 28°
+
+Obrero 5° 29°
+
+Obrero 7° 30°
+
+Obreros 8° 31°
+
+Obrero 9° 32°
+
+Obrero 10° 32°
+
+El o los cargos de Choferes grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Choferes grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Obreros con Especialidad grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Obrero sin Especialidad grado 10° (32°) se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PEÑAFLOR
+
+#### Artículo 166°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Peñaflor, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado. Escala Grado. Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva y Técnica
+
+Alcalde 9°
+
+Secretaría Municipal
+
+y Alcaldía 6a. Cat. 12°
+
+Director de Control y Rentas 6a. Cat. 12°
+
+Director de Obras 6a. Cat. 12°
+
+Juez de Policía Local 6a. Cat. 10°
+
+Abogado Municipal 1° 13°
+
+Director del Tránsito 1° 14°
+
+Director de Aseo y Jardines 1° 14°
+
+Sub-Director de Obras 2° 17°
+
+Planta Administrativa
+
+Secretario Juzgado
+
+Policía Local 3° 19°
+
+Inspector Obras 3° 19°
+
+Ayudante Secretaría 3° 20°
+
+Secretaria de Tránsito 3° 20°
+
+Inspector Jefe Control
+
+y Rentas 3° 19°
+
+Inspectores Obras 3° 19°
+
+Secretaría Control y Rentas
+
+(Habilitado) 5° 23°
+
+Inspector Aseo y Jardines
+
+(Jefe de Obreros) 5° 23°
+
+Inspector Obras
+
+(Dibujante Técnico) 5° 23°
+
+Inspector Control y Rentas 5° 23°
+
+Oficial Juzgado Policía Local 5° 23°
+
+Inspector Tránsito 5° 23°
+
+Ayudante Control y Rentas 5° 23°
+
+Médico Psicotécnico Ley 15.076
+
+Obreros Especializados 1° 25°
+
+Obreros Especializados 2° 27°
+
+Obreros No Especializados 2° 28°
+
+Jornaleros 3° 29°
+
+Jornaleros 4° 32°
+
+El o los cargos de Director de Control y Rentas grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Abogado Municipal grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Inspectores Obras grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Ayudante Control y Rentas grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Obreros Especializados grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Jornaleros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PERALILLO
+
+#### Artículo 167°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Peralillo, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado
+
+Municipal Escala Unica
+
+_______________________________________________________
+
+Planta Empleados
+
+Alcalde 7° 15°
+
+Secretario Municipal, de
+
+Alcaldía, de Juzgado de Policía
+
+Local y Director del Tránsito 7° 18°
+
+Inspector Municipal 13° 21°
+
+Médico Veterinario 15° 17°
+
+Planta de Obreros
+
+Chofer 4° 27°
+
+Obreros 6° 30°
+
+Obreros 7° 32°
+
+El o los cargos de Inspector Municipal grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PERQUENCO
+
+#### Artículo 168°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Perquenco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Alcalde 17°
+
+Planta de Empleados
+
+Secretario Municipal, de la
+
+Alcaldía y del Juzgado de
+
+Policía Local 14° 19°
+
+Inspec. de los Servicios
+
+Municipales 15° 23°
+
+Chofer 22° 28°
+
+Planta de Obreros
+
+Obreros 7° 31°
+
+El o los cargos de Secretario Municipal, de la Alcaldía y del Juzgado de Policía Local grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Inspector de los Servicios Municipales grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Chofer grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obreros grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PETORCA
+
+#### Artículo 169°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Petorca, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta de Empleados
+
+Alcalde 7° 16°
+
+Secretario Municipal -
+
+Habilitado 7° 19°
+
+Director del Tránsito 10° 20°
+
+Inspector Municipal 13° 24°
+
+Planta de Obreros
+
+Obreros 6° 29°
+
+Obreros 9° 31°
+
+Obreros 10° 32°
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PEUMO
+
+#### Artículo 170°
+
+Fijase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Peumo, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 14°
+
+Secretario Municipal y de Alcaldía 3° 16°
+
+Juez de Policía Local 3° 15°
+
+Director Obras (Arquitecto) 8° 17°
+
+Inspector Municipal y Habilitado 9° 19°
+
+Inspector del Tránsito 11° 23°
+
+Oficial de Partes 9° 21°
+
+Sub-Inspector Municipal 11° 25°
+
+Chofer 11° 25°
+
+Planta de Obreros
+
+Obreros 3° 25°
+
+Obreros 4° 28°
+
+Obrero 5° 31°
+
+El o los cargos de Secretario Municipal y de Alcaldía grado 16° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Subinspector Municipal grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Chofer grado 25° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Obrero grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PICA
+
+#### Artículo 171°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Pica, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+------------------------------------------------------
+
+Alcalde 17°
+
+Planta de Empleados
+
+Secretario Municipal,
+
+Secretaria Juzgado de
+
+Policía Local e Inspector
+
+Municipal 6° 20°
+
+Jefe de Rentas, Director
+
+de Tránsito e Inspector
+
+Municipal 10° 23°
+
+Planta de Obreros
+
+Obrero 3° 30°
+
+Obrero 6° 32°
+
+El o los cargos de Obrero grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PICHIDEGUA
+
+#### Artículo 172°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Pichidegua, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 1a Cat. 16
+
+Secretario Municipal de
+
+Alcaldía Jdo. de Policía Local
+
+y Habilitado 5a Cat. 17
+
+Inspector del Tránsito,
+
+Patentes y Sanidad Gr. 9° 19
+
+Ayudante Secretaría Gr. 11° 25
+
+Ayudante Inspector y Chofer Gr. 11° 25
+
+Director de Obras Municipales Gr. 10° 19
+
+Planta Obreros
+
+Portero Gr. 2° 28
+
+Obrero Gr. 5° 30
+
+Obreros Gr. 6° 32
+
+Jardinero Gr. 6° 32
+
+El o los cargos de Secretario Municipal, de Alcaldía, Juzgado de Policía Local y Habilitado grado 17, se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Inspector del Tránsito, Patentes y Sanidad grado 19, se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Ayudante Inspector y Chofer grado 25, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Jardinero grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PICHILEMU
+
+#### Artículo 173°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Pichilemu, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 3° 14
+
+Secretario Municipal y de
+
+la Alcaldía 3° 16
+
+Inspector Patentes y Secretario
+
+Juzgado Policía Local 7° 19
+
+Inspec. Obras e Inspector
+
+Tránsito 9° 21
+
+Inspector Municipal 12° 23
+
+Inspector Oficial Ayudante 14° 25
+
+Auxiliar Archivero 14° 27
+
+Planta de Obreros
+
+Obrero 2° 26
+
+Obrero 3° 28
+
+Obreros 4° 30
+
+Obreros 5° 32
+
+El o los cargos de Secretario Municipal y de la Alcaldía grado 16, se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Inspector Patentes y Secretario Juzgado Policía Local grado 19, se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Inspector Obras e Inspector Tránsito grado 21, se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Inspector Municipal grado 23, se convertirán en grado 25 al quedar vacantes.
+
+El o los grados de Inspector, Oficial Ayudante grado 25, se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Auxiliar Archivo grado 27, se convertirán en grado 31, y el de Obreros grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PINTO
+
+#### Artículo 174°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Pinto, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 17
+
+Planta Empleados
+
+Juez de Policía Local 18
+
+Secretario Municipal 12° 20
+
+Inspector 13° 25
+
+Planta Obreros
+
+Obreros 6° 31
+
+El o los cargos de Obreros grado 31, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PIRQUE
+
+#### Artículo 175°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Pirque, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 14
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Juez de Policía Local y Abogado
+
+Municipal 2° 15
+
+Director de Obras Municipales 5° 17
+
+Planta Administrativa
+
+Jefe de Inspección 4° 19
+
+Director de Tránsito 4° 19
+
+Secretario Juzgado Policía Local 5° 21
+
+Secretaria Alcaldía 6° 23
+
+Oficial de Secretaría 8° 27
+
+Planta Administrativa
+
+Especializada
+
+Chofer Municipal 8° 27
+
+Planta Obreros sin
+
+Calificación
+
+Obreros Servicios Varios 1° 28
+
+Obreros Servicios Varios 2° 31
+
+El o los cargos de Jefe de Inspección grado 19, se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Secretario Alcaldía grado 23, se convertirán en grado 25 al quedar vacantes .
+
+El o los cargos de Oficial de Secretaría grado 27, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Chofer Municipal grado 27, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obreros Servicios Varios grado 31, se convertirán en grado 35 al quedar vacantes.
+
+MINICIPALIDAD DE PISAGUA
+
+#### Artículo 176°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Pisagua, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva y
+
+Profesional
+
+Alcalde 1° 15
+
+Juez de Policía Local 1° 16
+
+Planta administrativa
+
+Chofer-Mecánico 3° 25
+
+Secretario Municipal y Alcaldia 5° 18
+
+Secretario Juzgado Policía Local 13° 22
+
+Obreros
+
+Jardinero-Barredores 7° 27
+
+Jardinero Barredor en Camiña 8° 30
+
+El o los cargos de Chofer Mecánico grado 25, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Jardinero Barredores grado 27 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Jardinero Barredor en Camiña grado 30, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PITRUFQUEN
+
+#### Artículo 177°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Pitrufquén, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 7° 12
+
+Director Obras Municipales
+
+(Arquitecto) 7° 15
+
+Juez Letrado Policía Local 7° 13
+
+Secretario Municipal y Alcaldía 7° 15
+
+Inspector y Ayudante
+
+Dirección Obras Municipales 7° 19
+
+Director Tránsito e
+
+Inspector General Servicios 8° 17
+
+Secretaría Juzgado Policía
+
+Local Bibliotecaria y
+
+Habilitada 11° 20
+
+Ayudante Inspecciones,
+
+Archivero y Ordenanza 12° 25
+
+Inspector Matadero,
+
+Alumbrado y calles 15° 25
+
+Inspector Rentas y Patentes 22° 26
+
+Planta Obreros
+
+Obreros Especializados
+
+Tractorista 2° 26
+
+Carpintero 3° 27
+
+Chofer 4° 26
+
+Carpintero 4° 28
+
+Jardinero 5° 28
+
+Choferes 6° 27
+
+Electricista 6° 27
+
+Obreros sin Especialización
+
+Aseador 4° 28
+
+Cuidador Cementerio 5° 29
+
+Aseadores 6° 30
+
+Aseador 7° 31
+
+Aseadores 8° 32
+
+Aseador 10° 32
+
+El o los cargos de Choferes grado 27°, se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Electricista grado 27°, se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Aseador gr. 10° grado 32°, se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PLACILLA
+
+#### Artículo 178°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Placilla, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Empleados
+
+Alcalde 15
+
+Secretario y Habilitado 8° 18
+
+Médico Veterinario 15° 17
+
+Inspectora y Secretaria del
+
+Juzgado de Policía Local 14° 23
+
+Planta de Obreros
+
+Obreros 6° 31
+
+Chofer 6° 28
+
+El o los cargos de Obreros grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PORTEZUELO
+
+#### Artículo 179°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Portezuelo, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 16
+
+Planta Directiva
+
+Secretario Municipal,
+
+Alcaldía Juzgado de
+
+Policía Local, Jefe de
+
+Oficina 14° 19
+
+Planta Administrativa
+
+Inspector Municipal 10° 24
+
+Servicios Menores
+
+Maquinista 5° 27
+
+Planta Obreros
+
+Jornalero 4° 30
+
+Jornalero 6° 32
+
+El o los cargos de Jornalero grado 32°, se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PORVENIR
+
+#### Artículo 180°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Porvenir, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 8° 15
+
+Secretario Municipal y
+
+Alcaldía 8° 18
+
+Juez de Policía Local 8° 16
+
+Director Tránsito y Jefe
+
+Patentes 9° 19
+
+Jefe Depto. Aseo y Jardines
+
+y Encargado Cement. 9° 20
+
+Oficial Ayudante de la
+
+Dirección de Obras y
+
+Oficial de Inventario 10° 22
+
+Bibliotecario y Secret.
+
+Jdo. Policía Local 10° 22
+
+Director de Obras 12° 18
+
+Oficial de Secretaría,
+
+Inspector del Tránsito,
+
+Patentes y Obras 14° 25
+
+Oficial de Sala 14° 25
+
+Médico Psicotécnico Ley 15.076
+
+Planta Obreros
+
+Operador Motonivelador 1° 25
+
+Capataz 3° 27
+
+Carpintero Albañil 6° 29
+
+Choferes Ayudantes 7° 29
+
+Obreros 8° 31
+
+El o los cargos de Oficial de Secretaría, Inspector del Tránsito, Patentes y Obras de grado 25°, se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Oficial de Sala grado 25° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Choferes Ayudantes grado 29°, se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Obreros gr. 31°, se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE POZO ALMONTE
+
+#### Artículo 181°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Pozo Almonte, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 17
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Secretario Municipal y
+
+de la Alcaldía 5° 20
+
+Planta Administrativa
+
+Oficial de Partes 12° 23
+
+Oficial de Rentas 12° 23
+
+Planta Obreros
+
+Obreros 4° 30
+
+El o los cargos de Oficial de Partes grado 23, se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Oficial de Rentas grado 23, se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Obreros grado 30, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PUCON
+
+#### Artículo 182°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Pucón, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Municipales
+
+Alcalde 2° 11
+
+Secretario Municipal y Jefe
+
+Superior del Personal de
+
+Empleados y Obreros 2° 15
+
+Secretario de la Alcaldía
+
+y Jdo. Pol. Local 7° 21
+
+Inspector de Servicios
+
+Municipales, Aseo, Alumbrado,
+
+Patentes y Jefe
+
+del Personal de Obreros 7° 21
+
+Portero Municipal 14° 26
+
+Director de Obras Municipales 16° 15
+
+Veterinario Administrador
+
+del Matadero 17° 17
+
+Obreros Municipales
+
+Planta de Obreros Jornaleros
+
+Choferes 5° 27
+
+Jardinero 6° 29
+
+Carpintero 6° 29
+
+Planta de Obreros Jornaleros
+
+Jornaleros 6° 31
+
+El o los cargos de Alcalde grado 11, se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Secretario Municipal y Jefe Superior del Personal de Empleados y Obreros grado 15, Director de Obras Municipales grado 15, se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Jornaleros gr. 31, se convertirán en gr. 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PUCHUNCAVI
+
+#### Artículo 183°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Puchuncaví, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde Gdo. 5° 16
+
+Secretario Municipal y
+
+Alcaldía, Dir. Personal,
+
+Jefe Control Gdo. 5° 19
+
+Juez Policía Local-Abogado
+
+Municipal Gdo. 5° 17
+
+Director Obras Municipales,
+
+Constructor Civil Gdo. 8° 19
+
+Médico Gabinete Psicotécnico Gdo. 14° Ley 15.076
+
+Planta Administrativa
+
+Inspector Patentes-Habilitado,
+
+Director Tránsito Gdo. 5° 20
+
+Secretario Juzgado Policía
+
+Local, Dir. Obras Municipales-
+
+Administrador Cementerio Gdo. 6° 23
+
+Planta Choferes
+
+Chofer Gdo. 1° 25
+
+Chofer Gdo. 3° 27
+
+Chofer Gdo. 5° 29
+
+Planta Obreros
+
+Obreros Gdo. 3° 28
+
+Obreros Gdo. 4° 30
+
+Obreros Gdo. 6° 32
+
+El o los cargos de Inspector Patentes-Habilitado, Director Tránsito grado 20 se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Chofer grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Chofer grado 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Chofer grado 29 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PUEBLO HUNDIDO
+
+#### Artículo 184°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Pueblo Hundido, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Empleados
+
+Alcalde 6a. Cat. 14
+
+Secretario Municipal y
+
+Alcaldía 6a. Cat. 17
+
+Juez Policía Local 6a. Cat. 15
+
+Médico Psicotécnico 6a. Cat. Ley 15.076
+
+Director de Obras Municipales 6a. Cat. 17
+
+Director de Tránsito Gdo. 2° 19
+
+Inspector de Patentes Gdo. 5° 23
+
+Inspector de Obras Gdo. 5° 23
+
+Secretario Juzgado
+
+de Policía Local Gdo. 5° 20
+
+Oficial de Partes
+
+e Inspec. de Aseo Gdo. 5° 23
+
+Auxiliares Administrativos Gdo. 8° 26
+
+Planta de Obreros
+
+Obreros Gdo. 1° 26
+
+Obreros Gdo. 2° 28
+
+Obreros Gdo. 3° 30
+
+El o los cargos de Auxiliares Administrativos grado 26 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obreros grado 30 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PUENTE ALTO
+
+#### Artículo 185°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Puente Alto, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 5
+
+Primer Nivel Directiva Superior
+
+Jefes de Servicios Profesionales
+
+Abogado Jefe Municipal 5a Cat. 8
+
+Contralor Contador 4a Cat. 8
+
+Director de Obras 5a Cat. 8
+
+Segundo Nivel Directivo Superior
+
+Jefes de Servicios no
+
+Profesionales
+
+Secretario Municipal y
+
+Secretario de la Alcaldía
+
+y Jefe del Personal 5a Cat. 8
+
+Director Patentes,
+
+Permisos e Insp. 5a Cat. 10
+
+Director de Aseo,
+
+Jardines y Ornato 5a Cat. 10
+
+Director del Depto. de Tránsito 5a Cat. 10
+
+Director del Depto.
+
+de Adquisiciones Gdo. 3° 10
+
+Tercer Nivel Directiva Superior
+
+Juez de Policía Local 4a Cat. 7
+
+Jefe de Servicio Profesional
+
+con Honorario Parcial
+
+Administrador Veterinario
+
+Matadero Munic. 6a Cat. 10
+
+Profesionales no Jefes
+
+de Servicios
+
+Arquitecto Urbanista 5a Cat. 10
+
+Médico Gabinete
+
+Psicotécnico Tránsito Ley 15.076
+
+Director Depto.
+
+Cultura y Deportes Gdo. 6° 12
+
+Abogado Secretario J.P. Local 6a Cat. 9
+
+Planta Administrativa
+
+Oficiales Ayudantes Gdo. 3° 19
+
+Oficiales Ayudantes Gdo. 4° 21
+
+Oficiales Ayudantes Gdo. 5° 23
+
+Oficiales Ayudantes Gdo. 6° 27
+
+Oficiales Ayudantes Gdo. 7° 29
+
+Obreros Especializados
+
+Choferes Gdo. 1° 25
+
+Choferes Gdo. 2° 26
+
+Choferes Gdo. 3° 27
+
+Choferes Gdo. 4° 28
+
+Choferes Gdo. 5° 30
+
+Tractorista Gdo. 1° 25
+
+Mecánicos Gdo. 1° 25
+
+Mecánicos Gdo. 2° 26
+
+Mecánicos Gdo. 3° 27
+
+Mecánicos Gdo. 5° 30
+
+Jardinero Gdo. 1° 25
+
+Carpintero Gdo. 1° 25
+
+Carpintero Gdo. 3° 27
+
+Pintor Gdo. 2° 26
+
+Pintor Gdo. 3° 27
+
+Albañil Gdo. 2° 26
+
+Servicios Menores
+
+Mayordomo Gdo. 1° 25
+
+Mayordomo Gdo. 3° 26
+
+Mayordomo Gdo. 5° 27
+
+Portero Gdo. 4° 29
+
+Porteros Gdo. 5° 31
+
+Ordenanzas Aseadores Gdo. 1° 26
+
+Ordenanzas Aseadores Gdo. 3° 28
+
+Ordenanzas Aseadores Gdo. 4° 29
+
+Ordenanzas Aseadores Gdo. 5° 31
+
+Obreros no Especializados
+
+Obreros Gdo. 1° 26
+
+Obreros Gdo. 2° 27
+
+Obreros Gdo. 3° 28
+
+Obreros Gdo. 4° 29
+
+Obreros Gdo. 5° 31
+
+El cargo de Alcalde grado 5 se convertirá en grado 6 al quedar vacante.
+
+El o los cargos de Abogado Jefe Municipal grado 8 se convertirán en grado 10 al quedar vacantes.
+
+El o los cargos de Contralor Contador grado 8 se convertirán en grado 10 al quedar vacantes.
+
+El o los cargos de Director de Patentes, Permisos e Inspec. grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Director de Aseo, Jardines y Ornato grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Director del Depto. de Tránsito grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Director del Depto. de Adquisiciones grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Administrador Veterinario Matadero Municipal grado 10 se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Oficiales Ayudantes grado 29 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Tractorista grado 25 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Jardinero grado 25 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Carpintero grado 27 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Pintor grado 27 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Albañil grado 26 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Mayordomo grado 26 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Mayordomo grado 27 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Porteros grado 31 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Ordenanzas Aseadores grado 31 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Obreros grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PUERTO AYSEN
+
+#### Artículo 186°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Puerto Aysen, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Profesional, Directiva
+
+y Técnica
+
+Alcalde Gdo. 10° 10
+
+Secretario Municipal Gdo. 10° 13
+
+Juez Policía Local Gdo. 10° 11
+
+Secretario de la Alcaldía
+
+y Jefe Depto. Control Gdo. 11° 14
+
+Director del Tránsito e
+
+Inspector de Patentes Gdo. 11° 14
+
+Director de Obras Municipales Gdo. 11° 13
+
+Médico Psicotécnico Ley 15.076
+
+Planta Administrativa
+
+Inspector de Obras Municipales Gdo. 14° 19
+
+Secretario del Juzgado de
+
+Policía Local Gdo. 16° 19
+
+Operador Jefe del Cine
+
+Municipal Gdo. 16° 21
+
+Oficial Ad. Inspector Gdo. 16° 23
+
+Oficial Administrativo Gdo. 18° 25
+
+Oficial Administrativo Gdo. 20° 26
+
+Ayudante Operador Cine
+
+Municipal Gdo. 21° 27
+
+Cajera del Cine Municipal Gdo. 22° 29
+
+Oficiales Administrativos Gdo. 22° 29
+
+Planta Personal Especializado
+
+Chofer Gdo. 6° 25
+
+Capataz de Obra Gdo. 8° 27
+
+Carpintero Gdo. 10° 29
+
+Chofer Gdo. 10° 28
+
+Ayudante Operador Cine
+
+Municipal Gdo. 10° 30
+
+Carpintero Gdo. 10° 30
+
+Planta Servicios Menores
+
+Ordenanza Gdo. 7° 28
+
+Acomodador del Cine Municipal Gdo. 9° 31
+
+Planta Obreros
+
+Obrero Gdo. 6° 27
+
+Obrero Gdo. 8° 29
+
+Obrero Gdo. 9° 31
+
+Obreros Gdo. 10° 32
+
+El o los cargos de Oficiales Administrativos grado 29 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Carpintero grado 29 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Chofer grado 28 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PUERTO CISNES
+
+#### Artículo 187°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Puerto Cisnes, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde Gdo. 12° 17
+
+Secretario Municipal y
+
+de Alcaldía Gdo. 12° 20
+
+Planta Administrativa
+
+Inspector Municipal Gdo. 13° 24
+
+Planta de Personal Especializado
+
+Carpintero, Capataz de Obras Gdo. 7° 26
+
+Chofer Gdo. 8° 27
+
+Herrero Gdo. 8° 27
+
+Planta de Obreros
+
+Obrero Gdo. 9° 31
+
+El o los cargos de Inspector Municipal grado 24 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Carpintero, Capataz de Obras grado 26 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Chofer grado 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Herrero grado 27 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obrero grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PUERTO MONTT
+
+#### Artículo 188°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Puerto Montt, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 6a Cat. 5
+
+Secret. Municipal
+
+Alcaldía Jefe Personal 6a Cat. 8
+
+Jefe Control Aprovisionamiento 6a Cat. 9
+
+Juez Policía Local 6a Cat. 7
+
+Abogado de la Defensa Municipal Gdo. 1° 10
+
+Director del Tránsito Gdo. 1° 10
+
+Director de Obras Municipales Gdo. 2° 8
+
+Visitadora Social Gdo. 2° 15
+
+Jefe de Rentas y Patentes Gdo. 3° 10
+
+Arquitecto Urbanista Gdo. 3° 10
+
+Conductor de Obras Gdo. 4° 19
+
+Inspector Dirección Obras Gdo. 5° 19
+
+Administrador
+
+Cementerio Municipal Gdo. 6° 21
+
+Secretario Juzgado Policía Local Gdo. 6° 19
+
+Inspector de Tránsito Gdo. 6° 20
+
+Oficial Contabilidad-Habilitado Gdo. 7° 21
+
+Oficial de Secretaría Gdo. 7° 22
+
+Inspector Acción Social Gdo. 7° 22
+
+Inspector de Calles Gdo. 7° 23
+
+Inspector de Rentas Gdo. 8° 24
+
+Oficial Contabilidad,
+
+Ayudante Habilitado Gdo. 8° 25
+
+Inspector de Rentas Gdo. 9° 26
+
+Inspector Dirección
+
+Obras Municip. Gdo. 9° 26
+
+Inspector Alumbrado
+
+y Electricista Gdo. 9° 27
+
+Secretario Dirección
+
+Obras Municip. Gdo. 9° 27
+
+Oficial de Contabilidad Gdo. 10° 29
+
+Secretario Estadístico
+
+Cementerio Gdo. 10° 29
+
+Inspector de Tránsito Gdo. 10° 27
+
+Inspector de Rentas Gdo. 10° 27
+
+Oficial de Rentas Gdo. 10° 29
+
+Oficial Secretaría
+
+Obras Municip. Gdo. 10° 29
+
+Conserje Archivero Gdo. 10° 29
+
+Bodeguero Inspector Gdo. 10° 29
+
+Chofer Inspector Gdo. 10° 29
+
+Inspector de Aseo y Jardines Gdo. 10° 27
+
+Oficial de Rentas Gdo. 10° 29
+
+Mecánico Jefe de Taller Gdo. 10° 23
+
+Oficial de Sala Juz. Pol. Local Gdo. 10° 29
+
+Oficial de Aprovisionamiento Gdo. 10° 29
+
+Director del Museo
+
+y Casa del Arte Gdo. 9° 20
+
+Oficial Juzgado Pol. Local Gdo. 10° 29
+
+Médico Gabinete Psicotécnico Gdo. 10° Ley 15.076
+
+Planta Administrativa
+
+Chofer Gdo. 9° 25
+
+Chofer Gdo. 10° 29
+
+Planta de Choferes
+
+Choferes Gdo. 1° 25
+
+Choferes Gdo. 2° 28
+
+Choferes Gdo. 4° 29
+
+Chofer Gdo. 5° 31
+
+Planta de Jornaleros
+
+Jornaleros Gdo. 1° 26
+
+Jornaleros Gdo. 2° 27
+
+Jornaleros Gdo. 3° 29
+
+Jornaleros Gdo. 4° 30
+
+Jornaleros Gdo. 5° 31
+
+Jornaleros Gdo. 6° 32
+
+El o los cargos de Alcalde grado 5 se convertirán en grado 6 al quedar vacantes.
+
+El o los cargos de Jefe Control Aprovisionamiento grado 9 de convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Director del Tránsito grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Visitadora Social grado 15 se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Jefe de Rentas y Patentes grado 10 se convertirán en grado 12 al quedar vacantes.
+
+El o los cargos de Inspector de Tránsito grado 20 se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Inspector de Calles grado 23 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Secretario Estadístico Cementerio grado 29 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Oficial de Rentas grado 29 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Mecánico, Jefe de Taller grado 23 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Oficial Juzgado Pol.
+
+Local grado 29 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Chofer Planta Administrativa grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Choferes Planta de Choferes grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Choferes grado 29 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Chofer grado 31 se convertirán en grado 32 al quedar vacantes.
+
+El o los cargos de Jornaleros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PUERTO OCTAY
+
+#### Artículo 189°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Puerto Octay, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 14
+
+Planta Directiva
+
+Secretario Municipal y
+
+de la Alcaldía Gdo. 12° 17
+
+Planta Profesional y
+
+Técnica
+
+Juez de Policía
+
+Local y Abogado Municipal Gdo. 12° 15
+
+Director de Obras
+
+Municipales (Arquitecto) Gdo. 12° 17
+
+Planta Administrativa
+
+Inspector de Servicios
+
+y Chofer Municipal Gdo. 16° 23
+
+Planta de Obreros
+
+Cuidador Estadio Gdo. 6° 27
+
+Portero Gdo. 6° 27
+
+Obreros Gdo. 7° 29
+
+Obrero Gdo. 8° 31
+
+El o los cargos de Inspector de Servicios y Chofer Municipal grado 23 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Obrero grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PUERTO SAAVEDRA
+
+#### Artículo 190°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Puerto Saavedra, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde Gdo. 7° 16
+
+Secretario Municipal,
+
+Alcaldía y Juez de Policía
+
+Local Gdo. 7° 17
+
+Inspector Patentes, Aseo,
+
+Matadero y Alumbrado Gdo. 12° 21
+
+Bibliotecaria y Aux.
+
+de Secretaría Gdo. 17° 25
+
+Planta de Obreros
+
+Chofer Espec. Mecánica Gdo. 6° 25
+
+Chofer Espec. Mecánica Gdo. 7° 27
+
+Celador y Aseador Gdo. 8° 28
+
+Jardinero y Mecánico Gdo. 9° 30
+
+Jardinero y Aseador Gdo. 10° 32
+
+El o los cargos de Inspector de Patentes, Aseo, Matadero y Alumbrado grado 21 se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Bibliotecaria y Auxiliar de Secretaría grado 25 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Chofer Espec. Mecánica grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Chofer Espec. Mecánica grado 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Celador y Aseador grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Jardinero y Aseador grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PUERTO VARAS.
+
+#### Artículo 191°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Puerto Varas, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados Municipales
+
+Alcalde Gdo. 3° 9
+
+Secretario Municipal Gdo. 3° 10
+
+Secretario Alcaldía Gdo. 4° 12
+
+Director de Tránsito y Aseo Gdo. 4° 14
+
+Médico Veterinario Ad. Matadero Gdo. 4° 12
+
+Inspector Patentes y Mercado Gdo. 6° 19
+
+Director Obras Municipales Gdo. 7° 12
+
+Inspector Obras y Tránsito Gdo. 8° 21
+
+Oficial de Secretaría Gdo. 10° 23
+
+Secretaría Dir. Obras
+
+y Tránsito Gdo. 12° 24
+
+Inspector Matadero
+
+y Carnicerías Gdo. 13° 25
+
+Médico Municipal Gdo. 14° Ley 15.076
+
+Planta Juzgado Policía Local
+
+Juez Policía Local Gdo. 3° 10
+
+Secretaría Gdo. 8° 19
+
+Oficial 1ero. Juz. Policía
+
+Local y Bibliotecaria Gdo. 15° 26
+
+Planta Administrativa
+
+Chofer 1° Gdo. 11° 25
+
+Chofer 2° Gdo. 12° 27
+
+Planta Obreros Municipales
+
+Mecánico Jefe Taller Gdo. 1° 25
+
+Mecánico Bodeguero Gdo. 2° 26
+
+Chofer Gdo. 2° 26
+
+Chofer Gdo. 3° 27
+
+Carpintero Gdo. 4° 28
+
+Albañil Gdo. 4° 28
+
+Jardinero Gdo. 4° 28
+
+Electricista Gdo. 4° 28
+
+Obreros Gdo. 4° 28
+
+Carpintero Gdo. 5° 29
+
+Obreros Gdo. 5° 29
+
+Obreros Gdo. 6° 30
+
+Obreros Gdo. 7° 31
+
+Obreros Gdo. 8° 32
+
+Obreros Gdo. 10° 32
+
+El o los cargos de Secretario Municipal grado 10 se convertirán en grado 12 al quedar vacantes.
+
+El o los cargos de Secretario Alcaldía grado 12 se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Médico Veterinario Ad. Matadero grado 2 se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Chofer 2° grado 27 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obreros grado 10° asimilado al grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE PUMANQUE
+
+#### Artículo 192°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Pumanque, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 17
+
+Secretaria Municipal y del
+
+Jdo. del Pol. Local Gdo. 5° 20
+
+Planta de Obreros
+
+Jardinero y Chofer Gdo. 5° 29
+
+El o los cargos de Jardinero y Chofer grado 29 se convertirán en grado 33 al quedar vacantes.
+
+MUNICIPALIDAD DE PUNITAQUI
+
+#### Artículo 193°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de las Municipalidad de Punitaqui, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Empleados
+
+Alcalde 14
+
+Secretario Municipal
+
+y Alcaldía Gdo. 4° 16
+
+Médico Veterinario Gdo. 12° 16
+
+Director de Obras Gdo. 13° 16
+
+Inspector de Patentes
+
+y Matadero Gdo. 6° 20
+
+Chofer Gdo. 8° 25
+
+Médico Psicotécnico Gdo. 13° Ley 15.076
+
+Planta de Obreros
+
+Matarife Especializado Gdo. 5° 26
+
+Ayudante Matarife Especializado Gdo. 5° 26
+
+Jardinero Gdo. 5° 29
+
+Encargado de Aseo Gdo. 5° 29
+
+El o los cargos de Secretario Municipal y de Alcaldía grado 16 se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Médico Veterinario grado 16 de convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Director de Obras grado 16 se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Inspector de Patentes y Matadero grado 20 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Chofer grado 25 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Matarife Especializado grado 26 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Ayudante Matarife Especializado grado 26 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Encargado de Aseo grado 29 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE MAGALLANES
+
+#### Artículo 194°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Magallanes, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 1a Cat. 5
+
+Juez del Primer y Segundo
+
+Juzgado de Policía Local 1a Cat. 6
+
+Secretario Municip. y de
+
+la Alcaldía 1a Cat. 7
+
+Asesor Urbanista 1a Cat. 9
+
+Abogado Jefe Defensa Municipal 1a Cat. 9
+
+Director de Obras Municipales 1a Cat. 8
+
+Jefe de Control y Adquisición 1a Cat. 9
+
+Director de Rentas y Patentes 1a Cat. 9
+
+Director de Aseo y Jardines 1a Cat. 9
+
+Director de Tránsito 1a Cat. 9
+
+Constructor Civil Ayudante
+
+Técnico
+
+Direc. de Obras Municipales 4a Cat. 12
+
+Médico Gabinete Psicotécnico Ley 15.076
+
+Asistente Social Gr. 10° 16
+
+Planta Administrativa
+
+Oficial de Secretaría Gr. 2° 19
+
+Oficial de Control
+
+de Adquisiciones Gr. 3° 20
+
+Oficial de Tránsito Gr. 3° 20
+
+Inspector Coordinador Gr. 4° 20
+
+Secretario del Primer y Segundo
+
+Juzgado de Policía Local Gr. 4° 19
+
+Oficial de Tránsito Gr. 4° 21
+
+Oficial Bibliotecario Gr. 5° 22
+
+Oficial de Control
+
+y Adquisiciones Gr. 5° 22
+
+Oficial de Tránsito Gr. 5° 22
+
+Oficial 1° Juzgado
+
+Policía Local Gr. 5° 22
+
+Inspector Gr. 5° 22
+
+Conductor de Obras Municipales Gr. 6° 23
+
+Oficial Secretario
+
+Direc. de Obras Gr. 6° 23
+
+Oficial 2° Juzgado Policía Local Gr. 6° 23
+
+Oficial de Rentas y Patentes Gr. 6° 23
+
+Oficial Secretario
+
+Plan Regulador Gr. 6° 23
+
+Oficial Defensa Municipal Gr. 6° 23
+
+Oficial de Sala y
+
+Actas Secretaría Gr. 7° 24
+
+Oficial de Partes Secretaría Gr. 7° 24
+
+Oficial de Control
+
+y Adquisiciones Gr. 7° 24
+
+Oficial de Tránsito Gr. 7° 24
+
+Oficial Mecánico Aseo y Jardines Gr. 7° 24
+
+Inspector Gr. 7° 24
+
+Oficial Plan Regular Gr. 8° 25
+
+Inspector Gr. 8° 25
+
+Oficial de Rentas y Patentes Gr. 9° 27
+
+Oficial Receptor Juzgado
+
+Pol. Local Gr. 10° 29
+
+Planta de Obreros Especializados
+
+Capataz Dirección de Obras Gr. 1° 25
+
+Capataz y Chofer
+
+Aseo y Jardines Gr. 1° 25
+
+Chofer Aseo y Jardines Gr. 2° 27
+
+Chofer Secretaría Municipal Gr. 2° 27
+
+Chofer Dirección de Obras Gr. 2° 27
+
+Carpintero Dirección de Obras Gr. 2° 27
+
+Carpintero Aseo y Jardines Gr. 2° 27
+
+Ayudante Tornero Aseo y Jardines Gr. 2° 27
+
+Chofer Aseo y Jardines Gr. 3° 29
+
+Chofer Secretaría Municipal Gr. 3° 29
+
+Chofer Dirección de Obras Gr. 3° 29
+
+Soldador Aseo y Jardines Gr. 3° 29
+
+Albañil Dirección de Obras Gr. 3° 29
+
+Gásfiter Dirección de Obras Gr. 3° 29
+
+Ayudante Mecánico
+
+Aseo y Jardines Gr. 3° 29
+
+Chofer Aseo y Jardines Gr. 4° 30
+
+Chofer Dirección de Obras Gr. 4° 30
+
+Carpintero Dirección de Obras Gr. 4° 30
+
+Albañil Dirección de Obras Gr. 4° 30
+
+Planta de Obreros sin Especialidad
+
+Obreros 1° 26
+
+Obreros 2° 29
+
+Obreros 3° 32
+
+El o los cargos de Director de Obras Municipales grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Oficial de Tránsito grado 22° se convertirán en grado 24° al quedar vacantes.
+
+EL o los cargos de Oficial 2° Juzgado Policía Local grado 23 se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de Oficial de Sala y Actas Secretaría grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Oficial de Partes Secretaría grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Oficial de Control y Adquisiciones grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Oficial de Tránsito grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Oficial Mecánico Aseo y Jardines grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Inspector grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Oficial Plan Regular grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Oficial de Rentas y Patentes grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Oficial Receptor Juzgado de Policía Local grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Carpintero Aseo y Jardines grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Chofer Aseo y Jardines grado 30° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Chofer Dirección de Obras grado 30 se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Carpintero Dirección de Obras grado 30° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Albañil Dirección de Obras grado 30° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PUQUELDON
+
+#### Artículo 195°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Puqueldón, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde y Juez de Policía Local 17
+
+Secretaría Municipal y
+
+Secretaría del Juzgado de
+
+Policía Local Gdo. 20° 20
+
+MUNICIPALIDAD DE PUREN
+
+#### Artículo 196°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Purén, de acuerdo con lo dispuesto en el artículo 13° decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Planta de Empleados Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde Gdo. 12° 17
+
+Secretaria Municipal y
+
+de la Alcaldía Gdo. 12° 19
+
+Director de Obras Gdo. 14° 20
+
+Inspector Servicios y
+
+Secretario Juzgado
+
+Policía Local Gdo. 14 23
+
+Chofer Gdo. 7° 27
+
+Planta de Obreros
+
+Obreros Gdo. 7° 30
+
+El o los cargos de Sec. Municipal y de la Alcaldía grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Chofer grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obreros grado 30° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PURRANQUE.
+
+#### Artículo 197°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Purranque, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 13
+
+Secretario Municipal y Alcaldía Gr. 5° 16
+
+Juez de Policía Local Gr. 5° 14
+
+Director de Obras Municipales Gr. 14° 16
+
+Secretario Juzgado Policía Local Gr. 9° 20
+
+Director del Tránsito Gr. 9° 17
+
+Inspector de Patentes Gr. 9° 23
+
+Médico Jefe Gab. Psicotécnico Gr. 18° Ley 15.076
+
+Planta de Obreros
+
+Choferes Gr. 1° 28
+
+Auxiliar Gr. 1° 28
+
+Panteonero Gr. 1° 28
+
+Electricista Gr. 1° 28
+
+Carpintero Gr. 1° 28
+
+Jardinero Gr. 1° 28
+
+Peonetas Gr. 1° 28
+
+El o los cargos de Auxiliar grado 28° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Panteonero grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Jardinero grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Peonetas grado 28° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE PUTAENDO
+
+#### Artículo 198°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Putaendo, de acuerdo con lo dispuesto en al artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva
+
+Directiva "A" Alcaldía
+
+Alcalde 14
+
+Directiva "B" Jefes de Servicios
+
+Secret. Municip. Alcaldía
+
+y Jefe Personal Gr. 4° 16
+
+Jefe Depto. Renta Administ.
+
+del Matadero e Inspector Obras Gr. 4° 16
+
+Jefe Depto. Aseo, Servicios y
+
+Director Tránsito Gr. 7° 18
+
+Planta Administrativa
+
+Administrativa "A"
+
+Secretaría Juzgado
+
+Policía Local Gr. 9° 19
+
+Administrativa "B"
+
+Chofer-Mayordomo Gr. 13° 25
+
+Planta Obreros
+
+Obreros Labores Específicas
+
+Obrero Especializado Gr. 2° 25
+
+Obrero Especializado Gr. 4° 29
+
+Obreros sin calificación
+
+Obreros Gr. 5° 32
+
+El o los cargos de Secret. Municip. Alcaldía y Jefe Personal grado 16° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Jefe Depto. Renta Adminst. del Matadero e Inspector de Obras grado 16° se convertirán en grado 18° al quedar vacantes.
+
+El o los cargos de Jefe Depto. Aseo, Servicios y Director de Tránsito grado 18° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Secretaria Juzgado de Policía Local grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Chofer Mayordomo grado 25° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obrero Especializado grado 25° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obrero Especializado grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Obrero grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE QUEILEN
+
+#### Artículo 199°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Queilén, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 16
+
+Planta Administrativa
+
+Secretario Municipal Gr. 15° 19
+
+Inspector Municipal Gr. 21° 23
+
+Planta Obreros
+
+Obrero Gr. 6° 31
+
+El o los cargos de Inspector Municipal grado 23° se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de Obrero grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE QUELLON
+
+#### Artículo 200°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Quellón, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde y Juez de
+
+Policía Local 15
+
+Secretario Municipal y
+
+Secretario Juzgado Policía
+
+Local, Director de Tránsito
+
+e Inspector de Patentes Gr. 10° 19
+
+Chofer Mecánico Gr. 22° 27
+
+Planta Obreros
+
+Obrero Municipal Gr. 6° 31
+
+Obrero Municipal Gr. 7° 32
+
+El o los cargos de Obrero Municipal grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE QUEMCHI
+
+#### Artículo 201°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Quemchi, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 16
+
+Planta Empleados
+
+Secretario Municipal Gr. 7° 19
+
+Planta Obreros
+
+Obrero s/g. 31
+
+El o los cargos de Obrero grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE QUILACO
+
+#### Artículo 202°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Quilaco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Planta Directiva Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 17
+
+Secretario Municipal y de
+
+Alcaldía, Inspector de
+
+Patentes, Higiene y Tránsito Gr. 11° 19
+
+Planta de Obreros no
+
+Especializados
+
+Obrero Gr. 9° 30
+
+El o los cargos de Secretario Municipal y de Alcaldía, Inspector de Patentes Higiene y Tránsito grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Obreros grado 30° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE QUILICURA
+
+#### Artículo 203°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Quilicura, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Superintendencia de los Servicios
+
+Alcalde 10
+
+Directivos Superiores
+
+Secretario Municipal y
+
+de Alcaldía 6a Cat. 13
+
+Director de Patentes y Tránsito 6a Cat. 13
+
+Juez de Policía Local 6a Cat. 11
+
+Abogado Municipal 6a Cat. 14
+
+Director de Obras Municipales Gr. 1° 13
+
+Director de Emergencia y
+
+Desarrollo Comunitario Gr. 4° 15
+
+Director Aseo, Jardines e
+
+Inspección Local Gr. 4° 14
+
+Jefe Sección Sueldos,
+
+Habilitación y Control Gr. 4° 15
+
+Jefe Sección Examen de
+
+Conductores e Inspección Tránsito Gr. 6° 17
+
+Secretario del Juzgado Policía
+
+Local Gr. 6° 16
+
+Planta Administrativa
+
+Ayudante de Depto. de Tránsito Gr. 7° 19
+
+Secretaria, Dactilógrafa de la
+
+Secret. Municip. y Alcaldía Gr. 9° 22
+
+Inspector de Policía Local Gr. 8° 21
+
+Ayudante Direc. de Obras Gr. 9° 22
+
+Secretario Alcalde Gr. 9° 22
+
+Inspector Dirección de Obras Gr. 9° 22
+
+Oficial de Partes de la Munic. Gr. 9° 23
+
+Inspectores Aseo y Jardines Gr. 9° 23
+
+Inspector de Obras Municip. Gr. 9° 23
+
+Dactilógrafa Dirección de Obras Gr. 10° 26
+
+Oficial de Partes del Juzgado de
+
+Policía Local Gr. 11° 29
+
+Inspector Dirección Obras Gr. 11° 27
+
+Secretario Desarrollo Comunitario Gr. 11° 27
+
+Oficial de Tránsito y Patentes Gr. 11° 27
+
+Obreros Especializados
+
+Jardinero Jefe Gr. 1° 25
+
+Jardinero Gr. 1° 27
+
+Soldador Gr. 1° 25
+
+Mecánico Gr. 1° 25
+
+Obreros no Especializados
+
+Ayudante Mecánico Gr. 1° 27
+
+Carpintero Gr. 1° 27
+
+Choferes Gr. 1° 27
+
+Chofer Gr. 6° 29
+
+Obreros Gr. 1° 29
+
+Obreros Gr. 2° 30
+
+Obreros Gr. 3° 31
+
+Obrero Gr. 4° 32
+
+Obreros Gr. 5° 32
+
+Obreros Gr. 6° 32
+
+El o los cargos de Director de Patentes y Tránsito grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Secretario del Juzgado de Policía Local grado 16° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Oficial de Tránsito y Patentes grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Jardinero Jefe grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Jardinero grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Obrero grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE QUILLECO
+
+#### Artículo 204°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Quilleco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde Gr. 10° 16
+
+Secretario Municipal
+
+y Juzgado Policía Local Gr. 10° 19
+
+Inspector de Servicios Gr. 12° 24
+
+Planta de Obreros
+
+Obreros Gr. 10° 30
+
+El o los cargos de Obreros grado 30° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE QUILLON
+
+#### Artículo 205°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Quillón, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado
+
+Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta Empleados
+
+Alcalde y Juez Policía Local 7a Cat. 15°
+
+Secretario Municipal Alcaldía
+
+del Jdo. Pol. Local, Director
+
+Obras y Habil. 7a Cat. 18°
+
+Inspector Municipal 12° 21°
+
+Director Tránsito, Inspector
+
+Patentes 14° 21°
+
+Inspector de Aseo y Ornato 15° 25°
+
+Planta Obreros
+
+Chofer 3° 27°
+
+Carpintero 3° 27°
+
+Obreros 4° 31°
+
+El o los cargos de Inspector Municipal grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Inspector de Aseo y Ornato grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Obreros grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE QUILLOTA
+
+#### Artículo 206°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Quillota, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta Directiva
+
+Alcalde 5a Cat. 5°
+
+Director de Depto. de Secretario
+
+Municipal y Jefe de Control 5a Cat. 8°
+
+Director de Depto. de
+
+Secretario de la Alcaldía 5a Cat. 9°
+
+Director del Depto. de
+
+Juez de Policía Local 5a Cat. 7°
+
+Directores de Deptos. de Obras 6a Cat. 8°
+
+Director Depto. Tránsito 6a Cat. 9°
+
+Directores de Deptos. de: Aseo,
+
+Arq. Plan Regulador 1° 10°
+
+Directores de Deptos. de: Rentas
+
+y Patentes; Defensa Municipal 4° 10°
+
+Director de Depto. de: Médico
+
+Veterinario y Administrador
+
+Matadero 8° 11°
+
+Planta Profesional
+
+Médico Gabinete Psicotécnico 6° Ley 15.076
+
+Planta Administrativa
+
+Director Parques y Jardines,
+
+Director de Relaciones Públicas
+
+y Jefe de Inventario 5a Cat. 16°
+
+Secretario Jdo. de Policía
+
+Local 2° 19°
+
+Director Biblioteca, Jefe
+
+Archivo y Museo, Director
+
+Cementerio, Subadministrador
+
+Matadero e Inspector Servicio
+
+Municipal, Auxiliar Director
+
+del Tránsito, Oficial 1° Jdo.
+
+de Policía Local,
+
+Inspector Jefe de Obras y
+
+Servicios Municipales 5° 20°
+
+Oficial de Partes e Inspector
+
+de Servicios Municipales; Oficial
+
+2° Jdo. de Policía Local;
+
+Administrador Estadio y Sala de
+
+Usos Múltiples; Secretaria Auxilio
+
+Alcaldía e Inspector Servicios
+
+Municipales 6° 21°
+
+Oficial 3° Jdo. Policía Local 7° 22°
+
+Administrador Mercados e
+
+Inspector de Ferias 8° 22°
+
+Auxiliar Plan Regulador e
+
+Inspector Servicios Municipales;
+
+Auxiliar Secretaría e Inspector
+
+Servicios Municipales 11° 25°
+
+Auxiliar D. Tránsito e Inspector
+
+Servicios Municipales 11° 25°
+
+Secretario Aux. D. Obras e
+
+Inspector Servicios Municipales;
+
+Auxiliar Rentas y Patentes e
+
+Inspector Servicios Municipales 11° 25°
+
+Auxiliar Secretaría Dirección
+
+Aseo e Inspector Servicios
+
+Municipales; Auxiliar Dirección
+
+Rentas y Patentes e Inspector
+
+Servicios Municipales 13° 29°
+
+Planta de Servicios Menores
+
+Capataz, Capataz Jardinero 2° 25°
+
+Jardinero 3° 26°
+
+Bod. Carpintero 3° 26°
+
+Choferes 4° 27°
+
+Mayordomo Est. Capataz, Mayordomo 4° 27°
+
+Albañiles 4° 27
+
+Gásfiter 4° 27
+
+Portero, Peonetas 4° 27
+
+Jardinero 4° 27
+
+Mec. Chofer 5° 28
+
+Choferes 5° 28
+
+Carpintero 5° 28
+
+Albañil 5° 28
+
+C. Aguas 5° 28
+
+Barredores, Peonetas 5° 28
+
+Port. Matadero 5° 28
+
+Obreros 5° 28
+
+Jardinero 5° 28
+
+Portero 6° 29
+
+Chofer 6° 29
+
+Electricista 6° 29
+
+Albañil, Carpintero, Pintor 6° 29
+
+Enfierrador 6° 29
+
+Peonetas 6° 29
+
+Jardinero 6° 29
+
+Obrero 6° 29
+
+Barredor 7° 31
+
+Albañil, Carpintero, Soldador 7° 31
+
+Albañil 7° 31
+
+Peonetas 7° 31
+
+Obreros, Portero 7° 31
+
+Barredor 8° 32
+
+Obrero, Jardinero
+
+El o los cargos de Alcalde grado 5° se convertirá en grado 6° al quedar vacantes.
+
+El o los cargos de Director de Depto. de Secretario de la Alcaldía grado 9° se convertirá en grado 13° al quedar vacantes.
+
+El o los cargos de Director Depto. Tránsito grado 9° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Directores de Depto. de: Aseo, Arquitecto Plan Regulador grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Director de Depto. de: Médico Veterinario y Administrador del Matadero grado 11° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Oficial 3er. Jdo. Policía Local grado 22° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Administrador Mercado e Inspector de Feria grado 22° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Auxiliar Plan Regulador Inspector Servicios Municipales; Auxiliar Secretaría e Inspector Servicios Municipales; grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Auxiliar D. Tránsito e Inspector Servicios Municipales grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Auxiliar de Rentas, Patentes e Inspector Servicios Municipales; Secretario Aux. D. Obras e Inspector Servicios Municipales grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Auxiliar Secretario Director Aseo e Inspector Servicios Municipales; Auxiliar Direc. Rentas, Patentes e Inspector Servicios Municipales grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Barredor grado 32° y Obrero, Jardinero grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE QUILPUE
+
+#### Artículo 207°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Quilpué, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva
+
+Alcalde 1a Cat. 6°
+
+Secretario Municipal y
+
+de la Alcaldía 1a Cat. 8°
+
+Director de Obras Municipales 1a Cat. 8°
+
+Director Jefe de Control 1a Cat. 11°
+
+Director Jefe de Rentas 1a Cat. 13°
+
+Director del Tránsito 1a Cat. 11°
+
+Juez de Policía Local 1a Cat. 7°
+
+Abogado Municipal 1a Cat. 10°
+
+Médico Veterinario Administrador
+
+Matadero Municipal 2a Cat. 13°
+
+Asesor Urbanista 2a Cat. 10°
+
+Jefe del Depto. de Aseo
+
+y Servicios 6a Cat. 11°
+
+Planta Profesional y Técnica
+
+Topógrafo (Constructor Civil) 3° 15°
+
+Médico Gabinete Psicotécnico 8° Ley 15.076
+
+Asistente Social 13° 16°
+
+Planta Administrativa
+
+Subjefe Control y
+
+Administ. Gimnasio 3a Cat. 19°
+
+Secretaria Jdo. Policía Local 2° 19°
+
+Secretaria Dirección de Obras 5° 21°
+
+Oficial 1o. Jdo. Policía Local 5° 21°
+
+Prosecretario Municipal 5° 21°
+
+Secretario de Rentas e
+
+Inspector Municipal 5° 21°
+
+Mecánico Municipal 5° 25°
+
+Oficial 1° Dirección de Obras 6° 22°
+
+Subjefe Depto. Tránsito 7° 23°
+
+Inspector de Pobladores
+
+y Oficial de Adquisiciones 7° 23°
+
+Oficial de Rentas 7° 23°
+
+Oficial 2° de Obras
+
+y Planificación 9° 26°
+
+Oficial 2° Jdo. Policía Local 9° 26°
+
+Ayudante Secretaria
+
+y Oficial Partes 9° 26°
+
+Oficial Oficina Salario
+
+del Matadero 10° 27°
+
+Ayudante Control 10° 27°
+
+Inspector de Obras 12° 25°
+
+Inspector de Tránsito 12° 25°
+
+Ayudante de Aseo y Servicios 12° 27°
+
+Planta de Servicios
+
+Menores y Oficios
+
+A) Obreros Calificados
+
+Especializados
+
+Mayordomo 1° 25°
+
+Mayordomo Matadero 1° 25°
+
+Ordenanza 1° 25°
+
+Choferes 1° 25°
+
+Carpintero 1° 25°
+
+Electricista 1° 25°
+
+Soldador 1° 25°
+
+Jardineros 1° 25°
+
+Albañil 1° 25°
+
+Pintor 1° 25°
+
+Calderero 1° 25°
+
+Carpinteros 2° 26°
+
+Jardineros 2° 26°
+
+Albañiles 2° 26°
+
+Gásfiter 2° 26°
+
+Choferes 3° 27°
+
+Albañil 3° 27°
+
+Choferes 4° 28°
+
+Carpintero 4° 28°
+
+Jardinero 4° 28°
+
+Cuidador (Jardinero) 4° 28°
+
+Electricista 5° 29°
+
+Obreros sin Calificación
+
+1° 26°
+
+2° 27°
+
+3° 28°
+
+4° 29°
+
+5° 30°
+
+6° 31°
+
+7° 32°
+
+El o los cargos de Secretario Jdo. Policía Local grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Prosecretaria Municipal grado 21° y Oficial 1° Dirección de Obras grado 22° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Oficial de Adquisiciones y Oficial de Rentas grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Mayordomo Matadero, Oficial 2° de Obras y Planificación Oficial 2° Juzgado Policía Local y Ayudante de Secretaría y Oficial de Partes grados 25°, 26°; 26° y 26°, respectivamente, se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Ordenanza, Soldador y Pintor grado 25°; Oficial Oficina Salario Matadero y Ayudante de Control grado 27° y Gásfiter grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Choferes, Carpintero y Electricista grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Calderero grado 25°; Carpinteros, Jardineros y Albañiles grado 26° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Albañil grado 27° y Carpintero grado 28° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Jardinero grado 28° y Obreros sin calificación grado 32° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Asistente Social grado 16° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Topógrafo grado 15° se convertirán en grado 19° al quedar vacantes.
+
+MUNICIPALIDAD DE QUINTA DE TILCOCO
+
+#### Artículo 208°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Quinta de Tilcoco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Alcalde 16°
+
+Planta de Empleados
+
+Juez de Policía Local 10° 17°
+
+Secretario Municipal
+
+y de Alcaldía 10° 19°
+
+Médico Gabinete Psicotécnico Ley 15.076
+
+Director del Depto. Tránsito 14° 20°
+
+Inspector de Patentes 14° 24°
+
+Secretario Jdo. Policía Local 14° 23°
+
+Inspector Municipal 12° 23°
+
+Administrador Teatro Gimnasio
+
+y Estadio Municipal 16° 26°
+
+Director de Aseo, Jardines y
+
+Ayudante Inspector 17° 26°
+
+Choferes 17° 27°
+
+Planta de Obreros
+
+Obreros 6° 30°
+
+El o los cargos de Inspector Municipal grado 23° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Choferes grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros grado 30° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE QUINTA NORMAL
+
+#### Artículo 209°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Quinta Normal, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 3a Cat. 5°
+
+Dirección Control y Adquisiciones 3a Cat. 8°
+
+Dirección Secretaría Municipal 3a Cat. 7°
+
+Dirección Secretaría Alcaldía 3a Cat. 9°
+
+Dirección Obras Municipales 3a Cat. 8°
+
+Dirección Subsistencias e
+
+Inspecciones 3a Cat. 9°
+
+Juez Policía Local 3a Cat. 6°
+
+Dirección Depto. Aseo y Jardines 3a Cat. 9°
+
+Dirección Urbanismo (Asesor
+
+Urbanista) 3a Cat. 9°
+
+Dirección Policía Local
+
+(Secretario Juzgado) 3a Cat. 10°
+
+Dirección Matadero Municipal 3a Cat. 10°
+
+Dirección Defensa Municipal 4a Cat. 9°
+
+Dirección de Tránsito 4a Cat. 9°
+
+Contador Director de Personal 4a Cat. 10°
+
+Subdirección de Tránsito 2° 12°
+
+Subdirección Depto. Aseo y
+
+Jardines 3° 12°
+
+Constructor Civil, Conductor
+
+Dirección Obras 3° 14°
+
+Jefe Dirección Organizaciones
+
+Comunitarias 4° 14°
+
+Secretar. Ejecutiva Direc. Personal 4° 19°
+
+Inspector Jefe Ferias Libres
+
+y Matadero 4° 19°
+
+Inspector Jefe Dirección de Obras 4° 19°
+
+Inspector Jefe Direc. de
+
+Subsistencia e Inspector 4° 19°
+
+Inspector Jefe Dirección Tránsito 4° 19°
+
+Oficial Jefe Dirección Secretaría 4° 19°
+
+Oficial Jefe Dirección Control y
+
+Adquisición 4° 19°
+
+Asistente Social 4° 16°
+
+Inspector Jefe Dirección Depto.
+
+Aseo y Jardines 5° 19°
+
+Inspector Dirección Tránsito 5° 20°
+
+Contador Jefe Dirección
+
+Subsistencias e Inspector 5° 13°
+
+Jefe Direc. de Servicios Eléctricos 6° 20°
+
+Oficial Jefe Planillas Sueldos y
+
+Salarios 6° 21°
+
+Oficial Jefe Juzgado Policía Local 6° 20°
+
+Inspector Dirección Obras 6° 21°
+
+Inspector Dirección Subsistencia
+
+e Inspección 6° 21°
+
+Oficial Juzgado de Policía Local 6° 21°
+
+Médico Gabinete Psicotécnico Ley 15.076
+
+Secretaria Ejecutiva
+
+Dirección de Obras 7° 22°
+
+Inspector Dirección
+
+Subsistencias e Inspección 7° 22°
+
+Electricista Dirección Servicio
+
+Eléctrico 7° 25°
+
+Mecánico Dirección Depto. Aseo 7° 25°
+
+Mecánico Electricista Automóviles
+
+Dirección Depto. Aseo 7° 25°
+
+Inspector Dirección de Obras 7° 22°
+
+Oficial Dirección Personal 7° 22°
+
+Contador Jefe Control y
+
+Adquisiciones 8° 13°
+
+Mecánico Dirección Depto. Aseo 8° 25°
+
+Inspector Dirección de Tránsito 8° 23°
+
+Oficial Juzgado Policia Local 8° 23°
+
+Oficial Dirección de Obras 8° 23°
+
+Oficial Dirección de Secretaría 8° 23°
+
+Inspector Dirección Subsistencias
+
+e Inspección 8° 23°
+
+Inspector Dirección de Obras 8° 23°
+
+Oficial Dirección de Personal 9° 24°
+
+Oficial Dirección Subsistencia
+
+e Inspección 9° 24°
+
+Inspector Dirección de Tránsito 9° 24°
+
+Inspector Dirección de Obras 9° 24°
+
+Inspector Dirección de Depto. de
+
+Aseo 9° 24°
+
+Oficial Juzgado Policía Local 9° 24°
+
+Oficial Dirección del Tránsito 9° 24°
+
+Inspectores Dirección de
+
+Subsistencias e Inspecciones 9° 24°
+
+Inspector Dirección Obras Municip. 10° 25°
+
+Inspector Dirección de Tránsito 10° 25°
+
+Inspector Dirección Subsistencias
+
+e Inspección 10° 25°
+
+Oficial Dirección de Tránsito 10° 25°
+
+Oficial Dirección de Secretaría 10° 25°
+
+Inspector Dirección Depto.
+
+Aseo y Jardines 11° 26°
+
+Oficial Juzgado Policía Local 11° 27°
+
+Oficial Dirección de Personal 11° 27°
+
+Inspector Dirección
+
+Subsistencias e Inspección 11° 27°
+
+Inspector Dirección de Tránsito 13° 27°
+
+Oficial Dirección de Personal 13° 29°
+
+Oficial Dirección de Secretaria 13° 29°
+
+Planta Obreros
+
+Obreros Especializados 1° 25°
+
+Obreros 1° 26°
+
+Obreros 2° 27°
+
+Obreros 3° 29°
+
+Obreros 4° 31°
+
+Obreros 5° 32°
+
+El o los cargos de Dirección Control, Adquisiciones grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Dirección Secretaría Alcaldía grado 9° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Dirección de Obras Municipales grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Dirección Matadero Municipal grado 10°; Subdirección de Tránsito; y Subdirección Depto. Aseo y Jardines grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Contador Director de Personal grado 10° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Contador Jefe Dirección Subsistencia e Inspección grado 13° se convertirán en grado 18° al quedar vacantes.
+
+El o los cargos de Oficial Juzgado de Policía Local grado 21° se convertirán en grado 22° al quedar vacantes.
+
+El o los cargos de Inspector Dirección de Obras grado 22° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Contador Jefe Control y Adquisiciones grado 13° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Mecánico Dirección Depto. Aseo grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Oficial de Dirección de Secretaría grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE QUINTERO
+
+#### Artículo 210°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Quintero, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Directivos
+
+Alcalde 2° 9°
+
+Secretario Municipal y Alcaldía 2° 12°
+
+Abogado Juez Policía Local 2° 12°
+
+Arquitecto Director O. O. M. M. 2° 12°
+
+Administrativos
+
+Secretario Juzgado Policía Local 3° 19°
+
+Inspector de Patentes 6° 21°
+
+Inspector O. O. M. M. 6° 21°
+
+Médico Psicotécnico 7° Ley 15.076
+
+Inspector del Tránsito 7° 23°
+
+Inspector Archivero 7° 23°
+
+Oficial 1° Jdo. Policía Local 8° 25°
+
+Ayudante Secretaría 21° 29°
+
+Servicios
+
+Ordenanza Mayordomo 7° 25°
+
+Planta de Obreros
+
+Obreros Especializados
+
+Choferes 1° 25°
+
+Mecánicos 1° 25°
+
+Jardineros 1° 25°
+
+Obreros sin Especialidad
+
+Capataz 1° 26°
+
+Obreros 1° 26°
+
+Obreros 3° 30°
+
+El o los cargos de Alcalde grado 9° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Secretario Municipal y Alcaldía; y Arquitecto Director O. O. M. M.
+
+grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Ordenanza Mayordomo; Choferes; Mecánicos; Jardineros grado 25°; y Capataz; y Obreros grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros grado 30° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE QUIRIHUE
+
+#### Artículo 211°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Quirihue, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, al siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Empleados
+
+Alcalde 7° 16°
+
+Secretario Municipal y de la
+
+Alcaldía e Inspector del
+
+Tránsito 7° 18°
+
+Inspector de Obras y Secretario
+
+del Jdo. de Policía Local 9° 19°
+
+Administrador del Mercado y
+
+Matadero Municipal 13° 23°
+
+Inspector Municipal 14° 24°
+
+Oficial de Sala Municipal 16° 27°
+
+Planta de Obreros
+
+Chofer 7° 26°
+
+Obreros 7° 30°
+
+El o los cargos de Secretario Municipal y de la Alcaldía e Inspector del Tránsito grado 18° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Inspector de Obras y Secretario del Juzgado de Policía Local grado 19° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Inspector Municipal, grado 24°, se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Oficial de Sala Municipal grado 27° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Chofer grado 26 se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros grado 30° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE RANCAGUA
+
+#### Artículo 212°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Rancagua, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva
+
+Alcalde 5°
+
+Director de Obras 5a. Cat. 8°
+
+Secretario Municipal 5a. Cat. 8°
+
+Juez de Policía Local 5a. Cat. 7°
+
+Secretario de Alcaldía 5a. Cat. 9°
+
+Director del Tránsito 6a. Cat. 10°
+
+Director de Aprovisionamiento 6a. Cat. 10°
+
+Director Sanidad Espect.
+
+Publ. Patente 6a. Cat. 10°
+
+Jefe Oficina del Personal 6a. Cat. 11°
+
+Jefe de Contabilidad y Control 6a. Cat. 10°
+
+Abogado Municipal 6a. Cat. 10°
+
+Jefe de Rentas y Habilitado 6a. Cat. 12°
+
+Director de Subsistencias 6a. Cat. 10°
+
+Director de Aseo 6a. Cat. 10°
+
+Planta Administrativa
+
+Asesor Urbanista 2° 10°
+
+Ayudante 1° Tránsito 3° 19°
+
+Administrador Estadio
+
+Plazas y Jard. 3° 19°
+
+Ayudante Director de Obras 3 19°
+
+Inspect. 1° de Patentes
+
+Comerciales 3 19°
+
+Inspector 2° Departamento
+
+Tránsito 3° 20°
+
+Ayudante 2° Dirección de Obras 3° 21°
+
+Secretaría Abogado Jdo.
+
+Policía Local 3° 9°
+
+Ayudante 3° Depto. del Tránsito 3° 23°
+
+Ayudante de Subsistencia 4° 23°
+
+Médico Gabinete Psicotécnico 5° Ley 15.076
+
+Ayudante 2° Patentes Comerciales 5° 23°
+
+Oficial de Secretaría 5° 23°
+
+Ayudante 5° Dirección Tránsito 5° 23°
+
+Ayudante 4° Dirección de Obras 5° 23°
+
+Oficial 1° Jdo. de Policía Local 5° 21°
+
+Ayudante 4° Dirección del Tránsito 5° 23°
+
+Ayudante 5° Dirección de Obras 5° 24°
+
+Ayudante de Contabilidad y Control 5° 23°
+
+Ayudante 3° Dirección Patentes
+
+Comerciales 5° 23°
+
+Ayudante 3° Dirección de Obras 5° 23°
+
+Asistente Soc. del Personal
+
+Municipal 8° 18°
+
+Ayudante de Rentas 8° 25°
+
+Oficial 2° Jdo. de Policía Local 8° 25°
+
+Ayudante 4° Patentes Comerciales 9° 27°
+
+Oficial Casa de la Cultura 11° 29°
+
+Ayudante 6° Dirección del Tránsito 11° 29°
+
+Ayudante 6° Dirección de Obras 11° 29°
+
+Planta de Choferes, Electricistas y Otros Similares
+
+Mayordomo de Jardines 5 25°
+
+Choferes 5° 25°
+
+Mayordomo de Aseo 5° 25°
+
+Mecánico 5° 25°
+
+Electricista 5° 25°
+
+Planta de Obreros
+
+Obreros 1° 26°
+
+Obreros 2° 27°
+
+Obreros 3° 28°
+
+Obreros 4° 29°
+
+Obreros 5° 30°
+
+Obreros 6° 31°
+
+Obreros 8° 32°
+
+El o los cargos de Alcalde grado 5° se convertirán en grado 6° al quedar vacantes.
+
+El o los cargos de Secretario de Alcaldía grado 9°, y Jefe Oficina del Personal grado 11° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Director del Tránsito, Director de Aprovisionamiento; Director Sanidad, Espect. Publ. Patente; Jefe de Contabilidad y Control, y Director de Subsistencia grado 10° se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Ayudante de Subsistencias, Ayudante 2° Patentes Comerciales, Ayudante 5° Dirección Tránsito, Ayudante 4° Dirección de Obras, Ayudante 4° Dirección del Tránsito, Ayudante 3° Dirección Patentes Comerciales y Ayudante 3° Dirección de Obras grado 23° se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de Oficial 1° Juzgado de Policía Local grado 21° se convertirán en grado 22° al quedar vacantes.
+
+El o los cargos de Ayudante 5° Dirección de Obras grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Oficial 2° Juzgado de Policía Local grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Ayudante 6° Dirección de Obras grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Mayordomo de Jardines, Choferes, Mayordomo de Aseo, Mecánico y Electricista grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE RANQUIL
+
+#### Artículo 213°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Ranquil, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+------------------------------------------------------
+
+Alcalde 16°
+
+Planta de Empleados
+
+Secretario Municipal y de
+
+la Alcaldía 7° 19°
+
+Chofer Municipal e Inspector
+
+de Matadero y Patentes 18° 24°
+
+MUNICIPALIDAD DE RAUCO
+
+#### Artículo 214°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Rauco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado
+
+Municipal Escala Unica
+
+-------------------------------------------------------
+
+Alcalde 16°
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Secretario Municipal de
+
+Alcaldía y Juzgado de
+
+Policía Local 5° 19°
+
+Planta Administrativa
+
+Insp. de Patentes y Tránsito
+
+Público 9° 23°
+
+Servicios Menores
+
+Auxiliar de la Municipalidad 6° 28°
+
+Planta de Obreros
+
+Jardinero 1° 28°
+
+Maestro Albañil 2° 30°
+
+Obrero sin Especialización 4° 32°
+
+El o los cargos de Inspector de Patentes y Tránsito Público grado 23° se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de Obrero sin Especialización grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE RENAICO
+
+#### Artículo 215°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Renaico, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Alcalde 16°
+
+Planta de Empleados
+
+Secretario Municipal
+
+y Alcaldía 7° 19°
+
+Inspector Municipal 14° 24°
+
+Planta Obreros
+
+Obrero 8° 28°
+
+Obrero 9° 30°
+
+Obrero 10° 32°
+
+El o los cargos de Obrero grado 32 se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE RENCA
+
+#### Artículo 216°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Renca, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta Empleados
+
+Alcalde 6a Cat. 6
+
+Secretario Municipal y
+
+de Alcaldía 6a Cat. 8
+
+Juez de Policía Local 6a Cat. 7
+
+Abogado Jefe de la Defensa
+
+Municipal Gr. 2° 10
+
+Director de Obras Municipales
+
+(Arquitec.) 2° 8
+
+Director Depto. Tránsito 2° 10
+
+Director Depto. de Rentas 2° 10
+
+Director Depto. Aseos y Jardines 2° 11
+
+Director Depto. Poblacional 5° 12
+
+Asesor Urbanista (Arquitecto) 5° 10
+
+Médico Gabinete Psicotécnico Ley 15.076
+
+Secretario Juzgado Policía Local 5° 19
+
+Oficial Gabinete Psicotécnico 5° 19
+
+Oficial de Presupuesto y Habilitado 6° 22
+
+Oficial de Partes y Adquisiciones 6° 22
+
+Oficial Jdo. Policía Local 6° 22
+
+Inspector del Tránsito 6° 22
+
+Inspectores de Aseo 6° 22
+
+Inspector de Obras 6° 22
+
+Bodeguero 6° 22
+
+Oficial Jdo. Policía Local 7° 25
+
+Oficiales de Tránsito 7° 25
+
+Inspector de Rentas 7° 24
+
+Oficial de Obras Municipales 7° 25
+
+Oficial de Secretaría 7° 25
+
+Oficial de Obras 7° 25
+
+Oficial Juzgado Policía Local 8° 27
+
+Oficial de Rentas 8° 27
+
+Oficial Depto Poblacional 8° 27
+
+Oficiales de Tránsito 12° 29
+
+Oficial de Rentas 12° 29
+
+Oficiales de Obras 12° 29
+
+Oficial Depto. Poblacional 12° 29
+
+Chofer 6° 25
+
+Choferes 7° 27
+
+Chofer Mecánico 8° 28
+
+Choferes 12° 30
+
+Mecánico 12° 30
+
+Planta Obreros
+
+Mecánico 1° 25
+
+Choferes 1° 25
+
+Choferes 3° 27
+
+Chofer 5° 29
+
+Jardineros 1° 26
+
+Jardineros 2° 28
+
+Jardinero 5° 31
+
+Peonetas 1° 27
+
+Peonetas 2° 29
+
+Peonetas 3° 30
+
+Peonetas 4° 31
+
+Peonetas 5 32
+
+Carpintero 2° 27
+
+Carpintero 4° 29
+
+Rondín 4° 29
+
+Obreros 3° 31
+
+Obreros 5° 32
+
+El o los cargos de Director Depto. Tránsito grado 10, se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Director Depto. Rentas grado 10, se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Director Depto. Poblacional grado 12 se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Oficial Gabinete Psicotécnico grado 19, se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Bodeguero grado 22, se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Oficial de Obras grado 25, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Mecánico grado 25, se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Choferes grado 26, se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Jardinero grado 28, Carpintero grado 27, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Choferes grado 27, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Oficial Depto. Poblacional grado 29, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Chofer grado 29, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Carpintero grado 29, Rondín grado 29, se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Jardinero grado 31, Peonetas grado 32 y Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE RENGO
+
+#### Artículo 217°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Rengo, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 9
+
+Secretario Alcaldía 5° 12
+
+Juez de Policía Local 5° 10
+
+Director de Obras Municipales 7° 12
+
+Abogado Municipal 5° 13
+
+Jefe Control, Contab. y
+
+Habilitado 8° 14
+
+Secretario Juzgado
+
+Policía Local 6° 19
+
+Director Depto. del Tránsito 9° 14
+
+Jefe de Rentas e Inspector
+
+de Patentes 9° 16
+
+Jefe Depto. de Aseo y
+
+Jardines 9° 14
+
+Médico Veterinario Adm.
+
+Matadero 9° 15
+
+Médico Gab. Psicotécnico
+
+Depto. Tránsito Ley 15.076
+
+Planta Administrativa
+
+Inspector Auxiliar de los
+
+Servicios 10° 23
+
+Inspector Auxiliar Dirección
+
+Obras Municipales 10° 23
+
+Auxiliar Depto. Aseo
+
+y Jardines 10° 25
+
+Planta Choferes, Electricistas
+
+Chofer, Mayordomo Edificio 11° 25
+
+Chofer, Mecánico, Talleres
+
+Depto. Aseo 11° 26
+
+Choferes Depto. Aseo 12° 27
+
+Mayordomo Matadero Municipal 12° 28
+
+Obreros
+
+Obreros 3° 25
+
+Obreros 4° 27
+
+Obreros 5° 28
+
+Obreros 6° 30
+
+Obreros 7° 31
+
+Obreros 8° 32
+
+El o los cargos de Abogado Municipal grado 13, se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Chofer, Mayordomo Edificio grado 26, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Chofer, Mecánico Talleres Depto. Aseo grado 26, se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Mayordomo Matadero Municipal grado 28, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Choferes Depto. Aseo grado 27, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obreros grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE REQUINOA
+
+#### Artículo 218°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Requínoa, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 7° 14
+
+Planta de Empleados
+
+Secretario Municipal y
+
+de Alcaldía 7° 17
+
+Juez de Policía Local 7° 15
+
+Director Tránsito e
+
+Inspector Servicios 7° 19
+
+Secretario del Juzgado
+
+de Policía Local 10° 21
+
+Planta Obreros
+
+Obreros 4° 26
+
+Obreros 5° 28
+
+Obreros 6° 32
+
+El o los cargos de Obreros de grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE RETIRO
+
+#### Artículo 219°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Retiro, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 16
+
+Empleados Municipales
+
+Juez de Policía Local 7° 17
+
+Secretario Municipal, Alcaldía
+
+y del Juzgado de Policía Local 7° 19
+
+Inspector Municipal 7° 23
+
+Ayudante Municipal 22° 27
+
+Obreros Municipales
+
+Obrero 4° 30
+
+Obreros 6° 32
+
+El o los cargos de Inspector Municipal grado 23, se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Ayudante Municipal grado 27, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros de grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE RINCONADA
+
+#### Artículo 220°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Rinconada, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 17
+
+Planta Empleados
+
+Secretario Municipal y
+
+Alcaldía 2° 20
+
+Director del Tránsito,
+
+Inspector Municipal 5° 23
+
+Planta Obreros
+
+Obrero 6° 29
+
+Obrero 7° 31
+
+El o los cargos de Obrero de grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE RIO BUENO
+
+#### Artículo 221°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Rio Bueno, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 12
+
+Planta de Empleados
+
+Secretaria Municipal y
+
+de Alcaldía 5° 15
+
+Juez de Policía Local 5° 13
+
+Director Tránsito y Patentes 5° 17
+
+Director Obras Municipales 5° 15
+
+Médico Gabinete Psicotécnico 9° Ley 15.076
+
+Asistente Social y Ayudante de
+
+Secretaría 7° 20
+
+Secretario Juzgado de
+
+Policía Local 7° 20
+
+Inspector Municipal 8° 23
+
+Bibliotecario 8° 23
+
+Auxiliar de Tránsito y
+
+Patentes 8° 25
+
+Portero Ordenanza 10° 27
+
+Planta de Obreros
+
+Obreros 1° 26
+
+Obreros 2° 27
+
+Obreros 3° 29
+
+Obreros 4° 31
+
+Obreros 5° 32
+
+El o los cargos de Bibliotecario grado 23, se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Portero Ordenanza grado 27, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE RIO CLARO
+
+#### Artículo 222°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Río Claro, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Empleados
+
+Alcalde 3° 14
+
+Secretario Municipal 3° 18
+
+Juez de Policía Local 3° 16
+
+Secretario Juzgado de
+
+Policía Local e
+
+Inspector Municipal 8° 23
+
+Planta Obreros
+
+Obreros 1° 27
+
+Obreros 2° 28
+
+Obreros 3° 30
+
+Obreros 4° 32
+
+El cargo de Alcalde grado 14, se convertirá en grado 15 al quedar vacante.
+
+El o los cargos de Obrero grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE RIO NEGRO
+
+#### Artículo 223°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Río Negro, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 6° 14
+
+Juez Policía Local 6° 15
+
+Secretario Municipal 14° 17
+
+Médico Psicotécnico 7° Ley 15.076
+
+Director Tránsito 8° 18
+
+Jefe Rentas 8° 18
+
+Secretario Jdo. Policía
+
+Local 12° 19
+
+Chofer 25
+
+Planta de Obreros
+
+Obrero Calderero 6° 27
+
+Choferes 7° 27
+
+Albañil 6° 28
+
+Carpintero 7° 28
+
+Obreros 6° 30
+
+Obreros 7° 31
+
+El o los cargos de Director del Tránsito grado 18, se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Chofer grado 25, se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Obreros grado 31, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE ROMERAL
+
+#### Artículo 224°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Romeral, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 16
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Juez de Policía Local 5° 17
+
+Secretario Municipal y
+
+de Alcaldía 5° 19
+
+Secretario Juzgado de
+
+Policía Local 8° 22
+
+Director de Obras Municipales 17° 19
+
+Médico Gabinete Psicotécnico Ley 15.076
+
+Planta Administrativa.
+
+Inspector de Patentes y
+
+Tránsito 10° 24
+
+Choferes Mecánicos 12° 25
+
+Planta Servicios Menores
+
+Ordenanza 12° 28
+
+Planta Obreros
+
+Obrero Especializado 4° 26
+
+Obrero sin especialización 8° 31
+
+El o los cargos de Secretario Juzgado Policía Local grado 22, se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Choferes Mecánicos grado 25, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obrero Especializado grado 26, se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Ordenanza grado 28 y Obrero sin Especialización grado 31, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE ROSARIO LO SOLIS
+
+#### Artículo 225°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Rosario Lo Solís, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 17
+
+Planta de Empleados
+
+Secretario Municipal y de
+
+Alcaldía, Inspector de
+
+Patentes, Director del
+
+Tránsito, Secretario del
+
+Jdo. Policía Local 10° 19
+
+Planta Obreros
+
+Chofer-Portero-Jardinero 8° 29
+
+Obrero 10° 32
+
+El o los cargos de Secretario Municipal y de Alcaldía, Inspector de Patentes, Director del Tránsito, Secretario del Juzgado de Policía Local de grado 19°, se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Obreros grado 32°, se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD SAGRADA FAMILIA
+
+#### Artículo 226°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Sagrada Familia, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 16
+
+Planta de Empleados
+
+Secretario Municipal y
+
+de Alcaldía 9° 19
+
+Inspector de Patentes 9° 22
+
+Inspector de Obras 14° 25
+
+Planta de Obreros
+
+Obrero Especializado 7° 28
+
+Obreros Especializados 8° 30
+
+Chofer 9° 27
+
+Obrero Especializado 9° 32
+
+El o los cargos de Inspector de Patentes grado 22°, se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de Inspector de Obras grado 25°, se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Obrero Especializado grado 32°, se convertirán en grado 33° al quedar vacantes.
+
+MUNICIPALIDAD DE SALAMANCA
+
+#### Artículo 227°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Salamanca, de acuerdo con lo dispuesto en el artículo 13° del decreto-Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde Gr. 2° 12
+
+Secretario Municipal
+
+y Alcaldía Gr. 2° 15
+
+Juez de Policía Local Gr. 2° 13
+
+Secretario Juez Policía Local Gr. 8° 19
+
+Director de Tránsito
+
+Inspector Patentes Gr. 11° 17
+
+Director Obras Gr. 13° 15
+
+Administrador Matadero Gr. 13° 23
+
+Inspector Auxiliar Oficial
+
+Secretaría Gr. 15° 24
+
+Médico Psicotécnico Gr. 20° Ley 15.076
+
+Planta Administrativa
+
+Chofer Mecánico Gr. 13° 25
+
+Chofer Gr. 13° 26
+
+Choferes Gr. 14° 27
+
+Planta Obreros
+
+Obreros Gr. 4° 26
+
+Obreros Gr. 5° 28
+
+Obreros Gr. 6° 30
+
+Obreros Gr. 8° 32
+
+El o los cargos de Secretario Juzgado Policía Local grado 19 se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Chofer Mecánico grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Chofer grado 26 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Choferes grado 27 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obreros grado 26 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE SAMO ALTO
+
+#### Artículo 228°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Samo Alto, de acuerdo con lo dispuesto en el artículo 13° del Decreto-Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 16
+
+Planta Administrativa
+
+Secretario Municipal
+
+y Alcaldía Gr. 11° 19
+
+Inspector Municipal Gr. 11° 23
+
+Planta Obreros
+
+Obrero Gr. 5° 29
+
+El o los cargos de Inspector Municipal grado 23 se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Obreros grado 29 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE SAN ANTONIO
+
+#### Artículo 229
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Antonio, de acuerdo con lo dispuesto en el artículo 13° del Decreto-Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 6
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Secretario Abogado Municipal
+
+y Alcaldía 1a Cat. 8
+
+Juez Juzgado Policía Local 1a Cat. 7
+
+Director Obras Municipales 1a Cat. 8
+
+Jefe Depto. Control y
+
+Adquisiciones 1a Cat. 11
+
+Asesor Urbanista, Jefe
+
+Oficina Programación y Des.
+
+Comunal 6a Cat. 10
+
+Director Depto. Tránsito
+
+y Depto. Rentas e Inspección 6a Cat. 12
+
+Jefe Depto. Aseo y Jardines Gr. 1° 11
+
+Administ. Matadero Médico
+
+Veterinario Gr. 2° 13
+
+Planta Administrativa
+
+Secretario Abogado Juzgado
+
+de Policía Local Gr. 6° 9
+
+Oficiales Gr. 6° 19
+
+Oficiales Gr. 7° 21
+
+Oficiales Gr. 8° 23
+
+Oficiales Gr. 10° 27
+
+Ayudante Depto. Control y Adq. Gr. 6° 19
+
+Ayudante Municipal y Alcaldía Gr. 6° 19
+
+Ayudante Adm. Matadero Mun. Gr. 7° 21
+
+Ayudante Depto. Tránsito Gr. 7° 21
+
+Técnico Topógrafo Const. Civil Gr. 8° 19
+
+Médico Munic. Gabinete
+
+Psicotécnico Ley 15.076
+
+Chofer Gr. 6° 25
+
+Choferes Gr. 7° 27
+
+Planta Obreros Especializados
+
+Choferes Gr. 1° 26
+
+Carpintero Gr. 1° 26
+
+Calderero Gr. 1° 26
+
+Albañiles Gr. 1° 26
+
+Gásfiter Gr. 1° 26
+
+Jardineros Gr. 1° 26
+
+Servicios Menores
+
+Oficiales de Sala (Porteros) Gr. 1° 28
+
+Obreros
+
+Obreros Gr. 1° 27
+
+Obreros Gr. 2° 29
+
+Obrero Gr. 8° 32
+
+El o los cargos de Jefe de Depto. Tránsito y Depto. Rentas e Inspección grado 12 se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Oficiales grado 21 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Oficiales grado 23 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Oficiales grado 27 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Ayudante Depto. Control y Adquisic. grado 19 se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Ayudante Municipal y Alcaldía grado 19 se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Ayudante Adm. Matadero Munic. grado 21 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Ayudante Depto. Tránsito grado 21 se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Chofer grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Choferes grado 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Choferes grado 26 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Carpintero grado 26 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Calderero grado 26 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Albañil grado 26 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Gásfiter grado 26 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Jardineros de grado 26 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Oficiales de Sala
+
+(Porteros) grado 28 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Obrero de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE SAN BERNARDO
+
+#### Artículo 230°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Bernardo, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Dirección Profesional
+
+y Técnica
+
+Alcalde 1a Cat. 5
+
+Abogado de la Defensa 1a Cat. 8
+
+Director de Obras 1a Cat. 7
+
+Juez de Policía Local 1a Cat. 6
+
+Secretario de la Alcaldía 4a Cat. 10
+
+Director Control y Contab. 4a Cat. 9
+
+Director Aseo y Jardines 4a Cat. 9
+
+Secretario Municipal 3a Cat. 7
+
+Director Bienes e Inv. 4a Cat. 11
+
+Director Adquisiciones 4a Cat. 11
+
+Direc. de Subsistencias y
+
+Patentes 4a Cat. 9
+
+Director de Tránsito 4a Cat. 9
+
+Director del Personal y Serv. 4a Cat. 11
+
+Médico Veterinario,
+
+Administrador Matadero 1a Cat. 10
+
+Subdirector de Obras 1a Cat. 10
+
+Inspector Técnico Obras 2a Cat. 12
+
+Secretario Abogado Juzgado 1a Cat. 10
+
+Sub-Director Aseo y Jardines Gr. 2° 13
+
+Sub-Director Matadero Gr. 2° 16
+
+Sub-Director de Patentes Gr. 2° 13
+
+Jefe Oficina Comunitaria Gr. 4° 16
+
+Relacionador Público Gr. 6° 18
+
+Planta Administrativa
+
+Oficial 1° Obras Municipales Gr. 3° 19
+
+Oficial 1° Juz. Policía Local Gr. 3° 19
+
+Secretario Obras Municipales Gr. 3° 19
+
+Oficial 1° Secretaría Alcal. Gr. 4° 20
+
+Oficial 1° Control y Cont. Gr. 5° 21
+
+Oficial 1° Patentes Gr. 5° 21
+
+Oficial 1° Bienes e Inv. Gr. 5° 21
+
+Oficial 5° de Tránsito Gr. 6° 23
+
+Oficial 1° de Tránsito Gr. 6° 23
+
+Operador 1° Máquinas Gr. 6° 23
+
+Oficial 3° Tránsito Gr. 6° 23
+
+Oficial Actuario Juzgado Gr. 6° 23
+
+Oficial 2° Tránsito Gr. 6° 23
+
+Oficial de Partes Gr. 6° 23
+
+Oficial 3° Secret. Alcal. Gr. 6° 23
+
+Operador 2° Máquinas Gr. 6° 23
+
+Oficial 3° Patentes Gr. 6° 23
+
+Oficial 2° Patentes Gr. 6° 23
+
+Oficial 2° Obras Munic. Gr. 6° 23
+
+Oficial Receptor Juzgado Gr. 6° 23
+
+Oficial 4° Tránsito Gr. 6° 23
+
+Oficial Estadística Juzgado Gr. 6° 23
+
+Oficial 4° Patentes Gr. 6° 23
+
+Oficial 1° Ofic. Des. Com. Gr. 6° 23
+
+Oficial 2° Secretaría Alcaldía Gr. 6° 23
+
+Oficial 5° Patentes Gr. 6° 23
+
+Oficial 3° Obras Gr. 7° 25
+
+Secretaria Defensa Municipal Gr. 7° 25
+
+Oficial 2° Of. Des. Comunal Gr. 7° 25
+
+Oficial Aseo y Jardines Gr. 8° 27
+
+Oficial Direc. Adquisiciones Gr. 8° 27
+
+Oficial Direc. Pers. y Serv. Gr. 9° 29
+
+Oficial 2° Control y Cont. Gr. 9° 29
+
+Choferes
+
+Choferes Gr. 1° 25
+
+Choferes Gr. 2° 26
+
+Choferes Gr. 3° 27
+
+Tractoristas
+
+Tractorista Gr. 2° 25
+
+Tractorista Gr. 3° 26
+
+Tractorista Gr. 4° 27
+
+Especializados
+
+Mecánicos Gr. 1° 25
+
+Carpinteros Gr. 1° 25
+
+Electricistas Gr. 1° 25
+
+Gásfiter Gr. 2° 26
+
+Albañil Gr. 2° 26
+
+Soldador Gr. 3° 27
+
+Gásfiter Gr. 3° 27
+
+Electricista Aut. Gr. 3° 27
+
+Calderero Gr. 3° 27
+
+Desabollador Gr. 3° 27
+
+Pintor Gr. 4° 28
+
+Albañil Gr. 4° 28
+
+Maquinista Gr. 5° 29
+
+Carpintero Gr. 6° 31
+
+Pintor Autos Gr. 6° 31
+
+Pañolero Gr. 6° 31
+
+Jardineros
+
+Jardineros Gr. 1° 25
+
+Jardineros Gr. 2° 26
+
+Jardineros Gr. 3° 27
+
+Jardineros Gr. 4° 29
+
+Jardineros Gr. 5° 30
+
+Jardineros Gr. 6° 31
+
+Servicios Menores Auxiliares.
+
+Auxiliares Gr. 1° 25
+
+Auxiliar Gr. 2° 27
+
+Auxiliares Gr. 3° 28
+
+Auxiliar Gr. 4° 29
+
+Auxiliares Gr. 5° 30
+
+Auxiliares Gr. 6° 31
+
+Auxiliares Gr. 7° 32
+
+Ordenanzas
+
+Ordenanzas Gr. 1° 25
+
+Ordenanzas Gr. 2° 27
+
+Ordenanzas Gr. 4° 29
+
+Ordenanzas Gr. 5° 30
+
+Ordenanzas Gr. 6° 31
+
+Ordenanza Gr. 7° 32
+
+Mayordomos
+
+Mayordomos Gr. 1° 25
+
+Mayordomos Gr. 3° 27
+
+Obreros Peonetas
+
+Peonetas Gr. 1° 25
+
+Peonetas Gr. 2° 27
+
+Peonetas Gr. 3° 28
+
+Peonetas Gr. 4° 29
+
+Peonetas Gr. 5° 30
+
+Peonetas Gr. 6° 31
+
+Peonetas Gr. 7° 32
+
+El o los cargos de Abogado de la Defensa grado 8 se convertirán en grado 9 al quedar vacantes.
+
+El o los cargos de Director de Obras grado 7 se convertirán en grado 9 al quedar vacantes.
+
+El o los cargos de Secretario de la Alcaldía grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Director de Bienes e Inv. grado 11 se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Director del Personal y Ser. grado 11 se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Administrador Matadero Médico Veterinario grado 10 se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Sub-Director de Obras grado 10 se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Inspector Técnico Obras grado 12 se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Oficial 2° Control y Cont. grado 29 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Choferes grado 26 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Choferes grado 27 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Tractorista grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Tractoristas grado 26 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Tractorista grado 27 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Carpinteros grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Electricistas de grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Soldador de grado 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Gásfiter de grado 27 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Electricista Aut. grado 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Calderero de grado 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Pintor de grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Albañil de grado 28 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Maquinista de grado 29 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Carpintero de grado 31 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Jardineros de grado 31 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Auxiliares de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Ordenanza de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Mayordomos de grado 27 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Peonetas de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE SAN CARLOS
+
+#### Artículo 231°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Carlos, de acuerdo con lo dispuesto en el artículo 13° del decreto-ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 9
+
+Juez de Policía Local 1° 10
+
+Secretario Alcaldía 3° 13
+
+Secretario Municipal 4° 12
+
+Director Tránsito 4° 14
+
+Jefe Rentas y Patentes 4° 14
+
+Abogado de la Defensa Municipal 4° 14
+
+Director Obras Municipales
+
+y Asesor Urbanista 6° 12
+
+Médico Psicotécnico Ley 15.076
+
+Planta Administrativa
+
+Secret. Jdo. Policía Local 4° 19
+
+Inspector Recaudador Municipal 6° 21
+
+Adm. Ferias Libres e
+
+Inspector M. 6° 21
+
+Inspector Obras Municipales 6° 21
+
+Inspector Tránsito 6° 21
+
+Inspector Patentes 8° 23
+
+Oficial 1° Jdo. Policía Local 11° 25
+
+Inspector Municipal 14° 27
+
+Instructor Orfeón Municipal 16° 29
+
+Planta Choferes
+
+Choferes 2° 25
+
+Choferes 3° 26
+
+Choferes 6° 27
+
+Choferes 7° 29
+
+Chofer 8° 30
+
+Planta Obreros
+
+Obreros 1° 25
+
+Obreros 2° 26
+
+Obreros 3° 27
+
+Obreros 4° 28
+
+Obreros 5° 29
+
+Obreros 6° 30
+
+Obreros 7° 31
+
+Obreros 8° 32
+
+Obreros 9° 32
+
+El o los cargos de Secretario Alcaldía de grado 13 se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Chofer de grado 30 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Obreros grado 9°, grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE SAN CLEMENTE
+
+#### Artículo 232°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Clemente, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado
+
+Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 1° 14
+
+Secretario Municipal 1° 17
+
+Juez Policía Local 1° 15
+
+Director Tránsito 1° 18
+
+Secretario Alcaldía y
+
+Jefe de Rentas 4° 17
+
+Director de Obras 4° 17
+
+Veterinario Municipal 6° 17
+
+Médico Psicotécnico Ley 15.076
+
+Abogado Municipal 12° 17
+
+Planta Administrativa
+
+Secretario Juzgado de
+
+Policía Local 5° 20
+
+Inspector de Obras 5° 23
+
+Bodeguero y Secretario
+
+del Abogado 6° 25
+
+Jefe vehículos y Ayudante
+
+Secretaría 6° 25
+
+Bibliotecaria y Ayudante
+
+Tránsito y Patentes 7° 29
+
+Choferes
+
+Chofer Municipal 6° 26
+
+Chofer Municipal 8° 29
+
+Planta Obreros
+
+Jardinero y Gásfiter 1° 26
+
+Carpintero y Albañil 1° 26
+
+Chofer Mecánico 2° 27
+
+Chofer 3° 29
+
+Obreros 1° 26
+
+Obreros 2° 29
+
+Obrero 3° 31
+
+Obreros 4° 32
+
+El o los cargos de Director Tránsito de grado 18 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Obreros de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE SAN ESTEBAN
+
+#### Artículo 233°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Esteban, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 1° 14
+
+Secretario Municipal
+
+y Alcaldía 1° 17
+
+Director del Tránsito e
+
+Inspector de Patentes 5° 19
+
+Secretario Juzgado
+
+Policía Local e Inspector
+
+de Obras 6° 21
+
+Médico Cirujano a cargo
+
+Gabinete Psicotécnico Ley 15.076
+
+Planta de Obreros
+
+Obrero Especializado
+
+(Tractorista) 1° 26
+
+Obrero Especializado
+
+(Tractorista) 7° 31
+
+Obrero 4° 28
+
+Obreros 6° 30
+
+Obreros 7° 32
+
+El o los cargos de Obreros de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE SAN FABIAN
+
+#### Artículo 234°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Fabián, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 16
+
+Planta Empleados
+
+Secretario Municipal,
+
+Secretario Juzgado Policía
+
+Local 12° 19
+
+Planta Obreros
+
+Obrero 10° 31
+
+El o los cargos de Obrero de grado 31 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE SAN FELIPE
+
+#### Artículo 235°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Felipe, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva
+
+Alcalde 1° 8
+
+Secretario Alcaldía y Contralor 1° 12
+
+Juez Policía Local 1° 9
+
+Director Tránsito 1° 13
+
+Director Depto. Rentas 1° 13
+
+Secretario Municipal y Abogado
+
+Defensa Municipal 1° 11
+
+Director de Obras 2° 11
+
+Veterinario Administrador
+
+Matadero 2° 12
+
+Médico Psicotécnico 9° Ley 15.076
+
+Planta Administrativa
+
+Secretario Juzgado
+
+Policía Local 5° 19
+
+Oficial Encargado
+
+Oficina Auxiliar 7° 21
+
+Oficial Partes Secret.
+
+Privada Alcalde 9° 23
+
+Oficial 1° Juz. Policía
+
+Local, Receptor Judicial 7° 21
+
+Oficial Encargado Talleres 8° 23
+
+Oficial Aydte. Matadero 10° 25
+
+Oficial 10° 25
+
+Oficial Archivero 10° 25
+
+Oficial 2° Juz. Policía Local 9° 23
+
+Oficial Oficina Secretaría 12° 27
+
+Oficial Oficina Comunitaria 10° 25
+
+Oficiales 12° 27
+
+Oficial Encargado S/G 29
+
+Planta Obreros
+
+Mayordomo 2° 25
+
+Mayordomo 4° 28
+
+Jardineros 4° 28
+
+Choferes 4° 27
+
+Mecánicos 4° 27
+
+Carpinteros 4° 28
+
+Servicios Varios 4° 28
+
+Auxiliar 4° 28
+
+Barredor 4° 28
+
+Tomeros 5° 30
+
+Jardineros 5° 30
+
+Jornalero 4° 29
+
+Jornaleros 5° 31
+
+Gásfiter 5° 30
+
+Chofer Auxiliar 5° 30
+
+Auxiliares 5° 31
+
+Jornaleros 6° 32
+
+Mayordomo servicios varios 6° 32
+
+Electricista 6° 32
+
+El o los cargos de Jardineros de grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Gásfiter de grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Chofer Auxiliar de grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Jornaleros de grado 31 se convertirán en grado 32 al quedar vacantes.
+
+El o los cargos de Auxiliares de grado 31 se convertirán en grado 32 al quedar vacantes.
+
+El o los cargos de Jornaleros de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Mayordomo Servicios Varios grado 32 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Secretario Alcaldía y Contralor de grado 12 se convertirán en grado 14 al quedar vacantes.
+
+MUNICIPALIDAD DE SAN FERNANDO
+
+#### Artículo 236°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Fernando, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 6° 5
+
+Juez de Policía Local 6° 7
+
+Secret. Municipal y de
+
+la Alcaldía 6° 8
+
+Contralor y Jefe de
+
+Adquisiciones 7° 10
+
+Director del Tránsito 8° 11
+
+Director de Obras Municipales 8° 8
+
+Veterinario y Adm. Matadero 9° 12
+
+Abogado de la Defensa
+
+Municipal 12° 10
+
+Inspector de Aseo, Plazas
+
+y Jardines Administrador
+
+Estadio 6° 19
+
+Médico Psicotécnico Ley 15.076
+
+Planta Administrativa
+
+Administrador Mercado 8° 19
+
+Mayordomo Aseo, Plazas
+
+y Jardines 8° 25
+
+Inspector Patentes y
+
+Derechos Municipales 9° 21
+
+Secretario Juzgado Policía
+
+Local 9° 20
+
+Mayordomo Matadero 9° 25
+
+Ayudante Dirección de Obras 10° 25
+
+Ayudante Secret. y Archivero 10° 25
+
+Oficial 1° 11° 27
+
+Adm. Cementerio y B. Públicos 11° 27
+
+Oficial 2do. 11° 27
+
+Planta Servicios Menores
+
+Ordenanza Alcaldía 10° 25
+
+Planta Obreros Especializados
+
+Electricista 3° 25
+
+Jardinero 3° 25
+
+Choferes 4° 28
+
+Albañil 4° 29
+
+Tractorista 4° 29
+
+Obreros sin Calificación
+
+Obreros 3° 26
+
+Obreros 4° 28
+
+Obreros 5° 29
+
+Obreros 6° 30
+
+Obreros 7° 31
+
+Obreros 8° 32
+
+El o los cargos de Alcalde de grado 5° se convertirán en grado 6° al quedar vacantes.
+
+El o los cargos de Veterinario y Adm.
+
+Matadero de grado 12 se convertirán en grado 13 al quedar vacantes.
+
+El o los cargos de Mayordomo Matadero grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Oficial 2° grado 27 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Ordenanza Alcaldía grado 25 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Electricista de grado 25 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Jardineros de grado 25 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Choferes de grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Albañil de grado 29 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Tractorista de grado 29 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Obreros de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE SAN IGNACIO
+
+#### Artículo 237°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Ignacio, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Empleados
+
+Alcalde 5° 16
+
+Juez de Policía Local-Abogado 5° 17
+
+Director del Tránsito,
+
+Patentes y Secretario Jdo.
+
+Policía Local 5° 19
+
+Secretario Municipal,
+
+Alcaldía y Obras 5° 19
+
+Chofer Municipal 22° 27
+
+Planta Obreros
+
+Obrero 3° 30
+
+Obrero 4° 32
+
+El o los cargos de Director del Tránsito, Patentes y Secretario Jdo. Policía Local de grado 19 se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Chofer Municipal de grado 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Obrero de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Chofer 6° 29
+
+Albañil 6° 28
+
+Ayudante Jardinero 6° 30
+
+Barredores 6° 31
+
+Mayordomo Edificios 7° 28
+
+Mayordomo Estadio 7° 28
+
+Ayudantes 7° 30
+
+Ayudante Pintor 7° 30
+
+Ayudante Carpintero 7° 30
+
+Ayudante Albañil 7° 30
+
+Jardinero 7° 30
+
+Ayudante Jardinero 7° 31
+
+Cargadores 7° 31
+
+Barredores 7° 32
+
+El o los cargos de Mayordomo Mercado grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Mayordomo Baños de grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Albañil de grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Mayordomo Edificio grado 28 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Mayordomo Estadio grado 28 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Ayudante grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Ayudante Pintor grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Ayudante Carpintero grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Ayudante Albañil de grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Jardinero grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Cargadores grado 31 se convertirán en grado 32 al quedar vacantes.
+
+El o los cargos de Barredores de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE SAN JAVIER
+
+#### Artículo 238
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Javier, de acuerdo con lo dispuesto en el Art. 13° del decreto ley N° 249, de 1975, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 6a Cat. 11
+
+Director de Obras 6a Cat. 13
+
+Juez de Policía Local 1° 12
+
+Secret. Municipal y Alcaldía 2° 13
+
+Secret. Jdo. Pol. Local 2° 19
+
+Director Tránsito y
+
+Jefe Patentes 6° 15
+
+Oficial de Partes,
+
+Archivo y Jefe Inventario 7° 21
+
+Inspector Patentes y
+
+Oficial Adm. 8° 23
+
+Inspector Asea.
+
+Matadero y Of. Adm 9° 25
+
+Oficial 1. Jdo. Policía
+
+Local 9° 25
+
+Médico Psicotécnico 10° Ley 15.076
+
+Planta Servicios Menores
+
+Mayordomo General 4° 25
+
+Ayudantes 4° 28
+
+Chofer 4° 27
+
+Pintor 4° 28
+
+Mayordomo Matadero 5° 27
+
+Choferes 5° 28
+
+Jardinero 5° 28
+
+Mayordomo Mercado 6° 28
+
+Mayordomo Baños 6° 28
+
+Chofer 6° 29
+
+Albañil 6° 28
+
+Ayudante Jardineros 6° 30
+
+Barredores 6° 31
+
+Mayordomo Edificios 7° 28
+
+Mayordomo Estadio 7° 28
+
+Ayudantes 7° 30
+
+Ayudante Pintor 7° 30
+
+Ayudante Carpintero 7° 30
+
+Ayudante Albañil 7° 30
+
+Jardinero 7° 30
+
+Ayudante Jardinero 7° 31
+
+Cargadores 7° 31
+
+Barredores 7° 32
+
+El o los cargos de Mayordomo Mercado grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Mayordomo Baños de grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Albañil de grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Mayordomo Edificios grado 28 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Mayordomo Estadio grado 28 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Ayudante grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Ayudante Pintor grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Ayudante Carpintero grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Ayudante Albañil de grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Jardinero grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Cargadores grado 31 se convertirán en grado 32 al quedar vacantes.
+
+El o los cargos de Barredores de grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE SAN JOSE DE MAIPO
+
+#### Artículo 239°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San José de Maipo, de acuerdo con lo dispuesto en el artículo 13° del Decreto-Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 4° 9
+
+Secretario Municipal 4° 12
+
+Juez de Policía Local 4° 12
+
+Director de Patentes, Subs y
+
+Adquisiciones 5° 13
+
+Secretario de Alcaldía 6° 13
+
+Director del Tránsito 6° 13
+
+Jefe de Contabilidad y Control 8° 14
+
+Secretario Abogado Juzgado
+
+de Policía Local 9° 14
+
+Director de Obras Municipales 10° 12
+
+Médico Veterinario
+
+Administrador Matadero 11° 14
+
+Planta Administrativa
+
+Oficial Administrativo 9° 19
+
+Oficial 1° Juzgado
+
+Policía Local 10° 21
+
+Oficial de Partes y Archivos 10° 21
+
+Auxiliares de Inspección 10° 23
+
+Mayordomo 10° 25
+
+Inspector de Servicios y Aseo 11° 25
+
+Médico Psicotécnico 13° Ley 15.076
+
+Planta de Obreros
+
+Obreros 3° 25
+
+Obreros 4° 26
+
+Obreros 5° 28
+
+Obreros 6° 30
+
+Obreros 7° 32
+
+El cargo de Alcalde de grado 9 se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Secretario Municipal de grado 12 se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Director de Patentes Subs. y Adquisiciones grado 13 se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Secretario de Alcaldía de grado 13 se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Director del Tránsito de grado 13 se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Jefe de Contabilidad y Control grado 14 se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Director de Obras Municipales de grado 12 se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Médico Veterinario Administrador grado 14 se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Oficial 1° Juzgado Policía Local grado 21 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Oficial de Partes y Archivos grado 21 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Auxiliares de Inspección de grado 23 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Obreros de grado 26 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros de grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obreros grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE SAN NICOLAS.
+
+#### Artículo 240°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Nicolás, de acuerdo con lo dispuesto en el artículo 13° del Decreto-Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 16
+
+Planta de Empleados.
+
+Secretario Municipal y de
+
+la Alcaldía 5° 19
+
+Juez de Policía Local y
+
+Abogado Municipal 5° 17
+
+Médico Jefe del Gabinete
+
+Psicotécnico 5a. Cat. Ley 15.076
+
+Directora del Tránsito,
+
+Inspectora de Patentes y
+
+de Obras Municipales 7° 20
+
+Secretario Juzgado Policía
+
+Local 7° 23
+
+Oficial 1° Juzgado Policía
+
+Local 7° 24
+
+Director Obras Municipales 7° 19
+
+Mayordomo, Ordenanza, Portero,
+
+Jardinero y Operador Máquina
+
+motoniveladora 10° 25
+
+Planta de Obreros.
+
+Obrero 2° 30
+
+El o los cargos de Oficial 1° Juzgado Policía Local grado 24 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Mayordomo, Ordenanza, Portero, Jardinero y Operador Máquina motoniveladora grado 25 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Obrero de grado 30, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE SAN PABLO.
+
+#### Artículo 241°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Pablo, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde. 16
+
+Planta de Empleados.
+
+Secretario Municipal y de
+
+la Alcaldía
+
+Jefe del Personal 4° 19
+
+Juez de Policía Local 14° 17
+
+Director de Obras Municipales
+
+y Bibliotecario. 13° 19
+
+Planta de Obreros.
+
+Obreros 6° 30
+
+Obreros 8° 32
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE SAN PEDRO.
+
+#### Artículo 242°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Pedro, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta Empleados.
+
+Alcalde 17
+
+Secretario Ejecutivo de la
+
+Alcaldía, Secretario Municipal
+
+y del Juzgado de Policía Local,
+
+Jefe de Rentas y de Patentes 6° 19
+
+Director de Obras (Cons. Civil) 3° 19
+
+Planta de Obreros.
+
+Obreros sin especialización 1° 29
+
+El o los cargos de Secretario Ejecutivo de la Alcaldía, Secretario Municipal y del Juzgado de Policía Local, Jefe de Rentas y de Patentes grado 19° se convertirán en grado 20° al quedar vacantes.
+
+SUPRIMIDO
+
+El o los cargos de Obreros sin especialización grado 29° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE SAN ROSENDO.
+
+#### Artículo 243°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Rosendo de acuerdo con lo dispuesto en el artículo 13° del Decreto Ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+------------------------------------------------------
+
+Alcalde 14
+
+Secretario Municipal
+
+y Alcaldía. 13° 17
+
+Planta Administrativa.
+
+Inspector Adm. Mercado,
+
+Matadero 15° 23
+
+Inspector de Aseo 20° 25
+
+Auxiliar Alcaldía 20° 27
+
+Planta de Obreros.
+
+Obreros. 10° 31
+
+El o los cargos de Auxiliar Alcaldía grado 27° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Obreros grado de 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE SAN VICENTE DE TAGUA-TAGUA
+
+#### Artículo 244°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de San Vicente de Tagua-Tagua, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 4° 12
+
+Secretario Municipal de
+
+Alcaldía y Habilitado 4° 15
+
+Juez de Policía Local 4° 13
+
+Director de Obras Municipales
+
+y Adm. Estadio M. M. 5° 15
+
+Administrador del Matadero
+
+Municipal y Médico Veterinario 5° 16
+
+Abogado Municipal 5° 16
+
+Director del Tránsito e
+
+Inspector Patentes 11° 16
+
+Médico del Depto. Tránsito 12° Ley 15.076
+
+Visitadora Social 13° 19
+
+Planta Administrativa
+
+Secretario Juzgado Policía
+
+Local 10° 19
+
+Inspector de Servicios 11° 21
+
+Ayudante del Depto. Tránsito 12° 23
+
+Inspector Aseo, Parques,
+
+Jardines
+
+Administrador Piscina
+
+Municipal 13° 24
+
+Ayudante de Secretaría
+
+y Control 14° 27
+
+Choferes 14° 27
+
+Administrador del Mercado
+
+Municipal 17° 25
+
+Planta de Obreros
+
+Mayordomo Matadero 6° 26
+
+Tractoristas 7° 28
+
+Jardineros 7° 29
+
+Carpintero 7° 28
+
+Jornaleros 7° 29
+
+Jornaleros 8° 30
+
+Jornaleros 9° 32
+
+Jornaleros 10° 32
+
+El o los cargos de Secretario Juzgado Policía Local grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Choferes grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Jornaleros Grado 10°, asimilados al grado 32°, se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE SANTA BARBARA
+
+#### Artículo 245°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Santa Bárbara, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 16
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Secretario Municipal y
+
+Alcaldía, Director Tránsito
+
+e Inspector de Obras 5° 17
+
+Médico Jefe Gabinete
+
+Psicotécnico Ley 15.076
+
+Planta Administrativa
+
+Auxiliar de Secretaría,
+
+Inspector de Patentes y
+
+Administrador del Matadero 17° 23
+
+Planta de Obreros
+
+Choferes 2° 26
+
+Obrero 4° 27
+
+Obrero 5° 28
+
+Obreros 6° 30
+
+Obreros 7° 31
+
+Obrero 8° 32
+
+El o los cargos de Secretario Municipal y Alcaldía, Director Tránsito e Inspector de Obras grado 17° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Auxiliar de Secretaría, Inspector de Patentes y Administrador del Matadero grado 23° se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Obrero grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE SANTA CRUZ
+
+#### Artículo 246°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Santa Cruz, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 11
+
+Secretario Municipal
+
+y Alcaldía 3° 14
+
+Juez de Policía Local 3° 12
+
+Director del Tránsito
+
+y Patentes 8° 16
+
+Secretario Juzgado de
+
+Policía Local 9° 16
+
+Oficial Secretaría e
+
+Inventarios 11° 23
+
+Inspector Patentes
+
+Municipales y Tránsito 11° 20
+
+Director de Obras 13° 14
+
+Médico Veterinario 13° 15
+
+Inspector Aseo y Jardines 13° 23
+
+Médico Psicotécnico 15° Ley 15.076
+
+Auxiliar del Juzgado de
+
+Policía Local 16° 25
+
+Planta de Obreros
+
+Obrero 3° 26
+
+Obreros 4° 27
+
+Obreros 5° 28
+
+Obreros 6° 29
+
+Obreros 7° 31
+
+Obreros 10° 32
+
+El o los cargos de Secretario Juzgado de Policía Local grado 16° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Auxiliar del Juzgado de Policía Local grado 25° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán se grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE SANTA JUANA
+
+#### Artículo 247°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Santa Juana, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 13° 16
+
+Secretario de la Alcaldía 13° 19
+
+Inspector Municipal 20° 24
+
+Planta de Obreros
+
+Obreros 10° 30
+
+El o los cargos de Obreros grado 30° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE SANTA MARIA
+
+#### Artículo 248°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Santa María, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 1° 15
+
+Secretario Municipal, Alcaldía,
+
+Insp. Matadero y Habilitado
+
+EE. MM. 1° 18
+
+Director del Tránsito,
+
+Secretario Juzgado Policía
+
+Local y Ad. Piscina Municipal 1° 18
+
+Director Depto. Aseo, Inspector
+
+Patentes, Comerciales y Obras
+
+Municipales y Habilitado
+
+personal OO.MM. 1° 19
+
+Médico Gabinete Psicotécnico 1° Ley 15.076
+
+Planta de Obreros
+
+Obrero 5° 28
+
+Obreros 6° 30
+
+Obreros 7° 32
+
+El o los cargos de Director de Tránsito, Secretario Juzgado de Policía Local y Ad. Piscina Municipal grado 18° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE SANTO DOMINGO
+
+#### Artículo 249°
+
+Fíjase, a contar del 1° de Enero de 1974 para los trabajadores de la Municipalidad de Santo Domingo, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 3° 14
+
+Secretario Municipal 3° 17
+
+Director Tránsito y Jardines 3° 18
+
+Director de Obras Municipales 3° 17
+
+Abogado Municipal 3° 17
+
+Jefe Personal de Obreros 3° 21
+
+Juez de Policía Local 3° 15
+
+Secretario Juzgado
+
+Policía Local 11° 21
+
+Oficiales 11° 27
+
+Choferes
+
+Choferes 11° 27
+
+Suplentes
+
+Médico Ley 15.076
+
+Servicios Menores
+
+Ordenanza 11° 30
+
+Obreros
+
+Carpintero 1° 28
+
+Albañiles 1° 28
+
+Jardineros 1° 28
+
+Obreros 1° 28
+
+Obreros 2° 32
+
+El o los cargos de Director Tránsito y Jardinero grado 18° se convertirán en grado
+
+19° al quedar vacantes.
+
+El o los cargos de Oficiales grado 27° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Choferes grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Ordenanza grado 30° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Carpintero grado 28°, Albañiles grado 28°, Jardineros grado 28° y Obreros grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE TALAGANTE
+
+#### Artículo 250°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Talagante, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 6a Cat. 6
+
+Secretario Municipal 6a Cat. 11
+
+Secretario de Alcaldía 6a Cat. 12
+
+Jefe Control y Rentas 6a Cat. 12
+
+Directora Secret. Jdo.
+
+Policía Local 6a Cat. 12
+
+Director del Tránsito 6a Cat. 12
+
+Jefe de Patentes 1° 16
+
+Jefe de Talleres Mantención 1° 22
+
+Jefe Aseo y Jardines 1° 17
+
+Secretario del Alcalde 1° 22
+
+Secretario del Director
+
+de Obras 4° 23
+
+Secretario Adm. Matadero
+
+y Patentes 7° 28
+
+Secretario Control y Rentas 6° 25
+
+Secretario Director
+
+del Tránsito 7° 29
+
+Choferes 9° 27
+
+Planta Profesionales
+
+Juez de Policía Local 6a Cat. 8
+
+Abogado Municipal 4° 12
+
+Director de Obras Municipales 4° 11
+
+Médico Veterinario Adm.
+
+Matadero Municipal 4° 12
+
+Médico Municipal y Psicotécnico 5° Ley 15.076
+
+Planta Obreros
+
+Obreros Especializados 1° 25
+
+Obreros Tractoristas y
+
+Jardineros 1° 26
+
+Obreros 1° 26
+
+Obreros 2° 28
+
+Obreros 6° 32
+
+El o los cargos de Alcalde grado 6° se convertirán en grado 8° al quedar vacantes.
+
+El o los cargos de Secretario de Alcaldía grado 12° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Jefe Control y Rentas grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Directora Secretaría Juzgado grado 12° se convertirán en grado
+
+19° al quedar vacantes.
+
+El o los cargos de Director del Tránsito grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Secretario del Alcalde grado 22° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Secretario del Director de Obras grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Secretario Control grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Secretario Director del Tránsito grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Choferes grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Juez de Policía Local grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Abogado Municipal grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Médico Veterinario grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Obreros Especializados grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Obreros Tractoristas grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros grado 26° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Obreros grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE TALCA
+
+#### Artículo 251°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Talca, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Personal Directivo
+
+Alcalde 1a Cat. 5
+
+Secretario Municipal de
+
+la Alcaldía y Jefe de
+
+Personal 1a Cat. 8
+
+Juez de Policía Local 1a Cat. 7
+
+Director de Obras Municipales 1a Cat. 8
+
+Abogado Municipal 1a Cat. 10
+
+Asesor Urbanista 1a Cat. 10
+
+Contralor Municipal 1a Cat. 8
+
+Jefe de Rentas 3° 11
+
+Director Departamento
+
+de Tránsito 3° 11
+
+Director de Subsistencias 1a Cat. 11
+
+Planta Profesional y Técnica
+
+con Título Universitario
+
+Asistente Social 6a Cat. 16
+
+Dibujante Técnico 6° 19
+
+Secretario Abogado Juzgado
+
+de Policía Local 6a Cat. 9
+
+Topógrafo Municipal Gr. 5° 17
+
+Sin Título Universitario
+
+Ayudante Dirección
+
+Obras Municipales 6a Cat. 19
+
+Electricista Municipal Gr. 9° 25
+
+Practicante Municipal Gr. 10° 23
+
+Mecánico Municipal Gr. 10° 25
+
+Contador Municipal 6a Cat. 18
+
+Planta Administrativa
+
+Jefe Sección Aseo Municipal 4° 18
+
+Jefe Sección Parques y Jardines 4° 18
+
+Bibliotecaria 1a Municipal 5° 18
+
+Jefe Taller Mantención M. 10° 23
+
+Ayudante 1° Contraloría
+
+Municipal 7° 19
+
+Oficial de Partes 1° 7° 19
+
+Secretario Dirección
+
+Obras Municipales 6° 19
+
+Ayudante Secretaría Municipal 7° 21
+
+Inspector Municipal Jefe 7° 19
+
+Oficial 1° Jdo. de
+
+Policía Local 7° 21
+
+Oficial de Partes 2° 8° 22
+
+Bibliotecaria 2° Municipal 8° 22
+
+Oficial 2° Jdo. de
+
+Policía Local 8° 22
+
+Inspector Municipal 8° 22
+
+Inspector Municipal y
+
+Secretario Gabinete
+
+Psicotécnico 8° 22
+
+Ayudante 2° Contraloría
+
+Municipal 8° 22
+
+Oficial 3° Jdo. de
+
+Policía Local 9° 24
+
+Auxiliar Actas Municipales 9° 24
+
+Secretario Defensa
+
+Municipal Comisiones 10° 26
+
+Archivero Municipal 11° 28
+
+Estadístico y Guardalmacén 11° 28
+
+Ayudante Bibliotecaria
+
+Municipal 11° 28
+
+Ayudante 3a Contraloría
+
+Municip. 11° 28
+
+Recaudad. 1° de Mercados
+
+y Vegas 11° 27
+
+Recaudad. 2° de Mercados
+
+y Vegas 11° 28
+
+Recaudad. 3° de Mercados
+
+y Vegas 11° 28
+
+Recaudad. 4° de Mercados
+
+y Vegas 11° 28
+
+Recaudad. 5° de Mercados
+
+y Vegas 11° 28
+
+Planta Administrativa Obrera
+
+Chofer de la Alcaldía
+
+Municipal 9 25
+
+Chofer Sección de Aseo 11° 29
+
+Portero Ordenanza Juzgado
+
+de Policía Local 11° 29
+
+Portero 3° de la Alcaldía 11° 29
+
+Portero 4° de la Alcaldía 11° 29
+
+Mayordomo Servicio de Aseo 11° 29
+
+Telefonista Casa Municipal 11° 28
+
+Planta de Obreros Especializados
+
+Choferes 1 25
+
+Mayordomo Jardines y Chofer 1° 25
+
+Pintor 1° 25
+
+Chofer Tractorista 1° 25
+
+Mayordomo Aseo 1° 25
+
+Forjador 1° 25
+
+Maestro Albañil 2° 28
+
+Albañil 2° 28
+
+Gásfiter 2° 28
+
+Mayordomo de Aseo 2° 28
+
+Pintor 2° 28
+
+Mayordomo de Mercados y Vegas 2° 28
+
+Chofer 2° 28
+
+Carpintero 2° 28
+
+Ayudante Mecánico 2° 28
+
+Ayudante Mecánico 3° 31
+
+Tractorista 3° 31
+
+Carpintero 3° 31
+
+Auxiliar Mecánico 3° 31
+
+Gásfiter 3° 31
+
+Chofer 3° 31
+
+Ayudante Vulcanizador 2° 3° 31
+
+Jardinero 3° 31
+
+Portero de la Alcaldía 3° 31
+
+Ayudante Electricista 3° 31
+
+Mayordomo de Aseo 3° 31
+
+Portero Biblioteca 3° 31
+
+Ayudante Vulcanizador 1° 3° 31
+
+Soldador 3° 31
+
+Auxiliar de Biblioteca 3° 31
+
+Mecánico 1° 25
+
+Planta Obreros general
+
+Obreros 6° 32
+
+Obreros Portero Alcaldía 6° 32
+
+Obrero Auxiliar Jdo.
+
+Policía Local 6° 32
+
+Obrero Desabollador 6° 32
+
+Obrero Carpintero 6° 32
+
+Obrero Mayordomo Jardines 6° 32
+
+Obrero Electricista Vehíc. Mun. 6° 32
+
+Obrero Auxiliar Bibliotecas 6° 32
+
+El cargo de Alcalde grado 5° se convertirán en grado 6° al quedar vacantes.
+
+El o los cargos de Contralor Municipal grado 8° se convertirán en grado 10° al quedar vacantes.
+
+El o los cargos de Practicante Municipal grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Mecánico Municipal grado 25° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Ayudante 1° Contraloría Municipal grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Oficial de Partes 1° grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Oficial de Partes 2° grado 22° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Bibliotecaria 2° Municipal grado 22° se convertirán en grado
+
+23° al quedar vacantes.
+
+El o los cargos de Oficial 2° Juzgado de Policía Local grado 22° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Inspector Municipal grado 22° se convertirán en grado 23° al quedar vacantes.
+
+El o lo cargos de Ayudante 2° Contraloría Municipal grado 22° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Oficial 3° Juzgado de Policía Local grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Auxiliar Actas Municipales grado 24° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Secretario Defensa Municipal Comisiones grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Archivero Municipal grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Estadístico y Guardalmacén grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Ayudante Bibliotecaria Municipal grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Ayudante 3° Contraloría Municipal grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Recaudador 3° de Mercados y Vegas grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Recaudador 4° de Mercados y Vegas grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Recaudador 5° de Mercados y Vegas grado 28° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Chofer de la Alcaldía Municipal grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Portero 3° de la Alcaldía grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Portero 4° de la Alcaldía grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Choferes grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Mayordomo Jardines y Chofer grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Chofer Tractorista grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Mayordomo Aseo grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Forjador grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Maestro Albañil grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Albañil grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Gásfiter grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Mayordomo de Aseo grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Pintor grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Mayordomo de Mercados y Vegas grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Carpintero grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Ayudante Mecánico grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Ayudante Vulcanizador 2° grado 31° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Ayudante Vulcanizador 1° grado 31° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Soldador grado 31 se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Mecánico grado 25° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obrero Auxiliar Bibliotecas grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE TALCAHUANO
+
+#### Artículo 252°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Talcahuano de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado
+
+Nombre del Cargo Municipal Escala Unica
+
+-------------------------------------------------------
+
+A) Directivos Superiores.
+
+Alcalde 5°
+
+Secretaria Abogado Municipal 1a Cat. 7°
+
+Director Contabilidad y Control 1a Cat. 8°
+
+(Contador)
+
+Director de Subsistencias
+
+y Médico Veterinario Matadero
+
+Municipal 1a Cat. 9°
+
+Director de Obras Municipales
+
+(Arquitec) 1a Cat. 8°
+
+Asesor Urbanista Director
+
+de Urbanismo y Programación
+
+(Arquitecto) 1a Cat. 9°
+
+Abogado Jefe Defensa Municipal 6a Cat. 9°
+
+Juez de Policía Local 1a Cat. 6°
+
+Secretario de la Alcaldía 6a Cat. 10°
+
+Director de Personal y
+
+Bienestar Social 6a Cat. 12°
+
+Director de Rentas e Inspección 6a Cat. 9°
+
+Director del Tránsito 6a Cat. 9°
+
+Director de Adquisiciones 6a Cat. 11°
+
+Director de Aseo 6a Cat. 9°
+
+B) Profesionales y Directivos
+
+no Superiores
+
+Arquitecto Revisor de Planos 3a Cat. 12°
+
+Constructor Civil 3a Cat. 13°
+
+Asistente Social Jefe 3a Cat. 13°
+
+Asistente Social 5a Cat. 15°
+
+Jefe Depto. Parques y Jardines 3° 14°
+
+Jefe Depto. de Mantención 5° 14°
+
+Dibujante y Topógrafo 6° 16°
+
+Jefe de Relaciones Públicas
+
+(Periodista) 7° 16°
+
+Topógrafo 7° 18°
+
+Dibujante Técnico 8° 19°
+
+Dibujante Técnico 9° 21°
+
+Médico Gabinete Psicotécnico Ley 15.076
+
+C) Administrativos
+
+Oficial 5° 19°
+
+Oficiales 6° 20°
+
+Oficiales 7° 21°
+
+Oficiales 8° 22°
+
+Oficiales 9° 23°
+
+Oficiales 10° 24°
+
+Oficiales 11° 25°
+
+Oficiales 12° 27°
+
+Oficiales 13° 29°
+
+D) Escalafón del Servicio de Mantención
+
+Choferes 7° 25
+
+Tractorista 8° 25
+
+Maestro Electricista 8° 25
+
+Maestro Soldador Mecánico 8° 25
+
+Maestro Eléctrico Automotriz 8° 25
+
+Maestros Mecánicos Automotriz 8° 25
+
+Maestro Electricista 9° 27
+
+Maestros Mecánicos Automotriz 9° 27
+
+Choferes 10° 27
+
+Maestros Electricistas 13° 28
+
+E) Escalafón Servicios Menores
+
+Mayordomo Ordenanza 9° 26°
+
+Ordenanzas 10° 30°
+
+1°.- Obreros Especializados
+
+Clase A
+
+Choferes Camiones 1° 25°
+
+Recolectores "KUKA" Tractorista 1° 25°
+
+Tractoristas 1° 25°
+
+Mayordomo
+
+Maestro Herrero 1° 25°
+
+Chof. Camiones
+
+Recolectores "KUKA" 2° 26°
+
+Maestro Herrero 2° 26°
+
+Choferes Camiones y Microbuses 3° 27°
+
+Pintor Desabollador Automóviles 7° 29°
+
+2°.- Obreros Especializados
+
+Clase B
+
+Maestros Albañiles 1° 25°
+
+Maestros Gásfiter 1° 25°
+
+Maestros Carpinteros 1° 25°
+
+Maestros Albañiles 2° 26°
+
+Maestros Carpinteros 2° 26°
+
+Maestro Talabartero 2° 26°
+
+Choferes 3° 27°
+
+Jardineros 3° 26°
+
+Soldador 3° 27°
+
+Gásfiter 3° 27°
+
+Albañiles 3° 27°
+
+Chofer 4° 28°
+
+Jardinero 4° 28°
+
+Ayudante Mecánico 4° 28°
+
+Electricista 4° 28°
+
+Albañiles 4° 28°
+
+Carpintero 4° 28°
+
+Jardineros 5° 29°
+
+Soldador 5° 29°
+
+Electricista 5° 29°
+
+Carpintero 5° 29°
+
+Jardineros 6° 30°
+
+Choferes 6° 30°
+
+Ayudantes Mecánicos 6° 30°
+
+Albañil 6° 30°
+
+Ayudante Gásfiter 6° 30°
+
+Albañiles 7° 31°
+
+Carpintero 7° 31°
+
+3°.- Obreros No Especializados
+
+Obreros 1° 25°
+
+Obreros 2° 27°
+
+Obrero 3° 28°
+
+Obreros 4° 29°
+
+Obreros 5° 30°
+
+Obreros 6° 31°
+
+Obreros 7° 32°
+
+El o los cargos de Director Contabilidad y Control (Contador) y Director de Obras Municipales (Arquitecto) grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Secretario de la Alcaldía grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Director de Personal y Bienestar Social grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Asistente Social grado 15° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Dibujante y Topógrafo grado 16° se convertirán en grado 18° al quedar vacantes.
+
+El o los cargos de Jefe de Relaciones grado 16° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Topógrafo grado 18° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Oficiales grado 29° y Choferes grado 30° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Tractorista y Maestro Eléctrico grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Maestro Herrero grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Tractorista grado 25° Maestro Herrero grado 26°, y Choferes Camiones y Microbuses grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Choferes grado 27° y Electricista grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Soldador y Electricista grado 29° y Chofer grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los caros de Jardineros, Ayudantes Mecánicos, Ayudantes Gásfiter grado 30 y Albañiles y Carpinteros grado 31° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Choferes Camiones Recolectores KUKA grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Ordenanza grado 30° y Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE TALTAL
+
+#### Artículo 253°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Taltal, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados.
+
+Alcalde 5° 15°
+
+Juez de Policía Local 5° 16°
+
+Director de Obras
+
+(Constructor Civil). 5° 17°
+
+Secretario Municipal,
+
+Alcaldía y Jefe Control 5° 17°
+
+Inspector Gral. de Patentes,
+
+Secretario Jdo. de Policía
+
+Local y Habilitado 9° 21°
+
+Inspector de los Servicios,
+
+Tránsito y Administrador del
+
+Matadero 9° 21°
+
+Chofer 12° 25°
+
+Bodeguero y Oficial de
+
+Inventario 14° 25°
+
+Auxiliar de Secretaría y
+
+Oficial de Partes del Juz.
+
+de Policía Local 14° 25°
+
+Planta de Obreros
+
+Chofer Mecánico, Jefe
+
+Mantención 1° 27°
+
+Obreros 3° 27°
+
+Obreros 4° 29°
+
+Obreros 5° 31°
+
+Obreros 6° 32°
+
+El o los cargos de Director de Obras, y Secretario Municipal grado 17° se convertirán en grado 18° al quedar vacantes.
+
+El o los cargos de Inspector de los Serv. Tránsito y Administrador del Matadero grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Bodeguero y Oficial de Inventario grado 25 se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Auxiliar de Secretaría y Oficial de Partes del Jdo. de Policía Local grado 25° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE TEMUCO
+
+#### Artículo 254°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Temuco, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 1a Cat. 5°
+
+Planta Directiva y de Jefaturas
+
+Secretario Municipal y de la
+
+Alcaldía y Jefe del Personal
+
+Administrativo 1a Cat. 7°
+
+Juez del Primer y Segundo
+
+Juzgado de Policía Local 1a Cat. 6°
+
+Jefe de la Defensa Municipal,
+
+Abogado 1a Cat. 9°
+
+Director de Obras Municipales,
+
+Arquitecto 1a Cat. 8°
+
+Arquitecto Urbanista,
+
+Arquitecto 1a Cat. 9°
+
+Jefe de Control 1a Cat. 9°
+
+Jefe de Rentas y Patentes 1a Cat. 9°
+
+Jefe de Contabilización y
+
+Estadísticas 2a Cat 10°
+
+Director del Tránsito 1a Cat. 9°
+
+Director de Aseo 1a Cat. 9°
+
+Jefe de Subsistencias y
+
+Administrador Mercado 1a Cat. 11°
+
+Jefe Sección Inspectores 4a Cat. 15°
+
+Secretario Dirección de
+
+Obras,
+
+Dibujante Técnico 4a Cat. 18°
+
+Jefe Control de Movilización 4a Cat. 17°
+
+Jefe de Adquisiciones y
+
+Aprovisionamiento 6a Cat. 17°
+
+Secretario del Primer y Segundo
+
+Juzgado de Policía Local 4a Cat. 18°
+
+Oficial 1° y Receptor del
+
+Jdo. de Policía Local 4a Cat. 19°
+
+Jefe Sección Alumbrado 4a Cat. 19°
+
+Jefe Sección Partes 4a Cat. 19°
+
+Planta Profesional y Técnica
+
+Médico del Gabinete
+
+Psicotécnico Ley 15.076
+
+Constructor Civil 3a Cat. 13°
+
+Constructor Civil 6a Cat. 15°
+
+Dibujante Técnico 6a Cat. 19°
+
+Bibliotecóloga 2° 19°
+
+Práctico Agrícola. 4a Cat. 19°
+
+Planta Administrativa
+
+Oficial del Jdo. de Policía
+
+Local 4a Cat. 19°
+
+Inspectores 6a Cat. 19°
+
+Inspector 6a Cat. 19°
+
+Oficial del Jdo. de
+
+Policía Local 6a Cat. 20°
+
+Inspectores 1° 20°
+
+Oficial del Jdo. de
+
+Policía Local 2° 22°
+
+Inspectores 2° 21°
+
+Inspectores 3° 22°
+
+Inspector 4° 23°
+
+Oficial del Jdo. de
+
+Policía Local 3° 23°
+
+Inspectores 6° 24°
+
+Procurador y Escribiente
+
+Defensa Municipal 3° 23°
+
+Inspectores 7° 25°
+
+Inspectores 9° 26°
+
+Inspector 12° 27°
+
+Planta Personal Especializado
+
+Choferes 5° 25°
+
+Choferes 6° 26°
+
+Choferes 7° 27°
+
+Choferes 8° 28°
+
+Planta de Servicios Menores
+
+Portero 8° 28°
+
+Porteros 9° 29°
+
+Planta de Obreros Especializados
+
+Electricistas 1° 25°
+
+Electricistas 2° 26°
+
+Electricistas 5° 29°
+
+Choferes 1° 25°
+
+Choferes 2° 26°
+
+Choferes 3° 27°
+
+Chofer 4° 28°
+
+Carpinteros 1° 25°
+
+Carpintero 2° 26°
+
+Carpinteros 5° 30°
+
+Carpintero 3° 27°
+
+Jardineros 1° 25°
+
+Jardineros 4° 28°
+
+Jardineros 2° 26°
+
+Jardineros 3° 27°
+
+Jardineros 5° 30°
+
+Albañiles 1° 25°
+
+Albañiles 5° 30°
+
+Gasfiteres 1° 25°
+
+Gásfiter 3° 27°
+
+Pintor 1° 25°
+
+Pintor 5° 30°
+
+Pintor 4° 28°
+
+Soldador 2° 26°
+
+Mecánico 5° 30°
+
+Escobillero 1° 25°
+
+Telefonista 5° 28°
+
+Planta de Obreros de
+
+Servicios Menores
+
+Mayordomo 1° 25°
+
+Mensajeros 4° 28°
+
+Portero 3° 27°
+
+Mensajero 5° 30°
+
+Planta de Obreros
+
+sin Especialización
+
+Jornaleros 1° 26°
+
+Jornaleros 2° 27°
+
+Jornaleros 3° 28°
+
+Jornaleros 4° 30°
+
+Jornaleros 5° 32°
+
+El o los cargos de Director de Obras Municipales (Arquitecto) grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Jefe de Contabilización y Estadística grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Secretario Dirección de Obras de Dibujante Técnico y Secretario Juzgado de Policía Local grado 18° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Oficial del Juzgado de Policía Local grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Oficial del Juzgado de Policía Local grado 20° se convertirán en grado 22° al quedar vacantes.
+
+El o los cargos de Oficial del Juzgado de Policía Local grado 22° se convertirán en grado 24° al quedar vacantes.
+
+El o los cargos de Oficial del Juzgado de Policía Local grado 23° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Procurador y Escribiente Defensa Municipal grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Choferes grado 28° y Chofer (Planta Obrero) grado 28° se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Jardinero; Pintor y Mensajero grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Gásfiter grado 27° Electricista grado 29°; Carpintero, Jardinero, Albañiles, Pintor grado 30° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Albañiles, Gasfiteres y Pintor grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Soldador grado 26° y Escobillero grado 25 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Portero grado 29°, Mensajero grado 30° y Jornalero grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE TENO
+
+#### Artículo 255°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Teno, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 12°
+
+Juez de Policía Local 2° 14°
+
+Secretario Municipal de
+
+Alcaldía, Director Tránsito,
+
+Jefe de Patentes 2° 16°
+
+Veterinario Municipal
+
+Adm. Matadero 4° 16°
+
+Director de Obras Municipales 4° 16°
+
+Secretario Jdo.
+
+Habilitado EE.MM. 4° 21°
+
+Insp. Patentes Tránsito
+
+y Matadero 4° 23°
+
+Inspector Obras, Archv, Hab. OO. 4° 23°
+
+Inspector Aseo y Jardín. 4° 23°
+
+Chofer Municipal 11° 25°
+
+Planta de Obreros
+
+Especializado Jardinería 5° 27°
+
+Especializado Carpintería 5° 27°
+
+Auxiliar Portero 5° 29°
+
+Obreros. 7° 31°
+
+El cargo de Alcalde grado 12° se convertirá en grado 13° al quedar vacante.
+
+El o los cargos de Veterinario Municipal Adm. Matadero grado 16° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Chofer Municipal grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Obrero grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE TIERRA AMARILLA
+
+#### Artículo 256°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Tierra Amarilla, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde Municipal 1° 17°
+
+Secretario Municipal,
+
+Alcaldía y Habilitado 1° 20°
+
+Inspector Municipal y
+
+Jefe de Servicios. 8° 25°
+
+Planta de Obreros
+
+Jornaleros 6° 30°
+
+Jornaleros. 7° 32°
+
+El o los cargos de Jornaleros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE TIL-TIL.
+
+#### Artículo 257°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Til-Til, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Alcalde y Juez de Policía Local 14°
+
+Secretario Municipal de la
+
+Alcaldía y Director del Tránsito 6a Cat. 17°
+
+Médico Veterinario (Matadero
+
+Municipal) 13° 17°
+
+Director de Obras 13° 17°
+
+Médico Gabinete Psicotécnico 22° Ley 15.076
+
+Administrador Empresa Eléctrica
+
+Municipal 6° 19°
+
+Planta Administrativa
+
+Pro-Secretario y Secretario del
+
+Juzgado de Policía Local 6° 19°
+
+Inspector de Tránsito Oficial de
+
+Secretaría y del Juzgado de
+
+Policía Local 7° 23°
+
+Inspector Municipal 7° 23°
+
+Inspector de Obras, Oficial
+
+Administrativo Empresa Eléctrica
+
+Municipal 8° 25°
+
+Electricista 8° 25°
+
+Personal Especializado
+
+Choferes 2° 28°
+
+Albañil 2° 28°
+
+Ayudante Electricista 2° 28°
+
+Matarifes 2° 28°
+
+Jardinero 2° 28°
+
+Jornaleros 3° 29°
+
+El o los cargos de Administrador Empresa Eléctrica Municipal y Director del Tránsito grado 18° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Pro-Secretario grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Oficial de Secretaría y del Juzgado de Policía Local grado 23° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Electricista grado 25°; Choferes; Albañil; Ayudante Electricista; y Matarifes grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Jardinero grado 28° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Jornaleros grado 29° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE TIRUA
+
+#### Artículo 258°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Tirúa, de acuerdo con lo dispuesto en el artículo 13° del decreto N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala
+
+Nombre del Cargo Unica
+
+-------------------------------------------------------
+
+Alcalde 17°
+
+MUNICIPALIDAD DE TOCOPILLA
+
+#### Artículo 259°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Tocopilla, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica.
+
+Alcalde 1° 9°
+
+Juez de Policía Local 1° 10°
+
+Secretario Municip y
+
+de la Alcaldía 1° 12°
+
+Director de Obras 2° 12°
+
+Jefe de Contabilidad y Control 6° 14°
+
+Jefe Aseo, Riego y Jardines 7° 15°
+
+Jefe Patentes y Tránsito 7° 15°
+
+Jefe Maestranza y Garaje 7° 20°
+
+Jefe de Partes y Secretaría
+
+Juzgado de Policía Local 7° 19°
+
+Administ. Matadero y
+
+Mercado Feria 7° 19°
+
+Médico Psicotécnico Ley 15.076
+
+Planta Administrativa
+
+Inspector Municipal 8° 19°
+
+Inspectores Municipales 9° 22°
+
+Director Banda Músicos 10° 25°
+
+Sub-Inspectores Municipales 10° 25°
+
+Sub-Inspectores Municipales 12° 27°
+
+Planta Obreros
+
+Mecánicos 5° 25°
+
+Choferes 5° 25°
+
+Herrero 5° 27°
+
+Gásfiter 5° 27°
+
+Jardineros 5° 27°
+
+Matarifes 5° 27°
+
+Tractoristas 7° 27°
+
+Soldador 7° 29°
+
+Carpintero 7° 29°
+
+Matarifes 7° 29°
+
+Ayudante-Jardinero 7° 29°
+
+Jornaleros 7° 29°
+
+Jornaleros 8° 31°
+
+Choferes 9° 30°
+
+Jornaleros 9° 32°
+
+El último cargo de Inspector Municipal grado 22° se convertirán en grado 27° al quedar vacantes.
+
+El 1er. cargo que vaque de Sub-Inspector Municipal grado 27° se convertirá en grado 31°.
+
+El o los cargos de Jornaleros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE TOLTEN
+
+#### Artículo 260°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Toltén, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+_______________________________________________________
+
+Planta Directiva
+
+Alcalde y Juez de Policía Local 3° 14°
+
+Secretario Municipal y Alcaldía
+
+e Inspector de Matadero 3° 17°
+
+Planta Administrativa
+
+Auxiliar de Secretaría,
+
+Bibliotecario, Secretario
+
+Juzgado de Policía Local
+
+Inspector de Patentes y del
+
+Tránsito 10° 21°
+
+Planta de Obreros
+
+Panteonero 8° 27°
+
+Choferes 10° 27°
+
+Matarife 10° 31°
+
+El o los cargos de Panteonero grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Matarife grado 31° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE TOME
+
+#### Artículo 261°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Tomé, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde de la Comuna 2a Cat. 8°
+
+Secretario Municip. y
+
+de la Alcaldía 2a Cat. 11°
+
+Juez de Policía Local 2a Cat. 9°
+
+Constructor Civil 1° 12°
+
+Director Obras Municipales 3a Cat. 11°
+
+Topógrafo Dibujante D. O. M. 4° 20°
+
+Planta Sub-Directiva
+
+Jefe de Contabilidad y Control 1° 14°
+
+Director de Rentas y Patentes 1° 13°
+
+Director Depto. Aseo,
+
+Parques y Jardines 1° 13°
+
+Director del Tránsito 4° 14°
+
+Planta Administrativa
+
+Secretario Juzgado
+
+de Policía Local 1° 19°
+
+Jefe de Mantención
+
+Vehículos Motorizados 3° 21°
+
+Jefe de Movilización
+
+y Bodega de Materiales 3° 21°
+
+Administrador del Matadero
+
+y del Mercado 4° 23°
+
+Oficial de Contabilidad y Control 4° 23°
+
+Jefe de Adquisiciones 4° 23°
+
+Oficial 1° del Jdo.
+
+de Policía Local 7° 24°
+
+Oficial de Patentes 8° 26°
+
+Oficial de la Dirección de
+
+Obras Municipales 8° 26°
+
+Oficial 2° del Jdo. de
+
+Policía Local 8° 27°
+
+Inspector Direc.
+
+Obras Municipales 10° 25°
+
+Bibliotecaria 10° 25°
+
+Choferes
+
+Choferes 1° 25°
+
+Choferes 8° 30°
+
+Planta de Obreros Especializados
+
+Maestro Mayor Carpintero 1° 25°
+
+Maestro Mayor Mecánico Herrero 1° 25°
+
+Mecánico de Automóviles 1° 25°
+
+Albañil de 1era. 1° 25°
+
+Soldador al Arco 2° 27°
+
+Carpintero de 1era. 2° 27°
+
+Carpintero de 1era. 3° 28°
+
+Carpintero de 2da. 4° 30°
+
+Carpintero de 1era. 5° 30°
+
+Albañiles de 1era. 5° 28°
+
+Mayordomo del Edificio Consistorial 1° 25°
+
+Gásfiter Mecánico 1° 26°
+
+Administrador del Estadio 1° 26°
+
+Administrador del Cementerio 5° 30°
+
+Electricista 4° 28°
+
+Albañil de 2da. 3° 28°
+
+Albañil de 2da. 4° 29°
+
+Albañiles de 2da. 5° 30°
+
+Auxiliar Edificio Consistorial 2° 28°
+
+Ayudante Mecánico 5° 30°
+
+Jardinero 3° 28°
+
+Jardineros 4° 30°
+
+Jardineros 5° 32°
+
+Planta No Especializados
+
+Operarios del Servicio de Aseo 3° 29°
+
+Operarios del Servicio de Aseo 4° 31°
+
+Operarios del Servicio de Aseo 5° 32°
+
+El o los cargos de Constructor Civil grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Jefe de Mantención Vehículos Motorizados y Jefe de Movilización y Bodega de Materiales grado 21° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Choferes, Maestro Mayor Carpintero, Maestro Mayor Mecánico Herrero y Mecánico de Automóviles grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Albañil de 1era. grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Soldador al Arco; y Carpintero de 1era. grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Carpintero de 1era, y Electricista grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Albañiles de 1era. y Auxiliar Edificio Consistorial grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Albañil de 2da. grado 28° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Albañil de 2da. grado 29° se convertirán en grado 32° al quedar vacantes.
+
+El o los cargos de Carpintero de 2da., Albañiles de 2da. y Ayudante Mecánico grado 30° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Jardineros y Operarios del Servicio de Aseo grado 32° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Gásfiter Mecánico de grado 26° al 29° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE TRAIGUEN
+
+#### Artículo 262°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Traiguén, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 12°
+
+Secretaria Municipal y Alcaldía 1° 15°
+
+Juez de Policía Local
+
+y Abogado Municipal 1° 13°
+
+Director Tránsito, Habilitado,
+
+Bibliotecaria 6° 16°
+
+Director de Obras y Aseo 8° 15°
+
+Adm. Veterinario Matadero 20° 16°
+
+Planta Administrativa
+
+Secretario Juzgado
+
+de Policía Local 6° 20°
+
+Inspector de Obras y Luces 9° 22°
+
+Inspec. de Obras,
+
+Mercado, Matadero 9° 22°
+
+Oficial Administrativo 13° 24°
+
+Inspector Patentes Tránsito 15° 24°
+
+Operador Cine Municipal 16° 28°
+
+Inspector Teatro Municipal 20° 27°
+
+Mayordomo de Obras y Chofer 14° 27°
+
+Médico Psicotécnico Ley 15.076
+
+Servicios Menores
+
+Auxiliar Jdo. de Policía Local 16° 29°
+
+Obreros 6° 28°
+
+Obreros 7° 30°
+
+Obreros 8° 31°
+
+Obreros 9° 32°
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE TREHUACO
+
+#### Artículo 263°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Trehuaco, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde y Juez de Policía Local 16°
+
+Planta de Empleados
+
+Secretario Municipal y Alcaldía,
+
+Secretario Jdo. Policía Local
+
+Director del Tránsito 13° 19°
+
+Planta de Obreros
+
+Obreros Especializados 9° 29°
+
+Auxiliar y Encargado
+
+de Cementerio 9° 32°
+
+El o los cargos de Auxiliar y Encargado Cementerio grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE TUCAPEL
+
+#### Artículo 264°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Tucapel, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 7° 14°
+
+Secretaria Municipal,
+
+Alcaldía y Director
+
+Tránsito 7° 17°
+
+Abogado Municipal 12° 17°
+
+Médico Gabinete Psicotécnico Ley 15.076
+
+Planta Administrativa
+
+Secretario Jdo. Policía Local
+
+y Ayudante Secretaría Municipal 11° 19°
+
+Inspector Alumbrado 12° 23°
+
+Inspector Patentes 21° 26°
+
+Escalafón Separado
+
+Chofer Maquinarias 16° 25°
+
+Chofer Maquinarias 21° 27°
+
+Planta Obreros
+
+Obreros Tractoristas 7° 27°
+
+Obreros 7° 31°
+
+El o los cargos de Secretario Jdo. Policía Local y Ayudante Secretaría Municipal grado 19 se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Chofer Maquinarias grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Chofer Maquinarias grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obreros Tractoristas grado 27° se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obreros grado 31° se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE VALDIVIA
+
+#### Artículo 265°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Valdivia, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Alcaldía y Secretaría Municipal
+
+Alcalde 5°
+
+Sec. Municipal y de Alcaldía Gr. 5° 8°
+
+Oficial 1ero. 6° 21°
+
+Oficial 2do. 8° 23°
+
+Oficial 3ero. 8° 25°
+
+Telefonista 11° 29°
+
+Cont. Control Adquisiciones
+
+Contador Jefe Contralor 1a Cat. 9°
+
+Contador Jefe Adquisiciones Gr. 5° 16°
+
+Oficial 1ero. 6° 21°
+
+Oficial 2do. 11° 29°
+
+Defensa
+
+Abogado 1a Cat. 10°
+
+Dirección de Obras
+
+Director, Const. Colegiado 6a Cat. 8°
+
+Constructor Civil Gr. 2° 12°
+
+SE. Administ. Estadios 5° 17°
+
+Oficial 1ero. 8° 23°
+
+Inspector 1ero. 8° 21°
+
+Inspector 2do. 9° 23°
+
+Inspector 3ero. 11° 25°
+
+Mayordomo 11° 27°
+
+Mayordomo Estadios 9° 25°
+
+Dirección del Tránsito
+
+Director 6a Cat. 9°
+
+Secretario Gr. 7° 22°
+
+Oficial 1ero. 8° 23°
+
+Oficial 2do. 9° 24°
+
+Oficial 3ero. 11° 29°
+
+Médico Psicotécnico 11° Ley 15.076
+
+Patentes, Rentas, Mercado
+
+y Ferias Libres
+
+Contador Jefe Rentas 3° 10°
+
+Secretaria 6° 21°
+
+Oficial 1ero. 9° 24°
+
+Oficial 2do. 9° 24°
+
+Oficial 3ero. 8° 23°
+
+Recaudador 9° 24°
+
+Inspector 8° 23°
+
+Dirección de Aseo y Ornato
+
+Director 5° 10°
+
+Secretario 8° 23°
+
+Mayordomo Jardines 10° 26°
+
+Planeamiento y Alumbrado
+
+Arquitecto, Asesor Urbanista 5a Cat. 9°
+
+Jefe Alumbrado y Dibuj. 6° 16°
+
+Dibujante 10° 25°
+
+Oficial 1° 11° 29°
+
+Mayordomo Alumbrado 29°
+
+Biblioteca
+
+Bibliotecaria 8° 18°
+
+Encuadernador 10° 29°
+
+Juzgado Policía Local
+
+Juez 1a Cat. 1a Cat. 7°
+
+Secretaria 5° 19°
+
+Oficial 1° 6° 21°
+
+Oficial 2do. 7° 22°
+
+Oficial 3ero. 11° 29°
+
+Oficial 4to. 9° 24°
+
+Taller
+
+Jefe 6° 23°
+
+Mecánico Jefe 8° 25°
+
+Choferes 8° 26°
+
+Choferes 9° 27°
+
+Choferes 10° 28°
+
+Choferes 11° 29°
+
+Auxiliares
+
+Auxiliares 2° 27°
+
+Auxiliares 3° 29°
+
+Auxiliares 4° 31°
+
+Auxiliares 5° 32°
+
+Dirección de Obras
+
+Ayudante Mecánico 3° 27°
+
+Ayudante Mecánico 5° 29°
+
+Ayudante Mecánico 6° 31°
+
+Albañil 3° 27°
+
+Albañil 5° 29°
+
+Ayudante Albañil 3° 30°
+
+Tractorista 4° 30°
+
+Sereno 3° 30°
+
+Gásfiter 3° 30°
+
+Carpinteros 1° 27°
+
+Carpinteros 2° 28°
+
+Carpinteros 3° 29°
+
+Carpinteros 6° 31°
+
+Jornaleros 2° 27°
+
+Jornaleros 3° 28°
+
+Jornaleros 4° 29°
+
+Jornaleros 5° 31°
+
+Jornaleros 6° 32°
+
+Dirección Planeamiento
+
+y Alumbrado
+
+Electricista 3° 27°
+
+Ayudante Electricista 1° 28°
+
+Ayudante Electricista 3° 29°
+
+Ayudante Electricista 4° 30°
+
+Ayudante Electricista 5° 31°
+
+Dirección de Aseo y Ornato
+
+Mayordomo 1° 26°
+
+Tractorista 2° 27°
+
+Jornaleros 2° 27°
+
+Jornaleros 3° 28°
+
+Jornaleros 4° 29°
+
+Jornaleros 5° 31°
+
+Jornaleros 6° 32°
+
+Mercado
+
+Recaudador Mercado 1° 26°
+
+Jornalero 2° 27°
+
+Jornalero 5° 31°
+
+Jornalero 6° 32
+
+El o los cargos de Alcalde grado 5° se convertirán en grado 6° al quedar vacantes.
+
+El o los cargos de Contador Jefe Contralor grado 9° se convertirán en grado 10° al quedar vacantes.
+
+El o los cargos de Oficial 2°. Cont. Control Adquisiciones grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Constructor Civil grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Inspector 3ero. grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Mayordomo Estadios grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Director del Tránsito grado 9° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Oficial 2do. Dirección Tránsito grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Oficial 3ero. Dirección Tránsito grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Contador Jefe Rentas grado 10° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Oficial 1ero. Patentes, Rentas, Mercados y Ferias Libres grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Oficial 2do. Patentes, Rentas, Mercados y Ferias Libres grado 24° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Oficial 3ero. Patentes, Rentas, Mercados y Ferias Libres grado 23° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Recaudador grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Director Dirección de Aseo y Ornato grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Mayordomo Jardines, Director Aseo y Ornato grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Arquitecto Asesor Urbanista grado 9° se convertirán en grado
+
+10° al quedar vacantes.
+
+El o los cargos de Bibliotecaria grado 18° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Oficial 4to. Juzgado de Policía Local grado 24° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Choferes grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Auxiliares grado 32° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Ayudante Mecánico grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Albañil grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Carpintero grado 31° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Jornaleros Dir. Obras grado 32° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Ayudante Electricista grado 31° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Jornaleros Dir. Aseo y Ornato grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Jornaleros Dir. Aseo y Ornato grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Jornaleros Dir. Aseo y Ornato grado 32° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Jornaleros Mercado grado 32° se convertirán en grado 35° al quedar vacantes.
+
+MUNICIPALIDAD DE VALLENAR
+
+#### Artículo 266°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Vallenar, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 9
+
+Abogado Defensa Municipal
+
+Coordinador Jefe de Servicios
+
+y Secretario del Jdo. Policía
+
+Local 5° 12
+
+Juez de Policía Local 5° 10
+
+Jefe Control y Rentas,
+
+Contador Habilitado del
+
+Personal 5° 14
+
+Secretario Alcaldía 5° 15
+
+Director de Obras 7° 12
+
+Veterinario y Adm. Matadero 8° 13
+
+Directora del Tránsito 8° 14
+
+Médico Psicotécnico Ley 15.076
+
+Planta Administrativa
+
+Insp. de Servicios y
+
+Obreros Munic. 8° 21
+
+Inspector de Patentes 6° 19
+
+Oficial Administrativo 6° 21
+
+Oficial Administrativo 8° 23
+
+Oficial Administrativo 9° 25
+
+Oficial Administrativo 10° 27
+
+Oficial Administrativo 11° 28
+
+Planta Obreros
+
+Obreros 2° 25
+
+Obreros 3° 26
+
+Obreros 4° 27
+
+Obreros 5° 28
+
+Obreros 6° 29
+
+Obreros 7° 31
+
+Obreros 8° 32
+
+El o los cargos de Veterinario y Administrador Matadero grado 13, se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Inspector de Serv. y Obreros Municipales grado 21, se convertirán en grado 23 al quedar vacantes.
+
+El o los cargos de Oficial Administrativo grado 28, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros grado 26, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros grado 27, se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Obreros grado 28, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obreros grado 29, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obreros grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE VICTORIA
+
+#### Artículo 267°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Victoria, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde Gr. 2° 12
+
+Planta Directiva, Profesional
+
+y Técnica
+
+Secretario Municipal, Alcaldía 2° 14
+
+y Director del Tránsito
+
+Juez de Policía Local 2° 13
+
+Director de Obras Municipales 3° 14
+
+Adm. (Veterinario) Matadero 3° 16
+
+Planta Administrativa
+
+Secretaria Jdo. Policía Local 9° 19
+
+Ayudante Dirección de Obras
+
+e Inspector 1° Alumbrado 9° 19
+
+Adm. Mercado y Ayudante
+
+Administración Matadero 12° 22
+
+Inspector Patentes y 1°
+
+Oficial de Secretaría 12° 22
+
+Oficial de Secretaría 14° 24
+
+Médico Psicotécnico Ley 15.076
+
+Auxiliar Direc. Obras e
+
+Inspector 2° Alumbrado 16° 26
+
+Bibliotecaria 18° 27
+
+Oficial 2° Secretaría 18° 27
+
+Ayudante 2° Adm. Matadero 19° 29
+
+Personal Administrativo
+
+Chofer 6° 26
+
+Chofer 7° 27
+
+Mecánico 7° 27
+
+Soldador Mecánico 7° 28
+
+Personal de Servicios Menores
+
+Portero 4° 27
+
+Mayordomos 6° 27
+
+Obreros 6° 29
+
+Mayordomo 7° 29
+
+Jardinero 7° 29
+
+Carpintero 7° 29
+
+Obreros 7° 30
+
+Obreros 10° 32
+
+El o los cargos de Ayudante 2° Adm. Matadero grado 29, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Chofer grado 26, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Chofer grado 27, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Mecánico grado 27, Soldador Mecánico grado 28, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Obreros grado 32, se convertirán en grado 35, al quedar vacantes.
+
+MUNICIPALIDAD DE VICUÑA
+
+#### Artículo 268°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Vicuña, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Empleados
+
+Alcalde 5° 14
+
+Secretaria Municipal 5° 17
+
+Director de Obras 10° 17
+
+Director Tránsito 11° 18
+
+Inspector 11° 23
+
+Administrador Ofic. Turismo 15° 25
+
+Chofer Mayordomo 7° 25
+
+Auxiliar Secretaría 8° 26
+
+Auxiliar Direc. Tránsito 14° 28
+
+Planta Obreros
+
+Obreros 4° 25
+
+Obreros 5° 27
+
+Obreros 6° 28
+
+Obreros 7° 30
+
+Obreros 8° 32
+
+El cargo de Director del Tránsito gr. 18, se convertirá en grado 19 al quedar vacante.
+
+El o los cargos de Auxiliar Secretaría grado 26, Auxiliar Direc. Tránsito grado 28, y Obreros grado 30, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros gr. 28, se convertirán en gr. 29 al quedar vacantes.
+
+El o los cargos de Obreros gr. 32, se convertirán en gr. 35 al quedar vacantes.
+
+El o los cargos de Chofer Mayordomo de grado 25 se convertirán en grado 33° al quedar vacantes.
+
+MUNICIPALIDAD DE VICHUQUEN
+
+#### Artículo 269°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Vichuquén, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+_______________________________________________________
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde y Juez de Policía Local 15
+
+Planta Directiva
+
+Secretario Municip. y de
+
+Alcaldía y Secretario Jdo.
+
+de Policía Local 7° 18
+
+Planta Administrativa
+
+Secretario Ayudante,
+
+Secretario Dirección de Obras,
+
+Jefe Patentes de Vehículos 11° 23
+
+Chofer Municipal 22° 26
+
+Planta Obreros
+
+Obrero 4° 28
+
+Obrero 6° 30
+
+Obrero 8° 32
+
+El o los cargos de Chofer Municipal grado 26, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obrero grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE VILCUN
+
+#### Artículo 270°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Vilcún, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249 de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Nombre del Cargo Grado Escala Grado Escala
+
+Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde 14
+
+Secretario Municipal
+
+Alcaldía y Jefe Personal 7° 17
+
+Inspector Tránsito Patentes
+
+Matadero, Oficial de
+
+Inventarios y Secretario Junta
+
+Clasificadora de Patentes 8° 19
+
+Inspector y Relacionador
+
+de Junta de Vecinos 10° 25
+
+Secretario Juzgado Policía
+
+Local, Habilitado, Inspector
+
+de Aseo y de la Dirección de
+
+Obras. 10° 23
+
+Chofer-Mecánico, Mayordomo
+
+e Inspector Tránsito 20° 27
+
+Planta de Obreros
+
+Obrero 4° 29
+
+Carpintero 6° 28
+
+Matarife 6° 28
+
+Obreros 6° 30
+
+Obreros 7° 32
+
+El cargo de Alcalde grado 14, se convertirá en grado 16 al quedar vacante. El o los cargos de Secretario Municipal Alcaldía y Jefe Personal grado 17, se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Inspector Tránsito, patentes, Matadero, Oficial de Inventarios y Secret. Junta Clasif. de Patentes grado 19, se convertirán en grado 23 al quedar vacantes.
+
+El cargo de Obreros gr. 32 se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE VILLA ALEGRE
+
+#### Artículo 271°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Villa Alegre de acuerdo con lo dispuesto en el Artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde y Juez de Policía Local 14
+
+Secretario Municipal, Alcaldía
+
+y Juzgado de Policía Local 5° 16
+
+Inspector Patentes y Director
+
+Tránsito e Insp. Espectáculos 8° 18
+
+Director Obras 22° 17
+
+Médico Psicotécnico 12° Ley 15.076
+
+Bibliotecaria, Jefe Archivo 12° 23
+
+Matarife, Cuidador del
+
+Matadero Recaudador
+
+Ingresos Mat. 11° 25
+
+Inspector Obras Aseo
+
+y Mayordomo 13° 25
+
+Chofer Camión y Encargado
+
+de la Mantención de la
+
+Camioneta 17° 27
+
+Planta de Obreros
+
+Chofer Tractor y Mantención
+
+Vehículo de Carga 8° 26
+
+Obrero 9° 30
+
+Maestro Carpintero
+
+Albañil y Pintor 10° 28
+
+Auxiliar Oficina, Portero
+
+y Aseo Edificio Municipal 10° 30
+
+Auxiliar Matadero 10° 30
+
+Obreros 10° 32
+
+El o los cargos de Secret. Municipal, Alcaldía y Jdo. Policía Local grado 16, se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Inspector Patentes y Director tránsito e Insp. Espectáculos grado 18, se convertirán en grado 22° al quedar vacantes.
+
+El o los cargos de Bibliotecaria, Jefe Archivo grado 23, se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Matarife, Cuidador del Matadero y Recaudador Ingresos Mat. grado 25, se convertirán en grado 27, al quedar vacantes.
+
+El o los cargos de Chofer Tractor y Mantención Vehículo de Carga grado 26 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Auxiliar Oficina, Portero y Aseo Edificio Municipal grado 30, y Auxiliares Matadero grado 30 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE VILLA ALEMANA
+
+#### Artículo 272°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Villa Alemana, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 9
+
+Secretario Municipal 2a Cat. 12
+
+Secretario Alcaldía 2a Cat. 12
+
+Juez de Policía Local 2a Cat. 10
+
+Director de Obras Municipales 2a Cat. 12
+
+Dir. Depto. Control y Cont. 2a Cat. 12
+
+Dir. Depto. Aseo y Jardines 2a Cat. 13
+
+Dir. Depto. Tránsito 2a Cat. 13
+
+Dir. Depto. Patentes y Rentas 2a Cat. 13
+
+Sub-Director Depto. Control
+
+y Habilitado del Personal 4a Cat. 16
+
+Sub-Direc. Depto.
+
+Aseo y Jardines 4a Cat. 16
+
+Sub-Direc. Depto.
+
+Patentes y Rentas 4a Cat. 16
+
+Sub-Director Depto.
+
+del Tránsito 4a Cat. 16
+
+Sub-Director de
+
+Obras Municipales 4a Cat. 16
+
+Arquitecto Urbanista 6a Cat. 15
+
+Médico Gabinete Psicotécnico Gr. 1° Ley 15.076
+
+Planta Administrativa
+
+Secret. Juzgado Policía Local Gr. 1° 19
+
+Administ. Estadio y Coordinador 2° 21
+
+Secretario Inspector 2° 21
+
+Secretaria Of. Partes e Inform. 2° 21
+
+Secretaria Depto Patentes y Rentas 2° 21
+
+Inspector Adm. Mercado y Ferias 3° 23
+
+Secretario Inspector 3° 23
+
+Inspector Examinador Tránsito 3° 23
+
+Inspector Municipal 4° 25
+
+Inspector Municipal 5° 25
+
+Secretaria Dirección Tránsito 6° 27
+
+Inspector Municipal 6° 27
+
+Choferes electricistas y otros
+
+personales especializados
+
+Chofer Municipal 3° 25
+
+Mecánico Municipal 3° 25
+
+Chofer Municipal 4° 27
+
+Chofer Municipal 6° 29
+
+Servicios Menores
+
+Mayordomo Of. Municipales 3° 25
+
+Mayordomo Merc. Municipal 6° 29
+
+Obreros Municipales
+
+Especializados
+
+Albañil 1° 25
+
+Carpintero 1° 25
+
+Gásfiter 1° 25
+
+Pintor 1° 25
+
+Soldador 1° 25
+
+Obreros Municipales
+
+sin Calificación
+
+Gr. 1° 25
+
+2° 27
+
+3° 28
+
+4° 29
+
+5° 30
+
+6° 31
+
+7° 32
+
+El o los cargos de Secretario Alcaldía grado 12, se convertirán en grado 15 al quedar vacantes.
+
+El o los cargos de Dir. Depto. Control y Cont. grado 12, se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Dir. Depto. Aseo y Jardines grado 13, se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Dir. Depto. Tránsito grado 13, se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Dir. Depto. Patentes y Rentas, grado 13, se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Administrador Estadio y Coordinador grado 21, se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Secretario Inspector grado 21, se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Secretaria Of. Partes e Inform. grado 21, Secretaria Depto. Patentes y Rentas grado 21, se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Obreros Municipales Especializados, grado 25, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros Municipales sin Calificación grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE VILLARRICA
+
+#### Artículo 273°
+
+Fíjase, a contar del 1° de Enero de 1974 para los trabajadores de la Municipalidad de Villarrica, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde 1° 12
+
+Juez Policía Local 1° 13
+
+Secretario Municipal y Alcaldía 1° 15
+
+Jefe Rentas, Patentes y Director
+
+Tránsito 1° 15
+
+Director Obras Municipales 1° 15
+
+Médico Psicotécnico Ley 15.076
+
+Secretario Juzgado Policía Local 5° 19
+
+Planta Administrativa
+
+Inspector de Obras Municipales 7° 19
+
+Inspector Ornato, Aseo,
+
+Alumbrado y Matadero 8° 21
+
+Ayudante Secretario Munic. 9° 25
+
+Servicios Menores y Oficios
+
+Mayordomo 9° 25
+
+Chofer 12° 25
+
+Planta Obreros
+
+Obreros 2° 26
+
+Obreros 3° 28
+
+Obreros 4° 30
+
+Obreros 5° 31
+
+Obreros 6° 32
+
+Obreros 7° 32
+
+El o los cargos de Jefe Rentas, Patentes y Director Tránsito grado 15, se convertirán en grado 16 al quedar vacantes.
+
+El o los cargos de Inspector de Obras Municipales grado 19, se convertirán en grado 20 al quedar vacantes.
+
+El o los cargos de Inspector Ornato, Aseo, Alumbrado y Matadero grado 21, se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Chofer grado 25, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE YERBAS BUENAS
+
+#### Artículo 274°
+
+Fíjase, a contar del 1° de Enero de 1974 para los trabajadores de la Municipalidad de Yerbas Buenas, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 14
+
+Planta Directiva
+
+Juez de Policía Local
+
+y Abogado Municipal Gr. 7° 15
+
+Secretario Municipal y
+
+de la Alcaldía, Director
+
+del Tránsito y Secretario
+
+Juzgado 7° 17
+
+Planta Administrativa
+
+Inspector de los Servicios
+
+Municipales y Auxiliar 11° 23
+
+Oficial de Partes de la Munic.
+
+y del Juzgado de Policía Local 15° 25
+
+Planta de Choferes
+
+Chofer Bus 14° 26
+
+Chofer Camión S/Gr. 27
+
+Planta Obreros
+
+Obreros Especializados
+
+Electricista 7° 28
+
+Albañil y Carpintero 7° 29
+
+Obreros sin Especialidad
+
+Obreros 7° 30
+
+El cargo de Alcalde grado 14, se convertirá en grado 16 al quedar vacante.
+
+El o los cargos de Juez de Policía Local y Abogado Municipal, grado 15, se convertirán en grado 17 al quedar vacantes.
+
+El o los cargos de Secretario Municipal y de la Alcaldía, Director del Tránsito y Secretario Juzgado grado 17, se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Inspector de los Servicios Municipales y Auxiliar grado 23, se convertirán en grado 24 al quedar vacantes.
+
+El o los cargos de Oficial de Partes de la Munic. y del Juzgado de Policía Local grado 25, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Chofer Camión grado 27, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Albañil y Carpintero grado 29, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros grado 30, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE YUMBEL
+
+#### Artículo 275°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Yumbel, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+Alcalde Gr. 4° 11
+
+Secretario Municipal y Alcaldía 4° 14
+
+Juez Policía Local 4° 12
+
+Secretario Jdo. Policía Local
+
+y Adm. Empresas Transportes 6° 19
+
+Inspector de Patentes 6° 19
+
+Ayudante Dirección Obras 7° 22
+
+Chofer 8° 25
+
+Auxiliar Sala Jdo. Policía Local 15° 28
+
+Auxiliar Sala Municipalidad 15° 28
+
+Arquitecto 16° 16
+
+Administ. Mercado y Matadero 16° 25
+
+Choferes 16° 27
+
+Administrador Balneario 16° 25
+
+Médico Psicotécnico 16° Ley 15.076
+
+Planta Obreros
+
+Obrero 4° 27
+
+Obrero 5° 28
+
+Obreros 6° 30
+
+Obreros 7° 31
+
+Obreros 8° 32
+
+El o los cargos de Auxiliar Sala Jdo. Policía Local grado 28, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Auxiliar Sala Municipalidad grado 28, se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Administrador Balneario grado 25, se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Obreros grado 32, se convertirán en grado 35 al quedar vacantes.
+
+MUNICIPALIDAD DE YUNGAY
+
+#### Artículo 276°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Yungay, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Alcalde 15
+
+Planta de Empleados
+
+Secretario Municipal y
+
+de Alcaldía Habilitada Gr. 8 18
+
+Juez Policía Local 8 16
+
+Secretario Juzgado Policía Local 11 19
+
+Inspector Tránsito y Patentes 20 23
+
+Planta de Obreros
+
+Mayordomo 6° 25
+
+Jardinero 8° 27
+
+Chofer 8° 27
+
+Obrero 7° 28
+
+Obrero 8° 29
+
+Obreros 9° 30
+
+Auxiliar 10° 32
+
+El o los cargos de Secretario Juzgado Policía Local grado 19, se convertirán en grado 22 al quedar vacantes.
+
+El o los cargos de Obreros Gr. 30, se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Auxiliar Gr. 32, se convertirán en Gr. 35 al quedar vacantes.
+
+MUNICIPALIDAD DE ZAPALLAR
+
+#### Artículo 277°
+
+Fíjase, a contar del 1° de Enero de 1974, para los trabajadores de la Municipalidad de Zapallar, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado Escala Grado Escala
+
+Nombre del Cargo Municipal Unica
+
+-------------------------------------------------------
+
+Planta Directiva,
+
+Profesional y Técnica
+
+Alcalde Gr. 4° 14
+
+Secretario Munic. y Alcaldía 4° 17
+
+Juez Policía Local y Abogado 4° 15
+
+Director Obras Municipales 12° 17
+
+Planta Administrativa
+
+Secretario Juzgado Policía Local 11 19
+
+Inspector Aseo, Jardines y Obras 11 23
+
+Mayordomo Parques y Jardines 11 25
+
+Choferes 13 26
+
+Planta Obreros
+
+Obreros 3° 31
+
+El o los cargos de Secretario Juzgado de Policía Local grado 19, se convertirán en grado 21 al quedar vacantes.
+
+El o los cargos de Choferes Gr. 26, se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Obreros Gr. 31, se convertirán en grado 35 al quedar vacantes.
+
+#### Artículo 278°
+
+Los Jueces de Policía Local, los Directores de Obras y demás Jefes o Directores, los profesionales universitarios y en general todo el personal que preste servicios en las Municipalidades, sólo tendrán derecho al total de la remuneración asignada al grado respectivo cuando sirvan a jornada completa, entendiéndose por tal la fijada en el inciso primero del artículo 21° del decreto ley N° 249, de 1974.
+
+El personal referido podrá contratar, en diversas Municipalidades, jornadas parciales de trabajo, de acuerdo con lo establecido en los incisos segundo y tercero del mismo artículo 21°, según el texto fijado en el artículo 2° del decreto ley N° 479, de 1974, pero la suma de las jornadas parciales no podrá exceder de 44 horas semanales y en cada una de ellas ganará la remuneración proporcional a la establecida para la jornada completa correspondiente.
+
+#### Artículo 279°
+
+Reitérese que, por aplicación del artículo 30° del decreto ley N° 249, de 1974, han quedado derogadas todas las disposiciones de cualquier índole que concedían en beneficio de los trabajadores de las Municipalidades del país, cualquier clase de remuneraciones distintas de las establecidas o mantenidas en aquel cuerpo legal y en el decreto ley N° 479, de 1974.
+
+Entiéndese, asimismo, expresamente derogada toda disposición orgánica o estatutaria aplicable a las Municipalidades, que sea contraria o incompatible con las contenidas en el presente decreto ley y en el decreto ley N° 249, de 1974.
+
+#### Artículo 280°
+
+Los trabajadores a que se refiere este decreto ley a quienes corresponda ascender dentro de su respectivo escalafón, sólo tendrán derecho a obtener como consecuencia de la promoción un aumento de hasta dos grados en la Escala Unica del artículo 1° del decreto ley, N° 249, de 1974. Si no existiere en la planta respectiva el grado correspondiente, el grado del cargo vacante se transformará automáticamente en aquel que permita la aplicación de esta norma.
+
+#### Artículo 281°
+
+Descuéntese del pago que proceda efectuar por aplicación del presente decreto ley las cantidades percibidas por concepto de anticipos de remuneraciones concedidos por los artículos 35° del decreto ley N° 233, de 1973, y 16° del decreto ley N° 272, de 1974, complementados por los artículos 14 del decreto ley N° 361, 7° del decreto ley N° 472, 14 del decreto ley N° 479 y 12 del decreto ley N° 550, todos de 1974, como asimismo las cantidades correspondientes a cuotas y servicio de deudas de previsión y otros descuentos permitidos por las leyes, que se encuentren pendientes.
+
+Condónanse las cantidades percibidas en exceso por concepto de los referidos anticipos, que no alcancen a ser descontados en virtud de lo establecido en el inciso anterior, las que en consecuencia no serán reintegradas por los interesados.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Jorge Cauas Lama Ministro de Hacienda.
+
+Lo que transcribo a U. para su conocimiento.- Saluda atentamente a U.- Pedro Larrondo Jara, Capitán de Navio (AB) Subsecretario de Hacienda.
