@@ -1,0 +1,3 @@
+Por resolución Nº 372, de 8 de febrero de 2002, de esta Subsecretaría, autorízase a JOSE ADALIO GUINEO NANCUCHEO, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Ruta 5, Recta Chacao Km. 25, comuna de Ancud, X Región, donde podrá procesar en las líneas de elaboración que se indican los siguientes recursos hidrobiológicos: Seco-Salado: Pelillo, Luga Luga y Luga roja.
+
+Valparaíso, 8 de febrero de 2002.- Edith Saa Collantes, Subsecretaria de Pesca (S).
