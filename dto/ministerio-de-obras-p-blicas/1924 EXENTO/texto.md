@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.924, de 28 de diciembre de 2001, se modificó el decreto MOP Nº 120, de 28 de febrero de 2001, en el sentido que corresponde formalizar la expropiación por la vía judicial del lote de terreno Nº 2, autorizando la consignación del monto provisional de la expropiación, en la cantidad de $318.810.- El pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
