@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 566, de 30 de junio de 1997, se expropiaron los lotes de terreno Nºs. 58, 84, 109 y 111, superficies 417,90, 34,00, 5.722,00 y 281,00 M2. respectivamente, roles de avalúo 251-134, 246-35 y en trámite, comunas de Quinta de Tilcoco y San Vicente de Tagua Tagua, para la obra Camino Quinta de Tilcoco - Cruce Ruta 66, Sector El Manzano de Zúñiga - La Mediagua - Tunca El Medio y La Estacada y se acordó precio de indemnización con sus propietarios Alinda Zamorano Zamorano, Hugo Astudillo Núñez y María Horta Contreras, ascendentes a las cantidades de $944.954, $344.199.- y $5.771.346.-
+
+Fiscal del Ministerio de Obras Públicas.
