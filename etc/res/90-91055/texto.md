@@ -1,0 +1,3 @@
+Por Resolución N° 90, de 21 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por COMPAÑIA INMOBILIARIA Y DE INVERSIONES TRICELTA LIMITADA, para ampliar el plazo de inicio de actividades pesqueras extractivas autorizadas por Resolución Nº 284 de 1996 de esta Subsecretaría, por no haberse acreditado debidamente una causal de caso fortuito o fuerza mayor.
+
+Valparaíso, 21 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
