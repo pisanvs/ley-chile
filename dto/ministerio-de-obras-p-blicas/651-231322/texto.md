@@ -1,0 +1,3 @@
+Por decreto MOP Nº 651 de fecha 29 de julio del 2004, se expropió el lote de terreno Nº 64-1, superficie 3.252 M2, Rol Nº 375-24, comuna El Quisco, V Región para la obra "Red Vial Litoral Central Sector 1: Nuevo Camino Costero Subtramo: Las Cruces - Algarrobo Km. 18.020,00 al Km. 20.400,00", y se acordó el valor de indemnización con su propietario José Daniel Díaz Ramírez y Otros, ascendente a la cantidad de $4.182.305.
+
+- Fiscal del Ministerio de Obras Públicas.
