@@ -1,0 +1,5 @@
+Por resolución Nº 698, de 20 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA CORONEL S.A., para ampliar las actividades pesqueras autorizadas por resoluciones Nº 771 de 1993, Nº 933, Nº 934 y Nº 1.498 de 1997, todas de esta Subsecretaría, en orden a operar la nave "Antartic", en el litoral de la V a la VII, IX y X Regiones, por fuera de las 60 millas náuticas medidas desde la costa, donde podrá capturar con red de arrastre de media agua los siguientes recursos hidrobiológicos: Anchoveta, Caballa, Cojinoba del norte, Jurel, Merluza de cola, Sardina española y Sardina común.
+
+Deniégase la autorización solicitada por la peticionaria respecto de los recursos hidrobiológicos y las áreas de pesca no contemplados en la presente resolución, en virtud de los informes técnicos y normas legales y reglamentarias.
+
+Valparaíso, 20 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
