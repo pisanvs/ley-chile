@@ -1,0 +1,5 @@
+Por resolución Nº 486, de 29 de marzo de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 893 de 1991, que autorizó a PESQUERA COJINOVA LTDA., para operar la nave ''Libas'', sólo en lo relativo a las especies Cojinoba del norte, Tollo, Merluza común y Lisa en el litoral de la I y II regiones; Agujilla, Anchoveta, Caballa, Jurel en el litoral de la III y IV regiones.
+
+Asimismo, cadúcase parcialmente la resolución Nº 83 de 1994, de esta Subsecretaría, sólo en lo relativo a la operación de la nave señalada precedentemente respecto de los recursos Sardina española, Sardina común, Machuelo o tritre, Cojinoba del norte en el litoral de la III y IV regiones y Merluza común en el litoral de la III Región.
+
+Valparaíso, 29 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
