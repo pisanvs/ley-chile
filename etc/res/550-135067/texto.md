@@ -1,0 +1,5 @@
+Por resolución Nº 550, 9 de abril de 1999, de esta Subsecretaría, modifícase la resolución Nº 168, de 1997, de esta Subsecretaría, que autorizó a ALIMENTOS MARINOS S.A. para operar con la nave ''Santa Irene'', en el sentido de reemplazar el inciso primero de su numeral sexto por el siguiente:
+
+''La solicitante deberá empezar a operar dentro del plazo de un año contado desde el 30 de junio de 1996, fecha de los últimos desembarques registrados en el Servicio Nacional de Pesca por las naves sustituidas, y respecto de la pesquería de la X Región dentro del plazo de dos años contados desde la publicación de la presente resolución, todo ello bajo apercibimiento de incurrir en la caducidad de la autorización de conformidad con lo dispuesto en el artículo Nº 143 letra b) del D.S. Nº 430 de 1991 del Ministerio de Economía, Fomento y Reconstrucción''.
+
+Valparaíso, 9 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
