@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 23 EXENTA, DE FECHA 23 DE ABRIL DE 2003
+
+Por Res. Ex. Nº23 del 23 de abril de 2003, se autoriza a la empresa Supermercados Montecarlo S.A., RUT. 83.681.900-4, para emitir y recibir documentos tributarios electrónicos a partir del mes de junio de 2003. Los documentos autorizados a emitir son los siguientes: Facturas Electrónicas, Facturas Electrónicas de Ventas y Servicios no afectos o exentos de IVA, Notas de Crédito Electrónicas, Notas de Débito Electrónicas y Guías de Despacho Electrónicas. En la citada resolución se establecen los procedimientos que deberá cumplir el contribuyente individualizado para la generación de dichos documentos, su envío al Servicio de Impuestos Internos y a los receptores electrónicos, su otorgamiento a los receptores no electrónicos, su almacenamiento en medios electrónicos y su registro en archivos electrónicos. El texto íntegro de esta resolución se encuentra incluido en el sitio Web del Servicio de Impuestos Internos en Internet, cuya dirección es http://www.sii.cl.
+
+- Gina Anastasov Aguilera, Secretaria General.
