@@ -1,0 +1,5 @@
+Por decreto MOP Nº 5.423, de 29 de diciembre de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 6-5 para la obra: Camino. Santiago Colina Los Andes. Sector C Peldehue Casas de Chacabuco. Enlace El Colorado Km.
+
+36.220,00 al Km. 36.800,00; Región Metropolitana, que figura a nombre de Garbarino Guerrini Virgilio, rol de avalúo 186-14, comuna de Colina, superficie 8.313 m2. La comisión de peritos integrada por los señores Gustavo Domínguez Errázuriz, María Cristina Camus Palacios y Carmen Pilar Ríos Marcuello, fijó con fecha 31 de agosto de 2000, el valor provisional de la indemnización en la cantidad de $24.553.900.- La indemnización de pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
