@@ -1,0 +1,3 @@
+Resolución 355, 13 diciembre 1993, SERVIU Región del Bío Bío ordenó expropiación total, conforme art. 51 Ley 16.391, y D.L. 2186 de 1978, para programa obras infraestructura, inmueble ubicado en Avda. Arturo Prat N° 1431, rol de avalúos N° 618-10, comuna de Concepción, aparente dominio de Empresa de los Ferrocarriles del Estado. Comisión integrada por Peritos Sres. Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 23 de noviembre de 1993, fijó monto provisional indemnización en $ 14.525.000, pagadera al contado.
+
+Director SERVIU Región del Bío Bío.
