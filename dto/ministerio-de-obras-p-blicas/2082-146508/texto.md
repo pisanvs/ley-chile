@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.082, de 30 de julio de 1999, se expropió el lote de terreno Nº75-6, superficie 551,0 m2., rol de avalúo 217-11, comuna de Perquenco, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco'', Novena Región y se acordó el valor de indemnización con su propietario José Ignacio Cayumil Moena, ascendente a la cantidad de $1.408.166.-
+
+Fiscal del Ministerio de Obras Públicas.
