@@ -1,0 +1,3 @@
+Por resolución No. 603, de 20.06.89 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2186 de 1978, parte inmueble ubicado Avda. Santa Isabel No. 321, presunto rol avalúos No. 584-15, comuna de Santiago, aparentemente dominio de don Cristián Ruiz Fernández, Comisión integrada por peritos Italo Núñez Núñez y Hernán Monckeberg Barros, arquitectos y Jorge Cavagnaro Michelis, ingeniero civil, según informe de 26 de diciembre de 1988, fijó monto provisional indemnizacion en $ 2.299.725.- pagadera al contado.
+
+Director SERVIU Metropolitano.
