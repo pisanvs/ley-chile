@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.066, de 27 de octubre de 2004, de esta Subsecretaría, rectifícase el numeral 3.- de la resolución Nº 1.983 de 2004, de esta Subsecretaría, que otorgó a JOSE ARMANDO RODRIGUEZ ENCALADA, una autorización de acuicultura para una piscicultura ubicada en río Picaflor, cerro Guacho, XI Región, en el sentido de agregar que las aguas requeridas para las actividades deberán provenir de estero sin nombre, además del río Picaflor ya indicado.
+
+Valparaíso, 27 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
