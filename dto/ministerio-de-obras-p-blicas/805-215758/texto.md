@@ -1,0 +1,3 @@
+Por decreto MOP Nº 805 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 88, superficie 2.758,00 m², rol Nº 62-34, comuna de Lampa, Región Metropolitana para la obra "Camino Ruta G-16, sector Lampa - Polpaico, tramo Km. 19,72359 a Km. 34,51667" y se acordó el valor de indemnización con su propietario Hugo Gustavo Raúl Berland Martínez, ascendente a la cantidad de $7.536.235.
+
+- Fiscal del Ministerio de Obras Públicas.
