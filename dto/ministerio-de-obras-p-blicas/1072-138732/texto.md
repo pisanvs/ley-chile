@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.072, de 29 de abril de 1999, se expropiaron los lotes de terreno No. s.20 y 20-A, superficies 86 m2 y 2.099 m2., rol de avalúo 4426-2, comuna de San Bernardo, para la obra "Estudio de Anteproyecto e Ingeniería para el Sistema Norte-Sur, sector Ruta 5 Sur-Departamental y sector Eje General Velásquez", Región Metropolitana y se acordó el valor de indemnización con su propietaria Reino Messina S.A., ascendente a la cantidad total de $ 80.287.550.-
+
+Fiscal del Ministerio de Obras Públicas.
