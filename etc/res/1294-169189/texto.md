@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA ITATA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS; DEJA SIN EFECTO EL NUMERAL 2° DE RESOLUCION N° 341, DE 1982
+
+Por resolución N° 1.294 de 04 de Noviembre de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Itata Limitada, domiciliada en Santiago, para ampliar actividades pesqueras autorizadas por resolución N° 984, de 1986, de esta Subsecretaría, en orden a operar la embarcación "Atacama I", en el litoral de las Regiones VII a IX, donde podrá capturar los siguientes recursos hidrobiológicos: Sardina común, sierra, machuelo, cochinilla, cojinova del sur, anchoveta, sardina española, jurel y agujilla. Se deja sin efecto en el numeral 2° de la resolución N° 341, de 1982, de esta Subsecretaría, la autorización otorgada a Sociedad Pesquera Atacama S.A., para operar la nave "Atacama I".
+
+Valparaíso, 04 de Noviembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
