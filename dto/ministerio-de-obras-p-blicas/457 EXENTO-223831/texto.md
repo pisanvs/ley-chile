@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 457 de fecha 26 de marzo de 2004, se expropió el lote de terreno Nº 23-B, superficie 462 m2, rol Nº 306-282, comuna de Laja, VIII Región para la obra "Camino Ruta Q-90, Sector Cruce Longitudinal-Laja, Km. 0,00000 al 35,53000" y se acordó el valor de indemnización con su propietario Bernardo Enrique Faúndez Márquez, ascendente a la cantidad de $930.938.
+
+Fiscal del Ministerio de Obras Públicas.
