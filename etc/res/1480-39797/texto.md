@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 1.480 de 04.11.93, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autoriza complementariamente a la empresa de origen argentino La Unión del Sud Sociedad de Responsabilidad Limitada, para efectuar servicio internacional de transporte terrestre de pasajeros entre Zapala-Neuquén (Argentina) y Temuco-Concepción (Chile), efectuando dos (2) frecuencias semanales, adicionales a las otorgadas por Resolución N° 529/89, durante el período comprendido entre el 15 de Noviembre y el 15 de Marzo de cada año.-
+
+Sergio González Tagle, Subsecretario de Transportes.
