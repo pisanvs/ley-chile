@@ -1,0 +1,3 @@
+Por Resolución N° 281, de 27 de Abril de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por 90 días a contar del 29 de abril de 1993, el plazo otorgado al INSTITUTO DE FOMENTO PESQUERO, R.U.T. N° 61.310.000-8, en el numeral 5° de la Resolución N° 138, de 1993, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 27 de Abril de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
