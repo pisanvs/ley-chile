@@ -1,0 +1,3 @@
+Por decreto MOP Nº 312 de fecha 31 de marzo del 2003, se expropiaron los lotes de terreno Nos 1, 2, superficie 646,00, 230 m² respectivamente, rol de avalúo Nº 321-4, comuna de Buin, Región Metropolitana para la obra "Camino Alto Jahuel-Huelquén, Rol 5 G-515-H, sector Alto Jahuel hacia Huelquén, de Km. 0.870 a Km. 9.923", y se acordó el valor de indemnización con su propietario Comité Hab. y Social de Allegados Clotario Blest, ascendente a la cantidad de $5.104.922.
+
+Fiscal del Ministerio de Obras Públicas.
