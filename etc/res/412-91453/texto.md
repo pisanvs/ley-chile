@@ -1,0 +1,3 @@
+Por Resolución No. 412, de 08 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación conforme DL 2.186, de 1978, inmueble ubicado en calle Ricardo Santa Cruz No. 561 - 557, presunto rol avalúos 592-24, comuna Santiago, aparentemente dominio de don Emilio Soza C. y otros. Comisión integrada por peritos Sres. José Miguel Haltenhoff Aenishanslin y Carlos del Pedregal Sánchez, constructores civiles, y Teresa Sánchez Pernas arquitecto, según informe de 01.12.88, fijó monto provisional indemnización en $ 3.847.500.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
