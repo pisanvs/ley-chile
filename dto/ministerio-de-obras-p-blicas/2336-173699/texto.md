@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.336, de 30 de mayo del 2000, se expropió el lote de terreno Nº50, superficie 207 m2, rol de avalúo 5462-16, comuna de La Granja, para la obra Concesión Internacional Ruta 5, Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Josías Héctor Medling Traslaviña, ascendente a la cantidad de $17.174.698.
+
+Fiscal del Ministerio de Obras Públicas.
