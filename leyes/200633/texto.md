@@ -24,7 +24,7 @@ Las Municipalidades que el Presidente de la República establezca solo podrán s
 
 Cada Municipalidad se compone de nueve miembros, tres de los cuales serán alcaldes i los demas rejidores.
 
-En los territorios municipales cuya poblacion exceda de veinte mil habitantes, se elejirá un municipal mas por cada fraccion de diez mil.
+En los territorios municipales cuya poblacion exceda de veinte mil habitantes, se elejirán dos municipales mas por cada diez mil habitantes de exceso.
 
 En la parte urbana de las poblaciones de Santiago i Valparaiso se dividirá el territorio municipal, por el Presidente de la República, en diez i en cinco circunscripciones respectivamente. Cada una de estas circunscripciones elejirá tres municipales i la Municipalidad se compondrá de la totalidad de los municipales elejidos por las circunscripciones.
 
