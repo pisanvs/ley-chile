@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 888, de 30 de junio de 1998, se expropió el lote terreno No. 2, superficie 254,2 m2., rol en trámite, comuna de San Javier, para la obra camino San Javier-Constitución, sector Puente Tabón Tinaja y se acordó precio de la indemnización con su propietaria Sociedad Agrícola Las Mercedes de Maipo S.A., ascendentes a la cantidad de $ 172.501.
+
+- Fiscal del Ministerio de Obras Públicas.
