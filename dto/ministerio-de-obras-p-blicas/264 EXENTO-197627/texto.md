@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº264, de fecha 22 de marzo de 2002, se expropió el lote de terreno Nº3, superficie 510 M2, rol de avalúo 52-43, comuna de Pumanque, VI Región, para la obra "Camino San Fernando - Roma, Rol I-301, I-255, I-151, km. 0.000 al 10,954264" y se acordó el valor de indemnización con su propietario don Luis Alberto Galves Guajardo, ascendente a la cantidad de $1.449.087.-
+
+Fiscal del Ministerio de Obras Públicas.
