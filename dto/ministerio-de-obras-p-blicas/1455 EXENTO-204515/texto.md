@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.455, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº106, superficie 87 m², rol de avalúo 194-2, comuna de Longaví, VII Región, para la obra ''Camino Ruta L-49, Cruce Long. - Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 al 13,841.12'' y se acordó el valor de indemnización con su propietario don José Eleuterio Ibáñez Aravena, ascendente a la cantidad de $460.090.-
+
+Fiscal del Ministerio de Obras Públicas.
