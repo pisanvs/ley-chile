@@ -10,7 +10,7 @@ Apruébase el siguiente Reglamento de Importaciones para los funcionarios admini
 
 1º.- Los funcionarios administrativos y técnicos de las Misiones Diplomáticas y de las Representaciones Consulares de Carrera podrán importar, exentos de toda clase de derechos de aduana, impuestos y gravámenes conexos, los efectos y objetos destinados a su uso personal y de sus familias al efectuar su primera instalación. El valor total de estos efectos y objetos no podrá exceder de US$ 20.000 (veinte mil dólares) FOB, y el uso de esta franquicia deberá ejercerse dentro del plazo de un año, contados desde la fecha de su acreditación, mediante estricta reciprocidad.
 
-En este mismo plazo los funcionarios citados podrán importar un único automóvil para su uso, cuyo valor FOB no exceda de US$ 1.500 (un mil quinientos dólares) exento de derechos de aduana, impuestos y gravámenes conexos.
+En este mismo plazo los funcionarios citados podrán importar un único automóvil para su uso, exento de derechos de aduana, impuestos y gravámenes conexos.
 
 Con todo, este plazo podrá ser ampliado por causa de fuerza mayor o circunstancias especiales, previa calificación del Ministerio de Relaciones Exteriores.
 
