@@ -1,0 +1,3 @@
+Por decreto MOP Nº526 de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº15, superficie 13.330 m², Rol de avalúo 70-15, comuna de Negrete, para la obra "Camino Ruta Q-80, Sector Ruta 5-Negrete, Tramo II: Km. 0,00000 a Km. 29,93300" y se acordó el valor de indemnización con su propietario Monrado Vyhmeister Butendieck, ascendente a la cantidad de $12.668.258.
+
+Fiscal del Ministerio de Obras Públicas.
