@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.511, de fecha 30 de agosto de 2002, se expropiaron los lotes de terreno Nº3-A y 3-B, superficies 421,00 y 13,00 m2, rol de avalúo 1439-35, comuna de Puerto Varas, para la obra ''Camino Ruta V-505, Sector Puerto Varas - Los Alerces - Puerto Montt, Km. 0,0000 al 16,340, Provincia de Llanquihue'', X Región y se acordó el valor de indemnización con su propietario Alejandrino Aguilar Navarro, ascendente a la cantidad de $3.301.775.
+
+Fiscal del Ministerio de Obras Públicas.
