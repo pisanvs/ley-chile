@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 171 de 14 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a las parcelas Nos. 1 a la 11, sitios N°s. 1 al 12 y bienes comunes generales N°s. 1 y 2 del proyecto de parcelación "Casas Viejas" formado por predio "Hijuela Rautén uno - o primera C", de la comuna de Quillota, Quinta Región. Los derechos de aguas se extraen del canal Rautén y del canal Mauco.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
