@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.684, de 29 de octubre de 2003, de esta Subsecretaría, autorízase a ISMAEL MADARIAGA OLIVARES para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en sector Punta Salinas s/n, Chañaral, III Región, donde podrá elaborar en la línea de proceso que se indica, los siguientes recursos hidrobiólogicos: Alga Seca: Chascón, Huiro negro y Chascón, Huiro palo, Palo colorado.
+
+Valparaíso, 29 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
