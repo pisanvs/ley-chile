@@ -1,0 +1,5 @@
+Por resolución de la Fiscalía del Ministerio de Obras Públicas F. No. 62, de 24.10.88, se ha ordenado pagar a las personas que a continuación se indican o a quienes acrediten derecho, como valor del 100% del avalúo fijado por la Comisión de Hombres Buenos más su reajuste para los lotes expropiados para Mejoramiento General Sistema de Agua Potable de Calbuco, cuyas superficies y roles de avalúo de la Comuna de Calbuco se indican: Lote 1: Ismael Ralil Gutiérrez, 2.000 m2., rol 171-16, $ 34.160; lote 2: Julio Martín Daraccian, 11.000 m2., rol 169-1, $ 187.880 y lote 3: Sucesión Aguilar, 4.700 m2., rol 171-22, $ 111.874. Se deja constancia que el plazo para reclamar judicialmente del avalúo es de 30 días contados desde la fecha de la 2a. publicación que se hará en un periódico de la X Región.-
+
+Fiscal del Ministerio de Obras Públicas.
+
+(15)
