@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.834, de 8 de agosto de 2003, de esta Subsecretaría, autorízase a PESQUERA AVENDAÑO CARDENAS LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en la Comuna de Quellón, sector rural Curanue s/n, X Región, donde podrá procesar, en la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Conserva: Almeja o taca, Abalón rojo, Jaiba patuda, Jaiba panchote, Caracol locate, Caracol palo palo, Caracol picuyo, Caracol trumulco, Centolla, Centollón, Culengue, Cholga, Chorito, Choro, Erizo, Jaiba limón, Jaiba marmola, Jaiba mora, Jaiba peluda o pachona, Jaiba reina, Jaiba remadora, Lapa, Loco, Macha, Navaja de mar o Huepo, Navajuela, Ostión del norte, Ostión del sur Chlamys vitrea, Ostión del sur Chlamys patagonica, Ostra chilena, Ostra del Pacífico, Pepino de mar, Picoroco, Piure y Pulpo.
+
+Déjase sin efecto las resoluciones Nº 436 y Nº 882, ambas de 1997, de esta Subsecretaría, en virtud del contenido de la presente resolución.
+
+Valparaíso, 8 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
