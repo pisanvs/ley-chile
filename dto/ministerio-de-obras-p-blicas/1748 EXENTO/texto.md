@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.748, de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº 65, superficie 1.190 m2, Rol Nº 187-78, comuna de San Vicente, VI Región, para la obra ''Proyecto Mejoramiento Ruta H-830, Sector San Vicente - El Cardal - Millahue, Tramo Km. 0,000 al Km. 8,622'', y se acordó el valor de indemnización con su propietaria María Luisa Paredes Rosales y Otros ascendente a la cantidad de $1.194.260.
+
+Fiscal del Ministerio de Obras Públicas.
