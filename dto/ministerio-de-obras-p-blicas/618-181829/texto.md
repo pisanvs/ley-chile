@@ -1,0 +1,3 @@
+Por decreto MOP Nº 618, de 29 de febrero de 2000, se ordenó la expropiación y aprobó el plano y cuadro de expropiación del lote de terreno Nº 20, y por decreto MOP exento Nº 277, de 29 de diciembre de 2000, se autorizó el valor de la consignación provisional de la expropiación por la vía judicial, en la cantidad de $991.600.- necesario para la ejecución de la obra ''Mejoramiento Ruta H-577, Sector Rengo-Rinconada de Malambo, Km. 0.000 a Km. 1.914,565'', el pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
