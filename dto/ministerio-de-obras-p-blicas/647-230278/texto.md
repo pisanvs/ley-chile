@@ -1,0 +1,3 @@
+Por decreto MOP Nº 647 de fecha 29 de julio del 2004, se expropiaron los lotes de terreno Nº s 52 y 56, superficies 5.536 y 3.300 m²., respectivamente, Rol Nº 334-9, comuna de Laja, VIII Región para la obra "Camino Ruta Q-34, Candelaria-La Laja, Sector Millantu-La Laja, Km. 20,00000 a Km. 35,88380" y se acordó el valor de indemnización con su propietario Aníbal Alberto Burgos Burgos, ascendente a la cantidad de $6.128.534.-
+
+Fiscal del Ministerio de Obras Públicas.
