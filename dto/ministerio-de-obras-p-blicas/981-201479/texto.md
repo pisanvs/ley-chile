@@ -1,0 +1,3 @@
+Por decreto MOP Nº981, de 3 de junio de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nos 1-A y 2, para la obra Estudio de Ingeniería Alternativa Ruta A-55, sector Colchane-Límite, que figuran a nombre de Mariano García Castro, rol de avalúo 857-039, superficies 21.000 m² y 99.225 m², comuna de Colchane. La Comisión de Peritos, con fecha 30 de octubre de 2001, fijó la indemnización provisional en las cantidades de $4.200.000, lote 1-A y $19.845.000, lote 2, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
