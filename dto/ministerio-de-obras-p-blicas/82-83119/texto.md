@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº 82 de 22 de Marzo de 1990 y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P.
+
+Nº 294, de 1984, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 3, para la ejecución de la obra Ampliación y Reposición Ruta 150, Concepción-Lirquén, sector Penco-Lirquén, VIII Región, que figura a nombre de Agrícola y Forestal Dichoco Ltda., rol de avalúo 1280-33, Comuna de Penco, superficie 2.521 m2. Deslindes: Norte: Camino acceso Villa Italia; Este: Resto del predio; Sur: Manuel E. Roa V. y Oeste: Camino público. La Comisión de Peritos compuesta por los Sres. Manuel Concha Rojas, José Manuel Gálvez Alegría y Ramón Jofré Soto, fijó con fecha 25 de Julio de 1989, el valor provisional de la indemnización en la cantidad de $ 1.512.600.-. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley No. 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
