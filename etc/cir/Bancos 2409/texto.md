@@ -1210,15 +1210,9 @@ CAPITULO 1-11 (Bancos)
 
 MATERIA:
 
-El Capítulo XXVI del título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, permite a las sociedades anónimas constituidas en Chile, incluidas las del giro bancario, transar sus acciones en el extranjero mediante el sistema de títulos representativos de esos valores, como es el caso de los American Depositary Receipts (ADR).
+COLOCACION DE ACCIONES EN EL EXTRANJERO MEDIANTE SISTEMA DE TITULOS REPRESENTATIVOS.
 
-Atendida la necesidad de regular la forma en que los bancos pueden efectuar tales operaciones considerando lo dispuesto en los artículos 36 y 84 N° 2 COLOCACION DE ACCIONES EN EL EXTRANJERO MEDIANTE SISTEMA DE TITULOS REPRESENTATIVOS.
-
-Los bancos que, sobre la base de las disposiciones contenidas en el Capítulo XXVI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, estén facultados para colocar acciones en el exterior mediante el sistema de títulos representativos, deberán considerar que de la tenencia de tales instrumentos se derivan ciertas restricciones legales y reglamentarias para las personas que sean sus titulares, como así también el cumplimiento de determinadas obligaciones para las empresas emisoras.
-
-Dado que ese sistema consiste en la emisión y venta de acciones por sociedades anónimas constituidas en Chile a un Banco extranjero autorizado para tal efecto por el Instituto Emisor, el que, a su vez, emite títulos representativos de las acciones que ha adquirido, es necesario resolver en el caso de los bancos, la situación de los inversionistas en relación con el cumplimiento de lo dispuesto en los artículos 65 N° 18 y 84 N° 2 de la Ley General de Bancos.
-
-Para ese efecto, junto con dar cumplimiento a las demás disposiciones que rigen la materia, los bancos que coloquen sus acciones mediante títulos representativos emitidos en el exterior, deberán ceñirse a las siguientes instrucciones específicas:
+Los bancos que coloquen acciones en el exterior mediante sistemas de títulos representativos, junto con dar cumplimiento a las demás disposiciones que rigen la materia, deberán ceñirse a las siguientes instrucciones específicas en relación con lo dispuesto en los artículos 36 y 84 N° 2 de la Ley General de Bancos.
 
 ### 1. Información a los potenciales adquirentes de títulos representativos
 
@@ -6774,11 +6768,11 @@ Por otra parte, debe entenderse que las normas generales en materia de reajustes
 
 2.2.2.- Operaciones pagaderas en moneda extranjera.
 
-Las operaciones pagaderas en moneda extranjera no pueden indexarse a otras monedas o unidades de valor, con excepción de aquellas de financiamiento externo reguladas en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales que se señalan a continuación:
+Las operaciones pagaderas en moneda extranjera no pueden indexarse a otras monedas o unidades de valor, con excepción de aquellas operaciones de financiamiento externo reguladas en el Capítulo XIII del Compendio de Normas de Cambios Internacionales que se señalan a continuación:
 
-a) Los bonos emitidos a un plazo igual o superior a cuatro años, podrán expresarse en pesos o en Unidades de Fomento, según lo previsto en el referido Capítulo XIII.
+a) Los bonos emitidos para ser colocados en el exterior, podrán expresarse en pesos o en Unidades de Fomento.
 
-b) Los créditos obtenidos en el exterior podrán pactarse en las unidades de cuenta que se indican en el Anexo N° 3 del Capítulo I del Título I del Compendio antes mencionado, esto es: Derecho Especial de Giro del Fondo Monetario Internacional, Unidad de Cuenta del Banco Interamericano de Desarrollo, Onza Troy Oro y Onza Troy Plata.
+b) Los créditos obtenidos en el exterior podrán pactarse en las unidades de cuenta que se indican en el Capítulo XIII antes mencionado.
 
 2.3- Publicación de valores de los sistemas de reajustabilidad.
 
@@ -6998,9 +6992,9 @@ Para el cálculo de intereses de documentos descontados, es improcedente el carg
 
 A fin de prever eventuales confusiones por la similitud financiera entre las operaciones en moneda nacional reajustables por el valor del dólar de los Estados Unidos de América y las operaciones expresadas en dólares y pagaderas en pesos que las instituciones financieras pueden realizar, conviene mencionar las diferencias que existen entre ambas, de acuerdo con las normas vigentes;
 
-Las obligaciones en moneda nacional reajustables por el valor del dólar deben pagarse reajustadas utilizando como unidad referencial de reajuste el tipo de cambio informado por el Banco Central de Chile. El interés máximo convencional aplicable a estas operaciones es el que corresponde a los créditos reajustables en general, señalado en la letra e) del numeral 6.1 de este titulo.
+Las obligaciones en moneda nacional reajustables por el valor del dólar deben pagarse reajustadas utilizando como unidad referencial de reajuste el tipo de cambio informado por el Banco Central de Chile. El interés máximo convencional aplicable a estas operaciones es el que corresponde a los créditos reajustables en general, señalado en la letra f) del numeral 6.1 de este titulo.
 
-En cambio, las obligaciones expresadas en moneda extranjera deben solucionarse por su equivalente en moneda chilena al tipo de cambio vendedor del día de pago, según lo dispuesto en el artículo 20 de la Ley N° 18.010. El interés máximo convencional aplicable en este caso, es el correspondiente a los créditos en dólares de EE.UU. de América o expresados en moneda extranjera, señalado en la letra f) del numeral 5.1 de este título.
+En cambio, las obligaciones expresadas en moneda extranjera deben solucionarse por su equivalente en moneda chilena al tipo de cambio vendedor del día de pago, según lo dispuesto en el artículo 20 de la Ley N° 18.010. El interés máximo convencional aplicable en este caso, es el correspondiente a los créditos en dólares de EE.UU. de América o expresados en moneda extranjera, señalado en la letra g) del numeral 5.1 de este título.
 
 Cabe agregar también que el artículo 24 de la Ley 18.010 deja expresamente establecido que en esas obligaciones expresadas en moneda extranjera, pagaderas en pesos, no puede pactarse otra forma de reajuste que la que llevan implícita.
 
@@ -7574,21 +7568,17 @@ Los bancos registrarán las líneas de crédito que obtengan en el extranjero en
 
 Los gastos por comisiones de estas líneas de crédito se imputarán a la cuenta "Comisiones pagadas por financiamientos del exterior", de la partida 5510.
 
-X.- FINANCIAMIENTO DE GASTOS LOCALES DE IMPORTACIONES.
-
-Los créditos en moneda extranjera que otorguen los bancos, al amparo de lo dispuesto en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, para financiar gastos locales que originen las importaciones, se incluirán en la cuenta "Préstamos para gastos locales" de la partida 1110 ó 1205, según proceda.
-
-XI.- CREDITOS INTERNOS PARA EXPORTACIONES.
-
-Los créditos en moneda extranjera que otorguen las empresas bancarias para financiar exportaciones de acuerdo con lo establecido en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, se incluirán en la cuenta "Préstamos para exportadores" de la partida 1130 ó 1225, según sea el plazo pactado.
-
-XII.- TRANSFERENCIAS SUJETAS A COMPENSACION POR INTERMEDIO DE UNA SOCIEDAD DE APOYO AL GIRO.
+X.- TRANSFERENCIAS SUJETAS A COMPENSACION POR INTERMEDIO DE UNA SOCIEDAD DE APOYO AL GIRO.
 
 Las instituciones financieras que reciban, por intermedio de una sociedad de apoyo al giro que realice la compensación de pagos y recaudaciones, instrucciones para efectuar pagos a favor de terceros, cursarán los abonos correspondientes con cargo a la cuenta "Operaciones cursadas sujetas a compensación".
 
 Por otra parte, las instituciones financieras que reciban, por intermedio de la sociedad de apoyo que realice la compensación, instrucciones para efectuar recaudaciones de cargo de terceros, cursarán los respectivos débitos con abono a la cuenta "Operaciones cursadas sujetas a compensación". Igual procedimiento aplicarán las instituciones financieras que reciban instrucciones de sus clientes para efectuar pagos a terceros que deban cumplirse por intermedio de otras instituciones financieras, cuyas instrucciones sean canalizadas por la sociedad de apoyo que realice la compensación.
 
 La cuenta antes mencionada será habilitada en la partida 1015, la que reflejará el saldo deudor correspondiente al importe de los vales de cámara que deba recibir la institución financiera como resultado de la compensación, y en la partida 3010, la que reflejará el saldo acreedor correspondiente a los vales de cámara que deba emitir la institución financiera por los importes adeudados con motivo de la compensación.
+
+XI.- INVERSIONES EN ORO.
+
+Las inversiones en oro que las empresas bancarias mantengan de conformidad con lo dispuesto en el N° 18 del artículo 69 de la Ley General de Bancos, serán registradas en pesos oro sellado chileno en la cuenta "Inversiones en oro" de la partida 1775.
 
 CAPITULO 7-6 (Bancos)
 
@@ -7668,11 +7658,9 @@ Los países que merecen esta clasificación son aquellos que no presentan dudas 
 
 Además, el país deberá cumplir las dos condiciones siguientes:
 
-a) Que aparezca clasificado como país "industrializado", por el Fondo Monetario
+a) Que aparezca clasificado como país "industrializado", por el Fondo Monetario Internacional (FMI); y,
 
-Internacional (FMI); y,
-
-b) Que su moneda nacional sea admitida por el Banco Central de Chile para el pago de exportaciones chilenas, conforme a lo establecido en el Capítulo XI del Título II de su Compendio de Normas de Cambios Internacionales.
+b) Que su moneda nacional sea de general aceptación en los mercados internacionales de cambios.
 
 Grupo 2: Países con riesgo normal.
 
@@ -8268,7 +8256,7 @@ todos los factores que incidan en el valor que se le asigne al bien raíz.
 
 5.- Moneda, reajustes y tasa de interés.
 
-Los créditos deberán otorgarse en moneda chilena, pudiendo expresarse en unidades de fomento o en índice valor promedio para efectos de su reajustabilidad. No obstante, las empresas bancarias podrán también otorgar créditos en moneda extranjera, o en pesos indexados a una moneda extranjera en cualquiera de las modalidades indicadas en el N° 3 del Capítulo III.B.1 del Compendio de Normas Financieras, cuando se trate de mutuos hipotecarios para fines generales y siempre que el Directorio del banco acreedor, o su agente en el caso de una sucursal de un banco extranjero, haya establecido políticas relativas a la evaluación del riesgo cambiario de sus deudores y comunicado su adopción a esta Superintendencia.
+Los créditos deberán otorgarse en moneda chilena, pudiendo expresarse en unidades de fomento o en índice valor promedio para efectos de su reajustabilidad. No obstante, las empresas bancarias podrán también otorgar créditos en moneda extranjera, o en pesos indexados a una moneda extranjera en cualquiera de las modalidades indicadas en el N° 3 del Capítulo III.B.1 del Compendio de Normas Financieras, siempre que el Directorio del banco acreedor, o su agente en el caso de una sucursal de un banco extranjero, haya establecido políticas relativas a la evaluación del riesgo cambiario de sus deudores y comunicado su adopción a esta Superintendencia.
 
 La tasa de interés que se acuerde puede ser fija o flotante. La tasa de interés variable debe tener por base la tasa TIP, pactada siguiendo las mismas reglas establecidas para los préstamos en letras de crédito, señaladas en la letra c) del numeral 1.1 del título I del Capítulo 9-1 de esta Recopilación. No obstante, al tratarse de créditos otorgados y pagaderos en moneda extranjera, expresados en moneda extranjera y pagaderos en moneda chilena o bien en pesos moneda chilena reajustables por la variación del tipo de cambio del Dólar de los Estados Unidos de América, la tasa de interés flotante debe tener por base la tasa Prime o Libo.
 
@@ -9582,7 +9570,7 @@ a) Las operaciones con mutuos hipotecarios endosables deben imputarse a las cuen
 
 b) Las adquisiciones o descuentos de documentos en moneda extranjera correspondientes a créditos otorgados a personas residentes en el exterior para financiar operaciones de comercio exterior con Chile, tratados en el Capítulo 13-27 de esta Recopilación, deberán registrarse en las cuentas señaladas en dicho Capítulo.
 
-c) Para las operaciones con cartas de crédito, deben considerarse las cuentas señaladas en el Capítulo 14-1 de esta Recopilación.
+c) Para las operaciones con cartas de crédito, deben considerarse las cuentas señaladas en el Capítulo 14-9 de esta Recopilación.
 
 2.- Ventas de efectos de comercio.
 
@@ -9696,9 +9684,7 @@ e) Depósitos a plazo constituidos en bancos o sociedades financieras del país 
 
 f) Cuotas de fondos mutuos cuyas inversiones estén constituidas sólo por instrumentos de renta fija.
 
-g) Oro sellado, amonedado o en pasta de que trata el Capítulo 8-23 de esta Recopilación.
-
-h) Pagarés por conversión de deuda externa chilena y títulos de la deuda externa chilena, adquiridos en la oportunidad en que las normas del Banco Central de Chile permitieron tales operaciones.
+g) Pagarés por conversión de deuda externa chilena y títulos de la deuda externa chilena, adquiridos en la oportunidad en que las normas del Banco Central de Chile permitieron tales operaciones.
 
 Con todo, se excluye de las Inversiones Financieras cualquier documento que se adquiera con la responsabilidad del cedente, distinto del propio emisor, caso en el que debe registrarse en el activo el crédito contra el respectivo cedente o vendedor, de acuerdo con las disposiciones del Capítulo 8-19 de esta Recopilación.
 
@@ -9791,10 +9777,6 @@ Los documentos de la cartera de inversiones financieras consistentes en valores 
 Las inversiones en cuotas de fondos mutuos de renta fija que mantengan las instituciones financieras, deberán ajustarse, por lo menos al cierre de cada mes, al valor de rescate que tengan las cuotas el día anterior al ajuste.
 
 La diferencia que se produzca entre el valor de rescate y el valor al cual se encuentra registrada la inversión se tratará como intereses ganados.
-
-4.3. Inversiones en oro.
-
-Las inversiones en oro sellado, amonedado o en pasta, quedarán registradas en la forma dispuesta en el Capítulo 8-23 de esta Recopilación Actualizada de Normas.
 
 5. Reconocimiento de las variaciones en los precios de mercado de los instrumentos con mercado secundario.
 
@@ -10183,60 +10165,6 @@ Código
 9261 002 00 Documentos de colocaciones adquiridos con pacto.
 
 Estas cuentas corresponden a la partida 9261 "Documentos adquiridos y cedidos con pacto.
-
-CAPITULO 8-23 (Bancos y Financieras)
-
-MATERIA:
-
-ORO SELLADO CHILENO O EN OTRA FORMA.
-
-I.- INVERSIONES EN ORO.
-
-1. - Adquisición y mantención de inversiones en oro.
-
-Conforme a lo establecido en el Capítulo I del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las transferencias o transacciones de oro sellado chileno o en otra forma que sirva como medio de pago, constituyen operaciones de cambios internacionales. Por consiguiente y en virtud de lo dispuesto en el artículo 115 de la Ley General de Bancos, las sociedades financieras no pueden efectuar tales operaciones.
-
-Por otra parte, debido a que el Instituto Emisor no ha autorizado a las empresas bancarias la mantención de una posición para el efecto, los bancos también están actualmente impedidos de efectuar inversiones en oro. Sin embargo, están facultados para mantener, en calidad de inversión, el oro sellado chileno o en otra forma que adquirieron cuando ello estaba permitido por las regulaciones del Banco Central de Chile.
-
-2.- Enajenación del oro.
-
-Las instituciones bancarias que, al 30 de noviembre de 1990, mantenían inversiones en oro, pueden venderlo en el país o en el exterior, de conformidad con lo dispuesto en el acuerdo 82-17-901213 del Consejo del Banco Central de Chile.
-
-En los casos en que los bancos realicen ventas de oro en el exterior, deberán efectuar dichas operaciones bajo la forma de exportaciones, debiendo dar estricto cumplimiento a las normas aplicables a tales operaciones.
-
-3.- Instrucciones contables.
-
-3.1- Registro de las inversiones en oro.
-
-Las instituciones financieras deben registrar por su equivalente en pesos moneda chilena, el oro que mantengan, utilizando para tal efecto la cotización para representación contable del***D**** oro sellado chileno y el respectivo equivalente, cuando se trate de oro en otra forma. En todo caso, deberá mantenerse un control de la cantidad de unidades en que se exprese el oro que se tenga en calidad de inversión de la empresa.
-
-Estos importes serán registrados en la cuenta "Inversiones en oro", de la partida 1735.
-
-3.2.- Oro entregado en prenda.
-
-Sin perjuicio de lo anterior, las instituciones financieras que entregaren en prenda oro amonedado o en pastas de su propiedad, previa autorización del Instituto Emisor, registrarán el importe correspondiente a la cantidad prendada en la cuenta de orden "Oro entregado en garantía", de la partida 9290.
-
-3.3.- Ajustes de los saldos contables.
-
-El saldo de la cuenta "Inversiones en oro" deberá corregirse, al cierre de cada mes o en las demás oportunidades que esta Superintendencia disponga, de acuerdo con la cotización para representación contable, o bien, por el equivalente de ésta que en cada caso corresponda, cuando se trate de oro distinto al oro sellado chileno. El registro de dicho ajuste se considerará como "corrección monetaria", abonándose o cargándose los resultados por ese concepto, según proceda.
-
-Por la misma cotización antes señalada, o por el equivalente de ésta que corresponda, se deberá ajustar el oro registrado en las cuentas de orden a que se refiere el numeral 3.2 precedente.
-
-4.- Margen de inversiones.
-
-Las inversiones en oro que mantengan las empresas bancarias, quedan afectas al limite de que trata el inciso segundo del artículo 69 de la Ley General de Bancos y el Capítulo 12-10 de esta Recopilación Actualizada de Normas.
-
-II.- ORO EN CUSTODIA.
-
-1.- Recepción de oro en custodia.
-
-Los bancos y las sociedades financieras pueden recibir oro de terceros sólo en la calidad de valores en custodia, debiendo abstenerse de realizar cualquiera operación en ese metal, sea a nombre propio o por cuenta de terceros, a menos que cuenten con una autorización expresa del Banco Central de Chile.
-
-2.- Contabilización del Oro en custodia.
-
-Las instituciones financieras deben registrar por su equivalente en pesos moneda chilena, el oro depositado en custodia, utilizando para tal efecto la cotización para representación contable del oro sellado chileno y el respectivo equivalente, cuando se trate de oro en otra forma En todo caso, deberá mantenerse un control de la cantidad de unidades en que se exprese el oro que se haya recibido en custodia. El registro de estos importe se efectuará en cuentas de orden, de las partidas 9260 y 9900.
-
-Las referidas cuentas de orden deben ajustarse de acuerdo con la cotización para representación contable, o bien, por el equivalente de esta que en cada caso corresponda, cuando se trate de oro distinto al oro sellado chileno.
 
 CAPITULO 8-26 (Bancos y Financieras)
 
@@ -11134,13 +11062,7 @@ En cualquier caso, en las cuentas de orden de que trata esta letra b) debe inclu
 
 3.4. Castigo de créditos en moneda extranjera.
 
-Para castigar operaciones en moneda extranjera que no tienen acceso al mercado de divisas, con cargo a reservas o provisiones en moneda extranjera, las empresas bancarias deben proceder conforme a lo señalado en el Capítulo 13-28 de esta Recopilación.
-
-La contabilización, en este caso, se ceñirá a lo dispuesto en el numeral precedente, debiendo utilizarse, además, el procedimiento descrito en el Capítulo mencionado en el párrafo anterior para rebajar la cuenta de colocaciones en moneda extranjera, con cargo a la cuenta respectiva de la cual se detraigan las divisas que se utilicen para el efecto, de la partida 4520 "Divisas autorizadas como reservas o provisiones".
-
-En los casos en que se castiguen créditos en moneda extranjera que cuenten con acceso autorizado al mercado de divisas, las instituciones bancarias procederán a registrar la venta de la moneda extranjera en la forma que lo hacen habitualmente, con la diferencia de que la moneda chilena será debitada a la correspondiente provisión individual que se hubiere constituido y, si ésta fuere insuficiente, se recurrirá, por la parte que faltare, a la provisión global para la cartera de colocaciones.
-
-El mismo procedimiento antes señalado se aplicará cuando los bancos castiguen créditos en moneda extranjera sin acceso al mercado cambiario formal, con divisas no sujetas a liquidación, las que deberán ingresar previamente a su posición de cambios.
+Para castigar operaciones en moneda extranjera, las instituciones bancarias procederán a registrar la respectiva venta de la moneda extranjera, con la diferencia de que la moneda chilena será debitada a la correspondiente provisión individual que se hubiere constituido y, si ésta fuere insuficiente, a la provisión global. Alternativamente, cuando proceda, pueden registrarse los castigos contra la cuenta "Reservas en moneda extranjera", cargando las provisiones con abono a la cuenta "Equivalente reservas en moneda extranjera".
 
 3.5.- Recuperación de créditos castigados.
 
@@ -16030,7 +15952,7 @@ Las provisiones de que se trata se abonarán a la cuenta "Provisiones sobre inve
 
 3.- Tratamiento de la moneda extranjera invertida o repatriada.
 
-De acuerdo con las normas de los números precedentes, las sucursales y las inversiones en sociedades deben registrarse en el activo en moneda chilena. Por consiguiente, cuando sea necesario, las instituciones financieras habilitarán cuentas "Cambio" y "Conversión" especiales.
+De acuerdo con las normas de los números precedentes, las inversiones en sucursales y en sociedades en el exterior deben registrarse en el activo en moneda chilena. La conversión a pesos moneda chilena de los recursos invertidos o recibidos se contabilizará en la cuenta "Conversión posición de cambios.
 
 4.- Cuenta de orden para reflejar el capital asignado a sucursales en el exterior.
 
@@ -16342,7 +16264,7 @@ En esta categoría deben computarse todos los demás activos no incluidos en las
 
 3.- Equivalente de crédito de los instrumentos derivados.
 
-Para los efectos de que trata este título, se considerará como activo el equivalente de crédito de los contratos a futuro sobre tasa de interés o sobre tipo de cambio de monedas autorizados por el Banco Central de Chile, de acuerdo con las siguientes instrucciones:
+Para los efectos de que trata este título, se considerará como activo el equivalente de crédito de los contratos a futuro sobre tasa de interés o sobre tipo de cambio de monedas, de acuerdo con las siguientes instrucciones:
 
 3.1.- Base de cálculo.
 
@@ -16366,9 +16288,9 @@ Más de cinco años 1,5%
 
 Para el cálculo del equivalente de los contratos sobre monedas, incluida la unidad de fomento, se aplicarán porcentajes diferentes según la canasta en que esté incluida la moneda que se recibiría. Para tal efecto, las distintas monedas se agruparán en las siguientes canastas:
 
-Canasta 1: Incluye el dólar estadounidense, el marco alemán, el yen, la unidad de fomento y el peso chileno.
+Canasta 1: Incluye el dólar estadounidense, el euro, el yen, la unidad de fomento y el peso chileno.
 
-Canasta 2: Comprende las demás monedas extranjeras señaladas en el Anexo 2 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+Canasta 2: Comprende las demás monedas extranjeras de general aceptación en los mercados internacionales de cambios.
 
 Canasta 3: Incluye el resto de las monedas en que pudiesen estar pactados los contratos.
 
@@ -17920,15 +17842,13 @@ b) Inversiones en bancos u otras sociedades en el exterior, señaladas en el N°
 
 c) Los bienes que componen el activo fijo físico, conforme a lo señalado en el numeral 2.1 del Capítulo 11-5 de esta Recopilación; y,
 
-d) Inversiones en oro sellado chileno o en otra forma de que trata el Capítulo 8-23 de esta Recopilación.
+d) Inversiones en oro amonedado o en pastas.
 
 3.- Cumplimiento del límite de inversiones.
 
 Las instituciones financieras no podrán efectuar inversiones en los bienes señalados en el N° 2, cuando el monto de la adquisición sumado al valor contable de aquellas inversiones que ya se mantienen, exceda una vez el importe de su capital pagado y reservas.
 
-Para este efecto se considerará, por una parte, el monto del capital pagado y reservas determinado de acuerdo con lo señalado en el Capítulo 12-1 de esta Recopilación, deduciendo el capital asignado a sucursales del exterior y por otra, el valor contable de las inversiones a la fecha en que se efectúe la adquisición. Este valor corresponderá a la suma de los montos que se informan en las partidas 2305 y 2320, más los informados en las cuentas "Mayor valor pagado en inversiones en sociedades" de la partida 2120 e "Inversiones en oro" de la partida 1735.
-
-El último inciso del artículo 69 antes mencionado dispone que las instituciones que adquieran bienes por sobre el límite establecido, incurrirán en una multa equivalente al 10% sobre el exceso de la inversión realizada, por cada mes calendario que mantengan dicho exceso.
+Para este efecto se considerará, por una parte, el monto del capital pagado y reservas determinado de acuerdo con lo señalado en el Capítulo 12-1 de esta Recopilación, deduciendo el capital asignado a sucursales del exterior y por otra, el valor contable de las inversiones a la fecha en que se efectúe la adquisición. Este valor corresponderá a la suma de los montos que se informan en las partidas 2305 y 2320, más los informados en las cuentas "Mayor valor pagado en inversiones en sociedades" de la partida 2120 e "Inversiones en oro" de la partida 1775.
 
 CAPITULO 12-11 (Bancos y Financieras)
 
@@ -18160,113 +18080,45 @@ Como lo establece la ley, esta Superintendencia sólo podrá rechazar una solici
 
 Esta superintendencia cuenta con 60 días para emitir su pronunciamiento.
 
-CAPITULO 13-1 (Bancos y Financieras)
+CAPITULO 13-1 (Bancos)
 
 MATERIA:
 
-OPERACIONES DE COMPRA Y VENTA DE MONEDAS EXTRANJERAS QUE PUEDEN REALIZAR LAS INSTITUCIONES FINANCIERAS.
+OPERACIONES DE COMPRA Y VENTA DE MONEDAS EXTRANJERAS.
 
-### I. OPERACIONES DE CAMBIOS INTERNACIONALES
+1.- Contenido del presente Capítulo.
 
-### 1. Disposiciones generales
+Este Capítulo incluye disposiciones relativas a las compras y ventas al contado de moneda extranjera y de oro, pagaderas en moneda chilena o en otra moneda extranjera (arbitrajes al contado), y el correspondiente tratamiento contable para la Posición de Cambios Internacionales regulada por el Banco Central de Chile.
 
-De conformidad con lo dispuesto en el artículo 39 de la Ley Orgánica Constitucional del Banco Central de Chile, contenida en el ARTICULO PRIMERO de la Ley N° 18.840, publicada en el Diario Oficial del 10 de octubre de 1989, toda persona puede efectuar libremente operaciones de cambios internacionales.
+Se entiende que constituyen operaciones al contado aquellas en las que se efectúe el pago y la transferencia de las respectivas monedas en la misma fecha en que se curse la operación, ya sea en efectivo o mediante documentos a la vista, como asimismo aquellas operaciones en las que dicha transferencia se realice a más tardar hasta el día hábil bancario siguiente para la moneda chilena y hasta el día hábil bancario subsiguiente para la moneda extranjera Las demás operaciones serán consideradas compraventas de divisas a futuro y se regirán por las instrucciones correspondientes a instrumentos derivados.
 
-Por otra parte, los artículos 42, 49 y 50 de la Ley antes mencionada, facultan al Banco Central de Chile para establecer las operaciones que pueden ser cursadas exclusivamente en el Mercado Cambiario Formal y fijar restricciones para su realización.
+2.- Disposiciones aplicables a las compras v ventas de moneda extranjera.
 
-En uso de la facultad mencionada, el Consejo del Instituto Emisor estableció las disposiciones sobre operaciones en moneda extranjera contenidas en el Compendio de Normas de Cambios Internacionales.
+Los bancos que efectúen compras y ventas de monedas extranjeras o de oro que sirva como medio de pago, deberán cursar tales operaciones dando cumplimiento a lo dispuesto en el Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
-Según dichas disposiciones y en concordancia con la Ley Orgánica Constitucional antes mencionada, tal como se expresó anteriormente las operaciones de cambios internacionales pueden realizarse libremente por cualquier persona, con excepción de aquellas que se deban realizar exclusivamente en el Mercado Cambiario Formal por los Bancos y las Casas de Cambio autorizadas para formar parte de dicho mercado, las que se denominan "Casas de Cambio M.C.F.".
+Los antecedentes o documentos comprobatorios exigidos en las normas de cambio para la venta de divisas destinadas a determinados fines, deben ser conservados por la respectiva entidad vendedora, archivados bajo su exclusiva responsabilidad y mantenidos a disposición del Banco Central de Chile o de esta Superintendencia, para el caso que les sean requeridos Del mismo modo deben mantenerse los antecedentes sobre las compras de divisas.
 
-Las operaciones de cambios internacionales que obligadamente se deben realizar en el Mercado Cambiario Formal, a su vez, están sujetas a las disposiciones contenidas en el referido Compendio y que dicen relación con la obligatoriedad de retomar y liquidar en el Mercado Cambiario Formal las divisas provenientes de determinadas operaciones. Esas mismas disposiciones establecen las excepciones a la obligación de retomar y liquidar divisas antes mencionada.
+3.- Posición de Cambios Internacionales.
 
-Por otra parte, señala el Compendio ya citado, que toda operación de cambios internacionales que realice un banco o una Casa de Cambio M.C.F. o que se efectúe por su intermedio, se entenderá, por ese solo hecho, realizada en el Mercado Cambiario Formal.
+3.1.- Disposición general.
 
-Todo lo anterior es sin perjuicio de la prohibición establecida para las sociedades financieras en la letra a) del artículo 116 de la Ley General de Bancos, que impide a esas sociedades efectuar operaciones en moneda extranjera o expresadas en moneda extranjera que no estuvieren autorizadas por el Banco Central de Chile y toda operación de comercio exterior.
+De acuerdo con lo establecido en el Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las compras y ventas de divisas dan origen a la Posición de Cambios Internacionales, la cual se encuentra definida en esas normas en términos de las cuentas de conversión que utilizan los bancos para el efecto y que corresponden a las indicadas en el numeral 3.2 siguiente. El conjunto de esas cuentas constituye la Posición de Cambios Internacionales, cuyo saldo global neto expresado en dólares, determinado en la forma establecida por el Banco Central de Chile, debe ser igual o superior a cero, pudiendo en consecuencia existir posiciones "sobrevendidas" para algunas monedas siempre que se compense con las posiciones "sobrecompradas" de las otras.
 
-### 2. Operaciones que pueden efectuar los bancos
+3.2.- Contabilización de las operaciones de compra y venta de monedas extranjeras.
 
-Los bancos pueden realizar, además de las operaciones de compra y venta de divisas y de otras operaciones de cambios internacionales que se encuentran reguladas en el Compendio de Normas de Cambios Internacionales del Banco Central de Chile, todas aquellas que son propias de su giro, tales como apertura, negociación y fínanciamiento de cartas de crédito para importación; confirmación, negociación y financiamiento de cartas de crédito de exportación. Además, pueden efectuar cobranzas tanto del exterior como sobre el exterior.
+Las entidades bancarias deben registrar todas las compras y ventas de moneda extranjera y de oro que realicen, en cuentas de conversión denominadas "Conversión posición de cambios" Deberá establecerse una cuenta "Conversión posición de cambios" por cada una de las monedas en que opere la empresa.
 
-### 3. Operaciones que pueden efectuar las financieras
-
-Las sociedades financieras sólo podrán efectuar aquellas operaciones de cambios que expresamente les faculta realizar el Compendio de Normas Financieras y el Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
-
-Además, en caso que el Instituto Emisor las autorice para actuar como Casa de Cambio M.C.F., sólo podrán cursar como tales, las operaciones de cambios que se indican en el Capítulo IV del Título I del Compendio de Normas de Cambios Internacionales mencionado precedentemente.
-
-II.- COMPRA Y VENTA DE DIVISAS AL CONTADO.
-
-### 1. Disposiciones generales
-
-Las instituciones bancarias y Casas de Cambio M.C.F. de financieras, podrán efectuar compras y ventas de divisas al tipo de cambio que libremente determinen las partes, con observancia, en todo caso, de las normas establecidas en la Ley Orgánica Constitucional antes mencionada, de las disposiciones del Banco Central de Chile y de las instrucciones impartidas por esta Superintendencia.
-
-Estas compras y ventas se harán únicamente al contado, entendiéndose por tales aquellas en las que se efectúe el pago y la transferencia de las respectivas monedas en la misma fecha en que se curse la operación, ya sea en efectivo o mediante documentos a la vista, como asimismo aquellas operaciones en las que dicha transferencia se realice a más tardar hasta el día hábil bancario siguiente para la moneda chilena y hasta el día hábil bancario subsiguiente para la moneda extranjera. Las demás operaciones serán consideradas compraventas de divisas a futuro y se regirán por las instrucciones contenidas en el Capítulo 13-2 de esta Recopilación.
-
-Cuando adquieran documentos expresados y pagaderos en moneda extranjera, las instituciones financieras deberán identificar a la persona que se los venda, debiendo dejar constancia de sus datos personales en los antecedentes de la respectiva operación.
-
-No es necesario que las instituciones exijan identificarse a las personas que les vendan moneda extranjera en billetes, como tampoco lo es que se les informe el origen de las divisas, ya sea que éstas correspondan a billetes o documentos, salvo en los casos que las normas del Banco Central de Chile exijan dicha identificación.
-
-Al tratarse de ventas de divisas que realicen, las instituciones financieras debe prestarse especial cuidado a los requisitos exigidos para el efecto, y a las restricciones que afecten a dichas operaciones.
-
-Las ventas de cualquiera de las monedas extranjeras incluidas en el Anexo N° 2 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, que efectúen las entidades bancarias se exceptuarán de su liquidación a moneda chilena, solamente cuando se realicen para los fines establecidos en dicho Compendio. Asimismo, las instituciones autorizadas deben clasificar adecuadamente, ateniéndose a la codificación establecida por el Banco Central de Chile, las operaciones que realicen y extender en cada caso, los documentos correspondientes que informen de la respectiva operación.
-
-### 2. Archivo de los antecedentes exigidos para la venta de divisas
-
-Los antecedentes, declaraciones o documentos comprobatorios exigidos en las normas de cambio para la venta de divisas destinadas a determinados fines, deben ser conservados por la respectiva entidad vendedora, archivados bajo su exclusiva responsabilidad y mantenidos a disposición del Banco Central de Chile o de esta Superintendencia, para el caso que les sean requeridos.
-
-Se recomienda que estos antecedentes, en lo posible, se mantengan junto a la copia de la planilla en que se declaró al Instituto Emisor la transacción correspondiente.
-
-### 3. Transacciones con monedas de libre disposición
-
-Las entidades bancarias y Casas de Cambio M.C.F. de financieras pueden efectuar compras, ventas, transacciones y transferencias, en cualquiera de las monedas extranjeras distintas de las señaladas en el Anexo N° 2 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales, las cuales no están sujetas a las disposiciones de ese mismo Compendio y, por lo tanto, no se tomarán en cuenta para los efectos de determinar la Posición de Cambios de la Institución.
-
-Sin embargo, si se realizan arbitrajes entre monedas de libre disposición y cualquiera de las monedas sujetas a posición, estas últimas deben ingresarse a la Posición de Cambios de la empresa. Por ningún motivo podrán realizarse arbitrajes que consistan en la venta de divisas incluidas en la Posición de Cambios, para adquirir alguna moneda de libre disposición.
-
-### 4. Posición de Cambios
-
-4.1. Registro de operaciones y determinación de la Posición.
-
-Las entidades bancarias deben registrar todas las compras y ventas de moneda extranjera sujetas a posición que realicen, por los conceptos autorizados en las respectivas normas, en cuentas de conversión denominadas "Conversión Mercado Bancario".
-
-Deberá establecerse una cuenta "Conversión Mercado Bancario" por cada una de las monedas en que opere la empresa. El conjunto de estas cuentas conformará la Posición de Cambios de la institución.
-
-Para determinar la Posición neta diaria, se convertirán los saldos de la cuenta "Conversión Mercado Bancario" en cada moneda, a dólares norteamericanos de acuerdo a las equivalencias que ellos tengan con respecto al dólar estadounidense según la publicación del Banco Central Chile del último día hábil bancario del mes calendario inmediatamente anterior. Estas equivalencias se mantendrán para el efecto indicado, sin alteración hasta el último día hábil bancario del mes calendario siguiente.
-
-La posición global neta de cada institución será igual a la suma algebraica de los saldos de las diferentes cuentas "Conversión Mercado Bancario", expresados en dólares norteamericanos.
-
-Este saldo global neto podrá ser "sobrecomprado" o igual a cero, pero de ninguna manera podrá registrarse un saldo global neto "sobrevendido", esto es, que la institución autorizada hubiera realizado ventas por una cantidad mayor al saldo del conjunto de monedas que tuviere en existencia, provenientes de compras efectuadas y contabilizadas en sus cuentas "Conversión Mercado Bancario".
-
-No obstante, las entidades podrán registrar saldos deudores en algunas monedas, pero siempre que, como quedó dicho, el saldo global, expresado en dólares norteamericanos no se encuentre sobrevendido.
-
-4.2. Información al Banco Central de Chile.
-
-Diariamente, los bancos y Casas de Cambio M.C.F. de financieras informarán al Banco Central de Chile, mediante el "Informe Diario de Posición y Operaciones de Cambios Internacionales", las operaciones realizadas de compras y ventas de divisas sujetas a Posición. Dicho Informe deberá ser presentado el mismo día en que se cursen las operaciones o el día hábil bancario inmediatamente siguiente, según sea la cantidad de planillas que presente la institución. En todo caso, aquellas transacciones realizadas en "horario especial" por las empresas autorizadas para operar en ese horario, las que se registran al día hábil bancario siguiente al de su realización, se comunicarán al Instituto Emisor en el "Informe" del día hábil siguiente o subsiguiente a la fecha en que hayan sido cursadas, según sea el número de planillas que presente la respectiva institución.
-
-### 5. Información al público
-
-Las instituciones bancarias y Casas de Cambio M.C.F. de financieras deben mantener a la vista del público en caracteres fácilmente legibles, la información relativa a los tipos de cambio comprador y vendedor de cada una de las monedas que la empresa opere e indicar si se incluyen comisiones y otros gastos. En el caso que se cobren, deberán señalarse los montos o tasas que se aplican.
-
-Además, junto a esa información deberán exhibir la cotización del dólar norteamericano que diariamente publique el Banco Central de Chile, la que se informará bajo el rubro "Valor Dólar observado día anterior Banco Central".
-
-### 6. Normas contables
-
-6.1. Bancos.
-
-Las compras y ventas de monedas extranjeras que realicen los bancos se contabilizarán de acuerdo a las siguientes pautas:
+Las compras y ventas se contabilizarán de acuerdo a las siguientes pautas:
 
 a) Moneda extranjera.
 
-Las compras y ventas de monedas extranjeras sujetas a Posición, deben contabilizarse en la respectiva cuenta "Conversión Mercado Bancario" asignada a la partida 2505 ó 4505, según sea su saldo deudor o acreedor.
-
-Las operaciones relativas a monedas de libre disposición, deben contabilizarse en la cuenta "Conversión Mercado de Divisas de Libre Disposición" de las partidas 2510 ó 4510.
+Las compras y ventas de monedas extranjeras deben contabilizarse en la respectiva cuenta "Conversión posición de cambios" asignada a la partida 2505 ó 4505, según sea su saldo deudor o acreedor Las operaciones en oro serán registradas en Pesos Oro Sellado Chileno.
 
 b) Moneda chilena.
 
-El equivalente en moneda chilena por la compra de moneda extranjera, se debitará en la cuenta "Cambio Mercado Bancario". A esta misma cuenta se acreditará el importe recibido en pesos por la venta de moneda extranjera. Se debe mantener una cuenta "Cambio Mercado Bancario" por cada una de las cuentas "Conversión Mercado Bancario" abiertas, de acuerdo a las monedas operadas. Los saldos de las cuentas "Cambio Mercado Bancario" se asignan a las partidas 2505 ó 4505, según sea su saldo, deudor o acreedor.
+El equivalente en moneda chilena por la compra de moneda extranjera, se debitará en la cuenta "Cambio posición de cambios" A esta misma cuenta se acreditará el importe recibido en pesos por la venta de moneda extranjera. Se debe mantener una cuenta "Cambio posición de cambios" por cada una de las cuentas "Conversión posición de cambios" abiertas, de acuerdo a las monedas operadas Los saldos de las cuentas "Cambio posición de cambios" se asignan a las partidas 2505 ó 4505, según sea su saldo, deudor o acreedor.
 
-Para las monedas de libre disposición deben utilizarse las cuentas "Cambio Mercado de Divisas de Libre Disposición", de las partidas 2510 ó 4510.
-
-c) Transferencia diferida de monedas.
+c) Transferencia diferida de las compraventas.
 
 En el caso de operaciones en las que, de acuerdo con lo pactado entre el vendedor y el comprador, se difiera por un máximo de un día hábil bancario la transferencia de la moneda chilena y de dos días hábiles bancarios la transferencia de la moneda extranjera objeto de la compraventa, los respectivos importes en moneda extranjera se registrarán en la cuenta "Divisas adquiridas pendientes de transferencia", de la partida 2115, o bien, "Divisas vendidas pendientes de transferencia", de la partida 4115, según corresponda, en tanto que la moneda chilena se registrará en la cuenta "Contravalor por entregar de divisas pendientes de transferencia", de la partida 4115 o "Contravalor por recibir de divisas pendientes de transferencia", de la partida 2115, según sea el caso.
 
@@ -18274,23 +18126,35 @@ Al efectuarse la transferencia efectiva mediante los respectivos traspasos a las
 
 d) Ajuste de las cuentas "Cambio".
 
-El último día de cada mes, los bancos ajustarán el saldo de las cuentas "Cambio Mercado Bancario" con cargo a la cuenta "Pérdidas de cambio" de la partida 5705 o con abono a "Utilidades de cambio" de la partida 7705, según corresponda.
+El último día de cada mes, los bancos ajustarán el saldo de las cuentas "Cambio posición de cambios" con cargo a la cuenta "Ajuste posición de cambios" de la partida 5705 o 7705, según corresponda, de acuerdo con lo previsto en el Capítulo 13-30 de esta Recopilación.
 
-Para realizar los referidos ajustes, deberán utilizar el tipo de cambio y el procedimiento señalado en el Capítulo 13-30 de esta Recopilación.
-
-En la misma fecha antes señalada, ajustarán el saldo de las cuentas "Cambio Mercado de Divisas de Libre Disposición" con cargo a la cuenta "Pérdidas varias de cambio" de la partida 5710 o con abono a "Utilidades varias de cambio" de la partida 7710, según proceda, debiendo aplicar para tal efecto el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera el día que realice el ajuste.
-
-e) Comisiones.
+e) Comisiones por venta de moneda extranjera.
 
 Las comisiones que cobren los bancos por venta de moneda extranjera, serán acreditadas en la cuenta "Comisiones ganadas ventas de divisas" de la partida 7530.
 
-6.2. Sociedades financieras que operen casas de cambio.
+3.3.- Movimientos en la posición de cambios que se originan por liquidaciones de recursos obtenidos en moneda extranjera y constitución de reservas.
 
-Las sociedades financieras autorizadas para operar en Casas de Cambio M.C.F., registrarán las compras y ventas de monedas extranjeras en conformidad con lo dispuesto en el Capítulo 13-29 de esta Recopilación de Normas.
+a) Liquidación de recursos obtenidos por el banco en moneda extranjera.
 
-### 7. Sanciones
+En caso de que un banco decida liquidar moneda extranjera correspondiente a captaciones, préstamos recibidos o bonos emitidos, se utilizarán, tanto para la venta como para la posterior recompra, las cuentas "Conversión recursos liquidados" de la partida 2510 y "Cambio recurso liquidados" de la partida 4510. Esta última se ajustará según lo previsto en el Capítulo 13-30, con cargo o abono, según corresponda, a la cuenta "Variación tipo de cambio recursos liquidados" de la partida 5707 ó 7707, respectivamente.
 
-El incumplimiento de las normas del Banco Central de Chile que rigen las operaciones de cambios internacionales del Mercado Cambiario Formal o de estas instrucciones, podrá ser sancionado de acuerdo con las disposiciones del artículo 19 de la Ley General de Bancos, no obstante las sanciones que, en uso de sus facultades, puede aplicar el Consejo del Banco Central de Chile.
+La recompra de las divisas liquidadas no podrá diferirse más allá de la fecha del pago de las respectivas obligaciones, debiéndose mantener un control sobre los importes registrados en la cuenta de conversión antes indicada.
+
+Con todo, al tratarse operaciones que se rijan por las normas del Capítulo V.B.1 del Compendio de Normas Financieras del Banco Central de Chile, los bancos deben atenerse a lo instruido en el Capítulo 13-13 de esta Recopilación.
+
+b) Constitución de reservas en moneda extranjera.
+
+Los bancos que por cualquier motivo adquieran moneda extranjera para mantenerla en calidad de reservas, utilizarán las cuentas "Reservas en moneda extranjera" de la partida 4510 y "Equivalente reservas en moneda extranjera" de la partida 2510 Esta última se ajustará según lo previsto en el Capítulo 13-30, con abono o cargo, según corresponda, a la cuenta "Variación del tipo de cambio reservas en moneda extranjera" de la partida 7707 ó 5707, respectivamente.
+
+c) Resultados en moneda extranjera.
+
+Al cierre de cada ejercicio, los saldos en moneda extranjera que las entidades bancarias registren en cada una de sus diferentes cuentas de resultado, deberán convertirse a moneda chilena, de acuerdo con el tipo de cambio de representación contable vigente a la fecha del cierre, mediante cargos o abonos, según corresponda, a las cuentas "Conversión posición de cambios" y "Cambio posición de cambios" antes mencionadas.
+
+4.- Información al público.
+
+Las instituciones bancarias deben mantener a la vista del público en caracteres fácilmente legibles, la información relativa a los tipos de cambio comprador y vendedor de cada una de las monedas que la empresa opere e indicar si se incluyen comisiones y otros gastos En el caso que se cobren, deberán señalarse los montos o tasas que se aplican.
+
+Además, junto a esa información deberán exhibir la cotización del dólar norteamericano que diariamente publique el Banco Central de Chile, la que se informará bajo el rubro "Valor Dólar observado día anterior Banco Central.
 
 CAPITULO 13-2 (Bancos)
 
@@ -18718,11 +18582,9 @@ MATERIA:
 
 COLOCACIONES EN EL EXTERIOR.
 
-1.- Créditos a bancos y otras personas del exterior.
+1.- Créditos correspondientes a colocaciones en el exterior.
 
-De conformidad con las disposiciones contenidas en el Capítulo III.B.5 del Compendio de Normas Financieras del Banco Central de Chile, los bancos pueden otorgar créditos a bancos y otras personas sin residencia ni domicilio en Chile, sujetos a instrucciones de ese Capítulo, a las disposiciones del Capítulo 12-13 de esta Recopilación y al cumplimiento de las normas legales y reglamentarias que les sean aplicables.
-
-Las presentes normas contienen disposiciones relativas a la definición de distintas colocaciones en el exterior y su correspondiente tratamiento contable, con excepción de los créditos que corresponden a avales y fianzas, boletas de garantía y cartas de crédito stand by, tratados en los Capítulos 8-10 y 8-11 de esta Recopilación.
+Las normas del presente Capítulo contienen definiciones de los distintos tipos de colocaciones en el exterior y su respectivo tratamiento contable, con excepción de los créditos contingentes que corresponden a avales y fianzas, boletas de garantía y cartas de crédito stand by, tratados en los Capítulos 8-10 y 8-11 de esta Recopilación.
 
 2.- Operaciones de comercio exterior con Chile.
 
@@ -18730,13 +18592,13 @@ Las presentes normas contienen disposiciones relativas a la definición de disti
 
 Para los efectos señalados en el numeral 2.2, corresponden a créditos para operaciones de comercio exterior con Chile los siguientes:
 
-a) Créditos a bancos del exterior para financiar cartas de crédito emitidas por éstos, a la vista o con pago diferido, a favor de exportadores chilenos, que sean negociadas por intermedio de bancos situados en Chile. Este tipo de crédito se encuentra regulado en el Capítulo 14-1 de esta Recopilación.
+a) Créditos a bancos del exterior para financiar cartas de crédito emitidas por éstos, a la vista o con pago diferido, a favor de exportadores chilenos, que sean negociadas por intermedio de bancos situados en Chile. Este tipo de crédito se encuentra regulado en el Capítulo 14-9 de esta Recopilación.
 
 b) Créditos a personas naturales o jurídicas residentes en el exterior distintas de bancos, que tengan por objeto pagar a los exportadores chilenos el precio de mercaderías importadas desde Chile, otorgados previa presentación de copia de los documentos de embarque de las exportaciones que se financian.
 
-c) Préstamos a exportadores extranjeros o a bancos del exterior, cursados contra recepción, en calidad de garantía, de las letras de cambio aceptadas o de los pagarés suscritos por los importadores chilenos Estos préstamos deben otorgarse en la misma moneda en que estén expresados los documentos en garantía y por montos y vencimientos que no excedan los de éstos.
+c) Préstamos a exportadores extranjeros o a bancos del exterior, cursados contra recepción, en calidad de garantía, de las letras de cambio aceptadas o de los pagarés suscritos por los importadores chilenos.
 
-d) Descuento con responsabilidad, a exportadores extranjeros o a bancos del exterior, de letras de cambio o pagarés, aceptadas o suscritos por importadores chilenos, con excepción de aquellos documentos avalados o afianzados por un banco situado en Chile.
+d) Descuento con responsabilidad, a exportadores extranjeros o a bancos del exterior, de letras de cambio o pagarés, aceptadas o suscritos por importadores chilenos. Al respecto debe tenerse presente lo indicado en el numeral 5.2 de este Capítulo.
 
 e) Cualquier otro crédito, efectivo o contingente, distinto de los señalados en las letras precedentes, que tenga por objeto financiar operaciones de comercio exterior con Chile, otorgado a bancos u otras personas naturales o jurídicas residentes en el exterior.
 
@@ -18744,7 +18606,7 @@ e) Cualquier otro crédito, efectivo o contingente, distinto de los señalados e
 
 a) Financiamiento de exportaciones.
 
-Los préstamos que se cursen a bancos y a otras personas situados en el exterior para financiar las importaciones de mercaderías procedentes de Chile, serán registrados en la cuenta "Préstamos al exterior para financiar exportaciones chilenas", de la partida 1130 ó 1225. No obstante, los financiamientos de cartas de crédito tratados en el Capítulo 14-1 de esta Recopilación, se registrarán de acuerdo con las instrucciones de ese Capítulo.
+Los préstamos que se cursen a bancos y a otras personas situados en el exterior para financiar las importaciones de mercaderías procedentes de Chile, serán registrados en la cuenta "Préstamos al exterior para financiar exportaciones chilenas", de la partida 1130 ó 1225. No obstante, los financiamientos de cartas de crédito tratados en el Capítulo 14-9 de esta Recopilación, se registrarán de acuerdo con las instrucciones de ese Capítulo.
 
 b) Financiamiento de importaciones.
 
@@ -18792,9 +18654,9 @@ Los colocaciones en el exterior que no correspondan al financiamiento de operaci
 
 5.- Precisiones respecto a la aplicación de otras normas.
 
-5.1.- Provisiones de que trata el Capítulo 12-13.
+5.1.-Provisiones de que tratan los Capítulos 7-6 y 12-13.
 
-La definición de "créditos de comercio exterior" contenida en el Capítulo 12-13 de esta Recopilación, tiene efecto solamente para el cálculo de las provisiones establecidas en esas normas. El presente Capítulo contiene una especificación más amplia para propósitos contables, incluyendo dentro de las operaciones de comercio exterior también aquellas en que no se cumple, entre otras, la condición de que, para considerarlas como tales, conste el embarque de la mercadería. Esas operaciones en que no existe esa condición, para los solos efectos del Capítulo 12-13 antes aludido corresponderían a la categoría de créditos "comerciales", salvo el caso de las cartas de crédito irrevocables pendientes de negociación.
+La definición de "créditos de comercio exterior" establecida en el Capítulo 7-6 y aludida en el Capítulo 12-13 de esta Recopilación, tiene efecto solamente para el cálculo y constitución de las provisiones establecidas en esas normas. El registro contable de esos créditos se efectuará sobre la base de las clasificaciones señaladas en el presente Capítulo.
 
 5.2.- Adquisición o descuento de documentos.
 
@@ -18805,182 +18667,6 @@ Respecto a la presencia de deudores indirectos, conviene tener presente también
 5.3.- Interés máximo convencional.
 
 De acuerdo con la Ley N° 18.010, cuyas disposiciones se tratan en el Capítulo 7-1 de esta Recopilación, no quedan sujetas al límite del interés máximo convencional las colocaciones en el exterior que correspondan a operaciones pactadas con instituciones o empresas bancarias o financieras extranjeras o internacionales, como tampoco las pactadas o expresadas en moneda extranjera para operaciones de comercio exterior, cualesquiera sea el deudor.
-
-CAPITULO 13-28 (Bancos)
-
-MATERIA:
-
-RESERVAS Y PROVISIONES EN MONEDA EXTRANJERA.
-
-1.- Reservas o provisiones en moneda extranjera constituidas con ingresos netos en esas monedas.
-
-Los bancos pueden mantener divisas en calidad de reservas o provisiones en moneda extranjera, generadas principalmente por la compra de sus ingresos netos en esas monedas.
-
-De conformidad con lo dispuesto en los Capítulos III y XI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, a partir del cierre del ejercicio del año 1992 los bancos pueden constituir reservas en monedas extranjeras mediante la adquisición de todo o parte del ingreso neto que generen anualmente en esas monedas. Dichas reservas se constituirán a más tardar el último día hábil del mes de febrero del año siguiente a aquel en que se obtenga el ingreso neto.
-
-Los bancos están facultados para castigar activos en moneda extranjera con cargo a las reservas o provisiones antes mencionadas.
-
-2.- Reservas correspondientes a utilidades remesables al exterior.
-
-Los bancos receptores de aportes de capital del exterior acogidos a las disposiciones del Decreto Ley N° 600, de 1974, como sucede con las sucursales de bancos extranjeros, pueden mantener en calidad de reservas sus utilidades líquidas, convertidas a moneda extranjera, siempre que para ello cuenten con la aprobación del Banco Central de Chile.
-
-De conformidad con lo dispuesto en el Capítulo XI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, la moneda extranjera que sea el producto de utilidades acumuladas remesables al exterior, sólo podrá ser remesada, previa autorización de esta Superintendencia y del Instituto Emisor.
-
-3.- Liquidación de compra y venta de divisas.
-
-3.1.- Castigos de activos con cargo a reservas o provisiones.
-
-Cuando los bancos decidan castigar activos en moneda extranjera, deberán liquidar en el mercado cambiarlo formal, con cargo a sus provisiones o reservas en monedas extranjeras, una cantidad igual al monto de los activos que en esas monedas se castiguen.
-
-El ingreso que se haga a la Posición de Cambios de las divisas que se detraigan de las provisiones o reservas, deberá hacerse simultáneamente con el egreso o venta de la moneda extranjera con cargo a la misma Posición, para el castigo del activo que corresponda.
-
-3.2.- Remesas de utilidades que fueron convertidas a moneda extranjera.
-
-Para remesar las utilidades líquidas que dieron origen a las reservas de que trata el N°2 de este Capítulo, las instituciones deberán liquidar en el mercado cambiario formal los importes constituidos en su oportunidad, para luego adquirir las divisas correspondientes para su remesa al exterior.
-
-4.- Instrucciones contables.
-
-Las empresas bancarias deberán atenerse a las siguientes instrucciones para el registro de las operaciones de que se trata:
-
-4.1.- Reservas y provisiones en moneda extranjera.
-
-a) Moneda extranjera.
-
-Los importes de las reservas en moneda extranjera que mantienen las empresas bancarias deben encontrarse registrados en la cuenta "Reservas en M/E constituidas con excedentes en M/E" o en la cuenta "Reservas en M/E constituidas con utilidades remesables al exterior", según cual sea su origen, ambas de la partida 4520. Al tratarse de provisiones, ellas se reflejarán en la cuenta "Provisiones en moneda extranjera", de la misma partida.
-
-b) Moneda chilena.
-
-El respectivo equivalente en moneda chilena de las reservas y provisiones en moneda extranjera, a su vez, debe estar registrado en las cuentas "Equivalente reservas en M/E constituidas con excedentes en M/E", "Equivalente reservas en M/E constituidas con utilidades remesables al exterior" o "Equivalente provisiones en moneda extranjera", según corresponda, todas de la partida 2520.
-
-4.2.- Ajuste de las cuentas que registren los equivalentes en moneda chilena.
-
-El saldo de las cuentas "Equivalente reservas en M/E constituidas con excedentes en M/E", "Equivalente reservas en M/E constituidas con utilidades remesables al exterior" y "Equivalente provisiones en moneda extranjera", deberá ajustarse mensualmente de acuerdo con el tipo de cambio de representación contable vigente a la fecha del ajuste, con abono a la cuenta "Variación del tipo de cambio de recursos en M/E-Reservas y Provisiones", de la partida 7725. Esta misma cuenta debe utilizarse en el evento de que se produjere una variación negativa del tipo de cambio, que signifique un cargo a resultados.
-
-4.3.- Remesa de utilidades.
-
-Las instituciones bancarias que, previa autorización de esta Superintendencia, remesen al exterior utilidades por las cuales hayan constituido reservas en moneda extranjera, registrarán dicha operación de la forma que se indica a continuación:
-
-a) Moneda extranjera.
-
-Debe: - "Reservas en M/E constituidas con utilidades remesables al exterior", por el importe que se liquide de la moneda extranjera en que se mantenían invertidas las utilidades por remesar.
-
-- "Conversión mercado bancario", de la partida 2505 ó 4505, por la venta (Egreso de la Posición de Cambio) de la moneda extranjera necesaria para efectuar la remesa al exterior.
-
-Haber: - "Conversión mercado bancario", por la compra (Ingreso a la Posición de Cambios) de las reservas en moneda extranjera que se liquidan.
-
-- La cuenta que corresponda por el giro para remesar las utilidades al exterior.
-
-b) Moneda chilena.
-
-Debe: - La cuenta de patrimonio que corresponda, de la partida 4320, por el importe de las utilidades que se remesan, corregidas monetariamente, incluido el impuesto que proceda.
-
-- "Cambio mercado bancario", de la partida 2505 ó 4505, por el equivalente de las reservas en moneda extranjera liquidadas.
-
-Haber: - "Cambio mercado bancario", por el equivalente de la moneda extranjera vendida para remesar las utilidades al exterior, calculado al tipo de cambio más alto del mercado. Este importe no podrá ser, en caso alguno, superior al monto en moneda chilena detraído de las cuentas de patrimonio, menos el impuesto que corresponda.
-
-- "Equivalente reservas en M/E constituidas con utilidades remesables al exterior".
-
-- "Provisión de impuesto por remesas de utilidades", de la partida 4115 ó 2115, para reflejar el impuesto correspondiente a la utilidad remesada, en forma independiente del pago,provisional. Esta provisión se saldará al año siguiente, de acuerdo con la respectiva declaración de impuestos.
-
-En todo caso, se entiende que para efectuar la remesa se debe haber dado cumplimiento a las disposiciones tributarias mediante el pago provisional del impuesto correspondiente.
-
-La respectiva cuenta del equivalente en moneda chilena de la partida 2520 se deberá ajustar previamente sobre la base del tipo de cambio establecido para el efecto, que se encuentre vigente en la fecha del ajuste.
-
-4.4.- Castigo de colocaciones en moneda extranjera.
-
-a) Moneda extranjera.
-
-Debe: - La cuenta de provisiones o reservas que corresponda de la partida 4520, por el importe en moneda extranjera que se utilice en el castigo.
-
-- "Conversión mercado bancario", por el egreso de la Posición de Cambios del importe en moneda extranjera para efectuar el castigo.
-
-Haber: - "Conversión mercado bancario", por la liquidación de las divisas provenientes de provisiones o reservas.
-
-- La cuenta de colocación que corresponda por el castigo de la operación en moneda extranjera.
-
-b) Moneda chilena.
-
-Debe: - La cuenta de provisiones individuales sobre cartera vencida, de provisión global sobre la cartera de colocaciones o la que corresponda, por el importe castigado expresado por su equivalente en moneda chilena.
-
-- "Cambio mercado bancario", por el equivalente de la moneda extranjera liquidada proveniente de provisiones o reservas.
-
-Haber: - "Cambio mercado bancario", por el equivalente de la moneda extranjera que egresa de la Posición de Cambios para efectuar el castigo.
-
-- La cuenta que corresponda de la partida 2520, por el equivalente de las provisiones o reservas en moneda extranjera utilizadas en el castigo, al tipo de cambio vigente a la fecha del castigo.
-
-CAPITULO 13-29 (Financieras)
-
-MATERIA:
-
-CASA DE CAMBIO DE SOCIEDADES FINANCIERAS.
-
-1.- Sociedades financieras que pueden operar.
-
-Podrán realizar las operaciones señaladas en el Capítulo IV del Título I del Compendio de Normas de Cambios Internacionales, relativo a Casas de Cambio del mercado cambiario formal, todas aquellas sociedades financieras que hayan sido previamente autorizadas para tal efecto por el Banco Central de Chile y por esta Superintendencia.
-
-2.- Requisitos que se deben cumplir para obtener la autorización de esta Superintendencia.
-
-Las sociedades financieras que deseen obtener la autorización de esta Superintendencia para operar en el giro de Casa de Cambio, deberán presentar una solicitud acompañada de un Certificado emitido por el Banco Central de Chile que acredite que la entidad solicitante ha dado cumplimiento a todas las exigencias impuestas por el Instituto Emisor.
-
-3.- Local para el giro de Casa de Cambio.
-
-Las transacciones inherentes al giro de Casa de Cambio, serán efectuadas por las sociedades financieras en los mismos locales que este Organismo les haya autorizado para realizar las operaciones propias de su giro.
-
-Sin embargo, y sólo en casos previamente calificados, esta Superintendencia les autorizará la apertura de un local especial para realizar las operaciones del giro de Casa de Cambio. En tal eventualidad dicho local deberá estar ubicado en un lugar próximo a las oficinas de la respectiva sociedad financiera y en él no podrá desarrollarse ninguna otra actividad que no sea la propia de las operaciones permitidas a las Casas de Cambio.
-
-En todo caso, el local destinado a esos fines, deberá reunir las condiciones adecuadas de comodidad para los clientes y de seguridad para las operaciones de dinero.
-
-4.- Operaciones que pueden realizar.
-
-Las sociedades financieras que se encuentren facultadas para ello, podrán realizar, en el giro de Casa de Cambio, únicamente las operaciones que se encuentren expresamente autorizadas en el Capítulo IV del Título I del Compendio de Normas de Cambios Internacionales.
-
-5.- Atención al público.
-
-5.1.- Horario normal.
-
-La atención al público para la realización de las transacciones del giro de Casa de Cambio se efectuará de lunes a viernes de 09-00 hasta las 14:00 horas, excepto los días festivos y el 31 de diciembre.
-
-5.2.- Horario especial.
-
-Las sociedades financieras que deseen extender el horario de atención al público para realizar las operaciones propias del giro de Casa de Cambio, deberán comunicarlo previamente a esta Superintendencia.
-
-Los comprobantes contables y planillas que se emitan por las transacciones que cursen en este horario especial, deberán llevar un timbre con la leyenda: "CAJA HORARIO ESPECIAL", para distinguirlas de aquéllas efectuadas dentro del horario normal.
-
-6.- Tipo de Cambio aplicable a las compras y ventas de divisas.
-
-El tipo de cambio aplicable a las compras y a las ventas de divisas que realicen, será el que libremente convengan con las personas y entidades interesadas.
-
-7.- Comisiones.
-
-Las sociedades financieras podrán convenir libremente con sus clientes las comisiones que cobrarán por las operaciones de cambios que realicen. Dichas comisiones podrán percibirse solamente en moneda chilena.
-
-En todo caso deberá cuidarse de que se apliquen tasas o montos idénticos para operaciones iguales o de similares características, de modo que se eviten situaciones que pudieran originar cobros discriminatorios.
-
-8.- Información al público.
-
-Las sociedades financieras de que se trata, deberán mantener en el lugar donde se atiendan las operaciones de cambio y fácilmente visible para el público, las cotizaciones comprador y vendedor de las monedas extranjeras que se transen habitualmente.
-
-Además, deberán indicar los montos fijos y tasas, según corresponda, de las comisiones y gastos que cobren por esas operaciones. En la eventualidad de que esos cobros estén incorporados en los tipos de cambio que fijen para sus transacciones, deberán indicarlo asi en las mismas listas de cotizaciones.
-
-Igualmente deberán mantener a la vista del público la autorización otorgada por el Banco Central de Chile, para operar en el rubro de Casa de Cambio.
-
-9.- Posiciones de Cambio.
-
-Las sociedades financieras autorizadas podrán mantener, bajo su exclusivo cargo y responsabilidad, posiciones de cambio en las diversas monedas extranjeras, sujetas a los límites establecidos en el anexo N° 5 del Capítulo IV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
-
-El saldo neto de la Posición de Cambio de cada institución autorizada, expresado en dólares estadounidenses, solamente podrá ser acreedor (posición sobrecomprada) o igual a cero, pero bajo ninguna circunstancia se admitirá un saldo global deudor (sobrevendido).
-
-Para la determinación diaria de su Posición de Cambio las sociedades financieras deberán considerar los saldos sobrevendidos y sobrecomprados de cada una de las diferentes monedas extranjeras, reflejados en las respectivas cuentas "POSICION" de sus registros auxiliares para moneda extranjera. Esos saldos serán los que se registren al cierre de sus operaciones a las 14:00 horas, convertidos a dólares norteamericanos a las paridades informadas por el Banco Central de Chile el último día hábil del mes calendario inmediatamente anterior, de conformidad con lo dispuesto en el N° 6 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales. Una vez efectuadas esas conversiones se hará la suma algebraica de ellas para determinar la Posición global neta en términos de dólares, que deberá Coincidir con aquella que se informará al Banco Central de Chile. No se considerarán para estos efectos, las monedas extranjeras denominadas "de libre disposición".
-
-Todas las compras y ventas de monedas extranjeras que se incluyen en la Posición de Cambio, deben declararse al Banco Central de Chile mediante la correspondiente Planilla de Operación de Cambios (Casas de Cambio-Comercio Invisible).
-
-Copias de cada una de dichas planillas, así como del Informe Diario de Posición y Operaciones de Cambios Internacionales deberá mantenerse en los archivos de la empresa.
-
-10.- Cuentas corrientes con bancos del exterior y con bancos comerciales del país.
-
-Las sociedades financieras que operen el giro de Casa de Cambio, podrán mantener para las necesidades propias de dicho giro, sendas cuentas corrientes en moneda extranjera, hasta en tres empresas bancarias situadas fuera del país. Además, podrán establecer hasta en tres bancos comerciales del país y en cada uno de ellos, una cuenta corriente en moneda extranjera y una cuenta corriente en moneda chilena.
-
-El movimiento que se registre en las referidas cuentas corrientes, deberá corresponder, exclusivamente, a operaciones de su giro de Casa de Cambio.
 
 CAPITULO 13-30 (Bancos y Financieras)
 
@@ -18998,13 +18684,15 @@ Las instrucciones de esta Superintendencia que aludan al tipo de cambio o parida
 
 2.1.- Monedas publicadas en el Diario Oficial.
 
-Las equivalencias o paridades para representación contable corresponderán a los tipos de cambio en moneda chilena y paridades de las distintas monedas extranjeras que publique el Banco Central de Chile en el Diario Oficial el último día hábil bancario de cada mes para los efectos del del Capítulo I del Título I de su Compendio de Normas de Cambios Internacionales.
+Las equivalencias o paridades para representación contable corresponderán a los tipos de cambio en moneda chilena y paridades de las distintas monedas extranjeras que publique el Banco Central de Chile en el Diario Oficial el último día hábil bancario de cada mes para los efectos del del Capítulo I de su Compendio de Normas de Cambios Internacionales.
 
 2.2.- el Diario Oficial.
 
 En el caso de las monedas no incluidas en la publicación efectuada por el Banco Central de Chile en el Diario Oficial el último día hábil bancario de cada mes, la cotización para efectos de representación contable corresponderá al valor que resulte de dividir el tipo de cambio observado para el dólar de Estados Unidos de América que anuncie el Instituto Emisor en dicha publicación, por la paridad respectiva "moneda extranjera/dólar" que entregue el Banco Central de Chile en su Informativo Diario de la misma fecha. El equivalente que resulte en pesos, se expresará con dos decimales, para lo cual el segundo de éstos se ajustará, en los casos que corresponda, sobre la base del valor del tercero.
 
-3. El precio del Peso oro chileno para efectos de representación contable y del ajuste de las inversiones en oro que mantengan las instituciones financieras, se determinará de acuerdo con la cotización que informe el Banco Central de Chile para la onza troy de ese metal el último día hábil bancario de cada mes.
+3.- Valor contable del Peso oro chileno.
+
+El precio del Peso oro chileno para efectos de representación contable y del ajuste de la respectiva cuenta "cambio", se determinará de acuerdo con la cotización que informe el Banco Central de Chile para la onza troy de ese metal el último día hábil bancario de cada mes.
 
 Por consiguiente, el precio de un peso oro se obtendrá de multiplicar el factor 0,0058854 por el precio en dólares de la onza troy, convirtiendo en pesos moneda chilena el resultado obtenido, según el tipo de cambio observado ya referido.
 
@@ -19014,127 +18702,23 @@ No obstante que las instituciones financieras deben aplicar las cotizaciones par
 
 5.- Ajustes de las cuentas "cambio".
 
-Las instituciones financieras registrarán los ajustes mensuales de las cuentas "Cambio Mercado Bancario", de acuerdo con las equivalencias señaladas en este Capítulo, con cargo o abono a "Perdidas de cambio" de la partida 57 05 y "Utilidades de cambio" de la partida 7705 y "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715, según corresponda.
+Las instituciones financieras registrarán los ajustes mensuales de las cuentas "Cambio posición de cambios", de acuerdo con las equivalencias señaladas en este Capítulo, con cargo o abono a "Ajuste posición de cambios" de la partida 5705 o 7705, según corresponda.
 
-Salvo disposición expresa en contrario, el ajuste de las demás cuentas "Cambio" y de las que hagan sus veces, deberá también efectuarse mensualmente de acuerdo con el tipo de cambio y paridades antes señaladas, con cargo o abono a las cuentas que esta Superintendencia haya dispuesto para el ajuste de determinados saldos, de las partidas 5715 y 7715.
-
-En todo caso, al tratarse del ajuste de la cuenta "Cambio Mercado de Divisas de Libre Disposición" señalada en el Capítulo 13-1 de esta Recopilación, se utilizará el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera el día en que se efectúe el ajuste, sin perjuicio de que, para la representación de los saldos en moneda extranjera en los estados financieros y en la información que debe enviarse a esta Superintendencia, deben utilizarse las equivalencias señaladas en este Capítulo.
-
-6.- Información de las cuentas "Conversión" y "Cambio".
-
-En la información que las instituciones financieras envíen a esta Superintendencia, incluirán el saldo neto de las cuentas "Conversión Mercado Bancario", las que serán compensadas entre sí, y el saldo neto de las cuentas "Cambio Mercado Bancario", correspondientes a las diferentes monedas sujetas a posición. Igual procedimiento deberá seguirse con las cuentas de conversión y cambio de monedas de libre disposición.
-
-CAPITULO 13-31 (Bancos)
-
-MATERIA:
-
-LIQUIDACION DE LAS CUENTAS DE RESULTADO EN MONEDAS EXTRANJERAS AL CIERRE DEL EJERCICIO.
-
-1.- Liquidación de saldos de cuentas de resultado en moneda extranjera.
-
-Al cierre de cada ejercicio los saldos en moneda extranjera que las entidades bancarias registren en cada una de sus diferentes cuentas de resultado deberán convertirse a moneda chilena, de acuerdo con el tipo de cambio de representación contable de que trata el Capitulo 13-30 de esta Recopilación.
-
-2.- Monedas sujetas a posición de cambio.
-
-La liquidación de las cuentas de resultado en monedas extranjeras, con la sola excepción de aquellas en monedas denominadas de "libre disposición", se registrará mediante cargos o abonos en la cuenta "Conversión liquidación cuentas de resultado", según se trate de saldos deudores o acreedores. El correspondiente contravalor en moneda chilena, se debitará o acreditará en Pesos en la cuenta de resultado del mismo nombre que aquella que registraba la moneda extranjera, con abono o cargo en la respectiva cuenta "Cambio liquidación cuentas de resultado".
-
-Las cuentas "Conversión liquidación cuentas de resultado" y "Cambio liquidación cuentas de resultado" antes mencionadas formarán parte de las partidas 2510 y 4510 y se saldarán con cargo o abono a las cuentas "Conversión mercado bancario" y "Cambio mercado bancario" en las siguientes oportunidades, según corresponda.
-
-a) Al momento de constituir Reservas en moneda extranjera con todo o parte de su ingreso neto en moneda extranjera, conforme a las instrucciones del Capítulo 13-28 de esta Recopilación Actualizada de Normas;
-
-b) A más tardar el último día hábil del mes de febrero del año siguiente, en el caso que el banco resuelva no constituir Reservas en moneda extranjera con su ingreso neto; y
-
-c) En el curso del mes de enero del año siguiente, cuando exista una pérdida neta en moneda extranjera.
-
-En esas oportunidades, en que se afecta la Posición de Cambios, los bancos comunicarán al Banco Central de Chile los movimientos generados por las respectivas compras y ventas de moneda extranjera, mediante la emisión de las correspondientes "Planillas de operación de cambios" las que integrarán el "Informe Diario de Posición y Operaciones de Cambios Internacionales".
-
-En caso de que al cierre del mes de enero no se haya procedido aún a realizar la liquidación definitiva señalada precedentemente, se deberán ajustar los saldos de las cuentas "Cambio liquidación cuentas de resultado" de acuerdo con lo dispuesto en el N° 5 del Capítulo 13-30, con cargo o abono a una cuenta de la partida 5715 ó 7715, según corresponda.
-
-3.- Monedas de libre disposición.
-
-Los saldos que se registren en cuentas de ingresos y gastos y que estén expresados en cualquiera de las monedas de libre disposición se liquidarán mediante abonos o cargos en la respectiva cuenta "Conversión mercado de divisas de libre disposición" El contravalor resultante en moneda chilena, determinado según las equivalencias informadas por este Organismo, se acreditará o debitará en la cuenta del mismo nombre de ingresos o gastos en moneda chilena, según corresponda, mediante el débito o crédito pertinente en la cuenta "Cambio mercado de divisas de libre disposición" A continuación, el saldo de esta última cuenta se ajustará utilizando el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera, conforme a las instrucciones del N° 5 del Capítulo 13-30 de esta Recopilación.
-
-4.- Información que debe enviarse al Banco Central de Chile y a esta Superintendencia.
-
-Los bancos deberán declarar al Banco Central de Chile y a esta Superintendencia los ingresos y egresos habidos en las diferentes monedas extranjeras de que trata el N°2 de este Capítulo, registrados al cierre del ejercicio anual.
-
-La información se proporcionará de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información.
-
-CAPITULO 13-32(Bancos)
-
-MATERIA:
-
-ARBITRAJES AL CONTADO.
-
-1.- Arbitrajes al contado con personas situadas en Chile.
-
-De conformidad con las normas contenidas en el Compendio de Normas de Cambios Internacionales del Instituto Emisor, los bancos están facultados para realizar libremente arbitrajes al contado, a la paridad normal de mercado, que no impliquen pagos y remesas de moneda extranjera a personas residentes en el exterior.
-
-En la realización de tales operaciones, los bancos deberán sujetarse a las instrucciones contenidas en el Capítulo 13-1 de esta Recopilación, especialmente en lo relativo a la prohibición de vender divisas integrantes de la Posición de Cambios para adquirir alguna de las monedas calificadas como de "libre disposición".
-
-2.- Arbitrajes al contado con personas residentes en el exterior.
-
-En virtud de las normas contenidas en el N° 3 de la letra A del Capitulo III del Título I del Compendio de Normas de Cambios Internacionales, los bancos necesitarán autorización previa del Banco Central de Chile para efectuar arbitrajes al contado que impliquen remesas de monedas extranjeras al exterior, o bien, a personas que no tengan residencia en Chile.
-
-En todo caso, de conformidad con las normas citadas en el párrafo precedente, se entenderá que los bancos cuentan con dicha autorización cuando los arbitrajes al contado se realicen a la paridad internacional normal de mercado con empresas bancarias y entidades financieras del exterior.
-
-Los arbitrajes de que se trata, sólo podrán realizarse con las monedas extranjeras señaladas en el Anexo N° 2 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
-
-3.- Datos mínimos que debe contener todo arbitraje.
-
-Las empresas bancarias que realicen los arbitrajes de que se trata, deberán cuidar que en cada caso se deje constancia, por lo menos, de los siguientes datos:
-
-a) Nombre de la persona o de la entidad bancaria con la que se realice el arbitraje y país de esta última, al tratarse de arbitrajes realizados con personas residentes en el exterior.
-
-b) Montos y nombres de las monedas extranjeras involucradas;
-
-c) Paridad convenida; y,
-
-d) Fecha en que se realice el arbitraje.
-
-4.- Instrucciones contables.
-
-Los arbitrajes al contado tratados en este Capítulo serán registrados de la siguiente forma:
-
-4.1.- Por la moneda extranjera que se adquiere.
-
-Debe: - "Caja" o la cuenta que corresponda por la moneda extranjera que se recibe.
-
-Haber: - "Conversión Mercado Bancario", de la partida 2505 ó 4505.
-
-4.2.- Por la moneda extranjera que se vende.
-
-Debe: - "Conversión Mercado Bancario", por el egreso de la moneda extranjera que se vende por el arbitraje .
-
-Haber: - "Caja" o la cuenta que corresponda por la moneda extranjera que se entrega.
-
-Simultáneamente deben efectuarse los asientos de débito y crédito que correspondan, por los respectivos equivalentes en moneda chilena en las cuentas "Cambio Mercado Bancario", de la partida 2505 ó 4505.
+Salvo disposición expresa en contrario, el ajuste de las demás cuentas "Cambio" y de las que hagan sus veces, deberá también efectuarse mensualmente de acuerdo con el tipo de cambio y paridades antes señaladas, con cargo o abono a las respectivas cuentas de resultado.
 
 CAPITULO 13-34 (Bancos)
 
 MATERIA:
 
-EMISION DE TITULOS PAGADEROS EN MONEDA EXTRANJERA PARA SER COLOCADOS O NEGOCIADOS EN EL EXTERIOR.
+EMISION DE TITULOS PAGADEROS EN MONEDA EXTRANJERA PARA SER COLOCADOS o NEGOCIADOS EN EL EXTERIOR.
 
-1.- Autorización para emitir y colocar títulos en el exterior.
+1.- Emisión y colocación de títulos en el exterior.
 
-Los bancos están facultados para emitir bonos y certificados de depósito para ser colocados en el exterior, con sujeción a las normas contenidas en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile.
+Los bancos que emitan bonos para ser colocados en el exterior de conformidad con lo dispuesto en las normas del Banco Central de Chile, no tienen necesidad de efectuar la inscripción de tales instrumentos en el Registro de Valores de esta Superintendencia.
 
-Las empresas bancarias que decidan emitir los valores antes mencionados, deben obtener, para cada emisión, la autorización del Banco Central de Chile. Dicha autorización se entiende otorgada cuando se trate de la emisión de certificados de depósito a un plazo promedio de hasta dos años.
+2.- Instrucciones contables.
 
-Para los bonos que se colocarán en el exterior no resulta necesaria su inscripción en el Registro de Valores de esta Superintendencia.
-
-2.- Requisitos para efectuar la emisión de títulos.
-
-Para emitir los instrumentos de que trata este Capítulo, a un plazo promedio igual o superior a cuatro años, las respectivas empresas bancarias deben tener una clasificación emitida por las empresas Fitch IBCA o Thomson BankWatch, no inferior a "B" en las categorías de "individual ratings" o "issuer ratings", respectivamente.
-
-Cuando se trate de la emisión de bonos a un plazo igual o superior a dos años e inferior a cuatro años, tales instrumentos deberán contar con una clasificación mínima de "BB" emitida por alguna de las firmas clasificadoras señaladas en el Anexo N° 17 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
-
-Por otra parte, al tratarse de la emisión de bonos subordinados, cuyo plazo promedio no podrá ser inferior a cinco años, los instrumentos de deuda de la institución emisora deberán contar con una clasificación mínima de "BB" emitida por una de las firmas clasificadoras señaladas en el Anexo N° 17 antes mencionado.
-
-3.- Instrucciones contables.
-
-3.1.- Registro de las obligaciones.
+2.1.- Registro de las obligaciones.
 
 Los bonos se registrarán en la respectiva moneda extranjera de acuerdo con el criterio señalado en el título VIII del Capítulo 7-5 de esta Recopilación, utilizando para el efecto las cuentas "Bonos colocados en el exterior", "Descuentos por colocación de bonos en el exterior" y "Primas por colocación de bonos en el exterior", de la partida 3075.
 
@@ -19144,21 +18728,21 @@ Por otra parte, los certificados o pagarés por depósitos de bancos del exterio
 
 3.2.- Liquidación de la moneda extranjera.
 
-En el caso que se determine liquidar los recursos captados por la colocación de los bonos, se utilizarán las cuentas "Conversión bonos en circulación en el exterior", de la partida 2510, y "Cambio bonos en circulación en el exterior", de la partida 4510, las que quedan sujetas al tratamiento normal de cuentas de "conversión" y "cambio", debiendo reflejar la primera el monto de moneda extranjera que se mantiene liquidada y, la segunda, el contravalor en pesos que debe ajustarse mensualmente, según lo dispuesto en el Capítulo 13-30 de esta Recopilación.
+En el caso que se determine liquidar los recursos captados por la colocación de los bonos, se utilizarán las cuentas previstas para el efecto en la letra a) del numeral 3.3 del Capítulo 13-1 de esta Recopilación.
 
 4.- Información que deberá enviarse a esta Superintendencia.
 
-Las empresas bancarias que coloquen bonos en el exterior, deberán hacer llegar a este Organismo, una vez autorizada la emisión por el Banco Central de Chile en los casos en que ella sea requerida, los antecedentes que resulten pertinentes a la emisión entre aquellos que se indican en el N° 1 del título III del Capítulo 2-10 de esta Recopilación Actualizada de Normas de conformidad con las exigencias de la legislación del país en que ellos se coloquen, con la traducción correspondiente en los casos que corresponda.
+Las empresas bancarias que coloquen bonos en el exterior, deberán hacer llegar a este Organismo los antecedentes que resulten pertinentes a la emisión, entre aquellos que se indican en el N° 1 del título III del Capítulo 2-10 de esta Recopilación Actualizada de Normas, de conformidad con las exigencias de la legislación del país en que ellos se coloquen, con la traducción correspondiente en los casos que proceda.
 
-Junto con esos antecedentes, deberán enviar la constancia de autorización del Banco Central de Chile cuando sea exigible, y la siguiente información cuando ella no aparezca en la escritura pública de emisión:
+Junto con esos antecedentes, deberán enviar la siguiente información cuando ella no aparezca en la escritura pública de emisión.
 
-a) País en el que se efectuará la colocación;
+a) País en el que se efectuará la colocación,
 
-b) Exigencias y obligaciones que le imponen al emisor las regulaciones del país extranjero donde se colocará la emisión;
+b) Exigencias y obligaciones que le imponen al emisor las regulaciones del país extranjero donde se colocará la emisión,
 
-c) Obligaciones y derechos que las regulaciones del país extranjero les exijan o reconozcan a los tenedores de bonos;
+c) Obligaciones y derechos que las regulaciones del país extranjero les exijan o reconozcan a los tenedores de bonos,
 
-d) Información que el emisor debe proporcionar a los tenedores de bonos y al representante legal de éstos; y,
+d) Información que el emisor debe proporcionar a los tenedores de bonos y al representante legal de éstos, y,
 
 e) Autorización del organismo extranjero regulador de los mercados bursátiles en los que se transarán los bonos.
 
@@ -19472,274 +19056,6 @@ Las operaciones antes mencionadas que realicen los bancos, registradas en las pa
 
 Los bancos que realicen compras o ventas de contratos a futuro de monedas extranjeras o de tasas de interés y opciones sobre dichos contratos, deberán presentar al Banco Central de Chile, dentro de los plazos que en cada caso se indican, la información que se establece en el Capítulo VI del Título I del Compendio de Normas de Cambios Internacionales o la que, de acuerdo a sus facultades, solicite el Instituto Emisor.
 
-CAPITULO 14-1 (Bancos)
-
-MATERIA:
-
-CARTAS DE CREDITO y COBRANZAS CORRESPONDIENTES A EXPORTACIONES.
-
-### 1. Cartas de crédito
-
-1.1. Generalidades.
-
-La carta de crédito correspondiente a operaciones de exportación, como es sabido, consiste en un documento emitido por un banco situado en el exterior, mediante el cual se compromete a pagar a un exportador situado en Chile, a la vista o a plazo, con aceptación de letra o sin ella, una determinada suma de dinero, siempre que se cumplan las condiciones señaladas en dicho documento.
-
-Las referidas cartas de crédito pueden ser revocables o irrevocables y confirmadas o sin confirmación.
-
-1.2. Aviso de la carta de crédito.
-
-Cuando un banco situado en Chile recibe de un banco extranjero la petición de avisar una carta de crédito al respectivo beneficiario y procede a enviar dicho aviso sin agregar su confirmación, deberá señalar expresamente en esa comunicación que la carta de crédito que avisa no cuenta con su confirmación y,por consiguiente, se limita a comunicar su recepción, sin que ello signifique asumir un compromiso de pago o aceptación de letras con el beneficiario.
-
-Tales cartas de crédito no representan una obligación para el banco avisador, de manera que no afectan su pasivo, pero para los fines de su control y de conocer el volumen de tales créditos, deben registrarse en las cuentas de orden abiertas
-
-para el efecto.
-
-1.3. Confirmación de la carta de crédito.
-
-Los bancos situados en Chile deben atender, con relativa frecuencia, el pedido que les formulan sus bancos corresponsales del exterior o sus propios clientes, beneficiarios de cartas de crédito, en el sentido de que agreguen su "confirmación" a las cartas de crédito comerciales que dichos corresponsales extranjeros emiten.
-
-La confirmación de una carta de crédito constituye, para el banco que la otorga, un compromiso a firme, frente al beneficiario del documento, de cumplir el pago del mismo, en la forma estipulada, siempre que a su vez el beneficiario cumpla todas las condiciones establecidas para que tal pago sea exigible, de acuerdo a los términos de la propia carta de crédito. El compromiso que por medio de la confirmación asume el banco confirmador, es independiente del cumplimiento que debe dar el banco emisor a la obligación de pago que contrae en el acto de emitirla carta de crédito, de manera que ello representa para el banco confirmador un deber frente al beneficiario, que se suma al compromiso que, por su cuenta, asume el emisor del instrumento.
-
-Las instituciones bancarias que agreguen su confirmación a las cartas de crédito,cuidaran de que estas tengan el carácter de irrevocables, a fin de resguardar que el compromiso asumido mediante la confirmación, se encuentre también respaldado por la irrevocabilidad de la obligación contraída por el banco emisor frente al banco que dio la confirmación.
-
-1.4. Cartas de crédito rembolsables por intermedio de los convenios de crédito recíproco entre Bancos Centrales de países miembros de la Asociación Latinoamericana de Integración.
-
-Las cartas de crédito que emitan los bancos establecidos en países que son miembros de la Asociación Latinoamericana de Integración (ALADI), cuyo rembolso se deba realizar con cargo a las cuentas de convenio entre los Bancos Centrales de dichos países miembros, en este caso, del país del banco emisor y del país del banco avisador o confirmador, llevan implícita la garantía de rembolso de los pagos que se registren con motivo de su negociación, de conformidad con lo establecido en el articulo 11 del Convenio de Pagos y Créditos Recíproco, firmado por los Presidentes de los Bancos Centrales de Argentina, Bolivia, Brasil,Colombia, Chile, Ecuador, México, Paraguay, Perú, República Dominicana, Uruguay y Venezuela, el 25 de agosto de 1982.
-
-Igualmente, el articulo 10 del citado convenio garantiza la convertibilidad inmediata de las monedas nacionales que se entreguen a las instituciones autorizadas para efectuar los pagos que se canalicen a través de esos convenios,así como su transferibilidad, cuando dichos pagos sean exigibles.
-
-1.5. Bancos autorizados para operar en los Convenios de Pagos y Créditos Recíproco.
-
-Están facultadas para operar en los Convenios de Pagos y Créditos Reciproco, las instituciones bancarias que los respectivos bancos Centrales mantengan incluidas en las listas de "instituciones autorizadas". Dichas listas son dadas a conocer por el Banco Central de Chile, que mantiene una versión actualizada de esas instituciones en la Tabla de códigos correspondientes a bancos que operan a través de los Convenios de Créditos Recíprocos, contenida en el Título V del Compendio de Normas de Cambio Internacionales. De este modo, los bancos que deseen confirmar, negociar o pagar cartas de crédito a alguna de las citadas instituciones bancarias, amparadas en la garantía del rembolso a través de un Convenio de Pagos y Créditos Recíproco,deberán verificar previamente si la entidad bancaria extranjera emisora del instrumento se encuentra incluida en la correspondiente lista de "instituciones autorizadas".
-
-1.6. Financiamiento de cartas de crédito y pago anticipado de obligaciones.
-
-Las empresas bancarias están facultadas para financiar el pago a los respectivos beneficiarios, de cartas de crédito de exportación, por el período que medie entre la fecha en que se efectúe dicho pago de acuerdo a los términos del acreditivo, y la que se hubiere convenido para el rembolso.
-
-Asimismo, los bancos podrán anticipar, en las condiciones que convengan con los beneficiarios, el pago de las obligaciones derivadas de la negociación de cartas de crédito confirmadas, pagaderas a plazo o contra aceptación. De igual manera, podrán adelantar el pago de cartas de crédito negociadas a plazo, no confirmadas, siempre que los respectivos beneficiarios les hayan cedido previamente el producto del crédito y el banco cesionario haya obtenido la conformidad de pago del banco emisor.
-
-### 2. Cobranzas sobre el exterior
-
-Los exportadores habitualmente confían a las instituciones bancarias la cobranza
-
-del valor de los documentos originados en embarque de mercaderías con destino a
-
-otros países y que deben ser pagados por personas situadas en ellos. Para tal
-
-efecto, las entidades bancarias utilizan los servicios de sus bancos
-
-corresponsales o de sus propias filiales u oficinas situadas en el exterior.
-
-En estos casos, los bancos asumen una responsabilidad ante el exportador que les
-
-ha confiado la gestión de cobro de los referidos documentos, debiendo requerirle
-
-instrucciones claras y precisas sobre el manejo que debe dársele a la cobranza y
-
-mantenerlo informado de su desarrollo.
-
-Una vez obtenido el pago de tales documentos, deben poner a disposición de su
-
-mandante el importe obtenido y actuar de acuerdo a las instrucciones de este
-
-respecto al destino que debe dársele al retorno de la exportación.
-
-### 3. Normas contables
-
-Las instituciones bancarias procederán a registrar las operaciones de que se trata, en la forma que a continuación se indica:
-
-3.1. Cartas de crédito.
-
-3.1.1. Recepción de cartas de crédito sin agregar confirmación.
-
-Debe: "Deudores por créditos del exterior", de la partida 9360, por el importe en moneda extranjera de la respectiva carta de crédito.
-
-Haber: "La cuenta de orden de la partida 9900.
-
-3.1.2. Recepción de cartas de crédito a las que se les agregue confirmación.
-
-Cuando las empresas bancarias reciban cartas de crédito a las que les agreguen su confirmación, registrarán su importe en la respectiva moneda extranjera en alguna de las siguientes cuentas, según sea la forma de pago y de rembolso contemplada en el documento:
-
-a) Sin provisión de fondos.
-
-Debe: - "Deudores por créditos del exterior negociables a la vista-ALADI".
-
-- "Deudores por créditos del exterior negociables a plazo-ALADI",
-
-- "Deudores por créditos del exterior negociables contra aceptación-ALADI",
-
-- "Deudores por créditos del exterior negociables a la vista-Otros países",
-
-- "Deudores por créditos del exterior negociables a plazo-Otros países", o bien,
-
-- "Deudores por créditos del exterior negociables contra aceptación-Otros países", según corresponda.
-
-Los saldos de estas cuentas se demostrarán en la partida 1620 del formulario MB1.
-
-Haber: - "Beneficiarios de créditos del exterior por negociar-ALADI", cuando se trate de créditos cuyo rembolso deba efectuarse por intermedio de un Convenio de Pagos y Créditos Recíproco entre los Bancos Centrales de los países miembros de ALADI, o bien,
-
-- "Beneficiarios de créditos del exterior por negociar-Otros países", según proceda.
-
-Los saldos de estas cuentas serán reflejados en la partida 3620 del formulario MB1.
-
-b) Con provisión de fondos.
-
-Debe: La cuenta que corresponda por la recepción del respectivo importe en moneda extranjera.
-
-Haber: "Beneficiarios de acreditivos enterados en efectivo por negociar", la que se demostrará en la partida 3010 del formulario MB1.
-
-3.1.3. Negociación de cartas de crédito a la vista.
-
-a) Cartas de crédito no confirmadas.
-
-Debe: - La cuenta que corresponda por el rembolso del importe negociado, cuando el banco negociador lo recibe de inmediato en virtud de contar con la autorización del banco emisor para ello o bien, si éste debe ser requerido, al momento del rembolso.
-
-- "Deudores por créditos del exterior negociados a la vista en espera de rembolso", la que se demostrará en la partida 9360, por el importe negociado de la respectiva carta de crédito.
-
-Haber: - La cuenta que corresponda según el destino que se le dé al importe retornado, de conformidad con las instrucciones del exportador,
-
-- "Retornos de exportación por liquidar", de la partida 3010, en los casos en que el importe respectivo se mantenga a disposición del exportador en espera de sus instrucciones respecto al destino que se le dará, o bien,
-
-- "La cuenta de orden de la partida 9900.
-
-Simultáneamente se deberá revertir el asiento contable de que trata el numeral 3.1.1 precedente por el importe que corresponda.
-
-b) Cartas de crédito confirmadas.
-
-Debe: - "Beneficiarios de acreditivos enterados en efectivo por negociar".
-
-- La cuenta que corresponda por el rembolso del importe negociado.
-
-- "Avances otorgados al exterior-Exportaciones ALADI", de la partida 1130 ó 1225, cuando se trate de cartas de crédito cuyo rembolso deba efectuarse por intermedio de un Convenio de Pagos y Créditos Recíproco, en las cuales el banco confirmador se hubiere comprometido ante el banco emisor a financiar la operación por un plazo determinado.
-
-- "Avances otorgados al exterior-Exportaciones otros países", de la partida 1130 ó 1225, en caso que se trate de otras cartas de crédito financiadas por el banco confirmador, o bien,
-
-- "Deudores por cartas de crédito del exterior negociadas bajo reserva", de la partida 1130, cuando la carta de crédito se haya negociado bajo reserva y aún no se hubiere recibido la conformidad del Banco emisor.
-
-Haber: La cuenta que corresponda según el destino que se dé al retorno, de conformidad con las instrucciones del exportador, o bien,
-
-- "Retornos de exportación por liquidar", en caso que el importe respectivo se mantenga a disposición del exportador, en espera de sus instrucciones.
-
-Cuando los documentos de embarque presenten discrepancias con lo estipulado en la carta de crédito y ésta no sea negociada, en espera de la conformidad del Banco emisor, su importe será registrado con cargo a la cuenta "Cartas de crédito documentos pendientes de aprobación", de la partida 9360, con abono a la cuenta de orden de la partida 9900.
-
-3.1.4. Negociación de cartas de crédito con pago diferido.
-
-a) Cartas de créditos no confirmadas.
-
-Debe: - "Deudores por cartas de crédito negociadas a plazo", de la partida 9360, por el importe negociado de la carta de crédito.
-
-Haber: - "La cuenta de orden de la partida 9900.
-
-Simultáneamente deberán revertir el asiento contable a que se refiere el numeral 3.1.1 por el importe que corresponda.
-
-b) Cartas de créditos confirmadas.
-
-Debe: - "Deudores por créditos del exterior negociados a plazo ALADI", por el importe negociado de la respectiva carta de créditos,
-
-- "Deudores por créditos del exterior negociados contra aceptación-ALADI",
-
-- "Deudores por créditos del exterior negociados a plazo-Otros países", o bien,
-
-- "Deudores por créditos del exterior negociados contra aceptación- Otros países", según corresponda.
-
-Estas cuentas serán demostradas en la partida 1130 ó 1225, según sea el plazo que medie entre la fecha de negociación y la fecha fijada para el rembolso de la carta de crédito.
-
-Haber: - "Obligaciones por créditos de exportación negociados-ALADI",o bien,
-
-- "Obligaciones por créditos de exportación negociados-Otros países", según corresponda.
-
-Estas cuentas serán demostradas en la partida 3425 ó 3480, según sea el plazo en el que deba efectuarse el pago al exportador, contado desde la fecha de la negociación.
-
-En caso que los documentos de embarque presenten discrepancias con la carta de crédito y aún no se hubiere recibido la conformidad del Banco emisor, ésta será registrada en la cuenta de activo "Deudores por cartas de crédito del exterior negociadas bajo reserva", que se indica en el numeral 3.1.3 precedente, si hubiere sido negociada, y en las cuentas de orden que se indican en el último párrafo de dicho numeral, en caso de no haber sido negociada.
-
-Simultáneamente deberá revertirse el asiento contable a que se refiere el numeral 3.1.2 precedente, por el importe que corresponda.
-
-3.1.5. Financiamiento de cartas de crédito con pago diferido.
-
-Debe: - "Avances otorgados al exterior-Exportaciones ALADI", de la partida 1130 ó 1225, cuando se trate de cartas de crédito cuyo rembolso deba efectuarse por intermedio de un Convenio de Pagos y Créditos Recíproco, en las cuales el banco confirmador se hubiere comprometido ante el banco emisor a financiar la operación por un plazo determinado a partir de la fecha de pago al beneficiario contemplado en la carta de crédito, o bien,
-
-- "Avances otorgados al exterior-exportaciones otros países", de la partida 1130 ó 1225, en caso que se trate de otras cartas de crédito financiadas por el banco confirmador.
-
-Haber: La cuenta que corresponda, según el destino que se le de al retomo de conformidad con las instrucciones que se reciban del exportador.
-
-Simultáneamente deberá revertirse el asiento contable relativo a la carta de crédito que se financia, según lo dispuesto en la letra b) del numeral 3.1.4 precedente.
-
-3.1.6. Recepción del rembolso de cartas de créditos negociadas.
-
-a) Cartas de créditos no confirmadas.
-
-Debe: - La cuenta que corresponda por la recepción del importe negociado.
-
-Haber: - La cuenta que proceda según el destino que se le de al importe retornado, de conformidad con las instrucciones del exportador, o bien,
-
-- "Retornos de exportación por liquidar", cuando el importe correspondiente se mantenga a disposición del exportador, en espera de sus instrucciones respecto al destino del retorno recibido.
-
-Simultáneamente deberá revertirse el asiento contable de que trata la letra a) del numeral 3.1.3 0 la letra a) del numeral 3.1.4., según proceda.
-
-b) Cartas de crédito confirmadas.
-
-Debe: La cuenta que corresponda por el rembolso del importe respectivo.
-
-Haber: - "Avances otorgados al exterior-Exportaciones ALADI", - "Avances otorgados al exterior-Exportaciones otros países", - La cuenta que corresponda según el destino que se le dé al importe retomado, de conformidad con las instrucciones del exportador, o bien, - "Retornos de exportación por liquidar", en los casos en que aún no se cuente con instrucciones del exportador respecto al destino del retomo, cuando se trate de cartas de crédito negociadas con pago diferido.
-
-Simultáneamente se deberá revertir el asiento contable de que trata la letra b) del numeral 3.1.4, cuando se trate de cartas de crédito negociadas con pago diferido, en los casos que proceda.
-
-3.1.7. Pago anticipado a los beneficiarios.
-
-a) Cartas de crédito no confirmadas.
-
-Los bancos que efectúen pagos anticipados de cartas de crédito negociadas a plazo no confirmadas, previa cesión del producto de éstas por parte del beneficiario y obtención de la conformidad de pago del banco emisor, registrarán esos anticipos de la siguiente forma:
-
-Debe: - "Deudores de créditos pagados anticipadamente-Exportaciones ALADI", o bien,
-
-- "Deudores de créditos pagados anticipadamente-Exportaciones otros países".
-
-Estas cuentas reflejarán la obligación del banco extranjero y corresponden a la partida 1130 ó 1225.
-
-Haber: - La cuenta que corresponda según el destino que se le dé a la moneda extranjera.
-
-b) Cartas de crédito confirmadas.
-
-Los bancos que realicen el pago de las obligaciones contraídas a favor de los beneficiarios de cartas de crédito confirmadas y negociadas a plazo, antes de la fecha de vencimiento de tales obligaciones, efectuarán el siguiente asiento contable:
-
-Debe: - "Obligaciones por créditos de exportación negociados- ALADI", o bien,
-
-- "Obligaciones por créditos de exportación negociados-Otros países", según proceda.
-
-Haber: - La cuenta que corresponda según el destino que se le dé a la moneda extranjera.
-
-3.2.- Cobranzas sobre el exterior.
-
-3.2.1.- Recepción de la cobranza.
-
-Debe: - "Cobranzas, documentarias sobre el exterior", de la partida 9280, por el importe de los documentos recibidos del exportador y que se envien en cobranza a un corresponsal extranjero.
-
-Haber: - "La cuenta de orden de la partida 9900.
-
-3.2.2.- Recepción del pago de la cobranza.
-
-Debe: La cuenta que corresponda por la recepción del pago de la cobranza.
-
-Haber: - La cuenta que proceda según el destino que se le dé al importe retornado, de conformidad con las instrucciones del exportador, o bien,
-
-- "Retornos de exportación por liquidar", en los casos en que el importe respectivo se mantenga a disposición del exportador en espera de sus instrucciones.
-
-Simultáneamente se deberá revertir el asiento contable de que trata el numeral 3.2.1 precedente.
-
-3.3. Intereses.
-
-Los intereses que cobren las instituciones bancarias sobre las cartas de crédito o por el pago anticipado a los beneficiarios de cartas de crédito confirmadas negociadas a plazo, de que trata este Capítulo, ya sea en moneda extranjera o en moneda nacional, serán acreditados en la cuenta que en cada caso corresponda, de la partida 7115.
-
-3.4. Comisiones.
-
-Las comisiones que los bancos cobren por aviso, confirmación, notificación, modificación, negociación u otros conceptos, sea en moneda extranjera o nacional, correspondientes a las cartas de crédito de que se trata, serán acreditadas en la cuenta "Comisiones ganadas sobre cartas de crédito de exportación", que se demostrará en la partida 7515 del formulario MR1.
-
-Asimismo, las comisiones que cobren sobre las cobranzas antes mencionadas, las acreditaran en la cuenta "Comisiones ganadas por cobranzas sobre el exterior", la que será demostrada en la partida 7520 del formulario MR1.
-
-3.5. Gastos de franqueo y otros.
-
-Los importes que los bancos perciban por concepto de recuperación de gastos de franqueo, télex, teléfono y otros similares, serán acreditados en las cuentas que correspondan, de la partida 8315 del formulario MR1.
-
 CAPITULO 14-8 (Bancos)
 
 MATERIA:
@@ -19770,1005 +19086,149 @@ De conformidad con lo dispuesto por el N° 16 del artículo 24 del D.L. N° 3.47
 
 En concordancia con la disposición citada, se establece que los documentos que se beneficiarán de dicha exención, serán los instrumentos con que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, de conformidad con lo dispuesto en el Capítulo III.B.5 del Compendio de Normas Financieras del Banco Central de Chile.
 
-CAPITULO 15-1 (Bancos)
+CAPITULO 14-9 (Bancos)
 
 MATERIA:
 
-CARTAS DE CREDITO Y COBRANZAS CORRESPONDIENTES A IMPORTACIONES Y OPERACIONES CON
+EXPORTACIONES E IMPORTACIONES.
 
-ZONAS FRANCAS.
+El presente Capítulo contiene las instrucciones contables para el registro de operaciones relativas a cartas de crédito, cobranzas y financiamientos de exportaciones e importaciones chilenas, excluidos los créditos otorgados a personas situadas en el exterior de que trata el Capítulo 13-27 de esta Recopilación.
 
-1.- Cartas de crédito para importación.
+I.- EXPORTACIONES.
 
-1.1.- Generalidades.
+1.- Cartas de crédito.
 
-Las cartas de crédito correspondientes a operaciones de importación, como es sabido, consisten en un documento emitido por un banco situado en Chile,mediante el cual éste se compromete, por cuenta de su cliente, a pagar una determinada suma de dinero a un exportador o beneficiario situado en el exterior, a la vista o a plazo, o bien a aceptar o pagar las letras de cambio libradas por el beneficiario siempre que se cumplan las condiciones señaladas en el acreditivo.
+1.1.- Recepción de cartas de crédito.
 
-Las referidas cartas de crédito pueden ser revocables o irrevocables y confirmadas o sin confirmación.
+Las cartas de crédito que reciban los bancos, sin agregar su confirmación, serán registradas en la cuenta "Cartas de crédito de exportación por negociar", de la partida 9360, por el importe en moneda extranjera de la respectiva carta de crédito.
 
-1.2.- Emisión de cartas de crédito.
+Cuando las empresas bancarias reciban tales instrumentos a los que les agreguen su confirmación, registrarán su importe con cargo a la cuenta "Deudores de cartas de crédito de exportación por negociar" de la partida 1620, con abono a la cuenta "Beneficiarios de cartas de crédito de exportación por negociar" de la partida 3620.
 
-Los bancos situados en Chile, a petición de sus clientes y de acuerdo con sus instrucciones, pueden emitir cartas de crédito que amparen el embarque de mercaderías desde el exterior con destino a Chile, de conformidad con las disposiciones vigentes sobre dichas operaciones. Igualmente, las empresas bancarias pueden emitir cartas de crédito por su propia cuenta, cuando se trate
+En los casos en que se haya constituido la provisión de fondos para la confirmación de cartas de crédito, tales operaciones serán registradas en la cuenta "Cartas de crédito de exportación enteradas en efectivo por negociar", de la partida 3010.
 
-de importaciones de bienes para su uso.
+1.2.- Negociación de cartas de crédito a la vista.
 
-Asimismo, los bancos pueden emitir cartas de crédito que amparen el envío de mercaderías desde el extranjero a las Zonas Francas del país. Para el reembolso de estas cartas de crédito no se cuenta con acceso almercado cambiario formal, a diferencia de aquéllas que se abran para realizar importaciones al resto del país, las cuales tienen ese acceso, en la medida que cumplan con las normas fijadas para el efecto por el Banco Central de Chile.
+a) Cartas de crédito no confirmadas.
 
-1.3.- Financiamiento de las cartas de crédito.
+Las cartas de crédito negociadas, no confirmadas, cuyo pago no se ha recibido, serán registradas en la cuenta "Deudores de cartas de crédito de exportación negociadas a la vista en espera de reembolso", de la partida 9360.
 
-Las cartas de crédito que emitan las instituciones bancarias pueden ser financiadas por las personas que hayan solicitado su apertura, mediante la entrega al banco emisor del respectivo importe en moneda extranjera o de su equivalente en moneda chilena, como también pueden ser financiadas por el banco que emita dichos documentos. En este último caso, los créditos deberán
+El importe que se reciba por el pago de la carta de crédito a la vista, será acreditado en la cuenta "Retornos de exportación por liquidar", de la partida 3010, salvo que el beneficiario hubiere indicado anticipadamente el destino para tales fondos.
 
-documentarse mediante la suscripción de un pagaré o la aceptación de una letra de cambio que podrán tener carácter de provisionales hasta la negociación de la carta de crédito, oportunidad en que se remplazarán por un documento definitivo,por el valor de la operación.
+b) Cartas de crédito confirmadas.
 
-Cuando se trate de cartas de crédito financiadas en moneda chilena por el solicitante, se convendrá libremente entre éste y el banco emisor de la carta de crédito el tipo de cambio que se utilizará para determinar el monto provisional en pesos. Asimismo, en estos casos, se deberá firmar un contrato en el que se deje constancia de la venta condicional de moneda extranjera y se indique la responsabilidad del solicitante por las posibles fluctuaciones del tipo de cambio que pudieran afectar a la operación hasta la fecha de la cobertura definitiva.
+El importe de estas operaciones, salvo que el beneficiario haya indicado otro destino, será registrado en la cuenta "Retornos de exportación por liquidar".
 
-1.4.- Cartas de crédito rembolsables por intermedio de un Convenio de Pagos y Créditos Recíproco.
+Cuando la carta de crédito sea negociada bajo reserva, será registrada en la cuenta "Deudores de cartas de crédito de exportación negociadas bajo reserva", de la partida 1130.
 
-Las cartas de crédito que amparen importaciones desde Argentina, Bolivia,Brasil, Colombia, Ecuador, México, Paraguay, Perú, República Dominicana, Uruguay y Venezuela, cuyo pago debe efectuarse por intermedio del Convenio de Pagos y Créditos Recíproco a que se refiere el Capítulo XXV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, deberán llevar la leyenda:
+Por otra parte, cuando la carta de crédito no sea negociada por existir discrepancias, será registrada en la cuenta de orden "Cartas de crédito de exportaciones documentos pendientes de aprobación", de la partida 9360.
 
-"REEMBOLSO A TRAVES DEL CONVENIO CHILENO............BAJO EL N°............".
+1.3.- Negociación de cartas de crédito con pago diferido.
 
-El rembolso de estas cartas de crédito, sólo puede ser solicitado por instituciones que los respectivos Bancos Centrales mantengan incluidas en las listas de "instituciones autorizadas", contenidas en el Capítulo XXVII del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+a) Cartas de crédito no confirmadas.
 
-1.5.- Intereses sobre cartas de crédito.
+Estas cartas de crédito serán registradas en la cuenta de orden "Deudores de cartas de crédito de exportación negociadas a plazo", de la partida 9360.
 
-Los bancos podrán pactar libremente con los ordenantes de las cartas de crédito para importación, los intereses en moneda chilena que cobrarán sobre dichas operaciones, como asimismo aquéllos en moneda extranjera que aplicarán con sujeción a lo dispuesto en el Capítulo III del Titulo ni del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+b) Cartas de crédito confirmadas.
 
-Asimismo, cuando se trate de cartas de crédito que amparen embarques de mercaderías desde el exterior destinadas a las Zonas Francas del país, los bancos podrán acordar con los respectivos ordenantes, los intereses en moneda chilena o en moneda extranjera que cobrarán sobre dichas operaciones.
+Estas cartas de crédito serán registradas en la cuenta "Deudores de cartas de crédito de exportación negociadas a plazo", de la partida 1130 ó 1225, con abono a la cuenta "Obligaciones por cartas de crédito de exportación negociadas", de la partida 3425 ó 3480.
 
-En ningún caso los intereses que se cobren sobre estas operaciones, podrán exceder lo que permita estipular el artículo 6° de la Ley N° 18.010.
+En caso que la carta de crédito se negocie bajo reserva, será registrada en la cuenta "Deudores de cartas de crédito de exportación negociadas bajo reserva", de la partida 1130.
 
-1.6.- Comisiones y otros gastos.
+Si la carta de crédito no fuera negociada, será registrada en la cuenta de orden "Cartas de crédito de exportación documentos pendientes de aprobación", de la partida 9360.
 
-Los bancos podrán convenir libremente con sus clientes la comisión que cobrarán sobre las cartas de crédito de que se trata, como asimismo los gastos de télex, teléfono, correo y otros similares, los que deberán ser cobrados en moneda chilena.
+1.4.- Financiamiento de cartas de crédito.
 
-1.7.- Gastos en moneda extranjera.
+Cuando los bancos financien el pago de la carta de crédito, registrarán dicha operación en la cuenta "Avances otorgados al exterior Exportaciones", de la partida 1130 ó 1225.
 
-Las instituciones bancarias podrán cubrir los importes correspondientes a comisiones, gastos de télex y otros que les carguen sus corresponsales, inherentes a este tipo de operaciones. Estos gastos, cuando se trate de operaciones con acceso al mercado cambiario formal, deberán cubrirse en forma separada, declarando las respectivas ventas al Banco Central de Chile, en la forma prevista en el Capítulo III del Título III del Compendio de Normas de Cambios Internacionales.
+2.- Cobranzas sobre el exterior.
 
-1.8.- Intereses, comisiones y gastos correspondientes a cartas de crédito no utilizadas.
+Los bancos que reciban documentos de exportaciones para su cobro en el exterior, registrarán tales operaciones en la cuenta de orden "Cobranzas documentarias sobre el exterior", de la partida 9280.
 
-Los bancos podrán cobrar los intereses y gastos en moneda chilena convenidos con sus clientes, correspondientes a cartas de crédito no utilizadas, como asimismo, los gastos en moneda extranjera cobrados por sus corresponsales sobre dichas operaciones.
+Cuando reciban el pago de la cobranza, el importe respectivo se abonará en la cuenta "Retornos de exportación por liquidar" de la partida 3010, salvo que el beneficiario haya indicado otro destino.
+
+3.- Financiamiento de exportaciones no amparadas por cartas de crédito.
+
+Los créditos a los exportadores chilenos se incluirán en la cuenta "Préstamos para exportadores", de la partida 1130 ó 1225, según sea el plazo pactado, en tanto que los créditos a bancos u otras personas en el exterior deben registrarse según lo previsto en el Capítulo 13-27 de esta Recopilación.
+
+En el caso de descuentos de letras de cambio o pagarés aceptados o suscritos por los respectivos importadores extranjeros, corresponde también utilizar la cuenta "Préstamos para exportadores" si se trata de descuentos con responsabilidad del cedente. En el caso contrario, se registrarán esas operaciones en la cuenta "Préstamos al exterior para financiar exportaciones chilenas", mencionada en el Capítulo 13-27.
+
+4.- Intereses.
+
+Los intereses por los financiamientos que se otorguen, relacionados con las operaciones de que trata este título I, serán acreditados en la cuenta que en cada caso corresponda, de la partida 7115.
+
+5.- Comisiones.
+
+Las comisiones que los bancos cobren sobre las cartas de crédito de exportación a que se refiere este título I, serán acreditadas en la cuenta "Comisiones ganadas sobre cartas de crédito de exportación", de la partida 7515.
+
+Asimismo, las comisiones que cobren sobre las cobranzas antes mencionadas, se registrarán en la cuenta "Comisiones ganadas por cobranzas sobre el exterior", de la partida 7520.
+
+6.- Gastos de franqueo y otros.
+
+Los importes que los bancos perciban por concepto de recuperación de gastos de franqueo, télex, teléfono y otros similares, serán acreditados en las cuentas que correspondan, de la partida 8315.
+
+II.- IMPORTACIONES.
+
+1.- Cartas de crédito por cuenta de clientes.
+
+1.1.- Apertura.
+
+Cuando la carta de crédito sea financiada por el banco emisor, será registrada en la cuenta "Deudores por cartas de crédito de importación por negociar", de la partida 1615, con abono a "Cartas de crédito para importación por negociar", de la partida 3615.
+
+Las cartas de crédito pagadas en moneda chilena o extranjera por el ordenante, serán registradas en la cuenta "Cartas de crédito de importación por negociar enteradas en efectivo", de la partida 3010.
+
+1.2.- Negociación.
+
+a) Cartas de crédito financiadas por el Banco.
+
+Las cartas de crédito financiadas por el banco serán registradas en "Anticipos para importación" si son a la vista y en "Deudores por cartas crédito de importación negociadas a plazo" si son pagaderas a plazo, ambas de la partida 1125, o bien, "Créditos para importación", de la partida 1220, cuando su plazo de pago sea más de un año.
+
+En caso que la carta de crédito se haya negociado bajo reserva, su importe será registrado en la cuenta "Deudores por cartas de crédito de importación negociadas bajo reserva", de la partida 1125.
+
+El importe adeudado por las cartas de crédito negociadas a plazo será acreditado en la cuenta "Obligaciones por cartas de crédito de importación negociadas a plazo", de la partida 3505, 3515, 3520, 3555, 3560 ó 3565.
+
+b) Cartas de crédito pagadas por el ordenante.
+
+En caso que la carta de crédito se haya negociado bajo reserva y aún no se hubiere recibido la conformidad del ordenante, su importe se deberá registrar en la cuenta "Créditos para importación enterados en efectivo negociados bajo reserva", de la partida 3010.
+
+1.3.- Pago al exterior de las cartas de crédito negociadas a plazo.
+
+Al efectuar el pago de las cartas de crédito negociadas a plazo, estas serán registradas, cuando proceda, en "Anticipos para importación", o bien, en "Créditos para importación", según sea su plazo a menos o más de un año.
 
 2.- Cobranzas del exterior.
 
-Los bancos habitualmente reciben documentos originados en embarques de
+Las cobranzas que reciban los bancos serán registradas en la cuenta de orden "Cobranzas del exterior", de la partida 9340.
 
-mercaderías con destino a nuestro país, que les envían sus corresponsales
+3.- Financiamiento a importadores.
 
-extranjeros con el objeto de que procedan a cobrar su valor y a remitirlo al
+Los bancos que otorguen créditos en moneda extranjera a los importadores para pagar operaciones de importación no amparadas por cartas de crédito, registrarán tales importes en la cuenta "Anticipos para importación", de la partida 1125, o bien, "Créditos para importación", de la partida 1220, según sea el plazo pactado.
 
-exterior, de conformidad con las instrucciones que les imparten para tal
+4.- Gastos en moneda extranjera.
 
-efecto,las que deben ser cumplidas cabalmente, en la medida que sean
+Los desembolsos en moneda extranjera que realice el banco emisor de una carta de crédito, por concepto de comisiones y gastos que le cobre su corresponsal, cuyo importe sea de cargo del ordenante, serán debitados en la cuenta "Anticipos para importación".
 
-concordantes con las disposiciones legales y normativas que rigen la importación
+5.- Intereses.
 
-de mercaderías,como su cobertura y pago al exterior.
+Los intereses en moneda chilena o extranjera que cobren los bancos sobre las cartas de crédito, serán acreditados en la cuenta que corresponda de la partida 7115.
 
-En estos casos, los bancos asumen una responsabilidad ante la institución que
+Por otra parte, los intereses que los bancos paguen por los financiamientos del exterior, serán registrados en la cuenta que proceda de la partida 5180 ó 5185, con excepción de aquellos a cargo del importador que cobre el proveedor sobre cartas de crédito negociadas a plazo, los que se registrarán en la cuenta "Anticipos para importación".
 
-les ha confiado el cobro de los referidos documentos, a la que deben mantener
+6.- Comisiones.
 
-informada del desarrollo de la cobranza y de las gestiones que realicen para
+Las comisiones que se cobren sobre las cartas de crédito de importación, serán registradas en la cuenta "Comisiones ganadas-Cartas de crédito", de la partida 7515.
 
-obtener su pago, así como cuidar en los casos que corresponda, por ejemplo, dela
+Las comisiones que los bancos cobren sobre cobranzas, serán acreditadas en la cuenta "Comisiones ganadas-Cobranzas extranjeras", de la partida 7520.
 
-adecuada protección de la mercadería o de la oportuna renovación de los seguros,
+7.- Cartas de crédito por cuenta del propio banco emisor.
 
-de acuerdo con lo que les hayan solicitado sus mandantes y ellos, en su calidad
+Estas cartas de crédito serán registradas en "Importaciones por cuenta propia", de la partida 2115, con abono a "Cartas de crédito por negociar por cuenta propia", de la partida 3615.
 
-de mandatarios, hayan aceptado cumplir.
+Al efectuar la negociación se registrará en "Importaciones en tránsito" de la partida 2305 si los bienes que se importan se integran al activo fijo, o de la partida 2120 si la importación corresponde a materiales fungibles. La deuda contraída directamente con el proveedor extranjero se registrará en la cuenta "Adeudado al exterior por importaciones por cuenta propia", de la partida 3040 ó 3070, según corresponda.
 
-En los casos en que los bancos reciban los documentos de embarque de parte de
+8.- Pagos a cuenta de créditos.
 
-los propios importadores, deben darle a esas operaciones el mismo tratamiento
-
-que a una cobranza recibida del exterior.
-
-3. - Pago de las cartas de crédito y de las cobranzas del exterior.
-
-Los importadores que adquieran mercaderías extranjeras, con excepción de aquellas destinadas a las Zonas Francas del país, cuya importación haya sido autorizada con acceso al mercado cambiario formal, se proveerán de las divisas necesarias para el pago de las cartas de crédito o de las cobranzas del exterior correspondientes a estas operaciones, mediante su adquisición en dicho mercado,de conformidad con lo dispuesto en el Capítulo III del Título III del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. No obstante lo anterior, cuando un importador sea, a su vez, exportador, podrá utilizar la moneda extranjera proveniente de sus exportaciones para pagar el monto de las importaciones de que se trata, siempre que haya sido previamente autorizado para tal efecto mediante el correspondiente Informe de Importación Complementario, según lo establecido en el Capítulo IV del Título II del Compendio de Normas de Cambios Internacionales del Instituto Emisor.
-
-Las personas que adquieran en el extranjero mercaderías destinadas a las Zonas Francas del país, deberán pagar el importe de las cartas de crédito o de las cobranzas del exterior correspondientes a dichas operaciones, con sus propios recursos en moneda extranjera debido a que no cuentan con acceso al mercado cambiario formal.
-
-4.- Comisiones de agentes.
-
-De conformidad con lo dispuesto en el Capítulo V del Título III del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, los agentes, representantes o cualquiera persona natural o jurídica que actúe en el país por cuenta de firmas del exterior en la venta o colocación de mercaderías, no están obligados a retomar ni a liquidar el importe de las comisiones que perciban por esos negocios, entendidas por tales el beneficio pecuniario, que a cualquier título obtengan por esas operaciones, siempre que den cumplimiento a las condiciones señaladas en dicho Capítulo.
-
-En caso que se liquiden los importes de que se trata, los bancos deben extender la liquidación en formularios numerados correlativamente y timbrados por el Servicio de Impuestos Internos, como asimismo retener el impuesto que corresponda y exigir al comisionista la emisión de la respectiva factura o boleta, de conformidad con las instrucciones impartidas por dicho Servicio.
-
-5. - Instrucciones contables.
-
-5.1.- Cartas de crédito por cuenta de clientes.
-
-5.1.1.- Apertura.
-
-a) Cartas de crédito financiadas por el banco emisor.
-
-Debe: - "Deudores por créditos negociables a la vista" subcuenta "Destino zonas francas", cuando amparen el embarque de mercadería destinada a las zonas francas, o "Destino resto del país", en los demás casos.
-
-- "Deudores por créditos negociables a plazo sin aceptación de letra" subcuenta "Destino zonas francas" o "Destino resto del país".
-
-- "Deudores por créditos negociables a plazo con aceptación de letra" subcuenta "Destino zonas francas" o "Destino resto del país".
-
-Los saldos de estas cuentas se demostrarán en la partida 1615 del formulario MB1.
-
-Haber: - "Cartas de crédito por negociar-ALADI", cuando se trate de créditos cuyo pago deba efectuarse por intermedio de un Convenio de Pagos y Créditos Recíproco, o bien,
-
--"Cartas de crédito por negociar-Otros países".
-
-Los saldos de estas cuentas se demostrarán en la partida 3615 del formulario MB1.
-
-b) Cartas de crédito pagadas en moneda extranjera por el ordenante.
-
-Debe: "Caja" o la cuenta que corresponda por la recepción de la moneda extranjera.
-
-Haber: - "Cartas de crédito enteradas en efectivo-ALADI", o bien,
-
-- "Cartas de crédito enteradas en efectivo-Otros países", según corresponda.
-
-El saldo de estas cuentas se demostrará en la partida 3010 del formulario MB1.
-
-c) Cartas de crédito abiertas con depósito provisional en moneda chilena por el ordenante.
-
-i) Moneda extranjera.
-
-Debe: "Moneda extranjera vendida condicionalmente-Créditos por negociar", la que se demostrará en la partida 2525 del formulario MB1.
-
-Haber: - "Cartas de crédito por negociar-ALADI", o bien,
-
-- "Cartas de crédito por negociar-Otros países".
-
-ii) Moneda chilena.
-
-Debe: "Caja" o la cuenta recepción de la moneda que corresponda por la chilena.
-
-Haber: - "Pagos a cuenta de ventas condicionales de monedas extranjeras", de la partida 4525 del formulario MB1, hasta por el equivalente del importe en moneda extranjera debitado en "Moneda extranjera vendida condicionalmente-Créditos por negociar", calculado al tipo de cambio fijado por esta Superintendencia.
-
-- "Pagos a cuenta de créditos por liquidar", de la partida 3010 del formulario MB1, por el monto enterado por el importador, que supere a la suma acreditada en"Pagos a cuenta de ventas condicionales de moneda extranjera.
-
-5.1.2.- Negociación.
-
-Cuando el banco emisor reciba de su corresponsal la comunicación en la que le informe que la carta de crédito ha sido negociada, procederá a efectuar el siguiente asiento contable:
-
-a) Cartas de crédito financiadas por el banco.
-
-Debe: - "Anticipos para importación" subcuenta "Destino zonas francas" o "Destino resto del país", según corresponda.
-
-- "Deudores por cartas de crédito negociadas a plazo sin aceptación de letra" subcuenta "Destino zonas francas" o "Destino resto del país".
-
-- "Deudores por cartas de crédito negociadas a plazo con aceptación de letra" subcuenta "Destino zonas francas" o "Destino resto del país", o bien,
-
-- "Créditos para importación" subcuenta "Destino zonas francas" o "Destino resto del país".
-
-El saldo de las tres primeras cuentas señaladas se reflejará en la partida 1125, en tanto que el de la última se demostrará en la partida 1220 del referido formulario.
-
-En caso que la carta de crédito se haya negociado bajo reserva y aún no se hubiere recibido la conformidad del ordenante, su importe se deberá registrar en la cuenta "Deudores por cartas de crédito negociadas bajo reserva" subcuenta "Destino zonas francas" o "Destino resto del país", de la partida 1125. Cuando se reciba la conformidad del ordenante, se traspasará alas cuentas antes señaladas.
-
-Haber: - "Comisiones de agente por pagar", cuando proceda, de la partida 3010.
-
-- "Obligaciones por créditos negociados a plazo-ALADI", que se demostrará en la partida 3520 ó 3565.
-
-- "Obligaciones por créditos negociados a plazo Otros países", cuyo saldo se reflejará en las partidas 3505, 3515, 3555 ó 3560, según sea el caso.
-
-- La cuenta que corresponda por el desembolso de la moneda extranjera, en caso de tratarse de una carta de crédito pagadera a la vista, con recursos del banco emisor. En caso que este pago se realice con recursos que se obtengan en el exterior para tal efecto, se deberán acreditar las cuentas "Adeudado a bancos y corresponsales del exterior" de la 3505 ó 3555, "Adeudado al exterior a oficinas del mismo banco" de la partida 3515 ó 3560, o bien, "Adeudado a bancos y corresponsales con rembolso a través de convenios ALADI" de la partida 3520 ó 3565,según corresponda.
-
-Simultáneamente deberá revertirse el asiento contable respectivo, señalado en la letra a) del numeral 5.1.1 precedente.
-
-b) Cartas de crédito pagadas en moneda extranjera por el ordenante.
-
-Debe: - "Cartas de crédito enteradas en efectivo".
-
-- "Anticipos para importación" subcuenta "Destino zonas francas" o "Destino resto del país", por la diferencia, en caso de haberla, entre el importe recibido del ordenante y el valor definitivamente negociado.
-
-Haber: - "Comisiones de agente por pagar", cuando proceda.
-
-- "Remanente de cartas de crédito enteradas en efectivo", por el saldo que pudiera quedar, si el importe depositado por el ordenante ha sido superior al valor de la negociación. Este saldo se demostrará en la partida 3010.
-
-- La cuenta que corresponda por el desembolso de la moneda extranjera para pagar el importe de la negociación.
-
-En caso que la carta de crédito se haya negociado bajo reserva y aún no se hubiere recibido la conformidad del ordenante, su importe se deberá registrar en la cuenta "Cartas de crédito enteradas en efectivo negociadas bajo reserva", dela partida 3010. Cuando se reciba la conformidad del ordenante, se registrarán los importes que correspondan en las cuentas señaladas precedentemente.
-
-c)Cartas de crédito abiertas con depósito provisional en moneda chilena por el ordenante.
-
-Debe: - "Moneda extranjera vendida condicionalmente-Créditos negociados", de la partida 2525, o bien,
-
-- "Moneda extranjera vendida condicionalmente-Negociación bajo reserva", en caso que la carta de crédito hubiere sido negociada bajo reserva y aún no se hubiere obtenido la conformidad del ordenante. Cuando se reciba la conformidad de éste, el importe respectivo será traspasado a la cuenta señalada precedentemente. Esta cuenta se demostrará en la partida 2525.
-
-Haber: - "Comisiones de agente por pagar", cuando proceda.
-
-- La cuenta que corresponda por el importe desembolsado.
-
-Simultáneamente deberá revertirse el asiento contable señalado en el literal i) de la letra c) del numeral 5.1.1 precedente.
-
-5.1.3.- Pago al exterior de las cartas de crédito negociadas a plazo.
-
-Debe: - "Anticipos para importación" subcuenta "Destino zonas francas" o"Destino resto del país", según proceda, o bien,
-
-- "Créditos para importación", subcuenta "Destino zonas francas" o "Destino resto del país".
-
-Haber: La cuenta que corresponda por el desembolso respectivo.
-
-Simultáneamente deberán revertir el asiento contable practicado con motivo de la negociación de la carta de crédito a plazo.
-
-5.1.4.- Recepción del pago de cartas de crédito que amparen embarques para Zonas Francas.
-
-Debe: "Caja" o la cuenta que corresponda por la recepción de la moneda extranjera.
-
-Haber: - "Anticipos para importación" subcuenta "Destino zonas francas",
-
-- "Deudores por cartas de crédito negociadas a plazo sin aceptación de letra" subcuenta "Destino zonas francas",
-
-- "Deudores por cartas de crédito negociadas a plazo con aceptación de letra" subcuenta "Destino zonas francas", o bien,
-
-- "Créditos para importación" subcuenta "Destino zonas francas", según corresponda.
-
-5.1.5.- Coberturas de cartas de crédito.
-
-a) Cartas de crédito financiadas por el banco emisor.
-
-i) Moneda extranjera.
-
-Debe: - "Conversión mercado bancario", de la partida 2505 ó 4505 del formulario MB1, por el monto correspondiente a la importación, más los gastos e intereses respectivos, o bien,
-
-- La cuenta que corresponda por la utilización de divisas provenientes de exportaciones, cuando el pago se realice con esos recursos, de acuerdo con lo autorizado por el Banco Central de Chile en el correspondiente Informe de Importación Complementario.
-
-Haber: - "Anticipos para importación" subcuenta "Destino resto del país",
-
-- "Deudores por cartas de crédito negociadas a plazo con aceptación de letra" subcuenta "Destino resto del país",
-
-- "Deudores por cartas de crédito negociadas a plazo con aceptación de letra" subcuenta "Destino zonas francas", o bien,
-
-- "Créditos para importación" subcuenta "Destino resto del país", según
-
-corresponda.
-
-ii) Moneda chilena.
-
-Debe: "Caja" o la cuenta que corresponda por la recepción de la moneda chilena,
-
-en caso que proceda.
-
-Haber: "Cambio mercado bancario" de la partida 2505 ó 4505 del formulario MB1, por el importe en moneda chilena, de las divisas vendidas.
-
-b) Cartas de crédito abiertas con depósito provisional en moneda chilena por el ordenante.
-
-i) Moneda extranjera.
-
-Debe: "Conversión mercado bancario", por el monto correspondiente a la importación, más los gastos e intereses respectivos, cuando proceda.
-
-Haber: "Moneda extranjera vendida condicionalmente-Créditos negociados".
-
-ii) Moneda chilena.
-
-Debe: - "Pagos a cuenta de ventas condicionales de monedas extranjeras".
-
-- "Pagos a cuenta de créditos por liquidar", cuando proceda.
-
-Haber: "Cambio mercado bancario", por el precio pagado por la moneda extranjera
-
-vendida.
-
-5.1.6.- Gastos en moneda extranjera.
-
-Los desembolsos en moneda extranjera que realice el Banco emisor por concepto de comisiones y gastos que le cobre su corresponsal, cuyo importe sea de cargo del ordenante de la carta de crédito, serán debitados en la cuenta "Anticipos para
-
-importación" subcuenta "Destino zonas francas" o "Destino resto del país", según corresponda, en la que permanecerán hasta su pago o cobertura, conforme a lo señalado en los numerales 5.1.4 y 5.1.5 precedentes.
-
-5.1.7.- Intereses sobre cartas de crédito.
-
-Los intereses en moneda chilena que cobren los bancos sobre las cartas de crédito serán acreditados en la cuenta que corresponda de la partida 7115 del formulario MR1.
-
-Los intereses en moneda extranjera que cobren los bancos, con sujeción a lo dispuesto en el Capítulo III antes mencionado, serán registrados en la cuenta respectiva de la partida 7115 del formulario MR1.
-
-Por otra parte, los intereses que los bancos paguen por los financiamientos del exterior, serán registrados en la cuenta que proceda de la partida 5180 ó 5185 del formulario MR1, con excepción de aquéllos a cargo del importador que cobre el proveedor sobre cartas de crédito negociadas a plazo, los que se registrarán en la cuenta "Anticipos para importación".
-
-5.1.8.- Comisiones.
-
-Las comisiones que se cobren sobre las cartas de crédito serán registradas en la cuenta "Comisiones ganadas-Cartas de crédito", de la partida 7515 del formulario MR1.
-
-5.1.9.- Créditos no pagados a su vencimiento.
-
-El importe de los créditos financiados por los bancos que no sean pagados por el importador al término del plazo fijado para el efecto, será traspasado a Cartera Vencida en la misma moneda en que ellos se encuentren registrados, de conformidad con las normas generales sobre la materia.
-
-5.2. Cartas de crédito por cuenta del propio banco emisor.
-
-5.2.1. Apertura.
-
-Debe: "Importaciones por cuenta propia", de la partida 2115 "Cuentas diversas".
-
-Haber: "Cartas de crédito por negociar por cuenta propia", de la partida 3615.
-
-5.2.2. Negociación.
-
-Debe: "Importaciones en tránsito" de la partida 2305 si los bienes que se importan se integran al activo fijo, o de la partida 2120 si la importación corresponde a materiales fungibles.
-
-Haber: - "Comisiones de agente por pagar", cuando proceda.
-
-- "Adeudado al exterior por importaciones por cuenta propia", por la deuda contraída directamente con el proveedor extranjero, de la partida 3040 6 3070, según proceda, o bien,
-
-- La cuenta que corresponda por el desembolso de la moneda extranjera.
-
-Simultáneamente debe revertirse el asiento contable señalado en el numeral 5.2.1 precedente.
-
-5.2.3. Cobertura.
-
-a) Moneda extranjera.
-
-Debe: "Conversión mercado bancario".
-
-Haber: "Importaciones tránsito".
-
-b) Moneda chilena.
-
-Debe: La cuenta de activo que corresponda según la naturaleza de los bienes importados.
-
-Haber: "Cambio mercado bancario".
-
-5.3.- Cobranzas del exterior.
-
-Las cobranzas del exterior serán registradas de la forma que a continuación se indica, ya sea que la mercadería, representada por los respectivos documentos, esté destinada a las Zonas Francas o al resto del país.
-
-5.3.1.- Recepción de las cobranzas.
-
-Debe: - "Cobranzas del exterior Zonas Francas", o bien,
-
-- "Cobranzas del exterior por Resto del país".
-
-Estas cuentas serán demostradas en la partida 9340.
-
-Haber: "La cuenta de orden de la partida 9900.
-
-5.3.2.- Recepción del pago de las cobranzas sin acceso al mercado de divisas.
-
-Debe: La cuenta que corresponda por la recepción de la moneda extranjera.
-
-Haber: - "Comisiones de agente por pagar", cuando proceda.
-
-- "Cobranzas por remesar", la que será demostrada en la partida 3010.
-
-Además, deben revertir el asiento contable señalado en el numeral 5.3.1 precedente.
-
-5.3.3.- Cobertura de las cobranzas que tengan acceso al mercado de divisas.
-
-a) Moneda extranjera.
-
-Debe: "Conversión mercado bancario", por el monto correspondiente a la importación, más los gastos e intereses, cuando proceda.
-
-Haber: - "Comisiones de agente por pagar", cuando proceda.
-
-- "Coberturas por remesar", de la partida 3010.
-
-b) Moneda chilena.
-
-Debe: "Caja" o la cuenta que corresponda por la moneda chilena recibida.
-
-Haber: "Cambio mercado bancario".
-
-5.3.4.- Remesa de las divisas.
-
-Debe: - "Cobranzas por remesar", o bien,
-
-- "Coberturas por remesar", según proceda.
-
-Haber: La cuenta que corresponda por el desembolso de la moneda extranjera.
-
-5.3.5.- Comisiones de cobranza.
-
-Las comisiones que los bancos cobren sobre estas operaciones, serán acreditadas en la cuenta "Comisiones ganadas-Cobranzas extranjeras", cuyo saldo será demostrado en la partida 7520.
-
-5.4.- Liquidación de comisiones de agentes.
-
-La liquidación de comisiones de agentes que provengan de las operaciones de importación de que trata este capítulo, se contabilizará de la siguiente forma:
-
-a) Moneda extranjera.
-
-Debe: "Comisiones de agente por pagar", por el importe de la comisión que se liquida.
-
-Haber: -"Impuesto por pagar sobre comisiones de agente", de la partida 3010, por el impuesto que corresponda retener en moneda extranjera.
-
-- "Conversión mercado bancario".
-
-b) Moneda chilena.
-
-Debe: "Cambio mercado bancario", por el valor de la moneda chilena, pagado por las divisas correspondientes a la comisión que se liquida.
-
-Haber: - "Impuesto por pagar sobre comisiones de agente", de la partida 3010, por el impuesto que corresponda retener en moneda chilena.
-
-- La cuenta que corresponda por el pago al comisionista.
-
-5.5.- Pagos a cuenta de créditos.
-
-Los importes que los bancos reciban en moneda chilena para destinarlos a la cobertura de importaciones, serán acreditados en la cuenta "Pagos a cuenta de créditos por liquidar" de la partida 3010 del formulario MB1.
+Los importes que los bancos reciban en moneda chilena para destinarlos a la cobertura de importaciones, serán acreditados en la cuenta "Pagos a cuenta de créditos por liquidar" de la partida 3010.
 
 En la misma cuenta antes señalada se deberán contabilizar los importes que los bancos reciban, ya sea como resultado de la cobranza de letras u otros efectos de comercio constituidos en garantía o de cualquier otro origen, con el objeto de aplicarlos al pago de créditos para importación o de cualquiera otra naturaleza.
-
-5.6.- Financiamiento de importaciones pagaderas al contado.
-
-De conformidad con lo indicado en las instrucciones relativas al Informe de Importación contenidas en el Capítulo II del Título III del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, los bancos están facultados para financiar en moneda extranjera operaciones de importación no amparadas por cartas de crédito, siempre que en el informe de importación se señale que la forma de pago de la operación es al contado.
-
-Estos financiamientos serán registrados en la cuenta "Anticipos para importaciones pagaderas al contado", de la partida 1125 ó 1220, según sea el plazo pactado.
-
-En los casos en que, eventualmente, el importador entregue el equivalente en pesos, moneda chilena, al Banco que efectúe el pago en moneda extranjera de dichas operaciones, la recepción de los pesos debe ser considerada una venta condicional de moneda extranjera y registrarse en forma similar a la indicada en la letra c) del numeral 5.1.2 de este Capítulo, utilizando para el efecto la cuenta "Moneda extranjera vendida condicionalmente-pagos al contado" de la partida 2525.
-
-Los intereses ganados por estos financiamientos se registrarán, en moneda extranjera, de acuerdo con las normas generales sobre la materia. Cuando los bancos reciban el equivalente en moneda chilena por la venta condicional de la respectiva moneda extranjera, no podrán cobrar intereses sobre tales operaciones.
-
-6.- Límites legales.
-
-Los créditos correspondientes a acreditivos financiados por el banco emisor,están afectos a los límites a que se refiere el artículo 84 N° 1 de la Ley General de Bancos, desde el instante en que se procede a la apertura de larespectiva carta de crédito.
-
-Para esos efectos, se pueden considerar como garantía los documentos de embarque por recibir o recibidos, siempre que se cumplan las condiciones señaladas en el Capítulo 12-3 de esta Recopilación Actualizada de Normas.
-
-CAPITULO 15-2 (Bancos)
-
-MATERIA:
-
-IMPORTACIONES DESDE ZONAS FRANCAS.
-
-I.- ADQUISICION DE DIVISAS PARA PAGAR IMPORTACIONES DESDE ZONAS FRANCAS A ZONAS FRANCAS DE EXTENSION.
-
-1.- Norma general.
-
-De conformidad con lo dispuesto en el Capítulo VI del Título III del Compendio de Normas de Cambios Internacionales, los interesados en comprar divisas para pagar mercaderías adquiridas en Zonas Francas para sus respectivas Zonas Francas de Extensión, deberán estar en posesión para tal efecto, del documento denominado Solicitud Registro Factura (S.R.F.).
-
-La referida adquisición de divisas, no sujetas a la obligación de liquidar, sólo podrá efectuarse una vez que haya sido internada la mercadería y a más tardar dentro de los 30 días hábiles bancarios siguientes a la fecha en que el pago de la respectiva operación se haga exigible según lo indicado en la correspondiente S.R.F, salvo que el Instituto Emisor haya autorizado un plazo superior para ese objeto. El importe de divisas que se adquiera, corresponderá al valor asignado para tal efecto de conformidad con lo dispuesto en el artículo 45 de la Ley Orgánica Constitucional del Banco Central de Chile.
-
-Los bancos sólo podrán efectuar la venta de las divisas antes mencionada a la persona que aparezca consignada en calidad de adquirente o de Usuario en la respectiva S.R.F.
-
-2.- Requisitos para efectuar la cobertura.
-
-a) Que se presente carta instrucciones de cobertura, dirigida a la empresa bancaria, debidamente firmada por el interesado, con indicación del N° y fecha de la Solicitud Registro Factura y del monto en moneda extranjera a cubrir.
-
-b) Que se presente copia "Banco Central de Chile" de la Solicitud Registro Factura debidamente legalizada o cumplida.
-
-3.- Comunicación al Banco Central de Chile de las ventas de divisas con cargo al mercado cambiarlo formal.
-
-Las empresas bancarias deberán comunicar al Banco Central de Chile cada una de las ventas de divisas efectuadas en conformidad a lo señalado precedentemente, mediante Planillas de Cobertura Egreso Comercio Visible-SRF.
-
-Las planillas emitidas deberán ser enviadas diariamente al Banco Central de Chile, incluidas en la Posición de Cambios de la fecha correspondiente.
-
-4.- Anotación de las ventas de divisas.
-
-Las empresas bancarias que efectúen la venta de divisas para cubrir mercaderías amparadas por una Solicitud Registro Factura, deberán anotar al dorso de la copia "Banco Central de Chile" de dicho documento, el número, la fecha y el monto en dólares de los Estados Unidos de América de la respectiva Planilla de Cobertura Egreso Comercio Visible-SRF, refrendando esa información mediante una firma autorizada.
-
-5.- Archivo de la documentación.
-
-Las empresas bancarias formarán un legajo con cada una de las Solicitudes Registro Factura por las cuales hayan vendido divisas.
-
-Estos legajos serán mantenidos bajo su responsabilidad y se archivarán correlativamente por el número de Solicitud Registro Factura e incluirán obligadamente los siguientes documentos, por el plazo que establece el artículo 155 de la Ley General de Bancos:
-
-a) Copia "Banco Central de Chile" de la Solicitud Registro Factura.
-
-b) Original de la o de las respectivas Planillas de Cobertura Egreso Comercio Visible-SRF.
-
-c) Carta de instrucciones de cobertura.
-
-### II. PROCEDIMIENTOS DE PAGO
-
-Las empresas bancarias pueden abrir, confirmar, negociar y financiar cartas de crédito que amparen importaciones desde una Zona Franca a una Zona Franca de Extensión o al resto del país, de conformidad con las disposiciones vigentes sobre dichas operaciones.
-
-Asimismo, las empresas bancarias pueden recibir documentos de embarque en cobranza, correspondientes a importaciones desde las Zonas Francas.
-
-### III. CARTAS DE CREDITO
-
-1.- Cartas de crédito que amparen importaciones desde las Zonas Francas al resto del país.
-
-Las cartas de crédito que se establezcan para el pago de las importaciones que se realicen desde las Zonas Francas hacia las Zonas Francas de Extensión o al resto del país, podrán emitirse pagaderas a la vista, a plazo o contra aceptación de letra y se sujetarán en todo, a las normas generales sobre importaciones y a las normas especiales que les sean aplicables.".
-
-En consecuencia, se remplazan todas las hojas del Capítulo 15-2 antes mencionado por las que se adjuntan a esta Circular.
-
-2.- Contabilización de las operaciones con cartas de crédito.
-
-2.1.- Por los bancos emisores.
-
-2.1.1.- Apertura.
-
-Los bancos registrarán la apertura de la carta de crédito en una de las siguientes cuentas, según la modalidad que se haya acordado con el cliente:
-
-Debe: - "Deudores por cartas de crédito a la vista - Zonas Francas", en caso de que las cartas de crédito sean negociables y pagaderas a la vista, con financiamiento del banco emisor.
-
--"Deudores por cartas de crédito negociables a plazo - Zonas Francas", en el caso que se establezca el pago al beneficiario para una fecha posterior a la de negociación del acreditivo.
-
-- "Deudores por cartas de crédito negociables contra aceptación de letras-Zonas Francas". Los saldos de estas cuentas se demostrarán en la partida 1615.
-
--"Moneda Extranjera vendida condicionalmente-cartas de crédito por negociar-Zonas Francas", cuyo saldo se registrará en la partida 2525, si el cliente importador deposita al momento de la apertura, el equivalente en moneda chilena del monto de la carta de crédito, calculado a la cotización que a esa fecha tenga la respectiva moneda extranjera.
-
-Haber: - "Cartas de crédito a la vista - Zonas Francas", cuando se trate de acreditivos pagaderos contra presentación de documentos de embarque o de otros documentos que se señalen.
-
-- "Cartas de crédito negociables a plazo - Zonas Francas", cuando la carta de crédito establezca que su pago al beneficiario se hará después de transcurrido un plazo determinado.
-
-- "Cartas de crédito negociables contra aceptación de letra - Zonas Francas", cuando el acreditivo sea negociable contra aceptación de una letra a plazo por parte del banco negociador.
-
-Estas cuentas formarán parte de la partida 3615
-
-2.1.2.- Por la negociación.
-
-Una vez producida la negociación, los bancos revertirán las contabilizaciones señaladas en el numeral anterior y registrarán la operación en una de las siguientes cuentas, según corresponda:
-
-Debe: - "Anticipos para importaciones - Zonas Francas", en el caso que el acreditivo pagado al beneficiario haya sido financiado por el banco. Esta cuenta se demostrará en la partida 1125.
-
-- "Moneda extranjera vendida condicionalmente -cartas de crédito negociadas, Zonas Francas" en el evento que la apertura del acreditivo se hubiera realizado con un depósito provisional en moneda chilena. El saldo de esta cuenta se incluirá en la partida 2525.
-
-- "Deudores por cartas de crédito negociadas a plazo - Zonas Francas", si se trata de un acreditivo negociado para ser pagado al beneficiario en un plazo determinado, posterior a la fecha de negociación. El saldo de esta cuenta se incluirá en la partida 1125.
-
-- "Deudores por cartas de crédito negociadas contra aceptación de letras - Zonas Francas", cuando el acreditivo haya sido negociado mediante una letra a plazo aceptada por el banco negociador a favor del beneficiario. El saldo de esta cuenta formará parte de la partida 1125.
-
-Haber: - "Obligaciones por cartas de crédito negociadas a plazo - Zonas Francas", por el compromiso de pagar la carta de crédito negociada por otro banco en el plazo estipulado. El saldo de esta cuenta se incluirá en la partida 3410 ó 3415.
-
--"Obligaciones por cartas de crédito negociadas a plazo por sucursales - Zonas Francas", si el compromiso de pagar al beneficiario en el plazo estipulado, se ha contraído por intermedio de una sucursal del mismo banco. Esta cuenta se demostrará en la partida 3425. El acreedor en estos casos, será directamente el beneficiario de la respectiva carta de crédito a plazo.
-
-- "Obligaciones por créditos documentarios negociados contra aceptación de letra Zonas Francas", si la negociación la realiza un banco local y éste acepta una letra a favor del beneficiario, de conformidad con las estipulaciones de la carta de crédito. Esta cuenta formará parte de la partida 3410 ó 3415.
-
-"Obligaciones por créditos documentarios negociados contra aceptación por sucursales - Zonas Francas", en los casos en que las negociaciones se realicen por intermedio de sucursales del propio banco. En este evento la aceptación es del mismo banco y, por lo tanto, la obligación de pago es directa al beneficiario del crédito. Esta cuenta debe demostrarse en la partida 3425, a que se hizo referencia anteriormente.
-
-Cuando se trate de la negociación de cartas de crédito a la vista, se acreditará la cuenta contra la cual se efectúe el giro correspondiente para reembolsar el pago al banco negociador.
-
-2.2.- Bancos notificadores. confirmadores y/o negociadores
-
-2.2.1.- Por la recepción de la carta de crédito
-
-El banco que reciba una carta de crédito abierta por otro banco situado en el país, a favor de un usuario de la Zona Franca, procederá a registrar ese acreditivo en la cuenta de orden "Deudores por créditos documentarios-Zonas Francas" de la partida 9360.
-
-En el caso que el banco notificador o receptor de la carta de crédito sea una sucursal del propio banco emisor del acreditivo, registrará como deudor el nombre del ordenante de la carta de crédito y el nombre de la oficina del banco que la emitió.
-
-Si el banco emisor es otro banco distinto del notificador o receptor, será considerada como deudora la entidad bancaria que emitió la carta de crédito. La reversión de estos asientos se operará en el momento en que el crédito sea confirmado, traspasado, negociado o cancelado.
-
-2.2.2.- Confirmación de la carta de crédito
-
-El banco que confirme una carta de crédito a favor de un usuario de la Zona Franca, emitida por otro banco del país, registrará la operación en las cuentas "Deudores por créditos confirmados-Zonas Francas" y "Beneficiarios de créditos confirmados-Zonas Francas", que se incluyen en las partidas 1620 y 3620, respectivamente.
-
-Los registros contables efectuados en estas cuentas se revertirán una vez que el crédito sea negociado o cancelado.
-
-2.2.3.- Negociación y pago.
-
-Los pagos que se realicen por la negociación de cartas de crédito a la vista, se debitarán en la cuenta "Avances otorgados a bancos del país", que se incluirá en la partida 1120.
-
-Una vez recibido el abono del banco emisor del crédito, se revertirá ese asiento y se debitará la cuenta en la que se depositará ese pago.
-
-2.2.4.- Cartas de crédito negociadas a plazo.
-
-Cuando un banco negocie una carta de crédito a plazo, emitida por otro banco, a la que haya otorgado su confirmación, la registrará en "Acreditivos confirmados negociados a plazo-Zonas Francas", cuyo saldo se demostrará en la partida 1120.
-
-En el Pasivo contabilizará ese compromiso en la cuenta "Acreedores por cartas de crédito confirmadas negociadas a plazo - Zonas Francas" de la partida 3425.
-
-Si la negociación la efectúa una sucursal del propio banco emisor de la carta de crédito, se contabilizará en la cuenta de orden "Acreditivos negociados a plazo por cuenta de oficinas del mismo Banco" de la partida 9360.
-
-2.2.5.- Cartas de crédito negociadas contra aceptación.
-
-Si la carta de crédito a plazo es negociada contra aceptación de una letra por parte del banco negociador, el registro contable de esa aceptación se hará en la cuenta "Deudores por acreditivos negociados contra aceptación de letra - Zona Franca", que formará parte de la partida 1125.
-
-En el pasivo se contabilizará ese compromiso en la cuenta "Acreedores por cartas de crédito negociadas contra aceptación - Zonas Francas" de la partida 3425.
-
-Si la aceptación se cursa por una sucursal del propio banco, será registrada en la cuenta de orden "Deudores por aceptaciones de créditos negociados- Zonas Francas" de la partida 9360 hasta que se realice el pago de la carta de crédito por haberse cumplido el plazo o haber vencido la aceptación.
-
-### IV. COBRANZAS
-
-Los documentos que las entidades bancarias reciban en cobranza y que correspondan a importaciones desde las Zonas Francas a las Zonas Francas de Extensión o al resto del país, serán registrados en la cuenta de orden "Cobranzas - Zonas Francas" de la partida 9340.
-
-1.- Cartas de crédito que amparen importaciones desde las Zonas Francas al resto
-
-del país.
-
-Las cartas de crédito que se establezcan para el pago de las importaciones que
-
-se realicen desde las Zonas Francas hacia el resto del país, podrán emitirse
-
-pagaderas a la vista, a plazo o contra aceptación de letra, pero, en todo caso,
-
-siempre deben estar amparadas por un Informe de Importación aprobado o por una
-
-Solicitud Registro Factura cuando se trate de operaciones hacia la Zona Franca
-
-de Extensión, y se sujetarán en todo, a las normas generales sobre
-
-importaciones.
-
-2.- Cartas de crédito que amparen importaciones desde las Zonas Francas a sus
-
-respectivas Zonas Francas de Extensión.
-
-Cuando se trate de importaciones desde las Zonas Francas a su respectiva Zona
-
-Franca de Extensión, las empresas bancarias podrán establecer cartas de crédito
-
-pagaderas a la vista, a plazo o contra aceptación de letra, siempre que estén
-
-amparadas por una Solicitud Registro Factura emitida por el Banco Central de
-
-Chile o por una empresa bancaria, según corresponda.
-
-3. - Contabilización de las operaciones con cartas de crédito.
-
-3.1.- Por los bancos emisores.
-
-3.1.1.- Apertura.
-
-Los bancos registrarán la apertura de la carta de crédito en una de las
-
-siguientes cuentas, según la modalidad que se haya acordado con el cliente:
-
-Debe: - "Deudores por cartas de crédito a la vista - Zonas Francas", en caso de
-
-que las cartas de crédito sean negociables y pagaderas a la vista, con
-
-financiamiento del banco emisor.
-
-- "Deudores por cartas de crédito negociables a plazo - Zonas Francas", en el
-
-caso que se establezca el pago al beneficiario para una fecha posterior a la de
-
-negociación del acreditivo.
-
-- "Deudores por cartas de crédito negociables contra aceptación de letras-Zonas
-
-Francas". Los saldos de estas cuentas se demostrarán en la partida 1615 del
-
-formulario MB1.
-
-"Moneda Extranjera vendida condicionalmente -cartas de crédito por negociar-
-
-Zonas Francas", cuyo saldo se registrará en la partida 2525 del formulario MB1,
-
-si el cliente importador deposita al momento de la apertura el equivalente en
-
-moneda chilena del monto de la carta de crédito, calculado a la cotización que a
-
-esa fecha tenga la respectiva moneda extranjera.
-
-Haber: - "Cartas de crédito a la vista - Zonas Francas", cuando se trate de
-
-acreditivos pagaderos contra presentación de documentos de embarque o de otros
-
-documentos que se señalen.
-
-- "Cartas de crédito negociables a plazo - Zonas Francas", cuando la carta de
-
-crédito establezca que su pago al beneficiario se hará después de transcurrido
-
-un plazo determinado.
-
-- "Cartas de crédito negociables contra aceptación de letra - Zonas Francas",
-
-cuando el acreditivo sea negociable contra aceptación de una letra a plazo por
-
-parte del banco negociador. Estas cuentas formarán parte de la partida 3615 del
-
-formulario MB1.
-
-3.1.2.- Por la negociación.
-
-Una vez producida la negociación, los bancos revertirán las contabilizaciones
-
-señaladas en el numeral anterior y registrarán la operación en una de las
-
-siguientes cuentas, según corresponda:
-
-Debe: - "Anticipos para importaciones- Zonas Francas", en el caso que el
-
-acreditivo pagado al beneficiario haya sido financiado por el banco. Esta cuenta
-
-se demostrará en la partida 1125 del formulario MB1.
-
-- "Moneda extranjera vendida condicionalmente - cartas de crédito negociadas -
-
-Zonas Francas" en el evento que la apertura del acreditivo se hubiera realizado
-
-con un depósito provisional en moneda chilena. El saldo de esta cuenta se
-
-incluirá en la partida 2525 del formulario MB1.
-
-- "Deudores por cartas de crédito negociadas a plazo - Zonas Francas", si se
-
-trata de un acreditivo negociado para ser pagado al beneficiario en un plazo
-
-determinado, posterior a la fecha de negociación. El saldo de esta cuenta se
-
-incluirá en la partida 1125 del formulario MB1.
-
-- "Deudores por cartas de crédito negociadas contra aceptación de letras - Zonas
-
-Francas", cuando el acreditivo haya sido negociado mediante una letra a plazo
-
-aceptada por el banco negociador a favor del beneficiario. El saldo de esta
-
-cuenta formará parte de la partida 1125 del formulario MB1.
-
-Haber: - "Obligaciones por cartas de crédito negociadas a plazo - Zonas
-
-Francas", por el compromiso de pagar la carta de crédito negociada por otro
-
-banco en el plazo estipulado. El saldo de esta cuenta se incluirá en la partida
-
-3410 ó 3415 del Formulario MB1.
-
-- "Obligaciones por cartas de crédito negociadas a plazo por sucursales - Zonas
-
-Francas", si el compromiso de pagar al beneficiario en el plazo estipulado, se
-
-ha contraído por intermedio de una sucursal del mismo banco. Esta cuenta se
-
-demostrará en la partida 3425 del formulario MB1. El acreedor en estos casos,
-
-será directamente el beneficiario de la respectiva carta de crédito a plazo.
-
-- "Obligaciones por créditos documentarios negociados contra aceptación de letra
-
-- Zonas Francas", si la negociación la realiza un banco local y éste acepta una
-
-letra a favor del beneficiario, de conformidad con las estipulaciones de la
-
-carta de crédito. Esta cuenta formará parte de la Partida 3410 ó 3415 del
-
-formulario MB1.
-
-- "Obligaciones por créditos documentarios negociados contra aceptación por
-
-sucursales - Zonas Francas", en los casos en que las negociaciones se realicen
-
-por intermedio de sucursales del propio banco. En este evento la aceptación es
-
-del mismo banco y, por lo tanto, la obligación de pago es directa al
-
-beneficiario del crédito. Esta cuenta debe demostrarse en la partida 3425 del
-
-formulario MB1, a que se hizo referencia anteriormente.
-
-Cuando se trate de la negociación de cartas de crédito a la vista, se acreditará
-
-la cuenta contra la cual se efectúe el giro correspondiente para reembolsar el
-
-pago al banco negociador.
-
-3.2.- Bancos notificadores, confirmadores y/o negociadores.
-
-3.2.1.- Por la recepción de la carta de crédito.
-
-El banco que reciba una carta de crédito abierta por otro banco situado en el
-
-país, a favor de un usuario de la Zona Franca, procederá a registrar ese
-
-acreditivo en las cuentas "Deudores por créditos documentarios-Zonas Francas" y
-
-"Beneficiarios de créditos documentarios-Zonas de las partidas 9360 y 9900 del
-
-formulario MB1.
-
-En el caso que el banco notificador o receptor de la carta de crédito sea una
-
-sucursal del propio banco emisor del acreditivo, registrará como deudor el
-
-nombre del ordenante de la carta de crédito y el nombre de la oficina del banco
-
-que la emitió.
-
-Si el banco emisor es otro banco distinto del emisor, será considerada como
-
-deudora la entidad bancaria que emitió la carta de crédito. La reversión de
-
-estos asientos se operará en el momento en que el crédito sea confirmado,
-
-traspasado, negociado o cancelado.
-
-3.2.2.- Confirmación de la carta de crédito.
-
-El banco que confirme una carta de crédito a favor de un usuario de la Zona
-
-Franca, emitida por otro banco del país, registrará la operación en las cuentas
-
-"Deudores por créditos confirmados-Zonas Francas" y "Beneficiarios de créditos
-
-confirmados-Zonas Francas", que se incluyen en las partidas 1620 y 3620 del
-
-formulario MB1, respectivamente
-
-Los registros contables efectuados en estas cuentas se revertirán una vez que el
-
-crédito sea negociado o cancelado.
-
-3.2.3.- Negociación y pago.
-
-Los pagos que se realicen por la negociación de cartas de crédito a la vista, se
-
-debitarán en la cuenta "Avances otorgados a bancos del país", que se incluirá en
-
-la partida 1120 del formulario MB1.
-
-Una vez recibido el abono del banco emisor del crédito, se revertirá ese asiento
-
-y se debitará la cuenta en la que se depositará ese pago.
-
-3.2.4.- Cartas de crédito negociadas a plazo.
-
-Cuando un banco negocie una carta de crédito a plazo, emitida por otro banco, a
-
-la que haya otorgado su confirmación, la registrará en "Acreditivos confirmados
-
-negociados a plazo - Zonas Francas", cuyo saldo se demostrará en la partida 1120
-
-del formulario MB1.
-
-En el pasivo contabilizará ese compromiso en la cuenta "Acreedores por cartas de
-
-crédito confirmadas negociadas a plazo - Zonas Francas" de la partida 3425 del
-
-formulario MB1.
-
-Si la negociación la efectúa una sucursal del propio banco emisor de la carta de
-
-crédito, se contabilizará en las cuentas "Acreditivos negociados a plazo por
-
-cuenta de oficinas del mismo Banco". Esta cuenta se incluirá en la partida 9360
-
-del formulario MB1.
-
-En el Haber se registrará en la cuenta "Responsabilidad por créditos negociados
-
-a plazo por cuenta de oficinas del mismo banco", que se demostrará en la partida
-
-9900 del formulario MB1.
-
-3.2.5.- Cartas de crédito negociadas contra aceptación.
-
-Si la carta de crédito a plazo es negociada contra aceptación de una letra por
-
-parte del banco negociador, el registro contable de esa aceptación se hará en la
-
-cuenta "Deudores por acreditivos negociados contra aceptación de letra - Zona
-
-Franca", que formará parte de la partida 1125 del formulario MB1.
-
-En el Pasivo se contabilizará ese compromiso en la cuenta "Acreedores por cartas
-
-de crédito negociadas contra aceptación - Zonas Francas" de la partida 3425 del
-
-formulario MB1.
-
-Si la aceptación se cursa por una sucursal del propio banco, será registrada en
-
-la cuenta denominada "Deudores por aceptaciones de crédito negociados - Zonas
-
-Francas", de la partida 9360 del formulario MB1.
-
-En el Haber de las cuentas de orden se contabilizará en la cuenta
-
-"Responsabilidad del banco por aceptaciones de créditos negociados - Zonas
-
-Francas", de la partida 9900 del formulario MB1.
-
-Estos asientos se revertirán en la oportunidad en que se realice el pago de la
-
-carta de crédito por haberse cumplido el plazo o haber vencido la aceptación.
-
-### V. MARGENES LEGALES
-
-A los bancos que emitan cartas de crédito pagaderas a plazo o contra aceptación, confirmadas o negociadas por otras instituciones bancarias, les serán aplicables, por parte de los bancos confirmadores o negociadores, los márgenes individuales de crédito de que trata el artículo 84 de la Ley General de Bancos.
-
-Estos márgenes afectarán también a los clientes deudores del banco emisor de la carta de crédito, mientras subsista el financiamiento de la operación.
-
-CAPITULO 15-4 (Bancos)
-
-MATERIA:
-
-COBERTURA DE IMPORTACIONES.
-
-### 1. Generalidades
-
-De conformidad con lo dispuesto en el Capítulo III del Título III del Compendio de Normas de Cambios Internacionales, las instituciones bancadas están autorizadas para vender divisas destinadas a pagar el valor de las mercaderías que se importan al país, así como los gastos en moneda extranjera inherentes a la importación, previos la presentación de los documentos y el cumplimiento de los requisitos establecidos en las normas del Banco Central de Chile para tal objeto. Las personas que adquieran divisas para tal efecto estarán exentas de la obligación de liquidarlas, de conformidad con lo señalado en el numeral 2.1 de este Capítulo.
-
-Para efectuar una venta de divisas cuya finalidad es la cobertura de una importación, deberá contarse con el correspondiente Informe de Importación o con el documento que lo remplace y con la Declaración de Importación. En general, la cobertura sólo puede efectuarse después que se haya realizado el embarque, salvo en los casos en que el Banco Central de Chile autorice expresamente hacerlo con antelación a esa fecha.
-
-Cada vez que un banco proceda a realizar la cobertura de una importación, deberá verificar que el embarque se hubiere realizado dentro del plazo permitido por el Informe de Importación, cuando corresponda, que os valores no excedan de los declarados en el respectivo Informe de Importación y en la Declaración de Importación o documentos que hagan sus veces, o que, en caso contrario, se encuadren dentro de las tolerancias que ha establecido el Banco Central de Chile o cuenten con la correspondiente autorización del Instituto Emisor.
-
-La venta de divisas para la cobertura de importaciones se hace normalmente a los importadores respectivos. Sin embargo, los acreedores de los importadores podrán solicitar la cobertura de una importación cuando el contravalor correspondiente provenga de repartos por quiebras o convenios, de enajenación de bienes adjudicados o recibidos en pago o de liquidación forzosa de bienes del deudor o de terceros garantes, efectuada en procedimiento de cobranza judicial. Los acreedores que se acojan a esta posibilidad, deberán cumplir con los requisitos especiales establecidos por el Banco Central de Chile para estos casos.
-
-### 2. Venta de moneda extranjera a los importadores
-
-2.1. Norma General.
-
-Las personas que adquieran divisas en el mercado cambiario formal de conformidad con las normas del Banco Central de Chile, con el objeto de efectuar los pagos de las mercaderías que se importen y los gastos correspondientes, estarán exentas de la obligación de liquidarlas, siempre que se de fiel cumplimiento a las normas contenidas en el Capítulo III antes mencionado.
-
-En todo caso, para que las importaciones tengan acceso a dicho mercado y gocen de la exención señalada en el párrafo precedente, la cobertura deberá efectuarse a más tardar dentro de los 90 días hábiles bancarios siguientes a la fecha en que el pago de la respectiva operación sea exigible.
-
-2.2. Venta de divisas para el pago anticipado de mercaderías.
-
-Los bancos podrán vender divisas para el pago anticipado de mercaderías que se importen, solamente cuando así lo haya autorizado expresamente el Banco Central de Chile en el respectivo Informe de Importación.
-
-2.3. Venta de divisas para cubrir gastos de corresponsal.
-
-Las ventas de divisas que efectúen las empresas bancadas con el objeto de pagar gastos de corresponsales del exterior que consten en los respectivos avisos de débito, tales como apertura, confirmación, prórroga, enmienda y negociación de cartas de crédito, envío de documentos, teléfono, télex y otros similares, serán declaradas en forma global al Banco Central de Chile mediante una Planilla de Operación de Cambios Comercio Invisible, a la que deberá acompañarse un detalle con el N° de Informe de Importación y el monto de cada gasto cubierto, firmado por a lo menos un apoderado de la empresa bancaria.
-
-### 3. Moneda en que se puede efectuar la cobertura
-
-Las coberturas podrán efectuarse en la moneda extranjera señalada en el respectivo Informe de Importación o en una distinta.
-
-En este último caso las empresas bancadas deberán convenir el arbitraje con el importador, dentro de las condiciones normales de mercado y dejarán constancia en la respectiva Planilla de Cobertura Egreso Comercio Visible, de la paridad aplicada.
-
-De cualquier modo, los pagos que se efectúen a los países con los cuales Chile mantiene convenios de Crédito Recíproco vigentes, deberán cursarse en dólares norteamericanos a través de las cuentas abiertas para estos efectos en el Banco Central de Chile.
-
-4.Comunicación al Banco Central de Chile de las ventas de divisas con cargo al mercado cambiarlo formal.
-
-Las empresas bancarias emitirán una Planilla de Cobertura Egreso Comercio Visible por cada una de las ventas de divisas que efectúen con cargo a cada Informe de Importación.
-
-Las Planillas emitidas deberán ser enviadas diariamente al Banco Central de Chile, incluidas en el Informe Diario de Posición y Operaciones de Cambios Internacionales de la fecha correspondiente.
-
-### 5. Intereses en moneda extranjera
-
-5.1. Sobre cartas de crédito a la vista.
-
-Las instituciones bancarias están facultadas para cobrar intereses en moneda extranjera sobre las cartas de crédito a la vista, que hubieren financiado, por el período comprendido entre la fecha de negociación y la fecha de la cobertura.
-
-Cuando se trate de acreditivos abiertos con una "Venta condicional de moneda extranjera", esto es, que el importador depositó el equivalente en moneda nacional, las empresas bancarias no podrán cobrar intereses.
-
-5.2. Sobre cartas de crédito a plazo.
-
-En las coberturas correspondientes a cartas de crédito pagaderas a plazo, podrán incluirse intereses del proveedor por el período comprendido entre la fecha de embarque y el vencimiento de la carta de crédito. En caso que la cobertura se realice con posterioridad a la fecha de vencimiento de la carta de crédito, los bancos podrán agregar intereses a su favor por el período comprendido entre esta última fecha y la fecha de cobertura.
-
-5.3. Sobre cobranzas.
-
-En las coberturas de importaciones en cobranza, podrán adicionarse intereses a favor del proveedor o cedente extranjero, siempre que así se establezca en las respectivas instrucciones, por el período comprendido entre la fecha de embarque y la cobertura de la cobranza.
-
-5.4. Tasa de interés que se puede cobrar.
-
-La tasa de interés que se cobre en las operaciones señaladas en los numerales 5.1, 5.2 y 5.3 precedentes, no podrá exceder de la que autorice el Banco Central de Chile para esos efectos.
-
-### 6. Anotación de las ventas de divisas
-
-Las empresas bancarias deberán anotar al dorso del respectivo Informe de Importación, al cursar la venta de las divisas, o al recibirlas cuando la venta la hubiere efectuado otro banco, el número, fecha y monto de la respectiva Planilla de Cobertura Egreso Comercio Visible y el nombre del banco y oficina emisora de dicha Planilla.
-
-### 7. Resguardo sobre documentos
-
-Las empresas bancarias convendrán libremente con los importadores, la entrega de los documentos de embarque y de la copia del Informe de Importación que habilita a estos últimos para desaduanar la mercadería; en todo caso, cuando se trate de documentos recibidos en cobranza, se deberán cumplir fielmente las instrucciones del cedente. Asimismo, deberán requerir, para efectuar la cobertura o endosar la respectiva planilla y para mantener en su archivo como antecedente de respaldo de cada cobertura efectuada, los documentos señalados en el Capítulo III del Título III del Compendio de Normas de Cambios Internacionales. En ambos casos las entidades bancarias quedan en libertad de adoptar las precauciones necesarias para resguardar el oportuno cumplimiento de las normas relativas a la obtención de los documentos exigidos para cursar dichas operaciones.
-
-### 8. Traspaso de documentación
-
-Ante la sola solicitud del importador, los bancos podrán traspasar a la entidad bancaria que aquél designe, el Informe de Importación debidamente endosado y los documentos de embarque respectivos. De los actos de entrega y recepción de la citada documentación, deberán dejar debida constancia tanto el banco cedente como el cesionario.
-
-En caso que se hayan efectuado coberturas parciales al amparo del Informe de Importación que se solicita traspasar, la institución que realizó alguna venta de divisas para esa importación, deberá mantener en sus archivos los documentos señalados en el N° 9 de este capítulo, inherentes a tales coberturas.
-
-Del mismo modo, ante el solo requerimiento del importador, las empresas bancarias podrán traspasar la Planilla de Cobertura Egreso Comercio Visible debidamente endosada, a la entidad del Mercado Cambiarlo Formal que éste designe, a fin de que la entidad designada efectúe la venta de divisas de conformidad con lo dispuesto en el Capítulo III del Título III del Compendio de Normas de Cambios Internacionales.
-
-Los endosos, sea del Informe de Importación o de la Planilla de Cobertura, deberán extenderse en la forma dispuesta en las normas del Instituto Emisor.
-
-### 9. Archivo de la documentación
-
-Las empresas bancarias formarán un legajo con cada uno de los Informes de Importación por los cuales hayan endosado la respectiva Planilla de Cobertura o por los cuales hubieran vendido divisas, según corresponda. Estos legajos los mantendrán en sus archivos durante cinco años, bajo su exclusiva responsabilidad, ordenados correlativamente por el número de emisión del Informe de Importación e incluirán, obligadamente, los siguientes documentos:
-
-a) Original del Informe de Importación y de sus Informes Complementarios, si los hubiere, con las correspondientes anotaciones de control al dorso, de la o de las coberturas efectuadas. Estas anotaciones deben estar refrendadas por cada una de las entidades bancarias que hayan efectuado las ventas de divisas o que hubiesen endosado las respectivas Planillas de Cobertura Egreso Comercio Visible, cuando así corresponda;
-
-b) Copia de la o de las Planillas de Cobertura ingresadas a la Posición de Cambios;
-
-c) Original o copia de la Carta de Crédito, Nota de Débito o Carta del Cedente, sea que se trate de acreditivo o cobranza;
-
-d) Declaración de Importación o el documento que haga sus veces. Para las coberturas efectuadas con Informe de Importación que amparen mercaderías ingresadas a Depósito Franco (Art. 2°Ley N° 17.170) destinadas a atender las necesidades de las bases antárticas bastará, en remplazo de la Declaración de Importación o del documento que haga sus veces, la presentación de una copia autorizada del ejemplar de las hojas de entrega, con las cuales se efectúa la salida de la mercadería del depósito franco. (Decreto de Hacienda N° 1731/70); y,
-
-e) Carta Instrucciones de Cobertura debidamente firmada por el importador o por la respectiva empresa bancaria en casos debidamente calificados, con indicación del número y fecha de emisión del Informe de Importación correspondiente y monto en moneda extranjera a cubrir.
-
-Los legajos de los documentos a que se refiere este número deberán ingresarse al archivo de la empresa bancaria, debidamente ordenados y claramente identificados por el número del respectivo Informe de Importación, tan pronto se haya efectuado la cobertura total del monto de la importación.
-
-En las importaciones con coberturas parciales efectuadas por más de una empresa bancaria, corresponderá a cada banco archivar los antecedentes que sirvieron de base para cursar la venta parcial de divisas. En el caso que posteriormente deba traspasarse el respectivo Informe de Importación a otro banco, se archivará, además de los antecedentes indicados, una fotocopia del anverso y reverso de este documento, previa anotación en él de las coberturas efectuadas.
-
-Por otra parte, los bancos que hayan vendido divisas sobre la base de una Planilla de Cobertura Egreso Comercio Visible que les haya sido endosada por otro banco, deberán mantener copia de esa Planilla en sus archivos conjuntamente con una copia de la Planilla de Cobertura que hayan emitido con motivo de dicha venta.
-
-### 10. Entrega de documentos al Banco Central de Chile
-
-El Banco Central de Chile, a través de la Gerencia de Comercio Exterior, podrá requerir en cualquier momento de las empresas bancarias la entrega de los documentos indicados en el numeral anterior. Los bancos deberán cumplir con la entrega de dichos documentos dentro del plazo que, para tal efecto les señale el Instituto Emisor.
-
-### 11. Instrucciones contables
-
-11.1. Cobertura de importaciones con carta de crédito.
-
-Los bancos que efectúen la cobertura de importaciones con carta de crédito, acreditarán el monto del capital incluido en dicha cobertura en la cuenta en que esté registrada la respectiva colocación. El importe de los intereses se acreditará en la cuenta de ingresos que corresponda, de la partida 7115.
-
-11.2. Cobertura de importaciones en cobranza.
-
-Al efectuar la cobertura de estas operaciones, su importe se deberá revertir en las cuentas de orden en que se encuentre registrado.
-
-Además, cuando no remesen las divisas el mismo día en que se efectúe la cobertura, acreditarán su importe en la cuenta "Coberturas por remesar", de la partida 3010.
-
-### 12. Sanciones
-
-La infracción a las normas de cobertura indicadas en el Capítulo III del Título III del Compendio de Normas de Cambios Internacionales, podrá ser sancionada en conformidad con lo dispuesto en el Capítulo II del Título IV de dicho Compendio.
 
 CAPITULO 16-1 (Bancos y Financieras)
 
