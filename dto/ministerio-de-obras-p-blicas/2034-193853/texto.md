@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.034, de 6 de diciembre de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+8-A y 8-B, para la obra: "Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 7A2: Km. 48.140,00 a Km. 50.300,00", Región Metropolitana, que figuran a nombre de De La Jara A. José Miguel y Otr, rol de avalúo 107-371, comuna de Curacaví, superficies 1.356 m² y 71 m², respectivamente. La Comisión de Peritos integrada por los señores Marlene Teresa Ríos Marcuello, Mauricio Humberto Salamanca Zamora y Jaime Rolando Jurgens Bittner, fijó con fecha 29 de diciembre de 2000, el valor provisional de la indemnización en las cantidades de $7.811.200.- para el lote 8-A y de $276.700.- para el lote 8-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
