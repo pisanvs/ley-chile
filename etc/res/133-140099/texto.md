@@ -1,0 +1,5 @@
+AUTORIZA A DON RENE HIJINIO MAMANI POLANCO PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 133, de 12 de Abril de 1979, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don René Hijinio Mamani Polanco, domiciliado en Caleta Chañaral, para iniciar actividades pesqueras consistentes en la instalación y operación de un cultivo de choro zapato (Choromytilus chorus) y de chorito quilmahue (mytilus chilensis), en Bahía Carrizal, provincia de Huasco, III Región, Atacama. Las actividades que podrá realizar el interesado en virtud de esta resolución, consistirán exclusivamente en labores de crianza, cultivo, reproducción y engorda de las especies señaladas. Las semillas para el cultivo de dichas especies deberá adquirirlas en establecimientos que posee el S.A.G. El incumplimiento de las condiciones y obligaciones establecidas en la presente resolución, así como el incumplimiento de las disposiciones legales y reglamentarias existentes sobre Pesca, serán sancionadas en conformidad con lo dispuesto en el DFL. número 34, de 1931, y modificaciones posteriores.
+
+José Radic Prado, Subsecretario de Pesca.
