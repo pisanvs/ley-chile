@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.539, de 21 de junio de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº193-A para la obra ''Concesión Internacional Ruta 5; Tramo Temuco -
+
+Río Bueno''; Km. 762,40000 a Km. 764,36020, Novena Región, que figura a nombre de Quezada Espinoza Ludominia, rol de avalúo 386-8, comuna de Loncoche, superficie 1.292 m2. La comisión de peritos integrada por los señores Pablo Alex Mansilla Aravena, Fernando Luis Contreras Hennings y Enrique Guillermo Smith Mason, fijó con fecha 25 de enero de 1999, el valor provisional de la indemnización en la cantidad de $15.363.600.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
