@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.005, de 30 de noviembre de 2001, se expropiaron los lotes de terreno Nºs. 43 y 47, superficies 4.178 y 1.728 m2, rol de avalúo 103-76, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso Viña del Mar. Tramo 6 B: Kms. 34.660,00 al 38.660,00, Región Metropolitana y se acordó el valor de indemnización con su propietario Eduardo Saturnino Hernández Zavala, ascendente a la cantidad de $36.989.084.- para los lotes Nºs 43 y 47.-
+
+Fiscal del Ministerio de Obras Públicas.
