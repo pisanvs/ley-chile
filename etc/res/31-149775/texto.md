@@ -1,0 +1,3 @@
+Por Resolución de la Fiscalía del Ministerio de Obras Públicas F. N° 31, de 20 de marzo de 1987, se ha ordenado pagar la suma de $ 44.184.- a don José Angel Muñoz o a quien acredite derecho como valor de la indemnización correspondiente al 100% del avalúo fijado por la Comisión de Hombres Buenos, más su reajuste, con motivo de la expropiación del lote N° 20, de una superficie de 1.077 m2., ubicado en la Comuna de Entre Lagos, X Región, necesario para la construcción de la obra Estanque de asfalto para camino Osorno a Puyehue, sector Osorno a Entre Lagos. Se deja constancia que el plazo para reclamar judicialmente del avalúo es de 30 días contados desde la fecha de la 2a. Publicación que se hará en un periódico de la X Región.-
+
+Fiscal del Ministerio de Obras Públicas.
