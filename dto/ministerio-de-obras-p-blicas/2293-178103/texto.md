@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.293, de 30 de mayo de 2000, se expropió el lote de terreno Nº9, superficie 67 m2., rol de avalúo 1279-6, comuna de Curicó, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector M, Séptima Región, y se acordó el valor de indemnización con su propietaria Blanca Elena Belmar Valderrama, ascendente a la cantidad de $787.666.
+
+Fiscal del Ministerio de Obras Públicas.
