@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.037, de 3 de agosto de 2004, de esta Subsecretaría, modifícase la resolución Nº 3.064 de 2003, de esta Subsecretaría, que autorizó a MIGUEL ANTONIO ARGEL MANSILLA, para instalar colectores de semillas de mitílidos en el sector suroeste de Punta Iglesia, X Región, en el sentido de extender el plazo de vigencia que en ella aparece hasta el 31 de octubre de 2004.
+
+Valparaíso, 3 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
