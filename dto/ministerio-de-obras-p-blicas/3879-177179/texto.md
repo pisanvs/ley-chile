@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.879 de 31 de agosto del 2000, se expropió el lote de terreno Nº7, superficie 796 m2., rol de avalúo 5026-342, comuna de Punta Arenas, para la obra ''Actualización Proyecto Canal Trasvase estero Llau-Llau a Estero Bitsch de Punta Arenas Fase II, Prolongación Canal Llau-Llau, Km. 0.009 a Km. 1.066'', XII Región y se acordó el valor de indemnización con su propietario Nancy Elizabeth Varas Aguila, ascendente a la cantidad de $325.914.-
+
+Fiscal del Ministerio de Obras Públicas.
