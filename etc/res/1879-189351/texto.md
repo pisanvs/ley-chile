@@ -1,0 +1,3 @@
+Por resolución Nº 1.879, de 11 de septiembre de 2001, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 224 de 1990, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA MARIA ELENA S.A. para realizar actividades con la nave ''Don Gregorio'', respecto de los recursos Merluza común y Merluza de tres aletas, en el área marítima comprendida entre la V Región y el paralelo 43° L.S.
+
+Valparaíso, 11 de septiembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
