@@ -1,0 +1,3 @@
+Por Resolución N° 466 de 1 de junio de 1993 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, de parte del inmueble ubicado en Avda. Vicuña Mackenna Poniente N° 5740, presunto rol de avalúos N° 3-0005 comuna de La Florida, aparente dominio de la Sucesión Moisés Alegría Moreno. Comisión integrada por peritos Sres. Mario Vergara Navarrete, arquitecto, Raúl Varela Hernández, ingeniero civil y Carlos del Pedregal Sánchez, constructor civil, según informe de 8 de febrero de 1993, fijó monto provisional indemnización en $ 1.812.200.- pagadera al contado.-
+
+Directora SERVIU Metropolitano.
