@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.331 de fecha 30 de septiembre del 2004, se expropió el lote de terreno Nº 3, superficie 170 m2, Rol Nº 600-45, comuna de San Ignacio, VIII Región para la obra "Canal Matriz Diguillín-Larqui Canal Alimentador Nº 5, del Proyecto Laja Diguillín" y se acordó el valor de indemnización con su propietario Armando Sáez, ascendente a la cantidad de $357.878.
+
+Fiscal del Ministerio de Obras Públicas.
