@@ -1,0 +1,7 @@
+Por resolución Nº 683, de 15 de marzo de 2005, de esta Subsecretaría, autorízase a PESCA SURIBERICA S.A. para realizar operaciones pesqueras con la nave "Isla Sofía" en la Subárea estadística 48.3, comprendida en el ámbito de competencia de la Convención para la Conservación de los Recursos Vivos Marinos Antárticos (CCRVMA), donde podrá extraer el recurso hidrobiológico Bacalao de profundidad, con palangre.
+
+La presente autorización tendrá vigencia para la temporada de captura del recursos Bacalao de profundidad comprendida entre el 1 de mayo de 2005 y el 31 de agosto de 2005, ambas fechas inclusive, o hasta que se alcance el límite de captura de 3.050 toneladas autorizado por la Medida de Conservación 41-02 (2004) de la (CCRVMA), lo que ocurra primero.
+
+La solicitante deberá dar estricto cumplimiento a las obligaciones establecidas en la Ley General de Pesca y Acuicultura, en el Tratado Antártico y en la Convención para la Conservación de los Recursos Vivos Marinos Antárticos (CCRVMA).
+
+Valparaíso, 15 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
