@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.465, de 31 de mayo de 1999, y en base a la facultad otorgada por el artículo 105 del D.F.L. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 13 y 24-A, para la ejecución de la Obra Camino Quinta de Tilcoco - Coínco, Sector Quinta de Tilcoco -
+
+Coínco, Km. 0.000,00 a Km. 12.732,50, que figura a nombre de José Luis Parraguez Parraguez y Soc. Agrícola Porvenir Ltda., Roles de avalúo en trámite y 50-34, comuna de Quinta de Tilcoco, VI Región, superficies 193,00 y 90,00 m2. La Comisión de Peritos compuesta por los señores Patricio Estrada Uribe, Alejandro Padilla Henríquez y José Luis Pezo Segovia, fijó con fecha 3 de abril de 1996, el valor provisional de las indemnizaciones en la cantidad de $325.450.- para el lote 13 y Eduardo Schonhaut Guendelman, José Luis Pezo Segovia y Alejandro Padilla Henríquez, con fecha 20 de abril de 1999, en la cantidad de $253.000.- para el lote 24-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
