@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.746, de 23 de septiembre de 2004, de esta Subsecretaría, modifícase el numeral 1.- de la resolución Nº 56 de 2004, de esta Subsecretaría, que autorizó a SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES, BUZOS MARISCADORES Y ACUICULTORES COSTA SUR, para instalar colectores de semillas de mitílidos en la localidad de Llaguepe, estuario de Reloncaví, X Región, en el sentido de ampliar el plazo de vigencia de dicha autorización hasta el 31 de octubre de 2004.
+
+Valparaíso, 23 de septiembre de 2004.- Edith Saa Collantes, Subsecretario de Pesca (S).
