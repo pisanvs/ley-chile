@@ -1,0 +1,3 @@
+Por decreto MOP Nº 376, de 21 de abril de 1997, se ordenó la expropiación y aprobó el plano y cuadro de expropiación del lote de terreno Nº 12, y por decreto MOP Nº 716, de 30 de abril de 2001, se autorizó el valor de la consignación provisional de la expropiación por la vía judicial, en la cantidad de $2.300.000.- necesario para la ejecución de la obra ''Camino Santa Cruz-Palmilla, Sector Ruta I-720 por Barreales Km. 0.000 a Km. 6.748'' el pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
