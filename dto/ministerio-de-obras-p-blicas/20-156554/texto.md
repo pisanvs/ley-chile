@@ -1,0 +1,7 @@
+Por Decreto M.O.P. N° 20, de 31 de Enero de 1986, en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N° 294, de 1984, que fija el texto actualizado de la Ley N° 15.840, se expropiaron los lotes de terreno N°s. 7 y 14, para Camino Autopista General Bonilla, sector Km.
+
+3.445,50 al 6.537,00, que figuran a nombre de don Santiago Riveros Espinoza y don Eugenio Martínez Acevedo, roles de avalúo 318-32 y 318-38, superficies 750 M2. y 2.920, respectivamente, Comuna de Concepción. Deslindes: Lote 7: Norte: Antiguo cauce Andalién; Sur: Con resto del predio afectado con la expropiación; Oriente: Con lote 8 del Plano y Cuadro de Expropiación respectivo, y Poniente: Con Callejón. Lote N° 14: Norte: Antiguo cauce Río Andalién; Sur: Con resto del predio afectado con la expropiación; Oriente: Estero Nonguén, y Poniente: con lote N° 13 del Plano y Cuadro de Expropiación respectivo. La Comisión de Peritos compuesta por los señores Teodoro Medina R., Ramón Jofré S. y Gerardo Valverde V., fijó con fecha 24 de Septiembre de 1984, el valor provisional de las indemnizaciones en las cantidades de $ 225.000 y $ 671.600, respectivamente. Las indemnizaciones se pagaran al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
+
+(1°)
