@@ -7030,15 +7030,13 @@ Bancos
 
 032 BANK OF AMERICA, NATIONAL ASSOCIATION
 
-033 CITIBANK N.A.
+033 CITTBANK N.A.
 
 035 BANCO SANTIAGO
 
 036 BANCO DO ESTADO DE SAO PAULO S.A.
 
 037 BANCO SANTANDER-CHILE
-
-038 BANCO EXTERIOR (CHILE)
 
 039 BANKBOSTON, N.A.
 
@@ -7052,9 +7050,9 @@ Bancos
 
 045 THE BANK OF TOKYO-MITSUBISHI LTD.
 
-046 ABN AMRO BANK (CHILE)
+046 ABNAMRO BANK (CHILE)
 
-049 BANCO SECURTTY
+049 BANCO SECURITY
 
 051 BANCO FALABELLA
 
@@ -16970,7 +16968,7 @@ a) La institución financiera no efectúe una calificación de cada uno de los d
 
 b) El cedente se encargue, directamente o a través de un tercero, de la cobranza de los créditos cedidos. Sin embargo, no se considerará al cedente como deudor directo por esta sola circunstancia, cuando el encargo de cobranza hecho a él o a un tercero, contemple condiciones que aseguren a la institución financiera cesionaria un irrestricto control sobre la gestión y resultado de la cobranza y la oportuna entrega de los importes recaudados, de modo que la administración de la cobranza sea semejante a la que ejercerla ella misma.
 
-c) Se establezca alguna condición que garantice la recuperación total o parcial de los créditos o la sustitución por otros documentos, en caso de morosidad u otras circunstancias. No obstante, no será motivo para calificar al cedente como deudor directo, el hecho que se convenga que la institución financiera retenga una parte del precio pagado por la adquisición de los créditos de que se trate, para responder de aquellos créditos adquiridos que resulten impagos, siempre que la retención del importe correspondiente se haga al momento de pagar el precio de los créditos adquiridos, que dicho importe no exceda del 10% del precio total pagado por los créditos en cada oportunidad, y que estos recursos se mantengan depositados a favor del cedente, con instrucciones de éste de pagar con cargo al mismo, los créditos que de esa adquisición resulten impagos. Una vez vencido el último de los documentos de la adquisición a que corresponda la retención, el importe sobrante que quedare de ésta será entregado al cedente, no siendo procedente dejarlo en depósito para responder de otras compras de cartera.
+c) Se establezca alguna condición que garantice la recuperación total o parcial de los créditos o la sustitución por otros documentos, en caso de morosidad u otras circunstancias. No obstante, no será motivo para calificar al cedente como deudor directo, el hecho que se convenga que la institución financiera retenga una parte del precio pagado por la adquisición de los créditos de que se trate, para responder de aquellos créditos adquiridos que resulten impagos, siempre que la retención del importe correspondiente se haga al momento de pagar el precio de los créditos adquiridos, que dicho importe no exceda del 25% del precio total pagado por los créditos en cada oportunidad, y que estos recursos se mantengan depositados a favor del cedente, con instrucciones de éste de pagar con cargo al mismo, los créditos que de esa adquisición resulten impagos. Una vez vencido el último de los documentos de la adquisición a que corresponda la retención, el importe sobrante que quedare de ésta será entregado al cedente, no siendo procedente dejarlo en depósito para responder de otras compras de cartera.
 
 En cualquier caso, como es natural, el propio documento adquirido o descontado por la institución financiera no sirve de garantía de los créditos directos o indirectos de los obligados a su pago.
 
