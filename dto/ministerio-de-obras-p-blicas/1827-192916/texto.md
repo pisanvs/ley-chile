@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.827, de 31 de octubre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 6, para la obra Construcción Caleta de Pescadores Artesanales en Punta Arenas, que figura a nombre de Carlos González y Hermanos, rol de avalúo 5056-19, superficie 10.798,96 m2., comuna de Barranco Amarillo. La Comisión de Peritos, con fecha 15 de julio de 1998, fijó la indemnización provisional en la cantidad de $21.695.111, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
