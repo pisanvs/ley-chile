@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.681, de 30 de junio de 2000, se expropió el lote de terreno Nº4, superficie 899,0 m2, rol de avalúo 166-312, comuna de Colina, para la obra Camino Santiago - Colina - Los Andes, Sector San José - Lo Pinto, Región Metropolitana y se acordó el valor de indemnización con su propietario Juan Guillermo O'Ryan Cotroneo, ascendente a la cantidad de $8.500.319.
+
+Fiscal del Ministerio de Obras Públicas.
