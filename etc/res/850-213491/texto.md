@@ -1,0 +1,3 @@
+Por Resolución Nº 850 de 3 de diciembre de 1990 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. 2.186 de 1978 parte inmueble ubicado en Avda. Santa Rosa Nº 6590, presunto rol avalúos Nº 2208-1, comuna La Granja aparentemente dominio de la Primera Compañía de Bomberos de La Granja. Comisión integrada por Peritos Sres. José Miguel Haltenhoff Aenishanslin, constructor civil, Roberto Correa Bezanilla, arquitecto y Sergio Rojas Ibáñez, ingeniero civil, según informe de 11 de octubre de 1990, fijó monto provisional indemnización en $ 1.247.000.- pagadera al contado.
+
+Directora SERVIU Metropolitano.
