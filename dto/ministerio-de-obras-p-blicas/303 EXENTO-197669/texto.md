@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº303, de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº91, superficie 741 M2., rol de avalúo 536-78, comuna de Río Bueno, X Región, para la obra "Camino Río Bueno - Cruce, Rol T-90-U y T-933, Km. 0.00 al 20,900 (II Parte)", y se acordó el valor de indemnización con su propietario don Néstor Pérez Matus, ascendente a la cantidad de $861.602.-
+
+Fiscal del Ministerio de Obras Públicas.
