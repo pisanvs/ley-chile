@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 279, de 22 de marzo del 2002, se expropió el lote de terreno Nº 1-1, superficie 759 m2., rol de avalúo 2218-24, comuna de Chillán Viejo, para la obra Concesión Internacional Ruta 5. Tramo Talca-Chillán Sector Kms. 412.140,00 al 412.700,00, Octava Región y se acordó el valor de indemnización con su propietario Eduardo Antonio Torres Coloma, ascendente a la cantidad de $1.429.615.-
+
+Fiscal del Ministerio de Obras Públicas.
