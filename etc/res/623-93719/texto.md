@@ -1,0 +1,3 @@
+Por resolución No. 623, de 28 de junio de 1989, de SERVIU Metroplitano, ordenóse expropiación, conforme DL 2186 de 1978, inmueble ubicado en calle Ricardo Santa Cruz No. 641, presunto rol avalúos No. 593-15, comuna Santiago, aparentemente dominio de don Sergio Acevedo Campos. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos y Walter Soto Silva, ingeniero civil, según informe de 31 de enero de 1989 fijó monto provisional indemnización en $ 2.729.250.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
