@@ -1,0 +1,3 @@
+Por decreto MOP Nº 254, de 31 de marzo de 2004, se rectificó el decreto MOP Nº 1.366, de 21 de noviembre de 2003, en el sentido que en el cuadro expropiatorio, el nombre del propietario según rol de avalúo y rol de avalúo del lote Nº 207L4, debe decir "Inmobiliaria E y E Ltda", rol de avalúo 9092-240 y no "Soc. Com. Menichetti Fuente", rol de avalúo 9092-238, como en él se señala. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
