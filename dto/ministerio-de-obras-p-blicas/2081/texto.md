@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.081, de 30 de octubre de 1998, se expropiaron los lotes de terreno Nºs. 3, 18, 20-A, 21, 25-B, 40, 41, 65, 65-A, 79 y 84, superficies 38, 70, 120, 95, 105, 671, 862, 125, 175, 125 y 192 m2., roles de avalúo en trámite, 13-31, 13-22, 24-14, 24-21, 38-99, 38-129 y 38-93, comuna de Navidad, obra Camino Ruta G-880, Sector Rapel-Navidad-La Boca, y se acordó precio de indemnización con sus propietarios Sergio Morales Núñez, Delicia Rosa Ramírez Canales, Blas Enrique Rojas Rojas, Ema Rosa Rojas Navia, Hilda Esmeralda Román Ugarte, Luis Hernán Campos Rubio, Luis Segundo Cornejo Olguín, María Betzabé Ramírez Cepeda, Williams Patricio Farías Meléndez y Juana Eliana Silva Ramírez, ascendente a las cantidades de $475.388, lote 3; $485.727, lote 18; $562.100, lote 20-A; $493.805, lote 21; $546.770, lote 25-B; $4.369.174, lotes 40 y 41;
+
+$578.888, lote 65; $546.770, lote 65-A; $525.038, lote 79 y $514.375, lote 84.-
+
+Fiscal del Ministerio de Obras Públicas.
