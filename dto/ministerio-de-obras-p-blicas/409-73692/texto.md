@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 409, de 30 de abril de 1997, se expropiaron los lotes de terreno Nºs. 2, 3 y 4, superficies 4.100, 248 y 930 m²., respectivamente, rol de avalúo 508-30, comuna de Santa Cruz, para la obra Camino Chépica - La Fuente I-72, sector Puente La Fuente, y se acordó precio de la indemnización con su propietario don Adrián Carrillo Ibarra, ascendente a la cantidad de $5.975.314.-
+
+Fiscal del Ministerio de Obras Públicas.
