@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.441, de 30 de agosto de 2002, se expropiaron los lotes de terreno Nºs. 51-2 y 51-3, superficies 862 y 1.866 m2., respectivamente, rol de avalúo 155-8, comuna de Casablanca, para la obra Red Vial Litoral Central Sector 2: Camino Algarrobo-Casablanca (Ruta F-90). Tramo: Km.0.000,00 al 32.100,00, Quinta Región, y se acordó el valor de indemnización con su propietario Leonardo Marchant Subercaseaux, ascendente a la cantidad de $4.102.018.-
+
+Fiscal del Ministerio de Obras Públicas.
