@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.578, de 30 de junio de 2000, se expropiaron los lotes de terreno Nºs. 9 y 12, superficies 12.60 m² y 1.260 m², rol de avalúo 136-269, comuna de Paine, para la obra Concesión Internacional Ruta 5, Tramo Santiago-Talca, Sector B, Región Metropolitana y se acordó el valor de indemnización con sus propietarias Silvia Olivia Muñoz Mora y Otra, ascendente a la cantidad total de $14.259.231.-
+
+Fiscal del Ministerio de Obras Públicas.
