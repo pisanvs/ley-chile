@@ -1,0 +1,5 @@
+Por resolución N°1.482 de 06 de Diciembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a EMPRESA ALIMENTOS MULTIEXPORT S.A., R.U.T. No. 96.513.230-9, domiciliada en Avda. Américo Vespucio Sur 842, Las Condes, para ampliar actividades pesqueras, que tiene autorizada por resolución No. 432, de 1987, de esta Subsecretaría, en orden a incorporar en la planta industrial ubicada en Av. Cardonal No. 2501, Puerto Montt, autorizada por la resolución citada en el numeral precedente, en las líneas de elaboración de fresco-enfriado, congelado y conserva, además de los recursos señalados en dicha resolución, el recurso hidrobiológico salmón del Atlántico, (Salmo salar).
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 06 de Diciembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
