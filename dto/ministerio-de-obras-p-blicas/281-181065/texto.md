@@ -1,0 +1,3 @@
+Por decreto MOP Nº281, de 29 de diciembre de 2000 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº1, para la obra Tramo Colector Los Plátanos - Cerro Esperanza, Valparaíso, que figura a nombre de Sociedad Inmobiliaria Portales, rol de avalúo 8060-13, superficie 105 m2, comuna de Valparaíso. La Comisión de Peritos, con fecha 6 de diciembre de 2000, fijó la indemnización provisional en la cantidad de $157.500, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
