@@ -1,0 +1,3 @@
+Por resolución Nº 990, de 26 de mayo de 1999, de esta Subsecretaría, apruébase la modificación al proyecto técnico y cronograma de actividades ingreso Subpesca Nº 1.294, de 1999, presentado por GUILLERMO HUMBERTO MARIN ESTEVEZ, para realizar actividades experimentales autorizadas por las resoluciones Nº 1.090, de 1998 y Nº 665, de 1999, ambas de esta Subsecretaría.
+
+Valparaíso, 26 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
