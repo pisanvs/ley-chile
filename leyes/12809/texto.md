@@ -1,0 +1,1 @@
+Libera de todo derecho, impuesto o contribución la internación de los equipos y máquinas que indica, destinados a las Municipalidades de Constitución, Chillán y Los Angeles y a la Parroquia de Casablanca.
