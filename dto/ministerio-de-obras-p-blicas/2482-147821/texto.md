@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.482, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 60 y 62, superficies 1.459,0 m2. y 4.784,0 m2., rol de avalúo 639-104, comuna de Victoria, para la obra "Concesión Internacional Ruta 5; Tramo Collipulli-Temuco", Novena Región y se acordó el valor de indemnización con su propietaria Rosario Meliñán Meliñán, ascendente a la cantidad de total de $6.787.653.-
+
+Fiscal del Ministerio de Obras Públicas.
