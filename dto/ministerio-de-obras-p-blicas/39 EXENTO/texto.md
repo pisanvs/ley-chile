@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº39, de 31 de enero de 2002, se expropió el lote de terreno Nº24, superficie 294 m², rol de avalúo 680-805, comuna de El Tabo, para la obra Red Vial Litoral Central. Sector 1: Nuevo Camino Costero. Subtramo: Las Cruces-Algarrobo Km 12.400,00 al Km 15.400,00, Quinta Región y se acordó el valor de indemnización con su propietaria Julia Luisa Devia Devia, ascendente a la cantidad de $849.339.-
+
+Fiscal del Ministerio de Obras Públicas.
