@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.992, de 20 de octubre de 2004, de esta Subsecretaría, autorízase a PESQUERA LOTA PROTEIN LIMITADA, para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Avenida Matta esquina Villagrán s/n, Lota, VIII Región, en las líneas de proceso de harina y aceite el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 20 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
