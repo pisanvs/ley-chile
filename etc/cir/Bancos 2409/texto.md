@@ -1778,6 +1778,8 @@ requerimiento o la intervención del portador. De ello se desprende que el prote
 
 Cuando se trate de cheques presentados a cobro por intermedio de otro banco, deberá subentenderse el requerimiento del portador, pues de esta manera se evitan posibles perjuicios al interesado, derivados primeramente, de la circunstancia de tener que requerir nuevamente el protesto, muchas veces en una plaza distinta de la de su domicilio; en seguida, de la inconveniencia de que el protesto lleve una fecha distinta de aquella en que el librado rehusó su pago y, finalmente, del evento de que el protesto aparezca extendido fuera de plazo.
 
+Como ya se señaló en el numeral 11.1 de este título, los bancos sólo están obligados a pagar o protestar un cheque en la oficina en que el girador mantenga la cuenta corriente. Sin embargo, así como esa obligación no es óbice para que se pague en una oficina diferente que cuente con toda la información necesaria para el efecto, tampoco existe inconveniente en que el protesto se efectúe en esta última, cuando a ella le corresponda negar el pago y siempre que cuente con dicha información.
+
 13.2. Causales de protesto de cheques.
 
 La Ley sobre Cuentas Corrientes Bancarias y Cheques señala que los cheques se protestan por falta de pago, pero no indica las situaciones que deben originar la negativa del banco librado a pagarlos. Por lo tanto, al no estar enumeradas en la ley dichas situaciones, corresponde al banco indicar la causal que impide el pago.
