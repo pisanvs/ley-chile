@@ -1,0 +1,3 @@
+Por decreto MOP Nº 395, de 28 de abril de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió para el Fisco el lote de terreno Nº 12 para la obra: By-Pass Estación Carahue, Tramo Km. 0.000,0 a Km. 0.823,34, que figura a nombre de Suc. Ancelmo Inostroza Coronado, Sin Rol, Comuna de Carahue, IX Región, superficie 5.324,51 m2. La Comisión de Peritos fijó con fecha 17 de septiembre de 2001, el monto de la indemnización provisional en la cantidad de $18.635.785.- para el lote Nº12. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
