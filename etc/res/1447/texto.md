@@ -1,0 +1,3 @@
+Por Resolución N° 1.447, de 9 de Octubre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por COMERCIAL E INVERSIONES LOANCO LTDA., R.U.T. N° 79.641.340-9, para un centro de cultivo ubicado en Bahía Tongoy, comuna de Coquimbo, provincia de Elqui, IV Región, conforme lo dispuesto en el artículo 78, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 9 de Octubre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
