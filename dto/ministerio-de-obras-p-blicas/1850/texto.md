@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.850, de 30 de septiembre de 1998, se expropiaron los lotes de terreno Nºs, 1, 2, 3 y 4, superficies 3.219 m2., 702 m2., 2.342 m2. y 232 m2., roles de avalúo 1035-74 y 1035-77, comuna de Maipú, para la obra Camino Santiago-San Antonio, Sector Paso Inferior Portales y se acordó el valor de indemnización con sus propietarios Inmobiliaria Pocuro S.A. y Sociedad Constructora de Viviendas Económicas, Pocuro Limitada, ascendente a la cantidad total de $107.548.313.-
+
+Fiscal del Ministerio de Obras Públicas.
