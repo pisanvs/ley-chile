@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.268, de 12 de noviembre de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201122035 presentada por SERVICIOS DE ACUICULTURA ACUIMAG S.A., para instalar y operar un centro de cultivo ubicado en canal Unión, puerto Fontaine, al sur de Punta Urrejola, XII Región.
+
+Valparaíso, 12 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
