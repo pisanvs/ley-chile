@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.822, de 28 de abril del 2000, se expropió el lote de terreno Nº 56-B, superficie 1.131 m2., rol de avalúo 120-9, comuna de Paine, para la obra Concesión Internacional Ruta 5; Tramo: Santiago-Talca. Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietaria Ulda Soto Altamirano, ascendente a la cantidad de $8.768.780.
+
+Fiscal del Ministerio de Obras Públicas.
