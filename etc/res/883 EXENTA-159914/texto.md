@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 883 de fecha 19.12.90, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes autorízase a la Empresa Compañía de Transportes Igi Llaima Internacional Sociedad Anónima y/o Cía. de Transportes Igi Llaima Internacional S.A., para efectuar una (1) frecuencia adicional semanal a las otorgadas por resolución exenta No. 579 de fecha 09 de Junio de 1987, modificada por resoluciones exentas No. 1540 de fecha 24.11.87 y No. 578 de fecha 31 de Agosto de 1990, en la realización de los servicios Concepción-Temuco (Chile) y Zapala-Neuquén (Argentina) y Temuco (Chile)-San Martín de Los Andes (Argentina), durante el período comprendido entre el 15 de Noviembre y el 15 de Marzo de cada año.
+
+- Sergio González Tagle, Subsecretario de Transportes.
