@@ -1,0 +1,5 @@
+Por decreto MOP No. 2.585, de 18 de diciembre de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropiaron los lotes de terreno No.s. 654, 655, 660 y 663, para la obra Diseño Definitivo Regadío Faja Maisan Canal Matriz Kms. 6.139 al 12.154, que figuran a nombre de María Odette Chesta Salazar, Emilio Chesta Chatemu, Lorena Yenny Arriaga Marchisani y María Teresa Painen Calfuquir, roles de avalúos 313-36, 313-37, 314-25 y 314-106, comuna de Pitrufquén, superficies 11.348; 14.500;
+
+2.810 y 9.570 m2. respectivamente. La comisión de peritos compuesta por los señores Lautaro Soto Rodríguez, Enrique Guillermo Smith Mason y Pablo Alex Mansilla Aravena, fijó con fecha 7 de agosto de 1998, el valor provisional de las indemnizaciones en las cantidades de $ 2.489.160, lote 654; $ 3.149.000, lote 655; $ 981.500, lote 660 y $ 2.556.200, lote 663. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
