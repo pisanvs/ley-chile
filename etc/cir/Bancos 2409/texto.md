@@ -7866,9 +7866,25 @@ En todo caso, las instituciones deberán aplicar plazos menores cuando la vida �
 
 4.- Sobreprecio pagado por activos inherentes a un negocio con ventajas competitivas.
 
+4.1 -Importe que se puede registrar como activo intangible.
+
 Las instituciones financieras podrán registrar en el activo el importe de la diferencia entre el valor pagado y el valor de los activos adquiridos, deducidos los pasivos que se asuman, cuando la adquisición de tales activos obedezca a la transferencia de un negocio con ventajas competitivas que justifique el sobreprecio pagado, siempre que sea razonable suponer que la institución financiera adquirente generará una mayor utilidad en el futuro como consecuencia de la transacción, sea por el desarrollo del nuevo negocio o por el aumento de sus propias operaciones ya existentes.
 
 El sobreprecio pagado se amortizará a lo menos linealmente dentro de un plazo máximo de diez años, salvo que durante ese lapso exista incertidumbre respecto a la generación de los beneficios futuros previstos, en cuyo caso y en el momento en que se manifieste esa incertidumbre, se disminuirá el plazo de amortización o se cargará a los resultados la totalidad del saldo remanente registrado en el activo, según corresponda Para estos efectos, la institución deberá efectuar una evaluación una vez al año, dejando documentadas las conclusiones al respecto.
+
+4.2.- Deducción para efectos de la determinación del patrimonio efectivo.
+
+El monto no amortizado del sobreprecio de que trata el numeral precedente, deberá ser deducido del capital básico para efectos de la determinación del patrimonio efectivo.
+
+No obstante, con la autorización previa de esta Superintendencia, aquella parte que corresponda a un precio razonable pagado por el potencial de la continuidad del negocio adquirido, podrá considerarse como un activo clasificado en categoría 5, de modo que la deducción se haga sólo por lo que exceda ese precio.
+
+Para solicitar la respectiva autorización, las instituciones financieras acompañarán un informe emitido por un evaluador independiente, que contenga el detalle del precio pagado, el valor presente de los flujos netos y la metodología utilizada en su determinación, considerando la siguiente información:
+
+a) La determinación del valor presente de los flujos futuros que justifican en su conjunto el precio pagado, el cual deberá estar basado en un plan de negocios que dé cuenta de las medidas que implementará la institución financiera para obtener los beneficios futuros y el tiempo que le tomará obtenerlos, y,
+
+b) El valor presente de los flujos futuros asociados a la continuidad del negocio o unidad generadora de flujos adquirido, sin considerar expectativas de crecimiento ni la incorporación de productos distintos a los contratados por los clientes al momento de la compra. El cálculo se basará en el flujo neto inicial del negocio, debidamente depurado de eventuales efectos transitorios o coyunturales, el que se mantendrá constante durante un período razonable, descontándose con la tasa que el evaluador considere más apropiada.
+
+Para otorgar su autorización, esta Superintendencia tomará, a modo de información, otras estimaciones realizadas en Chile o en el extranjero. En el caso de compra de grandes volúmenes de cartera, partirá de la base que normalmente al menos un 20% del valor pagado debiera ser deducido del capital básico para efectos de la determinación del patrimonio efectivo.
 
 5.- Marcas registradas.
 
@@ -16356,7 +16372,7 @@ a) Se agregan los bonos subordinados emitidos por la institución financiera que
 
 b) Se agregan las provisiones voluntarias constituidas por la institución financiera de acuerdo con lo previsto en el N° 4 de este título, hasta concurrencia del 1,25% de los activos ponderados por riesgo de que trata el N° 2 del título II de este Capítulo.
 
-c) Se deduce el saldo de los activos que correspondan a un "goodwill", cualquiera sea su origen, esto es, tanto los que provengan de inversiones en sociedades o de una fusión por compra, como los que se originen por combinaciones de negocios.
+c) Se deduce el saldo de los activos que correspondan a un "goodwill" por inversiones en sociedades o que se originen en una fusión por compra, como asimismo el sobreprecio pagado por activos inherentes a un negocio, según lo señalado en el numeral 4.2 del Capítulo 7-4 de esta Recopilación.
 
 d) Se deducen los saldos de los activos que correspondan a inversiones en filiales o sucursales en el exterior que no participen en la consolidación.
 
