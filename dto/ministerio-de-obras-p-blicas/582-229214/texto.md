@@ -1,0 +1,5 @@
+Por decreto MOP Nº 582 de 9 de julio de 2004, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206 de 1960, se expropió el lote de terreno Nº 32 para la obra:
+
+"Proyecto: Concesión Internacional Sistema Américo Vespucio Nor - Poniente. Avda. El Salto - Ruta 78. Tramo 6: Ruta 68 - Ruta 78", Región Metropolitana, que figura a nombre de Correa Gatica Zenon y Otros, rol de avalúo 2599-50, comuna de Pudahuel, superficie 143 m². La comisión de peritos integrada por los señores María Cristina Camus Palacios, Roberto Carlos Muñoz Ordenes y Cristián Larraín Arnolds, fijó con fecha 9 de junio de 2004, el valor provisional de la indemnización en la cantidad de $3.911.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
