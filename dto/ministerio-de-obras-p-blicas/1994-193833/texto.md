@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.994, de 30 de noviembre de 2001, se expropiaron los lotes de terreno Nº20 y 21, superficies 173 y 25 m2., respectivamente, rol de avalúo 524-20, comuna de Estación Central, para la obra Sistema Norte-Sur. Tramo G: Nudo Alameda. Sector: Km. 1.400,00 a Km. 1.700,00 Región Metropolitana, se acordó el valor de la indemnización con su propietaria Sociedad Víctor Morales y Compañía Limitada, ascendente a la cantidad de $47.514.715.
+
+- Fiscal del Ministerio de Obras Públicas.
