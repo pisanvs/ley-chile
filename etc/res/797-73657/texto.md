@@ -1,0 +1,3 @@
+Por Resolución Nº 797, de 6 de junio de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 96031017, presentada por RODRIGO BENIGNO MARTINEZ DE LOS RIOS, para un centro de cultivo ubicado en Caleta San Pedro, comuna de Caldera, provincia de Copiapó, III Región, en virtud de lo dispuesto en los artículos 10º y 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 6 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
