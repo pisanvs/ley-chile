@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.307, de 25 de agosto de 2004, de esta Subsecretaría, autorízase a COMERCIAL SOUTH PACIFIC LIMITADA, para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Fundo Santa Eloísa s/n, Hualpén, Talcahuano, VIII Región, en la línea de proceso de Cocido, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 25 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
