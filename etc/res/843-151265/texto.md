@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD AGROMAR LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 843, de 11 de Noviembre de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Agromar Limitada, domiciliada en Santiago, para operar tres embarcaciones en proyecto de construcción, en las aguas exteriores del litoral de las Regiones X y XI, al Weste de las líneas de base recta, en labores extractivas de cojinova del Sur, brótula, cabrilla, corvina, jurel, lisa, róbalo, sardina, sierra y pejerrey de mar, que extraerá con red de cerco y chancharro, congrio colorado, congrio negro, congrio dorado, merluza común, merluza española, merluza de cola, bacalao, pejegallo y tollo, que extraerá con espineles.
+
+Valparaíso, 11 de Noviembre de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
