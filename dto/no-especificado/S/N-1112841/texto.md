@@ -1,0 +1,7 @@
+Liberacion de derechos de aduana i de porte de correos para los libros i periódicos
+
+Santiago i Junio 25 de 1818.
+
+Siendo uno de mis principales cuidados la propagacion de las luces entre todas las clases del Estado, i convencido de la necesidad que hai de remover todos los obstáculos que se oponen a la fácil adquisicion de los libros, panfletos i papeles públicos, así nacionales como estranjeros, he venido en declarar como por el presente decreto declaro, libres de todo derecho los referidos libros, panfletos i periódicos ya sean publicados en el pais, ya fuera de él. I para que sean igualmente agraciados en esta provincia los habitantes de los pueblos mas distantes de esta capital, se conducirán por la estafeta los paquetes de impresos libre de todo porte, aun del mismo derecho patriótico; cuidando solamente los administradores de que no se incluyan entre los impresos, cartas u otros manuscritos, para lo cual deberán ir descubiertas las esquinas de los paquetes, i solo sujetos con una faja de papel en que irá la direccion. Hágase saber al Administrador Jeneral de Correos, circúlese por el Ministerio de Estado en el Departamento de Gobierno a quienes corresponda, i publíquese en la Gazeta Ministerial para noticia de todos.-
+
+O'Higgins.- Irisarri.
