@@ -1,0 +1,5 @@
+Por decreto MOP Nº 373 de 30 de abril de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nº s. 1 y 2, para la obra: Reposición, Construcción y Habilitación de Caminos para Vialidad Complementaria Concesión Internacional Ruta 5 Tramo Santiago-Talca, Sector Acceso a Villa Las Hojas y Calle Egenau, km.
+
+-0,01000 a km. 0,90000, que figuran a nombre de Agric Joaquín E Cura Osorio Y, rol de avalúo 200-105, comuna de Rengo, VI Región, superficies 32 y 3.354 m². La Comisión de Peritos, fijó con fecha 6 de noviembre de 2003, en las cantidades de $218.600.- lote 1 y $14.453.475.- lote 2. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
