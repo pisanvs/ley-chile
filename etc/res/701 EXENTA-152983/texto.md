@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 701 de fecha 14 de Julio de 1986, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica el recorrido del servicio de taxi colectivo urbano, de la Línea No. 46 "Villa Santa Elena Metro El Llano", autorizado por resolución exenta No. 351 de 11 de Junio de 1984, quedando su nuevo trazado como sigue:
+
+Circunvalación: Vasconia con Froil n Roa - Froil n Roa Las Codornices - Exequiel Fern ndez - Benito Rebolledo Avda. Maratón - Avda. Colo Colo - Nicomedes Guzmán - Benito Rebolledo - Capitán Prat - San Juan - Vasconia - Salesianos Santa Rosa - Brigadier de la Cruz - Gran Avda. José Miguel Carrera - Gambeta Sur - Gambeta Norte - Gran Avda. José Miguel Carrera - Teresa Vial Rey Alberto - Salesianos - Vasconia - San Juan - Capitán Prat - Benito Rebolledo - Nicomedes Guzmán - Pablo Burchard Jorge Quevedo - Avda. Colo Colo - Avda. Maratón - Benito Rebolledo - Exequiel Fernández - Avda. Aguada Sur Froilán Roa - Avda. Aguada Norte - Exequiel Fernández Vasconia hasta Froilán Roa.
+
+Santiago, Julio 17 de 1986.- Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones de la Región Metropolitana.
