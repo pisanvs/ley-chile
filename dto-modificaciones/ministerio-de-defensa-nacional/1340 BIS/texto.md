@@ -54,9 +54,11 @@ El capitán de puerto especialmente, tendrá a su cargo la policía del mar terr
 
 <!-- parte:10045315 -->
 
-La fuerza pública estará obligada a facilitar al capitán de Puerto, el Auxilio necesario para hacer cumplir las resoluciones que dictare, en virtud de las facultades que le son propias.
+Para el cumplimiento de las disposiciones mencionadas en el artículo anterior y demás que le conciernen en el desempeño de sus funciones, el capitán de Puerto tendrá la facultad de detener a los infractores dentro de su jurisdicción y remitirlos arrestados, a disposición del Tribunal de Justicia que corresponda; con este fin, la fuerza pública le prestará el auxilio necesario que solicite para hacer cumplir las resoluciones que dictare.
 
-Las órdenes de allanamiento, incautación o arresto que procedan, deberá el capitán de puerto solicitarlas del Tribunal de Justicia que corresponda.
+Lo dispuesto en este artículo es sin perjuicio de lo que prescriben los artículos 283 y 288 del Código de Procedimiento Penal en su caso.
+
+Las órdenes de allanamiento o incautación que procedan en su jurisdicción, deberá el capitán de Puerto solicitarlas del Tribunal mencionado.
 
 #### Artículo 7º
 
@@ -702,6 +704,8 @@ No podrán conducirse en un mismo corral animales de distinta especie y en ning�
 
 Para la atención y cuidado de los animales a bordo, se embarcará el personal que indica el Reglamento de Transportes para la Marina Mercante en la parte relativa a la conducción de animales en pie.
 
+Estos cuidadores podrán ser designados de la propia tripulación, abonándoseles una remuneración extraordinaria convenida en el contrato de embarco.
+
 #### Artículo 101
 
 <!-- parte:10045416 -->
@@ -759,6 +763,10 @@ Desde 251 tons. hasta 500 tons., 4 tripulantes.
 Mayores de 500 toneladas, 6 tripulantes.
 
 Además todas deberán tener un oficial o patrón y el personal de cámara necesario.
+
+Cuando haya en un puerto dos o más pontones, chatas o buques en desarme de una misma empresa, el personal ya fijado atenderá el servicio de todos ellos, agregando dos hombres de tripulación por cada nave de exceso.
+
+De noche se mantendrá en cada nave un tripulante y los demás pernoctarán en la que se disponga su alojamiento y rancho.
 
 ## Capítulo IX
 
@@ -2258,7 +2266,7 @@ El número y ubicación de estos elementos será fijados por la Capitanía de Pu
 
 <!-- parte:10045649 -->
 
-Todo muelle o atracadero particular o fiscal se mantendrá convenientemente alumbrado, en la forma que determine la Capitanía de Puerto respectiva y en el cabezo se colocará una luz de color que permita distinguirlo con facilidad. La Capitanía de Puerto exigirá de los concesionarios o administración del puerto la adopción de todas aquellas medidas que den la seguridad necesaria para la navegación y ordenará la suspensión del tránsito en todo muelle o embarcadores particulares o fiscales en que no se cumplan las disposiciones anteriores.
+Todo muelle o atracadero particular o fiscal se mantendrá convenientemente alumbrado, en la forma que determine la Capitanía de Puerto respectiva y en el cabezo se colocará una luz de color que permita distinguirlo con facilidad. La Capitanía de Puerto exigirá de los concesionarios o administración del puerto la adopción de todas aquellas medidas que den la seguridad necesaria para los transeúntes y la navegación y ordenará la suspensión del tránsito en todo muelle o embarcadores particulares o fiscales en que no se cumplan las disposiciones anteriores.
 
 #### Artículo 295
 
@@ -2526,7 +2534,7 @@ El integro de las multas deberá hacerse dentro de las 24 horas siguientes, en e
 
 <!-- parte:10045692 -->
 
-Los infractores que no estén conformes con las multas y otras sanciones impuestas por las Capitanías de Puerto podrá reclamar a la Dirección del Litoral y de Marina Mercante. En tal caso, aquellos deberán entregar la orden del capitán de puerto, en su caso, un "Depósito a la vista "de la caja nacional de ahorros más próxima si no la hubiere en la localidad, para que una vez aprobada se reintegre en estampillas y si resultare rechazada o disminuida, se devuelva al infractor de dinero excedente.
+Los infractores que no estén conformes con las multas y otras sanciones impuestas por las Capitanías de Puerto podrá reclamar a la Dirección del Litoral y de Marina Mercante. En tal caso, aquellos deberán entregar dentro del plazo fatal de 24 horas la orden del capitán de puerto, en su caso, un "Depósito a la vista "de la caja nacional de ahorros más próxima si no la hubiere en la localidad, para que una vez aprobada se reintegre en estampillas y si resultare rechazada o disminuida, se devuelva al infractor de dinero excedente.
 
 El pago de toda multa en forma indicada será previo a cualquier reclamo sobre ella.
 
@@ -2601,6 +2609,8 @@ Reglamento
 <!-- parte:10045723 -->
 
 Toda infracción a los artículos de este Reglamento en que no se especifique la pena y toda desobediencia a las órdenes del capitán de puerto en el desempeño de sus funciones, se sujetará al contraventor a una multa discrecional que le aplicará el expresado funcionario.
+
+Además, cualquiera persona que faltare el respeto y sumisión debida al capitán de Puerto, mientras éste ejerce sus funciones, o desobedeciere las órdenes que el mismo imparta en uso de sus atribuciones, incurrirá en las faltas que sancionan el número 4.º del Art. 495 y el N.º 1.º del Art. 496 del Código Penal, según los casos, salvo que los hechos alcancen a constituir delito. En los casos a que se refiere esta párrafo, será aplicable lo dispuesto en el Art. 6.º del presente Reglamento.
 
 #### Artículo 343
 
