@@ -1,0 +1,5 @@
+Por Resolución No. 821 de 11 de Julio de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar de la fecha de esta Resolución, el plazo otorgado a don JOSE RICARDO BOHLE HERNANDEZ, RUT No. 2.208.142-K, domiciliado en la ciudad de Puerto Montt, Pasaje Carolina No. 944, Población Kennedy, en el numeral 5° de la Resolución No. 1336, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Cadúcase la Resolución No. 1534, de 11 de Diciembre de 1990, de esta Subsecretaría, que prorrogó el plazo para operar fijado a don José Ricardo Bohle Hernández, RUT No. 2.208.142-K, domiciliado en la ciudad de Puerto Montt, en el numeral 5° de la Resolución No. 1336, de 1989, de esta Subsecretaría, en virtud de lo dispuesto en el artículo 6° del D.S. No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de Julio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
