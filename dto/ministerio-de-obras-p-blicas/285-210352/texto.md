@@ -1,0 +1,3 @@
+Por decreto MOP Nº285, de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº31, superficie 1.907 m2., rol de avalúo 214-319, comuna de Teodoro Schmidt, para la obra "Camino Ruta S-60, sector: Teodoro Schmidt - Hualpin, Km. 43,94000 al Km. 59,10294, tramo I Km. 44,84000 al Km. 53,08000", IX Región y se acordó el valor de indemnización con sus propietarios Clara Erika Ranguileo Colil y otros, ascendente a la cantidad de $6.747.671.-
+
+Fiscal del Ministerio de Obras Públicas.
