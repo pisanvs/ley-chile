@@ -12470,6 +12470,96 @@ Asimismo, las referidas obligaciones quedarán sujetas al límite de endeudamien
 
 Las entidades financieras deben mantener carpetas individuales con todos los antecedentes de cada uno de los préstamos cursados con cargo a esta línea de crédito, que sirvieron de base para darles curso, particularmente los relativos a la evaluación de los proyectos de inversión, en los casos que corresponda.
 
+CAPITULO 8-36 (Bancos y Financieras)
+
+MATERIA:
+
+FORWARD UNIDADES DE FOMENTO-PESOS.
+
+### 1. Operaciones Forward en Unidades de Fomento
+
+Los bancos y las sociedades financieras que celebren contratos a futuro (Forward), en los que se pacte un valor en pesos para la unidad de fomento a una fecha futura, deben sujetarse a lo dispuesto en el Capítulo III.D.1 del Compendio de Normas Financieras del Banco Central de Chile y en este Capítulo. Estos contratos pueden celebrarse entre una institución financiera con otra o entre una institución financiera y un tercero.
+
+### 2. Condiciones de los contratos
+
+Las operaciones Forward UF-Pesos de que se trata deben constar en un contrato celebrado entre la institución financiera y la otra parte contratante, en el que se debe estipular, a lo menos, lo siguiente:
+
+- **a)** el monto contratado en la operación, tanto en unidades de fomento como en pesos;
+
+- **b)** las fechas de inicio y vencimiento del contrato; y
+
+- **c)** el valor pactado de la unidad de fomento para la fecha de vencimiento.
+
+En los contratos deberá quedar expresamente señalado si los derechos contenidos en éstos tendrán el carácter de transferibles o intransferibles.
+
+Las partes contratantes podrán convenir libremente las eventuales garantías destinadas a caucionar el cumplimiento de los contratos.
+
+Durante la vigencia del contrato las partes podrán, de común acuerdo, modificar los montos pactados, el valor de la unidad de fomento convenido para el vencimiento del contrato y la fecha de vencimiento.
+
+### 3. Instrucciones contables
+
+Para los efectos de las presentes normas contables, a una operación con contratos Forward UF-Pesos se le denominará "Forward en UF-Pesos comprados" o "Forward en UF-Pesos vendidos", según el tipo de obligación que asume la institución financiera que la registra, esto es, si en un sentido figurado tiene la calidad de "compradora" o "vendedora" de la cantidad de Unidades de Fomento acordada. Se le llama entonces "Forward en UF-Pesos comprados" al caso en que la institución financiera pacta el derecho a percibir el mayor valor que tenga la Unidad de Fomento por sobre el precio pactado y se obliga a pagar la diferencia si el valor de la U.F. resulta menor que ese precio. En cambio, se le denomina "Forward UF-Pesos vendidos" a la operación en que la institución financiera asume la posición contraria en el contrato, esto es, se obliga a pagar el mayor valor que tenga la Unidad de Fomento sobre el precio acordado y tiene derecho a percibir la diferencia cuando el valor de la U.F. sea menor.
+
+El contrato Forward UF-Pesos será registrado de la siguiente forma, según el caso:
+
+3.1. Celebración de los contratos.
+
+a) Forward UF-Pesos comprados.
+
+Debe: - "Forward UF-Pesos comprados", de la partida 2127, por el equivalente del importe pactado en unidades de fomento, al valor que dicha unidad tenga en la fecha de celebración del contrato.
+
+- "Pérdidas diferidas por Forward UF-Pesos", de la partida 2127, por la diferencia entre el equivalente del monto en unidades de fomento antes mencionado y el valor en pesos pactado a futuro.
+
+Haber: - "Acreedores por Forward UF-Pesos", de la partida 4127, por el monto en pesos pactado en el contrato.
+
+b) Forward UF-Pesos vendidos.
+
+Debe: - "Deudores por Forward UF-Pesos", de la partida 2127, por el monto en pesos pactado a futuro en el contrato.
+
+Haber: - "Forward UF-Pesos vendidos", de la partida 4127, por el equivalente del importe pactado en unidades de fomento, al valor que dicha unidad tenga en la fecha de celebración del contrato.
+
+- "Utilidades diferidas por Forward UF-Pesos", de la partida 4127, por la diferencia entre el equivalente del monto en unidades de fomento y el valor en pesos pactado a futuro.
+
+3.2. Ajustes mensuales.
+
+Mensualmente las instituciones financieras traspasarán los importes registrados en las cuentas "Pérdidas diferidas por Forward UF-Pesos" y "Utilidades diferidas por Forward UF-Pesos", a las cuentas "Pérdidas por Forward UF-Pesos", de la partida 5900, y "Utilidades por Forward UF-Pesos", de la partida 7910, respectivamente, en forma proporcional al plazo del correspondiente contrato.
+
+Asimismo, al término de cada mes, las instituciones financieras ajustarán el saldo de la cuenta "Forward UF-Pesos comprados" y "Forward UF-Pesos vendidos", de acuerdo con la variación que haya experimentado el valor de la Unidad de Fomento, con cargo a la cuenta "Pérdidas por Forward UF-Pesos" o con abono a la cuenta "Utilidades por Forward UF-Pesos", según corresponda.
+
+3.3. Vencimiento de los contratos.
+
+a) Forward UF-Pesos comprados.
+
+Debe: - "Acreedores por Forward UF-Pesos".
+
+- "Caja" o la cuenta que corresponda por la recepción de la diferencia entre el valor en pesos pactado a futuro y el equivalente del monto en unidades de fomento al valor que dicha unidad tenga en la fecha de vencimiento del contrato, cuando proceda.
+
+Haber: - "Forward UF-Pesos comprados".
+
+- "Caja" o la cuenta que corresponda por la entrega de la diferencia entre el valor en pesos pactado a futuro y el equivalente del monto en unidades de fomento al valor que dicha unidad tenga en la fecha de vencimiento del contrato, cuando proceda.
+
+b) Forward UF-Pesos vendidos.
+
+Debe: - "Forward UF-Pesos vendidos".
+
+- "Caja" o la cuenta que corresponda por la recepción de la diferencia entre el valor en pesos pactado a futuro y el equivalente del monto en unidades de fomento al valor que dicha unidad tenga en la fecha de vencimiento del contrato, cuando proceda.
+
+Haber: - "Deudores por Forward UF-Pesos".
+
+- "Caja" o la cuenta que corresponda por la entrega de la diferencia entre el valor en pesos pactado a futuro y el equivalente del monto en unidades de fomento al valor que dicha unidad tenga en la fecha de vencimiento del contrato, cuando proceda.
+
+### 4. Otras instrucciones
+
+4.1. Límites.
+
+Los contratos Forward UF-Pesos estarán afectos a los límites de que trata el artículo 84 N° 1 de la Ley General de Bancos, por la diferencia entre el equivalente del monto pactado en unidades de fomento, al valor que dicha unidad tenga en la fecha de celebración del contrato, y el importe en pesos pactado a futuro, que sea de cargo de los respectivos obligados. No obstante, dichos importes nominales no serán incluidos en los archivos de deudores que deben remitirse a esta Superintendencia.
+
+Por otra parte, las obligaciones que una institución financiera mantenga por estos contratos, estarán afectas al límite a que se refieren los artículos 81 y 115 de la Ley General de Bancos, por la diferencia entre el equivalente del monto pactado en unidades de fomento, al valor que dicha unidad tenga en la fecha de celebración del contrato, y el importe en pesos pactado a futuro, que sea de cargo de la institución financiera.
+
+En todo caso, las operaciones antes mencionadas que realicen las instituciones financieras, registradas en las partidas 2127 y 4127, quedan sujetas al margen para operaciones activas y pasivas a que se refiere el título III del Capítulo 12-9 de esta Recopilación. 4.2. Cómputo para efectos de límites de obligaciones.
+
+Para el cómputo de las obligaciones de las instituciones financieras de que trata el segundo párrafo del numeral 7.1 precedente, las diferencias de su cargo se mantendrán registradas en la cuenta "Endeudamiento por Forward UF-Pesos", de la partida 9700.
+
 CAPITULO 9-1 (Bancos y Financieras)
 
 MATERIA:
@@ -17104,7 +17194,7 @@ según se trate de un banco o de una sociedad financiera, respectivamente.
 
 Para establecer el monto de las obligaciones sujetas al margen de que tratan los artículos 81 y 115 de la Ley General de Bancos, se sumarán los saldos de las cuentas que deben incluirse en las partidas 3005 a 3820, exceptuados los de aquellas comprendidas en las partidas 3430 y 3485 ("Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central de Chile").
 
-A lo anterior se sumarán los saldos de las cuentas de orden "Bonos subordinados computados como obligaciones" y "Endeudamiento por contratos de compraventa y arbitrajes a futuro", ambas de la partida 9700.
+A lo anterior se sumarán los saldos de las siguientes cuentas de orden de la partida 9700: "Bonos subordinados computados como obligaciones", "Endeudamiento por contratos de compraventa y arbitrajes a futuro" y "Endeudamiento por Forward UF-Pesos".
 
 Además, se incluirán todas las cauciones y garantías registradas en cuentas dela partida 9290, por obligaciones que no se hayan computado al considerar laspartidas señaladas en el párrafo anteprecedente.
 
@@ -17532,9 +17622,9 @@ constancia, para los efectos de los límites individuales de crédito se computa
 
 el total de la deuda para cada uno de ellos.
 
-7.- Compromisos por compraventas y arbitrales a futuro de monedas extranjeras.
+### 7. Forward de monedas extranjeras y unidades de fomento
 
-El cómputo, para efectos de los límites individuales de crédito, en estas operaciones se hará considerando sólo la diferencia entre el precio pactado a futuro y el precio al contado de las mismas, a la fecha de celebración del pacto, cuando esa diferencia sea de cargo del correspondiente deudor.
+Para efectos de los límites individuales de crédito, en las operaciones forward de monedas extranjeras y de unidades de fomento tratadas en los capítulos 13-2, 13-23 y 8-36 de está Recopilación, se computará como crédito otorgado, hasta el vencimiento de cada operación, la diferencia inicial expresada en pesos entre el precio pactado a futuro y el precio al contado a la fecha de celebración del pacto, cuando esa diferencia sea de cargo del correspondiente deudor.
 
 ### III. GARANTIAS VALIDAS PARA AMPLIAR LOS MARGENES DE CREDITO
 
@@ -19070,6 +19160,8 @@ Las instituciones financieras podrán mantener colocaciones e inversiones no rea
 
 No obstante, dicho limite se puede sobrepasar en caso de un exceso de activos, por un importe no superior a los pasivos exigibles a la vista en moneda chilena no reajustables menos los fondos disponibles de la misma denominación.
 
+Conforme a lo dispuesto en el Capítulo III.D.1 del Compendio de Normas Financieras, al total de colocaciones e inversiones no reajustables señalado anteriormente se le agregará el valor pactado en pesos de los contratos de forward UF-Pesos vendidos, en tanto que al pasivo circulante se le sumará el valor pactado en pesos de los contratos de forward UF-Pesos comprados, según las definiciones contenidas en el Capítulo 8-36 de esta Recopilación Actualizada de Normas.
+
 Para los fines de que trata este titulo, los bancos y sociedades financieras considerarán las operaciones no reajustables en moneda chilena que deben registrarse en las partidas o cuentas que se indican en el Anexo N° 2 de este Capitulo.
 
 IV.- MARGEN DE OPERACIONES EN MONEDA EXTRANJERA.
@@ -19157,6 +19249,8 @@ El cumplimiento o incumplimiento del margen para operaciones en moneda chilena n
 Los indicadores antes señalados corresponden a la suma de los saldos contables que, de acuerdo con las instrucciones vigentes de esta Superintendencia, deben incluirse en las partidas que se indican a continuación, considerando solamente aquellos saldos que, al tratarse del cierre de un mes, deben informarse en moneda chilena no reajustable en el archivo C01
 
 IMAGEN.
+
+> **Nota.** La letra E) del N° 1, de la Circular 2796, SBIF, promulgada el 14.11.1994, modifica el presente Anexo, a fin de incorporar las cuentas correspondientes a los contratos Forward UF-Pesos, en los indicadores del sistema contable relativos al cómputo de operaciones activas y pasivas.
 
 ANEXO N° 3
 
