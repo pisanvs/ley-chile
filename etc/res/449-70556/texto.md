@@ -1,0 +1,3 @@
+Por Resolución Nº 449, de 27 de marzo de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; amplíase por tres meses, a contar de la fecha de la presente Resolución, el plazo otorgado a PESQUERA ATLANTICA LIMITADA, para continuar las actividades pesqueras con la nave "Limarí", autorizada por Resolución Nº 89, de 1997, de esta Subsecretaría, por haberse acreditado la existencia de una fuerza mayor.
+
+Valparaíso, 27 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
