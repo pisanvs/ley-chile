@@ -1,0 +1,3 @@
+Por Resolución Nº 1.735, de 17 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 97032010, presentada por JORGE EDUARDO SANHUEZA NOVOA, para operar un centro de cultivo en Bahía Salado, comuna de Copiapó, provincia de Copiapó, III Región, conforme lo dispuesto en el artículo 14 del D.S. Nº 290 de 1993 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 17 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
