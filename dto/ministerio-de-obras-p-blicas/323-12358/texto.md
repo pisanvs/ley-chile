@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°323, de 30 de Septiembre de 1993, se expropiaron los lotes de terreno N°s. 64 y 65, superficies 3.135 m2. y 1.500 m2., roles de avalúos 16-53 y 17-29, comuna de Lolol, para la obra Camino Santa Cruz-Lolol Rol I-72, y se acordó precio de indemnización con su propietaria Sociedad de Responsabilidad Nerquihue N°2 Ltda., ascendente a la cantidad de $ 1.286.088.-
+
+Fiscal del Ministerio de Obras Públicas.
