@@ -1,0 +1,3 @@
+Por Resolución Nº 101, de 21 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución Nº 164, de 1990, de esta Subsecretaría que autorizó a EXPORTADORA Y COMERCIAL DESHIDRO LIMITADA, para operar la nave "Berta", en el litoral comprendido entre los paralelos 41°28,6' L.S. y 43° L.S., en la captura de Merluza común y Pejegallo, en virtud de lo señalado en el artículo 143 letra b) del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 21 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
