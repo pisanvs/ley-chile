@@ -1,0 +1,3 @@
+Por decreto MOP. Nº845, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº9-A, superficie 563 M2, rol de avalúo 225-100, comuna de Olmué, V Región, para la obra ''Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10,984 al 34,5000'' y se acordó el valor de indemnización con su propietario don Nelson Ignacio Tapia Lizana, ascendente a la cantidad de $12.676.528.-
+
+Fiscal del Ministerio de Obras Públicas .
