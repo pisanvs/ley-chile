@@ -1,0 +1,3 @@
+Por decreto MOP Nº 336, de 28 de febrero de 2001, se expropió el lote de terreno Nº 20, superficie 7.552 m²., rol de avalúo 154-100, comuna de Casablanca, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Quinta Región y se acordó el valor de indemnización con su propietaria María Eujenia Alvarez de la Rivera Zanetta, ascendente a la cantidad de $37.077.758.
+
+Fiscal del Ministerio de Obras Públicas.
