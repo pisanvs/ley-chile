@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.638, de 30 de noviembre de 1999, se expropiaron los lotes de terreno Nºs 5-B, 6, 7, 8-A, 8-B, 8-C, 9, 10, 11, 14-A y 15-A, superficies 2.230, 5.940, 2.934, 376, 11.172, 1.428, 2.243, 759, 10.081, 3.300 y 1.959 M2 respectivamente, roles de avalúo 524-253, 524-247, 524-254 y 521-61, comuna de Tirúa, VIII Región, para la obra Camino Tirúa Trovolhue - Carahue y se acordó precio de indemnización con sus propietarios Alfonso Caripan Collipal, Patricio Caripan Collipal, Jaime Caripan Collipal y Víctor Rivera Díaz, ascendente a las cantidades de $6.546.954, $7.421.630, $6.705.101 y $2.696.680.
+
+Fiscal del Ministerio de Obras Públicas.
