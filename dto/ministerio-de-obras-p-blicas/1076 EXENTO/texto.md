@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.076, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº37-A, superficie 304 m², rol de avalúo 201-25, comuna de Yumbel, para la obra "Camino Ruta O-60, Sector Monte Aguila - Yumbel, Km. 6,63900 al 17,53111" y se acordó el valor de indemnización con su propietario don Eugenio Eduardo Vivaldi Véjar y otros, ascendente a la cantidad de $429.940.-
+
+Fiscal del Ministerio de Obras Públicas.
