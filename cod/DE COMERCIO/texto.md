@@ -100,6 +100,12 @@ Derogado.
 
 Cuando los hijos de familia y los menores que administran su peculio profesional en virtud de la autorización que les confieren los artículos 246 y 439 del Código Civil ejecutaren algún acto de comercio, quedarán obligados hasta concurrencia de su peculio y sometidos a las leyes de comercio.
 
+#### Artículo 11
+
+La mujer casada comerciante se regirá por lo dispuesto en el artículo 150 del Código Civil.
+
+> **Nota.** El artículo cuarto de la LEY 18802, publicada el 09.06.1989, deroga el inciso segundo de la presente norma.
+
 #### Artículo 12
 
 Derogado.
