@@ -1,0 +1,7 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante resolución exenta No. 2.107 de 13 de Octubre de 1987, conforme Art.
+
+5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Fundo Santa María de Chorombo que corresponde a la Hijuela Tercera del Fundo Hijuela Segunda o Los Quillayes de la Hacienda Chorombo, hoy Fundo El Rosario de Chorombo", de la Comuna de María Pinto, Región Metropolitana; y Derechos Aprovechamiento Aguas que corresponden a Parcelas N°s. 1 a la 82, sitios Aa, Ae, Ag, Ah, Ai, Ak, Be, Bf, Bg, Bh, Bi, Bj, Bl, Bm, Bñ, Bo, Bp, Bq, Br, Bs, Bt, Bu, del B al L, N, Ñ, P, Q, R, U, V, W, X e Y, y Reserva CORA No. 1 del Proyecto de Parcelación "Chorombo" formado por predio señalado y por predios "Hijuela Primera o Chorombo Alto del Antiguo Fundo Chorombo", "El Estero", "Hijuela Tercera o Chorombo Sur del Antiguo Fundo Chorombo" y "Fundo La Querencia". Los Derechos de Agua se extraen del Canal Las Mercedes derivado del Río Mapocho, del Canal Félix, Ortigal Derecho, La Cruz, Ortigal Izquierdo, todos derivados del Estero Améstica; del Estero Puangue. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
