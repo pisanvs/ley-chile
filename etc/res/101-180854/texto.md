@@ -1,0 +1,3 @@
+Por resolución Nº 101, de 24 de enero de 2001, de esta Subsecretaría, déjase sin efecto la resolución Nº 186 de 1990, de esta Subsecretaría, que autorizó a don PATRICIO JAVIER AMPUERO JIMENEZ, para iniciar actividades pesqueras extractivas con las naves ''Soledad'', matrícula 419 y ''Roma'', matrícula 378, ambas del Puerto de Constitución, por renuncia de su titular.
+
+Valparaíso, 24 de enero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
