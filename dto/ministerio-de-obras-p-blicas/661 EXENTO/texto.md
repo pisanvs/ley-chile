@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº661, de 31 de mayo de 2001, se expropió el lote de terreno Nº82-1, superficie 422 m², rol de avalúo 205-23, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector I, Sexta Región y se acordó el valor de indemnización con su propietario Julio Segundo Arroyo Sandoval, ascendente a la cantidad de $1.738.481.-
+
+Fiscal del Ministerio de Obras Públicas.
