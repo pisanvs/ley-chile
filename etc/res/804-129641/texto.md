@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD COMERCIAL PACIFICO SUR S.A. PARA INICIAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE RESOLUCION QUE INDICA
+
+Por Resolución No. 804, de 05 de Agosto de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Comercial Pacífico Sur S.A., domiciliada en Santiago, para iniciar actividades pesqueras de transformación en una planta industrial ubicada en calle Pedro Montt s/n Dalcahue, Chiloé, X Región donde procesará en las líneas de elaboración de congelado y fresco - enfriado los siguientes recursos hidrobiológicos: Merluza del Sur, congrio dorado y mero. Declárase la caducidad de la Resolución No. 1.056, de 09 de Septiembre de 1987, de esta Subsecretaría, de conformidad a la dispuesto en el artículo 6° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 05 de Agosto de 1988.- Roberto Cabezas Bello Subsecretario de Pesca.
