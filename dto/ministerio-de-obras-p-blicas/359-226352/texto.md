@@ -1,0 +1,3 @@
+Por decreto MOP Nº 359 de fecha 30 de abril de 2004, se expropió el lote de terreno Nº 2, superficie 1.480 m², rol Nº 136-317, comuna de Paine, para la obra "Reposición, Construcción y Habilitación de caminos para Vialidad complementaria Concesión Internacional Ruta 5, Tramo Santiago Talca y "Mejoramiento Camino entre Enlace Champa y Hospital, Tramo Km. 0,00000 al Km. 1,24000", Región Metropolitana y se acordó el valor de la indemnización con su propietario Gloria Eugenia Villavicencio González y Otro, ascendente a la cantidad de $4.055.516.-
+
+Fiscal del Ministerio de Obras Públicas.
