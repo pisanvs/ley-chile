@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 596, de 22 de mayo de 2001, y en base a la facultad otorgada por el artículo 105 del DFL. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 40-B, 43-A, 74-A y 74-B, para la ejecución de la obra "Camino Chépica - Bif. Teno, Sector Cuesta El Peral - Chépica, Tramo Km. 5.250 a Km.
+
+18.893.22", que figuran a nombre de Orlando del Carmen Díaz Díaz, David Devia Reinoso y Laura Donoso Vergara y otros, roles de avalúo 59-36, 60-33 y 59-1, comuna de Chépica, VI Región, superficies 68, 119, 254 y 93 m². La comisión de peritos fijó con fecha 3 de enero de 2000, la indemnización provisional en la cantidad de $81.600, lote 40-B; $1.178.500, lote 43-A; $444.800, lote 74-A y $300.000, lote 74-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
