@@ -1,0 +1,3 @@
+Por decreto MOP Nº 278 de fecha 28 de marzo del 2003, se expropió el lote de terreno Nº 9, superficie 637,00 m², Rol de Avalúo Nº 244-738, comuna de Panguipulli, X Región para la obra "Camino Ch-201, sector Carriringue-Liquiñe tramo Km. 48.85000 a Km. 58.45495 (Acceso a Puentes)" y se acordó el valor de indemnización con su propietario Carsenio Neihual Catrilaf, ascendente a la cantidad de $11.017.382.
+
+Fiscal del Ministerio de Obras Públicas.
