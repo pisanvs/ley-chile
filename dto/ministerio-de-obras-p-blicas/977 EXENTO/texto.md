@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 977, de 31 de julio de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 38-A, para la ejecución de la obra "Camino Costero Tirúa - Carahue, Tramo Tranapuente - Carahue, Sector Km. 55.438,97 - Km. 69.895,61; Km. 0,000,00 - Km.
+
+3.927,45, Sub-Tramo II Km. 59.321,0 a Km. 63.648,30", que figura a nombre de Leufumán Mosi José, rol de avalúo Nº 510-56, Comuna de Carahue, IX Región, superficie 2.934,94 m2. La Comisión de Peritos fijó con fecha 24 de noviembre de 2000, el valor provisional de la indemnización en la cantidad de $2.644.771.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
