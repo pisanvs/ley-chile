@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.630, de 21 de junio de 1999, se expropió el lote de terreno Nº75-1F, superficie 402,0 m2., rol de avalúo 212-14, comuna de Perquenco, para la obra ''Concesión Internacional Ruta 5; tramo Collipulli - Temuco'', Novena Región y se acordó el valor de indemnización con su propietario Jorge Rolando Navarrete Báez, ascendente a la cantidad de $376.009.-
+
+Fiscal del Ministerio de Obras Públicas.
