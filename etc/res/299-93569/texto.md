@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA PUNTA ARENAS S.A. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 299, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Punta Arenas S.A., R.U.T. No. 96.539.010-3, domiciliada en Santiago, para iniciar actividades pesqueras, en orden a operar los buques congeladores "Chamiza", "Charrúa", "Chacabuco", "Chaval", en la zona de aguas interiores situada al sur del paralelo 47° 00' 00" L.S., donde podrán extraer los siguientes recursos hidrobiológicos: Besugo, brótula, cabrilla española, chancharro, cojinoba del sur, congrio dorado, merluza del sur, merluza de tres aletas, raya, reineta, róbalo, rollizo, sierra, tollo y tollo de cachos. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 6 de Marzo de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
