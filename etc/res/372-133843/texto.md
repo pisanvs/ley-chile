@@ -1,0 +1,3 @@
+Por resolución Nº 372, de 11 de marzo de 1999, de esta Secretaría, declárase la caducidad parcial de la resolución Nº 51 de 1994, de esta Subsecretaría, en cuanto autorizó a COMPAÑIA PESQUERA CAMANCHACA S.A., para operar la nave Oficina Vigo en la captura del recurso hidrobiológico Jurel en el litoral de la V, VI y VII Regiones, en virtud de lo dispuesto en la letra b) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
