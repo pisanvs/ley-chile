@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.308, de 17 de abril de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº67, superficie 1.115m2, rol de avalúo 118-32, comuna de Malloa, Sexta Región, para obra Concesión Internacional Ruta 5, Tramo Santiago - Talca. Sector G: Km. 110.200,00 - Km. 128.400,00. Posteriormente por decreto MOP Nº2.665, de 30 de junio de 2000, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con sus propietarios Manuel Antonio Magna Olivares y Luis Expedito Magna Olivares, ascendente a la cantidad de $5.121.598.
+
+Fiscal del Ministerio de Obras Públicas.
