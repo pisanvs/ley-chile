@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.468, de 15 de octubre de 2003 de esta Subsecretaría, autorízase a ARMALY E HIJO LIMITADA para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Vicente Insinilla Nº 20, Caldera, III Región, en la línea de elaboración de Conserva, los siguientes recursos hidrobiológicos: Abalón japonés y Abalón rojo.
+
+Valparaíso, 15 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
