@@ -1,0 +1,3 @@
+Por decreto MOP Nº 399, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 36, superficie 5.997,5 M2, rol de avalúo 178-93, comuna de Chonchi, X Región, para la obra "Camino Ruta 5, Sector Chonchi-Tara Km. 1.205,160 al 1.215,004" y se acordó el valor de indemnización con su propietario don Mario Pérez Pérez, ascendente a la cantidad de $33.762.560.
+
+Fiscal del Ministerio de Obras Públicas.
