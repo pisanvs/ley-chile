@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.363, de 28 de septiembre de 2001 y en base a la facultada otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 4-B, 8-A, 11-B, 11-C, 11-E, 15-A, 19-A y 26-A, para la obra Camino Ruta F-10-G, sector Cuesta La Dormida, Etapa 2, Kms 10,98400 al 34,50000, que figuran a nombre de Aníbal Segundo Figueroa Vicencio, Comunidad La Dormida, Manuel E. Vicencio Lizana y Ahumada Zamora Remigio, roles de avalúo 223-60, 225-17 y en trámite, superficies 1.377.00 m2; 2.391.00 m2; 1.303.00 m2;
+
+31.00 m2; 1.738.00 m2; 1.902 m2; 941.00 m2 y 462.00 m2, comuna de Olmué. La Comisión de Peritos, con fecha 15 de febrero de 2001, fijó la indemnización provisional en las cantidades de $1.253.070, lote 4-B, $1.924.755, lote 8-A, $1.048.915, lote 11-B, 424.955, lote 11-C, $1.720.620, lote 11-E, $1.797.390, lote 15-A, $973.935, lote 19-A y $2.163.950, lote 26-A, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
