@@ -1,0 +1,3 @@
+Por Resolución No. 586 de 13 de Junio de 1989 de SERVIU Metropolitano, ordenóse expropiación conforme DL 2.186 de 1978 inmueble ubicado en calle Ricardo Santa Cruz No. 637 - 639, presunto rol avalúos 593-14 comuna de Santiago, aparentemente dominio de doña Carmen Acuña Rodríguez. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos y Walter Soto Silva, ingeniero civil según informe de 31 de Enero de 1989, fijó monto provisional indemnización en $ 3.216.400.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
