@@ -1,0 +1,5 @@
+Se nombra coronel a don Francisco Lastra
+
+Es obligacion de todo Gobierno premiar a los ciudadanos beneméritos, V. S. ha dado tantas pruebas de su amor a la Patria i le ha servido i sirve tan a satisfaccion, que deben sus representantes manifestarle parte de su gratitud con el adjunto despacho de Coronel. Cuando V. S. se presente entre sus conciudadanos, le distinguirá un título no debido a las intrigas i al favor sino al mérito i las virtudes; i mas que todo, el tierno aprecio con que le miran el Gobierno i el Pueblo, distincion que cree la Junta Superior a toda otra, i la recompensa mas digna de las heroicas fatigas con que V. S. se ha desvelado en obsequio de la causa de nuestra libertad.
+
+Dios guarde a V. S. muchos años.-Santiago, Abril 13 de 1813.-Francisco Antonio Pérez.-José Miguel Infante.-Agustin Eyzaguirre.-Mariano Egaña, Secretario.-Señor don Francisco Lastra.
