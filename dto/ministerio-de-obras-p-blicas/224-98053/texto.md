@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº224, de 27 de febrero de 1998, se expropió el lote de terreno Nº23, superficie 163 m2, rol de avalúo 450-5, comuna de Concepción, obra Mejoramiento Autopista Concepción Talcahuano, sector Rotonda Bonilla y Campus San Andrés y se acordó precio de indemnización con su propietario Marcelo Pedro Bancalari Molina, ascendente a la cantidad de $17.903.116.-
+
+Fiscal del Ministerio de Obras Públicas.
