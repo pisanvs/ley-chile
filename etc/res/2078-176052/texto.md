@@ -1,0 +1,3 @@
+Por resolución Nº 2.078, de 15 de septiembre de 2000, de esta Subsecretaría, deniégase la solicitud de autorización de acuicultura Nº 95106014, presentada por SALMONES ISLA GRANDE S.A. para un centro de cultivo ubicado en Laguna Sin Nombre, Compu, comuna de Quellón, provincia de Chiloé, X Región, en virtud de lo dispuesto en el artículo 67 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 15 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
