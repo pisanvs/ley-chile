@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.731, de 28 de abril del 2000, se expropió el lote de terreno Nº 7, superficie 290 m2., rol de avalúo 19-26, comuna de San Gregorio Ñiquén, para la obra Concesión Internacional Ruta 5. Tramo: Talca-Chillán, Octava Región, y se acordó el valor de indemnización con su propietario Benjamín Segundo Escalona Muñoz, ascendente a la cantidad de $1.057.722.-
+
+Fiscal del Ministerio de Obras Públicas.
