@@ -1,0 +1,3 @@
+Por resolución Nº 2.009, de 12 de septiembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96103077 presentada por CULTIVADORA DE SALMONES LINAO LIMITADA, para instalar y operar un centro de cultivo ubicado en islote Jorge, isla Talcán, comuna de Chaitén, provincia de Palena, X Región.
+
+Valparaíso, 12 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
