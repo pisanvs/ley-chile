@@ -16692,7 +16692,7 @@ que se refiere el artículo 81 de dicha ley. Sin embargo, en la medida en que el
 
 Conforme a lo anterior, el monto a deducir del capital y reservas del banco matriz se obtendrá multiplicando el porcentaje de participación que éste tenga en la filial, por el monto de los pasivos exigibles que ella registre el último día del trimestre calendario inmediatamente anterior, excluidos los que correspondan a obligaciones con el propio banco matriz.
 
-En todo caso, el monto que los bancos deberán deducir de su capital pagado y reservas de conformidad con las normas precedentes, no podrá exceder al importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo del margen de endeudamiento.
+Si las obligaciones con terceros a que se refieren los párrafos anteriores exceden del capital pagado y reservas de la filial, la institución deberá deducir el importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo de su margen de endeudamiento, excluido el resultado que se haya reconocido por la respectiva inversión. En este caso el importe a deducir será equivalente, por lo tanto, al valor de la inversión registrado en el activo menos el importe abonado por esa inversión en la cuenta "Utilidades de inversiones en sociedades filiales" o más el importe cargado en la cuenta "Pérdidas por inversiones en sociedades filiales", según corresponda, que se mantenga registrado a la misma fecha según lo dispuesto en los numerales 13.1 y 13.2 de este Capítulo.
 
 ### 7. Créditos a sociedades filiales
 
@@ -16966,7 +16966,7 @@ Conforme a lo anterior, el monto a deducir del capital y reservas de la instituc
 
 propia institución financiera matriz.
 
-En todo caso, el monto que las instituciones financieras deberán deducir de su capital pagado y reservas de conformidad con las normas precedentes, no podrá exceder al importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo del margen de endeudamiento.
+Si las obligaciones con terceros a que se refieren los párrafos anteriores exceden del capital pagado y reservas de la filial, la institución deberá deducir el importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo de su margen de endeudamiento, excluido el resultado que se haya reconocido por la respectiva inversión. En este caso el importe a deducir será equivalente, por lo tanto, al valor de la inversión registrado en el activo menos el importe abonado por esa inversión en la cuenta "Utilidades de inversiones en sociedades de apoyo" o más el importe cargado en la cuenta "Pérdidas por inversiones en sociedades de apoyo", según corresponda, que se mantenga registrado a la misma fecha según lo dispuesto en los numerales 12.1.1 y 12.1.2 de este Capítulo.
 
 ### 6. Créditos a empresas de apoyo
 
@@ -17244,7 +17244,7 @@ El capital que una institución financiera aporte a una sociedad, al amparo de l
 
 Para dar cumplimiento a lo anterior, el monto a deducir del capital y reservas de la institución financiera matriz se obtendrá multiplicando el porcentaje de participación que ésta tenga en el capital pagado de la filial, por el monto delos pasivos exigibles que esta última registre el último día del trimestre calendario inmediatamente anterior, excluidos los que correspondan a obligaciones con la propia institución financiera matriz.
 
-En todo caso, el monto máximo que las instituciones financieras deberán deducir de su capital pagado y reservas de conformidad con las normas precedentes, será equivalente al importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo del margen de endeudamiento.
+Si las obligaciones con terceros a que se refieren los párrafos anteriores exceden del capital pagado y reservas de la filial, la institución deberá deducir el importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo de su margen de endeudamiento, excluido el resultado que se haya reconocido por la respectiva inversión, que se mantenga registrado a la misma fecha en alguna de las cuentas de utilidad o pérdida que se mencionan en el numeral 13.2 del Capítulo 11-2 o en el numeral 12.1.2 del Capítulo 11-3 de esta Recopilación Actualizada de Normas, según corresponda.
 
 El monto que corresponde rebajar del capital pagado y reservas para establecer, al término de cada mes, aquel que debe considerarse para efectos del artículo 81 ó 115 de la Ley General de Bancos, según las instrucciones de este numeral, se registrará en la cuenta "Deducción del capital por participación en filiales", de la partida 9700, "Valores complementarios para efectos de márgenes", del MB1, con abono a la cuenta "Responsabilidad por control de límites legales", de la partida 9900.
 
@@ -21566,9 +21566,9 @@ Al término de cada mes, dicha comisión se traspasará a la cuenta "Comisiones 
 
 Las entidades financieras ajustarán el último día de cada mes, el saldo de la cuenta "Adeudado al Banco Central por divisas vendidas con pacto de recompra D.L. 600", por la cotización que corresponda al régimen de tipo de cambio pactado para efectuar la respectiva recompra, vigente en la fecha del ajuste, de tal manera que ésta refleje el equivalente en Pesos, moneda chilena, a esa cotización, del saldo de la cuenta "Divisas vendidas al Banco Central con pacto de recompra D.L. 600".
 
-Las diferencias correspondientes serán debitadas o abonadas a la cuenta "Diferencia ajuste divisas vendidas con pacto de recompra D.L.600", de la partida 2120 ó 4120, previa deducción de un importe igual al que resulte de aplicar a la cuenta "Divisas vendidas al Banco Central con pacto de recompra DL 600" la variación del tipo de cambio de representación contable entre el mes correspondiente y el mes inmediatamente anterior. Este último importe se reconocerá en las cuentas "Gasto por ajuste operaciones DL 600" o "Ingreso por ajuste operaciones DL 600", de las partidas 5720 y 7320, respectivamente.
+Las diferencias correspondientes serán debitadas o abonadas a la cuenta "Diferencia ajuste divisas vendidas con pacto de recompra D.L.600", de la partida 2120 ó 4120, previa deducción de un importe igual al que resulte de aplicar a la cuenta "Divisas vendidas al Banco Central con pacto de recompra DL 600" la variación del tipo de cambio de representación contable entre el mes correspondiente y el mes inmediatamente anterior. Este último importe se reconocerá en las cuentas "Gasto por ajuste operaciones DL 600" o "Ingreso por ajuste operaciones DL 600", de las partidas 5720 y 7720, respectivamente.
 
-### 11. Límites
+### 10. Límites
 
 Estas operaciones no quedan afectas a los límites de crédito ni de obligaciones
 
@@ -21578,11 +21578,11 @@ límite de endeudamiento con el Banco Central de Chile a que se refiere el
 
 Capítulo 12-6 de esta Recopilación de Normas.
 
-### 12. Disposición transitoria
+### 11. Disposición transitoria
 
 Antes del 30 de noviembre de 1991, las entidades bancarias que mantengan divisas vendidas al Banco Central de Chile con pacto de recompra D.L. 600, calcularán la diferencia entre el equivalente de la cuenta "Divisas vendidas al Banco Central con pacto de recompra D.L. 600", al tipo de cambio de representación contable vigente a la fecha y el saldo de la cuenta "Adeudado al Banco Central por divisas vendidas con pacto de recompra D.L. 600".
 
-La cantidad así obtenida será restada de los saldos que, a la misma fecha, registre la cuenta "Pérdidas por variación del tipo de cambio de recursos en moneda extranjera liquidados", relativo a estas operaciones. El importe resultante de esa resta será acreditado a esa misma cuenta y debitado en la cuenta de activo transitorio "Diferencia ajuste divisas vendidas con pacto de recompra D.L. 600", de la partida 2120.
+La cantidad así obtenida será restada de los saldos que a la misma fecha registre la cuenta "Pérdidas por variación del tipo de cambio de recursos en moneda extranjera liquidados", abonándola a la misma con cargo a la cuenta de activo transitorio "Diferencia ajuste divisas vendidas con pacto de recompra D.L.600", de la partida 2120.
 
 En el caso que la cuenta "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7720, registre saldos derivados del ajuste de estas mismas operaciones, se debitará de ella, para acreditar la cuenta "Diferencia ajuste divisas vendidas con pacto de recompra D.L. 600", de la partida 4120, la suma que resulte de aplicar la diferencia entre los tipos de cambio que dieron origen a las respectivas utilidades y los tipos de cambio de representación contable vigentes en las fechas en que se determinaron esas utilidades, a los respectivos importes de "Divisas vendidas al Banco Central con pacto de recompra D.L. 600". De este modo la cuenta de resultado "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados" deberá reflejar solamente la utilidad que se genera por la variación del tipo de cambio de representación contable, en tanto que la diferencia con la variación del tipo de cambio al que se ajustan las respectivas operaciones, quedará pendiente de reconocimiento en la cuenta de pasivo transitorio ya señalada.
 
