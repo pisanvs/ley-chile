@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 532, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 17, superficie 123 m², rol de avalúo 5050-119, comuna de Punta Arenas, para la obra "Reposición Ruta -9 y Acceso Aeropuerto, Sector (Ruta 9) Km. 5,31490 - Km. 19,342349 (Acceso Aeropuerto) Km. 0,000 - Km. 1,295819" y se acordó el valor de indemnización con su propietario Bernardo Rolando Soto Gonzali, ascendente a la cantidad de $1.124.837.-
+
+Fiscal del Ministerio de Obras Públicas.
