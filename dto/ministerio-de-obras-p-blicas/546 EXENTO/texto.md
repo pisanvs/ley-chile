@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 546, de fecha 30 de abril de 2001, se expropiaron los lotes de terreno Nºs. 65 y 66, superficies 1.275 M2 y 1.053 M2, Rol de avalúo 49-11, comuna de Lonquimay, para la obra "Camino Malalcahuello-Paso Pino Hachado, Rutas R-891, R-955 y R-89, Sector Lonquimay-Acceso Pedregoso, Km. 119,30000 al 141,0000, correspondiente al tramo II Km. 130,78300 al Km. 141,0000" y se acordó el valor de indemnización con su propietaria Emiliana Hernández Norambuena, ascendente a la cantidad de $540.693.-
+
+Fiscal del Ministerio de Obras Públicas.
