@@ -1,0 +1,3 @@
+Por resolución Nº850, de 8 de junio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por don ANTONIO GUILLERMO DA VENEZIA RETAMALES, para ampliar las actividades pesqueras autorizadas por resolución Nº1456 de 1997, de esta Subsecretaría, a la nave ''Tío Gringo'', Matrícula 677 de San Antonio, por cuanto la especie Tiburón marrajo es fauna acompañante de la Albacora, recurso hidrobiológico en plena explotación y no autorizado en el litoral solicitado como ampliación, conforme lo dispone la letra c) del Artículo 19 del D.S. Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 8 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
