@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 986 de 09.06.88 conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido, Derecho de Adquisición y Sector Expropiado Predios "María Teresa" y "Santa María" de la comuna de Yerbas Buenas. VII Región, y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 65, sitios N°s 1 al 69 y Reservas CORA N°s. 1 y 2 del Proyecto de Parcelación "Maitencillo", formado por predios señalados y otros. Los derechos de agua se extraen del canal Peñuelas, canal Michaud, canal San Jorge, canal Batro, canal Santa Ana y Canal San Ramón. Publicación hecha conforme Art. 13 Ley 18.377.
+
+- Director Ejecutivo.
