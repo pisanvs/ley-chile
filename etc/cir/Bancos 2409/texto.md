@@ -6972,6 +6972,14 @@ Las empresas que pacten con su personal el pago de indemnizaciones por años de 
 
 Conforme a las disposiciones contenidas en los Capítulos 11-2 y 11-3 de esta Recopilación Actualizada de Normas, también podrá cargarse a los resultados en forma diferida, la diferencia entre el precio pagado por la adquisición de acciones o derechos en sociedades que pasen a ser filiales o coligadas de la institución financiera y el valor patrimonial proporcional al cual debe quedar registrada la inversión en el activo.
 
+1.7. Sobreprecio pagado por activos inherentes a un negocio con ventajas competitivas.
+
+Las instituciones financieras podrán registrar en el activo transitorio el importe de la diferencia entre el valor de los activos netos adquiridos a otra entidad financiera y el valor de los pasivos asumidos, cuando la adquisición obedezca a la transferencia de un negocio con ventajas competitivas que justifique el sobreprecio pagado, siempre que sea razonable suponer que la institución financiera adquirente generará una mayor utilidad en el futuro como consecuencia de la transacción, sea por el desarrollo del nuevo negocio o por el aumento de sus propias operaciones ya existentes.
+
+El sobreprecio pagado, sujeto a corrección monetaria, se amortizará linealmente dentro de un plazo máximo de cinco años, salvo que durante ese lapso exista incertidumbre respecto a la generación de los beneficios futuros previstos, en cuyo caso y en el momento en que se manifieste esa incertidumbre, se cargará a los resultados la totalidad del saldo remanente registrado en el activo transitorio.
+
+Las instrucciones de este numeral se refieren solamente a la adquisición de algún negocio bancario desarrollado por otra sociedad que prescindirá de esa actividad, cediendo los correspondientes derechos y, eventualmente, traspasando sus obligaciones, e incluyendo otras condiciones contractuales que implican radicar en la institución financiera adquirente la actividad mercantil de que se trate, con su ventaja competitiva. Así, por ejemplo, se está en presencia de esas condiciones si la operación contempla la entrega de la lista de clientes y de los sistemas y procedimientos asociados, la contratación de las personas expertas, la transferencia de marcas o licencias imprescindibles, etc., que tienen en su conjunto un valor económico en razón de la participación en el mercado y la infraestructura operativa y experiencia preexistentes en el negocio. En ningún caso las presentes instrucciones permiten registrar contablemente activos intangibles generados por la propia institución financiera, como tampoco facultan a las instituciones para registrar en el activo aquellos intangibles que podrían adquirirse y cederse individualmente, como es el caso de derechos sobre marcas, si éstos no se encuentran incluidos en una negociación que involucre el traspaso de una línea o combinación de negocios bancarios desarrollada, en los términos señalados en el párrafo precedente. En el evento de que los activos adquiridos incluyan el valor de tales activos intangibles identificados, éstos quedarán incluidos dentro del importe total del sobreprecio activable sujeto a amortización.
+
 ### 2. Amortización de los gastos diferidos
 
 Los gastos diferidos deberán ser llevados a resultados en forma proporcional a los meses transcurridos desde la oportunidad en que deben comenzar a amortizarse según lo indicado en los numerales precedentes.
@@ -6984,9 +6992,11 @@ Las instrucciones precedentes son sin perjuicio de los criterios señalados en l
 
 ### 3. Cuentas del activo y de resultados
 
-Los gastos activados de que se trata se registrarán en la cuenta "Cargos Diferidos", de la partida 2120, subcuentas "Remodelaciones en locales arrendados", "Derechos de llave", "Gastos de desarrollo de sistemas computacionales", "Reconocimientos de indemnizaciones por años de servicio" o "Gastos de organización y puesta en marcha", según corresponda. Al tratarse de los cargos diferidos señalados en el numeral 1.6 de este Capítulo, se utilizará la cuenta "Mayor valor pagado en inversiones en sociedades" de que tratan los Capítulos 11-2 y 11-3 de esta Recopilación.
+Los cargos diferidos de que se trata se registrarán en la cuenta "Intangibles y gastos diferidos", de la partida 2120, subcuentas "Remodelaciones en locales arrendados", "Derechos de llave", "Gastos de desarrollo de sistemas computacionales", "Reconocimientos de indemnizaciones por años de servicio", "Gastos de organización y puesta en marcha" y "Sobreprecio en adquisición de negocios", según corresponda.
 
 Los cargos a los resultados por las amortizaciones deberán imputarse a la cuenta "Amortizaciones de gastos diferidos" de la partida 6265.
+
+Al tratarse de los activos intangibles señalados en el numeral 1.6 de este Capítulo, se utilizarán las cuentas mencionadas en los Capítulos 11-2 y 11-3 de esta Recopilación.
 
 ### II. GASTOS PAGADOS POR ANTICIPADO
 
@@ -16512,11 +16522,9 @@ En el evento de que se adquieran acciones o derechos en sociedades ya constituid
 
 a) Si el valor pagado es mayor que el VPP:
 
-Cuando el valor pagado sea mayor que el valor patrimonial proporcional, se registrará la diferencia en la cuenta "Mayor valor pagado en inversiones en sociedades", de la partida 2120 del MB1.
+Cuando el valor pagado sea mayor que el valor patrimonial proporcional, se registrará la diferencia en la cuenta "Mayor valor pagado en inversiones en sociedades", de la partida 2120.
 
-El importe registrado en esa cuenta se traspasará al término de cada mes a la cuenta de resultados "Amortización mayor valor pagado en inversiones en sociedades", de la partida 6315 del MR1, en cuotas consecutivas, equivalentes a lo menos al 4% del mayor valor pagado y corregidas monetariamente, de manera que se amortice dentro de un plazo máximo de 2 años a contar del mes siguiente a aquel en que se efectúa la inversión.
-
-En todo caso, el monto que se lleve a resultados en un ejercicio no podrá ser inferior a las utilidades proporcionales reconocidas en el mismo ejercicio por la inversión en la respectiva sociedad filial, debiéndose efectuar, cuando corresponda, una amortización adicional con la consiguiente reducción del plazo originalmente establecido para extinguir el saldo de la cuenta "Mayor valor pagado en inversiones en sociedades".
+El importe registrado en esa cuenta se traspasará al término de cada mes a la cuenta de resultados "Amortización mayor valor pagado en inversiones en sociedades", de la partida 6315, en cuotas consecutivas, equivalentes a lo menos a 1/60 del mayor valor pagado y corregidas monetariamente, de manera que se amortice dentro de un plazo máximo de cinco años a contar del mes siguiente a aquel en que se efectúa la inversión.
 
 b) Si el valor pagado es menor que el VPP:
 
@@ -16776,13 +16784,11 @@ a) Si el valor pagado es mayor que el VPP:
 
 Cuando el valor pagado sea mayor que el valor patrimonial proporcional, se registrará la diferencia en la cuenta "Mayor valor pagado en inversiones en sociedades", de la partida 2120.
 
-El importe registrado en esa cuenta se traspasará al término de cada mes a la cuenta de resultados "Amortización mayor valor pagado en inversiones en sociedades", de la partida 6315 del MR1, en cuotas consecutivas, equivalentes a lo menos al 4% del mayor valor pagado y corregidas monetariamente, de manera que se amortice dentro de un plazo máximo de 2 años a contar del mes siguiente a aquel en que se efectúa la inversión.
+El importe registrado en esa cuenta se traspasará al término de cada mes a la cuenta de resultados "Amortización mayor valor pagado en inversiones en sociedades", de la partida 6315, en cuotas consecutivas, equivalentes a lo menos a 1/60 del mayor valor pagado y corregidas monetariamente, de manera que se amortice dentro de un plazo máximo de cinco años a contar del mes siguiente a aquel en que se efectúa la inversión.
 
-En todo caso, el monto que se lleve a resultados en un ejercicio no podrá ser inferior a las utilidades proporcionales reconocidas en el mismo ejercicio por la inversión en la respectiva sociedad filial, debiéndose efectuar, cuando corresponda, una amortización adicional con la consiguiente reducción del plazo originalmente establecido para extinguir el saldo de la cuenta "Mayor valor pagado en inversiones en sociedades".
+b) Si el valor pagado es menor que el VPP: Cuando el valor pagado sea menor que el valor patrimonial proporcional, la diferencia se abonará a la cuenta "Mayor valor de inversiones en sociedades", de la partida 4120.
 
-b) Si el valor pagado es menor que el VPP: Cuando el valor pagado sea menor que el valor patrimonial proporcional, la diferencia se abonará a la cuenta "Mayor valor de inversiones en sociedades", de la partida 4120 del MB1.
-
-El monto acreditado a esa cuenta se extinguirá mediante traspasos mensuales a la cuenta "Utilidad por mayor valor de inversiones en sociedades", de la partida 8315 del MR1, en un plazo mínimo de 5 años, en cuotas iguales, consecutivas y corregidas monetariamente.
+El monto acreditado a esa cuenta se extinguirá mediante traspasos mensuales a la cuenta "Utilidad por mayor valor de inversiones en sociedades", de la partida 8315, en un plazo mínimo de 5 años, en cuotas iguales, consecutivas y corregidas monetariamente.
 
 No obstante lo anterior, si la respectiva sociedad filial incurriere en pérdidas en un ejercicio, el monto que se traspase a resultados en ese ejercicio podrá ser equivalente a las pérdidas proporcionales reconocidas por la inversión.
 
@@ -16952,7 +16958,7 @@ En el evento de realizarse un intercambio de bienes del activo fijo con otra emp
 
 ### 6. Depreciaciones
 
-Las depreciaciones se calcularán linealmente sobre la base de años de vida útil de los bienes. Con todo, los años de vida útil que se consideren no podrán ser superiores a los que hubiere fijado el Servicio de Impuestos Internos para los efectos de una depreciación tributaria normal. Al tratarse de "software", el costo se amortizará durante un período máximo de tres años.
+Las depreciaciones se calcularán linealmente sobre la base de años de vida útil de los bienes. Al tratarse de "software" y de derechos sobre líneas telefónicas a que se refieren las letras c) y d) del numeral 2.1 anterior, su costo se amortizará durante un período máximo de tres y cinco años, respectivamente.
 
 Para contabilizar las depreciaciones, las instituciones financieras podrán optar entre utilizar la cuenta "Depreciaciones acumuladas" de la partida 2305, o rebajar directamente las depreciaciones mensuales del valor de los bienes corregido monetariamente, abonando las respectivas cuentas del activo. Las depreciaciones se registrarán mensualmente con cargo a la cuenta "Depreciaciones del activo fijo" de la partida 6260.
 
@@ -27240,6 +27246,8 @@ El balance general y el estado de resultados deberán acompañarse con las sigui
 
 - Principales criterios contables utilizados.
 
+- Cambios contables.
+
 - Obligación subordinada con el Banco Central de Chile.
 
 - Operaciones con partes relacionadas.
@@ -27252,17 +27260,23 @@ El balance general y el estado de resultados deberán acompañarse con las sigui
 
 - Inversiones.
 
-- Vencimientos de activos y pasivos a mediano y largo plazo.
+- Vencimientos de activos y pasivos.
 
 - Saldos de moneda extranjera.
 
-- Ingresos y gastos extraordinarios
+- Operaciones con productos derivados.
+
+- Contingencias, compromisos y responsabilidades.
+
+- Comisiones ganadas.
+
+- Otros ingresos y gastos operacionales y resultados no operacionales.
 
 - Compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones.
 
 - Gastos y remuneraciones del Directorio.
 
-- Contingencias, compromisos y responsabilidades.
+El contenido de estas notas se señala en los numerales 4.1 a 4.15 de este título y comprende, en general, aquellos aspectos que son comunes a más de una institución financiera.
 
 El contenido de estas notas se señala en los numerales 4.1 a 4.13 de este título y comprende, en general, aquellos aspectos que son comunes a más de una institución financiera.
 
@@ -27304,9 +27318,11 @@ En caso que este Organismo estime que la redacción de tales notas no es adecuad
 
 ### 4. Contenido de cada una de las notas
 
-4.1. Nota relativa a criterios contables aplicados.
+4.1. Notas relativas a criterios contables aplicados y cambios contables.
 
-En esta nota se informará brevemente acerca de los principales criterios contables utilizados en la preparación de los estados financieros. Para ese efecto se utilizará la redacción estándar incluida en el Anexo N° 3 de este Capítulo.
+En la primera nota de los estados financieros se informará brevemente acerca de los principales criterios contables utilizados en su preparación. Para ese efecto se utilizará la redacción estándar incluida en el Anexo N° 3 de este Capítulo.
+
+En una segunda nota se indicarán los cambios en los criterios contables que hayan existido en relación con los aplicados en el ejercicio anterior, cuando la adopción de los nuevos criterios tenga un efecto significativo, debiéndose indicar la naturaleza, justificación y efectos de tales cambios en el resultado neto y en los rubros de los estados financieros.
 
 4.2. Nota sobre obligación subordinada con el Banco Central de Chile.
 
@@ -27400,27 +27416,43 @@ Esta nota tiene por objeto mostrar la composición de los saldos del rubro de "I
 
 La presentación se hará según los modelos que se incluyen en el Anexo N° 9 de este Capítulo, pudiendo agregarse información complementaria con mayor detalle si se estima necesario.
 
-4.8. Nota de vencimientos de activos y pasivos a mediano y largo plazo.
+4.8. Nota de vencimientos de activos y pasivos.
 
-El objeto de la nota es mostrar la distribución de los vencimientos de activos y pasivos a más de un año, a contar del cierre del ejercicio. Incluirá una relación de los saldos presentada de acuerdo con las fechas de vencimiento, a partir del año subsiguiente a aquel a que se refiere el balance general.
-
-La nota se presentará de la forma que se muestra en el Anexo N° 10 de este Capítulo, pudiéndose ampliar la información entregada con comentarios adicionales.
+El objeto de esta nota es mostrar la distribución de los activos y pasivos, según sus plazos remanentes a contar de la fecha a que está referido el balance general. La nota se presentará de la forma que se muestra en el Anexo N° 10 de este Capítulo.
 
 4.9. Nota sobre saldos en monedas extranjeras.
 
-En esta nota deberá incluirse la relación de los saldos que se mantienen en moneda extranjera, incluyendo, por una parte los derechos y obligaciones pagaderos en moneda extranjera y, por otra, aquellos expresados en moneda extranjera y pagaderos en pesos, moneda chilena.
+En esta nota deben incluirse los saldos que se mantienen en moneda extranjera, incluyendo tanto los activos y pasivos pagaderos en monedas extranjeras, como aquellos expresados en moneda extranjera y pagaderos en moneda chilena o reajustables por la variación del tipo de cambio.
 
-Junto con lo anterior se indicará, cuando corresponda, el monto de reservas o provisiones en moneda extranjera que mantiene la empresa y el monto a que ascienden los recursos correspondientes al capital proveniente de aportes externos que se encontraren recomprados, o reajustables por la variación del tipo de cambio.
+Junto con lo anterior se indicará, cuando corresponda, el monto a que asciende la posición de cambios, el importe de las reservas o provisiones en moneda extranjera que mantiene el banco y los recursos correspondientes al capital que provengan de aportes externos que se encuentren recomprados.
 
 Toda esta información se presentará en la forma indicada en el Anexo N° 11 de este Capítulo.
 
-4.10. Nota sobre ingresos y gastos extraordinarios.
+4.10. Nota sobre productos derivados.
 
-El propósito de esta nota es el de permitir una mejor comprensión de los resultados del ejercicio, en aquellos casos en que éstos han sido afectados por el reconocimiento de pérdidas y provisiones o por la realización de operaciones de carácter extraordinario o no habituales que podrían llevar al lector a conclusiones erróneas al desconocerlas.
+En esta nota se informarán las operaciones que la institución mantiene al cierre del ejercicio por concepto de contratos de compras y ventas a futuro de moneda extranjera, operaciones de futuros, forward y swaps de monedas en el mercado externo, contratos de protección de tasas de interés en el mercado internacional y forward en unidades de fomento. La información se entregará conforme a lo que se indica en el Anexo N° 12 de este Capítulo.
 
-Mediante el Anexo N° 12 se entrega un modelo para la presentación de esta nota, el cual deberá adecuarse a la situación de la empresa, a fin de que se consideren sólo los hechos pertinentes o relevantes y se incluyan, además, otros ingresos o gastos no habituales por montos significativos que se hubieren originado en el ejercicio.
+4.11. Nota de contingencias y compromisos no registrados en pasivos.
 
-4.11.- Nota sobré compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones.
+En esta nota se incorporará toda la información que se refiere a contingencias de pérdidas significativas, recursos comprometidos, pasivos de carácter contingente no reflejados en el balance general como tales y otras responsabilidades. Sin perjuicio de la posibilidad de hacer referencia a hechos expuestos en otras notas cuando sea necesario, éstos no se repetirán ni explicarán nuevamente en esta nota.
+
+La nota deberá incluir, si es el caso, los hechos relevantes pertinentes ocurridos después de la fecha de cierre, los que se informarán como hechos posteriores.
+
+Atendido que, de acuerdo con las normas de esta Superintendencia, ciertos compromisos o responsabilidades se encuentran registrados en cuentas de orden, la nota tendrá una primera parte, signada con la letra "a) ", que debe prepararse según las instrucciones contenidas en el Anexo 13 de este Capítulo.
+
+Las contingencias y compromisos que no se encuentren registrados en las cuentas de orden dispuestas por esta Superintendencia y que se incluyan en la nota, deberán presentarse bajo títulos, que sean concordantes con el contenido. Cada título se identificará con una letra, siguiendo un orden alfabético a partir de la letra "b).
+
+4.12. Nota sobre comisiones ganadas.
+
+En esta nota se detallarán los principales conceptos que componen el saldo de las comisiones ganadas que se muestra en el Estado de Resultados, siguiendo al efecto el modelo que se incluye en el Anexo N° 14 de este Capítulo."
+
+4.13. Otros ingresos y gastos operacionales y resultados no operacionales.
+
+La presentación de esta nota cumplirá el propósito de permitir una mejor comprensión de los resultados del ejercicio.
+
+Se indicarán los principales componentes de los rubros "Otros ingresos de operación" y "Otros gastos de operación", como asimismo se mencionarán los conceptos más significativos que componen el saldo de "Ingresos no operacionales" y "Gastos no operacionales". Las sumas de los conceptos que puedan estimarse innecesarios de desglosar por tratarse de montos poco significativos, no podrán ser superiores al 10% de la cifra que, en cada caso, se muestra en el estado de resultados.
+
+4.14.- Nota sobré compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones.
 
 De acuerdo con lo señalado en el título IV del Capítulo 8-19 de esta Recopilación Actualizada de Normas, esta nota deberán presentarla las instituciones financieras que hayan efectuado compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones. La información sobre esas operaciones se incluirá de acuerdo con las siguientes pautas:
 
@@ -27430,21 +27462,11 @@ b) se indicarán los efectos de esas transacciones en cuanto al aumento o libera
 
 Para el efecto deberán seguirse las pautas generales establecidas en este Capitulo, en orden a informar las transacciones en las notas sólo si el importe de éstas es igual o superior a un millón de pesos, considerando, en este caso, la suma del valor de los créditos comprendidos en cada operación.
 
-4.12. Nota de gastos y remuneraciones del Directorio.
+4.15. Nota de gastos y remuneraciones del Directorio.
 
 En esta nota se deberá indicar el total de los estipendios pagados a los miembros del Directorio, ya sea por su calidad de tales como por servicios prestados o por cualquier otro concepto. Se indicarán todos los valores que fueron cargados a los resultados del ejercicio, tanto por los desembolsos efectuados como por las provisiones constituidas, así como también aquellos desembolsos que al cierre del ejercicio no hayan sido reconocidos como gastos.
 
 Se podrá agregar toda la información que se estime necesaria, cuando ésta, presentada como un solo total pueda, a juicio de algún director, afectar sus intereses o cuando se considere conveniente indicar la naturaleza de los principales desembolsos. La redacción de esta nota queda a criterio de la administración.
-
-4.13. Nota de contingencias y compromisos no registrados en pasivos.
-
-En esta nota se incorporará toda la información que se refiere a contingencias de pérdidas significativas, recursos comprometidos, pasivos de carácter contingente no reflejados en el balance general como tales y otras responsabilidades. Sin perjuicio de la posibilidad de hacer referencia a hechos expuestos en otras notas cuando sea necesario, éstos no se repetirán ni explicarán nuevamente en esta nota.
-
-La nota deberá incluir, si es el caso, los hechos relevantes pertinentes ocurridos después de la fecha de cierre, los que se informarán como hechos posteriores.
-
-Atendido que, de acuerdo con las normas de esta Superintendencia, ciertos compromisos o responsabilidades se encuentran registrados en cuentas de orden, la nota tendrá una primera parte, signada con la letra "a) ", que debe prepararse según las instrucciones contenidas en el Anexo 13 de este Capítulo.
-
-Las contingencias y compromisos que no se encuentren registrados en las cuentas de orden dispuestas por esta Superintendencia y que se incluyan en la nota, deberán presentarse bajo títulos, que sean concordantes con el contenido. Cada título se identificará con una letra, siguiendo un orden alfabético a partir de la letra "b)".
 
 ### IV. INFORMACION DE RESPALDO
 
@@ -27566,6 +27588,8 @@ OBSERVACIONES:
 
 > **Nota.** La letras B y C) de la Circular 2762,SBIF, promulgada el 28.10.1993, modifican el presente anexo, reemplazando la expresión "Resultado del ejercicio" por "Utilidad (Pérdida) del ejercicio", a fin de dejarlo concordante con el modelo de estado de situación vigente". Por otra parte, se actualizan las instrucciones de la letra b) del N° 3 del título III del Anexo N° 1 del CAPITULO 18-1, con el propósito de adecuarlas a la disposiciones sobre operaciones a futuro establecidas mediante la Circular N° 2.752 de 10 de agosto de 1993.
 
+> **Nota.** NOTA 1 La letra F) del N° I, de la Circular 2803, SBIF, promulgada el 29.12.1994, modifica el modelo de Balance General a fin de incluir el rubro "Provisiones Voluntarias" y el formato del Estado de Resultados para que se incluyan separadamente los ingresos correspondientes a comisiones ganadas, actualizándose las instrucciones relativas a las partidas asociadas a los rubros del Balance General y del Estado de Resultados, contenido en el presente Anexo.
+
 ANEXO N° 2
 
 EXPLICACIONES GENERALES PARA LA PREPARACION DE LAS NOTAS ESTRUCTURADAS DE QUE TRATAN LOS ANEXOS SIGUIENTES
@@ -27645,6 +27669,8 @@ INSTRUCCIONES:
 (4): Referencia a la nota sobre provisiones, según el número que le corresponda a dicha nota.
 
 (5): Aplicable sólo en el caso de que existan saldos por los conceptos que se señalan.
+
+> **Nota.** La letra G) del N° I, de la Circular 2803, SBIF, promulgada el 29.12.1994, modifica el presente Anexo, adecuando el texto de la nota sobre provisiones e incorporando una nota sobre gastos de vacaciones del personal.
 
 ANEXO N°4
 
@@ -27782,6 +27808,8 @@ A juicio de la administración, las provisiones constituidas cubren todas las ev
 
 > **Nota.** La letra C, de la Circula 2718, SBIF, promulgada el 16.12.1992, complementa las instrucciones para la preparación de las notas sobre operaciones con partes relacionadas y provisiones para cubrir activos riesgosos contenidas en el presente Anexo, especificándose las partidas que originan los saldos que deben informarse en cada caso.
 
+> **Nota.** NOTA 1 La letra H) del N° I, de la Circular 2803, SBIF, promulgada el 29.12.1994, modifica el texto del modelo de nota sobre provisiones contenido en el presente Anexo.
+
 ANEXO N° 8
 
 MODELO DE NOTA SOBRE CAPITAL. RESERVAS Y RESULTADO DEL EJERCICIO.
@@ -27826,55 +27854,57 @@ INSTRUCCIONES:
 
 ANEXO N° 10
 
-MODELO DE NOTA DE VENCIMIENTO DE ACTIVOS Y PASIVOS.
-
-NOTA...- VENCIMIENTOS DE ACTIVOS Y PASIVOS A MEDIANO Y LARGO PLAZO.
-
-A continuación se muestran los activos y pasivos agrupados según sus fechas de vencimiento, excluidas las operaciones o saldos realizables o exigibles de menos de un año. Los saldos incluyen los intereses devengados hasta el 31 de diciembre de 19... .
-
 .
-
-ANEXO N° 11
-
-MODELO DE NOTA SOBRE MONEDA EXTRANJERA.
-
-NOTA ... - SALDOS DE MONEDA EXTRANJERA.
-
-En el Balance General se incluyen derechos y obligaciones en monedas extranjeras o reajustables por el tipo de cambio, por los montos que se resumen a continuación:(1)
-
-.
-
-Un total de MUS$................ de los activos de la institución está financiado con reservas o provisiones autorizadas por el Banco Central de Chile.../además de otros recursos propios por MUS$................correspondientes al capital recomprado/...
 
 INSTRUCCIONES:
 
-(1) El cuadro que sigue puede ser ajustado para incluir sólo los conceptos en que corresponda consignar algún importe. Las sociedades financieras que deban presentar esta nota, podrán entregar la información de otra forma, atendido que la mayoría de los conceptos señalados en el cuadro no son propios de sus operaciones.
+Demostración de los saldos de las colocaciones y otras operaciones de crédito:
+
+- Deben excluirse aquellos saldos que expresamente se indican al pié de la nota, esto es, las colocaciones contingentes, la cartera vencida y los créditos morosos no traspasados a cartera vencida.
+
+- Dentro de los "Créditos hipotecarios para vivienda" se incluirán tanto los créditos en letras de crédito, como los otorgados con mutuos hipotecarios endosables y otros créditos hipotecarios destinados a la adquisición de vivienda señalados en el Capítulo 8-28 de esta Recopilación.
+
+- Los "Préstamos comerciales y otros" se refieren a aquellas colocaciones que no correspondan a créditos hipotecarios para vivienda, créditos de consumo ni préstamos a otras instituciones financieras.
+
+- El concepto "Otras operaciones de crédito" sigue el criterio de exposición del balance general.
+
+Demostración de los saldos de las inversiones financieras
+
+- Las inversiones financieras se incluirán en dos grupos, según lo indicado al pié de la nota
+
+- Para aquellas denominadas "valores negociables" se incluirá su importe, neto de ajustes a valor de mercado, en la columna "Hasta un año".
+
+- El monto de las inversiones clasificadas como "Instrumentos de inversión" debe, en cambio, distribuirse en las columnas considerando su valor contable y las fechas de vencimiento de los documentos
+
+Información adicional
+
+La información de esta nota puede ampliarse con comentarios adicionales a los señalados en el modelo.
+
+ANEXO N° 11
+
+MODELO DE NOTA SOBRE MONEDA EXTRANJERA
+
+INSTRUCCIONES:
+
+(1) El cuadro de esta nota puede ser ajustado para incluir sólo los conceptos en que corresponda consignar algún importe. Las sociedades financieras que deban presentar esta nota, podrán entregar la información de otra forma, atendido que la mayoría de los conceptos señalados en el cuadro no son propios de sus operaciones.
 
 (2) Los intereses devengados que se abonan en pesos en cuenta corriente, se mostrarán en la segunda columna.
 
-(3) En esta nota no deben considerarse las cuentas de ajuste y control, con excepción de las divisas provenientes de recursos propios vendidos al Banco Central de Chile con pacto de recompra.
+(3) Se debe informar el resto de los saldos en moneda extranjera incluidos en el Balance General. La presentación de los activos y pasivos corresponde a una agrupación de los saldos en moneda extranjera o reajustables por el tipo de cambio que quedan reflejados en el Balance según las instrucciones para su preparación contenidas en el Anexo N°1, de manera que en el cuadro se excluyen las cuentas de ajuste y control.
 
-ANEXO N°12
+(4) Este párrafo debe ajustarse de acuerdo con la situación que presente el banco.
 
-MODELO DE NOTA SOBRE RESULTADOS EXTRAORDINARIOS (*).
+ANEXO N° 12
 
-NOTA...- INGRESOS Y GASTOS EXTRAORDINARIOS.
+MODELO DE NOTA SOBRE PRODUCTOS DERIVADOS.
 
-El excedente que se muestra en el Estado de Resultados está influido por factores distintos de las operaciones habituales de intermediación. Para una mejor interpretación de los resultados, a continuación se indican los principales ingresos y gastos que tienen este carácter.
+INSTRUCCIONES:
 
-- En "Otros ingresos de operación" se incluyen $..........millones por beneficios obtenidos en pago o sustituciones de pagarés de la deuda externa
+(1). La redacción de esta nota se presenta a modo de ejemplo y se utilizará en lo posible la redacción señalada para aquellos casos que coinciden con la situación que se presenta en la empresa, indicando sólo los conceptos aplicables en los cuadros.
 
-- Las colocaciones adquiridas a instituciones financieras en liquidación y las recuperaciones de estos créditos, originaron una utilidad de $.... millones que se representa en el rubro "Otros ingresos de operación".
+(2): Corresponde a las posiciones abiertas de futuros en bolsas extranjeras.
 
-- Se incluyen también dentro de "Otros ingresos de operación", la utilidad en la venta de bienes recibidos en pago o adjudicados, que ascendió a $ .... millones.
-
-- Dentro de "Otros ingresos" se Incluyen $..........millones originados por venta de bienes recibidos en pago que se encontraban castigados.
-
-- En "Otros Gastos" se incluyen $.....millones por el castigo de bienes recibidos en pago.
-
-Los ingresos y gastos indicados precedentemente representan un . /mayor/menor/... excedente/resultado neto/... de $.........millones.
-
-(*): La redacción de esta nota se presenta a modo de ejemplo y no pretende agotar los principales conceptos que deben mencionarse en ella. Sin embargo, se utilizará en lo posible la redacción señalada para aquellos casos que coinciden con la situación que se presenta en la empresa.
+(3): En caso de que la institución opere con opciones y mantenga posiciones abiertas al cierre del ejercicio, deberá informarse el tipo de opciones ("call" o "put", compradas o vendidas) y los contratos a los que se refiere (monedas o tasas de interés), agrupadas por plazos residuales de vencimiento según 30 días, 31 a 60 días, 61 a 90 días y más de 90 días.
 
 ANEXO N°13
 
@@ -27893,6 +27923,18 @@ En todo caso, cuando existan otros saldos importantes y que sea pertinente incor
 (2) Otras contingencias, compromisos o responsabilidades significativas, cuando proceda, según lo indicado en el numeral 4.13 del título III de este Capitulo.
 
 > **Nota.** La letra E de la Circular 2762, SBIF, promulgada el 28.10.1993, actualiza el modelo e instrucciones de la nota sobre contingencias, compromisos y responsabilidades, eliminando la mención a partidas que no se encuentran vigentes.
+
+ANEXO N°14
+
+MODELO DE NOTA SOBRE COMISIONES GANADAS.
+
+INSTRUCCIONES
+
+(1) Incluir sólo los conceptos que resulten aplicables a la situación de la empresa, preferiblemente en orden descendente
+
+(2) Incluye comisiones ganadas por cobranza de documentos y por recaudaciones por cuenta de empresas de servicios
+
+(3) En "Otros" podrán incluirse las comisiones ganadas por conceptos distintos a los especificados Sin embargo, en caso que el importe de alguno de ellos sea igual o superior al 10% del total de las comisiones ganadas, deberá agregarse al listado especificando el concepto y monto correspondiente.
 
 CAPITULO 18-2 (Bancos y Financieras)
 
