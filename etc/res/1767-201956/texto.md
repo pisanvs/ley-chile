@@ -1,0 +1,3 @@
+Por resolución Nº 1.767, de 20 de agosto de 2002, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 1.314 de 1990, y Nº 458 y Nº 1.083, ambas de 1991, todas de esta Subsecretaría, que autorizaron a CLAUDIO OMAR PEÑA ANDRADE, RUT Nº 6.117.868-6, domiciliado en calle Schuyler Nº 133, Talcahuano, para operar la nave "Aguila Real", ello en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y de los memorándum de la División de Desarrollo Pesquero de esta Subsecretaría, citados en Visto.
+
+Valparaíso, 20 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
