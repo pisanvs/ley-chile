@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 406, de 26.12.86, se exceptuan los lotes 1 y 1-A, cuyas superficies son 1.210 y 2.158 m2., roles de avalúo 7023-1, Comuna de Talcahuano, para la obra Camino Autopista Concepción Talcahuano, sector Puente Perales y se acordó el precio de indemnización con su propietario Sociedad Inmobiliaria Dinahue S.A., ascendente a $ 2.966.111.
+
+Fiscal del Ministerio de Obras Públicas. (2).
