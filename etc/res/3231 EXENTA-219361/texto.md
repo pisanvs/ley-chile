@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.231, de 4 de diciembre de 2003, de esta Subsecretaría, autorízase a CULTIVOS MARINOS DEL SUR S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Canal Quihua s/n, Sector San Rafael, Calbuco, X Región, en las líneas de elaboración Fresco-Enfriado, Fresco-Refrigerado, Congelado, Ahumado, Alga Seca, Deshidratado y Cocido, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 4 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
