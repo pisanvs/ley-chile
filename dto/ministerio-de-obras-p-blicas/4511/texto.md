@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.511, de 29 de septiembre de 2000, se expropiaron los lotes de terreno Nºs. 27 y 33, superficies 990 m² y 3.608 m², rol de avalúo 104-126, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Enlace Los Panguiles, Región Metropolitana y se acordó el valor de indemnización con su propietario Luis Alberto Oyaneder Carrasco, ascendente a la cantidad total de $54.001.116.-
+
+Fiscal del Ministerio de Obras Públicas.
