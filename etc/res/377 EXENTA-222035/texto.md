@@ -1,0 +1,3 @@
+Por resolución exenta Nº 377, de 9 de febrero de 2004, de esta Subsecretaría, autorízase a REGINA DEL CARMEN VALENZUELA PACHECO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Pasaje Subercaseaux Nº 175, Población Cornelio Saavedra, Lebu, VIII Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-Enfriado, Fresco-Refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 9 de febrero de 2004.- Jessica Fuentes Olmos, Subsecretaria de Pesca (S).
