@@ -1,0 +1,5 @@
+Por decreto MOP N°2.206, de 30 de octubre de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP N°850, de 1997, que fijó el texto actualizado de la ley N°15.840 y del DFL MOP N°206, de 1960, se expropió el lote de terreno N°138 para la obra Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno, Km. 748.103,70 al 752.000,00, Novena Región, que figura a nombre de Tecnagro Cautín S.A.
+
+C.P.A., rol de avalúo 367-7, comuna de Loncoche, superficie 2.046,2 m2. La Comisión de Peritos integrada por los señores, Luis Javier Donoso Moreno, Enrique Guillermo Smith Mason y la señora Carmen Luz Palacios Contreras, fijó con fecha 6 de julio de 1998, el valor provisional de la indemnización en la cantidad de $4.266.100.- La indemnización se pagar al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N°2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
