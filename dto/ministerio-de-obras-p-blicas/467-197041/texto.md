@@ -1,0 +1,3 @@
+Por decreto MOP Nº 467, de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 10-A, superficie 2.626 M2, rol de avalúo 64-7, comuna de Til-Til, Región Metropolitana, para la obra "Camino Reposición Ruta G-10-F, Sector Cuesta La Dormida, Km. 0,0000 al 11,00000" y se acordó el valor de indemnización con su propietaria la Sociedad Rentas Inmobiliarias Las Tinajas Limitada, ascendente a la cantidad de $5.244.283.-
+
+Fiscal del Ministerio de Obras Públicas.
