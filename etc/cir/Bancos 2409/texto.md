@@ -1144,7 +1144,7 @@ b) La privacidad y seguridad se resguardará mediante una clave (password o PIN)
 
 c) Al tratarse de órdenes transmitidas que originen instrumentos valorados cuyos beneficiarios sean personas naturales o jurídicas diferentes al cliente que utiliza el servicio, las transmisiones o mensajes deberán ser encriptados.
 
-d) Los sistemas que utilicen una tarjeta con banda magnética para el acceso deberán permitir el bloqueo de la tarjeta cada vez que ello sea requerido por el cliente.
+d) Los sistemas que utilicen una tarjeta con banda magnética para el acceso, deberán contemplar la posibilidad del bloqueo de la tarjeta por parte de la institución financiera, cada vez que lo solicite el cliente.
 
 ### 3. Transferencia electrónica de fondos
 
@@ -1158,9 +1158,9 @@ b) Tener predefinidas todas la cuentas, propias y de terceros, cuando correspond
 
 c) Permitir al cliente titular de una cuenta, limitar a un monto máximo diario las transferencias de fondos que, mediante ese sistema, se realicen desde su cuenta a cuentas propias o de terceros. En todo caso, el importe susceptible de girarse no podrá exceder del saldo disponible de la cuenta girada, es decir, del monto no afecto a retención a la fecha y hora en que se ejecuta la instrucción.
 
-d) Autentificar los mensajes y asegurar que los mensajes recibidos correspondan exactamente a los emitidos.
+d) Incorporar una clave o código a los mensajes que permitan verificar que el remitente es la persona autorizada para ordenar la transferencia y asegurar que los mensajes recibidos correspondan exactamente a los emitidos.
 
-e) Emitir un comprobante al momento de registrar las transacciones que involucren movimientos de fondos. Este deberá indicar a lo menos la cuenta debitada, la cuenta acreditada, el monto transferido, la fecha de la contabilización, el nuevo saldo disponible de la cuenta girada y el saldo contable.
+e) Emitir un comprobante en que consten las transacciones que involucren movimientos de fondos, cuando así lo requiera el cliente. Ese comprobante deberá indicar, salvo que se convenga algo distinto con el cliente, a lo menos la identificación de la cuenta debitada y de la cuenta acreditada; el monto transferido; la fecha de contabilización; y, los saldos disponible y contable de la cuenta debitada.
 
 f) Encriptar los mensajes transmitidos en el caso de que el sistema incluya transferencias de fondos a cuentas de otros titulares. La encriptación deberá considerar, como mínimo, la siguiente información: claves de identificación, cuentas involucradas en la transacción y montos de ésta. Asimismo, los archivos residentes en los dispositivos autosuficientes de los clientes, cuando corresponda, deberán estar codificados.
 
@@ -1222,7 +1222,7 @@ Las instituciones financieras que ofrecen a sus clientes diversos servicios medi
 
 Los cobros que se implanten por los conceptos indicados o las modificaciones a las tarifas ya establecidas, deberán comunicarse a los usuarios, al momento en que éstos se incorporen al servicio o, en el caso de aquellos clientes que ya son usuarios del sistema, se les informará de ello por carta, con una anticipación mínima de quince días con respecto a la fecha en que comience a regir el cobro de que se trate.
 
-Asimismo, las entidades financieras deberán indicar en sus pizarras de información al público, el importe de las comisiones y gastos que cobran por los servicios que se prestan mediante dispositivos que utilizan tarjetas con banda magnética.
+Asimismo, las entidades financieras deberán indicar en sus pizarras de información al público, el importe de las comisiones y gastos que cobren por los principales servicios que se presten mediante dispositivos que utilicen tarjetas con banda magnética o, en su defecto, señalar que se consulte sobre las tarifas de dichos servicios.
 
 ### 3. Modalidad de cobro de las comisiones
 
@@ -1234,7 +1234,7 @@ Cuando el titular de una cuenta de ahorro sea a su vez cuentacorrentista del mis
 
 4. Obligación de mantener la prestación de servicios en la forma tradicional.
 
-Las instituciones financieras que ofrezcan a sus clientes servicios mediante dispositivos electrónicos autosuficientes y establezcan el cobro de comisiones o el reembolso de gastos por el uso del sistema, deben mantener de todos modos la atención directa en sus distintas oficinas, tanto para aquellos clientes que utilicen los servicios automáticos, como para aquellos que no se suscriban a esa modalidad. Esa atención directa debe comprender todos los servicios a que se puede acceder por los sistemas electrónicos, sin discriminación alguna entre uno y otro procedimiento, salvo las diferencias propias de los sistemas automatizados y las limitaciones en cuanto se refiere a los horarios de atención de público que ha fijado esta Superintendencia de conformidad con la ley.
+Las instituciones financieras que ofrezcan a sus clientes servicios mediante dispositivos electrónicos autosuficientes y establezcan el cobro de comisiones o el reembolso de gastos por el uso del sistema, deben mantener de todos modos la atención directa en sus distintas oficinas, tanto para aquellos clientes que utilicen los servicios automáticos, como para aquellos que no se suscriban a esa modalidad. Esa atención directa debe comprender todos los servicios a que se puede acceder por los sistemas electrónicos y la entrega de a lo menos la misma información que puede obtenerse por esos medios, sólo con las diferencias propias de los sistemas automatizados y las limitaciones en cuanto se refiere a los horarios de atención de público que ha fijado esta Superintendencia de conformidad con la ley.
 
 CAPITULO 1-10 (Bancos y Financieras)
 
