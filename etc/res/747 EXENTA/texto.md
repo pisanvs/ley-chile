@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 747 de fecha 05 de Mayo de 1992 conforme Artículo 5° Transitorio Código de Aguas, modifica Resolución No. 1056 de fecha 22 de Junio de 1988 que aprueba el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas del predio "Resto de un Retazo de Terreno de Ciento Veinte coma Dos Hectáreas de Superficie del Fundo Reloca y Resto del Fundo Reloca y de Partes del Proyecto de Parcelación "Laurel de Oro" de las comunas de Coihueco y Chillan, VIIIa. Región, en el sentido de determinar que los derechos de aprovechamiento de aguas del predio "Santa Laura o Las Hijuelas" sobre las aguas del Canal La Victoria y las aguas elevadas desde el pozo el Celzac 1056 se distribuyan en la forma señaladas en dicha modificación y no en la forma indicada en la Resolución que se modifica y que corresponde a las parcelas 1 a 7 y sitios 1 a 3.
+
+Publicación hecha conforme Artículo 13 Ley No. 18.377.
+
+DIRECTOR NACIONAL
