@@ -1,0 +1,3 @@
+Por decreto MOP 4.945, de 31 de octubre de 2000, se expropió el lote de terreno Nº104-A, superficie 3.314 m², rol de avalúo 15-103, comuna de Olivar, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector E, Sexta Región y se acordó el valor de indemnización con su propietario Miguel Albornoz Pozo, ascendente a la cantidad de $25.147.139.-
+
+Fiscal del Ministerio de Obras Públicas.
