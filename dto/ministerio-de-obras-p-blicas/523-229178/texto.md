@@ -1,0 +1,3 @@
+Por decreto MOP Nº 523 de 30 de junio de 2004, se expropiaron los lotes de terreno Nos 45-A y 45-B, superficies 14.636 y 823 m² respectivamente, rol de avalúo Nº 519-2, comuna de Santa Cruz, para la obra "Camino Santa Cruz-Yánquil, Rol I-730, Km. 0.00000 al Km. 7,46939", VI Región y se acordó el valor de la indemnización con su propietario Luis Felipe Fuenzalida Valenzuela, ascendente a la cantidad de $17.911.967.
+
+- Fiscal del Ministerio de Obras Públicas.
