@@ -1,0 +1,3 @@
+Por resolución Nº1.713, de 30 de noviembre de 1998, de esta Subsecretaría, déjase sin efecto la resolución Nº672 de 1996, de esta Subsecretaría, que autorizó a JOSE BENEDICTO DEL CARMEN BARRIA, para instalar y operar el centro de cultivo ubicado en un sector en San Javier, Isla Quinchao, comuna de Curaco de Vélez, provincia de Chiloé, X Región.
+
+Valparaíso, 30 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
