@@ -20884,6 +20884,8 @@ c) La institución financiera no podrá participar en la entrega de bienes o ser
 
 d) En las promociones de las tarjetas y en cualquier información acerca del sistema, dirigida a sus clientes o al público en general, las instituciones financieras deberán señalar en forma explícita que la entrega de los bienes y la prestación de servicios no bancarios ofrecidos, como asimismo los descuentos en el comercio, son de exclusiva responsabilidad de la empresa que realiza tal actividad, no cabiéndole a la entidad financiera intervención alguna en su entrega o en la ulterior atención que ellos demanden.
 
+e) La institución financiera no podrá exhibir en ninguno de sus locales ni en los de sus filiales, los premios que, ya sea por acumulación de puntaje, sorteos o cualquiera otra modalidad, ofrezca a sus clientes por los servicios que contraten, susceptibles de esos beneficios, de acuerdo con estas normas.
+
 CAPITULO 19-1 (Bancos y Financieras)
 
 MATERIA:
