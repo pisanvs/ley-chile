@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.251, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº32-B, superficie 300,00 m2., rol de avalúo 136-51, comuna de Chonchi, X Región, para la obra "Camino Acceso Sur a Chonchi, Sector Ruta 5-Chonchi, Km.0,000 al 3,25253" y se acordó el valor de indemnización con su propietaria doña Marta Teresita Manel Gallardo, ascendente a la cantidad de $448.825.-
+
+Fiscal del Ministerio de Obras Públicas.
