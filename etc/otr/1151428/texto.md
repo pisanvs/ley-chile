@@ -1,0 +1,7 @@
+﻿Introduccion clandestina de mercaderías
+
+Santiago, Julio 27 de 1822
+
+Debiendo tratar el Gobierno por todos los medios posibles de evitar los fraudes que se hacen al Estado, con las introducciones clandestinas de electos de comercio, i a fin de que el cuerpo de serenos de esta capital se esfuerce i estimule a celar tales introducciones, se declara que los individuos de él optarán la misma parte designada a los dependientes de rentas por el artículo 28 del Reglamento de comisos, de 27 de Junio de 1820, cuando aprehendieren alguno, de modo que en un comiso donde queden líquidos mil pesos, hasta deducir la sesta parte de los jueces de primera instancia, tocan a los que hubiesen sido aprehensores, quinientos cincuenta i cinco pesos cuatro i medio reales, no habiendo denunciante, i cuando lo haya trescientos ochenta i dos pesos cuatro i un cuarto reales; esperando el Gobierno que los comprendidos en esta gracia, corresponderán a ella con su cuidado i vijilancia, particularmente el comandante del indicado cuerpo a quien conforme al nominado artículo se le declara parte doble de la que pueda aplicarse a uno de sus subalternos cuando concurra personalmente a la aprehension, considerándose como jefe de resguardo.
+
+Tómese razon en la Aduana jeneral, imprímase i comuníquese al juez de policía.- O'Higgins.- Dr. Rodríguez.
