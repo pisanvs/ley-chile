@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.334, de 31 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, de 1964 y del DFL MOP.
+
+No. 206, de 1960, se expropiaron los lotes de terreno No. s 4 y 7, para la obra Ruta 5, Tramo Talca - Chillán, Intersección Desnivelada Acceso a Maule, que figura a nombre de Molina Medel Fidel Antonio y González Cerda Víctor Manuel, roles de avalúo No. 168-134 y 168-88, comuna de Maule, VII Región, superficies 340 y 1.280 M2., respectivamente. La comisión de peritos compuesta por los señores Renato Guerra Estévez, Carlos Sottolichio Díaz y Guillermo Picón Vicioso, fijó con fecha 4 de septiembre de 1997, el valor provisional de las indemnizaciones en las cantidades de $ 1.157.000, para el lote No. 4 y $ 5.519.000, para el lote No. 7. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
