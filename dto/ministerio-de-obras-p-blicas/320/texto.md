@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 320, de fecha 30 de octubre 1992, se expropió el lote de terreno N° 1, superficie 988,93 M2., rol de avalúo 209-49, Comuna de San Javier, para la obra Camino Ruta 5 Sur, sector Construcción Puente Maule, otros y Accesos y se acordó el valor de indemnización con su propietaria Blanca Oblandine Isotta García, ascendente a la cantidad de $11.538.080.-
+
+Fiscal del Ministerio de Obras Públicas.
