@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 544, 31 agosto 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez 1622, Rol de Avalúo Nº 3113-7, comuna Chiguayante, superficie 107,25 metros cuadrados de terreno y 17,81 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R 19.139, de aparente dominio de Eugenio Palma Gutiérrez, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Eduardo Rivera Gajardo, arquitecto; Alejandra Gutiérrez Flores, arquitecto, y Marcelo Andrade Pérez, según informe de fecha 16 de junio 2004, fijó monto provisional indemnización en $9.061.188.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
