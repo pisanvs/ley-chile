@@ -1,0 +1,3 @@
+Por Resolución Nº 1.049, de 18 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1 de la Resolución Nº 1.214 de 1988, de esta Subsecretaría, que fijó las características náuticas de la nave "Alerce", Matrícula 2261, de SOCIEDAD PESQUERA COLOSO S.A., en el sentido de señalar que la capacidad de bodega de dicha nave es de 372,9 m3.
+
+Valparaíso, 18 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
