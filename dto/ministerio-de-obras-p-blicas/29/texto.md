@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 29, de fecha 15 de febrero de 1994, se expropiaron los lotes de terreno N°s. 5, 6, 7 y 8, superficies 4.305 M2., 2.655 M2., 2.685 M2. y 3.045 M2., roles de avalúos 525-184, 525-12, 525-185 y 525-45, Comuna de Tirúa, para la obra Camino Tirúa-Trovolhue-Carahue, sector Tirúa-La Suerte, por el cual se fijó precio de indemnización con sus propietarios Osvaldo Antileo Sepúlveda y María, Josefina y Domingo Catrilelbún Nahuelpán ascendente a las cantidades de $1.572.694, $872.999, $1.212.942, y $ 685.549, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
