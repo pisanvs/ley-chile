@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Tocopilla para que forme con la Corporación de Fomento de la Producción una sociedad comercial, de responsabilidad limitada, a fin de instalar y explotar el servicio eléctrico de la ciudad, con un capital mínimo de $ 1.400,000.
