@@ -1,0 +1,1 @@
+El Servicio Agrícola y Ganadero público en el Boletín Oficial de Semillas No. 45 de Enero 1990 la Resolución No. 2095 de 19 de Diciembre 1989, por la cual se eliminan variedades de distintas especies, del Registro de Variedades Aptas para Certificación.
