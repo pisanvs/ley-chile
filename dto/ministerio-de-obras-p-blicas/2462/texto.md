@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.462 de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs 12 y 13, superficies 432,5 y 410 m2, roles de avalúos 203-7 y 203-9, comuna de Quemchi, para la obra Camino Ruta W-35, Cruce Longitudinal Quemchi, Sector Acceso a Loncomilla - Quemchi, se acordó precio de las indemnizaciones con sus propietarios Flora Palatchi Ribera y Sergio Guerraty Vera, ascendentes a las cantidades de $182.818, lote Nº12 y $624.440, lote Nº 13.
+
+- Fiscal del Ministerio de Obras Públicas.
