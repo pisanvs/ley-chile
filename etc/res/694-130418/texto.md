@@ -1,0 +1,5 @@
+DENIEGA PRORROGA DE PLAZO DECLARA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+Por resolución No. 694 de 11 de Julio de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega solicitud de prórroga de plazo de don Sergio Haristoy Chamorro, R.U.T. No. 3.459.206-3, domiciliado en Avenida Principal No. 181, Lonco Oriente, Concepción, VIII Región, por no haberse acreditado la ocurrencia de un caso fortuito. Se declara la caducidad de las resoluciones No. 387, de 1988 y No. 622, de 1985, ambas de esta Subsecretaría que autorizaron a don Sergio Haristoy Chamorro para iniciar actividades pesqueras, de acuerdo al artículo 6° y 7°, respectivamente, del Decreto Supremo No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de Julio de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
