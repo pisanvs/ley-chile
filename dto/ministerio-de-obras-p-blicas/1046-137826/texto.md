@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.046 de fecha 29 de abril de 1999, se expropió el lote de terreno Nº 10, superficie 898 m2., rol de avalúo 189-495, comuna de Longaví, para la obra ''Ruta 5 Tramo Talca - Chillán Intersección Desnivelada Acceso a Longaví'' y se acordó el valor de indemnización con su propietario I. Municipalidad de Longaví, ascendente a la cantidad de $5.574.233.-
+
+Fiscal del Ministerio de Obras Públicas.
