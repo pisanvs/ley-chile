@@ -1698,9 +1698,13 @@ Conforme a lo dispuesto en el N° 4 del ya citado Capítulo III.B.1 del Compendi
 
 Podrán emitirse solamente los siguientes títulos al portador:
 
-a) Letras de crédito y bonos inscritos en el Registro de Valores de esta Superintendencia; y,
+a)Letras de crédito y bonos inscritos en el Registro de Valores de esta Superintendencia.
 
-b) En el caso de los bancos, certificados o pagarés que den cuenta de captaciones en moneda extranjera recibidas de bancos corresponsales del exterior, los que sólo podrán ser negociados fuera del país.
+b) Bonos para ser colocados en el exterior.
+
+c) Certificados o pagarés que den cuenta de depósitos en moneda extranjera recibidos de bancos corresponsales del exterior, los que sólo podrán ser negociados fuera del país.
+
+Los documentos señalados en las letras b) y c) precedentes sólo podrán ser emitidos por los bancos.
 
 3.2. Transferencia de títulos al portador.
 
@@ -4003,6 +4007,8 @@ Cuentas: -"Captaciones a más de un año exentas de encaje".
 En concordancia con las normas de encaje del Banco Central de Chile, la cuenta "Captaciones a más de un año con retiros dentro del año" será utilizada por los bancos y sociedades financieras para registrar aquellas operaciones en las cuales se pacte algún giro dentro del año, aunque se trate sólo del retiro de intereses.
 
 Por otra parte, en la cuenta "Depósitos y captaciones a más de un año afectos a encaje" se reflejarán, en la moneda que corresponda, los saldos de las operaciones en moneda extranjera en general, y de aquellas operaciones en moneda chilena que se documenten con certificados de depósito.
+
+Asimismo, serán registrados en la forma indicada en este literal, los depósitos en moneda extranjera recibidos de bancos y corresponsales del exterior, documentados mediante la emisión en serie de certificados o pagarés negociables solamente fuera del país, a que se refiere el N° 4 del Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
 6.2. Intereses y reajustes.
 
@@ -19844,19 +19850,19 @@ CAPITULO 13-34 (Bancos)
 
 MATERIA:
 
-EMISION DE BONOS PAGADEROS EN MONEDA EXTRANJERA PARA SER COLOCADOS EN EL EXTERIOR.
+EMISION DE TITULOS PAGADEROS EN MONEDA EXTRANJERA PARA SER COLOCADOS O NEGOCIADOS EN EL EXTERIOR.
 
-1.- Autorización para emitir y colocar bonos en el exterior.
+1.- Autorización para emitir y colocar títulos en el exterior.
 
-Los bancos están facultados para emitir bonos expresados y pagaderos en moneda extranjera y bonos expresados en pesos o en Unidades de Fomento, desembolsables y pagaderos en moneda extranjera, con el objeto de colocarlos en el mercado externo, con sujeción a las normas contenidas en el Capítulo XIII del título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y en este Capítulo.
+Los bancos están facultados para emitir bonos expresados y pagaderos en moneda extranjera y bonos expresados en pesos o en Unidades de Fomento para ser colocados en el exterior, desembolsables y pagaderos en moneda extranjera, y certificados o pagarés en serie, al portador, correspondientes a depósitos en moneda extranjera recibidos de bancos y corresponsales del exterior, negociables sólo fuera de Chile, con sujeción a las normas contenidas en el Capítulo XIII del título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y en este Capítulo.
 
 Para realizar tales operaciones, las empresas bancarias que decidan emitir los valores antes mencionados, deben obtener, para cada emisión, la autorización del Banco Central de Chile.
 
-Por tratarse de bonos que se colocarán en el exterior, no resulta necesaria su inscripción en el Registro de Valores de esta Superintendencia.
+En el caso de bonos que se colocarán en el exterior, no resulta necesaria su inscripción en el Registro de Valores de esta Superintendencia.
 
-2.- Requisitos para efectuar la emisión de bonos.
+2.- Requisitos para efectuar la emisión de títulos.
 
-Sin perjuicio de lo indicado precedentemente, para emitir los bonos pagaderos en moneda extranjera de que trata este Capítulo, las respectivas empresas bancarias deben tener una clasificación emitida por las empresas Fitch IBCA o Thomson BankWatch, no inferior a "A/B" en las categorías de "individual ratings" o "issuer ratmgs", respectivamente. Al tratarse de bonos subordinados, los instrumentos de deuda de la institución emisora deberán contar con una clasificación mínima de "BBB-" emitida por dos de las firmas clasificadoras señaladas en el Anexo N° 17 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
+Sin perjuicio de lo indicado precedentemente, para emitir los instrumentos pagaderos en moneda extranjera de que trata este Capítulo, las respectivas empresas bancarias deben tener una clasificación emitida por las empresas Fitch IBCA o Thomson BankWatch, no inferior a "A/B" en las categorías de "individual ratings" o "issuer ratmgs", respectivamente. Al tratarse de bonos subordinados, los instrumentos de deuda de la institución emisora deberán contar con una clasificación mínima de "BBB-" emitida por dos de las firmas clasificadoras señaladas en el Anexo N° 17 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
 
 3.- Características de los bonos.
 
@@ -19868,19 +19874,31 @@ b) El plazo promedio ponderado no podrá ser inferior a cuatro años, salvo que 
 
 c) Debe existir una institución financiera, constituida y domiciliada en el extranjero, de reconocido prestigio, que garantice la colocación del 100% de la emisión.
 
-4.- Instrucciones contables.
+4. - Características de los certificados v pagarés al portador emitidos por depósitos recibidos de bancos del exterior.
 
-4.1.- Registro de las obligaciones.
+Estos documentos deben reunir las siguientes características:
+
+a) Deben ser emitidos en serie y al portador.
+
+b) El plazo promedio ponderado de cada serie no podrá ser inferior a cuatro años.
+
+c) Pueden ser negociados sólo en el exterior.
+
+5.- Instrucciones contables.
+
+5.1.- Registro de las obligaciones.
 
 Los bonos se registrarán en la respectiva moneda extranjera de acuerdo con el criterio señalado en el título VIII del Capítulo 7-5 de esta Recopilación, utilizando para el efecto las cuentas "Bonos colocados en el exterior", "Descuentos por colocación de bonos en el exterior" y "Primas por colocación de bonos en el exterior", de la partida 3075.
 
 No obstante, si se trata de bonos subordinados se utilizarán las cuentas señaladas en el numeral 7.1 del Capítulo 9-6 de esta Recopilación.
 
-4.2.- Liquidación de la moneda extranjera
+Por otra parte, los certificados o pagarés por depósitos de bancos del exterior, se registrarán en la respectiva moneda extranjera en la forma señalada en el Capítulo 2-7.
+
+5.2.- Liquidación de la moneda extranjera
 
 En el caso que se determine liquidar los recursos captados por la colocación de los bonos, se utilizarán las cuentas "Conversión bonos en circulación en el exterior", de la partida 2510, y "Cambio bonos en circulación en el exterior", de la partida 4510, las que quedan sujetas al tratamiento normal de cuentas de "conversión" y "cambio", debiendo reflejar la primera el monto de moneda extranjera que se mantiene liquidada y, la segunda, el contravalor en pesos que debe ajustarse mensualmente, según lo dispuesto en el Capítulo 13-30 de esta Recopilación.
 
-5.- Información que deberá enviarse a esta Superintendencia.
+6.- Información que deberá enviarse a esta Superintendencia.
 
 Las empresas bancarias que coloquen bonos en el exterior deberán hacer llegar a este Organismo, una vez autorizada la emisión por el Banco Central de Chile, los antecedentes que resulten pertinentes a la emisión entre aquellos que se indican en el N° 1 del título III del Capítulo 2-10 de esta Recopilación Actualizada de Normas de conformidad con las exigencias de la legislación del país en que ellos se coloquen, con la traducción correspondiente en los casos que corresponda.
 
