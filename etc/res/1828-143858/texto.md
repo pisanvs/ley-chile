@@ -1,0 +1,3 @@
+Por resolución Nº 1.828, de 10 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96103135, presentada por JOSE MANUEL MANSILLA MIRANDA, para operar un centro de cultivo ubicado en un sector entre Punta Veleo y Achao, Isla Quinchao, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 10 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
