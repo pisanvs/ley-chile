@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 608 de 30 de junio de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco los lotes de terreno Nºs. 13, 55 y 57 para la obra: Camino Ruta rol H-10, Sector Graneros - San Francisco de Mostazal, Tramo Km. 0,000 a Km. 9,317, que figuran a nombre de Herrera Maldonado José David y Cuevas Jerez Angela y Otros, roles de avalúos 152-311, comuna de Graneros, 136-220 y 136-33, comuna de San Francisco de Mostazal, VI Región, superficies 648 m²; 46 m² y 288 m². La Comisión de Peritos, fijó con fecha 15 de septiembre de 2000, el monto de la indemnización provisional en las cantidades de $2.341.000.- para el lote Nº 13;
+
+$701.500.- para el lote Nº 55 y $1.841.600.- para el lote Nº 57. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
