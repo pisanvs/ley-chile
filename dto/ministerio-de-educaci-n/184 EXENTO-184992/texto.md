@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 184 EXENTO, DE 2001
+
+Por decreto exento Nº 184 de fecha 24 de abril de 2001 del Ministerio de Educación, se deja sin efecto las resoluciones exentas de Educación Nº 412 del 7 de marzo de 1983 y Nº 2.297 del 9 de octubre de 1987 que aprobó el plan y programas de estudios de la carrera Técnico Ayudante de Enfermería con mención Instrumentista Quirúrgico o Atención del Senescente u Obstetricia y Puericultura o Psiquiatría para el Centro de Formación Técnica Centro Nacional de Estudios Paramédicos y Agropecuarios Propam y la resolución exenta de Educación Nº 2.903 del 18 de noviembre de 1983, en lo que corresponde a la carrera mencionada, que autorizó a las Sedes Nº 1 de Arica, Nº 3 de Antofagasta, Nº 4 de La Serena, Nº 5 de Ovalle, Nº 6 de Viña del Mar, Casa Central de Santiago, Nº 7 de Rancagua, Nº 8 de Curicó, Nº 9 de Talca, Nº 10 de Concepción y Nº 11 de Temuco, para impartir el plan y programas de estudios aprobado para la institución.
+
+Santiago, 8 de mayo de 2001.- José Weinstein Cayuela, Subsecretario de Educación.
