@@ -1,0 +1,7 @@
+Por Resolución N° 1.178, de 2 de Diciembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2 de la Resolución N° 1.091, de 1988, de esta Subsecretaría, por la cual se autorizó a CHISAL S.A., R.U.T. N° 95.682.000-6, domiciliada en la ciudad de Puerto Montt, Seminario N° 372, para desarrollar actividades de acuicultura, en el sentido de incorporar el recurso Trucha arcoiris, Oncorhynchus mykiss, al centro de cultivo autorizado por dicha Resolución.
+
+La solicitante deberá ejecutar a lo menos el 50% de la siembra y tener una existencia en igual porcentaje de recursos hidrobiológicos a cultivar y deberá haber ejecutado al menos la mitad de las actividades programadas en el proyecto técnico aprobado por esta Subsecretaría, dentro del primer año de vigencia de esta Resolución, contado desde su publicación en el Diario Oficial.
+
+Asimismo, deberá materializar el total de la producción o instalaciones señaladas en el proyecto técnico antes mencionado en el término de un año contado desde el cumplimiento del cronograma de actividades propuesto en el referido proyecto aprobado por esta Subsecretaría de Pesca.
+
+Valparaíso, 2 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
