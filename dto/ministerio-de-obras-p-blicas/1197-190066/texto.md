@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.197, de 31 de julio de 2001, se expropió el lote de terreno Nº 147, superficie 940 m², rol de avalúo 277-66, comuna de Algarrobo, para la obra Red Vial Litoral Central. Sector 2: Camino Algarrobo - Casablanca (Ruta F-90), Quinta Región y se acordó el valor de indemnización con su propietario Sergio Gutiérrez Hurtado, ascendente a la cantidad de $3.612.815.
+
+- Fiscal del Ministerio de Obras Públicas.
