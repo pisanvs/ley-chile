@@ -1,0 +1,3 @@
+Por decreto MOP Nº 236, de 31 de enero de 2000, se expropió el lote de terreno Nº 63, superficie 2.828 m², rol de avalúo 136-264, comuna de Paine, para la obra Concesión Internacional Ruta 5 Tramo: Santiago-Talca Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietaria Gladys Salgado Recabal, ascendente a la cantidad de $19.429.585.
+
+- Fiscal del Ministerio de Obras Públicas.
