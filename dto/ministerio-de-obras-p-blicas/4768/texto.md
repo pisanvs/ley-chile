@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.768, de 31 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs. 1, 2 y 3. Obra: Extensión Poniente Línea 5, sector Santa Ana Matucana, que figuran a nombre de Tin Chong Lay Ieong y Otro, Sepúlveda Aldana Faustino y García Vargas Jorge Sigifredo, roles de avalúos 266-1, 266-16 y 266-17, comuna de Santiago Oeste, superficies 383, 192 y 330 M2., respectivamente. La comisión de peritos, fijó con fecha 11 de octubre de 2000, en la cantidad de $104.384.000, lote 1; $45.917.000, lote 2 y
+
+$147.779.000, lote 3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
