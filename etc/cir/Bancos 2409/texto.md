@@ -2044,7 +2044,7 @@ En las cuentas corrientes bancarias, como se indica en el Capítulo 2-2 de esta 
 
 Sin perjuicio de la comisión mencionada en el párrafo precedente, en las operaciones de crédito que efectúen los clientes en sus cuentas corrientes, es claro que se puede cobrar comisión por la apertura de crédito que el banco realiza en beneficio del cliente y a su pedido. Pero esta comisión también debe ser por períodos no inferiores a aquellos pactados para la vigencia de la línea de crédito, ya que el estudio que le significa al banco la conducta y situación patrimonial del cliente no varía todos los días.
 
-Lo mismo debiera aplicarse al pago de cheques por sobregiros no contratados, ya que si el banco consiente en pagar un segundo cheque en un mismo mes, puede presumirse que la situación del cliente no habrá cambiado en un mismo período que, como mínimo no debiera, razonablemente, ser inferior a un mes calendario. En consecuencia, en esos casos procede sólo el cobro de los intereses correspondientes al sobregiro.
+En lo que se refiere al cobro de comisiones por el pago de cheques por sobregiros no contratados, los bancos librados pueden aplicar una comisión por un determinado número de sobregiros en cada mes, o bien una comisión por incidente con un máximo por mes u otro procedimiento o modalidad similar que el Directorio del banco establezca, de manera de regular con la debida prudencia los montos que resulten.
 
 5.- Comisiones sobre tarjetas de crédito, de débito y de cajero automático.
 
