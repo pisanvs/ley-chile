@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.242, de 24 de mayo de 1999, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 4 y 40, para la ejecución de la obra Camino Mejoramiento Ruta S-269 Padre Las Casas-Niágara, Km. 0.000,00 a Km.
+
+17.357,22, Tramo Km. 2.300 a Km. 17.340, que figuran a nombre de Josefina Sandoval Palacios y Manuel Currihuinca Romero, Roles de Avalúo 3283-122 y 3359-222, comuna de Temuco, provincia de Cautín, IX Región, superficies 149,50 y 335,00 m². La Comisión de Peritos compuesta por los señores Enrique Vallette de la Harpe, Roberto Gesche Robert y Mario Tillería Torres, fijó con fecha 31 de marzo de 1997, el valor provisional de las indemnizaciones en las cantidades de $74.750, lote Nº 4 y $241.500, lote Nº 40. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
