@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº813 de fecha 31 de mayo del 2002, se expropió el lote de terreno Nº110, superficie 71 m2, Rol Nº1420-224, comuna de Rancagua, VI Región para la obra: ''Mejoramiento Camino Ruta H-240, Sector Rancagua-San Ramón, Km 0,0000 a Km. 5,0000'' y se acordó el valor de indemnización con su propietario Romelio Antonio del C. Espinoza Orellana, ascendente a la cantidad de $1.220.587.-
+
+Fiscal del Ministerio de Obras Públicas.
