@@ -1,0 +1,3 @@
+Por Resolución No. 030/92, de 20 de marzo de 1992, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la I Región, se adjudicó a don Juan Colville Garrido, la concesión para operar, por un plazo de cinco años a contar de la fecha de publicación del presente extracto, un establecimiento ubicado en calle Errázuriz No. 1342, de Iquique, destinado a la revisión técnica y verificación de emisión de contaminantes de los vehículos que se señalen en el inciso segundo del artículo 7° del DS 156/90 del Ministerio en la forma y condiciones que se señalan en el contrato que se aprueba.
+
+Yerko Luksic Sandoval, Secretario Regional Ministerial Transportes y Telecomunicaciones I Región.
