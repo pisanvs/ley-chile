@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.299, de 10 de diciembre de 2003, de esta Subsecretaría, autorízase a PESQUERA EL GOLFO S.A. para ampliar actividades pesqueras extractivas, autorizadas por la resolución Nº 2.035 de 2003, de esta Subsecretaría, en orden a realizar actividades pesqueras con la nave "Trinidad", en las áreas marítimas que en cada caso se indican, por fuera de las 60 millas marinas, donde podrá capturar los recursos hidrobiológicos que a continuación se señalan:
+
+a) En el área marítima correspondiente a la IV Región, con arrastre de media agua: Jibia, Calamar, Pota o calamar del Atlántico, Bonito, Dorado, Jurel fino, Machuelo o tritre, Anchoa blanca, Sardina redonda y Vinciguerria; b) En el área marítima de la X Región, con arrastre de media agua: Jibia, Calamar, Pota o calamar del Atlántico, Bonito, Dorado, Jurel fino, Machuelo o tritre, Anchoa blanca, Sardina redonda y Vinciguerria.
+
+Deniégase la autorización solicitada por la peticionaria para extraer los recursos hidrobiológicos Jibia, Calamar, Pota del Atlántico, Bonito, Dorado, Jurel fino, Machuelo o tritre, Anchoa blanca y Sardina redonda, en el área marítima comprendida entre la V-VII y IX Región, con arrastre de media agua, en virtud de lo dispuesto en el artículo 19 letra c) de la Ley General de Pesca y Acuicultura, en relación con el D.S. Nº 354 de 1993 y el decreto exento Nº 461 de 2003, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 10 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
