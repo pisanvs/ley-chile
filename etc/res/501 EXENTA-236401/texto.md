@@ -1,0 +1,3 @@
+Por resolución exenta Nº 501, de 24 de febrero de 2005, de esta Subsecretaría, autorízase a JOSE ANTONIO HERRERA ROJO para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en terreno de playa sector Punta Salinas s/n, Chañaral, III Región, donde podrá elaborar en la línea de proceso de Picado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 24 de febrero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
