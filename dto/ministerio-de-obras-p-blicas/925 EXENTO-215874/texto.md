@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 925 de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº 5, superficie 282,00 m², rol de avalúo Nº 2904-5, comuna de Pudahuel, para la obra "Camino Ruta G-184-182, Sector El Noviciado-Cruce Ruta G-16 (Lipangue), Tramo de Km. 4,450 a Km. 15,04419", Región Metropolitana y se acordó el valor de la indemnización con su propietaria Aurora Rebolledo Orellana, ascendente a la cantidad de $1.732.439.
+
+Fiscal del Ministerio de Obras Públicas.
