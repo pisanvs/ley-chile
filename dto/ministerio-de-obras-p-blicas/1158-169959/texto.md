@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.158, de 30 de marzo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 1-B, 3-D, 22-C y 27-F, para la obra Camino M-24-K Quivolgo-Puente Lautaro, sector C Putu-Quivolgo, Kms.
+
+30,000 al 49,815.494, que figura a nombre de Silvio Miguel del Río Miño, Oscar Valenzuela, José Eduardo Miño Araya y Daniel Weinberg González, roles de avalúo en trámite, comuna de Constitución, VII Región. La Comisión de Peritos fijó con fecha 3 de septiembre de 1999, las cantidades que se indican en dicho decreto. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
