@@ -1,0 +1,5 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A EMPRESA CONSTRUCTORA JUAN LUIS PARRA FARRES Y CIA.
+
+La Cuarta Dirección Regional La Serena del Servicio de Impuestos Internos, por resolución Ex. Nº249 de 02-12-2003, otorga, a contar del 1º del mes siguiente al de esta publicación y hasta el 31 de diciembre de 2004 a Empresa Constructora Juan Luis Parra Farres y Cía., RUT Nº79.728.940-K, Representante Legal Juan Luis Parra Farres, RUT Nº4.705.251-3, la calidad de agente retenedor del Impuesto al Valor Agregado en los contratos de instalación o confección de especialidades que contraten, establecido en la Res. Ex. Nº46/2003 de la Dirección Nacional, publicada en el Diario Oficial del día 05/09/2003, modificada por Res. Ex. Nº63/2003 publicada en el Diario Oficial del 05/11/2003.
+
+Francisco Cárcamo Avendaño, Director Regional.
