@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº705, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº167-A, superficie 92 M2, rol de avalúo en trámite, comuna de Teno, VII Región, para la obra ''Camino Ruta J-25, Sector Cruce Longitudinal-La Montaña, Km.- 0,22000 al 25,00000'' y se acordó el valor de indemnización con su propietaria doña María Olivia Pizarro Arriaza, ascendente a la cantidad de $413.020.-
+
+Fiscal del Ministerio de Obras Públicas.
