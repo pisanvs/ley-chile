@@ -1,0 +1,3 @@
+Por resolución N° 30 de 19 de Enero de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año a contar del 1° de octubre de 1992, el plazo otorgado a PESQUERA SAN JOSE DE COQUIMBO S.A., R.U.T. N° 96.515.540-6, domiciliada en Santiago, Américo Vespucio 80, Piso 5° para operar la nave "Antil", autorizada por la Resolución N° 903, de 1987, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 19 de Enero de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
