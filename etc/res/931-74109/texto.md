@@ -1,0 +1,3 @@
+Por Resolución Nº 931, de 1 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 94105005, presentada por SALMONES ANDES S.A., para el centro de cultivo ubicado en la localidad de Bahía Guapacho, comuna de Ancud, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14º, del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 1 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
