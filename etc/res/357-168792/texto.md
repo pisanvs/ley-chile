@@ -1,0 +1,3 @@
+Por resolución No. 357 de 27 de Marzo de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica el numeral 3° de la resolución No. 1166, de 1989, de esta Subsecretaría, que autorizó a don AMBROSIO CARTES AGUILAR, R.U.T. No. 7.117.052-7, domiciliado en Lebu, calle Iquique No. 138, para iniciar actividades pesqueras, en el sentido de autorizar al solicitante para extraer el recurso Albacora o pez espada en el litoral de las Regiones I a X, con los artes de pesca enmalle y arpón.
+
+Valparaíso, 27 de Marzo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
