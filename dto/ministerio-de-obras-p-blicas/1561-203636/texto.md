@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.561, de 16 de septiembre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº19-1, para la obra: ''Sistema Norte-Sur. Tramo A: Río Maipo-Las Acacias. Sector: Km. 5.620,00 al Km.
+
+5.960,00'', Región Metropolitana, que figura inscrito a FS. 49 Nº72, año 1985, Reg. Propiedades del C.B.R. de Santiago a nombre de Inmobiliaria Hasbun y Karmy Limitada, rol de avalúo 1060-20, comuna de San Bernardo, superficie 444 m2. La comisión de peritos integrada por los señores Carmen Pilar Ríos Marcuello, Miguel Juan Fernández Cádiz y María Cristina Camus Palacios fijó, con fecha 31 de julio de 2002, el valor provisional de la indemnización en la cantidad de $10.526.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
