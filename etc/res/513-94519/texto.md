@@ -1,0 +1,3 @@
+Por Resolución No. 513 de 18 de mayo 1989 SERVIU Metropolitano, ordenóse expropiación. conforme DL 2.186 de 1978, parte inmueble ubicado en calle Ricardo Santa Cruz No. 757 presunto rol avalúos No. 596-14 comuna de Santiago aparentemente dominio de don Francisco Salazar Ojeda. Comisión integrada por peritos Ricardo Carvallo Rodríguez y Luis del Pozo Concha, arquitectos y Raúl Varela Hernández. ingeniero civil, según informe de 2 de diciembre 1988. fijó monto provisional indemnización en $ 1.454.000.-, pagadera al contado.
+
+- Director SERVIU Metropolitano.
