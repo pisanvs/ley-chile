@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 801 de fecha 31 de mayo del 2004, se expropiaron los lotes de terrenos Nº s. 69 y 70, superficies 2.630 y 2.209 m2 respectivamente, Rol Nº 231-66, comuna de Toltén, IX Región, para la obra Camino Ruta S-790 Sector Nueva Toltén - Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub Tramo II Km. 80,55700 al Km. 87,50000" y se acordó el valor de indemnización con su propietario Martín Segundo Chanqueo Muñoz, ascendente a la cantidad de $2.433.691.
+
+- Fiscal del Ministerio de Obras Públicas.
