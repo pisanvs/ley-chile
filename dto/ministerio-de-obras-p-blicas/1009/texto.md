@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.009, de 30 de julio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropiaron los lotes de terreno No. s. 187 y 190, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Sector Km.
+
+26.200 al Km. 30.510,50, que figura a nombre de Compañía de Petróleos de Chile S.A., Rol de Avalúo No. 150-145, comuna de Lampa, superficies 929 y 2.674 m2. La Comisión de Peritos integrada por Américo Agustín Delucchi Cabaña, María Marcela Schmauk Oelckers y Juan Eduardo Espinoza Asenjo, fijó con fecha 28 de febrero de 1998, el valor provisional de la indemnización en la cantidad de $ 4.831.800.- para el lote No. 187 y $ 11.230.800.- para el lote No. 190. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
