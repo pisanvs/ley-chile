@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.877, de 31 de diciembre de 1998, se expropió el lote terreno Nº1, superficie 9 m², rol de avalúo 12006-21, comuna de San Pedro de la Paz, para la obra Reposición Puente Bío Bío Antiguo, Ruta 160 Concepción San Pedro, Sector San Pedro y se acordó precio de la indemnización con su propietario David Guillermo Aliaga González, ascendente a la cantidad de $2.814.630.-
+
+Fiscal del Ministerio de Obras Públicas.
