@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.871, de 29 de julio de 1999, se expropiaron los lotes de terreno No. s. 8-K y 9-C, superficie 456 y 1.494 m2., rol de avalúo 101-14, comuna de Quilicura, para la obra Proyecto Estudio de Ingeniería Habilitación Segunda Calzada Avenida Américo Vespucio, Sector Carretera Panamericana Norte-Ruta 72 y se acordó precio con su propietaria Rosa Elvira Bravo Dianta y otros, ascendentes a la cantidad de $ 172.868.240.-
+
+Fiscal del Ministerio de Obras Públicas.
