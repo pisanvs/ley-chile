@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.229, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº23, superficie 4.670 m², rol de avalúo 206-21, comuna de Lebu, VIII Región, para la obra "Camino Ruta P-30, sector Lebu - Millonhue, Km. 0,00000 al 9,47777" y se acordó el valor de indemnización con su propietario la Sociedad Agrícola y Forestal Caramavida S.A., ascendente a la cantidad de $789.113.-
+
+Fiscal del Ministerio de Obras Públicas.
