@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.301, de 20 de septiembre de 2001 y en base a la facultada otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 77, para la obra Camino Rutas W-65 y W-55, sector Cruce Longitudinal (Pid-Pid) - Putemun - Dalcahue, que figura a nombre de Barría Bahamonde Onofre S., rol de avalúo 1124-30, superficie 2.273,46 m2., comuna de Castro. La Comisión de Peritos, con fecha 20 de diciembre de 1998, fijó la indemnización provisional en la cantidade de $969.853, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
