@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 217 de fecha 28 de febrero del 2002, se expropió el lote de terreno Nº 69, superficie 626 m2, Rol de Avalúo Nº 236-101, comuna de Villa Alegre, para la obra "Camino Mejoramiento Ruta L-19, Sector Cruce Longitudinal (Villa Alegre-Esperanza), Tramo Km. 0,000.00 al Km. 10,623.89" y se acordó el valor de indemnización con su propietario Cosme Hernando Gutiérrez Jaque, ascendente a la cantidad de $1.953.600.
+
+- Fiscal del Ministerio de Obras Públicas.
