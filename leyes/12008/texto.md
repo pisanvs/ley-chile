@@ -8,13 +8,7 @@ Proyecto de Ley:
 
 #### Artículo 1
 
-o Libéranse a los artículos y mercaderías que se importen a la provincia de Magallanes de los siguientes gravámenes:
-
-a) El pago de los derechos establecidos en el Arancel Aduanero y Adicionales;
-
-b) Los impuestos ad-valorem establecidos en el decreto supremo N.o 2,772, de 18 de Agosto de 1943, y sus modificaciones posteriores.
-
-c) Impuestos y derechos adicionales establecidos en virtud del artículo 169.o de la ley N.o 13,305.
+o Las mercancías que se importen en la provincia de Magallanes estarán liberadas de los derechos específicos, y pagarán, por concepto de derechos ad valorem, una tasa de 4%, en reemplazo de la que contempla el Arancel Aduanero, salvo que se trate de "algodón en rama", "azúcar", "café", "té a granel", "petróleo Diesel", "bencina" y "maquinaria agrícola y sus repuestos", en cuyo caso dicha tasa será de 2%".
 
 #### Artículo 2
 
