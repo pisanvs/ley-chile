@@ -1,0 +1,3 @@
+Por Resolución N° 1.639, de 28 de agosto de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, se deniega solicitud de concesión de acuicultura presentada por el INSTITUTO DE FOMENTO PESQUERO, para un centro de cultivo ubicado en Bahía Hueihue, comuna de Ancud, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 28 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
