@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº193 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº84, superficie 186 m², Rol Nº 163-59, comuna de San Clemente, VII Región para la obra "Camino Los Robles-Huencuecho-Bajo Perquín. Sector: Huencuecho-Bajo Perquín. Tramo: Km. 46,140.00 a Km. 76,107.70" y se acordó el valor de indemnización con su propietario Enrique Hugo Morales Avila, ascendente a la cantidad de $347.463.
+
+Fiscal del Ministerio de Obras Públicas.
