@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 457 de 23 de Abril de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden al Proyecto de Parcelación "Lliu Lliu" de la comuna de Limache, y Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 48 y 50 a la 66, sitios N°s. 1, 2, 7 A, 12 A, 17 al 20, 27, 20, 31 al 34, 41 al 60, 63, 64, 71, 72, 74 al 76 y Reservas Cora N°s.
+
+1, 3 y 4 del predio "Una propiedad Raíz ubicada en Lliu Lliu comuna de Limache formada por la Hijuela Quinta o El Quiscal, Hijuela Undécima o Santa Rebeca, parte de la Hijuela Décima o Santa Adriana e Hijuela Duodécima o Lliu Lliu". Los Derechos de Agua se extraen del Canal Waddington derivado del río Aconcagua; del Embalse Lliu Lliu y de las Quebradas La Patagüilla, El Guindo, El Alazán de parcela No. 48 y quebrada del Sitio 12-A. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
