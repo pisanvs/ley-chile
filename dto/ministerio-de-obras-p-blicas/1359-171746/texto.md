@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.359, de 17 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs.134 y 135, para la ejecución de la obra Camino Costero Tirúa-Carahue, Tramo Bajo Yupehue - Cruce Puyanhue, Sector Km. 23.348,46 - Km. 41.637,97; Km.
+
+41.769,92 - Km. 45.286,79, que figuran a nombre de Juan M. Rebolledo Guzmán, rol de avalúo 515-7, comuna de Carahue, IX Región, superficies 8.976 y 373 m². La comisión de peritos compuesta por los señores Mario Gutiérrez Truan, Sergio Sepúlveda Pérez y Marcelo Bonnefoy Dibarrart, fijó con fecha 27 de abril de 1998, el valor provisional de la indemnización en la cantidad de $1.026.400, lote 134 y $510.220, lote 135. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
