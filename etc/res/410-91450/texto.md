@@ -1,0 +1,3 @@
+Por Resolución No. 410, de 8 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación conforme DL 2.186 de 1978, inmueble ubicado en calle Ricardo Santa Cruz No. 549 - 551, presunto rol avalúos 592-10, comuna Santiago, aparentemente dominio de doña Amalia Moya Vergara. Comisión integrada por peritos Srs. Teresa Sancho Pernas y José Miguel Haltenhoff Aenishanslin, arquitectos, y Carlos del Pedregal Sánchez, constructor civil, según informe de 01.12.88. fijó monto provisional indemnización en $ 1.987.200.- pagadera al contado.
+
+Director SERVIU Metropolitano.
