@@ -1,0 +1,5 @@
+Por Resolución Nº 1.447, de 31 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA COLOSO S.A., para ampliar las actividades pesqueras extractivas con la nave "Colo Colo", matrícula 1701, autorizada por D.S. Nº 29 de 1971 y Nº 629 de 1976, ambos del Ministerio de Agricultura, en el litoral de la X Región, por fuera del área de reserva artesanal, donde podrá capturar con red de cerco los siguientes recursos hidrobiológicos: Agujilla, Anchoveta, Caballa, Cojinoba del norte, Merluza de cola, Jurel y Sardina común.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 31 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
