@@ -1,0 +1,3 @@
+Por decreto MOP Nº734 de fecha 29 de marzo de 1999, se expropió el lote de terreno Nº148, superficie 63 m2, rol de avalúo 206-33, comuna de Cabrero, para la Obra ''Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli Sector Km. 447.868,00 al Km. 464.021,40'', VIII Región y se acordó el valor de indemnización con su propietario Juan Pablo Zirpel Roig, la cantidad de $585.537.-
+
+Fiscal del Ministerio de Obras Públicas.
