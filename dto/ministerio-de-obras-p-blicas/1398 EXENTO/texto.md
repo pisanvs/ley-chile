@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 1.398 de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº 49, superficie 1.772,0 m², Rol de Avalúo 63-177, comuna de Lonquimay, IX Región, para la obra ''Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Acceso Pedregoso - Liucura, Km. 141,00000 al 158,54000, correspondiente al Tramo II Km. 149,22500 al 154,27400'' y se acordó el valor de indemnización con su propietario don José Eduardo Milla Milla, ascendente a la cantidad de $368.588.
+
+- Fiscal del Ministerio de Obras Públicas.
