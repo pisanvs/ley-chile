@@ -1,0 +1,3 @@
+APLICA ORDENANZA LOCAL SOBRE DERECHOS MUNICIPALES POR CONCESIONES, PERMISOS Y SERVICIOS
+
+Por decreto alcaldicio No. 7 de fecha 26 de agosto de 1987, la I. Municipalidad de San Joaquín ordenó la aplicación a contar del 27 de julio de 1987, de la Ordenanza Local sobre derechos municipales por concesiones, permisos y servicios, publicada en el Diario Oficial de fecha 03 de enero de 1987, aprobada por la I. Municipalidad de San Miguel, a los cobros que efectúe por dichos conceptos la I. Municipalidad de San Joaquín, hasta el 31 de diciembre del año en curso, en lo aplicable a su territorio comunal.
