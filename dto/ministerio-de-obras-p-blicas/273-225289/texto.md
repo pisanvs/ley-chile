@@ -1,0 +1,3 @@
+Por decreto MOP Nº 273, de fecha 31 de marzo de 2004, se expropiaron los lotes de terreno Nº s. 26 y 28, superficie 1.862,50 y 762,36 m², respectivamente, rol Nº 271186, comuna de Quintero, para la obra "Ruta F-190, Sector Colmo Puchuncaví, Km. 0,00000 a Km. 25,22591", V Región y se acordó el valor de la indemnización con su propietario Héctor Francisco Cisternas, ascendente a la cantidad de $7.364.768.
+
+- Fiscal del Ministerio de Obras Públicas.
