@@ -1,0 +1,9 @@
+Templo votivo de Maipú
+
+Santiago, 7 de Mayo de 1818.
+
+La inmaculada Reina de los Anjeles, en su advocacion de Nuestra Señora del Cármen, fué jurada patrona de las Armas de Chile, primero por el voto jeneral de este pueblo, por haber esperimentado su proteccion en el restablecimiento del Estado, que yacia bajo la opresion de los tiranos, mediante el esfuerzo del Ejército restaurador de los Andes i despues el 14 de Marzo último por el acto solemne, en que concurrieron las corporaciones i un inmenso pueblo en la Santa Iglesia Catedral, al objeto de ractificar, como rectificaron espresamente aquel juramento, ofreciendo erijirle un templo en el lugar donde se diese la batalla a que nos provocó el jeneral enemigo Osorio. No debe tardarse un momento el cumplimiento de esta sagrada promesa; i para que tenga efecto a la mayor brevedad, nombro a don Juan Alcalde i don Agustin de Eyzaguirre por superintendente de esta obra. En consecuencia, me presentarán un plano de ella, con el correspondiente presupuesto, proponiéndome los sujetos que deben emplearse en la colectacion de los caudales necesarios de poder de las corporaciones i vecindario que los ofreció, el lugar donde deben depositarse, la forma en que debe celebrarse el acto de poner los primeros fundamentos del edificio, marchando los que lo ofrecieron según su misma promesa, desde esta capital hasta el lugar en que se ganó la batalla, con los demas puntos directivos i económicos, convenientes a facilitar la pronta conclusion de dicha obra.
+
+Trascríbaseles este decreto por el Ministerio, i a los Jefes de los Partidos, para que exiten a sus vecinos a contribuir con lo que permitan sus facultades a beneficio de ella.-
+
+O'Higgins.- Irisarri.
