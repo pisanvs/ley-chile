@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.096, de 30 de julio de 1998, y en base a la facultad otorgada por el artículo 14 letra e) y 105 del DFL. No. 850 de 1997, que fijó el texto actualizado de la Ley No. 15.840, se expropió el lote de terreno No. 62-A, para la obra Camino Santiago - Colina - Los Andes, Sector "G" By Pass Los Andes, km.
+
+5.000,00 al 14.614,11, que figura a nombre de Cía. de Inversiones Adriático S.A., rol de avalúo 20-5, comuna de Calle Larga, superficie 1.393 m2. La Comisión de Peritos, integrada por los señores Jorge Gregorio Mendoza Larral, Pablo Antonio Aragón Bernal y Juan Carlos Paniagua López, fijó con fecha 6 de mayo de 1998 el valor provisional de la indemnización en la cantidad de $ 975.100.- para el lote No. 62-A.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
