@@ -1,0 +1,3 @@
+Por resolución N° 152, de 1° de Marzo de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la resolución N° 1.098, de 1988, de esta Subsecretaría, que autorizó a don CARLOS RABY RODEWALD, R.U.T. N° 1.137.656-8, domiciliado en calle Prat N° 827, oficina 802, Valparaíso, para instalar un centro de cultivo en la X Región, en el sentido de reemplazar en su numeral 2° la expresión"... situada en sector Palqui, Canal Quinchao, Isla Quinchao, comuna de Quinchao, provincia de Chiloé, X Región" por la frase"... situada en sector Palqui, canal Quinchao, Isla de Quinchao, comuna de Curaco de Vélez, provincia de Chiloé X Región".
+
+Valparaíso, 1 de Marzo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
