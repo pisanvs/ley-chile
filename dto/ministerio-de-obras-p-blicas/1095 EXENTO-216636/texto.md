@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.095, de fecha 30 de septiembre del 2003, se expropió el lote de terreno Nº349, superficie 109 m², Rol Nº61-444, comuna de Palmilla, VI Región para la obra "Camino Colchagua-Pichidegua, sector San Roberto-Cruceros, tramo Km. 12,30000 a 26,00400" y se acordó el valor de indemnización con su propietaria Marisol del Carmen Huerta Farías, ascendente a la cantidad de $328.826.-
+
+Fiscal del Ministerio de Obras Públicas.
