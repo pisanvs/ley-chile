@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 201, de 31 de agosto de 1987, se expropiaron los lotes N°s. 93, 96, 107, 108 y 109, cuyas superficies son 427,1 m2., 438,0 m2., 125,6 m2., 108 3 m2. y 86,7 m2., roles de avalúo 46-76. 46-72, 46-206, 46-205 y 46-205, respectivamente, Comuna de Peumo, obra Ruta H-66-G. Pelequén - Cruce Las Arañas, sector Codao Las Cabras, Km. 0.000 al 10.675 y se acordaron los precios de indemnización con sus propietarios doña Carmen Rosa González Moya y otros, José Luis Clavijo Parraguez y otros e Hilarión Guerrero Rojas, ascendentes a $ 252.510, $ 249.515, $ 159.847, $ 114.652 y $ 226.045.-
+
+Fiscal del Ministerio de Obras Públicas.
