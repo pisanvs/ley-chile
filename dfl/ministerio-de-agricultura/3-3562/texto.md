@@ -1,0 +1,1 @@
+Fija normas para la investigación, producción, procesamiento y comercio de semillas; deroga la ley 8.043 y el decreto con fuerza de ley RRA. 17, de 1963
