@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.447, de 31 de agosto de 1999, se expropió el lote de terreno Nº12, superficie 416 m², rol de avalúo 157-16, comuna de Pemuco, VIII Región, para la obra Camino Ruta N-85, sector Cruce Longitudinal (General Cruz) - Pemuco, y se acordó precio de indemnización con su propietario Manuel Jesús Salinas Quilodrán, ascendente a la cantidad de $601.878.-
+
+Fiscal del Ministerio de Obras Públicas.
