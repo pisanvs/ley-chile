@@ -1,0 +1,3 @@
+Por resolución exenta Nº 334, de 9 de febrero de 2005, de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL IMPORTADORA Y EXPORTADORA ROXANA LIMITADA para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Cardonal Bajo kilómetro 2,7, Puerto Montt, X Región, en las líneas de elaboración Cocido, fresco, enfriado, fresco refrigerado, congelado, seco salado, ahumado, conserva, harina, aceite y deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 9 de febrero de 2005.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
