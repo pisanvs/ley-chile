@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Por resolución Nº 457 de 13 de agosto de 2004 de Serviu Metropolitano, ordenose expropiación, conforme D.L. Nº 2.186 de 1978, del inmueble ubicado en Las Perdices que corresponde a la Parcela J, del plano de la Hacienda Lo Hermida, rol de avalúos Nº 9066-134, comuna de Peñalolén, de dominio de Inmobiliaria Casagrande Limitada. Comisión integrada por peritos Paola Andrea Domingo Porcella, Constructor Civil, Alfredo Irizarri Valderrama, Arquitecto y Juan Fernández Cádiz, Constructor Civil, según informe de 30 de julio de 2004, fijó monto provisional indemnización en $746.862.456.- pagadera al contado.- Las partes de común acuerdo fijaron monto definitivo de la indemnización en su equivalente en ($) de la cantidad de U.F. 44.273,88.- pagadera al contado.
+
+- Director Serviu Metropolitano.
