@@ -1,0 +1,3 @@
+Por decreto MOP Nº101, de 31 de enero de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para la Empresa de Servicios Sanitarios del Maule S.A. el lote de terreno Nº1, para la obra Planta de Tratamiento de Aguas Servidas de Empedrado, que figura a nombre de Rogelio Tejos Tejos (hoy I. Municipalidad de Empedrado), rol de avalúo 218-48, comuna de Empedrado, superficie 1.838,97 M2. La Comisión de Peritos fijó con fecha 18 de diciembre de 2000, en la cantidad de $5.516.910. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
