@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.800, de 30 de septiembre de 1998, se expropiaron los lotes de terreno Nº s 3-A, 7, 8 y 9, superficies 534, 120, 163 y 500 m²., respectivamente, roles de avalúo 540-391 y 540-33, comuna de La Unión, para la obra Camino Ruta T - 75, Sector Chan Chan - Puerto Nuevo y se acordó precio de indemnización con sus propietarios Juan Castro Alvarez y Brisalia Uribe Solís, ascendentes a las cantidades de $ 352.991.- para el lote 3-A y $ 705.396.- para los lotes 7, 8 y 9.-
+
+Fiscal del Ministerio de Obras Públicas.
