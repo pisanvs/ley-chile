@@ -1,0 +1,5 @@
+Por Resolución N° 286 de 9 de marzo de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA BIO BIO LTDA., R.U.T. N° 84.902.900-2, para ampliar actividades pesqueras extractivas de la nave "Biomar II", autorizadas por las Resoluciones N° 269, de 1979, N° 141, de 1983 y N° 143, de 1990, todas de esta Subsecretaría, en orden a operar la nave "Biomar II", entre el límite norte de la I Región y el paralelo 41° 28,6' L.S., donde podrá extraer con arrastre, los siguientes recursos hidrobiológicos: Besugo, Lenguado de ojos chicos, Lenguado de ojos grandes y Raya.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 9 de marzo de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
