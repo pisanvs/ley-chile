@@ -1,0 +1,3 @@
+Por Decreto MOP. No. 548, de 29 de abril de 1998, se expropiaron los lotes de terreno No. s. 46, 47 y 48, superficies 397,50; 496 y 934,50 m2., respectivamente, rol de avalúo 174-1, comuna de Licantén, obra Camino Curicó Iloca, Ruta J-60, sector La Higuera Licantén-Variante Idahue y se acordó precio de indemnización con su propietario Carlos Veas Canales, ascendente a la cantidad de $ 632.918.
+
+- Fiscal del Ministerio de Obras Públicas.
