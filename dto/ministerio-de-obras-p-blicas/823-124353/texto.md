@@ -1,0 +1,5 @@
+Por decreto MOP. No. 823, de 25 de junio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP.
+
+No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropió el lote de terreno No. 3, para la obra Camino Ruta Q-496, sector Rihue-Negrete, Kms. 0.000 al 7.048, que figura a nombre de Leandro I. Fuentealba Sepúlveda, rol de avalúo 70-198, comuna de Negrete, superficie 768 m2. La Comisión de Peritos compuesta por los señores Jaime García Molina, Teodoro Medina Reyes y Luis Abarzúa Ceballos, fijó con fecha 20 de enero de 1997, el valor provisional de la indemnización en la cantidad de $ 240.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
