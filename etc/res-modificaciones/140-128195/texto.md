@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION QUE ORDENA EXPROPIACION DE INMUEBLE
+
+Por resolución Nº 140, de fecha 2 de diciembre de 1998, Serviu Sexta Región modificó resolución Nº 16, de fecha 2 de marzo de 1998, que ordenó expropiación inmueble ubicado en calle Freire 870, de aparente dominio de doña Raquel Moreno Navarro, Rol de Avalúo Nº 339-3, en el sentido que la superficie a expropiar se aumenta a 240 metros cuadrados, según Plano Serviu VI Región U.E.P.T. - 328, elaborado por la Dirección de Obras Municipales de Rancagua, Comisión Tasadora formada por peritos arquitectos Eduardo González Brard, Oscar Novoa Vargas y René Corvalán Correa, emitiendo anexo del Informe de marzo de 1998, fijando un valor de indemnización provisional en la cantidad de $83.286.880.- En todo lo no modificado rige resolución Nº 16 de fecha 2 de marzo de 1998.-
+
+Director Serviu Sexta Región.
