@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.181, de 31 de julio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº29, para la obra: ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal Sur. Tramo 1. Atravieso Los Maitenes Km. 89.150,00 a Km.
+
+89.800,00'', Quinta Región, que figura a nombre de Aguilera Corvalán Adela R., rol de avalúo 866-86, comuna de Villa Alemana, superficie 3.044 m2. La comisión de peritos integrada por los señores Claudia Paola Arellano Gómez, Marco Antonio Manríquez Castro y José Rogelio Alfredo Reyes Azancot, fijó con fecha 09 de junio de 2000, el valor provisional de la indemnización en la cantidad de $41.199.300.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
