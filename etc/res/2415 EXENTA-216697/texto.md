@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.415, de 8 de octubre de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Río Seco, Sector B, I Región, individualizada en el artículo 1º del decreto exento Nº 465 de 2003, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES BUZOS MARISCADORES, AYUDANTES Y AFINES DE CALETA RIO SECO.
+
+Valparaíso, 8 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
