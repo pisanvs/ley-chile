@@ -10046,11 +10046,15 @@ Partida 7365 -"Otras inversiones financieras".
 
 7.4. Ajuste mensual a valor de mercado de los instrumentos transables.
 
+7.4.1.- Diferencias con respecto a los valores de mercado que deben reconocerse contablemente.
+
 El importe de los ajustes para reconocer en los resultados las variaciones en los precios de mercado de los instrumentos con mercado secundario, se determinará estableciendo, para cada instrumento, la diferencia positiva o negativa entre su valor contable, esto es, su valor de compra más los reajustes e intereses calculados hasta el cierre del respectivo mes, y su valor de mercado establecido en la forma ya señalada en el N° 5 de este Capítulo.
 
 Para ese efecto, deben considerarse todos los instrumentos susceptibles de ajuste, esto es, todos los que tengan mercado secundario con excepción de aquellos cuyo plazo remanente para su vencimiento sea igual o inferior a un año, sea que aquellos se encuentren en cartera, registrados en las partidas 1705, 1730, 1710,1725 y 1735, o se trate de documentos vendidos con pacto de retrocompra y estén registrados, por lo tanto, en la partida 1740, según lo establecido en el N° 8 de este Capítulo.
 
-Previa reversión de las contabilizaciones efectuadas con este mismo propósito el mes anterior, se procederá a reconocer contablemente aquellas diferencias en la forma que se describe a continuación:
+7.4.2.- Ajuste contra los resultados.
+
+Previa reversión de las contabilizaciones efectuadas con este mismo propósito el mes anterior, se procederá a reconocer contablemente las diferencias antes mencionadas en la forma que se describe a continuación, salvo para los instrumentos de la cartera permanente que optativamente puede conformarse según lo previsto en el numeral 7.4.3 siguiente:
 
 a) Las diferencias, en moneda chilena o extranjera, se acreditarán o debitarán en las cuentas "Ajuste a valor de mercado de inversiones no reajustables", "Ajuste a valor de mercado de inversiones reajustables" o "Ajuste a valor de mercado de inversiones registradas en moneda extranjera", según sea el caso, las que formarán parte de la Partida 1750 "Ajuste a valor de mercado de inversiones transables", del rubro de Inversiones Financieras del Activo. No obstante, cuando se trate de letras de crédito de propia emisión, se utilizará la cuenta "Ajuste a valor de mercado de letras de crédito de propia emisión", de la misma partida 1750.
 
@@ -10059,6 +10063,46 @@ b) Al tratarse de ajustes registrados en moneda chilena, la contrapartida del ab
 c) La contrapartida del importe que se registre en moneda extranjera en la cuenta "Ajuste a valor de mercado de inversiones registradas en moneda extranjera", se imputará a la cuenta "Conversión ajuste a valor de mercado" de la partida 2510 ó 4510. En seguida se reconocerán los efectos del ajuste en las cuentas de resultado mencionadas en la letra b) precedente, con abono o cargo, según corresponda, a la cuenta "Cambio ajuste a valor de mercado de inversiones", de la partida 4510 ó 2510. Por consiguiente, los resultados por los ajustes a valor de mercado de las inversiones Financieras que se encuentren registradas en moneda extranjera se reconocerán en moneda corriente, pero en el activo quedará imputado el ajuste en la misma moneda en que se registra la inversión.
 
 d) A Fin de que en resultados quede reflejado el efecto neto de los ajustes a valor de mercado de la cartera de las inversiones Financieras, tanto por el ajuste del mes como por la reversión de los ajustes del mes o ejercicio anterior, se efectuará el traspaso que corresponda para reflejar el saldo neto deudor en la cuenta "Pérdida neta por ajuste a valor de mercado de inversiones transables" o el saldo neto acreedor en la cuenta "Utilidad neta por ajuste a valor de mercado de inversiones transables", de manera que una de ellas quedará sin saldo.
+
+7.4.3.- Procedimiento de ajuste para inversiones permanentes.
+
+Para los efectos de las presentes normas se entiende que son permanentes aquellas inversiones que corresponden a documentos que la institución inversionista mantiene con una clara intención de no enajenarlos en el corto plazo.
+
+Cuando las inversiones de esa especie deban ser ajustadas a su valor de mercado según lo previsto en el numeral 7.4.1, las instituciones financieras podrán adoptar, bajo las condiciones que a continuación se indican, la modalidad de ajuste a valor de mercado que luego se describe.
+
+7.4.3.1.- Condiciones para la aplicación de la modalidad de ajuste.
+
+a) Podrán ajustarse siguiendo la modalidad de que se trata, solamente los pagarés del Banco Central de Chile, los documentos del Instituto de Normalización Previsional (INP), los instrumentos emitidos por entidades extranjeras o internacionales y las letras de crédito emitidas por otros bancos. Además podrán ajustarse siguiendo esta modalidad las letras de crédito de propia emisión, siempre que el valor de mercado de las letras que se sujeten a ese procedimiento no superen el 10 % del capital básico.
+
+b) La institución financiera deberá conformar la cartera que quedará sujeta a este tratamiento contable y que se denominará "cartera permanente". En todo caso, la incorporación de los instrumentos elegidos para esta cartera, no obsta a su eventual enajenación.
+
+c) Los instrumentos que se incorporen a la cartera permanente no podrán ser excluidos posteriormente de ella, debiendo mantenerse dentro de dicha cartera hasta su venta o extinción.
+
+d) El valor de mercado del total de la cartera permanente no podrá superar el monto correspondiente al capital básico de la institución inversionista. Por consiguiente, no podrán incorporarse instrumentos a esa cartera una vez que se haya alcanzado ese límite.
+
+7.4.3.2.- Forma de contabilización del ajuste para las inversiones permanentes.
+
+Los ajustes a valor de mercado para las inversiones que conforman la cartera permanente según lo indicado precedentemente, se registrarán de la misma forma que se indica en el numeral 7.4.2, con la única diferencia de que los ajustes no se imputarán contra las cuentas de resultados, sino contra la cuenta "Fluctuación de valores de inversiones financieras", de la partida 4320.
+
+Los ajustes se cargarán o abonarán a esa cuenta, según corresponda, previa reversión del saldo que mantenga como consecuencia del ajuste efectuado en el mes precedente.
+
+Los instrumentos que se traspasen a la cartera permanente, esto es, aquellos que se incorporen con posterioridad a su adquisición, deberán ser objeto de un ajuste a su valor contable, debiendo tomarse su valor de mercado y la fecha del traspaso como valor de compra y fecha de compra, respectivamente, para los efectos del devengo posterior de reajustes e intereses y los consiguientes ajustes a valor de mercado bajo la nueva modalidad que le regirá a contar de esa fecha. En ningún caso ese traspaso dará origen a una reversión de los resultados ya registrados hasta la fecha del traspaso por esos conceptos.
+
+7.4.3.3.- Cómputo del capital básico.
+
+Conforme a lo establecido en el Capítulo 12-1 de la Recopilación Actualizada de Normas, el saldo deudor o acreedor de la cuenta "Fluctuación de inversiones financieras" antes mencionada debe computarse para determinar el capital básico.
+
+Para la aplicación del límite a que se refiere la letra d) del numeral 7.4.3.1, debe entenderse que el capital básico incluye el efecto de los ajustes a valor de mercado de la cartera permanente que se compara con él.
+
+7.4.3.4.- Sucursales en el exterior.
+
+Los bancos que mantengan sucursales en el exterior deberán aplicar el límite mencionado en la d) del numeral 7.4.3.1 considerando el monto del capital básico deducido el capital asignado a ellas.
+
+Para los efectos de consolidación contable con las sucursales en el exterior, la modalidad de contabilización para inversiones permanentes puede ser considerada como un criterio contable homologable, en cuyo caso el límite antes mencionado, en lo que concierne a las inversiones de una sucursal, debe entenderse en relación con su capital asignado.
+
+No obstante lo indicado en los párrafos precedentes, podrá aplicarse dicho criterio en el balance de la sucursal preparado de acuerdo a normas chilenas, prescindiendo del límite en relación con su capital asignado, cuando el valor de mercado de la cartera permanente de las sucursales, sumada a la que mantiene la matriz, no superen el capital básico sin deducir el capital asignado. En este caso, el límite de la cartera permanente elegible para la matriz quedará reducido al monto del capital básico menos el importe de la cartera permanente de la sucursal.
+
+La cuenta "Fluctuación de valores de inversiones financieras" será utilizada también para reconocer el efecto de la disminución patrimonial directa en el cálculo del Valor Patrimonial Proporcional de las sucursales en el exterior, cuando se homologue el criterio contable de que se trata.
 
 7.5. Resultados por la venta de instrumentos.
 
@@ -10158,7 +10202,7 @@ Las provisiones que se constituyan según lo señalado en el N° 6 de este Capí
 
 ### 12. Sistemas de información y control
 
-Para el tratamiento contable dispuesto en este Capítulo, se da por entendido que las instituciones financieras deben utilizar sistemas de información y control que permitan, a lo menos: la individualización de cada inversión o instrumento, la fecha y la tasa de compra, sus valores nominal, par, contable y de mercado al cierre de un mes y la situación en que se encuentran los respectivos documentos, esto es, si se encuentran disponibles para la venta o si, por el contrario, están entregados en garantía, se encuentran enajenados al Banco Central de Chile con pacto de retroventa vigente o están intermediados (cedidos a terceros con pacto de recompra).
+Para el tratamiento contable dispuesto en este Capítulo, se da por entendido que las instituciones financieras deben utilizar sistemas de información y control que permitan, a lo menos: la individualización de cada inversión o instrumento, la fecha y la tasa de compra, sus valores nominal, par, contable y de mercado al cierre de un mes y la situación en que se encuentran los respectivos documentos, esto es, si corresponden o no a la cartera permanente para efectos de su ajuste a valor de mercado, si se encuentran disponibles para la venta o si, por el contrario, están entregados en garantía, se encuentran enajenados al Banco Central de Chile con pacto de retroventa vigente o están intermediados (cedidos a terceros con pacto de recompra).
 
 Por otra parte, las instituciones financieras deben tener presente que las cuentas que se disponen en este Capítulo corresponden sólo a aquellas que deben ser informadas a esta Superintendencia, lo que no impide el uso de subcuentas para sus propias necesidades de información o adecuadas a los sistemas que utilicen. Se entiende, naturalmente, que la apertura de cuentas en la contabilidad de cada institución considerará también el tipo de reajustabilidad y la moneda que corresponda.
 
