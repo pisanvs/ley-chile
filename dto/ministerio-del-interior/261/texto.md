@@ -1,3 +1,11 @@
+DECRETO N° 261, DE 7 DE MARZO DE 1980 MINISTERIO DEL INTERIOR Aprueba el reglamento para la aplicación de los artículos 7°, 8° y 9° del decreto ley 3.063, de 1979, sobre Rentas Municipales, en lo relativo al cobro del servicio domiciliario por extracción de basuras (Publicado en el "Diario Oficial" N° 30.624, de 25 de marzo de 1980)
+
+NUM. 261.- Santiago, 7 de marzo de 1980.- Visto: Lo dispuesto en el artículo 7°, inciso 2°, del decreto ley 3.063, de diciembre de 1979, y en uso de las facultades que me confieren los decretos leyes 1 y 9, de 1973; 527 y 806, de 1974,
+
+DECRETO:
+
+Apruébase el siguiente Reglamento que fija las condiciones generales por las que cada Municipalidad determinará la tarifa correspondiente al servicio domiciliario por extracción de basura.
+
 #### Artículo 1°
 
 La fijación de tarifas o montos del derecho que las Municipalidades cobrarán por el servicio domiciliario de extracción de basura, de acuerdo a lo que disponen los artículos 6°, 7°, 8° y 9° del decreto ley 3.063, de 1979, se regirá por las normas del presente Reglamento.
@@ -98,7 +106,7 @@ No obstante lo anterior, las Municipalidades están facultadas para contratar co
 
 #### Artículo 15°
 
-El monto de las tarifas que se determinen conforme al artículo 7° y se comuniquen al Servicio de Impuestos Internos o al de Tesorerías, según el caso, en cumplimiento del artículo 13° del presente reglamento, se ajustará por dichos Servicios aplicándole un porcentaje de aumento igual a la variación del Indice de Precios al Consumidor entre el 1° de julio y el 31 de diciembre del año en que se comuniquen. El valor así determinado regirá como tasa del derecho por el primer semestre del año respectivo. Por el segundo semestre, regirá ese valor incrementado en el mismo porcentaje de variación del I.P.C. durante el primer semestre. En la determinación de las sumas reajustadas se depreciarán las fracciones de pesos.
+El monto de las tarifas que se determinen conforme al artículo 1° y se comuniquen al Servicio de Impuestos Internos o al de Tesorerías, según el caso, en cumplimiento del artículo 13° del presente Reglamento, se ajustará por dichos Servicios aplicándole un porcentaje de aumento igual a la variación del Indice de Precios al Consumidor entre el 1° de Julio y el 31 de Diciembre del año en que se comuniquen. El valor así determinado regirá como tasa del derecho por el primer semestre del año respectivo. Por el segundo semestre, regirá ese valor incrementado en el mismo porcentaje de variación del I.P.C. durante el primer semestre. En la determinación de las sumas reajustadas se depreciarán las fracciones de pesos.
 
 #### Artículo 1°
 
