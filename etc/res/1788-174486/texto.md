@@ -1,0 +1,3 @@
+Por resolución Nº1.788 de 14 de agosto de 2000 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº98110167, presentada por HUMBERTO JOSE FISCHER LLOP, para instalar y operar el centro de cultivo ubicado en Isla Jesús, Sector Suroeste de la Isla, Comuna de Cisnes, Provincia de Aysén, XI Región.
+
+Valparaíso, 14 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
