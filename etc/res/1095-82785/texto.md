@@ -1,0 +1,5 @@
+CADUCA RESOLUCIONES QUE INDICA
+
+Por Resolución No. 1.095 de 07 de Septiembre de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad conforme al artículo 6°, del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, las siguientes Resoluciones: a) Resolución No. 1.014, de 1989, de esta Subsecretaría, que autorizó a Sociedad Reyes del Mar Limitada, RUT No. 79.683.810-8, domiciliada en la ciudad de Talcahuano, para desarrollar actividades pesqueras de extracción. b) Resolución No. 1.765, de 1989, de esta Subsecretaría, que modificó el numeral 2° de la Resolución No. 240, de 1989, de esta Subsecretaría, que autorizó a Pesquera Amancay Ltda., RUT No. 79.525.960-9, domiciliada en la ciudad de Copiapó, para desarrollar actividades pesqueras de extracción.
+
+Valparaíso, 07 de Septiembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
