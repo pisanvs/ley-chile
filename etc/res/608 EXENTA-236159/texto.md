@@ -1,0 +1,3 @@
+Por resolución exenta Nº 608, de 2 de marzo de 2005, de esta Subsecretaría, recházase la solicitud de autorización de acuicultura Nº 200102009 presentada por SOCIEDAD EXTRACTORA Y COMERCIALIZADORA DE PRODUCTOS DEL MAR, AGROPECUARIOS Y FORESTALES LIMITADA, para instalar y operar una piscicultura en un terreno privado localizado en Estero Quechuco, X Región.
+
+Valparaíso, 2 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
