@@ -1,0 +1,5 @@
+Por resolución exenta No. 2.774 de fecha 25 de octubre de 1989 de la Subsecretaría de Educación, se autoriza al Centro de Formación Técnica EATRI de Santiago, para impartir en forma optativa en dos semestres académicos o en cuatro semestres académicos las asignaturas de Plan Período Previo o el Segundo Idioma Extranjero de Apoyo, manteniendo idénticas características curriculares de las carreras aprobadas por resolución exenta de Educación No. 762 de 1982, modificada por resolución exenta de Educación No. 760 de 1983; 157 de 1985 y No. 3.357 de 1988, a partir del año 1984.
+
+Por este mismo cuerpo legal, se aprobaron las modificaciones a las normas de evaluación, promoción y titulación, para ser aplicadas a partir del segundo semestre del año 1989.
+
+Santiago, 07 de Agosto de 1990.- Raúl Allard Neumann, Subsecretario de Educación.
