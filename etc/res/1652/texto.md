@@ -1,0 +1,3 @@
+Por Resolución Nº 1.652, de 2 de diciembre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto el número 2, del numeral primero de la Resolución 923, de 1988, que autorizó a don JUAN AGUSTIN NEIRA ALTAMIRANO, don Luis Saavedra ManrIquez, don Moises Gallardo Vega y don Oscar Adriano Vidal Palma, todos domiciliados para estos efectos en Población La Gloria, calle Los Araucanos Nº 1228, San Vicente Talcahuano, en virtud del cambio de Matrícula de la nave, que corresponde hoy, a la Nº 2952, de Valdivia.
+
+Valparaíso, 2 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
