@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.687, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº1, superficie 6.756,7 m², rol de avalúo 502-53, comuna de Saavedra, IX Región, para la obra ''Camino Costero Sur, Sector Tranapuente - Puerto Saavedra - Porma, Tramo Tranapuente - Puerto Saavedra - Chelle, Km. 53,250000 al 56,315096 y Km. 65,260000 al 100,240000, Subtramo IV Km. 70,500 al 72,593'' y se acordó el valor de indemnización con su propietaria doña Enriqueta Millavil Filumil, ascendente a la cantidad de $6.843.237.-
+
+Fiscal del Ministerio de Obras Públicas.
