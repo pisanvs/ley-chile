@@ -1,0 +1,3 @@
+Por resolución Nº 1.639, de 31 de agosto de 1999, de esta Subsecretaría, autorízase a PATAGONIA SALMON FARMING S.A. para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 873, de 1995, Nº 33 y Nº 1.790, ambas de 1998, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Bahía Ilque s/n, comuna de Puerto Montt, provincia de Llanquihue, X Región, en las líneas de procesamiento de Fresco-Refrigerado y Congelado el recurso hidrobiológico Bacalao de profundidad.
+
+Valparaíso, 31 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
