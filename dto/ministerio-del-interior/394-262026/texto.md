@@ -638,7 +638,7 @@ INDEMNIZACIONES
 
 #### Artículo 26
 
-1.- Cuando se extravíe o se pierda una pieza recomendada, salvo casos de fuerza mayor, el remitente percibirá una indemnización de cien pesos ($ 100), y, cuando se haya cubierto el derecho de fuerza mayor establecido en la letra e) del inciso 4 del artículo 21 del presente Reglamento, tendrá derecho a una indemnización de doscientos posos ($ 200).
+1.- Cuando se extravíe o se pierda una pieza recomendada, salvo casos de fuerza mayor, el remitente percibirá una indemnización de veinte veces el valor del primer porte de una carta ordinaria sencilla, y, cuando se haya cubierto el derecho de fuerza mayor establecido en la letra e) del inciso 4 del artículo 21 del presente Reglamento, tendrá derecho a una indemnización de cuarenta veces el valor del primer porte de una carta ordinaria sencilla.
 
 2.- Las indemnizaciones a que se refiere el inciso 1 del presente artículo serán abonadas por la o las oficinas que resulten responsables, excepto en aquellos casos en que se haya pagado el importe del riesgo de seguro, en los cuales se cancelará la diferencia con cargo a los fondos especiales del Servicio.
 
