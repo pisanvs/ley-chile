@@ -1,0 +1,3 @@
+Por decreto MOP Nº950 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº56, superficie 160 m², Rol de Avalúo Nº206-196, comuna de Coelemu, para la obra ''Camino Ruta O-170, O-176, acceso a Guarilihue, tramo I, Km. 0,00000 a Km. 8,28000'', VIII Región y se acordó el valor de indemnización con su propietaria María Odilia Pino Flores, ascendente a la cantidad de $4.497.794.-
+
+Fiscal del Ministerio de Obras Públicas.
