@@ -1,0 +1,9 @@
+Ciudadanía chilena a favor de los naturales del país.
+
+El Director Supremo del Estado de Chile de acuerdo con el Excmo. Senado.
+
+El Gobierno español, siguiendo las máximas de su inhumana política, conservó a los antiguos habitantes de la América bajo la denominación degradante de Naturales. Era esto una raza abyecta, que pagando un tributo anual, estaba privada de toda representación política, i de todo recurso para salir de su condición servil. Las Leyes de Indias colorían estos abusos, disponiendo que viviesen siempre en clases de menores bajo la tutela de un funcionario titulado Protector Jeneral de naturales. En una palabra nacían esclavos, vivian sin participar de los beneficios de la sociedad, i morian cubiertos de oprobio i miseria. El sistema liberal que ha adoptado Chile no puede permitir que esa porción preciosa de nuestra especie continúe en tal estado de abatimiento. Por tanto, declaro que para lo sucesivo deben ser llamados ciudadanos chilenos, i libres como los demas habitantes del Estado con quienes tendrán igual voz i representación, concurriendo por sí mismos a celebrar toda clase de contratos, a la defensa de sus causas, a contraer matrimonio, a comerciar, a elegir las artes a que tengan inclinación, i a ejercer la carrera de las letras i de las armas, para obtener los empleos políticos i militares correspondientes a su aptitud. Quedan libres desde esta fecha a la contribución de tributos. Por consecuencia de su igualdad con todo ciudadano, aun en lo que no se esprese en este decreto, deben tener parte en las pensiones de todos los individuos de la sociedad para el sosten, i defensa de la madre Patria. Queda suprimido el empleo de protector general de naturales como innecesario.
+
+- Tómese razón de este decreto en las oficinas respectivas, publíquese, imprímase i circúlese.
+
+Palacio Directorial de Santiago de Chile, 4 de Marzo de 1819.- O'Higgins.- Echeverría.
