@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.303, de 25 de agosto de 2004, de esta Subsecretaría, autorízase a LUIS HERNAN CARVAJAL JOPIA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Km. 920, Obispito, Caldera, III Región, donde podrá procesar en las líneas de proceso de cocido, fresco-enfriado, fresco-refrigerado, congelado, seco-salado, ahumado, harina y alga seca, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 25 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
