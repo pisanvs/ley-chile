@@ -1,0 +1,3 @@
+Por resolución No. 488, de 29 de Mayo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año, a contar de la fecha de esta resolución el plazo otorgado a PESQUERA DEL CABO S.A., RUT No. 96.520.580-2, domiciliada en la ciudad de Concepción, en el numeral 5° de la resolución No. 536, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 29 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
