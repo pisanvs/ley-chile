@@ -1,0 +1,3 @@
+Por resolución exenta Nº 228, de 21 de enero de 2004, de esta Subsecretaría, autorízase a LUSVENIA DEL CARMEN GARCIA TORREJON, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Dolores Endeiza Nº 173, Tongoy, Coquimbo, IV Región, donde podrá elaborar en las líneas de proceso de cocido, fresco-enfriado, fresco-refrigerado y congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 21 de enero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
