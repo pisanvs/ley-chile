@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.097, de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 175, superficie 519 m², rol Nº 32-467, comuna de Pichidegua, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, tramo Km. 12,30000 a Km. 26,00400", VI Región y se acordó el valor de la indemnización con su propietario Heriberto del Carmen González Niño, ascendente a la cantidad de $3.191.933.
+
+Fiscal del Ministerio de Obras Públicas.
