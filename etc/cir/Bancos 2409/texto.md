@@ -16466,8 +16466,6 @@ El "capital básico" o capital pagado y reservas comprende el capital pagado, la
 
 Para los efectos de la aplicación de los márgenes referidos al capital pagado y reservas, mencionados en el numeral 5.1 de este título, se deducirá el capital asignado a las sucursales en el exterior, señalado en la letra a) del numeral 2.1 de este título.
 
-Por otra parte, para los efectos del cálculo del importe máximo de bonos subordinados a que se refiere el artículo 66 de la Ley General de Bancos, deberán deducirse, además del capital asignado a sucursales en el exterior, los importes correspondientes a inversiones en sociedades, aludidos en la letra b) del numeral 2.1 de este título.
-
 2.- Patrimonio efectivo.
 
 De acuerdo con el artículo 66 de la Ley General de Bancos, se entiende por "patrimonio efectivo" el capital pagado y reservas, con las deducciones y agregados que se indican a continuación:
