@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº866, de fecha 31 de mayo de 2002, se expropiaron los lotes de terreno Nº39 y 42, superficies 85,5 y 270 m2., rol de avalúo Nº61-39, comuna de Futrono, para la obra ''Camino Ruta T-55, Sector Futrono - Llifén, Tramo Km. 55,300 al 75,76384'', X Región y se acordó el valor de indemnización con su propietaria María Selma Huenupan, ascendente a la cantidad de $2.009.041.
+
+Fiscal del Ministerio de Obras Públicas.
