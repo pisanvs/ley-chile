@@ -1,0 +1,3 @@
+Por resolución Nº 1.908, de 11 de septiembre de 2001, de esta Subsecretaría, autorízase a COMERCIAL E INDUSTRIAL DEL SUR S.A. para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 446 de 1993 y Nº 1.817 de 2000, ambas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Puerto Montt, Tepual Km. 9,8, provincia de Llanquihue, X Región, autorizada por las resoluciones señaladas precedentemente, en las líneas de elaboración de congelado, fresco-refrigerado, fresco-enfriado, seco-salado, ahumado, el recurso hidrobiológico Tollo de cachos.
+
+Valparaíso, 11 de septiembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
