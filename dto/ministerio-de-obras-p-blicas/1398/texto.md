@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.398, de 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs.6, 7 y 25 superficies 2, 8 y 365 m2., respectivamente, roles de avalúo 99-57 y 341-2, comuna de La Ligua, para la obra Camino Ruta E-39, sector Quínquimo - El Rayado y se acordó precio de indemnización con sus propietarias María Zavala del Real y Emma Romero Jamett, ascendentes a las cantidades de $551.178 y $1.278.816.-
+
+Fiscal del Ministerio de Obras Públicas.
