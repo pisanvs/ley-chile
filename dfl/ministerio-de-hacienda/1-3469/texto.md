@@ -30,9 +30,9 @@ El Consejo de Defensa del Estado tiene por objeto, principalmente la defensa jud
 
 #### Artículo 3°
 
-Las funciones del Consejo de Defensa del Estado son, sin perjuicio de las otras que le señalen las leyes, las siguientes:
+Las funciones del Consejo de Defensa del Estado son, sin perjuicio de la otras que le señalen las leyes, las siguientes:
 
-1.- La defensa del Fisco en todos los juicios y en los actos no contenciosos de cualquier naturaleza, sin perjuicio de la que corresponda, de acuerdo con la ley, a los abogados de otros servicios públicos.
+1.- La defensa del Fisco en todos los juicios y en los actos no contenciosos de cualquier naturaleza, sin perjuicio de la que corresponda, de acuerdo con la ley, a los abogados de otros servicios públicos y en las gestiones judiciales y administrativas previas al ejercicio de una acción penal que correspondiera ejercer o sostener al Consejo y cuando, a juicio del mismo, se justifique su intervención.
 
 2.- La defensa del Estado en los juicios que afecten a bienes nacionales de uso público, cuando la defensa de estos bienes no corresponda a otros organismos.
 
@@ -40,13 +40,9 @@ Le corresponderá también, el examen legal de los títulos de las propiedades f
 
 3.- La defensa en los juicios en que tengan algún interés los servicios de la administración descentralizada del Estado o las entidades privadas en que el Estado tenga aporte o participación mayoritarios, siempre que el respectivo servicio jurídico no esté en condiciones de asumir convenientemente tal función, circunstancia que en cada caso calificará el Consejo.
 
-4.- Ejercer la acción penal, tratándose de delitos que pudieren acarrear perjuicios económicos para el Fisco u organismos del Estado.
+4.- El ejercicio y sostenimiento de la acción penal, tratándose de delitos que pudieren acarrear perjuicios económicos para el Estado, los gobiernos regionales, las municipalidades, las instituciones o servicios descentralizados territorial o funcionalmente, o a las entidades de derecho privado en que el Estado o sus instituciones tengan aportes o participación mayoritarios o igualitarios, tratándose especialmente, de los delitos indicados en el artículo 4°.
 
-El Consejo ejercerá la acción penal tratándose, especialmente, de delitos tales como malversación o defraudación de caudales públicos y aquellos que importen sustracción, pérdida o fraude de fondos del Fisco, organismos del Estado o de las entidades de derecho privado a las que el Estado o sus instituciones hagan aportes o subvenciones o en las cuales tengan participación mayoritaria o igualitaria.
-
-5.- Ejercer la acción penal, tratándose de delitos cometidos en el desempeño de sus funciones o empleos por funcionarios públicos o empleados de organismos del Estado, de la Administración del Estado, de los gobiernos regionales, de las municipalidades, o de las instituciones o servicios descentralizados funcional o territorialmente.
-
-El Consejo ejercerá la acción penal tratándose, especialmente, de delitos tales como cohecho, soborno y negociación incompatible.
+5.- El ejercicio y sostenimiento de la acción penal, cuando así lo acuerde el Consejo, tratándose de los delitos contemplados en el artículo 5°.
 
 6.- La supervigilancia de la conducción de la defensa de los procesos a cargo de los servicios públicos de la Administración del Estado, de los gobiernos regionales, de las municipalidades, de las instituciones o servicios descentralizados territorial o funcionalmente y de las entidades de derecho privado en que el Estado o sus instituciones tengan aportes o participación mayoritarios o igualitarios, por acuerdo del Consejo.
 
@@ -64,27 +60,43 @@ Asimismo, podrá acordar asumir la defensa de los agentes públicos o empleados 
 
 #### Artículo 4°
 
-DEROGADO
+El Consejo de Defensa ejercerá la acción penal determinada en el artículo 3°, N°4, tratándose especialmente de delitos tales como:
+
+a) Malversación o defraudación de caudales públicos;
+
+b) Delitos que importan sustracción, pérdida o fraudes de fondos del Estado o de las corporaciones, organismos, entidades o empresas mencionadas en el N°4 del artículo 3°, o entregados a otras instituciones o personas como aportes o subvenciones;
+
+c) Falsificación, cohecho, soborno u otros delitos semejantes;
+
+d) Simples delitos previstos en el Código Tributario, sin perjuicio de las atribuciones que corresponden al Servicio de Impuestos Internos;
+
+e) Crímenes y simples delitos establecidos en la Ley de Cambios Internacionales y en otras disposiciones que regulen el comercio exterior, todo ello sin perjuicio de las facultades que corresponden al Banco Central de Chile.
 
 #### Artículo 5°
 
-DEROGADO
+La función que indica el artículo 3°, N°5, la ejercerá el Consejo de Defensa del Estado tratándose de los siguientes delitos: a) Crímenes y simples delitos contra la fe pública, contemplados en el Título IV, párrafos 1,2,3,4 y 6 del Libro Segundo del Código Penal;
+
+b) Crímenes y simples delitos cometidos por funcionarios públicos o empleados de la Administración del Estado, de los gobiernos regionales, de las municipalidades, de las instituciones o servicios descentralizados territorial o funcionalmente, o de las entidades de derecho privado en que el Estado o sus instituciones tengan aportes o participación mayoritarios o igualitarios, en el desempeño de sus funciones o cargos;
+
+c) Crímenes y simples delitos contra la salud pública, sin perjuicio de las atribuciones que correspondan a los organismos o a las autoridades de la salud;
+
+d) Delitos relativos a la elaboración o tráfico de sustancias estupefacientes o sicotrópicas; o al uso, destino o aprovechamiento de los beneficios que de ellos provengan, cuando, a juicio del Consejo, se trate de hechos que puedan causar grave daño social, y
+
+e) Otros crímenes o simples delitos cuando así lo acuerde el Consejo por las tres cuartas partes de sus miembros en ejercicio, por tratarse de hechos que puedan originar grave daño social o cuando sea conveniente para los intereses del Estado o de la sociedad.
 
 #### Artículo 6°
 
-Si alguno de los delitos a que se refiere el artículo 3°, N° 4, afectare a organismos del Estado, a los gobiernos regionales, a las municipalidades, a las instituciones o servicios descentralizados funcional o territorialmente, o a las entidades de derecho privado a las que el Estado o sus instituciones hagan aportes o subvenciones o en las cuales tengan participación mayoritaria o igualitaria, el Consejo de Defensa del Estado acordará el ejercicio de la acción siempre que, en su concepto, haya especial conveniencia en ello.
+Si alguno de los delitos a que se refiere el artículo 3° N° 4 afectare a los gobiernos regionales, a las municipalidades, a las instituciones o servicios descentralizados territorial o funcionalmente, o a las entidades de derecho privado en que el Estado o sus instituciones tengan aportes o participación mayoritarios o igualitarios, el Consejo de Defensa del Estado sostendrá la acción siempre que, en su concepto, haya especial conveniencia en ello.
 
-El Consejo de Defensa del Estado sólo podrá interponer querella respecto de hechos constitutivos de delitos en que las leyes requieren denuncia o querella del Servicio de Impuestos Internos, cuando así lo solicite este Servicio.
+Las acciones derivadas de delitos en que las leyes requieren intervención del Servicio de Impuestos Internos, podrán ser ejercidas por el Consejo de Defensa del Estado cuando dicho organismo no haya intervenido. Ocurrida dicha intervención, el Consejo podrá cesar en ella o continuar actuando separadamente.
 
-En ese caso, y en todos aquellos en que el Consejo de Defensa del Estado ejerza la acción penal que también corresponda a otros órganos distintos del Ministerio Público, cesará la facultad de representación de éstos en el respectivo procedimiento.
+Salvo lo dispuesto en el inciso anterior, cuando el Consejo de Defensa del Estado ejercite o sostenga una acción cuyo ejercicio corresponda al propio Consejo y también a otros funcionarios, cesará la facultad de representación de éstos en el respectivo proceso.
 
 #### Artículo 7°
 
 El Consejo de Defensa del Estado, con el voto de las tres cuartas partes de sus miembros en ejercicio y en sesión especialmente convocada con tal objeto, podrá acordar transacciones en los procesos en que intervenga. En el acta de la sesión en que se adopte el acuerdo de transigir deberá dejarse constancia de los fundamentos que se tuvieron para ello.
 
-Del mismo modo, podrá aprobar la celebración de acuerdos reparatorios en los procedimientos penales en que intervenga como querellante.
-
-Podrá también, con el voto de la mayoría de los miembros en ejercicio, aceptar el pago en cuotas de las deudas que le corresponda cobrar, aun en los casos que éstas consten en sentencias ejecutoriadas. El Consejo fijará el número de cuotas en que se dividirá la deuda y las épocas de pago y determinará, en el mismo acto, el reajuste y el interés con que aquélla deberá solucionarse, pudiendo eximir de intereses, sean éstos futuros o ya devengados, al obligado, si sus facultades económicas lo justificaren.
+Podrá también, con el voto de la mayoría de los miembros en ejercicio, aceptar el pago en cuotas de las deudas que le corresponda cobrar, aun en los casos que éstas consten en sentencias ejecutoriadas. El Consejo fijará el número de cuotas en que se dividirá la deuda y las épocas de pago y determinará, en el mismo acto, el reajuste y el interés con que aquella deberá solucionarse, pudiendo eximir de intereses, sean éstos futuros o ya devengados, al obligado, si sus facultades económicas lo justificaren.
 
 Tratándose de asuntos que afecten a los gobiernos regionales, a las municipalidades, a los servicios descentralizados de la Administración del Estado o a los organismos privados en que el Estado o sus instituciones tengan aporte o participación mayoritarios o igualitarios, se requerirá además el consentimiento de la entidad respectiva.
 
@@ -114,9 +126,7 @@ Los órganos del Consejo de Defensa del Estado serán el Consejo, el Presidente 
 
 El Consejo tendrá un Secretario-Abogado que será, al mismo tiempo, Secretario del Servicio.
 
-Tendrá el carácter de ministro de fe en el desempeño de todas sus funciones.
-
-> **Nota.** El artículo 1º transitorio de la LEY 19646, establece que la modificación a este artículo rige a partir del 1º de enero de 1999.
+Tendrá el carácter de ministro de fe en el desempeño de todas sus funciones y será el Jefe del Personal.
 
 1) Del Consejo
 
@@ -184,9 +194,7 @@ Lo dispuesto en este artículo es sin perjuicio de lo prescrito en el artículo 
 
 Prohíbese al Presidente del Consejo de Defensa del Estado ejercer la profesión de abogado en la defensa de particulares en juicios que se sigan ante cualquier tribunal.
 
-INCISO DEROGADO
-
-> **Nota.** El artículo 1º transitorio de la LEY 19646, establece que la modificación a este artículo rige a partir del 1º de enero de 1999.
+Otórgase al Presidente del Consejo de Defensa del Estado una asignación especial mensual, cuyo monto será equivalente al treinta por ciento del total de la remuneración bruta que le corresponda por el desempeño de su cargo.
 
 3) De los Departamentos
 
@@ -236,7 +244,7 @@ Si no recibieren oportunamente instrucciones, contestarán las demandas y harán
 
 No regirá lo dispuesto en el inciso primero del artículo anterior en los procesos cuya cuantía no exceda de cien unidades tributarias mensuales, ni en aquellos en que la brevedad del emplazamiento impida la consulta, debiendo, en ambos casos, darse cuenta inmediata al Presidente de las gestiones realizadas.
 
-Tampoco serán consultadas las demandas que se entablaren en procesos derivados de los contratos de arrendamiento, las solicitudes de preparación de la vía ejecutiva y las demandas que se funden en dicha preparación.
+Tampoco serán consultadas, las contestaciones de demandas de cobro de honorarios regidas por el artículo 245° del Código de Procedimiento Penal, las demandas que se entablaren en procesos derivados de los contratos de arrendamiento, las solicitudes de preparación de la vía ejecutiva y las demandas que se funden en dicha preparación.
 
 Estarán, asimismo, obligados a interponer los recursos ordinarios en contra de las resoluciones desfavorables que recaigan en los asuntos a su cargo, a menos de recibir instrucciones superiores en contrario.
 
@@ -326,7 +334,7 @@ Fiscal de Santiago
 
 Abogado Procurador 2° 1
 
-Fiscal de Valparaiso
+Fiscal de Valparaíso
 
 Abogado Procurador 2° 1
 
@@ -346,21 +354,19 @@ Jefe de Estudios y 3° 1
 
 Planificación
 
-Jefe de Departamento
+Jefe de
 
-de Control de Tráfico
-
-Ilícito de
-
-Estupefacientes 3° 1
-
-Jefe de 5° 1
+Subdepartamento 6° 1
 
 Procuraduría Corte
 
 Suprema y Tribunales
 
-Superiores
+Superiores de la
+
+Procuraduría Fiscal
+
+de Santiago
 
 Jefe de
 
@@ -400,7 +406,9 @@ Jefe de
 
 Subdepartamento 6° 1
 
-Administrativo
+Personal, Bienestar
+
+y Administrativo
 
 Jefe de 6° 1
 
@@ -410,31 +418,29 @@ de Legislación y
 
 Biblioteca
 
+Jefe de Sección de 7° 1
+
+Presupuesto
+
 Jefe de Sección 7° 1
 
-Jefe de Oficina 8º 1
-
-de Partes,
-
-Archivo General
-
-e Informaciones
+Jefe de Oficina 9° 4
 
 Jefe de Oficina 11° 3
 
-TOTAL PLANTA DIRECTIVA 50
+TOTAL PLANTA DIRECTIVA 49
 
 PROFESIONALES
 
 Profesional 4° 18
 
-Profesional 5° 21
+Profesional 5° 20
 
-Profesional 6° 25
+Profesional 6° 22
 
-Profesional 7° 19
+Profesional 7° 18
 
-Profesional 8° 8
+Profesional 8° 7
 
 Profesional 9° 2
 
@@ -442,21 +448,21 @@ Profesional 10° 1
 
 Profesional 12° 1
 
-TOTAL PLANTA PROFESIONAL 95
+TOTAL PLANTA PROFESIONAL 89
 
 TECNICOS
 
 Técnico 8° 1
 
-Técnico 9° 3
+Técnico 9° 2
 
 Técnico 10° 3
 
 Técnico 12° 1
 
-Técnico 15° 6
+Técnico 15° 5
 
-Técnico 16° 4
+Técnico 16° 3
 
 Técnico 17° 10
 
@@ -464,15 +470,13 @@ Técnico 18° 14
 
 Técnico 19° 8
 
-TOTAL PLANTA TECNICA 50
+TOTAL PLANTA TECNICA 47
 
 ADMINISTRATIVOS
 
 Administrativo 10° 4
 
-Administrativo 12° 1
-
-Administrativo 14° 5
+Administrativo 14° 4
 
 Administrativo 15° 5
 
@@ -492,11 +496,11 @@ Administrativo 24° 2
 
 Administrativo 25° 2
 
-TOTAL PLANTA ADMINISTRATIVA 59
+TOTAL PLANTA ADMINISTRATIVA 57
 
 AUXILIARES
 
-Auxiliar 20° 4
+Auxiliar 20° 3
 
 Auxiliar 21° 4
 
@@ -508,7 +512,7 @@ Auxiliares 24° 6
 
 Auxiliares 25° 3
 
-TOTAL PLANTA AUXILIAR 25
+TOTAL PLANTA AUXILIAR 24
 
 DEPARTAMENTO DE DEFENSA DE LA LEY DE
 
@@ -532,7 +536,7 @@ Abogado 6° 5
 
 Abogado 8° 1
 
-TECNICOS
+TÉCNICOS
 
 Técnico 17° 1
 
@@ -552,13 +556,7 @@ TOTAL CARGOS DEPARTAMENTO 32
 
 TOTAL CARGOS 298
 
-> **Nota.** El artículo 14 de la Ley N° 19646, publicada el 13.11.1999, modifica el presente artículo en el sentido de crear en la planta de Directivos, un cargo de Jefe de Departamento de Administración General, grado 3º; un cargo de Jefe de Subdepartamento de Planificación y Evaluación, grado 4º; tres cargos de Jefe de Unidad, grado 4º; un cargo Jefe de Subdepartamento de Recursos Humanos grado 6º; un cargo de Jefe de Subdepartamento de Informática, grado 6º, y un cargo de Jefe de Subdepartamento de Contabilidad y Presupuestos, grado 6º; y en la planta de Profesionales, cuatro cargos grado 7º. De acuerdo al artículo 1º transitorio de la referida ley, estas modificaciones rigen a partir del 1° de diciembre de 1999.
-
-> **Nota.** NOTA: 1 La letra b) del artículo 15 de la Ley N° 19646, publicada el 13.11.1999, modifica el presente artículo en el sentido de sustituir las denominaciones y grados de los cargos de la Planta Directiva, de acuerdo a lo siguiente: 1. Jefe de Sección de Presupuesto, grado 7º E.U.S., por Jefe de Sección, grado 7º E.U.S.; 2. Jefe de Subdepartamento de Personal, Bienestar y Administrativo, grado 6º E.U.S., por Jefe de Subdepartamento Administrativo, grado 6º E.U.S.; 3. Un cargo de Jefe de Oficina grado 9º E.U.S., por Jefe de Oficina de Partes, Archivo General e Informaciones, grado 8º E.U.S; y 4. Jefe de Subdepartamento Procuraduría Corte Suprema y Tribunales Superiores de la Procuraduría Fiscal de Santiago, grado 6º E.U.S., por Jefe de Procuraduría Corte Suprema y Tribunales Superiores, grado 5º E.U.S. De acuerdo al artículo 1º transitorio de la referida ley, esta la modificación rige a partir del 1° de enero de 1999.
-
-> **Nota.** NOTA 2 El Artículo único del DFL N° 35, Hacienda, publicado el 04.12.2003, modifica el presente artículo en el sentido de crear en la planta de Profesionales del Consejo de Defensa del Estado dos (2) cargos grado 4º de la Escala Única de Sueldos.
-
-> **Nota.** NOTA 3 La letra a) del artículo 2° del DFL N° 40, Hacienda, publicado el 02.12.2004, modifica el presente artículo en el sentido de sustituir la actual denominación de los cargos que se indica del consejo de Defensa del Estado.
+> **Nota.** El Artículo 41 de la ley N° 19.269, publicada el 29.11.1993, modifica el artículo 2° de la ley N° 19.202, que sustituyó las Plantas del personal del Consejo de Defensa del Estado. Sin embargo, dicha modificación por la que se incorporó requisitos de ingreso para Directivos grados 2 a 5 E.U.S. y para Directivos grados 6 a 7 E.U.S. de la Planta de Directivos, debe entenderse efectuada en el presente artículo en razón de haber sido recogido por el presente Texto Refundido, Coordinado y Sistematizado de la Ley Orgánica del Consejo de Defensa del Estado.
 
 #### Artículo 38°
 
@@ -620,11 +618,11 @@ Del procedimiento
 
 #### Artículo 41°
 
-El Ministerio Público informará al Consejo de Defensa del Estado, a la brevedad posible, los antecedentes relacionados con delitos que pudieren dar lugar a su intervención.
+Carabineros de Chile y Policía de Investigaciones de Chile enviarán al Consejo todos los partes relativos a los procesos penales en que tengan o puedan tener interés el Estado, el Fisco, las Municipalidades, los servicios de la administración descentralizada del Estado o las entidades privadas en que el Estado tenga aporte o participación mayoritarios.
 
-En todo caso, el Consejo podrá solicitar los antecedentes que estime necesarios para determinar si deduce o no querella.
+Igualmente, deberán remitir los partes relacionados con los delitos de elaboración y tráfico de estupefacientes.
 
-Si no se le proporcionare la información, podrá ocurrir ante el juez de garantía, quien decidirá la cuestión mediante resolución fundada.
+Estos partes deberán ser remitidos al Consejo dentro del plazo de cinco días, contados desde que fueron extendidos.
 
 #### Artículo 42°
 
@@ -646,27 +644,31 @@ Estos receptores tendrán los mismos deberes y funciones que el párrafo 5 del T
 
 #### Artículo 45°
 
-La intervención del Consejo de Defensa del Estado en los procedimientos penales sólo podrá tener lugar mediante la interposición de la correspondiente querella, deducida conforme a la ley procesal penal. Admitida, le asistirán además todos los derechos que la ley reconoce a las víctimas.
+En los procesos penales de que trata el artículo 3°, el Presidente del Consejo y los abogados procuradores fiscales dentro de sus respectivos territorios, figurarán como partes y tendrán los derechos de tales desde que se apersonen al juicio, sin necesidad de formalizar querella. En tal calidad, tendrán conocimiento del sumario personalmente, o por medio del abogado fiscal al que se le hubiere conferido patrocinio en la causa, o del procurador a quien se le haya otorgado poder en la misma, a menos que el tribunal lo deniegue por resolución fundada, en casos graves y calificados.
 
 #### Artículo 46°
 
-DEROGADO
+Tanto el Presidente del Consejo como los abogados procuradores fiscales podrán imponerse del sumario, con la sola finalidad de decidir si se interpone o no querella. El escrito que para estos efectos se presente al juez deberá hacer expresa mención del motivo de la comparecencia y deberá, además, contener el nombre del abogado a quien se faculta para el cometido de estas diligencias.
 
 #### Artículo 47°
 
-DEROGADO
+Salvo que se les haya denegado conocimiento del sumario, en los procesos a que se refiere el artículo 3° y en que figuren como parte el Presidente del Consejo y los abogados procuradores fiscales, los tribunales que ejerzan jurisdicción en lo criminal deberán proporcionar a estos funcionarios copia simple de las declaraciones y demás actuaciones que se verifiquen ante ellos.
+
+El otorgamiento de esas copias se hará sin necesidad de petición alguna y sin previa orden del tribunal.
+
+Los secretarios de los tribunales en lo criminal deberán velar por el cumplimiento de esta disposición, considerándose su omisión como una falta que deberá corregir la Corte de Apelaciones respectiva.
 
 #### Artículo 48°
 
-DEROGADO
+En los procesos sobre tráfico ilícito de estupefacientes y sustancias psicotrópicas, el Presidente del Consejo y los abogados procuradores fiscales dentro de sus respectivos territorios, podrán también participar en los interrogatorios y careos a los inculpados y testigos, pudiendo formular preguntas a través del tribunal; así como en los allanamientos, inspecciones y otras diligencias o gestiones que decrete el tribunal, pudiendo hacer peticiones y observaciones, a menos que el tribunal lo deniegue por resolución fundada, en casos graves y calificados, de todo lo cual deberá dejarse debida constancia.
 
 #### Artículo 49°
 
-DEROGADO
+En los juicios ordinarios en que el Estado, el Fisco o cualquiera otra entidad u organismo cuya representación judicial corresponda al Consejo, figuren como demandados, el término para contestar la demanda será de quince días y se aumentará con el emplazamiento que corresponda a la distancia entre Santiago y el lugar en que se promueva la acción.
 
 #### Artículo 50°
 
-DEROGADO
+El plazo contemplado en el artículo 770° del Código de Procedimiento Civil, será de quince días para los recursos que se interpongan en los juicios en que intervenga el Consejo de Defensa del Estado, el que se aumentará conforme a la tabla de emplazamiento a que se refiere el artículo 259° del Código de Procedimiento Civil, hasta un plazo máximo total de 30 días, cuando el tribunal que haya pronunciado la resolución recurrida tenga su asiento en una comuna o agrupación de comunas diversa de aquella en que funciona el que haya de conocer el recurso.
 
 #### Artículo 51°
 
@@ -674,7 +676,7 @@ En todos los juicios civiles en que el Consejo haya asumido la representación d
 
 #### Artículo 52°
 
-Los juicios en que el Fisco intervenga como demandado, por perjuicios ocasionados con motivo de accidentes de tránsito y cuyo conocimiento no corresponda a los tribunales con competencia en lo criminal, serán conocidos por los jueces de letras de asiento de Corte, en conformidad a las reglas del juicio sumario, suspendiéndose la prescripción de la acción civil durante la sustanciación del proceso infraccional.
+Los juicios en que el Fisco intervenga como demandado, por perjuicios ocasionados con motivo de accidentes de tránsito y que no sean de la competencia de los jueces del crimen, serán conocidos por los jueces de letras de asiento de Corte, en conformidad a las reglas del juicio sumario, suspendiéndose la prescripción de la acción civil durante la sustanciación del proceso infraccional.
 
 #### Artículo 53°
 
@@ -706,7 +708,7 @@ No obstante, los peritos a que se refiere el inciso anterior tendrán derecho a 
 
 #### Artículo 58°
 
-DEROGADO
+En los procesos penales a que se refiere el artículo 3°, tanto en primera como en segunda instancia, la sentencia definitiva, las resoluciones en que se reciba la causa a prueba, las que ordenen la comparecencia personal del representante del Consejo, las que dispongan el sobreseimiento temporal o definitivo y las que declaren cerrado el sumario, deberán notificarse siempre por cédula al Presidente del Consejo o a los respectivos abogados procuradores fiscales.
 
 #### Artículo 59°
 
