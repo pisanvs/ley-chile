@@ -52,6 +52,72 @@ Son destinatarios del presente texto:
 
 Se solicitará un Estudio de Impacto sobre el Sistema de Transporte Urbano, cuando el proyecto contemple alguna de las exigencias que figuran en el Cuadro Nº 2.1.
 
+Cuadro N° 2.1. Condiciones que determinan la necesidad de un EISTU
+
+N° Instru- Artículo Proyectos Unidad Requiere
+
+mento EISTU
+
+Legal
+
+1 Art. Uso Estaciona- ≤250
+
+2.4.3 Residen- miento Estac.
+
+cial
+
+2 Ordenanza Uso No Estaciona- ≤150
+
+General de Residen- miento Estac.
+
+Urbanismo y cial
+
+Construccio-
+
+nes
+
+3 Art. Locales Capacidad ≤720
+
+4.5.4(*) Escolares Alumno Alumnos
+
+4 Art. Estableci- Ocupación 1.000
+
+4.8.3(*) mientos Máxima personas
+
+Deportivos
+
+y Recreativos
+
+Art.
+
+4.13.7(*) Terminales Vehículos Todos las
+
+Usuarios Categorías
+
+excepto
+
+la A
+
+5 DFL 850/97 - Colindantes No hay Según
+
+del MOP con Caminos crite-
+
+Públicos (CP) rios
+
+ante-
+
+riores
+
+6 DS 83/85 - Colindantes No hay Según
+
+Mintratel con Red Vial crite-
+
+Básicas (RVB) rios
+
+ante-
+
+riores
+
 * : En lo que corresponde al estudio de tránsito y/o accesibilidad deberán ceñirse a esta Metodología.
 
 Todos los proyectos que requieran de un Estudio de Impacto sobre el Sistema de Transporte Urbano deberán ser presentados a la Ventanilla Unica que será representada por la Secretaría Regional Ministerial de Transportes y Telecomunicaciones.
@@ -84,9 +150,7 @@ Proyecto colindante con alguna vía de la Red Vial Básica: corresponde al proye
 
 Una vez identificada la necesidad de realizar un EISTU, según Cuadro Nº 2.1, el tipo de estudio que se requerirá será determinado por los criterios que se señalan en el Cuadro Nº 2.2.
 
-Cuadro Nº2.2
-
-Identificación del Tipo de Estudio
+Cuadro N°2.2. Identificación del Tipo de Estudio
 
 Se distinguen básicamente tres categorías de EISTU: Estudio Táctico sin Reasignación, Estudio Táctico con Reasignación y Estudio Estratégico.
 
@@ -138,6 +202,8 @@ En este cuadro se deberá detallar cada uno de los usos contemplados en el proye
 
 Los usos generales contemplados para caracterizar al proyecto son los siguientes:
 
+.
+
 Superficie Terreno: Se deberá indicar la superficie total del predio en m2.
 
 7. Accesibilidad del Proyecto de Edificación Se deberá especificar si el proyecto colinda con un Camino Público, colinda con la Red Vial Básica (DS 83/85 del Ministerio de Transportes y Telecomunicaciones y sus modificaciones) o con vías del Plan Regulador Comunal (PRC) o Intercomunal.
@@ -146,15 +212,17 @@ Figura Nº 2.2
 
 Formulario de Presentación para Proyectos de Edificación sometidos a Estudios de Impacto sobre el Sistema de Transporte Urbano (EISTU)
 
+.
+
 ### 6. CARACTERISTICAS FISICAS Y OPERACIONALES DEL PROYECTO DE
 
 EDIFICACION
 
+.
+
 ### 7. ACCESIBILIDAD DEL PROYECTO DE EDIFICACION
 
-Colinda con Camino Público S/N Colinda Red Vial Básica
-
-Colinda Vialidad PRC o Intercom.
+Colinda con Camino Público □ Colinda Red Vial Básica □ Colinda Vialidad PRC o Intercom □ (S/N)
 
 3 Estudio Táctico sin Reasignación
 
@@ -462,6 +530,8 @@ En el caso del impacto generado por el flujo vehicular, la comparación de los i
 
 De esta forma, si qo y Qoson el flujo y la capacidad en el Escenario Base expresados en veq/hr, respectivamente, entonces la capacidad de reserva Qr está dada por la siguiente expresión:
 
+.
+
 Se entenderá que el proyecto no genera impacto y que, por lo tanto, no se requieren medidas de mitigación, si para todos los movimientos, pistas o LD del área de influencia se cumple alguna de las siguientes condiciones, según corresponda:
 
 a) El incremento de flujo entre el Escenario con Proyecto y el Escenario Base es inferior a un 20 % de la capacidad de reserva;
@@ -664,7 +734,7 @@ a) Escenario Base
 
 La modelación y posterior simulación del Escenario Base considerarán los siguientes aspectos:
 
-? Como primera tarea será necesario realizar una simulación de la situación actual con el propósito de calibrar y ajustar los modelos a utilizar. Esta tarea es fundamental para asegurar una correcta estimación y análisis del impacto del proyecto.
+Como primera tarea será necesario realizar una simulación de la situación actual con el propósito de calibrar y ajustar los modelos a utilizar. Esta tarea es fundamental para asegurar una correcta estimación y análisis del impacto del proyecto.
 
 Para simular la operación de la red se utilizará una red codificada a nivel agregado (buffer) en las zonas más lejanas a la zona donde se localiza el proyecto y otra red codificada en detalle (inner) en el área inmediata del proyecto. La red agregada conectará la red detallada con el resto de la región en la que se encuentra inserta.
 
@@ -729,6 +799,8 @@ Transporte Privado
 La comparación de los indicadores se realizará para los accesos de cada intersección del área de influencia. En este sentido, en cada acceso se analizarán los movimientos existentes, las pistas que lo conforman o las líneas de detención (LD) definidas, según corresponda al tipo de modelación realizada. Para cada movimiento, pista o LD se deberá calcular la capacidad de reserva, la cual se define en este caso, como el flujo vehicular (veq/hr) equivalente a la diferencia entre el 90 % de la capacidad y el flujo obtenido en la simulación del Escenario Base.
 
 De esta forma, si qo y Qoson el flujo y la capacidad en el Escenario Base, expresados en veq/hr, respectivamente, entonces la capacidad de reserva Qr está dada por la siguiente expresión:
+
+.
 
 Se entenderá que el proyecto no genera impacto y que, por lo tanto, no se requieren medidas de mitigación, si para todos los movimientos, pistas o LD del área de influencia se cumple alguna de las siguientes condiciones, según corresponda:
 
@@ -982,7 +1054,7 @@ Transporte Público
 
 Para identificar el impacto del proyecto en el sistema de transporte público, se deberá analizar entre otros elementos, la variación de la demanda (factor de carga) y del nivel de servicio de este modo entre el Escenario Base y el Escenario con Proyecto. En general se deberá buscar aumentar la demanda del transporte público y mejorar su nivel de servicio. En el caso del nivel de servicio es particularmente importante el análisis de la operación de los paraderos, ya que es allí donde se generan las demoras más importantes. Una disminución de la demanda o un empeoramiento del nivel de servicio serán indicadores de un impacto negativo del proyecto sobre este modo de transporte, para el cual el estudio propondrá alternativas de solución.
 
-El resultado de las alternativas de transporte que se propongan para mitigar los impactos detectados se verificará mediante la simulación del Escenario con Proyecto Mejorado, cuyos indicadores operativos deberán cumplir las condiciones a) y b) y los alcances relativos al transporte público definidos anteriormente.
+El resultado de las alternativas de transporte que se propongan para mitigar los impactos detectados se verificará mediante la simulación del Escenario con Proyecto Mejorado,cuyos indicadores operativos deberán cumplir las condiciones a) y b) y los alcances relativos al transporte público definidos anteriormente.
 
 Se debe tener presente que los proyectos analizados en este caso tienen un alto impacto en el sistema de transporte urbano, razón por la cual, se deberán analizar propuestas de mejoramiento de carácter multimodal.
 
