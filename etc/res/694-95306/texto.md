@@ -1,0 +1,3 @@
+Por resolución No.694, de 27 de Julio de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. 2186 de 1978, parte inmueble- ubicado en calle San Francisco No.485, presunto rol avalúos No.597-7, comuna de Santiago, aparentemente dominio de don José Chanes Hernández. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos y Walter Soto Silva, ingeniero civil, según informe de 24 de Noviembre de 1988, fijó monto provisional indemnización en $1.287.020.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
