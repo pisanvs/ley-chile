@@ -1,0 +1,3 @@
+Decreto Exento número 462, de 7 de marzo de 1996, Ilustre Municipalidad Rancagua dispuso expropiación de propiedad rol avalúo 56-17 propietario según rol avalúo Inmobiliaria Inversiones Ando S.A.: Norte, tramo C-K en 9,10 metros con otro propietario; Sur, tramo B-L en 9,10 metros con otro propietario; Oriente, tramo L-K en 94 metros con calle Diego Portales; y Poniente, tramo B-C en 94 metros con resto de la propiedad, también expropiado. Monto indemnización $10.745.073.-. Expropiación según Artículo N° 29 Ley N° 18.695, por ensanche de calle Diego Portales en el tramo comprendido entre calle Brasil y calle Jorge Rivera. Pago contado.-
+
+Esteban Valenzuela Van Treek, Alcalde de Rancagua. +
