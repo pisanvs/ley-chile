@@ -1,0 +1,5 @@
+Por decreto MOP Nº 4.727, de 27 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 1, 3 y 4, para la obra Camino Reposición Ruta M-30-L, sector Cruce Ruta L-26-M, Puente Purapel Tramo Kms. 4,100.00 al 51,563.99, que figuran a nombre de José María García Villanueva, José Manuel García Villanueva y Elisa Villanueva Pinto, roles de avalúo 219-92, 219-81 y 219-1, comuna de Villa Alegre, VII Región, superficies 294, 17.098 y 409 m2., respectivamente. La comisión de peritos, fijó con fecha 10 de junio de 1999, en la cantidad de $416.400, lote 1;
+
+$46.661.000, lote 3 y $184.050, lote 4. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
