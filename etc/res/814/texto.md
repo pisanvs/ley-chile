@@ -1,0 +1,3 @@
+Por Resolución N° 814 de 5 de Septiembre de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 391, de 1989, de esta Subsecretaría, que autorizó a CULTIVOS MARINOS TONGOY LIMITADA, R.U.T. N° 89.636.100-7, para realizar actividades de cultivo en forma experimental de la especie Abalón rojo, en Changuitad, Comuna de Curaco de Vélez, Provincia de Chiloé, X Región, por renuncia de su titular.
+
+Valparaíso, 5 de Septiembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
