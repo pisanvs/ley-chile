@@ -1,0 +1,3 @@
+Por decretos MOP Nºs 594 y 802, de fechas 29 y 31 de marzo de 1999, se expropiaron los lotes de terreno Nºs 677-A, 679, 680 y 678, superficies 345, 12.600, 11.645 y 19.110 m2, respectivamente, roles de avalúo 315-19, 387-215, 387-217 y 387-214, comuna de Pitrufquén para la obra Regadío Faja Maisan Canal Matriz y se acordó precio de indemnización con sus propietarios Néstor Santini Venegas, Julio Huillin, Lefimil, Celestino Lefimil Colicheo y María Lefimil, ascendente a las cantidades de $159.541, $3.927.308, $2.991.351 y $8.274.036.
+
+Fiscal del Ministeiro de Obras Públicas.
