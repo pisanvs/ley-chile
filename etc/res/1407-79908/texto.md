@@ -1,0 +1,11 @@
+Por Resolución No. 1.407 de 08 de Noviembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a PRODIEL ALIMENTOS LTDA., RUT No. 79.940.670-5, domiciliada en calle Varas Mena No. 973, Santiago, para ampliar actividades pesqueras de transformación, autorizadas por Resolución No. 725, de 1991, de esta Subsecretaría, en orden a incorporar nuevos recursos en las líneas de elaboración de conserva y congelados, además de los ya autorizados por la Resolución citada procedentemente, los siguientes: Albacora o pez espada, Agujilla, Anguila, Apañado, Atún aleta amarilla, Atún aleta larga, bacalao de J. Fernández, Bacalao de profundidad o mero, Blanquillo, Bonito, Caballa, Cabinza, Cojinoba del norte, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Dorado, Lenguado de ojos chicos, Lisa, Machuelo o tritre, Merluza común, Merluza del sur, Palometa, Pampanito, Pejegallo, Pejeperro, Pejerrata, Pejerrey de mar, Pejesapo, Puye, Rollizo, Salmón del Pacífico, Sardina común, Sierra, Tollo, Tomoyo, Almeja o taca, Almeja, Calamar, Caracol locate, Caracol tegula, Caracol trumulco, Chocha, Cholga, Chorito, Choro, Culengue, Navajuela, Ostión del norte, Ostra chilena, Ostra del pacífico, Pulpo, Camarón de roca, Camarón de río del norte, Camarón nailon, Gamba, Jaiba, Langostino de J. Fernández, Langostino amarillo, Picoroco, Erizo y Piure.
+
+Los recursos Salmón del Pacífico, ostra del Pacífico y ostión del norte, deberán provenir de centros cultivo autorizados.
+
+Asimismo, deberá acreditar mediante Guía de Libre Tránsito, que el recurso Langostino amarillo, no procede de áreas sujetas a veda.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada para procesar los recursos loco y langostino colorado, en virtud de los dispuesto en los DS No. 126 y 421, ambos de 1989, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 08 de Noviembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
