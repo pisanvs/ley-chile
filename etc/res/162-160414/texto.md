@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD PESQUERA MAR BRAVA LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 162, de 22 de Marzo de 1985, de la Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la "Sociedad Pesquera Mar Brava Limitada", domiciliada en Concepción, para elaborar en la línea de congelado, en las instalaciones de Frigorífico Concepción, ubicadas en Las Heras 2241, Concepción, los siguientes recursos: merluza común, merluza española, mero o bacalao, pejegallo, pejerrey de mar, raya, sardina común, sardina española, rollo, almeja o taca, almeja, caracol trumulco, cholga, chorito, lapa, loco, macha, navajuela o berberecho, camarón nailon, centolla, langostino amarillo, langostino colorado, jaiba, picoroco, erizo, piure, agujilla, anchoa, caballa, cojinova del norte, congrio colorado, congrio dorado, congrio negro, corvina y jurel.
+
+Santiago, 22 de Marzo de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
