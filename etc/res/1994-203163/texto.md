@@ -1,0 +1,3 @@
+Por resolución Nº1.994 de 13 de septiembre de 2002, modifícase el numeral 6º de la resolución Nº712 de 2002, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo y evaluación hidroacústica del Jurel, I y II Región", en el sentido de reemplazar la nave "Ralun" por la nave "Costa Grande 1", ambas de propiedad de Compañía Pesquera Camanchaca S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 13 de septiembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
