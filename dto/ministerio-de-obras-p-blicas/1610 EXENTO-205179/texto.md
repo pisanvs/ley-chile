@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.610 de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº10A, superficie 2.316 m2, Rol Nº157-71, comuna de Pemuco, VIII Región, para la obra ''Proyecto Laja Diguillín, Area de Riego Pemuco Canal El Oyente Alternativa Dos Faja Adicional Km. 0,135 al Km. 8,062'' y se acordó el valor de indemnización con su propietario Manuel Jesús Parra Esparza, ascendente a la cantidad de $1.211.535.-
+
+Fiscal del Ministerio de Obras Públicas.
