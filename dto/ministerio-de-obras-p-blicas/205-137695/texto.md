@@ -1,0 +1,3 @@
+Por decreto MOP Nº 205, de 12 de febrero de 1999, se expropiaron los lotes de terreno Nºs 658 y 662, superficies 604 y 7.010 M2, roles de avaluo 314-121 y 314-112, comuna de Pitrufquén, para la obra Diseño Definitivo Regadío Faja Maisan Canal Matriz y se acordó precio de indemnización con sus propietarios Cesareo Manqui Lefin y María del Carmen Painen Manqui, ascendentes a las cantidades de $92.358, para el lote Nº 658 y $1.589.347, para el lote Nº 662.
+
+Fiscal del Ministerio de Obras Públicas.
