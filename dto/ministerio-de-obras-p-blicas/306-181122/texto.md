@@ -1,0 +1,3 @@
+Por decreto MOP Nº306, de fecha 29 de diciembre de 2000, se expropió el lote de terreno Nº42, superficie 766,49 m2, rol de avalúo 1252-109, comuna de Parral, para la obra "Camino Ruta L-70, Sector Cruce Ruta 128 - Cuatro Esquinas, Km. 0,000 a Km. 15,800" y se acordó el valor de indemnización con su propietario Alfonso Basilio Jones Molina, ascendente a la cantidad de $1.113.190.-
+
+Fiscal del Ministerio de Obras Públicas.
