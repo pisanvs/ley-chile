@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 310 de 26 de noviembre de 1991, se expropiaron los lotes de terreno No. s. 31-C, 39, 41, 52, 57 y 62-B, superficies 1.403 M2. 363 M2. 787 M2. 241 M2. 1.330 M2. y 3.600 M2., roles de avalúos 595-13, 599-15, 554-4 y 554-10, respectivamente, Comuna de Copiapó, para la obra Ruta 31-Ch, sector Copiapó-Paipote, Tramo Doble Calzada y se acordó precio de indemnización con sus propietarios Compañía Minera Agustina, Mario Gallo Aguirre, Olga Milla Barahona, Mario Gallo Aguirre, Compañía Minera del Norte S.A. y Manuel Rojas Calderón y otros, ascendente a las cantidades de $ 3.069.764, $ 794.244, $ 5.783.978, $ 6.237.988, $ 2.216.444 y $ 3.938.400.
+
+Fiscal del Ministerio de Obras Públicas.
