@@ -1,0 +1,3 @@
+Por resolución Nº 1.971, de 31 de diciembre de 1998, de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.467, de 1996, de esta Subsecretaría, que autorizó a VASQUEZ Y COMPAÑIA LIMITADA, para ampliar actividades pesqueras extractivas con la nave ''Huenulonco'', conforme a lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura Nº 18.892.
+
+Valparaíso, 31 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
