@@ -1,0 +1,3 @@
+Por Decreto MOP N°1.133, de 28 de noviembre de 1997, se expropió el lote de terreno N° 10, superficie 480 m2, rol de avalúo 160-31, comuna de Pemuco para la obra Proyecto Laja Diguillín, Area de Riego Pemuco, Faja de Expropiación Canal Relbún Ramal N°2, se acordó precio de indemnización con su propietaria Rosa Agustina Mardones Vidal, ascendente a la cantidad de $159.431.-
+
+Fiscal del Ministerio de Obras Públicas.
