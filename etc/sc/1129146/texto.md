@@ -1,0 +1,9 @@
+Presentaciones a los Tribunales con firma de abogado
+
+Excmo. Señor:
+
+El cabildo de la Villa de San Fernando ha consultado al Senado sobre la imposibilidad en que se halla la provincia de dar cumplimiento al acuerdo de 28 de Octubre último, que quedó sancionado con la aprobacion de V.E, para que en ningun tribunal ni juzgado se admitan peticiones ni escritos insultantes; i que para reparar este abuso vengan precisamente firmadas de abogados de estudio conocido. El objeto del Senado no fué poner una condicion inverificable para las provincias de fuera, i sus designios se encaminaron a que en la capital se presenten las peticiones suscritas de letrados para que la moderacion de estos sirviera de norma en los pleitos i causas que se ajitan en las Villas i lugares del Estado; i para evitar iguales reclamos ha tenido a bien declarar, como declara, que teniéndose el mayor cuidado por los tenientes, gobernadores i jueces de los partidos en que las peticiones i recursos no tengan espresiones injuriantes, ni provocativas, escarmentando seriamente a los que las metodicen en otra forma, se admitan sin la calidad precisa de la firma de abogados que se observará inviolablemente en la capital; sirviéndose V.E. ordenar que esta declaracion se inserte en la Ministerial para intelijencia de las personas a quienes toque su cumplimiento.
+
+Dios guarde a V.E. muchos años.- Sala del Senado, Noviembre 19 de 1819.- Juan Agustin Alcalde.- José María Villarreal, Secretario.- Excmo. Señor Supremo Director del Estado de Chile.
+
+Santiago, Noviembre 20 de 1819.- Cúmplase el acuerdo del Excmo. Senado, e insértese en la Gaceta Ministerial para los efectos consiguientes.- O'Higgins.- Echeverría.
