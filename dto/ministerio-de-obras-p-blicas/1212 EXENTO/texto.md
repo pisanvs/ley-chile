@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.212, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº43, superficie 33 m², rol de avalúo 284-50, comuna de San Fernando, VI Región, para la obra "Camino San Fernando Roma Rol I-301; I-255; I-151, Km. 0,000 al 10,954264" y se acordó el valor de indemnización con su propietario don José Santos Lagos Rodríguez, ascendente a la cantidad de $542.295.-
+
+Fiscal del Ministerio de Obras Públicas.
