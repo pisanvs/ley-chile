@@ -1,0 +1,3 @@
+Por resolución Nº 259, de 18 de febrero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la solicitud de concesión de acuicultura Nº 91000418, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, CULTIVADORES Y EXPLOTADORES DE ALGAS "LAS MINAS", de Manao, para operar un centro de cultivo en bahía Manao, comuna de Ancud, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14 del DS Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 18 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
