@@ -19252,13 +19252,13 @@ Las sociedades financieras sólo podrán efectuar aquellas operaciones de cambio
 
 Además, en caso que el Instituto Emisor las autorice para actuar como Casa de Cambio M.C.F., sólo podrán cursar como tales, las operaciones de cambios que se indican en el Capítulo IV del Título I del Compendio de Normas de Cambios Internacionales mencionado precedentemente.
 
-### II. COMPRA Y VENTA DE DIVISAS
+II.- COMPRA Y VENTA DE DIVISAS AL CONTADO.
 
 ### 1. Disposiciones generales
 
 Las instituciones bancarias y Casas de Cambio M.C.F. de financieras, podrán efectuar compras y ventas de divisas al tipo de cambio que libremente determinen las partes, con observancia, en todo caso, de las normas establecidas en la Ley Orgánica Constitucional antes mencionada, de las disposiciones del Banco Central de Chile y de las instrucciones impartidas por esta Superintendencia.
 
-Estas compras y ventas se harán únicamente al contado, exceptuados los arbitrajes a futuro con corresponsales del exterior y las compras y ventas de divisas a futuro, que realicen los bancos, operaciones que se regirán por las modalidades que les son propias.
+Estas compras y ventas se harán únicamente al contado, entendiéndose por tales aquellas en las que se efectúe el pago y la transferencia de las respectivas monedas en la misma fecha en que se curse la operación, ya sea en efectivo o mediante documentos a la vista, como asimismo aquellas operaciones en las que dicha transferencia se realice a más tardar hasta el día hábil bancario siguiente para la moneda chilena y hasta el día hábil bancario subsiguiente para la moneda extranjera. Las demás operaciones serán consideradas compraventas de divisas a futuro y se regirán por las instrucciones contenidas en el Capítulo 13-2 de esta Recopilación.
 
 Cuando adquieran documentos expresados y pagaderos en moneda extranjera, las instituciones financieras deberán identificar a la persona que se los venda, debiendo dejar constancia de sus datos personales en los antecedentes de la respectiva operación.
 
@@ -19332,7 +19332,13 @@ El equivalente en moneda chilena por la compra de moneda extranjera, se debitar�
 
 Para las monedas de libre disposición deben utilizarse las cuentas "Cambio Mercado de Divisas de Libre Disposición", de las partidas 2510 ó 4510.
 
-c) Ajuste de las cuentas "Cambio".
+c) Transferencia diferida de monedas.
+
+En el caso de operaciones en las que, de acuerdo con lo pactado entre el vendedor y el comprador, se difiera por un máximo de un día hábil bancario la transferencia de la moneda chilena y de dos días hábiles bancarios la transferencia de la moneda extranjera objeto de la compraventa, los respectivos importes en moneda extranjera se registrarán en la cuenta "Divisas adquiridas pendientes de transferencia", de la partida 2115, o bien, "Divisas vendidas pendientes de transferencia", de la partida 4115, según corresponda, en tanto que la moneda chilena se registrará en la cuenta "Contravalor por entregar de divisas pendientes de transferencia", de la partida 4115 o "Contravalor por recibir de divisas pendientes de transferencia", de la partida 2115, según sea el caso.
+
+Al efectuarse la transferencia efectiva mediante los respectivos traspasos a las cuentas corrientes mantenidas en el exterior o en el Banco Central de Chile, como también al recibirse o entregarse efectivamente el contravalor en pesos moneda chilena, se revertirán los importes anotados en las cuentas señaladas en el párrafo precedente y se registrarán en las cuentas definitivas que correspondan.
+
+d) Ajuste de las cuentas "Cambio".
 
 El último día de cada mes, los bancos ajustarán el saldo de las cuentas "Cambio Mercado Bancario" con cargo a la cuenta "Pérdidas de cambio" de la partida 5705 o con abono a "Utilidades de cambio" de la partida 7705, según corresponda.
 
@@ -19340,7 +19346,7 @@ Para realizar los referidos ajustes, deberán utilizar el tipo de cambio y el pr
 
 En la misma fecha antes señalada, ajustarán el saldo de las cuentas "Cambio Mercado de Divisas de Libre Disposición" con cargo a la cuenta "Pérdidas varias de cambio" de la partida 5710 o con abono a "Utilidades varias de cambio" de la partida 7710, según proceda, debiendo aplicar para tal efecto el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera el día que realice el ajuste.
 
-d) Comisiones.
+e) Comisiones.
 
 Las comisiones que cobren los bancos por venta de moneda extranjera, serán acreditadas en la cuenta "Comisiones ganadas ventas de divisas" de la partida 7530.
 
