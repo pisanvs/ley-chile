@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº328 de fecha 28 de marzo de 2002, se expropiaron los lotes de terreno Nos 3 y 4, superficies 236,19 y 149,99 m2, Rol de Avalúo Nº307-535, comuna de Freire, para la obra "Estudio de Ingeniería Varios Puentes en la IX Región, Sector Puente Misión Araucana, Camino Misión Boroa - Temuco, Km. 0,000 al 0,64239", IX Región y se acordó el valor de indemnización con su propietario Sociedad Agrícola y Ganadera Santander y Compañía, ascendente a la cantidad de $1.495.403.-
+
+Fiscal del Ministerio de Obras Públicas.
