@@ -1,0 +1,21 @@
+Por resolución Nº944 de 25 de Septiembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase al INSTITUTO DE FOMENTO PESQUERO, RUT Nº61.310.000-8, domiciliado en José Domingo Cañas Nº2277, Santiago, para efectuar una pesca de investigación dirigida al recurso calamar, constituido por las especies (Dosidicus gigas), (Loligo gahi), (Ommastrephes bartrami) y (Todarodes sp.), en orden a operar las naves "Chokyu Maru Nº38" y "Focucho Maru Nº35" en la actividad antes mencionada.
+
+El objetivo de la pesca de investigación que por la presente resolución se autoriza, consiste en estimar la biomasa de los calamares presentes en el área de estudio, identificar las especies capturadas y determinar sus rendimientos de pesca, obtener y analizar parámetros biológicos de los ejemplares capturados, determinar la distribución de las especies en el área de estudio y recopilar y analizar información oceanográfica de las áreas de pesca. El área a analizar en la pesca de investigación que por la presente resolución se autoriza, corresponde al mar territorial, a partir de una distancia de 5 millas marinas de la costa, y la zona económica exclusiva de las Islas de Pascua, Salas y Gómez, San Félix y San Ambrosio y Archipiélago de Juan Fernández, esta última con excepción de la zona de mar localizada al este de la línea recta imaginaria trazada entre los puntos cuyas coordenadas geográficas a continuación se señalan:
+
+Punto Norte
+
+31º48'00" S
+
+75º32'00" W Punto Sur
+
+36º54'00" S
+
+77º48'00" W La pesca de investigación tendrá una duración de seis meses a contar de la fecha de publicación de la presente resolución en el Diario Oficial, el que podrá ser prorrogado por otros seis meses, previa evaluación de los resultados obtenidos en los primeros tres meses del estudio que por la presente resolución se autoriza.
+
+La interesada deberá aceptar a bordo de las naves que se autorizan a operar, a la o las personas que designe el Servicio Nacional de Pesca o la Subsecretaría de Pesca. La pesca de investigación se efectuará de acuerdo con los términos técnicos de referencia del estudio "Proyecto Pesca de Investigación de Calamar en el Mar Territorial y Zona Económica Exclusiva de las Islas Oceánicas de Chile", elaborado por el Instituto de Fomento Pesquero aprobados técnicamente por esta Subsecretaría de Pesca, y que se consideran parte integrante de esta resolución: El Instituto de Fomento Pesquero designa como persona responsable de esta pesca de investigación, de conformidad a lo dispuesto en el artículo 102, del DS No. 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, a don Patricio Bernal Ponce, Director Ejecutivo del Instituto de Fomento Pesquero, RUT Nº4.492.889-2, domiciliado en calle José Domingo Cañas Nº2277, Santiago.
+
+La presente autorización impone al Instituto de Fomento Pesquero, como armador de las naves individualizadas precedentemente, la obligación de operarlas en forma exclusiva en la pesca de investigación que se autoriza, durante el lapso fijado por esta resolución de acuerdo a lo planificado en los Términos Técnicos de Referencia. El abandono de una de las naves del programa de investigación sin la autorización correspondiente de la Subsecretaría de Pesca, constituirá causal inmediata de término de esta autorización, salvo que dicho abandono se deba a caso fortuito o fuerza mayor debidamente acreditados por parte del interesado, dentro del lapso de 2 días de acaecidos los hechos que lo configuren.
+
+El reemplazo de cualquiera de las naves autorizadas por la presente resolución, requerirá ser autorizado por esta Subsecretaría y sólo procederá en el evento de ocurrir una fuerza mayor o caso fortuito debidamente acreditado. Previo al inicio de operación las naves deberán tener instalado y operativo el sistema Argos de posicionamiento en el mar, lo que deberá ser certificado por el Servicio Nacional de Pesca.
+
+Valparaíso, 25 de Septiembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
