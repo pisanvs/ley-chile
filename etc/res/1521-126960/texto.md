@@ -1,0 +1,3 @@
+Por resolución Nº1.521, de 3 de noviembre de 1998, de esta Subsecretaría, modifícase el numeral 11 de la resolución Nº1.157 de 1991, de esta Subsecretaría, que autorizó a PESQUERA QUINTERO S.A., en el sentido de señalar que la resolución Nº128 de 1983, de esta Subsecretaría, se deja sin efecto solamente en cuanto autorizó la operación de la nave ''Goden Wind''.
+
+Valparaíso, 3 de noviembre de 1998.- Edith Saa Collantes, Subsecretario de Pesca (S).
