@@ -1,0 +1,5 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A CAMBIASO HNOS. S.A.C.
+
+Núm. 033.- Certifico que Cambiaso Hnos. S.A.C., Rut.: 91.438.000-6, cumple los requisitos establecidos en la resolución Nº 5.101 de 31.08.98 y que en consecuencia tiene la calidad de Agente Retenedor del Impuesto al Valor Agregado por las compras de Productos Silvestres que efectúe, entendiendo por tales rosa mosqueta, mora, hongos, frutos de espino, hojas de boldo, tilo, manzanilla, llantén, toronjil, cedrón, hierbas pectorales, romero, hojas y corteza de quillay, hierbas de hipérico y cera de abeja, durante el período comprendido entre el 1º del mes siguiente al de la publicación de este certificado en el Diario Oficial y el 31 de agosto de 1999.
+
+Valparaíso, 16 de diciembre de 1998.- Francisco Cárcamo Avendaño, Director Regional.
