@@ -1,0 +1,3 @@
+Por decreto MOP Nº 266, de 31 de enero del 2000, se expropió el lote de terreno Nº 336, superficie 120 m2., rol de avalúo 7852-2, comuna de La Pintana, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Jeranuel Retamal González, ascendente a la cantidad de $8.426.674.
+
+Fiscal del Ministerio de Obras Públicas.
