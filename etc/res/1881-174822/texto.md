@@ -1,0 +1,3 @@
+Por resolución Nº 1.881, de 29 de agosto de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95101137 presentada por JUAN BAUTISTA ASENCIO SEGOVIA, para instalar y operar el centro de cultivo ubicado en Lote A, Parcela Nº 15, Ribera Norte del Río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 29 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
