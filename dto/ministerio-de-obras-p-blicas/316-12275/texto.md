@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°316, de 30 de Septiembre de 1993, se expropiaron los lotes de terrenos N°s. 1 y 2, superficies 980 y 350 m2. rol de avalúo 134-8, Comuna de Marchigüe, para la obra Puente Las Garzas N°2, Camino rol I-174 y se acordó precio de indemnización con sus propietarios Flavia Francisca Cabello Vidal y otros, ascendente a la cantidad de $ 435.696.-
+
+Fiscal del Ministerio de Obras Públicas.
