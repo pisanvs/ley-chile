@@ -212,121 +212,97 @@ Toda nave surta en la bahía deberá dar estricto cumplimiento a lo que dispone 
 
 Es estrictamente prohibido a los extranjeros, ya sean particulares o comandantes de naves, hacer sondajes o levantamientos de planos de los puertos, canales, etc., de nuestra costa, sin previa autorización del capitán de puerto.
 
-## Capítulo IV
+CAPITULO IV Derogado
 
 Recepción de naves
 
-#### Artículo 43
+#### Artículo 43°
 
-A la llegada de un buque a un puerto, en primer término será recibido por la Autoridad Sanitaria y si estuviese conforme, lo será por la Capitanía de Puerto y después por el resguardo de aduana.
+(DEL NUM. Nº2).- Derogado.
 
-#### Artículo 44
+#### Artículo 44°
 
-Todo buque que conduzcan a si bordo una persona constituida en dignidad, cualquiera que sea su nacionalidad, será recibido luego de fondear, cualquiera que sea su hora de arribo y el capitán de puerto junto con cumplimentar a dicho personaje le ofrecerá todas las facilidades que estén dentro de su incumbencia. A fin de que esta política sea mantenida en todos los puertos a que arribe el buque, el capitán de puerto informará a la próxima Capitanía de Puerto de escala del barco, como asimismo a la Dirección del Litoral y de Marina Mercante, de lo obrado, para conocimiento de ella y efectos consiguientes.
+(DEL NUM. Nº2).- Derogado.
 
-#### Artículo 45
+#### Artículo 45°
 
-El capitán de puerto fiscalizará el cumplimiento de las leyes y reglamentos sanitarios a bordo de las naves mercantes, quedando autorizado para tomar las medidas urgentes, a fin de hacerlos efectivos incluso las de reemplazar en sus comisiones al personal que no proceda con celo o diligencia en el cumplimiento de su deber, en cuyo caso los emolumentos respectivos corresponderá al o a los reemplazantes por la misión que haya desempeñado y sin perjuicio de denunciar las infracciones a quienes corresponda.
+(DEL NUM. Nº2).- Derogado.
 
-#### Artículo 46
+#### Artículo 46°
 
-Para la recepción, las naves serán clasificadas en tres categorías:
+(DEL NUM. Nº2).- Derogado.
 
-1.a) Las de cualquier nacionalidad, que proceden directamente del exterior.
+#### Artículo 47°
 
-2.a) Las indicadas anteriormente, pero que hayan hecho escala en otro puerto del litoral.
+(DEL NUM. Nº2).- Derogado.
 
-3.a) Todas las que naveguen entre puertos chilenos y no salgan al exterior.
+#### Artículo 48°
 
-#### Artículo 47
+(DEL NUM. Nº2).- Derogado.
 
-La recepción de las correspondientes a la primera categoría, se hará en la forma siguiente: atracada la embarcación que conduce a la autoridad sanitaria, el capitán o el contador en su presentación y el médico de la nave procederán a entregarle los diferentes documentos de sanidad que trajeren consigo, correspondientes a cada uno de los puertos en que hubiere hecho escala y autorizados por el cónsul de Chile.
+#### Artículo 49°
 
-#### Artículo 48
+(DEL NUM. Nº2).- Derogado.
 
-Si en la revisión de estos documentos por la expresada autoridad, no se presentara ninguna dificultad y el estado sanitario de la nave fuere bueno, quedará en estado de ser recibida.
+#### Artículo 50°
 
-#### Artículo 49
+(DEL NUM. Nº2).- Derogado.
 
-Para los fines del artículo anterior el capitán o su representante, entregará al capitán de puerto o a su ayudante:
+#### Artículo 51°
 
-a) La licencia de salida del puerto de que precede y si ha hecho escala, la del último de ésta.
+(DEL NUM. Nº2).- Derogado.
 
-b) Un rol de tripulación firmado por el Cónsul de Chile del último puerto en que recalo, en cuyo encabezamiento se exprese: nombre, clase, nacionalidad, tonelaje de registro neto, puerto de origen y destino de la nave y también los nombres, nacionalidad y empleo a bordo de sus tripulantes.
+#### Artículo 52°
 
-c) Las listas de pasajeros, para el puerto y en tránsito, que traiga a su bordo, visadas por los respectivos Cónsules Chilenos de los puertos en que hubieren embarcado, sea de procedencia o escala.
+(DEL NUM. Nº2).- Derogado.
 
-d) También una lista de todos estos pasajeros, firmada por el capitán y en la que se indique el puerto de embarco y desembarco y al final los que van en tránsito a otros países.
+#### Artículo 53°
 
-Toda esta documentación quedará archivada para los fines de información y estadística en la oficina del capitán de puerto.
+(DEL NUM. Nº2).- Derogado.
 
-#### Artículo 50
+#### Artículo 54°
 
-Si la nave no trae los documentos mencionados en los párrafos b) y c) o pasavante (Art. 20 Ley de Navegación) visados por el cónsul de Chile respectivo el capitán de puerto procederá a hacer efectivos los derechos consulares y la multa correspondiente, conforme al artículo 56 del decreto orgánico N.o 402 del Ministerio de Relaciones Exteriores y Comercio.
+(DEL NUM. Nº2).- Derogado.
 
-A las naves que hacen el cabotaje, que están exentas de pagar los derechos consulares, en caso de no traer los documentos visados, se les hará efectiva sólo la multa.
+#### Artículo 55°
 
-#### Artículo 51
+(DEL NUM. Nº2).- Derogado.
 
-Cumplidos estos requisitos, el capitán del puerto o su ayudante y un funcionario de Investigaciones o de Carabineros, en aquellos puertos en que no exista el personal de Investigaciones o el número de este fuere insuficiente, procederán a la revisión de las libretas, cédulas de identidad o pasaportes, tanto de los tripulantes como de los pasajeros, de conformidad con el rol de tripulación y lista de pasajeros indicados en los incisos b) y d) del artículo 49 con la prolijidad correspondiente, dentro de los propósitos que se persiguen en la Ley de Residencia.
+#### Artículo 56°
 
-#### Artículo 52
+(DEL NUM. Nº2).- Derogado.
 
-Si de esta revisión resulta alguna persona que no cumpla con los requisitos señalados en la ley citada o en los Reglamentos que la complementen, se notificará al capitán de la nave que dicha persona queda retenida o arrestada, preventivamente, a su bordo y bajo su custodia.
+#### Artículo 57°
 
-#### Artículo 53
+(DEL NUM. Nº2).- Derogado.
 
-Tomado este acuerdo, el capitán de puerto inmediatamente comunicará verbalmente o por oficio lo ocurrido a la Autoridad Administrativa de la localidad, a fin de que ésta lo ponga en conocimiento del Supremo Gobierno y lo resuelto, lo telegrafiará las Capitanías de los Puertos de escala de la nave, indicándoles el nombre y demás detalles de la persona que no puede desembarcar, las que al arribo de la nave, hará al capitán de la misma notificación hasta que llegue al puerto de destino donde se procederá de acuerdo con la resolución gubernativa.
+#### Artículo 58°
 
-#### Artículo 54
+(DEL NUM. Nº2).- Derogado.
 
-Si la persona o la nave fuera extranjera, lo resuelto se comunicará al cónsul del país a que pertenece la nave o al que tenga su representación consular para los efectos de la responsabilidad del capitán dentro de la prescripciones del artículo 2.o de la Ley de Residencia, ya citada, que prohibe la entrada al país de los extranjeros cuyas costumbres o doctrinas estén en pugna con nuestros principios constitucionales.
+#### Artículo 59°
 
-#### Artículo 55
+(DEL NUM. Nº2).- Derogado.
 
-Si la nave hubiere de permanecer más de 24 horas en puerto o si se acuerda permitir a sus tripulantes desembarcar, el capitán de puerto podrá exigir, y cuando las circunstancias lo recomienden, al capitán, la entrega provisoria de los permisos para navegar o libretas de todos ellos y los documentos que se estimare conveniente relativos a los pasajeros. Todo esto será devuelto momentos antes de la salida de la nave y junto con expedirle el decreto de zarpe prescrito por el artículo 48 de la Ley de Navegación.
+#### Artículo 60°
 
-#### Artículo 56
+(DEL NUM. Nº2).- Derogado.
 
-Si de la inspección de los documentos mencionados en el artículo 47, se deduce que la nave debe quedar en cuarentena, se decretará ésta en carácter provisorio, mientras resuelve la Autoridad Administrativa.
+#### Artículo 61°
 
-#### Artículo 57
+(DEL NUM. Nº2).- Derogado.
 
-Si la resolución administrativa, previo informe de la Autoridad Sanitaria de que no hay novedad a bordo, es favorable a la nave, se dará curso a las disposiciones aduaneras pertinentes y después el capitán de puerto o su ayudante declarará en "Libre Plática" a la nave.
+#### Artículo 62°
 
-#### Artículo 58
+(DEL NUM. Nº2).- Derogado.
 
-Para la recepción de las naves comprendidas dentro de la segunda categoría, el capitán o contador en su representación y el médico de la nave entregarán a la Autoridad Sanitaria la boleta de sanidad del primer puerto en que hubiere tocado, firmada por el médico de bahía y si no hubiere novedad a bordo se procederá a la recepción de la nave, entregando al capitán de puerto o a su ayudante:
+#### Artículo 63°
 
-a) La licencia de salida del último puerto en que hubiere tocado.
+(DEL NUM. Nº2).- Derogado.
 
-b)Un rol de tripulación con la firma del capitán de puerto del último puerto de escala.
+#### Artículo 64°
 
-c) Una lista de pasajeros que tenga a su bordo en las mismas condiciones que la indicada para los buques de primera categoría en el inciso d) del artículo 49.
-
-#### Artículo 59
-
-Si la nave tuviere que permanecer más de 24 horas en el puerto, se procederá, si se estima necesario, al retiro de las libretas y documentos de identidad de que se habla en la categoría anterior, par ser devueltas al darle el zarpe.
-
-#### Artículo 60
-
-Si en esta nave vinieran algunas de las personas sobre las cuales debe ejercerse vigilancia especial, el capitán de puerto se atendrá a las instrucciones que hubiere recibido sobre el particular.
-
-#### Artículo 61
-
-Llenadas todas las formalidades antes indicadas y cumplidas las disposiciones aduaneras, el capitán de puerto o su ayudante procederá a poner la nave en "libre plática".
-
-#### Artículo 62
-
-Para los efectos de la recepción de las naves correspondientes a la tercera categoría, se procederá como en el caso anterior en sus incisos a) y b) y se entregará además la lista completa de pasajeros.
-
-#### Artículo 63
-
-En estas listas no se aceptará, por ningún motivo, que sea puesto en globo el número de pasajeros y se colocarán separadamente los que vienen al puerto, de los que van en tránsito.
-
-#### Artículo 64
-
-Si en la inspección de recepción de una nave, aparecieran individuos embarcados que no figuren en los documentos de la nave (rol y lista de pasajeros) su capitán incurrirá en multa, salvo que lo hubiere denunciado al capitán de puerto, quien lo comunicará a su vez al capitán de puerto del puerto de salida de la nave, para que se corrija la lista de pasajeros o rol dejados, con fines estadísticos.
+(DEL NUM. Nº2).- Derogado.
 
 ## Capítulo V
 
@@ -1240,135 +1216,113 @@ El capitán de puerto dejará constancia en el Bitácora de Guardia de la Capita
 
 En el mismo caso en puerto extranjeros, los tripulantes deberán presentarse al Cónsul chileno, dentro de las 48 horas de su ausencia a bordo y los que no lo hicieren serán igualmente declarados desertores.
 
-## Capítulo XXIII
+CAPITULO XXIII Derogado
 
 Salida de buques
 
-#### Artículo 197
+#### Artículo 197°
 
-Ningún buque nacional o extranjero podrá salir del puerto sin que su capitán o agente, haya presentado al capitán de puerto, lo siguiente:
+(DEL NUM. Nº2).- Derogado.
 
-a) La licencia de salida, firmada por la Autoridad Administrativa en que se exprese: la clase de la nave, su nombre, nacionalidad, tonelaje de registro, fecha y procedencia de donde arribó, destino, primer puerto de escala, clase de carga que lleva, si conduce sobre si lleva o no correspondencia y el " Sin Cargo" de la Aduana.
+#### Artículo 198°
 
-Las naves autorizadas para hacer el cabotaje en el litoral administrativa en el puerto inicial del viaje; en los puertos de escala, presentarán la licencia del correo y Aduana.
+(DEL NUM. Nº2).- Derogado.
 
-Las embarcaciones o naves menores de 25 toneladas destinadas al cabotaje o a la pesca, solicitarán el zarpe únicamente, al capitán de puerto en los puertos o caletas habilitadas. Cuando se dirijan a puertos o caletas inhabilitadas, deberá anticipadamente cumplirse con el Art. 11 de la Ordenanza de Aduanas, es decir, serán habilitados por la Aduana y se le otorgará el zarpe a la nave o embarcación con su intervención.
+#### Artículo 199°
 
-g) El último Certificado de Navegabilidad vigente; el permiso para efectuar el comercio de cabotaje en determinada línea o el permiso para salir al exterior
+(DEL NUM. Nº2).- Derogado.
 
-otorgado por el Ministerio de Economía y Comercio (1).
+#### Artículo 200°
 
----------------------------------
+(DEL NUM. Nº2).- Derogado.
 
-(1) Por disposición del decreto con fuerza de ley 88, de 12 de mayo de 1953, este Ministerio ha pasado a denominarse simplemente de Economía.
+#### Artículo 201°
 
-> **Nota.** El Decreto 2427, Defensa, promulgado el 15.06.1956, dispone agregar al artículo 197 de la presente norma un inciso, sin embargo, comienza con una letra g) el que se incorpora al citado artículo tal como lo indica la citada norma.
+(DEL NUM. Nº2).- Derogado.
 
-#### Artículo 198
+#### Artículo 202°
 
-La lista de los pasajeros que lleva una nave a su bordo la entregará al capitán por duplicado junto con los demás documentos al solicitar el zarpe y la Capitanía de Puerto le devolverá uno de los ejemplares con su Vº Bº.
+(DEL NUM. Nº2).- Derogado.
 
-#### Artículo 199
+#### Artículo 203°
 
-Si la nave zarpa a extranjero, la visación consular de la boleta de sanidad y lista de pasajeros se efectuará únicamente por los cónsules de los países donde se exija dicho trámite.
+(DEL NUM. Nº2).- Derogado.
 
-#### Artículo 200
+#### Artículo 204°
 
-Mientras una nave nacional o extranjera navegue entre los puertos chilenos, la boleta de sanidad que recibió en el puerto inicial de viaje o la que fue visada en los puertos-estaciones sanitarias en su caso, le servirá para navegar en todo el litoral, salvo las excepciones contempladas en el Art. 10 del Reglamento de Sanidad Marítima y de las Fronteras.
+(DEL NUM. Nº2).- Derogado.
 
-#### Artículo 201
+#### Artículo 205°
 
-El decreto de "zarpe" de la licencia de salida de una nave, se solicitará a las autoridades respectivas una vez que termine sus faenas de carga y descarga. Sin embargo, los vapores mayores de 200 toneladas de registro, de carrera establecida deberán permanecer un mínimum de tiempo en los puerto para embarcar la correspondencia o pasajeros, siendo optativo del capitán de puerto, el autorizar su salida inmediata al constatar que no hay motivo de espera.
+(DEL NUM. Nº2).- Derogado.
 
-#### Artículo 202
+#### Artículo 206°
 
-Siendo la marca de franco bordo obligatoria para toda nave de más de 25 toneladas de registro neto, las Capitanías de Puerto no otorgarán el "zarpe", a las que carezcan de él, o teniéndolo, estén sobrecargadas según dicha marca, la época del año y el puerto. En el zarpe se estampará la distancia a que quedó la línea de flotación que lleva el buque de la línea oficial del máximum de carguío que le ha fijado la Dirección del Litoral y de Marina Mercante.
+(DEL NUM. Nº2).- Derogado.
 
-En los casos de comprobarse que una nave iba a zarpar con exceso de carga, su capitán será sancionado con multa y obligado a descargar, por su propia cuenta, lo que fuere necesario, para ajustar su línea de flotación a su franco bordo.
+#### Artículo 207°
 
-#### Artículo 203
+(DEL NUM. Nº2).- Derogado.
 
-El capitán de puerto al despachar a la nave, devolverá las libretas y documentos de la tripulación y pasajeros que hubiere recibido en el acto de su recepción. Antes de esta devolución confrontará esta documentación con el nuevo rol y lista de pasajeros y con los que recibió al arribo de la nave, asegurándose con ello, que ninguno de los tripulantes o pasajeros se haya quedado en el puerto, salvo los que viniesen con ese destino.
+#### Artículo 208°
 
-#### Artículo 204
+(DEL NUM. Nº2).- Derogado.
 
-Si de la confrontarán se dedujere el desembarco de alguno de los tripulantes o pasajeros, procederá a hacer las indagaciones del caso y cuando se trate de alguno de los detenidos a que se refieren los artículos 52 y 53. hará efectiva la responsabilidad del capitán, poniendo los hechos en conocimiento del representante consular y de la Autoridad Administrativa. Mientras tanto, suspenderá el zarpe de la nave hasta la aprehensión y restitución a bordo del o de los prófugos o resolución de la expresada autoridad.
+#### Artículo 209°
 
-#### Artículo 205
+(DEL NUM. Nº2).- Derogado.
 
-Las naves que zarpen durante el día y hasta la hora de clausura del puerto indicada en el Art. 241, serán despachadas por el funcionario marítimo respectivo, dos horas antes de la fijada para salida. Las naves que zarpen durante la noche, entre la hora de clausura y de la apertura del Puerto, serán despachadas en el momento de su salida, de acuerdo con el Art. 242 de este Reglamento.
+#### Artículo 210°
 
-#### Artículo 206
+(DEL NUM. Nº2).- Derogado.
 
-A la hora que se presente a bordo a pasar la revista el capitán de puerto, ayudante o práctico que va a despachar la nave, deberán encontrarse en ella: el capitán, oficiales y tripulantes, dejándose constancia en el zarpe si hubiere novedad. No obstante, en las naves que zarpen entre las horas indicadas en la última parte del artículo anterior, los oficiales y tripulantes deberán estar a bordo dos horas antes o sea a las 19 horas, no pudiendo bajar a tierra posteriormente, salvo que el capitán lo autorice en casos muy calificados y bajo su responsabilidad.
+#### Artículo 211°
 
-#### Artículo 207
+(DEL NUM. Nº2).- Derogado.
 
-Si algún tripulante o pasajero se ha quedado en tierra, el capitán de puerto rectificará los roles o lista correspondientes bajo su firma, antes de despachar la nave y procederá a hacer el desembarco de los tripulantes que no se encuentren a bordo, reemplazándolos por otros del puerto, si fuere necesario. El tripulante que sea desembarcado por faltar sin causa justificada a la hora del despacho de la nave, será sancionado con multa o suspensión, conforme al Reglamento respectivo o declarado desertor conforme al Art. 196 si corresponde.
+#### Artículo 212°
 
-Los capitanes que descubran, después de despachada la nave, pasajeros clandestinos, estarán obligados a entregarlos al capitán de puerto, en caso contrario serán sancionados con multas.
+(DEL NUM. Nº2).- Derogado.
 
-#### Artículo 208
+#### Artículo 213°
 
-Toda nave que zarpe de puerto chileno deberá estar equipada de radioestación, conforme al Art. 8 del Reglamento General de Comunicaciones para la Marina Mercante y la que lo contravenga será sancionada con multa y no se le permitirá hacerse a la mar.
+(DEL NUM. Nº2).- Derogado.
 
-#### Artículo 209
+#### Artículo 214°
 
-Los capitanes de puerto no permitirán la salida de puerto de nave alguna que se comprueben va mal estibada, o lleva exceso de pasajeros de cámara o cubierta o conduzca animales, carga o pacotilla fuera de los lugares asignados para ello.
+(DEL NUM. Nº2).- Derogado.
 
-La Capitanía de Puerto verificará que toda nave que conduzca correspondencia la haya entregado o recibido, no dando el zarpe a aquellos que no lo hicieren.
+#### Artículo 215°
 
-#### Artículo 210
+(DEL NUM. Nº2).- Derogado.
 
-Es obligatorio para toda nave o embarcación que salga cargada del puerto, cerrar sus escotillas y recubrirlas con encerados acuñados o afirmados por abrazaderas de fierro de brazola a brazola para colocarles candado.
+#### Artículo 216°
 
-#### Artículo 211
+(DEL NUM. Nº2).- Derogado.
 
-Llenadas todas estas formalidades, el capitán de puerto entregará personalmente la licencia de salida, con el decreto de zarpe a los capitanes de naves, salvo en los casos en que tengan oficiales ayudantes o prácticos a sus órdenes, en que lo podrán entregar éstos verificando que se cumplan los Reglamentos y la Ley de Navegación, responsabilizándolos de ello.
+#### Artículo 217°
 
-#### Artículo 212
+(DEL NUM. Nº2).- Derogado.
 
-En las Capitanías en que haya oficiales ayudantes que no sean de la Armada o no tengan títulos de capitanes o pilotos mercantes o sus requisitos, deberán pedir la conformidad al zarpe al capitán de la nave.
+#### Artículo 218°
 
-#### Artículo 213
+(DEL NUM. Nº2).- Derogado.
 
-En los puertos en que no haya ayudantes, ni prácticos y si el capitán de puerto está imposibilitado para despachar una nave, por enfermedad u otra causa de verdadera importancia, dará cuenta por telégrafo a la Dirección del Litoral y de Marina Mercante e instruirá bajo su responsabilidad a la persona que lo reemplace a fin de que cumpla correctamente su cometido.
+#### Artículo 219°
 
-#### Artículo 214
+(DEL NUM. Nº2).- Derogado.
 
-El funcionario indicado en el artículo anterior, deberá poseer los conocimientos, cultura y espíritu militar necesarios para su desempeño.
+#### Artículo 220°
 
-#### Artículo 215
+(DEL NUM. Nº2).- Derogado.
 
-Los capitanes de naves nacionales deberán anotar en el bitácora el nombre del funcionario que le haya entregado el zarpe y verificado la estiba, pertrechos, roles, certificado de navegabilidad, etc.
+#### Artículo 221°
 
-#### Artículo 216
-
-La validez de la licencia de salida será de 24 horas, quedando en absoluto prohibido hacer cualquier faena de carga o descarga o alteraciones en la estiba durante este lapso, y el capitán de la nave que se retrase dentro de este tiempo, la devolverá a la Capitanía de Puerto, dando cuenta de las postergación, a fin de que la autoridad nuevamente despache la nave a la hora convenida.
-
-#### Artículo 217
-
-La nave que por cualquier causa no zarpe durante este tiempo, deberá tramitar nuevos documentos de salida, expresando en ésta los motivos que tuvo para no hacerlo.
-
-#### Artículo 218
-
-El capitán de una nave que abandone el puerto sin permiso del capitán de puerto y sin causa justificada, será sancionado o suspendido de su título por el tiempo que acuerde la Dirección del Litoral y de Marina Mercante, según la gravedad de la falta.
-
-#### Artículo 219
-
-Se prohibe la venta de pasajes a bordo. El capitán, contador u oficial que contraviniere a esta disposición, será sancionado con la suspensión de su título por un mínimum de dos meses.
-
-#### Artículo 220
-
-Cuando una persona sea sorprendida a bordo, en alta mar, sin el debido pasaje extendido por la Compañía el capitán de puerto del primer puerto a que arribe la nave, siempre que el capitán lo solicitare, y dicha persona se negare a pagar el valor del pasaje en la respectiva Agencia, la pondrá a disposición del Juzgado Civil para los efectos del procedimiento que corresponde, haciéndose cargo la Agencia del denuncio.
-
-#### Artículo 221
-
-El capitán de puerto, sin perjuicio de lo anterior, iniciará la investigación sumaria del caso para establecer si existen cómplices y aplicar las sanciones correspondientes.
+(DEL NUM. Nº2).- Derogado.
 
 #### Artículo 221 bis
 
-Las naves que hubieren infringido lo dispuesto en el inciso 2º del Art. 244, no podrán zarpar mientras no hayan satisfecho íntegramente la multa correspondiente.
+(DEL NUM. Nº2)°.- Derogado.
 
 ## Capítulo XXIV
 
