@@ -1,0 +1,5 @@
+Por decreto MOP Nº757, de 19 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº2-1, para la obra: ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal Sur. Enlace Quilpué Oriente. Ramal Sur Poniente. Km.
+
+95.840,00 a Km. 96.500,00'', Quinta Región, que figura a nombre de Biddau Secchi Elsa Eugenia, rol de avalúo 3455-2, comuna de Quilpué, superficie 809 m2. La comisión de peritos integrada por los señores Jorge Gregorio Mendoza Larral, Ivor Orlando Fuentealba Charnay y Claudia Paola Arellano Gómez, fijó con fecha 22 de febrero de 2002, el valor provisional de la indemnización en la cantidad de $5.828.980.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
