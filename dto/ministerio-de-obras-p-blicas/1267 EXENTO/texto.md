@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.267 de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº5, superficie 1.308 m2, rol de avalúo Nº264-90, comuna de Chanco, para la obra ''Camino Ruta M-450, sector: Chanco-Empedrado (accesos a Pte. Rari), tramo Km. 14,120 a Km. 14,925'', VII Región y se acordó el valor de la indemnización con su propietario Leopoldo Valdés Suárez, ascendente a la cantidad de $929.019.-
+
+Fiscal del Ministerio de Obras Públicas.
