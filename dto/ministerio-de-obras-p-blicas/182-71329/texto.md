@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 182, de 28 de febrero de 1997, se expropiaron los lotes de terreno Nºs 2, 2-A, 10, 11, 25-A, 29 y 29-A, superficies 419, 350, 3.050, 85, 323, 160 y 74 M2., respectivamente, roles de avalúos 1090-1, 1090-5, 1092-145 y 1092-115, comuna de Quillón, obra Camino Ruta N-78-0, sector Quillón Nueva Aldea y se acordó precio de indemnización con sus propietarios Aldeas Infantiles S.O.S., Jorge Ortega Segura, Gonzalo Ruiz Osorio y otro y José Oróstica González y otro, ascendente a las cantidades de $2.781.800, $1.568.427, $550.524 y $473.648.-
+
+Fiscal del Ministerio de Obras Públicas.
