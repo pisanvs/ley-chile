@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.067, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº42, superficie 942 m², rol de avalúo 524-285, comuna de La Unión, para la obra "Camino Ruta T-80, Sector La Unión - Las Trancas, Km. 0,900 al 10,99034" y se acordó el valor de indemnización con su propietario Ernesto Cárdenas, ascendente a la cantidad de $496.391.-
+
+Fiscal del Ministerio de Obras Públicas.
