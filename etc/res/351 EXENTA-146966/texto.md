@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE ''CIGNA COMPAÑÍA DE SEGUROS DE VIDA (CHILE) S.A.''
+
+Certifico: que por resolución exenta Nº 351 de 29 de octubre de 1999, se aprobó reforma de estatutos de la sociedad anónima ''Cigna Compañía de Seguros de Vida (Chile) S.A.'', acordada en junta extraordinaria de accionistas de 30 de septiembre de 1999, cuya acta consta de la escritura pública de 8 de octubre de 1999 otorgada ante el Notario de Santiago don Eduardo Pinto Peralta.
+
+La reforma consiste en: 1) Dejar sin efecto los aumentos de capital acordados en juntas extraordinarias de accionistas de 11 de diciembre de 1995, cuya acta fue reducida a escritura pública el 29 de diciembre de 1995 ante el Notario de Santiago don Eduardo Pinto Peralta, modificada por la de 26 de abril de 1996 otorgada ante el mismo Notario, aprobada por resolución exenta de este Servicio Nº 150, de 1º de julio de 1996, y de 20 de abril de 1999, cuya acta fue reducida a escritura pública ante el mismo Notario antes citado, y, 2) Aumentar el capital de $4.164.918.744.-, incluyendo revalorizaciones, dividido en 30.965.495 acciones sin valor nominal a $7.600.000.000.- dividido en 56.504.767 acciones sin valor nominal, dentro del plazo de 3 años contado desde el 30 de septiembre de 1999. Capital ha quedado pagado en $4.274.247.892.- dividido en 31.778.339 acciones sin valor nominal.
+
+Santiago, 29 de octubre de 1999.- Rodrigo Costa Aranda, Secretario General.
