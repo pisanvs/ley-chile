@@ -1,0 +1,5 @@
+Por resolución Nº 2.604, de 6 de diciembre de 2000, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 2.194 de 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesca de Investigación del Jurel entre la III y la X Regiones'', en el sentido de incluir las naves ''Carolina III'' de propiedad de Pesquera Nacional S.A.;
+
+''Tricahue'' y ''Mack'', ambas de propiedad de Pesquera El Golfo S.A.; ''Tranoi'' de propiedad de Pesquera Qurbosa S.A.; ''Don Manuel'' de propiedad de Pemesa S.A. y de reemplazar la nave ''Vichuquén II'' por la nave ''Don Mauro'', ambas de propiedad de Alimentos Marinos S.A. de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 6 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
