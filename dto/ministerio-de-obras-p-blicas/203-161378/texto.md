@@ -1,0 +1,3 @@
+Por decreto MOP Nº203, de 31 de enero del 2000, se expropió el lote de terreno Nº218-1, superficie 103.249,0 m2., rol de avalúo 161-2, comuna de Lanco, para la obra Concesión Internacional Ruta 5. Tramo: Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietaria Lina Luisa Vallette de la Harpe, ascendente a la cantidad de $115.681.016.
+
+- Fiscal del Ministerio de Obras Públicas.
