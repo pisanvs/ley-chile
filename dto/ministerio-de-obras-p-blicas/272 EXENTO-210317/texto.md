@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº272 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº51-A, superficie 6.256,90 m², rol de avalúo Nº142-37, comuna de Chonchi, para la obra "Camino Ruta 5, Sector Chonchi-Tara, Km. 1.205,160 a Km. 1.215,004", X Región y se acordó el valor de la indemnización con su propietaria Rosa Dina Pérez Pinto y Otras, ascendente a la cantidad de $2.312.798.-
+
+Fiscal del Ministerio de Obras Públicas.
