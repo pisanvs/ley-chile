@@ -1,0 +1,3 @@
+Por decreto MOP 4.928, de 31 de octubre del 2000, se expropió el lote de terreno Nº132, superficie 621 m², rol de avalúo 73-67, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector K, Séptima Región y se acordó el valor de indemnización con su propietario José Fernando Urbina Urbina, ascendente a la cantidad de $1.902.381.-
+
+Fiscal del Ministerio de Obras Públicas.
