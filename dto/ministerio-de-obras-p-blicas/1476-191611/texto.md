@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.476, de 28 de septiembre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 15-A, para la obra Camino M-24-K Quivolgo Puente Lautaro, sector C Putú Quivolgo, Kms. 30,000 al 49,815.494, que figura a nombre de José Humberto Montecino Urzúa, rol de avalúo 350-45, comuna de Constitución, superficie 1.254,38 M2. La comisión de peritos, fijó con fecha 10 de junio de 1998, en la cantidad de $3.100.350, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
