@@ -2250,7 +2250,7 @@ El cheque, conforme a la definición que da el artículo 10 de la Ley sobre Cuen
 
 En consecuencia, el banco debe abstenerse de pagar un cheque cuando así se lo avise por escrito el respectivo librador, sin que afecten al banco responsabilidades si esa revocación se hace por motivos distintos de los que enumera el inciso 2° del artículo 26 de la Ley sobre Cuentas Corrientes Bancarias y Cheques. Al señalar este artículo los únicos casos en que puede el librador dar orden de no pagar el cheque, se refiere tan sólo a las relaciones del librador con el beneficiario, en el sentido de que si se revoca el cheque fuera de esos casos, sería el primero responsable ante el segundo e incurriría en la responsabilidad penal por el delito establecido en el inciso 29 del artículo 22 de la mencionada ley.
 
-El librado, en cumplimiento del mandato, debe limitarse a dejar constancia en el documento, de la instrucción que ha recibido, pero no puede oponerse a la revocación, calificando las causas que el librador hubiere tenido para la misma,aún cuando el cheque no tuviere la provisión de fondos suficiente.
+El librado, en cumplimiento del mandato, debe limitarse a dejar constancia en el documento, de la instrucción que ha recibido, pero no puede oponerse a la revocación, calificando las causas que el librador hubiere tenido para la misma,aún cuando el cheque no tuviere la provisión de fondos suficiente. Tampoco puede el banco librado condicionar la vigencia de la orden de no pago a un período o plazo determinado, debiendo entenderse que ella tendrá vigencia indefinida
 
 12.2. Indicación de las causas que motivan la revocación del cheque.
 
