@@ -1,0 +1,3 @@
+Por resolución Nº 2.005 de 20 de septiembre de 2002 rectifícase el numeral 4º de la resolución Nº 1.999 de 2002, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Monitoreo de la pesquería artesanal de anchoveta y sardina común VI-X Regiones" en el sentido de reemplazar en la nómina de lanchas artesanales participantes en la pesca de investigación las expresiones "Emilio I" por "Don Emilio I" y "Fcupe I" por "Felipe I".
+
+Valparaíso, 20 de septiembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
