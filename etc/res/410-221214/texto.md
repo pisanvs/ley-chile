@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 410, 22 diciembre 2003, Serviu Región del Biobío ordenó expropiación parcial inmueble ubicado en calle Arturo Prat Nº 1001, Rol de avalúo Nº 558-003, comuna Concepción, superficie 578,50 m2 de terreno y 625,68 m2 de edificación, dentro polígono y linderos señalados plano expropiación S8R-558-003; de aparente dominio de Madesal Dos S.A., para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 ley 16.391 y DL Nº 2.186. Comisión Peritos integrada por Guillermo Orlando Villafañe Feres, arquitecto, Orlando Paredes Vásquez, ingeniero civil, y Omar Andrés Aspe Neira, constructor civil, según informe de fecha 5 de diciembre de 2003, fijó monto provisional indemnización en $200.321.103.-, pagadera de contado.
+
+Director Serviu Región del Biobío.
