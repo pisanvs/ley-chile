@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.019, de 28 de julio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº64, para la ejecución de la obra Embalse Puclaro Sector Punta Azul y San Carlos III Etapa, que figura a nombre de Agroindustrial Diaguitas L., Rol de Avalúo 458-6, comuna de Vicuña, IV Región, superficie 84.100 M2. La Comisión de Peritos, fijó con fecha 15 de septiembre de 1997, el valor provisional de la indemnización en la cantidad de $50.146.200.- la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 70 del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
