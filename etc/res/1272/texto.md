@@ -1,0 +1,5 @@
+Por resolución N°1.272 de 23 de Diciembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA SAN SEBASTIAN S.A., R.U.T. N°96.525.250-9, para ampliar actividades pesqueras de transformación, autorizadas por resolución N°721, de 1988, de esta Subsecretaría; en orden a incorporar a las líneas de elaboración de congelado y fresco-refrigerado de su planta industrial ubicada en Molo Sur s/n°, Comuna de San Antonio, V Región, el recurso hidrobiológico jibia, Dossidicus spp.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 23 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
