@@ -1,0 +1,3 @@
+Por Resolución Nº430, de 6 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la resolución Nº749, de 1995, de esta Subsecretaría, que autorizó a SOCIEDAD COMERCIAL E INDUSTRIAL LOS NAVEGANTES Y CIA. LTDA., para realizar actividades pesqueras de transformación, conforme lo dispuesto en el artículo 7º, del D.S. Nº175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 6 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
