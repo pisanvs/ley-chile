@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 336, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº 75, superficie 197,00 M2, rol de avalúo 112-17, comuna de Corral, para la obra "Camino Longitudinal Costero Sur, Sector El Morro - Chaihuin II (2ª parte) Km. 15,755 al 27,017" y se acordó el valor de indemnización con su propietario Francisco Segundo Stamp Igor, ascendente a la cantidad de $543.077.-
+
+Fiscal del Ministerio de Obras Públicas.
