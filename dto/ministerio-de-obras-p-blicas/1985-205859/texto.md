@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.985, de 31 de octubre de 2002, se expropió el lote de terreno Nº13, superficie 7.407 m², rol de avalúo 833-68, comuna de Traiguén, IX Región, para la obra "Camino Mejoramiento Ruta R-90-P, Sector Traiguén - Lumaco, Km. 0,000 al 21,86933, Tramo I Km. 0,000 al 12,181" y se acordó el valor de indemnización con su propietario don Guillermo Guidotti Venturelli, ascendente a la cantidad de $3.774.868.-
+
+Fiscal del Ministerio de Obras Públicas.
