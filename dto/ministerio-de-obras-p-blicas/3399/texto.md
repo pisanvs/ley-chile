@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.399, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs 52 y 55, superficies 983 m² y 783 m², rol de avalúo 2206-45, comuna de Chillán, para la obra ''Ruta 5 Sur, Tramo Talca-Chillán, Intersección Desnivelada Acceso a Parque Lantaño, Octava Región'' y se acordó el valor de indemnización con sus propietarios Jack Ovidio Behar Saravia y Otros, ascendente a la cantidad total de $7.608.385.
+
+- Fiscal del Ministerio de Obras Públicas.
