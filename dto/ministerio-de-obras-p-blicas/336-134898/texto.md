@@ -1,0 +1,3 @@
+Por decreto MOP Nº 336, de 26 de febrero de 1999, se expropió el lote de terreno Nº 71-B, superficie 1.260 m², rol de avalúo 2230-52, comuna de Osorno, para la obra Concesión Internacional Ruta 5, Tramo Río Bueno-Puerto Montt, Sector San Pablo, Décima Región y se acordó el valor de indemnización con su propietario Aníbal Manuel Gallardo Lizondo, ascendente a la cantidad de $852.252.-
+
+Fiscal del Ministerio de Obras Públicas.
