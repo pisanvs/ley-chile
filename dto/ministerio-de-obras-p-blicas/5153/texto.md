@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.153, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº3, superficie 184.633,2 m2, rol de avalúo 1001-14, comuna de Puerto Natales, para la obra "Camino Puerto Natales - Fiordo Staines, Sector Km. 0,000 al Km. 6,16592, 1ª Etapa, Ultima Esperanza" y se acordó el valor de indemnización con su propietaria Kitty Marcela León Mattson, ascendente a la cantidad de $9.833.449.-
+
+Fiscal del Ministerio de Obras Públicas.
