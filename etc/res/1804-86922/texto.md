@@ -1,0 +1,3 @@
+Por resolución Nº 1.804, de 31 de diciembre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de ALIMENTOS MARINOS S.A., en relación a dejar sin efecto la resolución Nº 1.351, de 1997, de esta Subsecretaría, por no constituir las situaciones alegadas una causal de fuerza mayor o caso fortuito.
+
+Valparaíso, 31 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
