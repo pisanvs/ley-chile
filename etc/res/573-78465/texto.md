@@ -1,0 +1,3 @@
+Por Resolución No. 573, de 17 de Junio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1° de la Resolución No. 822, de 1989, de esta Subsecretaría, que autorizó a don JOSE DOLORINDO ALVARADO PARANCAN RUT No. 2.716.812-4, domiciliado en Huayún, Comuna de Calbuco, X Región, para ampliar actividades pesqueras, en orden a señalar que el RUT del solicitante es el No. 2.716.812-4 y no como se indica en la Resolución citada precedentemente.
+
+Valparaíso, 17 de Junio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.-
