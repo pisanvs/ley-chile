@@ -1,0 +1,3 @@
+Por Resolución No. 408, de 8 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978 parte inmueble ubicado calle Las Heras N°s. 1530 - 1536 y 1546, presunto rol avalúos No. 652-1, comuna Santiago, aparentemente dominio de don Miguel Jacob Helo. Comisión integrada por peritos Srs. Roberto Correa Bezanilla y Eduardo Suárez Suárez, arquitectos, y Pablo Risopatrón Garmendia, ingeniero civil, según informe de 20.10.88 fijó monto provisional indemnización en $ 2.450.210 pagadera al contado.
+
+Director SERVIU Metropolitano.
