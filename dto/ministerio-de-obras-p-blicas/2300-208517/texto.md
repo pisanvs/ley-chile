@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.300, de 31 de diciembre de 2002 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 149-2A para la obra:
+
+"Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli. Sector: Km. 558.700,00 - Km. 567.000,00" Novena Región, que figura a nombre de Luna Fuentes Adolfo Hilario, rol de avalúo 221-1, comuna de Collipulli, superficie 349 m2. La comisión de peritos integrada por los señores Yáschala Maribel Yáñez Riffo, Patricio Fernando Casagrande Ulloa y María Soledad Núñez Arroyo, fijó con fecha 25 de julio de 2002, el valor provisional de la indemnización en la cantidad de $10.059.706.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
