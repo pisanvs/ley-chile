@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.679, de 24 de junio de 1999, se expropió el lote de terreno No. 138, superficie 4.604 m2., rol de avalúo 334-154, comuna de Río Negro, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Osorno - Río Negro, Décima Región y se acordó el valor de indemnización con su propietario Jos‚ Armando Torres ascendente a la cantidad de $ 2.241.992.-
+
+Fiscal del Ministerio de Obras Públicas.
