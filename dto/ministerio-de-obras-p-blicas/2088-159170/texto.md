@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.088, de 30 de julio de 1999, se expropió el lote de terreno Nº3, superficie 4.301,0 m², rol de avalúo 392-8, comuna de Pitrufquén, para la obra Concesión Internacional Ruta 5, Tramo: Collipulli - Temuco, Novena Región y se acordó el valor de indemnización con su propietario Washington Junod Pacheco, ascendente a la cantidad de $3.598.958.
+
+Fiscal del Ministerio de Obras Públicas.
