@@ -1,0 +1,5 @@
+﻿Se separa a don Juan José Carrera de la comandancia de Granaderos i se nombra en su reemplazo a don Cárlos Spano.
+
+Talca, 27 de Noviembre de 1813. - No siendo conforme a la completa libertad que debe gozar un pueblo que trabaja, i derrama su sangre por adquirirla, que todas las armas del Estado se hallen reunidas en una sola familia; viene en separar de la Comandancia de Granaderos al Brigadier don Juan José de Carrera sin que esta medida a que obliga la naturaleza i orma de nuestro Gobierno pueda ahora ni en tiempo alguno reputarse, como deshonra al expresado Comandante que queda con sus mismos honores, i emolumentos, i a quien medita el Gobierno confiarle otros destinos. En su conformidad, habiendo de cesar en el mando del expresado Cuerpo, i necesitándose que le subrogue un oficial de patriotismo, mérito i conocimientos, viene en nombrar por tal Comandante al que lo era segundo de dicho cuerpo. Coronel don Cárlos Spano, i será reconocido i obedecido en este nuevo empleo comunicándose el presente decreto a quienes corresponda. -
+
+Infante. - Eyzaguirre. - Ciefuegos. - Egaña, secretario.
