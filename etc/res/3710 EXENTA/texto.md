@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.710, de 31 de diciembre de 2004, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 3.382 de 2004, modificada mediante resolución Nº 3.480 de 2004, ambas de esta Subsecretaría de Pesca que autorizó a MARES CHILE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Control y monitoreo de la pesquería de Merluza del sur (Merluccius australis) en aguas interiores de la XII Región'', en el sentido de señalar que la cuota de investigación autorizada para el periodo enero-diciembre de 2005, ascenderá a 2.226,5 toneladas de Merluza del sur, las cuales se fraccionarán de la siguiente manera:
+
+206 toneladas para enero; 206 toneladas para febrero; 206 toneladas para marzo; 206 toneladas para abril; 206 toneladas para mayo; 206 toneladas para junio; 206 toneladas para julio; 206 toneladas para septiembre; 206 toneladas para octubre; 206 toneladas para noviembre; 166,5 toneladas para diciembre.
+
+Los límites antes señalados se imputarán a la cuota de captura de Merluza del sur establecida para el área de aguas interiores de la XII Región, mediante decreto exento Nº 1.067 de 2004, del Ministerio de Economía, Fomento y Reconstrucción y se someterán a las reglas de descuento y acrecimiento establecidas en el numeral 5º de la resolución Nº 3.382 de 2004, antes individualizada.
+
+Valparaíso, 31 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
