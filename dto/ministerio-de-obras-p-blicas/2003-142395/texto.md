@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.003, de 30 de julio de 1999, se expropiaron los lotes de terreno Nºs. 109 y 137, superficies 165 y 30.400 m2. respectivamente, roles de avalúo 460-8 y 460-2, comuna de Vicuña, para la obra Embalse Puclaro, sector Gualliguaica IV Etapa y se acordó precio de indemnización con sus propietarios Carlos Villalobos Urrutia y Rafael Codoceo Flores, ascendente a las cantidades de $209.072 y $58.363.112.-
+
+Fiscal del Ministerio de Obras Públicas.
