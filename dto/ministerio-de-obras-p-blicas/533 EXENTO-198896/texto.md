@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 533, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 317, superficie 987 m2., Rol de Avalúo en trámite, comuna de Palmilla, para la obra ''Camino Colchagua-Pichidegua, Sector San Roberto-Cruceros, tramo Km. 12,30000 al Km. 26,00400'', VI Región y se acordó el valor de indemnización con su propietario María Teresa Cañas Pinochet, ascendente a la cantidad de $2.748.440.-
+
+Fiscal del Ministerio de Obras Públicas.
