@@ -1,0 +1,3 @@
+Por resolución Nº 539 de 30 de marzo de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95101009 presentada por TOMAS RUIZ- CLAVIJO SANZ, para instalar y operar un centro de cultivo ubicado en la ribera norte del río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 30 de marzo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
