@@ -1,0 +1,5 @@
+Por Resolución N° 1.128 de 25 de Noviembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA TIBURON LIMITADA, R.U.T. N° 79.882.750-2, domiciliada en la ciudad de Talcahuano, Calle Puerto Cisne N° 8362, para iniciar actividades pesqueras, en orden a operar la embarcación "Tiburón I" en los siguientes litorales: de la III, IV y X Regiones, con cerco los recursos Anchoveta, Jurel, Sardina; en el litoral entre la II y III Regiones, con espinel los recursos Congrio dorado, Congrio negro, Pejegallo, Raya; litoral entre la II Región y el paralelo 41° 28,6' L.S., con espinel el recurso Congrio colorado.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 25 de Noviembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
