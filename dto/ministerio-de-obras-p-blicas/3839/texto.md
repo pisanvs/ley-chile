@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.839, de 29 de diciembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 65, superficie 234 m², rol de avalúo 514-107, comuna de San Fernando, Sexta Región, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector H: km. 128.400,00 al Km. 140.850,00. Posteriormente, por decreto MOP Nº 1036, de 30 de marzo del 2000, se autorizó al Convenio Directo del Precio Ad-Referéndum y se acordó el valor de indemnización con su propietario Francisco Esteban Rubio Lorca, ascendente a la cantidad de $8.602.365.
+
+Fiscal del Ministerio de Obras Públicas.
