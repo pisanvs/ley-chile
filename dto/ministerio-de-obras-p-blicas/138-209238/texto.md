@@ -1,0 +1,5 @@
+Por decreto MOP Nº138, de 5 de marzo de 2003 , y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº82 para la obra:
+
+"Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector G: Km. 110.200,00 al Km. 128.400,00", Sexta Región, que figura a nombre de Llaneza Orellana Nicolás, rol de avalúo 118-93, comuna de Malloa, superficie 1.327 m2. La Comisión de Peritos, integrada por los señores María Isabel de Jesús Ríos Marcuello, José Cristián Larraín Barros y Ricardo Antonio Strickler Arellano fijó, con fecha 18 de enero de 2003, el valor provisional de la indemnización en la cantidad de $4.127.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
