@@ -1,0 +1,3 @@
+Por Resolución No. 1.347, de 05 de Noviembre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por 30 días a contar de esta fecha, el plazo otorgado a don WALTER PATRICIO JIMENEZ SOTO, R.U.T. No. 11.453.582-6, domiciliado en Isla del Rey, dirección postal, casilla 91 de Valdivia, en el numeral 4° de la Resolución No. 843, de 1990, de esta Subsecretaría, en razón de haberse acreditado la concurrencia de una fuerza mayor.
+
+Valparaíso, 05 de Noviembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
