@@ -1,0 +1,5 @@
+AUTORIZA A DON CORSINO BEYER STANGE PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 1.245 de 21 de Octubre de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Corsino Beyer Stange, agricultor, domiciliado en Coihuin Km. 13 del camino de Chamiza a Correntoso, Comuna Puerto Montt, Provincia Llanquihue, X Región, para iniciar actividades pesqueras de cultivo del recurso Trucha Arcoiris en una piscicultura ubicada 13.400 m. aguas arriba del puente del Río Chamiza, Rut U-65, Comuna Puerto Montt (Plano ordinal Sernap N° 655 a y b.). La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 21 de Octubre del 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
