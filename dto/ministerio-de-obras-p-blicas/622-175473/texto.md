@@ -1,0 +1,3 @@
+Por decreto MOP Nº622 de 29 de febrero de 2000, se ordenó y aprobó el plano y cuadro de expropiación del lote de terreno Nº19, y por decreto MOP Nº3.140, de 31 de julio de 2000, se autorizó el valor de la consignación provisional de la expropiación por la vía judicial, en la cantidad de $1.467.000, para la ejecución de la obra Camino Los Robles - Huencuecho - Bajo Perquín, Sector Huencuecho - Bajo Perquín, Tramo Km. 46,140.00 a Km. 76,107.70; el pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
