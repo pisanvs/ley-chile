@@ -1,0 +1,3 @@
+Por decreto MOP Nº32 de fecha 30 de enero de 2003, se expropiaron los lotes de terreno Nº21ES2, 30ES2 y 31ES2, superfies 111, 102 y 36 m2, rol de Avalúo Nº1638-2, comuna de La Cisterna, para la obra "Extensión Sur Línea 2, Sector Lo Ovalle - A. Vespucio", Región Metropolitana y se acordó el valor de la indemnización con su propietario René Antonio Peñailillo Pérez, ascendente a la cantidad de $80.743.424.-
+
+Fiscal del Ministerio de Obras Públicas.
