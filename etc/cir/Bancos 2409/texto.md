@@ -35562,6 +35562,20 @@ En caso que el exportador mantenga obligaciones registradas en el Banco Central 
 
 Las cuentas especiales de que trata el presente Capítulo, se incluirán en la cuenta "Cuentas especiales de retornos Capítulo XXXIV Normas de Cambios", la cual se incorporará en la partida 3010 del MB1.
 
+CAPITULO 14-8 (Bancos)
+
+MATERIA: EXENCION DE IMPUESTO DE TIMBRES Y ESTAMPILLAS.
+
+DOCUMENTOS NECESARIOS PARA OPERACIONES DESTINADAS AL FINANCIAMIENTO DE EXPORTACIONES.
+
+De conformidad con lo dispuesto en el N° 11 del artículo 24 del Decreto Ley N° 3.475, modificado por el artículo 5° de la Ley N° 18.970, publicada en el Diario Oficial del 10 de marzo de 1990, corresponde a esta Superintendencia determinar, para los efectos de la exención del impuesto de timbres y estampillas, los documentos que tienen el carácter de necesarios para efectuar operaciones de crédito de dinero destinadas al financiamiento de exportaciones.
+
+En virtud de la disposición legal antes señalada, se establece que los documentos necesarios para cursar financiamientos de exportaciones, son los siguientes:
+
+a) Las letras de cambio y los pagarés con que se documenten los créditos para financiar exportaciones, de que trata el Capítulo X del Compendio de Normas de Exportación, del Banco Central de Chile, y el Capítulo 14-3 de esta Recopilación, que otorguen los bancos establecidos en el país; y,
+
+b) Los pagarés con que se documenten los préstamos cursados para emitir las Boletas de Garantía a que se refiere el numeral 1.1 del Capitulo XXI del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, y la letra a) del N° 5 del Capítulo 8-11 de esta Recopilación Actualizada de Normas.
+
 CAPITULO 15-1 (Bancos)
 
 MATERIA:
