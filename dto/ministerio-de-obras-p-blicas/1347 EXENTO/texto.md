@@ -1,0 +1,5 @@
+Por decreto MOP, exento Nº1.347, de 28 de septiembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs.2-C, 3, 3A y 11-A, para la ejecución de la obra "Mejoramiento Ruta H-830, Sector San Vicente-El Cardal-Millahue, Km. 0.000 a Km.
+
+8.622,631", que figuran a nombre de Luis Catalán Flores, Hernán Artemio Lorca Lorca, René del C. Carreno y Eugenio Pina Lizana, rol de avalúo 184-18, 184-244, 184-235 y 187-73, de la comuna de San Vicente, VI Región, superficies 42, 30, 73 y 376 m2. La Comisión de peritos fijó con fecha 25 de noviembre de 1998, la indemnización provisional en la cantidad de $627.000, lote 2-C; $250.000, lote 3 y $488.500, lote 3-A, y con fecha 5 de enero de 2000 tasó el monto provisional de la indemnización en la cantidad de $488.800, lote 11-A, la indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
