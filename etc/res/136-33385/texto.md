@@ -1,0 +1,3 @@
+Por Resolución N° 136, 23 de Febrero de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMERCIAL GOP S.A., R.U.T. N° 88.274.600-3, para continuar desarrollando las actividades pesqueras autorizadas a Comercial Gop Ltda., por Resolución N° 421, de 1986, N° 127, de 1987 y N° 22, de 1988, todas de esta Subsecretaría, en virtud de la escritura pública y disposiciones legales mencionadas en Visto.
+
+Valparaíso, de Febrero de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
