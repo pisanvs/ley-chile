@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 1.615 de fecha 31 de octubre del 2001, se expropió el lote de terreno Nº 2, superficie 1.985,00 m², Rol de Avalúo Nº 123-19, comuna de Pencahue, para la obra ''Canal Derivado 4 Las Doscientas Norte Prolongación Km. 0,000 al Km. 0,647, del Proyecto Regadío Pencahue'' y se acordó el valor de indemnización con su propietario Jaime Enrique Castro Castro, ascendente a la cantidad de $1.034.751.
+
+- Fiscal del Ministerio de Obras Públicas.
