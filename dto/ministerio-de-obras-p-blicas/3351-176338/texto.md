@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.351, de 31 de julio de 2000, se expropiaron los lotes de terreno Nºs. 14 y 15, superficies 567 m2. y 573 m2, rol de avalúo 154-264, comuna de Casablanca, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Quinta Región y se acordó el valor de indemnización con su propietario Luigi Santorsa Balsamo, ascendente a la cantidad total de $4.404.864.
+
+Fiscal del Ministerio de Obras Públicas.
