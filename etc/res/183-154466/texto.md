@@ -1,0 +1,3 @@
+Por resolución Nº 183, de 26 de enero de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.178 de 1994, de esta Subsecretaría, que autorizó a SERVICIOS MARINOS S.A., para operar la nave ''Corsario'', sólo en lo relativo a la operación respecto de los recursos Anchoveta, Sardina española, Jurel, Apañado, Ayanque, Bonito, Caballa, Cabinza, Cachurreta, Cojinoba del norte, Dorado, Palometa, Rollizo, Roncacho y Sardina común, en la III y IV Regiones, conforme lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 26 de enero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
