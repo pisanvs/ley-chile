@@ -1,0 +1,3 @@
+Por resolución N° 323, de 14 de Mayo de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 1128, de 1989, de esta Subsecretaría, que autorizó a doña TERESITA JESUS MASSRI RUIZ, R.U.T. N° 11.020.564-3, para operar un establecimiento de cultivo en Chullanquén, Río Maullín, Comuna de Maullín, Provincia de Llanquihue, X Región, por renuncia de su titular, ya individualizada.
+
+Valparaíso, 14 de Mayo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
