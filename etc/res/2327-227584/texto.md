@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 2.327, 2 julio 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº 1950, Las Delicias, Rol de Avalúo Nº 3121-4, comuna Chiguayante, superficie 31,82 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-19203, de aparente dominio de María I. Ruminot Solar, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por María Pamela Mac Guire Acevedo, arquitecto, Ricardo Pedro Conrado Echeverría Hohmann, arquitecto, y Andrés Aníbal Risso Caamaño, arquitecto, según informe de fecha 16 de junio de 2004, fijó monto provisional indemnización en $2.259.643.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
