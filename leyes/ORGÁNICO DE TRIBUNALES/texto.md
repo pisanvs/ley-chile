@@ -116,6 +116,8 @@ Quedan sometidos a la jurisdicción chilena los crímenes y simples delitos perp
 
 8°) Los comprendidos en los tratados celebrados con otras potencias.
 
+9°) Los sancionados por la ley 6.026 y las que la han modificado, cometidos por chilenos o por extranjeros al servicio de la República.
+
 #### Artículo 7°
 
 Los tribunales sólo podrán ejercer su potestad en los negocios y dentro del territorio que la ley les hubiere respectivamente asignado.
@@ -274,7 +276,7 @@ Podrá también el Presidente de la República, a instancia de las mismas Cortes
 
 #### Artículo 29
 
-Habrá, además, un juzgado de letras de menor cuantía en Alto de San Antonio (Iquique), Pampa Unión (Antofagasta), Andacollo, Viña del Mar, Sewell (Rancagua), Curanilahue, Santa Juana, Lota, Temuco, Puerto Saavedra, Villarrica, Valdivia y San José de la Mariquina.
+Habrá, además, un juzgado de letras de menor cuantía en Alto de San Antonio (Iquique), Pampa Unión (Antofagasta), Andacollo, Viña del Mar, Sewell (Rancagua), Curanilahue, Santa Juana, Temuco, Puerto Saavedra, Villarrica, Valdivia y San José de la Mariquina.
 
 Los Juzgados de Viña del Mar y de San José de la Mariquina ejercerán jurisdicción sobre las subdelegaciones de sus respectivos nombres.
 
@@ -324,7 +326,7 @@ En materia de jurisdicción voluntaria los jueces letrados de menor cuantía con
 
 4°) De las gestiones sobre facción de inventarios y nombramientos de curadores especiales, en los casos de los artículos 111 y 124 del Código Civil; y
 
-5°) De las autorizaciones para alterar las partidas asentadas en los libros del Registro Civil y para proceder a la inscripción de nacimientos y defunciones, en los casos de los artículos 17 y 25 de la Ley N° 4808, de 10 de Febrero de 1930.
+5°) De las autorizaciones para alterar las partidas asentadas en los libros del Registro Civil y para proceder a la inscripción de defunciones, en los casos contemplados en los artículos 17, 18 y 26 de la ley N.o 4,808, de 10 de Febrero de 1930.
 
 #### Artículo 34
 
@@ -388,6 +390,8 @@ Igualmente conocerá de los asuntos indicados en el artículo 38 de este Código
 
 Tendrá, asimismo, la competencia indicada en el artículo 37.
 
+> **Nota.** La Ley 9308, publicada el 03.03.1949, elevó al juzgado de letras de menor cuantía de Quillota, a que se refiere este artículo, a la categoría de mayor cuantía, y fijó su nueva planta de personal.
+
 #### Artículo 41
 
 Suprimido.
@@ -412,7 +416,7 @@ El Presidente de la República podrá modificar los límites de la jurisdicción
 
 #### Artículo 44
 
-También habrá juzgados de mayor cuantía en las ciudades de Petorca, Putaendo, Casablanca, Limache y Florida (Concepción), cuyos territorios jurisdiccionales serán las comunas-subdelegaciones de sus respectivos nombres, salvo el de Limache, que conmprenderá, además, las comunas de Quilpué y Villa Alemana. Estas divisiones administrativas serán consideradas como departamentos para todos los efectos del servicio judicial.
+También habrá juzgados de mayor cuantía en las ciudades de Petorca, Putaendo, Casablanca, Limache y Florida (Concepción), cuyos territorios jurisdiccionales serán las comunas-subdelegaciones de sus respectivos nombres, salvo el de Limache, que conmprenderá, además, las comunas de Quilpué y Villa Alemana y el de Casablanca, que comprenderá también la comuna de Algarrobo. Estas divisiones administrativas serán consideradas como departamentos para todos los efectos del servicio judicial.
 
 #### Artículo 45
 
@@ -1480,7 +1484,7 @@ Los jueces pueden perder su competencia para conocer determinados negocios por i
 
 Son causas de implicancia:
 
-1°) Ser el juez parte en el pleito o tener en él interés personal, salvo lo dispuesto en el N° 18 del artículo siguiente y en los artículos 1,324 y 1,325 del Código Civil;
+1°) Ser el juez parte en el pleito o tener en él interés personal, salvo lo dispuesto en el N° 18 del artículo siguiente;
 
 2°) Ser el juez consorte o pariente consanguíneo legítimo en cualquiera de los grados de la línea recta y en la colateral hasta el segundo grado inclusive, o ser padre o hijo natural o adoptivo de alguna de las partes o de sus representantes legales;
 
@@ -1497,6 +1501,8 @@ Son causas de implicancia:
 8°) Haber el juez manifestado su dictamen sobre la cuestión pendiente, con conocimiento de los antecedentes necesarios para pronunciar sentencia; y
 
 9°) Ser el juez, su consorte, o alguno de sus ascendientes o descendientes legítimos, padres o hijos naturales o adoptivos, heredero instituído en testamento por alguna de las partes.
+
+Lo dicho en este artículo es sin perjuicio de lo dispuesto en el artículo 1324 y en los incisos tercero y cuarto del artículo 1325 del Código Civil.
 
 #### Artículo 196
 
@@ -1756,7 +1762,7 @@ Puede ser nombrado árbitro toda persona mayor de edad, con tal que tenga la lib
 
 El nombramiento de árbitros de derecho sólo puede recaer en un abogado.
 
-Regirá, además, para los partidores lo dispuesto en los artículos 1323, 1324 y 1325 del Código Civil.
+En cuanto al nombramiento de partidor, se estará a lo dispuesto en los artículos 1323, 1324 y 1325 del Código Civil.
 
 #### Artículo 226
 
@@ -1876,9 +1882,7 @@ El compromiso no cesa por la muerte de una o más de las partes, y el juicio seg
 
 #### Artículo 243
 
-Los árbitros nombrados por las partes no son recusables sino por causas que hayan sobrevenido a su nombramiento.
-
-Sin embargo, es también admisible la recusación por causa anterior al nombramiento, si la parte recusante jura que en aquella sazón no la conocía.
+Los árbitros nombrados por las partes no pueden ser inhabilitados sino por causas de implicancia o recusación que hayan sobrevenido a su nombramiento, o que se ignoraban al pactar el compromiso.
 
 ## Título X
 
@@ -2027,6 +2031,8 @@ No podrá existir el parentesco de consanguinidad hasta el cuarto grado o de afi
 #### Artículo 261
 
 Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las escuelas dependientes de la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, de la enseñanza secundaria y especial hasta un límite de ocho horas semanales y de Consejero de la Caja Nacional de Empleados Públicos y Periodistas.
+
+> **Nota.** El artículo único de la ley 9585, publicada el 04.04.1950, declaró que el sentido de la incompatibilidad establecida en el presente artículo es que aquella no rige para los abogados integrantes de los Tribunales Superiores ni para los abogados subrogantes de los jueces.
 
 ### 3. De los nombramientos y del escalafón de los funcionarios judiciales
 
