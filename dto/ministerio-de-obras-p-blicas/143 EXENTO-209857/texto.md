@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº143 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº79, superficie 183 m², Rol Nº1125-85, comuna de Pichilemu, VI Región para la obra "Camino Pichilemu-Cahuil, Ruta I-500, Km. 0,980 a Km. 12,76217" y se acordó el valor de indemnización con su propietario Luis Antonio Cornejo Vargas, ascendente a la cantidad de $575.731.
+
+Fiscal del Ministerio de Obras Públicas.
