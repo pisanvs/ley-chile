@@ -1,0 +1,27 @@
+RESOLUCION Nº 620, DE 2001
+
+Por orden de la Honorable Comisión Resolutiva, se ha dispuesto publicar en extracto la resolución Nº 620, de fecha 22 de agosto de 2001, que corresponde a la sentencia definitiva recaída en los autos Rol Nº 572-98, caratulados "Requerimiento del Fiscal Nacional Económico y denuncia de Edelnor en contra de las Empresas Eléctricas Emelari S.A., Eliqsa S.A., Elecda S.A., Emel S.A. y Nopel Ltda.", que se transcribe a continuación:
+
+"1º.- Que se rechazan las objeciones de documentos formuladas, a las cuales se refiere este fallo, por los motivos señalados en el considerando tercero.
+
+2º.- Que se rechaza la denuncia interpuesta a fs. 86 por Empresa Eléctrica del Norte Grande S.A. en contra de Empresa Eléctrica de Arica S.A, Empresa Eléctrica de Antofagasta S.A., Empresa Eléctrica de Iquique S.A., Empresas Emel S.A. y Nor Oeste Pacífico Generación de Energía Limitada, en cuanto solicitaba dejar sin efecto los contratos materia de dicha denuncia, sin costas, por estimar esta Comisión que ha tenido motivo plausible la parte denunciante para litigar.
+
+3º.- Que se acoge el requerimiento del señor Fiscal Nacional Económico en cuanto se ordena modificar los contratos celebrados con fecha 6 de noviembre de 1998, que han sido objeto de revisión por esta Comisión, en el sentido que a continuación se indica:
+
+3.1.- Las empresas Emelari, Eliqsa, Elecda, Emel y Nopel deberán modificar el convenio de negocios de fecha 6 de noviembre de 1998, suscrito entre ellas, como asimismo los contratos de suministro celebrados entre Emelari, Eliqsa, Elecda y Nopel, de igual fecha, en el sentido de establecer que la duración de los mismos no podrá exceder el plazo de 10 años contados desde la fecha de inicio del suministro.
+
+En todo caso, las empresas Emelari, Eliqsa y Elecda deberán proceder a dar cumplimiento estricto a la obligación de licitar públicamente el suministro, antes del vencimiento de los contratos materia de este fallo, de conformidad con el artículo 240 del Reglamento Eléctrico, y así, sucesivamente, en el futuro.
+
+3.2.- En el evento de que las empresas contratantes, con motivo de lo resuelto en el numeral 3.1. precedente, establezcan cláusulas de terminación anticipada de los contratos, no podrán restringir la facultad de cada una de las distribuidoras para impetrarlas en forma individual e independiente; a diferencia de lo pactado en la cláusula 3.1., inciso segundo, del Convenio de Negocios celebrado con fecha 6 de noviembre de 1998 entre las empresas Emelari, Eliqsa, Elecda, Emel y Nopel.
+
+3.3.- Las empresas contratantes deberán eliminar el párrafo segundo de la cláusula 3.2 del Convenio de Negocios (mejores esfuerzos) por constituir una cláusula que atenta en contra de la libre competencia en el mercado del SING.
+
+Lo dispuesto en los numerales 3.1, 3.2 y 3.3 precedentes, deberá cumplirse dentro del plazo de 30 días corridos desde la última notificación de la presente resolución a las partes, acreditándose los actos y contratos que se celebren para la ejecución de lo resuelto.
+
+3.4.- La sociedad de transmisión que se forme en cumplimiento de lo estipulado en las cláusulas cuarta y siguientes del Convenio de Negocios de fecha 6 de noviembre de 1998, deberá constituirse como sociedad anónima abierta o cerrada de giro exclusivo sujeta a las normas que rigen a las sociedades anónimas abiertas e inscrita en el Registro de Valores, dentro del plazo de dos años.
+
+4º.- Se previene a las empresas eléctricas que queda estrictamente prohibido solicitar u ofrecer primas o pagos distintos al precio del servicio públicamente ofertado en los respectivos procesos de licitación, reafirmando esta Comisión lo expresado en la instrucción general contenida en el numeral 4.4. de la resolución Nº 488, de 11 de junio de 1997, en el sentido que se deberá siempre resguardar el traspaso a los usuarios de los eventuales menores costos por parte de las empresas concesionarias de distribución eléctrica, lo que se asegura mediante un proceso de compra por medio de una licitación pública."
+
+Lo resuelto en las decisiones dos a cuatro precedentes fue acordado luego de desestimarse una moción presentada por los señores Pérez y Palma en orden a dejar sin efecto los contratos revisados y cuyos fundamentos constan en el texto original del fallo. Asimismo, existe una prevención formulada por el señor Undurraga respecto del motivo undécimo del fallo, como también un voto en contra de los señores Pérez y Palma respecto de la decisión contenida en el numeral 3.1, párrafo primero, antes transcrito, cuyos fundamentos también se encuentran contenidos en el texto original del fallo. La resolución fue dictada por don José Luis Pérez Zañartu, Ministro de la Excma. Corte Suprema y Presidente de la Comisión; don Cristián Palma Arancibia, Director del Servicio Nacional de Aduanas; don Alberto Undurraga Vicuña, Director del Servicio Nacional del Consumidor; don Arnaldo Gorziglia Balbi, Decano de la Facultad de Ciencias Jurídicas y Sociales de la Universidad Gabriela Mistral y don Francisco Rosende Ramírez, Decano de la Facultad de Ciencias Económicas y Administrativas de la Pontificia Universidad Católica de Chile.
+
+Santiago, veintidós de agosto de dos mil uno.- Jaime Barahona Urzúa, Secretario Abogado Comisión Resolutiva.
