@@ -1,0 +1,7 @@
+Por Resolución N° 185, de 8 de febrero de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía Fomento y Reconstrucción, autorízase a AQUASUR FISHERIES SOCIEDAD PESQUERA LTDA. R.U.T. N° 79.728.530-7, para ampliar actividades pesqueras autorizadas por la Resolución N° 1.246, de 1987, de esta Subsecretaría, en orden a incorporar a su planta autorizada mediante Resolución citada en el numeral precedente, ubicada en Camino Chinquihue KM 7, Puerto Montt, la línea de elaboración de conserva, pudiendo utilizar como materia prima los siguientes recursos hidrobiológicos: Conserva: Salmón del Atlántico, Salmón del Pacífico, Trucha arco iris, Almeja o taca, Almeja, Calamar, Caracol palo palo, Caracol trumulco, Cholga, Chorito, Culengue, Lapa, Macha, Navajuela, Ostión de sur, Ostra chilena, Pulpo, Centolla, Centollón, Jaiba y Erizo.
+
+En el ejercicio de las actividades de procesamiento autorizadas, la solicitante deberá dar estricto cumplimiento a las normas legales y reglamentarias que regulen la conservación de recursos hidrobiológicos.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 8 de Febrero de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
