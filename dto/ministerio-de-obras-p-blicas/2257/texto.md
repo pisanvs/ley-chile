@@ -1,0 +1,3 @@
+Por decreto MOP N°2.257, de 30 de octubre de 1998, se expropió el lote de terreno N°1, superficie 3.236 m2, rol de avalúo 1.248-32, comuna de Penco, para la obra Ampliación y Reposición Ruta 150, Concepción - Lirquén, Sector Penco - Lirquén y se acordó precio de indemnización con su propietario Comunidad Villa O'Higgins, ascendente a la cantidad de $14.411.258.
+
+Fiscal del Ministerio de Obras Públicas.
