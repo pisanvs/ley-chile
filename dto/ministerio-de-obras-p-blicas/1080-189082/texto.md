@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.080 de fecha 13 de julio de 2001, que rectifica al decreto MOP Nº 598 de fecha 30 de marzo de 2001, se expropió el lote de terreno único, superficie 177.706,71 m2, Rol de Avalúo Nº 250-3, comuna de Salamanca, para la obra "Proyecto Estudio de Factibilidad y Diseño de Embalse Corrales y sus Obras Complementarias" y se acordó el valor de la indemnización con su propietario Sociedad Agrícola y Ganadera Eduardo Suárez, Gerardo Flores y Compañía o Sociedad Agrícola y Ganadera Camisas y Compañía, ascendente a la cantidad de $36.369.455.-
+
+Fiscal del Ministerio de Obras Públicas.
