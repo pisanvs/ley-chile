@@ -1,0 +1,3 @@
+Por resolución No. 168 de fecha 28 de Octubre de 1991 del Ministerio de Economía, Fomento y Reconstrucción se canceló la personalidad jurídica de la Asociación de Funcionarios Universitarios No Académicos de Talca A.G. inscrita bajo el No. 48-7 del Registro que para tal efecto lleva este Ministerio por haberse configurado respecto de ella, la causal de cancelación contemplada en el artículo 5° inciso 3° en relación con el artículo 18 No. 2 letra a) del decreto ley No. 2.757, de 1979.-
+
+Jorge Marshall Rivera, Subsecretario de Economía, Fomento y Reconstrucción.
