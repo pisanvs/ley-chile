@@ -1696,7 +1696,7 @@ CUENTAS CORRIENTES BANCARIAS Y CHEQUES.
 
 ### I. GENERALIDADES
 
-El artículo 83, N° 1 de la Ley General de Bancos, faculta a las instituciones bancarias para abrir y mantener cuentas corrientes a sus clientes. Las cuentas corrientes bancarias, tanto en moneda chilena como extranjera, se rigen principalmente por la Ley sobre Cuentas Corrientes Bancarias y Cheques y por las condiciones generales que fije cada banco.
+El artículo 69, N° 1 de la Ley General de Bancos, faculta a las instituciones bancarias para abrir y mantener cuentas corrientes a sus clientes. Las cuentas corrientes bancarias, tanto en moneda chilena como extranjera, se rigen principalmente por la Ley sobre Cuentas Corrientes Bancarias y Cheques y por las condiciones generales que fije cada banco.
 
 El cheque girado en pago de obligaciones está sujeto a las reglas generales de la letra de cambio, contenidas en la Ley N° 18.092, en subsidio de las normas particulares de la Ley sobre Cuentas Corrientes Bancarias y Cheques.
 
@@ -1810,7 +1810,7 @@ Esa opinión se fundamenta en que, en esos casos, existen dos patrimonios, uno d
 
 La Ley sobre Cuentas Corrientes Bancarias y Cheques, en su artículo 22, expresa:" ... la Superintendencia dictará. normas de carácter general destinadas a sancionar con multa a aquellos bancos respecto de los cuales pueda presumirse que, por el número de cheques que protestan en cada semestre, no dan cumplimiento cabal a las instrucciones sobre apertura de cuentas corrientes bancarias."
 
-Concordante con dicho precepto, al término de cada período semestral este Organismo efectua una evaluación de la situación individual de cada banco y del porcentaje de protestos de cheques que registra en relación con el término medio que arroja la banca en general. Sobre la base de dicha evaluación, esta Superintendencia puede aplicar sanciones, de conformidad con el del D.L. N° 1.097 de 1975, a todos aquellos bancos cuya clientela acuse protestos que excedan en un porcentaje importante al promedio general.
+Concordante con dicho precepto, al término de cada período semestral este Organismo efectua una evaluación de la situación individual de cada banco y del porcentaje de protestos de cheques que registra en relación con el término medio que arroja la banca en general. Sobre la base de dicha evaluación, esta Superintendencia puede aplicar sanciones, de conformidad con el de la Ley General de Bancos, a todos aquellos bancos cuya clientela acuse protestos que excedan en un porcentaje importante al promedio general.
 
 ### 2. Cuenta correntistas con más de una cuenta corriente en el mismo banco
 
@@ -3982,7 +3982,7 @@ Tan pronto como las instituciones financieras emisoras reciban el certificado de
 
 ### 1. Autorización previa
 
-Para realizar aumentos de capital mediante la emisión de acciones, ya sean de pago o liberadas, las instituciones financieras deberán solicitar a esta Superintendencia la autorización para reformar los estatutos, de conformidad con lo previsto en el artículo 69 de la Ley General de Bancos. La única excepción a esta norma la constituye la capitalización de dividendos de acciones con preferencia, que se efectúe al amparo de lo dispuesto en el artículo 10 de la Ley N° 18.401. Sin embargo, las acciones liberadas que se originen de esa capitalización, también deben inscribirse en el Registro de Valores.
+Para realizar aumentos de capital mediante la emisión de acciones, ya sean de pago o liberadas, las instituciones financieras deberán solicitar a esta Superintendencia la autorización correspondiente, de conformidad con lo previsto en el artículo 52 de la Ley General de Bancos, como también para reformar sus estatutos, cuando proceda.
 
 ### 2. Inscripción en el Registro de Valores
 
@@ -3996,19 +3996,15 @@ c) Plazos establecidos para la emisión, suscripción y pago de las acciones, se
 
 d) Forma de pago, señalando si existen modalidades para el pago a plazo y descripción de las que se hubieren acordado, indicando los derechos y obligaciones de los suscriptores que utilicen el pago a plazo;
 
-e) Al tratarse de acciones cuya emisión se acordare al amparo del artículo 10 de la Ley N° 18.401, deberá indicarse ese hecho y el porcentaje que se repartirá como dividendo de los excedentes que proporcionalmente le corresponderán, mientras tengan la calidad de acciones con preferencia.
+e) Copia del acta de la junta de accionistas, reducida a escritura pública, en la que se acordó el aumento de capital.
 
-f) Copia del acta de la junta de accionistas, reducida a escritura pública, en la que se acordó el aumento de capital.
+f) Ejemplar de la publicación efectuada y del aviso enviado a los accionistas sobre la emisión.
 
-g) Ejemplar de la publicación efectuada y del aviso enviado a los accionistas sobre la emisión.
-
-Si bien la mayor parte de los antecedentes antes señalados se refieren a acciones de pago, igualmente deben inscribirse en el Registro de Valores las emisiones de acciones liberadas, incluidas aquellas a que se refiere la letra e) anterior. En estos casos se enviará sólo la información pertinente a las características de la emisión de que se trate. Si se procediere a un canje de acciones, deberá describirse la proporción en que se hará la conversión y las condiciones y oportunidad en que se realizará el
-
-reemplazo de títulos.
+Si bien la mayor parte de los antecedentes antes señalados se refieren a acciones de pago, igualmente deben inscribirse en el Registro de Valores las emisiones de acciones liberadas. En estos casos se enviará sólo la información pertinente a las características de la emisión de que se trate. Si se procediere a un canje de acciones, deberá describirse la proporción en que se hará la conversión y las condiciones y oportunidad en que se realizará el reemplazo de títulos.
 
 ### III. EMISION DE BONOS
 
-De conformidad con lo dispuesto en el N° 1 bis del artículo 83 y en la letra b) del artículo 113 de la Ley General de Bancos, y en el Capítulo III.B.l del Compendio de Normas Financieras del Banco Central de Chile, los bancos y sociedades financieras están facultados para emitir bonos o debentures sin garantía especial, a la orden o al portador.
+De conformidad con lo dispuesto en el N° 2 del artículo 69 y en la letra b) del artículo 115 de la Ley General de Bancos, y en el Capítulo III.B.l del Compendio de Normas Financieras del Banco Central de Chile, los bancos y sociedades financieras están facultados para emitir bonos o debentures sin garantía especial, a la orden o al portador.
 
 La emisión de bonos deberá ser acordada por el directorio de la institución o por la junta de accionistas cuando sean canjeables por acciones. En el caso de sucursales de bancos extranjeros, bastará con que suscriba la escritura el agente designado para administrar la sucursal con plenas facultades.
 
@@ -4112,7 +4108,7 @@ n) Obligaciones, limitaciones o prohibiciones a que se sujetará el emisor duran
 
 ñ) Obligaciones específicas de información que el emisor deberá proporcionar a los tenedores de bonos. Deberá indicarse la forma en que se dará aviso de pago de los bonos. Asimismo, se indicará la información financiera que se hará llegar a los representantes de los tenedores de bonos, la que incluirá, al menos, los estados de situación exigidos por esta Superintendencia y la memoria, cuando corresponda.
 
-o) Indicación, cuando corresponda, que se trata de bonos convertibles en acciones, señalando la relación de conversión o forma de determinarla o bien, que son bonos subordinados emitidos al amparo del artículo 68 de la Ley General de Bancos.
+o) Indicación, cuando corresponda, que se trata de bonos convertibles en acciones, señalando la relación de conversión o forma de determinarla o bien, que son bonos subordinados emitidos al amparo del artículo 55 de la Ley General de Bancos.
 
 p) Referencia a procedimientos para canje de títulos o cupones, o para remplazo de éstos en casos de extravío, hurto, robo, inutilización o destrucción.
 
@@ -4228,7 +4224,7 @@ c) Características de los bonos: Indicación del monto total de la emisión, el
 
 - Fecha a partir de la cual comienzan a devengar intereses y reajustes, y desde la cual se cuenta el plazo de amortización.
 
-- Indicación de si los bonos serán o no convertibles en acciones, señalando la relación de conversión o forma de determinarla o si se trata de bonos subordinados emitidos en conformidad al artículo 68 de la Ley General de Bancos.
+- Indicación de si los bonos serán o no convertibles en acciones, señalando la relación de conversión o forma de determinarla o si se trata de bonos subordinados emitidos en conformidad al artículo 55 de la Ley General de Bancos.
 
 d) Reglas para la protección de los tenedores: Referencia a cualquier restricción, limitación u obligación a que se someta la entidad emisora con el fin de proteger los derechos de los tenedores de bonos, tales como prohibiciones de enajenación de activos, de incurrir en ciertos niveles de deuda, de pagos de dividendos u otras. En caso de no haber, deberá señalarse expresamente.
 
@@ -4784,7 +4780,7 @@ En el caso de la obtención de recursos mediante venta de documentos con pacto d
 
 Los excedentes de encaje en moneda nacional no pueden utilizarse para cubrir déficit de encaje en dólares de los Estados Unidos de América. A su vez, los excedentes de encaje en dólares de los Estados Unidos de América, no se pueden emplear para cubrir déficit de encaje en moneda chilena.
 
-6. Obligaciones afectas a reserva técnica, art. 80 bis Ley General de Bancos.
+6. Obligaciones afectas a reserva técnica, art. 65 Ley General de Bancos.
 
 El monto de las obligaciones afectas a la reserva técnica de que tratan el Capítulo III.A.4 del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 4-2 de esta Recopilación, no estarán afectos a la exigencia de encaje de que trata este Capítulo.
 
@@ -9148,21 +9144,21 @@ El Administrador percibirá anualmente una comisión del 10% sobre el resultado 
 
 El Administrador del Fondo fijará la comisión que pagarán al Fondo los usuarios de los créditos garantizados, la que no podrá exceder de un 2% anual sobre el saldo de capital caucionado.
 
-El pago de esta comisión deberá realizarse en los mismos plazos establecidos para el pago de intereses En todo caso el Administrador determinará la forma y plazo en que estos pagos serán traspasados de la institución otorgante del crédito al Fondo de Garantía.
+El pago de esta comisión deberá realizarse en los mismos plazos establecidos para el pago de intereses. En todo caso el Administrador determinará la forma y plazo en que estos pagos serán traspasados de la institución otorgante del crédito al Fondo de Garantía.
 
 VI.- ADMINISTRACION.
 
 #### Artículo 27
 
-El Administrador del Fondo establecerá las normas operativas necesarias para el normal desarrollo del Fondo de Garantía con sujeción a lo señalado en el Decreto Ley N° 3472 y sus modificaciones, y a las normas establecidas en el presente Reglamento.
+El Administrador del Fondo establecerá las normas operativas necesarias para el normal desarrollo del Fondo de Garantía con sujeción a lo señalado en el Decreto Ley N° 3.472 y sus modificaciones, y a las normas establecidas en el presente Reglamento.
+
+Para los fines previstos en el artículo 14 de la Ley General de Bancos, le corresponderá al Administrador del Fondo informar a la Superintendencia de Bancos e Instituciones Financieras los importes impagos de los créditos correspondientes a la subrogación pagada por el Fondo.
 
 VII.- FISCALIZACION.
 
 #### Artículo 28
 
 La Superintendencia de Bancos e Instituciones Financieras tendrá a su cargo la fiscalización del Fondo, como asimismo del cumplimiento de las disposiciones de este Reglamento.
-
-Para los fines previstos en el artículo 13 bis del D.L. N° 1.097, le corresponderá al Administrador del Fondo informar a la Superintendencia de Bancos e Instituciones Financieras los importes impagos de los créditos correspondientes a la subrogación pagada por el Fondo.
 
 CAPITULO 8-10 (Bancos y Financieras)
 
@@ -9730,25 +9726,11 @@ CAPITULO 8-17 (Bancos y Financieras)
 
 MATERIA:
 
-INFORMACION A LOS AVALISTAS O FIADORES SOBRE EL INCUMPLIMIENTO DEL DEUDOR
+INFORMACION A LOS AVALISTAS O FIADORES SOBRE EL INCUMPLIMIENTO DEL DEUDOR DIRECTO DE UNA OBLIGACION EN FAVOR DE INSTITUCIONES FINANCIERAS.
 
-DIRECTO DE UNA OBLIGACION EN FAVOR DE INSTITUCIONES FINANCIERAS.
+Las instituciones financieras deberán informar a los avalistas o fiadores de los aceptantes o suscriptores de los documentos a favor del banco o sociedad financiera, cuando tales créditos no han sido pagados por el deudor principal. La citada obligación deberá cumplirse mediante carta certificada dirigida al domicilio del correspondiente deudor indirecto, dentro del plazo de diez días hábiles contado desde la fecha del vencimiento de la respectiva obligación.
 
-Las instituciones financieras deberán informar a los avalistas o fiadores de los
-
-aceptantes o suscriptores de los documentos a favor del banco o sociedad
-
-financiera, cuando tales créditos no han sido pagados por el deudor principal.
-
-La citada obligación deberá cumplirse mediante carta certificada dirigida al
-
-domicilio del correspondiente deudor indirecto, dentro del plazo de diez días
-
-hábiles contado desde la fecha del vencimiento de la respectiva obligación.
-
-El incumplimiento de estas instrucciones será sancionado de acuerdo con lo
-
-previsto en el artículo 19 del Decreto Ley N° 1.097, de 1975.
+El incumplimiento de estas instrucciones será sancionado de acuerdo con lo previsto en el artículo 19 de la Ley General de Bancos.
 
 CAPITULO 8-18 (Bancos y Financieras)
 
@@ -12382,33 +12364,11 @@ OPERACIONES CON LETRAS DE CREDITO.
 
 I.- DE LAS LETRAS DE CREDITO.
 
-La emisión de letras de crédito y las operaciones que las instituciones
+La emisión de letras de crédito y las operaciones que las instituciones financieras pueden realizar con estos instrumentos se rigen por las disposiciones del Título XIII de la Ley General de Bancos, sin perjuicio de los demás preceptos de la misma Ley que les fueran aplicables; por las normas específicas contenidas en los Capítulos II.A.1, II.A.1.1 y II.A.1.2 del Compendio de Normas Financieras y por las instrucciones que se imparten en este capítulo.
 
-financieras pueden realizar con estos instrumentos se rigen por las
+Las instituciones financieras deben tener presente que la emisión de letras de crédito puede tener su origen exclusivamente en el otorgamiento de préstamos en la misma modalidad. En otros términos, el monto de las letras de crédito en circulación emitidas por una institución financiera debe mantener un equilibrio permanente con el saldo de préstamos en letras de crédito, ya sea que la
 
-disposiciones del Título XII de la Ley General de Bancos, sin perjuicio de los
-
-demás preceptos de la misma Ley que les fueran aplicables; por las normas
-
-específicas contenidas en los Capítulos II.A.1, II.A.1.1 y II.A.1.2 del
-
-Compendio de Normas Financieras y por las instrucciones que se imparten en este
-
-capítulo.
-
-Las instituciones financieras deben tener presente que la emisión de letras de
-
-crédito puede tener su origen exclusivamente en el otorgamiento de préstamos en
-
-la misma modalidad. En otros términos, el monto de las letras de crédito en
-
-circulación emitidas por una institución financiera debe mantener un equilibrio
-
-permanente con el saldo de préstamos en letras de crédito, ya sea que la
-
-respectiva hipoteca se encuentre debidamente inscrita a su favor o que aún no se
-
-haya cumplido ese trámite.
+respectiva hipoteca se encuentre debidamente inscrita a su favor o que aún no se haya cumplido ese trámite.
 
 1. - Del prospecto.
 
@@ -12584,9 +12544,7 @@ Al igual que las tablas de desarrollo de las letras de crédito, estas tablas de
 
 Cuando la tabla corresponda a mutuos con tasa de interés flotante, no se mencionarán los datos señalados en las letras c) y e), ya que el servicio de la deuda dependerá de la tasa de interés que rija en cada oportunidad. En este caso, se dejará constancia, en la respectiva tabla de desarrollo, de la fórmula que se utilizará para el cálculo de los intereses y que ella se aplicará sobre el saldo insoluto de capital antes del pago del respectivo dividendo. Asimismo, se indicará que en dicha fórmula se empleará la Tasa de Interés Promedio (TIP), que el Banco Central de Chile certifique y publique en el Diario Oficial, en conformidad al Capítulo IV.B.8.1 del Compendio de Normas Financieras, debiendo señalar el límite máximo que dicha tasa podrá alcanzar, como también el mínimo, en el caso que éste se hubiera fijado.
 
-A fin de facilitar el cobro de los mutuos hipotecarios y de conformidad con lo dispuesto en el artículo 106 de la Ley General de Bancos, las instituciones
-
-financieras deberán protocolizar las tablas de desarrollo en una Notaría, para dejar constancia, posteriormente, en cada una de las escrituras de mutuo, de la tabla que es aplicable a la deuda.
+A fin de facilitar el cobro de los mutuos hipotecarios y de conformidad con lo dispuesto en el artículo 111 de la Ley General de Bancos, las instituciones financieras deberán protocolizar las tablas de desarrollo en una Notaría, para dejar constancia, posteriormente, en cada una de las escrituras de mutuo, de la tabla que es aplicable a la deuda.
 
 2.3.- Tablas de desarrollo aplicables a créditos para adquisición de vivienda.
 
@@ -12726,7 +12684,7 @@ Las instituciones que efectúen sorteos, deberán entregar a la empresa de depó
 
 8.1.- Registro de las emisiones.
 
-De acuerdo con lo dispuesto en el artículo 91 de la Ley General de Bancos, las instituciones emisoras deben mantener un registro de las letras de crédito que emitan.
+De acuerdo con lo dispuesto en el artículo 96 de la Ley General de Bancos, las instituciones emisoras deben mantener un registro de las letras de crédito que emitan.
 
 Este Registro de Letras de Crédito tendrá por objeto mantener un control permanente de las letras de crédito emitidas en relación con los prospectos certificados por esta Superintendencia, como asimismo, demostrar que toda letra de crédito que se haya emitido, corresponde a un préstamo hipotecario cursado por la institución emisora de acuerdo con esta modalidad de crédito.
 
@@ -12754,7 +12712,7 @@ Los registros de que tratan los numerales precedentes pueden llevarse separadame
 
 Por consiguiente, cada institución financiera adoptará las modalidades que estime más adecuadas en lo que respecta a configuración de los sistemas de registro, debiendo seguir, naturalmente, todos los procedimientos de control necesarios para asegurar la veracidad e integridad de la información.
 
-Conforme a lo establecido en el artículo 91 de la Ley General de Bancos, esta Superintendencia está facultada para hacerse cargo en cualquier momento del registro de las emisiones de letras de crédito, si se detectaren deficiencias o irregularidades en su manejo por parte de alguna entidad emisora.
+Conforme a lo establecido en el artículo 96 de la Ley General de Bancos, esta Superintendencia está facultada para hacerse cargo en cualquier momento del registro de las emisiones de letras de crédito, si se detectaren deficiencias o irregularidades en su manejo por parte de alguna entidad emisora.
 
 9.- Información al público.
 
@@ -12850,7 +12808,7 @@ Por otra parte, las entidades financieras deben tener presente que la suma delas
 
 La entidad otorgante de préstamos en letras de crédito, hará entrega de éstas al deudor una vez que las haya ingresado al Libro de Registro, de acuerdo con lo expresado en el numeral 8.1 del título I del presente capítulo.
 
-Debe tenerse presente que el producto de los préstamos en letras de crédito que se concedan para edificaciones o para la construcción de obras destinadas al mejor aprovechamiento agrícola o industrial del inmueble, se entregará en cuotas sucesivas, a medida del avance de las obras, conforme con lo dispuesto en el artículo 88 de la Ley General de Bancos.
+Debe tenerse presente que el producto de los préstamos en letras de crédito que se concedan para edificaciones o para la construcción de obras destinadas al mejor aprovechamiento agrícola o industrial del inmueble, se entregará en cuotas sucesivas, a medida del avance de las obras, conforme con lo dispuesto en el artículo 93 de la Ley General de Bancos.
 
 En consideración a que el importe de las letras de crédito debe guardar perfecta concordancia con el importe del respectivo mutuo, la entidad emisora de letras de crédito para vivienda, antes de ponerlas en circulación, deberá desprender los cupones correspondientes a los trimestres comprendidos entre el 1° de enero del año en que se efectúe la emisión material de las respectivas letras de crédito y el trimestre en que el deudor comience a pagar sus dividendos. En los casos en que el primer dividendo corresponda pagarlo en los meses de enero,abril, julio u octubre, el último cupón que desprenderá la institución
 
@@ -12920,9 +12878,7 @@ se firme la correspondiente escritura o el día primero del mes subsiguiente a
 
 8.- Amortización extraordinaria de préstamos.
 
-El artículo 95 de la Ley General de Bancos faculta a los deudores de préstamos en letras de crédito para reembolsar anticipadamente todo o parte del capital no amortizado de su deuda, ya sea en dinero o en letras de crédito de la misma serie del préstamo. A este respecto, las normas del Banco Central de Chile agregan que, en el caso del pago mediante letras de crédito, éstas deben ser también del
-
-mismo año y del mismo emisor.
+El artículo 100 de la Ley General de Bancos faculta a los deudores de préstamos en letras de crédito para reembolsar anticipadamente todo o parte del capital no amortizado de su deuda, ya sea en dinero o en letras de crédito de la misma serie del préstamo. A este respecto, las normas del Banco Central de Chile agregan que, en el caso del pago mediante letras de crédito, éstas deben ser también del mismo año y del mismo emisor.
 
 Cuando el pago se realice en esta última forma, las letras serán recibidas por el valor nominal del respectivo título, descontadas las amortizaciones parciales ya efectuadas, en el caso de que se trate de letras con amortización directa, o a su valor par cuando lo sean con amortización indirecta.
 
@@ -12932,9 +12888,7 @@ En el caso de una amortización extraordinaria total de la deuda, el deudor debe
 
 Cuando se trate de amortizaciones anticipadas parciales, el pago se aplicará proporcionalmente a los dividendos restantes de la deuda, de modo que el importe de éstos se rebajará sin alterar el plazo pactado de ella. En este caso, el monto pagado por el deudor se aplicará al capital insoluto a la fecha del pago y, sobre la base del saldo resultante y del plazo remanente, se recalcularán los dividendos que deben pagarse a partir del mes siguiente. En caso de operaciones con tasa de interés variable, la amortización de capital que corresponderá incluir en los dividendos remanentes, se calculará según la tasa de interés vigente en la fecha en que se efectúe el pago anticipado.
 
-En conformidad con lo dispuesto en el inciso segundo del artículo 95 de la Ley General de Bancos, el deudor que amortice forma extraordinaria, total o
-
-parcialmente el saldo de su deuda, debe pagar a la entidad emisora, adicionalmente, una suma equivalente al interés y comisión correspondiente a un período de amortización de las letras de su préstamo, calculada sobre el monto que se amortice extraordinariamente, cualquiera hubiera sido la cantidad pagada anticipadamente.
+En conformidad con lo dispuesto en el inciso segundo del artículo 100 de la Ley General de Bancos, el deudor que amortice forma extraordinaria, total o parcialmente el saldo de su deuda, debe pagar a la entidad emisora, adicionalmente, una suma equivalente al interés y comisión correspondiente a un período de amortización de las letras de su préstamo, calculada sobre el monto que se amortice extraordinariamente, cualquiera hubiera sido la cantidad pagada anticipadamente.
 
 Para ese efecto, las instituciones financieras deberán considerar los intereses y comisiones que, según las correspondientes tablas de desarrollo,correspondería cobrar en el período de amortización siguiente a aquél en que se realice el pago anticipado. Al tratarse de operaciones con tasa de interés variable, se utilizará para este efecto, la tasa vigente para los dividendos del período en el cual se paga anticipadamente.
 
@@ -12946,111 +12900,35 @@ No obstante lo señalado precedentemente, las instituciones financieras podrán 
 
 9.- Amortización extraordinaria de letras de crédito.
 
-Las entidades financieras podrán realizar amortización extraordinaria de letras
+Las entidades financieras podrán realizar amortización extraordinaria de letras de crédito, únicamente por alguno de los motivos que se señalan en los numerales siguientes.
 
-de crédito, únicamente por alguno de los motivos que se señalan en los numerales
+Cada vez que se realice una amortización por sorteo, deberá señalarse en el acta respectiva el motivo por el cual se efectúa.
 
-siguientes.
-
-Cada vez que se realice una amortización por sorteo, deberá señalarse en el acta
-
-respectiva el motivo por el cual se efectúa.
-
-Las referidas amortizaciones deberán efectuarse en el mismo período de
-
-amortización en que se reciba el pago extraordinario del deudor, o bien, a más
-
-tardar en el período de amortización siguiente a aquél en que se produzcan
-
-cualquiera de los hechos señalados en los numerales 9.2, 9.3 y 9.4 de este
-
-título.
+Las referidas amortizaciones deberán efectuarse en el mismo período de amortización en que se reciba el pago extraordinario del deudor, o bien, a más tardar en el período de amortización siguiente a aquél en que se produzcan cualquiera de los hechos señalados en los numerales 9.2, 9.3 y 9.4 de este título.
 
 9.1.- Por pagos anticipados.
 
-Las instituciones financieras están obligadas a realizar amortización
+Las instituciones financieras están obligadas a realizar amortización extraordinaria de letras de crédito mediante compra, rescate o sorteo a la par,cuando un deudor pague anticipadamente en dinero el total o parte de su deuda,hasta por el importe de dicho pago.
 
-extraordinaria de letras de crédito mediante compra, rescate o sorteo a la
-
-par,cuando un deudor pague anticipadamente en dinero el total o parte de su
-
-deuda,hasta por el importe de dicho pago.
-
-También deberán efectuar amortización extraordinaria de estos instrumentos,
-
-cuando el deudor pague el total o parte de su deuda mediante letras de crédito
-
-en la forma señalada en el N° 8 anterior.
+También deberán efectuar amortización extraordinaria de estos instrumentos, cuando el deudor pague el total o parte de su deuda mediante letras de crédito en la forma señalada en el N° 8 anterior.
 
 9.2.- Por no registrar la hipoteca dentro del plazo previsto.
 
-Se realizará una amortización extraordinaria cuando la garantía hipotecaria que
-
-caucione un préstamo de esta naturaleza, no se encontrare inscrita en el
-
-Conservador de Bienes Raíces dentro de un plazo de 180 días corridos contados
-
-desde la fecha de la escritura de mutuo. En este último caso, una vez efectuada
-
-la amortización extraordinaria, el préstamo no se considerará otorgado mediante
-
-letras de crédito y no se le aplicarán las disposiciones del Título XII de la
-
-Ley General de Bancos ni las contenidas en el Capítulo II.A.1 del Compendio de
-
-Normas Financieras del Banco Central de Chile.
+Se realizará una amortización extraordinaria cuando la garantía hipotecaria que caucione un préstamo de esta naturaleza, no se encontrare inscrita en el Conservador de Bienes Raíces dentro de un plazo de 180 días corridos contados desde la fecha de la escritura de mutuo. En este último caso, una vez efectuada la amortización extraordinaria, el préstamo no se considerará otorgado mediante letras de crédito y no se le aplicarán las disposiciones del Título XIII de la Ley General de Bancos ni las contenidas en el Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
 9.3.- Por ejecución de la garantía o por castigo del crédito.
 
-Cuando una institución financiera ejecute la garantía que caucione un préstamo
-
-en letras de crédito, deberá asimismo, efectuar una amortización extraordinaria
-
-de letras de crédito por el importe obtenido en el remate del inmueble, de la
-
-misma forma señalada precedentemente para el caso en que el deudor pague por
-
-adelantado, en dinero, su crédito. Igual procedimiento deberá adoptar cuando
-
-castigue el total o parte de un crédito hipotecario.
+Cuando una institución financiera ejecute la garantía que caucione un préstamo en letras de crédito, deberá asimismo, efectuar una amortización extraordinaria de letras de crédito por el importe obtenido en el remate del inmueble, de la misma forma señalada precedentemente para el caso en que el deudor pague por adelantado, en dinero, su crédito. Igual procedimiento deberá adoptar cuando castigue el total o parte de un crédito hipotecario.
 
 9.4.- Por morosidad y desvalorización de la garantía.
 
-La institución financiera emisora podrá amortizar extraordinariamente letras de
+La institución financiera emisora podrá amortizar extraordinariamente letras de crédito hasta por un monto igual al de los préstamos de esta naturaleza que se encuentren en mora, siempre que las garantías que caucionen dichos créditos tengan un valor inferior en más de un 60% respecto al valor de tasación o al precio de compraventa del inmueble, previamente actualizados, que se tuvieron en consideración para otorgar los respectivos préstamos.
 
-crédito hasta por un monto igual al de los préstamos de esta naturaleza que se
+La actualización del valor de la garantía se hará sobre la base de la variación de la unidad de fomento a contar de la fecha de otorgamiento del crédito. Por otra parte, el valor actual del respectivo inmueble deberá corresponder al obtenido de una tasación con una antigüedad no superior a tres meses y basada en el valor de mercado, realizada por profesionales independientes e idóneos.
 
-encuentren en mora, siempre que las garantías que caucionen dichos créditos
+Se entenderá por préstamos en mora, para este efecto, aquellos que registren diez o más dividendos impagos o una morosidad de un año o más, en caso de dividendos que tengan una periodicidad mayor a la mensual.
 
-tengan un valor inferior en más de un 60% respecto al valor de tasación o al
-
-precio de compraventa del inmueble, previamente actualizados, que se tuvieron en
-
-consideración para otorgar los respectivos préstamos.
-
-La actualización del valor de la garantía se hará sobre la base de la variación
-
-de la unidad de fomento a contar de la fecha de otorgamiento del crédito. Por
-
-otra parte, el valor actual del respectivo inmueble deberá corresponder al
-
-obtenido de una tasación con una antigüedad no superior a tres meses y basada en
-
-el valor de mercado, realizada por profesionales independientes e idóneos.
-
-Se entenderá por préstamos en mora, para este efecto, aquellos que registren
-
-diez o más dividendos impagos o una morosidad de un año o más, en caso de
-
-dividendos que tengan una periodicidad mayor a la mensual.
-
-Las amortizaciones extraordinarias por este concepto podrán realizarlas las
-
-entidades financieras en el período que corresponda según las características de
-
-las letras de crédito de que se trate, esto es, en forma trimestral, semestral,
-
-etc.
+Las amortizaciones extraordinarias por este concepto podrán realizarlas las entidades financieras en el período que corresponda según las características de las letras de crédito de que se trate, esto es, en forma trimestral, semestral, etc.
 
 10.- Información al deudor hipotecario.
 
@@ -13170,13 +13048,7 @@ Para cumplir con dichos límites las instituciones financieras deberán atenerse
 
 2.- Compra de letras de crédito emitidas por otras instituciones financieras.
 
-Las entidades financieras podrán también adquirir letras de crédito emitidas por
-
-otras empresas, de acuerdo con lo autorizado en el N° 15 del artículo 83 de la
-
-Ley General de Bancos, sujetas a los márgenes individuales de crédito de que
-
-trata el artículo 84 del mismo cuerpo legal.
+Las entidades financieras podrán también adquirir letras de crédito emitidas por otras empresas, de acuerdo con lo autorizado en el N° 20 del artículo 69 de la Ley General de Bancos, sujetas a los márgenes individuales de crédito de que trata el artículo 84 del mismo cuerpo legal.
 
 IV.- NORMAS CONTABLES.
 
@@ -13570,601 +13442,141 @@ Los créditos que se hayan reprogramado en virtud de los Acuerdos N°s 1.517 y 1
 
 ANEXO N° 1
 
-CLAUSULAS QUE DEBEN ESTABLECERSE EN LOS CONTRATOS DE COMPRAVENTA, MUTUO CON TASA
+CLAUSULAS QUE DEBEN ESTABLECERSE EN LOS CONTRATOS DE COMPRAVENTA, MUTUO CON TASA DE INTERES FIJA E HIPOTECA PARA LA ADQUISICION DE VIVIENDA
 
-DE INTERES FIJA E HIPOTECA PARA LA ADQUISICION DE VIVIENDA
+Cláusula: El precio de la compraventa es la suma de $------------------ que se entera:
 
-Cláusula: El precio de la compraventa es la suma de $------------------ que se
+a) Con $---------------que el comprador paga al vendedor en este acto en dinero efectivo.
 
-entera:
+b) Con $--------------valor que las partes de común acuerdo asignan a las letras de crédito de la Serie----- de emisión nominal 1° de enero del presente año, por----- Unidades de Fomento, nominales e iniciales, que quedarán reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a------------------ ---Unidades de Fomento, que el Banco entrega al vendedor con cargo al préstamo que le otorga al comprador en la cláusula----- de esta escritura. La reducción antes referida se produce en virtud de la aplicación de las normas contenidas en el párrafo V del Reglamento Financiero para la adquisición de viviendas a que se refiere la cláusula siguiente.
 
-a) Con $---------------que el comprador paga al vendedor en este acto en dinero
+El comprador declara haber recibido materialmente a su entera conformidad la propiedad raíz materia de este contrato
 
-efectivo.
+El vendedor declara haber recibido la totalidad del precio y lo declara en consecuencia, íntegramente pagado.
 
-b) Con $--------------valor que las partes de común acuerdo asignan a las letras
+Las partes renuncian expresamente a las acciones resolutorias que pudieran emanar del presente contrato.
 
-de crédito de la Serie----- de emisión nominal 1° de enero del presente año,
-
-por----- Unidades de Fomento, nominales e iniciales, que quedarán reducidas al
-
-día 1° del mes subsiguiente a la fecha del presente contrato a------------------
-
----Unidades de Fomento, que el Banco entrega al vendedor con cargo al préstamo
-
-que le otorga al comprador en la cláusula----- de esta escritura. La reducción
-
-antes referida se produce en virtud de la aplicación de las normas contenidas en
-
-el párrafo V del Reglamento Financiero para la adquisición de viviendas a que se
-
-refiere la cláusula siguiente.
-
-El comprador declara haber recibido materialmente a su entera conformidad la
-
-propiedad raíz materia de este contrato
-
-El vendedor declara haber recibido la totalidad del precio y lo declara en
-
-consecuencia, íntegramente pagado.
-
-Las partes renuncian expresamente a las acciones resolutorias que pudieran
-
-emanar del presente contrato.
-
-Cláusula: Entre el banco -------------------------------------------------- y
-
-don-------------------------------------------------------- se ha convenido en
-
-el siguiente contrato de mutuo sujeto a las disposiciones del Título XII del
-
-Decreto con Fuerza de Ley N° 252, de 4 de abril de 1960, sus modificaciones y al
-
-Acuerdo del Consejo Monetario adoptado en Sesión N° 23 de 6 de noviembre de
-
-1980,publicado en el Diario Oficial de fecha 12 de noviembre de 1980 y sus
-
-modificaciones, que fijó el texto refundido de las normas sobre emisión de
-
-letras de crédito y demás normas reglamentarias pertinentes, en especial el
-
-Reglamento Financiero para la adquisición de viviendas adoptado en sesión N°
-
-1437 de fecha 28 de abril de 1982 del Comité Ejecutivo del Banco Central de
-
-Chile, publicado en el Diario Oficial de 5 de mayo de 1982, y sus
+Cláusula: Entre el banco --------------------- y don------------------------------------- se ha convenido en el siguiente contrato de mutuo sujeto a las disposiciones del Título XIII de la Ley General de Bancos y al Acuerdo del Consejo Monetario adoptado en Sesión N° 23 de 6 de noviembre de 1980,publicado en el Diario Oficial de fecha 12 de noviembre de 1980 y sus modificaciones, que fijó el texto refundido de las normas sobre emisión de letras de crédito y demás normas reglamentarias pertinentes, en especial el Reglamento Financiero para la adquisición de viviendas adoptado en sesión N° 1437 de fecha 28 de abril de 1982 del Comité Ejecutivo del Banco Central de Chile, publicado en el Diario Oficial de 5 de mayo de 1982, y sus
 
 modificaciones.
 
-Cláusula: El Banco----------------------------------------- a fin de enterar la
+Cláusula: El Banco------------------------ a fin de enterar la parte del precio referido en la letra b) de la cláusula anteprecedente, da en préstamo a don ---------------- la cantidad de --------------- U.F en letras de crédito nominales e iniciales, reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a-------U.F emitidas materialmente por el propio banco al día 1° del mes en que se firma esta escritura, de emisión nominal 1° de enero del presente año, de la Serie---- ----- que ganan un interés del ----% anual, con una amortización directa trimestral en el plazo de ----- años. La obligación rige desde el día 1° del mes subsiguiente a la fecha de este contrato, declarando el deudor haber recibido las letras de crédito a su entera satisfacción Y facultando al Banco para que las entregue al vendedor.
 
-parte del precio referido en la letra b) de la cláusula anteprecedente, da en
+Cláusula: El deudor se obliga a pagar al Banco la expresada cantidad de ----------- U.F. nominales e iniciales reducidas al día 1° del mes subsiguiente a la fecha de este contrato a ------- U.F. en el plazo de ----------- meses, a contar del día 1° de ese mes, por medio de dividendos anticipados, mensuales y sucesivos. Dichos dividendos comprenderán la amortización, los intereses y la comisión. La tasa de interés real, anual y vencida que devenga el presente contrato será de------% anual, la que incluye el interés propiamente tal y la comisión, de acuerdo con las normas establecidas para tales efectos en el Reglamento Financiero del Banco Central antes referido. El dividendo mensual a pagar será el que resulte de multiplicar por ---------el número de U.F. que
 
-préstamo a don -------------------------------------------- la cantidad de -----
+corresponde a cada uno de los- ---- dividendos, a contar del dividendo N°--------, que constan en la tabla de desarrollo, que se reproduce en la parte pertinente al final de la escritura,elaborada por el Banco a vía ejemplar para un préstamo y obligación de 1 U.F y que se encuentra protocolizada con fecha------------ bajo el N°---- -- en la Notaría de-------------- de don-----------
 
---------- - ----------------- U.F en letras de crédito nominales e iniciales,
+----------- El deudor declara conocer y aceptar la indicada tabla. Las partes dejan expresa constancia de que la referida tabla, confeccionada de acuerdo con las pautas señaladas en el Reglamento Financiero antes mencionado, forma parte íntegramente de la presente escritura para todos los efectos legales.
 
-reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a-----
+Los dividendos se pagarán dentro de los primeros diez días de cada mes. Esta obligación se entiende constituida para responder al pago de la emisión de letras de crédito expresada en Unidades de Fomento hecha por el Banco en conformidad a la Ley. Queda expresamente estipulado que esta obligación tendrá el carácter de indivisible para todos los efectos legales.
 
-------U.F emitidas materialmente por el propio banco al día 1° del mes en que se
-
-firma esta escritura, de emisión nominal 1° de enero del presente año, de la
-
-Serie---- ----- que ganan un interés del ----% anual, con una amortización
-
-directa trimestral en el plazo de ----- años. La obligación rige desde el día 1°
-
-del mes subsiguiente a la fecha de este contrato, declarando el deudor haber
-
-recibido las letras de crédito a su entera satisfacción Y facultando al Banco
-
-para que las entregue al vendedor.
-
-Cláusula: El deudor se obliga a pagar al Banco la expresada cantidad de --------
-
------ U.F. nominales e iniciales reducidas al día 1° del mes subsiguiente a la
-
-fecha de este contrato a ------- U.F. en el plazo de ----------- meses, a contar
-
-del día 1° de ese mes, por medio de dividendos anticipados, mensuales y
-
-sucesivos. Dichos dividendos comprenderán la amortización, los intereses y la
-
-comisión. La tasa de interés real, anual y vencida que devenga el presente
-
-contrato será de-- ----% anual, la que incluye el interés propiamente tal y la
-
-comisión, de acuerdo con las normas establecidas para tales efectos en el
-
-Reglamento Financiero del Banco Central antes referido. El dividendo mensual a
-
-pagar será el que resulte de multiplicar por ---------el número de U.F. que
-
-corresponde a cada uno de los- ---- dividendos, a contar del dividendo N°-------
-
--, que constan en la tabla de desarrollo, que se reproduce en la parte
-
-pertinente al final de la escritura,elaborada por el Banco a vía ejemplar para
-
-un préstamo y obligación de 1 U.F y que se encuentra protocolizada con fecha----
-
-------------- bajo el N°---- -- en la Notaría de-------------- de don-----------
-
------------ El deudor declara conocer y aceptar la indicada tabla. Las partes
-
-dejan expresa constancia de que la referida tabla, confeccionada de acuerdo con
-
-las pautas señaladas en el Reglamento Financiero antes mencionado, forma parte
-
-íntegramente de la presente escritura para todos los efectos legales.
-
-Los dividendos se pagarán dentro de los primeros diez días de cada mes. Esta
-
-obligación se entiende constituida para responder al pago de la emisión de
-
-letras de crédito expresada en Unidades de Fomento hecha por el Banco en
-
-conformidad a la Ley. Queda expresamente estipulado que esta obligación tendrá
-
-el carácter de indivisible para todos los efectos legales.
-
-Clausula: Las letras de crédito que el banco conforme a lo estipulado en este
-
-instrumento entrega al vendedor, se encuentran con el(o los) cupón(es)
-
-correspondiente(s) desprendido(s) de acuerdo a las normas del Reglamento
-
-Financiero varias veces citado y el Banco se obliga a pagar a quien corresponda
-
-la parte de amortización e interés del cupón respectivo, que se devenguen a
-
-contar del día 1° del mes subsiguiente al del presente contrato y hasta el día
-
-del vencimiento del referido cupón, ascendente a --------------- U.F.,
-
-obligación que el banco documenta mediante pagaré expresado en Unidades de
-
-Fomento por el monto indicado y con el mismo vencimiento del cupón
-
-correspondiente de acuerdo a lo dispuesto en la letra c) del N° 5 Título V del
-
-Reglamento Financiero para la adquisición de viviendas. El pago se efectuará
-
-siempre y cuando las letras de crédito que se otorgan en mutuo al comprador, se
-
-encuentren debidamente registradas, conforme alas normas vigentes. Si al
-
-vencimiento del cupón respectivo no se hubiere practicado el registro, el pago
-
-se efectuará una vez registradas las letras de crédito.
+Clausula: Las letras de crédito que el banco conforme a lo estipulado en este instrumento entrega al vendedor, se encuentran con el(o los) cupón(es) correspondiente(s) desprendido(s) de acuerdo a las normas del Reglamento Financiero varias veces citado y el Banco se obliga a pagar a quien corresponda la parte de amortización e interés del cupón respectivo, que se devenguen a contar del día 1° del mes subsiguiente al del presente contrato y hasta el día del vencimiento del referido cupón, ascendente a --------------- U.F., obligación que el banco documenta mediante pagaré expresado en Unidades de Fomento por el monto indicado y con el mismo vencimiento del cupón correspondiente de acuerdo a lo dispuesto en la letra c) del N° 5 Título V del Reglamento Financiero para la adquisición de viviendas. El pago se efectuará siempre y cuando las letras de crédito que se otorgan en mutuo al comprador, se encuentren debidamente registradas, conforme alas normas vigentes. Si al vencimiento del cupón respectivo no se hubiere practicado el registro, el pago se efectuará una vez registradas las letras de crédito.
 
 La cantidad antes mencionada no devengará intereses de ningún tipo.
 
-Cláusula: El deudor puede rembolsar anticipadamente todo o al menos un----- del
+Cláusula: El deudor puede rembolsar anticipadamente todo o al menos un----- del capital adeudado sea en dinero, o en letras de crédito del mismo emisor, de la misma serie y del mismo año. Estas letras serán recibidas a la par. En el caso de efectuarse amortizaciones extraordinarias en dinero, se harán en moneda corriente por el equivalente del valor de las Unidades de Fomento a la fecha de hacerse la amortización.
 
-capital adeudado sea en dinero, o en letras de crédito del mismo emisor, de la
+A virtud de estas amortizaciones parciales, se rebajará proporcionalmente el valor de los dividendos mensuales posteriores a la amortización, sin alteración del plazo de la deuda.
 
-misma serie y del mismo año. Estas letras serán recibidas a la par. En el caso
-
-de efectuarse amortizaciones extraordinarias en dinero, se harán en moneda
-
-corriente por el equivalente del valor de las Unidades de Fomento a la fecha de
-
-hacerse la amortización.
-
-A virtud de estas amortizaciones parciales, se rebajará proporcionalmente el
-
-valor de los dividendos mensuales posteriores a la amortización, sin alteración
-
-del plazo de la deuda.
-
-Cláusula: No obstante haber recibido el vendedor la totalidad del precio de la
-
-compraventa a que se alude en la cláusula------ del presente contrato el
-
-vendedor y comprador exponen que han convenido que cualquier diferencia de
-
-precio que se produzca en la venta de las letras de crédito que efectúe el
-
-vendedor directamente o a través de un tercero, en relación a su valor par, será
+Cláusula: No obstante haber recibido el vendedor la totalidad del precio de la compraventa a que se alude en la cláusula------ del presente contrato el vendedor y comprador exponen que han convenido que cualquier diferencia de precio que se produzca en la venta de las letras de crédito que efectúe el vendedor directamente o a través de un tercero, en relación a su valor par, será
 
 de cargo de -----------.
 
 ANEXO N° 2
 
-CLAUSULAS QUE DEBEN ESTABLECERSE EN LOS CONTRATOS DE COMPRAVENTA, MUTUO CON TASA
-
-DE INTERES FLOTANTE E HIPOTECA PARA LA ADQUISICION DE VIVIENDA
+CLAUSULAS QUE DEBEN ESTABLECERSE EN LOS CONTRATOS DE COMPRAVENTA, MUTUO CON TASA DE INTERES FLOTANTE E HIPOTECA PARA LA ADQUISICION DE VIVIENDA
 
 Cláusula: El precio de la compraventa es la suma de $------------que se entera:
 
-a) Con $------------ que el comprador paga al vendedor en este acto en dinero
+a) Con $------------ que el comprador paga al vendedor en este acto en dinero efectivo.
 
-efectivo.
-
-b) Con $------------ valor que las partes de común acuerdo asignan a las letras
-
-de crédito de la Serie---- de emisión nominal 1° de enero del presente año, por-
-
----- Unidades de Fomento, nominales e iniciales, que quedarán reducidas al día
-
-1° del mes subsiguiente a la fecha del presente contrato a-------------------
-
-Unidades de Fomento, que el Banco entrega al vendedor con cargo al préstamo que
-
-le otorga al comprador en la cláusula----- de esta escritura. La reducción antes
-
-referida se produce en virtud de la aplicación de las normas contenidas en el
-
-### Párrafo V — del Reglamento Financiero para la adquisición de viviendas a que se
+b) Con $------------ valor que las partes de común acuerdo asignan a las letras de crédito de la Serie---- de emisión nominal 1° de enero del presente año, por----- Unidades de Fomento, nominales e iniciales, que quedarán reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a-------------------Unidades de Fomento, que el Banco entrega al vendedor con cargo al préstamo que le otorga al comprador en la cláusula----- de esta escritura. La reducción antes referida se produce en virtud de la aplicación de las normas contenidas en el párrafo V del Reglamento Financiero para la adquisición de viviendas a que se
 
 refiere la cláusula siguiente.
 
-El comprador declara haber recibido materialmente a su entera conformidad la
+El comprador declara haber recibido materialmente a su entera conformidad la propiedad raíz materia de este contrato.
 
-propiedad raíz materia de este contrato.
+El vendedor declara haber recibido la totalidad del precio y lo declara en consecuencia, íntegramente pagado.
 
-El vendedor declara haber recibido la totalidad del precio y lo declara en
+Las partes renuncian expresamente a las acciones resolutorias que pudieran emanar del presente contrato.
 
-consecuencia, íntegramente pagado.
+Cláusula: Entre el banco------------------ y don--------------------------se ha convenido en el siguiente contrato de mutuo sujeto a las disposiciones del Título XIII de la Ley General de Bancos y al Acuerdo del Consejo Monetario adoptado en Sesión N°23 de 6 de noviembre de 1980, publicado en el Diario Oficial de fecha 12 de noviembre de 1980 y sus modificaciones, que fijó el texto refundido de las normas sobre emisión de letras de crédito y demás normas reglamentarias pertinentes, en especial el Reglamento Financiero para la adquisición de viviendas adoptado en sesión N°1437 de fecha 28 de abril de 1982 del Comité Ejecutivo del Banco Central de Chile, publicado en el Diario Oficial de 5 de mayo de 1982, y sus modificaciones.
 
-Las partes renuncian expresamente a las acciones resolutorias que pudieran
+Cláusula: El banco ---------------------------------------------------------a fin de enterar la parte del precio referido en la letra b) de la cláusula anteprecedente, da en préstamo a don ------------------------------------- la cantidad de ---------U.F. en letras de crédito nominales e iniciales,reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a -----------U.F. emitidas materialmente por el propio banco el día 1° del mes en que se firma esta escritura, de emisión nominal 1° de enero del presente año, de la Serie-------- con una amortización directa trimestral en el plazo de--------años, que ganan intereses variables semestralmente, pagaderos por trimestre vencido, los que se calcularán a la Tasa de Interés Promedio (TIP) de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año, y se aplicará en el año y en el primer semestre del año siguiente, respectivamente. En todo caso, la tasa de interés que se aplique no podrá variar, durante la vigencia en las letras de
 
-emanar del presente contrato.
+crédito, en más de tres puntos porcentuales respecto de la tasa de interés del----- % anual,vigente el día 1°del mes subsiguiente a la fecha del presente contrato. (En caso que la institución financiera opte por prescindir del límite
 
-Cláusula: Entre el banco--------------------------------------------------------
+inferior de variación de la tasa de interés, deberá señalar expresamente esa decisión). La obligación rige desde el día 1° del mes subsiguiente a la fecha de este contrato, declarando el deudor haber recibido las letras de crédito a su entera satisfacción y facultando al banco para que las entregue al vendedor.
 
---- y don-----------------------------------------------------------------------
+Cláusula: El deudor se obliga a pagar al Banco la expresada cantidad de -----------U.F. nominales e iniciales reducidas al día 1° del mes subsiguiente a la fecha de este contrato a -------- ----- U.F. en el plazo de ---------------meses, acontar del día 1° de ese mes, por medio de dividendos anticipados, mensuales y sucesivos. Dichos dividendos comprenderán la amortización, los intereses y la comisión. La tasa de interés real, anual y vencida que devengará el presente contrato, variará semestralmente y corresponderá a la Tasa de Interés Promedio de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras,certificada y publicada por el Banco Central de Chile en la segunda quincena delos meses de mayo y noviembre de cada año, la que se aplicaráen el segundo semestre del mismo año y en el primer semestre del año siguiente,respectivamente, más la comisión, de acuerdo con las normas establecidas para tales efectos en el Reglamento Financiero del Banco Central antes referido. En todo caso, la mencionada tasa de interés no podrá variar en más de tres puntos porcentuales respecto a la tasa del ------------% anual vigente el día 1° del mes subsiguiente a la fecha de este contrato. (En caso quela institución financiera opte por prescindir del límite inferior de variación de la tasa de interés, deberá señalar expresamente esa decisión). El dividendo
 
-se ha convenido en el siguiente contrato de mutuo sujeto a las disposiciones del
+mensual a pagar será variable e igual a: La amortización que resulte de multiplicar por------ el número de U.F. que corresponde a cada uno de los dividendos, a contar del dividendo N°----- , que constan en la tabla de desarrollo elaborada por el Banco a vía ejemplar para un préstamo u obligación de 1 U.F. la que se reproduce en la parte pertinente al final de la escritura y
 
-## Título XII — del Decreto con Fuerza de Ley N° 252, de 4 de abril de 1960, sus
+que se encuentra protocolizada con fecha------------bajo el N°----- en la Notaría de --------------------de don -------------------- ; más la comisión correspondiente al dividendo, calculada también sobre la base de la misma tabla de desarrollo y más los intereses que se calcularán en cada oportunidad sobre el saldo insoluto del capital, utilizando la fórmula que se incluye en dicha tabla. El deudor declara conocer y aceptar la indicada tabla de amortización y comisiones y la fórmula para el cálculo de los intereses que en ella se indica. Las partes dejan expresa constancia de que la referida tabla, confeccionada de acuerdo con las pautas señaladas en el Reglamento Financiero antes mencionado, incluida la fórmula que en ella se indica, forma parte íntegramente de la presente escritura para todos los efectos legales.
 
-modificaciones y al Acuerdo del Consejo Monetario adoptado en Sesión N°23 de 6
+Los dividendos se pagarán dentro de los primeros diez días de cada mes. Esta obligación se entiende constituida para responder al pago de la emisión de letras de crédito expresadas en Unidades de Fomento hecha por el Banco en conformidad a la Ley. Queda expresamente estipulado que esta obligación tendrá el carácter de indivisible para todos los efectos legales.
 
-de noviembre de 1980, publicado en el Diario Oficial de fecha 12 de noviembre de
+Cláusula: Las letras de crédito que el Banco, conforme a lo estipulado en este instrumento, entrega al vendedor, se encuentran con el (o los) cupón(es)correspondiente(s) desprendido(s) de acuerdo a las normas del Reglamento Financiero varias veces citado y el Banco se obliga a pagar a quien corresponda la parte de amortización ascendente a ----- U.F. más el interés que se devengue a contar del día 1° del mes subsiguiente al del presente contrato y hasta el día del vencimiento del referido cupón, obligación que el Banco documenta mediante pagaré expresado en Unidades de Fomento por el monto de la amortización indicado, al que se le agregarán los respectivos intereses, con el mismo vencimiento del cupón correspondiente, de acuerdo a lo dispuesto en la
 
-1980 y sus modificaciones, que fijó el texto refundido de las normas sobre
-
-emisión de letras de crédito y demás normas reglamentarias pertinentes, en
-
-especial el Reglamento Financiero para la adquisición de viviendas adoptado en
-
-sesión N°1437 de fecha 28 de abril de 1982 del Comité Ejecutivo del Banco
-
-Central de Chile, publicado en el Diario Oficial de 5 de mayo de 1982, y sus
-
-modificaciones.
-
-Cláusula: El banco -------------------------------------------------------------
-
-------- a fin de enterar la parte del precio referido en la letra b) de la
-
-cláusula anteprecedente, da en préstamo a don ----------------------------------
-
----------- la cantidad de ---------U.F. en letras de crédito nominales e
-
-iniciales,reducidas al día 1° del mes subsiguiente a la fecha del presente
-
-contrato a -----------U.F. emitidas materialmente por el propio banco el día 1°
-
-del mes en que se firma esta escritura, de emisión nominal 1° de enero del
-
-presente año, de la Serie-------- con una amortización directa trimestral en el
-
-plazo de--------años, que ganan intereses variables semestralmente, pagaderos
-
-por trimestre vencido, los que se calcularán a la Tasa de Interés Promedio (TIP)
-
-de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras,
-
-certificada y publicada por el Banco Central de Chile en la segunda quincena de
-
-los meses de mayo y noviembre de cada año, y se aplicará en el año y en el
-
-primer semestre del año siguiente, respectivamente. En todo caso, la tasa de
-
-interés que se aplique no podrá variar, durante la vigencia en las letras de
-
-crédito, en más de tres puntos porcentuales respecto de la tasa de interés del-
-
----- % anual,vigente el día 1°del mes subsiguiente a la fecha del presente
-
-contrato. (En caso que la institución financiera opte por prescindir del límite
-
-inferior de variación de la tasa de interés, deberá señalar expresamente esa
-
-decisión). La obligación rige desde el día 1° del mes subsiguiente a la fecha de
-
-este contrato, declarando el deudor haber recibido las letras de crédito a su
-
-entera satisfacción y facultando al banco para que las entregue al vendedor.
-
-Cláusula: El deudor se obliga a pagar al Banco la expresada cantidad de --------
-
----U.F. nominales e iniciales reducidas al día 1° del mes subsiguiente a la
-
-fecha de este contrato a -------- ----- U.F. en el plazo de ---------------
-
-meses, acontar del día 1° de ese mes, por medio de dividendos anticipados,
-
-mensuales y sucesivos. Dichos dividendos comprenderán la amortización, los
-
-intereses y la comisión. La tasa de interés real, anual y vencida que devengará
-
-el presente contrato, variará semestralmente y corresponderá a la Tasa de
-
-Interés Promedio de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de
-
-Normas Financieras,certificada y publicada por el Banco Central de Chile en la
-
-segunda quincena delos meses de mayo y noviembre de cada año, la que se aplicará
-
-en el segundo semestre del mismo año y en el primer semestre del año
-
-siguiente,respectivamente, más la comisión, de acuerdo con las normas
-
-establecidas para tales efectos en el Reglamento Financiero del Banco Central
-
-antes referido. En todo caso, la mencionada tasa de interés no podrá variar en
-
-más de tres puntos porcentuales respecto a la tasa del ------------% anual
-
-vigente el día 1° del mes subsiguiente a la fecha de este contrato. (En caso que
-
-la institución financiera opte por prescindir del límite inferior de variación
-
-de la tasa de interés, deberá señalar expresamente esa decisión). El dividendo
-
-mensual a pagar será variable e igual a: La amortización que resulte de
-
-multiplicar por------ el número de U.F. que corresponde a cada uno de los
-
-dividendos, a contar del dividendo N°----- , que constan en la tabla de
-
-desarrollo elaborada por el Banco a vía ejemplar para un préstamo u obligación
-
-de 1 U.F. la que se reproduce en la parte pertinente al final de la escritura y
-
-que se encuentra protocolizada con fecha------------bajo el N°----- en la
-
-Notaría de --------------------de don -------------------- ; más la comisión
-
-correspondiente al dividendo, calculada también sobre la base de la misma tabla
-
-de desarrollo y más los intereses que se calcularán en cada oportunidad sobre el
-
-saldo insoluto del capital, utilizando la fórmula que se incluye en dicha tabla.
-
-El deudor declara conocer y aceptar la indicada tabla de amortización y
-
-comisiones y la fórmula para el cálculo de los intereses que en ella se indica.
-
-Las partes dejan expresa constancia de que la referida tabla, confeccionada de
-
-acuerdo con las pautas señaladas en el Reglamento Financiero antes mencionado,
-
-incluida la fórmula que en ella se indica, forma parte íntegramente de la
-
-presente escritura para todos los efectos legales.
-
-Los dividendos se pagarán dentro de los primeros diez días de cada mes. Esta
-
-obligación se entiende constituida para responder al pago de la emisión de
-
-letras de crédito expresadas en Unidades de Fomento hecha por el Banco en
-
-conformidad a la Ley. Queda expresamente estipulado que esta obligación tendrá
-
-el carácter de indivisible para todos los efectos legales.
-
-Cláusula: Las letras de crédito que el Banco, conforme a lo estipulado en este
-
-instrumento, entrega al vendedor, se encuentran con el (o los)
-
-cupón(es)correspondiente(s) desprendido(s) de acuerdo a las normas del
-
-Reglamento Financiero varias veces citado y el Banco se obliga a pagar a quien
-
-corresponda la parte de amortización ascendente a ----- U.F. más el interés que
-
-se devengue a contar del día 1° del mes subsiguiente al del presente contrato y
-
-hasta el día del vencimiento del referido cupón, obligación que el Banco
-
-documenta mediante pagaré expresado en Unidades de Fomento por el monto de la
-
-amortización indicado, al que se le agregarán los respectivos intereses, con el
-
-mismo vencimiento del cupón correspondiente, de acuerdo a lo dispuesto en la
-
-letra c)del N°5 título V del Reglamento Financiero para la adquisición de
-
-viviendas. El pago se efectuará siempre y cuando las letras de crédito que se
-
-otorgan en mutuo al comprador, se encuentren debidamente registradas, conforme a
-
-las normas vigentes. Si al vencimiento del cupón respectivo no se hubiere
-
-practicado el registro, el pago se efectuará una vez registradas las letras de
+letra c)del N°5 título V del Reglamento Financiero para la adquisición de viviendas. El pago se efectuará siempre y cuando las letras de crédito que se otorgan en mutuo al comprador, se encuentren debidamente registradas, conforme a las normas vigentes. Si al vencimiento del cupón respectivo no se hubiere practicado el registro, el pago se efectuará una vez registradas las letras de
 
 crédito.
 
-Si el pagaré no es cobrado al vencimiento, no devengará intereses de ningún tipo
+Si el pagaré no es cobrado al vencimiento, no devengará intereses de ningún tipo a contar de esa fecha.
 
-a contar de esa fecha.
+Cláusula: El deudor puede rembolsar anticipadamente todo o al menos un----- del capital adeudado sea en dinero, o en letras de crédito del mismo emisor, de la misma serie y del mismo año. Estas letras serán recibidas a la par. En el caso de efectuarse amortizaciones extraordinarias en dinero, se harán en moneda corriente por el equivalente del valor de las Unidades de Fomento a la fecha de hacerse la amortización.
 
-Cláusula: El deudor puede rembolsar anticipadamente todo o al menos un----- del
+A virtud de estas amortizaciones parciales, se rebajará proporcionalmente el valor de los dividendos mensuales posteriores a la amortización, sin alteración del plazo de la deuda.
 
-capital adeudado sea en dinero, o en letras de crédito del mismo emisor, de la
-
-misma serie y del mismo año. Estas letras serán recibidas a la par. En el caso
-
-de efectuarse amortizaciones extraordinarias en dinero, se harán en moneda
-
-corriente por el equivalente del valor de las Unidades de Fomento a la fecha de
-
-hacerse la amortización.
-
-A virtud de estas amortizaciones parciales, se rebajará proporcionalmente el
-
-valor de los dividendos mensuales posteriores a la amortización, sin alteración
-
-del plazo de la deuda.
-
-Cláusula: No obstante haber recibido el vendedor la totalidad del precio de la
-
-compraventa a que se alude en la cláusula----- del presente contrato el vendedor
-
-y comprador exponen que han convenido que cualquier diferencia de precio que se
-
-produzca en la venta de las letras de crédito que efectúe el vendedor
-
-directamente o a través de un tercero, en relación a su valor par, será de cargo
-
-de -------------
+Cláusula: No obstante haber recibido el vendedor la totalidad del precio de la compraventa a que se alude en la cláusula----- del presente contrato el vendedor y comprador exponen que han convenido que cualquier diferencia de precio que se produzca en la venta de las letras de crédito que efectúe el vendedor directamente o a través de un tercero, en relación a su valor par, será de cargo de -------------.
 
 ANEXO N° 3
 
-TEXTO LETRA DE CREDITO PARA VIVIENDA. (AMORTIZACION ORDINARIA DIRECTA CON
+TEXTO LETRA DE CREDITO PARA VIVIENDA. (AMORTIZACION ORDINARIA DIRECTA CON INTERES FIJO)
 
-INTERES FIJO)
+..
 
-.
+Este banco (sociedad financiera) pagará la presente Letra de Crédito.........por........... U.F., que ganará el interés anual del.........% a.......años plazo, pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente por los montos
 
-Este banco (sociedad financiera) pagará la presente Letra de
+y en las fechas señaladas en sus cupones y extraordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo Monetario y el Comité Ejecutivo del
 
-Crédito.........por........... U.F., que ganará el interés anual del.........%
-
-a.......años plazo, pagadero por trimestres vencidos, de conformidad con lo
-
-indicado en cada cupón y contra recepción de éstos, previa confrontación con
-
-esta letra. La amortización de este título se hará ordinariamente por los montos
-
-y en las fechas señaladas en sus cupones y extraordinariamente en la forma
-
-dispuesta en el Título XII de la Ley General de Bancos y conforme a los Acuerdos
-
-adoptados sobre la materia por el Consejo Monetario y el Comité Ejecutivo del
-
-Banco Central. Desde la fecha del vencimiento de los cupones o de la
-
-amortización extraordinaria de esta letra no se devengarán nuevos intereses ni
-
-reajustes. El pago de los cupones y de la letra se realizará por el equivalente
-
-en moneda corriente de las unidades de fomento que corresponda, en la forma
-
-señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de
+Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización extraordinaria de esta letra no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de las unidades de fomento que corresponda, en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de
 
 1981 y sus modificaciones.
 
-EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE FOMENTO A LA SUMA
+EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE FOMENTO A LA SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
 
-DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
-
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y
-
-corresponde al prospecto a que se refiere el Certificado N° de ............., de
-
-la Superintendencia de Bancos e Instituciones Financieras.
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N° de ............., de la Superintendencia de Bancos e Instituciones Financieras.
 
 .
 
 ANEXO N° 4
 
-TEXTO LETRA DE CREDITO PARA VIVIENDA(AMORTIZACION ORDINARIA DIRECTA CON INTERES
-
-FIJO)
+TEXTO LETRA DE CREDITO PARA VIVIENDA(AMORTIZACION ORDINARIA DIRECTA CON INTERES FIJO)
 
 .
 
-Este Banco (sociedad financiera) pagará la presente Letra de Crédito
-
-..........por ................ I.V.P., que ganará el interés anual del .......%
-
-a .....años plazo, pagadero por trimestres vencidos, de conformidad con lo
-
-indicado encada cupón y contra recepción de éstos, previa confrontación con esta
-
-letra. La amortización de este título se hará ordinariamente por los montos y en
-
-las fechas en sus cupones y extraordinariamente en la forma dispuesta en el
-
-## Título XII — de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre
-
-la materia por el Consejo Monetario y el Comité Ejecutivo del Banco Central.
-
-Desde la fecha del vencimiento de los cupones o de la amortización
-
-extraordinaria de esta letra no se devengarán nuevos intereses ni reajustes. El
-
-pago de los cupones y de la letra se realizará por el equivalente en moneda
-
-corriente de las unidades de Indice Valor Promedio que corresponda, en la forma
-
-señalada en la Ley 18.010, publicada en el Diario Oficial de 27 de junio de 1981
+Este Banco (sociedad financiera) pagará la presente Letra de Crédito ..........por ................ I.V.P., que ganará el interés anual del .......% a .....años plazo, pagadero por trimestres vencidos, de conformidad con lo indicado encada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente por los montos y en las fechas en sus cupones y extraordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo Monetario y el Comité Ejecutivo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización extraordinaria de esta letra no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de las unidades de Indice Valor Promedio que corresponda, en la forma señalada en la Ley 18.010, publicada en el Diario Oficial de 27 de junio de 1981
 
 y sus modificaciones.
 
-EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE INDICE VALOR
+EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE INDICE VALOR PROMEDIO A LA SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
 
-PROMEDIO A LA SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N°................de.................... de la Superintendencia de Bancos e Instituciones Financieras.
 
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y
-
-corresponde al prospecto a que se refiere el Certificado N°................
-
-de.................... de la Superintendencia de Bancos e Instituciones
-
-Financieras.
-
-.
+..
 
 ANEXO N° 5
 
-TEXTO DE LETRA DE CREDITO PARA VIVIENDA (AMORTIZACION ORDINARIA DIRECTA CON
+TEXTO DE LETRA DE CREDITO PARA VIVIENDA (AMORTIZACION ORDINARIA DIRECTA CON INTERES VARIABLE)
 
-INTERES VARIABLE)
+..
 
-.
+Este banco (sociedad financiera) pagará la presente Letra de Crédito por--------U.F., que ganará un interés variable semestralmente, según la Tasa de Interés Promedio de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas
 
-Este banco (sociedad financiera) pagará la presente Letra de Crédito por--------
+Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año y que se devengará en el segundo semestre del mismo año y en el primer semestre del año siguiente,respectivamente, no pudiendo ser superior (ni inferior) en más de tres puntos porcentuales a la tasa del--------% anual, a -------- años plazo,
 
-U.F., que ganará un interés variable semestralmente, según la Tasa de Interés
-
-Promedio de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas
-
-Financieras, certificada y publicada por el Banco Central de Chile en la segunda
-
-quincena de los meses de mayo y noviembre de cada año y que se devengará en el
-
-segundo semestre del mismo año y en el primer semestre del año
-
-siguiente,respectivamente, no pudiendo ser superior (ni inferior) en más de tres
-
-puntos porcentuales a la tasa del--------% anual, a -------- años plazo,
-
-pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y
-
-contra recepción de éstos, previa confrontación con esta letra. La amortización
-
-de este título se hará ordinariamente en la forma dispuesta en el Título XII de
-
-Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por
-
-el Consejo Monetario y el Comité Ejecutivo del Banco Central. Desde la fecha de
-
-vencimiento de los cupones o de la amortización extraordinaria de esta letra, no
-
-se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la
-
-letra se realizará por el equivalente en moneda corriente de las unidades de
-
-fomento que corresponda, en la forma señalada en la Ley N° 18.010, publicada en
-
-el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
+pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente en la forma dispuesta en el Título XIII de Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo Monetario y el Comité Ejecutivo del Banco Central. Desde la fecha de vencimiento de los cupones o de la amortización extraordinaria de esta letra, no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de las unidades de fomento que corresponda, en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
 
 La tasa de interés se determinará según la fórmula:
 
@@ -14172,177 +13584,63 @@ La tasa de interés se determinará según la fórmula:
 
 y se aplicará sobre el saldo de capital que se indica en cada cupón.
 
-EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE FOMENTO A LA SUMA
+EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE FOMENTO A LA SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
 
-DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N°-----------de---------- de la Superintendencia de Bancos e Instituciones Financieras.
 
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y
-
-corresponde al prospecto a que se refiere el Certificado N°-----------de--------
-
--- de la Superintendencia de Bancos e Instituciones Financieras.
-
-.
+..
 
 ANEXO N° 6
 
-TEXTO DE LA LETRA DE CREDITO PARA VIVIENDA (AMORTIZACION ORDINARIA DIRECTA CON
+TEXTO DE LA LETRA DE CREDITO PARA VIVIENDA (AMORTIZACION ORDINARIA DIRECTA CON INTERES VARIABLE)
 
-INTERES VARIABLE)
+..
 
-.
-
-Este banco (sociedad financiera) pagará la presente Letra de Crédito-----------
-
-por ------ I.V.P., que ganará un interés variables Interés semestralmente, según
-
-la Tasa Promedio de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de
-
-Normas Financieras, certificada y publicada por el Banco Central Chile en la
-
-segunda quincena de los de meses de mayo y noviembre de cada año y que se
-
-devengará en el segundo semestre del mismo año y en el primer semestre del año
-
-siguiente, respectivamente, no pudiendo ser superior (ni inferior) en más de
-
-tres puntos porcentuales a la tasa del----% anual, a ----- años plazo,pagadero
-
-por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra
-
-recepción de éstos, previa confrontación con esta letra. La amortización de este
-
-título se hará ordinariamente en la forma dispuesta en el Título XII de la Ley
-
-General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el
-
-Consejo Monetario y el Comité Ejecutivo del Banco Central. Desde la fecha de
-
-vencimiento de los cupones o de la amortización extraordinaria de esta letra,no
-
-se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la
-
-letra se realizará por el equivalente en moneda corriente del índice valor
-
-promedio que corresponda, en la forma señalada en la Ley N° 18.010, publicada en
-
-el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
+Este banco (sociedad financiera) pagará la presente Letra de Crédito-----------por ------ I.V.P., que ganará un interés variables Interés semestralmente, según la Tasa Promedio de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central Chile en la segunda quincena de los de meses de mayo y noviembre de cada año y que se devengará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente, no pudiendo ser superior (ni inferior) en más de tres puntos porcentuales a la tasa del----% anual, a ----- años plazo,pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo Monetario y el Comité Ejecutivo del Banco Central. Desde la fecha de vencimiento de los cupones o de la amortización extraordinaria de esta letra,no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente del índice valor promedio que corresponda, en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
 
 La tasa de interés se determinará según la fórmula:
 
-.
+..
 
 y se aplicará sobre el saldo de capital que se indica en cada cupón.
 
-EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN INDICE VALOR PROMEDIO A LA SUMA
+EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN INDICE VALOR PROMEDIO A LA SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
 
-DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N°-----------de-------- de la Superintendencia de Bancos e Instituciones Financieras.
 
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y
-
-corresponde al prospecto a que se refiere el Certificado N°-----------de--------
-
-de la Superintendencia de Bancos e Instituciones Financieras.
-
-.
+..
 
 ANEXO N° 7
 
 TEXTO LETRA DE CREDITO CON AMORTIZACION ORDINARIA INDIRECTA E INTERES FIJO
 
-.
+..
 
---------------- pagará la presente Letra de Crédito ----- por ----------
+--------------- pagará la presente Letra de Crédito ----- por ---------- U.F./I.V.P/M.E/ que ganará el interés anual del -----, a ---------- años plazo pagadero por ----------------- vencidos contados desde la fecha de su emisión, en cambio del cupón respectivo y previa confrontación con este documento. Esta Letra de Crédito será pagada desde el día siguiente al del ---------- en que fuere sorteada en la forma dispuesta en el Título XIII de la Ley General de Bancos y en conformidad a los Acuerdos sobre la materia adoptados por el Consejo Monetario y el Comité Ejecutivo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización de este título no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se hará por el equivalente en moneda corriente de ---------------- que corresponda en la forma señalada en la Ley 18.010, publicada en el Diario Oficial de 27 de Junio de 1981 y sus modificaciones.
 
-U.F./I.V.P/M.E/ que ganará el interés anual del -----, a ---------- años plazo
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N°----- , de --------dela Superintendencia de Bancos e Instituciones Financieras.
 
-pagadero por ----------------- vencidos contados desde la fecha de su emisión,en
-
-cambio del cupón respectivo y previa confrontación con este documento. Esta
-
-Letra de Crédito será pagada desde el día siguiente al del ---------- en que
-
-fuere sorteada en la forma dispuesta en el Título XII de la Ley General de
-
-Bancos y en conformidad a los Acuerdos sobre la materia adoptados por el Consejo
-
-Monetario y el Comité Ejecutivo del Banco Central. Desde la fecha del
-
-vencimiento de los cupones o de la amortización de este título no se devengarán
-
-nuevos intereses ni reajustes. El pago de los cupones y de la letra se hará por
-
-el equivalente en moneda corriente de ---------------- que corresponda en la
-
-forma señalada en la Ley 18.010, publicada en el Diario Oficial de 27 de Junio
-
-de 1981 y sus modificaciones.
-
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y
-
-corresponde al prospecto a que se refiere el Certificado N°----- , de --------
-
-dela Superintendencia de Bancos e Instituciones Financieras.
-
-.
+..
 
 ANEXO N° 8
 
 TEXTO LETRA DE CREDITO CON AMORTIZACION ORDINARIA INDIRECTA E INTERES VARIABLE
 
-.
+..
 
-Este banco (sociedad financiera) pagará la presente Letra de Crédito----- por---
+Este banco (sociedad financiera) pagará la presente Letra de Crédito----- por------U.F./I.V.P., que ganará un interés variable semestralmente, según la Tasa de Interés Promedio de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año y que se devengará en el segundo semestre del mismo año y en el primer semestre del año siguiente,respectivamente, no pudiendo ser superior (ni inferior) en más de tres puntos porcentuales a la tasa del------% anual, a------años plazo pagadero por--
 
----U.F./I.V.P., que ganará un interés variable semestralmente, según la Tasa de
-
-Interés Promedio de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de
-
-Normas Financieras, certificada y publicada por el Banco Central de Chile en la
-
-segunda quincena de los meses de mayo y noviembre de cada año y que se devengará
-
-en el segundo semestre del mismo año y en el primer semestre del año
-
-siguiente,respectivamente, no pudiendo ser superior (ni inferior) en más de tres
-
-puntos porcentuales a la tasa del------% anual, a------años plazo pagadero por--
-
----------- vencidos, contados desde la fecha de su emisión, en cambio del cupón
-
-respectivo y previa confrontación con este documento. Esta Letra de Crédito será
-
-pagada desde el día siguiente al del------------en que fuere sorteada en la
-
-forma dispuesta en el Título XII de la Ley General de Bancos y en conformidad a
-
-los Acuerdos sobre la materia adoptados por el Consejo Monetario y el Comité
-
-Ejecutivo del Banco Central. Desde la fecha del vencimiento de los cupones o
-
-dela amortización de este título no se devengarán nuevos intereses ni
-
-reajustes.El pago de los cupones y de la letra se hará por el equivalente en
-
-moneda corriente de------------ que corresponda en la forma señalada en la Ley
-
-N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus
-
-modificaciones.
+---------- vencidos, contados desde la fecha de su emisión, en cambio del cupón respectivo y previa confrontación con este documento. Esta Letra de Crédito será pagada desde el día siguiente al del------------en que fuere sorteada en la forma dispuesta en el Título XIII de la Ley General de Bancos y en conformidad a los Acuerdos sobre la materia adoptados por el Consejo Monetario y el Comité Ejecutivo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización de este título no se devengarán nuevos intereses ni reajustes.El pago de los cupones y de la letra se hará por el equivalente en moneda corriente de------------ que corresponda en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
 
 La tasa de interés se determinará según la fórmula:
 
-.
+..
 
 y se aplicará sobre el saldo de capital que se indica en cada cupón.
 
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N°----- de------------, de esta Superintendencia de Bancos e Instituciones Financieras.
 
-corresponde al prospecto a que se refiere el Certificado N°----- de------------,
-
-de esta Superintendencia de Bancos e Instituciones Financieras.
-
-.
+..
 
 ANEXO N° 9
 
@@ -14970,121 +14268,39 @@ BONO CONVERTIBLE EN LETRAS DE CREDITO
 
 Institución Financiera
 
-.
+..
 
-.................................., en adelante la "institución financiera" o
+............, en adelante la "institución financiera" o "emisor", con domicilio en......................., debe al
 
-"emisor", con domicilio en........................................., debe al
+portador del presente bono la suma de.............................Unidades de Fomento (Indice Valor Promedio) que pagará en la forma siguiente:
 
-portador del presente bono la suma de.............................Unidades de
+1. Este título de crédito devengará, desde su fecha de emisión, un interés del......% anual sobre el capital expresado en Unidades de Fomento (Indice Valor Promedio). El pago de capital e intereses se efectuará de acuerdo al valor de la Unidad de Fomento (Indice Valor Promedio) al momento de solucionarse la obligación.
 
-Fomento (Indice Valor Promedio) que pagará en la forma siguiente:
+2. El capital y los intereses se pagarán conjuntamente en la fecha de vencimiento o de rescate del presente título, según el caso, en el domicilio del emisor.
 
-### 1. Este título de crédito devengará, desde su fecha de emisión, un interés
+3. Desde la fecha de su vencimiento o rescate, este bono dejará de devengar intereses y reajustes.
 
-del......% anual sobre el capital expresado en Unidades de Fomento (Indice Valor
+4. El emisor se obliga a pagar íntegramente este título, a su vencimiento, mediante la transferencia a su tenedor, de letras de crédito de su propia emisión por el equivalente a U.F. (I.V.P.) y a entregar la diferencia, correspondiente a los intereses devengados hasta la fecha de vencimiento, de la forma indicada en el número 6.
 
-Promedio). El pago de capital e intereses se efectuará de acuerdo al valor de la
+Si a la fecha de vencimiento de este título, el emisor, por causas no imputables a su voluntad, no dispusiera de las letras señaladas para pagar totalmente el capital reajustado de este bono, el total o la diferencia será cubierta en dinero efectivo, junto con sus intereses.
 
-Unidad de Fomento (Indice Valor Promedio) al momento de solucionarse la
+5. Este bono será redimido en forma anticipada a su vencimiento el día 1° del mes siguiente a aquél en que se haya efectuado el registro de las letras de crédito destinadas a este efecto, mediante la entrega de ellas al tenedor del presente título por el equivalente a .......... U.F. (I.V.P.) y la diferencia con respecto al valor par de este bono a la misma fecha, será cubierta de la forma indicada en el N° 6.
 
-obligación.
+Durante los últimos cinco días de cada mes, el emisor mantendrá en todas sus oficinas y a la vista del público, una nómina de los bonos que serán rescatados en forma anticipada el día 1° del mes siguiente. Copia de esta nómina será enviada, dentro del mismo plazo, a las Bolsas de Valores.
 
-### 2. El capital y los intereses se pagarán conjuntamente en la fecha de
-
-vencimiento o de rescate del presente título, según el caso, en el domicilio del
-
-emisor.
-
-3. Desde la fecha de su vencimiento o rescate, este bono dejará de devengar
-
-intereses y reajustes.
-
-### 4. El emisor se obliga a pagar íntegramente este título, a su vencimiento,
-
-mediante la transferencia a su tenedor, de letras de crédito de su propia
-
-emisión por el equivalente a U.F. (I.V.P.) y a entregar la diferencia,
-
-correspondiente a los intereses devengados hasta la fecha de vencimiento, de la
-
-forma indicada en el número 6.
-
-Si a la fecha de vencimiento de este título, el emisor, por causas no imputables
-
-a su voluntad, no dispusiera de las letras señaladas para pagar totalmente el
-
-capital reajustado de este bono, el total o la diferencia será cubierta en
-
-dinero efectivo, junto con sus intereses.
-
-5. Este bono será redimido en forma anticipada a su vencimiento el día 1° del
-
-mes siguiente a aquél en que se haya efectuado el registro de las letras de
-
-crédito destinadas a este efecto, mediante la entrega de ellas al tenedor del
-
-presente título por el equivalente a .......... U.F. (I.V.P.) y la diferencia
-
-con respecto al valor par de este bono a la misma fecha, será cubierta de la
-
-forma indicada en el N° 6.
-
-Durante los últimos cinco días de cada mes, el emisor mantendrá en todas sus
-
-oficinas y a la vista del público, una nómina de los bonos que serán rescatados
-
-en forma anticipada el día 1° del mes siguiente. Copia de esta nómina será
-
-enviada, dentro del mismo plazo, a las Bolsas de Valores.
-
-6. El emisor pagará en dinero efectivo los intereses devengados por este bono
-
-hasta su fecha de vencimiento o de rescate anticipado, según el caso. No
-
-obstante, la institución financiera podrá pagar todo o parte de los intereses
-
-devengados mediante la entrega de letras de crédito por su equivalente en
-
-Unidades de Fomento (Indice Valor Promedio), en vez de hacerlo en dinero
+6. El emisor pagará en dinero efectivo los intereses devengados por este bono hasta su fecha de vencimiento o de rescate anticipado, según el caso. No obstante, la institución financiera podrá pagar todo o parte de los intereses devengados mediante la entrega de letras de crédito por su equivalente en Unidades de Fomento (Indice Valor Promedio), en vez de hacerlo en dinero
 
 efectivo, opción que será de su exclusiva elección.
 
-7. Las letras de crédito a que se refieren los Nos. 4, 5 Y 6 precedentes, se
+7. Las letras de crédito a que se refieren los Nos. 4, 5 Y 6 precedentes, se emitirán de acuerdo con lo dispuesto en el Titulo XIII de la Ley General de Bancos, con amortización ordinaria directa trimestral y con una tasa de interés del ...... % anual, similar a la del N° 1 anterior. El plazo para la amortización total de las letras de crédito, cualquiera que sea su fecha de emisión, no será inferior a ...... años a contar de la fecha de vencimiento de este bono.
 
-emitirán de acuerdo con lo dispuesto en el Titulo XII de la Ley General de
+8. Para los efectos de entregar las letras de crédito en los casos señalados en los Nos. 4, 5 Y 6 anteriores, las letras se valorizarán a su valor para la fecha de vencimiento o de rescate anticipado del bono, según el caso.
 
-Bancos, con amortización ordinaria directa trimestral y con una tasa de interés
+9. El emisor pondrá las correspondientes letras de crédito a disposición del tenedor del presente bono en el lugar de pago, entendiéndose por este acto cumplida la obligación de transferencia establecida en los Nos. 4 y 5 anteriores.
 
-del ...... % anual, similar a la del N° 1 anterior. El plazo para la
+El presente bono corresponde a la Serie ................... registrada en la Superintendencia de Bancos e Instituciones Financieras bajo el N°.................
 
-amortización total de las letras de crédito, cualquiera que sea su fecha de
-
-emisión, no será inferior a ...... años a contar de la fecha de vencimiento de
-
-este bono.
-
-8. Para los efectos de entregar las letras de crédito en los casos señalados en
-
-los Nos. 4, 5 Y 6 anteriores, las letras se valorizarán a su valor para la fecha
-
-de vencimiento o de rescate anticipado del bono, según el caso.
-
-9. El emisor pondrá las correspondientes letras de crédito a disposición del
-
-tenedor del presente bono en el lugar de pago, entendiéndose por este acto
-
-cumplida la obligación de transferencia establecida en los Nos. 4 y 5
-
-anteriores.
-
-El presente bono corresponde a la Serie ................... registrada en la
-
-Superintendencia de Bancos e Instituciones Financieras bajo el
-
-N°................
-
-.......................... de .................... de 19....
+.......................... de .................... de 19.....
 
 CAPITULO 9-5 (Bancos y Financieras)
 
@@ -15804,29 +15020,9 @@ con la cláusula que se hubiera pactado.
 
 ### III. OTRAS DISPOSICIONES
 
-### 1. Márgenes legales
+1.- Límite.
 
-1.1. Límite de inversiones.
-
-El saldo que la institución financiera registre en la cuenta "Activos físicos
-
-por leasing" quedará afecto al límite de inversiones financieras de una vez el
-
-capital pagado y reservas de la institución, de que trata el inciso segundo del
-
-#### Artículo 83
-
-de la Ley General de Bancos.
-
-1.2. Límite de endeudamiento.
-
-Las obligaciones que las entidades financieras contraigan por la firma de
-
-contratos de leasing deberán considerarse para los fines de determinar el monto
-
-de los depósitos y de obligaciones para con terceros sujetos al margen que
-
-establecen los artículos 81 y 115 de la Ley General de Bancos.
+El saldo que la institución financiera registre en la cuenta "Activos físicos por leasing" queda también incluido dentro del activo fijo para efectos del límite general de inversiones del inciso segundo del artículo 69 de la Ley General de Bancos, tratado en el Capítulo 12-10 de esta Recopilación.
 
 2. Contratos celebrados con personas relacionadas con la institución financiera.
 
@@ -15842,9 +15038,9 @@ ACTIVO FIJO FISICO.
 
 1.1. Disposiciones legales que rigen las inversiones en activo fijo de las instituciones financieras.
 
-Las disposiciones contenidas en los N°s 16 y 17 del artículo 83 de la Ley General de Bancos facultan a las instituciones financieras para adquirir o edificar bienes raíces y adquirir bienes corporales muebles, con la condición de que tales bienes sean necesarios para el funcionamiento y la prestación de servicios de la institución.
+Las disposiciones contenidas en los N°s 22 y 13 del artículo 69 de la Ley General de Bancos facultan a las instituciones financieras para adquirir o edificar bienes raíces y adquirir bienes corporales muebles, con la condición de que tales bienes sean necesarios para el funcionamiento y la prestación de servicios de la institución.
 
-Las inversiones en bienes del activo fijo a que se refiere el párrafo precedente están sujetas, en todo caso, al límite de que trata el penúltimo inciso del mencionado artículo 83 y el Capítulo 12-10 de esta Recopilación Actualizada de Normas.
+Las inversiones en bienes del activo fijo a que se refiere el párrafo precedente están sujetas, en todo caso, al límite de que trata el penúltimo inciso del mencionado artículo 69 y el Capítulo 12-10 de esta Recopilación Actualizada de Normas.
 
 En lo que se refiere a las condiciones en que deben realizarse las compras y ventas de activo fijo, las instituciones financieras deben tener presente que los artículos 44 y 89de la Ley N° 18.046, como asimismo el N° 2 del artículo 84 de la Ley General de Bancos, precaven eventuales subordinaciones de intereses de una sociedad, exigiendo que todas las operaciones con partes relacionadas se efectúen en condiciones de equidad similares a las que prevalecen en el mercado. Por consiguiente, si bien las compras y ventas de activo fijo deben efectuarse siempre con el cuidado necesario para salvar las eventuales responsabilidades civiles que podrían derivarse de perjuicios patrimoniales causados a la institución, al tratarse de transacciones con personas naturales o jurídicas relacionadas con la propiedad o gestión de ésta, adquiere especial importancia la necesidad de efectuarlas con suficiente transparencia, manteniendo todos los antecedentes que permitan demostrar el cabal cumplimiento de la ley.
 
@@ -18362,11 +17558,7 @@ circulante depurado de la institución receptora.
 
 ### 2. Límites de la Ley General de Bancos
 
-Como resulta obvio, las instituciones financieras deberán observar, además, las
-
-limitaciones establecidas en los artículos 81, 84 y 115 de la Ley General de
-
-Bancos, según corresponda.
+Como resulta obvio, las instituciones financieras deberán observar, además, las limitaciones establecidas en el artículo 84 de la Ley General de Bancos.
 
 ### 3. Operaciones afectas
 
@@ -19717,10 +18909,6 @@ Los reajustes por la variación de la Unidad de Fomento se calcularán al térmi
 3.4. Por las colocaciones efectuadas con estos recursos.
 
 Las colocaciones que las instituciones financieras cursen con cargo a los créditos recibidos del Banco Central de Chile, se registrarán en la cuenta "Créditos con cargo a recursos Capítulo IV.E.2-B Normas Financieras Banco Central de Chile", de las partidas 1110 y 1205, según corresponda.
-
-### 4. Límite de endeudamiento artículos 81 y 115 de la Ley General de Bancos
-
-Las obligaciones que las entidades financieras contraigan con el Banco Central de Chile por las operaciones a que se refiere el título II de este capítulo, no son computables para los efectos de los límites de endeudamiento establecidos en los artículos 81 y 115 de la Ley General de Bancos.
 
 CAPITULO 13-13 (Bancos y Financieras)
 
@@ -21670,9 +20858,7 @@ Los bancos podrán pactar libremente con los ordenantes de las cartas de crédit
 
 Asimismo, cuando se trate de cartas de crédito que amparen embarques de mercaderías desde el exterior destinadas a las Zonas Francas del país, los bancos podrán acordar con los respectivos ordenantes, los intereses en moneda chilena o en moneda extranjera que cobrarán sobre dichas operaciones.
 
-Cuando una carta de crédito sea pagada en moneda extranjera por el ordenante al momento de su apertura, los bancos no podrán cobrar intereses sobre tales operaciones. Del mismo modo, cuando un acreditivo sea financiado en moneda chilena por el ordenante, los bancos no podrán cobrar intereses en moneda chilena sobre ellos, mientras se mantenga dicho depósito y hasta por el
-
-equivalente del importe que ampare a la respectiva carta de crédito. En ningún caso los intereses que se cobren sobre estas operaciones, podrán exceder la tasa de interés máxima convencional a que se refiere el artículo 6° de la Ley N° 18.010.
+En ningún caso los intereses que se cobren sobre estas operaciones, podrán exceder lo que permita estipular el artículo 6° de la Ley N° 18.010.
 
 1.6.- Comisiones y otros gastos.
 
@@ -22900,62 +22086,6 @@ punto 2 anterior.
 
 Banco Central, a más tardar, el día 25 de cada mes.
 
-CAPITULO 17-4 (Bancos y Financieras)
-
-MATERIA:
-
-FACULTAD DE LOS BANCOS Y SOCIEDADES FINANCIERAS DE ACTUAR COMO REPRESENTANTES DE
-
-LOS TENEDORES DE BONOS.
-
-De acuerdo a lo dipuesto en el artículo 22 de la Ley N° 18.045, Ley de Mercado
-
-de Valores, los bancos pueden actuar como representantes de los tenedores de
-
-bonos sin necesidad de contar previamente con una autorización especial de esta
-
-Superintendencia que los habilite para desempeñar comisiones de confianza.
-
-Cabe hacer presente que la Ley N° 18.045 fue promulgada con posterioridad a la
-
-Ley General de Bancos, produciéndose en consecuencia una modificación tácita
-
-dela segunda por la primera en esta materia. Por lo tanto, si la Ley N° 18.045
-
-faculta expresamente a los bancos y sociedades financieras para actuar como
-
-representantes de los tenedores de bonos, debemos concluir que dichas entidades
-
-pueden desempeñar tal actividad aunque no cuenten con un departamento de
-
-comisiones de confianza.
-
-Para aclarar cualquier duda que pudiere surgir, debe tenerse presente que si un
-
-banco desea desempeñar las restantes comisiones de confianza que enumera el
-
-#### Artículo 48
-
-de la Ley General de Bancos, distintas del cargo de representante
-
-delos tenedores de bonos, necesariamente requiere de la autorización previa y
-
-general de esta Superintendencia para la apertura del departamento de comisiones
-
-de confianza correspondiente.
-
-A lo antes señalado debe agregarse que, conforme lo dispone expresamente el
-
-#### Artículo 22
-
-de la Ley de Mercado de Valores, las sociedades financieras también
-
-están facultadas para actuar como representantes de tenedores de bonos, no
-
-obstante que para ellas no rige el Título VI de la Ley General de Bancos que se
-
-refiere a las comisiones de confianza.
-
 CAPITULO 17-5 (Bancos y Financieras)
 
 MATERIA:
@@ -23946,7 +23076,7 @@ INFORMACION SOBRE DEUDORES DE LAS INSTITUCIONES FINANCIERAS.
 
 ### 1. Generalidades
 
-El artículo 13 bis del D.L. N° 1.097, establece que esta Superintendencia debe mantener una información permanente y refundida sobre los deudores de los bancos y sociedades financieras, para el uso de las instituciones sometidas a su fiscalización.
+El artículo 14 de la Ley General de Bancos, establece que esta Superintendencia debe mantener una información permanente y refundida sobre los deudores de los bancos y sociedades financieras, para el uso de las instituciones sometidas a su fiscalización.
 
 Esta información incluye, además de la individualización de los deudores, el monto de la deuda que ellos mantienen con los bancos y sociedades financieras. La deuda comprende el conjunto de obligaciones reales y contingentes de un deudor, sea por su calidad de deudor directo o indirecto y se informan tanto sus obligaciones vigentes como las vencidas, manteniéndose también, durante un lapso de diez años, la información de las operaciones castigadas.
 
@@ -23996,7 +23126,7 @@ Esta Superintendencia recomienda, asimismo, destruir o archivar convenientemente
 
 Los funcionarios a quienes se les otorgue acceso a la información, deben ser instruidos en forma clara y precisa acerca del cuidado y reserva que deben mantener respecto de ella y de la responsabilidad que afectará a la institución en caso que ella se proporcione a terceros, distintos de los propios deudores.
 
-Por su parte, el artículo 13 bis del D.L. 1.097, establece penas corporales para las personas que revelen el contenido de la información sobre deudores de que se trata.
+Por su parte, el 14 de la Ley General de Bancos, establece penas corporales para las personas que revelen el contenido de la información sobre deudores de que se trata.
 
 CAPITULO 18-6 (Bancos y Financieras)
 
@@ -24176,7 +23306,7 @@ En un 90% de su monto total, con tope máximo a pagar de 108 U.F., en todo el si
 
 2) Que se trate de depósitos a plazo mediante documentos nominativos o a la orden, incluso con libretas de ahorro con giros diferidos.
 
-NOTA: Los preceptos legales que establecen estas preferencias y garantías se encuentran en el artículo 80 bis y los artículos 141 al 150 de la Ley General de Bancos.
+NOTA: Los preceptos legales que establecen estas preferencias y garantías se encuentran en el artículo 65 y los artículos 144 al 153 de la Ley General de Bancos.
 
 SUPERINTENDENCIA DE BANCOS E INSTITUCIONES FINANCIERAS
 
@@ -24394,13 +23524,11 @@ cubiertas por provisiones.
 
 - Rebaja de reservas acumuladas o de capital por razones distintas a la absorción de pérdidas del ejercicio anterior informadas en los estados financieros anuales.
 
-- Que la relación deuda-capital del banco se haya situado sobre diecinueve veces su capital pagado y reservas o de catorce veces en el caso de las sociedades financieras.
-
 - Cambios importantes en la situación financiera originados por variaciones de la tasa de interés o paridad cambiarla.
 
 - Que la institución financiera haya sido sancionada por esta Superintendencia o por otro Organismo sin que resulte necesario informar aquellas sanciones que correspondan a amonestaciones, censuras o multas por montos inferiores a 250 U.F.
 
-- Que la empresa esté sujeta a alguna de las prohibiciones señaladas en el artículo 19 bis del D.L. 1.097 o se le haya nombrado un inspector delegado.
+- Que la empresa esté sujeta a alguna de las prohibiciones señaladas en el artículo 20 de la Ley General de Bancos o se le haya nombrado un inspector delegado.
 
 - Que la institución haya incurrido por un plazo superior a tres días en un déficit de reserva técnica.
 
@@ -24418,7 +23546,7 @@ cubiertas por provisiones.
 
 Conviene reiterar que los hechos mencionados precedentemente sólo se indican a vía de ejemplo, de manera que debe tenerse presente que cualquier otro que revista características similares a las indicadas debe considerarse igualmente como información esencial. Por otra parte, no se incluyen entre estos hechos, aquellos otros que derivan en publicaciones de conformidad con otras
 
-disposiciones legales, como es el caso, por ejemplo, de las situaciones previstas en los artículos 116 ó 119 de la Ley General de Bancos o en el artículo 15 del D.L. 1.097, de 1975.
+disposiciones legales, como es el caso, por ejemplo, de las situaciones previstas en los artículos 16, 118 ó 122 de la Ley General de Bancos.
 
 La calificación de la información ha sido entregada por la ley al criterio de la propia dirección o administración de la entidad, ya que a ella le corresponde determinar si un hecho o antecedente reúne las características fijadas por el legislador y actuar en consecuencia. Los hechos que constituyen información esencial deberán ser calificados por la gerencia general y comunicados a esta Superintendencia para su conocimiento, dentro del plazo señalado en el N° 5 de este Capítulo.
 
@@ -24502,11 +23630,11 @@ FIRMAS EVALUADORAS DE INSTITUCIONES FINANCIERAS.
 
 ### 1. Disposiciones legales
 
-El artículo 20 de la Ley General de Bancos señala que las entidades financieras podrán poner en conocimiento de firmas especializadas privadas, detalles de sus operaciones sujetas a reserva, con el propósito de que éstas puedan evaluar su situación económico-financiera. Asimismo, el artículo 13 bis de la Ley Orgánica de esta Superintendencia establece en su párrafo tercero que "con el objeto exclusivo de permitir una evaluación habitual de las instituciones financieras por firmas especializadas que demuestren un interés legítimo, la Superintendencia deberá darles a conocer la nómina de los deudores de los bancos, los saldos de sus obligaciones y las garantías que hayan constituido. Lo anterior sólo procederá cuando la Superintendencia haya aprobado su inscripción en un registro especial que abrirá para los efectos contemplados en este inciso y en el inciso segundo del artículo 20 de la Ley General de Bancos".
+El artículo 154 de la Ley General de Bancos señala que las entidades financieras podrán poner en conocimiento de firmas especializadas privadas, detalles de sus operaciones sujetas a reserva, con el propósito de que éstas puedan evaluar su situación económico-financiera. Asimismo, el artículo 14 de dicha ley establece en su párrafo tercero que "con el objeto exclusivo de permitir una evaluación habitual de las instituciones financieras por firmas especializadas que demuestren un interés legítimo, la Superintendencia deberá darles a conocer la nómina de los deudores de los bancos, los saldos de sus obligaciones y las garantías que hayan constituido. Lo anterior sólo procederá cuando la Superintendencia haya aprobado su inscripción en un registro especial que abrirá para los efectos contemplados en este inciso y en el inciso segundo del artículo 154".
 
 Por su parte, el artículo 76 de la Ley de Mercado de Valores señala que los emisores de valores de oferta pública que emitan títulos representativos de deuda, deberán contratar, a su costo, la clasificación continua e ininterrumpida de dichos valores con a lo menos dos clasificadoras de riesgo distintas e independientes entre sí. Los emisores de valores de oferta pública que emitan acciones, podrán someter voluntariamente a clasificación tales valores.
 
-Los bancos y sociedades financieras, en su calidad de emisores de valores de oferta pública quedan, de acuerdo con lo anterior, obligados a contratar a lo menos dos clasificadores de los valores que emitan. Sin embargo, en la ley se ha hecho una diferencia entre las entidades fiscalizadas por esta Superintendencia y el resto de los emisores de valores, puesto que en el artículo 94 de la Ley de Mercado de Valores se establece que las clasificaciones de los valores de oferta pública emitidos por bancos y sociedades financieras las realizarán los evaluadores privados o firmas especializadas a que se refieren el artículo 20 de la Ley General de Bancos y el artículo 13 bis del D.L. N° 1.097 de 1975.
+Los bancos y sociedades financieras, en su calidad de emisores de valores de oferta pública quedan, de acuerdo con lo anterior, obligados a contratar a lo menos dos clasificadores de los valores que emitan. Sin embargo, en la ley se ha hecho una diferencia entre las entidades fiscalizadas por esta Superintendencia y el resto de los emisores de valores, puesto que en el artículo 94 de la Ley de Mercado de Valores se establece que las clasificaciones de los valores de oferta pública emitidos por bancos y sociedades financieras las realizarán los evaluadores privados o firmas especializadas a que se refieren el los artículos 14 y 154 de la Ley General de Bancos.
 
 2.Contratación de firmas evaluadoras.
 
@@ -24568,7 +23696,7 @@ I.- AUDITORIAS DE ESTADOS FINANCIEROS.
 
 1.- Requisitos que deben cumplir las firmas de auditores externos.
 
-De acuerdo con las disposiciones contenidas en el articulo 15 del D.L. N° 1.097, los estados financieras de las instituciones financieras deben ser informados por una firma de auditores externos.
+De acuerdo con las disposiciones contenidas en el articulo 16 de la Ley General de Bancos, los estados financieras de las instituciones financieras deben ser informados por una firma de auditores externos.
 
 Para estos efectos, los auditores externos que deben designar anualmente las instituciones fiscalizadas, deberán elegirse de entre los inscritos en el Registro de Auditores Externos de esta Superintendencia. Las firmas de auditores inscritas en dicho Registro y facultadas para efectuar la auditoría de estados financieros de bancos o sociedades financieras se señalan en el Anexo N°1 de este Capítulo.
 
@@ -24650,13 +23778,13 @@ N° de Inscripción *Nombre de la empresa.
 
 III.- TAREAS ESPECIALES ENCOMENDADAS POR ESTA SUPERINTENDENCIA A LOS AUDITORES EXTERNOS.
 
-Las disposiciones de las letras f) y l) del artículo 4° del D.L N° 3.538, conforme a lo dispuesto en el artículo 18 del D.L N° 1.097, facultan a esta Superintendencia para inspeccionar a las entidades fiscalizadas por medio de auditores externos o designar a esos auditores a fin de que realicen las tareas que específicamente les encomiende.
+Las disposiciones de las letras f) y l) del artículo 4° del D.L N° 3.538, conforme a lo dispuesto en el artículo 26 de la Ley General de Bancos, facultan a esta Superintendencia para inspeccionar a las entidades fiscalizadas por medio de auditores externos o designar a esos auditores a fin de que realicen las tareas que específicamente les encomiende.
 
 En uso de esas facultades, esta Superintendencia encargará labores especiales a los auditores externos, en las instituciones financieras conforme al siguiente procedimiento:
 
 a) Para su ejecución se designará una firma de auditores externos registrada para efectuar auditorías de estados financieros de bancos o sociedades financieras.
 
-b) La firma de auditores externos y el personal de ésta que se desempeñe en estas tareas, tendrán la calidad de agentes especiales de esta Superintendencia a que se refiere el artículo 13 del D.L. N° 1.097. En consecuencia, los auditores tendrán las mismas facultades para solicitar documentación y el mismo deber de reserva establecidos en ese Decreto Ley para los funcionarios de esta Superintendencia. Conviene recalcar que esta reserva comprende a las personas y funcionarios de la empresa auditada.
+b) La firma de auditores externos y el personal de ésta que se desempeñe en estas tareas, tendrán la calidad de agentes especiales de esta Superintendencia a que se refiere el artículo 13 de la Ley General de Bancos. En consecuencia, los auditores tendrán las mismas facultades para solicitar documentación y el mismo deber de reserva establecidos en ese Decreto Ley para los funcionarios de esta Superintendencia. Conviene recalcar que esta reserva comprende a las personas y funcionarios de la empresa auditada.
 
 c) Las tareas especiales de auditoría se solicitarán en las oportunidades y con los propósitos específicos que esta Superintendencia estime convenientes para el cumplimiento de sus objetivos.".
 
