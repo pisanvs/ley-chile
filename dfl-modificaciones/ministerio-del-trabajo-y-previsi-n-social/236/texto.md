@@ -1,0 +1,107 @@
+MODIFICA EL SISTEMA DE MONTEPIOS APLICABLE A LOS FUNCIONARIOS PERTENECIENTES AL PODER JUDICIAL
+
+Núm. 236.- Santiago, 22 de octubre de 1968.- Vista, la facultad que me confiere el inciso 2° del artículo 49° de la ley 16.840, de 24 de mayo de 1968, vengo en dictar el siguiente
+
+DECRETO CON FUERZA DE LEY:
+
+#### Artículo 1°
+
+Reemplázase el sistema de montepíos aplicable a los funcionarios pertenecientes al Poder Judicial, actualmente regido por el decreto con fuerza de ley 1.340 bis, de 6 de agosto de 1930, del ex Ministerio de Bienestar Social, publicado el 10 de octubre de 1930, por el de las pensiones de viudez y orfandad que se establece en este decreto con fuerza de ley.
+
+#### Artículo 2°
+
+Derogado
+
+#### Artículo 3°
+
+Las pensiones de viudez y de orfandad se otorgarán desde el día siguiente al del fallecimiento del imponente, activo o pasivo, siempre que haya efectuado la imposición establecida en el artículo 2° por un período mínimo, continuo o discontinuo, de 36 meses anteriores a la fecha del fallecimiento.
+
+#### Artículo 4°
+
+El cálculo de las pensiones de viudez y orfandad se hará en relación al monto de la última pensión mensual de que disfrutaba el causante, si fallece encontrándose jubilado o de la última renta mensual imponible, si fallece en servicio activo y en la proporción de una trigésima parte por cada año de imposiciones computables para la jubilación.
+
+Si el causante fallecido en servicio activo no reunía los requisitos para jubilar, las pensiones de viudez y orfandad así determinadas no podrán exceder de veinticuatro trigésimas partes.
+
+El monto de las pensiones de viudez y orfandad se reajustará en todo momento en relación con los sueldos de actividad que habrían correspondido al causante, siempre que éste hubiere tenido 20 o más años de servicios computables para la jubilación y que hubiese tenido derecho a pensión reajustable de acuerdo a las rentas de su similar en actividad.
+
+> **Nota.** NOTA: 1° Las modificaciones introducidas por el D.L. 970, de 1975, rigen a contar del 1° de abril de 1975.
+
+> **Nota.** NOTA: 2° El inciso primero del art. único del D.L. 994, de 1975 modificado por el artículo único del D.L. 1.016, de 1975, dispuso lo siguiente: "Declárase que las penciones de viudez y orfandad a qu se refiere el inciso final del artículo 4° del decreto con fuerza de ley 236, de 1968, modificado por el decreto ley 970, de 1975, son y han sido, desde la fecha de vigencia de dicho artículo 4°, incompatibles con el goce de cualquiera otra pensión de viudez, orfandad o de montepío, de cualquier naturaleza, preexistente o sobreviniente, que hayan tenido su orig en un mismo causante. El interesado deberá optar, dentro del plazo de treinta días contado desde el momento de haberse producido la incompatibilidad, por uno u otros beneficios."
+
+> **Nota.** NOTA: 3° El artículo 15 del D.L. 2.448, de 1978, derogó todas las disposiciones que establecen sistemas de reliquidación o reajustes de pensiones que se relacionen con los sueldos de actividad, cualesquiera sean los regímenes previsionales que las contengan.
+
+#### Artículo 5°
+
+El monto de la pensión de viudez será equivalente a una cuota del cincuenta por ciente del sueldo base o de la pensión de jubilación base, definidos en el artículo 4°, en su caso, para el beneficiario expresado en el artículo 7° y el de la pensión de orfandad, a una cuota del diez por ciento del mismo sueldo o pensión, para cada uno de los beneficiarios expresados en el artículo 8°.
+
+#### Artículo 6°
+
+La suma de los montos parciales de las pensiones de viudez y de orfandad originados por un solo Art. UNICO, causante, no podrá exceder del setenta por ciento de la pensión de jubilación o del sueldo indicados en el artículo 4°.
+
+Las reducciones en los montos de cada una de las pensiones que sea necesario efectuar por la aplicación de lo dispuesto en el inciso anterior, se realizará a prorrata de sus respectivas cuotas.
+
+#### Artículo 7°
+
+Son beneficiarios de la pensión de viudez:
+
+a) La viuda del causante, mientras no contraiga nuevo matrimonio o
+
+b) El viudo de la causante, que sea inválido y mientras subsista su invalidez.
+
+#### Artículo 8°
+
+Son beneficiarios de pensiones de orfandad:
+
+1) Los hijos legítimos, naturales o adoptivos del causante:
+
+a) Que sean menores de 18 años de edad;
+
+b) Que sean mayores de 18 y menores de 25 años mientras sean estudiantes de la enseñanza media, universitaria o especial, y
+
+c) Que sean inválidos, de cualquier edad, mientras subsista su invalidez, y
+
+2) Sus ascendientes que no perciban una renta superior a un sueldo vital escala A) para el departamento de Santiago y que hayan vivido a sus expensas.
+
+#### Artículo 9°
+
+Si la viuda del causante no existiera en el momento de diferirse la pensión de viudez o se extinguiera posteriormente su derecho a ella, una cantidad equivalente a la mitad de la cuota establecida en el artículo 5° para la pensión de viudez, aumentará proporcionalmente el monto de cada una de las pensiones de orfandad diferidas y sus beneficiarios tendrán derecho a acrecer entre sí respecto a dicho aumento.
+
+#### Artículo 10°
+
+El derecho a las pensiones de viudez y orfandad se extingue por la muerte del beneficiario o por la pérdida de los requisitos necesarios para su adquisición.
+
+#### Artículo 11°
+
+La viuda del causante que contrajere nuevo matrimonio tendrá derecho a percibir, por una sola vez, una cantidad equivalente a veinticuatro veces el monto de su última pensión mensual de viudez.
+
+#### Artículo 12°
+
+El presente decreto con fuerza de ley entrará en vigencia a partir del primer día del mes siguiente a aquel en que se publique en el Diario Oficial.
+
+#### Artículo 13°
+
+Derogado
+
+#### Artículo 14°
+
+El tope de imponibilidad de las remuneraciones, establecido en el artículo 25° de la ley Art. UNICO, 15.386 y sus modificaciones, no regirá para los funcionarios del Poder Judicial ni para las pensiones que ellos perciban o causen.
+
+#### Artículo 1°
+
+transitorio. Auméntase en un 50% para el solo efecto de las revalorizaciones que a partir del 1° de enero de 1969 deberán efectuarse en conformidad a la ley 15.386, el monto inicial de las pensiones de montepío otorgadas a los imponentes de la Sección Empleados Públicos de la Caja Nacional de Empleados Públicos y Periodistas, que fallecieron siendo funcionarios o jubilados del Poder Judicial.
+
+Para estos efectos, la Caja consultará anualmente en su presupuesto las sumas necesarias para financiar el mayor gasto por concepto de revalorización derivado de la aplicación del inciso anterior, que transferirá al Fondo de Revalorización de Pensiones.
+
+#### Artículo 2°
+
+transitorio. Los funcionarios a que se refiere el artículo 1° y los que hayan jubilado en esta calidad que, a la fecha de vigencia del presente decreto con fuerza de ley, tengan diez o más años de afiliación computable para el beneficio de montepío, causarán derecho a las pensiones de sobrevivientes que el mismo establece aun cuando no cumplan los requisitos que establece el artículo 3°.
+
+Asimismo, las causarán los que a esa fecha tengan más de siete años de afiliación computable, siempre que en la fecha del fallecimiento cumplan, a lo menos, diez años de afiliación.
+
+#### Artículo transitorio
+
+Las actuales pensiones de jubilación de los funcionarios de la Planta Superior del ART. UNICO, Poder Judicial, como igualmente las de viudez y orfandad, causadas por funcionarios y empleados de dicho VER NOTA 1.- Poder, se liquidarán de acuerdo con las normas del presente decreto ley, sin necesidad de solicitud o requerimiento de los beneficiarios, pero tal reliquidación, para los efectos del pago, comenzará a regir sólo desde la vigencia de este decreto ley.
+
+El mayor gasto que demande la aplicación del presente decreto ley se financiará con cargo a la imposición adicional del 4% establecida en el artículo 2° del decreto con fuerza de ley 236, de 22 de octubre de 1968, y con el aumento de imposiciones que se establece en los nuevos artículos 13° y 14° que por este cuerpo legal se agregan al referido decreto con fuerza de ley.
+
+Tómese razón, comuníquese, publíquese e insértese en la recopilación que corresponda de la Contraloría General de la República.- EDUARDO FREI MONTALVA.- Eduardo León.
