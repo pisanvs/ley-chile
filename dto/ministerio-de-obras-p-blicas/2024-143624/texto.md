@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.024, de 30 de julio de 1999, se expropió el lote de terreno No. 199-B, superficie 1.439,0 m2., rol de avalúo 387-9, comuna de Loncoche, para la obra "Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno", Novena Región, y se acordó el valor de indemnización con su propietario Manuel Segundo Vásquez Betanzo, ascendente a la cantidad de $ 7.536.760.-
+
+Fiscal del Ministerio de Obras Públicas.
