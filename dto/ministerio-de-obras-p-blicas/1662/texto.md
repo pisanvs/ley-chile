@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.662, de 25 de septiembre de 1998, se expropió el lote de terreno Nº31, superficie 10.309 m²., rol de avalúo 20-73, comuna de Calle Larga, para la obra Camino Santiago - Colina - Los Andes, Sector G, By Pass Los Andes, y se acordó el valor de indemnización con su propietario Rodríguez Cacciuttolo Luis R., ascendente a la cantidad de $31.290.030.-
+
+Fiscal del Ministerio de Obras Públicas.
