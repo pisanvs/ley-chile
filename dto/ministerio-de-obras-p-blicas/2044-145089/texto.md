@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.044, de 30 de julio de 1999, se expropiaron los lotes de terreno Nºs. 2, 3 y 2-A, superficies 1.417, 174 y 828 m², respectivamente, rol de avalúo 99-57, comuna de La Ligua, para la obra Ruta E-39, Sector Quinquimo - El Rayado y se acordó precio de indemnización con su propietario Constructora Tricam Limitada, ascendente a la cantidad de $7.238.138.-
+
+Fiscal del Ministerio de Obras Públicas.
