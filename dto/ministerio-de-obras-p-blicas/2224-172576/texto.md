@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.224, de 30 de mayo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº42, para la obra Camino Ruta M-80-N, sector Curanipe-Bif. Chovellen, Tramo Km. 0.000 al 6.871,14, que figura a nombre de Aurora del C. Rivas Salazar, rol de avalúo 320-71, comuna de Pelluhue, VII Región, superficie 19 M2. La Comisión de Peritos, fijó con fecha 3 de mayo de 1999, en la cantidad de $50.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
