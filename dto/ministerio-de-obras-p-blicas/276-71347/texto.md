@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 276, de 31 de marzo de 1997, se expropió el lote de terreno Nº 5, superficie 66 M2., rol de avalúo 233-332, comuna de Rengo, para la obra Camino Ruta H-521, sector Ruta 5-Fundo El Rincón, por Lo de Lobos y se acordó precio de indemnización con su propietaria doña Olga del Rosario Mardones Flores, ascendente a la cantidad de $1.616.216.-
+
+Fiscal del Ministerio de Obras Públicas.
