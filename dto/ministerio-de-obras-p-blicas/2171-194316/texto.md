@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.171, de 28 de diciembre del 2001, se expropió el lote de terreno Nº17-B, superficie 231 m2., rol de avalúo 1297-7, comuna de Quilpué, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso Viña del Mar Troncal Sur Enlace Quilpué Oriente Kms. 96.373,50 al 96.600,00, Quinta Región y se acordó el valor de indemnización con su propietario Pedro Cornelio Tapia Tapia, ascendente a la cantidad de $14.429.012.-
+
+Fiscal del Ministerio de Obras Públicas.
