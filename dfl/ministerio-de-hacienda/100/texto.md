@@ -1,0 +1,1 @@
+Fija la planta del personal de la Secretaría y Administración General del Ministerio de Hacienda; suprime los cargos que indica de las plantas de la Dirección General de Servicios Eléctricos y de Gas, Subsecretaría de Hacienda, Servicio de Explotación de Puertos, Superintendencia de Aduanas y Dirección General de Pavimentación.
