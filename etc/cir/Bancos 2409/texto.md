@@ -4878,47 +4878,53 @@ Las instituciones financieras darán cumplimiento a la exigencia de encaje sobre
 
 Las obligaciones contraídas con el exterior por las entidades financieras, estarán afectas a una tasa de encaje del 30%.
 
-### 2. Registro contable
+2.- Obligaciones afectas a encaje.
 
-2.1. Obligaciones con el exterior.
+2.1.- Créditos afectos.
 
-Con el objeto de obtener directamente de los saldos contables el importe de las obligaciones con el exterior exentas de encaje correspondiente a los créditos externos internados al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, que se regirán en esta materia por sus propias normas y a las obligaciones reestructuradas de conformidad con los Contratos Modificatorios de los Contratos de Reestructuración suscritos por la República de Chile, en los términos aprobados por el Consejo del Banco Central de Chile mediante Acuerdos N°s 72-04-901113 y 72-06-901113, éstos serán registrados, además de su imputación en las respectivas cuentas del pasivo, en la cuenta de orden "Obligaciones con el exterior exentas de encaje" de la partida 9167 "Obligaciones exentas de encaje". En esa cuenta de orden quedará registrado el importe total de las operaciones de que se trata, sin incluir los intereses devengados.
-
-2.2. Encaje mantenido.
-
-El importe en moneda extranjera que las instituciones financieras mantengan depositado en su cuenta especial con el Banco Central de Chile para cumplir con el encaje de que trata este título, será registrado en la "Cuenta especial encaje Acuerdo N° 143-01-910705", de la partida 1010.
-
-### 3. Cuentas de obligaciones afectas a encaje
-
-Quedarán sujetos al encaje de que trata este título, los saldos de las obligaciones con el exterior que se demuestran en las partidas que a continuación se indican, excepto aquellas que deben también registrarse en la cuenta "Obligaciones con el exterior exentas de encaje" de que trata el numeral 2.1 de este título:
+Quedan sujetas al encaje de que trata este título, las obligaciones que se demuestran en las siguientes partidas, con excepción de los créditos mencionados en el numeral 2.2:
 
 N° 3505 "Adeudado a bancos del exterior por financiamiento de importaciones y exportaciones".
 
-N° 3510 "Adeudado a bancos del exterior por otras obligaciones"
+N° 3510 "Adeudado a bancos del exterior por otras obligaciones".
 
-N° 3515 "Adeudado a oficinas del mismo banco"
+N° 3515 "Adeudado a oficinas del mismo banco".
 
-N° 3520 "Corresponsales ALADI-Banco Central".
+N° 3520 "Corresponsables ALADI-Banco Central".
 
 N° 3525 "Otros préstamos y obligaciones".
 
-N° 3555 "Adeudado a bancos del exterior"
+N° 3555 "Adeudado a bancos del exterior".
 
-N° 3560 "Adeudado a oficinas del mismo banco"
+N° 3560 "Adeudado a oficinas del mismo banco".
 
 N° 3565 "Corresponsales ALADI-Banco Central".
 
 N° 3570 "Otros préstamos y obligaciones".
 
-### 4. Encaje exigido y mantenido
+2.2.- Créditos exentos.
 
-4.1. Encaje exigido.
+Los siguientes créditos incluidos en las partidas antes señaladas se encuentran exentos de la obligación de constituir encaje, de modo que no se computarán para ese efecto:
 
-El encaje exigido se calculará por "períodos mensuales", según lo señalado en el N° 1 del título I de este Capítulo, sobre el con el promedio de las obligaciones antes mencionadas en cada una de las diferentes monedas extranjeras, calculado sobre la base de los saldos diarios del respectivo mes, considerando los días corridos del período.
+a) Créditos externos internados al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
 
-4.2. Encaje mantenido.
+b) Obligaciones reestructuradas de conformidad con los Contratos Modificatorios de los Contratos de Reestructuración suscritos por la República de Chile, en los términos aprobados por el Consejo del Banco Central de Chile mediante Acuerdos N°s. 72-04-901113 y 72-06-901113.
 
-El encaje por las obligaciones antes mencionadas deberá estar constituido por dólares de los Estados Unidos de América, depositados en el Banco Central de Chile para tal efecto en la "Cuenta especial encaje Acuerdo N° 143-01-910705.
+c) Otros créditos externos que cumplan los requisitos indicados en el N° 6 de la letra A) del Capítulo III del Título I del Compendio de Normas de Cambios Internacionales, para quedar exentos de encaje.
+
+Con el objeto de detraer las operaciones señaladas en los literales precedentes de los saldos del pasivo afectos al encaje de que se trata, dichas operaciones se mantendrán registradas también, sin incluir sus intereses devengados, en la cuenta de orden "Obligaciones con el exterior exentas de encaje", de la partida 9167.
+
+3.- Encaje exigido y mantenido.
+
+3.1.- Encaje exigido.
+
+El encaje exigido se calculará por "períodos mensuales", según lo señalado en el N° 1 del título I de este Capítulo, sobre el promedio de las obligaciones antes mencionadas, en cada una de las diferentes monedas extranjeras, calculado sobre la base de los saldos diarios del respectivo mes, considerando los días corridos del período.
+
+3.2.- Encaje mantenido.
+
+El encaje por las obligaciones antes mencionadas deberá estar constituido por dólares de los Estados Unidos de América, depositados en el Banco Central de Chile para tal efecto en la "Cuenta especial encaje Acuerdo N° 143-01-910705".
+
+Tales depósitos se registrarán contablemente en la cuenta que con el mismo nombre se incluirá en la partida 1010.
 
 V.- Información a esta Superintendencia.
 
@@ -20886,7 +20892,7 @@ Por tratarse de bonos que se colocarán en el exterior, no resulta necesaria su 
 
 2.- Requisitos para efectuar la emisión de bonos.
 
-Sin perjuicio de lo indicado precedentemente, para emitir los bonos de que trata este Capítulo, la solvencia de las respectivas empresas bancarias debe estar clasificada en categoría "A" por la Comisión Clasificadora de Riesgo establecida en el artículo 99 del D.L. 3.500 y haber obtenido una clasificación, emitida por las empresas IBCA o Thomson Bankwatch, no inferior a "A/B" en las categorías de "individual ratings" o "issuer ratings", respectivamente.
+Sin perjuicio de lo indicado precedentemente, para emitir los bonos en moneda extranjera para ser colocados en el exterior de que trata este Capítulo, las respectivas empresas bancadas deben tener una clasificación emitida por las empresas IBCA o Thompson Bankwatch, no inferior a "A/B" en las categorías de "individual ratings" o "issuer ratings", respectivamente. Al tratarse de bonos subordinados, los instrumentos de deuda de la institución emisora deberán contar con una clasificación mínima de "BBB+" emitida por dos de las firmas clasificadoras señaladas en el Anexo N° 7 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
 
 3.- Características de los bonos.
 
@@ -20986,7 +20992,7 @@ e) Autorización del organismo extranjero regulador de los mercados bursátiles 
 
 7.- Encaje
 
-De acuerdo con las disposiciones del Banco Central de Chile, las obligaciones correspondientes a los bonos en circulación quedan afectas a las normas de encaje sobre créditos externos, contenidas en el Capítulo XIV del Título I de su Compendio de Normas de Cambios Internacionales.
+Las obligaciones correspondientes a los bonos en circulación en el exterior quedan afectas a las normas de encaje sobre créditos externos, contenidas en el Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, salvo en los casos en que estén expresamente exceptuadas de acuerdo con las disposiciones de dicho Banco.
 
 CAPITULO 14-1 (Bancos)
 
