@@ -10,6 +10,8 @@ Decreto:
 
 o- Las industrias a que se refiere el acápite 2.5 del artículo 2.o del decreto N.o 2.198, de 1966, modificado por el decreto N.o 841, de 1967, ambos del Ministerio de Hacienda, exceptuadas las industrias de fabricación o armaduría de vehículos motorizados, podrá importar sus conjuntos, partes y piezas de los productos comprendidos en las Partidas 85.08 y 85.09 del Arancel Aduanero vigente, necesarios para su producción, gozando de las rebajas de derechos, impuestos y demás gravámenes que se perciben por intermedio de las Aduanas, que se consideren en los decretos antes indicados para la importación de máquinas, equinos y demás elementos, en relación con las zonas del país en que se desarrollen sus actividades.
 
+Igualmente, gozarán de estas mismas franquicias las importaciones de las materias primas y/o componentes intermedios necesarios para fabricar los conjuntos, partes y piezas señaladas en el inciso anterior, cuando las industrias, adelantando la programación a que se refiere el Art. 2° del presente decreto, decidan reemplazar la importación de un conjunto, parte o pieza para su fabricación local, y siempre que, a juicio del Ministerio de Economía, Fomento y Reconstrucción y de la Corporación de Fomento de la Producción, dichas materias primas no se fabriquen en el país o si se fabrican no cumplan las exigencias técnicas necesarias. Asimismo, el tratamiento arancelario citado, será sólo aplicable a las mercancías amparadas en el régimen de Almacén Particular.
+
 #### Artículo 2
 
 o- Para poder gozar de las franquicias indicadas en el artículo anterior, deberá acreditarse la aprobación de los planes de integración progresiva mediante un certificado emitido anualmente por la Corporación de Fomento de la Producción.
