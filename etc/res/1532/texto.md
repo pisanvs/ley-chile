@@ -1,0 +1,3 @@
+Por Resolución N° 1.532, de 26 de Octubre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por SALMONES UNIMARC S.A., R.U.T. N° 88.541.600-4, para el centro de cultivo ubicado al Este de Isla Traiguén, Canal Costa, Comuna y Provincia de Aysén, XI Región, por no haberse aprobado el respectivo proyecto técnico, conforme a lo dispuesto en el artículo 67, inciso 5°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 26 de Octubre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
