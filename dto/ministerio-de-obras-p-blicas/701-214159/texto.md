@@ -1,0 +1,3 @@
+Por decreto MOP Nº 701 de fecha 30 de julio del 2003, se expropió el lote de terreno Nº 8, superficie 25.577 m², rol Nº 241-2, comuna de Chanco, VII Región para la obra "Camino: Ruta M-450, Sector: Chanco - Empedrado, Tramo: Km. 0,000.00 al Km. 38,388.14" y se acordó el valor de indemnización con su propietario Parroquia de San Ambrosio de Chanco, ascendente a la cantidad de $8.859.640.
+
+Fiscal del Ministerio de Obras Públicas.
