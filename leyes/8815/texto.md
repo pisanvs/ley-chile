@@ -1,0 +1,1 @@
+Agrega inciso al artículo 2°, reemplaza el inciso 2° del 6° y el 1° del 8° y modifica artículo 9° de la ley 8,567, de 12 de septiembre de 1940, que autoriza a las Municipalidades de Malloa, San Vicente, Pichidegua, Peumo y Las Cabras, Alhué, San Pedro y Melipilla, Rancagua, Doñihue, Coltauco, Machalí y Rengo, para contratar empréstitos.
