@@ -1,0 +1,3 @@
+Por Resolución N° 551, de 22 de marzo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a LUIS ROLANDO VERGARA ROJAS, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en La Ribera Sur N° 400, Pudeto Bajo, Ancud, X Región, las líneas de elaboración de Fresco y Congelado, en las que podrá procesar el recurso Erizo Loxechinus albus.
+
+Valparaíso, 22 de marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
