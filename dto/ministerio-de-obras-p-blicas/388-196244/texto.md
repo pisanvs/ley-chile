@@ -1,0 +1,3 @@
+Por decreto MOP Nº388, de fecha 25 de febrero de 2002, se expropiaron los lotes de terreno Nº 17-B, 17-C, superficies 371, 3.813 m2, Rol de avalúo Nº 12095-7, comuna de Rancagua, para la obra "Mejoramiento Ruta 5 Sur, Sector Pasada por Rancagua, Camino Ruta 5 Sur" VI Región, y se acordó el valor de indemnización con su propietaria Sociedad Embotelladora Andina S.A., ascendente a la cantidad de $14.669.753.
+
+- Fiscal del Ministerio de Obras Públicas
