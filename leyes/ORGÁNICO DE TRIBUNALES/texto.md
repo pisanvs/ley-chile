@@ -356,9 +356,23 @@ Un juzgado con asiento en la comuna de Chanco, con jurisdicción sobre las comun
 
 #### Artículo 35
 
-En la Octava Región, del Biobío, existirán los siguientes juzgados de letras:
+En la Octava Región, del Bío Bío, existirán los siguientes juzgados de letras, que tendrán jurisdicción en los territorios que se indican:
 
-Cuatro juzgados con asiento en la comuna de Chillán, con jurisdicción sobre las comunas de Chillán, Pinto y Coihueco.
+A.- JUZGADOS CIVILES:
+
+Tres juzgados de letras en lo civil con asiento en la comuna de Concepción, con jurisdicción sobre las comunas de Concepción, Penco y Hualqui;
+
+Un juzgado de letras en lo civil con asiento en la comuna de Talcahuano, con jurisdicción sobre la misma comuna, que tendrá la categoría de juzgado de asiento de Corte para todos los efectos legales.
+
+B.- JUZGADOS DEL CRIMEN:
+
+Cuatro juzgados del crimen con asiento en la comuna de Concepción, con jurisdicción sobre las comunas de Concepción, Penco y Hualqui;
+
+Dos juzgados del crimen con asiento en la comuna de Talcahuano, con jurisdicción sobre la misma comuna, que tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
+
+C.- JUZGADOS CON COMPETENCIA COMUN:
+
+Cuatro juzgados con asiento en la comuna de Chillán, con jurisdicción sobre las comunas de Chillán, Pinto y Coihueco;
 
 Dos juzgados con asiento en la comuna de San Carlos, con jurisdicción sobre las comunas de San Carlos, Ñiquén, San Fabián y San Nicolás;
 
@@ -380,15 +394,11 @@ Un juzgado con asiento en la comuna de Laja, con jurisdicción sobre la misma co
 
 Un juzgado con asiento en la comuna de Yumbel, con jurisdicción sobre las comunas de Yumbel, Cabrero y San Rosendo;
 
-Seis juzgados con asiento en la comuna de Concepción, con jurisdicción sobre las comunas de Concepción, Penco y Hualqui;
-
-Tres juzgados con asiento en la comuna de Talcahuano, con jurisdicción sobre la misma comuna;
-
 Un juzgado con asiento en la comuna de Tomé, con jurisdicción sobre la misma comuna;
 
 Un juzgado con asiento en la comuna de Florida, con jurisdicción sobre la misma comuna;
 
-Un juzgado con asiento en la comuna da Santa Juana, con jurisdicción sobre la misma comuna;
+Un juzgado con asiento en la comuna de Santa Juana, con jurisdicción sobre la misma comuna,
 
 Un juzgado con asiento en la comuna de Lota, con jurisdicción sobre la misma comuna;
 
@@ -1732,7 +1742,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 2.004 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 1.498 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 2.379 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 1.778 pesos.
 
 #### Artículo 199
 
