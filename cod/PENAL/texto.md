@@ -308,6 +308,10 @@ Ningún delito se castigará con otra pena que la que le señale una ley promulg
 
 Si después de cometido el delito y antes de que se pronuncie sentencia de término, se promulgare otra ley que exima tal hecho de toda pena o le aplique una menos rigorosa, deberá arreglarse a ella su juzgamiento.
 
+Si la ley que exima el hecho de toda pena o le aplique una menos rigurosa se promulgare después de ejecutoriada la sentencia, sea que se haya cumplido o no la condena impuesta, el Tribunal de primera instancia que hubiere pronunciado dicha sentencia deberá modificarla, de oficio o a petición de parte y con consulta a la Corte de Apelaciones respectiva.
+
+En ningún caso la aplicación de este artículo modificará las consecuencias de la sentencia primitiva en lo que diga relación con las indemnizaciones pagadas o cumplidas o las inhabilidades.
+
 #### Artículo 19
 
 <!-- parte:9672224 -->
@@ -776,7 +780,7 @@ Las que consistan en la ejecución material del hecho o en los medios empleados 
 
 <!-- parte:9672275 -->
 
-Cuando la ley señala una sola pena indivisible, la aplicará el tribunal sin consideración a las circunstancias agravantes que concurran en el hecho. Pero si hay dos o más circunstancias atenuantes o una muy calificada y no concurre ninguna agravante, podrá aplicar la pena inmediatamente inferior en grado.
+Cuando la ley señala una sola pena indivisible, la aplicará el tribunal sin consideración a las circunstancias agravantes que concurran en el hecho. Pero si hay dos o más circunstancias atenuantes y no concurre ninguna agravante, podrá aplicar la pena inmediatamente inferior en uno o dos grados.
 
 #### Artículo 66
 
@@ -820,6 +824,12 @@ Cuando, no concurriendo circunstancias atenuantes, hay dos o más agravantes, po
 
 Concurriendo circunstancias atenuantes y agravantes, se observará lo prescrito en los artículos anteriores para casos análogos.
 
+#### Artículo 68 bis
+
+<!-- parte:9710331 -->
+
+Sin perjuicio de lo dispuesto en los cuatro artículos anteriores, cuando sólo concurra una atenuante muy calificada el Tribunal podrá imponer la pena inferior en un grado al mínimo de la señalada al delito.
+
 #### Artículo 69
 
 <!-- parte:9672279 -->
@@ -846,7 +856,7 @@ Cuando no concurran todos los requisitos que se exigen en el caso del núm. 8.°
 
 Al menor de dieciocho años y mayor de dieciséis, que no esté exento de responsabilidad por haber declarado el tribunal respectivo que obró con discernimiento, se le impondrá la pena inferior en grado al mínimo de los señalados por la ley para el delito de que sea responsable.
 
-En los casos en que aparezcan responsables en un mismo delito individuos mayores de dieciocho años y menores de esa edad, se aplicará a los mayores la pena que les habría correspondido sin esta circunstancia, aumentada en un grado.
+En los casos en que aparezcan responsables en un mismo delito individuos mayores de dieciocho años y menores de esa edad, se aplicará a los mayores la pena que les habría correspondido sin esta circunstancia, aumentada en un grado, si éstos se hubieren prevalido de los menores en la perpetración del delito, pudiendo esta circunstancia ser apreciada en conciencia por el juez.
 
 #### Artículo 73
 
@@ -3252,7 +3262,7 @@ El que abandonare a su cónyuge o a un ascendiente o descendiente, legítimo o i
 
 <!-- parte:9672620 -->
 
-La suposición de parto y la sustitución de un niño por otro, serán castigadas con las penas de presidio mayor en su grado mínimo y multa de mil a dos mil pesos.
+La suposición de parto y la sustitución de un niño por otro, serán castigadas con las penas de presidio menor en cualquiera de sus grados y multa de mil a dos mil pesos.
 
 #### Artículo 354
 
@@ -3343,6 +3353,14 @@ En igual pena incurrirá el que, conociendo las relaciones que lo ligan, cometie
 <!-- parte:9672635 -->
 
 El que se hiciere reo del delito de sodomía sufrirá la pena de presidio menor en su grado medio.
+
+Se impondrá la pena de presidio menor en su grado máximo a presidio mayor en su grado medio al que cometiere el delito concurriendo algunas de las siguientes circunstancias:
+
+1°.- Cuando se use de fuerza e intimidación sobre la víctima;
+
+2°.- Cuando se halle la víctima privada de razón o de sentido por cualquier causa, y
+
+3°.- Ser el ofendido menor de catorce años cumplidos, aun cuando no concurra ninguna de las circunstancias expresadas en los dos números anteriores.
 
 #### Artículo 366
 
@@ -3932,7 +3950,7 @@ Derogado.
 
 Fuera de los casos previstos en los artículos precedentes, los robos ejecutados con violencia o intimidación en las personas, serán penados con presidio mayor en sus grados mínimo a máximo, cualquiera que sea el valor de las especies sustraídas.
 
-Se considerará como robo y se castigará con las penas señaladas en el inciso anterior, la apropiación de dinero, alhajas, ropas u otros objetos que los ofendidos lleven consigo, cuando se procede por sorpresa o aparentando riñas en lugares de concurrencia o haciendo otras maniobras, dirigidas a causar agolpamiento y confusión.
+Se considerará como robo y se castigará con la pena de presidio menor en sus grados medio a máximo, la apropiación de dinero u otras especies que los ofendidos lleven consigo, cuando se proceda por sorpresa o aparentando riñas en lugares de concurrencia o haciendo otras maniobras dirigidas a causar agolpamiento o confusión.
 
 #### Artículo 437
 
@@ -4016,7 +4034,7 @@ Los reos de hurto serán castigados:
 
 2.o Con presidio menor en su grado medio, cuando su valor excediere de cuatro sueldos vitales y no pasare de cuarenta sueldos vitales;
 
-3.o Con presidio menor en su grado mínimo si el importe de la cosa hurtada no subiere de un sueldo vital ni bajare de seis mil pesos.
+3.o Con presidio menor en su grado mínimo si el importe de la cosa hurtada no subiere de cuatro sueldos vitales ni bajare de medio sueldo vital.
 
 Si el valor de la cosa hurtada excediere de cuatrocientos sueldos vitales, se aplicará la pena de presidio menor en su grado máximo.
 
@@ -4050,8 +4068,6 @@ También será considerado reo de hurto y castigado con presidio menor en su gra
 
 En los casos de robos o hurtos de vehículos, de caballos o bestias de silla o carga, de ganado mayor o menor o porcino, podrán ser aplicadas respectivamente a los autores, cómplices y encubridores las penas superiores en un grado a las que les hayan correspondido sin la circunstancia de tratarse de la sustracción de animales.
 
-La misma regla se observará en cuanto a la imposición de las penas en los casos de robos o hurtos de animales o aves, que se mantengan en viveros, criaderos o terrenos cercados.
-
 Cuando la pena conste de dos o más grados el aumento establecido en el inciso primero se hará después de determinarse la pena que habría correspondido al reo con prescindencia de la expresada circunstancia.
 
 La regla del inciso primero de este artículo se observará también en los casos previstos en el artículo 448, si se trata de animales o aves comprendidos en los incisos anteriores.
@@ -4064,7 +4080,7 @@ El que se apropie de las plumas, pelos, crines o cerdas de animales ajenos, esqu
 
 <!-- parte:9672739 -->
 
-Los delitos de robo o hurto a que se refiere este título se castigarán como consumados desde que se encuentren en grado de tentativa.
+Los delitos a que se refiere al Párrafo 2 y el artículo 440 del Párrafo 3 de este Título se castigarán como consumados desde que se encuentren en grado de tentativa.
 
 Serán castigados con presidio mayor en su grado mínimo a presidio mayor en su grado máximo los culpables de robo o hurto cuando hagan uso de armas o sean portadores de ellas, siempre que no les corresponda una pena mayor por el delito cometido.
 
@@ -4230,7 +4246,7 @@ El que defraude a otro en la substancia, cantidad o calidad de las cosas que le 
 
 2.o Con presidio menor en su grado medio, cuando excediere de cuatro sueldos vitales y no pasare de cuarenta sueldos vitales;
 
-3.o Con presidio menor en su grado mínimo, si el valor de la defraudación no excediere de cuatro sueldos vitales ni bajare de un sueldo vital.
+3.o Con presidio menor en su grado mínimo, si el valor de la defraudación no excediere de cuatro sueldos vitales ni bajare de medio sueldo vital.
 
 Si el valor de la cosa defraudada excediere de cuatrocientos sueldos vitales, se aplicará la pena de presidio menor en su grado máximo.
 
