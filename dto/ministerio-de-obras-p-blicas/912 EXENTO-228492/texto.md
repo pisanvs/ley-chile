@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 912 de fecha 30 de junio de 2004, se expropió el lote de terreno Nº 543, superficie 595 m2, rol de avalúo Nº 48-34, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 0,00000 a Km. 12,70000", VI Región y se acordó el valor de la indemnización con su propietaria Hilda de las Mercedes Jiménez de Hey, ascendente a la cantidad de $1.274.235.
+
+Fiscal del Ministerio de Obras Públicas.
