@@ -1,0 +1,3 @@
+Por Resolución N° 453, de 13 de marzo de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; deniégase la solicitud de concesión de acuicultura presentada por INVERSIONES PACIFICO SUR LTDA., para un centro de cultivo ubicado en Auque, Punta Abtao, Canal Abtao, comuna de Calbuco, provincia de Llanquihue, X Región, por no dar cumplimiento el respectivo proyecto técnico a lo dispuesto en el artículo 12° del D.S. N° 175, de 1980, modificado por el D.S. N° 427, de 1989, todos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, de 13 de marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
