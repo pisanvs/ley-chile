@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº228 de fecha 31 de marzo del 2003, se expropiaron los lotes de terreno Nºs 19-A y 21, superficie 177 y 425 m² respectivamente, Rol Nº154-132, comuna de Ránquil, VIII Región para la obra "Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas Tramo I, Km. 0,00000 a Km. 5,58300" y se acordó el valor de indemnización con su propietario Benjamín Betancur Orellana, ascendente a la cantidad de $1.295.320.-
+
+Fiscal del Ministerio de Obras Públicas.
