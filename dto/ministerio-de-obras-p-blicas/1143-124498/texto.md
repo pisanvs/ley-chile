@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.143, de 7 de agosto de 1998, se dejó sin efecto el decreto MOP. No. 445, de 21 de abril de 1998, en la parte que se refiere a los lotes No. s.47-A, 49-A y 49-C, que figuran a nombre de Suc. Héctor Varela Alfonso y Manuel Hernán Rojas Rojas, para la ejecución de la obra Proyecto Embalse Puclaro, Sector Variante a Ruta 41-CH, Km. 0.000 a Km. 10.320.
+
+- Fiscal del Ministerio de Obras Públicas.
