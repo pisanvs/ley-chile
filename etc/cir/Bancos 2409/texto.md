@@ -10646,7 +10646,7 @@ Deben incluirse en el rubro de "Inversiones Financieras", solamente los siguient
 
 a) Instrumentos emitidos por el Banco Central de Chile.
 
-b) Documentos emitidos en serie, representativos de obligaciones del Estado de Chile o sus instituciones. Incluye también otros instrumentos emitidos por la Tesorería General de la República y los Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento del Instituto de Normalización Previsional.
+b) Documentos emitidos en serie, representativos de obligaciones del Estado de Chile o sus instituciones. Incluye también otros instrumentos emitidos por la Tesorería General de la República, los Bonos de Reconocimiento, los Complementos de éstos y los Pagarés correspondientes a los Bonos de Reparación de la Ley N° 19.980, emitidos por el Instituto de Normalización Previsional.
 
 c) Instrumentos de renta fija inscritos en el Registro de Valores de esta Superintendencia o de la Superintendencia de Valores y Seguros.
 
@@ -15848,7 +15848,7 @@ Las inversiones en valores mobiliarios de renta fija están afectas a los límit
 
 Quedan excluidos de los márgenes individuales de crédito del artículo 84, con respecto a los emisores, las inversiones en los instrumentos que se indican a continuación:
 
-a) Instrumentos que correspondan a bonos de la deuda interna o cualquier otra clase de documentos emitidos en serie que representen obligaciones del Estado o de sus instituciones, incluidos los Bonos de Reconocimiento y Complementos de éstos, emitidos por el Instituto de Normalización Previsional (INP) y los instrumentos emitidos por el Banco Central de Chile, excluidas las obligaciones de empresas del Estado.
+a) Instrumentos que correspondan a bonos de la deuda interna o cualquier otra clase de documentos emitidos en serie que representen obligaciones del Estado o de sus instituciones, incluidos los Bonos de Reconocimiento, los Complementos de éstos y los Pagarés correspondientes a los Bonos de Reparación de la Ley N° 19.980, emitidos por el Instituto de Normalización Previsional, y los instrumentos del Banco Central de Chile, excluidas las obligaciones de empresas del Estado.
 
 b) Bonos u obligaciones de renta de Estados, Bancos Centrales e instituciones internacionales a las que se encuentre adherido el Estado de Chile.
 
