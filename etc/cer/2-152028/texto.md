@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A DOÑA SANDRA ALEGRIA CAVALLO
+
+Núm. 2.- Certifico que Sandra Alegría Cavallo, RUT Nº 8.272.295-5, con giro comercial de ''Carnicería, Panadería, Rostisería, Carnes de Vacuno, cerdo, cordero, sub-productos, pollos, pavos, cecinas en general, productos lácteos, productos envasados, venta de comestibles al paso, ventas por mayor y al detalle'', domiciliada en Pedro Montt Nº 2665 de Valparaíso, cumple los requisitos establecidos en la resolución Nº 5.087 de 28.07.99 y que en consecuencia tiene la calidad de Agente Retenedor del Impuesto al Valor Agregado en la comercialización de carnes, durante el período comprendido entre el 1º del mes siguiente al de la publicación de este certificado en el Diario Oficial y el 31 de julio de 2000.
+
+Valparaíso, 10 de enero de 2000.- Francisco Cárcamo Avendaño, Director Regional.
