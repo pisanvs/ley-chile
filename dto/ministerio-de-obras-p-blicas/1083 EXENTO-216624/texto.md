@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.083, de fecha 30 de septiembre del 2003, se expropió el lote de terreno Nº168, superficie 420 m², Rol en Trámite, comuna de Pichidegua, VI Región para la obra "Camino Colchagua-Pichidegua, sector San Roberto-Cruceros, tramo Km. 12,30000 a 26,00400" y se acordó el valor de indemnización con su propietario José Eugenio Lucero Cordero, ascendente a la cantidad de $2.421.762.-
+
+Fiscal del Ministerio de Obras Públicas.
