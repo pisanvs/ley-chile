@@ -1,0 +1,3 @@
+Por decreto MOP Nº 288, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 1, superficie 693 m2, sin rol de avalúo, comuna de Alto del Carmen, para la obra "Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa I" y se acordó el valor de indemnización con su propietario Soc. Agríc. Minera y Comercial Portezuelo Ltda., ascendente a la cantidad de $5.338.110.-
+
+Fiscal del Ministerio de Obras Públicas.
