@@ -1,0 +1,3 @@
+Por decreto MOP Nº 515, de fecha 18 de marzo de 2002, se expropió el lote de terreno Nº 21, superficie 4.496 m², rol de avalúo 50-1, comuna de La Estrella, VI Región, para la obra ''Proyecto Mejoramiento Ruta I-20, Sector Los Maitenes - La Estrella - Las Damas, Km. 20,500 al 27,715317'' y se acordó el valor de indemnización con su propietario don Gustavo Enrique Orellana Cáceres, ascendente a la cantidad de $2.916.598.-
+
+Fiscal del Ministerio de Obras Públicas.
