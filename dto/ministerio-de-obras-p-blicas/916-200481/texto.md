@@ -1,0 +1,5 @@
+Por decreto MOP Nº916, de 15 de mayo de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº6-1, para la obra: ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar.Tramo 14.
+
+Lámina Especial 1 Km. 84.600,00 A Km. 85.100,00'', Quinta Región, que figura a nombre de Alzérreca de Gortázar María Eu., rol de avalúo 174-38, comuna de Casablanca, superficie 1.438 m2. La comisión de peritos integrada por los señores Marlene Teresa Ríos Marcuello, Joaquín Prieto Ochagavía y Luis Pablo Padilla Vergara, fijó con fecha 24 de octubre de 2000, el valor provisional de la indemnización en la cantidad de $51.915.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
