@@ -86,7 +86,7 @@ b) El 8,33% de cargo del Fondo de Compensación para la asignación familiar, so
 
 #### Artículo 7
 
-° Para los efectos de las imposiciones al Fondo de Retiro a que se refieren las letras a) y b) del número primero del artículo 6.° de este Reglamento y las de hasta 3% de los números 3.° y 4.° del mismo artículo, se considerará toda remuneración hasta un máximo de seis sueldos vitales de la localidad respectiva.
+° Para los efectos de las imposiciones al Fondo de Retiro a que se refieren las letras a), b), c) y d) del número primero del artículo 6º de este Reglamento y las de hasta 3 % de los números 3º y 4º del mismo artículo se considerará toda remuneración hasta un máximo de seis sueldos vitales de la localidad respectiva.
 
 Las imposiciones que puedan efectuarse sobre remuneraciones que excedan del máximo señalado en el inciso precedente no serán consideradas para los efectos de determinar el sueldo base de cálculo de las pensiones.
 
