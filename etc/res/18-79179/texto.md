@@ -1,0 +1,3 @@
+Por Resolución No. 18 de fecha 29 de Enero de 1992 del Ministerio de Economía, Fomento y Reconstrucción, se canceló la Personalidad Jurídica de la Federación de Organizaciones Agrícolas de Malleco A.G. inscrita bajo el No. 89-9 del Registro que para tal efecto lleva este Ministerio, por haberse configurado respecto de ella, la causal de cancelación contemplada en artículo 18 No. 2 letra a) del DL No. 2.757, de 1979.
+
+Jorge Marshall Rivera, Subsecretario de Economía, Fomento y Reconstrucción.
