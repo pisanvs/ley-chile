@@ -1,0 +1,3 @@
+Por resolución Nº 1.640, de 23 de noviembre de 1998, de esta Subsecretaría, autorízase a PESQUERA PLAYA BLANCA S.A., para ampliar actividades pesqueras de transformación autorizadas las resoluciones Nº144 y Nº 268, ambas de 1982, Nº 338 de 1984 y Nº 365, de 1992, todas de esta Subsecretaría, en orden a operar la planta ubicada en Bahía Calderilla s/nº, comuna de Caldera, provincia de Copiapó, III Región, en la que podrá procesar en las líneas de elaboración que a continuación se indican, los siguientes recursos hidrobiológicos: Fresco, Refrigerado o Enfriado: Anchoveta, Bonito, Caballa, Jurel, Marrajo o tiburón, Palometa, Pejerrey de mar, Sardina española, Sierra y Tollo.
+
+Valparaíso, 23 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
