@@ -1,0 +1,3 @@
+Por decreto MOP N°2.222, de 30 de octubre de 1998, se expropiaron los lotes de terreno N°s. 23 y 30, superficies 188 y 683 m2, respectivamente, roles de avalúo 1999-4 y 2141-85, comuna de Puerto Montt, para la obra Camino Ampliación Ruta 5 Sur, Sector Puerto Varas - Puerto Montt y se acordó precio de indemnización con sus propietarios Abdón Bram Vera y Josefina Didier Brunaud, ascendente a las cantidades de $2.673.184.- para el lote 23 y $1.989.230.- para el lote 30.
+
+Fiscal del Ministerio de Obras Públicas.
