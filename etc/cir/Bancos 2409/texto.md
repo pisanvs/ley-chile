@@ -7330,6 +7330,16 @@ El sobreprecio pagado, sujeto a corrección monetaria, se amortizará linealment
 
 Las instrucciones de este numeral se refieren solamente a la adquisición de algún negocio bancario desarrollado por otra sociedad que prescindirá de esa actividad, cediendo los correspondientes derechos y, eventualmente, traspasando sus obligaciones, e incluyendo otras condiciones contractuales que implican radicar en la institución financiera adquirente la actividad mercantil de que se trate, con su ventaja competitiva. Así, por ejemplo, se está en presencia de esas condiciones si la operación contempla la entrega de la lista de clientes y de los sistemas y procedimientos asociados, la contratación de las personas expertas, la transferencia de marcas o licencias imprescindibles, etc., que tienen en su conjunto un valor económico en razón de la participación en el mercado y la infraestructura operativa y experiencia preexistentes en el negocio. En ningún caso las presentes instrucciones permiten registrar contablemente activos intangibles generados por la propia institución financiera, como tampoco facultan a las instituciones para registrar en el activo aquellos intangibles que podrían adquirirse y cederse individualmente, como es el caso de derechos sobre marcas, si éstos no se encuentran incluidos en una negociación que involucre el traspaso de una línea o combinación de negocios bancarios desarrollada, en los términos señalados en el párrafo precedente. En el evento de que los activos adquiridos incluyan el valor de tales activos intangibles identificados, éstos quedarán incluidos dentro del importe total del sobreprecio activable sujeto a amortización.
 
+1.8.- Costos de emisión de bonos.
+
+Las instituciones financieras podrán diferir los costos en que incurran por la emisión de bonos, reconociendo gradualmente los gastos respectivos, consistentes principalmente en impuestos y gastos de escrituración, durante el período de vigencia de los bonos.
+
+Tratándose de bonos para ser colocados en el exterior, podrán diferirse los costos correspondientes a las comisiones pagadas en relación con la emisión y colocación de esos instrumentos; a los honorarios pagados por prestaciones profesionales de abogados, auditores externos y clasificadores de riesgo que intervengan en la respectiva operación y a los importes desembolsados por concepto de impuestos que gravan los distintos actos o documentos relacionados con la emisión.
+
+1.9.- Comisiones e impuestos por obtención de créditos en el exterior.
+
+Las instituciones financieras podrán diferir las comisiones e impuestos en que incurran por la obtención de créditos en el exterior, reconociendo gradualmente dichos gastos durante el período de vigencia de las respectivas obligaciones.
+
 ### 2. Amortización de los gastos diferidos
 
 Los gastos diferidos deberán ser llevados a resultados en forma proporcional a los meses transcurridos desde la oportunidad en que deben comenzar a amortizarse según lo indicado en los numerales precedentes.
@@ -7342,7 +7352,7 @@ Las instrucciones precedentes son sin perjuicio de los criterios señalados en l
 
 ### 3. Cuentas del activo y de resultados
 
-Los cargos diferidos de que se trata se registrarán en la cuenta "Intangibles y gastos diferidos", de la partida 2120, subcuentas "Remodelaciones en locales arrendados", "Derechos de llave", "Gastos de desarrollo de sistemas computacionales", "Reconocimientos de indemnizaciones por años de servicio", "Gastos de organización y puesta en marcha" y "Sobreprecio en adquisición de negocios", según corresponda.
+Los cargos diferidos de que se trata se registrarán en la cuenta "Intangibles y gastos diferidos", de la partida 2120, subcuentas "Remodelaciones en locales arrendados", "Derechos de llave", "Gastos de desarrollo de sistemas computacionales", "Reconocimientos de indemnizaciones por años de servicio", "Gastos de organización y puesta en marcha", "Sobreprecio en adquisición de negocios", "Costos de emisión de bonos" y "Comisiones e impuestos por obtención de créditos", según corresponda".
 
 Los cargos a los resultados por las amortizaciones deberán imputarse a la cuenta "Amortizaciones de gastos diferidos" de la partida 6265.
 
