@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº272, de fecha 22 de marzo del 2002, se expropió el lote de terreno Nº 26, superficie 1.425 m2, Rol de avalúo en trámite, comuna de Rancagua, para la obra "Camino Ruta H-188, Sector Crucero-Chancón, Tramo 1, Km. 0,00000 al Km. 7,85900", VI Región y se acordó el valor de indemnización con su propietario Francisco Javier Peralta Toro, ascendente a la cantidad de $2.639.390.-
+
+Fiscal del Ministerio de Obras Públicas
