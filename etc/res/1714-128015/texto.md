@@ -1,0 +1,3 @@
+Por resolución Nº 1.714, de 30 de noviembre de 1998 de esta Subsecretaría, déjase sin efecto la resolución Nº 711 de 1996, de esta Subsecretaría, que autorizó a MARCELA DEL CARMEN AMPUERO OJEDA, para instalar y operar el centro de cultivo ubicado en Canal Quihua, comuna de Calbuco, provincia de Llanquihue, X Región.
+
+Valparaíso, 30 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
