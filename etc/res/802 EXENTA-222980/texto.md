@@ -1,0 +1,3 @@
+Por resolución exenta Nº 802, de 11 de marzo de 2004, de esta Subsecretaría, autorízase a FOODCORP CHILE S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Parque Industrial Escuadrón I Etapa, Manzana A, sitio 14, Coronel, VIII Región, en las líneas de elaboración de harina y aceite el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 11 de marzo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
