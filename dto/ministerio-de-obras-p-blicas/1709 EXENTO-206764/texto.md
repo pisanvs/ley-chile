@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.709, de fecha 29 de noviembre de 2002, se expropiaron los lotes de terreno Nºs 38 y 38-A, superficies 847 m2 y 338 m2, respectivamente, rol de avalúo 512-119, comuna de Carahue, IX Región, para la obra "Camino Ruta S-36, Sector Tranapuente - Nehuentue, Tramo Km. 0,000 al 9,997062, correspondiente al subtramo I, Km. 0,000 al 4,230" y se acordó el valor de indemnización con su propietario don Juan Pablo Sánchez Ailio, ascendente a la cantidad de $754.400.-
+
+Fiscal del Ministerio de Obras Públicas.
