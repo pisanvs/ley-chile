@@ -1,0 +1,3 @@
+Por resolución N° 376, de 27 de Mayo de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 1486, de 1989, de esta Subsecretaría, que autorizó a JESUS BRIEVA VASQUEZ, R.U.T. N° 7.826.660-0, para operar un establecimiento de cultivo de algas del género Gracilaria, en la ribera sur del Río Tornagaleones, Comuna de Corral, Provicia de Valdivia, por renuncia de su titular.
+
+Valparaíso, 27 de Mayo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
