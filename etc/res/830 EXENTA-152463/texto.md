@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 830 de 27 de Junio de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Expropiado Predio "Las Mercedes de Catemu" de la comuna de Catemu V Región; y Derechos Aprovechamiento Aguas que corresponden a 10 parcelas N°s. 1 a la 10, sitios A y B del Proyecto de Parcelación "Las Mercedes" formado por predio señalado. "Los Derechos de Agua se extraen del canal "Catemu del Bajo" proveniente de la segunda sección del Río Aconcagua. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
