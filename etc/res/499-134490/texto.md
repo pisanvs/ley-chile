@@ -1,0 +1,3 @@
+Por resolución Nº 499, de 29 de marzo de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.370 de 1992, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA GUANAYE LIMITADA -hoy Pesquera Iquique Guanaye S.A.-, para operar la nave ''Juan Manuel'', sobre las especies Anchoveta, Sardina española, Jurel, Caballa, Roncacho, Machuelo o tritre, Sardina común, en el litoral de la III y IV regiones.
+
+Valparaíso, 29 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
