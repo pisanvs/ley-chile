@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.151, de 31 de julio de 2000 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 25, para la obra Camino Ampliación Ruta 5 Sur, sector Puerto Varas - Puerto Montt, tramo Kms. 1.004,120 al 1.021,080, que figura a nombre de Pesquera Best Salmón Limitada, superficie 1.073 m2, rol de avalúo 2141-114, comuna de Puerto Montt. La Comisión de Peritos fijó con fecha 12 de julio de 1996, en la cantidad de $3.915.000, la que se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
