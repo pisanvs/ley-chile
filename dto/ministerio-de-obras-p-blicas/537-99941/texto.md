@@ -1,0 +1,5 @@
+Por Decreto M.O.P. No. 537, de 29 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del DFL.
+
+M.O.P. No. 850, de 1997, que fijó el texto actualizado de la Ley No. 15.840, se expropiaron los lotes de terreno No. s. 18 y 19, para la obra Camino Cauquenes Límite Regional Quirihue, sector By Pass Norte Kms. 0.000 al 2.840, que figuran a nombre de Vidal Quintana Carreño, rol de avalúo en trámite, comuna de Cauquenes, superficies 2.400 y 204 m.. La Comisión de Peritos compuesta por los señores Renato Guerra Estévez, Carlos Sottolichio y Guillermo Picón Vicioso, fijó con fecha 18 de marzo de 1997, el valor provisional de la indemnización en las cantidades de $ 7.200.000, para el lote No. 18 y $ 612.000, para el lote No. 19. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
