@@ -1,0 +1,3 @@
+Por Resolución N° 52, de 26 de Enero de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar de la fecha de la presente resolución, el plazo otorgado a LOTA PROTEIN LTDA., R.U.T. N° 78.143.460-4, para instalar y operar una planta industrial ubicada en calle Matta s/n°, comuna de Lota, VIII Región, autorizada por resolución N° 32 de 1992, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 26 de Enero de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
