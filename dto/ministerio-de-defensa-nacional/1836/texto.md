@@ -256,7 +256,7 @@ Los Armadores o sus Agentes solicitarán directamente a las Capitanías de Puert
 
 #### Artículo 31
 
-Los servicios de Prácticos para las naves de la Armada de Chile, deberán ser solicitados por la autoridad naval correspondiente o por sus Comandantes, según sea el caso, y las naves de guerra extranjera podrán solicitarlo por intermedio del Comandante en Jefe de la Zona Naval, del Comandante de la Base Naval o de la Autoridad Marítima, de acuerdo con las circunstancias y necesidades.
+Los servicios de Prácticos para las naves de la Armada de Chile, deberán ser solicitados por la autoridad naval correspondiente o por sus Comandantes, según sea el caso, y las naves de guerra extranjera podrán solicitarlo por intermedio del Comandante en Jefe de la Zona Naval, del Comandante de la Base Naval o de la Autoridad Marítima, de acuerdo con las circunstancias y necesidades".
 
 #### Artículo 32
 
@@ -508,23 +508,17 @@ Las tarifas por las faenas de levantar, fondear y recorrer boyas, cañerías o l
 
 Oro
 
-Boyas para vapores, fondeadas con dos
+Boyas para vapores, fondeadas con dos anclas $110.
 
-anclas $110.
+Boyas para remolcadores, faluchos o boyas de cables
 
-Boyas para remolcadores, faluchos o
+submarinos, fondeadas con dos anclas 53.
 
-boyas decables submarinos, fondeadas
+Levantar o fondear extra anclas o rejeras permanentes 35.
 
-con dos anclas 53.
+Cañerías petroleras u otros elementos similares, los
 
-Levantar o fondear extra anclas 35.
-
-o rejeras permanentes
-
-Cañerías petroleras u otros elementos
-
-similares, los diez metros lineales 2.
+diez metros lineales 2.
 
 #### Artículo 75
 
@@ -542,9 +536,7 @@ Buques desde 201 a 500 toneladas gruesas 55
 
 Buques desde 501 a 1000 toneladas gruesas 90
 
-Buques desde 1001 a 2000 toneladas
-
-gruesas 110
+Buques desde 1001 a 2000 toneladas gruesas 110
 
 Buques mayores de 2000 toneladas gruesas 155
 
@@ -710,9 +702,17 @@ CALDERA:
 
 La zona comprendida por una línea que une Punta Caleta con Punta Fuerte por el W. y una línea orientada al 330° verdadero que pasa por Punta Peligrosa por el este.
 
+CALDERILLA
+
+La zona interior comprendida entre el Islote Centinela Negro y la parte Oeste de los Islotes Jorge.
+
 HUASCO:
 
 La zona comprendida entre el paralelo que pasa por la desembocadura del Río Huasco y el meridiano que pasa por Punta Panulcillo.
+
+SANTA BARBARA
+
+La zona interior comprendida entre el Islote Cayo por el Este y el Islote Blanco por el Oeste.
 
 CRUZ GRANDE:
 
