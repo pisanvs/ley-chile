@@ -1,0 +1,1 @@
+Autoriza la contratación de empréstitos que produzcan hasta la suma de 12 millones de pesos con el fin de destinarlos al mejoramiento del camino de San Javier a Constitución y prolongación del de Talca a Laguna del Maule; para su servicio establece un impuesto de $ 0,20 por litro de gasolina que se expenda en las provincias de Talca y Linares y en el departamento de Constitución.
