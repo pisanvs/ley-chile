@@ -1,0 +1,5 @@
+Por resolución Nº436, de 6 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMERCIAL AGRICOLA ARCOIRIS LIMITADA, para iniciar actividades pesqueras de transformación en orden a instalar y operar una planta ubicada en Ruta 5 Sur Km. 737, sector Collimallín, comuna de Loncoche, IX Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco: Corvina, Congrio dorado, Jurel, Merluza común, Merluza de cola, Merluza de tres aletas, Merluza del Sur, Salmón del Atlántico, Salmón plateado, Trucha arcoiris o Cabeza de acero y Sierra. Ahumado: Salmón del Atlántico, Salmón plateado, Trucha arcoiris o Cabeza de acero, Jurel y Sierra.
+
+Los recursos Salmón del Atlántico, Salmón plateado y Trucha arcoiris o Cabeza de acero, deberán provenir de centros de cultivo autorizados.
+
+Valparaíso, 6 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
