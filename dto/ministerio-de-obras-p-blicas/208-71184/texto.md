@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 208, de 28 de febrero de 1997, se expropiaron los lotes de terreno Nºs. 8-B, 8-C, 8-F, 8-H y 11, superficies 192, 156, 186, 644,40 y 1924,30 m2, respectivamente, roles de avalúos 101-26, 101-31, 101-34, 101-24 y 109-100, comuna de Quilicura, obra Proyecto Estudio de Ingeniería Habilitación Segunda Calzada Avda. A. Vespucio, sector Carretera Panamericana Norte-Ruta 72 y se acordó precio de indemnización con sus propietarios Jorge Muñoz Morales, Luis Torres Gutiérrez, José Romero Lorca, Cornelio Sepúlveda Saldías y Juan Silva Gómez, ascendente a las cantidades de $35.880.200, $22.161.727, $11.512.774, $38.400.940 y $122.609.799.-
+
+Fiscal del Ministerio de Obras Públicas.
