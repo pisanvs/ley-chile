@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.326, de 31 de agosto de 2001, se expropió el lote de terreno Nº 24-1, superficie 1.006 m², rol de avalúo 1509-15, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, Octava Región y se acordó el valor de indemnización con su propietario Claudio Heriberto Contreras Concha, ascendente a la cantidad de $5.543.342.-
+
+Fiscal del Ministerio de Obras Públicas.
