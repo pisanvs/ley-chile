@@ -1,0 +1,9 @@
+ESTUDIO DE EXPROPIACION DE PREDIO QUE INDICA
+
+(Extracto)
+
+Alcalde Los Andes, por Decretos Alcaldicios No. 650, de 22 de Diciembre de 1986 y No. 661 del día 23 del mes y año señalados dispone, conforme Decretos Leyes No.
+
+1.289 y 2.186 y Ley No. 18.138, estudio de expropiación de predio urbano eriazo de propiedad de Sociedad Cooperativa de Jardines Familiares "Santa Rosa de Los Andes Limitada", ubicado al Norte de Población de dicha Cooperativa, construida con frente a calle San Rafael y callejón "El Laberinto", de Comuna Los Andes, Provincia Los Andes, que constituye parte no edificada de terreno de dicha Cooperativa, que deslinda: Norte, en 534,5 metros con terrenos del Ferrocarril del Estado, que ocupa la vía de dicho Ferrocarril; Sur en 520,6 metros con los lotes No. 78, 79, 54, 55, 21, 22, 18 y Calles Públicas denominadas "Las Lilas", "Los Lirios" y "Las Camelias", de la Población de Sociedad Cooperativa de Jardines Familiares "Santa Rosa de Los Andes Limitada"; Oriente, en 41 metros con complejo Automotriz Franco Chilena; y Poniente, en 43 metros con Callejón "El Laberinto", con superficie aproximada de 22.157 m2.- Enrolado con No. 503-45 con avalúo de $ 1.497.592,00. Inscrito a fs. 406 con No. 429 en el Registro de Propiedad de 1964 de Conservador de Bienes Raíces Los Andes. Se designó para tasación inmueble comisión tasadora formada por señores Pablo Caria Giurieci, Constructor Civil y Arquitectos Edmundo Bravo Ubilla y Osvaldo Muñoz Quintana, quienes informarán sobre monto provisional indemnización.
+
+Los Andes, 31 de Diciembre de 1986.- Luis O. Santelices Barrera, Alcalde.- Juan Enrique Aguirre Seguel, Secretario Municipal.
