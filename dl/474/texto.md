@@ -1,0 +1,27 @@
+EXCLUYE AL COLEGIO DE ABOGADOS DE LA APLICACION DE LAS NORMAS DE LOS ARTICULOS QUE INDICA DEL DECRETO LEY N° 349, DE 1974
+
+Santiago, 27 de Mayo de 1974.- La H. Junta de Gobierno de la República de Chile ha ordenado promulgar hoy lo siguiente:
+
+Núm. 474.- Visto. lo dispuesto en los decretos leyes N°s 1 y 128, de 1973, y
+
+Considerando:
+
+1.- Que, de acuerdo con los preceptos del Código Orgánico de los Tribunales y la Ley Orgánica del Colegio de Abogados, corresponden a dicho Colegio atribuciones que se relacionan con el Poder Judicial, tales como formación de las listas de abogados postulantes a cargos judiciales y a integrantes de la Corte Suprema, de las Cortes de Apelaciones y de las Cortes del Trabajo: informes sobre la calificación de los jueces y representación de las incorrecciones que se advierten en la administración de la justicia.
+
+2.- Que la H. de Junta de Gobierno de la República ha expresado reiterada y públicamente su propósito de respetar la autonomía del Poder Judicial y el cumplimiento irrestricto de sus resoluciones.
+
+3.- Que resulta conveniente reconocer una vez más el propósito de la autoridad gubernativa de respetar la independencia en el desempeño de los abogados en su calidad de colaboradores de la administración de justicia y en la defensa de los derechos de las partes.
+
+4.- Que la independencia profesional señalada es aún más necesaria en los momentos en que se encuentran en actual funcionamiento los Consejos de Guerra, existiendo el propósito de la H. Junta de Gobierno de preservar la defensa de los afectados en la forma más efectiva posible, dentro de la legislación vigente,
+
+La Junta de Gobierno ha acordado y dicta el siguiente
+
+Decreto ley:
+
+#### Artículo único
+
+Exclúyase al Colegio de Abogados de la aplicación de las normas de los artículos 2°, 3°, 4°, 5° y 6° del decreto ley N° 349, de 1974.
+
+Regístrese en la Contraloria General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Oscar Bonilla Bradanovic, General de División, Ministro del Interior.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Montero Marx, Subsecretario del Interior.
