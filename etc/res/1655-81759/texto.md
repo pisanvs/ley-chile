@@ -1,0 +1,3 @@
+Por Resolución Nº 1.655, de 2 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad total de la Resolución Nº 356, de 1985 y parcial de la Resolución Nº 8 de 1987, ambas de esta Subsecretaría, respecto de su numeral 1º, letra b), que autorizaron a don JUAN AGUSTIN NEIRA ALTAMIRANO, para desarrollar actividades pesqueras extractivas con la nave "Calypso II", por haberse configurado, en ambas la causal prevista en el artículo 143, letra b) de la Ley General Nº 18.892 y sus modificaciones, citada en Visto.
+
+Valparaíso, 2 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
