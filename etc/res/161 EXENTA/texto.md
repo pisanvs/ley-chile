@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 161 del 29 de Diciembre de 1992, se autoriza a Kutz y Rodríguez L. la concesión para operar, hasta el 14 de Febrero de 1995, un establecimiento ubicado en Coronel Robles N° 1316, comuna de Qta. Normal, destinado a la verificación de emisión de contaminantes de vehículos motorizados livianos a que se refiere el D.S. N° 211/91, en forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Juan Fuentes Isla, Secretario Regional Ministerial, Transportes y Telecomunicaciones, Región Metropolitana Subrogante.
