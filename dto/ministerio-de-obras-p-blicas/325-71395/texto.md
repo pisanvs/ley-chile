@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 325, de 31 de marzo de 1997, se expropiaron los lotes Nºs 13 y 18, superficies 200 M2. y 30 M2., rol de avalúo en trámite, comuna de Santa Cruz, obra Camino Santa Cruz-Palmilla, sector Ruta I-720 por Barreales y se acordó precio de indemnización con sus propietarios María Muñoz Díaz y María Valenzuela González, ascendente a las cantidades de $758.880 y $794.716.-
+
+Fiscal del Ministerio de Obras Públicas.
