@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.304, de 31 de mayo de 1999, se expropiaron los lotes de terrenos Nºs. 265-B, 266, 267-D y 269, superficies 1.096,0 m2., 23.174,0 m2., 6.690,0 m2. y 14.106,0 m2., rol de avalúo 375-25, comuna de Mariquina, para la obra ''Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno'', Décima Región y se acordó el valor de indemnización con su propietaria Marta del Carmen Jaramillo Risco, ascendente a la cantidad de $34.578.307.
+
+Fiscal del Ministerio de Obras Públicas.
