@@ -1,0 +1,3 @@
+Por decreto MOP Nº 230, de 31 de enero del 2000, se expropiaron los lotes de terreno Nºs. 493 y 494, superficies 2.963,3 m2. y 1.680,7 m2., rol de avalúo 554-221, comuna de Paillaco, para la obra Concesión Internacional Ruta 5. Tramo: Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietario Arturo Segundo Bustos Arias, ascendente a la cantidad total de $2.268.693.
+
+Fiscal del Ministerio de Obras Públicas.
