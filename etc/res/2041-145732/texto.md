@@ -1,0 +1,3 @@
+Por resolución Nº 2.041, de 11 de octubre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97103144, presentada por FEDERICO RENATO CARDENAS AGUILAR, para operar un centro de cultivo ubicado en un sector de Terao, Bahía Terao, comuna de Chonchi, provincia de Chiloé, X Región.
+
+Valparaíso, 11 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
