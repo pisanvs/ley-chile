@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 391, de 27 de febrero de 2004, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 5-6, para la obra: "Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Enlace Quilpué Poniente. Lámina Especial Peaje Km. 99.140,00 a Km.
+
+99.880,00", Quinta Región, que figura a nombre de Corp. Municipal de Educ. y Cult., rol de avalúo 3505-9, comuna de Quilpué, superficie 78 m². La comisión de peritos integrada por los señores Victoria Adriana Blanco Costa, Paola Andrea Domingo Porcella y Valeria Luz Jiménez Matus, fijó con fecha 26 de junio de 2002, el valor provisional de la indemnización en la cantidad de $374.400.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
