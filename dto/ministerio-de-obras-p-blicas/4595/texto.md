@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.595, de fecha 29 de septiembre del 2000, se expropió el lote de terreno Nº15, superficie 154,2 m², sin rol de avalúo, comuna de Alto del Carmen, para la obra "Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa I" y se acordó el valor de indemnización con su propietario Sergio Alfaro Gómez, ascendente a la cantidad de $615.454.-
+
+Fiscal del Ministerio de Obras Públicas.
