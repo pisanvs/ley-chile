@@ -1,0 +1,3 @@
+Por decreto MOP Nº 792 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 84, superficie 1.884,00 m2, rol de avalúo Nº 62-37, comuna de Lampa, para la obra "Camino Ruta G-16, sector Lampa - Polpaico, tramo Km. 19,72359 a Km. 34,51667", Región Metropolitana y se acordó el valor de la indemnización con su propietario Marcos Cozmar Verdugo y Otros, ascendente a la cantidad de $5.625.930.
+
+Fiscal del Ministerio de Obras Públicas.
