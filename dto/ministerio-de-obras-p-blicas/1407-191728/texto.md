@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.407, de 28 de septiembre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 20, para la obra Camino Ruta F-10-G, sector Cuesta La Dormida, Kms. 10,98400 al 34,5000, que figura a nombre de Ramón Constancio Lizana Pastén, rol de avalúo 225-22, superficie 2.209 m²., comuna de Olmué. La comisión de peritos, con fecha 6 de octubre de 2000, complementada por acta de fecha 23 de agosto de 2001, fijó la indemnización provisional en la cantidad de $9.532.500, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
