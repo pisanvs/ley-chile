@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 367, de fecha 27 de febrero de 2004, se expropió el lote de terreno Nº 1-A, superficie 74 m2, Rol Nº 497-6, comuna de Santa Cruz, VI Región, para la obra "Camino Santa Cruz - Yáquil, Rol I-730, Km. 0,00000 a Km. 7,46938" y se acordó el valor de indemnización con su propietario Rodolfo Antonio Vielma González, ascendente a la cantidad de $732.000.
+
+- Fiscal del Ministerio de Obras Públicas.
