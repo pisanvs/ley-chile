@@ -1,0 +1,7 @@
+﻿ Peso del pan
+
+Santiago, Febrero 7 de 1822.
+
+El abasto del pan, renglon que merece la mas alta proteccion de todo gobierno benéfico, inclinándose siempre en favor del pueblo consumidor, debe sufrir las contijencias de toda negociacion espuesta a ganancias i pérdidas. El gremio de panaderos en la presente época debe haber reportado crecidas ganancias con la excesiva disminucion del peso del pan, i el anticipado acopio que tenian hecho de trigos, i harinas. Por tan justas consideraciones se llevará a debido efecto la providencia del juez de abastos sin admitir reclamo alguno a que desde ahora se niega lugar, sea por vía de apelacion, u otro cualquier recurso por ser esta una materia correspondiente a la autoridad económica peculiar de esta supremacía: con declaracion de que por ahora queda reducido el peso del pan al de tres onzas, sin perjuicio de que debe aumentarse a proporcion del aumento de introduccion de trigos i harinas que debe proporcionar la presente cosecha, i la prohibicion de su estraccion. Los panaderos que por suspender sus trabajos quedan privados absolutamente de volverlos a establecer, solo podrán obtener permiso para volver a su ejercicio consignando seis mil pesos en favor del Erario.-
+
+O'Higgins.- Torres, pro-secretario.
