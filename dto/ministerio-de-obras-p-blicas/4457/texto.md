@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.457, de 29 de septiembre de 2000, se expropió el lote de terreno Nº61, superficie 1.837 m², rol de avalúo 608-113, comuna de Mulchén, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, Octava Región y se acordó el valor de indemnización con su propietario Andrés Eduardo Larraín Bunster, ascendente a la cantidad de $1.508.104.-
+
+Fiscal del Ministerio de Obras Públicas.
