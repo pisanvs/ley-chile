@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.366, de 30 de agosto de 1999, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 1, 2 y 4, para la ejecución de la obra Camino Rutas W-65 y W-55, Sector Acceso Ruta 5, Tramo km. 0,000 a km.
+
+0,536819, que figuran a nombre de Santiago Alvarado Gallardo y Mario Jesús Guido Alvarino, roles de avalúo 1116-5 y 1129-31, comuna de Castro, X Región, superficies 2.968,4; 6.084,8 y 452,7 m2. La Comisión de Peritos compuesta por los señores Juan Samuel Barrientos Bahamonde, Enrique Edgardo Hoelck Altmann y Nelson Bernardo Turra Turra, fijó con fecha 14 de diciembre de 1998, el valor provisional de las indemnizaciones en las cantidades de $2.986.400, lote 1; $6.084.800, lote 2 y $452.700, lote 4. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
