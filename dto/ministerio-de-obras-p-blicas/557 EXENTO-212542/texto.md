@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº557, de fecha 30 de mayo de 2003, se expropiaron los lotes de terreno Nºs. 1, 2 y 6, superficie 2.086, 1.929 y 192 m2, respectivamente, Rol Nº538-44, comuna de La Unión, X Región, para la obra "Camino Conexión La Unión - Corral, Sector Fin de Pavimento, Ruta T-712, Bifurcación La Unión, Km. 5.600 a Km. 7,100" y se acordó el valor de indemnización con su propietario Juan Carlos Iribarne Oñate, ascendente a la cantidad de $2.733.795.
+
+Fiscal del Ministerio de Obras Públicas.
