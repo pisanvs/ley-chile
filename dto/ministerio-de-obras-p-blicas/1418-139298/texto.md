@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.418, de 31 de mayo de 1999 se complementó el decreto MOP Nº 44 de 25 de enero de 1999, agregándose en el Nº 4 después de ''14 de mayo de 1998'' la oración: modificada por la resolución D.G.O.P. Nº 1041 de 14 de abril de 1999, y se rectificó el Nº 3 del referido decreto en lo que se refiere al rol de avalúo del lote Nº 18, que es 6144-24 y no 6144-2, por lo que el nombre del propietario de los lotes 18 y 19 debe ser Leasing Andino SA y no Soc. Inmob. Inver Golan Ltda. como se indica en dicho decreto.-
+
+Fiscal del Ministerio de Obras Públicas.
