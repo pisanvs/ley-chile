@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº. 158, de 05 de julio de 1991 y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. No. 294, que fijó el texto actualizado de la Ley No.
+
+15.840, se expropió el lote de terreno Nº. 11, para la obra Colectores Interceptores de Aguas Servidas para el Zanjón de la Aguada, Primera Etapa, Comuna de Macul, que figura a nombre de Socovesa S.A., rol de avalúo 8995-1, superficie 264 M2. Deslindes: Norte, con acera Sur Avenida La Aguada Sur en 21 metros; Sur, con propiedad particular en 16 metros; Este, con Acera Poniente Froilán Roa en 10 metros y Oeste, con 3 propiedades particulares en 23 metros. La Comisión de Peritos compuesta por los señores Roberto Correa Bezanilla, Fernando Merino de la Cerda y René Ureta Koster, fijó con fecha 01 de marzo de 1991, el valor provisional de la indemnización en la suma de $ 2.170.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº. 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
