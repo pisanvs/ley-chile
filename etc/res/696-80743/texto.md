@@ -1,0 +1,5 @@
+Por resolución No. 696 de 11 de Junio de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a INDUSTRIAL Y COMERCIAL COBRA S.A., R.U.T. No. 96.186.000-8, domiciliada en Linares, para ampliar actividades pesqueras, que tiene autorizadas por resolución No. 640, de 1985, de esta Subsecretaría, en orden a incorporar a la planta industrial ubicada en calle Longitudinal Antiguo, Sector Huapi S N, dirección postal en Casilla 38, de Linares, autorizada por la resolución citada en el numeral precedente, la línea de proceso de obtención de carrageninas, para elaborar los recursos señalados en dicho instrumento.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 11 de Junio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
