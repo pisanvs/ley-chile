@@ -3070,13 +3070,11 @@ Cuando los giros se realicen por caja, las instituciones financieras deberán co
 
 Las instituciones financieras deben ceñirse a las siguientes instrucciones respecto de los giros que se realicen mediante sistemas automatizados, ya sea que se trate de cuentas de ahorro sin libreta o con libreta:
 
-a) Los giros mediante cajeros automáticos podrán estar limitados por el monto máximo diario que permita el sistema para expender dinero efectivo y, cuando se utilicen sistemas de transferencia electrónica de fondos, el titular podrá transferir hasta la totalidad del saldo disponible desde su cuenta de ahorro a una cuenta corriente que mantenga en la misma institución. Con todo, cuando se trate de cuentas de ahorro con giro diferido, los sistemas deberán contemplar las limitaciones en la cantidad o monto de los giros en concordancia con lo señalado en el numeral 7.2 siguiente.
+a) Los giros mediante cajeros automáticos podrán estar limitados por el monto máximo diario que permita el sistema para expender dinero efectivo y, cuando se utilicen sistemas de transferencia electrónica de fondos, el titular podrá transferir hasta la totalidad del saldo disponible. Con todo, cuando se trate de cuentas de ahorro con giro diferido, los sistemas deberán contemplar las limitaciones en la cantidad o monto de los giros en concordancia con lo señalado en el numeral 7.2 siguiente.
 
-b) A través del terminal desde donde opere el titular, se deberá originar una advertencia cuando se realice el último giro posible de efectuar en la cuenta, sin perder los reajustes, cuando corresponda. En el caso de cajeros automáticos, dicha advertencia deberá quedar registrada en la papeleta donde conste el giro. El sistema deberá contemplar, además, una instancia de confirmación del usuario para realizar un giro con el cual perderá el derecho a reajustes, de manera que pueda dejar sin efecto la operación si lo estima necesario.
+b) A través del terminal desde donde opere el titular, se deberá originar una advertencia cuando se realice el último giro posible de efectuar en la cuenta, sin perder los reajustes, o bien cuando el giro esté afectando a depósitos que tienen menos de 90 días, que por esa circunstancia perderán los reajustes, según corresponda. En el caso de cajeros automáticos, dicha advertencia deberá quedar registrada en la papeleta donde conste el giro. El sistema deberá contemplar, además, una instancia de confirmación del usuario para realizar un giro con el cual perderá el derecho a reajustes, de manera que pueda dejar sin efecto la operación si lo estima necesario.
 
-7.2. Aviso previo para efectuar giros en cuentas de ahorro a plazo con giro
-
-diferido.
+7.2. Aviso previo para efectuar giros en cuentas de ahorro a plazo con giro diferido.
 
 Para girar de las cuentas de ahorro a plazo con giro diferido, los respectivos titulares deben presentar un aviso o solicitud de giro con una anticipación mínima de treinta días corridos respecto de la fecha en que éste se hará efectivo. No obstante, las entidades depositarías pueden aceptar giros a la vista en estas cuentas cuando sean por montos no superiores al equivalente de 30 unidades de fomento en cada oportunidad y siempre que cada uno de ellos se efectúe en días distintos y se trate de cuentas de personas naturales.
 
@@ -3108,23 +3106,11 @@ Las instituciones financieras pueden pactar con los titulares de cuentas de ahor
 
 ### 8. Reajuste de las cuentas de ahorro a plazo
 
-8.1. Período de reajuste.
+Tendrán derecho a reajuste los depósitos que permanezcan en las cuentas por un plazo igual o superior a 90 días. Para los efectos del cálculo y pago del reajuste, los giros se considerarán como depósitos con signo negativo y deberán imputarse a el o los depósitos efectuados, en orden inverso a su antigüedad. El mismo procedimiento se seguirá con los cargos por concepto de comisiones y primas de seguros, cuando corresponda.
 
-El período de reajuste, que tiene por objeto señalar la oportunidad en que éstos deben abonarse, comprende un determinado número de meses calendario, contados desde la fecha de apertura de la cuenta o desde el último día del mes en que se haya efectuado dicha apertura, o bien desde la fecha en que, al término del período respectivo, se abonó el último reajuste, según corresponda.
+Los reajustes deberán abonarse a las respectivas cuentas de acuerdo con la periodicidad establecida en los Capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile. Los depósitos que no hubieren aún cumplido 90 días a la fecha en que debe efectuarse el abono de los reajustes en la cuenta, deberán ser reajustados con posterioridad, considerando el importe que se mantenga al menos por 90 días.
 
-Para las cuentas de ahorro con giro incondicional, dicho período será de doce meses o de tres meses según se haya convenido, en tanto que, para las cuentas con giro diferido, es de tres meses.
-
-El primer período de reajuste incluirá, en todo caso, los días transcurridos entre la apertura de la cuenta y el último día del mes en que ésta se abrió.
-
-8.2. Cálculo y pago del reajuste.
-
-El último día del mes en que se cumple cada período de reajuste, se abonará en la respectiva cuenta de ahorro a plazo el reajuste que corresponda a los saldos mantenidos en ese lapso, conforme al sistema de reajustabilidad convenido.
-
-En consecuencia, para establecer el reajuste que corresponda abonar al término de un período en la cuenta respectiva, se reajustará el saldo al inicio de aquél y los depósitos y giros efectuados durante dicho lapso, según el sistema de reajuste pactado, lo que determinará un saldo reajustado. La diferencia entre este saldo reajustado y el saldo nominal de la cuenta, será el reajuste ganado en el período.
-
-Cuando el número de giros efectuados en una cuenta de ahorro a plazo, en el período de doce meses, sea superior al que el depositante podía realizar de conformidad con lo señalado en las letras b), c) o d) del numeral 7.3, según sea el caso, los fondos depositados devengarán solamente el interés correspondiente a dicho período y por motivo alguno se aplicará reajuste, salvo aquellos que ya se hubieran abonado en los trimestres anteriores del mismo período en que se produjo el exceso de giros.
-
-No se considerarán como giros los cargos efectuados en las cuentas por concepto de primas de seguros de vida o invalidez, cuando éstos cumplan las condiciones señaladas en los Capítulos III.E.l y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile.
+Cuando el número de giros efectuados en una cuenta de ahorro a plazo, en el período de doce meses, sea superior al que el depositante podía realizar de conformidad con lo señalado en las letras b), c) o d) del numeral 7.3, según sea el caso, los fondos depositados devengarán solamente el interés correspondiente a dicho período y por motivo alguno se aplicará reajuste, salvo aquellos que ya se hubieran abonado en los trimestres anteriores del mismo período de doce meses en que se produjo el exceso de giros. No se considerarán como giros, para estos efectos, los cargos efectuados en las cuentas por concepto de primas de seguros de vida o invalidez, cuando éstos cumplan las condiciones señaladas en los Capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile.
 
 ### 9. Intereses de las cuentas de ahorro a plazo
 
@@ -3132,21 +3118,15 @@ No se considerarán como giros los cargos efectuados en las cuentas por concepto
 
 Los intereses que acuerden pagar las instituciones financieras a las cuentas de ahorro a plazo deben ser de aplicación general, sin que medien otras discriminaciones que no sean las provenientes del tipo de cuenta de que se trate, es decir, si es con giro incondicional o con giro diferido, con o sin libreta; del saldo medio mantenido, en tanto ello se establezca como condición para el pago de una mayor tasa de interés; o del número de giros pactado, según lo indicado en la letra d) del numeral 7.3 de este Capítulo.
 
-Las instituciones financieras pueden fijar libremente la tasa de interés anual a pagar sobre el capital reajustado, la que sólo se podrá cambiar el primer día de cada mes calendario.
+Las instituciones financieras pueden fijar libremente la tasa de interés anual a pagar sobre el capital reajustado, la que sólo se podrá cambiar dentro de los diez primeros días de cada mes calendario y la nueva tasa regirá, a lo menos, por el lapso que reste de dicho mes.
 
 No obstante, la tasa de interés podrá ser modificada sin esperar el inicio de un nuevo mes calendario, cuando la nueva tasa sea superior a la que esté vigente. Esta mayor tasa no podrá ser disminuida en lo que resta del mes y en todo el mes siguiente.
 
 En todo caso, sólo podrá disminuirse la tasa de interés de un mes a otro, si la nueva tasa es informada a los clientes en la forma y con la oportunidad debidas, según lo indicado en el numeral 14.2 de este Capítulo.
 
-9.2. Cálculo y pago de intereses.
+9.2.- Abono de los intereses.
 
-Los intereses, tanto para las cuentas de ahorro a plazo con giro incondicional como para las cuentas con giro diferido, deben abonarse a la respectiva cuenta cada doce meses calendario, contados desde la fecha de apertura de la cuenta, o bien, desde el último día del mes en que se haya efectuado dicha apertura, sin perjuicio de considerar en su cálculo los días efectivamente transcurridos desde su apertura.
-
-Sobre la base del movimiento de la cuenta debidamente reajustado, de conformidad con lo establecido en el numeral 8.2 anterior, debe aplicarse una tasa de interés simple, dependiendo ésta del número de días transcurridos desde el depósito o giro. La tasa de interés aplicable es aquella que resulta de dividir por 360 la tasa anual informada por la institución para el tipo de cuenta de ahorro de que se trate, y de multiplicar ésta por el número de días transcurridos desde el depósito o giro. Para los fines del cálculo de intereses, los giros deben considerarse como depósitos con signo negativo. Los abonos que trimestralmente se hagan por concepto de reajuste durante el período de doce meses no se consideran como depósitos, puesto que el cálculo para los efectos de determinar los intereses se realiza sobre el capital reajustado.
-
-En caso de haber regido más de una tasa de interés en el período, deben considerarse dichas tasas y su lapso de vigencia.
-
-No obstante lo indicado anteriormente, si por exceso de giros la cuenta pierde el derecho a percibir reajustes, el cálculo de intereses se efectuará sobre los valores nominales en pesos. Sin embargo, cuando se trate de cuentas de ahorro a las que se les haya efectuado abono trimestral de reajustes, el cálculo de intereses se realizará en la forma prevista en el párrafo anteprecedente hasta el término del trimestre en que la cuenta haya tenido derecho a reajuste, considerando la unidad de reajustabilidad vigente a la fecha del último reajuste abonado y, a partir de esa fecha, dicho cálculo se efectuará solamente sobre los valores nominales en pesos.
+Los intereses se abonarán en la respectiva cuenta con la frecuencia y oportunidad establecida en los Capítulos III E.l y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile.
 
 ### 10. Cobro de comisiones
 
@@ -3163,10 +3143,6 @@ Los cobros por concepto de comisiones deberán efectuarse con una frecuencia que
 En caso de que el monto de la comisión fuere superior al saldo de una cuenta al momento en que corresponda cargarla, se podrá imputar a ella sólo un importe que no exceda al saldo que registre en la oportunidad, dado que las cuentas de ahorro no admiten sobregiros. La diferencia no recuperada por exceder el saldo de la cuenta, se podrá cargar posteriormente, una vez que la cuenta registre el saldo suficiente para ello. En caso contrario, la institución podrá cobrar directamente al titular la diferencia adeudada y proceder al cierre de la cuenta si esta se mantuviere inactiva, según lo previsto en los numerales 11 y 14.6 de este Capítulo.
 
 En ningún caso se cobrarán comisiones correspondientes a períodos posteriores a aquél en el que la cuenta de ahorro quedó sin saldo, si en tales períodos permanece en esa condición.
-
-10.3. Efecto de las comisiones en el cálculo de intereses y reajustes.
-
-Los cargos por concepto de comisiones sobre las cuentas de ahorro a plazo pueden ser considerados para efectos del cálculo de los reajustes e intereses de que tratan los numerales 8.2 y 9.2 de estas normas, por cuanto disminuyen el saldo efectivo de la cuenta en la oportunidad de ser cargados pero, naturalmente, no pueden computarse como giros para la determinación de la cantidad de giros realizados.
 
 ### 11. Desahucio o cierre de una cuenta de ahorro
 
@@ -3309,6 +3285,12 @@ En el caso de las cuentas de ahorro a plazo con giro diferido, las instituciones
 Debido a que el saldo depositado en una cuenta de ahorro a plazo o a la vista sólo podría ser cedido conforme a las normas que rigen la cesión de créditos nominativos, resulta recomendable que las instituciones financieras se abstengan de recibirlos en garantía.
 
 En todo caso, la libreta en que consta el saldo de una cuenta de ahorro no es un título de crédito y, por lo tanto, no constituye una garantía valida para los efectos de los límites individuales de crédito dispuestos en el artículo 84 N° 1 de la Ley General de Bancos.
+
+19.- Disposición transitoria.
+
+La condición de permanencia mínima de 90 días para el pago de reajuste de los depósitos, no rige para los depósitos efectuados con anterioridad al 10 de septiembre de 2001, para los cuales se aplicarán las normas vigentes al momento en que fueron enterados.
+
+También podrán exceptuarse de esa condición hasta el 10 de septiembre de 2002, los demás depósitos efectuados en las cuentas de ahorro vigentes con anterioridad al 10 de septiembre de 2001.
 
 CAPITULO 2-5 (Bancos y Financieras)
 
@@ -16448,7 +16430,7 @@ Las inversiones en valores mobiliarios de renta fija están afectas a los límit
 
 Quedan excluidos de los márgenes individuales de crédito del artículo 84, con respecto a los emisores, las inversiones en los instrumentos que se indican a continuación:
 
-a) Instrumentos que correspondan a bonos de la deuda interna o cualquier otra clase de documentos que representen obligaciones del Estado o de sus instituciones, incluido el Banco Central de Chile y excluidas las empresas del Estado.
+a) Instrumentos que correspondan a bonos de la deuda interna o cualquier otra clase de documentos emitidos en serie que representen obligaciones del Estado o de sus instituciones, incluido el Banco Central de Chile y excluidas las empresas del Estado.
 
 b) Bonos u obligaciones de renta de Estados, Bancos Centrales e instituciones internacionales a las que se encuentre adherido el Estado de Chile.
 
