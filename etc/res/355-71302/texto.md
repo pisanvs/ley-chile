@@ -1,0 +1,3 @@
+Por Resolución Nº 355 de 21 de abril de 1997 de Serviu Metropolitano, ordenóse expropiación, conforme D.L. Nº 2.186 de 1978, parte del inmueble ubicado en Avenida Carrascal Nº 4287 y 4281, presunto rol de avalúos Nº 4114-2 comuna de Quinta Normal, de aparente dominio de don Arnoldo Trujillo Jiménez. Comisión integrada por peritos Sra. Teresa Sancho Pernas, arquitecto, Sergio Rojas Ibáñez, ingeniero civil y Luis Rojas Quezada, constructor civil según informe de 17 de diciembre de 1996 fijó monto provisional de indemnización en $6.311.000.- pagadera al contado.
+
+Director Serviu Metropolitano.
