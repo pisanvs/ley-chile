@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.112, de fecha 30 de septiembre del 2003, se expropió el lote de terreno Nº106, superficie 47 m², Rol Nº330-23, comuna de San Clemente, VII Región para la obra "Camino Mejoramiento Ruta K-705. Sector: Cruce Ruta 1115-CH (El Guindo) Vilches Alto, Tramo Km. 0,00000 a 13,06400 (Ruta K-705) Km. 35,46000 a Km. 35,80000" (Ruta 115-CH), y se acordó el valor de indemnización con su propietario Gabriel Sebastián Muena González, ascendente a la cantidad de $346.697.-
+
+Fiscal del Ministerio de Obras Públicas.
