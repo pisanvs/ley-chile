@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.840, de 8 de julio de 2004, de esta Subsecretaría, prorrógase por seis meses a contar de la fecha de la presente resolución, el plazo otorgado en el numeral 1.- de la resolución Nº 426 de 2004, de esta Subsecretaría, que autorizó a IBERLAM CULTIVOS MARINOS LIMITADA, para instalar colectores de semillas de mitílidos en el sector Punta Matao, Isla Quinchao, X Región.
+
+Valparaíso, 8 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
