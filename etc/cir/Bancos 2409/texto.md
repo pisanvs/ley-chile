@@ -1646,9 +1646,11 @@ ii) Pagarés a que se refiere el numeral 2.2 y la letra b) del N° 3 del Acuerdo
 
 iii) Certificados de Depósito Expresados en Dólares de los Estados Unidos de América - Acuerdo 163-05-911010.
 
+iv) Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional.
+
 ### 4. Exención de encaje y reserva técnica
 
-Las ventas con pacto de retrocompra correspondientes a instrumentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, están exentas de encaje.
+Las ventas con pacto de retrocompra correspondientes a instrumentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, como asimismo las ventas de Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional, están exentas de encaje.
 
 Por otra parte, las obligaciones de retrocompra, cualesquiera sea el documento vendido, están exentas de la obligación de constituir la reserva técnica de que trata el artículo 80 bis de la Ley General de Bancos.
 
@@ -10518,65 +10520,67 @@ ANEXO N° 2
 
 CUENTAS PARA LAS OPERACIONES CON PACTO
 
-### I. VENTAS CON PACTO DE RETROCOMPRA
+I.- VENTAS CON PACTO DE RETROCOMPRA
 
-A) PASIVO.
+A) PASIVO
 
 Código
 
-3110 000 00 VENTA A INSTITUCIONES FINANCIERAS DE DOCUMENTOS CON PACTO DE RECOMPRA.
+3110 000 00 VENTA A INSTITUCIONES FINANCIERAS DE DOCUMENTOS CON PACTO DE RECOMPRA
 
-3110 101 00 Obligación de retrocompra pagarés Banco Central y Tesorería.
+3110 101 00 Obligación de retrocompra pagarés Banco Central y Tesorería*
 
-3110 101 01 - Menos 30 días plazo.
+3110 101 01 - Menos 30 días plazo
 
-3110 101 02 - De 30 a 89 días plazo.
+3110 101 02 - De 30 a 89 días plazo
 
-3110 101 03 - De 90 días un año plazo.
+3110 101 03 - De 90 días a un año plazo
 
-3110 101 04 - Más de un año plazo.
+3110 102 04 - Más de un año plazo
 
 3110 102 00 Obligación de retrocompra otras inversiones financieras.
 
-3110 102 01 - De 30 a 89 días plazo.
+3110 102 01 - De 30 a 89 días plazo
 
-3110 102 02 - De 90 días un año plazo.
+3110 102 02 - De 90 días a un año plazo
 
-3110 102 03 - Más de un año plazo.
+3110 102 03 - Más de un año plazo
 
-3115 000 00 VENTA A TERCEROS DE DOCUMENTOS CON PACTO DE RECOMPRA.
+3115 000 00 VENTA A TERCEROS DE DOCUMENTOS CON PACTO DE RECOMPRA
 
-3115 101 00 Obligación de recompra pagarés Banco Central y Tesorería
+3115 101 00 Obligación de recompra pagarés Banco Central y Tesorería*
 
-3115 101 01 - Menos 30 días plazo.
+3115 101 01 - Menos 30 días plazo
 
-3115 101 02 - De 30 a 89 días plazo.
+3115 101 02 - De 30 días a 89 días plazo
 
-3115 101 03 - De 90 días un año plazo.
+3115 101 03 - De 90 días a un año plazo
 
-3115 101 04 - Más de un año plazo.
+3115 101 04 - Más de un año plazo
 
-3115 102 00 Obligación de retrocompra otras inversiones financieras.
+3115 102 00 Obligación de retrocompra otras inversiones financieras
 
-3115 102 01 - De 30 a 89 días plazo.
+3115 102 01 - De 30 a 89 días plazo
 
-3115 102 02 - De 90 días un año plazo.
+3115 102 02 - De 90 días a un año plazo
 
-3115 102 03 - Mas de un año plazo.
+3115 102 03 - Más de un año plazo
 
-B)RESULTADOS.
+* Las cuentas y subcuentas signadas con los códigos "3110 101" y "3115 101", incluyen también las obligaciones de retrocompra de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional.
 
-a) Por los intereses:
+B) RESULTADOS
+
+a) Por los intereses.
 
 Código
 
-5145 000 00 OBLIGACIONES POR PACTOS DE RETROCOMPRA.
+5145 000 00 OBLIGACIONES POR PACTOS DE RETROCOMPRA
 
-5145 001 00 Intereses pagados por ventas con pacto a Instituciones Financieras de pagarés del Banco Central y Tesorería.
+5145 001 00 Intereses pagados por ventas con pacto a Instituciones Financieras de pagarés del Banco Central y Tesorería
 
-5145 002 00 Intereses pagados por ventas con pacto a Instituciones Financieras de otras inversiones financieras.
+5145 002 00 Intereses pagados por ventas con pacto a Instituciones Financieras de otras inversiones financieras
 
-5145 003 00 Intereses pagados por ventas con pacto a terceros de pagarés del Banco Central y Tesorería.
+5145 003 00 Intereses pagados por ventas con pacto a terceros de pagarés del Banco Central y Tesorería
 
 5145 004 00 Intereses pagados por ventas con pacto a terceros de otras inversiones financieras.
 
