@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.490, de 17 de abril de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº78-C, para la obra: Concesión Internacional Ruta 5. Tramo Santiago - Talca. Sector B: Km. 42.950,00 al Km.
+
+55.200,00, Región Metropolitana, que figura a nombre de Diagro Champa Ltda., rol de avalúo 910-16, comuna de Paine, superficie 442 m2. La comisión de peritos integrada por los señores Gustavo Domínguez Errázuriz, Carmen Pilar Ríos Marcuello y María Cristina Camus Palacios, fijó con fecha 06 de marzo de 2000, el valor provisional de la indemnización en la cantidad de $2.477.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
