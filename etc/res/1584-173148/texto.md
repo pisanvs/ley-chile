@@ -1,0 +1,3 @@
+Por resolución Nº1.584, de 17 de julio de 2000, deniégase la solicitud de autorización de acuicultura Nº93106018, presentada por VICTOR ARNOLDO BARRIA BARRIA, para operar un centro de cultivo en lago Los Patos o Coipue, comuna de Quellón, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
