@@ -1,0 +1,5 @@
+Por resolución No. 394 de 07 de Mayo de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PLANTA PROCESADORA DE ALIMENTOS VELASQUEZ COQUIMBO LIMITADA, "PROVELCO LTDA.", R.U.T. No. 79.501.890-5, domiciliada en calle Condell No. 1, Coquimbo, para ampliar actividades pesqueras de transformación, autorizadas por Resolución No. 85, de 1985, de esta Subsecretaría, en orden a operar la planta industrial, ubicada en calle Carlos Condell No. 19, Coquimbo, IV Región, autorizada por Resolución No. 85, de 1985, de esta Subsecretaría, donde procesará además de los recursos y procesos autorizados los siguientes: Congelado: Albacora o pez espada, Calamar, Jibia; Conserva: Culengue; Deshidratado de algas: Cochayuyo, Chasca, Chascón, Chicorea de mar, Huiro, Pelillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 07 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
