@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 458 de fecha 26 de marzo de 2004, se expropió el lote de terreno Nº 23, superficie 44 m2, rol de Avalúo Nº 418-31, comuna de Loncoche, para la obra "Reposición Construcción y Habilitación de Camino para Vialidad Complementaria Concesión Internacional Ruta 5, Tramo Temuco-río Bueno - Puerto Montt, Camino Collimallin", IX Región y se acordó el valor de la indemnización con su propietario Arnoldo Richard Vallejos Jofré, ascendente a la cantidad de $1.018.202.
+
+Fiscal del Ministerio de Obras Públicas.
