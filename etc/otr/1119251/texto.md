@@ -1,0 +1,7 @@
+Decision sobre las moratorias de gracia
+
+El Director Supremo de la República, de acuerdo con el Excmo. Senado:
+
+Por cuanto habiendo consultado el Tribunal del Consulado al Supremo poder lejislativo, si le era o no privativo el conocimiento de las instancias de esperas con esclusion de la Cámara de Justicia, sobre que, previo el informe de este Tribunal, se espidió la correspondiente declaracion: Por tanto, conformándome con ella, declaro que los juicios de esperas i quitas que se llaman quinquenales i que se deciden a pluralidad de votos de los acreedores en número o cantidades, son propios i privativos de los Consulados; pero que las esperas o moratorias de seis meses que suelen otorgarse contra la voluntad del acreedor, en uso del privilejio que a las audiencias de América concede la lei 95, tít. 15, lib. 9.° de Indias, debe refundirse en la soberanía nacional por haber cesado la causa de aquel privilejio i porque el otorgamiento de la gracia es peculiar de la autoridad en quien reside la facultad de concederla del modo que sucedia en España. En consecuencia, teniendo presente el Senado consulto de 23 de Marzo del presente año, toda moratoria de gracia debe decidirse por el Supremo Gobierno, previa la sustanciacion prevenida en dicho Senado consulto.-
+
+Palacio Directorial en Santiago de Chile, Diciembre nueve de mil ochocientos veinte.- Bernardo O'Higgins.- Joaquin Echeverría.
