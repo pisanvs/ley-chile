@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.488 de 29 de octubre de 2004, se expropió el lote de terreno Nº 3, superficie 454 m2, rol de avalúo 507-256, comuna de Talagante, para la obra "Camino Autopista Santiago-San Antonio. Sector: Segmento 3 Malloco-San Antonio. Tramo: Km.34.480,00 al Km.34.860,00", se acordó el valor de la indemnización con su propietaria Marta Genoveva Atenas Marambio, ascendente a la cantidad de $2.580.894.
+
+- Fiscal del Ministerio de Obras Públicas.
