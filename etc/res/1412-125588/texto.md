@@ -1,0 +1,3 @@
+Por resolución Nº 1.412, de 30 de septiembre de 1998, de esta Subsecretaría, deniégase la solicitud de concesión de acuicultura, Nº 95104042, presentada por KARIN MAURICIO PARRA VIDAL, para operar un centro de cultivo ubicado en un sector entre Punta San Antonio y Aguantao, comuna de Calbuco, provincia de Llanquihue, X Región.
+
+Valparaíso, 30 de septiembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
