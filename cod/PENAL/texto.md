@@ -1388,7 +1388,7 @@ La tentativa respecto de cualquiera de los delitos de que tratan los artículos 
 
 #### Artículo 170
 
-El que habiendo recibido de buena fe moneda falsa o cercenada, la circulare después de constarle su falsedad o cercenamiento, sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a trescientos pesos, si el valor de la moneda circulada subiere de diez pesos.
+El que habiendo recibido de buena fe moneda falsa o cercenada, la circulare después de constarle su falsedad o cercenamiento, sufrirá la pena de reclusión menor en su grado mínimo o multa de sesenta a ciento ochenta escudos, si el valor de la moneda circulada subiere medio sueldo vital.
 
 Cuando no exceda de esta suma, estimándose el hecho mera falta, se penará como tal.
 
@@ -1424,7 +1424,7 @@ La tentativa para la falsificación, emisión o introducción de tales títulos,
 
 #### Artículo 178
 
-El que habiendo adquirido de buena fe los títulos falsos de que trata este párrafo, los circulare después, constándole su falsedad, sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a trescientos pesos, si subiere de diez pesos el valor del título circulado.
+El que habiendo adquirido de buena fe los títulos falsos de que trata este párrafo, los circulare después, constándole su falsedad, sufrirá la pena de reclusión menor en su grado mínimo o multa de sesenta a ciento ochenta escudos, si subiere de medio sueldo vital el valor del título circulado.
 
 Cuando no exceda de esta suma, estimándose el acto mera falta, se penará como tal.
 
@@ -1474,7 +1474,7 @@ Las penas serán presidio menor en sus grados mínimo a medio y multa de ciento 
 
 #### Artículo 189
 
-El que hiciere desaparecer de estampillas de correos u otras adhesivas, o de boletas para el transporte de personas o cosas, la marca que indica que ya han servido, con el fin de utilizarlas, y el que, a sabiendas expendiere o usare estampillas o boletas de las cuales se ha hecho desaparecer dicha marca, siempre que en uno y otro caso el valor de tales estampillas o boletas exceda de seis mil pesos, será castigado con reclusión menor en su grado mínimo o multa de ciento a trescientos pesos.
+El que hiciere desaparecer de estampillas de correos u otras adhesivas, o de boletas para el transporte de personas o cosas, la marca que indica que ya han servido, con el fin de utilizarlas, y el que, a sabiendas espendiere o usare estampillas o boletas de las cuales se ha hecho desaparecer dicha marca, siempre que en uno y otro caso el valor de tales estampillas o boletas exceda de medio sueldo vital, será castigado con reclusión menor en su grado mínimo o multa de sesenta a ciento ochenta escudos.
 
 #### Artículo 190
 
@@ -1590,9 +1590,9 @@ Si en virtud del falso testimonio se hubiere impuesto al acusado una pena respec
 
 #### Artículo 209
 
-El falso testimonio en causa civil, será castigado con presidio menor en su grado medio y multa de cincuenta mil pesos.
+El falso testimonio en causa civil, será castigado con presidio menor en su grado medio y multa de sesenta a seiscientos escudos.
 
-Si el valor de la demanda no excediere de cincuenta mil pesos, las penas serán presidio menor en su grado mínimo y multa de cincuenta mil pesos.
+Si el valor de la demanda no excediere de cuatro sueldos vitales, las penas serán presidio menor en su grado mínimo y multa de sesenta a ciento ochenta escudos.
 
 #### Artículo 210
 
@@ -1752,11 +1752,11 @@ El abogado que, teniendo la defensa actual de un pleito, patrocinare a la vez a 
 
 El empleado público que, teniendo a su cargo caudales o efectos públicos o de particulares en depósito, consignación o secuestro, los sustrajere o consintiere que otro los sustraiga, será castigado:
 
-1.° Con la pena de presidio menor en su grado medio, si la sustracción no excediere de cincuenta mil pesos.
+1.° Con la pena de presidio menor en su grado medio, si la sustracción no excediere de cuatro sueldos vitales.
 
-2° Con la de presidio menor en su grado máximo, si excediere de cincuenta y no pasare de quinientos mil pesos.
+2° Con la de presidio menor en su grado máximo, si excediere de cuatro sueldos vitales y no pasare de cuarenta sueldos vitales.
 
-3.° Con la de presidio mayor en sus grados mínimo a medio, si excediere de quinientos mil pesos.
+3.° Con la de presidio mayor en sus grados mínimo a medio, si excediere de cuarenta sueldos vitales.
 
 En todos los casos con la pena de inhabilitación absoluta temporal en su grado mínimo a inhabilitación absoluta perpetua para cargos y oficios públicos.
 
@@ -1784,9 +1784,9 @@ Esta disposición es aplicable al empleado público que, requerido por orden de 
 
 #### Artículo 238
 
-Las disposiciones de este párrafo son extensivas al que se halle encargado por cualquier concepto de fondos, rentas o efectos municipales o pertenecientes a un establecimiento público de instrucción o beneficencia.
+Las disposiciones de este párrafo son estensivas al que se halle encargado por cualquier concepto de fondos, rentas o efectos municipales o pertenecientes a un establecimiento público de instruccion o beneficencia.
 
-En los delitos a que se refiere este párrafo, se aplicará el máximo del grado cuando el valor de lo malversado excediere de diez millones de pesos, siempre que la pena señalada al delito conste de uno solo en conformidad a lo establecido en el inciso tercero del artículo 67 de este Código. Si la pena consta de dos o más grados, se impondrá el grado máximo.
+En los delitos a que se refiere este párrafo, se aplicará el máximo del grado cuando el valor de lo malversado excediere de cuatrocientos sueldos vitales, siempre que la pena señalada al delito conste de uno solo en conformidad a lo establecido en el inciso tercero del artículo 67 de este Código. Si la pena consta de dos o más grados, se impondrá el grado máximo.
 
 ### VI. Fraudes y exacciones ilegales
 
@@ -3100,13 +3100,13 @@ El que fabricare, expendiere o tuviere en su poder llaves falsas, ganzúas u otr
 
 Los reos de hurto serán castigados:
 
-1.o Con presidio menor en sus grados medio a máximo, si el valor de la cosa hurtada excediere de quinientos mil pesos;
+1.o Con presidio menor en sus grados medio a máximo, si el valor de la cosa hurtada excediere de cuarenta sueldos vitales;
 
-2.o Con presidio menor en su grado medio, cuando su valor excediere de cincuenta mil pesos y no pasare de quinientos mil pesos;
+2.o Con presidio menor en su grado medio, cuando su valor excediere de cuatro sueldos vitales y no pasare de cuarenta sueldos vitales;
 
-3.o Con presidio menor en su grado mínimo si el importe de la cosa hurtada no subiere de cincuenta mil pesos ni bajare de seis mil pesos.
+3.o Con presidio menor en su grado mínimo si el importe de la cosa hurtada no subiere de un sueldo vital ni bajare de seis mil pesos.
 
-Si el valor de la cosa hurtada excediere de diez millones de pesos, se aplicará la pena de presidio menor en su grado máximo.
+Si el valor de la cosa hurtada excediere de cuatrocientos sueldos vitales, se aplicará la pena de presidio menor en su grado máximo.
 
 #### Artículo 447
 
@@ -3122,7 +3122,7 @@ En los casos del artículo anterior podrá aplicarse la pena inmediatamente supe
 
 #### Artículo 448
 
-El que, hallándose una especie mueble, al parecer perdida, cuyo valor exceda de $ 300, no la entregare a la autoridad o a su dueño, siempre que le conste quién sea éste, por hechos coexistentes posteriores al hallazgo, será considerado reo de hurto y castigado con presidio menor en su grado mínimo.
+El que, hallándose una especie mueble, al parecer perdida, cuyo valor exceda de medio sueldo vital, no la entregare a la autoridad o a su dueño, siempre que le conste quién sea éste, por hechos coexistentes posteriores al hallazgo, será considerado reo de hurto y castigado con presidio menor en su grado mínimo.
 
 También será considerado reo de hurto y castigado con presidio menor en su grado mínimo, el que hallare especies, al parecer perdidas o abandonadas, a consecuencia de naufragio, inundación, incendio, terremoto, accidente en ferrocarril u otra causa análoga, y no las entregare a los dueños o a la autoridad en su defecto.
 
@@ -3270,13 +3270,13 @@ En la misma pena incurrirá si otorgare, en perjuicio de dichos acreedores, cont
 
 El que defraude a otro en la substancia, cantidad o calidad de las cosas que le entregare en virtud de un título obligatorio, será penado:
 
-1.o Con presidio menor en su grado medio a máximo, si la defraudación excediere de quinientos mil pesos;
+1.o Con presidio menor en su grado medio a máximo, si la defraudación excediere de cuarenta sueldos vitales;
 
-2.o Con presidio menor en su grado medio, cuando excediere de cincuenta mil pesos y no pasare de quinientos mil pesos;
+2.o Con presidio menor en su grado medio, cuando excediere de cuatro sueldos vitales y no pasare de cuarenta sueldos vitales;
 
-3.o Con presidio menor en su grado mínimo, si el valor de la defraudación no excediere de cincuenta mil pesos ni bajare de seis mil pesos.
+3.o Con presidio menor en su grado mínimo, si el valor de la defraudación no excediere de cuatro sueldos vitales ni bajare de un sueldo vital.
 
-Si el valor de la cosa defraudada excediere de diez millones de pesos, se aplicará la pena de presidio menor en su grado máximo.
+Si el valor de la cosa defraudada excediere de cuatrocientos sueldos vitales, se aplicará la pena de presidio menor en su grado máximo.
 
 #### Artículo 468
 
@@ -3376,15 +3376,15 @@ Se castigará con presidio mayor en cualquiera de sus grados:
 
 El incendiario de objetos no comprendidos en los artículos anteriores, será penado:
 
-1.° Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, siempre que el daño causado a terceros, excediere de quinientos mil pesos;
+1.° Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, siempre que el daño causado a terceros, excediere de cuarenta sueldos vitales;
 
-2.° Con presidio menor en sus grados medio a máximo, cuando el daño causado excediere de ciento y no pasare de quinientos mil pesos;
+2.° Con presidio menor en sus grados medio a máximo, cuando el daño causado excediere de cuatro sueldos vitales y no pasare de cuarenta sueldos vitales;
 
-3.° Con presidio menor en sus grados mínimo a medio, si el daño no excediere de cincuenta mil pesos.
+3.° Con presidio menor en sus grados mínimo a medio, si el daño no excediere de cuatro sueldos vitales.
 
 #### Artículo 478
 
-En caso de aplicarse el incendio a chozas, pajar o cobertizo deshabitado o a cualquier otro objeto cuyo valor no excediere de $ 1.000, en tiempo y con circunstancias que manifiestamente excluyan todo peligro de propagación, el culpable no incurrirá en las penas señaladas en este párrafo; pero sí en las que mereciera por el daño que causare con arreglo a las disposiciones del párrafo siguiente.
+En caso de aplicarse el incendio a chozas, pajar o cobertizo deshabitado o a cualquier otro objeto cuyo valor no excediere de cuatro sueldos vitales, en tiempo y con circunstancias que manifiestamente excluyan todo peligro de propagación, el culpable no incurrirá en las penas señaladas en este párrafo; pero sí en las que mereciera por el daño que causare con arreglo a las disposiciones del párrafo siguiente.
 
 #### Artículo 479
 
@@ -3436,7 +3436,7 @@ Son reos de daño y están sujetos a las penas de este párrafo, los que en la p
 
 #### Artículo 485
 
-Serán castigados con la pena de reclusión menor en sus grados medio a máximo, los que causaren daño cuyo importe exceda de quinientos mil pesos:
+Serán castigados con la pena de reclusión menor en sus grados medio a máximo, los que causaren daño cuyo importe exceda de cuarenta sueldos vitales:
 
 1.° Con la mira de impedir el libre ejercicio de la autoridad o en venganza de sus determinaciones, bien se cometiere el delito contra empleados públicos, bien contra particulares que, como testigos o de cualquiera otra manera, hayan contribuido o puedan contribuir a la ejecución o aplicación de las leyes;
 
@@ -3456,9 +3456,9 @@ Serán castigados con la pena de reclusión menor en sus grados medio a máximo,
 
 #### Artículo 486
 
-El que, con alguna de las circunstancias expresadas en el artículo anterior, causare daño cuyo importe exceda de cincuenta mil pesos y no pase de quinientos mil pesos, sufrirá la pena de reclusión menor en sus grados mínimo a medio.
+El que, con alguna de las circunstancias expresadas en el artículo anterior, causare daño cuyo importe exceda de cuatro sueldos vitales y no pase de cuarenta sueldos vitales, sufrirá la pena de reclusión menor en sus grados mínimo a medio.
 
-Cuando dicho importe no excediere de cincuenta mil pesos ni bajare de seis mil pesos, la pena será reclusión menor en su grado mínimo.
+Cuando dicho importe no excediere de cuatro sueldos vitales ni bajare de medio sueldo vital, la pena será reclusión menor en su grado mínimo.
 
 #### Artículo 487
 
@@ -3556,7 +3556,7 @@ Sufrirán la pena de prisión en sus grados medio a máximo o multa de cien a mi
 
 11.° Los mismos individuos expresados en el numero anterior, que no prestaren los servicios de su profesión durante el turno que les señale la autoridad administrativa.
 
-12.° El médico, cirujano, farmacéutico, matrona o cualquiera otro que, llamado en clase de perito o testigo, se negare a practicar una operación propia de su profesión u oficio o a prestar una declaración requerida por la autoridad judicial, en los casos i en la forma que determine el Código de Procedimientos y sin perjuicio de los apremios legales.
+12.° El médico, cirujano, farmacéutico, matrona o cualquiera otro que, llamado en clase de perito o testigo, se negare a practicar una operación propia de su profesión u oficio o a prestar una declaración requerida por la autoridad judicial, en los casos y en la forma que determine el Código de Procedimiento y sin perjuicio de los apremios legales.
 
 13.° El que encontrando perdido o abandonado a un menor de siete años no lo entregare a su familia o no lo recogiere o depositare en lugar seguro, dando cuenta a la autoridad en los dos últimos casos.
 
@@ -3570,7 +3570,7 @@ Sufrirán la pena de prisión en sus grados medio a máximo o multa de cien a mi
 
 18.° El dueño de animales feroces que en lugar accesible al público los dejare sueltos o en disposición de causar mal.
 
-19.° El que ejecutare alguno de los hechos penados en los artículos 189; 446; inciso 1° del 448; 467; 469 y 470, siempre que el delito se refiera a valores que no excedan de seis mil pesos.
+19.° El que ejecutare alguno de los hechos penados en los artículos 189; 446; inciso 1° del 448; 467; 469 y 470, siempre que el delito se refiera a valores que no excedan de medio sueldo vital.
 
 20.° El que con violencia se apoderare de una cosa perteneciente a su deudor para hacerse pago con ella.
 
@@ -3578,7 +3578,7 @@ Sufrirán la pena de prisión en sus grados medio a máximo o multa de cien a mi
 
 #### Artículo 495
 
-Serán castigados con prision en sus grados mínimo a medio conmutable en multa de de diez a seiscientos pesos:
+Serán castigados con prision en sus grados mínimo a medio conmutable en multa de de sesenta centésimos de escudos a seis escudos:
 
 1.° El que contraviniere a las reglas que la autoridad dictare para conservar el orden público o evitar que se altere, salvo que el hecho constituya crimen o simple delito.
 
@@ -3620,13 +3620,13 @@ Serán castigados con prision en sus grados mínimo a medio conmutable en multa 
 
 20.° El que infringiere las reglas de seguridad concernientes a la apertura de pozos o excavaciones y al depósito de materiales o escombros, o a la colocación de cualesquiera otros objetos en las calles, plazas, paseos públicos o en la parte exterior de los edificios que embaracen el tráfico o puedan causar daño a los transeúntes.
 
-21.° El que intencionalmente o con negligencia culpable causare daño que no exceda de seis mil pesos en bienes públicos o de propiedad particular.
+21.° El que intencionalmente o con negligencia culpable causare daño que no exceda de medio sueldo vital en bienes públicos o de propiedad particular.
 
-22.° El que aprovechando aguas de otro o distrayéndolas de su curso, causare daño que no exceda de seis mil pesos.
+22.° El que aprovechando aguas de otro o distrayéndolas de su curso, causare daño que no exceda de medio sueldo vital.
 
 #### Artículo 496
 
-Sufrirán la pena de prisión en su grado mínimo conmutable en multa de cincuenta a mil pesos:
+Sufrirán la pena de prisión en su grado mínimo conmutable en multa de tres a sesenta escudos:
 
 1.° El que faltare a la obediencia debida a la autoridad dejando de cumplir las órdenes particulares que ésta le diere, en todos aquellos casos en que la desobediencia no tenga señalada mayor pena por este Código o por leyes especiales.
 
@@ -3688,7 +3688,7 @@ Sufrirán la pena de prisión en su grado mínimo conmutable en multa de cincuen
 
 30.° El que, empleando el fuego, elevare globos sin permiso de la autoridad.
 
-31.° El que, habiendo recibido de buena fe moneda falsa o cercenada o títulos de crédito falsos, los circulare después de constarle su falsedad o cercenamiento, siempre que su valor no exceda de diez pesos.
+31.° El que, habiendo recibido de buena fe moneda falsa o cercenada o títulos de crédito falsos, los circulare después de constarle su falsedad o cercenamiento, siempre que su valor no exceda de medio sueldo vital.
 
 32.° El que con objeto de lucro interpretare sueños, hiciere pronósticos o adivinaciones, o abusare de la credulidad de otra manera semejante.
 
@@ -3700,7 +3700,7 @@ Sufrirán la pena de prisión en su grado mínimo conmutable en multa de cincuen
 
 36.° El que infringiere los reglamentos de caza o pesca en el modo y tiempo de ejecutar una u otra o de vender sus productos.
 
-37.° Los empresarios del alumbrado público que faltaren a las reglas establecidas para su servicio, i los particulares que infringieren dichas reglas.
+37.° Los empresarios del alumbrado público que faltaren a las reglas establecidas para su servicio, y los particulares que infringieren dichas reglas.
 
 38.° El que indebidamente apagare el alumbrado público o del exterior de los edificios, o de los portales, teatros, u otros lugares de espectáculo o reunión, o el de las escaleras de los mismos.
 
