@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 641, de 30 de Octubre de 1995, se expropiaron los lotes de terreno Nºs 12, 15 y 25, superficies 194, 102 y 211 m2, respectivamente, roles de avalúo Nºs 188 y 17-8, Comuna de Lolol, para la obra Camino Santa Cruz Lolol-Bucalemu, Sector Santa Cruz-Lolol, y se acordó precio de indemnización con sus propietarios Nelly del Carmen Ramírez Valenzuela y María Hilda Ubilla Cubillos, ascendente a la cantidad de $691.583.- y $296.872.
+
+Fiscal del Ministerio de Obras Públicas.
