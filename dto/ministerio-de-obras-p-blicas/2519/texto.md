@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.519, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 1 y 2, superficies 1.294 y 6.980 M2., respectivamente, rol de avalúo 628-24, comuna de Ovalle, para la obra Camino Ruta D-595, Ovalle - Hurtado, sector Cruce Ruta 43 - Embalse Recoleta y se acordó precio de indemnización con su propietario Comunidad El Olivo, ascendente a la cantidad de $2.600.216.-
+
+Fiscal del Ministerio de Obras Públicas.
