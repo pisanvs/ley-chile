@@ -1,0 +1,3 @@
+Por resolución Nº 1.683 de 8 de agosto de 2002 de esta Subsecretaría, autorízase a SOUTHPACIFIC KORP S.A., para ampliar las actividades pesqueras extractivas con la nave "Montserrat", autorizada por resoluciones Nº 829, Nº 1904 y Nº 1919, todas del 2001, de esta Subsecretaría, en orden a desarrollar con la nave señalada precedentemente, en el área marítima correspondiente a la VII, VIII y X Regiones, por fuera del área de reserva artesanal, con cerco, sobre los siguientes recursos hidrobiológicos: Jurel fino, Anchoa blanca o samasa, Sardina redonda, Vinciguerria.
+
+Valparaíso, 8 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
