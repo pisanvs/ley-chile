@@ -56,11 +56,9 @@ Pertenecerán al escalafón Auxiliar los funcionarios que están a cargo del man
 
 #### Artículo 7°
 
-El Superintendentetendrá la más amplia libertad para el nombramiento y destinación del personal.
+El Superintendente tendrá la más amplia libertad para el nombramiento, remoción y destinación del personal, el cual para estos efectos y en especial para el término de sus funciones como trabajadores de la Institución, se considerará de su exclusiva confianza y permanecerán en sus cargos mientras cuenten con dicha confianza.
 
-Los funcionarios de la Superintendencia cesarán en el cargo según lo dispuesto en la ley N° 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda. Sin perjuicio de lo anterior, los cargos afectos al sistema de alta dirección pública se regirán de acuerdo a las normas que regulan dicho sistema.
-
-El personal a contrata de la Superintendencia podrá desempeñar funciones de carácter directivo o de jefatura, las que serán asignadas, en cada caso, por el Superintendente. El personal que se asigne a tales funciones no podrá exceder del 10% del personal a contrata de la institución.
+Además de las causales de término o expiración del empleo contempladas en el D.F.L. 338, de 1960, se considerará como tal al término de funciones dispuesto por el Superintendente, el cual tendrá el carácter de renuncia no voluntaria.
 
 #### Artículo 8°
 
