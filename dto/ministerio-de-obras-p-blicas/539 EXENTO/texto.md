@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 539, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 50-A, superficie 2.886 m², rol de avalúo 151-17, comuna de Portezuelo, para la obra "Camino Ruta N-60-O, Sector Río Ñuble-Portezuelo, Tramo Km. 6.900.00 al 28.833.35" y se acordó el valor de indemnización con su propietario Sergio Gatica Gatica, ascendente a la cantidad de $1.538.212.-
+
+Fiscal del Ministerio de Obras Públicas.
