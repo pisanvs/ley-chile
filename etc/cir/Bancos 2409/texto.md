@@ -8534,63 +8534,81 @@ La responsabilidad de pago a los establecimientos en los plazos convenidos que s
 
 Los referidos contratos deberán dejar debidamente especificadas las demás obligaciones que asumen las partes y ajustarse a las normas contenidas en el Título VI del Capítulo III.J.l del Compendio de Normas Financieras del Banco Central de Chile.
 
-### 3. Tarjetas de crédito
+3.- Tarjetas de crédito.
 
-3.1. Características de las tarjetas.
+3.1.- Características de las tarjetas.
 
-Las tarjetas de crédito son intransferibles y deben emitirse a nombre de su titular conteniendo la información mínima establecida en el Título VIII del Capítulo III.J.l del Compendio de Normas Financieras del Banco Central de Chile.
+Las tarjetas de crédito son intransferibles y deben emitirse a nombre de su titular, conteniendo la información mínima establecida en el Título VIII del Capítulo III.J.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
-3.2. Pérdida, hurto o robo de la tarjeta.
+3.2.- Cobro de comisiones e intereses.
+
+A fin de que los interesados puedan decidir con pleno conocimiento, respecto de las distintas marcas y clases de tarjetas de crédito que ofrecen las entidades financieras, es necesario que, además de conocer los requisitos o condiciones para acceder a ellas, tengan la suficiente información acerca de los costos que involucra cada una de ellas en términos de comisiones o intereses. Para dar cumplimiento a ese propósito las entidades financieras deberán entregar con la mayor transparencia y detalle, una especificación de los cobros establecido por esos conceptos, tanto por la mantención de la tarjeta como por las diferentes operaciones que se realicen a su amparo.
+
+3.2.1.- Cobro de comisiones.
+
+Las comisiones por la mantención y uso de las tarjetas de crédito deberán fijarse para determinados períodos que no podrán ser inferiores a un año. El plan de comisiones que afecte a un titular deberá serle informado por escrito al menos con dos meses de anticipación a la fecha en que se aplicará la nueva modalidad de cálculo o cambio de tarifas, sin perjuicio de incluirlo, conjuntamente con la información sobre el cobro de intereses a que se refiere el numeral siguiente, en un anexo que, con ese objeto, deberá acompañarse al estado de cuenta mensual. Dicho plan no podrá modificarse durante el período de vigencia que se haya establecido, salvo que se trate de cambios que signifiquen una disminución o eliminación de determinados cobros incluidos en él.
+
+La información que se entregue a los interesados para comunicarles las tarifas, deberá comprender todos los conceptos y modalidades de cobro, para que los clientes puedan tener un adecuado conocimiento de las comisiones que se les cobran y las razones de cada cobro.
+
+A los nuevos titulares de tarjetas de crédito se les entregará la información completa, al momento de contratar, debiendo éstos suscribir una constancia de haber recibido la información pertinente.
+
+Al tratarse de comisiones cobradas en forma anticipada, como puede ser una comisión por mantención, que normalmente se refiere a un período, se dejará constancia de la forma en que se procederá con las eventuales devoluciones en caso de desahucio anticipado del contrato.
+
+En ningún caso podrán cobrarse importes adicionales a las comisiones a título de gastos incurridos (como procesamiento de datos, envío de los estados de cuenta, seguros, etc.), puesto que ellos no se efectúan por cuenta de los clientes sino que corresponden a los costos necesarios para proveer el servicio ofrecido por el emisor.
+
+3.2.2.- Cobro de intereses.
+
+Los usuarios de tarjetas de crédito deberán ser informados sobre las operaciones o modalidades de pago de adquisiciones hechas con tarjetas de crédito que estarán afectas al pago de intereses, (utilización de la línea de crédito, avances en efectivo, compra de combustibles, compra en cuotas con interés, etc.), así como la tasa aplicable en cada caso, y el período por el cual se cobran, de manera que el usuario pueda decidir su opción plenamente informado del costo de la operación que realiza o se propone realizar.
+
+La información correspondiente, con el detalle de las operaciones que generan el cobro de intereses, así como la tasa de éstos y el período por el cual se cobran, deberá ser proporcionada a los clientes en el estado de cuenta que se les envía mensualmente o en un anexo a éste.
+
+3.3.- Pérdida, hurto o robo de la tarjeta.
 
 En caso de pérdida, hurto o robo de la tarjeta de crédito, el titular deberá comunicar de inmediato este hecho al emisor u operador, según corresponda, debiendo dicho emisor u operador realizar las diligencias necesarias para que la tarjeta quede bloqueada, con lo cual las transacciones posteriores que pudieren efectuarse se regirán por los acuerdos especiales de responsabilidad que deben indicarse en el contrato.
 
 El emisor u operador, según el caso, deberá establecer un procedimiento adecuado para que el titular de la tarjeta pueda cumplir oportunamente con lo indicado en el párrafo precedente.
 
-3.3. Información de tarjetas que se dejen son efecto.
+3.4.- Información de tarjetas que se dejen sin efecto.
 
 El emisor u operador, según corresponda, deberá mantener los medios y establecer los procedimientos adecuados para informar a los establecimientos afiliados, la individualización de las tarjetas de crédito que se dejen sin efecto por una causa distinta a la expiración del plazo de vigencia indicado en ellas.
 
-3.4. Seguro por mal uso de la tarjeta.
+3.5.- Seguro por mal uso de la tarjeta.
 
-El emisor podrá contratar un seguro por el mal uso que se le pueda dar a las tarjetas de crédito, cuando éstas sean perdidas, robadas o hurtadas. En la misma forma podrán contratar esos seguros los operadores de tarjetas de crédito, en los casos que estimen necesario hacerlo.
+El emisor podrá contratar un seguro por el mal uso que se le pueda dar a las tarjetas de crédito, cuando éstas sean extraviadas, robadas o hurtadas. En la misma forma podrán contratar esos seguros los operadores de tarjetas de crédito, en los casos que estimen necesario hacerlo.
 
-3.5.- Cobro de comisiones a los titulares.
-
-Las comisiones deberán fijarse para determinados períodos que no podrán ser inferiores a un año. El plan de comisiones que afecte a un titular deberá serle informado por escrito al menos con dos meses de anticipación a la fecha en que se aplicará la nueva modalidad de cálculo o cambio de tarifas. Durante el período elegido no podrá modificarse el plan informado, salvo que se trate de cambios que signifiquen una disminución o eliminación de los cobros por ese concepto.
-
-En ningún caso podrán cobrarse importes adicionales a las comisiones, a título de gastos incurridos (como procesamiento de datos, envío de los estados de cuenta, seguros, etc.), puesto que ellos no se efectúan por cuenta de los clientes sino que corresponden a los costos necesarios para proveer el servicio ofrecido por el emisor.
-
-A los interesados se les informará del sistema de comisiones vigente y del período durante el cual éste rige, así como la oportunidad o frecuencia con que se realiza su cobro. Al momento de contratar, el nuevo tarjetahabiente dejará constancia escrita de haber recibido la información pertinente.
-
-En la información que se entregue a los interesados, como asimismo en la comunicación que se envíe a los titulares para informar el cambio de modalidades o tarifas, deberán incluirse todos los antecedentes necesarios para que ellos puedan verificar posteriormente el cálculo de las
-
-comisiones que se cargan a su cuenta.
-
-Al tratarse de comisiones cobradas en forma anticipada, como ocurre normalmente cuando ellas se refieren a un período, se dejará constancia de la forma en que se procederá con las eventuales devoluciones en caso de desahucio.
-
-### 4. Estados de cuentas para el titular de la tarjeta
+3.6.- Estados de cuenta para el titular de la tarjeta.
 
 El emisor deberá remitir al titular de la tarjeta de crédito, a lo menos una vez al mes, un estado de cuenta que deberá contener, como mínimo, la siguiente información:
 
-a) Nombre del titular y número de identificación de la tarjeta:
+a) Nombre del titular y número de identificación de la tarjeta.
 
-b) Fecha del estado;
+b) Fecha del estado.
 
-c) Fecha de vencimiento y monto mínimo de pago;
+c) Fecha de vencimiento y monto mínimo de pago.
 
-d) Detalle de las compras o usos de servicios, registrados en el período informado, que indique el nombre del establecimiento, la fecha y el monto;
+d) Detalle de las compras o usos de servicios, registrados en el período informado, que indique el nombre del establecimiento, la fecha y el monto.
 
-e) Avances otorgados (fecha y monto);
+e) Avances otorgados (fecha y monto).
 
-f) Intereses (monto);
+f) Intereses (tasa, monto y período sobre el que se aplican).
 
-g) Otros cargos (concepto y monto);
+g) Otros cargos (concepto y monto).
 
-h) Pagos efectuados por el titular (fecha y monto);
+h) Pagos efectuados por el titular (fecha y monto).
 
-i) Saldo adeudado a la fecha y monto disponible; y,
+i) Saldo adeudado a la fecha y monto disponible.
 
 j) Tasa de interés que rige para el período siguiente.
+
+3.7.- Precauciones en el manejo de tarjetas de crédito.
+
+Las instituciones emisoras de tarjetas de crédito deben instruir a los usuarios acerca de las precauciones que deben tener en el manejo de sus tarjetas, como también del cuidado de mantener en reserva las claves personales que habilitan su acceso a cajeros automáticos.
+
+No menos importante son, en ese mismo sentido, las precauciones que deben observar las entidades financieras para la colocación de esos instrumentos entre los probables interesados Si bien una tarjeta de crédito no puede ser utilizada mientras no sea habilitada, no es recomendable que en las visitas que hagan los vendedores o promotores del producto a posibles clientes, lleven consigo las tarjetas ya impresas con los nombres de las personas a quienes se las ofrecerán, antes que éstas hayan resuelto aceptarlas. Este procedimiento entraña los inconvenientes de eventuales extravíos o robos de esos documentos, además de reacciones negativas de las personas a quienes se les ofrece el servicio y que no han dado su consentimiento para aceptarlo.
+
+4.- Información que debe mantenerse en las oficinas de atención de público.
+
+Las instituciones financieras que ofrezcan tarjetas de crédito al público, deberán mantener en las oficinas en que dispongan de ese servicio, una amplia información, acerca del tipo de tarjetas ofrecidas y requisitos para optar a ellas, sus principales características, como por ejemplo, si son para el uso solamente dentro del país o internacionales, las líneas de crédito asociadas y las correspondientes tasas de interés, las comisiones que las afectan, incluidos tasa o importes y periodicidad de cobro, las operaciones sujetas al pago de intereses y tasas que se aplican. Esa información podrá constar en pizarras o bien encontrarse disponible en hojas impresas, además de incorporarse a la página "web", en el caso de las instituciones financieras que cuenten con un sitio en la red de Internet, de manera que el público pueda informarse fácil y ampliamente y comparar las distintas posibilidades que le ofrece el mercado.
 
 ### 5. Instrucciones contables
 
