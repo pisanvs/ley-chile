@@ -1,0 +1,3 @@
+Por decreto MOP Nº972, de 30 de marzo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº15.840, se expropió el lote de terreno Nº8, superficie 103 m², para la obra Ruta N-545, Chillán - Tanilvoro, sector Chillán - Universidad Adventista, que figura a nombre de Rosa Josefa Retamal Muñoz, rol de avalúo 3198-68, comuna de Chillán. La Comisión de Peritos, fijó con fecha 15 de junio de 1998, el valor provisional de las indemnizaciones en la cantidad de $360.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
