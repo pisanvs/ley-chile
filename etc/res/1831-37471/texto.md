@@ -1,0 +1,3 @@
+Por Resolución N° 1.831, de 25 de octubre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por HECTOR LEONARDO BARRIA MONTIEL, para un centro de cultivo ubicado, Estero Sangra, Seno Aysén, Comuna de Aysén, Provincia de Aysén, XI Región, por no dar cumplimiento el respectivo proyecto técnico a lo dispuesto en los artículos 78° y 87° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 25 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
