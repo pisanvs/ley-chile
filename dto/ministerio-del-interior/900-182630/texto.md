@@ -82,6 +82,12 @@ Los superiores que intervengan en procedimientos disciplinarios, están obligado
 
 Las faltas se sancionarán de acuerdo con las atribuciones disciplinarias de que está investido cada superior y con arreglo al propio juicio que se forme sobre aquéllas.
 
+En la resolución respectiva deberá dejarse constancia de las circunstancias atenuantes o agravantes que
+
+concurran a favor o en contra, o en su defecto del hecho de estimarse que no concurre ninguna de éstas. Su
+
+omisión no invalidará la resolución, sin perjuicio de las sanciones a que se haga acreedor el responsable.
+
 #### Artículo 11º
 
 Los Oficiales con facultades disciplinarias deben proceder con rectitud, moderación y elevado espíritu de justicia, considerando principalmente la verdadera responsabilidad del inculpado, en relación con la naturaleza o importancia de la falta.
@@ -93,6 +99,8 @@ Deben guardar, además, la reserva y discreción necesarias para evitar que se r
 Antes de aplicar una sanción debe oírse al afectado.
 
 Cuando una falta no se establezca fehacientemente por la observación del Jefe o por la propia confesión del inculpado y, en general, cuando existan dudas sobre los hechos o grado de responsabilidad, deberá esclarecerse de conformidad con las normas dadas en el Reglamento de Sumarios Administrativos, cuando se trate de faltas graves o hechos de importancia, o mediante indagaciones verbales o escritas en los demás casos.
+
+También, antes de aplicar la sanción, el superior con potestad disciplinaria tendrá la obligación de verificar, personalmente, la forma como ésta incidirá en el próximo proceso calificatorio y clasificatorio del afectado, para lo cual deberá revisar la clasificación del año anterior, e incluso las restantes sanciones aplicadas en el año calificatorio.
 
 #### Artículo 13º
 
@@ -110,7 +118,13 @@ Cuando concurran a la comisión de una misma falta varios miembros de Carabinero
 
 #### Artículo 16º
 
-El personal que se encuentre comandado, en comisión o agregado en otra Repartición o Unidad de Carabineros, quedará sometido a la competencia disciplinaria del jefe bajo cuyas órdenes se encuentre, quien comunicará a la Repartición o Unidad respectiva, las sanciones que le haya aplicado, para los efectos de la anotación en su Hoja de Vida. Los Oficiales Superiores de dotación de la Dirección General de Carabineros que se encuentren prestando servicios en reparticiones ajenas a la Institución, estarán sujetos a la competencia disciplinaria del Director del Personal y los demás funcionarios que se encuentren en esta misma situación, a la del Jefe del Departamento P.1. o Departamento P.2. de esta misma Dirección, según corresponda. En las Jefaturas de Zona de Inspección, Prefecturas y Unidades, la competencia disciplinaria sobre el personal anteriormente señalado de su dotación, será ejercida por el Jefe de la Repartición a la cual aquél pertenezca. La misma norma del inciso segundo se aplicará también al personal que cumpla comisión de servicios en el extranjero.
+El personal que se encuentre en comisión de servicio en otra Repartición o Unidad de Carabineros, quedará sometido a la competencia disciplinaria del jefe bajo cuyas órdenes se encuentre, quien comunicará a la Repartición o Unidad respectiva, las sanciones que le haya aplicado, para los efectos de la anotación en su Hoja de Vida.
+
+Los Oficiales Superiores de dotación de la Dirección General de Carabineros que se encuentren prestando servicios en reparticiones ajenas a la Institución, estarán sujetos a la competencia disciplinaria del Director del Personal y los demás funcionarios que se encuentren en esta misma situación, a la del Jefe del Departamento P.1. o Departamento P.2. de esta misma Dirección, según corresponda.
+
+En las Jefaturas de Zona, Prefecturas y Unidades, la competencia disciplinaria sobre el personal anteriormente señalado de su dotación, será ejercida por el Jefe de la Repartición a la cual aquél pertenezca.
+
+La misma norma del inciso segundo se aplicará también al personal que cumpla comisión de servicios en el extranjero.
 
 #### Artículo 17º
 
@@ -124,7 +138,11 @@ No se impondrán castigos colectivos. En el caso que en un mismo hecho aparezcan
 
 #### Artículo 19º
 
-No podrán imponerse sanciones disciplinarias entre funcionarios del mismo grado. El más antiguo por razón de mando, pondrá los hechos en conocimiento del superior más inmediato. Tampoco podrán imponer sanciones, los que ejerzan superioridad jerárquica por subrogancia, respecto de los iguales en grado jerárquico. En tales casos, la atribución disciplinaria correspondiente también recaerá en el superior más inmediato. Con todo, los Oficiales del Escalafón Masculino de Orden y Seguridad que ejerzan mando en razón del destino que se les haya conferido, por sucesión de mando o por comisión asignada, tendrán facultades disciplinarias sobre todo el personal de otros escalafones, de su mismo grado, que le esté subordinado.
+No podrán imponerse sanciones disciplinarias entre funcionarios del mismo grado. El más antiguo por razón de mando, pondrá los hechos en conocimiento del superior más inmediato.
+
+Tampoco podrán imponer sanciones, los que ejerzan superioridad jerárquica por subrogancia, respecto de los iguales en grado jerárquico. En tales casos, la atribución disciplinaria correspondiente también recaerá en el superior más inmediato.
+
+Con todo, los Oficiales de Orden y Seguridad que ejerzan mando en razón del destino que se les haya conferido, por sucesión de mando o por comisión asignada, tendrán facultades disciplinarias sobre todo el personal de otros escalafones, de su mismo grado, que le esté subordinado.
 
 #### Artículo 20º
 
@@ -190,7 +208,7 @@ e) Las acusaciones o informes falsos, tendenciosos o exagerados contra cualquier
 
 f) Eludir el saludo a los superiores, no contestarlo o no cumplir las prescripciones reglamentarias sobre el mismo;
 
-g) Infringir el conducto regular;
+g) Infringir injustificadamente el conducto regular o denegarlo sin motivo suficiente a un subalterno, como asimismo el condicionar o coartar de cualquier forma su ejercicio;
 
 h) Formular reclamos por escrito, en contra de alguna resolución superior, en forma irrespetuosa o empleando términos o conceptos inconvenientes;
 
@@ -346,7 +364,7 @@ El arresto sin servicio obliga al afectado a permanecer todo el tiempo en el cua
 
 En casos especiales que se deriven de la peligrosidad del arrestado o como medida de seguridad, según la naturaleza de la falta, podrá mantenerse al afectado en una Sala de Arresto que no sea un calabozo común y por el tiempo estrictamente necesario. En ningún caso podrá cumplirse el arresto en el mismo lugar destinado a la detención de delincuentes o contraventores.
 
-El personal que cumpla arresto en los cuarteles podrá recibir visitas de sus familiares en las horas que sus Jefes lo determinen, salvo que al aplicar la sanción se hubiere establecido la prohibición de recibirlas, lo que podrá hacerse cuando se estime necesario para la mayor eficiencia del castigo.
+El personal que cumpla arresto en los cuarteles, podrá recibir visitas de sus familiares en las horas que sus Jefes lo determinen.
 
 El personal que al momento de ser trasladado de Unidad o Guarnición, se encontrare arrestado, deberá cumplir la totalidad de la sanción disciplinaria que le hubiere sido impuesta, antes de ser despachado.
 
@@ -402,7 +420,15 @@ Las sanciones a firme registradas en los Libros de Vida, no podrán ser anuladas
 
 #### Artículo 31º
 
-Todo el personal de la institución que no haya sufrido sanciones disciplinarias en los últimos tres años de servicios ininterrumpidos, tendrán derecho a que se dejan sin efecto aquellas registradas en su Hoja de Vida. Los Jefes de Reparticiones y Unidades estarán facultados para cancelar estas sanciones al personal de su dependencia. En la Dirección General, esta facultad quedará delegada en la Dirección del Personal. Toda sanción dejada sin efecto se considerará como no impuesta y, en consecuencia, no debe figurar en la Hoja de Vida del causante.
+Todo el personal de la institución que no haya sufrido sanciones disciplinarias en los últimos tres años de servicios ininterrumpidos, tendrá derecho y
+
+deberá solicitar que se dejan sin efecto aquellas registradas en su Hoja de Vida.
+
+Los Jefes de Altas Reparticiones, Reparticiones y Unidades serán los encargados de cancelar estas
+
+sanciones al personal de su dependencia directa.
+
+Toda sanción cancelada se considerará como no impuesta y, en consecuencia, no debe figurar en la Hoja de Vida del causante; así como tampoco constancia alguna relacionada con el ejercicio de esta acción.
 
 #### Artículo 32º
 
@@ -464,7 +490,9 @@ DE LA COMPETENCIA DISCIPLINARIA
 
 #### Artículo 35
 
-o- Tendrán atribuciones para imponer sanciones disciplinarias al personal de su dependencia, en los diferentes grados, los Oficiales de Orden y Seguridad que desempeñen los siguientes cargos: 1º) De primer grado. Correspondiente a los Jefes de
+o- Tendrán atribuciones para imponer sanciones disciplinarias al personal de su dependencia, en los diferentes grados, los Oficiales de Orden y Seguridad que desempeñen los siguientes cargos:
+
+1º) De primer grado. Correspondiente a los Jefes de
 
 Tenencias, quienes podrán aplicar las sanciones que se
 
@@ -492,41 +520,79 @@ e) A Empleados Civiles a Contrata: amonestación,
 
 reprensión y arresto hasta de cuatro (4) días.
 
-2º) De segundo grado. Correspondiente a los
+2º) De segundo grado ''A''.- Correspondiente a los
 
-Comisarios, Jefes de Grupos y Escuadrones, Mayores y
+Subcomisarios a cargo de Subcomisarías, Capitanes Jefes
 
-Capitanes Jefes de Grupos de Instrucción, Ayudantes de
+de Grupos de Formación Policial, Comandantes de
 
-Reparticiones y Subcomisarios a cargo de Subcomisarías,
+Escuadrones y Ayudantes de Reparticiones, quienes podrán
 
-quienes podrán aplicar.
+aplicar:
 
-a) A Oficiales subalternos: amonestación,
+a) A Oficiales Subalternos: Amonestación, reprensión y
 
-reprensión y arresto hasta de cuatro (4) días;
+arresto hasta de dos (2) días;
 
 b) A Suboficiales Mayores, Suboficiales y Sargentos
 
-1ºs.: amonestación, reprensión y arresto hasta de ocho
+Primeros: Amonestación, reprensión y arresto hasta de
 
-(8) días;
+cuatro (4) días;
 
-c) A Sargentos 2ºs., Cabos 1ºs., Cabos 2ºs. y
+c) A Sargentos Segundos, Cabos Primeros, Cabos Segundos
 
-Carabineros: amonestación, reprensión y arresto hasta de
+y Carabineros: Amonestación, reprensión y arresto hasta
 
-quince (15) días;
+de ocho (8) días;
 
 d) A Empleados Civiles de Nombramiento Supremo:
 
-amonestación, reprensión y arresto hasta de cuatro (4)
+Amonestación, reprensión y arresto hasta de dos (2)
 
 días, y
 
-e) A Empleados Civiles a Contrata: amonestación,
+e) A Empleados Civiles de Nombramiento Institucional:
 
-reprensión y arresto hasta de ocho (8) días.
+Amonestación, reprensión y arresto hasta de cuatro (4)
+
+días.
+
+2º BIS) De segundo grado ''B''.- Correspondiente a los
+
+Comisarios y a los Mayores Jefes de Grupos de Formación
+
+Policial y Ayudantes de Reparticiones, quienes podrán
+
+aplicar:
+
+a) A Oficiales Subalternos: Amonestación, reprensión y
+
+arresto hasta de cuatro (4) días;
+
+b) A Suboficiales Mayores, Suboficiales y Sargentos
+
+Primeros: Amonestación, reprensión y arresto hasta de
+
+ocho (8) días;
+
+c) A Sargentos Segundos, Cabos Primeros, Cabos Segundos
+
+y Carabineros: Amonestación, reprensión y arresto hasta
+
+de quince (15) días;
+
+d) A Empleados Civiles de Nombramiento Supremo:
+
+Amonestación, reprensión y arresto hasta de cuatro (4)
+
+días, y
+
+e) A Empleados Civiles de Nombramiento Institucional:
+
+Amonestación, reprensión y arresto hasta de ocho (8)
+
+días
 
 3º) De tercer grado. Correspondiente a los
 
@@ -572,19 +638,15 @@ f) A Empleados Civiles a Contrata: amonestación,
 
 reprensión y arresto hasta de quince (15) días.
 
-4º) De cuarto grado. Correspondiente al Coronel
+4º) De cuarto grado.- Correspondiente a los Prefectos
 
-Subsecretario de Carabineros, a los Segundos Jefes de
+y Directores de la Academia de Ciencias Policiales,
 
-Zona de Inspección, Prefectos Provinciales y
+Escuela de Carabineros, Escuela de Suboficiales y
 
-Encuadrados, Prefectos Segundos y Tercer Jefe en la
+Escuela de Formación Policial, quienes podrán
 
-Prefectura General de Santiago, Directores del Instituto
-
-Superior, Escuela de Carabineros y Escuela de
-
-Suboficiales, quienes podrán aplicar:
+aplicar:
 
 a) A Oficiales Jefes: amonestación, reprensión y
 
@@ -630,7 +692,7 @@ del empleo o separación del servicio, según corresponda.
 
 Consejo Asesor Superior, Inspector General, Jefes de
 
-Direcciones, Jefes de Zona de Inspección, Prefecto Jefe
+Direcciones, Jefes de Zona, Prefecto Jefe
 
 de Santiago y Oficiales Generales de Orden y Seguridad,
 
@@ -728,11 +790,13 @@ Coronel cuarto grado
 
 Teniente Coronel tercer grado
 
-Mayores y Capitanes segundo grado
+Mayores Segundo Grado B
+
+Capitanes Segundo Grado A
 
 Tenientes y Subtenientes primer grado
 
-Los Oficiales de Intendencia que se desempeñen como Jefes de Subdirecciones, Servicios, Departamentos, Secciones o Subsecciones en la Dirección General, como también aquellos que se desempeñen como Jefes de Contralorías Zonales o Administraciones de Caja de Prefecturas u otras Reparticiones, tendrán las atribuciones disciplinarias señaladas en el inciso precedente, de acuerdo a su grado jerárquico, sobre el personal que les esté directamente subordinado, con excepción de los Oficiales de Orden y Seguridad.
+Los Oficiales de Intendencia que se desempeñen como Jefes de Direcciones, Subdirecciones, Servicios, Departamentos, Secciones o Subsecciones en la Dirección General, como también aquellos que se desempeñen como Jefes de Contralorías Zonales o Administraciones de Caja de Prefecturas u otras Reparticiones, tendrán las atribuciones disciplinarias señaladas en el inciso precedente, de acuerdo a su grado jerárquico, sobre el personal que les esté directamente subordinado, con excepción de los Oficiales de Orden y Seguridad.
 
 Los Oficiales Asimilados que se desempeñen en la Dirección General como Jefes de Subdirecciones, Servicios, Departamentos, Secciones o Subsecciones, el Director del Hospital de Carabineros, como asimismo los Jefes de Policlínicos y Jefes de Divisiones Médicas, tendrán sobre el personal que les esté directamente subordinado, con excepción del de Orden y Seguridad e Intendencia, las siguientes facultades disciplinarias:
 
@@ -742,7 +806,9 @@ Coronel cuarto grado
 
 Teniente Coronel tercer grado
 
-Mayores y Capitanes segundo grado
+Mayores Segundo Grado B
+
+Capitanes Segundo Grado A
 
 Tenientes y Subtenientes primer grado
 
@@ -756,7 +822,9 @@ Coronel cuarto grado
 
 Teniente Coronel tercer grado
 
-Mayores y Capitanes segundo grado
+Mayores Segundo Grado B
+
+Capitanes Segundo Grado A
 
 Tenientes y Subtenientes primer grado
 
@@ -798,7 +866,7 @@ El plazo para los reclamos de otra naturaleza en contra de una medida aplicada p
 
 o- Si hubiere motivos justificados que impidieren al reclamante hacer su presentación en los plazos reglamentarios establecidos, podrá el afectado manifestar su deseo de hacerlo, pidiendo, al mismo tiempo, un plazo para la reunión de los antecedentes necesarios que abonen su reclamación, caso en el cual el Jefe que deba resolverla, podrá concederle la prórroga en resolución fundada.
 
-Estas prórrogas deberán solicitarlas los interesados antes de que se venza el plazo que se pide prorrogar.
+> **Nota.** El Nº 16 del Decreto 403, Defensa, publicado el 09.11.2000, reemplazó en el presente artículo el número "dos" por "cinco". Esta modificación no se ha podido ingresar, por cuanto no se encuentra la palabra que se trata de modificar.
 
 #### Artículo 45
 
@@ -888,7 +956,31 @@ Definiciones
 
 #### Artículo 58º
 
-Para los efectos de este Reglamento, los términos que a continuación se indican, tendrán el siguiente significado: Antigüedad: Es el tiempo de permanencia de un funcionario en un grado. La mayor antigüedad dentro de un mismo escalafón en igualdad de grado se determinará por la fecha de ascenso o nombramiento. En casos de ascensos o nombramientos con la misma fecha, se considerarán lo que sobre el particular determine el Reglamento de Selección y Ascensos, N° 8. La antigüedad entre Oficiales pertenecientes a diferentes escalafones, en igualdad de grados jerárquicos se determinará conforme al siguiente orden de precedencia: 1º) Oficiales de Orden y Seguridad masculinos; 2º) Oficiales de Orden y Seguridad femeninos; 3º) Oficiales de Intendencia, y 4º) Oficiales Asimilados. La antigüedad entre Oficiales Asimilados de igual grado jerárquico, pertenecientes a distintos escalafones, se determinará de acuerdo al orden de precedencia que al respecto establece el artículo 1º del decreto con fuerza de ley N° 2, de 1968, del Ministerio del Interior. Los Oficiales de Orden y Seguridad, en igualdad de grados jerárquicos, se considerarán más antiguos que los Asimilados. Conducta: Es la calificación del comportamiento funcionario y privado del personal y se determinará de acuerdo con la correspondiente Hoja de Vida. Empleos equivalentes: Son aquellos que se igualan con los de Orden y Seguridad, sirviendo de base la función o renta. Escala jerárquica: Es la relación de precedencia, en grado y antigüedad, que existe entre superior y subalterno. Multa: Pena pecuniaria que se impone con motivo de una falta y que consiste en privar a un funcionario de parte de su sueldo, con la obligación de desempeñar el cargo. Prescripción: Extinción de la responsabilidad proveniente de una falta, por el transcurso del tiempo. Reincidencia: Es el hecho de volver a cometer una falta, después de haber sido sancionado por la misma o por otra falta de similar naturaleza, en el período de un año. Reiteración: Es el hecho de volver a cometerse una falta, pero sin que haya mediado sanción. Subalterno: Es el que tiene con relación a otro, un grado inferior en la escala jerárquica. Subordinado: Es el subalterno que se encuentra permanente o transitoriamente bajo el mando directo de un determinado superior. Superior: Tiene el mismo alcance que se determina en el artículo 430º del Código de Justicia Militar. Superior directo: Es el que tiene mando o acción disciplinaria directa e inmediata sobre determinados subalternos.
+Para los efectos de este Reglamento, los términos que a continuación se indican, tendrán el siguiente significado:
+
+Antigüedad: Tiene el mismo alcance que se determina en el artículo 45º y siguientes de la ley Nº 18.961, Orgánica Constitucional de Carabineros de Chile.
+
+Conducta: Es la calificación del comportamiento funcionario y privado del personal y se determinará de acuerdo con la correspondiente Hoja de Vida.
+
+Empleos equivalentes: Son aquellos que se igualan con los de Orden y Seguridad, sirviendo de base la función o renta.
+
+Escala jerárquica: Es la relación de precedencia, en grado y antigüedad, que existe entre superior y subalterno.
+
+Multa: Pena pecuniaria que se impone con motivo de una falta y que consiste en privar a un funcionario de parte de su sueldo, con la obligación de desempeñar el cargo.
+
+Prescripción: Extinción de la responsabilidad proveniente de una falta, por el transcurso del tiempo.
+
+Reincidencia: Es el hecho de volver a cometer una falta, después de haber sido sancionado por la misma o por otra falta de similar naturaleza, en el período de un año.
+
+Reiteración: Es el hecho de volver a cometerse una falta, pero sin que haya mediado sanción.
+
+Subalterno: Es el que tiene con relación a otro, un grado inferior en la escala jerárquica.
+
+Subordinado: Es el subalterno que se encuentra permanente o transitoriamente bajo el mando directo de un determinado superior.
+
+Superior: Tiene el mismo alcance que se determina en el artículo 430º del Código de Justicia Militar.
+
+Superior directo: Es el que tiene mando o acción disciplinaria directa e inmediata sobre determinados subalternos.
 
 ## Título XII
 
