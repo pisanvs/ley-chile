@@ -14854,6 +14854,8 @@ IV.- DISPOSICION TRANSITORIA.
 
 El plazo adicional de 18 meses a que se refiere el numeral 4 2 del título I de este Capítulo, podrá aplicarse también a los bienes que no se encuentren en las situaciones que se indican en ese numeral, cuando se trate de bienes recibidos o adjudicados en pago durante los años 1999, 2000, 2001 y 2002.
 
+Asimismo, podrá aplicarse un plazo adicional de 12 meses a los bienes recibidos o adjudicados en pago durante el año 2003 y que no correspondan a acciones de sociedades anónimas, siempre que se presente a esta Superintendencia un programa para la enajenación de esos bienes, aprobado por el Directorio. En la información que se entregue se explicarán las razones que, a juicio del Directorio, justifican la prórroga, y se detallarán los bienes a los cuales se les aplicará el mayor plazo.
+
 APITULO 10-2 (Bancos y Financieras)
 
 MATERIA:
