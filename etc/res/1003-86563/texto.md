@@ -1,0 +1,7 @@
+Por resolución No. 1003 de 21 de Octubre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción autorízase a SALMONES ANTARTICA S.A. RUT No.
+
+86.100.500-3, para ampliar actividades pesqueras que tiene autorizadas por Resoluciones No. 783 de 1988 y No. 1699 de 1988 ambas de esta Subsecretaría, en orden a elaborar en las líneas de proceso que se indican en la planta autorizada por las Resoluciones individualizadas precedentemente ubicada en calle Costanera s/n° Dalcahue comuna de Chiloé Provincia de Chiloé X Región, los siguientes recursos hidrobiológicos: Congelado y fresco - refrigerado; Brótula Cabrilla comon Chancharro, Cojinoba del norte, Corvina Lenguado de ojos chicos Lenguado de ojos grandes Merluza comon Merluza de cola Palometa Puye Salmón cereza Salmón keta Sierra Trucha Calamar Caracol tegula Caracol trumulco, Chorito Culengu, Lapa, Macha, Navaja de mar o huepo, Piure.
+
+La materia prima será adquirida a pescadores artesanales. Deberá adquirir los recursos Salmón cereza, Salmón keta y Trucha de centros de cultivos debidamente autorizados. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 21 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
