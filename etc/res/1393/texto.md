@@ -1,0 +1,13 @@
+Por Resolución N° 1.393 de 31 de Diciembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA LOA SUR S.A., R.U.T. N° 95.059.000-9, domiciliada en Santiago, para desarrollar actividades pesqueras extractivas, en ejercicio del derecho que se le reconoce en virtud de lo dispuesto en el Artículo 3° transitorio incisos 3° y 4°, de la Ley General de Pesca y Acuicultura, la interesada podrá ingresar la nave que se individualiza, a la unidad de pesquería de la especie jurel, para operarla en la zona que se indica en el numeral 3° de esta resolución, con la nave "Loa 25".
+
+Fíjase como zona de operación de la embarcación individualizada en el numeral precedente, el litoral de las Regiones V, VI, VII y IX, donde podrá extraer los siguientes recursos hidrobiológicos: Agujilla, Anchoveta, Caballa, Jurel, Sardina, Sardina común, Merluza de cola.
+
+La operación de la planta industrial, ubicada en San Antonio, en calle Bernardo O'Higgins 2050 autorizada al solicitante mediante Resolución N° 552, de 1991, que constituye el fundamento de la presente resolución que le autoriza para operar una nueva nave, de acuerdo a la disposición legal citada en el numeral 1° de esta resolución, deberá tener completada su capacidad autorizada de procesamiento en la línea de reducción, ascendente a 120 toneladas, materia prima por hora, antes del 5 de septiembre de 1993.
+
+En el evento que no se diere cumplimiento a la instalación de la planta, con la señalada capacidad de procesamiento, dentro del plazo precisado en el numeral anterior, caducará por el solo ministerio de la ley la autorización para operar esa planta industrial, individualizada en el numeral precedente; y caducará también la autorización para desarrollar actividades extractivas, con la embarcación autorizada en virtud de la presente Resolución.
+
+La presente autorización solo será transferible de conformidad a las disposiciones generales del Decreto N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, una vez que se haya instalado y completado por el interesado la capacidad de procesamiento de la planta industrial individualizada en el numeral sexto, lo cual deberá ser acreditado ante esta Subsecretaría al momento de solicitarse el certificado a que se refiere el Artículo 23 de la citada ley, sin perjuicio de la fiscalización que corresponde efectuar al Servicio Nacional de Pesca.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 31 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
