@@ -1,0 +1,7 @@
+Certifico: Que por Resolución N° 226 de 2 de Noviembre de 1995, se aprobó reforma de estatutos de la sociedad anónima "Bhif América Seguros de Vida S.A.", que consta de la escritura pública de 22 de Agosto de 1995, otorgada ante el Notario de Santiago, don Pedro Ricardo Reveco Hormazábal.
+
+La reforma consiste en:
+
+1.- Aumentar el capital de $2.958.453.980.-, dividido en 2.042 acciones sin valor nominal, de las cuales 1.542 corresponden a acciones ordinarias serie A y 500 a acciones preferidas serie B, a la suma de $3.881.545.185.- dividido en 2.462 acciones sin valor nominal, de las cuales 1.542 corresponden a acciones ordinarias serie A, 500 a acciones preferidas serie B y 420 a acciones preferidas serie C sin derecho a voto, dentro del plazo de 3 años contado desde el 16 de Agosto de 1995. Capital ha quedado íntegramente suscrito; y 2.- Establecer una preferencia para las acciones de la Serie C, sin derecho a voto, consistente en el poder requerir la convocatoria a junta de accionistas cuando así lo soliciten accionistas de dicha Serie C que representen, a lo menos, el 10% de las acciones emitidas de la misma, preferencia que tendrá una duración de 40 años contado desde el 16 de Agosto de 1995.
+
+Santiago, 2 de Noviembre de 1995.- Rodrigo O. Costa Aranda, Secretario General.
