@@ -1,0 +1,3 @@
+Por resolución No.709 de 2 de agosto de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. 2186 de 1978, -parte inmueble- ubicado en calle Ricardo Santa Cruz No.658, presunto rol avalúos 626-40 comuna Santiago aparentemente dominio de don Jorge Ibarra Varas o de su sucesión. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos y Walter Soto Silva, ingeniero civil, según informe de 31 de enero de 1989, fijó monto provisional indemnización en $ 1.425.000.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
