@@ -1,0 +1,3 @@
+Por Resolución N° 719, de 12 de abril de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 899, de 1991, modificatoria de la Resolución N° 715, de 1989, ambas de esta Subsecretaría, que autorizó a EMPRESA PESQUERA NICHIRO CHILE LIMITADA, para instalar y operar un establecimiento de cultivo ubicado en Laguna Trapén, sector Trapén Alto, comuna de Puerto Montt, provincia de Llanquihue, X Región, en virtud de lo dispuesto en la Resolución N° 886, de 1994.
+
+Valparaíso, 12 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
