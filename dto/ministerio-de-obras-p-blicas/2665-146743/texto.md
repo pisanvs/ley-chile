@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.665, de 24 de septiembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº32-1A, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli-Temuco'';
+
+Km. 596,92000 al Km. 607,84000, Novena Región, que figura a nombre de Soc. Comerc. e Ind. Inversiones Ximpla, rol de avalúo 536-20, comuna de Victoria, superficie de 1.778 m². La Comisión de Peritos integrada por los señores Luis Javier Donoso Moreno, Patricio Fernando Casagrande Ulloa y Hugo Wilibaldo Repetto Vera, fijó con fecha 5 de marzo de 1999, el valor provisional de la indemnización en la cantidad de $741.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
