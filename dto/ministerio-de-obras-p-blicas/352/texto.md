@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°s 352, 371 y 374, de fechas 28 y 29 de Octubre de 1993, respectivamente, se expropiaron los lotes de terreno N°s 4, 6, 1, 5, 2, 3 y 7, superficies 960 M2., 935 M2., 240 M2., 520 M2., 336 M2., 510 M2. y 2.285 M2., roles de avalúos 123-018, 123-019 y 123-016, Comuna de Pencahue, para las obras Regadío Pencahue, Canal del Tranque Planta y Derivado Uno y Canal del Tranque y se acordó precio de indemnización con sus propietarios Sergio Rocco Bravo, Jaime Castro Castro y Julio Abaca Abaca y otros, ascendente a la cantidad de $116.769, $46.817 y $152.867.
+
+Fiscal del Ministerio de Obras Públicas.
