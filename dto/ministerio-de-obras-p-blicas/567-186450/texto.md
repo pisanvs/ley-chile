@@ -1,0 +1,3 @@
+Por decreto MOP Nº 567 de fecha 30 de abril del 2001, se expropiaron los lotes de terreno Nºs. 10 al 22, superficie 60, 406, 131,5, 153, 91, 125, 195, 240, 124, 267, 198,5, 994,5, 628 m2., Rol de avalúo 134-29, comuna de Paihuano, para la obra "Camino Ruta 41-CH, Sector Huanta-Juntas del Toro, Tramo Km. 106.500,00 a Km. 147.242,20" y se acordó el valor de indemnización con su propietario Comunidad Vallecillos y Río Seco, ascendente a la cantidad de $642.255.-
+
+Fiscal del Ministerio de Obras Públicas.
