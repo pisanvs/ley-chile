@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.444, de 18 de noviembre de 1998, se modificó el decreto MOP No. 309, de 30 de abril de 1996, que expropió los lotes de terreno No. s 22 y 23, para la obra Camino Salamanca Llimpo, que figura a nombre de Pedro Antonio Pizarro Saavedra, rol de avalúo 244-023, comuna de Salamanca, IV Región, ordenándose la consignación judicial del valor provisional de la indemnización ascendente a la cantidad de $ 61.250, por haber quedado sin efecto el convenio directo del precio suscrito con el expropiado. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
