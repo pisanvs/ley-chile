@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.934, de 30 de diciembre de 1998, se expropiaron los lotes de terreno No. s. 42 y 43, superficies 712 y 1.465 m2., respectivamente, rol de avalúo 24-27, comuna de Navidad, para la Obra Camino Ruta G - 880, Sector Rapel - Navidad - La Boca y se acordó precio de indemnización con su propietario Remberto Orellana, ascendente a la cantidad de $ 12.903.324.- para los lotes 42 y 43.-
+
+Fiscal del Ministerio de Obras Públicas.
