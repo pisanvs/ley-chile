@@ -1,0 +1,3 @@
+Por decreto MOP. Exento Nº 1.152, de fecha 31 de julio de 2002, se expropió el lote de terreno Nº 114-A, superficie 510 M2, rol de avalúo en trámite, comuna de Río Hurtado, IV Región, para la obra ''Camino Ruta D-595, Ovalle-Hurtado, Sector Tranque Recoleta-Samo Alto, Km. 9,78000 al 31,84000'' y se acordó el valor de indemnización con su propietario doña Norma Isabel Ramos Pastén, ascendente a la cantidad de $1.064.975.-
+
+Fiscal del Ministerio de Obras Públicas.
