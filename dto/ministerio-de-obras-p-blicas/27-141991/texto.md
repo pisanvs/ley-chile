@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 27, de 13 de febrero de 1987, se expropiaron los lotes N°s. 10 y 12, cuyas superficies son 11.120 m2. y 2.516 m2., roles de avalúo 4922-6 y 4922-1, Comuna de San Antonio, para la obra camino nuevo acceso al Puerto de San Antonio, sector Bajada a Barrancas, y se acordó el precio de indemnización con su propietario el Servicio de Vivienda .y Urbanización V Región, ascendente a 24.060 cuotas de ahorro para la vivienda.
+
+Fiscal del Ministerio de Obras Públicas. (16)
