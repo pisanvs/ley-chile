@@ -1,0 +1,7 @@
+AUTORIZA A SOCIEDAD PESQUERA MAMIÑA S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 1.183 de 29 de Agosto de 1989 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera Mamiña S.A., R.U.T. No. 96.508.940-3, domiciliada en Santiago, para ampliar actividades pesqueras que tiene autorizadas por Resolución No. 562, de 1988, de esta Subsecretaría, en orden a incluir en la planta industrial autorizada por Resolución No. 562, antes citada, las líneas de elaboración de seco - salado, ahumado, conservas, pulpa y salado, donde procesará los siguientes recursos hidrobiológicos: Conservas: Albacora o pez espada, Anchoa o Anchoveta, Jurel, Sardina común, Sardina, Calamar y Loco. Pulpa: Albacora o pez espada, Congrio colorado, Congrio dorado, Congrio negro, Jurel, Merluza común, Sardina, Jaiba y Jaiba mora. Ahumado: Congrio colorado, Congrio dorado, Congrio negro y Jurel. Salado: Anchoa o Anchoveta. Seco - salado: Merluza común. Asimismo se le autoriza para incorporar en las líneas de elaboración de congelado y fresco autorizadas por la Resolución señalada precedentemente, los siguientes recursos hidrobiológicos: Azulejo, Corvina, Marrajo o tiburón, Merluza del Sur, Pejegallo, Pejezorro, Sardina común, Pulpo, Jaiba y Jaiba mora.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de Agosto de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
