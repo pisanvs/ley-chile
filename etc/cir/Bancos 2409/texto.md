@@ -9408,7 +9408,9 @@ d) Las comisiones y cualquier otra suma a que tenga derecho el Fondo.
 
 <!-- parte:9633263 -->
 
-El Administrador percibirá anualmente una comisión del 10% sobre el resultado del Fondo obtenido con la aplicación del sistema de corrección monetaria, descontando para estos efectos las comisiones percibidas y devengadas por el otorgamiento de las garantías, agregando las garantías pagadas y por pagar.
+El Administrador percibirá anualmente una comisión de administración igual al 0,15% sobre las garantías formalizadas que se encuentren registradas al término del ejercicio anual.
+
+Adicionalmente, tendrá derecho a una comisión del 10% sobre el resultado del Fondo, antes de aplicar la comisión de administración a que se refiere este artículo, siempre que dicho resultado sea positivo.
 
 #### Artículo 26
 
