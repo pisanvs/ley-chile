@@ -1,0 +1,3 @@
+Por Resolución N° 18 de 6 de Enero de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, Autorízase a ALMA ELOISA FERNANDEZ GALLARDO, R.U.T. N° 6.994.572-4, para iniciar actividades pesqueras en orden a operar la planta ubicada en Palazuelos N° 248, Pitrufquén, IX Región, en las líneas de elaboración de semi-conserva y ahumado, los siguientes recursos hidrobiológicos: Salmón del Atlántico, Salmón plateado, Salmón rey, Trucha arcoiris, Trucha café, Jurel.
+
+Valparaíso, 6 de Enero de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
