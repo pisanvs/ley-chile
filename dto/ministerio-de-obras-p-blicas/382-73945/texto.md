@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 382, de 21 de abril de 1997, se expropiaron los lotes de terreno Nºs. 22 y 23, superficies 11.300 y 7.360 m2., roles de avalúo Nºs. 185-35 y 185-33, Comuna de Arauco, para la obra Camino Arauco - Llico, Sector Curaquilla - Llico, y se acordó precio de indemnización con sus propietarios Irma A. Medina Oyharcabal y Carlos Oyharcabal Tapia, ascendente a la cantidad de $11.268.360.- lote 22 y $1.479.532.- lote 23.-
+
+Fiscal del Ministerio de Obras Pú-blicas.
