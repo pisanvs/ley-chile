@@ -1,0 +1,7 @@
+Por resolución exenta No. 66 de 07 de Febrero de 1990, la Subsecretaría de Telecomunicaciones ha procedido a aclarar el procedimiento por cobro del cargo de asignación de línea, en el caso de venta anticipada de líneas.
+
+La citada resolución establece que el valor a cancelar por el cargo indicado, debe corresponder al previsto para el área de Central a la cual pertenezca el domicilio del solicitante, vigente a la fecha en que la concesionaria se compromete a la instalación del servicio contratado, o bien a la fecha en que dicho servicio realmente se instale. Asimismo, se establece que si durante el período que medie entre la suscripción del contrato de servicio telefónico y la instalación efectiva de dicho servicio se produce alguna rebaja del cargo de asignación de líneas, la concesionaria deberá reintegrar la diferencia cobrada debidamente reajustada, renegociando la forma de devolución directamente con el suscriptor.
+
+La Subsecretaría de Telecomunicaciones proporcionará ejemplares de la citada resolución a los organismos fiscales y semifiscales y a las instituciones o personas que tengan relación con la materia de que trata.-
+
+Gustavo Arenas Corral, Coronel, Subsecretario de Telecomunicaciones.
