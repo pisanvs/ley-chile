@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD TORRES Y RIVERA LIMITADA PARA SUSTITUIR EMBARCACION QUE INDICA
+
+Por resolución No. 800, de 04 de Agosto de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Torres y Rivera Limitada, R.U.T. No. 88.642.800-6, domiciliada en Talcahuano, para sustituir en el litoral de la VIII Región, la embarcación denominada Esturión, autorizada por resolución No. 412, de 1985, de esta Subsecretaría, por la embarcación denominada Nortemar I. Podrá extraer en el litoral de la IV a VIII Región, los siguientes recursos hidrobiológicos: Anchoa, Caballa, Cojinoba, Jurel, Merluza común, Sardina común y Sardina española. A partir de la fecha de inicio de operación de la embarcación Nortemar I, quedará sin efecto la resolución No. 412, de 1985, de esta Subsecretaría, que autorizó a operar la nave Esturión. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 04 de Agosto de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
