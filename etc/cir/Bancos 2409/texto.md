@@ -10296,6 +10296,14 @@ c) Las garantías forman parte integrante del proceso crediticio y de la clasifi
 
 d) Las apreciaciones del riesgo acerca del deudor, efectuadas por la institución financiera, deben constar explícitamente en la carpeta del cliente con su debida fundamentación.
 
+2.5. Garantías constituidas por cartas de crédito stand-by.
+
+Para efectos de clasificar la cartera de créditos comerciales de acuerdo con las instrucciones del numeral 2.2 de este titulo, se considerarán las garantías constituidas por cartas de crédito stand-by solamente cuando éstas cumplan las siguientes condiciones:
+
+a) Sean emitidas por una institución financiera de reconocido prestigio internacional, que opere en el mercado financiero formal dentro del país donde esté establecido. Por consiguiente, no se considerarán, entre otras, aquellas cartas de crédito stand-by emitidas por entidades que desarrollen actividades tales como el "Off-Shore Banking".
+
+b) Se trate de cartas de crédito emitidas por entidades bancarias distintas de la casa matriz u otra sucursal del mismo banco en el exterior o una filial de aquélla. Para este efecto, el término "casa matriz" debe entenderse referido tanto a la entidad matriz de los bancos extranjeros establecidos en Chile como agencias, como a la institución extranjera que tiene participación mayoritaria en un banco constituido en el país como sociedad anónima.
+
 ### 3. Clasificación de la cartera de créditos de consumo
 
 3.1. Créditos que se deben clasificar.
@@ -10578,7 +10586,7 @@ Si la institución financiera determina una pérdida superior a la informada por
 
 ### 1. Criterios de evaluación
 
-La evaluación de los bienes recibidos o adjudicados en pago consiste en comparar el monto individual contabilizado, incluida su corrección monetaria, cuando proceda, con su valor estimado de venta, a fin de establecer las posibles pérdidas o sobrevaloraciones involucradas. Al tratarse de acciones o derechos en sociedades, éstos se clasificarán de conformidad con lo señalado en el numeral 1.2 de este título.
+La evaluación de los bienes recibidos o adjudicados en pago se hará sobre la base del valor en que, de acuerdo con las condiciones normales de mercado, se estime que podrán venderse. En el caso de las acciones o derechos en sociedades, la evaluación se realizará mediante el procedimiento de clasificación señalado en el numeral 1.2 de este título.
 
 El valor estimado de venta debe basarse en un valor comercial de referencia calculado a partir de información confiable. En ningún caso el valor comercial debe estimarse a partir de meras expectativas de mejoramiento de precios en el mercado o supuestos de carácter financiero relacionados con potenciales clientes, sino que se seguirá un criterio estrictamente conservador, fundado en las condiciones vigentes del mercado. El valor estimado de venta considerará sólo el monto neto que se obtendría en la enajenación del bien.
 
@@ -10594,7 +10602,7 @@ b) Que cuente con suficientes antecedentes de respaldo referidos a los precios u
 
 c) Que se encuentre actualizada mientras el bien permanezca en poder de la institución. En todo caso su máxima antigüedad no podrá exceder de 18 meses.
 
-Estas tasaciones servirán para determinar las sobrevaloraciones de estos bienes, siempre que no existan otros antecedentes más exactos sobre su valor comercial, como podrían ser ventas recientes de bienes similares. De igual manera, cualquier cambio que pudiera tener impacto en su valoración deberá incorporarse por la vía de su oportuna retasación.
+Estas tasaciones servirán para determinar la diferencia entre el valor registrado en el activo y el valor estimado de realización, siempre que no existan otros antecedentes más exactos sobre su valor comercial, como podrían ser ventas recientes de bienes similares. De igual manera, cualquier cambio que pudiera tener impacto en su valoración deberá incorporarse por la vía de su oportuna retasación.
 
 1.2. Acciones y derechos en sociedades.
 
@@ -10622,9 +10630,11 @@ Esta Superintendencia en sus revisiones habituales examina la documentación de 
 
 ### 3. Exigencia de provisiones
 
-Las provisiones que deben constituirse por los bienes recibidos o adjudicados en pago, serán equivalentes a la diferencia entre el valor contable de los bienes y el valor estimado de realización de los mismos.
+La provisión que debe mantenerse por los bienes recibidos en pago será equivalente a la diferencia que se determine de comparar el monto total registrado en el activo por dichos bienes con el total resultante de la suma de los valores estimados de venta de los mismos, obtenidos de acuerdo con lo instruido en los numerales precedentes de este título.
 
-Sin embargo, en el caso de las acciones y derechos en sociedades, sujetos a clasificación, las provisiones para cada uno de ellos ascenderán: al 1% de los activos clasificados en categoría B; al 20% de los clasificados en categoría B-; al 60 % de los clasificados en categoría C; y, al 90% de los clasificados en categoría D.
+Para ese efecto, las acciones o derechos en sociedades se tomarán como un conjunto dentro del total de los bienes recibidos o adjudicados en pago, considerando como diferencia entre el valor contable y el valor estimado de venta de ese conjunto, el monto que se obtiene de aplicar; el 1% al valor registrado en el activo de las acciones o derechos clasificados en categoría B; el 20% a los clasificados en categoría B-; el 60% a los clasificados en categoría C; y, el 90% a los clasificados en categoría D.
+
+En ningún caso se considerarán dentro de aquellos cálculos, los valores de los bienes que hubieren sido castigados.
 
 ### V. OTRAS DISPOSICIONES
 
@@ -10646,9 +10656,9 @@ Las instituciones financieras que mantengan acciones recibidas por deudas capita
 
 constitución de las respectivas provisiones, se calculará de acuerdo con lo dispuesto en el N° 3 del mismo título.
 
-3.2. Clasificación de la cartera de préstamos hipotecarios para la vivienda.
+3 2. Validez de las cartas de crédito stand-by distintas de las establecidas en estas normas.
 
-La clasificación de los préstamos hipotecarios para la vivienda en las tres categorías dispuestas en el numeral 4.2 del título II de este capítulo, será considerada en el riesgo que informará esta Superintendencia a cada institución financiera como consecuencia de su visita habitual de inspección. Hasta tanto ello no suceda, las instituciones fiscalizadas deberán atenerse a la clasificación que mantenían vigente con anterioridad a estas normas.
+Con el fin de evitar las dificultades que el cumplimiento de lo dispuesto en el numeral 2 5 del título II de este Capítulo puede ocasionar en el caso de los créditos que, antes de la vigencia de dichas normas, se encontraban amparados por cartas de créditos stand-by distintas de aquellas a que se refiere dicho numeral, la validez de tales cauciones para la determinación del riesgo de los respectivos créditos se mantendrá hasta el 30 de junio de 1990 o hasta la fecha de vencimiento de la correspondiente carta de crédito stand-by o de pago del crédito caucionado, cualquiera que ocurra primero.
 
 CAPITULO 8-29 (Bancos y Financieras)
 
@@ -14984,55 +14994,17 @@ BIENES RECIBIDOS O ADJUDICADOS EN PAGO DE OBLIGACIONES.
 
 ### 1. Bienes que pueden recibirse o adjudicarse en pago de obligaciones
 
-Conforme al N° 5 del artículo 84 de la Ley General de Bancos, una institución
+Conforme al N° 5 del artículo 84 de la Ley General de Bancos, una institución financiera sólo podrá adquirir bienes distintos a los que expresamente autoriza dicha ley, en los siguientes casos:
 
-financiera sólo podrá adquirir bienes distintos a los que expresamente autoriza
+a) Cuando los reciba en pago de deudas vencidas y siempre que el conjunto de bienes que mantenga adquiridos en esta forma no supere en ningún momento el 20% de su capital pagado y reservas; y,
 
-dicha ley, en los siguientes casos:
+b) Cuando los adquiera en remate judicial en pago de deudas previamente contraídas a su favor. Los bienes adquiridos en remate judicial no quedan sujetos a margen.
 
-a) Cuando los reciba en pago de deudas vencidas y siempre que el conjunto de
+Si bien la citada norma legal utiliza la expresión "remate judicial", estima esta Superintendencia que ella debe entenderse extendida a todos aquellos procedimientos legales que permitan la realización de bienes del deudor.
 
-bienes que mantenga adquiridos en esta forma no supere en ningún momento el 20%
+Los instrumentos financieros representativos de títulos de crédito de renta fija que las instituciones financieras reciban en pago de obligaciones a su favor,que la Ley General de Bancos expresamente les permite adquirir y conservar, se incorporarán al activo de la institución adquirente y no quedarán sujetos a las disposiciones contenidas en el presente capítulo, sino que deberán ceñirse a las disposiciones legales y a las normas impartidas por esta Superintendencia que les son aplicables, especialmente en lo que se refiere a márgenes y criterios de valorización.
 
-de su capital pagado y reservas; y,
-
-b) Cuando los adquiera en remate judicial en pago de deudas previamente
-
-contraídas a su favor. Los bienes adquiridos en remate judicial no quedan
-
-sujetos a margen.
-
-Los instrumentos financieros representativos de títulos de crédito de renta fija
-
-que las instituciones financieras reciban en pago de obligaciones a su favor,que
-
-la Ley General de Bancos expresamente les permite adquirir y conservar, se
-
-incorporarán al activo de la institución adquirente y no quedarán sujetos a las
-
-disposiciones contenidas en el presente capítulo, sino que deberán ceñirse a las
-
-disposiciones legales y a las normas impartidas por esta Superintendencia que
-
-les son aplicables, especialmente en lo que se refiere a márgenes y criterios de
-
-valorización.
-
-No obstante, si existen impedimentos para registrar títulos de créditos de renta
-
-fija recibidos en pago de obligaciones en la forma descrita en el párrafo
-
-precedente, porque con ello se sobrepasarían los límites legales o
-
-reglamentarios que los afectan, como por ejemplo, los establecidos en el
-
-#### Artículo 84
-
-de la Ley General de Bancos, las instituciones financieras pueden
-
-contabilizar dichos documentos de acuerdo con las normas de este capítulo,
-
-siempre que lo hagan al momento de su recepción. En este caso, los documentos
+No obstante, si existen impedimentos para registrar títulos de créditos de renta fija recibidos en pago de obligaciones en la forma descrita en el párrafo precedente, porque con ello se sobrepasarían los límites legales o reglamentarios que los afectan, como por ejemplo, los establecidos en el artículo 84 de la Ley General de Bancos, las instituciones financieras pueden contabilizar dichos documentos de acuerdo con las normas de este capítulo, siempre que lo hagan al momento de su recepción. En este caso, los documentos
 
 deben ser enajenados dentro del plazo señalado en el N° 4 siguiente.
 
@@ -15354,113 +15326,37 @@ gestión de la Institución financiera.
 
 ### 1. Contabilización de los bienes recibidos o adjudicados
 
-Debe: "Bienes recibidos en pago" o "Bienes adjudicados en remate", según
+Debe: "Bienes recibidos en pago" o "Bienes adjudicados en remate", según corresponda, de la partida 1765 del formulario MB1, por el valor de adquisición a que se refiere el N° 3 del título I de este capítulo. El registro deberá efectuarse en las subcuentas "Bienes raíces", "Acciones", "Derechos en sociedades" u "Otros bienes o valores", según el tipo de bien adquirido.
 
-corresponda, de la partida 1765 del formulario MB1, por el valor de adquisición
+Haber: - La cuenta de colocación que corresponda, por el pago del respectivo crédito.
 
-a que se refiere el N° 3 del título I de este capítulo. El registro deberá
+- "Caja" o la cuenta que corresponda por el valor que se deba entregar al propietario del bien que se remata, en caso que eventualmente el valor de adjudicación supere a la respectiva deuda.
 
-efectuarse en las subcuentas "Bienes raíces", "Acciones", "Derechos en
+Para los efectos de ajustar la provisión de que trata el N° 2 siguiente, la diferencia entre el valor de adquisición del bien y el valor estimado de realización del mismo, según el estado en que el bien se recibe, debe considerarse a partir del mismo mes en que se ingresa al activo.
 
-sociedades" u "Otros bienes o valores", según el tipo de bien adquirido.
+2.- Provisión sobre bienes recibidos o adjudicados en pago.
 
-Haber: - La cuenta de colocación que corresponda, por el pago del respectivo
+Las instituciones financieras deberán mantener una provisión para cubrir el riesgo de pérdida por los bienes recibidos o adjudicados en pago. El monto de esta provisión se determinará a lo menos al cierre de cada mes, de la forma establecida en el titulo IV del Capitulo 8-28 de esta Recopilación Actualizada de Normas.
 
-crédito.
+Esta provisión se abonará a la cuenta "Provisión sobre bienes recibidos o adjudicados en pago" de la partida 4220 del MB1, con cargo a la cuenta que, con el mismo nombre se incluye en la partida 6130, del MR1.
 
-- "Caja" o la cuenta que corresponda por el valor que se deba entregar al
-
-propietario del bien que se remata, en caso que eventualmente el valor de
-
-adjudicación supere a la respectiva deuda.
-
-Si el valor de adquisición del bien que se recibe o adjudica es superior al
-
-valor estimado de su venta, en el estado en que aquél se recibe, debe
-
-contabilizarse simultáneamente la provisión por sobrevaloración, de acuerdo con
-
-las instrucciones del N° 2 siguiente.
-
-### 2. Provisiones
-
-Las instituciones financieras deberán constituir provisiones sobre los bienes recibidos en pago o adjudicados, de acuerdo con las siguientes instrucciones:
-
-2.1. Provisión por sobrevaloración.
-
-En todo momento se deberán mantener provisiones individuales para cubrir las diferencias entre el valor por el cual el bien se encuentra registrado en el activo y el valor probable de realización, de tal modo que, en lo posible, no se produzcan pérdidas cuando esos bienes sean vendidos.
-
-Las provisiones así constituidas a partir de la fecha de adquisición, no podrán disminuirse mientras el bien permanezca en poder de la institución, debiendo incrementarse en la medida en que aumente la diferencia entre los valores indicados.
-
-Al momento de la venta de un bien, su correspondiente provisión individual deberá aplicarse en su totalidad al importe del bien registrado en el activo.
-
-2.2. Valor probable de realización.
-
-Para la evaluación de los bienes recibidos o adjudicados en pago, con objeto de establecer su valor probable de realización, las instituciones financieras deben tener presente las disposiciones sobre evaluación de activos contenidas en el Capítulo 8-28
-
-de esta Recopilación Actualizada de Normas.
-
-De acuerdo con lo anterior, cuando los bienes evaluados correspondan a acciones o derechos en sociedades, las provisiones se efectuarán por el equivalente a la pérdida asociada a la categoría de riesgo en que deben clasificarse.
-
-Cabe tener presente que, en ningún caso, el valor estimado de venta debe tener por base meras expectativas de mejoramiento de precios en el mercado o supuestos de carácter financiero relacionados con potenciales clientes.
-
-2.3. Contabilización de las provisiones.
-
-Debe: "Provisiones sobre bienes recibidos en pago o adjudicados", de la partida 6130 del formulario MR1, por el importe de las provisiones individuales que corresponda constituir.
-
-Haber: "Provisiones por sobrevaloración de bienes recibidos en pago o adjudicados",de la partida 4220 del formulario MB1.
+La provisión constituida será utilizada solamente para cubrir las pérdidas que se produjeren en la enajenación de los bienes recibidos o adjudicados en pago. Los excesos de provisión que se determinen con motivo de los ajustes mensuales antes indicados, deberán liberarse acreditando la cuenta de gastos mencionada en el párrafo precedente, hasta la concurrencia del saldo deudor que demuestre esa cuenta Los importes que excedan ese saldo, se abonarán a la cuenta "Liberación de provisiones por riesgos de activos" de la partida 8110 del MR1.
 
 ### 3. Venta de los bienes
 
-Debe: - "Caja" o la cuenta que corresponda, por la recepción del precio de
+Debe: - "Caja" o la cuenta que corresponda, por la recepción del precio de venta, o bien, "Saldo de precio por venta de bienes recibidos en pago o adjudicados", de la partida 1110, 1115, 1205 ó 1210 del MB1, según corresponda, en caso que la venta de un bien se efectúe con pago a plazo
 
-venta, o bien,
+- "Provisión sobre bienes recibidos o adjudicados en pago", por la diferencia entre el valor registrado en el activo más sus adiciones, si hubieren, y el precio de venta, cuando este último sea menor.
 
-- "Saldo de precio por venta de bienes recibidos en pago o adjudicados" de la
+Haber: - "Bienes recibidos en pago" o "Bienes adjudicados en remate", en las subcuentas que correspondan, por el valor al que se encuentre registrado el bien en el activo.
 
-partida 1110, 1115, 1205 ó 1210 de formulario MB1, según corresponda, en caso
+- "Adiciones a bienes recibidos en pago o adjudicados", por el valor de las inversiones efectuadas según lo indicado en el N° 4 siguiente .
 
-que la venta de un bien se efectúe con pago a plazo.
+- "Utilidades por la enajenación de contado de bienes recibidos o adjudicados en pago" o bien, "Utilidades por la enajenación a crédito de bienes recibidos o adjudicados en pago", de la partida 7625 del MR1, por la diferencia entre el precio obtenido por el bien que se vende y el valor al cual estaba contabilizado en el activo más sus adiciones.
 
-- "Provisiones por sobrevaloración de bienes recibidos en pago o adjudicados"
+En el evento de que el saldo de la provisión sea insuficiente para cubrir la totalidad de la pérdida, deberá incrementarse dicha provisión por el faltante, sin perjuicio de ajustarla al cierre del respectivo mes, cuando corresponda.
 
-por el importe de la provisión que se mantenga constituida para el bien que se
-
-enajena.
-
-- "Pérdidas por enajenación de activos recibidos en pago", de la partida 5625
-
-del formulario MR1, por la diferencia entre el precio obtenido por el bien y el
-
-valor al cual se encontraba registrado en el activo más sus adiciones, si
-
-hubieren, después de rebajarse la provisión por sobrevaloración.
-
-Haber: - "Bienes recibidos en pago" o "Bienes adjudicados en remate", en las
-
-subcuentas que correspondan, por el valor al que se encuentre contabilizado el
-
-bien en el activo.
-
-- "Adiciones a bienes recibidos en pago o adjudicados", por el valor de las
-
-inversiones efectuadas según lo indicado en el N° 4 siguiente.
-
-- "Utilidades por la enajenación de contado de bienes recibidos o adjudicados en
-
-pago" o bien, "Utilidades por la enajenación a crédito de bienes recibidos en
-
-pago o adjudicados", de la partida 7625 del formulario MR1, por la diferencia
-
-entre el precio obtenido por el bien que se vende y el valor al cual estaba
-
-contabilizado en el activo más sus adiciones, netos de provisiones.
-
-Al tratarse de una venta de un bien que se encuentre contablemente castigado, se
-
-abonará la cuenta "Ingresos por venta de bienes castigados" de la partida 8315
-
-del formulario MR1.
+Al tratarse de la enajenación de un bien que se encuentre contablemente castigado, se abonará la cuenta "Ingresos por venta de bienes castigados" de la partida 8315 del MR1.
 
 ### 4. Adiciones a bienes recibidos en pago
 
@@ -15534,51 +15430,11 @@ partidas 5900 y 7910 del formulario MR1, respectivamente.
 
 ### 7. Castigos
 
-Los bienes recibidos o adjudicados en pago no deberán ser objeto de castigos
+Los bienes recibidos o adjudicados en pago no deberán ser objeto de castigos contables, salvo que se haga uso de una prórroga autorizada por esta Superintendencia de acuerdo con lo dispuesto en el numeral 4.2 del título I de este capítulo, en cuyo caso el castigo es obligatorio al momento de recibirse la respectiva autorización.
 
-contables, salvo que se haga uso de una prórroga autorizada por esta
+Los deterioros físicos o desvalorizaciones de cualquier naturaleza que pueda sufrir un bien, serán reconocidos por la vía de incrementar el monto de la provisión por sobrevaloración a que se refiere el N° 2 de este título, lo que en ningún caso exime a la institución financiera de la obligación de enajenar dentro de los plazos establecidos o de mantenerse dentro del margen legal a que se ha hecho referencia anteriormente. Si la institución financiera se deshace de bienes sin valor comercial conforme a lo indicado en el numeral 4.3 del título I de estas normas, procederá a efectuar, en esa oportunidad, la correspondiente rebaja del activo, empleando para el efecto las provisiones constituidas.
 
-Superintendencia de acuerdo con lo dispuesto en el numeral 4.2 del título I de
-
-este capítulo, en cuyo caso el castigo es obligatorio al momento de recibirse la
-
-respectiva autorización.
-
-Los deterioros físicos o desvalorizaciones de cualquier naturaleza que pueda
-
-sufrir un bien, serán reconocidos por la vía de incrementar el monto de la
-
-provisión por sobrevaloración a que se refiere el N° 2 de este título, lo que en
-
-ningún caso exime a la institución financiera de la obligación de enajenar
-
-dentro de los plazos establecidos o de mantenerse dentro del margen legal a que
-
-se ha hecho referencia anteriormente. Si la institución financiera se deshace de
-
-bienes sin valor comercial conforme a lo indicado en el numeral 4.3 del título I
-
-de estas normas, procederá a efectuar, en esa oportunidad, la correspondiente
-
-rebaja del activo, empleando para el efecto las provisiones constituidas.
-
-La contabilización de los castigos se hará de la siguiente forma:
-
-Debe: - "Castigo de bienes recibidos o adjudicados en pago", que se abrirá para
-
-este efecto y que formará parte de la partida 6315 del formulario MR1, por la
-
-diferencia entre el valor en que se encuentra registrado el bien, incluidas las
-
-adiciones que tuviere y el monto de la provisión por sobrevaloración que se
-
-encuentre constituida.
-
-- "Provisiones por sobrevaloración de bienes recibidos en pago o adjudicados".
-
-Haber: La cuenta que corresponda, de la partida 1765 del formulario MB1, por el
-
-valor en que se encontraba registrado el bien que se castiga.
+Los castigos se registrarán acreditando las respectivas cuentas de la partida 1765 del MB1 con cargo a la cuenta "Castigo de bienes recibidos o adjudicados en pago" de la partida 6315 del MR1, por el valor en que se encuentre registrado el bien que se castiga más las eventuales adiciones de que trata el N° 4 anterior.
 
 8. Bienes recibidos en pago o adjudicados por créditos vendidos al Banco Central
 
@@ -39176,6 +39032,8 @@ OBSERVACIONES: [+]: Cifra que se obtiene después de los ajustes extracontables 
 
 > **Nota.** La Circular 2511, SBIF, promulgada el 09.01.1990, modifica el Título IV, Anexo I, de la presente norma, en la forma siguiente:A) En la línea B6 se remplaza el signo "+" por una "a"B) En la línea D2 se remplaza el detalle completo por lo siguiente "2105 1 + 2110 + 2115 + 2515 + [#]"C) En la línea J3 se agrega la expresión "4515+" entre el signo "[#]" y el signo "+" que le antecedeD) En el N°1 de Observaciones se remplaza la expresión "2115" por "2105". Las citadas modificaciones no se han incorporado al presente texto actualizado por razones técnicas.
 
+> **Nota.** NOTA 1 El Numeral III, de la Circular 2532, SBIF, promulgada el 16. 03.1990, modifica el Anexo I, de la presente norma, en el sentido de eliminar las referencias a la partida 5625, atendido que las pérdidas por la enajenación de bienes recibidos o adjudicados en pago debe ser cubierta, en todos los casos, por la provisión constituida.
+
 ANEXO N° 2
 
 EXPLICACIONES GENERALES PARA LA PREPARACION DE LAS NOTAS ESTRUCTURADAS DE QUE TRATAN LOS ANEXOS SIGUIENTES
@@ -39498,31 +39356,29 @@ INSTRUCCIONES:
 
 ANEXO N° 12
 
-Modelo de nota sobre resultados extraordinarios
+Modelo de nota sobre resultados extraordinarios (*)
 
-NOTA... - INGRESOS Y GASTOS EXTRAORDINARIOS.
+NOTA...- INGRESOS Y GASTOS EXTRAORDINARIOS.
 
-El excedente que se muestra en el Estado de Resultados, después de gastos, provisiones y castigos, está influido por factores distintos de las operaciones habituales de intermediación. Para una mejor interpretación de los resultados, a continuación se indican los principales ingresos y gastos que tienen este carácter:
+El excedente que se muestra en el Estado de Resultados, después de gastos, provisiones y castigos,está influido por factores distintos de las operaciones habituales de intermediación Para una mejor interpretación de los resultados, a continuación se indican los principales ingresos y gastos que tienen este carácter
 
-- En "Otros ingresos de operación" se incluyen $............... millones por beneficios obtenidos en pago o sustituciones de pagarés de la deuda externa.
+- En "Otros ingresos de operación" se incluyen $.. .millones por beneficios obtenidos en pago o sustituciones de pagarés de la deuda externa
 
-- Las colocaciones adquiridas a instituciones financieras en liquidación y las recuperaciones de estos créditos, originaron una utilidad de $........... millones que se representa en el rubro "Otros ingresos de operación".
+- Las colocaciones adquiridas a instituciones financieras en liquidación y las recuperaciones de estos créditos, originaron una utilidad de $ .. millones que se representa en el rubro "Otros ingresos de operación"
 
-- Se incluyen también dentro de "Otros ingresos de operación", la utilidad neta en la venta de bienes recibidos en pago o adjudicados, que ascendió a $............. millones.
+- Se incluyen también dentro de "Otros ingresos de operación", la utilidad en la venta de bienes recibidos en pago o adjudicados, que ascendió a $ millones
 
-- Dentro de "Otros ingresos" se incluyen $...........millones originados por venta de bienes recibidos en pago que se encontraban castigados.
+- Dentro de "Otros ingresos" se incluyen $ . . millones originados por venta de bienes recibidos en pago que se encontraban castigados
 
-- En "Otros gastos de operación" se incluyen $............millones por la pérdida neta resultante de la venta de bienes recibidos en pago.
+En "Otros Gastos" se incluyen $ en pago millones por el castigo de bienes recibidos
 
-- En "Otros Gastos" se incluyen $.......... millones por el castigo de bienes recibidos en pago.
+Durante el año se efectuaron recompras extraordinarias de cartera vendida al Banco Central de Chile que produjeron efectos en los resultados del ejercicio, por un total de $ millones / Al 31 de diciembre de 19... se mantienen provisiones para recompra extraordinaria de cartera, con cargo a resultados del ejercicio por un total de $ . millones/... / De dicha recompra extraordinaria $.. . millones, / /El total de dicha recompra/ corresponde a la aplicación de los ingresos por intereses y reajustes percibidos en el ejercicio por los créditos incluidos en la cartera vendida al Banco Central de Chile/
 
-- Durante el año se efectuaron recompras extraordinarias de cartera vendida al Banco Central de Chile que produjeron efectos en los resultados del ejercicio, por un total de $.........millones.../ Al 31 de diciembre de 19... se mantienen provisiones para recompra extraordinaria de cartera, con cargo a resultados del ejercicio por un total de $................ millones/...... / De dicha recompra extraordinaria $...........millones,... /... /El total de dicha recompra/... corresponde a la aplicación de los ingresos por intereses y reajustes percibidos en el ejercicio por los créditos incluidos en la cartera vendida al Banco Central de Chile/...
+Los ingresos y gastos indicados precedentemente representan un /mayor/menor/excedente/resultado neto/, de $ millones
 
-Los ingresos y gastos indicados precedentemente representan un .../mayor/menor/...excedente/resultado neto/... de $...............
+(*). La redacción de esta nota se presenta a modo de ejemplo y no pretende agotar los principales conceptos que deben mencionarse en ella. Sin embargo, se utilizará en lo posible la redacción señalada para aquellos casos que coinciden con la situación que se presenta en la empresa.
 
-millones.
-
-(°): La redacción presentada como ejemplo no pretende agotar los principales conceptos que deben mencionarse en la nota y, por otra parte, incluye conceptos que son excluyentes entre sí, como es el caso de las utilidades o pérdidas netas por la venta de bienes recibidos en pago. Sin embargo, se utilizará en lo posible la redacción señalada para aquellos casos que coinciden con la situación que se presenta en la empresa.
+> **Nota.** El numeral III, de la Circular 2532, SBIF, promulgada el 16.03.1990, modifica el Anexo N° 1 del Capítulo 18-1, en el sentido de eliminar las referencias a la partida 5625, atendido que las pérdidas por la enajenación de bienes recibidos o adjudicados en pago debe ser cubierta, en todos los casos, por la provisión constituida. Por el mismo motivo, se modifica el presente Anexo eliminando las menciones a la pérdida neta en venta de bienes recibidos en pago, modificación incorporada al presente texto actualizado.
 
 ANEXO N° 13
 
