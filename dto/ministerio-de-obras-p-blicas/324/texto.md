@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 324, de 31 de marzo de 1997, se expropió el lote de terreno Nº 3, superficie 10 M2., rol de avalúo 21-48, comuna de Calera de Tango, para la obra Camino Los Cerrillos - Calera de Tango - Lonquén, Rol G-30, sector Lo Hermita - Sto. Domingo, se acordó precio de la indemnización con sus propietarios Héctor Francisco y Alicia Eugenia Meza Olguín, ascendente a la cantidad de $308.340.-
+
+Fiscal del Ministerio de Obras Públicas.
