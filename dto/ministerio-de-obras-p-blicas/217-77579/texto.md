@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº217, de 19 de agosto de 1992, se expropiaron los lotes Nºs. 5 y 6, superficies 560 M2. y 1760 M2, rol de avalúo 172-25, Comuna de San Clemente, para la obra Camino Talca - Paso El Pehuenche, sector Perquín Armerillo y se acordó precio de indemnización con su propietaria Crescencia Contreras Bustos, ascendente a la cantidad de $ 156.750 para el lote 5 y $ 291.750 para el lote 6.-
+
+Fiscal del Ministerio de Obras Públicas.
