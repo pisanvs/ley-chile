@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº200 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº601, superficie 101 m², Rol Nº1007-3, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo I, tramo Km. 0,00000 a Km. 12,70000" y se acordó el valor de indemnización con su propietario Joel Antonio Tobar Fernández, ascendente a la cantidad de $1.958.444.
+
+Fiscal del Ministerio de Obras Públicas.
