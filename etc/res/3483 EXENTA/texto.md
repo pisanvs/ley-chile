@@ -1,0 +1,23 @@
+LLAMA A INSCRIPCION DE POSTULANTES PARA EL LLAMADO EXTRAORDINARIO 2001 A POSTULACION A SUBSIDIO HABITACIONAL PARA LA ATENCION DEL SECTOR RURAL (TITULO I A POSTULACION COLECTIVA), PARA ATENDER A POSTULANTES DE LA COMUNA DE CURICO, PROVINCIA DE CURICO, VII REGION DEL MAULE
+
+Santiago, 7 de diciembre de 2001.- Hoy se resolvió lo que sigue:
+
+Núm. 3.483 exenta.- Visto: El D.S. Nº 167 (V. y U.), de 1986, y sus modificaciones, que regula el Sistema de Subsidio Habitacional para la Atención del Sector Rural; la resolución exenta Nº 1.106, de este Ministerio, de fecha 27 de abril de 2000, publicada en el Diario Oficial del 6 de mayo de 2000, modificada por resoluciones exentas Nº 0364 y Nº 2.976, de este Ministerio, de fechas 14 de febrero y 2 de noviembre de 2001, publicadas en el Diario Oficial del 20 de febrero y del 10 de noviembre de 2001 respectivamente, que fija menciones y datos que deberán contener las solicitudes de inscripción para llamados a postulación del Sistema de Subsidio Habitacional para la Atención del Sector Rural; la resolución exenta Nº 3.327, de fecha 27 de diciembre de 2000, modificada por las resoluciones exentas Nº 2.179, Nº 2.180 y Nº 2.554, de fecha 24 y 27 de agosto de 2001 y de 4 de octubre de 2001, todas ellas de los Ministerios de Hacienda y de Vivienda y Urbanismo, dicto la siguiente
+
+R e s o l u c i ó n:
+
+1º.- Llámase a inscripción extraordinaria de postulantes para el Sistema de Subsidio Habitacional para la Atención del Sector Rural, llamado extraordinario Título I postulación colectiva 2001, para atender a postulantes de la comuna de Curicó, Provincia de Curicó, VII Región del Maule, de conformidad a las disposiciones del D.S. Nº 167, (V. y U.), de 1986, y sus modificaciones;
+
+2º.- Fíjase en el equivalente a 4.650 Unidades de Fomento (UF) el monto de los recursos presupuestarios que se destinarán para el financiamiento del subsidio directo en el llamado extraordinario dispuesto por el número 1º de esta resolución.
+
+3º.- En el llamado extraordinario dispuesto por el número 1º de esta resolución, los recursos dispuestos se asignarán sólo a postulaciones colectivas. El número de postulantes seleccionados dentro del llamado, alcanzará hasta el número de Certificados de Subsidio susceptibles de financiar con los recursos previstos para el otorgamiento del subsidio directo que se fija en el número 2º de esta resolución, en la forma prevista en el artículo 19 del D.S. Nº 167 (V. y U.), de 1986, y sus modificaciones.
+
+4º.- El subsidio que obtenga el postulante seleccionado en este llamado extraordinario deberá ser aplicado al financiamiento de una vivienda nueva y terminada, definitiva, segura e higiénica, emplazada en la comuna de Curicó, Provincia de Curicó, VII Región del Maule, excluidas las áreas urbanas de más de 2.500 habitantes, según el Censo de Población efectuado en 1992, que corresponde al último del cual se dispone de datos publicados con anterioridad a la fecha de este llamado.
+
+5º.- Las solicitudes de inscripción para postular al llamado extraordinario efectuado por el número 1º de esta resolución, deberán contener las menciones y datos que se señalan en el numeral I de la resolución exenta Nº 1.106, de 2000, modificada por resoluciones exentas Nº 0364 y Nº 2.976, de 2001, todas ellas de este Ministerio, los cuales deberán ser consignados por el postulante en el formulario correspondiente que le proporcionará el Serviu de la VII Región del Maule, debiendo acompañar a dicha solicitud los documentos que en cada caso se indican en dicha resolución.
+
+6º.- De acuerdo a lo dispuesto en el artículo 7º del D.S. Nº 167 (V. y U.), de 1986, el ''período de postulación'' para el llamado extraordinario dispuesto por el número 1º de esta resolución, se extenderá desde el 17 al 21 de diciembre de 2001, ambas fechas inclusive, período durante el cual el Serviu de la VII Región del Maule entregará a los interesados los formularios para la solicitud de inscripción o para la renovación de la inscripción, según corresponda, les proporcionará la información que éstos requieran sobre la materia y procederá, dentro del mismo período, a la recepción de las solicitudes correspondientes y de los antecedentes que deban acompañarse a ellas.
+
+Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Sonia Tschorne Berestesky, Subsecretaria de Vivienda y Urbanismo.
