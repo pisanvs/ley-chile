@@ -1,0 +1,5 @@
+Por decreto MOP Nº 223, de 26 de marzo de 2004 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropiaron para la obra Extensión Línea 2 Norte Recoleta-Vespucio, Sector Santos Dumont-Av.
+
+Américo Vespucio, Región Metropolitana, los lotes de terreno Nos 14ERL2 y 15ERL2, que figuran a nombre de Sánchez Silva Luis y Martínez Osorio Luis, roles de avalúo 3168-20 y 3168-21, comuna de Recoleta, superficies 120 y 120 m². La comisión de peritos integrada por los señores Ricardo Antonio Strickler Arellano, Jesús Fernando Díaz Pasmiño y Ramón Enrique Domingo Labarca, fijó con fecha 25 de febrero de 2004, el valor provisional de la indemnización en las cantidades de $20.590.000.- para el lote Nº 14ERL2 y $39.440.000.- para el lote Nº 15ERL2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
