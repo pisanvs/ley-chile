@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD ALIMENTOS AYSEN LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 705, de 10.07.87, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Alimentos Aysén Ltda., domiciliada en Lautaro No. 257, Coyhaique, XI Región, para ampliar las actividades pesqueras de transformación que tiene autorizadas por resoluciones No. 131 y No. 181, de 1982, de esta entidad, en orden a incluir entre los recursos hidrobiológicos que puede procesar en la línea de elaboración de congelado los siguientes: Salmón del Pacífico, sardina común, sardina española, bonito, caballa, jurel, merluza común, merluza del Sur, merluza de cola, merluza de tres aletas, pejegallo, puye, trucha arco iris, caracol trumulco, lapa, ostión del Sur, pulpo. Además, elaborará el recurso Pelillo en la línea de pre - secado natural. El abastecimiento será a través de pescadores artesanales, a excepción de los recursos Salmón del Pacífico y Trucha Arcoiris que deberán adquirirse de centros de cultivo autorizados.
+
+Valparaíso, 10.07.87.- Roberto Cabezas Bello, Subsecretario de Pesca.
