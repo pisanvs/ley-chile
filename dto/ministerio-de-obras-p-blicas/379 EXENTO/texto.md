@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº379, de 28 de marzo de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 3 y 4; para la obra "Concesión Internacional Sistema Oriente - Poniente. Zona Poniente: Petersen - Américo Vespucio. Tramo 8: de Km.
+
+26.680,00 a Km. 30.345, 94"; Región Metropolitana, que figuran a nombre de Olivares Trincado Rosa y Otros, rol de avalúo 2897-8, comuna de Cerro Navia, superficies 1.385 m2 y 277 m2, respectivamente. La comisión de peritos integrada por los señores Ramón Enrique Domingo Labarca, Julio Víctor Fischer Gaysinsky y Mufida Viola Abuawad Elias, fijó con fecha 31 de enero de 2002, el valor provisional de la indemnización en las cantidades de $1.148.000.- para el lote Nº3 y de $277.000.- para el lote Nº4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
