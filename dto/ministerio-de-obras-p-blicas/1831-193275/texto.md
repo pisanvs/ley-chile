@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.831, de 31 de octubre del 2001, se expropió el lote de terreno Nº89, superficie 65 m2., rol de avalúo 692-49, comuna de Estación Central, para la obra Sistema Norte-Sur. Tramo G: Nudo Alameda Sector Kms. 1.980,00 al 2.220,00, Región Metropolitana y se acordó el valor de indemnización con su propietario Jorge Pedro Lillo Valenzuela, ascendente a la cantidad de $23.183.419.
+
+- Fiscal del Ministerio de Obras Públicas.
