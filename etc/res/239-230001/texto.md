@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 239, DE 2004
+
+Por resolución Nº 239, del 16 de agosto de 2004, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la XI Región de Aysén, se aprobó el Contrato de Concesión, adjudicado mediante resolución exenta Nº214/2004, del mismo origen, para la instalación y operación de una Planta Revisora Clase A-B, en la comuna de Coyhaique, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la XI Región de Aysén y la concesionaria ''Sociedad de Revisiones Denham Limitada'', en la misma fecha indicada. El plazo de concesión será de diez años, contado desde la fecha de publicación en el Diario Oficial del presente extracto.-
+
+Alejandro Bórquez Riquelme, Secretario Regional Ministerial Transportes y Telecomunicaciones XI Región de Aysén.
