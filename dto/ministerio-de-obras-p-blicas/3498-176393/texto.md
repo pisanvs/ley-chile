@@ -1,0 +1,3 @@
+Por decreto MOP. Nº3.498, de 31 de julio de 2000, se expropió el lote de terreno Nº11, superficie 113 m2, rol de avalúo 806-4, comuna de Ovalle, para la obra Concesión Internacional Ruta 5, tramo Los Vilos - La Serena, Sector C, Mantos de Hornillos, Cuarta Región y se acordó el valor de indemnización con su propietaria Iglesia Evangélica Pentecostal, ascendente a la cantidad de $410.368.
+
+Fiscal del Ministerio de Obras Públicas.
