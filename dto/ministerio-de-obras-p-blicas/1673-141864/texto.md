@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.673, de 24 de junio de 1999, se expropió el lote de terreno No. 143, superficie 1.093 m2., rol de avalúo 334-172, comuna de Río Negro, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Osorno - Río Negro, Décima Región y se acordó el valor de indemnización con sus propietarios Juan Chemsi Bayelle y otro, ascendente a la cantidad de $ 681.763.-
+
+Fiscal del Ministerio de Obras Públicas.
