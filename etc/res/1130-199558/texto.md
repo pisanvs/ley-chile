@@ -1,0 +1,3 @@
+Por resolución Nº 1.130, de 10 de junio de 2002, de esta Subsecretaría, autorízase a ANTARFOOD S.A., RUT Nº 88.274.600-3, con domicilio en O'Higgins Nº 167, oficina 703, Puerto Montt, X Región, para continuar desarrollando las actividades pesqueras de transformación autorizadas a Pesquera Unichile S.A., RUT Nº 96.527.420-0, del mismo domicilio, en virtud de las escrituras públicas y demás documentos citados en Visto.
+
+Valparaíso, 10 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
