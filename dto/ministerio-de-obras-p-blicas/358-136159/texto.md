@@ -1,0 +1,3 @@
+Por Decreto MOP No. 358, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s 96 y 97, superficies 671 M2. y 8.251 M2., rol de avalúo 514-13, comuna Carahue, obra Camino Costero Tirúa-Carahue, Tramo Bajo Yupehue Cruce Puyanhue y se acordó precio de indemnización con su propietario Ubercio Sepúlveda Ríos, ascendente a la cantidad de $ 2.791.986.-
+
+Fiscal del Ministerio de Obras Públicas.
