@@ -1,0 +1,3 @@
+Por decreto MOP Nº 394, de fecha 25 de febrero del 2002, se expropió el lote de terreno Nº 100-A, superficie 50,00 m², Rol de avalúo Nº 140-105, comuna de Dalcahue, para la obra "Camino Ruta W - 65 y W - 55, Sector Cruce Longitudinal (Pid Pid) - Putemún - Dalcahue, Km. 0,000 al Km. 11,991647, Comuna de Castro - Dalcahue, Provincia de Chiloé", X Región, y se acordó el valor de indemnización con su propietaria Victoria Xieman Barría Bahamonde, ascendente a la cantidad de $26.366.325.
+
+Fiscal del Ministerio de Obras Públicas.
