@@ -4838,6 +4838,8 @@ A continuación se señalan los principales indicadores que guardan relación co
 
 > **Nota.** La letra B) de la Circular 2759, SBIF, promulgada el 29.09.1993, modifica el presente Anexo, actualizando las cuentas consideradas para los principales indicadores que se utilizan en el control del cumplimiento de las normas relativas a encaje y a reserva técnica.
 
+> **Nota.** NOTA 1 La letra C) de la Circular 2793, SBIF, promulgada el 05.10.1994, modifica el presente Anexo, a fin de incorporar la cuenta correspondiente a inversiones en bancos extranjeros, en los indicadores del Sistema Contable relativos al Capital pagado y reservas.
+
 CAPITULO 4-2 (Bancos y Financieras)
 
 MATERIA:
@@ -16820,6 +16822,8 @@ Por otra parte, según lo dispuesto en la letra a) del artículo 83 bis de la Le
 
 El banco accionista de un banco constituido en el exterior debe tener presente, además, los límites operacionales establecidos en la letra b) del artículo 83 bis antes señalado.
 
+Por último, las empresas bancarias que participen en un banco extranjero detraerán de su Capital pagado y reservas, para los solos efectos del cumplimiento de los límites y márgenes legales y reglamentarios, el importe de la correspondiente inversión registrada en el activo.
+
 CAPITULO 11-5 (Bancos y Financieras)
 
 MATERIA:
@@ -16950,7 +16954,7 @@ CAPITAL PAGADO Y RESERVAS PARA EFECTOS LEGALES Y REGLAMENTARIOS.
 
 Para determinar el monto del capital pagado y reservas de un banco o sociedad financiera, se sumarán los saldos que se encuentren registrados, conforme a las instrucciones impartidas por esta Superintendencia, en las cuentas que deben incluirse en las partidas 4305, 4310, 4315, 4320 y 4405 del formulario MB1.
 
-De conformidad con lo dispuesto en el artículo 31 bis de la Ley General de Bancos, las empresas bancarias constituidas en Chile que tengan sucursales en el exterior, deberán rebajar de su capital pagado y reservas, determinado según lo señalado en el inciso anterior, el capital asignado a cada sucursal que mantengan fuera del país.
+De conformidad con lo dispuesto en el artículo 31 bis de la Ley General de Bancos, las empresas bancarias constituidas en Chile que tengan sucursales en el exterior, deberán rebajar de su capital pagado y reservas, determinado según lo señalado en el inciso anterior, el capital asignado a cada sucursal que mantengan fuera del país. Del mismo modo, el banco inversionista deberá rebajar de su capital pagado y reservas la inversión que mantenga en un banco del exterior, según lo indicado en el Capítulo 11-4 de esta Recopilación.
 
 1.2. Cómputo de bonos subordinados como capital.
 
@@ -19144,7 +19148,9 @@ Los indicadores antes señalados corresponden a la suma de los saldos contables 
 
 IMAGEN.
 
-Sin perjuicio de la información que puede solicitarse para verificar el cumplimiento de los límites en el curso del mes, los datos para determinar la situación al cierre de cada mes los obtendrá este Organismo mediante el procesamiento de los saldos informados en el archivo C01
+Sin perjuicio de la información que puede solicitarse para verificar el cumplimiento de los límites en el curso del mes, los datos para determinar la situación al cierre de cada mes los obtendrá este Organismo mediante el procesamiento de los saldos informados en el archivo C01.
+
+> **Nota.** La letra C) de la Circular 2793, SBIF, promulgada el 05.10.1994, modifica el presente Anexo, a fin de incorporar la cuenta correspondiente a inversiones en bancos extranjeros, en los indicadores del Sistema Contable relativos al Capital pagado y reservas.
 
 ANEXO N°2
 
