@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 4.132 de 31 de agosto de 2000, se dejó sin efecto la expropiación del lote de terreno Nº 20, aprobada por Decreto MOP Nº 741, de 29 de febrero de 2000, que figura a nombre de Ind. Chilena Alambres Inchalam, rol de avalúo Nº 7409-1, superficie 1.271, de la comuna de Talcahuano, provincia de Concepción, VIII Región, correspondiente a la obra Mejoramiento Eje Gran Bretaña, Sector Cuatro Esquinas - Rotonda Cap. Camino Avda. Gran Bretaña.
+
+Fiscal del Ministerio de Obras Públicas.
