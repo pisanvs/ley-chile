@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.692, de 24 de junio de 1999, se expropió el lote de terreno No. 127, superficie 1.972 m2., rol de avalúo 601-42, comuna de Mulchén, para la obra "Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli", Octava Región y se acordó el valor de la indemnización con su propietario Roberto Bravo Lazcano, ascendente a la cantidad de $ 4.119.852.-
+
+Fiscal del Ministerio de Obras Públicas.
