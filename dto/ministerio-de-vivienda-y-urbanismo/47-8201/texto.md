@@ -216,7 +216,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Lote»: superficie de terreno continua resultante del proceso de subdivisión del suelo o de la fusión de dos o más sitios o lotes.
 
-«Loteo de terrenos»: proceso de división del suelo, cualquiera sea el número de predios resultantes, cuyo proyecto contempla la apertura de nuevas vías públicas, y su correspondiente urbanización.
+«Loteo de terrenos»: proceso de división del suelo, cualquiera sea el número de sitios resultantes, que requiere la ejecución de obras de urbanización.
 
 «Maestranza»: local industrial destinado a mantener, transformar, rehacer o construir cualquier clase de maquinaria, sea móvil, semifija o estacionaria, para transporte u otro fin.
 
@@ -302,6 +302,10 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Proyecto»: conjunto de antecedentes de una obra que incluye planos, memorias, especificaciones técnicas y, si correspondiere, presupuestos.
 
+«Proyecto no residencial»: aquel en que el destino de infraestructura, de equipamiento y/o de actividades productivas es superior al 30% de la superficie total edificada y aquel en el cual el destino de vivienda es inferior al 70% de la superficie total edificada.
+
+«Proyecto residencial»: aquel en que el destino habitacional es superior al 70% de la superficie total edificada.
+
 «Publicidad»: acción que se realiza a través de medios de difusión para promover la venta de inmuebles.
 
 «Puerta de escape»: puerta de salida que forma parte de un sistema de evacuación.
@@ -328,9 +332,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Retranqueo»: escalonamiento vertical que adopta la fachada de un edificio hacia el interior del predio.
 
-«Revisor independiente»: profesional competente, con inscripción vigente en el correspondiente Registro del Ministerio de Vivienda y Urbanismo, que verifica e informa al respectivo Director de Obras Municipales que los anteproyectos, proyectos y obras cumplen con todas las disposiciones legales y reglamentarias pertinentes.
-
-Se entenderá también como tal, la persona jurídica en cuyo objetivo social esté comprendido dicho servicio y que para estos efectos actúe a través de un profesional competente.
+«Revisor independiente»: profesional competente, con inscripción vigente en el correspondiente Registro del Ministerio de Vivienda y Urbanismo, que verifica e informa al respectivo Director de Obras Municipales que los anteproyectos, proyectos y obras cumplen con todas las disposiciones legales y reglamentarias pertinentes. Se entenderá también como tal, la persona jurídica en cuyo objetivo social esté comprendido dicho servicio y que para estos efectos actúe a través de un profesional competente.
 
 «Saldo predial»: sitio cuya superficie o frente, por efecto de una expropiación o cesión obligatoria, resulta menor a la subdivisión o frente predial mínimos establecidos en el Instrumento de Planificación Territorial respectivo.
 
@@ -2110,7 +2112,13 @@ Las características de los estacionamientos que excedan la cuota mínima exigid
 
 #### Artículo 2
 
-4.3. Cuando en un predio se contemple el emplazamiento de un número de estacionamientos superior a 100 unidades, deberá acompañarse a la solicitud de permiso, un estudio de tránsito que evalúe el impacto sobre la vialidad circundante. La Dirección de Obras Municipales podrá, sobre esta base, exigir modificaciones al proyecto. Lo dispuesto en este artículo se aplicará también cuando el número de unidades sea superior a 50 y la entrada o salida se verifique desde o hacia alguna vía reconocida por el instrumento de planificación territorial como constituyente de la red vial estructurante y/o básica.
+4.3. Los proyectos residenciales y los proyectos no residenciales que consulten en un mismo predio 250 o más y 150 o más estacionamientos, respectivamente, requerirán de un Estudio de Impacto sobre el Sistema de Transporte Urbano.
+
+El Ministerio de Vivienda y Urbanismo, mediante resolución, aprobará la metodología conforme a la cual deberá elaborarse y evaluarse el Estudio de Impacto sobre el Sistema de Transporte Urbano.
+
+A la solicitud de permiso de edificación de los proyectos a que se refiere el inciso primero se deberá acompañar un Estudio de Impacto sobre el Sistema de Transporte Urbano, suscrito por un profesional especialista y aprobado por la Unidad de Tránsito y Transporte Públicos de la correspondiente Municipalidad o por la respectiva Secretaría Regional Ministerial de Transportes y Telecomunicaciones, según corresponda, de acuerdo a la metodología.
+
+La Dirección de Obras Municipales, de acuerdo al resultado del Estudio de Impacto sobre el Sistema de Transporte Urbano, establecerá las adecuaciones que el propietario deberá efectuar en la vialidad afectada por el proyecto, cuyo cumplimiento se hará exigible a la recepción definitiva de la edificación.
 
 #### Artículo 2
 
