@@ -1,0 +1,3 @@
+Por decreto MOP Nº 337, de 27 de abril de 2004 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 23 para la obra: Camino Ruta L-45, Sector Linares-Llepo, Tramo Km. 2,750.2 a Km. 13,147, que figura a nombre de Castro Mellado Aníbal, rol de avalúo 559-14, comuna de Linares, VII Región, superficie 370,5 m². La Comisión de Peritos, fijó con fecha 30 de octubre de 2001, complementada por Acta de fecha 9 de agosto de 2002 en la cantidad de $17.795.000.- lote 23. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
