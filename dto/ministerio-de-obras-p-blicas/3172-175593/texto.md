@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.172 de 31 de julio del 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº2, para la ejecución de la obra Mejoramiento Ruta D-315, Acceso a Altovasol, que figura a nombre de Jorge A. Abbott Matus, rol de avalúo 1034-145, de la comuna de La Serena, IV Región, superficie 153,00 m². La comisión de peritos fijó con fecha 28 de noviembre de 1997, la indemnización provisional en la cantidad de $643.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Pú-blicas.
