@@ -1,0 +1,1 @@
+Establece que la Dirección General de Minas y Combustibles será reemplazada por el Departamento de Minas y Combustibles el que se regirá por las disposiciones que indica; fija la planta de su personal.
