@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.418, de 31 de agosto de 1998, se expropiaron los lotes de terreno No.s. 5, 7, 21, 25, 29 y 33, superficies 951 m²., 2.783 m²., 135 m²., 120 m²., 1.023 m²., y 201 m²., roles de avalúos 337-61, 337-12, 206-18, 206-20, 337-12 y 339-150, comuna de Peñaflor, para la obra Camino Autopista Santiago-San Antonio, sector Enlace Malloco, y se acordó el valor de indemnización con sus propietarios Francisco Arnaldo Villegas Rojas; María Rebeca Orellana Barriga; Luis Enrique Gamboa Gamboa; Jorge Alberto Guerrero Cerón y Otros, e Inmobiliaria y Comercial Sejo Sociedad Anónima, ascendente a las cantidades de $ 15.727.665.-; $ 89.650.790.-; $ 3.758.315.-; $ 3.442.632.-; $ 121.052.038.-; y $ 6.594.191.-, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
