@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº696 de fecha 30 de abril de 2002, se expropió el lote de terreno Nº12, superficie 1.888m², rol Nº524-481, comuna de La Unión, para la obra ''Camino Ruta T - 80, Sector La Unión - Las Trancas, Tramo Km. 0,900 a Km. 10,99034'', y se acordó el valor de indemnización con su propietario Luis Fernando Robert Boettcher, ascendente a la cantidad de $825.836.-
+
+Fiscal del Ministerio de Obras Públicas.
