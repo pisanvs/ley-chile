@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº376 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº25, superficie 371,00 m², Rol de Avalúo Nº764-54, comuna de Lampa, Región Metropolitana para la obra "Camino Ruta G-184-182, Sector El Noviciado-Cruce Ruta G-16 (Lipangue) tramo de Km. 4,450 a Km. 15,04419" y se acordó el valor de indemnización con su propietario Manuel Enrique Cesped Orellana, ascendente a la cantidad de $2.057.133.-
+
+Fiscal del Ministerio de Obras Públicas.
