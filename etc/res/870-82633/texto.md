@@ -1,0 +1,5 @@
+PRORROGA PLAZO QUE INDICA
+
+Por resolución No. 870 de 16 de Julio de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por seis meses a contar de la fecha de publicación del extracto en el Diario Oficial de la presente resolución, el plazo fijado a don Reinhard Hermann Zimmermann Zeh, R.U.T. No. 49.003.665-2, domiciliado en Predio Santa Anita, sector Santa Elvira, Valdivia, dirección postal Casilla 567, Valdivia, para empezar a operar el establecimiento de cultivo autorizado por la Resolución No. 1221, de 1988, de esta Subsecretaría, debido a que la Autoridad Marítima ha dispuesto suspender todo trámite relativo a concesiones marítimas solicitadas en Lago Ranco, lo que ha impedido al peticionario iniciar sus actividades.
+
+Valparaíso, 16 de Julio de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
