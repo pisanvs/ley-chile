@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.204 de fecha 31 de julio del 2002, se expropiaron los lotes de terreno Nºs. 3-A y 4-A, superficie 800 y 1.640 m² respectivamente, Rol Nº 238-97, comuna de Toltén, IX Región para la obra ''Estudio de Ingeniería Varios Puentes en la IX Región, sector Puente Puchilco'' y se acordó el valor de indemnización con su propietario Cristina Caniulaf Ñancuan, ascendente a la cantidad de $926.640.-
+
+Fiscal del Ministerio de Obras Públicas.
