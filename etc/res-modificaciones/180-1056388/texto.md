@@ -30,7 +30,9 @@ g) Fecha y número de la Boleta, Factura y/o Guía de Despacho.
 
 Además, los importadores y fabricantes de alcoholes deberán comunicar las cantidades internadas y fabricadas, respectivamente.
 
-2°- Cuando el distribuidor de alcohol sea al mismo tiempo usuario del producto, deberá declarar además las cantidades ocupadas para su propio uso, haciendo la imputación tal como si se tratara de una venta habitual.
+2°- Cuando el importador, fabricante o distribuidor de alcohol sea al mismo tiempo usuario del producto, deberá declarar además, las cantidades ocupadas para su propio uso, haciendo la imputación tal como si se tratara de una venta habitual.
+
+Igual obligación tendrán los usuarios que ocasionalmente efectúen ventas de alcohol a terceros.
 
 3°- Los interesados deberán efectuar la declaración en un formulario de diseño único, para cuyo efecto deberán solicitar el modelo tipo en las oficinas regionales del Servicio o en la División de Protección Agrícola del Servicio (Avda. Bulnes 140 Santiago).
 
@@ -39,5 +41,13 @@ Además, los importadores y fabricantes de alcoholes deberán comunicar las cant
 5°- Las informaciones establecidas deberán declararse, a partir de las ventas efectuadas durante el mes de Enero de 1981, oportunidad en la cual, y por única vez, deberá incluirse además los saldos existentes al 31 de Diciembre de 1980.
 
 6°- El no cumplimiento a lo dispuesto en esta Resolución, o la falsedad de la información, será causal suficiente para aplicar sanciones establecidas en el artículo 38° de la Ley 17.105, ya mencionada.
+
+7.- Todos los interesados mencionados en la presente resolución están obligados a efectuar la declaración mensual, aun cuando no hayan tenido movimiento.
+
+8.- No obstante lo dispuesto en los puntos 5 y 6, los interesados que se inicien con retraso en el envío de la declaración solicitada, deberán hacerlo, mensualmente desde el 1° de Enero de 1981, indicando también el saldo al 31 de Diciembre de 1980.
+
+9.- Cuando las ventas individuales sean inferiores a 50 litros, la declaración se hará como una sola partida, incluyendo en ella todas las efectuadas durante el mes. En tal eventualidad, deberá indicarse el número de interesados al que se les entregó el producto.
+
+Lo anterior no exime a la firma vendedora de presentar la documentación que ampara cada venta individual, cuando sea solicitada por los inspectores del Servicio.
 
 Anótese, comuníquese y publíquese en el Diario Oficial.- Jaime de la Sotta Benavente, Director Ejecutivo.
