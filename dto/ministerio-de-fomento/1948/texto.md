@@ -10,7 +10,7 @@ Artículo lº.- Se considerará portaequipaje de los Ferrocarriles del Estado a 
 
 Para los efectos de la ley Nº 6,832, de 14 de Enero de 1941, serán reconocidos como portaequipajes de los Ferrocarriles del Estado aquellos que, reuniendo estas condiciones, prestaban servicios a la fecha de la citada ley 6,832, y a los que, como tales, ingresen al servicio posteriormente.
 
-Se considerará como Ferrocarriles del Estado los siguientes: Empresa de los Ferrocarriles del Estado, Ferrocarril de Arica a La Paz y Ferrocarril de Iquique a Pintados.
+Se considerará como Ferrocarriles del Estado los siguientes: Empresa de los Ferrocarriles del Estado, y Ferrocarril de Iquique a Pintados.
 
 #### Artículo 2º
 
