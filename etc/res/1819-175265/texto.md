@@ -1,0 +1,5 @@
+Por resolución Nº 1.819 de esta Subsecretaría, autorízase a PESQUERA ITATA S.A., para ampliar actividades pesqueras de transformación, autorizadas por las resoluciones Nº 984 de 1986, Nº 671 de 1992, Nº 1.136 de 1999 y Nº 858 de 2000, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Pedro Montt Nº 704, San Vicente, Talcahuano, VIII Región, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco-refrigerado: Sardina española, Sardina común, Anchoveta, Caballa, Sierra, Machuelo o tritre, Merluza común, Cochinilla, Cojinoba del norte, Cojinoba del sur, Cojinoba moteada, Congrio dorado, Congrio negro, Agujilla, Albacora o pez espada, Bonito, Congrio colorado, Corvina, Lenguado de ojos chicos, Lisa, Merluza de cola, Merluza de tres aletas, Merluza del sur, Palometa, Pejerrey de mar, Raya, Reineta, Róbalo, Salmón del Atlántico, Salmón plateado, Salmón rey, Tollo y Trucha arcoiris.
+
+Los recursos hidrobiológicos Salmón del Atlántico, Salmón plateado, Salmón rey y Trucha arcoiris, deberán provenir de centros de cultivos autorizados.
+
+Valparaíso.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
