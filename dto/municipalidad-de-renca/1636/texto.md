@@ -1,0 +1,5 @@
+ORDENA ESTUDIO EXPROPIACION DE TERRENO QUE SEÑALA
+
+Por Decreto Alcaldicio N° 1636/85 del 17 de septiembre de 1985, la I. Municipalidad de Renca, ordenó el estudio de expropiación del terreno ubicado en el costado sur de la calle General Freire, frente al N° 4980, con una extensión aproximada de 71 m2.. Dicho terreno es parte de un predio de mayor extensión inscrito a nombre del Sr. Octavio Beserer Reyes, cuya inscripción de dominio rola a fs. 8.153 N° 11.824 del Registro de Propiedad del Conservador de Bienes Raíces de Santiago, del año 1956. Se designó Comisión Tasadora a don Jorge Cavagnaro Michelis, doña Nancy S nchez Sepúlveda y don Pastor Correa Prats, quienes determinar n el monto provisional de la indemnización a pagar por la I. Municipalidad de Renca y que fueron notificados conforme a la ley con fecha 26 de septiembre de 1985, aceptaron el cargo y juraron desempeñarlo fielmente y en el menor tiempo posible.-
+
+Alcalde.
