@@ -1,0 +1,7 @@
+Por Resolución N° 136, de 28 de Enero de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a HERIBERTO MUÑOZ CONCHA, R.U.T. N° 6.489.185-5, para ampliar actividades pesqueras autorizadas por la Resolución N° 208, de 1988, de esta Subsecretaría, en orden a incorporar los siguientes nuevos recursos como materia prima a procesos ya autorizados para su planta ubicada en Las Heras N° 2241, Concepción, habilitada por Resolución N° 208, de 1988, de esta Subsecretaría: Fresco, refrigerado: Salmón cereza, Ostra chilena; Congelado y fresco: Dorado, Machuelo o tritre, Salmón del Atlántico, Salmón cereza, Salmón plateado, Trucha arco iris, Turbot, Vidriola o palometa, Choro, Ostión del norte, Camarón de roca; Congelado: Merluza de cola, Ostra chilena, Pulpo y Camarón gigante.
+
+En el ejercicio de las actividades de procesamiento autorizadas, el solicitante deberá dar estricto cumplimiento a las normas legales y reglamentarias que regulen la conservación de recursos hidrobiológicos.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 28 de Enero de 1994.- Alvaro Briones Ramírez, Subsecretario de Pesca Subrogante.
