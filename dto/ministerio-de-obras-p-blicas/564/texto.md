@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 564, de 30 de junio de 1997, se expropio el lote de terreno N° 14-A, superficies 402,9 M2., rol de avalúo 9262-21, comuna de Valparaíso, obra Habilitación Nuevo Camino La Pólvora Etapa I, sector Ruta 68, Acceso Sur a Valparaíso, Camino La Pólvora Rol F-724, F-730, sector Placilla-Puertas Negras y se acordó precio de indemnización con su propietaria Elsa Lidia Vera Aravena, ascendente a la cantidad de $11.488.915.-
+
+Fiscal del Ministerio de Obras Públicas
