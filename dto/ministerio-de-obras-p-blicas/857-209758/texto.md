@@ -1,0 +1,5 @@
+Por Decreto M.O.P. N° 857, del 21 de octubre de 1996, y en base a la facultad otorgada por el artículo 105 del Decreto MOP N° 294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropió el lote de terreno N° 97, para la obra Proyecto Laja Diguillin, Canal Matriz, Sector Trilaleo Pemuco, Km. 11.985 al Km.
+
+29,924,00, que figura a nombre de Héctor Acuña Sandoval, rol de avalúo 153-4, Comuna de Pemuco, Provincia de Ñuble, VIII Región, superficie 27.546 m2. La Comisión de Peritos compuesta por los señores Pablo Carrillo Valenzuela, Luis Abarzúa Ceballos y José Manuel Gálvez Alegría, fijó con fecha 10 de abril de 1996, el valor provisional de la indemnización en la cantidad de $ 6.372.820.- lote 97. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
