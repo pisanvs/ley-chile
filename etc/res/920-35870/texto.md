@@ -1,0 +1,3 @@
+Por Resolución N° 920, de 26 de Julio de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a VICTOR VILLEGAS CANQUIL, R.U.T. N° 6.523.435-1, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en calle Presidente Balmaceda esquina de Almirante Latorre N° 1836, Puerto Aguirre, en las líneas de elaboración de Fresco, Congelado y Conserva, el recurso hidrobiológico Loco Concholepas concholepas.
+
+Valparaíso, 26 de Julio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
