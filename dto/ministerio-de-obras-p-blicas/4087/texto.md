@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.087, de 31 de agosto del 2000, se expropió el lote de terreno Nº68, superficie 504 m², rol de avalúo 63-163, comuna de Lonquimay, para la obra Camino Malalcahuello-Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Acceso a Pedregoso-Liucura, Km. 141,00000 al Km. 158,54000 y se acordó precio de la indemnización con su propietario Luciano Curiñe Ñehuen en la cantidad de $275.776.
+
+Fiscal del Ministerio de Obras Públicas.
