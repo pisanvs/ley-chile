@@ -1,0 +1,7 @@
+Por resolución Nº 1.066, de 13 de junio de 2000, de esta Subsecretaría, autorízase a JILBERTO JOSE GODOY DIAZ para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Avenida Las Industrias Nº 2, Manzana 1, Sitio 4, Caldera, comuna de Caldera, provincia de Copiapó, III Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco Refrigerado y Congelado: Anguila, Cojinoba del norte, Cojinoba del sur, Cojinoba moteada, Dorado, Anchoveta, Jurel, Sardina española, Sardina común, Caballa, Congrio colorado, Congrio dorado, Congrio negro, Lapa, Loco, Pulpo, Jaiba, Jaiba limón, Jaiba marmola, Jaiba mora, Jaiba panchote, Jaiba patuda, Jaiba peluda o pachona, Jaiba reina, Jaiba remadora, Langostino amarillo, Langostino colorado, Camarón nailon, Camarón de río, Camarón ecuatoriano y Erizo.
+
+El recurso Camarón ecuatoriano deberá cumplir con las normas de importación de materia prima vigentes.
+
+Déjase sin efecto la resolución Nº 279 de 2000, de esta Subsecretaría, con el mérito de lo dispuesto en la presente resolución.
+
+Valparaíso, 13 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
