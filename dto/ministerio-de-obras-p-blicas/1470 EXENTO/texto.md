@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.470, de 28 de septiembre del 2001, se expropió el lote de terreno Nº 92, superficie 269 m2., rol de avalúo 700-5, comuna de Algarrobo, para la obra Red Litoral Central Sector 2: Camino Algarrobo Casablanca (Ruta F-90), Quinta Región y se acordó el valor de indemnización con su propietaria María Magdalena Estay Bekios, ascendente a la cantidad de $2.326.667.-
+
+Fiscal del Ministerio de Obras Públicas.
