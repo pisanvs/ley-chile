@@ -1,0 +1,7 @@
+Por resolución N° 448 de 25 de Junio de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA IQUIQUE-GUANAYE S.A., R.U.T. N° 91.123.000-3, domiciliada en la calle Estado N° 337, Piso 3°, Santiago, para sustituir las naves "Zuiderster 4" y "Zuiderster 8" autorizadas por las resoluciones N° 275, N° 292, ambas de 1982 y N° 1417, de 1991, todas de esta Subsecretaría por una nave denominada "Malleco", podrá capturar en el área de pesca del litoral de la VIII Región, con cerco, con la nave individualizada precedentemente, los siguientes recursos hidrobiológicos: Sardina, Sardina común, Jurel, Anchoveta, Caballa, Agujilla y Merluza de cola.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+A partir de la fecha de inicio de operación de la embarcación "Malleco" quedarán sin efecto las Resoluciones N° 275, N° 292, ambas de 1982 y N° 1417, de 1991, todas de esta Subsecretaría, respecto de las autorizaciones relativas a la operación de las naves "Zuiderster 4" y "Zuiderster 8", exclusivamente.-
+
+Valparaíso, 25 de Junio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
