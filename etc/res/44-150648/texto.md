@@ -1,0 +1,5 @@
+EXTRACTO DE CANCELACION DE PERSONALIDAD JURIDICA DE ASOCIACION GREMIAL QUE INDICA
+
+Por resolución No. 44, de 27 de Abril de 1987, del Ministerio de Economía, Fomento y Reconstrucción se canceló la personalidad jurídica de la Asociación Gremial de Funcionarios no Académicos de La Araucanía, inscrita bajo el No. 13-9 del Registro de Asociaciones Gremiales que lleva este Ministerio por haberse configurado a su respecto la causal de cancelación contemplada en el artículo 5°, inciso 3° en relación con el artículo 18° No. 2, letra a), ambos del decreto 2.757. Los bienes quedados una vez liquidada la Asociación, tendrán el destino que determine S.E. el Presidente de la República.
+
+Santiago, 03 de Junio de 1987.- Jorge Valenzuela Durán, Coronel de Ejército, Subsecretario de Economía, Fomento y Reconstrucción.
