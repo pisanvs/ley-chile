@@ -1,0 +1,3 @@
+Por Resolución N° 956, de 20 de mayo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción; cadúcanse las Resoluciones N° 765, N° 1.371 y N° 2.067, todas de 1989, de esta Subsecretaría, que autorizaron a PESQUERA QUIVOLGO LTDA., para desarrollar actividades pesqueras extractivas con las naves "Quivolgana", "Jackie" y "Carmencha", en virtud de lo dispuesto en las letras b) y d) del artículo 143 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de mayo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
