@@ -1,0 +1,3 @@
+Por decreto No. 199, de 25 de Julio de 1985, se expropiaron los lotes Nos.. 2 y 3, cuyas superficies son 3.806 m², y 1.371 m²., roles de avalúos 1.539-7 y 1.539-60, comuna de Santa Bárbara, para la obra Puente Cholguague, camino Los Angeles, Santa Bárbara, y se acordó el precio de indemnización con sus propietarios doña Ursula Fiebig Baier y don Roberto Molina Sagredo, ascendente a las cantidades de $ 182.673 y $ 83. 801.
+
+- Fiscal del Ministerio de Obras Públicas. (2)
