@@ -1,0 +1,3 @@
+Por Resolución N° 293, de 10 de Marzo de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase en un año, contado desde 20 de noviembre de 1994, el plazo otorgado a PESQUERA CATALINA S.A., R.U.T. N° 84.194.200-1, con dirección postal en Casilla N° 31, San Antonio, V Región, en el numeral 5° de las Resoluciones N° 1031 y N° 1032, ambas de 1992, de esta Subsecretaría, en virtud de haberse acreditado la existencia de una fuerza mayor.
+
+Valparaíso, 10 de Marzo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
