@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.442, de 30 de mayo del 2000, se expropió el lote de terreno Nº2, superficie 7.029 m², comuna de Casablanca, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Enlace Tapihue, Quinta Región y se acordó el valor de indemnización con sus propietarios Oscar Fernando Salinas Pérez y otros, ascendente a la cantidad de $26.143.364.
+
+Fiscal del Ministerio de Obras Públicas.
