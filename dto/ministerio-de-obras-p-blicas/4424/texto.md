@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 4.424, de 29 de septiembre de 2000 y en base a la facultad otorgada por el artículo 105 del DFL. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 19, para la obra Camino Ruta E-755, sector San Esteban-Lo Calvo, Kms 0.000 al 7.001,80, que figura a nombre de José Pinto Zamora, rol de avalúo 54-49, superficie 917 m2., comuna de San Esteban. La comisión de peritos con fecha 25 de enero de 1999, fijó la indemnización provisional en la cantidad de $1.928.316, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
