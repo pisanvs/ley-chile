@@ -100,11 +100,11 @@ La circunstancia agravante establecida en el inciso anterior no aumentará la pe
 
 #### Artículo 15
 
-El Ministerio del Interior continuará a cargo de todas las erogaciones que se hayan hecho se hagan al Gobierno para ayudar a las zonas damnificadas.
+El Ministerio del Interior continuará a cargo de todas las erogaciones que se hayan hecho o se hagan al Gobierno para ayudar a las zonas damnificadas.
 
-El Ministerio del Interior podrá dar a dichas erogaciones el destino que estime más conveniente al fin señalado. Las erogaciones que consistan en alimentos, vestuarios, medicamentos u otros bienes corporales podrá ponerlas a disposición de los servicios o reparticiones fiscales, semifiscales, de administración autónoma o empresas del Estado y de las entidades públicas o privadas de beneficencia o educacionales que estime más adecuados para su distribución o aprovechamiento.
+El Ministerio del Interior podrá dar a dichas erogaciones el destino que estime más conveniente al fin señalado. Las erogaciones que consistan en alimentos, vestuarios, medicamentos u otros bienes corporales podrá ponerlas a disposición de los servicios o repaones fiscales, semifiscales, de administración autónoma o empresas del Estado y de las entidades públicas o privadas de beneficencia o educacionales que estime más adecuados para su distribución o aprovechamiento.
 
-Los bienes corporales que el Ministerio del Interior, en conformidad a lo dispuesto en el inciso precedente, haya puesto o ponga a disposición de la Empresa de Comercio Agrícola, podrán ser distribuidos por ésta en especie, o sustituyéndolos por otros bienes corporales de valor equivalente. En este último caso el Ministerio del Interior indicará a la Empresa los bienes y el lugar en que los deberá entregar.
+Los bienes corporales que el Ministerio del Interior, en conformidad a lo dispuesto en el inciso precedente, haya puesto o ponga a disposición de la Empresa de Comercio Agrícola, podrán ser distribuidos por ésta en especie, o sustituyéndolos por otros bienes cales de valor equivalente. En este último caso el Ministerio del Interior indicará a la Empresa los bienes y el lugar en que los deberá entregar.
 
 Las determinaciones que adopte el Ministerio del Interior en conformidad a la presente disposición no estarán sujetas a formalidades de ninguna especie, sin perjuicio de la rendición de cuentas a que se refiere el artículo siguiente.
 
