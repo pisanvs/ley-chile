@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 624 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 11-A, superficie 65 m2, sin rol, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al 70,000, Etapa I'', y se acordó el valor de indemnización con su propietario Irma Bordones Herrera, ascendente a la cantidad de $209.238.
+
+Fiscal del Ministerio de Obras Públicas.
