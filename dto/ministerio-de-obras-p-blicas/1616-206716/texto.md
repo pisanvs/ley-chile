@@ -1,0 +1,5 @@
+Por decreto MOP. Nº1.616, de 30 de septiembre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº39 para la obra:
+
+"Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector E: Km.84.300,00 al Km.92.000,00", Sexta Región, que figura a nombre de Labra Yáñez Héctor, rol de avalúo 11-73, comuna de Olivar, superficie 4.047 m2. La comisión de peritos integrada por los señores Orlando Antonio Fariña Vásquez, Manuel Hernán Díaz Farfán y René Octavio Corvalán Correa, fijó con feha 29 de julio de 2002, el valor provisional de la indemnización en la cantidad de $11.231.807.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
