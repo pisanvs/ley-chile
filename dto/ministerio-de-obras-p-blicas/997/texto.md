@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 997, de 25 de noviembre de 1996, se expropiaron los lotes de terreno N°s 34, 39 y 44, superficies 300, 1.799 y 951 m2., roles de avalúo 204-54, 204-32 y 204-28, comuna de Santa Juana, para la obra Camino de La Madera, sector Bifurcación Diuquín-Santa Juana, y se acordó el valor de indemnización con sus propietarios Rubén Díaz Díaz, Luciano Salgado Alegría y Agustín Fernández Rojas, ascendente a las cantidades de $345.440.-, $1.965.574.- y $1.278.839.-
+
+Fiscal del Ministerio de Obras Públicas.
