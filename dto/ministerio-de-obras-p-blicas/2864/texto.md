@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.864, de 30 de septiembre de 1999, se expropió el lote de terreno Nº1-1, superficie 734 m², rol de avalúo 24-97, comuna de Calle Larga, para la obra Camino Santiago-Colina-Los Andes, Sector G, By Pass Los Andes, Auco-Pocuro, Quinta Región y se acordó el valor de indemnización con su propietario Julio Ricardo Lardinois de la Fuente, ascendente a la cantidad de $1.654.402.-
+
+Fiscal del Ministerio de Obras Públicas.
