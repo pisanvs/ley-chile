@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.012 de fecha 29 de abril de 1999, se expropiaron los lotes de terreno Nºs. 51 y 52, superficie 394 y 1.090 m2., respectivamente, rol de avalúo 747-40, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli Sector 1 Km. 427.526,70 al Km. 434.386,40'', y se acordó el valor de indemnización con su propietario Claudio Emilio Salazar Rivera y otros, ascendente a la cantidad de $2.935.258.-
+
+Fiscal del Ministerio de Obras Públicas.
