@@ -1,0 +1,31 @@
+DEROGA DECRETOS Nº319, DE 1974, Y Nº25, DE 1975
+
+Santiago, 17 de septiembre de 2001.- Hoy se decretó lo que sigue:
+
+Núm. 190.- Visto: La ley Nº 16.391; el D.L. Nº 1.305, de 1976; los decretos supremos Nº 319, de 1974 y Nº 25, de 1975, ambos de Vivienda y Urbanismo; el Plan Regulador Metropolitano de Santiago, aprobado por resolución Nº 20, de 1994, del Gobierno Regional Metropolitano; la ley Nº 19.537, y en especial lo dispuesto en su artículo 49; las facultades que me confiere el número 8º del artículo 32 de la Constitución Política de la República de Chile; los demás antecedentes que se acompañan, y
+
+Considerando:
+
+a) Que en virtud de las disposiciones relativas a división de predios rústicos y sobre reforma agraria, contenidas en la ley Nº 16.465 y en la ley Nº 16.640, respectivamente, y de los artículos 42 Nº 1 letra d) y 495 de la Ordenanza General de Construcciones y Urbanización, se aprobó por D.S. Nº 319, del Ministerio de Vivienda y Urbanismo, de 1974, la creación del Balneario Las Vizcachas en la comuna de Puente Alto, en el predio de propiedad de la Sociedad Inmobiliaria y Campo de Deportes Las Vizcachas, luego Sociedad Inmobiliaria Autódromo y Campo de Deportes Las Vizcachas Limitada y Compañía por Acciones, y por D.S. Nº 25, de 1975, del mismo Ministerio, se autorizó la subdivisión de dicho predio en cuatro lotes, con el objeto de materializar el proyecto aprobado por el decreto antes citado, que contemplaba entre sus fines el habitacional, al cual se destinaron los lotes 2 y 3.
+
+b) Que los decretos mencionados en el considerando anterior fijaron, entre otras condiciones de urbanización y construcción, que en los terrenos destinados a fines habitacionales, sólo podrían construir una vivienda quienes acreditaran la calidad de socios de la sociedad propietaria y que la transferencia de ella sólo podría hacerse a miembros de la misma sociedad; que en dichos terrenos deberían formarse comunidades habitacionales integradas por esa sociedad y los interesados en construir viviendas en ellos, o sus cesionarios, comunidades que a su vez deberían ser comuneras con la sociedad aludida respecto de la totalidad de los terrenos correspondientes a los lotes 2, 3 y 4; que las viviendas que se construyeran en dichos terrenos debían cumplir con las disposiciones del DFL Nº 2, de 1959; que debían acogerse a la ley Nº 6071, y que el reglamento de copropiedad determinaría la proporción en la cual contribuirían a mantener los bienes comunes del balneario, tanto la sociedad como los socios que construyeran viviendas. Para el cumplimiento de éstas y las demás condiciones establecidas en dichos decretos, el D.S. Nº 25, antes citado, estableció una prohibición de enajenar o gravar los terrenos correspondientes a los lotes 2 y 3, la que se inscribió a favor del Ministerio de Vivienda y Urbanismo a fs. 365 vta. Nº 491, de 1975, del Registro de Interdicciones y Prohibiciones del Conservador de Bienes Raíces de Puente Alto.
+
+c) Que las comunidades formadas en los lotes 2 y 3, según se deja expresa constancia en las escrituras de compraventa de los inmuebles que forman parte de dichos lotes, se rigen por el Reglamento de Copropiedad del Loteo Balneario Residencial Las Vizcachas, reducido a escritura pública con fecha 7 de diciembre de 1977, en la Notaría de Santiago de don Osvaldo Pereira González, e inscrito a fs. 486 vta. Nº 640 del Registro de Hipotecas y Gravámenes del año 1977, del Conservador de Bienes Raíces de Puente Alto, y en dicho reglamento están incorporadas las condiciones fijadas por los decretos supremos Nº 319, de 1974 y Nº 25, de 1975, ambos del Ministerio de Vivienda y Urbanismo, a que alude el considerando b) precedente.
+
+d) Que el certificado Nº 98/79, de 23 de mayo de 1979 y el certificado s/n, de 26 de noviembre de 1992, de la Directora de Obras Municipales de Puente Alto, acreditan la recepción final de la urbanización de los lotes 2 y 3, del mencionado Loteo Balneario Las Vizcachas.
+
+e) Que habiéndose cumplido los objetivos tenidos en vista para la dictación de los decretos aludidos en el considerando a), no se justifica la mantención de la prohibición de enajenar o gravar referida en el considerando b).
+
+f) Atendido, además, que en la actualidad la comuna de Puente Alto está comprendida dentro del territorio normado por el Plan Regulador Metropolitano de Santiago, aprobado por resolución Nº 20, de 1994, del Gobierno Regional Metropolitano, por lo que los inmuebles que conforman el Balneario Las Vizcachas de Puente Alto deben regirse por las normas fijadas por dicho instrumento de planificación territorial para esa comuna, y que a partir de la vigencia de la ley Nº 19.537, sobre Copropiedad Inmobiliaria, a las comunidades de copropietarios del Loteo Balneario Residencial Las Vizcachas, les son aplicables las normas de dicho cuerpo legal,
+
+D e c r e t o:
+
+1º.- Deróganse los decretos supremos Nº 319, de 1974, y Nº 25, de 1975, ambos del Ministerio de Vivienda y Urbanismo.
+
+2º.- Lo establecido en el número anterior del presente decreto no afectará las disposiciones contenidas en el Reglamento de Copropiedad del Loteo Balneario Residencial Las Vizcachas, reducido a escritura pública con fecha 7 de diciembre de 1977, en la Notaría de Santiago de don Osvaldo Pereira González, e inscrito a fs. 486 vta. Nº 640 del Registro de Hipotecas y Gravámenes del año 1977, del Conservador de Bienes Raíces de Puente Alto, para cuya modificación debe estarse a lo dispuesto en la ley Nº 19.537, sobre Copropiedad Inmobiliaria.
+
+3º.- Procédase al alzamiento de la prohibición de enajenar o gravar que afecta a los inmuebles que conforman los lotes 2 y 3 del Loteo Balneario Residencial Las Vizcachas de la comuna de Puente Alto, inscrita a favor del Ministerio de Vivienda y Urbanismo a fs. 365 vta. Nº 491 del Registro de Interdicciones y Prohibiciones correspondiente al año 1975, del Conservador de Bienes Raíces de Puente Alto. Los gastos que se originen del alzamiento de la citada prohibición serán de cargo de los respectivos interesados.
+
+Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Sonia Tschorne Berestesky, Subsecretaria de Vivienda y Urbanismo.
