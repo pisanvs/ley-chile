@@ -1,0 +1,3 @@
+Por resolución Nº 1.825, de 18 de agosto de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110322 presentada por SALMONES MAINSTREAM S.A., para instalar y operar un centro de cultivo ubicado en canal Carrera de Cuchi, sector oeste de Punta Gallese, comuna y provincia de Aysén, XI Región.
+
+Valparaíso, 18 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
