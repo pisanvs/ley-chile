@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.322, de 31 de agosto de 2001, se expropió el lote de terreno Nº 124, superficie 953 m², rol de avalúo 277-27, comuna de Algarrobo, para la obra Red Vial Litoral Central, Sector 2: Camino Algarrobo Casablanca (Ruta F-90), Quinta Región y se acordó el valor de indemnización con su propietario Inmobiliaria y Constructora Altro Chile Limitada, ascendente a la cantidad de $3.001.664.-
+
+Fiscal del Ministerio de Obras Públicas.
