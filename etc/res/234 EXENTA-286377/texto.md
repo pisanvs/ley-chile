@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta N° 234, de Marzo 11 de 1983, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana, se modifica el recorrido Troncal N° 51 "Lo Curro - Lo Espejo", de la Línea de Buses N° 51 "El Golf Vitacura", autorizado a la Asociación Gremial de Transporte de Pasajeros El Golf Vitacura, por resolución N° 842 de Agosto 25 de 1982, quedando su nuevo trazado como sigue:
+
+Ida: Desde su terminal en Av. Santa María con Gran Vía, continúa por Av. Santa María - Luis Pasteur - Luis Carrera Nueva Costanera - Av. Américo Vespucio - Candelaria Goyenechea - Av. Vitacura - Av. Providencia - Av. Cardenal José María Caro - José Miguel de la Barra - Monjitas - Catedral - Matucana - Portales - Apóstol Santiago - Av. General Velásquez - Av. Cerrillos - Av. Central - Buenaventura - Av. Central - Gabriela Mistral - Balmaceda - Juan Francisco González hasta su terminal entre los Pasajes Jasé Santos González y Federico Gana.
+
+Regreso: Desde su terminal en Juan Francisco González entre los Pasajes José Santos González y Federico Gana, continúa por Juan Francisco González - Balmaceda - Gabriela Mistral - Gil de Castro - Av. Central - Buenaventura - Av. Central - Av. Cerrillos - Av. General Velásquez - Apóstol Santiago - Portales – Chacabuco - Compañía - Merced - Irene Morales - Av. Libertador Bernardo O'Higgins - Av. Providencia - Av. 11 de Septiembre - Encomenderos - Av. Vitacura - Candelaria Goyenechea - Av. Américo Vespucio - Nueva Costanera - Luis Carrera - Luis Pasteur - Av. Santa María hasta Gran Vía, su terminal.
+
+Santiago, Marzo, 15 de 1983.- Mauricio Mena Cruzat, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana.
