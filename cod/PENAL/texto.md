@@ -1718,7 +1718,7 @@ Los miembros de los tribunales de justicia colegiados o unipersonales y los func
 
 2° Cuando por sí o por interpuesta persona admitan o convengan en admitir dádiva o regalo por hacer o dejar de hacer algún acto de su cargo.
 
-3° Cuando ejerciendo las funciones de su empleo o valiéndose del poder que éste les da, seduzcan o soliciten a mujer procesada o que litigue ante ellos.
+3° Cuando ejerciendo las funciones de su empleo o valiéndose del poder que éste les da, seduzcan o soliciten a persona procesada o que litigue ante ellos.
 
 #### Artículo 224
 
@@ -1958,13 +1958,13 @@ Si el testimonio, certificación o solicitud versaren sobre un abuso cometido po
 
 #### Artículo 258
 
-El empleado público que solicitare a mujer que tenga pretensiones pendientes de su resolución, será castigado con la pena de inhabilitación especial temporal para el cargo u oficio en su grado medio.
+El empleado público que solicitare a persona que tenga pretensiones pendientes de su resolución, será castigado con la pena de inhabilitación especial temporal para el cargo u oficio en su grado medio.
 
 #### Artículo 259
 
-El empleado que solicitare a mujer sujeta a su guarda por razón de su cargo, sufrirá la pena de reclusión menor en cualquiera de sus grados e inhabilitación especial temporal para el cargo u oficio en su grado medio.
+El empleado que solicitare a persona sujeta a su guarda por razón de su cargo, sufrirá la pena de reclusión menor en cualquiera de sus grados e inhabilitación especial temporal para el cargo u oficio en su grado medio.
 
-Si la solicitada fuere mujer, hija, madre, hermana, o a fin legítima en los mismos grados de persona a quien tuviere bajo su guarda el solicitante, las penas serán reclusión menor en sus grados medio a máximo e inhabilitación especial perpetua para el cargo u oficio.
+Si la persona solicitada fuere cónyuge, conviviente, descendiente, ascendiente o colateral hasta el segundo grado de quien estuviere bajo la guarda del solicitante, las penas serán reclusión menor en sus grados medio a máximo e inhabilitación especial perpetua para el cargo u oficio.
 
 ### XIII. Disposición general
 
@@ -2602,73 +2602,89 @@ El que teniendo a su cargo la crianza o educación de un menor de diez años, lo
 
 El que indujere a un menor de edad, pero mayor de diez años, a que abandone la casa de sus padres, guardadores o encargados de su persona, sufrirá las penas de reclusión menor en cualquiera de sus grados y multa de once a veinte unidades tributarias mensuales.
 
-### IV. Del rapto
+IV. Del rapto. Derogado
 
 #### Artículo 358
 
-El rapto de una mujer de buena fama ejecutado contra su voluntad y con miras deshonestas, será penado con presidio menor en su grado máximo a mayor en su grado mínimo. Cuando no gozare de buena fama, la pena será presidio menor en cualquiera de sus grados.
-
-En todo caso se impondrá la pena de presidio mayor en cualquiera de sus grados si la raptada fuere menor de 12 años.
+Derogado.
 
 #### Artículo 359
 
-El rapto de una doncella menor de dieciocho y mayor de doce años, ejecutado con su anuencia, será castigado con presidio menor en cualquiera de sus grados.
+Derogado.
 
 #### Artículo 360
 
-Los procesados por delito de rapto que no dieren razón del paradero de la persona robada, o explicaciones satisfactorias sobre su muerte o desaparición, incurrirán en la pena de presidio mayor en cualquiera de sus grados.
+Derogado.
 
 ### V. De la violación
 
 #### Artículo 361
 
-La violación de una mujer será castigada con la pena de presidio menor en su grado máximo a presidio mayor en su grado medio.
+La violación será castigada con la pena de presidio menor en su grado máximo a presidio mayor en su grado medio.
 
-Se comete violación yaciendo con la mujer en alguno de los casos siguientes:
+Comete violación el que accede carnalmente, por vía vaginal, anal o bucal, a una persona mayor de doce años, en alguno de los casos siguientes:
 
-1.º Cuando se usa de fuerza o intimidación.
+1º Cuando se usa de fuerza o intimidación.
 
-2.° Cuando la mujer se halla privada de razón o de sentido por cualquier causa.
+2º Cuando la víctima se halla privada de sentido, o cuando se aprovecha su incapacidad para oponer resistencia.
 
-3.° Cuando sea menor de doce años cumplidos aun cuando no concurra ninguna de las circunstancias expresadas en los dos números anteriores.
-
-En el caso del número 3º del inciso anterior, la pena será presidio mayor en su grado medio a máximo.
+3º Cuando se abusa de la enajenación o trastorno mental de la víctima.
 
 #### Artículo 362
 
-Los delitos de que trata este párrafo se consideran consumados desde que hay principio de ejecución.
+El que accediere carnalmente, por vía vaginal, anal o bucal, a una persona menor de doce años, será castigado con presidio mayor en cualquiera de sus grados, aunque no concurra circunstancia alguna de las enumeradas en el artículo anterior.
 
-### VI. Del estupro, incesto, corrupción de menores y otros actos deshonestos
+### VI. Del estupro y otros delitos sexuales
 
 #### Artículo 363
 
-El estupro de una doncella, mayor de doce años y menor de dieciocho, interviniendo engaño, será castigado con presidio menor en cualquiera de sus grados.
+Será castigado con reclusión menor en sus grados medio a máximo, el que accediere carnalmente, por vía vaginal, anal o bucal, a una persona menor de edad pero mayor de doce años, concurriendo cualquiera de las circunstancias siguientes:
+
+1º Cuando se abusa de una anomalía o perturbación mental, aun transitoria, de la víctima, que por su menor entidad no sea constitutiva de enajenación o trastorno.
+
+2º Cuando se abusa de una relación de dependencia de la víctima, como en los casos en que el agresor está encargado de su custodia, educación o cuidado, o tiene con ella una relación laboral.
+
+3º Cuando se abusa del grave desamparo en que se encuentra la víctima.
+
+4º Cuando se engaña a la víctima abusando de su inexperiencia o ignorancia sexual.
 
 #### Artículo 364
 
-En igual pena incurrirá el que, conociendo las relaciones que lo ligan, cometiere incesto con un ascendiente o descendiente por consanguinidad, legítima o ilegítima o afinidad legítima o con un hermano consanguíneo legítimo o ilegítimo, aunque sea mayor de veinte años.
+Derogado.
 
 #### Artículo 365
 
-El procesados por delito de sodomía sufrirá la pena de presidio menor en su grado medio.
-
-Se impondrá la pena de presidio menor en su grado máximo a presidio mayor en su grado medio al que cometiere el delito concurriendo algunas de las siguientes circunstancias:
-
-1°.- Cuando se use de fuerza e intimidación sobre la víctima, y
-
-2°.- Cuando se halle la víctima privada de razón o de sentido por cualquier causa.
-
-3°.- Suprimido.
-
-Se impondrá la pena de presidio mayor en su grado medio a máximo si el ofendido fuere menor de catorce años cumplidos, aun cuando no concurra ninguna de las circunstancias expresadas en los dos números del inciso anterior.
+El que accediere carnalmente a un menor de dieciocho años de su mismo sexo, sin que medien las circunstancias de los delitos de violación o estupro, será penado con reclusión menor en sus grados mínimo a medio.
 
 #### Artículo 366
 
-El que abusare deshonestamente de persona de uno u otro sexo mayor de doce años y menor de dieciocho, será castigado con presidio menor en cualquiera de sus grados. Si concurriere alguna de las circunstancias expresadas en el art. 361, se estimará como agravante del delito, aun cuando sea mayor de veinte años la persona de quien se abusa.
+El que abusivamente realizare una acción sexual distinta del acceso carnal con una persona mayor de doce años, será castigado:
+
+1º Con reclusión menor en cualquiera de sus grados, cuando el abuso consistiere en la concurrencia de alguna de las circunstancias enumeradas en el artículo 361.
+
+2º Con reclusión menor en sus grados mínimo a medio, cuando el abuso consistiere en la concurrencia de alguna de las circunstancias enumeradas en el artículo 363, siempre que la víctima fuere menor de edad.
+
+#### Artículo 366 bis
+
+El que realizare una acción sexual distinta del acceso carnal con una persona menor de doce años, cuando no concurran las circunstancias enumeradas en los artículos 361 o 363, será castigado con la pena de reclusión menor en cualquiera de sus grados.
+
+Si concurre alguna de esas circunstancias, la pena será de reclusión menor en sus grados medio a máximo.
+
+#### Artículo 366 ter
+
+Para los efectos de los dos artículos anteriores, se entenderá por acción sexual cualquier acto de significación sexual y de relevancia realizado mediante contacto corporal con la víctima, o que haya afectado los genitales, el ano o la boca de la víctima, aun cuando no hubiere contacto corporal con ella.
+
+#### Artículo 366 quater
+
+El que, sin realizar una acción sexual en los términos anteriores, para procurar su excitación sexual o la excitación sexual de otro, realizare acciones de significación sexual ante una persona menor de doce años, la hiciere ver o escuchar material pornográfico o la determinare a realizar acciones de significación sexual delante suyo o de otro, será castigado con reclusión menor en cualquiera de sus grados.
+
+Con la misma pena será castigado el que empleare un menor de doce años en la producción de materia pornográfico.
+
+También se sancionará con igual pena a quien realice alguna de las conductas descritas en los incisos anteriores con una persona menor de edad pero mayor de doce años, concurriendo cualquiera de las circunstancias del numerando 1º del artículo 361 o de las enumeradas en el artículo 363.
 
 #### Artículo 367
 
-El que, habitualmente o con abuso de autoridad o confianza, promoviere o facilitare la prostitución o corrupción de menores de edad para satisfacer los deseos de otro, sufrirá las penas de presidio mayor en cualquiera de sus grados y multa de veintiuna a treinta unidades tributarias mensuales.
+El que, habitualmente o con abuso de autoridad o confianza, promoviere o facilitare la prostitución de menores de edad para satisfacer los deseos de otro, sufrirá las penas de presidio mayor en cualquiera de sus grados y multa de veintiuno a treinta sueldos vitales.
 
 #### Artículo 367 bis
 
@@ -2688,43 +2704,59 @@ No obstante, se impondrán las penas señaladas en el artículo anterior en los 
 
 6.- Si existe habitualidad en la conducta del agente.
 
-### VII. Disposiciones comunes a los tres párrafos anteriores
+### VII. Disposiciones comunes a los dos párrafos anteriores
 
 #### Artículo 368
 
-Si el rapto, la violación, el estupro, la sodomía, los abusos deshonestos o la corrupción de menores han sido cometidos por autoridad pública, sacerdote, guardador, maestro, criado o encargado por cualquier título de la educación, guarda o curación de la persona ofendida o prostituida, se impondrá al reo la pena señalada al delito en su grado máximo.
+Si los delitos previstos en los dos párrafos anteriores hubieren sido cometidos por autoridad pública, ministro de un culto religioso, guardador, maestro, empleado o encargado por cualquier título o causa de la educación, guarda, curación o cuidado del ofendido, se impondrá al responsable la pena señalada al delito con exclusión de su grado mínimo, si ella consta de dos o más grados, o de su mitad inferior, si la pena es un grado de una divisible.
+
+Exceptúanse los casos en que el delito sea de aquellos que la ley describe y pena expresando las circunstancias de usarse fuerza o intimidación, abusarse de una relación de dependencia de la víctima o abusarse de autoridad o confianza.
 
 #### Artículo 369
 
-No puede procederse por causa de estupro sino a instancia de la agraviada o de sus padres, abuelos o guardadores.
+No puede procederse por causa de los delitos previstos en los artículos 361 a 366 quater, sin que a lo menos se haya denunciado el hecho a la justicia, al ministerio público o a la policía por la persona ofendida, por sus padres, abuelos o guardadores, o por quien la tuviere bajo su cuidado.
 
-Para proceder en las causas de violación y de rapto se necesita, a lo menos, la denuncia hecha a la justicia por la persona interesada, por sus padres, abuelos o guardadores, aunque no formalicen instancia. Si la persona agraviada, a causa de su edad o estado moral, no pudiere hacer por sí misma la acusación o denuncia, ni tuviere padres, abuelos o guardadores, o teniéndolos se hallaren imposibilitados o complicados en el delito, podrá el ministerio público entablar la acusación.
+Si la persona ofendida, a causa de su edad o estado mental, no pudiere hacer por sí misma la denuncia, ni tuviere padres, abuelos, guardadores o persona encargada de su cuidado, o si, teniéndolos, estuvieren imposibilitados o implicados en el delito, la denuncia podrá ser efectuada por los educadores, médicos u otras personas que tomen conocimiento del hecho en razón de su actividad, o podrá procederse de oficio por el ministerio público, quien estará facultado también para deducir las acciones civiles a que se refiere el artículo 370.
 
-En todo caso se suspende el procedimiento o se remite la pena casándose el ofensor con la ofendida.
+En caso de que un cónyuge o conviviente cometiere alguno de los delitos previstos en los artículos 361 y 366 Nº1 en contra de aquél con quien hace vida en común, se aplicarán las siguientes reglas:
 
-No produce estos efectos la proposición de matrimonio desechada por la ofendida, por la persona que debe prestar su consentimiento para el acto o por el juez en su caso, o cuando no pueda verificarse el matrimonio por impedimento legal.
+1ª Si sólo concurriere alguna de las circunstancias de los numerandos 2º ó 3º del artículo 361, no se dará curso al procedimiento o se dictará sobreseimiento definitivo, a menos que la imposición o ejecución de la pena fuere necesaria en atención a la gravedad de la ofensa infligida.
+
+2ª Cualquiera sea la circunstancia bajo la cual se perpetre el delito, a requerimiento del ofendido se pondrá término al procedimiento, a menos que el juez no lo acepte por motivos fundados.
+
+#### Artículo 369 bis
+
+En los procesos por los delitos a que se refieren los dos párrafos anteriores, el juez apreciará la prueba conforme con las reglas de la sana crítica.
 
 #### Artículo 370
 
-Los procesados por violación, estupro o rapto serán también condenados por vía de indemnización:
+Además de la indemnización que corresponda conforme a las reglas generales, el condenado por los delitos previstos en los artículos 361 a 366 bis será obligado a dar alimentos cuando proceda de acuerdo a las normas del Código Civil.
 
-1.° A dotar a la ofendida si fuere soltera o viuda.
+#### Artículo 370 bis
 
-2.° A dar alimentos congruos a la prole que, según las reglas legales, fuere suya.
+El que fuere condenado por alguno de los delitos a que se refieren los dos párrafos anteriores cometido en la persona de un menor del que sea pariente, quedará privado de la patria potestad si la tuviere o inhabilitado para obtenerla si no la tuviere y, además, de todos los derechos que por el ministerio de la ley se le confirieren respecto de la persona y bienes del ofendido, de sus ascendientes y descendientes. El juez así lo declarará en la sentencia, decretará la emancipación del menor si correspondiere, y ordenará dejar constancia de ello mediante subinscripción practicada al margen de la inscripción de nacimiento del menor.
+
+El pariente condenado conservará, en cambio, todas las obligaciones legales cuyo cumplimiento vaya en beneficio de la víctima o de sus descendientes.
 
 #### Artículo 371
 
-Los ascendientes, guardadores, maestros y cualesquiera personas que con abuso de autoridad o encargo, cooperaren como cómplices a la perpetración de los delitos comprendidos en los tres párrafos precedentes, serán penados como autores.
+Los ascendientes, guardadores, maestros y cualesquiera personas que con abuso de autoridad o encargo, cooperaren como cómplices a la perpetración de los delitos comprendidos en los dos párrafos precedentes, serán penados como autores.
 
 Los maestros o encargados en cualquier manera de la educación o dirección de la juventud, serán además condenados a inhabilitación especial perpetua para el cargo u oficio.
 
 #### Artículo 372
 
-Los comprendidos en el artículo precedente y cualesquiera otros procesados por corrupción de menores con interés de terceros, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad por el tiempo que el tribunal determine.
+Los comprendidos en el artículo precedente y cualesquiera otros condenados por la comisión de los delitos previstos en los dos párrafos precedentes en contra de un menor de edad, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad por el tiempo que el tribunal determine.
 
 #### Artículo 372 bis
 
-El que con motivo u ocasión de violación o de sodomía, causare, además, la muerte del ofendido será castigado con la pena de presidio perpetuo a muerte
+El que con ocasión de violación cometiere además homicidio en la persona de la víctima, será castigado con presidio mayor en su grado máximo a presidio perpetuo.
+
+El que con ocasión de violación por vía vaginal si la víctima fuere mujer o por vía anal si fuere hombre, cometiere además el homicidio del ofendido será castigado con la pena de presidio perpetuo a muerte.
+
+#### Artículo 372 ter
+
+En los delitos establecidos en los dos párrafos anteriores, el juez podrá en cualquier momento, a petición de parte, o de oficio por razones fundadas, disponer las medidas de protección del ofendido y su familia que estime convenientes, tales como la sujeción del implicado a la vigilancia de una persona o institución determinada, las que informarán periódicamente al tribunal; la prohibición de visitar el domicilio, el lugar de trabajo o el establecimiento educacional del ofendido; la prohibición de aproximarse al ofendido o a su familia, y, en su caso, la obligación de abandonar el hogar que compartiere con aquél.
 
 ### VIII. De los ultrajes públicos a las buenas costumbres
 
@@ -2734,15 +2766,15 @@ Los que de cualquier modo ofendieren el pudor o las buenas costumbres con hechos
 
 #### Artículo 374
 
-El que vendiere, distribuyere o exhibiere canciones, folletos u otros escritos, impresos o no, figuras o estampas contrarios a las buenas costumbres, será condenado a las penas de reclusión menor en su grado mínimo y multa de seis a diez unidades tributarias mensuales.
+El que vendiere, distribuyere o exhibiere canciones, folletos u otros escritos, impresos o no, figuras o estampas contrarios a las buenas costumbres, será condenado a las penas de reclusión menor en su grado mínimo o multa de once a veinte unidades tributarias mensuales.
 
 En las mismas penas incurrirá el autor del manuscrito, de la figura o de la estampa o el que los hubiere reproducido por un procedimiento cualquiera que no sea la imprenta.
 
-IX. Del adulterio. Derogado
+### IX. Del incesto
 
 #### Artículo 375
 
-Derogado.
+El que, conociendo las relaciones que lo ligan, cometiere incesto con un ascendiente o descendiente por consanguinidad o con un hermano consanguíneo, será castigado con reclusión menor en sus grados mínimo a medio.
 
 #### Artículo 376
 
