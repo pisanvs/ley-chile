@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.609 de fecha 31 de octubre de 2002, se expropiaron los lotes de terreno Nºs 10 y 17, superficie 260 y 252 m2 respectivamente, rol Nº 153-1, comuna de San Vicente, VI Región, para la obra ''Mejoramiento Camino Ruta H-724, Sector La Gruta - Pueblo de Indios, Km. 0,000 a Km. 1,187 y Sector Ruta H-730, Km. 1,600 al Km. 3,292'' y se acordó el valor de indemnización con su propietario Mario Hernán Pavez Díaz, ascendente a la cantidad de $3.824.296.-
+
+Fiscal del Ministerio de Obras Públicas.
