@@ -1,0 +1,153 @@
+RECONOCE, POR UNA SOLA VEZ, PARA LOS EFECTOS DE LA ASIGNACION DE ANTIGÜEDAD ESTABLECIDA EN EL ARTICULO 6° DEL D. L. N° 249, DE 1973, AL PERSONAL DE PLANTA EN ACTUAL SERVICIO, EL TIEMPO DESEMPEÑADO QUE INDICA. OTRAS DISPOSICIONES
+
+Núm. 479.- Santiago, 27 de Mayo de 1974.- Vistos: lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, la Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Para los efectos de la asignación de antigüedad establecida en el artículo 6° del decreto ley N° 249, de 1973, reconócese, por una sola vez, al personal de planta en actual servicio, a contar del 1° de Mayo de 1974, como servido en los grados en que se encuentra ubicado, el tiempo efectivamente desempeñado en la Administración del Estado en cualquiera de sus ramas, antes del 1° de Enero de 1974, en calidad de planta, a contrata o a jornal, con un máximo de 30 años.
+
+Respecto del personal de las entidades incluidas en el artículo 1° del decreto ley N° 249, que no pertenecen a la Administración del Estado, se les computará además del tiempo en que se hayan desempeñado en la Administración del Estado, el que hayan servido en cualquiera de las entidades enumeradas en dicho artículo, el que se acreditará mediante certificados expedidos por los respectivos institutos de previsión en los que conste el tiempo de afiliación correspondiente, hasta el límite máximo de treinta años.
+
+Lo dispuesto en este artículo no regirá respecto del personal de las plantas docentes dependientes del Ministerio de Educación Pública que mantiene el régimen trienal del artículo 305 del DFL. N° 338, de 1960.
+
+#### Artículo 2°
+
+_ Sustitúyense los incisos segundo y tercero del artículo 21° del decreto ley N° 249, de 1973, por los siguientes:
+
+"En casos justificados por razones de servicio, calificados por las autoridades respectivas, podrá nombrarse o contratarse profesionales o técnicos con jornadas de 22 ó 33 horas semanales. Los trabajadores sujetos a estas jornadas percibirán el 50% o el 75%, respectivamente, de las remuneraciones asignadas a la jornada completa correspondiente.
+
+La fijación de jornadas de profesionales o técnicos con menos de 22 horas semanales, sólo podrá hacerse por decreto supremo del Ministerio respectivo con la visación de Hacienda, a petición fundada del Jefe Superior. En el mismo decreto se fijará la proporción del sueldo que corresponda percibir al trabajador."
+
+#### Artículo 3°
+
+Concédese, a contar del 1° de mayo de 1974, una asignación profesional, no imponible, a los funcionarios que cumplan jornada completa de 44 horas semanales, dependientes de las entidades enumeradas en los artículos 1° y 2° del decreto ley 249, de 1973, que tengan un título profesional universitario y que pertenezcan a servicios o instituciones que a la fecha de publicación de este decreto ley tengan jornada completa de cuarenta y cuatro horas semanales.
+
+Para el exclusivo efecto del pago de esta asignación, serán títulos profesionales habilitantes aquellos otorgados por una Universidad o Instituto Profesional del Estado o reconocido por éste, con un programa de estudios de un mínimo de seis semestres académicos y 3.200 horas de clases. El Ministerio de Educación refrendará, en los casos en que proceda, la vigencia del programa y título profesional respectivo, al momento de su otorgamiento.
+
+Esta asignación será equivalente al porcentaje que se indica del sueldo del grado de la escala única que corresponda al cargo que ocupa el funcionario, y se calculará únicamente sobre ese sueldo: grado A al grado 6°, 80 %; grados 7° al 12°, 70%; grados 13° al 17°, 60%, y grados 18° al 23°, 25%.
+
+INCISO DEROGADO
+
+El personal afecto a la ley 15.076 que acredite cumplir una jornada de 44 horas semanales, tendrá derecho a percibir una asignación de la misma naturaleza, calculada sobre el sueldo que corresponde a los grados de la Escala Unica que en cada caso se indican, en la siguiente forma:
+
+Los profesionales funcionarios que no gocen de trienios percibirán la asignación profesional que corresponde al grado 13° de la Escala Unica de Sueldos;
+
+Al alcanzar el primer trienio, gozarán de la asignación profesional correspondiente al grado 11° de la misma Escala;
+
+Al devengar el segundo trienio, les corresponderá la asignación profesional del grado 10° de esa Escala;
+
+Al obtener el tercer trienio, disfrutarán de la asignación profesional del grado 8° de la Escala;
+
+Al devengar el cuarto trienio y hasta completar el quinto, percibirán la asignación profesional del grado 7° de esa Escala;
+
+Al gozar del sexto trienio y hasta enterar el octavo, se les pagará la asignación profesional del grado 6° de la mencionada Escala, y
+
+Al devengar el noveno trienio y los siguientes, gozarán de la asignación profesional del grado 5° de la Escala Unica de Sueldos.
+
+INCISO FINAL.- DEROGADO.
+
+> **Nota.** NOTA: 1 De acuerdo con lo dispuesto en el art. 3°, inciso segundo del DL 1607, de 1976 y art. 4° del DL 1770, de 1977, los porcentajes a que se refiere el inciso segundo del art. 3° del presente decreto ley rigen a contar del 1° de mayo de 1977.
+
+> **Nota.** NOTA: 1.1 El artículo 19 de la Ley N° 19.185, publicada en el "Diario Oficial" de 12 de diciembre de 1992, sustituyó, a contar del 1° de enero de 1993, respecto de los trabajadores regidos por el presente decreto ley, exceptuados los de la Comisión Chilena de Energía Nuclear y los profesionales funcionarios afectos a la ley N° 15.076, la modalidad de cálculo de las asignaciones a que se refieren el artículo 3° del decreto ley N° 479, de 1974; y el artículo 10 del decreto ley N° 924, de 1975, y el artículo 5° del decreto ley N° 2.964, de 1979, por los montos mensuales que se pasa a señalar: Grado Monto $ A 143.030 B 140.117 C 134.789 1A 134.357 1B 131.718 1C 129.140 2 126.606 3 119.447 4 112.688 5 112.323 6 100.288 7 91.509 8 82.071 9 74.272 10 67.215 11 60.828 12 55.048 13 49.440 14 44.380 15 39.839 16 35.762 17 32.102 18 28.046 19 22.259 20 17.666 21 14.021 22 11.127 23 8.831 Cuando no proceda aplicar a determinados funcionarios la modalidad de cálculo que dispone este artículo, les corresponderá percibir las asignaciones que proceda, según la modalidad actual.
+
+> **Nota.** NOTA: 2 El art. único del DL 1927, de 1977, interpretó el inciso 3° del art. 3° del DL 479, en el sentido que la asignación profesional que ahí se indica corresponde y ha correspondido solamente a los funcionarios que ocupan cargos respecto de los cuales la ley en vigor a la fecha de vigencia de dicho decreto ley -29 de mayo de 1974- exigía como requisito para ser designado en ellos el de estar en posesión de un título profesional universitario o cumplir, subsidiariamente con alguno de otro requisito de especialidad o conocimiento.
+
+> **Nota.** NOTA: 3 Los funcionarios que se encuentren percibiendo la asignación profesional a la fecha de derogación del inciso tercero del art. 3° de este decreto ley (2 de diciembre de 1977), conservarán el derecho a seguir gozando de ese beneficio. (DL 2056, 1977, art. 3°, inciso tercero).
+
+> **Nota.** NOTA: 4 La modificación introducida por el artículo 3°, del Decreto Ley 758, de 1974, al inciso cuarto del art. 3° del presente decreto ley, regirá a contar del 1° de julio de 1974. (DL 758, 1974, art. 4°).
+
+> **Nota.** NOTA: 5 La modificación introducida por el DL 3058, de 1979, Art. 8°, al inciso final del art. 3° del DL 479, rige a contar del 1° de enero de 1980.
+
+#### Artículo 4°
+
+Sustitúyese, a contar del 1° de Mayo de 1974, en la escala del artículo 1° del decreto ley N° 249, de 1973, el "Grado 1°.... E° 320.000", por los siguientes:
+
+"Grado 1°- A E° 320.000
+
+Grado 1°- B 317.000
+
+Grado 1°- C 314.000"
+
+Sobre estos sueldos se aplicará el reajuste del decreto ley N° 446, de 1974.
+
+En el grado 1° -A- quedan ubicados los Miembros de la Junta de Gobierno, el Presidente de la Corte Suprema y el Contralor General de la República; en el grado 1° -B-, los Ministros de Estado y los Ministros y el Fiscal de la Corte Suprema, y en el grado 1° -C-, los Subsecretarios de Estado.
+
+#### Artículo 5°
+
+Sustitúyese, a contar desde el 1° de Mayo de 1974, en las posiciones relativas establecidas en el artículo 12° del decreto ley N° 249, de 1973, de los escalafones o cargos de Abogados, Arquitectos, Ingenieros Civiles, Ingenieros Comerciales, Médicos Cirujanos, Ingenieros Agrónomos y Médicos Veterinarios, el grado "19°" por grado "17°"; de Administradores Públicos y Contadores Auditores, el grado "19°" por grado "17°"; de Ingenieros de Ejecución, Constructores Civiles y Químicos Industriales, el grado "21°" por grado "19°"; de Psicólogos, Sociólogos, Periodistas, Enfermeras y Matronas, el grado "22°" por grado "20°"; de Asistentes Sociales, el grado "23°" por grado "21°"; de Tecnólogos Médicos, Kinesiólogos y Nutricionistas, el grado "24°" por grado "22°"; de Técnicos Universitarios Colegiados con título, el grado "25°" por grado "23°", y de Bibliotecarias y Educadoras de Párvulos, el grado "25°" por grado "23°".
+
+#### Artículo 6°
+
+Sustitúyese, a contar del 1° de Mayo de 1974, el artículo 8° del decreto ley N° 249, de 1973, por el siguiente:
+
+#### Artículo 8°
+
+La asignación de gastos de movilización que concede el artículo 76° del DFL. N° 338, de 1960, no podrá ser superior a un 40% del sueldo del grado 35° de la Escala Unica y la asignación de pérdida de Caja que concede el artículo 77° de dicho DFL. no podrá ser superior a un 15% del sueldo de dicho grado 35°. Estas asignaciones beneficiarán por igual a todos los trabajadores respecto de los cuales concurran las circunstancias que dan lugar a ellas."
+
+#### Artículo 7°
+
+Sustitúyese, en el artículo 76° del D.F.L. N° 338, de 1960, la expresión "25% del sueldo vital mensual del departamento de Santiago" por la siguiente: "40% del sueldo grado 35° de la Escala Unica del decreto ley N° 249, de 1973".
+
+#### Artículo 8°
+
+Sustitúyense, a contar del 1° de Mayo de 1974, en las posiciones relativas establecidas en el artículo 12° del decreto ley N° 249, de 1973, de los escalafones o cargos de Profesor de Estado, los grados "25°" y "15°" por grados "23°" y "13°", respectivamente, y de Profesores Normalistas, los grados "28°" y "19°" por grados "26°" y "17°", respectivamente .
+
+#### Artículo 9°
+
+Auméntase en dos grados, a contar desde el 1° de Mayo del presente año, la ubicación dada al personal de las Plantas Docentes del Ministerio de Educación Pública, fijadas por el decreto ley N° 272, de 1974.
+
+#### Artículo 10°
+
+Declárase que los valores de la hora de clases a que se refiere el artículo 4° del decreto ley N° 272, de 1974, a contar desde el 1° de Mayo del presente año, se calculará sobre la renta correspondiente al grado 23° de la Escala Unica.
+
+#### Artículo 11°
+
+Establécese, a contar desde el 1° de Marzo de 1974, que la compatibilidad señalada en el inciso segundo del artículo 2° del decreto ley N° 352, de 1974, para el Director de la Escuela Básica Diurna, es extensiva al cargo de Profesor de Escuela Básica Nocturna.
+
+#### Artículo 12°
+
+Auméntanse en dos grados, a contar desde el 1° de Mayo de 1974, los tramos señalados en los artículos 23°, 24° y 25° del decreto ley N° 317, de 1974, referidos al personal de las Plantas Docentes del Ministerio de Educación Pública, que tengan 30 o más años de servicios.
+
+#### Artículo 13°
+
+Prorrógase hasta el 31 de Diciembre del presente año, el plazo establecido en la disposición séptima transitoria del decreto ley N° 353, de 1974, publicado en el Diario Oficial de 15 de Marzo de 1974.
+
+#### Artículo 14°
+
+Declárase que los anticipos que en virtud de lo dispuesto en el artículo 16° del decreto ley N° 272, corresponde recibir al personal de las Municipalidades, en tanto no se dicte respecto de ellos el decreto ley de ubicación en la Escala Unica, deben entenderse aumentados en un 30%, a contar del 1° de Mayo de 1974, por aplicación del decreto ley N° 446.
+
+Declárase, asimismo, que dichos anticipos, a contar de la misma fecha, deben tener un mínimo de E° 19.599.
+
+Los anticipos a cuenta de aportes patronales que las Municipalidades deben efectuar en cumplimiento de lo establecido en el artículo 14° del decreto ley N° 361, de 1974, deben aumentarse en 30%, a contar del 1° de Mayo de 1974.
+
+#### Artículo 15°
+
+Durante el presente año, las Municipalidades podrán destinar al financiamiento de los mayores gastos por concepto de anticipos, ubicación en la Escala Unica y otros aumentos de remuneraciones y las imposiciones patronales correspondientes, cualquiera de los ingresos que perciban, entendiéndose para estos efectos, modificados sus presupuestos.
+
+#### Artículo 16°
+
+Declárase que el artículo 16° del decreto ley N° 272, de 1974, al incorporar a las Municipalidades a la nómina de instituciones del artículo 1° del decreto ley N° 249, de 1973, les hizo aplicable todas las disposiciones complementarias de este último decreto ley, incluso el artículo 21° sobre jornada de trabajo.
+
+#### Artículo 17°
+
+Suprímese, en el artículo 10° del decreto ley N° 249, de 1973, cuyo texto fue fijado en el artículo 23° del decreto ley N° 450, de 1974, la siguiente frase del inciso tercero: "Respecto del personal regido por los DFL. 1, de Guerra, y DFL 2, de Interior, ambos de 1968, se entenderá por remuneración mensual permanente, para los efectos de la determinación del viático, el sueldo, los trienios y la bonificación profesional.
+
+Intercálase, como inciso cuarto del mismo artículo, el siguiente:
+
+"Respecto del personal regido por los DFL. 1, de Guerra, y DFL. 2, del Interior, ambos de 1968, corresponderá el viático de E° 16.000 al personal de las categorías I a V de la escala de sueldos; el de E° 12.000 al personal de la categoría VI al grado 3°, y el de E° 8.000 al de los grados 4° a 8°. Para este efecto se estará a la categoría o grado de sueldo que corresponda al grado jerárquico que inviste al funcionario respectivo".
+
+#### Artículo 18°
+
+El beneficio que otorga el artículo 1°, se reconocerá por resolución de los Jefes Superiores de Servicios o del Presidente de la Corte Suprema, en su caso, quienes podrán delegar esta facultad en algún funcionario de su dependencia o en los Presidentes de las Cortes de Apelaciones, respectivamente.
+
+#### Artículo 19°
+
+El mayor gasto fiscal que represente este decreto ley se financiará con cargo a los mayores rendimientos que produzcan las disposiciones tributarias vigentes.
+
+#### Artículo 20°
+
+Las primeras diferencias mensuales de remuneraciones imponibles determinadas por la aplicación de este decreto ley, quedarán a beneficio de los personales respectivos y no deberán ser depositadas en las Cajas de Previsión correspondientes.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.
