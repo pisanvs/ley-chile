@@ -984,6 +984,10 @@ El que dolosamente destine o utilice donaciones de aquellas que las leyes permit
 
 Los contribuyentes del impuesto de primera categoría de la Ley sobre Impuesto a la Renta, que dolosamente y en forma reiterada, deduzcan como gasto de la base imponible de dicho impuesto donaciones que las leyes no permiten rebajar, serán sancionados con la pena de presidio menor en sus grados medio a máximo.
 
+25.- El que actúe como usuario de las Zonas Francas establecidas por ley, sin tener la habilitación correspondiente, o teniéndola, la haya utilizado con la finalidad de defraudar al Fisco, será sancionado con una multa de hasta ocho Unidades Tributarias Anuales y con presidio menor en sus grados medio a máximo.
+
+Se sancionará con las penas establecidas en el inciso anterior a quien efectúe transacciones con una persona que actúe como usuario de Zona Franca, sabiendo que éste no cuenta con la habilitación correspondiente o teniéndola, la utiliza con la finalidad de defraudar al Fisco.
+
 #### Artículo 98
 
 De las sanciones pecuniarias responden el contribuyente y las demás personas legalmente obligadas.
