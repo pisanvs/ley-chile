@@ -8970,55 +8970,13 @@ nuevo contrato entrará en vigencia.
 
 12.1. Modificaciones de los contratos actualmente vigentes.
 
-Los contratos a que se refieren los numerales 2.1; 2.2; 2.3 y 2.4 de este
+Los contratos a que se refieren los numerales 2.1; 2.2; 2.3 y 2.4 de este capítulo, que hayan sido suscritos por los bancos y sociedades financieras en su calidad de emisores de tarjetas de crédito, con los titulares de las mismas, con los establecimientos afiliados y con los operadores y que se encuentren vigentes en la fecha en que la institución emisora quede sometida a las normas de que trata este capítulo, podrán adaptarse al texto de los modelos que hayan sido aprobados por el Banco Central de Chile, mediante un agregado a "addendum" que incorporará las modificaciones necesarias para ese efecto. Esta modalidad que tendrá el carácter de transitoria, podrá emplearse hasta el vencimiento del respectivo contrato, oportunidad en que, de ser renovado, deberá remplazarse por el texto que se haya sometido a la aprobación del Banco Central de Chile.
 
-capítulo, que hayan sido suscritos por los bancos y sociedades financieras en su
+12.2. Vigencia de estas disposiciones para las entidades financieras que actualmente sean emisoras de tarjetas de crédito.
 
-calidad de emisores de tarjetas de crédito, con los titulares de las mismas, con
+Las instituciones financieras que tengan actualmente la calidad de emisoras de tarjetas de crédito, deberán someterse a las normas establecidas en el Capítulo III.J.1 antes mencionado y a las instrucciones contenidas en este capítulo a partir de la fecha en que se publique la correspondiente autorización del Banco Central de Chile que las faculte para emitir alguna tarjeta de crédito de conformidad con las disposiciones a que se refiere este capítulo. En todo caso, deberán contar con esa autorización a más tardar el 31 de mayo de 1989, para lo cual deberán presentar oportunamente al Instituto Emisor la correspondiente solicitud.
 
-los establecimientos afiliados y con los operadores y que se encuentren vigentes
-
-en la fecha en que la institución emisora quede sometida a las normas de que
-
-trata este capítulo, podrán adaptarse al texto de los modelos que hayan sido
-
-aprobados por el Banco Central de Chile, mediante un agregado a "addendum" que
-
-incorporará las modificaciones necesarias para ese efecto. Esta modalidad que
-
-tendrá el carácter de transitoria, podrá emplearse hasta el vencimiento del
-
-respectivo contrato, oportunidad en que, de ser renovado, deberá remplazarse por
-
-el texto que se haya sometido a la aprobación del Banco Central de Chile.
-
-12.2. Vigencia de estas disposiciones para las entidades financieras que
-
-actualmente sean emisoras de tarjetas de crédito.
-
-Las instituciones financieras que tengan actualmente la calidad de emisoras de
-
-tarjetas de crédito, deberán someterse a las normas establecidas en el Capítulo
-
-III.J.1 antes mencionado y a las instrucciones contenidas en este capítulo a
-
-partir de la fecha en que se publique la correspondiente autorización del Banco
-
-Central de Chile que las faculte para emitir alguna tarjeta de crédito de
-
-conformidad con las disposiciones a que se refiere este capítulo. En todo caso,
-
-deberán contar con esa autorización a más tardar el 30 de diciembre de 1988,
-
-para lo cual deberán presentar oportunamente al Instituto Emisor la
-
-correspondiente solicitud.
-
-Con todo, las instituciones financieras deberán ceñirse a las disposiciones de
-
-carácter contable establecidas en el N° 6 del presente capítulo, a partir del 1°
-
-de enero de 1989.
+Con todo, las instituciones financieras deberán ceñirse a las disposiciones de carácter contable establecidas en el N° 6 del presente capítulo, a partir del 1° de junio de 1989.
 
 CAPITULO 8-4 (Bancos y Financieras)
 
