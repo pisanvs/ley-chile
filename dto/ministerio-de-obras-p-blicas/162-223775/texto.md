@@ -1,0 +1,3 @@
+Por decreto MOP Nº 162 de 27 de febrero de 2004, se expropió el lote de terreno Nº 141, superficie 177 m², rol Nº 32-129, comuna de Pichidegua, VI Región para la obra "Camino Colchagua-Pichidegua, Sector San Roberto-Cruceros, Tramo Km. 12.30000 a Km. 26,00400", y se acordó el valor de indemnización con su propietaria Eliana Castro Canales, ascendente a la cantidad de $3.399.547.
+
+- Fiscal del Ministerio de Obras Públicas.
