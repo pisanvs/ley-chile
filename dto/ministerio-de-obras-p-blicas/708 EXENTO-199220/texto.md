@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº708, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº2, superficie 3.925,2 M2, rol de avalúo 1001-037, comuna de Puerto Natales, XII Región, para la obra ''Camino Puerto Natales-Fiordo Staines, Sector Km. 0,000 al 6,16592, 1º Etapa, Ultima Esperanza'', y se acordó el valor de indemnización con su propietario don Danko Daslav Gasic Fernández y Otro, ascendente a la cantidad de $2.258.546.-
+
+Fiscal del Ministerio de Obras Públicas.
