@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION No. 594, DE 1986
+
+Por resolución No. 1.007 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la resolución No. 594, de 1986, de la Subsecretaría de Pesca, que autorizó a Rodolfo Rojas y Cía. Ltda., para operar la embarcación "Regina I", en el litoral de la III Región, en el siguiente sentido: a) En el numeral 4° de dicha resolución, amplíase la zona de pesca, además, al litoral de las Regiones I y II y b) En el numeral 5° de la misma resolución se agregan los siguientes recursos que la Sociedad interesada podrá extraer con la embarcación señalada: Centolla, tollo y jibia. Deniégase autorización a la peticionaria para extraer los recursos sardina española, sardina común, jurel, caballa y anchoa, en atención a lo dispuesto en el Decreto de Economía No. 436, de 1986.
+
+Valparaíso, 26 de Diciembre de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
