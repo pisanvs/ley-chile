@@ -1,0 +1,3 @@
+Por decreto MOP Nº 439 de fecha 31 de mayo de 2004, se expropiaron los lotes de terreno Nº s 14 y 15, superficies 1.353,0 y 5.974,0 M2, respectivamente, Rol Nº 203-31, comuna de Toltén, IX Región para la obra "Camino Ruta S-790, sector Nueva Toltén-Límite Regional (Queule), tramo Km. 71,46676 al Km. 87,50000, sub-tramo I Km. 71,46676 al Km. 80,55700" y se acordó el valor de indemnización con su propietario Eduardo Hernán Guillermo Sandoval Bebrañez, ascendente a la cantidad de $10.756.087.
+
+- Fiscal del Ministerio de Obras Públicas.
