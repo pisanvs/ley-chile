@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 157 de 31 de enero de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento de Aguas proporcionales que corresponden a Reserva y Sector Expropiado Predio "Fundo La Manresa" de la comuna de Talagante, Región Metropolitana. Los Derechos de Agua se extraen del canal La Manresa y Derrames del Predio "Hijuela Oriente, hoy Parcela Santa Mariana". Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
