@@ -1,0 +1,5 @@
+AUTORIZA A DON HUGO CHACANA DIAZ PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA LA CADUCIDAD DE LA RESOLUCION QUE INDICA
+
+Por resolución No. 211, de 05 de Marzo de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, pronunciandose sobre solicitud de 10 de Septiembre de 1985, se autoriza a don Hugo Chacana Díaz, R.U.T. 4.768.437-4, domiciliado en Almirante Latorre No. 320, Mejillones, para operar la embarcación denominada "Pez Colador", en el litoral comprendido entre la I y la II Región, en labores extractivas de los siguientes recursos: jurel, sardina española, anchoa y caballa, destinados a la elaboración de harina de pescado y bonito, cojinova y dorado, que deber destinar a consumo humano directo. La embarcación deber contar a bordo, con sistema adecuados de preservación de la materia prima. Ademas, se declara la caducidad de la resolución No. 26, de 1986, de la misma Subsecretaría.
+
+Valparaíso, 05 de Marzo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
