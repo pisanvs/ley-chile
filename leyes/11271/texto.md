@@ -1,0 +1,1 @@
+Autoriza a la Universidad de Concepción para invertir su capital de reserva en la forma que indica y en los fines que señala.
