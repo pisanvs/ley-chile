@@ -1,0 +1,3 @@
+Por resolución Nº490, de 8 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 96042008, presentada por SOCIEDAD COMERCIAL DE PESCADORES ARTESANALES ULTIMA ESPERANZA LTDA., para operar un centro de cultivo en Bahía de Tongoy, comuna de Coquimbo, provincia de Elqui, IV Región, conforme lo dispuesto en el artículo 78, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 8 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
