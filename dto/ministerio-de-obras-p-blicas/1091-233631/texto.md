@@ -1,0 +1,7 @@
+Por decreto MOP. Nº 1.091, de 22 de noviembre de
+
+2004, y en base a la facultad otorgada por los
+
+artículos 14 letra e) y 105 del DFL. MOP. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL. MOP. Nº 206, de 1960, se expropió el lote de terreno Nº 420, para la obra ''Proyecto Sistema Américo Vespucio Sur. Ruta 78 Av. Grecia. Sector 3: Ruta 5 Acceso Sur a Santiago'', Región Metropolitana, que figura a nombre de Suc. Cristino Alonso, rol de avalúo 1233-32, comuna de La Cisterna, superficie 93 m². La comisión de peritos integrada por los señores Joaquín Guillermo Enrique Eyzaguirre Edwards, Bárbara Claudia Goring Quiroz y María Cristina Camus Palacios, fijó con fecha 23 de septiembre de 2004, el valor provisional de la indemnización en la cantidad de $20.655.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
