@@ -1,0 +1,3 @@
+Por decreto MOP Nº 486 de fecha 28 de febrero del 2002, se expropió el lote de terreno Nº 10, superficie 283 m2., rol de avalúo Nº 3800-258, comuna de Puente Alto, para la obra "Mejoramiento Eje La Florida, El Peñón - Las Vizcachas, Sector Km. 6.980 a Km. 10.340, Camino Ruta G-25 Camino Puente Alto" y se acordó el valor de indemnización con su propietario María Isabel Tobar Salinas y otra, ascendente a la cantidad de $13.897.100.-
+
+Fiscal del Ministerio de Obras Públicas.
