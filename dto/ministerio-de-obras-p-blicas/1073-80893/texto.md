@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 1.073, de 31 de octubre de 1997, se expropiaron los lotes de terreno Nºs. 7, 8, 9, 13, 14, 15, 16, 17, 18 y 19, superficies 1.313; 553; 104; 200; 574; 276; 302; 223; 339 y 1.096 m², respectivamente, roles de avalúos 1006-48, 1006-66 y 1021-61, comuna de Aisén, obra Reposición Ruta X-50, sector Cruce Ruta 7 (Mañihuales) -Cruce Ruta 240 Ch-Aysén, y se acordó precio de indemnización con sus propietarios Claudio Bambs Bambs y Víctor Hugo Yubano Schwerter, ascendente a las cantidades de $533.806 y $372.850.
+
+Fiscal del Ministerio de Obras Públicas.
