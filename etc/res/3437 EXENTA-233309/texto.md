@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.437, de 1 de diciembre de 2004, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 2.244 de 1999, de esta Subsecretaría, que autorizó a PESCA CHILE S.A., para ampliar las actividades pesqueras extractivas con la nave "Tuamapu", entre la I y III Regiones y entre los paralelos 41º28,6' L.S. y 47°L.S., con palangre, sobre el recurso Besugo, y entre el paralelo 41º28,6' L.S. y el límite sur de la X Región, con palangre, sobre el recurso Reineta, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, de conformidad con lo informado mediante memoranda citada en Visto.
+
+Valparaíso, 1 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
