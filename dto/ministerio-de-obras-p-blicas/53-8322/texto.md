@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 53, de fecha 25 de febrero de 1993, se expropió el lote de terreno N° 35, superficie 3.132 M2., rol de avalúo 5017-11, Comuna de Coronel, para la obra Camino By Pass Coronel Lota Ruta 160, sectores 2da. Calzada y Mejoramiento Lota y se acordó el valor de indemnización con su propietaria Leonor Contreras Iturra, ascendente a la cantidad de $5.497.660.
+
+Fiscal del Ministerio de Obras Públicas.
