@@ -1,0 +1,3 @@
+Por resolución Nº343, de 22 de febrero de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº99103173 presentada por KARLA XIMENA VELASQUEZ KROEGER, para instalar y operar un centro de cultivo ubicado en canal Queilen, ensenada Detico, comuna de Queilen, provincia de Chiloé, X Región.
+
+Valparaíso, 22 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
