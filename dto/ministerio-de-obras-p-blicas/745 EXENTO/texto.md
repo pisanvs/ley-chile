@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Exento Nº 745 de 31 de julio de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco los lotes de terreno Nos 91-A, 96-A, 111-A y 115, para la obra: Camino Cabildo-Putaendo Ruta E-41, Sector Guayacán-El Tártaro 2, Tramo Km. 48,50000 a Km.
+
+58,94400, que figuran a nombre de Cía Ganadera Tongoy Ltda, Rol de Avalúo 276-205, Comuna de Putaendo, V Región, superficies 650 m2; 67,95 m2; 53,65 y 31,81 m2. La Comisión de Peritos fijó con fecha 30 de diciembre de 2002 el monto de la indemnización provisional en la cantidad de $227.500.-, para el lote Nº 91-A; $23.783.-, para el lote Nº96-A; $16.095.-, para el lote Nº 111-A y $9.543.- para el lote Nº 115. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
