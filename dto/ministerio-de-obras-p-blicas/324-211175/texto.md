@@ -1,0 +1,3 @@
+Por decreto MOP Nº324 de fecha 31 de marzo de 2003, se expropiaron los lotes de terreno Nºs. 608 y 608-C, superficies 133 y 277 m² respectivamente, Rol de Avalúo Nº32-172, de la comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto-El Toco-Ruta 66, tramo Km. 0,00000 a Km. 12,70000" y se acordó el valor de indemnización con su propietario Justiniano del Carmen Cabello Herrera, ascendente a la cantidad de $26.650.586.-
+
+Fiscal del Ministerio de Obras Públicas.
