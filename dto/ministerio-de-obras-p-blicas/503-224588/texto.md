@@ -1,0 +1,3 @@
+Por decreto MOP Nº 503 de 31 de marzo del 2004, se expropió el lote de terreno Nº 18-B, superficie 224,27 m², rol Nº 329-48, comuna de Río Negro, X Región para la obra "Camino Ruta U-72, Sector Huilma - Riachuelo, Tramo Km. 18,14000 a 33,91000", y se acordó el valor de indemnización con su propietario Ilustre Municipalidad de Río Negro, ascendente a la cantidad de $482.435.-
+
+Fiscal del Ministerio de Obras Públicas.
