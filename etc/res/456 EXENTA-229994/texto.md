@@ -1,0 +1,9 @@
+OTORGA RECONOCIMIENTO OFICIAL A ESCUELA DE CONDUCTORES PROFESIONALES "AUTOMOVIL CLUB DE CHILE LTDA." - VALDIVIA
+
+Núm. 456 exenta.- Puerto Montt, 27 de agosto de 2004.- Visto: Lo dispuesto por el artículo 31 D de la ley Nº18.290; el artículo 6º del DS Nº251, de 9 de octubre de 1998, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes; la resolución Nº249, de 19 de diciembre de 1997, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes; la aprobación de los planes y programas de la Escuela de Conductores "Automóvil Club de Chile Limitada", por esta Secretaría Regional Ministerial mediante resolución exenta Nº60 de 26.04.2000; la solicitud de "Automóvil Club de Chile Limitada", de 11.08.2004, en la cual se pide el reconocimiento oficial de dicha escuela para impartir cursos conducentes a la obtención de licencias profesionales clases A2, A3, A4 y A5 en Valdivia; y Teniendo presente: Que corresponde a esta Secretaría Regional Ministerial emitir un pronunciamiento acerca de si el solicitante cumple con todos los requisitos para otorgarle un reconocimiento oficial a la Escuela de Conductores Profesionales, en especial los contenidos en los artículos 31, 31B y 31C de la ley Nº18.290.
+
+R e s u e l v o:
+
+Otórgase reconocimiento oficial a la Escuela de Conductores Profesionales denominada "Automóvil Club de Chile Limitada", representada legalmente por los sres. Fernando Araya Granifo y Fernando Gangas Muñoz, para impartir los cursos y clases de mecánica conducentes a la obtención de licencias profesionales clases A2, A3, A4 y A5, en la sede ubicada en Avenida Alemania Nº636, comuna de Valdivia.
+
+Anótese, comuníquese y publíquese por cuenta del interesado.- Iván Leonhardt Cárdenas, Secretario Regional Ministerial Transportes y Telecomunicaciones, Región de los Lagos.
