@@ -3674,15 +3674,27 @@ CAPITULO 2-14 (Bancos y Financieras)
 
 MATERIA:
 
-CERTIFICADO SOBRE INTERESES DE DEPOSITOS Y CAPTACIONES.
+CERTIFICADO SOBRE INTERESES REALES Y DIVIDENDOS PAGADOS.
 
 ### 1. Emisión de certificados
 
-Las instituciones financieras deberán extender, en el mes de marzo de cada año, un certificado a cada uno de los depositantes a quienes les hayan pagado intereses en el año precedente, por sumas iguales o superiores al equivalente de U.F. 15 sobre depósitos y captaciones mantenidos en la respectiva entidad, determinadas en la forma que se indica en el primer párrafo de la letra c) de este número. Sin perjuicio de lo anterior, las entidades financieras deberán emitir también el referido certificado a aquellos depositantes que lo soliciten, aun cuando se les haya pagado menos de U.F. 15 en el año precedente, por concepto de intereses.
+Las instituciones financieras deberán extender y enviar antes del 15 de marzo de cada año, un certificado a cada uno de sus depositantes o accionistas, a quienes les hayan pagado sumas iguales o superiores a U.F. 15, en el año precedente, correspondientes a intereses sobre depósitos y captaciones o dividendos por su inversión en acciones de la respectiva entidad.
 
-El certificado de que se trata deberá contener por lo menos la siguiente información: a) Nombre completo, dirección y número del Rol Unico Tributario del depositante; y,
+Además, las entidades financieras deberán emitir también el referido certificado a aquellos depositantes o inversionistas que lo soliciten, aun cuando se les hayan pagado menos de U.F. 15 en el año precedente, por concepto de intereses o dividendos.
 
-b) Número de los depósitos o documentos de captación que originaron los intereses y monto y fecha en que se pagaron estos últimos, ya sean positivos o negativos, por cada operación. En el caso de depósitos o captaciones renovables, se deberá indicar el importe y la fecha de pago de los intereses de cada período.
+Las instituciones financieras pueden optar entre la emisión de un solo certificado para intereses y dividendos, o bien, un certificado para intereses y otro para los dividendos.
+
+Los certificados de que se trata deberán contener la siguiente información:
+
+1.1. Información general.
+
+a) Nombre completo, dirección y número del Rol Unico Tributario del depositante o inversionista.
+
+b) Constancia de que se emiten a fin de que el depositante o inversionista pueda dar cumplimiento a lo dispuesto en el artículo 33 del Código Tributario y en la Resolución N° 200 del Servicio de Impuestos Internos, publicada en el Diario Oficial del 9 de febrero de 1982.
+
+1.2. Certificación de intereses.
+
+a) Número de los depósitos o documentos de captación que originaron los intereses y monto y fecha en que se pagaron estos últimos, ya sean positivos o negativos, por cada operación. En el caso de depósitos o captaciones renovables, se deberá indicar el importe y la fecha de pago de los intereses de cada período.
 
 La información relativa a los intereses se proporcionará separada en la forma que se indica a continuación:
 
@@ -3702,17 +3714,15 @@ Las fórmulas para efectuar estos cálculos son las siguientes:
 
 Conversión del depósito de moneda extranjera a pesos chilenos:
 
-.
+b) Total de intereses reales pagados al depositante en el año precedente a aquel en el que se emita el certificado, incluidos aquellos que en virtud de los ajustes antes señalados resultaren negativos. Para determinar este total se sumarán en forma algebraica los intereses reales informados en el literal i), más los del literal ii) y más los informados en el literal iii) de la letra b) precedente.
 
-c) Total de intereses reales pagados al depositante en el año precedente a aquél en el que se emita el certificado, incluidos aquellos que en virtud de los ajustes antes señalados resultaren negativos. Para determinar este total se sumarán en forma algebraica los intereses reales informados en el literal i), más los del literal ii) y más los informados en el literal iii) de la letra b) precedente.
+Para los efectos de las disposiciones contenidas en este capítulo, se entenderá por intereses pagados aquellos que hayan sido cobrados por el depositante, que hayan sido abonados en su cuenta, que se hayan capitalizado o que hayan sido puestos a su disposición.
 
-Para los efectos de las disposiciones contenidas en este capítulo, se entenderá por intereses pagados aquéllos que hayan sido cobrados por el depositante, que hayan sido abonados en su cuenta, que se hayan capitalizado o que hayan sido puestos a su disposición.
-
-d) Constancia de que el certificado se emite a fin de que el inversionista pueda dar cumplimiento a lo dispuesto en el artículo 33 del Código Tributario y en la Resolución N° 200 del Servicio de Impuestos Internos, publicada en el Diario Oficial del 9 de febrero de 1982.
+1.3. Certificación de dividendos pagados. El certificado correspondiente a dividendos deberá indicar el importe en pesos pagado por concepto de dividendos y la fecha en que se efectuó dicho pago, como también, en los casos que corresponda, el importe del crédito contra el impuesto global complementario que pueda corresponder.
 
 ### 2. Entrega del certificado al depositante
 
-En los casos en que el total de los intereses reales a que se refiere la letra c) del N° 1 precedente supere el equivalente de 15 unidades de fomento, las instituciones financieras deberán emitir el correspondiente certificado en duplicado y enviar el original, en el mismo mes de su emisión, al domicilio que el depositante haya registrado en la respectiva entidad, debiendo conservar la copia en sus archivos.
+En los casos en que el total de los intereses reales a que se refiere la letra b) del numeral 1.2, o de los dividendos de que trata el numeral 1.3, supere el equivalente de 15 unidades de fomento, las instituciones financieras deberán emitir el correspondiente certificado en duplicado y enviar el original en el mismo período fijado para su emisión, al domicilio que el inversionista haya registrado en la respectiva entidad, debiendo conservar la copia en sus archivos.
 
 No obstante, las entidades financieras podrán mantener, como alternativa a la copia de estos certificados, nóminas que contengan la misma información que se entrega en el certificado, el que, en estos casos, se emitirá únicamente en original.
 
@@ -3722,7 +3732,7 @@ Los certificados despachados de conformidad con lo dispuesto en el número prece
 
 ### 4. Información a esta Superintendencia
 
-Las instituciones financieras informarán a esta Superintendencia, el 30 de abril de cada año, el número de certificados despachados al domicilio de los respectivos depositantes y el monto total de los intereses reales a que se refiere la letra c) del N° 1 precedente, señalado en dichos certificados.
+Las instituciones financieras informarán a esta Superintendencia, el 30 de abril de cada año, el número de certificados despachados al domicilio de los respectivos depositantes y el monto total de los intereses reales a que se refiere la letra b) del numeral 1.2, señalado en dichos certificados o de los dividendos a que se refiere el numeral 1.3, cuando corresponda.
 
 Además deberán incluir en la referida información, el número de certificados que les hayan sido devueltos por no corresponder el domicilio registrado a la dirección del depositante y, en caso que proceda, el número de certificados que no hubieren podido despachar por no contar con el domicilio del depositante. Para cada una de estas situaciones deberán indicar el monto de intereses reales informados en los respectivos certificados.
 
