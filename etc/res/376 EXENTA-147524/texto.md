@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 376 de 31 de marzo de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Derechos de Adquisición y Sector Expropiado predio "La Gatera" de la comuna de Chimbarongo, Sexta Región; y derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 14 y sitios N°s. 1 al 20 del Proyecto de Parcelación "La Gatera" formado por predio señalado y "Parte del Fundo El Manzano". Los Derechos de Agua se extraen del canal El Sauce o Saucino derivado del río Tinguiririca, derrames originados en propiedad del señor Matus, derrames del Fundo El Manzano y Fundo Las Cañas y derrames del estero El Tordillo. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
