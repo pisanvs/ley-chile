@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 800, de 29 de agosto de 1997, se expropiaron los lotes de terreno Nºs 12 y 52, superficies 135 y 1.000 m2., roles de avalúo 3330-7 y 2590-109, comuna de San Bernardo, respectivamente, para la obra Estudio de Anteproyecto e Ingeniería, para el Sistema Norte - Sur, sector Las Acacias - Río Maipo y se acordó precio de indemnización con los propietarios Juan Osvaldo Venegas Muñoz e Ignacio Aguerrebere Mardones, ascendentes a las cantidades de $11.665.872, para el lote Nº 12, y $49.450.672, para el lote Nº 52.-
+
+Fiscal del Ministerio de Obras Públicas.
