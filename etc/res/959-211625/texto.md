@@ -1,0 +1,3 @@
+Por resolución Nº 959, de 9 de mayo de 2003, de esta Subsecretaría, apruébase la solicitud presentada por OCTAVIO GUILLERMO PEREZ DE ARCE SCHILLING para transferir la autorización de acuicultura otorgada por la resolución Nº 1.762 de 1989, modificada por resolución Nº 477 de 1996, ambas de esta Subsecretaría, a Salmones Caleta Bay S.A., para el centro de cultivo ubicado en Río Pitreño, sector Illihue, X Región.
+
+Valparaíso, 9 de mayo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
