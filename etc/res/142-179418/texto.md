@@ -1,0 +1,5 @@
+DISPONEN EXPROPIACIONES TOTALES Y PARCIALES DE INMUEBLES QUE INDICAN
+
+Por resolución Nº 142 de 21 noviembre 2000, Serviu Región de Tarapacá, conforme a decretos leyes Nº 1.523 de 1976 y Nº 2.186 de 1978 y decretos supremos Nº 355 de 1976, 63 de 1996 y decreto Nº 120 de 2000, todos de Vivienda y Urbanismo, dispuso expropiación parcial del inmueble ubicado en Iquique, Avda. La Tirana Nº 2161, rol de avalúo Nº 820-038, de presunto dominio de don Mario Leonardo Mardones Pacheco. Comisión integrada por peritos señores Gastón González Kemnis, Oscar Escárate Arancibia, constructores civiles y Héctor Ruiz Le-Beuffe, arquitecto, según informe de tasación de 5 de octubre 2000, fijó monto provisional de indemnización en $7.736.558.- pagadera al contado.
+
+Iván Figueroa Llona, Director Serviu Región de Tarapacá.
