@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.183, de 31 de julio de 2001, se expropió el lote de terreno Nº 125, superficie 746 m2., rol de avalúo 277-27, comuna de El Quisco, para la obra Red Vial Litoral Central. Sector 2: Camino Algarrobo-Casablanca (Ruta F-90), Quinta Región y se acordó el valor de indemnización con su propietario Emilio Alejandro Gacitúa Martínez, ascendente a la cantidad de $3.120.361.
+
+- Fiscal del Ministerio de Obras Públicas.
