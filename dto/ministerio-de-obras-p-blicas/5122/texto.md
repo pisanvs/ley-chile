@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.122, de 30 de noviembre de 2000, se expropió el lote de terreno Nº93-1, superficie 1.536 m², rol de avalúo 851-16, comuna de Bulnes, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli, Octava Región y se acordó el valor de indemnización con su propietario Olvín del Rosario Jara Godoy, ascendente a la cantidad de $4.925.596.-
+
+Fiscal del Ministerio de Obras Públicas.
