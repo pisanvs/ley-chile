@@ -1,0 +1,3 @@
+Por resolución Nº 1.697, de 9 de agosto de 2002, de esta Subsecretaría, autorízase a PESQUERA BIO BIO S.A., con domicilio en Colón Nº 2450, Talcahuano, para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 580 de 1988, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Isla Rocuant s/n, Talcahuano, VIII Región, en las líneas de proceso de harina y aceite, los siguientes recursos hidrobiológicos: Bacaladillo o mote, Jurel fino, Machuelo o tritre, Anchoveta blanca, Sardina redonda, Vinciguerria, Merluza de cola, Merluza de tres aletas y Krill.
+
+Valparaío, 9 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
