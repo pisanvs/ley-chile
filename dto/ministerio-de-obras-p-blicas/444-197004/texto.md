@@ -1,0 +1,7 @@
+Por decreto MOP Nº 444, de 28 de febrero de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 57, para la obra:
+
+"Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 6B: Km. 34.660,00 a Km.
+
+38.660,00", Región Metropolitana, que figura a nombre de Hurtado Hurtado Julio, rol de avalúo 103-550, comuna de Curacaví, superficie 241 m2. La comisión de peritos integrada por los señores Norman Estanislao Calderón Pontiggia, Victoria Adriana Blanco Costa y María Cristina Camus Palacios, fijó con fecha 12 de julio de 2001, el valor provisional de la indemnización en la cantidad de $11.586.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
