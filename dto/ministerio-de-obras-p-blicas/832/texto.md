@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 832, de 29 de agosto de 1997, se expropió el lote de terreno Nº 3, superficie 1.008 M2., rol de avalúo 319-437, comuna de Buin, para la obra Mejoramiento Ruta 5, Sector Pasada por Buin, camino Ruta 5 Sur Rol R-5 y se acordó precio de indemnización con su propietario Sociedad Comercial Montecarlo Limitada, ascendente a la cantidad de $29.211.840.
+
+Fiscal del Ministerio de Obras Públicas.
