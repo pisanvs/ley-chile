@@ -166,6 +166,8 @@ Los trabajos necesarios e impostergables para la buena marcha de las empresas:
 
 7º La formacion de los inventarios y balances en las empresas industriales y comerciales.
 
+8.° Los trabajos de personas que desempeñen labores de mera vigilancia como los cuidadores o serenos.
+
 #### Artículo V
 
 <!-- parte:8841703 -->
