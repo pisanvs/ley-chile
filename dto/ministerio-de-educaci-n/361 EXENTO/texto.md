@@ -1,0 +1,3 @@
+Por Decreto Exento No.361 de fecha 26 de diciembre de 1991 del Ministerio de Educación, se modificó el artículo 1º del Decreto Exento No.11 de 1988, que autoriza el funcionamiento del Instituto Profesional Alemán Wilhelm Von Humboldt, organizado por la sociedad Beneficiaria y Promoción Cultural y Técnica Liga Chileno Alemana, en el sentido de que su organizador será la Fundación de Educación Superior Chileno Alemana (Personalidad Jurídica otorgada por Decreto No.1178 de 20 de octubre de 1989 del Ministerio de Justicia.
+
+Santiago, 29 de Enero de 1992.- Raúl Allard Neumann, Subsecretario de Educación.
