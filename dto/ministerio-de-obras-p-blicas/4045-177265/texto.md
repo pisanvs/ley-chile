@@ -1,0 +1,3 @@
+Por decreto MOP N°4.045 de fecha 31 de agosto del 2000, se expropió el lote de terreno N°12, superficie 609 m2., rol de avalúo 1103-26, comuna de Pichidegua, para la obra ''Camino Pichidegua - Marchigüe, Sector Marchigüe - La Esperanza, Km. 43.600 a Km. 69.237,91'' y se acordó el valor de indemnización con su propietario Eduardo del Carmen Herrera Cifra, ascendente a la cantidad de $436.386.
+
+Fiscal del Ministerio de Obras Públicas.
