@@ -1,0 +1,3 @@
+Por resolución Nº 632, de 4 de marzo de 2005, de esta Subsecretaría, modifícase la resolución Nº 559 de 2002, modificada por las resoluciones Nº 641 y Nº 1.490, ambas de 2004, todas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para realizar actividades experimentales de acuicultura sobre las especies Esturión de Siberia y Esturión blanco, de conformidad con el proyecto "Desarrollo de Tecnologías de Cultivo de Esturión, para la producción de caviar en Chile", en el sentido de ampliar la vigencia de la autorización hasta el 30 de abril de 2005.
+
+Valparaíso, 4 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
