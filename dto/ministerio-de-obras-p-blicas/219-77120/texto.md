@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 219 de 20 de agosto de 1992, se expropiaron los lotes de terreno No. s. 1-A, 1-B, 2-A, 2-B y 3-A, superficies 1.840 M2., 1.770 M2, 2.460 M2., 1.280 M2. y 4.048,20 M2. respectivamente, roles de avalúos 11-332, 81-28, y 11-330, Comuna de Pirque, obra Sector Acceso Puente y Defensa Río Clarillo y se acordó precio de indemnización con sus propietarios Max Silva del Campo, Enrique del Campo García de la Huerta y Jorge Díaz Solar, ascendente a las cantidades de $ 5.802.600, $ 6.311.600, $ 7.482.300.
+
+Fiscal del Ministerio de Obras Públicas.
