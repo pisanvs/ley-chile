@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 4.063, de 10 noviembre de 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle 8 Oriente Nº 145 A Recinto Machasa, Rol de avalúo Nº 2757-1, comuna Chiguayante, superficie 13,12 m² de terreno, dentro polígono y linderos señalados plano expropiación S8R 16.553 M, de aparente dominio de Gerardo Gutiérrez Saravia, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión peritos integrada por Francisco Schiappacasse Retamal, arquitecto; Marisa Perrín Costa, arquitecta, y Santiago Aptecar Nazer, arquitecto, según informe de fecha 30 de septiembre 2004 fijó monto provisional indemnización en $1.342.498. pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
