@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.248 de 30 de agosto de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº16 para la obra: Camino Ruta Q-80, Sector Ruta 5 - Negrete, Tramo II Km. 0,00000 a Km. 29,93300, que figura a nombre de Emp. FFCC. del Estado, rol de avalúo 90074-1, Comuna de Negrete, VIII Región, superficie 540 m2. La Comisión de Peritos, fijó con fecha 17 de abril de 2000, en la cantidad de $492.000. para el lote Nº16. La indemnización se pagará al contado. La publicación e efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
