@@ -1,0 +1,7 @@
+Por decreto MOP Nº1533, de 28 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs. 13, 23, 25, 25-A, 38-A, 79, 79-A, 90 y 91, para la ejecución de la obra Camino Mejoramiento Ruta S-269 Padre Las Casas-Niágara Km. 0.000,00 a Km. 17.357,22 tramo Km. 2.300 a Km. 17.340, que figuran a nombre de Ignacio Sandoval Sandoval, Santiago Quidel Sandoval, Rosamel Quidel Morales, Antonio Tralcal Marilaf, José Parra Sanhueza, Rosa García Manquel y Margarita V. Canio García; roles de avalúo 3283-676, 3383-487, 3283-487, 3357-10, 3359-186, 3284-90, 3360-233 y 3360-234, comuna de Padre Las Casas, IX Región, superficies 123,20; 130,20; 444,41; 105,60; 365,55; 145,00; 145,00;
+
+42,00 y 82,00 m2. La Comisión de peritos fijó con fecha 31 de marzo de 1997, el valor provisional de la indemnización en la cantidad de $110.880, lote 13; $117.180, lote 23;
+
+$523.603, lote 25 y $261.000, lote 79 y con fecha 19 de diciembre de 1998, fijó el monto de la indemnización provisional en la cantidad de $478.160, lote 25-A; $402.105, lote 38-A; $159.500, lote 79-A; $312.200, lote 90 y $334.200, lote 91. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
