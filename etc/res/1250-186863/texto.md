@@ -1,0 +1,3 @@
+Por resolución Nº 1.250, de 14 de junio de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97103079, presentada por HECTOR HERNAN MASCAREÑA MASCAREÑA, para un centro de cultivo en sector Capilla Vieja, Isla Chaulinec, X Región.
+
+Valparaíso, 14 de junio de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
