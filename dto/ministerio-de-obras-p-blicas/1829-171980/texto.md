@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.829, de 28 de abril del 2000, se expropió el lote de terreno Nº 43, superficie 182 m2., rol de avalúo 212-286, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector J, Sexta Región y se acordó el valor de indemnización con su propietario Leonidas Antonio Lagos Ponce, ascendente a la cantidad de $787.594.
+
+Fiscal del Ministerio de Obras Públicas.
