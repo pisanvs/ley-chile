@@ -1,0 +1,5 @@
+Por resolución Nº 2.805, de 5 de octubre de 2004, de esta Subsecretaría, modifícase la resolución Nº 2.430 de 2004, de esta Subsecretaría de Pesca, que autorizó a AYCON CONSULTORES S.A. para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Modelo de Administración y Control del Esfuerzo de Pesca sobre el recurso Merluza del sur (Merluccius australis) en aguas interiores de la XI Región", en el sentido de incrementar en 100 toneladas de Merluza del sur el límite de captura autorizado para ser extraído con fines de investigación.
+
+Modifícase los numerales 4º, 5º y 10 de la resolución Nº 2.340 de 2004, antes individualizada, en los términos señalados en la resolución extractada.
+
+Valparaíso, 5 de octubre de 2004.- Edith Saa Collantes, Subsecretario de Pesca (S).
