@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº295, de 18 de febrero de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP.Nº206, de 1960, se expropió el lote de terreno Nº103, superficie 77 m2, rol de avalúo 490-14, comuna de Renca, Región Metropolitana, para la obra Concesión Internacional Sistema Oriente-Poniente. Zona Poniente: Walker Martínez-Petersen. Tramo 7: Km. 21.496,40 al Km.
+
+23.360,00. Posteriormente por decreto MOP Nº594, de 28 de marzo de 2002, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con su propietario don Ananías Ernesto Aravena Arévalo, ascendente a la cantidad de $3.621.700.-
+
+Fiscal del Ministerio de Obras Públicas.
