@@ -1,0 +1,29 @@
+APRUEBA NOMINAS DE POSTULANTES SELECCIONADOS PARA EL LLAMADO EXTRAORDINARIO 1998 A POSTULACION A SUBSIDIO HABITACIONAL PARA LA ATENCION DEL SECTOR RURAL (TITULO I), PARA ATENDER A POSTULANTES DEL AREA DE DESARROLLO INDIGENA DEL ALTO BIO BIO, VIII REGION DEL BIO BIO, Y DEJA SIN EFECTO SOLICITUDES DE INSCRIPCION QUE INDICA, POR LAS RAZONES QUE SEÑALA
+
+Santiago, 25 de marzo de 1999.- Hoy se resolvió lo que sigue:
+
+Núm. 816 exenta.- Visto: El D.S. Nº 167, (V. y U.), de 1986, y sus modificaciones, que regula el Sistema de Subsidio Habitacional para la Atención del Sector Rural; el D.S. Nº 93, del Ministerio de Planificación y Cooperación, de 1997; las resoluciones exentas Nº 3.411 y Nº 3.412, ambas de este Ministerio de fecha 23 de diciembre de 1998, publicadas en el Diario Oficial del 30 de diciembre de 1998, modificada la última por resolución exenta Nº 79, de fecha 12 de enero de 1999, publicada en el Diario Oficial del 20 de enero de 1999; la resolución exenta Nº 1.248, de fecha 12 de mayo de 1998, modificada por resolución exenta Nº 2.816, de fecha 20 de octubre de 1998, ambas de los Ministerios de Hacienda y de Vivienda y Urbanismo; y,
+
+Considerando:
+
+a) Que en el número 1º de la resolución exenta Nº 3.412, modificada por la resolución exenta Nº 79, ambas de este Ministerio, de 1998 y 1999, respectivamente, se dispuso el llamado a inscripción extraordinaria de postulantes para el llamado 1998 del Sistema de Subsidio Habitacional para la Atención del Sector Rural (Título I), para atender a postulantes del área de desarrollo indígena del Alto Bío Bío, VIII Región del Bío Bío, fijándose en esa misma resolución el monto de los recursos que se destinarían para el financiamiento del subsidio directo correspondiente a ese Título para ese llamado extraordinario;
+
+b) Que mediante resolución exenta Nº 3.411, de este Ministerio, de 1998, se fijaron las menciones y datos que deberán contener las solicitudes de inscripción para postular al llamado extraordinario 1998 del Sistema de Subsidio Habitacional para la Atención del Sector Rural (Título I) para atender a postulantes del área de desarrollo indígena del Alto Bío Bío, VIII Región del Bío Bío, indicando los documentos que deberán acompañarse a ellas o exhibirse y su forma de presentación;
+
+c) Que el D.S. Nº 167, (V. y U.), de 1986 y sus modificaciones, establece algunas inhabilidades para postular al Sistema de Subsidio Habitacional para la Atención del Sector Rural, así como las causales por las cuales este Ministerio podrá dejar sin efecto, mediante resoluciones, las solicitudes para postular a dicho beneficio, dicto la siguiente
+
+R e s o l u c i ó n:
+
+1º.- Apruébase la nómina de 100 postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al llamado extraordinario 1998 a postulación al Sistema de Subsidio Habitacional para la Atención del Sector Rural (Título I), para atender a postulantes del área de desarrollo indígena del Alto Bío Bío, VIII Región del Bío Bío, dispuesto por el número 1º de la resolución exenta Nº 3.412, modificada por resolución exenta Nº 79, ambas de este Ministerio, de 1998 y 1999, respectivamente, nómina que se entenderá formar parte integrante de la presente resolución.
+
+2º.- Déjase constancia que la nómina de 100 postulantes que se aprueba en el número anterior compromete un total equivalente a 15.000 Unidades de Fomento (U.F.) para el financiamiento del subsidio directo destinado a la atención de los postulantes seleccionados en el llamado extraordinario 1998 del Sistema de Subsidio Habitacional para la Atención del Sector Rural (Título I), para atender a postulantes del área de desarrollo indígena del Alto Bío Bío, monto que se destina a la atención de postulantes individuales por no haberse presentado postulantes en la alternativa de postulación colectiva, en ese llamado.
+
+3º.- Publíquese la nómina completa que se aprueba en el número 1º de esta resolución en un periódico de circulación nacional, indicándose en dicha publicación el nombre completo del beneficiario, su cédula nacional de identidad o R.U.T. y el puntaje total obtenido, sin perjuicio de las nóminas completas de que dispondrán los Serviu, las que señalarán, a lo menos, el puntaje total y el obtenido en cada uno de los rubros considerados, por cada postulante seleccionado; el rol único tributario; el monto del subsidio directo de cada postulante seleccionado; el monto total del ahorro acreditado por cada postulante y el puntaje de corte correspondiente al último postulante seleccionado.
+
+4º.- Déjanse sin efecto las 8 solicitudes de inscripción para el llamado extraordinario 1998 a postulación al Sistema de Subsidio Habitacional para la Atención del Sector Rural (Título I) para atender a postulantes del área de desarrollo indígena del Alto Bío Bío, VIII Región del Bío Bío, efectuado por el número 1º de la resolución exenta Nº 3.412, modificada por la resolución exenta Nº 79, ambas de este Ministerio, de 1998 y 1999, respectivamente, presentadas por las personas individualizadas en la nómina que se acompaña, la cual se entenderá formar parte integrante de la presente resolución, por las causales que en cada caso se expresan en dicha nómina.
+
+5º.- Publíquese la nómina completa a que se refiere el número 4º de la presente resolución, en un periódico de circulación nacional y exhíbase dicha nómina en las oficinas de los Serviu.
+
+Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Sergio Henríquez Díaz, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Berta A. Belmar Ruiz, Subsecretaria de Vivienda y Urbanismo.
