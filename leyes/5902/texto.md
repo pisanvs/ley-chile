@@ -1,0 +1,1 @@
+Libera a la Línea Aérea Nacional por el plazo de cinco años, de todo impuesto o contribución.
