@@ -1,0 +1,3 @@
+Por decreto MOP N°1.237, de 31 de marzo del 2000, se expropiaron los lotes de terreno N°s. 188-D y 188-E, superficies 684 m2. y 1.579 m2., rol de avalúo 613-1, comuna de Tomé, para la obra Camino Acceso Norte a Concepción, Octava Región, y se acordó el valor de indemnización con su propietario Jaime Alfonso Fuentealba Tauler, ascendente a la cantidad total de $632.724.
+
+Fiscal del Ministerio de Obras Públicas.
