@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 159, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 93, superficie 911 m2, Rol de avalúo Nº282-7, comuna de San Fernando, para la obra "Camino San Fernando Roma, Rol I-301, I-255, I-151, Km. 0,000 a Km. 10,954264, VI Región, y se acordó el valor de indemnización con su propietario Rubén del Carmen Droguett Maturana, ascendente a la cantidad de $2.476.082.
+
+- Fiscal del Ministerio de Obras Públicas.
