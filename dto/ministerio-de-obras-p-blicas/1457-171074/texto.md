@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.457, de 17 de abril del 2000, se expropiaron los lotes terreno Nºs. 64 y 66, superficies 384 y 23 m², respectivamente, roles de avalúos 235-9 y 253-13, comuna de Monte Patria, para la obra Camino Ruta D-597, Monte Patria - Carén, Sector Juntas - Carén, Tramo Km. 8.260,00 a Km. 30.065,19, y se acordó precio de las indemnizaciones con sus propietarios Juan Luis Díaz Cisternas y Pedro Antonio Araya Olivares, ascendentes a las cantidades de $307.303, lote Nº64, y $297.778, lote Nº66.-
+
+Fiscal del Ministerio de Obras Públicas.
