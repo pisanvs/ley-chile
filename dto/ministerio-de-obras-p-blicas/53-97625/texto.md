@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 53, de 30 de enero de 1998, se expropiaron los lotes de terreno N°s. 5, 8, 8-A, 13 y 17, superficies 4.924, 81, 235, 13.218 y 3.240 m2., respectivamente, roles de avalúos 62-318, 62-189 y 1334-26, comunas de Ñiquén y San Carlos para la obra Ruta 5, Tramo-Chillán, lntersecciones Dasniveladas, Acceso a las Rosas, Acceso a Tiuquilemu y Acceso a Monte Blanco
+
+Fiscal Ministerio Obras Públicas
