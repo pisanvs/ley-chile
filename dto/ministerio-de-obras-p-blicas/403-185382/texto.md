@@ -1,0 +1,3 @@
+Por decreto MOP Nº403, de 30 de marzo de 2001, se expropió el lote de terreno Nº26-1, superficie 107 m², rol de avalúo 619-24, comuna de Molina, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector N: Séptima Región y se acordó el valor de indemnización con su propietario Luis Salustio Valderrama Guajardo, ascendente a la cantidad de $583.789.
+
+Fiscal del Ministerio de Obras Públicas.
