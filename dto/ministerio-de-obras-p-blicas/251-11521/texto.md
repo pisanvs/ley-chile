@@ -1,0 +1,13 @@
+#### Artículo 1
+
+<!-- parte:5903468 -->
+
+_______________________________________________________
+
+| NOTA: VER DIARIO OFICIAL N° 35.206 DEL DIA SABADO |
+
+| 01 DE JULIO DE 1995, PAGINA 17 CUERPO TRES |
+
+|_____________________________________________________|
+
+Fiscal del Ministerio de Obras Públicas.
