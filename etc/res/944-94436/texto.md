@@ -1,0 +1,11 @@
+AUTORIZA A PESQUERA ALTAMIRA LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS, DENIEGA AUTORIZACIONES QUE INDICA
+
+Por Resolución No. 944, de 02 de Agosto de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Altamira Limitada, R.U.T. No. 79.857.020-K, domiciliada en Santiago, Espoz 5924, para iniciar actividades pesqueras, en orden a operar una embarcación- en construcción.
+
+Se fija como zonas de operación de la nave individualizada precedentemente, el litoral de las Regiones III a VII, donde podrá extraer los siguientes recursos hidrobiológicos: a) Litoral de las Regiones III a VII: Acha, Anguila, Azulejo, Bacalao de Juan Fernández, Blanquillo, Brótula, Cabrilla española, Cabrilla común, Cazón, Chancharro, Cojinoba del Norte, Cojinoba del Sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Dorado, Lenguado de ojos chicos, Lisa, Marrajo o Tiburón" Merluza común, Mulata o Vieja Negra, Palometa, Pejegallo, Pejeperro, Pejerrey de Mar, Pejesapo, Pejezorro, Raya, Róbalo, Rollizo Roncacho, Sierra, Tollo y Tomollo. b) Desde Punta Liles a VII Región: Bacalao de profundidad o Mero.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias o que se establezcan. Se deniega la autorización para extraer en el litoral de las Regiones I, II y VIII, los recursos hidrobiológicos: Anchoa, jurel caballa, sardina y sardina común, de conformidad a lo dispuesto en el Decreto No. 436, de 1985, prorrogado por el Decreto No. 110, de 1989, ambos del Ministerio de Economía, Fomento y Reconstrucción Se deniega la autorización solicitada por la peticionaria para operar en el litoral comprendido entre la VIII y XII Región.
+
+Se deniega la autorización para extraer con la nave individualizada el recurso Bacalao de profundidad o mero, en el litoral comprendido entre Punta Liles y el límite norte de la III Región, de conformidad con lo prescrito en el Decreto No. 439, de 1985, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 02 de Agosto de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
