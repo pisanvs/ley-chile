@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.166 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 35, superficie 696 m², rol de avalúo Nº 70-97, comuna de Teno, para la obra "Camino Ruta J-25, Sector Cruce Longitudinal - La Montaña, Km. 0,22000 a Km. 25,00000" VII Región y se acordó el valor de la indemnización con su propietaria Gloria del Rosario Ilabaca Mesina y otros, ascendente a la cantidad de $583.880.-
+
+Fiscal del Ministerio de Obras Públicas.
