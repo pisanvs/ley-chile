@@ -1,0 +1,3 @@
+Por decreto MOP Nº 703, de 30 de abril de 2001, se expropió el lote de terreno Nº 36, superficie 4.893 m2., Rol de avalúo 152-436, comuna de Graneros, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca y acceso Sur a Santiago. By Pass Rancagua, Sexta Región y se acordó el valor de indemnización con su propietario Orlando de Jesús Gajardo Vargas, ascendente a la cantidad de $4.411.400.-.
+
+Fiscal del Ministerio de Obras Públicas.
