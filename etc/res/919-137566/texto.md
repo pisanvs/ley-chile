@@ -1,0 +1,3 @@
+Por resolución Nº919, de 18 de mayo de 1999, de esta Subsecretaría, rectifícase el numeral 2º de la resolución Nº260 de 1999, de esta Subsecretaría, que autorizó a PESQUERA ISLADAMAS S.A., para ampliar actividades pesqueras extractivas con la nave ''Foche'', matrícula 2111, en el sentido de señalar que la interesada podrá realizar además actividades pesqueras sobre el recurso hidrobiológico Langostino colorado Pleuroncodes monodon, en el litoral de las regiones I a IV, por fuera del área de reserva artesanal, con red de arrastre de fondo.
+
+Valparaíso, 18 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
