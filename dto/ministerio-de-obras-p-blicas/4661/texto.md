@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.661, de 27 de octubre de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 16 y 26, para la obra Actualización Proyecto Canal de Trasvase Estero Llau-Llau a Estero Bitsch de Punta Arenas Fase II, Prolongación Canal Llau-LLau, Kms.
+
+-0,009 al 1,066, que figuran a nombre de Luis Schultz Vidal y Otros y Manuel del Socorro Villegas Contreras, superficies 815 m² y 1.368 m², roles de avalúo 5026-103 y 5026-156, comuna de Punta Arenas. La Comisión de Peritos fijó con fecha 20 de febrero de 2000, en las cantidades de $326.000, lote Nº16 y $4.104.000, para el lote Nº26. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
