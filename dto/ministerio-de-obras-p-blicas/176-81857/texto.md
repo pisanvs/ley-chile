@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 176, de 29 de julio de 1991, se expropiaron los lotes N°s. 9 y 9-A superficies 45 m2. y 47 m2., respectivamente, rol de avalúo para ambos lotes 462-098, Comuna de San Fernando, para la obra Camino Longitudinal Sur, sector San Fernando-Chimbarongo, Acceso Escuela Agrícola y se acordó precio de indemnización con sus propietarios don Juan Pedro Larroulet Vignau y Otros, ascendente a la cantidad de $ 242.603.- para dichos lotes.-
+
+Fiscal del Ministerio de Obras Públicas.
