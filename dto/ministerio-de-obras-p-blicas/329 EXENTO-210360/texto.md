@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº329 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº110-A, superficie 332 m², rol de avalúo Nº205-6, comuna de Coelemu, para la obra "Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 a Km. 8,28000", VIII Región y se acordó el valor de la indemnización con su propietaria Neli Alfonsina Guzmán Puentes, ascendente a la cantidad de $625.220.-
+
+Fiscal del Ministerio de Obras Públicas.
