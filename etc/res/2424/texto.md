@@ -1,0 +1,3 @@
+Por resolución Nº 2.424, de 31 de octubre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96101189, presentada por JUAN CARLOS VARGAS GALLARDO, para instalar y operar el centro de cultivo ubicado en sector Punta Lepihué, río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 31 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
