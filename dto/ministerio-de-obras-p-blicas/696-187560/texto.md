@@ -1,0 +1,3 @@
+Por decreto MOP Nº696 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº118, superficie 36 m2., sin rol, comuna de Alto del Carmen, para la obra "Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa III" y se acordó el valor de indemnización con su propietario Felipa Gajardo Villarroel, ascendente a la cantidad de $298.261.-
+
+Fiscal del Ministerio de Obras Públicas.
