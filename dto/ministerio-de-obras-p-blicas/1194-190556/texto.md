@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.194 de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº10-I, superficie 125 m², Rol de Avalúo Nº65-246, comuna de Teno, para la obra "Camino Ruta J-25, Sector: Cruce Longitudinal-La Montaña, Km. 0,22000 a Km. 25,00000" y se acordó el valor de indemnización con su propietario Luis Enrique Aliaga Meneses, ascendente a la cantidad de $641.110.-
+
+Fiscal del Ministerio de Obras Públicas.
