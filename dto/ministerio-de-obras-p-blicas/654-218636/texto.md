@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 654, de 31 de octubre de 1995, se expropiaron los lotes de terreno Nºs 107, 108 y 115, superficies 60 m2., 120 m2., y 147 m2., roles de avalúo 668-1, 668-2 y 675-11, comuna de Rancagua, para la obra Mejoramiento Ruta 5 Sur, sector Pasada por Rancagua Camino Ruta 5 Sur y se acordó precio de indemnización con sus propietarios Sucesión Francisco Javier Garrido Gallegos y Sucesión Clodomiro Quitral Céspedes, ascendente a las cantidades de $15.070.550, para los lotes Nºs 107 y 108 y $3.816.318, para el lote Nº115.
+
+Fiscal del Ministerio de Obras Públicas.
