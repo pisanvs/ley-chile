@@ -1,0 +1,3 @@
+Por decreto MOP No. 384, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s. 2-B y 16, superficies 30 m2 y 32,8 m2, roles de avalúos 112-13 y 500-33, comuna de San José de Maipo, obra Camino Ruta G-25, sector San José de Maipo San Gabriel y se acordó precio de indemnización con sus propietarios Olga Ramírez Ramírez y otra y Víctor Cortés Pavez, ascendente a las cantidades de $ 866.800 y $ 731.018.-
+
+Fiscal del Ministerio de Obras Públicas.
