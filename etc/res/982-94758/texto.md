@@ -1,0 +1,7 @@
+AUTORIZA A PESQUERA ROYALE LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 982, de 09 de Agosto de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Royale Limitada, R.U.T. No. 79.706ó.130-1, domiciliada en Santiago, para ampliar actividades pesqueras autorizadas por Resolución No. 779 de 1987, de esta Subsecretaría, en orden a incluir en la planta autorizada por la citada Resolución, la línea de elaboración de fresco - enfriado, donde podrá procesar los siguientes recursos hidrobiológicos: Salmón del Atlántico, Salmón del Pacífico y Trucha arco iris. Además podrá incorporar en las líneas de elaboración de conservas y congelado, autorizadas por la Resolución antes mencionada, los recursos hidrobiológicos señalados precedentemente. Los recursos Salmón del Atlántico, Salmón del Pacífico y Trucha arco iris deberán ser adquiridos de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 09 de Agosto de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
