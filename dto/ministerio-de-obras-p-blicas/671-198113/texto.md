@@ -1,0 +1,5 @@
+Por decreto MOP N° 671, de 05 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206 de 1960, se dio inicio a la vía judicial, modificando los numerales 3°, 4°, 5° y 7° del decreto MOP N° 3588, de 30 de noviembre de 1999, publicado en el Diario Oficial con fecha 15 de febrero de 2000, de la expropiación correspondiente al lote de terreno N° 56, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector C: KM. 56.300,00 - KM.
+
+68.450,00"; Sexta Región, que figura a nombre de Compañía Papelera del Pacífico S.A., rol de avalúo 136-83, comuna de San Francisco de Mostazal, superficie 1.172 m2. La comisión de peritos integrada por los señores Ricardo Antonio Strickler Arellano, Gastón Escala Gazmuri y Patricio Martínez González, fijó con fecha 9 de julio de 1999, el valor provisional de la indemnización en la cantidad de $9.780.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186 de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
