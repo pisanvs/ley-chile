@@ -1,0 +1,3 @@
+Por decreto MOP Nº 867, de 30 de septiembre de 2004, se expropió el lote de terreno Nº 1, superficie 8.310 m2, rol de avalúo 601-35, comuna de San Ignacio para la ejecución de la obra "Canal Matriz Duguillín Larqui, Fajas Adicionales, Km. 2,947 a Km. 3,460', del Proyecto Laja Diguillín,, VIII Región, y se acordó el valor de indemnización con su propietario Marcelino Muñoz Parra ascendente a la cantidad de $6.487.821.
+
+Fiscal del Ministerio de Obras Públicas.
