@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.868 de fecha 30 de noviembre del 2001, se expropió el lote de terreno Nº1, superficie 2.490 m², rol de avalúo Nº591-43, comuna de Yungay, para la obra ''Area de Riego Yungay, Canal San José Desa-güe 1, Km. 0,009 al Km. 0,424, del Proyecto Laja Diguillín'', VIII Región y se acordó el valor de indemnización con su propietaria Eledina Cid Cid y Otro, ascendente a la cantidad de $660.286.
+
+- Fiscal del Ministerio de Obras Públicas.
