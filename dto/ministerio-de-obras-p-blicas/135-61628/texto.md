@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº 135, de 11 de febrero de 1997, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. Nº 294, de 1984, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 1, para la obra Recinto Estanque y lotes 1 y 2 Recinto Captación e Impulsión, Huaquén, que figuran a nombre de Agropecuaria Santa Sabina y José del R. Rojas, Roles de Avalúo 204-3 y 204-28, comuna de Curepto, VII Región, superficies 902, 388,88 y 180 M2. La Comisión de Peritos compuesta por los señores Luis Hugo Villarroel Urbina, René Ramírez Valenzuela e Iván Correa Opazo, fijó con fecha 26 de marzo de 1996, el valor provisional de las indemnizaciones en las cantidades de $180.400.-
+
+$155.552.- y $72.000.- respectivamente. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
