@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 262, de 30 de abril de 1996, se expropiaron los lotes de terreno N°s. 26, 27, 28 y 31, superficies 37.737 m2., 29.108 m2., 26.377 m2 y 27.226 m2, respectivamente, roles de avalúo 11105-1, 1101-13,1101-1 y 9035-19, comunas de San Antonio y Cartagena, para la obra Camino Autopista Santiago-San Antonio, sector Leyda-Agua Buena, y se acordó el valor de indemnización con su propietaria Soc. Agrícola Ariztía Ltda., ascendente a la cantidad de $375.641.720.
+
+- Fiscal del Ministerio de Obras Públicas.
