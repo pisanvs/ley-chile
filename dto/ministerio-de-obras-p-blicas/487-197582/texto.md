@@ -1,0 +1,3 @@
+Por decreto MOP Nº487, de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nºs. 15-A y 15-B, superficies 524 m2 y 225 m2, rol de avalúo 3800-356, comuna de Puente Alto, Región Metropolitana, para la obra "Mejoramiento Eje La Florida Sector El Peñón a Las Vizcachas, Ruta G-25 Camino Puente Alto" y se acordó el valor de indemnización con su propietaria doña Celinda del Carmen Angulo Cortés, ascendente a la cantidad de $30.274.108.-
+
+Fiscal del Ministerio de Obras Públicas.
