@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 59, de fecha 12 de Enero de 1990, Alcalde Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas No. 2360, Rol 375-42 Santiago, aparente dominio Comunidad Edificio Agustinas 2360, superficie aproximada a expropiar 73 m2. Deslindes: Norte, 16,25 mts. calle Agustinas; Sur, 16,00 mts. resto propiedad; Oriente, 5,00 mts. otro propietario y Poniente, 4,00 mts. otro propietario. Indemnización provisional $ 987.000.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
