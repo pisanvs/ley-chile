@@ -1,0 +1,3 @@
+Por decreto MOP Nº647, de 29 de febrero del 2000, se expropiaron los lotes de terreno Nº10 y 54, superficies 578 y 76 m², roles de avalúo 231-35 y 232-6, comuna de Villa Alegre, para la obra Camino Mejoramiento Ruta L-19, sector Cruce Long. (Villa Alegre) Esperanza y se acordó precio de las indemnizaciones con sus propietarios, Arosto Antonio Sepúlveda y Olivia Mercedes Ilufi Valdés, ascendentes a las cantidades de $1.224.348, lote Nº10 y $295.036, lote Nº54.
+
+Fiscal del Ministerio de Obras Públicas.
