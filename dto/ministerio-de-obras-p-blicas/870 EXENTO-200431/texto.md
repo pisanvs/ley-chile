@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº870 de fecha 31 de mayo del 2002, se expropiaron los lotes de terreno Nºs 4-A y 4-B, superficie 322 y 288 m2 respectivamente, sin Rol, comuna de Melipilla, Región Metropolitana para la obra ''Camino Reposición Ruta G-74-F, Sector Melipilla - Bollenar, Km. 0.00000 a Km. 14,23039'' y se acordó el valor de indemnización con su propietario Establecimientos Comerciales Galería Conde de Manzo y Compañía Limitada, ascendente a la cantidad de $3.096.604.-
+
+Fiscal del Ministerio de Obras Públicas.
