@@ -1,0 +1,9 @@
+APRUEBA AMPLIACION DE POSTERGACION DE PERMISOS EN SECTOR PUNTA DE TRALCA, AFECTADO POR ESTUDIO SOBRE MODIFICACION AL PLAN REGULADOR COMUNAL DE EL QUISCO Valparaíso, 30 de Septiembre de 1992.- con esta fecha se ha dictado la siguiente resolución:
+
+Núm. 22.- Vistos: Lo dispuesto en los Artículos 2° de la Ley N° 16.391 y 12° del D.L. N° 1.305 de 1976; el D.S. N° 397 (V. y U.) de 1977; los Artículos 4° y 117° del D.F.L. N° 458 de 1975 (V. y U.), Ley General de Urbanismo y Construcciones; la Resolución N° 221 (V. y U.) del 10 de Julio de 1990 que nombra Secretario Regional Ministerial de Vivienda y Urbanismo en la Va Región; el Decreto Alcaldicio N° 157 del 08 de Mayo de 1992; el Ord. N° 515 del 07 de Mayo de 1992 de esta Secretaría Regional Ministerial y el Of. Ord. N° 253 del 31 de Julio de 1992 del Sr. Alcalde (S) de la I. Municipalidad de El Quisco, dicto la siguiente Resolución:
+
+Prorrógase por seis meses la postergación de permisos de subdivisión, loteo o urbanización predial y construcciones en el sector Punta de Tralca, Comuna de El Quisco, indicado en el Decreto Alcaldicio N° 157/92, afectado por estudio sobre modificación del Plan Regulador Comunal de El Quisco.
+
+Publíquese el texto íntegro de la presente Resolución en el Diario Oficial y además publíquese en algún diario de los de mayor circulación de la comuna, de conformidad a lo dispuesto en el Artículo 117° de la Ley General de Urbanismo y Construcciones, D.F.L. N° 458/75.
+
+Tómese razón, comuníquese, transcríbase, publíquese y archívese.- Juan Hernández Galaz, Secretario Regional Ministerial de Vivienda y Urbanismo Va Región.
