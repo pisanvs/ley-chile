@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 831, de 29 de agosto de 1997, se expropiaron los lotes de terreno Nºs. 21, 33 y 39, superficies 219, 67 y 8 m2., respectivamente, roles de avalúo 2-28 y 30-1, comuna de Quinta de Tilcoco, para la obra Camino Quinta de Tilcoco Cruce Ruta 66 y se acordó precio de indemnización con sus propietarios Luis Carrasco Saldaña, Juan Pineda Villegas y Berta Pérez Bugueño, ascendentes a las cantidades de $1.683.740, $378.468.- y $333.410.-
+
+Fiscal del Ministerio de Obras Públicas.
