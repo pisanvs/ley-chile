@@ -1,0 +1,5 @@
+AUTORIZA A DON JOSE MIGUEL ARANGUIZ GONZALEZ PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 539, de 29 de Mayo de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción se autoriza a don José Miguel Aránguiz González, R.U.T. No. 5.172.316-3, domiciliado en Los Araucanos No. 1216, Talcahuano, para iniciar actividades pesqueras extractivas con la embarcación "Nautilus", en el litoral de las Regiones I a X ambas inclusive de los siguientes recursos: jurel, anchoa, sardina común, sardina española, caballa, merluza común, langostino colorado, langostino amarillo, congrio dorado, congrio negro, congrio colorado, raya y bacalao o mero. Con todo, la extracción del recurso bacalao sólo podrá efectuarse en el litoral comprendido entre Punta Liles y la X Región y la de los recursos jurel, anchoa, sardina española y caballa en el litoral de las Regiones III a VII y IX a X.
+
+Valparaíso, 29 de Mayo de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
