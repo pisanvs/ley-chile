@@ -1,0 +1,5 @@
+Por decreto MOP Nº 137, de 16 de febrero de 2001 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 29-B para la obra: "Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli. Sector: Km. 506.200,00 al Km. 515.600,00.
+
+By-Pass Los Angeles" Octava Región, que figura a nombre de Viveros Melo Teresa y ots., rol de avalúo 1566-49, comuna de Los Angeles, superficie 17.654 m2. La comisión de peritos integrada por los señores Christian Cornelio Scherpenisse Infante, Karin Alicia Ernst Elizalde y Juan Andrés Tepper Lavanderos, fijó con fecha 7 de septiembre de 2000, el valor provisional de la indemnización en la cantidad de $29.638.000.- La indemnización de pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
