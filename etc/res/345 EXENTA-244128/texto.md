@@ -396,7 +396,7 @@ Conmutar llamadas de
 
 sus equipos terminales
 
-Aparte de estos Elementos de Red, la RPDCP debe contar con la función Centro de Gestión y Mantenimiento, la cual se regirá por lo estipulado en el Capítulo VIII de este Reglamento.
+Aparte de estos Elementos de Red, la RPDCP debe contar con la función Centro de Gestión y Mantenimiento, la cual se regirá por lo estipulado en el Capítulo VIII de esta Norma.
 
 ## Título 3 — Encaminamiento
 
@@ -636,7 +636,7 @@ Usuarios. E -
 
 <!-- parte:8653489 -->
 
-Los concesionarios podrán proporcionar a sus propios abonados otras facilidades facultativas, además de las mencionadas en este Reglamento.
+Los concesionarios podrán proporcionar a sus propios abonados otras facilidades facultativas, además de las mencionadas en esta Norma.
 
 ## Título 6 — Señalización Nacional
 
@@ -1028,7 +1028,7 @@ Los terminales TP trabajan en el modo síncrono, solamente, mientras que los ter
 
 <!-- parte:8653527 -->
 
-Las categorías de acceso a la RPDCP, que se indican en este Reglamento, son las correspondientes a los ETD que se conectan directamente a la RPDCP.
+Las categorías de acceso a la RPDCP, que se indican en esta Norma, son las correspondientes a los ETD que se conectan directamente a la RPDCP.
 
 #### Artículo 44º
 
@@ -1084,7 +1084,7 @@ De la Interfaz de Abonado para TP
 
 <!-- parte:8653531 -->
 
-La Interfaz ETD/ETCD, de los abonados de las categorías D, debe cumplir con las exigencias establecidas en este Reglamento, para los niveles físicos, enlace y paquete del Modelo de Referencia ISA.
+La Interfaz ETD/ETCD, de los abonados de las categorías D, debe cumplir con las exigencias establecidas en esta Norma, para los niveles físicos, enlace y paquete del Modelo de Referencia ISA.
 
 ## Título 1 — Nivel Físico de la Interfaz ETD/ETCD
 
@@ -1298,11 +1298,11 @@ Reservado para otras aplicaciones No se usa
 
 b) Identificador del Tipo de Paquete:
 
-La RPDCP debe proporcionar todos los tipos de paquetes indicados en el Cuadro VI.1 de este Reglamento.
+La RPDCP debe proporcionar todos los tipos de paquetes indicados en el Cuadro VI.1 de esta Norma.
 
 c) Paquete de Petición de Llamada y de Llamada Entrante:
 
-El campo de dirección ETD de estos paquetes, deberá incluir, como identificación del ETD, al "Número de ETD" nacional o internacional según corresponda a llamadas nacionales o internacionales, respectivamente. El mencionado "Número de ETD", deberá cumplir con lo dispuesto en el Capítulo III de este Reglamento.
+El campo de dirección ETD de estos paquetes, deberá incluir, como identificación del ETD, al "Número de ETD" nacional o internacional según corresponda a llamadas nacionales o internacionales, respectivamente. El mencionado "Número de ETD", deberá cumplir con lo dispuesto en el Capítulo III de esta Norma.
 
 El Paquete de Llamada Entrante, enviado por el ETCD, debe contener el "Número del ETD" llamante, excepto cuando el ETD llamante accede a la RPDCP a través de otra red de servicio público (Telefonía o Télex) sin tener la facilidad IUR. En este caso, el Paquete de Llamada Entrante, que contiene la facilidad de cobro revertido, lleva la cifra R que identifica la red de origen.
 
@@ -1346,7 +1346,7 @@ El ETCD puede enviar esta facilidad al ETD sólo si es recibida por el nodo inte
 
 4. Formatos de los Campos de Facilidad y de los Campos de Registros.
 
-Además de las facilidades normalizadas en el Artículo 23º de este Reglamento, el ETCD y el ETD pueden utilizar otras facilidades mediante el uso, en los paquetes, de un par de octetos marcadores.
+Además de las facilidades normalizadas en el Artículo 23º de esta Norma , el ETCD y el ETD pueden utilizar otras facilidades mediante el uso, en los paquetes, de un par de octetos marcadores.
 
 a) Para la utilización de los octetos marcadores, la RPDCP debe proceder de la siguiente forma:
 
@@ -1362,7 +1362,7 @@ Estas facilidades no se pueden transmitir a otra red.
 
 Las facilidades se pueden transmitir a la red de destino solamente si hay un acuerdo entre las dos redes. El marcador 11111111 se puede utilizar en llamadas internacionales salientes.
 
-- La utilización del par de octetos marcadores, es obligatoria sólo para las redes que proporcionan facilidades distintas a las establecidas en este Reglamento.
+- La utilización del par de octetos marcadores, es obligatoria sólo para las redes que proporcionan facilidades distintas a las establecidas en esta Norma.
 
 b) Definición y explicación de los octetos marcadores denominados bits de confirmación de entrega (bit D) y marcador más datos (bit M):
 
@@ -1434,7 +1434,7 @@ Si el EDD no ofrece la Facilidad de Tratamiento de Paridad, deberá analizar só
 
 5. Identificación de Usuario de Red (IUR):
 
-Esta señal se usará según lo dispuesto en los Artículos 32º y 33º de este Reglamento.
+Esta señal se usará según lo dispuesto en los Artículos 32º y 33º de esta Norma.
 
 ## Título 3 — Procedimiento para el intercambio de
 
@@ -1784,7 +1784,7 @@ De los Grupos Cerrados de Usuarios (GCU) y de los Circuitos Virtuales Permanente
 
 <!-- parte:8653569 -->
 
-Conforme se establece en el Artículo 21º de este Reglamento, los concesionarios de Servicios Públicos de Transmisión de Datos, deben permitir que se constituyan Grupos Cerrados de Usuarios (GCU).
+Conforme se establece en el Artículo 21º de esta Norma, los concesionarios de Servicios Públicos de Transmisión de Datos, deben permitir que se constituyan Grupos Cerrados de Usuarios (GCU).
 
 #### Artículo 70º
 
@@ -1910,7 +1910,7 @@ Toda red podrá proporcionar esta clase de servicio a los usuarios que lo solici
 
 <!-- parte:8653585 -->
 
-Las categorías de acceso para el ETD que se especifican en este Reglamento, son las correspondientes a los ETD que se conectan directamente a la RPDCP y se indican a continuación:
+Las categorías de acceso para el ETD que se especifican en esta Norma, son las correspondientes a los ETD que se conectan directamente a la RPDCP y se indican a continuación:
 
 1. Conexión directa en modo arrítmico (Categorías E):
 
@@ -1967,6 +1967,14 @@ la Interfaz ETD/ETCD para las Categorías F, cumplirá con los procedimientos es
 Todo lo relacionado con los aspectos funcionales y de procedimientos de la Interfaz ETD/ETCD, para los ETD que accedan a la RPDCP a través de otras redes públicas con conmutación (Red Telefónica o Red de Télex), se denominará Interfuncionamiento.
 
 El Interfuncionamiento se regirá por la norma específica que se dice al respecto.
+
+CAPITULO XIII Del uso de otras tecnologías y protocolos
+
+#### Artículo 84º
+
+<!-- parte:8764868 -->
+
+El servicio público de transmisión de datos podrá ser provisto mediante otras tecnologías y protocolos diferentes del X.25, para lo cual las empresas interesadas en prestar dichos servicios deberán suministrar, en el respectivo proyecto técnico que acompañe a la solicitud de concesión, los antecedentes necesarios que permitan caracterizar la tecnología y el íntegro cumplimiento de los requisitos correspondientes que la ley exija respecto a los servicios públicos de telecomunicaciones, en particular cumplir con lo dispuesto en el artículo 3º letra b) de la ley en cuanto a las interconexiones con otros servicios públicos de telecomunicaciones del mismo tipo. Si en la solicitud de concesión la tecnología no estuviera lo suficientemente caracterizada, la Subsecretaría de Telecomunicaciones podrá requerir a las empresas solicitantes, en forma previa al otorgamiento de la respectiva concesión, los antecedentes complementrios que estime necesarios. Artículo 85º No serán aplicables los capítulos I al XII a aquellos servicios de transmisión de datos que se suministren mediante tecnologías y protocolos diferentes del X.25.
 
 Anótese, y publíquese en el Diario Oficial.- Gustavo Arenas Corral, Coronel de Ejército, Subsecretario de Telecomunicaciones.
 
