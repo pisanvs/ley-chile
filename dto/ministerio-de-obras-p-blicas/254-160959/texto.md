@@ -1,0 +1,3 @@
+Por decreto MOP Nº 254, de 31 de enero de 2000, se expropió el lote de terreno Nº 138, superficie 1.929 m2., rol de avalúo 103-10, comuna de Paine, para la obra Concesión Internacional Ruta 5, Tramo Santiago - Talca, Sector A, Región Metropolitana y se acordó el valor de indemnización con su propietario Luis Arturo Vega Olivera, ascendente a la cantidad de $37.528.061.
+
+Fiscal del Ministerio de Obras Públicas.
