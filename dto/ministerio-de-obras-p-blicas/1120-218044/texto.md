@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.120, de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 16-A, superficie 7.047 m2, Rol Nº 160-515, comuna de Petorca, V Región, para la obra "Ruta E-37-D, Sector Pedegua-Palquico, Km. 0,000 a Km. 14,000 y se acordó el valor de indemnización con su propietario Sociedad Agrícola J y G Limitada, ascendente a la cantidad de $7.049.031.
+
+Fiscal del Ministerio de Obras Públicas.
