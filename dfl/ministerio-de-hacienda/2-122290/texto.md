@@ -1,0 +1,2023 @@
+FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA ORDENANZA DE ADUANAS
+
+No. 2.- Santiago, 12 de noviembre de 1997.- Vistos: lo dispuesto en el decreto con fuerza de ley No. 30, de Hacienda, de 1982, que fijó el texto refundido del decreto con fuerza de ley No. 213, de 1953, sobre Ordenanza de Aduanas; lo establecido en el artículo 15 de la ley No. 19.479, y las facultades que me confiere el artículo 32, No. 3, de la Constitución Política de la República de Chile, dicto el siguiente:
+
+Decreto con fuerza de ley :
+
+#### Artículo UNICO
+
+FIJASE EL SIGUIENTE TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL DECRETO CON FUERZA DE LEY 213, DE 1953, SOBRE ORDENANZA DE ADUANAS
+
+## Título Preliminar
+
+1.- Ambito de Aplicación y Definiciones Básicas
+
+#### Artículo 1
+
+Servicio Nacional de Aduanas es un Servicio Público, de administración autónoma, con personalidad jurídica, de duración indefinida y se relacionará con el Poder Ejecutivo a través del Ministerio de Hacienda. Este Servicio será denominado para todos los efectos legales como "Institución Fiscalizadora" y su domicilio será la ciudad de Valparaíso.
+
+A este Servicio le corresponderá vigilar y fiscalizar el paso de mercancías por las costas, fronteras y aeropuertos de la República, intervenir en el tráfico internacional para los efectos de la recaudación de los impuestos a la importación, exportación y otros que determinen las leyes, y de generar las estadísticas de ese tráfico por las fronteras, sin perjuicio de las demás funciones que le encomienden las leyes.
+
+#### Artículo 2
+
+Para la aplicación de esta Ordenanza y de la normativa aduanera en general se entenderá por:
+
+1. Potestad Aduanera: el conjunto de atribuciones que tiene el Servicio para controlar el ingreso y salida de mercancías hacia y desde el territorio nacional y para dar cumplimiento a las disposiciones legales y reglamentarias que regulan las actuaciones aduaneras. Quedan también sujetas a dicha potestad las personas que pasen por las fronteras, puertos y aeropuertos, y la importación y exportación de los servicios respecto de los cuales la ley disponga intervención de la Aduana.
+
+Asimismo, esta potestad se ejerce Respecto de las mercancías y personas que ingresen o salgan de zonas de tratamiento aduanero especial.
+
+2. Mercancía: todos los bienes corporales muebles, sin excepción alguna.
+
+Es extranjera la que proviene del exterior y cuya importación no se ha consumado legalmente, aunque sea de producción o manufactura nacional, o que, habiéndose importado bajo condición, ésta deje de cumplirse.
+
+Es nacional la producida o manufacturada en el país con materias primas nacionales o nacionalizadas; y es nacionalizada la mercancía extranjera cuya importación se ha consumado legalmente, esto es, cuando terminada la tramitación fiscal queda la mercancía a disposición de los interesados.
+
+3. Importación: la introducción legal de mercancía extranjera para su uso o consumo en el país.
+
+4. Exportación: la salida legal de mercancías nacionales o nacionalizadas para su uso o consumo en el exterior.
+
+5. Zona primaria: el espacio de mar o tierra en el cual se efectúan las operaciones materiales marítimas y terrestres de la movilización de las mercancías el que, para los efectos de su jurisdicción es recinto aduanero y en el cual han de cargarse, descargarse, recibirse o revisarse las mercancías para su introducción o salida del territorio nacional. Corresponderá al Director Nacional de Aduanas fijar y modificar los límites de la zona primaria.
+
+6. Zona secundaria; la parte del territorio y aguas territoriales que le corresponda a cada Aduana en la distribución que de ellos haga el Director Nacional de Aduanas, para los efectos de la competencia y obligaciones de cada una.
+
+6 bis.- Perímetros fronterizos de vigilancia especial: Parte de la zona secundaria en la cual se establecen prohibiciones y restricciones especiales para las existencias y tráfico de mercancías.
+
+7. El tráfico de cabotaje es el transporte por mar de mercancías nacionales o nacionalizadas, o la simple navegación entre dos puntos de la costa del país, aunque sea por fuera de sus aguas territoriales pero sin tocar puerto extranjero.
+
+8. La expresión puerto marítimo comprende también los puertos ubicados en un lago, cuando éste constituya parte de la frontera de la República.
+
+9. Reexportación es el retorno al exterior de mercancías traídas al país y no nacionalizadas.
+
+10. Redestinación es el envío de mercancías extranjeras desde una Aduana a otra del país, para los fines de su importación inmediata o para la continuación de su almacenamiento.
+
+11. Transbordo de mercancías es su traslado directo o indirecto desde un vehículo a otro, o al mismo en diverso viaje, incluso su descarga a tierra con el mismo fin de continuar a su destino y aunque transcurra cierto plazo entre su llegada y su salida.
+
+12. Sin perjuicio de lo que determine el Director Nacional de Aduanas, con aprobación del Presidente de la República, se entenderá por recinto bajo control de una Aduana, no sólo las oficinas, almacenes y locales destinados al servicio directo de la misma y sus dependencias, sino también los muelles, puertos y porciones de bahía y sus anexos, si es marítima, y las avanzadas, predios y caminos habilitados, si es terrestre.
+
+Plazos
+
+#### Artículo 3
+
+Los plazos a que se refiere esta ley comprenden días hábiles e inhábiles, con excepción de los señalados en el Título II del Libro III de esta Ordenanza, que sólo correrán en los días hábiles.
+
+Los plazos no fatales pueden prorrogarse si la solicitud respectiva se presenta antes del vencimiento y con causa justificada. La suma de la extensión de las prórrogas no podrá exceder la del plazo original que prolonga. Los plazos que venzan en días sábados o inhábiles se entenderán prorrogados hasta el día siguiente hábil.
+
+En casos excepcionales podrán concederse términos especiales una vez vencido un plazo prorrogable, pero se sancionará al infractor de conformidad con lo dispuesto en el artículo No. 175.
+
+2. Disposiciones Generales relativas a los Derechos y Obligaciones de las Personas respecto de la Legislación Aduanera
+
+#### Artículo 4
+
+Las peticiones a la autoridad aduanera serán fundadas, acompañando el interesado los documentos e información necesarios para una adecuada resolución de lo solicitado.
+
+Las decisiones de la autoridad aduanera serán fundadas y comunicadas al solicitante.
+
+#### Artículo 5
+
+El Servicio Nacional de Aduanas podrá tomar en consideración la información de fuente nacional o extranjera que le sea entregada por vía electrónica, relacionada con operaciones aduaneras. En el emisor recaerá la responsabilidad por la autenticidad de la información dada, esto es, de haber sido emitida por las personas y de la manera que en la transmisión electrónica se expresa.
+
+#### Artículo 6
+
+Las informaciones proporcionadas al Servicio Nacional de Aduanas u obtenidas por éste en el ejercicio de atribuciones legales no podrán entregarse a terceros cuando tengan carácter de reservados.
+
+#### Artículo 7
+
+Los interesados deberán conservar los documentos relativos a las operaciones aduaneras, en papel o magnéticos, según la forma en que hayan servido de antecedente en su oportunidad, por un plazo de cinco años, a contar del primer día del año calendario siguiente a aquel de la fecha del hecho generador de la obligación tributaria aduanera, salvo los casos de pago diferido en que el plazo de cinco años se contará desde la amortización o vencimiento de la última cuota.
+
+#### Artículo 8
+
+Las personas que emitan informes para ser presentados ante el Servicio de Aduanas o ante los organismos vinculados a él, deberán, cuando la Aduana lo requiera, aportar los estudios y antecedentes que sirvieron de base para su formulación, como asimismo, evacuar los informes aclaratorios que les fueren solicitados.
+
+En el caso que los informes referidos contengan conclusiones erróneas o sean falsos, sus emisores serán solidariamente responsables con sus mandantes de las indemnizaciones que correspondan.
+
+3.- De las Aduanas
+
+#### Artículo 9
+
+El paso de las mercancías y personas por las fronteras, puertos y aeropuertos sólo podrá efectuarse legalmente por los puntos habilitados, a título permanente, temporal u ocasional, que al efecto determine el Presidente de la República, mediante decreto supremo expedido a través del Ministerio de Hacienda. El Director Nacional de Aduanas fijará las épocas o períodos de funcionamiento de los puntos habilitados en forma temporal u ocasional.
+
+Sin perjuicio de lo anterior, el Director Nacional de Aduanas, en casos de fuerza mayor, podrá autorizar el paso de mercancías y personas por puntos no habilitados.
+
+Los puntos habilitados a que se refiere el inciso primero quedarán sujetos a la jurisdicción de las Aduanas que se establezcan conforme al artículo 10º.
+
+#### Artículo 10
+
+Las Aduanas serán establecidas por el Presidente de la República mediante decreto supremo expedido a través del Ministerio de Hacienda. En igual forma se podrá decretar la supresión o cierre temporal de las Aduanas, cuando se produzca una notable disminución del tráfico que por ellas opere.
+
+#### Artículo 11
+
+El Presidente de la República, mediante decreto supremo expedido a través del Ministerio de Hacienda, determinará las destinaciones aduaneras susceptibles de tramitarse por las Aduanas y las operaciones aduaneras que podrán realizarse por los puntos habilitados establecidos al efecto.
+
+#### Artículo 12
+
+En el ejercicio de las facultades a que se refieren los artículos anteriores se deberán mantener habilitadas las Aduanas y los puntos respectivos que fueren necesarios para el normal desarrollo del comercio exterior.
+
+#### Artículo 13
+
+El Director Nacional de Aduanas, con aprobación del Presidente de la República, podrá dispensar, total o parcialmente del cumplimiento de las disposiciones aduaneras, al tráfico fronterizo que efectúen las personas que viven permanentemente al Oriente de las Aduanas terrestres, con el objeto de abastecerse de las mercancías necesarias para su subsistencia. En la misma forma podrán establecerse modalidades especiales para el cobro de los derechos que correspondan.
+
+4.- Ejercicio de la Potestad Aduanera
+
+#### Artículo 14
+
+La aplicación y vigilancia de la reglamentación de la entrada, permanencia, circulación y salida de personas, vehículos, unidades de carga y mercancías en la zona primaria es de competencia de la autoridad aduanera, sin perjuicio de las atribuciones de otros organismos.
+
+Ninguna autoridad ni empleado de Aduana podrá intervenir en la zona secundaria marítima, sin previo visto bueno y anuencia de la autoridad marítima.
+
+#### Artículo 15
+
+Para los efectos del fiel cumplimiento de las disposiciones de esta Ordenanza, toda persona que entre al país o salga de él podrá ser registrada por las autoridades aduaneras, con arreglo a los reglamentos que dicte el Director Nacional de Aduanas con aprobación del Presidente de la República.
+
+#### Artículo 16
+
+Las mercancías que deban entrar o salir por los puertos u otros lugares habilitados serán entregadas a la Aduana en el punto de su zona primaria que señale el administrador o jefe de ella a solicitud del consignatario o de oficio. Tanto el consignatario como el dueño del vehículo, responderán del cumplimiento de la disposición anterior.
+
+#### Artículo 17
+
+Mientras esté dentro de la zona primaria de jurisdicción y sin perjuicio de las atribuciones de las autoridades competentes, todo vehículo, su tripulación, sus pasajeros y sus cargamentos quedarán sometidos a la potestad de la Aduana respectiva, pero ésta sólo responderá por las mercancías una vez revisadas y recibidas definitivamente por ella.
+
+La disposición del inciso anterior se aplicará también a las mercancías destinadas a embarcarse, las que quedarán también sometidas a la potestad de dicha Aduana, hasta el momento en que salgan de ella legítimamente autorizadas por ésta.
+
+#### Artículo 18
+
+Quedan obligadas a presentarse en la Aduana correspondiente al punto por donde entren o vayan a salir del país las personas que lo hagan por sí mismas o por sus propios medios de transporte y sin servirse de fletadores marítimos, aéreos o terrestres, lleven o no mercancías consigo, y deben hacerlo dentro de la zona primaria de su jurisdicción por el camino habilitado que más directamente conduzca a ella o a su presentación inmediata en los puntos señalados conforme al artículo anterior, quedando en todo sometidas a la potestad de dicha Aduana hasta que ésta las autorice para salir de ella.
+
+#### Artículo 19
+
+DEROGADO
+
+#### Artículo 20
+
+Las lanchas, lanchones, botes y demás embarcaciones que hayan sido cargadas con mercancías dentro de la zona de jurisdicción de una Aduana marítima, fondearán o anclarán en los sitios que para ello designe el administrador de dicha Aduana, de acuerdo con la autoridad marítima.
+
+En los puertos en que opere la Empresa Portuaria de Chile, la designación de los sitios la hará el administrador del puerto, de acuerdo con el administrador de Aduana y con la autoridad marítima.
+
+#### Artículo 21
+
+La carga y descarga, traslado o cualquiera otra operación material que afecte a las mercancías sólo se efectuarán en el día y hora, sitio y forma fijados por el Administrador de Aduana, en conformidad a los reglamentos de la presente Ordenanza y de acuerdo, además, si la Aduana es marítima, con lo establecido en las leyes, reglamentos y otras disposiciones, cuya aplicación corresponda a otra autoridad u organismo.
+
+#### Artículo 22
+
+La carga y descarga de provisiones de buques de guerra, de aeronaves y transporte de fuerzas armadas de potencias extranjeras, se harán en conformidad a los reglamentos que dicte el Director Nacional de Aduanas con aprobación del Presidente de la República, previa consulta al Ministerio de Defensa Nacional.
+
+#### Artículo 23
+
+El Servicio Nacional de Aduanas podrá practicar la inspección, fiscalización y el aforo de las mercancías que salen o ingresan al país, mediante su examen físico, en los lugares de origen o destino respectivamente. Para todos los efectos legales, estos lugares se considerarán Zona Primaria de Jurisdicción.
+
+#### Artículo 24
+
+El Director Nacional de Aduanas, a requerimiento de los usuarios, podrá designar funcionarios en comisión de servicios para realizar, en relación con sus propias operaciones, labores de fiscalización en el extranjero. En estos casos, los gastos de viáticos y pasajes serán de cargo del requirente.
+
+El Reglamento establecerá las condiciones para acceder a estas solicitudes, los procedimientos de provisión de los referidos gastos y las demás normas necesarias para la adecuada aplicación de este artículo.
+
+#### Artículo 25
+
+Las personas naturales o jurídicas a quienes se permita actuar como agentes para la recepción, estiba, desestiba, movilización o transporte de mercancías en la zona primaria de jurisdicción de una Aduana, estarán sujetas tanto ellas como los medios que utilicen, a la potestad de la Aduana. Dichas personas deberán rendir cauciones con arreglo a lo dispuesto en el artículo 4º, No. 17, del DFL 329, de 1979, del Ministerio de Hacienda.
+
+Asimismo, lo dispuesto en el inciso precedente se aplicará a los agentes de carga, transitarios y operadores de transporte multimodal. El Director Nacional de Aduanas reglamentará las obligaciones y facultades de estas personas en el ámbito de su competencia, las cuales, junto a sus socios, representantes y empleados quedarán sujetos a la jurisdicción disciplinaria del Director, en los mismos términos previstos en el artículo 227º de la presente Ordenanza para los despachadores, sus apoderados y auxiliares.
+
+#### Artículo 26
+
+Las mercancías responderán directa y preferentemente al Fisco por los derechos, impuestos, tasas, gastos y multas a que dieren lugar.
+
+# Libro I
+
+"De la Junta General de Aduanas"
+
+#### Artículo 27
+
+La Junta General de Aduanas tendrá su asiento en Valparaíso. Se compondrá por el Fiscal Nacional Económico y de tres Consejeros nombrados por el Presidente de la República, del siguiente modo:
+
+a) Uno elegido libremente por el Presidente de la República, y
+
+b) Dos elegidos de una quina presentada por la Confederación de la Producción y el Comercio de Chile.
+
+En la misma forma establecida en el inciso anterior, se designarán consejeros suplentes de los titulares.
+
+Para celebrar sus sesiones la Junta deberá contar con la asistencia de tres de sus miembros a lo menos, y será presidida por el representante de elección libre del Presidente de la República. En ausencia de éste, por el Consejero más antiguo en el cargo.
+
+El Presidente decidirá en las sesiones Los empates que se produzcan.
+
+La Junta tendrá un Secretario Abogado y un Prosecretario, quienes serán designados por la misma Junta a propuesta del Director Nacional, los que desempeñarán el cargo mientras cuenten con la confianza de la Junta.
+
+El Secretario Abogado será ministro de Fe de las deliberaciones y resoluciones de ésta y el Prosecretario actuará en tal carácter cuando lo subrogue en caso de ausencia o impedimento.
+
+#### Artículo 28
+
+Si la entidad a que se refiere la letra b) del artículo anterior no presentare la quina al Presidente de la República dentro de treinta días de producida una vacante que deba será llenada con arreglo a dicho artículo, el Presidente de la República podrá nombrar a la persona que estime conveniente.
+
+Las vacantes serán llenadas sólo por el tiempo que le falte para completar su período al Consejero que se reemplaza.
+
+#### Artículo 29
+
+Los Consejeros de la Junta General de Aduanas desempeñarán sus cargos por un período de tres años, renovables. La inasistencia injustificada a más de tres sesiones en un año calendario, a las cuales se haya citado con 48 horas de anticipación, a lo menos, producirá la cesación en el cargo.
+
+No podrán será Consejeros de la Junta las personas que tengan o caucionen contratos con el Fisco, ya sea personalmente o como socios comerciales.
+
+Para resolver materias de carácter administrativos que le sean encomendadas por la ley, integrará también la Junta General el Director Nacional de Aduanas, quien para estos efectos asumirá la presidencia de este organismo.
+
+#### Artículo 30
+
+Corresponderá a la Junta General de Aduanas:
+
+a) Determinar el procedimiento para sus propias reuniones y acuerdos:
+
+b) Resolver en conciencia los juicios o contiendas sometidos a su conocimiento, y
+
+c) Conocer breve y sumariamente, en única instancia y sin forma de juicio, las reclamaciones que se interpongan en contra del Director Nacional de Aduanas por sus resoluciones de carácter administrativo que denieguen el trámite de una destinación aduanera.
+
+La reclamación se deberá interponer por el afectado ante la Junta General de Aduanas, dentro del plazo fatal de diez días hábiles, desde que se tuvo conocimiento de la resolución que causa agravio.
+
+Para estos efectos se presume que el interesado tuvo conocimiento del acto administrativo cuestionado, al tercer día hábil siguiente a la remisión de la comunicación de dicho acto.
+
+# Libro II
+
+De la entrada y salida de vehículos, mercancías y personas hacia y desde el territorio nacional y de su presentación al Servicio de Aduanas
+
+T I T U L O I
+
+Generalidades
+
+#### Artículo 31
+
+Las normas del presente libro se aplicarán a las mercancías y a las personas que lleguen o salgan del país en cualquier medio de transporte de carga o pasajeros o que se movilicen por sus propios medios.
+
+#### Artículo 32
+
+Para los efectos de esta Ordenanza se entenderá por:
+
+a) "Vehículo", cualquier medio de transporte de carga o personas.
+
+b) "Vehículo procedente del extranjero", que provenga de zonas del también al territorio nacional afectas a tratamientos tributarios preferenciales.
+
+c) "Conductor", la persona a cargo de un vehículo, y por ficción, los Agentes o representantes legales de las empresas de transporte.
+
+d)"Puerto", al marítimo, fluvial, lacustre, aéreo y a los terminales carreteros o ferroviarios.
+
+e) "Manifiesto de Carga", el documento, suscrito por el conductor o por los representantes de la empresa de transportes, que contiene la relación completa de los bultos de cualquier clase a bordo del vehículo con exclusión de los efectos postales y de los efectos de los tripulantes y de los pasajeros.
+
+f) "Provisiones" y "Rancho", mercancías destinadas al consumo de pasajeros y tripulantes o al serávicio de la nave.
+
+g) "Equipaje":
+
+1) Los artículos, nuevos o usados, que porte un viajero para su uso personal o para obsequios, con exclusión de mercancías que por su cantidad o valor hagan presumir su comercialización.
+
+2) Los objetos de uso exclusivo para el ejercicio de profesiones u oficios, usados.
+
+3) Hasta una cantidad que no exceda, por persona adulta, de 400 unidades de cigarrillos; 500 gramos de tabaco de pipa; 50 unidades de puros y 2.500 centímetros cúbicos de bebidas alcohólicas.
+
+h) "Guía de Correos", lista de los efectos postales entregados o recibidos por el Servicio de Correos.
+
+i) "Recinto de Depósito Aduanero",el lugar habilitado por la ley o por el Servicio de Aduanas donde se almacenan mercancías bajo su potestad.
+
+El Director Nacional de Aduanas determinará, mediante una resolución de aplicación general, los objetos que pueden ser incluidos dentro del concepto de equipaje, cuando son portados por residentes o no residentes, tales como prismáticos, teléfonos celulares o móviles, cámaras fotográficas u otros objetos que habitualmente portan los viajeros.
+
+El concepto de equipaje de este artículo es aplicable tanto a los viajeros que provengan del extranjero, como a aquellos que provengan de zona franca o zona franca de extensión.
+
+T I T U L O II
+
+Presentación y entrega de las mercancías y recepción de vehículos
+
+1.- De la recepción de los vehículos y presentación de mercancías a la Aduana
+
+#### Artículo 33
+
+Todo vehículo que ingrese al país desde el extranjero podrá ser revisado por el Administrador de la Aduana respectiva o por el funcionario que éste designe y, en todo caso, será recibido legalmente por la autoridad aduanera a su llegada al primer puerto. Lo anterior no obsta a la realización de posteriores fiscalizaciones que pueda ordenar la Aduana en virtud de su potestad.
+
+Cuando la Aduana disponga revisar una nave a su recalada en un puerto, la autoridad marítima no la dejará en "libre plática", aun cuando haya sido recibida por ella y por la autoridad sanitaria. Para estos efectos, la autoridad marítima comunicará oportunamente a la Aduana la llegada de las naves, pudiendo esta última solicitar a la autoridad marítima la suspensión de la libre plática.
+
+Mientras no se haya dado la libre plática, ninguna persona, salvo las autorizadas por la ley o por el Administrador de Aduanas, podrá subir ni bajar si no se ha otorgado el permiso para desembarcar pasajeros y carga.
+
+El Administrador de la Aduana podrá ordenar el cierre y el sello de los departamentos, bodegas o dependencias de un vehículo, en los que se suponga que haya mercancía extranjera, manifestada o no, susceptible a venderse al público en el puerto o desembarcarse clandestinamente.
+
+#### Artículo 34
+
+Todas las mercancías que ingresen al país desde el extranjero o de zona de tratamiento aduanero especial, quedarán sometidas a la potestad de la Aduana.
+
+#### Artículo 35
+
+Las mercancías introducidas al territorio nacional deberán ser presentadas a la Aduana.
+
+Sin perjuicio de lo dispuesto Convenios Internacionales, todo vehículo al momento de su llegada o salida del territorio deberá presentar, a través del conductor o de su representante, a la Aduana correspondiente al lugar de su ingreso o salida, los siguientes documentos:
+
+1) Manifiesto de carga general incluyendo las provisiones y rancho.
+
+2) Lista de pasajeros y tripulantes.
+
+3) Guía de Correos.
+
+El Reglamento podrá exigir otros documentos.
+
+Las naves de guerra extranjeras y los vehículos que transporten provisiones para dichas naves, sólo estarán obligados a presentar los documentos a que se refiere el inciso primero si llevan carga consignada al puerto que arriben.
+
+#### Artículo 36
+
+Todo vehículo deberá presentar, además, en cada lugar de escala, los siguientes documentos:
+
+1) Manifiesto de carga de la mercancía consignada hacia o desde. dicho lugar
+
+2) Lista de pasajeros y tripulantes que hayan de desembarcar, embarcar o permanecer en tránsito en dichos lugares.
+
+3) Guía de Correos con los efectos postales que hayan de ser entregados o recibidos por el Servicio de Correos.
+
+#### Artículo 37
+
+Por la sola presentación de los documentos referidos en los artículos anteriores a la Aduana respectiva, se entenderá que el vehículo ha sido recibido por el Servicio y las mercancías presentadas a él. Si la presentación de los documentos se hace por vía electrónica, se estará a la recepción efectiva del vehículo y en esa misma oportunidad se entenderán presentadas las mercancías.
+
+Las naves que solamente viajen entre los puertos de la República, sin tocar puertos extranjeros, deben entregar en cada puerto el manifiesto particular de la carga extranjera que transportan.
+
+#### Artículo 38
+
+Los pasajeros y tripulantes que entren o salgan del país sólo estarán obligados a declarar, al momento de traspasar el control aduanero, las mercancías no comprendidas en el concepto de equipaje definido en este libro.
+
+#### Artículo 39
+
+Las disposiciones del presente libro no impedirán a las autoridades correspondientes tomar las medidas necesarias, incluso el pedido de nueva o mayor información, en los casos de sospecha de fraude o contrabando o cuando se trate de problemas especiales que constituyan peligro para el orden, la seguridad, la salud pública o la protección fitosanitaria.
+
+#### Artículo 40
+
+Sin perjuicio de lo establecido en Convenciones Internacionales, las empresas de transportes cuyos vehículos están autorizados para cruzar los límites del territorio aduanero, quedan obligados, para complementar la labor de fiscalización, a proporcionar gratuitamente a la Aduana en las estaciones o terminales fronterizos los locales necesarios, tanto para su revisión como para el depósito provisorio de las mercancías; como asimismo, a transportar gratuitamente a los empleados que en comisión de servicios deban viajar para supervigilar el tráfico sometido a control aduanero.
+
+#### Artículo 41
+
+El Administrador de la Aduana podrá permitir la libre plática del barco, y aun la descarga de las mercancías sin que se presente manifiesto, cuando el conductor compruebe que, por algún accidente en la navegación, lo que calificará la autoridad marítima, se hubieren perdido los documentos necesarios o parte de la carga se hubiese destruido o haya sido echada al mar en tal forma que imposibilite establecer las verdaderas existencias a bordo.
+
+La Aduana, sin perjuicio de aplicar las sanciones establecidas en los artículos 172 y 174 de la presente Ordenanza si para ello viere motivo, deberá en tal caso hacer un inventario de la carga desembarcada, el cual firmado por el conductor y por el empleado competente de la Aduana, servir de manifiesto para los fines de esta Ordenanza.
+
+La carga que no esté consignada a un puerto podrá también ser desembarcada en él, cuando ello fuere conveniente o necesario para la protección o cuidado de la carga misma o de la nave, con las precauciones que el Administrador de la Aduana estime conveniente adoptar o con las que determinen los reglamentos. Si la nave que hubiere desembarcado dicha carga no estuviere en condiciones de embarcarla nuevamente, deberá confiarla a la Aduana del puerto respectivo para ser reembarcada o importada a la República por el puerto referido y en tal caso deberá manifestarse en la forma ordinaria a dicha Aduana, aunque así no figurare en el manifiesto general.
+
+#### Artículo 42
+
+Si una nave se encuentra obligada por causa del mal tiempo o por otras contingencias a recalar en un puerto chileno que no fuere el de destino próximo o inmediato de dicha nave, el conductor que tenga el mando de la nave prestará una declaración formal ante el Jefe de la Aduana situada o constituida en dicho puerto, en la cual expresará las causas o circunstancias de la arribada forzosa. Esta declaración se hará dentro de las veinticuatro horas siguientes a la arribada, a no será que la nave se encuentre en inminente peligro, pues, en tal caso, la declaración será presentada con la oportunidad que las circunstancias permitan.
+
+#### Artículo 43
+
+Las mercancías procedentes del extranjero destinadas al rancho de los vehículos que excedan por su cantidad, a juicio del Director Nacional de Aduanas, a las necesidades de ellos, deberán pagar los derechos aunque no se descarguen, a no ser que se reexporten o Art. se entreguen a la Aduana y se coloquen bajo sello de ésta, mientras permanezcan en el país, si la Dirección Nacional lo considera necesario y sin perjuicio de otras cauciones.
+
+Las mercancías que los vehículos transporten y que hayan sido manifestadas como destinadas a ser vendidas a sus pasajeros, deberán pagar los derechos de importación que la ley señale, a no ser que sean reexportadas y colocadas bajo sello mientras permanezcan dentro de la zona primaria de la Aduana, si el Jefe de ella lo considera necesario.
+
+2.- De la entrega de las mercancías a los recintos de depósito aduanero y de la cancelación del manifiesto
+
+#### Artículo 44
+
+Las mercancías introducidas al territorio nacional deberán ser trasladadas y entregadas en un lugar habilitado, con excepción de las que se encuentren a bordo de naves o aeronaves que hagan escala en el territorio nacional.
+
+Las mercancías sólo podrán ser embarcadas, desembarcadas o transbordadas en las zonas primarias.
+
+#### Artículo 45
+
+Toda mercancía presentada a la Aduana, cause o no derechos, impuestos, tasas y gravámenes, permanecerá bajo su potestad en los recintos habilitados hasta el momento de su retiro.
+
+Cuando, en el curso de un procedimiento penal, se incauten mercancías que en conformidad a esta Ordenanza deben estar bajo la potestad aduanera, el fiscal a cargo del caso ordenará sin más trámite la entrega inmediata al Servicio de Aduanas, con la sola excepción de aquellas que sean necesarias para la investigación y el ulterior juzgamiento, de lo que quedará constancia en el respectivo registro.
+
+#### Artículo 46
+
+Las mercancías introducidas por vía terrestre al territorio nacional serán entregadas a la Aduana correspondiente al punto por el cual hayan entrado o se presentará en ella su manifiesto de carga general, si fueren dirigidas a otra Aduana.
+
+La mercancía extranjera que sea introducida al territorio de la República por vía aérea será entregada directamente a la Aduana del aeropuerto al que dicha mercancía venga manifestada.
+
+#### Artículo 47
+
+Recibida la mercancía, el almacenista procederá a efectuar una relación de los bultos efectivamente recibidos. Esa relación se entregará a la Aduana y servirá para la posterior cancelación del manifiesto.
+
+Una vez confeccionada por la Aduana respectiva o recibida del encargado del recinto de depósito aduanero la relación a que se refiere el inciso precedente, verificará que las mercancías ingresadas a los recintos de depósitos aduaneros correspondan a las manifestadas. En caso contrario procederá aplicar la sanción por la infracción a los reglamentos de acuerdo al artículo 172 de la Ordenanza de Aduanas.
+
+#### Artículo 48
+
+Los manifiestos y guías podrán ser aclarados dentro del plazo que fijen los reglamentos.
+
+Los errores no corregidos dentro del plazo a que se hace mención en el inciso anterior, causarán las sanciones establecidas en el artículo 172 de esta Ordenanza.
+
+3.- Del naufragio y de las especies procedentes de él.
+
+#### Artículo 49
+
+Las mercancías o especies recogidas en las costas de la República o arrojadas a ellas por el mar y las especies naúfragas transportadas por una nave quedarán en todo sujetas a la potestad de la Aduana y deberán ser manifestadas, cuando corresponda.
+
+Las personas que, con arreglo al artículo 635 del Código Civil, salvaren mercancías o especies náufragas, darán cuenta del hecho a la autoridad marítima y entregarán de inmediato dichas mercancías o especies a la Aduana más próxima para su depósito.
+
+Las personas que se apropiaren de las mercancías, además de la acción de perjuicios y de la pena de hurto a que hubiere lugar, quedarán sujetas a las sanciones que procedan de la presente Ordenanza.
+
+#### Artículo 50
+
+Todas las mercancías o especies naufragas salvadas por la autoridad marítima o recibidas por ella u otra autoridad, serán entregadas bajo inventario, que hará las veces de manifiesto, a la Aduana más cercana o que haya intervenido en el salvamento.
+
+#### Artículo 51
+
+Si el dueño de la nave deseare trasladar los restos del naufragio, entendiéndose como tales el casco, el aparejo y todas las existencias de la nave, solamente podrá hacerlo con permiso del Director Nacional de Aduanas y de la autoridad marítima que corresponda, después de efectuado el examen de inspección adecuado.
+
+#### Artículo 52
+
+Las especies naúfragas entregadas a la Aduana serán restituidas por ésta a los interesados, previo pago de los derechos de Aduana y de las expensas y gratificaciones de salvamento a que hubiere lugar.
+
+La gratificación de salvamento se fijará por la autoridad marítima con arreglo a los dispuesto en el artículo 636 del Código Civil.
+
+Si no apareciere el interesado a la expiración de los plazos de depósito, la mercancía se presumirá abandonada y el producto de su remate, hechas las deducciones a que se refiere el artículo 165º de esta Ordenanza, será distribuido por la Aduana respectiva entre las personas que salvaron la especie y el Servicio de Salud correspondiente, sin perjuicio de lo dispuesto en el artículo 1166 del Código de Comercio.
+
+#### Artículo 53
+
+Las disposiciones anteriores serán aplicables a las mercancías salvadas de otros vehículos de transporte internacional.
+
+4.- Del embarque de las mercancías.
+
+#### Artículo 54
+
+Las mercancías que vayan a ser embarcadas, serán presentadas a la Aduana y quedarán bajo su potestad. Se entenderán presentadas por la aceptación por parte de la Aduana del correspondiente documento de salida.
+
+La compañía transportista verificará el efectivo embarque de las mercancías, sin perjuicio de que la Aduana pueda practicar revisiones selectivas, incluso del manifiesto de salida.
+
+#### Artículo 55
+
+Toda mercancía presentada o entregada a la Aduana para su embarque queda sometida a su potestad desde ese momento hasta el zarpe de la nave.
+
+En el caso de embarque por otros vehículos, la potestad de la Aduana respectiva continuará hasta que la mercancía salga del país.
+
+T I T U L O III
+
+Del almacenamiento de las mercancías
+
+#### Artículo 56
+
+Toda mercancía presentada a la Aduana permanecerá en los recintos de depósito aduanero hasta el momento del retiro para su importación, exportación u otra destinación aduanera.
+
+#### Artículo 57
+
+Se entiende por almacén extraportuario el recinto de depósito aduanero destinado a prestar servicios a terceros, donde puede almacenarse cualquiera mercancía hasta el momento de su retiro, para importación, exportación y otra destinación aduanera.
+
+La instalación y explotación de almacenes extraportuarios se entregará mediante habilitación directa a cualquiera persona natural o jurídica que lo solicite y que cumpla los requisitos que exige esta ley.
+
+La explotación de depósitos aduaneros en inmuebles de propiedad fiscal o de propiedad del Servicio Nacional de Aduanas se otorgará por concesión mediante licitación pública debiendo los postulantes cumplir, a lo menos, los mismos requisitos que este artículo exige para la habilitación directa.
+
+El recinto que se habilite deberá reunir las condiciones técnicas de almacenamiento, seguridad y salubridad que establezca el reglamento. Tales recintos deberán ubicarse dentro del territorio jurisdiccional de la Aduana de la cual dependan y respecto de mercancías a importarse, sólo podrán depositarse en ellos aquéllas que ingresen al país por las Aduanas de su jurisdicción.
+
+Para ejercer el giro de almacenista se deberán cumplir los siguientes requisitos:
+
+a) Giro exclusivo: el almacenista deberá acreditar que tiene la actividad de almacenaje como giro exclusivo. Las sociedades constituidas y que se constituyan de acuerdo a la Ley Nº. 18.690, sobre almacenes generales de depósito, se entenderá que cumplen con este requisito.
+
+b) Idoneidad moral: no podrán ejercer como almacenistas las personas naturales que hayan sido condenadas por crimen o simple delito de acción pública, o que hayan sido declaradas en quiebra, a menos que, en este último caso, acrediten haber sido legalmente rehabilitadas. Tratándose de personas jurídicas regirá el mismo requisito para caso de quiebra y, además, deberán acreditar que los impedimentos señalados precedentemente no afecten a sus administradores o directores.
+
+c) Solvencia económica: para ser almacenista se deberá tener un patrimonio igual o superior a seis mil unidades de fomento y rendir una garantía a favor del Servicio Nacional de Aduanas, mediante boleta bancaria de garantía o póliza de seguro por una suma igual o superior a tres mil unidades de fomento.
+
+La habilitación como almacenista se solicitará al Director Nacional de Aduanas, quien deberá pronunciarse dentro del plazo de quince días hábiles contados desde la fecha de presentación de la respectiva solicitud. Si el Director no se pronunciare dentro de dicho plazo, se entenderá aprobada la solicitud.
+
+La resolución del Director que disponga la habilitación se inscribirá en un registro de almacenistas que llevará el Servicio Nacional de Aduanas. Este registro será público y en él se anotarán, además, los recintos en que cada almacenista está ejerciendo su giro, los que serán considerados zona primaria de jurisdicción de la Aduana respectiva, para todos los efectos legales y reglamentarios.
+
+La cancelación de la habilitación para ejercer de almacenista se dispondrá por resolución del Director Nacional de Aduanas y sólo procederá por petición expresa del beneficiario o como sanción aplicada por el Director en ejercicio de su autoridad disciplinaria.
+
+La decisión del Director Nacional que deniegue la habilitación o disponga la cancelación será reclamable ante la Junta General de Aduanas. El plazo para su interposición será de diez días hábiles contado desde la notificación de la resolución respectiva. Admitida a trámite la reclamación, se pedirá de inmediato informe al Director, el que deberá ser evacuado en el plazo de diez días hábiles. Recibido el informe, el recurso se agregará en la tabla para su vista. La Junta General de Aduanas resolverá en única instancia.
+
+Serán aplicables a los almacenes extraportuarios y a los almacenistas las normas contenidas en los artículos 58 al 60 de esta Ordenanza y demás a que se sujetan los concesionarios de recintos de depósito.
+
+#### Artículo 57 bis
+
+Las labores de almacenamiento y acopio que se realicen en los recintos portuarios que administran las empresas creadas por la ley Nº19.542, podrán ser realizadas por éstas o por particulares, de conformidad al artículo 7º de esa ley, previa autorización otorgada por el Director Nacional de Aduanas mediante habilitación directa, siéndoles aplicables las normas contenidas en los incisos sexto al noveno del artículo anterior. Las condiciones técnicas de almacenamiento, seguridad y salubridad serán establecidas en el reglamento que se dicte al efecto.
+
+#### Artículo 58
+
+Los concesionarios de los recintos de depósito aduanero y los almacenistas habilitados responderán ante el Fisco de los gravámenes, impuestos y demás tributos que se perciban por intermedio del Servicio de Aduanas, correspondientes a mercancías perdidas o dañadas en sus recintos, sin perjuicio de las demás sanciones legales o administrativas que sean pertinentes.
+
+Para los efectos del inciso anterior el monto de la pérdida o daño de mercancías depositadas en recintos de depósito aduanero se establecerá de acuerdo al valor CIF de las mismas, expresado en dólares de Estados Unidos de América, de acuerdo a la paridad determinada por el Banco Central de Chile, más los gastos que en relación a la misma mercancía hayan incurrido efectivamente los interesados.
+
+El valor de la suma a pagar se liquidará al tipo de cambio que se encuentre vigente a la fecha del pago, correspondiente al mercado de divisas de la operación de importación, exportación y otra destinación aduanera respectiva.
+
+#### Artículo 59
+
+Los concesionarios de los recintos de depósito aduanero y los almacenistas habilitados no responderán de los derechos, impuestos y gravámenes a que se refiere el artículo anterior, ni de las indemnizaciones por pérdidas o daños que deriven de las siguientes causas:
+
+a) Terremotos y demás que se comprendan en los conceptos de caso fortuito o fuerza mayor, con excepción del incendio;
+
+b) Descomposición o menoscabo de las mercancías provenientes del transcurso natural del tiempo o defectos en los envases o embalajes, que no se hayan hecho constar por el depositante al momento de la recepción de su depósito, y
+
+c) Vicio propio de la cosa.
+
+#### Artículo 60
+
+Los concesionarios de recintos de depósito aduanero y los almacenistas habilitados, sus socios, representantes y empleados, quedarán sujetos a la jurisdicción disciplinaria del Director Nacional de Aduanas, en los términos previstos en el artículo 227 de la presente Ordenanza.
+
+Las personas que se mencionan en el Inciso anterior se considerarán empleados públicos para todos los efectos del Código Penal y de las responsabilidades derivadas de las infracciones contempladas en esta Ordenanza o en otras leyes de orden tributario, cuyo cumplimiento y fiscalización corresponda al Servicio de Aduanas.
+
+#### Artículo 61
+
+Las mercancías depositadas en los recintos de depósito aduanero podrán ser reconocidas por los interesados para su desaduanamiento.
+
+#### Artículo 62
+
+Los interesados podrán recuperar las mercancías extraviadas que aparecieren, siempre que restituyan la indemnización recibida, debidamente reajustada.
+
+#### Artículo 63
+
+Sin perjuicio de lo dispuesto en los artículos anteriores, el Servicio Nacional de Aduanas podrá mantener recintos de depósito aduanero para mercancías decomisadas, incautadas o que hubieren incurrido en presunción de abandono.
+
+No se responderá por las pérdidas o daños de las mercancías presuntivamente abandonadas, cuando dichos daños o pérdidas no sean imputables a los empleados, o cuando, sin que medie negligencia grave de éstos, sean ocasionados por las medidas que deben tomar para su traslado, loteo y demás operaciones necesarias para a debida preparación de la subasta.
+
+T I T U L O IV
+
+Elementos de base para la aplicación de los gravámenes aduaneros
+
+#### Artículo 64
+
+Los gravámenes a que dé origen una obligación tributaria aduanera se aplicarán a las mercancías en base a la clasificación arancelaria y valoración, y determinación de origen, cuando corresponda.
+
+En lo que proceda, las normas anteriores se aplicarán a los servicios.
+
+#### Artículo 65
+
+El Director Nacional de Aduanas podrá establecer nomenclaturas simplificadas para operaciones sin carácter comercial, como en el caso de menajes o equipajes de viajeros.
+
+#### Artículo 66
+
+El origen de las mercancías se podrá determinar para efectos preferenciales arancelarios, no preferenciales, aplicación de cupos y para cualquiera otra medida que la ley establezca. El origen podrá corresponder a uno o más países, o a una zona o territorio geográfico determinado.
+
+El origen a que se refiere el inciso precedente se fijará de acuerdo a las reglas y sujeto a los requisitos y exigencias que se establezcan en el decreto supremo que dicte el Presidente de la República, a través del Ministerio de Hacienda y/o del Ministerio de Relaciones Exteriores o en su caso de acuerdo a lo que sobre dicha materia se fije en los tratados o convenios internacionales suscritos por Chile.
+
+#### Artículo 67
+
+En la importación de mercancías sujetas al cumplimiento de reglas de origen, el importador deberá acreditar el origen de acuerdo a los requisitos y exigencias que establezcan los ordenamientos aplicables, conforme a lo dispuesto en el artículo anterior.
+
+Al Servicio Nacional de Aduanas corresponderá fiscalizar el cumplimiento de las reglas de origen, y en especial que se observen los requisitos y exigencias prescritos.
+
+#### Artículo 68
+
+Para la valoración de importaciones o exportaciones que no tengan carácter comercial, el Director Nacional de Aduanas podrá dictar normas que sean compatibles con los criterios generales de valoración, pero que conformen un sistema simplificado diferente del utilizado en las operaciones con carácter comercial.
+
+#### Artículo 68 bis
+
+Cuando haya sido aceptada a trámite una declaración de destinación y la aduana tenga motivos fundados para dudar de la veracidad y exactitud del valor declarado o de los documentos presentados que le sirven de antecedente, podrá, por una vez, exigir al importador que proporcione otros documentos o pruebas que acrediten que el monto declarado representa efectivamente el valor de transacción de las mercancías.
+
+Para estos efectos, la Aduana le concederá al importador un plazo prudencial para entregar la información requerida. Con la respuesta del importador o a falta de ella, se adoptará una decisión que se le comunicará por escrito en un plazo no mayor de doce días hábiles, señalándose sus fundamentos.
+
+Este procedimiento no impedirá el ejercicio de la potestad aduanera en revisiones, investigaciones o auditorías a posteriori.
+
+#### Artículo 69
+
+El valor aduanero se expresará en dólares de los Estados Unidos de América en los documentos de destinación aduanera.
+
+La equivalencia entre esta moneda y otras monedas extranjeras será la que para tal efecto fije el Banco Central de Chile, vigente al momento de aceptación de la respectiva declaración.
+
+T I T U L O V
+
+Destinaciones Aduaneras
+
+#### Artículo 70
+
+Se entiende por destinación aduanera la manifestación de voluntad del dueño, consignante o consignatario que indica el régimen aduanero que debe darse a las mercancías que ingresan o salen del territorio nacional.
+
+2.- Disposiciones comunes aplicables a todas las destinaciones aduaneras.
+
+#### Artículo 71
+
+La formalización de las destinaciones aduaneras se hará mediante el documento denominado "declaración", el que indicará la clase o modalidad de la destinación de que se trate.
+
+El Director Nacional de Aduanas podrá autorizar que dicha formalización se efectúe por medio de la utilización, por los despachadores, de un sistema de transmisión electrónica de datos, conforme a las normas que establezca el reglamento.
+
+En el tráfico de cabotaje, el Director Nacional de Aduanas podrá determinar la forma de fiscalización de los embarques y desembarques de las mercancías objeto de este tráfico.
+
+#### Artículo 72
+
+Cuando se autorice el uso de sistemas de transmisión electrónica de datos tendrá la calidad de matriz el registro final incorporado al archivo del Servicio Nacional de Aduanas, una vez cumplidas las operaciones de presentación, recepción, verificación, aceptación y legalización de la correspondiente declaración.
+
+Se tendrán por auténticas las copias obtenidas a partir del referido registro final del Servicio Nacional de Aduanas y las copias obtenidas de los registros legalizados por el Servicio Nacional de Aduanas transmitidos a los agentes de aduanas. En el primer caso, tales copias tendrán, además, la calidad de instrumento público.
+
+#### Artículo 73
+
+El Servicio Nacional de Aduanas fiscalizará selectivamente que las declaraciones hayan sido presentadas correctamente tanto en lo relativo a la mera presentación electrónica como en lo referente a su confección, manteniendo la debida correspondencia con los documentos que deben servirles de antecedentes.
+
+Del mismo modo el Servicio Nacional de Aduanas fiscalizará que los registros finales no sean objeto de inutilización, modificación, alteración, daño o destrucción.
+
+#### Artículo 74
+
+Toda destinación Aduanera deberá declararse ante la Aduana bajo cuya potestad se encuentran las mercancías a que se refiere la destinación, salvo los casos en que el Director Nacional de Aduanas autorice su declaración ante otra Aduana.
+
+#### Artículo 75
+
+Toda declaración deberá ser confeccionada de acuerdo a los datos que suministren los documentos que le sirven de antecedentes y al reconocimiento de las mercancías que pueden efectuar los interesados en los recintos de depósito aduanero.
+
+#### Artículo 76
+
+El Director Nacional de Aduanas señalará los documentos, visaciones o exigencias que se requieran para la tramitación de las destinaciones aduaneras de acuerdo a las normas legales y reglamentarias.
+
+Asimismo podrá establecer trámites simplificados y formularios comunes para todas o algunas de las declaraciones de destinación aduanera.
+
+#### Artículo 77
+
+Será responsabilidad de los despachadores de Aduana confeccionar las declaraciones con estricta sujeción a los documentos mencionados en el artículo precedente, debiendo requerir la presentación de éstos a sus mandantes. Por lo tanto, el llenado de las declaraciones deberá corresponder al contenido de los documentos que le sirvan de base. Responderán también del cumplimiento de las exigencias de visación, control y, en general, de la observancia de las normas de comercio exterior que emanen del Servicio de Aduanas o de otros organismos que tengan participación en el control sobre el comercio exterior del país.
+
+Si los documentos no permitieren efectuar una declaración segura y clara, ésta deberá hacerse de acuerdo con el reconocimiento de las mercancías que los despachadores pueden efectuar.
+
+Estos documentos deberán conservarse en poder del despachador por un plazo de cinco años, a disposición del Servicio de Aduanas.
+
+Cuando se trate de operaciones de pago diferido, el plazo se contará desde la amortización o vencimiento de la última cuota.
+
+#### Artículo 78
+
+Las cantidades de mercancías y sus valores serán los que correspondan efectivamente al momento de aceptarse la declaración, por lo que la aplicación de derechos, impuestos, tasas y demás gravámenes que las afecten, no podrá será efectuada por cantidades y valores inferiores a los declarados.
+
+#### Artículo 79
+
+El Servicio Nacional de Aduanas sólo aceptará a trámite las declaraciones que amparen mercancías que le hayan sido presentadas en conformidad al artículo 35.
+
+Sin perjuicio de lo dispuesto en el inciso anterior, los Directores Regionales o Administradores de Aduana podrán aceptar a trámite documentos de destinación que se refieran a mercancías no presentadas al Servicio. Las mercancías deberán ser presentadas ante la Aduana respectiva en un plazo no superior a 60 días, contados desde la fecha de legalización del referido documento, plazo que podrá ser prorrogado por el Director Nacional de Aduanas en casos calificados.
+
+Las destinaciones aduaneras que cancelen declaraciones de régimen suspensivo, aceptadas con anterioridad a su presentación, se confeccionarán por la cantidad de mercancías efectivamente recibidas.
+
+Las mercancías objeto de este trámite anticipado podrán ser reconocidas antes de su retiro de los recintos de depósito aduanero.
+
+#### Artículo 80
+
+La Aduana aceptará a trámite las declaraciones presentadas, previa verificación de que contienen los datos, menciones y formalidades exigidas.
+
+El Servicio Nacional de Aduanas no aceptará a trámite declaraciones aduaneras acogidas a pago diferido de derechos de Aduana o cualquier otro beneficio que implique postergación en el pago de los mismos, cuando las personas hayan utilizado estos beneficios anteriormente y tengan una o más cuotas morosas. Para aceptar a trámite este tipo de declaraciones, se exigirá no tener deudas registradas ante el Servicio de Tesorerías, por concepto de derechos o impuestos cuya aplicación, fiscalización y control correspondan al Servicio Nacional de Aduanas.
+
+El Director Nacional de Aduanas reglamentará la forma en que se deberá dar cumplimiento a lo dispuesto en el inciso anterior.
+
+La verificación consiste en comprobar que una declaración contiene todos los datos mencionados y formalidades exigidas, de modo que sea coherente y constituya una declaración unívoca.
+
+#### Artículo 81
+
+En toda destinación aduanera se aplicarán los derechos, impuestos, tasas y demás gravámenes vigentes al momento de la aceptación a trámite por parte del Servicio de Aduanas de la respectiva declaración.
+
+Asimismo, el despachador quedará sujeto al cumplimiento de las obligaciones que le impongan las leyes u otras disposiciones vigentes a esa fecha.
+
+Las mercancías que se subasten por las Aduanas adeudarán los impuestos, tasas y demás gravámenes vigentes al momento de la adjudicación.
+
+En casos de contrabando o fraude, en que las mercancías no hayan podido incautarse, se aplicarán los derechos, tasas y demás gravámenes vigentes a la fecha en que se perpetró el delito, y si ésta no puede determinarse, se estará a lo que resuelva el tribunal competente.
+
+#### Artículo 82
+
+Una vez aceptada a trámite, la declaración no podrá enmendarse o rectificarse por el declarante. Tampoco podrá ser dejada sin efecto, a menos que legal y reglamentariamente no haya debido ser aceptada o no apareciere la mercancía.
+
+#### Artículo 83
+
+Aceptada a trámite la declaración, las aduanas, para la comprobación de los datos declarados, podrán practicar las operaciones de examen físico, revisión documental o aforo de las mercancías.
+
+El examen físico consiste en el reconocimiento material de las mercancías.
+
+La revisión documental consiste en examinar la conformidad entre la declaración y los documentos que le sirvieron de base.
+
+El acto de aforo constituye una operación única que consiste en practicar en una misma actuación el examen físico y la revisión documental, de tal manera que se compruebe la clasificación de las mercancías, su avaluación, la determinación de su origen cuando proceda, y los demás datos necesarios para fines de tributación y fiscalización aduanera.
+
+Las operaciones de examen físico, revisión documental y aforo deberán ser realizadas por funcionarios aduaneros especialmente facultados para ese objeto por la Ordenanza y podrán realizarse en las zonas primarias de jurisdicción o en los recintos puestos, temporal o permanentemente, bajo su potestad.
+
+Las variaciones que se produzcan en la revisión documental, aforo o en el examen físico de las mercancías no implicará la devolución del documento al interesado, pero, junto con darle curso, el funcionario procederá en conformidad con lo establecido en el artículo 189.
+
+#### Artículo 84
+
+Cuando el interesado lo solicite expresamente o cuando los documentos de destinación presentados no contengan todos los antecedentes necesarios para que el fiscalizador pueda determinar o comprobar el debido acertamiento tributario aduanero se procederá a la operación de "aforo por examen.
+
+El reglamento determinará las tasas que cobrará la Aduana por el servicio de "aforo por examen".
+
+#### Artículo 85
+
+Si en el reconocimiento practicado por la Aduana de los efectos y mercancías de viajeros, se comprobare que no se han declarado las afectas a derechos, se procederá al aforo por examen, sin perjuicio de aplicar las sanciones previstas en el artículo 173º, si no hay mala fe, o si la hay de otras que correspondan, debiendo exigirse en tal caso la suscripción de la respectiva declaración de destinación aduanera.
+
+#### Artículo 86
+
+En los casos de mercancías averiadas, usadas o depreciadas, el Despachador establecerá en la declaración esta circunstancia e indicará el nuevo valor imponible y el porcentaje de descuento en los derechos específicos que, a su juicio, deban aplicarse en proporción al grado de uso, o demérito o naturaleza de la avería.
+
+Estas rebajas deberán ser visadas por el Administrador de la Aduana quien deberá para ello revisar personalmente el aforo, salvo que esté autorizado por el Director Nacional para delegar esta obligación.
+
+#### Artículo 87
+
+Si de la verificación, revisión documental, examen físico o aforo no aparecieren observaciones que formular, se procederá a validar la liquidación de los derechos, impuestos, tasas y demás gravámenes que afecten a las mercancías, debiendo proceder a formular una nueva liquidación en el caso que ésta no se haya practicado en conformidad a las operaciones mencionadas en este mismo artículo o que no se hayan calculado correctamente los derechos, impuestos, tasas y demás gravámenes que corresponda pagar.
+
+#### Artículo 88
+
+Las declaraciones que causen derechos, impuestos, tasas y demás gravámenes incluirán el documento de pago correspondiente, el que deberá ser pagado dentro del plazo de quince días contado desde la fecha de su notificación.
+
+Las declaraciones a que se refiere el inciso anterior y las destinaciones aduaneras que no causen gravámenes quedarán desde este momento en condiciones de ser legalizadas y notificadas.
+
+#### Artículo 89
+
+La importación y la exportación por vía postal de mercancías afectas a derechos, se sujetarán a esta Ordenanza y sus reglamentos en todo lo que no sea contrario a las Convenciones Internacionales de Correos.
+
+El Director Nacional podrá, mediante resolución fundada, autorizar a las empresas que se rijan por dichos Convenios Internacionales, a realizar el pago de los derechos de internación a cuenta de quienes han solicitado el servicio de transporte de encomiendas y demás objetos postales. Para estos fines y de conformidad con la resolución señalada, dichas empresas podrán regirse por un sistema de pago periódico o global, que permita la entrega inmediata a los destinatarios de las mercancías internadas.
+
+Dichas mercancías podrán ser objeto de las operaciones a que se refiere el artículo 83 de esta Ordenanza.
+
+Corresponderá al Servicio de Correos recibir las valijas con encomiendas u otros objetos postales, procedentes de otros países o de regiones del país sometidas a regímenes arancelarios especiales, que contengan mercancías cuya importación esté o no prohibida o afecta o no al pago de derechos e impuestos, y almacenarlos y transportarlos a las oficinas de destino o a otros países, la responsabilidad por ellos y por el pago de los derechos e impuestos a que estén afectos de acuerdo con su aforo. Sin perjuicio de lo anterior, en cualquier momento, mientras dichas mercancías se encuentren almacenadas por el correo, podrán ser revisadas por la Aduana a fin que ésta cumpla las disposiciones relacionadas con su fiscalización.
+
+#### Artículo 90
+
+Las piezas postales que no sean encomiendas y que contengan o puedan contener objetos o mercancías que puedan estar afectos al pago de derechos e impuestos, serán entregadas por el servicio postal a la Aduana para el cumplimiento de las disposiciones de esta Ordenanza.
+
+Corresponderá también al Servicio de Correos recibir de los remitentes previo cumplimiento de disposiciones internacionales las encomiendas u otros objetos postales que contengan mercancías destinadas al extranjero, reunirlos y expedirlos a su destino en conformidad a dichas Convenciones, asumiendo la responsabilidad por el pago de los derechos de exportación con que hubieren sido gravados, sin perjuicio de que en cualquier momento mientras se encuentren en poder del Correo, pueda la Aduana revisarlos para los efectos de la fiscalización.
+
+Las piezas postales que no sean encomiendas y que contengan o puedan contener objetos o mercancías que estén o puedan estar afectos al pago de derechos e impuestos, serán entregados por el servicio postal de la Aduana para los efectos del cumplimiento de las disposiciones de esta Ordenanza y sus reglamentos, debiendo proceder el correo, en todo caso, a entregar a la Aduana los objetos señalados en la etiqueta reglamentaria contemplada en la Convención Postal Universal, pero, tratándose de piezas postales de la categoría de las cartas, la Aduana en ningún caso podrá abrirlas, debiendo ser el destinatario quien lo haga ante los funcionarios aduaneros y postales competentes. En caso de rechazo de estos objetos por el destinatario, serán reintegrados al Correo para su tratamiento conforme a las disposiciones postales correspondientes.
+
+#### Artículo 91
+
+La legalización es el acto por el cual el Administrador o los funcionarios en quienes éste delegue esta facultad, constatan que el respectivo documento ha cumplido todos los trámites legales y reglamentarios otorgándole su aprobación y verificando, además, la conformidad de la garantía rendida en aquellas declaraciones en que sea exigible.
+
+Una vez legalizadas las declaraciones sólo podrán ser modificadas o dejadas sin efecto por el Director Nacional de Aduanas cuando contravengan las leyes o reglamentos que regulan el comercio de importación o exportación; cuando ellas no correspondan a la naturaleza de la operación a que se refieren; cuando se hayan aplicado erróneamente los derechos, impuestos, tasas o demás gravámenes o cuando el fallo de la reclamación interpuesta así lo disponga.
+
+Si como consecuencia de las resoluciones que se expidan en conformidad al inciso anterior resultaren mayores derechos, impuestos, tasas o gravámenes que los cobrados, se formulará un cargo por la diferencia, el cual tendrá mérito ejecutivo y su cobro se sujetará a las normas procesales establecidas por el Código Tributario, aprobado por el decreto ley No. 830, de 1974, y sus modificaciones. El Servicio podrá formular estos cargos dentro del plazo de un año contado desde la fecha de la legalización. Igual plazo tendrá el interesado para solicitar la devolución del exceso de derechos de aduana, si los pagados resultan ser mayores que los que corresponden.
+
+No obstante lo señalado, en el caso que se constatare la existencia de dolo o uso de documentación maliciosamente falsa en las declaraciones presentadas al Servicio, el plazo de un año se ampliará a tres.
+
+Las resoluciones que se dicten y los cargos que se formulen en conformidad a este artículo serán reclamables según lo dispuesto en el artículo 116º. Tratándose de cargos, no será preciso para interponer la reclamación el pago previo de los derechos, impuestos, tasas o gravámenes.
+
+#### Artículo 92
+
+Las declaraciones legalizadas y las denuncias cursadas serán notificadas diariamente mediante su inclusión en un estado que llevará cada aduana.
+
+#### Artículo 93
+
+Las mercancías podrán ser retiradas de los recintos de depósito aduanero previo pago, en la forma y plazos que fijan esta Ordenanza y los reglamentos, de los derechos, impuestos, tasas, tarifas, multas y otras cargas que se adeuden por actos u operaciones aduaneras, sin perjuicio de las disposiciones legales que permitan retirarlas antes del pago. Deberá acreditarse, además, el pago de las tasas de almacenamiento y movilización.
+
+Por medio de un documento denominado "cargo" se formulará el cobro que dispone el inciso anterior cuya liquidación y pago no se haya efectuado o no haya de efectuarse mediante documentos de destinación u otros.
+
+La formulación de estos cargos y de aquellos a que se refieren los artículos 91 y 96 se notificarán mediante el envío de un ejemplar del documento al afectado por carta certificada, debiendo entenderse practicada la notificación al tercer día de expedida dicha carta.
+
+Esta facultad prescribirá en el plazo de tres años contado desde la fecha en que dicho cobro se hizo exigible, de conformidad a lo establecido en el artículo 2.521 del Código Civil.
+
+#### Artículo 94
+
+Las sumas que deben pagarse se determinarán con el tipo de cambio vigente a la fecha del pago que para este efecto, con carácter general, fije el Banco Central de Chile.
+
+#### Artículo 95
+
+Sin perjuicio de lo señalado en el artículo 177 letra a) y en las demás disposiciones de esta ordenanza, la circulación de mercancías dentro del país, o sea, su transporte de uno a otro punto del territorio nacional, sin salir al mar o cruzar las fronteras, no es necesario que vaya o esté acompañada de documentos que prueben que dichas mercancías han satisfecho el cumplimiento de las obligaciones aduaneras, a menos que se trate:
+
+a) De mercancías de origen extranjero, o similares nacionales, que circulen o entren en los perímetros fronterizos de vigilancia especial o salgan de ellos;
+
+b) De mercancías de origen extranjero que deban conservar las fajas o estampillas de impuestos internos que las leyes exigen y cuya colocación es previa a su desaduanamiento, o de aquellas para las cuales el Director Nacional de Aduanas con aprobación del Presidente de la República, exija la colocación por la Aduana de un sello o distintivo especial y gratuito que sirva para comprobar permanentemente su legal importación;
+
+c) De mercancías extranjeras que circulen de un territorio de régimen tributario especial a otros de mayores gravámenes o al resto del país; y
+
+d) De mercancías nacionales, nacionalizadas o extranjeras que salgan o estén fuera del territorio circunscrito por las Aduanas y los perímetros de vigilancia especial, aunque permanezcan en territorio nacional, como es el caso, entre otros, del ganado que se lleve a pastoreo o permanece al oriente de las Aduanas.
+
+#### Artículo 96
+
+Recibido un reparo de la Contraloría General de la República relativo a reintegro de ingresos dejados de percibir y correspondiente a operaciones o actos aduaneros no fallados en conformidad con lo preceptuado en el artículo 116º de esta Ordenanza, el Director Regional o el Administrador de Aduana lo pondrá en conocimiento del deudor o de su representante ante la Aduana, quienes, en su caso, podrán dentro de quince días contados desde la notificación, exponer las consideraciones que correspondan. A contar del vencimiento de este plazo, con o sin las consideraciones de los terceros afectados, el cuentadante deberá , a su vez, contestar el reparo dentro del término de quince días acompañando todos los antecedentes que estime conveniente para su defensa, sin perjuicio de que, reconocida la procedencia del reparo, el Director Regional o el Administrador de Aduana debe formular inmediatamente al deudor un cargo por la diferencia dejada de percibir, cualquiera que sea el tiempo transcurrido desde la fecha en que debió efectuarse el pago.
+
+Contestado el reparo por parte del cuentadante, con arreglo a lo establecido en el inciso anterior, el juicio de cuentas proseguirá su curso en forma inalterable en conformidad a las normas establecidas en el título VII de la ley No. 10.336. Comunicada que fuere una sentencia ejecutoriada de un juicio de cuentas que ordene el reintegro de sumas aún no percibidas, el Director Regional o el Administrador de Aduana formulará el cargo correspondiente, notificando al tercero afectado o a su representante ante la Aduana.
+
+Todos los cargos a que se refieren los incisos precedentes tendrán mérito ejecutivo y su cobro se sujetará a las normas procesales establecidas en el Código Tributario, siendo admisibles únicamente las excepciones de pago de la deuda, la prescripción y de no empecer la deuda al demandado. Lo anterior, sin perjuicio de las medidas administrativas y disciplinarias que corresponda hacer efectivas en contra de quienes resulten responsables.
+
+La acción ejecutiva de cobro que se establece en el inciso anterior, excluirá toda medida de apremio o pena pecuniaria contra los funcionarios fiscales responsables del error.
+
+#### Artículo 97
+
+Los conocimientos de embarque, cartas de porte y guías aéreas serán aceptadas por la Aduana como comprobante de la consignación.
+
+El uso de estos documentos para confeccionar las declaraciones o su consideración para el despacho cuando se tengan a la vista, no afectará la responsabilidad del Fisco ni de ningún funcionario de Aduanas, que hayan procedido con el mérito de aquellos a la entrega de la mercancía.
+
+3.- Obligación tributaria aduanera.
+
+#### Artículo 98
+
+Los derechos, impuestos, multas y otros gravámenes que se adeuden por actos u operaciones aduaneras, deberán ser pagados en la forma y plazos que fija esta ordenanza y los reglamentos.
+
+De acuerdo con lo dispuesto en el Artículo 26 de esta ordenanza, siempre que el pago estuviere total o parcialmente insoluto, las Aduanas podrán retener las mercancías si están en su poder, y en caso contrario, perseguirlas y secuestrarlas, sin perjuicio de que la responsabilidad proveniente de hechos punibles pueda hacerse efectiva, además, sobre el patrimonio de los infractores.
+
+#### Artículo 99
+
+Los documentos de pago morosos serán reliquidados por el Servicio de Tesorerías de acuerdo a las normas que se contemplan en el decreto ley No. 1.032 de 1975.
+
+#### Artículo 100
+
+El pago de los derechos, impuestos, tasas, tarifas, multas y otros gravámenes se hará en dinero efectivo, vale vista, cheque, letra bancaria u otro medio autorizado por la ley, ante el Servicio de Tesorerías o ante cualquier entidad bancaria o institución que señale el Ministerio de Hacienda.
+
+El Servicio de Aduanas, en coordinación con el Servicio de Tesorerías y la Superintendencia de Bancos e Instituciones Financieras, podrá implementar un sistema de pago electrónico de los derechos, impuestos, tasas y demás gravámenes que se perciban por las Aduanas.
+
+El Director Nacional de Aduanas, mediante resolución fundada, podrá establecer limitaciones al uso de los medios de pago que se establecen en el presente artículo.
+
+#### Artículo 101
+
+Las mercancías que hayan sido importadas con exención total o parcial de gravámenes cuya franquicia no tenga un sistema especial de desafectación más favorable, quedarán a libre disposición de sus dueños, sin pago de gravámenes, por el solo ministerio de la ley, una vez transcurridos cinco años desde la fecha de su importación, salvo que se trate de mercancías importadas por las Fuerzas Armadas, Carabineros de Chile y Policía de Investigaciones de Chile, en que este plazo será de tres años.
+
+Sin embargo, aun antes del vencimiento de este plazo el Director Nacional autorizará la libre disposición a los interesados, previo pago de la diferencia de los gravámenes e impuestos que exista entre los efectivamente pagados al momento de su importación y los vigentes a la fecha de aceptación a trámite de la solicitud de libre disposición.
+
+Para los efectos de este pago, se estará al valor aduanero que tenían dichas mercancías a la fecha de su importación bajo franquicia y a los gravámenes vigentes a la fecha de su desafectación.
+
+El sistema de libre disposición previsto en este artículo no regirá para las mercancías importadas a zona franca de extensión o importadas de acuerdo a las disposiciones del decreto ley No. 1.980, de 1977.
+
+4.- Normas especiales sobre algunas destinaciones aduaneras
+
+### 1. Importación
+
+#### Artículo 102
+
+Las mercancías que se importan al país deberán pagar los derechos de importación, quedando liberadas de dicho pago sólo las mercancías expresamente declaradas exentas por la ley.
+
+#### Artículo 103
+
+El pago de los derechos aduaneros, impuestos, tasas y demás gravámenes causados por una importación será previo al retiro de las mercancías, salvo que éstas se encuentren sometidas a una modalidad de pago diversa.
+
+#### Artículo 104
+
+La declaración debidamente tramitada y el comprobante de pago cancelado, en los casos que proceda, habilitar al interesado para retirar las mercancías desde los recintos de depósito.
+
+### 2. Reingreso
+
+#### Artículo 105
+
+El Director Nacional de Aduanas, por resolución fundada, podrá autorizar el reingreso de mercancías, libre de derechos e impuestos, cuando se acredite en forma fehaciente que éstas son nacionales o nacionalizadas, y que por causa justificada no se acogieron al régimen de salida temporal.
+
+3.- Admisión temporal
+
+#### Artículo 106
+
+El Servicio Nacional de Aduanas podrá autorizar la admisión temporal de mercancías extranjeras al país sin que éstas pierdan su calidad de tales. La autorización referida podrá denegarse respecto de las mercancías que no cumplan con las visaciones y autorizaciones que sean exigibles para su importación definitiva.
+
+La admisión temporal de mercancías estará gravada con una tasa cuyo monto será un porcentaje variable sobre el total de los gravámenes aduaneros e impuestos que afectarían su importación, determinados según el plazo que vayan a permanecer en el país. Tales porcentajes son los siguientes:
+
+De A %
+
+1 día 15 días 2,5
+
+16 días 30 días 5,0
+
+31 días 60 días 10
+
+61 días 90 días 15
+
+91 días 120 días 20
+
+121 días en adelante 100
+
+El monto a que ascienda esta tasa deberá pagarse antes del retiro de las mercancías desde los recintos de depósito aduanero y en el caso de las prórrogas, antes del vencimiento del plazo primitivamente autorizado, situación en la cual sólo se enterará en arcas fiscales la diferencia de tasa que se produzca de acuerdo al período total de admisión temporal solicitado, gravamen que en ningún caso podrá abonarse a los derechos que cause la posterior importación de las mercancías.
+
+No estarán afectas al pago de la tasa establecida en el presente artículo las siguientes mercancías:
+
+a) Las destinadas a ser exhibidas en exposiciones que cuenten con el auspicio o patrocinio del Gobierno;
+
+b) El vestuario, decoraciones, máquinas, aparatos, útiles, instrumentos de música, vehículos y animales para espectáculos teatrales, circenses u otros de entretenimientos públicos;
+
+c) Los vehículos y efectos que se empleen en giras temporales por viajeros turistas, calidad que se justificar mediante la exhibición de documentos oficiales que acrediten residencia habitual en el extranjero;
+
+d) Los vehículos y efectos personales que se empleen en viajes temporales por residentes en zonas de tratamiento aduanero especial;
+
+e) El ganado que con fines de apacentamiento se traiga a los campos cordilleranos desde países limítrofes y siempre que permanezcan al oriente de las oficinas aduaneras respectivas. Los animales que entren al país para ser exhibidos en exposiciones autorizadas por el Estado o para hacerlos actuar en determinadas pruebas o exhibiciones. En todos estos casos se considerarán extranjeras las crías habidas en el país, los animales beneficiados y la lana obtenida del ganado;
+
+f) Las estampillas de impuesto y otras especies valoradas en un estado extranjero que se introduzcan al país para su reexportación adheridas a las mercancías nacionales gravadas con ellas en el país que las emite; los boletos de pasajes expedidos por empresas de transporte que efectúen exclusivamente viajes al extranjero, siempre que dichos boletos correspondan a un tipo o modelo empleado en toda línea por dicha empresa;
+
+g) Las mercancías de rancho, tales como toallas, servilletas, delantales, sábanas, etc., que las compañías de transporte desembarquen para el lavado o compostura, siempre que tengan marcas indelebles con el nombre de la compañía;
+
+h) Los vehículos destinados al transporte internacional de personas y mercancías pertenecientes a empresarios reconocidos como tales por las autoridades respectivas;
+
+i) Los receptáculos metálicos denominados "dravos" o "containers" yotros similares destinados a servir de envase general.
+
+Los dravos o containers, durante el período de ingreso temporal y sus prórrogas, podrán utilizarse dentro del territorio nacional en el tráfico de cabotaje o en el transporte terrestre de mercancías;
+
+j) Las películas cinematográficas y videograbaciones con imagen y/o sonido para las estaciones de televisión;
+
+k) Las naves y aeronaves civiles extranjeras, y
+
+l) Otras mercancías que determine el Director Nacional de Aduanas,en casos calificados y mediante resolución fundada.
+
+A la misma autoridad mencionada en la letra l) del inciso anterior le corresponderá fijar el plazo por el cual se autoriza la admisión temporal de las mercancías a que se refiere el presente artículo cuando no estuviere establecido en otras normas legales o reglamentarias y conceder su prórroga.
+
+Este plazo no podrá exceder de un año prorrogable por una sola vez.
+
+No obstante lo dispuesto en el inciso anterior, el Presidente de la República, mediante decreto supremo expedido a través del Ministerio de Hacienda, podrá autorizar mayores plazos de concesión y prórroga del régimen de admisión temporal de las mercancías a que se refiere la letra a) del inciso cuarto precedente.
+
+Los bienes de capital que ingresen al país bajo el régimen de admisión temporal para ser exhibidos en Ferias Internacionales a las cuales se les otorgue tales características por el Supremo Gobierno podrán ser vendidos a terceros, y los contenedores ingresados temporalmente al país podrán ser transferidos a otras empresas que operen con este tipo de mercancías conforme a los procedimientos que al efecto determine la Dirección Nacional de Aduanas.
+
+### 4. Admisión temporal para perfeccionamiento
+
+activo
+
+#### Artículo 107
+
+El Director Nacional de Aduanas, con la aprobación del Ministerio de Hacienda y sólo para actividades de exportación, podrá acordar modalidades especiales para la admisión temporal, en recintos habilitados en las fábricas o industrias, de aquellas materias primas, partes, piezas o elementos que vayan a ser transformados, armados, integrados, elaborados o sometidos a otros procesos de terminación en dichos recintos. Podrá autorizar asimismo que algunos de los procesos industriales enumerados anteriormente, puedan ser ejecutados en recintos distintos al habilitado para estos efectos.
+
+El régimen especial de admisión temporal a que se refiere este artículo sólo podrá autorizarse por actividades fabriles o industriales y no individualmente para determinadas fábricas o industrias.
+
+Sin perjuicio de lo señalado en el inciso primero de este artículo, en el caso de que antes del vencimiento del plazo de la admisión temporal o de sus prórrogas, se acreditare la imposibilidad de efectuar la exportación en razón del incumplimiento del contrato por parte del comprador extranjero o de la resciliación del mismo como consecuencia de variaciones de precios en el mercado de destino, el Servicio de Aduanas autorizar la importación de las materias primas, partes, piezas o elementos sometidos a este régimen suspensivo, previo pago de los derechos, impuestos y gravámenes correspondientes, además de una tasa del 1% sobre el valor aduanero de las mercancías, por cada 30 días o fracción superior a 15, contados desde el otorgamiento de la admisión temporal. Esta tasa no será aplicable en casos de desperdicios sin carácter comercial.
+
+Los productos terminados causarán en su importación los derechos, impuestos y demás gravámenes que afecten a las materias primas, partes, piezas o elementos, incorporados en su producción, sin considerar el mayor valor que adquieran por los procesos enumerados anteriormente.
+
+### 5. Almacén particular
+
+#### Artículo 108
+
+El Director Nacional de Aduanas podrá habilitar hasta por 90 días, de oficio o a petición de los interesados, determinados locales o recintos particulares para el depósito de mercancías, sin previo pago de los derechos e impuestos que causen en su importación.
+
+Podrá prorrogarse este plazo tratándose de mercancías cuya importación se verifique por el Capítulo 0 del Arancel Aduanero, por el artículo 35 de la ley No. 13.039 y sus modificaciones, por el artículo 6º de la ley No. 17.238 y sus modificaciones, o en conformidad al decreto No. 403, de Relaciones Exteriores, de 1968 y sus modificaciones. En estos casos, la prórroga se podrá otorgar por el período necesario para la obtención de la franquicia invocada.
+
+El depósito de las mercancías, a excepción de las señaladas en el inciso anterior, devengará diariamente a partir del trigésimo primer día, un interés igual al equivalente diario de la tasa de interés promedio mensual cobrada por el sistema financiero en operaciones no reajustables de 30 a 89 días informada por el Banco Central de Chile, vigente a la fecha más próxima a la de internación o vencimiento del plazo, según corresponda, aplicada sobre los correspondientes derechos e impuestos.
+
+En el caso de mercancías que por su naturaleza no puedan ser normalmente depositadas en recintos de depósito aduanero según calificación que hará el Director Nacional de Aduanas, dicho interés se devengará a partir del cuadragesimosexto día.
+
+En el caso de las infracciones cometidas en el uso u obtención de los beneficios establecidos en este artículo, tales como el fraude aduanero o la estafa, serán aplicables las sanciones, penas, multas y presunciones establecidas en los artículos 176 y 179 de esta Ordenanza, las que, según sea el caso, podrán ser aumentadas al doble.
+
+#### Artículo 109
+
+Las mercancías depositadas en los locales o recintos habilitados quedarán bajo la autoridad y vigilancia de la Aduana hasta que sean legalmente retiradas
+
+La vigilancia que el Director Nacional de Aduanas estime necesaria ejercer sobre dichos locales o recintos, se hará a expensas de las personas a quienes se permita depositar mercancías en ellos.
+
+#### Artículo 110
+
+Las personas a quienes se permita depositar sus mercancías en los locales o recintos habilitados, responderán ante la Aduana por los derechos y demás cargos correspondientes a las mercancías perdidas o dañadas, conforme lo dispuesto en el artículo 58 de este Libro.
+
+### 6. Exportación
+
+#### Artículo 111
+
+La exportación de mercancías no estará afecta al pago de derechos, a menos que una ley las grave expresamente.
+
+#### Artículo 112
+
+La exportación se entenderá consumada cuando la mercancía amparada por la declaración correspondiente haya sido legal y efectivamente enviada al exterior, con la intención de ser usada o consumida.
+
+### 7. Salida Temporal
+
+#### Artículo 113
+
+Las mercancías nacionales o nacionalizadas podrán salir temporalmente del país, sin perder su calidad de tales y sin pagar a su retorno los derechos e impuestos que cause la importación, bajo las condiciones siguientes:
+
+1. Que sean identificables en especie.
+
+2. Que sean retornadas al país dentro del plazo concedido, y
+
+3. Que su especificación, naturaleza o destino corresponda a alguna de las que a continuación se denominan:
+
+a) Vehículos y animales de carga, tiro o silla, siempre que sean conducidos por personas residentes en el país; como asimismo los animales para exposiciones y los destinados a actuar en determinadas pruebas o exposiciones;
+
+b) Mercancías nacionales que se envíen al extranjero a condición de depósito;
+
+c) Maquinarias, herramientas y sus piezas o partes, enviadas para su compostura o reparación;
+
+d) Muestrarios y exposiciones nacionales;
+
+e) El vestuario, decoraciones, máquinas, aparatos, útiles, instrumentos de música, vehículos y animales para espectáculos teatrales, circenses u otros de entretenimiento público;
+
+f) El ganado que, con fines de apacentamiento se lleve a campos cordilleranos de países limítrofes;
+
+g) Los vehículos destinados al transporte internacional de pasajeros y mercancías, pertenecientes a empresarios reconocidos como tales por las autoridades respectivas;
+
+h) Los cilindros de hierro o acero, vacíos, destinados a servir a su retorno de envases de gases comprimidos, e
+
+i) Otras mercancías que señale el Director Nacional de Aduanas.
+
+La concesión de esta destinación aduanera, cuando se refiera a la lista de mercancías enumeradas anteriormente, como asimismo las prórrogas cuando no excedan de dos años, corresponderá otorgarlas a los Administradores de Aduana. Lo anterior es sin perjuicio de las facultades del Director Nacional de Aduanas en cuanto a la concesión de la franquicia de salida temporal y a las prórrogas denegadas por el Administrador o que excedan al plazo de dos años.
+
+En casos calificados, el Director Nacional de Aduanas, por resolución fundada en la cual fijará las condiciones y medidas especiales de resguardo que estime necesarias, podrá conceder esta destinación a una determinada mercancía, aun cuando no sea susceptible de identificarse en especie.
+
+#### Artículo 114
+
+La salida temporal podrá convertirse en exportación cuando, previo cumplimiento de todos los requisitos legales y de las formalidades correspondientes, lo solicite el interesado y cuando, vencido el plazo otorgado, el Director Regional o el Administrador de la Aduana respectiva exija al interesado la tramitación de la exportación.
+
+Siempre que una salida temporal se convierta en exportación, por el total o por una parte de las mercancías, éstas quedarán sujetas al pago de los derechos e impuestos y cargos que correspondan y que estén vigentes a la fecha de aceptación a trámite de la declaración.
+
+### 8. Salida temporal para perfeccionamiento pasivo
+
+#### Artículo 115
+
+Las mercancías nacionales o nacionalizadas podrán salir al exterior para ser objeto de reparación o procesamiento, siempre que sean de aquellas especies susceptibles de acogerse a salida temporal.
+
+Estas mercancías a su retorno al país deberán pagar los derechos de importación, impuestos y demás gravámenes, respecto de las piezas, partes, repuestos y materiales de cualquier naturaleza, que les hayan sido incorporadas en el extranjero o en un territorio de tratamiento aduanero especial.
+
+Asimismo, establécese un impuesto cuya tasa determinar el Reglamento sobre el valor que representen los trabajos de reparación y procesamiento que se efectúen en el extranjero a las mercancías nacionales o nacionalizadas que salgan temporalmente del país para estos efectos.
+
+T I T U L O VI
+
+De las Reclamaciones
+
+#### Artículo 116
+
+Toda liquidación practicada por el Servicio de Aduanas y las actuaciones de éste que hayan servido de base para la fijación del monto de los derechos, impuestos, tasas o gravámenes, dará derecho a reclamar al interesado.
+
+Asimismo, el interesado podrá reclamar de la clasificación arancelaria y/o valoración aduanera de las declaraciones de exportación.
+
+La reclamación deberá deducirse dentro del plazo de sesenta días hábiles, contado desde la notificación de la declaración, liquidación o actuación
+
+de la Aduana, según corresponda.
+
+#### Artículo 117
+
+Las reclamaciones sobre aplicación de impuestos y tasas cuya fiscalización no corresponda al Servicio de Aduanas, se regirán por las normas inherentes a la naturaleza del tributo o tasa cuya aplicación se pretenda reclamar.
+
+#### Artículo 118
+
+Las reclamaciones deberán interponerse ante el Director Regional o el Administrador de Aduanas respectivo y deberán cumplir los siguientes requisitos:
+
+1. Precisar los fundamentos de la reclamación.
+
+2. Presentarse acompañada de los documentos en que se funde, y
+
+3. Enunciar en forma precisa y clara, las peticiones que se someten a la consideración de la Aduana.
+
+#### Artículo 119
+
+El Director Regional o Administrador de Aduanas declarará inadmisible la reclamación cuando se presente fuera de plazo; no se hayan pagado los derechos, impuestos, tasas y demás gravámenes que afecten a la respectiva declaración o, la persona que la deduzca carezca de facultad para interponerla.
+
+#### Artículo 120
+
+La tramitación de la reclamación deducida se llevará en la forma establecida en los artículos 29 y 34 del Código de Procedimiento Civil. El interesado podrá imponerse de la reclamación en cualquier estado de su tramitación.
+
+#### Artículo 121
+
+Presentada la reclamación se dará traslado al funcionario que realizó el aforo, la liquidación de derechos o ejecutó la actuación que se reclama o el funcionario que para estos efectos se designe, a fin de que emita su informe en un plazo que no podrá exceder de quince días.
+
+#### Artículo 122
+
+Evacuado el informe a que se refiere el artículo anterior o vencido el plazo para hacerlo, el Director Regional o el Administrador de Aduanas, de oficio o a petición de parte, recibirá la causa a prueba por un plazo de cinco días hábiles, señalando los puntos sobre los cuales deba recaer. En todo caso, sólo será admisible la prueba documental y pericial.
+
+#### Artículo 123
+
+Vencido el plazo fijado para rendir la prueba, no se admitirán nuevas diligencias y deberá fallarse la reclamación en el plazo máximo de quince días.
+
+#### Artículo 124
+
+La resolución que falle la reclamación será apelable para ante el Director Nacional de Aduanas, dentro del plazo de cinco días hábiles contados desde su notificación. Si no se apelare, en todo caso proceder el trámite de consulta ante esta misma autoridad.
+
+#### Artículo 125
+
+El fallo que expida el Director Nacional de Aduanas no podrá ser desconocido ni invalidado por autoridad alguna, se aplicará sin ulterior recurso y regirá en todas las aduanas.
+
+#### Artículo 126
+
+Cuando la reclamación verse sobre materias respecto de las cuales el Director ya hubiere sentado jurisprudencia, el Director Regional o Administrador de Aduanas estampará en el escrito de formalización el fallo emitido a este respecto por el Director Nacional. En este último caso, el afectado tendrá derecho a renovar su reclamación dentro del plazo de tres días hábiles, contados desde la notificación respectiva, acompañando nuevos antecedentes y certificado de haber ingresado al Servicio de Tesorerías el total de los derechos objeto de la controversia, más un diez por ciento del exceso sobre los mismos.
+
+Lo dispuesto en el inciso anterior será también aplicable en el caso de las reclamaciones a que se refiere el inciso segundo del artículo 116º, debiendo el afectado acompañar certificado de haber ingresado al Servicio de Tesorerías una suma equivalente a 3 unidades tributarias mensuales, vigente al mes de la renovación de la reclamación.
+
+Aceptado el nuevo recurso, el Director Regional o Administrador de Aduanas fallará en el plazo de 15 días hábiles siguientes a su interposición. Si el Director Nacional confirmare la jurisprudencia contra la cual se alzó el reclamante, el porcentaje del 10% o la suma equivalente a 3 unidades tributarias mensuales, según corresponda, quedará a beneficio fiscal.
+
+En todo caso, si se plantea alguna controversia entre el Contralor General de la República y el Director Nacional de Aduanas, acerca de un fallo emitido de acuerdo con lo dispuesto en el artículo anterior, se elevarán los antecedentes respectivos a la Corte Suprema, la que resolver en definitiva.
+
+#### Artículo 127
+
+Todas las notificaciones se harán por el estado diario, excepto la de la resolución que reciba la causa a prueba y las de las sentencias definitivas, que se notificarán por carta certificada con copia íntegra de la resolución que se trata de notificar, diligencia que se entenderá practicada al tercer día de expedida la referida carta.
+
+#### Artículo 128
+
+La interposición de una reclamación contra un cargo o documento de pago, que haga sus veces, interrumpirá la prescripción del artículo No. 2521, del Código Civil, hasta que la resolución quede ejecutoriada.
+
+#### Artículo 129
+
+Las implicancias y recusaciones se regirán por las normas del artículo 188º de esta Ordenanza.
+
+T I T U L O VII
+
+Devoluciones de Gravámenes Aduaneros
+
+#### Artículo 130
+
+Sin perjuicio de las devoluciones efectuadas en cumplimiento de fallos de las reclamaciones que se interpongan, el Director Nacional de Aduanas podrá ordenar la devolución administrativa de derechos aduaneros en conformidad a las normas de este título.
+
+#### Artículo 131
+
+En los casos en que se deje sin efecto o modifique una declaración legalizada en que se percibieron derechos que corresponda devolver, en la resolución que invalide o modifique la declaración se ordenará la devolución.
+
+#### Artículo 132
+
+El interesado, dentro del plazo de seis meses contado desde la fecha del pago, podrá recurrir ante el Director Regional o el Administrador de Aduanas respectivo, solicitando la devolución de derechos provenientes de error manifiesto, sin que sea necesario acreditar la no difusión de tales tributos, salvo que la venta al público de la mercancía que la cause esté sujeta a fijación de precio. La resolución que disponga la devolución se remitirá a la Contraloría General de la República para su toma de razón.
+
+Se entenderá por error manifiesto:
+
+a) El que pueda evidenciarse con el simple examen de los documentos y antecedentes respectivos, como los errores de cálculo aritmético, la aplicación equivocada de la unidad arancelaria y otros errores cuya comprobación no requiera del examen de las mercancías.
+
+b) El error en el pago de cualquiera de las sumas correspondientes a los documentos de destinación o cargos provenientes de actos u operaciones para cuya comprobación fuere indispensable el examen de la mercancía, siempre que ésta no se haya retirado de la potestad de la Aduana; y
+
+c) El error que incide en la naturaleza de la mercancía aunque ésta no se encuentre en Aduana, siempre que pueda ser evidenciado por el examen y el cotejo de todos los documentos de despacho y demás correspondientes a la expedición, y se compruebe plenamente, además, la identidad de la mercancía con respecto a todos esos documentos y en la parte que esta identidad no aparezca contradicha con la naturaleza de la mercancía que la Aduana haya reconocido expresamente con motivo de una operación de examen físico, revisión documental o aforo.
+
+Toda acción en contra del fisco que pueda afectar el pago de los tributos que corresponde aplicar al Servicio de Aduanas, prescribirá en el plazo de seis meses contados desde la fecha de pago.
+
+#### Artículo 133
+
+El Director Nacional de Aduanas, mediante resolución fundada, podrá disponer la devolución de los derechos, impuestos y demás gravámenes aduaneros pagados o la anulación de la obligación de pago de dichos gravámenes tratándose de importaciones acogidas a pago diferido, respecto de mercancías importadas que presenten defectos, daños estructurales, se encuentren en mal estado o no correspondan a las especificaciones del pedido. El grado o magnitud de estas circunstancias será calificado por el Director Nacional de Aduanas y deberá ser de tal naturaleza que la mercancía, en tales condiciones no sirva a la finalidad que se consideró para importarla.
+
+La devolución o la anulación de la obligación de pago deberá solicitarse dentro del plazo de 60 días, contado desde la fecha de la legalización de la declaración de importación. El plazo a que se refiere este inciso podrá ser prorrogado, por una sola vez, por el Director Nacional de Aduanas, en casos calificados y mediante resolución fundada.
+
+La devolución o la anulación de la obligación de pago se llevará a efecto sólo una vez que las mercancías a que se refiere el inciso primero hayan sido retornadas al exterior.
+
+Para los efectos de su envío al exterior estas mercancías serán consideradas extranjeras.
+
+#### Artículo 134
+
+Los Directores Regionales los Administradores de Aduanas dispondrán, a petición de parte, la devolución de los derechos, impuestos y demás gravámenes aduaneros pagados en la importación de mercancías que sean sometidas en el país a procesos menores, tales como ensamblado, acondicionamiento, embalaje, terminación, planchado o etiquetado, y luego sean enviadas al exterior.
+
+El beneficio precedentemente señalado se deberá solicitar dentro del plazo de sesenta días contado desde la fecha de la legalización de la declaración que ampare la salida de las mercancías del país, prorrogable por el Director Nacional de Aduanas en casos calificados y mediante resolución fundada.
+
+Para los efectos de su envío al exterior estas mercancías serán consideradas extranjeras.
+
+El Director Nacional de Aduanas dictará las instrucciones complementarias que se requieran para la aplicación de este artículo.
+
+Todo aquel que perciba indebidamente la devolución proporcionando antecedentes material o ideológicamente falsos, será sancionado con las penas y multas establecidas en el artículo 7º de la ley No.18.480. Para los efectos de la devolución de lo percibido indebidamente, se aplicará asimismo el procedimiento dispuesto en la citada norma.
+
+#### Artículo 135
+
+En el caso de declaraciones aceptadas a trámite respecto de mercancías no presentadas a la Aduana, si no se recibiere mercancía alguna o si la cantidad recibida fuere inferior a la declarada, el Servicio Nacional de Aduanas podrá ordenar la devolución de las sumas pagadas en exceso por concepto de derechos, impuestos, tasas y demás gravámenes. Igual devolución se podrá ordenar cuando el estado o condición de las mercancías no corresponda a lo declarado.
+
+Estas devoluciones deberán ser solicitadas por los interesados en el plazo de sesenta días, contado desde la fecha del correspondiente manifiesto.
+
+T I T U L O VIII
+
+Subasta de Mercancías Abandonadas, Incautadas o
+
+Decomisadas
+
+#### Artículo 136
+
+Se declara propiedad del Estado, para el solo efecto de su enajenación, toda mercancía que, en conformidad a las disposiciones de la presente Ordenanza o como resultado de actos previstos en ella debe presumirse abandonada, incurra en la pena de comiso o haya permanecido incautada en procesos por fraude o contrabando al menos un año desde la materialización de la incautación.
+
+#### Artículo 137
+
+Las mercancías expresa o presuntamente abandonadas, las decomisadas y las incautadas, cuando corresponda, serán enajenadas en remate público, al mejor postor, en la fecha y lugar que fije el Director Nacional de Aduanas.
+
+Para la inclusión en subasta de estas mercancías no será necesario practicar notificación o aviso de ninguna clase.
+
+El Presidente de la República podrá eximir del remate a las armas o pertrechos de guerra. En este caso la mercancía pasará a ser de propiedad fiscal.
+
+#### Artículo 138
+
+Las retenciones judiciales decretadas sobre las mercancías a que se refiere este Título no producirán efectos sobre éstas, sino sobre las sumas provenientes de su subasta deducidas las enumeradas en el artículo 165º. En consecuencia, dicha subasta no podrá dar origen a reclamaciones contra el Fisco o los adquirentes.
+
+#### Artículo 139
+
+Las mercancías decomisadas y las expresa o presuntivamente abandonadas deberán permanecer, para los efectos de ser subastadas, en los recintos de depósito fiscales o particulares donde se encuentren almacenadas.
+
+#### Artículo 140
+
+Se presumen abandonadas:
+
+1) Aquellas mercancías que no fueren retiradas o no pudieren serlo dentro de los plazos establecidos para su depósito. Esta causal incluye:
+
+a) Las mercancías respecto de las cuales no se ha solicitado su desaduanamiento;
+
+b) Las mercancías respecto de las que se ha solicitado su desaduanamiento, pero no se han cancelado los derechos de Aduana;
+
+c) Las especies náufragas, y
+
+d) Las mercancías cuyos consignatarios se ignoren.
+
+2) Las especies retenidas por el Servicio de Aduanas a su presentación, si no fuere solicitado su desaduanamiento, por sus dueños o representantes, después de transcurridos 90 días contados desde la fecha de retención.
+
+3) Las mercancías que hubieren ingresado bajo régimen de admisión temporal desde el extranjero o desde un territorio de régimen aduanero especial al resto del país cuando, al término del plazo de la admisión respectiva, no hubiesen sido devueltas al exterior o al territorio especial que corresponda.
+
+#### Artículo 141
+
+La subasta de las mercancías a que se refiere el artículo 139º, se realizará por la Aduana bajo cuya jurisdicción se encuentre el respectivo recinto de depósito.
+
+#### Artículo 142
+
+En los recintos de depósito fiscal o administrados por Empresas del Estado, el almacenista mantendrá permanentemente actualizado un inventario de las mercancías en condiciones de ser subastadas.
+
+#### Artículo 143
+
+Las mercancías podrán ser abandonadas expresamente a favor del Fisco por quien tenga facultad para ello, en cualquier tiempo antes de su remate por la Aduana, siempre que no hubiese multas u otras penas que aplicar.
+
+#### Artículo 144
+
+Las mercancías entregadas a la Aduana por los interesados por cese de la condición o término del plazo de la franquicia, como en el caso del régimen de admisión temporal, estarán sujetas a los plazos y tarifas de almacenamiento que les correspondan.
+
+#### Artículo 145
+
+En los recintos de depósito aduanero, el almacenista mantendrá permanentemente actualizado un inventario de las mercancías en condiciones de ser subastadas.
+
+#### Artículo 146
+
+El Ministerio Público remitirá las mercancías que hubieren sido puestas a su disposición en denuncias por delito aduanero al recinto fiscal del depósito aduanero más próximo al lugar en que se encontraren tales mercancías.
+
+Del mismo modo procederá la Autoridad Fiscalizadora con las mercancías que se encontraren abandonadas dentro de la zona primaria de la Aduana.
+
+Exceptúanse de lo dispuesto en el inciso primero aquellas mercancías que sean necesarias para la investigación y el ulterior juzgamiento del delito, de lo que el fiscal dejará constancia en el respectivo registro.
+
+#### Artículo 147
+
+Una vez recibidas las especies a que se refiere el artículo anterior, la Aduana bajo cuya jurisdicción se encuentre el recinto donde fueron depositadas dispondrá que se practique el aforo de ellas.
+
+#### Artículo 148
+
+Al recibir las mercancías procedentes del fiscal, la Aduana respectiva deberá dejar constancia de los siguientes datos en un libro de control:
+
+a) Nombre del fiscal;
+
+b) Número, fecha y procedencia del oficio con que se remiten las mercancías;
+
+c) Individualización del caso a cargo del fiscal;
+
+d) Nombre de los imputados;
+
+e) Nombre de los denunciantes o aprehensores, y
+
+f) Número de bultos, clase de envase y descripción de las especies de acuerdo al aforo.
+
+#### Artículo 149
+
+Una vez inscritas las mercancías en la forma expuesta en el artículo precedente se consignará en los bultos que las contengan el nombre del fiscal, el número de orden del denuncio, oficio o parte y la fecha. Si se tratare de varios bultos, se agregará una numeración correlativa, circunstancia que se hará constar en el libro de control. En este libro se consignará, además, la ubicación dada a los bultos dentro del recinto de depósito.
+
+#### Artículo 150
+
+El oficio con el que se remite la mercancía será devuelto al fiscal con la constancia del aforo y del recibo conforme de la mercancía.
+
+Una copia del citado oficio quedará en el archivo de la Aduana.
+
+#### Artículo 151
+
+En aquellos casos en que conforme a las disposiciones vigentes se decrete el comiso de las mercancías, el tribunal remitirá a la Aduana respectiva una copia de la resolución para que se hagan las anotaciones correspondientes en el libro de control.
+
+#### Artículo 152
+
+El Director Nacional de Aduanas, previo informe del Director Regional o del Administrador de Aduana respectivo, podrá disponer la destrucción de las siguientes especies:
+
+a) Mercancías cuyo depósito constituye grave peligro para sí mismas o para otras mercancías depositadas;
+
+b) Mercancías cuya importación se encuentre prohibida por constituir una amenaza para la salud pública, la moral, las buenas costumbres o el orden establecido;
+
+c) Mercancías cuyo depósito sea manifiestamente perjudicial o no pudieren almacenarse sin gastos desproporcionados o cuando haya fundado temor de que dada su naturaleza, estado o embalaje, se desmejoren, destruyan o perezcan;
+
+d) Mercancías que tengan nombres, signos o condiciones que les hayan dado carácter de exclusividad, a menos que se les quite dicho carácter de exclusividad, aun mediante su destrucción parcial, con el objeto de enajenarlas o incluirlas en la más próxima subasta.
+
+A los Directores Regionales o Administradores de Aduana, tratándose de combustibles o productos alimenticios perecibles que pudieren ser destruidos de acuerdo a la letra a) de este artículo, podrán entregarlos a los Intendentes o Gobernadores para que éstos, con los resguardos sanitarios o de seguridad del caso, procedan a donarlos a un establecimiento público.
+
+Asimismo, el Director Nacional de Aduanas, previo informe favorable del Director Regional de Aduanas respectivo, podrá donar a algún establecimiento educacional del Estado o reconocido por éste, otras mercancías susceptibles de ser destruidas, que puedan servir en sus labores propias de investigación o docencia. Esta donación estará exenta del trámite de insinuación y de toda clase de impuestos y tendrá el carácter de pública.
+
+#### Artículo 153
+
+Los gastos de la destrucción de mercancías se cancelarán con cargo al producido de la subasta. Será obligación de los Administradores de Aduana incluir en las deducciones de los gastos a que se refiere el artículo 165º, las sumas requeridas para estas operaciones.
+
+#### Artículo 154
+
+Las mercancías en presunción de abandono quedarán afectas a un recargo a contar del día hábil siguiente al vencimiento del plazo de depósito o admisión temporal autorizada. Para estos efectos el día sábado será considerado inhábil.
+
+Este recargo será de hasta un 5% del valor aduanero de las mercancías, incrementado hasta un porcentaje igual al interés máximo convencional diario publicado por la Superintendencia de Bancos e Instituciones Financieras, para operaciones no reajustables en moneda nacional de 90 días o más sobre el mismo valor por cada día transcurrido entre el día siguiente a aquel en que se devengó el recargo y el día de pago de los gravámenes y tasas que afecten su importación o del día de aceptación a trámite de la respectiva declaración de destinación aduanera, si ésta no estuviere afecta al pago de dichos gravámenes. En el caso de mercancías acogidas a regímenes suspensivos de derechos que fuesen devueltas a recintos de depósitos fiscales, el cómputo del plazo para este pago se hará hasta la fecha de su recepción.
+
+Las mercancías no se considerarán nacionalizadas mientras no se pague este recargo.
+
+La determinación del monto del recargo en cada caso corresponderá al Director Regional o al Administrador de Aduana respectivo.
+
+El Director Nacional de Aduanas, mediante resolución fundada, podrá rebajar o eximir de dicho pago al interesado.
+
+#### Artículo 155
+
+Los mínimos de la subasta se fijarán por la Dirección Nacional de Aduanas sobre la base de los derechos arancelarios que afectan a la importación de las mercancías, al momento de la fijación de dichos valores.
+
+Si la mercancía fuese nuevamente incluida en subasta por falta de postores, se le fijará el mínimo, sin consideración a los derechos arancelarios que la afectan.
+
+Los interesados en el remate deberán depositar ante la Aduana una garantía no inferior al 20% del valor mínimo de subasta de la mercancía, suma que será exigible en el momento de la adjudicación.
+
+#### Artículo 156
+
+Los remates serán practicados por la Dirección General del Crédito Prendario.
+
+El derecho de martillo será de un 8% del monto de la subasta. De la cantidad que represente dicho derecho, el 25% lo entregará el Servicio Nacional de Aduanas directamente a la Dirección General del Crédito Prendario y el resto lo ingresará a Rentas Generales de la Nación.
+
+#### Artículo 157
+
+Los remates de mercancías deberán ser anunciados, a lo menos, por tres días en los periódicos de mayor circulación del lugar correspondiente, y en las ciudades que, a juicio del Administrador respectivo, tenga importancia hacer publicidad, como asimismo, por medio de carteles en sitios de las Aduanas de acceso al público durante los 7 días hábiles que precedan a aquél en que debe comenzar el remate. El primer aviso deberá ser publicado con 20 días de anticipación a lo menos. Estos anuncios deberán mencionar el lugar, fecha y hora de la subasta.
+
+La postergación del remate deberá ser anunciada, a lo menos, con la publicación de un aviso y la fijación de carteles por tres días, hechos en la misma forma dispuesta en el inciso anterior.
+
+#### Artículo 158
+
+La adjudicación de las mercancías en subasta pública no libera al adquirente de cumplir las normas sobre visaciones y controles que puedan afectarlas en su importación, bajo el régimen general.
+
+#### Artículo 159
+
+Las mercancías cuya importación se encuentre prohibida sólo podrán ser subastadas en aquellas zonas de tratamiento aduanero en que esté permitido su ingreso, debiendo trasladarse a ellas para tal efecto, sin perjuicio de que el Director Nacional de Aduanas, en casos calificados, pueda disponer que no se haga el traslado de las mercancías. Si no existieren dichas zonas, se dispondrá su destrucción.
+
+Las mercancías en condiciones de ser rematadas por orden de Aduanas, ubicadas en zonas de tratamiento aduanero especial, se considerarán nacionalizadas sólo respecto de dichos territorios. Esta limitación no regirá respecto de mercancías provenientes de zonas no preferenciales cuya subasta se realice en dichos territorios especiales.
+
+La introducción al resto del territorio nacional de las mercancías a que se refiere la primera parte del inciso anterior se sujetará en todo a la legislación general vigente en el país, o a la regional, según corresponda. No obstante, al ser importada al resto del país servirán de abono los derechos e impuestos que rijan al momento de su adjudicación para las mercancías de la misma naturaleza arancelaria en la respectiva zona de tratamiento aduanero especial, presumiéndose para estos efectos que han sido efectivamente pagados.
+
+#### Artículo 160
+
+Las mercancías que cumplan su plazo de depósito en almacenes particulares, permanecerán en esos mismos recintos, bajo potestad aduanera, para los efectos de su enajenación, debiendo los concesionarios admitir las visitas de exhibición y la extracción de muestras. Para estos efectos y para el retiro de las mercancías una vez enajenadas de conformidad a este reglamento, podrá procederse con auxilio de la fuerza pública, que será o torgada por la unidad policial más cercana con el solo mérito de requerimiento que al afectado formule el administrador respectivo.
+
+#### Artículo 161
+
+Las características de las mercancías que se consignen en los catálogos serán simples datos ilustrativos que no comprometen la responsabilidad fiscal en cuanto a su efectividad, correspondiendo a los subastadores comprobar estas referencias durante la exposición previa de las mercancías al público.
+
+#### Artículo 162
+
+El Director Nacional de Aduanas dispondrá las medidas necesarias para que las mercancías enajenadas sean identificadas con fines de fiscalización; por lo tanto, podrá disponer la aplicación de fajas, sellos o estampillas u otras formas de control, de acuerdo a la naturaleza de las mercancías, conducentes a este fin.
+
+Los gastos que estas medidas originan serán considerados como causados por la preparación de las subastas.
+
+#### Artículo 163
+
+Al precio o monto de adjudicación deberán agregarse los impuestos a las Ventas y Servicios establecidos en el DL. No. 825, de 1974, y demás impuestos que procedan.
+
+#### Artículo 164
+
+Los adjudicatarios deberán enterar el valor de la adjudicación durante los siete días siguientes al remate.
+
+Si no enterasen tal valor en el plazo citado, quedará a beneficio fiscal la suma que hayan depositado como garantía y perderán todo derecho sobre la mercancía. Esta suma deducidos los gastos del remate, entre los que se incluirán los derechos de martillo, ingresar a Rentas Generales de la Nación.
+
+#### Artículo 165
+
+El producto de los remates una vez deducidos los gastos que causen, entendiéndose por tales los originados por comisión de martillo, avisos, propaganda, impresión de catálogos, gastos de traslado o destrucción de las mercancías, y otros relativos a la preparación y realización de los mismos, será distribuido en la forma que a continuación se indica:
+
+a) Tratándose de mercancías presuntivamente abandonadas, se deducirán los derechos arancelarios que la afectaban. Hecho lo anterior, se descontarán los gastos de almacenamiento del período transcurrido hasta la subasta y las sumas derivadas del recargo del artículo 154º. El remanente quedará a disposición del dueño de la mercancía por el lapso de un año, contado desde la fecha de su enajenación. Transcurrido dicho lapso sin que el dueño retire el saldo, éste se ingresará a Rentas Generales de la Nación.
+
+b) Tratándose de mercancías decomisadas, y expresamente abandonadas, corresponderá un 20% para pago de los gastos portuarios de almacenaje en recintos no aduaneros y el saldo se ingresará a Rentas Generales de la Nación.
+
+c) Tratándose de mercancías incautadas por los Tribunales Aduaneros u Ordinarios en procesos por fraude aduanero o contrabando, el producto de la subasta se depositará en su totalidad, sin deducción de las sumas a que se refiere este artículo, en una cuenta de ahorro que para estos efectos se abrirá en el Banco del Estado de Chile, la que, con sus respectivos reajustes e intereses, ingresará a Rentas Generales de la Nación en caso de decretarse el comiso de ellas, o se devolverá a su propietario cuando se dictare sentencia absolutoria o sobreseimiento definitivo debidamente ejecutoriados.
+
+El Servicio de Aduanas, con cargo a su presupuesto anual podrá anticipar las sumas que se precisaren a fin de solventar los gastos a que se refiere el inciso primero, las que serán reembolsadas con cargo al producido del remate a cuyo objeto tales sumas hubieren sido aplicadas.
+
+#### Artículo 166
+
+Una vez efectuada la subasta, el Director Regional o el Administrador respectivo deberá proceder a liquidar los ingresos producidos y los gastos originados dentro de los veinte días siguientes al término de la subasta. En el mismo plazo deberá efectuar los pagos e ingresos que correspondan.
+
+#### Artículo 167
+
+Para los efectos de ingresar los fondos provenientes de la subasta y de efectuar los pagos a que se refiere el artículo anterior, el administrador de Aduanas respectivo deberá abrir una cuenta corriente en el Banco del Estado, previa autorización de Contraloría General de la República.
+
+# Libro III
+
+De las Infracciones a la Ordenanza, en sus penas y del procedimiento para aplicarlas
+
+T I T U L O I
+
+"De las Infracciones a la Ordenanza"
+
+1.- Disposiciones generales
+
+#### Artículo 168
+
+Las infracciones a las disposiciones de la presente Ordenanza o de otras de orden tributario cuyo cumplimiento y fiscalización corresponde al Servicio de Aduanas, pueden ser de carácter reglamentario o constitutivas de delito.
+
+Incurrirá en el delito de contrabando el que introduzca al territorio nacional, o extraiga de él, mercancías cuya importación o exportación, respectivamente, se encuentren prohibidas.
+
+Comete también el delito de contrabando el que, al introducir al territorio de la República, o al extraer de él, mercancías de lícito comercio, defraude la hacienda pública mediante la evasión del pago de los tributos que pudieran corresponderle o mediante la no presentación de las mismas a la Aduana.
+
+Asimismo, incurre en el delito de contrabando el que introduzca mercancías extranjeras desde un territorio de régimen tributario especial a otro de mayores gravámenes, o al resto del país, en alguna de las formas indicadas en los incisos precedentes.
+
+> **Nota.** El artículo 9º transitorio de la LEY 19738, dispone que los delitos de fraude y contrabando cometidos con anterioridad a la publicación de esta ley, sea que estén siendo o no conocidos por los tribunales competentes, se regirán por el actual artículo 168.
+
+> **Nota.** NOTA: 1 El artículo 24 de la LEY 19738, dispone que las referencias que hacen las leyes a los delitos de fraude y contrabando, descritos en este artículo se entenderán hechas al delito de contrabando en virtud de la modificación dispuesta por el artículo 10 letra f) de la citada norma, incorporada el presente texto actualizado.
+
+#### Artículo 168 bis
+
+La declaración maliciosamente falsa del origen, peso, cantidad o contenido de las mercancías de exportación, será castigada con la pena de presidio menor en su grado mínimo a medio y multa de hasta cinco veces el valor aduanero de las mercancías.
+
+Con la misma pena señalada en el inciso anterior serán castigados quienes falsifiquen material o ideológicamente certificaciones o análisis exigidos para establecer el origen, peso, cantidad o contenido de las mercancías de exportación.
+
+#### Artículo 169
+
+La responsabilidad por los actos u omisiones penados por esta Ordenanza, prescribe en el plazo de tres años, con excepción de la de los funcionarios o empleados de Aduana que prescribirá en cinco años.
+
+#### Artículo 170
+
+Los conductores de cualquier vehículo procedentes del extranjero, responderán personalmente de las multas que se les impongan, aunque la Aduana para hacer efectivo el cobro pueda dirigir su acción contra la empresa de transporte o los consignatarios del vehículo.
+
+La aplicación de las multas a los capitanes de buques se hará por intermedio de la autoridad marítima; y en la misma forma se procederá en todos los casos en que, de acuerdo con esta Ordenanza y los reglamentos, se apliquen multas por hechos, actos y omisiones sometidos a la jurisdicción de la autoridad marítima.
+
+#### Artículo 171
+
+Cuando deba aplicarse multas con relación al valor de la mercancía, a falta de ésta se tomarán como referencia para determinarlo, la factura comercial, el conocimiento de embarque, el manifiesto, carta de porte, guía aérea o cualquier otro documento original que acepte el tribunal para acreditar dicho valor de una manera exacta y fidedigna.
+
+Cuando no pueda acreditarse el valor de una mercancía en forma fehaciente, se tomará el valor que corresponda o pudiera corresponderá a otras análogas. Este valor se calculará, considerando el precio o costos medios, incluyendo el flete, seguro Justicia y otros gastos hasta el puerto de destino, teniendo presente todos los elementos de dicho valor en un mercado normal. Si ni aun así pudiere determinarse el valor, se aplicará una multa de hasta 206 Unidades Tributarias Mensuales, destinándose, el producido de ellas, al fin dispuesto en el inciso final del artículo 173º.
+
+### 2. De las contravenciones aduaneras y sus
+
+sanciones
+
+#### Artículo 172
+
+Las personas que presenten con declaraciones erróneas los manifiestos y demás documentos a que se refiere el párrafo primero del Título II del Libro II, serán castigadas con una multa hasta del valor de los derechos e impuestos de la mercancía entregada en exceso o en defecto.
+
+La fijación de las diferencias a que se refiere el inciso anterior admitirá, para el solo efecto de librar de sanción, una tolerancia en más o menos hasta del cinco por ciento (5%) del peso declarado.
+
+Si la diferencia se refiere a falta de mercancía, la responsabilidad no se hará efectiva cuando se pruebe que la falta se ha producido con anterioridad al momento en que el conductor se dio por recibido de las mercancías.
+
+#### Artículo 173
+
+Las personas que, en los documentos de destinación aduanera a que se refiere el Título V del Libro II, hagan declaraciones que representen menores derechos o impuestos que lo que corresponda aplicar, serán sancionadas con multa hasta el doble de la diferencia resultante entre dichos tributos que causen las mercancías y los que se habrían adeudado según la declaración. Si los tributos que se originen de la declaración errónea son mayores o iguales que los que proceda aplicar, o si la mercancía fuere extranjera libre de derechos o impuestos, la multa será hasta de dos por ciento (2%) del valor de la mercancía, salvo que el Despachador, con frecuencia y sin razones justificadas, o habitualmente, haga alzadas declaraciones de valores o indique partidas arancelarias equivocadas con derechos iguales o mayores, casos en que el máximo de la multa aplicable será equivalente a la tasa establecida para las verificaciones de aforo por examen, en el artículo 84º o en el 85º, según corresponda. Si la mercancía fuere nacional o nacionalizada, la multa será hasta del uno por ciento (1%) de su valor.
+
+Las diferencias que se establezcan en virtud de lo dispuesto en el presente artículo admitirán las tolerancias de peso, capacidad o medida y de valor, que fijen los reglamentos. Estas tolerancias serán para el solo efecto de librar de la sanción, debiendo efectuarse los aforos sin considerarlas. La tolerancia se aplicará sobre lo declarado por cada mercancía, sin admitirse compensación de unas con otras en las diferencias en más y en menos en aquellas de distinta especie, clase, calidad, aforo o valor.
+
+El producido de las multas ingresará a Rentas Generales de la Nación.
+
+#### Artículo 174
+
+Las personas que incurran en error en las declaraciones de cualquier género que los empleados de aduana les exijan con motivo del ejercicio de sus facultades o en el desempeño de sus funciones, ya sea con fines estadísticos o de información, serán sancionadas con multa de hasta 1/2 Unidad Tributaria Mensual. Esta multa prescribirá en el plazo de un año contado desde la fecha de la declaración respectiva.
+
+El producido de estas multas ingresará a Rentas Generales de la Nación.
+
+#### Artículo 175
+
+Las infracciones a la presente Ordenanza no comprendidas en los artículos anteriores de este Libro, siempre que no sean constitutivas de los delitos de fraude o contrabando, serán sancionadas con la multa que en cada caso se indica:
+
+a) La no presentación a la Aduana en la forma, número de ejemplares, en los plazos y con las demás formalidades prescritas, de los manifiestos o declaraciones, y en general de los documentos que reglamentariamente deben presentarse, con una multa de hasta 5 Unidades Tributarias Mensuales;
+
+b) La violación del sello o la apertura, rotura o retiro de marchamos, candados u otros cierros colocados por la Aduana en los vehículos o en los recintos o locales habilitados como almacenes particulares, con una multa de hasta 10 Unidades Tributarias Mensuales;
+
+c) El rechazo de las revisiones a que se refiere el artículo 33, con una multa de hasta 20 Unidades Tributarias Mensuales
+
+d) La colocación de mercancías en sitios sospechosos o separados del resto de la carga, siempre que no estén claramente manifestadas o declaradas, con multa de hasta el 50% del valor aduanero de las mercancías;
+
+e) La carga, descarga o recalada de una nave o aeronave sin estar autorizada, en puertos menores u otros sitios no habilitados, salvo que lo hagan de arribada forzosa legítima calificada de tal por la autoridad marítima o aérea respectiva, con una multa de hasta 20 Unidades Tributarias Mensuales;
+
+f) El desembarque de pasajeros antes que reciba de la Aduana el permiso respectivo, con una multa de hasta 10 Unidades Tributarias Mensuales;
+
+g) El amarrar o atracar embarcaciones a una nave, sin la debida autorización, antes que se dé a la nave el permiso de desembarque de carga o pasajeros, con una multa de hasta 5 Unidades Tributarias Mensuales;
+
+h) El penetrar a recintos de Aduana donde sea necesario permiso, sin la debida autorización, con una multa de hasta 5 Unidades Tributarias Mensuales;
+
+i) El acarreo o transporte de mercancías dentro de la zona primara de jurisdicción de las Aduanas, en embarcaciones o vehículos que no estén registrados en ellas, o cuyos dueños o agentes que no tengan su permiso para hacerlo, con una multa de hasta 10 Unidades Tributarias Mensuales;
+
+j) El hecho de no permitir el cotejo, revisión o inspección de las mercancías en el acto de su presentación a la Aduana, con una multa de hasta 10 Unidades Tributarias Mensuales;
+
+k) El transportar pasajeros que desembarquen antes que se dé el respectivo permiso para desembarcarlos, con una multa de hasta 10 Unidades Tributarias Mensuales;
+
+l) La no entrega a la Aduana o a los recintos de depósito aduanero, en la forma y dentro de los plazos prescritos, de las mercancías desembarcadas o descargadas de los vehículos, con una multa de hasta el 10% del valor aduanero de las mercancías;
+
+m) La no presentación a la Aduana, al momento de pasar el control aduanero de doble circuito (luz roja-luz verde), de mercancías afectas a derechos que porten los viajeros, con una multa de hasta el 80% del valor aduanero de las mercancías.
+
+Para fijar la multa se deberá atender al monto de los derechos e impuestos involucrados, al número de mercancías no declaradas, al valor de éstas, y además, si se trata de infractores reincidentes;
+
+n) El no cumplimiento, dentro de los plazos, de las reexpediciones, tránsito, trasbordo y redestinaciones, con una multa de hasta el valor aduanero de las mercancías;
+
+ñ) Las infracciones de cualquiera disposición de la presente Ordenanza, reglamento o instrucciones dictadas por la Dirección Nacional de Aduanas, que tengan por objeto una medida de orden, fiscalización o policía de Aduana, con una multa de hasta 5 Unidades Tributarias Mensuales. Las normas a que alude la presente disposición deberán publicarse en el Diario Oficial.
+
+El producto de las multas impuestas en conformidad a este artículo, ingresará a Rentas Generales de la Nación.
+
+#### Artículo 175 bis
+
+La Aduana podrá eximir del pago de la multa, considerando las circunstancias que concurran en cada caso, a quien incurriere en una contravención aduanera, pero pusiere este hecho en su conocimiento antes de cualquier fiscalización o requerimiento por parte de ella y pagare los derechos aduaneros correspondientes.
+
+3.- Del Contrabando y del Fraude
+
+#### Artículo 176
+
+Las personas que resulten responsables de los delitos de contrabando o fraude serán castigadas:
+
+1) Con multa de una a cinco veces el valor de la mercancía objeto del delito o con presidio menor en sus grados mínimo a medio o con ambas penas a la vez, si ese valor excede de 25 Unidades Tributarias Mensuales.
+
+2) Con multa de una a cinco veces el valor de la mercancía objeto del delito si ese valor no excede de 25 Unidades Tributarias Mensuales.
+
+En ambos casos se condenará al comiso de la mercancía, sin perjuicio de su inmediata incautación. No podrá aplicarse pena exclusivamente pecuniaria al reincidente de estos delitos en el caso del No. 1 de este artículo. Para estos efectos se considerará también reincidente al que haya sido condenado anteriormente por contrabando o fraude de mercancías cuyo valor no exceda de 25 Unidades Tributarias Mensuales. El mínimo de la pena de multa en el caso del No. 2 de este artículo será de dos veces el valor de la mercancía para el que hubiese reincidido una vez; de tres para el que hubiere reincidido dos y así sucesivamente, hasta llegar a cinco veces el valor de la mercancía como monto de la multa para el que hubiere reincidido cuatro veces o más.
+
+Lo anterior es sin perjuicio de la responsabilidad que pueda caber a los funcionarios aduaneros, de acuerdo con lo dispuesto en el artículo 239 del Código Penal y de la que corresponda a otros que hayan tenido participación con ellos.
+
+Los delitos de contrabando y fraude a que se refiere este Título se castigarán como consumados desde que se encuentren en grado de tentativa, y en la imposición de penas pecuniarias los cómplices o encubridores sufrirán la mitad de las multas aplicadas a los autores.
+
+Si el condenado a pena de multa no la pagare, sufrirá por vía de sustitución y de apremio, la pena de reclusión, regulándose un día por cada 0,10 Unidades Tributarias Mensuales, sin que ella pueda nunca exceder de un año.
+
+Las multas impuestas por delito de contrabando o fraude ingresarán a Rentas Generales de la Nación.
+
+En estos delitos, deberán considerarse las siguientes circunstancias atenuantes calificadas, siempre que ocurran antes del acto de fiscalización:
+
+a) La entrega voluntaria a la Aduana de las mercancías ilegalmente internadas al país.
+
+b) El pago voluntario de los derechos e impuestos de las mercancías cuestionadas.
+
+Concurriendo alguna de estas atenuantes, no se aplicará la pena de presidio en el caso contemplado en el Nº 1) del artículo 176 y no se aplicará una multa superior a una vez el valor de la mercancía en el caso previsto en el Nº 2) del artículo 176.
+
+El pago posterior a la fiscalización configurará la atenuante general del artículo 11 número 7 del Código Penal.
+
+#### Artículo 177
+
+Se presumen responsables del delito de contrabando las personas que ejecuten los siguientes hechos o que tengan intervención en ellos:
+
+a) Trasladar mercancías extranjeras de un vehículo procedente del extranjero, sin haber dado cumplimiento a los preceptos legales. Comprobada la traslación indebida, las mercancías serán decomisadas;
+
+b) Desembarcar o descargar en tierra o tratar de llevar o de depositar en tierra mercancías extranjeras provenientes de un vehículo que se halla dentro del territorio o de las aguas territoriales, y antes de que el vehículo llegue al puerto de destino de su carga, salvo los casos de fuerza mayor que hayan sido puestos en conocimientos de la Aduana, en la forma requerida por esta Ordenanza;
+
+c) Traer a bordo de un vehículo mercancías que no hayan sido manifestadas o declaradas o tenerlas sin haber pedido la autorización para embarcarlas;
+
+d) Tener dentro de la zona primaria de jurisdicción de las Aduanas mercancías extranjeras respecto de las cuales no se pruebe que han cumplido las obligaciones aduaneras, y
+
+e) Tener una persona en su poder mercancías nuevas extranjeras, destinadas a la venta o que por exceder de sus necesidades normales y las de su familia pueda estimarse fundadamente que se tienen para su comercio, a menos que acredite su legal internación o su adquisición en el país a una persona determinada. Esta presunción se extiende también a las personas que antes guardaron o tuvieron en su poder tales mercancías.
+
+#### Artículo 178
+
+Se presumirá responsables del delito de contrabando a las personas que por sí mismas o mediante otras y fuera de las zonas primarias de jurisdicción de las Aduanas, introduzcan o saquen mercancías del país, o que, dentro de dichas zonas, traten de introducirlas o hacerlas salir o de movilizarlas o transportarlas, si la movilización no está encaminada a la presentación inmediata de ellas a la Aduana, en conformidad con las disposiciones de esta Ordenanza y sus reglamentos, y en todo caso si ejercen actos de violencia para ello.
+
+#### Artículo 179
+
+Se presumen responsables del delito de fraude las personas que cometan o intervengan en los siguientes actos:
+
+a) Importar o exportar, o tratar de importar o exportar mercancías después que el dueño, consignatario o Agente haya extendido presentaciones o declaraciones falsas referentes a dichas mercancías o relacionadas con su importación o exportación;
+
+b) Intentar la importación o exportación, o importar o exportar mercancías después de haber redactado o entregado facturas, cartas u otros documentos falsos concernientes a dichas mercancías y que sirvan para conseguir la entrega de ellas o para obtener con ellos otras especies por medio de manejos, procedimientos, omisiones y actos que despojan al Fisco de sus derechos sobre las mercancías;
+
+c) Transportar mercancías o guardarlas en envases o dentro de objetos que las oculten para no declararlas a la Aduana o que engañen o induzcan a error cuando se las exhiban;
+
+d) Obtener engañosamente la liberación o la reducción de derechos para mercancías que no cumplen con las condiciones prescritas en la ley para concederlas;
+
+e) Emplear con distinto fin del declarado, y sin autorización o sin pagar los derechos correspondientes, mercancías afectas a derechos menores con la condición de un uso determinado de ellas;
+
+f) Vender, disponer o ceder a cualquier título y consumir o utilizar en forma industrial o comercial mercancías sujetas al régimen suspensivo de derechos de admisión temporal o almacenaje particular sin haber cubierto previamente los respectivos derechos, impuestos y otros gravámenes que las afecten o sin haber retornado a la potestad aduanera y cumplido las obligaciones existentes a su respecto, una vez expirado el plazo de la franquicia, y
+
+g) Exportar, enajenar, arrendar o destinar a una finalidad no productiva los bienes respecto de los cuales se hubiere obtenido el beneficio de pago diferido de tributos aduaneros, sin que se hubiere pagado el total de la deuda, o sin haber obtenido autorización del Servicio de Aduanas en el caso de la enajenación o del arrendamiento.
+
+#### Artículo 180
+
+Las penas establecidas por los delitos de contrabando o fraude se aplicarán también a las personas que adquieran, reciban o escondan mercancías, sabiendo o debiendo presumir que han sido o son objeto de los delitos a que se refiere este título.
+
+Se presumirá dicho conocimiento de parte de las personas mencionadas por el solo hecho de encontrarse en su poder las mercancías objeto del fraude o contrabando.
+
+Las penas a que se refiere el inciso primero también se aplicarán al dueño o representante legal de la empresa propietaria de las naves, aeronaves o vehículos en los cuales se hubiere introducido ilegalmente mercancías al país o de una zona de tratamiento aduanero especial al resto del territorio nacional.
+
+Se presumirá que dichas personas han actuado con conocimiento de la introducción ilegal de mercancías, cuando el vehículo hubiere sido condicionado para tal efecto o contare con compartimientos ocultos que se hubieren utilizado para esconder la mercancía.
+
+4.- Del comiso administrativo de la mercancía
+
+#### Artículo 181
+
+Cuando, en las zonas primarias de jurisdicción o en los perímetros fronterizos de vigilancia especial, se encuentren mercancías abandonadas o rezagadas, el Administrador de la Aduana que corresponda procederá respecto de ellas conforme a lo establecido en el Título VIII del Libro II de esta Ordenanza, sin perjuicio de efectuar la denuncia al Ministerio Público, cuando procediere.
+
+#### Artículo 182
+
+DEROGADO
+
+#### Artículo 183
+
+DEROGADO
+
+#### Artículo 184
+
+DEROGADO
+
+#### Artículo 185
+
+DEROGADO
+
+#### Artículo 186
+
+DEROGADO
+
+T I T U L O II
+
+"De la fiscalización y del procedimiento"
+
+1.- Disposiciones Generales
+
+#### Artículo 187
+
+Las sanciones por infracciones a esta Ordenanza u otras normas de orden tributario cuya fiscalización corresponda al Servicio de Aduanas se aplicarán mediante un procedimiento administrativo, en conformidad a lo preceptuado en los artículos siguientes.
+
+#### Artículo 188
+
+Los funcionarios de Aduana que, en el ejercicio de su labor fiscalizadora, detectaren una contravención, la harán constar por escrito, señalando de manera precisa los hechos que la constituyen, la individualización de la persona a quien se le impute, la norma infringida, la sanción asignada por la ley y los demás datos necesarios para la aplicación de la multa a que diere lugar. En esta actuación los funcionarios tendrán la calidad de ministros de fe.
+
+El infractor será citado a una audiencia para día y hora determinados, dentro de los diez días siguientes a su notificación, la que podrá hacerse personalmente, por carta certificada o de conformidad con lo establecido en el artículo 92 de esta Ordenanza. La notificación por carta certificada se entenderá practicada al quinto día hábil siguiente de aquél en que sea expedida.
+
+Si la persona citada concurriere a la audiencia representada, el mandato deberá constar por escrito, salvo que se tratare de auxiliares debidamente reconocidos de despachadores, los cuales se entenderán autorizados para comparecer en representación de éstos, conforme al inciso segundo del artículo 229.
+
+La audiencia se llevará a cabo ante un funcionario especialmente designado para estos efectos, mediante resolución de carácter general, por el Director o Administrador de la Aduana respectiva. El citado podrá efectuar sus alegaciones verbalmente o por escrito. Si acepta la existencia de la infracción, se aplicará una multa no superior al diez por ciento de la máxima legal y se emitirá el giro comprobante de pago o el documento que haga sus veces.
+
+De lo obrado se levantará acta en la que se hará constar el allanamiento, la multa aplicada y la declaración de que el infractor renuncia a todo recurso o reclamo posterior. El acta será firmada por el funcionario y el afectado, a quien se entregará copia de la misma.
+
+#### Artículo 189
+
+Si el citado no concurriere a la referida audiencia o en ella rechazare la existencia de la infracción o su responsabilidad en la misma, se resolverá discrecionalmente si se aplicará la multa, con el mérito de los antecedentes que existan. En caso de aplicarse la multa, no podrá imponerse un monto inferior al diez por ciento de la máxima legal.
+
+En el acta se dejará constancia de la falta de comparecencia o, en su caso, del rechazo formulado por la persona citada, de lo resuelto, de los hechos fundantes de tal decisión, y de la circunstancia de haberse informado al infractor que haya concurrido sobre su derecho a reclamar de la multa de conformidad a los incisos siguientes.
+
+El afectado por la multa que se hubiere aplicado podrá reclamar, fundadamente, dentro de los diez días hábiles siguientes a la fecha de realización de la audiencia respectiva, ante la Junta General de Aduanas.
+
+Transcurrido el plazo a que se refiere el inciso anterior sin que se reclame, se procederá a emitir el giro comprobante de pago correspondiente.
+
+Si se presentare reclamación, la Junta solicitará que informe al tenor de ella al funcionario ante el cual se celebró la audiencia. Evacuado el informe, se procederá a la vista de la causa y la resolución que se dicte no será susceptible de recurso alguno.
+
+#### Artículo 190
+
+DEROGADO
+
+#### Artículo 191
+
+DEROGADO
+
+#### Artículo 192
+
+DEROGADO
+
+T I T U L O II
+
+"De la fiscalización y del procedimiento"
+
+2.- De los Tribunales Aduaneros y de su
+
+competencia civil
+
+#### Artículo 193
+
+DEROGADO
+
+#### Artículo 194
+
+DEROGADO
+
+#### Artículo 195
+
+DEROGADO
+
+#### Artículo 196
+
+DEROGADO
+
+#### Artículo 197
+
+DEROGADO
+
+#### Artículo 198
+
+DEROGADO
+
+#### Artículo 199
+
+DEROGADO
+
+#### Artículo 200
+
+DEROGADO
+
+#### Artículo 201
+
+DEROGADO
+
+#### Artículo 202
+
+DEROGADO
+
+#### Artículo 203
+
+DEROGADO
+
+#### Artículo 204
+
+DEROGADO
+
+#### Artículo 205
+
+DEROGADO
+
+#### Artículo 206
+
+DEROGADO
+
+#### Artículo 207
+
+DEROGADO
+
+#### Artículo 208
+
+DEROGADO
+
+#### Artículo 209
+
+DEROGADO
+
+#### Artículo 210
+
+Cuando el monto máximo de la liquidación de las multas por contravenciones aduaneras no exceda de seis unidades tributarias mensuales, el Administrador de la Aduana respectiva podrá aplicarlas directamente, en el mismo documento que la origine o en la denuncia, con el solo mérito de los antecedentes que existan; pero el afectado tendrá derecho a reclamo, caso en el cual se substanciará el proceso correspondiente en conformidad a las reglas establecidas en el Título II del Libro III de esta Ordenanza.
+
+3.- Del Contrabando y Fraude
+
+#### Artículo 211
+
+Los delitos aduaneros serán investigados y juzgados conforme a las reglas establecidas en el Código Procesal Penal. Respecto de ellos el Servicio Nacional de Aduanas ejercerá los derechos que confiere a la víctima el mismo Código, una vez presentada denuncia o formulada querella de conformidad al inciso primero del artículo 212.
+
+En todo caso, los acuerdos reparatorios que celebre el Servicio, conforme al artículo 241 del Código Procesal Penal, no podrán contemplar el pago de una cantidad de dinero inferior al mínimo de la multa, sin perjuicio del pago del impuesto adeudado y los reajustes e intereses penales que procedan de acuerdo al artículo 53 del Código Tributario.
+
+#### Artículo 212
+
+Las investigaciones de hechos constitutivos del delito de contrabando sólo podrán ser iniciadas por denuncia o querella del Servicio, por intermedio de su Director Nacional, de los Directores Regionales o de los Administradores de Aduanas.
+
+Con todo, la querella podrá también ser interpuesta por el Consejo de Defensa del Estado, a requerimiento del Director Nacional.
+
+La representación y defensa del Fisco en las investigaciones penales relativas a ese delito y en los procesos que se incoen corresponderán sólo al Director Nacional, por sí o por medio de mandatario, cuando la denuncia o querella fuere presentada por el Servicio, o sólo al Consejo de Defensa del Estado, en su caso.
+
+El Servicio Nacional de Aduanas podrá no formular denuncia ni interponer querella respecto de quien haya tenido participación en un contrabando, pero ofreciere pagar una suma no superior a una vez el valor aduanero de las mercancías involucradas. Si aceptare esa oferta alguna de las autoridades a que se refiere el inciso primero, el interesado deberá enterar la suma correspondiente en arcas fiscales y, con el comprobante de ese depósito, se convendrá la renuncia al ejercicio de la acción penal, que tendrá como efecto la extinción de la misma.
+
+La facultad de Aduanas de celebrar los convenios a que se refiere el inciso anterior se extinguirá una vez que el Ministerio Público formalice la investigación de conformidad al Párrafo 5º, del Título I, del Libro Segundo del Código Procesal Penal. Todo lo cual se entiende sin perjuicio de la procedencia de los acuerdos reparatorios a que se refiere el artículo 241 del mismo Código.
+
+#### Artículo 213
+
+El producto de las multas que se apliquen por concepto de delitos aduaneros ingresará a rentas generales de la Nación.
+
+#### Artículo 214
+
+DEROGADO
+
+#### Artículo 215
+
+DEROGADO
+
+# Libro IV
+
+De los Despachadores de Aduana
+
+#### Artículo 216
+
+El despacho de las mercancías, esto es, las gestiones, trámites y demás operaciones que se efectúan ante la Aduana en relación con las destinaciones aduaneras, salvo las excepciones y limitaciones legales, sólo podrán efectuarse por las siguientes personas:
+
+1. Por los dueños, portadores, remitentes o destinatarios, según corresponda, cuando en la Aduana respectiva haya menos de dos Agentes de Aduanas en ejercicio, o se trate de:
+
+a) Equipajes y mercancías de viajeros, tripulantes o arrieros;
+
+b) Encomiendas internacionales u otras piezas postales, o
+
+c) Mercancías de despacho especial o sin carácter comercial, de acuerdo con las normas y modalidades que dicte el Director Nacional de Aduanas.
+
+2. Por el Fisco y demás órganos de la Administración del Estado a quienes se conceda licencia de consignante y consignatario.
+
+3. Por los Agentes de Aduana, quienes pueden intervenir sólo por cuenta ajena en toda clase de despachos, incluso los mencionados en los números precedentes.
+
+No se requerirá intervención de despachador en las gestiones, trámites y demás operaciones que se efectúen con ocasión del ingreso o salida de mercancías desde o hacia las zonas o depósitos francos, incluyendo su importación a las zonas francas de extensión.
+
+Se entiende por Despachadores de Aduana a los Agentes de Aduana y a los consignantes y consignatarios con licencia para despachar.
+
+Las declaraciones que suscriban deberán ser presentadas al Servicio de Aduanas en un formulario proporcionado por ellos de acuerdo al formato, contenido, número de ejemplares y distribución que fije la Dirección Nacional de Aduanas para cada una de las diversas destinaciones.
+
+#### Artículo 217
+
+El Fisco, por el solo ministerio de la ley, tendrá la licencia de consignante y consignatario. Por consiguiente, podrá siempre efectuar por intermedio de apoderados especiales el despacho de las mercancías que por cuenta propia remita o reciba consignadas a su nombre. A los demás órganos de la administración del Estado se les concederá la licencia referida cuando el Director Nacional así lo disponga. No obstante, el apoderado especial del Fisco podrá también representar a estos últimos si así lo prefieren.
+
+Para los efectos de este artículo y en general de esta Ordenanza y sus reglamentos, se entiende también por consignatario la persona a cuyo nombre viene consignada una nave, aeronave u otro vehículo de transporte internacional.
+
+#### Artículo 218
+
+El Fisco y los órganos de la Administración del Estado a quienes se conceda licencia de consignante y consignatario, actuarán en los despachos por intermedio de un apoderado especial.
+
+Para ser designado apoderado especial se requerirá:
+
+a) Ser persona natural, chileno, legalmente capaz y honorable, y
+
+b) Haber aprobado estudios vinculados al comercio exterior en establecimientos educacionales reconocidos por el Estado. Los cursos deberán tener una duración mínima de cinco semestres, sin que sea necesario que todas las asignaturas fijadas en los respectivos programas estén relacionadas con el comercio exterior.
+
+El apoderado especial será nombrado por el Director Nacional de Aduanas a propuesta del titular de la licencia, una vez aprobado en examen de conocimientos.
+
+#### Artículo 219
+
+Todos los consignantes y consignatarios responderán por el monto total de sus obligaciones aduaneras.
+
+Los que tengan licencia para despachar responderán, además, en el orden civil y administrativo por los actos y omisiones propios o de los del apoderado especial y demás auxiliares que tengan registrados o hayan debido registrar ante la Aduana, en los términos del artículo 225º de esta Ordenanza.
+
+Sin embargo, el titular de la licencia tendrá derecho a repetir en contra del apoderado especial y demás auxiliares, en aquellos casos en que se haga efectiva su responsabilidad por actos u omisiones indebidos realizados por ellos, todo lo cual se entiende sin perjuicio de la responsabilidad disciplinaria que la autoridad aduanera pueda hacer efectiva directamente respecto a dicho apoderado especial y demás auxiliares.
+
+#### Artículo 220
+
+El Agente de Aduanas es un profesional auxiliar de la función pública aduanera, cuya licencia lo habilita ante la Aduana para prestar Servicios a terceros como gestor en el despacho de mercancías.
+
+Estos despachadores tendrán el carácter de ministros de fe en cuanto a que la aduana podrá tener por cierto que los datos que registren en las declaraciones que formulen en los documentos de despacho pertinentes, incluso si se trata de una liquidación de gravámenes aduaneros, guardan conformidad con los antecedentes que legalmente les deben servir de base. Todo ello, sin perjuicio de la verificación que pueden practicar los funcionarios de aduana, en cualquier momento, para cerciorarse de la corrección del atestado del despachador.
+
+Si los documentos de despacho no permitieren efectuar una declaración segura y clara, el despachador deberá subsanarlo y registrar el dato correcto mediante el reconocimiento físico de las mercancías o, si, es procedente por declaración jurada de su comitente en cuyo caso el testimonio expreso del Despachador en tal sentido podrá tener el mismo valor probatorio que se ha indicado en el inciso anterior.
+
+La posición arancelaria que se indique en las citadas declaraciones no formará parte del testimonio de fe, pero la Aduana podrá suponer correcta su formulación sin necesidad de reconocimiento de las mercancías por sus funcionarios.
+
+Se tendrán por auténticas, es decir, conforme con el valor de los documentos que se reproducen, las copias que los agentes de aduana otorguen sobre cualquiera de las actuaciones que comprende el despacho en que han intervenido o de los documentos que se requieren para éste. Las copias podrán ser dactilografiadas o fotografiadas y en ellas deberá expresarse el número del ejemplar y se estampará la fecha en que se otorgue y la firma y timbre del Despachador.
+
+El Agente de Aduana podrá prestar sus servicios ante cualquier Aduana del país.
+
+#### Artículo 221
+
+Para ser designado Agente de Aduana se requiere:
+
+a) Ser chileno, persona natural capaz de contratar;
+
+b) No haber sido condenado por la comisión de delito que merezca pena aflictiva;
+
+c) No encontrarse inhabilitado para cargos u oficios públicos, ni haberle sido impuesta la medida disciplinaria señalada en el inciso segundo, letra e), del artículo 227 o la de destitución señalada en el artículo 119 de la ley No. 18.834, Estatuto Administrativo.
+
+El requisito establecido en el inciso anterior podrá ser reemplazado para las personas que acrediten experiencia como funcionarios del Servicio o hayan sido reconocidos como Apoderados de Agente de Aduana, por un período no inferior a diez años;
+
+d) Haber aprobado estudios vinculados al comercio exterior, en establecimientos educacionales reconocidos por el Estado. Los cursos deberán tener una duración mínima de cinco semestres, sin que sea necesario que todas las asignaturas fijadas en los respectivos programas estén relacionados con el comercio exterior, y
+
+e) Haber sido aprobado en concurso de antecedentes y conocimientos en materias aduaneras, calificado mediante resolución fundada del Director Nacional.
+
+El concurso será convocado por el referido Director a lo menos cada dos años, correspondiéndole a la Junta General de Aduanas fijar en forma previa el número máximo de agentes a designar.
+
+El nombramiento de agentes de aduana se hará mediante resolución del Director Nacional, una vez verificado el cumplimiento de los requisitos señalados en el presente artículo, previa constitución de una garantía de monto no inferior a 20 Unidades Tributarias anuales, cuya suficiencia calificará el mismo Director del Servicio.
+
+Las personas no designadas podrán deducir reclamo ante la Junta General de Aduanas, dentro del plazo de diez días hábiles, entendiéndose practicada la notificación al día siguiente de expedida la comunicación respectiva. Los reclamos se presentarán en la Dirección Nacional de Aduanas, debiendo remitirse los antecedentes a la Junta General de Aduanas, quien resolverá sin ulterior recurso. El número máximo de agentes a designar se ampliará con el número de reclamos que sean acogidos por la Junta General de Aduanas.
+
+En todo caso, la Junta, al resolver las reclamaciones, no podrá alterar o modificar las normas, procedimientos o ponderaciones que se fijaron por el Director Nacional antes del concurso.
+
+#### Artículo 222
+
+El acto por el cual el dueño, consignante o consignatario encomienda el despacho de sus mercancías a un Agente de Aduana que acepta el encargo, es un mandato que se rige por las prescripciones de esta Ordenanza y sus leyes complementarias y, supletoriamente, por las normas del Código Civil.
+
+En los casos de mercancías ingresadas al país en virtud de un contrato de transporte, este mandato se constituirá sólo por el endoso de los conocimientos de embarque, cartas de porte, guías aéreas, o de los documentos que hagan sus veces. En los demás casos se constituirá por medio de poder escrito, otorgado para un despacho determinado.
+
+El mandato para despachar no termina por la muerte del mandante e incluye, sin necesidad de mención expresa, las facultades de retirar las mercancías de la potestad aduanera, formular peticiones y reclamaciones y, en general, realizar todos los actos o trámites relacionados directamente con el despacho mismo.
+
+El poderdante podrá , además, otorgar expresamente la facultad de solicitar y percibir por vía administrativa devoluciones de dineros o cualquier otra que sea consecuencia del despacho.
+
+El mandatario está obligado a rendir oportunamente, sin requerimiento previo del poderdante, cuenta documentada del despacho encargado.
+
+#### Artículo 223
+
+Con el objeto de explotar los servicios inherentes al despacho de mercancías, los agentes de aduana podrán asociarse con otros agentes de aduana o con personas naturales y formar con ellas únicamente sociedades colectivas y de responsabilidad limitada, pero sin que la compañía pueda actuar como agente ante la aduana.
+
+La constitución de estas sociedades deberá sujetarse al cumplimiento de los siguientes requisitos:
+
+a) La razón social principiará con la expresión "Agencia de Aduanas", seguida únicamente por el nombre del Despachador o el de alguno de ellos y las expresiones legales que indiquen la naturaleza de la compañía;
+
+b) El capital social no podrá ser inferior a 5.000 Unidades de Fomento;
+
+c) El o los agentes de aduanas no podrán ser excluidos de la administración de la sociedad ni del uso de la razón social;
+
+d) En caso de que la sociedad esté compuesta por dos o más agentes de aduana el aporte total de los agentes no podrá ser inferior al 51% y el aporte individual de cada uno no podrá ser inferior al 20% del capital social y su participación en las utilidades y pérdidas de la compañía será, a lo menos, proporcional a su aporte. Asimismo, en este caso cada socio no agente no podrá realizar un aporte ni tener una participación en las utilidades y pérdidas igual o superior al de cada uno de los agentes individualmente considerados.
+
+Tratándose de sociedades en que participe sólo un agente de aduana, su aporte no podrá ser inferior al 51% del capital social y su participación en las utilidades y pérdidas de la compañía será, a lo menos, proporcional a su aporte. Esta regla podrá ser alterada estableciéndose un porcentaje menor de participación para el agente de aduana en las utilidades y en las pérdidas, cuando los demás socios hayan sido auxiliares del mismo durante un tiempo no inferior a cinco años. Con todo, siempre el agente de aduana tendrá una participación igual o superior a la de los demás socios individualmente considerados;
+
+Los socios no agentes de aduana deberán aportar siempre trabajo personal;
+
+El plazo de la sociedad no podrá exceder de cinco años, sin perjuicio de que el Director Nacional autorice cada vez la prórroga correspondiente, y
+
+El estatuto social deberá consignar que la sociedad será solidariamente responsable con el o los agentes de cualquiera obligación patrimonial de éstos ante la aduana.
+
+Ninguna persona podrá ser socio en más de una compañía de esta clase y ningún agente de aduana podrá ejercer sus funciones independientemente de la que forme parte.
+
+En el estatuto social podrá estipularse que la sociedad no se disolverá por la muerte del agente de aduana, continuando por el lapso señalado en el inciso final del artículo 229º y actuar ante la Aduana el respectivo reemplazante ocasional que estuviere designado previamente conforme a la precitada disposición.
+
+Con todo, si la sociedad estuviere constituida por dos o más agentes de aduana continuarán desempeñándose ante el Servicio de Aduanas el o los agentes sobrevivientes.
+
+El Director Nacional de Aduanas deberá verificar que en el proyecto de escritura social se dé cumplimiento a las exigencias establecidas en el inciso segundo de este artículo. Otorgada su conformidad y celebrado el contrato, deberá remitirse al Director Nacional de Aduanas copia autorizada de la escritura pública de constitución, para los efectos de su comprobación, comunicación y registro. Las prórrogas y las demás modificaciones del estatuto social deberán someterse a los mismos trámites señalados precedentemente.
+
+El Director Nacional, por resolución fundada, podrá ordenar la disolución de alguna de estas sociedades, si motivos de conveniencia pública así lo aconsejaren. En particular será causal para ordenar la disolución de la sociedad el hecho de que las actividades que ejecuten los socios o sus vínculos jurídicos con personas naturales o jurídicas atenten en contra de la independencia del agente de aduana en el ejercicio de sus funciones.
+
+Toda sociedad o convención para prestación de servicios a terceros en que tenga interés un agente de aduana y que se relacione, directa o indirectamente, con sus actividades de tal, deberá ser aprobada por el Director Nacional en la forma señalada en los incisos precedentes. La aprobación será otorgada siempre que la sociedad o convención resguarde debidamente la independencia del agente de aduanas en el ejercicio de sus funciones.
+
+Para efectos del inciso anterior, se entenderá que no resguarda la independencia del Agente de Aduana la sociedad que éste pretenda constituir o la convención que intente celebrar con empresas transportadoras internacionales de mercancías, con otros sujetos del comercio marítimo, aéreo o terrestre, con instituciones bancarias o financieras, con encargados de recintos de depósitos aduaneros, o con otras personas o empresas semejantes, si dicha sociedad o convención implica una intermediación de parte de dichas personas entre el Agente de Aduanas y su comitente.
+
+#### Artículo 224
+
+El Agente de Aduana, hasta el monto de su caución, más la provisión de fondos, junto con su comitente, quedarán solidariamente obligados al pago de todos los gravámenes, cualesquiera sean su naturaleza y finalidad, cuya aplicación y fiscalización correspondan al Servicio de Aduanas.
+
+El Agente de Aduana responderá por el total del valor de las multas que deriven de las contravenciones cometidas en un despacho a su cargo. Con todo, siempre que el error que causa la multa no sea imputable a su agencia, tendrá derecho a repetir en contra de su mandante con intereses corrientes.
+
+El Agente de Aduana se subrogará legalmente en los derechos privilegiados del Fisco cuando, por cuenta del mandante, hubiere pagado sumas de dinero por concepto de gravámenes, de cualquiera clase y diferencias de tributos, como consecuencia de cargos emitidos por la Aduana. La subrogación alcanzará al capital e intereses corrientes hasta el momento del pago por parte del mandante. Copia autorizada por la Aduana del documento de pago que deberá mencionar el nombre del deudor, servirá al Agente de Aduana de título ejecutivo para accionar en contra de éste para el reembolso de las sumas pagadas por su cuenta, en conformidad al Libro III del Código de Procedimiento Civil. El mismo procedimiento ejecutivo tendrá lugar cuando el Agente de Aduana haya pagado multas por infracciones que no deban ser soportadas en definitiva por él, según lo resuelva, a petición de cualquiera de las partes y previa audiencia de ambas, el la Junta General de Aduanas.
+
+#### Artículo 225
+
+Los Agentes de Aduana son civil y administrativamente responsables por toda acción u omisión dolosa o culposa que lesione o pueda lesionar los intereses del Fisco o que fuere contraria al mejor servicio del Estado o al que deben prestar a sus comitentes. Responden, asimismo, personalmente de dichas acciones u omisiones cuando ellas fueren imputables a sus socios, apoderados o auxiliares, sin perjuicio de la responsabilidad de éstos y del derecho a repetir en los términos señalados en el inciso 3º del artículo 219.
+
+#### Artículo 226
+
+Los despachadores, sin perjuicio de las demás obligaciones que les impongan las leyes y reglamentos, estarán sujetos a los siguientes deberes generales:
+
+1. Llevar un libro registro circunstanciado de todos los despachos en que intervengan y formar con los instrumentos relativos a cada uno de ellos un legajo especial que mantendrán correlacionados con aquel registro.Dicho libro deberá estar foliado y ser timbrado por la Administración de Aduana;
+
+2. Llevar contabilidad completa, consignando en sus libros los antecedentes que justifiquen sus asientos, conforme con las normas tributarias, aduaneras y comerciales que sean del caso;
+
+3. Conservar durante el plazo de cinco años calendarios los documentos indicados en los números anteriores, sin perjuicio de los mayores plazos establecidos en otras leyes;
+
+4. Mantener un registro al día de sus auxiliares, comunicando al Administrador de la Aduana que corresponda, respecto a los registrados ante ella, cualquier cambio que se produzca sobre el particular;
+
+5. Informar al Administrador de la Aduana respectiva en el mes de marzo de cada año sobre la documentación pendiente al 31 de diciembre del año anterior;
+
+6. Constituir y mantener vigentes las cauciones que fije la autoridad aduanera;
+
+7. Velar por la conducta y desempeño de sus auxiliares, debiendo adoptar las medidas adecuadas que aseguren la permanente corrección de sus procedimientos y actuaciones, y
+
+Los Agentes de Aduana, además, deberán cumplir las siguientes obligaciones:
+
+a) Mantener su patente municipal al día;
+
+b) Destinar a su objeto los fondos que le hayan provisto sus mandantes;
+
+c) Respetar en el cobro de sus honorarios las normas que sobre el particular establezca el Director Nacional de Aduanas;
+
+d) Facturar directamente al consignante y consignatario de las mercancías objeto de la destinación aduanera, los honorarios y gastos en que incurra. Las facturas y cartas avisos deberán extenderse conforme con los requisitos y especificaciones que se indiquen de acuerdo con lo dispuesto en el artículo 234º;
+
+e) Ocuparse en forma diligente y personal de las actividades propias de su cargo, tanto ante el Servicio de Aduanas como en su oficina, la que deberá mantener abierta al público, informando a la autoridad aduanera de todo cambio que opere sobre el particular, y
+
+f) Llevar la contabilidad de acuerdo con las normas que determine el Director Nacional, previo informe del Colegio de Agentes de Aduana y sin perjuicio de consulta a otros organismos que él estime conveniente.
+
+#### Artículo 227
+
+Los despachadores, los apoderados especiales y los auxiliares que tengan registrados o hayan debido registrar ante la Aduana estarán sujetos a la jurisdicción disciplinaria del Director Nacional para sancionar el incumplimiento de las obligaciones inherentes a sus cargos, sin perjuicio de la responsabilidad tributaria, civil y penal que pudiere hacerse efectiva por los hechos que configuran dicho incumplimiento. Todo lo cual se entiende sin menoscabo de las facultades disciplinarias y preventivas que la ley entrega a otras autoridades u organismos.
+
+El Director Nacional de Aduanas, en el ejercicio de su jurisdicción disciplinaria, de oficio o a petición de parte interesada, podrá aplicar las siguientes medidas:
+
+a) Amonestación verbal;
+
+b) Amonestación escrita, dejándose constancia en el respectivo registro;
+
+c) Multa, con máximo de 25 Unidades Tributarias Mensuales;
+
+d) Suspensión del ejercicio de la función, y
+
+Cancelación de la licencia, nombramiento o permiso.
+
+La sanción de multas es compatible con cualquiera de las demás medidas disciplinarias señaladas.
+
+Se considerarán motivos para aplicar a un despachador, a un apoderado especial o a un auxiliar las medidas de suspensión del ejercicio de su cargo o de cancelación de su licencia, nombramiento o permiso, según sea la gravedad de los hechos en que consiste la infracción, los siguientes:
+
+1. La negligencia o incompetencia profesional reiteradas;
+
+2. La realización de actos de cualquiera naturaleza destinados a burlar los efectos de las disposiciones cuyo cumplimiento y fiscalización corresponde al Servicio de Aduanas;
+
+3. El notable abandono de sus funciones y la delegación ilegal, en forma completa o parcial, de sus atribuciones;
+
+4. La conducta negligente para cautelar los intereses públicos, especialmente en los que se refiere a los resguardos que debe tomar para procurar el pago oportuno por parte de sus mandantes de los gravámenes aduaneros;
+
+5. El retardo culpable en los pagos que deba efectuar a la Aduana cuando haya sido provisto de fondos por su mandante;
+
+6. El comportamiento incorrecto en sus relaciones con la Aduana o con sus mandantes;
+
+7. La comisión de cualquiera falta,si ha sido sancionado en los últimos tres años con más de dos medidas disciplinarias, habiendo sido una de ellas la de multa o suspensión, y
+
+8. En general, el incumplimiento de sus deberes. El Director apreciará en conciencia la gravedad de los hechos que constituyan la infracción al cumplimiento de dichos deberes y deberá imponer la sanción por resolución.
+
+En todo caso, serán causales de cancelación de licencia, nombramiento o permiso, las siguientes:
+
+1. La condena por sentencia firme en los delitos de cohecho, fraude al Fisco, falsificación documentaria o cualquier otro cometido con ocasión de sus funciones, como asimismo la condena por los delitos de contrabando o fraude aduanero;
+
+2. Haber sido objeto de medidas disciplinarias de suspensión por más de dos veces durante los últimos cinco años, siempre que la nueva infracción fuere grave;
+
+3. El hecho de constituir una sociedad o de celebrar una convención con empresas transportadoras internacionales de mercancías, con otros sujetos del comercio marítimo, aéreo o terrestre, con instituciones bancarias o financieras, con encargados de recintos de depósito aduanero o con otras personas o empresas semejantes, si dicha sociedad o convención implica una intermediación de parte de dichas personas entre el agente y su comitente.
+
+Se presumirá que existe tal convención por el hecho de que alguna de esas personas, sus socios o trabajadores ofrezcan a un comitente el servicio de un agente de aduana y éste efectúe el despacho, y
+
+4. Cuando el Director Nacional lo estime conveniente para el interés general y así lo disponga por resolución fundada.
+
+El Director Nacional de Aduanas, antes de resolver sobre la aplicación de una medida disciplinaria, dispondrá en la forma que estime más conveniente, los actos de procedimiento que aseguren al afectado la oportunidad de formular sus descargos y rendirá las pruebas que estime necesarias para su defensa.
+
+Sin perjuicio de lo dispuesto en el artículo 228, la suspensión preventiva que se decrete como medida de buen servicio, no podrá exceder de 15 días, salvo las prórrogas que concediere el Director Nacional hasta completar un plazo máximo de dos meses.
+
+No podrá suspenderse preventivamente a un agente de Aduana por el no pago, en lo que excede de su caución, de cargos formulados por sumas dejadas de percibir por el Fisco en relación a un despacho ya terminado.
+
+Los despachadores, los apoderados especiales y los auxiliares que tengan registrados o hayan debido registrar ante la Aduana, podrán apelar ante la Junta General de Aduanas de la resolución que aplique sanciones de suspensión del ejercicio de la función y de cancelación de la licencia, nombramiento o permiso, que les haya sido impuesta por el Director Nacional de Aduanas en ejercicio de la jurisdicción disciplinaria que sobre ellos le confiere el artículo anterior. En este recurso podrá ser parte el Servicio Nacional de Aduanas.
+
+La apelación deberá interponerse dentro del plazo de 10 días, contado desde la fecha de notificación de dicha resolución y se concederá sólo en su efecto devolutivo cuando la resolución apelada disponga la sanción de cancelación de la licencia, nombramiento o permiso.
+
+#### Artículo 228
+
+Los despachadores de aduana, los auxiliares de éstos y los apoderados especiales se considerarán empleados públicos para todos los efectos del Código Penal y de las responsabilidades derivadas de las infracciones contempladas en esta Ordenanza, o a otras leyes de orden tributario, cuyo cumplimiento y fiscalización corresponda al Servicio de Aduanas.
+
+INCISO DEROGADO
+
+Sin perjuicio de lo dispuesto en el inciso anterior, los despachadores de aduana, los apoderados especiales y los auxiliares respecto de los cuales se dictare auto de apertura del juicio oral por cohecho, fraude al Fisco, falsificación documentaria o cualquier otro delito cometido con ocasión de sus funciones, como asimismo por contrabando, quedarán suspendidos de sus cargos y empleos, por el solo ministerio de la ley. El correspondiente juez de garantía deberá comunicar esta resolución de inmediato a la Dirección Nacional de Aduanas.
+
+No se otorgarán licencias de despachadores, ni se permitirá la designación como apoderados o auxiliares, a personas o que hayan sido objeto de condena por otro delito en los últimos cinco años.
+
+#### Artículo 229
+
+Los despachadores podrán designar a sus socios o empleados para que los auxilien en los trámites del despacho de mercancías, los que necesitarán ser aceptados, previo examen de sus antecedentes, por el Administrador de la Aduana respectiva y, además, en el caso de los socios, por el Director. Estas personas no podrán ser socios ni empleados de otro agente.
+
+Estos auxiliares podrán , en representación del despachador y habilitados por poder notarial de éste, ejecutar los actos que señalen las normas a que se refiere el artículo 234 pero quedarán siempre reservados al agente de aduana y al apoderado especial, en su caso, la firma de todas las declaraciones que comprendan el pedido de los diversos documentos de destinación aduanera.
+
+El Agente de Aduana podrá solicitar al Director Nacional de Aduanas el nombramiento de una persona que pueda actuar en sustitución en casos especiales y mediando circunstancias calificadas. El Director, previo informe favorable del Administrador, procederá a la designación de ese reemplazante ocasional, siempre que el examen de sus antecedentes y conocimientos técnicos signifiquen una garantía para el interés general y de los particulares. Empero, para que esta clase de suplentes, cuyo poder deberá constar en escritura pública, puedan entrar en funciones, se necesitará, en cada oportunidad, la autorización del Administrador de la Aduana respectiva si la ausencia del principal es hasta por treinta días hábiles en un año calendario o del Director Nacional si excede de dicho plazo.
+
+No se requerirá autorización del Administrador, sino simple aviso dado por el agente, cuando se trate de ausencias breves, motivadas por razones de trabajo, no superiores a cuarenta y ocho horas en cada semana. Dichas ausencias no se computarán para el cálculo de los plazos antes señalados.
+
+Los consignantes y consignatarios con licencias tendrán los mismos derechos indicados en los incisos anteriores.
+
+En caso de que un agente fallezca o sufra de incapacidad total o permanente, teniendo formada sociedad conforme a artículo 223º, su agencia podrá continuar funcionando bajo el mismo nombre, anteponiéndose el prefijo ex. En caso que la sociedad hubiere estado constituida por un solo agente de aduana, continuará a cargo de su reemplazante ocasional nombrado y calificado de acuerdo a este artículo, quien actuará como agente de aduana hasta sesenta días después de haberse designado nuevos agentes de aduana en el segundo concurso público que se convoque después del fallecimiento o incapacidad.
+
+#### Artículo 230
+
+La caución a que se refiere el inciso tercero del artículo 221 tendrá por objeto asegurar el pago de los gravámenes aduaneros y responder de todo cargo que pudiere resultar en su contra, en la de sus empleados o apoderados, respecto del Fisco, y también respecto de sus comitentes en el caso de los Agentes de Aduana.
+
+La extinción de la caución producirá de pleno derecho la suspensión del despachador.
+
+#### Artículo 231
+
+La responsabilidad civil frente al Fisco que resulte en contra de los despachadores de Aduana y demás personas obligadas, prescribirá en el plazo de cuatro años, contados desde la fecha en que se hubieren producido los hechos que la motivan.
+
+#### Artículo 232
+
+No podrán ser despachadores y apoderados especiales de Aduana las personas que con respecto al Director Nacional y Jefes de Departamentos se encuentren ligados por matrimonio, por parentesco de consanguinidad hasta el tercer grado inclusive, de afinidad hasta el segundo grado, o adopción, salvo que la incompatibilidad se produjere por el ascenso o reincorporación de un empleado de Aduana o alguno de los mencionados cargos o cuando el Director Nacional estime conveniente dispensarla en las condiciones que establezca.
+
+En cada Aduana dicha incompatibilidad regirá siempre con los Directores Regionales, Administradores y Sub-Administradores.
+
+El cargo de agente será incompatible con la calidad de consignante y consignatario de naves o de sus agentes y apoderados, salvo los casos en que el Director Nacional, por razones fundadas, lo autorice expresamente. Será asimismo, incompatible con la calidad de trabajador contratado por personas naturales o jurídicas, que directa o indirectamente, efectúen o se vinculen con operaciones de comercio exterior.
+
+#### Artículo 233
+
+El Servicio de Aduanas llevará registros individuales, en los que consten los nombramientos, renuncias, sanciones, licencias, cauciones y demás información que sea necesaria o conveniente para apreciar la labor y la idoneidad de los despachadores y apoderados especiales de Aduana.
+
+#### Artículo 234
+
+El Director Nacional de Aduanas reglamentar las obligaciones y facultades de los despachadores y de los apoderados especiales; la designación, forma de rendir los ex menes, licencias y reemplazos de los Agentes de Aduana y apoderados especiales; las facultades, deberes y funciones de los empleados auxiliares de los mismos, y, en general, todas las materias necesarias para la aplicación de este Libro.
+
+#### Artículo 235
+
+Se extingue la licencia para despachar por la pérdida definitiva de algún requisito exigido para el desempeño del cargo y por la medida de cancelación dispuesta como sanción disciplinaria.
+
+Su ejercicio se suspenderá por la pérdida transitoria de alguno de tales requisitos y en los demás casos que señala la ley.
+
+El Director Nacional y los Administradores de Aduana, según el caso, determinarán los plazos, condiciones y modalidades a que se sujetarán las suspensiones.
+
+En los casos de extinción de la licencia, el Director Nacional dispondrá las medidas tendientes a asegurar la total tramitación de los despachos pendientes.
+
+#### Artículo 236
+
+El que se fingiere agente de aduana y ejecute actos propios de dicho cargo con o sin la complicidad de los despachadores, será castigado con las penas contempladas en el artículo 213 del Código Penal.
+
+## Artículos transitorios
+
+#### Artículo 1º
+
+Los Agentes Generales y los Agentes Especiales designados al 11 de noviembre de 1974, continuarán en el desempeño de sus funciones sin necesidad de nuevo nombramiento con la denominación de Agentes de Aduana, los primeros, y de Apoderados Especiales, los segundos.
+
+#### Artículo 2º
+
+Los Agentes de Cabotaje y Exportación designados al 11 de noviembre de 1974, continuarán desempeñando sus funciones hasta la extinción legal de sus nombramientos, y les serán aplicables, en lo que corresponda, todas las disposiciones relativas a los Agentes de Aduana.
+
+#### Artículo 3º
+
+Mientras no se dé cumplimiento a lo dispuesto en el artículo 234 continuarán aplicándose las normas vigentes al 11 de noviembre de 1974 sobre esas materias en todo lo que no se opongan a las disposiciones del decreto ley 743 de 1974.
+
+#### Artículo 4º
+
+Mientras tengan tal carácter los recintos de depósito aduanero fiscal y de la Empresa Portuaria de Chile existentes al 5 de diciembre de 1981, seguir n rigiéndose por las normas legales y reglamentarias que regulan su existencia y funcionamiento.
+
+#### Artículo único
+
+transitorio. El texto refundido, coordinado y sistematizado de la Ordenanza de Aduanas que se aprueba por el artículo único de este Decreto con Fuerza de Ley, empezará a regir transcurridos ciento ochenta días desde su publicación en el Diario Oficial.
+
+Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Eduardo Aninat Ureta, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Manuel Marfán Lewis, Subsecretario de Hacienda.
