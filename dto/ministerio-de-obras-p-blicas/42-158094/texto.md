@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 42, de 20 de febrero de 1986, se expropiaron los lotes Nos. 3-A, 9, 10 y 14, roles de avalúo 3.018-5, 3.018-24 y 3.010-10, superficies 440 m2, 165 ml, 493 m2 y 740 m2, Comuna de Las Condes, para Camino Santiago Farellones, Km. 0,7 al 4,2 y se acordó precio de indemnización con sus propietarios doña Elsa Maldini Piretta, Elfriede Maurach Martinof y Eduardo Ffrench Davis Muñoz, ascendente a $ 25.000 para el lote 3A; $ 25.000 para los lotes 9 y 10; y $ 25.000 para el lote 14, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas. (3)
