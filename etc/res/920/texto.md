@@ -1,0 +1,5 @@
+Por resolución N° 920, de 16 de Noviembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a CONSERVAS DALCAHUE S.A., R.U.T. N° 87.568.800-6, para ampliar actividades pesqueras autorizadas por Resoluciones N° 314, de 1986 y N° 292, de 1991, ambas de esta Subsecretaría en orden a incorporar a la línea de proceso de congelado, en su planta industrial autorizada por las Resoluciones individualizadas precedentemente, ubicada en calle Lautaro N° 001, Dalcahue, X Región, el siguiente recurso hidrobiológico: Congelado, Chorito.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 16 de Noviembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
