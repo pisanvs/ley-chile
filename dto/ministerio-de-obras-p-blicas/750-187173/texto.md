@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 750 de fecha 30 de abril del 2001, se expropió el lote de terreno Nº 10, superficie 1.507,10 m2., Rol de Avalúo 64-2, comuna de Til Til, para la obra ''Camino Ruta G-10-f, sector Cuesta La Dormida, Km. 0,00000 a Km. 11,00000'' y se acordó el valor de indemnización con su propietario Víctor Fernando Espinoza Grandón, ascendente a la cantidad de $3.988.811.-.
+
+Fiscal del Ministerio de Obras Públicas.
