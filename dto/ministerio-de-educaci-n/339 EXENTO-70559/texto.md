@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 339 EXENTO, DE 1997
+
+Por Decreto exento Nº 339 de fecha 20 de marzo de 1997 del Ministerio de Educación, se revocó el reconocimiento oficial y se eliminó del Registro de Centros de Formación Técnica el Nº 43, correspondiente al Centro de Formación Técnica Centro de Educación de Computación CEC de Santiago, organizado por la Sociedad Centro de Educación de Computación CEC Limitada, dejándose sin efecto el Decreto exento de Educación Nº 82 de fecha 10 de junio de 1982, modificado por Decretos exentos de Educación Nº 180 del 27 de septiembre de 1984; Nº 84 del 01 de marzo de 1990 y Decreto Exento de Educación Nº 644 del 07 de diciembre de 1993 y las resoluciones exentas que aprobaron los planes y programas de estudios de las carreras técnicas para el Centro de Formación Técnica mencionado.
+
+Santiago, 8 de abril de 1997.- Jaime Pérez de Arce Araya, Subsecretario de Educación.
