@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.128, de fecha 28 de diciembre del 2001, se expropió el lote de terreno Nº11, superficie 2.962 m2, Rol de avalúo Nº534-75, comuna de río Bueno, para la obra "Camino Río Bueno-Crucero, Rol T-90-U y T-933, Km. 0.000 al 20.900 (II Parte)" y se acordó el valor de indemnización con su propietario Joaquín Ignacio Hott Recondo, ascendente a la cantidad de $4.290.952.-
+
+Fiscal del Ministerio de Obras Públicas.
