@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 297 de 30 de noviembre de 1987, se expropió el lote Nº 3 y se constituyó servidumbre en el lote Nº 6, rol de avalúo para ambos lotes 231-20, comuna de Coelemu, superficies 715 m2 y 414 m2, para Agua Potable de Perales, Proyecto de Instalación de Servicio y se acordó precio de indemnización con su propietaria doña Elba Ernestina Muñoz Ortiz, ascendente a $ 417.482.-
+
+Fiscal del Ministerio de Obras Públicas.
