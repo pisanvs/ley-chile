@@ -1,0 +1,9 @@
+AUTORIZA A DON MIGUEL JORGE KRSTULOVIC SINOVCIC PARA INICIAR ACTIVIDADES PESQUERAS.DEROGA RESOLUCIONES QUE INDICA
+
+Por resolución No. 1.422 de 07 de Diciembre de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Miguel Jorge Krstulovic Sinovcic, RUT No. 8.242.160-2, domiciliado en calle Santa Elena No. 806, Población Coviefi, Antofagasta, para instalar y operar un establecimiento de cultivo de alga del género Gracilaria, en un sector de Mejillones, Comuna de Mejillones, Provincia de Antofagasta, II Región, en un área de 250.000 mí de fondo de mar, cuyas coordenadas geográficas son las siguientes, de acuerdo con el plano que acompaña a la solicitud signado por el Servicio Nacional de Pesca con el No. Ordinal 712:
+
+Vértice A Lat. 23° 05' 36,00" S Long. 70° 28' 27,50" W Vértice B Lat. 23° 05' 45.00" S Long. 70° 28' 27,50" W Vértice C Lat. 23° 05' 45,00" S Long. 70° 27' 52,20" W Vértice D Lat. 23° 05' 36,00" S Long. 70° 27' 52,20" W
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan. Derógase las resoluciones No. 422, de 1980 y No. 176, de 1985, ambas de esta Subsecretaría, que autorizaron a Empresa Pesquera y Exportadora de Productos del Mar Benjamín Labbé Dumé y Cía. Ltda. para desarrollar actividades pesqueras de cultivo, por renuncia de su titular. El alga húmeda será adquirida de centros de cultivo - autorizados de la Región.
+
+Valparaíso, 07 de Diciembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
