@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.688 de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº23, superficie 351m2, rol de avalúo Nº5050-43, comuna de Punta Arenas, para la obra ''Reposición Ruta 9 y Acceso Aeropuerto, Sector (Ruta 9), Km. 5,31490 al 19,342349, (Acceso Aeropuerto) Km. 0,000 al 1,295819'', XII Región y se acordó el valor de la indemnización con su propietario Egon Cisterna Arriagada, ascendente a la cantidad de $5.050.374.-
+
+Fiscal del Ministerio de Obras Públicas.
