@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.607, de 11 de julio de 2003, de esta Subsecretaría, declárase la caducidad de las resoluciones que a continuación se indican, que autorizaron a GERMAN MOYA GARCIA, para realizar actividades pesqueras extractivas con la nave "Lobera 84" en las áreas marítimas y sobre los recursos hidrobiológicos que en cada caso se señala: a) Resolución Nº 1.193 de 1988, que autorizó a la nave para operar sobre Albacora y Atún, en el área marítima de la I a la IV, VI a VIII y X Regiones; b) Resolución Nº 1.567 de 1990, que autorizó a la nave para operar en el área marítima de la III y IV Regiones, sobre los recursos Anchoveta, Bonito, Caballa, Dorado, Jurel, Sardina Española;
+
+c) Resolución Nº 1.008 de 1995, que autorizó a la nave para operar en el área marítima de la III y IV Regiones sobre el recurso Cojinoba del norte.
+
+Valparaíso, 11 de julio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
