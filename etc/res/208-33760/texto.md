@@ -1,0 +1,3 @@
+Por Resolución N° 208 de fecha 10 de Febrero de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a TRIPESCA S.A., R.U.T. N° 96.653.590- 3, para continuar desarrollando las actividades pesqueras autorizadas a Miguel Díaz S.A., R.U.T. N° 96.661.400-5 y de Miguel Díaz Alvarez, R.U.T. N° 6.350.818-7, por Resoluciones N° 704, de 1989 y N° 167, de 1992, respectivamente, ambas de esta Subsecretaría.
+
+Valparaíso, 10 de Febrero de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
