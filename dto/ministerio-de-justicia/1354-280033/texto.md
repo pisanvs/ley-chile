@@ -8,15 +8,23 @@ Decreto:
 
 Apruébase el siguiente texto del Estatuto Tipo al cual podrán ceñirse los Clubes de Aeromodelos del país que soliciten el otorgamiento de personalidad jurídica:
 
+En __________, a ____ de _____ de _____, siendo las _______ horas, se lleva a efecto una reunión en _______________, con la asistencia de las personas que se individualizan y firman al final de la presente Acta, quienes manifiestan que se han reunido con el objeto de adoptar los acuerdos necesarios para constituir una corporación de derecho privado denominada "______________________________".
+
+Preside la reunión, don _______________ y actúa como Secretario don ________________.
+
+Después de un amplio debate, los asistentes acuerdan unánimemente constituirla, adoptándose los siguientes acuerdos:
+
+Aprobar los estatutos por los cuales se regirá el Club, a los que se da lectura en debida forma y cuyo texto es el siguiente:
+
 ## Título I
 
 Nombre, Domicilio, Duración, Número de Socios y Finalidades.
 
-#### Artículo Primero
+#### Artículo primero
 
-Constituyese una Corporación de Derecho Privado regida por los presentes Estatutos, y en silencio de ellos por el título 33 del Libro I del Código Civil y por el Reglamento de Concesión de Personalidad Jurídica del Ministerio de Justicia, que se denominará "Club de Aeromodelos................".
+Constitúyese una Corporación de Derecho Privado regida por los presentes Estatutos, y en silencio de ellos por el Título XXXIII del Libro I del Código Civil, y por el Reglamento sobre Concesión de Personalidad Jurídica a Corporaciones y Fundaciones del Ministerio de Justicia, que se denominará "Club de Aeromodelos ________________________ ".
 
-El domicilio de la corporación será la Comuna de................de la Provincia de................, sin perjuicio que pueda desarrollar sus actividades en otros puntos del país; su duración será indefinida, y el número de sus socios ilimitado.
+El domicilio de la corporación será la comuna de __________, Provincia de __________________, Región _____________, sin perjuicio que pueda desarrollar sus actividades en otros puntos del país; su duración será indefinida y el número de sus socios ilimitado.
 
 #### Artículo Segundo
 
@@ -80,7 +88,7 @@ Se adquiere la calidad de socio honorario por acuerdo de la Asamblea General de 
 
 Los socios activos tienen las siguientes obligaciones:
 
-a) Asistir a las reuniones a que fueren legalmente convocados.
+a) Asistir a las reuniones a que fueren convocados de acuerdo a sus estatutos.
 
 b) Servir con eficiencia y dedicación los cargos para los cuales sean designados y las tareas que se le encomienden.
 
@@ -188,7 +196,7 @@ Los acuerdos a que se refieren las letras a, b, d y e deberán reducirse a escri
 
 Cuarto: Las citaciones a las asambleas generales se harán por carta certificada enviada con 10 días de anticipación a lo menos a los domicilios que los miembros tengan registrados en la Corporación.
 
-Deberán publicarse además con 5 días de anticipación a lo menos y con no más de 20 al día fijado para la asamblea, un aviso por dos veces en un diario de la ciudad de............
+Deberá publicarse además con 5 días de anticipación a lo menos y con no más de 20 al día fijado para la Asamblea, un aviso en un diario de circulación nacional.
 
 En todos ellos se indicará el día, lugar, hora y objeto de la reunión. No podrá citarse en el mismo aviso para una segunda reunión, cuando por falta de quórum no se lleve a efecto la primera.
 
@@ -220,23 +228,13 @@ Octavo: Las Asambleas Generales serán presididas por el Presidente de la Corpor
 
 Del Directorio.
 
-#### Artículo Décimo
+#### Artículo décimo
 
-Noveno: Al Directorio corresponde la administración y dirección superior de la Corporación en conformidad a los Estatutos y a los acuerdos de las Asambleas Generales. El Directorio durará 2 años en sus funciones pudiendo ser reelegidos sus miembros en forma indefinida. El Directorio estará compuesto de 7 miembros los que desempeñarán sus funciones en forma totalmente gratuita.
+noveno: Al Directorio corresponde la administración y dirección superior de la Corporación en conformidad a los Estatutos y a los acuerdos de las Asambleas Generales. El Directorio durará 2 años en sus funciones pudiendo ser reelegidos sus miembros en forma indefinida. El Directorio estará compuesto de ______________ miembros los que desempeñarán sus funciones en forma totalmente gratuita.
 
-Artículo Vigésimo: El Directorio, la Comisión Revisora de Cuentas y el Tribunal de Disciplina se elegirán en Asamblea General Ordinaria de socios de acuerdo a las siguientes normas:
+Artículo vigésimo: El Directorio, la Comisión Revisora de Cuentas y el Tribunal de Disciplina se elegirán en Asamblea General Ordinaria de socios de acuerdo a las siguientes normas:
 
-Cada socio activo sufragará en forma libre y secreta en un acto y en una sola cédula. No podrá el elector marcar o señalar de una preferencia por candidato, ni repetir un nombre.
-
-Se proclamarán elegidos los candidatos que en una elección resulten con el mayor número de votos, hasta completar los 7 miembros del Directorio si correspondiere elegirlos ese año, los tres de la Comisión Revisora de Cuentas y los tres del Tribunal de Disciplina.
-
-Es incompatible el cargo de Director con el de miembro de la Comisión Revisora de Cuentas y del Tribunal de Disciplina.
-
-No completándose el número necesario de Directores, de miembros de la Comisión Revisora de Cuentas o del Tribunal de Disciplina o existiendo empate entre dos o más candidatos que ocupen el último lugar entre las más altas mayorías respectivas, se procederá en el acto a efectuar elecciones como sea necesario.
-
-Habrá una comisión de Elecciones la que deberá estar integrada siempre en forma paritaria, por miembros del Directorio y de la Asamblea General de Socios, debiendo elegir entre ellos un Presidente de la Comisión quien dirimirá los empates que puedan producirse con motivo de adoptar ésta un acuerdo o resolución. Dicha Comisión se constituirá en la Asamblea General en que corresponda celebrar las elecciones, y se integrará por los Directores que designe el propio Directorio, y por los integrantes de la Asamblea que ésta designe en el mismo acto por votación.
-
-El recuento de votos será público.
+Cada socio activo sufragará en forma libre y secreta en un acto y en una sola cédula. No podrá el elector marcar o señalar más de una preferencia por candidato, ni repetir un nombre. Se proclamarán elegidos los candidatos que en una elección resulten con el mayor número de votos, hasta completar los ______ miembros del Directorio si correspondiere elegirlos ese año, los tres de la Comisión Revisora de Cuentas y los tres del Tribunal de Disciplina. Es incompatible el cargo de Director con el de miembro de la Comisión Revisora de Cuentas y del Tribunal de Disciplina. No completándose el número necesario de Directores, de miembros de la Comisión Revisora de Cuentas o del Tribunal de Disciplina, o existiendo empate entre dos o más candidatos que ocupen el último lugar entre las más altas mayorías respectivas, se estará en primer lugar a la antigüedad de los postulantes como socios de la institución. Si el empate se produjere entre socios de la misma antigüedad, se estará al orden alfabético de sus apellidos. Habrá una Comisión de Elecciones que deberá estar integrada por tres socios activos que no sean candidatos, debiendo elegir entre ellos un Presidente de la Comisión quien dirimirá los empates que puedan producirse con motivo de adoptar ésta un acuerdo o resolución. Dicha Comisión se constituirá en la Asamblea General en que corresponda celebrar las elecciones. El recuento de votos será público.
 
 Artículo Vigésimo Primero: En caso de fallecimiento, ausencia, renuncia, destitución o imposibilidad de un Director para el desempeño de su cargo, el Directorio le nombrará un reemplazante que durará en sus funciones sólo el tiempo que faltare para completar su periodo al Director reemplazado, debiendo ser éste un socio activo de la corporación.
 
@@ -246,7 +244,7 @@ El presidente del directorio lo será también de la Corporación, la representa
 
 Si por cualquier causa no se realizaran las elecciones de Directorio en la oportunidad que establece el artículo 11, el Directorio continuará en funciones hasta que sea reemplazado en la forma prescrita por los Estatutos.
 
-Artículo Vigésimo Tercero: Podrá ser elegido miembro del Directorio, de la Comisión Revisora de Cuentas, del Tribunal de Disciplina y de la Comisión de Elecciones, cualquier socio activo mayor de 21 años y 2 años de antigüedad en la Corporación, siempre que al momento de la elección no se encuentre suspendido en sus derechos, conforme a lo dispuesto en a Artículo 9°.
+Artículo vigésimo tercero: Podrá ser elegido miembro del Directorio, de la Comisión Revisora de Cuentas, del Tribunal de Disciplina y de la Comisión de Elecciones, cualquier socio activo mayor de 18 años y 2 años de antigüedad en la Corporación, siempre que al momento de la elección no se encuentre suspendido en sus derechos, conforme a lo dispuesto en el artículo 9º. El requisito de antigüedad como socio, no se exigirá a los miembros del primer Directorio.
 
 Artículo Vigésimo Cuarto: Son atribuciones y deberes del Directorio:
 
@@ -354,7 +352,7 @@ De la Comisión Revisora de Cuentas
 
 Artículo Trigésimo Segundo: En la Asamblea General Ordinaria Anual los socios elegirán una Comisión Revisora de Cuentas compuesta de tres miembros que durarán 1 año en sus funciones, cuyas obligaciones y atribuciones serán las siguientes:
 
-a) Revisar trimestralmente los Libros de Contabilidad y los comprobantes de ingresos que el Tesorero debe exhibirle como asimismo inspeccionar las cuentas bancarias y de ahorro;
+a) Revisar trimestralmente los Libros de Contabilidad y los comprobantes de ingresos y egresos que el Tesorero debe exhibirle como asimismo inspeccionar las cuentas bancarias y de ahorro;
 
 b) Velar porque los socios se mantengan al día en el pago de sus cuotas y representar al Tesorero cuando algún socios se encuentre atrasado a fin de que éste investigue la causa y procure se ponga al día en sus pagos;
 
@@ -386,11 +384,11 @@ Del Patrimonio.
 
 Articulo Trigésimo Octavo: Para atender a sus fines, la Corporación dispondrá de las rentas que produzcan los bienes que posea y además de las cuotas ordinarias, extraordinarias y de incorporación que aporten sus socios y de las donaciones y subvenciones que obtenga de personas naturales o jurídicas, nacionales, internacionales o extranjeras de derecho público o privado, de las Municipalidades, de organismos fiscales, semifiscales o de administración autónoma y demás bienes que adquiera a cualquier título.
 
-Articulo trigésimo Noveno: La cuota ordinaria mensual será determinada por la Asamblea General Ordinaria del año correspondiente a propuesta del Directorio y no podrá ser inferior al..........% ni superior al...........% de un sueldo vital mensual de la provincia de..... De la misma forma se fijará la cuota de incorporación la que no podrá ser superior al........% del sueldo vital ya referido.
+Artículo Trigésimo Noveno: La cuota de incorporación y la ordinaria mensual serán determinadas por la Asamblea General Ordinaria del año correspondiente a propuesta del Directorio y no podrán ser inferiores a ________ Unidad(es) Tributaria(s) Mensual(es) ni superiores a __________ Unidad(es) Tributaria(s) Mensual(es).
 
-Artículo Cuadragésimo: Las cuotas extraordinarias serán determinadas por una Asamblea General Extraordinaria a propuesta del Directorio no pudiendo ser inferior a.......% ni superior a.......% del sueldo vital ya mencionado. Se procederá a fijar y exigir una cuota de esta naturaleza, cada vez que lo requieran las necesidades de la corporación. No podrá fijarse más de una cuota extraordinaria por mes.
+Artículo cuadragésimo: Las cuotas extraordinarias serán determinadas por una Asamblea General Extraordinaria a propuesta del Directorio no pudiendo ser inferior a ______ Unidad(es) Tributaria(s) Mensual(es) ni superior a ______ Unidad(es) Tributaria(s) Mensual(es). Se procederá a fijar y exigir una cuota de esta naturaleza, cada vez que lo requieran las necesidades de la Corporación. No podrá fijarse más de una cuota extraordinaria por mes.
 
-Los fondos adeudados por concepto de cuotas extraordinarias no podrán ser destinados a otro fin que al objeto para el cual fueron recaudados a menos que una Asamblea General especialmente convocada al efecto, resuelva otro destino.
+Los fondos recaudados por concepto de cuotas extraordinarias no podrán ser destinados a otro fin que al objeto para el cual fueron recaudados a menos que una Asamblea General especialmente convocada al efecto, resuelva darle otro destino.
 
 ## Título X
 
@@ -400,13 +398,17 @@ Artículo Cuadragésimo Primero: La Corporación podrá modificar sus estatutos 
 
 Artículo Cuadragésimo Segundo: La Corporación podrá disolverse por acuerdo de una Asamblea General Extraordinaria adoptada por los dos tercios de los socios presentes con las mismas formalidades establecidas en el artículo 41.
 
-Acordada la disolución de la Corporación sus bienes pasarán al Club de Aeromodelismo con personalidad jurídica denominado "...............
+Aprobada por el Supremo Gobierno la disolución voluntaria o decretada la disolución forzada de la Corporación sus bienes pasarán a la institución, sin fines de lucro, con personalidad jurídica vigente denominada "_____________________________"
 
 DISPOSICIONES TRANSITORIAS
 
-#### Artículo Primero
+#### Artículo primero
 
-El Directorio Provisorio y el Primero Definitivo serán designados de entre los socios constituyentes por el Intendente de la Región ......................., mientras se encuentren vigentes las disposiciones del decreto ley N° 349, de 1974 y sus modificaciones.
+Se procede a elegir el Directorio Provisorio de la Corporación, que estará integrado por las personas que a continuación se señalan, las que durarán en sus cargos hasta la primera Asamblea General Ordinaria de Socios:
+
+Nombre RUT
+
+_________________________________________________
 
 #### Artículo Segundo
 
