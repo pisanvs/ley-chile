@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.122, de 30 de abril de 1999, se expropió el lote de terreno Nº 3, superficie 60 m2., rol de avalúo 217-53, comuna de Villa Alegre, para la obra Ruta 5 Tramo Talca - Chillán: Solución Acceso Villa Alegre Sector El Durazno, Séptima Región y se acordó el valor de indemnización con su propietaria María M. Meza Silva, ascendente a la cantidad de $6.104.585.
+
+Fiscal del Ministerio de Obras Públicas.
