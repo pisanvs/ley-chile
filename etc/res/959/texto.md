@@ -1,0 +1,3 @@
+Por Resolución N° 959 de 26 de Octubre de 1993 de Serviu Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, de parte del inmueble ubicado en Avda. Santa Rosa N° 10815, presunto rol de avalúos N° 6001-39 comuna de La Pintana, aparente dominio de don Juan M. Suárez Maturana. Comisión integrada por peritos Sres. Fernando Merino de la Cerda y Jorge Navarro Navarrete, arquitectos y Patricia Zavala Contreras, constructor civil, según informe de 16 de Septiembre de 1993, fijó monto provisional indemnización en $16.000.000.- pagadera al contado.-
+
+Directora Serviu Metropolitano.
