@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Resolución Nº 34, de 23 de abril de 2002, Serviu VI Región, del Libertador Bernardo O'Higgins, Tomada Razón por Contraloría Regional en fecha 26.04.2002, ordenó expropiación parte inmueble ubicado en Avenida Freire Nº 689, lote Rol Nº 86-7, de la comuna de Rancagua, superficie aproximada de 52,55 m² delimitada en el polígono A-B-C-D, conforme al plano agregado bajo el Nº 306 del año 2000, de aparente dominio de don Héctor Acuña Acuña, inscrita a fojas 1415 Nº 939 del año 1988, Proyecto Mejoramiento Red Vial Avenida Freire, Rancagua, conforme al artículo 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos, Sr. Sergio Shipley Rubio, Jorge Godoy Rojas, Florencio Carter, Ingeniero, Arquitecto y Constructor Civil, respectivamente, según informe Febrero 2000, monto provisional en $25.632.360, más reajustes legales respectivos.
+
+Director Subrogante Serviu VI Región.
