@@ -1,0 +1,3 @@
+Por resolución Nº 861, de 12 de mayo de 2000, de esta Subsecretaría, déjase sin efecto la letra l) del numeral 1 de la resolución Nº 2.564, de 1999, que declaró la caducidad de la resolución Nº 1.800, de 1997, ambas de esta Subsecretaría, que autorizó a don LUIS EDGARDO DE LA CERDA DELPIN, para iniciar actividades pesqueras de transformación con una planta ubicada en el mismo domicilio.
+
+Valparaíso, 12 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
