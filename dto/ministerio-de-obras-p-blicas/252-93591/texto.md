@@ -1,0 +1,3 @@
+Por Decreto MOP. No.252, de 25 de agosto de 1989, se expropiaron los lotes Nos 4, 6, 10 y 15, superficies 4.500 M2., 3.732 M2., 4.403 M2. y 1.598 M2., Roles de Avalúo 21290-18; 21290-20; 1290-41 y 1290-39, respectivamente, Comunas de Concepción y de Penco, para Ampliación y Reposición Ruta 150, Concepción - Lirquén, sector Concepción - Penco y se acordaron precios de indemnización con sus propietarios, Asociación del Personal Docente y Administrativo de la Universidad de Concepción; Sante Herrera Giovannetti y Luz Sobrino Sanz, ascendentes a $ 4.757.616 para el lote 4; $ 1.644.021 para el lote 6; $ 4.849.024 para el lote 10 y $ 2.287.841 para el lote 15.
+
+Fiscal del Ministerio de Obras Públicas.
