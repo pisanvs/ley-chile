@@ -1,0 +1,3 @@
+AUTORIZA EXCEPCION REGIMEN DE CAMBIO SUJETO DEL IVA A CABILDO S.A.
+
+La Dirección Regional Puerto Montt del S.I.I., por Resolución Nº Ex-871 de 24 de noviembre de 1997, excepciona, a contar del 1º del mes siguiente al de esta publicación, a Cabildo S.A. Rut Nº 93.741.000-K del régimen de Cambio de Sujeto de IVA establecido en la Resolución Nº Ex-5.362 de la Dirección Nacional, publicada en el Diario Oficial del día 4 de noviembre de 1997.
