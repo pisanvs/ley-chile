@@ -1,0 +1,3 @@
+Por Resolución N° 15 de 14 Septiembre de 1993, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VI Región, se adjudicó a Dn Tomás Patricio Krinfokai C, la concesión para operar, por un plazo de cinco años a contar de la publicación del presente extracto, un establecimiento ubicado en calle San Martín N° 751 de la comuna de Rengo, destinado a la revisión técnica y verificación de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Luis Díaz Solís, Secretario Regional Ministerial de Transportes y Telecomunicaciones VI Región.
