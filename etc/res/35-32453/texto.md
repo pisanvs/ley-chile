@@ -1,0 +1,5 @@
+ADJUDICA A "A. DENHAM Y COMPAÑIA LIMITADA" CONCESION PARA OPERAR ESTABLECIMIENTO DESTINADO A LA REVISION TECNICA
+
+Por Resolución N° 35, de 17 de julio de 1995, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se adjudicó a "A. Denham y Compañía Limitada" la concesión para operar, por un plazo de cuatro meses, a contar de la publicación del presente extracto, un establecimiento ubicado en calle Los Helechos N° 3607, Comuna de Renca, destinado a la revisión técnica y verificación de emisión de contaminantes de buses inscritos en el Registro Nacional de Servicios de Transporte de Pasajeros de la Región Metropolitana y a aquéllos que presten servicio privado de transporte de personas en dicha región, en la forma y condiciones que se señala en el contrato que se aprueba.-
+
+Antonio Dourthe Castrillón, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
