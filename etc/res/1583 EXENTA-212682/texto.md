@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.583, de 9 de julio de 2003, de esta Subsecretaría, autorízase a ALIMENTOS MARINOS S.A. ALIMAR, para ampliar actividades pesqueras extractivas con la nave "Vichuquén II", en orden a realizar actividades pesqueras con la nave individualizada precedentemente, en las áreas marítimas que en cada caso se indican, por fuera del área de reserva artesanal, donde podrá capturar los recursos hidrobiológicos que a continuación se indican: a) En el área marítima de la III Región, con arrastre de media agua: Merluza de cola; b) En el área marítima de la IV Región, con arrastre de media agua, por fuera del área de las 60 millas náuticas: Merluza de cola.
+
+Valparaíso, 9 de julio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
