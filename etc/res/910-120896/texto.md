@@ -1,0 +1,3 @@
+Por resolución Nº 910, de 30 de junio de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por PESQUERA SAN FRANCISCO S.A., para ampliar el plazo para realizar actividades pesqueras extractivas con las naves ''Santa Adriana'', ''Tocaril'', ''Cristián Claudio'', ''San Andrés'', ''Gabrielita'' y ''Adelita'', autorizadas por las resoluciones Nº 1.514, Nº 1.515, Nº 1.516, Nº 1.517, Nº 1.518 y Nº 1.519 todas del año 1996 y de esta Subsecretaría, en virtud de no haberse acreditado una circunstancia de fuerza mayor o caso fortuito.
+
+Valparaíso, 30 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
