@@ -1,0 +1,3 @@
+Por Resolución No. 761 de 10 de Agosto de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución No. 1.810, de 1989, que autorizó a doña MARIA MAGDALENA DEL CARMEN GONZALEZ OYARZUN, RUT No. 9.107.926-7, domiciliada en Sector El Toro, Comuna de Corral, Casilla 342, de Valdivia, para operar un establecimiento de cultivo del recurso alga Gracilaria spp. en la comuna de Corral, provincia de Valdivia, Región X, por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 10 de Agosto de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
