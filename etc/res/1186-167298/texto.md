@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD "PESQUERA LUVA LTDA." PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.186, de 06 de Octubre de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad "Pesquera Luva Ltda.", domiciliada en Puerto Montt, para ampliar actividades pesqueras autorizadas por resoluciones No. 337, de 1984 y No. 112, de 1986, ambas de esta Subsecretaría, en orden a incluir los recursos hidrobiológicos: salmón del Pacífico, salmón del Atlántico y trucha arco iris, en las líneas de elaboración de conservas, congelado y deshidratado, en la planta industrial ubicada en calle Ñuble No. 190, de Puerto Montt, autorizada a operar por las resoluciones citadas precedentemente. Los recursos hidrobiológicos deberán provenir de centros de cultivo autorizados.
+
+Valparaíso, 06 de Octubre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
