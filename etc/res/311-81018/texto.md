@@ -1,0 +1,3 @@
+Por resolución No. 311 de 06 de Abril de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días, a contar de la fecha de esta Resolución, el plazo otorgado a doña MARIA SOLEDAD FONT FONT, R.U.T. No. 9.494.613-1, domiciliada en la ciudad de Quemchi, Avenida Langdon s/n, con domicilio postal en Casilla No. 292 de Ancud, Provincia de Chiloé, X Región, para publicar en el Diario Oficial la Resolución No. 1.202 de 1991 de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 06 de Abril de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
