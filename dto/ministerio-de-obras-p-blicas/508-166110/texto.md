@@ -1,0 +1,3 @@
+Por decreto MOP Nº508, de 28 de febrero del 2000, se expropiaron los lotes de terreno Nºs 28 y 29, superficie 167 m2. y 191 m2., rol de avalúo 231-2, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector J. Sexta Región y se acordó el valor de indemnización con su propietaria Sociedad Agrícola Chimbarongo, ascendente a la cantidad total de $1.957.015.-
+
+Fiscal del Ministerio de Obras Públicas.
