@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 766 de fecha 31 de julio del 2003, se expropió el lote de terreno Nº 84, superficie 2.406,0 m2, rol Nº 512-72 comuna de Carahue, IX Región para la obra "Camino Ruta S-36, Sector Tranapuente - Nehuentúe, tramo Km. 0,000 a Km. 9,997062, correspondiente al Subtramo II, Km. 4,235 a 9,997062", y se acordó el valor de indemnización con su propietario Mario Alvarez Muñoz, ascendente a la cantidad de $1.337.406.
+
+- Fiscal del Ministerio de Obras Públicas.
