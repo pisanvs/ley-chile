@@ -354,7 +354,7 @@ El plazo de declaración y pago de los diversos impuestos se regirá por las dis
 
 No obstante lo dispuesto en el inciso anterior, el Presidente de la República podrá fijar y modificar las fechas de declaración y pago de los diversos impuestos y establecer los procedimientos administrativos que juzgue más adecuados a su expedita y correcta percepción.
 
-Cuando el plazo de declaración y pago de un impuesto venza en día feriado o en día Sábado, éste se prorrogará hasta el primer día hábil siguiente.
+Cuando el plazo de declaración y pago de un impuesto venza en día feriado o en día Sábado, éste se prorrogará hasta el primer día hábil siguiente. Esta prórroga no se considerará para los efectos de determinar los reajustes que procedan, sin perjuicio de lo dispuesto en el inciso segundo del artículo 53.
 
 ## Título III
 
@@ -367,6 +367,8 @@ De los giros y pagos
 #### Artículo 37
 
 Los impuestos deberán ser girados por el Servicio mediante roles u órdenes de ingreso, salvo los que deban pagarse por medio de timbres, estampillas o papel sellado. El Director dictará las normas administrativas que estime más convenientes para el correcto y expedito giro de los impuestos. Si estas normas alteraren el método de trabajo de las tesorerías o impusieren a éstas una nueva obligación, deberán ser aprobadas por el Ministro de Hacienda.
+
+El Presidente de la República por decreto expedido a través del Ministerio de Hacienda podrá disponer que se omita el giro de órdenes de ingreso por el Servicio, respecto de determinados impuestos. En tales casos, la declaración que proceda deberá formularse directamente en las Tesorerías en que corresponda efectuar el pago de los tributos, adjuntando los antecedentes necesarios para su determinación, y simultáneamente con éste.
 
 Facúltase al Servicio de Impuestos Internos para aproximar a cien escudos la determinación y/o giro de los impuestos, reajustes, derechos, intereses, multas y recargos, despreciándose las fracciones inferiores a cincuenta escudos y elevándose a cien escudos las iguales o mayores a dicha cantidad.
 
@@ -426,9 +428,11 @@ El Ministro de Hacienda podrá facultar al Banco del Estado de Chile, a los banc
 
 El pago hecho en la forma indicada en el artículo 47 extinguirá la obligación tributaria pertinente hasta el monto de la cantidad enterada, pero el recibo de ésta no acreditará por sí sólo que el contribuyente está al día en el cumplimiento de la obligación tributaria respectiva.
 
-#### Artículo 49
+#### Artículo 49°
 
-La Tesorería respectiva no podrá negarse a recibir el pago de un impuesto y los intereses o sanciones que procedieren, por adeudarse uno o más períodos del mismo impuesto, siempre que estuvieren formalmente reclamados; pero se dejará constancia de este hecho en el mismo recibo.
+La Tesorería no podrá negarse a recibir el pago de un impuesto por adeudarse uno o más períodos del mismo.
+
+Los tres últimos recibos de pago de un determinado impuesto no hará presumir el pago de períodos o cuotas anteriores.
 
 #### Artículo 50
 
@@ -826,11 +830,11 @@ Las mismas penas se aplicarán a los contribuyentes afectos al Impuesto a las Ve
 
 9°.- El ejercicio efectivamente clandestino del comercio o de la industria con multa del treinta por ciento al doscientos por ciento de una unidad tributaria anual y con presidio o relegación menores en sus grados mínimo a medio y, además, con el comiso de los productos en instalaciones de fabricación y envases respectivos.
 
-10°.- El no otorgamiento de facturas o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas sin el timbre fijo correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa del doscientos por ciento del monto de la operación, con mínimo de una unidad tributaria mensual.
+10°.- El no otorgamiento de guías de despacho de facturas o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas o guías de despacho sin el timbre fijo correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa de 5 veces el monto de la operación, con un mínimo de 5 unidades tributarias mensuales
 
-En el caso de las infracciones señaladas en el inciso primero éstas podrán ser, además sancionadas a juicio exclusivo del Director Regional, con clausura de hasta veinte días del establecimiento o sucursal en que se hubiere cometido la infracción.
+En el caso de las infracciones señaladas en el inciso primero, éstas deberán ser, además, sancionadas con clausura de hasta 20 días de la oficina, estudio, establecimiento o sucursal en que hubiere cometido la infracción.
 
-La reiteración de las infracciones señaladas en el inciso primero se sancionará además con presidio o relegación menores en su grado medio. Para estos efectos se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a un año.
+La reiteración de las infracciones señaladas en el inciso primero se sancionará además con presidio o relegación menores en su grado medio. Para estos efectos se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a tres años.
 
 Para los efectos de aplicar la clausura, el Servicio podrá requerir el auxilio de la fuerza pública, la que será concedida sin ningún trámite previo por el Cuerpo de Carabineros, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario. En todo caso, se pondrán sellos oficiales y carteles en los establecimientos clausurados.
 
@@ -862,21 +866,11 @@ En todo caso, la pérdida o inutilización de los libros de contabilidad suspend
 
 Para los efectos previstos en el inciso primero de este número se entenderá por capital efectivo el definido en el artículo 2°, N° 5 de la Ley de Impuesto a la Renta.
 
-17°.- Caerán en comiso:
+17°.- La movilización o traslado de bienes corporales muebles realizado en vehículos destinados al transporte de carga sin la correspondiente guía de despacho o factura, otorgadas en la forma exigida por las leyes, será sancionado con una multa del 10% al 200% de una unidad tributaria anual.
 
-a) Los productos a que se refiere la Ley de Alcoholes, Bebidas Alcohólicas y Vinagres que se movilicen o transporten con guías de libre tránsito que no hayan sido autorizadas por un Inspector del Servicio de Impuestos Internos en los casos que corresponda;
+Sorprendida la infracción, el vehículo no podrá continuar hacia el lugar de destino mientras no se exhiba la guía de despacho o factura correspondiente a la carga movilizada, pudiendo, en todo caso, regresar a su lugar de origen. Esta sanción se hará efectiva con la sola notificación del acta de denuncio y en su contra no procederá recurso alguno.
 
-b) Los mismos productos que se movilicen o transporten sin sus documentos legales o con documentos que hayan sido adulterados o no correspondan al producto que se moviliza o transporta;
-
-c) Los alcoholes y bebidas alcohólicas cuyo origen o procedencia no puedan justificarse al ser controlados;
-
-d) Los licores y bebidas alcohólicas que se vendan para el consumo embotellados, que sean encontrados fuera de las fábricas o establecimientos envasadores sin las fajas de control correspondiente o con fajas que hayan sido adulteradas, falsificadas o que no cumplan con los requisitos legales.
-
-Se aplicará al infractor, además, y sin perjuicio del pago del tributo que proceda, una multa de un diez por ciento al doscientos por ciento de una unidad tributaria anual.
-
-La adulteración y la falsificación a que se refieren las letras b) y d) de este número serán sancionadas, además, con presidio menor en su grado medio.
-
-Las sanciones pecuniarias que se establecen en este número podrán aplicarse incluso al mero tenedor del producto.
+Para llevar a efecto la medida de que trata el inciso anterior, el funcionario encargado de la diligencia podrá recurrir al auxilio de la fuerza pública, la que le será concedida por el Jefe de Carabineros más inmediato sin más trámite, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario.
 
 18°.- Los que compren y vendan fajas de control de impuestos o entradas a espectáculos públicos en forma ilícita, serán sancionados con multa de uno a diez unidades tributarias anuales y con presidio menor en su grado medio.
 
@@ -1448,23 +1442,23 @@ Procedimientos especiales para la aplicación de ciertas multas
 
 #### Artículo 165
 
-Las denuncias por las infracciones sancionadas en los números 2°, 6°, 7°, 10° y 11° del artículo 97, se someterán al procedimiento que a continuación se señala:
+Las denuncias por las infracciones sancionadas en los números 1°, 2°, 6°, 7°, 10°, 11° y 17, 19°, del artículo 97, se someterán al procedimiento que a continuación se señala:
 
-1°.- Las multas establecidas en los números 2° y 11° del artículo 97 por atraso u omisión en declarar o por mora en el pago serán aplicadas por el Servicio o por la Tesorería según proceda, sin otro trámite que el de girarlas en el caso de atraso en la declaración o de cobrarlas conjuntamente con el impuesto cuando éste se entere en arcas fiscales.
+1°- Las multas establecidas en los números 1°, 2° y 11°, del artículo 97, por atraso u omisión en declarar o por mora en el pago serán aplicadas por el Servicio o por la Tesorería según proceda, sin otro trámite que el de girarlas en el caso de atraso en la declaración o de cobrarlas conjuntamente con el impuesto cuando éste se entere en arcas fiscales.
 
-2°.- En los casos a que se refieren los números 6°, 7° y 10° del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio al sorprender la infracción, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
+2°- En los casos a que se refieren los números 6°, 7°, 10° y 17, 19°, del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio al sorprender la infracción, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
 
-3.- Iniciado el procedimiento señalado en el N° 2, el contribuyente podrá reclamar verbalmente o por escrito, dentro del plazo de cinco días contado desde la notificación de la infracción, ante el Administrador de Zona de su jurisdicción.
+3°- Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar verbalmente o por escrito, dentro del plazo de cinco días, contado desde la notificación del giro o de la infracción, en su caso, ante el Administrador de Zona de su jurisdicción.
 
-4.- Junto al reclamo deberán acompañarse y producirse todas las pruebas que el interesado pretenda rendir. La prueba se apreciará en conciencia.
+4°- Junto al reclamo deberán acompañarse y producirse todas las pruebas que el interesado pretenda rendir. La prueba se apreciará en conciencia.
 
-5.- El reclamo deberá ser resuelto en el acto por el Administrador de Zona o a más tardar dentro de tercero día y la resolución que se dicte no será susceptible de recurso alguno.
+5°- El reclamo deberá ser resuelto en el acto por el Administrador de Zona o a más tardar dentro de tercero día, y la resolución que se dicte no será susceptible de recurso alguno.
 
-6.- La iniciación del procedimiento anterior y la aplicación de sanción administrativa no constituirá impedimento para el ejercicio de la acción penal correspondiente.
+6°- La iniciación del procedimiento y la aplicación de sanciones pecuniarias no constituirán impedimento para el ejercicio de la acción penal que corresponda.
 
-7.- Los Administradores de Zona podrán delegar la facultad que se señala en los números 3° y 5° de este artículo en los Jefes de Inspección u otros funcionarios del Servicio de su jurisdicción.
+7°- Los Administradores de Zona podrán delegar las funciones y la facultad que se señala en los números 3° y 5° de este artículo en el Subadministrador, Jefes de Sección y/o Jefes de Inspección de su jurisdicción.
 
-8°.- Las resoluciones de la Dirección Regional por las cuales se ordene el comiso de mercaderías, se llevarán a efecto provisoriamente mientras se resuelven los recursos pertinentes.
+> **Nota.** Las letras c) y d) del Art. 8° del DL 2869, Hacienda, publicado el 29.09.1979, reemplazaron en el inciso primero y en el N° 2 la conjunción "y" por una coma, y agregaron a continuación de los números 11 y 10, respectivamente, lo siguiente: "y 17".
 
 ### Párrafo 3° — .
 
