@@ -1,0 +1,3 @@
+Por Resolución Nº 43, de 16 de enero de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; declárase la caducidad de las Resoluciones Nº 968, de 1989, Nº 1428, de 1989 y Nº 1027, de 1991, todas de esta Subsecretaría, que autorizaron a PESQUERA TORRES DEL PAINE S.A., para ampliar actividades pesqueras extractivas con las naves "María Alejandra" y "María Belén", por haberse configurado la causal prevista en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 16 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
