@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 934 de fecha 29 de junio del 2001 se expropió el lote de terreno Nº 6, superficie 5.424 m², Rol de Avalúo Nº 165-24, comuna de San Clemente, para la obra "Sistema Maule Norte Canal Villalobos Bajo Km. 0,100 al Km. 5,878" y se acordó el valor de indemnización con su propietaria, Clara Elena Sepúlveda Amaro y Otros, ascendente a la cantidad de $1.773.105.-
+
+Fiscal del Ministerio de Obras Públicas.
