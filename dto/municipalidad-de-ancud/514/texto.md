@@ -1,0 +1,9 @@
+EXPROPIACION DE INMUEBLE QUE INDICA
+
+En uso de facultades contenidas por resolución exenta 052 de fecha 24 de junio de 1987, de Gobernación Provincial Chiloé; resolución No. 1.050 de 1980, de Contraloría General de la República; Ley Orgánica de Municipios de Administración Comunal; artículo 59 DFL 458 de 1976, Ministerio de Vivienda y Urbanismo; Decreto Ley 2.186 de 1978, Decreto Alcaldicio No. 125, de 3 de febrero de 1987, y facultades contenidas en Decreto Ley 1.289 de 1976, y considerando informe Of. Ordinario No. J-0880 de Intendencia X Región y Decreto Alcaldicio No. 361 de 25 de mayo de 1987, Alcalde subrogante de Ancud, don Marcos del Carmen Vera Torres, procedió, mediante Decreto Alcaldicio No. 514 de 24 de julio de 1987, a expropiar por causa de utilidad pública, el inmueble de calle Eleodoro Goycolea No. 536, Rol Impuestos Internos No. 212-3, aparentemente de propiedad de Germán Segundo Mansilla Ruiz, inscrito Reg. de Propiedades Conservador de Bienes Raíces de Ancud a fojas 141 vuelta No. 190, correspondiente año 1980, con siguientes deslindes, según plano elaborado por Municipalidad de Ancud:
+
+Norte: en 2,41 m., con sitio rol No. 212-2 Sur: en 2,04 m., con propiedad rol No. 212-4 Este: con 9,89 m., con resto de la propiedad, y Oeste: en 9,89 m., en línea quebrada con calle Eleodoro Goycolea, con superficie total expropiada en 20,80 m2.
+
+Se fijó provisionalmente una indemnización de $ 1.034.300, (un millón treinta y cuatro mil trescientos pesos), imputándose pago a Subtítulo 31, Item 52, terrenos y edificios con cargo a presupuesto año 1987.-
+
+Juan Zoilo Barría Ojeda, Secretario Municipal(S).
