@@ -1,0 +1,1 @@
+Dispone que, a contar desde el 1.o de enero de 1940, se consultará en el Presupuesto del Ministerio de Defensa Nacional, en la partida correspondiente, durante doce años, la suma de $ 9.000,000, destinada a los objetos que indica.
