@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.995, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº22, superficie 575 m², rol de avalúo 65-115, comuna de Lonquimay, para la obra ''Camino Malalcahuello-Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Lonquimay-Acceso Pedregoso, Km. 119.300.00 al Km. 141.000.00, correspondiente al tramo I Km. 119,30000 a Km. 130,66000'' y se acordó el valor de indemnización con su propietaria Gladys Alicia Salazar Marchant, ascendente a la cantidad de $222.149.-
+
+Fiscal del Ministerio de Obras Públicas.
