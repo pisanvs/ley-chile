@@ -1,0 +1,9 @@
+Por resolución Nº 2.523, de 17 de noviembre de 2000, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA RALUN LIMITADA, para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 193 de 1983, Nº 36 de 1986, Nº 1.108 y Nº1.495 de 1992, Nº 40 y Nº 361 de 1997, de esta Subsecretaría, en orden a operar una planta ubicada en calle Andina, Sitios 41 al 46 del Barrio Industrial de Puerto Montt, X Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Conservas, Congelados, Ahumado, Seco-Salado, Fresco-Refrigerado y Semiconserva: Acha, Apañado, Ayanque, Besugo, Carpa, Cochinilla, Cojinoba del norte, Cojinoba del sur, Cojinoba moteada, Corvinilla, Jerguilla, Nanue, Pampanito de J. Fernández, Pejesapo, Reineta, Remoremo, Rococó, Rollizo, Roncacho, Tomoyo, Toremo, Vidriola, Vieja o mulata, Abalón rojo, Caracol caramujo, Caracol martensi, Caracol real, Caracol trumulco, Jibia, Ostra chilena, Pota o Calamar del Atlántico, Taquilla, Tumbao, Caracol fino, Camarón ecuatoriano, Centollón del norte Paralomis longipes, Centollón del norte Paralomis papillata, Centollón del norte Paralomis otsuae, Centollón del norte Paralomis spinosissima, Jaiba limón, Jaiba patuda, Langosta de J. Fernández, Langostino amarillo.
+
+La materia prima será adquirida a pescadores artesanales e industriales, debidamente autorizados.
+
+El recurso hidrobiológico Abalón rojo deberá provenir de centros de cultivos autorizados.
+
+Los recursos Pota del Atlántico, Caracol real y Camarón ecuatoriano deberán cumplir con las normas sobre importación y sanidad correspondientes.
+
+Valparaíso, 17 de noviembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
