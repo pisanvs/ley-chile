@@ -1,0 +1,5 @@
+Por decreto MOP N° 672, de 05 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206 de 1960, se dió inicio a la vía judicial, modificando los numerales 3°, 4°, 5° y 7° del decreto MOP N° 4011, de 31 de agosto de 2000, publicado en el Diario Oficial con fecha 02 de noviembre de 2000, de la expropiación correspondiente al lote de terreno N° 149, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector K: KM. 161.650,00 - KM. 179.500,00";
+
+Séptima Región, que figura a nombre de Vera Cornejo Juan Segundo, rol de avalúo 73-57, comuna de Teno, superficie 539 m2. La comisión de peritos integrada por los señores Enrique Luis Figueroa Echeverría, José Cristián Larraín Barros y María Isabel de Jesús Ríos Marcuello, fijó con fecha 14 de febrero de 2000, el valor provisional de la indemnización en la cantidad de $2.072.550.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186 de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
