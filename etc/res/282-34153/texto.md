@@ -1,0 +1,3 @@
+Por Resolución N° 282, de 10 de Marzo de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, apruébase las modificaciones del Términos Técnico de Referencia del proyecto "Selectividad en redes de arrastre de media-agua utilizadas en la captura de Merluza de tres aletas", elaborado por el Instituto de Fomento Pesquero para los efectos de la pesca de investigación autorizada por Resolución N° 52, de 1995, de esta Subsecretaría, los cuales se consideraron parte integrante de dicha Resolución.
+
+Valparaíso, 10 de Marzo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
