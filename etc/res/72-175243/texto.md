@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 72, de fecha 21 de julio de 2000, se aprobó la reforma parcial al estatuto de la Cooperativa de Trabajo Programa de Economía del Trabajo Limitada, en los términos que dan testimonio las escrituras públicas otorgadas con fechas 20 de marzo y 21 de junio de 2000, ante el Notario de Santiago don Osvaldo Pereira González.
+
+Por orden del Sr. Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
