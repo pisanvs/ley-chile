@@ -1,0 +1,3 @@
+Por resolución Nº687, de 22 de abril de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº262 de 1998, de esta Subsecretaría, que autorizó a MARCELINO SIMON GONZALEZ RIVERA, para operar la nave ''Walrus'' sólo en lo relativo a la especie Langostino amarillo, en el litoral de la III y IV Regiones.
+
+Valparaíso, 22 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
