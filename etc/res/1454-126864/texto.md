@@ -1,0 +1,7 @@
+Por resolución Nº 1.454, de 8 de octubre de 1998, de esta Subsecretaría, autorízase a PESQUERA ISABELLA LIMITADA, para sustituir las naves ''Rodrigo M'', ''Gol-Gol'' y ''Chonos 73'', autorizadas por resoluciones Nº 879, Nº 908 y Nº 1.025 de 1998, de esta Subsecretaría, por una nave denominada ''Doña Claudina'', en el litoral de la V a la VII Regiones, por fuera del área de reserva artesanal, con red de arrastre, el recurso hidrobiológico Merluza común.
+
+Autorízase a Pesquera Isabella Limitada para ampliar actividades pesqueras extractivas con la nave ''Doña Claudina'', al litoral de la V, VI y VII Regiones, por fuera del área de reserva artesanal, donde podrá capturar con red de arrastre como fauna acompañante de la Merluza común los recursos hidrobiológicos que se señalan a continuación: Besugo, Blanquillo, Cabrilla común, Calamar, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Cabrilla, Cabrilla común, Jibia, Lenguado de ojos chicos, Lenguado de ojos grandes, Róbalo, Tollo, Merluza de cola y Gamba.
+
+Déjanse sin efecto las resoluciones Nº 879, Nº 908 y Nº 1.025 de 1998, de esta Subsecretaría, que autorizaron a Pesquera Isabella Limitada para operar las naves ''Rodrigo M'', ''Gol-Gol'' y ''Chonos 73'', en virtud de la sustitución a que se refiere esta resolución.
+
+Valparaíso, 8 de octubre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
