@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de La Unión para contratar un préstamo hasta por $ 5.000.000 con el fin de construir un edificio para oficinas municipales y un Matadero Modelo; para su servicio establece una contribución adicional de un dos por mil anual sobre el avalúo de los bienes raíces de la comuna.
