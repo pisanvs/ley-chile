@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.539, de 16 de octubre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 94101093, presentada por PRODUCTORA Y COMERCIALIZADORA DE ALGAS Y PRODUCTOS DEL MAR S.A., para instalar y operar un centro de cultivo ubicado en sector El Carrizo, ribera norte del Río Maullín, X Región.
+
+Valparaíso, 16 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
