@@ -1,0 +1,13 @@
+﻿DISOLUCION DE LA ASAMBLEA DE LOS REPRESENTANTES DE SANTIAGO.
+
+Santiago, Octubre 8 de 1825.
+
+Atendiendo al notorio abuso que han hecho de sus poderes y confianza de los pueblos los Representantes de la provincia de Santiago, declarándose Congreso jeneral de toda la República, y tomando, consiguiente a esta declaracion, resoluciones para que nunca debiéron considerarse autorizados, como la de pedir auxilio de tropas estranjeras para introducirlas en el territorio de la República, y proceder a la deposicion y nombramiento del Jefe Supremo de ella- Considerando que estas providencias hacian inverificable la reconciliacion de las provincias, y la reunion de un congreso nacional, y que además el espíritu de pasion y escandecimiento de ánimos que han manifestado dichos Representantes, así como su empeño sistemado de chocar o trastornar el actual Ejecutivo jeneral nombrado por los Representantes de toda la Nacion, debian hacer perder la esperanza de que pudiera lograrse algun resultado útil de su deliberaciones.- Movido tambien y apoyado por el numeroso vecindario de esta capital, que reunido hoi ha solicitado la disolucion de este cuerpo de Representantes acompañando al efecto una acta [que se publicará] fundada en los mismos motivos que quedan expuestos- Protestando que nada me están sensible como verme precisado a tomar una igual medida contra los Representantes de esta provincia, habiendo sido siempre el mas empeñado y constante promovedor del sistema representativo en Chile; teniendo por el amor del órden y de la paz que sobreponerme a mis mas caros sentimientos, y a la estima de mi propia reputacion, pues con esto prestaré un motivo de censurarla a mis enemigos- Empeñando de nuevo mi palabra de volver a reunir esta representacion sobre lo que se darán oportunamente órdenes a los pueblos para nueva eleccion de diputados- Y asegurando por último que seré incansable en tentar todos los medios hasta lograr un cuerpo representativo nacional que tenga mas felices resultados que los anteriores, cuyos defectos son bien disculpables atendida nuestra inesperiencia, la exaltacion de las pasiones, partidos y facciones que ha debido producir la revolucion. En consecuencia de todo y en desempeño de la confianza que han puesto en mí los pueblos, y obligado de la necesidad de las circunstancias, y de mi obligacion y deseo de cortar en sus principios las disenciones civiles que debían ocasionarse: he venido en decretar y decreto:
+
+La actual reunion de Representantes por la provincia de Santiago queda disuelta desde esta misma fecha.
+
+Comuníquese al Presidente de dicha corporacion, y publíquese por bando en la forma acostumbrada. Insértese en el Boletin.
+
+FREIRE.
+
+------- Campino.
