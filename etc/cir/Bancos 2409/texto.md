@@ -10806,19 +10806,23 @@ iii) Categoría B-: el saldo de los préstamos con siete o más dividendos atras
 
 Mediante el procedimiento de clasificación de cartera antes descrito, se tiende a estimar las pérdidas asociadas a la cartera de colocaciones, considerando la capacidad de pago de cada deudor y el monto de las garantías constituidas, respecto de la totalidad de sus obligaciones con la institución acreedora.
 
-Para establecer el riesgo total de la cartera y, por ende, para constituir las provisiones, deben tenerse en consideración, además de los factores indicados en el numeral 2.2 de este capítulo, los riesgos de los créditos comerciales que, estando clasificados en las categorías "A" o "B", reúnan una o más de las siguientes características:
+Sin perjuicio de la referida clasificación y con el objeto de evitar que, en un afán de crecimiento o de captación de nuevos mercados, las entidades fiscalizadas asuman riesgos más allá de los normales en los préstamos que otorguen, esta Superintendencia ha estimado necesario complementar la clasificación y evaluación de la cartera de colocaciones, mediante la incorporación de los créditos considerados como riesgosos en su origen, a la medición del riesgo global de dicha cartera y, por ende, a la constitución de provisiones.
+
+Se entiende como créditos riesgosos en su origen, aquellos créditos por montos superiores al equivalente de 25.000 unidades de fomento, en que la institución financiera, al momento de otorgarlos, haya incurrido en un riesgo claramente superior al inherente a una operación estructurada en forma conservadora, aun cuando dicho riesgo no se manifieste en una pérdida evidente.
+
+El escaso o nulo aporte del deudor en el financiamiento de un proyecto o negocio sin que su patrimonio tenga relación con la magnitud de la deuda asumida, la ausencia de garantías suficientes cuando se trata de créditos a largo plazo o la falta de información acerca del conglomerado económico al que pertenece el deudor, son algunas de las situaciones en que se está en presencia de prácticas que se alejan de lo prudente en materias crediticias.
+
+Lo recién mencionado es válido independientemente que las proyecciones acerca de los negocios que desarrolla el deudor hagan suponer que éste podría cancelar los créditos en cuestión. Siempre será conveniente que la entidad financiera cuente con los resguardos necesarios (garantías, patrimonio del deudor o provisiones), que le permitan enfrentar de mejor forma la eventualidad de que las proyecciones no se cumplan.
+
+Por lo tanto, en la medición del riesgo total de la cartera y en la constitución de provisiones, deberán también considerarse los deudores que, estando clasificados en las categorías "A" o "B", hayan obtenido créditos con posterioridad al 30 de junio de 1988, que reúnan una o más de las siguientes características:
 
 a) Que correspondan al financiamiento de la totalidad o casi la totalidad de un proyecto o negocio, sin aporte o con uno muy pequeño de parte de los socios, sin garantías independientes del proyecto o negocio en cuestión y sin que el deudor tenga patrimonio libre de gravámenes acorde con la magnitud de los créditos recibidos.
 
-b) Que se hayan cursado para la compra de empresas o sociedades ya existentes, con escaso o ningún aporte de los adquirentes y sin garantías independientes del negocio que se adquiere, aunque se cuente con el aval de personas naturales. Se exceptúan de la calificación de créditos riesgosos en su origen, aquéllos que se hayan otorgado para financiar la adquisición de empresas y sociedades, a pesar de la carencia de garantías, en los casos en que el deudor sea una sociedad con patrimonio libre de gravámenes acorde con la magnitud del financiamiento recibido.
+b) Que se hayan cursado para la compra de empresas o sociedades ya existentes, con escaso o ningún aporte de los adquirentes y sin garantías independientes del negocio que se adquiere, aunque se cuente con el aval de personas naturales. Se exceptúan de la calificación de créditos riesgosos en su origen, aquéllos que se hayan otorgado para financiar la adquisición de empresas y sociedades, a pesar de la carencia de garantías, en los casos en que el deudor sea una sociedad con patrimonio libre de gravámenes, acorde con la magnitud del financiamiento recibido.
 
-c) Que el monto prestado represente un porcentaje igual o superior al 35% del patrimonio del deudor y que no se hayan constituido garantías o el valor de éstas sea inferior al 50% de los créditos otorgados. No se considerarán para estos efectos las garantías personales.
+c) Que el plazo promedio al que fueron otorgados sea superior a tres años y estén garantizados en menos de un 50% de su valor, sin considerar los avales de personas naturales.
 
-d) Que el plazo promedio al que fueron otorgados sea superior a tres años y estén garantizados en menos de un 50% de su valor, sin considerar las garantías personales.
-
-e) Que se hayan otorgado sin suficientes garantías a una sociedad, sin que se disponga de información (estados de situación, malla de propiedad, balances consolidados u otros), que permita formarse una cabal impresión sobre la situación financiera y patrimonial del conglomerado o conjunto de empresas al que ella pertenece.
-
-Las instituciones financieras que otorguen créditos con alguna de esas características, deberán mantener permanentemente identificados dichos créditos para los efectos señalados en el N° 7 siguiente.
+d) Que se hayan otorgado sin suficientes garantías a una sociedad y que no se disponga de información (estado de situación, malla de propiedad, balances consolidados u otros), que permita formarse una cabal impresión sobre la situación financiera y patrimonial del conglomerado o conjunto de empresas al que ella pertenece.
 
 ### 6. Pérdida estimada de la cartera
 
@@ -10834,7 +10838,7 @@ La pérdida estimada de la cartera corresponde al monto que resulta de multiplic
 
 ### 7. Riesgo adicional de la cartera comercial
 
-Sin perjuicio de la estimación de pérdida de la cartera, conforme a la definición del número anterior, si la institución mantuviere créditos riesgosos en su origen según lo establecido en el 5 de este título, se considerará como riesgo adicional de la cartera de colocaciones el monto equivalente a un 5% del importe de tales créditos riesgosos en su origen, con sus reajustes e intereses por cobrar.
+Sin perjuicio de la estimación de pérdida de la cartera, conforme a la definición del número anterior, si la institución tuviere deudores a los que se les ha otorgado créditos riesgosos en su origen según lo establecido en el N° 5 de este título, se considerará como riesgo adicional de la cartera de colocaciones el monto equivalente a un 5% del importe adeudado por tales deudores, incluyendo sus reajustes e intereses por cobrar. En todo caso, dicho monto no se considerará como pérdida estimada de activos para efectos del cálculo del compromiso patrimonial y demás aspectos que contempla la Ley General de Bancos, en particular el artículo 119 de dicho texto legal.
 
 ### 8. Revisión de esta Superintendencia
 
@@ -10866,7 +10870,7 @@ ii) un procedimiento basado en factores objetivos tales como la morosidad o la c
 
 8.4. Identificación de los créditos riesgosos en su origen.
 
-La revisión de la clasificación de la cartera de colocaciones que efectúe esta Superintendencia, incluirá también la verificación del cumplimiento de lo dispuesto en el último párrafo del N° 5 de este título, relativo a la identificación de aquellos créditos que tengan la calidad de "créditos riesgosos en su origen".
+La revisión de la clasificación de la cartera de colocaciones que efectúe esta Superintendencia, incluirá también la verificación de la identificación de aquellos créditos que, de conformidad con lo dispuesto en el 5 de este título, tengan la calidad de "créditos riesgosos en su origen" y, por ende, del cumplimiento de lo establecido en el 7 anterior, en orden a considerar el 5% de las obligaciones de los deudores de tales créditos en el riesgo total de la cartera de colocaciones.
 
 La nómina de dichos créditos que cuente con la conformidad de esta Superintendencia, se mantendrá vigente hasta que no se realice otra visita de inspección. Por tanto, la condición de "crédito riesgoso en su origen" de una determinada colocación sólo podrá eliminarse cuando la respectiva institución financiera, en dicha visita de inspección, proporcione antecedentes de que ya no
 
@@ -10878,17 +10882,17 @@ En todo caso, si se otorga un nuevo crédito que tenga alguna de las caracterís
 
 En consecuencia, en caso de observarse que las políticas de una institución financiera se apartan de un sano criterio financiero, este Organismo Fiscalizador podrá establecer la necesidad de reconocer el riesgo potencial asumido.
 
-En lo que concierne a los préstamos hipotecarios para vivienda, este Organismo dará especial importancia a la política que se emplee en la selección de los prestatarios, a la tasación de los bienes adquiridos que sirven como garantía de la operación, a la determinación de la capacidad de pago del deudor y a la estabilidad de la fuente de sus recursos. Asimismo, se otorgará mayor atención a aquellos prestatarios que hayan recibido préstamos adicionales para completar el precio del bien u otro crédito para fines diferentes caucionado con la misma hipoteca.
+En todo caso, si se otorga un nuevo crédito que tenga alguna de las características señaladas en el N° 5 de este título, a deudores que estuvieren clasificados en categorías "A" o "B", la institución financiera deberá considerarlo para los efectos de la exigencia de provisiones, de acuerdo con lo instruido en la letra b) del N° 9 siguiente.
 
 ### 9. Exigencia de provisiones
 
-Las entidades fiscalizadas deberán mantener una provisión global para cubrir el riesgo de la cartera de colocaciones. Esa provisión debe ser por un monto equivalente a la suma de la pérdida estimada para dicha cartera, más el 5% del importe de los créditos riesgosos en su origen que tuvieren, todo ello incluyendo los correspondientes reajustes e intereses por cobrar.
+Las entidades fiscalizadas deberán mantener una provisión global para cubrir el riesgo de la cartera de colocaciones. Esa provisión debe ser por un monto equivalente al riesgo total de la cartera, determinado por la suma de la pérdida estimada más el 5% del importe de todos los créditos otorgados a deudores clasificados en categorías "A" o "B" que mantengan algún crédito riesgoso en su origen.
 
-Debido a que el riesgo de la cartera de colocaciones es en esencia variable, principalmente como consecuencia de las clasificaciones de la cartera de colocaciones que en forma periódica deben practicarse, las provisiones que deben mantenerse variarán según los cambios que experimente la pérdida estimada, como asimismo, por la eventual existencia de créditos riesgosos en su origen. De acuerdo con esto, las provisiones deberán incrementarse cuando aumente la suma que represente la pérdida estimada y, cuando ésta disminuya, se podrá revertir el excedente de provisiones que se produzca, aunque en este último caso se
+Debido a que el riesgo de la cartera de colocaciones es en esencia variable, principalmente como consecuencia de las clasificaciones de la cartera de colocaciones que en forma periódica deben practicarse, las provisiones que deben mantenerse variarán según los cambios que experimente la pérdida estimada, como asimismo, por la eventual existencia de créditos riesgosos en su origen. De acuerdo con esto, las provisiones deberán incrementarse cuando aumente el riesgo global de la cartera y, cuando éste disminuya, se podrá revertir el excedente de provisiones, aunque en este último caso se requerirá que esta Superintendencia haya otorgado expresamente su conformidad.
 
-requerirá que esta Superintendencia haya otorgado expresamente su conformidad.
+El procedimiento para determinar cuál es el monto de provisiones que debe mantenerse, es el siguiente:
 
-El procedimiento para determinar cuál es la pérdida estimada de la cartera para el efecto de establecer la exigencia de provisiones, es el siguiente: a) Estimación de pérdidas y riesgos adicionales informados por esta Superintendencia.
+a) Estimación de pérdidas y riesgos adicionales informados por esta Superintendencia.
 
 La pérdida estimada de la cartera y, eventualmente, la existencia de riesgos adicionales, serán comunicados por esta Superintendencia a las instituciones financieras al término de las revisiones periódicas que efectúe, sin perjuicio de hacerlo, además, cada vez que cuente con los elementos de juicio necesarios para precisarlos. Los montos que se determinen se entenderán vigentes desde el momento en que sean comunicados y hasta que la institución financiera reciba una nueva comunicación en tal sentido.
 
@@ -10896,13 +10900,13 @@ Para efectos de la exigencia de provisiones, al establecer la pérdida estimada 
 
 pérdida de la cartera para determinar la exigencia de provisiones, deberá reajustarse por la variación que experimente la Unidad de Fomento entre la fecha de evaluación y la de los sucesivos cierres de mes en los cuales corresponde constituir las provisiones.
 
-Para los mismos efectos, el monto de los créditos riesgosos en su origen también quedará expresado en Unidades de Fomento.
+La exigencia de provisiones que esta Superintendencia informe quedará, por lo tanto, expresada en unidades de fomento y se entenderá vigente desde el momento en que sea comunicada y hasta que la institución reciba una nueva comunicación en tal sentido.
 
 Si con posterioridad a la comunicación de esta Superintendencia, la institución financiera estimare que el monto de las provisiones que debe constituir resulta excesivo por haberse procedido a castigar colocaciones que incidieron en forma importante en la pérdida estimada de la cartera, podrá solicitar a esta Superintendencia una reconsideración de la exigencia de provisiones, para lo cual deberá acompañar los antecedentes de los castigos efectuados.
 
 b) Estimación de pérdidas y riesgos adicionales informados por la propia institución financiera.
 
-Si como consecuencia de nuevas clasificaciones practicadas por la empresa o por haberse otorgado créditos riesgosos, aumenta la pérdida estimada de la cartera, deberán incrementarse las provisiones para cubrir la mayor pérdida estimada. Para ese efecto, el nuevo porcentaje estimado de pérdida de la cartera deberá aplicarse sobre las colocaciones con sus respectivos reajustes e intereses por cobrar, registrados en el activo a la fecha de la evaluación en que se estima dicha nueva pérdida y reajustarse por la variación que experimente la Unidad de Fomento entre esa fecha y la de los sucesivos cierres de mes en los cuales corresponde constituir las provisiones exigidas.
+Si como consecuencia de nuevas clasificaciones practicadas por la empresa o por haberse otorgado créditos riesgosos, aumenta el monto correspondiente a la suma de los dos conceptos definidos en el N° 7 anterior, deberán incrementarse las provisiones hasta cubrir el referido monto.
 
 ### III. RIESGO DE INVERSIONES EN BONOS Y DEBENTURES
 
@@ -15392,6 +15396,146 @@ prohibidas por el artículo 84 N° 6 citado y, a mayor abundamiento, están
 
 viciadas de nulidad.
 
+CAPITULO 9-6 (Bancos y Financieras)
+
+MATERIA:
+
+BONOS SUBORDINADOS.
+
+### 1. Generalidades
+
+De conformidad con lo dispuesto en el artículo 68 de la Ley General de Bancos, agregado por el número VIII del artículo 1° de la Ley N° 18.818, las instituciones financieras pueden emitir bonos subordinados, cuyas características se indican en la propia ley y en este Capítulo.
+
+De acuerdo al texto de la ley y a la historia fidedigna de la misma, están facultados para emitir estos bonos tanto los bancos como las sociedades financieras.
+
+### 2. Características de los bonos subordinados
+
+Los bonos subordinados que emitan las instituciones financieras tendrán las siguientes características:
+
+a) Deben emitirse a un plazo promedio no inferior a 10 años, sin garantía especial.
+
+b) Las condiciones de la emisión no deben incluir cláusulas de resguardo que signifiquen el pago anticipado del total o parte de los bonos emitidos.
+
+c) Parte de la obligación puede computarse como capital para los efectos de las limitaciones legales, de conformidad con lo señalado en el N° 4 de este Capítulo.
+
+d) Hasta la fecha de vencimiento de cada cuota, los bonos no se computan como obligaciones para con terceros, de conformidad con lo expresado en el N° 5 de este Capítulo, tanto para el cumplimiento de los márgenes de que tratan los artículos 81 y 115 de la Ley General de Bancos y el Capítulo 12-2 de esta Recopilación, como para los efectos de los artículos 116 y 119 de la misma Ley.
+
+e) En caso de que la entidad emisora se encuentre en concurso de acreedores, esto es, en estado de liquidación forzosa, estos bonos se pagarán después de los demás acreedores, incluidos los valistas, lo que les confiere su carácter de subordinados.
+
+f) Cuando el Directorio de la institución emisora presente convenio a sus acreedores, de conformidad con lo dispuesto en el artículo 119 de la Ley General de Bancos, los bonos subordinados que la empresa adeude, ya sea que se encuentren vencidos o por vencer, serán capitalizados por el sólo ministerio de la ley, hasta concurrencia de lo necesario para que los depósitos y obligaciones para con terceros a que se refiere el Capítulo 12-2 de esta Recopilación, no excedan de diez veces su capital y reservas. Vale decir, si existen bonos subordinados suficientes, el convenio de capitalización lo efectúan exclusivamente los tenedores de dichos bonos, sin exigir que participen en él los demás acreedores de la empresa.
+
+### 2. Prohibición de adquirir bonos subordinados
+
+De conformidad con lo dispuesto en la ley, los bonos subordinados no pueden ser adquiridos ni primaria ni secundariamente por bancos, sociedades financieras o demás instituciones sujetas a la fiscalización de esta Superintendencia.
+
+### 3. Emisión de los bonos
+
+3.1. Aprobación de la emisión.
+
+La emisión de bonos subordinados deberá ser acordada por el Directorio de la empresa, salvo que para el efecto sea necesaria una Junta de Accionistas, ya sea porque sus Estatutos así lo exigen o porque se trate de bonos subordinados convertibles en acciones por voluntad de sus tenedores.
+
+3.2. Determinación del plazo promedio.
+
+Para determinar el plazo promedio, cuando los bonos contemplen amortizaciones parciales, se multiplicará el importe de cada cuota de amortización por su plazo, expresado en días o meses, según corresponda. Luego se sumarán los productos obtenidos de esas operaciones y el resultado de la suma se dividirá por el importe total de la emisión El cuociente que se obtenga indicará el plazo promedio del bono, expresado en días o meses, según cual haya sido el factor utilizado.
+
+3.3 Inscripción en el Registro de Valores.
+
+La emisión de los bonos subordinados queda sujeta a su inscripción en el Registro de Valores de esta Superintendencia, de acuerdo a las disposiciones de la Ley N° 18.045 sobre Mercado de Valores y a las instrucciones del Capítulo 2-10 de esta Recopilación.
+
+4. Cómputo de los bonos como capital para los efectos de los límites legales.
+
+4.1. Monto de los bonos computable como capital.
+
+El valor por el cual se computarán los bonos subordinados como capital de la entidad emisora para los fines de determinar el capital pagado y reservas que se debe considerar para los márgenes legales, será igual al 85% del valor par de aquella parte de los bonos para cuyo pago falten más de dos años.
+
+Sin embargo, en el caso de que la colocación de esos bonos se haga con un descuento sobre su valor par, deberá rebajarse, para ese efecto, el saldo contable de dicho descuento, a la fecha del cómputo.
+
+El monto determinado en la forma señalada en los párrafos precedentes no podrá exceder del 20% del capital pagado y reservas de la institución, a la fecha del cómputo, incluida su corrección monetaria.
+
+4.2. Limitaciones legales para cuyo cumplimiento se computan los bonos como capital.
+
+Los bonos subordinados podrán computarse en la forma señalada precedentemente, para los efectos de los siguientes límites:
+
+a) Límites de crédito de que tratan los N°s 1, 2 y 4 del artículo 84 de la Ley General de Bancos y los Capítulos 12-3, 12-4 y 12-5 de esta Recopilación Actualizada de Normas. Asimismo se computarán los bonos para los efectos del artículo 45 de la misma ley.
+
+b) Margen de obligaciones para con terceros a que se refieren los artículos 81 y 115 de la Ley General de Bancos y el Capítulo 12-2 de esta Recopilación.
+
+c) Límite de inversiones dispuesto en el artículo 83 de la Ley General de Bancos.
+
+d) Límites establecidos en las letras a) y c) del artículo 83 bis de la Ley General de Bancos, relativos a inversiones y acreencias en bancos extranjeros.
+
+e) Límite a que se refiere la letra a) del N° 5 del artículo 84 de la Ley General de Bancos, sobre bienes recibidos en pago, materia de que trata el Capítulo 10-1 de esta Recopilación.
+
+f) Límite establecido para las instituciones prestamistas de los créditos especiales de que trata el artículo 137 de la Ley General de Bancos.
+
+g) Límite relativo a la obligación de constituir reserva técnica, establecido en el artículo 80 bis de la Ley General de Bancos, tratado en el Capítulo 4-2 de esta Recopilación.
+
+h) Límite de avales y fianzas a que se refiere el Capítulo III.I.l del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 8-10 de esta Recopilación.
+
+i) Relación de operaciones activas y pasivas, establecida en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, para cuyo cumplimiento las instituciones deben atenerse a lo dispuesto en el Capítulo 12-9 de esta Recopilación.
+
+j) Límite de depósitos, captaciones y préstamos recibidos de otras instituciones financieras, establecido en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile y tratado en el Capítulo 12-7 de esta Recopilación.
+
+k) Límite para la adquisición de letras y bonos de propia emisión, establecido en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile.
+
+l) Límite de obligaciones con el Banco Central de Chile, dispuesto por el Instituto Emisor en el Capítulo II.B.6 de su Compendio de Normas Financieras y tratado en el Capítulo 12-6 de esta Recopilación.
+
+m) Límite de obligaciones con el exterior a que se refiere el Capítulo V.A.l del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 12-8 de esta Recopilación.
+
+n) Límite de compraventa a futuro de divisas, establecido en el Capítulo XXIII del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y en el Capítulo 13-2 de esta Recopilación.
+
+ñ) Límite sobre el cual deben informarse los mayores deudores para dar cumplimiento a lo dispuesto en el inciso cuarto del artículo 13 bis del D.L. 1.097 y en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, en la forma instruida en el Capítulo 18-9 de esta Recopilación.
+
+o) Límite de arbitrajes a futuro de que trata el Capítulo 13-32 de esta Recopilación Actualizada de Normas.
+
+4.3. Efectos de los bonos subordinados en las presunciones de los artículos 116 y 119, letra a) de la Ley General de Bancos.
+
+El artículo 116 de la Ley General de Bancos contiene dos presunciones construidas sobre la base de la relación deuda capital (artículo 81). Para estos efectos, deben considerarse los bonos subordinados como constitutivos de capital, según las reglas definidas anteriormente, por cuanto no cabría dar un tratamiento diferente al límite legal referido.
+
+En cambio, el artículo 119, letra a), construye una presunción de insolvencia sobre la base de la pérdida de una determinada parte del capital y reservas de la institución, la que debe aplicarse sobre tal concepto sin agregarle los bonos subordinados en forma alguna. En efecto, en primer lugar no se trata de una limitación legal ni de una presunción construida sobre un límite y, además, el fin preciso de los bonos subordinados es que se capitalicen en caso de insolvencia, supliendo la falta de capital. Obvio resulta que para estos efectos los bonos subordinados tampoco pueden considerarse pasivo exigible, salvo cuando deban así estimarse según las normas del artículo 68 de la Ley General de Bancos y las instrucciones contenidas en el N° 5 siguiente.
+
+5. Cómputo de los bonos como pasivo exigible para los efectos de los artículos 81, 115, 116 y 119 de la Ley General de Bancos.
+
+Atendido que sólo puede considerarse como capital para los efectos de límites legales el 85% del valor par de los bonos y hasta la concurrencia del 20% del capital pagado y reservas de la institución emisora, las instituciones financieras podrán excluir del cómputo de obligaciones para con terceros, afectas a los márgenes de que tratan los artículos 81 y 115 de la Ley General de Bancos y para los fines de los artículos 116 y 119 de la misma ley, la parte no vencida de los bonos subordinados, hasta por el equivalente al 23,529% de su capital pagado y reservas.
+
+La excepción antes señalada se aplicará durante toda la vigencia de los bonos, abarcando, por lo tanto, también el lapso en el cual ellos no pueden computarse como capital.
+
+Los bonos o cupones vencidos que no hayan sido pagados, al igual que aquella parte de los bonos por vencer que exceda del porcentaje antes indicado, calculado sobre el capital y reservas a la fecha del cómputo, deben considerarse para todos los efectos como obligaciones para con terceros.
+
+### 6. Reducción del capital pagado y reservas
+
+En el numeral 4.1 anterior y en el 5 precedente, se establecen los límites para la parte computable como capital y para aquella que no se considera como obligaciones para con terceros en los casos que se indican, equivalentes al 20% y al 23,529%, respectivamente, del capital pagado y reservas que exista a la fecha del cómputo.
+
+Sin embargo, si por cualquier causa se reduce el capital pagado y reservas, las instituciones financieras podrán utilizar esos límites, durante los seis meses siguientes de aquel en que se produzca la disminución, aplicando por consiguiente, los mencionados porcentajes sobre el monto del capital pagado y reservas que existía antes de la reducción.
+
+### 7. Instrucciones contables
+
+7.1. Emisión de los bonos.
+
+Los bonos subordinados se acreditarán en la cuenta "Bonos subordinados en circulación" que se informará en la partida 4190 "Bonos subordinados" que se incorpora al MB1.
+
+Los descuentos o las primas que resulten de la colocación de los bonos se imputarán, en el primer caso, en la cuenta "Descuentos en colocación de bonos subordinados" y, tratándose de primas, en la cuenta "Primas obtenidas en colocación de bonos subordinados", de las partidas 2120 ó 4120 del MB1, respectivamente.
+
+Estas diferencias con respecto al valor par se llevarán a resultados, mes a mes, linealmente en el período de duración del título, según la fecha de vencimiento pactada, a la cuenta "Diferencias de precio por emisión de bonos" de la partida 5620 del MR1 o a la cuenta "Beneficios obtenidos por emisión de bonos", de la partida 7620, según sea el caso.
+
+7.2. Intereses y reajustes.
+
+Los reajustes adeudados por los bonos en circulación se debitarán en la cuenta "Reajustes pagados por bonos subordinados" de la partida 5310 del MR1, con abono a la respectiva cuenta de "Reajustes por pagar" de la partida 4190 del MB1.
+
+Los intereses devengados por los bonos emitidos se debitarán en la cuenta "Intereses pagados por bonos subordinados" de la partida 5125 del MR1, con abono a la cuenta "Intereses por pagar bonos subordinados" que se reflejará en la partida 3819 que, con el mismo nombre, se incorpora al MB1.
+
+7.3. Vencimiento de los bonos.
+
+En las respectivas fechas de vencimiento, el importe que corresponda de los bonos de que se trata, será traspasado a la cuenta "Bonos subordinados vencidos por pagar". Esta cuenta, que se incluirá en la partida 3010 del MB1, se utilizará aun en el caso en que el monto por pagar corresponda sólo a intereses.
+
+7.4. Cuentas de orden para reflejar el cómputo como capital y la parte que corresponda computar como obligaciones con terceros.
+
+Las instituciones financieras que emitan bonos subordinados deberán registrar la parte computada como capital de acuerdo con las instrucciones del numeral 4.1 de este Capítulo, en la cuenta "Bonos subordinados computados como capital", de la partida 9700 "Valores complementarios para efectos de márgenes" que se incorpora al MB1, con abono a la cuenta "Responsabilidad por control de límites legales" de la partida 9900.
+
+El saldo de la cuenta "Bonos subordinados computados como capital" deberá reflejar, al término de cada mes, el 85% de aquella parte del capital, reajustes e intereses devengados a la fecha, para cuyo pago falten más de dos años, menos el saldo de la cuenta "Descuentos en emisión de bonos subordinados" a la misma fecha, o el 20% del capital pagado y reservas, si ese equivalente fuere menor, teniendo presente lo dispuesto en el N° 6 de este Capítulo.
+
+Asimismo, cuando corresponda, las instituciones deberán demostrar en la cuenta "Bonos subordinados computados como obligaciones", de la partida 9700 antes señalada, registrándolo también en la cuenta "Responsabilidad por control de límites legales", el monto equivalente al valor par de los bonos no vencidos (la suma de las partidas 4190 y 3819), menos el 23,529% del capital pagado y reservas, considerando para el efecto lo señalado en el N° 6 de este Capítulo, más el importe de los bonos o cupones vencidos no cobrados.
+
 CAPITULO 10-1 (Bancos y Financieras)
 
 MATERIA:
@@ -17232,77 +17376,33 @@ MATERIA:
 
 CAPITAL PAGADO Y RESERVAS PARA EFECTOS LEGALES Y REGLAMENTARIOS.
 
-1. Determinación del capital pagado y reservas para efectos de límites legales y
-
-reglamentarios.
+1. Determinación del capital pagado y reservas para efectos de límites legales y reglamentarios.
 
 1.1. Norma general.
 
-Para determinar el monto del capital pagado y reservas de un banco o sociedad
+Para determinar el monto del capital pagado y reservas de un banco o sociedad financiera, se sumarán los saldos que se encuentren registrados, conforme a las instrucciones impartidas por esta Superintendencia, en las cuentas que deben incluirse en las partidas 4305, 4310, 4315, 4320 y 4405 del formulario MB1.
 
-financiera, se sumarán los saldos que se encuentren registrados, conforme a las
+De conformidad con lo dispuesto en el artículo 31 bis de la Ley General de Bancos, las empresas bancarias constituidas en Chile que tengan sucursales en el exterior, deberán rebajar de su capital pagado y reservas, determinado según lo señalado en el inciso anterior, el capital asignado a cada sucursal que mantengan fuera del país.
 
-instrucciones impartidas por esta Superintendencia, en las cuentas que deben
+1.2. Cómputo de bonos subordinados como capital.
 
-incluirse en las partidas 4305, 4310, 4315, 4320 y 4405 del formulario MB1.
+De acuerdo con lo establecido en el artículo 68 de la Ley General de Bancos, las instituciones financieras que hayan emitido los bonos subordinados de que trata el Capítulo 9-6 de esta Recopilación Actualizada de Normas, computarán como capital parte de la obligación por estos bonos, para los efectos de encuadrarse dentro de los límites legales que se señalan en el Capítulo 9-6 de esta Recopilación.
 
-De conformidad con lo dispuesto en el artículo 31 bis de la Ley General de
+El monto computable como capital será equivalente al 85% de aquella parte del valor par de los bonos a la fecha del cómputo, para cuyo pago falten más de dos años, deducido el saldo de la cuenta "Descuentas en colocación de bonos subordinados" de que trata el mencionado Capítulo 9-6, cuando la colocación se hubiera hecho con un descuento sobre su valor par.
 
-Bancos, las empresas bancarias constituidas en Chile que tengan sucursales en el
+No obstante, la parte así computada no podrá superar el 20% del capital pagado y reservas de la sociedad emisora, entendiendo por tal el monto definido en el primer párrafo del numeral 1.1 del presente Capítulo. En caso de reducción del capital pagado y reservas, podrá considerarse, durante los seis meses siguientes, el porcentaje aplicado sobre el capital pagado y reservas existente antes de la disminución, de acuerdo con lo dispuesto en el N°6 del ya mencionado Capítulo 9-6.
 
-exterior, deberán rebajar de su capital pagado y reservas, determinado según lo
+1.3. Deducción al capital y reservas para los efectos del artículo 81 ó 115 de la Ley General de Bancos, de las inversiones en sociedades filiales o de apoyo.
 
-señalado en el inciso anterior, el capital asignado a cada sucursal que
+El capital que una institución financiera aporte a una sociedad, al amparo de lo dispuesto en el N° 11 bis o en el N° 15 bis del artículo 83 de la Ley General de
 
-mantengan fuera del país.
+Bancos, será deducido de su capital pagado y reservas para los efectos de la aplicación del margen a que se refieren los artículos 81 y 115 de dicha ley, cuando la empresa en la que participa el banco o la sociedad financiera tenga la calidad de sociedad filial de acuerdo con las disposiciones del artículo 86 de la Ley sobre Sociedades Anónimas. Sin embargo, en la medida en que el pasivo exigible de la sociedad filial no supere el monto de su propio capital pagado y reservas, dicha deducción se hará sólo parcialmente y de acuerdo con el monto delas obligaciones de la filial con terceros y con el porcentaje de participación de la institución financiera en el capital de su filial.
 
-1.2. Deducción al capital y reservas para los efectos del artículo 81 ó 115 de
+Para dar cumplimiento a lo anterior, el monto a deducir del capital y reservas de la institución financiera matriz se obtendrá multiplicando el porcentaje de participación que ésta tenga en el capital pagado de la filial, por el monto delos pasivos exigibles que esta última registre el último día del trimestre calendario inmediatamente anterior, excluidos los que correspondan a obligaciones con la propia institución financiera matriz.
 
-la Ley General de Bancos, de las inversiones en sociedades filiales o de apoyo.
+En todo caso, el monto máximo que las instituciones financieras deberán deducir de su capital pagado y reservas de conformidad con las normas precedentes, será equivalente al importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo del margen de endeudamiento, deducida la provisión que se encuentre constituida a esa fecha por la respectiva inversión.
 
-El capital que una institución financiera aporte a una sociedad, al amparo de lo
-
-dispuesto en el N° 11 bis o en el N° 15 bis del artículo 83 de la Ley General de
-
-Bancos, será deducido de su capital pagado y reservas para los efectos de la
-
-aplicación del margen a que se refieren los artículos 81 y 115 de dicha ley,
-
-cuando la empresa en la que participa el banco o la sociedad financiera tenga la
-
-calidad de sociedad filial de acuerdo con las disposiciones del artículo 86 de
-
-la Ley sobre Sociedades Anónimas. Sin embargo, en la medida en que el pasivo
-
-exigible de la sociedad filial no supere el monto de su propio capital pagado y
-
-reservas, dicha deducción se hará sólo parcialmente y de acuerdo con el monto
-
-delas obligaciones de la filial con terceros y con el porcentaje de
-
-participación de la institución financiera en el capital de su filial.
-
-Para dar cumplimiento a lo anterior, el monto a deducir del capital y reservas
-
-de la institución financiera matriz se obtendrá multiplicando el porcentaje de
-
-participación que ésta tenga en el capital pagado de la filial, por el monto
-
-delos pasivos exigibles que esta última registre el último día del trimestre
-
-calendario inmediatamente anterior, excluidos los que correspondan a
-
-obligaciones con la propia institución financiera matriz.
-
-En todo caso, el monto máximo que las instituciones financieras deberán deducir
-
-de su capital pagado y reservas de conformidad con las normas precedentes, será
-
-equivalente al importe en que la inversión se encuentre registrada en el activo
-
-a la fecha de cómputo del margen de endeudamiento, deducida la provisión que se
-
-encuentre constituida a esa fecha por la respectiva inversión.
+El monto que corresponde rebajar del capital pagado y reservas para establecer, al término de cada mes, aquel que debe considerarse para efectos del artículo 81 ó 115 de la Ley General de Bancos, según las instrucciones de este numeral, se registrará en la cuenta "Deducción del capital por participación en filiales", de la partida 9700, "Valores complementarios para efectos de márgenes", del MB1, con abono a la cuenta "Responsabilidad por control de límites legales", de la partida 9900.
 
 ### 2. Reparto de dividendos o remesas de utilidades
 
@@ -17514,81 +17614,23 @@ según se trate de un banco o de una sociedad financiera, respectivamente.
 
 ### 2. Determinación de las obligaciones
 
-Para establecer el monto de las obligaciones sujetas al margen de que tratan los
+Para establecer el monto de las obligaciones sujetas al margen de que tratan los artículos 81 y 115 de la Ley General de Bancos, se sumarán los saldos de las cuentas que deben demostrarse en las partidas 3005 a 3820 del MB1, exceptuada la partida 3819 "Intereses por pagar bonos subordinados" y las partidas 3430 y 3485 "Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central", hasta un año y a más de un año. Asimismo, se exceptuarán del cómputo los saldos de las cuentas "Redescuento documentos avalados-corresponsales ALADI" hasta un año y a más de un año, de las partidas 3405 y 3455, respectivamente.
 
-artículos 81 y 115 de la Ley General de Bancos, las instituciones financieras
+A lo anterior se sumará el saldo de la cuenta "Bonos subordinados computados como obligaciones", de la partida 9700.
 
-sumarán los saldos de las cuentas que se demuestran en las partidas 3005 a 3820,
+Además, se incluirán todas las cauciones y garantías registradas en cuentas dela partida 9290, por obligaciones que no se hayan computado al considerar laspartidas señaladas en el párrafo precedente.
 
-del formulario MB1, exceptuadas las partidas 3430 y 3485 "Obligaciones por
-
-equivalente divisas recuperadas y mantenidas en el Banco Central", hasta un año
-
-y a más de un año, y los saldos de las cuentas "Redescuento documentos avalados-
-
-corresponsales ALADI" hasta un año y a más de un año, de las partidas 3405 y
-
-3455 respectivamente.
-
-Además, se incluirán todas las cauciones y garantías registradas en cuentas dela
-
-partida 9290, por obligaciones que no se hayan computado al considerar
-
-laspartidas señaladas en el párrafo precedente.
-
-De la suma de los saldos antes mencionados, se deducirán los siguientes montos,
-
-cuando corresponda:
+De la suma de los saldos antes mencionados, se deducirán los siguientes montos, cuando corresponda:
 
 a) El saldo de la partida 1015 "Documentos a cargo de otros bancos";
 
-b) El saldo de la cuenta "‘Documentos deducibles de encaje a cargo de
+b) El saldo de la cuenta "‘Documentos deducibles de encaje a cargo de sucursales", de la partida 2115 del formulario MB1;
 
-sucursales", de la partida 2115 del formulario MB1;
+c) El valor par de los documentos registrados en la cuenta "Letras de crédito de propia emisión", de la partida 1735 del formulario MB1;
 
-c) El valor par de los documentos registrados en la cuenta "Letras de crédito de
+d) El valor par de los pagarés provenientes del refinanciamiento de reprogramación de deudas, a que se refiere el N° 5 del Capítulo II.B.5 y el N° 6 del Capítulo II.B.5.3 del Compendio de Normas Financieras del Banco Central de Chile, que mantenga la institución y que hayan sido obtenidos directamente del Instituto Emisor, aun en el caso en que dichos instrumentos estén vendidos con pacto de retrocompra a la fecha del cómputo. En el evento de que todo o parte de esos pagarés se hubieren aplicado a la adquisición de los certificados de depósito expresados en dólares estadounidenses, de que trata el título III de la Circular N° 2.088-527, de 24 de junio de 1985 y sus modificaciones, se podrá rebajar también, del referido endeudamiento, una cantidad igual al valor de los pagarés que se utilizaron en la compra de estos certificados de depósito. Este último importe debe establecerse en cada oportunidad, considerando los pagarés que se utilizaron y que se encuentren vigentes, por su valor par calculado a la fecha en que se determine el endeudamiento; y,
 
-propia emisión", de la partida 1735 del formulario MB1;
-
-d) El valor par de los pagarés provenientes del refinanciamiento de
-
-reprogramación de deudas, a que se refiere el N° 5 del Capítulo II.B.5 y el N° 6
-
-del Capítulo II.B.5.3 del Compendio de Normas Financieras del Banco Central de
-
-Chile, que mantenga la institución y que hayan sido obtenidos directamente del
-
-Instituto Emisor, aun en el caso en que dichos instrumentos estén vendidos con
-
-pacto de retrocompra a la fecha del cómputo. En el evento de que todo o parte de
-
-esos pagarés se hubieren aplicado a la adquisición de los certificados de
-
-depósito expresados en dólares estadounidenses, de que trata el título III de la
-
-Circular N° 2.088-527, de 24 de junio de 1985 y sus modificaciones, se podrá
-
-rebajar también, del referido endeudamiento, una cantidad igual al valor de los
-
-pagarés que se utilizaron en la compra de estos certificados de depósito. Este
-
-último importe debe establecerse en cada oportunidad, considerando los pagarés
-
-que se utilizaron y que se encuentren vigentes, por su valor par calculado a la
-
-fecha en que se determine el endeudamiento; y,
-
-e) El valor par de los pagarés "Acuerdo 1506" que mantenga la institución y que
-
-se hayan adquirido en la oportunidad de la venta de letras de crédito emitidas
-
-por la institución financiera, efectuada al Instituto Emisor, aunque ellos se
-
-encuentren vendidos con pacto de retrocompra a la fecha del cómputo del
-
-endeudamiento. En ningún caso se rebajarán los pagarés que hayan sido adquiridos
-
-a otras instituciones financieras o a terceros.
+e) El valor par de los pagarés "Acuerdo 1506" que mantenga la institución y que se hayan adquirido en la oportunidad de la venta de letras de crédito emitidas por la institución financiera, efectuada al Instituto Emisor, aunque ellos se encuentren vendidos con pacto de retrocompra a la fecha del cómputo del endeudamiento. En ningún caso se rebajarán los pagarés que hayan sido adquiridos a otras instituciones financieras o a terceros.
 
 ### 3. Saldos en moneda extranjera
 
@@ -20786,11 +20828,7 @@ efectos, debe darse a cada uno de dichos rubros.
 
 ### 2. Capital Pagado y Reservas
 
-El Capital Pagado y Reservas que se considerará para los efectos de que tratan
-
-estas instrucciones, será el que se definió en el Capítulo 12-2 de esta
-
-Recopilación de Normas.
+El Capital Pagado y Reservas que se considerará para los efectos de que tratan estas instrucciones, será el que se definió en el Capítulo 12-1 de esta Recopilación de Normas.
 
 ### 3. Inversiones en acciones, debentures y en Activo Fijo
 
@@ -20848,13 +20886,15 @@ Partida N° 3035
 
 Partida N° 3065
 
-Partidas N°s. 3075 y 3085
+Partidas N°s. 3075 y 3080
 
 Partidas N°s. 3105 a 3115
 
-Partidas N°s. 3455 a 3485
+Partidas N°s. 455 a 3485
 
-Partidas N°s. 3555 a 3570.
+Partidas N°s. 3555 a 3570
+
+Partidas N° 3819 y 4190, menos el saldo de la cuenta "Bonos subordinados computados como capital" de la partida 9700.
 
 ### 5. Préstamos y otras operaciones pagaderos en cuotas
 
@@ -20976,23 +21016,25 @@ De conformidad con lo dispuesto en la Circular N° 2302-715 de 16 de noviembre d
 
 Operaciones Pasivas.
 
-Partidas N°s. 3020 y 3025
+"Partidas N°s 3020 y 3025
 
 Partida N° 3035
 
 Partida N° 3065
 
-Partidas N°s. 3075 a 3485
+Partidas N°S 3075 a 3485
 
 Partida N° 3525
 
 Partida N° 3570
 
-Partidas N°s. 3605 a 3615
+Partidas N°s 3605 a 3615
 
-Partidas N°s. 3655 y 3660
+Partidas N°s 3655 y 3660
 
-Partida N° 4515 (deducido el saldo de la cuenta "Equivalente de divisas de Posición vendidas por recomprar D.L. 600", de la partida N° 2515 del formulario MB1).
+Partidas N°s 3819 y 4190, menos el saldo de la cuenta "Bonos subordinados computados como capital" de la partida 9700
+
+Partida N° 4515, menos el saldo de la cuenta "Equivalente de divisas de Posición vendidas por recomprar D.L. 600" de la partida 2515.
 
 Las obligaciones representadas por pactos de recompra establecidas en pesos nominales de instrumentos reajustables, emitidos por el Banco Central de Chile o por la Tesorería General de la República, deben ser consideradas como saldos no reajustables, por la forma de su pacto, convenido en términos de pesos nominales y, por lo tanto, no se computan dentro de los pasivos afectos a la relación de operaciones reajustables de que trata este título.
 
@@ -29954,105 +29996,41 @@ CAPITULO 13-23 (Bancos)
 
 MATERIA:
 
-OPERACIONES DE CAMBIO. COMPRA Y VENTA DE CONTRATOS DE MONEDA EXTRANJERA EN
+COMPRA Y VENTA DE CONTRATOS DE MONEDA EXTRANJERA EN BOLSAS OFICIALES EXTRANJERAS.
 
-BOLSAS OFICIALES EXTRANJERAS Y ARBITRAJES A FUTURO.
+Los bancos están facultados para comprar y vender por cuenta de ellos mismos, o bien por cuenta de terceros cuando actúen como banco designado, contratos a futuro de divisas en Bolsas Oficiales Extranjeras. Las operaciones que realicen por cuenta de terceros deberán ceñirse a las instrucciones contenidas en el Capítulo 13-21 de esta Recopilación, en tanto que para comprar y vender estos contratos por cuenta de ellos mismos, las empresas bancadas se atendrán a las siguientes instrucciones:
 
-### I. TRANSACCIONES POR CUENTA PROPIA EN BOLSAS OFICIALES EXTRANJERAS
+### 1. Condición para efectuar las operaciones
 
-### 1. Generalidades
+Las transacciones de compras y ventas de contratos a futuro de divisas en Bolsas Oficiales Extranjeras podrán realizarse por cuenta propia y con observancia de las normas del Capítulo VIII del Compendio de Normas de Cambios Internacionales del Banco Central de Chile en todo lo que sea pertinente, con el único objeto de cubrir el riesgo de variaciones de paridad cambiaría, derivado de la tenencia de activos pactados en monedas extranjeras distintas de aquellas en que estén convenidos los correspondientes pasivos.
 
-Los bancos quedan facultados para comprar y vender por cuenta de ellos mismos, o
+En consecuencia, deberán abstenerse de realizar estas operaciones en los casos en que no tengan esa clara finalidad.
 
-bien por cuenta de terceros cuando actúen como banco designado, contratos a
+2. Características de las operaciones a futuro que pueden realizar los bancos por cuenta propia.
 
-futuro de divisas en Bolsas Oficiales Extranjeras.
+Las compras y ventas de contratos a futuro de monedas que realicen los bancos serán, como es lo habitual en las operaciones de los mercados a futuro, sin entrega material de las monedas objeto de la transacción, liquidándose en la fecha de término las diferencias que pudieran resultar a favor o en contra de la institución financiera.
 
-Las referidas transacciones podrán realizarse por cuenta propia y con
-
-observancia de las normas del Capítulo VIII del Compendio de Normas de Cambios
-
-Internacionales en todo lo que sea pertinente, con el único objeto de cubrir el
-
-riesgo de variaciones de paridad cambiaría, derivado de la tenencia de activos
-
-pactados en monedas extranjeras distintas de aquéllas en que estén convenidos
-
-los correspondientes pasivos.
-
-En consecuencia, deberán abstenerse de realizar estas operaciones para sí mismos
-
-en los casos en que no tengan la clara finalidad señalada en el párrafo
-
-precedente.
-
-2. Características de las operaciones a futuro que pueden realizar los bancos
-
-por cuenta propia.
-
-Las compras y ventas de contratos a futuro de monedas que realicen los bancos
-
-serán, como es lo habitual en las operaciones de los mercados a futuro, sin
-
-entrega material de las monedas objeto de la transacción, liquidándose en la
-
-fecha de término las diferencias que pudieran resultar a favor o en contra de la
-
-institución financiera.
-
-Estas operaciones sólo se podrán realizar por intermedio de corredores
-
-autorizados para operar en Bolsas Oficiales Extranjeras que se encuentren
-
-registrados en el Banco Central de Chile y se harán sobre la base de contratos
-
-innominados, de acuerdo con la reglamentación y procedimientos usuales en esas
-
-Bolsas.
+Estas operaciones sólo se podrán realizar por intermedio de corredores autorizados para operar en Bolsas Oficiales Extranjeras que se encuentren registrados en el Banco Central de Chile y se harán sobre la base de contratos innominados, de acuerdo con la reglamentación y procedimientos usuales en esas Bolsas.
 
 ### 3. Acceso al mercado de divisas
 
-De conformidad con lo dispuesto en el Capítulo VIII del Compendio de Normas de
+De conformidad con lo dispuesto en el Capítulo VIII del Compendio de Normas de Cambios Internacionales los bancos, mediante la autorización que les otorga el Banco Central de Chile para realizar estas operaciones, tienen acceso al mercado de divisas para efectuar remesas en moneda extranjera destinadas a:
 
-Cambios Internacionales los bancos, mediante la autorización que les otorga el
+- **a)** enterar los márgenes de garantía que le soliciten los corredores;
 
-Banco Central de Chile para realizar estas operaciones, tienen acceso al mercado
+- **b)** pagar eventuales pérdidas por fluctuaciones de la paridad de las monedas extranjeras transadas a futuro;
 
-de divisas para efectuar remesas en moneda extranjera destinadas a: a)
+- **c)** pagar comisiones de corredores y gastos de correo y de comunicaciones en general; y
 
-enterarlos márgenes de garantía que le soliciten los corredores; b) pagar
-
-eventuales pérdidas por fluctuaciones de la paridad de las monedas extranjeras
-
-transadas a futuro; c) pagar comisiones de corredores y gastos de correo y de
-
-comunicaciones en general; y d) pagar el capital e intereses de los créditos en
-
-moneda extranjera contratados y utilizados para financiar obligaciones de pago
-
-derivadas de transacciones a futuro en Bolsas Oficiales Extranjeras.
+- **d)** pagar el capital e intereses de los créditos en moneda extranjera contratados y utilizados para financiar obligaciones de pago derivadas de transacciones a futuro en Bolsas Oficiales Extranjeras.
 
 ### 4. Obligación de liquidar los ingresos obtenidos
 
-Los bancos están obligados a efectuar el retorno y liquidación de las divisas
-
-provenientes de devoluciones de márgenes de garantía, de las utilidades por
-
-fluctuaciones de paridad y cualesquiera otros haberes originados directa o
-
-indirectamente en las operaciones de compra o venta de contratos a futuro de
-
-monedas extranjeras en Bolsas Oficiales Extranjeras, a menos que las referidas
-
-divisas sean aplicadas a la amortización de los créditos en moneda extranjera
-
-utilizados en el pago de obligaciones derivadas de la compra o venta de nuevos
-
-contratos de compra o venta a futuro de monedas extranjeras.
+Los bancos están obligados a efectuar el retorno y liquidación de las divisas provenientes de devoluciones de márgenes de garantía, de las utilidades por fluctuaciones de paridad y cualesquiera otros haberes originados directa o indirectamente en las operaciones de compra o venta de contratos a futuro de monedas extranjeras en Bolsas Oficiales Extranjeras, a menos que las referidas divisas sean aplicadas a la amortización de los créditos en moneda extranjera utilizados en el pago de obligaciones derivadas de la compra o venta de nuevos contratos de compra o venta a futuro de monedas extranjeras.
 
 ### 5. Normas contables
 
-Los bancas registrarán las operaciones de que se trata, de la siguiente forma:
+Los bancos registrarán las operaciones de que se trata, de la siguiente forma:
 
 5.1. Garantías otorgadas a Corredores.
 
@@ -30060,39 +30038,35 @@ Los bancas registrarán las operaciones de que se trata, de la siguiente forma:
 
 a) Moneda extranjera.
 
-Debe: "Conversión Mercado Bancario" de la partida 2505 ó 4505 del formulario MB1.
+Debe: "Conversión Mercado Bancario" de la partida 2505 ó 4505 del MB1.
 
-Haber: "Conversión-Divisas para garantía contratos a futuro" que se crea para tal efecto, cuyo saldo se demostrará en la partida 4525 del formulario MB1.
+Haber: "Conversión-Divisas para garantía contratos a futuro", de la partida 4525 del MB1.
 
 En estas cuentas se registrará el importe de la moneda extranjera adquirida con cargo a la Posición de Cambios para enterar el depósito destinado a cumplir los márgenes de garantía exigidos para las Bolsas Oficiales Extranjeras, sobre los contratos vigentes.
 
 b) Moneda chilena.
 
-Debe: "Cambio-Divisas para garantía contratos a futuro", que se crea con ese objeto, la que será demostrada en la partida 2525 del formulario MB1.
+Debe: "Cambio-Divisas para garantía contratos a futuro", de la partida 2525 del MB1.
 
-Haber: "Cambio Mercado Bancario" de la partida 2505 ó 4505 del formulario MB1.
+Haber: "Cambio Mercado Bancario" de la partida 2505 ó 4505 del MB1.
 
-Corresponde contabilizar en estas cuentas el equivalente en pesos moneda chilena pagado por la adquisición de la moneda extranjera, para constituir los depósitos destinados a cumplir con los márgenes de garantía por los contratos de compra o
-
-venta a futuro de moneda extranjera vigentes.
+Corresponde contabilizar en estas cuentas el equivalente en pesos moneda chilena pagado por la adquisición de la moneda extranjera, para constituir los depósitos destinados a cumplir con los márgenes de garantía por los contratos de compra o venta a futuro de moneda extranjera vigentes.
 
 5.1.2. Constitución de la garantía.
 
 a) En efectivo:
 
-Debe: "Garantías en efectivo por contratos a futuro de monedas extranjeras", que se habilita con esa finalidad, cuyo saldo será demostrado en la partida 1775 del formulario MB1.
+Debe: "Garantías en efectivo por contratos a futuro de monedas extranjeras", de la partida 1775 del MB1.
 
-Haber: La cuenta que corresponda por el giro de la moneda extranjera para entregar el importe que se constituirá para cumplir con el margen de garantía delos contratos a futuro vigentes.
+Haber: La cuenta que corresponda por el giro de la moneda extranjera para entregar el importe que se constituirá para cumplir con el margen de garantía de los contratos a futuro vigentes.
 
-b) Carta de Crédito Stand By.
+b) Carta de Crédito Stand By:
 
-Debe: "Cauciones otorgadas por contratos a futuro moneda extranjera", cuyo saldo se demostrará en la partida 9290 del formulario MB1.
+Debe: "Cauciones otorgadas por contratos a futuro moneda extranjera", de la partida 9290 del MB1.
 
-Haber: "Responsabilidad por cauciones otorgadas por contratos a futuro moneda extranjera", la que será reflejada en la partida 9900 del formulario MB1.
+Haber: "Responsabilidad por cauciones otorgadas por contratos a futuro moneda extranjera", de la partida 9900 del MB1.
 
-Quedará registrado en estas cuentas el importe en moneda extranjera de las cartas de crédito u otros documentos emitidos por el banco a favor del respectivo corredor de Bolsa Oficial Extranjera, para cumplir el margen de garantía de los contratos vigentes de compra o venta a futuro de moneda
-
-extranjera.
+Quedará registrado en estas cuentas el importe en moneda extranjera de las cartas de crédito u otros documentos emitidos por el banco a favor del respectivo corredor de Bolsa Oficial Extranjera, para cumplir el margen de garantía de los contratos vigentes de compra o venta a futuro de moneda extranjera.
 
 5.2. Compra y venta de contratos a futuro.
 
@@ -30100,31 +30074,27 @@ Los contratos de compra o venta a futuro de moneda extranjera comprenden además
 
 5.2.1. Compra de contratos a futuro.
 
-a) por los contratos de compra en la moneda adquirida.
+a) por los contratos de compra en la moneda adquirida. Debe: "Contratos a futuro moneda extranjera adquiridos" de la partida 9540.
 
-Debe: "Contratos a futuro moneda extranjera adquiridos", cuenta cuyo saldo se demostrará en la partida 9540 que, con el mismo nombre, se crea con ese objeto.
-
-Haber: "Responsabilidad por contratos a futuro moneda extranjera vigentes". Esta cuenta se incluirá en la partida 9900 del formulario MB1.
+Haber: "Responsabilidad por contratos a futuro moneda extranjera vigentes" de la partida 9900 del MB1.
 
 b) por el contravalor del contrato en la moneda del precio pactado.
 
-Debe: "Contravalor de contratos a futuro moneda extranjera comprados". El saldo de esta cuenta se demostrará en la partida 9545 que con el nombre de "Contravalor de contratos a futuro moneda extranjera vigentes", se crea en el formulario MB1.
+Debe: "Contravalor de contratos a futuro moneda extranjera comprados" de la partida 9545 "Contravalor de contratos a futuro moneda extranjera vigentes", del MB1.
 
-Haber: "Responsabilidad por contravalor contratos a futuro moneda extranjera vigentes", de la partida 9900, del formulario MB1.
+Haber: "Responsabilidad por contravalor contratos a futuro moneda extranjera vigentes", de la partida 9900, del MB1.
 
-5.2.2. Venta de contratos a futuro.
+5.2.2. Venta de contratas a futuro.
 
-a) por los contratos de venta, en la moneda vendida.
+a) por los contratos de venta, en la moneda vendida. Debe: "Contratos a futuro moneda extranjera vendidos", de la partida 9550 del MB1.
 
-Debe: "Contratos a futuro moneda extranjera vendidos", cuenta que se demostrará en la partida 9550 que se crea con igual nombre en el formulario MB1.
-
-Haber: "Responsabilidad por contratos a futuro moneda extranjera vigentes", de la partida 9900 del formulario MB1.
+Haber: "Responsabilidad por contratos a futuro moneda extranjera vigentes", de la partida 9900 del MB1.
 
 b) Por el contravalor del contrato en la moneda del precio pactado.
 
-Debe: "Contravalor contratos a futuro moneda extranjera vendidos", cuyo saldo se demostrará en la partida 9545 del formulario MB1.
+Debe: "Contravalor contratos a futuro moneda extranjera vendidos", de la partida 9545 del MB1.
 
-Haber: "Responsabilidad por contravalor contratos a futuro moneda extranjera vigentes", de la partida 9900 del formulario MB1.
+Haber: "Responsabilidad por contravalor contratos a futuro moneda extranjera vigentes", de la partida 9900 del MB1.
 
 5.3. Remesas durante la vigencia de los contratos.
 
@@ -30150,7 +30120,7 @@ Haber: - "Utilidades por contratos a futuro", de la partida 7710 del MR1, o bien
 
 - "Cambio-Divisas para garantía contratos a futuro".
 
-5.3.2. Importes remesados al corredor.
+5.3.2. Importes remesados al corredor,
 
 a) Moneda extranjera.
 
@@ -30172,7 +30142,7 @@ Haber: - "Cambio Mercado Bancario".
 
 5.4. Liquidación de los contratos.
 
-La liquidación de los contratos a futuro en sus fechas de vencimiento dará lugar a la reversión de los asientos contables señalados en los numerales 5.2.1 y 5.2.2 de este título, según corresponda. Además, se procederá a revertir, cada vez que sea pertinente, los asientos relativos a las garantías que se mantuvieren registradas por los contratos que se liquidan.
+La liquidación de los contratos a futuro en sus fechas de vencimiento dará lugar a la reversión de los asientos contables señalados en los numerales 5.2.1 y 5.2.2, según corresponda. Además, se procederá a revertir, cada vez que sea pertinente, los asientos relativos a las garantías que se mantuvieren registradas por los contratos que se liquidan.
 
 Simultáneamente, los bancos liquidarán, en los casos en que proceda, las diferencias que resulten a su favor o sean de su cargo, las que serán registradas de la siguiente forma:
 
@@ -30180,21 +30150,19 @@ Simultáneamente, los bancos liquidarán, en los casos en que proceda, las difer
 
 a) Moneda extranjera.
 
-Debe: - La cuenta que corresponda por la recepción de la diferencia, o bien si ésta se abona a la garantía constuida,
+Debe: - La cuenta que corresponda por la recepción de la diferencia, o bien si ésta se abona a la garantía constituida,
 
 - "Garantías en efectivo por contratos a futuro de monedas extranjeras".
 
-Haber: - "Conversión Mercado Bancario", en caso de recibirse y procederse a su liquidación o bien,
+Haber: - "Conversión Mercado Bancario", en caso de recibirse y procederse a su liquidación, o bien,
 
 - "Conversión-Divisas para garantía contratos a futuro", si se destinaren a incrementar la garantía constituida.
 
-b) Moneda chilena.
-
-Debe: - "Cambio Mercado Bancario", o bien,
+b) Moneda chilena. Debe: - "Cambio Mercado Bancario", o bien,
 
 - "Cambio-Divisas para garantía contratos a futuro".
 
-Haber: - "Utilidades por contratos a futuro", cuenta que se demostrará en la partida 7710 del MR1.
+Haber: - "Utilidades por contratos a futuro", de la partida 7710 del MR1.
 
 5.4.2. Diferencias de cargo del banco.
 
@@ -30210,13 +30178,11 @@ Haber: - La cuenta que corresponda por el giro para pagar la respectiva diferenc
 
 b) Moneda chilena.
 
-Debe: "Pérdidas por contratos a futuro", de la partida 5710 del MR1.
+Debe: - "Pérdidas por contratos a futuro", de la partida 5710 del MR1.
 
 Haber: - "Cambio Mercado Bancario", o bien,
 
 - "Cambio-Divisas para garantía contratos a futuro".
-
-En consecuencia, se remplazan las hojas N°s 6, 7 y 8 del Capítulo 13-23 de la Recopilación ya mencionada, por las que se adjuntan a esta Circular. Además, se agregan al mismo Capítulo las hojas 6a y 6b.
 
 5.5. Pago de comisiones a los corredores.
 
@@ -30224,7 +30190,7 @@ a) Moneda extranjera.
 
 Por la venta con cargo a la Posición de Cambios de la moneda extranjera destinada al pago de las comisiones adeudadas:
 
-Debe: "Conversión Mercado Bancario".
+Debe: "Conversión mercado bancario".
 
 Haber: La cuenta que corresponda por el giro para efectuar dicho pago.
 
@@ -30232,17 +30198,17 @@ b) Moneda chilena.
 
 Por el equivalente en pesos, moneda chilena, de la moneda extranjera adquirida para el pago de las comisiones adeudadas:
 
-Debe: "Comisiones pagadas por contratos a futuro", que se habilita con esa finalidad, cuyo saldo será demostrado en la partida 5530 del formulario MR1.
+Debe: "Comisiones pagadas por contratos a futuro", de la partida 5530 del MR1.
 
-Haber: "Cambio Mercado Bancario".
+Haber: "Cambio mercado bancario".
 
 5.6. Gastos de correo y de comunicaciones en general.
 
 a) Moneda extranjera.
 
-Por la venta de la moneda extranjera para pagar los gastos generados por estas operaciones y cobrados por los corredores que han intervenido en ellas:
+Por la venta de la moneda extranjera para pagar los gastos generados por estas operaciones y cobrados por los corredores que han intevenido en ellas:
 
-Debe: "Conversión Mercado Bancario".
+Debe: "Conversión mercado bancario".
 
 Haber: La cuenta que corresponda por el giro para pagar el respectivo gasto.
 
@@ -30252,7 +30218,7 @@ Por el equivalente de la moneda extranjera pagado para la cobertura de los gasto
 
 Debe: La cuenta de resultado que proceda según el gasto de que se trate.
 
-Haber: "Cambio Mercado Bancario".
+Haber: "Cambio mercado bancario".
 
 5.7. Ajustes mensuales.
 
@@ -30260,333 +30226,47 @@ El último día de cada mes los bancos procederán a calcular y registrar provis
 
 Al mes siguiente, antes de registrar el nuevo ajuste o al efectuar la liquidación de los respectivos contratos, procederán a revertir el que hayan efectuado en el mes precedente.
 
-Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo o abono, según proceda, a la cuenta "Variación provisional de contratos a futuro" que se crea con ese objeto, cuyo saldo se demostrará en la partida 2120 ó 4120 del formulario MB1, y con abono a la cuenta "Utilidades por variación de paridad de contratos a futuro" o con cargo "Pérdidas por variación de paridad de contratos a futuro", según corresponda,que se incluirán en las partidas 7710 y 5710 del formulario MR1, respectivamente.
+Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo o abono, según proceda, a la cuenta "Variación provisional de contratos a futuro", cuyo saldo se demostrará en la partida 2120 ó 4120 del MB1, y con abono a la cuenta "Utilidades por variación de paridad de contratos a futuro" o con cargo a "Pérdidas por variación de paridad de contratos a futuro", según proceda, de las partidas 7710 y 5710 del MR1, respectivamente.
 
 El ajuste se realizará sobre la base de las paridades que tengan entre sí las monedas involucradas, según las equivalencias que publica diariamente el Banco Central de Chile y que correspondan, en este caso, a la publicada en la fecha en que se realice el ajuste.
 
-Para los efectos de calcular dicha variación en términos de pesos moneda chilena, se considerará el efecto de la variación de paridad, sobre la moneda extranjera de contrapartida, esto es, la que debe recibirse en pago de la moneda que se vende o la que debe entregarse en pago de la moneda que se compra. El tipo de cambio que se aplicará para la conversión a moneda nacional, será el que haya dado a conocer esta Superintendencia para fines de representación contable,vigente a la fecha del ajuste.
+Para los efectos de calcular dicha variación en términos de pesos moneda chilena, se considerará el efecto de la variación de paridad, sobre la moneda extranjera de contrapartida, esto es, la que debe recibirse en pago de la moneda que se vende o la que debe entregarse en pago de la moneda que se compra. El tipo de cambio que se aplicará para la conversión a moneda nacional, será el que haya dado a conocer esta Superintendencia para fines de representación contable, vigente a la fecha del ajuste.
 
-Por otra parte, los bancos ajustarán el saldo de la cuenta "Cambio-Divisas para Garantía contratos a futuro", el último día de cada mes, de tal manera que éste refleje el equivalente en pesos del saldo de la cuenta "Conversión-Divisas para Garantía contratos a futuro", al tipo de cambio fijado por esta Superintendencia para tal efecto. Dicho ajuste se realizará con abono a la cuenta "Utilidades por variación de tipo de cambio de recursos en moneda extranjera liquidadas" de la partida 7715 del formulario MR1, o bien, con cargo a "Pérdidas por variación de tipo de cambio de recursos en moneda extranjera liquidados" de la partida 5715 de dicho formulario.
+Por otra parte, los bancos ajustarán el saldo de la cuenta "Cambio-Divisas para Garantía contratos a futuro", el último día de cada mes, de tal manera que éste refleje el equivalente en pesos del saldo de la cuenta "Conversión-Divisas para Garantía contratos a futuro", al tipo de cambio fijado por esta Superintendencia para tal efecto. Dicho ajuste se realizará con abono a la cuenta "Utilidades por variación de tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715 del MR1, o bien, con cargo a "Pérdidas por variación de tipo de cambio de recursos en moneda extranjera liquidados" de la partida 5715.
 
 ### 6. Antecedentes de las operaciones a futuro
 
-Los bancos deberán abrir carpetas separadas para las compras de contratos a
+Los bancos deberán abrir carpetas separadas para las compras de contratos a futuro y para las ventas de contratos a futuro.
 
-futuro y para las ventas de contratos a futuro.
-
-En dichas capetas deberán mantener las documentos en que conste la realización
-
-de dichas operaciones, las comunicaciones mantenidas con el respectivo corredor
-
-y los antecedentes relativos a las remesas de divisas para constituir
-
-garantías,pagar diferencias por variación de paridad u otros conceptos, como
-
-asimismo, los relativos a los importes recibidos por recuperación de garantías
-
-que hayan constituido o por variación de paridad de los contratos a futuro.
+En dichas carpetas deberán mantener los documentos en que conste la realización de dichas operaciones, las comunicaciones mantenidas con el respectivo corredor y los antecedentes relativos a las remesas de divisas para constituir garantías, pagar diferencias por variación de paridad u otros conceptos, como asimismo, los relativos a los importes recibidos por recuperación de garantías que hayan constituido o por variación de paridad de los contratos a futuro.
 
 ### 7. Límites que las afectan
 
-Las instituciones bancarias que realicen este tipo de operaciones quedarán
+Las instituciones bancarias que realicen este tipo de operaciones quedarán sometidas a las regulaciones y normas establecidas para ellas por el Banco Central de Chile.
 
-sometidas a las regulaciones y normas establecidas para ellas por el Banco
+Estas operaciones no se considerarán para los efectos de los límites individuales de crédito o de endeudamiento, de que tratan los artículos 84 y 81 de la Ley General de Bancos. No obstante, los saldos registrados en la cuenta de orden "Cauciones otorgadas por contratos a futuro moneda extranjera", de la partida 9290 del MB1, deben incluirse para los efectos del límite de obligaciones con terceros, del mencionado artículo 81, en concordancia con las normas establecidas en el Capítulo 12-2 de esta Recopilación.
 
-Central de Chile. No obstante, cuando el monto total de contratos vigentes de
-
-una determinada institución exceda de una vez su capital pagado y
-
-reservas,deberá informar a esta Superintendencia los contratos de compras y de
-
-ventas que mantenga vigentes, con indicación de: a) fecha de celebración; b)
-
-monto en la moneda respectiva de la compra o venta; c) monto del margen de
-
-garantía comprometido y forma en que está constituido; d) moneda de
-
-contrapartida; y, e)fecha de vencimiento pactada.
-
-Esta información deberá entregarse dentro de los tres días hábiles bancarios
-
-siguientes de alcanzado el límite señalado y deberá, de ahí en
-
-adelante,repetirse, mientras se mantenga por sobre el nivel indicado, al cierre
-
-del segundo y último día viernes de cada mes o del hábil inmediatamente
-
-anterior, si aquél fuere festivo.
-
-Estas operaciones no se considerarán para los efectos de los límites
-
-individuales de crédito o de endeudamiento, de que tratan los artículos 84 y 81
-
-de la Ley General de Bancos. No obstante, esta Superintendencia reitera a las
-
-entidades bancarias de que la compra o venta de monedas extranjeras, mediante
-
-contratos a futuro, debe obedecer en cada caso, a una necesidad efectiva de
-
-cubrir un riesgo de cambio, esto es, que cada operación que se realice tenga
-
-como respaldo un compromiso efectivo de la empresa, en la moneda de que se
-
-trate, reflejado en sus activos o pasivos, de manera que por ningún motivo se
-
-lleguen a realizar por un mero afán especulativo, como lo sería aprovechar
-
-momentáneas situaciones atractivas o convenientes del mercado.
-
-No obstante, los saldos registrados en la cuenta de orden "Cauciones otorgadas
-
-por contratos a futuro moneda extranjera", de la partida 9290 del formulario
-
-MB1, se incluirán para los efectos del límite de obligaciones con terceros, del
-
-#### Artículo 81
-
-de la Ley General de Bancos.
-
-Este Organismo fiscalizador estará atento a los compromisos que los bancos
-
-contraigan por este tipo de operaciones y podrá exigir en cualquier momento los
-
-antecedentes y explicaciones sobre ellas.
+En cualquier caso, la compra o venta de monedas extranjeras mediante contratos a futuro, debe obedecer a una necesidad efectiva de cubrir un riesgo de cambio, esto es, que cada operación que se realice tenga como respaldo un compromiso efectivo de la empresa, en la moneda de que se trate, reflejado en sus activos y pasivos, de manera que por ningún motivo se lleguen a realizar por un mero afán especulativo, como lo sería aprovechar momentáneas situaciones atractivas o convenientes del mercado.
 
 ### 8. Información al Banco Central de Chile
 
-Los bancos que realicen compras o ventas de contratos a futuro de monedas
+Los bancos que realicen compras o ventas de contratos a futuro de monedas extranjeras, deberán presentar al Banco Central de Chile, dentro de los plazos que en cada caso se indican, la información que se establece en el Capítulo VIII del Compendio de Normas de Cambios Internacionales o la que, de acuerdo a sus facultades, solicite el Instituto Emisor.
 
-extranjeras, deberán presentar al Banco Central de Chile, dentro de los plazos
+### 9. Información a esta Superintendencia
 
-que en cada caso se indican, la información que se establece en el Capítulo VIII
+Sin perjuicio de los antecedentes y explicaciones que sobre las operaciones puede pedir en cualquier momento esta Superintendencia, los bancos deberán entregar a este Organismo la siguiente información relativa a los contratos vigentes, cuando el monto total de ellos exceda de una vez su capital pagado y reservas:
 
-del Compendio de Normas de Cambios Internacionales o la que, de acuerdo a sus
+- **a)** fecha de celebración;
 
-facultades, solicite el Instituto Emisor.
+- **b)** monto en la moneda respectiva de la compra o venta;
 
-### II. ARBITRAJES A FUTURO
+- **c)** monto del margen de garantía comprometido y forma en que está constituido;
 
-### 1. Generalidades
+- **d)** moneda de contrapartida; y
 
-Los bancos podrán realizar arbitrajes a futuro con bancas situados en Chile o en
+- **e)** fecha de vencimiento pactada.
 
-el exterior, como también con entidades financieras del exterior que hayan sido
-
-autorizadas por la Dirección Internacional del Banco Central de Chile, con el
-
-único objeto de cubrir los riesgos de cambio que se generan cuando sus
-
-obligaciones en monedas extranjeras están expresadas en una moneda distinta de
-
-aquélla en que están pactados los correspondientes activos.
-
-En consecuencia, las empresas bancarias deben limitarse a realizar estos
-
-arbitrajes a futuro sólo con los fines señalados precedentemente y únicamente
-
-hasta por los montos necesarios para cubrir los riesgos de variaciones
-
-cambiarias sobre la parte que mantengan descubierta de sus relaciones entre
-
-activos y pasivos en las distintas monedas extranjeras, como lo señala el
-
-Acuerdo del Banco Central de Chile, pudiendo considerarse además, para esos
-
-efectos, los correspondientes intereses.
-
-### 2. Monedas que pueden ser arbitradas
-
-Las entidades bancarias podrán arbitrar a futuro solamente las monedas
-
-extranjeras por las que estén expuestas a un riesgo de cambio, derivado de la
-
-situación descrita en el N° 1 precedente, esto es, mantener una posición
-
-descubierta en determinada moneda extranjera. A vía de ejemplo, si un banco, de
-
-común acuerdo con sus acreedores, cambió la denominación de sus pasivos de
-
-dólares norteamericanos a marcos alemanes, manteniendo sus activos denominados
-
-en dólares de Estadas Unidos, podrá comprar para recibir en fecha futura marcos
-
-alemanes y vender para entregar también en fecha futura, dólares
-
-estadounidenses, debiendo pactarse ambas operaciones simultáneamente y con el
-
-mismo plazo de entrega y recepción de las divisas comprometidas.
-
-En caso que alguno de los referidos arbitrajes corresponda a monedas extranjeras
-
-de "libre disposición" a que se refiere el Capítulo XXX del Compendio de Normas
-
-de Cambios Internacionales, deberán atenerse a las instrucciones contenidas en
-
-el Capítulo 13-1 de esta Recopilación de Normas, especialmente en lo relativo
-
-ala prohibición de vender divisas integrantes de la Posición de Cambios, para
-
-adquirir alguna de las monedas calificadas como de "libre disposición".
-
-### 3. Datos mínimos que debe mencionar todo arbitraje a futuro
-
-Las empresas bancarias que contraten arbitrajes a futuro deberán cuidar que en
-
-cada caso se estipulen claramente, por lo menos, los siguientes datos:
-
-a) Entidad bancaria o financiera con la que se contrate el arbitraje;
-
-b) Montas y nombres de las monedas extranjeras involucradas;
-
-c) Paridad convenida;
-
-d) Fecha en que el arbitraje haya sido contratado; y,
-
-e) Fecha pactada para la entrega de las divisas respectivas.
-
-### 4. Plazo a que se pueden pactar los arbitrajes a futuro
-
-El plazo que se pacte para la entrega y recepción de las divisas involucradas en
-
-los arbitrajes a futuro, será aquél que acuerden las partes en el momento de
-
-concertar la operación respectiva.
-
-### 5. Límites que afectan a estas operaciones
-
-En consideración a las especiales características de estas operaciones, que dan
-
-origen coetáneamente a una obligación del banco con su contra parte y a un
-
-derecho del mismo banco sobre dicha contraparte por los compromisos que deben
-
-cumplirse en forma simultánea, de entregar la moneda vendida y de recibir la
-
-moneda adquirida, esta Superintendencia ha resuelto que, en lo sucesivo, ellas
-
-no se consideren para los efectos de los márgenes de los artículos 81 y 84 de la
-
-Ley General de Bancos.
-
-No obstante lo anterior, ningún banco podrá mantener vigentes, con una misma
-
-institución bancaria del país o del exterior o entidad financiera autorizada del
-
-extranjero, contratos por arbitrajes a futuro que excedan con cada una de esas
-
-entidades, de una suma equivalente al 25% de su capital pagado y reservas.
-
-### 6. Posición de cambios
-
-Las divisas sujetas a Posición de Cambios, que los bancos arbitren a futuro, se
-
-incluirán en el "Informe Diario de Posición y Operaciones de Cambios
-
-Internacionales" sólo una vez que se haya cumplido el plazo de entrega acordado.
-
-En esa fecha los bancos comunicarán al Banco Central de Chile el arbitraje
-
-correspondiente, mediante emisión de las respectivas "Planillas de Operación de
-
-Cambios-Comercio Invisible". Se exceptúan de esta declaración aquellas
-
-operaciones que versen exclusivamente sobre divisas de "libre disposición", en
-
-la parte que afecte a dichas monedas, en conformidad con las instrucciones que
-
-respecto de ellas se impartieron en el ya citado Capítulo 13- 1.
-
-### 7. Contabilización
-
-Los arbitrajes a futuro se contabilizarán en la forma que a continuación se
-
-indica:
-
-7.1. Contratación del arbitraje.
-
-7.1.1. Por la moneda extranjera que se adquiere.
-
-Debe: "Deudores por arbitrajes a futuro" de la partida 2125 del formulario MB1.
-
-Haber: - "Divisas arbitradas a futuro" de la partida 2525 ó 4525 del formulario
-
-MB1, o bien,
-
-- "Conversión obligaciones externas reestructuradas" de la partida 2510 ó 4510
-
-del MB1, cuando se trate de obligaciones correspondientes a la deuda externa
-
-renegociada.
-
-7.1.2. Por la moneda extranjera que se vende.
-
-Debe: - "Divisas arbitradas a futuro", o bien,
-
-- "Conversión obligaciones externas reestructuradas", cuando se trate de activos
-
-que han quedado denominados en una moneda extranjera distinta a la de la
-
-correspondiente obligación, como consecuencia de la renegociación de la deuda
-
-externa.
-
-Haber: "Adeudado por arbitrajes a futuro" de la partida 4125 del formulario MB1.
-
-Además, en los casos que proceda, junto con efectuar los asientos señalados en
-
-este numeral 7.1 se deberán cursar los asientos contables que correspondan para
-
-revertir los respectivos importes en moneda chilena registrados en las cuentas
-
-"Cambio obligaciones externas reestructuradas" de la partida 2510 ó 4510 del
-
-formulario MB1.
-
-7.2. Entrega y recepción de las monedas arbitradas.
-
-En la fecha de vencimiento de los arbitrajes a futuro, las empresas bancarias
-
-revertirán los asientos contables señalados en los numerales 7.1.1 y 7.1.2
-
-precedentes y efectuarán, simultáneamente, la siguiente contabilización, acorde
-
-con la moneda extranjera que deban tanto recibir como entregar en esa fecha.
-
-7.2.1. Por la moneda que se recibe.
-
-Debe: La cuenta en la que se reciba el abono por la moneda adquirida.
-
-Haber: "Conversión Mercado Bancario" de la partida 2505 ó 4505 del formulario
-
-MB1. En el caso de tratarse de "divisas de libre disposición", se acreditará la
-
-cuenta "Conversión mercado de divisas de libre disposición" de la partida 2510 ó
-
-4510 del formulario MB1.
-
-7.2.2. Por la moneda que se entrega.
-
-Debe: "Conversión Mercado Bancario". Si se trata de "divisas de libre
-
-disposición" se debitará la cuenta "Conversión mercado de divisas de libre
-
-disposición".
-
-Haber: La cuenta de la cual se gira la moneda extranjera vendida para cumplir
-
-con su entrega.
-
-Simultáneamente se realizarán los cargos o abonos respectivos, por los
-
-equivalentes en pesos resultantes, en las cuentas "Cambio Mercado Bancario" de
-
-la partida 2505 ó 4505 del formulario MB1, o bien, "Cambio mercado de divisas de
-
-libre disposición"de la partida 2510 ó 4510 del formulario MB1, según se trate
-
-de divisas incluidas en la Posición de Cambios o de "divisas de libre
-
-disposición".
+Esta información deberá entregarse dentro de los tres días hábiles bancarios siguientes de alcanzado el límite señalado y deberá, de ahí en adelante, repetirse, al cierre del segundo y último día viernes de cada mes o del hábil inmediatamente anterior, si aquél fuere festivo, mientras se mantenga por sobre el nivel indicado.
 
 CAPITULO 13-24 (Bancos y Financieras)
 
@@ -33995,6 +33675,188 @@ No obstante, al tratarse del ajuste de la cuenta " Cambio Mercado de Divisas de 
 Por otra parte, los ajustes correspondientes a las ventas de divisas realizadas al Banco Central de Chile con pacto de recompra, deben efectuarse conforme a lasdisposiciones del Capítulo 13-6.
 
 Debe tenerse presente, además, que para calcular y registrar los reajustes de operaciones en moneda chilena reajustables por la variación del dólar estadounidense, las instituciones financieras deben considerar el tipo de cambio que se haya pactado, ateniéndose a las instrucciones del Capítulo 7-1 de esta Recopilación.
+
+CAPITULO 13-32 (Bancos)
+
+MATERIA:
+
+ARBITRAJES.
+
+### I. ARBITRAJES AL CONTADO
+
+### 1. Facultad de realizar arbitrajes
+
+En virtud de las normas contenidas en el Capítulo III del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, los bancos están facultados para realizar arbitrajes al contado de monedas extranjeras, con otros bancos situados en el país o en el exterior, con el exclusivo propósito de cubrir obligaciones propias o de terceros registradas en el Banco Central de Chile.
+
+Asimismo, los bancos podrán realizar por caja, arbitrajes al contado de monedas extranjeras con las personas que les soliciten dichas operaciones.
+
+De conformidad con la disposición del Instituto Emisor, dichos arbitrajes deben realizarse a la paridad internacional normal de mercado, vigente en la fecha de la operación.
+
+### 2. Monto máximo de los arbitrajes al contado
+
+Los arbitrajes señalados en el primer párrafo del N° 1 precedente, no podrán exceder en más de un 10% el monto de las obligaciones registradas en el Banco Central de Chile para cuya cobertura se realicen.
+
+### 3. Datos que debe mencionar todo arbitraje
+
+Las empresas bancarias que realicen los arbitrajes de que se trata, deberán cuidar que en cada caso se deje constancia, por lo menos, de los siguientes datos:
+
+a) Nombre de la persona o de la entidad bancaria y país de ésta con la que se realice el arbitraje;
+
+b) Nombre de la persona cuya obligación se cubra con el arbitraje, en los casos que corresponda;
+
+c) Montos y nombres de las monedas extranjeras involucradas;
+
+d) Paridad convenida;
+
+e) Fecha en que se realice el arbitraje; y,
+
+f) Identificación de la obligación cubierta por el arbitraje, con indicación, como mínimo, de su monto, acreedor y vencimiento, excepto cuando se trate de arbitrajes por caja.
+
+### 4. Instrucciones contables
+
+Los arbitrajes de que se trata, serán registrados de la siguiente forma:
+
+4.1. Por la moneda extranjera que se adquiere.
+
+Debe: - "Caja" o la cuenta que corresponda por la moneda extranjera que se recibe.
+
+Haber: - "Conversión mercado bancario", de la partida 2505 ó 4505 del MB1.
+
+4.2. Por la moneda extranjera que se vende.
+
+Debe: - "Conversión mercado bancario", por el egreso de la moneda extranjera que se vende por el arbitraje.
+
+Haber: - "Caja" o la cuenta que corresponda por la moneda extranjera que se entrega.
+
+Simultáneamente deben efectuarse los asientos de débito y crédito que correspondan, por los respectivos equivalentes en moneda chilena en las cuentas "Cambio mercado bancario", de la partida 2505 ó 4505 del MB1.
+
+### II. ARBITRAJES A FUTURO
+
+De conformidad con lo dispuesto en los numerales 2.19 y 2.49 del Capítulo III del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, los bancos están facultados para realizar los siguientes arbitrajes a futuro:
+
+### 1. Arbitrajes a futuro para cubrir operaciones propias
+
+1.1. Generalidades.
+
+Los bancos podrán realizar arbitrajes a futuro con bancos situados en Chile o en el exterior, como también con entidades financieras del exterior que hayan sido autorizadas por el Banco Central de Chile, con el único objeto de cubrir los riesgos de cambio que se generan cuando sus obligaciones en monedas extranjeras están expresadas en una moneda distinta de aquella en que están pactados los correspondientes activos.
+
+En consecuencia, las empresas bancarias deben limitarse a realizar estos arbitrajes a futuro sólo con los fines señalados precedentemente y únicamente hasta por los montos necesarios para cubrir los riesgos de variaciones cambiarías sobre la parte que mantengan descubierta de sus relaciones entre activos y pasivos en las distintas monedas extranjeras, pudiendo considerarse además, para esos efectos, los correspondientes intereses.
+
+1.2. Monedas que pueden ser arbitradas.
+
+Las entidades bancarias podrán arbitrar a futuro solamente las monedas extranjeras por las que estén expuestas a un riesgo de cambio, derivado de la situación descrita en el numeral 1.1 precedente, esto es, mantener una posición descubierta en determinada moneda extranjera. A vía de ejemplo, si un banco, de común acuerdo con sus acreedores, cambió la denominación de sus pasivos de dólares norteamericanos a marcos alemanes, manteniendo sus activos denominados en dólares de Estados Unidos, podrá comprar para recibir en fecha futura marcos alemanes y vender para entregar también en fecha futura, dólares estadounidenses, debiendo pactarse ambas operaciones simultáneamente y con el mismo plazo de entrega y recepción de las divisas comprometidas.
+
+En caso que alguno de los referidos arbitrajes corresponda a monedas extranjeras de "libre disposición" a que se refiere el Capítulo XXX del Compendio de Normas de Cambios Internacionales, deberán atenerse a las instrucciones contenidas en el Capítulo 13-1 de esta Recopilación de Normas, especialmente en lo relativo a la prohibición de vender divisas integrantes de la Posición de Cambios, para adquirir alguna de las monedas calificadas como de "libre disposición".
+
+1.3. Plazo a que se pueden pactar los arbitrajes a futuro.
+
+Los bancos pueden pactar la entrega y recepción de las divisas involucradas de acuerdo con sus propias necesidades acorde con los fines señalados en el numeral 1.1 precedente.
+
+1.4. Posición de cambios.
+
+Las divisas sujetas a Posición de Cambios, que los bancos arbitren a futuro, se incluirán en el "Informe Diario de Posición y Operaciones de Cambios Internacionales" sólo una vez que se haya cumplido el plazo de entrega acordado. En esa fecha los bancos comunicarán al Banco Central de Chile el arbitraje correspondiente, mediante emisión de las respectivas "Planillas de Operación de Cambios-Comercio Invisible". Se exceptúan de esta declaración aquellas operaciones que versen exclusivamente sobre divisas de "libre disposición", en la parte que afecte a dichas monedas, en conformidad con las instrucciones que respecto de ellas se impartieron en el ya citado Capítulo 13-1.
+
+1.5. Contabilización.
+
+Los arbitrajes a futuro se contabilizarán en la forma que a continuación se indica:
+
+1.5.1. Contratación del arbitraje.
+
+1.5.1.1. Por la moneda extranjera que se adquiere.
+
+Debe: "Deudores por arbitrajes a futuro" de la partida 2125 del MB1.
+
+Haber: - "Divisas arbitradas a futuro" de la partida 2525 ó 4525 del MB1, o bien,
+
+- "Conversión obligaciones externas reestructuradas" de la partida 2510 ó 4510 del MB1, cuando se trate de obligaciones correspondientes a la deuda externa renegociada.
+
+1.5.1.2. Por la moneda extranjera que se vende.
+
+Debe: - "Divisas arbitradas a futuro", o bien,
+
+- "Conversión obligaciones externas reestructuradas", cuando se trate de activos que han quedado denominados en una moneda extranjera distinta a la de la correspondiente obligación, como consecuencia de la renegociación de la deuda externa.
+
+Haber: "Adeudado por arbitrajes a futuro" de la partida 4125 del formulario MB1.
+
+Además, en los casos que proceda, junto con efectuar los asientos señalados en este numeral 1.5.1 se deberán cursar los asientos contables que correspondan para revertir los respectivos importes en moneda chilena registrados en las cuentas "Cambio obligaciones externas reestructuradas" de la partida 2510 ó 4510 del MB1.
+
+1.5.2. Entrega y recepción de las monedas arbitradas.
+
+En la fecha de vencimiento de los arbitrajes a futuro, las empresas bancarias revertirán los asientos contables señalados en los numerales 1.5.1.1 y 1.5.1.2 precedentes y efectuarán, simultáneamente, la siguiente contabilización, acorde con la moneda extranjera que deban tanto recibir como entregar en esa fecha:
+
+1.5.2.1. Por la moneda que se recibe.
+
+Debe: La cuenta en la que se reciba el abono por la moneda adquirida. Haber: "Conversión Mercado Bancario" de la partida 2505 ó 4505 del MB1. En el caso de tratarse de "divisas de libre disposición", se acreditará la cuenta "Conversión mercado de divisas de libre disposición" de la partida 2510 ó 4510 del MB1.
+
+1.5.2.2. Por la moneda que se entrega.
+
+Debe: "Conversión Mercado Bancario". Si se trata de "divisas de libre disposición" se debitará la cuenta "Conversión mercado de divisas de libre disposición".
+
+Haber: La cuenta de la cual se gira la moneda extranjera vendida para cumplir con su entrega.
+
+Simultáneamente se realizarán los cargos o abonos respectivos, por los equivalentes en pesos resultantes, en las cuentas "Cambio Mercado Bancario" de la partida 2505 ó 4505 del MB1, o bien, "Cambio mercado de divisas de libre disposición" de la partida 2510 ó 4510 del MB1, según se trate de divisas incluidas en la Posición de Cambios o de "divisas de libre disposición".
+
+### 2. Arbitrajes a futuro para cubrir obligaciones de terceros
+
+2.1. Generalidades.
+
+Los bancos, además de las operaciones señaladas en el N° 1 precedente, están facultados para realizar arbitrajes a futuro de monedas extranjeras, con otros bancos del país o del exterior, con el exclusivo propósito de cubrir obligaciones de terceros que se encuentren registradas en el Banco Central de Chile.
+
+Estos arbitrajes deberán realizarse a la paridad internacional normal de mercado vigente en la fecha en que se pacten.
+
+2.2. Monto máximo de los arbitrajes a futuro.
+
+Los arbitrajes señalados en el numeral 2.1 precedente, no podrán exceder el monto de las obligaciones registradas en el Banco Central de Chile, para cuya cobertura se realicen.
+
+2.3. Plazo al que se pueden pactar estos arbitrajes a futuro.
+
+El plazo que se pacte para la entrega y recepción de las divisas involucradas en los arbitrajes a futuro para cubrir obligaciones de terceros, será aquel que acuerden las partes en el momento de concertar la operación respectiva, el que no podrá exceder, en caso alguno, del plazo en el que deba cumplirse la obligación cubierta por el arbitraje.
+
+2.4. Instrucciones contables.
+
+Los arbitrajes de que se trata, serán registrados de la siguiente forma:
+
+2.4.1. Contratación del arbitraje para cubrir obligaciones de un tercero.
+
+2.4.1.1. Por la moneda extranjera que se adquiere.
+
+Debe: "Deudores por arbitrajes a futuro por obligaciones de terceros", de la partida 2125 del MB1, por la moneda extranjera que se recibirá del banco con el cual se contrate el arbitraje.
+
+Haber: "Divisas arbitradas a futuro".
+
+2.4.1.2. Por la moneda extranjera que se vende.
+
+Debe: "Divisas arbitradas a futuro", por el importe en moneda extranjera que se deberá entregar por el arbitraje.
+
+Haber: "Adeudado por arbitrajes a futuro por obligaciones de terceros", de la partida 4125 del MB1.
+
+2.4.2. Entrega y recepción de las monedas arbitradas.
+
+En las fechas de vencimiento de los arbitrajes a futuro, los bancos revertirán los asientos señalados en los numerales 2.4.1.1 y 2.4.1.2 precedentes y registrarán la moneda extranjera que se recibe y la que se entrega, en la forma prevista en los numerales 1.5.2.1 y 1.5.2.2 de este título, respectivamente.
+
+### 3. Datos mínimos que debe mencionar todo arbitraje a futuro
+
+Las empresas bancarias que contraten arbitrajes a futuro de acuerdo con lo señalado en los N°s 1 y 2 de este Título, deberán cuidar que, en cada caso, se estipulen claramente por lo menos, los siguientes datos:
+
+a) Entidad bancaria o financiera con la que se contrate el arbitraje;
+
+b) Nombre de la persona cuyas obligaciones se cubren con el arbitraje, en los casos que proceda;
+
+c) Montos y nombres de las monedas extranjeras involucradas;
+
+d) Paridad convenida;
+
+e) Fecha en que el arbitraje ha sido contratado;
+
+f) Fecha pactada para la entrega de las divisas respectivas; y,
+
+g) Identificación de la obligación cubierta por el arbitraje, cuando se trate de operaciones de terceros, con indicación, a lo menos,del monto de aquella, del acreedor y del vencimiento.
+
+### 4. Límites que afectan a estas operaciones
+
+En consideración a las especiales características de estas operaciones, que dan origen coetáneamente a una obligación del banco con su contraparte y aun derecho del mismo banco sobre dicha contraparte por los compromisos que deben cumplirse en forma simultánea, de entregar la moneda vendida y de recibir la moneda adquirida, esta Superintendencia ha resuelto que este tipo de obligaciones recíprocas, no se consideren para los efectos de los márgenes de los artículos 81 y 84 de la Ley General de Bancos.
+
+No obstante lo anterior, ningún banco podrá mantener vigentes, con una misma institución bancaria del país o del exterior o entidad financiera autorizada del extranjero, contratos por arbitrajes a futuro que excedan con cada una de esas entidades, de una suma equivalente al 25% de su capital pagado y reservas.
 
 CAPITULO 14-1 (Bancos)
 
