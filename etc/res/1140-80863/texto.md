@@ -1,0 +1,3 @@
+Por resolución No. 1.140 de 03 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar del 20 de Mayo de 1991, el plazo otorgado a PESCA MARINA LTDA., R.U.T. No. 89.389.200-1, domiciliada en Coquimbo, en el numeral 5° de la resolución No. 261, de 1990, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 03 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
