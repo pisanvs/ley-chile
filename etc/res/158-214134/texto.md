@@ -1,0 +1,3 @@
+Resolución 158, 28 julio 2003, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en Línea Férrea, Los Boldos, Rol de Avalúo Nº 2740-7, comuna Chiguayante, superficie 368,50 m² de terreno y 176 m² de edificación, dentro polígono y linderos señalados plano expropiación S8R-2740-7; de aparente dominio de Andrea del R. Uengo Ruiz, para ejecución programa de viviendas en comuna de Chiguayante, conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Eduardo Cerda Ureta, arquitecto, Juan Andrés Tepper Lavanderos, ingeniero agrónomo, y Omar Andrés Aspe Neira, constructor civil, según informe de fecha 7 de junio de 2001, fijó monto provisional indemnización en $40.943.949.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
