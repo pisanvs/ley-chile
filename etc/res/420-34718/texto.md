@@ -1,0 +1,3 @@
+Por Resolución N° 420 de 3 de junio de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifícase la Resolución N° 941, de 1992, de esta Subsecretaría, que autorizó a PESQUERA HUALPEN LTDA., R.U.T: N° 79.731.580-K, para realizar actividades pesqueras de transformación, en el sentido de eliminar de sus Vistos y del numeral 1° la referencia a las Resoluciones N° 269, de 1985 y N° 1062, de 1988, por haberse incurrido en un error.
+
+Valparaíso, 3 de Junio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
