@@ -1,0 +1,5 @@
+EXTRACTOS DE EXPROPIACIONES
+
+Por Resolución N° 179 de fecha 1° de Septiembre de 1993, conforme artículo 51 Ley 16.391 y Decreto Supremo N° 68 de 1991 de Vivienda y Urbanismo y para regularizar la ocupación de una propiedad ocupada en prolongar Avenida Barros Arana de Temuco, no expropiada oportunamente, SERVIU IX Región dispuso expropiación inmueble ubicado en la Ciudad y Comuna de Temuco, que corresponde a parte del rol de avalúo N° 95-6 de la Comuna de Temuco, de aparente dominio de Viña San Pedro S.A., presuntamente inscrito a fojas 2.822 vta. N° 1.372 del Registro de Propiedad del Conservador de Bienes Raíces de Temuco de 1974.- Informe tasación expropiación fecha 19 Agosto 1993. Comisión Peritos Srs. Pablo Reidel Wanner, Arquitecto; Mario Molina Ramwell, Constructor Civil, y José Méndez Manríquez, Ingeniero Civil. Monto indemnización provisional suma $ 15.126.602.- pagadero contado.-
+
+Directora SERVIU IX Región.
