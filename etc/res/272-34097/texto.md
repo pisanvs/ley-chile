@@ -1,0 +1,3 @@
+Por Resolución N° 272, de 9 de Marzo de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resoluciones N° 1.181 y N° 1.182, ambas de 1992, de esta Subsecretaría, que autorizaron a ACTIVIDADES INTEGRADAS S.A., R.U.T. N° 96.606.260-6, para operar las naves "Isla Buamblin" e "Isla Guafo", respectivamente, en el área de pesca correspondiente a la sub-área estadística Georgia del Sur, por renuncia de su titular.
+
+Valparaíso, 9 de Marzo de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
