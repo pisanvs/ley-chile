@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.554, de 21 de junio de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº9-G para la obra Camino Ruta 5 Norte, Tramo: Santiago-Los Vilos, Sector:
+
+Km. 80.450,00 al 83.100,00, Quinta Región, que figura a nombre de Herrera Aguilera Luis H., rol de avalúo 153-122, comuna de Llay-Llay, superficie 1.625 m2. La comisión de peritos integrada por los señores Jorge Gregorio Mendoza Larral, Pablo Antonio Aragón Bernal y María Cristina Ayala Muñoz fijó con fecha 5 de marzo de 1999, el valor provisional de la indemnización en la cantidad de $18.106.050. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
