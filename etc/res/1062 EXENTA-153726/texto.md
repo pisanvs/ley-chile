@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1062 de 12 de Agosto de 1986, conforme Art.
+
+5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predios "Las Paredes", "El Rancho", "Resto del Fundo Santa Ana de Chagres", y "El Descanso" de las Comunas de Pelarco y Río Claro, VII Región; y Derechos Aprovechamiento Aguas que corresponden a 61 parcelas N°s. 1 a la 61, sitios letras A a la S del Proyecto de Parcelación "Camarico" formado por predios señalados. Los Derechos de Aguas se extraen de los canales Purísima (derivado del Río Lontué), San Rafael (derivado del Río Claro) y de Derrames captados del Canal Canoas Negras.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
