@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº807 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº3, superficie 603 m², Rol de Avalúo Nº631-1, comuna de Teodoro Schmidt, para la obra ''Ruta S-60, Sector Freire - Teodoro Schmidt, Tramo, Km. 19,200 al Km. 34,594'', IX Región y se acordó el valor de indemnización con su propietaria Laura Bustos Torres, ascendente a la cantidad de $380.978.-
+
+Fiscal del Ministerio de Obras Públicas.
