@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.153, de fecha 31 de julio del 2002, se expropió el lote de terreno Nº 4, superficie 288 m2, rol Nº 130-52, comuna de San Nicolás, VIII Región para la obra ''Camino Cruce N-50 - Coipín, Sector Puente Coipín, Km. 0,00000 a Km. 0,22000'' y se acordó el valor de indemnización con su propietario José Carlos Silva Garrido, ascendente a la cantidad de $614.381.-
+
+Fiscal del Ministerio de Obras Públicas.
