@@ -1,0 +1,7 @@
+AUTORIZA A DON JOSE MANUEL POBLETE SALAS PARA INICIAR ACTIVIDADES PESQUERAS, DENIEGA AUTORIZACION QUE INDICA
+
+Por resolución No. 874, de 23.08.88, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don José Manuel Poblete Salas, R.U.T. No. 4.203.042-2, domiciliado en calle Covadonga No. 102, Población Esmeralda Lebu, para iniciar actividades pesqueras, en orden a operar la embarcación Santa Irene I, en el litoral de las Regiones V a X, donde podrá extraer los siguientes recursos hidrobiológicos: Albacora, Bacalao de profundidad o Mero, Congrio colorado, Congrio dorado, Congrio negro, Merluza común, Merluza del Sur, Pejegallo y Raya. Asimismo, el interesado podrá extraer con la nave antes referida, en el litoral de las Regiones V a VII y IX a X, los siguientes recursos hidrobiológicos: Anchoa, Jurel, Sardina común y Sardina Española. Deniégase la autorización solicitada por el peticionario para extraer con la embarcación que se autoriza por la presente resolución en el litoral de la VIII Región, los recursos hidrobiológicos Anchoa, Jurel, Sardina común y Sardina española, de conformidad a lo dispuesto en el Decreto No. 436, de 1985, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 23.08.88.- Roberto Cabezas Bello Subsecretario de Pesca.
