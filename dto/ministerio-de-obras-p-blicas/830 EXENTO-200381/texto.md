@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº830 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº30-d, superficie 753 m², Rol de Avalúo Nº266-451, comuna de Carahue, para la obra ''Pavimentación Asfáltica Camino Carahue - Puerto Saavedra, Sector I, Km. 59.347,87 al Km. 65.594,05, comuna de Carahue, Provincia de Cautín'', IX Región y se acordó el valor de indemnización con su propietario Rodrigo Alejandro Cartes Torres, ascendente a la cantidad de $527.373.-
+
+Fiscal del Ministerio de Obras Públicas.
