@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.747 de fecha 28 de abril del 2000, se expropió los lotes de terreno Nºs. 4 y 4-A, superficie 493 y 68 m² respectivamente, rol de avalúo 327-3, comuna de Concepción, para la obra ''Reposición Puente Bío Bío Antiguo Ruta 160 Concepción - San Pedro, Sector Enlace 5'' y se acordó el valor de indemnización con su propietaria Gladys Elsa Constanzo Prieto, ascendente a la cantidad de $47.421.007.
+
+Fiscal del Ministerio de Obras Públicas.
