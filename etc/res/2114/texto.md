@@ -1,0 +1,3 @@
+Por resolución Nº 2.114, de 14 de octubre de 1999, de esta Subsecretaría, autorízase a PESQUERA COLOSO S.A. para ampliar las actividades pesqueras extractivas con la nave ''Audaz'', en orden a que la interesada podrá realizar actividades pesqueras con la nave señalada precedentemente, en el litoral de la I y II Regiones, por fuera del área de reserva artesanal, donde podrá capturar con red de cerco los recursos hidrobiológicos Jurel fino y Sardina redonda.
+
+Valparaíso, 14 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
