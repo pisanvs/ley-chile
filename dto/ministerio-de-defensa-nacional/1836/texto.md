@@ -70,11 +70,17 @@ Los Prácticos Oficiales desempeñarán sus funciones en forma normal y permanen
 
 Los Prácticos Autorizados, que serán Capitanes de la Marina Mercante u Oficiales de la Armada en servicio activo o en retiro, prestarán sus funciones en forma ocasional en reemplazo de los anteriores, a objeto de atender el servicio de Puerto o de Canales cuando, por cualquiera causa, no hubiera disponibilidad de Prácticos Oficiales para atender todas las faenas marítimas.
 
+Cuando un Gobernador Marítimo o Capitán de Puerto tenga que ejecutar alguna faena de practicaje previa autorización de la Dirección del Litoral, por ausencia del Práctico titular, percibirá la remuneración que corresponda en conformidad a lo establecido en el artículo 26 del decreto con fuerza de ley N.o 292, de 25- VII- 1953.
+
 #### Artículo 10
 
 Los Prácticos Autorizados serán designados por la Dirección del Litoral y de Marina Mercante, cuando las necesidades del servicio así lo requieran y su labor será remunerada de acuerdo con la escala de porcentaje que fija este Reglamento.
 
 Los requisitos que deberán reunir los que van a ser designados Prácticos Autorizados son los mismos que se exigen a los Prácticos Oficiales para ingresar en la planta del Litoral.
+
+Todo postulante a ingresar al servicio del Litoral como Práctico Autorizado, deberá tener menos de 60 años de edad.
+
+Los Prácticos Autorizados dejarán de prestar servicios en el Litoral al cumplir 65 años de edad.
 
 #### Artículo 11
 
@@ -140,7 +146,7 @@ Los contratos para la prestación de servicios de los Prácticos Autorizados de 
 
 50% en naves inferiores a 5.000 toneladas gruesas.
 
-Los Prácticos de Puerto, Autorizados, sólo percibirán el 60% del porcentaje anteriormente fijado.
+Los Prácticos de Puerto, Autorizados, sólo percibirán el 50% del porcentaje anteriormente fijado.
 
 #### Artículo 18
 
@@ -206,9 +212,13 @@ Los transportes y petroleros de la Armada estarán obligados a utilizar los serv
 
 Estarán obligados a utilizar los servicios de Práctico Oficial, todas las naves extranjeras y las naves mercantes nacionales que no están dedicadas al Comercio de Cabotaje, aun cuando se encuentren al mando de Capitanes de Alta Mar, cuando ejecuten las siguientes maniobras en aguas interiores de la Nación:
 
-a) Durante toda navegación por los Canales Australes y Estrecho de Magallanes;
+a) Durante toda la navegación por los Canales Australes;
 
-No obstante lo anterior, normalmente no se exigirá el empleo de Prácticos Oficiales a las naves mercantes que naveguen el Estrecho de Magallanes, con el sólo propósito de cruzar los Océanos Pacífico y Atlántico, siempre que no naveguen ni antes ni después, algún otro estrecho o canal de las aguas territoriales chilenas. Cuando alguna circunstancia determina suspender la presente excepción temporal, la Dirección del Litoral y de Marina Mercante dispondrá las medidas convenientes para permitir que las naves mercantes puedan recibir o desembarcar Prácticos tanto en la entrada oriental como en la occidental del Estrecho de Magallanes.
+a-1) Durante toda la navegación por el Estrecho de Magallanes, con las siguientes excepciones transitorias:
+
+1.o Naves que utilicen el Estrecho de Magallanes con el único propósito de cruzarlo directamente de un océano a otro, sin recalar antes o después en algún puerto nacional y siempre que no naveguen otros estrechos o canales de las aguas jurisdiccionales chilenas.
+
+2.o Naves procedentes del Atlántico con destino exclusivo a Punta Arenas u otros puertos de la parte oriental del Estrecho, tanto en las navegaciones hacia esos puertos, como en las de regreso al Atlántico
 
 b) Al maniobrar dentro de dársenas o para atracar y desatracar a molos o espigones de puertos artificiales o a muelles fiscales o particulares;
 
@@ -260,9 +270,9 @@ Los servicios de Prácticos para las naves de la Armada de Chile, deberán ser s
 
 #### Artículo 32
 
-En las horas extraordinarias de 12.00 a 14.00 horas, y de 18.00 a 06.00 horas, los Capitanes de Puerto autorizarán las faenas de servicio de practicaje sólo en casos calificados de urgencia.
+En las horas extraordinarias de 12.00 a 14.00 horas, y de 18.00 hasta la apertura del puerto, los Capitanes de Puerto autorizarán las faenas de servicio de practicaje sólo en casos calificados de urgencia.
 
-Los servicios realizados dentro de las horas indicadas en el inciso anterior tendrán un recargo de la tarifa base del 50% de 12.00 a 14.00 horas y de 18.00 a 24.00 horas y de un 100% de las 00.00 a 06.00 horas.
+Los servicios realizados dentro de las horas indicadas en el inciso anterior tendrán un recargo de la tarifa base del 50% de 12.00 a 14.00 horas y de 18.00 a 24.00 horas y de un 100% de las 00.00 hasta la apertura del puerto.
 
 #### Artículo 33
 
@@ -426,7 +436,7 @@ Si no fuere posible al Práctico dar aviso por radio desde a bordo, al Departame
 
 Los Prácticos, al efectuar el pilotaje de la navegación por aguas interiores, se ceñirán a las rutas establecidas en el artículo 83 del presente reglamento, y sólo podrán alterarlas previa autorización de la Dirección del Litoral y de Marina Mercante.
 
-Cuando una nave extranjera navegue por los Estrechos y Canales Australes de la República, sin llevar Práctico a bordo, pagará la tarifa de pilotaje que corresponda.
+El que una nave navegue sin hacer uso de Práctico en aquellas aguas en que su servicio es obligatorio, no la libera del pago de este servicio; y se hará acreedora a las sanciones que corresponda por esta trasgresión.
 
 Lo anterior es sin perjuicio de la excepción establecida en el párrafo a) del artículo 27 de este reglamento.
 
@@ -490,6 +500,10 @@ Las naves extranjeras que efectúen viajes exclusivamente de turismo y los yates
 
 Las naves que se dirijan con Práctico desde el puerto base a otras zonas situadas dentro de un radio de 20 millas de distancia pagarán 70 pesos oro por cada mil toneladas de registro grueso o fracción, debiendo considerarse incluída en esta tarifa el rubro "Fuera de los límites del puerto".
 
+Cuando el Capitán de una nave atracada a un Muelle Mecanizado solicite que el Práctico permanezca a bordo con el objeto de atender la faena de correrla para recibir el carguío en diferentes bodegas, pagará un 20% de estas tarifas por hora o fracción de hora.
+
+Las naves que solicitan los servicios de Práctico entre Punta Arenas y Bahía Gente Grande, o viceversa, tendrán una rebaja del 50% de la tarifa correspondiente.
+
 #### Artículo 71
 
 En la tarifa consignada en el artículo 70 está considerada la faena o maniobra que ejecuta el Práctico de Puerto, con una nave desde que la saca de la gira o donde se encuentra, hasta dejarla atracada al sitio que se le tiene asignado, o a la inversa, cuando se le saca del sitio para dejarla lista a zarpar o tomar fondeadero u otro destino.
@@ -516,9 +530,9 @@ submarinos, fondeadas con dos anclas 53.
 
 Levantar o fondear extra anclas o rejeras permanentes 35.
 
-Cañerías petroleras u otros elementos similares, los
+El fondeo o recorrida de cañerías petroleras u otros
 
-diez metros lineales 2.
+elementos similares, los diez metros lineales 5.
 
 #### Artículo 75
 
@@ -564,7 +578,7 @@ Los servicios de Prácticos de Canales tendrán los siguientes recargos:
 
 a) Cuando una nave no zarpe en la fecha fijada en el respectivo contrato que solicitó los servicios del pilotaje y el Práctico se encuentre esperando en el puerto inicial de la comisión, tendrá un recargo diario de un 5% sobre la tarifa base, a contar después de 48 horas de espera.
 
-b) Se recargará la tarifa base con un 5%, cuando una nave desarrolle un andar promedio total de recorrido directo, desde el puerto de zarpe hasta el puerto de destino sea inferior a 7 millas por hora. No se considerará en este cómputo el tiempo que permanezca la nave fondeada en canales por mal tiempo, cerrazones o espera de marea; tampoco se computará, la permanencia en puertos por actividades comerciales.
+b) Se recargará la tarifa base con un 5%, cuando una nave desarrolle un andar promedio total de recorrido directo, desde el puerto de zarpe hasta el puerto de destino sea inferior a 7 millas por hora. No se considerará en este cómputo el tiempo que permanezca la nave fondeada en canales por mal tiempo, cerrazones o espera de marea; tampoco se computará, la permanencia en puertos por actividades comerciales. Este mismo recargo se aplicará cuando el Práctico tenga que esperar postergación de zarpe en el puerto que se firma el contrato
 
 c) Las naves que no desembarquen al Práctico en el puerto de destino fijado como final de la comisión en el respectivo contrato, tendrán un recargo diario del 5% de la tarifa base, a contar desde el momento que cruza el paralelo de latitud de dicho lugar hasta la fecha de regreso del Práctico al puerto indicado en el Contrato. Para los efectos de este pago, la Dirección del Litoral y de Marina Mercante certificará a la Agencia respectiva el tiempo que servirá de base para calcular este recargo en cada caso.
 
@@ -854,7 +868,7 @@ A los 101° y a 1.215 metros del Faro Punta Tortuga, dos y medio cables.
 
 QUINTERO:
 
-A los 235° y a 2.500 metros del Faro Punta Liles, dos y medio cables.
+Al 055° y a 2.500 metros del Faro Punta Liles, dos y medio cables.
 
 VALPARAISO:
 
@@ -862,7 +876,7 @@ A los 116° y a 1.830 metros del Faro de Punta Angeles, tres cables.
 
 SAN ANTONIO:
 
-A los 159° y a 1.080 metros del P. de R. (Faro Panul), un cable.
+A los 241° y a 1.850 metros del Faro Punta Panul, uno y medio cable.
 
 TALCAHUANO:
 
@@ -895,3 +909,5 @@ A los 166° y a 1.950 metros del P. de 0., dos cables.
 PUNTA ARENAS:
 
 A los 160° y a 1.605 metros del P. de O., dos cables.
+
+> **Nota.** El numeral 8 del Decreto 1949, Defensa, publicado el 02.07.1960, modifico la presente norma en el sentido de indicar que donde dice: de 10.001 a 13.000, debe decir: de 10.001 a 15.000.
