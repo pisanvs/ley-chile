@@ -1,0 +1,25 @@
+LLAMA A POSTULACION PARA EL PRIMER LLAMADO EXTRAORDINARIO 2004 A SUBSIDIO HABITACIONAL RURAL (TITULO I) PARA ATENDER A POSTULANTES DE LA IX REGION DE LA ARAUCANIA Y FIJA EL MONTO DE RECURSOS QUE SE DESTINARAN PARA EL SUBSIDIO DIRECTO PARA LA ATENCION DE DICHOS POSTULANTES Y SU FORMA DE DISTRIBUCION
+
+Santiago, 20 de mayo de 2004.- Hoy se resolvió lo que sigue:
+
+Núm. 1.968 exenta.- Visto: El D.S. Nº 117, (V. y U.), de 2002, y sus modificaciones, que regula el Sistema de Subsidio Habitacional Rural; la resolución exenta Nº 2.579, de este Ministerio, de 2002, publicada en el Diario Oficial del 13 de julio de 2002, que fija menciones y datos que deberán contener las solicitudes de inscripción para llamados a postulación del Sistema de Subsidio Habitacional Rural; la resolución exenta Nº 36, modificada por resolución exenta Nº 1.077, de fechas 9 de enero y 2 de abril de 2004, respectivamente, ambas de los Ministerios de Hacienda y de Vivienda y Urbanismo, dicto la siguiente
+
+R e s o l u c i ó n:
+
+1º.- Llámase a postulación extraordinaria para el Sistema de Subsidio Habitacional Rural, primer llamado extraordinario Título I 2004, para atender a postulantes de la IX Región de La Araucanía, de conformidad a las disposiciones del D.S. Nº 117, (V. y U.), de 2002, y en especial a lo dispuesto en su Título Preliminar y en su Título I.
+
+2º.- Podrán postular al llamado a que se refiere el número anterior las personas o los cónyuges de las personas que, al 30 de junio de 2004, se encontraren inscritas en el Registro que regula el D.S. Nº 62, (V. y U.), de 1984.
+
+3º.- Fíjase en el equivalente a 51.000 Unidades de Fomento (U.F.) el monto de los recursos presupuestarios que se destinarán para el financiamiento del subsidio directo en el llamado extraordinario dispuesto por el número 1º de esta resolución.
+
+4º.- En el llamado a que se refiere la presente resolución, los recursos dispuestos para la región podrán ser distribuidos a nivel provincial o comunal, por el Secretario Regional Ministerial de Vivienda y Urbanismo IX Región de La Araucanía, mediante resolución que se publicará en el Diario Oficial, antes del inicio del período de postulación fijado para este llamado, conforme a lo dispuesto en el artículo 12 del D.S. Nº 117, (V. y U.), de 2002. En este llamado los recursos de la región, de sus provincias y comunas, si fuere el caso, se distribuirán por tipo de postulación, cuando corresponda, atendiendo al porcentaje de postulantes que se inscriban durante el " período de postulación" , en la región, provincia, comuna, tipo de postulación (individual o colectiva), según corresponda, en relación al total de postulantes de la región, provincia y comuna. El número de postulantes seleccionados en la región, provincia o comuna y tipo de postulación, si corresponde, alcanzará hasta el número de Certificados de Subsidio susceptibles de financiar con los recursos previstos para el otorgamiento del subsidio directo que se fija en el número anterior, en la forma prevista en los artículos 11 y 14 del D.S. Nº 117, (V. y U.), de 2002.
+
+5º.- El subsidio que obtenga el postulante seleccionado en este llamado extraordinario deberá ser aplicado al financiamiento de una vivienda nueva y terminada, definitiva, segura e higiénica, emplazada en la IX Región de La Araucanía, en sus provincias o comunas de postulación, según corresponda, excluidas las áreas urbanas de más de 2.500 habitantes, según el Censo de Población efectuado en 1992, que corresponde al último del cual se dispone de datos publicados con anterioridad a la fecha de este llamado.
+
+6º.- Las solicitudes para postular al llamado extraordinario efectuado por el número 1º de esta resolución, deberán contener las menciones y datos que se señalan en los numerales I y II de la resolución exenta Nº 2.579, de este Ministerio, de 2002, que fija menciones y datos para postular a este Sistema de Subsidio Habitacional, los cuales deberán ser consignados por el postulante en el formulario correspondiente que le proporcionará el Serviu de la IX Región de La Araucanía, o que éste ingresará directamente al sistema computacional respectivo, debiendo acompañar los documentos que en cada caso se indican en dicha resolución.
+
+7º.- De acuerdo a lo dispuesto en el artículo 5º del D.S. Nº 117, (V. y U.), de 2002, el " período de postulación" para el llamado extraordinario dispuesto por esta resolución, se extenderá desde el 19 al 30 de julio de 2004, ambas fechas inclusive, período durante el cual el Serviu de la IX Región de La Araucanía entregará los formularios y demás antecedentes necesarios a los interesados, les proporcionará toda la información que éstos requieran sobre la materia y procederá, dentro del mismo período, a la recepción de las solicitudes correspondientes y de los antecedentes y documentos que deban acompañarse a ellas.
+
+Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Sonia Tschorne Berestesky, Subsecretaria de Vivienda y Urbanismo.
