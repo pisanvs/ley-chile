@@ -1,0 +1,3 @@
+Por resolución exenta Nº 742, de 21 de marzo de 2005, de esta Subsecretaría, autorízase al SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL, BUZOS MARISCADORES DE PUERTO AYSEN, Registro Sindical Unico Nº 11.02.0028, perteneciente a la Flota Sur 1, a realizar las actividades pesqueras extractivas correspondientes al mes de marzo, entre los días 22 a 24 de dicho mes, ambas fechas inclusive.
+
+Valparaíso, 21 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
