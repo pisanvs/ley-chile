@@ -20888,7 +20888,7 @@ d) Los trabajos especiales de que se trata podrán ser remunerados con cargo a e
 
 ANEXO N°1
 
-FIRMAS DE AUDITORES EXTERNOS DE BANCOS Y SOCIEDADES FINANCIERAS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA
+FIRMAS DE AUDITORES EXTERNOS DE BANCOS Y SOCIEDADES FINANCIERAS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA.
 
 Número de
 
@@ -20904,8 +20904,6 @@ Inscripción* Nombre de la empresa
 
 014 SURLATINA & HORWATH AUDITORES LIMITADA
 
-017 GRANT THORNTON INTERNATIONAL AUDITORES CONSULTORES S.A.
-
 019 LANGTON CLARKE, AUDITORES Y CONSULTORES LTDA.
 
 020 CGA AUDITCORP LTDA.
@@ -20916,7 +20914,7 @@ Inscripción* Nombre de la empresa
 
 023 ERNST & YOUNG SERVICIOS PROFESIONALES DE AUDITORIA Y ASESORIAS LIMITADA
 
-Se incluyen solo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos y sociedades financieras.
+Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos y sociedades financieras.
 
 CAPITULO 20-1 (Bancos y Financieras)
 
