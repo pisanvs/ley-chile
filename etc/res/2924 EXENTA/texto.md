@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.924, de 19 de noviembre de 2003 de esta Subsecretaría, autorízase a PEDRO JULIO TAPIA BONILLA, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en La Serena Nº 058, Tongoy, IV Región, donde podrá elaborar en las líneas de proceso Cocido, Fresco, Enfriado, Fresco refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 19 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
