@@ -1,0 +1,3 @@
+DISPONE EXPROPIACIONES QUE INDICA
+
+Por Resolución No. 378, de fecha 22 de Noviembre de 1990 SERVIU Región del Bío Bío dispuso expropiación conforme art. 51 Ley No. 16.391, sustituido por Decreto Ley No. 1.523 y DS No. 151 de 12 de Septiembre de 1990, de inmueble ubicado en Camino a Chiguayante Km. 0.511 a Km. 0.806, presunto rol de avalúo No. 4029001, de la comuna de Concepción, de aparente dominio de Gonzalo Rudolphy. - Comisión de Peritos formada por señores Teodoro Medina Reyes ingeniero civil; Luis Soto Abarca, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 08.11.90, fijó monto provisional de indemnización en la suma de $ 1.891.588,00, pagaderos de contado.
