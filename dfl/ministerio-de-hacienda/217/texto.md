@@ -1,0 +1,1 @@
+Señala normas complementarias para la aplicación del decreto con fuerza de ley 68, de 1960, que fija la renta mensual máxima de que podrán disfrutar los funcionarios de los servicios y entidades a que se refiere el artículo 202° de la ley 13.305, de 6 de abril de 1959.
