@@ -1,0 +1,3 @@
+Por resolución Nº 1.061 de 13 de junio de 2000 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Algarrobo Sector A, V Región, individualizada en el artículo 1º) Nº 12 del D.S. Nº 652 de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE PESCADORES ARTESANALES DE ALGARROBO.
+
+Valparaíso, 13 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
