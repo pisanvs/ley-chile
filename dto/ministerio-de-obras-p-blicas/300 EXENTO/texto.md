@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº300 de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº4, superficie 8.520 m², rol de avalúo 308-28, comuna de Melipeuco, para la obra "Camino Melipeuco - Icalma, Sector Variante Nº1, Km. 25.027 al Km. 28.544" y se acordó el valor de indemnización con su propietaria Luzmira Ester Méndez Jara, ascendente a la cantidad de $527.149.-.
+
+Fiscal del Ministerio de Obras Públicas.
