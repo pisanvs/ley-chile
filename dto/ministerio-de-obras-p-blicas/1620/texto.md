@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.620, de 21 de septiembre de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº34, para la obra Camino Santiago-Colina-Los Andes, Sector "A" A. Vespucio-By Pass Colina Km.
+
+0.504,10 al 4.758,40, Región Metropolitana, que figura a nombre de Sereno Pacheco Roberto del C., rol de avalúo 118-228, comuna de Quilicura, superficie 1.487,0 m². La Comisión de Peritos integrada por los señores Paola Andrea Domingo Porcella, Carmen Pilar Ríos Marcuello y Andrés Echeverría Campo, fijó con fecha 10 de junio de 1998, el valor provisional de la indemnización en la cantidad de $9.658.950.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
