@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 414, de 30 de abril de 1997, se expropió el lote de terreno Nº 27-A, superficie 1.703 m², rol de avalúo 1035-111, comuna de Maipú, para la obra Camino Autopista Santiago-San Antonio, sector Empalme I. Riquelme-Bif. Malloco, y se acordó el valor de indemnización con su propietario Ernesto Sanhueza Araya, ascendente a la cantidad de $4.273.031.-
+
+Fiscal del Ministerio de Obras Públicas.
