@@ -22278,6 +22278,8 @@ d) Depositar en la cuenta especial a que se refieren la letra A) del Capítulo I
 
 e) Depositar en las cuentas especiales a que se refieren el Capítulo IV.D.2 del Compendio de Normas Financieras y el Capítulo 13-12 de esta Recopilación de Normas, cuando se trate de recursos provenientes de obligaciones contraídas con posterioridad al 31 de enero de 1983.
 
+f) Financiar los descuentos de documentos a que se refiere la letra C) del Capítulo XXV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y el Capítulo 1327 de esta Recopilación.
+
 ### 3. Financiamiento de Importaciones
 
 Los créditos que otorguen los bancos a las personas situadas en Chile, para financiar importaciones, serán pactados libremente con los respectivos usuarios pero, en todo caso, los términos que se acuerden deberán ser concordantes, en los casos que corresponda con las condiciones que haya autorizado el Banco Central de Chile en el respectivo Informe de Importación emitido, así como con los términos de las líneas de crédito utilizadas para su refinanciamiento.
@@ -22324,23 +22326,27 @@ Para realizar esas ventas la empresa bancaria que intervenga en la operación de
 
 Los bancos podrán otorgar créditos con cargo a estos recursos del exterior, a personas situadas en Chile, para financiar exportaciones en las condiciones que acuerden con los respectivos exportadores, de conformidad con las normas contenidas en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales y en el Capítulo 14-3 de esta Recopilación de Normas.
 
-### 6. Documentación de los créditos
+6. Descuento de documentos provenientes de operaciones entre países de ALADI.
+
+Los descuentos de documentos emitidos sobre la base de instrumentos originados en operaciones de comercio exterior entre países miembros de ALADI, se efectuarán en la forma prevista en el Capítulo 13-27 de esta Recopilación.
+
+### 7. Documentación de los créditos
 
 Los créditos que los bancos otorguen de conformidad con las disposiciones de este capítulo, se documentarán mediante la aceptación de letras de cambio o suscripción de pagarés por parte del deudor.
 
-### 7. Plazo de los créditos
+### 8. Plazo de los créditos
 
 El plazo al que se otorguen los créditos antes mencionados, se pactará libremente entre los bancos y los respectivos usuarios, acorde en todo caso, cuando corresponda, con las condiciones autorizadas por el Banco Central de Chile.
 
-### 8. Tasa de interés
+### 9. Tasa de interés
 
 La tasa de interés de los créditos de que se trata, se pactará libremente entre el banco acreedor y los usuarios, con sujeción, en todo caso, a la tasa máxima convencional para operaciones en moneda extranjera y a lo aprobado por el Banco Central de Chile, en los casos que así corresponda.
 
-### 9. Normas contables
+### 10. Normas contables
 
 La contabilización de las operaciones de que se trata, se realizará de la siguiente forma:
 
-9.1. Obtención de las lineas de crédito del exterior.
+10.1. Obtención de las lineas de crédito del exterior.
 
 Por el monto de la línea de crédito obtenida:
 
@@ -22348,25 +22354,29 @@ Debe: "Líneas de crédito del exterior", de la partida 9380.
 
 Haber: "Responsabilidad por líneas de crédito del exterior" de la partida 9900.
 
-9.2. Utilización de lineas de crédito.
+10.2. Utilización de lineas de crédito.
 
 Las obligaciones derivadas de la utilización de créditos externos o de las líneas de crédito, serán registradas en la cuenta "Adeudado a bancos y corresponsales del exterior", cuyo saldo se demostrará en la partida 3505, 3510 ó 3555, según corresponda. En caso de que la obligación sea contraída con una oficina del mismo banco en el exterior, se registrará en la cuenta "Adeudado al exterior a oficinas del mismo banco", la que se demostrará en la partida 3515 ó 3560.
 
 Si las obligaciones son pagaderas por intermedio del Convenio de Créditos Recíprocos ALADI, serán registradas en la cuenta "Adeudado a bancos y corresponsales con rembolso a través de convenios ALADI", cuyo saldo se demostrará en la partida 3520 ó 3565, según proceda.
 
-9.3. Créditos para financiar importaciones.
+10.3. Créditos para financiar importaciones.
 
 Los créditos que se otorguen para financiar importaciones con cargo a los recursos de que se trata, serán registrados de conformidad con lo previsto en el Capítulo 15-1 de esta Recopilación.
 
-9.4. Créditos para financiar exportaciones.
+10.4. Créditos para financiar exportaciones.
 
 Los créditos que los bancos otorguen para financiar exportaciones, a personas situadas en Chile, serán registrados en la forma prevista en el Capítulo 14-3 de esta Recopilación de Normas.
 
-9.5. Créditos para financiar gastos locales.
+10.5. Créditos para financiar gastos locales.
 
 Los préstamos para financiar gastos locales de las importaciones señaladas en el número 4 de este capítulo, se registrarán en la cuenta "Préstamos para gastos locales" de la partida 1110 ó 1205, según proceda.
 
-9.6. Intereses.
+10.6. Descuento de documentos provenientes de operaciones entre países de ALADI.
+
+Los descuentos de documentos emitidos sobre la base de instrumentos originados en operaciones de comercio exterior entre países miembros de ALADI, se registrarán en la forma prevista en el Capítulo 1327 de esta Recopilación.
+
+10.7. Intereses.
 
 Los intereses que se cobren por los créditos para importación otorgados a personas situadas en Chile, serán registrados en la forma señalada en el Capítulo 15-1 de esta Recopilación.
 
@@ -22376,23 +22386,23 @@ Los intereses que se cobren sobre los financiamientos que se cursen para exporta
 
 Por otra parte, los intereses que los bancos paguen por las líneas de crédito del exterior a que se refiere este Capítulo, serán registrados en la cuenta "Intereses pagados por financiamientos externos", de la partida 5180 6 5185, según proceda.
 
-9.7. Comisiones.
+10.8. Comisiones.
 
 Las comisiones que se cobren a personas situadas en Chile por los financiamientos para importación que cursen, serán registradas en la forma prevista en el Capítulo 15-1 de esta Recopilación.
 
 Las comisiones que los bancos deban pagar por las líneas de crédito del exterior, serán registradas en la cuenta "Comisiones pagadas por financiamientos del exterior", de la partida 5510.
 
-9.8. Créditos no pagados a su vencimiento.
+10.9. Créditos no pagados a su vencimiento.
 
 Los créditos otorgados por los bancos con cargo a los recursos de que trata este Capítulo que no sean pagados a su vencimiento, serán traspasados a Cartera Vencida de conformidad con las normas generales vigentes sobre la materia.
 
-### 10. Limites legales
+### 11. Limites legales
 
 Los préstamos que otorguen los bancos con los recursos del exterior a que se refiere este Capítulo, están afectos a los límites de crédito establecidos en el artículo 84 de la Ley General de Bancos.
 
 A su vez, las obligaciones que contraigan las empresas bancarias por la utilización de las líneas de crédito de que se trata, están afectas al límite establecido en el artículo 81 de la Ley General de Bancos.
 
-### 11. Información al Banco Central de Chile
+### 12. Información al Banco Central de Chile
 
 Los bancos deben enviar al Banco Central de Chile la información relativa a las líneas de crédito externas, en los términos indicados en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales.
 
@@ -28178,7 +28188,7 @@ Las personas que obtengan estos anticipos estarán obligadas a realizar embarque
 
 1.3. Aplicación o devolución de los anticipos.
 
-Los anticipos de compradores deberán ser aplicados como retornos de exportaciones, dentro de un plazo de 90 días contados desde la fecha de aceptación a trámite de la Declaración de Exportación del correspondiente embarque.
+Los anticipos de compradores deberán ser aplicados como retornos de exportaciones, dentro de un plazo de 150 días contados desde la fecha de aceptación a trámite de la Declaración de Exportación del correspondiente embarque.
 
 Los anticipos de compradores por los que no se realicen embarques de mercaderías, podrán ser pagados con divisas adquiridas en el mercado cambiario formal.
 
