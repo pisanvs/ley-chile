@@ -976,51 +976,137 @@ CAPITULO 1-6 (Bancos y Financieras)
 
 MATERIA:
 
-CAJAS AUXILIARES.
+SUCURSALES Y OTRAS OFICINAS EN EL PAIS.
 
-1. Cajas auxiliares que no requieren autorización previa para su habilitación.
+1.- Apertura de oficinas.
 
-1.1. Tipo de caja auxiliar.
+1.1.- Requisitos para la apertura.
 
-Las instituciones financieras pueden habilitar cajas auxiliares temporales o permanentes, sin necesidad de solicitar autorización previa a este Organismo, cuando se trate de aquellas que reúnan las siguientes características:
+De conformidad con lo dispuesto en el artículo 37 de la Ley General de Bancos, las instituciones financieras que estén clasificadas en categorías I, II o III según su gestión y solvencia, antes de abrir cualquier oficina dentro del país, deberán informarlo a esta Superintendencia, acompañando los antecedentes para el registro de la nueva oficina.
 
-a) Que estén destinadas fundamentalmente a recibir y efectuar pagos.
+Por otra parte, las instituciones financieras que estén clasificadas en categoría IV o V, deberán obtener la autorización previa de este Organismo para abrir una oficina en el país.
 
-b) Que cuenten con una estructura administrativa mínima.
+1.2.- Instituciones que no requieren autorización.
 
-c) Que no sean utilizadas para entregar los importes por el otorgamiento de créditos, excepto de los correspondientes a préstamos de consumo, ni mantengan servicios de cuentas corrientes o de cuentas de ahorro, aunque pueden pagar cheques y recibir depósitos sobre cuentas establecidas en sucursales del banco, en la medida en que cuenten con los medios para la consulta y registro de esos pagos y depósitos.
+Las instituciones que no requieren autorización para abrir una nueva oficina, deberán enviar a esta Superintendencia, a lo menos con 15 días de anticipación a la fecha en que ella se abrirá, la información que se indica en el Anexo N° 1 de este Capítulo. Ese plazo será de dos días hábiles bancarios cuando se trate de la apertura de cajas auxiliares temporales.
 
-d) Que dependan, incluso en lo que se refiere a sus registros contables, de una sucursal ubicada en la misma comuna, salvo que se trate de servicios temporales para cubrir un determinado evento en una localidad en que no exista una sucursal.
+La obligación de atender al público para la nueva oficina regirá a contar de la fecha de apertura que la institución haya informado.
 
-e) Que cumplan con las medidas de seguridad, prevención y protección exigibles a toda oficina bancaria.
+1.3.- Instituciones que requieren autorización previa.
 
-1.2 Información a esta Superintendencia.
+Las solicitudes de autorización para abrir cualquier oficina deberán acompañarse con los antecedentes que se indican en el Anexo N° 2 de este Capítulo.
 
-Las instituciones financieras que decidan habilitar las cajas auxiliares señaladas en el numeral precedente, deberán informar a esta Superintendencia, a lo menos con diez días hábiles bancarios de anticipación a la fecha de su instalación, los siguientes datos:
+La autorización que se otorgue quedará sin efecto si la institución financiera solicitante no procede a la apertura de la oficina dentro de los 180 días siguientes a la fecha en que se autoriza.
 
-a) Lugar en que se ubicará la caja auxiliar.
+Conforme a lo establecido en el artículo 37 de la Ley General de Bancos, esta Superintendencia deberá pronunciarse dentro de un plazo de 90 días contado desde la presentación de la solicitud y para rechazarla deberá dictar una resolución fundada.
 
-b) Servicios cuya prestación justifican su apertura.
+Con posterioridad a la autorización de la apertura de una nueva oficina, la respectiva institución financiera deberá comunicar a este Organismo, para los efectos de su registro y del cumplimiento las disposiciones sobre atención obligatoria, la fecha exacta en que se abrirá la oficina autorizada. Esta comunicación se enviará a lo menos con 15 días de anticipación a la fecha en que se comenzará a atender público, acompañando los antecedentes que se mencionan en el Anexo N° 2.
 
-c) Si su funcionamiento será indefinido o solamente temporal, caso éste último en que deberán precisarse los días en que se mantendrá habilitada.
+2.- Cierre de oficinas.
 
-d) Sucursal de la que dependerá.
+Las instituciones financieras que decidan cerrar alguna oficina, deberán enviar a esta Superintendencia, a lo menos con noventa días de anticipación a la fecha de cierre, la información que a continuación se indica:
 
-### 2. Cajas auxiliares que requieren autorización previa para su apertura
+a) Fecha en que se dejará de atender al público.
 
-Para abrir cajas auxiliares distintas a las señaladas en el N° 1 precedente, las instituciones financieras deberán solicitar autorización previa, en cada caso, a esta Superintendencia.
+b) Medidas adoptadas para informar a los usuarios sobre el término de los servicios de la oficina
 
-Al solicitar la autorización antes mencionada, las instituciones financieras deberán proporcionar a esta Superintendencia la misma información señalada en el numeral 1.2 anterior, señalando detalladamente el o los servicios que se prestarán.
+c) Procedimientos adoptados respecto a los depositantes, cuando corresponda.
 
-### 3. Horario de atención de las cajas auxiliares
+3.- Traslado de oficinas.
 
-La atención al público en las cajas auxiliares señaladas en los N°s 1 y 2 de este título, queda sujeta a las normas generales sobre horario normal y horario especial.
+En caso de que se desee trasladar una oficina a un nuevo local de atención, las instituciones financieras deben ceñirse a las disposiciones sobre apertura y cierre de oficinas contenidas en los números precedentes, con respecto a los locales que se abren y cierran.
 
-No obstante lo anterior, sin perjuicio de las instrucciones del Capítulo 1-8 de esta Recopilación Actualizada de Normas, las instituciones financieras podrán habilitar cajas auxiliares que atiendan solamente en horario especial.
+No obstante, cuando una oficina sea trasladada a un nuevo local ubicado en la misma comuna y su apertura se efectúe simultáneamente con el cierre del otro local, se prescindirá del envío de los antecedentes señalados en los Anexos 1 ó 2 de este Capítulo, como asimismo de la solicitud de autorización en su caso, debiendo solamente comunicarse a esta Superintendencia lo siguiente:
 
-### 4. Cierre de cajas auxiliares
+3.1.- En relación con el local que se cerrará.
 
-El cierre de cualquier caja auxiliar de duración indefinida deberá ser comunicado a este Organismo con una anticipación mínima de diez días hábiles bancarios a la fecha del cierre.
+Para el local que cerrará sus puertas al público con motivo de un traslado, se enviará la información señalada en el N° 2 anterior dentro del plazo que allí se indica, comunicando además, el lugar al que se trasladará la oficina.
+
+3.2.- En relación con el nuevo local
+
+Para los efectos del registro y cumplimiento de las normas pertinentes al funcionamiento de la oficina, se comunicará a esta Superintendencia, al menos con quince días de anticipación a la fecha en que se comenzará a atender en el nuevo local, lo siguiente:
+
+a) Confirmación de la nueva dirección de la oficina
+
+b) Fecha de inicio de atención al público en ella.
+
+c) Antecedentes relativos al cumplimiento de las exigencias contenidas en el Decreto Supremo Exento N° 488, de 1991, del Ministerio del Interior.
+
+ANEXO N°1
+
+ANTECEDENTES PARA REGISTRAR OFICINAS QUE NO REQUIEREN AUTORIZACION DE APERTURA
+
+Para registrar una oficina cuya apertura no requiere de autorización, las instituciones financieras enviarán a esta Superintendencia los siguientes antecedentes
+
+A) Tipo de unidad de negocio de que se trata (Sucursal, caja auxiliar u oficina de apoyo)
+
+B) Servicios y productos que ofrecerá
+
+C) Lugar en que se ubicará (dirección, ciudad, comuna)
+
+D) Fecha de apertura
+
+E) Antecedentes relativos al cumplimiento de las exigencias contenidas en el Decreto Supremo Exento N° 488, del 3 de julio de 1991, del Ministerio del Interior.
+
+F) Si se trata de una sucursal
+
+a.- Estimación del volumen del negocio, proyectado para un período mínimo de cinco años, para las siguientes variables:
+
+- total de activos
+
+- nivel de colocaciones
+
+- depósitos y captaciones
+
+- porcentaje de participación de mercado en colocaciones y captaciones
+
+- flujo de ingresos y gastos
+
+b.- Monto de la inversión inicial y número de empleados
+
+c.- TIR y VAN, indicando en este último caso la tasa de descuento utilizada
+
+G) Si se trata de una caja auxiliar u otra oficina de apoyo
+
+a.- si su funcionamiento será indefinido o solamente temporal, indicando en este caso el período de funcionamiento
+
+b.- la oficina de la cual dependerá (dirección, ciudad, comuna)
+
+ANEXO N°2
+
+ANTECEDENTES QUE DEBEN ENVIAR LAS INSTITUCIONES QUE REQUIEREN AUTORIZACION PARA ABRIR OFICINAS
+
+I.- Para la solicitud de apertura.
+
+Junto con la solicitud de autorización para abrir una oficina, se enviarán a esta Superintendencia los siguientes antecedentes
+
+A) Tipo de unidad de negocio de que se trata (Sucursal, caja auxiliar u oficina de apoyo)
+
+B) Servicios y productos que ofrecerá
+
+C) Lugar en que se ubicará (dirección, ciudad, comuna)
+
+D) Si se trata de una sucursal
+
+Evaluación del proyecto que justifique la apertura Deberá contener al menos los antecedentes relativos a:
+
+- estudio de mercado
+
+- estrategia competitiva
+
+- valorización económica
+
+E) Si se trata de una caja auxiliar u otra oficina de apoyo
+
+a.- si su funcionamiento será indefinido o solamente temporal, indicando en este caso el período de funcionamiento
+
+b.- la oficina de la cual dependerá (dirección, ciudad, comuna)
+
+### II. Para el registro posterior
+
+A) Fecha de apertura
+
+B) Antecedentes relativos al cumplimiento de las exigencias contenidas en el Decreto Supremo Exento N° 488, del 3 de julio de 1991, del Ministerio del Interior.
 
 CAPITULO 1-7 (Bancos y Financieras)
 
