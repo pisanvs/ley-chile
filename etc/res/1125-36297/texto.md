@@ -1,0 +1,3 @@
+Por Resolución N° 1.125, de 19 de junio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción; declárase la caducidad de las Resoluciones N° 129, de 1985, N° 939, de 1988 y N° 473, de 1992, todas de esta Subsecretaría, sólo en cuanto autorizaron a PESQUERA LOA SUR S.A., para desarrollar actividades pesqueras extractivas con las naves "Loa 6" y "Loa 8", por haberse configurado la causal de caducidad prevista en el artículo 143 letra b) de la Ley N° 18.892 y sus modificaciones, citada en Visto.
+
+Valparaíso, 19 de junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
