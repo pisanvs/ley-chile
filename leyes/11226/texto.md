@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Romeral para contratar uno o más préstamos que produzcan hasta la cantidad de $ 3.000.000, con el fin de atender a las obras de prolongación de las líneas y dotación de fuerza eléctrica al balneario de Los Queñes; para su servicio, establece una contribución adicional de uno y medio por mil anual sobre el avalúo de los bienes raíces de la comuna.
