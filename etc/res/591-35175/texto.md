@@ -1,0 +1,5 @@
+Por Resolución N° 591, de 9 Agosto 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don ERNESTO RAMON GONZALEZ PEREA, R.U.T. N° 2.620.069-5, para iniciar actividades pesqueras de transformación, en orden a instalar una planta industrial ubicada en Sector Rural s/n°, al Sureste de Población "La Patria", en Tocopilla, sitio arrendado al Fisco de Chile, en las líneas de proceso que se indican, para elaborar los siguientes recursos hidrobiológicos: Secado, molienda y envasado de algas marinas; Chascón, Huiro palo y Canutillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 9 de Agosto de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
