@@ -3034,11 +3034,7 @@ En igual pena incurrirá el que contrajere matrimonio estando ordenado in sacris
 
 #### Artículo 383
 
-El que engañare a una persona simulando la celebración de matrimonio con ella y el que lo contrajere a sabiendas de que tiene un impedimento dirimente no dispensable según la ley, sufrirá la pena de reclusión menor en sus grados medio a máximo.
-
-Si el impedimento fuere dispensable, incurrirá en una multa de once a veinte unidades tributarias mensuales.
-
-Cuando por culpa suya no se revalidare el matrimonio, previa dispensa, en el término que el tribunal designe, será castigado con reclusión menor en su grado medio, de la cual quedará relevado cuando se revalide el matrimonio.
+El que engañare a una persona simulando la celebración de matrimonio con ella, sufrirá la pena de reclusión menor en sus grados medio a máximo.
 
 #### Artículo 384
 
@@ -3048,29 +3044,25 @@ Si lo hiciere intervenir con violencia o intimidación, la pena será reclusión
 
 #### Artículo 385
 
-El menor que de acuerdo con el funcionario llamado a legalizar su matrimonio, lo contrajere sin el consentimiento de sus padres o de las personas que para el efecto hagan sus veces, será castigado con reclusión menor en su grado mínimo.
-
-Esta pena sólo podrá imponerse a requisición de las personas llamadas a prestar el consentimiento, quienes podrán remitirla en todo caso. Deberá entenderse esto último si no entablaren la acusación dentro de dos meses, después de haber tenido conocimiento del matrimonio.
+Derogado.
 
 #### Artículo 386
 
-La viuda que se case antes de los doscientos setenta días desde la muerte de su marido, o antes de su alumbramiento, si hubiere quedado en cinta, incurrirá en las penas de reclusión menor en su grado mínimo y multa de once a veinte unidades tributarias mensuales.
-
-En las mismas penas incurrirá la mujer cuyo matrimonio se hubiere declarado nulo, si se casare antes de su alumbramiento habiendo quedado en cinta, o antes de los doscientos setenta días, contados desde la fecha de su separación legal.
-
-En los casos de este artículo deberá aplicarse lo que dispone el 128 del Código Civil en su inc. 2.°
+Derogado.
 
 #### Artículo 387
 
-El guardador que, en contravención a lo que dispone el Código Civil, antes de la aprobación legal de sus cuentas, contrajere matrimonio o prestare su consentimiento para que lo contraigan sus hijos o descendientes con la persona que tuviere o hubiere tenido en guarda, será castigado con reclusión menor en su grado medio y multa de once a veinte unidades tributarias mensuales.
+Derogado.
 
 #### Artículo 388
 
-El funcionario eclesiástico o civil que autorice matrimonio prohibido por la ley o en que no se hayan llenado las formalidades que ella exige para su celebración, sufrirá las penas de relegación menor en su grado medio y multa de seis a diez unidades tributarias mensuales.
+El oficial civil que autorice o inscriba un matrimonio prohibido por la ley o en que no se hayan cumplido las formalidades que ella exige para su celebración o inscripción, sufrirá las penas de relegación menor en su grado medio y multa de seis a diez unidades tributarias mensuales. Igual multa se aplicará al ministro de culto que autorice un matrimonio prohibido por la ley.
+
+El ministro de culto que, con perjuicio de tercero, cometiere falsedad en el acta o en el certificado de matrimonio religioso destinados a producir efectos civiles, sufrirá las penas de presidio menor en cualquiera de sus grados.
 
 #### Artículo 389
 
-En los casos de este párrafo será obligado el contrayente doloso a dotar, según su posibilidad, a la mujer que hubiere procedido de buena fe, si el matrimonio no llegare a celebrarse válidamente.
+El tercero que impidiere la inscripción, ante un oficial civil, de un matrimonio religioso celebrado ante una entidad autorizada para tal efecto por la Ley de Matrimonio Civil, será castigado con la pena de presidio menor en su grado mínimo o multa de seis a diez unidades tributarias mensuales.
 
 ## Título Octavo
 
