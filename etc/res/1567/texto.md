@@ -1,0 +1,3 @@
+Por Resolución N° 1.567, de 3 de noviembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase, por un año, a contar del 20 de mayo de 1996, el plazo otorgado a PRIETO VIAL, UGARTE Y CIA. LTDA., en el numeral 9, de la Resolución N° 273, de 1995, de esta Subsecretaría, en orden a iniciar actividades de acuicultura, en la piscicultura ubicada en sector Las Quemas, comuna de Puerto Varas, provincia de Llanquihue, X Región, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 3 de noviembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
