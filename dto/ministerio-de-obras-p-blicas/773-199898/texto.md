@@ -1,0 +1,3 @@
+Por decreto MOP Nº773, de fecha 30 de abril de 2002, se expropiaron los lotes de terreno Nºs. 8 y 9, superficies 7.133 m² y 2.176 m², respectivamente, rol de avalúo 104-26, comuna de Corral, X Región, para la obra ''Camino Conexión La Unión - Corral, Sector Morro Gonzalo, Puente Caleta Amargo, Km. 0,00000 al 5,35469'' y se acordó el valor de indemnización con su propietaria doña Leticia Slater Pavie y Otros, ascendente a la cantidad de $6.202.058.-
+
+Fiscal del Ministerio de Obras Públicas.
