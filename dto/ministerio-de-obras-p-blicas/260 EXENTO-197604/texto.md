@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº260, de fecha 22 de marzo de 2002, se expropió el lote de terreno Nº9, superficie 560 M2, rol de avalúo en trámite, comuna de Rancagua, VI Región, para la obra "Camino Ruta H-188, Sector Cruceros - Chancón, Tramo 1, Km. 0,00000 al 7,85900" y se acordó el valor de indemnización con su propietario don Rosendo González Espinoza, ascendente a la cantidad de $2.690.740.-
+
+Fiscal del Ministerio de Obras Públicas.
