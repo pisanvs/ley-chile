@@ -1,0 +1,3 @@
+Por resolución Nº 113, de 20 de noviembre del año 2000, se autorizó existencia y aprobó el estatuto de la Cooperativa de Trabajo Panalimentario Limitada, de sigla ''Coopanal Ltda.'', de la ciudad de Santiago, en los términos que da testimonio documento protocolizado al final de los registros de la Notario Laura Andrea Galecio Pesse, de la ciudad de Santiago, bajo el Nº 1.944, con fecha 2 de noviembre del 2000.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
