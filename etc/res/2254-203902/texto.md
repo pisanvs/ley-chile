@@ -1,0 +1,3 @@
+Por resolución Nº 2.254, de 18 de octubre de 2002, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 200121009 presentada por SALMONES GLACIAR DE LOS ANDES S.A., para instalar y operar un centro de cultivo ubicado en Seno Almirantazgo, Isla Tierra del Fuego, Caleta María, Sector Norte, XII Región.
+
+Valparaíso, 18 de octubre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
