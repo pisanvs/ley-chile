@@ -1,0 +1,3 @@
+Por Resolución N° 540 de 23 de julio de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 1450, de 1989, de esta Subsecretaría, que autorizó a don MARIO ROBERTO INFANTE VELASQUEZ, para iniciar actividades de cultivo en sector de Río Quenuir, Maullín, X Región, por renuncia de su titular.
+
+Valparaíso, 23 de julio de 1993. Andrés Couve Rioseco, Subsecretario de Pesca.
