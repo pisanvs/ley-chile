@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 23, de fecha 06 de marzo del 2002, se aprobó la reforma parcial al estatuto de la Cooperativa de Servicios Educacionales Windsor School Limitada, también Windsorcoop Limitada, en los términos que da testimonio la escritura pública otorgada con fecha 6 de noviembre del 2001, ante la Notario de Valdivia Sra. Carmen Podlech Michaud.
+
+Por orden del Sr. Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
