@@ -1,0 +1,3 @@
+Certifico que el Banco Central de Chile, a solicitud de los interesados, ha modificado la autorización concedida a la Casa de Cambios Daniel Concha Ltda. M.C.F. para operar como entidad del Mercado Cambiario Formal en Arica y Santiago, limitando dicha autorización exclusivamente a la oficina principal de la Casa de Cambio, ubicada en calle Chacabuco No. 300 de la ciudad de Arica.
+
+Santiago, 02 de julio de 1991.- Víctor Vial del Río, Secretario General.
