@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.648, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº6, superficie 6.378 m2, rol Nº203-29, comuna de Chaitén, Décima Región, para la obra ''Camino Ruta 7 (Longitudinal Austral), Sector Chaitén Ex Pozos de Empréstitos, Tramo Km. 0,000 al 13,07086'' y se acordó el valor de la indemnización con su propietario, Jure Vukic Vukic, ascendente a la cantidad de $3.550.586.-
+
+Fiscal del Ministerio de Obras Públicas.
