@@ -16562,9 +16562,9 @@ Por deuda indirecta deben entenderse las obligaciones que afectan a las personas
 
 No son deudores directos ni indirectos las personas que participan en una obligación sin contraer una responsabilidad personal en ella, pero que afectan bienes de su propiedad al cumplimiento de esa obligación o bien mantienen un compromiso de pago por documentos constituidos en garantía por terceros. Así ocurre, por ejemplo, con el que constituye una hipoteca para caucionar una obligación ajena, con cláusula de garantía general o sin ella; el que da bienes en prenda para garantizar obligaciones de terceros; el aceptante o cualquiera delos obligados al pago de un documento en cobranza endosado en garantía a la institución financiera en resguardo de una obligación contraída por otra persona, etc.
 
-Tampoco se considera deudor directo o indirecto, al banco emisor de una carta de crédito de exportación por el solo hecho de que el banco situado en Chile confirme dicho documento. Tales confirmaciones, entre la fecha en que se otorguen y la fecha de negociación de las respectivas cartas de crédito, no están afectas, por lo tanto, a los límites de crédito de que trata el artículo 84 de la Ley General de Bancos.
-
 Por otra parte, no se considera deudor directo ni indirecto al banco del exterior emisor de una carta de crédito que tenga por objeto garantizar obligaciones de terceros, siempre que se cumplan las condiciones establecidas en la letra d) del N°1 del artículo 84 de la Ley General de Bancos.
+
+Tampoco estarán sujetas a los límites de crédito del artículo 84 de la Ley General de Bancos las confirmaciones de cartas de crédito de exportación desde la fecha en que se otorguen y hasta la fecha de pago al beneficiario, si se trata de cartas de crédito a la vista, o hasta la fecha de la negociación, en el caso de las cartas de crédito pagaderas a plazo. No obstante, si el emisor de una carta de crédito pagadera a plazo es un banco clasificado en una categoría de riesgo igual o mejor que las indicadas en la Tabla N° 3 del Capítulo 12-13 de esta Recopilación, el período durante el cual la operación no queda afecta a los límites de crédito alcanzará hasta la fecha del pago de la carta de crédito negociada o hasta cumplirse 90 días desde su negociación, según lo que ocurra primero.
 
 4.2. Documentos adquiridos o descontados.
 
@@ -19891,18 +19891,6 @@ Asimismo, las comisiones que cobren sobre las cobranzas antes mencionadas, las a
 3.5. Gastos de franqueo y otros.
 
 Los importes que los bancos perciban por concepto de recuperación de gastos de franqueo, télex, teléfono y otros similares, serán acreditados en las cuentas que correspondan, de la partida 8315 del formulario MR1.
-
-### 4. Límites
-
-Los créditos por la negociación a plazo de cartas de crédito confirmadas y avances otorgados al exterior inherentes a cartas de crédito de exportación, están afectos a los limites de endeudamiento individual de que trata el articulo 84 de la Ley General de Bancos y que se señalan a continuación.
-
-La negociación de cartas de crédito a plazo con aceptación de letra o sin ella, cuando en este último caso se trate de cartas de crédito confirmadas, y los avances otorgados al exterior, están sujetos al limite del 30% del patrimonio efectivo del respectivo banco, siempre que sean rembolsables por intermedio de un Convenio de Pagos y Créditos Recíproco ALADI.
-
-Por otra parte, la negociación de cartas de crédito a plazo confirmadas correspondientes a exportaciones distintas a las señaladas en el párrafo precedente, y los avances otorgados al exterior sobre esas cartas de crédito, sean a la vista o a plazo, están afectos al limite del 10% del patrimonio efectivo del respectivo banco confirmador, cuando dichas operaciones no cuenten con garantía valida para los efectos de la Ley General de Bancos por un valor igual o superior al importe negociado, y del 30% de ese patrimonio efectivo, cuando lo que exceda del citado 10% esté caucionado con tal garantía.
-
-En todo caso, en los límites a que se refiere este numeral, se deben incluir las demás obligaciones que pueda tener la entidad deudora con el banco negociador,sea que estén afectas a estos margenes especiales o a los generales, del 5% para créditos sin garantía y del 25% para operaciones amparadas por garantía.
-
-Las confirmaciones de cartas de crédito de exportación, entre la fecha en que estas se otorguen y la fecha de negociación de las respectivas cartas de crédito,no están afectas a los límites de crédito de que trata el artículo 84 de la Ley General de Bancos.
 
 CAPITULO 14-8 (Bancos)
 
