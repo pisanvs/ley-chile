@@ -1,0 +1,3 @@
+Por resolución Nº1.614, de 20 de noviembre de 1998, de esta Subsecretaría, autorízase a MARCOS HERACLIO PIÑA CABELLO para ampliar actividades pesqueras autorizadas por resoluciones Nº1.278, de 1991, y Nº479, de 1997, ambas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Avenida Mackenna Nº84, Calbuco, X Región, en las líneas de elaboración que se indican los siguientes recursos hidrobiológicos: Seco-Salado: Anchoveta, Merluza del sur, Sardina española y Sardina común.
+
+Valparaíso, 20 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
