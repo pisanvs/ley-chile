@@ -1,0 +1,3 @@
+Por decreto MOP Nº681 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº14-C, superficie 625 m2, rol de avalúo Nº1130-9, comuna de Pichilemu, para la obra "Camino Pichilemu-Cáhuil, Ruta I-500, Km. 0,980 a Km 12,76217", VI Región y se acordó el valor de la indemnización con su propietario Miguel Ignacio González Feliú y Otros, ascendente a la cantidad de $4.215.094.
+
+- Fiscal del Ministerio de Obras Públicas.
