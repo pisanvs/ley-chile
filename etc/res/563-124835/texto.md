@@ -1,0 +1,5 @@
+AUTORIZA A COMPAÑIA PESQUERA SAN PEDRO S.A.C.I. PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 563, de 27 de Noviembre de 1984 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Compañía Pesquera San Pedro S.A.C.I., domiciliada en Santiago, para instalar y operar en calle Pedro Aguirre Cerda s/n., Coronel, VIII Región, una planta elaboradora de harina y de aceite de pescado, en la que podrá utilizar como materia prima los recursos sardina común, sardina española, jurel, caballa y anchoa. Asimismo, se deja constancia, que las embarcaciones en construcción, que tiene autorizada la sociedad señalada por la resolución 255, de 1983, de la Subsecretaría de Pesca, corresponden a las denominadas "Don Fernando" y "Don Jorge", con números de matrículas 2398 y 2405, respectivamente.
+
+Santiago, 27 de Noviembre de 1984.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
