@@ -1,0 +1,7 @@
+Por resolución Nº 34, 20 de Enero de 1992, de esta Subsecretaría de pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don JOSE LORENZO MANSILLA MANSILLA Lorenzo Mansilla Mansilla, R.U.T. Nº 8.986.135-7, domiciliado en la ciudad de Ancud, calle Aníbal Pinto Nº 1070, para iniciar actividades pesqueras, donde podrá operar una planta industrial en la X Región, ubicada en camino público de Ancud a Quetalmahue, localidad de Pilluco, comuna de Ancud, donde procesará en la línea de elaboración de secado artificial de algas, los siguientes recursos hidrobiológicos: Cochayuyo, Chicorea de mar, Luga-Luga, Luche, Pelillo. Adquirirá la materia prima de centros de cultivo autorizados y recolectores del área.
+
+La solicitante deberá obligada a informar oportunamente al Servicio Nacional de Pesca que corresponda, respecto del abastecimiento de recursos hidrobiológicos y de los productos finales derivados de ellos, de conformidad con lo establecido en el Art. 1º Nº 50 de la Ley Nº 19.079.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 20 de Enero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
