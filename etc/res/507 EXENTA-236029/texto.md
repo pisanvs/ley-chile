@@ -1,0 +1,3 @@
+Por resolución exenta Nº 507, de 24 de febrero de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201112041, presentada por JAIME ALBERTO MANSILLA ALVAREZ, para instalar y operar un centro de cultivo ubicado en Península de Taitao, lado weste del Estero Walker (sector D), XI Región.
+
+Valparaíso, 24 de febrero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
