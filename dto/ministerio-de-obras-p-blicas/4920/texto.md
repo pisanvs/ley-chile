@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.920, de 31 de octubre del 2000, se expropió el lote de terreno Nº18-A superficie 1.147 m2., rol de avalúo 102-16, comuna de San Pablo, para la obra Camino Ruta U-145-T, Sector Chifca - Maile - Trafún, Tramo Km. 0,000 a Km. 12,510 y se acordó precio de la indemnización con su propietario Juan Caros Meneses Ganica, ascendente a la cantidad de $1.790.515.-
+
+Fiscal del Ministerio de Obras Públicas.
