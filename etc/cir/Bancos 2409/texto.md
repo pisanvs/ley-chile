@@ -1332,9 +1332,11 @@ Quedan excluidas de las condiciones de plazos mínimos señaladas en los párraf
 
 a) Los intereses que el Banco del Estado de Chile debe pagar por los depósitos a la orden judicial en virtud de lo dispuesto en el artículo 517 del Código Orgánico de Tribunales;
 
-b) Los pagos de intereses por los depósitos en moneda extranjera a la vista efectuados mediante el documento "Giro a la vista en dólares de los Estados Unidos de América endosables" de que trata el Capítulo 13-26 de esta Recopilación Actualizada de Normas; y,
+b) Los intereses que se paguen sobre los importes de divisas mantenidas en cuentas con bancos, de conformidad con lo dispuesto en el N°3 del punto I de la letra G del Capítulo XIV y en el numeral 4.3 del Capítulo XXVI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile;
 
-c) Los intereses y reajustes que se paguen por las captaciones realizadas mediante la venta con pacto de recompra de los instrumentos que se señalan en el N° 3 del título III de este Capítulo, en cuyo caso el plazo mínimo es de cuatro días hábiles bancarios.
+c) Los pagos de intereses por los depósitos en moneda extranjera a la vista efectuados mediante el documento "Giro a la vista en dólares de los Estados Unidos de América endosables" de que trata el Capítulo 13-26 de esta Recopilación Actualizada de Normas; y,
+
+d) Los intereses y reajustes que se paguen por las captaciones realizadas mediante la venta con pacto de recompra de los instrumentos que se señalan en el N° 3 del título III de este Capítulo, en cuyo caso el plazo mínimo es de cuatro días hábiles bancarios.
 
 2. Plazos mínimos para adquirir del público títulos de crédito que hayan sido emitidos o cedidos por alguna institución financiera.
 
@@ -1790,9 +1792,7 @@ Conforme a lo dispuesto en el artículo 8° de la Ley sobre Cuentas Corrientes B
 
 Las disposiciones del Capitulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, prohíben el pago de intereses sobre depósitos a la vista, salvo en los casos expresamente autorizados.
 
-La prohibición anterior no establece excepciones respecto de las cuentas corrientes bancarias. Por consiguiente, los bancos deben abstenerse, igualmente, de pagar intereses sobre los saldos mantenidos en dichas cuentas corrientes.
-
-Lo anterior no alcanza, naturalmente, a los intereses que debe pagar el Banco del Estado de Chile en virtud de lo dispuesto en el artículo 517 del Código Orgánico de Tribunales.
+La prohibición antes mencionada no establece excepciones respecto de las cuentas corrientes. Por consiguiente, los bancos deben abstenerse de pagar intereses sobre los saldos mantenidos en dichas cuentas corrientes, salvo en los casos expresamente autorizados que se señalan en el N° 1 del título II del Capítulo 2-1 de esta Recopilación Actualizada de Normas.
 
 ### 7. Entrega de estados de movimiento y saldos de cuentas corrientes
 
@@ -1824,7 +1824,7 @@ Las referidas instrucciones se mantienen vigentes.
 
 Los depósitos en cuentas corrientes serán acreditados en la cuenta "Acreedores en cuentas corrientes", de la partida 3005.
 
-No obstante, las cuentas corrientes sujetas a condiciones especiales establecidas en las Normas de Cambios Internacionales del Banco Central de Chile, se reflejarán en la cuenta "Acreedores en cuentas corrientes especiales - normas de cambio", de la misma partida 3005.
+No obstante, las cuentas corrientes sujetas a condiciones especiales establecidas en las Normas de Cambios Internacionales del Banco Central de Chile, se reflejarán en la cuenta "Acreedores en cuentas corrientes especiales - normas de cambio", de la misma partida 3005. Los intereses que los bancos pueden pagar sobre cuentas corrientes especiales, de conformidad con las normas del Banco Central de Chile que expresamente los faculten para tal efecto, serán registrados con cargo a la cuenta "Intereses pagados por cuentas corrientes especial es-normas de cambio", de la partida 5105. Mientras no se abonen a la respectiva cuenta corriente, los intereses devengados serán registrados en la cuenta "Intereses por pagar por cuentas corrientes especiales-normas de cambio", de la partida 3820.
 
 Los depósitos por consignaciones judiciales, a que se refiere el artículo 507 del Código Orgánico de Tribunales, se registrarán en la cuenta "Depósitos por consignaciones judiciales artículo 507", de la partida 3010 "Otros saldos acreedores a la vista".
 
@@ -19976,7 +19976,7 @@ Estas recompras podrán ser por una parte o por el total de la moneda extranjera
 
 Las divisas recompradas de conformidad con lo indicado en el numeral 1.1 precedente, deberán mantenerse depositadas en una cuenta corriente especial única, abierta para tal objeto en un solo banco del país a nombre de la persona que ha efectuado la transferencia o ingreso de capital al país.
 
-Dado el carácter especial de esta cuenta corriente, los importes mantenidos en ella no devengarán intereses ni comisión alguna a favor de su titular.
+Dado el carácter especial de esta cuenta corriente, los importes mantenidos en ella no devengarán intereses ni comisión alguna a favor de su titular, salvo en los casos señalados en el N° 3 del punto I de la letra G del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
 Las empresas bancarias que abran este tipo de cuentas comentes deberán insertar en los correspondientes contratos una cláusula en la que conste que estas cuentas se manejarán, por parte del titular, con estricta sujeción a las disposiciones que, sobre el particular, se señalan en el Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, en especial en lo que se refiere a la utilización de sus fondos. Además, en los referidos contratos, el titular deberá facultar en forma irrevocable al respectivo banco, para que entregue al Banco Central de Chile toda la información y antecedentes relativos al movimiento de estas cuentas corrientes, cuando éste lo requiera.
 
