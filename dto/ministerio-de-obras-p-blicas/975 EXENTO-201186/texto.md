@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº975, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº65, superficie 1.270 m², Rol Nº2214-3, comuna de Chillán, VIII Región para la obra ''Camino Ruta N-45, Sector Cruce N-49 (Chillán) - La Capilla - Tres Esquinas, Km. 6,26000 a Km. 28,54000'' y se acordó el valor de indemnización con su propietario Carlos Moisés Lahsen Rabi, ascendente a la cantidad de $2.322.460.-
+
+Fiscal del Ministerio de Obras Públicas.
