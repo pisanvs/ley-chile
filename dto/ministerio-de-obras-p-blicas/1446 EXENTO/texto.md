@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.446 de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº 105, superficie 118 m2, sin rol, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa III'' y se acordó el valor de indemnización con su propietario César Ramiro Leyton, ascendente a la cantidad de $882.677.
+
+- Fiscal del Ministerio de Obras Públicas.
