@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº506, de 30 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del DFL. Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs. 7, 8, 9 y 10, para la ejecución de la obra "Camino Ruta P-30, Sector Lebu-Millonhue, Tramo Km. 0,00000 a Km. 9,47777", que figuran a nombre de Tripaili Suc., Rol de Avalúo 205-18, comuna de Lebu, VIII Región, superficies 4.500, 1.995, 2.832 y 605 m2. La Comisión de peritos fijó con fecha 10 de agosto de 1999, el valor provisional de la indemnización en la cantidad de $702.087, lote 7; $350.865, lote 8;
+
+$354.452, lote 9 y $211.750, lote 10. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
