@@ -1,0 +1,3 @@
+Por resolución Nº 1.311, de 12 de julio de 1999, de esta Subsecretaría, déjase sin efecto las resoluciones Nº939 de 1986 y Nº 325 de 1987, ambas de esta Subsecretaría que autorizaron a Federico Lorenzo Celis Torres, para operar un centro de cultivo en Bahía La Herradura de Guayacán, comuna de Coquimbo, provincia de Elqui, IV Región.
+
+Valparaíso, 12 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
