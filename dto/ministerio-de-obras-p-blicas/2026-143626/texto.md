@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.026, de 30 de julio de 1999, se expropiaron los lotes de terreno No. s. 128 y 130, superficies 5.047 m2. y 612 m2., rol de avalúo 192-2, comuna de Puchuncaví, para la obra Ampliación Camino Nogales - Puchuncaví, Ruta F-20, Quinta Región, y se acordó el valor de indemnización con su propietaria Agrícola El Pangue S.A., ascendente a la cantidad total de $ 7.313.993.-
+
+Fiscal del Ministerio de Obras Públicas.
