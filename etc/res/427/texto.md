@@ -1,0 +1,3 @@
+Por Resolución N° 427, de 25 de abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase, conforme al artículo 7° del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, la Resolución N° 536, de 1990, de esta Subsecretaría, que autorizó a EDWIN HUGO SCHMEISSER VASQUEZ, R.U.T. N° 1.916.103-K, para operar un centro de cultivo ubicado en río Cóndor, Comuna de Río Negro, Provincia de Osorno, X Región.
+
+Valparaíso, 25 de abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
