@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.736, de fecha 30 de diciembre de 2004, se expropiaron los lotes de terreno Nºs. 3 y 5, superficies 292 y 315 m²., Rol Nº 445-65, comuna de Gorbea, IX Región para la obra "Reposición, Construcción y Habilitación de Caminos para la Vialidad Complementaria Concesión Internacional Ruta 5 Sur, Tramo Temuco-Río Bueno Puerto Montt, Camino Conexión Calle de Servicio 1 (sector Santa Juana), comuna de Gorbea, provincia de Cautín, IX Región, y se acordó el valor de indemnización con su propietario Hugo César Sáez Maldonado, ascendente a la cantidad de $1.311.425.
+
+Fiscal del Ministerio de Obras Públicas.
