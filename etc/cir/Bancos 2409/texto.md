@@ -9990,7 +9990,7 @@ Los reajustes e intereses se registrarán en el activo en cuentas complementaria
 
 a) Por la adquisición.
 
-Debe: - "Efectos de comercio adquiridos sin responsabilidad", de la partida 1135 ó 1230, por el valor par del título de crédito adquirido. En caso de que el documento adquirido sólo tenga el valor final del crédito, el registro se efectuará por dicho valor final.
+Debe: - La cuenta de colocaciones que corresponda según el crédito de que se trate, cuando este sea adquirido a otra institución financiera, o bien, la cuenta "Efectos de comercio adquiridos sin responsabilidad", de la partida 1135 ó 1230, cuando este sea adquirido del público. Se registrará el valor par del título de crédito adquirido, o su valor final en caso de que sólo tenga el valor final.
 
 - "Diferencias de precio por compra de efectos de comercio", de la partida 5605, por la diferencia entre el valor par del documento adquirido y el precio de compra, si este último fuere mayor.
 
