@@ -1,0 +1,5 @@
+Por Resolución N° 1348, de 30 de Diciembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA Y CONSERVERA EL ANCLA Y COMPAÑIA LTDA., R.U.T. N° 79.698.840-1, para ampliar actividades que tiene autorizadas por Resoluciones N° 174, de 1989 y N° 149, de 1992, ambas de esta Subsecretaría, en orden a operar su planta industrial en la X Región, ubicada en Avenida Brasil N° 65, Comuna de Calbuco, provincia de Llanquihue, donde incorporará a las líneas de elaboración de congelado, conservas, los siguientes recursos hidrobiológicos, que adquirirá a pescadores artesanales: Almeja, Chitón, Chitón espinoso, Caracol palo palo, Caracol piquilhue, Caracol rubio, Pepino de mar.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.-
+
+Valparaíso, 30 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
