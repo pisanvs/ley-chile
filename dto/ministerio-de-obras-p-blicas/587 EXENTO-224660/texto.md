@@ -1,0 +1,5 @@
+Por decreto MOP exento N° 587, de 31 de marzo de 2004, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley N° 15.840, se expropió el lote de terreno N° 2, para la ejecución de la obra "Laja Diguillín, Area de Riego Yungay, Canal Graneros 1 y Alimentación A. de R. Los Puquios, Km. 0,023 al Km.
+
+0,182", que figura a nombre de Chavarría Herrera María Matilde, Rol de Avalúo 480-21, comuna de Yungay, VIII Región, superficie 699 m². La comisión de peritos con fecha 16 de noviembre de 2002, fijó el monto de la indemnización provisional en la cantidad de $407.460.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley N° 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
