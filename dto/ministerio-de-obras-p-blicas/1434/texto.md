@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.434, de 31 de agosto de 1998, se expropió el lote de terreno No. 53, superficie 2.311,1 m²., rol de avalúo 166-143, comuna de Colina, para la obra Camino Santiago-Colina-Los Andes, Sector A, Américo Vespucio-By Pass Colina, y se acordó el valor de indemnización con sus propietarios Vorwerk Mattewsohn Rolando Bernardo y Otros, ascendente a la cantidad de $ 35.173.883.-
+
+Fiscal del Ministerio de Obras Públicas.
