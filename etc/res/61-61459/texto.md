@@ -1,0 +1,3 @@
+Por resolución Nº 61, del 18 de Febrero de 1997, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VIII Región del Bío Bío, se adjudicó a la Sociedad Leonet Guzmán Acuña Limitada, la concesión para operar hasta el día 7 de Septiembre de 1997 a contar de la fecha de publicación del presente extracto, un establecimiento ubicado en calle Ejército Chileno Nº 346, de Chillán, destinado a la revisión técnica y verificación de emisión de contaminantes de los vehículos motorizados, remolques, según el inciso segundo del artículo 7º del D.S. Nº 156/90, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Miguel Reyes Núñez, Secretario Regional Ministerial Transportes y Telecomunicaciones, VIII Región del Bío Bío.
