@@ -18,7 +18,7 @@ El Departamento de Accidentes del Trabajo y Enfermedades Profesionales del Servi
 
 <!-- parte:9513786 -->
 
-El Departamento se relaciona con la Dirección General del Servicio a través de la Gerencia y depende de ésta.
+El Departamento se relaciona con la Dirección General del Servicio y depende de ésta.
 
 #### Artículo 3°
 
