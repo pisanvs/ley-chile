@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN COMUNA DE CABRERO
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 138, de 20 de Enero de 1989, conforme Art. 5° transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado predios "Hijuela Segunda de Quinchereguas", "Hijuela Segunda Denominada Purísima del antiguo Fundo Río Claro", "Parcela Norte B y Norte C de la Hijuela Primera del Fundo Río Claro y Fundo Coihuico" y "Parcela Sur formada por la hijuelación del fundo denominado Coihuico" de la comuna de Cabrero, VIII Región, y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 29, sitios N°s. 1 al 3, 6 al 8 y Reserva Cora Lote A del Proyecto de Parcelación "Los Leones" formado por predios señalados entre otros. Los Derechos de Agua se extraen del canal Río Claro derivado del río Laja. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Nacional (S).
