@@ -1,0 +1,7 @@
+APRUEBA MODIFICACION DE ESTATUTOS DE "BICE VIDA COMPAÑIA DE SEGUROS S.A."
+
+Certifico: Que por resolución exenta Nº 133 de 26 de marzo de 2004, se aprobó la modificación de los estatutos de la sociedad anónima "Bice Vida Compañía de Seguros S.A.", acordada en Junta Extraordinaria de Accionistas de 19 de enero de 2004, cuya acta consta de la escritura pública de 16 de febrero de 2004, otorgada ante doña Leonor Gutiérrez Gatica, suplente del Notario de Santiago don Cosme Fernando Gomila Gatica, domiciliado en Paseo Ahumada 341, cuarto piso, Santiago.
+
+La modificación consiste en el aumento del capital social de $37.596.957.605.-, dividido en 6.374 acciones de una misma serie y del mismo valor, íntegramente suscrito y pagado, a $46.223.374.895.- dividido en 7.830 acciones de una misma serie y del mismo valor, mediante la emisión de 30 acciones liberadas de pago correspondiente a la capitalización de reservas de sobreprecio de venta de acciones por $177.742.114.-, y 1.426 acciones de pago de una misma serie, mismo valor y sin valor nominal, correspondiente a $8.448.675.175.-, a pagar en el plazo de tres años a contar del 19 de enero de 2004.
+
+Santiago, 26 de marzo de 2004.- Carmen Undurraga Martínez, Secretario General.
