@@ -1,0 +1,19 @@
+CONSTITUCION DEL "PARTIDO DEMOCRATICO DE IZQUIERDA"
+
+Por resolución N° O-0352, de fecha 21 de Enero de 1994, se dispuso la publicación del siguiente extracto, para los efectos señalados en el artículo 5° de la Ley N° 18.603.
+
+"En San Miguel, con fecha 26 de Noviembre de 1993, se otorgó ante Notario Alfredo Parra Ulloa, escritura pública de constitución de "Partido Democrático de Izquierda" la que fue modificada por escritura ante el mismo notario de 18 de Enero de 1994.
+
+El partido se denomina "Partido Democrático de Izquierda", su sigla es "P.D.I.", su símbolo un sol en fondo verde con trazos blancos, rojo fucsia y amarillo seguido de P.D.I. y su lema "Un Chile para Todos".
+
+Resumen Declaración de Principios Partido inspirado en concepción progresista, laica, democrática y de humanismo social, interpreta tradición de izquierda laica, pluralista, tolerante y no violenta. Proclama respeto al estado de derecho democrático social, defiende libertades individuales y colectivas, derechos de minorías y rechaza cualquier tipo de discriminación social. El partido es partidario de una economía que integre propiedad estatal en áreas estratégicas, mixta y privada con plenas garantías a inversión nacional y extranjera. Cree en una economía social y democrática de mercado; hace de la defensa del ambiente un aspecto clave de su política. Un objetivo central de su política social es la erradicación de la indigencia y superación de la pobreza mediante políticas directas del Estado y conjunto de sociedad. Aspira a transformaciones institucionales para eliminar residuos autoritarios que limitan ejercicio de la soberanía popular. Considera que el poder militar debe supeditarse al poder civil; aspira a una creciente reducción del gasto militar. Preconiza la existencia de un amplio tejido de organizaciones sociales con plena autonomía en la expresión de los intereses de sus representados y una integración activa del mundo social con un Estado moderno y eficiente. El P.D.I. otorga a Municipalidades y Consejos Regionales decisiva importancia en el ejercicio de la democracia social y en la integración de la población y Regiones a la conducción de la política nacional. En lo internacional es partidario de la más amplia cooperación de integración entre la naciones, de un reordenamiento de las relaciones Norte-Sur, promueve relaciones comerciales basadas en principios de equididad, de tratados de libre mercado que eliminen barreras proteccionistas, y es partidario de la amplia integración latinoamericana para la generación de un mercado interno con condiciones de privilegio para nuestros países y para establecer condiciones comunes de intercambio con el mundo desarrollado".
+
+La Directiva Central Provisional está integrada por las siguientes personas: Presidente, Fanny Pollarolo Villa; Vicepresidentes, Luis Alberto Guastavino Córdova, Mariano Critóbal Requena Bichet, Justo Zamora Rivera, Eduardo Alejandro Morales Espinoza, Arturo Volantines Reinoso y Abraham Sergio Vuskovic Rojo; Secretario General, José Antonio Leal Labrín; y Tesorero José Reinaldo Sáez Moya.
+
+El Tribunal Supremo Provisional está integrado por las siguientes personas: Presidente, Pablo Andrés Mecklenburg Bravo; Vicepresidente, Francisco Javier Palacios Torres; Secretario, Hugo Armando Cox Morán; Vocal Uno, Luis ALberto Mansilla Becerra y Vocal Dos, Raúl Francisco Palacios Alegría.
+
+El domicilio común de la Directiva Central y del Tribunal Supremo Provisionales es pasaje República N° 15, Departamento 11, Santiago.
+
+En caso de fallecimiento, renuncia o imposibilidad definitiva o transitoria antes de constitución de Consejo General de alguno de los nombrados, será reemplazado por el suscriptor de la escritura que designe mayoría de Directiva Central Provisional".-
+
+Andrés Merino Espiñeira, Director (S).
