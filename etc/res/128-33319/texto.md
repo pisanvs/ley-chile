@@ -1,0 +1,5 @@
+Por Resolución N° 128, de 27 de Enero de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2° de la Resolución N° 1018, de 1993, de esta Subsecretaría, que autorizó a PROCESADORA DE ALIMENTOS OMEGA SEAFOODS LIMITADA, R.U.T. N° 78.410.990-9, para iniciar actividades pesqueras de procesamiento, en el sentido de incorporar en la nómina de especies a ser utilizadas como materia prima de los procesos autorizados, las siguientes: Bacalao de J. Fernández, Brótula, Cazón, Cojinoba del Sur, Chancharro, Cachurreta, Merluza de cola, Merluza de tres aletas, Merluza del Sur, Ostra chilena, Salmón coho, Salmón del atlántico, Sargo, Trucha arco iris, Caracol locate, Centolla, Centollón y Langosta de J. Fernández.
+
+En el ejercicio de las actividades de procesamiento autorizadas, la solicitante deberá dar estricto cumplimiento a las normas legales y relamentarias que regulen la conservación de recursos hidrobiológicos.-
+
+Valparaíso, 27 de Enero de 1994.- Alvaro Briones Ramírez, Subsecretario de Pesca, Subrogante.
