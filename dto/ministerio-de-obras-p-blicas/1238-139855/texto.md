@@ -1,0 +1,7 @@
+Por decreto MOP Nº1.238, de 24 de mayo de 1999, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs.1, 3, 12, 12-A, 13 y 14, para la obra Camino Ruta H-455, sector Sta. Amalia-Pimpinela, Tramo Kms. 0.000 al 12.282,94, que figuran a nombre de Julio Pellegrini García Moreno, Joaquín Luis Gormaz Arrano, Max Andrés Lavín Besa y Eduardo Hechem Jottar, roles de avalúos 31-288, 31-338, 31-22, 31-375 y 31-377, Comuna de Requínoa, superficies 141, 135, 3.100, 380, 218 y 435 m2. respectivamente. La comisión de peritos compuesta por los señores José Luis Pezo Segovia, Eduardo Schonhaut Guendelman y Florencio Carter Bertolotto, fijó con fecha 14 de noviembre de 1997, los lotes Nºs.1, 3, 12, 13 y 14 y los peritos señores Eduardo Schonhaut Guendelman, Alejandro Padilla Henríquez y José Luis Pezo Segovia, tasaron con fecha 15 de septiembre de 1998, el lote Nº12-A, el valor provisional de las indemnizaciones en las cantidades de $11.285.000, para el lote 1; $478.000, lote 3;
+
+$5.810.000, lote Nº12; $684.000, para el lote 12-A;
+
+$3.306.800, para el lote 13 y $6.576.000, para el lote 14. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
