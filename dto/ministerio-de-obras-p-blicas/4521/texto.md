@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.521, de 29 de septiembre del 2000, se expropió el lote de terreno Nº741, superficie 414 m2., rol de avalúo 935-1, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca, Sector C, Acceso Sur a Región Metropolitana y se acordó el valor de indemnización con su propietaria Rosa Irma Bustos Aguilera, ascendente a la cantidad de $2.959.512.-
+
+Fiscal del Ministerio Públicas.
