@@ -1,0 +1,3 @@
+Por decreto MOP Nº 281 de 31 de marzo de 2004, se expropió el lote de terreno Nº 88, superficie 1.885,00 m², rol de Avalúo Nº 217-49, comuna de Lumaco, para la obra "Camino Mejoramiento Ruta R-90-P, Sector Traiguén - Lumaco, Km. 0,000 a Km. 21,86933, Tramo II, Km. 12,181 al Km. 21,865", IX Región y se acordó el valor de la indemnización con su propietario Casimiro Cavallieri Leonelli, ascendente a la cantidad de $8.610.072.
+
+- Fiscal del Ministerio de Obras Públicas.
