@@ -1,0 +1,3 @@
+Por resolución Nº1.748, de 16 de agosto de 2002, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº1.501 de 2002, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO (IFOP), para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia "Estudio biológico- pesquero del recurso Loco (Concholepas concholepas), en áreas de manejo de la XI Región", en el sentido de señalar que la pesca de investigación se realizará entre el 26 de julio y el 25 de agosto de 2002, ambas fechas inclusive, quedando exceptuada del cumplimiento de las medidas de administración relativas a las vedas biológica y extractiva del mencionado recurso.
+
+Valparaíso, 16 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
