@@ -1,0 +1,5 @@
+Por resolución Nº 2.229, de 15 de octubre de 2002, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 2.060 de 2002, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacial de jurel en la zona costera de la VIII Región. Segunda etapa", en el sentido de incorporar las siguientes lanchas artesanales cerqueras, inscritas en el Registro Artesanal de la VIII Región, sección pesquería de la especie jurel, a la nómina de naves participantes en la señalada pesca de investigación: María Margot IV, Ovnis, Rimalfredan, Acuario III, Francisco Alejandro, Daniel y Don Tito R.
+
+Cada una de las embarcaciones artesanales antes señaladas, podrá capturar 126 toneladas de jurel, con cargo a la cuota de investigación autorizada en el numeral 5º de la resolución Nº 2.060 de 2002, antes individualizada.
+
+Valparaíso, 15 de octubre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
