@@ -5926,7 +5926,23 @@ En todo caso, cabe tener presente que para los efectos de las relaciones que se 
 
 9.- Información al público.
 
-Las entidades financieras informarán al público las tasas de interés que apliquen a sus colocaciones y captaciones, de la forma dispuesta en el numeral 10.4 de la Circular N° 1.698-184 de 27 de agosto de 1980. Para ese efecto deberán considerar también la desagregación de las operaciones en moneda chilena no reajustables, según los plazos de hasta 89 días y de 90 días o más.
+Las entidades financieras informarán al público las tasas de interés que apliquen a sus colocaciones y captaciones, de la siguiente forma:
+
+a) La tasa de interés que corresponde a operaciones tanto de colocaciones como de captaciones, reajustables y no reajustables, deberá expresarse en términos anuales siendo facultativo indicar la correspondiente al período a que esté referida la operación (30, 40, 60, 90 días, etc.).
+
+Para ese efecto, las tasas por un período se expresarán en términos anuales considerando, linealmente, su equivalente para 360 días; por ejemplo:
+
+.
+
+b) La modalidad de cálculo de la tasa de interés tanto de las colocaciones como de las captaciones, debe ser claramente explicada, sobre todo en el caso de las primeras en que el cobro de interés puede ser vencido o anticipado.
+
+En todo caso, la información al público deberá hacerse en términos de tasas de interés de cobro vencido o por el equivalente anticipado cuando se trate de colocaciones, y de pago vencido en el caso de las captaciones.
+
+c) En la información de las operaciones no reajustables deberán señalarse separadamente, cuando proceda, las tasas de operaciones hasta 89 días de las tasas para operaciones de 90 días o más.
+
+d) Los bancos y sociedades financieras pondrán especial cuidado en proporcionar al público la información de que se trata en forma clara y completa mediante la colocación de pizarras en lugares visibles y destacados, que contengan solamente esa información, de modo que ella sea fácilmente ubicable para todos.
+
+Además, las instituciones deberán mantener a disposición del público un extracto con ejemplos de las modalidades de cobro de intereses, de tal manera que tanto los usuarios de créditos, como los depositantes e inversionistas puedan comparar sin dificultad las tasas de interés vigentes en el mercado.
 
 10.- Información a esta Superintendencia de las tasas de interés cobradas.
 
