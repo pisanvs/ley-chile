@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.204, de 3 de diciembre de 2003, de esta Subsecretaría, autorízase a PESQUERA QUINTERO S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida 21 de Mayo Nº 1057, Quintero, V Región, en las líneas de elaboración de Congelado, Cocido y Fresco enfriado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 3 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
