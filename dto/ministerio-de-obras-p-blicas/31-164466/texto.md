@@ -1,0 +1,3 @@
+Por decreto MOP Nº 31 de 26 de enero de 2000, se dejó sin efecto decreto MOP Nº 1.613 de fecha 21 de septiembre de 1998, que ordenaba la expropiación del lote Nº 7-3, para la obra: Camino Santiago - Colina - Los Andes, Sector ''A'' A. Vespucio - By Pass Colina, Km. 0.504,10 al Km. 4.758,40, Región Metropolitana. La Publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
