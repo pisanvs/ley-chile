@@ -1,0 +1,7 @@
+#### Artículo 1
+
+<!-- parte:8295358 -->
+
+Por Resolución N° 1.038, de 3 de junio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ALDEMAR S.A., para continuar desarrollando las actividades pesqueras autorizadas por Resolución N° 191, de 1994, de esta Subsecretaría, a Euro Trading Company Ltda., R.U.T. N° 78.437.300-2, en virtud de lo solicitado por las peticionarias y la Escritura Pública citada en Visto.
+
+Valparaíso, 3 de junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
