@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA E INDUSTRIAS MARINAS LIMITADA, "INDUMAR LTDA.", PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA
+
+Por resolución No. 160, de 23 de Febrero de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera e Industrias Marinas Limitada "Indumar Ltda.", domiciliada en Talcahuano, para operar una embarcación actualmente en construcción, en el litoral de la VIII Región, en faenas extractivas de los siguientes recursos hidrobiológicos: jurel, sardina española, caballa, anchoa, agujilla y sardina común. Y derógase a petición de la Sociedad "Torres y Rivera Limitada", la resolución No. 198, de 1986, de la misma Subsecretaría, que la autorizó para operar la embarcación en construcción a que se refiere la resolución que se extracta.
+
+Valparaíso, 23 de Febrero de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
