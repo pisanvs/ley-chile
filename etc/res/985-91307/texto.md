@@ -1,0 +1,3 @@
+Por resolución No. 985 de 27 de Octubre de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, inmueble ubicado en calle Haendel No. 2991, presunto rol avalúos No. 715-8, comuna San Joaquín aparantemente dominio de don Dagoberto González Zamorano, comisión integrada por peritos señores Jorge Cavagnaro Michelis, ingeniero civil, Luis Rojas Quezada, constructor civil y Luis del Pozo Concha, arquitecto, según informe de 20.07.89, fijó monto provisional indemnización en $ 3.640.675.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
