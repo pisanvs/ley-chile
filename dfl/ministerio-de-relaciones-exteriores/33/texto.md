@@ -1,0 +1,1501 @@
+FIJA ESTATUTO DEL PERSONAL DEL MINISTERIO DE RELACIONES EXTERIORES
+
+Núm. 33.- Santiago, 2 de Enero de 1979.- Vistos: lo dispuesto en los decretos leyes N°s. 1, de 1973; 527 y 806, de 1974, y las facultades otorgadas al Presidente de la República en el artículo 3° del decreto ley 2.101 y el decreto ley 2.311.
+
+Considerando: que el Estatuto del Personal del Ministerio de Relaciones Exteriores, incluyendo sus Plantas, debe seguir un riguroso criterio científico que permita tener un instrumento moderno que ejecute con eficacia y rapidez los puntos básicos de la política exterior del Supremo Gobierno, dicto el siguiente Decreto con fuerza de ley:
+
+ESTATUTO DEL PERSONAL DEL MINISTERIO DE RELACIONES EXTERIORES
+
+## Capítulo I
+
+Disposiciones preliminares
+
+#### Artículo 1°
+
+El personal del Ministerio de Relaciones conforma un servicio especializado, profesional, jerarquizado y disciplinado, que se regirá por las disposiciones del presente Estatuto y en subsidio por las normas que rigen a la Administración Civil del Estado.
+
+#### Artículo 2°
+
+Las prohibiciones establecidas en los incisos 2° y 3° del artículo 156 de la ley 10.336, no se aplicarán a los traslados y comisiones dispuestos por el Ministerio de Relaciones Exteriores, y sus servicios públicos dependientes y relacionados, tratándose en este último caso de comisiones y cometidos al extranjero.
+
+#### Artículo 3°
+
+Las designaciones, ascensos y demás resoluciones relativas al personal del Servicio Exterior no podrán ser objeto de la insistencia a que se refiere el inciso 1° del artículo 10° de la ley 10.336.
+
+#### Artículo 4°
+
+El Presidente de la República podrá nombrar Cónsules Honorarios. Igualmente, podrá nombrar hasta dos adictos civiles honorarios por cada Misión Diplómatica.
+
+Estos funcionarios no tendrán derecho a percibir asignación alguna, salvo gastos de oficina cuando se trate de Cónsules honorarios que mantengan oficina abierta al público.
+
+#### Artículo 5
+
+El Presidente de la República podrá designar hasta treinta y tres agregados a contrata para desempeñarse en el exterior, según lo requieran las conveniencias del Servicio. En estos casos la remuneración no será mayor a la que perciba un funcionario de Cuarta Categoría Exterior, Planta "A". El Presidente de la República, por decreto supremo fundado, podrá exceptuar en casos calificados los requisitos de ingreso a que se refiere el artículo 12.
+
+Las personas designadas en calidad de agregados deberán poseer tanto la experiencia como un idioma que sean adecuados al desempeño de las funciones que se les asignen, según lo disponga el respectivo reglamento.
+
+#### Artículo 6
+
+El Ministerio tendrá las siguientes plantas de funcionarios:
+
+1. Planta del Servicio Exterior.
+
+2. Planta de la Secretaría y Administración General del Ministerio de Relaciones Exteriores.
+
+3. Planta de la Subsecretaría de Relaciones Económicas Internacionales.
+
+## Capítulo II
+
+Del personal de Servicio Exterior
+
+### Párrafo 1°
+
+De las Plantas
+
+#### Artículo 7°
+
+La Planta de Servicio Exterior se divide en Planta "A" Presupuesto en moneda extranjera y Planta "B" Presupuesto en moneda nacional.
+
+La Planta "A" tiene las siguientes estructuras de categorías y grados:
+
+PRIMERA CATEGORIA EXTERIOR: Embajadores.
+
+SEGUNDA CATEGORIA EXTERIOR: Ministros Consejeros o
+
+Cónsules Generales de
+
+1a. Clase.
+
+TERCERA CATEGORIA EXTERIOR: Consejeros o Cónsules
+
+Generales de 2a. Clase.
+
+CUARTA CATEGORIA EXTERIOR: Primeros Secretarios o
+
+Cónsules de 1a. Clase.
+
+QUINTA CATEGORIA EXTERIOR: Segundos Secretarios o
+
+Cónsules de 2a. Clase.
+
+SEXTA CATEGORIA EXTERIOR: Terceros Secretarios o
+
+Cónsules de 3a. Clase.
+
+La Planta "B" tiene las siguientes estructuras de categorías y grados:
+
+PRIMERA CATEGORIA EXTERIOR: Embajadores.
+
+SEGUNDA CATEGORIA EXTERIOR: Ministros Consejeros o
+
+Cónsules Generales de
+
+1a. Clase.
+
+TERCERA CATEGORIA EXTERIOR: Consejeros o Cónsules
+
+Generales de 2a. Clase.
+
+CUARTA CATEGORIA EXTERIOR: Primeros Secretarios o
+
+Cónsules de 1a. Clase.
+
+QUINTA CATEGORIA EXTERIOR: Segundos Secretarios o
+
+Cónsules de 2a. Clase.
+
+SEXTA CATEGORIA EXTERIOR: Terceros Secretarios o
+
+Cónsules de 3a. Clase.
+
+SEPTIMA CATEGORIA EXTERIOR: Terceros Secretarios de
+
+2a. Clase.
+
+#### Artículo 8°
+
+El personal podrá ser acreditado en el exterior en funciones diplomáticas, consulares o de otra naturaleza que el Servicio requiera. En el país, desempeñará las funciones que se le asigne en la estructura orgánica del Ministerio.
+
+#### Artículo 9°
+
+La carrera diplomática de los funcionarios pertenecientes a la Planta del Servicio Exterior del Ministerio se inicia en la 7a. Categoría, en calidad de 3er. Secretario de 2a. Clase y culmina en la 1a. Categoría, en el Grado de Embajador.
+
+Inciso Suprimido.
+
+#### Artículo 10°
+
+Los funcionarios, con excepción de los Embajadores y de los Terceros Secretarios de Segunda Clase, gozarán del mismo beneficio de inamovilidad que el resto del personal de la Administración Civil del Estado.
+
+#### Artículo 11
+
+Los Ministros Consejeros o Cónsules Generales de Primera Clase y Consejeros o Cónsules Generales de Segunda Clase de la Planta del Servicio Exterior que fueren acreditados en el exterior, designados en cargos en el país con rango de Embajador o designados en un cargo de la exclusiva confianza por el Presidente de la República en el Ministerio, conservarán la propiedad de sus cargos en dicha planta. Cuando estos funcionarios presenten la renuncia a esos cargos, se entiende que lo hacen a su rango y distinción, pero que conservan su grado y categoría en el escalafón, a menos que en ella expresen lo contrario.
+
+### Párrafo 2°
+
+Del Ingreso
+
+#### Artículo 12°
+
+A la Planta del Servicio Exterior se ingresará solamente en la Séptima Categoría Exterior, Terceros Secretarios de 2a Clase. Para ello deberá acreditarse:
+
+- **a)** Tener título profesional universitario o grado académico;
+
+- **b)** Situación Militar al día;
+
+- **c)** Salud compatible con las normas del Servicio;
+
+- **d)** Haber sido aprobado en los exámenes a que se refiere el artículo 13°, y
+
+- **e)** Haber cumplido los requisitos establecidos en el Estatuto Administrativo y en este Estatuto.
+
+Inciso Eliminado.
+
+#### Artículo 13°
+
+La Academia Diplomática "Andrés Bello", en cumplimiento de sus funciones, será la encargada de organizar, recibir y calificar los examenes que deban rendir las personas que postulen al Servicio Exterior de la República, ingresando aquellos que ocupen los primeros lugares de evaluación final. El reglamento determinará los elementos que deberán tomar en cuenta las autoridades del Ministerio para realizar dicha evaluación.
+
+Los alumnos regulares de la Academia deberán cursar dos años de estudios.
+
+### Párrafo 3°
+
+Del Escalafón
+
+#### Artículo 14°
+
+La confección del Escalafón anual del Servicio Exterior corresponderá al Departamento de Personal, conforme a los antecedentes de mérito que resulten de los procesos calificatorios en la forma que más adelante se indica. El Escalafón será impreso y distribuido a todo el personal y regirá desde el 1° de Enero de cada año.
+
+#### Artículo 15
+
+Para todos los efectos, el Escalafón de la Planta del Servicio Exterior se elaborará sobre la base del mérito, de acuerdo con las siguientes normas:
+
+a) Dentro de cada grado o categoría, los funcionarios se ubicarán según el orden de las listas de calificación que les haya correspondido y, dentro de ellas, de acuerdo con la nota y el puntaje resultante.
+
+b) Cuando se haya producido igualdad en la ubicación establecida de acuerdo con la letra anterior, los funcionarios se ubicarán según su antiguedad en el grado o categoría. En caso de coincidir en este aspecto, primará la antiguedad en la Planta del Servicio Exterior; de subsistir tal igualdad, se atenderá, sucesivamente, a la antiguedad en el Ministerio y en la Administración Pública. Finalmente, en caso de mantenerse esta situación, decidirá el Presidente de la Junta de Calificación o de Revisión y Clasificación.
+
+#### Artículo 16
+
+DEROGADO.-
+
+#### Artículo 17
+
+DEROGADO.-
+
+### Párrafo 4°
+
+De las Calificaciones
+
+#### Artículo 18°
+
+Los funcionarios serán calificados anualmente, con el objeto de evaluar su capacidad, preparación, desempeño funcionario, cualidades personales y demás condiciones que se estimen necesarias para el cumplimiento de las obligaciones que impone el Servicio.
+
+No serán calificados aquellos funcionarios cuyo desempeño en su categoría o grado sea inferior a tres meses, durante el correspondiente período calificatorio.
+
+#### Artículo 19°
+
+El proceso calificatorio abarcará el período de trabajo comprendido entre el 1° de Octubre de un año y el 30 de Septiembre del año siguiente y se referirá, exclusivamente, a las actividades funcionarias desarrolladas en dicho lapso.
+
+#### Artículo 20°
+
+Se exceptuarán del proceso calificatorio los funcionarios que desempeñen cargos de la exclusiva confianza del Presidente de la República y los Embajadores.
+
+#### Artículo 21°
+
+El personal, de acuerdo con el puntaje que se le asigne, será ubicado en las siguientes listas:
+
+Lista N° 1 de Mérito.
+
+Lista N° 2 Buena.
+
+Lista N° 3 Regular.
+
+Lista N° 4 Mala.
+
+#### Artículo 22°
+
+El funcionario que fuere calificado en Lista 3 no podrá ascender mientras permanezca en ella y en ningún caso podrá ser destinado al extranjero hasta después de dos años, contados desde la fecha de tal calificación.
+
+Si se encontrare prestando servicios en el exterior, deberá ser adscripto al Ministerio dentro del plazo de treinta días, contado desde la fecha en que sea notificado de la resolución firme o ejecutoriada de la Junta de Apelaciones.
+
+#### Artículo 23°
+
+El Reglamento establecerá las normas, funcionamiento y demás disposiciones necesarias del sistema calificatorio y de apelación, así como la constitución y funcionamiento de la Junta de Calificación o de Revisión y Clasificación.
+
+### Párrafo 5°
+
+De los Ascensos
+
+#### Artículo 24°
+
+Para ocupar las vacantes que se produzcan en cada grado o categoría, se ascenderá a los funcionarios del grado o categoría inmediatamente inferior, siguiendo el orden de prelación que establezca el Escalafón de la Planta del Servicio Exterior.
+
+#### Artículo 25°
+
+Para ser ascendido a la categoría superior, el funcionario deberá:
+
+1. Haber aprobado los requisitos de perfeccionamiento que establezca el reglamento. Los Consejeros o Cónsules Generales de Segunda Clase deberán aprobar un programa de perfeccionamiento y alta dirección impartido por la Academia Diplomática de Chile "Andrés Bello", para los funcionarios del Ministerio y de sus servicios dependientes y relacionados. Asimismo, los Segundos Secretarios o Cónsules de Segunda Clase deberán aprobar un curso de perfeccionamiento de la Academia Diplomática de Chile "Andrés Bello". La Academia Diplomática, en coordinación con la Dirección General Administrativa de la Subsecretaría de Relaciones Exteriores, determinará la convocatoria, contenidos, características y requisitos del curso y del programa.
+
+2. Haber permanecido el tiempo que se indica en los siguientes grados:
+
+Terceros Secretarios de 2a. Clase: 2 años después de egresar de la Academia Diplomática Andrés Bello;
+
+Terceros Secretarios: 4 años;
+
+Segundos Secretarios: 4 años;
+
+Primeros Secretarios: 4 años, y
+
+Consejeros: 4 años.
+
+3. Estar calificado en Lista 1 ó 2, salvo para ascender a Ministro Consejero y Consejero, casos en que se requerirá estar calificado en Lista N° 1.
+
+4. Para ascender a Consejero o Cónsul General de Segunda Clase se requiere haber sido seleccionado mediante un concurso de antecedentes y oposición. Un reglamento determinará las modalidades, condiciones y formalidades que regirán el proceso de selección. Dicho reglamento establecerá los criterios generales destinados a garantizar la objetividad, transparencia, igualdad y adecuada publicidad en su diseño y administración.
+
+Las bases de los concursos que se realicen para proveer el cargo señalado en el párrafo anterior considerarán, a lo menos, los siguientes factores: capacitación, evaluación del desempeño, experiencia y aptitud para el cargo.
+
+El Ministerio los determinará previamente y establecerá la forma en que ellos serán ponderados, lo que deberá ser informado a los funcionarios en el llamado a concurso, el que deberá publicarse, al menos, en la página web del Ministerio.
+
+Inciso Eliminado
+
+### Párrafo 6°
+
+De las Destinaciones
+
+#### Artículo 26°
+
+Los funcionarios, salvo los Embajadores, prestarán servicios en el exterior por un tiempo máximo de cinco años y deberán servir en Chile por un lapso mínimo de dos años, a menos que por resolución fundada sean nuevamente destinados antes del plazo. En casos excepcionales debidamente calificados, por decreto supremo firmado por el Ministro de Relaciones Exteriores, bajo la fórmula "Por orden del Presidente de la República", podrá prorrogarse hasta por seis meses su permanencia en el exterior.
+
+En todo caso, las destinaciones señaladas podrán ordenarse hasta que esos servidores cumplan 65 años de edad. Excepcionalmente, cumplida la edad antes mencionada y previa solicitud del funcionario, podrá decretarse una destinación por el lapso máximo de dos años, pero cumplidos 67 años de edad se declarará vacante el cargo. Para estos efectos, dentro de los noventa días previos al cumplimiento de los 65 años, el funcionario deberá comunicar su decisión de renunciar voluntaria e irrevocablemente a su cargo y fijar, en la misma, la fecha en que hará dejación del mismo, la que deberá hacerse efectiva a más tardar al cumplir los 67 años.
+
+La bonificación que le corresponda al funcionario que se acoja a lo dispuesto en el inciso segundo no estará afecta a la disminución de meses que dispone el artículo noveno de la ley Nº 19.882.
+
+#### Artículo 27
+
+En los cargos y destinos que defina el jefe superior del Servicio la destinación de los funcionarios deberá realizarse conforme a un procedimiento de acreditación de competencias, cuyas bases serán determinadas por un reglamento que se dictará al efecto.
+
+El funcionario a quien corresponda ser destinado podrá renunciar a su opción, derecho que podrá ejercer por una sola vez en cada proceso de destinación en que participe.
+
+#### Artículo 28°
+
+Los egresados de la Academia Diplomática Andrés Bello ingresarán al orden de destinaciones, de acuerdo con la fecha de su ascenso a Tercer Secretario.
+
+#### Artículo 29°
+
+Los funcionarios que sean designados Cónsules antes de asumir sus cargos, deberán rendir una caución en moneda nacional ante la Contraloría General de la República, la que será fijada por el Contralor General, de acuerdo con el Art. 56 del decreto ley 1.263, de 1975.
+
+Lo señalado en el inciso precedente será igualmente aplicable a los funcionarios contratados localmente en las misiones, oficinas consulares y oficinas comerciales de Chile en el exterior que deban rendir caución. La fianza será fijada de conformidad a lo previsto en la ley N° 10.336, considerándose para tal efecto el sueldo base correspondiente a la Sexta Categoría Exterior.
+
+Los cónsules honorarios estarán exceptuados de la obligación de rendir fianza. No obstante ello, en los casos en que administren o custodien bienes o dineros del Estado, les será aplicable lo dispuesto en los artículos 60 y siguientes de la ley N° 10.336, en lo que fuese pertinente, y deberán rendir cuenta de los recursos que administren o custodien al correspondiente Cónsul General y al Ministerio de Relaciones Exteriores conforme a las disposiciones del Reglamento Consular.
+
+El Ministerio de Relaciones Exteriores consolidará semestralmente las rendiciones de cuentas de los cónsules honorarios y publicará el informe en su sitio web.
+
+#### Artículo 30°
+
+Los funcionarios destinados en una Misión en el exterior podrán ser trasladados a otra Misión por consideración de mejor servicio. En este caso gozarán de los mismos derechos establecidos para una destinación al exterior, salvo que el traslado se efectúe a una Misión o Consulado ubicado en la misma ciudad.
+
+#### Artículo 31°
+
+En casos calificados, el Ministerio podrá destinar al extranjero a funcionarios de la Planta "B", Presupuesto en moneda nacional del Servicio Exterior, en su grado o categoría, aun cuando no se hubiere producido la vacante correspondiente en la Planta "A", Presupuesto en moneda extranjera del Servicio Exterior. Estas destinaciones se financiarán con cargo a los Item respectivos.
+
+Asimismo, podrá destinar a prestar servicios en Chile, en calidad de adscriptos, conservando su categoría Exterior, a funcionarios pertenecientes a la Planta "A", Presupuesto en moneda extranjera. En estos casos, sólo se les pagarán sus remuneraciones en moneda nacional, de acuerdo con la escala legal de asimilación.
+
+### Párrafo 7°
+
+De las remuneraciones, viáticos, pasajes y
+
+beneficios.
+
+#### Artículo 32°
+
+Los funcionarios de la Planta del Servicio Exterior que se desempeñen en el extranjero, percibirán las remuneraciones que se establecen en la Planta "A", Presupuesto en moneda extranjera.
+
+Cuando presten servicios en el país, percibirán las remuneraciones que se establecen en la Planta "B", Presupuesto en moneda nacional.
+
+#### Artículo 33
+
+Los Ministros Consejeros o Cónsules Generales de Primera Clase y Consejeros o Cónsules Generales de Segunda Clase de la Planta del Servicio Exterior, que conforme al artículo 11 fueren designados con el rango de Embajador o en cargos de la exclusiva confianza del Presidente de la República en el país de destino, percibirán la renta de su categoría además de los beneficios de Jefe de Misión, cuando corresponda.
+
+#### Artículo 34°
+
+Los funcionarios que sean destinados al extranjero y que por causas justificadas retrasen la asunción de su cargo sólo percibirán mientras continúen prestando servicios en Chile, los sueldos y remuneraciones que les corresponden en moneda nacional, de acuerdo con la asimilación o equivalencia legal.
+
+#### Artículo 35°
+
+Los sueldos de los funcionarios se ajustarán en un porcentaje equivalente al coeficiente de costo de vida del país al cual fuere destinado, que será fijado por decreto supremo de este Ministerio, con visación del Ministerio de Hacienda. La asignación de costo de vida no constituirá sueldo para efecto legal alguno.
+
+#### Artículo 36°
+
+El monto de la asignación familiar para los funcionarios del Servicio Exterior, Planta "A", Presupuesto en moneda extranjera, será fijado anualmente por decreto supremo de este Ministerio, más el porcentaje de costo de vida, aplicado a cada carga.
+
+#### Artículo 37°
+
+Para los efectos de este Estatuto, se entenderá por familia del funcionario: su cónyuge, los hijos de ambos cónyuges o de uno cualquiera de ellos y los adoptados hasta los 18 años, por los cuales percibe asignación familiar; las hijas solteras; el padre y la madre, siempre que sean causantes de asignación familiar.
+
+Lo dispuesto en el D.L. 307, Título I, artículo 3, letra b, será aplicable a los causantes de asignación familiar que estudien en instituciones de la enseñanza media, normal técnica, especial superior o universitaria, reconocidas por el Estado receptor.
+
+En casos calificados, por resolución se podrá autorizar la extensión del beneficio anterior a los causantes de asignación familiar que estudien en instituciones análogas de países distintos del que el funcionario estuviere acreditado.
+
+#### Artículo 37 bis
+
+El personal del Servicio Exterior Planta "A", Presupuesto en moneda extranjera, tendrá derecho a un bono mensual equivalente a 50 dólares por cada causante señalado en el inciso siguiente, más el porcentaje del costo de vida, aplicado a cada causante.
+
+Será causante de este bono el conviviente civil del beneficiario o beneficiaria del mismo.
+
+También será causante, el cónyuge de la funcionaria beneficiaria de este bono.
+
+Las personas mencionadas en el inciso anterior, sólo podrán causar el bono a que se refiere este artículo, siempre que cumplan con los requisitos señalados en el artículo 5 del decreto con fuerza de ley N° 150, de 1982, que fijó el texto refundido, coordinado y sistematizado de las normas sobre el Sistema Único de Prestaciones Familiares y Sistema de Subsidios de Cesantía para los trabajadores de los sectores privado y público, contenidas en los decretos leyes Nos 307 y 603, ambos de 1974.
+
+El bono a que se refiere este artículo será incompatible con otros beneficios otorgados por iguales causales, incluyendo la asignación familiar a que se refiere el artículo 36.
+
+#### Artículo 38°
+
+Los funcionarios con familia o conviviente civil que viva a sus expensas gozarán, en cada destinación al extranjero, de una asignación de establecimiento equivalente a un mes y medio de sueldo base en dólares. En el caso de los funcionarios sin familia o conviviente civil que viva a sus expensas, esta asignación será de un mes de sueldo base en dólares.
+
+#### Artículo 39°
+
+Los funcionarios destinados a prestar servicios en el extranjero, percibirán sus emolumentos en dólares desde quince días antes de partir a su destinación.
+
+El Ministerio de Relaciones Exteriores determinará por Orden de Servicio la fecha en que los funcionarios deban asumir sus cargos.
+
+#### Artículo 40°
+
+- Los funcionarios de Primera a Séptima Categoría de la Planta ''A'', presupuesto en moneda extranjera, que regresen al país por término de su destinación en el extranjero, gozarán de una asignación por cambio de residencia, la que no se considerará sueldo para efecto legal alguno, de un monto equivalente al señalado en la siguiente tabla, expresada en U.T.M.:
+
+Grado Asignación de Instalación
+
+Primera Categoría Exterior 325
+
+Segunda Categoría Exterior 307
+
+Tercera Categoría Exterior 289
+
+Cuarta Categoría Exterior 252
+
+Quinta Categoría Exterior 210
+
+Sexta Categoría Exterior 170
+
+Séptima Categoría Exterior 126
+
+No tendrán derecho a esta asignación los funcionarios que soliciten su adscripción al país por motivos particulares.
+
+#### Artículo 41°
+
+Todo funcionario que sea traslado a otro cargo en el extranjero o fuere adscripto al Ministerio, será notificado con un plazo mínimo de treinta días antes de abandonar sus funciones. Este plazo se contará desde la fecha en que sea comunicada la resolución respectiva.
+
+#### Artículo 42°
+
+Los Jefes de Misión tendrán derecho a percibir una asignación para gastos de representación que será fijada anualmente por el Ministerio.
+
+El funcionario que reemplace en su cargo al Jefe de Misión por un plazo superior a quince días como Encargado de Negocios, percibirá la totalidad de la asignación para gastos de representación destinada al titular, en proporción del tiempo que dure el reemplazo, salvo que éste se deba a la ausencia del Jefe de Misión en funciones oficiales. En todo caso, el Encargado de Negocios tendrá derecho a que el Jefe de Misión le reintegre los gastos de representación en que hubiere efectivamente incurrido en su ausencia.
+
+El Jefe de Misión deberá rendir cuenta al Ministerio de Relaciones Exteriores sobre la inversión de estos fondos trimestralmente.
+
+#### Artículo 43°
+
+En la medida en que su Presupuesto lo permita, el Ministerio podrá asignar a los Jefes de Misión gastos de representación adicionales para el exclusivo objeto de ser utilizados por el personal del Servicio Exterior a sus órdenes. El funcionario que reciba fondos deberá dar cuenta al Jefe de la Misión de su inversión, el que, a su vez, informará al Ministerio trimestralmente.
+
+#### Artículo 44°
+
+El funcionario que sea destinado al extranjero tendrá derecho a pasajes para él, su familia y su conviviente civil y a 50 kilos de exceso de equipaje por vía aérea o su equivalencia en carga aérea si es casado y 20 kilos si es soltero.
+
+El funcionario, su familia y su conviviente civil tendrán derecho, en cualquier circunstancia, a los correspondientes pasajes de regreso al país, en las mismas condiciones descritas en el inciso anterior.
+
+Los pasajes se concederán por la vía más rápida y directa, salvo que circunstancias extraordinarias, debidamente calificadas por la autoridad superior correspondiente, obliguen a recurrir a otra.
+
+Cuando el funcionario haga uso de un medio de transporte propio tendrá derecho a percibir el cincuenta por ciento del valor de los pasajes a que se refiere el inciso anterior.
+
+Los pasajes se concederán a la familia y al conviviente civil del funcionario sólo cuando vaya a residir permanentemente junto a él, salvo circunstancias extraordinarias debidamente calificadas por el Subsecretario.
+
+#### Artículo 45
+
+Los funcionarios, sus familiares y su conviviente civil, cuando viajen por vía aérea, tendrán derecho a pasajes en clase económica. No obstante, a los funcionarios de 1a. Categoría y 2a. Categoría Exterior que se desempeñen como Jefes de Misión, sus familiares y conviviente civil, se les podrá otorgar pasajes aéreos en una clase superior a la económica, cuando circunstancias especiales, a juicio del Subsecretario de Relaciones Exteriores, así lo justifiquen.
+
+#### Artículo 46°
+
+El funcionario que sea destinado al exterior, trasladado o que deba regresar al país, tendrá derecho a una asignación de traslado de menaje de casa y efectos personales. Esta asignación será igual al valor del traslado por carga aérea de dicho menaje y efectos personales desde el lugar de origen al destino, con un máximo de 25 m3 o su equivalencia en kilos. El Reglamento determinará la forma y condiciones en que se otorgará esta asignación, considerando la jerarquía del funcionario y las necesidades de su grupo familiar y de su conviviente civil.
+
+#### Artículo 47°
+
+El funcionario de la Planta "B" del Servicio Exterior, que fuere designado para desempeñar una comisión en el extranjero, tendrá derecho a pasajes y percibirá, además de la remuneración propia de su cargo, un viático, incrementado en el porcentaje de costo de vida que se haya asignado al lugar donde debe cumplir la comisión, igual al que perciben los funcionarios de la Administración Civil del Estado, que no constituirá sueldo para efecto legal alguno. El funcionario del Servicio Exterior Planta "A", que deba ausentarse del lugar de su desempeño habitual a fin de dar cumplimiento a una comisión oficial, percibirá un viático que el Ministerio fijará anualmente incrementando en el porcentaje de costo de vida que se haya asignado al lugar donde debe cumplir la comisión.
+
+#### Artículo 48°
+
+Los funcionarios del Ministerio destinados o comisionados al exterior cuyas remuneraciones o pasajes se paguen en todo o parte por Gobiernos extranjeros, organismos internacionales u otras entidades, recibirán el sueldo, pasajes, asignaciones o viáticos que les correspondan de acuerdo con este Estatuto, previa deducción de las sumas que perciban de esos Gobiernos o entidades, debiendo dejarse constancia en el decreto supremo o resolución respectivos.
+
+#### Artículo 49
+
+Los funcionarios que se desempeñen en el extranjero pueden ser llamados al país, por resolución fundada, en la forma que determine el reglamento expedido a través del Ministerio de Relaciones Exteriores, el que establecerá, a lo menos, el procedimiento, modalidades y demás circunstancias en que podrán ser llamados al país. Dichos funcionarios tendrán derecho a pasajes y continuarán recibiendo la remuneración que corresponda a su cargo.
+
+#### Artículo 50
+
+A los funcionarios, su familia y conviviente civil destinados a países que presenten situaciones excepcionales, se les podrá otorgar pasajes para el uso del feriado legal anual.
+
+Los destinos antes señalados se determinarán mediante resolución fundada del Subsecretario de Relaciones Exteriores, visada por la Dirección de Presupuestos del Ministerio de Hacienda.
+
+#### Artículo 50 bis
+
+Los funcionarios del Ministerio de Relaciones Exteriores y sus servicios dependientes y relacionados, destinados en el exterior, tendrán derecho a que su feriado se aumente en el tiempo que le demande el traslado por vía aérea desde el lugar en que ejerza funciones hacia Chile en los términos que a continuación se indican: dos días en el caso que el traslado signifique a lo menos doce horas de vuelo y cuatro días en el evento que dicho traslado represente a lo menos dieciséis horas de vuelo. Esta circunstancia deberá ser acreditada por el funcionario mediante la presentación del pasaje aéreo correspondiente ante su jefe directo. Por resolución del Subsecretario de Relaciones Exteriores se identificará a los países que se encuentren en cada una de dichas categorías.
+
+#### Artículo 51°
+
+En la medida que su Presupuesto lo permita, será de cargo del Ministerio el pago de las rentas de arrendamiento de las residencias que ocupen los Jefes de Misión destinados en el extranjero, de acuerdo a las condiciones y modalidades que establezca el Reglamento.
+
+Para la suscripción de los contratos correspondientes se requerirá la autorización del Subsecretario.
+
+#### Artículo 52°
+
+Los Jefes de Misión y demás funcionarios del Servicio Exterior que ocupen en el extranjero una casa habitación de propiedad fiscal o arrendada por el Fisco, pagarán una renta equivalente al 10% de su sueldo base en moneda extranjera, que se les descontará mensualmente y que se destinará a rentas generales de la Nación.
+
+#### Artículo 53°
+
+En la medida en que su Presupuesto lo permita, el Ministerio asegurará contra los riesgos de enfermedad, accidentes y hospitalización a los funcionarios y a los miembros de su familia que tienen derecho a pasaje, cuando estén prestando servicios en el exterior. Dichos funcionarios contribuirán con el 50% del costo de la participación relativa que corresponda a su grupo familiar.
+
+#### Artículo 54°
+
+Los funcionarios que fueren destinados al extranjero y perciban sus sueldos correspondientes a las categorías de la Planta "A", Presupuesto en moneda extranjera, gozarán del derecho al sueldo del grado superior conforme a lo dispuesto en el párrafo IV del Título II del DFL. 338, de 1960, Estatuto Administrativo.
+
+Cuando los mismo funcionarios se desempeñen en el país, percibiendo los sueldos correspondientes a las categorías de la Planta "B", Presupuesto en moneda nacional, gozarán de la asignación de antigüedad, en conformidad a lo dispuesto en el decreto ley 249, de 1974.
+
+Para recibir uno u otro beneficio, los funcionarios podrán computar indistintamente el tiempo servido en un mismo nivel de nombramiento en la Planta "A" o en la Planta "B", según corresponda.
+
+#### Artículo 55°
+
+Si a causa o con ocasión de un acto determinado de servicio, comprobado por el correspondiente sumario administrativo, un funcionario del Servicio Exterior en funciones en el extranjero sufriere lesiones corporales o daños materiales, el Ministerio cubrirá los gastos derivados de su tratamiento y el valor de esos daños materiales, que no sean cubiertos por el seguro médico a que se refiere el artículo 53°.
+
+Si de dicho acto resultase su muerte, sus asignatarios de montepío tendrán derecho a percibir, a título de indemnización, una suma equivalente a tres meses de sueldo base en dólares de su grado o categoría, que será compatible con el montepío. En caso de fallecimiento en el exterior de un funcionario del Ministerio o de los familiares suyos a que se refiere el artículo 37°, serán de cargo del servicio los gastos de repatriación de los restos.
+
+El cónyuge, el conviviente civil o, en su defecto, sus herederos, tendrán derecho a internar al país el menaje de casa y los efectos personales, y serán beneficiarios de la asignación a que se refiere el artículo 40 de este Estatuto, en las mismas condiciones a las que habría tenido derecho el funcionario fallecido.
+
+### Párrafo 8°
+
+Del término de la carrera
+
+#### Artículo 56°
+
+El funcionario del Servicio Exterior calificado por resolución firme en lista N° 4 o por dos años consecutivos en lista N° 3, deberá presentar su renuncia al Servicio dentro de los treinta días siguientes a la notificación de la resolución respectiva. Si así no lo hiciere, se declarará vacante el cargo.
+
+#### Artículo 57°
+
+Derogado.
+
+#### Artículo 58°
+
+Derogado.
+
+#### Artículo 59
+
+El Ministro de Relaciones Exteriores declarará vacantes los cargos de carrera servidos por funcionarios de la Planta del Servicio Exterior al cumplir 70 años de edad, siempre que reúnan los requisitos para acogerse a jubilación, pensión o renta vitalicia en un régimen previsional.
+
+### Párrafo 9°
+
+Disposiciones Generales
+
+#### Artículo 60°
+
+Los funcionarios del Servicio Exterior no podrán permutar su cargo con otros de la Administración Civil del Estado.
+
+#### Artículo 61°
+
+Los funcionarios que desearen ausentarse del país sede de la Misión en que estuvieren acreditados, en uso de permiso, licencia o feriado legal, podrán hacerlo previa autorización del Ministerio.
+
+#### Artículo 62°
+
+Los certificados de estudios obtenidos en el extranjero por los hijos de los funcionarios que correspondan a los que se otorgan en el país en la enseñanza básica, media, especial o universitaria serán válidos en Chile para todos los efectos legales, previo reconocimiento de las autoridades pertinentes.
+
+Los hijos de dichos funcionarios que deban iniciar estudios universitarios, estarán sometidos a las normas especiales de ingreso que contengan los reglamentos de las respectivas Universidades chilenas.
+
+#### Artículo 63°
+
+Para todos los efectos legales, sea de carácter previsional, tributario y otros descuentos legales obligatorios, de pago de remuneraciones y de desahucio, o de cualquiera otros en que sea necesaria una equivalencia o asimilación entre los funcionarios de la Planta "A", Presupuesto en moneda extranjera, y de la Planta "B", Presupuesto en moneda nacional del Servicio Exterior, esa equivalencia o asimilación será la siguiente:
+
+_______________________________________________________
+
+Planta "A", presupuesto Planta "B", presupuesto
+
+en moneda extranjera en moneda nacional
+
+_______________________________________________________
+
+Embajadores Embajadores
+
+Ministros Consejeros o Ministros Consejeros
+
+Cónsules Generales de o Cónsules Generales
+
+Primera Clase. de Primera Clase.
+
+Consejeros o Cónsules Consejeros o Cónsules
+
+Generales de Segunda Generales de Segunda
+
+Clase Clase
+
+Primeros Secretarios o Primeros Secretarios o
+
+Cónsules de Primera Cónsules de Primera
+
+Clase Clase
+
+Segundos Secretarios o Segundos Secretarios
+
+Cónsules de Segunda o Cónsules de
+
+Clase Segunda Clase
+
+Terceros Secretarios o Terceros Secretarios
+
+Cónsules de Tercera o Cónsules de
+
+Clase. Tercera Clase
+
+#### Artículo 64°
+
+Para los efectos del cálculo de las obligaciones tributarias que afectan a los funcionarios de la Planta "A", Presupuesto en moneda extranjera del Servicio Exterior, se considerará su sueldo de equivalencia o asimilación en Chile.
+
+#### Artículo 65°
+
+El Ministerio de Relaciones Exteriores podrá comisionar a los funcionarios del Ministerio, por resolución fundada, para prestar servicios en el exterior o fuera de su sede. En la respectiva resolución se indicará el plazo de la referida comisión.
+
+#### Artículo 66°
+
+Derogado.
+
+#### Artículo 67
+
+DEROGADO
+
+#### Artículo 68
+
+Los funcionarios del Ministerio de Relaciones Exteriores ligados entre sí por vínculos de matrimonio, acuerdo de unión civil, parentesco por consanguinidad hasta el tercer grado inclusive, por afinidad hasta el segundo grado, o adopción, podrán ser destinados a un mismo país en el extranjero, siempre que lo sean a distintas misiones diplomáticas o consulares, representaciones permanentes ante organizaciones internacionales o misiones especiales en el exterior.
+
+No obstante, aquellos funcionarios ligados entre sí por vínculos de matrimonio o acuerdo de unión civil podrán ser destinados a una misma misión o representación permanente, evitando la relación jerárquica entre ellos. En caso de que por razones fundadas no sea posible evitar esta relación, el superior jerárquico deberá abstenerse de ejercer los deberes de jefatura que le otorgue la ley y de participar en decisiones en que exista cualquier circunstancia que le reste imparcialidad.
+
+En este caso, ambos cónyuges tendrán derecho al sueldo en moneda extranjera que les correspondiere, incrementado con la asignación de costo de vida. Con todo, sólo uno de los cónyuges tendrá derecho a las franquicias a que se refiere la Partida 0004 del Arancel Aduanero y a las asignaciones de establecimiento, cambio de residencia y traslado de menaje de casa y efectos personales, establecidas en los artículos 38, 40 y 46 del presente Estatuto.
+
+#### Artículo 69°
+
+Las Misiones Diplomáticas y Consulares de Chile en el exterior gozarán de asignaciones para gastos de oficina y contratación de personal local, de acuerdo a la Ley de Presupuesto, con la obligación de rendir cuenta de ellas.
+
+#### Artículo 70°
+
+El Ministerio promoverá el perfeccionamiento y la especialización de los funcionarios, conforme a las necesidades del Servicio, a través de facilidades, que incluyan los permisos necesarios, para estudios e investigaciones en instituciones universitarias, academias y centros especializados tanto nacionales como extranjeros y el desempeño de funciones transitorias en Organismos Internacionales de los cuales Chile sea miembro.
+
+#### Artículo 71°
+
+El Ministerio, en forma periódica, comisionará a funcionarios que estén prestando servicios en el país, que tengan el grado o categoría de Embajador o de Ministro Consejero, con el objeto de visitar las Misiones Deplomáticas y Consulares, e informar sobre su funcionamiento en general y sobre aquellos aspectos específicos que tiendan a mejorar el Servicio.
+
+#### Artículo 72
+
+Los funcionarios que sean destinados al exterior serán acreditados según las necesidades del Ministerio y de conformidad con las instrucciones que éste imparta. Estas acreditaciones no podrán efectuarse en un grado inferior al que posea el funcionario y no podrán alterar la precedencia que establezca el escalafón de la Planta del Servicio Exterior.
+
+## Capítulo III
+
+Del Personal de Secretaría y de la Administración General
+
+### Párrafo 1°
+
+Disposiciones Generales
+
+#### Artículo 73°
+
+El personal de Secretaría y Administración General es aquel que cumple tareas profesionales, técnicas y de apoyo, en las diversas áreas del Ministerio.
+
+Este personal estará distribuido en:
+
+- Escalafón Directivo.
+
+- Escalafón Profesional y Técnico.
+
+- Escalafón Administrativo.
+
+- Escalafón de Auxiliares.
+
+### Párrafo 2°
+
+De los Escalafones Directivo, Profesional y Técnico
+
+#### Artículo 74°
+
+Los Escalafones Directivo, Profesional y Técnico se dividen en Planta "A" Presupuesto en moneda extranjera y Planta "B" presupuesto en moneda nacional.
+
+#### Artículo 75°
+
+El perfeccionamiento de los funcionarios que corresponda estará a cargo de la Academia Diplomática "Andrés Bello", y de los organismos competentes del Estado.
+
+Para estos efectos, la Academia Diplomática "Andrés Bello", en conjunto con la Dirección General Administrativa, someterá anualmente a la aprobación del Subsecretario un programa de capacitación.
+
+### Párrafo 3°
+
+Del Escalafón Administrativo
+
+#### Artículo 76°
+
+El Escalafón Administrativo se divide en Planta "A" Presupuesto en moneda extranjera y Planta "B" Presupuesto en moneda nacional.
+
+#### Artículo 77°
+
+Los funcionarios del Escalafón Administrativo son aquellos que realizan labores de apoyo en las diferentes áreas del Ministerio.
+
+#### Artículo 78°
+
+El Escalafón Administrativo estará integrado por las Secretarías y demás personal administrativo que desempeñe las funciones señaladas en el artículo anterior.
+
+### Párrafo 4°
+
+Del Escalafón de Auxiliares
+
+#### Artículo 79°
+
+El Escalafón de Auxiliares se divide en Planta "A" Presupuesto en moneda extranjera, y Planta "B" Presupuesto en moneda nacional.
+
+#### Artículo 80°
+
+El Escalafón de Auxiliares estará integrado por los funcionarios que cumplan tareas relativas al aseo, la conducción de vehículos, la impresión y encuadernación de los documentos del Ministerio, reparaciones menores y, en general, actividades de carácter similar.
+
+#### Artículo 81°
+
+A los funcionarios del Escalafón de Auxiliares se les aplicará el Título Noveno del DFL. 338, de 1960, sobre Estatuto Administrativo.
+
+### Párrafo 5°
+
+De las destinaciones y comisiones al exterior del
+
+personal de Secretaría y Administración General
+
+#### Artículo 82°
+
+Las destinaciones de las Plantas de Secretaría y Administración General serán de hasta por 2 años.
+
+#### Artículo 83°
+
+Los funcionarios de la Planta de Secretaría y Administración General destinados al exterior, tendrán para todos los efectos legales, sean éstos de carácter tributario, previsional y otros, el grado que les corresponda en la Planta respectiva "B", de Secretaría y Administración General.
+
+#### Artículo 84°
+
+Los funcionarios de la Planta de Secretaría y Administración General, Presupuesto en moneda extranjera, que sean destinados al exterior, gozarán de los mismos beneficios y franquicias establecidos para el personal de la Planta "A" del Servicio Exterior, como también de las mismas obligaciones y restricciones, en lo que procediere.
+
+#### Artículo 85°
+
+El personal de Secretaría y Administración General del Ministerio que sea designado para una comisión en el extranjero tendrá derecho a pasajes y a un viático incrementado en el porcentaje de costo de vida que se haya asignado al lugar donde debe cumplir la comisión, igual al que perciben los funcionarios de la Administración Civil del Estado, que no constituirá sueldo para efecto legal alguno.
+
+## Capítulo IV
+
+Disposiciones especiales comunes a todos los
+
+funcionarios del Ministerio de Relaciones Exteriores
+
+#### Artículo 86
+
+No se podrá acreditar en un Estado extranjero a un funcionario que tenga además de la nacionalidad chilena la nacionalidad de ese Estado o que la adquiera con posterioridad, en cuyo caso se dejará sin efecto la acreditación.
+
+#### Artículo 87
+
+Todas las disposiciones contenidas en los párrafos 7° y 9° del capítulo II de este Estatuto, salvo los artículos 33, 48, 51, 54, 68, 69 y 72, serán también aplicables a los funcionarios contratados a que se refiere el artículo 5.
+
+#### Artículo 87 Bis
+
+El pago de patente municipal y de derechos fiscales, a que se encuentren afectos los vehículos importados por los funcionarios dependientes del Ministerio, al amparo de las franquicias establecidas en la Partida 00.04 del Arancel Aduanero, se hará teniendo como base el valor CIF de dichos vehículos.
+
+## Capítulo V
+
+De las plantas
+
+#### Artículo 88°
+
+Las plantas del Servicio Exterior y de la Secretaría y Administración General del Ministerio de Relaciones Exteriores serán las siguientes:
+
+PLANTA DEL SERVICIO EXTERIOR
+
+A.- Presupuesto en moneda extranjera.
+
+-------------------------------------------------------
+
+Categoría Descripción N° de cargos
+
+-------------------------------------------------------
+
+1a. Exterior Embajadores________________ 77
+
+2a. Exterior Ministros Consejeros o
+
+Cónsules Generales de
+
+Primera Clase______________ 36
+
+3a. Exterior Consejeros o Cónsules
+
+Generales de Segunda Clase_ 47
+
+4a. Exterior Primeros Secretarios o
+
+Cónsules de Primera Clase__ 50
+
+5a. Exterior Segundos Secretarios o
+
+Cónsules de Segunda Clase__ 56
+
+6a. Exterior Terceros Secretarios o
+
+Cónsules de Tercera Clase__ 77
+
+-----
+
+TOTAL_______________________ 343
+
+B.- Presupuesto en moneda nacional.
+
+-------------------------------------------------------
+
+Categoría Descripción N° de Grado
+
+cargos E.U.R.
+
+-------------------------------------------------------
+
+1a. Exterior Embajadores_____________ 16 3
+
+2a. Exterior Ministros Consejeros o
+
+Cónsules Generales de
+
+Primera Clase___________ 21 4
+
+3a. Exterior Consejeros o Cónsules
+
+Generales de Segunda
+
+Clase___________________ 24 5
+
+4a. Exterior Primeros Secretarios o
+
+Cónsules de Primera
+
+Clase___________________ 24 7
+
+5a. Exterior Segundos Secretarios o
+
+Cónsules de Segunda
+
+Clase___________________ 20 10
+
+6a. Exterior Terceros Secretarios o
+
+Cónsules de Tercera
+
+Clase___________________ 15 13
+
+7a. Exterior Terceros Secretarios de
+
+Segunda Clase___________ 30 14
+
+-----
+
+TOTAL___________________ 118
+
+------------------------------------------------------
+
+PLANTA DE LA SECRETARIA Y ADMINISTRACION GENERAL DE LOS ESCALAFONES DIRECTIVOS, PROFESIONAL Y TECNICO
+
+A.- Presupuesto en moneda extranjera.
+
+-------------------------------------------------------
+
+Categoría Descripción N° de cargos
+
+-------------------------------------------------------
+
+Asimilado a
+
+3a. Exterior Directivos, Profesionales
+
+y Técnicos ________ 5
+
+Asimilado a
+
+4a. Exterior Directivos, Profesionales
+
+y Técnicos __________ 8
+
+Asimilado a
+
+5a. Exterior Directivos, Profesionales
+
+y Técnicos_________________ 2
+
+----
+
+TOTAL______________________ 11
+
+B.- Presupuesto en moneda nacional
+
+-------------------------------------------------------
+
+Nivel Descripción Grado N° de
+
+E.U.R. cargos
+
+-------------------------------------------------------
+
+AUTORIDADES DE GOBIERNO
+
+Ministro____________________ B 1
+
+AUTORIDADES DE GOBIERNO
+
+Viceministro________________ B 1
+
+Subsecretario_______________ C 1
+
+DIRECTIVOS SUPERIORES
+
+II Director General Política
+
+Exterior (rango de Embajador) 3 1
+
+II Director General
+
+Administrativo (rango
+
+Embajador)__________________ 3 1
+
+II Director de Planificación
+
+(rango Embajador)___________ 3 1
+
+II Director de Asuntos Jurídicos
+
+(rango Embajador)___________ 3 1
+
+II Director Academia
+
+Diplomática (rango Embajador) 3 1
+
+DIRECTIVOS
+
+I Directores de Departamentos_ 5 2
+
+I Jefes de Departamentos______ 5 3
+
+II Jefes de Departamentos______ 6 5
+
+III Jefes de Departamentos______ 7 3
+
+III Subjefatura de Departamento_ 8 7
+
+-------------------------------------------------------
+
+Nivel Descripción Grado N° de
+
+E.U.R. cargos
+
+-------------------------------------------------------
+
+JEFATURA A
+
+I Jefes de Sección____________ 9 6
+
+JEFATURA B
+
+I Jefes de Sección____________ 12 6
+
+JEFATURA C
+
+I Jefes de Sección____________ 15 20
+
+II Jefes de Sección____________ 16 2
+
+-------------------------------------------------------
+
+PROFESIONALES Y TECNICOS
+
+-------------------------------------------------------
+
+Grado N° de
+
+Nivel Descripción E.U.R. Cargos
+
+-------------------------------------------------------
+
+I Profesionales______________ 4 3
+
+I Profesionales______________ 5 10
+
+I Profesionales______________ 6 8
+
+II Profesionales______________ 8 6
+
+II Profesionales______________ 10 3
+
+III Profesionales______________ 12 4
+
+III Profesionales______________ 14 9
+
+BIBLIOTECARIAS
+
+I Bibliotecarias_____________ 16 4
+
+CONTADORES
+
+I Contadores_________________ 15 1
+
+II Contadores_________________ 16 3
+
+SECRETARIAS EJECUTIVAS
+
+I Secretarías Ejecutivas_____ 15 12
+
+II Secretarias Ejecutivas_____ 16 15
+
+TECNICOS UNIVERSITARIOS
+
+I Técnico Universitario______ 14 1
+
+OFICIALES TECNICOS
+
+-------------------------------------------------------
+
+Grado N° de
+
+Nivel Descripción E.U.R. Cargos
+
+-------------------------------------------------------
+
+I Operador Clave_____________ 17 4
+
+II Operador Clave_____________ 18 4
+
+Total Escalafón Directivo, Profesional -----
+
+y Técnico___________________________ 149
+
+ESCALAFON ADMINISTRATIVO
+
+A.- Presupuesto en moneda extranjera.
+
+------------------------------------------------------
+
+Categoría Descripción N° de Cargos
+
+------------------------------------------------------
+
+Asimilados Administrativos_________ 17
+
+a 6a.
+
+Categoría
+
+Exterior
+
+----
+
+TOTAL___________________________________ 15
+
+B.- Presupuesto en moneda nacional
+
+-------------------------------------------------------
+
+Grado N° de
+
+Nivel Descripción E.U.R. Cargos
+
+-------------------------------------------------------
+
+SECRETARIAS
+
+I Secretarias_______________ 19 30
+
+I Secretarias_______________ 20 20
+
+II Secretarias_______________ 22 16
+
+OFICIALES
+
+ADMINISTRATIVOS
+
+I Oficiales Administrativos_ 19 34
+
+I Oficiales Administrativos_ 20 22
+
+II Oficiales Administrativos_ 22 10
+
+-----
+
+Total Escalafón Administrativo________ 132
+
+ESCALAFON DE AUXILIARES
+
+A.- Presupuesto en moneda extranjera
+
+------------------------------------------------------
+
+Categoría Descripción N° de cargos
+
+------------------------------------------------------
+
+Asimilados Auxiliares y otros cargos__ 8
+
+a 100% de la
+
+6a. Exterior ---
+
+TOTAL_________________________________ 8
+
+B.- Presupuesto en moneda nacional
+
+------------------------------------------------------
+
+Grado N° de
+
+Nivel Descripción E.U.R. Cargos
+
+------------------------------------------------------
+
+MAYORDOMOS
+
+I Mayordomos_________________ 21 1
+
+I Mayordomos_________________ 22 2
+
+CHOFERES
+
+I Choferes___________________ 22 8
+
+I Choferes___________________ 23 5
+
+AUXILIARES
+
+I Auxiliares_________________ 25 20
+
+I Auxiliares_________________ 26 11
+
+I Auxiliares_________________ 27 11
+
+AUXILIARES DE CASINO
+
+I Auxiliares de Casino_______ 25 6
+
+I Auxiliares de Casino_______ 26 4
+
+I Auxiliares de Casino_______ 27 4
+
+AUXILIARES ESPECIALIZADOS
+
+I Auxiliar Especializado____ 21 1
+
+(Calderero)
+
+I Auxiliar Especializado____ 22 1
+
+(Calderero)
+
+ELECTRICISTAS
+
+I Electricista______________ 21 1
+
+I Electricista______________ 22 1
+
+GASFITERES
+
+I Gasfiter__________________ 22 1
+
+I Gasfiter__________________ 23 1
+
+ARTESANOS GRAFICOS
+
+I Artesano Gráfico_________ 19 1
+
+I Artesano Gráfico_________ 20 1
+
+I Artesano Gráfico_________ 21 1
+
+____
+
+TOTAL ESCALAFON DE AUXILIARES 81
+
+-------------------------------------------------------
+
+> **Nota.** El Art. 103 de la LEY 18768, publicada el 29.12.1988, suprimió el cargo de Viceministro Grado B E.U.R. señalado en el presente artículo.
+
+#### Artículo 89°
+
+Derogado.
+
+#### Artículo 90°
+
+Derogado.
+
+## Capítulo VI
+
+Disposiciones Complementarias
+
+#### Artículo 91°
+
+El Reglamento del Ministerio de Relaciones Exteriores contendrá las disposiciones complementarias del presente Estatuto que regularán diversas materias tratadas en él.
+
+#### Artículo 92°
+
+DEROGADO
+
+> **Nota.** El artículo 1° N° 5 de la Ley N° 19115 publicada el 20.01.1992, dispuso la derogación presente artículo a contar del 1° de enero de 1994.
+
+#### Artículo 93°
+
+Derogado
+
+#### Artículo 94°
+
+El Ministerio de Relaciones Exteriores podrá, por resolución fundada, otorgar fondos para gastos de representación y secretaría a los funcionarios del Ministerio, personas o delegaciones que sean comisionados de acuerdo con las disposiciones del presente estatuto.
+
+Las personas, funcionarios o delegaciones que hayan recibido fondos para gastos de representación o secretaría en conformidad al inciso anterior, deberán rendir cuenta global y documentada respectivamente, ante el Ministerio de Relaciones Exteriores.
+
+#### Artículo 95°
+
+Si el Ministerio lo requiere, se podrá comisionar al extranjero por decrecto supremo fundado a funcionarios de la Administración Civil del Estado, Fuerzas Armadas y Carabineros, para que presten servicios, en las misiones en el exterior, extraordinarios de carácter temporal. Para ello, el funcionario deberá previamente ser designado en comisión de servicios al Ministerio de Relaciones Exteriores. Las condiciones de su comisión serán las indicadas en el artículo 93°, pero el decreto respectivo podrá ordenar que el viático que se les otorgue sea el mismo que para estos efectos fijan los Estatutos por los que se rijan los funcionarios comisionados.
+
+#### Artículo 96°
+
+Las diferencias extraordinarias de cambios que se produzcan en la conversión de los derechos consulares y que excedan del 5% establecido en el Art. 18 de la ley N° 11.279, de 8 de Enero de 1955, podrán ser destinados, por decreto fundado del Ministerio, en casos calificados y por períodos no superiores a un año, a sueldos del personal contratado, adquisiciones, arriendos y gastos de oficina previamente detallados en el decreto respectivo, sin que sea necesario declarar de abono las sumas autorizadas.
+
+#### Artículo 97°
+
+El Presidente de la República fijará las tarifas de los servicios que el Ministerio preste al público, relacionados con el despacho de cables, otorgamiento de pasaportes oficiales y especiales, traducción de documentos y otros. Las sumas recaudadas por tales conceptos no ingresarán a rentas generales de la Nación y se depositará en una cuenta corriente especial en el Banco del Estado de Chile, contra la cual podrá girar el Ministerio de Relaciones Exteriores.
+
+Por decreto supremo se dispondrá la forma en que se invertirán estos fondos, los cuales serán destinados preferentemente a cubrir los gastos ocasionados por la prestación de los servicios aludidos en el inciso primero.
+
+#### Artículo 98°
+
+El Ministerio de Relaciones Exteriores otorgará y controlará las patentes y otros distintivos que deberán llevar los vehículos motorizados de los agentes diplomáticos, consulares y de los funcionarios de organismos internacionales, acreditados en Chile, lo que se comunicará a la Municipalidad respectiva y a la Dirección General de Carabineros.
+
+#### Artículo 99°
+
+Por razones de servicio podrá efectuarse la delegación de facultades de cualquier nivel jerárquico en niveles inferiores. El Reglamento establecerá el procedimiento que se aplicará en estos casos.
+
+#### Artículo 100°
+
+En el Reglamento se determinará el orden de precedencia y subrogación del personal de las Misiones Diplomáticas, Consulares y Misiones Técnico-Administrativas.
+
+#### Artículo 101°
+
+Cada vez que en el presente Estatuto se emplee la expresión moneda extranjera, se entenderá referida a aquellas monedas extranjeras que, para cada caso, se contemplen en el Presupuesto Anual.
+
+#### Artículo 102°
+
+Las normas contenidas en el artículo 5° del decreto ley 1.608 y DFL. 90, de 1977, del Ministerio de Hacienda, no serán aplicables a los funcionarios de la Planta "B" del Servicio Exterior.
+
+## Capítulo VII
+
+De las destinaciones al extranjero del personal de la Subsecretaría de Relaciones Económicas Internacionales y de la Dirección General de Promoción de Exportaciones
+
+### Párrafo 1°
+
+Del Personal de las Plantas de Directivos, de Profesionales y de Técnicos
+
+#### Artículo 103
+
+Por resolución del Subsecretario de Relaciones Económicas Internacionales se podrá destinar a prestar servicios en una misión en el exterior a los funcionarios de las Plantas de Directivos, de Profesionales y de Técnicos de la Subsecretaría y de la Dirección General de Promoción de Exportaciones que reúnan los requisitos exigidos en el reglamento que se establezca.
+
+No obstante, a propuesta del Subsecretario de Relaciones Económicas Internacionales, por decreto supremo del Ministerio de Relaciones Exteriores, se podrá destinar al exterior a personas que no cumplan con los requisitos que establezca el reglamento, siempre y cuando el número de éstas no exceda de dos quintos del total de funcionarios que pueden ser destinados al exterior, conforme al artículo 109 del presente Estatuto.
+
+#### Artículo 104
+
+La resolución o el decreto supremo, según corresponda, que destine al exterior a los funcionarios de las Plantas de Directivos, de Profesionales y de Técnicos, deberá señalar en cuál de las siguientes categorías de la Planta "A", presupuesto en moneda extranjera, del Servicio Exterior del Ministerio de Relaciones Exteriores, se desempeñará el funcionario destinado:
+
+Categoría Título
+
+2ª Ministro Consejero o Cónsul General de 1ª Clase.
+
+3ª Consejero o Cónsul General de 2ª Clase.
+
+4ª Primer Secretario o Cónsul de 1ª Clase.
+
+5ª Segundo Secretario o Cónsul de 2ª Clase.
+
+6ª Tercer Secretario o Cónsul de 3ª Clase.
+
+#### Artículo 105
+
+El personal sólo podrá ser acreditado en el exterior en las funciones propias del respectivo Servicio.
+
+#### Artículo 106
+
+Los funcionarios podrán ser destinados al exterior por un tiempo máximo de dos años, y gozarán de los mismos e idénticos derechos, beneficios y franquicias establecidos para el personal de la Planta "A" del Servicio Exterior del Ministerio de Relaciones Exteriores, en especial las establecidas en el párrafo 7° del capítulo II del presente Estatuto. Tratándose de profesionales destinados a las representaciones permanentes ante organizaciones internacionales y misiones especiales en el exterior, en casos excepcionales, debidamente calificados por decreto supremo, el plazo de dos años de destinación podrá prorrogarse por hasta un máximo de tres años adicionales.
+
+A los funcionarios destinados como agregados a cargo de una oficina comercial o de un departamento económico en el exterior, les será aplicable el inciso primero del artículo 26.
+
+#### Artículo 107
+
+Los funcionarios destinados a una oficina comercial en el exterior podrán ser trasladados a otra misión u oficina comercial por necesidades del servicio. En este caso gozarán de los mismos derechos establecidos para una destinación al exterior, salvo que el traslado se efectúe a una misión u oficina comercial ubicada en la misma ciudad.
+
+#### Artículo 108
+
+Para los efectos protocolares y de rango, en Chile y en el exterior, y para los efectos de subrogación en las oficinas comerciales y departamentos económicos en el exterior, las estructuras de grados de las Plantas de Directivos, de Profesionales y de Técnicos se asimilarán a los cargos de la Planta del Servicio Exterior del Ministerio de Relaciones Exteriores de conformidad con la siguiente tabla:
+
+Escalafón del Servicio Plantas de Directivos,
+
+Exterior del Ministerio Profesionales y Técnicos
+
+de Relaciones Exteriores de la Subsecretaría de
+
+Relaciones Económicas
+
+Internacionales
+
+y de la Dirección General
+
+de Promoción de Exportaciones.
+
+Segunda Categoría Directores grado 3° E.U.S.
+
+Exterior
+
+Tercera Categoría Directores grado 4°, Jefes
+
+Exterior de Departamentos y
+
+Profesionales grados 4º y
+
+5º E.U.S.
+
+Cuarta Categoría Profesionales grado 7° y
+
+9° E.U.S.
+
+Quinta Categoría Jefes de Sección;
+
+Exterior Profesionales grados 11°
+
+y 13° E.U.S.; y Técnicos
+
+grado 10° E.U.S.
+
+#### Artículo 109
+
+El Subsecretario de Relaciones Económicas Internacionales podrá destinar para prestar servicios en las misiones de Chile en el exterior hasta cuarenta y siete funcionarios provenientes de las Plantas de Directivos, de Profesionales y de Técnicos de la Subsecretaría de Relaciones Económicas Internacionales y de la Dirección General de Promoción de Exportaciones. Tratándose de oficinas comerciales de la Dirección General de Promoción de Exportaciones sólo podrá disponerse la destinación de funcionarios de dicha repartición.
+
+No obstante lo anterior, como parte del cupo indicado en el inciso precedente, a propuesta del Director General de Promoción de Exportaciones, el Subsecretario de Relaciones Económicas Internacionales podrá destinar profesionales o técnicos a contrata para desempeñarse como agregados a cargo de una oficina comercial o de un departamento económico, quienes deberán reunir los requisitos que exija el reglamento que se establezca, previo concurso realizado en conformidad a lo dispuesto en el párrafo segundo del numeral 12 del artículo 14 del Estatuto Orgánico del Ministerio de Relaciones Exteriores.
+
+El referido personal formará parte de la dotación de la Dirección General de Promoción de Exportaciones y gozará de los mismos e idénticos derechos, beneficios y franquicias establecidos para el personal de la Planta "A" del Servicio Exterior del Ministerio de Relaciones Exteriores, en especial los establecidos en el párrafo 7° del capítulo II del presente Estatuto. Dentro del cupo de excepción regulado en el inciso segundo del artículo 103 se considerará también al personal que se destine en esta calidad.
+
+La resolución que destine a funcionarios a contrata indicará la correspondiente asimilación a alguna de las categorías referidas en el artículo 120. No obstante, el sueldo base anual en moneda extranjera de hasta quince de estas contratas no podrá exceder, en ningún caso, del sueldo base anual correspondiente a la 4ª Categoría Exterior de la Planta "A", presupuesto en moneda extranjera, del Servicio Exterior del Ministerio de Relaciones Exteriores.
+
+Los cargos de planta de los funcionarios destinados al exterior podrán ser provistos por nombramientos en calidad de suplentes, con derecho a las remuneraciones correspondientes.
+
+#### Artículo 110
+
+En casos calificados, mediante decreto del Ministerio de Relaciones Exteriores, se podrá destinar al exterior a funcionarios de las Plantas de Directivos, de Profesionales y de Técnicos de la Subsecretaría de Relaciones Económicas Internacionales o de la Dirección General de Promoción de Exportaciones, aun cuando se exceda de la cifra indicada en el inciso primero del artículo 109 del presente Estatuto. Estas destinaciones se financiarán en moneda extranjera con cargo a los ítems presupuestarios respectivos, previa visación de la Dirección de Presupuestos del Ministerio de Hacienda.
+
+#### Artículo 111
+
+El Subsecretario de Relaciones Económicas Internacionales y el Director General de Promoción de Exportaciones podrán, por resolución fundada, autorizar el otorgamiento de fondos para gastos de representación y secretaría a sus respectivos funcionarios o delegaciones que sean destinados o comisionados al exterior.
+
+Las personas, funcionarios o delegaciones que reciban fondos para gastos de representación o secretaría, en conformidad al inciso anterior, deberán rendir cuenta documentada, según corresponda, a la Subsecretaría de Relaciones Económicas Internacionales o a la Dirección General de Promoción de Exportaciones.
+
+### Párrafo 2°
+
+Del Personal de la Planta de Administrativos
+
+#### Artículo 112
+
+El Subsecretario de Relaciones Económicas Internacionales podrá destinar hasta dos funcionarios, sean de planta o a contrata, para prestar funciones en el exterior hasta por dos años, en tareas de apoyo al personal Directivo, Profesional y Técnico destinado al exterior.
+
+Dichos funcionarios provendrán de cualquiera de las Plantas de Administrativos o asimilado a ellas, de la Subsecretaría de Relaciones Económicas Internacionales o de la Dirección General de Promoción de Exportaciones.
+
+En el caso del personal a contrata, asimilado a la Planta de Administrativos de los servicios señalados en el inciso anterior, sólo podrán ser destinados si se han desempeñado en esa calidad en dichos servicios por, a lo menos, cinco años continuos, pudiendo sumarse para estos efectos el tiempo prestado en ambas instituciones.
+
+Las destinaciones de los funcionarios a contrata quedarán sujetas a la renovación del respectivo contrato y se efectuarán previo concurso realizado en conformidad a lo dispuesto en el párrafo segundo del numeral 12 del artículo 14 del Estatuto Orgánico del Ministerio de Relaciones Exteriores.
+
+La resolución que destine al exterior a los funcionarios, sean de planta o a contrata, de la Planta de Administrativos o asimilada a ella, deberá señalar el sueldo base anual de éstos en moneda extranjera. Dicho sueldo base anual será equivalente a la 6ª Categoría Exterior, presupuesto en moneda extranjera, del Servicio Exterior del Ministerio de Relaciones Exteriores.
+
+#### Artículo 113
+
+Los funcionarios de la Planta de Administrativos y los asimilados a ella destinados al exterior tendrán para todos los efectos legales, sean éstos de carácter tributario, previsional u otros, el grado que respectivamente les corresponda en la Planta de Administrativos.
+
+#### Artículo 114
+
+Los funcionarios de la Planta de Administrativos y los asimilados a ella que sean destinados al exterior, gozarán de los mismos beneficios y franquicias establecidos para el personal de la Planta "A" del Servicio Exterior del Ministerio de Relaciones Exteriores, como también de las mismas obligaciones y restricciones en lo que procediere.
+
+### Párrafo 3°
+
+Del Personal de la Planta de Auxiliares
+
+#### Artículo 115
+
+El Subsecretario de Relaciones Económicas Internacionales podrá destinar hasta dos funcionarios, sean de planta o a contrata, para prestar funciones en el exterior propias de su cargo hasta por dos años.
+
+Dichos funcionarios provendrán de cualquiera de las Plantas de Auxiliares o asimilado a ellas, de la Subsecretaría de Relaciones Económicas Internacionales o de la Dirección General de Promoción de Exportaciones.
+
+En el caso del personal a contrata, asimilado a la Planta de Auxiliares de los servicios señalados en el inciso anterior, sólo podrán ser destinados si se han desempeñado en esa calidad en dichos servicios por, a lo menos, cinco años continuos, pudiendo sumarse para estos efectos el tiempo prestado en ambas instituciones.
+
+Las destinaciones de los funcionarios a contrata quedarán sujetas a la renovación del respectivo contrato y se efectuarán previo concurso realizado en conformidad a lo dispuesto en el párrafo segundo del numeral 12 del artículo 14 del Estatuto Orgánico del Ministerio de Relaciones Exteriores.
+
+La resolución que destine al exterior a los funcionarios, sean de planta o a contrata, de la Planta de Auxiliares o asimilada a ella, deberá señalar el sueldo base anual de éstos en moneda extranjera. Dicho sueldo no podrá exceder, en ningún caso, del 100% del sueldo base anual correspondiente a la 6ª Categoría Exterior de la Planta "A", presupuesto en moneda extranjera, del Servicio Exterior del Ministerio de Relaciones Exteriores.
+
+#### Artículo 116
+
+Los funcionarios de la Planta de Auxiliares y los asimilados a ella destinados al exterior tendrán, para todos los efectos legales, sean éstos de carácter tributario, previsional u otros, el grado que respectivamente les corresponda en la Planta de Auxiliares.
+
+#### Artículo 117
+
+Los funcionarios de la Planta de Auxiliares y los asimilados a ella que sean destinados al exterior, gozarán de los mismos beneficios y franquicias establecidos para el personal de la Planta "A" del Servicio Exterior del Ministerio de Relaciones Exteriores, como también de las mismas obligaciones y restricciones en lo que procediere.
+
+### Párrafo 4°
+
+Disposiciones generales
+
+#### Artículo 118
+
+En cualquier momento, el Ministro de Relaciones Exteriores o el Subsecretario de Relaciones Económicas Internacionales, mediante decreto o resolución fundada, según corresponda, podrán poner fin a la destinación en el exterior.
+
+#### Artículo 119
+
+A los funcionarios de la Subsecretaría de Relaciones Económicas Internacionales y de la Dirección General de Promoción de Exportaciones se les aplicará lo dispuesto en el artículo 62 del presente decreto con fuerza de ley.
+
+#### Artículo 120
+
+Para todos los efectos legales, sean de carácter previsional, tributario u otros descuentos legales obligatorios, de pago de remuneraciones o de cualquier otro en que sea necesaria una equivalencia o asimilación entre los funcionarios de la Planta "A", presupuesto en moneda extranjera, del Servicio Exterior del Ministerio de Relaciones Exteriores, y de la Planta de Directivos, de Profesionales y de Técnicos de la Subsecretaría de Relaciones Económicas Internacionales y de la Dirección General de Promoción de Exportaciones, esa equivalencia o asimilación será la siguiente:
+
+Planta "A", Presupuesto en Plantas de Directivos,
+
+moneda extranjera, del Servicio Profesionales y Técnicos
+
+Exterior del Ministerio de de la Subsecretaría de
+
+Relaciones Exteriores Relaciones Económicas
+
+Internacionales y de
+
+la Dirección General
+
+de Promoción de
+
+Exportaciones.
+
+Segunda Categoría Directores grado
+
+3° E.U.S.
+
+Tercera Categoría Directores grado 4°,
+
+Jefes de Departamento,
+
+grados 4° y 6° E.U.S.
+
+y Profesionales, grados
+
+4° y 5° E.U.S.
+
+Cuarta Categoría Profesionales grados
+
+7° y 9° E.U.S.
+
+Quinta Categoría Jefes de Sección grados
+
+9° y 11° E.U.S.
+
+Profesionales grado
+
+11° y 13° E.U.S. y
+
+Técnicos grado 10°
+
+E.U.S.
+
+#### Artículo 121
+
+Para los efectos del cálculo de las obligaciones previsionales y tributarias que afectan a los funcionarios destinados para prestar servicios en el exterior, se considerará su sueldo de equivalencia o asimilación en Chile.
+
+#### Artículo 122
+
+Los funcionarios que sean destinados al exterior, podrán ser asimilados o acreditados en un grado o categoría distinto al que tengan en la Planta, no superior a la segunda categoría exterior. La acreditación en el exterior se efectuará previa coordinación con la Subsecretaría de Relaciones Exteriores.
+
+#### Artículo 123
+
+El Personal de la Subsecretaría de Relaciones Económicas Internacionales y de la Dirección General de Promoción de Exportaciones que sea designado para una comisión en el exterior o fuera de su sede, tendrá derecho a pasajes y a un viático idénticos al que corresponda al funcionario de la Planta del Servicio Exterior del Ministerio de Relaciones Exteriores, con cuyo rango fuere comisionado. Mantendrá también el goce de su remuneración en moneda nacional o extranjera, según corresponda.
+
+ARTICULOS TRANSITORIOS
+
+#### Artículo 1°
+
+A contar del 1° de Enero de los años 1980, 1981 y 1982 se incrementarán los cargos de la Planta "A" del Servicio Exterior, en las cantidades y categorias que a continuación se indican:
+
+PLANTA DEL SERVICIO EXTERIOR
+
+A.- Presupuesto en moneda extranjera
+
+------------------------------------------------------
+
+N° de cargos
+
+Categoría Descripción 1980 - 1981 - 1982
+
+------------------------------------------------------
+
+1a. Exterior Embajadores_______ 3 4 4
+
+2a. Exterior Ministros Cons.___ 4 4 3
+
+3a. Exterior Consejeros________ 3 3 3
+
+4a. Exterior Primeros Sec._____ 3 3 3
+
+5a. Exterior Segundos Sec._____ 3 3 3
+
+6a. Exterior Terceros Sec._____ 5 4 4
+
+------------------------------------------------------
+
+A contar del 1° de Enero de los años 1980 y 1981 se incrementarán los cargos de la Planta "B" del Servicio Exterior en las cantidades y categorías que a continuación se indican:
+
+B.- Presupuesto en moneda nacional
+
+------------------------------------------------------
+
+N° de cargos
+
+Categoría Descripción 1980 - 1981
+
+------------------------------------------------------
+
+7a. Exterior Terceros Sec. de 2a.
+
+clase__________________ 15 15
+
+------------------------------------------------------
+
+#### Artículo 2°
+
+Las dotaciones máximas que tendrá el Ministerio serán las siguientes:
+
+1979 895 funcionarios
+
+1980 931 funcionarios
+
+1981 967 funcionarios
+
+1982 987 funcionarios
+
+#### Artículo 3°
+
+Los funcionarios del Ministerio de Relaciones Exteriores y sus servicios dependientes que no hayan sido encasillados, de acuerdo con lo ordenado en el decreto ley 2.101, de 1978, tendrán derecho a gozar, a título de indemnización, de una suma equivalente a seis veces el monto de la última remuneración total, sea o no imponible, que hayan percibido en el mes inmediatamente anterior a la notificación del no encasillamiento, siempre que no reúnan los requisitos para acogerse a jubilación, Dicha suma será pagada de una sola vez y no será imponible ni constituirá renta para ningún efecto legal, siendo, además, incompatible con el subsidio de cesantía establecido en el decreto ley 603, de 1974.
+
+#### Artículo 4°
+
+El requisito de permanencia en el grado exigido para los funcionarios del Servicio Exterior en el N° 2 del artículo 25° del presente Estatuto, sólo será aplicable a contar del 1° de enero de 1982.
+
+Con anterioridad a la fecha señalada en el inciso anterior, los Terceros Secretarios de Segunda Clase sólo podrán ascender al grado inmediatamente superior a la fecha que egresen de la Academía Diplomática "Andrés Bello".
+
+#### Artículo 5°
+
+Sin perjuicio del cumplimiento de los requisitos señalados en los números 1 y 3 del artículo 25° del presente Estatuto, para ocupar las vacantes que se produzcan en 1980, se ascenderá a los funcionarios del Servicio Exterior de conformidad a la calificación de mérito habida en el respectivo grado en el año 1979, y respecto de las vacantes que se produzcan en 1981, al promedio de las calificaciones de los años 1979 y 1980. En el caso de igualdad de puntaje en las referidas calificaciones se entenderá al tiempo de permanencia en el respectivo grado o categoría.
+
+#### Artículo 6°
+
+La exigencia de tres años de estudio señalada para los alumnos regulares de la Academia Diplomática Andrés Bello, en el inciso 2° del artículo 13° de este Estatuto, entrará a regir a contar del 1° de enero de 1982".
+
+#### Artículo 7°
+
+Lo dispuesto en el artículo 57° del presente Estatuto entrará a regir a contar del 1° de enero de 1982.
+
+Tómese razón y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Hernán Cubillos Sallato, Ministro de Relaciones Exteriores.- Sergio de Castro Spikula, Ministro de Hacienda.
+
+Lo que transcribo a US. para su conocimiento.- Roberto Soto Mackenney, Coronel de Ejército, Subsecretario de Relaciones Exteriores.
