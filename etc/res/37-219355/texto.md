@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 37, de fecha 17 de abril del año 2003, se autorizó la existencia y aprobó el estatuto de la "COOPERATIVA DE TRABAJO EN SERVICIOS DE TRANSPORTE Y TURISMO SAN PEDRO LIMITADA", de nombre de fantasía "Cooperativa San Pedro Ltda.", de la comuna de Quillota, Quinta Región, en los términos que da cuenta el Acta Constitutiva protocolizada con fecha 20 de enero del año 2003, al final de los registros del Notario Titular de la ciudad de Viña del Mar, don Luis Enrique Tavolari Oliveros, bajo el Nº 271-2003 y en el acta complementaria de 26 de febrero de 2003, anotada en el Repertorio con el Nº877-03, de la misma Notaría.
+
+Por orden del señor Subsecretario, Cecilia González Martínez, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción Subrogante.
