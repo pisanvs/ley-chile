@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.205, de 3 de diciembre de 2003, de esta Subsecretaría, autorízase a GEOMAR S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Forestal Nº 1108, Parque Industrial, Coronel, VIII Región, donde podrá procesar, en las líneas de elaboración Cocido, Fresco-Enfriado, Fresco-Refrigerado, Ahumado y Conserva, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 3 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
