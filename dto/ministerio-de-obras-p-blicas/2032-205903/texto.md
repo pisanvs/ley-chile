@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.032, de 31 de octubre de 2002, se expropiaron los lotes de terreno Nº130 y 131, superficies 198 y 1.969 m², respectivamente, rol de avalúo Nº78-17, comuna de Galvarino, para la obra "Camino Ruta S-10, sector Cruce Long. (Lautaro) - Galvarino, Tramo 0,000 al 34,50853, Subtramo IV, Km. 18,000 al 25,837", IX Región, y se acordó el valor de la indemnización con su propietario René Efrén Paulsen Naulin, ascendente a la cantidad de $7.720.674.-
+
+Fiscal del Ministerio de Obras Públicas.
