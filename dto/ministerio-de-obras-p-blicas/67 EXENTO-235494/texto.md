@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 67, de fecha 31 de enero de 2005, se autorizó Servidumbre de Acueducto, relacionada con el lote de terreno Nº61-A, superficie 5.835 m2, rol de Avalúo Nº5410-108, comuna de San Bernardo, para la obra ''Colector Interceptor de Aguas Lluvias Puente Alto'', Región Metropolitana y se acordó los términos de la Servidumbre con su propietario Conavicoop, siendo ésta perpetua y gratuita.-
+
+Fiscal del Ministerio de Obras Públicas.
