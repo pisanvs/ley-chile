@@ -1,0 +1,3 @@
+Por resolución Nº 910, de 30 de abril de 2003, de esta Subsecretaría, autorízase a SOCIEDAD GUIDOMAR LIMITADA para ampliar actividades pesqueras de transformación, respecto de la planta ubicada en Libertad Nº 19, Coquimbo, IV Región, en orden a incorporar en las líneas de elaboración de cocido, fresco-enfriado, fresco-refrigerado y congelado, el recurso hidrobiológico Camarón de roca.
+
+Valparaíso, 30 de abril de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
