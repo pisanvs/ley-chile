@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 326, de 30 de marzo de 2001, se ordenó la expropiación y aprobó Plano y Cuadro de expropiación del lote de terreno Nº 40, y por decreto exento MOP Nº 917, de 29 de junio de 2001, se autorizó el valor de la consignación provisional de la expropiación vía judicial, en la cantidad de $2.470.872, necesario para ejecución de la obra Proyecto Estudio de Factibilidad y Diseño del Embalse Corrales y sus obras complementarias, el pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
