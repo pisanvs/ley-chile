@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº120, de 13 de febrero de 1998, se expropió el lote de terreno Nº9, superficie 2.017 M2, rol de avalúo 4505-43, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, sector Ruta 5 Sur-Departamental y Eje General Velázquez y se acordó precio de indemnización con su propietarios Sociedad Constructora Santa Cecilia Limitada, ascendente a la cantidad de $72.891.432 -
+
+Fiscal del Ministerio de Obras Públicas.
