@@ -1,0 +1,3 @@
+Por resuelvo SENDOS No.536, de 19 de Julio de 1989, se expropió el lote de terreno No.1; Rol de Avalúo No.382-15, Comuna de Copiapó, III Región, de 249,37 m2. de superficie para la obra de Mejoramiento Integral del Servicio de Agua Potable de Copiapó Sector Chanchoquín y se acordó el monto de la indemnización con su propietario doña Fantina del Carmen Salinas Núñez, ascendente a $ 1.702.498.
+
+Director Nacional de Obras Sanitarias.
