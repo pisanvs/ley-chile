@@ -10212,7 +10212,7 @@ d) Las apreciaciones del riesgo acerca del deudor, efectuadas por la institució
 
 Para efectos de clasificar la cartera de créditos comerciales de acuerdo con las instrucciones del numeral 2.2 de este titulo, se considerarán las garantías constituidas por cartas de crédito stand-by solamente cuando éstas cumplan las siguientes condiciones:
 
-a) Sean emitidas por un banco establecido en alguno de los países que se indican en el Anexo N°1 de este Capítulo y que registre, a su vez, un capital y reservas igual o superior a 350 millones de dólares de Estados Unidos de Norteamérica.
+a) Sean emitidas por un banco -ya se trate de la casa matriz, o de una filial o sucursal- establecido en alguno de los países que se indican en el Anexo N° 1 de este Capítulo y que registre por sí misma un capital y reservas igual o superior a 350 millones de dólares de los Estados Unidos de América. Por consiguiente, cuando el emisor sea una filial o sucursal no se considerará el capital de la casa matriz ni de las demás filiales o sucursales o, si el emisor es la casa matriz, se tomará en cuenta solamente su propio capital, prescindiendo del que pudieran tener, por su cuenta, las filiales o sucursales del mismo banco. Dicho capital deberá corresponder al último cierre anual disponible informado en alguna publicación de reconocido prestigio, tales como "Polk's Bank Directory", "Banker's Almanac" o "Euromoney" . En ningún caso, ese cierre anual podrá ser anterior a 18 meses contados desde la fecha de emisión de la carta de crédito stand by.
 
 b) Se trate de cartas de crédito emitidas por entidades bancarias distintas de la casa matriz u otra sucursal del mismo banco en el exterior o una filial de aquélla. Para este efecto, el término "casa matriz" debe entenderse referido tanto a la entidad matriz de los bancos extranjeros establecidos en Chile como agencias, como a la institución extranjera que tiene participación mayoritaria en un banco constituido en el país como sociedad anónima.
 
@@ -10562,15 +10562,9 @@ Las instituciones financieras deben proporcionar a esta Superintendencia la info
 
 ### 3. Disposiciones transitorias
 
-3.1. Pérdida estimada por enajenación de acciones Ley N° 18.439.
-
 Las instituciones financieras que mantengan acciones recibidas por deudas capitalizadas al amparo de las disposiciones de la Ley N° 18.439, deberán mantener clasificadas tales acciones en la categoría de riesgo que le corresponda, según las definiciones dadas en el numeral 1.2 del título IV de este capítulo. La pérdida estimada de dicha cartera, que servirá de base para la
 
 constitución de las respectivas provisiones, se calculará de acuerdo con lo dispuesto en el N° 3 del mismo título.
-
-3 2. Validez de las cartas de crédito stand-by distintas de las establecidas en estas normas.
-
-Con el fin de evitar las dificultades que el cumplimiento de lo dispuesto en el numeral 2 5 del título II de este Capítulo puede ocasionar en el caso de los créditos que, antes de la vigencia de dichas normas, se encontraban amparados por cartas de créditos stand-by distintas de aquellas a que se refiere dicho numeral, la validez de tales cauciones para la determinación del riesgo de los respectivos créditos se mantendrá hasta el 30 de junio de 1990 o hasta la fecha de vencimiento de la correspondiente carta de crédito stand-by o de pago del crédito caucionado, cualquiera que ocurra primero.
 
 ANEXO N° 1
 
