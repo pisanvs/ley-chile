@@ -1,0 +1,7 @@
+﻿Castigo de reos
+
+Santiago, Agosto 16 de 1814.
+
+Los crímenes se multiplican a proporcion de la impunidad de los delincuentes. Ellos seguramente se lisonjean con el falso concepto de que el rigor de su pena haya de minorarse en los dias en que se proclama la libertad. Esto es confundirla con la licencia, i tomar los abusos por principios. Una piedad mal entendida eriza el pais de robos, i asesinatos. Ayer se han presentado a la espectacion pública tres víctimas que nos recuerdan la obligacion de ser justicieros por humanidad. La anterior visita de cárcel manifiesta que la mayor parte de los reos son homicidas. El Tribunal de Apelaciones acelerará la sentencia precisamente ajustada a la Lei sin la menor dispensacion, i dará cuenta de los que se hallan en estado de ejecutarse, sobre lo que será responsable. Costará el juicio de los del número uno hasta el dos en su actual sustanciacion, i estando probado el delito, destinará a los reos a Coquimbo para que sirvan a las obras públicas en la clase de presidiarios. En fin, activará todos los resortes de la tramitacion criminal para que la cárcel se exonere, la justicia se vindique, el Estado alivie sus atenciones, i el castigo ejemplarice a los malos. Inclúyase con oficio por Secretaría.
+
+- Carrera.-Uribe.
