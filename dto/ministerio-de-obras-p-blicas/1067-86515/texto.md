@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 1.067 de 31 de octubre de 1997, se expropiaron los lotes de terreno N°s.2-A y 4,, superficies 170 y 240 m2, roles de avalúo 1558-131 y 1558-129 , comuna de Los Angeles, obra Camino Ruta Q-34, , sector El Ciruelo Laja y se acordó precio de indemnización con sus propietarios Sara Alvarez Ortiz y José Cuevas Toledo, ascendente a las cantidades de $ 242.440 y 236.170.
+
+Fiscal del Ministerio de Obras Públicas
