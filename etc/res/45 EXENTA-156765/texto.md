@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 45 de 17 de Enero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a Sector excluido y Sector expropiado Predio "Las Trancas" de la comuna de Los Angeles, VIII Región, y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 11 del Proyecto de Parcelación "Las Trancas", formado por el predio señalado. Los derechos de agua se extraen del Canal Laja y Estero Allipén.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
