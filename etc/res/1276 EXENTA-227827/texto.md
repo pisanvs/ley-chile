@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.276, de 6 de mayo de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Los Lilenes, IV Región, individualizada en el artículo 1º del decreto exento Nº 214, de 2003, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION GREMIAL DE PESCADORES ARTESANALES CALETA SAN PEDRO DE LOS VILOS, IV REGION.
+
+Valparaíso, 6 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
