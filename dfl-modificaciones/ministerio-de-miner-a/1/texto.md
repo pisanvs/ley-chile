@@ -1,0 +1,127 @@
+DEROGA DECRETO N° 20, DE 1964, Y LO REEMPLAZA POR LAS DISPOSICIONES QUE INDICA
+
+Santiago, 22 de Septiembre de 1978.- Hoy se decretó lo que sigue:
+
+Núm. 1.- Vistos: la facultad que me confiere el artículo 7° del decreto ley N° 2.312, de 25 de Agosto de 1978; y lo dispuesto en el artículo 44, N° 15 de la Constitución Política del Estado, y en el decreto ley N° 527, de 1974,
+
+dicto el siguiente:
+
+Decreto con fuerza de ley:
+
+#### Artículo primero
+
+Derógase el decreto N° 20 del Ministerio de Minería, de 8 de Abril de 1964, y reemplázase por las siguientes disposiciones:
+
+#### Artículo segundo
+
+Establécese un Registro en el que deberán inscribirse las personas que produzcan, importen, refinen, distribuyan, transporten, almacenen, abastezcan o comercialicen petróleo, combustibles derivados del petróleo, biocombustibles líquidos, gases licuados combustibles y todo fluido gaseoso combustible, como gas natural, gas de red y biogás.
+
+No se entenderán incluidas en las actividades antes señaladas la explotación de depósitos naturales de petróleo y gas natural.
+
+El Registro será llevado por la Superintendencia de Electricidad y Combustibles.
+
+#### Artículo tercero
+
+La solicitud de Registro deberá contener los siguientes antecedentes:
+
+a) Nombre, nacionalidad y domicilio;
+
+b) Individualización completa de los Estatutos Sociales, si se trata de una persona jurídica;
+
+c) Fuentes de abastecimiento de los productos objeto del giro;
+
+d) Ubicación de los depósitos e instalaciones e individualización de los medios de transporte, en su caso.
+
+#### Artículo cuarto
+
+Las transferencias o cambios en el dominio de los establecimientos, instalaciones y demás medios objeto de registro, como, asimismo, el aumento o disminución de éstos, deberán también registrarse en el Rol previsto en los artículos precedentes.
+
+#### Artículo quinto
+
+Por exigirlo el interés nacional, el Presidente de la República, por decreto supremo dictado a través del Ministerio de Energía y publicado en el Diario Oficial, podrá imponer deberes y obligaciones determinados destinados a precaver todo hecho que cause o pueda causar daño a las personas o a la propiedad.
+
+Dichos deberes y obligaciones podrán versar sobre las modalidades con que deberán efectuarse las operaciones de descarga de combustibles desde camiones estanques a los depósitos o instalaciones para su venta al público; las condiciones que deban reunir las instalaciones y las características de los lugares en que se ubiquen; las medidas que deban adoptarse al tiempo de efectuar cada expendio; las condiciones de seguridad de los depósitos de almacenamiento, de los envases, conductos, cañerías u otros medios de traslado o de transporte y, en general, sobre cualquier clase de precauciones para prevenir o evitar todo peligro en la manipulación de tales elementos combustibles o inflamables.
+
+#### Artículo sexto
+
+Por decreto conjunto del Ministerio de Energía, que deberá publicarse en el Diario Oficial, el Presidente de la República podrá declarar como normas oficiales nacionales, las normas técnicas y de Calidad Aplicables a los diversos tipos de petróleo, a los combustibles derivados de éste y a cualquiera otra clase de combustibles.
+
+En la misma forma señalada en el inciso anterior podrán dictarse normas sobre comercialización de los productos allí señalados.
+
+La Superintendencia de Electricidad y Combustibles será el organismo encargado de fiscalizar el cumplimiento de las normas dictadas en conformidad a la presente ley conforme a sus competencias.
+
+Sin perjuicio de lo establecido en el inciso precedente, para la fiscalización del cumplimiento de las normas sobre combustibles, la referida Superintendencia podrá autorizar a laboratorios o entidades de control de seguridad y calidad para que realicen o hagan realizar bajo su exclusiva responsabilidad las pruebas y ensayos que estime necesarios, con el objeto de certificar el cumplimiento de las normas técnicas y de calidad aplicables a dichos combustibles.
+
+El procedimiento para la autorización y control de laboratorios o entidades será establecido por la Superintendencia mencionada mediante resolución fundada de carácter general. Los laboratorios o entidades así autorizados quedarán sujetos a la permanente fiscalización y supervigilancia de esa Superintendencia.
+
+#### Artículo séptimo
+
+Cada productor o importador de combustibles líquidos derivados del petróleo tendrá la obligación de mantener una existencia media de cada producto equivalente a 25 días de su venta promedio de los últimos seis meses o de su importación promedio en el mismo lapso, si es efectuada para su propio consumo.
+
+INCISO SEGUNDO ELIMINADO.
+
+#### Artículo octavo
+
+Derogado
+
+#### Artículo noveno
+
+El Ministerio de Energía podrá requerir las declaraciones y la documentación que sean necesarias para el ejercicio de sus atribuciones de las personas referidas en el artículo segundo de este decreto con fuerza de ley.
+
+Estas mismas personas están obligadas a facilitar las inspecciones o visitas que los funcionarios de los Servicios del Ministerio de Energía y de la Superintendencia de Electricidad y Combustibles efectúen en cumplimiento de las atribuciones que les encomiende la ley, a exhibir y a proporcionar los antecedentes que estos les soliciten, en el acto mismo en que lo hagan o en el término que se estime necesario.
+
+INCISO TERCERO ELIMINADO.
+
+#### Artículo DECIMO
+
+Derogado
+
+#### Artículo decimo
+
+primero: El que defraudare en la venta de los productos a que se refiere el presente decreto con fuerza de ley, ya sea en el precio, calidad, sustancia, procedencia, peso o medida, será sancionado con una multa que se duplicará en caso de reincidencia.
+
+La mera tendencia de estos productos en estado de adulteración, o en envases para la venta al público que contengan menor cantidad de la que corresponda, o de elementos mecánicos o de medición que permitan entregar al público una cantidad menor de la que señalan, será sancionado con una multa.
+
+INCISO TERCERO ELIMINADO.
+
+#### Artículo DECIMO
+
+SEGUNDO Derogado
+
+#### Artículo DECIMO
+
+TERCERO Derogado
+
+#### Artículo DECIMO
+
+CUARTO Derogado
+
+#### Artículo decimo
+
+quinto: Las empresas de distribución de gas licuado y sus sistemas de operación comercial se regirán, en cuanto a dicha distribución, por las disposiciones del presente decreto con fuerza de ley, no siéndoles aplicables, en consecuencia, ni el régimen de concesiones establecido por el decreto con fuerza de ley N° 323, de 1931, sus modificaciones y su reglamento aprobado por decreto N° 3.707, de 1955, del Ministerio del Interior, ni las demás normas que las rijan que sean incompatibles con las del presente decreto con fuerza de ley o con las que se dicten en virtud de sus artículos 5° y 6°.
+
+DISPOSICIONES TRANSITORIAS
+
+#### Artículo primero
+
+transitorio: No obstante lo prescrito por el artículo 15°, seguirán rigiendo las normas e instrucciones vigentes, en tanto se dicten por el Presidente de la República los correspondientes decretos supremos a que se refieren los artículos 5° y 6°.
+
+Igualmente, se mantendrán hasta que se dicten los correspondientes decretos las normas impartidas por la autoridad, relativamente a la seguridad en la distribución, transporte y expendio de combustibles líquidos derivados del petróleo.
+
+#### Artículo segundo
+
+transitorio: Tanto los procesos en actual tramitación como los que se inicien hasta el vencimiento del plazo que señala el artículo 4° transitorio del presente decreto con fuerza de ley, con motivo de infracciones en la venta al público de combustibles líquidos derivados del petróleo, continuarán sustanciándose de acuerdo a las normas del decreto N° 20, de 1964, del Ministerio de Minería, hasta su total terminación.
+
+#### Artículo tercero
+
+transitorio: No obstante lo dispuesto por el artículo 8°, en tanto se dicta la Nueva Ley Orgánica del Ministerio de Economía, el régimen de precios de los productos a que se refiere el presente decreto con fuerza de ley será el contenido en el decreto N° 522, de 1973, de dicho Ministerio y sus modificaciones.
+
+#### Artículo cuarto
+
+transitorio: La Empresa Nacional del Petróleo continuará proporcionando el personal y los medios materiales que a la fecha mantiene en el Ministerio de Energía, en cumplimiento del artículo 47 del decreto N° 20, del Ministerio de Minería, de 1964, hasta que se fije la planta de dicho Ministerio. En todo caso, cesará la obligación impuesta a la Empresa Nacional del Petróleo el 30 de Junio de 1979.
+
+#### Artículo quinto
+
+transitorio: El presente decreto con fuerza de ley comenzará a regir 60 días después de su publicación en el Diario Oficial.
+
+Tómese razón, regístrese, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Enrique Valenzuela Blanquier, Ministro de Minería.- Pablo Baraona Urzúa, Ministro de Economía, Fomento y Reconstrucción.
