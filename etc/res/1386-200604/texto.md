@@ -1,0 +1,3 @@
+Por resolución Nº 1.386, de 5 de julio de 2002, de esta Subsecretaría, rectifícase la resolución Nº 1.223 de 2002, que autorizó a SOCONOR LIMITADA, RUT Nº 79.868.540-6, para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 749 de 1993, de esta Subsecretaría, en el sentido de incorporar a la planta ubicada en Pasaje Duende Nº 1205, Tocopilla, II Región, en la línea de proceso Congelado, el recurso hidrobiológico Sardina Sardinops sagax.
+
+Valparaíso, 5 de julio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
