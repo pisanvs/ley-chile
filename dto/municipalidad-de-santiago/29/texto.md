@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. N° 29 de fecha 12 de Marzo de 1993, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme D.S. N° 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble calle Erasmo Escala N° 2221, rol 401-003, Santiago, aparente dominio Soc. Hotel Primavera Ltda. Superficie aproximada a expropiar 46,46 m2. Deslindes: Norte, 8,85 mts. calle Santa Mónica; Sur, 8,85 mts. resto del predio; Oriente, 5,25 mts. otro propietario; y Poniente, 5,25 mts. otro propietario. Indemnización provisional $2.041.850 pagadera contado.-
+
+Jaime Ravinet de la Fuente, Alcalde de Santiago.
