@@ -1,0 +1,9 @@
+Por resolución No. 260 de 13 de Marzo de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESCAUSTRAL S.A.
+
+R.U.T. No. 96.521.510-7, domiciliada en la ciudad de Coyhaique para ampliar las actividades que tiene autorizadas por Resolución No. 457, de 1988, de esta Subsecretaría, en orden a incorporar en las líneas de proceso que se indican, de la planta autorizada por la Resolución citada precedentemente, ubicada en XI Región, los siguientes recursos hidrobiológicos: Conservas: Jurel, Merluza del Sur, Pejerrey de mar, Puye, Salmón del Pacífico, Sardina, Trucha arcoiris, Almeja o taca, Almeja, Calamar, Caracol locate, Caracol palo palo, Caracol trumulco, Cholga, Chorito, Choro, Culengue, Huepo, Lapa, Macha, Navajuela, Ostra chilena, Camarón nailon, Centolla, Centollón, Jaiba, Langostino amarillo, Picoroco, Erizo, Fresco-refrigerado-congelado: Bacalao de profundidad o Mero, Congrio colorado, Congrio dorado, Congrio negro, Jurel, Merluza común, Merluza del Sur, Pejegallo, Pejerrey de mar, Raya, Róbalo, Salmón del Pacífico, Tollo, Trucha arcoiris, Calamar Culengue, Huepo, Macha, Pulpo, Piure. La materia prima será adquirida a pescadores artesanales. La especie, Salmón del Pacífico y Trucha arcoiris, deberán provenir de centros autorizados para realizar actividades de cultivo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria para procesar el recurso Loco y Langostino colorado, de conformidad con los establecido en el D.S. No. 614, de 1991, y No. 421 de 1989, ambas del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 13 de Marzo de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
