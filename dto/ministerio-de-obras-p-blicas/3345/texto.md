@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.345, de 31 de julio de 2000, se expropió el lote de terreno Nº 185, superficie 86 m2, rol de avalúo 5883-10, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Ignacio Luis Escobar Villarreal, ascendente a la cantidad de $10.597.403.
+
+Fiscal del Ministerio de Obras Públicas.
