@@ -1,0 +1,3 @@
+Por resolución número 538, de 12 de marzo de 2002, de esta Subsecretaría, modifícase el numeral 6º de la resolución Nº 37 de 2002, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio temporal de las capturas de Jurel en la I y II Región (Primera Etapa, 2002)", en el sentido de reemplazar las naves "La Huaica" y "Mar del Plata" por la nave "Don Ernesto Ayala Máfil", todas de propiedad de Corpesca S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 12 de marzo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
