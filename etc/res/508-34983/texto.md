@@ -1,0 +1,3 @@
+Por Resolución N° 508 de 24 de Mayo de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar del 23 de Marzo de 1994, el plazo otorgado a EMPRESA NACIONAL DE PESCA S.A., R.U.T. N° 96.540.500-3, en orden a iniciar actividades pesqueras extractivas con la nave "Don Javier I", autorizada mediante la Resolución N° 183, de 1992, de esta Subsecretaría, en razón de haberse acreditado a la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 24 de Mayo de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
