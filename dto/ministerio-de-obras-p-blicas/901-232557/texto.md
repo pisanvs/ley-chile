@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 901, de 5 de octubre de 2004, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, de decreto M.O.P. Nº 275, de 31 de marzo de 2004, en la parte que se refiere al Convenio de Directo Precio Ad - Referendum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 145-A. Fijada por la comisión de peritos, con fecha 12 de septiembre de 2002, ascendente a la cantidad de $3.401.580.
+
+- Fiscal del Ministerio de Obras Públicas.
