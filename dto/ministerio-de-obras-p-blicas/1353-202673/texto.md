@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.353, de fecha 31 de julio de 2002, se expropió el lote de terreno Nº 13, superficie 46 m2, rol de avalúo 3830-18, comuna de Talcahuano, VIII Región, para la obra ''Mejoramiento Avenida Las Golondrinas-Talcahuano, Sector Golondrinas (Sector I)'' y se acordó el valor de indemnización con su propietario don Modesto Gallardo Cifuentes y otra, ascendente a la cantidad de $28.020.624.-
+
+Fiscal del Ministerio de Obras Públicas.
