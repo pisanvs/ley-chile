@@ -1,0 +1,3 @@
+AUTORIZA EXCEPCIONARSE DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA
+
+La Dirección Regional Talca del S.I.I., por Resolución Nº Ex. 28 de 13 de enero de 1998, excepciona a contar del 1º del mes siguiente al de esta publicación, a Forestal Montenegro y Cía. Ltda., Rut Nº 78.592.880-6, del régimen de cambio de sujeto del IVA establecido en la Resolución Nº Ex.5362, de la Dirección Nacional, publicada en el Diario Oficial del día 4 de noviembre de 1997.
