@@ -1,0 +1,7 @@
+AUTORIZA A NOVAPESCA S.A. PARA REALIZAR PROYECTO DE PESCA EXPLORATORIA
+
+Por Resolución No. 1.453 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción se autoriza a Novapesca S.A., R.U.T. No.
+
+96.543.510-7, domiciliada en Santiago, para realizar un proyecto de pesca exploratoria con las embarcaciones "Koei Maru-10" y "Fukucho Maru-38", teniendo como especies objetivo los recursos Calamar y jibia. La presente autorización se concede por el plazo de seis meses, a contar de la fecha de publicación de este extracto. Respecto de la nave "Fokucho Maru-38" este plazo se contará a partir del 31 de enero de 1989. Se fija como zonas de operación de las naves, las comprendidas entre los paralelos 19° LS a 34° LS y 36° LS a 54° LS, ambas zonas al Oeste de las 5 millas y hasta las 100 millas náuticas, medidas desde las líneas de base. La interesada deberá aceptar a bordo de las embarcaciones autorizadas, a funcionarios que designe esta Subsecretaría o el Servicio Nacional de Pesca, con fines de investigación o fiscalización. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 22 de Diciembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
