@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 381, 16 julio 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº 173, Venecia, Rol de Avalúo Nº 2613-10, comuna Chiguayante, superficie 50 m2. de terreno y 30,4 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.024, de aparente dominio de José Andrés Burboa Bastías, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión Peritos integrada por Luis Soto Abarca, arquitecto, Patricia Palacios González, arquitecto y Leonardo de la Fuente Vera, constructor civil, según informe de fecha 16 de Junio de 2004, fijó monto provisional indemnización en $5.559.900.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
