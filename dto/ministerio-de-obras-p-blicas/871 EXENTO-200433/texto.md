@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº871 de fecha 31 de mayo del 2002, se expropió el lote de terreno Nº16, superficie 154 m2, rol Nº302-158, comuna de Cunco, IX Región para la obra ''Camino Ruta S-61, sector Cunco - Melipeuco, Km. 55,000 al Km. 87,46783, correspondiente al Tramo I Km. 55,000 al Km. 62,784'', y se acordó el valor de indemnización con su propietario Manuel Jesús Troncoso Santander, ascendente a la cantidad de $330.011.-
+
+Fiscal del Ministerio de Obras Públicas.
