@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 528, de fecha 30 de abril de 2001, se expropiaron los lotes de terreno Nºs. 45 y 46, superficies 4.023 M2 y 2.311 M2, respectivamente, Rol de avalúo 65-14, comuna de Lonquimay, para la obra "Camino Malalcahuello-Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Lonquimay-Acceso Pedregoso, Km. 119,30000 al 141,00000" y se acordó el valor de indemnización con su propietario Guido Urra Gajardo, ascendente a la cantidad de $1.264.617.-
+
+Fiscal del Ministerio de Obras Públicas.
