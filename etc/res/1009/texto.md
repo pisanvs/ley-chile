@@ -1,0 +1,3 @@
+Por Resolución N° 1.009 de 6 de Diciembre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA CUCAO S.A., R.U.T. N° 96.657.080-6, para continuar desarrollando las actividades pesqueras autorizadas a Pesquera Hualpén S.A. y Pesquera Ayala Hermanos S.A., por Resoluciones N° 1.061, de 1988, N° 266, de 1989, N° 16 y N° 17, ambas de 1992, todas de esta Subsecretaría, en virtud de las Escrituras Públicas citadas en Visto.- Valparaíso, 6 de Diciembre de 1993.-
+
+Andrés Couve Rioseco, Subsecretario de Pesca.
