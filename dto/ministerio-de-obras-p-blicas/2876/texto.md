@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.876, de 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs. 76, 82, 83-A y 83-B, superficies 5.302, 6.370, 31.409 y 3.105 m2., respectivamente, rol de avalúo 222-47, comuna de Monte Patria, obra camino Ruta D-597, Monte Patria-Carén, sector Juntas-Carén y se acordó precio de indemnización con su propietario Comunidad Coipo Cuyuncavi, ascendente a la cantidad de $13.772.626.
+
+- Fiscal del Ministerio de Obras Públicas.
