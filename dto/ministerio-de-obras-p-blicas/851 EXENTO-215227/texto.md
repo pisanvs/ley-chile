@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 851 de 28 de agosto de 2003, se dejó sin efecto la expropiación del lote de terreno Nº 11-B, ordenado por decreto MOP exento Nº 602, de fecha 30 de junio del 2003, correspondiente a la Obra: Camino Punta de Cortes - Plaza Lo Miranda, Rol H-270, Km. 0,000 a Km.4,000, VI Región, que afecta a la propiedad rol de avalúo en trámite de la comuna de Doñihue, superficie 72 m². y que figura a nombre de Manuel Benito Guzmán Pinto.
+
+- Fiscal del Ministerio de Obras Públicas.
