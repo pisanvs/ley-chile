@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 40, de fecha 23 de abril del año 2001, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Vivienda y Servicios Habitacionales "Angel Gabriel" Limitada, en los términos que da testimonio la escritura pública suscrita con fecha 12 de febrero de 2001, ante el Notario Suplente de la Tercera Notaría de la ciudad de Chillán, don Gustavo Tomás Baeriswyl Padilla, modificada por escritura pública suscrita con fecha 21 de marzo de 2001, ante el Notario Titular de la misma Notaría don Manuel Bravo Bravo.
+
+Por orden del Sr. Subsecretario.- Carlos Rubio Estay, Jefe Departamento de Cooperativas.
