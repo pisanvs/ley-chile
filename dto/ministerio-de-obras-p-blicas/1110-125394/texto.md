@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.110, de 30 de julio de 1998, se expropiaron los lotes de terreno No. s. 6-A y 21, superficies 523,5 y 138 M2. respectivamente, roles de avalúo 1404-7 y 1402-3, comuna de Puerto Varas, para la obra Camino Ampliación Ruta 5 Sur, Sector Puerto Varas-Puerto Montt y se acordó precio de indemnización con sus propietarios Fredy Emig Droppelmann y Sociedad Gunther y Compañía Limitada, ascendente a las cantidades de $ 1.767.77.- para el lote 6-A y $ 1.034.268.- para el lote 21.
+
+- Fiscal del Ministerio de Obras Públicas.
