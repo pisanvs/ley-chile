@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 646 de 02 de Mayo de 1989, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden 4 Sector Excluido y Sector Expropiado Predio "Hijuela de Las Casas o Hijuela Número Uno del Fundo Santa Isabel", de la Comuna de Rengo, VIa Región y Derechos Aprovechamiento Aguas que corresponden a parcelas No. 1 a la 8 sitios No. 1 al 8 del Proyecto de Parcelación "Santa Isabel", formado por predio señalado. Los Derechos de Agua se extraen del Canal Apalta, derivado del Río Cachapoal. Derrames de los predios Fundo Perales y Otros e Hijuelas No. 4 y No. 5 del Fundo Santa Isabel. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Nacional.
