@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 159, de 28 de mayo de 1993, se expropiaron los lotes de terreno N°s 8, 12, 18 y 56, superficies 95 m2., 5.050 m2., 2.665 m2. y 3.250 m2., roles de avalúo 149-6, 144.4, 149-5 y 35-1, Comunas de Nancagua y Chépica, para la obra Camino Nancagua-Puquillay, Chépica y se acordó el valor de indemnización con sus propietarios Soc. Agrícola Casagrande Ltda., María Cristina Vera, María Luisa Concha Benavente y Rosario del C. Muñoz Navarro, ascendente a las cantidades de $ 376.476.-, $ 3.131. 820.-, $ 1.870.050.- y $ 1.986.500.-, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
