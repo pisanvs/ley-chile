@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 551 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 3 superficie 55 m2, Rol Nº 44-1, comuna de Chépica, para la obra ''Ruta I-86, sector Auquinco Cruce Ruta I-30-J, tramo Km. 0.000 al 4.499,25'', y se acordó el valor de indemnización con su propietario Jesús Alberto González Bahamondez y otros, ascendente a la cantidad de $621.960.
+
+Fiscal del Ministerio de Obras Públicas.
