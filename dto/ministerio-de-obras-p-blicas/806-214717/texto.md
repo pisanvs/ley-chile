@@ -1,0 +1,3 @@
+Por decreto MOP Nº 806, de fecha 31 de julio del 2003, se expropió el lote de terreno Nº 61-A, superficie 123 m², Rol Nº 2213-651, comuna de Chillán, VIII Región para la obra "Camino Ruta N-45, Sector Cruce Ruta N-49 (Chillán) - La Capilla - Tres Esquinas, Km. 6,26000 a 28,54000 y se acordó el valor de indemnización con su propietario Esther del Carmen Pérez Quezada y Otros, ascendente a la cantidad de $15.501.008.
+
+Fiscal del Ministerio de Obras Públicas.
