@@ -1,0 +1,3 @@
+APRUEBA ORDENANZA DE DERECHOS MUNICIPALES Y ORDENANZA DE PARTICIPACION CIUDADANA
+
+Avísase a la comunidad que la Ilustre Municipalidad de Juan Fernández aprobó la Ordenanza Local de Derechos Municipales por Concesiones, Permisos y Servicios; y la Ordenanza de Participación Ciudadana, ambas con el Acuerdo del Honorable Concejo Municipal en sesión Nº084, de fecha 15 de octubre de 2002. El texto completo de las ordenanzas aprobadas están a disposición de los usuarios en la Oficina de Partes de la Municipalidad.
