@@ -28,7 +28,9 @@ Las misiones de estudios o perfeccionamiento no podrán tener una duración supe
 
 #### Artículo 5°
 
-Durante el cumplimiento de estas misiones de estudios o perfeccionamiento, los funcionarios tendrán derecho a gozar de una asignación mensual de hasta tres sueldos vitales mensuales, escala a), del departamento de Santiago.
+Durante el cumplimiento de estas misiones de estudio, los funcionarios tendrán derecho a gozar de una asignación mensual de hasta un uno y medio sueldo vital del departamento de Santiago.
+
+Si se trata de misiones a cursos de perfeccionamiento, dichos funcionarios tendrán derecho a una asignación mensual que fluctuará entre tres y diez sueldos vitales del departamento de Santiago.
 
 #### Artículo 6
 
@@ -42,7 +44,7 @@ Durante el lapso que comprende la misión de estudios o perfeccionamiento, el fu
 
 Los empleados favorecidos con una misión de estudios o perfeccionamiento deberán formular una declaración jurada ante notario u oficial civil, si correspondiere, por la cual se comprometan a asistir regularmente al curso respectivo y a trabajar en el Servicio a que pertenezcan a lo menos un año, salvo que devuelvan las sumas percibidas. En el caso de las misiones otorgadas para seguir carreras universitarias, los beneficiarios beberán acreditar anualmente, mediante certificado competente, la promoción al curso siguiente, y su obligación de permanencia en el Servicio será igual al número de años que dure la respectiva carrera.
 
-El cumplimiento de estas obligaciones será caucionado con una póliza de garantía debidamente calificada por el Jefe Superior del Servicio.
+En los casos que así lo determine el decreto o resolución que autorice la respectiva misión, los funcionarios deberán rendir una caución mediante pólizas de seguro constituidas en el Instituto de Seguros del Estado, por el valor que fije la Jefatura Superior del respectivo Servicio, a fin de garantizar el cumplimiento de la obligación de permanencia establecida en el inciso anterior.
 
 Por otra parte, el incumplimiento de estas obligaciones, sin que medie causa justificada debidamente calificada por el Jefe Superior del Servicio, se considerará como un antecedente negativo y desfavorable para los efectos de su ingreso a cualquiera de los Servicios dependientes del Ministerio de Salud Pública.
 
