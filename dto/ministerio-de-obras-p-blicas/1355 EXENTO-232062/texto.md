@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.355 de 30 de septiembre de 2004, se expropiaron los lotes de terreno Nº 11-B y 12-A, superficies 520 y 276 m2., Rol Nº s. 3283-503 y 3283-498 respectivamente, comuna de Padre Las Casas, IX Región para la obra "Camino Mejoramiento Ruta S-269, Padre Las Casas Niágara, Sector Km. 0.000,00 a Km. 17.357,22 Tramo Km. 2.300 al Km. 17.340", y se acordó el valor de indemnización con su propietaria Zoila del Carmen Quidel Sandoval, ascendente a la cantidad de $2.109.993.-
+
+Fiscal del Ministerio de Obras Públicas.
