@@ -1,0 +1,1 @@
+Concede gratificación durante los años 1935 y 1936 al personal de la Administración Pública que indica; y autoriza a las Municipalidades modificar sus Presupuestos con el objeto de otorgarla a sus empleados.
