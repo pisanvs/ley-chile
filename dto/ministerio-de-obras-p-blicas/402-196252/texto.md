@@ -1,0 +1,3 @@
+Por decreto MOP Nº 402, de fecha 25 de febrero de 2002, se expropiaron los lotes de terreno Nºs 15 y 16, superficie 99 y 432 m2, respectivamente, rol de avalúo 7400-3 y 7404-13, comuna de Talcahuano, para la obra "Mejoramiento Eje Gran Bretaña, Sector Cuatro Esquinas-Rotonda CAP Km. 0,00000 a Km. 2,74400" y se acordó el valor de indemnización con su propietario Edyce S.A., ascendente a la cantidad de $33.071.975.
+
+- Fiscal del Ministerio de Obras Públicas.
