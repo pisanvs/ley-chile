@@ -1,14 +1,10 @@
-APRUEBA REGLAMENTO DE DELEGACION DE FUNCIONES Y ATRIBUCIONES DE LA DIRECCION GENERAL DE OBRAS PUBLICAS Y SUS SERVICIOS DEPENDIENTES
+Aprueba nuevo Reglamento de Delegación de Funciones y Atribuciones de la Dirección General de Obras Públicas y de sus Servicios dependientes; deroga los decretos 299, de 12 de marzo de 1965 y 1.137, de 5 de noviembre de 1966, ambos de Obras Públicas
 
-Santiago, 22 de febrero de 1967.- S.E. decretó hoy lo que sigue:
+Núm. 200.- Santiago, 22 de febrero de 1967.- Vistos: La facultad que me confieren los artículos 5°, letra g) y 12° de la ley 15.840, lo dispuesto en los artículos 16°. 17°, 19° y 20° de la ley 16.582,
 
-Núm. 200.- Vistos: La facultad que me confieren los artículos 5.o, letra g) y 42° de la N.o 15.840, lo dispuesto en los artículos 16.o, 17.o, 19.o y 20.o de la ley N.o 16.582,
+DECRETO:
 
-Decreto:
-
-Derógase los decretos N.o 299, de 12 de marzo de 1965 y N.o 1.137, de 5 de noviembre de 1966, y apruébase el siguiente Reglamento de Delegación de Funciones y Atribuciones de la Dirección General de Obras Públicas y de sus Servicios dependientes:
-
-> **Nota.** El Decreto 1240, Obras Públicas, publicado el 10.12.1976, complementa la presente norma, en el sentido de que el Director General de Obras Públicas podrá delegar en los Directores, Subdirectores, Jefes de Departamentos y Delegados Zonales, además, de las funciones, atribuciones y obligaciones que en él se expresan, la facultad regulada en el artículo 11, letra m) de la Ley 15840, la supervigilancia y reglamentación en cada caso de la extracción de materiales áridos y la fijación de deslindes de los cauces naturales con los particulares ribereños.
+Derógase los decretos 299, de 12 de marzo de 1965 y 1.137, de 5 de noviembre de 1966, y apruébase el siguiente Reglamento de Delegación de Funciones y Atribuciones de la Dirección General de Obras Públicas y de sus Servicios dependientes:
 
 ## Título I
 
@@ -24,7 +20,7 @@ b) Ordenar la instrucción de investigaciones sumarias o sumarios administrativo
 
 c) Destinar, comisionar y encargar cometidos al personal dentro de la Dirección General de Obras Públicas;
 
-d) Contratar estudios, proyectos y ejecución de obras y resolver las modificaciones, liquidaciones y cancelaciones de los mismos conforme a las disposiciones legales y reglamentarias pertinentes y designar Comisiones receptoras de obras conforme al Reglamento para contratos de Obras Públicas.
+d) Contratar estudios, proyectos y ejecución de obras y resolver las modificaciones, liquidaciones y cancelaciones de los mismos conforme a las disposiciones legales y reglamentarias pertinentes.
 
 e) Ejecutar obras por administración directa o por administración delegada o trato directo o cotización privada en conformidad a las disposiciones legales y reglamentarias pertinentes;
 
@@ -86,7 +82,7 @@ c) Destinar, comisionar y encargar cometidos al personal dentro de sus respectiv
 
 d) Cumplir y hacer cumplir los Planes Anuales de Estudios y proyectos y de Ejecución de Obras;
 
-e) Contratar los estudios, proyección y ejecución de obras y resolver las modificaciones, liquidaciones y cancelaciones de los mismos, de acuerdo con el Reglamento y designar Comisiones receptoras de obras conforme al Reglamento para contratos de Obras Publicas;
+e) Contratar los estudios, proyección y ejecución de obras y resolver las modificaciones, liquidaciones y cancelaciones de los mismos, de acuerdo con el Reglamento;
 
 f) Ejecutar obras por administración directa o por administración delegada o trato directo en conformidad al reglamento;
 
@@ -128,23 +124,9 @@ b) Destinar, comisionar y encargar cometidos al personal dentro de sus respectiv
 
 c) Adquirir, en moneda nacional, conforme al reglamento respectivo, los bienes muebles necesarios para el Servicio, debiendo hacerlo por intermedio de la Dirección General de Aprovisionamiento del Estado, cuando se trate de adquisiciones de útiles y mobiliario de oficina que figuren en los cuadros de distribución de dicha Institución;
 
-d) Velar por el buen uso y conservación de los bienes a cargo de sus Servicios;
+d) Velar por el buen uso y conservación de los bienes a cargo de sus Servicios; y
 
-e) Proporcionar a la Dirección General de Obras Públicas y a la Dirección de Planeamiento y Urbanismo, en su caso, los antecedentes relacionados con el personal y con las actividades del Servicio en la forma en que le sean solicitados;
-
-f) Fiscalizar el cumplimiento de las disposiciones legales y reglamentarias;
-
-g) Sustanciar las investigaciones sumarias y sumarios administrativos que le encomienden las autoridades a que se refiere el artículo 22, letra b) de la ley Nº 15.840;
-
-h) Tramitar las expropiaciones y adquisiciones de inmuebles de acuerdo al artículo 60 de la ley Nº 15.840, en la forma en que fue reemplazado por el decreto ley Nº 688, de 1974;
-
-i) Asesorar, informar y pronunciarse sobre los asuntos legales que le encomienden las autoridades a que se refiere la letra g);
-
-j) Proporcionar los antecedentes y colaborar con el Consejo de Defensa del Estado en los juicios relacionados con el Ministerio y sus servicios dependientes;
-
-k) Redactar los contratos, escrituras públicas y demás documentos legales en que intervengan el Ministerio o sus Servicios dependientes, y
-
-l) Llevar el Registro para Contratos de Obras Públicas.
+e) Proporcionar a la Dirección General de Obras Públicas y a la Dirección de Planeamiento y Urbanismo, en su caso, los antecedentes relacionados con el personal y con las actividades del Servicio en la forma en que le sean solicitados.
 
 ## Título IV
 
