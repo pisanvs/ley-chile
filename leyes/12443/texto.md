@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Melipilla para contratar uno o más préstamos hasta por la cantidad de $ 27.000.000, con el fin de destinarlos a diversas obras de adelanto local; para su servicio establece una contribución adicional de un uno y medio por mil anual sobre el avalúo de los bienes raíces de la comuna.
