@@ -1,0 +1,3 @@
+Por decreto MOP N°750, de 29 de febrero del 2000, se expropió el lote de terreno N°72, superficie 449 m2, rol de avalúo 136-266, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietaria Nery Alicia Curti Leite, ascendente a la cantidad de $3.618.675.-
+
+Fiscal del Ministerio de Obras Públicas.
