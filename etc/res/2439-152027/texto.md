@@ -1,0 +1,9 @@
+Por resolución Nº 2.439 de 21 de diciembre de 1999, de esta Subsecretaría, autorízase a PROMAR PACIFICO LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia de la pesca de investigación de los recursos Erizo rojo y Pulpo para el área de manejo de Caramucho, I Región, elaborados por Promar Pacífico Limitada y aprobados por esta Subsecretaría.
+
+El objetivo principal de la pesca de investigación consiste en determinar parámetros poblacionales de los recursos Erizo y Pulpo ajustados a la realidad de la zona de estudio (estructura de tallas, relación talla/peso, distribución de sexos), para estimar la fracción explotable. En cumplimiento del objetivo la peticionaria podrá extraer un máximo de 800 ejemplares del recurso Erizo rojo y 500 ejemplares del recurso Pulpo, sin restricción de tamaño, exceptuándose en el caso de estos últimos, las hembras que se encuentren en estado de anidamiento durante el período autorizado. Una vez efectuados los análisis correspondientes, se podrá disponer de las capturas por parte de la organización artesanal a cargo del área de manejo de Caramucho.
+
+La extracción de los ejemplares se realizará mediante buceo semiautónomo y apnea, utilizando embarcaciones artesanales, en el área de manejo denominada Caramucho, I Región y se extenderdá por el plazo de 4 semanas contado desde la fecha de la resolución.
+
+Promar Pacífico Limitada designa como persona responsable a su representante legal, don Cristián Ricardo Hudson Martignani.
+
+Valparaíso, 21 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
