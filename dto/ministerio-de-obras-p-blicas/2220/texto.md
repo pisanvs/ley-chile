@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.220, de 30 de octubre de 1998, se expropió el lote de terreno Nº17, superficie 806,7 m2., rol de avalúo 118-269, comuna de Quilicura, para la obra Camino Santiago - Colina - Los Andes, Sector A. A. Vespucio - By Pass Colina y se acordó el valor de indemnización con sus propietarios Alfonso Lecaros Lira y Otra, ascendente a la cantidad de $24.007.744.-
+
+Fiscal del Ministerio de Obras Públicas.
