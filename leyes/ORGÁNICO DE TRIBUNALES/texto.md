@@ -380,11 +380,13 @@ c) De los actos judiciales no contenciosos, cualquiera sea su cuantía, salvo lo
 
 d) De las causas por crimen o simple delito, salvo de aquellas cuyo conocimiento corresponde a los Juzgados de Policía Local para el juzgamiento de los delitos de vagancia y mendicidad que se cometan fuera de los límites urbanos de la ciudad en que tenga su asiento el tribunal;
 
-e) De las causas por faltas sancionadas en los artículos 494, N° 19, y 495, N°s 21 y 22, del Código Penal, que se cometan en la ciudad donde tenga su asiento el tribunal.
+e) De las causas por faltas del Código Penal, que se cometan en la ciudad donde tenga su asiento el tribunal, siempre que no haya en ella juez de Policía Local que sea abogado.
 
-Sin embargo los Jueces de Letras del Crimen de Mayor Cuantía de Santiago, conocerán de las faltas sancionadas en el Libro III del Código Penal, que se cometan dentro de las comunas de Quinta Normal, Santiago, Ñuñoa, Providencia, Las Condes y La Reina. Asimismo, los Jueces de Letras de Mayor Cuantía en lo Criminal del departamento Presidente Aguirre Cerda conocerán de estas mismas faltas que se cometan en su territorio jurisdiccional; y los Juzgados del Crimen de Mayor Cuantía de Valparaíso y Concepción, de las faltas que se cometan dentro del límite urbano de dichas ciudades;
+Sin embargo, los jueces del crimen de Santiago, conocerán de las faltas sancionadas en los artículos 494, N°s. 5, 7, 12, 16, 19, 20 y 21; 495, Nos. 3, 15, 21 y 22; 496, Nos. 1, 8, 18, 31 y 33; y 497 del Código Penal, que se cometan dentro de las comunas de Santiago, Quinta Normal, Ñuñoa, Providencia, Las Condes y La Reina.
 
-f) De las infracciones a la Ley de Alcoholes que trata el Libro II de dicha ley, con excepción de las contempladas en los artículos 113 y 117, que se cometan fuera de la ciudad asiento del tribunal, y
+f) De las infracciones a la Ley de Alcoholes que trata el Libro II de dicha ley, con excepción de las contempladas en los artículos 113 y 117, que se cometan fuera de la comuna asiento del tribunal,
+
+No obstante, las infracciones mencionadas en el inciso anterior que se cometan dentro del territorio jurisdiccional de los Juzgados del Crimen de Santiago, y del Departamento Presidente Aguirre Cerda, serán juzgadas por el respectivo tribunal.
 
 g) De las causas civiles y de comercio cuya cuantía sea inferior a las señaladas en las letras a) y b), del N° 1 de este artículo, en que sean parte o tengan interés los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, el General Director de Carabineros, los Ministros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales de estos tribunales, los jueces letrados, los párrocos y vicepárrocos, los cónsules generales, cónsules o vicecónsules de las naciones extranjeras reconocidas por el Presidente de la República, las corporaciones y fundaciones de derecho público o los establecimientos públicos de beneficencia.
 
@@ -2274,9 +2276,11 @@ Para jueces letrados de la categoría quinta, con el secretario más antiguo de 
 
 Para proveer el cargo de relator, la respectiva Corte propondrá al funcionario que, perteneciendo a la misma categoría del cargo que se trata de proveer o a la categoría inmediatamente inferior, considere más idóneo para desempeñarlo, sin que sea necesario abrir concurso ni recibir exámenes, salvo que el tribunal así lo acuerde.
 
-No obstante, podrán ser propuestos como Relatores de Cortes de Apelaciones, previo concurso, los funcionarios pertenecientes al escalafón, primario del Poder Judicial o abogados, que cumplan con las condiciones señaladas por el artículo 463.o. Sin embargo, si las personas propuestas fuesen abogados, figurarán durante los tres primeros años de su desempeño en la quinta categoría; en los dos años siguientes figurarán en la cuarta, para ingresar a la tercera cumplidos los cinco años. Durante los lapsos indicados, tendrán como remuneración la que corresponda a la categoría respectiva. Aquellos funcionarios del Escalafón Primario que sean designados Relatores, sin tener los tres o dos años de servicios en las categorías mencionadas, permanecerán en dichas categorías hasta completar el lapso señalado.
+No obstante, podrán ser propuestos como relatores de Cortes de Apelaciones los funcionarios pertenecientes al Escalafón Primario o los abogados que cumplan con los requisitos señalados en el artículo 463. Si las personas propuestas fueren abogados, figurarán durante los tres primeros años de su desempeño en la quinta categoría de ese Escalafón; en los dos años siguientes en la cuarta e ingresarán a la tercera una vez completados cinco años. Los funcionarios del Escalafón Primario que sean designados relatores sin tener tres o dos años de servicio en las mencionadas categorías, permanecerán en ellas hasta completar cada uno de esos lapsos, e ingresarán a la tercera una vez cumplidos estos requisitos.
 
-En los casos del inciso anterior, el Tribunal podrá recibir examen si así lo acuerda.
+Los funcionarios y abogados mencionados en el inciso precedente percibirán durante los lapsos señalados las remuneraciones asignadas en la Escala Unica de Sueldos del Poder Judicial al cargo de relator.
+
+En los casos del inciso segundo, el tribunal podrá abrir concursos y recibir examen, si así lo acordare.
 
 #### Artículo 286
 
@@ -2290,7 +2294,7 @@ Para defensores públicos de departamento: con tres funcionarios de la séptima 
 
 Para secretarios de las categorías segunda y tercera: con el secretario más antiguo de la categoría inferior, y con dos funcionarios de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos por mérito; y
 
-Para secretarios de las categorías quinta, sexta y séptima: con los funcionarios de ellas mismas o con abogados, y sólo a falta de éstos, con otros oponentes idóneos.
+Para secretarios de las categorías quinta, sexta y séptima: con los funcionarios de ellas mismas o con abogados.
 
 El nombramiento del prosecretario de la Corte Suprema se hará a propuesta de este tribunal y sólo podrá recaer en persona con título de abogado.
 
@@ -2304,13 +2308,17 @@ Todas las menciones que en las leyes se hagan al oficial primero de la Secretar�
 
 El secretario abogado del Fiscal de la Corte Suprema será designado a propuesta unipersonal de dicho Fiscal.
 
+> **Nota.** El Art. 1° del Decreto ley 3583, Justicia, publicado el 29.01.1981, dispone eliminar la frase "y sólo a falta de éstos, con otros oponentes idóneos" del inciso final del presente artículo. Sin embargo, dado que el Decreto Ley 3058 agregó nuevos incisos, el primitivo inciso final ha pasado a ser el sexto, en cuyo texto, atendido su contenido, se ha efectuado la referida modificación.
+
 #### Artículo 287
 
 La terna para el nombramiento de notarios, Conservadores y Archiveros de las tres primeras categorías se formará con el funcionario más antiguo de la misma serie de la categoría inmediatamente inferior que se oponga al concurso y con dos funcionarios de esa categoría o de la misma categoría del cargo que se trata de proveer, también de la misma serie.
 
 Podrán figurar funcionarios de la misma serie de la categoría subsiguiente, siempre que tengan más de 10 años de antigüedad en el grado.
 
-A falta de opositores que reúnan los requisitos que preceden, la terna se formará con otros funcionarios de la misma serie y categorías inmediatamente inferior y subsiguientes señaladas; en su defecto, con abogados, y, a falta de éstos, con personas idóneas.
+A falta de opositores que reúnan los requisitos que preceden, la terna se formará con otros funcionarios de la misma serie y categorías inmediatamente inferior y subsiguientes señaladas; en su defecto, con abogados.
+
+No podrán ser incluidos en ternas o propuestas para cargos de notarios o conservadores de bienes raíces, de ninguna categoría, los miembros y fiscales de las Cortes de Apelaciones a cuya jurisdicción pertenezcan los cargos que se trata de proveer.
 
 La terna para el nombramiento de asistente social judicial de las tres primeras categorías se formará del mismo modo que el señalado en el inciso primero. A falta de opositores al concurso para proveer el cargo de asistente social judicial de las dos primeras categorías que reúnan tales requisitos, la terna se formará con funcionarios de la misma serie de la categoría subsiguiente, o, en su defecto, con asistentes sociales ajenos al Servicio. En el caso que al concurso para proveer el cargo de asistente social judicial de tercera categoría no se presentaren funcionarios con las calidades indicadas en el inciso primero, la terna se formará con asistentes sociales ajenos al Servicio.
 
@@ -2320,15 +2328,7 @@ Para oponerse al cargo de asistente social judicial se requiere estar en posesi�
 
 #### Artículo 288
 
-Las ternas para proveer el cargo de notario de la cuarta categoría, se formarán de la siguiente forma:
-
-- **a)** en uno de los lugares figurará un notario de la misma categoría;
-
-- **b)** en el otro, un funcionario de las siete primeras categorías del escalafón primario, y
-
-- **c)** en el otro, un funcionario de las cuatro primeras categorías del escalafón secundario, o abogados. En el caso que al concurso respectivo no se presentaren funcionarios con las calidades indicadas en los acápites a),
-
-- **b)** y primera parte del c), la terna se formará con abogados y, a falta de éstos, con personas idóneas que no posean tal título.
+Las ternas para proveer el cargo de notario o conservador de bienes raíces de la cuarta categoría, se formarán con el notario o conservador más antiguo de la misma categoría que se oponga al concurso, con un funcionario de las siete categorías del Escalafón Primario, y con un funcionario de las tres primeras series del Escalafón Secundario que sea abogado, o con un abogado. En las ternas no podrán figurar personas que no sean abogados.
 
 #### Artículo 289
 
@@ -2396,13 +2396,21 @@ Las ternas para el nombramiento de empleados de la Quinta Categoría, se formar�
 
 Para figurar en las ternas que se formen para proveer en propiedad o internamente, los cargos a que se refieren los incisos anteriores, será necesario poseer los requisitos exigidos por el párrafo 2.o del Título 1.o del decreto con fuerza de ley N.o 338, de 6 de Abril de 1960, sobre Estatuto Administrativo, entendiéndose que los cargos de categorías son los de Primera a Quinta Categorías, inclusive, del Escalafón del Personal Subalterno.
 
-En las ternas para nombramiento de suplente de esos mismos empleos, sólo se exigirá el requisito contemplado en el artículo 13.o del citado cuerpo legal.
+En las ternas y propuestas para el nombramiento de suplentes de esos mismos empleos, sólo se exigirá el requisito contemplado en el artículo 13 del citado cuerpo legal. Tratándose de suplencias que no excedan de un mes, el nombramiento se efectuará a propuesta unipersonal de la Corte de Apelaciones o del juez letrado respectivo, la que se enviará de inmediato al Ministerio de Justicia o al Secretario Regional Ministerial de Justicia, si le correspondiere el nombramiento. Si el tribunal estuviere ubicado fuera del departamento en que funciona el Ministerio o la Secretaría Regional respectiva, la propuesta se enviará por telégrafo.
 
 Dentro de la 6a. Categoría, los cargos también se proveerán mediante ternas que se formarán previo concurso, en el cual deberá acreditarse el cumplimento de los requisitos de ingresos señalados anteriormente, según sea la calidad en el que se provea el empleo, a excepción del relativo a estudios.
 
 El tribunal respectivo deberá formar las ternas preferentemente, con empleados de la misma categoría que se opongan, y que desempeñen sus cargos dentro de la jurisdicción de la misma Corte de Apelaciones.
 
 Sin embargo, el nombramiento de empleados de Secretaría de la Corte Suprema, de la Oficina del Presupuesto y de la Biblioteca de esa Corte, se efectuará a propuesta unipersonal del Tribunal, pudiendo éste proponer a las personas que estime más idóneas para los cargos respectivos. Los Oficiales de Sala de la Corte Suprema, de la Oficina del Presupuesto y de la Biblioteca y los oficiales de aseo y ascensoristas serán nombrados a propuesta unipersonal del Presidente de la Corte Suprema; lo mismo regirá para el nombramiento de chofer de la Presidencia de dicha Corte.
+
+Los concursos a que se refiere este artículo se abrirán por un plazo no inferior a diez días, debiendo los jueces comunicar su apertura a la Corte de Apelaciones respectiva.
+
+El secretario del juzgado deberá fijar en lugar visible al público un cartel en que se anuncie el concurso, el cual deberá permanecer en dicho lugar hasta su vencimiento, circunstancia que certificará el secretario en el mismo cartel.
+
+Sea que el nombramiento se haga en calidad de titular, interino o suplente, el funcionario designado no podrá desempeñar el cargo mientras no se le transcriba el decreto respectivo totalmente tramitado, salvo que en este último se disponga que asumirá de inmediato sus funciones.
+
+No obstante, en los casos de suplencias que no excedan de un mes, el funcionario propuesto asumirá de inmediato sus funciones, sin perjuicio de la posterior tramitación del decreto que lo nombra.
 
 #### Artículo 295
 
@@ -3600,9 +3608,7 @@ No pueden ser notarios:
 
 Para ser secretario de un juzgado de letras de mayor cuantía, archivero y conservador se requiere ser abogado.
 
-Sin embargo, cuando a una oposición para proveer el cargo de secretario no se presentare ningún abogado, podrá ser nombrado cualquier individuo que tenga las cualidades necesarias para poder ejercer el derecho de sufragio en las elecciones populares y que acreditare poseer aptitud para desempeñar el cargo.
-
-Le será aplicable también al personal subalterno de la Judicatura del Trabajo lo dispuesto en el inciso precedente, entendiéndose que reúne los requisitos el empleado que hubiere cumplido diez años, a lo menos en el respectivo escalafón.
+Incisos derogados.
 
 #### Artículo 467
 
@@ -3925,6 +3931,16 @@ Esta Junta llevará una cuenta en conformidad a lo establecido en el artículo 5
 La Junta de Servicios Judiciales estará exenta de toda clase de derechos, contribuciones e impuestos fiscales, con excepción de los de compraventa y cifra de negocios, sea que recaiga en sus bienes, en los actos o contratos que ejecute o celebre o que en cualquiera forma pudieren afectarla. Esta exención no favorecerá a los terceros que contraten con Junta.
 
 Los bienes muebles e inmuebles adquiridos por la Junta, serán de dominio fiscal y estos últimos se inscribirán a nombre del Fisco. Los primeros deberán figurar en los inventarios del Estado y no se regirán con respecto a la adquisición de los segundos las limitaciones relativas o precio, establecidas en el artículo 7.o de ley número 4.174, modificado por el artículo 99.o de la ley N.o 8.283, ni las demás que las leyes prescriban para adquisición de bienes raíces por el Fisco.
+
+La Junta de Servicios Judiciales podrá vender en pública subasta y con arreglo a las bases que determine, las especies muebles que haya excluido de los inventarios de los tribunales de justicia.
+
+El producto que se obtenga de estas enajenaciones incrementará los fondos de la Junta.
+
+También podrá, previa autorización del Presidente de la República, vender o permutar los bienes raíces adquiridos por ella, debiendo destinar el producto de la venta o permuta a la adquisición o construcción de otro inmueble para el funcionamiento de los tribunales o para casa habitación de los funcionarios judiciales.
+
+Los bienes muebles deteriorados que, a juicio de la Junta no admitieren reparación, por ser ésta antieconómica, de lo que se dejará expresa constancia en el acta del respectivo acuerdo, podrán ser donados al Departamento de Bienestar del Personal del Poder Judicial, a instituciones del Estado, entidades gremiales, juntas de vecinos, centros de madres y cualesquiera otras entidades similares, que no persigan fines de lucro, o vendidas directamente a terceras personas, incrementando el producto sus fondos.
+
+Si esas especies estuvieren destruidas o fueren inservibles, la Junta se deshará de ellas ordenando su entrega a los servicios de aseo municipal.
 
 #### Artículo 507
 
@@ -4266,7 +4282,7 @@ Los recursos de queja se verán por las Cortes de Apelaciones fuera de las horas
 
 Todo recurso de queja deberá interponerse en el plazo fatal de cinco días. Este plazo se suspenderá durante los días feriados y se aumentará en la forma indicada en el artículo 259 del Código de Procedimiento Civil, cuando el Tribunal que haya pronunciado la resolución recurrida resida en un departamento diverso de aquel en que funciona el que haya de conocer en el recurso.
 
-Para interponer un recurso de queja, el recurrente deberá consignar previamente en arcas fiscales una cantidad equivalente al 1% de la cuantía del negocio, con un máximo de un sueldo vital mensual, escala A) del departamento de Santiago.
+Para interponer un recurso de queja, el recurrente deberá consignar previamente en la cuenta corriente del tribunal que conocerá del mismo una cantidad equivalente al 1% de la cuantía del negocio, con un máximo de un sueldo vital mensual, escala A) del departamento de Santiago.
 
 Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a medio sueldo vital, si el recurso se interpone ante la Corte Suprema o ante una Corte de Apelaciones, o a la cuarta parte de dicho sueldo si se interpone ante un Juez de Letras.
 
@@ -4290,7 +4306,11 @@ Conocerá de la apelación el tribunal a quien corresponda el conocimiento del r
 
 El tribunal superior resolverá la apelación de plano, sin otra formalidad que esperar la comparecencia del recurrente y si se trata de un tribunal colegiado, en cuenta, salvo que estime conveniente traer los autos en relación.
 
-De las resoluciones que en el ejercicio de sus facultades económicas pronuncien los tribunales indicados en el inciso primero de este artículo, sólo podrá reclamarse ante el superior jerárquico. Esta reclamación deberá interponerse dentro del tercer día de pronunciada la resolución, y se resolverá de plano, y si se trata de un tribunal colegiado, en la forma prescrita en el inciso precedente.
+De las resoluciones que en el ejercicio de sus facultades económicas pronuncien los tribunales indicados en el inciso primero de este artículo, sólo podrá reclamarse para ante el superior jerárquico. La reclamación deberá interponerse dentro del plazo de tres días, ante el tribunal que haya dictado la resolución. Este la elevará, con todos sus antecedentes, dentro de las 48 horas siguientes a su presentación.
+
+El superior jerárquico deberá resolverla de plano, y si fuere un tribunal colegiado, en cuenta.
+
+Si la reclamación versa sobre la formación de una terna y el tribunal superior la desechare, éste, junto con devolver los antecedentes al inferior, remitirá la terna al Ministerio de Justicia.
 
 #### Artículo 552
 
