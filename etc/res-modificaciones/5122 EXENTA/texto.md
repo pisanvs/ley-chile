@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION No. EX. 3.024, DE 1992, SOBRE DELEGACION DE FACULTADES
+
+Por resolución No. Ex. 5.122 de 18 de Agosto de 1992, el suscrito ha modificado la Resolución No. Ex. 3.024, de 06 de Mayo de 1992, sobre delegación de facultades, en los funcionarios que se señalan por su referencia númerica y que corresponden a los descritos en la Resolución No. Ex. 968 de 11.03.92 y su modificación mediante Resolución No. Ex. 2.410 de 26.06.92 ambos en la Dirección Nacional publicada en el DO el día 16.03.92 y 04.07.92, respectivamente. La modificación señalada dice relación con materias referentes a la Ley 17.235, sobre Impuesto Territorial en el sentido de ampliar las funciones que se puedan delegar y los funcionarios que pueden ejercerlas.
+
+Concepción, Agosto de 1992.- Eduardo Escare Castillo, Director Regional.
