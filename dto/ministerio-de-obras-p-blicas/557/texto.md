@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°557, de 30 de junio de 1997, se expropió el lote de terreno N°95, superficie 27.987 m2. rol de avalúo 149-24, comuna de Pemuco, para la obra Proyecto Laja Duguillín, Faja de Expropiación Canal Matriz, Sector Trilaleo Pemuco y se acordó precio de indemnización con su propietaria Gelma Delfa Herrera Stuardo, ascendente a la cantidad de $10.696.888.
+
+Fiscal del Ministerio de Obras Públicas.
