@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.808, de 31 de octubre del 2001, se expropió el lote de terreno Nº21, superficieS 5.274 m2., rol de avalúo 1100-48, comuna de Cartagena, para la obra Red Vial Litoral Central Sector 1: Nuevo Camino Costero. Subtramo Cartagena-Las Cruces Kms. -0.100,00 al 1.100,00, Quinta Región y se acordó el valor de indemnización con su propietario Roberto Grass Kurte, ascendente a la cantidad de $27.840.384.
+
+- Fiscal del Ministerio de Obras Públicas.
