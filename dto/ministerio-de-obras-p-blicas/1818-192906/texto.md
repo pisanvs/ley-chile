@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.818, de 31 de octubre del 2001, se expropió el lote de terreno Nº 16, superficie 2.413 m², rol de avalúo en trámite, comuna de Casablanca, para la obra Red Vial Litoral Central. Sector 3: eje Costero Interior. Subtramo: Rosario - Orrego Abajo Km. 16.840,00 al Km. 20.673,30 V Región y se acordó el valor de indemnización con su propietario Diego Ignacio Abalos Romero, ascendente a la cantidad de $7.178.396.-
+
+Fiscal del Ministerio de Obras Públicas.
