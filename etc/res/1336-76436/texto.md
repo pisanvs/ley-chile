@@ -1,0 +1,3 @@
+Por Resolución Nº 1.336, de 14 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase el recurso de reconsideración interpuesto por SOCIEDAD PESQUERA DOÑA YOLANDA Y COMPAÑIA LIMITADA, respecto de la Resolución Nº 800, letra m), de 1995, que declaró la caducidad de la Resolución Nº 1.353, de 1990, ambas de esta Subsecretaría, en virtud de lo dispuesto en el informe técnico y disposiciones legales.
+
+Valparaíso, 14 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
