@@ -1,0 +1,5 @@
+DISPONE INCLUSION DE PERSONA QUE SEÑALA EN NOMINA DE POSTULANTES SELECCIONADOS PARA EL GOCE DEL SUBSIDIO HABITACIONAL
+
+Resolución exenta Nº 3.258, de fecha 17 de Septiembre de 1992, dispone inclusión de don Luis Mario Valenzuela Riquelme, en las nóminas de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al llamado a postulación para la adquisición o construcción de viviendas emplazadas en zonas de renovación urbana del Sistema General Unificado de Subsidio Habitacional. Como consecuencia de ello queda en 56 el número de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al llamado a postulación para la adquisición o construcción de viviendas emplazadas en zonas de renovación urbana (llamado 1991) del Sistema General Unificado de Subsidio Habitacional y en 8.370 Unidades de Fomento (UF), el monto de los recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados, luego de descontar la renuncia a que se refiere la misma resolución.-
+
+Joan Mac Donald M., Subsecretaria de Vivienda y Urbanismo.
