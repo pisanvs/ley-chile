@@ -1,0 +1,5 @@
+Por Resolución Nº06, de 8 de Enero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SALMONES DEL NAVEGANTE S.A., R.U.T. Nº96.534.870-0. domiciliada en Santiago, para amplias actividades pesqueras de cultivo, autorizadas por Resolución Nº1.299, de 1988, de esta Subsecretaría, en orden a incorporar, en el establecimiento de cultivo autorizado por la Resolución citada anteriormente, ubicado frente a Isla Chelín, al Este de Punta Quirahuín, Comuna de Castro, Provincia de Chiloé, X Región, los recursos Trucha arcoiris y Salmón rey.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que establezcan.
+
+Valparaíso, 8 de Enero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
