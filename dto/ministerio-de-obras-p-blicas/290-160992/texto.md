@@ -1,0 +1,3 @@
+Por decreto MOP Nº 290, de 31 de enero de 2000, se expropió el lote de terreno Nº123, superficie 908 m2., rol de avalúo 952-17, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector B: Región Metropolitana y se acordó el valor de indemnización con su propietario Lindorfo Armando Salas Parraguez, ascendente a la cantidad de $6.174.957.
+
+Fiscal del Ministerio de Obras Públicas.
