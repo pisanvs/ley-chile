@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.082, de 31 de agosto de 2000, se expropió el lote de terreno Nº651, superficie 300 m2., rol de avalúo 658-193, comuna de Buin, para la obra Concesión Internacional Ruta 5, Tramo: Santiago-Talca. Sector C: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Manuel Enrique Lara Bolbarán, ascendente a la cantidad de $1.571.792.
+
+Fiscal del Ministerio de Obras Públicas.
