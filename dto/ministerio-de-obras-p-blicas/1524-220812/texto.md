@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 1.524 de 28 de noviembre de 2003, se dejó sin efecto los numerales 3º , 4º , 5º y 6º , del decreto M.O.P. Nº 119 de 28 de marzo de 2003, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 376, consígnese judicialmente el monto de la indemnización provisional fijada por la Comisión de Peritos con fecha 28 de marzo 2001 en la cantidad de $681.000.-. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
