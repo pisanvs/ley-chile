@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.377, de 14 de septiembre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº8, obra: Estudio complementario concesión circunvalación Américo Vespucio, sector Intersección El Salto-A. Vespucio, que figura a nombre de Soc. Inmobiliaria El Salto S.A., rol de avalúo 3110-220, comuna de Huechuraba, superficie 433 m2. La Comisión de Peritos fijó con fecha 19 de julio de 2001, en la cantidad de $38.464.000 y la indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
