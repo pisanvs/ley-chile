@@ -1,0 +1,5 @@
+AUTORIZA A DON ERNESTO GONZALEZ PEREA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 341, del 17 de Junio de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Ernesto González Perea, cédula de identidad No. 2.620.069-5 de Tocopilla, domiciliado en calle 21 de Mayo No. 1857, Tocopilla, para utilizar como materia prima en la planta de seco-salado ubicada en Caleta Vieja, además de los recursos autorizados por el Decreto de Agricultura 653, de 1964, los siguientes: anchoa, azulejo, bonito, caballa, cabrilla común, cachurreta, cojinova del Norte, congrio colorado, congrio negro, corvina, dorado, jurel, lenguado de ojos chicos, lisa, maco, pepino de mar, vieja colorada, palometa, pejeperro, pejerrey de mar, peje-zorro, sardina española, almeja o taca, caracol locate, cholga, loco, pulpo y piure.
+
+Santiago, 17 de Junio de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
