@@ -1,0 +1,3 @@
+Por Resolución No. 420, de 8 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, inmueble ubicado en calle Eyzaguirre No. 1367, casa 16, presunto rol avalúos 646-33, comuna Santiago, aparentemente dominio de don Juan Vallejos Corrales. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos, y Walter Soto Silva, ingeniero civil, según informe de 24 de noviembre de 1988, fijó monto provisional indemnización en $ 1.219.410.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
