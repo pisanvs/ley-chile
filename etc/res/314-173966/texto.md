@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA DALCAHUE S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA
+
+Por resolución Nº 314, de 3 de Abril de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Conservera Dalcahue S.A., domiciliada en la ciudad de Castro, para continuar con el desarrollo de las actividades pesqueras autorizadas a Pedro Baltazar Teijeiro y Cía. Ltda., por resolución Nº 118, de 1981, de la misma Subsecretaría, la que se deroga, y que consiste en la operación de una planta de conservas ubicada en Dalcahue, en la que podrá utilizar como materia prima: almejas, navajuela, chorito, pulpo, calamar, cholga, loco, picoroco, centolla, jaiba, cangrejo, lapa, caracol, sierra, sardina, congrio, merluza, macha y salmón, este último adquirido sólo en establecimientos de cultivo autorizados. La interesada deberá efectuar el transporte de las especies señaladas desde su centro de abastecimiento hasta la planta elaboradora en medios dotados de sistemas adecuados de preservación de la materia prima.
+
+Valparaíso, 3 de Abril de 1986.- Roberto Verdugo Gormaz, Subsecretaría de Pesca.
