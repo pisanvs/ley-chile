@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.456, de 31 de mayo de 1999, se expropió el lote de terreno Nº 85-6, superficie 30 m2., rol de avalúo 848-23, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5 Tramo Chillán - Collipulli Sector 1'', Octava Región y se acordó el valor de indemnización con su propietario Gustavo Adolfo Gacitúa Valenzuela, ascendente a la cantidad de $232.853.-
+
+Fiscal del Ministerio de Obras Públicas.
