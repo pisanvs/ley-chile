@@ -1,0 +1,3 @@
+Mediante resolución Ex. Nº 214, de 10/11/00, el infrascrito designó nuevo subrogante del abogado de la Unidad de Ñuñoa y compiló atribuciones que le corresponden referidas a resoluciones Nºs 6.288, de 27 de octubre de 1998; 4.735, de octubre de 1996; 5.277, de 23 de octubre de 1997; 5.458, de 31 de octubre del mismo año; y 2.958, de 19 de mayo de 1998, de la Dirección Nacional, entre otras; y a resoluciones Nºs 9, de 9 de octubre de 1996; 87, de 27 de mayo; 107, de 30 de junio; y 214, de 23 de noviembre, todas de 1998, de esta Dirección Regional.
+
+Las Condes, 13 de noviembre de 2000.- Bernardo Seaman González, Director Regional.
