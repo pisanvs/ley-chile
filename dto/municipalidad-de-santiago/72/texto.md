@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 72, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas 2425, Rol 333-3 Santiago, aparente dominio María Gacitúa Basulto, superficie aproximada a expropiar 480 m2. Deslindes: Norte, 11,50 mts. resto propiedad; Sur, 13,25 mts. calle Agustinas; Oriente, 38,00 mts otro propietario y Poniente, 38,00 mts. línea quebrada otro propietario. Indemnización provisional $ 7.675.125.- pagadera contado.
+
+Máximo Honorato Alamos. Alcalde Santiago.
