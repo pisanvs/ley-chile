@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.996, de 29 de diciembre de 1999, se expropió el lote de terreno Nº102, superficie 60 m², rol de avalúo 462-1, comuna de San Fernando, para la obra Concesión Internacional Ruta 5, Tramo: Santiago - Talca. Sector H, VI Región y se acordó el valor de indemnización con su propietario Verónica Patricia Sepúlveda Canales, ascendente a la cantidad de $6.434.654.-
+
+Fiscal del Ministerio de Obras Públicas.
