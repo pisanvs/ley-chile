@@ -1,0 +1,3 @@
+Por decreto MOP Nº 541 de fecha 30 de junio de 2004, se expropió el lote de terreno Nº 2, superficie 2.208 m², Rol Nº 1503-2, comuna de Los Angeles, VIII Región, para la obra "Camino Ruta 5-Vialidad complementaria, sector Calle de Servicio Huaquil Oriente, Tramo Km. 497,90000 a Km. 498,80000" y se acordó el valor de indemnización con su propietaria Julia Silvia Carreño Fuentes y otros, ascendente a la cantidad de $8.016.479.- para el lote Nº 2.-
+
+Fiscal del Ministerio de Obras Públicas.
