@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.367 de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 67, superficie 22 m2, rol de Avalúo Nº 1272-46, comuna de Coronel, para la obra "Camino Ruta O-852, Sector Coronel - Patagual, Tramo Km. 0,00000 a Km. 17,91963", VIII Región y se acordó el valor de la indemnización con su propietaria Julia Martínez de la Jara, ascendente a la cantidad de $224.616.-
+
+Fiscal del Ministerio de Obras Públicas.
