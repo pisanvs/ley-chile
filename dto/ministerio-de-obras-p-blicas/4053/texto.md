@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.053 de fecha 31 de agosto del 2000, se expropió el lote de terreno Nº16-C, superficie 117 m², rol de avalúo 2202-22, comuna de Puerto Montt, para la obra ''Camino Ruta 7, Sector Chamiza-Quillaipe, Km. 4,83687 a Km. 15,84700'' y se acordó el valor de indemnización con su propietaria María Doralisa Aros Andrade, ascendente a la cantidad de $489.288.-
+
+Fiscal del Ministerio de Obras Públicas.
