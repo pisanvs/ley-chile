@@ -1,0 +1,3 @@
+Por decreto MOP Nº 138 de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 3, superficie 588 m², rol de avalúo 161-22, comuna de Pemuco, para la obra "Camino Ruta N-85, Sector Cruce Long. (Gral. Cruz) - Pemuco, Km. 0.000.00 a Km. 23.870.37" y se acordó el valor de indemnización con su propietaria Ana Dina Campos Segura, ascendente a la cantidad de $262.170.-
+
+Fiscal del Ministerio de Obras Públicas.
