@@ -1,0 +1,3 @@
+Por decreto MOP Nº730, de 29 de marzo de 1999, se expropió el lote de terreno Nº149, superficie 516 m2, rol de avalúo 206-37, comuna de Cabrero, para la Obra ''Concesión Internacional Ruta 5, Tramo: Chillán-Collipulli'', Octava Región y se acordó el valor de indemnización con su propietario José Hipólito Escobar Lara, ascendente a la cantidad de $1.575.544.-
+
+Fiscal del Ministerio de Obras Públicas.
