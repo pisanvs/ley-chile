@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 697 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 18, superficie 28 m2, rol de avalúo en trámite, comuna de Retiro, para la obra "Camino Ruta L-75-Sector El Ajial-Las Camelias Tramo Km. 6,320.00 a Km. 23,400.00" y se acordó el valor de indemnización con su propietaria Berta del Carmen Lastra Tapia, ascendente a la cantidad de $251.101.-
+
+Fiscal del Ministerio de Obras Públicas.
