@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.248, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs. 1, 16-A y 35-B, superficies 65, 245 y 240 m², respectivamente, roles de avalúo 12-13, 13-12 y 24-34, comuna de Navidad, obra Camino Ruta G-880, sector Rapel Navidad-La Boca y se acordó precio de indemnización con sus propietarios Flor Vargas Rojas, Delicia Ramírez Canales y Ana González Reyes, ascendente a las cantidades de $486.966, $577.206 y $574.152.-
+
+Fiscal del Ministerio de Obras Públicas.
