@@ -1,0 +1,3 @@
+Por Resolución Nº 1.475, de 5 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la solicitud de concesión de acuicultura, solicitud Nº 93110037, presentada por CHILE SUR S.A., para el centro de cultivo ubicado en Canal Puquitín, Isla Guaiteca, Comuna de Guaitecas, Provincia de Aysén, XI Región, conforme lo dispuesto en los artículos 78 y 87, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 5 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
