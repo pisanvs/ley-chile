@@ -1,0 +1,5 @@
+Por decreto MOP Nº501, de 14 de marzo de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº49-3, para la obra:
+
+"Sistema Norte - Sur. Tramo A: Río Maipo - Las Acacias. Sector: Km. 0.000,00 al Km. 14.704, 988"; Región Metropolitana, que figura a nombre de González Núñez Gladys, rol de avalúo 2590-88, comuna de San Bernardo, superficie 344 m2. La comisión de peritos integrada por los señores María Angélica Hurtado Arranz, Carmen Pilar Ríos Marcuello y Jaime Rolando Jurgens Bittner, fijó con fecha 28 de diciembre de 2001, el valor provisional de la indemnización en la cantidad de $10.801.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
