@@ -1,0 +1,77 @@
+INDIVIDUALIZA CARGOS Y FUNCIONARIOS DEL INSTITUTO DE DESARROLLO AGROPECUARIO, PARA EFECTOS QUE INDICA Santiago, 26 de Mayo de 1995.- Hoy se decretó lo que sigue:
+
+Núm. 1.471.- Visto: Lo dispuesto en los incisos primero y segundo del artículo 3° de la Ley N° 19.379 que fija las plantas del personal de los Servicios Administrativos de los Gobiernos Regionales y en el artículo 32 N° 8 de la Constitución Política de la República,
+
+Decreto:
+
+1.- Individualízanse los cargos del Instituto de Desarrollo Agropecuario, indicados en el inciso primero del artículo 3° de la Ley N° 19.379 y los funcionarios que los desempeñan:
+
+Cargo Grado Rut. Funcionario que lo
+
+E.U.R. desempeña
+
+PROFESIONAL 5° 3.367.091-5 FRANCISCO VASQUEZ
+
+RUDOLPH
+
+PROFESIONAL 6° 3.270.819-6 ALEJANDRO LEÑAN
+
+LICANCURA
+
+PROFESIONAL 6° 4.085.218-2 LUIS CARRASCO TORO
+
+PROFESIONAL 6° 3.697.062-6 HUMBERTO VARGAS
+
+ALISTER
+
+PROFESIONAL 6° 3.463.291-K RONALD WALKER
+
+RIESLE
+
+PROFESIONAL 7° 4.208.705-K JORGE GAJARDO
+
+ROJAS
+
+PROFESIONAL 7° 5.062.014-K RODRIGO VENEGAS RITCHIE
+
+PROFESIONAL 7° 6.719.726-7 SISKE RUBEN MONSAIM
+
+SOTO
+
+PROFESIONAL 7° 3.844.776-9 CARLOS ELGUETA
+
+BARRIENTOS
+
+PROFESIONAL 7° 2.386.847-4 EDUARDO NUÑEZ GARCIA
+
+PROFESIONAL 9° 6.637.609-5 ROSARIO CABRERA
+
+GONZALEZ
+
+PROFESIONAL 9° 5.651.160-1 LUIS ANDRADE PEÑAILILLO
+
+PROFESIONAL 9° 3.180.163-K ARTURO JOHNSON LLONA
+
+PROFESIONAL 9° 5.191.450-3 RAFAEL RUBI APARICIO
+
+PROFESIONAL 9° 5.743.371-K MANUEL MILLON LOPEZ
+
+PROFESIONAL 10° 7.648.351-5 VICTOR TRUJILLO CERDA
+
+PROFESIONAL 10° 3.064.599-5 LUIS ANIBAL PEREZ VARGAS
+
+PROFESIONAL 12° 4.845.083-0 FLAVIO MONSALVE SCHWERTER
+
+PROFESIONAL 13° 4.359.039-1 ELIANA SILVA MAGNA
+
+PROFESIONAL 15° 6.293.265-1 JOSEFINA MOYANO
+
+CRISOSTOMO
+
+PROFESIONAL 15° 4.111.522-K MARIA URREA BELTRAN
+
+PROFESIONAL 15° 8.766.819-3 IVAN BELTRAN NORAMBUENA
+
+Tómese razón, refréndese, comuníquese y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Carlos Figueroa Serrano, Ministro del Interior.- Eduardo Aninat Ureta, Ministro de Hacienda.
+
+Lo que transcribo a Ud., para su conocimiento.- Saluda a Ud., Belisario Velasco Baraona, Subsecretario del Interior.
