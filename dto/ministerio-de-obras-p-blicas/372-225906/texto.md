@@ -1,0 +1,5 @@
+Por decreto MOP Nº 372, de 30 de abril de 2004 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s 8, 9 y 10, para la obra: Mejoramiento Ruta 60-CH, sector Villa Dulce-Torquemada, Tramo Km. 0,00000 a Km.
+
+10,47641, que figuran a nombre de Inversiones de Capitales S.A. e Inversiones Austral Limitada, roles de avalúo 4699-5 y 4699-3, comuna de Viña del Mar, V Región, superficies 165 m²., 130 m². y 342 m². La Comisión de Peritos, fijó con fecha 17 de noviembre de 2003, en las cantidades de $2.475.000, para el lote Nº 8, $4.087.300, para el lote Nº 9 y $13.235.000, para el lote Nº 10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
