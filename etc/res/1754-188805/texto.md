@@ -1,0 +1,5 @@
+Por resolución Nº 1.754, de 16 de agosto de 2001, de esta Subsecretaría, modifícase el numeral 8º de la resolución Nº 1.379 de 2001, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Evaluación directa de Langostino colorado y Langostino amarillo entre la II y VIII Regiones, año 2001", en el sentido de agregar el siguiente inciso final:
+
+"Además, se exceptúa a las naves participantes en la presente pesca de investigación, del cumplimiento de las normas relativas a los porcentajes de desembarque por viaje de pesca de las especies Merluza común y Camarón nailon, extraídas en calidad de fauna acompañante, establecidos en los decretos exentos Nº 427 y Nº 437 de 2000, citados en Visto."
+
+Valparaíso, 16 de agosto de 2001.- Daniel Albarrán Ruíz-Clavijo, Subsecretario de Pesca.
