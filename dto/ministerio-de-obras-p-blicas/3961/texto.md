@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.961 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 280-4, superficie 368 m², rol de avalúo 901-2, comuna de Papudo, para la obra ''Camino Ruta 5 Norte Tramo Santiago-Los Vilos Sector Km. 156.320,00 a Km. 157.100,00'' y se acordó el valor de indemnización con su propietario Juan Ramón Tapia Estay, ascendente a la cantidad de $978.811.-
+
+Fiscal del Ministerio de Obras Públicas.
