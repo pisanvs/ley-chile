@@ -1,0 +1,3 @@
+Por decreto MOP Nº 438, de fecha 31 de mayo de 2004, se expropió el lote de terreno Nº 2, superficie 1.170,59 m2, rol Nº 33-00043, comuna de Hijuelas, V Región, para la obra "Pavimentación Camino F-301-E, Sector Calle Conchalí - Fin Zona Urbana, Sector Calle Subida Barón, Km. 0,00000 a Km. 0,38914" y se acordó el valor de indemnización con su propietaria Norma Georgina Bravo Fredes, ascendente a la cantidad de $11.773.780.
+
+Fiscal del Ministerio de Obras Públicas.
