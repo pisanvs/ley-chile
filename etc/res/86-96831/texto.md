@@ -1,0 +1,3 @@
+Por Resolución Nº 86, de 21 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución Nº 160, de 1994, de esta Subsecretaría, que autorizó a PRODALMAR LIMITADA, en el sentido de señalar que la dirección actual de la planta de procesamiento es el kilómetro 15,5, de la Ruta 1, camino de Antofagasta, I Región, con dirección postal en Casilla 111, Correo Antofagasta.
+
+Valparaíso, 21 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
