@@ -1,0 +1,3 @@
+Por resolución Nº371, de 29 de febrero de 2000, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº99082004, presentada por COOPERATIVA DE PESCADORES PELILLEROS ISLA SANTA MARIA LIMITADA, para operar un centro de cultivo ubicado en Rada Puerto Sur, Isla Santa María, comuna de Coronel, provincia de Concepción, VIII Región.
+
+Valparaíso, 29 de febrero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
