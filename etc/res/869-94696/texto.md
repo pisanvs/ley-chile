@@ -1,0 +1,7 @@
+AUTORIZA A DON JUAN ELIGIO LLAIQUEN VERA PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 869, de 24 de Julio de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Juan Eligio Llaiquén Vera, R.U.T. No. 9.417.735-9, domiciliado en Sector Chanhué, Correo Maullín, Maullín, X Región, para iniciar actividades pesqueras, en orden a instalar y operar un establecimiento de cultivo del recurso Alga del género Gracilaria spp., en Río Quenuir, Sector Chanhué, Comuna de Maullín, X Región, en un área de 19.740 m2. Las coordenadas geográficas son las siguientes de acuerdo con el Plano que acompaña a su solicitud signado por el Servicio Nacional de Pesca con el Ordinal No. 1387 y la Carta del Instituto Hidrográfico de la Armada No. 702:
+
+Vértice A Latitud 41° 35' 13,00" S Longitud 73° 39' 52,80" W Vértice B Latitud 41° 35' 11 00" S Longitud 73° 39' 17,73" W Vértice C Latitud 41° 35' 17,40" S Longitud 73° 39' 45,33" W Vértice D Latitud 41° 35' 18,00" S Longitud 73° 39' 47,47" W El alga será adquirida de centros de cultivo autorizados. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 24 de Julio de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
