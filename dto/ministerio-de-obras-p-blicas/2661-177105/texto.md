@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.661, de 30 de junio de 2000, se expropió el lote de terreno Nº10, superficie 98 m2., rol de avalúo 300-21, comuna de Malloa, para la obra Concesión Internacional Ruta 5. Tramo Santiago - Talca. Sector G, Sexta Región y se acordó el valor de indemnización con su propietario Wilson del Tránsito Reyes Peña, ascendente a la cantidad de $759.038.-
+
+Fiscal del Ministerio de Obras Públicas.
