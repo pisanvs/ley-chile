@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.256, de 31 de marzo del 2000, se expropió el lote de terreno Nº495, superficie 128 m2., rol de avalúo 1463-13, comuna de Puente Alto, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana, y se acordó el valor de indemnización con su propietaria Inmobiliaria y Constructora Torrelavega Limitada, ascendente a la cantidad de $15.888.243.-
+
+Fiscal del Ministerio de Obras Públicas.
