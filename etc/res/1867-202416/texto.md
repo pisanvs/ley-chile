@@ -1,0 +1,3 @@
+Por resolución Nº1.867, de 30 de agosto de 2002, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 99101009 presentada por JUAN ANTONIO MUÑOZ VERA, para el centro de cultivo autorizado por D.S. Nº 884 de 1990, del Ministerio de Defensa Nacional, y resolución Nº 703 de 1989, de esta Subsecretaría ubicado en Río Quenuir, X Región.
+
+Valparaíso, 30 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
