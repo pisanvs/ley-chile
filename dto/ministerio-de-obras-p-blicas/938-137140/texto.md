@@ -1,0 +1,5 @@
+Por decreto MOP Nº938, de 22 de abril de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nº254-A; 254-B y 254-C para la obra Concesión Internacional Ruta 5, Tramo Temuco - Río Bueno, Km 783.85000 al 785.15000, Décima Región, que figuran a nombre de Puchi Becerra Octavio, rol de avalúo 325-10, comuna de Mariquina, superficies 149,0; 26,0 y 204,0 m2 respectivamente. La comisión de peritos integrada por las señoras Gisselle Leal Rosas, María José Freire Allendes y el señor Gustavo Lacrampe Holthheuer, fijó con fecha 14 de enero de 1999, el valor provisional de las indemnizaciones en las cantidades de $3.004.000.- para el lote 254-A;
+
+$405.000.- para el lote 254-B y $6.890.700.- para el lote 254-C. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
