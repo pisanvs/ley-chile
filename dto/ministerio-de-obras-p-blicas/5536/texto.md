@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.536, de 29 de diciembre de 2000, se expropió el lote de terreno Nº 77-1, superficie 5.922 m2., rol de avalúo 607-2, comuna de Mulchén, para la obra Concesión Internacional Ruta 5. Tramo: Chillán Collipulli, Sector Kms. 535.580,00 al 538.940,00, Octava Región y se acordó el valor de indemnización con su propietaria Yenia Soledad Jara Anabalón, ascendente a la cantidad de $9.900.881.-
+
+Fiscal del Ministerio de Obras Públicas.
