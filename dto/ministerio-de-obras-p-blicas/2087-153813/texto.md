@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.087, de fecha 30 de julio de 1999, se expropió el lote de terreno Nº58-5, superficie 1.237,0 m2., rol de avalúo 639-84, comuna de Victoria, para la obra "Concesión Internacional Ruta 5 Tramo Collipulli - Temuco, Km. 610,40000 a Km. 616,25000" y se acordó el valor de indemnización con su propietario Rosa María Espinoza Colicheo, ascendente a la cantidad de $2.533.500.-
+
+Fiscal del Ministerio de Obras Públicas.
