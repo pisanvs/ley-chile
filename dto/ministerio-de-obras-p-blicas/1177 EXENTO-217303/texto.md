@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.177 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 84, superficie 303,00 m², rol de avalúo Nº 764-107, comuna de Lampa, para la obra "Camino Ruta G-184-182, Sector El Noviciado - Cruce Ruta G-16 (Lipangue), Tramo Km. 4,450 a Km. 15,04419", Región Metropolitana y se acordó el valor de la indemnización con su propietaria Luisa del Carmen Jara Fuentes y Otros, ascendente a la cantidad de $1.529.409.
+
+- Fiscal del Ministerio de Obras Públicas.
