@@ -654,11 +654,11 @@ Para los efectos de lo dispuesto en el número sexto del artículo 95, se presum
 
 El ingeniero o perito no podrá en caso alguno abarcar con la mensura pertenencias vigentes.
 
-El ingeniero o perito que a sabiendas infringiere la prohibición del inciso precedente sufrirá la pena de prisión en cualquiera de sus grados a reclusión menor en su grado mínimo, y la accesoria de inhabilitación especial temporal de entre tres y seis años para llevar a efecto mensuras de pertenencias mineras.
+El ingeniero o perito que a sabiendas infringiere la prohibición del inciso precedente sufrirá la pena de reclusión menor en su grado mínimo, y la accesoria de suspensión de cargo u oficio público o profesión titular.
 
 La operación de mensura podrá abarcar todo o parte del terreno cuya mensura se solicitó, pero, en ningún caso, terrenos situados fuera del perímetro indicado en dicha solicitud. Para este efecto, podrá reducirse el número de pertenencias, la superficie de una o más de ellas, o ambas cosas.
 
-La acción penal correspondiente sólo podrá ser ejercitada por el titular de la concesión que soporte directamente la superposición.
+La acción penal correspondiente tiene el carácter de privada y sólo podrá ser ejercida por el titular de la concesión que soporte directamente la superposición.
 
 #### Artículo 74
 
@@ -1282,11 +1282,13 @@ El mínimo para la subasta de cada lote de concesiones será el valor de las pat
 
 El dueño de la concesión no será admitido a hacer posturas por ella, pero podrá eliminarla de la subasta hasta el momento del remate, pagando el doble del valor adeudado.
 
-> **Nota.** NOTA: 5 El artículo único de la Ley N° 19.201, publicada en el "Diario Oficial" de 3 de Febrero de 1993, prorrogó por única vez, hasta el 28 de febrero de 1993, el pago de la patente minera anual que debió efectuarse en el curso del mes de marzo de 1992, sin el recargo establecido en el presente inciso, aun cuando la concesión minera de que se trate se encuentre en trámite de remate. El dueño de la concesión que hubiere eliminado ésta de la subasta, pagando el doble del valor adeudado como patente, tendrá derecho a solicitar el reembolso de lo pagado a título de sanción.
+> **Nota.** NOTA: 5 El artículo único de la LEY 19201, publicada el 03.02.1993, prorrogó por única vez, hasta el 28 de febrero de 1993, el pago de la patente minera anual que debió efectuarse en el curso del mes de marzo de 1992, en la forma y condiciones que dicha norma indica.
 
-> **Nota.** NOTA: 6 El Artículo único de la Ley N° 19.294, publicada en el "Diario Oficial" de 3 de Marzo de 1994, prorrogó, hasta el 30 de Junio de 1994, a los titulares de concesiones mineras, el plazo para el pago de la patente anual que debió efectuarse en el curso del mes de marzo de 1993. Dicho pago se hará tomando como base el valor que la unidad tributaria mensual tenga en el mes en que se haga el respectivo pago efectivo; sin el recargo establecido en el presente inciso segundo, aun cuando la concesión minera de que se trate se encuentre en trámite de remate. El dueño de la concesión minera que hubiere eliminado ésta de la subasta, pagando el doble del valor adeudado como patente, tendrá derecho a solicitar que lo pagado a título de sanción se impute al pago de la patente que deberá pagar en marzo de 1994.
+> **Nota.** NOTA: 6 El Artículo único de la LEY 19294, publicada el 03.03.1994, prorrogó, hasta el 30 de Junio de 1994, a los titulares de concesiones mineras, el plazo para el pago de la patente anual que debió efectuarse en el curso del mes de marzo de 1993. Dicho pago se hará en la forma que la norma indica.
 
-> **Nota.** NOTA: 7 Ver Ley N° 19.349, publicada en el "Diario Oficial" de 11 de noviembre de 1994, que establece nuevo plazo para pago de patentes mineras que indica.
+> **Nota.** NOTA: 7 Ver LEY 19349, publicada el 11.11.1994, que establece nuevo plazo para pago de patentes mineras que indica.
+
+> **Nota.** NOTA: 8 Ver LEY 19639, publicada el 07.10.1999, que suspende por una vez la aplicación del recargo establecido en este inciso, a los pequeños mineros y mineros artesanales en la forma que indica.
 
 #### Artículo 150
 
