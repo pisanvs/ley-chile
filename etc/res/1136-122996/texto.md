@@ -1,0 +1,3 @@
+Por resolución Nº 1.136, de 5 de agosto de 1998, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 512, de 1990, y Nº 374, de 1997, de esta Subsecretaría, que autorizaron a SOCIEDAD PESQUERA ALGAZO LIMITADA, para instalar y operar el centro de cultivo ubicado en Chanhué, Río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 5 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
