@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.264, de 29 de octubre de 1999, se modificó el decreto MOP Nº391, de 26 de febrero de 1999, que autorizó la expropiación entre otros del lote Nº14, rol de avalúo Nº3198-15, comuna de Chillán, para la obra Camino Ruta N-545 Chillán Tanilvoro, sector Chillán - Universidad Adventista, ordenándose la consignación judicial del valor provisional de la indemnización ascendente a la cantidad de $445.500, por haber quedado sin efecto el convenio directo de precio suscrito con el expropiado señor Juan Vásquez Medina. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto por el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
