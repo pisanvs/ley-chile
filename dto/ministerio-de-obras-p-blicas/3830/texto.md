@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.830, de 29 de diciembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº190-B, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Km. 29.014,00 al Km.
+
+42.800,00, Región Metropolitana, que figura a nombre de Del Solar Duhart Marta T., rol de avalúo 111-6, comuna de Paine, superficie 464 m2. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Gustavo Domínguez Errázuriz y Victoria Adriana Blanco Costa, fijó con fecha 8 de noviembre de 1999, el valor provisional de la indemnización en la cantidad de $5.373.200.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
