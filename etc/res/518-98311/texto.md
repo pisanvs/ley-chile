@@ -1,0 +1,3 @@
+Por resolución Nº518, de 8 de abril de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº95103239, presentada por CHARLES EDWARD BARTER ORAMS, para operar un centro de cultivo en Sector Punta Putique, Isla Quinchao, comuna de Quinchao, provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 78 y 87 de la Ley General de Pesca y Acuicultura.-
+
+Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
