@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.822, de 12 de noviembre de 2003, de esta Subsecretaría, amplíase por un año, el plazo otorgado en el numeral 6.- de la resolución Nº 1.902 de 2002, de esta Subsecretaría, que autorizó a SEAFOOD PROCESSING SOCIEDAD ANONIMA para desarrollar actividades pesqueras de transformación en la planta ubicada en camino a San Antonio s/n, Quellón, Chiloé, X Región, en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 12 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
