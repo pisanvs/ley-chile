@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.421, de 29 de septiembre de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº53-B, para la obra Camino Las Ventanas Bifurcación Rapaco, rol T-60 Kms 36.300 al 47.747,993, que figura a nombre de Marcial Alejandro Pozo Ormeño, rol de avalúo 533-207, superficie 620 m2., comuna de La Unión. La Comisión de Peritos, fijó con fecha 8 de abril de 1999, la indemnización provisional en la cantidad de $320.000, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
