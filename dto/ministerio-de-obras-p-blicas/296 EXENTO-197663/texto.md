@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº296 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº3, superficie 1.566 m², Rol de Avalúo Nº883-8, comuna de Alto del Carmen, para la obra "Construcción Puente Nicolás Naranjo, Ruta C-495, sector Chiguinto, Km. 19,47000 a Km. 20,01428" y se acordó el valor de indemnización con su propietario Juan Garrote Martínez, ascendente a la cantidad de $2.242.980.-
+
+Fiscal del Ministerio de Obras Públicas.
