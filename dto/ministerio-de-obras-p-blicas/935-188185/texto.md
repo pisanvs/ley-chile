@@ -1,0 +1,3 @@
+Por decreto MOP Nº 935, de 29 de junio del 2001, se expropió el lote de terreno Nº 5-A, superficie 2251 m², rol de avalúo 1332-33, comuna de San Carlos, para la obra Concesión Internacional Ruta 5. Tramo: Talca - Chillán - Octava Región y se acordó el valor de indemnización con su propietario Sociedad Inmobiliaria Ulmo Limitada, ascendente a la cantidad de $2.583.388.-.
+
+Fiscal del Ministerio de Obras Públicas.
