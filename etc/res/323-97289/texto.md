@@ -1,0 +1,3 @@
+Por resolución Nº323, de 11 de marzo de 1998 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº95103125, presentada por ADAN RICARDO ALVAREZ PINTO, para el centro de cultivo ubicado en Bahía Yal, comuna de Chonchi, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo Nº78º, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de marzo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
