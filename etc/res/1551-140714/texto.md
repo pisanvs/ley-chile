@@ -1,0 +1,3 @@
+Por resolución Nº 1.551 de 12 de agosto de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº 233 de 1990, de esta Subsecretaría, que autorizó a JAIME ALBERTO MELLADO PROVOSTE y a IGNACIO GASPAR MORENO FARIÑA, para instalar y operar el centro de cultivo ubicado en Caleta del Medio, Bahía Salada, comuna de Caldera, provincia de Copiapó, III Región.
+
+Valparaíso, 12 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
