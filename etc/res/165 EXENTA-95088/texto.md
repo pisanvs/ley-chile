@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN COMUNA DE RIO CLARO
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 165, de 20 de Enero de 1989, conforme Art. 5° Transitorio Código de Aguas, modificó la resolución exenta N° 1.867 de fecha 19 de diciembre de 1984, en el sentido de redistribuir los derechos de Aprovechamiento de Aguas en las parcelas N°s. 3 a la 6, 10, 12, 14, 16, 18, a la 22, 24, a la 26, 29, 30, 32, 34 a la 41, 44, 47, 49 a la 51, 54, 57 a la 59, 63, 65 a la 70, 72, 74, 79, 80 a la 82 y 85; sitios N°s. 2 al 5, 8, 10, 11, 18, 19, 21 al 24, 25 al 29, 31, 33, 34, 36, 38 al 40 y 43 y Bien Común N° 11 del Proyecto de Parcelación "San Gerardo" de la comuna de Río Claro Séptima Región. Los derechos provienen del canal Galpón, derivado del río Claro y del canal Peñaflor, derivado de los ríos Claro y Lontué. Publicación hecha conforme art. 13 Ley N° 18.377.-
+
+Director Nacional (S)
