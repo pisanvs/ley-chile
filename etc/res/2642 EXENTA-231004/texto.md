@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.642, de 16 de septiembre de 2004, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 3.069, de 2003, de esta Subsecretaría, que autorizó a JOSE MANUEL MARIN ASPILLAGA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia de la pesca de investigación en el marco del proyecto "Estudio de ecología del Pingüino penacho amarillo y Pingüino macaroni", en el sentido de indicar que la pesca de investigación se extenderá hasta el 31 de diciembre de 2004, inclusive. En consecuencia, las actividades en terreno se podrán efectuar hasta la fecha antes indicada.
+
+Valparaíso, 16 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
