@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA AGUAS MARINAS LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 925, de 18.08.87, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Aguas Marinas Ltda., domiciliada en Santiago, para ampliar actividades pesqueras autorizadas por resolución No. 159, de 22 de Marzo de 1985, de esta Subsecretaría de Pesca, en orden a instalar y operar un establecimiento de cultivo de algas del género Gracilaria, en un sector de Ensenada Codihue, Comuna de Calbuco, Provincia de Llanquihue, X Región, en un área de 191.205 m2. de playa, cuyas coordenadas geográficas son las siguientes, de acuerdo con el plano que acompaña a la solicitud signado por el Servicio Nacional de Pesca con el No. Ordinal 581: Vértice H. Lat. 41° 45' 59,30" S. Long. 73° 23' 55,35" W.- Vértice I. Lat. 41° 45' 56,43" S. Long. 73° 23' 55,90" W. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 18.08.87.- Roberto Cabezas Bello, Subsecretario de Pesca.
