@@ -1,0 +1,3 @@
+Por decreto MOP Nº 377, de 26 de febrero de 1999, se expropió el lote de terreno Nº 9-B, superficie 31.779 m², rol de avalúo 2222-34, comuna de Chillán Viejo, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli'', Sector 1, VIII Región y se acordó el valor de indemnización con su propietario Eustaquio Jaña González, ascendente a la cantidad de $34.147.825.-
+
+Fiscal del Ministerio de Obras Públicas.
