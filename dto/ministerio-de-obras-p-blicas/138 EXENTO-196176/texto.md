@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 138 de fecha 25 de febrero del 2002, se expropió el lote de terreno Nº 33-A, superficie 862 m2, rol de avalúo Nº 192-4, comuna de Longaví, para la obra "Camino Ruta L-49, Sector Cruce Longitudinal-Mesamávida, Sector Cruce Longitudinal-San Luis, Tramo Km. 0,000.00 al Km. 13,841.12 comuna de Longaví, Provincia de Linares", VII Región y se acordó el valor de indemnización con su propietario Sergio Guillermo Parra Chávez, ascendente a la cantidad de $1.650.077.
+
+- Fiscal del Ministerio de Obras Públicas.
