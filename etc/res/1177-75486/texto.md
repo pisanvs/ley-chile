@@ -1,0 +1,3 @@
+Por Resolución Nº 1.177, de 25 de agosto de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº 471, de 1992, de esta Subsecretaría, que modificó la Resolución Nº 125, de 1986, que autorizó a INDUSTRIA PESQUERA TIMONEL S.A., a ampliar actividades pesqueras extractivas, con la nave "Talismán", en virtud de haberse transferido esta nave a favor de Pesquera Qurbosa S.A.
+
+Valparaíso, 25 de agosto de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
