@@ -1,0 +1,7 @@
+DISPONE APLICACION A CONTAR DEL SEGUNDO SEMESTRE DEL AÑO 1995 DEL REAVALUO DE LOS BIENES RAICES NO AGRICOLAS Núm. 1.189 exento.- La Florida, 10 de Mayo de 1995.- Vistos: El artículo 3° de la Ley N° 19.000, que dispuso el reavalúo de los bienes raíces no agrícolas; el artículo 2° de la Ley N° 19.380 que establece modalidades para la aplicación de estos reavalúos; el informativo de 20 de Abril del presente año, emanado del Servicio de Impuestos Internos que establece el alcance que tiene para la comuna de La Florida la aplicación de la Ley N° 19.380; el acuerdo N° 791 adoptado por el Concejo Municipal en su sesión Extraordinaria de 3 de Mayo de 1995 y las facultades que me confiere la Ley N° 18.695, Orgánica Constitucional de Municipalidades, Decreto:
+
+Dispónese la aplicación, a contar del segundo semestre del año 1995, del reavalúo de los bienes raíces no agrícolas de la comuna de La Florida efectuado por el Servicio de Impuestos Internos conforme a lo dispuesto por el artículo 3° de la Ley N° 19.000.
+
+La Dirección de Relaciones Públicas y Difusión deberá adoptar las medidas que proceda para que el presente decreto se publique en el Diario Oficial a más tardar el 31 de Mayo del presente año.
+
+Anótese, comuníquese, publíquese y hecho, archívese.- Gonzalo Duarte Leiva, Alcalde.- Dina Castillo González, Secretaria Municipal.
