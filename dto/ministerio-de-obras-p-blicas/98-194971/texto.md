@@ -1,0 +1,3 @@
+Por decreto MOP Nº 98 de 29 de enero de 2002, se expropió el lote de terreno Nº 8-2, superficie 671 m², rol de avalúo 36-437, comuna de Requínoa, para la obra Concesión Internacional Ruta 5. Tramo Santiago-Talca. Sector F: Kms. 92.000,00 al 110.200,00, Sexta Región y se acordó el valor de indemnización con su propietario Alfredo Enrique Ponce Perea, ascendente a la cantidad de $3.281.410.-.
+
+Fiscal del Ministerio de Obras Públicas.
