@@ -1,0 +1,3 @@
+Por resolución Nº 1.703, de 25 julio de 2003 de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 395 de 2003, modificada por resolución Nº 420 de 2003, ambas de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DE VALPARAISO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Caracterización Ecológica y Pesquera de la Cordillera de Nazca como Area de Crianza de Pez Espada", en el sentido de reemplazar la nave autorizada Pam Elena's por el Pam Christina's.
+
+Valparaíso, 25 de julio de 2003.- Edith Saa Collantes, Subsecretario de Pesca (S).
