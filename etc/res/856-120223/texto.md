@@ -1,0 +1,3 @@
+Por resolución Nº856, de 10 de junio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por TRIPESCA S.A., para iniciar actividades pesqueras extractivas con dos naves en construcción en la captura de recursos hidrobiológicos pelágicos en el litoral de la X Región.
+
+Valparaíso, 10 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
