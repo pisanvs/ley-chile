@@ -1,0 +1,3 @@
+Por resolución Nº 2.585, de 1 de diciembre de 2000, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones Nº 382 de 1983 y Nº 196 de 1985, ambas de esta Subsecretaría, que autorizaron a PESQUERA QUINTERO S.A., para operar la nave ''Eversen'', sólo en lo relativo a las especies Langostino colorado en el área marítima comprendida entre el paralelo 24° L.S. y la IV Región y Merluza común en el área marítima comprendida entre la IV Región y el paralelo 35° L.S., en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 1 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
