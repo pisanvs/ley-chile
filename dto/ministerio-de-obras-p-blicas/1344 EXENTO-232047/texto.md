@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.344 de 30 de septiembre de 2004, se expropió el lote de terreno Nº 37, superficie 125 m2, Rol de Avalúo 518-351, comuna de Antuco, para la obra "Camino Ruta Q-45, Sector Antuco-Abanico, Tramo II Km. 3,95000 a Km. 12,40150", VIII Región y se acordó el valor de indemnización con su propietario Dagoberto Rivera Cifuentes, ascendente a la cantidad de $312.550.-
+
+Fiscal del Ministerio de Obras Públicas.
