@@ -1,0 +1,5 @@
+Por resolución Nº 627 de 27 de marzo de 2000, de esta Subsecretaría, modifícase la resolución Nº 253 del 2000, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Pesca de jurel Trachurus symmetricus murphyi realizada por la flota artesanal en bahías de la III y IV Región, temporada 2000'', en el sentido de que a continuación se indica:
+
+a) Sustitúyese el numeral 4º por el siguiente: ''4.- En cumplimiento del objetivo de la presente pesca de investigación, la Universidad Católica del Norte podrá extraer un máximo de 2000 toneladas de Jurel.'' b) Agrégase al numeral 6º, las siguientes embarcaciones artesanales autorizadas para participar en la señalada pesca de investigación: ''Atlántico III'', ''Julio Iglesias'', ''Atenea II'', ''Jennifer I'', ''La Quintrala'' y ''Santa Verónica''.
+
+Valparaíso, 27 de marzo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
