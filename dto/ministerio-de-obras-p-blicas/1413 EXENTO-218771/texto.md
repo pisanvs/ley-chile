@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.413, de fecha 31 de octubre de 2003, se expropió el lote de terreno Nº 5, superficie 72,0 m2, rol de avalúo Nº 2204-41, comuna de Osorno, para la obra "Mejoramiento U-22, Sector Osorno - Forrahue, Tramo Km. 0,00000 a Km. 11,43000", X Región y se acordó el valor de la indemnización con su propietario David René Martínez Arcos, ascendente a la cantidad de $972.448.-
+
+Fiscal del Ministerio de Obras Públicas.
