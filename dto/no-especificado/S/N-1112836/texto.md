@@ -1,0 +1,7 @@
+Tráfico nocturno de los relijiosos
+
+Santiago, 22 de Mayo de 1818.
+
+He sabido con el mayor dolor de mi corazon, que a todas horas de la noche se encuentran relijiosos por las calles, con tanto mayor escándalo de este vecindario, cuanto en él era desconocida esta clase de relajacion. Como Supremo Majistrado de un Estado Católico, debo cuidar de que se corte de raiz tan pernicioso abuso. Al efecto, encargo estrechamente a los Prelados de las Comunidades Relijiosos, velen sobre que sus súbditos guarden exactamente en este punto, el precepto de su instituto, valiéndose de toda su autoridad para hacerse obedecer; haciéndoles entender que si son patriotas, deben acreditarlo con las costumbres irreprensibles a que los obliga su estado: que el Gobierno i demas Majistrados de la Nacion, auxiliarán prontamente a los Prelados para hacer que sean respetados por sus súbditos en lo concerniente a su vida regular. Que circularán a los Jueces i a los Jefes militares, para que dispongan que las rondas i patrullas que encuentren de noche relijiosos fuera de sus conventos, los aprehendan i entreguen a sus respectivos prelados, quienes sin el menor disimulo, deberán castigarlos segun sus constituciones. Trascríbaseles este Decreto por el Ministerio, con prevencion de que para su cumplimiento debe cada uno hacerlo notorio a sus súbditos en plena Comunidad i circularlo a los Conventos de los partidos.-
+
+O'Higgins.- Irisarri.
