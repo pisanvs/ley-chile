@@ -1,0 +1,5 @@
+Por Resolución exenta Nº 2.603, de 10 de septiembre de 2004, de esta Subsecretaría, modifícase Resolución N° 1.079 de 2003, modificada por Resolución Nº 1.636 de 2004, ambas de esta Subsecretaría, que autorizó a RIO DULCE S.A. para instalar un vivero flotante dividido en seis sectores ubicados en sector de San Antonio, X Región, en el sentido de agregar la siguiente letra i) al número 5º:
+
+"i) El titular de la presente autorización deberá contar con un plan de contingencia que describa cronológicamente las acciones a desarrollar en caso de escape de peces, en la forma establecida en el artículo 5º del D.S. Nº 320 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, en conformidad con el compromiso voluntario adquirido durante la evaluación ambiental del proyecto "Estación de Cosecha Limpia de Salmones Río Dulce S.A., en el sector de San Antonio, Quellón, provincia de Chiloé, X Región, Chile", calificado favorablemente mediante Resoluciones citadas en Visto."
+
+Valparaíso, 10 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
