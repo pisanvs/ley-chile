@@ -1,0 +1,3 @@
+Por decreto MOP N°3.958, de 29 de diciembre de 1999, se expropió el lote de terreno N°5-3A, superficie 808,0 m2, rol de avalúo 258-23, comuna de Ercilla, para la obra Concesión Internacional Ruta 5. Tramo: Temuco-Río Bueno, Novena Región y se acordó el valor de indemnización con su propietario Luis Orlando Fuentes Fuentes, ascendente a la cantidad de $891.009.-
+
+Fiscal del Ministerio de Obras Públicas.
