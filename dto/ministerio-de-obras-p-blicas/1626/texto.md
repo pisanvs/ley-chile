@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.626, de 21 de septiembre de 1998, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº10, para la obra Camino Santiago - Colina - Los Andes, Sector "A" A. Vespucio - By Pass Colina, Km.
+
+0.504,10 al 4.758,40, que figura a nombre de Industrias Princesa Limitada, rol de avalúo 118-13, comuna de Quilicura, superficie 16.495,7 m². La Comisión de Peritos integrada por las señoras Victoria Adriana Blanco Costa, María Cristina Camus Palacios y señor Gustavo Domínguez Errázuriz, fijó con fecha 4 de junio de 1998, el valor provisional de la indemnización en la cantidad de $574.519.200.- para el lote 10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
