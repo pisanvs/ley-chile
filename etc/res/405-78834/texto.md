@@ -1,0 +1,3 @@
+Por Resolución No. 405, de 12 de Mayo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución No. 688, de 1989, de esta Subsecretaría, por la cual se autorizó a don SABINO CHIGUAY CATIPILL N, R.U.T. Nº4.398.615-5, domiciliado en el Sector Rural de Yaldad, Comuna de Quellón, Chiloé, Casilla No. 132, Quellón, para instalar y operar un establecimiento de cultivo del recurso alga del género Gracilaria spp., en Estero Yaldad, Comuna de Quellón, Provincia de Chiloé, X Región, en un área de aproximadamente 40.000 m2, por renuncia de su titular.
+
+Valparaíso, 12 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
