@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.433, de fecha 31 de julio del 2000, se expropió el lote de terreno Nº106, superficie 709,45, Rol de avalúo 140-39, comuna de Dalcahue, para la obra "Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid.Pid) - Putemún - Dalcahue, Km. 0,000 al 11,991647" y se acordó el valor de indemnización con su propietario Arturo Ulises Alvarez Muñoz, ascendente a la cantidad de $628.231.-
+
+Fiscal del Ministerio de Obras Públicas.
