@@ -2838,7 +2838,7 @@ En lo relativo a las cuentas de ahorro para la vivienda a que se refiere el D.S.
 
 Las cuentas de ahorro a la vista tienen las siguientes características:
 
-a) Son en moneda nacional y no devengan reajustes ni intereses.
+a) Son en moneda nacional y no devengan reajustes ni intereses. Cuando sean abiertas en bancos, también podrán ser en moneda extranjera.
 
 b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o jurídicas.
 
@@ -2850,7 +2850,7 @@ c) Las instituciones financieras pueden cobrar comisiones por el manejo de las c
 
 Las cuentas de ahorro a plazo con giro incondicional tienen las siguientes características:
 
-a) Son en moneda nacional, reajustables por la variación de la unidad de fomento u otro sistema de reajustabilidad autorizado por el Banco Central de Chile.
+a) Son en moneda nacional, reajustables por la variación de la unidad de fomento u otro sistema de reajustabilidad autorizado por el Banco Central de Chile. Cuando sean abiertas en bancos, también podrán ser en moneda extranjera.
 
 b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o jurídicas.
 
@@ -2866,7 +2866,7 @@ f) Las instituciones financieras pueden cobrar comisiones por el manejo de las c
 
 Las cuentas de ahorro a plazo con giro diferido tienen las particularidades que se indican a continuación:
 
-a) Son en moneda nacional, reajustables por la variación de la unidad de fomento u otro sistema de reajustabilidad autorizado por el Banco Central de Chile;
+a) Son en moneda nacional, reajustables por la variación de la unidad de fomento u otro sistema de reajustabilidad autorizado por el Banco Central de Chile. Cuando sean abiertas en bancos, también podrán ser en moneda extranjera.
 
 b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o jurídicas.
 
@@ -3078,6 +3078,8 @@ En consecuencia, para establecer el reajuste que corresponda abonar al término 
 
 Cuando el número de giros efectuados en una cuenta de ahorro a plazo, en el período de doce meses, sea superior al que el depositante podía realizar de conformidad con lo señalado en las letras b), c) o d) del numeral 7.3, según sea el caso, los fondos depositados devengarán solamente el interés correspondiente a dicho período y por motivo alguno se aplicará reajuste, salvo aquellos que ya se hubieran abonado en los trimestres anteriores del mismo período en que se produjo el exceso de giros.
 
+No se considerarán como giros los cargos efectuados en las cuentas por concepto de primas de seguros de vida o invalidez, cuando éstos cumplan las condiciones señaladas en los Capítulos III.E.l y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile.
+
 ### 9. Intereses de las cuentas de ahorro a plazo
 
 9.1. Interés autorizado.
@@ -3202,7 +3204,7 @@ En esa comunicación se le señalará al titular la oportunidad en que deberá r
 
 Las instituciones financieras que cobren comisiones o que establezcan montos mínimos de depósitos, deberán indicar dichas condiciones en todo aviso con fines publicitarios referidos a sus cuentas de ahorro a plazo.
 
-En toda publicidad que comprenda cuentas de ahorro con giro incondicional, las instituciones financieras deberán señalar la periodicidad en que se abonan los reajustes, esto es, si trimestral o anualmente, o cuáles son los requisitos que se exigen para pactar una periodicidad trimestral en caso que se ofrezcan ambas modalidades.
+En toda publicidad que comprenda cuentas de ahorro con giro incondicional en moneda chilena, las instituciones financieras deberán señalar la periodicidad en que se abonan los reajustes, esto es, si trimestral o anualmente, o cuáles son los requisitos que se exigen para pactar una periodicidad trimestral en caso que se ofrezcan ambas modalidades.
 
 Por otra parte, si la publicidad se refiere exclusivamente a cuentas de ahorro sin libreta, deberá señalarse expresamente que se trata de una "Cuenta de ahorro sin libreta".
 
