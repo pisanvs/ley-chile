@@ -1,0 +1,3 @@
+EXPROPIA TERRENO QUE INDICA
+
+"Procédase a expropiar de acuerdo al Decreto Alcaldicio N° 311 del 29.10.85 el terreno en que funciona la Escuela Básica G-186 "Peña Santa Rosa" y cuyos deslindes son: Norte: En 166 mts. con camino público a Piedra Lisa; Sur en 100 mts. con propiedad de don Carlos Furet; Oriente en 59 mts. con camino público a Piedra Lisa; Poniente en 166 mts. con propiedad de Carlos Furet. El citado terreno forma parte de uno de mayor extensión y rola inscrito a fojas 865 N° 1.054 del Registro de Propiedades del Conservador de Bienes Raíces de San Carlos, a nombre de la Sociedad Agrícola Carlos Furet y Cía. Ltda., la cual es representada por don Carlos Furet Torres.
