@@ -1,0 +1,3 @@
+Por resolución Nº 1.757, de 7 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97103218, presentada por JOSE ROBERTO CAIPILLAN DELGADO, para operar un centro de cultivo ubicado en Punta Castillo, Estero de Castro, comuna de Chonchi, provincia de Chiloé, X Región.
+
+Valparaíso, 7 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
