@@ -36,11 +36,9 @@ A las Municipalidades corresponde atender los asuntos de orden sanitario que le 
 
 > **Nota.** El Art. 4° del la LEY 18695, publicada el 31.03.1988, cuyo texto refundido fue fijado por el Art. 662, Interior, publicado el 27.08.1992, estableció las funciones que corresponden a las municipalidades en sus respectivos territorios, por aplicación del Art. 107 de la Constitución Política de la República. Entre ellas, conforme a su letra d), las relacionadas con la salud publica y la protección del medio ambiente.
 
-#### Artículo 5°
+#### Artículo 5º
 
-Cada vez que el presente Código haga referencia a la autoridad sanitaria, se entenderá por ella el Director General de Salud o las personas en quienes éste delegue sus funciones o atribuciones.
-
-> **Nota.** El Art. 16 del Decreto Ley 2763, Salud, publicado el 03.08.1979, vigente desde el 1° de agosto de 1980 según dispone el Decreto 227, Salud, publicado el 18.06.1980, creó los "Servicios de Salud", fijó su distribución territorial, y estableció que tales Servicios serán los continuadores legales del Servicio Nacional de Salud en sus respectivos territorios, con sus mismos derechos y obligaciones, de acuerdo con las funciones señaladas en el Art. 17 del mismo decreto ley. El Reglamento orgánico de los Servicios de Salud está contenido en el Decreto 42, Salud, publicado el 09.12.1986; puede verse también el Decreto 2, Salud, publicado el 08.03.1985, que establece la sede y territorio de cada Servicio de Salud.
+Cada vez que el presente Código, la ley o el reglamento aluda a la autoridad sanitaria, deberá entenderse por ella al Ministro de Salud, en las materias que son de competencia de dicha Secretaría de Estado; a los Secretarios Regionales Ministeriales de Salud, como sucesores legales de los Servicios de Salud y del Servicio de Salud del Ambiente de la Región Metropolitana, respecto de las atribuciones y funciones que este Código, la ley o el reglamento radica en dichas autoridades y que ejercerá dentro del territorio regional de que se trate; y al Director del Instituto de Salud Pública, en relación con las facultades que legalmente le corresponden respecto de las materias sanitarias que este Código, la ley o el reglamento regula, sin perjuicio de los funcionarios en quienes estas autoridades hayan delegado válidamente sus atribuciones.
 
 #### Artículo 6°
 
@@ -257,6 +255,8 @@ En casos especiales, las personas podrán ser eximidas temporalmente de las vacu
 #### Artículo 34°
 
 Toda persona mordida, rasguñada o que hubiere podido ser infectada por un animal enfermo o sospechoso de tener rabia, deberá someterse al tratamiento antirrábico que determine el Servicio Nacional de Salud. Dicho tratamiento estará a cargo de ese organismo, el que podrá disponer el examen y la internación obligatoria de las personas que se encuentren en esa situación.
+
+> **Nota.** Véase el Decreto 89, Salud, publicado el 08.01.2003, que contiene el Reglamento sobre Prevención de la Rabia en el Hombre y los Animales.
 
 #### Artículo 35°
 
@@ -706,9 +706,9 @@ La reglamentación determinará, además, los casos y condiciones en que podrá 
 
 b) la protección de la salud, seguridad y bienestar de los ocupantes de edificios o locales de cualquier naturaleza, del vecindario y de la población en general, así como la de los animales domésticos y de los bienes, contra los perjuicios, peligros e inconvenientes de carácter mental o material que provengan de la producción de ruidos, vibraciones o trepidaciones molestos, cualquiera que sea su origen.
 
-> **Nota.** Véanse la LEY 18122, publicada el 17.05.1982, que creó el Servicio de Salud del Ambiente en la Región Metropolitana; y el Decreto 206, Salud, publicado el 07.12.1982, Reglamento Orgánico de dicho Servicio.
+> **Nota.** Véase el Decreto 32, Salud, D.O. 24.05.1990, que reglamenta el funcionamiento de fuentes emisoras de contaminantes atmosféricos en situaciones de emergencia por contaminación.
 
-> **Nota.** NOTA 1: Véanse el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza; y el Decreto 32, Salud, D.O. 24.05.1990, que reglamenta el funcionamiento de fuentes emisoras de contaminantes atmosféricos en situaciones de emergencia por contaminación.
+> **Nota.** NOTA 1: Véanse el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza.
 
 > **Nota.** NOTA 2: Véase el Decreto 594, Salud, publicado el 29.04.2000, vigente a contar de 365 días desde su publicación, que establece el Reglamento sobre Condiciones Sanitarias y Ambientales Mínimas en los lugares de trabajo.
 
@@ -787,6 +787,8 @@ Se entenderá por cosmético cualquier preparado que se destine a ser aplicado e
 El Ministerio de Salud Pública aprobará, previo informe de sus Unidades Técnicas Normativas, un Formulario Nacional de Medicamentos que contendrá la nómina de los productos farmacéuticos indispensables en el país para una eficiente terapéutica. Este Formulario Nacional precisará la forma farmacéutica y dosis de cada medicamento y señalará el uso, limitaciones y peligro de los mismos.
 
 El Director General de Salud dispondrá las medidas necesarias para que la población y los servicios que presten atención médica se encuentren permanentemente abastecidos de los productos farmacéuticos que componen el Formulario Nacional de Medicamentos.
+
+> **Nota.** Véase los siguientes decretos del Ministerio de Salud:1.- Decreto 264, publicado el 16.03.2004, que fija el Reglamento del Formulario Nacional de Medicamentos.2.- Decreto 102, publicado el 09.09.1996, que aprueba el Reglamento del Sistema Nacional de Control de Productos Farmaceúticos.
 
 #### Artículo 101
 
