@@ -1,0 +1,3 @@
+Resolución 37, 19 marzo 1999, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Irarrázabal Nº 425, Rol de Avalúo Nº 352-11, comuna Concepción, superficie 490 m² de terreno, dentro polígono y linderos señalados plano expropiación S8R-11029, de aparente dominio del Fisco de Chile, para ejecución programa ''Mejoramiento Eje Vial Los Carrera (Irarrázabal/A. Prat, Concepción'', conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por don Teodoro Medina Reyes, ingeniero civil, don Pedro Tagle Martínez, arquitecto y don Luis Abarzúa Ceballos, constructor civil, según informe de fecha 15 de diciembre de 1998, fijó monto provisional indemnización en $41.650.000.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
