@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.964 de 30 de junio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la ejecución de la obra Camino Contulmo - Nahuelbuta, Sector Puente El Peral Km. 0,10000 a Km. 0,20150, que figura a nombre de Humberto Herrera Galdame, rol de avalúo sin rol, de la comuna de Contulmo, VIII Región, superficie 170 m². La comisión de peritos fijó con fecha 28 de noviembre de 1999, la indemnización provisional en la cantidad de $393.640, la indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
