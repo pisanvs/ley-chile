@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION No. EX. 1.970 DE 1992, SOBRE DELEGACION DE FACULTADES QUE INDICA EN LOS FUNCIONARIOS QUE SEÑALA
+
+Mediante Resolución Exenta No. 5.301 de 31 de Julio de 1992, el Director Regional de la VII Dirección Regional Talca, modificó la Resolución Exenta No. 1.970, de 27 de Marzo de 1992, sobre Delegación de Facultades, en los funcionarios que se señalan por su referencia alfanúmerica y que corresponden a los que describe la Resolución Exenta No. 968, del 11 de Marzo de 1992, y su modificación efectuada mediante la Resolución Exenta No. 02410 del 25 de Junio de 1992, ambas de la Dirección Nacional, publicada en el Diario Oficial del día 16 de Marzo de 1992 y 04 de Junio de 1992 respectivamente. La modificación señalada dice relación con materias referentes a la Ley 17.235, sobre Impuestos Territorial, en el sentido de ampliar las funciones que se pueden delegar y los funcionarios que pueden ejercerlas.
+
+Talca, 03 de Agosto de 1992.- Claudio Soza Hern ndez, Director Regional.
