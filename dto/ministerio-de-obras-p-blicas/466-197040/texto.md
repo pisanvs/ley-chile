@@ -1,0 +1,3 @@
+Por decreto MOP Nº 466 de 28 de febrero de 2002, se expropió el lote de terreno Nº 1, superficie 1.673 m2., rol de avalío 357-19, comuna de Yumbel, para la obra Concesión Internacional Ruta 5. Tramo: Chillán Collipulli Sector Kms. 473.700,00 al 474.400,00, Octava Región y se acordó el valor de indemnización con su propietario Forestal Celco S.A., ascendente a la cantidad de $3.929.154.-
+
+Fiscal del Ministerio de Obras Públicas.
