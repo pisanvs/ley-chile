@@ -1,0 +1,21 @@
+APRUEBA NOMINA DE POSTULANTES SELECCIONADOS PARA EL LLAMADO EXTRAORDINARIO 2002 A POSTULACION AL SISTEMA DE SUBSIDIO HABITACIONAL RURAL (TITULO I), DESTINADO A LA ATENCION DE DAMNIFICADOS DE LA III REGION DE ATACAMA
+
+Santiago, 27 de noviembre de 2002.- Hoy se resolvió lo que sigue:
+
+Núm. 4.665 exenta.- Visto: El D.S. Nº 117 (V. y U.), de 2002, en especial lo dispuesto en su artículo 1º transitorio, en relación a lo dispuesto en su artículo 45; el D.S. Nº 167 (V. y U.), de 1986, y sus modificaciones, que regula el Sistema de Subsidio Habitacional para la Atención del Sector Rural; el D.S.
+
+Nº 332 (V. y U.), de 2000, que Reglamenta Sistema de Atención Habitacional para Situaciones de Emergencia; el D.S. Nº 264, de Interior, de 2002, que señala como afectadas por la catástrofe derivada del terremoto acaecido en la III Región de Atacama, las comunas de Copiapó y Tierra Amarilla de la Provincia de Copiapó de dicha región; la resolución exenta Nº 3.687, de fecha 26 de diciembre de 2001, modificada por resoluciones exentas Nº 1.584 y Nº 3.105, de fechas 8 de mayo y 13 de agosto de 2002, respectivamente, todas ellas de los Ministerios de Hacienda y de Vivienda y Urbanismo; las resoluciones exentas Nº 2.525 y Nº 2.526, ambas de este Ministerio, de fecha 9 de julio de 2002, publicadas en el Diario Oficial del 13 de julio de 2002, dicto la siguiente
+
+R e s o l u c i ó n:
+
+1º .- Apruébase la nómina de 214 postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al llamado extraordinario Título I 2002, destinado a la atención de los damnificados por los sismos acaecidos en el mes de abril de 2002, en la III Región de Atacama, dispuesto por el número 1º de la resolución exenta Nº 2.525, de este Ministerio, de 2002, nómina que se entenderá formar parte integrante de la presente resolución.
+
+2º .- Déjase constancia que la nómina de 214 postulantes que se aprueba en el número anterior compromete un total equivalente a 32.100 Unidades de Fomento (U. F.) para el financiamiento del subsidio directo destinado a la atención de los postulantes seleccionados en el llamado extraordinario Título I 2002 del Sistema de Subsidio Habitacional para la Atención del Sector Rural, que regula el D.S. Nº 167 (V. y U.), de 1986, en virtud de lo dispuesto en el artículo 1º transitorio del D.S. Nº 117 (V. y U.), de 2002, para atender a postulantes damnificados de la III Región de Atacama, monto que se destina a la atención de postulantes individuales, por no haberse presentado postulantes en la alternativa de postulación colectiva, en este llamado.
+
+3º .- En conformidad a lo dispuesto en el número 7º de la resolución exenta Nº 2.526, de este Ministerio, de 2002, aquellos postulantes seleccionados que hubieren acreditado disponibilidad de derechos sobre un terreno ubicado en algunas de las áreas en que pueden aplicarse estos subsidios, para recibir sus respectivos Certificados de Subsidio Habitacional deberán presentar los documentos que acrediten la inscripción de dominio, extendidos con una anticipación no superior a 30 días a la fecha de postulación, en el caso en que el documento acompañado a su postulación excediere el plazo indicado.
+
+4º .- Publíquese la nómina completa que se aprueba en el número 1º de esta resolución en un periódico de circulación nacional, indicándose en dicha publicación el nombre completo del beneficiario, su Cédula de Identidad o R.U.T. y el puntaje total obtenido, sin perjuicio de las nóminas completas de que dispondrá el Serviu III Región de Atacama, las que señalarán, a lo menos, el puntaje total y el obtenido en cada uno de los rubros considerados, por cada postulante seleccionado; el Rol Unico Tributario; el monto del subsidio directo de cada postulante seleccionado y el puntaje de corte correspondiente al último postulante seleccionado.
+
+Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Sonia Tschorne Berestesky, Subsecretaria de Vivienda y Urbanismo.
