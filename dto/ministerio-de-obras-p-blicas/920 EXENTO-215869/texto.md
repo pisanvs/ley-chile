@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 920, de 29 de agosto de 2003 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 5 para la obra: "Camino: Santiago Colina Los Andes, Sector "F": Acceso Norte Túnel de Chacabuco - Auco Pista de Frenado.
+
+Km. 53.300,00 al Km. 53.640,00", Quinta Región, que figura a nombre de De la Fuente Molina María Rosa, rol de avalúo 25-37, comuna de Rinconada, superficie 471 m2. La comisión de peritos integrada por los señores Herman Edgardo Figueroa Zúñiga, Lorena Consuelo Larraín Saffa y Karin Verónica Schulz Villanueva, fijó con fecha 8 de agosto de 2003, el valor provisional de la indemnización en la cantidad de $599.100.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
