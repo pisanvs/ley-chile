@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1140 de 6 de Julio de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas que corresponden a Reserva y Sector Expropiado Predio "Santa Sara" de la comuna de Yumbel, VIII Región, y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 12 y sitios N°s. 1 al 17 del Proyecto de Parcelación "Los Aromos" formado por predio señalado.- Los Derechos de Agua se extraen de los canales Batuco y la Mancha derivados del río Laja y derrames del predio Curanilahue. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
