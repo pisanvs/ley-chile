@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Por Resolución N° 5 de 8 de enero de 1996, Serviu II Región, rectifica Resolución N° 169 de 30 de noviembre 1995, notificada por Diario Oficial del 15 de diciembre 1995, que dispuso la expropiación parcial del inmueble ubicado en Avda. Argentina N° 2305-2313, Rol de Avalúo N° 794-13, superficie 75,56 metros cuadrados, precisando que el dominio no sólo corresponde a don Juan Manuel Plaza Carvajal como en ella se indica, sino que a éste y a la Sucesión de su cónyuge compuesta por: Juana Elcira, Myrna Iris, Norma del Carmen, Judith Elier, Manuel Antonio, Elena Myriam y Luis Alberto Plaza Bugueño; Sandra Inés, Marta Ester y María Aracelly Plaza Urbina y Deisa Inés Urbina Vega, según inscripción de fs. 2.931, bajo el N° 4.047 del Registro de Propiedad año 1995 del Conservador de Bienes Raíces Antofagasta. En todo lo demás la Resolución N° 169/95 mantiene vigencia.-
+
+Director Serviu II Región.
