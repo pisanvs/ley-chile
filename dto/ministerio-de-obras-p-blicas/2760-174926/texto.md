@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.760, de 30 de junio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº697, para la obra ''Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector C: Acceso Sur a Santiago Km.
+
+17.700,00 a Km. 46.600,00'', Región Metropolitana, que figura a nombre de Fuentes Requena Juan, rol de avalúo 136-101, comuna de Paine, superficie 4.907 m2. La Comisión de Peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Jorge Eduardo Lackington Vergara y Mario Bochetti Ojeda, fijó con fecha 27 de marzo de 2000, el valor provisional de la indemnización en la cantidad de $8.462.050.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
