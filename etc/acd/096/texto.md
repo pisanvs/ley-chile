@@ -1,0 +1,5 @@
+ACUERDO Nº 096/99, QUE CERTIFICA LA PLENA AUTONOMIA DEL INSTITUTO PROFESIONAL DE ARTE Y COMUNICACION ARCOS
+
+En sesión ordinaria de 5 de agosto de 1999, el Consejo Superior de Educación ha acordado lo siguiente: - Certificar que, durante el período de acreditación, el Instituto Profesional de Arte y Comunicación Arcos ha desarrollado satisfactoriamente su proyecto institucional, en razón de lo cual ha alcanzado la plena autonomía institucional que lo habilita para otorgar toda clase de títulos en forma independiente. - Hacer presente al Instituto Profesional de Arte y Comunicación Arcos y a la comunidad que la plena autonomía institucional a la que por este acto accede dicha institución, junto con representar la adquisición de un derecho, importa contraer la obligación de hacer un uso adecuado y responsable de ella, a la vez que un compromiso para la superación de las limitaciones que este Consejo ha detectado en el desarrollo de su proyecto institucional, contenidas en el Acuerdo. Se publica el presente extracto para conocimiento de la comunidad.-
+
+Marcela Pizzi Kirschbaum, Secretaria Ejecutiva Consejo Superior de Educación.
