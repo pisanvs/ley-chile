@@ -1,0 +1,3 @@
+Por resolución Nº 2.212, de 11 de octubre de 2002, de esta Subsecretaría, autorízase a PESQUERA QUINTERO S.A., para ampliar las actividades pesqueras extractivas con la nave "Crusoe I", autorizada por las resoluciones Nº 364 de 1984, Nº 196 de 1985, Nº 132 de 1986, Nº 564 y Nº 1.066, ambas de 1987, Nº 1.157 de 1991, Nº 722 de 1993, Nº 2.703 de 2000, y Nº 20 de 2002, todas de esta Subsecretaría, en orden a realizar actividades pesqueras con la nave individualizada precedentemente, en el área marítima comprendida entre el paralelo 24º L.S. y 28º L.S., donde podrá capturar, con arte de arrastre, el recurso hidrobiológico Gamba.
+
+Valparaíso, 11 de octubre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
