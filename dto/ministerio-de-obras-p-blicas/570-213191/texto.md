@@ -1,0 +1,3 @@
+Por decreto MOP Nº 570 de fecha 30 de mayo del 2003, se expropió los lotes de terreno Nºs. 9, 9-A, 11 y 11-A, superficie 1.254, 161, 2.001 y 318 m² respectivamente, rol de avalúo Nº 2210-4, comuna de Chillán, VIII Región para la obra "Mejoramiento Ruta N-45, Sector Variante Cato, Km. 0,00000 a Km. 4,15551" y se acordó el valor de indemnización con su propietario Pedro Jorge Lagos Carrasco, ascendente a la cantidad de $12.638.048.
+
+Fiscal del Ministerio de Obras Públicas.
