@@ -1,0 +1,5 @@
+EXTRACTO DE EXPROPIACIONES
+
+Resolución 108, 13 mayo 1996, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Los Carrera N° 1100, Rol de Avalúo N° 340-28, comuna Concepción, superficie 145 m2. de terreno y 122 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-11029-340-28; de aparente dominio de Hortensia Manzano Coronado, para ejecución programa "Mejoramiento Eje Vial Los Carrera de Concepción", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 2 de mayo de 1996, fijó monto provisional indemnización en $22.395.000.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
