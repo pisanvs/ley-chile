@@ -1,0 +1,5 @@
+Por decreto MOP Nº 443, de 28 de febrero de 2002 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 143-2 para la obra "Concesión Internacional Ruta 5. Tramo Río Bueno - Puerto Montt. Sector: Ampliación Calle de Servicio Nº 47 Km.
+
+1.016,000 a Km. 1.016,500", Décima Región, que figura a nombre de Torres Rojas Arrian Horacio y Otro, rol de avalúo 1996-4, comuna de Puerto Montt, superficie 894 m2. La comisión de peritos integrada por los señores Enrique Edgardo Hoelck Altmann, Nelson Fabián Igor Flores y Nelson Bernardo Turra Turra, fijó con fecha 22 de noviembre de 2001, el valor provisional de la indemnización en la cantidad de $3.576.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
