@@ -1,0 +1,13 @@
+EXTRACTOS DE RESOLUCIONES
+
+Por resolución N° 638 de 6 de Junio de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a SOCIEDAD DE CULTIVO, EXPLOTACION, INDUSTRIALIZACION, TRANSPORTE Y COMERCIALIZACION DE RECURSOS HIDROBIOLOGICOS, FORESTALES Y AGROPECUARIOS, ALPEZMAR LIMITADA, R.U.T. N° 79.862.280-3, domiciliada en la ciudad de Ancud, para iniciar actividades pesqueras, en orden a instalar y operar una planta industrial ubicada en Villorrio Pudeto N° 8, ladera Sur del Río Pudeto, Ancud, donde podrá procesar en las líneas de elaboración de conserva, fresco-enfriado y congelado, los siguientes recursos hidrobiológicos: Frescoenfriado y Congelado: Albacora o pez espada, Bacalao de profundidad o Mero, Bonito, Brótula, Caballa, Cabrilla española, Cabrilla común, Cazón, Cojinoba del Norte, Cojinoba del Sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Corvinilla, Dorado, Jurel, Marrajo o tiburón, Merluza común, Merluza del Sur, Merluza de cola, Pejegallo, Pejerrey de mar, Raya, Róbalo, Salmón plateado, Salmón rey, Sardina común, Sardina, tollo y Trucha arcoiris. Conserva: Almeja o taca, Almeja, Calamar, Caracol locate, Caracol tegula, Caracol trumulco, Cholga, Chorito, Lapa, Macha, Navajuela, Ostión del Norte, Ostión del Sur, Ostra chilena, ostra del Pacífico, Pulpo, Camarón nailón, centolla, Centollón, Jaiba, Langostino amarillo, Picoroco, Erizo y Piure.
+
+Para elaborar los recursos Ostión del Norte, Centolla, Centollón, Langostino amarillo y Erizo, la interesada deberá acreditar su procedencia de zonas no afectas a restricción, mediante Guías de Libre Tránsito otorgadas por el Servicio Nacional de Pesca. Las especies Salmonídeas y Ostras del Pacífico, deberán provenir de centros de cultivo autorizados
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Deníegase la autorización solicitada por la peticionaria, para procesar en la planta industrial a que se refiere el presente Extracto, el recurso hidrobiológico Langostino colorado, de conformidad a lo establecido en el Decreto N° 421, de 1989, prorrogado por el Decreto N° 442, de 1990, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Deniégase asimismo, la autorización para procesar el recurso hidrobiológico Loco, conforme a lo dispuesto en el Decreto N° 126, de 1989, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 6 de Junio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
