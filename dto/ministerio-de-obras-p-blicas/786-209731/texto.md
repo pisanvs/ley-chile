@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°s. 786 y 793, ambos de 30 de Septiembre de 1996, se expropiaron los lotes de terreno N°s. 66-A, 66-B, 66-C, 66-D, 67, 68, 69, 70, 73, 74, 75, 76, 77 y 78, superficies 6.671, 28.639, 5.891, 4.810, 2.315, 6.134, 310, 234, 3.730, 630, 1.412. 3.138, 174 y 207 M2. respectivamente, roles de avalúos N°s. 315-133 y 316-22, comuna de Quirihue, para la obra Camino Cauquenes Límite Regional Quirihue, sector Cuesta y se acordó precio de indemnización con sus propietarios Forestal Quilpolemu S.A. y Isabel Aravena Bustos y otros, ascendentes a las cantidades de $10.731.772 y $1.094.478.
+
+Fiscal del Ministerio de Obras Públicas.
