@@ -6112,6 +6112,10 @@ Código Plaza Jurisdicción
 
 0808 Curacautín "
 
+0810 Lonquimay "
+
+0812 Galvarino "
+
 0816 Lautaro "
 
 0824 Carahue "
@@ -18266,7 +18270,7 @@ Quedarán sujetas a una provisión del 100% sobre el importe de los créditos o 
 
 2.2.- Provisiones globales.
 
-Deberá constituirse una provisión global equivalente al 100% del exceso, cuando la suma de las colocaciones e inversiones señaladas en los literales B), C), D), E) y F) del N° 1, exceda el 70% del patrimonio efectivo de la institución financiera.
+Deberá constituirse una provisión global equivalente al 100% del exceso, cuando la suma de las colocaciones e inversiones señaladas en los literales B), C), D), E) y F) del N° 1, exceda el 70% del patrimonio efectivo de la institución financiera. No obstante, podrá excederse ese límite sin constituir provisiones por ese motivo, cuando el exceso, hasta por un 70% del patrimonio efectivo, corresponda a inversiones financieras que cuenten con una clasificación igual o superior a las indicadas en el Anexo N° 2 de este Capítulo.
 
 Por otra parte, se constituirá una provisión global equivalente al 100% del exceso, cuando la suma de las operaciones señaladas en los literales D) y F) del N° 1, exceda el 20 % del patrimonio efectivo. No obstante, si la institución mantiene un índice de relación entre activos ponderados por riesgo y patrimonio efectivo igual o superior a un 10% según las normas del Capítulo 12-1 de esta Recopilación, esta provisión se constituirá por lo que exceda del 30% del patrimonio efectivo.
 
@@ -18275,6 +18279,12 @@ Los excesos antes mencionados deben determinarse en relación con el valor conta
 3.- Imputación contable.
 
 Las provisiones que deban constituirse en cumplimiento de las normas del presente Capítulo se registrarán en la cuenta "Provisiones por exigencias patrimoniales de operaciones en el exterior", de la partida 4120, con cargo a la cuenta del mismo nombre de la partida 5900.
+
+4.- Márgenes individuales para depósitos a plazo en bancos del exterior.
+
+Los depósitos a plazo tomados en un mismo banco del exterior, no podrán superar el 5% del patrimonio efectivo del banco depositante No obstante, al tratarse de bancos depositarios clasificados en una categoría de riesgo igual o superior a las que se indican en el Anexo N° 2 de este Capítulo, los depósitos en un mismo banco podrán alcanzar hasta el 30% del patrimonio efectivo.
+
+Estos márgenes individuales son sin perjuicio de los cómputos que para efectos de provisiones deben efectuarse en relación con las inversiones financieras en general, según lo previsto en los N°s. 1 y 2 de este Capítulo.
 
 ANEXO N°1
 
@@ -18312,21 +18322,31 @@ Condiciones.
 
 - Que se expresen y paguen en moneda extranjera.
 
-## Capítulo 12-13
-
-ANEXO N°1
-
-Pág. 2
-
 E) Inversiones financieras en instrumentos con clasificación de grado de inversión.
 
-Condiciones:
+Condiciones
 
-- Que correspondan a i) títulos de crédito emitidos o garantizados por Estados extranjeros, bancos centrales o entidades bancarias o financieras internacionales, o, u) bonos emitidos por empresas extranjeras
+- Que correspondan a i) títulos de crédito emitidos o garantizados por Estados extranjeros, bancos centrales o entidades bancarias o financieras internacionales; o, ii) bonos emitidos por empresas extranjeras
 
-- Que se transen en mercados secúndanos formales según lo definido en el Capítulo IIIF 3 del Compendio de Normas Financieras del Banco Central de Chile.
+- Que se transen en mercados secundarios formales según lo definido en el Capítulo IIIF 3 del Compendio de Normas Financieras del Banco Central de Chile
 
-- Que los instrumentos cuenten con una clasificación de nesgo para corto o largo plazo no inferior a las siguientes categorías.
+- Que los instrumentos cuenten con una clasificación de riesgo para corto o largo plazo no inferior a las siguientes categorías:
+
+.
+
+F) Inversiones financieras en instrumentos con otra clasificación.
+
+Condiciones
+
+Las mismas señaladas en la letra E), excepto en la clasificación, la que, pudiendo ser diferente al grado de inversión, no será inferior a las siguientes:
+
+.
+
+ANEXO N°2
+
+CLASIFICACION DE LAS INVERSIONES FINANCIERAS QUE PUEDEN SUPERAR EL LIMITE GENERAL PARA COLOCACIONES E INVERSIONES SIN CONSTITUIR PROVISIONES. HASTA UN 70% DEL CAPITAL BASICO.
+
+Para el efecto indicado en el numeral 2 2 de este Capítulo, las inversiones financieras deberán tener una clasificación igual o con riesgo inferior a las siguientes
 
 .
 
