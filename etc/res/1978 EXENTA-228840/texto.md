@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.978, de 23 de julio de 2004, de esta Subsecretaría, apruébase la solicitud presentada por SONIA DEL CARMEN SOTO RUIZ, para transferir la piscicultura ubicada en La Chalupa, río Negro, Hornopiren, X Región, autorizada por resolución Nº 2.785 de 2003, de esta Subsecretaría, a Pan Fish Chile S.A.
+
+Valparaíso, 23 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
