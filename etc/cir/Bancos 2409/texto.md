@@ -3824,7 +3824,7 @@ Para abrir y mantener cuentas de depósito a la vista conforme a las normas del 
 
 Las "Cuentas a la vista" tienen las siguientes características básicas:
 
-a) Son en moneda nacional y no devengan reajustes ni intereses.
+a) Son en moneda nacional y no devengan reajustes ni intereses. No obstante, los bancos podrán mantener cuentas a la vista en moneda extranjera, debiendo cumplirse las condiciones que se indican en el numeral 2.10 al tratarse de depositantes residentes en el exterior.
 
 b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o jurídicas.
 
@@ -3928,7 +3928,15 @@ Las cuentas de depósito que se trata, se incluirán en la cuenta "Cuentas a la 
 
 Las comisiones por el manejo de las cuentas se registrarán en la cuenta "Comisiones percibidas sobre cuentas a la vista", de la partida 7530, pudiéndose reconocer tales ingresos sólo una vez que se hayan cargado sus importes a las respectivas cuentas de los titulares.
 
-2.10.- Aplicación de otras disposiciones.
+2.10.- Cuentas abiertas a personas residentes en el exterior.
+
+Los bancos podrán abrir cuentas de depósito a la vista a personas naturales o jurídicas residentes en el exterior, prescindiendo del requisito de exigencia del Rol Unico Tributario (RUT) mencionado en el Capítulo 20-1 de esta Recopilación.
+
+La finalidad fundamental de estas cuentas, será atender pagos que su titular deba efectuar en Chile por diversos conceptos como, por ejemplo, gastos por la exploración de negocios en el país o aquellos previos a la iniciación de actividades.
+
+En todo caso, el banco que proceda a abrir una cuenta de esta naturaleza, deberá reunir y mantener los antecedentes mínimos que permitan identificar al titular de ella, su actividad, las condiciones convenidas bajo las cuales operará la cuenta y el objeto de la misma.
+
+2.11.- Aplicación de otras disposiciones.
 
 Las "Cuentas a la Vista" utilizadas para operar tarjetas de débito, quedan sujetas a las instrucciones complementarias señaladas en el Capítulo 2-15 de esta Recopilación Actualizada de Normas.
 
@@ -7030,7 +7038,7 @@ Bancos
 
 032 BANK OF AMERICA, NATIONAL ASSOCIATION
 
-033 CITTBANK N.A.
+033 CITIBANK N.A.
 
 035 BANCO SANTIAGO
 
@@ -7050,13 +7058,13 @@ Bancos
 
 045 THE BANK OF TOKYO-MITSUBISHI LTD.
 
-046 ABNAMRO BANK (CHILE)
+046 ABN AMRO BANK (CHILE)
 
-049 BANCO SECURITY
+049 BANCO SECURTTY
 
 051 BANCO FALABELLA
 
-504 BBV BANCO BHIF
+504 BBVA BANCO BHIF
 
 507 BANCO DEL DESARROLLO
 
