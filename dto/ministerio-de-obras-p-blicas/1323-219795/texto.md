@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.323 de fecha 31 de octubre de 2003, se expropiaron los lotes de terreno Nº s 54, 56, 58, 59, 60, 61, 62, 63, 64, 65, 67, 68 y 69-A, superficies 24.744, 26.699, 80, 19.682, 53.832, 1.953, 526, 382, 165, 1.695, 6.553, 270, 1.278 y 4.817,69 m2, respectivamente. Rol Nº 204-65, comuna de Cabildo, V Región para la obra "Camino Cabildo - Putaendo, Ruta E-41, Sector Guayacán - El Tártaro 1, Km. 22,400000 a Km. 48,50000" y se acordó el valor de indemnización con su propietario Sociedad Ganadera y Forestal La Unión Limitada, ascendente a la cantidad de $100.106.602.-
+
+Fiscal del Ministerio de Obras Públicas.
