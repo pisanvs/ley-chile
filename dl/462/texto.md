@@ -1,0 +1,1 @@
+Crea los cargos que indica en la planta del personal del Consejo de Defensa del Estado
