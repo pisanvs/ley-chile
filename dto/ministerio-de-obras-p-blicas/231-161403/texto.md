@@ -1,0 +1,3 @@
+Por decreto MOP Nº 231, de 31 de enero del 2000, se expropiaron los lotes de terreno Nºs. 234-1 y 235-1, superficies 1.835,0 m2. y 199,0 m2., rol de avalúo 220-20, comuna de Lanco, para la obra Concesión Internacional Ruta 5. Tramo: Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietario Ricardo Hugo Cortés Sánchez, ascendente a la cantidad total de $4.002.337.
+
+Fiscal del Ministerio de Obras Públicas.
