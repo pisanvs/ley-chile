@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.089, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº65, superficie 74 m², rol en trámite, comuna de San Francisco de Mostazal, para la obra "Camino Ruta Rol H-10, Sector Graneros - San Francisco de Mostazal, tramo Km. 0,000 a Km. 9,317", y se acordó el valor de indemnización con su propietario Alvaro del Carmen Prieto Urbina, ascendente a la cantidad de $456.196.-
+
+Fiscal del Ministerio de Obras Públicas.
