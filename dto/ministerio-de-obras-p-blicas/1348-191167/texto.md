@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.348, de 31 de agosto de 2001, se expropió el lote de terreno Nº 63-A, superficie 5.229 m², rol de avalúo 1545-178, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli By Pass Los Angeles, Octava Región y se acordó el valor de indemnización con su propietario Ernesto Rafael Correa Gatica, ascendente a la cantidad de $11.995.092.-
+
+Fiscal del Ministerio de Obras Públicas.
