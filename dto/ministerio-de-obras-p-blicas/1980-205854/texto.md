@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.980, de fecha 31 de octubre de 2002, se expropiaron los lotes de terreno Nº 139, 139-A, 139-B, 139-C, 139-F, superficies 563, 1.600, 13.785, 6.605 y 82 m2, rol de avalúo Nº 78-130, comuna de Galvarino, para la obra "Camino Ruta S-10, Sector Cruce Long. (Lautaro) - Galvarino, Tramo 0,000 al 34,50853, Subtramo IV Km. 18,000 al 25,837", IX Región, y se acordó el valor de la indemnización con su propietaria Ninette Nanny Naulin Zamponi, ascendente a la cantidad de $10.006.063.-
+
+Fiscal del Ministerio de Obras Públicas.
