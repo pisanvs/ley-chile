@@ -1,0 +1,3 @@
+Por resolución Nº 885 de 5 de Agosto de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por un año a contar de la fecha de la presente resolución, el plazo otorgado a SALMONES PUNTRA S.A., R.U.T Nº 96.524.770-K, domiciliada en la ciudad de Castro, para empezar a operar la embarcación en construcción autorizada por resolución Nº 463, de 1990, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 5 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
