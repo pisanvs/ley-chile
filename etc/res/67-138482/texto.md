@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA QUELLON LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 67, de 02 de Febrero de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción se autoriza a Pesquera Quellón Limitada, domiciliada en Santiago, para ampliar actividades pesqueras autorizadas en resolución No. 148, de 1986 y No. 378, de 1987, ambas de esta Subsecretaría, en orden a incorporar en los establecimientos de cultivo autorizados por resolución No. 378, citada, ubicados en La Fábrica, Estero de Castro, Comuna de Chonchi y en Punta Yoye, Estero Compu, Comuna de Quellón, X Región, las siguientes especies: Algas del género Gracilaria, ostión del norte, ostra chilena, choro zapato, chorito y cholga. Los recursos deberán provenir de centros de cultivo autorizados o del medio natural en conformidad a la legislación vigente. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 02 de Febrero de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
