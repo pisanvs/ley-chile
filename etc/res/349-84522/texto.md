@@ -1,0 +1,11 @@
+AUTORIZA A DON SEGUNDO NEIRA ALTAMIRANO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA
+
+Por Resolución No. 349, de 22 de Febrero de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción; se autoriza a don Segundo Neira Altamirano, RUT No. 6.684.109-k, domiciliado en la ciudad de Talcahuano, calle Diaguitas No. 620, Población La Gloria, Talcahuano, para iniciar actividades pesqueras extractivas, en orden a operar la embarcación "Magdalena III", en el litoral de las Regiones V y el paralelo 43° LS, donde podrá extraer los siguientes recursos hidrobiológicos: Albacora o pez espada, congrio dorado, congrio negro, merluza común, raya y machuelo o tritre. Asimismo, el interesado podrá extraer con la nave antes referida en el litoral de las Regiones V a VII y IX al paralelo 43° LS, los siguientes recursos hidrobiológicos: Anchoa o anchoveta, sardina común, sardina y jurel. Además, el peticionario podrá extraer con la nave señalada desde Punta Liles al Sur el recurso hidrobiológico: Bacalao de profundidad o mero.
+
+Deniégase la autorización solicitada por el peticionario para extraer con la nave "Magdalena" los recursos demersales, en el litoral comprendido al Sur del paralelo 43° LS y en aguas interiores de la X Región, atendido lo dispuesto en el Decreto No. 291, de 1989, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Asimismo, deniégase la autorización solicitada para capturar con la nave que se autoriza por la presente Resolución los recursos hidrobiológicos sardina común, sardina, jurel y anchoa en el litoral de la VIII Región de conformidad con lo establecido en el Decreto No. 436, de 1985 prorrogado por Decreto No. 363, de 1989, ambos del Ministerio de Economía, Fomento y Reconstrucción, vigente a la fecha de la solicitud.
+
+Finalmente, se deniega la autorización solicitada para capturar en el litoral comprendido desde Punta Liles al Norte el recurso hidrobiológico Bacalao de profundidad, en virtud de lo dispuesto en Decreto No. 439. de 1985, del Ministerio de Economía, Fomento y Reconstrucción. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 22 de Febrero de 1990.- Roberto Cabezas Bello, Subsecretario de Pesca.
