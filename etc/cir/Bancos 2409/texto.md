@@ -6710,19 +6710,17 @@ Los gastos de que se trata, se amortizarán a partir de la fecha de término de 
 
 En ningún caso se deberán diferir los gastos de reparaciones o mantenciones posteriores a la fecha en que se comiencen a usar las instalaciones.
 
-1.4. Gastos por desarrollo de sistemas computacionales para aplicaciones propias del giro.
+1.4. Gastos por desarrollo de sistemas computacionales.
 
-Los desembolsos efectuados para el desarrollo de sistemas computacionales se podrán diferir sólo si se cumplen, copulativamente, las siguientes condiciones:
+Los desembolsos efectuados para el desarrollo o adquisición de sistemas computacionales se podrán diferir sólo si se cumplen, copulativamente, las siguientes condiciones:
 
-a) Los gastos corresponden al desarrollo de un soporte lógico ("software") encargado por la institución financiera para su propio y único uso;
+a) Los gastos corresponden al desarrollo de "software" encargado por la institución financiera a terceros, incluida la adquisición de aplicaciones preexistentes que deban ser readecuadas a los requerimientos de la empresa;
 
-b) El desarrollo se efectúa sobre la base de un contrato que garantiza la utilización del "software";
+b) El desarrollo o adquisición se efectúa sobre la base de un contrato que garantiza el funcionamiento del "software";
 
-c) El "software" está destinado a aplicaciones propias del giro y no a mejorar procedimientos en funciones o controles que guardan directa relación con gastos de apoyo operacional, tales como remuneraciones, control del activo fijo, publicidad, etc., comunes a cualquier empresa; y,
+c) No se trata de adecuaciones a nuevos requerimientos de un sistema de la empresa que ya se encuentra en uso.
 
-d) No se trata de adecuaciones a nuevos requerimientos de un sistema que ya se encuentra en uso, ni de un desarrollo realizado con recursos humanos de la propia institución.
-
-Los costos que involucra la participación de la empresa en el desarrollo de un proyecto podrán ser diferidos, siempre que correspondan a costos directos plenamente identificados. No se deberán activar gastos de naturaleza habitual asignados al proyecto sobre la base de un prorrateo.
+Los costos que involucra la participación de la institución financiera en el desarrollo de un proyecto podrán ser diferidos, siempre que correspondan a costos directos plenamente identificados. No se deberán activar gastos de naturaleza habitual asignados al proyecto sobre la base de un prorrateo.
 
 Los gastos de que se trata deberán amortizarse dentro de un plazo máximo de tres años, a partir de la fecha en que se comience a aplicar el sistema desarrollado.
 
@@ -6730,7 +6728,7 @@ En el evento de rescindirse un contrato, de suspenderse el desarrollo de un sist
 
 Las indemnizaciones que pudieren percibirse por incumplimiento de contratos deberán contabilizarse, cuando corresponda, como un menor costo del desarrollo.
 
-Los montos pagados por la adquisición de sistemas o "software" operacionales básicos se considerarán parte de los equipos computacionales al cumplirse las condiciones que se señalan en el numeral 2.1 del Capítulo 11-5 de esta Recopilación Actualizada de Normas.
+Las inversiones en "software" preexistente de uso general, no desarrollado o reprogramado según requerimientos específicos de la institución financiera, se contabilizarán como activo fijo de acuerdo con las instrucciones de la letra c) del numeral 2.1 del Capítulo 11-5 de esta Recopilación Actualizada de Normas.
 
 1.5. Reconocimiento de indemnizaciones por años de servicio con efecto retroactivo.
 
@@ -16884,7 +16882,7 @@ a) Bienes físicos, muebles o inmuebles, de propiedad de la institución, con ex
 
 b) Bienes utilizados en virtud de contratos de "leasing financiero", cuando se cumplan las condiciones señaladas en el Capítulo 11-1 de esta Recopilación Actualizada de Normas.
 
-c) Sistemas o "software" operacionales básicos de los equipos computacionales de la institución, siempre que se cumplan copulativamente las dos condiciones siguientes: i) que se trate de los sistemas suministrados por el proveedor de los respectivos equipos; y, ii) que ellos sean imprescindibles para el funcionamiento de los equipos. Para los efectos de su registro contable y cálculo de depreciaciones, dichos montos pueden considerarse como parte del costo de los equipos adquiridos.
+c) Sistemas o "software" de equipos computacionales de la institución que correspondan a: i) los sistemas operativos básicos suministrados por el proveedor de los respectivos equipos, imprescindibles para su funcionamiento, los cuales pueden tratarse incorporándolos al costo de adquisición de los equipos; ii) que permitan optimizar el uso de los equipos o la eficiencia o seguridad de su funcionamiento; y iii) cualquier otro sistema o aplicación de uso general, es decir, que no correspondan a programas que deban ser ajustados o adecuados a la realidad de la empresa.
 
 d) Se incluirán también dentro del activo fijo físico, los derechos de la empresa sobre líneas telefónicas.
 
@@ -16910,7 +16908,7 @@ En el evento de realizarse un intercambio de bienes del activo fijo con otra emp
 
 ### 6. Depreciaciones
 
-Las depreciaciones se calcularán linealmente sobre la base de años de vida útil de los bienes. Con todo, los años de vida útil que se consideren no podrán ser superiores a los que hubiere fijado el Servicio de Impuestos Internos para los efectos de una depreciación tributaria normal.
+Las depreciaciones se calcularán linealmente sobre la base de años de vida útil de los bienes. Con todo, los años de vida útil que se consideren no podrán ser superiores a los que hubiere fijado el Servicio de Impuestos Internos para los efectos de una depreciación tributaria normal. Al tratarse de "software", el costo se amortizará durante un período máximo de tres años.
 
 Para contabilizar las depreciaciones, las instituciones financieras podrán optar entre utilizar la cuenta "Depreciaciones acumuladas" de la partida 2305, o rebajar directamente las depreciaciones mensuales del valor de los bienes corregido monetariamente, abonando las respectivas cuentas del activo. Las depreciaciones se registrarán mensualmente con cargo a la cuenta "Depreciaciones del activo fijo" de la partida 6260.
 
