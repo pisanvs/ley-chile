@@ -1,0 +1,3 @@
+Por resolución Nº560, de 24 de febrero de 2003, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº390 de 1995, Nº271 de 1998 y Nº142 de 2000, todas de esta Subsecretaría, que autorizaron a PESQUERA BALZAK S.A., para operar la nave "Sebastián I", en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 24 de febrero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
