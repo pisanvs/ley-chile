@@ -1,0 +1,3 @@
+Por resolución Nº 1.739, de 1º de diciembre de 1998, de esta Subsecretaría, modifícase la resolución Nº 17, de 1998, de esta Subsecretaría que autorizó a REINHARD HERMANN ZIMMERMANN ZEH para ampliar actividades pesqueras de transformación, en el sentido de agregar a las líneas de elaboración que ya tiene autorizadas la línea de Ahumado.
+
+Valparaíso, 1º de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
