@@ -3062,7 +3062,7 @@ Respecto de los valores que deben registrarse, se consideran las emisiones de lo
 
 En el caso de la emisión e inscripción en el Registro de Valores de las letras de crédito, las instituciones financieras deben ceñirse a lo dispuesto en el Capítulo 9-1 de esta Recopilación Actualizada de Normas. Para el registro de acciones y bonos, se atendrán a las disposiciones de los títulos II y III de este Capítulo.
 
-Este Organismo procederá a inscribir la emisión en el Registro de Valores y a entregar el correspondiente certificado de inscripción, previo examen y conformidad de los antecedentes que se acompañan a la solicitud que para tal efecto debe presentar la entidad emisora.
+Este Organismo procederá a inscribir la emisión en el Registro de Valores y a entregar el correspondiente certificado de inscripción, previo examen y conformidad de los antecedentes que se acompañan a la solicitud que para tal efecto debe presentar la entidad emisora. Entre los antecedentes adjuntos a la referida solicitud deben incluirse dos clasificaciones de riesgo de los títulos que se solicita inscribir, conforme a lo establecido en el artículo 8° bis de la Ley N° 18.045 sobre Mercado de Valores.
 
 Debe tenerse presente que, conforme a lo dispuesto en el artículo 6° de la Ley N° 18.045, no puede hacerse oferta pública de los valores mientras la emisión no se encuentre inscrita en el Registro de Valores.
 
@@ -3262,7 +3262,9 @@ e) Nombre de los intermediarios que efectuarán la colocación, cuando correspon
 
 f) Nombre del o los intermediarios que han participado en la elaboración del prospecto.
 
-g) En forma destacada y en letras mayúsculas, la siguiente leyenda:
+g) Dos clasificaciones de riesgo de los títulos ofrecidos, identificando a las firmas que han efectuado las evaluaciones.
+
+h) En forma destacada y en letras mayúsculas, la siguiente leyenda:
 
 "La Superintendencia de Bancos e Instituciones Financieras no se pronuncia sobre la calidad de los valores ofrecidos como inversión. La información contenida en este prospecto es de responsabilidad exclusiva del emisor [y del (de los) intermediario (s) que ha(n) participado en su elaboración]. El inversionista deberá evaluar la conveniencia de la adquisición de estos valores, teniendo presente que el o los únicos responsables del pago de los documentos son el emisor y quienes resulten obligados a ello.".
 
