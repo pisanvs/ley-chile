@@ -1,0 +1,1 @@
+Declara en reorganización la Dirección de Aprovisionamiento del Estado y fija las plantas y remuneraciones de sus funcionarios.
