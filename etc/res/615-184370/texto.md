@@ -1,0 +1,3 @@
+Por resolución Nº 615, de 10 de abril de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110408, presentada por AGUAS CLARAS S.A. para instalar y operar el centro de cultivo ubicado en sector oeste estero La Lobada, isla Melchor, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 10 de abril de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
