@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.943 de fecha 31 de octubre de 2002, se expropiaron los lotes de terreno Nºs. 123 y 125, superficie 215 y 366 m² respectivamente, Rol en Trámite, comuna de Pichidegua, VI Región para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, tramo Km. 12,30000 a Km. 26,00400" y se acordó el valor de indemnización con su propietario Santiago Arturo Tobar Guajardo, ascendente a la cantidad de $5.131.335.-
+
+Fiscal del Ministerio de Obras Públicas.
