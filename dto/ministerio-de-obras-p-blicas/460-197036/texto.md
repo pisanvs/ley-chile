@@ -1,0 +1,5 @@
+Por decreto MOP Nº 460, de 28 de febrero de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1 para la obra Camino Autopista Santiago - San Antonio, Sector: Segmento 3 Malloco - San Antonio. Tramo: Km. 34.520,00 al Km.
+
+34.840,00, Región Metropolitana, que figura a nombre de Gómez Gallo Carlos Roberto, rol de avalúo 507-643, comuna de Talagante, superficie 3.400 m2. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Maria Pilar Quiroga González y Marlene Teresa Ríos Marcuello, fijó con fecha 14 de diciembre de 2001, el valor provisional de la indemnización en la cantidad de $69.367.000.- La indemnización de pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
