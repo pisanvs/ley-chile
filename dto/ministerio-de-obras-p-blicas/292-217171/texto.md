@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 292, de 31 de mayo de 1995, se expiaron los lotes de terreno N°s. 1, 2, 3 y 4, superficies 6.500, 4.395, 385 y 1.030 m2., respectivamente roles de avalúos 1068-54, 1068-115, 1068-112 y 1068-54, comuna de Coyhaique, para la obra Camino Coyhaique Aeródromo Teniente Vidal y se acordó precio de indemnización con sus propietarios Elsa Bahamonde Osses, Maderas de Aysén S.A., ascendente a las cantidades de $4.015.373 y $3.273.828.
+
+Fiscal del Ministerio de Obras Públicas.
