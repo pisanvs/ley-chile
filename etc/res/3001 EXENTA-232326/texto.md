@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.001, de esta Subsecretaría, autorízase a la ASOCIACION GREMIAL DE PESCADORES ARTESANALES Y GREMIOS AFINES X REGION, para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Caicaén s/n, kilómetro 2,5, Calbuco, X Región, en las líneas de proceso de Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 20 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
