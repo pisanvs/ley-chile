@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 347, de 26 de Octubre de 1993, se expropió el lote de terreno N° 3, superficie 1.935,5 m2., rol de avalúo 109-64, comuna de Quilicura, para la obra Avda. Américo Vespucio, sector Avda. Américo Vespucio-Cruce Alborada (Acceso Quilicura) y se acordó el valor de indemnización con su propietaria Constructora Internacional S.A., ascendente a la cantidad de $29.046.568.-
+
+Fiscal del Ministerio de Obras Públicas.
