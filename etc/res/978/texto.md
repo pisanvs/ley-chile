@@ -1,0 +1,5 @@
+Por Resolución N° 978 de 26 de Noviembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por don MARIO KOSTESKY LEAL, R.U.T. N° 3.573.832-0, domiciliado en Arica, interior recinto portuario, para ampliar el plazo para operar la embarcación "Mauricio I", autorizada por Resolución N° 697, de 1987 y Resolución N° 1192, de 1991, ambas de esta Subsecretaría, en virtud de lo dispuesto en la letra b) del artículo 143, del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Cadúcase la Resolución N° 697, de 1987 y N° 1.192, de 1991, ambas de esta Subsecretaría sólo en cuanto autorizan a don Mario Kotesky Leal para operar la nave "Mauricio I", en virtud de lo señalado en la letra b) del artículo 143, del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de Noviembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
