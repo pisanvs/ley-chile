@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION TOTAL DE INMUEBLE QUE INDICA
+
+Alcaldesa I. Municipalidad de Providencia, mediante Decreto Alcaldicio Ex. N° 181 de 31 de Enero de 1996, dispone la expropiación total, conforme arts. 29 de la Ley 18.695 y 83 y 85 del DFL 458 de 1976 del Ministerio de la Vivienda y Urbanismo, que contempla la Ley General de Urbanismo y Construcciones, del inmueble de calle Padre Mariano N° 140, Rol de Avalúo 21-96, para dar cumplimiento al Plan Regulador Comunal de Providencia. Los deslindes del inmueble expropiado son los siguientes: Norte: en 42,80 mts. con Rol 21-97; Sur: en 42,80 mts. con Rol 21-95; Oriente: en 10,30 mts. con calle Padre Mariano y Poniente: en 10,30 mts. con Rol 21-15. Indemnización definitiva de M$100.000. fijada de común acuerdo con la propietaria, según fue determinada por la Comisión Tasadora, pagadera en dos cuotas iguales, la segunda de ellas una vez que se encuentre desocupado de todo ocupante, el inmueble expropiado.
+
+Carmen Grez de Anrique, Alcaldesa, firmado Josefina García Trías, Secretario Abogado Municipal.
