@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 596, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 15, superficie 100 M2, Rol de Avalúo Nº 2209-390, comuna de Chillán, para la obra ''Mejoramiento Ruta N-45, Sector Variante Cato, 0,00000 a Km. 4,15551'', VIII Región y se acordó el valor de indemnización con su propietaria Haydée del Carmen Alvarez Parra, ascendente a la cantidad de $300.900.-
+
+Fiscal del Ministerio de Obras Públicas.
