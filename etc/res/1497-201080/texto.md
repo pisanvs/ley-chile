@@ -1,0 +1,3 @@
+Por resolución Nº 1.497, de 24 de julio de 2002, de esta Subsecretaría, autorízase a PESQUERA ITATA S.A., para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 984 de 1986, Nº 671 de 1992 y Nº 1.136 de 1999, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Avenida Pedro Montt Nº 704, San Vicente, Talcahuano, VIII Región, en las líneas de elaboración de Harina y Aceite, los siguientes recursos hidrobiológicos: Merluza de cola, Merluza de tres aletas, Bacaladillo o mote, Jurel fino, Machuelo o tritre, Anchoveta blanca, Sardina redonda, Vinciguerria.
+
+Valparaíso, 24 de julio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
