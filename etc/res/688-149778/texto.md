@@ -1,0 +1,5 @@
+AUTORIZA A DON JUAN ANTONIO PINOCHET CACERES Y DON ARNOLDO ENRIQUE PINOCHET CACERES PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 688, de 09 de Julio de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Juan Antonio Pinochet Cáceres, cédula de identidad No. 7.336.432-9 de Constitución y don Arnoldo Enrique Pinochet Cáceres, cédula de identidad No. 8.360.513-8 de Constitución, domiciliados en Constitución, para iniciar actividades extractivas con la embarcación "Rescator" con la que podrán extraer del litoral comprendido entre las regiones II a VII los siguientes recursos hidrobiológicos: bacalao o mero, congrio dorado, congrio negro y albacora. Con todo, el recurso bacalao o mero sólo podrá extraerse en el litoral comprendido entre el paralelo 32°45'40"S y el de la VII Región.
+
+Valparaíso, 09 de Julio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
