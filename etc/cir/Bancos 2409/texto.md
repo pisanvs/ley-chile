@@ -10374,7 +10374,7 @@ Cuando las inversiones de esa especie deban ser ajustadas a su valor de mercado 
 
 7.4.3.1.- Condiciones para la aplicación de la modalidad de ajuste.
 
-a) Podrán ajustarse siguiendo la modalidad de que se trata, los siguientes instrumentos: pagarés del Banco Central de Chile; documentos del Instituto de Normalización Previsional(INP); instrumentos emitidos por entidades extranjeras o internacionales y letras de crédito emitidas por otros bancos. Además, podrán ajustarse siguiendo esta modalidad los bonos emitidos por empresas chilenas, colocados en el país o en el exterior, que cumplan las siguientes condiciones, i) que el emisor tenga una clasificación de nesgo no inferior a "grado de inversión"; y, n) que se transen en el mercado bursátil nacional y/o en Bolsa de Valores de países que cuenten con una categoría de nesgo soberano no inferior a "AAA" para instrumentos de largo plazo. Por último, también podrán ser ajustadas siguiendo la modalidad de que se trata, las letras de crédito de propia emisión, siempre que el valor, a precio de mercado, de las letras que se sujeten a ese procedimiento no supere el 10% del capital básico.
+a) Podrán ajustarse siguiendo la modalidad de que se trata, los siguientes instrumentos: pagarés del Banco Central de Chile o de la Tesorería General de la República; documentos del Instituto de Normalización Previsional(INP); instrumentos emitidos por entidades extranjeras o internacionales y letras de crédito emitidas por otros bancos o de propia emisión. Además, podrán ajustarse siguiendo esta modalidad los bonos emitidos por empresas chilenas, colocados en el país o en el exterior, que cumplan las siguientes condiciones, i) que el emisor tenga una clasificación de nesgo no inferior a "grado de inversión"; y, n) que se transen en el mercado bursátil nacional y/o en Bolsa de Valores de países que cuenten con una categoría de nesgo soberano no inferior a "AAA" para instrumentos de largo plazo.
 
 b) La institución financiera deberá conformar la cartera que quedará sujeta a este tratamiento contable y que se denominará "cartera permanente". En todo caso, la incorporación de los instrumentos elegidos para esta cartera, no obsta a su eventual enajenación.
 
@@ -10392,7 +10392,7 @@ Los instrumentos que se traspasen a la cartera permanente, esto es, aquellos que
 
 7.4.3.3.- Cómputo del capital básico.
 
-Conforme a lo establecido en el Capítulo 12-1 de la Recopilación Actualizada de Normas, el saldo deudor o acreedor de la cuenta "Fluctuación de inversiones financieras" antes mencionada debe computarse para determinar el capital básico.***B****
+Conforme a lo establecido en el Capítulo 12-1 de la Recopilación Actualizada de Normas, el saldo deudor o acreedor de la cuenta "Fluctuación de inversiones financieras" antes mencionada debe computarse para determinar el capital básico.
 
 7.4.3.4.- Sucursales en el exterior.
 
