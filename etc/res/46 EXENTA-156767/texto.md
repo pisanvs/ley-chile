@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 46 de 17 de Enero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcional. es que corresponden a Reserva, Derechos de Adquisición y Sector expropiado de los predios "Resto del Fundo El Progreso", y "Resto del predio rústico El Cóndor" de la comuna de Quillota, V Región, y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 24, sitios N°s. 1 al 15 y Reserva CORA N° 2, del Proyecto de Parcelación "El Cóndor", formado por los predios señalados. Los derechos de agua se extraen del Canal Candelaria y Pozos N°s. 1-2 y 3.-Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
