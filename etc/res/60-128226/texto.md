@@ -1,0 +1,3 @@
+Por resolución Nº 60, de 3 de diciembre de 1998, Serviu XII Región Magallanes y Antártica Chilena dispuso expropiación total, conforme al decreto ley 1.523, de 1976, decreto supremo 140, de Vivienda y Urbanismo, de 1991 y decreto ley 2.186, de 1978, de inmueble ubicado en Punta Arenas, calle 21 de Mayo Nº 2687, Rol de Avalúo Nº 1393-006, de aparente dominio de don Hernán Oyarzo Oyarzo. Comisión tasadora integrada por Sres. José Subiabre Aguilar, José Barría Bonacic y Sra. Jeannette Morís Torres, todos arquitectos, fijó monto provisional indemnización, según informe de fecha 26 de junio de 1998, en $38.980.529.-, que será pagada al contado.-
+
+Paulino Arellano Orias, ingeniero constructor, Director Servicio de Vivienda y Urbanización o Serviu XII Región, Subrogante.
