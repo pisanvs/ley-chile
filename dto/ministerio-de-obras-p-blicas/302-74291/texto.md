@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 302, de 31 de marzo de 1997, se dejo sin efecto la expropiacón de lotes N°s. 1, 2,3,4 y 5, ubicados en el sector de Coquimbito, comuna de Los Andes, expropiados originalmente para la obra Terminal de Aduanas-Los Andes, sector Coquimbito, comuna de Los Andes, V Región, cuya expropiación fue ordenada por el Decreto MOP N° 422 de 30 de noviembre de 1993, modificado por el Decreto MOP N° 776, de 18 de diciembre de 1995.
+
+Fiscal del Ministerio de Obras Públicas.
