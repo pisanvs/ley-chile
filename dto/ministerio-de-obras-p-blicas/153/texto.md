@@ -1,0 +1,3 @@
+Por Decreto MOP N° 153, de 29 de Abril de 1994, se expropiaron los lotes de terreno N°s. 2 y 7, superficies 270 m2. y 698 m2., roles de avalúo 5-86 y 5-90, comuna de María Pinto, para la obra Camino Lolenco-María Pinto, Cruce El Redil-María Pinto, Ruta G-734, y se acordó el valor de indemnización con sus propietarios Jacques Simian Lasserre y Elías Jacob Helo, ascendente a las sumas de $197.654.- y $407.395.-
+
+Fiscal del Ministerio de Obras Públicas.
