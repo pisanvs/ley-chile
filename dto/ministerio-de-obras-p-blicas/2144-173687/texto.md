@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.144, de 29 de mayo del 2000, se expropiaron los lotes de terreno Nºs 1 y 3, superficies 750 y 1.215 m² respectivamente, rol de avalúo 840-10, comuna de Vallenar, para la obra Proyecto Mejoramiento Canales Tercera Sección Valle Río Huasco Sifón Buena Esperanza Sifón Imperial Alto y se acordó precio de la indemnización con su propietario Fernando Franco Palmarola, ascendente a la cantidad de $423.300, para los lotes N°s. 1 y 3.-
+
+Fiscal del Ministerio de Obras Públicas.
