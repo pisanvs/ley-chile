@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 145 de 08 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a Sector excluido y Sector expropiado predio "Hijuela Cuarta de Picoltué o Coronado" de la comuna de Mulchén, VIII Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1 y 2 del Proyecto de Parcelación "Nuevo Chile" formado en parte por predio señalado. Los derechos de agua se extraen del Canal Coronado que se saca del río Bureo.Publicación hecha confórme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
