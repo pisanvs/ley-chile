@@ -1,0 +1,3 @@
+Por Decretos MOP. Nos. 255 y 261, de 26 y 31 de agosto de 1993, se expropiaron los lotes de terreno N°s. 1 y 3, superficies 12.240 m2. y 21.420m2., roles de avalúo 122-7 y 118-21, Comuna de Pencahue, para la obra Regadío Pencahue, Sifón San Manuel y se acordó precio de indemnización con sus propietarios Margarita Contardo Andrade y Raquel Fuenzalida Correa y otra, ascendente a las cantidades de $ 708.750.- y $ 1.886.535.-
+
+Fiscal del Ministerio de Obras Públicas.
