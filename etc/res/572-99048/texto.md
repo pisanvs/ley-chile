@@ -1,0 +1,3 @@
+Por resolución Nº 572, de 24 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a CORNELIO RIVERA MORALES, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en sitio 1, sector Norte Taltal, II Región, donde podrá procesar, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Picado y Secado de Algas: Cochayuyo, Cotoni, Chasca, Chascón, Chicorea de mar, Huiro, Luche, Luga-Luga y Pelillo.
+
+Valparaíso, 24 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
