@@ -1,0 +1,1 @@
+Declara en reorganización la Casa de Moneda de Chile y fija las plantas y remuneraciones de sus funcionarios.
