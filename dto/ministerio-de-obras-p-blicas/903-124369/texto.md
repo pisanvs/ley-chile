@@ -1,0 +1,5 @@
+Por decreto MOP. No. 903, de 30 de junio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. No. 850, de 1997, que fijó el texto actualizado de la Ley No.
+
+15.840 y del DFL. No. 206 de 1960, se expropió el lote de terreno No. 1, para la obra Camino Autopista Santiago - San Antonio, Sector Plaza de Pesaje El Monte, Km. 19.049,20 al Km. 19.819,70, Región Metropolitana, que figura a nombre de Muñoz Villar Eliodoro, Rol de Avalúo 510-10, de la Comuna de Talagante, superficie 298 m2. La comisión de peritos integrada por los Sres. Livio Sergio Rojas Ibáñez, Carlos Gárces Fernández y Carlos del Pedregal Sánchez, fijó con fecha 16 de enero de 1998, el valor provisional de la indemnización en la cantidad de $ 1.976.220.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
