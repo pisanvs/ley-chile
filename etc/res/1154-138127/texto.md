@@ -1,0 +1,3 @@
+Por resolución Nº 1.154, de 17 de junio de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº95110294, presentada por LUIS ARTURO MIRANDA GARAY, para operar un centro de cultivo al Este de Isla Orestes, Canal Ñancul, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 17 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
