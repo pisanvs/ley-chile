@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 358, de 28 de octubre de 1993, se expropiaron los lotes de terreno N°s 1 y 2, superficies 210 M2 y 225 M2., rol de avalúo 199-6, Comuna de San Vicente de Tagua-Tagua, para la obra Pasarela Peatonal La Orilla, Camino Pencahue-Orilla por Lo Mena y se acordó precio de indemnización con su propietario Dimas Cornejo González, ascendente a la cantidad de $494.384.
+
+Fiscal del Ministerio de Obras Públicas.
