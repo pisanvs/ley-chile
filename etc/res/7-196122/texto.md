@@ -1,0 +1,3 @@
+Por resolución Nº7, de 4 de enero de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Coliumo, Sector A, VIII Región, individualizada en el artículo 1º Nº2 del DS Nº729 de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES DE LA CALETA COLIUMO.
+
+Valparaíso, 4 de enero de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
