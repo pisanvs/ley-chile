@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 384 de fecha 27 de febrero de 2004, se expropió el lote de terreno Nº 124, superficie 20 m2, rol Nº 502-278, comuna de Retiro, para la obra "Camino Ruta L-75 - Sector El Ajial - Las Camelias Tramo Km. 6,320.00 a Km. 23,400.00", VII Región y se acordó el valor de la indemnización con su propietario Filomena Guzmán Núñez, ascendente a la cantidad de $231.616.
+
+- Fiscal del Ministerio de Obras Públicas.
