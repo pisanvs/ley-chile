@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.419, de 29 de octubre de 1999, se dejó sin efecto la expropiación del lote Nº 3-A, que figura a nombre de Carlos Palma Quezada, rol de avalúo Nº 159-96, comuna de Pemuco, superficie 5.046 M2, para la obra Proyecto Laja Diguillín Area de Riego Pemuco Canal Valle Hermoso Prolongación, aprobada por el decreto el MOP Nº 377 de 31 de marzo de 1998.
+
+- Fiscal del Ministerio de Obras Públicas.
