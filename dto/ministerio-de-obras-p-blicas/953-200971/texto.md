@@ -1,0 +1,3 @@
+Por decreto MOP Nº953, de 28 de junio del 2002, se expropiaron los lotes de terreno Nºs 15-2, 15-3, 15-4, 15-5 y 15-6, superficies 195, 864, 865, 725 y 108 m2, rol de avalúo 107-51, comuna de Curacaví, para la obra Concesión Internacional Vial Santiago - Valparaíso Viña del Mar. Tramo 7B, Kms. 50.950,00 al 52.200,00 Región Metropolitana y se acordó el valor de indemnización con su propietaria Laura de las Mercedes González González, ascendente a la cantidad de $7.426.830.- para los lotes Nºs 15-2, 15-3, 15-4, 15-5 y 15-6.-
+
+Fiscal del Ministerio de Obras Públicas.
