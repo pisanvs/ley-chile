@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.733, de 28 de agosto de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº1-B para la obra:
+
+''Concesión Internacional Ruta 5. Tramo Collipulli - Temuco. Km. 697,97110 A Km. 699,04110, Novena Región, que figura a nombre de Inmob. e Inversiones Allipén Ltda., rol de avalúo 311-129, comuna de Freire, superficie 1.143 m2. La comisión de peritos integrada por los señores, Yaschala Maribel Yáñez Riffo, Pablo Alex Mansilla Aravena y Patricio Fernando Casagrande Ulloa, fijó con fecha 31 de mayo de 2000, el valor provisional de la indemnización en la cantidad de $10.909.750.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
