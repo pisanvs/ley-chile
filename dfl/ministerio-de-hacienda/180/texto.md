@@ -1,0 +1,1 @@
+Fija la planta del personal de la Caja de Previsión de Empleados Particulares y modifica su presupuesto para el año 1953.
