@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.633, de 30 de noviembre de 1999, se expropió el lote de terreno Nº 19-4, superficie 208,375 m2., rol de avalúo 303-2, comuna de Ercilla, para la obra Concesión Internacional Ruta 5, Tramo Collipulli-Temuco, Novena Región y se acordó el valor de indemnización con su propietaria Hilda del Carmen Bravo Sepúlveda, ascendente a la cantidad de $1.141.597.-
+
+Fiscal del Ministerio de Obras Públicas.
