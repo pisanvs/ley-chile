@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.254, de 27 de agosto de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº64, para la ejecución de la obra "Camino San Fernando-Roma Rol I-301, I-255, I-151, Km. 0,000-Km. 10,954264", que figura a nombre de Carmelo Calvera Flores, rol de avalúo Nº285-34, comuna de San Fernando, VI Región, superficie 127 m². La comisión de peritos fijó con fecha 20 de septiembre de 2000, la indemnización provisional en la cantidad de $2.983.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
