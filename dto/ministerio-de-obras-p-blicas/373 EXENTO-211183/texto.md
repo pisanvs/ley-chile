@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº373 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº24-A, superficie 180,00 m², Rol de Avalúo Nº2207-7, comuna de Osorno, X Región para la obra "Camino Ruta U-72, Sector Osorno-Huilma, Km. 0,00000 al Km. 18,10000, Provincia de Osorno" y se acordó el valor de indemnización con su propietario Sergio Alberto González Martínez, ascendente a la cantidad de $343.060.-
+
+Fiscal del Ministerio de Obras Públicas.
