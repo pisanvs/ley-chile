@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 827, de 18 de junio de 2001 y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para la Empresa de Servicios Sanitarios de Coquimbo S.A., el lote de terreno Nº 11, para la obra Alcantarillado de La Serena Colector Estructural Avenida El Santo, que figura a nombre de Jorge Armando Alday Arana y Ot., rol de avalúo 167-16, superficie 19.5 m², comuna de La Serena. La Comisión de peritos, con fecha 29 de mayo de 2000, fijó la indemnización provisional en la cantidad de $360.321, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
