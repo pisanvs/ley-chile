@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 65, de fecha 25 de febrero de 1993, se expropiaron los lotes de terreno N°s. 5 y 8, superficies 565 M2. y 2.845 M2., rol de avalúo 35-101, Comuna de Requínoa, para la obra Mejoramiento Camino Requínoa El Abra Rol H-450, H-418 y se acordó el valor de indemnización con su propietario Carlos Bustamante López, ascendente a la cantidad de $4.215.253.-
+
+Fiscal del Ministerio de Obras Públicas.
