@@ -4236,6 +4236,82 @@ El artículo 14 del D.L. N° 2.099, dispone que transcurrido el plazo de caducid
 
 Los desembolsos a que se refiere esta norma son aquellos que deriven de los gastos que origine la publicación en el Diario Oficial de las acreencias sujetas a esa obligación.
 
+CAPITULO 2-15 (Bancos)
+
+MATERIA:
+
+TARJETAS DE DEBITO.
+
+### 1. Emisión y operación de tarjetas de débito
+
+De conformidad con lo dispuesto en el Capítulo III.J.2 del Compendio de Normas Financieras del Banco Central de Chile, las tarjetas de débito sólo pueden ser emitidas por bancos establecidos en el país.
+
+Según esas normas, se entiende por "tarjeta de débito", cualquiera tarjeta u otro documento que identifica a su titular con su emisor y que "sea utilizada como instrumento de pago en la red de establecimientos afiliados al sistema que cuenten con dispositivos electrónicos que operen con captura en línea de las transacciones y que los montos correspondientes sean debitados inmediatamente en la cuenta corriente del Titular y acreditados en la cuenta corriente del beneficiario, sólo si dichas transacciones son autorizadas y existen fondos suficientes".
+
+Los bancos emisores de tarjetas de débito podrán operar por sí mismos las tarjetas que emitan, o bien, contratar su operación con uno o más operadores autorizados para el efecto por el Banco Central de Chile. En todo caso, para emitir tarjetas de débito y para operar sus propias tarjetas, las empresas bancarias no requieren de una autorización previa por parte del Banco Central de Chile.
+
+### 2. Contratos que deben suscribirse entre las diferentes partes
+
+2.1. Contrato de los emisores con los titulares de tarjetas de débito.
+
+Los bancos emisores de tarjetas de débito, deberán suscribir con cada titular de dichos documentos, un "Contrato de Afiliación al Sistema y Uso de la Tarjeta", de acuerdo con las disposiciones del Título V del Capítulo III.J.2 del Compendio de Normas Financieras del Banco Central de Chile.
+
+El contrato se entenderá perfeccionado sólo una vez que el banco haya entregado la tarjeta de débito a su titular y un ejemplar del contrato suscrito por él. El banco deberá mantener los medios que prueben la entrega de dichos documentos.
+
+2.2. Contratos de los emisores u operadores con los establecimientos afiliados.
+
+Los bancos o los operadores, cuando actúen por cuenta de ellos o a su propio nombre, celebrarán contratos con los establecimientos afiliados que se comprometan a vender bienes o prestar servicios a los titulares de sus tarjetas.
+
+La responsabilidad de pago a los establecimientos en los plazos convenidos en el contrato, recaerá sobre el banco emisor o en el operador, cuando éste actúe a su propio nombre en la afiliación de los establecimientos adheridos al sistema.
+
+En los referidos contratos deberán quedar debidamente especificadas las demás obligaciones que asumen las partes, ajustándose a las normas contenidas en el Título VI del Capítulo III.J.2 del Compendio de Normas Financieras del Banco Central de Chile.
+
+2.3. Contratos del emisor con el operador.
+
+Los emisores de tarjetas de débito que encarguen la administración a algún operador autorizado para el efecto por el Banco Central de Chile, deberán suscribir un contrato con éste, en el que se dejarán claramente establecidos los actos que constituyen dicha administración y las obligaciones que emanan de ella y que contraen ambas partes, de conformidad con lo dispuesto en el Título VII del Capítulo III.J.2 del Compendio de Normas Financieras del Banco Central de Chile.
+
+Además, deberá especificarse en forma expresa en tales contratos la pertenencia de la propiedad de las bases de datos generadas con motivo de los procesos administrativos de las tarjetas de débito, y la prohibición de su uso o de la información que de ellos puede obtenerse por personas distintas del emisor y del operador.
+
+Igualmente, deberá dejarse establecida la responsabilidad de la empresa operadora por la adecuada mantención de los archivos con el registro de las operaciones procesadas, así como de los documentos que respaldan esas transacciones.
+
+### 3. Tarjetas de débito
+
+3.1. Características y tipos de tarjetas de débito.
+
+Las tarjetas de débito son intransferibles y deben emitirse a nombre de su titular, conteniendo la información mínima establecida en el Título VIII del Capítulo III.J.2 del Compendio de Normas Financieras del Banco Central de Chile.
+
+Las tarjetas pueden ser utilizadas físicamente para otros propósitos, pudiendo constituir, a la vez, una tarjeta de crédito, o ser utilizada como tarjeta bancaria para la operación de otros dispositivos electrónicos diferentes a un punto de venta.
+
+Conforme también a lo señalado en el Título VIII del Capítulo III.J.2 antes mencionado, el Emisor u Operador deberá mantener informado a los establecimientos afiliados acerca de los tipos o grupos de tarjetas que por cualquier causa dejen de utilizarse, a fin de evitar eventuales confusiones.
+
+3.2. Pérdida, hurto, robo o falsificación.
+
+Las disposiciones del referido Título VIII del Capítulo III.J.2 del Compendio de Normas Financieras del Banco Central de Chile establecen la responsabilidad del Emisor en el funcionamiento de los sistemas de información y bloqueo que le permitan al titular o usuario evitar que se produzcan eventuales transacciones no autorizadas como consecuencia de extravío, hurto, robo o eventual falsificación de su tarjeta.
+
+Los titulares u otros usuarios autorizados deberán contar para el efecto con canales de comunicación expeditos, los que deben operar durante las 24 horas del día, sea este hábil o inhábil.
+
+Como sea, el sistema que se utilice deberá permitir un bloqueo computacional de la tarjeta en la forma más rápida posible, frente a comunicaciones por vía telefónica u otra similar mediante la cual el usuario informe de su pérdida, hurto o robo, o solicite dicho bloqueo por cualquier motivo.
+
+### 4. Transferencia de fondos originadas por las transacciones
+
+Los importes de las transacciones efectuadas mediante tarjetas de débito deben cargarse directamente en las cuentas corrientes bancarias de los titulares, para abonarlas a las cuentas que correspondan de acuerdo con los contratos suscritos.
+
+Una cuenta corriente podrá ser girada mediante el uso de tarjetas de débito, sólo si existen fondos disponibles al momento de la transacción, considerando para ese efecto todas las imputaciones efectuadas cronológicamente en la cuenta corriente, incluido el procesamiento del canje según se establece en el N° 2 del título V del Capítulo 5-1 de esta Recopilación.
+
+Los emisores informarán a los titulares de tarjetas de débito mediante las cartolas de sus respectivas cuentas corrientes, en las que deberán incluir el detalle de las transacciones realizadas, con expresa indicación del beneficiario final de cada pago, esto es, el nombre del establecimiento afiliado.
+
+En todo caso, los sistemas para los traspasos de fondos que se originan por el uso de las tarjetas de débito, deben ceñirse a las instrucciones generales sobre transferencias electrónicas de fondos que ha establecido esta Superintendencia, contenidas en el Capítulo 1-7 de esta Recopilación Actualizada de Normas.
+
+### 5. Comisiones pagadas a los operadores
+
+Las comisiones que paguen los bancos a las empresas operadoras de sus tarjetas de débito, se registrarán en la cuenta "Comisiones por administración de tarjetas", de la Partida 5530.
+
+### 6. Tarjetas de débito emitidas en el exterior
+
+Las empresas bancarias podrán actuar como mandatarias de un emisor de tarjetas de débito situado en el exterior, siempre que cuenten con la autorización del Banco Central de Chile para el efecto.
+
+En tal calidad, les corresponderá efectuar los pagos a los establecimientos afiliados, por cuenta de su mandante, quien en todo caso, es responsable del pago.
+
 CAPITULO 3-1 (Bancos y Financieras)
 
 MATERIA:
@@ -7006,13 +7082,13 @@ TARJETAS DE CREDITO.
 
 De conformidad con las disposiciones del Capítulo III.J.l del Compendio de Normas Financieras del Banco Central de Chile, los bancos y las sociedades financieras que deseen emitir tarjetas de crédito deberán contar previamente con la autorización del Instituto Emisor para tal efecto, publicada en el Diario Oficial.
 
-Se entiende por "tarjeta de crédito", cualquier documento que le permita a su titular o usuario adquirir bienes o servicios en establecimientos afiliados al correspondiente sistema, sin perjuicio de las prestaciones adicionales al titular.
+Se entiende por "tarjeta de crédito", cualquier documento que le permita a su titular o usuario disponiendo de un crédito del emisor, adquirir bienes o servicios en establecimientos afiliados al correspondiente sistema, sin perjuicio de las prestaciones adicionales al titular.
 
 La autorización respectiva deberá ser solicitada al Banco Central de Chile para cada marca de tarjetas de crédito. El Instituto Emisor puede denegar la autorización sin expresión de causa.
 
 Los bancos y las sociedades financieras podrán operar por sí mismos las tarjetas que emitan, o bien, contratar la operación total o parcial de las mismas con una o más entidades que se encuentren, a su vez, autorizadas por el Banco Central de Chile para actuar como operadores de ellas.
 
-Las instituciones financieras podrán actuar como operadores solamente respecto de las tarjetas de crédito que sean de su propia emisión. Para los efectos de estas normas, se entiende que una institución financiera no actúa en calidad de operador en los siguientes casos: i) cuando paga a los establecimientos comerciales las adquisiciones de bienes o servicios efectuadas mediante tarjetas de la misma marca, pero emitidas por otra entidad emisora del país o del extranjero; o, ii) cuando un banco actúa, con la autorización del Instituto Emisor, como mandatario de un emisor de tarjetas de Crédito situado en el extranjero.
+Las instituciones financieras podrán actuar como operadores solamente respecto de las tarjetas de crédito que sean de su propia emisión. Para los efectos de estas normas, se entiende que una institución financiera no actúa en calidad de operador en los siguientes casos: i) cuando paga a los establecimientos comerciales las adquisiciones de bienes o servicios efectuadas mediante tarjetas de la misma marca, pero emitidas por otra entidad emisora del país; o, ii) cuando un banco actúa, con la autorización del Instituto Emisor, como mandatario de un emisor de tarjetas de Crédito situado en el extranjero.
 
 ### 2. Contratos que deben suscribirse entre las diferentes partes
 
@@ -7025,8 +7101,6 @@ El contrato se entenderá perfeccionado sólo una vez que la Institución haya e
 2.2. Contratos de los emisores u operadores con los establecimientos afiliados.
 
 Las instituciones financieras o los operadores cuando actúen por cuenta de ellas o a su propio nombre, celebrarán contratos con los establecimientos afiliados que se comprometan a vender bienes o prestar servicios a los titulares de sus tarjetas.
-
-En esos contratos deberá incluirse la obligación de los establecimientos de aceptar las tarjetas de la entidad emisora en particular o también las de otros emisores de tarjetas que sean de la misma marca, lo cual deberá quedar expresamente convenido.
 
 La responsabilidad de pago a los establecimientos en los plazos convenidos que se establece en el contrato, recaerá sobre la institución financiera emisora o en el operador, cuando éste actúe a su propio nombre en la afiliación de los establecimientos adheridos al sistema.
 
@@ -7046,7 +7120,7 @@ El emisor u operador, según el caso, deberá establecer un procedimiento adecua
 
 3.3. Información de tarjetas que se dejen son efecto.
 
-El emisor u operador, según corresponda, deberá mantener los medios y establecer los procedimientos adecuados para informar a los establecimientos afiliados la individualización de las tarjetas de crédito que se dejen sin efecto antes de la fecha de su vencimiento, como asimismo de toda tarjeta que, por cualquier causa, no se pueda utilizar.
+El emisor u operador, según corresponda, deberá mantener los medios y establecer los procedimientos adecuados para informar a los establecimientos afiliados, la individualización de las tarjetas de crédito que se dejen sin efecto por una causa distinta a la expiración del plazo de vigencia indicado en ellas.
 
 3.4. Seguro por mal uso de la tarjeta.
 
@@ -7118,13 +7192,13 @@ Las utilizaciones que de sus tarjetas de crédito hagan los usuarios de éstas, 
 
 Por consiguiente, al vencimiento de dichos estados o al momento del pago a los establecimientos comerciales o al operador, según corresponda, se registrarán las obligaciones de los titulares,en moneda chilena o extranjera, de acuerdo a las siguientes instrucciones:
 
-Debe: "Créditos a titulares de tarjetas de crédito" de la partida 1115 "Préstamos de consumo", del MB1.
+Debe: "Créditos a titulares de tarjetas de crédito" de la partida 1115, o bien en una cuenta de la partida 1110, si se trata de deudas de empresas.
 
 Haber: "Utilizaciones de tarjetas de crédito por cobrar".
 
 5.4. Intereses.
 
-En concordancia con las normas generales sobre la materia, los intereses que devenguen los créditos a los titulares de las tarjetas de crédito deberán registrarse en la cuenta "Intereses de créditos a titulares de tarjetas de crédito" de la partida 7110 ó 7115 de l MR1, con cargo a la correspondiente cuenta complementaria de intereses por cobrar*.
+En concordancia con las normas generales sobre la materia, los intereses que devenguen los créditos a los titulares de las tarjetas de crédito deberán registrarse en la cuenta "Intereses de créditos a titulares de tarjetas de crédito" de la partida 7110 ó 7115, con cargo a la correspondiente cuenta complementaria de intereses por cobrar.
 
 5.5. Avances en efectivo y compras de cargo inmediato.
 
@@ -7132,19 +7206,19 @@ Los avances en efectivo que se otorguen, así como las compras de cargo inmediat
 
 5.6. Comisiones cobradas a los titulares.
 
-Las comisiones que se cobren a los titulares por la emisión de tarjetas de crédito o por otros conceptos relacionados con la utilización de estos instrumentos, serán acreditadas en la cuenta "Comisiones por tarjetas de crédito cobradas a los titulares", de la partida 7530 del MR1.
+Las comisiones que se cobren a los titulares por la emisión de tarjetas de crédito o por otros conceptos relacionados con la utilización de estos instrumentos, serán acreditadas en la cuenta "Comisiones por tarjetas cobradas a los titulares", de la partida 7530.
 
 Si las comisiones son a favor de los operadores, quedarán incluidas en la contabilización descrita en la letra b) del numeral 5.1.1.
 
 5.7. Cartera vencida.
 
-Los importes de los créditos más sus correspondientes intereses no pagados a su vencimiento, deberán traspasarse, dentro de un plazo de 90 días de ocurrido éste, a la cuenta "Colocaciones vencidas", de la partida 1405 del MB1, de que trata el Capítulo 8- 26 de esta Recopilación Actualizada de Normas.
+Los importes de los créditos más sus correspondientes intereses no pagados a su vencimiento, deberán traspasarse, dentro de un plazo de 90 días de ocurrido éste, a la cuenta "Colocaciones vencidas", de la partida 1405, de que trata el Capítulo 8- 26 de esta Recopilación Actualizada de Normas.
 
 El no pago del monto mínimo convenido, dentro del plazo de 90 días señalado anteriormente, determinará el traspaso a "Colocaciones vencidas" de la totalidad del saldo adeudado por el respectivo titular de la tarjeta de crédito.
 
 5.8. Comisiones pagadas por las instituciones financieras a los operadores.
 
-Las comisiones que paguen las instituciones financieras a empresas operadoras de sus tarjetas de crédito, se registrarán en la cuenta "Comisiones por administración de tarjetas de crédito", de la partida 5530 del MR1.
+Las comisiones que paguen las instituciones financieras a empresas operadoras de sus tarjetas de crédito, se registrarán en la cuenta "Comisiones por administración de tarjetas", de la partida 5530.
 
 5.9. Utilización de subcuentas y control de las operaciones.
 
@@ -7160,7 +7234,7 @@ En tal calidad, les corresponderá efectuar los pagos a los establecimientos afi
 
 7. Tarjetas de crédito a directores y apoderados de la institución financiera.
 
-Los directores y apoderados generales de una institución financiera podrán ser titulares de tarjetas de crédito emitidas por la propia entidad en que ejerzan su cargo, siempre que en el contrato respectivo se excluya en forma expresa la utilización de avances en dinero efectivo.
+Los directores y apoderados generales de una institución financiera podrán ser titulares de tarjetas de crédito emitidas por la propia entidad en que ejerzan su cargo, siempre que en el contrato respectivo se excluya en forma expresa la utilización del crédito que otorga el sistema, sea para financiar después de la fecha de vencimiento del respectivo estado de cuenta, el monto que se cobra al titular por las compras efectuadas o por avances en dinero efectivo que obtenga.
 
 ### 8. Límites legales
 
