@@ -1,0 +1,3 @@
+Por Resolución Nº 1.293, de 2 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año, contado desde de febrero de 1997, el plazo para reiniciar operaciones con la nave "Don Enrique", autorizada por Resolución Nº 1.505 de 1989, de esta Subsecretaría, a PESQUERA POLARIS S.A., en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 2 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
