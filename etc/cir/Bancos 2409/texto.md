@@ -9426,27 +9426,13 @@ devuelta la correspondiente boleta, para extinguirla en sus registros.
 
 ### 8. Aviso previo de la boleta de garantía
 
-Esta Superintendencia recomienda igualmente que se estipule en la boleta de
+Esta Superintendencia recomienda igualmente que se estipule en la boleta de garantía emitida con cargo a un préstamo bancario, la exigencia de que el beneficiario avise, con una determinada anticipación. su propósito de hacerla efectiva.
 
-garantía emitida con cargo a un préstamo bancario, la exigencia de que el
+Lo expuesto anteriormente, tiene por objeto que el banco disponga de un plazo para notificar del cobro al tomador del documento que tenga la calidad de deudor de la institución por ese concepto, a fin de que provea los fondos necesarios para efectuar el pago. Dicho aviso de cobro puede darlo el beneficiario hasta el día del vencimiento o de caducidad que se pueda contemplar en el
 
-beneficiario avise, con una determinada anticipación. su propósito de hacerla
+documento,debiendo el banco efectuar el pago en la fecha que corresponda, aunque ésta resulte posterior a la de vencimiento de la boleta.
 
-efectiva.
-
-Lo expuesto anteriormente, tiene por objeto que el banco disponga de un plazo
-
-para notificar del cobro al tomador del documento que tenga la calidad de deudor
-
-de la institución por ese concepto, a fin de que provea los fondos necesarios
-
-para efectuar el pago. Dicho aviso de cobro puede darlo el beneficiario hasta el
-
-día del vencimiento o de caducidad que se pueda contemplar en el
-
-documento,debiendo el banco efectuar el pago en la fecha que corresponda, aunque
-
-ésta resulte posterior a la de vencimiento de la boleta.
+El aviso de cobro debe ir acompañado en ese mismo acto o antes del vencimiento original o prorrogado del documento, de la presentación a cobro de la boleta Esta presentación puede hacerse directamente al banco emisor o a través de otro banco, siempre que se haga mientras se encuentre vigente. En caso de que la presentación se efectúe por intermedio de otro banco, la fecha que debe tomarse en consideración es aquella en que la boleta fue presentada al banco emisor.
 
 ### 9. Objeto de la boleta de garantía
 
@@ -10080,7 +10066,7 @@ Cuando las inversiones de esa especie deban ser ajustadas a su valor de mercado 
 
 7.4.3.1.- Condiciones para la aplicación de la modalidad de ajuste.
 
-a) Podrán ajustarse siguiendo la modalidad de que se trata, solamente los pagarés del Banco Central de Chile, los documentos del Instituto de Normalización Previsional (INP), los instrumentos emitidos por entidades extranjeras o internacionales y las letras de crédito emitidas por otros bancos. Además podrán ajustarse siguiendo esta modalidad las letras de crédito de propia emisión, siempre que el valor de mercado de las letras que se sujeten a ese procedimiento no superen el 10 % del capital básico.
+a) Podrán ajustarse siguiendo la modalidad de que se trata, los siguientes instrumentos: pagarés del Banco Central de Chile; documentos del Instituto de Normalización Previsional(INP); instrumentos emitidos por entidades extranjeras o internacionales y letras de crédito emitidas por otros bancos. Además, podrán ajustarse siguiendo esta modalidad los bonos emitidos por empresas chilenas, colocados en el país o en el exterior, que cumplan las siguientes condiciones, i) que el emisor tenga una clasificación de nesgo no inferior a "grado de inversión"; y, n) que se transen en el mercado bursátil nacional y/o en Bolsa de Valores de países que cuenten con una categoría de nesgo soberano no inferior a "AAA" para instrumentos de largo plazo. Por último, también podrán ser ajustadas siguiendo la modalidad de que se trata, las letras de crédito de propia emisión, siempre que el valor, a precio de mercado, de las letras que se sujeten a ese procedimiento no supere el 10% del capital básico.
 
 b) La institución financiera deberá conformar la cartera que quedará sujeta a este tratamiento contable y que se denominará "cartera permanente". En todo caso, la incorporación de los instrumentos elegidos para esta cartera, no obsta a su eventual enajenación.
 
@@ -10090,7 +10076,7 @@ d) El valor de mercado del total de la cartera permanente no podrá superar el m
 
 7.4.3.2.- Forma de contabilización del ajuste para las inversiones permanentes.
 
-Los ajustes a valor de mercado para las inversiones que conforman la cartera permanente según lo indicado precedentemente, se registrarán de la misma forma que se indica en el numeral 7.4.2, con la única diferencia de que los ajustes no se imputarán contra las cuentas de resultados, sino contra la cuenta "Fluctuación de valores de inversiones financieras", de la partida 4320.
+Los ajustes a valor de mercado para las inversiones que conforman la cartera permanente según lo indicado precedentemente, se registrarán de la misma forma que se indica en el numeral 7.4.2, con la única diferencia de que los ajustes no se imputarán contra las cuentas de resultados, sino contra la cuenta "Fluctuación de valores de inversiones financieras", de la partida 4350.
 
 Los ajustes se cargarán o abonarán a esa cuenta, según corresponda, previa reversión del saldo que mantenga como consecuencia del ajuste efectuado en el mes precedente.
 
@@ -22178,52 +22164,6 @@ medidas internas que permitan brindar en la materia una adecuada atención, que
 
 pudiera hacerse extensiva al público en general.
 
-CAPITULO 16-7 (Bancos)
-
-MATERIA:
-
-ENVIO MENSUAL DEL ARQUEO GENERAL DE CAJA A LAS OFICINAS DEL BANCO CENTRAL DE
-
-CHILE.
-
-Con el objeto de que el Banco Central de Chile pueda precisar las necesidades de
-
-circulante del sistema financiero en todo el territorio nacional, las oficinas
-
-bancarias del país deberán informar mensualmente a dicha entidad sobre sus
-
-disponibilidades de caja.
-
-Con el propósito de establecer un criterio único de preparación y entrega de la
-
-referida información, este Organismo dispone lo siguiente:
-
-1. Todas las oficinas del país deberán confeccionar el día quince de cada mes, o
-
-el día hábil bancario inmediatamente siguiente en caso de que éste sea festivo,
-
-una copia del Arqueo General de Caja practicado a esa fecha.
-
-2. La referida información deberá remitirse a la Sucursal del Banco Central en
-
-la cual la oficina bancaria se provee de circulante.
-
-3. Aquellas oficinas bancarias que se proveen de efectivo de su Casa Matriz o de
-
-otra Sucursal del mismo banco, que actúe como centralizadora del circulante de
-
-una zona o región, deberán remitir la copia de su arqueo de caja a la oficina
-
-centralizadora y ésta, a su vez, deberá confeccionar un arqueo refundido, que
-
-enviará a la oficina del Banco Central que corresponda, según lo indicado en el
-
-punto 2 anterior.
-
-4. La información de que se trata deberá estar en poder de las oficinas del
-
-Banco Central, a más tardar, el día 25 de cada mes.
-
 CAPITULO 17-5 (Bancos y Financieras)
 
 MATERIA:
@@ -22652,9 +22592,13 @@ Los saldos correspondientes a ingresos por recuperación de colocaciones castiga
 
 Las demás reclasificaciones que deben efectuarse en relación con los importes que se muestran en las partidas del Sistema de Información, se indican en las instrucciones de la sección IV siguiente, en lo que toca a situaciones en que no bastaría la simple agrupación de saldos a nivel de partidas.
 
-### IV. PARTIDAS QUE DEBEN SUMARSE
+IV PARTIDAS QUE DEBEN SUMARSE.
 
 .
+
+OBSERVACIONES:
+
+[#A]: Importe correspondiente a los ajustes a valor de mercado, según lo señalado en el N° 1 de las instrucciones sobre reagrupaciones de saldos.
 
 [#B]: Importe de las letras de crédito de propia emisión y su respectivo ajuste a valor de mercado, según lo indicado en el N° 1 de las instrucciones sobre reagrupaciones de saldos.
 
