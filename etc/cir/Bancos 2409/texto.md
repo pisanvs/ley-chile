@@ -12008,6 +12008,552 @@ Lo indicado en el numeral 4.1 anterior, no es óbice para que las instituciones 
 
 Al respecto, debe tenerse presente que la exclusión de ciertos créditos por las causales señaladas en el Capitulo 18-5 de esta Recopilación, alcanza sólo al Estado de Castigos que refunde esta Superintendencia y no a los créditos castigados de deudores relacionados con la entidad financiera informante. Como éstos deben considerarse para determinar la deuda relacionada, conforme se señala en el Capitulo 12-4 de estas Normas, para efectos de un mejor control también pueden ser objeto de un registro contable que se deja a criterio de cada institución.
 
+CAPITULO 8-30 (Bancos y Financieras)
+
+MATERIA:
+
+REPROMAGRACIONES CON FINANCIAMIENTO DEL BANCO CENTRAL DE CHILE.
+
+I.- REPROGRAMACIONES DE CREDITOS AL SECTOR PRODUCTIVO.
+
+A) DEUDAS REPROGRAMADAS AL SECTOR PRODUCTIVO SEGUN ACUERDO 1507.
+
+1. Podían acogerse a la reprogramación de que se trata, las personas que tenían obligaciones elegibles y que cumplieron los requisitos que se exigieron para tal efecto, de conformidad con lo establecido en el acuerdo de sesión N° 1.507 del ex-Comité Ejecutivo del Banco Central de Chile.
+
+Los créditos reprogramados fueron refinanciados por el Banco Central de Chile con cargo a lineas de crédito establecidas con ese objeto, cuyos recursos fueron invertidos por las respectivas entidades financieras en pagarés emitidos por el Instituto Emisor con esa finalidad.
+
+2.- Refinanciamiento del Banco Central de Chile.
+
+2.1.- Colocaciones.
+
+Los créditos reprogramados vigentes deben encontrarse registrados en las siguientes cuentas de la partida 1235, según el caso: "Créditos para Importación reprogramados a diez años-Acuerdo 1507"; "Préstamos contra pagarés reprogramados a diez años-Acuerdo 1507"; u, "Otros créditos reprogramados-Acuerdo 1507".
+
+2.2.- Refinanciamiento del Banco Central de Chile.
+
+Los refinanciamientos cursados por el Banco Central de Chile, deben mantenerse registrados en la cuenta "Línea de crédito para reprogramación de deudas", de la partida 3470.
+
+Los refinanciamientos expresados en moneda extranjera y pagaderos en pesos, fueron registrados en esas monedas, razón por la cual se habilitaron las cuentas "Conversión Acuerdo 1507" y "Cambio Acuerdo 1507", de las partidas 2510 y 4510.
+
+La referida cuenta "Cambio Acuerdo 1507", debe ser ajustada al término de cada mes, en la forma prevista en el Capítulo 13-30 de esta Recopilación Actualizada de Normas.
+
+2.3. Intereses.
+
+2.3.1.- Intereses sobre créditos reprogramados
+
+Debe: - La cuenta complementaria de intereses por cobrar, de la partida 1235.
+
+Haber: - "Intereses ganados por prestamos contra pagararés reprogramados a 10 años- Acuerdo 1507", partida 7130 ó 7135;
+
+- "Intereses ganados por otros créditos reprogramados-Acuerdo 1507", partida 7130 ó 7135; o,
+
+- "Intereses ganados por créditos para importación reprogramados a 10 años Acuerdo 1507", partida 7135.
+
+2.3.2.- Intereses pagados por refinanciamiento.
+
+Debe: - "Intereses pagados por línea de crédito para reprogramación de deudas", de la partida 5160.
+
+Haber: La cuenta complementaria de intereses por pagar, de la partida 3470.
+
+2.4.1.- Reajustes sobre créditos reprogramados.
+
+Debe: - La cuenta complementaria de reajustes por cobrar, de la partida 1235.
+
+Haber: - "Reajustes ganados por préstamos contra pagarés reprogramados a 10 años - Acuerdo 1507" de la partida 7320; o,
+
+- "Reajustes ganados por otros créditos reprogramados - Acuerdo 1507", de la misma partida.
+
+2.4.2.- Reajustes pagados por refinanciamiento.
+
+Debe: "Reajustes pagados por linea de crédito para reprogramación de deudas", de la partida 5365.
+
+Haber: La cuenta complementaria de reajustes por pagar, de la partida 3470.
+
+B) DEUDAS REPROGRAMADAS AL SECTOR PRODUCTIVO SEGUN ACUERDO 1578.
+
+1.- Generalidades.
+
+Tuvieron derecho a acogerse a esta reprogramación, las personas que tenían obligaciones elegibles y que cumplían los requisitos que se exigieron para tal efecto, de conformidad con lo establecido en el acuerdo de sesión N° 1.578 del ex-Comité Ejecutivo del Banco Central de Chile.
+
+Los créditos reprogramados fueron refinanciados por el Banco Central de Chile y el producto del refinanciamiento fue invertido en pagarés emitidos con ese objeto por el Instituto Emisor.
+
+2.- Pago de los créditos reprogramados.
+
+El pago de los créditos acogidos a la reprogramación de que se trata, se debe efectuar en las condiciones acordadas en su oportunidad.
+
+En todo caso, los deudores acogidos a este sistema pueden pagar anticipadamente total o parcialmente las deudas reprogramadas. Estos prepagos están condicionados a que, además del capital que se pague antes del vencimiento pactado, el deudor pague también los intereses por devengar correspondientes al monto de capital que se paga anticipadamente, por el periodo comprendido desde la fecha en que se realice ese pago, hasta la fecha de vencimiento más próxima de su crédito reprogramado. En consecuencia, las instituciones financieras acreedoras deben renunciar, por su parte, a los intereses no devengados que hubieren correspondido al monto pagado anticipadamente, que sean posteriores a la fecha de vencimiento indicada.
+
+También se consideran prepagos y, por lo tanto, sujetos a las condiciones señaladas precedentemente los montos que las instituciones financieras reciban anticipadamente por la recuperación de los saldos de precio correspondientes a ventas de acciones Ley N° 18.439 hechas a plazo, las recuperaciones anticipadas de créditos consolidados provenientes de deudas reprogramadas; las recuperaciones anticipadas de los préstamos reprogramados destinados a mejorar las condiciones de tasa y plazo de créditos correspondientes a deudores del sector productivo con obligaciones totales en el sistema financiero, al 31 de octubre de 1985, exceptuados los créditos de consumo, para vivienda y contingentes, de hasta 10 millones de pesos.
+
+3.- Periodo de vigencia de las obligaciones y prohibiciones que afectan a los deudores.
+
+Mientras existan saldos pendientes de pago de las deudas reprogramadas, subsisten los compromisos que firmaron los deudores ante sus respectivas instituciones financieras acreedoras respecto del cumplimiento de las obligaciones y prohibiciones que les afectan con motivo de la renegociación.
+
+Para tal efecto, se consideran también como saldos pendientes de deuda reprogramada, además de los mencionados anteriormente el saldo de créditos reprogramados que hubieren sido consolidados en conformidad a la Ley 18.439 y el saldo de los prestamos concedidos a deudores de obligaciones totales en el sistema financiero, exceptuados los créditos de consumo, para vivienda y contingentes, al 31 de octubre de 1985, de hasta $ 10.000 000 con el objeto de mejorar las condiciones de pago de los créditos reprogramados.
+
+No obstante las prohibiciones aludidas precedentemente, los referidos deudores pueden mantener inversiones en acciones de Administradoras de Fondos de Pensiones y de bancos comerciales, cuando ellas se hayan adquirido bajo las disposiciones de la Ley N° 18.401, siempre que den cumplimiento al compromiso de destinar al pago anticipado de los servicios de la deuda reprogramada, a lo menos el 30% de las utilidades liquidas de cada ejercicio, una vez absorbidas las pérdidas de ejercicios anteriores.
+
+El documento en que consten las referidas obligaciones y prohibiciones, debe ser mantenido junto con los correspondientes pagarés.
+
+4.- Incumplimiento de las obligaciones y prohibiciones.
+
+El incumplimiento de cualquiera obligación o prohibición que se haya comprometido a observar el respectivo deudor, como requisito previo para la reprogramación de sus deudas, de acuerdo a lo exigido por las normas del Banco Central de Chile, da derecho a la respectiva institución acreedora para hacer exigible el pago de los saldos pendientes de la deuda reprogramada y considerarla, en consecuencia, como de plazo vencido.
+
+La calificación de incumplimiento de alguna de las obligaciones y prohibiciones a que se comprometieron los respectivos deudores, debe ser hecha por un árbitro o amigable componedor designado de común acuerdo entre el deudor y la respectiva institución acreedora, de acuerdo con lo convenido al momento de la reprogramación.
+
+El árbitro o amigable componedor actuará a requerimiento de cualquiera de las partes y fallará en única instancia y sin ulterior recurso, incluidos los de casación y de queja.
+
+5.- Incumplimiento en el pago de cuotas de intereses o capital.
+
+Las instituciones financieras acreedoras están facultadas para hacer exigibles de inmediato la totalidad de los saldos pendientes de la deuda reprogramada, si el deudor no pagare oportunamente una cuota cualquiera de amortización de capital o de intereses.
+
+6.- Instrucciones contables.
+
+6.1.- Colocaciones.
+
+Los créditos reprogramados vigentes deben encontrarse registrados en las siguientes cuentas de la partida 1235, según el caso:
+
+- "Créditos para importación reprogramados Acuerdo 1578";
+
+- "Otros créditos reprogramados - Acuerdo 1578";
+
+- "Préstamos contra pagaré reprogramados Acuerdo 1578";
+
+- "Préstamos para pago anticipado de deudas elegibles en moneda extranjera- Acuerdos 1578-1600";
+
+- "Préstamos para pago de deudas elegibles en moneda extranjera Acuerdo 1466 reprogramadas -Acuerdo 1578-1600";
+
+- "Préstamos para pago de deudas elegibles en moneda extranjera- Acuerdo 1578- 1600";,
+
+- "Préstamos para prepagos deudas Acuerdo 1466-reprogramados - Acuerdo 1578";o,
+
+- "Préstamos a deudores sector productivo hasta 10 millones de pesos reprogramados con financiamiento de prepagos-Acuerdo 1705".
+
+6.2.- Refinanciamientos del Banco Central de Chile.
+
+Los refinanciamientos del Banco Central de Chile deben encontrarse registrados en las siguientes cuentas de la partida 3470, según corresponda
+
+- "Linea de crédito para reprogramación de deudas intereses rebajados - Acuerdo 1578",
+
+- "Linea de crédito para reprogramación Acuerdo 1578 Reprogramación deudores hasta 27.000 UF"; o,
+
+- "Linea de crédito para reprogramación Acuerdo 1578: Reprogramación deudores sobre 27.000 UF"
+
+Los refinanciamientos expresados en moneda extranjera y pagaderos en pesos, fueron registrados en esas monedas, razón por la cual se habilitaron las cuentas "Conversión Acuerdo 1578" y "Cambio Acuerdo 1578", de las partidas 2510 y 4510.
+
+La cuenta "Cambio Acuerdo 1578", debe ser ajustada al término de cada mes, en la forma prevista en el Capítulo 13-30 de esta Recopilación Actualizada de Normas.
+
+6.3.- Intereses.
+
+6.3.1.- Intereses sobre montos reprogramados.
+
+La cuenta complementaria de intereses por cobrar que corresponda, de la partida 1235.
+
+Haber: - "Intereses ganados por préstamos para pago anticipado de deudas elegibles en moneda extranjera -Acuerdo 1578 - 1600", partida 7130,
+
+- "Intereses ganados por préstamos para pago de deudas elegibles en moneda extranjera Acuerdo 1466
+
+- Reprogramados Acuerdo 1578 - 1600", partida 7130;
+
+- "Intereses ganados por préstamos para pago de deudas elegibles en moneda extranjera Acuerdo 157 8 -1600", partida 7130;
+
+- "Intereses ganados por préstamos para prepagos deudas - Acuerdo 1466 - Reprogramados Acuerdo 1578", partida 7130;
+
+- "Intereses ganados por otros créditos reprogramados - Acuerdo 1578", partida 7130 ó 7135;
+
+- "Intereses ganados por préstamos contra pagaré reprogramados - Acuerdo 1578", partida 7130 ó 7135;
+
+- "Intereses ganados por préstamos a deudores sector productivo hasta 10 millones de pesos reprogramados con financiamiento de prepagos - Acuerdo 1705", partida 7130; o,
+
+- "Intereses ganados por créditos para importación reprogramados - Acuerdo 1578", partida 7135.
+
+6.3.2.- Intereses por el refinanciamiento.
+
+Debe: - "Intereses pagados por linea de crédito para reprogramación de deudas intereses rebajados Acuerdo 1578",
+
+- "Intereses pagados por línea de crédito para reprogramación - Acuerdo 1578: Reprogramación deudores hasta 27000 UF" o,
+
+- "Intereses pagados por línea de crédito para reprogramación - Acuerdo 1578: Reprogramación deudores sobre 27000 UF".
+
+Estas cuentas se incluyen en la partida 5160.
+
+Haber: La cuenta complementaria de intereses por pagar que corresponda, de la partida 3470.
+
+6.4.- Reajustes.
+
+6.4.1.- Reajustes sobre impuestos reprogramados.
+
+Debe: La cuenta complementaria de reajustes por cobrar que corresponda, de la partida 1235.
+
+Haber: - "Reajustes ganados por otros créditos reprogramados-Acuerdo 1578",
+
+- "Reajustes ganados por préstamos contra pagare reprogramados-Acuerdo 1578",
+
+- "Reajustes ganados por préstamos para pago anticipado de deudas elegibles en moneda extranjera -Acuerdo 1578 - 1600",
+
+- "Reajustes ganados por préstamos para pago de deudas elegibles en moneda extranjera 1466-Reprogramados Acuerdo 1578-1600",
+
+- "Reajustes ganados por préstamos para pago de deudas elegibles en moneda extranjera 1578-1600",
+
+- "Reajustes ganados por préstamos para prepagos deudas Acuerdo 1466- Reprogramados-Acuerdo 1578" o,
+
+- "Reajustes ganados por préstamos a deudores sector productivo hasta 10 millones de pesos reprogramados con financiamiento de prepagos-Acuerdo 1705"
+
+Estas cuentas se incluyen en la partida 7320
+
+6.4.2.- Reajustes pagados por el refinanciamiento.
+
+Debe: - "Reajustes pagados por línea de crédito para reprogramación de deudas intereses rebajados-Acuerdo 1578",
+
+- "Reajustes pagados por línea de crédito para reprogramación-Acuerdo 1578 Reprogramación deudores hasta 27000 UF" o,
+
+- "Reajustes pagados por línea de crédito para reprogramación-Acuerdo 1578 : Reprogramación deudores sobre 27000 UF".
+
+Estas cuentas se incluyen en la partida 53 65.
+
+Haber: La cuenta complementaria de reajustes por pagar que corresponda, de la partida 3470.
+
+C) EQUILIBRIO ENTRE EL REFINANCIAMIENTO Y LOS CREDITOS AL SECTOR PRODUCTIVO REPROGRAMADOS.
+
+Trimestralmente las instituciones financieras deben informar al Banco Central de Chile, el saldo de los montos reprogramados que ellas tengan; los saldos de precio que se mantengan adeudados por los adquirentes de acciones originadas en la capitalización de créditos de acuerdo a lo dispuesto por la Ley N° 18.439; el saldo de los créditos reprogramados que hubieren sido consolidados de conformidad con la ley aludida; el saldo de los créditos reprogramados a deudores con obligaciones totales en el sistema financiero, exceptuados los créditos de consumo, para vivienda y contingentes, al 31 de octubre de 1985, de hasta 10 millones de pesos, cuyas condiciones de tasa y plazo se hubieren mejorado, incluyendo el saldo de este último tipo de créditos que hubiere sido financiado con las diferencias a prepagar al Banco Central de Chile, según se señala en los párrafos siguientes.
+
+Si la suma de los saldos informados fuera inferior al saldo de las líneas de crédito con el Banco Central de Chile, vigentes a la misma fecha, las instituciones financieras deben prepagar la diferencia respectiva al Instituto Emisor.
+
+Las instituciones financieras que hayan procedido a vender a plazo las acciones provenientes de la capitalización de créditos en conformidad a la Ley N° 18.439, deben aplicar los dividendos que perciban por esas acciones recibidas en prenda, al pago del saldo de precio de acuerdo al orden inverso de vencimiento de las cuotas en que pueda encontrarse dividido. Si no se cumpliere con lo anterior, la institución financiera está obligada a restituir el total del refinanciamiento correspondiente a los créditos capitalizados. En este caso, el Banco Central de Chile podrá debitar tal importe contra el saldo de la cuenta corriente que la respectiva institución financiera mantiene en el Instituto Emisor.
+
+II.- REPROGRAMACIONES DE PRESTAMOS HIPOTECARIOS.
+
+A) PRESTAMOS EN LETRAS DE CREDITO ACOGIDOS A AMPLIACION DE PLAZO SEGUN ACUERDO DE SESION N° 1.517.
+
+1.- Importes acogidos a ampliación de Plazo.
+
+El importe de estos créditos que pudo acogerse a ampliación de plazo, de conformidad con lo dispuesto por el ex-Comité Ejecutivo del Banco Central de Chile, correspondía a los dividendos impagos con vencimiento entre el 1° de junio de 1981 y el 31 de mayo de 1983 y sus intereses de mora, más un porcentaje decreciente de los dividendos por vencer hasta el 30 de junio de 1987.
+
+2.- Condiciones aplicables a los importes prorrogados.
+
+Los importes de los préstamos en letras de crédito que fueron prorrogados, se mantienen expresados en Unidades de Fomento y devengan intereses a la tasa del 8% anual, salvo en el caso en que se hubiere pactado una tasa inferior en el mutuo hipotecario, considerando para estos efectos interés más comisión, caso en que debe aplicarse este porcentaje menor.
+
+3.- Pago de los montos prorrogados.
+
+Los montos cuyo vencimiento se ha diferido, deben comenzar a pagarse a contar del periodo siguiente a la fecha en la que haya vencido el plazo estipulado en el mutuo hipotecario original, conservándose la periodicidad pactada en dicho mutuo.
+
+El importe de las cuotas debe ser equivalente al monto en Unidades de Fomento del dividendo rebajado, en caso que el plazo haya terminado a más tardar el 30 de junio de 1987. En los casos en que el plazo del crédito haya tenido o tenga término después del 30 de junio de 1987, el importe en Unidades de Fomento de las cuotas debe ser igual o inferior al valor en Unidades de Fomento del dividendo correspondiente a junio de 1983, o al último que hubiere vencido antes de esa fecha, si en ella no hubiere correspondido ningún vencimiento. La última de las referidas cuotas podrá ser diferente por razones de ajuste.
+
+Las instituciones financieras pueden incorporar a dichas cuotas las primas de los seguros de incendio y desgravamen.
+
+4.- Refinanciamiento.
+
+Las instituciones financieras cuentan con refinanciamiento del Banco Central de Chile por los importes acogidos a ampliación de plazo, bajo las condiciones establecidas para el efecto por el Instituto Emisor. Este refinanciamiento se hace efectivo solamente por los dividendos que los deudores paguen en sus respectivas fechas de vencimiento.
+
+5.- Amortización anticipada.
+
+En el evento que el deudor de un préstamo en letras de crédito acogido a este sistema pague una parte o el total de su deuda, antes de los plazos convenidos para ello, las instituciones financieras deben amortizar el correspondiente refinanciamiento obtenido del Banco Central de Chile, por una suma igual al pago recibido anticipadamente, dentro de los cinco días hábiles bancarios siguientes de recibido el pago del deudor.
+
+6.- Normas contables.
+
+6.1.- Dividendos prorrogados.
+
+Los importes prorrogados deben mantenerse registrados en la cuenta "Dividendos prorrogados-Acuerdo 1517", de la partida 1245.
+
+6.2.- Constitución de los dividendos prorrogados.
+
+El primer día hábil de cada mes o de aquel en que corresponda servir el dividendo, cuando la periodicidad no sea mensual, las instituciones financieras deben contabilizar el importe de los dividendos prorrogados que corresponda percibir en dicho mes, de la siguiente forma:
+
+Debe: "Dividendos reprogramados por percibir-Acuerdo 1517", de la partida 1245.
+
+Haber: "Dividendos prorrogados-Acuerdo 1517" y las cuentas complementarias de reajustes e intereses de la partida 1245.
+
+6.3 - Dividendos no pagados a su vencimiento.
+
+Los dividendos no pagados a su vencimiento deben registrarse en las cuentas "Dividendos hipotecarios vencidos" o "Dividendos reprogramados vencidos-Acuerdo 1517", según corresponda, de la partida 1410.
+
+6.4.- Refinanciamiento del Banco Central de Chile.
+
+Los importes del refinanciamiento, deben encontrarse registrados en las cuentas "Adeudado al Banco Central de Chile por dividendos vencidos refinanciados-Acuerdo 1517" o "Adeudado al Banco Central de Chile por dividendos vigentes refinanciados-Acuerdo 1517", según corresponda, ambas de la partida 3470.
+
+6.5.- Intereses.
+
+6.5.1.- Intereses devengados sobre montos prorrogados.
+
+Debe: La cuenta complementaria de intereses que corresponda de la partida 1245.
+
+Haber: "Intereses ganados por dividendos prorrogados-Acuerdo 1517", de la partida 7130.
+
+6.5.2.- Intereses pagados por refinanciamientos.
+
+Debe: - "Intereses pagados por adeudado al Banco Central de Chile por dividendos vencidos refinanciados-Acuerdo 1517" de la partida 5160; o,
+
+- "Intereses pagados por adeudado al Banco Central de Chile por dividendos vigentes refinanciados-Acuerdo 1517", de la misma partida.
+
+Haber: Las cuentas complementarias de intereses que correspondan, de la partida 3470.
+
+6.6.- Reajustes.
+
+6.6.1.- Reajustes devengados sobre montos prorrogados.
+
+Debe: La respectiva cuenta complementaria de reajustes por cobrar, de la partida 1245.
+
+Haber: "Reajustes ganados por dividendos prorrogados-Acuerdo 1517", de la partida 7320.
+
+6.6.2.- Reajustes pagados por refinanciamiento.
+
+Debe: - "Reajustes pagados por adeudado al Banco Central de Chile por dividendos vencidos refinanciados-Acuerdo 1517" de la partida 5365, o,
+
+- "Reajustes pagados por adeudado al Banco Central de Chile por dividendos vigentes refinanciados -Acuerdo 1517", de la misma partida.
+
+Haber: Las respectivas cuentas complementarias de reajustes por pagar, de la partida 3470.
+
+B) PRESTAMOS HIPOTECARIOS PRORROGADOS SEGUN ACUERDO DE SESION N° 1.583. INCLUIDOS AQUELLOS PREPAGADOS EN VIRTUD DE LOS ACUERDOS DE SESIONES N°s. 1.719 Y 1734.
+
+1.- Importes acogidos a ampliación de plazo.
+
+El importe acogido a ampliación de plazo, de conformidad con lo dispuesto por el ex-Comité Ejecutivo del Banco Central de Chile, comprendía el monto de hasta dos años de dividendos vencidos más un porcentaje que decrece hasta el 30 de junio de 1996, de los dividendos por vencer.
+
+A partir del 1° de julio de 1996 y hasta la extinción del plazo primitivo del préstamo, el monto que se puede prorrogar es equivalente a un 15% del dividendo del crédito original o del nuevo crédito cursado para extinguir anticipadamente el préstamo original, de conformidad con lo dispuesto en el Acuerdo 1719-02-860321 del ex-Comité Ejecutivo del Banco Central de Chile.
+
+2.- Condiciones que se aplican a los importes prorrogados.
+
+Los montos acogidos a ampliación de plazo se mantienen expresados en Unidades de Fomento o Indice Valor Promedio, según corresponda, y devengan una tasa de interés del 6% ó del 4% anual, según se haya convenido en concordancia con las disposiciones acordadas por el Banco Central de Chile.
+
+3.- Pago de los montos cuyo plazo se amplía.
+
+Los montos prorrogados deben comenzar a pagarse a partir del período siguiente a la fecha en que termine el plazo estipulado en el mutuo hipotecario original o en el nuevo mutuo que se haya cursado para pagar anticipadamente dicho crédito.
+
+El referido pago debe efectuarse en cuotas iguales y sucesivas, con la misma periodicidad pactada en el mutuo original o en el nuevo crédito.
+
+El monto de las cuotas, cuando se trate de créditos originales acogidos al acuerdo de sesión 1.583, sera un porcentaje del "dividendo base", entendiéndose por tal el monto promedio que resulte de la suma de los dividendos originales con vencimiento entre el 1° de julio de 1982 y el 30 de junio de 1984, del respectivo mutuo, dividida por el número de dividendos sumados. El importe de las cuotas es el siguiente:
+
+a) 63% del "dividendo base" para aquellos préstamos cuya primera cuota de los importes acogidos a ampliación de plazo hubiera vencido entre el 1° de julio de 1984 y el 30 de junio de 1988;
+
+b) 71% del "dividendo base" para aquellos préstamos cuya primera cuota de los importes acogidos a ampliación de plazo vencía entre el 1° de julio de 1988 y el 30 de junio de 1992;
+
+c) 80% del "dividendo base" para aquellos préstamos cuya primera cuota de los importes acogidos a ampliación de plazo venza entre el 1° de julio de 1992 y el 30 de junio de 1996; y,
+
+d) 85% del "dividendo base" para aquellos préstamos cuya primera cuota de los importes acogidos a ampliación de plazo venza después del 30 de junio de 1996.
+
+En los casos en que, de conformidad con lo dispuesto en el acuerdo de sesión 1719, se haya cursado un nuevo crédito con dividendos mensuales, iguales y sucesivos, manteniendo el beneficio de ampliación de plazo a que hubiere estado acogido el crédito original, el importe de la cuota para el pago de los montos prorrogados se determina aplicando el porcentaje señalado en las letras a), b), c) o d), según corresponda, sobre el primer dividendo correspondiente a la tabla de desarrollo de este nuevo mutuo hipotecario.
+
+Cuando el servicio del nuevo crédito cursado según las normas del acuerdo de sesión N° 1.719, no tenga vencimientos mensuales, el importe de las cuotas para el pago de los montos prorrogados se determina sobre la base del valor promedio de los dividendos que venzan en los últimos 24 meses de vigencia del nuevo mutuo hipotecario y tendrán la misma periodicidad que las del respectivo crédito.
+
+En todo caso, los referidos importes deben ser pagados en un plazo máximo de diez años contados desde la fecha de término del plazo del mutuo hipotecario original, o de quince años desde la fecha de término del plazo del nuevo crédito, según se trate de créditos acogidos a las disposiciones de los acuerdos N°s. 1583-01-840705 ó 1719-02-860321, respectivamente.
+
+4.- Refinanciamiento del Banco Central de Chile.
+
+Las instituciones financieras cuentan con refinanciamiento del Banco Central de Chile por los importes acogidos a ampliación de plazo, bajo las condiciones establecidas para el efecto por el Instituto Emisor.
+
+5.- Deudores que se excluyen por incumplimiento en los pagos.
+
+Los deudores que se han acogido a la ampliación de plazo de que se trata, que mantuvieren moroso uno o más dividendos, por más de nueve meses, serán excluidos de los beneficios de este sistema. Para estos efectos, se considerarán tanto las cuotas prorrogadas, como la parte de los dividendos pagaderos en sus vencimientos originales.
+
+En estos casos, las instituciones financieras deberán restituir al Banco Central de Chile los refinanciamientos que hayan recibido, correspondientes a los créditos que se excluyan de este sistema, incluidos los intereses.
+
+6.- Pago anticipado de deudas reprogramadas.
+
+6.- Pagos en dinero.
+
+En el caso que un deudor pague anticipadamente parte de su préstamo, se puede rebajar, a opción del deudor, la totalidad de los dividendos por pagar, tanto los que correspondan a una obligación correlativa por letras de crédito en circulación, como los originados por el plazo ampliado.
+
+La institución efectuará, de conformidad con las disposiciones vigentes sobre la materia, una amortización extraordinaria de letras de crédito por las sumas que correspondan y de los refinanciamientos obtenidos del Banco Central de Chile, cuando sea el caso.
+
+6.2.- Pago en letras de crédito.
+
+La facultad de que gozan los deudores de préstamos en letras de crédito, en el sentido de que pueden rembolsar anticipadamente todo o parte del capital no amortizado de su deuda, mediante letras de crédito, sólo puede ser ejercida hasta un monto no superior a la parte del préstamo que mantenga una obligación correlativa por letras de crédito.
+
+7.- Renuncia a la ampliación de plazo.
+
+Los deudores de créditos hipotecarios acogidos a la ampliación de plazo de que se trata, pueden convenir con las respectivas instituciones financieras acreedoras, el termino de dicho beneficio para los futuros dividendos.
+
+Puede ponerse término al referido beneficio cuando el deudor mantenga vigente el crédito original, como asimismo en los casos en que éste hubiere sido pagado anticipadamente mediante un nuevo crédito hipotecario.
+
+7.1.- Declaración de renuncia de ampliación de plazo.
+
+Para renunciar al beneficio de ampliación de plazo, el deudor debe presentar a la institución financiera acreedora una declaración en tal sentido, indicando expresamente que la renuncia tiene el carácter de irrevocable.
+
+En la misma declaración, el deudor se debe comprometer a restituir los montos adeudados que correspondan a las ampliaciones de plazo ya cursadas, más los respectivos intereses, en la forma señalada en el numeral 7.2 de esta letra B), a contar del mes siguiente a aquel en que se extinga el plazo pactado para el correspondiente mutuo.
+
+7.2.- Pago del importe prorrogado.
+
+El importe correspondiente al total o parte de los dividendos que se hubieren prorrogado, debe ser pagado por el deudor una vez que se extinga el plazo pactado para el respectivo crédito, en dividendos mensuales iguales y sucesivos, cuyo valor será equivalente al 100% del dividendo convenido en el mutuo.
+
+En caso que los dividendos pactados en el mutuo no tengan vencimientos mensuales, el pago del importe prorrogado debe efectuarse mediante dividendos que tengan la misma periodicidad de los del respectivo crédito. El valor de éstos debe ser equivalente al 100% del monto promedio de los dividendos que venzan durante los últimos 24 meses de vigencia del mutuo hipotecario.
+
+En todo caso, el monto prorrogado debe ser pagado en un plazo máximo de 10 años, cuando se trate de créditos originales acogidos a ampliación de plazo, o de 15 años, en los casos en que corresponda a créditos cursados para el pago anticipado de aquéllos.
+
+7.3.- Dividendo que debe pagar el deudor una vez que renuncie a la ampliación de plazo.
+
+El deudor que renuncie al beneficio de la ampliación de plazo de que se trata, debe pagar el 100% del dividendo pactado en el respectivo mutuo, a partir del mes siguiente a aquél en que haya presentado la correspondiente declaración a que se refiere el numeral 7.1 de esta letra B).
+
+7.4.- Deudores que incurran en atrasos superiores a nueve meses.
+
+Los deudores de que se trata que se atrasen más de nueve meses en el pago de cualquiera de los dividendos que deben servir, serán excluidos del sistema de ampliación de plazo, de conformidad con lo señalado en el 5 precedente.
+
+7.5.- Renuncia al refinanciamiento del Banco Central de Chile.
+
+La institución financiera cuyos deudores pongan término anticipado al beneficio de la ampliación de plazo para futuros dividendos debe remitir, a su vez, al Banco Central de Chile, una carta en la que renuncie a continuar percibiendo el refinanciamiento de dichos dividendos, a contar de la fecha en que el deudor inicie el pago del 100% de éstos.
+
+En la misma comunicación debe comprometerse a pagar al Instituto Emisor el monto del refinanciamiento recibido para el respectivo crédito más sus intereses, a partir de la fecha en que se extinga el plazo del correspondiente mutuo, sobre la base del mismo perfil de vencimientos, que resulte de aplicar la modalidad señalada en el numeral 7.2 de esta letra B).
+
+En la referida carta se debe comprometer, además, a restituir al Banco Central de Chile el total del refinanciamiento recibido por el respectivo préstamo más sus intereses, en el primer día hábil bancario posterior al día 5 del mes siguiente a aquél en que se hubiere cumplido el plazo de nueve meses, a que se refiere el numeral 7.4 de esta letra B), en los casos en que el deudor incurra en atraso en el servicio de su crédito.
+
+8.- Equilibrio entre importes prorrogados y refinanciamientos.
+
+Las instituciones financieras deben mantener un equilibrio entre los importes prorrogados de los dividendos acogidos a la ampliación de plazo de que se trata y los refinanciamientos obtenidos por este concepto del Banco Central de Chile Para tal efecto, el último día de cada mes se determinarán las diferencias que pudieren existir entre los refinanciamientos cursados y vigentes y el saldo de los montos de los dividendos por los cuales se otorgó la ampliación de plazo y que hubieren vencido hasta ese mismo mes. Si el saldo de los refinanciamientos cursados resultare mayor, la diferencia por ese mayor saldo deberá ser rembolsada al Banco Central de Chile el primer día hábil bancario posterior al día cinco del mes siguiente a aquel en que se haya determinado.
+
+9.- Instrucciones contables.
+
+9.1.- Importes prorrogados.
+
+Los montos acogidos a ampliación de plazo, deben encontrarse registrados en las siguientes cuentas de la partida 1245, según el caso: "Dividendos prorrogados-Acuerdo 1583"; "Dividendos prorrogados-Acuerdo 1719"; o, "Dividendos reprogramados créditos financiados con bonos-Acuerdo 1719".
+
+9.2.- Parte del dividendo se debe pagar en la fecha de vencimiento.
+
+La parte del dividendo que el deudor debe pagar en la fecha de vencimiento, debe registrarse en la cuenta "Dividendos parciales por cobrar", de la partida 1315, o bien, en la cuenta "Dividendos parciales financiados con bonos-Acuerdo 1719", de la partida 1246.
+
+9.3.- Constitución de dividendos prorrogados.
+
+El primer día hábil bancario de cada mes, las instituciones financieras deben contabilizar, en la forma que a continuación se indica, el importe de los dividendos que corresponda percibir en dicho mes, ya sea que se trate de la parte acogida a ampliación de plazo o del servicio del nuevo préstamo cursado para el pago anticipado del crédito original, en letras de crédito o con el producto de la emisión de bonos.
+
+9.3.1.- Desde la extinción del crédito original.
+
+Debe: "Dividendos reprogramados por percibir-Acuerdo 1583", de la partida 1245.
+
+Haber: - "Dividendos prorrogados-Acuerdo 1583" y las cuentas complementarias de reajustes e intereses.
+
+9.3.2.- Desde la extinción de los nuevos préstamos en letras de crédito.
+
+Debe: "Dividendos reprogramados por percibir-Acuerdo 1719", de la partida 1245.
+
+Haber: "Dividendos prorrogados-Acuerdo 1719" y las cuentas complementarias de intereses y reajustes.
+
+9.3.3.- Desde la extinción de los nuevos préstamos cursados con el producto de la emisión de bonos.
+
+Debe: "Dividendos reprogramados créditos financiados con bonos por percibir-Acuerdo 1719", de la partida 1245.
+
+Haber: - "Dividendos reprogramados créditos financiados con bonos-Acuerdo 1719" y las cuentas complementarias de intereses y reajustes.
+
+9.4.- Dividendos no pagados a su vencimiento.
+
+Los dividendos parciales o prorrogados no pagados a su vencimiento, deben registrarse en las cuentas "Dividendos parciales vencidos", "Dividendos reprogramados vencidos-Acuerdo 1583", "Dividendos reprogramados vencidos-Acuerdo 1719", según corresponda, de la partida 1410. Dicho traspaso se efectuará de conformidad con las normas contenidas en el Capítulo 8-26 de esta Recopilación Actualizada de Normas
+
+9.5.- Refinanciamiento del Banco Central de Chile.
+
+El importe del refinanciamiento obtenido del Banco Central de Chile, debe encontrarse registrado en las siguientes cuentas de la partida 3470, según el caso:
+
+"Adeudado al Banco Central de Chile por refinanciamiento de dividendos vencidos-Acuerdo 1583";
+
+"Adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1583";,
+
+"Adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1719"; o,
+
+"Adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1734"
+
+9.6.- Intereses.
+
+9.6.1.- Intereses devengados sobre los importes prorrogados.
+
+Debe: - La respectiva cuenta complementaria de intereses por cobrar, de la partida 1245.
+
+Haber: - "Intereses ganados por dividendos prorrogados-Acuerdo 1583",
+
+- "Intereses ganados por dividendos prorrogados-Acuerdo 1719" o,
+
+- "Intereses ganados por dividendos reprogramados créditos financiados con bonos-Acuerdo 1719"
+
+Estas cuentas se incluyen en la partida 7130.
+
+9.6.2.- Intereses pagados por los refinanciamientos.
+
+Debe: - "Intereses pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vencidos-Acuerdo 1583",
+
+- "Intereses pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1583",
+
+- "Intereses pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1719" o,
+
+- "Intereses pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1734".
+
+Estas cuentas se incluyen en la partida 5160.
+
+Haber: La respectiva cuenta complementaria de intereses por pagar, de la partida 3470.
+
+9.7.- Reajustes.
+
+9.7.1.- Reajustes devengados sobre montos prorrogados.
+
+Debe: - La respectiva cuenta complementaria de reajustes por cobrar, de la partida 1245.
+
+Haber: - "Reajustes ganados por dividendos prorrogados-Acuerdo 1583",
+
+- "Reajustes ganados por dividendos prorrogados-Acuerdo 1719" o,
+
+- "Reajustes ganados por dividendos reprogramados créditos financiados con bonos-Acuerdo 1719".
+
+Estas cuentas se incluyen en la partida 7320
+
+9.7.2.- Reajustes pagados por refinanciamiento.
+
+Debe: - "Reajustes pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vencidos-Acuerdo 1583",
+
+- "Reajustes pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1583",
+
+- "Reajustes pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1719" o,
+
+- "Reajustes pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1734".
+
+Estas cuentas se incluyen en la partida 5365.
+
+Haber: La respectiva cuenta complementaria de reajustes por pagar, de la partida 3470.
+
+9.8.- Préstamos cursados según acuerdos de sesiones N°s. 1719 y 1734 para pagar anticipadamente créditos acogidos a ampliación de plazo según acuerdos de sesiones N°s. 1.583 y 1594.
+
+9.8.1.- En letras de crédito.
+
+Los préstamos cursados en letras de crédito para pagar anticipadamente otros préstamos acogidos al beneficio de ampliación de plazo establecido por acuerdo de sesión N° 1.583, deben encontrarse registrados en la forma prevista en el Capítulo 9-1 de esta Recopilación Actualizada de Normas.
+
+9.8.2.- Con el producto de la emisión de bonos.
+
+Los préstamos cursados con el producto de la emisión de bonos, se encuentran registrados en la cuenta "Préstamos hipotecarios financiados con bonos-Acuerdo 1719", de la partida 1246.
+
+La parte de los dividendos que debe ser pagada cada mes por el deudor, se registra el primer día hábil de ese mes en la cuenta "Dividendos parciales financiados con bonos-Acuerdo 1719", de la partida 1246.
+
+Los intereses devengados sobre estos créditos se registran en la cuenta complementaria de intereses por cobrar, con abono a la cuenta "Intereses ganados por préstamos hipotecarios financiados con bonos-Acuerdo 1719", de la partida 7105.
+
+Por otra parte, los reajustes devengados se registran en la cuenta complementaria de reajustes por cobrar, con abono a la cuenta "Reajustes ganados por préstamos hipotecarios financiados con bonos-Acuerdo 1719", de la partida 7305.
+
+III.- REPROGRAMACIONES DE CREDITOS DE CONSUMO.
+
+1.- Importes acogidos a ampliación de plazo.
+
+El importe acogido a ampliación de plazo de los créditos de consumo que reunieron los requisitos para tal efecto, de conformidad con lo establecido por el ex-Comité Ejecutivo del Banco Central de Chile en su Acuerdo de sesión N° 1581, fue el 100% de las cuotas atrasadas que vencieron entre el 1° de enero y el 30 de junio de 1984, y un 40% de las cuotas con vencimiento a partir del 1° de agosto de 1984.
+
+2.- Condiciones que se aplican a los montos prorrogados.
+
+Los montos prorrogados se mantienen expresados en Unidades de Fomento o en moneda extranjera, según corresponda, y devengan intereses a una tasa máxima de 8% anual.
+
+3.- Pago de los montos prorrogados.
+
+Los importes acogidos a ampliación de plazo, deben comenzar a pagarse a contar del periodo siguiente al término del plazo estipulado en el crédito de consumo original, mediante servicios de la misma periodicidad establecida en dicho crédito de consumo e iguales entre si No obstante lo anterior, el último de dichos servicios puede ser diferente por razones de ajuste.
+
+4.- Deudores que se excluyen por incumplimiento.
+
+Los deudores que se han acogido a la ampliación de plazo de que trata este título, que mantuvieren servicios impagos por más de tres meses, cuando se trate de servicios mensuales, o por más de seis meses, en aquéllos que contemplen una periodicidad más amplia, quedarán excluidos de los beneficios de este sistema. En este evento, la entidad financiera podrá anular la respectiva reprogramación y la deuda volverá a sus condiciones originales.
+
+5.- Instrucciones contables.
+
+5.1.- Importes acogidos a ampliación de Plazo.
+
+Estos importes deben mantenerse registrados en la cuenta "Cuotas de crédito de consumo prorrogadas-Acuerdo 1581" de la partida 1240.
+
+5.2.- Intereses.
+
+Debe: La cuenta complementaria de intereses por cobrar que corresponda, de la partida 1240.
+
+Haber: - "Intereses ganados por cuotas de créditos de consumo prorrogadas-Acuerdo 1581", de la partida 7130.
+
+5.3.- Reajustes.
+
+Debe: La cuenta complementaria de reajustes por cobrar que corresponda, de la partida 1240.
+
+Haber: "Reajustes ganados por cuotas de créditos de consumo prorrogadas-Acuerdo 1581" de la partida 7320.
+
 CAPITULO 8-35 (Bancos y Financieras)
 
 MATERIA:
@@ -13474,43 +14020,9 @@ la partida 3010 del MB1.
 
 Además, se deberá revertir el asiento señalado en el número 1 precedente.
 
-E. TRATAMIENTO DE DIVIDENDOS REPROGRAMADOS IMPAGOS (Acuerdo 1583).
+E.- TRATAMIENTO CONTABLE ESPECIAL PARA CREDITOS REPROGRAMADOS SEGUN ACUERDOS DEL BANCO CENTRAL DE CHILE.
 
-1.- Traspaso de dividendos reprogramados a Cartera Vencida (Acuerdo 1.583).
-
-Los dividendos reprogramados de conformidad con las normas de los Acuerdos N°s.
-
-1.517 y 1.583, del Comité Ejecutivo del Banco Central de Chile, que no fueren
-
-pagados a sus vencimientos, se traspasarán a cartera vencida también a los
-
-noventa días de la fecha de vencimiento. Ese traspaso se hará por la parte del
-
-dividendo no pagada, sea la que correspondía al vencimiento original o al nuevo
-
-vencimiento determinado por la reprogramación.
-
-2.- Ajuste mensual de las cuentas de resultado por dividendos traspasados a
-
-cartera vencida.
-
-En forma previa a cada cierre mensual, se deberán, revertir los
-
-reajustes,intereses y comisiones de los dividendos pertenecientes a créditos que
-
-mantengan alguna cuota registrada en las cuentas "Dividendos hipotecarios
-
-vencidos", "Dividendos parciales vencidos" o "Dividendos reprogramados vencidos-
-
-Acuerdo 1.583", según corresponda y que se hubieran ingresado a las respectivas
-
-cuentas de resultado al inicio del mes, con motivo de la constitución de los
-
-dividendos correspondientes. Esta reversión afectará solamente a los dividendos
-
-que venzan a contar de la fecha en que una de las cuotas anteriores que se
-
-mantenían impagas, se hubiera ingresado a Cartera Vencida.
+Los créditos que se hayan reprogramado en virtud de los Acuerdos N°s 1.517 y 1.583 del Banco Central de Chile, deben registrarse según las instrucciones contables específicas contenidas en el título II del Capítulo 8-30 de esta Recopilación Actualizada de Normas. En todo caso, dichas instrucciones especiales son sin perjuicio de las normas generales sobre intereses y reajustes, traspaso a cartera vencida, y castigos, de que tratan los Capítulos 7-1, 8-26 y 8-29 respectivamente, de esta Recopilación.
 
 ANEXO N° 1
 
@@ -20744,7 +21256,7 @@ Además, podrán efectuar esas recompras de divisas con los importes que reciban
 
 b) Créditos re programados.
 
-Igualmente podrán recomprarse divisas con los importes que se reciban del Banco Central de Chile, correspondientes al servicio de los pagarés a que se refiere la letra g) del N° 6 del Capítulo II.B.5.3 y la letra b) del 12 del Capítulo II.B.5.4 del Compendio de Normas Financieras y las Circulares N°s. 2.015-462 del 30 de junio de 1984 y 2.016463 del 7 de julio de 1984, respectivamente, de este Organismo.
+Igualmente podrán recomprarse divisas con los importes que se reciban del Banco Central de Chile, correspondientes al servicio de los pagarés a que se refiere la letra g) del N° 6 del Capítulo II.B.5.3 y la letra b) del 12 del Capítulo II.B.5.4 del Compendio de Normas Financieras.
 
 3.3. Excepciones al derecho de recompra.
 
@@ -20760,7 +21272,7 @@ Tampoco podrán recomprar divisas con el producto de la conversión a moneda chi
 
 - **b)** del N° 3 del Capítulo II.B.5.3 y letra
 
-- **a)** del N° 12 del Capítulo II.B.5.4 del Compendio de Normas Financieras del Banco Central de Chile y en las Circulares de esta Superintendencia N°s. 2.015-462, 2.016-463 y 2.028-474, pues en estos casos, la recompra puede realizarse con el producto de las recuperaciones de los pagarés adquiridos al Banco Central de Chile, como consecuencia de esas conversiones, de acuerdo con lo dispuesto en las normas antes citadas.
+- **a)** del N° 12 del Capítulo II.B.5.4 del Compendio de Normas Financieras del Banco Central de Chile, pues en estos casos, la recompra puede realizarse con el producto de las recuperaciones de los pagarés adquiridos al Banco Central de Chile, como consecuencia de esas conversiones, de acuerdo con lo dispuesto en las normas antes citadas.
 
 3.4. Monto máximo de divisas que pueden mantenerse recompradas.
 
