@@ -1,0 +1,3 @@
+Por Resolución Nº 236, de 31 de enero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la Resolución Nº 1.217, de 1988, de esta Subsecretaría, que autorizó a SOUTH PACIFIC FISHERIES S.A., sólo en cuanto se refiere a la autorización para operar un centro de cultivo correspondiente al Sector A, ubicado en Puerto Voigue, Isla Cheniao, Comuna de Quemchi, Provincia de Chiloé, X Región, conforme a lo dispuesto en el artículo 7º, del D.S. Nº 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 31 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
