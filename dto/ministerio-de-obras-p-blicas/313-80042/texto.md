@@ -1,0 +1,3 @@
+Por Decreto MOP Nº. 313, de 29 de noviembre de 1991, se expropiaron los lotes Nº.s. 16 y 17, superficies 510 m2. y 475 m2, respectivamente, roles de avalúo 544-1 y 503-4, Comuna de Santa Cruz, para la obra Camino Santa Cruz-Lolol-Bucalemu, Rol I-72, sector Santa Cruz-Cuesta La Lajuela, y se acordó precio de indemnización con sus propietarios Sucesión Octavio Mujica Valenzuela y Alejandro González Ramírez, ascendente a $ 281.295.- y $ 187.863.-.
+
+Fiscal del Ministerio de Obras Públicas.
