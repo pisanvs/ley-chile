@@ -1,0 +1,3 @@
+Por Resolución N° 2.040, de 4 de diciembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 94103162 presentada por WALTER FERNANDO GONZALEZ OYARZUN, para un centro de cultivo ubicado en Sector La Planchada, Isla Quinchao, Comuna de Curaco de Vélez, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14° del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 4 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
