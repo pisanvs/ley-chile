@@ -1,0 +1,3 @@
+Por decreto MOP Nº284 de fecha 28 de febrero del 2001, se expropió el lote de terreno Nº3, superficie 18.969,30 m2, rol de avalúo 248-140, comuna de Salamanca, para la obra "Canal Alimentador, Km. 0,000,00 a Km. 15,084,59 proyecto "Estudio de Factibilidad y Diseño del Embalse Corrales y sus Obras Complementarias" y se acordó el valor de indemnización con su propietaria Silveria González, ascendente a la cantidad de $11.196.650.
+
+Fiscal del Ministerio de Obras Públicas.
