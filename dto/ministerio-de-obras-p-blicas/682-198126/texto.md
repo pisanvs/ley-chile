@@ -1,0 +1,5 @@
+Por decreto MOP Nº682, de 5 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº35-1, para la obra: "Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal Sur Tramo 1. Atravieso Eucaliptus: Km. 89.700,00 a Km.
+
+90.340,00", Quinta Región, que figura a nombre de Vidal Aros Adrián, rol de avalúo 866-120, comuna de Villa Alemana, superficie 1.456 m2. La comisión de peritos integrada por los señores Claudia Paola Arellano Gómez, Marcelo Alexi González Astengo y Patricio Benjamín García Toso, fijó con fecha 16 de octubre de 2000, el valor provisional de la indemnización en la cantidad de $5.262.776.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
