@@ -1,0 +1,3 @@
+Por Resolución N° 335 de 23 de abril de 1986 de Dirección SERVIU Metropolitano, se ordenó expropiación, conforme DL N° 2.186 de 1978, parte inmueble ubicado en Avenida Departamental N° 864, presunto rol avalúos N° 5.344-40, comuna San Miguel, aparentemente dominio de doña María Teresa Contreras. Comisión Tasadora integrada por Sres. Juan Pañella Casares, René Ureta Köster y Jorge Navarro Navarrete, arquitectos, según informe del mes de noviembre de 1985 fijó monto provisional indemnización en $ 500.000.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
