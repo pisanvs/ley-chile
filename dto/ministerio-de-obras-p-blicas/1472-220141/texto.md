@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.472, de 19 de diciembre de 2003 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 2, para la obra Planta Elevadora de Aguas Servidas Nº 2, Comuna de Maullín, Provincia de Llanquihue, X Región, que figura a nombre de Coop. de Pescadores Maullín Ltda., rol de avalúo 36-3, superficie 400 m2, comuna de Maullín. La Comisión de Peritos, con fecha 15 de octubre de 2003, fijó la indemnización provisional en la cantidad de $5.500.000, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
