@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.312 de 29 de octubre de 1999, se dejó sin efecto la expropiación del lote Nº 4-A, que figura a nombre de Lorenzo Contreras Valenzuela, rol de avalúo 160-110, comuna de Pemuco, superficie 1.644 m2., para la obra Proyecto Laja Diguillín Area de Riego Pemuco Canal San Miguel Pal Pal Bajo, aprobada por el decreto MOP Nº 376 de fecha 31 de marzo de 1998.-
+
+Fiscal del Ministerio de Obras Públicas.
