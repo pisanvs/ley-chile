@@ -1,0 +1,57 @@
+ESTABLECE DIVERSAS NORMAS EN RELACION CON EL CONSEJO DE LA CAJA DE PREVISION DE LA DEFENSA NACIONAL Núm. 2.203.- Santiago, 3 de Mayo de 1978.- Visto: Lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; 527, de 1974, y 991, de 1976,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Exceptúase de la aplicación de las normas del decreto ley 49, de 1973, al Consejo de la Caja de Previsión de la Defensa Nacional.
+
+#### Artículo 2°
+
+La composición del Consejo de la Caja de Previsión de la Defensa Nacional, establecida en el decreto con fuerza de ley 222, de 1953, y en la ley 12.402, será, en lo sucesivo, la siguiente:
+
+El Ministro de Defensa Nacional;
+
+Los Comandantes en Jefe de cada Institución;
+
+El Vicepresidente Ejecutivo de la Caja;
+
+Los Jefes de los Servicios de Bienestar Social de las respectivas Instituciones:
+
+Tres Oficiales en retiro de libre designación del Presidente de la República, uno por cada Institución;
+
+Tres Suboficiales en retiro de libre designación del Presidente de la República, uno por cada Institución, y
+
+El Gerente General y el Fiscal de la Caja, los que sólo tendrán derecho a voz.
+
+Los Comandantes en Jefe podrán ser reemplazados por los Vice Comandantes en Jefe Institucionales o por los respectivos Jefes de Estados Mayores Generales.
+
+#### Artículo 3°
+
+La asistencia del Ministro de Defensa Nacional al Consejo será facultativa, y lo presidirá por derecho propio. En ausencia del Ministro presidirá el Consejo el Vicepresidente Ejecutivo y en defecto de ambos, el Consejero que el mismo Consejo designe.
+
+#### Artículo 4°
+
+El quórum para sesionar será el de los dos tercios de los miembros del Consejo con derecho a voto. Los acuerdos se adoptarán por simple mayoría de los asistentes.
+
+En caso de paridad de votos, se dirimirá por el voto del Consejero que presida.
+
+#### Artículo 5°
+
+La función de Secretario del Consejo será desempeñada por el Secretario General de la Caja de Previsión de la Defensa Nacional.
+
+En caso de ausencia o impedimento del Secretario General de la Caja, será reemplazado como Secretario del Consejo por el funcionario de la Institución que determine el Vicepresidente Ejecutivo.
+
+#### Artículo 6°
+
+Los Oficiales y Suboficiales en retiro de libre designación del Presidente de la República, a que se refiere el artículo 2°, durarán un año en sus cargos de Consejeros, pudiendo ser nuevamente designados por otros períodos iguales.
+
+#### Artículo TRANSITORIO
+
+Mientras los Comandantes en Jefe del Ejército, Armada y Fuerza Aérea, de conformidad con lo dispuesto en el decreto ley 527 de 1974, invistan las calidades de Presidente de la República o Miembros de la Junta de Gobierno, presidirá el Consejo el Presidente de la República o el Miembro de la Junta que asista en su caso, de acuerdo con el orden de precedencia establecida en los artículos 15° y 16° del referido decreto ley.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial y en los Boletines Oficiales del Ejército, Armada y Fuerza Aérea e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.-
+
+César Benavides.
