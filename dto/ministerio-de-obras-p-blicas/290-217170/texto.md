@@ -1,0 +1,3 @@
+Por Decreto MOP N° 290, de 31 de mayo de 1995, se expropió el lote de terreno N° 15, superficie 124,5 m2., rol de avalúo 593-38 comuna de Cerillos, para la obra Camino Autopista Santiago-San Antonio, sector Empalme 1 Riquelme-Bif. Malloco, y se acordó el valor de indemnización con su propietario Benedicto Torres Jarpa, ascendente a la cantidad de $12.347.531.
+
+Fiscal del Ministerio de Obras Públicas.
