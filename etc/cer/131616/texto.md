@@ -1,0 +1,5 @@
+APRUEBA REFORMAS DE ESTATUTOS DE CORPBANCA
+
+Certifico que por resolución Nº 9, de 29 de enero de 1999, se aprobaron las reformas introducidas a los estatutos de Corpbanca, en la Junta Extraordinaria de Accionistas celebrada el 22 de diciembre de 1998, cuya acta fue reducida a escritura pública el día 29 del mismo mes y año, en la Notaría de Santiago de don Kamel Saquel Zaror. Extracto de la reforma: Se aumentó el capital social a la suma de $116.918.482.216 representado por 165.203.786.894 acciones. El aumento de capital se entera mediante la emisión de 66.561.651.170 acciones de pago de la serie A o simplemente acciones ordinarias sin serie, si la emisión se efectuare después del canje de las acciones series A, B y C. Dichas acciones deberán quedar emitidas, suscritas y pagadas dentro del plazo de tres años contado desde la resolución que aprobó este aumento.
+
+Santiago, 29 de enero de 1999.- Ernesto Livacic Rojas, Superintendente de Bancos e Instituciones Financieras.
