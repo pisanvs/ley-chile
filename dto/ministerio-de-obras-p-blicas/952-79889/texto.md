@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 952, de 30 de septiembre de 1997, se expropiaron los lotes de terreno Nºs. 19 y 47, superficies 898 m² y 109 ², roles de avalúos 47-34 y 47-90, comuna de La Estrella, obra Camino Límite Regional (Rapel) - Alcones I, sector Litueche-La Rosa y se acordó precio de indemnización con sus propietarios Miguel Luis Yáñez Díaz y Luis Ernesto Cifra Huerta, ascendente a las cantidades de $806.210 para el lote Nº 19 y $674.928, para el lote Nº 47.
+
+Fiscal del Ministerio de Obras Públicas.
