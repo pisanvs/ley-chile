@@ -1,0 +1,11 @@
+Por Resolución Nº 173, de 31 de enero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ALIMENTOS MARINOS S.A., para sustituir las naves "Alimar VI", "Alimar VII", "Alcones", "Paniahue", "Ranquilhue", "Querelema", "Quilpolemu", "Panilonco", "Alcántara", "Santa Irene", "María Teresa", "Juncal", "Nilahue", "Pumanque" y "Tanume" autorizadas por Resoluciones Nº 209 de 1984, Nº 80 y Nº 1.364 de 1989, Nº 1.595 de 1990, Nº 1.255 de 1991, Nº 383, Nº 385, Nº 389 y Nº 465, de 1993, Nº 1.380, Nº 1.381, Nº 1.382, Nº 1.375, Nº 1.379, de 1996 y Nº 120, Nº 121, Nº 122, Nº 123 y Nº 124, de 1997, todas de esta Subsecretaría, por diez naves, la décima de las cuales, remodelada, se denomina "Ranquilhue".
+
+La nave "Ranquilhue", individualizada precedentemente, podrá operar en el litoral que se indica donde podrá capturar los siguientes recursos hidrobiológicos: a) Litoral de la III y IV Regiones, por fuera del área de reserva artesanal, con red de cerco: Anchoveta, Sardina española. b) Litoral de la V, VI, VII y IX Regiones, por fuera del área de reserva artesanal, con red de cerco: Jurel.
+
+Además, la interesada podrá capturar en la misma área y con el mismo arte de pesca los siguientes recursos hidrobiológicos: Agujilla, Anchoveta, Bonito, Caballa, Cabinza, Cojinoba del norte, Jurel, Machuelo o Tritre, Merluza de cola, Sardina española y Sardina común.
+
+Autorízase a Alimentos Marinos S.A. para ampliar actividades pesqueras con la nave "Ranquilhue", al litoral de la X región, por fuera del área de reserva artesanal, donde corresponda, en la captura con cerco de los recursos hidrobiológicos señalados precedentemente. Se exceptúan los recursos Bonito, Cabinza y Machuelo que no presentan distribución geográfica ni registran desembarques en esta Región.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 31 de Enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
