@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.420 de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº15B-1, superficie 1.727 m², Rol de Avalúo Nº590-15, comuna de Yungay, para la obra: ''Proyecto Laja Diguillín. Area de Riego Yungay. Canal Trilaleo. Prolongación y Faja Adicional. Km. 3,921 al Km. 4,606'', VIII Región y se acordó el valor de indemnización con su propietario Idilio del Carmen Cid Cid, ascendente a la cantidad de $906.602.-
+
+Fiscal del Ministerio de Obras Públicas.
