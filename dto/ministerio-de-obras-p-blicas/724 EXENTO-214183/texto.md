@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 724 de fecha 31 de julio del 2003, se expropió el lote de terreno Nº 46, superficie 147,5 m², Rol Nº 557-201, comuna de Linares, VII Región para la obra "Camino Ruta L-45, Sector: Linares - Llepo, Tramo: Km. 2,750.2 a Km. 13,147" y se acordó el valor de indemnización con su propietario Eliana de las Mercedes Vásquez Castillo, ascendente a la cantidad de $1.486.510.
+
+Fiscal del Ministerio de Obras Públicas.
