@@ -1,0 +1,3 @@
+Por Resolución N° 759 de 30 de Septiembre de 1993 de esta Subsecretaría del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar del 13 de julio de 1993, el plazo otorgado a la SOC. RUBIO Y MANRIQUEZ LTDA., R.U.T. N° 88.438.100-2, domiciliado en Talcahuano Avda. Colón 1625, para operar la Planta Industrial ubicada en Parque Industrial Escuadrón Comuna de Coronel, Provincia de Concepción autorizada por la Resolución N° 589, de 1992, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 30 de Septiembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
