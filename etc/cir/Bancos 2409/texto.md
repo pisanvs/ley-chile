@@ -5068,17 +5068,15 @@ Las instituciones financieras se ceñirán a las siguientes instrucciones en rel
 
 2.1.- Documentos a cargo de otras instituciones financieras del país.
 
-En concordancia con las disposiciones sobre canje y cámaras de compensación, los plazos máximos de retención para los valores en cobro que correspondan a cheques y otros documentos de cargo de otras instituciones financieras del país, son los siguientes:
+La retención para los valores en cobro en moneda chilena correspondientes a cheques y otros documentos de cargo de otras instituciones del país, se aplicará de acuerdo con lo siguiente:
 
-a) El mismo día en que se efectúe el depósito y durante el siguiente día hábil bancario hasta el término del proceso de la segunda reunión de la cámara de compensación, para los depósitos efectuados con documentos de cargo de otras instituciones financieras de la misma plaza o de una plaza distinta perteneciente a la misma agrupación, como asimismo para aquellos documentos en moneda extranjera pagaderos en otras plazas que sean presentados para su pago en la cámara de compensación de Santiago.
+a) Cuando se trate de documentos de cargo de instituciones que tienen presencia en la plaza o agrupación de plazas en que fueron depositados, la retención se aplicará el día en que se efectúe el depósito y durante el siguiente día hábil bancario hasta el término del proceso de la segunda reunión de la cámara de compensación.
 
-b) El mismo día en que se efectúe el depósito y hasta el término del proceso de la segunda reunión de la respectiva cámara de compensación que debe realizarse el subsiguiente día hábil bancario de aquel, para los depósitos con documentos de otras plazas que no sean de la misma agrupación, de cargo de instituciones financieras que tienen presencia en la plaza o agrupación de plazas.
+b) Al tratarse de documentos que sean de cargo de instituciones que no tienen presencia en la plaza o agrupación de plazas en que fueron depositados, el plazo máximo de retención será de tres días hábiles bancarios, incluido el día en que se reciben en depósito.
 
-c) El mismo día en que se efectúe el depósito y hasta el tercer día hábil bancario siguiente a aquél, cuando se trate de documentos de cargo de instituciones que no tienen presencia en la plaza o agrupación de plazas y cuyo cobro, por consiguiente, deba efectuarse mediante el envío del documento a otra oficina o depositándolo en un banco corresponsal. No obstante, en caso de que una oficina depositaria se encuentre ubicada en una localidad cuyo aislamiento o distancia impida cobrar el documento dentro de ese plazo, podrá extenderse la retención por el tiempo estrictamente necesario para efectuar el cobro, debiendo informarse apropiadamente a los depositantes acerca del mayor plazo de retención que por esas razones se aplique.
+Esta Superintendencia establecerá, mediante un listado, plazos mayores de retención para los documentos y cheques sobre otras plazas, que sean recibidos por oficinas situadas en localidades cuyo aislamiento geográfico impida su cobro dentro del citado plazo de tres días.
 
-En aquellos casos en que el cobro de los documentos se haga efectivo en plazos inferiores a los señalados en este numeral, la institución depositaria deberá, desde el momento en que recibe el reembolso, permitir al depositante disponer del respectivo importe.
-
-La liberación de fondos que, por cualquier circunstancia, se efectúe sobre un documento que resulte rechazado, en ningún caso exime al depositante de que, una vez producida la devolución del documento, éste se cargue a su cuenta corriente. Al respecto debe tenerse presente que una institución está obligada a recibir la devolución de un documento que ha presentado a cobro en la primera reunión de una cámara de compensación, sólo en su respectiva segunda reunión, quedando liberada de la obligación de recibirlo posteriormente. Si lo hiciere sin el consentimiento de su cliente, será responsable del perjuicio que le pudiere causar.
+Para la retención sobre valores en cobro correspondientes a documentos en moneda extranjera de cargo de otros bancos del país, se aplicará el plazo de retención señalado en la letra a) de este numeral, salvo que se trate de documentos que no pueden presentarse en la cámara de compensación de Santiago según lo indicado en el Capítulo 5-1 de esta Recopilación.
 
 2.2.- Documentos de cargo de la misma institución depositaria.
 
@@ -5688,15 +5686,9 @@ II.- CANJE DE DOCUMENTOS Y COMPENSACIÓN DE OBLIGACIONES EN MONEDA CHILENA.
 
 El canje de documentos en moneda chilena entre instituciones financieras, se rige por las disposiciones del Capítulo III.H.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
-Dicha reglamentación contempla reuniones y ciclos distintos según se trate de:
+El canje de los documentos, sean éstos de la misma plaza o agrupación o de otras plazas o agrupaciones de plazas, se efectuará en las reuniones previstas en el numeral 6 1 del título II de ese Capítulo III H.1.
 
-a) Documentos de la misma plaza o agrupación de plazas, como asimismo documentos de otras plazas no pertenecientes a la misma agrupación, cuando los participantes formen parte del Acuerdo de Canje Nacional.
-
-b) Documentos de otras plazas o agrupaciones de plazas, de cargo de instituciones que no participen en el Acuerdo de Canje Nacional o que sean presentados por las mismas.
-
-Se entiende que forman parte del Acuerdo de Canje Nacional, aquellas instituciones que han convenido entre ellas la realización del canje de documentos de otras plazas en las mismas reuniones fijadas para la cámara de compensación de documentos de la plaza, en razón a que utilizan sistemas y procedimientos internos que les permiten operar de esa forma.
-
-La primera reunión de ambas cámaras debe incluir todos los documentos recibidos por las instituciones financieras participantes, en ese mismo día dentro de su horario de atención normal a público autorizado por esta Superintendencia. Por lo tanto, en cada caso el horario para la reunión se acordará considerando la hora de cierre de atención al público de cada uno de los participantes en la respectiva plaza o agrupación de plazas (14 ó 16 hrs.) y las dificultades propias de las distancias que deben recorrerse para concurrir, especialmente en el caso de las agrupaciones de plazas.
+La primera reunión de la cámara debe incluir todos los documentos recibidos por las instituciones financieras participantes, en ese mismo día dentro de su horario de atención normal a público autorizado por esta Superintendencia. Por lo tanto, el horario para la reunión se acordará considerando la hora de cierre de atención al público de cada uno de los participantes en la respectiva plaza o agrupación de plazas (14 ó 16 hrs.) y las dificultades propias de las distancias que deben recorrerse para concurrir, especialmente en el caso de las agrupaciones de plazas.
 
 2.- Compensación de operaciones efectuadas a través de cajeros automáticos.
 
@@ -5735,10 +5727,6 @@ Los documentos deben ser impresos de acuerdo con las instrucciones generales que
 - **e)** Cantidad girada, expresada en cifras y en palabras; y
 
 - **f)** Firma autorizada de la institución que lo emite.
-
-5.- Disposición transitoria. Horario de la primera reunión de la cámara para documentos de otras plazas.
-
-De acuerdo con el Capítulo III.H.1 del Compendio de Normas Financieras, excepcionalmente y hasta el 9 de octubre de 2001, la primera reunión de la cámara de compensación para documentos de otras plazas puede celebrarse al inicio de la jornada del día hábil bancario siguiente, en vez de efectuarla el mismo día en que se reciben los documentos como se dispone en la disposición de carácter permanente que será obligatoria después de esa fecha.
 
 III.- CANJE DE DOCUMENTOS EN MONEDA EXTRANJERA ENTRE INSTITUCIONES BANCARIAS.
 
@@ -5790,13 +5778,11 @@ V.- INSTRUCCIONES CONTABLES.
 
 1.- Canje de documentos.
 
-Los documentos a cargo de otras instituciones financieras cuyo cobro se efectúe por intermedio de la Cámara de Compensación, se cargarán, según sea el caso, a la cuenta "Canje de la Plaza" o "Canje de otras plazas", de la partida 1015.
+Los documentos a cargo de otras instituciones financieras se cargarán a la cuenta "Canje de la Plaza" o "Canje de otras plazas", de la partida 1015, según lo que se indica a continuación.
 
-La cuenta "Canje de la plaza" incluirá el valor de los documentos que se presenten a cobro en la primera reunión de la cámara a que se refiere la letra a) del N° 1 del título II de este Capítulo, como asimismo el importe de los documentos en moneda extranjera pagaderos en otras plazas que sean presentados en la cámara de la plaza de Santiago, según lo indicado en el título III de este Capítulo.
+La cuenta "Canje de la plaza" incluirá el valor de los documentos que se presenten a cobro en la primera reunión de la cámara para el canje de documentos en moneda chilena a que se refiere el título II de este Capítulo, como asimismo el importe de los documentos en moneda extranjera pagaderos en otras plazas que sean presentados en la cámara de la plaza de Santiago, según lo indicado en el título III de este Capítulo.
 
-La cuenta "Canje de otras plazas", por su parte, incluirá los documentos que se cobrarán por intermedio de la cámara a que se refiere la letra b) del N° 1 del título II de este Capítulo o bien que se entreguen en comisión de cobranza a otro banco.
-
-Los importes de estas cuentas son deducibles de encaje según lo señalado en el N° 2 siguiente y deben ser solucionados al completarse el respectivo ciclo de cámara, según lo indicado en el N° 4 de este título.
+La cuenta "Canje de otras plazas", por su parte, incluirá los documentos a cargo de instituciones que no tienen presencia en la plaza o agrupación de plazas a la que concurre la oficina depositaría y que deben enviarse, por consiguiente, a otra oficina de la institución para que los presente a cobro, o bien entregarlos en comisión de cobranza a otro banco Para este efecto, los depósitos que se efectúen con estos documentos en una cuenta corriente de un banco corresponsal, pueden registrarse en la cuenta "Canje de otras plazas", pero sólo por dos días hábiles bancarios, en concordancia con lo indicado en el N° 2 siguiente.
 
 Los cargos que se efectúen a las cuentas "Canje de la Plaza" o "Canje de otras plazas" no pueden comprender en ningún caso, valores girados por la propia institución contra sus corresponsales.
 
@@ -5804,31 +5790,23 @@ Los cargos que se efectúen a las cuentas "Canje de la Plaza" o "Canje de otras 
 
 Los saldos de las cuentas "Canje de la plaza" y "Canje de otras plazas" son deducibles de las obligaciones afectas a encaje según lo indicado en el Capítulo 4-1 de esta Recopilación.
 
-Atendido que la deducción de documentos de la misma plaza sólo puede efectuarse por un día hábil bancario y la de documentos de otras plazas solamente durante dos días hábiles bancarios, los importes de los documentos que no hayan sido solucionados dentro de esos plazos se incluirán en la cuenta "Canje no deducible".
+Dicha deducción sólo podrá efectuarse por un día hábil bancario para los documentos registrados en la cuenta "Canje de la plaza" y durante dos días hábiles bancarios para los documentos registrados en la cuenta "Canje de otras plazas" Por consiguiente, los importes de los documentos que no hayan sido solucionados dentro de esos plazos, se traspasarán a la cuenta "Canje no deducible" de la partida 1015.
 
-Por consiguiente, aquellos documentos a cargo de una institución que no tenga presencia en la plaza o agrupación de plazas en que ellos se reciben, y cuyo cobro se efectúe enviándolos a otra oficina de la misma institución para que los presente en la cámara de compensación de la respectiva localidad, sólo pueden mantenerse registrados en la cuenta "Canje de la plaza" y "Canje de otras plazas", uno o dos días hábiles, respectivamente. En el caso de documentos que por aquella razón se depositan en bancos corresponsales, podrá efectuarse la deducción de encaje utilizando la cuenta "Canje de otras plazas" según lo indicado en el número siguiente.
+3.- Resultados del Canje.
 
-3.- Encargo de cobranza a otros bancos.
+Los importes registrados en las cuentas de Canje antes mencionadas, deberán quedar saldados el día del término del respectivo ciclo de la cámara de compensación.
 
-Los documentos a cargo de otras instituciones cuya cobranza se efectúe mediante su depósito en las cuentas corrientes de corresponsales, pueden mantenerse registrados también sólo hasta por dos días hábiles bancarios, en la cuenta "Canje de otras plazas", según lo previsto en el Capítulo 7-5 de esta Recopilación.
-
-En este caso es igualmente aplicable lo indicado en el N° 1 de este título, en cuanto al tipo de documentos que se puede imputar a esa cuenta.
-
-4.- Resultados del Canje.
-
-El día del término de cada ciclo de cámara deberán quedar saldados los importes correspondientes a los respectivos ciclos, registrados en las cuentas de Canje antes mencionadas.
-
-Los documentos que haya recibido una institución financiera en la primera reunión se cargarán a las respectivas cuentas del pasivo con abono a las cuentas "Canje de la Plaza" o "Canje de otras plazas", según corresponda.
+Los documentos que haya recibido una institución financiera en la primera reunión se cargarán a las respectivas cuentas del pasivo con abono a la cuenta "Canje de la Plaza.
 
 Los documentos que le sean devueltos a la institución en la segunda reunión, originarán un abono a la cuenta "Canje de la plaza" o "Canje de otras plazas", o bien, "Canje no deducible", según corresponda, debiendo cargarse las cuentas de las personas a quienes hubieren sido antes acreditadas las respectivas cantidades, la cuenta de origen cuando hayan sido recibidos por la institución financiera en pago de obligaciones, o bien, transitoriamente a "Varios Deudores", cuando corresponda.
 
 El resultado a favor o en contra del canje de documentos en moneda chilena de un ciclo de cámara se saldará, en definitiva, con abono o cargo a la cuenta corriente de la entidad en el Banco Central de Chile, en tanto que el saldo deudor o acreedor por el proceso de canje de documentos en moneda extranjera corresponderá al monto neto a recibir o pagar por la institución, que se soluciona con los pagos de los respectivos bancos deudores en la misma fecha.
 
-5.- Control contable sobre el canje.
+4.- Control contable sobre el canje.
 
 Los tratamientos contables señalados en los numerales precedentes corresponden a la descripción de los criterios generales que deben aplicarse, en cuanto a los efectos en los deducibles de encaje y oportunidad de registro. Como es natural, ese esquema no es óbice para una apertura contable amplia que considere el uso de subcuentas, cuentas complementarias o la utilización de auxiliares que permitan un adecuado control sobre el canje, siempre que se encuadren en los criterios descritos y se informen correctamente los saldos en el sistema de información de esta Superintendencia, el cual considera las cuentas mencionadas en estas normas.
 
-Por otra parte, debe tenerse en cuenta que las contabilizaciones descritas en los numerales anteriores se refieren a la situación consolidada de la institución financiera. Por consiguiente, cualquier sistema que habiliten las instituciones financieras para el control de los documentos que sus oficinas se envíen entre sí para ser cobrados en la plaza en que tenga presencia el banco librado, debe garantizar que la deducción de los importes para efectos de encaje no supere uno o dos días hábiles bancarios, según sea la cámara a la cual estos se presenten. La exigencia de encaje de la institución no puede ser afectada, en caso alguno, por la transferencia de los valores en cobro entre oficinas.
+Por otra parte, debe tenerse en cuenta que las contabilizaciones descritas en los numerales anteriores se refieren a la situación consolidada de la institución financiera. Por consiguiente, cualquier sistema que habiliten las instituciones financieras para el control de los documentos que sus oficinas se envíen entre sí para ser cobrados en la plaza en que tenga presencia el banco librado, debe garantizar que la deducción de los importes para efectos de encaje no supere dos días hábiles bancarios, según sea la cámara a la cual estos se presenten. La exigencia de encaje de la institución no puede ser afectada, en caso alguno, por la transferencia de los valores en cobro entre oficinas.
 
 ANEXO N°1
 
