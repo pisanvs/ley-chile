@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 334, de fecha 30 de marzo de 2001, se expropiaron los lotes de terreno Nºs 31, 32 y 33, superficie 811 M2, 233 M2 y 422 M2, rol de avalúo 49-33, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Puente La Puntilla - Lonquimay, Km. 106,69041 al 119,30000" y se acordó el valor de indemnización con su propietario Eduardo Espinoza Espinoza, ascendente a la cantidad de $730.498.-
+
+Fiscal del Ministerio de Obras Públicas.
