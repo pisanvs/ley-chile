@@ -1,0 +1,3 @@
+Por decreto MOP Nº 326, de 28 de febrero de 2001, se expropió el lote de terreno Nº 669-1, superficie 5.287 m2, rol de avalúo 125-130, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. sector C: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Cristián David Parker Oyarzún, ascendente a la cantidad de $10.936.621.-
+
+Fiscal del Ministerio de Obras Públicas.
