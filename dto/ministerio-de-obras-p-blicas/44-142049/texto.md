@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 44, de 10 de marzo de 1987, se modificó el Decreto No. 388, de 03 de diciembre de 1986, que autorizó expropiación del lote No. 7, para la obra Avenida Norte Sur Balmaceda, sector oreja nor - oriente, Comuna de Santiago, en el sentido de dejar constancia que la Comisión de Peritos fijó el valor provisional con fecha 24 de agosto de 1984 y no 24 de agosto de 1986.-
+
+Fiscal del Ministerio de Obras Públicas.
