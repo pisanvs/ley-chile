@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.882, de 31 de octubre del 2000, se expropió el lote de terreno Nº97-A, superficie 1.129 m², rol de avalúo 233-593, comuna de Rengo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector F, Sexta Región y se acordó el valor de indemnización con su propietaria Sociedad Comercial Barrera Leal y Compañía Limitada, ascendente a la cantidad de $9.428.170.-
+
+Fiscal del Ministerio de Obras Públicas.
