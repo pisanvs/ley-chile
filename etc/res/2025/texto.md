@@ -1,0 +1,5 @@
+AUTORIZA A DON CARLOS HERIBERTO LOW BORQUEZ PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por Resolución Nº2.025, de 20 de Diciembre de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Carlos Heriberto Low Bórquez, R.U.T. Nº6.072.587-K, domiciliado en calle Esteban Scarpa Nº0751, Punta Arenas, para iniciar actividades pesqueras, en orden a operar una planta industrial en la XII Región, ubicada en calle Esteban Scarpa Nº0751, Punta Arenas, donde procesará en las líneas de elaboración de ahumado y fresco-enfriado, los siguientes recursos hidrobiológicos: Almeja o taca, Almeja, Caracol, Cholga, Chorito, Ostión del Sur, Centolla y Centollón y Erizo. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 20 de Diciembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
