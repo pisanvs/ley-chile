@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.122, de 31 de agosto del 2000, se expropió el lote de terreno Nº 686, superficie 96.353 m², rol de avalúo 125-105, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector C: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Selín Sarras Sarras, ascendente a la cantidad de $123.590.066.
+
+- Fiscal del Ministerio de Obras Públicas.
