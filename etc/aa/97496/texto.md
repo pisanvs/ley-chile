@@ -1,0 +1,5 @@
+AUTO ACORDADO SOBRE REMUNERACIONES DEL OFICIAL PRIMERO ADMINISTRATIVO
+
+En Santiago, a dos de marzo de mil novecientos noventa y ocho, se reunió el Tribunal Constitucional presidido por don Osvaldo Faúndez Vallejos y con la asistencia de sus Ministros señores Eugenio Valenzuela Somarriva, señora Luz Bulnes Aldunate, Juan Colombo Campbell, Mario Verdugo Marinkovic y Hernán Alvarez García, y adoptó el siguiente auto acordado de acuerdo a sus atribuciones legales: "Modificar el artículo 2º del auto acordado sobre remuneraciones de 12 de enero de 1982, publicado en el Diario Oficial el 15 de enero de ese año, en el sentido de que la remuneración del Oficial Primero Administrativo será al equivalente del 100% del grado VIII de la Escala de Sueldos del Poder Judicial, asignado al Prosecretario de la Corte Suprema, con las asignaciones propias de ese cargo."
+
+Publíquese el presente auto acordado en el Diario Oficial.- O. Faúndez V. (Presidente), E. Valenzuela S., L. Bulnes A., J. Colombo C., M. Verdugo M., H. Alvarez G. y R. Larraín C. (Secretario).
