@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.190, de fecha 31 de julio de 2002, se expropiaron los lotes de terreno Nºs 20 y 22, superficies 8.065,5 m2 y 331,9 m2, respectivamente, rol de avalúo 228-118, comuna de Toltén, IX Región, para la obra ''Camino Costero Sur, Sector Puente Peule - Límite Regional, Tramo By Pass Queule, Km. 0,000 al 5,000'' y se acordó el valor de indemnización con su propietario don Rigoberto Machuca Flores, ascendente a la cantidad de $2.553.018.-
+
+Fiscal del Ministerio de Obras Públicas.
