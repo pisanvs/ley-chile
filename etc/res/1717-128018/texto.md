@@ -1,0 +1,3 @@
+Por resolución Nº 1.717 de 30 de noviembre de 1998 de esta Subsecretaría, déjase sin efecto las resoluciones Nº 1.552 de 1990 y Nº 9 de 1996, de esta Subsecretaría, que autorizaron a RAFAEL SEGUNDO PUEBLA RODRIGUEZ, para instalar y operar el centro de cultivo ubicado en Bahía Inglesa, Sector El Morro, comuna de Caldera, provincia de Copiapó, III Región.
+
+Valparaíso, 30 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
