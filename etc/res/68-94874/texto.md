@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD COMERCIAL E INDUSTRIAL AGROMAR LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución N° 68, de 18 de Enero de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Comercial e Industrial Agromar Limitada, R.U.T. N° 89.042.600-K, domiciliada en la ciudad de Castro, para ampliar actividades pesqueras autorizadas por Resolución N° 232, de 1984, de esta Subsecretaría, en orden a operar una planta industrial en la X Región, ubicada en calle Gamboa s/n, en la ciudad de Castro, donde procesará en la línea de elaboración de conservas, los siguientes recursos: Almeja o taca, Almeja, Cholga, Chorito, Choro, Loco, Macha, Navajuela, Ostra chilena, Calamar, Centolla, Jaiba, Picoroco, Erizo, Piure. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 18 de Enero de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
