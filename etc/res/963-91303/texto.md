@@ -1,0 +1,3 @@
+Por resolución No. 963 de 24.10.89 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, parte inmueble ubicado en calle Poenish No. 2319, presunto rol avalúos 861-1, comuna San Miguel, aparentemente dominio de don Luis Quevedo Urrea. Comisión integrada por peritos Srs. Jorge Cavagnaro Michelis, ingeniero civil, Luis Rojas Quezada, constructor civil y Luis del Pozo Concha, arquitecto, según informe de 20.07.89, fijó monto provisional indemnización en $ 1.309.740.- pagadera al contado.
+
+Director SERVIU Metropolitano.
