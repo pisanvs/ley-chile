@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº977, de fecha 28 de junio de 2002, se expropiaron los lotes de terreno Nºs. 1, 2, 3, 4, 5 y 6, superficie 46, 272, 222, 728, 1.356 y 262 m², respectivamente, Rol Nº223-9, comuna de Coelemu, VIII Región, para la obra ''Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 a Km. 8,28000'' y se acordó el valor de indemnización con su propietario Rómulo Eduardo Melo Monsalve y Otra, ascendente a la cantidad de $1.659.200.-
+
+Fiscal del Ministerio de Obras Públicas.
