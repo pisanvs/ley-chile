@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 175, de 30 de junio de 1989, se expropiaron los lotes N°s. 28-a y 29-a, superficies 10.170 y 19.277 M2., Roles de Avalúo 2202-18 y 2202-19, respectivamente, Comuna de Chillán, para Camino Longitudinal Sur, Ruta 5, sector By Pass-Chillán y se acordó precio de indemnización con su propietario Faenadora de Carnes Ñuble S.A., ascendente a $ 2.073.113.-
+
+Fiscal Ministerio de Obras Públicas.
