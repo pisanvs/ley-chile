@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.462 de fecha 28 de septiembre de 2001, se expropió el lote de terrreno Nº31, superficie 323,88 m2., rol de avalúo 136-49, comuna de Chonchi, para la obra ''Camino Acceso Sur a Chonchi, Sector Ruta 5-Chonchi, Km.0,000 a Km.3,25253'' y se acordó el valor de indemnización con su proietario Germán René Maldonado García, ascendente a la cantidad de $7.921.294.
+
+- Fiscal del Ministerio de Obras Públicas.
