@@ -1,0 +1,3 @@
+Por resolución Nº2.961, de 20 de diciembre de 2002, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº979 de 1989, de esta Subsecretaría, que autorizó a PESCA CHILE S.A., para operar la nave "Puerto Ballena", en las aguas interiores al sur del paralelo 47º L.S., sobre el recurso Merluza de tres aletas, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
