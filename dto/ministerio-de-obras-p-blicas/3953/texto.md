@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.953 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 97, superficie 100 m²., rol de avalúo 462-6, comuna de San Fernando, para la obra ''Concesión Internacional Ruta 5 Tramo Santiago - Talca Sector H: Km. 128.400,00 a Km. 140.850,00'' y se acordó el valor de indemnización con su propietario Víctor René Arias Gálvez, ascendente a la cantidad de $745.819.-
+
+Fiscal del Ministerio de Obras Públicas.
