@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.581, de 29 de septiembre del 2000, se expropió el lote de terreno Nº16, superficie 315,66 m2., rol de avalúo 136-20, comuna de Chonchi, para la obra Camino Acceso Sur a Chonchi, Sector Ruta 5 - Chonchi, Km. 0,000 a Km. 3,25253 y se acordó precio de la indemnización con su propietario Juan Macías Gallardo, ascendente a la cantidad de $326.548.-
+
+Fiscal del Ministerio de Obras Públicas.
