@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 1.094 de 22 de noviembre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 82, para la obra: Camino Ruta G-16, Sector Lampa - Polpaico, km. 19,72359 a km. 34,51667, que figura a nombre de Torres Olivares Jorge R, rol de avalúo 62-38, comuna de Lampa; Región Metropolitana, superficie 915 m2. La comisión de peritos, fijó con fecha 3 de agosto de 2000 en la cantidad de $3.892.500.- lote Nº82. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
