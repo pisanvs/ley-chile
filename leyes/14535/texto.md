@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Panguipulli para que proceda a invertir el excedente de los fondos producidos o que se produzcan por aplicación de la ley 12.003, de 19 de enero de 1956, en la atención de las obras de adelanto local que indica.
