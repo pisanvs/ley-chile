@@ -1,0 +1,3 @@
+Por Resolución Nº 45, de 16 de enero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución Nº 36 de 1991, de esta Subsecretaría, que autorizó a PESQUERA OCEANICA LIMITADA, para realizar actividades pesqueras extractivas con la nave "Don Nelson", matrícula 1995, en el litoral de la III y IV regiones, en virtud de lo señalado en la letra b) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 16 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
