@@ -1,0 +1,3 @@
+Por resolución Nº 2.154, de 3 de septiembre de 2003, de esta Subsecretaría, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A. para ampliar actividades pesqueras de transformación, en orden a operar y procesar en la planta ubicada en Tomé, calle Manuel Montt Nº 1941, VIII Región, en la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Conserva: Sardina española, Sardina común, Machuelo o tritre, Anchoveta, Pejerrey de mar, Culengue, Cholga, Chorito, Choro, Jibia, Navaja de mar o Huepo, Pulpo, Navajuela, Almeja y Taquilla.
+
+Valparaíso, 3 de septiembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
