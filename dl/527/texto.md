@@ -1,0 +1,159 @@
+MINISTERIO DEL INTERIOR DECRETO LEY 527, DE 1974 Aprueba Estatuto de la Junta de Gobierno
+
+(Publicado en el "Diario Oficial" N° 28.886, de 26 de junio de 1974)
+
+NUM. 527.- Santiago, 17 de junio de 1974.- Visto lo dispuesto en los decretos leyes números 1 y 128, de 1973, la Junta de Gobierno ha acordado y dicta el siguiente
+
+Decreto Ley:
+
+## Título Primero — {Arts. 1-3}
+
+De los Poderes del Estado y su Ejercicio
+
+#### Artículo 1°
+
+La Junta de Gobierno, integrada por los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea y por el General Director de Carabineros, ha asumido los Poderes Constituyente, Legislativo y Ejecutivo.
+
+#### Artículo 2°
+
+La Junta de Gobierno adoptará sus decisiones por la unanimidad de sus miembros.
+
+#### Artículo 3°
+
+El Poder Judicial está constituido y ejerce sus funciones en la forma y con la independencia y facultades que señalan la Constitución Política del Estado y las leyes de la República.
+
+## Título Segundo — (ARTS. 4-6)
+
+Del Ejercicio de los Poderes Constituyente y Legislativo
+
+#### Artículo 4°
+
+La Junta de Gobierno ejerce, mediante decretos leyes, el Poder Constituyente y el Poder Legislativo, de acuerdo con las disposiciones contenidas en este Estatuto y en los preceptos legales que lo complementen. Dichos decretos leyes deben llevar la firma de todos sus miembros y, cuando éstos lo estimen conveniente, la de el o los Ministros respectivos.
+
+> **Nota.** NOTA: 1 El artículo 1° del decreto ley N° 991, de 1975, dispuso que los Miembros de la Junta de Gobierno ejercerán las Potestades Constituyente y Legislativa de acuerdo con las normas establecidas en su Estatuto, aprobado por el presente decreto ley, y en conformidad con las disposiciones complementarias contenidas en el citado D.L. 991, de 1975.
+
+#### Artículo 5°
+
+La decisión de legislar compete exclusivamente a la Junta de Gobierno y la iniciativa para proponer suplementos a partidas o ítem de la Ley General de Presupuestos; para alterar la división política o administrativa del país; para suprimir, reducir o condonar impuestos o contribuciones de cualquier clase, sus intereses o sanciones, postergar o consolidar su pago y establecer exenciones tributarias totales o parciales; para crear nuevos servicios públicos o empleos rentados; para fijar o modificar las remuneraciones y demás beneficios pecuniarios del personal de los servicios de la administración del Estado, tanto central como descentralizada; para fijar los sueldos o salarios mínimos de los trabajadores del sector privado, aumentar obligatoriamente sus remuneraciones y demás beneficios económicos o alterar las bases que sirvan para determinarlos; para establecer o modificar los regímenes previsionales o de seguridad social; para conceder o aumentar, por gracia, pensiones u otros beneficios pecuniarios, y para condonar las sumas percibidas indebidamente por concepto de remuneraciones u otros beneficios económicos, pensiones de jubilación, retiro o montepío o pensiones de gracia.
+
+Los Ministerios y Organos Asesores de la Junta de Gobierno podrán presentar proposiciones sobre materias legislativas, a fin de que si ésta lo estima procedente, ejercite la facultad privativa a que se refiere este artículo.
+
+#### Artículo 6°
+
+Un decreto ley complementario establecerá los órganos de trabajo y los procedimientos de que se valdrá la Junta para ejercer las potestades contituyente y legislativa.
+
+Estas normas complementarias establecerán, además, los mecanismos que permitan a la Junta de Gobierno requerir la colaboración de la comunidad -a través de sus organizaciones técnicas y representativas- para la elaboración de los decretos leyes.
+
+## Título Tercero — (ARTS. 7-14)
+
+Del Ejercicio del Poder Ejecutivo
+
+#### Artículo 7°
+
+El Poder Ejecutivo es ejercido por el Presidente de la Junta de Gobierno quien, con el título de Presidente de la República de Chile, administra el Estado y es el Jefe Supremo de la Nación, con las facultades, atribuciones y prerrogativas que este mismo Estatuto le otorga.
+
+El cargo de Presidente de la Junta corresponde al integrante titular de ella que ocupe el primer lugar de precedencia de acuerdo con las reglas que fija el Título IV.
+
+#### Artículo 8°
+
+Sin perjuicio de lo establecido en el artículo anterior, los demás integrantes de la Junta de Gobierno colaborarán con su Presidente en el ejercicio de las funciones ejecutivas que a éste le corresponden, al asumir -para estos efectos- la dirección superior de las actividades, áreas y funciones que él les encomiende.
+
+#### Artículo 9°
+
+Al Presidente de la Junta de Gobierno está confiada la administración y gobierno del Estado, y su autoridad se extiende a todo cuanto tiene por objeto la conservación del orden público interno y la seguridad exterior de la República, de acuerdo con el presente Estatuto, la Constitución y las leyes.
+
+#### Artículo 10°
+
+Son atribuciones especiales del Presidente:
+
+1.- Dictar los reglamentos, decretos o instrucciones que crea conveniente para la ejecución de las leyes.
+
+2.- Velar por la conducta ministerial de los Jueces y demás empleados del Poder Judicial y requerir, con tal objeto, a la Corte Suprema para que si procede declare su mal comportamiento, o al Ministerio Público, para que reclame medidas disciplinarias del Tribunal competente, o para que, si hubiere mérito bastante, entable la correspondiente acusación.
+
+3.- Nombrar a los Ministros de Estado y oficiales de sus Secretarías, a los Agentes Diplomáticos, Intendentes y Gobernadores, con acuerdo de la Junta de Gobierno, pero estos funcionarios se mantendrán en sus puestos mientras cuenten con la confianza del Presidente.
+
+4.- Nombrar a los Magistrados de los Tribunales Superiores de Justicia y a los Jueces Letrados, oyendo a la Junta de Gobierno.
+
+5.- Proveer los demás empleos civiles y militares que determinen las leyes.
+
+6.- Destituir a los empleados de la Administración del Estado de su designación, por ineptitud u otro motivo que haga inútil o perjudicial sus servicios, en conformidad a las leyes orgánicas de cada institución.
+
+7.- Conceder jubilaciones, retiros y goce de montepío, con arreglo a las leyes.
+
+8.- Cuidar de la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. El Presidente de la Junta de Gobierno, con la firma de todos sus miembros, podrá decretar pagos no autorizados por la ley sólo para atender necesidades impostergables derivadas de calamidades públicas, de agresión exterior, de conmoción interna o del agotamiento de los recursos destinados a mantener servicios que no puedan paralizarse sin grave daño para el país. El total de los giros que se hagan con estos objetos, no podrá exceder anualmente del dos por ciento (2%) del monto de los gastos que autorice la Ley General de Presupuestos. Se podrá contratar empleados con cargo a esta misma ley, pero sin que el ítem respectivo pueda ser incrementado ni disminuido mediante traspasos. Los Ministros de Estado o funcionarios que autoricen o den curso a gastos que contravengan lo dispuesto en este número, serán responsables solidaria y personalmente de su reintegro y culpables del delito de malversación de caudales públicos.
+
+9.- Conceder personalidades jurídicas a las corporaciones privadas, y cancelarlas; aprobar los estatutos por que deban regirse, rechazarlos y aceptar modificaciones.
+
+10.- Conceder indultos particulares oyendo a la Junta de Gobierno.
+
+11.- Disponer de las fuerzas de aire, mar y tierra, organizarlas y distribuirlas según lo hallare por conveniente, oyendo a la Junta de Gobierno.
+
+12.- Mandar las fuerzas de aire, mar y tierra con acuerdo de la Junta de Gobierno. En este caso, el Presidente podrá residir en cualquier lugar ocupado por armas chilenas.
+
+13.- Mantener las relaciones políticas con las potencias extranjeras, recibir sus Agentes, admitir sus Cónsules, conducir las regociaciones, hacer las estipulaciones preliminares, concluir y firmar todos los tratados de paz, de alianza, de tregua, de neutralidad, de comercio, concordatos y otras convenciones. La aprobación y ratificación de los Tratados Internacionales se sujetarán a lo establecido en el decreto ley 247 de 17 de enero de 1974.
+
+14.- DEROGADO
+
+15.- Las demás atribuciones que la Constitución y las leyes conceden al Presidente de la República.
+
+#### Artículo 11°
+
+El Presidente, con acuerdo de la Junta de Gobierno, decidirá si ha o no lugar a la admisión de las acusaciones que cualquier individuo particular presente contra los Ministros de Estado con motivo de los perjuicios que pueda haber sufrido por algún acto de éstos.
+
+#### Artículo 12°
+
+En el decreto ley que autorice al Presidente de la Junta de Gobierno para declarar la guerra, se dejará constancia de haber sido oído el Consejo de Oficiales Generales de cada una de las instituciones de las Fuerzas Armadas.
+
+#### Artículo 13°
+
+Con acuerdo de la Junta de Gobierno, el Presidente conferirá los empleos o grados de Oficiales Generales, mediante decreto supremo.
+
+Para la provisión de los empleos o grados de Coroneles o Capitanes de Navío, se estará a lo dispuesto en los reglamentos de las instituciones.
+
+#### Artículo 14°
+
+Cuando de conformidad a la Constitución o las leyes se requiera el acuerdo del Senado para la designación o remoción de un funcionario, deberá procederse con acuerdo de la Junta.
+
+## Título Cuarto — (ARTS. 14-19)
+
+Del orden de precedencia, de la subrogación y del
+
+reemplazo de los Miembros de la Junta de Gobierno
+
+#### Artículo 15°
+
+Sin perjuicio de lo dispuesto en los artículos siguientes, el orden de precedencia de los integrantes de la Junta es el que se indica a continuación:
+
+1.- El Comandante en Jefe del Ejército;
+
+2.- El Comandante en Jefe de la Armada;
+
+3.- El Comandante en Jefe de la Fuerza Aérea, y 4.- El General Director de Carabineros.
+
+#### Artículo 16°
+
+Cuando el Presidente de la República, por enfermedad, ausencia del territorio nacional u otro grave motivo de carácter temporal, no pudiere ejercer su cargo, le subrogará, con el título de Vicepresidente de la República, el miembro titular de la Junta de Gobierno que le siga en el orden de precedencia.
+
+El Vicepresidente de la República asumirá, además, la calidad de Presidente subrogante de la Junta de Gobierno.
+
+Si los cuatro integrantes de la Junta tuvieren la calidad de subrogantes, se aplicará el orden de precedencia establecido en el artículo 15°, para determinar quién ejercerá las subrogaciones señaladas en los incisos precedentes.
+
+#### Artículo 17°
+
+Si por las circunstancias expresadas en el inciso primero del artículo anterior, cualquiera de los integrantes de la Junta no pudiere ejercer su cargo, será subrogado por el Oficial General de Armas en servicio activo más antiguo en su respectiva institución, quien se integrará a la Junta en el cuarto orden de precedencia.
+
+Si el impedimento temporal afectare simultáneamente a dos o más integrantes de la Junta, los subrogantes se incorporarán a ella, a continuación de el o los integrantes titulares, observándose entre los subrogantes el orden de precedencia del artículo 15°.
+
+#### Artículo 18°
+
+Cuando sea necesario reemplazar a alguno de los integrantes de la Junta de Gobierno, por muerte, renuncia o cualquier clase de imposibilidad absoluta del titular, la Junta designará al Comandante en Jefe institucional o al General Director de Carabineros que deba reemplazarle.
+
+Si la imposibilidad afecta a uno solo de los miembros de la Junta, el reemplazante ocupará el último orden de precedencia.
+
+Si dicha imposibilidad afectare a dos o más de los integrantes titulares en forma simultánea, los nuevos miembros se incorporarán a la Junta conservando entre ellos el orden de precedencia que les corresponda en conformidad al artículo 15°, a continuación de el o los titulares que hubieren permanecido en sus cargos.
+
+#### Artículo 19°
+
+En caso de duda acerca de si la imposibilidad que priva a un miembro de la Junta de Gobierno del ejercicio de sus funciones es de tal naturaleza que debe hacerse efectivo su reemplazo, en conformidad al procedimiento previsto en el artículo anterior, corresponderá a los demás miembros titulares de la Junta resolver sobre la duda planteada.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros, Investigaciones y en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.
