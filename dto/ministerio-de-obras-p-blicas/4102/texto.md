@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.102, de 31 de agosto de 2000, se expropió el lote de terreno Nº 34, superficie 536 m², rol de avalúo 619-7, comuna de Molina, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector N, Séptima Región, y se acordó el valor de indemnización con su propietaria Magaly del Carmen Ocares Palma, ascendente a la cantidad de $1.853.371.
+
+- Fiscal del Ministerio de Obras Públicas.
