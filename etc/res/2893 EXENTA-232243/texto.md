@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.893, de 15 de octubre de 2004, de esta Subsecretaría, autorízase a COMERCIAL MAÑIHUALES LIMITADA, para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en camino Aeropuerto Teniente Vidal s/n, Coyhaique, XI Región, en las líneas de proceso Cocido, Fresco-enfriado, Fresco-refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 15 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
