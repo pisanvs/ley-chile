@@ -1,0 +1,3 @@
+Por decreto MOP Nº723 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº3, superficie 2.238 m², rol de avalúo Nº592-11, comuna de Yungay, para la obra "Area de Riego Yungay, Canal San José, Ramal 8, Faja Adicional y Prolongación Km. 0,005 al 0,977 del Proyecto Laja Diguillín" y se acordó el valor de indemnización con su propietario José Guzmaro Campos Sandoval, ascendente a la cantidad de $1.177.900.
+
+Fiscal del Ministerio de Obras Públicas.
