@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.407, de 27 de agosto de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111761 presentada por Grieg Seafood Chile S.A., hoy CHILE SEAFOOD S.A., para instalar y operar un centro de cultivo ubicado en canal King, al norte de Isla Benjamín, sector 6, XI Región.
+
+Valparaíso, 27 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
