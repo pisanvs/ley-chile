@@ -1,0 +1,7 @@
+INSTRUYE SOBRE PRESENTACION DE DECLARACIONES MENSUALES, FORMULARIO 29 SIN PAGO
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 75 del 16 de julio de 2004 que Instruye Sobre Presentación de Declaraciones Mensuales (Formulario 29) Sin Pago.
+
+Las declaraciones de Impuestos Mensuales en Formulario 29 Sin Pago sólo podrán presentarse a través de internet y mediante aplicación telefónica, hasta el día 28 del mes respectivo, en caso contrario se podrán presentar en la Unidad del Servicio de Impuestos Internos cuya jurisdicción corresponda al territorio en que se encuentra ubicado el domicilio del contribuyente, dentro del horario habilitado para atención de público, de 9.00 a 13.00 horas, hasta el día 12 del mes respectivo o hasta el día hábil siguiente, en caso que este fuera feriado o sábado, los contribuyentes incluidos en la nómina "Grandes Contribuyentes", fijada por resolución Ex. Nº 45, de 19 de noviembre de 2001, que no hagan uso de las autorizaciones ya mencionadas deberán presentar sus declaraciones en la Dirección Grandes Contribuyentes, dentro del horario ya señalado.
+
+El texto íntegro de esta resolución está publicado en el sitio Web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en julio de 2004.
