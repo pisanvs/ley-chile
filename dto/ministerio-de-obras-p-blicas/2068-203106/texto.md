@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.068, de 28 de diciembre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº7, superficie 689 m2., rol de avalúo 103-101, comuna de Curacaví, Región Metropolitana, para la obra Concesión Internacional Interconexión Vial Santiago Valparaíso Viña del Mar Tramo 6C1 Km. 38.620,00 al 41.853,56. Posteriormente,Por decreto exento MOP Nº1.440, de 30 de agosto de 2002, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con su propietario Sergio Undurraga Saavedra, ascendente a la cantidad de $5.735.696.-
+
+Fiscal del Ministerio de Obras Públicas.
