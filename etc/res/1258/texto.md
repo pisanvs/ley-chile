@@ -1,0 +1,3 @@
+Por Resolución N° 1.258, de 21 de Diciembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifícase la Resolución N° 610, de 1991, de esta Subsecretaría, en el sentido de señalar que la persona autorizada para iniciar actividades pesqueras con la nave "Marta Celina" es don Carlos César Miranda Espinoza, R.U.T. N° 2.999.146-4.
+
+Valparaíso, 21 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
