@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.149, de 30 de marzo de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº40-A, para la obra: Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, sector Las Acacias - Río Maipo, Km. 0.000,00 al Km.
+
+14.704,988, Región Metropolitana, que figura a nombre de San Juan Salinas Hipólito, rol de avalúo 2590-85, comuna de San Bernardo, superficie 182 m². La Comisión de peritos integrada por los señores Ramón Undurraga Montes, Jorge Navarro Navarrete y Patricia Verónica Zavala Contreras, fijó con fecha 7 de octubre de 1997, el valor provisional de la indemnización en la cantidad de $6.000.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
