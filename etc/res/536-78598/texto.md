@@ -1,0 +1,7 @@
+Por Resolución Nº 536 de 5 de Junio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA EL GOLFO S A., R.U.T.
+
+Nº 96.237.000-4, domiciliada en la ciudad de Talcahuano, calle Colón Nº 2400, para ampliar actividades pesqueras, que tiene autorizada por Resolución Nº 350 de 1981, de esta Subsecretaría, en orden a instalar y operar una planta industrial en la VIII Región, ubicada en calle Colón Nº 2400, comuna de Talcahuano, Provincia de Concepción, donde procesará en las Líneas de congelado y Surimi, los siguientes recursos hidrobiológicos que serán adquiridos a terceros y/o suministrados por su propia flota: congelado y surimi, Anchoa o Anchoveta Blanquillo, Caballa, Cabrilla, Cabrilla común, Cojinoba del norte, Cojinoba del sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Merluza común, Merluza de cola, Pejegallo, Sardina común, Sardina. La peticionaria estará obligada a informar oportunamente al Servicio Nacional de Pesca que corresponda, respecto del abastecimiento de recursos hidrobiógicos y de los productos finales derivados de ellos.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 5 de Junio de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
