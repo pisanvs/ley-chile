@@ -1,0 +1,19 @@
+DECLARACION DE PRINCIPIOS DEL PARTIDO UNION DE CENTRO CENTRO PROGRESISTA
+
+"En Santiago de Chile, con fecha 31 de Mayo de 1994, ante el Notario Titular de la 4° Notaría de Santiago, don Eduardo Pinto Peralta, el Presidente del Partido Unión de Centro Centro, don Carlos del Campo Correa, y el Presidente del Partido Nacional, don Enrique Schilling Rojas, otorgaron escritura pública de fusión de ambas colectividades políticas, en cumplimiento de lo dispuesto en los artículos 37 y siguientes de la Ley N° 18.603, Orgánica Constitucional de Partidos Políticos. Dicha escritura fue modificada por la de 14 de Junio de 1994 otorgada en la misma notaría.
+
+El partido resultante de la fusión se llama Partido Unión de Centro Centro Progresista, su sigla es U.C.C.P., su lema "La Unión de los Independientes que en el Centro une y proyecta a Chile", su símbolo: Una letra "C" continuada en punta de flecha y con un punto en el centro, conteniendo una "P" en rojo todo en color blanco con fondo rojo.
+
+Resumen Declaración de Principios El Partido Unión de Centro Centro Progresista asume como su objetivo la unión de los chilenos y la proyección de Chile como nación, desde la opción humanista que realce la libertad de la democracia y la igualdad en la justicia. A ese fin, busca conciliar libertades públicas con libertad económica, teniendo presente la figura de un estado subsidiario con responsabilidad en asegurar niveles mínimos de accesos a las oportunidades. El Partido hace una vigorosa opción por la vigencia de los derechos humanos consustanciados con la naturaleza y la dignidad del hombre en su dimensión material y espiritual con exclusión de dogmatismos de toda especie. Privilegia una visión ecológica que proteja al medio ambiente, una verdadera autonomía administrativa de las regiones y una descentralización de las políticas juveniles, de manera de reconocer las definiciones y participación de los propios interesados en lo deportivo, educacional y laboral.
+
+Los integrantes de la Directiva Central y Tribunal Supremo Provisionales, que se domicilian todos en Catedral N° 1139, Santiago, serán los siguientes:
+
+DIRECTIVA CENTRAL PROVISIONAL Presidente: Francisco Javier Errázuriz Talavera, Vicepresidente: Alejandro García-Huidobro Sanfuentes, Vicepresidente: Enrique Schilling Rojas, Vicepresidente: Gustavo Cuevas Farren, Vicepresidente: Agustín Benapres Castellón, Vicepresidente: Jorge Concha Goycolea, Vicepresidente: Guillermo Kaemffer White, Vicepresidente: Max Hardy Vargas; Secretario General: Angela Vivanco Martínez; Subsecretario: Ramón Méndez Cifuentes; Tesorero: Roberto Valle Balari; Directores: Claudio Morales Green, Juan Carlos Cárdenas Gueudinot, Sergio Contreras Saavedra.
+
+Tribunal Supremo Provisional Integrantes: Rodrigo Miranda Caballero, Roberto Ossandón Guzmán, Gastón Frez Arancibia, Rafael Vargas Leiva, Eduardo Errázuriz Cañas.
+
+En caso de fallecimiento, renuncia, imposibilidad definitiva o transitoria que se produzcan antes de la inscripción del Partido, los miembros de la Directiva Central provisional serán reemplazados o subrogados por acuerdo de dicho órgano en su sesión ordinaria más próxima, de entre los afiliados del Partido, durando los reemplazantes por el período que restaba a los reemplazados. En el caso de los miembros del Tribunal Supremo Provisional sus vacantes serán provistas por dicho órgano, con acuerdo de dos tercios de la Directiva Central, en la sesión ordinaria más próxima de cada organismo, durando los reemplazantes el período que restaba a los reemplazados.
+
+En la escritura extractada se insertan los documentos que acreditan haber dado cumplimiento al artículo 38 de la Ley de Partidos Políticos.".-
+
+Juan Ignacio García Rodríguez, Director.
