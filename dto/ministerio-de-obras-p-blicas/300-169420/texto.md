@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 300 de 30 de noviembre de 1987, se expropiaron los lotes Nºs. 9, 12, 14, 16, 20, 23, 25, 26, 27, 28, 29, 30, 31, 33, 34, 36, 37, 38, 39, 40, 42, 43 y 47, que tienen una superficie total de 5.250,2 m2, roles de avalúo 4422, 44-260, 44-20 y 44-45, respectivamente, comuna de Peumo, para Ruta H-66-G Pelequén Cruce Las Arañas, sector Codao - Las Cabras y se acordó precio de indemnización con su propietaria Sociedad Fomento Habitacional Larraín y Compañía, ascendente a $ 3.550.522.-
+
+Fiscal del Ministerio de Obras Públicas.
