@@ -1,0 +1,3 @@
+Por Resolución No. 429, de 8 de mayo 1989, de SERVIU Metropolitano ordenóse expropiación, conforme DL 2.186, de 1978, parte inmueble ubicado en Aldunate No. 486, presunto rol avalúos No. 648-25, comuna Santiago, aparentemente dominio de doña Gumercinda Valdebenito Orrego. Comisión integrada por peritos Sres. Roberto Correa Bezanilla, Eduardo Suárez Suárez, arquitectos, y Pablo Risopatrón Garmendia, ingeniero civil, según informe de 20.10.88, fijó monto provisional indemnización en $ 274.825.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
