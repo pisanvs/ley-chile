@@ -1,0 +1,23 @@
+EXTRACTO DE RESOLUCION EXENTA No. 0 - 16, DE 1990
+
+Por Resolución Exenta No. 0 - 16 de fecha 13 de Marzo de
+
+1990, se dispuso la publicación del siguiente extracto:
+
+"En Santiago de Chile, con fecha 29 de Noviembre de 1989
+
+ante el Notario Titular de la 7ª Notaría de Santiago, don
+
+Arturo Carvajal Escobar, se otorgó la escritura pública de constitución del "PARTIDO SOLIDARIDAD NACIONAL", complementada por escritura pública otorgada ante el mismo Notario Titular el 05 de Marzo de 1990.
+
+Su sigla es "S O L". Su lema es "Nacionales por un Chile libre y solidario". Su símbolo es una estrella blanca inserta en un campo circunferencial azul que, a su vez, se ubicará en la parte inferior derecha de un círculo amarillo, que representa a un sol naciente; bajo esta gran circunferencia un campo rectangular rojo que incluye el nombre "SOLIDARIDAD NACIONAL" en letras azules; dos cimas montañosas, de color blanco sobre el borde superior izquierdo de este rectángulo, simbolizan a la Cordillera de los Andes.
+
+La Directiva Central provisional la integrarán las siguientes personas: Presidente: Francisco Bascuñán Letelier; 1er. Vicepresidente: Orlando Bustos Rojas; 2do. Vicepresidente: Juan Retamal Torres; 3er. Vicepresidente: Olga Chomalí Cornejo; Secretario General: Héctor Adolfo Yévenes Muñoz; Tesorero: Rubén Needham Reyes. El Tribunal Supremo provisional lo integrarán las siguientes personas: Presidente: Alfredo Lambelet Vargas; Vicepresidente: Sergio Orellana Fuentes; Integrantes: Armando Jaldin Ruiz, Javiera Araya Lassebille, Cristina Gutiérrez Guerra.
+
+El domicilio común de la Directiva Central Provisional y Tribunal Supremo provisional es calle Huérfanos No. 1688, Santiago.
+
+En caso de impedimento temporal o definitivo que se produzca antes de constituirse el Consejo General, los integrantes de la Directiva Central y del Tribunal Supremo provisionales, serán reemplazados por la o las personas que determine la Directiva Central provisional, por simple mayoría de sus miembros en ejercicio.
+
+El resumen de la declaración de principios es: El principio fundamental del partido es el ser humano; su dimensión espiritual y libertad como prerrogativa esencial. Las personas son los sujetos activos y responsables de la vida social, y se les debe procurar garantizar en ella su desarrollo integral en un medio de igualdad de oportunidades y de moralidad enriquecedora. A dicho fundamento, que es la dignidad del hombre, están íntimamente ligados el principio de solidaridad y el principio de subsidiariedad. Solidaridad que implica hacer de uno los problemas de los demás y a contribuir con sus semejantes al bien común de la sociedad; y subsidiariedad que significa dar libertad, por parte del Estado y de la Sociedad, para que jamás sustituyan la iniciativa ni la responsabilidad de las personas y de los grupos sociales intermedios, en los niveles que éstos puedan actuar, ni destruir el espacio necesario para su libertad. El "Partido Solidaridad Nacional" es una colectividad que, enriquecida con una moderna visión del hombre, de la sociedad y de sus instituciones, aspira a interpretar en política, la tradición y cultura de Chile, buscando satisfacer las necesidades de su pueblo desde una posición equidistante de los extremos. Por lo tanto, a constituirse en la fuerza política moderna, que garantice la estabilidad y continuidad democráticas, teniendo como objeto central el bienestar espiritual y material de los chilenos, en un clima de paz y armonía social. El "Partido Solidaridad Nacional", se inspira en los valores espirituales de la Civilización Cristiana Occidental. Defiende los derechos consignados en la Declaración Universal de los Derechos Humanos suscrita por Chile y demás países miembros de las Naciones Unidas, en especial, el derecho de vivir libremente en su propia patria y a desarrollarse espiritualmente. En consecuencia, se opone a toda forma de individualismo y totalitarismo político, como a sistemas políticos o económicos que destruyan la libertad o atenten contra la dignidad humana. El "Partido Solidaridad Nacional" propugna por tanto, el ejercicio de la libertad en todas sus formas y sobre todo las de libre expresión, de libre empresa dentro de un sistema de economía social de mercado, de trabajo, de participación en la vida ciudadana para elegir y ser elegidos democráticamente en cargos de representación popular; de derecho a la propiedad privada, a la educación y a la salud. En consecuencia, el "Partido Solidaridad Nacional" funda su acción en principios permanentes que derivan de la esencia libertaria del hombre y de la sociedad".
+
+- Juan Ignacio García Rodríguez, Director.
