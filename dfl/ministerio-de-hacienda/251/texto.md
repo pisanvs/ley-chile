@@ -32,7 +32,7 @@ Superintendencia.
 
 Son atribuciones y obligaciones de la Superintendencia:
 
-a) Autorizar la existencia, aprobar los estatutos y sus modificaciones, aprobar la prórroga del plazo de duración y la disolución anticipada de las sociedades anónimas nacionales de seguros, teniendo a la vista los documentos que acrediten que han cumplido y están en condiciones de cumplir las obligaciones de la presente ley;
+a) Autorizar la existencia, aprobar los estatutos y sus modificaciones, aprobar la prórroga del plazo de duración y la disolución anticipada de las sociedades anónimas nacionales de seguros y de reaseguros teniendo a la vista los documentos que acrediten que han cumplido y están en condiciones de cumplir las obligaciones de la presente ley;
 
 b) Fiscalizar las operaciones de las Compañías de Seguros, hacer arqueos, pedir la ejecución y presentación de Balances en las fechas que estime conveniente, revisar sus libros, sus carteras, y en general, solicitar todos los datos y antecedentes que le permitan imponerse de su estado, desarrollo y solvencia y de la forma en que cumplen las prescripciones de la presente y de las demás leyes vigentes, pudiendo ordenar las medidas que fueren menester;
 
@@ -40,11 +40,9 @@ c) Convocar al Directorio de las Compañías o a Junta General de Accionistas de
 
 El Superintendente, por sí o por delegados, podrá asistir a las Juntas Generales de Accionistas, donde tendrá derecho a voz;
 
-d) Asumir, con la visación del Ministro de Hacienda, el carácter de único administrador de las Compañías, pudiendo el Superintendente delegar sus facultades en uno de sus Jefes de servicio, cuando, de conformidad con lo dispuesto en los números 3 y 4 del Artículo 44, se decreten las suspensiones a que ellas se refieren;
+d) Asumir, con la visación del Ministro de Hacienda, el carácter de único administrador de las Compañías, pudiendo el Superintendente delegar sus facultades en un funcionario de sus plantas directiva, profesional y técnica, cuando, de conformidad con lo dispuesto en los números 3 y 4 del Artículo 44, se decreten las suspensiones a que ellas se refieren;
 
-e) Aprobar las tarifas de primas que las Compañías confeccionen y los modelos de pólizas que se propongan poner en uso, no pudiendo regir las primeras ni emplearse las últimas sin la aprobación del Superintendente.
-
-Podrá la Superintendencia, cuando las circunstancias así lo exigieren, dejar sin efecto las tarifas ya probadas, con un aviso previo a los aseguradores, y modificar los modelos de las pólizas en uso, sin perjuicio de hacer obligatorios los que ella misma confeccione;
+e) Aprobar los modelos de los textos de las pólizas y modificarlos, no pudiendo las entidades aseguradoras contratar con modelos que no hubieren sido previamente autorizados por la Superintendencia;
 
 f) Comprobar la exactitud de las reservas de riesgos en curso y matemáticas constituídas por las Compañías de acuerdo con las disposiciones reglamentarias que dicte la Superintendencia, y asimismo, la exactitud de los Balances con arreglo a los Estatutos, leyes y reglamentos vigentes, aprobándolos, disponiendo su rectificación inmediata u ordenando las modificaciones que fuere necesario incoporar en el próximo Balance.
 
@@ -54,17 +52,17 @@ Para los efectos de la designación de liquidadores, cada Compañía presentará
 
 Las Compañías no podrán encomendar ninguna liquidación de siniestros a personas que no hayan sido autorizadas en esa forma. La Superintendencia podrá, en cualquier momento, y sin expresión de causa, eliminar y reemplazar uno o más nombres de la lista autorizada, dando aviso de tal cambio a las Compañías;
 
-h) Autorizar y fijar el número y jurisdicción de las sucursales, Agentes y Corredores de las Compañías y fijar la remuneración a que tengan derecho. La Superintendencia podrá cancelar el nombramiento de un Productor de Seguros, en los casos y en la forma que establece el Reglamento de Productores de Seguros;
+h) DEROGADO.
 
 i) Resolver como árbitro arbitrador, sin ulterior recurso, en las dificultades que se susciten entre Compañía y Compañía, entre éstas y sus intermediarios o entre éstas o el asegurado o beneficiario en su caso, cuando los interesados de común acuerdo lo soliciten. Sin embargo, el asegurado o el beneficiario podrán por sí solos someter al árbitro arbitrador las dificultades que se produzcan cuando el monto de la indemnización reclamada no sea superior a diez sueldos vitales anuales, escala A), del departamento de Santiago;
 
 j) Cuando lo juzgue conveniente, querellarse por el delito de incendio y hacerse parte en los procesos seguidos con motivo de tales delitos. La Superintendencia podrá, además, ordenar a las Compañías de Seguros, cuando lo estime conveniente, que se hagan parte de esos procesos o deduzcan querella. Podrán también las Compañías actuar en los procesos de incendios como querellantes o como partes, sin necesidad de orden del Superintendente, no obstante lo dispuesto en el artículo 114, del Código de Procedimiento Penal. La Compañía que intervenga en conformidad a este Artículo, tendrá la calidad de parte principal y deberán seguirse con ella todas las tramitaciones posteriores del juicio; pero sin que esta intervención signifique que ejercita la acción civil derivada del delito que se persigue;
 
-k) Hacer cumplir los acuerdos que, aprobados por la Superintendencia, subscriban entre sí las Compañías con respecto a tarifas, reseguros, agentes, corredores de seguros, comisiones y demás;
+k) DEROGADO.
 
 l) Formar anualmente la estadística de todas las operaciones sobre seguros que se efectúen en el país;
 
-m) Dictar las normas por las cuales deben regirse las entidades aseguradoras, en relación con la dirección y fiscalización de los productores de seguros.
+m) Dictar las normas generales por las cuales debe regirse la intermediación, la contratación y la liquidación de seguros y reaseguros, en su caso.
 
 n) Proponer al Presidente de la República los Reglamentos necesarios para el mejor cumplimiento de esta Ley de las entidades aseguradoras, en relación con la dirección y fiscalización de los productores de seguros.
 
@@ -88,11 +86,13 @@ Sin embargo, las cantidades a que se refiere el inciso anterior, que a la fecha 
 
 #### Artículo 6°
 
-Las Sociedades Anónimas capacitadas para ejercer el comercio de seguros se denominarán "Compañías de Seguros" y su capital deberá ser subscrito y conservado, en sus dos terceras partes a lo menos, por accionistas chilenos o extranjeros radicados en Chile.
+Cada vez que se emplee en esta ley la denominación "Compañías de Seguros", se entenderá que ella se refiere a todas las sociedades anónimas nacionales de seguros, a las entidades de carácter mutual organizadas sin fines de lucro, a las cooperativas de seguros, sin perjuicio de lo dispuesto en el artículo 2° del decreto de Hacienda N° 2.033, de 26 de Octubre de 1968, y a las entidades que una ley autorice para asegurar sin que la misma las exceptúe de la fiscalización de la Superintendencia del ramo. Asimismo, y salvo que de la naturaleza del texto se desprenda otra cosa, se entenderán comprendidas también en dicha denominación, las sociedades anónimas nacionales de reaseguros.
 
 #### Artículo 7°
 
-Cada vez que se emplee en esta ley la denominación "Compañías de Seguros", se entenderá que ella se refiere a todas las sociedades anónimas nacionales de seguros, a las entidades de carácter mutual organizadas sin fines de lucro, a las cooperativas de seguros, sin perjuicio de lo dispuesto en el artículo 2° del Decreto de Hacienda N° 2.033, de 26 de octubre de 1968, y a las entidades que una ley autorice para asegurar sin que la misma las exceptúe de la fiscalización de la Superintendencia del ramo.
+El capital de las compañías de seguros no podrá ser inferior a 60.000 unidades de fomento al momento de constituirse y deberá encontrarse totalmente suscrito y pagado para autorizar su existencia.
+
+No obstante, si durante el funcionamiento de la compañía el capital y reservas patrimoniales se redujeren por pérdida a una cantidad inferior a 60.000 unidades de fomento, la compañía estará obligada a completarlo dentro de un año. Si así no lo hiciere, se le revocará su autorización de existencia.
 
 #### Artículo 8°
 
@@ -102,13 +102,13 @@ El valor de las pólizas de seguros sobre la vida cede exclusivamente en favor d
 
 #### Artículo 9°
 
-La constitución legal de las Sociedades Anónimas Aseguradoras, se hará de acuerdo con las disposiciones que rigen para las Sociedades Anónimas en el Título III de esta Ley en todo lo que no fuere contrario al presente Título.
+La constitución legal de las Sociedades Anónimas Aseguradoras y Reaseguradoras, se hará de acuerdo con las disposiciones que rigen para las Sociedades Anónimas en el Título III de esta Ley en todo lo que no fuere contrario al presente Título.
 
 #### Artículo 10
 
-Para autorizar la existencia de una sociedad anónima de seguros, ésta deberá comprobar que tiene suscrito y pagado su capital social, el que no podrá ser inferior a 100 sueldos vitales anuales, escala A), del departamento de Santiago.
+El monto de los seguros, de las primas y de las indemnizaciones, se expresará en unidades de fomento, a menos que los contratos respectivos se pacten en moneda extranjera con arreglo a las disposiciones legales vigentes. Sin perjuicio de lo anterior, podrán pactarse otros sistemas de reajustabilidad siempre que hubieren sido autorizados por la Superintendencia.
 
-Sin embargo, el Presidente de la República, previo informe de la Superintendencia, podrá aceptar un capital social menor, cuando la Compañía vaya a asegurar riesgos, que, por su naturaleza, no necesiten un capital tan elevado.
+El valor de la unidad de fomento que se considerará para el pago de las primas e indemnizaciones será el vigente al momento del pago efectivo de las mismas.
 
 #### Artículo 11
 
@@ -118,35 +118,23 @@ La reserva legal responderá indistintamente y por su totalidad, de las operacio
 
 #### Artículo 12
 
-Las Compañías de Seguros, incluso la Caja Reaseguradora de Chile, destinarán trimestralmente a beneficio fiscal el siguiente impuesto:
-
-1° Las que cubran riesgos comprendidos en el primer grupo, cuatro por ciento de la prima neta de las operaciones efectuadas en Chile; y
-
-2° Las que exploten el ramo de vida o cualquier otro riesgo correspondiente al segundo grupo, diez por ciento de la primera prima anual.
-
-Las entidades de carácter mutual que aseguren a base de prima con la autorización del Presidente de la República, y que tengan por objeto fines benéficos y en ningún caso el lucro, quedarán exentas del impuesto anterior.
+DEROGADO.
 
 #### Artículo 13
 
-El Instituto de Seguros del Estado y las Compañías de Seguros, incluso la Caja Reaseguradora de Chile, que ejerzan el comercio de seguros contra incendio, cooperarán semestralmente al mantenimiento de los Cuerpos de Bomberos del país, con el dos por ciento de las primas netas de sus pólizas de incendio, correspondiente al semestre inmediatamente anterior.
-
-Estas cuotas fijadas por la Superintendencia y percibidas por intermedio de las Tesorerías Fiscales, serán distribuídas por el Superintendente entre los Cuerpos de Bomberos de acuerdo con su importancia y necesidades y considerando su criterio administrativo, para cuyo efecto deberán rendir anualmente cuenta detallada de sus ingresos, egresos y compromisos al Intendente o Gobernador respectivo, el que deberá comunicar a la Superintendencia el hecho de haberse aprobado la rendición de cuentas. Los reparos que aquellos funcionarios pudieren formular a la rendición de cuentas, serán conocidos y resueltos por la Superintendencia.
-
-No se admitirá deducción alguna para el cómputo de estas cuotas y del impuesto establecido en el Artículo anterior por concepto de reseguros en el extranjero.
+DEROGADO.
 
 #### Artículo 14
 
-La persona, empresa, sociedad o casa comercial que desee asegurar sus bienes radicados en el país, o cualquier interés asegurable, de riesgos comprendidos en el primer grupo, en Compañías no establecidas en Chile, pagará un impuesto especial a beneficio fiscal, variable entre el 25% y el 60% de la prima que sobre el riesgo respectivo le habría correspondido pagar en Chile.
+La persona, empresa, sociedad o casa comercial que desee asegurar, en compañías no establecidas en Chile, cualquier interés sobre bienes situados permanentemente en el país, o la pérdida material en tierra sobre mercaderías sujetas al régimen de admisión temporal o en tránsito en el territorio nacional, como asimismo, seguros de vida u otros del segundo grupo respecto de personas domiciliadas o residentes en Chile en las referidas compañías, sólo podrá hacerlo con las personas que se encontraren inscritas de conformidad al artículo 46 de esta ley.
 
-Quedan afectos al impuesto que establece el presente Artículo los seguros tomados en el extranjero que cubran la pérdida material en tierra, sobre mercaderías internadas en el país a consignación, o en tránsito, cuando estas últimas sean objeto de explotación en el territorio de la República.
+Con todo, las empresas navieras y las de aeronavegación nacionales podrán contratar libremente en el extranjero los seguros de protección e indemnización.
 
-El Presidente de la República fijará anualmente, o cuando lo estime conveniente, el monto de este impuesto dentro de los límites indicados.
+Para los efectos de determinar el impuesto adicional del título IV de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del decreto ley N° 824, de 1974, que grava a las coberturas señaladas en el inciso primero, la Superintendencia determinará el monto de las primas de los contratos que se celebren, considerando, entre otros, los antecedentes que el asegurado y asegurador presentaren a dicho organismo. El impuesto se aplicará sobre el monto determinado, sin deducción alguna y deberá pagarse proporcionalmente en la medida que las primas vayan devengándose conforme a las condiciones pactadas en el contrato.
 
-Para los efectos del cobro de esta contribución deberá el asegurado dar cuenta inmediata a la Superintendencia del seguro efectuado.
+No se autorizará la adquisición y remesa de divisas para el pago de los seguros a que se refiere el presente artículo si no se exhibiere copia del documento por el cual la Superintendencia determinó el monto de la prima correspondiente, sin perjuicio de la comprobación del pago del impuesto que grava las primas.
 
-Cuando un seguro deba efectuarse en Compañías establecidas en el extranjero por no existir en el país ninguna Compañía que acepte tomar el riesgo, condición que comprobará la Superintendencia, la persona, empresa o casa comercial contratantes del seguro, queda exenta del impuesto anterior.
-
-La persona domiciliada o residente en Chile que deseare contratar seguros de vida u otros en compañías no establecidas en el país, que aseguren al tenedor de la póliza, dentro o al término de un plazo, un capital, una póliza saldada o una renta para sí o para sus beneficiarios, pagará un impuesto especial, a beneficio fiscal, equivalente al 60% de la prima anual que le corresponda pagar por el seguro en el extranjero. Quedará exenta de este impuesto la persona que haya sido previamente autorizada por la Superintendencia para la contratación del seguro en el extranjero.
+Sin perjuicio del impuesto a que se refieren los incisos anteriores, la contratación de seguros con compañías no establecidas en el país, estará gravada con los mismos tributos que puedan afectar a los seguros contratados con compañías nacionales.
 
 #### Artículo 15
 
@@ -154,11 +142,17 @@ Las pólizas, recibos o cualquiera otro documento que sea cambiado entre Compañ
 
 #### Artículo 16
 
-El reseguro de los contratos efectuados en Chile lo harán las Compañías sólo entre las Compañías Nacionales establecidas en el país, de acuerdo con las disposiciones legales vigentes.
+El reaseguro de los contratos celebrados en Chile, lo harán las compañías de seguros entre compañías nacionales establecidas en el país o en entidades facultadas para reasegurar.
+
+Podrán constituirse sociedades anónimas, cuyo objeto exclusivo sea operar en reaseguros de uno o ambos grupos, las que estarán sujetas a la fiscalización de la Superintendencia, con las atribuciones que le otorga esta ley.
+
+Las referidas entidades reaseguradoras deberán mantener un capital pagado y reservas patrimoniales no inferior a 60.000 unidades de fomento por cada grupo en que operen, aplicándose lo dispuesto en el inciso segundo del artículo 7°.
+
+Las compañías de seguros y las entidades reaseguradoras, sólo podrán contratar reaseguros en el extranjero con entidades o intermediarios que se encuentren inscritos en el Registro de Entidades y Corredores de Reaseguros Extranjeros que llevará la Superintendencia, la cual fijará los requisitos para su inscripción y funcionamiento.
 
 #### Artículo 17
 
-Los excedentes que las Compañías no cubran entre ellas mismas, serán reasegurados en la Caja Reaseguradora de Chile, en la forma indicada en la presente Ley y en la que en los Estatutos de la Caja se establezca.
+DEROGADO.
 
 #### Artículo 18
 
@@ -174,35 +168,31 @@ La Superintendencia publicará anualmente, en el Diario Oficial, un resumen de l
 
 #### Artículo 21
 
-Los fondos acumulados correspondientes a las reservas técnicas, capital y reservas sociales deberán ser invertidos por las Compañías en Chile, en la siguiente forma:
+Al menos el 50% de las reservas técnicas de las entidades aseguradoras y reaseguradoras deberá invertirse en acciones de sociedades anónimas que tengan transacción bursátil; en debentures emitidos por sociedades anónimas u otros títulos de crédito emitidos o garantizados hasta su total extinción, ya sea por el Estado o por entidades sometidas a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras; el saldo podrá invertirse en bonos, en pagarés o letras cuya emisión haya sido registrada en la Superintendencia; o en instrumentos de oferta pública que autorice el Consejo Monetario.
 
-1° En la adquisición o promesa de adquisición de bienes raíces urbanos, hasta un máximo equivalente al 60% de dichos fondos, previa autorización de la Superintendencia.
+El capital y reservas patrimoniales de las referidas entidades deberán estar invertidos en los mismos títulos señalados en el inciso anterior y, además, en bienes raíces urbanos, en créditos a los asegurados y en muebles y útiles para su propio uso, sin perjuicio de las cantidades que mantengan en dinero efectivo, en caja y bancos.
 
-2°. En bonos de la deuda interna del Estado, en pagarés fiscales, en moneda nacional o extranjera, u otros valores emitidos por el Fisco, o garantizados por él, en bonos del Banco del Estado de Chile y de Bancos Hipotecarios, en bonos hipotecarios de empresas de utilidad pública, en debentures de primer orden y en depósitos, créditos y valores mobiliarios reajustables, y en muebles y útiles para su propio uso, depósitos en caja todo previa aceptación en clase y cantidad por la Superintendencia.
+No podrá invertirse más del 10% de las reservas técnicas en instrumentos emitidos o garantizados por una misma entidad. Esta limitación no regirá en el caso de instrumentos emitidos o garantizados hasta su total extinción por el Estado.
 
-3° En acciones de los bancos nacionales y en acciones de primera clase de sociedades anónimas, aceptadas previamente en clase y cantidad por la Superintendencia, hasta el máximo equivalente al 75% de dichos fondos. La inversión no podrá hacerse en acciones de las compañías de seguros del mismo grupo y de las sociedades que posean más del 20% de las acciones de una compañía de seguros del mismo grupo.
+La compañía, como consecuencia de la inversión de sus reservas técnicas, no podrá poseer más del 10% de las acciones emitidas por una misma sociedad. La inversión de las reservas técnicas en bonos, debentures, pagarés, letras, acciones u otros valores no podrá exceder del 10% del total del activo de la entidad emisora. Esta limitación no regirá en el caso de títulos emitidos o garantizados hasta su total extinción por el Estado.
 
-4°. En depósitos a plazo en Bancos Nacionales.
+Para la determinación de los porcentajes se estará a los balances anuales o a otros estados financieros que obligatoriamente deban presentar a la Superintendencia las sociedades emisoras, actualizados en la forma que determine el Reglamento del decreto ley N° 1.328, de 1976, sobre administración de fondos mutuos.
 
-5°. En préstamos con garantía hipotecaria, a plazos no superiores a diez años, sobre bienes raíces urbanos de renta y con la autorización y limitaciones que fije la Superintendencia.
+Las compañías del segundo grupo podrán, además, invertir sus reservas técnicas en préstamos a sus tenedores de pólizas de vida no saldadas, en la forma que determine la Superintendencia, y podrán también invertirlas en la adquisición de bienes raíces urbanos. Las inversiones en bienes raíces urbanos no podrán exceder del 20% de las reservas técnicas de la compañía.
 
-6°. Las Compañías del segundo grupo podrán invertir además en préstamos a los tenedores de pólizas de vida no saldadas, previa autorización de la Superintendencia y en las condiciones que ella fije, entre las cuales podrá señalarse la de que el préstamo sea reajustable.
-
-A lo menos el 20% del capital, reservas sociales y técnicas, deberá estar invertido de acuerdo con la Superintendencia, en bienes cuya liquidación sea fácil en cualquier momento.
-
-Este 20% no será inferior, en ningún caso, al 50% de las reservas técnicas en las Compañías del primer grupo y al 25% en las del segundo.
+Las inversiones a que se refiere este artículo no podrán hacerse ni mantenerse en acciones de sociedades anónimas de seguros, ni en sociedades que posean más del 20% de las acciones de una entidad aseguradora.
 
 #### Artículo 22
 
-La Superintendencia requerirá a las compañías que no cumplan las normas del artículo anterior, para que, dentro del plazo de 180 días, se atengan a esas disposiciones en lo relativo a la inversión de los fondos acumulados. Si vencido dicho término no se hubiere subsanado la infracción, la Superintendencia suspenderá a la compañía infractora de todas sus operaciones, hasta que dé cumplimiento al precepto.
+DEROGADO.
 
 #### Artículo 23
 
-Toda Compañía de Seguros deberá constituir un fondo de reserva, cuyo monto será igual, a lo menos, al de la mitad de su capital social, con una cuota no inferior al 10% ni superior al 40% de sus utilidades líquidas anuales.
+DEROGADO.
 
 #### Artículo 24
 
-Las entidades aseguradoras, incluso la Caja Reaseguradora de Chile, deberán constituir anualmente, además del fondo de reserva a que se refiere el Artículo anterior, las siguientes reservas:
+Las entidades aseguradoras y las entidades reaseguradoras nacionales, deberán constituir anualmente, además del fondo de reserva a que se refiere el Artículo anterior, las siguientes reservas:
 
 1° Las Compañías del primer grupo, una reserva de riesgos en curso que será determinada de acuerdo con los procedimientos que fija la Superintendencia.
 
@@ -212,7 +202,7 @@ No se admitirá deducción alguna para el cómputo de las reservas de riesgos en
 
 #### Artículo 25
 
-Las entidades mutuales de seguros a que se refiere el Artículo 4°, inciso 1°, y que operen actualmente en seguros de vida, tendrán un plazo de tres años a contar de la vigencia de esta Ley, para amoldar las inversiones de sus reservas a los porcentajes señalados en el Artículo 21. El Presidente de la República, previo informe del Superintendente, podrá ampliar este plazo por motivos calificados.
+DEROGADO.
 
 #### Artículo 26
 
@@ -226,7 +216,7 @@ La transferencia de negocios a que se refiere el inciso anterior necesitará la 
 
 En todo caso deberá consultarse a los asegurados, y las condiciones mediante las cuales se pacte y realice la transferencia, no podrá gravar los derechos de los mismos ni modificar sus garantías.
 
-Sin embargo, la consulta a los asegurados no procederá cuando la Superintendencia, por razones de orden superior, disponga la transferencia de una cartera a la Caja Reaseguradora.
+INCISO DEROGADO.
 
 #### Artículo 28
 
@@ -280,7 +270,7 @@ La Superintendencia podrá en cualquier momento, sin expresión de causa, elimin
 
 Los nombramientos deberán efectuarse siguiendo el orden riguroso de la lista, sin que en un mismo Juzgado se pueda hacer recaer un nombramiento dos veces sucesivas en una misma persona.
 
-El pago de los honorarios de peritos se hará por la Superintendencia la cual, para este efecto, cobrará semestralmente a las Compañías que aseguran contra incendios y a la Caja Reaseguradora de Chile, la cuota con que ellas deberán concurrir a cubrir estos gastos a prorrata de sus primas.
+El pago de los honorarios de peritos se hará por la Superintendencia la cual, para este efecto, cobrará semestralmente a las Compañías que aseguran contra incendios y a las entidades reaseguradoras nacionales, la cuota con que ellas deberán concurrir a cubrir estos gastos a prorrata de sus primas.
 
 La Superintendencia podrá intervenir como parte en el proceso, para los efectos de la regulación de los expresados honorarios, y asímismo, podrá repetir contra quien corresponda, por lo que hubiere pagado en razón de peritajes en caso de declararse intencional el siniestro.
 
@@ -318,17 +308,17 @@ De las infracciones
 
 #### Artículo 41
 
-El pago de las cuotas que fije el Superintendente a cada Compañía para el mantenimiento de los servicios de la Superintendencia y de los demás impuestos cargas que establece la presente Ley, deberá efectuarse por las Compañías, Sociedades, entidades o personas obligadas, antes del último día del mes siguiente a la fecha del requerimiento.
+El pago de las cargas que la presente ley establece deberá efectuarse dentro del mes siguiente a la fecha del requerimiento.
 
 En caso de mora, el deudor incurrirá en los intereses señalados en el artículo 160, que hará efectivos la Tesorería Fiscal respectiva. La Superintendencia podrá ocurrir al Juzgado en lo Civil del Departamento de Santiago, solicitando el correspondiente mandamiento de ejecución y embargo. La liquidación firmada por el Superintendente, tendrá por sí sola suficiente mérito ejecutivo y, en juicio, no será admisible otra excepción que la de pago, acreditado por el certificado correspondiente de la Superintendencia.
 
 #### Artículo 42
 
-Las infracciones a lo dispuesto en el artículo 14, serán penadas con una multa que impondrá el Superintendente, igual a diez veces el monto del impuesto y a veinte veces el mismo, en caso de reincidencia.
+Sin perjuicio del cobro de los impuestos adeudados, la infracción a lo dispuesto en el artículo 14 será sancionada con una multa que impondrá el Superintendente, por una cantidad de hasta diez veces el monto de la prima y de hasta veinte veces el mismo, en caso de reiteración. Para estos efectos se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a doce meses.
 
 #### Artículo 43
 
-La primera contravención a la disposición que ordena que los reseguros deberán hacerlo las Compañías sólo entre las Compañías Nacionales, será penada con una multa igual a diez veces la prima cedida, y la segunda, con la suspensión de sus operaciones, decretada por la Superintendencia.
+Las contravenciones a las normas que regulan la contratación de reaseguros, será penada con una multa de hasta diez veces la prima cedida o con las sanciones establecidas en el artículo siguiente
 
 #### Artículo 44
 
@@ -336,7 +326,7 @@ En caso de incumplimiento de las órdenes que ella les imparta en ejercicio de s
 
 1° En reconvención;
 
-2°- En multa hasta de un monto equivalente a cinco sueldos vitales anuales, escala A), del departamento de Santiago. Será aplicable en este caso lo establecido en el inciso tercero del artículo 136;
+2° En multa a beneficio fiscal, hasta un monto equivalente a 1.000 unidades de fomento. En caso de tratarse de infracción reiterada de la misma naturaleza, podrá aplicarse una multa de hasta cinco veces el monto máximo antes expresado. Para estos efectos, se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a doce meses.;
 
 3° En suspensión de la administación hasta por tres meses;
 
@@ -360,13 +350,23 @@ Las sanciones consistirán;
 
 #### Artículo 46
 
-Las personas naturales o jurídicas que en representación de aseguradores no establecidos legalmente en Chile, contraten seguros sobre bienes radicados, internados a consignación o en tránsito en Chile, y los tasadores, liquidadores, comisarios de averías y peritos que operen en el país por cuenta de dichos aseguradores, deberán pedir a la Superintendencia autorización para el ejercicio de sus actividades.
+Las personas naturales o jurídicas que actúen en representación de aseguradores no establecidos legalmente en Chile, deberán solicitar a la Superintendencia su inscripción previa, de acuerdo a los requisitos que establezca el reglamento, para el ejercicio de sus actividades cuando:
 
-Los contratantes de seguros antedichos deberán declarar, trimestralmente, las operaciones que realicen, estén o no sujetas a impuesto, y el monto de los siniestros que afecten a las mismas.
+a) contraten o intermedien seguros sobre bienes situados permanentemente en Chile, en admisión temporal o en tránsito o sobre personas domiciliadas o residentes en el país;
 
-El incumplimiento de las obligaciones establecidas en los incisos anteriores será sancionado con multa de hasta veinticuatro sueldos vitales mensuales, escala A) del departamento de Santiago, por esta contravención. En el caso del inciso primero el infractor incurrirá, además, en las penas que señala el N° 1° del artículo 467 del Código Penal.
+b) cuando intervengan como representantes o intermediarios dependientes o independientes de las entidades reaseguradoras extranjeras o como corredores inscritos en el Registro a que se refiere el artículo 16, y
 
-La Superintendencia podrá revocar la autorización para el ejercicio de las actividades de las personas a que se refiere el inciso primero, en caso de no cumplimiento de la obligación de declarar que les impone el inciso segundo, o cuando sus procedimientos o los de sus mandantes no den, a su juicio, garantías de seriedad.
+c) cuando se desempeñen como tasadores, liquidadores, comisarios de averías y peritos que operen en el país por cuenta de dichos aseguradores o reaseguradores.
+
+Las referidas personas deberán ajustarse en el ejercicio de sus actividades a las normas que, al efecto, dicte la Superintendencia.
+
+Las personas señaladas en las letras a) y b) del inciso primero, deberán declarar, trimestralmente, las operaciones que realicen, estén o no sujetas a impuesto y, el monto de los siniestros que afectan a las mismas.
+
+El que no cumpliere la obligación establecida en el inciso primero, será sancionado con presidio menor en su grado mínimo.
+
+El incumplimiento de las otras obligaciones establecidas en este artículo, será sancionado con una multa de hasta sesenta unidades de fomento por cada contravención.
+
+La Superintendencia podrá cancelar la inscripción para el ejercicio de las actividades de las personas a que se refieren las letras a) y b) del inciso primero, en caso de incumplimiento de la obligación de declarar que les impone el inciso tercero, si correspondiere; cuando, a su juicio exclusivo, sus procedimientos o los de sus mandantes no den garantías de seriedad, o en caso de incumplimiento de las normas dictadas por la Superintendencia.
 
 #### Artículo 47
 
@@ -376,9 +376,7 @@ No obstante, podrá la Superintendencia autorizar en casos calificados especialm
 
 #### Artículo 48
 
-La Compañía, Agente o Corredor de Seguros que, en forma de bonificación, comisión o en cualquier otra, rebaje a los asegurados directos o intermediarios, la prima fijada o aceptada por la Superintendencia, pagará una multa igual a diez veces el valor de la prima en que incida la rebaja.
-
-Los Bancos, casas comerciales, u otras instituciones y los empleados de las mismas, que presionen en cualquier forma a sus socios o clientes, para que se aseguren en determinada Compañía, serán sancionados por la Superintendencia con multa de dos a cuatro sueldos vitales mensuales, escala A), del departamento de Santiago.
+DEROGADO.
 
 #### Artículo 49
 
@@ -394,7 +392,7 @@ Los Directores y empleados de una Compañía de Seguros, que ejecutaren o permit
 
 #### Artículo 51
 
-Si alguna persona o entidad ejerciera en cualquier forma el comercio de seguros, contraviniendo las disposiciones de los Artículos 4 y 46, la Superintendencia, previa visación del Ministerio de Hacienda, podrá clausurar las oficinas o establecimientos en que se ejerciten esas actividades, para lo cual el Intendente o Gobernador respectivo, a petición del Superintendente, deberán suministrar el auxilio de la fuerza pública, sin perjuicio de incurrir en la sanción contemplada en el inciso primero del Artículo 467 del Código Penal.
+Si alguna persona o entidad ejerciera en cualquier forma el comercio de seguros o de reaseguros, contraviniendo las disposiciones de los Artículos 4 y 46, la Superintendencia, previa visación del Ministerio de Hacienda, podrá clausurar las oficinas o establecimientos en que se ejerciten esas actividades, para lo cual el Intendente o Gobernador respectivo, a petición del Superintendente, deberán suministrar el auxilio de la fuerza pública, sin perjuicio de incurrir en la sanción contemplada en el inciso primero del Artículo 467 del Código Penal.
 
 Las operaciones que se hubieren efectuado serán liquidadas por un liquidador designado por el Juez del Crimen que conociere de la denuncia respectiva.
 
@@ -404,19 +402,13 @@ De las Agencias de Compañías Extranjeras
 
 #### Artículo 52
 
-Las Agencias de Compañías Extrajeras radicadas en Chile, podrán continuar en sus operaciones sobre la base de su organización actual, y deberán conformarse en su giro en el país a los acuerdos y compromisos celebrados o que se celebren con el Presidente de la República. Tanto las del primer grupo como las del segundo, deberán mantener invertida en Chile, en la forma dispuesta en el Artículo 21, una suma no inferior a un millón de pesos, más la cantidad correspondiente a las reservas técnicas de los seguros contratados en el país.
+Las agencias de compañías extranjeras radicadas en Chile, podrán continuar en sus operaciones sobre la base de su organización actual, y deberán conformarse en su giro en el país a los acuerdos y compromisos celebrados o que se celebren con el Presidente de la República. Tanto las del primer grupo como las del segundo, deberán mantener invertida en Chile, en la forma dispuesta en el artículo 21, una suma no inferior a 60.000 unidades de fomento, más la cantidad correspondiente a las reservas técnicas de los seguros contratados en el país.
 
-Con todo, las Agencias de Compañías Extranjeras dedicadas exclusivamente al comercio de seguros marítimos, sólo deberán mantener invertidos en Chile, en igual forma, una suma no inferior a quinientos mil pesos.
-
-La Superintendencia podrá autorizar a las que operen en el primer grupo, para mantener invertidos en el extranjero y en bonos de la deuda externa de Chile, las cifras no inferiores a un millón y quinientos mil pesos, a que se refieren los dos incisos anteriores.
-
-Podrá, asimismo, autorizar a las del segundo grupo, para que las reservas matemáticas correspondientes a las pólizas contratadas en moneda extranjera hasta un máximum de cuarenta por ciento del total de las reservas, sean invertidas en valores extranjeros y mantenidas en el exterior, en cuyo caso deberán quedar depositadas en un Banco por cuenta de su respectiva Agencia o Sucursal en Chile, libre de gravámenes y no podrán ser retiradas sin la autorización escrita del Superintendente.
-
-Las expresadas Agencias quedarán sometidas a las disposiciones de esta Ley, con excepción de las de los Artículos 16 y 23 y de aquellas que se refieren a la Caja Reaseguradora de Chile, y podrán transformarse en cualquier tiempo en Sociedades Anónimas Nacionales, de las cuales podrán subscribir y conservar la mayoría de las acciones.
+Las expresadas agencias quedarán sometidas a las disposiciones de esta ley, con excepción de lo dispuesto en el artículo 127, y podrán transformarse en cualquier tiempo en sociedades anónimas nacionales.
 
 #### Artículo 53
 
-Auméntase del cuatro por ciento al seis por ciento y del diez por ciento al quince por ciento los impuestos establecidos en el Artículo 12 de esta Ley, sobre las primas recibidas por las Agencias de Compañías Extranjeras que continúen operando en el país.
+DEROGADO.
 
 #### Artículo 54
 
@@ -432,167 +424,113 @@ Las agencias de compañías extranjeras de seguros practicarán en la misma fech
 
 De la Caja Reaseguradora
 
-#### Artículo 56
+#### Artículo 56°
 
-Créase, con domicilio en la ciudad de Santiago, una Institución que se denominará Caja Reaseguradora de Chile, cuyo objeto principal consistirá en cubrir los reseguros de las Compañías que operen en el país, en la forma y con las facultades y obligaciones determinadas en la presente Ley.
+(DEROGADO)
 
-La Caja establecerá una Agencia en la ciudad de Valparaíso y podrá también establecerlas en otras ciudades el país y del extranjero, cuando su Directorio lo estime conveniente.
+#### Artículo 57°
 
-#### Artículo 57
+(DEROGADO)
 
-El capital autorizado de la Caja será de $ 15.000,000 y podrá ser aumentado con acuerdo de cinco Directores y con la aprobación del Presidente de la República.
+#### Artículo 58°
 
-Este capital se dividirá en quince mil acciones nominativas de $ 1,000 cada una.
+(DEROGADO)
 
-#### Artículo 58
+#### Artículo 59°
 
-El cuarenta por ciento del valor nominal de las acciones subscritas será pagado a más tardar el día en que el Gobierno apruebe los Estatutos de la Caja, y el sesenta por ciento restante, en la siguiente forma: la primera mitad, seis meses después de la fecha de la aprobación de los Estatutos y la segunda, dentro de los seis meses subsiguientes. Este pago se hará en efectivo.
+(DEROGADO)
 
-#### Artículo 59
+#### Artículo 60°
 
-Las acciones se dividirán en tres clases y se denominarán acciones de la Clase "A", de la Clase "B" y de la Clase "C".
+(DEROGADO)
 
-Todas las acciones tendrán iguales derechos con respecto al haber social en caso de liquidación de la Caja.
+#### Artículo 61°
 
-#### Artículo 60
+(DEROGADO)
 
-Las acciones de la Clase "A" serán emitidas por un valor total de cinco millones de pesos ($ 5.000,000) y serán subscritas en su totalidad por el Estado. Estas acciones no podrán ser enajenadas.
+#### Artículo 62°
 
-#### Artículo 61
+(DEROGADO)
 
-Las acciones de la Clase "B" serán subscritas exclusivamente por las Compañías de Seguros que ejerzan su comercio en Chile, de acuerdo con la presente Ley. Estas acciones no podrán ser dadas en garantía de préstamos ni de ninguna otra clase de obligaciones.
+#### Artículo 63°
 
-#### Artículo 62
+(DEROGADO)
 
-Todas las Compañías Nacionales de Seguros que continúen en sus operaciones en Chile, conforme a las prescripciones de esta Ley y las que en el futuro se establezcan, deberán adherirse a la Caja Reaseguradora como accionistas de la clase "B", y para ello deberán tener acciones de esta clase por un valor comercial equivalente al cinco por ciento de su capital pagado y de sus reservas. No se considerarán las fracciones de acción.
+#### Artículo 64°
 
-No se computarán para determinar el monto de las reservas afectas a esta obligación, las reservas de riesgos en curso o matemáticas.
+(DEROGADO)
 
-#### Artículo 63
+#### Artículo 65°
 
-El 30 de Junio de cada año se comprobará por la Superintendencia si las Compañías mantienen la requerida proporción del cinco por ciento; si así no fuere, quedarán éstas obligadas a restablecer inmediatamente dicha proporción.
+(DEROGADO)
 
-Para ello, adquirirán las acciones de la Clase "B" que les falten o comprarán acciones de la Clase "C" que harán convertir inmediatamente por la Caja en acciones de la Clase "B".
+#### Artículo 66°
 
-En caso de que las Compañias tengan exceso de acciones de la clase "B", deberán vender el excedente a las Compañías hábiles para adquirirlas o convertirlas inmediatamente en la Caja en acciones de la Clase "C".
+(DEROGADO)
 
-La Caja Reaseguradora deberá vender y emitir acciones de la Clase "B" a las Compañías que las necesiten, y fijará el precio de venta, tomando en cuenta la cotización media que hubieren tenido en el semestre anterior, y no cobrará comisión por la conversión de acciones.
+#### Artículo 67°
 
-El aumento de capital que signifique a la Caja la emisión de acciones ordenada en el inciso anterior, no requerirá la autorización del Directorio ni la aprobación del Presidente de la República.
+(DEROGADO)
 
-#### Artículo 64
+#### Artículo 68°
 
-Las acciones de la Clase "C" podrán ser subscritas y conservadas por cualquiera persona natural o jurídica.
+(DEROGADO)
 
-El número inicial de acciones de esta clase que se emitan deberá ser tal que sumado al de las acciones de las Clases "A" y "B", ya emitidas, dé un total no superior a quince mil.
+#### Artículo 69°
 
-#### Artículo 65
+(DEROGADO)
 
-La Caja Reaseguradora de Chile cubrirá los reseguros que, de acuerdo con la presente Ley, deberán cederles las Compañías, pero podrá rechazar un reseguro cuando, a juicio de su Director-Gerente, el riesgo ofrecido carezca de las condiciones de asegurabilidad necesarias. No obstante, la Caja mantendrá cubierto el reseguro en la forma, plazo y condiciones que establezcan sus Estatutos.
+#### Artículo 70°
 
-#### Artículo 66
+(DEROGADO)
 
-De los reseguros recibidos, la Caja podrá guardar la parte que estime conveniente, debiendo colocar, a su vez, en el mercado nacional o extranjero, los excedentes respectivos. Con este objeto, los Estatutos de la Caja deberán indicar claramente la forma en que se efectuarán las operaciones anteriores y las garantías que la Institución deberá exigir a la entidad, Compañía o empresa que contrate la aceptación de los reseguros excedentes.
+#### Artículo 71°
 
-Sin embargo, el primer excedente de los reseguros que la Caja reciba de las Compañías que no sean nacionales, deberá ser ofrecido en primer lugar a las Compañías nacionales en la forma y condiciones que fije el Directorio.
+(DEROGADO)
 
-#### Artículo 67
+#### Artículo 72°
 
-El capital y fondos de reserva de la Caja Reaseguradora de Chile, constituyen la garantía especial de sus operaciones, pero además, todas ellas tendrán la garantía y la responsabilidad del Estado.
+(DEROGADO)
 
-El Directorio de la Caja fijará anualmente el porcentaje del capital y fondo de reserva que corresponde a cada grupo de riesgos establecidos en esta Ley.
+#### Artículo 73°
 
-#### Artículo 68
+(DEROGADO)
 
-La contabilidad de las operaciones de la Caja y la constitución de sus reservas en curso y matemáticas, se atendrán a lo que sobre clasificación de riesgos por grupos, dispone el Artículo 11 de la presente Ley.
+#### Artículo 74°
 
-#### Artículo 69
+(DEROGADO)
 
-El Directorio de la Caja, de acuerdo con la Superintendencia, fijará semestralmente las comisiones que la Caja pagará a las Compañías para las operaciones de reseguros.
+#### Artículo 75°
 
-#### Artículo 70
+(DEROGADO)
 
-La Caja Reaseguradora de Chile podrá contratar seguros directos con el acuerdo de su Directorio y la aprobación de la Superintendencia, cuando no exista en el país ninguna Compañía que asegure riesgos como el que se desea cubrir o cuando el interés general así lo aconseje en resguardo del comercio nacional de seguros. En este último caso la Caja reasegurará entre las Compañías nacionales en la forma y condiciones que determine el Directorio y con una comisión no mayor del 5% de la prima.
+#### Artículo 76°
 
-Si la Caja iniciara operaciones directas en un ramo de seguros que las Compañías no puedan o no deseen cubrir, tendrá el monopolio de ese seguro, por un plazo de cinco años, salvo que su Directorio acuerde no continuar haciendo esa clase de operaciones.
+(DEROGADO)
 
-Si vencido ese plazo, alguna o algunas Compañías Nacionales desearen operar en ese ramo, deberán comunicarlo a la Caja con seis meses de anticipación, e indemnizarán a la Institución en la suma en que su Directorio, de acuerdo con la Superintendencia, estime los gastos no amortizados que le hayan originado el estudio y la contratación de ese seguro.
+#### Artículo 77°
 
-#### Artículo 71
+(DEROGADO)
 
-La inversión del capital y de los fondos de reserva de la Caja deberá hacerse de conformidad al Artículo 21 de esta Ley, sin sus limitaciones, pero el porcentaje de bienes de fácil liquidación a que él se refiere, no deberá ser inferior a un 25% de los mismos.
+#### Artículo 78°
 
-#### Artículo 72
+(DEROGADO)
 
-La Caja Reaseguradora de Chile será administrada por un Directorio compuesto de siete miembros de nacionalidad chilena, entre los cuales figurará el Director-Gerente.
+#### Artículo 79°
 
-Constituirán el Directorio tres Gerentes de Compañías de Seguros elegidos por ellas mismas y tres personas nombradas por el Presidente de la República.
+(DEROGADO)
 
-Servirá de Secretario del Directorio el funcionario que haga las veces de Secretario de la Caja.
+#### Artículo 80°
 
-#### Artículo 73
+(DEROGADO)
 
-Los Directores durarán tres años en el ejercicio de sus funciones y podrán ser reelegidos. El que termine su período será reemplazado en la forma determinada en el Artículo anterior y cuando deje de serlo por cualquiera otra circunstancia, su reemplazo se efectuará por el mismo tiempo que falte para terminar su período.
+#### Artículo 81°
 
-Si alguna de las personas que forman parte del Directorio deja de tener los requisitos exigidos para ser Director, cesará de hecho de sus funciones.
+(DEROGADO)
 
-#### Artículo 74
+#### Artículo 82°
 
-Para elegir los Directores representantes de las Compañías de Seguros o sus reemplazantes, se citará a los Gerentes de las Compañías Accionistas con quince días de anticipación a la fecha fijada para la reunión, en forma que quede constancia de la citación.
-
-En la elección, cada Compañía tendrá derecho a un solo voto y se proclamará a los que resulten con mayor número de votos; pero no podrá ser elegida una persona que no cuente, a lo menos, con el veinticinco por ciento de los votantes.
-
-#### Artículo 75
-
-El Directorio elegirá a su Presidente de entre los representantes de las Compañías de Seguros.
-
-#### Artículo 76
-
-El quórum necesario para que el Directorio pueda sesionar será de cuatro de sus miembros. Estos tendrán derecho a una remuneración de medio sueldo vital mensual por cada sesión a que asistan; pero en ningún caso podrán recibir cada uno, en un mes, más de tres veces la indicada remuneración. El Presidente tendrá doble remuneración que un Director.
-
-#### Artículo 77
-
-El Director Gerente de la Caja será nombrado por el Presidente de la República, a propuesta del Directorio de la misma. El resto del personal será nombrado por el Directorio a propuesta del Director-Gerente.
-
-Tanto para la propuesta de nombramiento de Director-Gerente, como para solicitar su remoción, será necesario el acuerdo de cinco Directores a lo menos.
-
-#### Artículo 78
-
-Sin perjuicio de lo estatuído en el Artículo 8 del Código de Procedimiento Civil, tendrán la representación legal de la Caja su Presidente y su Director-Gerente, los que deberán proceder de consuno. Con el acuerdo del Directorio el Presidente o el Director-Gerente, o ambos juntos, podrán delegar total o parcialmente su mandato.
-
-#### Artículo 79
-
-El Directorio redactará los Estatutos que regirán la administración de la Caja, lo mismo que las modificaciones que se hagan necesarias, los que deberán ser aprobados por el Presidente de la República.
-
-#### Artículo 80
-
-Las utilidades líquidas de la Caja se repartirán del modo siguiente:
-
-El treinta por ciento pasará a constituir un fondo de reserva hasta enterar la cantidad de diez millones de pesos ($ 10.000,000), después de lo cual sólo se incrementará este fondo con un diez por ciento de las utilidades.
-
-El setenta por ciento restante, o el noventa por ciento, en su caso, se destinará a los siguientes fines y en su orden:
-
-a) A gratificar al personal de acuerdo con la Ley;
-
-b) A pagar un dividendo de hasta 8% anual acumulativo, sobre el valor nominal de las acciones de la Clase "C";
-
-c) A pagar un dividendo de hasta 6% anual sobre el valor nominal de las acciones de las Clases "A" y "B";
-
-d) A distribuir entre las Compañías accionistas, a prorrata de las primas de reseguros cedidas a la Caja durante el ejercicio a que correspondan las utilidades, la suma que el Directorio acuerde con la aprobación de la Superintendencia;
-
-e) EL cincuenta por ciento del saldo será destinado por el Directorio a la formación y mantenimiento de fondos de reservas especiales; y
-
-f) El otro cincuenta por ciento del saldo acrecerá el dividendo a que se refieren las letras b) y c) de este Artículo, en la proporción que acuerde el Directorio con la aprobación de la Superintendencia.
-
-#### Artículo 81
-
-Si una Compañía de Seguros no cumpliere el precepto de adherir a la Caja Reaseguradora por medio de la compra y conservación de acciones de la Clase "B", o si, habiendo adherido y subscrito las acciones, no pagare su valor dentro de los plazos fijados en la presente Ley, la Superintendencia procederá a representarle por escrito la infracción y a requerirla para que cumpla su obligación dentro de los treinta días siguientes al requerimiento.
-
-#### Artículo 82
-
-Si la Superintendencia procediere a la liquidación de una Compañía accionista, las acciones de las Clases "B" y "C" que ésta posea, serán canceladas por la Caja Reaseguradora en el plazo de treinta días a contar desde la fecha en que se inicie la liquidación.
-
-El precio de las acciones de la Clase "B" será el que les corresponda ante el capital y fondo acumulativo de reserva que establezca el Balance del ejercicio anterior; el precio de las de la Clase "C" será el de cotización en el Mercado de Valores.
+(DEROGADO)
 
 ## Título III
 
@@ -755,6 +693,8 @@ Ninguna persona podrá ser Director de más de tres Sociedades Anónimas, inclu�
 Las personas elegidas o designadas Directores de un número mayor de Sociedades que el señalado en el inciso primero de este artículo, deberán optar por los cargos de Director que deseen conservar, dentro del plazo de 30 días contado desde la fecha en que se procedió a su elección o designación. En caso contrario, las elecciones o designaciones de Director que excedan de dicho máximo serán nulas de pleno derecho. De igual nulidad adolecerán las designaciones y elecciones que contravengan el artículo anterior. En ambos casos los administradores responderán solidariamente frente a terceros de los actos ejecutados o contratos celebrados por la Sociedad en esas circunstancias.
 
 Las limitaciones indicadas en este artículo y en el precedente no regirán respecto de las Sociedades Anónimas cuyas finalidades se relacionan exclusivamente con actividades deportivas, educacionales, de beneficencia u otras semejantes, en las que sus Directores no reciban remuneración.
+
+Por decreto supremo fundado del Ministerio que corresponda, podrá excepcionarse a determinada persona de la obligación establecida en el inciso primero de este artículo, para que pueda ejercer el cargo de director de una sociedad anónima, cuando la mayoría de las acciones de dicha sociedad anónima pertenezca al sector público.
 
 #### Artículo 97
 
@@ -1072,6 +1012,8 @@ Ningún Corredor podrá actuar como tal sin haber otorgado previamente a la Bols
 
 La garantía se considerará afecta, con preferencia a todo otro crédito, al cumplimiento de las responsabilidades de las operaciones que efectúe en la Bolsa.
 
+Las Bolsas de Valores no podrán fijar las tarifas de Comisiones que los corredores deban cobrar por las operaciones que realicen, las que en consecuencia serán libres.
+
 #### Artículo 142
 
 Las reuniones en las Bolsas de Valores serán públicas y todas las operaciones que en ellas se efectúen, serán registradas oficialmente, debiendo los Corredores que intervengan y la propia Bolsa timbrar el traspaso respectivo, cuando se trate de acciones.
@@ -1160,35 +1102,19 @@ Los miembros del personal de la Caja Reaseguradora de Chile, tendrán el caráct
 
 #### Artículo 157
 
-Los gastos que demande el mantenimiento de la Superintendencia, serán costeados por las Compañías de Seguros, la Caja Reaseguradora de Chile, las sociedades anónimas, y toda otra institución sujeta a su vigilancia, en virtud de leyes especiales, en la forma siguiente:
-
-a) Las Compañías de Seguros y la Caja Reaseguradora de Chile, con el 1% de la prima neta o retenida, es decir, aquella parte de la misma que la Compañía conserva después de reasegurar, respecto de los seguros del Primer Grupo; y con el 4% de la primera prima anual directa entendiéndose por tal la prima pagada por el asegurado al asegurador, respecto de los seguros del Segundo Grupo, sin deducir suma alguna por concepto de reseguro en el extranjero;
-
-b) Las sociedades anónimas con un aporte o patente anual equivalente al uno por mil de sus capitales y reservas y con un máximo de un sueldo vital anual para los empleados particulares de la industria y el comercio del departamento de Santiago. En el caso de las agencias de sociedades anónimas extranjeras, este aporte se hará en proporción al capital en giro en el país, entendiéndose por tal la suma de valores que forman su activo, con deducción del pasivo exigible, excluyéndose de éste las deudas de la casa matriz, y con la misma limitación anterior;
-
-c) Las demás entidades sujetas a la vigilancia de la Superintendencia en virtud de leyes especiales, con la cuota que le fije el Ministerio de Hacienda, que no podrá exceder del límite señalado en la letra anterior.
-
-El Superintendente, con aprobación del Ministerio de Hacienda y de acuerdo con las disposiciones anteriores, fijará anualmente el monto de las cuotas y patentes, necesario para el financiamiento del Servicio.
+DEROGADO.
 
 #### Artículo 158
 
-Para el pago de la patente fijada de conformidad con lo dispuesto en el artículo precedente, las Sociedades Anónimas procederán a declarar y pagar su valor en las Tesorerías Comunales respectivas en el mes de Marzo de cada año, sobre la base de su balance del año calendario inmediatamente anterior.
-
-Si dicha declaración y pago no se efectúan dentro de este plazo, la Superintendencia podrá recurrir al Juzgado de Letras en lo Civil de Santiago solicitando el correspondiente mandamiento de ejecución.
-
-A este efecto, se practicará una liquidación que firmada por el Superintendente tendrá por sí sola mérito ejecutivo, y en juicio, no será admisible otra excepción que la de pago, acreditado por el correspondiente recibo de la Tesorería.
+DEROGADO.
 
 #### Artículo 159
 
-La obligación de pagar la patente no rige respecto de las sociedades anónimas, sino desde el primero de Enero del año siguiente a aquel en que sea autorizada su existencia y cesará, en los casos de revocación o disolución anticipada, desde el término del año calendario que corresponda a la fecha del decreto respectivo o, a falta de éste, a la del hecho que la produzca.
+DEROGADO.
 
 #### Artículo 160
 
-Los aportes que para el mantenimiento de la Superintendencia deban efectuar las entidades sujetas a su vigilancia, las cuotas con que deban cooperar al financiamiento de los Cuerpos de Bomberos del país las entidades aseguradoras, de acuerdo con el artículo 13° de esta ley y las cuotas para cubrir los gastos de peritaje en los procesos por incendio, a que se refiere el artículo 36° serán depositados en la tesorería fiscal.
-
-El retardo en el pago de los aportes para el mantenimiento de la Superintendencia a que se refiere el inciso anterior, astará afecto al interés penal señalado en el artículo 53 del Código Tributario, el que ingresará a rentas generales, salvo hasta la cantidad anual de 20 sueldos vitales anuales, Escala A), del departamento de Santiago, que incrementará los fondos del Departamento de Bienestar del Personal de la Superintendencia.
-
-El retardo en el pago de las cuotas para el financiamiento de los Cuerpos de Bomberos del país y de aquellas destinadas a cubrir los gastos de peritaje indicados en el inciso primero, estará igualmente gravado con el interés penal señalado en el artículo 53 del Código Tributario, y el que se destinará a incrementar el financiamiento de los Cuerpos de Bomberos del país.
+Las cuotas para cubrir los gastos de peritaje en los procesos de incendio a que se refiere el artículo 36, serán depositadas en la Tesorería Fiscal, y el retardo en su pago devengará los intereses y reajustes establecidos en el artículo 53 del Código Tributario, sin perjuicio de las sanciones que pueda aplicar la Superintendencia.
 
 #### Artículo 161
 
