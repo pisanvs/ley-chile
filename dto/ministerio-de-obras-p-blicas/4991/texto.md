@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.991, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº16, superficie 831 m², rol de avalúo 33-177, comuna de Pichidegua, para la obra ''Mejoramiento Camino Pichidegua-Marchigue, Sector Marchigue-La Esperanza, Km. 43.600 a Km. 69.237,91'' y se acordó el valor de indemnización con su propietaria Magaly del Carmen Rodríguez Núñez, ascendente a la cantidad de $888.502.
+
+Fiscal del Ministerio de Obras Públicas.
