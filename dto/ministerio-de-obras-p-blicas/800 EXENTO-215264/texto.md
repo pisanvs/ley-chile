@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 800, de 22 de agosto de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco el lote de terreno Nº 7-A para la obra: Camino Puelo Paso El Bolsón, Sector Lago Taguatagua - Llanada Grande, tramo Km.
+
+0,346 a Km. 12,530, que figura a nombre de Argel Cárcamo Candelaria, Rol de Avalúo 158-142, comuna de Cochamó, X Región, superficie 12.600 m². La Comisión de Peritos fijó con fecha 21 de diciembre de 2002 el monto de la indemnización provisional en la cantidad de $2.016.000 para el lote Nº 7-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
