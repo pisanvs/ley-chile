@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.659, de fecha 30 de noviembre de 2004, se expropio el lote de terreno Nº123-A, superficie 954 m2, rol de avalúo Nº679-213, comuna de Lautaro, para la obra "Camino Ruta S-10, sector Cruce Long. (Lautaro) - Galvarino, Tramo Km.0,000 a Km.34,50853, Etapa Km.0,000 a Km.18,000", IX Región y se acordó el valor de la indemnización con su propietario José Coliñir Epuleo, ascendente a la cantidad de $895.500.
+
+Fiscal del Ministerio de Obras Públicas.
