@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº739 de fecha 31 de mayo del 2001, se expropió el lote de terreno Nº6, superficie 265,01 m², sin rol, comuna de Vallenar, para la obra "Variante Canal Marañón, Km. 0,00 al km. 3,773" del Proyecto de Mejoramiento Canales Tercera Sección, Valle Río Huasco y se acordó el valor de indemnización con su propietario(a) Estatira Paquita Antequera, ascendente a la cantidad de $54.862.-
+
+Fiscal del Ministerio de Obras Públicas.
