@@ -1,0 +1,3 @@
+Por resolución Nº 1.873, de 28 de agosto de 2000, de esta Subsecretaría, autorízase a ANTARTICA PRODUCTOS MARINOS Y COMPAÑIA LIMITADA, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Camino Lechagua S/Nº, Sector Rural, comuna de Ancud, provincia de Chiloé, X Región, donde podrá procesar en la línea de Secado el recurso hidrobiológico Luche.
+
+Valparaíso, 28 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
