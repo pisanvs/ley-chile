@@ -1,0 +1,5 @@
+Por decreto MOP Nº 4.771, de 31 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 16-A, 18-A, 18-B, 20-A, 23-D y 25-B, para la obra Camino Ruta L-32, sector Cruce Ruta 5-Puente Sifón Tramo Km. 2,320 al 17,66644 y Km. 0,000 al 0,963 (Variante), que figuran a nombre de Cirilo Bravo Vásquez, Héctor Rober Yeber Campos, I. Municipalidad de Linares, Luis Sepúlveda Campos, Suc. Leiva Villalobos y Sucesión Juan Bautista Sierra Basti, roles de avalúo 527-25, 527-1, en trámite, 526-13, 526-8 y 526-15, comuna de Linares, VII Región, superficies 49, 14, 162, 1.093, 25 y 90 m2., respectivamente. La comisión de peritos, fijó con fecha 10 de enero de 2000, en la cantidad de $41.650, lote 16-A; $9.800, lote 18-A;
+
+$149.400, lote 18-B; $218.600, lote 20-A; $22.500, lote 23-D y $117.000, lote 25-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
