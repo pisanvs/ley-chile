@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.455 de fecha 31 de julio del 2000, se expropió el lote de terreno Nº1, superficie 3.306.050m2., rol de avalúo 250-3, comuna de Salamanca, para la obra ''Proyecto Embalse Corrales, sector Camisas, Zona de Inundación'' y se acordó el valor de indemnización con su propietario Sociedad Agrícola y Ganadera Camisas y Compañía, ascendente a la cantidad de $427.941.247.
+
+Fiscal del Ministerio de Obras Públicas.
