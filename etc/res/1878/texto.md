@@ -1,0 +1,3 @@
+Por Resolución N° 1.878, de 8 de noviembre de 1996, de esta Subsecretaría de Pesca; del Ministerio de Economía, Fomento y Reconstrucción rectifíquese la Resolución N° 1318, de 1996, de esta Subsecretaría, que autorizó a PESQUERA COLOSO S.A., para sustituir las naves "Bandurria", "Don Mateo", y "El Conquistador", en el sentido de señalar que el nombre correcto de esta última nave corresponde al de "Conquistador" y no al señalado en dicha Resolución.
+
+Valparaíso, 8 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
