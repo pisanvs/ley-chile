@@ -1,0 +1,3 @@
+Por Resolución N° 546 de 23 de julio de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1° de la Resolución N° 101, de 1993, que fijó las coordenadas geográficas del centro de cultivo autorizado en Ensenada de Codihue, Calbuco, X Región, a PESQUERA MARES AUSTRALES LIMITADA, R.U.T. N° 83.380.700-5, domiciliada en calle Lota N° 187, Dirección Postal Casilla 709, Puerto Montt, en el sentido de señalar que la Resolución N° 816, de esta Subsecretaría que allí se menciona es del año 1985.
+
+Valparaíso, 23 de julio de 1993. Andrés Couve Rioseco, Subsecretario de Pesca.
