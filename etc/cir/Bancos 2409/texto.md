@@ -1428,9 +1428,9 @@ b) Los siguientes documentos emitidos por el Banco Central de Chile:
 
 - Pagarés y efectos de comercio a que se refiere el Anexo N° 1 del Capítulo XVIII y el Anexo NB 1 del Capítulo XIX, del Título I del Compendio de Normas de Cambios Internacionales.
 
-- Pagarés al Portador a que se refiere el N° 3 del Acuerdo 1.506-148-30406 (PPBC).
-
 - Pagarés reajustables con pago en cupones (PRC), Capítulo IV.B.8.3 del Compendio de Normas Financieras.
+
+- Pagarés Reajustables en Dólares (PRD), Capítulo IV.B.10 del Compendio de Normas Financieras.
 
 c) Pagarés emitidos por la Tesorería General de la República, correspondientes a emisiones seriadas de instrumentos de oferta pública.
 
@@ -1560,11 +1560,9 @@ De acuerdo a lo dispuesto por el Banco Central de Chile en el Capítulo M.B.1 de
 
 i) Los documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República que se indican en las letras b) y c) del numeral 3.2 del título II de este Capítulo.
 
-ii) Pagarés a que se refiere el numeral 2.2 y la letra b) del N° 3 del Acuerdo N° 1555-07-840209 y sus modificaciones del ex-Comité Ejecutivo del Banco Central de Chile.
+ii) Certificados de Depósito Expresados en Dólares de los Estados Unidos de América - Acuerdo 163-05-911010.
 
-iii) Certificados de Depósito Expresados en Dólares de los Estados Unidos de América - Acuerdo 163-05-911010.
-
-iv) Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional.
+iii) Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional.
 
 ### 4. Exención de encaje y reserva técnica
 
@@ -15460,7 +15458,7 @@ c) Acompañar un estudio de factibilidad económico-financiero en que se conside
 
 d) Que el país en el que se efectuará la inversión o se abrirá la oficina, ofrezca condiciones de fiscalización que permitan apreciar el riesgo de sus operaciones.
 
-e) Que los socios o accionistas cuya participación sea igual o superior al 10% del capital de la sociedad, cumplan con los requisitos que exige el artículo 36 de la Ley General de Bancos.
+e) Que, si en la empresa establecida en el exterior, participan socios o accionistas con un porcentaje igual o superior al 10% del capital de ella, cumplan con los requisitos establecidos en el artículo 36 de la Ley General de Bancos.
 
 Para acreditar el cumplimiento de los requisitos antes mencionados y proporcionar la información necesaria para otorgar la respectiva autorización, las instituciones financieras interesadas deberán entregar los antecedentes que se detallan en el Anexo N° 1 de este Capítulo.
 
@@ -19469,6 +19467,8 @@ La facultad para adquirir las opciones antes mencionadas, lleva implícita la de
 3.- Autorización del Banco Central de Chile.
 
 Los bancos que decidan contratar las operaciones a futuro de coberturas de tasa de interés de que se trata, deberán obtener previamente la autorización del Banco Central de Chile. Tales autorizaciones tendrán el plazo de vigencia que fije el Instituto Emisor.
+
+No obstante lo anterior, los bancos que mantengan Pagarés Reajustables en Dólares, de que trata el Capítulo IV.B.10 del Compendio de Normas Financieras, podrán realizar operaciones de cobertura de tasas de interés hasta por el monto de los Pagarés que mantengan, sin solicitar la autorización antes mencionada.
 
 4.- Facultades de los usuarios.
 
