@@ -1,0 +1,3 @@
+Por Decreto MOP No. 95, de 29 de abril de 1988, se expropiaron los lotes de terrenos N°s. 9, 10, 11 y 12, superficie 20.400 M2., rol de avalúo 138-71 y 138-69, Comuna de Codegua, para la obra Mejoramiento Integral del Servicio de Agua Potable de Codegua, y se acordó el precio de indemnización con su propietario Alvaro Juan de Dios Angulo Moreno, ascendente a la cantidad de $ 272.544.
+
+- Fiscal del Ministerio de Obras Públicas.
