@@ -1,0 +1,3 @@
+DELEGA EN FUNCIONARIOS QUE INDICA FACULTADES DE CONOCER Y RESOLVER DENUNCIAS POR INFRACCIONES TRIBUTARIAS QUE SEÑALA
+
+Mediante Resolución Nº 181 exenta, de 3 de diciembre de 1997, el infrascrito delegó en el Jefe del Departamento Jurídico y Jefe de Unidad dependientes de la Dirección Regional las facultades señaladas en la resolución del Director del Servicio Nº 5.277, de 23 de octubre de 1997, publicada en el Diario Oficial de 31.10 del mismo año, mediante la cual se autoriza esta delegación, la cual fue modificada por resolución Nº 5.458, de 31 de octubre del presente año, publicada en el Diario Oficial de 6 de 11 de 1997.
