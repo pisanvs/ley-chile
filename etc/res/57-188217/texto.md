@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 57, de fecha 18 de junio de 2001, se aprobó la disolución voluntaria de la Cooperativa de Vivienda y Servicios Habitacionales Villa Maule Limitada, de sigla Villa Maule Ltda., que consta en la escritura pública suscrita con fecha 2 de mayo de 2001, ante el Notario Público de Talca, don Juan Bianchi Astaburuaga.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
