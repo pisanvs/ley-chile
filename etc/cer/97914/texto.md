@@ -1,0 +1,17 @@
+El Ministro de Fe de las actuaciones del Consejo y del Banco Central de Chile que suscribe, conforme lo dispone el Nº6 del artículo 18 de la Ley Nº18.840, certifica que de conformidad con lo establecido en el Capítulo III.F.5. del Compendio de Normas Financieras, las clasificaciones de riesgo del estado soberano y las entidades bancarias extranjeras que se indican a continuación son, para los efectos previstos en dicho Capítulo, las siguientes:
+
+1. CLASIFICACION DE RIESGO DE LOS ESTADOS SOBERANOS VER TABLA DIARIO OFICIAL DE 01.04.1998
+
+### 2. CLASIFICACION DE RIESGO DE ENTIDADES BANCARIAS EXTRANJERAS
+
+VER TABLA DIARIO OFICIAL DE 0FICIAL
+
+(1) Standard and Poor's
+
+(2) Duff & Phelps
+
+(3) FitchIBCA
+
+Se deja constancia que las Clasificaciones de Riesgo que preceden se han elaborado sobre la base de la información disponible en el Banco Central de Chile hasta el 30 de marzo de 1998, y que ella reemplaza parcialmente la contenida en los Nºs. 1 y 3 del Anexo del Capítulo III.F.5. del Compendio de Normas Financieras.
+
+Santiago, 30 de marzo de 1998.- Jorge Carrasco Vásquez, Ministro de Fe (S)
