@@ -1,0 +1,3 @@
+Por resolución Nº 918, de 2 de mayo de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Estaquilla, X Región, individualizada en el artículo 1º del DS Nº 934, de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES ACUICULTORES "ESTAQUILLA".
+
+Valparaíso, 2 de mayo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
