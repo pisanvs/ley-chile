@@ -1,0 +1,7 @@
+Oficiales españoles incorporados al Ejército chileno
+
+Santiago, Diciembre 15 de 1818.
+
+Habiéndose hecho dignamente acreedores a la confianza del gobierno i al justo reconocimiento de la Patria, los oficiales españoles don Ambrosio Acosta, teniente-coronel graduado del rejimiento de cazadores dragones, don Manuel Valledor i don José Méndez Llano, teniente del rejimiento de Cantabria, i don Antonio Martínez Pallares subteniente del mismo, así porque abandonando con heróica detestacion las ominosas banderas del rei de España han buscado entre nosotros un asilo contra la arbitrariedad i tiranía, como por la nobleza de sentimientos con que se ofrecen a ayudarnos en nuestra lid; se les declara desde luego incorporados a los Ejércitos de Chile con un grado mas sobre la clase que tenían en los del rei de España. Esprésese esta circunstancia en sus despachos, i la de quedar agregados al Estado mayor jeneral. Los hombres libres de todas las naciones son nuestros conciudadanos naturales. Defendemos nuestra libertad. Peleamos no contra el pueblo español sino contra el gobierno estúpido que lo tiraniza, i que se ha obstinado en estender sobre nosotros su funesto dominio. Los españoles liberales hallarán siempre en Chile una patria, en que la hospitalidad i el pleno goze de derechos sociales recompensen con usuras la renuncia de su suelo nativo.-
+
+Publíquese esta resolucion en el Exto., e imprímase con la representacion de los interesados i el oficio del Excmo. capitan jeneral en que la recomienda.- O'Higgins.- Zenteno.
