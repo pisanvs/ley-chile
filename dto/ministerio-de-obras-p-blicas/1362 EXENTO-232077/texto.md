@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.362, de fecha 30 de septiembre de 2004, se expropiaron los lotes de terreno Nº 37 y 38, superficies 15 m2 y 365 m2, Rol de avalúo Nº 603-326, comuna de Nueva Imperial, para la obra "Camino Reposición, Ruta S-40 Sector Nueva Imperial - Carahue Tramo Km. 0,00000 al 21,58295, Subtramo I Km. 0,00000 al Km. 4,04000", IX Región, y se acordó el valor de la indemnización con su propietario Canio Ñanco Igaiman ascendente a la cantidad de $1.379.828.-
+
+Fiscal del Ministerio de Obras Públicas.
