@@ -352,8 +352,6 @@ Pérdida o comiso de los instrumentos o efectos del delito.
 
 PENAS ACCESORIAS DE LOS CRÍMENES Y SIMPLES DELITOS.
 
-Cadena o grillete.
-
 Celda solitaria.
 
 Incomunicación con personas extrañas al establecimiento penal.
@@ -384,13 +382,15 @@ Las penas de destierro y de sujeción a la vigilancia de la autoridad, de sesent
 
 La prisión dura de uno a sesenta días.
 
-La cuantía de la multa, tratándose de crímenes, no podrá exceder deun millón de pesos; en los simples delitos, de doscientos mil pesos, y en las faltas, de veinte mil pesos.
+La cuantía de la multa, tratándose de crímenes, no podrá exceder de un millón de pesos; en los simples delitos, de seiscientos mil pesos, y en las faltas, de sesenta mil pesos.
+
+La expresión "sueldo vital" en cualquiera disposición de este Código significa un sueldo vital mensual, escala A), del departamento de Santiago
 
 Cuando la ley impone multas cuyo cómputo debe hacerse con relación a cantidades indeterminadas, nunca podrán aquéllas exceder de un millón de pesos.
 
 En cuanto a la cuantía de la caución, se observarán las reglas establecidas para la multa, doblando las cantidades respectivamente, y su duración no podrá exceder del tiempo de la pena u obligación cuyo cumplimiento asegura, o de cinco años en los demás casos.
 
-La duración de las penas accesorias de cadena o grillete, encierro en celda solitaria e incomunicación con personas extrañas al establecimiento penal, es de sesenta y un días a cinco años; no pudiendo, dentro de estos límites, imponerse por más de la mitad del tiempo señalado a la pena principal.
+La duración de las penas accesorias de encierro en celda solitaria e incomunicación con personas extrañas al establecimiento, salvo los casos contemplados en el número segundo del artículo 90 y en el inciso segundo del artículo 91, no podrá exceder de 180 días, no pudiendo dentro de este límite imponerse por más de la mitad del tiempo señalado a la pena principal. En todo caso, el Tribunal que impuso la pena, podrá, atendidas las circunstancias, de oficio o a petición de parte, suspender, en cualquier momento, la pena accesoria.
 
 #### Artículo 26
 
@@ -594,13 +594,13 @@ La multa se considera como la pena inmediatamente inferior a la última en todas
 
 Para fijar su cuantía respectiva se adoptará la base establecida en el art. 25, y en cuanto a su aplicación a cada caso especial se observará lo que prescribe el art. 70.
 
-El producto de las multas, ya sea que se impongan por sentencia o por decreto que conmuta alguna pena, ingresará en arcas fiscales y se mantendrá en una cuenta especial, contra la cual sólo podrá girar el Ministerio de Justicia, para algunos de los siguientes fines:
+El producto de las multas, ya sea que se impongan por sentencia o que resulten de un decreto que conmuta alguna pena, ingresará en una cuenta fiscal, especial, contra la cual sólo podrá girar el Ministerio de Justicia, para algunos de los siguientes fines, y en conformidad al Reglamento que para tal efecto dictará el Presidente de la República:
 
-1° Creación, instalación y mantenimiento de establecimientos penales y de reeducación de antisociales;
+1.- Creación, instalación y mantenimiento de establecimientos penales y de reeducación de antisociales;
 
-2° Creación, instalación y mantenimiento de servicios de peritos judiciales, y
+2.- Creación de Tribunales e instalación, mantenimiento y desarrollo de los servicios judiciales, y
 
-3° Mantenimiento de los servicios del Patronato Nacional de Reos.
+3.- Mantenimiento de los Servicios del Patronato Nacional de Reos.
 
 La misma regla señalada en el inciso anterior, se aplicará respecto a las cauciones que se hagan efectivas, de los dineros que caigan en comiso y del producto de la enajenación en subasta pública de las demás especies decomisadas, la cual se deberá efectuar por la Dirección de Aprovisionamiento del Estado.
 
@@ -652,7 +652,7 @@ Cuando la ley señala una sola pena indivisible, la aplicará el tribunal sin co
 
 Si la ley señala una pena compuesta de dos indivisibles y no acompañan al hecho circunstancias atenuantes ni agravantes, puede el tribunal imponerla en cualquiera de sus grados.
 
-Cuando solo concurre alguna circunstancia atenuante, debe aplicarla en su grado mínimo, y si habiendo una circunstancia agravante, no concurre ninguna atenuante, la impondrá en su grado máximo.
+Cuando solo concurre alguna circunstancia atenuante, debe aplicarla en su grado mínimo, y si habiendo una circunstancia agravante, no concurre ninguna atenuante, la impondrá en su grado máximo. Si en este último caso el grado máximo de los designados estuviere constituido por la pena de muerte, el Tribunal no estará obligado a imponerla necesariamente.
 
 Siendo dos o más las circunstancias atenuantes sin que concurra ninguna agravante, podrá imponer la pena inferior, en uno o dos grados al mínimo de los señalados por la ley, según sea el número y entidad de dichas circunstancias.
 
@@ -676,13 +676,11 @@ En el caso de concurrir circunstancias atenuantes y agravantes, se hará su comp
 
 Cuando la pena señalada por la ley consta de dos o más grados, bien sea que los formen una o dos penas indivisibles y uno o más grados de otra divisible, o diversos grados de penas divisibles, el tribunal al aplicarla podrá recorrer toda su extensión, si no concurren en el hecho circunstancias atenuantes ni agravantes.
 
-Habiendo una sola circunstancia atenuante o una sola circunstancia agravante, no aplicará en el
-
-primer caso el grado máximo ni en el segundo el mínimo.
+Habiendo una sola circunstancia atenuante o una sola circunstancia agravante, no aplicará en el primer caso el grado máximo ni en el segundo el mínimo.
 
 Si son dos o más las circunstancias atenuantes y no hay ninguna agravante, el tribunal podrá imponer la pena inferior en uno, dos o tres grados al mínimo de los señalados por la ley, según sea el número y entidad de dichas circunstancias.
 
-Cuando, no concurriendo circunstancias atenuantes, hay dos o más agravantes, podrá imponer la inmediatamente superior en grado al máximo de los designados por la ley. Si el grado máximo de los designados lo formare en tal caso la pena de muerte, se aplicará ésta precisamente.
+Cuando, no concurriendo circunstancias atenuantes, hay dos o más agravantes, podrá imponer la inmediatamente superior en grado al máximo de los designados por la ley, a menos que dicha pena fuere la de muerte, en cuyo caso el Tribunal no estará obligado a imponerla necesariamente.
 
 Concurriendo circunstancias atenuantes y agravantes, se observará lo prescrito en los artículos anteriores para casos análogos.
 
@@ -722,7 +720,7 @@ El sentenciado cumplirá todas sus condenas simultáneamente, siendo posible. Cu
 
 La disposición del artículo anterior no es aplicable en el caso de que un solo hecho constituya dos o más delitos, o cuando uno de ellos sea el medio necesario para cometer el otro.
 
-En estos casos sólo se impondrá la pena mayor asignada al delito más grave.
+En estos casos solo se impondrá la pena mayor asignada al delito más grave. Si dicha pena fuere la de muerte, podrá imponerse, en vez de ella, la de presidio perpetuo.
 
 #### Artículo 76
 
@@ -788,11 +786,11 @@ No se ejecutará la pena de muerte en la mujer que se halle en cinta, ni se le n
 
 #### Artículo 86
 
-Los condenados a presidio perpetuo, reclusión perpetua, presidio mayor y reclusión mayor, cumplirán sus condenas en las cárceles penitenciarias. De esta regla se exceptúa a las mujeres, quienes, mientras no se construyan en dichas cárceles departamentos especiales para ellas, las cumplirán en las casas de corrección, lo mismo que las de presidio menor, reclusión menor y prisión.
+Los condenados a penas privativas de libertad cumplirán sus condenas en la clase de establecimientos carcelarios que corresponda en conformidad al Reglamento respectivo.
 
 #### Artículo 87
 
-Los condenados a presidio menor y reclusión menor, cumplirán sus condenas en los presidios; los condenados a prisión, las cumplirán en las cárceles. En unos y otros establecimientos deberán mantenerse con la correspondiente separación a los reos menores de veinte años, mientras no se construyan otros especiales para que cumplan sus condenas.
+Los menores de veintiún años y las mujeres cumplirán sus condenas en establecimientos especiales. En los lugares donde éstos no existan, permanecerán en los establecimientos carcelarios comunes, convenientemente separados de los reos adultos y varones, respectivamente.
 
 #### Artículo 88
 
@@ -820,11 +818,11 @@ DE LAS PENAS EN QUE INCURREN LOS QUE QUEBRANTAN LAS SENTENCIAS Y LOS QUE DURANTE
 
 Los sentenciados que quebrantaren su condena serán castigados con las penas que respectivamente se designan en los números siguientes:
 
-1.° Los condenados a presidio, reclusión o prisión sufrirán la pena de incomunicación con personas extrañas al establecimiento penal por un tiempo que, atendidas las circunstancias, podrá extenderse hasta un año, quedando durante el mismo tiempo sujetos al régimen más estricto del establecimiento.
+1.° Los condenados a presidio, reclusión o prisión sufrirán la pena de incomunicación con personas extrañas al establecimiento penal por un tiempo que, atendidas las circunstancias, podrá extenderse hasta ciento ochenta días, quedando durante el mismo tiempo sujetos al régimen más estricto del establecimiento.
 
-2.° En caso de reincidencia en el quebrantamiento de dichas condenas sufrirán, a más de las penas de la regla anterior, la de cadena o grillete por un tiempo que, atendidas las circunstancias, podrá extenderse hasta un año.
+2° Los reincidentes en el quebrantamiento de tales condenas, a más de las penas de la regla anterior, serán encerrados en celda solitaria por un término prudencial, atendidas las circunstancias, que no podrá exceder de la mitad del que les falte por cumplir de la pena principal.
 
-3.° Los consuetudinarios en el quebrantamiento de tales condenas, entendiéndose por tales los que lo hubieren verificado más de dos veces, serán encerrados en celda solitaria por un término prudencial, atendidas las circunstancias, que no podrá exceder de la mitad del que les falte por cumplir de la pena principal, conforme a lo prescrito en el art. 25.
+3.° DEROGADO.
 
 4.° Los condenados a confinamiento, extrañamiento, relegación o destierro, sufrirán las penas de presidio, reclusión o prisión, según las reglas siguientes:
 
@@ -852,9 +850,7 @@ En caso de reincidencia sufrirá la pena de reclusión menor en su grado mínimo
 
 Los que después de haber sido condenados por sentencia ejecutoria cometieren algún crimen o simple delito durante el tiempo de su condena, bien sea mientras la cumplen o después de haberla quebrantado, sufrirán la pena que la ley señala al nuevo crimen o simple delito que cometieren, debiendo cumplir esta condena y la primitiva por el orden que el tribunal prefije en la sentencia, de conformidad con las reglas prescritas en el art. 74 para el caso de imponerse varias penas al mismo delincuente.
 
-Cuando en el caso de este artículo el nuevo crimen debiere penarse con presidio o reclusión perpetuos y el delincuente se hallare cumpliendo alguna de estas penas, sufrirá la de muerte.
-
-Si el nuevo crimen o simple delito tuviere señalada otra pena menor, se agravará la de presidio perpetuo o de reclusión perpetua con las de cadena o grillete, encierro en celda solitaria e incomunicación con personas extrañas al establecimiento penal, que podrán aplicarse, a arbitrio del tribunal, separada o conjuntamente y hasta por el máximum del tiempo que permite el art. 25.
+Cuando en el caso de este artículo el nuevo crimen debiere penarse con presidio o reclusión perpetuos y el delincuente se hallare cumpliendo alguna de estas penas, podrá imponerse al reo la pena de muerte, o bien agravarse la pena perpetua con las de encierro en celda solitaria hasta por un año e incomunicación con personas extrañas al establecimiento penal hasta por seis años, que podrán aplicarse separada o conjuntamente. Si el nuevo crimen o simple delito tuviere señalada una pena menor, se agravará la pena perpetua con una o más de las penas accesorias indicadas, a arbitrio del Tribunal, que podrán imponerse hasta por el máximo del tiempo que permite el artículo 25.
 
 En el caso de que el nuevo crimen deba penarse con relegación perpetua y el delincuente se halle cumpliendo la misma pena, se le impondrá la de presidio mayor en su grado medio, dándose por terminada la de relegación.
 
@@ -978,21 +974,21 @@ CRÍMENES Y SIMPLES DELITOS CONTRA LA SEGURIDAD EXTERIOR Y SOBERANÍA DEL ESTADO
 
 #### Artículo 106
 
-Todo el que dentro del territorio de la República conspirare contra su seguridad exterior, induciendo a una potencia extranjera a declarar la guerra a Chile, será castigado con presidio mayor en su grado máximo a muerte. Si se han seguido hostilidades sufrirá la pena de muerte.
+Todo el que dentro del territorio de la República conspirare contra su seguridad exterior para inducir a una potencia extranjera a hacer la guerra a Chile, será castigado por presidio mayor en su grado máximo a presidio perpetuo. Si se han seguido hostilidades bélicas, la pena podrá elevarse hasta la de muerte.
 
-Las prescripciones de este artículo se aplican a los chilenos, aun cuando las maquinaciones para inducir a declarar la guerra a la República hayan tenido lugar fuera de su territorio.
+Las prescripciones de este artículo se aplican a los chilenos, aún cuando la conspiración haya tenido lugar fuera del territorio de la República.
 
 #### Artículo 107
 
-El chileno que militare contra su patria bajo banderas enemigas, será castigado con presidio mayor en su grado máximo a muerte.
+El chileno que militare contra su patria bajo banderas enemigas, será castigado con presidio mayor en su grado medio a muerte.
 
 #### Artículo 108
 
-Todo individuo que, sin proceder a nombre y con autorización de una potencia extranjera, hiciere armas contra Chile amenazando la independencia o integridad de su territorio, sufrirá la pena de presidio perpetuo a muerte.
+Todo individuo que, sin proceder a nombre y con la autorización de una potencia extranjera hiciere armas contra Chile amenazando la independencia o integridad de su territorio, sufrirá la pena de presidio mayor en su grado máximo a presidio perpetuo.
 
 #### Artículo 109
 
-Será castigado con la pena de presidio mayor en su grado máximo a muerte:
+Será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo:
 
 El que facilitare al enemigo la entrada en el territorio de la República.
 
@@ -1014,11 +1010,11 @@ El que diere maliciosamente falso rumbo o falsas noticias al ejército o armada 
 
 El proveedor que maliciosamente faltare a su deber con grave daño del ejército o armada.
 
-El que impidiere que las tropas de la República, en tiempo de guerra extranjera, reciban auxilios de caudales, armas, municiones de boca o de guerra, equipos o embarcaciones, o los planos, instrucciones o noticias convenientes para el mejor progreso de la guerra.
+El que impidiere que las tropas de la República reciban auxilios de caudales, armas, municiones de boca o de guerra, equipos o embarcaciones, o los planos, instrucciones o noticias convenientes para el mejor progreso de la guerra.
 
 El que por cualquier medio hubiere incendiado algunos objetos con intención de favorecer al enemigo.
 
-En los casos de este artículo si el delincuente fuero funcionario público, agente o comisionado del Gobierno de la República, que hubiere abusado de la autoridad, documentos o noticias que tuviere por razón de su cargo, sufrirá la pena de muerte.
+En los casos de este artículo si el delincuente fuero funcionario público, agente o comisionado del Gobierno de la República, que hubiere abusado de la autoridad, documentos o noticias que tuviere por razón de su cargo, la pena podrá elevarse hasta la de muerte.
 
 #### Artículo 110
 
@@ -1180,7 +1176,7 @@ Sufrirán la pena de reclusión menor en su grado mínimo y multa de ciento a tr
 
 Cuando en el caso del núm. 3.° del artículo precedente, la injuria fuere de hecho, poniendo manos violentas sobre la persona del ministro, el delincuente sufrirá las penas de reclusión menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
 
-Si los golpes causaren al ofendido algunas de las lesiones a que se refiere el art. 399, la pena será presidio menor en su grado medio; cuando las lesiones fueren de las comprendidas en el núm. 2.° del art. 397, se castigarán con presidio menor en su grado máximo; si fueren de las que relaciona el núm. 1.° de dicho artículo, con presidio mayor en su grado medio, y cuando de las lesiones resultare la muerte del paciente, se impondrá al ofensor la pena de presidio mayor en su grado máximo a muerte.
+Si los golpes causaren al ofendido algunas de las lesiones a que se refiere el art. 399, la pena será presidio menor en su grado medio; cuando las lesiones fueren de las comprendidas en el núm. 2.° del art. 397, se castigarán con presidio menor en su grado máximo; si fueren de las que relaciona el núm. 1.° de dicho artículo, con presidio mayor en su grado medio, y cuando de las lesiones resultare la muerte del paciente, se impondrá al ofensor la pena de presidio mayor en su grado máximo a presidio perpetuo.
 
 ### III. Crímenes y simples delitos contra la libertad y seguridad, cometidos por particulares
 
@@ -1610,15 +1606,17 @@ La acusación o denuncia que hubiere sido declarada calumniosa por sentencia eje
 
 El que a sabiendas presentare en juicio criminal o civil testigos o documentos falsos, será castigado como reo de falso testimonio.
 
-### VIII. De la usurpación de funciones o nombres
+### VIII. Del ejercicio ilegal de una profesión y de la usurpación de funciones o nombres
 
-#### Artículo 213
+#### Artículo 213°
 
-El que se fingiere autoridad, empleado público o profesor de una facultad que requiera título y ejerciere actos propios de dichos cargos o profesiones, sufrirá las penas de reclusión menor en cualquiera de sus grados y multa de ciento a mil pesos.
+El que se fingiere autoridad, funcionario público o titular de una profesión que, por disposición de la ley, requiera título o el cumplimiento de determinados requisitos, y ejerciere actos propios de dichos cargos profesiones, será penado con presidio menor en sus grados mínimo a medio y multa de uno a cinco sueldos vitales.
 
-#### Artículo 214
+El mero fingimiento de esos cargos o profesiones será sancionado como tentativa del delito que establece el inciso anterior.
 
-En las mismas penas del artículo anterior incurrirá el lego que sin derecho ejerciere funciones sacerdotales, como también el eclesiástico que las ejerciere, hallándose suspenso por autoridad competente, sin perjuicio de las penas espirituales que esta pueda imponer.
+#### Artículo 214°
+
+El que usurpare el nombre de otro será castigado con presidio menor en su grado mínimo, sin perjuicio de la pena que pudiere corresponderle a consecuencia del daño que en su fama o intereses ocasionare a la persona cuyo nombre ha usurpado.
 
 #### Artículo 215
 
@@ -2104,15 +2102,17 @@ Los que emplearen amenaza o cualquier otro medio fraudulento para alejar a los p
 
 El que fabricare, vendiere o distribuyere armas absolutamente prohibidas por la ley o por los reglamentos generales que dicte el Presidente de la República, sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a quinientos pesos.
 
-### IX. Simples delitos relativos a las epizootias
+### IX. Delitos relativos a la salud animal y vegetal
 
-#### Artículo 289
+#### Artículo 289°
 
-Todo tenedor o guardián de animales afectados de enfermedades contagiosas determinadas por la autoridad local, que no hubiere dado aviso inmediatamente a dicha autoridad o a sus agentes, o que antes de que se haya respondido a su aviso no los tuviere encerrados, será castigado con reclusión menor en su grado mínimo o multa de ciento a trescientos pesos.
+El que de propósito y sin permiso de la autoridad competente propagare una enfermedad animal o una plaga vegetal, será penado con presidio menor en su grado medio o multa de tres a diez sueldos vitales.
 
-#### Artículo 290
+Si la propagación se produjere por negligencia inexcusable del tenedor o encargado de las especies animales o vegetales afectadas por la enfermedad o plaga o del funcionario a cargo del respectivo control sanitario, la pena será de presidio menor en su grado mínimo o multa de uno a cinco sueldos vitales.
 
-A los que, con desprecio de las prohibiciones de la autoridad administrativa competente, hubieren dejado los animales infestados en comunicación con otros o no hubieren cumplido las prescripciones de dicha autoridad para impedir la propagación del contagio, se impondrá la pena de reclusión menor en su grado mínimo o multa de ciento a quinientos pesos.
+#### Artículo 290°
+
+Los que, a sabiendas, infringieren las instrucciones de la autoridad competente destinadas a impedir la propagación de una enfermedad animal o de una plaga vegetal, serán penados con presidio menor en su grado mínimo o multa de tres a diez sueldos vitales.
 
 #### Artículo 291
 
@@ -2238,41 +2238,111 @@ El mendigo en quien concurra cualquiera de las circunstancias expresadas en el a
 
 Lo dispuesto en el art. 308 es aplicable a los mendigos comprendidos en los arts. 309 y 310.
 
-### XIV. Crímenes y simples delitos contra la salud pública
+### XIV. Crímenes y Simples Delitos contra la Salud Pública
 
 #### Artículo 313
 
 El que, sin hallarse competentemente autorizado, elaborare sustancias o productos nocivos a la salud o traficare en ellos, estando prohibidos su fabricación o tráfico, será castigado con reclusión menor en su grado medio y multa de ciento a quinientos pesos.
 
-#### Artículo 314
+#### Artículo 313°
 
-El que hallándose autorizado para la fabricación o tráfico de las sustancias o productos expresados en el artículo anterior, los fabricare o expendiere sin cumplir con las formalidades prescritas en los reglamentos respectivos, sufrirá las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
+a El que, careciendo de título profesional competente o de la autorización legalmente exigible para el ejercicio profesional, ejerciere actos propios de la respectiva profesión de médico-cirujano, dentista, químico-farmacéutico, bioquímico u otra de características análogas, relativa a la ciencia y arte de precaver y curar las enfermedades del cuerpo humano, aunque sea a título gratuito, será penado con presidio menor en su grado medio y multa de uno a cinco sueldos vitales.
 
-#### Artículo 315
+Para estos efectos se entenderá que ejercen actos propios de dichas profesiones:
 
-Los droguistas que despacharen medicamentos deteriorados o instituyeren unos por otros, haciéndolo de una manera nociva a la salud, serán castigados con reclusión menor en su grado medio y multa de ciento a quinientos pesos, a más de la destrucción de los objetos deteriorados.
+1.- El que se atribuya la respectiva calidad;
 
-Las disposiciones de este artículo y del anterior son aplicables a los que trafiquen con las sustancias o productos expresados en ellos, y a los dependientes de los droguistas, cuando fueron los culpables.
+2.- El que ofrezca tales servicios públicamente por cualquier medio de propaganda o publicidad;
 
-#### Artículo 316
+3.- El que habitualmente realizare diagnósticos, prescribiere tratamientos o llevare a cabo operaciones o DO intervenciones curativas de aquellas cuya ejecución exige los conocimientos o las técnicas propios de tales profesiones.
 
-El que con cualquiera mezcla nociva a la salud alterare las bebidas o comestibles destinados al consumo público, sufrirá las penas de reclusión menor en su grado medio y multa de ciento a quinientos pesos, a más de la destrucción de los objetos adulterados.
+Las disposiciones de este artículo no se aplicarán en ningún caso a quienes prestaren auxilios cuando no fuere posible obtener oportuna atención profesional.
 
-#### Artículo 317
+En las mismas penas incurrirá el que prestare su nombre para amparar el ejercicio profesional de un tercero no autorizado para el mismo.
 
-Se impondrán también las penas señaladas en el artículo anterior:
+#### Artículo 313°
 
-1.° Al que escondiere o sustrajere para vender o comprar objetos destinados a ser inutilizados o desinfeccionados.
+b El que, estando legalmente habilitado para el ejercicio de una profesión médica o auxiliar de ella ofreciere abusando de la credulidad del público, la prevención o curación de enfermedades o defectos por fórmulas ocultas o sistemas infalibles, será penado con presidio menor en sus grados mínimo a medio y multa de uno a cinco sueldos vitales.
 
-2.° Al que arrojare en fuente, cisterna o curso de agua destinada a la bebida, algún objeto que la haga nociva para la salud.
+#### Artículo 313°
 
-#### Artículo 318
+c Las penas señaladas en los artículos precedentes se impondrán sin perjuicio de las que correspondieren por la muerte, lesiones u otras consecuencias punibles que eventualmente resultaren de la comisión de tales delitos.
 
-El que infringiere las reglas higiénicas o de salubridad acordadas por la autoridad en tiempo de epidemia o contagio, será castigado con reclusión menor en sus grados mínimo a medio o multa de ciento a mil pesos.
+#### Artículo 313°
 
-#### Artículo 319
+d El que fabricare o a sabiendas expendiere a cualquier título sustancias medicinales deterioradas o adulteradas en su especie, cantidad, calidad o proporciones, de modo que sean peligrosas para la salud por su nocividad o por el menoscabo de sus propiedades curativas, será penado con presidio menor en sus grados medio a máximo y multa de cinco a cincuenta sueldos vitales.
 
-Las penas designadas en este párrafo se entenderán sin perjuicio de las que correspondan al hecho o hechos que sean consecuencia de tales delitos.
+Si la fabricación o expendio fueren clandestinos, ello se considerará como circunstancia de agravante.
+
+#### Artículo 314°
+
+El que, a cualquier título, expendiere otras sustancias peligrosas para la salud, distintas de las señaladas en el artículo anterior, contraviniendo las disposiciones legales o reglamentarias establecidas en consideración a la peligrosidad de dichas sustancias, será penado con presidio menor en sus grados mínimo a medio y multa de cinco a veinte sueldos vitales.
+
+#### Artículo 315°
+
+El que envenenare o infectare comestibles, aguas u otras bebidas destinadas al consumo DO público, en términos de poder provocar la muerte o grave daño para la salud, y el que a sabiendas los vendiere o distribuyere, serán penados con presidio mayor en su grado mínimo y multa de cinco a cincuenta sueldos vitales.
+
+El que efectuare otras adulteraciones en dichas sustancias destinadas al consumo público, de modo que sean peligrosas para la salud por su nocividad o por el menoscabo apreciable de sus propiedades alimenticias, y el que a sabiendas las vendiere o distribuyere, serán penados con presidio menor en su grado máximo y multa de cinco a cincuenta sueldos vitales.
+
+Para los efectos de este artículo, se presumirá que la situación de vender o distribuir establecida en los incisos precedentes se configura por el hecho de tener a la venta en un lugar público los artículos alimenticios a que éstos se refieren. La clandestinidad en la venta o distribución y la publicidad de alguno de estos productos constituirán circunstancias agravantes.
+
+Se presume que son destinados al consumo público los comestibles, aguas u otras bebidas elaborados para ser ingeridos por un grupo de personas indeterminadas.
+
+Los delitos previstos en los incisos anteriores y los correspondientes cuasidelitos a que se refiere el inciso 2° del artículo 317°, sólo podrán perseguirse criminalmente previa denuncia o querella del Ministerio Público o del Director General del Servicio Nacional de Salud o de su delegado, siempre que aquellos no hayan causado la muerte o grave daño para la salud de alguna persona. En los demás, los correspondientes procesos criminales quedarán sometidos a las normas de de las causas que se siguen de oficio.
+
+No será aplicable al Ministerio Público ni a los funcionarios del Servicio Nacional de Salud respecto de estos delitos, lo dispuesto en los N.os 1 y 3 del artículo 84, respectivamente, del Código de Procedimiento Penal.
+
+#### Artículo 316°
+
+El que diseminare gérmenes patógenos con el propósito de producir una enfermedad, será penado con presidio mayor en su grado mínimo y multa de tres a diez sueldos vitales.
+
+#### Artículo 317°
+
+Si a consecuencia de cualquiera de los delitos señalados en los cuatro artículos precedentes, se produjere la muerte o enfermedad grave de alguna persona, las penas corporales se elevarán en uno o dos grados, según la naturaleza y número de tales consecuencias, y la multa podrá elevarse hasta el doble del máximo señalado en cada caso.
+
+Si alguno de tales hechos punibles se cometiere por imprudencia temeraria o por mera negligencia con infracción de los reglamentos respectivos, las penas serán de presidio menor en su grado mínimo o multa de uno a diez sueldos vitales.
+
+#### Artículo 318°
+
+El que pusiere en peligro la salud pública por infracción de las reglas higiénicas o de salubridad, debidamente publicadas por la autoridad, en tiempo de catástrofe, epidemia o contagio, será penado con presidio menor en su grado mínimo o multa de uno a cinco sueldos vitales.
+
+#### Artículo 319°
+
+a El que elaborare, fabricare, extrajere o prepare sustancias estupefacientes contraviniendo las prohibiciones y restricciones legales o reglamentarias, será penado con presidio mayor en su grado medio y multa de diez a cien sueldos vitales.
+
+Para todos los efectos legales, se considerarán sustancias estupefacientes las que sean calificadas como tales en el reglamento que dictará el Presidente de la República, el que podrá ser adicionado o modificado por esta misma autoridad.
+
+#### Artículo 319°
+
+b En las mismas penas incurrirán los que, sin estar competentemente autorizados, trafiquen en sustancias estupefacientes y los que por otros medios promuevan o faciliten el enviciamiento de terceros con tales sustancias.
+
+Realizan este tráfico los que suministran a terceros, a cualquier título, dichas sustancias o materias primas destinadas a obtenerlas.
+
+Asimismo, se entenderá que lo realizan los que adquieran, sustraigan, porten consigo, importen, exporten, transporten o guarden tales sustancias o materias primas, a menos que sea notorio que lo hacen exclusivamente para su uso personal.
+
+En los casos a que se refiere el presente artículo, la prueba se apreciará en conciencia.
+
+#### Artículo 319°
+
+c El que, estando autorizado para el expendio de sustancias estupefacientes, las suministrare en contravención a las disposiciones legales o reglamentarias restrictivas de su uso, será penado con presidio menor en su grado máximo y multa de cinco a cincuenta sueldos vitales.
+
+En las mismas penas incurrirá el médico que, con abuso de su profesión, recetare sustancias estupefacientes sin una necesidad médica o terapéutica que lo justifique o en dosis apreciablemente mayores que las necesarios.
+
+#### Artículo 319°
+
+d Para los efectos de los dos artículos precedentes, las normas señaladas en los cinco artículos se considerará circunstancia agravante el hecho de suministrar sustancias estupefacientes a menores de 18 años de edad, o promover o facilitar el enviciamiento de dichos menores con tales sustancias.
+
+#### Artículo 319°
+
+e El que a sabiendas proporcionare un local, a cualquier título, para que terceros concurran a él con el objeto de consumir sustancias estupefacientes, será penado con presidio menor en su grado medio y multa de tres a diez sueldos vitales.
+
+#### Artículo 319°
+
+f Las normas señaladas en los cincos artículos precedentes, se aplicarán, igualmente, cuando se trate de drogas que produzcan efectos de dependencia y que estén incluidas en el reglamento a que se refiere el inciso 2° del artículo 319° a. En estos casos, el Tribunal podrá rebajar hasta en tres grados las penas que en los referidos artículos se establecen.
+
+#### Artículo 319°
+
+g Por los delitos previstos en los seis artículos anteriores se impondrá, además, la pena accesoria de sujeción a la vigilancia de la autoridad por el máximo del tiempo que señala la ley.
 
 ### XV. De la infracción de las leyes o reglamentos sobre inhumaciones y exhumaciones
 
@@ -2332,7 +2402,7 @@ Cuando de tales accidentes resultare la muerte de algún individuo, se impondrá
 
 #### Artículo 331
 
-En el caso de abandono intencional por causar daño a alguna de las personas que iban en los trenes, se aplicarán al maquinista, conductor o guarda-frenos, según los casos y aumentadas en un grado, las penas que señalan los arts. 323, 324, 325 y 326.
+En el caso de abandono intencional por causar daño a alguna de las personas que iban en los trenes, se aplicarán al maquinista, conductor o guarda-frenos, según los casos y aumentadas en un grado, las penas que señalan los arts. 323, 324, 325 y 326; pero en el caso de este último artículo la pena podrá elevarse hasta la de muerte.
 
 #### Artículo 332
 
@@ -2672,13 +2742,13 @@ CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS.
 
 #### Artículo 390
 
-El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, sean legítimos o ilegítimos, a cualquier otro de sus ascendientes o descendientes legítimos o a su cónyuge, será castigado, como parricida, con la pena de muerte.
+El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, sean legítimos o ilegítimos, a cualquier otro de sus ascendientes o descendientes legítimos o a su cónyuge, será castigado, como parricida, con la pena de presidio mayor en su grado máximo a muerte.
 
 ART.391.
 
 El que mate a otro Y no esté comprendido en el artículo anterior, será penado:
 
-1.° Con presidio mayor en su grado medio a muerte, si ejecutare el homicidio con alguna de las circunstancias siguientes:
+1.° Con presidio mayor en su grado medio a presidio perpetuo, si ejecutare el homicidio con alguna de las circunstancias siguientes:
 
 Primera.- Con alevosía.
 
