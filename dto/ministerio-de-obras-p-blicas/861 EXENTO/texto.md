@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº861, de 31 de mayo de 2002, se expropió el lote de terreno Nº88, superficie 14 m², Rol de Avalúo Nº1420-185, comuna de Rancagua, para la obra Mejoramiento Ruta H-240, sector Rancagua-San Ramón, Km. 0,0000 a Km. 5,0000, VI Región y se acordó el valor de indemnización con su propietaria Gilda Rosario Manríquez Donoso, ascendente a la cantidad de $351.288.-
+
+Fiscal del Ministerio de Obras Públicas.
