@@ -1,0 +1,3 @@
+Por decreto MOP Nº 640, de 30 de marzo de 2001, se expropió el lote de terreno Nº 8, superficie 7.011 m², rol de avalúo 866-254, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Troncal Sur Tramo 1, Quinta Región y se acordó el valor de indemnización con su propietario Juan Leopoldo Covarrubias Panwahton, ascendente a la cantidad de $43.171.291.-
+
+Fiscal del Ministerio de Obras Públicas.
