@@ -1,0 +1,3 @@
+Por resolución exenta No. 548 de 13 de octubre de 1989, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autoriza en forma complementaria a la empresa argentina Transportes Automotores Chevallier S.A., para efectuar servicio internacional de transporte terrestre de pasajeros entre Buenos Aires (Argentina) y Viña del Mar - Santiago (Chile), por paso Cristo Redentor, alternativa Puyehue, efectuando dos frecuencias semanales de ida y vuelta.
+
+Manuel Gárate Meneses, Coronel, Subsecretario de Transportes.
