@@ -1,0 +1,9 @@
+DISPONE INCLUSION DE PERSONAS SELECCIONADAS EN NOMINAS QUE INDICA
+
+Res. exenta Nº 3.967, de fecha 14 de septiembre de 2004, dispone la inclusión de las trescientas setenta y seis (376) y cuatrocientas sesenta y siete (467) personas que en nóminas adjuntas se indican, a las nóminas de postulantes seleccionados para el goce del Subsidio Habitacional Rural, correspondiente al I llamado 2004 (Título II a postulación colectiva para la construcción de viviendas rurales emplazadas en asentamientos poblacionales) y al llamado 1-2004 (Título III a postulación individual y colectiva para el mejoramiento de la vivienda rural existente), del Sistema de Subsidio Habitacional Rural, aprobadas por resolución exenta Nº 3.484, de este Ministerio, de 2004.
+
+De estos postulantes que se incluyen en las respectivas nóminas de selección, 179 corresponden a la VI Región del Libertador Bernardo O'Higgins, 467 a la VII Región del Maule, 169 a la VIII Región del Bío Bío y 28 a la X Región de Los Lagos.
+
+Como consecuencia de ello queda en 1.697 el número de postulantes seleccionados para el goce del Subsidio Habitacional Rural correspondiente al Título II (I llamado 2004 a postulación colectiva para la construcción de viviendas rurales emplazadas en asentamientos poblacionales) y en 373.340 Unidades de Fomento (UF) el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados; y en 1.406 el número de postulantes seleccionados para el goce del Subsidio Habitacional Rural correspondiente al Título III (llamado 1-2004 a postulación individual y colectiva para el mejoramiento de la vivienda rural existente) y en 119.467,50 Unidades de Fomento (UF) el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados.-
+
+Gastón Ugarte de la Cuadra, Ministro de Fe Subrogante.
