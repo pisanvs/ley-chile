@@ -1,0 +1,3 @@
+Por resolución Nº1.564, de 17 de julio de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº98106002, presentada por GONZALO ALEJANDRO CAMACHO SANTIBAÑEZ, para instalar y operar el centro de cultivo ubicado en Canal Yelcho, Norte Isla Laitec, comuna de Quellón, provincia de Chiloé, X Región.
+
+Valparaíso, 17 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
