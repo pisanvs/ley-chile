@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.683, de 24 de junio de 1999, se expropió el lote de terreno No. 152, superficie 4.655 m2., rol de avalúo 191-32, comuna de Collipulli, para la obra "Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli", Novena Región y se acordó el valor de indemnización con su propietaria Alicia del Carmen González Pellet, ascendente a la cantidad de $ 2.175.800.-
+
+Fiscal del Ministerio de Obras Públicas.
