@@ -1,0 +1,13 @@
+CONCEDE PERSONALIDAD JURIDICA Y APRUEBA ESTATUTOS A "CORPORACION PRIVADA DE DESARROLLO SOCIAL DE SOBREVIVIENTES DE LA ZONA CARBONIFERA", DE CONCEPCION Santiago, 5 de junio de 1996.- Hoy se decretó lo que sigue:
+
+Núm. 578.- Vistos: estos antecedentes, lo dispuesto en el Decreto Supremo N° 110, Reglamento sobre Concesión de Personalidad Jurídica, publicado en el Diario Oficial de 20 de marzo de 1979 y lo informado por el Sr. Gobernador Provincial de Concepción y por el Consejo de Defensa del Estado,
+
+Decreto:
+
+1.- Concédese personalidad jurídica a la entidad denominada "Corporación Privada de Desarrollo Social de Sobrevivientes de la Zona Carbonífera", con domicilio en la provincia de Concepción, Octava Región del Bío Bío.
+
+2.- Apruébanse los estatutos por los cuales se ha de regir la citada entidad, en los términos de que dan testimonio las escrituras públicas de fechas 31 de agosto de 1995 y 22 de febrero de 1996, otorgadas ante los Notarios Públicos de Concepción, don Mario Patricio Aburto Contardo, la primera y de Coronel, doña Eliana Valenzuela Fernández, suplente del titular, don Nelson Gutiérrez González, la segunda.
+
+Tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, María Soledad Alvear Valenzuela, Ministro de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, José Antonio Gómez Urrutia, Subsecretario de Justicia.
