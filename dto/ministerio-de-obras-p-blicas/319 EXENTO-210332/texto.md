@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº319 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº95-C, superficie 239,00 m2, rol de Avalúo Nº223-2, comuna de Olmué, para la obra "Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10,98400 a Km. 34,50000", V Región y se acordó el valor de la indemnización con su propietario Ramiro Hernán Delgadillo y Otros, ascendente a la cantidad de $817.568.-
+
+Fiscal del Ministerio de Obras Públicas.
