@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.355, de 25 de noviembre de 2004 de esta Subsecretaría, autorízase a FOODCORP CHILE S.A., para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Parque Industrial Escuadrón, Primera Etapa, Sitio 14, Coronel, VIII Región, en las líneas de proceso de Seco salado, Congelado, Fresco enfriado, Harina y Aceite, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 25 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
