@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº195, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº47-A, superficie 1.237 m², rol de avalúo 528-43, comuna de Linares, para la obra ''Camino Ruta L-32, Sector: Cruce Ruta 5-Puente Sifón, Tramo: Km. 2,320 a Km. 17,66644 y Km. 0,000-Km. 0,963 (Variante)'' y se acordó el valor de indemnización con su propietario Francisco Javier González Norambuena y Otra, ascendente a la cantidad de $345.483.
+
+Fiscal del Ministerio de Obras Públicas.
