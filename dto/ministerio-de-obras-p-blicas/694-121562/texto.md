@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 694, de 29 de mayo de 1998, se expropiaron los lotes de terreno Nº s. 3, 4, 28 y 29, superficies 119, 250, 150 y 550 m2 respectivamente, roles de avalúos 134-7 y 137-1, comuna de Chonchi, para la obra Camino Chonchi - Teupa y se acordó precio de indemnización con sus propietarios Clara Andrade Alvarez, Marta Alvarez Macías y otros, ascendente a las cantidades de $ 839.734.- para lotes 3 y 4, $ 581.070.- para los lotes 28 y 29.-
+
+Fiscal del Ministerio de Obras Públicas.
