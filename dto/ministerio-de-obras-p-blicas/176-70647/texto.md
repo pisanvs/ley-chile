@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº 176 de 28 de febrero de 1997, se expropiaron los lotes de terreno Nºs 23-A1, 24-A, 28, 32, 33-A, 39, 40, 46, 49 y 53, superficies 91; 254; 215;
+
+1.105; 954; 750; 600; 175; 200 y 99 M2, respectivamente, roles de avalúos 266-409, 266-382, 266-359, 266-9, 266-177, 266-178, 266-48, 266-42 y 266-33, comuna de Carahue, Obra Camino Carahue Puerto Saavedra, sector I y se acordó precio de indemnización con sus propietarios Juana Cariqueo Mariqueo, Luis Mariqueo Carrasco, José Cariqueo Mariqueo, Francisco Villagrán Pascal, María Cheuque Martínez, Armando Cheuque, Ricardo Soto Valle, Juana Escamilla Cuevas y Antonio Queupul Curivil, ascendente a las cantidades de $155.419, $274.686, $250.935, $1.393.931, $556.750, $465.400, $206.575, $241.800 y $180.291.
+
+Fiscal del Ministerio de Obras Públicas.
