@@ -1,0 +1,17 @@
+OTORGA CONCESION DE ACUICULTURA
+
+1.- Resolución (M) 1.630, de 28 de octubre de 2002, Subsecretaría de Marina, Ministerio de Defensa Nacional, otorgó a Salmones Chiloé S.A., sociedad chilena, RUT 96.535.920-6, con domicilio en Llao-Llau S/Nº, Casilla 288, Castro, Concesión de Acuicultura de Porción de Agua y Fondo de Mar, en Isla Melchor, Canal Carrera del Chivato, comuna de Aysén, provincia de Aysén, XI Región de Aysén del General Carlos Ibáñez del Campo, individualizada en los Planos 326/2002-A y 327/2002-A, visados por la autoridad marítima de Puerto Aguirre.
+
+2.- Superficie de 6,73 hectáreas delimitada por:
+
+Vértice A Lat. 45°12'50,00" S. Long. 74°01'20,00" W.
+
+Vértice B Lat. 45°12'50,00" S. Long. 74°01'10,00" W.
+
+Vértice C Lat. 45°13'00,00" S. Long. 74°01'10,00" W.
+
+Vértice D Lat. 45°13'00,00" S. Long. 74°01'20,00" W.
+
+3.- Objeto de la concesión, amparar la instalación y operación de un cultivo del grupo de especies salmónidos.
+
+Santiago, 16 de diciembre de 2002.- Por el Subsecretario, Carlos de la Maza Urrutia, Subjefe Subsecretaría de Marina.
