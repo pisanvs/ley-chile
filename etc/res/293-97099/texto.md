@@ -1,0 +1,3 @@
+Por resolución Nº 293, de 26 de febrero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 95103180, presentada por OCEAN HORIZONS CHILE S.A., para operar un centro de cultivo en Punta Ugalde, estero Comau, comuna de Chaitén, provincia de Palena, X Región, conforme lo dispuesto en el artículo 78 y el artículo 87, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 26 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
