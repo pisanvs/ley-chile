@@ -18,7 +18,7 @@ Toda obra o construcción fiscal o municipal, como asimismo construcciones, repa
 
 #### Artículo 3º
 
-Establécese un impuesto especial de Eº 20 a la inscripción en el Stud Book de Chile, de la transferencia de animales de fina sangre. No se aplicará este impuesto cuando la inscripción corresponda a transferencia de animales que sean exportados.
+Establécese un impuesto especial de Eº cien a la inscripción en el Stud Book de Chile, de la transferencia de animales de fina sangre. No se aplicará este impuesto cuando la inscripción corresponda a transferencia de animales que sean exportados.
 
 Este impuesto será recaudado por el Stud Book de Chile al momento de la inscripción y enterado en arcas fiscales en los quince primeros días del mes siguiente al de la inscripción.
 
