@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 345, de 24 de mayo de 1996, se expropiaron los lotes de terreno N°s. 49 y 50, superficies 102,5 M2 y 58,0 M2., rol de avalúo 4801-1 y 4801-2 comuna de San Joaquín, para la obra Línea 5 del Metro de Santiago sector Avda. Vicuña Mackenna-Raquel y se acordó precio de indemnización con su propietario Química Flesch S.A., ascendente al equivalente de 1.361 UF.
+
+Fiscal del Ministerio de Obras Públicas.
