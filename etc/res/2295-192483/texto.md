@@ -1,0 +1,3 @@
+Por resolución Nº 2.295, de 2 de noviembre de 2001, de esta Subsecretaría, aprueba modificación del proyecto técnico presentada por FABRICIANO DEL CARMEN TORRES JARA, para una piscicultura ubicada en sector La Colonia, comuna de Loncoche, IX Región, para cultivar los recursos pertenecientes al grupo de especies Salmónidas.
+
+Valparaíso, 2 de noviembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
