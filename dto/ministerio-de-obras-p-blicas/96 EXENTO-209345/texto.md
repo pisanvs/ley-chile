@@ -1,0 +1,7 @@
+Por decreto MOP exento Nº96 de 18 de marzo de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron para el Fisco los lotes de terreno Nºs. 11, 27, 36, 38, 49, 50, 69 y 70 para la obra Camino Ruta O-170, O-176, Sector Acceso a Guarilihue, Tramo Km. 0,00000 a Km. 8,28000, que figuran a nombre de Romero Monsálvez Nicanor, Emp. FFCC del Estado, Rojas Vda. de Hillerns Hilda, Gómez Navarrete Pedro Alberto, Ruiz Castillo Erasmo, Neira Avendaño Elba del Transi, roles de avalúo 221-25, 90301-1, 221-23, 221-27, 221-41, 206-170 y 206-171, Comuna de Coelemu, VIII Región, superficies 234 m2., 7 m2, 318 m2., 8 m2., 513 m2, 278 m2., 185 m2. y 100 m2. La Comisión de Peritos, fijó con fecha 30 de diciembre de 2000 el monto de la indemnización provisional en las cantidades de $141.000. para el lote 11, $40.000. para el lote 27, $381.600. para el lote 36; $40.000. para el lote 38;
+
+$648.000 para el lote 49, $333.600. para el lote 50;
+
+$277.500. para el lote 69 y $150.000 para el lote 70. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
