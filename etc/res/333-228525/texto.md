@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 333, DE 2004
+
+Por resolución Nº 333, de 6 de julio de 2004, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VI Región, se aprobó el Contrato de Concesión, adjudicado mediante resolución exenta Nº 253/2004, del mismo origen, para la instalación y operación de una Planta Revisora Clase AB, en la comuna de Rancagua, una Planta Revisora Clase AB, en la comuna de San Fernando y una Planta Revisora Clase AB, en la comuna de San Vicente de Tagua Tagua, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la VI Región, y la concesionaria "Revisiones Técnicas El Libertador Limitada", en la misma fecha indicada. El plazo de concesión será de diez años, contado desde la fecha de publicación en el Diario Oficial del presente extracto.-
+
+Héctor Iribarren Valdés, Secretario Regional Ministerial de Transportes y Telecomunicaciones VI Región.
