@@ -1,0 +1,3 @@
+Por Resolución N°. 362 de 21 de Abril de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N°. 1.583, de 1989, de esta Subsecretaría, que autorizó a don PATRICIO OMAR CATALAN MORA, R.U.T. N°. 10.292.4932, domiciliado en calle Picarte N°. 2171, Valdivia, para operar un establecimiento de cultivo, en la Ribera Sur de Ensenada San Juan, Comuna de Corral, Provincia de Valdivia, X Región, por renuncia total de su titular ya individualizado.
+
+Valparaíso, 21 de Abril de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
