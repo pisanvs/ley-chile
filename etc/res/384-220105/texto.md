@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE SEÑALA NOTIFICACION
+
+Resolución 384, 11 diciembre 2003, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en el sector Michaihue, sin Rol de Avalúo, comuna San Pedro de la Paz, superficie 10.474,65 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-18677, de aparente dominio de Sociedad Agrícola y Forestal Palpal Ltda., para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de San Pedro de la Paz, conforme artículo 51 ley 16.391 y D.L. Nº2.186. Comisión Peritos integrada por Guillermo Orlando Villafañe Feres, arquitecto; Orlando Paredes Vásquez, ingeniero civil, y Omar Andrés Aspe Neira, constructor civil, según informe de fecha 14 de noviembre de 2003, fijó monto provisional indemnización en $3.404.261, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
