@@ -1,0 +1,3 @@
+Por decreto MOP 4.854, de 31 de octubre del 2000, se expropiaron los lotes de terreno Nºs. 220-A y 220-C, superficie 1.486 m2. y 271 m2., rol de avalúo 80-27, comuna de Til Til, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Región Metropolitana y se acordó el valor de indemnización con su propietario Sergio Retamal Iglesias, ascendente a la cantidad total de $3.034.755.-
+
+Fiscal del Ministerio de Obras Públicas.
