@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD PESQUERA COLOSO S.A. PARA AMPLIAR ACTIVIDADES Y CAMBIAR LA ZONA DE OPERACION DE NAVES QUE INDICA
+
+Por resolución Nº 34, de 22 de Enero de 1980, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Pesquera Coloso S.A., calle Estado Nº 337, de Santiago, para incorporar a su flota pesquera cinco embarcaciones de cerco denominadas Marga-Marga, Til-Til, Con-Con, Llay-Llay y Tal-Tal. La sociedad podrá capturar con las embarcaciones señaladas los recursos indicados en el decreto de Agricultura Nº 629, de 1976, y podrá operar en el litoral de la I y II Región, teniendo como puerto base Iquique. Se autoriza, además, para cambiar la zona de operación de las embarcaciones Gringo, Nacho Fuentes y Punta Ballena que fueron autorizadas por el decreto citado desde el litoral de Talcahuano VIII Región al litoral de Coquimbo IV Región, bajo las mismas condiciones. Las autorizaciones son intransferibles y no podrá ser objeto de negociación alguna. El incumplimiento de las obligaciones será sancionado conforme al DFL. Nº 34, de 1931.-
+
+Roberto Verdugo Gormaz, Subsecretario de Pesca.
