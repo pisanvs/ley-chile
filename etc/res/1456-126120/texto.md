@@ -1,0 +1,3 @@
+Por resolución Nº 1.456, de 8 de octubre de 1998, de esta Subsecretaría, declárase la caducidad de la Resolución Nº 1.248, de 1991 de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA MAMIÑA S.A., para operar las naves ''Thais'', ''Mamiña'', ''Octopus'' y ''Tacora'', por haber suspendido actividades por más de 12 meses sucesivos y encontrarse en mora del pago de la patente única pesquera, configurándose la causal prevista en el artículo 143 letra b) y d) de la Ley General de Pesca y Acuicultura, respectivamente.
+
+Valparaíso, 8 de octubre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
