@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.965 de 30 de junio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 2 y 2-D, para la ejecución de la obra Mejoramiento Ruta H-830, Sector San Vicente - El Cardal - Millahue, Km.
+
+0.000 a Km. 8.622,631, que figuran a nombre de Aliro Brown Sánchez, rol de avalúo 184-11, de la comuna de San Vicente, VI Región, superficies 110 y 258 m². La comisión de peritos fijó con fecha 25 de noviembre de 1998, la indemnización provisional en la cantidad de $282.000, lote 2 y $701.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
