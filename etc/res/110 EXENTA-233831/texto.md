@@ -1,0 +1,5 @@
+ESTABLECE OBLIGACION PARA LAS INSTITUCIONES QUE SE INDICAN, DE INFORMAR AL SERVICIO DE IMPUESTOS INTERNOS LAS DONACIONES QUE AHI SE MENCIONAN
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 110, del 15 de diciembre de 2004, que establece para las instituciones donatarias que se indican, la obligación de informar al Servicio de Impuestos Internos, en la forma y plazo que se señalan, acerca de las donaciones recibidas, acogidas al artículo 46 del D.L. Nº 3.063, de 1979; al D.L. Nº 45, de 1973; al artículo 46 de la ley Nº 18.899; al artículo 3º de la ley Nº 19.247, de 1993; al artículo 8º de la ley Nº 18.985, de 1990, y al Nº 7 del artículo 31º de la ley sobre Impuesto a la Renta.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de diciembre de 2004.
