@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.337, de 27 de septiembre del 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº181-5, superficie 2.661 m², rol de avalúo 179-96, comuna de Nogales, Quinta Región, para la obra Camino Ruta 5 Norte Tramo: Santiago-Los Vilos. Sector Km. 121.200,00 a Km. 122.000,00. Posteriormente, por decreto MOP Nº5.130, de 30 de noviembre del 2000, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con su propietaria Lovana Brisa Cordano Cepeda, ascendente a la cantidad de $11.454.925.-
+
+Fiscal del Ministerio de Obras Públicas.
