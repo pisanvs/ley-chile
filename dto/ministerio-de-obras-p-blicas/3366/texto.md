@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.366, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs 18 y 19, superficies 2.375 m² y 1.028 m², rol de avalúo 76-1, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector K, Séptima Región y se acordó el valor de indemnización con su propietaria María Isabel Valdés Mouat, ascendente a la cantidad total de $59.900.513.-
+
+Fiscal del Ministerio de Obras Públicas.
