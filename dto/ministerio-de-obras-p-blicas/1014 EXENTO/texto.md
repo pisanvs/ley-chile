@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.014, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº64-B, superficie 341 m², rol de avalúo 212-47, comuna de Coelemu, VIII Región, para la obra ''Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 al 8,28000'', y se acordó el valor de indemnización con su propietario don Horacio Muñoz Muller, ascendente a la cantidad de $1.831.549.-
+
+Fiscal del Ministerio de Obras Públicas.
