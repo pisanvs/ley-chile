@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.023, de 31 de octubre de 2000, se expropió el lote de terreno Nº47, superficie 2.874 m², rol de avalúo 152-43, comuna de San Nicolás, para la obra Camino Ruta N-60-O, Sector Ñuble - Portezuelo, Tramo Km. 6.900.00 - Km. 28.833.35 y se acordó precio de la indemnización con su propietaria Doris Tolosa Riquelme, ascendente a la cantidad de $1.743.255.
+
+Fiscal del Ministerio de Obras Públicas.
