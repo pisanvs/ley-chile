@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.875, de 30 de septiembre de 1999, se ordenó la expropiación y aprobó el plano y cuadro de expropiación del lote de terreno Nº 10-B, y por decreto MOP Nº 4.813, de 31 de octubre de 2000, se autorizó el valor de la consignación provisional de la expropiación por la vía judicial, en la cantidad de $724.000.- necesario para la ejecución de la obra ''Camino Ruta H-455, Sector Sta. Amalia-Pimpinela Tramo Km. 0.000,00 a Km. 12.282,94'', el pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
