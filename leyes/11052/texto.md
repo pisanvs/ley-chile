@@ -1,0 +1,1 @@
+Autoriza la inversión de la cantidad de $ 25.000.000 en la celebración del IV Centenario de la fundación de la ciudad de Arauco.
