@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 1.462, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº 54, superficie 53 m², Rol de Avalúo en trámite, comuna de San Vicente, VI Región, para la obra ''Proyecto Mejoramiento Ruta H-830, Sector San Vicente - El Cardal - Millahue, Tramo Km. 0,000 al 8,622'' y se acordó el valor de indemnización con su propietario don José Osvaldo Zamorano Yáñez, ascendente a la cantidad de $624.942.
+
+- Fiscal del Ministerio de Obras Públicas.
