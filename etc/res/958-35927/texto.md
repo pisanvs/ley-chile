@@ -1,0 +1,3 @@
+Por Resolución N° 958 de 26 de Octubre de 1993 de Serviu Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, de parte del inmueble ubicado en Avda. Santa Rosa S/N°, presunto rol de avalúos N° 6001-38 comuna de La Pintana, aparente dominio de don Víctor Hunneus Madge. Comisión integrada por peritos Sres. René Ureta Koster, arquitecto, Sergio Rojas Ibáñez, ingeniero civil y Luis Mercado Argomedo, constructor civil, según informe de 8 de Septiembre de 1993, fijó monto provisional indemnización en $14.347.452.- pagadera al contado.-
+
+Directora Serviu Metropolitano.
