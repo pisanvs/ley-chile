@@ -1,0 +1,3 @@
+Por resolución Nº. 150 de 31 de Enero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se caduca la resolución No. 1.156, de 1989, de esta Subsecretaría, que autorizó a HECTOR GALLEGOS G. Y COMPAÑIA LIMITADA, RUT No. 79.680.240-5, domiciliada en Copiapó, en virtud de lo dispuesto en el Art. 7° del DS No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 31 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
