@@ -150,6 +150,12 @@ La mujer casada no será considerada como comerciante si no hace un comercio sep
 
 Derogado.
 
+#### Artículo 16
+
+<!-- parte:8726582 -->
+
+La mujer divorciada y la separada de bienes pueden comerciar, previo al registro y publicación de la sentencia de divorcio y separación o de las capitulaciones matrimoniales, en su caso, y sujetándose, además, si fueren menores de dieciocho años, a las reglas concernientes a los menores bajo guarda.
+
 #### Artículo 17
 
 <!-- parte:8725863 -->
