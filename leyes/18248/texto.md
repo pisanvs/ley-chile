@@ -148,29 +148,25 @@ Si el solicitante no pudiere ejercitar la facultad en el plazo otorgado por el j
 
 Sin perjuicio de los permisos de que trata el artículo 15, para ejecutar labores mineras en los lugares que a continuación se señalan, se necesitará el permiso o permisos escritos de las autoridades que respectivamente se indican, otorgados en la forma que en cada caso se dispone:
 
-1°. Del gobernador respectivo, para ejecutar labores mineras dentro de una ciudad o población, en cementerios, en playas de puertos habilitados y en sitios destinados a la captación de las aguas necesarias para un pueblo; a menor distancia de cincuenta metros, medidos horizontalmente, de edificios, caminos públicos, ferrocarriles, líneas eléctricas de alta tensión, andariveles, conductos, defensas fluviales, cursos de agua y lagos de uso público, y a menor distancia de doscientos metros, medidos horizontalmente, de obras de embalse, estaciones de radiocomunicaciones, antenas e instalaciones de telecomunicaciones.
+1°.- Del gobernador respectivo, para ejecutar labores mineras dentro de una ciudad o población, en cementerios, en playas de puertos habilitados y en sitios destinados a la captación de las aguas necesarias para un pueblo; a menor distancia de cincuenta metros, medidos horizontalmente, de edificios, caminos públicos, ferrocarriles, líneas eléctricas de alta tensión, andariveles, conductos, defensas fluviales, cursos de agua y lagos de uso público, y a menor distancia de doscientos metros, medidos horizontalmente, de obras de embalse, estaciones de radiocomunicaciones, antenas e instalaciones de telecomunicaciones.
 
-No se necesitará este permiso cuando los edificios, ferrocarriles, líneas eléctricas de alta tensión, andariveles, conductos, estaciones de radiocomunicaciones, antenas e instalaciones de telecomunicaciones pertenezcan al interesado en ejecutar las labores mineras o cuando su dueño autorice al interesado para realizarlas.
+No se necesitará este permiso cuando los edificios, ferrocarriles, líneas eléctricas de alta tensión, andariveles, conductos, estaciones de radiocomunicaciones, antenas e instalaciones de telecomunicaciones pertenezcan al interesado en ejecutar las labores mineras o cuando su dueño autorice al interesado para realizarlas;
 
-Antes de otorgar el permiso para ejecutar labores mineras dentro de una ciudad o población, el gobernador deberá oír al respectivo Secretario Regional Ministerial de Vivienda y Urbanismo;
+2°.- Del Intendente respectivo, para ejecutar labores mineras en lugares declarados parques nacionales, reservas nacionales o monumentos naturales;
 
-2°. Suprimido.
+3°.- De la Dirección de Fronteras y límites, para ejecutar labores mineras en zonas declaradas fronterizas para efectos mineros;
 
-3°. De la Dirección de Fronteras y Límites, para ejecutar labores mineras en zonas declaradas fronterizas para efectos mineros;
+4°.- Del Ministerio de Defensa Nacional, para ejecutar labores mineras a menos de quinientos metros de lugares destinados a depósitos de materiales explosivos o inflamables;
 
-4°. Del Ministerio de Defensa Nacional, para ejecutar labores mineras a menos de quinientos metros de lugares destinados a depósitos de materiales explosivos o inflamables;
+5°.- También del Ministerio de Defensa Nacional, para ejecutar labores mineras en zonas y recintos militares dependientes de ese Ministerio, tales como puertos y aeródromos; o en los terrenos adyacentes hasta la distancia de tres mil metros, medidos horizontalmente, siempre que estos terrenos hayan sido declarados, de conformidad a la ley, necesarios para la defensa nacional, y
 
-5°. También del Ministerio de Defensa Nacional, para ejecutar labores mineras en zonas y recintos militares dependientes de ese Ministerio, tales como puertos y aeródromos; o en los terrenos adyacentes hasta la distancia de tres mil metros, medidos horizontalmente, siempre que estos terrenos hayan sido declarados, de conformidad a la ley, necesarios para la defensa nacional, y
-
-6°. Del Presidente de la República, para ejecutar labores mineras en covaderas o en lugares que hayan sido declarados de interés histórico o científico.
+6°.- Del Presidente de la República, para ejecutar labores mineras en covaderas o en lugares que hayan sido declarados de interés histórico o científico.
 
 Al otorgarse los permisos exigidos en los números anteriores, se podrá prescribir las medidas que convenga adoptar en interés de la defensa nacional, la seguridad pública o la preservación de los sitios allí referidos.
 
 Los permisos mencionados en los números 2°, 3° y 6°, excepto los relativos a covaderas, sólo serán necesarios cuando las declaraciones a que esos mismos números se refieren hayan sido hechas expresamente para efectos mineros, por decreto supremo que además señale los deslindes correspondientes. El decreto deberá ser firmado, también, por el Ministro de Minería.
 
 Será aplicable a los funcionarios o autoridades a quienes corresponda otorgar los permisos a que se refiere esta disposición, lo prescrito en el artículo 162 del decreto con fuerza de ley N° 338, de 1960.
-
-> **Nota.** La referencia al artículo 162 del Decreto con Fuerza de Ley N° 338, de 1960, debe entenderse hecha al artículo 84, letra b) de la Ley N° 18.834, de 23 de septiembre de 1989, que aprueba el nuevo Estatuto Administrativo.
 
 #### Artículo 18
 
@@ -200,15 +196,7 @@ Sin perjuicio de los derechos que normas legales especiales confieren a la Comis
 
 Sólo su dueño podrá autorizar al Servicio para realizar los trabajos a que se refiere el inciso precedente dentro de los límites de una concesión minera.
 
-El concesionario minero deberá hacer entrega de un reporte con la información geológica obtenida de los trabajos de exploración efectuados en ejercicio de los derechos que confiere la concesión, de acuerdo con los plazos y condiciones que establece este artículo y el reglamento. En el caso del concesionario de exploración, dentro del plazo de treinta días, contado desde la extinción de su concesión, deberá remitir al Servicio un reporte con toda la información geológica que haya obtenido de los trabajos de exploración realizados en el área correspondiente a dicha concesión. Con todo, si el titular solicita prorrogar su concesión en los términos establecidos en el artículo 112, deberá estarse a lo dispuesto en dicha disposición.
-
-El titular de una concesión de explotación deberá remitir al Servicio, cada dos años, un reporte con toda la información geológica que hubiere obtenido de los trabajos de exploración realizados durante dicho período.
-
-Un reglamento expedido por el Ministerio de Minería establecerá la forma, plazos, condiciones y requisitos que deberá cumplir el concesionario minero para entregar la información geológica que trata este artículo. La información geológica obtenida de trabajos de exploración avanzada será de carácter confidencial por un periodo de cuatro años contado desde su entrega al Servicio, de acuerdo con las condiciones establecidas en el citado reglamento.
-
-El concesionario que no cumpla con la entrega del reporte con la información geológica obtenida en la forma y plazos establecidos en este artículo y el reglamento o en el artículo 112, según corresponda, será sancionado con multa de hasta 100 unidades tributarias anuales. Con todo, en caso de que el concesionario no cumpla con la entrega del reporte, el Servicio podrá requerirlo, para lo cual otorgará el plazo de sesenta días. Si no cumple con dicho requerimiento, el Servicio aplicará el duplo de la sanción antes señalada, y quedará además inhabilitado para acceder al beneficio de patente rebajada regulada en el artículo 142 bis, si correspondiere, todo ello conforme al procedimiento establecido en el citado reglamento.
-
-La obligación establecida en los incisos precedentes, no se aplicará a los pequeños mineros y mineros artesanales acogidos al régimen de patente especial contemplado en los incisos segundo y siguientes del artículo 142.
+A solicitud del Servicio, toda persona que realice trabajos de exploración geológica básica deberá proporcionarle la información de carácter general que al respecto obtenga.
 
 ## Título II
 
@@ -252,7 +240,7 @@ La concesión minera tiene por objeto todas las sustancias concesibles que exist
 
 #### Artículo 27
 
-Sobre las sustancias concesibles existentes en terrenos cubiertos por una concesión minera no puede constituirse otra. El juez velará por la observancia de esta prohibición.
+Sobre las sustancias concesibles existentes en terrenos cubiertos por una concesión minera no puede constituirse otra.
 
 #### Artículo 28
 
@@ -362,7 +350,7 @@ El pedimento deberá señalar:
 
 1°.- El nombre, la nacionalidad y el domicilio del peticionario, y, en su caso, también los de la persona que haga el pedimento en nombre de otra. Si se trata de personas naturales se indicará, además, su profesión u oficio y estado civil;
 
-2°.- Las coordenadas geográficas o las U.T.M. referidas al Datum definido en el reglamento que correspondan al punto medio de la cara superior de la concesión pedida, con precisión de segundo o de diez metros, respectivamente;
+2°.- Las coordenadas geográficas o las U.T.M. que correspondan al punto medio de la cara superior de la concesión pedida, con precisión de segundo o de diez metros, respectivamente;
 
 3°.- El nombre que se da a la concesión de exploración que se solicita, y
 
@@ -386,7 +374,9 @@ La manifestación deberá señalar:
 
 #### Artículo 45
 
-La ubicación del punto de interés de la manifestación deberá describirse indicando la provincia en que está ubicado y sus coordenadas geográficas o las U.T.M., referidas al Datum definido en el reglamento con precisión de segundo o de diez metros, respectivamente.
+La ubicación del punto de interés de la manifestación deberá describirse indicando la provincia en que está ubicado y sus coordenadas geográficas o las U.T.M., con precisión de segundo o de diez metros, respectivamente.
+
+Con todo, cuando la superficie total del grupo de pertenencias solicitadas en la manifestación no exceda de cien hectáreas, la ubicación del punto de interés podrá describirse indicando sus señales más precisas y características, el nombre del predio o del asiento mineral en que se encuentra y el de la provincia en que está situado.
 
 #### Artículo 46
 
@@ -456,7 +446,7 @@ Desde el momento de la inscripción del pedimento su titular podrá efectuar tod
 
 Desde el momento de la inscripción de la manifestación su titular podrá efectuar todos los trabajos necesarios para reconocer la mina y para constituir la pertenencia. Si con motivo de esos trabajos necesita arrancar sustancias concesibles, se hará dueño de ellas.
 
-Si se ponen obstáculos por el dueño del predio superficial o por cualquiera otra persona para que el peticionario o el manifestante realicen los trabajos referidos, deberá el juez autorizar el auxilio de la fuerza pública, siempre que exista informe favorable del Servicio. Con todo, el juez no autorizará el auxilio de la fuerza pública para realizar trabajos de reconocimiento de la mina en concesión minera ajena, respecto de cuya existencia el Servicio deberá dejar constancia en el informe.
+Si se ponen obstáculos por el dueño del predio superficial o por cualquiera otra persona para que el peticionario o el manifestante realicen los trabajos referidos, deberá el juez autorizar el auxilio de la fuerza pública, siempre que exista informe favorable del Servicio.
 
 #### Artículo 54
 
@@ -518,9 +508,9 @@ De los trámites posteriores a la manifestación
 
 #### Artículo 59
 
-Dentro del plazo que medie entre los noventa y ciento veinte días, contado desde la fecha de la presentación de la manifestación al juzgado, el manifestante o cualquiera de ellos, cuando fueren varios, deberá solicitar en el mismo expediente, la mensura de su pertenencia o pertenencias. La solicitud podrá abarcar todo o parte del terreno manifestado, pero, en ningún caso, terrenos situados fuera de éste.
+Dentro del plazo que medie entre los doscientos y los doscientos veinte días, contado desde la fecha de la presentación de la manifestación al juzgado, el manifestante o cualquiera de ellos cuando fueren varios, deberá solicitar, en el mismo expediente, la mensura de su pertenencia o pertenencias. La solicitud podrá abarcar todo o parte del terreno manifestado, pero, en ningún caso, terrenos situados fuera de éste.
 
-La solicitud deberá, además, indicar las coordenadas U.T.M. de cada uno de los vértices del perímetro de la cara superior de la pertenencia o grupo de pertenencias, relacionando uno de ellos, en rumbo y distancia, con el punto de interés señalado en la manifestación. Deberá, asimismo, designar al ingeniero o perito que practicará la mensura, e indicar el largo y ancho de la pertenencia o de cada una de ellas, el nombre de las pertenencias conocidas que existan en la vecindad y, en lo posible, el nombre de sus dueños.
+La solicitud deberá, además, indicar las coordenadas U.T.M. de cada uno de los vértices del perímetro de la cara superior de la pertenencia o grupo de pertenencias, relacionando uno de ellos, en rumbo y distancia, con el punto de interés señalado en la manifestación. Deberá asimismo, designar al ingeniero o perito que practicará la mensura, e indicar el largo y ancho de la pertenencia o de cada una de ellas, el nombre de las pertenencias conocidas que existan en la vecindad y, en lo posible, el nombre de sus dueños.
 
 Se acompañará a la solicitud:
 
@@ -558,15 +548,13 @@ Podrá deducirse oposición a la petición de mensura dentro del plazo de treint
 
 La oposición sólo podrá fundarse:
 
-1°. En que se pretende mensurar sobre un terreno comprendido en un pedimento o en una concesión para explorar. Sólo podrá ejercer esta acción aquél cuyo pedimento haya sido presentado con anterioridad a la fecha en que haya sido o se tenga por presentada la manifestación de la pertenencia que se pretende mensurar.
+1°.- En que se pretende mensurar sobre un terreno comprendido en un pedimento o en una concesión para explorar. Sólo podrá ejercer esta acción aquél cuyo pedimento haya sido presentado con anterioridad a la fecha en que haya sido o se tenga por presentada la manifestación de la pertenencia que se pretende mensurar.
 
 La oposición será rechazada de plano si no se funda en un pedimento cuya fecha de presentación haya sido anterior o no se acompaña a ella copia auténtica de dicho pedimento, y, en su caso, además, copia auténtica de la solicitud de sentencia o de la sentencia misma o de la resolución que acogió la prórroga del plazo de la concesión. La oposición será rechazada del mismo modo, si no se acompaña a ella un croquis, firmado por un ingeniero o perito de aquellos a que se refiere el inciso segundo del artículo 71, que represente la colisión de los derechos y las pretensiones de ambas partes en el terreno.
 
-2°. En el derecho preferente para mensurar en virtud de una manifestación cuya fecha de presentación haya sido o se tenga por anterior.
+2°.- En el derecho preferente para mensurar en virtud de una manifestación cuya fecha de presentación haya sido o se tenga por anterior.
 
 La oposición será rechazada de plano si no se funda en una manifestación cuya fecha de presentación haya sido o se tenga por anterior, o no viene acompañada de copia auténtica de dicha manifestación. La oposición será rechazada del mismo modo, si no se acompaña a ella un croquis, firmado por un ingeniero o perito de aquellos a que se refiere el inciso segundo del artículo 71, que represente la colisión de las pretensiones de ambas partes en el terreno.
-
-> **Nota.** El inciso primero del artículo segundo de la LEY 19573, publicada el 25.07.1998, interpretó el inciso primero de este artículo, en el sentido de declarar que el plazo de treinta días es para presentar la demanda de oposición, con los documentos respectivos, en la secretaría del tribunal.
 
 #### Artículo 62
 
@@ -606,11 +594,11 @@ En igual situación, el manifestante de fecha anterior o que se tenga por anteri
 
 #### Artículo 67
 
-Si un manifestante de fecha anterior o que se tenga por anterior deduce acción de oposición invocando la causal segunda del artículo 61, y su oposición fuera rechazada, no podrá hacer valer posteriormente la acción nulidad de los números seis o siete, en su caso, del artículo 95.
+Si un manifestante de fecha anterior o que se tenga por anterior, hace uso de la acción de los artículos 62 ó 63, y, en su caso, de la del inciso primero del artículo 66, y su oposición fuere rechazada, no podrá hacer valer posteriormente la acción de nulidad del número seis o siete, en su caso, del artículo 95.
 
 #### Artículo 68
 
-Todas las oposiciones a que se refiere el artículo 61 se tramitarán con arreglo al procedimiento señalado en el artículo 233. En el juicio se tendrá por demandante al opositor, y sólo será admisible como única defensa del demandado la de que su solicitud de mensura no abarca los terrenos comprendidos en el pedimento, en la concesión de exploración o en la solicitud de mensura en que se funda la acción.
+Las oposiciones a que se refieren los artículos 61, N° 1, 62, 63 y 66, inciso primero, se tramitarán con arreglo al procedimiento señalado en el artículo 233. En el juicio se tendrá por demandante al opositor, y sólo será admisible como única defensa del demandado la de que su solicitud de mensura no abarca los terrenos comprendidos en el pedimento, en la concesión de exploración o en la solicitud de mensura en que se funda la acción.
 
 Cualquiera otra defensa y toda excepción perentoria que puedan corresponder al demandado sólo podrán hacerse valer por éste, como acciones, en juicio separado.
 
@@ -626,17 +614,15 @@ Lo dispuesto en el inciso anterior será aplicable al caso en que una sentencia 
 
 #### Artículo 70
 
-Desde que quede presentada una demanda de oposición conforme al artículo 61, y hasta que quede ejecutoriada la correspondiente sentencia, las partes no podrán paralizar el juicio por más de tres meses. Si transcurre este término sin que alguna de ellas practique cualquiera diligencia útil destinada a dar curso progresivo a los autos, cualquiera persona podrá solicitar que se declare, con sólo el mérito del certificado del secretario, la caducidad de los derechos de ambas partes, y que se ordene cancelar las inscripciones respectivas. Con todo, la caducidad no afectará en caso alguno la concesión para explorar y a la pertenencia, ya constituidas.
+Desde que quede presentada una demanda de oposición conforme al artículo 61, y hasta que quede ejecutoriada la correspondiente sentencia, las partes no podrán paralizar el juicio por más de tres meses. Si transcurre este término sin que alguna de ellas practique cualquiera diligencia útil destinada a dar curso progresivo a los autos, cualquiera persona podrá solicitar que se declare, con sólo el mérito del certificado del secretario, la caducidad de los derechos de ambas partes, y que se ordene cancelar las inscripciones respectivas.
 
-Desde que quede ejecutoriada la sentencia que pone término al juicio de oposición, y hasta que se dicte la respectiva sentencia constitutiva, ninguno de los que fueron parte en él y haya obtenido el reconocimiento del derecho a mensurar, podrá paralizar por más de tres meses los trámites de constitución de su pertenencia o pertenencias. Si transcurre este término sin que el respectivo interesado practique alguna diligencia útil destinada a ese efecto, cualquiera persona podrá solicitar que se declare la caducidad a que se refiere el inciso anterior, en la forma y con los alcances allí indicados.
+Desde que quede ejecutoriada la sentencia que pone término al juicio de oposición, fundado en la causal segunda del artículo 61, y hasta que se dicte la respectiva sentencia constitutiva, ninguno de los que fueron parte en él y haya obtenido el reconocimiento del derecho a mensurar, podrá paralizar por más de tres meses los trámites de constitución de su pertenencia o pertenencias. Si transcurre este término sin que el respectivo interesado practique alguna diligencia útil destinada a ese efecto, cualquiera persona podrá solicitar que se declare la caducidad a que se refiere el inciso anterior, en la forma y con los alcances allí indicados.
 
 Cualquier interesado podrá pedir que se notifique al ingeniero o perito para que entregue el acta y plano al juez, para lo cual dicho ingeniero o perito tendrá el plazo que el tribunal señale.
 
 Mientras no se haga uso del derecho a pedir la caducidad, podrá en cualquier tiempo continuarse la tramitación; pero el derecho a pedir la caducidad por la paralización ya producida subsistirá hasta que quede ejecutoriada la sentencia que puso término al juicio o se dicte la sentencia constitutiva, en su caso.
 
-Contra la sentencia que se pronuncie acerca de la caducidad procederán los mismos recursos que contra una sentencia definitiva. La apelación en contra de la sentencia que deseche la solicitud de caducidad se concederá en el solo efecto devolutivo.
-
-> **Nota.** El inciso segundo del artículo segundo de la Ley 19573, publicada el 25.07.1998, interpretó el inciso primero del presente artículo, en el sentido de declarar que el término de tres meses comienza a correr desde que la demanda de oposición queda presentada en la secretaría del tribunal.
+Contra la sentencia que se pronuncie acerca de la caducidad procederán los mismos recursos que contra una sentencia definitiva.
 
 Sección 2a
 
@@ -646,7 +632,7 @@ De la mensura
 
 La mensura se realizará una vez vencido el plazo para deducir oposición, si ésta no se hubiere presentado. En caso contrario, se efectuará una vez ejecutoriada la sentencia que rechace la oposición que se haya formulado o la que determine la ubicación de las pertenencias de la parte o partes a quienes se haya reconocido el derecho a mensurar.
 
-La mensura se llevará a efecto por cualquier ingeniero civil de minas que escoja el interesado, o por un perito elegido por éste de entre las personas que anualmente designe con tal objeto el Servicio, mediante resolución, previa aprobación del Ministerio de Minería.
+La mensura se llevará a efecto por cualquier ingeniero civil de minas que escoja el interesado, o por un perito elegido por éste de entre las personas que anualmente designe con tal objeto, para cada Región, el Presidente de la República, a propuesta del Director Nacional del Servicio.
 
 En el acto de la mensura no será admitida ninguna alegación.
 
@@ -658,13 +644,9 @@ Para los efectos de lo dispuesto en el número sexto del artículo 95, se presum
 
 #### Artículo 73
 
-El ingeniero o perito no podrá en caso alguno abarcar con la mensura pertenencias vigentes.
-
-El ingeniero o perito que a sabiendas infringiere la prohibición del inciso precedente sufrirá la pena de reclusión menor en su grado mínimo, y la accesoria de suspensión de cargo u oficio público o profesión titular.
+El perito no podrá en caso alguno abarcar con la mensura terrenos ya mensurados, aun cuando el acta de la mensura de estos últimos no se haya levantado todavía.
 
 La operación de mensura podrá abarcar todo o parte del terreno cuya mensura se solicitó, pero, en ningún caso, terrenos situados fuera del perímetro indicado en dicha solicitud. Para este efecto, podrá reducirse el número de pertenencias, la superficie de una o más de ellas, o ambas cosas.
-
-La acción penal correspondiente tiene el carácter de privada y sólo podrá ser ejercida por el titular de la concesión que soporte directamente la superposición.
 
 #### Artículo 74
 
@@ -698,7 +680,7 @@ El Reglamento determinará las escalas y demás características de los planos y
 
 #### Artículo 78
 
-Dentro del plazo de diez meses contado desde la fecha de la presentación de la manifestación al juzgado, su titular, o cualquiera de ellos, deberá presentar, en tres ejemplares, el acta y el plano de mensura de la pertenencia o grupo de pertenencias.
+Dentro del plazo de quince meses contado desde la fecha de la presentación de la manifestación al juzgado, su titular, o cualquiera de ellos, deberá presentar, en tres ejemplares, el acta y el plano de mensura de la pertenencia o grupo de pertenencias.
 
 Esta obligación no será exigible respecto de quien sea o haya sido parte en juicio de oposición fundado en alguna de las causales del artículo 61.
 
@@ -732,17 +714,13 @@ El juez no podrá, en caso alguno, declarar constituida la pertenencia o pertene
 
 Si el informe del Servicio señala que se ha producido alguna de las situaciones a que se refiere el artículo 80, el juez ordenará que, dentro del plazo de treinta días, contado desde la fecha de la resolución respectiva, el interesado publique, en extracto redactado por el secretario, la circunstancia de que el Servicio ha informado sobre dicha situación, las coordenadas U.T.M. de los vértices, tanto de las pertenencias del interesado como de las del o los afectados, el nombre de unas y otras, el del interesado y, en lo posible, el del o los afectados.
 
-Una vez efectuada la publicación, su contenido deberá notificarse a la persona o personas a cuyo nombre figuren inscritas las pertenencias en el correspondiente Registro del Conservador de Minas.
-
-La notificación se practicará personalmente, con arreglo al Título VI del Libro Primero del Código de Procedimiento Civil.
-
 #### Artículo 84
 
-Cada uno de los afectados podrá, dentro del plazo de sesenta días, contado desde la fecha de la notificación a que se refiere el artículo anterior, presentarse en el expediente del interesado oponiéndose a la constitución de la pertenencia o pertenencias de éste.
+Cada uno de los afectados podrá, dentro del plazo de treinta días, contado desde la fecha de la publicación, presentarse en el expediente del interesado oponiéndose a la constitución de la pertenencia o pertenencias de éste.
 
-La oposición será rechazada de plano, si no se acompaña a ella copia auténtica de la solicitud de mensura o del acta de mensura, en su caso, y del plano respectivo, si la ley, en su oportunidad, hubiere hecho obligatorio levantarlo.
+La oposición será rechazada de plano, si no se acompaña a ella copia auténtica de la solicitud de mensura o del acta de mensura, en su caso, y del plano respectivo.
 
-La oposición se tramitará con arreglo al procedimiento señalado en el artículo 233, y se tendrá al opositor por demandante. El informe del Servicio servirá de base de presunción judicial, y corresponderá al demandado probar que el terreno abarcado por la mensura de sus pertenencias no se encuentra en todo o parte ocupado por la o las pertenencias del opositor o, en su caso, que se han extinguido los derechos de las partes al terreno en que se ha alegado la preferencia.
+La oposición se tramitará con arreglo al procedimiento señalado en el artículo 233, y se tendrá al opositor por demandante. El informe del Servicio servirá de base de presunción judicial.
 
 En este juicio al demandado le será aplicable lo dispuesto en el artículo 70.
 
@@ -752,9 +730,7 @@ La sentencia que acoja en parte la demanda, determinará el terreno sobre el que
 
 La sentencia que acoja la demanda en todas sus partes, declarará extinguidos los derechos del interesado y ordenará cancelar las correspondientes inscripciones.
 
-El afectado que haga uso de la acción de este artículo, no podrá hacer valer posteriormente la acción de nulidad del número 6º o del número 7º, en su caso, del artículo 95.
-
-> **Nota.** El inciso primero del artículo segundo de la Ley 19573, publicada el 20.07.1998, interpretó el inciso primero del presente artículo, en el sentido de declarar que el plazo de sesenta días es para presentar la demanda de oposición, con los documentos respectivos, en la secretaría del tribunal.
+El afectado que haga uso de la acción de este artículo, no podrá hacer valer posteriormente la acción de nulidad del número 6 o del número 7, en su caso, del artículo 95.
 
 #### Artículo 85
 
@@ -860,18 +836,6 @@ Las suspensiones que la ley acuerda en favor de ciertas personas, tanto en la pr
 
 Las acciones posesorias y la acción reivindicatoria proceden respecto de la concesión minera y de otros derechos reales constituidos sobre ella.
 
-Con todo, sólo procederán las acciones posesorias del concesionario en contra del dueño, poseedor o mero tenedor del o los predios superficiales que comprenda total o parcialmente su concesión, en aquellos casos en que el concesionario acredite ser titular de un derecho real de servidumbre minera u otro derecho real que grave dicho predio o predios.
-
-Iniciado por parte de un concesionario minero un juicio posesorio sumario a los que se refiere el Título IV del Libro Tercero del Código de Procedimiento Civil, el juez podrá decretar provisionalmente la suspensión o paralización de las obras que se llevan a cabo en el predio superficial superpuesto a la concesión minera, siempre que dicho concesionario, además de cumplir con lo dispuesto en el inciso anterior, acompañe antecedentes que justifiquen el peligro grave e inminente que entrañe el no otorgamiento de ella. Las medidas de paralización podrán siempre ser alzadas por el tribunal en caso de que desaparezcan las circunstancias que le dieren lugar.
-
-En el caso que el juez decrete la paralización de las obras, el titular de ellas podrá hacer cesar sus efectos, siempre y cuando consigne caución suficiente en la cuenta corriente del tribunal, que permita responder de su demolición o de la indemnización de los perjuicios que, de continuar con dichas obras, pudieren afectar al actor, habiendo sentencia firme. Para estos efectos, en la resolución que ordena la paralización de las obras, el juez deberá fijar el monto de la caución antes referida. La suspensión de los efectos de la orden de paralización de obras tendrá lugar desde el momento en que se consigne el monto de dicha caución en el tribunal.
-
-Toda cuestión que se suscite con motivo de la fijación del monto de la caución se tramitará como incidente, lo que no afectará la suspensión de la orden de paralización de las obras, si el titular del proyecto hubiere consignado la caución fijada inicialmente por el juez. En caso de que en la tramitación del incidente se solicite el informe de peritos, los gastos y honorarios que en tal caso se originen serán de cargo del titular de la concesión o permiso. El perito será designado por el juez competente. Con todo, si el demandante ha sido vencido en el juicio será condenado al pago del peritaje señalado, sin perjuicio del pago de las demás costas a las que pueda ser condenado conforme a las reglas generales.
-
-Si al fallar el incidente se determina que el monto de la caución sea mayor al inicialmente fijado, el concesionario deberá consignar dentro de los quince días hábiles siguientes la diferencia en el tribunal, so pena de levantarse la suspensión de la orden de paralización. En caso de que el monto de la caución que se determine sea menor al inicialmente fijado por el tribunal, el juez pondrá a disposición del concesionario el excedente, cuando corresponda, dentro del plazo de tres días contado desde la respectiva resolución.
-
-Con todo, para el caso en que el juicio posesorio sea iniciado en contra del concesionario minero, el juez tendrá las mismas facultades señaladas en los incisos precedentes, en relación con las obras que aquél lleve a cabo en virtud de su concesión minera, siempre y cuando el actor justifique el peligro grave e inminente que entrañe el no otorgamiento de la suspensión o paralización de las obras solicitadas.
-
 #### Artículo 95
 
 Sólo son causales de nulidad de una concesión minera, las siguientes:
@@ -896,7 +860,7 @@ Sólo son causales de nulidad de una concesión minera, las siguientes:
 
 Las acciones de nulidad establecidas en los números 1° a 7° del artículo anterior, se extinguen por prescripción en el plazo de cuatro años, contados desde la fecha de la publicación del extracto a que se refiere el artículo 90.
 
-Transcurrido el mismo plazo, tampoco podrán impugnarse la publicación del extracto a que se refiere el artículo 90 ni la inscripción de la sentencia constitutiva de la concesión.
+Transcurrido el mismo plazo, tampoco podrá impugnarse la inscripción de la sentencia constitutiva de la concesión.
 
 Cumplida la prescripción, la concesión queda saneada de todo vicio y además se entiende que la sentencia y su inscripción han producido siempre los efectos que, para cada una de éstas, señala el artículo 91. La sentencia que, en los casos de los números 6° y 7° del artículo anterior, declare la prescripción de la acción de nulidad a que dichos números se refieren, también declarará extinguida la pertenencia afectada por la superposición.
 
@@ -1014,27 +978,19 @@ De los derechos y obligaciones especiales del titular de concesión de exploraci
 
 #### Artículo 112
 
-La concesión de exploración tendrá una duración de cuatro años, contados desde que se dicte la sentencia que la declare constituida.
+La concesión de exploración tendrá una duración de dos años, contada desde que se dicte la sentencia que la declare constituida.
 
-No obstante, antes de su expiración, el titular podrá solicitar, por una única vez, su prórroga por otro periodo de hasta cuatro años, contado desde el término del primero. Para ejercer este derecho, dentro de los primeros seis meses del último año de su concesión, el titular deberá presentar al Servicio un reporte con toda la información geológica obtenida en los trabajos de exploración que hayan sido realizados durante la vigencia de su concesión y que acredite, por tanto, su realización. Alternativamente, el titular podrá presentar al Servicio la documentación que acredite la obtención de una Resolución de Calificación Ambiental respecto a su proyecto minero en el periodo de duración de la concesión, o bien la admisión a trámite de su proyecto de exploración en el Sistema de Evaluación de Impacto Ambiental.
+No obstante, antes de expirar ese período de dos años, el concesionario podrá solicitar, por una sola vez, su prórroga por otro período de hasta dos años, contado desde el término del primero, y siempre que en la solicitud haga abandono de, a lo menos, la mitad de la superficie total concedida. En tal caso, el juez acogerá la solicitud y otorgará la prórroga, previo informe del Servicio.
 
-Cumplido lo anterior, el Servicio deberá emitir un certificado que dé cuenta de aquello, el que deberá ser remitido al juzgado de letras competente, una vez que haya sido oficiado por éste para dichos efectos.
+Dentro del plazo de treinta días, contado desde su fecha, la resolución de prórroga será publicada, por una sola vez, en extracto que contendrá las coordenadas U.T.M. de los vértices de la superficie que se conserve. En el mismo plazo se anotará el extracto al margen de la inscripción de la concesión y se archivará el plano.
 
-La resolución que conceda la prórroga deberá publicarse extractada, por una sola vez, dentro de treinta días contados desde la fecha de su dictación. El extracto contendrá las coordenadas U.T.M. de los vértices de la concesión. Dentro del mismo plazo la resolución deberá anotarse al margen de la inscripción respectiva.
+La solicitud señalará las coordenadas U.T.M. que correspondan a los vértices de la superficie abandonada. A ella se acompañará copia del plano referido en el inciso tercero del artículo 55, en el que se indique dicha superficie.
 
-#### Artículo 112 bis
+La superficie abandonada configurará, necesariamente, un paralelogramo de ángulos rectos, uno de cuyos lados será uno cualquiera de los lados de la concesión.
 
-Desde la presentación del pedimento y hasta el plazo de un año contado desde la extinción de la concesión de exploración, cualquiera que sea su causa, quien haya sido su titular no podrá adquirir, por sí o por interpósita persona, una nueva concesión de exploración que comprenda, total o parcialmente, la superficie que hubiere abarcado dicha concesión de exploración.
+Si dentro de los primeros dos años de la vigencia de su concesión el titular quiere hacer uso de la facultad de dividirla físicamente y desea prorrogar su duración por otro período de hasta dos años, deberá, previamente, cumplir con las obligaciones a que se refieren los incisos anteriores.
 
-Para efectos de lo dispuesto en el inciso precedente, se presumirá la actuación por interpósita persona cuando la nueva concesión de exploración sea pedida o adquirida por el cónyuge, conviviente civil o un pariente hasta el tercer grado de consanguinidad o el segundo de afinidad, ambos inclusive, de quien haya sido el titular de la concesión de exploración extinguida. Asimismo, se presumirá que se actúa por interpósita persona, cuando quien pida o adquiera la nueva concesión de exploración, mantenga una relación laboral con el antiguo concesionario o sea apoderado de aquel. Si el antiguo concesionario hubiere sido una persona jurídica, se presumirá la actuación por interpósita persona, además, cuando cualquiera de las personas que se indican en el artículo 100 de la ley N° 18.045, sobre Mercado de Valores, intervenga pidiendo o adquiriendo la nueva concesión.
-
-Se concede acción pública para denunciar, ante el tribunal competente, la contravención a lo establecido en el inciso primero de este artículo. Comprobada la contravención, el tribunal deberá tener por no presentado el pedimento o por caducada la concesión de exploración constituida, según corresponda, y ordenará la cancelación de las inscripciones que se hubieren efectuado. El tribunal oficiará al Conservador de Minas respectivo e informará al Servicio.
-
-El concesionario cuya contravención fuese declarada por el tribunal competente perderá toda preferencia para constituir una pertenencia en la superficie que cubre la concesión de exploración referida en el inciso primero.
-
-El denunciante que haya obtenido una sentencia favorable en el proceso regulado en los incisos precedentes podrá presentar un pedimento que cubra todo o parte del terreno abarcado por el pedimento denunciado en cuyo caso le será aplicable la fecha de presentación de este último pedimento. Para hacer valer este derecho, el pedimento deberá presentarse dentro del plazo de noventa días siguientes a la fecha en que la sentencia favorable quede firme, señalará expresamente que se efectúa en ejercicio de lo establecido en el presente artículo, y deberá acompañar copia autorizada de la sentencia favorable y del certificado regulado en el artículo 47 respecto del pedimento denunciado.
-
-Por su parte, el informe que el Servicio deba remitir en el procedimiento de constitución de la concesión deberá señalar, además de lo establecido en el artículo 57, si la superficie de la concesión cumple con lo establecido en el inciso anterior.
+El abandono no afectará los derechos emanados de manifestaciones que el concesionario pueda haber efectuado previamente sobre el terreno abandonado.
 
 #### Artículo 113
 
@@ -1248,93 +1204,23 @@ Del amparo
 
 #### Artículo 142
 
-La concesión minera debe ser amparada mediante el pago de una patente anual cuyo monto se determinará de conformidad a las reglas contenidas en el artículo 142 bis.
-
-Sin perjuicio de lo señalado en el precedente inciso por, la o las pertenencias en explotación, sean propias o arrendadas, que trabajen los pequeños mineros y los mineros artesanales se pagará una patente anual de un diezmilésimo de unidad tributaria mensual por hectárea completa. Para ello, se entiende por pequeños mineros y mineros artesanales a las personas naturales que exploten una o más pertenencias personalmente y con un máximo de 12 o de 6 dependientes, respectivamente, como asimismo a las sociedades legales mineras y a las cooperativas mineras, siempre que no cuenten con más de 12 o de 6 dependientes, respectivamente y que cada socio o cooperado trabaje personalmente en la explotación. Los requisitos señalados, más las circunstancias de que el minero cuenta con todos los permisos y servidumbres que fueren necesarios para explotar, lo habilitarán para solicitar al Servicio que se le reconozca el derecho a pagar esta patente especial; el reglamento determinará el procedimiento, los antecedentes, declaraciones juradas y plazos que se aplicarán para impetrar el beneficio. Tal reconocimiento durará dos períodos anuales de pago, vencidos los cuales, podrá solicitarse nuevamente, cumpliendo los requisitos indicados.
-
-Para los efectos del inciso anterior, bastará con que una sola pertenencia se encuentre en explotación por un pequeño minero o minero artesanal, para que se presuma que todas las pertenencias, provenientes de una misma acta de mensura, de que es dueño o arrendatario, también lo están. No obstante, en el caso de sociedades legales mineras y de las cooperativas mineras la presunción se aplicará solamente a las pertenencias de que sean dueñas.
-
-En ningún caso los pequeños mineros o mineros artesanales que sean personas naturales podrán obtener este beneficio por una superficie mayor de 100 hectáreas o de 50, respectivamente, computándose para ello las pertenencias de que sean dueños o arrendatarios sus parientes por consanguinidad hasta el segundo grado o por afinidad hasta el tercero, salvo que estos últimos sean concesionarios de pertenencias localizadas en comunas distintas de aquélla en que se ubican las de quien impetre el beneficio. A las sociedades legales mineras y a las cooperativas mineras se les aplicará el límite de 100 hectáreas a las pertenencias de que sean dueñas.
-
-En el caso que se pretenda impetrar el beneficio de la patente especial a que se refiere el inciso segundo para una o más pertenencias arrendadas, tal beneficio sólo podrá concederse respecto de la o las pertenencias en que se ubique la faena que constituye la explotación. Para estos efectos el contrato deberá identificar inequívocamente dichas pertenencias.
-
-El Servicio publicará anualmente la nómina de las pertenencias y personas beneficiadas.
-
-> **Nota.** El artículo único de la Ley N° 19.143, publicado el 17.06.1992, dispuso lo siguiente: "Una cantidad igual al producto de las patentes de amparo de las concesiones mineras, a que se refieren los Párrafos 1° y 2° del Título X del Código de Minería, que no constituyan tributos, se distribuirá entre las regiones y comunas del país en la forma que a continuación se indica: a) 70% de dicha cantidad se incorporará a la cuota del Fondo Nacional de Desarrollo Regional que anualmente le corresponda, en el Presupuesto Nacional, a la Región donde tenga su oficio el Conservador de Minas en cuyos Registros estén inscritas el acta de mensura o la sentencia constitutiva de las concesiones mineras que den origen a las patentes respectivas, y b) El 30% restante corresponderá a las Municipalidades de las Comunas en que estén ubicadas las concesiones mineras, para ser invertido en obras de desarrollo de la Comuna correspondiente. En el caso de que una concesión de exploración o una concesión de explotación se encuentre ubicada en territorio de dos o más Comunas, las respectivas Municipalidades deberán determinar, entre ellas, la proporción en que habrán de percibir la suma igual a la patente correspondiente a la concesión de exploración o a la concesión de explotación de que se trate, dividiendo su monto a prorrata de la superficie que sea abarcada por una u otra concesión, en cada Comuna. Si no hubiere acuerdo entre las aludidas Municipalidades respecto de la citada proporción, el Servicio Nacional de Geología y Minería determinará qué superficie de las correspondientes concesiones queda comprendida en en cada Comuna. La Ley de Presupuestos de cada año incluirá en los presupuestos de los Gobiernos Regionales que corresponda, las cantidades a que se refiere la letra a) de este artículo. El Servicio de Tesorerías pondrá a disposición de las Municipalidades los recursos a que se refiere la letra b), dentro del mes subsiguiente al de su recaudación.".
-
-> **Nota.** NOTA 1 El artículo transitorio de la Ley N° 19.143, publicado el 17.06.1992, ordenó que lo dispuesto en su artículo único se aplicará a contar del 1° de enero de 1993.
-
-> **Nota.** NOTA 2 El artículo 1º transitorio de la Ley 19719, publicado el 30.03.2001, establece que la modificación introducida al presente artículo, se aplicará hasta el pago correspondiente al período anual que comienza el 1º de marzo del año 2008, incluido éste.
-
-#### Artículo 142 bis
-
-La determinación del monto de la patente anual indicada en el inciso primero del artículo 142 se regirá por las normas que se establecen en el presente artículo.
-
-Para la concesión de exploración, el monto de la patente por cada hectárea completa será equivalente a tres quincuagésimos de unidad tributaria mensual para cada año de vigencia de la concesión.
-
-Con respecto a las concesiones de explotación, el monto de la patente anual será de un décimo de unidad tributaria mensual por hectárea completa que ella comprenda, en consideración a que el objetivo de su otorgamiento es el desarrollo de la actividad necesaria para satisfacer el interés público que la justifica, entendiéndose por tal la realización de labores mineras. Para estos efectos, el concesionario deberá acreditar anualmente que ha iniciado trabajos, actividades u obras que de modo permanente y continuo permitan el desarrollo de operaciones mineras, entendiéndose por tales a las que se refiere la letra l) del artículo 3 de la ley N° 20.551, que Regula el Cierre de Faenas e Instalaciones Mineras, incluidas aquellas que derivan del cumplimiento de un plan de cierre de faenas mineras. La consideración a dichas operaciones se aplicará independientemente de si se ejercen en pertenencias propias o arrendadas.
-
-El mismo monto señalado en el inciso anterior se aplicará para aquellas pertenencias que se encuentren en algunas de las siguientes situaciones:
-
-a) Aquellas que sin haber iniciado operaciones mineras se encuentren comprendidas en un proyecto de desarrollo minero que haya obtenido una Resolución de Calificación Ambiental o haya sido admitido a trámite en el Sistema de Evaluación de Impacto Ambiental para su calificación, conforme a la ley N° 19.300, sobre Bases Generales del Medio Ambiente.
-
-b) Aquellas comprendidas en un proyecto que, sin tener obligación de ingresar al sistema señalado en la letra anterior, tenga en trámite alguno de los permisos establecidos en el título XV del decreto supremo N° 132, de 2002, del Ministerio de Minería, que Aprueba Reglamento de Seguridad Minera. Solo podrá determinarse la patente por este concepto por una sola vez.
-
-Las pertenencias a las que se les aplique este monto de la patente serán aquellas incluidas en una unidad productiva minera y sus posibles expansiones, según la información que el concesionario entregue al Servicio. Bastará que una sola de las pertenencias de un mismo dueño, comprendidas en una misma acta de mensura, se encuentre en alguna de las hipótesis establecidas en los incisos anteriores, para que se presuma de derecho que todas las pertenencias se encuentran en tal condición.
-
-Los propietarios de las pertenencias serán los responsables de entregar al Servicio todos los antecedentes necesarios para acreditar el cumplimiento de los requisitos para acceder anualmente al monto de patente señalado en el inciso tercero.
-
-Respecto de aquellas concesiones de explotación que no se encuentren en las hipótesis establecidas en los incisos precedentes, el monto de la patente por cada hectárea completa será equivalente a:
-
-a) Cuatro décimos de unidad tributaria mensual para los primeros cinco años de vigencia de la concesión.
-
-b) Ocho décimos de unidad tributaria mensual desde el año sexto al décimo de vigencia de la concesión.
-
-c) Nueve décimos de unidad tributaria mensual desde el año undécimo al año décimo quinto de vigencia de la concesión.
-
-d) Uno coma dos unidades tributarias mensuales desde el año décimo sexto al año vigésimo de vigencia de la concesión.
-
-e) Tres unidades tributarias mensuales desde el año vigésimo primero al año vigésimo quinto de vigencia de la concesión.
-
-f) Seis unidades tributarias mensuales desde el año vigésimo sexto al año trigésimo de vigencia de la concesión.
-
-g) Doce unidades tributarias mensuales a partir del trigésimo primer año de vigencia de la concesión.
-
-El reglamento regulará la forma, requisitos, condiciones, plazos y formalidades que deberá cumplir el titular para que el Servicio reconozca el cumplimiento de los requisitos para acceder al monto de la patente establecido en el inciso tercero.
-
-#### Artículo 142 ter
-
-El titular de una o varias pertenencias mineras cuya extensión total no sea superior a 500 hectáreas y que desarrolle trabajos dentro del área de al menos una concesión, bajo cualquiera de las hipótesis establecidas para acceder al monto de la patente establecido en los incisos tercero y cuarto del artículo anterior, pagará una patente cuyo monto será de un décimo de unidad tributaria mensual por cada hectárea completa.
-
-Para estos efectos, bastará que el titular acredite encontrarse en alguna de las hipótesis del inciso tercero del artículo anterior por una sola vez, para que se presuma que mantiene tal situación por un periodo de cinco años.
-
-Para acceder a este beneficio, el titular podrá ser una persona natural, sociedad legal minera, una cooperativa minera o una empresa individual de responsabilidad limitada, y deberá acreditar que está al día en el pago de la patente de sus concesiones.
-
-En el caso de las personas jurídicas mencionadas en el inciso anterior, para el límite de 500 hectáreas establecido en este artículo, se computarán las pertenencias de que sean dueñas las personas naturales titulares de aquellas. Asimismo, tanto para personas naturales como para los titulares de empresas individuales de responsabilidad limitada, se computarán las pertenencias de que sean dueños sus parientes por consanguinidad hasta el tercer grado o por afinidad hasta el segundo.
-
-Si el beneficiario dejara de cumplir alguno de los requisitos establecidos en el presente artículo, perderá el beneficio, y se aplicará lo establecido en el artículo 142 bis respecto del pago de la patente que debe realizarse en el mes de marzo del año siguiente.
+La concesión minera debe ser amparada mediante el pago de una patente anual cuyo monto será equivalente a un décimo de unidad tributaria mensual por cada hectárea completa, si es de explotación; y a un quincuagésimo de dicha unidad por la misma extensión, si es de exploración. Con todo, los titulares de pertenencias cuyo interés económico principal resida en las sustancias no metálicas o en los placeres metalíferos que existen en ellas y los titulares de pertenencias constituidas sobre sustancias existentes en salares, pagarán una patente anual cuyo monto será equivalente a un trigésimo de unidad tributaria mensual por cada hectárea completa; un reglamento determinará la forma en que esos titulares acreditarán los hechos, ya referidos, que los hagan acreedores a este beneficio, y señalará cuáles son las sustancias que se consideran no metálicas para estos efectos y cuáles constituyen para los mismos efectos, placeres metalíferos.
 
 #### Artículo 143
 
 El pago de la patente será anticipado y se efectuará en el curso del mes de marzo de cada año, en cualquier banco o institución autorizados para recaudar tributos.
 
-Corresponderá al Director del Servicio, previa revisión de los antecedentes entregados por los propietarios de las pertenencias, determinar aquellas que se encuentren sujetas al pago de patentes rebajadas según el artículo 142 bis, para lo cual deberá confeccionar una nómina con las pertenencias beneficiadas con el pago de patente rebajada, indicando las hectáreas sujetas al beneficio.
-
-El Servicio publicará la resolución que contenga la nómina de las pertenencias sujetas al pago de patentes rebajadas conforme a lo dispuesto en el artículo 142 bis, y deberá cumplir con los requisitos que para este efecto determine el reglamento del Código de Minería.
-
-La resolución antes señalada será susceptible de reclamación ante el Director del Servicio por quienes sean los titulares de las pertenencias por las cuales se reclama, dentro del plazo de treinta días contado desde la fecha de su publicación.
-
 #### Artículo 144
 
 La obligación de amparo comienza al solicitarse la sentencia constitutiva de la concesión de exploración, o al solicitarse la mensura de la pertenencia, época en que debe pagarse la primera patente, a que se refiere el inciso siguiente.
 
-El monto de la primera patente será proporcional al tiempo que medie entre la fecha de la solicitud de sentencia o la de la solicitud de mensura, en su caso, y el último día del mes de febrero siguiente. Para estos efectos y hasta el primer año de vigencia de la pertenencia, el monto aplicable a la patente será el establecido en el inciso cuarto del artículo 142 bis.
+El monto de la primera patente será proporcional al tiempo que medie entre la fecha de la solicitud de sentencia o la de la solicitud de mensura, en su caso, y el último día del mes de febrero siguiente.
 
 Una vez pagada la patente a que se refiere el inciso anterior, se deberá seguir pagando patente anualmente, en la oportunidad y forma prescritas en el artículo anterior.
 
 #### Artículo 145
 
-No procederá la devolución de las patentes pagadas por concesiones, o parte de ellas, que posteriormente se renuncien, caduquen, o se extingan.
+No procederá la devolución de las patentes pagadas por concesiones, o parte de ellas, que posteriormente se renuncien, caduquen, se extingan, o se abandonen conforme al artículo 112.
 
 ### Párrafo 2°
 
@@ -1373,16 +1259,6 @@ Para tomar parte en el remate de cada lote, todo postor deberá acompañar bolet
 El mínimo para la subasta de cada lote de concesiones será el valor de las patentes adeudadas.
 
 El dueño de la concesión no será admitido a hacer posturas por ella, pero podrá eliminarla de la subasta hasta el momento del remate, pagando el doble del valor adeudado.
-
-> **Nota.** NOTA 5: El artículo único de la LEY 19201, publicada el 03.02.1993, prorrogó por única vez, hasta el 28 de febrero de 1993, el pago de la patente minera anual que debió efectuarse en el curso del mes de marzo de 1992, en la forma y condiciones que dicha norma indica.
-
-> **Nota.** NOTA 6: El Artículo único de la LEY 19294, publicada el 03.03.1994, prorrogó, hasta el 30 de Junio de 1994, a los titulares de concesiones mineras, el plazo para el pago de la patente anual que debió efectuarse en el curso del mes de marzo de 1993. Dicho pago se hará en la forma que la norma indica.
-
-> **Nota.** NOTA 7: Ver LEY 19349, publicada el 11.11.1994, que establece nuevo plazo para pago de patentes mineras que indica.
-
-> **Nota.** NOTA 8: Ver LEY 19639, publicada el 07.11.1999, que suspende por una vez la aplicación del recargo establecido en este inciso, a los pequeños mineros y mineros artesanales en la forma que indica.
-
-> **Nota.** NOTA 9: El Art. 2º transitorio de la LEY 19719, publicada el 30.03.2001, dispuso la condonación de las deudas por concepto del recargo establecido en este inciso.
 
 #### Artículo 150
 
@@ -1468,17 +1344,15 @@ El valor de las patentes mineras será de exclusivo beneficio fiscal y no será 
 
 #### Artículo 164
 
-A contar del año en que la pertenencia comience a ser explotada por su propietario o terceros, las cantidades pagadas antes de que el Tesorero General de la República cumpla con lo dispuesto en el inciso primero del artículo 156 a título de patente minera tendrán el carácter de un pago provisional voluntario de aquellos a que se refiere el artículo 88 de la Ley de la Renta. Tales pagos provisionales voluntarios, debidamente reajustados en la forma prevista en la norma indicada, deberán ser imputados exclusivamente a las siguientes obligaciones tributarias, según el caso:
+A contar del año en que la pertenencia comience a ser explotada por su propietario o terceros, las cantidades pagadas en el mes de marzo a título de patente minera tendrán el carácter de un pago provisional voluntario de aquellos a que se refiere el artículo 88 de la Ley de la Renta. Tales pagos provisionales voluntarios, debidamente reajustados en la forma prevista en la norma indicada, deberán ser imputados exclusivamente a las siguientes obligaciones tributarias, según el caso:
 
-1°. A las retenciones que afectan a los mineros y empresas mineras según lo dispuesto por el artículo 74, N° 6, de la Ley de la Renta;
+1°.- A las retenciones que afectan a los mineros y empresas mineras según lo dispuesto por el artículo 74, N° 6, de la Ley de la Renta;
 
-2°. A los pagos provisionales obligatorios que deban efectuar las empresas mineras, según lo dispuesto por la letra d) del artículo 84 de la Ley de la Renta, o
+2°.- A los pagos provisionales obligatorios que deban efectuar las empresas mineras, según lo dispuesto por la letra d) del artículo 84 de la Ley de la Renta, o
 
-3°. Al impuesto de Primera Categoría que afecte la regalía, renta de arrendamiento o prestación de similar naturaleza, percibida por el titular de una pertenencia entregada a terceros para su explotación.
+3°.- Al impuesto de Primera Categoría que afecte la regalía, renta de arrendamiento o prestación de similar naturaleza, percibida por el titular de una pertenencia entregada a terceros para su explotación.
 
-Las imputaciones a que se refieren los números 1° y 2° sólo podrán hacerse valer respecto de las retenciones y pagos provisionales obligatorios que afecten a las ventas que se realicen en el período anual amparado, no habiendo lugar a devolución o imputación de los saldos que no hubieren podido imputarse en dicho plazo y forma.
-
-Las imputaciones a que se refiere el inciso anterior podrán también hacerse valer por los vendedores que exploten pertenencias ajenas a cualquier título, cuando el respectivo contrato les imponga el pago de la patente minera, en cuyo caso no habrá lugar a la imputación referida en el número tercero del inciso primero, en favor del titular de la pertenencia entregada a terceros para su explotación.
+Las imputaciones a que se refieren los números 1° y 2° sólo podrán hacerse valer respecto de las retenciones y pagos provisionales obligatorios que afecten a las ventas que se realicen en los doce meses inmediatamente siguientes a aquel en que deba efectuarse el pago de la patente minera, no habiendo lugar a devolución o imputación de los saldos que no hubieren podido imputarse en dicho plazo y forma.
 
 #### Artículo 165
 
@@ -1962,7 +1836,7 @@ Serán aplicables a la administración que efectúe el acreedor, en los casos de
 
 #### Artículo 230
 
-En los procedimientos concursales de liquidación de los mineros se requerirá a los acreedores para que ejerciten los derechos que, en virtud de las disposiciones anteriores, se acuerden al ejecutante.
+En las quiebras de los mineros se requerirá a los acreedores para que ejerciten los derechos que, en virtud de las disposiciones anteriores, se acuerdan al ejecutante.
 
 Los aviadores gozarán de derecho preferente para tomar la pertenencia bajo su administración y aviarla, en el orden que corresponda.
 
@@ -2032,8 +1906,6 @@ Se publicará un suplemento especial del Diario Oficial, denominado Boletín Ofi
 
 El Ministerio de Minería velará por la correcta publicación del Boletín y por el cumplimiento de las normas que les sean aplicables.
 
-Con todo, las publicaciones que deba realizar el Servicio podrán efectuarse en forma íntegra en su sitio web institucional.
-
 #### Artículo 239
 
 En los casos en que este Código ordena archivar un documento, plano o croquis, el funcionario respectivo cumplirá esa disposición agregándolo al libro correspondiente, en la misma forma en que los notarios proceden en la protocolización de documentos públicos, y expedirá, también en esa forma, los certificados y copias que se le soliciten.
@@ -2048,21 +1920,7 @@ El Servicio llevará el Catastro Nacional de Concesiones Mineras. Para facilitar
 
 Deben incluirse en el citado registro tanto las concesiones constituidas con arreglo a ese sistema de coordenadas, como aquellas -constituidas de acuerdo con un sistema diferente- cuyos vértices pasen a quedar determinados en coordenadas U.T.M.
 
-El registro se llevará considerando las copias que los conservadores deben enviar al Servicio, de conformidad con lo dispuesto en el artículo 106, y lo que se resuelva en el procedimiento establecido en el artículo siguiente.
-
-#### Artículo 241 bis
-
-Cada vez que se modifique en el reglamento de este Código el sistema de coordenadas de las concesiones mineras, para efectos de su unificación, deberá seguirse el siguiente procedimiento:
-
-1. El Servicio proporcionará las nuevas coordenadas de cada una de las concesiones mineras vigentes. Para estos efectos, el Servicio publicará en la forma y oportunidad que determine el reglamento, las nuevas coordenadas de las concesiones ya constituidas. En caso de que un titular de concesión minera vigente no fuere incluido en la publicación o tenga objeciones técnicas respecto de las coordenadas proporcionadas, ya sea respecto de su concesión u otras que afecten la suya, podrá reclamar fundadamente ante el Servicio dentro del plazo de noventa días hábiles contado desde la publicación previamente mencionada. En el caso de no tener objeciones, podrá aceptar las coordenadas entregadas por el Servicio.
-
-2. Transcurrido el plazo señalado en el número precedente sin que se haya presentado reclamación u objeción alguna, se entenderán las coordenadas proporcionadas como aceptadas para todos los efectos legales.
-
-3. Una vez interpuesta la reclamación a que hace referencia este artículo, el Servicio deberá publicarla en la forma que determine el reglamento, con el objeto de que cualquier titular afectado pueda oponerse. Dicha oposición deberá presentarse en el plazo de treinta días contado desde la publicación de la reclamación.
-
-4. La reclamación y eventual oposición a que hace referencia este artículo se resolverán en el plazo de sesenta días hábiles. Sin embargo, por resolución fundada el Director del Servicio podrá prorrogar dicho plazo, por una única vez, en treinta días hábiles adicionales. Contra la resolución del Servicio podrá reclamarse dentro del plazo de quince días hábiles contado desde su notificación, la que deberá tramitarse conforme al procedimiento establecido en el artículo 235 del Código de Minería. En contra de la resolución del Servicio podrá reclamarse judicialmente en el plazo de treinta días hábiles contado desde su notificación. El reclamo deberá interponerse ante el juez que sea competente conforme a lo dispuesto en el inciso primero o segundo del artículo 231, según corresponda, y se tramitará con arreglo al artículo 235. En este juicio se tendrá como demandado al Servicio y al reclamante u opositor, en su caso.
-
-5. Las coordenadas establecidas conforme a los números anteriores deberán inscribirse en el Registro Nacional de Concesiones Mineras y pasarán a tener el carácter de definitivas, y determinarán, para todos los efectos jurídicos, la ubicación de las pertenencias respectivas.
+El registro se llevará considerando exclusivamente las copias que los Conservadores deben enviar al Servicio, de conformidad con lo dispuesto en el artículo 106.
 
 #### Artículo 242
 
@@ -2166,7 +2024,7 @@ Los interesados dispondrán del plazo que establezca en cada caso el Presidente 
 
 1°. Incorporar al rol provisional sus pertenencias constituidas, para lo cual deberán acompañar copia de la inscripción de su acta de mensura y proporcionar las coordenadas U.T.M. de los vértices;
 
-2°. Proporcionar las coordenadas U.T.M. de los vértices de sus pertenencias, en el caso que ellas no se hayan indicado en el rol provisional; y
+2°. Proporcionar las coordenadas U.T.M. de los vértices de sus pertenencias, en el caso que ellas no se hayan indicado en el rol provisional, y
 
 3°. Proporcionar coordenadas U.T.M. distintas de las indicadas en el rol provisional si ellas no están conformes con cualesquiera de las indicadas en este rol.
 
@@ -2176,7 +2034,7 @@ Vencido el plazo mencionado en el inciso cuarto, el Servicio revisará los datos
 
 1°.- Eliminar del rol provisional respectivo las pertenencias que en ese rol figuren sin coordenadas U.T.M., y respecto de las cuales los interesados no las hayan proporcionado, lo cual comunicará a los afectados.
 
-2°.- Inscribir en el Registro Nacional de Concesiones Mineras, a que se refiere el artículo 241, las pertenencias para las que el rol provisional haya indicado coordenadas U.T.M., siempre que los interesados no hayan proporcionado coordenadas distintas.
+2°.- Inscribir en el Registro Nacional de Concesiones Mineras a que se refiere el artículo 241 las pertenencias para las que el rol provisional haya indicado coordenadas U.T.M., siempre que los interesados no hayan proporcionado coordenadas distintas.
 
 3°.- Inscribir en el mismo registro las pertenencias que en el rol provisional figuraban con coordenadas U.T.M. distintas a las proporcionadas por los interesados, siempre que el Servicio haya aceptado éstas.
 
@@ -2186,11 +2044,9 @@ Vencido el plazo mencionado en el inciso cuarto, el Servicio revisará los datos
 
 6°.- Comunicar a los interesados la incorporación de sus pertenencias al registro, con indicación de las coordenadas que hayan proporcionado y del hecho de haber sido éstas aceptadas o rechazadas por el Servicio y, en este último caso, con mención de las coordenadas U.T.M. estimadas por el Servicio o indicación de carecer el Servicio de estimación sobre el particular.
 
-Dentro de los treinta días siguientes al vencimiento del plazo fijado por el Presidente de la República conforme al inciso cuarto, el Servicio efectuará las comunicaciones a que se refieren los números 1°, 5° y 6°, mediante avisos que se publicarán en la misma forma establecida en el inciso tercero.
+Dentro de los treinta días siguientes al vencimiento del plazo fijado por el Presidente de la República conforme al inciso cuarto, el Servicio efectuará las comunicaciones a que se refieren los números 1°, 5° y 6° mediante avisos que se publicarán en la misma forma establecida en el inciso tercero.
 
-Cualquier interesado que se considere afectado por alguna de las decisiones adoptadas por el Servicio en cumplimiento de las obligaciones que le impone el inciso sexto, podrá reclamar judicialmente en el plazo de un año, contado desde la publicación del último aviso prescrito por el inciso anterior. El reclamo deberá interponerse ante el juez que sea competente conforme al inciso final del artículo 231; se notificará por avisos que se publicarán en dos días distintos en el Boletín Oficial de Minería, y será resuelto oyendo a perito y con citación del Servicio y de todos aquellos que pudieren resultar afectados si se acoge el reclamo.
-
-El Servicio y los afectados tendrán derecho a oponerse mientras no se dicte la sentencia, y la oposición se tramitará con arreglo al artículo 235. La sentencia no podrá dictarse antes de tres meses, contados desde la fecha de la última publicación.
+Cualquier interesado que se considere afectado por alguna de las decisiones adoptadas por el Servicio en cumplimiento de las obligaciones que le impone el inciso sexto, podrá reclamar judicialmente en el plazo de un año, contado desde la publicación del último aviso prescrito por el inciso anterior. El reclamo deberá interponerse ante el juez que sea competente conforme al inciso final del artículo 231; se notificará por avisos que se publicarán en dos días distintos en el Boletín Oficial de Minería, y será resuelto oyendo a perito y con citación del Servicio y de todos aquellos que pudieren resultar afectados si se acoge el reclamo. El Servicio y los afectados tendrán derecho a oponerse mientras no se dicte la sentencia, y la oposición se tramitará con arreglo al artículo 235. La sentencia no podrá dictarse antes de tres meses, contados desde la fecha de la última publicación.
 
 Las pertenencias cuyas coordenadas U.T.M. sean fijadas por resolución judicial se inscribirán en el Registro Nacional de Concesiones Mineras.
 
@@ -2198,23 +2054,15 @@ Si la resolución judicial del reclamo a que se refiere el inciso octavo no fija
 
 Las coordenadas U.T.M. indicadas en el registro pasarán a tener el carácter de definitivas, y determinarán, para todos los efectos jurídicos, la ubicación de las pertenencias respectivas.
 
-La indicación en el Registro Nacional de Concesiones Mineras de las coordenadas U.T.M. de las pertenencias, no importa reconocimiento de su existencia legal.
+La indicación en el Registro Nacional de Concesiones Mineras de las coordenadas U.T.M. de las pertenencias no importa reconocimiento de su existencia legal.
 
 En virtud de lo establecido en el inciso segundo de la segunda disposición transitoria de la Constitución Política, quedarán extinguidas, por el solo ministerio de la ley, las pertenencias que, al término de los procedimientos señalados en los incisos precedentes, no queden inscritas en el Registro Nacional de Concesiones Mineras.
-
-> **Nota.** El artículo 95 de la ley 18681 declara que el plazo contemplado en el inciso segundo del artículo 6° transitorio de la presente ley, no es aplicable al anuncio de encontrarse a disposición de los interesados el rol provisional mencionado en el inciso tercero de la misma disposición.
-
-> **Nota.** NOTA 1 El Decreto Supremo N° 146, del Ministerio de Minería, publicado en el "Diario Oficial" de 18 de agosto de 1993, dispuso lo siguiente: "Artículo 1°.- Establécese un plazo de once meses a contar del 24 de Junio de 1993, fecha de la última publicación de los avisos que trata el artículo 6° transitorio del Código de Minería, para que los titulares de las pertenencias mineras situadas en la II Región de Antofagasta y cuyos números en el rol de minas del país (de pago de patente minera) van desde el 02101- 0001-6 al 02303-0007-0, ambos inclusive , con exclusión de los correspondientes a las pertenencias constituidas sobre nitratos y sales análogas con arreglo a la legislación nacional anterior a la Ley N° 18.248 que se encuentran vigentes y que no son aquéllas a que se refiere el artículo 2° del Código de Minería, procedan a cumplir con los dispuesto en los números 1°, 2° y 3° del inciso cuarto del citado artículo 6° transitorio." "Artículo 2°.- Dentro del plazo de cinco meses, contado desde el vencimiento del plazo establecido en el número anterior, el Servicio Nacional de Geología y Minería deberá revisar los datos proporcionados por los interesados, y procederá a dar aplicación, según corresponda, a lo dispuesto en el inciso sexto del mismo artículo 6° transitorio." "Artículo 3°.- Los interesados que proporcionen al Servicio Nacional de Geología y Minería Coordenadas U.T.M. de sus pertenencias, deberán determinarlas conforme a lo dispuesto en el Reglamento del Código de Minería.".
-
-> **Nota.** NOTA 2 El Decreto Supremo N° 192, del Ministerio de Minería, publicado en el "Diario Oficial" de 9 de Octubre de 1993, dispuso lo siguiente: "Artículo 1. Establécese un plazo de once meses a contar del 20 de Agosto de 1993, fecha de la última publicación de los avisos que trata el artículo 6to. transitorio del Código de Minería, para que los titulares de las pertenencias mineras situadas en las Regiones VI-VII-VIII-IX-X-XII-XII y Región Metropolitana, comprendidas todas las comunas que las conforman, y cuyos números, en el rol de minas del país (de pago de patente minera) van desde el 06101- 0002-3 al 13605-0073-9, ambos inclusive, procedan a cumplir con lo dispuesto en los números 1ero., 2do. y 3ero. del inciso cuarto del citado artículo 6to. transitorio." "Artículo 2. Dentro del plazo de cinco meses, contado desde el vencimiento del plazo establecido en el artículo anterior, el Servicio Nacional de Geología y Minería deberá revisar los datos proporcionados por los interesados, y procederá a dar aplicación, según correspondan, a lo dispuesto en el inciso sexto del mismo artículo 6to. transitorio." "Artículo 3. Los interesados que proporcionen al Servicio Nacional de Geología y Minería Coordenadas U.T.M. de sus pertenencias, deberán determinarlas conforme a lo dispuesto en el Reglamento del Código de Minería.".
 
 #### Artículo 7°
 
 Las pertenencias constituidas sobre nitratos y sales análogas que se encuentran vigentes, subsistirán como tales y, para todos los efectos legales, se regirán por las disposiciones de este Código en lo que ellas le sean aplicables, pero la obligación establecida en el artículo 142 sólo será exigible, a su respecto, desde el 1° de marzo de 1989.
 
 Los titulares de las concesiones y solicitudes de concesiones a que se refiere la parte final del inciso primero y el inciso segundo del artículo 2° transitorio, no estarán afectos a la obligación de pagar la tasa de manifestación a que se refiere el artículo 51, con ocasión de la correspondiente manifestación o manifestaciones.
-
-> **Nota.** NOTA: 2 El artículo 1° del Decreto N° 141, de Minería, publicado en el "Diario Oficial" de 25 de febrero de 1989, dispuso que el pago de la primera patente anual a que se refiere el inciso primero del presente artículo, se efectuará conforme a lo dispuesto en los artículos 142 y y siguientes de este Código, siéndole aplicable a este pago, el inciso primero del artículo 56 de su Reglamento sin necesidad de figurar en alguna de las nóminas mencionadas en el artículo 58 del mismo. El artículo 2° del citado decreto supremo, dispone que, con la información proporcionada por el Servicio de Tesorerías, el Servicio Nacional de Geología y Minería confeccionará el rol de las pertenencias sobre nitratos y sales análogas respecto de las cuales se haya hecho exigible la obligación de pago de patente, establecida en el presente artículo transitorio.
 
 TITULO FINAL
 
