@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 2360 de 10 de Noviembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sectores Excluidos y Sectores Expropiados Predios "El Carmen" y "San Agustín" de la comunal de Pelarco, Séptima Región y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 3 a la 5 y 13 a la 25; sitios N°s. 6 al 17 y 20 al 22; y Reserva CORA N° 1 del Proyecto de Parcelación "Providencia" formado, entre otros, por predios señalados. Los Derechos de Agua que se distribuyen, se extraen del estero El Carmen o Media Agua a través de varios canales y del canal de Derrames El Monte. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
