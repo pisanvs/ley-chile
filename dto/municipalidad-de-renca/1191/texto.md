@@ -1,0 +1,5 @@
+POSTERGA POR TRES MESES PERMISOS QUE INDICA
+
+Con fecha 22 de septiembre de 1986, la Municipalidad de Renca dictó el Decreto N° 1.191/86, que posterga por tres meses, a contar de la fecha del citado Decreto, los permisos de subdivisión, loteo o urbanización y de construcción para el sector del área de expansión urbana de la comuna de Renca, que se encuentra definido por los siguientes límites: Avenida Condell, calle Arturo Prat, Pasaje María Elena, Pasaje Aconcagua, Pasaje Nuevo, calle José Miguel Infante, calle Esmeralda, deslinde norte población Perejil, calle Chorrillos, calle Miraflores, deslindes lotes A y B Sucesión García Robert, José Miguel Infante y deslindes lotes D y E Sucesión García Robert, deslindes sublote E Sucesión García Robert, camino El Resbalón (Vicuña Mackenna), límite comunal sur Renta, limite comunal poniente Renca, parte límite comunal norte y camino Lo Boza.-
+
+Alcalde.
