@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.457, de 31 de mayo del 2000, se expropiaron los lotes de terreno Nºs. 262-D, 262-F y 263-A, superficies 655 m2, 1.786 m2 y 4.088 m2, rol de avalúo 99-53, comuna de La Ligua, para la obra Camino Ruta 5 Norte, Tramo: Santiago-Los Vilos, Quinta Región y se acordó el valor de indemnización con sus propietarios Evaristo Alfredo Rojas Rojas y otros, ascendente a la cantidad total de $14.895.288.
+
+Fiscal del Ministerio de Obras Públicas.
