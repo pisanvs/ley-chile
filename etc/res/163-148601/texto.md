@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Resolución Nº 163, de 26 de noviembre de 1999, Serviu Sexta Región del Libertador Bernardo O'Higgins ordenó Expropiación Total de inmueble ubicado en Avenida Bernardo O'Higgins Nº 6 de Rancagua, Rol de Avalúos Nº 1-15, comuna de Rancagua, superficie 465,73 metros cuadrados, delimitada en el polígono O'-P'-S'-R'-O', de aparente dominio de doña Elena Padilla Miranda, para ejecución de Proyecto Ampliación Avenida Freire de Rancagua, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por Sres. Jorge Atala S. Ingeniero Civil; Jorge Godoy R, Arquitecto; Edmundo Gómez L., Constructor Civil, según informe de fecha octubre de 1999, fijó monto provisional indemnización en $134.347.458. pagadera de contado.-
+
+Director Serviu VI Región.
