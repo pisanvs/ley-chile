@@ -1,0 +1,1 @@
+Modifica partida 1453 de la ley número 4321, de 22 de febrero de 1928, sobre arancel aduanero.
