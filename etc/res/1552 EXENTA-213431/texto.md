@@ -1,0 +1,9 @@
+Por resolución Nº 1.552 exenta, de 8 de julio de 2003, de esta Subsecretaría, autorízase a CONSULTORA PUPELDE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Análisis de la captura por unidad de esfuerzo (CPUE) de la flota artesanal demersal de la Zona de Puerto Montt, mes de julio 2003".
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en caracterizar y monitorear el esfuerzo pesquero artesanal de la pesquería de Merluza del sur Merluccius australis en aguas interiores de la X Región, desplegada por la flota artesanal de Puerto Montt en el mes de julio de 2003. La pesca de investigación que por la presente resolución se autoriza se efectuará entre los días 10 y 11 de julio de 2003, ambas fechas inclusive, en el área de aguas interiores de la X Región correspondiente a la Zona Puerto Montt, que comprende las áreas de operación de las caletas de Anahuac, Isla Maillen, Chaicas, Caleta Gutiérrez, Yerbas Buenas, La Arena, Pichi-Pelluco, Isla Quellin, Isla Los Toros.
+
+En cumplimiento del objetivo de la presente pesca de investigación, las embarcaciones participantes podrán extraer un máximo de 18,8 toneladas de Merluza del sur, las que se imputarán a la fracción reservada para ser extraída con fines de investigación en el área de aguas interiores de la X Región.
+
+Consultora Pupelde Limitada designa como persona responsable de esta pesca de investigación a su representante legal, don Bernardo Luciano Ugalde Muñoz.
+
+Valparaíso, 8 de julio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
