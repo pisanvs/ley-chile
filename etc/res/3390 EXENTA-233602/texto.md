@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.390, de 29 de noviembre de 2004, de esta Subsecretaría, autorízase a PESQUERA TRANS ANTARTIC LIMITADA, R.U.T. Nº 76.169.670-K, para continuar desarrollando las actividades pesqueras de transformación autorizadas mediante resoluciones citadas en Visto, a Pesquera Trans Antartic Limitada, R.U.T. Nº 84.925.700-5, del mismo domicilio, en virtud de la escritura pública citada en Visto y del contenido de la presente resolución.
+
+Valparaíso, 29 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
