@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 2.046, de 31 de diciembre de 2001, se expropiaron los lotes de terreno Nºs 29-1 y 32, superficies 402 y 2.818 m2., rol de avalúo 164-1, comuna de Casablanca, para la obra Red Litoral Central Sector 3: Eje Costero Interior Subtramo: Rosario - Orrego Abajo Kms. 20.673,30 al 27.340,00, Quinta Región y se acordó el valor de indemnización con su propietario José Francisco Javier Ebel Vial, ascendente a la cantidad de $2.732.897.-
+
+Fiscal del Ministerio de Obras Públicas.
