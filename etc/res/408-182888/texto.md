@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA E INDUSTRIAS MARINAS LTDA., "INDUMAR LTDA.", PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA DECRETOS Y RESOLUCION QUE INDICA
+
+Por resolución Nº 408, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera e Industrias Marinas Ltda., "Indumar Ltda.", con domicilio en Talcahuano, para continuar las actividades pesqueras autorizadas a la Sociedad Italo Queirolo y Cia. Ltda., consistentes en la elaboración de harina y aceite de pescado en la planta que posee en calle Manuel Montt 360, de Talcahuano y en la operacíon de las embarcaciones "Ulises I" y "Valdivia 3" en labores extractivas de los recursos jurel, sardina española, sardina común, anchoa, caballa, agujilla, cochinilla, cojinova, corvina, tritre y bonito, en el sector del litoral comprendido entre los 18º 20,5` S y 24º 00` S, entre los 29º 15,0` S y 30º 15,0` S y entre los 36º 10,0` S y 37º 10` S. Se derogan los decretos de Agricultura número 460, de 1963, y 343, de 1973, y la resolución Nº 299 de 1980, de la Subsecretaría de Pesca.
+
+Roberto Verdugo Gormaz, Subsecretario de Pesca.
