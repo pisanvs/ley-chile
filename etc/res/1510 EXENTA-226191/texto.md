@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.510, de 1 de junio de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201112154, presentada por BRENDA ETTI PAREDES PAREDES, para instalar y operar un centro de cultivo ubicado en Boca Wickham, al este de Punta Serrano, sector 4, Península de Taitao, XI Región.
+
+Valparaíso, 1 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
