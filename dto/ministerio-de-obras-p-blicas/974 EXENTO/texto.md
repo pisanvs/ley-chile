@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº974, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº59-A, superficie 72 m², Rol Nº2213-457, comuna de Chillán, VIII Región, para la obra ''Camino Ruta N-45, Sector Cruce N-49 (Chillán) - La Capilla - Tres Esquinas, Km. 6,26000 a Km. 28,54000'' y se acordó el valor de indemnización con su propietario María Angélica Montecinos Vásquez, ascendente a la cantidad de $439.949.-
+
+Fiscal del Ministerio de Obras Públicas.
