@@ -1,0 +1,5 @@
+AUTORIZA A INDUSTRIA CONSERVERA RICARDO SMITH Y CIA. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 602 de 12 de Junio de 1987, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza Industria Conservera Ricardo Smith y Cia., domiciliada en Puerto Montt, para instalar y operar una planta industrial ubicada en calle Angelmó No. 2448, Puerto Montt, X Región, en las líneas de elaboración de ahumado y conserva, donde procesará los siguientes recursos hidrobiológicos: Anchoa, cojinova, corvina, Jurel, mero, pejerrey, róbalo, salmón del Pacífico, sardina común, trucha arcoiris, almeja, calamar, caracol trumulco, chorito, cholga, choro zapato, Jibia, lapa, loco, macha, navajuela, pulpo, ostra, cangrejo, centolla, centollón, jaiba, picoroco, piure, erizo, cochayuyo y luche.
+
+Valparaíso, 12 de Junio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
