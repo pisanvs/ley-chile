@@ -1,0 +1,15 @@
+DECLARA MONUMENTO HISTORICO LA EX - CASA PATRONAL DE HUILQUILEMU, DE TALCA
+
+Núm. 1.092.- Santiago, 15 de Octubre de 1986.- Considerando: Que, la ex - Casa Patronal de Huilquilemu actualmente perteneciente a la Pontificia Universidad Católica de Chile y destinada a Museo, fue construida en el año 1850. Su planta presenta una forma clásica sobre la base de cuerpos de edificios y corredores exteriores techados a dos aguas, organizado en torno a patios. Su dimensión, las perspectivas que originan sus juegos de volúmenes, la calidad del espacio interior y la irregularidad de sus detalles y terminaciones, la convierten en un excelente ejemplo de nuestra arquitectura rural de raíz hispana; y
+
+Visto: Lo dispuesto en la Ley Nº 17.288 de 1970; acuerdo de sesión de 06 de agosto de 1986 del Consejo de Monumentos Nacionales y en los artículos 32 Nº 8 y 35 de la Constitución Política de la República de Chile,
+
+Decreto:
+
+#### Artículo único
+
+Declárase Monumento Histórico la ex - Casa Patronal de Huilquilemu, ubicada a 8 kms. al Oriente de la ciudad de Talca, VII Región del Maula.
+
+Anótese, tómese razón y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Sergio Gaete Rojas, Ministro de Educación Pública.
+
+Lo que transcribo a usted para su conocimiento.- Saluda a usted.- René Salamé Martin, Subsecretario de Educación Pública.
