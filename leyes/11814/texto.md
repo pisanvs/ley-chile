@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Calle Larga para contratar uno o más empréstitos que produzcan hasta la cantidad de $ 4.000.000 con el fin de destinarlos a la extensión de la red de alumbrado público y a la reconstrucción del edificio municipal; para su servicio establece una contribución adicional de un tres por mil anual sobre el avalúo de los bienes raíces de la comuna.
