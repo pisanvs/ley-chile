@@ -1,0 +1,3 @@
+Por resolución Nº 1.886, de 20 de septiembre de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95103098, presentada por CULTIVOS MARINOS CHILOE S.A., para operar un centro de cultivo ubicado en Punta Aucho, Sector Lliuco, comuna de Quemchi, provincia de Chiloé, X Región.
+
+Valparaíso, 20 de septiembre de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
