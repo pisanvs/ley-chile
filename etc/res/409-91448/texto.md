@@ -1,0 +1,3 @@
+Por Resolución No. 409, de 8 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, inmueble ubicado calle Ricardo Santa Cruz No. 593, también signado por calle San Isidro con No. 498, presunto rol avalúos 592-12, comuna Santiago, aparentemente dominio de don Mario Martínez Valles. Comisión integrada por peritos señores José Miguel Haltenhoff Aenishanslin y Carlos del Pedregal Sánchez, constructores civiles, y Teresa Sancho Pernas, arquitecto, según informe de 01.12.88, fijó monto provisional indemnización en $ 11.552.450, pagadera al contado.
+
+Director SERVIU Metropolitano.
