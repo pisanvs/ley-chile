@@ -1,0 +1,5 @@
+Por Resolución N° 471, de 15 de marzo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA VAMAR LTDA., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Sotomayor sitio N° 6, altura 2200, sector Agpia, Iquique, en las líneas de elaboración de Congelado, Conserva y Fresco-refrigerado, los siguientes recursos hidrobiológicos: Lisa, Culengue, Centolla del norte Lithodes panamensis, Centolla del norte Lithodes wiracocha, Centolla de profundidad, Centollón del norte Paralomis longipes, Centollón del norte Paralomis otsuae, Centollón del norte Glyptolithodes cristatipes, Erizo, Pepino de mar, Piure.
+
+Cadúcanse las Resoluciones N° 60 y N° 190, ambas de 1993, de esta Subsecretaría, conforme a lo dispuesto en el artículo 6°, del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 15 de marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
