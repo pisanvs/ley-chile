@@ -1,0 +1,3 @@
+Por Resolución Nº 159 de 30 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por PESQUERA ATACAMA S.A., para ampliar el plazo para iniciar actividades pesqueras con las naves "Atacama VI", "Atacama VII", "Atacama VIII" y "Atacama IX", autorizadas por Resoluciones Nº 1.702, Nº 1.703, Nº 1.704 y Nº 1.705 de 1995, respectivamente, de esta Subsecretaría, por no haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 30 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
