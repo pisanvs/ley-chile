@@ -1,0 +1,1 @@
+Establece impuesto para atender los gastos que demande el fomento del turismo; y deroga artículo 2° del decreto-ley N° 112, de 30 de junio de 1932, y disposiciones contrarias de la ley N° 4,585, de 9 de febrero de 1929, sobre turismo.
