@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.367, de 30 de agosto de 1999, se modificó el decreto MOP Nº324, de 31 de marzo de 1997, que expropió el lote de terreno Nº3; para la obra Camino Los Cerrilos - Calera de Tango - Lonquén Rol G-30, Sector Lo Hermita - Sto. Domingo, Tramo Km.
+
+10.080,20 a Km. 19.854,29, que figura a nombre de Héctor Francisco y Alicia Eugenia Meza Olguín, rol de avalúo 21-48, comuna de Calera de Tango, Región Metropolitana, superficie 10 m2, ordenándose la consignación judicial del valor provisional de la indemnización ascendente a la cantidad de $70.000.- por haber quedado sin efecto el Convenio Directo de Precio suscrito con los expropiados. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
