@@ -1,0 +1,3 @@
+Por resolución Nº 857, de 7 de mayo de 2002 de esta Subsecretaría, autorízase a FOODCORP CHILE S.A., para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 498 de 2001 de esta Subsecretaría, en orden a incorporar a la planta ubicada en Parque Industrial Escuadrón I Etapa, Manzana A, Sitio 14, Coronel, VIII Región, en las líneas de proceso de Harina y Aceite, los siguientes recursos hidrobiológicos: Bacaladillo o mote, Jurel fino, Machuelo o tritre, Anchoveta blanca, Sardina redonda, Vinciguerria.
+
+Valparaíso, 7 de mayo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
