@@ -26,9 +26,9 @@ Sólo la compraventa servirá de título para dicha adquisición
 
 La adquisición de bienes raíces, de conformidad al artículo precedente, debe ser comunicada al Departamento de Bienes Nacionales de la Dirección de Tierras y Bienes Nacionales del Ministerio de Tierras y Colonización para que proceda a registrarlos en el catastro de bienes fiscales debiendo, además, publicarse un extracto de la escritura de compraventa en el Boletín Oficial de la correspondiente Institución de la Defensa Nacional.
 
-#### Artículo 3º
+#### Artículo 3°
 
-El precio de los contratos de compraventa de bienes raíces que se celebren con particulares no podrá ser superior a la tasación que para estos efectos señale en cada caso el Servicio de Impuestos Internos, y deberá ser pagado, por intermedio de los Comandantes y Jefes de Dirección respectivos, referidos en el artículo 1º, o de los Oficiales o funcionarios a quienes se les ha delegado la representación en el caso del artículo 5º.
+El precio de los contratos de compraventa de bienes raíces se fijará de común acuerdo entre las partes y deberá ser pagado, por intermedio de los Comandantes y Jefes de Dirección respectivos, referidos en el artículo 1°, o de los Oficiales o funcionarios a quienes se les ha delegado la representación en el caso del artículo 5°.
 
 #### Artículo 4º
 
