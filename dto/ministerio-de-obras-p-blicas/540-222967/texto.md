@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 540, de 31 de octubre de 1994, se expropiaron los lotes de terreno N°s. 23 y 24, superficies 167 m2. y 142 m2., roles de avalúos 2036-9 y 2036-25, Comuna La Cisterna, para la obra Avenida Américo Vespucio, sector Gran Avenida-Ochagavía y se acordó valor de indemnización con su propietaria Sociedad Julio Collado e Hija Limitada, ascendente a la cantidad de $ 71.942.160.
+
+Fiscal del Ministerio de Obras Públicas.
