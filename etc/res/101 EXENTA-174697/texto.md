@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero, mediante resolución exenta Nº 101 de 25 de Enero de 1988, conforme Art. 5º Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Reserva y Sector Expropiado Predios: "Hijuela Primera La Estancia" y "Parte de la Hijuela o Sección Norte del Fundo El Carmen de San Antonio" de la comuna de Chépica, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas Nºs. 1 a la 11, sitios Nºs. 1 al 6 del Proyecto de Parcelación "La Estancia" formado por predios señalados. Los Derechos de Agua se extraen del Canal Canchillas y Canal San Antonio, Derrames y sobrantes del Fundo San Antonio. Publicación hecha conforme Art. 13 Ley Nº 18.377.-
+
+Director Ejecutivo.
