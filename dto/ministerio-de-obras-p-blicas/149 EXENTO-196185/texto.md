@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 149, de fecha 25 de febrero de 2002, se expropiaron los lotes de terreno Nºs 2 y 2-A, superficie 350 y 332 m2 respectivamente, rol de avalúo 1103-109, comuna de Quillón, para la obra "Camino Ruta N-860, Sector Qullón-Cerro Negro, Km. 0.000.00 a Km. 11.800.00" y se acordó el valor de indemnización con su propietario Rafael Horacio Sepúlveda Cifuentes, ascendente a la cantidad de $526.095.
+
+- Fiscal del Ministerio de Obras Públicas.
