@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 216, de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nºs. 32, 33, 34, 35 y 36, superficies 3.140 m2, 954 m2, 2.229 m2, 758 m2 y 186 m2, respectivamente, rol de avalúo 65-4, comuna de Lonquimay, IX Región, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Lonquimay - Acceso Pedregoso, Km. 119,30000 al 141,00000, correspondiente al Tramo I Km. 119,30000 al 130,66000" y se acordó el valor de indemnización con su propietario don Vicente Martínez Suárez, ascendente a la cantidad de $1.244.522.-
+
+Fiscal del Ministerio de Obras Públicas.
