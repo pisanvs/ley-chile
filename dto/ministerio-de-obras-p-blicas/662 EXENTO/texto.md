@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 662, de 31 de mayo de 2001, se expropió el lote de terreno Nº 110, superficie 288 m², rol de avalúo 700-117, comuna de Algarrobo, para la obra Red Vial Litoral Central. Sector 2: Camino Algarrobo - Casablanca (Ruta F-90), Quinta Región y se acordó el valor de indemnización con su propietario Víctor Darío Realini Saldaña, ascendente a la cantidad de $2.062.106.
+
+- Fiscal del Ministerio de Obras Públicas.
