@@ -132,7 +132,11 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Línea oficial»: la indicada en el plano del instrumento de planificación territorial, como deslinde entre propiedades particulares y bienes de uso público o entre bienes de uso público.
 
+«Lote»: superficie de terreno continua resultante del proceso de subdivisión del suelo o de la fusión de dos o más lotes.
+
 «Maestranza»: local industrial destinado a mantener, transformar, rehacer o construir cualquier clase de maquinaria, sea móvil, semifija o estacionaria, para transporte u otro fin.
+
+«Manzana»: predio o conjunto de predios rodeados de bienes nacionales de uso público.
 
 «Mediana»: isla continua, realzada altimétricamente mediante soleras, que separa flujos vehiculares.
 
@@ -328,7 +332,7 @@ Cumplido el trámite de consulta a que se refiere el inciso precedente, y previa
 
 El Plan Regulador Intercomunal, elaborado en conformidad a la Ley General de Urbanismo y Construcciones, una vez aprobado por acuerdo del Consejo Regional se promulgará mediante resolución del Intendente y entrará en vigencia a partir de la publicación en el Diario Oficial, de la resolución aprobatoria y del texto íntegro de la Ordenanza respectiva.
 
-El plano original del Plan Regulador Intercomunal deberá llevar las firmas del Jefe del Departamento de Desarrollo Urbano e Infraestructura de la Secretaría Regional Ministerial de Vivienda y Urbanismo, del Secretario Regional Ministerial y del Ministro de Fe de dicha Secretaría Regional; del Jefe de la División de Desarrollo Urbano y del Ministro de Fe del Ministerio de Vivienda y Urbanismo.
+El plano original del Plan Regulador Intercomunal deberá llevar las firmas del Jefe del Departamento de Desarrollo Urbano e Infraestructura de la Secretaría Regional Ministerial de Vivienda y Urbanismo; del Secretario Regional Ministerial de Vivienda y Urbanismo; del Jefe de la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo; del Intendente, y del Ministro de Fe del Gobierno Regional.
 
 El plano original del Plan Regulador Intercomunal junto con un ejemplar de la Memoria Explicativa, de la Ordenanza y del Diario Oficial en que se hubiere publicado la Resolución Aprobatoria del Gobierno Regional, será archivado en el Gobierno Regional; una copia oficial de dichos documentos será archivada en la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo; otra en la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva y otra en el Conservador de Bienes Raíces correspondiente.
 
@@ -438,7 +442,7 @@ Los planos que conformen el Plan Seccional se elaborarán sobre base áerofotogr
 
 1.13. Los Planes Reguladores Comunales, los Planes Seccionales, los Límites Urbanos, y sus modificaciones, sólo tendrán vigencia a partir de la publicación en el Diario Oficial de la resolución aprobatoria y de la Ordenanza Local correspondiente.
 
-Los planos originales de cada uno de estos instrumentos de planificación territorial deberán llevar la firma del Director de Obras Municipales, del Alcalde, y del Secretario Municipal respectivo; del Jefe del Departamento de Desarrollo Urbano e Infraestructura de la Secretaría Regional Ministerial de Vivienda y Urbanismo, del Secretario Regional Ministerial y del Ministro de Fe de dicha Secretaría Regional.
+Los planos originales de cada uno de estos instrumentos de planificación territorial deberán llevar la firma del Director de Obras Municipales, del Alcalde, y del Secretario Municipal respectivos; del Jefe del Departamento de Desarrollo Urbano e Infraestructura de la Secretaría Regional Ministerial de Vivienda y Urbanismo, y del Secretario Regional Ministerial de Vivienda y Urbanismo.
 
 Los planos originales, junto con un ejemplar de la Memoria Explicativa, del Estudio de Factibilidad y de la Ordenanza, cuando corresponda, y del Diario Oficial en que se hubiere publicado la resolución aprobatoria del Gobierno Regional, serán archivados en el Gobierno Regional; una copia oficial de dichos documentos será archivada en la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, otra en la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, otra en la Dirección de Obras Municipales correspondiente y otra en el Conservador de Bienes Raíces respectivo.
 
@@ -1670,7 +1674,7 @@ DE LAS CONDICIONES GENERALES DE SEGURIDAD
 
 2. En recintos de uso público...... 1,0 kN/m
 
-Cuando la altura sobre el nivel del terreno o pavimento definitivo adyacente a la edificación a que se refiere el artículo anterior sea inferior a 1 m y mayor que 0,30 m se deberá disponer una solera de borde de una altura mínima de 0,30 m y de una franja de textura distinta a la del pavimento, de aproximadamente 0,50 m de ancho.
+Cuando la altura sobre el nivel del terreno o pavimento definitivo adyacente a la edificación a que se refiere el inciso anterior sea inferior a 1 m y mayor que 0,30 m se deberá disponer una solera de borde de una altura mínima de 0,30 m y de una franja de textura distinta a la del pavimento, de aproximadamente 0,50 m de ancho.
 
 Las barandas transparentes y abiertas, tendrán sus elementos estructurales y ornamentales dispuestos de manera tal, que no permitan el paso de una esfera de 0,12 m de diámetro a través de ellos.
 
@@ -1698,17 +1702,19 @@ Las disposiciones contenidas en el presente Capítulo persiguen como objetivo fu
 
 3.2. Para los efectos de la presente Ordenanza, el comportamiento al fuego de los materiales, elementos y componentes de la construcción se determinará de acuerdo con las siguientes normas o las que las reemplacen:
 
-- Para la resistencia al fuego NCh 935/1 y NCh 935/2.
+-Normas generales: NCh 933 y NCh 934.
 
-- Para la no combustibilidad NCh 1914/1
+-Normas de resistencia al fuego: NCh 935/1, NCh 935/2 y NCh 2209.
 
-- Para el calor de combustión NCh 1914/2.
+-Normas sobre cargas combustibles: NCh 1914/1, NCh 1914/2, NCh 1916 y NCh 1993.
 
-- Para el retardo al fuego NCh 1974, NCh 1977 y NCh 1979.
+-Normas sobre comportamiento al fuego: NCh 1974: maderas; NCh 1977 y NCh 1979: textiles.
+
+-Normas sobre señalización: NCh 2111 y NCh 2189.
 
 No obstante lo dispuesto en el inciso anterior, habrá un «Listado Oficial de Comportamiento al Fuego», confeccionado por el Ministerio de Vivienda y Urbanismo, o por la entidad que éste determine, en el cual se registrarán, mediante valores representativos, las cualidades frente a la acción del fuego de los materiales, elementos y componentes utilizados en la actividad de la construcción.
 
-Las características de comportamiento al fuego de los materiales, elementos y componentes utilizados en la construcción, exigidas expresamente en esta Ordenanza, que no se encuentren incluidas en el Listado Oficial de Comportamiento al Fuego, deberán acreditarse sólo mediante el certificado de ensaye correspondiente emitido por alguna institución oficial de control técnico de calidad de los materiales.
+Las características de comportamiento al fuego de los materiales elementos y componentes utilizados en la construcción, exigidas expresamente en esta Ordenanza, que no se encuentren incluidas en el Listado Oficial de Comportamiento al Fuego, deberán acreditarse sólo mediante el certificado de ensaye correspondiente emitido por alguna institución oficial de control técnico de calidad de los materiales.
 
 Si al solicitarse un permiso de edificación, alguno de los elementos de construcción de un proyecto no figura en el Listado Oficial de Comportamiento al Fuego, el Director de Obras Municipales deberá considerar si dicho elemento tiene un comportamiento similar a otro del mismo listado. Si así fuere, lo aceptará. En caso contrario exigirá al interesado la presentación de la certificación del ensaye de laboratorio correspondiente o la inscripción en el Listado Oficial de Comportamiento al Fuego, en forma previa al otorgamiento del permiso.
 
@@ -1884,40 +1890,6 @@ Docentes sobre 250 y hasta 500 c c b b a a
 
 hasta 250 d c c b b a
 
-TABLA 3
-
-DESTINO DEL DENSIDAD DE CARGA NUMERO DE PISOS
-
-EDIFICIO COMBUSTIBLE (MJ/m²) 1 2 3 4 5
-
-o más
-
-Bodegas y sobre 8.000 b b a a a
-
-Supermercados sobre 4.000 y hasta 8.000 c b b a a
-
-sobre 2.000 y hasta 4.000 d c c b a
-
-hasta 2.000 d d c b a
-
-Expendio de sobre 8.000 a a a a a
-
-Combustibles sobre 4.000 y hasta 8.000 b a a a a
-
-Lubricantes sobre 2.000 y hasta 4.000 c b b a a
-
-y solventes hasta 2.000 d c b a a
-
-Industrial sobre 8.000 a a a a a
-
-sobre 4.000 y hasta 8.000 b b a a a
-
-sobre 2.000 y hasta 4.000 c b b a a
-
-sobre 1.000 y hasta 2.000 d c b b a
-
-hasta 1.000 d d c b a
-
 1MJ/m2= 238.85 k cal/m2
 
 1 MJ= 0.06 kg madera equivalente de 4.000 k cal/kg
@@ -1949,6 +1921,14 @@ Para los efectos del presente Capítulo, se entenderá por «Unidad» toda edifi
 5. En el caso que ciertos recintos de un edificio tengan que cumplir con características especiales de seguridad contra incendio establecidas en la presente Ordenanza, sin que cambie el uso del mismo, dichos recintos deberán ser estancos al fuego, es decir, deberán cumplir con las exigencias especiales que se establezcan, sin obligar por ello a que todo el edificio deba ser proyectado o construido con dichas características de mayor exigencia.
 
 6. Los cielos falsos no se considerarán protección a las estructuras de entrepisos, salvo que ellos aparezcan mencionados en el Listado Oficial de Comportamiento al Fuego o bien se demuestre, mediante ensayes, su aporte a la resistencia al fuego del conjunto.
+
+Excepcionalmente en el caso de techumbre no se requerirá proteger su estructura del riesgo de incendio, cuando se cumplan simultáneamente las siguientes tres situaciones:
+
+-Que el cielo falso cumpla con las condiciones de resistencia al fuego exigidas por esta Ordenanza;
+
+-Que el cielo falso se encuentre adosado a la techumbre en forma continua y hermética, y
+
+-Que entre el cielo falso y la parte inferior de la estructura de techumbre no exista ningún tipo de instalaciones.
 
 7. Las resistencias al fuego que se indican para los muros de zona vertical de seguridad y caja de escalera en la tabla del artículo 4.3.3., se deben cumplir sólo en edificios de siete o más pisos.
 
@@ -1988,7 +1968,9 @@ Sin perjuicio de los requisitos específicos que establezcan las normas técnica
 
 3. Las zonas verticales de seguridad, deben estar dotadas de sistemas de iluminación y de ventilación, que permitan a los usuarios desplazarse y evacuar el edificio, sin peligro de verse afectados por los humos y gases generados por el incendio, aún cuando el suministro normal de energía eléctrica sea interrumpido.
 
-4. Las puertas de acceso o egreso, en todos los pisos, deberán ser de cierre automático y con resistencia a la acción del fuego, tanto la hoja como sus componentes, correspondiente a la clase F-30. Estas puertas deben abrirse fácilmente hacia la zona vertical de seguridad.
+4. Las puertas de acceso o egreso, en todos los pisos, deberán ser de cierre automático y con resistencia a la acción del fuego, tanto la hoja como sus componentes, correspondientes a la clase F-30. Todas ellas deberán estar señalizadas con el distintivo "Salida de Emergencia" por la cara que corresponda.
+
+Estas puertas deberán abrirse fácilmente hacia la zona vertical de seguridad, hacia el nivel del acceso del edificio y hacia el nivel de la azotea o terraza, según corresponda.
 
 #### Artículo 4
 
@@ -3822,7 +3804,7 @@ Los elementos metálicos con protección al fuego deberán cumplir los requerimi
 
 Las protecciones deben cubrir íntegramente toda la estructura, sin dejar lugares por donde el fuego pudiese atacarla.
 
-Se exceptúan de lo dispuesto anteriormente las construcciones de un piso, cualquiera sea su altura de piso a cielo, siempre que en las tablas de clasificación del artículo 4.3.4. correspondan al tipo (d) para un piso, de acuerdo a las característica del edificio.
+Se exceptúan de lo dispuesto anteriormente las edificaciones de un piso, cualquiera sea su altura de piso a cielo, clasificadas como de tipo d en las tablas del artículo 4.3.4., incluidos los casos en que parte de la edificación tenga dos pisos, siempre que ésta no supere el 10% de la superficie construida o un máximo de 50 m2.
 
 Los suelos se construirán con perfiles de acero o losas de hormigón armado y los muros se ligarán sólidamente a la estructura metálica de manera que se evite su destrucción en caso de sismos.
 
@@ -5128,7 +5110,7 @@ Ascensores y montacargas.
 
 9.5. La instalación de ascensores y montacargas se ajustará a las normas oficiales y a las disposiciones siguientes:
 
-1. Los sistemas electromecánicos de los ascensores se aprobarán por la Superintendencia de Electricidad y Combustibles (SEC) y corresponderá a la Dirección de Obras Municipales exigir el cumplimiento de esta disposición para los efectos del otorgamiento de la recepción final de la construcción correspondiente. Además del legajo de documentos anexos que se requieren para el permiso municipal y que están establecidos en el artículo 5.1.3. de la presente Ordenanza, se acompañará un plano detallado de la instalación de ascensores o montacargas en aquellos edificios que consulten este servicio. Este plano se compondrá de las plantas y secciones que permitan definir la obra gruesa y terminaciones de la caja(escotilla), como también todos los detalles de la cabina.
+1. Los sistemas electromecánicos de los ascensores se aprobarán por la Superintendencia de Electricidad y Combustibles (SEC) y corresponderá a la Dirección de Obras Municipales exigir el cumplimiento de esta disposición para los efectos del otorgamiento de la recepción final de la construcción correspondiente. Además del legajo de documentos anexos que se requieren para el permiso municipal y que están establecidos en el artículo artículo 5.1.6. de la presente Ordenanza, se acompañará un plano detallado de la instalación de ascensores o montacargas en aquellos edificios que consulten este servicio. Este plano se compondrá de las plantas y secciones que permitan definir la obra gruesa y terminaciones de la caja(escotilla), como también todos los detalles de la cabina.
 
 2. Todo edificio de 6 ó más pisos deberá contar con ascensores para dar acceso a todos los pisos. Sin embargo, con informe favorable de la Secretaria Regional Ministerial de Vivienda y Urbanismo, la Dirección de Obras Municipales podrá autorizar sobre el último piso a que tenga acceso el ascensor, la construcción de un solo piso adicional servido por escaleras, siempre que se cumpla con las demás normas establecidas en esta Ordenanza.
 
@@ -5260,7 +5242,7 @@ Pavimentación de calzadas interiores.
 
 9.6. Los pavimentos de las calzadas para el tránsito vehicular, correspondiente a la apertura, ensanche, prolongación o modificación de calles, pasajes, patios o playas de estacionamiento, puentes o servidumbres de tránsito que se materialicen en predios de carácter privado, estén o no acogidos a la Ley de Propiedad Horizontal, deberán ejecutarse en conformidad a las Normas Oficiales vigentes sobre la materia.
 
-La correcta ejecución, reposición o renovación, total o parcial de tales obras, deberá ser acreditada con un certificado de buena ejecución expedido por el Departamento de Pavimentación de la Municipalidad de Santiago o por el Servicio Regional de Vivienda y Urbanismo (SERVIU), según corresponda.
+En el caso de proyectos que consulten la subdivisión de terrenos, la correcta ejecución, reposición o renovación, total o parcial de tales obras, deberá ser acreditada mediante certificado de buena ejecución expedido por el Departamento de Pavimentación de la Municipalidad de Santiago o por el Servicio Regional de Vivienda y Urbanización (SERVIU), según corresponda.
 
 La mantención y administración de estas obras será de cuenta y responsabilidad de sus propietarios.
 
