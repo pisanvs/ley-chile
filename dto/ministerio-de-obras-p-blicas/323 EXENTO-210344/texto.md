@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº323 de fecha 31 de marzo de 2003, se expropiaron los lotes de terreno Nos 2 y 3, superficies 888,00 y 764,50 m², rol de avalúo Nº64-387, comuna de Lonquimay, para la obra "Camino Temuco-Melipeuco-Icalma sector Puente Icalma, tramo Km. 132,50000 a Km. 132,88000", IX Región y se acordó el valor de la indemnización con su propietario Carlos Federico Catrileo Domihual, ascendente a la cantidad de $4.479.225.-
+
+Fiscal del Ministerio de Obras Públicas.
