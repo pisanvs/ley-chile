@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.095, de 30 de abril de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs 8 y 9 para la obra ''Ruta 5 Tramo Talca-Chillán Intersección Desnivelada Acceso a Longaví'', Séptima Región, cuyos propietarios son Luis Armando Suazo Roca, rol de avalúo 189-80 inscripción de dominio fs. 461 vta.
+
+Nº 603, año 1994 y Juan Lorenzo Mora Salvo rol de avalúo 189-525, inscripción de Dominio fs. 417 Nº 607, año 1991, ambos de la comuna de Longaví, superficies 166 y 523 m² respectivamente. La Comisión de Peritos integrada por los señores Mario Yáñez Vásquez, Fernando Pinochet de la Barra y Arnoldo Sánchez Muñoz, fijó con fecha 14 de agosto de 1998 el valor provisional de las indemnizaciones en las cantidades de $981.100.- para el lote Nº 8 y $3.204.600.- para el lote Nº 9. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
