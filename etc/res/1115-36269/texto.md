@@ -1,0 +1,3 @@
+Por Resolución N° 1.115, de 18 de junio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase parcialmente la Resolución N° 903, de 1987, de esta Subsecretaría, que autorizó a PESQUERA SAN JOSE S.A., para desarrollar actividades pesqueras extractivas con la nave "Rengo", sólo en lo que se refiere a la autorización para esta nave en el litoral de la II Región sobre los recursos hidrobiológicos señalados en el numeral 4° de la Resolución citada precedentemente.
+
+Valparaíso, 18 de junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
