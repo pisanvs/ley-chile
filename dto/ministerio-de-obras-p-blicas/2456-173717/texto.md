@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.456, de 30 de mayo del 2000, se expropió el lote de terreno Nº4, superficie 286 m2, rol de avalúo 1334-323, comuna de San Carlos, para la obra Concesion Internacional Ruta 5, Tramo: Talca- Chillán, Octava Región y se acordó el valor de indemnización con su propietario Juan Erasmo Carrasco Contreras, ascendente a la cantidad de $1.525.316.
+
+Fiscal del Ministerio de Obras Públicas.
