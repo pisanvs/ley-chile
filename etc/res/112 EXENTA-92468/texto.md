@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta Nº112 del 13 de enero de 1998, conforme artículo 5º transitorio Código Aguas, modificó resolución exenta Nº1.323, del 3 de agosto de 1988, en el sentido de establecer que Vertiente del Potrero Eucaliptus está ubicada en Parcela Nº74 del Proyecto de Parcelación El Carmen, comunas de La Ligua y Cabildo, V Región y no en Reserva Cora Nº4 y la complementó en el sentido de distribuir derechos de agua no considerados entre Parcelas Nºs. 39, 51, 52 Lote B, 60 lotes A y B y 74; Sitios Nºs. 2 al 7, 25, 28 al 32, 34, 36, 38 al 40, 42 al 44, 46, 48 al 50, 53 al 55, 57, 58, 71, 72, 75 al 77, 83 al 91, 94 A y B, 95, 96, 99 al 102, 106, 107, 110, 112, 113 y s/Nº y Reserva Cora Nº 3, todas del Proyecto de Parcelación El Carmen.
+
+Los derechos de aguas se extraen del Estero Las Pataguas; Pozo Los Cardos; Vertiente Poza Aragón; Pozo Alcaparral; Pozos ubicados en Sitios Nºs 6, 25, 28, 39, 40, 44, 46, 55, 58, 72, 75, 83, 84, 107, 110, 112 y s/Nº: Pozos ubicados en parcelas Nºs 39 y 51 y Vertiente Potrero Eucaliptus.
+
+Publicación hecha conforme artículo 13 Ley N° 18.377.- Director Nacional.
