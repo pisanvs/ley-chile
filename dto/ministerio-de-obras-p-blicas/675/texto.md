@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 675, de 25 de julio de 1997, se expropiaron los lotes de terreno Nºs. 59-A y 59-B, superficie 25 y 25 M2, respectivamente, roles de avalúo 4301-4 y 4301-17, comuna de San Joaquín, para la obra Línea 5 del Metro de Santiago, Sector Vicuña Mackenna - Universidad Católica y se acordó precio de indemnización con sus propietarios Claudio Alarcón Zúñiga y otro y José Muñoz Becerra, ascendente a las cantidades de 213,00 UF y 450,00 UF.
+
+Fiscal del Ministerio de Obras Públicas.
