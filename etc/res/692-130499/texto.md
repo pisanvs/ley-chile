@@ -1,0 +1,5 @@
+AUTORIZA A EMPRESA DE DESARROLLO PESQUERO DE CHILE S.A., PARA CONTINUAR DESARROLLANDO ACTIVIDADES PESQUERAS QUE INDICA
+
+Por resolución No. 692, de 11 de Julio de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Empresa de Desarrollo Pesquero de Chile S.A., domiciliada en Santiago, para continuar desarrollando actividades pesqueras autorizadas a Empresa de Desarrollo Pesquero de Chile Ltda., por decreto No. 398, de 1978, del Ministerio de Agricultura y resoluciones No. 141, de 1979, No. 436, de 1981 y No. 37, de 1985, todas de esta Subsecretaría, en la misma forma y condiciones establecidas en el decreto y resoluciones citadas. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 11 de Julio de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
