@@ -1,0 +1,1 @@
+Reglamenta la acumulación de Sueldos Fiscales, Semifiscales y Jubilaciones.
