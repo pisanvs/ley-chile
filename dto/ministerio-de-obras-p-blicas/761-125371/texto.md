@@ -1,0 +1,3 @@
+Por decreto MOP. No. 761, de 29 de mayo de 1998, se expropió el lote de terreno No. 122, superficie 3.944 m2., rol de avalúo en trámite, comuna de Rancagua, obra Mejoramiento Ruta 5 Sur, Sector Pasada por Rancagua Camino Ruta 5 Sur, y se acordó precio de indemnización con sus propietarios Sociedad Comercial y Vitivinícola Los Maitenes y Compañía Limitada y Forestal Copihues S.A., ascendente a la cantidad de $ 48.552.076.
+
+- Fiscal del Ministerio de Obras Públicas.
