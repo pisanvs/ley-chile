@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.385, de 14 de septiembre de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nº s. 142-1 y 143-1; para la obra ''Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector:
+
+Km. 68.400,00 al Km. 95.600,00 By Pass Rancagua'', Sexta Región, que figuran a nombre de Agrícola y Ganadera Reses Ltda., rol de avalúo 11-4, comuna de Olivar, superficies 401 m2 y 273 m2, respectivamente. La comisión de peritos integrada por los señores René Octavio Corvalán Correa, Orlando Antonio Fariña Vásquez y Manuel Hernán Díaz Farfán, fijó con fecha 13 de junio de 2001, el valor provisional de la indemnización en las cantidades de $4.156.941.- para el lote Nº 142-1 y de $1.998.935.- para el lote Nº 143-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
