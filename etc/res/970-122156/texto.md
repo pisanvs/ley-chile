@@ -1,0 +1,3 @@
+Por resolución Nº 970 de 10 de Julio de 1998 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ESPECIALIDADES GASTRONOMICAS S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en calle San Alfonso Nº 1321, comuna Santiago-Centro, Santiago, Región Metropolitana, donde podrá procesar, en las líneas de elaboración que se señalan a continuación, los siguientes recursos hidrobiológicos: Congelado y conservas: Salmón del Atlántico, Salmón plateado, Salmón rey y Jaiba. Los recursos Salmón del Atlántico, Salmón plateado y Salmón rey, deberán provenir de centros de cultivos autorizados.
+
+Valparaíso, 10 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
