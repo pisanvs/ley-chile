@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Por resolución Nº 161, de 26 diciembre 2000, Serviu Región de Tarapacá, conforme decretos leyes Nº 1.523 de 1976 y Nº 2.186 de 1978, y decretos supremos Nº 355 de 1976, 63 de 1996 y decreto Nº 120 de 2000, todos de Vivienda y Urbanismo, dispuso expropiación parcial en 14,25 m2 del inmueble ubicado en Iquique, calle Amunátegui Nº 63, Rol de Avalúo Nº 131-13, de presunto dominio de doña Sonia Mónica Torrico Olivares. Comisión integrada por peritos señores Jorge Romero Ossio, Ricardo Muixi Decona, constructores civiles, y Héctor Ruiz Le-Beuffe, arquitecto, según Informe de Tasación de 13 de diciembre 2000, fijó monto provisional de indemnización en $4.095.282.- pagadera al contado.-
+
+Iván Figueroa Llona, Director Serviu Región de Tarapacá.
