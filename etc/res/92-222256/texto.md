@@ -1,0 +1,5 @@
+AUTORIZA A DON NELSON PATRICIO HENRIQUEZ SAAVEDRA PARA SECAR ALGAS QUE INDICA
+
+Por resolución Nº 92, de 15 de Febrero de 1983, del Director Nacional de Pesca, se autoriza bajo las condiciones y en conformidad a las disposiciones citadas a don Nelsón Patricio Henríquez Saavedra, carnet de identidad Nº 5.117.607-3 de Concepción, domiciliado en calle Los Jazmines Nº 4990, Los Cóndores, Talcahuano, para secar algas de los géneros Gracilaria, Iridaea, Durvillea, Macrocystis, Lessonia, Gigartina, Ulva, Chondrus, y Gymnogorgrus, que adquirirá a recolectores autorizados del litoral comprendido entre la I y XII Región, de acuerdo con las normas contempladas en el decreto Nº 37, de 1976, del Ministerio de Agricultura.
+
+Santiago, 22 de Febrero de 1983.- Iván Petrowitsch F., Capitán de Fragata, Director Nacional de Pesca.
