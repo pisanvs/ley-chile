@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.404, de 29 de noviembre de 2004, de esta Subsecretaría, autorízase a DEL CENTRO S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en camino Bulnes Concepción, kilómetro 16, Quillón, VIII Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco Refrigerado, Congelado, Seco Salado, Conserva, Alga Seca y Deshidratado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 29 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
