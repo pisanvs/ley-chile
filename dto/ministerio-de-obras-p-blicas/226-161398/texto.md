@@ -1,0 +1,3 @@
+Por decreto MOP Nº 226, de 31 de enero de 2000, se expropió el lote de terreno Nº 302, superficie 139 m², rol de avalúo 7849-3, comuna de La Pintana, para la obra Concesión Internacional Ruta 5 Tramo: Santiago-Talca Sector A, Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Odilia González Sandoval, ascendente a la cantidad de $8.841.776.
+
+- Fiscal del Ministerio de Obras Públicas.
