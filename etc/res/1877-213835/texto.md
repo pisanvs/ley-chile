@@ -1,0 +1,3 @@
+Por resolución Nº 1.877, de 14 de agosto de 2003, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 2.413 de 2002, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA ARAUCANIA DOS S.A. para operar la nave "Nautilius", respecto de los recursos Pez espada, en el área marítima de la I a la X Regiones, y Bacalao de profundidad, en el área marítima comprendida entre Punta Liles y el paralelo 47° L.S., en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 14 de agosto de 2003.- Edith Saa Collantes, Subsecretario de Pesca (S).
