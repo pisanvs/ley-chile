@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.847 de 30 de diciembre de 1998, se expropió el lote de terreno No. 111, superficie 5.816,0 m2., comuna de Padre Las Casas, para la obra Concesión Internacional Ruta 5, Tramo Collipulli - Temuco, Sector II: Pillanlelbún - Gorbea, Km. 657,000 a Km. 718.336, Tramo 2: By Pass Temuco y se acordó el valor de indemnización con su propietario Caupolicán Painenao Nahuelche, ascendente a la cantidad de $ 47.222.369.-
+
+Fiscal del Ministerio de Obras Públicas.
