@@ -8634,15 +8634,13 @@ Los importes en moneda extranjera que los bancos paguen a las personas residente
 
 Los bancos están facultados para avalar o afianzar obligaciones con el exterior en moneda extranjera, sin necesidad de solicitar autorización previa al Banco Central de Chile, cuando su objeto sea alguno de los siguientes:
 
-a) Responder del pago de importaciones pagaderas a más de un año plazo;
+a) Responder de créditos recibidos del exterior por empresas del país, que se destinen a facilitar sus exportaciones;
 
-b) Responder de créditos recibidos del exterior por empresas del país, que se destinen a facilitar sus exportaciones;
+b) Responder a préstamos financieros, internados al país de acuerdo al Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile;
 
-c) Responder a préstamos financieros, internados al país de acuerdo al Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile;
+c) Responder como garante directo o como contra fiador o avalista de documentos emitidos en el exterior que sirvan de garantía de calidad de las exportaciones chilenas o de seriedad en el cumplimiento de propuestas abiertas en el extranjero a que concurran exportadores chilenos; y,
 
-d) Responder como garante directo o como contra fiador o avalista de documentos emitidos en el exterior que sirvan de garantía de calidad de las exportaciones chilenas o de seriedad en el cumplimiento de propuestas abiertas en el extranjero a que concurran exportadores chilenos; y,
-
-e) Responder de los pagos que se deriven de las obligaciones generadas por los contratos a futuro celebrados con corredores de Bolsas Oficiales Extranjeras,por las personas autorizadas para ello de conformidad con las disposiciones contenidas en el Capítulo VIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Estas cauciones también pueden
+d) Responder de los pagos que se deriven de las obligaciones generadas por los contratos a futuro celebrados con corredores de Bolsas Oficiales Extranjeras,por las personas autorizadas para ello de conformidad con las disposiciones contenidas en el Capítulo VIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Estas cauciones también pueden
 
 otorgarse mediante cartas de crédito Stand by, las que deben sujetarse a las normas contenidas en este capítulo.
 
@@ -8676,25 +8674,7 @@ En cada oportunidad en que se efectúe un pago, se revertirán los importes regi
 
 7.2. Obligaciones en moneda extranjera.
 
-a) Por coberturas diferidas avaladas o afianzadas.
-
-Las empresas bancarias contabilizarán los avales o fianzas que otorguen en moneda extranjera por importaciones con cobertura diferida, en las siguientes cuentas y en la misma moneda en que se encuentren expresadas las obligaciones caucionadas:
-
-Debe: "Créditos contingentes por avales o fianzas", Subcuenta "Coberturas diferidas cuotas por cubrir", la que se reflejará en la partida 1610 ó 1660 del formulario MB1.
-
-Haber: "Obligaciones contingentes por avales y fianzas", Subcuenta "Coberturas diferidas cuotas por cubrir", de la partida 3610 ó 3660 del formulario MB1.
-
-En cada oportunidad en que se efectúe la cobertura parcial o total de una operación avalada registrada en estas cuentas, se procederá a revertir el importe de ella y a ingresar el saldo vigente, cuando lo hubiere.
-
-En aquellos casos en que se hubiere cubierto anticipadamente una obligación avalada o afianzada correspondiente a una importación con cobertura diferida, se contabilizará a su vez el importe cubierto y avalado, en las siguientes cuentas:
-
-Debe: "Créditos contingentes por avales o fianzas", Subcuenta "Coberturas diferidas cuotas cubiertas", cuyo saldo se demostrará en la partida 1610 ó 1660 del formulario MB1.
-
-Haber: "Obligaciones contingentes por avales y fianzas", Subcuenta "Coberturas diferidas cubiertas", de la partida 3610 ó 3660 del formulario MB1.
-
-En la oportunidad en que se proceda a pagar al acreedor la obligación avalada y cubierta anticipadamente, se revertirá la contabilización efectuada en las referidas cuentas, por el importe respectivo.
-
-b) Otros avales en moneda extranjera.
+Los avales o fianzas que se otorguen para caucionar cualesquiera de las obligaciones señaladas en el numeral 6.1 precedente, se registrarán por sus respectivos valores en moneda extranjera en las cuentas:
 
 Los avales o fianzas que se otorguen para caucionar cualesquiera de las obligaciones señaladas en las letras b), c), d) y e) del numeral 6.1 precedente, se registrarán por sus respectivos valores en moneda extranjera en las cuentas:
 
