@@ -1,0 +1,1 @@
+Modifica las Plantas Permanentes del personal de la Secretaría y Administración General del Ministerio de Justicia
