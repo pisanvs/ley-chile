@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.979, de 16 de mayo del 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió entre otros el lote de terreno Nº 92, superficie 209 m2., rol de avalúo 202-77, comuna de Chimbarongo, Sexta Región, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector I: Km. 140.850,00 - Km. 151.500,00. Posteriormente, por decreto MOP Nº 3.567, de 31 de julio del 2000, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con su propietaria María del Carmen Briones Valenzuela, ascendente a la cantidad de $28.588.288.-
+
+Fiscal del Ministerio de Obras Públicas.
