@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº584, de 30 de abril de 1998, se expropió el lote de terreno Nº7, superficie 1.495 m2., rol de avalúo 62.374, comuna de Ñiquén, para la obra Ruta 5, Tramo Talca-Chillán, Intersecciones Desniveladas, Acceso a Las Rosas y se acordó precio de indemnización con su propietario don Luis Alberto Acuña Morales, ascendente a la cantidad de $18.938.793.
+
+Fiscal del Ministerio de Obras Públicas.
