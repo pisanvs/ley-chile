@@ -1,0 +1,3 @@
+Por Resolución N° 243, de 6 de Febrero de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por SALMONES MULTIEXPORT LIMITADA, para el centro de cultivo ubicado en Huyar Bajo, Isla Quinchao, Comuna de Curaco de Vélez, Provincia de Chiloé, X Región, en virtud de lo dispuesto en el artículo 78 inciso 2° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 6 de Febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
