@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº228 de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº2, superficie 725 m², rol de avalúo 630-43, comuna de Teodoro Schmidt, para la obra "Ruta S-60, Sector Freire-Teodoro Schmidt, Tramo Km. 19,200 al Km. 34,594" y se acordó el valor de indemnización con su propietario Raúl Francisco Huircán Mora, ascendente a la cantidad de $399.792.-
+
+Fiscal del Ministerio de Obras Públicas.
