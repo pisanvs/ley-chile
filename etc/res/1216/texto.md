@@ -1,0 +1,3 @@
+Por resolución N° 1.216 de 10 de Diciembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 50, de 1990, de esta Subsecretaría, que autorizó a don JUAN SEBASTIAN VERA SILVA, R.U.T. N° 5.630.202-6, domiciliado en Los Lingues N° 521, Valdivia, para realizar faenas de pesca extractiva con la nave "Doña Coca", por renuncia de su titular, ya individualizado.
+
+Valparaíso, 10 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
