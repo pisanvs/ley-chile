@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 598 de fecha 30 de junio del 2003, se expropiaron los lotes de terreno Nºs. 23-A y 28-B, superficie 73 y 135 m² respectivamente, rol de avalúo Nºs. 526-89 y 526-90, comuna de Linares, VII Región para la obra "Camino Ruta L-32, Sector: Cruce Ruta 5-Puente Sifón, Tramo: Km. 2,320 a Km. 17,666.44 y Km. 0,000 - Km. 0,963 (Variante)" indemnización con su propietaria Deidamia del Carmen Campos Vásquez, ascendente a la cantidad de $447.391.-
+
+Fiscal del Ministerio de Obras Públicas.
