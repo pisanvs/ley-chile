@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.786, de 29 de diciembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 48-B, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector B: Km. 42.950,00 al Km.
+
+55.200,00, Región Metropolitana, que figura a nombre de Olea Poblete Eugenio, rol de avalúo 120-39, comuna de Paine, superficie 1.015 m2. La Comisión de Peritos integrada por los señores Victoria Adriana Blanco Costa, Enrique Eduardo Eugenio Lagos Ffrench-Davis y Carlos Albrecht Viveros, fijó con fecha 22 de julio de 1999, el valor provisional de la indemnización en la cantidad de $9.206.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
