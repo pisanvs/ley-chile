@@ -1,0 +1,5 @@
+AUTORIZA A DON RENE CUPERTINO BOLADOS CONTRERAS PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 612 de 01 de Octubre de 1985 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don René Cupertino Bolados Contreras, R.U.T. N° 8.284.191-1, domiciliado en Iquique, calle Serrano 142. para operar la embarcación de casco de madera de 20 toneladas de registro neto, denominada "Don Cupertino", en el litoral comprendido entre la I y II Región, en labores extractivas de los siguientes recursos: sardina española, juret, anchoa y caballa. Además podrá extraer con dicha nave, las especies denominadas bonito, cojinova, corvina, chancharro y atunes, que deber destinar a la industria conserva y congelado, para lo cual deberá tener a bordo de la embarcación sistema de refrigeración o de mantención adecuados, tales como, contenedores de hielo, cajas con hielo, etc.
+
+Valparaíso, 01 de Octubre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
