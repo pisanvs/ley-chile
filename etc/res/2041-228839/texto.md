@@ -1,0 +1,3 @@
+Por resolución Nº 2.041, de 4 de agosto de 2004, de esta Subsecretaría, declárase la caducidad de la autorización de acuicultura otorgada mediante resolución Nº 1.128 de 1997, de esta Subsecretaría, a HILARIO CONDORI TANCARA, para una piscicultura ubicada en la localidad de Guacoyo, I Región, en virtud del artículo 142 letra e) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 4 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
