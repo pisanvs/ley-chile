@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.770, de 22 de octubre de 2002 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1A-1 para la obra: Camino: ''Santiago - Colina - Los Andes, Sector: ''C'' Peldehue - Casas de Chacabuco. Km.
+
+26.000,00 a Km. 26.400,00", Región Metropolitana, que figura a nombre de Cía. Minera Disputada de Las Condes, rol de avalúo 185-11, comuna de Colina, superficie 1.465 m². La comisión de peritos integrada por los señores, María Cristina Camus Palacios, Carmen Pilar Ríos Marcuello y Gustavo Antonio Domínguez Errázuriz, fijó con fecha 29 de diciembre de 1999, el valor provisional de la indemnización en la cantidad de $5.834.500. La indemnización se pagará al contado. La se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
