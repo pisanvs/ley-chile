@@ -1,0 +1,1565 @@
+FIJA NUEVO SISTEMA DE COTIZACIONES PREVISIONALES Y DEROGA DISPOSICIONES LEGALES QUE INDICA
+
+Santiago, 4 de Noviembre de 1980.- Hoy se dictó el siguiente:
+
+Núm. 3.501.- Visto: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974; y 991, de 1976, y
+
+Considerando:
+
+1.- Que el nuevo sistema de pensiones creado por el decreto ley número 3.500, de 1980, establece cotizaciones inferiores a las de los régimenes anteriores y, como consecuencia de ello es necesario impedir que la diferencia en el monto de las cotizaciones se refleje en un menor costo de contratación de los afiliados al nuevo sistema.
+
+2.- Que el sistema establecido en el decreto ley señalado en el número anterior, no contempla un régimen especial de dasahucio o indemnización por años de servicios, por lo que se hace necesario reconocer la parte de dichos beneficios que se haya devengado hasta el momento de la opción.
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Las remuneraciones imponibles de los trabajadores dependientes, afiliados a las instituciones que a continuación se indican, sólo estarán afectas a las siguientes cotizaciones, las que serán de cargo de aquéllos:
+
+======================================================
+
+INSTITUCIONES 1 2 3 4
+
+------------------------------------------------------
+
+1.- Caja de Empleados
+
+Particulares y sus
+
+organismos auxiliares.
+
+a) Régimen General_ _ 4,55% 1,14% 20,15% _ _ _
+
+b) Liberados de Impo-
+
+siciones afectos al
+
+#### Artículo 14
+
+, inciso
+
+final de la ley N°
+
+10.475 _ _ _ _ _ _ _ 4,55% 1,14% 12,40% _ _ _
+
+c) Funcionarios de la
+
+Caja de Previsión de
+
+los Empleados Parti-
+
+culares, del Servicio
+
+de Seguro Social y
+
+del Departamento de
+
+Indemnización de
+
+Obreros Molineros y
+
+Panificadores _ _ _ _ 4,58% 5,1% 19,27% _ _ _
+
+d) Funcionarios de la
+
+Caja de Previsión de
+
+Empleados Particula-
+
+res, del Servicio de
+
+Seguro Social y del
+
+departamento de In-
+
+demnización de Obre-
+
+ros Molineros y Pani-
+
+ficadores, afectos
+
+al artículo 14, inci-
+
+so final de ley N°
+
+10.475_ _ _ _ _ _ _ _ 4,58% 5,1% 12,46% _ _ _
+
+e) Funcionarios del ex
+
+Servicio Nacional de
+
+Salud _ _ _ _ _ _ _ _ 2,88% 6,27% 19,33% _ _ _
+
+f) Funcionarios del ex
+
+Servicio Nacional de
+
+Salud liberados de
+
+imposiciones en virtud
+
+del artículo 14, inci-
+
+so final de la ley N°
+
+10.475_ _ _ _ _ _ _ _ 2,88% 6,27% 12,51% _ _ _
+
+2.- Caja Bancaria de
+
+Pensiones _ _ _ _ _ _ 4,57% 1,12% 22,59% _ _ _
+
+3.- Caja de Previsión y
+
+Estímulo de los
+
+Empleados del Banco de
+
+Chile _ _ _ _ _ _ _ _ 5,04% 1,20% 22,34% - - -
+
+4.- Sección de Previ-
+
+sión del Banco Central
+
+de Chile_ _ _ _ _ _ _ 4,16% 1,07% 26,92% - - -
+
+5.- Caja de Previsión
+
+y Estímulo de los Em-
+
+pleados del
+
+Banco del Estado de
+
+Chile.
+
+a) Régimen General y
+
+Empleados de la Caja_ 1,92% 4,62% 25,38% - - -
+
+b) Ex-Funcionarios de
+
+la ex-Caja de Acci-
+
+dentes del Trabajo_ _ 1,15% 4,58% 26,69% - - -
+
+c) Funcionarios de la
+
+Superintendencia de
+
+Bancos e Instituciones
+
+Financieras _ _ _ _ _ 1,16% 4,65% 25,58% - - -
+
+6.- Caja de Previsión
+
+de la Marina Mercante
+
+Nacional Oficiales y
+
+Empleados.
+
+a) Régimen General_ _ 5,43% 3,46% 18,27% _ _ _
+
+b) Empleados de Bahía
+
+eventuales y discon-
+
+tinuos_ _ _ _ _ _ _ _ 5,33% 3,40% 19,40% _ _ _
+
+c) Funcionarios de la
+
+Caja y empleados de
+
+la Empresa Portuaria
+
+de Chile afectos al
+
+régimen de desahucio
+
+contemplado en el
+
+#### Artículo 40
+
+de la Ley
+
+N° 15.386 y _ _ _ _ _ 4,52% 3,43% 19,57% _ _ _
+
+d) Funcionarios de la
+
+Caja, empleados de la
+
+Empresa Portuaria de
+
+Chile y demás Impo-
+
+nentes afectos al
+
+régimen de desahucio
+
+contemplado en el
+
+decreto con fuerza de
+
+ley N° 338, de 1960 _ 4,6% 5,19% 19,70% _ _ _
+
+7.- Caja de Previsión
+
+de la Marina Mercante
+
+Nacional, Sección
+
+Tripulantes de Naves
+
+y Operarios Marítimos 3,89% _ _ _ 20,52% _ _ _
+
+8.- Caja de Previsión
+
+de la Hípica Nacional
+
+a) Empleados_ _ _ _ _ 4,71% _ _ _ 18,64% _ _ _
+
+b) Cuidadores de Ca-
+
+ballos de carrera _ _ 4,00% _ _ _ 19,35% _ _ _
+
+9.- Servicio de Seguro
+
+Social.
+
+a) Régimen General_ _ 3,74% _ _ _ 19,10% _ _ _
+
+b) Obreros del Minis-
+
+terio de Obras
+
+Públicas_ _ _ _ _ _ _ 3,74% 3,33% 19,09% _ _ _
+
+10.- Caja de Previsión
+
+de Empleados y Obreros
+
+de la Empresa Metropo-
+
+litana de Obras Sani-
+
+tarias: Departamento
+
+Empleados _ _ _ _ _ _ 3,96% 6,61% 20,91% _ _ _
+
+11.- Caja de Previsión
+
+de Empleados y obreros
+
+de la Empresa Metropo-
+
+litana de Obras Sani-
+
+tarias: Departamento
+
+Obreros _ _ _ _ _ _ _ 2,61% _ _ _ 20,43% _ _ _
+
+12.- Caja de Retiro y
+
+Previsión Social de
+
+los Ferrocarriles del
+
+Estado.
+
+a) Régimen General,
+
+empleados con menos
+
+de 10 años de ser-
+
+vicios_ _ _ _ _ _ _ _ 4,0% _ _ _ 22,34% _ _ _
+
+b) Régimen General,
+
+empleados entre 10 y
+
+20 años de servicios_ 4,0% _ _ _ 22,33% _ _ _
+
+c) Régimen General,
+
+empleados con más de
+
+20 años de servicios_ 4,0% _ _ _ 22,33% _ _ _
+
+d) Empleados de la
+
+Caja al 31 de Octubre
+
+de 1970 con menos de
+
+10 años de servicios_ 4,0% 1,84% 10,4% _ _ _
+
+e) Empleados de la
+
+Caja al 31 de Octubre
+
+de 1970 entre 10 y 20
+
+años de servicios _ _ 4,0% 2,76% 10,41% _ _ _
+
+f) Empleados de la
+
+Caja al 31 de Octubre
+
+de 1970 con más de 20
+
+años de servicios _ _ 4,0% 3,68% 10,41% _ _ _
+
+g) Empleados de la
+
+Caja que ingresaron
+
+después del 31 de
+
+Octubre de 1970 _ _ _ 4,0% 5,5% 9,51% _ _ _
+
+13.- Caja Nacional de
+
+Empleados Públicos y
+
+Periodistas: Sección
+
+Empleados Públicos.
+
+a) Régimen General,
+
+Empleados Públicos_ _ 3,59% 5,29% 19,03% _ _ _
+
+b) Empleados del
+
+Sector Privado_ _ _ _ 4.37% 7,19% 13,94% _ _ _
+
+c) Funcionarios Semi-
+
+fiscales y funciona-
+
+rios de la Caja al 31
+
+de Octubre de 1970_ _ 3,54% 7,25% 13,01% _ _ _
+
+d) Funcionarios del
+
+ex-Servicio Nacional
+
+de Salud_ _ _ _ _ _ _ 3,59% 5,29% 19,03% _ _ _
+
+e) Funcionarios del
+
+Instituto de Seguros
+
+del Estado_ _ _ _ _ _ 4,71% 5,58% 15,04% _ _ _
+
+f) Funcionarios de la
+
+Universidad de
+
+Concepción_ _ _ _ _ _ 4,71% _ _ _ 14,97% _ _ _
+
+g) Funcionarios de la
+
+Empresa de Transportes
+
+Colectivos del Estado. 4,71% 5,58% 13,90% _ _ _
+
+h) Funcionarios de la
+
+Empresa Portuaria de
+
+Chile _ _ _ _ _ _ _ _ 3,81% 5,63% 15,91% _ _ _
+
+i) Funcionarios de la
+
+Empresa Nacional
+
+de Petróleo _ _ _ _ _ 4,37% 7,19% 12,90% _ _ _
+
+j) Funcionarios de la
+
+Empresa Nacional
+
+de Minería_ _ _ _ _ _ 4,37% 7,19% 13,90% _ _ _
+
+k) Empleados de Nota-
+
+ría, Conservadores y
+
+Archiveros Judiciales. 4,45% 5,29% 14,18% _ _ _
+
+13 bis.- Caja Nacional
+
+de Empleados Públicos:
+
+y Periodistas; Sección
+
+Empleados Públicos;
+
+Imponentes afectos a la
+
+rebaja de imposiciones
+
+establecida en la letra
+
+a) del artículo 14 del
+
+decreto con fuerza de
+
+ley N° 1.340 bis, de
+
+1930;
+
+a) Régimen General,
+
+Empleados Públicos_ _ 3,59% 5,29% 14,61% _ _ _
+
+b) Empleados del Sector
+
+Privado _ _ _ _ _ _ _ 4,37% 7,19% 9,62% _ _ _
+
+c) Funcionarios Semi-
+
+fiscales y funciona-
+
+rios de la Caja al
+
+31 de Octubre de 1970 3,54% 7,25% 9,66% _ _ _
+
+d) funcionarios del ex-
+
+Servicio Nacional de
+
+Salud _ _ _ _ _ _ _ _ 3,59% 5,29% 14,61% _ _ _
+
+e) Funcionarios del
+
+Instituto de Seguros
+
+del Estado_ _ _ _ _ _ 4,71% 5,58% 10,40% _ _ _
+
+f) Funcionarios de la
+
+Universidad de Concep-
+
+ción_ _ _ _ _ _ _ _ _ 4,71% _ _ _ 10,32% _ _ _
+
+g) Funcionarios de la
+
+Empresa de Transportes
+
+Colectivos del Estado. 4,71% 5,58% 9,25% _ _ _
+
+h) Funcionarios de la
+
+Empresa Portuaria de
+
+Chile _ _ _ _ _ _ _ _ 3,81% 5,63% 11,22% _ _ _
+
+i) Funcionarios de la
+
+Empresa Nacional de
+
+Petróleos _ _ _ _ _ _ 4,37% 7,19% 8,58% _ _ _
+
+j) Funcionarios de la
+
+Empresa Nacional de
+
+Minería _ _ _ _ _ _ _ 4,37% 7,19% 9,58% _ _ _
+
+k) Empleados de Nota-
+
+rías, Conservadores
+
+Archiveros Judiciales 4,45% 5,29% 9,78% _ _ _
+
+14.- Caja Nacional de
+
+Empleados Públicos y
+
+Periodistas, Departa-
+
+mento Periodistas.
+
+a) Régimen General_ _ 3,42% 7,0% 16,62% _ _ _
+
+b) Régimen General,
+
+ambiente tóxico y
+
+trabajo nocturno_ _ _ 3,39% 6,95% 17,61% _ _ _
+
+c) Periodistas_ _ _ _ 3,42% 7,0% 17,76% _ _ _
+
+d) Periodistas,
+
+ambiente tóxico y
+
+trabajo nocturno_ _ _ 3,39% 6,95% 18,44% _ _ _
+
+e) Trabajadores de
+
+Imprentas de Obras_ _ 4,53% 6,95% 16,47% _ _ _
+
+f) Trabajadores de
+
+Imprentas de Obras,
+
+ambiente tóxico y
+
+trabajos nocturnos_ _ 4,49% 6,89% 17,16% _ _ _
+
+g) Trabajadores de
+
+Imprentas de Obras,
+
+afectos al artículo
+
+33 de la Ley N°
+
+17.322_ _ _ _ _ _ _ _ 4,87% _ _ _ 16,66% _ _ _
+
+h) Trabajadores de
+
+Imprentas de Obras
+
+ambiente tóxico y
+
+trabajo nocturno,
+
+afectos al artículo
+
+33 de la Ley
+
+N° 17.322 _ _ _ _ _ _ 4,82% _ _ _ 17,39% _ _ _
+
+14 bis.- Caja Nacional
+
+de Empleados Públicos
+
+y Periodistas, Depar-
+
+tamento Periodistas
+
+liberados de imposi-
+
+ciones:
+
+a) Régimen General_ _ 3,42% 7,0% 8,51% _ _ _
+
+b) Régimen General,
+
+ambiente tóxico y
+
+trabajo nocturno _ _ 3,39% 6,95% 9,26% _ _ _
+
+c) Periodistas_ _ _ _ 3,42% 7,0% 9,34% _ _ _
+
+d) Periodistas, am-
+
+biente tóxico y tra-
+
+bajo nocturno _ _ _ _ 3,39% 6,95% 10,09% _ _ _
+
+e) Trabajadores de
+
+Imprentas de Obras_ _ 4,53% 6,95% 8,12% _ _ _
+
+f) Trabajadores de
+
+Imprentas de Obras,
+
+ambiente tóxico y
+
+trabajo nocturno_ _ _ 4,49% 6,89% 8,88% _ _ _
+
+g) Trabajadores de
+
+Imprentas de Obras,
+
+afectos al artículo
+
+33 de la Ley
+
+N° 17.322 _ _ _ _ _ _ 4,87% _ _ _ 7,69% _ _ _
+
+h) Trabajadores de
+
+Imprentas de Obras,
+
+ambiente tóxico y
+
+trabajo nocturno,
+
+afectos al artículo
+
+33 de la Ley
+
+N° 17.322 _ _ _ _ _ _ 4,82% _ _ _ 8,50% _ _ _
+
+14 bis 1.- Caja Nacio-
+
+nal de Empleados Pú-
+
+blicos y Periodistas,
+
+Departamento Perio-
+
+distas, Imponentes
+
+afectos al desahucio
+
+del decreto con fuer-
+
+za de ley N° 338, de
+
+1960:
+
+a) Régimen General_ _ 3,68% 5,43% 18,18% _ _ _
+
+b) Régimen General,
+
+ambiente tóxico y
+
+trabajo nocturno_ _ _ 3,64% 5,38% 18,93% _ _ _
+
+c) Periodistas_ _ _ _ 3,68% 5,43% 19,09% _ _ _
+
+d) Periodistas,
+
+ambiente tóxico y
+
+trabajo nocturno_ _ _ 3,64% 5,38% 19,82% _ _ _
+
+e) Trabajadores de
+
+Imprenta de Obras _ _ 4,87% 5,38% 17,70% _ _ _
+
+f) Trabajadores de
+
+Imprentas de Obras,
+
+ambiente tóxico y
+
+trabajo nocturno_ _ _ 4,82% 5,33% 18,44% _ _ _
+
+14 bis 2.- Caja Nacio-
+
+nal de Empleados Pú-
+
+blicos y Periodistas,
+
+Departamento Perio-
+
+distas, Imponentes
+
+afectos al desahucio
+
+del decreto con fuer-
+
+za de ley N° 338, de
+
+1960, liberados de
+
+imposiciones:
+
+a) Régimen General_ _ 3,68% 5,43% 9,13% _ _ _
+
+b) Régimen General,
+
+ambiente tóxico y
+
+trabajo nocturno_ _ _ 3,64% 5,38% 9,96% _ _ _
+
+c) Periodistas_ _ _ _ 3,68% 5,43% 10,04% _ _ _
+
+d) Periodistas,
+
+ambiente tóxico y
+
+trabajo nocturno_ _ _ 3,64% 5,38% 10,85% _ _ _
+
+e) Trabajadores de
+
+Imprentas de Obras_ _ 4,87% 5,38% 8,73% _ _ _
+
+f) Trabajadores de
+
+Imprentas de Obras,
+
+ambiente tóxico y
+
+trabajo nocturno_ _ _ 4,82% 5,33% 9,55% _ _ _
+
+15.- Caja de Previsión
+
+de los Empleados
+
+Municipales de
+
+Santiago.
+
+a) Régimen General y
+
+Funcionarios de la
+
+Dirección de Pavimen-
+
+tación de Santiago_ _ 4,03% 7,5% 18,89% _ _ _
+
+b) Empleados de la
+
+Caja_ _ _ _ _ _ _ _ _ 4,87% 10,28% 15,42% _ _ _
+
+c) Empleados de la
+
+Caja de Obreros Muni-
+
+cipales de la
+
+República _ _ _ _ _ _ 4,03% 5,0% 23,07% _ _ _
+
+16.- Caja de Previsión
+
+Social de los Emplea-
+
+dos Municipales de
+
+Valparaíso.
+
+a) Régimen General_ _ 4,79% 7,9% 17,73% _ _ _
+
+b) Empleados de la
+
+Caja_ _ _ _ _ _ _ _ _ 4,79% 14,03% 13,68% _ _ _
+
+17.- Caja de Retiro y
+
+Previsión de los
+
+Empleados Municipales
+
+de la República.
+
+a) Régimen General_ _ 3,8% 4,12% 21,71% _ _ _
+
+b) Empleados de la
+
+Caja al 31 de Octubre
+
+de 1970 _ _ _ _ _ _ _ 3,8% 4,12% 21,71% _ _ _
+
+c) Empleados de la Ca-
+
+ja ingresados con
+
+posterioridad al 31 de
+
+Octubre de 1970 _ _ _ 3,97% 5,15% 22,64% _ _ _
+
+18.- Caja de Previsión
+
+Social de los Obreros
+
+Municipales de la
+
+República.
+
+a) Régimen General_ _ 4,0% _ _ _ 20,59% _ _ _
+
+b) Imponentes de la
+
+ex Caja de Previsión
+
+de los Obreros Muni-
+
+cipales de Santiago _ 4,0% _ _ _ 22,22% _ _ _
+
+18 bis.- Caja de Pre-
+
+visión Social de los
+
+Obreros
+
+Municipales de la
+
+República, impo-
+
+nentes liberados de
+
+imposiciones:
+
+a) Régimen General_ _ 4,0% _ _ _ 13,92% _ _ _
+
+b) Imponentes de la
+
+ex Caja de Previsión
+
+de los Obreros Muni-
+
+cipales de Santiago_ _ 4,0% _ _ _ 13,92% _ _ _
+
+Las cotizaciones a que se refiere el inciso anterior tendrán los siguientes destinos:
+
+a) Las de las columnas 1 y 2, al financiamiento de los beneficios de salud de los correspondientes regímenes, de los desahucios o indemnizaciones por años de servicios y de las pensiones y su revalorización, respectivamente;
+
+b) Las de la columna 3, al financiamiento de las pensiones y su revalorización y de la asignación por muerte establecida en el decreto con fuerza de ley N° 90, 1978, del Ministerio del Trabajo y Previsión Social;
+
+c) Derogada.-
+
+Dichas cotizaciones deberán ser deducidas por el empleador de las remuneraciones del trabajador y pagadas en las Instituciones de previsión respectivas, aplicándose para todos los efectos las disposiciones de la Ley N° 17.322.
+
+Las tasas de cotizaciones contempladas en este artículo, se aplicarán sobre todas las remuneraciones imponibles, cualquiera que sea su carácter o naturaleza.
+
+Los trabajadores del Ministerio de Obras Públicas afiliados a la Sección Tripulantes de Naves y Operarios Marítimos de la Caja de Previsión de la Marina Mercante Nacional y afectos al régimen de desahucio establecido en los artículos 80 de la Ley N° 15.840 y 2° de la Ley N° 17.326, deberán efectuar una cotización de 3,46% de sus remuneraciones imponibles, destinada al financiamiento del Fondo de Desahucio a que se refieren dichas normas. Lo dispuesto en este inciso es sin perjuicio de las cotizaciones establecidas en el N° 7 del inciso primero de este artículo.
+
+> **Nota.** NOTA: 1 El artículo 3°, inciso primero, de la ley 18196, dispuso lo siguiente: Establécese, a contar del 1° de enero y hasta el 30 de junio de 1983, una cotización de un 1% sobre las remuneraciones imponibles de los trabajadores dependientes a que se refiere el artículo 1° del decreto ley 3.501, de 1980. Esta cotización incrementará la establecida en la columna 1 del referido artículo 1° y será de cargo de los trabajadores de que se trata. A contar del 1° de julio de 1983, la cotización referida será de 2%. Posteriormente, el artículo 8°, inciso tercero, de la ley 18482 estableció, a contar del 1° de enero de 1986 una cotización de un 1% sobre las remuneraciones imponibles de los trabajadores dependientes a que se refiere el artículo 1° del presente decreto ley. Esta cotización incrementará la establecida en la columna 1 del referido artículo 1° y será de cargo de los trabajadores de que se trata.
+
+> **Nota.** NOTA: 1.1.- El inciso final del artículo 5° de la Ley 18.737, dispone que para los efectos del cálculo de las pensiones que otorguen las Cajas de Previsión señaladas en el artículo 1° del presente decreto ley, incluidas las por aplicación del artículo 129 del decreto con fuerza de ley N° 338, de 1960, las remuneraciones y bonificaciones, imponibles para las cotizaciones de pensiones a que se refiere este artículo, serán consideradas conforme a la normativa del artículo 15 de la ley N° 18.675.
+
+> **Nota.** NOTA: 1.2.- Ver artículos 64 y 65 de la ley 18.768, publicada en el "Diario Oficial" de 29 de diciembre de 1988, que reglamenta el presente artículo, a contar del 1° de marzo de 1989.
+
+> **Nota.** NOTA: 1.3.- El artículo 66 de la ley 18.768, publicada en el "Diario Oficial" de 29 de diciembre de 1988, dispone que, a contar del 1° de abril de 1989, a los imponentes voluntarios de las instituciones de previsión fiscalizados por la Superintendencia de Seguridad Social les serán aplicables las tasas de cotización establecidas en el artículo 1° del presente decreto ley, correspondientes a la entidad y regímenes a que estuvieren afectos.
+
+> **Nota.** NOTA: 2 Las modificaciones introducidas por la ley 18546 rigen a contar del 1° del mes subsiguiente al de su publicación, efectuada el 17 de septiembre de 1986.(ley 18.546, art. 8°).
+
+> **Nota.** NOTA: 2.1 El Artículo 10, N° 1.- de la Ley N° 19.350, publicada en el "Diario Oficial" de 14 de Noviembre de 1994, suprimió las cotizaciones señaladas en la columna 4 del inciso primero del presente artículo, a partir del 1° del mes siguiente al de su publicación.
+
+> **Nota.** NOTA: 2.2 El Artículo 10, N° 2.- de la Ley N° 19.350, publicada en el "Diario Oficial" de 14 de Noviembre de 1994, eliminó lo señalado en su letra c), a partir del 1° del mes siguiente al de su publicación.
+
+> **Nota.** NOTA: 3 El artículo único de la Ley N° 18.548, publicada el 17 de septiembre de 1986, dispuso la supresión, a contar del día 1° del mes subsiguiente al de su publicación, de las cotizaciones establecidas en la columna 2 del inciso primero del artículo 1° de este Decreto Ley, respecto de los trabajadores que con anterioridad al 14 de agosto de 1981, se encontraban afectos al artículo 38 de la Ley N° 7.295, así como también respecto de aquellos trabajadores que comenzaron a desempeñarse con posterioridad al 13 de agosto de 1981 y que han tenido la obligación de efectuar las cotizaciones que se suprimen.
+
+#### Artículo 2°
+
+Los trabajadores dependientes afiliados a las instituciones de previsión indicadas en el artículo precedente, mantendrán el monto líquido de sus remuneraciones.
+
+Sólo para este efecto y para la aplicación de lo dispuesto en el artículo anterior, increméntanse las remuneraciones de estos trabajadores, en la parte afecta a imposiciones al 28 de Febrero de 1981, mediante la aplicación de los factores que a continuación se indican:
+
+1.- Caja de Previsión de Empleados
+
+Particulares y sus organismos
+
+auxiliares
+
+a) Régimen General_ _ _ _ _ _ _ _ _ 1,182125
+
+b) Liberados de Imposiciones afectos
+
+al artículo 14 inciso final de
+
+la ley N° 10.475_ _ _ _ _ _ _ _ _ 1,182125
+
+c) Funcionarios de la Caja de
+
+Previsión de Empleados
+
+Particulares, del Servicio de
+
+Seguro Social y del Departamento
+
+de Indemnización de Obreros
+
+Molineros y Panificadores _ _ _ _ 1,1754
+
+d) Funcionarios de la Caja de
+
+Previsión de Empleados
+
+Particulares del Servicio de
+
+Seguro Social y del Departamento
+
+de Indemnización de Obreros
+
+Molineros y Panificadores, afectos
+
+al artículo 14 inciso final de la
+
+ley N° 10.475 _ _ _ _ _ _ _ _ _ _ 1,1754
+
+e) Funcionarios del ex Servicio
+
+Nacional de Salud _ _ _ _ _ _ _ _ 1,172125
+
+f) Funcionarios del ex Servicio
+
+Nacional de Salud liberados de
+
+imposiciones en virtud del
+
+#### Artículo 14
+
+inciso final de la
+
+ley N° 10.475 _ _ _ _ _ _ _ _ _ _ 1,172125
+
+2.- Caja Bancaria de Pensiones_ _ _ _ 1,196725
+
+3.- Caja de Previsión y Estímulo de
+
+los Empleados del Banco de Chile. 1,201725
+
+4.- Sección de Previsión del Banco
+
+Central de Chile_ _ _ _ _ _ _ _ _ 1,262525
+
+5.- Caja de Previsión y Estímulo de
+
+los Empleados del Banco del Estado
+
+de Chile
+
+a) Régimen General y Empleados de la
+
+Caja _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 1,30
+
+b) Ex funcionarios de la ex Caja de
+
+Accidentes del Trabajo _ _ _ _ _ _ 1,310
+
+c) Funcionarios de la Superintendencia
+
+de Bancos e Instituciones
+
+Financieras_ _ _ _ _ _ _ _ _ _ _ _ 1,290
+
+6.- Caja de Previsión de la Marina
+
+Mercante Nacional Oficiales y
+
+Empleados.
+
+a) Régimen General _ _ _ _ _ _ _ _ _ 1,1558
+
+b) Empleados de Bahía eventuales y
+
+discontinuos _ _ _ _ _ _ _ _ _ _ _ 1,1758
+
+c) Funcionarios de la Caja y empleados
+
+de la Empresa Portuaria de Chile
+
+afectos al régimen de desahucio
+
+contemplado en el artículo 40 de
+
+la Ley N° 15.386 _ _ _ _ _ _ _ _ _ 1,1658
+
+d) Funcionarios de la Caja, empleados
+
+de la Empresa Portuaria de Chile y
+
+demás imponentes afectos al
+
+régimen de desahucio contemplado
+
+en el decreto con fuerza de ley
+
+N° 338, de 1960 _ _ _ _ _ _ _ _ _ _ 1,1558
+
+7.- Caja de Previsión de la Marina
+
+Mercante Nacional, Sección
+
+Tripulantes de Naves y Operarios
+
+Marítimos_ _ _ _ _ _ _ _ _ _ _ _ 1,1575
+
+8.- Caja de Previsión de la Hípica
+
+Nacional
+
+a) Empleados _ _ _ _ _ _ _ _ _ _ _ _ 1,2068
+
+b) Cuidadores de caballos de carrera. 1,2133
+
+9.- Servicio de Seguro Social
+
+a) Régimen General_ _ _ _ _ _ _ _ _ 1,2020
+
+b) Obreros del Ministerio de Obras
+
+Públicas _ _ _ _ _ _ _ _ _ _ _ _ 1,2020
+
+c) Trabajadores Agrícolas _ _ _ _ _ 1,2020
+
+10.- Caja de Previsión de Empleados y
+
+Obreros de la Empresa
+
+Metropolitana de Obras Sanitarias:
+
+Departamento Empleados_ _ _ _ _ _ 1,2600
+
+11.- Caja de Previsión de Empleados y
+
+Obreros de la Empresa
+
+Metropolitana de Obras Sanitarias:
+
+Departamento Obreros_ _ _ _ _ _ _ 1,1500
+
+12.- Caja de Retiro y Previsión Social
+
+de los Ferrocarriles del Estado
+
+(imponentes con o sin la rebaja de
+
+imposiciones de la letra a) del
+
+#### Artículo 14
+
+del decreto con fuerza
+
+de ley N° 1.340 bis, de 1930).
+
+a) Régimen General_ _ _ _ _ _ _ _ _ 1,2625
+
+b) Funcionarios de la Caja _ _ _ _ _ 1,0865
+
+13.- Caja Nacional de Empleados
+
+Públicos y Periodistas: Sección
+
+Empleados Públicos
+
+(imponentes con o sin la rebaja de
+
+imposiciones de la letra a) del
+
+#### Artículo 14
+
+del decreto con fuerza
+
+de ley N° 1.340 bis, de 1930).
+
+a) Régimen General, empleados
+
+públicos _ _ _ _ _ _ _ _ _ _ _ _ 1,1305
+
+b) Empleados del Sector Privado_ _ _ 1,1533
+
+c) Funcionarios Semifiscales y
+
+funcionarios de la Caja al 31 de
+
+Octubre de 1970 _ _ _ _ _ _ _ _ _ 1,1483
+
+d) Funcionarios del ex Servicio
+
+Nacional de Salud _ _ _ _ _ _ _ _ 1,1305
+
+e) Funcionarios del Instituto de
+
+Seguros del Estado_ _ _ _ _ _ _ _ 1,075
+
+f) Funcionarios de la Universidad de
+
+Concepción _ _ _ _ _ _ _ _ _ _ _ 1,075
+
+g) Funcionarios de la Empresa de
+
+Transportes Colectivos del Estado 1,075
+
+h) Funcionarios de la Empresa
+
+Portuaria de Chile_ _ _ _ _ _ _ _ 1,065
+
+i) Funcionarios de la Empresa
+
+Nacional de Petróleo _ _ _ _ _ _ 1,1583
+
+j) Funcionarios de la Empresa
+
+Nacional de Minería_ _ _ _ _ _ _ 1,1583
+
+k) Empleados de Notarías,
+
+Conservadores y Archiveros
+
+Judiciales_ _ _ _ _ _ _ _ _ _ _ _ 1,135
+
+14.- Caja Nacional de Empleados
+
+Públicos y Periodistas,
+
+Departamento Periodistas
+
+(imponentes con o sin la
+
+liberación de imposiciones del
+
+inciso final del artículo 5° de
+
+la Ley N° 12.880)
+
+a) Régimen General_ _ _ _ _ _ _ _ _ 1,1883
+
+b) Régimen General, ambiente tóxico
+
+y trabajo nocturno_ _ _ _ _ _ _ _ 1,1983
+
+c) Periodistas _ _ _ _ _ _ _ _ _ _ _ 1,1883
+
+d) Periodistas, ambiente tóxico y
+
+trabajo nocturno_ _ _ _ _ _ _ _ _ 1,1983
+
+e) Trabajadores de Imprentas de
+
+Obras _ _ _ _ _ _ _ _ _ _ _ _ _ _ 1,1983
+
+f) Trabajadores de Imprentas de
+
+Obras, ambiente tóxico y trabajos
+
+nocturnos _ _ _ _ _ _ _ _ _ _ _ _ 1,2083
+
+g) Trabajadores de Imprentas de
+
+Obras, afectos al artículo 33 de
+
+la Ley N° 17.322_ _ _ _ _ _ _ _ _ 1,1150,
+
+y
+
+h) Trabajadores de Imprentas de Obras,
+
+ambiente tóxico y trabajo
+
+nocturnos, afectos al artículo 33
+
+de la Ley N° 17.322_ _ _ _ _ _ _ _ 1,1250
+
+14 bis.- Caja Nacional de Empleados
+
+Públicos yPeriodistas, Departamento
+
+Periodistas, imponentes afectos al
+
+desahucio del decreto con fuerza de
+
+ley N° 338, de 1960, con o sin la
+
+liberación de imposiciones del
+
+inciso final del artículo 5° de la
+
+Ley N° 12.880
+
+a) Régimen general_ _ _ _ _ _ _ _ _ 1,1050
+
+b) Régimen general, ambiente tóxico
+
+y trabajos nocturnos_ _ _ _ _ _ _ 1,1150
+
+c) Periodistas _ _ _ _ _ _ _ _ _ _ _ 1,1050
+
+d) Periodistas, ambiente tóxico y
+
+trabajos nocturnos_ _ _ _ _ _ _ _ 1,1150
+
+e) Trabajadores de Imprentas de
+
+Obras _ _ _ _ _ _ _ _ _ _ _ _ _ _ 1,1150
+
+f) Trabajadores de Imprentas de
+
+Obras, ambiente tóxico y trabajos
+
+nocturnos _ _ _ _ _ _ _ _ _ _ _ _ 1,1250
+
+15.- Caja de Previsión de los Empleados
+
+Municipales de Santiago.
+
+a) Régimen General y funcionarios de
+
+la Dirección de Pavimentación de
+
+Santiago_ _ _ _ _ _ _ _ _ _ _ _ _ 1,200
+
+b) Empleados de la Caja_ _ _ _ _ _ _ 1,20
+
+c) Empleados de la Caja de Obreros
+
+Municipales de la República_ _ _ 1,20
+
+16.- Caja de Previsión Social de los
+
+Empleados Municipales de
+
+Valparaíso.
+
+a) Régimen General_ _ _ _ _ _ _ _ _ 1,20
+
+b) Empleados de la Caja_ _ _ _ _ _ _ 1,20
+
+17.- Caja de Retiro y Previsión de los
+
+Empleados Municipales de la
+
+República
+
+a) Régimen General_ _ _ _ _ _ _ _ _ 1,2150
+
+b) Empleados de la Caja al 31 de
+
+Octubre de 1970 _ _ _ _ _ _ _ _ _ 1,2150
+
+c) Empleados de la Caja ingresados
+
+con posterioridad al 31 de Octubre
+
+de 1970 _ _ _ _ _ _ _ _ _ _ _ _ _ 1,1650
+
+18.- Caja de Previsión Social de los
+
+Obreros Municipales de la
+
+República (imponentes con o sin
+
+la liberación de imposiciones del
+
+#### Artículo 70
+
+del decreto supremo
+
+N° 68, de 1965, del Ministerio del
+
+Trabajo y Previsión Social).
+
+a) Régimen General_ _ _ _ _ _ _ _ _ 1,20
+
+b) Imponentes de la ex Caja de
+
+Previsión de los Obreros
+
+Municipales de Santiago _ _ _ _ _ 1,20
+
+Fíjase en $ 18.000 el monto del ingreso mínimo de los trabajadores dependientes para los efectos establecidos en el inciso precedente y para los fines previstos en los artículos 43 y 49 del Código del Trabajo.
+
+Los incrementos de remuneraciones, señalados en el inciso segundo, se aplicarán, en la misma forma, a los trabajadores que ingresen a entidades cuyas remuneraciones se fijen por ley.
+
+Las remuneraciones imponibles de los trabajadores que ingresen a entidades en que aquéllas se fijen por ley y opten o se encuentren afiliados al Sistema que establece el decreto ley N° 3.500 de 1980, deberán incrementarse en el factor y forma señalados en el inciso segundo respecto del régimen de previsión que les hubiera correspondido, en el evento de no haber ejercido la opción.
+
+El factor de incremento previsto en la letra c) del N° 9 del inciso segundo de este artículo, se aplicará sobre el total de las remuneraciones que perciban los trabajadores agrícolas afectos al Servicio de Seguro Social.
+
+A partir del 1° de Marzo de 1981, las cotizaciones correspondientes a los trabajadores agrícolas afectos al Servicio de Seguro Social, se determinarán en relación al total de sus remuneraciones.
+
+La parte de las remuneraciones de naturaleza imponible otorgadas en especies avaluadas en dinero que, sumada a las remuneraciones pactadas en dinero, no exceda el límite de imponibilidad, se incrementará en la forma prevista en el inciso segundo de este artículo. El incremento se pagará en dinero.
+
+> **Nota.** NOTA: 3.1.- La modificación introducida por la ley 18717 al artículo 2° del presente decreto ley rige, según su artículo 6°, a contar del 1° de junio de 1988.
+
+> **Nota.** NOTA: 3.2.- El artículo 3° de la Ley N° 18.774, fijó, a contar del 1° de febrero de 1989, en $ 15.488 el monto del ingreso mínimo establecido en el inciso tercero de este artículo.
+
+> **Nota.** NOTA: 3.3.- El monto del ingreso mínimo fijado por el artículo 4° de la Ley N° 18.806, rige, a contar del 1° de junio de 1989. Este nuevo monto no se aplicará a los menores de 18 años de edad, respecto de los cuales seguirá vigente el monto de $ 15.488, establecido por el artículo 3° de la Ley N° 18.774
+
+#### Artículo 3
+
+Los empleadores sólo estarán afectos a las cotizaciones establecidas en la ley N° 16.744.
+
+#### Artículo 4°
+
+Los incrementos de remuneraciones dispuestos por el artículo 2° sólo deberán producir como efecto mantener el monto total líquido de las remuneraciones, beneficios y prestaciones, sean legales, convencionales o dispuestos por fallos arbitrales de los trabajadores a que se refiere dicho artículo. En consecuencia, dichos incrementos no modificarán el monto de los beneficios o prestaciones en la parte no afecta a imposiciones previsionales y aquellos que por su naturaleza no lo estén.
+
+En todo caso, los aumentos indicados se incorporarán a la parte afecta a imposiciones previsionales de las remuneraciones y servirán de base a reajustes que deban aplicarse con posterioridad a la vigencia de esta ley.
+
+Asimismo, no se alterará el monto líquido de los beneficios o prestaciones, de cualquier naturaleza, establecidas o convenidas en ingresos mínimos.
+
+Lo dispuesto en este artículo se aplicará a la determinación del monto de las pensiones y otros beneficios previsionales establecidos en disposiciones actualmente aplicables a los trabajadores a que se refiere el artículo 1°.
+
+De la aplicación de este artículo no podrá resultar una reducción de los montos que los trabajadores perciben por los mencionados conceptos a la fecha de vigencia de esta ley.
+
+Para determinar los beneficios y prestaciones que emanen de disposiciones legales o reglamentarias vigentes a la fecha de publicación del decreto ley N° 3.500, de 1980, que se calculen sobre la base de remuneraciones, de quienes sean contratados o designados con posterioridad a la vigencia de esta ley, deberá dividirse dicha remuneración, en la parte que sea imponible, por los factores establecidos en el artículo 2°, en el caso de los trabajadores afiliados a alguno de los regímenes previsionales señalados en dicho artículo y por el factor 1,1757, en el caso de los que se incorporen al Sistema que se establece en dicho decreto ley.
+
+La remuneración neta a que se refiere el artículo 7° del decreto con fuerza de ley N° 44, de 1978, del Ministerio del Trabajo y Previsión Social, se determinará en relación a las remuneraciones imponibles incrementadas en la forma prevista en el artículo 2° de este decreto ley.
+
+Corresponderá al reglamento establecer la forma de aplicación de este artículo.
+
+#### Artículo 5°
+
+A contar de la fecha de vigencia de esta ley estará exenta de imposiciones la parte de las remuneraciones que exceda de sesenta Unidades de Fomento del último día del mes anterior.
+
+Lo dispuesto en el inciso precedente se aplicará sin perjuicio de lo establecido en el artículo 25 de la ley N° 15.386 y sus modificaciones, que regirá exclusivamente para determinar el límite inicial de las pensiones. La pensión válidamente otorgada constituirá un monto global, que sólo podrá ser incrementado en virtud de norma legal expresa.
+
+La disposición establecida en el inciso primero no regirá respecto de las personas a que se refiere el artículo 14 del decreto con fuerza de ley N° 236, de 1968, agregado por la letra d) del artículo único del decreto ley N° 970, de 1975, y el artículo único del decreto ley N° 1.617, de 1976.
+
+#### Artículo 6°
+
+El límite de pensiones contemplados en el artículo 25 de la ley N° 15.386 y sus modificaciones, no se aplicará a las personas que se incorporen al Sistema de Pensiones establecido en el decreto ley N° 3.500, de 1980.
+
+#### Artículo 7°
+
+Facúltase al Presidente de la República para que dentro del término de un año y mediante decreto dictado a través de los Ministerios del Trabajo y Previsión Social y de Salud, determine la forma en que deben distribuirse cada una de las cotizaciones que establece el artículo 1°.
+
+En el ejercicio de esta facultad, el Presidente de la República podrá asimismo, suprimir, fusionar, readecuar y crear los fondos necesarios para el funcionamiento financiero de las instituciones de previsión, considerando las imposiciones que efectúen tanto los activos como los pasivos, así como las demás fuentes de financiamiento de los fondos existentes.
+
+#### Artículo 8°
+
+El Fondo Unico de Prestaciones Familiares creado por el decreto ley N° 307, de 1974 y el Fondo Común de Subsidio de Cesantía establecido en el decreto ley N° 603, de 1974, se financiaran exclusivamente con aportes fiscales que se fijarán en la Ley de Presupuestos.
+
+Los empleadores que paguen asignaciones familiares a sus trabajadores, deducirán el monto pagado por este concepto de las cotizaciones e impuestos que deben enterar en las instituciones de previsión.
+
+Dichas instituciones pagarán a los empleadores, dentro del mes calendario en que se entere la cotización, los saldos que se produzcan en favor de éstos, en los casos en que los montos pagados por concepto de asignación familiar sean mayores que las cotizaciones.
+
+Los saldos a que se refiere el inciso anterior que no sean reembolsados en el plazo allí señalado, deberán pagarse con los reajustes e intereses establecidos en la ley N° 17.322.
+
+Facúltase al Presidente de la República para que dentro del plazo de un año fije los textos definitivos de los decretos leyes Nos 307 y 603, ambos de 1974, pudiendo suprimir, modificar, y establecer normas sobre destinación y administración de los fondos respectivos.
+
+#### Artículo 9°
+
+Los choferes e inspectores de la locomoción colectiva particular urbana y suburbana y los empleados administrativos de las asociaciones de empresarios de dicha locomoción colectiva, quedarán afectos al régimen general de previsión de los imponentes de la Caja de Previsión de Empleados Particulares. Con todo, a este personal le será aplicable las normas del decreto ley N° 3.500, de 1980.
+
+Las remuneraciones imponibles de dichos trabajadores se incrementarán en la forma prevista en el artículo 2°, N° 1. letra a) de esta ley, y quedarán afectos a lo dispuesto en el artículo 5°.
+
+Los empresarios de la locomoción colectiva urbana y suburbana tendrán derecho a la devolución de las sumas pagadas por concepto de la sobretasa a que se refiere el artículo 1° de la ley N° 17.968, respecto de los pasajes no utilizados a la fecha de vigencia de esta disposición. Esta devolución deberá solicitarse dentro de los sesenta días siguientes a la referida fecha, acompañando los antecedentes probatorios que determine el Banco del Estado de Chile, quien deberá efectuar la devolución correspondiente dentro de los treinta días de presentada la solicitud competente, con cargo a los recursos recaudados en conformidad a la ley N° 17.068 o con aquéllos que para este efecto entregará la Caja de Previsión de Empleados Particulares.
+
+El excedente o déficit que a la fecha de vigencia de esta disposición registre el Fondo General de Recursos Impositivos a que se refiere la ley N° 17.968, incrementará o será de cargo de los recursos generales de la Caja de Previsión de Empleados Particulares.
+
+#### Artículo 10
+
+La cotización del cuatro por ciento que establece el artículo 1° para el personal de la Empresa de Ferrocarriles del Estado que no se incorpore al régimen del decreto ley N° 3.500, de 1980, será retenida de las remuneraciones y destinada a financiar el Servicio Médico de dicha Empresa.
+
+> **Nota.** NOTA: 4 El artículo 90 de la ley 18482, prorrogó, por el plazo de seis meses, a contar del 1° de enero de 1986, la vigencia del presente artículo.
+
+#### Artículo 11
+
+Todas las instituciones de previsión existentes a la fecha de vigencia de esta ley, requerirán de disposición legal para establecer nuevos beneficios o para efectuar traspasos de fondos que signifiquen un cambio de destino de las respectivas cotizaciones, sus reajustes o intereses y del aporte fiscal.
+
+#### Artículo 12
+
+Las instituciones de previsión bancarias quedarán sometidas a la supervigilancia y fiscalización de la Superintendencia de Seguridad Social, de acuerdo con las normas de la ley N° 16.395.
+
+#### Artículo 13
+
+Al trabajador que opte por incorporarse al Sistema de Pensiones establecido por el decreto ley N° 3.500, de 1980, se le reconocen los beneficios de desahucio o de indemnización por años de servicios en los siguientes términos:
+
+1.- Las personas afectas a los regímenes contemplados en los artículos 102 y siguientes del decreto con fuerza de ley N° 338, de 1960; en el decreto con fuerza de ley N° 2, del Ministerio del Trabajo, de 1970; en los artículos 46 y siguientes de la ley N° 11.219; en los artículos 56 y siguientes de la ley N° 11.469; en la ley N° 7.390, modificada por la ley N° 11.531; en las disposiciones reglamentarias y estatutarias que establecen beneficios de desahucio para el personal afecto a los regímenes previsionales municipales; en las leyes Nos. 5.730 y 7.998; en la letra b) del artículo 44 del decreto con fuerza de ley N° 2.252, de 1957, de Hacienda, y en las demás disposiciones legales, reglamentarias o estatutarias que establecen el pago de un desahucio o indemnización al producirse la cesación de servicios en función de los años de servicios, tendrán derecho a que el beneficio les sea pagado al cumplirse los requisitos exigidos en las normas respectivas, de acuerdo al tiempo computable que registren hasta la fecha de la opción y calculado sobre la base de la última remuneración imponible percibida a la fecha de cesación de servicios o, en su caso, del promedio de remuneraciones imponibles que corresponda, según el régimen a que se encuentre afecto al momento de la opción.
+
+Con todo, las personas a que se refiere este número que se incorporen en cualquier fecha al Sistema que establece el decreto ley N° 3.500, de 1980, podrán optar por quedar afectas a los regímenes referidos, los que se regirán por las normas actualmente vigentes y estarán sujetas a la cotización señalada en la columna 2 del artículo 1°.
+
+2.- Las personas afectas a los regímenes establecidos en el artículo 41 de la ley N° 10.621; en el N° 3 del artículo 2° del decreto ley N° 2.437, de 1978, en las disposiciones no derogadas por el artículo 4° del decreto ley N° 1.695, de 1977, y en las demás que establecen la devolución de fondos al producirse la cesación de servicios, tendrán derecho a la devolución o retiro de los fondos acumulados hasta la fecha de la opción, al cumplir los requisitos exigidos en las normas respectivas, para lo cual se aplicarán las disposiciones sobre intereses y reajustes contemplados en el respectivo régimen.
+
+3.- Las personas que se encontraren afectas al régimen contemplado en los artículos 37, 38 y 39 de la ley N° 15.386, tendrán derecho a que se les reconozcan por cada año de imposiciones o fracción de año superior a seis meses que registraren hasta el momento de la opción, una trigésima quinta parte del monto del desahucio vigente a la fecha de publicación de esta ley, reajustado según la variación que experimente el Indice de Precios al Consumidor del Instituto Nacional de Estadísticas entre el último día del mes precedente a aquel en que se publique esta ley y el último día del mes precedente al de la opción.
+
+4.- Las personas que se encontraren afectas al régimen establecido en los artículos 40 y 40 bis de la ley N° 15.386, tendrán derecho a que se les reconozca el monto del desahucio correspondiente como si jubilaren al momento de la opción, el que se calculará en relación a los años de imposiciones computables y al promedio de las doce últimas remuneraciones imponibles, que registren hasta ese momento.
+
+5.- Las personas que se encontraren afectas al régimen establecido en el decreto con fuerza de ley N° 243, de 1953, tendrán derecho a que se les reconozcan los fondos acumulados hasta la fecha de la opción.
+
+6.- Las personas que se encontraren afectas al régimen de desahucio contemplado en el artículo 80 de la ley N° 15.840, complementado en el artículo 2° de la ley N° 17.326 y reglamentado por el decreto supremo N° 124, de 1971, del Ministerio de Obras Públicas, tendrán derecho a que se les reconozca el monto del desahucio correspondiente como si jubilaren al momento de la opción, el que se calculará en relación a los años de imposiciones computables y la última remuneración imponible que registren a ese momento.
+
+7.- Las personas afectas a los regímenes de indemnización por años de servicios contemplados en el artículo 47 de la ley N° 8.569, y en la segunda parte del artículo 18 de los Estatutos de la Caja de Previsión y Estímulo de los Empleados del Banco de Chile, tendrán derecho a que se les reconozca el beneficio a la fecha de la opción en relación a los años de imposiciones que registraren en exceso sobre treinta y cinco y al sueldo base anual correspondiente.
+
+Lo dispuesto en este artículo no se aplicará a los desahucios e indemnizaciones y retiro de fondos que sean incompatibles con la pensión o la jubilación, que afecte al monto de ésta o que, en caso de ser reintegrados, pasen a formar parte de dichos beneficios.
+
+> **Nota.** NOTA: 4.1. El artículo 122 de la ley N° 18.768, publicada en el "Diario Oficial" de 29 de diciembre de 1988, declaró que la indemnización del artículo 44 letra a) del decreto con fuerza de ley N° 2.252, de 1957, se encuentra comprendida en el artículo 13, N° 1 del presente decreto ley.
+
+#### Artículo 14
+
+Los beneficios contemplados en los 3, 4, 5, 6 y 7 del artículo anterior se liquidarán a la fecha de la opción y formarán parte del Bono de Reconocimiento a que se refiere el artículo 3° transitorio del decreto ley N° 3.500. de 1980.
+
+#### Artículo 15
+
+En lo no previsto en el artículo 13 se aplicarán las normas establecidas en los respectivos regímenes de indemnización por años de servicio, desahucio o prestaciones similares.
+
+La opción por el sistema de pensiones contemplados en el decreto ley N° 3.500, de 1980, no se considerará como pérdida de la calidad de imponente para los efectos de aquéllos regímenes que habilitan el retiro de fondos por tal circunstancia.
+
+#### Artículo 16
+
+Deróganse a contar de la publicación de la presente ley, las normas legales, reglamentarias y estatutarias que facultan a los imponentes de las instituciones de previsión para obtener créditos, aplicaciones, devoluciones u otras prestaciones con cargo a los fondos de retiro y de pensiones, estén o no acreditados en cuentas individuales.
+
+Se exceptúan de esta disposición las normas que establecen exclusivamente la devolución de fondos a título de indemnización por años de servicios.
+
+Los fondos de retiro que no se relacionen directa ni DL 3625 1981 indirectamente con el financiamiento de fondos de pensiones y que al ejercerse la facultad que otorga el artículo 7°, mantengan su independencia respecto de ellos, no quedarán afectos a las derogaciones dispuestas por este artículo.
+
+Esta derogación no afectará a las operaciones de aplicación de fondos que, a la fecha de publicación de esta ley se encontraren aprobadas por las instituciones de previsión o en trámite de aprobación, para dar cumplimiento a contratos celebrados por los imponentes.
+
+> **Nota.** NOTA: 5 El artículo 1° de la ley N° 18357, dispuso lo siguiente: Declárase, que no obstante lo establecido en los artículos 4° del decreto ley N° 1.695, de 1977, y 16 del decreto ley N° 3.501, de 1980, las disposiciones legales, reglamentarias y estatutarias que establecen el derecho a la devolución de imposiciones en forma expresa en favor de otros titulares distintos a los imponentes o ex imponentes de los regímenes previsionales, han mantenido y mantienen su vigencia.
+
+#### Artículo 17
+
+Los trabajadores sea que opten o no por el Sistema de Pensiones contemplado en el decreto ley N° 3.500, de 1980, mantendrán sus beneficios de desahucio o indemnización por años de servicios u otros similares de origen convencional, sin perjuicio de lo dispuesto en el decreto ley N° 2.200, de 1978.
+
+#### Artículo 18
+
+Los trabajadores que permanezcan afectos a los actuales regímenes de pensiones conservarán los beneficios de desahuicio o indemnización por años de servicios establecidos en las respectivas disposiciones vigentes.
+
+#### Artículo 19
+
+Los trabajadores que opten por el sistema de pensiones establecido en el decreto ley N° 3.500, de 1980, dejarán de estar afectos a contar de ese momento a las respectivas normas sobre desahucio, indemnización por años de servicio o beneficios similares, sin perjuicio de lo dispuesto en el inciso segundo del N° 1 del artículo 13.
+
+#### Artículo 20
+
+Las multas a que se refiere el N° 3 del artículo 26 de la ley N° 8.569, la letra f) del artículo 53 de la ley N° 10.383, los Nos 9 y 10 del artículo 2° de la ley N° 10.621 y el N° 6 del artículo 19 del decreto con fuerza de ley N° 2.252, de 1957, del Ministerio de Hacienda, serán a beneficio fiscal.
+
+#### Artículo 21
+
+Ajústanse las remuneraciones que resulten de la aplicación del artículo 2°, de los trabajadores que a continuación se indican, en los siguientes porcentajes:
+
+a) Obreros Molineros _ _ _ _ _ _ _ _ _ _ _ _ _ _ 79%
+
+b) Obreros Panificadores _ _ _ _ _ _ _ _ _ _ _ _ 8,99%
+
+c) Obreros Fideeros_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 7.15%
+
+d) Obreros de industrias anexas a un molino_ _ _ 8,99%
+
+Los beneficios que actualmente otorga el Departamento de Indemnizaciones a Obreros Molineros y Panificadores, en conformidad con el decreto N° 921, de 1958, del Ministerio del Trabajo, permanecerán vigentes y serán financiados, exclusivamente, por los trabajadores beneficiados, con una cotización común del 6,4% de su remuneración.
+
+Para calcular los beneficios que otorgan a estos trabajadores el decreto N° 921, citado, y los demás beneficios, prestaciones y obligaciones mencionados en el artículo 4° de esta ley, se procederá a efectuar la correción dispuesta en dicho artículo 4° y, además deberá dividirse por 1,08 la cantidad resultante en la parte en que la hayan afectado los reajustes dispuestos por esta ley.
+
+Los trabajadores afiliados al Departamento de Indemnizaciones a Obreros Molineros y Panificadores que se acojan al nuevo sistema de pensiones de que trata el decreto ley N° 3.500, de 1980, dejarán de efectuar las cotizaciones señaladas en el inciso segundo de este artículo, reconociéndoseles el derecho a percibir la respectiva indemnización, por el tiempo que corresponda, al momento en que el trabajador ejerza la opción. El pago del beneficio se efectuará de contado.
+
+Derógase el artículo 63 del decreto N° 921, de 1958, del Ministerio del Trabajo, como asimismo, la aplicación que se hiciera de esa disposición por el decreto N° 26 de 1971, del Ministerio del Trabajo y Previsión Social.
+
+#### Artículo 22
+
+Las imposiciones y aportes destinados al financiamiento de las prestaciones médicas y de los subsidios por incapacidad laboral serán exclusivamente las que establece el decreto ley N° 3.500, de 1980, sobre las remuneraciones o rentas imponibles sin perjuicio de lo dispuesto en esta ley.
+
+Deróganse todas las demás disposiciones legales o estatutarias que establecen cotizaciones o aportes de cargo de los empleadores, de los trabajadores o de las instituciones de previsión destinados a los fines señalados, en el inciso precedente.
+
+No obstante, mantendrán su vigencia las normas que contemplen imposiciones o aportes para el financiamiento de prestaciones médicas que sean de cargo de los pensionados de las instituciones de previsión o aportes del Estado destinados al mismo fin.
+
+#### Artículo 23
+
+Deróganse las disposiciones legales que establecen aportes o cotizaciones previsionales que no tengan el carácter de imposiciones de los trabajadores o de los pensionados.
+
+No obstante, se mantendrán los aportes de cargo fiscal, los derivados de la aplicación de multas por infracciones a las leyes de previsión social y los contemplados en la ley N° 16.744, en el artículo 22 del decreto con fuerza de ley N° 44, de 1978, del Ministerio del Trabajo y Previsión Social y en el artículo 8° del decreto ley N° 869, de 1975.
+
+INCISO DEROGADO
+
+> **Nota.** NOTA: 6 El artículo 3° de la Ley 18141, dispuso lo siguiente: Declárase que el artículo 23° del decreto ley 3.501, de 1980, no tuvo por objeto derogar el Fondo de Asistencia Social a que se refiere el artículo 33° de la ley 15.386.
+
+#### Artículo 24
+
+Suprímese la oración "Tratándose de actividades mineras, la tasa de cotización básica general será de 1,5% de las remuneraciones imponibles, con excepción de los productores mineros que vendan su producción a la Empresa Nacional de Minería y que en conjunto de todas sus actividades, no produzcan más de 100 toneladas de cobre fino al año", agregada por el inciso primero del artículo 8° de la ley N° 17483 a la letra a) del artículo 15 de la ley N° 16744 y, derógase el inciso segundo del artículo 8° de la primera de estas leyes.
+
+#### Artículo 25
+
+Reemplázase en la letra a) del artículo 15 de la ley N° 16744, modificada por el artículo precedente, el guarismo 1 por 0,85 y en la letra b) del mismo artículo, el guarismo 4 por 3,4.
+
+#### Artículo 26
+
+Modifícase el inciso primero del artículo 2° del decreto ley N° 1.097, de 1975, reemplazado por el artículo 3° del decreto ley N° 1.618, de 1976, en la siguiente forma:
+
+Sustitúyese la coma (,) que antecede a la frase "de las entidades financieras" por la conjunción "y" y suprímese la frase final "y de los organismos de previsión bancaria" anteponiendo un punto final (.).
+
+#### Artículo 27
+
+Reemplázase en el inciso primero del artículo 76 de la ley N° 10.383, el guarismo 10% por 4%.
+
+#### Artículo 28
+
+Modifícase la ley N° 17.365, en los siguentes aspectos:
+
+a) sustitúyese el artículo 3° por el siguente:
+
+#### Artículo 3°
+
+Las sumas pagadas a título de gratificación legal, contractual o voluntaria o como participación de utilidades estarán afectas a las mismas imposiciones que las remuneraciones mensuales.
+
+Para determinar la parte de dichos beneficios que se encuentra afecta a imposiciones e impuestos en relación con el límite máximo de imponibilidad mensual, se distribuirá su monto en proporción a los meses que comprenda el período a que correspondan y los cuocientes se sumarán a las respectivas remuneraciones mensuales. Las imposiciones e impuestos se deducirán de la parte de tales beneficios que, sumada a las respectivas remuneraciones mensuales, no exceda del límite máximo de imponibilidad."
+
+b) Derógase el artículo 4°.
+
+#### Artículo 29
+
+Modifícase el artículo 4° de la ley N° 6.037, cuyo texto refundido se fijó por el decreto supremo N° 606, de 1944, del Ministerio de Salubridad, Previsión y Asistencial Social, publicado en el Diario Oficial del 2 de Junio de 1944, en los siguentes aspectos:
+
+a) Derógase la letra k).
+
+b) Agrégase el siguiente inciso:
+
+"Las sumas pagadas a título de bonificaciones y gratificaciones legales estarán afectas a las mismas imposiciones que las remuneraciones mensuales. Para determinar la parte de dichos beneficios que se encuentra afecta a imposiciones e impuestos en relación con el límite máximo de imponibilidad mensual, se distribuirá su monto en proporción a los meses que comprenda el período a que correspondan y los cuocientes se sumarán a las respectivas remuneraciones mensuales. Las imposiciones e impuestos se deducirán de la parte de tales beneficios que sumada a las respectivas remuneraciones mensuales, no exceda del límite máximo de imponibilidad.".
+
+#### Artículo 30
+
+Derógase la letra c) del N° 1 del artículo 26 del decreto N° 857, de 11 de noviembre de 1925 del ex Ministerio de Higiene, Asistencia, Previsión Social y Trabajo, cuyo texto fue fijado por el N° 1 del artículo 5° de la ley N° 17.365.
+
+#### Artículo 31
+
+Introdúcense las siguientes modificaciones en las normas que se indican:
+
+a) Sustitúyese la letra b) del artículo 59 de la ley N° 10.383, por la siguiente:
+
+"b) el 4,58% a atención médica, subsidios y auxilios de lactancia, que el Servicio entregará al Fondo Nacional de Salud, con cargo a los recursos que le proporcione el Fisco".
+
+b) Suprímese en el inciso primero del artículo 39 de la ley N° 10.662 las expresiones: "el 4,5% de los salarios imponibles más...".
+
+c) Deróganse los incisos segundo y tercero del artículo 44 del decreto supremo (D.F.L.) N° 68, de 12 de Febrero de 1965, del Ministerio del Trabajo y Previsión Social.
+
+#### Artículo 32
+
+Deróganse:
+
+a) La ley N° 17.968;
+
+b) La letra f) del artículo 4° del decreto supremo N° 606, de 1944, del ex Ministerio de Salubridad, Previsión y Asistencia Social, que aprueba el texto refundido de la ley N° 6.037;
+
+c) El inciso primero del artículo 29; el inciso quinto del artículo 75 y el inciso tercero del artículo sin número agregado por el artículo 1° de la ley N° 13.595; todos de la ley N° 8.569;
+
+d) El artículo 21 del decreto con fuerza de ley N° 2.252, de 1957; del Ministerio de Hacienda;
+
+e) La letra b) del artículo 1° del decreto ley N° 2.437, de 1978;
+
+f) Las letras b), c), d) y e) del artículo 15 del decreto con fuerza de ley N° 1.340 bis, de 1930;
+
+g) Las letras b) y c) y el inciso segundo del artículo 3° de la ley N° 6.808;
+
+h) El artículo 7° de la ley N° 5.948;
+
+i) Los números 13 y 14 del artículo 2° de la ley N° 10.621;
+
+j) Las letras b) y c) del artículo 2° de la ley N° 15.478;
+
+K) Los artículos 6° y 11 de la ley N° 15.722, y l) La letra h) del artículo 10 del decreto supremo N° 770, de 1948, del ex ministerio de Salubridad, Previsión y Asistencia Social.
+
+#### Artículo 33
+
+Lo dispuesto en los artículos 1° y 2° no se aplicará a los trabajadores a que se refieren los artículos 1° de las leyes N°s 15.478 y 9.613.
+
+#### Artículo 34
+
+Las disposiciones del presente decreto ley, con excepción del artículo 8°, no se aplicarán al personal a que se refiere el inciso primero del artículo 96 del decreto ley N° 3.500, de 1980.
+
+#### Artículo 35
+
+La presente ley empezará a regir a contar del 1° de Marzo de 1981.
+
+DISPOSICIONES TRANSITORIAS
+
+#### Artículo 1°
+
+Sin perjuicio de las facultades del Presidente de la República, redúcense las cotizaciones vigentes que se hayan establecido en virtud de lo dispuesto por el artículo 15 letra b) de la ley N° 16.744, a las que resulten de dividir la actual tasa de cotización adicional por 1.1757. Dicho cuociente se expresará con dos decimales, elevando a la cifra superior el tercer decimal que sea igual o mayor de cinco y despreciando el inferior.
+
+#### Artículo 2°
+
+Las disponibilidades y excedentes de los Fondos señalados en el inciso primero del artículo 8°, pasarán a rentas generales de la Nación, en la fecha en que entre en vigencia la Ley de Presupuesto que consultará fondos para el financiamiento a que se refiere dicho inciso.
+
+#### Artículo 3°
+
+Establécese un impuesto de cargo de los empleadores, sobre las remuneraciones imponibles de todos sus trabajadores, sea cual fuere el régimen previsional al que estuvieren afectos, cuya tasa será de tres por ciento hasta el 31 de Diciembre de 1981, y de dos por ciento hasta el 31 de diciembre de 1983.
+
+Dicho impuesto se pagará conjuntamente con las cotizaciones y en las instituciones de previsión a que se refieren los artículos 1° de esta ley y 83 del decreto ley N° 3.500 de 1980 y quedará afecto a las disposiciones de la ley N° 17.322.
+
+Las instituciones de previsión integrarán las sumas recaudadas en la Tesorería Comunal que corresponda dentro de los diez primeros días del mes siguiente al de su recaudación.
+
+> **Nota.** NOTA: 7 El artículo 9° de la ley 18267, dispuso que el impuesto establecido en el inciso primero de este artículo, seguirá rigiendo hasta el 31 de diciembre de 1986.
+
+> **Nota.** NOTA: 8 El artículo 1° de la ley 18566, dispuso que el impuesto establecido en el inciso primero del artículo 3° transitorio del presente decreto ley, tendrá el carácter de permanente, con una tasa de 2%, a contar de la fecha de publicación de esta ley, efectuada el 30 de octubre de 1986.
+
+#### Artículo 4°
+
+Los afiliados independientes afectos a las disposiciones del decreto ley N° 307, de 1974, deberán pagar el impuesto que establece el artículo 3° transitorio.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la recopilación oficial de dicha Contraloría.
+
+-AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio de Castro Spikula, Ministro de Hacienda.- José Piñera Echenique, Ministro del Trabajo y Previsión Social.
+
+Lo que transcribo a U. para su conocimiento.- Saluda a U.- Alfonso Serrano Spoerer, Subsecretario de Previsión Social.
