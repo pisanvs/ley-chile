@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 485, de 28 de junio de 1996, se expropiaron los lotes de terrenos N°s 19 y 69, superficies 1.752 y 882 m2 roles de avalúos 1093-6 y 600-7 comuna de Cartagena y El Tabo, para la obra Camino Malvilla Orrego Abajo y se acordó precio de indemnización con sus propietarios, Gladys Pizarro Parraguez y Paulina del Carmen Vera Castillo y otros, ascendente a las cantidades de $2.503.857 para el lote N° 19 y $489.836 para el lote N° 69.
+
+Fiscal del Ministerio de Obras Públicas.
