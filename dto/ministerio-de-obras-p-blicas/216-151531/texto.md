@@ -1,0 +1,3 @@
+Por Decreto MOP N° 216, de 25 de agosto de 1986, se expropiaron los lotes N°s. 54 y 55, cuyas superficies son 214,5 M2. y 282,2 M2., roles de avalúos 46-177 y 46-182, comuna de Peumo, VI Región, para Ruta H-66-G Pelequén Cruce Las Arañas, sector Codao Las Cabras y se acordó precio de indemnizaciones con sus propietarios señores Luis Vargas Barrios y Raúl del Carmen Reyes Catalán, ascendente a las sumas de $ 163.339 y $ 198.425.-
+
+Fiscal del Ministerio de Obras Públicas.
