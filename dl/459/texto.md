@@ -96,6 +96,8 @@ El o los cargos de grado 30 se transformarán en grado 35 a medida que vayan que
 
 La ley de Presupuesto consultará anualmente las sumas necesarias para el pago de los sueldos del personal a que se refiere este decreto ley.
 
+Autorízase al Director del Instituto Antártico Chileno para crear los Item 002 Sueldos y 003 Sobresueldos, en el Presupuesto vigente del Servicio, aprobado por decreto supremo Nº 12, de 2 de Enero de 1974, del Ministerio de Relaciones Exteriores, sin necesidad de dictar un decreto supremo.
+
 #### Artículo 3°
 
 <!-- parte:7304790 -->
