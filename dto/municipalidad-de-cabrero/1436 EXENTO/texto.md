@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Decreto alcaldicio exento Nº 1436, julio 1 de 1999, Alcalde Ilustre Municipalidad de Cabrero dispone expropiación parcial conforme al Art. 83 del D.F.L. Nº 458 y Art. 58, letra F de la ley Nº 18.695 de Municipalidades, del inmueble ubicado en calle Tucapel esquina Avenida Las Flores, de dominio del señor Xavier Fuenzalida Briceño, Rol de avalúo Nº 206-065, comuna de Cabrero, superficie a expropiar de terreno 344.50 metros cuadrados y una superficie edificada de 64.96 metros cuadrados. Deslindes particulares Norte: 65.58 m con resto de propiedad a expropiar; Sur: 65 m con Avda. Las Flores; Este: 4.90 m con Avenida Las Flores; Oeste: 5.90 m con calle Tucapel. Indemnización $8.773.850 pagado a través de la Dirección de Administración y Finanzas de la Ilustre Municipalidad de Cabrero, que girará cheque a nombre de don Xavier Fuenzalida Briceño, suma de $8.773.850, con acuerdo de sociedad Agroindustrial Chimbarongo Ltda., representada por el señor Xavier Fuenzalida Briceño, por usufructo existente a favor de dicha sociedad.
+
+Hasan Sabag Castillo, Alcalde de Cabrero.
