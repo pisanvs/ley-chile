@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.846, de 30 de noviembre del 2001, se expropiaron los lotes de terreno Nºs 3 y 3-1, superficies 331 y 15 m2, rol de Avalúo 374-849, comuna de El Quisco, para la obra Red Vial Litoral Central. Sector 1: Nuevo Camino Costero Acceso a Punta de Tralca Kms. 0.000,00 al 5.622,00, Quinta Región y se acordó el valor de indemnización con su propietaria María Antonieta García Pérez, ascendente a la cantidad de $532.516.
+
+- Fiscal del Ministerio de Obras Públicas.
