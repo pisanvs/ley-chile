@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.017 de 28 de junio de 2002, se expropió el lote de terreno Nº14-D, superficie 8.685 m², rol de avalúo 216-4, comuna de Curepto, VII Región, para la obra ''Camino Ruta K-60 y K-16, Sector Mejoramiento Gualleco-Curepto-Puente Lautaro, Tramo Km. 46,180 al 83,91430'' y se acordó el valor de indemnización con su propietario don Eduardo María Díaz Díaz, ascendente a la cantidad de $1.349.357.-
+
+Fiscal del Ministerio de Obras Públicas.
