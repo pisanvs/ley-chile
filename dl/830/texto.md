@@ -134,6 +134,8 @@ La unidad tributaria mensual o anual se expresará siempre en pesos, desprecián
 
 12°.- Por "instrumentos de cambio internacional", el oro, la moneda extranjera, los efectos de comercio expresados en moneda extranjera, y todos aquellos instrumentos que, según las leyes, sirvan para efectuar operaciones de cambios internacionales.
 
+13°.- Por transformación de sociedades, el cambio de especie o tipo social efectuado por reforma del contrato social o de los estatutos, subsistiendo la personalidad jurídica.
+
 # Libro Primero
 
 DE LA ADMINISTRACION, FISCALIZACION Y PAGO
@@ -608,7 +610,9 @@ Las sociedades deberán poner en conocimiento de la oficina del Servicio que cor
 
 Toda persona natural o jurídica que, por terminación de su giro comercial o industrial, o de sus actividades, deje de estar afecta a impuestos, deberá dar aviso por escrito al Servicio, acompañando su balance final o los antecedentes que éste estime necesario, y deberá pagar el impuesto correspondiente hasta el momento del expresado balance, dentro de los dos meses siguientes al término del giro o de sus actividades.
 
-Sin perjuicio de lo dispuesto en el artículo 71°, las empresas individuales o sociales no podrán transformarse en sociedades de cualquiera naturaleza, ni las sociedades aportar a otra u otras todo su Activo y Pasivo, sin dar aviso de término de giro, salvo que la o las sociedades que subsistan o que se creen se hagan responsables solidariamente, en las respectivas escrituras de sociedad, de todos los impuestos que se adeudaren por la o las primitivas empresas.
+Sin perjuicio de lo dispuesto en el artículo 71, las empresas individuales no podrán convertirse en sociedades de cualquier naturaleza, ni las sociedades aportar a otra u otras todo su activo y pasivo o fusionarse, sin dar aviso de término de giro. Sin embargo, no será necesario dar aviso de término de giro en los casos de empresas individuales que se conviertan en sociedades de cualquier naturaleza, cuando la sociedad que se crea se haga responsable solidariamente en la respectiva escritura social de todos los impuestos que se adeudaren por la empresa individual, relativos al giro o actividad respectiva, ni tampoco, en los casos de aporte de todo el activo y pasivo o fusión de sociedades, cuando la sociedad que se crea o subsista se haga responsable de todos los impuestos que se adeudaren por la sociedad aportante o fusionada, en la correspondiente escritura de aporte o fusión. No obstante, las empresas que se disuelven o desaparecen deberán efectuar un balance de término de giro a la fecha de su extinción y las sociedades que se creen o subsistan, pagar los impuestos correspondientes de la Ley de la Renta, dentro del plazo señalado en el inciso primero, y los demás impuestos dentro de los plazos legales, sin perjuicio de la responsabilidad por otros impuestos que pudieran adeudarse.
+
+Cuando con motivo del cambio de giro, o de la transformación de una empresa social en una sociedad de cualquier especie, el contribuyente queda afecto a otro régimen tributario en el mismo ejercicio, deberán separarse los resultados afectados con cada régimen tributario sólo para los efectos de determinar los impuestos respectivos de dicho ejercicio.
 
 No podrá efectuarse disminución de capital en las sociedades sin autorización previa del Servicio.
 
@@ -848,7 +852,7 @@ Si, como medio para cometer los delitos previstos en los incisos anteriores, se 
 
 9°.- El ejercicio efectivamente clandestino del comercio o de la industria con multa del treinta por ciento de una unidad tributaria anual a cinco unidades tributarias anuales y con presidio o relegación menores en su grado medio y, además, con el comiso de los productos en instalaciones de fabricación y envases respectivos.
 
-10°.- El no otorgamiento de guías de despacho de facturas, notas de débito, notas de crédito o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas, notas de débito, notas de crédito o guías de despacho sin el timbre correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa de 5 veces el monto de la operación, con un mínimo de 5 unidades tributarias mensuales.
+10°.- El no otorgamiento de guías de despacho de facturas, notas de débito, notas de crédito o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas, notas de débito, notas de crédito o guías de despacho sin el timbre correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa del cincuenta por ciento al quinientos por ciento del monto de la operación, con un mínimo de 5 unidades tributarias mensuales.
 
 En el caso de las infracciones señaladas en el inciso primero, éstas deberán ser, además, sancionadas con clausura de hasta 20 días de la oficina, estudio, establecimiento o sucursal en que hubiere cometido la infracción.
 
@@ -874,9 +878,9 @@ La misma sanción se aplicará al que impidiere en forma ilegítima el cumplimie
 
 15°.- El incumplimiento de cualquiera de las obligaciones establecidas en los artículos 34° y 60° inciso penúltimo, con una multa del veinte por ciento al cien por ciento de una unidad tributaria anual.
 
-16°.- La pérdida o inutilización de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, con multa del 10% al 40% del capital efectivo, a menos que la pérdida o inutilización sea calificada de fortuita por el Director Regional y, además el contribuyente cumpla con los siguientes requisitos:
+16°.- La pérdida o inutilización de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, con multa del 1% al 30% del capital efectivo, a menos que la pérdida o inutilización sea calificada de fortuita por el Director Regional y, además el contribuyente cumpla con los siguientes requisitos:
 
-a) Dar aviso al Servicio dentro de las 48 horas siguientes, y
+a) Dar aviso al Servicio dentro de los 5 días siguientes, y
 
 b) Reconstituir la contabilidad dentro del plazo y conforme a las normas que fije el Servicio, plazo que no podrá ser inferior a treinta días.
 
