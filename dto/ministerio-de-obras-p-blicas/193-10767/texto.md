@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 193, de 28 de abril de 1995, se expropiaron los lotes de terreno N°s 264, sector Tunca El Medio y N°s 278 y 282, sector Empalme Ruta H-56-Ruta 66. superficies 169, 606 y 42,50 M2., respectivamente, roles de avalúos 223-10, 222-34 y 222-53, comuna de San Vicente, para la obra Camino Quinta de Tilcoco y se acordó precio de indemnización con sus propietarios Malaquías Olguín Rosas, Osvaldo Riveros Aravena y Carlos Rubio Rubio, ascendente a las cantidades de $859.153, $465.062 y $298.021.-
+
+Fiscal del Ministerio de Obras Públicas.
