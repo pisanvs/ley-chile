@@ -1,0 +1,3 @@
+Por Resolución N° 207, de 24 de Marzo de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, fomento y Reconstrucción, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A., R.U.T. N° 93.711.000-6, domiciliada en calle Miraflores N° 178, Piso 16, Santiago, para continuar desarrollando las actividades pesqueras autorizados mediante todas las Resoluciones vigentes otorgadas por esta Subsecretaría a Compañía Pesquera Tamarugal S.A. R.U.T. N° 84.343.700-1, domiciliada en Concepción, según consta de las Escrituras Públicas citadas en Vistos y en virtud de lo dispuesto en la Ley N° 18.046 sobre sociedades anónimas.
+
+Valparaíso, 24 de Marzo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
