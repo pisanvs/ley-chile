@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 556, de 31 de julio de 1996, se expropiaron los lotes de terreno N°s. 66 y 75, superficies 336 M2. y 157 M2., rol de avalúo 197-395, comuna de Longaví, para la obra Camino Longaví El Tránsito, Tramo Longaví Chalet Quemado, y se acordó precio de indemnización con su propietaria Sociedad Agrícola Matancilla Limitada, ascendente a la cantidad de $468.751.-
+
+Fiscal del Ministerio de Obras Públicas.
