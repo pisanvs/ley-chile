@@ -1,0 +1,3 @@
+Por resolución Nº 421, de 6 de febrero de 2003, de esta Subsecretaría, rectifícase la resolución Nº 229 de 2003, de esta Subsecretaría, que reconoció la participación conjunta de los armadores SOCIEDAD PESQUERA MAR PROFUNDO S.A. y SOCIEDAD PESQUERA SAN ANTONIO S.A. en la unidad de pesquería Merluza de cola, V-X Regiones, para ejercer el límite máximo de captura establecido por decreto exento Nº 1.115 de 2002, del Ministerio de Economía, Fomento y Reconstrucción, en el sentido de incorporar al grupo de armadores a Friosur VII S.A.
+
+Valparaíso, 6 de febrero de 2003.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
