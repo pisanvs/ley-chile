@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.902, de 31 de agosto de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra Puente Llaguepe, sector Puelo, que figura a nombre de Crecente Calderón Reyes, Rol de avalúo 141-17, superficie 1.507,50 m2., comuna de Cochamó. La Comisión de Peritos, fijó con fecha 24 de noviembre de 1998, la idemnización provisional en la cantidad de $241.125, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
