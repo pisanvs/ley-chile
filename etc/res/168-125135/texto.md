@@ -1,0 +1,3 @@
+Por resolución Nº 168 de 31 de agosto de 1998, de Serviu Región de Coquimbo, se ordenó expropiación, conforme art. 51 ley 16.391 y D.L. 2.186 de 1978, inmueble ubicado en calle Amunátegui Nº 689-695-699 presunto rol avalúo 204-8 comuna La Serena, aparentemente dominio de don(ña): Alicia Pineda Alcayaga. Comisión Peritos integrada por don Patricio Mena López, Alfredo Prieto Parra y doña Iris Marcich Moller, arquitectos, según informe de 30 de junio de 1998, fijó monto provisional indemnización en $22.323.404 pagadera al contado.
+
+- Director Serviu Región Coquimbo.
