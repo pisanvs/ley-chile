@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.944 de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº 1, superficie 553 m² rol de avalúo Nº 241-80, comuna de Cabildo, para la obra "Camino Cabildo - Putaendo, Ruta E-41, Sector La Vega Guayacán, Km. 12,46900 a Km. 22,40000" V Región y se acordó el valor de la indemnización con su propietaria Margarita del Carmen Mena González, ascendente a la cantidad de $9.657.243.-
+
+Fiscal del Ministerio de Obras Públicas.
