@@ -1,0 +1,3 @@
+Por decreto MOP Nº832 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº1, superficie 31.820,16 m², rol Nº215-426, comuna de Teodoro Schmidt, para la obra ''Camino Costero Sur, Tramo Chelle - Hualpín - Puente Puele, Variante I Hualpín, Km. 0,300 al Km. 1,221'', y se acordó el valor de indemnización con su propietaria Sylvia Chureo Zapata, ascendente a la cantidad de $19.823.043.-
+
+Fiscal del Ministerio de Obras Públicas.
