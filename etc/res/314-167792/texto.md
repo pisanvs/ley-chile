@@ -1,0 +1,7 @@
+Por resolución No. 314 de 19 de Marzo de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución No. 451, de 1983, de esta Subsecretaría, que autorizó a SOCIEDAD COMERCIAL HUITO, domiciliada en Santiago, para desarrollar actividades pesqueras de cultivo, en orden a instalar y operar un establecimiento de cultivo de Ostra, en el Estero Colú, Comuna de Quemchi, Chiloé, X Región, en una superficie de 3.000 m2. de conformidad a lo dispuesto en el artículo 7° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Modifícase el numeral 4° de la Resolución No. 262, de 1982, de esta Subsecretaría, que autorizó a Salmones Antártica Ltda., domiciliada en Santiago, para desarrollar actividades pesqueras de cultivo, en el sentido de dejar sin efecto la autorización otorgada para operar un establecimiento en el lago Popetán, Río Colú y Estuario de Colú, Comuna de Quemchi, Chiloé, X Región, por haber incurrido en la causal de caducidad que contempla el Art. 7° del DS No. 175, de 1980.
+
+Anótese, notifíquese y publíquese en extracto por cuenta de esta Subsecretaría.
+
+Valparaíso, 19 de Marzo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
