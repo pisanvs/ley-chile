@@ -1,0 +1,3 @@
+Por resolución 2.816 exenta, de 12 de noviembre de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Corral, X Región, individualizada en el artículo 1º del decreto exento Nº 330 de 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES Y RAMOS SIMILARES DEL PUERTO DE CORRAL.
+
+Valparaíso, 12 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
