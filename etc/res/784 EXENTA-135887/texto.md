@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 784, de fecha 16 de Marzo de 1988, de la Secretaria Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, modifícase el recorrido de la Variante No. 50 A. "Barnechea - Vitacura - San Joaquín". de la Línea de Taxibuses No. 50 "Las Condes Vitacura". autorizado por resolución exenta No. 1.290 de 08.11.83, quedando su nuevo trazado como si gue: Ida: Desde su terminal en El Rodeo con El Tranque, continúa por El Rodeo - José Alcalde - Santa Blanca - Contralmirante Fernández Vial - Camino Turístico - Puente Nuevo - Camino de Asís - Av. Las Condes Tabancura - Av. Vitacura - Av. Providencia - Av. Libertador Bernardo O'Higgins - Av. República - Av. Blanco Encalada San Alfonso - Antofagasta -
+
+Av. El Mirador - Av. Club Hípico Av. Carlos Valdovinos Central - Mariquina hasta frente al No. 3332, su terminal. Regreso: Desde su terminal en Mariquina, frente al No. 3332, continúa por Mariquina - Valenzuela Llanos - Av. Carlos Valdovinos - Bascuñán Guerrero - Blanco Encalada Av. República - Av. Libertador Bernardo O'Higgins - Av. Providencia - Av. 11 de Septiembre - Encomenderos - Av. Vitacura - Tabancura - Av. Las Condes Camino de Asis - Puente Nuevo - Camino Turístico - Contralmirante Fernández Vial - Santa Blanca - José Alcalde - El Rodeo hasta El Tranque, su terminal.-
+
+Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
