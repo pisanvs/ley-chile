@@ -1,0 +1,3 @@
+Por resolución No. 175 de 26 de Febrero de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifícase el numeral 1° de la Resolución de prórroga No. 1147, de 1991, de esta Subsecretaría, que autorizó una ampliación de plazo a la Empresa Nacional de Pesca S.A., RUT. No. 96.540.500-3, domiciliada en Santiago, en el siguiente sentido: Donde dice "N 1403", debe decir "N° 1493".
+
+Valparaíso, 26 de Febrero de 1992.- Andres Couve Rioseco, Subsecretario de Pesca.
