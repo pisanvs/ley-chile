@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.548, de 31 de diciembre de 2003, de esta Subsecretaría, autorízase a ADOLFO HERNAN ARRIAGADA PROSCHLE para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Rómulo Correa Nº 02002, Punta Arenas, XII Región, donde podrá elaborar en la líneas de proceso de Cocido, Fresco-enfriado, Fresco-refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 31 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
