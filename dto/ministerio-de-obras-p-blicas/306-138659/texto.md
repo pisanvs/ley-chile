@@ -1,0 +1,3 @@
+Por decreto MOP No. 306, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s.1, 27 y 29, superficies 339, 181 y 1.510 m2., roles de avalúo 99-109, 341-3 y 341-2, comuna de La Ligua, para la obra Camino Ruta E-39, Sector Quinquimo-El Rayado, Tramo y se acordó precio de indemnización con sus propietarios Mery Rosa Reinoso Fern ndez y otros, Club A‚reo La Ligua y Francisco Antonio Aste Coloma y otros, ascendente a las cantidades de $ 1.385.628, $ 747.451 y $ 5.809.739.-
+
+Fiscal del Ministerio de Obras Públicas.
