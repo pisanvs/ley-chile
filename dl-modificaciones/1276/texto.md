@@ -1,0 +1,1 @@
+Modifica el decreto ley 1024, de 1975.
