@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°300, de 23 de septiembre de 1993, se expropiaron los lotes de terreno N°s. 10, 11, 33, 34, 50 y 59, superficies 54 M2., 500 M2., 1.750 M2., 2.440 M2., 230 M2. y 380 M2., respectivamente, roles de avalúos en trámite, 149-50, 35-20, 36-35 y 37-30, Comunas de Nancagua y Chépica, para la obra Camino Nancagua Puquillay-Chépica, y se acordó precio de indemnización con sus propietarios Luis Albornoz Godoy, José Albornoz Parraguez, María Auger Saavedra y otros, Alicia Arrué Ramírez y Luis Valenzuela Fredes, ascendente a las cantidades de $496.742, $662.400, $2.136.960, $188.928 y $355.968.
+
+Fiscal del Ministerio de Obras Públicas.
