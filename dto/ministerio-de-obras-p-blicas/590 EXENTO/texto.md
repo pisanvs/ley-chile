@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 590, de fecha 30 de abril de 2002, se expropiaron los lotes de terreno Nº 95 y 96, superficies 182 M2 y 142 M2, roles de avalúo 282-6 y 282-5, respectivamente, comuna de San Fernando, VI Región, para la obra ''Camino San Fernando - Roma, Rol I-301, I-255, I-151, Km. 0.000 al 10,954264'' y se acordó el valor de indemnización con su propietaria doña Berta Elena Ibarra Gatica, ascendente a la cantidad de $1.242.928.-
+
+Fiscal del Ministerio de Obras Públicas.
