@@ -1,0 +1,3 @@
+Por decreto MOP Nº571 de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº15, superficie 4.870 m2, Rol de Avalúo Nº337-73, comuna de Loncoche, para la obra "Camino Ruta 741 - Ruta 743, Acceso Huiscapi, sector Acceso Huiscapi, Tramo Km. 0,010 al Km. 3,148" y se acordó el valor de indemnización con su propietario Máximo Orlando Sepúlveda Alveal, ascendente a la cantidad de $5.399.173.-
+
+Fiscal del Ministerio de Obras Públicas.
