@@ -1,0 +1,13 @@
+Declaracion a favor de don Agustin Duran i don Rafael Sumaeta
+
+Excmo. Señor:
+
+Los ciudadanos Agustin Duran i Rafael Sumaeta, parecemos ante V. E. como mejor proceda de derecho, i decimos: que por los documentos que con la solemnidad debida presentamos i juramos, consta de haber sufrido ámbos, una prision indebida solo por el testimonio que nos levantaron otros desnaturalizados reos comprendidos en un robo que se hizo a doña Manuela de Guzman. Por ellos mismos está comprobada nuestra inocencia hasta la evidencia, i aunque en cualesquiera tiempo nos sirvan para hacer ver nuestra hombría de bien en esta parte; pero la vindicta pública lo ignora. Por lo que,
+
+A V. E. suplicamos se sirva ordenar, que para que queden satisfechos los que piensan mal de nuestra conducta, se imprima este pedimento con el decreto que se libre, en la Gaceta Ministerial. Es justicia, etc.–Agustin Duran.-Rafael Sumaeta.
+
+Santiago, Noviembre 2 de 1819.-Como se pide.-O'Higgins.-Echeverría.
+
+En la ciudad de Santiago de Chile, en siete dias del mes de Octubre de mil ochocientos diez i nueve años, el señor Salvador de la Cavareda, rejidor de este Ilustre Ayuntamiento i juez comisionado del crímen dijo: que en la causa que se formó contra José Acevedo i José Santo Solis sobre el robo hecho a doña Manuela Guzman, salia a sus principios comprendidos Rafael Sumaeta, pero habiéndose adelantado el proceso, se ha justificado la inocencia de éste hasta la evidencia, pues no tuvo parte en dicho robo, ni supo cosa alguna de su ejecucion, por lo que he tenido a bien ponerlo en libertad. I para su resguardo le dí éste firmado de su mano, i autorizado por mí. Así lo proveyó i mandó de que doi fé.-Salvador de la Cavareda.-Ante mí.-Pantaleon Pérez de Arce, escribano receptor.
+
+En la ciudad de Santiago de Chile, en siete dias del mes de Octubre de mil ochocientos diez i nueve años: el señor Salvador de la Cavareda, rejidor de este Ilustre Ayuntamiento, i juez comisionado del crimen por el Excmo. Supremo Director del Estado dijo: que en la causa que se formó contra José Acevedo i José Santo Solis sobre el robo hecho a doña Manuela de Guzman salia a sus principios comprendido Agustin Duran; pero habiéndose adelantado el proceso, se ha justificado la inocencia de éste hasta la evidencia, pues no tuvo parte en dicho robo, por lo que ha tenido a bien el señor juez ponerlo en libertad. I para su resguardo mandó se le diese este documento que firmó, de que doi fé.-Salvador de la Cavareda.-Ante mí.-Pantaleon Pérez de Arce, escribano receptor.
