@@ -1,0 +1,3 @@
+Por Resolución N° 1.210, de 1 de julio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por ERNESTO ENRIQUE LAWRENCE DIAZ, para un centro de cultivo ubicado al Sur Caleta Piedra Blanca, Estero Comau o Leptepu, Comuna de Hualaihue, Provincia de Palena, X Región, conforme lo dispuesto en los artículos 78°, 87° y 88°, de la Ley General de Pesca y Acuicultura y el artículo 14° del D.S. N° 290, de 1993 modificado por el D.S. N° 604 de 1994, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 1 de julio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
