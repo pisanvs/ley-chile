@@ -1,0 +1,3 @@
+Por Resolución No. 1335 de 22 de Octubre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días a contar de esta fecha, el plazo otorgado a doña MIRIAM ODETTE VELASQUEZ OYARZO, RUT No. 10.764.590-K, domiciliada en Chanhue, Comuna de Maullín, en el numeral 4° de la Resolución No. 1081, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso,22 Octubre 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
