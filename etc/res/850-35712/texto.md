@@ -1,0 +1,3 @@
+Por Resolución N° 850, de 29 de Octubre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA SAN JOSE S.A., R.U.T. N° 96.535.470-0, para continuar desarrollando las actividades pesqueras autorizadas a Pesquera San José de Coquimbo S.A., por Resoluciones N° 903, de 1987, N° 1.261 y N° 1.616, ambas de 1989, N° 55, de 1991, y N° 250, de 1992, todas de esta Subsecretaría, en virtud de las Escrituras Públicas citadas en Vistos.
+
+Valparaíso, 29 de Octubre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
