@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 145 de fecha 25 de febrero del 2002, se expropió el lote de terreno Nº 18, superficie 105 m², Rol en Trámite, comuna de Graneros, para la obra "Camino Ruta H-10, Sector Graneros San Francisco de Mostazal Tramo Kms. 0,000 al 9,317" y se acordó el valor de indemnización con su propietario Manuel Antonio Bascuñán Torres, ascendente a la cantidad de $986.626.-
+
+Fiscal del Ministerio de Obras Públicas.
