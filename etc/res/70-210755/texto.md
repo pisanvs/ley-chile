@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 70 de 12.05.2003, Serviu VI Región del Libertador Bernardo O'Higgins, tomada razón en fecha 26.05.03, ordenó expropiación parte de un inmueble ubicado en Ibieta Nº 1, rol Nº 86-8 de la comuna de Rancagua, superficie aproximada de 77 m2, lo que hace un 100% del inmueble, delimitada en polígono O'-D-P'-F-G, conforme al Plano 1/2000, de aparente dominio de doña Rosalía y Elba Jorquera Irrázabal, inscrita a fojas 287 Vta. Nº 383 del año 1951, Proyecto de Mejoramiento Red Vial Avenida Freire, Rancagua, conforme al art. 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shippley R., Jorge Godoy Rojas, Florencio Carter B., Ingeniero, Arquitecto y Constructor Civil, respectivamente, según informe de fecha febrero de 2000, monto provisional en $24.647.895, más reajustes legales respectivos.
+
+- Directora Serviu VI Región.
