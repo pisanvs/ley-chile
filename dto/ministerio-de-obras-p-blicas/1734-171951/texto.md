@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.734, de 28 de abril del 2000, se expropió el lote de terreno Nº 5, superficie 176 m2., rol de avalúo 460-85, comuna de Retiro, para la obra Concesión Internacional Ruta 5. Tramo: Talca-Chillán, Séptima Región, y se acordó el valor de indemnización con su propietaria Margarita Eliana Orellana Silva, ascendente a la cantidad de $1.190.102.
+
+Fiscal del Ministerio de Obras Públicas.
