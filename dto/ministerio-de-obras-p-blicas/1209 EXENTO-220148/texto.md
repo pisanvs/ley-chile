@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.209 de 15 de octubre de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 298-2, superficie 13 m², rol de avalúo 1138-9, comuna de La Cisterna, Región Metropolitana, para la obra Proyecto Sistema Américo Vespucio Sur. Ruta 78 - Avenida Grecia. Sector 3 Ruta 5 - Acceso Sur a Santiago. Posteriormente, por decreto MOP exento Nº 1.528 de 28 de noviembre de 2003, se autorizó el Convenio Directo de Precio Ad - Referéndum y se acordó el valor de indemnización con su propietario Alex Marcos Cabello Sáez, ascendente a la cantidad de $911.820.
+
+- Fiscal del Ministerio de Obras Públicas.
