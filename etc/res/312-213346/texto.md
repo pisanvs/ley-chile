@@ -1,0 +1,5 @@
+AUTORIZA A LA EMPRESA PESQUERA APIAO LTDA PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 312, de 23 de Septiembre de 1981, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Empresa Pesquera Apiao Ltda., para instalar y operar dos establecimientos de cultivo de ostras, en Estero Quinchao, en Isla Quinchao y Estero Pindo, en Isla Quehui, Castro, Chiloé. Las actividades que podrá realizar en dichos establecimientos consistirán en labores de crianza, cultivo, reproducción y engorda del recurso señalado. Para la formación de los cultivos se abastecerá de semilla desde el establecimiento de cultivo de Pullinque en las cantidades que se capten mediante la colocación de 20.000 colectores de larvas.
+
+Roberto Verdugo Gormaz, Subsecretario de Pesca.
