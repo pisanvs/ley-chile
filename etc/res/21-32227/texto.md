@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Por Resolución N° 21, de 28 Febrero de 1996, tomada razón por Contraloría Regional el 5 de Marzo de 1996, se modificó Resolución N° 152 de 22 de Agosto de 1995 que dispuso expropiación conforme D.L. 2.186 de 1978, expropiación parcial inmueble ubicado en Avenida Pacífico Marín s/n. Rol Avalúos 1014-1, comuna Santa Cruz, provincia de Colchagua, superficie aproximada 101 m2. de aparente dominio de Empresa Ferrocarriles del Estado, en el sentido que se modifica punto primero, quedando deslindes correctos retazo a expropiar conforme Plano expropiación elaborado Empresa Intrat Consultores siguiente forma: Norte: en 5,00 m. con resto propiedad Empresa Ferrocarriles; Oriente: en 25,50 m. con resto propiedad Empresa Ferrocarriles del Estado; Poniente: en 23,50 con resto propiedad Empresa Ferrocarriles del Estado. En todo lo no modificado por Resolución N° 21 queda en su total validez.
+
+Director Serviu VI Región.
