@@ -1,0 +1,3 @@
+Por Resolución N° 2.017, de 2 de diciembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura para un sector ubicado en Punta Cuello, Canal Queilén, Comuna de Queilén, Provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 78° y 87, de la Ley General de Pesca y Acuicultura y el artículo 14°, del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 2 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
