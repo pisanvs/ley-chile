@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.287, de 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs. 71, 71-A, 71-B y 71-C, superficies 155,50, 16, 18 y 389,50 m², roles de avalúo 3400-115 y en trámite, comuna de Puente Alto, para la obra Mejoramiento Eje La Florida, sector Los Ararios-Las Vizcachas, sector III y se acordó precio de indemnización con su propietaria Congregación Religiosa Leginarios de Cristo, ascendente a la cantidad de $65.892.706.
+
+- Fiscal del Ministerio de Obras Públicas.
