@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1367 de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº 20, superficie 508,00 m², rol de avalúo 63-318, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Liucura - Paso Pino Hachado, Km. 158,54000 al Km. 179,59862, correspondiente al Tramo I Km. 158,54000 al Km. 165,85100" y se acordó el valor de indemnización con su propietario Osvaldo Arzobindo Contreras Lloncón, ascendente a la cantidad de $292.423.-
+
+Fiscal del Ministerio de Obras Públicas.
