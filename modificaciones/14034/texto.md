@@ -1,0 +1,1 @@
+Modifica el artículo 5° de la ley 10.088, de 28 de noviembre de 1951, que destinó fondos para la construcción de un gimnasio cerrado y terminación del Estadio de Curicó.
