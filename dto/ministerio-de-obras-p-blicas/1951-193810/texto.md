@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.951, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº31-B, superficie 174 m2., rol de avalúo en trámite, comuna de Linares, VII Región, para la obra "Camino Ruta L-32, Sector Cruce Ruta 5-Puente Sifón, Tramo Km. 2,320 al 17,666,44" y se acordó el valor de indemnización con su propietario don Ramiro Antonio Córdova Arellano, ascendente a la cantidad de $4.367.914.
+
+- Fiscal del Ministerio de Obras Públicas.
