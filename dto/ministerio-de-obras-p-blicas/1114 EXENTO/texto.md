@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.114 de 30 de julio de 2002, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 1 y 6, para la obra: Camino Ruta 741-Ruta 743 Acceso Huiscapi, Sector Acceso a Huiscapi, Tramo Km.
+
+0,010 - Km. 3,148, que figuran a nombre de Soto Jara Acricio y Loncochino Pena Flor Armando, roles de avalúo 1419-51 y 426-104, Comuna de Loncoche, IX Región, superficies 320 m2. y 291 m2.. La Comisión de Peritos fijó con fecha 2 de mayo de 2000, en la cantidad de $208.000.- para el lote Nº1 y $378.550.- para el lote Nº6. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
