@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº896 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº30, superficie 108,60 m2., rol de avalúo Nº137-209, comuna de Paine, para la obra ''Camino Sin Rol, Sector Peralillo - Abrantes, tramo Km. 0,00000 a Km. 6,03921'', Región Metropolitana y se acordó el valor de indemnización con su propietaria Gladys de las Mercedes González Machuca, ascendente a la cantidad de $956.299.-
+
+Fiscal del Ministerio de Obras Públicas.
