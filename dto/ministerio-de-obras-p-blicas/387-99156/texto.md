@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 387, de 31 de marzo de 1998, se expropió el lote de terreno Nº 131, superficie 37.122 M2, rol de avalúo 128-62, comuna El Carmen, para la obra Proyecto Laja Diguillín, Faja de Expropiación Canal Matriz, sector Pemuco Diguillín y se acordó precio de indemnización con su propietario José Hernán Carrasco Sepúlveda, ascendente a la cantidad de $ 3.321.688.-
+
+Fiscal del Ministerio de Obras Públicas.
