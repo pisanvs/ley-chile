@@ -1,0 +1,3 @@
+Por resolución Nº 1.821, de 18 de agosto de 2000, de esta Subsecretaría, deniégase la solicitud de autorización de acuicultura Nº 93103013, presentada por MANUEL HERMINDO NORAMBUENA HIDALGO, para operar un centro de cultivo en Lago Río Blanco, comuna de Chaitén, provincia de Palena, X Región, conforme lo dispuesto en el artículo 67 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
