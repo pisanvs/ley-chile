@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº311 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº3, superficie 177,53 m², rol de avalúo Nº208-286, comuna de Curacautín, para la obra "Puente El Colorado Camino Curacautín-Conguillío Km. 21,669015 al 22,059365", IX Región y se acordó el valor de la indemnización con su propietaria Flor del Carmen Hernández Fernández, ascendente a la cantidad de $1.062.537.-
+
+Fiscal del Ministerio de Obras Públicas.
