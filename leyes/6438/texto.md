@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Molina contratar empréstito hasta por $ 800,000, para construcción del Teatro Municipal, del Matadero y de un horno crematorio, etc.; y pavimentación de calles; establece para el servicio del empréstito contribución adicional de 1% sobre el avalúo de los bienes raíces de la comuna.
