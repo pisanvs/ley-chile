@@ -1,0 +1,3 @@
+Por decreto MOP Nº 201, de 31 de enero del 2000, se expropió el lote de terreno Nº 101, superficie 58 m2., rol de avalúo 601-41, comuna de Mulchén, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, Octava Región y se acordó el valor de indemnización con su propietaria Sociedad Agrícola, Forestal y Ganadera El Olivo Limitada, ascendente a la cantidad de $243.281.
+
+- Fiscal del Ministerio de Obras Públicas.
