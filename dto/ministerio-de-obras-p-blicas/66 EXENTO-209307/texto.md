@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº66, de 5 de marzo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP. Nº206, de 1960, se expropió el lote de terreno Nº25-1, para la obra: "Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 5. Láamina Especial 2. KM. 27.740,00 A Km.
+
+30.300,00", Región Metropolitana, que figura a nombre de Nassar Halabi Jaime Slema y Otro, rol de avalúo 104-24, comuna de Curacaví, superficie 747 m2. La comisión de peritos integrada por los señores Carmen Pilar Ríos Marcuello, Eduardo Alejandro Silva Aracena y María Cristina Camus Palacios, fijó con fecha 6 de enero de 2003, el valor provisional de la indemnización en la cantidad de $1.295.320.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
