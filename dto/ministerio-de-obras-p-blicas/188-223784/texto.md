@@ -1,0 +1,5 @@
+Por decreto MOP Nº 188, de 9 de marzo de 2004, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 2 para la obra:
+
+"PROYECTO: CONCESION INTERNACIONAL SISTEMA AMERICO VESPUCIO NOR - PONIENTE. AVDA. EL SALTO - RUTA 78. TRAMO 6: RUTA 78 PAJARITOS - RUTA 68", Región METROPOLITANA, que figura a nombre de BANCO DE CHILE, rol de avalúo 2599-2, comuna de PUDAHUEL, superficie 3.201 m2. La comisión de peritos integrada por los señores Cristián Larraín Arnolds, Roberto Carlos Muñoz Ordenes y María Cristina Camus Palacios, fijó con fecha 13 de febrero de 2004, el valor provisional de la indemnización en la cantidad de $95.226.602.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
