@@ -1,0 +1,3 @@
+Por Resolución N° 380 de 26 de febrero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a Comercial e Inversiones Loanco Limitada, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en Avenida Parque Fundición, Sitio 8, Tongoy, IV Región, en las líneas de elaboración de Congelado y Fresco-refrigerado, los siguientes recursos hidrobiológicos: Reineta y Loco.
+
+Valparaíso, 26 de febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
