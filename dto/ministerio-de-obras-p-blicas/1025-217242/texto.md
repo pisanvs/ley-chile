@@ -1,0 +1,7 @@
+Por decreto MOP Nº 1.025, de 29 de septiembre de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco los lotes de terreno Nºs. 31, 33, 34, 35, 37, 38, 43, 44, 45, 46 y 47, para la obra: Mejoramiento Ruta U-22, Sector Osorno - Forrahue, Tramo Km. 0,00000 a Km.
+
+11,43000, que figuran a nombre de Montecino Montalva Sergio R y Martínez Ibarra Ricardo, Roles de Avalúo 2203-4 y 2203-1, comuna de Osorno, X Región, superficies 166 m2., 6.675 m2., 133 m2., 1.081 m2., 479 m2., 565 m2., 283 m2., 3.451 m2., 621 m2., 6.361 y 553 m2. La Comisión de Peritos, fijó con fecha 24 de junio de 2002, el monto de la indemnización provisional en la cantidad $58.100.-, para el lote Nº 31; $2.976.250.-, para el lote Nº 33; $46.550.-, para el lote Nº 34; $324.300.-, para el lote Nº 35; $143.700.-, para el lote Nº 37;
+
+$169.500.-, para el lote Nº 38; $84.900.-, para el lote Nº 43; $2.139.300.-, para el lote Nº 44; $186.300.-, para el lote Nº 45; $5.731.300.-, para el lote Nº 46 y $345.900.-, para el lote Nº 47. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
