@@ -1,0 +1,17 @@
+CONCEDE PERSONALIDAD JURIDICA Y APRUEBA ESTATUTOS A "CLUB DEPORTIVO SANTA XIMENA", DE COLCHAGUA
+
+Santiago, 12 de Febrero de 1985.- Hoy se decretó lo que sigue::
+
+Núm. 156.- Vistos: Estos antecedentes, lo dispuesto en el decreto supremo Nº 110, Reglamento sobre Concesión de Personalidad Jurídica, publicado en el Diario Oficial de 20 de Marzo de 1979, y en el decreto supremo Nº 1.448, de 05 de Noviembre de 1981, modificado por decreto supremo Nº 29, del 06 de Enero de 1983, que aprobó el texto del estatuto tipo al cual podrán ceñírse los clubes deportivos que soliciten el otorgamiento del beneficio de personalidad jurídica,
+
+Decreto:
+
+1.- Concédese personalidad jurídica a la entidad denominada "Club Deportivo Santa Ximena", con domicilio en la provincia de Colchagua, Sexta Región del Libertador General Bernardo O'Higgins.
+
+2.- Apruébanse los estatutos por los cuales se ha de regir la citada entidad, en los términos de que da testimonio el instrumento protocolizado bajo el Nº 608, con fecha 28 de Septiembre de 1984, ante el Notario Público de San Fernando, don Hugo Olate Vásquez.
+
+3.- Prohíbese el expendio de bebidas alcohólicas en el recinto del citado club.
+
+Tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Alicia Cantarero Aparicio, Ministro de Justicia subrogante.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente.- Daniel Munizaga Munita, Subsecretario de Justicia subrogante.
