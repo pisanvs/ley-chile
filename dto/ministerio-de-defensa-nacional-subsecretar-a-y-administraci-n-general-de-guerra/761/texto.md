@@ -18,6 +18,8 @@ Que, en consecuencia, es conveniente reglamentar el traspaso de las funciones y 
 
 Decreto:
 
+> **Nota.** El artículo 1° del Decreto con Fuerza de Ley, Defensa, publicado el 06.04.1960, declara que para todos los efectos la denominación del organismo creado por la presente norma es "Dirección de Deportes del Estado".
+
 #### Artículo 1º
 
 <!-- parte:9319261 -->
@@ -52,7 +54,7 @@ La Sección de Educación Física continuará dependiendo de la Inspección Gene
 
 Corresponderá especialmente al Departamento de Deportes:
 
-a) La supervigilancia, inspección y fomento de las actividades deportivas nacionales de profesionales o aficionados. Podrá ordenar la suspensión de un espectáculo o la clausura de un local o establecimiento destinado a la práctica de deportes, y requerir el auxilio de la fuerza pública para el cumplimiento de las órdenes que impartan;
+a) La superintendencia, inspección y fomento de las actividades deportivas nacionales de profesionales o aficionados. Podrá ordenar la suspensión de un espectáculo o la clausura de un local o establecimiento destinado a la práctica de deportes, y requerir el auxilio de la fuerza pública para el cumplimiento de las órdenes que impartan;
 
 b) Administrar los campos de juegos, gimnasios, estadios, piscinas y demás locales o establecimientos de dominio fiscal, destinados a la práctica de deportes y que no se encuentren bajo la tuición del Ministerio de Educación Pública, de la Universidad de Chile o de alguna otra repartición del Ministerio de Defensa Nacional.
 
