@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº 174, de 28 de febrero de 1997, se expropiaron los lotes de terreno Nºs. 1, 10, 11, 13, 16, 17, 18, 20, 21 y 23, superficies 383, 1.736, 1.414, 264, 752, 763, 680, 1.010, 1.674 y 198 M2., roles de avalúos 106-28, 107-42, 107-1, 107-7, 107-3 y 107-6, comuna de Pucón, para la obra Camino Pucón - Curarrehue, sector Bifurcación Lago Caburga y se acordó precio de la indemnización con sus propietarios Eligio Paredes Reyes, Agrícola Los Maitenes Ltda., Agro Riveras del Trancura Ltda., Héctor Hernán Muller Vásquez, Humberto Elías Herrera Galleguillos, Fresia de las Mercedes González Godoy, Nelson Homero Morales Muller, María Magdalena Rivera Contreras y Audolina del Carmen Arias Villagra, ascedente a las cantidades de $440.858, para el lote 1;
+
+$1.574.334, para el lote 10, $1.304.579, para el lote 11; $341.166, para el lote 13; $749.988, para el lote 16; $759.203, para el lote 17; $729.960, para el lote 18; $1.105.970, para el lote 20 y $1.728.268, para los lotes 21 y 23.
+
+Fiscal del Ministerio de Obras Públicas.
