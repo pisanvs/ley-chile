@@ -1,0 +1,5 @@
+Decreto Exento 953, 30 Mayo 1995, Ilustre Municipalidad Rancagua dispuso expropiación de: Propiedad rol de avalúo 24-49 propietario según rol avalúo LABSA S.A.: Norte, tramo A-B en 27,45 metros con otro propietario; Sur, tramo H-C en 27,45 metros con resto de la propiedad; Oriente, tramo B-C en 21 metros con otro propietario; y Poniente, tramo A-H en 21 metros con calle Juan Nicolás Rubio. Monto indemnización $44.400.000, más reajuste contemplado en artículo 5° Decreto Ley 2186, año 1978, en caso consignación más reajuste artículo 17 citado decreto ley.
+
+Comisión de peritos René Corvalán Correa, Eduardo Schonhaut Guendelman y Oscar Novoa Vargas, fecha informe mayo de 1992; expropiación según Artículo N° 29 Ley N° 18.695, apertura calle Mujica tramo calle San Martín - calle Rubio. Pago contado.
+
+Esteban Valenzuela Van Treek, Alcalde de Rancagua.- Carlos Morales Lara, Secretario Municipal.
