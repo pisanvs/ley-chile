@@ -1,0 +1,3 @@
+Por resolución Nº 1.198, de 13 de agosto de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 96103043, presentada por JORGE MALDONADO LOBO, para operar un centro de cultivo en Punta Palqui, Comuna de Curaco de Vélez, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14 del D.S. Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 13 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
