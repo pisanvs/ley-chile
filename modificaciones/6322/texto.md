@@ -1,0 +1,1 @@
+Modifica inciso penúltimo del artículo 1°; reemplaza inciso 3°, substituye el 5° y modifica el 6° del artículo 3°, y el 4° del artículo 5° de la ley 5,171, de 2 de junio de 1933, sobre impuesto a los tabacos manufacturados.
