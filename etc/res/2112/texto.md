@@ -1,0 +1,3 @@
+Por Resolución Nº 2.112, de 18 de diciembre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; modifícase la Resolución Nº 1.965, de 1996, de esta Subsecretaría, que autorizó a SOCIEDAD COMERCIAL MUNDO MARINO LIMITADA, para realizar faenas de captura de 8 ejemplares juveniles vivos de Lobo marino común, en el litoral de la V Región, en el sentido que indica: Prorrógase el plazo señalado en el Numeral Primero de la Resolución citada precedentemente hasta el 31 de diciembre de 1996, plazo que comenzará a regir a contar de la fecha de la presente Resolución.
+
+Valparaíso, 18 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
