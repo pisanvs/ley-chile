@@ -1,0 +1,3 @@
+Por resolución No. 690, de 24 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la resolución No. 183, de 1984, de esta Subsecretaría, que autorizó a don ARTURO SOLO DE SALDIVAR CLAVEL, R.U.T. No. 6.219.053-1, domiciliado en Río de los Ciervos Km.5,5 sur, Punta Arenas, para operar una planta procesadora, ubicada en Río de los Ciervos, Km.5,5 sur, en Punta Arenas, XII Región, en virtud de lo dispuesto en el artículo 7° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 24 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
