@@ -1,0 +1,3 @@
+Por resolución Nº 1.695, de 1 de septiembre de 1999, de esta Subsecretaría, deniégase la solicitud presentada por PESQUERA EL GOLFO S.A., para ampliar actividades pesqueras extractivas con la nave ''Pelagos II'', respecto de las áreas y especies hidrobiológicas solicitadas, en virtud del artículo 19 letra e) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 1 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
