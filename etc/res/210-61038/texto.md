@@ -1,0 +1,3 @@
+Por Resolución Nº 210, de 31 de enero de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94110148, presentada por HECTOR LEONARDO BARRIA MONTIEL, para un sector ubicado en Estero Concheo, Seno Aysén, Comuna de Aysén, Provincia de Aysén, XI Región, por no dar cumplimiento el respectivo proyecto técnico al artículo 14, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 31 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
