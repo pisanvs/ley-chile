@@ -1,0 +1,1 @@
+Libera de todo derecho, impuesto o contribución la internación del material que indica, destinado a la Municipalidad de Toltén; modifica el artículo 1° y la letra b) del 2° de la ley 12.140, de 17 de octubre de 1956, que autorizó a la misma Municipalidad para contratar empréstitos para atender a diversas obras de adelanto local.
