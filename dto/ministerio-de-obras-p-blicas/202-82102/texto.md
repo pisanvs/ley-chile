@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 202, de 31 de agosto de 1990, se expropiaron los lotes N°s. 1 y 3, superficies 1.890 M2. y 3.552 M2., respectivamente, roles de avalúo N°s. 2137-77 y 2137-30, Comuna de Puerto Montt, para la ejecución de la obra Aeropuerto El Tepual, Rápido de Descarga del Sistema de Drenaje y Camino de Acceso y se acordó el precio de indemnización con sus propietarios señores José Armando Díaz Eugenio y José Erbi Eugenio Uribe, ascendente a las cantidades de $ 51.870 y $ 71.101.-
+
+Fiscal del Ministerio de Obras Públicas.
