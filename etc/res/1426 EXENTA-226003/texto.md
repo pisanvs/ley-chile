@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.426, de 24 de mayo de 2004, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 1.111, de 2004, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo biológico-pesquero de Sardina común y Anchoveta en aguas interiores de la X Región", en el sentido de reemplazar las embarcaciones artesanales La Campari II, Orión, Pacífico A, por las embarcaciones artesanales Don José, Orión II y Pacífico Alfa, respectivamente, en la nómina de naves participantes en la presente pesca de investigación.
+
+Valparaíso, 24 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
