@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 103, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 1, superficie 480 m2, rol de avalúo 3200-51, comuna de Temuco, para la obra "Camino Ruta S-20, Sector Temuco - Chol Chol, Tramo Km. 3,50000 a Km. 25,01609" y se acordó el valor de indemnización con su propietaria Marcelina Nahuel Queupil, ascendente a la cantidad de $1.314.750.-
+
+Fiscal del Ministerio de Obras Públicas.
