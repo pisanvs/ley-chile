@@ -1,0 +1,3 @@
+Por resolución Nº 1.207, de 23 de junio de 1999, de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A., para ampliar actividades pesqueras de transformación, pudiendo incorporar a la planta ubicada en Playa Blanca s/n, Coquimbo, en las líneas de elaboración de congelado y conserva, los siguientes recursos hidrobiológicos: Centolla, Centollón del norte, Camarón rojo de profundidad, Langosta enana y Pulpo.
+
+Valparaíso, 23 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
