@@ -1,0 +1,7 @@
+Blanqueo de los edificios
+
+Don Francisco de Borja Fontecilla, Gobernador intendente de la provincia i superintendente de alta policía, etc.
+
+Con previa aprobacion del Excelentísimo Supremo Gobierno, se manda que todo vecino de esta capital i sus suburbios debe blanquear su respectiva pertenencia desde la fecha de este decreto hasta el dia 15 del inmediato venidero Diciembre; encargándose a los respectivos alcaldes de barrio que en sus distritos cuiden de su ejecucion; i en el caso de que por la ausencia de los propietarios se trate de entorpecer el blanqueado, lo harán los inquilinos o arrendatarios de cuenta del alquiler i si no lo exhibieren por algun motivo acordado con el propietario, satisfarán el gasto de su cuenta, formándole a éste el debido cargo: en la intelijencia que cualquiera contravencion será escarmentada con seriedad. Si este es un beneficio que resulta a favor de la poblacion, i en él se consulta el aseo público, se mejora sin duda cada una de las propiedades, i su reforma les produce mejor estimacion. Por lo mismo si no es de esperar la omision en el cumplimiento de este decreto, se cree la mas pronta ejecucion.- Para intelijencia de todos, publíquese por bando, fíjese e imprímase.-
+
+Sala de la Intendencia de Santiago de Chile, a 20 de Noviembre de 1817.-Francisco de Borja Fontecilla.
