@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.443 de 30 de agosto de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs 49 y 53, para la obra: Camino Ruta M-40 Santa Olga-Empedrado, Sector Santa Olga-Los Pellines, Km.
+
+0,000 a Km. 10,847.92, que figuran a nombre de Mendoza Aylwin Eduardo Jesús, rol de avalúo 419-3, Comuna de Constitución, VII Región, superficies 4.448 m2 y 7.406 m2. La Comisión de Peritos fijó con fecha 17 de septiembre de 1998, el monto de la indemnización provisional en la cantidad de $6.944.800.-, para el lote Nº49 y $10.952.480.- para el lote Nº53. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
