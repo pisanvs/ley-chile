@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.513, de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº9-Q, superficie 1.081,50 m², rol de avalúo Nº60-47, comuna de Futrono, para la obra ''Camino Ruta T - 665, Sector Llifén - Calcurrupe, Tramo Km. 75,75334 a Km. 77,62103, comuna de Futrono, provincia de Valdivia'', X Región, y se acordó el valor de la indemnización con su propietario Juan de Dios Barra Castro, ascendente a la cantidad de $3.334.988.-
+
+Fiscal del Ministerio de Obras Públicas.
