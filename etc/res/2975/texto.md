@@ -1,0 +1,3 @@
+Por resolución Nº 2.975, de 23 de diciembre de 2002, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.512 de 1996, de esta Subsecretaría, sólo en cuanto autorizó a INDUSTRIAL SANTA MARIA S.A. para realizar actividades pesqueras con la nave "Santa María II", sobre el recurso Merluza de cola, en el área marítima de la X Región, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 23 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
