@@ -1,0 +1,3 @@
+Por resolución Nº 1.992 de 11 de septiembre de 2000 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96101057 presentada por BALDOVINO ERNESTO RIOS PUÑANCO, para instalar y operar el centro de cultivo correspondiente al Lote C, Parcela 15, Ribera Norte del Río Maullín, comuna de Maullín, provincia de Llanquihue, X Región, conforme lo dispuesto en el artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
