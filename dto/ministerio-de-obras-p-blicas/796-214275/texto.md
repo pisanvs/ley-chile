@@ -1,0 +1,3 @@
+Por decreto MOP Nº 796 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 64-A, superficie 2.216,00 m², rol de avalúo Nº 278-57, comuna de Pelluhue, para la obra "Camino Chovellen - Cobquecura, Sector: Chovellen - Límite Regional, Tramo 18,260.00 a Km. 35,158.60", VII región y se acordó el valor de la indemnización con su propietario Luis Alvaro Donoso Flores, ascendente a la cantidad de $9.283.571.
+
+- Fiscal del Ministerio de Obras Públicas.
