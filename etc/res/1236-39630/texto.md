@@ -1,0 +1,3 @@
+Por Resolución exenta N° 1.236 de fecha 14.10.93, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó complementariamente a la empresa de origen argentino El Rápido S.R.L., para efectuar servicio de transportes terrestre internacional de pasajeros entre Buenos Aires (Argentina) y Santiago-Viña del Mar (Chile) y viceversa, con una (1) Frecuencia Semanal, utilizando el paso fronterizo de Túnel Cristo Redentor.-
+
+Sergio González Tagle, Subsecretario de Transportes.
