@@ -1,0 +1,5 @@
+AUTORIZA A VASQUEZ Y COMPAÑIA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO AUTORIZACIONES QUE INDICA
+
+Por Resolución No. 397 de 12 de Mayo de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza conforme a la normativa del Decreto No. 436, de 1985, de la Secretaría de Estado mencionada a Vásquez y Compañía Limitada, domiciliada en Talcahuano, para operar las embarcaciones Pam Elicura y Pam Oficina Constancia, en el litoral de las Regiones VI a la VIII, en faenas extractivas de jurel, sardina española, caballa, anchoa, sardina común, merluza común y camarón nailon. Las embarcaciones deberán contar a bordo con sistemas adecuados de preservación de la materia prima. Además, se deja sin efecto la autorización otorgada por Resolución No. 291, de 1980, de la misma Subsecretaría a Sociedad Pesquera Pacífico Sur Limitada, para operar, entre otras la embarcación Elicura y la Resolución No. 268, de 1981, que autorizó a Sociedad Pesquera Pacífico Ltda. "Pacimar Ltda." para operar la embarcación Oficina Constancia.
+
+Valparaíso, 12 de Mayo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
