@@ -1,0 +1,3 @@
+Por resolución exenta Nº 559, de 26 de febrero de 2004, de esta Subsecretaría, autorízase a CORPESCA S.A. para ampliar actividades pesqueras extractivas con la nave "Coray I", en las áreas marítimas de la I y II Regiones, por fuera del área de reserva artesanal, con cerco, sobre los recursos hidrobiológicos Jibia Dosidicus gigas, Sardina redonda Etrumeus teres, Vinciguerria Vinciguerria sp., Anchoa blanca Anchoa nasus, Jurel fino Decapterus macrosoma y Cojinoba del norte Seriolella violacea.
+
+Valparaíso, 26 de febrero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
