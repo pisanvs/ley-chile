@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 143, del 27 de diciembre del año 2000, se aprobó la disolución voluntaria de la ''Cooperativa de Vivienda y Servicios Habitacionales Villa Caussade Limitada'', que consta en la escritura pública suscrita con fecha 26 de octubre del año 2000, ante el Notario Público de Santiago don Héctor Bown Ortega.
+
+Por orden del Señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
