@@ -1,0 +1,35 @@
+SUPRIME EL DEPARTAMENTO DE INVESTIGACIONES ADUANERAS DEL SERVICIO DE ADUANAS
+
+Decreto ley N° 87.- Santiago, 15 de Octubre de 1973.- Vistos: lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973,
+
+La Junta de Gobierno ha acordado dictar el siguiente:
+
+Decreto ley:
+
+#### Artículo 1
+
+Suprímese a contar desde esta fecha el Departamento de Investigaciones Aduaneras del Servicio de Aduanas.
+
+#### Artículo 2
+
+Las funciones correspondientes a dicho Departamento serán ejercidas, mientras no se dicten las normas sustitutivas pertinentes, a través de la Superintendencia de Aduanas, la que sólo podrá requerir el auxilio de la Fuerza Pública, cuando proceda, al Cuerpo de Carabineros y/o a la Policía Marítima dependiente de la Dirección del Litoral y de la Marina Mercante Nacional.
+
+#### Artículo 3
+
+La Superintendencia de Aduanas dispondrá del personal de la Planta del Departamento a que se refiere el artículo 1° y del que a cualquier título esté prestando servicios en él, en los términos que procedan de acuerdo con las leyes vigentes y necesidades del servicio.
+
+#### Artículo 4
+
+Todas las armas y elementos similares a que se refiere la ley N° 17.798, de 21 de Octubre de 1972, que se hallen destinadas o en poder del Departamento de Investigaciones Aduaneras o del personal indicado en el artículo anterior, deberán de inmediato entregarse y ponerse a disposición de la Dirección del Litoral y de Marina Mercante Nacional.
+
+#### Artículo 5
+
+Derógase toda norma referente a la existencia del Departamento de Resguardo y Policía del Servicio de Aduanas, posteriormente denominado Departamento de Investigaciones Aduaneras, contenidas en el DFL. N° 213, de 1953, y normas legales complementarias y modificatorias.
+
+Quedan especialmente incluidas en esta derogación las disposiciones que autorizan la posesión y/o el porte de armas de fuego por parte de dicho Departamento y de su personal y aquellas normas establecidas en la ley N° 17.798, sobre Control de Armás y que excepcionan en cualquiera forma de su aplicación al mismo Departamento y a su personal.
+
+Deróganse, en general, todos los preceptos legales reglamentarios y de otra naturaleza que sean contrarios a lo establecido en el presente decreto ley.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros e Investigaciones y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Lorenzo Gotuzzo Borlando, Contralmirante, Ministro de Hacienda.- Oscar Bonilla Bradanovic, General de División, Ministro del Interior.- Patricio Carvajal Prado, Vicealmirante, Ministro de Defensa Nacional.
+
+Lo que transcribo a US.- para su conocimiento.- Dios guarde a US.- Victoria Arellano S. Subsecretaria de Hacienda.
