@@ -1,0 +1,5 @@
+AUTORIZA A UNION NACIONAL DE COOPERATIVAS EXPLOTADORAS DE ALGAS LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.155, de 29 de Septiembre de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Unión Nacional de Cooperativas Explotadoras de Algas Ltda., domiciliada en Santiago, para ampliar actividades pesqueras de transformación autorizadas por resolución No. 387, de 1986, de esta Subsecretaría de Pesca, en orden a incluir entre las líneas de elaboración que puede utilizar la de conservería. Para estos efectos se le autorizan los siguientes recursos hidrobiológicos: Sardina común, salmón del Pacífico, almeja, macha, cholga, chorito, loco, caracol trumulco, calamar, lapa, chocha, navajuela, ostión del Sur, palo - palo, centolla, centollón, jaiba y erizo. Será abastecida por pescadores artesanales y terceros con la excepción del recurso Salmón del Pacifico que deberá provenir de centros de cultivo autorizados.
+
+Valparaíso, 29 de Septiembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
