@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.311, de 10 de mayo de 2004, de esta Subsecretaría, autorízase a SOUTH PACIFIC KORP S.A. para ampliar actividades pesqueras extractivas con la nave "Libas", donde podrá capturar los recursos hidrobiológicos que a continuación se indican: a) En el área marítima correspondiente a las Regiones V, VI, VII, IX y X, por fuera de las 60 millas náuticas, con arrastre de media agua: Jibia; b) En el área marítima correspondiente a las Regiones V, VI, VII, IX y X, por fuera del área de reserva artesanal, con cerco: Jibia.
+
+Valparaíso, 10 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
