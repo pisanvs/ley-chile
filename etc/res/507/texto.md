@@ -1,0 +1,3 @@
+Por Resolución N° 507, de 29 de Abril de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deroga la resolución N° 560, de 1990, de Subsecretaría, que autorizó al SINDICATO DE TRABAJADORES INDEPENDIENTES, ALGUEROS Y PESCADORES ARTESANALES "ESPERANZA", domiciliado en Maullín, para instalar y operar un establecimiento de cultivo de algas del género Gracilaria, en el Río Cariquilda, Comuna de Maullín, Provincia de Llanquihue, X Región, en un área de 75.000 m2, por renuncia de su titular.
+
+Valparaíso, 29 de Abril de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
