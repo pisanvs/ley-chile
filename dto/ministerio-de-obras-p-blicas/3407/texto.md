@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.407 de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs. 271-A, 271-B, 271-C, 278-B, 278-C, 278-D, 278-E, 278-F y 278-G, superficies 326 m2., 637 m2., 338 m2., 1.834 m2., 1.031 m2., 503 m2., 965 m2., 582 m2., y 141 m2., rol de avalúo 21281-2, comuna de Concepción, para la obra Camino Acceso Norte a Concepción, Octava Región y se acordó el valor de indemnización con su propietaria Forestal Bío Bío S.A., ascendente a la cantidad total de $2.295.331.
+
+- Fiscal del Ministerio de Obras Públicas.
