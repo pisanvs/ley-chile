@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº934, de 25 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 27 y 31, para la ejecución de la obra ''Camino Lautaro - Curacautín III, Segunda Etapa, Km.
+
+28,000 al Km. 56,04946'', que figuran a nombre de Otth Paillalef Eduardo y Hashagen Wagner Hans, Rol de Avalúo 307-104 y 20267, comuna de Curacautín, IX Región, superficies 299 y 2.200 m2. La Comisión de Peritos fijó, con fecha 31 de mayo de 1999, el valor provisional de la indemnización en la cantidad de $101.700, lote 27, y $660.000, lote 31.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
