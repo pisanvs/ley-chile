@@ -1,0 +1,3 @@
+Por decreto MOP Nº 327 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº 35-C, superficie 112 m², Rol de Avalúo Nº 209-89, comuna de Los Alamos, VIII Región para la obra "Camino Ruta P-46, Sector Los Alamos-Sara de Lebu, Km. 0,00000 a Km. 16,84000" y se acordó el valor de indemnización con su propietario María Mirella González Cid, ascendente a la cantidad de $7.909.041.
+
+Fiscal del Ministerio de Obras Públicas.
