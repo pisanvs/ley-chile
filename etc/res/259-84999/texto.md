@@ -1,0 +1,5 @@
+RECTIFICA Y COMPLEMENTA RESOLUCIONES QUE AUTORIZAN A SALMOTEC S.A. PARA AMPLIAR E. INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 259, de 14 de Febrero de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se rectifica las resoluciones No. 1.905 y No. 1.906 de 1989 de esta Subsecretaría, por las cuales se autorizó a Salmotec S.A., R.U.T. No. 89.651.400-8, domiciliada en Santiago, para ampliar actividades pesqueras, en el sentido de reemplazar en el numeral 1 la frase "autorizadas por resolución No. 1.871, de 1989" por la siguiente: "autorizadas por resolución No. 1.955, de 1989". Compleméntase la resolución No. 1.955, de 1989, de esta Subsecretaría de Pesca, por la cual se autorizó a Salmotec S.A. para iniciar actividades pesqueras, en el sentido de señalar que, no obstante su número y fecha, dicha resolución, por su ingreso a esta Subsecretaría de Pesca, es la iniciación de actividades pesqueras de Salmotec S.A.
+
+Valparaíso, 14 de Febrero de 1990. Roberto Cabezas Bello, Subsecretario de Pesca.
