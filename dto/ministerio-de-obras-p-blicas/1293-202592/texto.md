@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.293 de fecha 30 de julio de 2002, se expropió el lote de terreno Nº 112-E, superficie 395,00 m2, rol de avalúo Nº 225-113, comuna de Olmué, para la obra ''Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10,984 a Km. 34,500'', V Región y se acordó el valor de la indemnización con su propietaria Cristina Elena Toledo Leiva, ascendente a la cantidad de $26.483.445.-
+
+Fiscal del Ministerio de Obras Públicas.
