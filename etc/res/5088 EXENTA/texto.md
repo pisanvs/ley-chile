@@ -1,0 +1,29 @@
+DISPONE CAMBIO DE SUJETO DE DERECHO DEL IVA EN LAS VENTAS DE GANADO VIVO ENTRE EL 1º DE AGOSTO DE 1999 Y EL 30 DE JULIO DEL AÑO 2000
+
+Resolución Nº Ex. 5.088 de fecha 28.07.99, que dispone cambio de sujeto de derecho del IVA en las ventas de ganado vivo, entre el 1º de agosto de 1999 y el 30 de julio del año 2000.
+
+Dispónese que para la presente resolución se entenderá por ganado a cualquiera de las siguientes especies: bovino, porcino, caprino, equino y camélido.
+
+Se ha dispuesto el cambio parcial de sujeto de derecho del IVA del vendedor de ganado vivo, a las ferias de ganado, corredores de ganado, mataderos o plantas faenadoras, industriales de la carne y comerciantes de ganado que declaren en Primera Categoría en base a renta efectiva, y que posean un capital propio al 01.01.98 igual o superior a $50.000.000 o hayan efectuado ventas o servicios netos anuales durante los años 1996, 1997 o 1998 por un monto igual o superior a $100.000.000; al adquirente cuando sea abastero, supermercado, fábrica de cecinas, carnicero u otro contribuyente que adquiera ganado vivo que declare en Primera Categoría en base a renta efectiva con contabilidad completa, y que posea un capital propio al 01.01.98 igual o superior a $50.000.000 y haya efectuado compras anuales de ganado vivo durante los años 1996, 1997 o 1998 por un monto igual o superior a
+
+$100.000.000; a los agricultores propietarios de bienes raíces agrícolas que durante los años 1996, 1997 o 1998 hayan efectuado ventas anuales de ganado vivo por $100.000.000 o más, entre el 01.01.99 al 31.07.99, o entre el 01.08.99 al 31.07.2000 completen ventas por $100.000.000 o más; a los contribuyentes señalados en el inciso primero del dispositivo número 2 que hayan iniciado o inicien actividades a contar del 01.01.98 con un capital propio inicial igual o superior a
+
+$50.000.000, que durante el año 1998 hayan efectuado ventas o servicios por $100.000.000 o más, o que en el período comprendido entre el 01.01.99 y el 31.07.99 o entre el 01.08.99 y el 31.07.2000 hubieren completado o completen ventas o servicios por $100.000.000 o más. Igualmente afectará, a los contribuyentes que cambien o amplíen su giro a la compra de ganado vivo o a faenamiento de ganado y tengan un capital propio inicial de $50.000.000 o más, o que en el período comprendido entre el 01.01.99 y el 31.07.99 o entre el 01.08.99 y el 31.07.2000 hubieren completado ventas o servicios, por $100.000.000 o más; a los contribuyentes del inciso segundo del dispositivo número 2 que a partir del 01.01.98 hayan iniciado o inicien actividades con un capital propio inicial de $50.000.000 y compras anuales de ganado vivo durante 1998 por $100.000.000 o más, o en el período comprendido entre el 01.01.99 y el 31.07.99 o entre el 01.08.99 y el 31.07.2000 hubieren adquirido o adquieran ganado vivo por $100.000.000 o más. Igualmente a aquellos contribuyentes que cambien o amplíen su giro a los señalados en el inciso segundo que tengan un capital propio inicial de $50.000.000 o más, y durante el año 1998 hayan adquirido ganado vivo por $100.000.000 o más o en el período comprendido entre el 01.01.99 y el 31.07.99 o entre el 01.08.99 y el 31.07.2000 hayan adquirido o adquieran ganado vivo, por $100.000.000 o más.
+
+Las ventas de ganado que se efectúen entre los contribuyentes indicados en el párrafo anterior, no quedarán afectas al cambio de sujeto de derecho del Impuesto al Valor Agregado.
+
+Como consecuencia del cambio parcial del sujeto del impuesto, en general, los contribuyentes señalados anteriormente deberán emitir ''facturas de compra'' y recargar, separadamente en ellas un 8% de IVA a retener y un 10% de IVA sobre esta misma base, que deberá declarar y pagar el vendedor como débito fiscal, no teniendo este último obligación de emitir factura por dicho débito.
+
+Las ferias de ganado y corredores de ganado con oficina establecida, como consecuencia del cambio parcial del sujeto de tributo, deberán emitir ''facturas de compra'' en las mismas condiciones anteriores debiendo dejar constancia expresa del impuesto retenido, debiendo liquidar en el mismo documento la comisión y el IVA de ésta o cualquier otro gasto o derecho convenido con sus mandantes.
+
+Si debido al cambio de sujeto establecido en la presente resolución, se produjeran remanentes o créditos fiscales retenidos, el vendedor de ganado vivo, podrá solicitar su devolución presentando la petición ante el Servicio de Impuestos Internos, con los antecedentes, requisitos y en los plazos señalados en el dispositivo número 11.
+
+Los Directores Regionales podrán excepcionar del régimen establecido en la presente resolución, a aquellos vendedores de ganado que lo soliciten siempre que cumplan con los requisitos señalados en el dispositivo número 13 de la resolución.
+
+Los contribuyentes que pasen a ser retenedores en virtud de cumplir con los requisitos señalados en la resolución, deberán solicitar en la Unidad del Servicio de Impuestos Internos que corresponda a su domicilio, se les certifique su calidad de agente retenedor, dentro del plazo de treinta días hábiles contado desde la fecha de publicación de este extracto en el Diario Oficial.
+
+Los agentes retenedores deberán presentar, hasta el día 15 de cada mes, en la Unidad del Servicio que corresponda a su domicilio, un informe que contenga el detalle de las operaciones efectuadas y de las retenciones de IVA conforme al detalle indicado en el dispositivo número 19.
+
+El texto íntegro de esta resolución se encuentra incluido en la ''página Web del Servicio en Internet, cuya dirección es http://www.sii.cl y además, se publicará en la edición del Boletín del Servicio del mes de julio de 1999.-
+
+Javier Etcheberry Celhay, Director.
