@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.047, de 30 de julio de 1998, se expropiaron los lotes de terreno No. s. 16 y 23-B, superficies 46 y 180 M2., roles de avalúo 153-21 y en trámite, comuna de Maule, para la obra Camino Ruta K-635, Sector Cruce Ruta 5 (Chacarillas)-Duao y se acordó precio de indemnización con sus propietarios Florindo Ramírez Verdugo y Emilio Avila Fuentes, ascendentes a las cantidades de $ 143.929.- para el lote 16 y $ 202.554.- para el lote 23-B.
+
+- Fiscal del Ministerio de Obras Públicas.
