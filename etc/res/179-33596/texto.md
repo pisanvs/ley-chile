@@ -1,0 +1,11 @@
+Por resolución número N° 179, de 12 de Marzo de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESCA MARINA LTDA., R.U.T. N° 89.389.200-1, para ampliar actividades pesqueras de transformación, autorizadas por resolución N° 765, de 1985 de esta Subsecretaría, en orden a elaborar en las líneas de proceso congelado, conserva, deshidratado, seco-salado, fresco-enfriado y ahumado, en la planta industrial en Avda. Costanera N° 795, IV Región los siguientes recursos hidrobiológicos: Albacora o pez espada, Anchoa o anchoveta, Anguila, Atún aleta amarilla, Atún aleta larga, Azulejo, Bacalao de profundidad, Bonito, Caballa, Cojinoba del norte, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Dorado, Jurel, Lenguado de ojos chicos, Lenguado de ojos grandes, Lisa, Machuelo o tritre, Marrajo o tiburón, Merluza común, Palometa, Pejegallo, Pejerrey de mar, Pejezorro, raya, Salmón del atlántico, Salmón del Pacífico, Sardina, Sardina común, Sierra, Tollo, Trucha arcoiris, Vidriola, Almeja o taca, Almeja, Calamar, Caracol locate, Caracol tegula, Caracol trumulco, caracol palo palo, Caracol rubio, Chitón, Chocha, Cholga, Chorito, Choro, Jibia, Lapa, Macha, Ostión del norte, Ostra chilena, Ostra del Pacífico, Pulpo, Camarón de río, Camarón nailon, Gamba, Jaiba, Jaiba mora, Langostino amarillo, Langosino colorado, Erizo; Deshidratado y secado: Cochayuyo, Chasca, Huiro, Luga-luga y Pelillo.
+
+Los recursos serán adquiridos a pescadores artesanales e industriales, además de su propia flota autorizada.
+
+El abastecimiento del recurso Langostino colorado deberá provenir de las personas debidamente autorizadas.
+
+Deberá adquirir los recursos Ostra del Pacífico, salmón del Atlántico, salmón plateado y trucha arcoiris, de centros de cultivos autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 12 de Marzo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
