@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 545, de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 150, superficie 119 m2, Sin Rol, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al 70,000, Etapa IV'', y se acordó el valor de indemnización con su propietario Municipalidad de Alto del Carmen, ascendente a la cantidad de $570.813.
+
+Fiscal del Ministerio de Obras Públicas.
