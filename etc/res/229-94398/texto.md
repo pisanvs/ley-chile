@@ -1,0 +1,3 @@
+Por Resolución No. 229 de fecha 27 de Julio de 1989, conforme artículo 51 Ley No. 16.391 de 1965, y DS 181 de 1988, de Vivienda y Urbanismo, SERVIU IX Región dispuso expropiación inmueble ubicado en calle Manuel Antonio Matta No. 489-A, ciudad Temuco, Rol de Avalúo No. 957 inscrito a nombre de Sivia Migueles Cisternas, a fojas 1312 No. 1575 año 1973, Registro de Propiedad Conservador Bienes Raíces de Temuco. Informe Tasación Expropiación fecha 28 de Noviembre de 1988 Comisión Peritos señores José Méndez Manríquez, ingeniero civil, Mario Molina Ramwell, constructor civil, y Pablo Reidel Wanner, arquitecto. Monto provisional indemnización suma $ 6.560.138.- incluido reajuste legal artículo 5° DL No. 2.186 de 1978, pagadero al contado.
+
+Director Regional.
