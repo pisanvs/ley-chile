@@ -1,0 +1,3 @@
+Por decreto del Ministerio de Obras Públicas Nº1.884, de 30 de julio de 1999, se dejó sin efecto el decreto de dicho Ministerio Nº1.276, de 31 de mayo de 1999, que ordenó la expropiación, autorizó Convenio Directo de Precio Ad-Referéndum y aprobó el Plano y Cuadro de Expropiación del lote de terreno Nº528, necesario para la obra ''Concesión Internacional Ruta 5, Tramo Temuco - Río Bueno'', Km. 867.700,00 a Km. 878.732,50.-
+
+Fiscal del Ministerio de Obras Públicas.
