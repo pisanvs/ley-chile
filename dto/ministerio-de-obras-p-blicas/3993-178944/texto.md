@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.993, de fecha 31 de agosto de 2000, se expropiaron los lotes de terreno Nºs. 5 y 6, superficies 104 y 178,5 M2, respectivamente, rol de avalúo 395-54, comuna de Pitrufquén, para la obra ''Camino Ruta S-65, Sector Pitrufquén Ñancul, Km. 0,000 al Km. 12,250'' y se acordó el valor de indemnización con su propietaria Honoria Verónica Landeros Ñanculef, ascendente a la cantidad $377.217.-
+
+Fiscal del Ministerio de Obras Públicas.
