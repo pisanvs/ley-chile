@@ -1,0 +1,11 @@
+DEROGA RESOLUCION No. 314 DE 1985, QUE EXCLUYE A LAS NAVES DE BANDERA ITALIANA, DEL TRANSPORTE DE CARGA GENERAL DE CHILE A VENEZUELA Y VICEVERSA
+
+(Resolución)
+
+Núm. 754.- Santiago, 05 de Noviembre de 1990.- Vistos; Lo dispuesto en el artículo 4° del DL No. 3.059 de 1979, modificado por ley No. 18.454, de 1985; artículos 27 y 28 del Decreto Supremo No. 24 (T. y T.) de 14 de Febrero de 1986, reglamentario de la Ley de Marina Mercante, y Teniendo presente: Que por Resolución No. 314 (T. y T.) de 16 de Abril de 1985, la Comisión establecida en el artículo 4° del DL No. 3.059 de 1979, excluyó a las naves de bandera italiana y a las fletadas y operadas por empresas navieras italianas del transporte marítimo de carga general de puertos chilenos a puertos de Venezuela y viceversa, por el tiempo que las naves de la Empresa Marítima S.A. estuvieren impedidas de acceder al transporte marítimo de cargas desde puertos italianos a puertos venezolanos y viceversa. Que la Embajada de Italia en Chile, en Nota Diplomática No. 3.681, de 21 de Septiembre de 1989, puso en conocimiento del Ministerio de Relaciones Exteriores, que las medidas adoptadas por la Autoridad Italiana, en contra de la Empresa Marítima S.A., dejaron de tener vigencia de acuerdo a la ley No. 69/1987 de dicho país, por lo que solicita la revocación de la Resolución No. 314 ya citada. Que la Asociación Nacional de Armadores de Chile, en Nota No. 08/90, no discrepa de lo solicitado. Que en atención a los antecedentes expuestos la Comisión del Artículo 4° del DL 3.059 de 1979, en reunión ordinaria No. 45/90, acordó, por la unanimidad de los miembros asistentes, la derogación de la indicada Resolución, por lo que en cumplimiento de lo acordado por la Comisión, procede a dictar la siguiente:
+
+Resolución:
+
+Derógase la Resolución No. 314, (T. y T.) publicada en el Diario Oficial con fecha 18 de Abril de 1985.
+
+Anótese, comuníquese a la Dirección General del Territorio Marítimo y de Marina Mercante y publíquese.- Víctor Germán Correa Díaz, Ministro de Transportes y Telecomunicaciones. Lo que transcribo para su conocimiento.- Saluda a Ud.- Patricia Muñoz Villela, Jefe Depto. Administrativo.
