@@ -20736,7 +20736,7 @@ CAPITULO 14-8 (Bancos)
 
 MATERIA:
 
-EXENCION DE IMPUESTO DE TIMBRES Y ESTAMPILLAS. DOCUMENTOS DE EXPORTACIONES Y DE CREDITOS ALADI.
+EXENCION DE IMPUESTO DE TIMBRES Y ESTAMPILLAS. DOCUMENTOS DE EXPORTACIONES Y DE CREDITOS AL EXTERIOR.
 
 1.- Documentos necesarios para operaciones destinadas al financiamiento de exportaciones.
 
@@ -20752,15 +20752,15 @@ c) Los documentos en los que consten los anticipos de compradores del exterior y
 
 d) Los documentos que den cuenta de financiamientos externos obtenidos por las empresas bancarias con el único fin de cursar los créditos señalados en la letra a) anterior.
 
-e) Los pagarés con que se documenten los préstamos cursados para emitir las Boletas de Garantía o cartas de crédito stand by a que se refiere el numeral 1.1 del Capítulo XXI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, y las letras a) y b) anteriores del N° 5 del Capítulo 8-11 de esta Recopilación Actualizada de Normas.
+e) Los pagarés con que se documenten los préstamos cursados para emitir las Boletas de Garantía o cartas de crédito stand by para responder por las garantías de calidad de exportaciones chilenas; de seriedad en el cumplimiento de propuestas abiertas en el exterior a que concurran exportadores chilenos; o por el cumplimiento de contratos de exportación firmados por exportadores chilenos..
 
 f) Las letras de cambio y los pagarés con los que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, que tengan por objeto pagar a exportadores chilenos el precio de mercaderías importadas desde Chile, de conformidad con lo dispuesto en el N° 1 del Capitulo 13-27 de esta Recopilación.
 
-2.- Créditos para operaciones ALADI.
+2.- Créditos al exterior.
 
-De conformidad con lo dispuesto por el N° 16 del articulo 24 del D.L. N° 3.475, incorporado por la Ley N° 19.155, publicada en el Diario Oficial del 13 de agosto de 1992, están exentos del impuesto de timbres y estampillas los documentos necesarios para el otorgamiento de créditos de dinero desde Chile hacia otros países, dentro del marco de los Convenios de Pagos y Créditos Recíprocos entre Bancos Centrales de los países miembros de la Asociación Latinoamericana de Integración (ALADI) , cuyas características determine esta Superintendencia.
+De conformidad con lo dispuesto por el N° 16 del artículo 24 del D.L. N° 3.475, incorporado por la Ley N° 19.155 y modificado por la Ley N° 19.506, publicadas en el Diario Oficial del 13 de agosto de 1992 y del 30 de julio de 1997, respectivamente, están exentos del impuesto de timbres y estampillas los documentos necesarios para el otorgamiento de créditos de dinero desde Chile hacia otros países, que se efectúen con recursos provenientes del exterior, que se encuentren exceptuados del mencionado impuesto, como también aquellos créditos que se cursen dentro del marco de los Convenios de Pagos y Créditos Recíprocos entre Bancos Centrales de los países miembros de la Asociación Latinoamericana de Integración (ALADI), cuyas características determine esta Superintendencia.
 
-En concordancia con la disposición citada, se establece que los documentos que se beneficiarán de la exención antes citada, serán los instrumentos con que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, para financiar exportaciones destinadas a Chile, de conformidad con lo dispuesto en la letra e) del N° 1 del Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales y en el N° 2 del Capítulo 13-27 de esta Recopilación, siempre que tales documentos sean rembolsables por intermedio del respectivo Convenio de Pagos y Créditos Recíproco.
+En concordancia con la disposición citada, se establece que los documentos que se beneficiarán de dicha exención, serán los instrumentos con que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, de conformidad con lo dispuesto en el Capítulo III.B.5 del Compendio de Normas Financieras del Banco Central de Chile, ya sea que se otorguen con recursos provenientes de créditos del exterior cuyos documentos se encuentren exentos del impuesto de timbres y estampillas, o bien, que tales créditos sean reembolsables por intermedio del respectivo Convenio de Pagos y Créditos Recíprocos.
 
 CAPITULO 15-1 (Bancos)
 
@@ -23468,7 +23468,13 @@ PROHIBICION DE OFRECER INCENTIVOS DISTINTOS DE INTERESES, REAJUSTES O COMISIONES
 
 A las instituciones financieras no les está permitido ofrecer incentivos en dinero o avaluables en dinero, distintos de intereses, reajustes o comisiones, para atraer a la clientela y al público a que efectúe depósitos, contrate créditos u otros servicios con ellas. Este principio es absoluto respecto de las operaciones pasivas, ya se trate de cuentas corrientes, cuentas de ahorro, depósitos a la vista o a plazo, etc.
 
-Las operaciones activas se encuentran sujetas a iguales normas. Sin embargo se exceptúa el sistema denominado "de marca compartida" (co-branding), utilizado en tarjetas de crédito y que consiste en una asignación de puntaje al titular de la tarjeta, según el uso que haga de ella, permitiéndole acceder, de acuerdo al puntaje acumulado, a determinados beneficios otorgados por el comercio asociado a la tarjeta y siempre que tales beneficios guarden una razonable proporción con el esfuerzo realizado para obtener el puntaje requerido. Esta operatoria así acotada respecto de este sistema en ningún caso significa aceptar que se efectúen sorteos relacionados con él, que permitan a un número reducido de clientes, recibir bienes de valor desproporcionado con el aporte realizado. Esto no es aceptable bajo ningún concepto, aunque los bienes sorteados los proporcione el comercio asociado o terceros.
+Las operaciones activas se encuentran sujetas a las mismas normas. Sin embargo, se exceptúa el sistema denominado "de marca compartida" (co-branding) utilizado en tarjetas de crédito y que consiste en una asignación de puntaje al titular de la tarjeta, según el uso que haga de ella, permitiéndole acceder, de acuerdo al puntaje acumulado, a determinados beneficios otorgados por el comercio asociado a la tarjeta y siempre que ellos estén disponibles para todos los tarjeta-habientes en igualdad de condiciones y el emisor no participe en forma alguna en su entrega.
+
+La obligación de que los beneficios ofrecidos alcancen a todos los tenedores de tarjetas en igualdad de condiciones, implica una prohibición absoluta de asignar tales beneficios mediante sorteos u otros procedimientos selectivos basados en el azar o en otros factores diferentes al puntaje acumulado por el uso de la tarjeta.
+
+Por su parte, el impedimento de participar en la entrega de los beneficios, alcanza tanto a la oferta de ellos por el propio emisor o por cuenta de él, como cualquier intervención de éste en la administración de la entrega de los servicios o bienes de que se trate.
+
+Además, en las promociones de las tarjetas de crédito y en la información acerca del sistema, dirigida a sus clientes o al público en general, las instituciones financieras deberán señalar en forma explícita que la entrega de los servicios o bienes ofrecidos como la ulterior atención que ellos demanden, es de exclusiva responsabilidad de la empresa participante en el contrato de co-branding, no cabiéndole a la entidad financiera ninguna intervención en ello.
 
 CAPITULO 19-1 (Bancos y Financieras)
 
