@@ -1,0 +1,1 @@
+Deroga decreto N° 1,174, de 6 de mayo de 1922, que separó del servicio policial al ex-Comisario Inspector de la Policía de Santiago, don Jorge Basulto Cristi, y concede pensión.
