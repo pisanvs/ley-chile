@@ -1,0 +1,5 @@
+Por decreto MOP Nº186, de 10 de marzo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº21 para la obra:
+
+"Sistema Norte-Sur. Tramo F: Carlos Valdovinos-Río Mapocho. Sector: Km. 1.280,00 al Km. 1.820,00", Región Metropolitana, que figura a nombre de Moya Figueroa Luis, rol de avalúo 3614-13, comuna de Quinta Normal, superficie 301 m². La comisión de peritos integrada por los señores Itsang Lu Chen, Joaquín Guillermo Enrique Eyzaguirre Edwards y María Cristina Camus Palacios, fijó con fecha 10 de enero de 2003, el valor provisional de la indemnización en la cantidad de $19.125.300.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
