@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.144, de 31 de julio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiarion los lotes de terreno Nºs. 1, 2, 3, 4 y 5. Obra: Camino Mejoramiento Ruta L-45, sector Escuela Llepo-Pte. Los Hualles (Pte. Vega de Salas), Tramo Km.
+
+25,647 al 26,460, que figuran a nombre de Humberto Antonio Orellana Zura, Iansa y Jorge Antonio Alarcón Vásquez, roles de avalúos 557-82, en trámite y 555-3, comuna de Linares, superficies 2.536,50; 6.202,73; 902,56; 676 y 1.147,74 M2, respectivamente. La comisión de peritos fijó con fecha 15 de junio de 1999, en la cantidad de $552.190, para el lote Nº 1; $2.310.333, para el lote Nº 2; $1.713.307, para el lote Nº 3; $536.120, para el lote Nº 4 y $294.729, para el lote Nº 5. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
