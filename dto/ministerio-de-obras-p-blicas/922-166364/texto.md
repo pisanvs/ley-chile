@@ -1,0 +1,3 @@
+Por decreto MOP Nº922, de 22 de marzo del 2000, se expropió el lote de terreno Nº3-B, superficie 2.193,0 m², rol de avalúo 312-36, comuna de Freire, para la obra Concesión Internacional Ruta 5, Tramo: Collipulli-Temuco, Novena Región y se acordó el valor de indemnización con su propietario Manuel Ernesto Villalba Cerda, ascendente a la cantidad de $9.677.738.-
+
+Fiscal del Ministerio de Obras Públicas.
