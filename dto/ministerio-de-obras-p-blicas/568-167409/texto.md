@@ -1,0 +1,3 @@
+Por decreto MOP Nº 568, de 28 de febrero de 2000, se expropiaron los lotes de terreno Nºs. 3, 4 y 5, roles de avalúos 3150-40 y 3150-25, comuna de Chillán, obra Camino Ruta N-55, sector Chillán Pinto y se acordó precio de indemnización con sus propietarios María Jiménez y otros y Patricio Sandoval Rivera, ascendente a las cantidades que se indican en dicho decreto.
+
+Fiscal del Ministerio de Obras Públicas.
