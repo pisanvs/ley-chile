@@ -1,0 +1,7 @@
+Por Resolución N° 572, de 26 de marzo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA VIENTO SUR LTDA., para ampliar las actividades pesqueras que tiene autorizadas por Resolución N° 240, de 1996, de esta Subsecretaría, en orden a operar la nave "Sunnan II", autorizada por la Resolución citada precedentemente, en el litoral comprendido entre la IV Región y el paralelo 41°28,6' L.S., por fuera del área de reserva artesanal, con red de arrastre de fondo: Besugo, Blanquillo, Cabrilla común, Chancharro, Cojinoba del sur, Cojinoba moteada, Congrio colorado, Congrio dorado, Congrio negro, Jibia, Lenguado de ojos chicos, Lenguado de ojos grandes, Merluza de cola, Pejegallo, Raya y Tollo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada respecto de los recursos y áreas no mencionadas en la presente Resolución, en virtud de los informes técnicos, normas reglamentarias y disposiciones legales citadas en Visto.
+
+Valparaíso, 26 de marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
