@@ -1,0 +1,5 @@
+Por Decreto M.O.P. N° 626, de 30 de octubre de 1995, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N° 294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropiaron los lotes de terreno N°s. 11, 13 y 14, para la obra Camino Ruta 115-Ch, sector Talca San Clemente, Kms.
+
+0.000 al 24.361,65, que figuran a nombre de Carlos Saavedra Silva, Mireya Ramírez Sepúlveda y Amelia Astorga, sin rol de avalúo, Comuna de Talca, VII Región, superficies 728,50 m2., 203 m2 y 140,50 m2. La Comisión de Peritos compuesta por los señores Hugo Villarroel Urbina, Carlos Sottolichio Díaz e Iván Correa Opazo, fijó con fecha 6 de febrero de 1995 el valor provisional de las indemnizaciones en las cantidades de $2.878.750, para el lote N° 11, $787.500, para el lote N° 13 y $546.750, para el lote N° 14. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
