@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.821, de 31 de octubre del 2000, se expropió el lote de terreno Nº115, superficie 1.748 m2., rol de avalúo 37-212, comuna de Olivar, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector E, Sexta Región y se acordó el valor de indemnización con su propietaria Aída Morelia González Román, ascendente a la cantidad de $8.890.624.-
+
+Fiscal del Ministerio de Obras Públicas.
