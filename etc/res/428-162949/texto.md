@@ -1,0 +1,5 @@
+AUTORIZA A DON GUALTIERO BOTTO GARBELLA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 428 de 23 de Julio de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Gualtiero Botto Garbella, cédula de identidad N° 3.986.878-4 de Santiago, domiciliado en calle Salesianos N° 1320, Santiago, para utilizar, además, como materia prima en la planta de conserva y fileteado salado que opera en Quellón por resolución N° 318, de 1985, los recursos hidrobiológicos: cojinova del Norte, congrio colorado, congrio dorado, congrio negro, corvina, jurel, lisa, merluza común, merluza española, merluza de cola, mero, pejerrey de mar, robalo, sierra, tollo, trucha arco iris, almeja, calamar, caracol trumulco, cholga, chorito, choro zapato, macha, centolla, jaiba, picoroco y piure. La especie trucha sólo podrá provenir de establecimientos de cultivo autorizados.
+
+Valparaíso, 23 de Julio de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
