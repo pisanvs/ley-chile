@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº269 de fecha 31 de marzo de 2003, se expropiaron los lotes de terreno Nos 15-F y 15-G, superficies 153 y 3.478 m², rol de avalúo Nº204-29, comuna de Los Alamos, para la obra "Camino Ruta P-46, Sector Los Alamos-Sara de Lebu, Km. 0,00000 a Km. 16,84000", VIII Región y se acordó el valor de la indemnización con su propietario José Enrique Jara Paredes, ascendente a la cantidad de $2.959.857.
+
+- Fiscal del Ministerio de Obras Públicas.
