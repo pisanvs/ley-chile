@@ -1,0 +1,3 @@
+Por Resolución N° 1.353 de 30 de Diciembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 965, de 1990, de esta Subsecretaría, que autorizó a PESQUERA UNIMARC S.A., R.U.T. N° 88.541.600-4, domiciliada en Santiago, para instalar y operar un centro de cultivo de especies salmonídeas en ocho sectores ubicados en la XI Región, en un área total de 810.000 m2, en virtud de lo dispuesto en el Artículo 7° del Decreto N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 30 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
