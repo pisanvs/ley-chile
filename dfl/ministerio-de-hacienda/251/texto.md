@@ -28,7 +28,7 @@ g) Capital contable neto: la diferencia entre el patrimonio de una empresa y sus
 
 h) Capital contable neto consolidado: el capital contable neto de una sociedad matriz y sus filiales, calculado sobre la base de su balance consolidado;
 
-i) Factor de riesgo promedio ponderado: la suma de los productos entre el factor de riesgo que corresponda a cada instrumento o serie de instrumentos emitidos o garantizados por una sociedad, banco, institución financiera o empresa, de acuerdo a la categoría en que hayan sido clasificados, y la proporción que represente el monto de las inversiones representativas de reservas técnicas y patrimonio de riesgo de la respectiva compañía en cada uno de los instrumentos, respecto del valor total de las inversiones representativas de reservas técnicas y patrimonio de riesgo en los distintos títulos representativos de deuda de ese emisor, y
+i) Factor de riesgo promedio ponderado: la suma de los productos entre el factor de riesgo que corresponda a cada instrumento o serie de instrumentos emitidos o garantizados por una sociedad, banco, institución financiera o empresa, de acuerdo a la categoría en que hayan sido clasificados, y la proporción que represente el monto de las inversiones de la respectiva compañía en cada uno de los instrumentos, respecto del valor total de las inversiones en los distintos títulos representativos de deuda de ese emisor, y
 
 j) Días hábiles: los comprendidos de lunes a viernes, salvo que sean festivos.
 
@@ -66,13 +66,13 @@ e) Mantener un registro de uso público en el que se disponga de una o más copi
 
 La Superintendencia podrá rechazar los modelos a ella remitidos y no los inscribirá en su registro, cuando contengan cláusulas que se opongan a las prescripciones legales, o induzcan a error a los asegurados. Del mismo modo, mediante resolución fundada, podrá eliminar de sus registros los modelos ya inscritos o disponer su modificación.
 
+Sin perjuicio de lo anterior las compañías de seguros del primer grupo podrán contratar con modelos no registrados en la Superintendencia, siempre que se trate de seguros en los cuales tanto el asegurado como el beneficiario sean personas jurídicas y el monto de la prima anual que se convenga no sea inferior a 200 unidades de fomento, debiendo la póliza respectiva ser firmada por los contratantes.
+
 La Superintendencia podrá fijar, mediante norma de aplicación general, las disposiciones mínimas que deberán contener las pólizas;
 
 f) Comprobar la exactitud de las reservas técnicas constituidas por las compañías de acuerdo con las normas de carácter general que dicte la Superintendencia, como asimismo, la de los balances, otros estados financieros, sus cuentas componentes y demás antecedentes solicitados por ésta, con arreglo a los estatutos, leyes y reglamentos vigentes, aprobándolos, disponiendo su rectificación inmediata u ordenando las modificaciones que fuere necesario incorporar en los próximos balances, estados financieros o informes;
 
-g) Mantener un registro de liquidadores de siniestros del primer grupo y de accidentes personales -cuyos integrantes se podrán denominar también ajustadores de seguros-, y otro de intermediarios de seguros, de acuerdo a las normas dictadas al efecto y según lo estipulado en la letra m) de este artículo. En estos registros se podrán inscribir sólo las personas que cumplan los requisitos que determine la Superintendencia mediante norma de carácter general, pudiendo ser suspendidos o eliminados de éstos mediante resolución fundada.
-
-Las compañías sólo podrán encomendar liquidaciones de siniestros a los liquidadores que hayan sido registrados por la Superintendencia. Sin embargo, podrán liquidar directamente aquellos siniestros que por su monto o grado de complejidad ésta les autorice mediante normas de carácter general, de conformidad con lo establecido en la presente ley;
+g) Mantener un registro de los auxiliares del comercio de seguros, en el que deberán inscribirse quienes deseen desarrollar la actividad de corredor de seguros o de liquidador de siniestros, para lo cual deberán cumplir los requisitos establecidos en esta ley;
 
 h) DEROGADO.
 
@@ -80,7 +80,7 @@ i) Resolver, en casos a su juicio calificados, en el carácter de árbitro arbit
 
 j) Cuando lo juzgue conveniente, querellarse por el delito de incendio y hacerse parte en los procesos seguidos con motivo de tales delitos. La Superintendencia podrá, además, ordenar a las Compañías de Seguros, cuando lo estime conveniente, que se hagan parte de esos procesos o deduzcan querella. Podrán también las Compañías actuar en los procesos de incendios como querellantes o como partes, sin necesidad de orden del Superintendente, no obstante lo dispuesto en el artículo 114, del Código de Procedimiento Penal. La Compañía que intervenga en conformidad a este Artículo, tendrá la calidad de parte principal y deberán seguirse con ella todas las tramitaciones posteriores del juicio; pero sin que esta intervención signifique que ejercita la acción civil derivada del delito que se persigue;
 
-k) Establecer mediante normas de carácter general disposiciones sobre calce de plazos, de reajustabilidad y de moneda de los activos y pasivos de las compañías de seguros;
+k) Establecer, mediante norma de carácter general, disposiciones sobre la información que las compañías deberán proporcionar al público sobre el calce de sus activos y pasivos, en lo referente al plazo, reajustabilidad y tipo de moneda en que éstos se encuentran;
 
 l) Formar y publicar, anualmente, la estadística de todas las operaciones sobre seguros y reaseguros que efectúen las compañías, las listas de corredores de seguros y reaseguros, de liquidadores de siniestros y de compañías de seguros y reaseguros autorizados para operar en el país;
 
@@ -138,7 +138,7 @@ No podrán organizarse entidades aseguradoras destinadas a cubrir riesgos compre
 
 No obstante lo dispuesto en el inciso anterior, las entidades aseguradoras de uno y otro grupo podrán cubrir los riesgos de accidentes personales y los de salud.
 
-Los riesgos de crédito deberán ser asegurados sólo por compañías del primer grupo, las que no podrán otorgar esta cobertura ni aceptar su reaseguro, cuando el asegurado o el deudor de éste sea una persona relacionada con la compañía aseguradora o reaseguradora, según el caso. Se exceptuarán de esta prohibición los seguros de crédito a las exportaciones.
+Los riesgos de crédito deberán ser asegurados sólo por compañías del primer grupo que tengan por objeto exclusivo precisamente cubrir este tipo de riesgo, pudiendo, además, cubrir los de garantía y fidelidad. Las aseguradoras de crédito no podrán otorgar esta cobertura ni aceptar su reaseguro, cuando el asegurado o el deudor de éste sea persona relacionada con la compañía aseguradora o reaseguradora, según el caso. Se exceptuarán de esta prohibición los seguros de crédito a las exportaciones.
 
 Se entenderá por seguro de crédito aquel que cubre los riesgos de pérdidas o deterioro en el patrimonio del asegurado, producto del no pago de una obligación en dinero o de crédito de dinero.
 
@@ -148,7 +148,7 @@ El monto de las indemnizaciones de los seguros sobre la vida cede exclusivamente
 
 #### Artículo 13
 
-Las entidades aseguradoras no podrán disponer de los efectos de comercio que hayan recibido en pago de primas de los asegurados, para caucionar o extinguir obligaciones propias o de terceros, por aquella parte de la prima no devengada.
+Las compañías de seguros no podrán disponer de los efectos de comercio que hayan recibido para facilitar el pago de prima a plazo para caucionar o extinguir obligaciones propias o de terceros, por aquella parte de la prima no devengada.
 
 #### Artículo 14
 
@@ -186,9 +186,7 @@ d) Acompañar copia auténtica de sus estatutos vigentes, en castellano, memoria
 
 Las entidades aseguradoras y reaseguradoras también podrán reasegurarse a través de intermediarios o corredores que se encuentren inscritos en el registro de corredores de reaseguros, los cuales deberán cumplir con los siguientes requisitos:
 
-a) Constituir garantía a favor de la Superintendencia para responder del correcto y cabal cumplimiento de todas las obligaciones emanadas de su actividad de corredor en Chile y, especialmente, de los perjuicios que puedan ocasionar a quienes contraten por su intermedio. La garantía deberá ser por un monto no inferior a la suma más alta entre 20.000 unidades de fomento o un tercio de la prima intermediada en Chile en el año inmediatamente anterior, la cual podrá constituirse en dinero efectivo o en póliza de seguro, boleta bancaria u otra forma previamente aceptada por la Superintendencia, y permanecer vigente hasta la extinción de sus obligaciones contraídas como corredor.
-
-Será necesaria la aprobación previa de la Superintendencia cuando el emisor de la póliza sea una compañía no establecida en Chile. Verificado el incumplimiento o perjuicio, la Superintendencia hará efectiva la respectiva garantía y el corredor afectado no podrá continuar su actividad en Chile hasta que la rehabilite a satisfacción de dicho organismo;
+a) Acreditar la contratación de una póliza de seguros por un monto no inferior a la suma más alta entre 20.000 unidades de fomento o en un tercio de la prima intermediada en Chile en el año inmediatamente anterior, mediante la entrega de una copia de ésta a la Superintendencia para responder del correcto y cabal cumplimiento de todas las obligaciones emanadas de su actividad de corredor en Chile y, especialmente, por los perjuicios por errores u omisiones que puedan ocasionar a quienes contraten por su intermedio, la que deberá permanecer vigente hasta la extinción de sus obligaciones contraídas como corredor. Será necesaria la aprobación previa de la Superintendencia cuando el emisor de la póliza sea una compañía no establecida en Chile. Verificado el incumplimiento o perjuicio, se siniestrará la póliza y el corredor afectado no podrá intermediar nuevos contratos mientras no la rehabilite a satisfacción de la Superintendencia, en el evento de que se haya estipulado en ella que el pago de indemnizaciones reduce el monto asegurado;
 
 b) Tratándose de corredores extranjeros, ser persona jurídica y acreditar que la entidad se encuentra constituida legalmente en su país de origen y puede intermediar riesgos cedidos desde el extranjero, con indicación de la fecha desde la cual se encuentra autorizada para operar, y
 
@@ -230,6 +228,14 @@ Se entenderá por seguros de corto plazo aquellos que habitualmente se contratan
 
 Estas reservas se constituirán de acuerdo con los procedimientos, tablas de mortalidad, tasas de interés técnico y otros aspectos que fije la Superintendencia, mediante normas de carácter general. Su modificación o reemplazo deberá comunicarse a las compañías con 120 días de anticipación, a lo menos.
 
+#### Artículo 20 bis
+
+Con el objeto de mejorar la información de los asegurados, las compañías de seguros deberán contratar con a lo menos dos clasificadores de riesgo distintos e independientes entre sí, inscritos en el Registro que al efecto lleva la Superintendencia, la clasificación continua e ininterrumpida de las obligaciones que tengan con sus asegurados, en la forma que establezca una norma de carácter general dictada por la Superintendencia.
+
+Esta clasificación se practicará en consideración a la cantidad y calidad de las inversiones y demás activos de la compañía, la suficiencia de las reservas en relación a las responsabilidades asumidas, la cantidad y calidad de reaseguros, la rentabilidad obtenida en los últimos años, el endeudamiento y nivel de operaciones de la compañía en relación a su patrimonio, el calce de plazos, monedas y reajustabilidades entre los activos y los pasivos, la capacidad técnica y experiencia de la administración y otra información disponible, en categorías que serán denominadas respectivamente con las letras A, B, C, D y E.
+
+La categoría A se usará para los aseguradores de más bajo riesgo, y la categoría D será aplicable a los aseguradores de más alto riesgo. La categoría E será aplicable a los aseguradores de los que se carece de información suficiente para clasificarlos.
+
 #### Artículo 21
 
 Las reservas técnicas y el patrimonio de riesgo de las entidades aseguradoras y reaseguradoras deberán estar respaldados por inversiones efectuadas en los siguientes instrumentos y activos:
@@ -242,15 +248,19 @@ c) letras de crédito emitidas por bancos e instituciones financieras;
 
 d) bonos, pagarés y debentures emitidos por empresas públicas o privadas;
 
-e) acciones de sociedades anónimas abiertas, que se encuentren en los casos contemplados en el Título III, clasificadas como acción de primera clase;
+e) acciones de sociedades anónimas abiertas, que tengan transacción bursátil y se encuentren clasificadas como acciones de primera clase, salvo aquellas de sociedades administradoras de fondos de pensiones o de fondos mutuos, de instituciones de salud previsional, de entidades aseguradoras, de sociedades deportivas o educacionales y de aquellas cuyo objeto sea la prestación de beneficios de carácter social a sus accionistas;
 
-f) las compañías aseguradoras del primer grupo, en crédito no vencido por primas no devengadas otorgado a los asegurados, para respaldar reservas de riesgo en curso y patrimonio de riesgo;
+ee) acciones de sociedades anónimas inmobiliarias definidas en letra j) del artículo 98, del decreto ley N° 3.500, de 1980, clasificadas como acciones de primera clase, que puedan ser adquiridas con recursos de los fondos de pensiones y que no se encuentren entre aquellas de la letra e);
+
+f) crédito no vencido por primas no devengadas otorgado a los asegurados provenientes de contratos de seguro con cláusula de resolución por no pago de prima, para respaldar reserva de riesgo en curso y patrimonio de riesgo de las compañías aseguradoras del primer grupo;
 
 g) siniestros por cobrar no vencidos, producto de las cesiones efectuadas a los reaseguradores, para respaldar la reserva de siniestros y el patrimonio de riesgo, salvo aquellos producto de las cesiones indicadas en el inciso tercero del artículo 20;
 
 h) bienes raíces urbanos no habitacionales, cuya tasación comercial sea practicada al menos cada dos años según las normas de carácter general que dicte la Superintendencia;
 
 i) las compañías del segundo grupo, en crédito no vencido por primas producto de los seguros de invalidez y sobrevivencia del decreto ley N° 3.500, de 1980, y en crédito por el saldo de la cuenta individual de afiliados siniestrados, en dicho sistema previsional, para respaldar la reserva de siniestros;
+
+ii) avance a tenedores de sus pólizas de seguros de vida, hasta por el monto del valor de rescate de ellas, siempre que en dichas pólizas se indique expresamente que el empréstito podrá deducirse del monto de la indemnización a pagar en virtud de lo establecido en la póliza o en sus adicionales si corresponde;
 
 j) instrumentos de renta emitidos por instituciones internacionales a las que se encuentre adherido el Estado de Chile y por bancos del exterior de reconocida responsabilidad que puedan ser adquiridos por el Banco Central de Chile de acuerdo a su ley orgánica, para respaldar reservas adicionales constituidas según lo dispuesto en el N° 4) del artículo 20 y adquiridas con sujeción a las normas sobre cambios internacionales.
 
@@ -262,17 +272,21 @@ l) crédito no vencido por prima devengada otorgado a las compañías cedentes d
 
 m) descuento de aceptación no devengado producto de aceptaciones generadas por contratos de reaseguro, para respaldar las reservas de riesgo en curso y patrimonio de riesgo.
 
-Para respaldar las reservas técnicas y el patrimonio de riesgo con los instrumentos señalados en las letras b), c), d) y e) de este artículo, será necesario que hayan sido clasificados previamente, de conformidad a lo dispuesto en la ley N° 18.045.
+Para respaldar las reservas técnicas y el patrimonio de riesgo con los instrumentos señalados en las letras b), c), d), e) y ee) de este artículo, será necesario que hayan sido clasificados previamente, de conformidad a lo dispuesto en la ley N° 18.045.
 
 No podrán ser inversiones representativas de reservas técnicas y patrimonio de riesgo los instrumentos clasificados en las categorías D y E, ni las acciones de segunda clase o sin información suficiente, según el caso.
 
-Los instrumentos de la letra
+Los instrumentos de la letra b) que sean seriados y los señalados en las letras d), e) y ee) deberán estar inscritos, de acuerdo con la ley N° 18.045, en el respectivo registro que lleve la Superintendencia de Valores y Seguros o la de Bancos e Instituciones Financieras, según corresponda.
 
-- **b)** que sean seriados y los señalados en las letras
+#### Artículo 21 bis
 
-- **d)** y
+Con sujeción a las normas generales que dicte la Superintendencia, las compañías de seguros del segundo grupo podrán otorgar, por intermedio de un agente administrador, mutuos hipotecarios endosables con los que podrán respaldar el patrimonio a que se refiere el artículo 26 y hasta el 30% de sus reservas técnicas y de patrimonio de riesgo. Los mutuos se otorgarán sólo a personas naturales para fines de adquisición, construcción, ampliación o reparación de viviendas urbanas, o bien, para refinanciar mutuos hipotecarios endosables de que trata este artículo, por un monto que no exceda el 80% del valor de tasación del bien raíz. El crédito deberá quedar garantizado con primera hipoteca.
 
-- **e)** deberán estar inscritos, de acuerdo con la ley N° 18.045, en el respectivo registro que lleve la Superintendencia de Valores y Seguros o la de Bancos e Instituciones Financieras, según corresponda.
+Dichos mutuos deberán extenderse en una escritura pública que lleve cláusula a la orden, de la cual se otorgará una sola copia autorizada que se entregará al acreedor, la que será transferible por endoso colocado a continuación, al margen o al dorso del documento, con indicación del nombre del cesionario. Para fines exclusivos de información, la cesión deberá anotarse al margen de la inscripción hipotecaria. El cedente sólo responderá de la existencia del crédito.
+
+La administración de estos mutuos se efectuará por personas jurídicas que cumplan con los requisitos y condiciones que fije una norma de carácter general dictada por la Superintendencia y que se encuentren inscritas en un registro especial que llevará dicho organismo. A estos agentes les corresponderá otorgar los mutuos por cuenta propia o de las entidades aseguradoras, tasar las propiedades, calificar la solvencia del deudor y las demás obligaciones que señale la referida norma. Los bancos y sociedades financieras podrán actuar como agentes sin necesidad de inscripción.
+
+Las compañías de seguros del segundo grupo podrán también adquirir mutuos hipotecarios endosables a que se refiere el artículo 83 número 4 bis) de la Ley General de Bancos y mutuos hipotecarios endosables otorgados en conformidad a la ley N° 16.807, siempre dicha inversión cumpla con los fines, modalidades y limitaciones que establece este artículo.
 
 #### Artículo 22
 
@@ -290,7 +304,7 @@ c) 40% del total en aquellos instrumentos comprendidos en su letra c);
 
 d) 40% del total en aquellos instrumentos comprendidos en su letra d);
 
-e) 40% del total en aquellos instrumentos comprendidos en su letra e);
+e) 40% del total en aquellos instrumentos comprendidos en sus letras e) y ee), en su conjunto;
 
 f) el total de la reserva de riesgo en curso y 10% del patrimonio de riesgo en los créditos mencionados en su letra f);
 
@@ -308,7 +322,7 @@ l) El total de la reserva de siniestros en los activos mencionados en su letra l
 
 m) 30% de la reserva de riesgo en curso y 30% del patrimonio de riesgo en los activos mencionados en su letra m).
 
-No obstante lo anterior, el monto máximo de inversión en los instrumentos señalados en las letras c) y h) no podrá superar el 40% de las reservas técnicas y patrimonio de riesgo de las compañías del segundo grupo.
+No obstante lo anterior, el monto máximo de inversión de los instrumentos señalados en las letras c), ee) y h) y en el artículo 21 bis no podrá superar el 40% de las reservas técnicas y de patrimonio de riesgo de las compañías del segundo grupo.
 
 #### Artículo 24
 
@@ -356,15 +370,17 @@ I) un múltiplo único para todas las empresas emisoras de bonos, pagarés y deb
 
 II) la proporción que representen las reservas técnicas y el patrimonio de riesgo de la inversionista respecto del total de las reservas técnicas y del patrimonio de riesgo de todas las compañías del grupo en el cual opera la respectiva aseguradora o reaseguradora;
 
-III) el patrimonio consolidado de la emisora, y IV) el factor de riesgo promedio ponderado de la emisora;
+III) el patrimonio consolidado de la emisora. Sin embargo, en el caso de las empresas cuyo giro principal sea la realización de operaciones de leasing, se utilizará como factor el doble del patrimonio consolidado de la emisora, y
 
-e) las inversiones en los instrumentos comprendidos en la letra e) de dicho artículo emitidos por una misma sociedad anónima abierta no podrán exceder del 5% de las reservas técnicas y del patrimonio de riesgo como tampoco del 8% de sus acciones suscritas. Estos límites se rebajarán a la mitad tratándose de acciones de bancos e instituciones financieras;
+e) las inversiones en los instrumentos comprendidos en la letra e) de dicho artículo emitidos por una misma sociedad anónima abierta no podrán exceder del 7% de las reservas técnicas y del patrimonio de riesgo como tampoco del 8% de sus acciones suscritas. Estos límites se rebajarán a la mitad tratándose de acciones de bancos e instituciones financieras;
 
-f) el total de las inversiones en los instrumentos comprendidos en las letras b), c), d) y e) del artículo 21 emitidos por una misma sociedad anónima, banco, institución financiera o empresa y sus respectivas filiales, no podrá exceder del 10% de las reservas técnicas y del patrimonio de riesgo de la compañía inversionista.
+ee) Las inversiones en los instrumentos comprendidos en la letra ee) del artículo 21 emitidos por una misma sociedad anónima no podrán exceder del 5% de las reservas técnicas y del patrimonio de riesgo como tampoco del 8% o del 20% de sus acciones suscritas, según se trate de compañías de seguros del primer o segundo grupo, respectivamente;
+
+f) el total de las inversiones en los instrumentos comprendidos en las letras b), c), d), e) y ee) del artículo 21 emitidos por una misma sociedad anónima, banco, institución financiera o empresa y sus respectivas filiales, no podrá exceder del 10% de las reservas técnicas y del patrimonio de riesgo de la compañía inversionista.
 
 Los límites establecidos en el inciso anterior se rebajarán a la mitad cuando el o los emisores pertenezcan al mismo grupo empresarial del cual formase parte la compañía inversionista.
 
-Asimismo, el total de las inversiones en los instrumentos comprendidos en las letras b), c), d) y e) del artículo 21 emitidos por sociedades anónimas, bancos, instituciones financieras y empresas pertenecientes a un mismo grupo empresarial, no podrán exceder del 25% de las reservas técnicas y del patrimonio de riesgo de la compañía inversionista o del 12,5% si ésta forma parte del mismo grupo empresarial.
+Asimismo, el total de las inversiones en los instrumentos comprendidos en las letras b), c), d), e) y ee) del artículo 21 emitidos por sociedades anónimas, bancos, instituciones financieras y empresas pertenecientes a un mismo grupo empresarial, no podrán exceder del 25% de las reservas técnicas y del patrimonio de riesgo de la compañía inversionista o del 12,5% si ésta forma parte del mismo grupo empresarial.
 
 Los dos incisos anteriores no se aplicarán a compañías de seguros en que el Estado, por sí o por intermedio de sus empresas, instituciones descentralizadas, autónomas o municipales o por otra persona jurídica, posea más del 50% de las acciones suscritas, respecto de aquellas sociedades emisoras que se encuentren en igual situación.
 
@@ -382,7 +398,7 @@ Para los efectos de la diversificación de inversiones por emisor señalada en e
 
 #### Artículo 24 bis
 
-Si una inversión representativa de reservas técnicas o de patrimonio de riesgo o un conjunto de ellas sobrepasaren alguno de los límites de diversificación establecidos en esta ley, el exceso no será aceptado como respaldo de dichas reservas ni del patrimonio de riesgo. Tampoco serán aceptadas aquellas inversiones que dejaren de cumplir los requisitos señalados en esta ley para ser representativas de reservas técnicas.
+Si una inversión representativa de reservas técnicas o de patrimonio de riesgo o un conjunto de ellas sobrepasaren alguno de los límites de diversificación establecidos en esta ley, el exceso no será aceptado como respaldo de dichas reservas ni del patrimonio de riesgo. Tampoco serán aceptadas aquellas inversiones que dejaren de cumplir los requisitos señalados en esta ley para ser representativas de reservas técnicas. Sin embargo, si tal hecho se produjere exclusivamente por un cambio de clasificación en el caso de las inversiones de las letras b), c), d), e) y ee) del artículo 21, estas inversiones podrán seguir respaldando reservas técnicas y patrimonio de riesgo por un plazo no superior a seis meses a contar de la fecha del cambio. Sin embargo, el 50% de ellas podrán seguir sirviendo de respaldo por un período adicional de seis meses. Las inversiones así autorizadas mantendrán el factor de diversificación correspondiente a la clasificación previa al cambio de clasificación mientras se mantenga el problema que las afecta y, en caso de adquirir nuevos instrumentos de éstos durante dicho período, la compañía no podrá usarlos para respaldar sus reservas técnicas y patrimonio de riesgo.
 
 #### Artículo 25
 
@@ -392,23 +408,9 @@ La Superintendencia estará facultada para dictar, si lo estima procedente para 
 
 #### Artículo 26
 
-La diferencia que resulte entre el patrimonio de la sociedad y el patrimonio de riesgo deberá estar respaldada con los mismos títulos señalados en el artículo 21 y en caja y bancos, muebles para su propio uso, avances a tenedores de pólizas de vida no saldadas y cuotas de fondos mutuos, así como en créditos contra el Fisco. En el caso de las inversiones señaladas en la letra
+El 80% de la diferencia que resulte entre el patrimonio de la sociedad y el patrimonio de riesgo deberá estar respaldado con los mismos títulos permitidos en los artículos 21 y 21 bis y en caja y bancos, muebles para su propio uso y cuotas de fondos mutuos, así como en créditos contra el Fisco. Los activos de las letras k) y l) del artículo 21 podrán respaldar este exceso, incluso si estuvieren vencidos, así como el crédito no vencido por primas otorgado a los asegurados del primer grupo, en las condiciones que disponga la Superintendencia de acuerdo con las normas de carácter general que dicte al efecto.++++++
 
-- **e)** del artículo 21 no les será aplicable lo dispuesto en el párrafo 2 del Título III. Los activos de las letras
-
-- **f)** y
-
-- **k)** de dicho artículo, podrán respaldar este exceso, incluso si estuvieren vencidos, en las condiciones que disponga la Superintendencia de acuerdo con las normas de carácter general que dicte al efecto.
-
-No obstante lo señalado precedentemente no podrán respaldar este exceso sobre el patrimonio de riesgo, los instrumentos y activos señalados en las letras
-
-- **i)** y
-
-- **j)** del artículo 21 y los indicados en las letras
-
-- **a)** y
-
-- **b)** del artículo 57.
+No obstante lo señalado precedentemente no podrán respaldar este exceso sobre el patrimonio de riesgo, los instrumentos y activos señalados en las letras i) y j) del artículo 21.
 
 Todas las inversiones señaladas precedentemente deberán cumplir lo dispuesto en el artículo 22.
 
@@ -420,7 +422,7 @@ La transferencia de negocios y cesión de carteras a que se refiere el inciso an
 
 En todo caso, deberá consultarse a los asegurados y las condiciones mediante las cuales se pacte y realice la transferencia no podrán gravar los derechos de los mismos, ni modificar sus garantías.
 
-Cuando la transferencia de negocios o cesión de cartera a que se refieren los incisos anteriores se efectuare en virtud de las facultades establecidas en los artículos 71, 74 y 79, no serán procedentes las acciones revocatorias o las concursales de inoponibilidad y no serán aplicables, en este caso, las presunciones contempladas en los artículos 219, 220 y 221 de la ley N° 18.175.
+Cuando la transferencia de negocios o cesión de cartera a que se refieren los incisos anteriores se efectuare en virtud de las facultades establecidas en los artículos 71, 74 y 82, no serán procedentes las acciones revocatorias o las concursales de inoponibilidad y no serán aplicables, en este caso, las presunciones contempladas en los artículos 219, 220 y 221 de la ley N° 18.175.
 
 #### Artículo 28
 
@@ -454,13 +456,13 @@ Para los efectos del inciso anterior, la Asociación de Aseguradores de Chile o 
 
 #### Artículo 33
 
-Ni el asegurador, ni el asegurado, ni ambos juntos, podrán disponer del salvataje sino con la autorización del Juez que conoce del sumario, quien deberá otorgarla una vez evacuado el informe pericial a que se refiere el Artículo siguiente, salvo que el éxito de las investigaciones aconseje lo contrario.
+Ni el asegurador, ni el asegurado, ni ambos juntos, podrán disponer del salvataje sino con la autorización del juez que conoce del sumario, quien sólo podrá otorgarla una vez evacuado el informe pericial en el caso que esta diligencia se haya decretado, salvo que el éxito de las investigaciones aconseje lo contrario.
 
 El producido de la realización del salvataje en caso de efectuarse, quedará a la orden del Juzgado durante los veinte días siguientes a la iniciación del proceso, con excepción de los gastos efectuados que podrán cancelarse desde luego con audiencia del liquidador de seguros y del asegurado.
 
 #### Artículo 34
 
-En el caso de haber seguros comprometidos en un incendio de comercio o industria, el Juez nombrará un perito a fin de que informe al Juzgado sobre la situación comercial y económica del comerciante. Para estos efectos, el perito estudiará la contabilidad, verificará la efectividad de las partidas asentadas y establecerá con la mayor precisión posible el valor de las existencias en el momento del siniestro.
+DEROGADO.
 
 #### Artículo 35
 
@@ -498,7 +500,7 @@ En caso de mora, el deudor incurrirá en los intereses y reajustes señalados en
 
 #### Artículo 42
 
-Sin perjuicio del cobro de los impuestos adeudados, la infracción a lo dispuesto en el artículo 14 será sancionada con una multa que impondrá el Superintendente, por una cantidad de hasta diez veces el monto de la prima y de hasta veinte veces el mismo, en caso de reiteración. Para estos efectos se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a doce meses.
+DEROGADO.
 
 #### Artículo 43
 
@@ -528,7 +530,9 @@ La Superintendencia podrá sancionar a los agentes y corredores de seguros en lo
 
 #### Artículo 46
 
-Las compañías aseguradoras extranjeras no podrán contratar seguros en Chile, sea directamente o a través de intermediarios. El que contravenga esta prohibición, actuando como representante de la entidad extranjera o como intermediario de contratos con ésta, será sancionado com presidio menor en su grado mínimo.
+Las compañías aseguradoras extranjeras no podrán ofrecer ni contratar seguros en Chile, sea directamente o a través de intermediarios. El que contravenga esta prohibición, actuando como representante de la entidad extranjera o como intermediario de contratos con ésta, será sancionado con presidio menor en su grado mínimo.
+
+No obstante lo anterior, cuando una persona haga uso del derecho que le confiere el artículo 4° para contratar seguros en el extranjero, el asegurador podrá inspeccionar el riesgo del bien que se quiere asegurar, liquidar y pagar los siniestros que éste sufra y también cobrar y percibir en Chile la prima convenida.
 
 #### Artículo 47
 
@@ -562,7 +566,7 @@ De la clasificación de instrumentos representativos de reservas técnicas y de 
 
 #### Artículo 52
 
-Los instrumentos señalados en las letras b), c), d) y e) del artículo 21 deberán estar clasificados en alguna de las categorías A, B y C o como acciones de primera clase, según corresponda, para los efectos de ser representativos de reservas técnicas o de patrimonio de riesgo en su caso.
+Los instrumentos señalados en las letras b), c), d), e) y ee) del artículo 21 deberán estar clasificados en alguna de las categorías A, B y C o como acciones de primera clase, según corresponda, para los efectos de ser representativos de reservas técnicas o de patrimonio de riesgo en su caso.
 
 #### Artículo 53
 
@@ -598,81 +602,99 @@ Las compañías que hayan respaldado reservas técnicas o patrimonio de riesgo c
 
 ## Título III
 
-De las sociedades cuyas acciones pueden ser representativas de reservas técnicas y patrimonio de riesgo
+De los auxiliares del comercio de seguros.
 
-1.- De las sociedades cuyas acciones pueden ser representativas de las reservas técnicas y del patrimonio de riesgo de las compañías del primer grupo.
+1.- De los Corredores de Seguros
 
 #### Artículo 57
 
-Las reservas técnicas y el patrimonio de riesgo de las compañías del primer grupo podrán estar respaldados por inversiones en acciones debidamente clasificadas como acciones de primera clase según la ley N° 18.045, emitidas por sociedades anónimas abiertas.
+Los seguros pueden ser contratados directamente con la entidad aseguradora, o bien, por intermedio de corredores de seguros independientes de éstas.
 
-Sin embargo, estas compañías no podrán respaldar las reservas técnicas y el patrimonio de riesgo con acciones de las siguientes sociedades:
-
-a) sociedades administradoras de fondos de pensiones, sociedades administradoras de fondos mutuos, institucciones de salud previsional y compañías de seguros salvo si se tratare de compañías de reaseguro, y b) sociedades deportivas o educacionales y aquellas cuyo objeto sea la prestación de beneficios de carácter social a sus socios.
-
-2.- De las sociedades cuyas acciones pueden ser representativas de reservas técnicas y de patrimonio de riesgo de las compañías del segundo grupo.
+Los corredores de seguros son auxiliares del comercio de seguros, que deben asesorar a la persona que desea asegurarse por su intermedio, ofreciéndole las coberturas más convenientes a sus necesidades e intereses e ilustrándola sobre las condiciones del contrato, debiendo asistirla durante toda su vigencia, especialmente en las modificaciones que eventualmente correspondan y al momento de producirse un siniestro. Deben también asesorar a la compañía aseguradora verificando la identidad de los contratantes, la existencia de los bienes asegurables y entregándole toda la información que posean del riesgo propuesto.
 
 #### Artículo 58
 
-Las compañías del segundo grupo podrán respaldar sus reservas técnicas y el patrimonio de riesgo con acciones de sociedades que puedan ser adquiridas por las del primer grupo. Sin embargo, en este caso, las acciones deberán ser emitidas por sociedades anónimas abiertas que simultáneamente cumplan las siguientes condiciones:
+Para ejercer su actividad, los corredores de seguros deberán encontrarse inscritos en el Registro que al efecto lleve la Superintendencia y cumplir con todos los requisitos establecidos en la ley y en su reglamento. Podrán inscribirse como corredores de un grupo específico de seguros o para operar en todos ellos.
 
-a) el capital contable neto consolidado de la sociedad debe representar, como proporción del patrimonio consolidado, al menos un sesenta y cinco por ciento, salvo que se trate de bancos o instituciones financieras o entidades reaseguradoras nacionales;
+Para inscribirse en el Registro los interesados deberán acreditar el cumplimiento de los siguientes requisitos:
 
-b) ninguna persona o grupo de personas con acuerdo de actuación conjunta, podrá poseer más de un sesenta por ciento de las acciones suscritas de la sociedad;
+a) ser chileno o extranjero radicado en Chile con carnet de extranjería al día y ser mayor de edad;
 
-c) tener a lo menos 100 accionistas minoritarios cada uno de los cuales deberá ser dueño de un mínimo equivalente a 200 unidades de fomento en acciones, según el valor que se les haya fijado en el último balance, y d) los estatutos sociales deben contemplar normas permanentes que impidan que la sociedad se encuentre en alguna de las situaciones previstas en este título.
+b) tener intachables antecedentes comerciales;
 
-Lo dispuesto en el inciso anterior no será aplicable a aquellas acciones emitidas por sociedades anónimas en que el Estado, por sí o a través de o en conjunto con sus empresas o instituciones descentralizadas, autónomas o municipales u otras personas jurídicas, posea más del sesenta por ciento de las acciones suscritas.
+c) acreditar los conocimientos suficientes sobre el comercio de seguros, en la forma que disponga la Superintendencia mediante norma general y, además, estar en posesión de licencia de educación media o estudios equivalentes;
 
-Además, se aceptarán como representativas de reservas técnicas y de patrimonio de riesgo de las compañías del segundo grupo las acciones que, cumpliendo lo señalado en el artículo anterior, puedan ser adquiridas con los recursos de los fondos de pensiones.
+d) acreditar la contratación de una póliza de seguro que determine la Superintendencia por un monto no inferior a la suma más alta entre 500 unidades de fomento o el 30% de la prima neta de los contratos de seguros intermediados en el año inmediatamente anterior, con un máximo de 60.000 unidades de fomento, para responder del correcto y cabal cumplimiento de todas las obligaciones emanadas de su actividad y, especialmente, de los perjuicios que puedan ocasionar a los asegurados que contraten por su intermedio. Sin embargo, tratándose de primas provenientes de seguros de renta vitalicia, el porcentaje que se usará para determinar la suma a asegurar será de un 30% de las primeras 15.000 unidades de fomento de prima por dichas rentas y sólo de un 10% por el exceso sobre esta cifra, y
+
+e) en el caso de las personas jurídicas, haberse constituido legalmente en Chile con este objeto específico y reunir sus administradores y representantes legales los requisitos exigidos para los demás corredores.
 
 #### Artículo 59
 
-Las modificaciones a los estatutos sociales en aquellas materias acordadas con el objeto de dar cumplimiento a la letra d) del inciso primero del artículo 58, requerirán del voto conforme de los dos tercios de las acciones emitidas con derecho a sufragio.
+No podrán ser corredores de seguros:
+
+a) Los procesados o condenados por delito que merezca pena aflictiva;
+
+b) los fallidos no rehabilitados, y quienes tengan prohibición o incapacidad de comerciar;
+
+c) los sancionados por la Superintendencia con la cancelación de su inscripción en alguno de los registros que ésta lleva, o los que hayan sido administradores, directores o representantes legales de una persona jurídica sancionada de igual forma, a no ser que hayan salvado su responsabilidad en la forma que prescribe la ley o acrediten no haber tenido participación en los actos que la motivaron, y
+
+d) los directores, gerentes o apoderados de una entidad aseguradora o reaseguradora; los liquidadores de siniestros y los trabajadores de cualesquiera de ellos.
 
 #### Artículo 60
 
-Con el propósito de mantenerse dentro de los límites de descentralización de la propiedad accionaria establecidos en el artículo 58, la sociedad emisora de las acciones a que se refiere dicho artículo, deberá contemplar en sus estatutos que ningún accionista podrá sobrepasar los límites de concentración de la propiedad establecidos en esta ley y, en el evento de que ello llegue a ocurrir, la sociedad sólo podrá inscribir a nombre del respectivo accionista el número de acciones hasta completar el referido límite. Si quedare un remanente de acciones que no se pudieron inscribir, la sociedad deberá notificar al respectivo accionista, dentro del plazo de 15 días contado desde la fecha de la inscripción, a fin de que enajene tales acciones.
+Los corredores están obligados a remitir a la compañía aseguradora las primas y documentos que reciban por las pólizas que intermedien a más tardar dentro de los dos días hábiles siguientes a su entrega , salvo poder escrito de la compañía. Les queda prohibido firmar, cancelar, anular o dejar sin efecto, o hacer modificar en cualquier forma la vigencia, cobertura, prima o modalidad de pago de las pólizas que intermedien, sin autorización escrita del asegurado.
 
-Igual procedimiento se seguirá respecto a las opciones para suscribir acciones de aumento de capital de la sociedad y de bonos convertibles en acciones, en los términos del artículo 25 de la ley N° 18.046.
+2.- De los liquidadores de Siniestros.
 
 #### Artículo 61
 
-Las sociedades a que se refiere este párrafo también deberán contemplar en sus estatutos disposiciones que prohíban a los accionistas o a sus mandatarios ejercer, por sí o en la representación que invistan, el derecho a voto por más de un sesenta por ciento de las acciones suscritas de la sociedad. Para el cálculo de dicho porcentaje deberán sumarse a las acciones del accionista de que se trate, las que sean de propiedad de personas que tengan acuerdo de actuación conjunta.
+La liquidación de los siniestros amparados por un seguro podrán practicarla las compañías directamente o encomendarla a un liquidador registrado en la Superintendencia, salvo las excepciones legales. Sin embargo, el asegurado o beneficiario del seguro podrá exigir, en la forma y plazo que establezca el Reglamento, que la liquidación la realice un liquidador registrado.
 
-Lo establecido en el inciso anterior y en el artículo 60 no se aplicará al Estado como accionista, cuando éste, por sí o a través de o en conjunto con sus empresas o instituciones descentralizadas, autónomas o municipales u otras personas jurídicas, posea más del sesenta por ciento de las acciones suscritas del emisor.
+La liquidación del siniestro tiene por fin básicamente determinar la ocurrencia del siniestro, si el riesgo está bajo cobertura de una compañía determinada, y el monto de la indemnización a pagar, todo ello de conformidad con el procedimiento que establezca el reglamento.
+
+Los liquidadores que deban informar un siniestro podrán solicitar de las autoridades administrativas o judiciales que por su cargo tengan antecedentes relacionados con éste, les faciliten su conocimiento o les otorguen su certificación sobre los puntos necesarios para su liquidación. Igual facultad tendrán los apoderados de las compañías encargados de hacer la respectiva liquidación, cuando no se la hayan encomendado a un liquidador de siniestros.
 
 #### Artículo 62
 
-La Superintendencia estará facultada para exigir a las sociedades anónimas objeto de este Título el envío de los antecedentes necesarios para determinar el cumplimiento de los requisitos establecidos anteriormente, especialmente respecto de las situaciones previstas en el Título XV de la ley N° 18.045.
+El registro de liquidadores podrá dividirse por ramos según el tipo de seguros de que se trate y la persona en él inscrita deberá cumplir en todo momento los requisitos exigidos para el o los ramos correspondientes.
 
-#### Artículo 63
+Para inscribirse como liquidador de seguros se requiere:
 
-No obstante lo dispuesto en las letras
+a) Reunir los requisitos de las letras a),
 
 - **b)** y
 
-- **c)** del artículo 58, las compañías del segundo grupo también podrán respaldar sus reservas técnicas y patrimonio de riesgo con acciones de sociedades a que se refiere este párrafo, siempre que éstas hayan contraído un compromiso de desconcentración en los términos de los artículos 124, 125, 126 y 127 del decreto ley N° 3.500, de 1980, en lo que les fueren aplicables con el o los accionistas que la hacen incurrir en situación de concentración sobre el límite de la letra
+- **c)** del artículo 58 y no encontrarse en alguna de las circunstancias señaladas en las letras a),
 
-- **b)** ya citada y, además, contemplen en sus estatutos que será materia de junta ordinaria de accionistas la aprobación de las políticas de inversiones, de financiamiento y de dividendos de la sociedad, las que deberán ser previamente aprobadas por las dos terceras partes de los directores en ejercicio; los estatutos sólo podrán ser modificados en esta materia con el quórum establecido en el artículo 59.
+- **b)** y
 
-Las políticas de inversiones, de financiamiento y de dividendos constituirán el marco de referencia dentro del cual deberá actuar la sociedad. El quórum que se requerirá para su aprobación será de los dos tercios de las acciones con derecho a voto y las materias sobre las que deberán versar las políticas se señalarán en sus estatutos, debiendo en todo caso contemplar las siguientes materias:
+- **c)** del artículo 59;
 
-a) El límite de las inversiones que, directamente o a través de sus filiales, pueda hacer la sociedad en instrumentos representativos de deuda o de capital emitidos por sociedades del mismo grupo empresarial;
+b) Acreditar la contratación de una póliza de seguro que determine la Superintendencia por un monto no inferior a la suma más alta entre 500 unidades de fomento o un tercio de los ingresos obtenidos como liquidador en el año inmediatamente anterior, con un máximo de 60.000 unidades de fomento, para responder al asegurado o beneficiario del seguro objeto de la liquidación, del correcto y cabal cumplimiento de todas las obligaciones emanadas de su actividad y, especialmente, de los perjuicios que por ella puedan ocasionarles;
 
-b) El límite de los préstamos o créditos que pueda otorgar la sociedad a sus filiales o a entidades del mismo grupo empresarial;
+c) No ser martillero público, agente de aduanas, corredor de seguros, director, gerente, apoderado o trabajador de alguno de éstos o de una entidad aseguradora o reaseguradora, y
 
-c) Los límites a las facultades de la administración para la suscripción, modificación o revocación de contratos de compra, venta o arrendamiento de bienes y servicios que sean esenciales para el normal funcionamiento de la sociedad y sus filiales;
+d) Tratándose de personas jurídicas, haberse constituido legalmente en Chile con este objeto específico y reunir sus administradores y representantes legales los requisitos exigidos para los demás liquidadores.
 
-d) El nivel máximo de endeudamiento y las atribuciones de la administración para convenir con acreedores restricciones al reparto de dividendos, para el otorgamiento de cauciones y para la enajenación de los activos que se declaren esenciales para el funcionamiento de la sociedad, y
+#### Artículo 63
 
-e) Las áreas de inversión y los límites máximos en cada una de éstas, especificando la participación en el control de las mismas.
+Son obligaciones de los liquidadores:
 
-Los estatutos de la sociedad deberán contemplar, además, el derecho a retiro del accionista minoritario en caso de incumplimiento del compromiso de desconcentración o de oposición a la política que se apruebe en la respectiva junta de accionistas.
+a) Investigar las circunstancias del siniestro para determinar si el riesgo asegurado gozaba de la cobertura contratada en la póliza;
+
+b) Determinar el valor del objeto asegurado a la época del siniestro, el monto de los perjuicios y la suma que corresponde indemnizar, informando fundadamente al asegurador y al asegurado la procedencia o rechazo de la indemnización;
+
+c) Proponer a las partes las medidas urgentes que se deban adoptar para evitar que se aumenten los daños y llevarlas a cabo previa autorización escrita del propietario o responsable de los bienes siniestrados, sin perjuicio de las obligaciones del asegurado, y d) Las demás que establezca el reglamento.
+
+En el cumplimiento de sus obligaciones los liquidadores responderán hasta de la culpa leve.
 
 #### Artículo 64
 
-Todos los actos o contratos distintos a los de su giro que las sociedades de que trata este párrafo celebren con sus personas relacionadas deberán ser previamente aprobados por las dos terceras partes del directorio y constar en el acta correspondiente, sin perjuicio de lo dispuesto en el artículo 44 de la ley N° 18.046 respecto de los directores.
+A los liquidadores les queda prohibido:
+
+a) Practicar liquidaciones en las cuales tengan interés en razón de parentesco o de su relación con las personas afectadas o con la propiedad de los bienes siniestrados, de acuerdo al reglamento, y
+
+b) Percibir directa o indirectamente beneficios económicos del asegurador, del asegurado o de terceros, distintos de sus honorarios profesionales y retener para sí o adjudicar a personas relacionadas los bienes o productos del recupero que hubieren practicado.
 
 ## Título IV
 
@@ -816,7 +838,7 @@ En todas las quiebras de compañías de seguros, el tribunal, al día siguiente 
 
 El oficio será tramitado por el síndico, quien estará obligado, además, a velar por el cumplimiento de este precepto.
 
-Se presume que la quiebra es culpable si las reservas técnicas de la compañía no se hubieren constituido conforme a las normas legales y a las instrucciones impartidas por la Superintendencia o, en los casos que estando éstas debidamente constituídas, las inversiones representativas de estas reservas no se hubieren valorizado conforme a las normas impartidas por la Superintendencia, siempre que a consecuencia de este hecho, se determine que, a la fecha de la quiebra, no habría podido satisfacer el cumplimiento de las obligaciones provenientes de los contratos de seguros respectivos. El síndico deberá expresar esta circunstancia en el proceso de calificación.
+Se presume que la quiebra es culpable si las reservas técnicas y el patrimonio de riesgo de la compañía no se hubieren constituido conforme a las normas legales y a las instrucciones impartidas por la Superintendencia o, en los casos que estando éstas debidamente constituídas, las inversiones representativas de estas reservas no se hubieren valorizado conforme a las normas impartidas por la Superintendencia, siempre que a consecuencia de este hecho, se determine que, a la fecha de la quiebra, no habría podido satisfacer el cumplimiento de las obligaciones provenientes de los contratos de seguros respectivos. El síndico deberá expresar esta circunstancia en el proceso de calificación.
 
 #### Artículo 82
 
@@ -834,7 +856,7 @@ Con todo, los pagos por reaseguros beneficiarán a los asegurados cuyos crédito
 
 #### Artículo 85
 
-Declarada la quiebra de una compañía de seguros del segundo grupo, el síndico practicará la liquidación de todos aquellos contratos que originen reserva matemática o de siniestros, de acuerdo a las normas dictadas por la Superintendencia. Con el mérito de dicha liquidación el síndico deberá verificar el importe que a la fecha de declaración de quiebra representen dichas reservas de acuerdo al procedimiento señalado en los artículos 131 y siguientes de la Ley de Quiebras, asumiendo para este solo efecto la representación del asegurado, sin que ello importe reconocimiento alguno. En el evento que al asegurado se le hubiere seguido pagando prestaciones de acuerdo con el artículo 80, dichos pagos se deducirán de la respectiva reserva.
+Declarada la quiebra de una compañía de seguros del segundo grupo, el síndico practicará la liquidación de todos aquellos contratos que originen reserva matemática o de siniestros, de acuerdo a las normas dictadas por la Superintendencia. Con el mérito de dicha liquidación el síndico deberá verificar el importe que a la fecha de declaración de quiebra representen dichas reservas de acuerdo al procedimiento señalado en los artículos 131 y siguientes de la Ley de Quiebras, asumiendo para este solo efecto la representación del asegurado, sin que ello importe reconocimiento alguno. En el evento que al asegurado se le hubiere seguido pagando prestaciones de acuerdo con el artículo 83, dichos pagos se deducirán de la respectiva reserva.
 
 #### Artículo 86
 
@@ -860,9 +882,7 @@ DEROGADO.
 
 #### Artículo 156
 
-El Superintendente ydemás empleados del Servicio tendrán el carácter de empleados públicos para los efectos del desahucio y previsión social, y estarán obligados a efectuar las imposiciones correspondientes.
-
-INCISO DEROGADO.
+DEROGADO.
 
 #### Artículo 157
 
@@ -878,7 +898,7 @@ DEROGADO.
 
 #### Artículo 160
 
-Las cuotas para cubrir los gastos de peritaje en los procesos de incendio a que se refiere el artículo 36, serán depositadas en la Tesorería Fiscal, y el retardo en su pago devengará los intereses y reajustes establecidos en el artículo 53 del Código Tributario, sin perjuicio de las sanciones que pueda aplicar la Superintendencia.
+DEROGADO.
 
 #### Artículo 161
 
@@ -886,7 +906,7 @@ DEROGADO.
 
 #### Artículo 162
 
-Deróganse las leyes números 4,228 de 20 de Diciembre de 1927 y todas las disposiciones que dicha ley derogó en su artículo 96; la Ley número 4,404, de 6 de Septiembre de 1928 y las disposiciones que derogó su artículo 2° transitorio; la Ley número 4,947 de 12 de Febrero de 1931; el Decreto con fuerza de Ley número 3 de 13 de Febrero de 1931; el Reglamento número 3,030 de 22 de Diciembre de 1920 y las disposiciones contrarias a la presente Ley.
+DEROGADO.
 
 ## Artículos transitorios
 
