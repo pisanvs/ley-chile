@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.178, de 4 de noviembre de 2004, de esta Subsecretaría, autorízase a LEONIDAS MANSILLA ALMONACID, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en camino a Changuitad s/n, Curaco de Vélez, Chiloé, X Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-Enfriado, Fresco-Refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 4 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
