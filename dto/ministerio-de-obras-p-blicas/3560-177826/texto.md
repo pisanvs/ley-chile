@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 3.560, de 31 de julio de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 3-1, para la obra: Concesión Internacional Ruta 5, Tramo: Río Bueno-Puerto Montt, sector: Enlace Inicio By Pass Km.
+
+1.018,700 al Km. 1.019,900; Décima Región, que figura a nombre de Rodríguez Didier Sonia y Otra, rol de avalúo 2141-85, comuna de Puerto Montt, superficie 37.693 m2. La Comisión de Peritos integrada por los señores Enrique Hoelck Altmann, Jaime Sanz Bahamonde y Nelson Bernardo Turra Turra, fijó con fecha 15 de mayo de 2000, el valor provisional de la indemnización en la cantidad de $691.429.423.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
