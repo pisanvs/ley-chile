@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº876, de 31 de mayo de 2002, se expropió el lote de terreno Nº13-A, superficie 29 m2., rol de avalúo Nº604-32, comuna de Molina, para la obra Camino Ruta K-175 - Molina - Siete Tazas, Sector Molina - Bif. Ruta K-179, Tramo Km. 0,000.00 al 8,400.00, VII Región, y se acordó el valor de indemnización con su propietario Blas Antonio Sazo Salas, ascendente a la cantidad de $343.252.
+
+Fiscal del Ministerio de Obras Públicas.
