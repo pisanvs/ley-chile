@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº588, de 30 de abril de 1998, se expropió el lote de terreno Nº16, superficie 584 m²., rol de avalúo 3504-7, comuna de Valdivia, para la obra Camino Niebla Los Molinos Ruta T-352, Sector Niebla - Los Molinos y se acordó precio de la indemnización con su propietario Silvia del Carmen Esprell Palavecinos y otros, ascendente a la cantidad de $13.204.744.
+
+Fiscal del Ministerio de Obras Públicas.
