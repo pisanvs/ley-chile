@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 308, de 31 de marzo de 1997, se expropió el lote de terreno Nº 5, superficie 509 M2., rol de avalúo 319-510, comuna de Buin, obra Proyecto Estudio de Ingeniería Mejoramiento Ruta 5, sector Pasada por Buin, Rol R-5 y se acordó precio de indemnización con su propietario Construcciones e Inversiones Anton S.A., ascendente a la cantidad de $8.893.962.-
+
+Fiscal del Ministerio de Obras Públicas.
