@@ -1,0 +1,3 @@
+Por resolución No. 129, de 14 de Febrero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, derógase la Resolución No. 325, de 1989, de esta Subsecretaría, por la cual se autorizó a doña SOFIA MAGDALENA RIOS CONTRERAS, R.U.T. No. 5.446.188-7, No. 425, Depto. 21, Vallenar, para instalar y operar un establecimiento de cultivo del recurso Camarón de río del norte, Cryphiops caementarius, en el sector Buena Esperanza, a orillas del Río Huasco, Comuna de Vallenar, Provincia de Huasco, III Región, por renuncia de su titular.
+
+Valparaíso, 14 de Febrero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
