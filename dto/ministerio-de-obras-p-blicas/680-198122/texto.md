@@ -1,0 +1,5 @@
+Por decreto MOP Nº680, de 5 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 17 y 18, para la obra: "Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Enlace Algarrobo. Lámina Especial 1. Km. 65.600,00 a Km.
+
+66.800,00", Quinta Región, que figuran a nombre de Allende Malhue Roberto, rol de avalúo 154-5, comuna de Casablanca, superficies de 1.591 m2 y 288 m2, respectivamente. La comisión de peritos integrada por los señores Joaquín Prieto Ochagavía, Claudia Paola Arellano Gómez y Karin Verónica Schulz Villanueva, fijó con fecha 31 de enero de 2002, el valor provisional de la indemnización en las cantidades de $7.398.400.- para el lote Nº17 y $1.355.600.- para el lote Nº18. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
