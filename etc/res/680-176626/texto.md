@@ -1,0 +1,5 @@
+En cumplimiento de lo dispuesto por los decretos del Ministerio de Economía Nº 291, de 11 de junio de 1999, y Nº 668, de 16 de noviembre de 1999, certifico que por resolución (E) Nº 680, de 5 de octubre de 2000, del Sr. Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción, se puso en vigencia el acuerdo Nº 2.093, de 25 de julio de 2000, adoptado por el Consejo de la Corporación en la Sesión Nº 317, efectuada el 21 de julio de 2000, modificado por el acuerdo Nº 2.100, de 28 de septiembre de 2000. En virtud de la referida resolución, se aprobó el ''Reglamento y Crea Comité para el Programa de Promoción y Atracción de Inversiones para la Creación de Empresas de Alta Tecnología No Tradicionales''.
+
+El texto completo de la resolución (E) Nº 680, de 05.10.2000, estará a disposición de los usuarios en la Secretaría General de la Corporación y en las direcciones regionales.
+
+Santiago, 10 de octubre de 2000.- Yerko Koscina Peralta, Secretario General.
