@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 130, de 30 de abril de 1992, se expropió el lote de terreno No. 17, superficie 504 m2., rol de avalúo 176-9, Comuna de Coronel, para la obra Camino By Pass Coronel - Lota (Ruta 160), sector By Pass Coronel - Lota y se acordó precio de indemnización con sus propietarios Violeta Bustamante Arriagada y otros, ascendente a la cantidad de $ 7.960.449.-
+
+Fiscal del Ministerio de Obras Públicas.
