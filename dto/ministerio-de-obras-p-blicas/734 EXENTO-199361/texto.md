@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº734, de 15 de mayo de 2002 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº36, para la obra Camino Ruta T-80, sector La Unión-Las Trancas, tramo Km. 0,900 al 10,99034, que figura a nombre de Villanueva Berner Rubén Eduardo, rol de avalúo 524-185, superficie 630 m2., comuna de La Unión. La Comisión de Peritos, con fecha 21 de enero de 2000, fijó la indemnización provisional en la cantidad de $677.500, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas .
