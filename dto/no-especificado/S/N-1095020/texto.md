@@ -1,0 +1,7 @@
+Reclamos por la contribucion mensual
+
+El Gobernador-Intendente de la Provincia de Santiago, de acuerdo con el Excmo. Senado, i en virtud de lo que previene el artículo 24, tít. 4.°, cap. 1.° de la Constitucion provisoria.
+
+Por cuanto son repetidos los reclamos de varios individuos pensionados con la contribucion mensual nuevamente impuesta, dirijiéndose todos ellos a evitar el pago, con grave perjuicio del auxilio que necesita el Erario en sus actuales apuros: por tanto, se previene a todos los vecinos i los habitantes de esta capital, que el que se sienta agraviado con la asignacion que se le ha hecho, debe hacer su recurso a esta Intendencia en el término preciso i perentorio de seis dias, contados desde la fecha de este bando, pasado el cual no se admitirá jestiva alguna; en el concepto que las cantidades respectivamente prefijadas deben enterarse íntegramente sin perjuicio de la audiencia concedida a los interesados, bien sea en dinero efecto, o bien en plata labrada a razón de siete pesos marco, bajo las penas que prescribe la órden de imposicion publicada por bando: i que los individuos pensionados, que segun la naturaleza de sus reclamos se hicieren acreedores a la rebaja, disfrutarán del beneficio en los meses siguientes. Para que llegue a noticias de todos publíquese por bando, fíjese en los lugares acostumbrados, e imprímase.
+
+Dado en Santiago de Chile, a veintiocho de Mayo de mil ochocientos diez i nueve.- José María de Guzman.- Ante mí.- Jerónimo Araos, escribiente de Gobierno.
