@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº334 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº2, superficie 1.886,90 m², Rol de Avalúo Nº201-108, comuna de Curacautín, para la obra "Camino Curacautín - Termas de Tolhuaca, Sector Puente Amantible, Tramo Km. 0,60000 al Km. 0,98000", IX Región y se acordó el valor de indemnización con su propietaria Jeanette del Carmen Cofré Retamal, ascendente a la cantidad de $916.836.-
+
+Fiscal del Ministerio de Obras Públicas.
