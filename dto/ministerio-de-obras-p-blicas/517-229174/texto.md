@@ -1,0 +1,5 @@
+Por decreto MOP Nº 517 de 30 de junio de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s.
+
+10-C y 10-CH, para la obra: Camino Mejoramiento Ruta I-72, Sector Paredones - Bucalemu, Tramo km. 27,400 a km. 43,100, que figura a nombre de Forestal Nilahue S A, roles de avalúo 29-11 y 29-10, Comuna de Paredones, VI Región, superficies 2.956 y 2.886 m². La Comisión de Peritos fijó con fecha 22 de noviembre de 2001 en las cantidades de $4.425.400.lote Nº 10-C y $4.299.900.- lote Nº 10-CH. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
