@@ -1,0 +1,3 @@
+AVISO OFICIAL
+
+El Gobierno de Mendoza en la nota de 17 de Febrero último, que ha dirijido al Ministerio de Relaciones Exteriores de esta República, comunica haber dispuesto que D. Jorje Velasco, vecino de aquella provincia, que existe confinado en esta, puede pasar a residir a la de San Juan, y continuar en ella su confinacion. Igualmente ha dispuesto que los demas individuos de la provincia de Mendoza que existen confinados en esta República, puedan trasladarse a la que sea de su beneplácito menos a aquella. En su virtud los referidos individuos confinados podrán ocurrir a la Intendencia de esta capital por sus correspondientes pasaportes, a cuyo efecto se le ha comunicado la antecitada resolucion.
