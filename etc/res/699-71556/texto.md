@@ -1,0 +1,3 @@
+Por Resolución Nº 699, de 14 de mayo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 91160002, presentada por SALMONES PACIFIC STAR LTDA., para un centro de cultivo ubicado en Canal San Pedro, Sector B, comuna de Quellón, provincia de Chiloé, X Región, en virtud de lo dispuesto en los artículos 78º y 87º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 14 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
