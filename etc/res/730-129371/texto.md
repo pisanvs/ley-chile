@@ -1,0 +1,7 @@
+AUTORIZA A DON FRUCTUOSO ROJAS PATIÑO PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 730, de 19 de Julio de 1988, de esta Subsecretaría de Pesca del Ministerio del Economía, Fomento y Reconstrucción, se autoriza a don Fructuoso Rojas Patiño, R.U.T. No. 2.830.936-0, domiciliado en pasaje Sargento Frez No. 1589, Población Lautaro, Arica, para iniciar actividades pesqueras, en orden a operar la embarcación Isaura, en el litoral de las Regiones I a IX donde podrá extraer los siguientes recursos hidrobiológicos: Machuelo, agujilla, atún, bonito, corvina, lisa, albacora, marrajo, palometa, cabinza anchoveta, sardina común, sardina española, jurel y caballa. Con todo,los recursos, anchoveta, sardina común, sardina española, jurel y caballa, no podrán extraerse en el litoral de las Regiones I, II y VIII, de conformidad al Decreto Supremo No. 436, de 1985, del Ministerio de Economía, Fomento y Reconstrucción. Asimismo, se autoriza al peticionario para extraer con la señalada embarcación el recurso hidrobiológico mero o bacalao en el área comprendida desde Punta Liles (32° 45' 40") al Sur.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 19 de Julio de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
