@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°625, de 30 de junio de 1997, se expropiaron los lotes de terreno N°s. 4-E, 18, 18-A y 18-B, superficie 338,00, 2.242,00, 421,95 y 1.888,00 m2, roles de avaluó 1422-14 y 491-1 comuna de Rancagua, para la obra Conexión Vial, Camino Rancagua-Doñihue Ruta H-30 Ruta 5 y se acordó precio de indemnización de con sus propietarios César Raúl Zúñiga Pozo y otros, Bernardo Urrutia Tapia y Vania Urrutia O´Nell, ascendentes a las cantidades de $3.094.841, $82.945.900 y $9.607.016, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
