@@ -1682,6 +1682,8 @@ En lo que concierne a la oferta pública de valores que los bancos y sociedades 
 
 ### II. NORMAS GENERALES SOBRE CAPTACIONES Y TRANSFERENCIAS DE TITULOS DE CREDITO
 
+En las presentes normas se entiende que las operaciones realizadas con el "público" son las efectuadas con cualquier persona natural o jurídica, del país o del exterior, distinta de los bancos y sociedades financieras establecidos en Chile.
+
 ### 1. Plazos mínimos para el pago de intereses o reajustes al público
 
 Conforme a lo establecido en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras pueden pagar intereses por sus captaciones del público solamente si se trata de operaciones pactadas a plazo y si los fondos se mantienen depositados a lo menos 30 días.
@@ -1698,9 +1700,9 @@ c) Los intereses y reajustes que se paguen por las captaciones realizadas median
 
 2. Plazos mínimos para adquirir del público títulos de crédito que hayan sido emitidos o cedidos por alguna institución financiera.
 
-De acuerdo a lo señalado en el N° 2 del Capítulo III.B.1 del Compendio de Normas Financieras, quedan sujetos a plazos mínimos de 30 y 90 días, iguales a los mencionados en el N° 1 precedente, las adquisiciones de efectos de comercio que las instituciones financieras hagan a personas diferentes a bancos o sociedades financieras, en relación con la fecha del endoso o cesión.
+De acuerdo a lo señalado en el N° 2 del Capítulo III.B.1 del Compendio de Normas Financieras, quedan sujetos a plazos mínimos de 30 y 90 días, iguales a los mencionados en el N° 1 precedente, las adquisiciones de efectos de comercio que las instituciones financieras hagan a personas diferentes a bancos o sociedades financieras establecidos en Chile, en relación con la fecha del endoso o cesión.
 
-Dicha disposición se aplica tanto a las compras definitivas como a las compras con pacto de que trata el título III de este Capítulo y es complementaria de las instrucciones contenidas en el N° 1 precedente, relativas al pago de intereses y reajustes. Por consiguiente, debe entenderse que esa limitación alcanza a todos los títulos de crédito pagaderos a plazo que hayan sido emitidos o cedidos por la misma institución o por otro banco o sociedad financiera, incluidos los valores mobiliarios.
+Dicha disposición se aplica tanto a las compras definitivas como a las compras con pacto de que trata el título III de este Capítulo y es complementaria de las instrucciones contenidas en el N° 1 precedente, relativas al pago de intereses y reajustes. Por consiguiente, debe entenderse que esa limitación alcanza a todos los títulos de crédito pagaderos a plazo que hayan sido emitidos o cedidos por la misma institución o por otro banco o sociedad financiera establecido en Chile, incluidos los valores mobiliarios.
 
 En todo caso, en concordancia con la excepción indicada en la letra c) del N° 1 anterior, aquellos plazos mínimos de 30 y 90 días para adquirir títulos de crédito no son aplicables cuando la adquisición corresponda a la recompra de aquellos documentos vendidos con pacto de retrocompra que se señalan en el N° 3 del título III de este Capítulo, ya que en ese caso, como se mencionó anteriormente, el plazo mínimo es de cuatro días hábiles bancarios, tanto para instrumentos reajustables como no reajustables.
 
@@ -1718,23 +1720,17 @@ Para los documentos pagaderos a plazo suscritos o aceptados por una institución
 
 ### 3. Operaciones con títulos al portador
 
-Conforme a lo dispuesto en el N° 4 del ya citado Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras sólo pueden emitir, vender o ceder los siguientes títulos de crédito pagaderos al portador:
+3.1.- Emisión de títulos al portador.
 
-3.1. Emisión de títulos al portador.
+Las instituciones financieras sólo pueden emitir los siguientes títulos al portador:
 
-Podrán emitirse solamente los siguientes títulos al portador:
+a) Letras de crédito y bonos para ser colocados en el país.
 
-a)Letras de crédito y bonos inscritos en el Registro de Valores de esta Superintendencia.
+b) Certificados de depósito y bonos para ser colocados en el exterior, en las condiciones establecidas en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
-b) Bonos para ser colocados en el exterior.
+3.2.- Transferencia de títulos al portador emitidos en Chile.
 
-c) Certificados o pagarés que den cuenta de depósitos en moneda extranjera recibidos de bancos corresponsales del exterior, los que sólo podrán ser negociados fuera del país.
-
-Los documentos señalados en las letras b) y c) precedentes sólo podrán ser emitidos por los bancos.
-
-3.2. Transferencia de títulos al portador.
-
-Las instituciones financieras sólo podrán transferir al público o a otras instituciones financieras, los siguientes títulos de su cartera pagaderos al portador:
+Las instituciones financieras sólo podrán transferir los siguientes títulos al portador emitidos en Chile:
 
 a) Los indicados en el numeral 3.1 precedente.
 
@@ -1746,7 +1742,7 @@ b) Los siguientes documentos emitidos por el Banco Central de Chile:
 
 - Pagarés Dólar Preferencial (PDP).
 
-- Pagarés y efectos de comercio a que se refiere el Anexo N° 1 del Capítulo XVIII y el Anexo NB 1 del Capítulo XIX, del Título I del Compendio de Normas de Cambios Internacionales.
+- Pagarés y efectos de comercio a que se refería y el Anexo NB 1 del Capítulo XIX, del Título I del Compendio de Normas de Cambios Internacionales.
 
 - Pagarés reajustables con pago en cupones (PRC), Capítulo IV.B.8.3 del Compendio de Normas Financieras.
 
@@ -1760,7 +1756,7 @@ c) Pagarés emitidos por la Tesorería General de la República, correspondiente
 
 d) Bonos de la deuda interna y cualquiera otra clase de documentos representativos de obligaciones del Estado o de sus instituciones o garantizados por aquél o éstas.
 
-e) Bonos, debentures y otros valores de renta fija inscritos en el Registro de Valores de la Superintendencia de Valores y Seguros.
+e) Bonos y otros valores de renta fija inscritos en el Registro de Valores de la Superintendencia de Valores y Seguros.
 
 4. Condiciones generales para la venta o cesión de cartera de colocaciones e inversiones financieras.
 
@@ -1774,19 +1770,15 @@ c) Los documentos que se vendan o cedan deben encontrarse en poder de la institu
 
 d) Las ventas podrán ser: i) definitivas, o, ii) con pacto de retrocompra, con sujeción, en este caso, a las normas del título III de este Capítulo;
 
-e) No podrá venderse o cederse al público ningún documento de la cartera de colocaciones, salvo en los casos o bajo las condiciones que se indican en los N°s. 2 y 4 del título III del Capítulo 8-19 de esta Recopilación.
+e) No podrán transferirse al público documentos de la cartera de inversiones financieras cuyo plazo de vencimiento, contado desde la fecha de venta o cesión, sea inferior a los plazos señalados en el N°1 de este título, esto es, cuatro días hábiles bancarios cuando se trate de alguno de los documentos indicados en el N° 3 del título III de este Capítulo, 30 días corridos para otros documentos no reajustables o reajustables por la variación del dólar de Estados Unidos de América y 90 días corridos cuando correspondan a otros documentos reajustables.
 
-f) No podrán transferirse al público documentos de la cartera de inversiones financieras cuyo plazo de vencimiento, contado desde la fecha de venta o cesión, sea inferior a los plazos señalados en el N°1 de este título, esto es, cuatro días hábiles bancarios cuando se trate de alguno de los documentos indicados en el N° 3 del título III de este Capítulo, 30 días corridos para otros documentos no reajustables o reajustables por la variación del dólar de Estados Unidos de América y 90 días corridos cuando correspondan a otros documentos reajustables.
+f) Las cesiones de cartera a empresas securitizadoras deben sujetarse a los límites y demás condiciones establecidos por el Banco Central de Chile en el Capítulo III.B.4 de su Compendio de Normas Financieras.
 
-g) Las cesiones de cartera a empresas securitizadoras deben sujetarse a los límites y demás condiciones establecidos por el Banco Central de Chile en el Capítulo III.B.4 de su Compendio de Normas Financieras.
-
-Además de las condiciones o limitaciones generales señaladas en las letras precedentes, las instituciones financieras deben tener presente las instrucciones específicas que afectan la venta de cartera de colocaciones o de inversiones financieras, contenidas en el Capítulo 8-19 y 8-21 de esta Recopilación, respectivamente.
+g) Además de las condiciones señaladas en los literales precedentes y en las otras disposiciones del presente Capítulo, las instituciones deben ajustarse a las normas específicas referidas a la venta o cesión de cartera de colocaciones o inversiones financieras, tratadas en los Capítulos 8-19 y 8-21, respectivamente.
 
 5. Responsabilidad de la institución financiera en el pago de los documentos que venda o transfiera.
 
-Las transferencias de documentos de su cartera de colocaciones o de inversiones financieras que realicen las instituciones financieras, serán sin responsabilidad para la entidad vendedora, no pudiendo esta última, en consecuencia, comprometerse a su pago por forma o medio alguno, directa o indirectamente.
-
-Al respecto conviene tener presente que, si bien en la letra d) del N° 6 del Capítulo III.B.l del Compendio de Normas Financieras del Banco Central de Chile se señala que las ventas al público de efectos de comercio se harán con responsabilidad de la institución que los vende, las disposiciones actualmente vigentes permiten transferir a entidades diferentes de bancos y sociedades financieras, solamente aquellos documentos de la cartera de colocaciones que se señalan en el N° 2 del título III del Capítulo 8-19 de esta Recopilación Actualizada de Normas, debiendo hacerlo en estos casos, sin responsabilidad.
+La transferencia de documentos de la cartera de colocaciones o inversiones financieras será siempre sin responsabilidad de pago de la institución financiera cedente, salvo que se trate de colocaciones cedidas a empresas bancarias del exterior, excluidas las sucursales y filiales de bancos establecidos en el país, cuando tales colocaciones correspondan a créditos pagaderos en moneda extranjera otorgados a personas domiciliadas y residentes en Chile. En éste caso el banco cedente podrá agregar su responsabilidad de pago, quedando ésta sujeta al límite de avales y fianzas dispuesto en el Capítulo III.1.1 del Compendio de Normas Financieras del Banco Central de Chile, tratado en el Capítulo 8-10 de esta Recopilación.
 
 ### 6. Otras disposiciones
 
@@ -1838,15 +1830,15 @@ La obligación de recomprar y revender que asumen las partes, deberá pactarse a
 
 a) Operaciones entre instituciones financieras.
 
-Las operaciones entre instituciones financieras podrán realizarse desde un día hábil bancario cuando se transfieran con pacto los instrumentos mencionados en el N° 3 de este título.
+Las operaciones entre instituciones financieras establecidas en Chile podrán realizarse desde un día hábil bancario cuando se transfieran con pacto los instrumentos mencionados en el N° 3 de este título.
 
 Para los demás valores o efectos de comercio que se transfieran, el plazo para la retrocompra no podrá ser inferior a 30 días corridos cuando se vendan documentos no reajustables, ni menor a 90 días cuando se trate de instrumentos reajustables.
 
 b) Operaciones con el público.
 
-La venta con pacto al público de los instrumentos mencionados en el N° 3 de este título, debe contratarse con un plazo no inferior a cuatro días hábiles bancarios.
+La venta con pacto a compradores distintos a otros bancos o sociedades financieras establecidos en el país de los instrumentos mencionados en el N° 3 de este título, debe contratarse con un plazo no inferior a cuatro días hábiles bancarios.
 
-Para la venta con pacto de retrocompra de otros valores, el plazo no podrá ser inferior a 30 días corridos cuando el pacto no incluya una cláusula de reajustabilidad, ni menor a 90 días cuando el pacto la incluya, en concordancia con 10 señalado en el N° 1 del título II de este Capítulo. En todo caso, para la inclusión de las cláusulas de reajustabilidad deberá observarse lo dispuesto en el segundo párrafo del numeral 2.5 siguiente.
+Para la venta con pacto de retrocompra de otros valores, el plazo no podrá ser inferior a 30 días corridos cuando el pacto no incluya una cláusula de reajustabilidad, ni menor a 90 días cuando el pacto la incluya, en concordancia con 10 señalado en el N° 1 del título II de este Capítulo. En todo caso, para la inclusión de las cláusulas de reajustabilidad deberá observarse lo dispuesto en el numeral 2.5 siguiente.
 
 Las compras con pacto al público pueden efectuarse desde un día hábil bancario.
 
@@ -1854,13 +1846,15 @@ Las compras con pacto al público pueden efectuarse desde un día hábil bancari
 
 Por tratarse de operaciones de crédito de dinero, la tasa de interés que se les aplique a las compras con pacto no podrá exceder a la tasa de interés máxima convencional vigente al momento de efectuarlas.
 
-Los reajustes de las operaciones deben corresponder al mismo tipo de reajustabilidad que la expresada en el título de crédito transferido, no pudiendo realizarse pactos reajustables sobre títulos no reajustables o viceversa, o aplicar otro sistema de reajustabilidad, salvo que se trate de operaciones con los instrumentos que se señalan en el N° 3 de este título, cuando se trate de operaciones con deudores para los que rige ese límite.
+Los pactos en moneda extranjera con tasa varia- ble deben expresarse con tasa libo o prime.
+
+Sólo se podrá pactar una reajustabilidad distinta que la expresada en el título transferido o realizar pactos reajustables sobre títulos no reajustables o viceversa, cuando se trate de operaciones con los instrumentos que se señalan en el N° 3 de este título y que no correspondan a instrumentos pagaderos, expresados o reajustables en moneda extranjera.
 
 2.6. Pactos y documentos pagaderos en moneda extranjera.
 
-Las operaciones con pacto en moneda extranjera sólo podrán realizarse entre bancos y cumpliendo las condiciones señaladas en el último párrafo del N° 3 de este título.
+En ningún caso los bancos podrán adquirir o ceder documentos pagaderos en moneda extranjera mediante pactos que se solucionen en moneda chilena, ni viceversa.
 
-En ningún caso las instituciones podrán adquirir o transferir documentos pagaderos en moneda extranjera mediante pactos que se solucionen en moneda chilena.
+Las sociedades financieras no podrán realizar pactos de compra o venta pagaderos en moneda extranjera.
 
 2.7. Contratos y cláusulas.
 
@@ -1876,7 +1870,9 @@ d) Al tratarse de documentos que contienen cupones que venzan dentro del plazo p
 
 3. Instrumentos que pueden ser vendidos con pacto de retrocompra con plazos mínimos especiales.
 
-De acuerdo a lo dispuesto por el Banco Central de Chile en el Capítulo M.B.1 de su Compendio de Normas Financieras, los siguientes instrumentos podrán venderse al público con pacto de retrocompra desde cuatro días hábiles bancarios y a otros bancos o sociedades financieras desde un día hábil bancario:
+a) Operaciones con bancos y sociedades financieras establecidos en el país.
+
+Los instrumentos de la cartera de inversiones financieras que se indican a continuación pueden ser objeto de venta con pacto de retrocompra desde un día hábil bancario cuando el comprador sea otra institución financiera:
 
 i) Los documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República que se indican en las letras b) y c) del numeral 3.2 del título II de este Capítulo.
 
@@ -1884,17 +1880,19 @@ ii) Certificados de Depósito Expresados en Dólares de los Estados Unidos de Am
 
 iii) Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional.
 
-Por otra parte, los bancos podrán realizar entre ellos operaciones con pacto en moneda extranjera, desde un día hábil bancario, con cualquier documento de la cartera de inversiones financieras de la institución cedente que sea pagadero o expresado en moneda extranjera o reajustable por el tipo de cambio, siempre que la venta y la recompra se pacte en la misma moneda que el instrumento transferido o, si éste fuere pagadero en pesos, en la moneda extranjera en que esté expresado o se base su reajustabilidad.
+iv) Otros instrumentos de la cartera de inversiones financieras, pagaderos, expresados o reajustables en moneda extranjera, emitidos por: el Banco Central de Chile, el Estado de Chile o sus instituciones; Estados o bancos centrales extranjeros de países clasificados, al menos, en primera categoría de riesgo; y, organismos internacionales a los Cuales se encuentre adherido el Estado de Chile.
+
+Debe tenerse presente, en todo caso, que las sociedades financieras no pueden participar en estas operaciones cuando se trate de pactos o documentos en moneda extranjera.
+
+b) Operaciones con el público.
+
+Podrán venderse con pacto de retrocompra desde cuatro días hábiles bancarios, los instrumentos aludidos en la letra a) precedente, con excepción de los indicados en su numeral iv).
 
 ### 4. Exención de encaje y reserva técnica
 
 Las ventas con pacto de retrocompra correspondientes a instrumentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, como asimismo las ventas de Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional, están exentas de encaje.
 
 Por otra parte, las obligaciones de retrocompra, cualesquiera sea el documento vendido, están exentas de la obligación de constituir la reserva técnica de que trata el artículo 65 de la Ley General de Bancos.
-
-### 5. Límites de crédito
-
-Las instituciones financieras deben tener presente que las compras con pacto de retrocompra por parte del vendedor quedan sujetas a los límites y prohibiciones de crédito de que trata el artículo 84 de la Ley General de Bancos, de acuerdo a lo establecido en el Capítulo 12-3 de esta Recopilación.
 
 IV.- VENTAS CORTAS Y PRESTAMO DE VALORES.
 
@@ -7166,7 +7164,7 @@ En lo que concierne a las normas legales que rigen el cobro de intereses en las 
 
 2.1.- Generalidades.
 
-De conformidad con lo dispuesto por el Consejo del Banco Central de Chile, en virtud de la facultad que le confiere el N° 9 del artículo 35 de su Ley Orgánica Constitucional, en las operaciones de crédito de dinero en que sea parte algún banco, sociedad financiera o cooperativa de ahorro y crédito, deben utilizarse sólo los sistemas de reajuste tratados en el Capítulo II B.3 del Compendio de Normas Financieras y que se comentan a continuación
+De conformidad con lo dispuesto por el Consejo del Banco Central de Chile, en virtud de la facultad que le confiere el N° 9 del artículo 35 de su Ley Orgánica Constitucional, en las operaciones de crédito de dinero en que sea parte algún banco, sociedad financiera o cooperativa de ahorro y crédito, deben utilizarse sólo los sistemas de reajuste autorizados por el Banco Central de Chile.
 
 Al respecto debe tenerse presente que, según lo establecido en el citado precepto legal, las estipulaciones de un sistema de reajuste no autorizado se tendrán por no escritas.
 
@@ -7175,6 +7173,10 @@ Por otra parte, las modificaciones a un sistema de reajuste autorizado o la supr
 Por último, en lo que respecta al alcance de estas normas, estima esta Superintendencia que las instituciones financieras quedan impedidas de descontar o adquirir efectos de comercio o valores mobiliarios, cuando ellos contengan cláusulas de reajustabilidad que no correspondan a algún sistema autorizado por el Banco Central de Chile. Ello sin perjuicio de la posibilidad de recibir tales instrumentos en pago de obligaciones, conforme a las disposiciones del N° 5 del artículo 84 de la Ley General de Bancos.
 
 2.2.- Sistemas autorizados.
+
+2.2.1.- Operaciones en moneda chilena.
+
+Los siguientes sistemas de reajustabilidad se encuentran autorizados de acuerdo con lo dispuesto en el Capítulo II.B.3 del Compendio de Normas Financieras del Banco Central de Chile:
 
 a) Unidad de Fomento(U.F)
 
@@ -7198,17 +7200,23 @@ c) Tipo de cambio del dolar de los Estados Unidos de América.
 
 El Banco Central de Chile determina diariamente el valor del tipo de cambio del dólar de los Estados Unidos de América, sobre la base de las transacciones realizadas en el día hábil bancario inmediatamente anterior al de su publicación y vigencia.
 
+Además de los sistemas señalados en los literales precedentes, conforme a lo indicado en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras pueden aplicar el sistema de reajustabilidad previsto en el artículo 20 de la Ley N° 18.010, esto es, pactar operaciones expresadas en moneda extranjera, pagaderas por su equivalente en moneda chilena, según el tipo de Cambio vendedor al día del pago.
+
+Debe tenerse presente también que en su oportunidad fue autorizada la adquisición, por parte de las instituciones financieras, de los créditos otorgados por la ex-ANAP, los que tienen su propio sistema de reajustabilidad.".
+
+2.2.2.- Operaciones pagaderas en moneda extranjera.
+
+Las operaciones pagaderas en moneda extranjera no pueden indexarse a otras monedas o unidades de valor, con excepción de aquellas de financiamiento externo reguladas en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales que se señalan a continuación:
+
+a) Los bonos emitidos a un plazo igual o superior a cuatro años, podrán expresarse en pesos o en Unidades de Fomento, según lo previsto en el referido Capítulo XIII.
+
+b) Los créditos obtenidos en el exterior podrán pactarse en las unidades de cuenta que se indican en el Anexo N° 3 del Capítulo I del Título I del Compendio antes mencionado, esto es: Derecho Especial de Giro del Fondo Monetario Internacional, Unidad de Cuenta del Banco Interamericano de Desarrollo, Onza Troy Oro y Onza Troy Plata.
+
 2.3- Publicación de valores de los sistemas de reajustabilidad.
 
 El Banco Central de Chile publicará en el Diario Oficial, a más tardar el día 9 de cada mes, los valores diarios que la Unidad de Fomento y el Indice Valor Promedio tendrán durante el período comprendido entre el día 10 del mismo mes y el día 9 del mes siguiente.
 
-Por otra parte, el Instituto Emisor publica diariamente en el Diario Oficial el tipo de cambio del dólar de los Estados Unidos de América señalado precedentemente.
-
-2.4.- Expresión en monedas de cuenta.
-
-La utilización de alguno de los sistemas autorizados por el Banco Central de Chile comprende tanto la posibilidad de que el respectivo documento se exprese en pesos y que se indique el sistema de reajuste que se aplicará, como también la de que dicho documento se exprese en la unidad de valor autorizada por el Instituto Emisor.
-
-Sin embargo, ello no es admisible en el caso de operaciones reajustables por la variación del dólar de los Estados Unidos de América a que se refiere la letra c) del numeral 2.2 precedente, debido a que en ese caso el documento quedaría expresado en moneda extranjera, lo cual supone condiciones contractuales diferentes según se indica en el N° 9 de este título, y no de una moneda de cuenta equivalente a pesos chilenos, propia del sistema de reajuste autorizado.
+Por otra parte, el Instituto Emisor publica diariamente en el Diario Oficial el tipo de cambio del dólar de los Estados Unidos de América señalado en la letra c) del numeral 2.2.1 anterior.
 
 3.- Cálculo de interés y reajustes.
 
@@ -7261,6 +7269,8 @@ Para pactar tasas de interés variables, las instituciones financieras deberán 
 a) La tasa de interés variable que se convenga no podrá tener como alternativa una tasa fija que pueda aplicarse a elección del acreedor o al cumplirse cualquier condición relacionada con la variabilidad de aquella. Por lo tanto, con excepción de las operaciones con letras de crédito con tasa flotante a que se refiere el Capítulo 9-1 de esta Recopilación, solo se admitirá la estipulación de una tasa fija alternativa o supletoria cuando tenga por objeto cubrir el evento de que no exista en el futuro el elemento que determine la tasa variable o que se produzca la circunstancia de que el deudor impugne o rechace su aplicación.
 
 b) Las instituciones financieras deberán cuidar que el título en contra del deudor reuna las condiciones de un título ejecutivo, en especial la indicada en el N° 3 del artículo 438 del Código de Procedimiento Civil.
+
+c) Al tratarse de operaciones pagaderas en moneda extranjera que correspondan a créditos otorgados a personas naturales o jurídicas domiciliadas y residentes en Chile, o bien de depósitos y captaciones, sólo podrá pactarse una tasa libo o prime.
 
 5.2.- Servicio pactado mediante cuotas por montos preestablecidos.
 
@@ -7418,13 +7428,11 @@ Para el cálculo de intereses de documentos descontados, es improcedente el carg
 
 9.- Diferencia entre las operaciones reajustables por el dólar de los Estados Unidos de América y las operaciones expresadas en moneda extranjera, pagaderas en moneda nacional.
 
-A fin de prever eventuales confusiones por la similitud financiera entre las operaciones en moneda nacional reajustables por el valor del dólar de los Estados Unidos de América y las operaciones expresadas en dólares y pagaderas en pesos que las instituciones financieras pueden realizar en los casos autorizados por el Banco Central de Chile, conviene mencionar las diferencias que existen entre ambas, de acuerdo con las normas vigentes;
+A fin de prever eventuales confusiones por la similitud financiera entre las operaciones en moneda nacional reajustables por el valor del dólar de los Estados Unidos de América y las operaciones expresadas en dólares y pagaderas en pesos que las instituciones financieras pueden realizar, conviene mencionar las diferencias que existen entre ambas, de acuerdo con las normas vigentes;
 
 Las obligaciones en moneda nacional reajustables por el valor del dólar deben pagarse reajustadas utilizando como unidad referencial de reajuste el tipo de cambio informado por el Banco Central de Chile. El interés máximo convencional aplicable a estas operaciones es el que corresponde a los créditos reajustables en general, señalado en la letra e) del numeral 6.1 de este titulo.
 
-En cambio, las obligaciones expresadas en moneda extranjera deben solucionarse por su equivalente en moneda chilena al tipo de cambio vendedor del día de pago, según lo dispuesto en el artículo 20 de la Ley N° 18.010. El interés máximo convencional aplicable en este caso, es el correspondiente a los créditos en dólares de EE.UU. de América o expresados en moneda extranjera, señalado en la letra f) del numeral 5.1 de este título
-
-Es importante tener presente que las disposiciones del Capitulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, no permiten a las empresas bancarias y sociedades financieras realizar captaciones o colocaciones pactadas de la forma señalada en el párrafo precedente, salvo cuando se trate de las operaciones a que se refieren los Capitules V.B.1 o V.B.2 del mismo Compendio, o de la adquisición de valores mobiliarios de renta fija. Aun cuando no se señala expresamente en el citado Capítulo III.B.1, debe entenderse que también se exceptúan de dicha limitación las Boletas de Garantía que emiten los bancos, conforme a lo señalado en el Capítulo 8-11 de esta Recopilación.
+En cambio, las obligaciones expresadas en moneda extranjera deben solucionarse por su equivalente en moneda chilena al tipo de cambio vendedor del día de pago, según lo dispuesto en el artículo 20 de la Ley N° 18.010. El interés máximo convencional aplicable en este caso, es el correspondiente a los créditos en dólares de EE.UU. de América o expresados en moneda extranjera, señalado en la letra f) del numeral 5.1 de este título.
 
 Cabe agregar también que el artículo 24 de la Ley 18.010 deja expresamente establecido que en esas obligaciones expresadas en moneda extranjera, pagaderas en pesos, no puede pactarse otra forma de reajuste que la que llevan implícita.
 
@@ -9862,15 +9870,15 @@ Las presentes normas alcanzan a cualquier operación mediante la cual la institu
 
 Las adquisiciones de efectos de comercio deben ajustarse a las instrucciones del N° 2 del título II del Capítulo 2-1 de esta Recopilación, cuando se trate de instrumentos adquiridos del público que hayan sido emitidos o endosados por alguna institución financiera. Se aplicarán también a las compras de efectos de comercio, en lo que corresponda, las reglas que para la venta de títulos de crédito se indican en ese título n del Capítulo 2-1.
 
-3. Adquisición de documentos en moneda extranjera por parte de una sociedad financiera.
+3.- Adquisición de documentos en moneda extranjera.
 
-Las sociedades financieras no pueden adquirir títulos de crédito en moneda extranjera, salvo cuando se trate de créditos que el Banco Central de Chile les haya autorizado expresamente mantener.
+Las empresas bancarias pueden adquirir créditos en moneda extranjera excepto en los siguientes casos:
 
-En ningún caso, las sociedades financieras pueden adquirir documentos en moneda extranjera correspondientes a operaciones de comercio exterior.
+a) cuando el deudor directo o indirecto sea otro banco establecido en Chile, salvo que se trate de documentos a favor de exportadores originados en la negociación de cartas de crédito.
 
-### 4. Límites de crédito
+b) cuando correspondan a créditos que el banco haya cedido anteriormente a entidades del exterior y cuyos deudores sean personas domiciliadas y residentes en Chile.
 
-Las adquisiciones o descuentos de efectos de comercio quedan sujetos a los límites y prohibiciones de que trata el artículo 84 de la Ley General de Bancos. Para ese efecto deben tenerse presente las instrucciones sobre deudores directos e indirectos contenidas en el Capítulo 12-3 de esta Recopilación Actualizada de Normas.
+A las sociedades financieras, por su parte, les está prohibida la adquisición de cualquier título de crédito en moneda extranjera.
 
 ### III. VENTAS DE DOCUMENTOS DE LA CARTERA DE COLOCACIONES
 
@@ -9880,9 +9888,17 @@ Las ventas o cesiones de créditos de la cartera de colocaciones a otras institu
 
 ### 2. Documentos de la cartera de colocaciones que pueden cederse al público
 
-Las instituciones financieras sólo podrán vender o ceder a personas diferentes a bancos o sociedades financieras establecidos en el país, los siguientes documentos de su cartera de colocaciones:
+Las instituciones financieras sólo podrán vender o ceder a personas diferentes a bancos o sociedades financieras establecidos en el país, los siguientes créditos de su cartera de colocaciones:
 
-a) Efectos de comercio correspondientes a créditos o préstamos pagaderos en moneda chilena que hayan otorgado a otras instituciones financieras y sólo si sus plazos de amortización total o parcial exceden de un año; y b) Mutuos Hipotecarios Endosables de que trata el N° 7 del artículo 69 de la Ley General de Bancos, siempre que se trate de los cesionarios que se señalan en el citado precepto legal y en el Capítulo 8-4 de esta Recopilación Actualizada de Normas y se cumplan los demás requisitos que se señalan en dicho Capítulo.
+a) Mutuos Hipotecarios endosables de que trata el N° 7 del artículo 69 de la Ley General de Bancos, cedidos a las entidades reguladas por leyes especiales en las condiciones que se señalan en el citado precepto legal y en el Capítulo 8-4 de esta Recopilación.
+
+b) Documentos susceptibles de ser securitizados, vendidos a sociedades securitizadoras o a fondos de inversión de créditos securitizados, de acuerdo con lo previsto en el Capítulo III.B.4 del Compendio de Normas Financieras del Banco Central de Chile y en el Capítulo 8-40 de esta Recopilación.
+
+c) Créditos en moneda extranjera cuyos deudores sean residentes y domiciliados en Chile, que se vendan en forma definitiva a empresas bancarias del exterior y sean pagados de contado.
+
+d) Créditos cuyos deudores estén situados en el exterior, que sean cedidos a bancos u otras personas no residentes ni domiciliados en Chile.
+
+Las ventas o cesiones que no se encuadren en lo indicado en los literales precedentes; que se efectúen a personas distintas de otras instituciones financieras establecidas en Chile, deben ajustarse a lo indicado en el N° 4 de este título.
 
 ### 3. Ventas de efectos de comercio a otras instituciones financieras
 
@@ -9904,7 +9920,7 @@ Las instituciones financieras deben tener presente la obligación de solicitar l
 
 4. Venta o cesión de activos sujetos a la autorización previa de esta Superintendencia.
 
-En la letra c) del N° 5 del Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile se establece que la transferencia de otros activos de la cartera distintos a los indicados o a otras instituciones facultadas para otorgar créditos, sólo podrá efectuarse con la autorización previa de esta Superintendencia.
+En la letra d) del N° 5 del Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile se establece que la transferencia de otros activos de la cartera distintos a los indicados o a otras instituciones facultadas para otorgar créditos, sólo podrá efectuarse con la autorización previa de esta Superintendencia.
 
 Dicha disposición debe entenderse en relación con:
 
@@ -10112,11 +10128,11 @@ Las compras con pacto de retrocompra de instrumentos de esta especie quedan suje
 
 Las empresas bancarias pueden mantener inversiones financieras en el exterior, con sujeción a las normas del Banco Central de Chile y dentro de los márgenes tratados en el Capítulo 12-3 y en el título II del Capítulo 12-13 de esta Recopilación".
 
-2.1.3. Instrumentos en moneda extranjera que pueden adquirir las sociedades
+2.1.3.- Adquisición de instrumentos en moneda extranjera.
 
-financieras.
+Las empresas bancarias pueden adquirir instrumentos de la cartera de inversiones financieras pagaderos en alguna moneda extranjera, en tanto se compren con la misma moneda. La prohibición de adquirir efectos de comercio en moneda extranjera cuyos deudores sean otros bancos establecidos en Chile, contenida en la letra d) del N° 3 del Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, no impide la adquisición de depósitos a plazo en moneda extranjera, pudiendo adquirirse éstos al igual que las letras de crédito y bonos emitidos por otros bancos.
 
-Las sociedades financieras deben tener en cuenta que los únicos instrumentos en moneda extranjera que pueden adquirir son los pagarés de que trata el Capítulo IV.B.9 del Compendio de Normas Financieras del Banco Central de Chile, siempre que dispongan de los recursos en moneda extranjera que, de conformidad con las normas del Instituto Emisor, pueden mantener.
+Las sociedades financieras no pueden mantener inversiones financieras en moneda extranjera.
 
 2.1.4. Adquisición de Instrumentos de propia emisión.
 
@@ -10124,37 +10140,27 @@ La adquisición de efectos de comercio aceptados o suscritos por la institución
 
 Al tratarse de letras de crédito, las instituciones financieras podrán adquirirlos como inversión, dentro de los límites que para el efecto ha establecido el Banco Central de Chile en el Capítulo III.B.2 de su Compendio de Normas Financieras y que se tratan en el Capítulo 12-11 de esta Recopilación Actualizada de Normas.
 
-2.2. Venta de Instrumentos de la cartera de Inversiones financieras.
+2.2. Venta o cesión de Instrumentos de la cartera de Inversiones financieras.
 
 2.2.1. Cumplimiento de las normas generales sobre Intermediación.
 
-Las ventas de instrumentos de la cartera de inversiones financieras deberán ajustarse a las normas generales del título II del Capítulo 2-1 de esta Recopilación.
+Las ventas o cesiones de instrumentos de la cartera de inversiones financieras deberán ajustarse a las normas generales del título II del Capítulo 2-1 de esta Recopilación.
 
 Las ventas con pacto de retrocompra de instrumentos de la cartera de inversiones financieras se sujetarán a las instrucciones generales contenidas en el título III del citado Capítulo 2-1, debiendo contabilizarse de la forma prevista en el N° 8 del presente Capítulo.
 
-2.2.2. Instrumentos o valores de la cartera de inversiones financieras que se pueden vender o ceder al público.
+La enajenación de instrumentos mediante préstamos de valores a otra institución financiera en operaciones de ventas cortas, se ajustará a lo indicado en el título IV de ese Capítulo 2-1, debiendo seguirse los criterios de contabilización indicados en el N° 11 del presente Capítulo.
 
-Sin perjuicio de las restricciones señaladas en el Capítulo 2-1 de esta Recopilación Actualizada de Normas, las instituciones financieras sólo podrán vender a personas diferentes de los bancos o sociedades financieras los siguientes documentos o valores de su cartera de inversiones financieras:
+2.2.2. 2.2.2.- Instrumentos o valores de la cartera de inversiones financieras que se pueden vender o ceder a personas distintas a otros bancos o sociedades financieras del país.
 
-a) Cualquier documento pagadero en moneda chilena, a la orden o al portador, con excepción de los documentos que, de acuerdo con las disposiciones del Banco Central de Chile, tengan la calidad de intransferibles o transferibles sólo entre instituciones financieras.
+Sin perjuicio de las restricciones señaladas en el Capítulo 2-1 de esta Recopilación Actualizada de Normas, las instituciones financieras establecidos en Chile sólo podrán vender a personas diferentes de los bancos o sociedades financieras los siguientes documentos o valores de su cartera de inversiones financieras:
 
-b) Pagarés en dólares de los Estados Unidos de América de que trata el Capítulo IV.B.9 del Compendio de Normas Financieras del Banco Central de Chile.
+a) Cualquier documento pagadero, a la orden o al portador, con excepción de los documentos que, de acuerdo con las disposiciones del Banco Central de Chile, tengan la calidad de intransferibles o transferibles sólo entre instituciones financieras.
 
-c) Oro sellado chileno o en otra forma, que mantengan en conformidad con lo dispuesto en el Capítulo 8-23 de esta Recopilación.
+b) Oro sellado chileno o en otra forma, que mantengan en conformidad con lo dispuesto en el Capítulo 8-23 de esta Recopilación.
 
 2.2.3. Instrumentos de la cartera de Inversiones financieras que se pueden vender o ceder a otras instituciones financieras.
 
-Las instituciones financieras pueden cederse entre sí cualquier documento transferible pagadero en moneda chilena de sus carteras de inversiones.
-
-Los bancos también pueden venderse o cederse entre sí los documentos transferibles de su cartera de inversiones en moneda extranjera, quedando excluidas de estas operaciones las sociedades financieras, salvo que se trate de pagarés en dólares de los Estados Unidos de América a que se refiere el Capítulo IV.B.9 del Compendio de Normas Financieras.
-
-2.3. Limites legales.
-
-Las inversiones en títulos de crédito quedan sujetas a los límites y prohibiciones de que trata el artículo 84 de la Ley General de Bancos, con las excepciones que se señalan en el numeral 3.2 del título II del Capítulo 12-3 de esta Recopilación.
-
-En el caso de inversiones en cuotas de fondos mutuos, debe tenerse presente lo establecido en el numeral 3-3 del título II del mencionado Capítulo 12-3.
-
-Las inversiones en oro, por su parte, quedan sujetas al límite de inversiones del artículo 69 de la Ley General de Bancos, tratado en el Capítulo 12-10 de esta Recopilación Actualizada de Normas.
+Las instituciones financieras pueden vender o ceder a otra institución financiera establecida en Chile, cualquier documento o valor transferible de su cartera de inversiones financieras.
 
 ### 3. Definiciones
 
@@ -10170,7 +10176,7 @@ Valor par: el valor presente del instrumento, calculado según su tasa nominal. 
 
 Valor contable: valor presente del instrumento calculado según su tasa de compra.
 
-Valor de mercado: valor obtenido de transacciones en las bolsas de valores o valor informado mensualmente por esta Superintendencia para efectos de valorización de la cartera de instrumentos transables en el mercado, según el caso.
+Valor de mercado: corresponde al valor razonable o justo ("fair valué"), esto es, a la cantidad por la cual, a la fecha de la valorización, puede ser intercambiado el instrumento entre un comprador y un vendedor debidamente informados que realizan una transacción libre.
 
 Instrumentos de corto plazo: Los títulos de créditos emitidos con amortización total a no más de un año plazo.
 
@@ -10200,51 +10206,33 @@ Las inversiones en oro sellado, amonedado o en pasta, quedarán registradas en l
 
 5. Reconocimiento de las variaciones en los precios de mercado de los instrumentos con mercado secundario.
 
-Sin perjuicio de que las inversiones quedarán, al cierre de cada mes, registradas en sus respectivas cuentas de acuerdo con el criterio de valorización señalado en el N° 4 precedente, las instituciones financieras deberán reconocer mensualmente el efecto de las variaciones en los precios de los instrumentos con mercado secundario de su cartera de inversiones financieras, con excepción de aquellos instrumentos cuyo plazo remanente para su vencimiento sea igual o inferior a un año.
+Sin perjuicio de que las inversiones quedarán, al cierre de cada mes, registradas en sus respectivas cuentas de acuerdo con el criterio de valorización señalado en el Ns 4 precedente, las instituciones financieras deberán reconocer el efecto de las variaciones en los precios de los instrumentos con mercado secundario de su cartera de inversiones financieras, efectuando los ajustes que correspondan según lo indicado en el numeral 7.4 de este Capítulo.
 
-Los ajustes contables provenientes de estos reconocimientos, se registrarán de la forma dispuesta en el numeral 7.4 de este Capítulo.
-
-5.1. Valor de mercado Informado por esta Superintendencia.
-
-Para los efectos de efectuar los ajustes de que se trata, esta Superintendencia entrega mensualmente a las instituciones financieras, en un archivo magnético, los valores de mercado que deben considerarse para instrumentos financieros, los que están referidos al día 25 de cada mes.
-
-En ese archivo magnético se identifica cada instrumento, su emisor y su fecha de emisión. El código de unidad indexada que aparece, corresponde a la moneda en que fue emitido originalmente cada título, pudiendo referirse a pesos, unidades de fomento, índice valor promedio o monedas extranjeras. El valor unitario aparece expresado en la forma de un factor que representa el valor comercial como porcentaje del valor del capital original adeudado por el emisor, es decir, el valor nominal de los títulos antes de que hayan ocurrido amortizaciones o devengos de intereses.
-
-Para obtener el valor de mercado, el factor o valor unitario debe multiplicarse por el valor del capital original adeudado por el emisor y luego, si es que corresponde, debe ser convertido a pesos de acuerdo con el valor de la unidad de fomento o del índice de valor promedio vigente el último día del mes a que corresponde la información. El valor en pesos o moneda extranjera que se obtenga se debe comparar con el valor contable de cada inversión para los efectos de efectuar los ajustes de que trata el numeral 7.4 de este Capítulo. Sin embargo, cuando en algún título informado se hayan producido amortizaciones de capital o de intereses entre el día 26 y el último día del mes, el precio de mercado obtenido en la forma antes descrita deberá rebajarse por un monto igual al importe que se haya recibido de parte del emisor.
-
-Con todo, si la institución financiera considera que el valor determinado para un instrumento de la forma señalada en el párrafo precedente, resulta excesivo en relación con el precio de mercado que ella misma ha estimado con suficientes fundamentos, podrá reemplazarlo por este último para los efectos del ajuste a que se refiere el numeral 7.4 de este Capítulo.
-
-5.2. Valor de mercado de instrumentos sin precio informado por esta Superintendencia.
-
-Para todos los instrumentos que no se incluyan en la información que entrega esta Superintendencia, sean éstos emitidos en el país o en el exterior, las instituciones financieras deberán efectuar, con la debida fundamentación, la mejor estimación de los valores de mercado de tales instrumentos al cierre de cada mes.
-
-En estos casos, las instituciones financieras deberán conservar en un archivo especial, para eventuales revisiones de esta Superintendencia, la nómina de estas inversiones con los respectivos valores de mercado utilizados en el ajuste mensual a que se refiere el numeral 7.4 de este Capítulo y los antecedentes de respaldo que justifican la aplicación de esos precios.
-
-El mismo procedimiento deberá seguirse para informar aquellos casos en que se haya aplicado un valor de mercado inferior al que se obtiene de la información que entrega esta Superintendencia, según lo indicado en el último párrafo del numeral 5.1 precedente.
+Para el efecto, las instituciones financieras deberán utilizar los sistemas internos de valorización que consideren más apropiados para estimar el valor de mercado definido en el N° 3 de este Capítulo. La responsabilidad de asegurar permanentemente una correcta valorización de las carteras a su valor justo, deberá recaer en una unidad o área independiente de las unidades negociadoras. Los criterios que la institución financiera elija, deberán aplicarse consistentemente y en cada oportunidad se dejará bien documentada la medición del valor de los instrumentos y carteras que componen las inversiones financieras.
 
 ### 6. Provisiones
 
-Sin perjuicio de la obligación de efectuar los ajustes para reconocer el valor de mercado de los instrumentos financieros en la forma señalada en el numeral 7.4 de este Capítulo, las instituciones deberán constituir, cuando corresponda, las provisiones que se establecen en el título II del Capítulo 8-29 de esta Recopilación Actualizada de Normas, destinadas a cubrir las pérdidas que se pueden derivar de compromisos de compra o de venta o, en casos especiales, de problemas de insolvencia del emisor de bonos o debentures mantenidos en la cartera.
+Las instituciones financieras deben constituir, cuando corresponda, las provisiones señaladas en los Capítulos 8-29, 7-6 y 12-13 de esta Recopilación.
 
 ### 7. Tratamiento contable de las compras y ventas definitivas
 
-7.1. Oportunidad de la contabilización de las compras y ventas de los instrumentos.
+7.1.- Contenido de las presentes normas.
 
-Las compras y ventas de instrumentos de la cartera de inversiones financieras se registrarán al momento de perfeccionarse la operación, aun cuando existiere un compromiso de compraventa previo. Por consiguiente, los compromisos de compra o de venta que excepcionalmente puedan convenir las instituciones, no se registrarán como activos ni pasivos.
+Las presentes instrucciones se refieren a las compras y ventas definitivas, de contado o a plazo, de instrumentos de la cartera de inversiones financieras, como asimismo a los criterios de valorización contable de la cartera y la forma de reconocer los ajustes a su valor de mercado en los casos que se indican.
 
-Al respecto, debe tenerse presente que las instituciones financieras no pueden comprometerse a vender instrumentos que no mantengan en la cartera al momento de obligarse a ello, amparando promesas de venta de títulos que aún no sean de su propiedad, incluidos los documentos que hayan vendido con pacto de retrocompra.
+En estas normas no se tratan las operaciones a futuro de instrumentos de la cartera de inversiones financieras, ni las operaciones con derivados, en general, cuyos subyacentes estén determinados por instrumentos financieros. La adquisición o cesión de un instrumento al vencimiento de esas operaciones, no difiere del tratamiento general de compras y ventas definitivas, salvo en el hecho de que los instrumentos deben ingresarse a la cartera a su valor de mercado.
 
 7.2. Adquisiciones de instrumentos.
 
-Las compras de documentos de la cartera de inversiones financieras se registrarán en el activo por el precio efectivamente pagado.
+Los instrumentos comprados se ingresarán al activo por el precio efectivamente pagado. En el evento de pactarse un pago a plazo, debe considerarse el valor actual del pasivo que se asume.
 
-En el caso de canjes o sustituciones, los instrumentos adquiridos se incorporarán al activo a su valor de mercado, debiéndose considerar éste como valor de compra para los efectos del devengo de intereses y reajustes. La diferencia entre ese valor y el valor contable a la fecha de la operación de los instrumentos que se enajenan y sumados o restados los pagos compensatorios que hubieren, se imputará a los resultados como utilidad o pérdida por venta de los instrumentos que se ceden.
+En todas las demás operaciones en que se adquieren inversiones financieras, como ocurre al vencimiento de una operación a futuro, en la restitución de documentos en operaciones de ventas cortas o en el evento de canjes o sustituciones, los instrumentos se ingresarán al activo a su valor de mercado, el que corresponderá también al "valor de compra" a que se refieren los numerales siguientes.
 
-Un procedimiento similar al descrito en el párrafo precedente, se seguirá en el evento de que se opte por incorporar a las inversiones financieras aquellos documentos que se hubieren recibido en pago de deudas a favor de la institución, según lo indicado en el N° 1 del título I del Capítulo 10-1 de esta Recopilación.
-
-Las inversiones financieras se registrarán en las partidas, cuentas y subcuentas que se disponen para el efecto en el Anexo N° 1 de este Capítulo.
+En caso de que se opte por incorporar a las inversiones financieras aquellos documentos que se hubieren recibido en pago de deudas a favor de la institución, según lo indicado en el N° 1 del título I del Capítulo 10-1 de esta Recopilación, ellos se ingresarán también a su valor de mercado.
 
 Al tratarse de inversiones en documentos expresados en moneda extranjera pagaderos en moneda chilena, las inversiones se registrarán en pesos, debiendo reajustarse de acuerdo con la variación que experimente el tipo de cambio que se expresa en el respectivo documento.
+
+Las inversiones financieras se informarán en las partidas y cuentas que se indican en el Anexo N° 1 de este Capítulo.
 
 7.3. Reajustes e Intereses.
 
@@ -10288,7 +10276,7 @@ Partida 7365 -"Otras inversiones financieras".
 
 El importe de los ajustes para reconocer en los resultados las variaciones en los precios de mercado de los instrumentos con mercado secundario, se determinará estableciendo, para cada instrumento, la diferencia positiva o negativa entre su valor contable, esto es, su valor de compra más los reajustes e intereses calculados hasta el cierre del respectivo mes, y su valor de mercado establecido en la forma ya señalada en el N° 5 de este Capítulo.
 
-Para ese efecto, deben considerarse todos los instrumentos susceptibles de ajuste, esto es, todos los que tengan mercado secundario con excepción de aquellos cuyo plazo remanente para su vencimiento sea igual o inferior a un año, sea que aquellos se encuentren en cartera, registrados en las partidas 1705, 1730, 1710,1725 y 1735, o se trate de documentos vendidos con pacto de retrocompra y estén registrados, por lo tanto, en la partida 1740, según lo establecido en el N° 8 de este Capítulo.
+Para ese efecto, deben considerarse todos los instrumentos susceptibles de ajuste, esto es, todos los que tengan mercado secundario, sea que éstos se encuentren en cartera, registrados en las partidas 1705, 1730, 1710,1725 y 1735, o se trate de documentos vendidos con pacto de retrocompra y estén registrados, por lo tanto, en la partida 1740, según lo establecido en el N° 8 de este Capítulo.
 
 7.4.2.- Ajuste contra los resultados.
 
@@ -10374,7 +10362,7 @@ Las instituciones que vendan instrumentos de su cartera de inversiones financier
 
 a) Por el precio de venta.
 
-Las ventas con pacto de retrocompra de un instrumento financiero se registrarán por el importe efectivamente percibido en la venta, abonando la cuenta o subcuenta que corresponda de la partida 3110 ó 3115. Las cuentas y subcuentas que comprenderán estas partidas se detallan en el Anexo N° 2 de este Capítulo.
+Las ventas con pacto de retrocompra de un instrumento financiero se registrarán por el importe efectivamente percibido en la venta, abonando la cuenta del pasivo que corresponda de la partida 3110 ó 3115. Las cuentas que comprenderán estas partidas se detallan en el Anexo N° 2 de este Capítulo.
 
 b) Por los intereses y reajustes.
 
@@ -10384,23 +10372,9 @@ Para ese efecto los intereses se calcularán de acuerdo con la tasa implícita e
 
 Los intereses y reajustes devengados se registrarán, a lo menos al cierre de cada mes, con abono a las respectivas cuentas complementarias de intereses por pagar y reajustes por pagar de las partidas 3110 y 3115, cargando las cuentas de resultado que correspondan de la partida 5145, en el caso de los intereses y, al tratarse de reajustes, de la partida 5345. En el caso de las operaciones cuyo plazo venza dentro del mismo mes en que se efectúa la venta, los intereses y reajustes podrán reconocerse sobre base percibida. Las cuentas que comprenden las partidas 5145 y 5345 antes mencionadas, se detallan en el Anexo N° 2 de este Capítulo.
 
-8.2. Documentos cedidos.
+8.2.- Documentos cedidos.
 
-a) Por los instrumentos registrados en las cuentas de inversiones financieras.
-
-Los importes que se encuentren registrados en el rubro de Inversiones Financieras correspondientes a los títulos vendidos con pacto de retrocompra, se traspasarán a la cuenta que corresponda de la partida 1740 "Inversiones financieras intermediadas". Las cuentas que forman parte de esta partida se detallan en el Anexo N° 2 de este Capítulo.
-
-En todo lo demás debe mantenerse la observancia de las normas generales sobre reajustes e intereses como si el instrumento cedido con pacto de retrocompra siguiera perteneciendo a la institución financiera. Los reajustes e intereses devengados por las inversiones financieras intermediadas se imputarán a las mismas cuentas de resultado en que se abonarían si los instrumentos no se hubiesen vendido con pacto de retrocompra, según las instrucciones del numeral 7.3.3 de este Capítulo, pero con cargo a las respectivas cuentas de la partida 1740. Por otra parte, las inversiones financieras intermediadas quedarán también sujetas a los ajustes de mercado de que trata el numeral 7.4 de este Capítulo.
-
-En síntesis, los traspasos antes señalados tendrán sólo el efecto de presentar separadamente en el activo los saldos correspondientes a las inversiones financieras intermediadas, para distinguirlas de aquellas que están respaldadas por títulos que son de propiedad de la empresa y que no se encuentran comprometidos por pactos de esta naturaleza.
-
-b) Por los instrumentos cedidos que hayan sido adquiridos con pacto de retrocompra.
-
-En el evento de venderse con pacto de retrocompra un instrumento que haya sido a su vez comprado con pacto, junto con registrar la operación de la forma señalada en el numeral 8.1, se deberá registrar el valor nominal del instrumento cedido con cargo a la cuenta de orden "Documentos adquiridos y cedidos con pacto" de la partida 9261.
-
-8.3. Cumplimiento del pacto.
-
-Al realizarse la retrocompra se cancelará la correspondiente obligación que se mantenga registrada por ese concepto en la partida 3110 y 3115. Además, se traspasarán nuevamente a sus cuentas de origen los montos registrados en las cuentas de la partida 1740 que correspondan a los instrumentos recomprados o, si los documentos vendidos con pacto correspondieren a instrumentos adquiridos con pacto de retroventa, se revertirán los importes registrados en las cuentas de orden señaladas en la letra b) del numeral 8.2 precedente.
+Para el solo efecto de presentar separadamente en el activo los saldos correspondientes a las inversiones financieras vendidas con pacto, distinguiéndolas de aquellas que están respaldadas por títulos que son de propiedad de la empresa y que no se encuentran comprometidos por pactos de esta naturaleza, los importes correspondientes a los títulos vendidos con pacto de retrocompra se informarán en la cuenta que corresponda de la partida 1740 "Inversiones financieras intermediadas". Las cuentas que forman parte de esta partida se detallan en el Anexo N° 2 de este Capítulo.
 
 ### 9. Registro de las compras con pacto de retrocompra
 
@@ -10451,8 +10425,6 @@ La institución prestamista dará de baja el instrumento cedido de su cartera de
 El derecho a la restitución o pago contra la institución financiera adquirente, se ajustará, con cargo o abono a los resultados, según corresponda, de la misma forma descrita en el numeral precedente para la obligación que en este caso aquella asume.
 
 No obstante lo anterior, cuando el documento cedido corresponda a uno de la "cartera permanente" y se haya pactado la restitución de un instrumento que se puede reingresar a esa cartera, el ajuste a valor de mercado, excluida la parte que corresponda a los reajustes e intereses que devengaría el instrumento cedido de no mediar la operación, podrá hacerse directamente contra una cuenta de patrimonio, tal como se hacía con el instrumento antes de su cesión.
-
-El ajuste a valor de mercado del derecho a la restitución o pago del documento entregado, debe efectuarse aun cuando éste corresponda a un instrumento que las normas de este Capítulo no obligan a ajustarlo a su valor de mercado debido a que su plazo remanente es igual o inferior a un año.
 
 Para reflejar los saldos por las operaciones de que se trata, se utilizará la cuenta de deudores por préstamos de valores de la partida 1690; de ajuste de ese activo de la partida 7910 ó 5900; y de comisiones ganadas de la partida 7530, mencionadas en el Anexo N° 2 de este Capítulo.
 
