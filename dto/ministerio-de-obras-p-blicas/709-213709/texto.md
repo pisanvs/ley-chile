@@ -1,0 +1,3 @@
+Por decreto MOP Nº 709 de 30 de junio de 2003, se expropió el lote de terreno Nº 4-5, superficie 1.768 m², rol de avalúo 704-31, comuna de Viña del Mar, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Troncal Sur. Variante Ribera Sur. Tramo 1. Lámina Especial 5: Km. 104.400,00 a Km. 105.040,00, V Región, se acordó el valor de la indemnización con su propietario Banco Santander-Chile, ascendente a la cantidad de $114.076.123.
+
+- Fiscal del Ministerio de Obras Públicas.
