@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.065 de fecha 29 de julio de 2004, se expropió el lote de terreno Nº 28, superficie 449 m², Rol Nº 306-27, comuna de Laja, VIII Región para la obra "Camino Ruta Q-90-O, Sector Cruce Longitudinal - Laja, Km. 0,00000 al Km. 35,53000" y se acordó el valor de indemnización con su propietario Ester Chavez Martínez, ascendente a la cantidad de $457.221.
+
+- Fiscal del Ministerio de Obras Públicas.
