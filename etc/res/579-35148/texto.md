@@ -1,0 +1,5 @@
+DESIGNA SECRETARIOS DE LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAICES QUE INDICA
+
+Por Resolución N° 579, de 7 de Diciembre de 1995, se ha designado a don Carlos Rodolfo Zúñiga Ulloa, Directivo grado 8°, RUT. N° 8.081.771-1, como Secretario titular y a doña Fabiola Margarita Mosso Fritz, fiscalizador grado 13°, RUT. N° 7.234.596-7, como Secretario suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Punta Arenas, designándose, además, a don Carlos Rodolfo Zúñiga Ulloa, como Secretario suplente del Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el Territorio de la Ilustrísima Corte de Apelaciones de Punta Arenas.-
+
+Javier Etcheberry Celhay, Director.
