@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES TOTALES PARA INMUEBLES QUE INDICA
+
+Por resolución Nº 2, de 16 de Febrero de 1999, Serviu XII Región Magallanes y Antártica Chilena dispuso expropiación total, conforme al decreto ley 1.523, de 1976, decreto supremo 140, de Vivienda y Urbanismo, de 1991 y decreto ley 2.186, de 1978, de inmueble ubicado en Punta Arenas, calle 21 de Mayo Nº 2715, antes denominado 21 de Mayo sin número, Rol Avalúo Nº 1393-5, de aparente dominio de don René Bernardo Menéndez Díaz, María de Lourdes, Eliana Beatriz, Ricardo Enrique y José Teodosio Menéndez Muñoz y de doña Clementina Muñoz González. Comisión Tasadora integrada por Sres. José Subiabre Aguilar, José Barría Bonacic y Sra. Jeannette Moris Torres, todos arquitectos, fijó monto provisional indemnización, según informe de fecha 26 de Junio de 1998, en $22.211.300.-, que será pagada al contado, con los reajustes legales.-
+
+Héctor Ramírez Figueroa, Director.
