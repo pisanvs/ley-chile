@@ -16894,7 +16894,9 @@ b) Instrumentos financieros en moneda de su país de origen, emitidos o garantiz
 
 a) Créditos contra otras instituciones financieras regidas por la Ley General de Bancos. Incluye préstamos interbancarios, operaciones con pacto de retroventa, inversiones en letras de crédito o en bonos, depósitos a plazo y cualquier otro crédito contra bancos o sociedades financieras constituidos en Chile o sucursales de bancos extranjeros que operen en el país.
 
-b) La ley también incluye en esta categoría las "cartas de crédito irrevocables y pagaderas a su sola presentación para operaciones de comercio exterior, pendientes de negociación, otorgadas por bancos extranjeros calificados en primera categoría de riesgo por empresas calificadoras internacionales que figuren en la nómina a que se refiere el artículo 78". De esta disposición se desprende que los bancos podrán incluir en esta categoría los créditos contingentes que correspondan a confirmaciones de cartas de crédito documentarías a la vista, emitidas por bancos extranjeros calificados en primera categoría de riesgo por una empresa calificadora internacional que figure en la nómina que se incluye en el Capítulo 1-12 de esta Recopilación.
+b) Depósitos a plazo constituidos en bancos del exterior, con vencimiento no superior a 180 días a contar de la fecha del cómputo, clasificados en una categoría de riesgo no inferior a A-, por una empresa clasificadora internacional que figure en la nómina que se incluye en el Capítulo 1-12 de esta Recopilación.
+
+c) La ley también incluye en esta categoría las "cartas de crédito irrevocables y pagaderas a su sola presentación para operaciones de comercio exterior, pendientes de negociación, otorgadas por bancos extranjeros calificados en primera categoría de riesgo por empresas calificadoras internacionales que figuren en la nómina a que se refiere el artículo 78". De esta disposición se desprende que los bancos podrán incluir en esta categoría los créditos contingentes que correspondan a confirmaciones de cartas de crédito documentarías a la vista, emitidas por bancos extranjeros calificados en primera categoría de riesgo por una empresa calificadora internacional que figure en la nómina que se incluye en el Capítulo 1-12 de esta Recopilación.
 
 2.4.- Categoría 4.
 
@@ -16904,7 +16906,7 @@ b) Contratos de leasing de vivienda, en los términos señalados en el Capítulo
 
 c) Créditos contingentes que, de acuerdo con las instrucciones de esta Superintendencia, deben incluirse en las partidas 1605, 1610, 1615, 1620, 1655 y 1660. Incluye, en consecuencia, las colocaciones contingentes que corresponden a: emisión de boletas de garantía, otorgamiento de avales y fianzas, emisión de cartas de crédito y confirmaciones de cartas de crédito. Las confirmaciones de cartas de crédito que cumplan las condiciones indicadas en la letra b) del numeral 2.3 precedente, se incluirán en categoría 3.
 
-d) Depósitos a plazo constituidos en bancos del exterior clasificados en una categoría de riesgo no inferior a A-, por una empresa clasificadora internacional que figure en la nómina que se incluye en el Capítulo 1-12 de esta Recopilación.
+d) Depósitos a plazo constituidos en bancos del exterior, con vencimiento a más de 180 días a contar de la fecha del cómputo, clasificados en una categoría de riesgo no inferior a A-, por una empresa clasificadora internacional que figure en la nómina que se incluye en el Capítulo 1-12 de esta Recopilación.
 
 2.5.- Categoría 5.
 
