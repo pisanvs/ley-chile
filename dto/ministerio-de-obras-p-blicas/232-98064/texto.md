@@ -1,0 +1,3 @@
+Por decreto M.O.P Nº 232, de 27 de febrero de 1998, se expropió el lote de terreno Nº 23, superficie 5.570 M2., rol de avalúo 1065-5, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, Las Acacias - Río Maipo, y se acordó precio de indemnización con el propietario intangibles Santa Cruz S.A. en Quiebra, ascendente a la cantidad de $181.802.696.-
+
+Fiscal del Ministerio de Obras Públicas.
