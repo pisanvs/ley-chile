@@ -1,0 +1,5 @@
+APRUEBA REGLAMENTO DE OTORGAMIENTO DE FIANZAS Y CAUCIONES SOLIDARIAS CORFO A EXPORTADORES
+
+En cumplimiento de lo dispuesto en el decreto del Ministerio de Economía Nº 291, de 11 de junio de 1999, publicado en el Diario Oficial de fecha 13 de agosto de 1999, certifico que por resolución Nº 99, de 4 de octubre de 1999, del Sr. Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción se puso en vigencia el Acuerdo Nº 2037, adoptado por el Consejo de la Corporación en la sesión Nº 309, efectuada el 20 de agosto de 1999. En virtud de la referida resolución, se aprobó el ''Reglamento de otorgamiento de fianzas y cauciones solidarias Corfo a Exportadores.''. El texto completo de la antes referida resolución estará a disposición de los usuarios en la Secretaría General de la Corporación y en las Direcciones Regionales.
+
+Santiago, 8 de octubre de 1999.- Yerko Koscina Peralta, Secretario General.
