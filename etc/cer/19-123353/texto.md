@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A SOCIEDAD MADERERA CONCON LTDA.
+
+Núm. 19.- Certifico que la Sociedad Maderera Concón Ltda., RUT Nº 79.960.760-3, cumple los requisitos establecidos en la resolución Nº 5.362 de 29.10.97 y que en consecuencia tiene la calidad de agente retenedor del impuesto al valor agregado por las compras de madera que ella efectúe, entendiendo por madera, al bosque en pie y a los productos que se obtengan de su corta, trozado, aserrío, astillado u otra forma de divisionamiento o presentación, cualquiera sea su denominación, incluyendo la leña y los subproductos que se obtengan de dichos procesos, durante el período comprendido entre el 1 del mes siguiente al de la publicación de este certificado en el Diario Oficial y el 31 de octubre de 1998.
+
+Valparaíso, 7 de agosto de 1998.- Rolando Gárate Egaña, Director Regional (S).
