@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.465, de 19 de noviembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº231-A, para la obra: Camino Acceso Norte a Concepción, Km.
+
+50.083,00 al 58.295,00, Octava Región, que figura a nombre de Marcia C. Palma Vd Cruz, rol de avalúo 614-24, comuna de Tomé, superficie 169 m². La Comisión de Peritos integrada por los señores Ramón Jofré Soto, Luis Soto Abarca y José Manuel Gálvez Alegría, fijó con fecha 15 de julio de 1996, el valor provisional de la indemnización en la cantidad de $213.660.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
