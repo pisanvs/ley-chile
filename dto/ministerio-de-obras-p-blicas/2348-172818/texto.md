@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.348, de 30 de mayo del 2000, se expropió el lote de terreno Nº2-A, superficie 1.198 m², rol de avalúo 168-213, comuna de Maule, para la obra Concesión Internacional Ruta 5, Tramo: Talca - Chillán, Séptima Región y se acordó el valor de indemnización con su propietario Taklin Enrique Fischer Sánchez, ascendente a la cantidad de $5.277.332.
+
+- Fiscal del Ministerio de Obras Públicas.
