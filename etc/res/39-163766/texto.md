@@ -1,0 +1,3 @@
+Por resolución Nº 39, de fecha 28 de marzo de 2000, de Serviu Región de Coquimbo, se ordenó expropiación, conforme art. 51 ley 16.391 y D.L. 2.186 de 1978, del inmueble denominado Lote 5 ubicado en localidad de Lagunillas de la comuna de Ovalle, presunto rol avalúo 553-42 comuna de Ovalle, de aparentemente dominio de don Camilo Olivares, de una superficie aproximada de 422 metros cuadrados. Comisión Peritos integrada por arquitectos doña Iris Marcich Moller, Alfredo Prieto Parra y Francisco Broquedis Marcich, según informe de 27 de marzo de 2000, fijó monto provisional indemnización en $126.600, pagadera al contado.-
+
+Director (S) Serviu Región Coquimbo.
