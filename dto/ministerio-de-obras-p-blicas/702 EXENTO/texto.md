@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 702 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 51, superficie 2.105,0 m2, rol de avalúo 63-95, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado, Rutas R-891, R-955 y RR-89, Sector Acceso Pedregoso - Liucura, Km. 141,00000 al Km. 158,54000, correspondiente al Tramo II Km. 149,22500 al Km. 154,27400" y se acordó el valor de indemnización con su propietario Flora Romero Currilem, ascendente a la cantidad de $388.766.-
+
+Fiscal del Ministerio de Obras Públicas.
