@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 98 de 01 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a Sector excluido y Sector expropiado predio "Fundo San José de Bellavista" de la comuna de Los Angeles, VIII Región, y derechos de aproyechamiento de aguas que corresponden a las parcelas N° 1 a la 7, sitios N° 1 al 8, del Proyecto de Parcelación "Miramar" formado por predio señalado. Los derechos de agua se extraen del canal Bío Bío Norte.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
