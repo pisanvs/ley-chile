@@ -1,0 +1,57 @@
+OTORGA AL RECTOR DELEGADO DE LA JUNTA DE GOBIERNO EN LA UNIVERSIDAD DE CHILE LAS ATRIBUCIONES QUE SEÑALA Decreto ley N° 111.- Santiago, 29 de Octubre de 1973.- Vistos:
+
+Lo dispuesto por los decretos leyes N° 1, de 11 de Septiembre de 1973, que constituye la Junta de Gobierno de la República de Chile, y N° 50, de 1° de Octubre de 1973, que nombra Rectores Delegados de la misma Junta en todas las Universidades del país, y teniendo presente la necesidad de dotar al Rector Delegado de la Universidad de Chile de recursos legales que le permitan adaptar sus estructuras y servicios a las nuevas condiciones de la realidad nacional y a los postulados de la Junta de Gobierno,
+
+ésta ha acordado y dicta el siguiente Decreto ley:
+
+#### Artículo 1°
+
+Las disposiciones de este decreto ley se considerarán de carácter especial respecto de toda otra norma jurídica aplicable a la Universidad de Chile y regirán hasta que se dicte una nueva legislación orgánica para esta corporación.
+
+#### Artículo 2°
+
+A contar desde la fecha de vigencia de este decreto ley el Rector Delegado de la Junta de Gobierno en la Universidad de Chile cumplirá las funciones y ejercerá las atribuciones que a continuación se indican respecto de todas las sedes, estructuras y organismos de la corporación:
+
+1.- Aquellas a que se refieren el decreto ley N° 50, de 1° de Octubre de 1973, y el decreto supremo N° 1.300 del Ministerio de Educación, de 3 de Octubre de 1973;
+
+2.- Todas las funciones y atribuciones que la legislación orgánica de la Universidad de Chile y demás leyes, reglamentos y decretos de cualquier naturaleza aplicables a ella, entregan a los Claustros Universitarios, a las autoridades colegiadas y unipersonales de la Corporación y a sus jefaturas de servicios;
+
+3.- Todas las atribuciones y funciones que las leyes, reglamentos y estatutos entregan al Directorio de la Corporación de Televisión de la Universidad de Chile, a su presidente y a su Director General, incluyendo la facultad de modificar los estatutos de esa Corporación;
+
+4.- Todas las atribuciones y funciones que la ley N° 17.336 y su reglamento entregan a la Comisión Permanente del Pequeño Derecho de Autor y al Director Ejecutivo del Departamento del Pequeño Derecho de Autor de la Universidad de Chile;
+
+5.- La facultad de resolver sobre todas las cuestiones relativas a la situación del personal de la Universidad de Chile y de su Corporación de Televisión, sobre sus derechos y deberes y la de ejercer sobre este personal amplia potestad disciplinaria; la atribución de declarar que determinados cargos y funciones son de su exclusiva confianza, la de suprimir o crear cargos de planta y de contrata; la de contratar y poner término en forma anticipada a contratos de trabajo, de prestación de servicios y de honorarios; la de suspender de sus funciones al personal con o sin goce total o parcial de remuneraciones por tiempo indefinido y la de trasladarlo a otras reparticiones universitarias en cualquier punto del país por razones de buen servicio. También podrá el Rector Delegado efectuar nombramientos sin sujeción a las reglamentaciones de concursos e imponer obligaciones horarias al personal profesional y de jornada completa que goza de reducciones horarias especiales, salvo cuando se trate de personal remunerado por horas servidas.
+
+6.- La facultad de nombrar a quien lo subrogue en el cargo de Rector; la de nombrar y la de poner término anticipadamente al periodo legal por el cual fue designado el Secretario General y la de establecer regímenes de subrogación entre las demás autoridades y funcionarios.
+
+7.- La facultad de ejercer sobre los estudiantes universitarios amplia potestad disciplinaria incluyendo las de aplicar sanciones de amonestación, suspensión, cancelación de matrícula y expulsión.
+
+8.- Las demás funciones y atribuciones que le encomienden las leyes.
+
+#### Artículo 3°
+
+Las atribuciones y funciones a que se refiere el artículo anterior serán delegables, aunque no lo hayan sido según las leyes y reglamentos hasta hoy vigentes, con excepción de las que correspondían al Claustro Pleno y de la atribución de nombrar sobrogante del propio Rector Delegado y del Secretario General. El Rector Delegado podrá autorizar expresamente a los delegatarios para que deleguen, a su vez, las atribuciones recibidas.
+
+#### Artículo 4°
+
+EL Rector Delegado podrá disponer a publicación en el Diario Oficial de cualquier reglamento o decreto que dicte en ejercicio de sus atribuciones, lo que se cumplirá sin costo para la Universidad.
+
+#### Artículo 5°
+
+Disuélvese a contar desde la fecha de vigencia de este decreto ley los Claustros Universitarios y demás cuerpos colegiados que contempla el Sistema de Gobierno de la Universidad de Chile; disuélvese, además, el Directorio de la Corporación de Televisión de la Universidad de Chile y la Comisión Permanente del Pequeño Derecho de Autor.
+
+Para todos los efectos legales se entenderá que el Rector que estaba en ejercicio al asumir sus funciones el Rector Delegado, ha terminado el período legal para el cual fue elegido.
+
+Los cargos de las autoridades unipersonales subsistirán mientras el Rector Delegado no decida suprimirlos, pero limitados en sus atribuciones y funciones a las que el mismo Rector Delegado les asigne en la forma dispuesta por el artículo 3°.
+
+#### Artículo 6°
+
+Será requisito para la validez y cumplimiento de los acuerdos y decisiones de las autoridades colegiadas y unipersonales de la universidad, adoptadas entre el día 11 de Septiembre de 1973 y la fecha de vigencia de este decreto ley, la aprobación expresa del Rector Delegado, sin la cual no producirán efecto alguno.
+
+#### Artículo 7°
+
+Facúltase al Rector Delegado para constituir una o más Comisiones que le asesoren en el estudio de las reformas que deban hacerse al Estatuto Legal de la Universidad con el objeto de fijar su estructura y sus regímenes definitivos de administración y gobierno.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Hugo Castro Jiménez, Contraalmirante, Ministro de Educación Pública.
+
+Saluda Atte. a Ud.- René del Villar L., Subsecretario de Educación.
