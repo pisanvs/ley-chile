@@ -1,0 +1,3 @@
+Por decreto exento MOP 173, de 30 de noviembre del 2000, se expropió el lote de terreno Nº48-C, superficie 946 m², rol de avalúo 1545-136, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli, By Pass Los Angeles, Octava Región y se acordó el valor de indemnización con su propietario Horst Gunther Thiemann Gebert, ascendente a la cantidad de $2.349.100.-
+
+Fiscal del Ministerio de Obras Públicas.
