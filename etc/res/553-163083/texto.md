@@ -1,0 +1,3 @@
+Por resolución Nº 553, de 9 de marzo de 2000, de esta Subsecretaría, prorrógase por un año, a contar del 2 de noviembre de 1999, el plazo otorgado a Sociedad Pesquera Clarencia Limitada, para operar una planta en el domicilio señalado precedentemente, en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 9 de marzo de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
