@@ -1,0 +1,3 @@
+Por resolución N° 1.134 de 26 de Noviembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don JORGE HORST HELMKE WIJNANT, R.U.T. N° 7.131.147-3, para ampliar actividades de cultivo autorizadas por Resolución N° 667, de 1990, de esta Subsecretaría, en orden a incorporar en el centro de cultivo autorizado por la Resolución individualizada precedentemente, ubicado en Canal Quihua, sector Huayén, Comuna de Calbuco, Provincia de Llanquihue, X Región, las especies Salmón plateado, salmón del Atlántico y trucha arcoiris.
+
+Valparaíso 26 de Noviembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
