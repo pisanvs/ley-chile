@@ -15690,7 +15690,7 @@ Las inversiones en notas estructuradas quedan sujetas a los límites de crédito
 
 4.5. Operaciones de factoraje.
 
-En las operaciones de factoraje no existirán deudores indirectos, debiendo considerarse deudores directos a los obligados al pago de los documentos que se cedan sin responsabilidad y a los cedentes en caso de cesiones con responsabilidad. Sin embargo, los obligados al pago de los documentos cedidos con responsabilidad del emisor, que tengan la calidad de relacionados con la institución adquirente quedarán afectos, como deudores indirectos, a los límites de crédito a que se refiere el N° 2 del artículo 84 de la Ley General de Bancos, en los términos señalados en el Capítulo 12-4 de esta Recopilación.
+En las operaciones de factoraje no existirán deudores indirectos, debiendo considerarse deudores directos a los obligados al pago de los documentos que se cedan sin responsabilidad y a los cedentes en caso de cesiones con responsabilidad. Sin embargo, para aplicar el límite global de crédito a deudores relacionados de que trata el N° 2 del artículo 84 de la Ley General de Bancos y el N° 3 del título III del Capítulo 12-4 de esta Recopilación, se computarán como deudas indirectas para ese solo efecto, las obligaciones de pago que tengan las personas relacionadas, por las facturas cedidas al banco con responsabilidad del emisor.
 
 ### 5. Deudas complementarias
 
@@ -16318,7 +16318,7 @@ Las instituciones financieras deberán entregar a este Organismo la información
 
 ### 1. Cómputo de los créditos
 
-Para computar los créditos otorgados a personas relacionadas con el objeto de determinar el grado de concentración crediticia y el cumplimiento de los límites de que trata el título III de este Capítulo, se considerarán todos los montos adeudados por las personas y sociedades clasificadas en la categoría de relacionadas de acuerdo a los criterios establecidos en el título I, que tengan la calidad de deudores directos según lo indicado en el N° 4 del título II del Capítulo 12-3 de esta Recopilación, como también aquellos que por operaciones de factoraje asuman el carácter de deudores Indirectos de esas operaciones, según lo expresado en el numeral 4.5 de dicho título II del Capítulo 12-3.
+Para computar los créditos otorgados a personas relacionadas con el objeto de determinar el grado de concentración crediticia y el cumplimiento de los límites de que trata el título III de este Capítulo, se considerarán todos los montos adeudados por las personas y sociedades clasificadas en la categoría de relacionadas de acuerdo a los criterios establecidos en el título I, que tengan la calidad de deudores directos según lo indicado en el N° 4 del título II del Capítulo 12-3 de esta Recopilación.
 
 La medición incluye, en consecuencia, los créditos otorgados por la institución financiera y por sus filiales y sucursales cuyas operaciones se consolidan para este efecto, que corresponden a:
 
@@ -16397,6 +16397,8 @@ margen individual del grupo.
 ### 3. Límite global de créditos a personas relacionadas
 
 Además del límite por grupo de personas vinculadas a que se refiere el número anterior, la Ley señala que el total de créditos otorgados a personas relacionadas a una institución financiera no puede exceder el monto de su patrimonio efectivo.
+
+Quedan afectos a este limite global tanto los créditos que se indican en el título II de este Capítulo, como las obligaciones de pago de los documentos que, en las operaciones de factoraje, hayan sido cedidos al banco con responsabilidad del cedente. Las deudas indirectas correspondientes a los obligados al pago de las facturas, se sumarán siempre que los cedentes no sean, a su vez, personas relacionadas con la institución financiera.
 
 ### 4. Sanción
 
