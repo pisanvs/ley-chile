@@ -1,0 +1,3 @@
+Por Resolución N° 1.153, de 20 de Junio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase parcialmente la Resolución N° 357, de 1989, de esta Subsecretaría que autorizó a PESQUERA COLOSO S.A., para desarrollar actividades pesqueras extractivas con la nave "Aventurero", sólo en lo que se refiere a la autorización para extraer Merluza común, Congrio colorado, Congrio dorado y Congrio negro, en el litoral comprendido entre la V y X Regiones, en virtud de lo señalado en el artículo 143, letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de Junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
