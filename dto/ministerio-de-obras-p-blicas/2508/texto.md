@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.508, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 4 y 6, superficies 1.548 m² y 6.856 m², rol de avalúo 1328-6, comuna de San Carlos, para la obra "Ruta 5 Tramo Talca - Chillán, sectores Accesos Estación Ninquihue Oriente y Poniente, calles de servicio Ninquihue y calle de servicio población Nueva Esperanza", Octava Región y se acordó el valor de indemnización con sus propietarios Sucesión Uribe Sepúlveda, ascendente a la cantidad de $22.272.096.-
+
+Fiscal del Ministerio de Obras Públicas.
