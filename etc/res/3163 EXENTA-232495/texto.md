@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.163, de 2 de noviembre de 2004, de esta Subsecretaría, autorízase a SOUTHPACIFIC KORP S.A., para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en avenida Pedro Aguirre Cerda Nº 989, Lo Rojas, Coronel, VIII Región, en las líneas de proceso de Harina y Aceite, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 2 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
