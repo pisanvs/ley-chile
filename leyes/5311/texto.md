@@ -70,13 +70,13 @@ Soldados, marineros segundos, grumetes
 
 y personal de grados inferiores, 4,000;
 
-Para los efectos de este artículo, ninguna pensión de retiro por servicios en la Guerra de 1879-84 podrá ser inferior a $ 2,400 anuales.
+Para los efectos de este artículo, ninguna pensión de retiro por servicios en la guerra de 1879-84 podrá ser inferior a 3,600 anuales para el personal de tropa, y a $ 9,000 anuales para los oficiales.
 
 Las pensiones de Mayor a General de División y de capitán de Corbeta a vicealmirante, después de dos años de vigencia de la presente ley, se pagarán de acuerdo con los sueldos fijados para los oficiales correspondientes en actividad.
 
 #### Artículo 2
 
-o - Al personal del Ejército, Armada, Guardia Nacional Movilizada, Servicio Sanitario y demás anexos, que acreditan haber concurrido a las Campañas del Pacífico, que se iniciaron el 1.o de febrero de 1879, y que terminaron el 1.o de septiembre de 1884, y que justifiquen tener en sus hojas del servicio una o más acciones de guerra, se le concederá el ascenso al grado inmediatamente superior, con todos los honores, rango y prerrogativas que acuerdan las leyes vigentes al personal en servicio activo, pero sin derecho a mayor sueldo.
+o - Al personal del Ejército, Armada, Guardia Nacional Movilizada, Servicio Sanitario y demás anexos, que acreditan haber concurrido a las Campañas del Pacífico, que se iniciaron el 1.o de febrero de 1879, y que terminaron el 1.o de septiembre de 1884, y que justifiquen tener en sus hojas del servicio una o más acciones de guerra, se le concederá el ascenso al grado inmediatamente superior, con todos los honores, rango y prerrogativas que acuerdan las leyes vigentes al personal en servicio activo, y sus pensiones de retiro se aumentarán en conformidad a las reglas establecidas en esta Ley.
 
 #### Artículo 3
 
