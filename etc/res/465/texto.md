@@ -1,0 +1,3 @@
+Por Resolución N° 465 del 1 de junio de 1993 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, de parte del inmueble ubicado en Avda. Departamental N° 073, presunto rol de avalúos N° 3-0009 comuna de La Florida, aparente dominio de Sucesión Gustavo Sanhueza Correa. Comisión integrada por peritos Sres. Mario Vergara Navarrete, arquitecto, Raúl Varela Hernández, ingeniero civil y Carlos del Pedregal Sánchez, constructor civil, según informe de 8 de febrero de 1993, fijó monto provisional indemnización en $ 49.482.160.- pagadera al contado.-
+
+Directora SERVIU Metropolitano.
