@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE
+
+Decreto exento Nº1.513, 23 diciembre 1998. Alcalde Municipalidad de San Fernando dispone expropiación parcial, conforme arts. 59 y 85 decreto 458 Ministerio Vivienda y Urbanismo y D.L. 2.186 de 1978, para ensanche Avda. Manuel Rodríguez, inmueble inscrito fojas 114 Nº190 del Registro Propiedad Conservador Bienes Raíces San Fernando año 1997, rol Nº 63-7, comuna San Fernando, dominio aparente Labsa S.A., superficie aproximada 1.044,29 metros cuadrados, deslindes: Norte, 83,45 mts. propietario; Sur, 83,45 mts. Avda. Manuel Rodríguez; Oriente 10 mts. Avda. Manuel Rodríguez; y, Poniente 10 mts. calle Negrete. Comisión tasadora integrada por don René Corvalán Correa, Oscar Novoa Vargas y Eduardo González Brard, según informe 28 abril 1998, fijó monto provisional indemnización en $32.646.593, más reajuste D.L. 2.186, pagadero contado.-
+
+Aquiles Cornejo Cornejo, Alcalde.- Jorge Morales Ibarra, Secretario Municipal.
