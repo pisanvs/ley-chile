@@ -1,0 +1,3 @@
+Por Resolución N° 919, de 16 de Noviembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 740, de 1989, de esta Subsecretaría que autorizó a don JAIME GUIDO SURBER WILLER, R.U.T. N° 6.268.195-0, para operar un centro de cultivo del recurso alga del género Gracilaria spp., en sector Chuyaquén, Río Maullín, Comuna de Maullín, X Región, por haberse caducado el decreto de concesión marítima.
+
+Valparaíso, 16 de Noviembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
