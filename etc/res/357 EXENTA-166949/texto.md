@@ -1,0 +1,7 @@
+Por resolución exenta No. 357 del 10 de Septiembre de 1987, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IV Región de Coquimbo, se autoriza a las personas individualizadas a continuación, para efectuar el servicio de taxi colectivo urbano que se indica: Víctor Manuel Arce Bruna, Reinaldo Arratia Silva, Luis Hernán Astudillo Santibáñez, Elsa Consuelo Cuello Suárez, Luis Fernández Araya, Abel de Tránsito López Guerra, Manuel Aramando Núñez Díaz, Juan Abelardo Paz Rojas, María Ernestina Vargas Borcoski, Gustavo Adolfo Vásquez López.
+
+LINEA No. 24 "VISTA HERMOSA - CENTRO"
+
+Circunvalación: Desde su terminal de calle Juan Francisco González con Carlos Munizaga, en Población San Joaquín de la Ciudad de La Serena, continúa por Juan Francisco González - Los Perales - Cisternas - Av. Cuatro Esquinas - Gabriel González Videla - Huanhualí - Balmaceda - Domeyco - Cienfuegos - Colón - Pedro Pablo Muñoz - Av. Francisco de Aguirre - Larraín Alcalde - Huanhualí - Gabriel González Videla - Los Perales - Larraín Alcalde - Julio Díaz Guerrero - Los Perales - Los Perales - Juan Francisco González hasta su terminal con Carlos Munizaga.
+
+Jorge Vargas Borcosky, Secretario Regional Ministerial de Transportes y Telecomunicaciones IV Región de Coquimbo.
