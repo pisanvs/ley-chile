@@ -1,0 +1,5 @@
+AUTORIZA A INDUSTRIA, PESQUERA POSEIDON S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO RESOLUCION QUE INDICA
+
+Por resolución No. 599, de 11 de Agosto de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Industria Pesquera Poseidón S.A., domiciliada en la ciudad de Viña del Mar, para operar las embarcaciones Chechita y Viña del Mar, en el litoral de las Regiones III a VIII, en labores extractivas de merluza, congrio, camarón nylon, langostino amarillo y langostino colorado. Asimismo se deja sin efecto la resolución No. 108, de 1984, de la Subsecretaría de Pesca, que autorizó a Pesquera Gran Delfín Azul Limitada para operar las embarcaciones Chechita y Vida del Mar.
+
+Valparaíso, 11 de Agosto de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
