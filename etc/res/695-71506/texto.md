@@ -1,0 +1,3 @@
+Por Resolución Nº 695, de 13 de mayo de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; declárase la caducidad parcial de la Resolución Nº 1.866, de 1989, de esta Subsecretaría, que autorizó a EXOSUR S.A., para operar la nave "Le Crabe Tambour", sólo en lo relativo a las especies Cojinoba del norte, Cojinoba del sur, Corvina, Anchoa, Jurel, Sardina española, y Sierra, en el litoral comprendido entre la V y la VII Regiones, por haberse configurado la causal prevista en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 13 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
