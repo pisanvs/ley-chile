@@ -1,0 +1,3 @@
+Por resolución Nº1.868, de 28 de agosto de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado La Herradura, IV Región, individualizada en el artículo 1º) Nº5 del DS Nº10 de 1998, modificado mediante DS Nº110 de 1999, ambos del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES RECOLECTORES INDEPENDIENTES DE ALGAS MARINAS LA HERRADURA.
+
+Valparaíso, 28 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
