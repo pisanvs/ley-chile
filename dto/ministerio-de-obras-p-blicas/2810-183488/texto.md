@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.810, de 30 de junio de 2000, se expropió el lote de terreno Nº 56, superficie 245 m², rol de avalúo 5472-20, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Hernán Wilson Montero Rubio, ascendente a la cantidad de $49.861.996.-
+
+Fiscal del Ministerio de Obras Públicas.
