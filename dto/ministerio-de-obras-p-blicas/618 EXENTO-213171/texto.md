@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 618 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº 27, superficie 1.901 m², rol de avalúo Nº 608-121, comuna de San Ignacio, para la obra "Proyecto Laja Diguillín, Canal Matriz Diguillín - Larqui Km. 6,416 al Km. 11,893", VIII Región, y se acordó el valor de indemnización con su propietario Víctor Manuel Cares Mendoza, ascendente a la cantidad de $1.346.905.-
+
+Fiscal del Ministerio de Obras Públicas.
