@@ -1,0 +1,3 @@
+Por decreto MOP. No. 341, de 31 de marzo de 1998, se expropiaron los lotes de terreno No.s. 76, 78, 78-A, 80, 81, 82, 87, 90, 95 y 96, superficies 119, 1.384, 630, 715, 1.045, 143, 226, 1.229, 4.139 y 674 m2., respectivamente, roles de avalúo 690-8, 164-2 y 163-3, comunas de Casablanca y El Tabo, para la obra Camino Malvilla - Orrego Abajo y se acordó precio de indemnización con su propietario Sociedad Agrícola y Comercial San Arturo Limitada, ascendente a la cantidad de $ 5.005.104.
+
+- Fiscal del Ministerio de Obras Públicas.
