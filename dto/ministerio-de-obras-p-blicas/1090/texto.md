@@ -1,0 +1,3 @@
+Por Decreto MOP Nº1.090, de fecha 30 de diciembre de 1996 se dejó sin efecto el Decreto MOP Nº616, de 26 de agosto de 1996, en lo que se refiere a los lotes Nºs 3 y 4, Ramal Nº1; lote Nº1, Ramal Nº2-A; lotes Nºs 4,4-A,5 y 6-A, Ramal Nº2-B; loteNº1, Ramal Nº3; lote Nº2, Ramal Nº4-B; lotes Nºs 1 y 2, Ramal Nº6; lote Nº1, Ramal Nº7; lote Nº1, Ramal Nº8 y lote Nº1, ramal Nº10, para la obra Proyecto Laja- Diguillín, Area de Riego Yungay, Canal San José,VII Región.-
+
+Fiscal del Ministerio de Obras Públicas
