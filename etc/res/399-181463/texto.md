@@ -1,0 +1,3 @@
+Por resolución Nº 399, de 8 de marzo de 2001, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 656, de 1989, de esta Subsecretaría, que autorizó a PESQUERA BIO BIO S.A., para realizar actividades con la nave ''Gardar'', sobre los recursos Anchoveta y Sardina española, en el área marítima de la IV Región, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 8 de marzo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
