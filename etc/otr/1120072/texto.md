@@ -1,0 +1,7 @@
+Cobro de créditos fiscales
+
+Santiago, Octubre 31 de 1821.
+
+Siendo mui notable que en los apuros i casi absoluta nulidad del Erario, tenga este un asombroso crédito activo, que acusa la inobservancia de las leyes en su recaudacion; i estando resuelto por estas, que el cargo de los empleados no es solo por lo cobrado, sino por lo dejado de cobrar en sus plazos i tiempos; para que están facultados por la jurisdiccion económica, i ausiliados con escribanos receptores i merinos cobradores, que llevan los sueldos de balde, sino se ocupan en este primer objeto de la administracion de Hacienda, el Tribunal de Cuentas ordenará que desde el próximo corte i tanteo acompañe cada oficina de las de dentro i fuera de la capital una relacion por menor de las deudas de plazo cumplido, o que se cumpla en aquel mes, haciendo entender a los jefes responsables de ellas, que si en el siguiente no acreditaren haber cumplido su deber en los cobros hasta embargar a los deudores i pasar los espedientes a las intendencias, se les suspenderán por ese mismo hecho sus sueldos i procederá en adelante conforme a derecho contra ellos i sus fiadores, sin que por esto se libren los deudores.
+
+Tómese razon, archívese e imprímase.-O'Higgins.-Vial.
