@@ -1,0 +1,5 @@
+Por decreto MOP Nº588, de 17 de junio de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº1, para la obra:
+
+"Ruta Interportuaria Talcahuano - Penco, por Isla Rocuant, de Km. 0.000,00 a Km. 11.159,10", Octava Región, que figura a nombre de Forestal Celco S.A. rol de avalúo 1290-7, comuna de Penco, superficie 121.023 m2. La comisión de peritos integrada por los señores Karin Alicia Ernst Elizalde, Christian Cornelio Scherpenisse Infante y Paula Soledad González Ortega, fijó con fecha 17 de marzo de 2003, el valor provisional de la indemnización en la cantidad de $1.374.176.334.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
