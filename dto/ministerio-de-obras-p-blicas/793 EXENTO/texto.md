@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 793, de 22 de agosto de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco el lote de terreno Nº 2 para la obra: Construcción Puente Tacamo, que figura a nombre de Mardones Arriagada Dulia, Rol de Avalúo 2241-96, comuna de Osorno, X Región, superficie 348,54 m². La Comisión de Peritos fijó con fecha 12 de diciembre de 2000 el monto de la indemnización provisional en la cantidad de $782.135 para el lote Nº 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
