@@ -1,0 +1,5 @@
+Por resolución Nº 1.503, de 5 de agosto de 1999, de esta Subsecretaría, autorízase a ANTONIO NICOLAS CANALES DUBRACICH para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 29, de 1982 y Nº 103, de 1985, ambas de esta Subsecretaría, en la forma y bajo las condiciones que a continuación se expresan.
+
+El peticionario podrá incorporar a la planta ubicada en Eberhard Nº 63, Puerto Natales, XII Región, en las líneas de elaboración que a continuación se indican los siguientes recursos hidrobiológicos: Seco-Salado: Cochayuyo, Chasca, Chicorea de mar, Huiro, Luche, Luga Luga, Pelillo. Fresco-Enfriado, Congelado: Bacalao de profundidad, Cojinoba del sur, Chancharro, Jurel, Lisa, Salmón del Atlántico, Salmón plateado, Trucha arcoiris o Cabeza de acero, Caracol locate, Caracol piquilhue, Caracol trophon, Caracol trumulco, Caracol palo palo, Culengue.
+
+Valparaíso, 5 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
