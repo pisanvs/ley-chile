@@ -20870,13 +20870,15 @@ Podrán otorgarse beneficios a los titulares de tarjetas de crédito o de débit
 
 Este tipo de beneficios puede corresponder a bienes o prestaciones de servicios y descuentos en adquisiciones en el comercio o en operaciones activas o pasivas con la institución financiera, con la limitación de que ésta no puede entregar directamente los bienes corporales en que consistan los beneficios.
 
+Al tratarse de tarjetas de crédito, los beneficios indicados en este número también pueden otorgarse mediante sorteos.
+
 3.- Condiciones generales.
 
 La posibilidad de otorgar los beneficios de que tratan los números precedentes, queda sujeta al cumplimiento de las siguientes condiciones generales:
 
 a) Los beneficios no podrán consistir en la entrega de dinero en cualquier forma.
 
-b) En ningún caso se podrán asignar los beneficios mediante sorteos u otros procedimientos selectivos basados en el azar.
+b) Para tarjetas distintas a las de crédito, no se podrán asignar los beneficios mediante sorteos u otros procedimientos selectivos basados en el azar.
 
 c) La institución financiera no podrá participar en la entrega de bienes o servicios ajenos a su giro. Esto se refiere tanto a la administración de su entrega como a la responsabilidad que se asume en el proceso.
 
