@@ -1,0 +1,1 @@
+Libera de todo derecho, impuesto o contribución la internación del material que indica, destinado a los radio-clubes del país.
