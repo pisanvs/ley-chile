@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.472 de fecha 31 de julio del 2000, se expropió el lote de terreno Nº 44-C, superficie 1.200,00 m², rol de avalúo en trámite, comuna de Constitución, para la obra ''Camino M-24-K Quivolgo - Puente Lautaro Sector C: Putú - Quivolgo Km. 30,000.00 a Km. 49,815.494'' y se acordó el valor de indemnización con su propietaria Silvia del Carmen Gutiérrez Muñoz, ascendente a la cantidad de $827.200.
+
+Fiscal del Ministerio de Obras Públicas.
