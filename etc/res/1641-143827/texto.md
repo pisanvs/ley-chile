@@ -1,0 +1,3 @@
+Por resolución Nº 1.641, de 31 de agosto de 1999, de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL E INDUSTRIAL AGRICOLA Y PESQUERA LIMITADA "AGROPESCA LTDA.", para continuar desarrollando las actividades pesqueras de transformación autorizadas a Sociedad Comercial e Industrial Cubillos y Hurtado Limitada o "Yacurimar Ltda.", mismo RUT y domicilio, con el mérito de la escritura pública señalada y en virtud de las disposiciones legales.
+
+Valparaíso, 31 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
