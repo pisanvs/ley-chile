@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.114, de fecha 28 de junio del 2002, se expropió el lote de terreno Nº87, superficie 81 m2., rol Nº126-61, comuna de Ranquil, VIII Región, para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea- Ñipas, Tramo 2 Km. 5,57900 al 10,194800'' y se acordó el valor de indemnización con su propietario Flor Salgado Muñoz, ascendente a la cantidad de $5.152.170.-
+
+Fiscal del Ministerio de Obras Públicas.
