@@ -3024,6 +3024,8 @@ f) La opción del ahorrante de modificar el contrato de ahorro.
 
 g) Facultad del ahorrante de traspasar a otra institución financiera el saldo total de ahorro acumulado, conforme a las disposiciones contenidas en el presente Capítulo.
 
+h) En caso de que el titular de la cuenta contrate un seguro de vida asociado a la cuenta de ahorro según lo previsto en el N° 4 del Capítulo III.E.3 del Compendio de Normas Financieras del Banco Central de Chile, deberá dejarse constancia del nombré del beneficiario del seguro y estipularse la facultad del banco para cerrar la cuenta en caso de fallecimiento del titular, manteniendo los fondos acumulados a título de herencia del causante, y para detraer de los fondos de la cuenta de ahorro los importes correspondientes a las primas del seguro para enterarlas en las oportunidades contratadas con la respectiva compañía aséguradora.
+
 De la modificación de cualquiera de esas cláusulas especiales que en cada caso se acuerden, deberá dejarse expresa constancia tanto en la hoja original del contrato, como en el ejemplar que se entrega al ahorrante, debiendo cuidarse de anotar en forma detallada la cláusula modificada y la fecha en que se perfeccionó el cambio.
 
 Para postular al subsidio, el plazo de antigüedad o de permanencia de los ahorros no podrá ser inferior a 18 meses calendario completos, los que se contarán a partir del día 1° del mes siguiente al de la fecha en que se pacten las condiciones antes mencionadas o en que se realice el primer depósito en la cuenta, si esta última fuere posterior. Los plazos que se pacten por períodos superiores a ese mínimo deberán ser lo, en todo caso, siempre en un número total de meses que sea múltiplo de seis, a fin de poder determinar períodos semestrales completos.
@@ -3089,6 +3091,8 @@ La aplicación de los fondos en los casos señalados en este numeral, originará
 7.2.- Cómputo de giros para establecer el derecho a reajustes.
 
 Para los efectos de determinar el derecho a reajuste, no se computarán como giro los desembolsos parciales que se realicen conforme a lo establecido en el numeral 12.1 de este título.
+
+Tampoco se computarán como giros para aquel efecto, los cargos efectuados en la cuenta; para el pago de la prima del seguro de vida contratado por el titular, asociado a la respectiva cuenta de ahorro, de acuerdo con lo señalado en la letra h) del numeral 2.3 de este título.
 
 La cuenta de la misma especie abierta en otra institución debe tratarse como cualquier cuenta nueva para estos efectos, incluso en lo que concierne a la fecha en que deben abonarse los intereses y reajustes. No corresponde que una institución financiera considere como un giro el traspaso de la cuenta a otra institución, ni que ésta última compute los giros efectuados en la cuenta de la primera.
 
