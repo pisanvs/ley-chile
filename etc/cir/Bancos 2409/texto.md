@@ -28460,6 +28460,26 @@ Los hechos o antecedentes de que se trata, deberán ser también comunicados a l
 
 Las instituciones financieras deberán enviar a este Organismo dos ejemplares o copias fotostáticas de la publicación que hubieren hecho de las informaciones esenciales a que se refieren estas normas. El plazo para cumplir dicho envío será de dos días hábiles bancarios, contados desde la fecha de la respectiva publicación. Por su parte, tal como se indica en el N° 3 precedente, cualquier decisión o acuerdo del directorio que otorgue el carácter de reservado a ciertos hechos o antecedentes, debe ser comunicado por escrito a este Organismo a más tardar al día hábil siguiente de su adopción.
 
+CAPITULO 18-12 (Bancos y Financieras)
+
+MATERIA:
+
+INFORMACION A CLIENTES SOBRE COBRANZA EN EMPRESAS EXTERNAS.
+
+### 1. Información al cliente
+
+Las instituciones financieras que entreguen la cobranza de créditos morosos a empresas externas y traspasen a sus clientes la obligación de pagar los honorarios de estas últimas, deberán informar de la existencia y el monto de dichos honorarios a los solicitantes de créditos, en forma anticipada a la aprobación de los mismos.
+
+Con tal objeto, junto con la solicitud de crédito se deberá entregar al cliente un volante conteniendo la tabla de honorarios que se aplicará, el período de vigencia de ellos y la indicación del número de días hábiles en que el préstamo o la cuota permanecerá impago en la institución antes de ser enviado a cobranza externa. De igual forma, deberá comunicarse a los clientes cuando la tabla de honorarios sufra modificaciones. Además, la solicitud de crédito deberá contener una cláusula en la que el demandante del crédito declare haber recibido información detallada de los costos de cobranza que le afectarán en caso de atrasarse en el pago de sus obligaciones.
+
+Asimismo, en los locales en que se atienda a solicitantes de créditos de consumo, como también en aquellos habilitados para recibir pagos, incluidas las cajas auxiliares, se colocará un aviso destacado, indicándole al cliente que el pago con retraso puede acarrearle recargos por gestiones de cobranza realizadas por una empresa externa.
+
+Por último, en la chequera de pago, cuando ése sea el sistema utilizado, deberá incluirse una leyenda destacada recordando que los pagos con retraso generarán un recargo por concepto de gastos de cobranza.
+
+### 2. Disposición transitoria
+
+Mientras agoten sus actuales existencias de formularios de solicitud de crédito, las instituciones podrán incluir la cláusula antes indicada en una copia de la tabla de honorarios por tales cobranzas, la que deberá ser firmada por el cliente y agregada a la solicitud de crédito. En todo caso, cuando se produzcan reclamaciones relacionadas con el cobro de honorarios por cobranza de créditos, corresponderá a la entidad financiera probar que, de acuerdo con estas instrucciones, informó de manera completa y oportuna al cliente sobre el particular.
+
 CAPITULO 19-1 (Bancos y Financieras)
 
 MATERIA.
