@@ -1,0 +1,11 @@
+ELIMINA OFICINA DE FISCALIZACION DE COMERCIO EXTERIOR DE LA DIRECCION NACIONAL; CREA OFICINA DE FISCALIZACION DE COMERCIO EXTERIOR EN LAS CUATRO DIRECCIONES REGIONALES DE LA REGION METROPOLITANA Y TRASPASA OBLIGACIONES Y ATRIBUCIONES A FUNCIONARIOS QUE SEÑALA
+
+Por resolución Ex. Nº 19 de 7 de mayo de 2001, el Servicio de Impuestos Internos ha dispuesto eliminar a contar del 06.05.2001, la Oficina de Fiscalización de Comercio Exterior dependiente de la Subdirección de Fiscalización de la Dirección Nacional y, crear a contar del 07.05.2001, en las Direcciones Regionales Metropolitanas Santiago Centro, Santiago Poniente, Santiago Oriente y Santiago Sur, la Oficina de Fiscalización de Comercio Exterior, que tendrá a su cargo la fiscalización de las solicitudes de devolución del Impuesto a las Ventas y Servicios "IVA", que presenten al Servicio o al Servicio de Tesorerías, según proceda, los contribuyentes exportadores, con domicilio en la Región Metropolitana.
+
+Estas oficinas de Fiscalización de Comercio Exterior, se ubicarán inicialmente en la sede de la Dirección Regional Metropolitana Santiago Oriente; sin embargo, para todos los efectos de normas y procedimientos que establece el DL Nº 830, de 1974, sobre Código Tributario, como de la aplicación del DL Nº 825, de 1974 y su reglamento y otras normas legales de orden tributario, las personas que presenten solicitudes de devolución de IVA-Exportadores, mantendrán su condición de contribuyentes de la Dirección Regional Metropolitana correspondiente a su domicilio.
+
+Establece que las atribuciones y obligaciones que fija la resolución, inherentes a la fiscalización de solicitudes de devolución de IVA -Exportadores, estarán radicadas en el Jefe de la Oficina de Fiscalización de Comercio Exterior de la Dirección Regional correspondiente al domicilio del contribuyente y establece además, la dependencia de este funcionario.
+
+El texto íntegro de esta resolución se encuentra incluido en la página web del Servicio en Internet, cuya dirección es http://www.sii.cl y además, se publicará en la edición del Boletín del Servicio del mes de mayo de 2001.
+
+Javier Etcheberry Celhay, Director.
