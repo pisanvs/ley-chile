@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.884, de 30 de septiembre de 1999, se expropió el lote de terreno Nº56, superficie 6.876 m2., rol de avalúo 293-36, comuna de Frutillar, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno-Puerto Montt. Sector: Casma-Frutillar, Décima Región, y se acordó el valor de indemnización con su propietario Nolberto Gárnica Villarroel, ascendente a la cantidad de $3.415.346.-
+
+Fiscal del Ministerio de Obras Públicas.
