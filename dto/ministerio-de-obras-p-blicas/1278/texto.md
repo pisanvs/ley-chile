@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.278, de 24 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropió el lote de terreno No. 142, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Sector Km. 21.900,00 al Km.
+
+26.200,00, que figura a nombre de Morgado Medina Ramón Luis, Rol de Avalúo No. 150-174, comuna de Lampa, superficie 4.554 m2 . La Comisión de Peritos integrada por Luz Araya Elizalde, René Armando Cruz Momberg y Leonardo Enrique Bastías Tessada, fijo con fecha 11 de diciembre de 1997, el valor provisional de la indemnización es la cantidad de $ 22.236.416.- para el lote No. 142. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
