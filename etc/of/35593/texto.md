@@ -152,9 +152,9 @@ IX.- De los recursos que proceden en contra de la resolución que aplique una sa
 
 Conforme con el artículo 9° de la ley N° 18.175 -Orgánica Constitucional de Bases Generales de la Administración del Estado-se podrá interponer siempre el recurso de reposición ante el mismo órgano del que hubiere emanado el acto respectivo.
 
-Con todo, la antedicha facultad de recurrir por la vía de la reposición, podrá ser ejercida en tanto no se encuentre afinada la aplicación de la correspondiente sanción, y en la medida en que no se haya interpuesto, en su caso, la apelación a que se refiere el número siguiente.
+La antedicha facultad de recurrir por la vía de la reposición podrá ser ejercida dentro del plazo de cinco días hábiles contado desde la notificación de la resolución que afina la investigación sumaria, y en la medida en que no se haya interpuesto, en su caso, la apelación a que se refiere el número siguiente.
 
-En consecuencia, las sanciones que la Contraloría General aplique a los funcionarios que infrinjan las disposiciones del decreto ley N° 799, de 1974, pueden ser revisadas por este Organismo, con el mérito de los nuevos antecedentes que los interesados hicieran valer en solicitud elevada antes de la ejecución de tales sanciones. En cambio, una vez que se hubiere cumplido la correspondiente medida disciplinaria, será rechazado de plano el recurso que se interponga.
+En consecuencia, las sanciones que la Contraloría General aplique a los funcionarios que infrinjan las disposiciones del decreto ley Nº 799, de 1974, pueden ser revisadas por este Organismo, con el mérito de los nuevos antecedentes que los interesados hicieren valer en solicitud elevada dentro del plazo establecido. En cambio, transcurrido dicho término, será rechazado de plano el recurso que se interponga.
 
 2.- Recurso de Apelación.
 
