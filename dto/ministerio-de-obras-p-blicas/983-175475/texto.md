@@ -1,0 +1,3 @@
+Por decreto MOP Nº983, de 30 de marzo de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº2, superficie 586 m2., Rol de avalúo 35-99, comuna de Romeral, Séptima Región, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector L: Km. 179.500,00 al Km. 192.900,00. Posteriormente, por decreto MOP Nº3.446, de 31 de julio de 2000, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con su propietaria Ilustre Municipalidad de Romeral, ascendente a la cantidad de $10.340.710.
+
+- Fiscal del Ministerio de Obras Públicas.
