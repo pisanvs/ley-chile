@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 95, de fecha 31 de marzo de 1994, se expropiaron los lotes de terreno N°s. 1, 2, 3 y 4, superficies 245 M2., 447 M2, y 834 M2., rol de avalúo 123-17, Comuna de Pencahue, para las obras Canales del Tranque, Las Doscientas Norte Derivado 1 y Canal Las Doscientas Planta, y se acordó valor de indemnización con su propietario, don Norberto Núñez Arredondo en la cantidad de $94.571.-
+
+Fiscal del Ministerio de Obras Públicas.
