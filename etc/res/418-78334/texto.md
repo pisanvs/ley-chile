@@ -1,0 +1,3 @@
+Por resolución exenta No. 418 de 11 de junio de 1992 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó a la sociedad chilena Transportes Cruz del Sur Limitada para efectuar transporte internacional terrestre de pasajeros entre Puerto Montt - Osorno (Chile) y San Carlos de Bariloche (Argentina), por Paso Puyehue efectuando una frecuencia semanal de ida y vuelta.-
+
+Sergio González Tagle, Subsecretario de Transportes.
