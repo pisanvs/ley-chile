@@ -1,0 +1,3 @@
+Por resolución Nº 1.684, de 1 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96101147, presentada por RICARDO ALBERTO RUIZ GUERRERO, para operar un centro de cultivo ubicado en sector Punta Nalca, Isla Tenglo, comuna de Puerto Montt, provincia de Llanquihue, X Región.
+
+Valparaíso, 1 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
