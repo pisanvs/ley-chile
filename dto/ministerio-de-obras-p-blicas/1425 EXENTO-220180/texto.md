@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.425, de 28 de noviembre de 2003, se expropió el lote de terreno Nº 121-1, superficie 11.254 m2., rol de avalúo 601-26, comuna de Mulchén, para Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli. Sector: Km. 547.420,00 al Km. 548.180,00, VIII Región y se acordó el valor de indemnización Martínez Arenas Joaquín, ascendente a la cantidad de $9.919.350.
+
+Fiscal del Ministerio de Obras Públicas.
