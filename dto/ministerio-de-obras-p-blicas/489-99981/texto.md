@@ -1,0 +1,5 @@
+Por decreto M.O.P. No. 489, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del decreto M.O.P. No. 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley No. 15.840, se expropió el lote de terreno No. 1, para la obra Camino San Javier Constitución, sector Pte. Tabón Tinaja, que figuran a nombre de Sociedad Inmobiliaria La Huerta Ltda., rol de avalúo 225-16, comuna de San Javier, VII Región, superficie 3.274 m2. La Comisión de peritos compuesta por los señores Hugo Villarroel Urbina, Sergio Lay Gómez y Guillermo Picón Vicioso, fijó con fecha 22 de enero de 1997, el valor provisional de la indemnización en la cantidad de $ 163.700. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley No. 2.186, de 1978.
+
+-Fiscal del Ministerio de Obras Públicas.
+
+(1°)
