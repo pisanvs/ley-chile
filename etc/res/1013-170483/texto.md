@@ -1,0 +1,3 @@
+Por resolución Nº 1.013, de 5 de junio de 2000 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura presentada por SALMONES CHILOE S.A., solicitud Nº 97110227, para instalar y operar el centro de cultivo ubicado en Isla Melchor, Estero Este, Caleta 1, comuna y provincia de Aysén, XI Región, conforme lo dispuesto en el artículo 10, letra c) del D.S. Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
