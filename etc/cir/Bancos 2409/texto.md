@@ -1428,9 +1428,9 @@ d) Los intereses y reajustes que se paguen por las captaciones realizadas median
 
 De acuerdo a lo señalado en el N° 2 del Capítulo III.B.1 del Compendio de Normas Financieras, quedan sujetos a plazos mínimos de 30 y 90 días, iguales a los mencionados en el N° 1 precedente, las adquisiciones de efectos de comercio que las instituciones financieras hagan a personas diferentes a bancos o sociedades financieras, en relación con la fecha del endoso o cesión.
 
-Dicha disposición es complementaria de las instrucciones contenidas en el N° 1 precedente, relativas al pago de intereses y reajustes. Por consiguiente, debe entenderse que esa limitación alcanza a todos los títulos de crédito pagaderos a plazo que hayan sido emitidos o cedidos por la misma institución o por otro banco o sociedad financiera, incluidos los valores mobiliarios.
+Dicha disposición se aplica tanto a las compras definitivas como a las compras con pacto de que trata el título III de este Capítulo y es complementaria de las instrucciones contenidas en el N° 1 precedente, relativas al pago de intereses y reajustes. Por consiguiente, debe entenderse que esa limitación alcanza a todos los títulos de crédito pagaderos a plazo que hayan sido emitidos o cedidos por la misma institución o por otro banco o sociedad financiera, incluidos los valores mobiliarios.
 
-En todo caso, en concordancia con la excepción indicada en la letra c) del N° 1 anterior, aquellos plazos mínimos de 30 y 90 días para adquirir títulos de crédito no son aplicables cuando la adquisición corresponda a la recompra de aquellos documentos vendidos con pacto de retrocompra que se señalan en el N° 3 del título III de este Capítulo, ya que en ese caso, como se mencionó anteriormente, el plazo mínimo es de cuatro días hábiles bancarios, tanto para instrumentos reajustables como no reajustables.
+En todo caso, en concordancia con la excepción indicada en la letra d) del N° 1 anterior, aquellos plazos mínimos de 30 y 90 días para adquirir títulos de crédito no son aplicables cuando la adquisición corresponda a la recompra de aquellos documentos vendidos con pacto de retrocompra que se señalan en el N° 3 del título III de este Capítulo, ya que en ese caso, como se mencionó anteriormente, el plazo mínimo es de cuatro días hábiles bancarios, tanto para instrumentos reajustables como no reajustables.
 
 Por otra parte, se entiende que los plazos deben contarse desde la fecha en que el documento fue emitido o transferido por una institución financiera a un tercero, diferente de un banco o sociedad financiera. Para estos efectos, el Banco Central de Chile dispone que las instituciones financieras que cedan o transfieran un documento de su cartera al público deberán endosarlo y estampar la fecha del endoso correspondiente a la contabilización de la operación. Este procedimiento, que por su naturaleza puede alcanzar solamente a los documentos extendidos a la orden, deberá seguirse aunque el endoso previo haya sido en blanco.
 
@@ -1560,9 +1560,21 @@ Tanto el precio de compra como el de recompra deberá ser pagado íntegramente d
 
 2.4. Plazos de las operaciones.
 
-La obligación de recomprar y revender que asumen las partes, deberá pactarse a una fecha determinada, anterior o igual a la del vencimiento del documento transferido y observando los plazos mínimos que se señalan en el título II de este Capítulo y en el N° 3 del presente título, según corresponda.
+La obligación de recomprar y revender que asumen las partes, deberá pactarse a una fecha determinada, anterior o igual a la del vencimiento del documento transferido, debiendo considerarse los siguientes plazos mínimos conforme a lo establecido en el Capítulo I1I.B.1 del Compendio de Normas Financieras del Banco Central de Chile:
 
-Por otra parte, en virtud de lo establecido por el Banco Central de Chile en el Capítulo III.B.1 de su Compendio de Normas Financieras, los bancos y sociedades financieras no pueden efectuar ventas con pacto de retrocompra de valores y efectos de comercio de su cartera, por plazos inferiores a 30 días para instrumentos no reajustables y menores a 90 días, cuando se trate de documentos reajustables, salvo las ventas que correspondan a alguno de los instrumentos que se indican en el N° 3 de este título, las cuales podrán efectuarse por los plazo mínimos que se señalan en ese mismo número.
+a) Operaciones entre instituciones financieras.
+
+Las operaciones entre instituciones financieras podrán realizarse desde un día hábil bancario cuando se transfieran con pacto los instrumentos mencionados en el N° 3 de este título.
+
+Para los demás valores o efectos de comercio que se transfieran, el plazo para la retrocompra no podrá ser inferior a 30 días corridos cuando se vendan documentos no reajustables, ni menor a 90 días cuando se trate de instrumentos reajustables.
+
+b) Operaciones con el público.
+
+La venta con pacto al público de los instrumentos mencionados en el N° 3 de este título, debe contratarse con un plazo no inferior a cuatro días hábiles bancarios.
+
+Para la venta con pacto de retrocompra de otros valores, el plazo no podrá ser inferior a 30 días corridos cuando el pacto no incluya una cláusula de reajustabilidad, ni menor a 90 días cuando el pacto la incluya, en concordancia con 10 señalado en el N° 1 del título II de este Capítulo. En todo caso, para la inclusión de las cláusulas de reajustabilidad deberá observarse lo dispuesto en el segundo párrafo del numeral 2.5 siguiente.
+
+Las compras con pacto al público pueden efectuarse desde un día hábil bancario.
 
 2.5. Intereses y reajustes.
 
