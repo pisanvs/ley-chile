@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.951 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 86, superficie 1.734 m²., rol de avalúo 462-106, comuna de San Fernando, para la obra ''Concesión Internacional Ruta 5 Tramo Santiago - Talca Sector H: Km. 128.400,00 a Km. 140.850,00'' y se acordó el valor de indemnización con su propietario Manuel Ignacio Gaete Arévalo, ascendente a la cantidad de $4.026.088.-
+
+Fiscal del Ministerio de Obras Públicas.
