@@ -1,0 +1,1 @@
+Autoriza invertir los fondos necesarios en la extirpación del "bruco" del frejol y de las demás plagas que afecten a los cultivos de frejoles, lentejas, etc. y establece el impuesto de $ 0.02 por kilo a las exportaciones de las leguminosas que indica.
