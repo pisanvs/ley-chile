@@ -1,0 +1,3 @@
+SERVIU V Región Por Resolución No. 0199 de 08.09.92, del SERVIU V. Región Valparaíso, se dispuso expropiación conforme artículo 87 ley 8.946 y Decreto Ley 2.186, de 1978, de parte inmueble dominio I. Municipalidad de Viña del Mar, ubicado en Viña del Mar, avenida Jorge Montt, rol avalúo 241-001, inscrito mayor extensión fojas 1845 vta. No. 2027 Registro Propiedad 1962 Conservador Bienes Raíces Valparaíso. Comisión Tasadora integrada por señores Osvaldo Muñoz Quintana. Arquitecto; Alvaro Verdejo Vidal y Pablo Caria Giurici, constructores civiles, según informe fecha 24.08.92, fijó monto provisional indemnización en $ 13.785.000.-, que se pagará de contado.-
+
+Manuel Hernández Abarca, Arquitecto. Director SERVIU V. Región.
