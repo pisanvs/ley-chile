@@ -1352,6 +1352,12 @@ La información a que se refieren la letras a),
 
 - **i)** deberá entregarse con anterioridad a la puesta en circulación de los instrumentos representativos de las acciones emitidas.
 
+### 3. Tratamiento contable de los gastos de la colocación de títulos
+
+Los gastos directos en que incurran las instituciones bancarias que coloquen acciones en el extranjero mediante títulos representativos, podrán ser imputados a los resultados del ejercicio, o bien, ser deducidos de las reservas correspondientes al sobreprecio obtenido en la colocación de las acciones o del respectivo aumento del capital pagado, según el caso.
+
+El tratamiento contable que el banco decida seguir en esta materia deberá ser informado previamente a esta Superintendencia.
+
 CAPITULO 2-1 (Bancos y Financieras)
 
 MATERIA:
