@@ -1,0 +1,7 @@
+AUTORIZA A PESQUERA E INDUSTRIAS MARINAS LIMITADA "INDUMAR LTDA." PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 72, de 18 de Enero de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, fomento y Reconstrucción, se autoriza a Pesquera e Industrias Marinas Limitada "Indumar Ltda.", R.U.T. N° 81.313.100-5, domiciliada en la ciudad de Talcahuano, para ampliar actividades pesqueras, autorizadas por resolución N° 408, de 1981, de esta Subsecretaría, en orden a operar la embarcación "Mar Austral", en el litoral de las Regiones V a X, donde podrá extraer los siguientes recursos hidrobiológicos: Merluza de cola, Merluza de tres aletas, Congrio negro, Merluza común y Raya. Asimismo, se autoriza a la peticionaria para operar la embarcación que por esta Resolución se autoriza, en el litoral de las Regiones V a VII y IX a X, donde podrá extraer los siguientes recursos: Agujilla, Anchoa, Bonito, Caballa, Cochinilla, Cojinoba del Norte, Cojinoba del Sur, Corvina, Jurel, Machuelo o tritre Sardina española y Sardina común.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 18 de Enero de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
