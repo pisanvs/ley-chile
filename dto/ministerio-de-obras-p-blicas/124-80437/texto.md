@@ -1,0 +1,3 @@
+Por Decreto del Ministerio de Obras Públicas No. 124, de 12 de junio de 1991, se dejó sin efecto el Decreto de dicho Ministerio No. 100, de 9 de mayo pasado, que autorizó la expropiación de los lotes N°s. 31, 32, 33, 34, 35 y 36, necesarios para la obra Colectores Interceptores de Aguas Servidas para el Zanjón de la Aguada, Proyecto Primera Etapa - Descarga Solución 2.-
+
+Fiscal del Ministerio de Obras Públicas.
