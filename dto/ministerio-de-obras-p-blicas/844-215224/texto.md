@@ -1,0 +1,3 @@
+Por decreto MOP Nº 844 de 14 de agosto de 2003, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP Nº 2.535, de 30 de noviembre de 1998, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación, en lo que respecta a la indemnización del lote Nº 3 y a la asignación presupuestaria. Consígnese judicialmente el monto de la indemnización del lote Nº 3, fijada por la comisión pericial el 13 de agosto de 1996, ascendente a la cantidad de $148.500.
+
+- Fiscal del Ministerio de Obras Públicas.
