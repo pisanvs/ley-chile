@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.156, de fecha 30 de noviembre de 2004, se expropió el lote de terreno Nº 513, superficie 298 m²., rol de avalúo en trámite, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 0,00000 a Km. 12,70000", VI Región y se acordó el valor de la indemnización con su propietaria Ximena de Jesús Tobar Gaete y Otros, ascendente a la cantidad de $21.102.593.
+
+Fiscal del Ministerio de Obras Públicas.
