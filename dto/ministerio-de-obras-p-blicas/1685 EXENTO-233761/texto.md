@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.685, de fecha 30 de noviembre de 2004, se expropió el lote de terreno Nº 102-A, superficie 395 m²., rol de avalúo Nº 59-26, comuna de Romeral, para la obra "Camino Ruta J-55 Guáico 3-P. Vergara, Sector Guaico 3 - La Unión, Km. 0,00000 a Km. 7,60000", VII Región y se acordó el valor de la indemnización con su propietaria Alicia Adriana Ramírez Bustamante, ascendente a la cantidad de $946.712.
+
+Fiscal del Ministerio de Obras Públicas.
