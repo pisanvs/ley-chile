@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.909, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº11, superficie 575 m², rol de avalúo 207-63, comuna de Curacautín, para la obra ''Camino Curacautín-Pino Hachado, Sector Malalcahuello-Lonquimay, Km. 89.300 a Km. 106.620'' y se acordó el valor de indemnización con su propietario Domingo Ramón Fuentealba Vivanco, ascendente a la cantidad de $618.038.-
+
+Fiscal del Ministerio de Obras Públicas.
