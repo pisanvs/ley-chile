@@ -16510,15 +16510,23 @@ GENERAL DE BANCOS.
 
 ### I. LIMITES INDIVIDUALES DE CREDITO
 
-El monto máximo de créditos que una institución financiera puede conceder,
+El monto máximo de créditos que una institución financiera puede conceder, directa o indirectamente, a una misma persona, natural o jurídica, así como la especificación de las garantías válidas para los efectos de la aplicación del margen correspondiente para créditos con garantías, están contenidos en el N° 1 del artículo 84 de la Ley General de Bancos.
 
-directa o indirectamente, a una misma persona, natural o jurídica, así como la
+Existe una diferencia sustancial en cuanto a la aplicación de los márgenes individuales de crédito, según si el crédito es otorgado a cualquiera persona natural o jurídica o si éste se concede a una persona vinculada en los términos del artículo 84 N° 2, reglamentado en el Capítulo 12-4 de esta Recopilación.
 
-especificación de las garantías válidas para los efectos de la aplicación del
+En el primer caso, tratado en el presente Capitulo, el margen individual de crédito se aplica exclusivamente al deudor, sea persona natural o jurídica, y por lo tanto, en principio, la institución financiera otorgante del crédito sólo deberá velar porque el endeudamiento de su cliente se encuadre como norma general en el 5% del capital pagado y reservas del banco, sin perjuicio del mayor margen que se puede alcanzar si el crédito se encuentra caucionado por garantías reales o si se trata de créditos a los cuales la propia ley otorga un mayor límite.
 
-margen correspondiente para créditos con garantías, están contenidos en el N° 1
+Además, al otorgar el crédito, debe considerarse si el deudor se encuentra en algunas de las situaciones previstas en el artículo 85, para los efectos del cómputo indicado.
 
-del artículo 84 de la Ley General de Bancos.
+Por consiguiente, y a diferencia del límite individual contenido en el artículo 84 N° 2 sobre personas vinculadas, en que el margen es común para todo el grupo, tratándose de la situación prevista en el artículo 84 N° 1, cada persona natural o jurídica constituye un deudor independiente para la aplicación del margen legal, sin perjuicio de observar, cuando corresponda, las reglas del artículo 85 ya mencionado.
+
+No obstante lo expuesto, esta Superintendencia debe advertir que la norma tiene la aplicación dicha cuando la institución financiera otorga créditos a una persona individual dentro del contexto de una decisión crediticia respaldada con antecedentes técnicos del cliente que justifiquen el otorgamiento del crédito, y que no sea motivada por el ánimo de que el deudor, vía interposición de personas u otros arbitrios, pueda alcanzar un endeudamiento que sobrepase el margen permitido por la ley.
+
+Así, y a modo de ejemplo, se transgrede el artículo 84 N° 1, en el caso de que un banco otorgue créditos a sociedades que pertenecen todas ellas a los mismos socios y que carecen de giro efectivo, no tienen actividad o presentan un patrimonio escaso frente al monto del crédito, por cuanto queda en claro que la multiplicación de sociedades obedece al propósito manifiesto de dividir el monto total del crédito para ajustarlo al margen individual de cada una de ellas.
+
+En otros términos, se transgrede el margen individual de créditos no sólo cuando se otorgan créditos por sobre el limite individual previsto en la ley, sino también cuando éstos se cursan por la vía de interposición de personas o se emplea cualquier arbitrio para simular que los créditos en cuestión se encuadran formalmente dentro del límite legal, simulación de la que tiene conocimiento pleno tanto el banco que otorga el crédito como el deudor real.
+
+Lo anteriormente expuesto tiene por fin advertir que la labor de la Superintendencia en esta materia no puede consistir en una mera vigilancia formal sobre esta importante materia, sino que su verdadero fin es procurar que no se vulnere el espíritu de la norma legal.
 
 ### 1. Norma general
 
@@ -18122,281 +18130,87 @@ FINANCIERA.
 
 ### 1. Definición de deudores relacionados
 
-La relación de una persona determinada con una institución financiera se produce
+La relación de una persona determinada con una institución financiera se produce cuando:
 
-cuando:
-
-a) Posee una participación directa, indirecta o a través de terceros, en la
-
-propiedad de la institución;
+a) Posee una participación directa, indirecta o a través de terceros, en la propiedad de la institución;
 
 b) Participa en la gestión de la entidad; o,
 
-c) Según normas generales, establecidas directamente en la Ley o dictadas por
+c) Según normas generales, establecidas directamente en la Ley o dictadas por esta Superintendencia en uso de las facultades que la misma ley le otorga, aparecen situaciones que hacen presumir esa relación mientras no se presenten antecedentes suficientes que permitan eliminar esa presunción.
 
-esta Superintendencia en uso de las facultades que la misma ley le otorga,
+1.1. Personas relacionadas a una institución financiera a través de la propiedad.
 
-aparecen situaciones que hacen presumir esa relación mientras no se presenten
+Una persona se encuentra relacionada a una institución financiera a través de la propiedad, cuando es accionista de ella o es socia o accionista de sociedades que, a su vez, poseen acciones de la institución directamente o a través de otras sociedades. Esta relación, de acuerdo con la Ley, puede ser directa o a través de terceros. Puede también producirse una relación indirecta a través del cónyuge, separado o no de bienes, o de los hijos menores.
 
-antecedentes suficientes que permitan eliminar esa presunción.
-
-1.1. Personas relacionadas a una institución financiera a través de la
-
-propiedad.
-
-Una persona se encuentra relacionada a una institución financiera a través de la
-
-propiedad, cuando es accionista de ella o es socia o accionista de sociedades
-
-que, a su vez, poseen acciones de la institución directamente o a través de
-
-otras sociedades. Esta relación, de acuerdo con la Ley, puede ser directa o a
-
-través de terceros. Puede también producirse una relación indirecta a través del
-
-cónyuge, separado o no de bienes, o de los hijos menores.
-
-Sin embargo, la ley establece que una persona natural no se considerará
-
-relacionada por el solo hecho de poseer hasta un 1% de las acciones de una
-
-institución financiera. Igualmente, no se considerará relacionada una persona
-
-jurídica por el solo hecho de poseer directamente, a través de terceros o en
-
-conjunto con otras sociedades con las cuales conforma una unidad de intereses
+Sin embargo, la ley establece que una persona natural no se considerará relacionada por el solo hecho de poseer hasta un 1% de las acciones de una institución financiera. Igualmente, no se considerará relacionada una persona jurídica por el solo hecho de poseer directamente, a través de terceros o en conjunto con otras sociedades con las cuales conforma una unidad de intereses
 
 económicos, hasta un 1% de las acciones de la institución financiera.
 
-Una sociedad no se considerará relacionada por el solo hecho que personas
+Una sociedad no se considerará relacionada por el solo hecho que personas naturales o jurídicas relacionadas por la vía de la propiedad a la institución financiera tengan, por sí, a través de terceros, o en conjunto, una participación igual o inferior al 5% en el capital o en las utilidades de la respectiva sociedad. Los accionistas o socios de personas jurídicas relacionadas
 
-naturales o jurídicas relacionadas por la vía de la propiedad a la institución
+a una institución financiera no se considerarán relacionados cuando su participación sea irrelevante y resulte evidente que esos accionistas o socios y quienes controlan la sociedad no conforman una unidad de intereses económicos.
 
-financiera tengan, por sí, a través de terceros, o en conjunto, una
+1.2. Personas relacionadas con una institución financiera a través de la gestión.
 
-participación igual o inferior al 5% en el capital o en las utilidades de la
+Están relacionadas a través de la gestión de una institución financiera aquellas personas que, sin tener necesariamente participación en la propiedad, ejercen algún grado de control sobre las decisiones de la entidad, por el cargo que ocupan en ella. Se considera que ejercen esta influencia los directores, el gerente general, el subgerente general, los gerentes y subgerentes, los agentes y las personas que son apoderados generales o se desempeñan como asesores del directorio, de un comité de directores o de la gerencia, como también el fiscal,el abogado jefe y el contralor. Si en una institución prestan servicios
 
-respectiva sociedad. Los accionistas o socios de personas jurídicas relacionadas
+personas que desempeñan funciones similares a los cargos descritos, quedarán sujetas a la condición de relacionadas por gestión, aunque se les haya asignado otro nombre.
 
-a una institución financiera no se considerarán relacionados cuando su
+Se considerarán también relacionadas a la entidad financiera las sociedades en que cualquiera de los recién mencionados tenga, directamente o a través de otras sociedades, su cónyuge, separado o no de bienes, o sus hijos menores, una participación en la propiedad igual o superior a un 5%.
 
-participación sea irrelevante y resulte evidente que esos accionistas o socios y
+También se considerarán relacionadas las sociedades en las que alguna de las personas naturales relacionadas con la institución financiera a través de la gestión, ocupe el cargo de director, gerente general u otro equivalente.
 
-quienes controlan la sociedad no conforman una unidad de intereses económicos.
+Debe tenerse presente que las personas que se desempeñan como directores o apoderados generales de las instituciones financieras, así como sus cónyuges,hijos menores bajo patria potestad y las sociedades en que estas personas sean socios o accionistas, están impedidas por el artículo 84 N° 4 de la Ley General de Bancos de obtener crédito en la institución financiera en que se desempeñan,norma que prevalece respecto de las que se señalan en este capítulo.
 
-1.2. Personas relacionadas con una institución financiera a través de la
+Se excluyen de esta prohibición aquellas sociedades en que un director o apoderado general, en conjunto con su cónyuge y sus hijos menores bajo patria potestad, tiene una participación igual o inferior a un 5% en el capital o en las utilidades.
 
-gestión.
+Las sociedades anónimas cuya única vinculación con una institución financiera esté dada por el hecho que sólo uno de sus directores participa también en la gestión de esta última entidad, transitoriamente no se incluirán en la nómina de personas relacionadas.
 
-Están relacionadas a través de la gestión de una institución financiera aquellas
+Cuando dicho director lo sea también de la institución financiera, la exclusión se aplicará hasta la próxima junta general de accionistas en que corresponda renovar el directorio de cualquiera de las empresas.
 
-personas que, sin tener necesariamente participación en la propiedad, ejercen
+Cuando el director de la sociedad anónima participe en la gestión de la entidad financiera en una forma distinta a la de director, la exclusión se aplicará hasta la próxima junta general de accionistas en que deba renovarse el directorio de la referida sociedad.
 
-algún grado de control sobre las decisiones de la entidad, por el cargo que
+En todo caso, las excepciones siempre se aplicarán cuando las personas en cuestión han sido elegidas o designadas en sus cargos, en ambas empresas, con anterioridad al 30 de abril de 1987.
 
-ocupan en ella. Se considera que ejercen esta influencia los directores, el
-
-gerente general, el subgerente general, los gerentes y subgerentes, los agentes
-
-y las personas que son apoderados generales o se desempeñan como asesores del
-
-directorio, de un comité de directores o de la gerencia, como también el
-
-fiscal,el abogado jefe y el contralor. Si en una institución prestan servicios
-
-personas que desempeñan funciones similares a los cargos descritos, quedarán
-
-sujetas a la condición de relacionadas por gestión, aunque se les haya asignado
-
-otro nombre.
-
-Se considerarán también relacionadas a la entidad financiera las sociedades en
-
-que cualquiera de los recién mencionados tenga, directamente o a través de otras
-
-sociedades, su cónyuge, separado o no de bienes, o sus hijos menores, una
-
-participación en la propiedad igual o superior a un 5%.
-
-También se considerarán relacionadas las sociedades en las que alguna de las
-
-personas naturales relacionadas con la institución financiera a través de la
-
-gestión, ocupe el cargo de director, gerente general u otro equivalente.
-
-Debe tenerse presente que las personas que se desempeñan como directores o
-
-apoderados generales de las instituciones financieras, así como sus
-
-cónyuges,hijos menores bajo patria potestad y las sociedades en que estas
-
-personas sean socios o accionistas, están impedidas por el artículo 84 N° 4 de
-
-la Ley General de Bancos de obtener crédito en la institución financiera en que
-
-se desempeñan,norma que prevalece respecto de las que se señalan en este
-
-capítulo.
-
-Se excluyen de esta prohibición aquellas sociedades en que un director o
-
-apoderado general, en conjunto con su cónyuge y sus hijos menores bajo patria
-
-potestad, tiene una participación igual o inferior a un 5% en el capital o en
-
-las utilidades.
-
-Las sociedades anónimas cuya única vinculación con una institución financiera
-
-esté dada por el hecho que sólo uno de sus directores participa también en la
-
-gestión de esta última entidad, transitoriamente no se incluirán en la nómina de
-
-personas relacionadas.
-
-Cuando dicho director lo sea también de la institución financiera, la exclusión
-
-se aplicará hasta la próxima junta general de accionistas en que corresponda
-
-renovar el directorio de cualquiera de las empresas.
-
-Cuando el director de la sociedad anónima participe en la gestión de la entidad
-
-financiera en una forma distinta a la de director, la exclusión se aplicará
-
-hasta la próxima junta general de accionistas en que deba renovarse el
-
-directorio de la referida sociedad.
-
-En todo caso, las excepciones siempre se aplicarán cuando las personas en
-
-cuestión han sido elegidas o designadas en sus cargos, en ambas empresas, con
-
-anterioridad al 30 de abril de 1987.
-
-Para los efectos de lo señalado precedentemente, se entiende que participa en la
-
-gestión de una entidad financiera aquella persona que desempeñe alguno de los
-
-cargos mencionados en el numeral 1.2 del título I de este capítulo.
+Para los efectos de lo señalado precedentemente, se entiende que participa en la gestión de una entidad financiera aquella persona que desempeñe alguno de los cargos mencionados en el numeral 1.2 del título I de este capítulo.
 
 1.3. Presunciones de relación.
 
-La ley encarga a esta Superintendencia el establecimiento de normas generales
+La ley encarga a esta Superintendencia el establecimiento de normas generales para determinar las personas naturales o jurídicas que deban considerarse relacionadas a la propiedad o gestión de la institución financiera, lo que no esotra cosa que establecer las circunstancias o situaciones generales que harán suponer que existe una relación entre una persona y una entidad financiera por vínculos de propiedad o gestión.
 
-para determinar las personas naturales o jurídicas que deban considerarse
+En todo caso, la Ley establece que el hecho de que sea deudora de una institución financiera una sociedad constituida en el extranjero, entre cuyos socios o accionistas figuren otras sociedades o cuyas acciones sean al portador, hará presumir que se encuentra relacionada a aquélla.
 
-relacionadas a la propiedad o gestión de la institución financiera, lo que no
+Por otra parte, y sin perjuicio de otras presunciones que puedan establecerse en el futuro, se presumirá que un deudor está relacionado a la institución financiera acreedora si se encuentra en una o más de las siguientes situaciones:
 
-esotra cosa que establecer las circunstancias o situaciones generales que harán
+a) Cuando el deudor sea una sociedad constituida en el país o el extranjero, cuyo patrimonio e ingresos sean insuficientes en relación al monto de los créditos concedidos o cuyos principales socios o accionistas no acrediten patrimonio suficiente o no existan antecedentes respecto de las actividades que desarrollan.
 
-suponer que existe una relación entre una persona y una entidad financiera por
+b) Cuando el deudor sea una sociedad constituida en Chile cuyos socios o accionistas, que en conjunto representen un 10% o más del capital social, sean personas jurídicas constituidas en el extranjero, de las cuales no existan antecedentes respecto de sus propietarios, la situación patrimonial de éstos y su giro efectivo.
 
-vínculos de propiedad o gestión.
+c) Cuando el deudor sea una sociedad que forma parte de un conjunto de sociedades con socios o accionistas comunes, que constituyan un grupo de intereses económicos y que no muestren un giro individual efectivo o un patrimonio e ingresos suficientes para justificar los créditos concedidos.
 
-En todo caso, la Ley establece que el hecho de que sea deudora de una
+d) Cuando el deudor sea considerado persona relacionada a otra institución financiera y ésta haya concedido, en carácter recíproco, créditos a sociedades relacionadas con la institución acreedora o haya habilitado a una tercera institución financiera para hacerlo.
 
-institución financiera una sociedad constituida en el extranjero, entre cuyos
+e) Cuando el deudor haya recibido créditos en condiciones notoriamente más favorables que la mayoría de los deudores, sin que exista alguna situación financiera que lo justifique desde el punto de vista de los intereses de la institución. También se aplicará la presunción cuando tales personas hayan obtenido condiciones notoriamente más favorables en los depósitos y captaciones o en servicios que la institución les preste.
 
-socios o accionistas figuren otras sociedades o cuyas acciones sean al portador,
+f) Cuando los créditos del deudor se encuentren caucionados con garantías otorgadas por una persona natural o jurídica relacionada con la institución acreedora.
 
-hará presumir que se encuentra relacionada a aquélla.
+g) Cuando el deudor haya garantizado créditos o asumido obligaciones de una sociedad relacionada a la institución financiera respectiva.
 
-Por otra parte, y sin perjuicio de otras presunciones que puedan establecerse en
+h) Cuando el representante legal de la empresa deudora, sea a la vez, representante legal de una empresa relacionada a la institución acreedora y no existan antecedentes respecto de los propietarios de la deudora, de la situación patrimonial de éstos o de su giro efectivo.
 
-el futuro, se presumirá que un deudor está relacionado a la institución
+i) Cuando las obligaciones del deudor sean servidas con recursos de una persona natural o jurídica relacionada con la institución financiera acreedora.
 
-financiera acreedora si se encuentra en una o más de las siguientes situaciones:
+j) Cuando el deudor mantenga cuentas, que representen un porcentaje importante de su activo o pasivo, con sociedades relacionadas a la institución financiera acreedora y no tenga un giro acreedora y no tenga un giro productivo que justifique la existencia de dichas cuentas.
 
-a) Cuando el deudor sea una sociedad constituida en el país o el extranjero,
+k) Cuando se trate de una sociedad deudora, previamente considerada relacionada, cuya propiedad sea traspasada a terceros sin que existan antecedentes fidedignos de que se permitió la presentación de otras ofertas; cuando las condiciones de venta difieren significativamente de las que prevalecen en el mercado o cuando los adquirentes no hayan demostrado un patrimonio que guarde relación con la magnitud de la operación antes de efectuarla.
 
-cuyo patrimonio e ingresos sean insuficientes en relación al monto de los
+En relación con las presunciones señaladas, esta Superintendencia ha tomado conocimiento de operaciones que efectúan empresas relacionadas con la respectiva institución financiera, por las cuales se ceden a la institución documentos de crédito de dinero de que es titular la empresa, sin asumir responsabilidad por el pago de los mismos, o en otros términos, los respectivos títulos de crédito son endosados sin responsabilidad.
 
-créditos concedidos o cuyos principales socios o accionistas no acrediten
+Este Organismo ha podido determinar al respecto que la operatoria utilizada sirve para financiar a la empresa relacionada con cargo a la institución financiera. En efecto, aunque finalmente el cedente no asume responsabilidad, en la práctica, ello no resulta así, por cuanto la empresa cedente transfiere una universalidad de créditos de sus clientes que el banco no califica en forma individual, y muchas veces es la propia cedente la que se encarga de efectuar el cobro de los créditos y se obliga a prevenir la posible mora en los deudores de la cartera cedida.
 
-patrimonio suficiente o no existan antecedentes respecto de las actividades que
+Por lo tanto, no se trata en la especie de una venta de determinados créditos de que es titular una persona, efectuada sin ulterior responsabilidad o garantía para ésta, en que la institución adquirente califica a los deudores de esos créditos y asume el riesgo correspondiente, sino que es una operación de financiamiento directo a la empresa relacionada.
 
-desarrollan.
-
-b) Cuando el deudor sea una sociedad constituida en Chile cuyos socios o
-
-accionistas, que en conjunto representen un 10% o más del capital social, sean
-
-personas jurídicas constituidas en el extranjero, de las cuales no existan
-
-antecedentes respecto de sus propietarios, la situación patrimonial de éstos y
-
-su giro efectivo.
-
-c) Cuando el deudor sea una sociedad que forma parte de un conjunto de
-
-sociedades con socios o accionistas comunes, que constituyan un grupo de
-
-intereses económicos y que no muestren un giro individual efectivo o un
-
-patrimonio e ingresos suficientes para justificar los créditos concedidos.
-
-d) Cuando el deudor sea considerado persona relacionada a otra institución
-
-financiera y ésta haya concedido, en carácter recíproco, créditos a sociedades
-
-relacionadas con la institución acreedora o haya habilitado a una tercera
-
-institución financiera para hacerlo.
-
-e) Cuando el deudor haya recibido créditos en condiciones notoriamente más
-
-favorables que la mayoría de los deudores, sin que exista alguna situación
-
-financiera que lo justifique desde el punto de vista de los intereses de la
-
-institución. También se aplicará la presunción cuando tales personas hayan
-
-obtenido condiciones notoriamente más favorables en los depósitos y captaciones
-
-o en servicios que la institución les preste.
-
-f) Cuando los créditos del deudor se encuentren caucionados con garantías
-
-otorgadas por una persona natural o jurídica relacionada con la institución
-
-acreedora.
-
-g) Cuando el deudor haya garantizado créditos o asumido obligaciones de una
-
-sociedad relacionada a la institución financiera respectiva.
-
-h) Cuando el representante legal de la empresa deudora, sea a la vez,
-
-representante legal de una empresa relacionada a la institución acreedora y no
-
-existan antecedentes respecto de los propietarios de la deudora, de la situación
-
-patrimonial de éstos o de su giro efectivo.
-
-i) Cuando las obligaciones del deudor sean servidas con recursos de una persona
-
-natural o jurídica relacionada con la institución financiera acreedora.
-
-j) Cuando el deudor mantenga cuentas, que representen un porcentaje importante
-
-de su activo o pasivo, con sociedades relacionadas a la institución financiera
-
-acreedora y no tenga un giro acreedora y no tenga un giro productivo que
-
-justifique la existencia de dichas cuentas.
-
-k) Cuando se trate de una sociedad deudora, previamente considerada relacionada,
-
-cuya propiedad sea traspasada a terceros sin que existan antecedentes fidedignos
-
-de que se permitió la presentación de otras ofertas; cuando las condiciones de
-
-venta difieren significativamente de las que prevalecen en el mercado o cuando
-
-los adquirentes no hayan demostrado un patrimonio que guarde relación con la
-
-magnitud de la operación antes de efectuarla.
+Por lo anterior, debe estimarse que esta situación se encuadra dentro de las presunciones de relación establecidas en las letras f) e i) de este numeral, y por lo tanto la compra de documentos efectuada en estos casos, debe considerarse dentro del margen del respectivo deudor relacionado a que se refiere el artículo 84 N° 2 de la Ley General de Bancos y el título III de este Capítulo.
 
 2. Entidades relacionadas a una institución y que conforman un grupo de personas vinculadas entre sí.
 
