@@ -1,0 +1,3 @@
+MODIFICA CERTIFICADO DE SUBSIDIO QUE INDICA
+
+Res. Ex. No. 2.660, de fecha 09 de Agosto de 1990, modifica Certificado de Subsidio Habitacional Serie A - 88 No. 03 - 1913, extendido en favor de don Roberto Aguilera Cerda, en el sentido de eliminar el monto de la rebaja que indica, quedando en 600.020 Unidades de Fomento, el monto de los recursos comprometidos para el financiamiento del subsidio directo para la atención de los postulantes seleccionados en el tercer llamado 1988 del Sistema General Unificado de Subsidio Habitacional.
