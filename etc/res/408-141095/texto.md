@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PISCICOLA RIO PESCADO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 408 de 25 de Abril de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Piscícola Río Pescado Limitada, domiciliada en la localidad de Río Pescado, Comuna y Departamento de Puerto Varas, para ampliar las actividades pesqueras de cultivo que tiene autorizadas por Resolución No. 59, de 1987, de esta Subsecretaría, en orden a incorporar los recursos Salmón rey, Salmón del Atlántico y Trucha arco iris, a las actividades de cultivo que desarrolla en la piscicultura autorizada por la resolución antes citada, en Río Pescado, Comuna de Puerto Varas, Provincia de Llanquihue, X Región. Las ovas de estos recursos serán importadas de conformidad con la legislación vigente. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo con las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 25.04.88.- Roberto Cabezas Bello, Subsecretario de Pesca.
