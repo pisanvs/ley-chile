@@ -1,0 +1,3 @@
+Por Resolución Nº 967, de 4 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 95122009, presentada por PESQUERA KIN TAI S.A., para la concesión de acuicultura ubicada en Bahía Ladrilleros, comuna de Natales, provincia de Ultima Esperanza, XII Región, conforme lo dispuesto en los artículos 78º y 87º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 4 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
