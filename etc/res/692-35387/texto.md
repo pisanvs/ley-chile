@@ -1,0 +1,3 @@
+Por Resolución N° 692, de 12 de abril de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por JOSE HUMBERTO YUDUMAN YUDUMAN, para un centro de cultivo ubicado en sector de Pupelde Bajo, río Pudeto, comuna de Ancud, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 12 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
