@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN COMUNA DE RENGO
+
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1711, de fecha 07 de Octubre de 1988, conforme artículo 5° Transitorio Código de Aguas, ratificó resoluciones exentas No. s. 1865 y 1981 de fecha 23 de Octubre y 06 de Noviembre ambas de 1979 y de la Oficina de Normalización Agraria, que determinaron los derechos de aprovechamiento de aguas proporcionales que corresponden a las Parcelas No. s. 1 a la 20 del Proyecto de Parcelación "Tipaume" de la Comuna de Rengo, VI Región, formado por el predio "Fundo Tipaume". Los derechos se extraen del Canal Ramirano y Canal El Molino, ambos Derivados del Río Claro de Rengo, y del Canal Carnero y Canal La Patagua, ambos derivados del Estero Tipaume. Publicación hecha conforme Art. 13 Ley 18.377.
+
+Director Ejecutivo.
