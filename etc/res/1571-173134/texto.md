@@ -1,0 +1,3 @@
+Por resolución Nº1.571, de 17 de julio de 2000, deniégase la solicitud de autorización de acuicultura Nº97110061, presentada por SALMONES UNIMARC S.A., para operar un centro de cultivo en lago Traiguén, isla Traiguén, comuna y provincia de Aysén, XI Región, conforme lo dispuesto en el artículo 67 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
