@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 122, de 28 de febrero de 2001, se expropió el lote de terreno Nº 280-9A, superficie 461 m², Rol de avalúo 101-108, comuna de Papudo para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Pedro Arturo Ibacache Martínez, ascendente a la cantidad de $1.602.444.-
+
+Fiscal del Ministerio de Obras Públicas.
