@@ -1,0 +1,3 @@
+Por Resolución N° 370, de 14 de Abril de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año, a contar del 14 de Mayo de 1994, el plazo otorgado a don DANIEL GUMERCINDO FLORES FUENTES, R.U.T. N° 6.952.869-4, en orden a iniciar actividades pesqueras de procesamiento, autorizadas mediante la Resolución N° 278, de 1993, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 14 de Abril de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
