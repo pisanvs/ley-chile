@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 32 del 14 Marzo de 1995, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IV Región se autoriza cambio de local de la Planta de Revisión Técnica a Servi-Integra Limitada, a la nueva ubicación de calle Felipe Ñiguez Cabezas con la Ruta D-85, Illapel.-
+
+Freddy Bonilla Torreblanca, Secretario Regional Ministerial de Transportes y Telecomunicaciones IV Región de Coquimbo.
