@@ -1,0 +1,3 @@
+Por Resolución N° 2 de 2 de Mayo de 1994, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones IX Región, se adjudicó a don Néstor Roberto Inostroza San Martín, la concesión para operar hasta el 1 de Diciembre de 1998 a contar de la publicación del presente extracto, un establecimiento ubicado en calle Arauco N° 290, de la comuna de Curacautín, destinado a la revisión técnica y verificación de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques, en la forma y condiciones que se señalan en el contrato que se aprueba.
+
+Temuco, 5 de Julio de 1994.- Patricio Villanueva Rubilar, Secretario Regional Ministerial de Transportes y Telecomunicaciones, IX Región.
