@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº147, de fecha 27 de diciembre del año 2000, se aprobó la Disolución Voluntaria de la Cooperativa de Vivienda y Servicios Habitacionales "Doctora Ernestina Pérez" Limitada, de Rengo que consta en la escritura pública suscrita con fecha 25 de septiembre del año 2000, ante el Notario Público de Rengo, don Jorge Zapata Medina.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
