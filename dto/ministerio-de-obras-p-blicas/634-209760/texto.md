@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 634, del 26 de agosto de 1996, se expropió los lotes de terreno N°s 33 y 36, superficies 24.635 m2. y 22.800 m2., rol de avalúo 1035-107, comuna de Maipú, para la obra camino autopista Santiago-San Antonio, sector empalme 1, Riquelme-Bif. Malloco, y se acordó el valor de indemnización con su propietario José J. Gandarillas Infante, ascendente a la cantidad de $423.482.304.
+
+Fiscal del Ministerio de Obras Públicas.
