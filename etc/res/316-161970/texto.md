@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD DE ALIMENTOS MARINOS Y FRIGORIFICO SOL Y MAR SOCIEDAD ANONIMA PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO AUTORIZACIONES QUE INDICA
+
+Por resolución Nº 316, de 07 de Junio de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza, pronunciándose sobre solicitud de 14 de Junio de 1984, y en reemplazo de la nave "Don Osvaldo", a la sociedad de Alimentos Marinos y Frigorífico Sol y Mar Sociedad Anónima, domiciliada en Coquimbo, para operar la embarcación "San Jorge I" en el litoral de la I y II Región cuando efectúe cerco y el de la VIII Región cuando realice arrastre, en labores extractivas de jurel, sardina española, sardina común, anchoa y caballa para ser destinados a plantas de reducción, y de merluza común para ser destinados a plantas de congelado. Además, se deja sin efecto la autorización otorgada a la sociedad, por resolución Nº 356, de 1983, para operar la embarcación "Don Osvaldo", y la resolución Nº 276, de 1985, sin tramitar, ambas de la misma Subsecretaría.
+
+Santiago, 07 de Junio de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
