@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.051, de 28 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 35, 36, 39, 40, 41, 42 y 44, para la ejecución de la obra ''Mejoramiento Ruta N-45, Sector Variante Cato, Km. 0,00000 a Km. 4,15551'', que figuran a nombre de Masle Martinic Marisel, Muñoz Vásquez Carlos, Oyarce Vásquez Roberto Javier y Ortega Urrejola Ismael Walteri, Roles de Avalúo 2209-16, 2209-18, 2209-226 y 2209-236, comuna de Chillán, VIII Región, superficies 53, 86, 496, 121, 149, 63 y 230 m2. La Comisión de peritos fijó con fecha 16 de octubre de 2001, el valor provisional de la indemnización en la cantidad de $132.500, lote 35; $234.500, lote 36;
+
+$1.962.000, lote 39; $559.500, lote 40; $497.500, lote 41; $211.500, lote 42 y $763.000, lote 44.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
