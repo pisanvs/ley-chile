@@ -50,9 +50,11 @@ Por la índole de las necesidades que satisfacen o por el grave perjuicio públi
 
 ### 18. Los negocios para la venta de flores naturales;
 
-### 19. Los hoteles;
+### 19. Los hoteles, salvo el tercer Domingo de Marzo de cada año
 
-20. Los restaurants o fondas y las cocinerías para el solo efecto de servir comida;
+20. Los restaurants o fondas y las cocinerías para el solo efecto de servir comida, salvo el tercer Domingo de Marzo de cada año".
+
+El tercer Domingo de Marzo de cada año los trabajadores del Gremio Hotelero y Ramos Similares no tendrán la obligación de concurrir a su trabajo.
 
 21. Las empresas de diarios y revistas que se publiquen en dias de descanso público. La distribucion y venta de estas publicaciones;
 
