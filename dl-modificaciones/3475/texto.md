@@ -1,0 +1,417 @@
+MODIFICA LA LEY DE TIMBRES Y ESTAMPILLAS CONTENIDA EN EL DECRETO LEY N° 619, DE 1974
+
+Núm. 3.475.- Santiago, 29 de Agosto de 1980.-
+
+Visto: Lo dispuesto en los decretos leyes 1 y 128, de 1973; 527 de 1974, y 991, de 1976,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto Ley.
+
+IMPUESTO DE TIMBRES Y ESTAMPILLAS
+
+## Título I
+
+De los documentos gravados
+
+#### Artículo 1°
+
+Grávase con el impuesto que se indica las siguientes actuaciones y documentos que den cuenta de los actos jurídicos, contratos y otras convenciones que se señalan:
+
+1) El protesto de cheques por falta de fondos, afecto a un impuesto de 1% del monto del cheque, con un mínimo de $5.459 y con un máximo de una unidad tributaria mensual.
+
+2) DEROGADO.
+
+3) Letras de cambio, libranzas, pagarés, créditos simples o documentarios y cualquier otro documento, incluso aquellos que se emitan de forma desmaterializada, que contenga una operación de crédito de dinero, 0,066% sobre su monto por cada mes o fracción que medie entre la emisión del documento y la fecha de vencimiento del mismo, no pudiendo exceder del 0,8% la tasa que en definitiva se aplique.
+
+Los instrumentos y documentos que contengan operaciones de crédito de dinero a la vista o sin plazo de vencimiento deberán enterar la tasa de 0,332% sobre su monto. La tasa establecida en este inciso se aplicará también a aquellos documentos que den cuenta de operaciones de crédito de dinero en las que se haya estipulado que la obligación de devolver el crédito respectivo sólo será exigible o nacerá una vez transcurrido un determinado plazo, en la medida que éste no sea superior a cinco meses, caso en el cual se aplicará la tasa señalada en el inciso anterior.
+
+INCISO TERCERO.- DEROGADO
+
+Satisfarán también el tributo del inciso primero de este número, la entrega de facturas o cuentas en cobranza a instituciones bancarias y financieras; la entrega de dinero a interés, excepto cuando el depositario sea un Banco; los mutuos de dinero; los préstamos u otras operaciones de crédito de dinero, efectuadas con letras o pagarés, por bancos e instituciones financieras registradas en el Banco Central de Chile en el caso de operaciones desde el exterior y el descuento bancario de letras; los préstamos bancarios otorgados en cuenta especial, con o sin garantía documentaria y la emisión de bonos y debentures de cualquier naturaleza.
+
+Las cartas de crédito satisfarán el tributo del inciso primero de este número sólo cuando no se emitan o suscriban otros documentos, para garantizar su pago, gravados con dicho tributo y siempre que digan relación con importaciones que no se hubieren afectado con el impuesto establecido en el artículo 3°.
+
+4) DEROGADO
+
+5) DEROGADO.
+
+> **Nota.** El artículo tercero de la ley 21225, publicada el 02.04.2020, disminuye transitoriamente a cero las tasas establecidas en los artículos 1 numeral 3); 2 y 3 del presente decreto ley, respecto de los impuestos que se devenguen desde el 1 de abril de 2020 hasta el 30 de septiembre de 2020, ambas fechas incluidas.
+
+#### Artículo 2°
+
+La prórroga o la renovación de los documentos, o en su caso, de las operaciones de crédito del exterior gravadas en el número 3) del artículo anterior, se efectuará de acuerdo con las siguientes normas:
+
+1. La base del impuesto estará constituida por el monto del capital cuyo plazo de pago se renueva o prorroga.
+
+Si se capitalizan intereses, el impuesto correspondiente a éstos se calculará en forma independiente del capital original.
+
+2. Si la renovación o la prórroga no estipula un plazo de vencimiento, la tasa del impuesto será 0,332%.
+
+En los demás casos la tasa será 0,066% por cada mes completo que se pacte entre el vencimiento original del documento o el vencimiento estipulado en la última renovación o prórroga, según corresponda, y el nuevo vencimiento estipulado en la renovación o prórroga de que se trate. Se entenderá por mes completo el que termine en el respectivo mes, en el mismo día en que se pactó la operación original. Si la renovación o prórroga venciere en el mes correspondiente, en un día distinto de aquel en el que se estipuló o suscribió la operación que le dio origen, la fracción de mes que exceda de ese día se considerará también como mes completo.
+
+En todo caso, la tasa máxima de impuesto aplicable respecto de un mismo capital no podrá exceder de 0,8%. Para determinar el monto máximo indicado, se considerará el impuesto efectivamente pagado por la operación original y las sucesivas renovaciones o prórrogas que se hayan estipulado, con tal que:
+
+(a) Se efectúen en el documento original o en extensiones u hojas adheridas permanentemente a éste; o se efectúen en escrituras públicas o documentos protocolizados, debiendo insertarse, en este caso, en el instrumento respectivo, el documento cuyo plazo se renueve cuando éste no sea una escritura pública, y
+
+(b) Se encuentren debidamente registradas o autorizadas en conformidad a las normas de cambios internacionales, tratándose de operaciones de crédito del exterior.
+
+Para los efectos de este artículo, el capital original se reajustará de acuerdo a la variación de la unidad de fomento entre la fecha de la operación original, o de la última prórroga o renovación, cuando correspondiere, y la fecha en que deba pagarse el impuesto. De la misma manera, el impuesto originalmente pagado se reajustará de acuerdo a la variación de la unidad de fomento entre la fecha de su entero en arcas fiscales y aquella en que se entere la diferencia de impuesto correspondiente.
+
+> **Nota.** El artículo tercero de la ley 21225, publicada el 02.04.2020, disminuye transitoriamente a cero las tasas establecidas en los artículos 1 numeral 3); 2 y 3 del presente decreto ley, respecto de los impuestos que se devenguen desde el 1 de abril de 2020 hasta el 30 de septiembre de 2020, ambas fechas incluidas.
+
+#### Artículo 2º bis
+
+Las colocaciones de bonos o títulos de deuda de corto plazo inscritas en el Registro de Valores en conformidad con la ley Nº 18.045 y que correspondan a líneas de emisión según su definición en dicha ley, que cumplan la condición que se fija en el número 1), de este artículo, pagarán el impuesto del artículo 1º, número 3), según las siguientes normas especiales, rigiéndose en todo lo demás por las normas aplicables de esta ley:
+
+1) La línea de emisión de bonos o títulos de deuda de corto plazo que se beneficiarán de las disposiciones de este artículo, deberán tener un plazo máximo de 10 años, dentro del cual deben vencer todas las obligaciones de pago de las emisiones efectuadas según la línea. Los bonos o títulos de deuda de corto plazo que se emitan podrán acogerse a una sola línea. No obstante lo anterior, la última emisión de bonos o títulos de deuda de corto plazo que corresponda a una línea podrá tener obligaciones de pago que venzan con posterioridad al término del plazo de 10 años de la línea. En el instrumento o título que dé cuenta de la emisión deberá dejarse constancia de ser la última de la respectiva línea.
+
+2) Cada colocación de una emisión de bonos o títulos de deuda de corto plazo acogida a la línea, se gravará con el impuesto de esta ley, según las reglas generales, hasta que la suma del impuesto de timbres y estampillas efectivamente pagado por cada emisión, expresado en unidades de fomento según el valor de ésta en la fecha del pago, sea igual a la suma que resulte de aplicar tasa máxima del impuesto establecida en el inciso primero del Nº 3 del artículo 1º, sobre el monto máximo de la línea expresado en unidades de fomento, según el valor de ésta a la fecha de inicio de la colocación de la primera emisión acogida a la línea.
+
+Cuando se llegue a dicho monto, todo capital que lo exceda y toda nueva emisión de bonos o títulos de deuda de corto plazo que se efectúe dentro de la línea, estará exenta del impuesto de esta ley, circunstancia de la cual deberá dejarse constancia en la escritura pública respectiva.
+
+> **Nota.** El Art. 1° transitorio de la LEY 19768, publicada el 07.11.2001, dispuso que la presente modificación entrará en vigencia el primer día del mes siguiente a aquel en el cual se cumplan noventa días desde su publicación.
+
+#### Artículo 3°
+
+En reemplazo de los impuestos establecidos en las demás disposiciones de esta ley, estará afecta al impuesto único establecido en este artículo la documentación necesaria para efectuar una importación o para el ingreso de mercaderías desde el exterior a zonas francas, bajo el sistema de cobranzas, acreditivos, cobertura diferida o cualquier otro en que el pago de la operación o de los créditos obtenidos para realizarla se efectúe con posterioridad a la fecha de aceptación del respectivo documento de destinación aduanera o de ingreso a zona franca de la mercadería.
+
+Este impuesto tendrá una tasa de 0,066% que se aplicará por cada mes o fracción de mes que medie entre la fecha de aceptación o ingreso y aquella en que se adquiera la moneda extranjera necesaria para el pago del precio o crédito, o la cuota de los mismos que corresponda, y se calculará sobre el monto pagado por dicha adquisición, excluyendo los intereses. En todo caso, la tasa que en definitiva se aplique no podrá exceder del 0,8%.
+
+Para los efectos del presente artículo, se incluirán entre los documentos necesarios para efectuar una importación o para el ingreso a zona franca, todos aquellos que se emitan o suscriban con ocasión del pago o la constitución de garantías a favor del exportador extranjero o de los bancos que intervienen en la operación.
+
+> **Nota.** El artículo tercero de la ley 21225, publicada el 02.04.2020, disminuye transitoriamente a cero las tasas establecidas en los artículos 1 numeral 3); 2 y 3 del presente decreto ley, respecto de los impuestos que se devenguen desde el 1 de abril de 2020 hasta el 30 de septiembre de 2020, ambas fechas incluidas.
+
+#### Artículo 4º
+
+INCISO PRIMERO DEROGADO
+
+Las actas de protesto de cambio y pagarés a la orden estarán afectos únicamente a un impuesto de un 1% sobre su monto con un mínimo de $5.459 y con un máximo de una unidad tributaria mensual.
+
+## Título II
+
+De la base imponible
+
+#### Artículo 5°
+
+Sin perjuicio de lo dispuesto en el artículo 1°, la base imponible de las operaciones de crédito en dinero y demás actos y contratos gravados en el número 3 del artículo 1° se determinará de acuerdo a las siguientes normas: el tributo se calculará en relación al monto numérico del capital indicado en el acto o contrato, a menos que se trate del reconocimiento de la obligación periódica de pagar una suma de dinero que no tuviere plazo fijo, caso en el cual el impuesto se calculará sobre el monto de la obligación correspondiente a un año.
+
+En el caso de compraventa, permuta, dación en pago o cualquiera otra convención traslaticia de dominio de bienes corporales inmuebles o de cuotas sobre los mismos, a que se refiere el N° 5 del artículo 1°, el impuesto se aplicará sobre el valor del contrato con mínimo del avalúo vigente y sin perjuicio de la facultad del Servicio de Impuestos Internos para tasar el inmueble o cuota que corresponda, en conformidad a las normas del Código Tributario.
+
+#### Artículo 6°
+
+Para los efectos de aplicar las disposiciones de este decreto ley y a falta de norma expresa en contrario, el valor de las obligaciones en moneda extranjera será el que le fijen las partes, pero su estimación no podrá ser inferior al valor que tenga dicha moneda según el tipo de cambio a que deberá liquidarse el día de la operación, lo que deberá acreditar el Banco Central de Chile. Si no procediere aplicar la regla anterior o no se acreditare mediante certificado de dicho banco, que el tipo de cambio aplicable es inferior al más alto vigente a la fecha de emisión del documento, el impuesto se determinará en relación a este último.
+
+#### Artículo 7°
+
+En los actos, contratos u otras convenciones sujetos a impuesto proporcional, en que no exista a la fecha de emisión o suscripción del documento, base imponible definitiva para regular el tributo, éste se aplicará provisoriamente sobre el monto del acto o convención que las partes declaren juradamente en el respectivo documento.
+
+Si el monto efectivo del acto o convención resultare superior a lo declarado juradamente por las partes, el impuesto que corresponda a tal diferencia deberá ser enterado en arcas fiscales dentro del plazo de diez días contado desde el momento que exista base imponible definitiva.
+
+En estos casos, el tributo quedará sujeto a revisión posterior durante toda la vigencia del acto o contrato y el plazo de prescripción a que se refiere el artículo 200 del Código Tributario sólo empezará a correr desde la fecha de expiración del respectivo acto o contrato.
+
+Lo dispuesto en el presente artículo no regirá respecto de las operaciones de crédito reajustables, sino en cuanto al capital numérico que los mismos señalen.
+
+#### Artículo 8°
+
+La base imponible de los documentos otorgados dentro o fuera de Chile por funcionarios de países extranjeros y los otorgados en el extranjero por funcionarios chilenos, se determinará en relación a los efectos que los mismos hayan de producir en el país.
+
+## Título III
+
+Del sujeto del impuesto y de los responsables de su pago
+
+#### Artículo 9°
+
+Son sujetos o responsables del pago de los impuestos establecidos en el artículo 1°:
+
+1.- El Banco librado, como primer responsable del pago del tributo, respecto de los protestos de cheques, dejándose constancia en cada acta del monto del impuesto correspondiente. El Banco librado sólo podrá cobrar el valor del tributo al girador sujeto del impuesto, y estará facultado para cargarlo a su cuenta;
+
+2.- El emisor tratándose de facturas, cuentas y otros documentos que hagan sus veces;
+
+3.- El beneficiario o acreedor por los documentos mencionados en el N° 3 del artículo 1°, quien tendrá el derecho a recuperar su valor de los obligados al pago del documento, los que serán responsables en forma solidaria del reembolso del impuesto. En el caso de las letras de cambio, el obligado al pago del impuesto será el librador o girador, sin perjuicio de su derecho a recuperar su valor de parte del aceptante;
+
+4.- La persona obligada a llevar contabilidad, respecto de los libros a que se refiere el N° 4 del artículo 1°; y
+
+5.- Quienes suscriban u otorguen el documento gravado, en los casos no previstos en los números anteriores, a prorrata de sus intereses, sin perjuicio de que pueda pactarse la división del gravamen en forma distinta. Sin embargo, el Fisco podrá perseguir la totalidad del tributo respecto de cualquiera de los obligados a su pago;
+
+6.- El emisor por los pagarés, bonos, debentures y otros valores que den cuenta de captaciones de dinero, tratándose de emisiones de valores inscritas en el Registro de Valores, de conformidad a la ley N° 18.045, y
+
+7.- El deudor, en aquellos casos en que el acreedor o beneficiario del documento afecto a los impuestos de esta ley no tenga domicilio o residencia en Chile.
+
+> **Nota.** El artículo 10, letra C, de la LEY 18682, publicada el 31.12.1987, dispone que la modificación al presente artículo rige a partir desde la fecha de su publicación.
+
+> **Nota.** NOTA 1: El Art. 1º de la LEY 20291, publicada el 15.09.2008, dispuso que la modificación introducida en el presente artículo rige a contar del 1º de octubre de 2008.
+
+#### Artículo 10°
+
+Tratándose del impuesto del artículo 3°, corresponderá al banco o a la entidad que venda las divisas recargar en el valor de la operación el impuesto e ingresarlo en arcas fiscales, debiendo para dicho efecto solicitar la documentación que señale el Servicio de Impuestos Internos. En los demás casos, el pago del impuesto será efectuado por el importador o quien ingrese la mercadería a zona franca.
+
+#### Artículo 11°
+
+Los impuestos que establece el artículo 4° serán de cargo de los funcionarios que autoricen los documentos o practiquen las actuaciones a que se refiere dicha norma, estando facultados para recuperar su valor de los interesados.
+
+No obstante, no se devengarán dichos tributos si las partes intervinientes gozan de exención personal total de los impuestos que establece esta ley o los documentos dan cuenta únicamente de actos o contratos beneficiados con la exención real total de los mismos.
+
+Si la franquicia que beneficia a las partes o a los actos y contratos que otorgan o celebren fuere parcial, se devengarán en su integridad los impuestos del artículo 4°. Los mencionados funcionarios deberán, además, retener los impuestos que afecten a los actos y contratos contenidos en las escrituras públicas y privadas y a los documentos, que autoricen o protocolicen, salvo en el caso que las escrituras privadas y documentos que les presenten hubiesen pagado los impuestos correspondientes o que deban pagarlos con arreglo a lo dispuesto en el N° 2 del artículo 15°.
+
+#### Artículo 12°
+
+En los actos, contratos u otras convenciones celebrados por medio de mandatario o representante, éste será solidariamente responsable del pago del impuesto.
+
+#### Artículo 13°
+
+El contribuyente que recibiere un documento sin el impuesto respectivo, podrá pagar el impuesto correspondiente dentro de los 15 días siguientes a su recepción, sin que se le aplique sanción alguna. Se presumirá legalmente que la fecha de recepción es la misma del otorgamiento.
+
+## Título IV
+
+Del pago del impuesto
+
+#### Artículo 14°
+
+Los impuestos del presente decreto ley se devengan al momento de emitirse los documentos gravados, o al ser suscritos por todos sus otorgantes, a menos que se trate de documentos emitidos en el extranjero, caso en el cual se devengarán al momento de su llegada al país, o al ser protocolizados o contabilizados, según corresponda. En todo caso, tratándose de operaciones de crédito de dinero provenientes del extranjero en las que no se hayan emitido o suscrito documentos, el impuesto se devengará al ser contabilizadas en Chile.
+
+Inciso Segundo: DEROGADO.-
+
+VER NOTA 5
+
+El impuesto del Título I de esta ley, que grava a los pagarés, bonos, debentures y otros valores que dan cuenta de captaciones de dinero, correspondientes aVER NOTA 6 emisiones de valores inscritas en el Registro de Valores, de conformidad a la ley N° 18.045, se devengará al momento de la colocación de los referidos títulos.
+
+INCISO DEROGADO
+
+Cuando el impuesto del artículo 3° deba ser ingresado en arcas fiscales por el banco o entidad que venda la moneda extranjera, el tributo se devengará al momento de dicha venta. En los demás casos,VER NOTA 2 el impuesto se devengará cuando se efectúe el pago al exterior.
+
+> **Nota.** El Art. 1º de la LEY 20291, publicada el 15.09.2008, dispuso que la modificación introducida en el presente artículo rige a contar del 1º de octubre de 2008.
+
+#### Artículo 15°
+
+Salvo norma expresa en contrario los impuestos de la presente ley deberán pagarse dentro de los siguientes plazos:
+
+N° 1.- Instrumentos privados y otros documentos, dentro de los cinco primeros días hábiles a contar de su emisión, esto es, de ser suscritos por sus otorgantes.
+
+N° 2.- Los contribuyentes obligados a declarar su renta efectiva mediante un balance general determinado de acuerdo a contabilidad completa, para los efectos de la Ley de la Renta, dentro del mes siguiente a aquel en que se emiten los documentos.
+
+No obstante, los impuestos que gravan los documentos a que se refieren los Nos. 2 y 4 del artículo 1° deberán pagarse, en todo caso, anticipadamente al momento de solicitar su autorización al Servicio de Impuestos Internos o al Organismo que el Director de ese Servicio designe.
+
+N° 3.- Los bancos, cuando sean el primer responsable del pago del impuesto, y por los documentos que emitan o se tramiten ante ellos: dentro del mes siguiente de efectuado el protesto, emitidos los documentos o admitidos éstos a tramitación, según corresponda.
+
+N° 4.- El impuesto del artículo 3°, dentro del mes siguiente a aquel en que se devengue.
+
+N° 5.- Por los documentos y actas de protesto de letras de cambio y pagarés a que se refiere el artículo cuarto.
+
+a) Dentro del plazo de sesenta días corridos a contar de la fecha de otorgamiento de la escritura pública, aun cuando no haya sido autorizada por el respectivo funcionario y siempre que el notario no la haya dejado sin efecto;
+
+b) Dentro del mes siguiente a la fecha en que se autorizaron o protocolizaron las escrituras privadas o se efectuó la actuación tratándose de protesto de letras de cambio y pagarés.
+
+Los impuestos que según lo dispone el artículo 11° deben retener los funcionarios allí indicados, dentro de los mismos plazos señalados en las letras anteriores, según corresponda.
+
+> **Nota.** El Art. 1º de la LEY 20291, publicada el 15.09.2008, dispuso que la modificación introducida en el presente artículo rige a contar del 1º de octubre de 2008.
+
+#### Artículo 16°
+
+Los notarios y los Oficiales del Registro Civil que autoricen o protocolicen escrituras públicas o privadas o documentos afectos a los impuestos de esta ley, serán responsables del pago de dichos tributos, sin perjuicio de su derecho a retener estos gravámenes y salvo que se trate de documentos que deban pagar los tributos con arreglo a lo dispuesto en el N° 2 del artículo 15°.
+
+#### Artículo 17°
+
+Los impuestos establecidos en esta ley se pagarán:
+
+1.- Por ingreso en dinero en la Tesorería, acreditándose el pago con el respectivo recibo, por medio de un timbre fijo o mediante el empleo de máquinas impresoras, y
+
+2.- En el caso a que se refiere el N° 1 del artículo 15°, también podrán pagarse los impuestos mediante el uso de estampillas.
+
+Para los efectos de controlar el pago del impuesto, las letras de cambio y demás documentos señalados en el N° 3 del artículo 1° que emitan los contribuyentes a que se refiere el N° 2 del artículo 15°, deberán numerarse correlativamente, timbrarse y registrarse en el Servicio de Impuestos Internos, sin perjuicio del cumplimiento de otros requisitos que determine el Director del citado Servicio.
+
+Las exigencias contenidas en el inciso anterior serán aplicables, en todo caso, a las facturas, las cuentas o los documentos que hagan sus veces y a los libros de contabilidad.
+
+#### Artículo 18°
+
+El Director del Servicio de Impuestos Internos podrá autorizar o imponer el pago del impuesto en otras formas que las señaladas en el artículo anterior, estableciendo los procedimientos, exigencias y controles que estíme conveniente para el debido resguardo fiscal.
+
+Podrá, también, para los efectos de aplicar lo dispuesto en el N° 2 del artículo 15°, exigir respecto de las facturas, letras y demás documentos mencionados en ese número los antecedentes que estos documentos deban consignar para un mejor control sin perjuicio de las obligaciones que establezcan otras leyes y reglamentos, y ordenar que el timbraje de los documentos pueda efectuarlo otro organismo distinto al Servicio de Impuestos Internos.
+
+Asimismo, el Director mencionado podrá suprimir requisitos, cuando ellos dificulten la modalidad normal de operar de los contribuyentes, y sustituirlos por otros que resguarden debidamente el interés fiscal.
+
+#### Artículo 19°
+
+El tipo, forma y características de las estampillas, de las facturas, de las letras de cambio y de los pagarés se determinará por decreto del Ministerio de Hacienda.
+
+La misma autoridad podrá en cualquier momento modificar los tipos, forma y características de estas especies y establecer y renovar los plazos de validez para el uso del timbre fijo y estampillas.
+
+En todo caso, podrá usarse estampillas con el timbre anterior durante los seis primeros meses de vigencia de la renovación.
+
+#### Artículo 20°
+
+Las Tesorerías Fiscales y Oficinas de Correo y Estafetas, venderán al público estampillas por su valor nominal.
+
+#### Artículo 21°
+
+Las estampillas que se empleen para el pago del impuesto deberán inutilizarse perforándolas junto con el documento al cual están adheridas, con la fecha abreviada y con la firma de cualquiera que lo suscriba.
+
+La fecha y la firma deberán abarcar parte del documento y parte de las estampillas que se trate de inutilizar.
+
+Al colocar las estampillas se prohibe superponer una sobre otra u otras.
+
+Podrán ser inutilizadas asimismo por cualquier otro medio que lo demuestre ostensiblemente a juicio del Director del Servicio de Impuestos Internos.
+
+Las oficinas públicas, bancos, empresas, sociedades o particulares que por la naturaleza de su giro tengan que emplear estampillas en los documentos que emiten, podrán ser autorizados por el Servicio de Impuestos Internos para usar un timbre especial en su inutilización. Los timbres serán perforadores-sacabocados, constarán por lo menos de dos letras y no deberán inutilizar lo escrito en el documento.
+
+#### Artículo 22°
+
+El empleo de máquinas timbradoras de impuestos será autorizado por el Servicio de Impuestos Internos siempre que no exista perjuicio para el interés fiscal, debiendo señalarse en la resolución que lo autorice las obligaciones del usuario.
+
+## Título V
+
+De las exenciones
+
+#### Artículo 23°
+
+Sólo estarán exentas de los impuestos que establece el presente decreto ley, las siguientes personas e instituciones:
+
+1.- El Fisco.
+
+2.- Las Municipalidades.
+
+3.- Las Universidades del Estado y demás Universidades reconocidas por éste y el Consejo de Rectores.
+
+4.- Las representaciones de naciones extranjeras acreditadas en el país, y las instituciones internacionales a que Chile pertenezca y respecto de las cuales se haya estipulado la exención de todo impuesto, cualquiera sea su naturaleza, o, específicamente, la liberación de los tributos que afecten a los documentos.
+
+5.- Sociedad Constructora de Establecimientos Educacionales S. A.
+
+6.- Sociedad Constructora de Establecimientos Hospitalarios S. A.
+
+7.- Cuerpo de Bomberos.
+
+8.- Cooperativas, de conformidad con lo establecido en el R. R. A. 20, de 1963.
+
+9.- Instituciones con personalidad jurídica cuyo fin sea el culto.
+
+10.- Fundación Niño y Patria e Instituto de Viviendas Populares INVICA.
+
+11.- Cruz Roja Chilena y la Fundación Nacional del Niño Rural.
+
+12.- Consejo Nacional de Protección a la Ancianidad CONAPRAN-, Corporación de Ayuda al Menor-CORDAM-, Corporación de Ayuda al Niño Limitado-COANIL- y Hogar de Niños Arturo Prat.
+
+13.- El Instituto de Normalización Previsional.
+
+> **Nota.** NOTA: 7 La modificación introducida por la ley 18689 rige a partir del día 1° del mes subsiguiente al de su publicación, efectuada el 20 de enero de 1988. (Ley 18689, artículo 17).
+
+#### Artículo 24°
+
+Sólo estarán exentos de los impuestos que establece el presente decreto ley, los documentos que den cuenta de los siguientes actos, contratos o convenciones:
+
+1.- Documentos que den cuenta o se emitan en relación con préstamos o créditos otorgados del exterior por organismos financieros multilaterales, y los relativos a la emisión de bonos que se coloquen en el exterior emitidos o suscritos por el Fisco o el Banco Central de Chile.
+
+2.- Documentos que den cuenta de operaciones, actos o contratos exentos, en conformidad al decreto supremo N° 1.101, del Ministerio de Obras Públicas, de 1960, que fija el texto definitivo del D.F.L. N° 2, sobre Plan Habitacional; a la ley N° 16.807, de 1968, que fija el texto definitivo del D.F.L. N° 205, de 1960, sobre Sistemas de Ahorro y Préstamos para la Vivienda; a la ley N° 16.528, de 1966, sobre Estímulos a las Exportaciones; y las operaciones, actos y contratos que realicen los Servicios Regionales y Metropolitano de Viviendas y Urbanismo, a que se refiere el decreto ley número 1.305, de 1976.
+
+3.- Bonos, pagarés, vales de impuesto, letra de cambio y demás actos y contratos mencionados en el artículo 1° N° 3 de este decreto ley, emitidos o aceptados por el FisVER NOTA 4.-co.
+
+4.- DEROGADO
+
+5.- DEROGADO.-
+
+6.- Documentos otorgados por bancos o instituciones financieras en las operaciones de depósito o de captación de capitales, de ahorrantes e inversionistas locales, cuando éstos den cuenta de operaciones de crédito de dinero y sean necesarios para la realización de estas operaciones. Quienes actúen en estas operaciones como mandatarios, o en ejercicio de cualquier otro encargo fiduciario, deberán indicar bajo su propia responsabilidad el lugar de domicilio y residencia de la persona por quien actúan.
+
+La lista de tales documentos será determinada por resolución del Director del Servicio de Impuestos Internos, previo informe favorable del Banco Central de Chile.
+
+7.- Las Aceptaciones Bancarias Latinoamericanas-ALALC (ABLAS).
+
+8.- Los actos y contratos que se ejecuten o celebren en la provincia de la Isla de Pascua por personas domiciliadas en ella respecto de actividades o bienes que digan relación con ese mismo territorio.
+
+9.- Contratos de apertura o líneas de créditos e instrumentos en que se documenten dichas líneas o contratos de apertura, sin perjuicio de pagaVER NOTA 4.-rse el impuesto de que trata el N° 3 del artículo 1° de este decreto ley, respecto de todas y cada una de las operaciones de crédito que se realicen en virtud de lo pactado en la apertura o línea de crédito.
+
+10.- Documentos necesarios para efectuar las importaciones de bienes internados al amparo de las franquicias establecidas en el inciso vigésimo tercero del artículo 35 de la ley N° 13.039, como asimismo, los documentos necesarios para efectuar las importaciones de CKD y SKD que efectúen las industrias terminales acogidas al régimen de compensación que regula el inciso tercero del artículo 3° de la ley N° 18.483.
+
+11.- Los documentos necesarios para efectuar operaciones de crédito de dinero destinadas al financiamiento de exportaciones. La Comisión para el Mercado Financiero determinará, mediante resoluciones generales, los documentos que tienen tal carácter.
+
+12.- Las cartas de crédito para importaciones que se abran con fondos propios del importador.
+
+13.- Documentos donde conste el otorgamiento de mutuos por parte de la Corporación de Fomento de la Producción a bancos, a otras instituciones financieras y a empresas de leasing.
+
+14.- DEROGADO
+
+15.- Los créditos otorgados desde el exterior a bancos o instituciones financieras locales, con el exclusivo objeto de financiar operaciones de importación o internación de mercaderías al país, o bien que tengan por único objeto ser colocados en el exterior.
+
+16.- Los documentos necesarios para el otorgamiento de préstamos y demás operaciones de crédito de dinero, por parte de Bancos e Instituciones Financieras, desde Chile hacia otros países. La Comisión para el Mercado Financiero determinará las características que deben tener los documentos para gozar de esta exención.
+
+17.- Los documentos que se emitan o suscriban con motivo de una operación de crédito de dinero, a excepción de las líneas de crédito, concedidas por instituciones financieras constituidas o que operen en el país por el monto que se destine exclusivamente a pagar préstamos otorgados por esta clase de instituciones, en tanto dichos préstamos no correspondan al uso de una línea de crédito. Asimismo, para hacer efectiva esta exención, se requiere que al momento del otorgamiento del crédito que se paga, el Impuesto de Timbres y Estampillas devengado por los documentos emitidos o suscritos con ocasión del crédito original, se hubiese pagado efectivamente. Igualmente esta exención se aplicará cuando los documentos en que conste el préstamo que se paga se hubieren acogido a lo dispuesto en este número. Para que opere esta exención, tanto el crédito que se paga como el destinado a dicho pago, deberán haber sido otorgados por alguna institución financiera sujeta a la fiscalización de la Comisión para el Mercado Financiero o la Superintendencia de Seguridad Social.
+
+Con todo, en el caso que los documentos que se emitieron, suscribieron u otorgaron con motivo del crédito original no hubieren satisfecho la tasa máxima establecida en el N° 3 del artículo 1° de este decreto ley, la exención que se establece en este numeral sólo se aplicará, sobre la base imponible mencionada en el inciso siguiente, hasta por aquella parte en que la tasa de impuesto correspondiente al plazo del nuevo crédito, más la tasa correspondiente al plazo del crédito original, excede la tasa máxima.
+
+Esta exención se aplicará sólo respecto de aquella parte del nuevo crédito, destinado a pagar el monto insoluto del préstamo original, incluyendo los intereses y comisiones que se cobren con ocasión del pago anticipado del mismo. En caso alguno se comprenderá en esta exención, aquella parte del nuevo crédito destinado a pagar intereses originados en la mora del crédito original. La exención comprenderá también los gastos que se cobren por el otorgamiento del nuevo crédito. Sin embargo, si el nuevo crédito considera sumas mayores destinadas a fines distintos del pago del crédito anterior, se considerarán comprendidos en esta parte de la exención sólo la fracción de los gastos asociados al otorgamiento del nuevo crédito equivalente a la proporción que represente el monto insoluto del crédito original en relación al nuevo crédito.
+
+Cuando el crédito que se paga hubiere sido otorgado a más de una persona, la exención favorecerá a todos los deudores.
+
+Para acreditar el cumplimiento de las condiciones que hacen procedente esta exención, se deberá insertar en la escritura respectiva, un certificado de la institución financiera que otorgó el crédito original o del legítimo cesionario del crédito en su caso, señalando el monto a que asciende el pago. Además, dicho certificado deberá indicar en forma específica, el monto de los intereses y comisiones que se cobran. Asimismo, este certificado deberá contener la fecha de otorgamiento del crédito que se paga; el número, serie o folio del documento que da cuenta o registra el crédito original. Sólo en los casos que la entidad que otorgó el crédito que se paga no hubiere informado previamente el otorgamiento del crédito al Servicio de Impuestos Internos, el referido certificado deberá indicar, además, la tasa del impuesto de esta ley que afectó al crédito que se paga, el monto del impuesto pagado efectivamente, el folio del formulario en que consta el pago del Impuesto de Timbres y Estampillas pagado, o la norma de exención parcial o total aplicada, cuando correspondiere. Si el crédito no constare en escritura, para que resulte procedente la exención, el referido certificado deberá adosarse al cuerpo del pagaré o del documento que se emita o suscriba con ocasión del crédito. De la misma manera, en el caso que el crédito destinado al pago fuere otorgado por una institución financiera distinta de la que otorgó el crédito original, el deudor deberá otorgar mandato a la institución financiera prestamista para que ésta pague el crédito original, directamente a la institución acreedora del mismo o a su legítimo cesionario, y en el caso que la institución prestamista sea la misma que otorgó el crédito original, el deudor deberá autorizar la imputación directa del crédito que se otorga al pago del crédito original.
+
+Para la aplicación de lo indicado en este número, se considerará no escrita toda disposición contractual, de cualquier naturaleza, que tenga por objeto impedir o entrabar la facultad de un deudor para obtener un crédito que se beneficie de esta exención.
+
+El interesado podrá requerir que el certificado a que se refiere el inciso quinto sea emitido con vigencia a una fecha determinada, de acuerdo a las instrucciones que al efecto emita el Servicio de Impuestos Internos mediante resolución, la cual en ningún caso podrá ser menor a treinta días hábiles. La solicitud del certificado podrá efectuarse de manera presencial o digital, debiendo emitirse, de manera digital o física, según sea solicitado, dentro de los tres días hábiles siguientes a la fecha de solicitud respectiva. En caso de que se solicite que el certificado sea emitido de forma virtual, éste deberá ser emitido con firma electrónica de conformidad a la ley Nº 19.799, sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación de Dicha Firma. La no emisión, la emisión extemporánea o incompleta, del certificado señalado se sancionará con una multa de entre una unidad tributaria mensual y una unidad tributaria anual por cada incumplimiento, la cual será aplicada por el Servicio de Impuestos Internos, de acuerdo al procedimiento establecido en el artículo 161 del Código Tributario, contenido en el artículo 1° del decreto ley N° 830, de 1974.".
+
+> **Nota.** NOTA 5.1: El artículo 89 de la Ley N° 18.840, publicada en el "Diario Oficial" de 10 de octubre de 1989, derogó, a contar del 1° de enero de 1990, el N° 5 del presente artículo.
+
+> **Nota.** NOTA 7.1: El artículo 7°, N° 2, de la Ley N° 19.065, publicada en el "Diario Oficial" de 25 de junio de 1991, estableció que lo dispuesto en el N° 6 del artículo 1°, regirá para los préstamos o créditos autorizados o registrados a contar de la publicación de esta ley en el Diario Oficial, así como para las renovaciones o prórrogas efectuadas a partir de dicha fecha de aquellos autorizados o registrados anteriormente. Respecto de las renovaciones o prórrogas, se tomará como fecha inicial para el cálculo del impuesto la contenida en la documentación que dé cuenta de éstas.
+
+> **Nota.** NOTA 7.2: La modificación introducida por la Ley N° 18.840, publicada en el "Diario Oficial" de 10 de Octubre de 1989, rige, según su ARTICULO CUARTO, sesenta días después de su publicación en el Diario Oficial.
+
+> **Nota.** NOTA 8: El Art. 1º Transitorio de la LEY 20219, publicada el 03.10.2007, dispuso que las modificaciones introducidas en el presente artículo rigen a contar del primer día del mes subsiguiente al de su publicación.
+
+> **Nota.** NOTA 9: El Art. 1º de la LEY 20291, publicada el 15.09.2008, dispuso que la modificación introducida en el presente artículo rige a contar del 1º de octubre de 2008.
+
+## Título VI
+
+De las infracciones
+
+#### Artículo 25°
+
+La infracción a las disposiciones del artículo 15°, N° 1 del presente decreto ley, hará acreedor al sujeto del impuesto o al responsable principal o solidario de su pago a una sanción equivalente al triple del impuesto inicialmente adeudado, sin perjuicio del pago del impuesto con los reajustes e intereses penales por su mora.
+
+Para la aplicación de las sanciones se seguirá el procedimiento del artículo 165°, N° 1, del Código Tributario.
+
+#### Artículo 26°
+
+Los documentos que no hubieren pagado los tributos a que se refiere el presente decreto ley, no podrán hacerse valer ante las autoridades judiciales, administrativas y municipales, ni tendrán mérito ejecutivo, mientras no se acredite el pago del impuesto con los reajustes, intereses y sanciones que correspondan.
+
+Lo dispuesto en el presente artículo no será aplicable respecto de los documentos cuyo impuesto se paga por ingreso en dinero en Tesorería y que cumplan con los requisitos que establece esta ley y el Servicio de Impuestos Internos.
+
+> **Nota.** NOTA: 8.- La Circular N° 84, publicada en el Diario Oficial de 28 de noviembre de 1980, del Servicio de Impuestos Internos, dispuso que la obligación que tienen los Notarios y Oficiales Civiles, de retener los impuestos de conformidad al artículo 11 del Decreto Ley N° 3.475, debe entenderse que el tributo que corresponda se considera pagado al momento que se efectúa la retención por parte de los mencionados funcionarios.
+
+#### Artículo 27°
+
+Sin perjuicio de la responsabilidad que tienen los ministros de fe en conformidad al artículo 16° de este decreto ley, respecto de los tributos que correspondan a los documentos que autoricen, protocolicen o archiven, y de las sanciones que afecten a sus emisores, los funcionarios que infrinjan las obligaciones que establece este decreto ley o el Código Tributario, o que autoricen, protocolicen o archiven documentos que no hubieren satisfecho los gravámenes respectivos, serán sancionados con la multa establecida en el artículo 109 del Código Tributario.
+
+## Título VII
+
+Disposiciones generales
+
+#### Artículo 28°
+
+Cuando por adolecer un acto o contrato de vicios que produzcan nulidad, o cuando por no haber producido efectos un acto o convención, deba celebrarse otro igual que sanee la nulidad o sea capaz de producir efectos, se imputará el monto del impuesto pagado en el primero al que corresponda al segundo que se celebre, sin que sea necesario que la nulidad o la ineficacia sean declaradas judicialmente.
+
+En estos casos, el Servicio de Impuestos Internos autorizará el abono administrativo del impuesto mediante aprobación de funcionario competente, dejándose constancia de ello en ambos documentos.
+
+El plazo para solicitar esta imputación será de un año contado desde el pago del impuesto.
+
+#### Artículo 29°
+
+No obstante el carácter documentario de los tributos de este decreto ley, el Servicio de Impuestos Internos dispondrá la devolución de un impuesto ingresado en arcas fiscales cuando el acto, contrato o convención que constituye su causa no llega, en definitiva, a otorgarse o celebrarse por no haberse firmado por todos sus otorgantes o haber sido dejado sin efecto por el notario o haberse anulado judicialmente el acto o contrato que originó su pago.
+
+El plazo para solicitar dicha devolución será de un año, contado desde la fecha que corresponda al pago del tributo o a la resolución que declaró la nulidad, según el caso.
+
+Respecto de los impuestos pagados mediante estampillas o timbre fijo, no procederá devolución alguna.
+
+#### Artículo 30°
+
+Las tasas fijas de este decreto ley podrán reajustarse semestralmente por medio de un decreto supremo hasta en un 100% de la variación que experimente el Indice de Precios al Consumidor en los periodos comprendidos entre el 1° de Noviembre y el 30 de Abril y entre el 1° de Mayo y el 31 de Octubre del año siguiente, con vigencia desde el 1° de Julio y desde el 1° de Enero del año que corresponda, respectivamente.
+
+En uso de esta facultad, se podrá reajustar todas o algunas de las tasas fijas, como también fijar porcentajes de reajustes distintos respecto de una o más de ellas.
+
+#### Artículo 31°
+
+Para los efectos de fijar el monto de las tasas fijas del presente decreto ley, resultante de aplicar el reajuste señalado en el artículo anterior, en el decreto que se dicte semestralmente al efecto se señalará el porcentaje de reajuste y se establecerá el nuevo monto de las tasas fijas, de acuerdo con las siguientes normas:
+
+a) Se elevarán al décimo de peso inmediatamente superior las fracciones menores de dicha cantidad, si la tasa fuere inferior a ($ 10.-), y b) Si la tasa fuere igual o superior a diez pesos ($ 10.-), se elevarán a la unidad de pesos superior las fracciones de menos de un peso ($ 1.-), siempre que sean iguales o superiores a cinco décimos de peso, despreciándose las fracciones inferiores a dicha cantidad.
+
+#### Artículo 32°
+
+El presente decreto ley empezará a regir desde el día 1° del mes subsiguiente al de su publicación en el Diario Oficial. En esa misma fecha quedará derogado el decreto ley N° 619, de 1974.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejercito, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio de Castro Spikula, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Seguel Morel, Teniente Coronel, Subsecretario de Hacienda.
