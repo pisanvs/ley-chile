@@ -1,0 +1,3 @@
+Por decreto MOP. N° 58, de 30 de enero de 1998, se expropió el lote de terreno N°53, superficie 188 m2., rol de avalúo 190-59, Comuna de Longaví, para la obra Camino Ruta 5, Longitudinal Sur, sector San Javier-Parral l, Tramo B, km. 297.257,36 al km. 317.751,97, y se acordó precio de la indemnización con Sociedad Inversiones Las Hidalgas Ltda., ascendente a la cantidad de $1.234.200.-
+
+Fiscal del Ministerio de Obras Públicas.
