@@ -1,0 +1,9 @@
+Por decreto MOP exento Nº 633 de 30 de junio de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron para el Fisco los lotes de terreno Nºs. 1, 2, 3, 4, 5, 9, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25 y 32 para la obra: Camino Ruta 7 (Longitudinal Austral), Sector Chaitén Ex Pozos de Empréstitos, Tramo Km.
+
+0,000 a Km. 13,07086, que figuran a nombre de Agüero Sánchez Candelaria, Vega Llanos Nicanor, Vivar Santana Sandra Ariela, Bilbao U. y Cía. Ltda., Fisco, Cailec Torres Francisco, Alderete Oroz Nelson Ruperto, Medrano Cárdenas Gonzalo Armando, Gallardo Contreras José, Chavol Legue Alejandro y Venegas Venegas Ezio Ernesto, Roles de Avalúos 206-11, 205-4, 203-71, 204-26, 206-29, 203-30, 204-28, 204-34, 204-35 y 204-40, comuna de Chaitén, X Región, superficies 767 m²; 127 m²; 2.405 m²; 203 m²; 4.967 m²; 721 m²; 2.747 m²; 1.345 m²; 592 m²; 1.110 m²; 1.046 m²; 489 m²; 476 m²; 370 m²; 1.230 m²; 3.795 m² y 3.093 m². La Comisión de Peritos fijó con fecha 2 de febrero de 2000, el monto de la indemnización provisional en la cantidad de $683.600.-, para el lote Nº 1, $114.300.-, para el lote Nº 2;
+
+$2.164.500.-, para el lote Nº 3; $543.000.-, para el lote Nº 4; $2.406.800.-, para el lote Nº 5; $216.300.-, para el lote Nº 9; $1.321.400.-, para el lote Nº 15; $299.000.-, para el lote Nº 16; $355.200.-, para el lote Nº 17; $333.000.-, para el lote Nº 18; $1.254.200.-, para el lote Nº 19; $342.300.-, para el lote Nº 20; $328.000.-, para el lote Nº 21;
+
+$645.000.-, para el lote Nº 23; $384.000.-, para el lote Nº 24; $1.279.000.-, para el lote Nº 25 y $927.900.-, para el lote Nº 32. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
