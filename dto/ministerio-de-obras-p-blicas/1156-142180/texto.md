@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.156, de 30 de abril de 1999, se expropiaron los lotes de terreno Nºs. 4 y 12, superficies 1.033 y 145 m², roles de avalúo 221-14 y en trámite, comuna de Rengo, para la obra Construcción Pasarelas Peatonales y Puentes, Sexta Región, sector Caminos de Acceso al Puente Popeta H-521, Acceso Sur y se acordó precio de indemnización con sus propietarios Ida Sofía Dorn Schurter y otros y Pedro Segundo Espinoza Jorquera y otra, ascendente a las cantidades de $10.268.665 y $722.649.
+
+- Fiscal del Ministerio de Obras Públicas.
