@@ -1,0 +1,3 @@
+Por decreto MOP Nº 693 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº12-Q, superficie 212,00 m2, rol de Avalúo Nº 1507-12, comuna de Valparaíso, para la obra "Habilitación Nuevo camino La Pólvora, Km. 17,86424 a Km. 22,47179, Sector 3, Quebrada Las Animas - Puerto Valparaíso, comuna y provincia de Valparaíso", Quinta Región y se acordó el valor de la indemnización con su propietaria Eliana Rosa Osorio Marín, ascendente a la cantidad de $7.075.673.
+
+- Fiscal del Ministerio de Obras Públicas.
