@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.055, de 30 de julio de 1999, se expropiaron los lotes de terreno No. s. 151 y 152-A, superficies 26.021,0 m2. y 3.482,0 m2., rol de avalúo 362-16, comuna de Loncoche, para la obra "Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno", Novena Región y se acordó el valor de indemnización con sus propietarios Sofanor Garrido Medina y Otra, ascendente a la cantidad total de $ 31.880.675.-
+
+Fiscal del Ministerio de Obras Públicas.
