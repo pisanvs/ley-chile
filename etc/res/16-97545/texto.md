@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION DE INMUEBLE QUE INDICA
+
+Resolución Nº16 de fecha 2 de marzo de 1998, Serviu VI Región del Libertador Bernardo O'Higgins, ordenó expropiación inmueble ubicado en calle Freire Nº870 (Freire Nº850, según Título), Rol de Avalúo Nº339-3, comuna de Rancagua, superficie aproximada de 200,00 metros cuadrados, delimitada en el Polígono S-A-T-H-S conforme Plano Serviu VI Región U.E.P. - T 328 de aparente dominio de doña Raquel Moreno Navarro, dominio inscrito a fojas 598 vuelta Nº681 del Registro de Propiedad del Conservador de Bienes Raíces de Rancagua, correspondiente al año 1968, para ejecución Proyecto Mejoramiento Red Vial Sector Oriente de Rancagua, conforme artículo 51 Ley 16.391 y decreto ley 2.186. Comisión Tasadora de Peritos, arquitectos Sres. Eduardo González Brard, Oscar Novoa Vargas y René Corvalán Correa, según informe de fecha 10 de junio de 1997, fijó monto provisional indemnización en la cantidad de $62.886.400.-
+
+Director Serviu VI Región.
