@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Angol contratar empréstito o emitir bonos hasta $ 3.000,000, a fin atender a la construcción de un edificio que contenga las oficinas municipales, locales comerciales y una sala de espectáculos; establece para su servicio una contribución adicional de un 1% sobre los bienes raíces de la comuna.
