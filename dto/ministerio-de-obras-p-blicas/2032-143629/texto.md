@@ -1,0 +1,3 @@
+Por decreto MOP. No. 2.032, de 30 de julio de 1999, se expropiaron los lotes de terreno No. s. 134, 138-A, 138-B, 138-C, 138-D, 138-1, 139, 141 y 142, superficies 227 m²., 123 m²., 358 m²., 426 m²., 1.322 m²., 1.987 m²., 2.391 m²., 5.008 m². y 2.007 m²., rol de avalúo 602-21, comuna de Mulchén para la obra "Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli", Octava Región y se acordó el valor de indemnización con su propietario Bosques Cautín S.A., ascendente a la cantidad total de $ 11.709.460.-
+
+Fiscal del Ministerio de Obras Públicas.
