@@ -1,0 +1,3 @@
+Por resolución Nº 257, de 18 de febrero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por don ATILIO DEL CARMEN REYES BARRERA, de autorización para iniciar actividades pesqueras extractivas con la nave "Chubasco I", por no darse cumplimiento a lo dispuesto en el artículo 1º de la ley Nº 19.516, al no estar actualmente inscrita en el Registro Nacional de Pescadores Artesanales, sección merluza común, entre la V y IX regiones con red de arrastre.
+
+Valparaíso, 18 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
