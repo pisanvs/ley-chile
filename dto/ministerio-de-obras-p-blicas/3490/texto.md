@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.490, de fecha 31 de julio de 2000, se expropió el lote de terreno Nº 11-D, superficie 415 m², rol de avalúo 4-1, comuna de Constitución, para la obra ''Camino Ruta M-24-K con Ruta M-50 Sector: Accesos Puente Maule en Constitución Tramo: Km. 47.920 a Km. 53.820'' y se acordó el valor de indemnización con su propietaria Teresa de las Mercedes Concha Cáceres, ascendente a la cantidad de $4.066.722.
+
+Fiscal del Ministerio de Obras Públicas.
