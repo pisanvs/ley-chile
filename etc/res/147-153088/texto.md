@@ -1,0 +1,3 @@
+Por resolución Nº147, de 19 de enero de 2000 de esta Subsecretaría, autorízase a Pesquera Grimar S.A., para ampliar las actividades pesqueras de transformación que tiene autorizadas por resoluciones Nº285 de 1990, Nº1.751 de 1998 y Nº789 de 1999, todas de esta Subsecretaría, en orden a operar una planta ubicada en Parque Industrial I Etapa camino a Coronel, VIII Región, donde podrá procesar en las líneas de elaboración de Congelado, Fresco-refrigerado, Salado, Ahumado, Embutido, Cocido, Apanado y Seco-salado el recurso hidrobiológico Orange roughy.
+
+Valparaíso, 19 de enero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
