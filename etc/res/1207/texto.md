@@ -1,0 +1,3 @@
+Por Resolución N° 1.207, de 22 de Diciembre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1 de la Resolución N° 614, de 1993, de esta Subsecretaría, por la cual se autorizó a PESQUERA EPERVA S.A., R.U.T. N° 91.643.000-0, para sustituir las naves "Angamos 5", "Eperva 32" y "Marsopa II" por la nave "Eperva 64", en el sentido de señalar que la capacidad de bodega de esta última es de 650 m3 y no como en dicha Resolución se indica.
+
+Valparaíso, 22 de Diciembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
