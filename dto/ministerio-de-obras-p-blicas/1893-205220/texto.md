@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.893, de fecha 29 de octubre de 2002, se expropió el lote de terreno Nº 81, superficie 6.126 m², rol de avalúo en trámite, comuna de Pelluhue, VII Región, para la obra ''Camino Chovellen - Cobquecura, Sector Chovellen - Límite Regional, Tramo Km. 18,260.00 al 35,158.60'' y se acordó el valor de indemnización con su propietario don Miguel Ignacio Vega Vega, ascendente a la cantidad de $11.267.334.-
+
+Fiscal del Ministerio de Obras Públicas.
