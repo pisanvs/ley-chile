@@ -1,0 +1,3 @@
+Por resolución Nº 1.810, de 9 de septiembre de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96103039, presentada por ALICIA EUSONIA VIVAR MIRANDA, para operar un centro de cultivo en un sector de Punta Couquencura, Isla Quinchao, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 9 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
