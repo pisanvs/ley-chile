@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.485, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 6-A y 9-A, superficies 359,65 y 454,86 m², rol de avalúo S/R, comuna de Vicuña, para la obra Embalse Puclaro, sector La Polvada, II Etapa Complementaria, y se acordó precio de indemnización con sus propietarios Osciel del Carmen Angel Flores y Lorenza del Carmen Cáceres, ascendentes a las cantidades de $4.271.366, el lote Nº6-A y $6.298.255, el lote Nº9-A.-
+
+Fiscal del Ministerio de Obras Públicas.
