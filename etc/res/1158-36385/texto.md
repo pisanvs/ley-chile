@@ -1,0 +1,3 @@
+Por Resolución N° 1.158, de 7 de Diciembre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 1.527, de 1989, de esta Subsecretaría, que autorizó a don MARCELINO CAIPICHUN CAIPICHUN, para operar un establecimiento de cultivo ubicado en el sector denominado Huayún, canal Quihua, comuna de Calbuco, provincia de Llanquihue, X Región, por haberse puesto término a la respectiva concesión marítima de acuicultura.
+
+Valparaíso, 7 de Diciembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
