@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.250 de 31 de agosto de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 23, para la obra: Camino Santa Cruz - Lolol, Sector Puente Naval 1, km. 21.000 a km. 26.052, que figura a nombre de Fernando Mujica Délano, rol de avalúo en trámite, comuna de Lolol, VI Región, superficie 150 m2. La Comisión de Peritos fijó con fecha 10 de enero de 1996, en la cantidad de $52.500.- lote Nº 23. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
