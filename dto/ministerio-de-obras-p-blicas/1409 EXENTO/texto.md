@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.409, de 28 de septiembre de 2001, se expropiaron los lotes de terreno Nºs 34 y 35, superficies 1.999 y 1.959 m2., rol de avalúo en trámite, comuna de El Tabo, para la obra Red Vial Litoral Central, Sector 3: Eje Costero Interior Subtramo Las Pataguas Quillaicillo, Quinta Región y sea acordó el valor de indemnización con su propietaria Inmobiliaria Nauantu Ltda., ascendente a la cantidad de $2.171.014.- para el lote Nº 34 y $2.073.946.- para el lote Nº 35.-
+
+Fiscal del Ministerio de Obras Públicas.
