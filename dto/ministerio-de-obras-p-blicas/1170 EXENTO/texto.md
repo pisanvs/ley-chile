@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.170 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 1, superficie 3.832 m2., Rol de Avalúo Nº 155-2, comuna de Pemuco, para la obra: "Canal Alimentador a Estero Río Seco, Km. 0,045 al 0,110 del Proyecto Laja Diguillín", VIII Región y se acordó el valor de indemnización con su propietario Carlos Mario Antonio Zurita Domínguez, ascendente a la cantidad de $2.727.196.-
+
+Fiscal del Ministerio de Obras Públicas.
