@@ -1,0 +1,3 @@
+Por decreto MOP Nº 331, de 28 de febrero de 2001, se expropió el lote de terreno Nº 11-1, superficie 1.772 m2, rol de avalúo 168-74, comuna de Maule, para la obra Concesión Internacional Ruta 5. Tramo: Talca - Chillán, Séptima Región y se acordó el valor de indemnización con su propietario Pedro Luis Enrique Medel Benítez, ascendente a la cantidad de $20.582.273.-
+
+Fiscal del Ministerio de Obras Públicas.
