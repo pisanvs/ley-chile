@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.857, de 19 de noviembre de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº120 para la obra: "Red Vial Litoral Central. Enlace Algarrobo Km.
+
+28.700,00 al Km. 29.740,00", Quinta Región, que figura a nombre de Castro Jofré Ofelia del Rosario, rol de avalúo 402-24, comuna de Algarrobo, superficie 5.065 m². La Comisión de Peritos integrada por los señores Pablo Antonio Aragón Bernal, Mónica del Carmen Conejeros Rudloff y Victoria Adriana Blanco Costa, fijó con fecha 1 de agosto de 2001, el valor provisional de la indemnización en la cantidad de $34.772.500.- La indemnización de pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
