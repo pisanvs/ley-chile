@@ -1,0 +1,3 @@
+Por resolución Nº122, de 25 de enero de 2001, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº224, de 1990, de esta Subsecretaría, que autorizó a la Sociedad Pesquera María Elena Ltda., hoy PESQUERA MARIA ELENA S.A., para operar la nave ''Don Gregorio'', sólo en lo relativo a las especies Coji-noba del sur Seriolella caerulea, Corvina Cilus gilberti, Merluza común Merluccius gayi y Merluza de tres aletas Micromesistius australis, en el litoral comprendido entre la V Región y el paralelo 43° L.S., por no haber iniciado operaciones dentro del plazo legal, conforme lo dispuesto en el artículo 143 letra b), de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 25 de enero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
