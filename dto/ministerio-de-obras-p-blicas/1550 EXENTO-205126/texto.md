@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.550 de fecha 29 de octubre de 2002, se expropió el lote de terreno Nº 1-A, superficie 65 m2, Rol Nº594-98, comuna de La Unión, X Región, para la obra ''Camino Ruta T-80, Sector La Unión - Las Trancas, tramo Km 0,900 al 10,99034'' y se acordó el valor de indemnización con su propietario Dagoberto O. Ríos Zúñiga, ascendente a la cantidad de $1.223.082.-
+
+Fiscal del Ministerio de Obras Públicas.
