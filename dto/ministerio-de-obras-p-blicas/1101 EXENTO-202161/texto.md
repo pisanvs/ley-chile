@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.101, de fecha 30 de julio del 2002, se expropió el lote de terreno Nº 48-A, superficie 741 m2, rol Nº 2209-28, comuna de Chillán, VIII Región para la obra ''Mejoramiento Ruta N-45, Sector Variante Cato, Km. 0,00000 a Km. 4,15551'' y se acordó el valor de indemnización con su propietario Soc. Agríc. y Ganadera Martín y Brahm Limitada, ascendente a la cantidad de $2.739.996.-
+
+Fiscal del Ministerio de Obras Públicas.
