@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº513, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 124, superficie 274 m2, rol de avalúo 208-14, comuna de Coelemu, VIII Región, para la obra ''Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 al 8,28000'' y se acordó el valor de indemnización con su propietario don Manuel Arístides Neira Baeza, ascendente a la cantidad de $570.349.-
+
+Fiscal del Ministerio de Obras Públicas.
