@@ -1,0 +1,7 @@
+NOTIFICACION
+
+Resolución 130, 5 abril 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº1117, Rol de Avalúo Nº 532-10 comuna Concepción, superficie 34,65 m². de terreno y 108,90 m². de edificación, dentro polígono y linderos señalados plano expropiación S8R-18420; de aparente dominio de Gaston Stevens Falcon, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 Ley 16.391 y D.L.
+
+Nº2.186. Comisión Peritos integrada por Eduardo Eliseo Rivera Gajardo, arquitecto, María Alejandra Gutiérrez Flores, arquitecto, y Gonzalo Melo Sáez, constructor civil, según informe de fecha 5 de marzo de 2004, fijó monto provisional indemnización en $7.477.074.-, pagadera de contado.-
+
+Carlos Ugarte Méndez, Director Serviu Región del Bío Bío.
