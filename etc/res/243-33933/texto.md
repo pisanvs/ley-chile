@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Por Resolución N° 243 de fecha 13 de diciembre de 1995 conforme artículo 51 Ley 16.391 y decreto supremo N° 68 de 1991 de Vivienda y Urbanismo, y para destinarlo al desarrollo de programas de viviendas del sector para años 1996 y siguientes, Serviu IX Región ordenó expropiación inmueble de 22.000 m2. de superficie ubicado en ciudad y comuna de Villarrica, Avenida Presidente Ríos con Gerónimo de Alderete, parte Rol de Avalúos N° 90354-001 comuna de Villarrica, de aparente dominio de Empresa de Ferrocarriles del Estado. Comisión peritos integrada señores Mario Molina Ramwell, constructor civil; Roberto Gesche Robert, ingeniero civil; y Mario Tillería Torres, arquitecto, fijó monto indemnización provisional suma de $65.924.000.- según informe de 13 de diciembre de 1995, pagadera contado.- María Paulina Bonilla Muñoz, Arquitecto,
+
+Director Serviu IX Región.
