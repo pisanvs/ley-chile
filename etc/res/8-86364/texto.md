@@ -1,0 +1,3 @@
+Por resolución Nº 8, de 6 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por PESCA CHILE S.A., para ampliar sus actividades pesqueras, con las naves "Boston Blenheim" matrícula 2247, "Boston Beverly" matrícula 2246 y "Cote Saint Jacques" matrícula 2787, en la captura del recurso hidrobiológico Orange roughy, por encontrarse su acceso transitoriamente cerrado, en virtud de lo dispuesto en el Artículo 1º del D.S. Nº 500 de 1997, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 6 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
