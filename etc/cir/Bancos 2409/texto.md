@@ -9550,9 +9550,9 @@ Las sociedades financieras deben tener en cuenta que los únicos instrumentos en
 
 2.1.4. Adquisición de Instrumentos de propia emisión.
 
-La adquisición de efectos de comercio aceptados o suscritos por la institución adquirente involucra el pago anticipado de la obligación. Por consiguiente, una institución financiera no puede incorporar esos efectos de comercio a su activo.
+La adquisición de efectos de comercio aceptados o suscritos por la institución adquirente involucra el pago anticipado de la obligación. Por consiguiente, una institución financiera no puede incorporar esos efectos de comercio a su activo. Por otra parte, el artículo 130 de la Ley N° 18.045 prohíbe a las sociedades emisoras adquirir sus propios bonos.
 
-Al tratarse de letras de crédito y bonos, las instituciones financieras podrán adquirirlos como inversión, dentro de los límites que para el efecto ha establecido el Banco Central de Chile en el Capítulo III.B.2 de su Compendio de Normas Financieras y que se tratan en el Capítulo 12-11 de esta Recopilación Actualizada de Normas.
+Al tratarse de letras de crédito, las instituciones financieras podrán adquirirlos como inversión, dentro de los límites que para el efecto ha establecido el Banco Central de Chile en el Capítulo III.B.2 de su Compendio de Normas Financieras y que se tratan en el Capítulo 12-11 de esta Recopilación Actualizada de Normas.
 
 2.2. Venta de Instrumentos de la cartera de Inversiones financieras.
 
@@ -9630,25 +9630,23 @@ Las inversiones en oro sellado, amonedado o en pasta, quedarán registradas en l
 
 5. Reconocimiento de las variaciones en los precios de mercado de los instrumentos con mercado secundario.
 
-Sin perjuicio de que las inversiones quedarán, al cierre de cada mes, registradas en sus respectivas cuentas de acuerdo con el criterio de valorización señalado en el N° 4 precedente, las instituciones financieras deberán reconocer mensualmente el efecto de las variaciones en los precios de los instrumentos con mercado secundario de su cartera de inversiones financieras, con excepción de aquellos instrumentos cuyo plazo remanente para su vencimiento sea igual o inferior a un año y de las letras de crédito y bonos de propia emisión.
+Sin perjuicio de que las inversiones quedarán, al cierre de cada mes, registradas en sus respectivas cuentas de acuerdo con el criterio de valorización señalado en el N° 4 precedente, las instituciones financieras deberán reconocer mensualmente el efecto de las variaciones en los precios de los instrumentos con mercado secundario de su cartera de inversiones financieras, con excepción de aquellos instrumentos cuyo plazo remanente para su vencimiento sea igual o inferior a un año.
 
 Los ajustes contables provenientes de estos reconocimientos, se registrarán de la forma dispuesta en el numeral 7.4 de este Capítulo.
 
 5.1. Valor de mercado Informado por esta Superintendencia.
 
-Para los efectos de efectuar los ajustes de que se trata, esta Superintendencia entrega mensualmente a las instituciones financieras los valores de mercado que deben considerarse para instrumentos financieros, los que están referidos al día 25 de cada mes.
+Para los efectos de efectuar los ajustes de que se trata, esta Superintendencia entrega mensualmente a las instituciones financieras, en un archivo magnético, los valores de mercado que deben considerarse para instrumentos financieros, los que están referidos al día 25 de cada mes.
 
-Las instituciones pueden optar entre obtener esta información en un listado o en un archivo magnético.
-
-En ese listado o archivo magnético se identifica cada instrumento, su emisor y su fecha de emisión. El código de unidad indexada que aparece, corresponde a la moneda en que fue emitido originalmente cada título, pudiendo referirse a pesos, unidades de fomento, índice valor promedio o monedas extranjeras. El valor unitario aparece expresado en la forma de un factor que representa el valor comercial como porcentaje del valor del capital original adeudado por el emisor, es decir, el valor nominal de los títulos antes de que hayan ocurrido amortizaciones o devengos de intereses.
+En ese archivo magnético se identifica cada instrumento, su emisor y su fecha de emisión. El código de unidad indexada que aparece, corresponde a la moneda en que fue emitido originalmente cada título, pudiendo referirse a pesos, unidades de fomento, índice valor promedio o monedas extranjeras. El valor unitario aparece expresado en la forma de un factor que representa el valor comercial como porcentaje del valor del capital original adeudado por el emisor, es decir, el valor nominal de los títulos antes de que hayan ocurrido amortizaciones o devengos de intereses.
 
 Para obtener el valor de mercado, el factor o valor unitario debe multiplicarse por el valor del capital original adeudado por el emisor y luego, si es que corresponde, debe ser convertido a pesos de acuerdo con el valor de la unidad de fomento o del índice de valor promedio vigente el último día del mes a que corresponde la información. El valor en pesos o moneda extranjera que se obtenga se debe comparar con el valor contable de cada inversión para los efectos de efectuar los ajustes de que trata el numeral 7.4 de este Capítulo. Sin embargo, cuando en algún título informado se hayan producido amortizaciones de capital o de intereses entre el día 26 y el último día del mes, el precio de mercado obtenido en la forma antes descrita deberá rebajarse por un monto igual al importe que se haya recibido de parte del emisor.
 
-Con todo, la institución financiera que tenga motivos fundados para estimar que un instrumento tiene un valor de realización inferior al valor de mercado establecido de la forma señalada en el párrafo precedente, podrá considerar para los efectos del ajuste a que se refiere el numeral 7.4 de este Capítulo, el valor de mercado que ella misma determine, siempre que éste quede debidamente justificado.
+Con todo, si la institución financiera considera que el valor determinado para un instrumento de la forma señalada en el párrafo precedente, resulta excesivo en relación con el precio de mercado que ella misma ha estimado con suficientes fundamentos, podrá reemplazarlo por este último para los efectos del ajuste a que se refiere el numeral 7.4 de este Capítulo.
 
 5.2. Valor de mercado de instrumentos sin precio informado por esta Superintendencia.
 
-En el caso que para algunos de los instrumentos financieros señalados esta Superintendencia no entregue precios para efectuar la valoración al último día de un determinado mes, las instituciones deberán efectuar una estimación, debidamente fundamentada, de los valores de mercado de los respectivos documentos.
+Para todos los instrumentos que no se incluyan en la información que entrega esta Superintendencia, sean éstos emitidos en el país o en el exterior, las instituciones financieras deberán efectuar, con la debida fundamentación, la mejor estimación de los valores de mercado de tales instrumentos al cierre de cada mes.
 
 En estos casos, las instituciones financieras deberán conservar en un archivo especial, para eventuales revisiones de esta Superintendencia, la nómina de estas inversiones con los respectivos valores de mercado utilizados en el ajuste mensual a que se refiere el numeral 7.4 de este Capítulo y los antecedentes de respaldo que justifican la aplicación de esos precios.
 
@@ -9676,7 +9674,7 @@ Un procedimiento similar al descrito en el párrafo precedente, se seguirá en e
 
 Las inversiones financieras se registrarán en las partidas, cuentas y subcuentas que se disponen para el efecto en el Anexo N° 1 de este Capítulo.
 
-Al tratarse de inversiones en documentos expresados en moneda extranjera pagaderos en moneda chilena, las inversiones se registrarán en pesos, debiendo reajustarse de acuerdo con la variación que experimente el tipo de cambio que se expresa en el respectivo documento, salvo en el caso de los Certificados de Depósito expresados en dólares de los Estados Unidos de América - Acuerdo 1649-01-850524, los que deben mantenerse registrados en moneda extranjera, solucionando los importes por rescates o sustituciones, cuando corresponda, contra la cuenta "Conversión cartera de colocaciones en moneda extranjera vendida al Banco Central de Chile", de la partida 2510.
+Al tratarse de inversiones en documentos expresados en moneda extranjera pagaderos en moneda chilena, las inversiones se registrarán en pesos, debiendo reajustarse de acuerdo con la variación que experimente el tipo de cambio que se expresa en el respectivo documento.
 
 7.3. Reajustes e Intereses.
 
@@ -9686,25 +9684,7 @@ El valor de compra de cada instrumento se incrementará por el devengo de los re
 
 Cuando se trate de documentos con tasa nominal flotante, se ajustará periódicamente la tasa de compra considerando los nuevos flujos en relación con el valor contable registrado antes de la variación de la tasa nominal.
 
-7.3.2. Certificados de depósito expresados en dólares de los Estados Unidos de América.- Acuerdo N° 1649.
-
-En el caso de las inversiones correspondientes a los certificados de depósito expresados en moneda extranjera y pagaderos en pesos que se adquirieron en su oportunidad conforme al Acuerdo N° 1649-01-850524 del ex-Comité Ejecutivo del Banco Central de Chile, los intereses deberán abonarse en moneda chilena a la respectiva cuenta de ingresos, pero incrementando en moneda extranjera la cuenta en que se registra la inversión.
-
-Para este efecto, las instituciones financieras contabilizarán los intereses devengados de la siguiente forma:
-
-a) En moneda extranjera.
-
-Debe: - La cuenta de inversiones financieras que corresponda, por los intereses calculados en moneda extranjera.
-
-Haber - "Conversión cartera de colocaciones en moneda extranjera vendida al Banco Central de Chile", de la partida 2510.
-
-b) En moneda chilena.
-
-Debe: - "Cambio cartera en moneda extranjera vendida al Banco Central de Chile", de la partida 4510.
-
-Haber: - La cuenta de ingresos que corresponda por los intereses devengados, calculados según el tipo de cambio informado por esta Superintendencia.
-
-7.3.3. Cuentas que se utilizarán.
+7.3.2. Cuentas que se utilizarán.
 
 Los reajustes e intereses devengados de las inversiones financieras se cargarán directamente en las cuentas representativas de cada uno de esos activos.
 
@@ -9736,7 +9716,7 @@ Partida 7365 -"Otras inversiones financieras".
 
 El importe de los ajustes para reconocer en los resultados las variaciones en los precios de mercado de los instrumentos con mercado secundario, se determinará estableciendo, para cada instrumento, la diferencia positiva o negativa entre su valor contable, esto es, su valor de compra más los reajustes e intereses calculados hasta el cierre del respectivo mes, y su valor de mercado establecido en la forma ya señalada en el N° 5 de este Capítulo.
 
-Para ese efecto, deben considerarse todos los instrumentos susceptibles de ajuste, esto es, todos los que tengan mercado secundario con excepción de aquellos cuyo plazo remanente para su vencimiento sea igual o inferior a un año y de los de propia emisión, sea que aquellos se encuentren en cartera, registrados en las partidas 1705, 1710,1725 y 1735, o se trate de documentos vendidos con pacto de retrocompra y estén registrados, por lo tanto, en la partida 1740, según lo establecido en el N° 8 de este Capítulo.
+Para ese efecto, deben considerarse todos los instrumentos susceptibles de ajuste, esto es, todos los que tengan mercado secundario con excepción de aquellos cuyo plazo remanente para su vencimiento sea igual o inferior a un año, sea que aquellos se encuentren en cartera, registrados en las partidas 1705, 1730, 1710,1725 y 1735, o se trate de documentos vendidos con pacto de retrocompra y estén registrados, por lo tanto, en la partida 1740, según lo establecido en el N° 8 de este Capítulo.
 
 Previa reversión de las contabilizaciones efectuadas con este mismo propósito el mes anterior, se procederá a reconocer contablemente aquellas diferencias en la forma que se describe a continuación:
 
@@ -18532,13 +18512,13 @@ CAPITULO 12-11 (Bancos y Financieras)
 
 MATERIA:
 
-LIMITES DE INVERSIONES EN LETRAS DE CREDITO Y BONOS DE PROPIA EMISION.
+LIMITE DE INVERSIONES EN LETRAS DE CREDITO DE PROPIA EMISION.
 
-De acuerdo con lo dispuesto el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras pueden invertir en letras de crédito y en bonos o debentures de propia emisión, hasta por el equivalente del 5% del total de las respectivas emisiones colocadas o hasta el 50% del capital pagado y reservas de la institución, no pudiendo exceder la suma de las inversiones totales en ambos tipos de instrumentos, del 50% del capital pagado y reservas.
+De acuerdo con lo dispuesto en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras pueden invertir en instrumentos de propia emisión hasta una suma equivalente al 50% del capital pagado y reservas de la institución.
 
-No obstante, se permite que las instituciones financieras excedan ese límite global equivalente a un 50% del capital pagado y reservas, siempre que no sobrepasen el 100% de éste, cuando el exceso corresponda a la adquisición de letras de crédito y bonos destinados a financiar operaciones hipotecarias, que hayan tenido por objeto pagar anticipadamente otras obligaciones hipotecarias cuya finalidad hubiera sido el financiamiento de viviendas.
+No obstante, se permite que las instituciones financieras excedan ese 50%, siempre que no sobrepasen el 100% del capital pagado y reservas, cuando el exceso corresponda a la adquisición de letras de crédito destinadas a financiar operaciones hipotecarias que hayan tenido por objeto pagar anticipadamente otras obligaciones hipotecarias cuya finalidad hubiera sido el financiamiento de viviendas.
 
-Para ajustarse a los límites de que se trata, las instituciones financieras computarán el valor de compra de los instrumentos de propia emisión que deseen adquirir, sumados al valor en que se encuentren registrados en el activo, según las normas vigentes, aquellos que mantengan en cartera.
+Para verificar el cumplimiento de límites de que se trata, se computará el valor de los instrumentos registrados en el activo, considerando los ajustes a su valor de mercado, de acuerdo con las instrucciones contables del Capítulo 8-21 de esta Recopilación.
 
 El capital pagado y reservas de la entidad financiera adquirente a la fecha de la inversión, se calculará de la forma señalada en el numeral 1.1 del Capítulo 12-1 de esta Recopilación Actualizada de Normas.
 
