@@ -1,0 +1,5 @@
+Por decreto MOP Nº 464 de 9 de junio de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s.
+
+8-A y 8-B para la obra: Camino Ruta K-620, Sector Culenar - Maule, Tramo km. 0,000.00 a km. 10,520.00, que figuran a nombre de Montt Talciani Juan Isaac y Ot, rol de avalúo 166-14, Comuna de Maule, VII Región, superficies 2.664,80 y 1.216,60 m². respectivamente. La Comisión de Peritos, fijó con fecha 25 de agosto de 2003; en la cantidad de $5.329.600.- lote 8-A y $2.521.200. lote 8-B. Las indemnizaciones se pagarán al contado. La pu-blicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
