@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.701 de fecha 29 de Noviembre de 2002, se expropió el lote de terreno Nº52, superficie 692,0 m2, Rol de Avalúo Nº611-461, comuna de Nueva Imperial, para la obra: "Camino Ruta S-16, Sector Galvarino-Chol-Chol Tramo km. 0,0000 al 24,30269 correspondiente al Subtramo II Km. 8,339 al 15,574", IX Región y se acordó el valor de indemnización con su propietario Alfredo Segundo Sáez Sobarzo, ascendente a la cantidad de $366.010.-
+
+Fiscal del Ministerio de Obras Públicas.
