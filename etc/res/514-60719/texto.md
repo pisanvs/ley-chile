@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION TOTAL DE INMUEBLE QUE SEÑALA
+
+Resolución 514, 24 diciembre 1996, SERVIU Región del Bío Bío ordenó expropiación total inmueble ubicado en Pasaje 4 Nº 170, sector Michaihue, Población La Estrella, Rol de Avalúo Nº 15009-8, presumiblemente, comuna San Pedro de la Paz, superficie 360 m2. de terreno y 118 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-12307; de aparente dominio de Germán Ruiz Delgado, para ejecución programa expropiaciones para adquisición de terrenos, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Boris Aptecar G., arquitecto, Gerardo Valverde V., arquitecto y Sergio Labarca G., constructor civil, según informe de fecha 10 de diciembre de 1996, fijó monto provisional indemnización en $7.347.000.-, pagadera de contado.
+
+Director SERVIU Región del Bío Bío.
