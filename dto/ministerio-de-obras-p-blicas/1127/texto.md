@@ -1,0 +1,3 @@
+Por Decreto MOP N° 1.127, de 28 de noviembre de 1997, se expropiaron los lotes de terreno N°s 101 y 104-A, superficies 2.232 m2. y 1.337 m2., roles de avalúo 2234-16 y 2234-13, comuna de Chillán, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de la indemnización con su propietaria Eliana Sepúlveda Barra, ascendente a la cantidad total de $4.110.370.-
+
+Fiscal del Ministerio de Obras Públicas.-
