@@ -1,0 +1,3 @@
+Por decreto MOP Nº 267 de fecha 31 de marzo de 2004, se expropió el lote de terreno Nº 81-A, superficie 2.071 m², Rol de Avalúo Nº 1129-17, comuna de Castro, para la obra "Camino Ruta 5 Sur, Sector Quemchi - Castro, Tramo Km. 1.165,30000 a Km. 1.184,93643", X Región y se acordó el valor de la indemnización con su propietario José Nelson Saldivia Villegas, ascendente a la cantidad de $6.631.579.
+
+- Fiscal del Ministerio de Obras Públicas.
