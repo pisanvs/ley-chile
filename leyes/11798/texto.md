@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Peumo para contratar uno o más préstamos que produzcan hasta la cantidad de $ 3.500.000 con el fin de destinarlos a la construcción de un mercado.
