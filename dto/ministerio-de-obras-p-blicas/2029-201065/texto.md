@@ -1,0 +1,5 @@
+Rectifícase la publicación del decreto MOP Nº 2.029, de 28 de diciembre de 2001, realizada en la edición del día 1 de febrero de 2002, por la siguiente: Por decreto MOP Nº2.029, de 28 de diciembre de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº19, para la obra Red Vial Litoral Central Sector 1: Nuevo Camino Costero. Acceso a El Tabo. Km. 0.000,00 a Km.
+
+3.822,00, Quinta Región, que figura a nombre de Soto Villagrán María, rol de avalúo 680-227, comuna de El Tabo, superficie 260 m2. La comisión de peritos integrada por los señores Armando Antonio Pinochet Landero, Eduardo Alejandro Silva Aracena y Elizabeth Cristina Huenupi Peña, fijó con fecha 26 de noviembre de 2001, el valor provisional de la indemnización en la cantidad de $1.017.700. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Publicas
