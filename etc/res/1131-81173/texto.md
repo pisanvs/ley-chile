@@ -1,0 +1,3 @@
+Por resolución Nº1.131 de 3 de Septiembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por un año a contar del 29 de mayo de 1991, el plazo otorgado a PESQUERA BAHIA INGLESA S.A., R.U.T. Nº96.542.910-7, domiciliada en Compañía Nº1068, entrepiso, Santiago, en el numeral 5º de la resolución Nº1.721, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 3 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
