@@ -1,0 +1,3 @@
+Por resolución Nº 651 exenta, de 8 de marzo de 2005, de esta Subsecretaría, autorízase a BRACPESCA S.A. para ampliar actividades pesqueras extractivas con la nave "Cachagua I", en las áreas marítimas que en cada caso se indica, por fuera del área de reserva artesanal, donde podrá capturar los recursos hidrobiológicos que a continuación se señala: a) En el área marítima comprendida entre la I y III Regiones, con espinel: Jibia; b) En el área marítima comprendida entre la I y XII Regiones, con potera: Jibia.
+
+Valparaíso, 08 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
