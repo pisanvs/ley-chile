@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.031, de 3 de agosto de 2004, de esta Subsecretaría, autorízase a SALMONES PACIFIC STAR S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Camino a San Antonio s/n, Quellón, Chiloé, X Región, en las líneas de elaboración Cocido, Fresco-Refrigerado, Congelado, Seco-Salado, Ahumado, Conserva y Embutido, los recursos hidrobiológicos individualizados en la resolución extractada. Deja sin efecto la resolución Nº 1.535 de 2004, de esta Subsecretaría.
+
+Santiago, 3 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
