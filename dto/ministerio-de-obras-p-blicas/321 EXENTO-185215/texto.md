@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº321, de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº9, superficie 3.606 m², rol de avalúo 177-28, comuna de Panguipulli, para la obra "Camino Ruta 201 - 203 CH, Sector Panguipulli - Pullinque, Km. 0,00000 a Km. 11.67811" y se acordó el valor de indemnización con su propietario Luis Alberto Francisco Pizarro Etchegaray, ascendente a la cantidad de $2.065.791.
+
+Fiscal del Ministerio de Obras Públicas.
