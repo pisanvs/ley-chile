@@ -1,0 +1,3 @@
+Por Resolución N° 757, de 22 de junio de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a EMPRESA PESQUERA CALIPSO S.A., R.U.T. N° 79.517.950-K, para continuar desarrollando las actividades pesqueras extractivas autorizadas a Empresa Pesquera Calipso y Compañía Limitada, R.U.T. N° 79.517.950-K, del mismo domicilio, por Resoluciones N° 166, de 1990 y N° 599, de 1995, ambas de esta Subsecretaría.
+
+Valparaíso, 22 de junio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
