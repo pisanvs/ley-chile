@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.315, de 27 de septiembre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº1, para la obra ''Camino: Ruta 5 Norte. Tramo: Santiago - Los Vilos. Sector: Km. 10.700,00 al Km.
+
+11.100,00'', Región Metropolitana, que figura a nombre de Ester Cruzat, rol de avalúo en trámite, comuna de Quilicura, superficie 4.785 m². La comisión de peritos integrada por los señores Marly Ester Flores Altónaga, María Marcela Schmauck Oelckers y Mónica del Carmen Conejeros Rudloff, fijó con fecha 3 julio de 2000, el valor provisional de la indemnización en la cantidad de $281.953.280.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
