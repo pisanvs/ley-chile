@@ -1,0 +1,3 @@
+Por Resolución Nº 1.319, de 21 de septiembre de 1998, de esta Subsecretaría, autorízase a PROCESADORA DE ALIMENTOS OMEGA SEAFOODS LIMITADA, para ampliar actividades pesqueras autorizadas por las Resoluciones Nº 1018, de 1993, Nº 128, de 1994 y Nº 1150, de 1995, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Gerónimo Méndez Nº 2089, Barrio Industrial, Coquimbo, IV Región, en las líneas de elaboración que se indican los siguientes recursos hidrobiológicos: Congelado: Pota del Atlántico, Pota del Pacífico, Camarón ecuatoriano y Sardina española; Fresco-Congelado: Navajuela, Jaiba marmola, Jaiba reina, Jaiba remadora y Corvina.
+
+Valparaíso, 21 de septiembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
