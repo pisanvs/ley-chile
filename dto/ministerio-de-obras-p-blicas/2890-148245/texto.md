@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.890, de 30 de septiembre de 1999, se expropió el lote de terreno Nº116-1I, superficie 743,0 m², rol de avalúo 570-66, comuna de Lautaro, para la obra "Concesión Internacional Ruta 5; Tramo Collipulli-Temuco", Novena Región y se acordó el valor de indemnización con su propietario Iván Brkljaca Bezina, ascendente a la cantidad de $4.509.214.-
+
+Fiscal del Ministerio de Obras Públicas.
