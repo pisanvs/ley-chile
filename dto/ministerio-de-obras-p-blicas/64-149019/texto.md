@@ -1,0 +1,5 @@
+Por decreto M.O.P. No. 64, de 24 de marzo de 1987, se expropiaron los lotes N°s. 57, 58-C, 60, 61, 62, 70, 78, 79, 80, 88, 101, 104 y 105, cuyas superficies son 240,9 M2., 165 M2., 187,1 M2., 190 M2, 180,6 M2, 86,5 M2., 137,4 M2., 148,7 M2., 51,2 M2., 792,8 M2., 340,3 M2:, 332,5 M2. y 765,2 M2., respectivamente, roles de avalúos 46.173, 46-51, 46-171, 46-164, 46-175, 46-112, 46-113, 46-114, 46.115, 46-16, 46-68 y 46-208, Comuna de Peumo, para Ruta H-66-G Pelequén-Cruce Las Arañas, sector Codao-Las Cabras y se acordó el precio de indemnización con sus propietarios don Manuel Jesús Maturana Rojas, Guillermo Reyes Flores, Reginaldo de las M. Pinto Muñoz, Juan Enrique Tobar, Arnaldo Ernesto Fuentes Victoriano, Aliro Hermójenes Jeréz González, Reinaldo del C.
+
+Núñez Tobar, Eleodoro Calderón Navarro, Manuel Antonio Romo Olea y Fernando Caro Contreras, ascendente a las cantidades de $ 134.210, $ 111.106, $130.009, $149,156, $121.943; $ 56.771, $ 260.962, $ 405.704, $ 334.931 y $ 522.868.-
+
+Fiscal del Ministerio de Obras Públicas.
