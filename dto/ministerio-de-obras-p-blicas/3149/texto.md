@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.149, del 20 de octubre de 1999, se expropiaron los lotes de terreno Nºs 29 y 52, superficies 1.447 y 374 M2, respectivamente, roles de avalúos 1.011-010 y 1.005-014, comuna de Natales para la obra ''Habilitación y Construcción Regadío Huertos Familiares, Puerto Natales (Red baja), II Etapa''; y se acordó precio de la indemnización con sus propietarios, Vicente Hernán Grubsic Beiro y Peter Thomas Roderick Mac Lean Boyd, ascendente a la cantidad de $958.920.- para el lote Nº 29 y $310.936 para el lote Nº 52,
+
+Fiscal del Ministerio de Obras Públicas.
