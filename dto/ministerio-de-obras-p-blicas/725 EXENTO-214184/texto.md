@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 725 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 546, superficie 266 m², rol Nº 32-438, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, Tramo I, Tramo Km. 0,00000 al 12,70000, y se acordó el valor de indemnización con su propietario Manuel Domingo Molina Contreras, ascendente a la cantidad de $674.356.
+
+Fiscal del Ministerio de Obras Públicas.
