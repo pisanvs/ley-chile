@@ -1,0 +1,3 @@
+Por decreto MOP No. 979, de 29 de abril de 1999, se expropiaron los lotes de terreno No. s 3, 4 y 5, superficies 30.044, 3.644 y 2.286 M2, respectivamente; rol de avalúo, 202-2, comuna de Alhu‚, para la obra Camino Cruce Ruta H-66-G-Halhu‚, sector Cruce Ruta 66 Bifurcación a Loncha y se acordó precio de indemnización con su propietario David Luis Contreras Tapia, ascendente a la cantidad de $ 13.475.666.-
+
+Fiscal del Ministerio de Obras Públicas.
