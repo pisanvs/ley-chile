@@ -1,0 +1,25 @@
+AUTORIZA COLECTA A FUNDACION INTEGRA VII REGION
+
+(Resolución)
+
+Núm. 307 exenta.- Talca, 10 de Julio de 1997.- Vistos: Lo dispuesto en el Art. 100 de la Constitución Política del Estado; lo señalado en la Ley Nº 19.175 Orgánica Constitucional sobre Gobierno y Administración Regional; el Decreto Supremo Nº 955 de 1974 modificado; el Decreto Supremo Nº 969 de 1975; lo solicitado por la Vice Presidenta Regional de "INTEGRA VII Región" por Ord. Nº 061 y lo normado en la Resolución Nº 55 de la Contraloría General de la República.
+
+R e s u e l v o:
+
+1) Autorízase a la entidad denominada "INTEGRA VII Región" Fundación Nacional para el Desarrollo Integral del Menor, para realizar una Colecta Pública en la Región del Maule, el día 1 de septiembre de 1997.
+
+2) Los fondos recaudados serán destinados en beneficio de los 56 Centros Abiertos de la Fundación en la Región del Maule.
+
+3) Las personas que tendrán a su cargo la referida colecta serán:
+
+- Dra. Ximena Agurto Vargas - Sra. Ana Sepúlveda Moreno
+
+4) Las erogaciones se recibirán en alcancías numeradas y controladas por el Servicio de Gobierno Interior.
+
+5) La Institución deberá remitir a la Intendencia Regional, Acta de Apertura de las Alcancías, su número y recaudación, conjuntamente con un informe de la inversión de los recursos dentro del plazo de 60 días, contados desde la fecha de realización de la colecta.
+
+6) La autorización que se concede, les obliga a cumplir con las disposiciones que establece el D.S. Nº 955 de 1974 y sus modificaciones.
+
+7) Se designa en representación de la Srta. Intendente Regional, como Ministro de Fe, a la Sra. Ruth Pareja Rebolledo, Administrativo Grado 17º E.U.R. de esta Intendencia Regional.
+
+Anótese, comuníquese y publíquese.- Por orden de S.E. el Presidente de la República, Luz Angélica Peñaloza Serrano, Intendente Región del Maule.- M. Cecilia Aguilera Santelices, Abogado Intendencia Regional.
