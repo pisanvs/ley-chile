@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 529, de fecha 31 de julio de 1996 y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N° 294, de 1984, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N° 7, con motivo de la obra Proyecto Laja Diguillín, sector Laja Huépil, Canal Matriz Kms.
+
+0.000 al 7.946, que figura a nombre de don Angel Modesto Lagos Iturra, rol de avalúo 261-5, superficie 28.975 M2., comuna de Tucapel, Provincia del Bío Bío, VIII Región. La Comisión de Peritos compuesta por los señores Pablo Carrillo Valenzuela, José Manuel Gálvez Alegría y Manuel Concha Rojas, fijó con fecha 16 de octubre de 1995, el valor provisional de la indemnización en la de cantidad de $1.748.750. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 79 del Decreto Ley N°2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
