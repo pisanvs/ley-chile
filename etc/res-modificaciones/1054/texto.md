@@ -1,0 +1,31 @@
+MODIFICA RESOLUCION Nº 585, DE 2003
+
+Núm. 1.054.- Puerto Montt, 8 de agosto de 2003.- Vistos estos antecedentes: La resolución sanitaria Nº 585 del 23/04/2003 modificada por resolución Nº 791 del 12/06/2003 ambas del Director del Servicio de Salud Llanquihue, Chiloé y Palena, X Región, las cuales establecen entre otras, la prohibición de extracción, transporte, elaboración, comercialización, procesamiento, tenencia y consumo del recurso Loco (Concholepas concholepas), en la jurisdicción del Servicio de Salud Llanquihue, Chiloé y Palena; los Informes de Análisis Toxicológicos de Veneno Paralítico de los Mariscos (VPM) Nº 2031, 2032 P, 2033 todos ellos del Laboratorio de Marea Roja de Quellón: la carta solicitud de la Consultora Mares Chile Ltda., la solicitud de la Federación de Pescadores del Sur, Fepasur; y las resoluciones Nº 1.669 y 1.704 del 16/07/2003 y 29/07/2003, respectivamente de la Subsecretaría de Pesca, mediante las cuales se solicita se autorice la extracción del señalado recurso en determinadas áreas de manejo de la jurisdicción Llanquihue, Chiloé y Palena la necesidad de autorizar la extracción del citado recurso en determinadas áreas de manejo de esta jurisdicción sólo para el proceso industrial, en la que se detallan además las áreas de extracción y su ubicación geográfica; Considerando: que las muestras analizadas del recurso Loco procedentes del monitoreo realizado por funcionarios de la Oficina de Programas sobre el Ambiente de la localidad de Quellón, dieron grados de toxicidad para Veneno Paralítico de los Mariscos y que, respecto a esos grados de toxicidad, inferiores al Límite Máximo Permitido (L.M.P. 80 ugr X 100 gr de carne) el correcto proceso de elaboración del recurso Loco en conservas es capaz de reducir la concentración de Veneno Paralítico de los Mariscos (VPM) y la necesidad de poder utilizar dichos mariscos producto de una pesca de investigación en áreas de manejo de la jurisdicción Llanquihue, Chiloé y Palena, X Región, tanto para el estudio biológico-pesquero como para el consumo humano: Teniendo, además, presente: lo dispuesto en el decreto ley Nº 2.763/79, decreto supremo Nº 42/86, Orgánico de los Servicios de Salud, decreto supremo Nº 104/2003 del Ministerio de Salud, lo previsto en los artículos 3, 108, y siguientes del Código Sanitario y artículos 2, 3, 9 y 12 del Reglamento Sanitario de los Alimentos aprobado por decreto supremo Nº977 de 1996 del Ministerio de Salud, dicto la siguiente,
+
+R e s o l u c i ó n:
+
+1. Modifícase lo establecido en la resolución Nº 585 del 23/04/2003 modificada por resolución Nº 791 del 12/06/2003, ambas del Director del Servicio de Salud Llanquihue, Chiloé y Palena, en el sentido de autorizar a partir de la fecha de la presente resolución y hasta la fecha de término de extracción dispuesta por resolución Nº 1.704 de 29/07/2003 de la Subsecretaría de Pesca, la extracción, transporte, elaboración y comercialización del recurso Loco (Concholepas concholepas) en la jurisdicción del Servicio de Salud Llanquihue, Chiloé y Palena, en el área de manejo señalada en la resolución Nº1.669 del 16/07/2003 de la Subsecretaría de Pesca, Isla Guafo, bajo las condiciones sanitarias que pasan a señalarse:
+
+a.- El recurso sólo podrá ser extraído para destinarlo al proceso industrial, el que deberá ser realizado en plantas que cuenten con la respectiva autorización sanitaria.
+
+b.- La comercialización del producto terminado quedará sujeta a la no detección o niveles inferiores a 80 ugr X 100 gr de carne de marisco al análisis para detección de Veneno Paralítico de los Mariscos (VPM).
+
+c.- Las muestras del producto terminado, deberán ser tomadas por funcionarios del Servicio de Salud local, el muestreo de cada partida deberá ser solicitada por el interesado y deberá realizarse de acuerdo a las normas vigentes. La partida muestreada quedará en carácter de retenida mientras se realizan los análisis toxicológicos correspondientes.
+
+d.- Los análisis toxicológicos podrán ser realizados en cualquier laboratorio de la Red de Servicios de Salud que tenga implementada la técnica del Bioensayo en Ratón para la detección de Veneno Paralizante de los Mariscos, o en el Instituto de Salud Pública.
+
+e.- La comercialización de cada partida que cumpla con la normativa sanitaria anteriormente señalada, será autorizada por el Director del Servicio de Salud correspondiente a la jurisdicción donde fue elaborado el producto.
+
+f.- Para el traslado y procesamiento del recurso Loco fuera de la jurisdicción se deberá contar con autorización expresa del Servicio de Salud Llanquihue, Chiloé y Palena, la que será otorgada si, y sólo si, el Director del Servicio de Salud de la jurisdicción de destino del producto, dicte previamente una resolución en la cual se respeten todas las condiciones señaladas en el punto anterior, o autorice el ingreso del recurso contaminado a su jurisdicción mediante acto administrativo que proceda al efecto.
+
+2.- Fíjase como único puerto de desembarco el puerto de Quellón en la provincia de Chiloé.
+
+3.- Manténgase en todas sus partes no modificadas por la presente resolución, lo establecido en la resolución Nº 585 del 23/04/2003 modificada por resolución Nº 791 del 12/06/2003, ambas del Director del Servicio de Salud Llanquihue, Chiloé y Palena.
+
+4.- La presente resolución no afecta de manera alguna los recursos en veda o con restricciones contempladas en otras normas de carácter general o parcial.
+
+5.- Dispónese que el cumplimiento de esta resolución será fiscalizado, en lo que proceda, por la Autoridad Sanitaria, Autoridad Marítima y Carabineros de Chile y su infracción será objeto de sumario sanitario conforme al procedimiento previsto en el Libro Décimo del Código Sanitario y a las penas que establece el Código Penal.
+
+6.- La presente resolución regirá a contar de esta fecha sin perjuicio de su publicación en el Diario Oficial y hasta que no se disponga lo contrario en la jurisdicción del Servicio de Salud Llanquihue, Chiloé y Palena.
+
+Anótese, comuníquese y publíquese.- Yuri Carvajal Bañados, Director Servicio de Salud Llanquihue, Chiloé y Palena.
