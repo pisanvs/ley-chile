@@ -1,0 +1,5 @@
+Por Resolución N° 317, de 14 de Mayo de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PISCICULTURAS DE LA CORDILLERA S.A., R.U.T. N° 96.589.850-6, para ampliar actividades pesqueras autorizadas por Resolución N° 569, de 1992, de esta Subsecretaría de Pesca, en orden a operar una planta industrial en la X Región, ubicada en la localidad de Pullinque, comuna de Panguipulli, donde procesará los siguientes recursos hidrobiológicos: Fresco-refrigerado y congelado: Salmón del Atlántico, Salmón plateado (coho), Trucha arco iris, Almeja o taca y Macha.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 14 de Mayo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
