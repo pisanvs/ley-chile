@@ -1,0 +1,3 @@
+Por decreto MOP Nº 558, de 28 de febrero de 2000, se expropiaron los lotes de terreno Nº 22 y 23, superficies 10.245,3 m² y 8.069,33 m², roles de avalúo 511-16 y 511-97, comuna de Carahue, Obra Camino Costero Tirúa-Carahue, sector Puyanhue-Tranapuente y se acordó precio de indemnización con sus propietarios Santos Segundo Burgos Burgos y Ana Rosa Pinto Méndez, ascendente a las cantidades de $1.341.246, para el lote Nº 22 y $959.140, para el lote Nº 23.
+
+Fiscal del Ministerio de Obras Públicas.
