@@ -1,0 +1,9 @@
+AUTORIZA A "SEA EXPORT S.A." PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No.1.227, de 1 de Septiembre de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a "Sea Export S.A.", R.U.T. No. 96.548.440-K, domiciliada en la ciudad de Santiago, para iniciar actividades pesqueras, en orden a operar una planta industrial en la IX Región, ubicada en Terminal Pesquero de Caleta Queule, donde procesará en las líneas de elaboración de congelado y conservas, los siguientes recursos hidrobiológicos: Anchoa o Anchoveta, Anguila, Bacalao de profundidad o Mero, Blanquillo, Caballa, Cabinza, Cabrilla común, Chancharro, Cojinoba del Norte, Cojinoba del Sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Lenguado de ojos chicos, Lenguado de ojos grandes, Lisa, Marrajo o tiburón, Merluza común, Merluza del Sur, Merluza de cola, Merluza de tres aletas, Mulata o vieja negra, Palometa, Pejegallo, Pejerrey de mar, Raya, Róbalo, Rollizo, Salmón del Pacífico, Sardina común, Sardina, Tollo, Trucha arcoiris, Almeja o taca, Almeja, Caracol locate, Caracol tegula, Caracol trumulco, Cholga Chorito, Choro, Lapa, Loco, Macha, Navajuela, Ostra chilena, Pulpo, Jaiba, Picoroco, Erizo, Pepino de mar y Piure.
+
+Adquirirá los recursos Trucha arcoiris y Salmón del Pacífico de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 1 de Septiembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
