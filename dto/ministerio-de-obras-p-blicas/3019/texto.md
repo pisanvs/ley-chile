@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.019, de 30 de septiembre de 1999, se expropió el lote de terreno Nº18-A, superficie 570 m², rol de avalúo 213-10, comuna de Parral, para la obra Ruta 5 Tramo: Talca-Chillán. Intersección Desnivelada Acceso a Bullileo, Séptima Región y se acordó el valor de indemnización con su propietaria Esso Chile Petrolera Ltda., ascendente a la cantidad de $6.370.586.-
+
+Fiscal del Ministerio de Obras Públicas.
