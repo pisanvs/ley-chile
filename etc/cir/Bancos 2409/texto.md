@@ -1108,6 +1108,56 @@ En consecuencia, la contabilidad deberá mantenerse permanentemente al día.
 
 6.2.- Tanto los balances de las sucursales como las notas anexas que correspondan, deberán estar expresados en idioma español.
 
+CAPITULO 1-6 (Bancos y Financieras)
+
+MATERIA:
+
+CAJAS AUXILIARES.
+
+1. Cajas auxiliares que no requieren autorización previa para su habilitación.
+
+1.1. Tipo de caja auxiliar.
+
+Las instituciones financieras pueden habilitar cajas auxiliares temporales o permanentes, sin necesidad de solicitar autorización previa a este Organismo, cuando se trate de aquellas que reúnan las siguientes características:
+
+a) Que estén destinadas fundamentalmente a recibir y efectuar pagos.
+
+b) Que cuenten con una estructura administrativa mínima.
+
+c) Que no sean utilizadas para entregar los importes por el otorgamiento de créditos, excepto de los correspondientes a préstamos de consumo, ni mantengan servicios de cuentas corrientes o de cuentas de ahorro, aunque pueden pagar cheques y recibir depósitos sobre cuentas establecidas en sucursales del banco, en la medida en que cuenten con los medios para la consulta y registro de esos pagos y depósitos.
+
+d) Que dependan, incluso en lo que se refiere a sus registros contables, de una sucursal ubicada en la misma comuna, salvo que se trate de servicios temporales para cubrir un determinado evento en una localidad en que no exista una sucursal.
+
+e) Que cumplan con las medidas de seguridad, prevención y protección exigibles a toda oficina bancaria.
+
+1.2 Información a esta Superintendencia.
+
+Las instituciones financieras que decidan habilitar las cajas auxiliares señaladas en el numeral precedente, deberán informar a esta Superintendencia, a lo menos con diez días hábiles bancarios de anticipación a la fecha de su instalación, los siguientes datos:
+
+a) Lugar en que se ubicará la caja auxiliar.
+
+b) Servicios cuya prestación justifican su apertura.
+
+c) Si su funcionamiento será indefinido o solamente temporal, caso éste último en que deberán precisarse los días en que se mantendrá habilitada.
+
+d) Sucursal de la que dependerá.
+
+### 2. Cajas auxiliares que requieren autorización previa para su apertura
+
+Para abrir cajas auxiliares distintas a las señaladas en el N° 1 precedente, las instituciones financieras deberán solicitar autorización previa, en cada caso, a esta Superintendencia.
+
+Al solicitar la autorización antes mencionada, las instituciones financieras deberán proporcionar a esta Superintendencia la misma información señalada en el numeral 1.2 anterior, señalando detalladamente el o los servicios que se prestarán.
+
+### 3. Horario de atención de las cajas auxiliares
+
+La atención al público en las cajas auxiliares señaladas en los N°s 1 y 2 de este título, queda sujeta a las normas generales sobre horario normal y horario especial.
+
+No obstante lo anterior, sin perjuicio de las instrucciones del Capítulo 1-8 de esta Recopilación Actualizada de Normas, las instituciones financieras podrán habilitar cajas auxiliares que atiendan solamente en horario especial.
+
+### 4. Cierre de cajas auxiliares
+
+El cierre de cualquier caja auxiliar de duración indefinida deberá ser comunicado a este Organismo con una anticipación mínima de diez días hábiles bancarios a la fecha del cierre.
+
 CAPITULO 1-7 (Bancos y Financieras)
 
 MATERIA:
@@ -1235,6 +1285,38 @@ Cuando el titular de una cuenta de ahorro sea a su vez cuentacorrentista del mis
 4. Obligación de mantener la prestación de servicios en la forma tradicional.
 
 Las instituciones financieras que ofrezcan a sus clientes servicios mediante dispositivos electrónicos autosuficientes y establezcan el cobro de comisiones o el reembolso de gastos por el uso del sistema, deben mantener de todos modos la atención directa en sus distintas oficinas, tanto para aquellos clientes que utilicen los servicios automáticos, como para aquellos que no se suscriban a esa modalidad. Esa atención directa debe comprender todos los servicios a que se puede acceder por los sistemas electrónicos y la entrega de a lo menos la misma información que puede obtenerse por esos medios, sólo con las diferencias propias de los sistemas automatizados y las limitaciones en cuanto se refiere a los horarios de atención de público que ha fijado esta Superintendencia de conformidad con la ley.
+
+CAPITULO 1-8 (Bancos y Financieras)
+
+MATERIA:
+
+HORARIO ESPECIAL.
+
+1. Autorizaciones para atender determinadas operaciones en horario especial.
+
+1.1. Autorización general.
+
+Las instituciones financieras que así lo decidan, podrán atender público fuera del horario obligatorio, en los horarios especiales que para el efecto acuerden, siempre que se cumplan copulativamente las siguientes condiciones:
+
+a) Que la atención se preste en días hábiles bancarios.
+
+b) Que el horario que se establezca no se inicie antes de las 15.00 hrs., salvo en el caso de atención a jubilados, en que podrán establecerse horarios especiales anteriores a las 9.00 hrs. En Isla de Pascua, el horario especial en la tarde no podrá iniciarse antes de las 14.00 hrs., hora insular.
+
+c) Que los servicios ofrecidos no correspondan a operaciones consistentes en la entrega de importes por el otorgamiento de créditos excepto cuando se trate de préstamos de consumo, la recepción de depósitos en cuenta corriente o el pago de cheques, distintos de aquellos que correspondan a convenios celebrados entre el banco y el cuentacorrentista para pagar en forma regular, remuneraciones, dividendos de acciones, etc.
+
+d) Que se mantengan las medidas de seguridad necesarias para resguardar el normal desarrollo de las actividades.
+
+No obstante lo anterior, cuando un banco participe en actividades de beneficencia recibiendo aportes del público mediante depósitos en una determinada cuenta corriente, podrá atender el recibo de dichos depósitos, en días hábiles o inhábiles, dentro del horario especial que para el efecto determine, siempre que dé aviso a esta Superintendencia con anticipación a la fecha en que ello ocurra.
+
+1.2. Autorizaciones especiales.
+
+Cualquier atención al público en horario especial que no cumpla alguna de las condiciones señaladas en el numeral 1.1 precedente, deberá contar con la autorización previa de esta Superintendencia.
+
+### 2. Fecha y registro de las operaciones cursadas en horario especial
+
+Las operaciones efectuadas en horario especial, deberán llevar la fecha del día en que se cursen en el referido horario.
+
+Además, los comprobantes de contabilidad a que den origen las mencionadas operaciones deberán llevar la leyenda "HORARIO ESPECIAL", impresa o colocada mediante un timbre, y serán registrados el primer día hábil bancario siguiente a la fecha en que se hayan cursado las operaciones correspondientes, sin perjuicio de que en los comprobantes respectivos se estampe el timbre de caja con la fecha en que efectivamente la operación fue presentada y cursada por caja, dentro del horario especial.
 
 CAPITULO 1-10 (Bancos y Financieras)
 
