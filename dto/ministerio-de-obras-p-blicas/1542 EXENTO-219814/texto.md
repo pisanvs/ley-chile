@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.542 de fecha 28 de noviembre de 2003, se expropió el lote de terreno Nº 78-D, superficie 377,00 m2, rol de avalúo Nº 224-6, comuna de Olmué, para la obra "Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10,98400 a Km. 34,50000", V Región y se acordó el valor de la indemnización con su propietario Juan Joaquín Alonso Alegría Novion, ascendente a la cantidad de $1.670.719.-
+
+Fiscal del Ministerio de Obras Públicas.
