@@ -1,0 +1,3 @@
+Por resolución exenta Nº 630, de 27 de febrero de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 202111026 presentada por GRIEG SEA-FOOD CHILE S.A., hoy Chile Seafood S.A., para instalar y operar un centro de cultivo ubicado en Estero Dublé Norte, Isla Rivero costa noreste, XI Región.
+
+Valparaíso, 27 de febrero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
