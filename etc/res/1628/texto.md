@@ -1,0 +1,5 @@
+Por Resolución N° 1.628, de 14 de noviembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por OFELIA ANGELICA LOPEZ MANCILLA, R.U.T. N° 7.827.392-5, para un sector ubicado entre Isla Liguiñe y Punta Los Cuervos (Canalizo), Isla del Rey, comuna de Corral, provincia de Valdivia, X Región, en virtud de lo dispuesto en los artículos 76°, 77°, 78° y 5° transitorio, inciso 6°, de la Ley General de Pesca y Acuicultura y el artículo 14° del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Déjase sin efecto las Resoluciones N° 1.466, de 1989 y N° 131, de 1991, ambas de esta Subsecretaría, en virtud de lo señalado precedentemente.
+
+Valparaíso, 14 de noviembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
