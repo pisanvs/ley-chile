@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.062, de 30 de octubre de 1998, se expropiaron los lotes de terreno Nºs. 28 y 28-A, superficies 5.337 y 200 m², respectivamente, roles de avalúo 299-49 y en trámite, comuna de Pelluhue, para la obra: Camino Ruta M-80-N, Sector Curanipe-Bif. Chovellen, Tramo Kms. 0,000 al 6,871.14 y se acordó precio de indemnización con sus propietarios Clodomiro del Carmen Valladares Leal y Clodomiro del Carmen Valladares Leal y otra, ascendente a las cantidades de $430.189, para el lote Nº28 y $7.737.936, para el lote 28-A.-
+
+Fiscal del Ministerio de Obras Públicas.
