@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.064, de 30 de marzo del 2000, se expropió el lote de terreno Nº484, superficie 163 m², rol de evalúo 1461-13, comuna de Puente Alto, para la obra Concesión Internacional Ruta 5, Tramo Santiago-Talca. Sector a: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Blanca Romero Valeria, ascendente a la cantidad de $22.513.218.
+
+- Fiscal del Ministerio de Obras Públicas.
