@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.422, de 29 de septiembre de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra Camino Ancud-Quetalmahue, rol W-20, Kms 0,000 00 al 18.694 21, que figura a nombre de José Abelardo Ulloa Barría y otro, rol de avalúo 1270-10, superficie 200 m2., comuna de Ancud. La Comisión de Peritos, fijó con fecha 26 de septiembre de 1997, la indemnización provisional en la cantidad de $320.000, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
