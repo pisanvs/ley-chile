@@ -1,0 +1,5 @@
+Por decreto MOP Nº 4.656, de 27 de octubre de 2000 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 50, 53, 55 y 58, para la obra Camino Las Ventanas Bifurcación Rapaco, Rol T-60, Kms.
+
+36.000 al 47.747,993, que figuran a nombre de Suc. Orfelina Lavoz Gómez, Pedro Morey Rosas y José B. Salgado Panqueco, roles de avalúo 533-158, 536-85 y 532-18, superficies 1.837 m2.; 276 m2.; 2.182 m2. y 1.303 m2., comuna de La Unión. La Comisión de Peritos, con fecha 22 de septiembre de 1997, fijó la indemnización provisional en las cantidades de $734.800, lote Nº 50, $182.800, lote Nº 53, $1.063.700, lote Nº 55 y $456.050, lote Nº 58, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
