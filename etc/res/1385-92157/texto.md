@@ -1,0 +1,9 @@
+AUTORIZA A PESQUERA MONTEMAR S.A. PARA AMPLIAR ACTIVIDADES
+
+Por resolución No. 1.385, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Montemar S.A., R.U.T. No. 96.502.580-4, domiciliada en Viña del Mar, para ampliar actividades pesqueras, autorizadas por Resolución No. 248, de 1986, de esta Subsecretaría, en orden a operar dos embarcaciones hieleras espineleras, "Arctica II" y "Arctica III". Se fija como zona de operación de las naves las aguas interiores y exteriores ubicadas al sur del paralelo 47° L.S., donde podrán extraer los siguientes recursos hidrobiológicos: Brótula, Congrio colorado, Congrio dorado, Merluza del Sur, Merluza de cola, Merluza de tres aletas y Tollo.
+
+Modifícase el numeral 2 de la Resolución No. 1.063 de 1987, de esta Subsecretaría, que autorizó a Pesquera Montemar S.A., para ampliar la zona de operación de las naves denominadas "Monte Alondra" y "Monte Brújula", en el litoral comprendido entre las Regiones VIII a XII, ambas inclusive, en el sentido de restringir el área de operación de las naves antes mencionadas sólo hasta el paralelo 43° L.S. excluidas las aguas interiores de la X Región. La peticionaria podrá realizar un esfuerzo de pesca sobre el recurso Bacalao de profundidad o Mero, Dissostichus eleginoides, con las naves mencionadas en el párrafo anterior, en el litoral comprendido entre la VIII Región y la XII Región ambas inclusive.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 05 de Octubre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
