@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 1.502 de 30 de Noviembre de 1994, se incrementó en una frecuencia semanal, la otorgada por Resolución Exenta N° 34 de 15 de Enero de 1986 a la sociedad GONZALEZ Y COMPAÑIA LIMITADA (Transportes Aconcagua Santiago T.A.S. Choapa Limitada o T.A.S. Choapa Limitada), para efectuar transporte internacional terrestre de pasajeros entre Santiago (Chile) y San Juan (Argentina), por el paso fronterizo Cristo Redentor (Sistema Cristo Redentor).-
+
+Claudio Hohmann Barrientos, Subsecretario de Transportes.
