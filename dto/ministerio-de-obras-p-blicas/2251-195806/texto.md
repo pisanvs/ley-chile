@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.251, de 31 de diciembre del 2001, se expropió el lote de terreno Nº149-A, superficie 533 m², rol de avalúo sin rol, comuna de Collipulli, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli. Sector: Kms. 558.700,00 al 567.000,00, y se acordó el valor de indemnización con su propietario Serviu IX Región, ascendente a la cantidad de $5.689.962.-
+
+Fiscal del Ministerio de Obras Públicas.
