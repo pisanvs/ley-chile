@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.397, de fecha 30 de septiembre de 2002, se expropiaron los lotes de terreno Nºs. 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 68-A y 80-A, superficies 862 m2, 769 m2, 395 m2, 463 m2, 402 m2, 408 m2, 389 m2, 397 m2, 391 m2, 396 m2, 389 m2, 373 m2, 690 m2, 757 m2, 120 m2 y 127 m2, respectivamente, rol de avalúo 764-144, comuna de Lampa, Región Metropolitana, para la obra ''Camino Ruta G-184-182, Sector El Noviciado - Cruce Ruta G-16 (Lipangue), Tramo Km. 4,450 al 15,04419'' y se acordó el valor de indemnización con su propietario la Sociedad Inmobiliaria Copacabana Limitada, ascendente a la cantidad de $24.575.181.-
+
+Fiscal del Ministerio de Obras Públicas.
