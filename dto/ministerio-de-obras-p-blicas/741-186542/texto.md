@@ -1,0 +1,5 @@
+Por decreto MOP Nº 741, de 30 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs 21, 38, 48 y 51, para la obra Estudio de Factibilidad y Diseño del Embalse Corrales y sus Obras Complementarias, Canal Alimentador, que figuran a nombre de Sociedad Agrícola Coiron Limitada, Alonso Godofredo Palacios Tejeda, Miguel Luis Leiva González y Rodolfo del Transi Zúñiga Soto, roles de avalúo S/R, 248-82 y 248-215, superficies 3.948,40 m2.;
+
+3.637,86 m2.; 6.319,83 m2. y 25.674,64 m2., comuna de Salamanca. La Comisión de Peritos, con fecha 10 de septiembre de 1999, fijó la indemnización provisional en las cantidades de $5.188.520, lote Nº 21, $3.536.358, lote Nº 38, $7.110.949, lote Nº 48 y $45.011.392, lote Nº 51, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
