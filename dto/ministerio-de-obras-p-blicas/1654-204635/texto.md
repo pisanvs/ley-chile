@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.654, de fecha 30 de septiembre de 2002, se expropiaron los lotes de terreno Nºs. 1, 2, 3 y 4, superficie 942.8, 135.5, 1.151.6 y 981.6 m2, respectivamente, rol Nº1195-110, comuna de Maipú, Región Metropolitana, para la obra ''Planta de Tratamiento de Aguas Servidas La Farfana - Faja Ensanche - Camino Impulsión Planta Elevadora - Planta Tratamiento'' y se acordó el valor de la indemnización con su propietario, Arnaldo Bozzolo Colombo, ascendente a la cantidad de $49.231.946.-
+
+Fiscal del Ministerio de Obras Públicas.
