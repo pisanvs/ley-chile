@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.056, de 30 de julio de 1999, se expropió el lote de terreno No. 149-B, superficie 15.281,0 m2., rol de avalúo 367-1, comuna de Loncoche, para la obra "Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno", Novena Región y se acordó el valor de indemnización con su propietario Raúl Filiberto Pinto Briones, ascendente a la cantidad de $ 16.550.286.-
+
+Fiscal del Ministerio de Obras Públicas.
