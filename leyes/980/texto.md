@@ -514,8 +514,6 @@ Chapas de marfil o sus imitaciones para teclas de piano.
 
 Charreteras de oro o plata, aunque contengan seda o sus imitaciones.
 
-Degras i demas materias especiales para curtir.
-
 Elástico para calzado.
 
 Enchapados de madera.
@@ -633,6 +631,8 @@ Cerveza en otro envase, treinta centavos por cada litro.
 Cigarros puros, seis pesos por cada kilógramo.
 
 Cigarrillos, incluyendo el peso de los envases, con escepcion de los cajones de madera i de metal, nueve pesos por cada kilógramo.
+
+Degras que pagará catorce centavos por cada kilógramo.
 
 Harina de trigo, dos pesos por cada cien kilógramos.
 
