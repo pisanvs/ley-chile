@@ -1,0 +1,3 @@
+Por resolución Nº 874, de 18 de mayo de 1999, de esta Subsecretaría, déjase sin efecto la resolución Nº 562 de 1997, de esta Subsecretaría, que autorizó a ITALO FERNANDO RAFAEL FOSCHINO BARASSI para instalar y operar el centro de cultivo ubicado en Bahía Honda, comuna de Navarino, provincia Antártica Chilena, XII Región.
+
+Valparaíso, 18 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
