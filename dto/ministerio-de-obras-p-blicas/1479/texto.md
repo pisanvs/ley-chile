@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.479, de 31 de mayo de 1999, se expropió el lote de terreno Nº 2, superficie 100 m2., rol de avalúo 1334-286, comuna de San Carlos, para la obra ''Ruta 5 Tramo Talca - Chillán, sector Bifurcación San Pedro de Lilahue'', Octava Región y se acordó el valor de indemnización con su propietario Roberto Sigisfredo Maldonado Carvajal, ascendente a la cantidad de $515.250.-.
+
+Fiscal del Ministerio de Obras Públicas.
