@@ -1,0 +1,7 @@
+EXTRACTO DE DECRETOS APROBATORIOS DE CONVENIOS ENTRE LOS SERVICIOS DE SALUD QUE SE INDICAN Y MUNICIPALIDADES QUE SE SEÑALAN, SOBRE ASIGNACION DE RECURSOS A ESTABLECIMIENTOS ASISTENCIALES BAJO LA ADMINISTRACION MUNICIPAL
+
+Por los decretos supremos No. 361, No. 362 y No. 363, de 27 de Agosto de 1990, del Ministerio de Salud, apruébanse los convenios celebrados entre el Servicio de Salud Metropolitano Sur y la Municipalidad de San Bernardo, entre el Servicio de Salud Metropolitano Occidente y la Municipalidad de Cerro Navia y entre el Servicio de Salud Concepción-Arauco y la Municipalidad de Florida, respectivamente, sobre asignación de recursos a establecimientos asistenciales bajo la administración municipal, que complementan los convenios de traspaso de establecimientos asistenciales celebrados entre las mismas partes, respectivamente aprobados por los decretos supremos No. 201, de 1983, No. 242 de 1981 y No. 107, de 1987, del mismo Ministerio, incorporando en lo que les es aplicable, en el primer caso el consultorio "Carol Urzúa", en el segundo el Consultorio con Posta de Primeros Auxilios "Cerro Navia" y en el tercero la posta "Cancha Los Monteros". Los convenios que se aprueban por los presentes decretos empezarán a ejecutarse el día 1° del mes siguiente al de la fecha de publicación en extracto de estos decretos en el Diario Oficial.-
+
+Otras disposiciones constan en convenios y decretos que se extractan.-
+
+Dra. Maria Inés Romero Sepúlveda, Subsecretario de Salud Subrogante.
