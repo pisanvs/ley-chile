@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.433, de 31 de agosto de 1998, se expropiaron los lotes de terreno Nºs. 15, 22, 26 y 31, superficies 403, 105, 416 y 290 m², roles de avalúo 60-55, 60-44, 59-47 y 59-33, comuna de Chépica, obra Camino Chépica-Bif. Teno, Sector Cuesta El Peral-Chépica, y se acordó precio de indemnización con sus propietarios Luis Arturo Díaz Meneses, Carlos Víctor Fuentes Vásquez y Ofelia del Tránsito Trejo Castro, ascendente a las cantidades de $1.378.770, lotes 15 y 26; $469.493, lote 22 y $445.620, lote 31.-
+
+Fiscal del Ministerio de Obras Públicas.
