@@ -1,0 +1,1 @@
+Modifica artículos 1.°, 2.° y 10, y agrega otros al decreto con fuerza de ley N.° 69, de 27 de marzo de 1931, que fija monto y forma de pago arrendamiento de bienes raíces fiscales, y modifica artículo 51 de la ley 4,174, de 5 de septiembre de 1927, sobre impuesto territorial.
