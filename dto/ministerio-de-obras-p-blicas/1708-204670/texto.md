@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.708, de 11 de octubre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº187 para la obra: ''Sistema Norte - Sur. Tramo F: Carlos Valdovinos - Río Mapocho. Sector: Km. 6.200,00 al Km.
+
+6.640,00'', Región Metropolitana, que figura a nombre de Vargas Escobar Matías, rol de avalúo 1335-2, comuna de Estacion Central, superficie 259 m2. La comisión de peritos integrada por los señores Leonardo Arturo Bueno Ramos, Carmen Pilar Ríos Marcuello y Miguel Juan Fernández Cádiz, fijó con fecha 23 de agosto de 2002, el valor provisional de la indemnización en la cantidad de $35.113.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
