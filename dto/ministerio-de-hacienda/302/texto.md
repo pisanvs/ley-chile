@@ -1,0 +1,19 @@
+NOMBRA SECRETARIO REGIONAL MINISTERIAL XII REGION Núm. 302.- Santiago, 28 de Marzo de 1994.- Vistos: El artículo 32° número 12 de la Constitución Política de la República; el inciso 2° del artículo 62° del D.F.L.
+
+N° 291 del Ministerio del Interior de 1993, que fija el texto refundido de la Ley N° 19.175; lo dispuesto en la letra a) del artículo 7° y el inciso segundo del artículo 14° de la Ley N° 18.834, que aprueba el Estatuto Administrativo,
+
+dicto el siguiente, Decreto:
+
+1° Acéptase, a contar del 28 de marzo de 1994, la renuncia voluntaria presentada por don José Jaime Valásquez Aguilar, R.U.T. N° 6.829.758-3, a su cargo de Secretario Regional Ministerial de Hacienda, grado 4° de la Escala Unica de Sueldos, de la Secretaría y Administración General del Ministerio de Hacienda, destinado a la XII Región de Magallanes y y Antártica Chilena.
+
+2° Nómbrase, a contar del 28 de marzo de 1994, a don Alfredo Fuentes Merino, R.U.T. N° 10.816.633-9, como Secretario Regional Ministerial de Hacienda, grado 4° de la Escala Unica de Sueldos de la Secretaría y Administración General del Ministerio de Hacienda, destinado en la XII Región de Magallanes y Antártica Chilena.
+
+La persona citada asumirá sus funciones a contar de la fecha antes mencionada por razones impostergables de buen servicio, sin esperar la total tramitación del presente Decreto.
+
+Dotación máxima fijada para la Secretaría y Administración General del Ministerio de Hacienda, según Ley de Presupuestos
+
+año 1994................................146.- Dotación efectiva a la fecha............135.- Imputación : 08 01 01 21 01 001
+
+Tómese razón, regístrese, comuníquese y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Eduardo Aninat Ureta, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Manuel Marfán Lewis, Subsecretario de Hacienda.
