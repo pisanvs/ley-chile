@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 280, de 18 de noviembre de 1987, se expropió el lote Nº 2, superficie 254 m2, rol de avalúo 288-80 comuna de Linares, para Alcantarillado de Linares, Mejoramiento Integral del Sistema de Alcantarillado de aguas servidas de Linares y se acordó precio de indemnización con su propietaria doña María Luisa Uribe Burgos, ascendente a $ 567.385.-
+
+Fiscal del Ministerio de Obras Públicas.
