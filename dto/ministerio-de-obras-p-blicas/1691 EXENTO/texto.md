@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº1.691 de fecha 29 de noviembre del 2002, se expropió el lote de terreno Nº18-B, superficie 104 m2., rol Nº114-2, comuna de Pelarco, VII Región, para la obra "Camino Los Robles-Huencuecho-Bajo Perquín, Sector Huencuecho-Bajo Perquín, Tramo km. 46,140.00 al 76,107.70" y se acordó el valor de indemnización con su propietario Esilda del Carmen Lazo Roco, ascendente a la cantidad de $295.892.-
+
+Fiscal del Ministerio de Obras Públicas.
