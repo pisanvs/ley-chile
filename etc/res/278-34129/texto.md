@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Resolución 278, 4 septiembre 1996, SERVIU Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Maipú N° 2362, Rol de Avalúo N° 292-1, comuna Concepción, superficie 344 m2. de terreno y 245 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-11029-292-1; de aparente dominio de Ejército de Chile, para ejecución programa "Mejoramiento Eje Vial Los Carrera de Concepción", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 31 de julio de 1996, fijó monto provisional indemnización en $48.455.000.-, pagadera de contado.-
+
+Director SERVIU Región del Bío Bío.
