@@ -1,0 +1,3 @@
+Por resolución Nº 777, de 28 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícanse el ''Visto'' y el numeral 1º de la resolución Nº 1.186, de 1997, de esta Subsecretaría, que denegó la solicitud de concesión de acuicultura, solicitud Nº 96012002, presentada por PRODUCTOS MARINOS SANTA CRUZ LTDA., para el centro de cultivo ubicado en sector de Pabellón de Pica, Ciego Ernesto, comuna y provincia de Iquique, I Región, en orden a reemplazar, donde corresponda, la expresión ''... Pesquera Díaz Santa Cruz Ltda...'' por ''...Productos Marinos Santa Cruz Ltda...''.
+
+Valparaíso, 28 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
