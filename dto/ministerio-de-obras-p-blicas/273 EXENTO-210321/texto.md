@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº273 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº51, superficie 461,98 m2, rol de Avalúo Nº1252-102, comuna de Parral, para la obra "Camino Ruta L-70, Sector Cruce Ruta 128-Cuatro Esquinas, Tramo Km. 0,000 a Km. 15,800", VII Región y se acordó el valor de indemnización con su propietario Ovidio José Morales Fuentes y Otro, ascendente a la cantidad de $326.434.-
+
+Fiscal del Ministerio de Obras Públicas.
