@@ -1,0 +1,3 @@
+Por resolución N° 1.000, de 21 de Octubre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año a contar del 3 de septiembre de 1992, el plazo otorgado a don JUAN GUILLERMO GAETE TORRES, R.U.T. N° 8.743.074-K, domiciliado en calle Salas N° 687, Departamento 43, Copiapó, para operar un centro de cultivo del recurso Ostión del Norte, en el numeral 5° de la Resolución N° 1143, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.-
+
+Valparaíso, 21 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
