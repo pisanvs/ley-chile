@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.730, de 28 de agosto de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se dejaron sin efecto los numerales 2º, 3º, 4º, 5º y 6º del decreto supremo MOP Nº2.488, de 31 de agosto de 1999, se modificó el Nº7 del mismo, y ordenó el inicio de la vía judicial de la expropiación correspondiente al lote de terreno Nº137, para la obra: Concesión Internacional Ruta 5, Tramo: Río Bueno-Puerto Montt. Sector: Enlace La Laja Km. 1.011,800 al Km. 1.013,160;
+
+Décima Región, que figura a nombre de Constructora América S.A., rol de avalúo 1404-63, comuna de Puerto Varas, superficie 2.493 m2. La comisión de peritos integrada por los señores Christian Emil Rauch Yáñez, Enrique Edgardo Hoelck Altmann y Carlos Eugenio Mera Santibáñez, fijó con fecha 19 de mayo de 1999, el valor provisional de la indemnización en la cantidad de $7.699.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
