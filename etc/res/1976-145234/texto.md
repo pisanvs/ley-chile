@@ -1,0 +1,3 @@
+Por resolución Nº 1.976, de 6 de octubre de 1999, de esta Subsecretaría, déjase sin efecto las resoluciones Nº516 de 1984 y Nº 17 de 1986, ambas de esta Subsecretaría, que autorizaron a ARNOLDO GUTIERREZ CORTES, para instalar y operar el centro de cultivo ubicado en Pilluco, Golfo de Quetalmahue, comuna de Ancud, provincia de Chiloé, X Región.
+
+Valparaíso, 6 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
