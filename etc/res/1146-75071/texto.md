@@ -1,0 +1,3 @@
+Por Resolución Nº 1.146, de 8 de agosto de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la Resolución Nº 1.721, de 1989, de esta Subsecretaría, que autorizó a PESQUERA BAHIA INGLESA S.A., para realizar actividades pesqueras con la nave "Francisco", sólo en lo relativo al litoral comprendido entre la III y IV Regiones, respecto de las especies que a continuación se indican, en virtud de lo dispuesto en el artículo 143º letra b) de la Ley Nº 18.892 de 1989 y sus modificaciones: Agujilla, Anchoveta, Jurel, Machuelo y Sardina española.
+
+Valparaíso, 8 de agosto de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
