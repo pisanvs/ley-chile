@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°322, de 30 de septiembre de 1993, se expropiaron los lotes de terreno N°s. 2 y 3, superficie 2.600 M2., y 60.026 M2., rol de avalúo 186-6, Comuna de Colina, para la obra Ruta G-13, sector Variante Ruta 5 - Ruta 57, sector B y se acordó precio de indemnización con sus propietarios Sociedad Agrícola Los Tauretes Limitada, ascendente a la cantidad de $22.122.780.
+
+Fiscal del Ministerio de Obras Públicas
