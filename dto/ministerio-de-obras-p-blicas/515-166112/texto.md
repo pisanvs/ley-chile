@@ -1,0 +1,3 @@
+Por decreto MOP Nº515, de 28 de febrero del 2000, se expropió el lote de terreno Nº403, superficie 146 m2., rol de avalúo 7854-14, comuna de La Pintana, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Diógenes Cavieres Hernández, ascendente a la cantidad de $8.181.554.-
+
+Fiscal del Ministerio de Obras Públicas.
