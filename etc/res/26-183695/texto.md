@@ -1,0 +1,3 @@
+Mediante resolución Nº 26, de 22 de marzo del año 2001, se aprobó reforma parcial al estatuto de la Cooperativa de Ahorro y Crédito del Personal de la Universidad de Chile Limitada, Coopeuch Ltda., de la ciudad de Santiago; en los términos que dan testimonio las escrituras públicas de fechas 14 de septiembre del 2000 y 7 de marzo del año 2001, ambas suscritas ante el Notario de la ciudad de Santiago, don Enrique Tornero Figueroa.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
