@@ -1,0 +1,9 @@
+Por resolución Nº 2.400, de esta Subsecretaría, autorízase a SERVICIOS TURISTICOS Y HOTELEROS PALOMA LODGE LIMITADA para efectuar una pesca de investigación y actividad de repoblamiento de conformidad con los términos técnicos de referencia del proyecto denominado ''Restablecimiento de una población de Trucha arcoiris en las aguas del sistema del río Paloma'', elaborados por el peticionario y aprobados por esta Subsecretaría de Pesca.
+
+El objetivo principal del proyecto, que por la presente resolución se autoriza, consiste en determinar la factibilidad de asentamiento de poblaciones de Trucha arcoiris en la cuenca del río Paloma, provenientes de otros cuerpos de aguas, con la finalidad de mejorar la calidad de la pesca deportiva y recreativa en el sistema hídrico del río Paloma.
+
+En cumplimiento del objetivo de la presente investigación, el peticionario podrá extraer, con devolución, mediante red de bolinche, 80 ejemplares hembras y 160 ejemplares machos de la especie Trucha arcoiris en los ríos tributarios de los lagos Castor, Pollux, Frío y Monreal, y en los ríos Baker y Simpson, con el objeto de desovarlos in situ. Asimismo, podrá efectuar actividades de repoblamiento en el río Paloma y sus tributarios comprendidos entre los lagos Azul y Caro, con un máximo de 80.000 alevines de talla no superior a 5 centímetros, provenientes de la incubación de las ovas obtenidas.
+
+El proyecto se efectuará por el término de 12 meses contados desde la fecha de la presente resolución. El peticionario designa como persona responsable de esta pesca de investigación a Carlos Muñoz Aguirre, domiciliado en Freire Nº 436, Coyhaique.
+
+Valparaíso, 30 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca,
