@@ -1,0 +1,3 @@
+Por decreto supremo de Educación exento No.13, de 14 de enero de 1992, se han aprobado para el colegio The Grange School, de Santiago, Planes especiales de Estudio para 5º a 8ºaño de Enseñanza Básica y para Educación Media Humanístico-Científica, los cuales serán aplicados simultáneamente a contar del año escolar 1992, excepto en 2º y 4ºs años medios cuya aplicación se iniciará en 1993. La evaluación y promoción de los alumnos de 5º a 8ºaños de Educación Básica, y los de 1º a 4ºs años de Educación Media Humanístico-Científica, se regirá por las disposiciones oficiales vigentes sobre esta materia.
+
+Santiago, 7 de Febrero de 1992.- Raúl Allard Neumann, Subsecretario de Educación.
