@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.036 de fecha 29 de abril de 1999, se expropió el lote de terreno Nº 125-B, superficie 916 m2., rol de avalúo 160-114, comuna de Pemuco, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli Sector: Km. 440.611,50 al Km. 447.870,40'' y se acordó el valor de indemnización con su propietaria Julia de las Mercedes Díaz Parra y otros, ascendente a la cantidad de $1.974.768.-
+
+Fiscal del Ministerio de Obras Públicas.
