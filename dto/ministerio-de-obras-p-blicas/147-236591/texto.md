@@ -1,0 +1,3 @@
+Por Decreto MOP N° 147, de 29 de febrero de 1996, se expropiaron los lotes de terreno N°s. 21-A, 25, 43-A, 51 y 53-A, superficies 14.016 m2., 42.752 m2., 849 m2., 1.300 m2. y 449,4 m2., roles de avalúo 9049-4, 1101-13, 1100-201, 11100-17 y 11100-15, comunas de San Antonio y Cartagena, para la obra Camino Autopista Santiago - San Antonio, sector Leyda - Agua Buena, y se acordó el valor de indemnización con sus propietarios Carolina Fredes Concha y otros, Rafael Astorga Barahona y otros, Ricardo Andrés Rojas Torrejón, Embotelladora Andina S.A. y Claudia Fajardo Fuentes, ascendente a las cantidades de $16.428.523.-; $29.575.595.-; $3.150.861.- $1.447.986.- y $7.864.982.-, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
