@@ -1,0 +1,3 @@
+Por decreto MOP Nº161 de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº108, superficie 484,00 m², rol de avalúo 516-132, comuna de Río Bueno, para la obra "Camino Río Bueno-Crucero, Sector T-90-U y T-933, tramo Km. 0,00000 a Km. 20,90000" y se acordó el valor de indemnización con su propietaria María Gladys Andrade Oyarzún, ascendente a la cantidad de $726.748.-
+
+Fiscal del Ministerio de Obras Públicas.
