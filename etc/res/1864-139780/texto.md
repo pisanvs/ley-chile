@@ -1,0 +1,3 @@
+Por resolución Nº 1.864, de 24 de diciembre de 1998, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Ñague, IV Región, individualizada en el artículo 1º Nº 5) del D.S. Nº 509, de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la COOPERATIVA DE PESCADORES ARTESANALES DE LOS VILOS LIMITADA.
+
+Valparaíso, 24 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
