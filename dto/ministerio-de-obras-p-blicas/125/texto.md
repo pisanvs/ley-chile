@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 125, de 27 de abril de 1993, se expropió el lote de terreno N° 37, superficie 10.850 M2, roles de avalúos 5017-14 y 5017-15, Comuna de Coronel, obra Camino By Pass Coronel Lota (Ruta 160), sector Segunda Calzada Tramo Interurbano Coronel Lota, y se acordó el valor de indemnización con su propietario don Guillermo Contreras Espinoza, ascendente a la cantidad de $ 17.679.755.-
+
+Fiscal del Ministerio de Obras Públicas.
