@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.033, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº8, superficie 478,80 m², rol de avalúo 1252-64, comuna de Parral, para la obra ''Camino Ruta L-70, Sector Cruce Ruta 128-Cuatro Esquinas, Km. 0,000 a Km. 15,800'' y se acordó el valor de indemnización con su propietario Belamino Nibaldo Araya Sánchez, ascendente a la cantidad de $648.670.
+
+Fiscal del Ministerio de Obras Públicas.
