@@ -4374,9 +4374,9 @@ El encaje de que trata el presente Capítulo será calculado por "períodos mens
 
 Los promedios señalados precedentemente, se determinarán considerando sólo los saldos vigentes en los días hábiles bancarios del respectivo "período mensual", para el caso del encaje que debe cumplirse en moneda nacional, y en los días corridos, para el caso de aquél que afecta a las monedas extranjeras.
 
-### 2. Equivalencia en moneda chilena de los saldos en monedas extranjeras
+2.- Equivalencia en dólares de los saldos en otras monedas extranjeras.
 
-Para determinar la equivalencia en moneda chilena de los saldos en monedas extranjeras, se convertirán los respectivos saldos diarios a moneda chilena, al tipo de cambio de representación contable fijado por esta Superintendencia, vigente en las fechas correspondientes.
+Para determinar la equivalencia en dólares de los Estados Unidos de América de los saldos en monedas extranjeras, se convertirán los respectivos saldos diarios a dólares, de acuerdo con las paridades informadas por esta Superintendencia para efectos de representación contable, vigentes en las fechas correspondientes.
 
 ### 3. Intereses y reajustes
 
@@ -4392,7 +4392,7 @@ En el caso de la obtención de recursos mediante venta de documentos con pacto d
 
 Los excedentes de encaje en moneda nacional no pueden utilizarse para cubrir déficit de encabe en monedas extranjeras
 
-Los excedentes de encaje en monedas extranjeras no se pueden emplear para cumplir con la obligación de encaje correspondiente a depósitos, captaciones y otras obligaciones en otras monedas extranjeras ni para cubrir déficit de encaje en moneda chilena.
+Los excedentes de encaje en monedas extranjeras no se pueden emplear para cubrir déficit de encaje en moneda chilena ni en otras monedas extranjeras. Con todo, los excedentes de encaje mantenido en dólares de los Estados Unidos de América serán utilizables para cubrir déficit de encaje en otras monedas extranjeras.
 
 6. Obligaciones afectas a reserva técnica, art. 80 bis Ley General de Bancos.
 
@@ -4572,7 +4572,7 @@ Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaci
 
 3.3.- Inversiones financieras en el exterior que se refiere el Capítulo IV.D.2.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
-Los bancos podrán también deducir de sus obligaciones afectas a encaje los saldos que mantengan por inversiones financieras en el exterior a que se refiere el Capítulo IV.D.2.1 del Compendio de Normas Financieras, demostradas en la partida 1730, hasta un máximo equivalente al 25% de la suma de los depósitos, captaciones y obligaciones afectas a encaje.
+Los bancos podrán también deducir de sus obligaciones afectas a encaje los saldos que mantengan por inversiones financieras en el exterior a que se refiere el Capítulo IV.D.2.1 del Compendio de Normas Financieras, demostradas en la partida 1730, hasta un máximo equivalente al 25% de la suma de los depósitos a plazo en moneda extranjera.
 
 ### 4. Encaje exigido y mantenido
 
@@ -4580,7 +4580,7 @@ Los bancos podrán también deducir de sus obligaciones afectas a encaje los sal
 
 El encaje correspondiente a los depósitos y captaciones en monedas extranjeras, se determinará en forma separada para cada una de las diferentes monedas. En consecuencia, no puede establecerse encaje conjunto.
 
-La instrucción precedente implica que las disponibilidades que los bancos tengan de una determinada moneda extranjera, les servirán como partida de encaje mantenido sólo para los depósitos y captaciones en esa misma moneda.
+La instrucción precedente implica que las disponibilidades que los bancos tengan de una determinada moneda extranjera, les servirán como partida de encaje mantenido sólo para los depósitos y captaciones en esa misma moneda, salvo por la aplicación de los excedentes de encaje mantenido en dólares de los Estados Unidos de América, según lo señalado en el número 5 del título I.
 
 4.2. Encaje mantenido.
 
@@ -4589,6 +4589,8 @@ El encaje, para cada una de las monedas extranjeras, deberá estar compuesto só
 a) Billetes y monedas de curso legal en el respectivo país, ya sea que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa o en tránsito al Banco Central de Chile, y,
 
 b) Depósitos mantenidos en cuenta corriente en el Banco Central de Chile.
+
+El encaje exigido en moneda extranjera puede cubrirse, además, con excedentes de encaje mantenido en dólares de los Estados Unidos de América.
 
 Con todo, los fondos en moneda extranjera que hayan sido utilizados para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación no pueden, a su vez, ser empleados para constituir el encaje mantenido.
 
@@ -11058,6 +11060,8 @@ Atendida la importancia que tiene todo lo anterior, este Organismo ha establecid
 
 Para efectuar las referidas calificaciones, esta Superintendencia se basará en los resultados que obtenga de las revisiones que habitualmente realiza, considerando las pautas que se describen en el Anexo N° 2 de este Capítulo y que se refieren al monto y número de los créditos reclasificados en la oportunidad, así como a la calidad de la información sobre sus deudores, con que cuenta la institución.
 
+En el caso de la cartera que se clasifica según su morosidad, la calificación de la institución se efectuará sobre la base de una evaluación general de las políticas de otorgamiento y administración de esa cartera y de la calidad de los sistemas que se utilicen para el efecto, así como del adecuado reconocimiento de riesgos adicionales, según lo establecido en el numeral 5 2 del título II de este Capítulo.
+
 Las instituciones financieras sujetas a revisión quedarán clasificadas en categoría I, II ó III, según sea la calidad que se determine para sus procesos de clasificación de cartera de acuerdo con los indicadores establecidos para el efecto. La categoría I quedará reservada para las instituciones que muestren buenos sistemas de clasificación según esos indicadores; la categoría II, por su parte, revelará deficiencias que requieren ser atendidas por la administración y que necesariamente gravitan en el énfasis de las revisiones que realiza esta Superintendencia; y, por último, la categoría III contempla desviaciones significativas, de manera que reflejará un proceder claramente inadecuado en la evaluación de riesgos y estimación de pérdidas.
 
 ### II. RIESGO DE LA CARTERA DE COLOCACIONES
@@ -11210,6 +11214,8 @@ b) Su pago se efectúa en cuotas, normalmente iguales y sucesivas.
 
 c) Su monto original no excede, por lo general, del equivalente de 550 U.F. No obstante, aquellos créditos por un valor superior al recién indicado que por su naturaleza puedan ser considerados préstamos de consumo, deberán incluirse en esta clasificación y no en el grupo de créditos comerciales de que trata el N°2 de este título.
 
+Además de los créditos que cumplan con esas características, se considerarán como créditos de consumo para los efectos de clasificación de cartera, los créditos provenientes de la utilización de tarjetas de crédito, tanto de personas naturales como jurídicas.
+
 3.2. Procedimiento para la clasificación de los créditos de consumo.
 
 La determinación del riesgo involucrado en la cartera de créditos de consumo, por el gran número que ellos representan, se mide sobre bases agregadas según el comportamiento global de la morosidad observada.
@@ -11225,6 +11231,8 @@ iii) Categoría "B-": el saldo de los préstamos de consumo cuyas cuotas atrasad
 iv) Categoría "C": el saldo de los préstamos de consumo con cuotas atrasadas por más de tres meses y hasta cinco meses.
 
 v) Categoría "D": el saldo de los préstamos de consumo con cuotas atrasadas por más de cinco meses.
+
+En el caso de créditos correspondientes a tarjetas de crédito, se entenderá que la cuota que determina la morosidad conforme a las instrucciones precedentes, corresponde al pago mínimo u obligación exigible más antigua que no haya sido totalmente cubierta.
 
 ### 4. Clasificación de la cartera de préstamos hipotecarios para la vivienda
 
@@ -11260,13 +11268,31 @@ ii) Categoría B: el saldo de los préstamos con no más de seis dividendos atra
 
 iii) Categoría B-: el saldo de los préstamos con siete o más dividendos atrasados.
 
-5. Excepciones a la clasificación de créditos de consumo o créditos hipotecarios para vivienda sobre la base de la morosidad.
+5.- Riesgos adicionales a los determinados según la morosidad de créditos de consumo o créditos hipotecarios para vivienda.
+
+5.1.- Excepciones a la clasificación sobre la base, de la morosidad.
 
 No obstante lo establecido en los N°s 3 y 4 precedentes, se prescindirá de la clasificación de los créditos sobre la base de la morosidad y en las categorías allí indicadas, cuando por circunstancias especiales se ofrezcan al deudor rebajas significativas en su pago, las que no serán recuperadas por la institución financiera.
 
 En esos casos, las instituciones financieras deberán determinar el valor actual de aquellas rebajas según la tasa efectiva de cada crédito, estableciendo a continuación el porcentaje que dicho valor representa del total del crédito a la misma fecha.
 
 Si el valor actual de las rebajas resulta inferior al 5% del valor total del respectivo crédito, éste se seguirá clasificando sobre la base de su morosidad, de acuerdo con las instrucciones de los N°s 3 ó 4 precedentes, según corresponda. En cambio, si dicho porcentaje resulta igual o superior al 5%, se clasificará el crédito en una de las siguientes categorías, cualquiera sea su morosidad: i) en categoría "B-", cuando ese porcentaje fluctúe entre el 5% y el 39%; ii) en categoría "C" si el porcentaje se sitúa en un rango de 40% a 79%; o, iii) en categoría "D", en el evento de que supere el 79%.
+
+5.2.- Riesgo adicional de los créditos de consumo y créditos hipotecarios para vivienda.
+
+El criterio de clasificar los créditos de consumo y los créditos hipotecarios para vivienda tomando en cuenta solamente la morosidad, según lo establecido en los N°s. 3 y 4 de este título, supone que la institución financiera aplicará procedimientos generales elaborados sobre la base de una prudente ponderación de los factores de riesgo inherentes a esos créditos de carácter masivo.
+
+Por lo tanto, si en la práctica existen hechos que hagan suponer que la mera aplicación de la metodología de clasificación según la morosidad es insuficiente para determinar el riesgo de dicha cartera, es imprescindible que la institución financiera examine objetivamente los procedimientos que se han seguido en el otorgamiento de dichos créditos y su posterior administración, a fin de establecer el riesgo que no ha sido cubierto.
+
+Para ese efecto, en el caso de los créditos de consumo se le dará especial importancia a las políticas de selección de deudores, entre otros, en aspectos tales como la verificación de sus antecedentes comerciales y financieros, la estabilidad y comprobación de sus fuentes de ingresos y la relación entre la cuota de pago resultante para el servicio del crédito y el ingreso del deudor.
+
+Asimismo, deberá considerarse especialmente la política aplicada en la administración de los créditos que presenten algún grado de morosidad. En este aspecto, las instituciones financieras deben tener presente que la clasificación de los créditos de consumo según la morosidad de pago supone la aplicación de políticas estrictas, tanto en las renegociaciones de los préstamos, ampliaciones o readecuaciones de plazos, como en las novaciones de deudas, en el otorgamiento de nuevos créditos, etc., en que las decisiones se adoptan sobre la base de criterios realistas, estando la institución en condiciones de establecer, al examinar la capacidad de pago del deudor y el comportamiento que ha mostrado en el servicio de su deuda, que el nuevo préstamo será pagado en las condiciones de plazo y tasa de interés que se acuerden. Es evidente, por ejemplo, que se requiere reconocer un riesgo adicional al que deriva de la simple clasificación según la morosidad, si existen renegociaciones recurrentes de ciertos créditos, sea que se nove o no la obligación primitiva, o cuando en alguna renegociación el deudor no ha cubierto al menos los gastos incurridos en la cobranza y parte sustantiva de los intereses devengados.
+
+En lo que concierne a los préstamos hipotecarios para vivienda, por su parte, deberá dársele especial importancia a la política que se emplee en la selección de los prestatarios, a la tasación de los bienes adquiridos con el producto del crédito que sirven como garantía de la operación, a la determinación de la capacidad de pago del deudor y a la estabilidad de la fuente de sus recursos. Asimismo, se considerará con mayor rigurosidad a aquellos prestatarios que hayan recibido préstamos adicionales para completar el precio del bien adquirido u otro crédito para fines diferentes caucionado con la misma hipoteca, debiendo respetarse la norma del artículo 22 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile, que establece un límite al monto total del crédito de manera que el dividendo resultante, en aquellos préstamos iguales o inferiores a UF 3.000, no exceda del 25% del ingreso acreditado por el deudor.
+
+Si, como consecuencia de una evaluación efectuada de acuerdo con las pautas antes descritas, el método de clasificación de cartera sobre la base de la morosidad se demostrare insuficiente, por apartarse el comportamiento objetivo de dicha cartera de las pautas señaladas, la institución financiera, siguiendo un criterio estrictamente prudencial en la evaluación del riesgo potencial, deberá cuantificar el mayor riesgo, considerando para el efecto factores tales como el número de renegociaciones efectuadas, el comportamiento de pago, antecedentes comerciales, estabilidad y suficiencia del ingreso, amortizaciones realizadas al préstamo original, etc., que permitan corregir las insuficiencias según las situaciones que se presenten en cada caso. Los criterios seguidos por la institución financiera para determinar el riesgo adicional, cuando corresponda, deberán quedar debidamente documentados.
+
+En todo caso, se presumirá que no es necesario establecer el riesgo adicional, si en la política de otorgamiento y administración de estos créditos se han observado adecuadamente los criterios anteriormente señalados.
 
 ### 6. Pérdida estimada de la cartera
 
@@ -11279,6 +11305,8 @@ El porcentaje estimado de pérdida de la cartera corresponde a aquél que se obt
 b) Pérdida estimada de la cartera.
 
 La pérdida estimada de la cartera corresponde al monto que resulta de multiplicar el porcentaje estimado de pérdida definido en la letra a) precedente, por el total de las colocaciones, incluidos sus reajustes e intereses por cobrar.
+
+Sin embargo, en el caso que se deba reconocer un mayor riesgo para las carteras clasificadas según su morosidad de acuerdo con lo dispuesto en el numeral 5.2 de este título, la pérdida estimada corresponderá al monto que se obtiene según lo señalado en el párrafo precedente, más el importe correspondiente a ese mayor riesgo.
 
 ### 7. Riesgo adicional de la cartera comercial
 
@@ -11350,11 +11378,9 @@ En todo caso, si se otorga un nuevo crédito que tenga alguna de las caracterís
 
 8.5. Riesgos adicionales de la cartera clasificada según su morosidad.
 
-Debido a que la clasificación de los créditos de consumo y de los créditos hipotecarios para la vivienda se efectúa sobre la base de la morosidad de los saldos, resultan importantes los procedimientos que la institución financiera utilice en el otorgamiento y posterior administración de dichos créditos.
+La revisión de esta Superintendencia incluirá también el examen de la razonabilidad del eventual riesgo adicional que hubiera reconocido la institución de acuerdo con lo establecido en el numeral 5.2 de este título o de la necesidad de reconocer tal riesgo adicional.
 
-En consecuencia, en caso de observarse que las políticas de una institución financiera se apartan de un sano criterio financiero, este Organismo Fiscalizador podrá establecer la necesidad de reconocer el riesgo potencial asumido.
-
-En lo que concierne a los préstamos hipotecarios para vivienda, este Organismo dará especial importancia a la política que se emplee en la selección de los prestatarios, a la tasación de los bienes adquiridos que sirven como garantía de la operación, a la determinación de la capacidad de pago del deudor y a la estabilidad de la fuente de sus recursos. Asimismo, se otorgará mayor atención a aquellos prestatarios que hayan recibido préstamos adicionales para completar el precio del bien u otro crédito para fines diferentes caucionado con la misma hipoteca.
+En caso de observarse que el riesgo adicional determinado por la institución financiera no se ajusta a la realidad observada mediante muestras representativas de la cartera clasificada según su morosidad, este Organismo Fiscalizador podrá establecer la necesidad de reconocer un mayor riesgo potencial de dicha cartera.
 
 ### 9. Exigencia de provisiones
 
@@ -11476,6 +11502,10 @@ No obstante, las instituciones financieras deben disponer de tasaciones de todos
 
 Las instituciones financieras deben proporcionar a esta Superintendencia la información acerca de la clasificación de sus activos en categorías de riesgo, de acuerdo con las instrucciones contenidas al respecto en el Manual del Sistema de Información.
 
+4.- Plazo para reconocer el mayor riesgo de la cartera clasificada según su morosidad.
+
+Las instituciones financieras tendrán plazo hasta el 31 de agosto de 1992 para determinar, cuando proceda, el mayor riesgo de que trata el numeral 5.2 del título II de este Capítulo y reconocer contablemente ese mayor riesgo en su provisión global.
+
 3. Calificación de las instituciones financieras según sus procesos de clasificación de cartera.
 
 Las calificaciones de las instituciones financieras en las categorías establecidas según la calidad de sus sistemas de clasificación de cartera, tratadas en el título I de este Capítulo, se aplicarán por primera vez sobre la base de los resultados obtenidos de las revisiones que practique este Organismo a partir del 1° de diciembre de 1990.
@@ -11593,6 +11623,8 @@ Categoria III
 Una entidad financiera será clasificada en categoria III, si se encuentra en una o más de las siguientes situaciones :
 
 .
+
+> **Nota.** La letra I del N°I de la Circular 2686, SBIF, promulgada el 10.06.1992, agrega al presente Anexo los antecedentes relativos al indicador que se utilizará en el caso de los créditos clasificados según su morosidad.
 
 ANEXO N°3
 
@@ -11806,7 +11838,9 @@ En el caso en que sólo una parte del crédito se encuentre cubierta con garant�
 
 3.2.2. Créditos pagaderos en cuotas.
 
-Cuando se trate de créditos pagaderos en cuotas, como lo son los préstamos en letras de crédito o los llamados préstamos de consumo y otros con modalidades de servicio similares, el plazo para efectuar el castigo será de 36 meses a partir de la fecha en que se traspase a cartera vencida la cuota impaga más antigua. Al momento de cumplirse 36 meses de permanencia de una cuota en cartera vencida, se castigará esa cuota y las demás que estuvieren en situación de mora. Las restantes cuotas aún cobrables deberán castigarse a medida que se cumpla la fecha original de vencimiento de cada una de ellas, sin perjuicio de que puede también castigarse el total del saldo del crédito.
+Cuando se trate de créditos pagaderos en cuotas, como lo son los préstamos en letras de crédito y otros con modalidades de servicio similares, el plazo para efectuar el castigo será de 36 meses a partir de la fecha en que se traspase a cartera vencida la cuota impaga más antigua. Al momento de cumplirse 36 meses de permanencia de una cuota en cartera vencida, se castigará esa cuota y las demás que estuvieren en situación de mora. Las restantes cuotas aún cobrables deberán castigarse a medida que se cumpla la fecha original de vencimiento de cada una de ellas, sin perjuicio de que puede también castigarse el total del saldo del crédito.
+
+No obstante, en el caso de los créditos de consumo a que se refiere el numeral 3.1 del título II del Capítulo 8-28 de esta Recopilación, incluidos los créditos correspondientes al uso de tarjetas de crédito, el plazo a que se refiere el párrafo precedente será de 12 meses.
 
 3.3. Contabilización de los castigos de colocaciones.
 
