@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A SOCIEDAD FAENADORA Y COMERCIALIZADORA DE PRODUCTOS ALIMENTICIOS ARANEDA LTDA.
+
+Núm. 10.- Certifico que, Sociedad Faenadora y Comercializadora de Productos Alimenticios Araneda Ltda., Rut Nº78.879.360-K, cumple los requisitos establecidos en la resolución NºEx. 2.705 de 07.05.98, publicada en el Diario Oficial de 12.05.98, modificada por la Res. NºEx. 3.784 de 25.06.98, publicada en el Diario Oficial de 30.06.98 y que en consecuencia tiene la calidad de agente retenedor del Impuesto al Valor Agregado, en las ventas de carne y servicio de faenamiento de ganado que efectúe durante el período comprendido entre el 1º del mes siguiente al de la publicación de este certificado en el Diario Oficial y el 31 de julio de 1999.
+
+Temuco, 3 de agosto de 1998.- Octavio Sepúlveda Becker, Director Regional IX Dirección Regional (S).
