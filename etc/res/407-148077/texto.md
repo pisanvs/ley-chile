@@ -1,0 +1,7 @@
+AUTORIZA A DON CRISTINO STANGE STANGE PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 407, de 04 de Mayo de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Cristino Stange Stange, R.U.T. No. 7.945.843-0, domiciliado en el sector de Correntoso km. 28 del Camino de 'Puerto Montt a Lago Chapo, Comuna de Puerto Montt, X Región, para capturar 150 ejemplares adultos de Salmón plateado en el río Pescado y hasta 100 ejemplares adultos de la misma especie en el río Chamiza, utilizando solamente redes de trasmallo en la desembocadura de ambos ríos en el Lago Llanquihue, en el período comprendido entre la fecha de este instrumento hasta el 15 de Julio de 1987, con el objeto de obtener productos sexuales de la especie, destinada a reemplazar las importaciones de ovas de salmón por ovas producidas en el país. Las personas que podrán llevar a cabo las captura son las siguientes: Cristino Stange S., R.U.T. No. 7.945.843-0, Gilberto Stange S., R.U.T. No. 4.348.004-9, Silvia del C. Lavín V., R.U.T. No. 7.487.068-6, Celestino Guzmán R., R.U.T.
+
+No. 7.150.146-9, Jorge Serón S., R.U.T. No. 10.106.195-7 y Juan Ulises Barría O,, R.U.T. No. 6.844.463-2. Las ovas obtenidas de las capturas serán incubadas en la piscicultura de propiedad del Sr. Teobaldo Stange Neuman, autorizado a operar por Resolución No. 286, de 21 de Diciembre de 1979, de esta entidad.
+
+Valparaíso, 04 de Mayo de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
