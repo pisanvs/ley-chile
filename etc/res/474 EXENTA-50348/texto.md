@@ -1,0 +1,3 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A SOC. AGRICOLA Y FORESTAL DEGENFELD LIMITADA
+
+La Dirección Regional Puerto Montt del S.I.I., por resolución Nº Ex-474 de 18 de Diciembre de 1996, excepciona, a contar del 1º del mes siguiente al de esta publicación a Soc. Agrícola y Forestal Degenfeld Limitada Rut Nº 79.500.980-9 del régimen de Cambio de Sujeto de IVA establecido en la resolución Nº Ex-4325 de la Dirección Nacional, publicada en el Diario Oficial del día 17 de septiembre de 1996.
