@@ -1960,6 +1960,10 @@ Por consiguiente, los bancos quedan facultados para autorizar a sus clientes a f
 
 Las normas precedentes se refieren exclusivamente a la posibilidad de estampar las firmas mecánicamente Por consiguiente, cuando se trate sólo de imprimir los datos de los cheques por medios computacionales poniéndose la rúbrica de mano propia, dichas disposiciones no son aplicables Por lo mismo, en estos casos el cheque necesariamente debe indicar la cantidad tanto en cifras como en letras.
 
+1.5 Giro de cheques por mandato o por representación legal.
+
+Cuando el girador de un cheque actúe por mandato o por representación legal del titular de la respectiva cuenta corriente y así conste en el banco, podrá omitir la mención de que está firmando por poder. Igualmente, en el caso de que se gire en representación de personas jurídicas podrá omitirse la razón social o el nombre del establecimiento de que se trate.
+
 ### 2. Tacha de menciones impresas que contiene el cheque
 
 El artículo 13 de la Ley sobre Cuentas Corrientes Bancarias y Cheques
@@ -5892,6 +5896,8 @@ Código Plaza Jurisdicción
 
 0144 Ovalle "
 
+0148 Monte Patria "
+
 0152 Combarbalá "
 
 0160 Illapel "
@@ -5972,6 +5978,8 @@ Código Plaza Jurisdicción
 
 0400 Rancagua "
 
+0416 Machalí "
+
 0424 Doñihue "
 
 0432 Requínoa "
@@ -6029,6 +6037,8 @@ Código Plaza Jurisdicción
 0592 Coelemu "
 
 0600 Chillán "
+
+0602 Coihueco "
 
 0608 Tomé "
 
@@ -15624,7 +15634,7 @@ Para acreditar el cumplimiento de los requisitos antes mencionados y proporciona
 
 De acuerdo con el artículo 73 de la Ley General de Bancos, esta Superintendencia dispone de un plazo de 90 días para aceptar o rechazar la constitución de una sociedad filial, a contar de la fecha de la solicitud.
 
-Para rechazarla, este Organismo debe dictar una resolución fundada en que no se han cumplido los requisitos establecidos por la ley, o en la circunstancia de que existen deficiencias en su gestión cuando se trate una entidad que se encuentre categoría III según la clasificación de gestión y solvencia a que se refiere el artículo 59 y siguientes.
+Para rechazarla, este Organismo debe dictar una resolución fundada en que no se han cumplido los requisitos establecidos por la ley, o en la circunstancia de que existen deficiencias en su gestión cuando se trate una entidad que se encuentre clasificada en categoría III según la clasificación de gestión y solvencia a que se refiere el artículo 59 y siguientes.
 
 La ley prevé la posibilidad de que esta Superintendencia pida antecedentes adicionales, en cuyo caso el plazo señalado anteriormente se extiende a 120 días.
 
@@ -15740,15 +15750,13 @@ El giro específico de estas sociedades es materia de autorización por parte de
 
 2.- Constitución y participación en sociedades de apoyo al giro.
 
-Para constituir una sociedad de apoyo al giro, los bancos y sociedades financieras requerirán de la autorización expresa de este Organismo, el que dará su aprobación a los estatutos de dicha sociedad. Igualmente, cada modificación de los estatutos de la sociedad requerirá de la aprobación de esta Superintendencia.
+Para constituir una sociedad de apoyo al giro, las que podrán ser sociedades anónimas o de responsabilidad limitada, los bancos y sociedades financieras requerirán de la autorización expresa de este Organismo, el que dará su aprobación a los estatutos de dicha sociedad. Igualmente, cada modificación de los estatutos de la sociedad requerirá de la aprobación de esta Superintendencia.
 
 Para solicitar la autorización correspondiente, las instituciones financieras interesadas deberán entregar a esta Superintendencia los antecedentes que se detallan en el Anexo N° 3 de este Capítulo.
 
 Las sociedades de apoyo al giro podrán ser constituidas con la participación de una o más instituciones financieras. En cualquier caso, excepcionalmente podrá autorizarse la participación como socios minoritarios a entidades que no sean bancos, sociedades financieras ni filiales de los mismos, si se demuestra a este Organismo que ello resultará ventajoso para las instituciones financieras que participan.
 
-Cada vez que se desee incorporar un nuevo socio, éste deberá solicitar autorización a esta Superintendencia.
-
-Las sociedades de que se trata pueden adoptar la forma de sociedades anónimas abiertas o cerradas o de responsabilidad limitada y sólo podrán constituirse una vez que sea aprobada la participación de todos sus socios. En todo caso, cuando participen socios que no sean entidades fiscalizadas por esta Superintendencia, las empresas deberán adoptar siempre la forma de sociedades de responsabilidad limitada.
+Cada vez que se desee incorporar un nuevo socio o accionista, la sociedad deberá solicitar autorización a esta Superintendencia.
 
 3.- Disminución de la participación en una empresa de apoyo.
 
@@ -15910,6 +15918,10 @@ Los antecedentes mencionados en este anexo deberán permitir una evaluación efi
 
 ANEXO N°2
 
+ANEXO N° 2
+
+Pág 1
+
 ACTIVIDADES AUTORIZADAS A EMPRESAS DE APOYO AL GIRO
 
 A continuación se describen los tipos de servicios que esta Superintendencia ha autorizado para la constitución de empresas de apoyo al giro:
@@ -15922,11 +15934,13 @@ A continuación se describen los tipos de servicios que esta Superintendencia ha
 
 - Administración de tarjetas de crédito de acuerdo con las normas del Banco Central de Chile y de la Superintendencia.
 
-- Recaudación de pagos de servicios (agua, gas, electricidad, teléfono), impuestos, contribuciones, cuotas de créditos, cuotas de patentes u otros derechos, imposiciones provisionales, matrículas, cuotas de establecimientos educacionales, cuotas de socios de instituciones, etc.
+- Recaudación de pagos de servicios (agua, gas, electricidad, teléfono), impuestos, contribuciones, cuotas de créditos, cuotas de patentes u otros derechos, imposiciones previsionales, matrículas, cuotas de establecimientos educacionales, cuotas de socios de instituciones, etc.
 
-- Pagos provisionales y de salud, de dividendos a accionistas, a proveedores, de remuneraciones y beneficios al personal de empresas, etc.
+- Pagos previsionales y de salud, de dividendos a accionistas, a proveedores, de remuneraciones y beneficios al personal de empresas, etc.
 
-- Participación en sociedad de depósito de valores creada de conformidad con la Ley N° 18.876.
+- Participación en sociedad de depósito de valores creada de conformidad con la Ley N° 18876.
+
+- Recopilación y preevaluación de antecedentes de potenciales clientes de una institución financiera.
 
 ANEXO N° 3
 
