@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº79, de fecha 21 de febrero de 2002, se expropió el lote de terreno Nº20-D, superficie 537 m², rol de avalúo Nº341-1, comuna de La Ligua V Región, para la obra "Camino Ruta E-39, Sector Quinquimo - El Rayado" y se acordó el valor de indemnización con su propietario don Agusto Sigifredo González González, ascendente a la cantidad de $2.112.859.-
+
+Fiscal del Ministerio de Obras Públicas.
