@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.370, de 8 de octubre de 2003, de esta Subsecretaría, autorízase a PESQUERA EL GOLFO S.A. para ampliar actividades pesqueras extractivas, en orden a realizar actividades pesqueras con la nave "Pelikan", en el Archipiélago de Juan Fernández, Isla de Pascua, Islas Sala y Gómez e Islas Desventuradas, por fuera del área de reserva artesanal, con palangre, donde podrá capturar los recursos que a continuación se señalan: Atún aleta amarilla, Atún aleta larga, Atún ojos grandes, Bonito, Marrajo o tiburón, Tollo, Atún chauchera, Marlin rayado, Atún aleta azul, Azulejo, Marlin trompa corta, Marlin negro, Marlin azul o zuncho.
+
+Valparaíso, 8 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
