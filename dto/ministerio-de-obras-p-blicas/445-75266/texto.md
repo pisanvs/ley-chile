@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 445, de 30 de junio de 1997, se expropiaron los lotes de terreno N° 1, 1-A, superficies 2.400 y 1.102 M2. respectivamente, rol de avalúo 508-18, comuna de Santa Cruz, para la obra Camino Chépica-La Fuente I-72 sector Puenre la Fuente y se acordó precio de indemnización con su propietario Sucesión de don Luis Pavez Sandoval, ascendente a la cantidad de $5.093.734.-
+
+Fiscal del Ministerio de Obras Públicas
