@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA TRANS ANTARTIC LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.349 de 26 de noviembre de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Trans Antartic Limitada, domiciliada en Santiago, para ampliar las actividades pesqueras autorizadas por resoluciones No. 260 y No. 701, ambas de 1986, de esta Subsecretaría, en orden a instalar y operar un establecimiento de cultivo de Salmón plateado, Salmón del Atlántico y Trucha arcoíris, en terrenos colindantes al Río Grande, Comuna de Cochamó, Provincia de Llanquihue, X Región. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan. Las ovas serán adquiridas a establecimientos de cultivo autorizados o importadas.
+
+Valparaíso, 26 de noviembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
