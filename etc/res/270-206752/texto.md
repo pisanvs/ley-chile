@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Resolución 270, 17 diciembre 2002, Serviu Región del Bío Bío, ordenó expropiación parcial inmueble ubicado en calle O'Higgins 1, Rol de avalúo Nº 2305-1, comuna Chiguayante, superficie 1.891,60 m2 de terreno, dentro polígono y linderos señalados plano expropiación S8R-17311; de aparente dominio de Ella María Jensen Schaub, para ejecución programa de viviendas en comuna de Chiguayante, conforme artículo 51 ley 16.391 y DL Nº 2.186. Comisión peritos integrada por Leonardo Eugenio Fasce Casanueva, arquitecto, Oscar Aurelio Chávez Alcaíno, ingeniero agrónomo, y Gonzalo Melo Sáez, constructor civil, según informe de fecha 12 de junio de 2002, fijó monto provisional indemnización en $46.515.140.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
