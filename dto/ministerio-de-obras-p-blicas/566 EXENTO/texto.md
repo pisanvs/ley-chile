@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº566, de 30 de abril de 2002 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº118-T para la obra: ''Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Ruta V-500 Km.
+
+1,420 a Km. 2,900'', Décima Región, que figura a nombre de Kinast Kuschel Ricardo Jermán, rol de avalúo 995-70, comuna de Puerto Varas, superficie 213 m2. La comisión de peritos integrada por los señores, Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Nelson Bernardo Turra Turra, fijó con fecha 22 de febrero de 2002, el valor provisional de la indemnización en la cantidad de $553.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
