@@ -1,0 +1,3 @@
+Por decreto MOP Nº336 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº71, superficie 6.076 m2, Rol Nº302-121, comuna de Cunco, IX Región para la obra "Camino Ruta S-61, sector: Cunco - Melipeuco, tramo Km. 55,000 al Km. 87,46783, correspondiente al sub-Tramo II Km. 62,784 al Km. 76,043" y se acordó el valor de indemnización con su propietario Floridor Alberto Escobar González, ascendente a la cantidad de $9.630.836.
+
+- Fiscal del Ministerio de Obras Públicas.
