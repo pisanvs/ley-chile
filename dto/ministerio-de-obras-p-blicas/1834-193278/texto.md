@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.834, de 31 de octubre del 2001, se expropió el lote de terreno Nº3, superficie 829 m2., rol de avalúo 163-8, comuna de Casablanca, para la obra Red Vial Litoral Central Sector 3: Eje Costero Interior Subtramo Rosario-Orrego Abajo, Kms. 16.840,00 al 20.673,30, Quinta Región y se acordó el valor de indemnización con su propietario Sergio Enrique Rojas Vera, ascendente a la cantidad de $3.422.639.
+
+- Fiscal del Ministerio de Obras Públicas.
