@@ -1,0 +1,7 @@
+AUTORIZA A PESQUERA TRANS ANTARTIC LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 813, de 04 de Diciembre de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Trans Antartic Limitada, domiciliada en Santiago, para instalar y operar una planta procesadora de recursos hidrobiológicos en Aysén, XI Región, en las líneas de fresco, congelado, conserva, semiconservas, deshidratado, y harina de pescado exclusivamente con los desechos de las líneas de proceso para consumo humano. Podrá utilizar como materia las siguientes especies: congrio colorado, congrio dorado, congrio negro, merluza común, merluza española, mero, pejegallo, pejerrey de mar, raya, sargo común, sierra, rollo, almeja, loco, taca, calamar, caracol trumulco, cholga, chorito, choro zapato, lapa, macha, navajuela, ostión del Sur, ostra, pulpo, camarón de roca, camarón nailón, centolla, centollón, jaiba, erizo, picoroco, piure, salmón del Pacífico, trucha arco iris, estos, dos últimos sólo podrán provenir de establecimientos de cultivo autorizados, pelillo, chasca, chascón, lugaluga, cochayuyo y chicorea de mar.
+
+La interesada deberá efectuar el transporte de las especies destinadas a consumo humano desde su centro de abastecimiento hasta la planta elaboradora en medios dotados de sistemas adecuados de preservación de la materia prima.
+
+Valparaíso, 04 de Diciembre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
