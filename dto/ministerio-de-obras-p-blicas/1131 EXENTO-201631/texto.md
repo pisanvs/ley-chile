@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.131 de fecha 30 de julio de 2002, se expropiaron los lotes de terreno Nº1, 2 y 3, superficies 2.308,20, 11.821,00 y 1.314,90 m², rol de avalúo Nº1004-71, comuna de Natales, para la obra ''Mejoramiento Ruta 9, Sector Aeródromo - Bif. Cueva del Milodón, Km. 251,30000 a Km. 263,38718, Ultima Esperanza'', XII Región y se acordó el valor de la indemnización con su propietario Servio Eladio Saldivia Kroeger, ascendente a la cantidad de $2.620.863.-
+
+Fiscal del Ministerio de Obras Públicas.
