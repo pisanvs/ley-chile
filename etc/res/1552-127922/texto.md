@@ -1,0 +1,3 @@
+Por resolución Nº 1.552, de 13 de noviembre de 1998, de esta Subsecretaría, autorízase a SOCIEDAD CONSERVAS CALBUCO DE HERMINIO E IGNACIO PARANCAN LLANCAPANI LIMITADA, para ampliar actividades pesqueras autorizadas por resoluciones Nº 426, de 1992, Nº 753, de 1994 y Nº 279, de 1996, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en San Rafael s/nº, Calbuco, X Región, en las líneas de elaboración que se indican los siguientes recursos hidrobiológicos: Conserva: Taquilla y Pepino de mar; Cocción: Pepino de mar; Salado y Seco-Salado: Anchoveta, Jurel, Sardina española, Sardina común, Pejerrey de mar y Pepino de mar.
+
+Valparaíso, 13 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
