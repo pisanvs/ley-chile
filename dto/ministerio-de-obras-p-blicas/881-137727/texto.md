@@ -1,0 +1,5 @@
+Por decreto MOP Nº 881, de 22 de abril de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 284-B para la obra ''Concesión Internacional Ruta 5; Tramo Temuco -
+
+Río Bueno'' Km. 801,95760 a Km. 803,35000, Décima Región, que figura a nombre de Cartes Espinoza Alejandro, rol de avalúo 105-5, comuna de Máfil, superficie 248 m2. La comisión de peritos integrada por las señoras Guisselle Leal Rosas, María José Freire Allendes y el señor Gustavo Lacrampe Holtheuer, fijó con fecha 14 de enero de 1999, el valor provisional de la indemnización en la cantidad de $556.900.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
