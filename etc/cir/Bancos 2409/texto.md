@@ -3848,6 +3848,8 @@ Este Organismo procederá a inscribir la emisión en el Registro de Valores y a 
 
 Debe tenerse presente que, conforme a lo dispuesto en el artículo 6° de la Ley N° 18.045, no puede hacerse oferta pública de los valores mientras la emisión no se encuentre inscrita en el Registro de Valores.
 
+Tan pronto como las instituciones financieras emisoras reciban el certificado de inscripción antes mencionado, deberán informar a las respectivas firmas evaluadoras, a fin de que éstas procedan a publicar la clasificación de los instrumentos inscritos.
+
 ### II. EMISION DE ACCIONES
 
 ### 1. Autorización previa
