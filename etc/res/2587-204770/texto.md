@@ -1,0 +1,3 @@
+Por resolución Nº 2.587, de 8 de noviembre de 2002, de esta Subsecretaría, declárase la caducidad de la resolución Nº132 de 1986, de esta Subsecretaría, que autorizó a PESQUERA QUINTERO S.A. para operar la nave "Eversen", en el área marítima comprendida entre la IV y VII Regiones, sobre los recursos hidrobiológicos Jurel, Sardina española, Sardina común, Anchoveta y Caballa, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado por memorándum de la División de Desarrollo Pesquero de esta Subsecretaría citado en Visto.
+
+Valparaíso, 8 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
