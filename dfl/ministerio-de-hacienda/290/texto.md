@@ -1,0 +1,1 @@
+Fija la planta del personal del Servicio de Seguro Social.
