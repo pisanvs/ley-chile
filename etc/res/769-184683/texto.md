@@ -1,0 +1,3 @@
+Por resolución Nº769, de 20 de abril de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº99110061, presentada por SALMONES MULTIEXPORT LIMITADA, para instalar y operar el centro de cultivo ubicado en Canal Simpson, sector Norte de Isla Tahuenahuec, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 20 de abril de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
