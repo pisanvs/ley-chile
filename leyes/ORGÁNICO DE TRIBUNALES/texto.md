@@ -230,13 +230,21 @@ Cuatro juzgados con asiento en la comuna de Iquique, con jurisdicción sobre la 
 
 En la Segunda Región, de Antofagasta, existirán los siguientes juzgados de letras:
 
+A.- JUZGADOS CIVILES:
+
+Tres juzgados de letras en lo civil en la comuna de Antofagasta, con jurisdicción sobre las comunas de Antofagasta, Mejillones y Sierra Gorda.
+
+B.- JUZGADOS DEL CRIMEN:
+
+Tres juzgados del crimen en la comuna de Antofagasta, con jurisdicción sobre las comunas de Antofagasta, Mejillones y Sierra Gorda.
+
+C.- JUZGADOS DE COMPETENCIA COMUN:
+
 Un juzgado con asiento en la comuna de Tocopilla, con jurisdicción sobre la misma comuna;
 
 Un juzgado con asiento en la comuna de María Elena, con jurisdicción sobre la misma comuna;
 
-Tres juzgados con asiento en la comuna de Calama, con jurisdicción sobre las comunas de la provincia de El Loa;
-
-Cuatro juzgados con asiento en la comuna de Antofagasta, con jurisdicción sobre las comunas de Antofagasta, Mejillones y Sierra Gorda, y
+Tres juzgados con asiento en la comuna de Calama, con jurisdicción sobre las comunas de la provincia de El Loa, y
 
 Un juzgado con asiento en la comuna de Taltal, con jurisdicción sobre la misma comuna.
 
@@ -280,13 +288,13 @@ A.- JUZGADOS CIVILES:
 
 Cinco juzgados de letras en lo civil con asiento en la comuna de Valparaíso y jurisdicción sobre las comunas de Valparaíso y Juan Fernández.
 
-Tres juzgados de letras en lo civil con asiento y jurisdicción sobre la comuna de Viña del Mar, los cuales tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
+Tres juzgados de letras en lo civil con asiento en la comuna de Viña del Mar y jurisdicción sobre las comunas de Viña del Mar y Concón, los cuales tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 
 B.- JUZGADOS DEL CRIMEN:
 
 Cinco juzgados del crimen con asiento en la comuna de Valparaíso y jurisdicción sobre las comunas de Valparaíso y Juan Fernández.
 
-Tres juzgados del crimen con asiento y jurisdicción sobre la comuna de Viña del Mar, los cuales tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
+Tres juzgados del crimen con asiento en la comuna de Viña del Mar y jurisdicción sobre las comunas de Viña del Mar y Concón, los cuales tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 
 C.- JUZGADOS CON COMPETENCIA COMUN:
 
@@ -320,13 +328,21 @@ Un juzgado de letras con asiento en Isla de Pascua, con jurisdicción sobre la c
 
 #### Artículo 33
 
-En la Sexta Región, del Libertador General Bernardo O'Higgins, existirán los siguientes juzgados de letras:
+En la Sexta Región, del Libertador General Bernardo O'Higgins, existirán los siguientes juzgados de letras que tendrán jurisdicción en los territorios que se indican:
 
-Cuatro juzgados con asiento en la comuna de Rancagua, con jurisdicción sobre las comunas de Rancagua, Graneros, Mostazal, Codegua, Machalí, Coltauco, Doñihue, Coínco y Olivar;
+A.- JUZGADOS CIVILES:
+
+Dos juzgados de letras en lo civil con asiento en la comuna de Rancagua, con jurisdicción sobre las comunas de Rancagua, Graneros, Mostazal, Codegua, Machalí, Coltauco, Doñihue, Coínco y Olivar.
+
+B.- JUZGADOS DEL CRIMEN:
+
+Tres juzgados del crimen con asiento en la comuna de Rancagua, con jurisdicción sobre las comunas de Rancagua, Graneros, Mostazal, Codegua, Machalí, Coltauco, Doñihue, Coínco y Olivar.
+
+C.- JUZGADOS CON COMPETENCIA COMUN:
 
 Dos juzgados con asiento en la comuna de Rengo, con jurisdicción sobre las comunas de Rengo, Requínoa, Malloa y Quinta de Tilcoco;
 
-Un juzgado con asiento en la comuna de San Vicente, con jurisdicción sobre las comunas de San Vicente y Píchidegua;
+Un juzgado con asiento en la comuna de San Vicente, con jurisdicción sobre las comunas de San Vicente y Pichidegua;
 
 Un juzgado con asiento en la comuna de Peumo, con jurisdicción sobre las comunas de Peumo y Las Cabras;
 
@@ -338,7 +354,7 @@ Dos juzgados con asiento en la comuna de Santa Cruz, con jurisdicción sobre las
 
 En la Séptima Región, del Maule, existirán los siguientes juzgados de letras:
 
-Cuatro juzgados con asiento en la comuna de Talca, con jurisdicción sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule y Pencahue;
+Cuatro juzgados con asiento en la comuna de Talca, con jurisdicción sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule, Pencahue y San Rafael;
 
 Un juzgado con asiento en la comuna de Constitución, con jurisdicción sobre las comunas de Constitución y Empedrado;
 
@@ -364,19 +380,21 @@ En la Octava Región, del Bío Bío, existirán los siguientes juzgados de letra
 
 A.- JUZGADOS CIVILES:
 
-Tres juzgados de letras en lo civil con asiento en la comuna de Concepción, con jurisdicción sobre las comunas de Concepción, Penco y Hualqui;
+Dos juzgados de letras en lo civil, con asiento en la comuna de Chillán, con jurisdicción sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo;
 
-Dos juzgados de letras en lo civil con asiento en la comuna de Talcahuano, con jurisdicción sobre la misma comuna, que tendrá la categoría de juzgado de asiento de Corte para todos los efectos legales.
+Tres juzgados de letras en lo civil con asiento en la comuna de Concepción, con jurisdicción sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz y Chiguayante, y
+
+Dos juzgados de letras en lo civil con asiento en la comuna de Talcahuano, con jurisdicción sobre la misma comuna, que tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 
 B.- JUZGADOS DEL CRIMEN:
 
-Cuatro juzgados del crimen con asiento en la comuna de Concepción, con jurisdicción sobre las comunas de Concepción, Penco y Hualqui;
+Dos juzgados del crimen con asiento en la comuna de Chillán, con jurisdicción sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo;
+
+Cuatro juzgados del crimen con asiento en la comuna de Concepción, con jurisdicción sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz y Chiguayante, y
 
 Dos juzgados del crimen con asiento en la comuna de Talcahuano, con jurisdicción sobre la misma comuna, que tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 
 C.- JUZGADOS CON COMPETENCIA COMUN:
-
-Cuatro juzgados con asiento en la comuna de Chillán, con jurisdicción sobre las comunas de Chillán, Pinto y Coihueco;
 
 Dos juzgados con asiento en la comuna de San Carlos, con jurisdicción sobre las comunas de San Carlos, Ñiquén, San Fabián y San Nicolás;
 
@@ -396,9 +414,9 @@ Un juzgado con asiento en la comuna de Mulchén, con jurisdicción sobre la comu
 
 Un juzgado con asiento en la comuna de Nacimiento, con jurisdicción sobre las comunas de Nacimiento y Negrete;
 
-Un juzgado con asiento en la comuna de Laja, con jurisdicción sobre la misma comuna;
+Un juzgado con asiento en la comuna de Laja, con jurisdicción sobre las comunas de Laja y San Rosendo;
 
-Un juzgado con asiento en la comuna de Yumbel, con jurisdicción sobre las comunas de Yumbel, Cabrero y San Rosendo;
+Un juzgado con asiento en la comuna de Yumbel, con jurisdicción sobre las comunas de Yumbel y Cabrero;
 
 Un juzgado con asiento en la comuna de Tomé, con jurisdicción sobre la misma comuna;
 
@@ -424,11 +442,11 @@ En la Novena Región, de la Araucanía, existirán los siguientes juzgados de le
 
 A.- JUZGADOS CIVILES:
 
-Dos juzgados en lo civil con asiento en la comuna de Temuco, con jurisdicción sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco y Freire.
+Tres juzgados en lo civil con asiento en la comuna de Temuco, con jurisdicción sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco, Freire y Padre Las Casas.
 
 B.- JUZGADOS DEL CRIMEN:
 
-Tres juzgados del crimen con asiento en la comuna de Temuco, con jurisdicción sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco y Freire.
+Tres juzgados del crimen con asiento en la comuna de Temuco, con jurisdicción sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco, Freire y Padre Las Casas.
 
 C.- JUZGADOS CON COMPETENCIA COMUN:
 
@@ -478,7 +496,7 @@ Cuatro juzgados con asiento en la comuna de Osorno, con jurisdicción sobre las 
 
 Un juzgado con asiento en la comuna de Río Negro, con jurisdicción sobre las comunas de Río Negro y Purranque;
 
-Tres juzgados con asiento en la comuna de Puerto Montt, con jurisdicción sobre las comunas de Puerto Montt, Cochamó y Hualaihué;
+Cuatro juzgados con asiento en la comuna de Puerto Montt, con jurisdicción sobre las comunas de Puerto Montt, Cochamó y Hualaihué;
 
 Dos juzgados con asiento en la comuna de Puerto Varas, con jurisdicción sobre las comunas de Puerto Varas, Llanquihue, Frutillar y Fresia;
 
@@ -530,21 +548,23 @@ Treinta juzgados de letras en lo civil, con asiento en la comuna de Santiago, co
 
 Cuatro juzgados de letras en lo civil, con jurisdicción sobre las comunas de San Miguel, San Joaquín, La Granja, La Pintana, San Ramón, Pedro Aguirre Cerda, La Cisterna, El Bosque y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 
+Un juzgado de letras en lo civil, con asiento en la comuna de Puente Alto, con jurisdicción sobre las comunas de la provincia de Cordillera.
+
 B.- JUZGADOS DEL CRIMEN:
 
 Treinta y seis juzgados del crimen con jurisdicción sobre las comunas de la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de corte para todos los efectos legales;
 
 Once juzgados del crimen con jurisdicción sobre las comunas de San Miguel, San Joaquín, La Granja, La Pintana, San Ramón, Pedro Aguirre Cerda, La Cisterna, El Bosque y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 
-C.- JUZGADOS CON COMPETENCIA COMUN:
+Tres juzgados del crimen, con asiento en la comuna de Puente Alto, con jurisdicción sobre las comunas de la provincia de Cordillera.
 
-Tres juzgados con asiento en la comuna de Puente Alto, con jurisdicción sobre todas las comunas de la provincia Cordillera;
+C.- JUZGADOS CON COMPETENCIA COMUN:
 
 Tres juzgados con asiento en la comuna de San Bernardo, con jurisdicción sobre las comunas de San Bernardo y Calera de Tango;
 
 Dos juzgados con asiento en la comuna de Talagante y jurisdicción sobre las comunas de Talagante, El Monte e Isla de Maipo;
 
-Un juzgado con asiento en la comuna de Peñaflor y jurisdicción sobre la misma comuna;
+Un juzgado con asiento en la comuna de Peñaflor, con jurisdicción sobre las comunas de Peñaflor y Padre Hurtado;
 
 Dos juzgados con asiento en la comuna de Melipilla, con jurisdicción sobre las comunas de la provincia de Melipilla, con excepción de Curacaví, y
 
@@ -594,7 +614,7 @@ b) De las causas de minas, cualquiera que sea su cuantía. Se entiende por causa
 
 c) De los actos judiciales no contenciosos, cualquiera sea su cuantía, salvo lo dispuesto en el artículo 494 del Código Civil;
 
-d) De las causas por crimen o simple delito, salvo de aquellas cuyo conocimiento corresponde a los Juzgados de Policía Local para el juzgamiento de los delitos de vagancia y mendicidad que se cometan fuera de los límites urbanos de la ciudad en que tenga su asiento el tribunal;
+d) De las causas por crimen o simple delito;
 
 e) De las causas por faltas del Código Penal, que se cometan en la ciudad donde tenga su asiento el tribunal, siempre que no haya en ella juez de Policía Local que sea abogado.
 
@@ -740,9 +760,11 @@ Las Cortes de Apelaciones se compondrán del número de miembros que a continuac
 
 2° Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán siete miembros;
 
-3° Las Cortes de Apelaciones de Valparaíso, San Miguel y Concepción tendrán trece miembros;
+3° Las Cortes de Apelaciones de Valparaíso y Concepción tendrán trece miembros;
 
-4° La Corte de Apelaciones de Santiago tendrá veinticinco miembros.
+4° La Corte de Apelaciones de San Miguel tendrá dieciséis miembros, y
+
+5° La Corte de Apelaciones de Santiago tendrá veinticinco miembros.
 
 #### Artículo 57
 
@@ -752,11 +774,11 @@ Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendr�
 
 #### Artículo 58
 
-Cada Corte de Apelaciones tendrá un fiscal. La Corte de Apelaciones de Santiago tendrá seis fiscales; las Cortes de Apelaciones de Valparaíso, San Miguel y Concepción tendrán tres fiscales; las Cortes de Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán dos fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
+La Corte de Apelaciones de Santiago tendrá seis fiscales; la Corte de Apelaciones de San Miguel tendrá cuatro fiscales; las Cortes de Apelaciones de Valparaíso y Concepción tendrán tres fiscales; las Cortes de Apelaciones de Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán dos fiscales. Las demás Cortes de Apelaciones tendrán un fiscal cada una. El ejercicio de sus funciones será reglado por el tribunal como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
 #### Artículo 59
 
-Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán cuatro relatores; las Cortes de Apelaciones de Valparaíso y Concepción tendrán ocho relatores; la Corte de Apelaciones de San Miguel tendrá nueve relatores, y la Corte de Apelaciones de Santiago tendrá dieciocho relatores.
+Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán cuatro relatores; las Cortes de Apelaciones de Valparaíso y Concepción tendrán ocho relatores; la Corte de Apelaciones de San Miguel tendrá diez relatores, y la Corte de Apelaciones de Santiago tendrá dieciocho relatores.
 
 #### Artículo 60
 
@@ -766,7 +788,7 @@ La Corte de Apelaciones de San Miguel tendrá dos secretarios. La Corte de Apela
 
 #### Artículo 61
 
-Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia se dividirán en dos salas; las Cortes de Apelaciones de Valparaíso, San Miguel y Concepción en cuatro salas, y la Corte de Apelaciones de Santiago en siete salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el último día hábil del mes de enero de cada año.
+Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia se dividirán en dos salas; las Cortes de Apelaciones de Valparaíso y Concepción en cuatro salas; la Corte de Apelaciones de San Miguel en cinco salas y la Corte de Apelaciones de Santiago en siete salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones, tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el último día hábil de enero de cada año.
 
 #### Artículo 62
 
@@ -1760,7 +1782,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 3.779 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 2.824 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 4.010 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 2.995 pesos.
 
 #### Artículo 199
 
@@ -1876,7 +1898,11 @@ La integración de las salas de la Corte de Santiago se hará preferentemente co
 
 Si en una Sala de las Cortes de Apelaciones no queda ningún miembro hábil se deferirá el conocimiento del negocio a otra de las Salas de que se componga el Tribunal y si la inhabilidad o impedimento afecta a la totalidad de sus miembros, pasará el asunto a la Corte de Apelaciones que deba subrogar según las reglas siguientes:
 
-Se subrogarán recíprocamente las Cortes de Apelaciones de Arica con la de Iquique; la de Antofagasta con la de Copiapó; la de La Serena con la de Valparaíso; la de Santiago con la de San Miguel; la de Rancagua con la Talca; la de Chillán con la de Concepción; la de Temuco con la de Valdivia; y la de Puerto Montt con la de Punta Arenas.
+Se subrogarán recíprocamente las Cortes de Apelaciones de Arica con la de Iquique; la de Antofagasta con la de Copiapó; la de La Serena con la de Valparaíso; la de Santiago con la de San Miguel; la de Rancagua con la Talca; la de Chillán con la de Concepción y la de Temuco con la de Valdivia.
+
+La Corte de Apelaciones de Puerto Montt será subrogada por la de Valdivia.
+
+La Corte de Apelaciones de Punta Arenas lo será por la Puerto Montt.
 
 La Corte de Apelaciones de Coihaique será subrogada por la de Puerto Montt.
 
@@ -4784,7 +4810,9 @@ Derogado.
 
 #### Artículo 567
 
-El último día hábil de cada semana, todo juez de letras que ejerza jurisdicción en materia criminal visitará, acompañado de su secretario, la cárcel o establecimientos en que se encuentren los detenidos o presos a quienes procesa, a fin de indagar si sufren vejaciones indebidas, si se les coarta la libertad de defensa o si se prolonga ilegalmente la tramitación de su proceso.
+El último día hábil de cada semana, todo juez de letras que ejerza jurisdicción en materia criminal, acompañado de su secretario, visitará la cárcel o establecimientos que se encuentren ubicados en la localidad o ciudad donde funcione el tribunal y en los cuales haya detenidos o presos en procesos a su cargo, con el objeto de indagar si sufren vejaciones indebidas, si se les coarta la libertad de defensa o si se prolonga ilegalmente la tramitación de su proceso.
+
+La Corte de Apelaciones, dentro de cuyo territorio jurisdiccional existan tribunales en lo criminal que estén exentos de la visita respectiva en razón de tener detenidos o presos en cárceles o establecimientos que estén ubicados fuera de la localidad o ciudad donde funcionan, establecerá un turno u otro sistema entre los jueces del crimen obligados a la visita, para que éstos la efectúen a tales detenidos o presos, y, por oficio, informen al juez que instruye el respectivo proceso sobre las quejas y observaciones recibidas. Sin perjuicio de lo anterior, todo juez deberá visitar, a lo menos una vez cada tres meses, el recinto carcelario en que tuviere detenidos o presos.
 
 #### Artículo 568
 
@@ -4798,11 +4826,13 @@ En el acto de la visita deberán ser presentados todos los presos y detenidos a 
 
 Instalada la visita en el respectivo establecimiento carcelario, el secretario dará lectura al estado que llevará preparado para este objeto, y en que expresarán el nombre de cada uno de los presos y detenidos, el delito por el cual se les procesa y el estado en que se encuentra la causa en aquel día. El juez cotejará, al mismo tiempo, esta última indicación con la que contenía el estado de la semana anterior; y, si notare algún retardo indebido, dictará las medidas convenientes para que el proceso siga su curso sin interrupción.
 
+En el caso del inciso segundo del artículo 567, los tribunales exentos de la obligación de la visita respectiva deberán remitir al tribunal que realizará la visita el estado en que se exprese el nombre de cada uno de los presos y detenidos, el delito por el cual se les procesa y el estado actual de la causa, hasta el día inmediatamente anterior a aquel en que se efectúe la visita. El tribunal que practique la visita oficiará al que conoce de la causa informándole sobre los retardos indebidos que constate, con el objeto de que dicte las medidas convenientes para que el proceso siga su curso sin interrupción.
+
 #### Artículo 571
 
 En seguida, prevendrá el juez a los detenidos que pueden entablar las quejas que tengan a bien acerca del tratamiento que reciben, del alimento que se les da y de las dificultades que se les suscitan para la defensa de sus juicios.
 
-El juez oirá uno a uno los reclamos que se le hicieren a este respecto por los presos o detenidos, o por las personas designadas en el artículo 568; y adoptará las medidas que crea convenientes para subsanar las faltas que se le hicieren presente. Si el preso o su representante creyeren ineficaz la medida adoptada, podrán proponer otra; y, desechada por el juez, podrán apelar de la resolución.
+El juez oirá uno a uno los reclamos que se le hicieren a este respecto por los presos o detenidos, o por las personas designadas en el artículo 568; y adoptará las medidas que crea convenientes para subsanar las faltas que se le hicieren presente. Si el preso o su representante creyeren ineficaz la medida adoptada, podrán proponer otra; y, desechada por el juez, podrán apelar de la resolución. En el caso del inciso segundo del artículo 567, el tribunal que practique la visita oficiará al que conoce de la causa informándole sobre los reclamos formulados, con el objeto de que adopte las medidas que crea convenientes para subsanar las faltas que se hicieren presentes.
 
 #### Artículo 572
 
