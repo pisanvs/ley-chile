@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República contratar préstamos hasta por $ 30.000,000 destinados a la adquisición o edificación de propiedades para casa habitación del personal casado de suboficiales, clases, soldados y gente de mar del Ejército, Marina y Aviación, y el del servicio de faros.
