@@ -1,0 +1,13 @@
+AUTORIZA A DON JORGE CEA ANGULO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA
+
+Por resolución No. 379, de 28 de Febrero de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Jorge Cea Angulo, RUT No.
+
+7.876.971-8, domiciliado en San Vicente, Talcahuano calle Alcatraz No. 1925, Población Los Lobos, para iniciar actividades pesqueras, en orden a operar la embarcación "María Isabel", en el Litoral de las Regiones I a X, donde podrá extraer los siguientes recursos hidrobiológicos: Albacora o pez espada, machuelo o tritre, pejerrey de mar y raya. Asimismo, el interesado podrá extraer con la nave antes referida, en el litoral de las Regiones III a VII y IX a X, los siguientes recursos hidrobiológicos: Anchoa o anchoveta sardina común, sardina, jurel y caballa. Autorízase además al peticionario para extraer con la nave señalada precedentemente, en el litoral de las regiones comprendidas entre la I Región y el paralelo 43° LS, excluidas las correspondientes aguas interiores, los siguientes recursos hidrobiológicos: Cojinoba del Norte, cojinoba del Sur, congrio colorado, congrio dorado, congrio negro, corvina, jurel, lisa, merluza común, merluza de cola, tollo y pejegallo.
+
+Deniégase la autorización solicitada para capturar con la nave que se autoriza por la presente resolución los recursos hidrobiológicos sardina común sardina, jurel y anchoa, en el litoral de la I, II y VIII Región. de conformidad con lo establecido en el Decreto No. 436, de 1985 prorrogado por Decreto No. 363, de 1989, ambos del Ministerio de Economía, Fomento y Reconstrucción, vigente a la fecha de la solicitud.
+
+Deniégase la autorización solicitada por el peticionario para extraer con la nave señalada precedentemente los recursos demersales, en el litoral comprendido al Sur del paralelo 43° LS y en aguas interiores de la X Región. atendido lo dispuesto en el Decreto No. 291, de 1989, del Ministerio de Economía, Fomento y Reconstrucción. Deniégase la autorización solicitada para extraer con la nave a que se refiere la presente resolución, el recurso hidrobiológico bacalao de profundidad o mero, en virtud de lo dispuesto en el Decreto No. 439, de 1985, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 28 de Febrero de 1990.- Roberto Cabezas Bello, Subsecretario de Pesca.
