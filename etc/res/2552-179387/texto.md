@@ -1,0 +1,3 @@
+Por resolución Nº 2.552, de 27 de noviembre de 2000, de esta Subsecretaría, autorízase a DANISCO CULTOR CHILE S.A., para continuar desarrollando las actividades pesqueras de transformación autorizadas a Danisco Ingredients Chile S.A., mismo RUT y domicilio en virtud de la reforma social contenida en escritura.
+
+Valparaíso, 27 de noviembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
