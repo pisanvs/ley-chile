@@ -17872,103 +17872,55 @@ ANEXO N°1
 
 DEFINICIONES DE LOS GRUPOS DE COLOCACIONES O INVERSIONES FINANCIERAS.
 
-A continuación se mencionan las condiciones que definen el tipo de colocación o inversión financiera señalado en el N° 1 de este Capítulo:
+A continuación se mencionan las condiciones que definen el tipo de colocación o inversión financiera señalado en el N° 1 de este Capítulo
 
 A) Créditos de comercio exterior para financiar exportaciones o importaciones chilenas.
 
 Condiciones:
 
-- Que tengan por objeto financiar el pago de importaciones procedentes de Chile o exportaciones destinadas a nuestro país.
+-Que tengan por objeto financiar el pago de importaciones procedentes de Chile o exportaciones destimadas a nuestro país.
 
 B) Créditos de comercio exterior para financiar operaciones entre terceros países.
 
-Condiciones:
+Condiciones.
 
 - Que los desembolsos del crédito se efectúen contra presentación de los documentos de embarque.
 
-- Que se expresen y paguen en dólares estadounidenses.
+- Que se expresen y paguen en moneda extranjera
 
 C) Créditos comerciales otorgados a sociedades filiales o agencias de empresas chilenas y a empresas que coticen en bolsas internacionales.
 
 Condiciones:
 
-- Que los deudores correspondan a: i) sociedades filiales o agencias de empresas chilenas establecidas en el exterior; o, ii) empresas que coticen en las bolsas internacionales de que trata el Capítulo III.F.3 del Compendio de Normas Financieras del Banco Central de Chile.
+- Que los deudores correspondan a: 1) sociedades filiales o agencias de empresas chilenas establecidas en el exterior, o, 11) empresas que coticen en las bolsas internacionales de que trata el Capítulo III.F.3 del Compendio de Normas Financieras del Banco Central de Chile.
 
-- Que se expresen y paguen en dólares estadounidenses.
+- Que se expresen y paguen en moneda extranjera
 
 D) Créditos comerciales otorgados a otras personas.
 
-Condiciones:
+Condiciones.
 
 - Que se otorguen a cualquier persona natural o jurídica diferente a las señaladas en la letra C).
 
-- Que se expresen y paguen en dólares estadounidenses.
+- Que se expresen y paguen en moneda extranjera.
+
+## Capítulo 12-13
+
+ANEXO N°1
+
+Pág. 2
 
 E) Inversiones financieras en instrumentos con clasificación de grado de inversión.
 
 Condiciones:
 
-- Que correspondan a: i) títulos de crédito emitidos o garantizados por Estados extranjeros, bancos centrales o entidades bancarias o financieras internacionales; o, ii) bonos emitidos por empresas extranjeras.
+- Que correspondan a i) títulos de crédito emitidos o garantizados por Estados extranjeros, bancos centrales o entidades bancarias o financieras internacionales, o, u) bonos emitidos por empresas extranjeras
 
-- Que se transen en mercados secundarios formales según lo definido en el Capítulo III.F.3 del Compendio de Normas Financieras del Banco Central de Chile.
+- Que se transen en mercados secúndanos formales según lo definido en el Capítulo IIIF 3 del Compendio de Normas Financieras del Banco Central de Chile.
 
-- Que los instrumentos cuenten con una clasificación de riesgo para corto o largo plazo no inferior a las siguientes categorías:
+- Que los instrumentos cuenten con una clasificación de nesgo para corto o largo plazo no inferior a las siguientes categorías.
 
-Agencia clasificadora Categoría de riesgo
-
-Corto plazo Largo plazo
-
-Moody's P2 Baa3
-
-Standard & Poor's A3 BBB-
-
-IBCA A3 BBB-
-
-Duff & Phelps D2 BBB-
-
-Thomson BankWatch TBW2 BBB
-
-Fitch Investor Service F2 BBB-
-
-- Que estén emitidos en: dólares de los EEUU, dólares de Canadá, ECU, francos franceses, francos suizos, libras esterlinas, liras italianas, marcos alemanes o yenes japoneses. No obstante, podrán estar emitidos en cualquier moneda, si el instrumento está clasificado en una categoría igual o superior a las siguientes:
-
-Agencia clasificadora Categoría de riesgo
-
-Corto plazo Largo plazo
-
-Moody's P1 A3
-
-Standard & Poor's A1 A-
-
-IBCA A1 A-
-
-Duff & Phelps D1 A-
-
-Thomson BankWatch TBW1 A
-
-Fitch Investor Service F1 A-
-
-F) Inversiones financieras en instrumentos con otra clasificación.
-
-Condiciones:
-
-Las mismas señaladas en la letra E), excepto en la clasificación, la que, pudiendo ser diferente al grado de intersión, no será inferior a las siguientes:
-
-Agencia clasificadora Categoría de riesgo
-
-Corto plazo Largo plazo
-
-Moody's P2 Ba3
-
-Standard & Poor's A3 BB-
-
-IBCA A3 BB-
-
-Duff & Phelps D2 BB-
-
-Thomson BankWatch TBW2 BB
-
-Fitch Investor Service F2 BB-
+.
 
 CAPITULO 13-1 (Bancos y Financieras)
 
