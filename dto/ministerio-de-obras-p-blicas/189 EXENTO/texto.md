@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 189, de 30 de marzo de 2001, se expropió el lote de terreno Nº 260-9, superficie 12 m2., rol de avalúo en trámite, comuna de La Ligua, para la obra Camino Internacional Ruta 5 Norte Tramo Santiago-Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietaria Angelina de las Mercedes Miranda Ortega, ascendente a la cantidad de $116.802.
+
+- Fiscal del Ministerio de Obras Públicas.
