@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.815, de 30 de septiembre de 1998, se expropiaron los lotes de terreno Nº s 1, 2 y 28, superficies 20, 294 y 62 m² respectivamente, roles de avalúo 209-1 y 211-11, comuna de Rengo, para la obra Mejoramiento Ruta H-577, Sector Rengo - Rinconada de Malambo y se acordó precio de indemnización con sus propietarios Ilustre Municipalidad de Rengo y María Quintero Quintero, ascendentes a las cantidades de $ 3.928.785.- para los lotes 1 y 2 y $ 422.486.- para el lote 28.-
+
+Fiscal del Ministerio de Obras Públicas.
