@@ -1,0 +1,3 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Por Decreto Alcaldicio N° 340 de 1996, conforme al D.F.L. N° 458/76, MINVU, D.L. 2186 y artículo 29 de la Ley N° 18.695, la Municipalidad de Macul dispuso expropiación parcial del inmueble inscrito a fojas 30.013, N° 27.764 del Registro de Propiedad de 1991, Conservador de Bienes Raíces de Santiago de dominio aparente Sociedad Inmobiliaria F.A.C. Limitada, Rol de Avalúo 9077-2. Objeto: Dar cumplimiento Plan Regulador Comunal.
