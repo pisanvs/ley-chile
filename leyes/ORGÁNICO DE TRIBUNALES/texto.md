@@ -2852,7 +2852,7 @@ Respecto a los jueces procesados se estará a lo dispuesto en el artículo 335; 
 
 5°) Por renuncia del cargo, hecha por el juez y aceptada por la autoridad competente;
 
-6°) Por la jubilación concedida por el Presidente de la República;
+6°) Por jubilación o pensión obtenida por servicios prestados al Poder Judicial, sea cual fuere el régimen previsional aplicable;
 
 7°) Por la promoción del juez a otro empleo del orden judicial, aceptada por él;
 
