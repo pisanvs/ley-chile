@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 137, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 17, superficie 85 m2, rol de avalúo 518-50, comuna de Antuco, para la obra "Camino Ruta Q-45, Sector Antuco - Abanico, Tramo I Km. 0,00000 a Km. 3,95000" y se acordó el valor de indemnización con su propietario José Angel Aguila Sánchez, ascendente a la cantidad de $160.063.-
+
+Fiscal del Ministerio de Obras Públicas.
