@@ -1,0 +1,3 @@
+Por resolución No.842 de 17 de Julio de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2º, de la resolución No.420, de 12 de Abril de 1991, que autorizó a doña NORMA CRISTINA GONZALEZ GALLEGOS, R.U.T. No.12.935.127-6, domiciliada en la localidad de Carrizo - La Posada, Comuna de Maullín, para iniciar actividades pesqueras de cultivo, en el sentido de especificar que el área autorizada corresponde a Parcela 6 lote V de la Ribera Norte del Río Maullín.
+
+Valparaíso, 17 de Julio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
