@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.106 de 30 de julio de 1998, se expropió lote de terreno No. 6, superficie 6.117 m2, rol de avalúo No. 118-46, comuna de Quilicura, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, Sector Km. 10.860,00 a Km. 14.180,00, y se acordó precio de la indemnización con su propietario Agrícola Quilicura Limitada, ascendente a la cantidad de $ 336.037.516.- para el lote No. 6.
+
+Fiscal del Ministerio de Obras Públicas.
