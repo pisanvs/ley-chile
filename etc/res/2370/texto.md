@@ -1,0 +1,3 @@
+Por resolución Nº 2.370, de 2 de diciembre de 1999, de esta Subsecretaría, modifícase la resolución Nº 163, de 1997, de esta Subsecretaría, que autorizó a PESQUERA LA PENINSULA S.A., para operar la nave ''Loa 1'', en el sentido de reemplazar, en el inciso 1º de su numeral 6º, la oración ''dentro del plazo de un año contado desde el 30 de mayo de 1996, fecha del último desembarque registrado en el Servicio Nacional de Pesca de la nave ''Loa 3'' por ''dentro del plazo de dos años contado desde la fecha de publicación de la presente resolución''.
+
+Valparaíso, 2 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
