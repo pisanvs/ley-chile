@@ -1,0 +1,5 @@
+Por decreto MOP Nº444, de 30 de marzo de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº561-D1, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector C: Acceso Sur a Santiago Km.
+
+17.700,00 a Km. 46.600,00", Región Metropolitana, que figura a nombre de Dittborn Orillac María Cristin, rol de avalúo 321-98, comuna de Buin, superficie 1.404 m². La comisión de peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Alejandro Patricio Muñoz Rojas y Julio Víctor Fischer Gaysinsky, fijó con fecha 24 de noviembre de 2000, el valor provisional de la indemnización en la cantidad de $7.280.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
