@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE SEÑALA
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1.456 de 29 de Agosto de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Reserva y Sector Expropiado Predio Resto del Fundo Santa Luisa o Hijuela Número Uno y Lote de Terreno de la Hijuela Número Tres del Fundo Santa Luisa" de la Comuna de Quilicura, Región Metropolitana y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 15, sitios N°s. 1 al 15, del Proyecto de Parcelación "Rigoberto Jara", formado por predio señalado. Los Derechos de Agua se extraen de los canales Ovalle y Quilicura Estero Las Cruces, del Tranque de la Hijuela Tercera del ex Fundo Santa Elisa. Derrames del Fundo Lo Bascuñán y Pozo Profundo de Coordenadas 3320-7040-BA-1. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
