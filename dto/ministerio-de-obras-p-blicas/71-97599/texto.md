@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 71, de 30 de enero de 1998, se dejó sin efecto el decreto el decreto M.O.P. N° 1.002 , de 15 de octubre de l997, ,que autorizó la expropiación del lote de terreno N° 1, que figura a nombre de Productora de Agar S.A., Rol de Avalúo 1403-62, de la comuna y provincia de Llaquihue, obra Tratamiento y Disposición Final de Aguas Servidas de Puerto Varas y Llanquihúe, impulsión, por haberse modificado el trazado de la obra
+
+Fiscal del Ministerio de obras Públicas.
