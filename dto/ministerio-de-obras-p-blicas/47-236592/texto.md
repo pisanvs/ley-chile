@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 47, de 31 de enero de 1996, se expropió el lote de terreno N° 9, superficie 7.287 m2., rol de avalúo 9049-4, comuna de San Antonio, para la obra Camino Autopista Santiago San Antonio, sector Leyda - Agua Buena, y se acordó el valor de indemnización con sus propietarios José Manuel Eguiguren Guzmán y otra, ascendente a la cantidad de $3.747.766.
+
+- Fiscal del Ministerio de Obras Públicas.
