@@ -1,0 +1,3 @@
+Por decreto MOP Nº544 de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº2, superficie 17.402,40 m2, Rol de Avalúo Nº215-3, comuna de Teodoro Schmidt, para la obra "Camino Costero Sur, Tramo Chelle - Hualpín - Puente Peule, Variante I Hualpín, Km. 0,300 al 1,221" y se acordó el valor de indemnización con su propietario Agrocomercial Las Vertientes Limitada, ascendente a la cantidad de $13.597.815.-
+
+Fiscal del Ministerio de Obras Públicas.
