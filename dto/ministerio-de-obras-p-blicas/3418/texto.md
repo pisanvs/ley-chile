@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.418, de 29 de octubre de 1999, se dejó sin efecto la expropiación de los lotes Nºs 3 y 3-B, que figuran a nombre de Vasco Guajardo Parra, rol de avalúo Nº 159-38, comuna de Pemuco, superficies 514 y 1.196 m2, para la obra Proyecto Laja Diguillín Area de Riego Pemuco Canal Relbún, aprobada por el decreto MOP Nº 737, de fecha 31 de julio de 1997.
+
+- Fiscal Ministerio de Obras Públicas.
