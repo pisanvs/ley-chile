@@ -1,0 +1,3 @@
+Por resolución Nº 1.075, de 27 de mayo de 2003, de esta Subsecretaría, autorízase a ALIMENTOS MULTIEXPORT S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Carretera Panamericana Norte Km. 665, Vallenar, III Región, en la línea de elaboración de Alga Picada, los siguientes recursos hidrobiológicos: Huiro Macrocystis pyrifera, Luga Luga Mazzaella membranacea, Luga Luga Sarcothalia crispata.
+
+Valparaíso, 27 de mayo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
