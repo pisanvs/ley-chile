@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 65, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas No. 2351, Rol 332-7. Santiago, aparente dominio Manuel Cornejo Valenzuela, superficie aproximada a expropiar 242 m2. Deslindes: Norte, 8,00 mts. con resto del predio; Sur. 7,00 mts. calle Agustinas; Oriente, 32,00 mts. con otro propietario y Poniente, 32,50 mts. con otro propietario. Indemnización provisional $ 4.832.000.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
