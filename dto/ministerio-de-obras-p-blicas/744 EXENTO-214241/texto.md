@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 744 de fecha 31 de julio de 2003, se expropiaron los lotes de terreno Nºs. 21 y 23, superficies 276,50 y 92,00 m², rol Nº 15-32, comuna de María Pinto, Región Metropolitana para la obra "Camino Ruta G-76, sector María Pinto Santa Inés, Tramo de Km. 0,00000 a 12,26088, y se acordó el valor de indemnización con su propietario Agrícola Santa Isabel de Puangue Limitada, ascendente a la cantidad de $970.120.
+
+- Fiscal del Ministerio de Obras Públicas.
