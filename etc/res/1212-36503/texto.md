@@ -1,0 +1,5 @@
+Por Resolución N° 1.212 de 22 de diciembre de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las Resoluciones N° 536, de 1989, N° 484, N° 485, N° 486 y N° 487, todas de 1992, de esta Subsecretaría, que autorizaron a PESQUERA DEL CABO S.A., R.U.T. N° 96.520.580-2, para operar una planta industrial, ubicada en terrenos de la Administración del Puerto de San Antonio, V Región y las naves "Pillán I", "Pillán II", "Pillán III" y "Pillán IV", en ejercicio del derecho que se le concedió en virtud de lo dispuesto en el artículo 3° transitorio, incisos 3° y 4° del D.S.
+
+N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, por no haber materializado su proyecto de instalación de planta de reducción en el plazo establecido por la Ley.
+
+Valparaíso, 22 de diciembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
