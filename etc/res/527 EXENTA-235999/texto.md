@@ -1,0 +1,3 @@
+Por resolución exenta Nº 527, de 24 de febrero de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204111015 presentada por JUAN BAUTISTA GONZALEZ BLANCO, para instalar y operar un centro de cultivo ubicado en Seno Aysén, lado este de Punta Yelcho, sector Puerto Chacabuco, XI Región.
+
+Valparaíso, 24 de febrero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
