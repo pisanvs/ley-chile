@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 367, de 30 de mayo de 1996, se expropió el lote de terreno N° 49 superficie 297,50 M2, rol de avalúo 52-3, comuna de San Javier, para la obra Camino Ruta 5, Longitudinal Sur, Sector San Javier Parral I, Tramo A Kms. 273.960,58 al 295.924,16 y se acordó precio de indemnización con su propietario Hernán Suazo Vásquez ascendente a la cantidad de $ 40.477.695.
+
+Fiscal del Ministerio de Obras Públicas.
