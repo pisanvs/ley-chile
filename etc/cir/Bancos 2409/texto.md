@@ -11628,23 +11628,19 @@ anexos N°s. 1 y 2, adjuntos al presente capítulo, según se trate de operacion
 
 con tasa de interés fija o flotante, respectivamente.
 
-2.- Monto máximo de los préstamos.
+2.- Condiciones generales de los prestamos.
 
-Las normas impartidas por el Consejo Monetario establecen que los préstamos que
+2.1.- Monto máximo de los préstamos.
 
-efectúen las instituciones financieras bajo esta modalidad, no podrán exceder
+Las normas impartidas por el Consejo Monetario establecen que los préstamos que efectúen las instituciones financieras bajo esta modalidad, no podrán exceder del 75% del valor de tasación del inmueble ofrecido en garantía.
 
-del 75% del valor de tasación del inmueble ofrecido en garantía.
+En caso de operaciones de compra venta de bienes raíces, dichos préstamos tampoco podrán exceder del mencionado importe o del 75% del precio de venta del respectivo inmueble si este último precio fuere inferior al valor de tasación.
 
-En caso de operaciones de compra venta de bienes raíces, dichos préstamos
+Además, como es natural, deberán tenerse presente los márgenes individuales de crédito establecidos en el Art. 84 de la Ley General de Bancos.
 
-tampoco podrán exceder del mencionado importe o del 75% del precio de venta del
+2.2.- Monto máximo del dividendo pactado en préstamos para viviendas cuyo valor de tasación no sea superior a 3.000 U.F.
 
-respectivo inmueble si este último precio fuere inferior al valor de tasación.
-
-Además, como es natural, deberán tenerse presente los márgenes individuales de
-
-crédito establecidos en el Art. 84 de la Ley General de Bancos.
+En los préstamos destinados a la adquisición o construcción de viviendas cuyo valor de tasación sea igual o inferior al equivalente de 3.000 Unidades de Fomento, el dividendo que se pacte no podrá exceder, al momento del otorgamiento del crédito, al 25 % de los ingresos del prestatario. Para estos efectos sólo podrán considerarse, además de los ingresos del prestatario, los de su cónyuge, siempre que éste se constituya en fiador y codeudor solidario del crédito
 
 3.- Garantía hipotecaria.
 
