@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.032 de fecha 28 de junio de 2002, se expropiaron los lotes de terreno Nº26 y 24-B, superficies 24 y 80 m2., rol de avalúo Nº2205-15, comuna de Puerto Montt, para la obra ''Camino Ruta 7, Sector Chamiza - Quillaipe, Km. 4,83687 al 15,84700'', X Región y se acordó el valor de indemnización con su propietaria Elisa Micco Garay, ascendente a la cantidad de $330.427.
+
+Fiscal del Ministerio de Obras Publicas
