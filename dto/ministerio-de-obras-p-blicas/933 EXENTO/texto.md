@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 933 de fecha 29 de junio del 2001, se expropió el lote de terreno Nº 20, superficie 591 m², rol de avalúo 65-114, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Lonquimay - Acceso Pedregoso, Km. 119,30000 al Km. 141,00000, correspondiente al tramo I Km. 119,30000 a Km. 130,66000" y se acordó el valor de indemnización con su propietario Juan Carlos Salazar Marchant, ascendente a la cantidad de $227.603.-
+
+Fiscal del Ministerio de Obras Públicas.
