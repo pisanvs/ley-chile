@@ -1,0 +1,21 @@
+RECONOCE, POR GRACIA, TIEMPO SERVIDO POR DOÑA LUCIA DEL CARMEN CANEO PINTO
+
+Santiago, 5 de Febrero de 1980.- Hoy se acordó lo que sigue:
+
+Núm. 3.201.- Visto: Lo dispuesto en los decretos leyes Nºs 1 y 128, de 1973; Nº 527, de 1974, y Nº 991, de 1976, y
+
+Considerando: El informe favorable de la Comisión Especial de Beneficios por Gracia, creada por decreto supremo de Interior número 1.702, de 27 de Noviembre de 1973,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo único
+
+Reconócese, por gracia, a doña Lucía del Carmen Caneo Pinto, para todos los efectos legales y en especial para su jubilación el tiempo servido entre el 1º de Febrero al 17 de Febrero de 1962; desde el 21 de Abril y el 2 de Junio de 1962; entre el 16 de Junio al 1º de Julio de 1962; desde el 16 de Agosto y el 19 de Noviembre de 1962; entre el 2 de Enero al 5 de Febrero de 1963; desde el 8 de Julio y el 24 de Julio de 1963; entre el 4 de Agosto al 2 de Septiembre de 1963; desde el 1º de Enero y el 16 de Enero de 1964; entre el 13 de Febrero al 29 de Febrero de 1964; desde el 3 de Marzo y el 18 de Marzo de 1964; entre el 25 de Marzo al 24 de Junio de 1964; desde el 1º de Julio y el 3 de Octubre de 1964; entre el 10 de Noviembre de 1964 al 5 de Enero de 1965; y desde el 17 de Abril y el 30 de Septiembre de 1965.
+
+Las imposiciones correspondientes a dichos períodos serán de cargo de la interesada y la Caja Nacional de Empleados Públicos y Periodistas procederá a recibirlas.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio Fernández Fernández, Ministro del Interior.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Enrique Montero Marx, Coronel de Aviación (J), Subsecretario del Interior.
