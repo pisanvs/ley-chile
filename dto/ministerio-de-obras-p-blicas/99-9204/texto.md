@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 99, de fecha 31 de Marzo de 1994, se expropiaron los lotes de terrenos N°s. 31, 36, 37 y 39, superficies 728,04 M2., 193,50 M2., 417,75 M2. y 196,60 M2., roles de avalúo 174-7 y 174-5, comuna de Licantén, para la obra Camino Curicó Iloca, Ruta J-60, sector La Higuera Licantén, Variante Idahue y se acordó precio de indemnización con sus propietarios Avelino Leiva Urzúa y Ramón Silva Reyes, ascendente a las cantidades $150.039 y $129.592.-
+
+Fiscal del Ministerio de Obras Públicas
