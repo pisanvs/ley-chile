@@ -1,0 +1,5 @@
+Por decreto MOP Nº 528, de 30 de junio de 2004, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1-1, para la obra: Camino: acceso al Puerto de San Antonio. Sector Enlace Agua Buena. Tramo: -0.377,00 al Km.
+
+1.200,00"; Quinta Región, que figura a nombre de Vial Trading S.A., Rol de avalúo 1100-186, comuna de Cartagena, superficie 7.348 M2. La comisión de peritos integrada por los señores María Isabel Ríos Marcuello, Eduardo Alejandro Silva Aracena y Luis Pablo Padilla Vergara, fijó con fecha 7 de mayo de 2004, el valor provisional de la indemnización en la cantidad de $87.309.400.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
