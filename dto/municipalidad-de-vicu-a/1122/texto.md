@@ -1,0 +1,1 @@
+por Decreto Alcaldicio N° 1.122, del 27 de mayo de 1997, se dicta la Ordenanza Municipal sobre Cálculo de Tarifas de Aseo y Exenciones, cuyo texto de encuentra a disposición del público en las Oficinas de Dirección de Obras Municipales y Secretaría Municipalal
