@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.209, de 3 de diciembre de 2003 de esta Subsecretaría, autorízase a PESQUERA BIO BIO S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en isla Rocuant, Talcahuano, VIII Región, en las líneas de elaboración Harina, Aceite y Congelado el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 3 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
