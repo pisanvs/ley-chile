@@ -1,0 +1,3 @@
+Por decreto MOP Nº575, de 28 de febrero del 2000, se expropió el lote de terreno Nº4, superficie 121 m2., rol de avalúo 1438-133, comuna de San Carlos, para la obra Concesión Internacional Ruta 5. Tramo: Talca - Chillán, Octava Región y se acordó el valor de indemnización con su propietario Juan Antonio Bahamonde Martínez, ascendente a la cantidad de $503.855.-
+
+Fiscal del Ministerio de Obras Públicas.
