@@ -1,0 +1,9 @@
+Formacion de la Alameda de Santiago
+
+Santiago, Setiembre 22 de 1820.
+
+La salida de la espedicion libertadora del Perú, me ha dejado algun desahogo para promover las mejoras de la policía urbana, que no he perdido de vista desde mi ingreso al Gobierno. Entre las providencias que he dictado sobre el objeto, creo sea de consideracion la de la ereccion de una Alameda en la grande i espaciosa calle de la Cañada, por su tendencia a la utilidad, comodidad i salud pública, i por la hermosura que adquirirá esa estendida parte de la poblacion. Se han acopiado los materiales i plantas suficientes para la obra que llenará todo el ámbito de la calle con hileras de árboles, asientos de preciosas materias i fuentes perennes, todo trabajo segun reglas del arte, dando a este paseo público el nombre de campo de la libertad civil.
+
+Los vecinos de la Cañada han participado jenerosamente de los sacrificios comunes a que nos ha precisado la mas justa de las guerras, i deben estar instruidos de las actuales escaseces del Erario, i falta de otros fondos públicos aplicables a la obra. Así es, que se les haria una injuria en dudar de que contribuirán del modo que esté en sus facultades, voluntariamente i sin necesidad de que se les hagan asignaciones. Todo aquel vecindario va a experimentar de contado un gran incremento en los valores de sus fundos, e inmediatamente de las demas comodidades i ventajas espresadas. Por tanto, estoi seguro de que hará sus oblaciones, por una justa proporcion entre sus respectivas fortunas i los bienes que van a reportar, para ayuda de dichos costos. Este será el medio seguro de que en un breve término se consiga la conclusion de la obra.-
+
+Insértese este decreto en la Gazeta Ministerial, trascribiéndose al Gobernador Intendente como Superintendente de la obra.-O'Higgins.- Echeverría.
