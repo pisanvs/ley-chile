@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 1700 de 05 de Diciembre de 1986, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial, conformidad Decreto Supremo No. 458 Vivienda y Urbanismo, Decretos Leyes 1289 y 2186 de inmueble calle Pantaleón Vélez Silva No. 1451 Rol 3548-27 Santiago, dominio aparente Lidia Montanares Arias. Superficie aproximada 136 m2. Deslindes Norte, 6,95 mts. con otro propietario; Sur, 6,95 mts. con calle Pantaleón Vélez Silva; Oriente, 19,50 mts. con otro propietario; Poniente con resto predio. Indemnización $ 523.920 pagadera contado.
+
+- Carlos Bombal Otaegui, Alcalde de Santiago.
