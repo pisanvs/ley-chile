@@ -1,0 +1,5 @@
+Por decreto MOP. Nº 491, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº86, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Sector Km. 14.800,00 al Km.
+
+21.300,00, que figura a nombre de Industria Nac. de Grasa SA., rol de avalúo Nº183-6, comuna de Colina, superficie 1.610 m2. La Comisión de Peritos, integrada por Julio Jorge Machicao Araya, Matías Rafael Norero Urrutia y Valeria Luz Jiménez Matus, fijó con fecha 28 de noviembre de 1997, el valor provisional de la indemnización en la cantidad de $70.101.774.- para el lote Nº86. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
