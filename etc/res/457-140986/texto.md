@@ -1,0 +1,7 @@
+AUTORIZA A SOCIEDAD PESCAUSTRAL S.A. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 457, de 09 de Mayo de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pescaustral S.A., domiciliada en Coyhaique, para iniciar actividades pesqueras, en orden a operar una planta industrial en la XI Región, ubicada en El Salto, Comuna de Puerto Aysén, km. 10, camino Puerto Aysén a Puerto Chacabuco, Parcela Cerro La Paloma, donde procesará en las líneas de elaboración de congelado y fresco, los siguientes recursos hidrobiológicos: Mero, congrio, róbalo, pejerrey, salmón, puye, raya, jurel, sardina, merluza, cojinoba, tollo, loco, cholga, choro, chorito, navajuela, almeja o taca, almeja, ostión del Sur, ostra, jaiba, jaiba mora, centolla, centollón, picoroco, camarón nailon, langostino colorado y erizo. Los recursos salmón y ostra deberán provenir de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo con las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 09 de Mayo de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
