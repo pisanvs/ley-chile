@@ -1,0 +1,1 @@
+Aprueba Estatuto Orgánico para los funcionarios de las instituciones Semifiscales y de administración autónoma.
