@@ -1,0 +1,3 @@
+Por resolución Nº 2.818, de 6 de diciembre de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Cabo Tablas IV Región, individualizada en artículo 1º del decreto exento Nº 539 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE PESCADORES ARTESANALES Y BUZOS MARISCADORES DE PRODUCTOS MARINOS, Provincia de Choapa, Caleta San Pedro, IV Región.
+
+Valparaíso, 6 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
