@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 233, de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº 3, superficie 89,6 m2, Rol Nº 137-392, comuna de Paine, Región Metropolitana, para la obra "Camino Sin Rol, Sector Peralillo - Abrantes, Tramo Km. 0,00000 al 6,03921" y se acordó el valor de indemnización con su propietario Humberto Enrique Gárate Soto, ascendente a la cantidad de $844.214.-
+
+Fiscal del Ministerio de Obras Públicas.
