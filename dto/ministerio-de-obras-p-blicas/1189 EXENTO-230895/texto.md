@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.189 de fecha 31 de agosto del 2004, se expropió el lote de terreno Nº 9, superficie 366,00 m²., Rol Nº 203-72, comuna de Toltén, IX Región, para la obra "Camino Ruta S-790, Sector Nueva Toltén-Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub-Tramo I Km. 71,46676 al Km. 80,55700" y se acordó el valor de indemnización con su propietaria Sabina Paineo Marileo, ascendente a la cantidad de $12.266.964.- para el lote Nº 9.-
+
+Fiscal del Ministerio de Obras Públicas.
