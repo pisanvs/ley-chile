@@ -1,0 +1,3 @@
+Por Resolución N° 141, de 24 de Febrero de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resoluciones N° 746, de 1989 y N° 614, de 1990, ambas de esta Subsecretaría, que autorizaron a don OFRONIO TOLEDO OJEDA, R.U.T. N° 4.157.464-K, para operar un establecimiento de cultivo en un sector de fondo de río, ubicado en Río Maullín, Sector Punta Castillo, Comuna de Maullín, X Región, por renuncia de su titular.
+
+Valparaíso, 24 de Febrero de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
