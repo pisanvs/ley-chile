@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº746, 13 diciembre 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº99, Rol de Avalúo 2611-10, comuna Chiguayante, superficie 70,63 m² de terreno y 92,99 m² de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.225, de aparente dominio de Enrique Dámaso Ulloa Oliva, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y DL 2.186. Comisión peritos integrada por Francisco Schiappacasse Retamal, arquitecto, Marisa Perrin Costa, arquitecto y Santiago Aptecar Nozer, arquitecto, según informe de fecha 30 de septiembre de 2004, fijó monto provisional indemnización en $21.629.900.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
