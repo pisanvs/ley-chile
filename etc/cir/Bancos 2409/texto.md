@@ -11706,9 +11706,7 @@ Haber: - "Forward UF-Pesos vendidos", de la partida 4127, por el equivalente del
 
 3.2. Ajustes mensuales.
 
-Mensualmente las instituciones financieras traspasarán los importes registrados en las cuentas "Pérdidas diferidas por Forward UF-Pesos" y "Utilidades diferidas por Forward UF-Pesos", a las cuentas "Pérdidas por Forward UF-Pesos", de la partida 5900, y "Utilidades por Forward UF-Pesos", de la partida 7910, respectivamente, en forma proporcional al plazo del correspondiente contrato.
-
-Asimismo, al término de cada mes, las instituciones financieras ajustarán el saldo de la cuenta "Forward UF-Pesos comprados" y "Forward UF-Pesos vendidos", de acuerdo con la variación que haya experimentado el valor de la Unidad de Fomento, con cargo a la cuenta "Pérdidas por Forward UF-Pesos" o con abono a la cuenta "Utilidades por Forward UF-Pesos", según corresponda.
+Al término de cada mes se traspasarán linealmente los importes registrados por cada contrato en las cuentas "Pérdidas diferidas por Forward UF-Pesos" y "Utilidades diferidas por Forward UF-Pesos", a las cuentas "Forward UF-Pesos comprados" y "Forward UF-Pesos vendidos", respectivamente, en forma proporcional al tiempo transcurrido desde la fecha en que se haya celebrado el respectivo contrato en relación con su plazo pactado. A continuación se ajustará el saldo de la cuenta "Forward UF-Pesos comprados" y "Forward UF Pesos vendidos", de acuerdo con el valor que la Unidad de Fomento tenga el último día del mes, con cargo a la cuenta "Pérdidas por Forward UF-Pesos", de la partida 5900, o con abono a la cuenta "Utilidades por Forward UF-Pesos", de la partida 7910, según corresponda.
 
 3.3. Vencimiento de los contratos.
 
@@ -17696,15 +17694,13 @@ Para computar los créditos otorgados a personas relacionadas con el objeto de d
 
 La medición incluye, en consecuencia, los créditos correspondientes a:
 
-a) Colocaciones efectivas o contingentes registradas en el activo;
+a) Colocaciones efectivas o contingentes registradas en el activo o en cuentas de orden;
 
-b) Cartera registrada en cuentas de orden, como es el caso de aquella que se encuentre vendida al Banco Central de Chile con obligación de recompra en virtud del Acuerdo N° 1.555 y sus modificaciones, así como la rescatada del Instituto Emisor con motivo de la novación de que trata el acuerdo 1953-11-890816.
+b) Operaciones de compra de valores mobiliarios o efectos de comercio, cuando hayan sido vendidos con pacto de retrocompra por una persona relacionada.
 
-c) Operaciones de compra de valores mobiliarios o efectos de comercio, cuando hayan sido vendidos con pacto de retrocompra por una persona relacionada.
+c) Instrumentos emitidos por empresas relacionadas que se mantengan como inversiones financieras.
 
-d) Instrumentos emitidos por empresas relacionadas que se mantengan como inversiones financieras.
-
-e) Obligaciones por compraventas y arbitrajes a futuro de monedas extranjeras.
+d) Operaciones de Forward de monedas y de unidades de fomento, las que deben computarse para estos efectos según lo establecido en los Capítulos 13-2, 13-23 y 8-36 de esta Recopilación.
 
 Cuando se trate de créditos expresados en monedas extranjeras, éstos deben convertirse a moneda local de acuerdo con el tipo de cambio de representación contable establecido por esta Superintendencia.
 
@@ -18922,11 +18918,9 @@ Para los fines de calcular dicha variación en términos de pesos moneda chilena
 
 Las garantías que los bancos reciban por las operaciones de que trata este título, se registrarán en la cuenta de orden "Garantías por compraventas y arbitrajes a futuro" de la partida 9210 ó 9220, según proceda.
 
-### III. OPERACIONES DE COMPRAVENTA A FUTURO MULTIPLES (SWAPS)
+III.- OPERACIONES FORWARDS MULTIPLES (SWAPS.
 
-Para los efectos de estas normas, se entenderán por "Swaps" aquellas operaciones en las que se convengan dos o más operaciones a futuro ya sean compraventas a futuro de monedas extranjeras pagaderas en moneda chilena o compraventas a futuro de monedas extranjeras que se pagan con otra moneda extranjera que consten en un solo contrato, generándose de esta manera un intercambio de flujos de moneda extranjera y de moneda chilena, cuando corresponda, en las fechas convenidas para tal efecto.
-
-Cada una de las compraventas a futuro incluidas en los referidos contratos, deberán constar separadamente unas de otras.
+Las operaciones "Swaps" de monedas que pueden realizar los bancos en el mercado local de conformidad con las disposiciones del Banco Central de Chile, son aquellas en que en un solo contrato se pactan dos o más operaciones forwards, ya sean compraventas de monedas extranjeras pagaderas en moneda chilena o compraventas de monedas extranjeras que se pagan con otra moneda extranjera, generándose así un intercambio de flujos. Cada uno de los forwards incluidos en los referidos contratos, deberán constar separadamente unos de otros.
 
 En las operaciones antes mencionadas podrá convenirse la entrega de las respectivas monedas o el procedimiento de compensación de las diferencias que se generen en las fechas de vencimiento pactadas.
 
@@ -20460,15 +20454,13 @@ El ajuste corresponderá exclusivamente al valor de la prima de la respectiva op
 
 Además de los ajustes indicados anteriormente, los bancos deberán ajustar el saldo de la cuenta "Cambio garantía por contratos a futuro de tasas de interés", de acuerdo con las normas generales sobre la materia.
 
-### 9. Operaciones múltiples (Swaps)
+9.- Operaciones Swaps.
 
-Para los efectos de estas normas, se entenderán por "Swaps" aquellas operaciones en las que se convengan dos o más operaciones a futuro que consten en un solo contrato, generándose de esta manera un intercambio de flujos de moneda extranjera en las fechas convenidas para tal efecto.
+Las operaciones "Swaps" de intereses que pueden realizar los bancos de acuerdo con las disposiciones del Banco Central de Chile, son aquellas en las que se pacta con una contraparte el pago recíproco de intereses, calculados a las tasas fija y variable convenidas, sobre un monto denominado teórico o nocional y durante un plazo estipulado. En estas operaciones también se fijan las fechas en las que se liquidarán los intereses durante la vigencia del contrato, cuyo pago se efectúa por el vendedor o por el comprador del swap, según corresponda, por el monto neto entre los intereses fijos y los variables.
 
-Cada una de las operaciones a futuro incluidas en los referidos contratos, deberán constar separadamente unas de otras.
+En caso que se pacte más de una operación en un mismo contrato, cada una de ellas deberá constar separadamente de las otras.
 
-Las operaciones contenidas en un mismo contrato, serán registradas individualmente, como si se tratara de operaciones que constaran en contratos diferentes.
-
-Para tal efecto, los bancos deberán aplicar las instrucciones contables contenidas en el N° 8 de este Capítulo.
+Cada una de las operaciones contenidas en un mismo contrato será registrada individualmente, debiéndose aplicar las instrucciones contables contenidas en el numeral 8.3 de este Capítulo.
 
 ### 10. Información al Banco Central de Chile
 
@@ -20876,7 +20868,7 @@ El último día de cada mes los bancos procederán a calcular y registrar provis
 
 Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo o abono, según proceda, a la cuenta "Variación contratos a futuro-mercado externo", cuyo saldo se demostrará en la partida 2127 ó 4127, y con abono a la cuenta "Utilidades por contratos a futuro-mercado externo" o con cargo a "Pérdidas por contratos a futuro-mercado externo", según proceda.
 
-El ajuste se realizará sobre la base de las paridades que tengan entre sí las monedas involucradas, en los mercados a futuro internacionales, correspondientes al plazo remanente de los respectivos contratos, debiendo considerar, en todo caso, los ajustes parciales que se hayan efectuado durante su vigencia, ya sea mediante liquidación de diferencias a favor o la remesa de diferencias que sean de su cargo.
+El ajuste se realizará aplicando las paridades que tengan entre sí las monedas involucradas, según las cotizaciones a futuro internacionales cuyo plazo concluya en la fecha más cercana a la del vencimiento de los respectivos contratos, debiendo considerar, en todo caso, los ajustes parciales que se hayan efectuado durante su vigencia, ya sea mediante liquidación de diferencias a favor o la remesa de diferencias que sean de su cargo.
 
 Para los efectos de calcular dicha variación en términos de pesos moneda chilena, se aplicará el tipo de cambio de representación contable, vigente a la fecha del ajuste.
 
@@ -20890,15 +20882,13 @@ Dichos ajustes netos se registrarán por el equivalente de las respectivas moned
 
 El ajuste corresponderá exclusivamente al valor de las primas de las respectivas opciones y sólo se registrará en caso de que ellas aumenten antes de que expiren o se ejerzan. El importe de dicho valor se convertirá a moneda chilena, al tipo de cambio de representación contable vigente a la fecha del ajuste.
 
-### 8. Operaciones múltiples (Swaps)
+8.- Operaciones forwards múltiples (Swaps).
 
-Para los efectos de estas normas, se entenderán por "Swaps" aquellas operaciones en las que se convengan dos o más operaciones a futuro que consten en un solo contrato, generándose de esta manera un intercambio de flujos de moneda extranjera en las fechas convenidas para tal efecto.
+Las operaciones "Swaps" de monedas que pueden realizar los bancos en el mercado externo al amparo de las disposiciones del Banco Central de Chile, son aquellas en las que se pactan dos o más operaciones forwards que consten en un solo contrato.
 
 En las operaciones antes mencionadas podrá convenirse la entrega de las respectivas monedas o el procedimiento de compensación de las diferencias que se generen en las fechas de vencimiento pactadas.
 
-Cada una de las operaciones a futuro incluidas en los referidos contratos, deberán constar separadamente unas de otras.
-
-Las operaciones contenidas en un mismo contrato serán registradas individualmente siguiendo al efecto las instrucciones contenidas en el N° 7 de este Capítulo, como si se tratara de operaciones que constaran en contratos separados, ya sea que el cumplimiento de dichas operaciones se haga mediante la entrega de la moneda pactada o por el procedimiento de compensación.
+Cada uno de los forwards incluidos en los referidos contratos, deberán constar separadamente unos de otros. Las operaciones contenidas en un mismo contrato serán registradas individualmente, siguiendo al efecto las instrucciones contenidas en el numeral 7.3 de este Capítulo.
 
 ### 9. Antecedentes de las operaciones a futuro
 
