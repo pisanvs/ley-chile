@@ -1,0 +1,3 @@
+Por resolución N° 488 de 28 de Abril de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por VICTOR JOSE MIGUEL SHARP VLADILO, para un sector ubicado en Bahía Coruña, Puerto Natales, provincia de Ultima Esperanza, XII Región, por no dar cumplimiento el respectivo proyecto técnico a los artículos 87° y 88° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 28 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
