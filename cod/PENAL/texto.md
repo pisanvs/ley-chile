@@ -2252,11 +2252,11 @@ Quedará exento de las penas a que se refiere este artículo el cónyuge, los pa
 
 El que amenazare seriamente a otro con causar a él mismo o a su familia, en su persona, honra o propiedad, un mal que constituya delito, siempre que por los antecedentes aparezca verosímil la consumación del hecho, será castigado:
 
-1°. Con presidio menor en sus grados medio a máximo, si hubiere hecho la amenaza exigiendo una cantidad o imponiendo cualquiera otra condición ilícita y el culpable hubiere conseguido su propósito; a no ser que merezca mayor pena el hecho consumado, en el cual caso se impondrá ésta.
+1º. Con presidio menor en sus grados medio a máximo, si hubiere hecho la amenaza exigiendo una cantidad o imponiendo ilegítimamente cualquiera otra condición y el culpable hubiere conseguido su propósito.
 
 2° Con presidio menor en sus grados mínimo a medio, si hecha la amenaza bajo condición el culpable no hubiere conseguido su propósito,
 
-3.° Con presidio menor en su grado mínimo, si la amenaza no fuere condicional.
+3.° Con presidio menor en su grado mínimo, si la amenaza no fuere condicional; a no ser que merezca mayor pena el hecho consumado, caso en el cual se impondrá ésta.
 
 Cuando las amenazas se hicieren por escrito o por medio de emisario, éstas se estimarán como circunstancias agravantes.
 
@@ -2264,7 +2264,7 @@ Para los efectos de este artículo se entiende por familia el cónyuge, los pari
 
 #### Artículo 297
 
-Las amenazas de un mal que no constituya delito hechas en la forma expresada en el núm. 1.° del artículo anterior, serán castigadas con la pena de reclusión menor en cualquiera de sus grados.
+Las amenazas de un mal que no constituya delito hechas en la forma expresada en los números 1º o 2º del artículo anterior, serán castigadas con la pena de reclusión menor en sus grados mínimo a medio.
 
 #### Artículo 298
 
