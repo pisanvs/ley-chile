@@ -1,0 +1,3 @@
+Por Resolución Nº 1.651, de 1º de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 96103066, presentada por PESQUERA CERNA ROSALES LTDA., para el centro de cultivo ubicado en Sector Teupa, Bahía Yal, Comuna de Chonchi, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78, inciso 2º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 1º de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
