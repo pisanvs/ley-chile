@@ -1,0 +1,3 @@
+Por decreto MOP Nº 634 de 29 de julio de 2004, se expropió el lote de terreno Nº 14, superficie 3.464,00 m2, Rol de avalúo 232-76, comuna de Quellón, para la obra "Camino Ruta 5 Sur, sector Compu - Colonia Yungay, tramo Km. 1.240,00 a Km. 1.257,445, sector Curva La Herradura, tramo Km. 1.263,50 a Km. 1.264,309,", X Región y se acordó el valor de la indemnización con su propietario Juan Carlos Cárdenas Cárdenas y Otros, ascendente a la cantidad de $10.670.502.-
+
+Fiscal del Ministerio de Obras Públicas.
