@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.531, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 75-2M, 75-2N y 75-2O, superficies 1.196,0 m2., 1.146,0 m2. y 1.467,0 m2., rol de avalúo 217-31, comuna de Perquenco, para la obra ''Concesión Internacional Ruta 5. Tramo: Collipulli - Temuco'', Novena Región y se acordó el valor de indemnización con su propietaria María Raquel Márquez Bardin, ascendente a la cantidad de total de $2.924.259.
+
+- Fiscal del Ministerio de Obras Públicas.
