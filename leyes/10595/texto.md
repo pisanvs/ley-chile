@@ -1,0 +1,1 @@
+Autoriza la inversión de la cantidad de $ 40.000.000 en la celebración del Cuarto Centenario de la fundación de la ciudad de Angol; autoriza a la Municipalidad para erigir un monumento a la memoria de don Pedro de Valdivia; declara, para todos los efectos legales, feriado en la provincia de Malleco el día 24 de octubre de 1953.
