@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.040, de 30 de julio de 1998, se expropiaron los lotes de terreno No. s.9 y 23, superficies 600 m² y 830 m², roles de avalúos 134-8 y 137-7, comuna de Chonchi, obra Camino Chonchi-Teupa y se acordó precio de indemnización con sus propietarios Arturo Atala Andrade y Lautaro Andrade Quinchen, ascendente a las cantidades de $ 290.080 y $ 939,840.-
+
+Fiscal del Ministerio de Obras Públicas.
