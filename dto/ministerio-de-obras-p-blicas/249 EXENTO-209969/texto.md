@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº249 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº42, superficie 1.721,0 m2, Rol Nº150-8, comuna de Chonchi, X Región para la obra "Camino Ruta W-80, Sector Cruce Longitudinal Huillinco, Km 0,000 a Km. 9,556" y se acordó el valor de indemnización con su propietario Purísimo Cayun Levican, ascendente a la cantidad de $1.050.082.-
+
+Fiscal del Ministerio de Obras Públicas.
