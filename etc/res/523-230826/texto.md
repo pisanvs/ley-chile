@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº523, 26 agosto 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº 1670, Rol de Avalúo Nº3113-105, comuna Chiguayante, superficie 114,49 metros cuadrados de terreno y 47 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R 19.147, de aparente dominio de Luz Marina Faúndez Melo, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y D.L. 2186. Comisión Peritos integrada por Gabriel Fernández de la Maza, ingeniero civil, Sergio Labarca Garrido, constructor civil y Boris Aptecar González, arquitecto, según informe de fecha 16 de junio 2004, fijó monto provisional indemnización en $12.608.530.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
