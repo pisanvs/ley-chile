@@ -1,0 +1,5 @@
+Por decreto MOP Nº328, de 26 de febrero de 1999, se expropiaron los lotes de terreno Nºs. 9-A, 10-B, 52, 55, 62, 63, 72-A, 74-A, 74-B y 75-A, superficies 1.342, 303, 2.995, 973, 1.880, 483, 5.888, 2.364,75, 10.546,25 y 1.257 m², respectivamente, roles de avalúo en trámite, 94-135, 94-130, 94-87 y 94-103, comuna de Río Claro y Pelarco, para la obra Camino Los Robles-Huencuecho-Bajo Perquín, Sector Los Robles-Huencuecho y se acordó precio de indemnización con sus propietarios, María de la Luz Hederra Bascuñán, Gabriel Antonio Romero Olave, Felipe Fernando Bobadilla Salas, Ernesto Morales Suárez, Rafael Antonio Canales Astete y Juan Julio Eduardo Matamala Ortiz, ascendente a la cantidad de $539.846 para el lote 9-A; $217.860 para el lote 10-B; $1.196.317 para el lote 52; $546.307 para el lote 55; $509.031 para el lote 62;
+
+$4.033.151 para el lote 63; $1.164.868 para el lote 74-A; y $10.499.190 para los lotes 72-A, 74-B y 75-A.
+
+- Fiscal del Ministerio de Obras Públicas.
