@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 766 de 31 de mayo del 2004, se expropió el lote de terreno Nº 2, superficie 498 m², Rol Nº 169-61, comuna de Arauco, VIII Región, para la obra "Camino Arauco - Lebu por Curihuillin, Sector Puente Los Patos, Km. 0,00000 a Km. 0,20112" y se acordó el valor de indemnización con su propietario Juan Cárdenas Neira, ascendente a la cantidad de $481.190.-
+
+Fiscal del Ministerio de Obras Públicas.
