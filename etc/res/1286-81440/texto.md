@@ -1,0 +1,3 @@
+Por Resolución No. 1.286, de 26 de Octubre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por un año a contar del 26 de abril de 1990, el plazo concedido en el numeral 5°, de la Resolución No. 375, de 1989, de esta Subsecretaría a PESQUERA CHIVILINGO S.A. CERRADA, R.U.T. No. 96.508.710-9, domiciliada en Santiago, para empezar a operar la planta autorizada en dicha Resolución, por haberse acreditado la existencia de fuerza mayor.
+
+Valparaíso, 26 de Octubre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
