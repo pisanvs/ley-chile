@@ -290,7 +290,11 @@ Son atribuciones esclusivas del Congreso:
 
 5ª Hacer el escrutinio i rectificar la elección de Presidente de la República, conforme a los artículos 67, 68, 69, 70, 71, 72 i 73;
 
-6ª Autorizar al Presidente de la República para que use de facultades extraordinarias, debiendo siempre señalarse expresamente las facultades que se le conceden, i fijar un tiempo determinado a la duración de esta lei.
+6ª Dictar leyes excepcionales i de duración transitoria que no podrá exceder de un año, para restrinjir la libertad personal i la libertad de imprenta, i para suspender o restrinjir el ejercicio de la libertad de reunión, cuando lo reclamare la necesidad imperiosa de la defensa del Estado, de la conservación del réjimen constitucional o de la paz interior.
+
+Si dichas leyes señalaren penas, su aplicación se hará siempre por los tribunales establecidos.
+
+Fuera de los casos prescritos en este inciso, ninguna lei podrá dictarse para suspender o restrinjir las libertades o derechos que asegura el artículo 12.
 
 #### Artículo 37
 
@@ -436,17 +440,27 @@ De la Comisión Conservadora
 
 #### Artículo 57
 
-El día antes de cerrar el Congreso sus sesiones ordinarias, elejirá el Senado siete Senadores que, hasta la siguiente reunión ordinaria del Congreso, compongan la Comisión Conservadora.
+Antes de cerrar el Congreso sus sesiones ordinarias, elejirá todos los años cada Cámara siete de sus miembros que compongan la Comisión Conservadora, la cual formará un solo cuerpo y cuyas funciones espiran de hecho el dia 31 de mayo siguiente.
 
 #### Artículo 58
 
-Son deberes de la Comisión Conservadora:
+La Comision Conservadora, en representación del Congreso, ejerce la supervijilancia que a éste pertenece, sobre todos los ramos de la administración pública.
 
-1º Velar sobre la observancia de la Constitución i de las leyes.
+Le corresponde en consecuencia:
 
-2º Dirijir al Presidente de la República las representaciones convenientes a este efecto; i no bastando las primeras, las reiterará segunda vez, de cuya omisión será responsable al Congreso.
+1.º Velar por la observancia de la Constitución i de las leyes i prestar protección a las garantías individuales;
 
-3º Prestar o rehusar su consentimiento a todos los actos en que el Presidente de la República lo pidiere, según lo prevenido en esta Constitución.
+2.º Dirijir al Presidente de la República las representaciones conducentes a los objetos indicados i reiterarlas por segunda vez, si no hubieren bastado las primeras.
+
+Cuando las representaciones tuvieren por fundamento abusos o atentados cometidos por autoridades que dependan del Presidente de la República i éste no tomare las medidas que estén en sus facultades para poner término al abuso i para el castigo del funcionario culpable, se entenderá que el Presidente de la República i el Ministro del ramo respectivo, aceptan la responsabilidad de los actos de la autoridad subalterna, como si se hubiese ejecutado por su órden o con su consentimiento;
+
+3.º Prestar o rehusar su consentimiento a los actos del Presidente de la República a que, según lo prevenido en esta Constitución, debe proceder de acuerdo con la Comisión Conservadora;
+
+4.º Pedir la Presidente de la República que convoque estraordinariamente al Congreso cuando, a su juicio, lo exijieren circunstancias estraordinarias i excepcionales;
+
+5.º Dar cuenta al Congreso en su primera reunion, de las medidas que hubiere tomado en desempeño de su cargo.
+
+La Comision es responsable al Congreso de su omisión en el cumplimiento de los deberes que los incisos precedentes le imponen.
 
 ## Capítulo VII
 
@@ -562,13 +576,13 @@ Son atribuciones especiales del Presidente:
 
 2ª Espedir los decretos, reglamentos e instrucciones que crea convenientes para la ejecución de las leyes;
 
-3ª Velar sobre la pronta i cumplida administración de justicia, i sobre la conducta ministerial de los jueces;
+3ª Velar por la conducta ministerial de los jueces i demas empleados del órden judicial, pudiendo, al efecto, requerir al ministerio público para que reclame medidas disciplinarias del tribunal competente, o para que, si hubiere mérito bastante, entable la correspondiente acusación;
 
 4ª Prorrogar las sesiones ordinarias del Congreso hasta cincuenta días;
 
 5ª Convocarlo a sesiones estraordinarias con acuerdo del Consejo de Estado;
 
-6ª Nombrar i remover a su voluntad a los Ministros del Despacho i oficiales de sus secretarías a los Consejeros de Estado a los Ministros diplomáticos a los cónsules i demás ajentes esteriores, i a los Intendentes de provincia i Gobernadores de plaza;
+6ª Nombrar i remover a su voluntad a los Ministros del despacho i oficiales de sus secretarías, a los consejeros de Estado de su elección, a los Ministros diplomáticos, a los cónsules i demas ajentes esteriores, a los intendentes de provincia i a los gobernadores de plaza;
 
 7ª Nombrar los majistrados de los Tribunales superiores de justicia, i los jueces letrados de primera instancia a propuesta del Consejo de Estado, conforme a la parte 2ª del artículo 104;
 
@@ -646,31 +660,39 @@ Los Ministros, aun cuando no sean miembros del Senado o de la Cámara de Diputad
 
 #### Artículo 92
 
-Los Ministros del Despacho pueden ser acusados por la Cámara de Diputados por los crímenes de traición, concusión, malversación de los fondos públicos, soborno, infracción de la Constitución, por atropellamiento de las leyes, por haber dejado éstas sin ejecución, i por haber comprometido gravemente la seguridad o el honor de la Nación.
+Los Ministros del despacho pueden ser acusados por la Cámara de Diputados por los delitos de traición, concusión, malversación de los fondos públicos, soborno, infracción de la Constitucion, por atropellamiento de las leyes, por haber dejado éstas sin ejecución i por haber comprometido gravemente la seguridad o el honor de la nación.
 
 #### Artículo 93
 
-La Cámara de Diputados, antes de acordar la acusación de un Ministro, debe declarar si ha lugar a examinar la proposición de acusación que se haya hecho.
+Presentada la proposición de acusación, se señalará uno de los ocho dias siguientes para que el Ministro contra quien se dirije dé esplicaciones sobre los hechos que se le imputan i para deliberar sobre si la proposicion de acusación se admite o nó a exámen.
 
 #### Artículo 94
 
-Esta declaración no puede votarse sino después de haber oído el dictamen de una comisión de la misma Cámara, compuesta de nueve individuos elejidos por sorteo. La comisión no puede presentar su informe, sino después de ocho días de su nombramiento.
+Admitida a exámen la proposicion de acusacion, se nombrará a la suerte, entre los Diputados presentes, una comision de nueve individuos, para que dentro de los cinco dias siguientes, dictamine sobre si hai o nó mérito bastante para acusar.
 
 #### Artículo 95
 
-Si la Cámara declara que ha lugar a examinar la proposición de acusación, puede llamar al Ministro a su seno para pedirle explicaciones; pero esta comparecencia sólo tendrá lugar ocho días después de haberse admitido a examen la proposición de acusación.
+Presentado el informe de la comision, la Cámara procederá a discutirlo oyendo a los miembros de la comision, al autor o autores de la proposicion de acusación i al Ministro o Ministros i demas Diputados que quisieran tomar parte en la discusion.
 
 #### Artículo 96
 
-Declarándose haber lugar a admitir a examen la proposición de acusación, la Cámara oirá nuevamente el dictamen de una comisión de once individuos elejidos por sorteo, sobre si debe o no, hacerse la acusación. Esta comisión no podrá informar sino pasados ocho días de su nombramiento.
+Terminada la discusion, si la Cámara resolviese admitir la proposicion de acusacion, nombrará tres individuos de su seno para que en su representacion la formalicen i prosigan ante el Senado.
 
 #### Artículo 97
 
-Ocho días después de oído el informe de esta comisión, resolverá la Cámara si há o no, lugar a la acusación del Ministro; i si resulta la afirmativa, nombrará tres individuos de su seno para perseguir la acusación ante el Senado.
+Desde el momento en que la Cámara acuerde entablar la acusación ante el Senado o declarar que ha lugar a formación de causa, quedará suspendido de sus funciones el Ministro acusado.
+
+La suspension cesará si el Senado no hubiere pronunciado su fallo dentro de los seis meses siguientes a la fecha en que la Cámara de Diputados hubiere acordado entablar la acusación.
 
 #### Artículo 98
 
-El Senado juzgará al Ministro acusado ejerciendo un poder discrecional, ya sea para caracterizar el delito, ia para dictar la pena. De la sentencia que pronunciare el Senado no habrá apelación ni recurso alguno.
+El Senado juzgará al Ministro, procediendo como jurado i se limitará a declarar si es o no culpable del delito o abuso de poder que se le imputa.
+
+La declaración de culpabilidad deberá ser pronunciada por los dos tercios del número de Senadores presentes a la sesión. Por la declaración de culpabilidad, queda el Ministro destituido de su cargo.
+
+El Ministro declarado culpable por el Senado, será juzgado con arreglo a las leyes por el tribunal ordinario competente, tanto para la aplicación de la pena señalada al delito cometido, cuanto para hacer efectiva la responsabilidad civil, por los daños i perjuicios causados al Estado o a particulares.
+
+Lo dispuesto en los artículos 95, 96, 97 i en el presente, se observará tambien respecto de las demas acusaciones que la Cámara de Diputados entablare en conformidad a lo dispuesto en el inciso 2.º, artículo 38 de esta Constitución.
 
 #### Artículo 99
 
@@ -682,27 +704,33 @@ Si el Senado declara haber lugar a ella, el reclamante demandará al Ministro an
 
 #### Artículo 101
 
-Un Ministro no puede ausentarse hasta seis meses después de separado del Ministerio.
+La Cámara de Diputados puede acusar a un Ministro miéntras funcione, i en los seis meses siguientes a su separación del cargo. Durante estos seis meses, no podrá ausentarse de la República sin permiso del Congreso, o en receso de éste, de la Comision Conservadora.
 
 Del Consejo de Estado
 
 #### Artículo 102
 
-Habrá un Consejo de Estado presidido por el Presidente de la República. Se compondrá:
+Habrá un Consejo de Estado, compuesto de la manera siguiente:
 
-De los Ministros del Despacho.
+De tres consejeros elejidos por el Senado i tres por la Cámara de Diputados, en la primera sesion ordinaria de cada renovación del Congreso, pudiendo ser reelejido los mismos consejeros cesantes. En caso de muerte o impedimento de alguno de ellos, procederá la Cámara respectiva a nombrar el que deba subrogarle hasta la próxima renovacion.
 
-De los miembros de las Cortes Superiores de Justicia.
+De un miembro de las Cortes superiores de Justicia, residente en Santiago.
 
 De un eclesiástico constituido en dignidad.
 
-De un jeneral del Ejército o Armada.
+De un jeneral de Ejército o Armada.
 
-De un jefe de alguna oficina de Hacienda.
+De un jefe de una oficina de hacienda.
 
-De dos individuos que hayan servido los destinos de Ministros del Despacho, o Ministros Diplomáticos.
+De un individuo que haya desempeñado los cargos de Ministro de Estado, Ajente Diplomático, Intendente, Gobernador o Municipal.
 
-De dos individuos que hayan desempeñado los cargos de Intendentes, Gobernadores o miembros de las Municipalidades.
+Estos cinco últimos consejeros serán nombrados por el Presidente de la República.
+
+El Consejo será presidido por el Presidente de la República, i para reemplazar a éste, nombrará de su seno un vice-Presidente que se elejirá todos los años, pudiendo ser reelejido.
+
+El vice-Presidente del Consejo se considerará como el consejero mas antiguo para los efectos de los artículos 75 i 78 de esta Constitucion.
+
+Los Ministros del Despacho tendrán solo voz en el Consejo, i si algun consejero fuere nombrado Ministro, dejará vacante aquel puesto.
 
 #### Artículo 103
 
@@ -724,7 +752,7 @@ Son atribuciones del Consejo de Estado:
 
 6ª Declarar si ha lugar, o no, a la formación de causa en materia criminal contra los Intendentes, Gobernadores de plaza i de departamento. Esceptúase el caso en que la acusación contra los Intendentes se intentare por la Cámara de Diputados.
 
-7ª Resolver las disputas que se suscitaren sobre contratos o negociaciones celebradas por el Gobierno Supremo i sus ajentes.
+7ª Prestar su acuerdo para declarar en estado de asamblea una o mas provincias invadidas o amenazadas en caso de guerra estranjera.
 
 8ª El Consejo de Estado tiene derecho de moción para la destitución de los Ministros del Despacho, Intendentes, Gobernadores i otros empleados delincuentes, ineptos o neglijentes.
 
@@ -1014,7 +1042,13 @@ Ninguna majistratura, ninguna persona, ni reunión de personas pueden atribuirse
 
 #### Artículo 161
 
-Declarado algún punto de la República en estado de sitio, se suspende el imperio de la Constitución en el territorio comprendido en la declaración; pero durante esta suspensión, i en el caso en que usase el Presidente de la República de facultades estraordinarias especiales, concedidas por el Congreso, no podrá la autoridad pública condenar por sí ni aplicar penas. Las medidas que tomare en estos casos contra las personas, no pueden esceder de un arresto o traslación a cualquier punto de la República.
+Cuando uno o varios puntos de la República fueren declarados en estado de sitio, en conformidad a lo dispuesto en la parte 20.ª del artículo 82, por semejante declaración solo se conceden al Presidente de la República las siguientes facultades.
+
+1.ª La de arrestar a las personas en sus propias casas o en lugares que no sean cárceles ni otros que estén destinados a la detención o prisión de reos comunes;
+
+2.ª La de trasladar a las personas de un departamento a otro de la República, dentro del continente i en un área comprendida entre el puerto de Caldera al norte, i la provincia de Llanquihue al sur.
+
+Las medidas que tome el Presidente de la República en virtud del sitio, no tendrán mas duracion que la de éste, sin que por ellas se puedan violar las garantías constitucionales concedidas a los Senadores i Diputados.
 
 #### Artículo 162
 
@@ -1052,25 +1086,17 @@ DISPOSICIONES TRANSITORIAS
 
 #### Artículo 1°
 
-La calidad de saber leer i escribir que requiere el artículo 8º, sólo tendrá efecto después de cumplido el año 1840.
+En la próxima renovación del Congreso, despues de promulgada la presente reforma, elejirá cada provincia sus Senadores propietarios i suplentes conforme al artículo 24, cesando los actuales en el ejercicio de sus funciones.
+
+A la terminación del primer período, serán designados a la suerte los Senadores que deben cesar en el ejercicio de sus funciones, a fin de que se haga la renovación conforme al artículo 26.
 
 #### Artículo 2º
 
-Para hacer efectiva esta Constitución, se dictarán con preferencia las leyes siguientes:
-
-1ª La lei jeneral de elecciones.
-
-2ª La de arreglo del réjimen interior.
-
-3ª La de organización de Tribunales i administración de justicia.
-
-4ª La del tiempo que los ciudadanos deben servir en las milicias i en el ejército, i la de reemplazos.
-
-5ª La del plan jeneral de educación pública.
+El número de Diputados se ajustará a la base fijada en el artículo 19, cuando se forme el próximo censo jeneral de la República.
 
 #### Artículo 3º
 
-Interin no se dicte la lei de organización de tribunales i juzgados, subsistirá el actual orden de administración de justicia.
+Los actuales Consejeros de Estado cesarán en sus funciones desde que empiece a rejir esta reforma".
 
 #### Artículo 4º
 
