@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº971, de 19 de noviembre de 1996, se expropió el lote único de terreno, superficie 3.330 m2., rol de avalúo 173-8, comuna de Yerbas Buenas, para la obra Proyecto Sistema Regadío Maule Sur Canal Alimentador al Estero Abranquil y se acordó precio de indemnización con su propietaria María Luisa Gutiérrez León o María Luisa Gutiérrez Mosqueira, ascendente a la cantidad de $ 1.093.357.
+
+Fiscal del Ministerio de Obras Públicas.
