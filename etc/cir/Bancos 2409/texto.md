@@ -8712,7 +8712,7 @@ AVALES Y FIANZAS.
 
 En general, con excepción de las limitaciones y prohibiciones que se señalan en este mismo capítulo, las instituciones financieras pueden avalar o afianzar, en forma simple o solidaria, obligaciones expresadas en moneda chilena.
 
-Las empresas bancarias podrán, además, avalar o afianzar obligaciones en moneda extranjera en conformidad con lo establecido en el Capítulo XX del Compendio de Normas de Cambios Internacionales y en el Capítulo III I 1 del Compendio de Normas Financieras, del Banco Central de Chile. Las sociedades financieras solamente podrán avalar o afianzar obligaciones expresadas en moneda extranjera cuando sean expresamente autorizadas para ello.
+Las empresas bancarias podrán, además, avalar o afianzar obligaciones en moneda extranjera en conformidad con lo establecido en el Capítulo XX del Título I del Compendio de Normas de Cambios Internacionales y en el Capítulo III I 1 del Compendio de Normas Financieras, del Banco Central de Chile. Las sociedades financieras solamente podrán avalar o afianzar obligaciones expresadas en moneda extranjera cuando sean expresamente autorizadas para ello.
 
 En todo caso, las instituciones financieras podrán avalar o afianzar solamente aquellas obligaciones que correspondan a operaciones comerciales o financieras efectivas y conocidas, cuyo monto y plazo estén de antemano perfectamente determinados, y su riesgo haya sido previamente calificado.
 
@@ -8780,19 +8780,25 @@ directos.
 
 ### 6. Avales y fianzas en moneda extranjera
 
-6.1. Operaciones que pueden ser avaladas o afianzadas.
+De conformidad con lo dispuesto en el Capítulo XX del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las empresas bancarias pueden avalar o afianzar operaciones en moneda extranjera, con las limitaciones que se indican en el Capitulo III.I.1 antes mencionado y en este Capitulo, a favor de personas naturales o jurídicas residentes en Chile o en el extranjero.
 
-Los bancos están facultados para avalar o afianzar obligaciones en moneda extranjera, cuyo objeto sea alguno de los siguientes:
+Sin embargo, para avalar o afianzar obligaciones a favor de personas que no tengan residencia en el país, deberán contar previamente con la autorización del Banco Central de Chile, excepto cuando se trate de aquellas operaciones señaladas en el numeral 6.1 siguiente.
+
+Los importes en moneda extranjera que los bancos paguen a las personas residentes en el país, por haberse hecho efectivos los avales o fianzas que hayan otorgado, deberán ser liquidados a moneda corriente nacional en el mercado cambiario formal. Los bancos avalistas o fiadores serán responsables del cumplimiento de esta norma.
+
+6.1.- Operaciones que pueden ser avaladas a afianzadas sin solicitar autorización.
+
+Los bancos están facultados para avalar o afianzar obligaciones con el exterior en moneda extranjera, sin necesidad de solicitar autorización previa al Banco Central de Chile, cuando su objeto sea alguno de los siguientes:
 
 a) Responder del pago de importaciones pagaderas a más de un año plazo;
 
 b) Responder de créditos recibidos del exterior por empresas del país, que se destinen a facilitar sus exportaciones;
 
-c) Responder a préstamos financieros, internados al país de acuerdo al Capítulo XIV del Compendio de Normas de Cambios Internacionales o autorizados por el Banco Central de Chile, siempre que en la respectiva autorización se señale que la operación contempla el aval bancario;
+c) Responder a préstamos financieros, internados al país de acuerdo al Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile;
 
 d) Responder como garante directo o como contra fiador o avalista de documentos emitidos en el exterior que sirvan de garantía de calidad de las exportaciones chilenas o de seriedad en el cumplimiento de propuestas abiertas en el extranjero a que concurran exportadores chilenos; y,
 
-e) Responder de los pagos que se deriven de las obligaciones generadas por los contratos a futuro celebrados con corredores de Bolsas Oficiales Extranjeras,por las personas autorizadas para ello de conformidad con las disposiciones contenidas en el Capítulo VIII del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Estas cauciones también pueden
+e) Responder de los pagos que se deriven de las obligaciones generadas por los contratos a futuro celebrados con corredores de Bolsas Oficiales Extranjeras,por las personas autorizadas para ello de conformidad con las disposiciones contenidas en el Capítulo VIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Estas cauciones también pueden
 
 otorgarse mediante cartas de crédito Stand by, las que deben sujetarse a las normas contenidas en este capítulo.
 
@@ -8811,12 +8817,6 @@ b) Con recursos del banco avalista o fiador.
 Si el deudor principal no ha cumplido el pago total o parcial de una obligación en moneda extranjera avalada o afianzada, y siempre que ella cuente con acceso autorizado al mercado de divisas, el banco avalista o fiador efectuará la cobertura por el monto que corresponda, con cargo a sus propios recursos en moneda chilena.
 
 En este caso, la entidad bancaria deberá indicar este hecho en la correspondiente planilla de egreso que enviará al Banco Central de Chile acompañada de la documentación que corresponda.
-
-Cuando se trate de la cobertura de préstamos internados al amparo del artículo
-
-14 de la Ley de Cambios Internacionales, las entidades bancarias que realicen el pago en su carácter de avalistas o fiadores, deberán presentar al Banco Central de Chile el correspondiente Certificado de Inscripción de Aporte de Capital.
-
-Para estos efectos, las empresas bancarias, al momento de otorgar su aval o fianza, exigirán al deudor la entrega del referido Certificado emitido por el Banco Central de Chile, el que mantendrán en custodia hasta la extinción de la obligación caucionada.
 
 ### 7. Instrucciones contables
 
@@ -8842,7 +8842,7 @@ Haber: "Obligaciones contingentes por avales y fianzas", Subcuenta "Coberturas d
 
 En cada oportunidad en que se efectúe la cobertura parcial o total de una operación avalada registrada en estas cuentas, se procederá a revertir el importe de ella y a ingresar el saldo vigente, cuando lo hubiere.
 
-En aquellos casos en que se cubra anticipadamente una obligación avalada o afianzada correspondiente a una importación con cobertura diferida, se contabilizará a su vez el importe cubierto y avalado, en las siguientes cuentas:
+En aquellos casos en que se hubiere cubierto anticipadamente una obligación avalada o afianzada correspondiente a una importación con cobertura diferida, se contabilizará a su vez el importe cubierto y avalado, en las siguientes cuentas:
 
 Debe: "Créditos contingentes por avales o fianzas", Subcuenta "Coberturas diferidas cuotas cubiertas", cuyo saldo se demostrará en la partida 1610 ó 1660 del formulario MB1.
 
@@ -8858,7 +8858,7 @@ Debe: "Créditos contingentes por avales o fianzas", que se incluye en la partid
 
 Haber: "Obligaciones contingentes por avales y fianzas".
 
-Dentro de las mencionadas cuentas se establecerán subcuentas de acuerdo al tipo de operación avalada. Así, los avales relativos a créditos externos ingresados al amparo del artículo 14 de la Ley de Cambios Internacionales se registrarán en una subcuenta llamada "Préstamos externos Art. 14".
+Dentro de las mencionadas cuentas se establecerán subcuentas de acuerdo al tipo de operación avalada. Así, los avales relativos a créditos externos ingresados al amparo del Capitulo XIV del Título I del Compendio de Normas de Cambios Internacionales, se registrarán en una subcuenta llamada "Préstamos externos Capítulo XIV.
 
 Aquellos que caucionen créditos del exterior recibidos por empresas del país, destinados a facilitar sus exportaciones, se contabilizarán en una subcuenta que se denominará "Créditos del exterior para exportaciones".
 
@@ -8882,9 +8882,9 @@ Cuando una institución financiera deba pagar con sus propios recursos una opera
 
 No obstante lo anterior, cuando un banco avalista efectúe la cobertura del importe desembolsado en moneda extranjera, debitará en la cuenta "Varios deudores" el monto en moneda chilena necesario para adquirir la respectiva moneda extranjera.
 
-7.5. Custodia de Certificados de Inscripción de Préstamos ingresados al amparo del Art. 14 de la Ley sobre Operaciones de Cambios Internacionales.
+7.5. Custodia de Certificados de Inscripción.
 
-Los certificados a que se refiere el inciso final de la letra b) del numeral 6.2 de este capítulo, deberán ser contabilizados, en la misma moneda en que estén expresados, en las cuentas que se indican a continuación:
+Los certificados a en los casos que corresponda, deberán ser contabilizados, en la misma moneda en que estén expresados, en las cuentas que se indican a continuación:
 
 Debe: "Valores en custodia", de la partida 9260 del formulario MB1.
 
@@ -8904,11 +8904,7 @@ Los avales y fianzas, tanto en moneda chilena como en moneda extranjera, que oto
 
 En el caso que dos o más instituciones avalen en forma solidaria una o más obligaciones a cargo de una misma persona, cada una de ellas deberá imputar el monto total del aval a los márgenes del respectivo deudor, de acuerdo con lo dispuesto en el párrafo anterior. Solamente en el caso en que una obligación sea avalada con responsabilidad compartida por dos o más entidades financieras en proporción a montos perfectamente limitados, cada una de esas empresas podrá imputar al respectivo deudor la parte correspondiente a la responsabilidad comprometida por ella.
 
-8.3. Cobertura anticipada de operaciones avaladas o afianzadas.
-
-No se imputarán a los márgenes señalados en los numerales 8.1 y 8.2 precedentes, las cuotas de coberturas diferidas con aval bancario que hayan sido cubiertas con anticipación a su vencimiento, de acuerdo a las normas que rigen la materia.
-
-8.4. Relación deuda capital.
+8.3. Relación deuda capital.
 
 Los compromisos que las entidades financieras contraigan por concepto de avales o fianzas, deberán sumarse al monto global de sus demás obligaciones, para los efectos del límite fijado en los artículos 81 y 115 de la Ley General de Bancos.
 
@@ -8922,31 +8918,9 @@ Capítulo III.I.1 del Compendio de Normas Financieras del Banco Central de Chile
 
 ### 10. Antecedentes de operaciones avaladas
 
-Para los fines relacionados con las comprobaciones que esta Superintendencia
+Para los fines relacionados con las comprobaciones que esta Superintendencia pueda requerir, las instituciones financieras deberán habilitar una carpeta para cada operación avalada o afianzada, en la que mantendrán todos los antecedentes documentarlos relacionados con su origen, desarrollo y, en general, los que sean precisos para esclarecer, eventualmente, cuantos detalles puedan pedírseles respecto a dichas operaciones. Como elemento primordial de esta carpeta, deberán incorporar a ella una fotocopia del instrumento en que conste la fianza o aval otorgados, y en su caso, del documento en que conste la obligación que se caucione.
 
-pueda requerir, las instituciones financieras deberán habilitar una carpeta para
-
-cada operación avalada o afianzada, en la que mantendrán todos los antecedentes
-
-documentarlos relacionados con su origen, desarrollo y, en general, los que sean
-
-precisos para esclarecer, eventualmente, cuantos detalles puedan pedírseles
-
-respecto a dichas operaciones. Como elemento primordial de esta carpeta, deberán
-
-incorporar a ella una fotocopia del instrumento en que conste la fianza o aval
-
-otorgados, y en su caso, del documento en que conste la obligación que se
-
-caucione.
-
-El Banco Central de Chile podrá exigir a las empresas bancarias, en la
-
-oportunidad que lo estime conveniente, los antecedentes que correspondan a los
-
-avales y fianzas en moneda extranjera, conforme a lo establecido en el Capítulo
-
-XX del Compendio de Normas de Cambios Internacionales.
+El Banco Central de Chile podrá exigir a las empresas bancarias, en la oportunidad que lo estime conveniente, los antecedentes que correspondan a los avales y fianzas en moneda extranjera, conforme a lo establecido en el Capítulo XX del Título I del Compendio de Normas de Cambios Internacionales.
 
 CAPITULO 8-11 (Bancos)
 
@@ -9074,63 +9048,19 @@ favor de terceros, susceptibles de caucionarse mediante este instrumento.
 
 ### 5. Boletas de garantía en moneda extranjera
 
-Las empresas bancarias podrán emitir boletas de garantía en moneda extranjera a
+De conformidad con lo dispuesto en el Capítulo XXI del Título I del Compendio de Normas de Cambios Internacionales, las empresas bancarias pueden emitir boletas de garantía en moneda extranjera con el objeto de caucionar el cumplimiento de obligaciones de hacer, a favor de personas residentes en Chile o en el extranjero.
 
-objeto de caucionar el cumplimiento de obligaciones de hacer, sólo en los
+Sin embargo, para emitir dichas boletas a favor de personas que no tengan residencia en el país o que generen una obligación de pago en el exterior, deberán contar previamante con la autorización del Banco Central de Chile, excepto cuando se trate de caucionar aquellas operaciones señaladas en las letras a) y b) de este numeral.
 
-siguientes casos contemplados en el Capítulo XXI del Compendio de Normas de
+Los importes en moneda extranjera que los bancos paguen a las personas residentes en el país, por haberse hecho efectivas las boletas de garantía que hayan emitido, deberán ser liquidados a moneda corriente nacional en el mercado cambiario formal. Los bancos emisores de las boletas de garantía serán responsables del cumplimiento de esta norma.
 
-Cambios Internacionales del Banco Central de Chile:
+Los bancos no necesitarán autorización previa del Banco Central de Chile para emitir boletas de garantía en moneda extranjera, cuyo objeto sea alguno de los siguientes:
 
-a) Para responder por las garantías de calidad de exportaciones chilenas; de
+a) Para responder por las garantías de calidad de exportaciones chilenas; de seriedad en el cumplimiento de propuestas abiertas en el exterior a que concurran exportadores chilenos; o por el cumplimiento de contratos de exportación firmados por exportadores chilenos.
 
-seriedad en el cumplimiento de propuestas a que concurran exportadores chilenos;
+b) Para caucionar obligaciones a favor del Banco Central de Chile, en el caso de las personas naturales o jurídicas que deban constituir esas garantías, de acuerdo con las disposiciones dictadas por el Instituto Emisor.
 
-o por el cumplimiento de contratos de exportación firmados por exportadores
-
-chilenos.
-
-b) Para caucionar obligaciones a favor del Banco Central de Chile, en el caso de
-
-las personas naturales o jurídicas que deban constituir esas garantías, de
-
-acuerdo con las disposiciones dictadas por el Instituto Emisor.
-
-c) Para caucionar o responder de garantía de cumplimiento o calidad de servicios
-
-que deban prestar empresas nacionales en el extranjero, en propuestas o
-
-contratos de servicios. En el caso de hacerse efectivas estas boletas el banco
-
-emisor no tendrá derecho a recuperar las divisas del mercado de cambios.
-
-Por otra parte, las entidades bancarias pueden emitir boletas de garantía en
-
-moneda extranjera, cuando ellas les sean solicitadas por un corresponsal en el
-
-exterior. En este caso, el banco no tendrá acceso al mercado de divisas si
-
-dichas garantías se hicieran efectivas. El beneficiario debe liquidar a pesos
-
-moneda nacional, el importe de la moneda extranjera que le sea pagado, siendo el
-
-banco emisor responsable de que esa liquidación se efectúe.
-
-El Banco Central de Chile podrá requerir en cualquier momento a las empresas
-
-bancarias la entrega de los antecedentes que correspondan a las boletas de
-
-garantía en moneda extranjera emitidas conforme a las normas contenidas en el
-
-Capítulo XXI antes citado. Los bancos deberán cumplir con la entrega de dichos
-
-documentos dentro del plazo que para tal efecto se les señale.
-
-De acuerdo con las disposiciones del Banco Central de Chile, los bancos están
-
-facultados para recibir depósitos en moneda extranjera, en garantía de las
-
-boletas que emitan para los fines señalados en la letra c) anterior.
+El Banco Central de Chile podrá requerir en cualquier momento a las empresas bancarias la entrega de los antecedentes que correspondan a las boletas de garantía en moneda extranjera emitidas conforme a las normas contenidas en el Capítulo XXI antes citado. Los bancos deberán cumplir con la entrega de dichos documentos dentro del plazo que para tal efecto se les señale.
 
 6. Boletas de garantía expresadas en moneda extranjera, pagaderas en moneda chilena.
 
@@ -9210,27 +9140,7 @@ cumplirse la finalidad para la cual fue otorgada.
 
 ### 10. Boletas de garantía extendidas en términos reajustables
 
-Los bancos pueden emitir boletas de garantía contra pagarés, en pesos moneda
-
-nacional sin reajustabilidad o en términos reajustables, expresadas en Unidades
-
-de Fomento. Tanto la boleta como el pagaré, cuando la emisión de aquélla se haga
-
-con financiamiento bancario, se extenderán en Unidades de Fomento. Si la emisión
-
-se realiza contra un depósito del tomador, este último, en caso que devuelva la
-
-boleta, podrá reclamar la reajustabilidad del depósito, solamente si éste ha
-
-cumplido a lo menos 90 días desde la fecha de su entero, de conformidad con las
-
-normas del Banco Central de Chile sobre depósitos y captaciones reajustables. No
-
-obstante, el pago al beneficiario se hará siempre en términos reajustables,
-
-cuando sea esa la cláusula de pago, aún en el caso que no hubieran transcurrido
-
-90 días desde la emisión del documento.
+Los bancos pueden emitir boletas de garantía contra pagarés, en pesos moneda nacional sin reajustabilidad o reajustables por alguno de los sistemas de que trata el Capítulo II.B.3 del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 7-1 de esta Recopilación. Tanto la boleta como el pagaré, cuando la emisión de aquélla se haga con financiamiento bancario, se extenderán con el mismo sistema de reajustabilidad. Si la emisión se realiza contra un depósito del tomador, este último, en caso que devuelva la boleta, podrá reclamar la reajustabilidad del depósito, solamente si éste ha cumplido a lo menos 30 ó 90 días desde la fecha de su entero, según se trate de una operación reajustable por la variación del tipo de cambio del dólar de los Estados Unidos de América o de otro sistema de reajuste, respectivamente, de conformidad con las normas del Banco Central de Chile sobre depósitos y captaciones reajustables. No obstante, el pago al beneficiario se hará siempre en términos reajustables, cuando sea esa la cláusula de pago, aún en el caso que no hubieran transcurrido 30 ó 90 días desde la emisión del documento, según corresponda.
 
 ### 11. Normas contables
 
@@ -9240,295 +9150,83 @@ cuando sea esa la cláusula de pago, aún en el caso que no hubieran transcurrid
 
 a) Con depósito en dinero efectivo.
 
-Las instituciones bancarias que reciban depósitos en dinero efectivo para la
+Las instituciones bancarias que reciban depósitos en dinero efectivo para la emisión de boletas de garantía, registrarán el importe recibido en depósito y la emisión de la correspondiente boleta, en la siguiente forma:
 
-emisión de boletas de garantía, registrarán el importe recibido en depósito y la
+Debe: "Caja", por el importe recibido para constituir el depósito para boleta de garantía.
 
-emisión de la correspondiente boleta, en la siguiente forma:
+Haber: - "Boletas de garantía enteradas en efectivo". El saldo de esta cuenta se reflejará en la partida 3010, del formulario MB1. En el caso que se trate de un documento pagadero a 30 días o más, el registro se hará en la cuenta:
 
-Debe: "Caja", por el importe recibido para constituir el depósito para boleta de
+- "Boletas de garantía enteradas en efectivo-pagaderas a 30 días o más", cuyo saldo se incluirá en la partida 3030, del formulario MB1.
 
-garantía.
+Si el depósito recibido tiene por objeto emitir una boleta de garantía reajustable, el registro contable del mismo se hará en la cuenta:
 
-Haber: - "Boletas de garantía enteradas en efectivo". El saldo de esta cuenta se
-
-reflejará en la partida 3010, del formulario MB1. En el caso que se trate de un
-
-documento pagadero a 30 días o más, el registro se hará en la cuenta:
-
-- "Boletas de garantía enteradas en efectivo-pagaderas a 30 días o más", cuyo
-
-saldo se incluirá en la partida 3030, del formulario MB1.
-
-Si el depósito recibido tiene por objeto emitir una boleta de garantía expresada
-
-en Unidades de Fomento o con cláusula de reajustabilidad en esa unidad, el
-
-registro contable del mismo se hará en la cuenta:
-
-- "Boletas de garantía reajustables en efectivo". El saldo de esta cuenta será
-
-demostrado en la partida 3010 ó 3030, del formulario MB1. En todo caso al
-
-depósito se le reconocerán los reajustes ganados, solamente si mantiene una
-
-permanencia mínima de 90 días.
+- "Boletas de garantía reajustables en efectivo". El saldo de esta cuenta será demostrado en la partida 3010 ó 3030, del formulario MB1. En todo caso al depósito se le reconocerán los reajustes ganados, solamente si mantiene una permanencia mínima de 30 ó 90 días, según corresponda.
 
 b) Con préstamo o contra pagaré.
 
-Cuando la boleta sea emitida contra un préstamo que, para el efecto le otorgue
+Cuando la boleta sea emitida contra un préstamo que, para el efecto le otorgue al tomador la institución bancaria, el registro contable será el siguiente:
 
-al tomador la institución bancaria, el registro contable será el siguiente:
+Debe: "Deudores por boletas de garantía" o "Deudores por boletas de garantía reajustables", según corresponda, El saldo de esta cuenta se demostrará en la partida 1605 del formulario MB1, a menos que tanto el préstamo como la boleta misma tuvieran alguna cláusula relativa a que su pago se hará efectivo en un plazo superior a un año, contado desde la fecha en que fuera requerido, caso excepcional en que se registrará en la partida 1655 del formulario MB1.
 
-Debe: "Deudores por boletas de garantía" o "Deudores por boletas de garantía
-
-reajustables", según corresponda, El saldo de esta cuenta se demostrará en la
-
-partida 1605 del formulario MB1, a menos que tanto el préstamo como la boleta
-
-misma tuvieran alguna cláusula relativa a que su pago se hará efectivo en un
-
-plazo superior a un año, contado desde la fecha en que fuera requerido, caso
-
-excepcional en que se registrará en la partida 1655 del formulario MB1.
-
-Haber: "Boletas de garantía enteradas con pagaré". El saldo de esta cuenta se
-
-demostrará en la partida 3605 del formulario MB1, salvo que la boleta
-
-especifique que su pago se hará efectivo en un plazo de más de un año contado
-
-desde la fecha en que el beneficiario comunique su decisión de hacerla
-
-efectiva,caso en que será demostrada en la partida 3655, del formulario MB1.
+Haber: "Boletas de garantía enteradas con pagaré". El saldo de esta cuenta se demostrará en la partida 3605 del formulario MB1, salvo que la boleta especifique que su pago se hará efectivo en un plazo de más de un año contado desde la fecha en que el beneficiario comunique su decisión de hacerla efectiva,caso en que será demostrada en la partida 3655, del formulario MB1.
 
 11.1.2. En moneda extranjera.
 
 a) En dinero efectivo.
 
-Se procederá de la misma manera señalada para las boletas emitidas contra un
-
-depósito en pesos, moneda chilena, con la excepción de que la cuenta "Caja"
-
-podrá ser remplazada por la del corresponsal en el exterior que entregó en
-
-depósito la moneda extranjera, cuando la emisión sea ordenada por un banco
-
-corresponsal del exterior que ha acreditado en cuenta al banco emisor, en la
-
-respectiva moneda, el valor del depósito, contra el cual se emitirá la
-
-boleta.Este depósito será reflejado en la partida 1025 del formulario MB1.
+Se procederá de la misma manera señalada para las boletas emitidas contra un depósito en pesos, moneda chilena, con la excepción de que la cuenta "Caja" podrá ser remplazada por la del corresponsal en el exterior que entregó en depósito la moneda extranjera, cuando la emisión sea ordenada por un banco corresponsal del exterior que ha acreditado en cuenta al banco emisor, en la respectiva moneda, el valor del depósito, contra el cual se emitirá la boleta.Este depósito será reflejado en la partida 1025 del formulario MB1.
 
 b) Contra pagaré.
 
-La contabilización de una boleta de garantía extendida en moneda extranjera y
+La contabilización de una boleta de garantía extendida en moneda extranjera y emitida contra un préstamo otorgado al respectivo tomador, se hará en forma similar a la indicada en la letra b) del numeral 11.1.1. anterior.
 
-emitida contra un préstamo otorgado al respectivo tomador, se hará en forma
-
-similar a la indicada en la letra b) del numeral 11.1.1. anterior.
-
-En todo caso,debe señalarse tanto en el pagaré respectivo como en la boleta,
-
-cuando el documento sea pagadero por su equivalente en pesos moneda nacional.
+En todo caso,debe señalarse tanto en el pagaré respectivo como en la boleta, cuando el documento sea pagadero por su equivalente en pesos moneda nacional.
 
 c) Contra depósito en pesos moneda chilena.
 
-Las entidades bancarias pueden emitir también las boletas de garantía expresadas
+Las entidades bancarias pueden emitir también las boletas de garantía expresadas en moneda extranjera y pagaderas por su equivalente en pesos, moneda nacional,contra un depósito constituido por el respectivo tomador, por el correspondiente equivalente en pesos. En tal caso, el depósito que se constituya será considerado y tratado como depósito reajustable por la variación del tipo de cambio y la contabilización se hará de la siguiente forma:
 
-en moneda extranjera y pagaderas por su equivalente en pesos, moneda
+Debe: "Caja", por el importe equivalente de la moneda extranjera recibido en pesos, moneda nacional.
 
-nacional,contra un depósito constituido por el respectivo tomador, por el
+Haber: "Boletas de garantía expresadas en moneda extranjera enteradas y pagaderas en pesos moneda nacional", por el valor original de los pesos recibidos para la emisión de la boleta que será reajustado al término de cada mes, de acuerdo con la variación que tena la respectiva moneda extranjera. El saldo de esta cuenta será demostrado en la columna "Reajustable" de la partida 3010 ó 3030, del formulario MB1, según sea la forma de pago establecida (a la vista o con 30 o más días de aviso). Conviene que, para los efectos de un mejor control e información se establezcan subcuentas por cada tipo de moneda, Debe
 
-correspondiente equivalente en pesos. En tal caso, el depósito que se constituya
-
-será considerado y tratado como depósito reajustable por la variación del tipo
-
-de cambio y la contabilización se hará de la siguiente forma:
-
-Debe: "Caja", por el importe equivalente de la moneda extranjera recibido en
-
-pesos, moneda nacional.
-
-Haber: "Boletas de garantía expresadas en moneda extranjera enteradas y
-
-pagaderas en pesos moneda nacional", por el valor original de los pesos
-
-recibidos para la emisión de la boleta que será reajustado al término de cada
-
-mes, de acuerdo con la variación que tena la respectiva moneda extranjera. El
-
-saldo de esta cuenta será demostrado en la columna "Reajustable" de la partida
-
-3010 ó 3030, del formulario MB1, según sea la forma de pago establecida (a la
-
-vista o con 30 o más días de aviso). Conviene que, para los efectos de un mejor
-
-control e información se establezcan subcuentas por cada tipo de moneda, Debe
-
-tenerse presente que para los efectos de su devolución al tomador, los reajustes
-
-devengados por el depósito serán pagados solamente si éste ha enterado a lo
-
-menos 90 días.
+tenerse presente que para los efectos de su devolución al tomador, los reajustes devengados por el depósito serán pagados solamente si éste ha enterado a lo menos 30 días.
 
 11.2. Intereses sobre boletas de garantía.
 
-Los intereses que los bancos cobren por los préstamos otorgados para boletas de
-
-garantía, serán acreditados en la cuenta "Intereses por boletas de garantía
-
-emitidas", de la partida 7125 del formulario MR1, con cargo, cuando
-
-corresponda,a "Intereses por cobrar sobre boletas de garantía" de la partida
-
-1820, del formulario MB1.
-
-Podrán mantenerse subcuentas separadas para las boletas emitidas en pesos moneda
-
-nacional no reajustables, en pesos moneda nacional reajustables o en Unidades de
-
-Fomento y para las expresadas en moneda extranjera y pagaderas en moneda
-
-chilena.
-
-Si se perciben intereses en moneda extranjera por boletas de garantía emitidas
-
-en esa moneda por cuenta de corresponsales del exterior, ellos serán registrados
-
-en la cuenta "Intereses por boletas de garantía emitidas", cuyo saldo en la
-
-respectiva moneda, se reflejará igualmente en la partida 7125 del formulario
-
-MR1, con cargo a "Intereses por cobrar sobre boletas de garantía", de la partida
-
-1820, del formulario MB1.
+Los intereses que los bancos cobren por los préstamos otorgados para boletas de garantía, en moneda chilena o extranjera, serán acreditados en la respectiva cuenta de resultados de la partida 7125 "Intereses percibidos y devengados por colocaciones contingentes.
 
 11.3. Reajustes sobre boletas de garantía.
 
 a) Emitidas contra pagaré.
 
-Las colocaciones y obligaciones contingentes derivadas de la emisión de boletas
-
-de garantía contra pagaré no generarán reajustes que afecten las cuentas de
-
-resultado, en la medida en que cada asiento de activo tenga su correspondiente
-
-contrapartida en el pasivo.
+Las colocaciones y obligaciones contingentes derivadas de la emisión de boletas de garantía contra pagaré no generarán reajustes que afecten las cuentas de resultado, en la medida en que cada asiento de activo tenga su correspondiente contrapartida en el pasivo.
 
 b) Emitidas contra depósito en dinero efectivo.
 
-En los casos de las boletas reajustables emitidas contra depósito en dinero
-
-efectivo, sea en Unidades de Fomento o por variación de tipo de cambio, los
-
-reajustes que devengue éste, de acuerdo a lo que al respecto se hubiera
-
-pactado,se debitarán a la cuenta "Reajustes pagados sobre depósitos enteradas
-
-para boletas de garantía", cuyo saldo se demostrará en la partida 5315 del
-
-formulario MR1.
+En los casos de las boletas reajustables emitidas contra depósito en dinero efectivo,los reajustes que devengue éste, de acuerdo a lo que al respecto se hubiera pactado,se debitarán a la cuenta "Reajustes pagados sobre depósitos enteradas para boletas de garantía", cuyo saldo se demostrará en la partida 5315 del formulario MR1.
 
 11.4. Pago de las boletas de garantía.
 
-El pago de la boleta de garantía al respectivo beneficiario, cuando éste la haga
+El pago de la boleta de garantía al respectivo beneficiario, cuando éste la haga efectiva o a su tomador, ocasionará la reversión de los asientos a que se refiere la letra b) de los numerales 11.1.1. y 11.1.2 anteriores y tratándose de boletas constituidas con un depósito en dinero efectivo, se procederá al giro de ese depósito para hacer frente al pago.
 
-efectiva o a su tomador, ocasionará la reversión de los asientos a que se
+Sin embargo, si el pago de una boleta de garantía cursada contra pagaré se realiza sin que el deudor o tomador reembolse su importe al banco a más tardar al momento que éste efectúe dicho pago, el crédito contingente hasta entonces existente, se convertirá en un crédito efectivo que, a menos que se convenga en otorgar al deudor un financiamiento para hacer frente a ese rembolso, se registrará en "Deudores por boletas de garantía pagadas", cuenta cuyo saldo se demostrará en la partida 1140 "Varios Deudores" del formulario MB1. Como el pagaré suscrito por el deudor es "a la vista", la contabilización del mismo en la referida cuenta no podrá ser por un plazo mayor de 90 días. Al término de ese plazo, si no ha sido pagado, deberá traspasarse a "Cartera Vencida".
 
-refiere la letra b) de los numerales 11.1.1. y 11.1.2 anteriores y tratándose de
-
-boletas constituidas con un depósito en dinero efectivo, se procederá al giro de
-
-ese depósito para hacer frente al pago.
-
-Sin embargo, si el pago de una boleta de garantía cursada contra pagaré se
-
-realiza sin que el deudor o tomador reembolse su importe al banco a más tardar
-
-al momento que éste efectúe dicho pago, el crédito contingente hasta entonces
-
-existente, se convertirá en un crédito efectivo que, a menos que se convenga en
-
-otorgar al deudor un financiamiento para hacer frente a ese rembolso, se
-
-registrará en "Deudores por boletas de garantía pagadas", cuenta cuyo saldo se
-
-demostrará en la partida 1140 "Varios Deudores" del formulario MB1. Como el
-
-pagaré suscrito por el deudor es "a la vista", la contabilización del mismo en
-
-la referida cuenta no podrá ser por un plazo mayor de 90 días. Al término de ese
-
-plazo, si no ha sido pagado, deberá traspasarse a "Cartera Vencida".
-
-En el caso que el depósito efectuado por el tomador fuera insuficiente para
-
-responder al pago de la boleta-caso que puede suceder, por ejemplo, con las
-
-operaciones reajustables, cuando la boleta es cobrada antes de que el depósito
-
-cumpla su plazo para comenzar a devengar reajustes-la diferencia correspondiente
-
-se registrará igualmente en la cuenta "Deudores por boletas de garantía
-
-pagadas", de la partida 1140 "Varios Deudores", sujeto al plazo máximo de 90
-
-días de permanencia en esa cuenta.
+En el caso que el depósito efectuado por el tomador fuera insuficiente para responder al pago de la boleta-caso que puede suceder, por ejemplo, con las operaciones reajustables, cuando la boleta es cobrada antes de que el depósito cumpla su plazo para comenzar a devengar reajustes-la diferencia correspondiente se registrará igualmente en la cuenta "Deudores por boletas de garantía pagadas", de la partida 1140 "Varios Deudores", sujeto al plazo máximo de 90 días de permanencia en esa cuenta.
 
 11.5. Boletas de garantía a favor de organismos del sector público.
 
-En el número 3 del presente capítulo se señaló que los bancos deben mantener un
+En el número 3 del presente capítulo se señaló que los bancos deben mantener un libro talonario diferente para la emisión de boletas de garantía a favor de instituciones públicas. De igual modo, es necesario que en la contabilidad queden separadas las boletas extendidas a favor de entes del sector público, de aquellas que lo son a favor de personas naturales o jurídicas privadas. En consecuencia, las cuentas "Boletas de garantía enteradas en efectivo"; "Boletas de garantía reajustables enteradas en efectivo"; "Boletas de garantía enteradas con pagaré"; "Boletas de garantía expresadas en moneda extranjera enteradas y
 
-libro talonario diferente para la emisión de boletas de garantía a favor de
-
-instituciones públicas. De igual modo, es necesario que en la contabilidad
-
-queden separadas las boletas extendidas a favor de entes del sector público, de
-
-aquellas que lo son a favor de personas naturales o jurídicas privadas. En
-
-consecuencia, las cuentas "Boletas de garantía enteradas en efectivo"; "Boletas
-
-de garantía reajustables enteradas en efectivo"; "Boletas de garantía enteradas
-
-con pagaré"; "Boletas de garantía expresadas en moneda extranjera enteradas y
-
-pagaderas en pesos moneda nacional", se deben mantener divididas en las
-
-subcuentas; "Boletas de garantía a favor del sector privado" y "Boletas de
-
-garantía a favor de organismos públicos".
+pagaderas en pesos moneda nacional", se deben mantener divididas en las subcuentas; "Boletas de garantía a favor del sector privado" y "Boletas de garantía a favor de organismos públicos".
 
 11.6. Extinción de la boleta de garantía.
 
-Las boletas de garantía se extinguen al momento que el beneficiario la hace
+Las boletas de garantía se extinguen al momento que el beneficiario la hace efectiva o que el tomador la devuelve al banco, dentro del plazo de validez que se le ha dado al documento.
 
-efectiva o que el tomador la devuelve al banco, dentro del plazo de validez que
+Si ella no es cobrada o devuelta hasta la fecha fijada para su vencimiento, la institución emisora podrá cancelarla en sus registros y efectuar, si fuera del caso, la correspondiente liquidación al tomador. Los depósitos enterados para boleta de garantía que permanezcan inmovilizados después de haber vencido la correspondiente boleta, quedarán sujetos a los plazos de prescripción de que trata el Capítulo 2-13 de esta Recopilación de Normas.
 
-se le ha dado al documento.
-
-Si ella no es cobrada o devuelta hasta la fecha fijada para su vencimiento, la
-
-institución emisora podrá cancelarla en sus registros y efectuar, si fuera del
-
-caso, la correspondiente liquidación al tomador. Los depósitos enterados para
-
-boleta de garantía que permanezcan inmovilizados después de haber vencido la
-
-correspondiente boleta, quedarán sujetos a los plazos de prescripción de que
-
-trata el Capítulo 2-13 de esta Recopilación de Normas.
-
-En cuanto a las boletas emitidas sin un plazo determinado de vencimiento, ellas
-
-podrán cancelarse, si no son cobradas o devueltas, si el banco obtiene del
-
-beneficiario una declaración en el sentido de que ella no será cobrada y que, en
-
-consecuencia, renuncia a todo derecho que pudiera haber tenido sobre esa
-
-garantía.
+En cuanto a las boletas emitidas sin un plazo determinado de vencimiento, ellas podrán cancelarse, si no son cobradas o devueltas, si el banco obtiene del beneficiario una declaración en el sentido de que ella no será cobrada y que, en consecuencia, renuncia a todo derecho que pudiera haber tenido sobre esa garantía.
 
 ### 12. Límite global de endeudamiento
 
