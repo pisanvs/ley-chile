@@ -1,0 +1,3 @@
+Por resolución Nº 515, de esta Subsecretaría, declárase la caducidad de la resolución Nº 892, de 1989 y de la resolución Nº 1.965, de 1989, en lo relativo a sus letras a) y c), ambas de esta Subsecretaría, que autorizaron a la empresa PESQUERA RIO SIMPSON S.A., para operar la nave ''Río Simpson'', de conformidad con lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 26 de marzo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
