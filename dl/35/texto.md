@@ -1,0 +1,1 @@
+Aumenta la jornada ordinaria semanal de trabajo para los sectores público y privado, hasta la fecha que indica
