@@ -1,0 +1,5 @@
+Por decreto MOP N° 1.467, de 17 de abril de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 20 para la obra: ''Camino: Santiago-Colina-Los Andes. Sector: Calle de Servicio Caupolicán Km. 4.618,89 al Km.
+
+6.634,47'', Región Metropolitana, que figura a nombre de Zamorano Retamal Guillermo, rol de avalúo 2114-1, comuna de Quilicura, superficie 455,2 m2. La Comisión de Peritos integrada por los señores María Cristina Camus Palacios, Carmen Pilar Ríos Marcuello y Gustavo Domínguez Errázuriz, fijó con fecha 10 de febrero de 2000, el valor provisional de la indemnización en la cantidad de $13.525.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N°2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
