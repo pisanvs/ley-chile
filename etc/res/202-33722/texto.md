@@ -1,0 +1,3 @@
+Por resolución N° 202, de 3 de marzo de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 1.185, de 1994, de esta Subsecretaría, que autorizó a PESQUERA CATALINA S.A., R.U.T. N° 84.196.200-1, para efectuar una pesca de investigación dirigida al recurso jurel, con las naves "Doña Mariana" y "Doña Claudina", en virtud de lo previsto en el numeral 15 de la mencionada Resolución.
+
+Valparaíso, 03 de marzo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
