@@ -1,0 +1,3 @@
+Por decreto MOP Nº 110 de fecha 28 de febrero del 2001, se expropiaron los lotes de terreno Nºs. 9 y 10, superficie 173 y 330 m², respectivamente, rol de avalúo 518-123 y 330, comuna de Antuco, para la obra "Camino Ruta Q-45, Sector Antuco-Abanico, Tramo I Km. 0,00000 a Km. 3,95000" y se acordó el valor de indemnización con su propietario Ramón del Carmen Aguila Barros, ascendente a la cantidad de $353.835.-
+
+Fiscal del Ministerio de Obras Públicas.
