@@ -1,0 +1,3 @@
+Por resolución Nº 2.337, de 14 de noviembre de 2001, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Chungungo, Sector B, IV Región, individualizada en el artículo 1º Nº 1 del DS Nº 398 de 1998, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ORGANIZACION COMUNITARIA DE BUZOS MARISCADORES "LOS CASTILLO".
+
+Valparaíso, 14 de noviembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
