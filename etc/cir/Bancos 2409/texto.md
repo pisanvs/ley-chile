@@ -3276,11 +3276,9 @@ En caso que al efectuar la venta de las letras de crédito, se obtenga por ellas
 
 IV.- EJECUCION DE GARANTIAS HIPOTECARIAS SOBRE VIVIENDAS ADQUIRIDAS CON SUBSIDIO.
 
-1.- Publicación del aviso de remate.
+1.- Notificación de remate al SERVIU.
 
-En el caso que el acreedor de un préstamo en letras de crédito o mutuo hipotecario endosable, hiciere efectiva la garantía sobre la vivienda financiada con el préstamo y con el subsidio habitacional, deberá publicar un aviso de remate en el Diario Oficial con una anticipación no inferior a veinte días de la fecha en que se llevará a efecto. En dicho aviso se deberá indicar a lo menos la fecha y lugar del remate, juzgado y número de rol de la causa, individualización de las partes y del inmueble que se subastará y el valor de tasación para efectos del remate.
-
-La no publicación del citado aviso en el plazo y forma señalados, obligará a la institución financiera acreedora a restituir al SERVIU respectivo el subsidio directo aplicado a la vivienda, como asimismo, cuando corresponda, el subsidio implícito, al valor de la unidad de fomento vigente en la fecha de la restitución, conforme lo establecen los artículos 27 y 34 del Reglamento.
+En el caso que el acreedor de un préstamo en letras de crédito o mutuo hipotecario endosable, hiciere efectiva la garantía sobre la vivienda financiada con el préstamo y con el subsidio habitacional, deberá notificar este hecho al SERVIU respectivo con, a lo menos, diez días de anticipación a la fecha del remate, de conformidad con lo dispuesto en el artículo 31 de la Ley N° 18.681.
 
 2.- Remate de viviendas con prohibición de enajenar.
 
@@ -3292,9 +3290,17 @@ El importe de la restitución al SERVIU se calculará sobre la base del valor de
 
 Si la vivienda que fuere objeto de remate judicial, hubiese sido financiada con subsidio habitacional y con un crédito hipotecario complementario no superior a 670 U.F., el SERVIU respectivo enterará a la institución financiera acreedora hasta el 75% de la diferencia que se produjere entre el valor obtenido en el remate y el saldo insoluto de la deuda, incluidos intereses y comisiones devengados hasta el día de la recepción de pago efectivo y de las costas del juicio, siempre que el total no exceda de 200 U.F., que corresponde al máximo de la franquicia para cada crédito. El citado 75% se incrementará en un 0,04% por cada unidad de fomento que resulte de la diferencia entre 670 unidades de fomento y el monto del crédito recibido por el usuario, todo ello con el tope de 200 U.F. antes indicado.
 
-En todo caso, es condición necesaria para acceder a la franquicia de que trata este numeral que, sin perjucio de lo indicado en el N° 1 de este título, la institución financiera acreedora dé aviso de remate al SERVIU respectivo con una anticipación mínima de 10 días, conforme a lo dispuesto en el artículo 31 de la Ley N° 18.681.
-
 Esta franquicia rige también cuando la propia institución acreedora se adjudica el inmueble por los dos tercios del avalúo, según lo previsto en los artículos 499 y 500 del Código de Procedimiento Civil.
+
+De conformidad con lo dispuesto por el Ministerio de Vivienda y Urbanismo en su Resolución N° 432 del 20 de septiembre de 1996, las instituciones financieras deberán entregar los siguientes documentos a dicho Ministerio para cobrar la diferencia entre el producto del remate y el saldo insoluto de la deuda:
+
+a) Liquidación del crédito, con certificados del Tribunal sobre monto de costas personales y procesales.
+
+b) Copia de la escritura en que conste el crédito otorgado al deudor.
+
+c) Certificado del Tribunal que acredite que la propiedad objeto de remate fue adjudicada a un tercero o al propio demandante, el valor de la misma adjudicación y de que el precio de adjudicación está pagado.
+
+En todo caso, es condición necesaria para acceder a la franquicia de que trata este numeral, que la institución financiera acreedora notifique el remate al SERVIU respectivo, conforme a lo señalado en el N° 1 de este título.
 
 V.- NORMAS CONTABLES.
 
