@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 160 de 31 de enero de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento de Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Hijuela Primera del Fundo Los Quillayes" de la comuna de Requínoa, VI Región; y Derechos Aprovechamiento Aguas que corresponden a las parcelas N°s. 1 a la 65; sitios N°s. 1 al 43 y Reserva CORA s/n. del Proyecto de Parcelación "El Trigal" formado en parte por el predio señalado. Los Derechos de Agua se extraen de los canales Comunidad y Cerro y Derrames del Desagüe La Obra, del Fundo El Trigal y de la Hijuela Segunda del Fundo Los Quillayes. Publicación hecha conforme Art. 13. Ley N° 18.377.
+
+Director Ejecutivo.
