@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº838 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº60-B, superficie 152 m2., rol de avalúo Nº285-70, comuna de San Fernando, para la obra ''Camino San Fernando - Roma, Rol I-301; I-255; I-151, Km. 0,000 a Km. 10,954264'', VI Región y se acordó el valor de indemnización con su propietario Juan Manuel Valenzuela Serrano, ascendente a la cantidad de $569.254.-
+
+Fiscal del Ministerio de Obras Públicas.
