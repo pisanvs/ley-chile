@@ -1,0 +1,7 @@
+AUTORIZA A SEA SALMON LTDA. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 604 de 12 de Junio de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sea Salmon Ltda., domiciliada en Puerto Montt, para iniciar actividades de cultivo del recurso hidrobiológico salmón plateado, en dos establecimientos emplazados en la Comuna de Puerto Montt, Provincia de Llanquihue, X Región. La fase de agua dulce se realizará en una piscicultura que se instalará en la localidad de Panitao, Comuna de Puerto Montt. La fase marina se efectuará en un área de 10.000 m2 ubicada en la Bahía de Chincui, Puerto Montt. Las coordenadas geográficas son: para fase agua dulce, Lat. 41° 33' 50,52" S, Long. 73° 04' 15,00" W; para fase marina, Vértive A Lat. 41° 32' 55,00" S, Long.
+
+73° 02' 5,00" W Vértice B Lat. 41° 32' 55,00 S, Long. 73° 02' 2,00" W; Vértice C Lat. 41° 32' 59,00" S, Long.73° 02' 5,00" W; Vértice D Lat. 41° 32' 57,00" S, Long. 73° 02' 4,00" W. Esta autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan .
+
+Valparaíso, 12 de Junio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
