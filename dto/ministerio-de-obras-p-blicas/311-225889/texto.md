@@ -1,0 +1,3 @@
+Por decreto MOP Nº 311 de 19 de abril de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 1 y 2 para la obra: "Agua Potable Rural de Cáhuil", que figuran a nombre de Caro Salinas Lidia y otros, rol de avalúo 1124-14, comuna de Pichilemu, VI Región, superficies 1.914 y 2.015 m2. La Comisión de Peritos, fijó con fecha 29 de octubre de 2003, en la cantidad de $5.853.642.- para el lote 1 y $4.638.545.- para el lote 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
