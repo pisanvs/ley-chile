@@ -1,0 +1,1 @@
+Reemplaza la escala de sueldos bases anuales fijados al personal de Carabineros de Chile por el artículo 29° de la ley 13.305, de 6 de abril de 1959, y modifica el artículo 1° de la ley 11.852, de 29 de agosto de 1955, que fijó el texto refundido de las disposiciones legales sobre sueldos y gratificaciones para el personal de Carabineros de Chile.
