@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 180, de 24 de julio de 1986, se expropió el lote No. 2, cuya superficie es 2.460 m2, rol de avalúo 3719, comuna de Chépica, VI Región, para Camino Variante La Cabrería, sector Puente La Cabrería a Puente Uvas Blancas y se acordó precio de indemnización con sus propietarios don Rodolfo del Carmen Galaz Gonz lez y otros, ascendente a $ 363.453.-
+
+Fiscal del Ministerio de Obras Públicas.
