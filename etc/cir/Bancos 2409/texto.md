@@ -12310,39 +12310,9 @@ III.- INVERSIONES EN LETRAS DE CREDITO.
 
 1.- Letras de crédito de propia emisión.
 
-De acuerdo con las disposiciones del Comité Ejecutivo del Banco Central de Chile
+Las normas del Banco Central de Chile admiten la inversión en letras de crédito de propia emisión, dentro de los límites que establece en el Capítulo III.B.2 de su Compendio de Normas Financieras.
 
-las instituciones financieras podrán invertir en letras de crédito y en bonos o
-
-debentures de su propia emisión, hasta el equivalente del 5% del total de las
-
-respectivas emisiones colocadas o hasta el 50% del capital pagado y reservas
-
-dela institución, no pudiendo exceder la suma de las inversiones en ambos tipos
-
-de instrumentos, del 50% del capital pagado y reservas.
-
-No obstante lo anterior, las instituciones financieras podrán exceder el límite
-
-del 50% de su capital pagado y reservas antes señalado, siempre que no
-
-sobrepasen el 100% de éste y que el exceso corresponda a la compra de letras de
-
-crédito y bonos destinados a financiar operaciones hipotecarias, que hayan
-
-tenido por objeto pagar anticipadamente otras obligaciones hipotecarias cuya
-
-finalidad hubiera sido el financiamiento de viviendas.
-
-Los márgenes antedichos podrán excederse en una suma igual al monto de las
-
-letras de crédito de propia emisión que las instituciones financieras adquieran,
-
-provenientes de créditos que hubieren otorgado mediante esta modalidad, con el
-
-único objeto de financiar saldos de precio por venta de bienes raíces que se
-
-hubieren adjudicado o recibido en pago de deudas previamente contraídas.
+Para cumplir con dichos límites las instituciones financieras deberán atenerse a lo establecido en el Capítulo 12-11 de esta Recopilación Actualizada de Normas.
 
 2.- Compra de letras de crédito emitidas por otras instituciones financieras.
 
@@ -19481,6 +19451,22 @@ Los saldos en moneda extranjera se computarán por su equivalente en moneda chil
 4 - Sanciones.
 
 El último inciso del artículo 83 antes mencionado dispone que las instituciones que adquieran bienes por sobre el límite establecido, incurrirán en una multa equivalente al 10% sobre el exceso de la inversión realizada, por cada mes calendario que lo mantengan.
+
+CAPITULO 12-11 (Bancos y Financieras)
+
+MATERIA:
+
+LIMITES DE INVERSIONES EN LETRAS DE CREDITO Y BONOS DE PROPIA EMISION.
+
+De acuerdo con lo dispuesto el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras pueden invertir en letras de crédito y en bonos o debentures de propia emisión, hasta por el equivalente del 5% del total de las respectivas emisiones colocadas o hasta el 50% del capital pagado y reservas de la institución, no pudiendo exceder la suma de las inversiones totales en ambos tipos de instrumentos, del 50% del capital pagado y reservas.
+
+No obstante, se permite que las instituciones financieras excedan ese límite global equivalente a un 50% del capital pagado y reservas, siempre que no sobrepasen el 100% de éste, cuando el exceso corresponda a la adquisición de letras de crédito y bonos destinados a financiar operaciones hipotecarias, que hayan tenido por objeto pagar anticipadamente otras obligaciones hipotecarias cuya finalidad hubiera sido el financiamiento de viviendas.
+
+No quedan afectas a los límites antes señalados, las letras de crédito de propia emisión que las instituciones financieras adquieran, provenientes de créditos que hubieren otorgado mediante esta modalidad, con el único objeto de financiar saldos de precio por venta de bienes raíces que se hubieren adjudicado o recibido en pago de deudas previamente contraídas.
+
+Para ajustarse a los límites de que se trata, las instituciones financieras computarán el valor de compra de los instrumentos de propia emisión que deseen adquirir, sumados al valor en que se encuentren registrados en el activo, según las normas vigentes, aquellos que mantengan en cartera.
+
+El capital pagado y reservas de la entidad financiera adquirente a la fecha de la inversión, se calculará de la forma señalada en el numeral 1.1 del Capítulo 12-1 de esta Recopilación Actualizada de Normas.
 
 CAPITULO 12-12 (Bancos y Financieras) MATERIA:
 
