@@ -1,0 +1,3 @@
+Por resolución exenta N° 48, de 03.02.87, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones IV Región, se autoriza a. don Francisco Guillermo Horta Gálvez para efectuar todo tipo de servicios de transporte de pasajeros por calles y caminos, dentro del territorio nacional, a excepción de los servicios públicos urbanos de locomoción colectiva de pasajeros.
+
+Dante Guerra Tallar, Secretario Regional Ministerial de Transportes y Telecomunicaciones IV Región subrogante.
