@@ -1,0 +1,3 @@
+Por decreto MOP Nº 575 de fecha 30 de abril del 2001, se expropió el lote de terreno Nº 98, superficie 62 m2., sin rol, comuna de Alto del Carmen, para la obra "Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa III" y se acordó el valor de indemnización con su propietaria Natalia Avalos Vallejos, ascendente a la cantidad de $436.704.-
+
+Fiscal del Ministerio de Obras Públicas.
