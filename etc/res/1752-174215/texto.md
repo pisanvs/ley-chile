@@ -1,0 +1,3 @@
+Por resolución Nº 1.752, de 4 de agosto de 2000, de esta Subsecretaría, autorízase a MARCOS HERACLIO PIÑA CABELLO, para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 1.278 de 1991, Nº 479 de 1997 y Nº 1.614 de 1998, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en calle Vicuña Mackenna Nº 84, comuna de Calbuco, provincia de Llanquihue, X Región, en las líneas de elaboración de conserva, congelado y fresco-refrigerado, el recurso hidrobiológico Loco.
+
+Valparaíso, 4 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
