@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 1.589 de 14 de Diciembre de 1994, se autorizó a la sociedad Empresa de Transportes Géminis Limitada (Géminis Limitada), para efectuar transporte internacional terrestre de pasajeros entre Iquique (Chile) y Asunción (Paraguay) en trànsito por territorio argentino, utilizando los pasos fronterizos de Sico o Jama, con una frecuencia semanal de ida y vuelta.-
+
+Claudio Hohmann Barrientos, Subsecretario de Transportes.
