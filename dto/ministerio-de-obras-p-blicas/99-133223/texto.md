@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 99, de 29 de abril de 1988, se expropiaron los lotes de terrenos N°s. 3 y 4, superficie 396 M2. y 16.672 M2., respectivamente, roles de avalúo 2196-142 y 329-4, Comuna de Puerto Montt, para la obra Mejoramiento Integral Agua Potable de Puerto Montt, y se acordó el precio de indemnización con sus propietarios Marta Livinia Márquez Maripani y Arzobispado de Puerto Montt, ascendente a las cantidades de $ 75.080 y $ 4.251.027.-
+
+Fiscal del Ministerio de Obras Públicas.
