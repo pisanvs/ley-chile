@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.212 de fecha 31 de agosto del 2004, se expropiaron los lotes de terreno Nº s 14 y 14-A, superficies 1.527,94 y 141,27 m²., Rol Nº 557-35, comuna de Linares, para la obra "Camino Conservación Ruta L-45, sector Escuela Llepo-Puente Los Hualles, Tramo Km. 13,14700 a Km. 36,446" y se acordó el valor de indemnización con su propietario Juan Bautista Muñoz, ascendente a la cantidad de $870.750.-
+
+Fiscal del Ministerio de Obras Públicas.
