@@ -1,0 +1,3 @@
+Por resolución Nº. 1.537 de 30 de Diciembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la resolución Nº. 447 de 1987, de esta Subsecretaría, que autorizó a OLIVARES S.A., domiciliada en Santiago, para instalar y operar una planta procesadora en calle Caleta s/n°, Mehuín, Provincia de Valdivia, X Región, en virtud de lo dispuesto en el artículo 7° del DS Nº. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 30 de Diciembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
