@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.575 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 34, superficie 1.413 m², rol de avalúo 512-4, comuna de Talagante, para la obra ''Camino Autopista Santiago-San Antonio, Tramo: Talagante-El Paico, Segmento 3, Sector 5-0, Lado Derecho Km. 38,64000 a Km. 43,56000'' y se acordó el valor de indemnización con su propietario Takeshi Tsukame Kikuchi, ascendente a la cantidad de $13.643.507.-
+
+Fiscal del Ministerio de Obras Públicas.
