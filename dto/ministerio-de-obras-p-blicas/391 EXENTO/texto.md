@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº391 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº52, superficie 1.378,52 m2, rol de Avalúo Nº1252-212, comuna de Parral, para la obra "Camino Ruta L-70, sector Cruce Ruta 128 - Cuatro Esquinas, Km. 0,000 a Km. 15,800", VII Región y se acordó el valor de la indemnización con su propietario Sociedad Agrícola Valle Hermoso Limitada, ascendente a la cantidad de $1.182.012.-
+
+Fiscal del Ministerio de Obras Públicas.
