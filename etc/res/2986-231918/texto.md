@@ -1,0 +1,3 @@
+Por resolución Nº 2.986 de 20 de octubre de 2004 de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº407 de 2004, modificada mediante resoluciones Nº785, Nº1.112, Nº1.351, Nº2.612 y Nº2.769, todas de 2004, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco, I y II Regiones", en el sentido de incorporar las embarcaciones artesanales "Tuareg I" y "Gringo Pablo II", a la nómina de naves artesanales participantes en la presente pesca de investigación.
+
+Valparaíso, 20 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
