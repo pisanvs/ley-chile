@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.435, de 9 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 31 para la Obra:
+
+''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco''; Km. 596,92000 a Km. 607,84000, Novena Región, que figura a nombre de Mermoud Havenstein Roberto Ren, rol de avalúo 536-19, comuna de Victoria, superficie 1.453 m2. La comisión de peritos integrada por los señores, Luis Javier Donoso Moreno, Patricio Fernando Casagrande Ulloa y Hugo Wiibaldo Repetto Vera, fijó con fecha 05 de marzo de 1999, el valor provisional de la indemnización en la cantidad de $ 650.200.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas
