@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.121, de 31 de agosto del 2000, se expropiaron los lotes de terreno Nºs. 205-A, 205-B y 205-C, superficies 52.756 m², 4.374 m² y 17.637 m², rol de avalúo 293-1, comuna de Los Vilos, para la obra Concesión Internacional Ruta 5. Tramo: Samtiago - Los Vilos, Cuarta Región y se acordó el valor de indemnización con sus propietarios Guillermo Lorca Ribbeck y Otras, ascendente a la cantidad total de $233.296.619.
+
+- Fiscal del Ministerio de Obras Públicas.
