@@ -1,0 +1,7 @@
+AUTORIZA A DON LUIS CARRERE VERA PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA
+
+Por resolución No. 1.691, de 08 de Noviembre de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Luis Carrere Vera, R.U.T. No. 6.455.618-5, domiciliado en la ciudad de Valparaíso, calle Carrera No. 723-F, para ampliar las actividades pesqueras que tiene autorizadas por Resolución No. 1123, de 1988, de esta Subsecretaría, en orden a operar la embarcación Reina IV, en el litoral de las Regiones III a la VII, donde podrá extraer los siguientes recursos hidrobiológicos: Cabrilla española, machuelo o tritre anchoa, caballa, jurel, sardina, atún spp., bacalao de profundidad o mero, marrajo o tiburón y merluza común. El solicitante podrá asimismo extraer el recurso albacora o pez espada, en el litoral de la I a la X Región. Deniégase la autorización solicitada por el peticionario para operar la nave "Reina IV" en el litoral de las Regiones I, II, y VIII a XI, sin perjuicio de la autorización concedida en el numeral 3° de esta Resolución respecto del recurso albacora o pez espada.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 08 de Noviembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
