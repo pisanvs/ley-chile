@@ -1,0 +1,3 @@
+Por resolución exenta Nº 63, de 18 de noviembre de 2002, del Ministerio de Economía, Fomento y Reconstrucción, recházase el recurso de reclamación interpuesto por PESQUERA FRIOSUR S.A., en contra de la resolución Nº2.278 de 2001 de la Subsecretaría de Pesca, en virtud de no haberse acreditado fehacientemente la improcedencia de la declaración de caducidad parcial de la autorización con la que contaba la nave "Friosur IX" dispuesta por la resolución recurrida, de conformidad con lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
