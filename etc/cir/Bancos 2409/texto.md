@@ -2930,33 +2930,31 @@ CERTIFICO que don (doña) ............................ R.U.T. N° ..............
 
 El mencionado contrato fue modificado con fecha ..................... , siendo sus condiciones originales y actuales, en 10 que se refiere al ahorro total mínimo pactado, plazo para enterarlo y saldos medios semestrales, las siguientes:
 
-El ahorro total acumulado, incluidos reajustes e intereses, a la fecha de emisión de este certificado, asciende a la suma de $ ............... equivalente a ........ Unidades de Fomento (*) (**).
+El ahorro total acumulado, incluidos reajustes e intereses, a la fecha de emisión de este certificado, asciende a la suma de $ ...............equivalente a ...... Unidades de Fomento (4)
 
 Los saldos medios efectivamente mantenidos en cada período, son los siguientes:
 
-Durante el plazo fijado en el contrato (Original o modificado):
+Primer semestre:..............U F. Cuarto semestre: ......U.F.
 
-Primer semestre: ........... U.F. Cuarto semestre: ...... U.F.
+semestre:.....................U F. Quinto semestre: ......U.F.
 
-Segundo semestre: .......... U.F. Quinto semestre: ...... U.F.
+semestre:.....................U.F. Sexto semestre: ......U.F.
 
-Tercer semestre: .......... U.F. Sexto semestre: ... ... U.F.
+El saldo medio mantenido desde el término del último semestre informado precedentemente, hasta el fue de .......... U.F. (5).
 
-Después de cumplido el plazo fijado en el contrato:
+Se deja constancia que la antigüedad acumulada de la cuenta de ahorro a que se refiere este Certificado, es de..... meses.
 
-Primer mes: .. U.F. Quinto mes: .. U.F. Noveno mes ....: ... U.F.
+GERENTE
 
-Segundo mes:.. U.F. Sexto mes: .... U.F. Décimo mes.....: ... U.F.
+(1) Tachar lo que no corresponda.
 
-Tercer mes: .. U.F. Séptimo mes: .. U.F. Décimo 1er mes : ... U.F.
+(2) Para los efectos de su giro o traspaso, el saldo estará referido al valor de la unidad de fomento, vigente en el último día del mes inmediatamente anterior a la fecha en que se haga uso de él, a menos que el titular hubiera perdido el derecho a reajuste
 
-Cuarto mes: .. U.F. Octavo mes : .. U.F. Décimo 2° mes..: ... U.F.
+(3) En caso que el ahorrante hubiera perdido el derecho a reajuste, deberá dejarse constancia de este hecho, mediante la frase. "Sin derecho a reajuste por haber efectuado en el último periodo de doce meses una cantidad de giros superior a la pactada"
 
-Se deja constancia que la antigüedad acumulada de la cuenta de ahorro a que se refiere este Certificado, es de meses.
+(4) Esta información se proporcionará sólo en el caso que el titular de la cuenta registre disminución del ahorro total acreditado, entre la fecha a que se refiere e] párrafo anterior y la fecha de emisión de este certificado.
 
-(*) Para los efectos de su giro o traspaso, el saldo estará referido al valor de la unidad de fomento, vigente en el último día del mes inmediatamente anterior a la fecha en que se haga uso de él, a menos que el titular hubiera perdido el derecho a reajuste.
-
-(**) En caso que el ahorrante hubiera perdido el derecho a reajuste, deberá dejarse constancia de este hecho, mediante la frase: "Sin derecho a reajuste por haber efectuado en el último período de doce meses una cantidad de giros superior a la pactada".
+(5) Esta información sólo se proporcionará para el periodo que exceda del plazo convenido, que corresponda a una fracción de semestre (1 a 5 meses de exceso, sobre el último semestre informado).
 
 ANEXO N° 2
 
@@ -40398,6 +40396,8 @@ N° de Inscripción* Nombre de la empresa.
 
 007 AUDITORES Y CONSULTORES PINEDO HERMANOS Y COMPAÑIA LTDA.
 
+008 JERIA Y ASOCIADOS, AUDITORES CONSULTORES LIMITADA.
+
 Se incluyen sólo las firmas inscritas en el Registro que se encuentran
 
 facultadas para prestar sus servicios profesionales a bancos y sociedades
@@ -40613,3 +40613,23 @@ que se entrega.
 CAPITULO 20-4. Derogado.
 
 Artículo .- Derogado.
+
+CAPITULO 20-5 (Bancos)
+
+MATERIA
+
+DEVOLUCION DE EXCEDENTES DE IMPUESTO A LA RENTA MEDIANTE ABONO EN CUENTAS CORRIENTES BANCARIAS
+
+El Servicio de Tesorerías implantó, a partir del año 1989, un procedimiento que permite la devolución de excedentes de impuesto a la renta, mediante su depósito directo en las cuentas corrientes bancarias de los contribuyentes que así lo soliciten en su declaración anual de impuestos Los procedimientos para efectuar esa devolución serán los que comunique la Asociación de Bancos e Instituciones Financieras A G en su calidad de coordinadora, y los que se indican en este Capítulo.
+
+1.- Contabilización de los recursos recibidos.
+
+Las empresas bancarias acreditarán en las cuentas corrientes de los contribuyentes los importes correspondientes a devolución de impuesto a la renta que, por intermedio del Banco del Estado de Chile, reciban de la Tesorería General de la República en la fecha prevista en el calendario de actividades establecido para el efecto, según lo convenido entre el Servicio de Tesorerías y la Asociación de Bancos e Instituciones Financieras A G Este procedimiento se aplicará solamente en los casos en que los contribuyentes así lo hayan solicitado en su declaración de impuesto a la renta.
+
+Los importes recibidos se abonarán directamente en la cuenta comente de los respectivos beneficiarios, o bien, se acreditarán transitoriamente, al momento de recibirlos, en una cuenta que habilitarán para tal efecto y que será demostrada en la partida 3010 "Otros saldos acreedores a la vista" En todo caso, los bancos que opten por acreditar en esa cuenta los recursos que les haya abonado el Banco del Estado de Chile por dicho concepto, deberán traspasar esos recursos a las cuentas corrientes de los respectivos beneficiarios dentro del plazo previsto para tal efecto en los procedimientos operativos establecidos.
+
+2.- Utilización de Vales de Cámara.
+
+La entrega de los fondos de que se trata por parte del Banco del Estado de Chile, se hará efectiva mediante vales de cámara extendidos a favor de cada banco
+
+Por su parte, los importes que los bancos no puedan acreditar en la cuenta comente del beneficiario, ya sea por cuenta cerrada o por otra causa, serán devueltos al Banco del Estado de Chile también mediante vales de cámara.
