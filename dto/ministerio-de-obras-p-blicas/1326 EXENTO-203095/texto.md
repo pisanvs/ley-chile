@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.326, de fecha 30 de agosto de 2002, se expropiaron los lotes de terreno Nº30, 32, 33 y 35, superficies 1.020,0, 4.073,0, 1.164,0 y 778,0 m2, rol de avalúo Nº153-48, comuna de Chonchi, para la obra ''Camino Ruta W-80, Sector Cruce Longitudinal Huillinco Km. 0,000 a Km. 9,556'', X Región, y se acordó el valor de la indemnización con su propietario Rubén Amado Millapinda, ascendente a la cantidad de $3.751.053.
+
+Fiscal del Ministerio de Obras Públicas.
