@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.215, de 3 de diciembre de 2003, de esta Subsecretaría, autorízase a MARCELO ALEJANDRO ALVAREZ CARCAMO para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en González Canessa Nº 24, Chonchi, X Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-refrigerado, Congelado y Ahumado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 3 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
