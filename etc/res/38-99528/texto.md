@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Por resolución Nº38, de 15 de mayo de 1998, Serviu II Región, dispuso conforme D.L. 2186 de 1978 y para ejecución proyecto ''Mejoramiento Eje San Martín E Iquique - Antofagasta, expropiación parcial del inmueble ubicado en calle Tarapacá s/nº, rol de avalúo Nº1512-3, comuna de Antofagasta, superficie 10,20 m2, de aparente dominio de Esso Chile Petrolera Ltda., según inscripción fs. 469, Nº921, año 1962, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión Tasadora integrada por peritos Sr. Alejandro Bargsted Barcells, Sra. Eleonora Román Latorre, Arquitectos; y Sr. Héctor Villegas González, Constructor Civil, según informe de 09 de abril de 1998, fijó monto provisional indemnización en $851.983.-, pagadera al contado.-
+
+Antofagasta, 20 de mayo 1998.- Director Serviu II Región.
