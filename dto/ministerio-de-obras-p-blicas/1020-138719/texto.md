@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.020, de 29 de abril de 1999, se expropió el lote de terreno No. 126, superficie 746 m2., rol de avalúo 160-113, comuna de Pemuco, para la obra "Concesión Internacional Ruta 5 Tramo Chillán-Collipulli", VIII Región, y se acordó el valor de indemnización con sus propietarios Sucesión Francisco Cañas Benavides, ascendente a la cantidad de $ 1.639.480.-
+
+Fiscal del Ministerio de Obras Públicas.
