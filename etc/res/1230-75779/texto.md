@@ -1,0 +1,3 @@
+Por Resolución Nº 1.230, de 10 de septiembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción declárase la caducidad de las Resoluciones Nº 957, de 1987; Nº 952 y Nº 1.790, ambas de 1989; Nº 314, Nº 943 y Nº 1.321, todas de 1990; Nº 583, de 1994, todas de esta Subsecretaría, que autorizaron a PESQUERA OMEGA LIMITADA, para desarrollar actividades pesqueras extractivas con las naves "Elva's", "Christina's", "Elena's" y "Portugal II", por haberse configurado la causal prevista en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 10 de septiembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
