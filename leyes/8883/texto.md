@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República transferir a la Caja de Retiro y Previsión Social de los Ferrocarriles del Estado el dominio de los terrenos que indica, ubicados en San Antonio, y cuyos deslindes señala.
