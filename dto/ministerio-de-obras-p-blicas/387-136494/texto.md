@@ -1,0 +1,3 @@
+Por decreto MOP Nº387, de 26 de febrero de 1999, se expropió el lote de terreno Nº121, superficie 717 m2, rol de avalúo 160-175, comuna de Pemuco, para la obra ''Concesión Internacional Ruta 5, Tramo Chillán - Collipulli'' Sector 1, Octava Región y se acordó el valor de indemnización con su propietario Roberto Wenceslao Sepúlveda Segura, ascendente a la cantidad de $9.351.058.-.
+
+Fiscal del Ministerio de Obras Públicas.
