@@ -1,0 +1,5 @@
+Visita de boticas
+
+En materia alguna puede la mala fé versarse con mas facilidad ni mas perniciosamente que en la farmacia. El ministerio con que elabora sus confecciones, la angustia con que se buscan, la presura con que se suministran, lo proporciona el abuso mas impune de la confianza, i los mas tristes efectos sobre los intereses, la salud i la vida del ciudadano. La oscuridad de estas oficinas las oculta a los grupos de los pacientes, i por lo mismo deben ser el objeto de la vijilancia del Majistrado en quien descansan. Es necesario que el vehemente celo de Ud. ataje este mal i que revestido de todas las facultades precisas, i acompañado de los profesores imparciales i del actuario que elija, practique una prolija visita i exámen de cuanto tenga relacion con las boticas de esta capital; proveyendo de pronto a lo mas urjente i dando cuenta de su resultado a este Gobierno, que ya se lisonjea del buen éxito por la satisfaccion que tiene de la rectitud de Ud. i de su amor al órden.-
+
+Dios guarde a Ud. muchos años.- Sala de Gobierno i Enero 12 de 1813.- José Miguel Carrera.- José Santiago Portales.- Señor Rejidor don Nicolas Matorras.
