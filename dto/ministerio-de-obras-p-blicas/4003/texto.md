@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.003, de 30 de diciembre de 1999, se expropió el lote de terreno Nº524-A1, superficie 5.046,8 m², rol de avalúo 538-176, comuna de La Unión, para la obra Concesión Internacional Ruta 5, Tramo: Temuco - Río Bueno, Décima Región y se acordó el valor de indemnización con su propietaria I. Municipalidad de Osorno, ascendente a la cantidad de $100.074.437.-
+
+Fiscal del Ministerio de Obras Públicas.
