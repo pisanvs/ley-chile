@@ -1,0 +1,3 @@
+Por resolución Nº 903, de 9 de mayo de 2002, de esta Subsecretaría, autorízase a SOUTHPACIFIC KORP S.A. para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 821, Nº 1.745 y Nº 1.919, todas de 2001, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Manuel Rodríguez Nº 302, Talcahuano, VIII Región, en las líneas de elaboración de Harina y Aceite, los siguientes recursos hidrobiológicos: Bacaladillo o mote, Jurel fino, Machuelo o tritre, Anchoveta blanca, Sardina redonda, Vinciguerria.
+
+Valparaíso, 9 de mayo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
