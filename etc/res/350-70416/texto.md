@@ -1,0 +1,5 @@
+Por Resolución Nº 350, de 6 de marzo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD COMERCIAL E INDUSTRIAL AGROMAR LIMITADA, para ampliar actividades pesqueras de transformación, autorizadas por Resolución Nº 1.413, de 1995, de esta Subsecretaría, en orden a incorporar a la planta ubicada en calle Gabriela Mistral s/nº, Puerto Cisnes, XI Región, autorizada por la Resolución señalada precedentemente, en la línea de elaboración de Conserva, los siguientes recursos hidrobiológicos: Conserva: Almeja o taca, Almeja, Caracol palo palo, Caracol tegula, Caracol trumulco, Culengue, Cholga, Choro, Chorito, Lapa, Loco, Macha, Navaja de mar o Huepo y Navajuela.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 6 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
