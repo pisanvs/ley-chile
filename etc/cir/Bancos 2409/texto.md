@@ -4286,129 +4286,121 @@ De conformidad con las autorizaciones que el referido Ministerio ha puesto en co
 
 ANEXO N° 1
 
-INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES
+INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
 
-INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1998.
+INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
-- Agencia de Cooperación Internacional.
+- Agencia de Cooperación Internacional (AGCI).
 
-- Astilleros y Maestranzas de la Armada.
-
-- Carabineros de Chile, Imprenta.
-
-- Carbonífera Victoria-Lebu.
+- Astilleros y Maestranzas de la Armada (ASMAR). Carbonífera Victoria-Lebu S.A.(CARVILE).
 
 - Casa de Moneda de Chile.
 
-- Centrales odontológicas de Valparaíso, Viña del Mar y Talcahuano.
+- Centrales odontológicas de la Armada de Chile de Valparaíso, Viña del Mar y Talcahuano.
 
-- Centro de Información de Recursos Naturales.
+- Centro de Información de Recursos Naturales (CIREN).
 
-- Comando Apoyo Administrativo del Ejército.
+- Comando de Apoyo Administrativo del Ejército.
 
 - Comando de Industria Militar e Ingeniería.
 
-- Comercializadora de Trigo S.A. "COTRISA".
+- Comercializadora de Trigo S.A.(COTRISA S.A.)
 
-- Comisión Nacional Investigaciones Científicas y Tecnológicas.
+- Comisión Nacional Investigaciones Científicas y Tecnológicas (CONICYT).
 
-- Corporación de Fomento de la Producción.
+- Corporación de Fomento de la Producción (CORFO).
 
-- Corporación de Investigación Tecnológica.
+- Corporación de Investigación Tecnológica (INTEC-CHILE).
 
 - Cuerpo Militar del Trabajo.
 
 - Departamento Bienestar Dirección General de Aeronáutica Civil.
 
-- Dirección de Aprovisionamiento del Estado.
+- Dirección de Aprovisionamiento del Estado (DAE).
 
 - Dirección de Bienestar de Carabineros de Chile.
-
-- Dirección de Previsión de Carabineros de Chile.
 
 - Dirección de Sanidad de la Armada.
 
 - Dirección General de Crédito Prendario.
 
-- Dirección General de Deportes y Recreación.
+- Dirección General de Deportes y Recreación (DIGEDER).
+
+- Dirección General de Movilización Nacional
+
+- Dirección General de Territorio Marítimo.
 
 - Empresa de Correos de Chile.
 
-- Empresa Abastecimiento de Zonas Aisladas Empresa de Ferrocarriles del Estado.
+- Empresa Abastecimiento de Zonas Aisladas (EMAZA).
 
-- Empresa de Obras Sanitarias y Región S.A.
+- Empresa de Ferrocarriles del Estado.
 
-- Empresa de Servicios Sanitarios de Antofagasta S.A.
+- Empresa de Obras Sanitarias de Valparaíso S.A. (ESVAL S.A.)
 
-- Empresa de Servicios Sanitarios de Atacama S.A.
+- Empresa de Servicios Sanitarios de Antofagasta S A. (ESSAN S.A.)
 
-- Empresa de Servicios Sanitarios de Aysén S.A.
+- Empresa de Servicios Sanitarios de Atacama S.A. (EMSSAT S.A. )
 
-- Empresa de Servicios Sanitarios de Coquimbo S.A.
+- Empresa de Servicios Sanitarios de Aysén S.A. (EMSSA S.A.)
 
-- Empresa de Servicios Sanitarios de La Araucanía S.A.
+- Empresa de Servicios Sanitarios de Coquimbo S.A. (ESSCO S.A.)
 
-- Empresa de Servicios Sanitarios de Los Lagos S.A.
+- Empresa de Servicios Sanitarios de La Araucanía S.A.(ESSAR S.A.)
 
-- Empresa de Servicios Sanitarios de Magallanes S.A.
+- Empresa de Servicios Sanitarios de Los Lagos S.A. (ESSAL S.A.)
 
-- Empresa de Servicios Sanitarios de Tarapacá S.A.
+- Empresa de Servicios Sanitarios de Magallanes S.A. (ESMAG S.A.)
 
-- Empresa de Servicios Sanitarios del Bio-Bio S.A.
+- Empresa de Servicios Sanitarios de Tarapacá S.A. (ESSAT S.A.)
 
-- Empresa de Servicios Sanitarios del Libertador S.A.
+- Empresa de Servicios Sanitarios del Bio-Bio S.A. (ESSBIO S. A.)
 
-- Empresa de Servicios Sanitarios del Maulé S.A.
+- Empresa de Servicios Sanitarios del Libertador S.A. (ESSEL S.A.)
 
-- Empresa de Transporte Ferroviario S.A.
+- Empresa de Servicios Sanitarios del Maulé S.A. (ESSAM S.A.)
 
-- Empresa de Transporte de Pasajeros Metro S.A.
+- Empresa de Transporte de Pasajeros Metro S.A. (METRO S.A.)
 
-- Empresa Eléctrica Colbún-Machicura S.A.
+- Empresa Eléctrica de Aysén S.A. (EDELAYSEN S.A.)
 
-- Empresa Eléctrica de Aysén S.A.
+- Empresa Metropolitana de Obras Sanitarias S.A. (EMOS S.A.)
 
-- Empresa Metropolitana de Obras Sanitarias S.A.
+- Empresa Nacional de Aeronáutica. (ENAER)
 
-## Capítulo 2-11
+- Empresa Nacional de Minería. (ENAMI)
 
-ANEXO N° 1
+- Empresa Nacional del Carbón S.A. (ENACAR)
 
-Pág. 2
-
-- Empresa Nacional de Aeronáutica.
-
-- Empresa Nacional de Minería.
-
-- Empresa Nacional del Carbón S.A.
-
-- Empresa Nacional del Petróleo.
+- Empresa Nacional del Petróleo. (ENAP)
 
 - Empresa Periodística La Nación S.A.
 
-- Empresa Portuaria de Chile.
+- Empresa Portuaria de Chile. (EMPORCHI)
 
 - Estado Mayor Fuerza Aérea de Chile.
 
-- Fábrica y Maestranza del Ejército.
+- Fábrica y Maestranza del Ejército.(FAMAE)
 
-- Fondo Nacional de Desarrollo Tecnológico y Productivo.
+- Fondo Nacional de Desarrollo Tecnológico y Productivo. (FONTEC)
 
-- Instituto de Fomento Pesquero.
+- Imprenta de Carabineros de Chile.
 
-- Instituto Forestal.
+- Instituto de Fomento Pesquero. (IFOP)
 
-- Instituto Nacional de Normalización.
+- Instituto Forestal. (INFOR)
 
-- Ministerio de Vivienda y Urbanismo.
+- Instituto Nacional de Normalización. (I.N.N.)
 
-- Polla Chilena de Beneficencia.
+- Parque Metropolitano de Santiago. Ministerio de Vivienda y Urbanismo.
 
-- Servicio Aerofotogramétrico de la Fuerza Aérea.
+- Polla Chilena de Beneficencia S.A.
 
-- Servicio de Bienestar de Emporchi.
+- Servicio Aerofotogramétrico de la Fuerza Aérea de Chile.
 
-- Servicio de Bienestar de la Fuerza Aérea de Chile.
+- Servicio de Bienestar Fuerza Aérea de Chile.
+
+- Servicio de Bienestar Subsecretaría de Hacienda.
 
 - Servicio de Bienestar de la Superintendencia de Bancos e Instituciones Financieras.
 
@@ -4418,17 +4410,21 @@ Pág. 2
 
 - Servicio de Bienestar Social de la Armada.
 
-- Servicio de Cooperación Técnica.
+- Servicio de Cooperación Técnica. (SERCOTEC)
 
-- Sociedad Agrícola SACOR Ltda.
+- Sociedad Agrícola SACOR Ltda. (SACOR LTDA.)
 
-- Sociedad Agrícola y Servicios Isla de Pascua Ltda.
+- Sociedad Agrícola y Servicios Isla de Pascua Ltda. (SASIPA)
 
-- Sociedad Transporte Marítimo Chiloé - Aysén Ltda.
+- Subsecretaría de Telecomunicaciones.
+
+- Subsecretaría de Vivienda. Ministerio de Vivienda y Urbanismo.
 
 - Superintendencia de Bancos e Instituciones Financieras.
 
-- Zona Franca Iquique S.A.
+- Transporte Marítimo Chiloé - Aysén S.A. (TRANSMARCHILAY S.A. )
+
+- Zona Franca Iquique S.A. (ZOFRI S.A.)
 
 - MUNICIPALIDADES (todas las Municipalidades del país).
 
