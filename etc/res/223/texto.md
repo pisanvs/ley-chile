@@ -50,7 +50,9 @@ Los antecedentes requeridos para la obtención de una resolución que autorice e
 
 a) Nombre del profesional o profesionales encargados del control y ejecución de las labores, indicando: dirección, RUT y número de registro anual vigente como empresa controladora de lagomorfos y roedores.
 
-b) Nombre, Rol de Avalúo, plano de ubicación, superficie del o los predios y superficie a controlar, y vías de acceso principales y secundarias del predio en que se controlarán los lagomorfos y roedores dañinos. Además, se debe adjuntar un plano del o los predios a una escala apropiada no inferior a 1:20.000, conteniendo la ubicación de los letreros de advertencia, e información relativa a la ubicación del sector donde se llevará a efecto el Plan de Control para facilitar las labores de fiscalización del personal del Servicio.
+b) Nombre, Rol de Avalúo, plano de ubicación, superficie del o los predios y superficie a controlar, y vías de acceso principales y secundarias del predio en que se controlarán los lagomorfos y roedores dañinos.
+
+Además debe adjuntar un plano del o los predios a una escala apropiada no inferior a 1:20.000 conteniendo la posible ubicación de los letreros de advertencia, e información relativa a la ubicación del sector donde se llevará a efecto el Plan de Control para facilitar las labores de fiscalización del personal del Servicio
 
 c) Indicación de la forma de control, especie a controlar, ingrediente activo, formulación comercial a utilizar y su concentración (previamente dicha formulación debe estar inscrita en los registros del Servicio).
 
@@ -58,17 +60,17 @@ d) La solicitud que acompañe al Plan de Control debe estar firmada por el propi
 
 e) Nombre de las personas que participarán en las faenas de aplicación en terreno, con el título o especialidad de cada uno si lo tuvieran. Dichas personas estarán bajo la supervisión y responsabilidad del (os) profesional (es) que elabora (ron) el Plan de Control.
 
-La solicitud de aprobación del Plan de Control podrá ser acogida o rechazada, total o parcialmente. No obstante, antes de emitirse un pronunciamiento sobre ésta, podrá exigírsele al interesado que proporcione los antecedentes que falten para su total tramitación. El personal del Servicio Regional tendrá un plazo máximo de 20 días hábiles para la dictación de la resolución contado desde la fecha de recepción, a satisfacción, de todos los antecedentes que se requieren de acuerdo a lo establecido en esta resolución.
+La solicitud de aprobación del Plan de Control podrá ser acogida o rechazada, total o parcialmente. No obstante, antes de emitirse un pronunciamiento sobre ésta, podrá exigírsele al interesado que proporcione los antecedentes que falten para su total tramitación. El personal del Servicio Regional tendrá un plazo máximo de 10 días hábiles para la dictación de la resolución contado desde la fecha de recepción, a satisfacción, de todos los antecedentes que se requieren de acuerdo a lo establecido en esta resolución.
 
 #### Artículo 7
 
 Previo a dar inicio al Plan de Control, las personas o empresas aplicadoras, deberán dar cumplimiento a las siguientes exigencias:
 
-a) Dar aviso con cuatro (4) días hábiles de anticipación a la Jefatura de Oficina correspondiente del Servicio, indicando la fecha programada de inicio de la aplicación y su duración.
+a) Dar aviso con tres (3) días hábiles de anticipación a la Jefatura de Oficina correspondiente del Servicio, indicando la fecha programada de inicio de la aplicación y su duración.
 
-b) Informar por escrito con un (1) día hábil de anticipación a cada uno de los Jefes de los grupos familiares que habiten a menos de 1.000 metros del sector a controlar de las características del tratamiento, de los cuidados, así como de las precauciones que deben tomarse, durante y después, de la aplicación del producto, tanto para las personas, como para el ganado y animales domésticos siendo responsabilidad de la empresa registrar y acreditar dicha notificación.
+b) Informar por escrito con 1 día hábil de anticipación a cada uno de los Jefes de los grupos familiares que habiten a menos de 500 metros del sector a controlar de las características del tratamiento, de los cuidados, así como de las precauciones que deben tomarse, durante y después, de la aplicación del producto, tanto para las personas, como para el ganado y animales domésticos siendo responsabilidad de la empresa registrar y acreditar dicha notificación.
 
-c) Asimismo, se deberá informar por escrito con dos (2) días hábiles de anticipación al director de la escuela, al encargado de la posta de salud y a la Unidad de Carabineros de Chile que correspondan a la ubicación del predio, sobre el día de inicio de la aplicación, su duración y las precauciones que deben tener en caso de producirse casos de intoxicación a personas o animales domésticos o silvestres y los medios de tratamiento.
+c) Asimismo, deberá informarse por escrito con a lo menos 24 horas de anticipación al director de la escuela, al encargado de la posta de salud y a la Unidad de Carabineros de Chile que corresponda a la ubicación del predio, el inicio de la aplicación, su duración y las medidas que deben adoptarse en caso de producirse intoxicaciones a personas o animales sean éstos domésticos o silvestres y los medios de tratamiento
 
 d) Se deberá delimitar exactamente el lugar del tratamiento, colocando letreros de advertencia en los caminos interiores y puntos estratégicos del predio, que deberán permanecer durante todo el período de tratamiento.
 
@@ -86,7 +88,7 @@ Será de responsabilidad exclusiva de la empresa aplicadora cualquier consecuenc
 
 #### Artículo 10
 
-Personal del Servicio correspondiente a la ubicación del predio deberá efectuar una visita de inspección al inicio de la aplicación para constatar que se cumplan todas las medidas de resguardo (colocación de carteles, avisos a vecinos, escuelas, Carabineros y postas), identificar el tamaño del área a ser tratada, y que el compuesto utilizado se encuentre inscrito en el Registro de Plaguicidas de Uso Agrícola del Servicio Agrícola y Ganadero.
+Personal del Servicio correspondiente a la ubicación del predio podrá efectuar una visita de inspección al inicio, durante o después de la aplicación para constatar que se cumplan todas las medidas de resguardo (colocación de carteles, avisos a vecinos, escuelas, Carabineros y postas); identificar el tamaño del área a tratar y, que el compuesto utilizado se encuentre inscrito en el Registro de Plaguicidas de Uso Agrícola del Servicio Agrícola y Ganadero.
 
 #### Artículo 11
 
@@ -98,7 +100,7 @@ Las labores de control que se deriven de la aplicación de dichos compuestos ser
 
 #### Artículo 13
 
-Concluida la labor de control químico de lagomorfos y roedores, el profesional responsable de la Empresa Aplicadora deberá presentar a la Dirección Regional del Servicio, con copia a la Jefatura del Sector, correspondiente, un informe de término de faena, dentro del mes siguiente a la conclusión del trabajo. Dicho informe debe indicar la superficie efectivamente tratada, la cantidad de producto químico utilizado, la fecha (s) de aplicación (es) y nivel de eficiencia del tratamiento.
+Concluida la temporada de control químico de lagomorfos y roedores, el profesional responsable de la Empresa Aplicadora deberá presentar a la Dirección Regional del Servicio, con copia a la Jefatura del Sector, correspondiente, un informe de término de faena, dentro del mes de octubre de cada año. Dicho informe debe indicar la superficie efectivamente tratada, la cantidad de producto químico utilizado, la(s) fecha(s) de aplicación(es) y nivel de eficiencia del tratamiento, incluyendo las fotocopias de las notificaciones establecidas en el artículo 7 del presente reglamento, debidamente firmadas y con la constancia de Carabineros de haber hecho tales notificaciones.
 
 #### Artículo 14
 
