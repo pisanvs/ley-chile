@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.104, de 30 de julio de 1998, se dejó sin efecto la expropiación de los lotes No. s 3, 3-A, 4 y 24 que figuran a nombre de Huanca Salt S.A. y Carlos Godoy Lagarrigue y otro, roles de avalúo 3129-8, 3129-9 y 3130-88, comuna de Huechuraba superficies 1.080, 680, 1.262 y 5.955, m², para la obra Agua Potable de Santiago Ampliación del Servicio de Huechuraba y Alcantarillado de Santiago, aprobada por el Decreto MOP. No. 23 de fecha 12 de enero de 1996.
+
+- Fiscal Ministerio de Obras Públicas.
