@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 26, de 29 de enero de 1988, se expropiaron los lotes Nºs. 11, 24 y 28, superficies 5.258 m2, 10.035 m2. y 15.800 m2., respectivamente, roles de avalúos 2206-75, 2207-5 y 2202-11, todos de la Comuna de Chillán, para Camino Longitudinal Sur, Ruta 5, sector By Pass Chillán y se acordó el precio de indemnización con sus propietarios Miguel Maldonado y otros, María Isabel Montecinos y otros y Jorge Keilhold Aguirre y otra, ascendente a las cantidades de $ 146.215, $ 530.920 y $ 786.425.
+
+Fiscal del Ministerio de Obras Públicas.
