@@ -1,0 +1,3 @@
+Por Resolución No. 355 de 19.04.89 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1987, parte inmueble ubicado en calle G. Cabrales No. 1477, presunto rol avalúos No. 651-25 comuna Santiago, aparentemente dominio de doña Norma Sepúlveda Flores. Comisión integrada por peritos Sres. Roberto Correa Bezanilla y Eduardo Suárez Suárez, arquitectos y Pablo Risopatrón Garmendia, ingeniero civil, según informe de 20 de octubre de 1988, fijó monto provisional indemnización en $ 631.600.- pagadera al contado.
+
+Director SERVIU Metropolitano.
