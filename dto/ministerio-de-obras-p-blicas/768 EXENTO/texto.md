@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 768 de fecha 31 de julio del 2003, se expropió el lote de terreno Nº 6, superficie 17,40 m2, rol Nº 6-14 comuna de María Pinto, Región Metropolitana para la obra "Camino G-76, sector María Pinto-Santa Inés, Tramo de Km. 0,0000 a 12,26088", y se acordó el valor de indemnización con su propietario Gerardo Antonio Díaz Salas, ascendente a la cantidad de $362.818.
+
+- Fiscal del Ministerio de Obras Públicas.
