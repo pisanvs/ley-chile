@@ -17102,7 +17102,7 @@ El monto máximo de créditos que una institución financiera puede conceder, di
 
 Existe una diferencia sustancial en cuanto a la aplicación de los márgenes individuales de crédito, según si el crédito es otorgado a cualquiera persona natural o jurídica o si éste se concede a una persona vinculada en los términos del artículo 84 N° 2, reglamentado en el Capítulo 12-4 de esta Recopilación.
 
-En el primer caso, tratado en el presente Capitulo, el margen individual de crédito se aplica exclusivamente al deudor, sea persona natural o jurídica, y por lo tanto, en principio, la institución financiera otorgante del crédito sólo deberá velar porque el endeudamiento de su cliente se encuadre como norma general en el 5% del capital pagado y reservas del banco, sin perjuicio del mayor margen que se puede alcanzar si el crédito se encuentra caucionado por garantías reales o si se trata de créditos a los cuales la propia ley otorga un mayor límite.
+En el primer caso, tratado en el presente Capitulo, el margen individual de crédito se aplica exclusivamente al deudor, sea persona natural o jurídica, y por lo tanto, en principio, la institución financiera otorgante del crédito sólo deberá velar porque el endeudamiento de su cliente se encuadre como norma general en el 5% del patrimonio efectivo del banco, sin perjuicio del mayor margen que se puede alcanzar si el crédito se encuentra caucionado por garantías reales o si se trata de créditos a los cuales la propia ley otorga un mayor límite.
 
 Además, al otorgar el crédito, debe considerarse si el deudor se encuentra en algunas de las situaciones previstas en el artículo 85, para los efectos del cómputo indicado.
 
@@ -17118,43 +17118,17 @@ Lo anteriormente expuesto tiene por fin advertir que la labor de la Superintende
 
 ### 1. Norma general
 
-Conforme a la disposición legal citada, los créditos que una institución
+Conforme a la disposición legal citada, los créditos que una institución financiera puede conceder a una misma persona natural o jurídica, no pueden superar el equivalente a un 5% del patrimonio efectivo de la respectiva institución financiera, vigente al momento de otorgar el crédito.
 
-financiera puede conceder a una misma persona natural o jurídica, no pueden
+Sin embargo, la ley permite conceder créditos a una misma persona hasta por un 25% del patrimonio efectivo de la institución financiera, si lo que excede del 5% antes mencionado, corresponde a créditos caucionados con garantías de un valor igual o superior a dicho exceso, que cumplan las condiciones que en la misma disposición se establecen y que se indican en el título III del presente capítulo.
 
-superar el equivalente a un 5% del capital pagado y reservas de la respectiva
-
-institución financiera, vigente al momento de otorgar el crédito.
-
-Sin embargo, la ley permite conceder créditos a una misma persona hasta por un
-
-25% del capital pagado y reservas de la institución financiera, si lo que excede
-
-del 5% antes mencionado, corresponde a créditos caucionados con garantías de un
-
-valor igual o superior a dicho exceso, que cumplan las condiciones que en la
-
-misma disposición se establecen y que se indican en el título III del presente
-
-capítulo.
-
-Para los efectos de los límites individuales de crédito de que se trata, deben
-
-considerarse las obligaciones directas e indirectas de cada deudor según se
-
-instruye en el título II y computarse en la oportunidad y forma que se señalan
-
-en el título V de este capítulo Por su parte, la valorización de las
-
-correspondientes garantías, deberá sujetarse a lo dispuesto en el título IV de
-
-las presentes normas.
+Para los efectos de los límites individuales de crédito de que se trata, deben considerarse las obligaciones directas e indirectas de cada deudor según se instruye en el título II y computarse en la oportunidad y forma que se señalan en el título V de este capítulo Por su parte, la valorización de las correspondientes garantías, deberá sujetarse a lo dispuesto en el título IV de las presentes normas.
 
 ### 2. Créditos para exportación
 
-Los límites mencionados en el número anterior, del 5% para créditos no caucionados con alguna de las garantías que la ley exige, o del 25% del capital pagado y reservas cuando existen esas cauciones, podrán elevarse al 10% y al 30% respectivamente, si el exceso corresponde a créditos concedidos en moneda extranjera para exportaciones de cualquier naturaleza.
+Los límites mencionados en el número anterior, del 5% para créditos no caucionados con alguna de las garantías que la ley exige, o del 25% del patrimonio efectivo cuando existen esas cauciones, podrán elevarse al 10% y al 30% respectivamente, si el exceso corresponde a créditos concedidos en moneda extranjera para exportaciones de cualquier naturaleza.
 
-Se entenderá para estos efectos como créditos para exportaciones en moneda extranjera, los siguientes:
+Se entenderá para estos efectos como créditos para exportaciones en moneda extranjera, los siguientes créditos correspondientes a exportaciones chilenas:
 
 a) Préstamos que se otorguen en conformidad a las disposiciones del Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y a las instrucciones impartidas al respecto por esta Superintendencia;
 
@@ -17174,9 +17148,9 @@ Los créditos a que se refiere la letra d) anterior pueden acogerse al límite d
 
 3.- Créditos para financiar obras públicas ejecutadas por concesión.
 
-Los créditos que las instituciones financieras otorguen para financiar obras públicas fiscales ejecutadas por el sistema de concesión contemplado en el D.F.L. N° 164, de 1991, del Ministerio de Obras Públicas, pueden alcanzar hasta el 15% del capital pagado y reservas de la institución acreedora, con sujeción a las condiciones exigidas para tal efecto.
+Los créditos que las instituciones financieras otorguen para financiar obras públicas fiscales ejecutadas por el sistema de concesión contemplado en el D.F.L. N° 164, de 1991, del Ministerio de Obras Públicas, pueden alcanzar hasta el 15% del patrimonio efectivo de la institución acreedora, con sujeción a las condiciones exigidas para tal efecto.
 
-De acuerdo con lo establecido en el artículo 84 de la Ley General de Bancos y en el Decreto Supremo N° 917, de 1994, modificado por el Decreto Supremo N° 1.410, de 1996, ambos del Ministerio de Hacienda conjuntamente con el Ministerio de Obras Públicas, publicados en el Diario Oficial del 30 de enero de 1995 y 7 de febrero de 1997, respectivamente, estos préstamos pueden alcanzar el límite del 15% señalado, siempre que el exceso sobre el 5% del capital pagado y reservas de la institución acreedora, esté garantizado con la prenda especial de concesión de obra pública contemplada en el artículo 42 del D.F.L. N° 164, de 1991, del Ministerio de Obras Públicas, o bien, que sean otorgados conjuntamente por dos o más instituciones financieras, debiendo cumplir, en este caso, las siguientes condiciones:
+De acuerdo con lo establecido en el artículo 84 de la Ley General de Bancos y en el Decreto Supremo N° 917, de 1994, modificado por el Decreto Supremo N° 1.410, de 1996, ambos del Ministerio de Hacienda conjuntamente con el Ministerio de Obras Públicas, publicados en el Diario Oficial del 30 de enero de 1995 y 7 de febrero de 1997, respectivamente, estos préstamos pueden alcanzar el límite del 15% señalado, siempre que el exceso sobre el 5% del patrimonio efectivo de la institución acreedora, esté garantizado con la prenda especial de concesión de obra pública contemplada en el artículo 42 del D.F.L. N° 164, de 1991, del Ministerio de Obras Públicas, o bien, que sean otorgados conjuntamente por dos o más instituciones financieras, debiendo cumplir, en este caso, las siguientes condiciones:
 
 a) Las empresas constructoras o concesionarias del proyecto, deberán estar clasificadas en las categorías "A" o "B" de riesgo a que se refiere el Capítulo 8-28 de esta Recopilación, por las instituciones financieras que otorguen el financiamiento, o bien, deben calificar para alguna de ellas, entendiéndose para el efecto que así ocurre cuando reúnen los requisitos exigidos para una de esas categorías de riesgo;
 
@@ -17186,21 +17160,19 @@ c) Las empresas constructoras o concesionarias del proyecto deberán comprobar m
 
 4. Créditos a otra institución financiera regida por la Ley General de Bancos.
 
-Los créditos que una institución financiera otorgue a otra entidad financiera regida por la Ley General de Bancos, pueden alcanzar hasta el 30% del capital pagado y reservas de la institución acreedora, sea que se otorguen con garantía o sin ella.
+Los créditos que una institución financiera otorgue a otra entidad financiera regida por la Ley General de Bancos, pueden alcanzar hasta el 30% del patrimonio efectivo de la institución acreedora, sea que se otorguen con garantía o sin ella.
 
-Este margen especial dispuesto por la ley es aplicable sólo en el caso de que el deudor sea un banco, una sociedad financiera o una sucursal de un banco extranjero establecido en Chile, pero no se aplica a los bancos establecidos en el exterior, aunque la entidad financiera tenga sucursales en el país o cuando se trate de una sucursal de un banco chileno en el extranjero.
+Este margen especial dispuesto por la ley es aplicable sólo en el caso de que el deudor sea un banco, una sociedad financiera o una sucursal de un banco extranjero establecido en Chile, pero no se aplica a los bancos establecidos en el exterior, aunque la entidad financiera tenga sucursales en el país o cuando se trate de una sucursal o filial de un banco chileno en el extranjero.
 
-Este límite de un 30% del capital y reservas debe entenderse referido al conjunto de todos los créditos directos o indirectos, como pueden ser, por ejemplo, préstamos otorgados, compras con pacto de retroventa de instrumentos financieros, compras con responsabilidad de valores mobiliarios o efectos de comercio, adquisición de títulos de crédito aceptados o suscritos por la
-
-institución financiera deudora, etc.
+Este límite de un 30% del patrimonio efectivo debe entenderse referido al conjunto de todos los créditos directos o indirectos, como pueden ser, por ejemplo, préstamos otorgados, compras con pacto de retroventa de instrumentos financieros, compras con responsabilidad de valores mobiliarios o efectos de comercio, adquisición de títulos de crédito aceptados o suscritos por la institución financiera deudora, etc.
 
 ### 5. Aplicación de otros márgenes de crédito
 
 Los límites señalados en los números precedentes son sin perjuicio de las mayores limitaciones que pudieren derivarse de la aplicación de los márgenes de crédito a personas relacionadas directa o indirectamente a la propiedad o gestión del banco o sociedad financiera y a trabajadores de la empresa, según se dispone en los N°s. 2 y 4 del artículo 84 de la Ley General de Bancos.
 
-### 6. Sucursales de bancos chilenos en el exterior
+6.- Sucursales y filiales bancarias en el exterior.
 
-De acuerdo con lo establecido en el artículo 31 bis de la Ley General de Bancos, los créditos que otorgue una sucursal de un banco chileno situada en el extranjero también están sujetos a los límites individuales antes mencionados en caso de que se trate de créditos concedidos a cualquier persona con domicilio o residencia en Chile, con excepción de su propia casa matriz.
+En el caso de las sucursales y filiales bancarias en el exterior, se aplicarán las reglas del artículo 84 de la Ley General de Bancos de acuerdo con lo previsto en el Capítulo 11-7 de esta Recopilación Actualizada de Normas.
 
 ### II. CREDITOS AFECTOS A LOS LIMITES DEL ARTICULO 84 N° 1 DE LA LEY GENERAL DE
 
@@ -17292,9 +17264,7 @@ Por deudas directas deben entenderse todas las obligaciones que el deudor princi
 
 Por deuda indirecta deben entenderse las obligaciones que afectan a las personas que, sin ser los beneficiarios del crédito, responden con su patrimonio del cumplimiento de la obligación, como lo son, entre otros, los fiadores, codeudores solidarios, aceptantes, giradores y avalistas de letras de cambio o suscriptores de pagarés endosados con responsabilidad.
 
-No son deudores directos ni indirectos las personas que participan en una obligación sin contraer una responsabilidad personal en ella, pero que afectan bienes de su propiedad al cumplimiento de esa obligación o bien mantienen un compromiso de pago por documentos constituidos en garantía por terceros. Así ocurre, por ejemplo, con el que constituye una hipoteca para caucionar una
-
-obligación ajena, con cláusula de garantía general o sin ella; el que da bienes en prenda para garantizar obligaciones de terceros; el aceptante o cualquiera delos obligados al pago de un documento en cobranza endosado en garantía a la institución financiera en resguardo de una obligación contraída por otra persona, etc.
+No son deudores directos ni indirectos las personas que participan en una obligación sin contraer una responsabilidad personal en ella, pero que afectan bienes de su propiedad al cumplimiento de esa obligación o bien mantienen un compromiso de pago por documentos constituidos en garantía por terceros. Así ocurre, por ejemplo, con el que constituye una hipoteca para caucionar una obligación ajena, con cláusula de garantía general o sin ella; el que da bienes en prenda para garantizar obligaciones de terceros; el aceptante o cualquiera delos obligados al pago de un documento en cobranza endosado en garantía a la institución financiera en resguardo de una obligación contraída por otra persona, etc.
 
 Tampoco se considera deudor directo o indirecto, al banco emisor de una carta de crédito de exportación por el solo hecho de que el banco situado en Chile confirme dicho documento. Tales confirmaciones, entre la fecha en que se otorguen y la fecha de negociación de las respectivas cartas de crédito, no están afectas, por lo tanto, a los límites de crédito de que trata el artículo 84 de la Ley General de Bancos.
 
@@ -17305,6 +17275,8 @@ Los emisores de valores mobiliarios de renta fija y los suscriptores o aceptante
 En el caso de documentos nominativos o a la orden que hayan sido cedidos o endosados a la institución financiera con la responsabilidad de un tercero, se considerará deudor directo al cedente o endosante, mientras que los demás obligados al pago pasarán a tener la calidad de deudores indirectos.
 
 En cualquier caso, como es natural, el propio documento adquirido o descontado por la institución financiera no sirve de garantía de los créditos directos o indirectos de los obligados a su pago.
+
+Por otra parte, al tratarse de la adquisición de documentos correspondientes a créditos caucionados con garantías reales, la obligación directa de un cedente con responsabilidad debe entenderse garantizada con esas cauciones siempre que las condiciones de la transferencia incluyan su traspaso. Por consiguiente, para efectos de lo dispuesto en el título III de este Capítulo, las garantías reales incluidas en la transferencia servirán para ampliar los márgenes de crédito de cada uno de los obligados al pago, sean éstos deudores directos o indirectos.
 
 4.3. Operaciones con pacto de retrocompra.
 
@@ -17320,135 +17292,41 @@ Cuando, en las operaciones de compra de documentos con pacto, los instrumentos t
 
 5.1. Imputación de las deudas sociales a los socios o accionistas.
 
-Conforme a lo dispuesto en las letras a) y b) del artículo 85 de la Ley General
+Conforme a lo dispuesto en las letras a) y b) del artículo 85 de la Ley General de Bancos, además de las deudas directas e indirectas que contraiga una persona,se considerarán obligaciones suyas, para los efectos de su límite individual de crédito, las contraídas por las sociedades colectivas o en comandita en que el deudor sea socio solidario, o por las sociedades de cualquier naturaleza en que tenga más del 50% del capital o de las utilidades. Son socios solidarios, los socios de una sociedad colectiva comercial y los socios gestores de una sociedad en comandita, también comercial.
 
-de Bancos, además de las deudas directas e indirectas que contraiga una
+Sí la participación en una sociedad es superior al 2% y no excede el 50% del capital o de las utilidades, las deudas de la sociedad de que se trate, se considerarán a prorrata de dicha participación.
 
-persona,se considerarán obligaciones suyas, para los efectos de su límite
-
-individual de crédito, las contraídas por las sociedades colectivas o en
-
-comandita en que el deudor sea socio solidario, o por las sociedades de
-
-cualquier naturaleza en que tenga más del 50% del capital o de las utilidades.
-
-Son socios solidarios, los socios de una sociedad colectiva comercial y los
-
-socios gestores de una sociedad en comandita, también comercial.
-
-Sí la participación en una sociedad es superior al 2% y no excede el 50% del
-
-capital o de las utilidades, las deudas de la sociedad de que se trate, se
-
-considerarán a prorrata de dicha participación.
-
-Para los efectos de lo indicado en los párrafos precedentes, el porcentaje de
-
-participación de cada uno de los socios en una sociedad colectiva o en
-
-comandita, estará dado por lo establecido en la respectiva escritura de
-
-constitución o modificación de la sociedad o por las normas legales si no hay
-
-estipulación expresa.
+Para los efectos de lo indicado en los párrafos precedentes, el porcentaje de participación de cada uno de los socios en una sociedad colectiva o en comandita, estará dado por lo establecido en la respectiva escritura de constitución o modificación de la sociedad o por las normas legales si no hay estipulación expresa.
 
 5.2. Excepciones.
 
-No obstante lo indicado en el numeral 5.1 anterior, en los siguientes casos no
+No obstante lo indicado en el numeral 5.1 anterior, en los siguientes casos no se imputarán las deudas sociales a los accionistas o socios:
 
-se imputarán las deudas sociales a los accionistas o socios:
+a) Cuando el socio o accionista, solo o en conjunto con su cónyuge y sus hijos menores bajo patria potestad, tengan una participación que no exceda a un 5% en el capital o en las utilidades, salvo que se trate de un socio solidario de una sociedad colectiva o en comandita;
 
-a) Cuando el socio o accionista, solo o en conjunto con su cónyuge y sus hijos
+b) Cuando en el crédito otorgado a la sociedad, el socio o accionista se obliga como codeudor solidario o fiador. En este caso debe considerarse sólo la obligación indirecta de este último por la responsabilidad que asume con esa calidad, en tanto ello produzca una duplicidad en el cómputo;
 
-menores bajo patria potestad, tengan una participación que no exceda a un 5% en
+c) Cuando sea la sociedad la que se obliga como codeudora solidaria o fiadora de una deuda directa del socio, caso en que debe computarse sólo la deuda directa de este último; y,
 
-el capital o en las utilidades, salvo que se trate de un socio solidario de una
+d) Cuando las obligaciones de dos o más sociedades en las cuales participa la misma persona correspondan a deudas indirectas por la misma obligación principal, caso en el cual se computará la suma de la proporción de dichas deudas sólo hasta alcanzar el monto de la deuda directa del tercero hacia el cual las sociedades son avalistas, fiadoras o codeudoras solidarias.
 
-sociedad colectiva o en comandita;
+Debe tenerse presente, además que las obligaciones imputadas por la exigencia del artículo 85 de la Ley General de Bancos, tienen el carácter de
 
-b) Cuando en el crédito otorgado a la sociedad, el socio o accionista se obliga
+deudas"complementarias" y se computarán solamente si el socio o accionista de la sociedad de que se trate, tiene deudas directas con la institución financiera.
 
-como codeudor solidario o fiador. En este caso debe considerarse sólo la
+Por otra parte, en concordancia con lo indicado en el N° 3 del título I de estas normas, debe entenderse que los créditos otorgados a otra institución financiera establecida en el país, sean ellos directos o indirectos, no se imputarán a sus accionistas ni a la casa matriz del banco extranjero, en su caso.
 
-obligación indirecta de este último por la responsabilidad que asume con esa
-
-calidad, en tanto ello produzca una duplicidad en el cómputo;
-
-c) Cuando sea la sociedad la que se obliga como codeudora solidaria o fiadora de
-
-una deuda directa del socio, caso en que debe computarse sólo la deuda directa
-
-de este último; y,
-
-d) Cuando las obligaciones de dos o más sociedades en las cuales participa la
-
-misma persona correspondan a deudas indirectas por la misma obligación
-
-principal, caso en el cual se computará la suma de la proporción de dichas
-
-deudas sólo hasta alcanzar el monto de la deuda directa del tercero hacia el
-
-cual las sociedades son avalistas, fiadoras o codeudoras solidarias.
-
-Debe tenerse presente, además que las obligaciones imputadas por la exigencia
-
-del artículo 85 de la Ley General de Bancos, tienen el carácter de
-
-deudas"complementarias" y se computarán solamente si el socio o accionista de la
-
-sociedad de que se trate, tiene deudas directas con la institución financiera.
-
-Por otra parte, en concordancia con lo indicado en el N° 3 del título I de estas
-
-normas, debe entenderse que los créditos otorgados a otra institución financiera
-
-establecida en el país, sean ellos directos o indirectos, no se imputarán a sus
-
-accionistas ni a la casa matriz del banco extranjero, en su caso.
-
-Del mismo modo, a la institución financiera deudora establecida en Chile no se
-
-le imputarán las obligaciones que tuvieren las sociedades en las cuales ella
-
-tenga participación.
+Del mismo modo, a la institución financiera deudora establecida en Chile no se le imputarán las obligaciones que tuvieren las sociedades en las cuales ella tenga participación.
 
 5.3. Forma de computar las obligaciones complementarias.
 
-Como al socio, por una ficción, se le imputan como propias las deudas de la
+Como al socio, por una ficción, se le imputan como propias las deudas de la sociedad, ya sea en el total, ya en la proporción correspondiente, tales deudas lo afectarán en la misma forma que si fueran propias. La incidencia de ese hecho se ilustra en los siguientes ejemplos:
 
-sociedad, ya sea en el total, ya en la proporción correspondiente, tales deudas
+i) Si a un socio que tiene el 51% del capital de una sociedad se le otorga un crédito por el 5% del patrimonio efectivo de la institución financiera, sin garantía, tiene copado dicho límite personal y, por lo tanto, a la sociedad no se le podrá conceder ningún crédito sin garantía, y sí dispondrá de su límite de un 20% adicional con garantía y de los márgenes adicionales en moneda extranjera para exportaciones. Cabe hacer notar que, en este caso, la improcedencia de otorgar un crédito acogido al 5% sin garantía se origina por el cómputo de las
 
-lo afectarán en la misma forma que si fueran propias. La incidencia de ese hecho
+obligaciones del socio y no de las deudas de la sociedad, ya que a ésta no se le computan las obligaciones del primero.
 
-se ilustra en los siguientes ejemplos:
-
-i) Si a un socio que tiene el 51% del capital de una sociedad se le otorga un
-
-crédito por el 5% del capital y reservas de la institución financiera, sin
-
-garantía, tiene copado dicho límite personal y, por lo tanto, a la sociedad no
-
-se le podrá conceder ningún crédito sin garantía, y sí dispondrá de su límite de
-
-un 20% adicional con garantía y de los márgenes adicionales en moneda extranjera
-
-para exportaciones. Cabe hacer notar que, en este caso, la improcedencia de
-
-otorgar un crédito acogido al 5% sin garantía se origina por el cómputo de las
-
-obligaciones del socio y no de las deudas de la sociedad, ya que a ésta no se le
-
-computan las obligaciones del primero.
-
-ii) El socio A tiene el 30% de la sociedad B y el 20% de la sociedad C. Por su
-
-parte, B tiene el 20 % de C. En primer término, a A se le suma el 30% de las
-
-obligaciones de B y el 20% de la sociedad C, esto es, lo que es propio de él. A
-
-la sociedad B se le suma el 20% de la sociedad C, pero este cómputo en la parte
-
-que B tiene en C no afecta a A.
+ii) El socio A tiene el 30% de la sociedad B y el 20% de la sociedad C. Por su parte, B tiene el 20 % de C. En primer término, a A se le suma el 30% de las obligaciones de B y el 20% de la sociedad C, esto es, lo que es propio de él. A la sociedad B se le suma el 20% de la sociedad C, pero este cómputo en la parte que B tiene en C no afecta a A.
 
 ### 6. Pluralidad de deudores
 
@@ -17467,6 +17345,14 @@ el total de la deuda para cada uno de ellos.
 ### 7. Forward de monedas extranjeras y unidades de fomento
 
 Para efectos de los límites individuales de crédito, en las operaciones forward de monedas extranjeras y de unidades de fomento tratadas en los capítulos 13-2, 13-23 y 8-36 de está Recopilación, se computará como crédito otorgado, hasta el vencimiento de cada operación, la diferencia inicial expresada en pesos entre el precio pactado a futuro y el precio al contado a la fecha de celebración del pacto, cuando esa diferencia sea de cargo del correspondiente deudor.
+
+8.- Garantía de colocación de valores mobiliarios y su adquisición.
+
+Las instituciones financieras que actúen como agentes colocadores de valores mobiliarios de renta fija o de acciones de primera emisión según lo previsto, respectivamente, en los N°s. 20 y 25 del artículo 69 de la Ley General de Bancos, deben computar dentro de los márgenes de crédito los montos que correspondan a los importes garantizados de la colocación, como asimismo los valores que adquieran en virtud de esas garantías.
+
+Para los efectos del cálculo de las garantías otorgadas, se considerará el monto de la emisión garantizada y no colocada a la fecha del cómputo.
+
+Las acciones adquiridas se sumarán según su valor pagado más corrección monetaria, en tanto que los instrumentos de renta fija que se mantengan se computarán de acuerdo con lo previsto en el numeral 3.1 del título y de este Capítulo.
 
 ### III. GARANTIAS VALIDAS PARA AMPLIAR LOS MARGENES DE CREDITO
 
@@ -17542,25 +17428,13 @@ Estado,salvo que se trate de instrumentos de oferta pública que cumplan con lo
 
 señalado en el número siguiente.
 
-### 3. Instrumentos de oferta pública
+3.- Instrumentos de oferta pública.
 
-Son garantía para los efectos de límites de crédito, los instrumentos de oferta pública que, a la fecha de otorgamiento del crédito que caucionan, se encuentren clasificados en categorías "A" o "B" por la Comisión Clasificadora de Riesgo creada por el DL. N° 3.500 de 1980 y sus modificaciones. Conforme a lo dispuesto en los artículos 45 y 104 de dicho decreto ley, los instrumentos de renta fija calificados y, por lo tanto, válidos como garantía para límites individuales de
+Son garantía para los efectos de límites de crédito, los instrumentos de oferta pública emitidos en serie que, a la fecha de otorgamiento del crédito que caucionan, se encuentren clasificados en una de las dos categorías de más bajo nesgo por dos sociedades clasificadoras de aquellas señaladas en el Título XIV de la Ley N° 18.045. Los instrumentos que deben contar con esas dos calificaciones para que sean válidos como garantía para los límites individuales de crédito, corresponden a:
 
-crédito, corresponden a:
+i)Letras de crédito y bonos inscritos en esta Superintendencia.
 
-i) depósitos a plazos y otros emitidos por las instituciones financieras con motivo de captaciones de dinero;
-
-ii) títulos garantizados por instituciones financieras;
-
-iii) letras de crédito emitidas por instituciones financieras; y
-
-iv) bonos de empresas públicas y privadas inscritos en el Registro de Valores.
-
-Al tratarse de documentos emitidos por la propia institución financiera que los recibe en garantía, sólo podrán considerarse para efectos de márgenes, si su fecha de emisión es anterior en, a lo menos, treinta días a la fecha de concesión o de renovación del crédito que garanticen. Para estos efectos se entenderá que también cumplen el requisito de plazo mencionado, los documentos emitidos con motivo de la renovación de un depósito a plazo fijo o renovable, aun cuando no hayan transcurrido 30 días desde esa fecha, siempre que el depósito original haya sido emitido a lo menos 30 días antes de la fecha de otorgamiento o renovación del crédito caucionado y que el monto que se compute como garantía no exceda del importe del depósito que se renueva, incluidos los intereses y, cuando proceda, los reajustes capitalizados.
-
-Las acciones, al no ser instrumentos de renta fija, no sirven como garantías para efectos de límite. Tampoco pueden considerarse como garantía para estos efectos, los depósitos en cuentas de ahorro, ya que la libreta en que consta su saldo no es un título de crédito.
-
-Los documentos que sirven de garantía para efectos del límite según lo referido en este número son los que, por si mismos, cumplen los requisitos señalados por la ley. En cambio, si esos documentos no están clasificados en A o B, sea porque lo están en una categoría diferente o porque no se encuentran sujetos a clasificación según lo señalado anteriormente, no sirven como caución para efectos de límite, aun cuando el crédito que representen esté caucionado por garantías reales (ejemplo: mutuos hipotecarios endosables, bonos caucionados con hipoteca o prenda).
+ii) Valores mobiliarios de renta fija emitidos en serie, inscritos en el Registro de Valores de la Superintendencia de Valores y Seguros.
 
 ### 4. Documentos de embarque
 
@@ -17571,6 +17445,30 @@ Por lo tanto, se pueden considerar como garantía los documentos de embarque mie
 En el lapso que medie entre la fecha de emisión de una carta de crédito financiada por el banco y la recepción de los documentos de embarque, el crédito contingente que se origina puede considerarse caucionado con garantía para los efectos de lo dispuesto en el citado artículo 84 N° 1, siempre que en la correspondiente carta de crédito se estipule que el Conocimiento de Embarque o el documento que haga sus veces y la respectiva Póliza o Certificado de Seguro, cuando corresponda,deben ser extendidos a la orden del banco emisor o endosados a él sin restricción alguna.
 
 Mientras el crédito no se pague y la garantía sea imprescindible para encuadrarse dentro del límite individual de crédito, el banco no podrá entregar o endosar los documentos antes mencionados, o copias negociables de los mismos ni ceder o restringir de cualquier forma sus derechos, salvo que se constituya una prenda sobre los bienes, tal como lo permite el artículo 29 de la Ley N° 18.112, o se obtenga otra garantía válida para los efectos de la Ley General de Bancos por un valor igual o superior.
+
+5.- Cartas de crédito emitidas por bancos del exterior.
+
+Las cartas de crédito irrevocables y pagaderas a su sola presentación, emitidas por bancos del exterior que se encuentren calificados en la más alta categoría por una empresa calificadora internacional que figure en la nómina incluida en el Capítulo 1-12 de esta Recopilación, son garantías válidas para efectos de márgenes.
+
+Sin embargo, las sucursales de bancos extranjeros en Chile no podrán considerar para estos efectos, las cartas de crédito de tales características, emitidas por su casa matriz o sus sucursales en el exterior.
+
+6.- Precisiones acerca de cauciones constituidas sobre bienes corporales.
+
+a) Prendas sobre cosechas futuras
+
+De acuerdo con nuestra legislación, los bienes corporales son aquellos que pueden percibirse por los sentidos, que tienen una existencia material, visible, palpable.
+
+Indudablemente, los productos que aún no han sido sembrados no son bienes corporales. Ellos, específicamente, pueden ser bienes futuros, que no tienen una existencia real en el momento de constituirse la relación jurídica, pero que se espera racionalmente que la tengan en un tiempo ulterior, pudiendo constituirse sobre ellos Prenda Agraria (Ley N° 4.097) o Prenda sin desplazamiento (Ley N° 18.112).
+
+Según lo dispuesto en el artículo 2° de la Ley N° 4.097, tratándose de semillas o frutos de cualquier naturaleza, la prenda agraria debe recaer sobre aquellos que se encuentren cosechados o pendientes. Asimismo, según se infiere de los artículos 3° y 4° de la Ley N° 18.112, en igual estado deben encontrarse los frutos o productos sobre los cuales debe recaer la prenda sin desplazamiento.
+
+Teniendo en cuenta lo anterior, las cosechas futuras podrán utilizarse para efectos de aumentar el margen de crédito en conformidad al artículo 84 N° 1 de la Ley General de Bancos, siempre que ellas se encuentren en gestación o pendientes, o dicho de otra forma, que la prenda se constituya dentro del año agrícola en que se va a cosechar el fruto o producto de que se trate.
+
+b) Bienes que garantizan el pago de títulos de crédito constituidos en prenda.
+
+Las cauciones sobre bienes corporales deben permitir a la institución financiera acreedora ejercer directamente las acciones para pagarse de todo o parte de su crédito con cargo a ellas en caso de incumplimiento, debiendo estar, en consecuencia, legalmente constituida, sea como garantía específica para determinados créditos o general para las obligaciones asumidas con la institución financiera.
+
+Cuando el bien entregado en garantía sea un título de crédito cuyo pago se encuentre amparado por bienes corporales, no corresponde considerar estos últimos como garantía indirecta para los efectos de ampliar los márgenes de crédito, puesto que en este caso el objeto prendado es el título en que consta la obligación de un tercero con respecto al titular y los bienes corporales garantizan esa obligación, pero no el crédito que la institución financiera otorga al titular.
 
 ### IV. VALOR DE LAS GARANTIAS
 
@@ -17598,57 +17496,21 @@ instrucciones:
 
 ### 1. Requisitos que deben cumplirse para asignar un valor a una garantía
 
-Sólo podrá considerarse un valor para las garantías que cumplan con los
+Sólo podrá considerarse un valor para las garantías que cumplan con los requisitos que, en general o en su caso, se indican a continuación:
 
-requisitos que, en general o en su caso, se indican a continuación:
+a) Las hipotecas y las prendas sujetas a trámite de inscripción, registro o publicidad determinada, deben estar respaldadas por un certificado de la fiscalía de la institución financiera, que se agregará a la carpeta del deudor, en que conste que la garantía ha sido legalmente constituida.
 
-a) Las hipotecas y las prendas sujetas a trámite de inscripción, registro o
+b) Los bienes entregados en garantía deben estar situados en Chile y ser ejecutables de acuerdo a la ley chilena, excepto los documentos originados por operaciones de comercio exterior y las cartas de crédito emitidas con el objeto de servir de garantía, a que se refiere el numeral 3.2 de este título.
 
-publicidad determinada, deben estar respaldadas por un certificado de la
+c) En el caso de bienes corporales, muebles o inmuebles, las valorizaciones deben estar amparadas por tasaciones o certificaciones que cumplan los requisitos mencionados en los numerales 3.3.2 y 3.3.3 de este título.
 
-fiscalía de la institución financiera, que se agregará a la carpeta del deudor,
+d) Los instrumentos financieros recibidos en garantía deben ser suscritos o aceptados por personas diferentes al propio deudor directo de la obligación garantizada.
 
-en que conste que la garantía ha sido legalmente constituida.
+e) Las prendas comerciales y las prendas sin desplazamiento, agrarias, industriales y aquéllas regidas por la Ley N° 18.112, deben estar amparadas por una constancia en la que se certifique que el bien empeñado permanece en poder del deudor o se encuentra en poder de un tercero que otorga suficiente garantía de que responderá del deterioro o disminución que pudiera afectarlo. Esas constancias no podrán tener una antigüedad superior a dos años.
 
-b) Los bienes entregados en garantía deben estar situados en Chile y ser
+f) En los warrants, la mercadería debe contar con los seguros correspondientes a los riesgos que la afectan y sólo se considerarán los vales de prenda emitidos por almacenistas incluidos en la categoría "A" del registro a que se refiere el artículo 31 de la Ley N° 18.690.
 
-ejecutables de acuerdo a la ley chilena, excepto los documentos originados por
-
-operaciones de comercio exterior a que se refiere el numeral 3.2 de este título.
-
-c) En el caso de bienes corporales, muebles o inmuebles, las valorizaciones
-
-deben estar amparadas por tasaciones o certificaciones que cumplan los
-
-requisitos mencionados en los numerales 3.3.2 y 3.3.3 de este título.
-
-d) Los instrumentos financieros recibidos en garantía deben ser suscritos o
-
-aceptados por personas diferentes al propio deudor directo de la obligación
-
-garantizada.
-
-e) Las prendas comerciales y las prendas sin desplazamiento, agrarias,
-
-industriales y aquéllas regidas por la Ley N° 18.112, deben estar amparadas por
-
-una constancia en la que se certifique que el bien empeñado permanece en poder
-
-del deudor o se encuentra en poder de un tercero que otorga suficiente garantía
-
-de que responderá del deterioro o disminución que pudiera afectarlo. Esas
-
-constancias no podrán tener una antigüedad superior a dos años.
-
-f) En los warrants, la mercadería debe contar con los seguros correspondientes a
-
-los riesgos que la afectan y sólo se considerarán los vales de prenda emitidos
-
-por almacenistas incluidos en la categoría "A" del registro a que se refiere el
-
-#### Artículo 31
-
-de la Ley N° 18.690.
+Además de las garantías que no cumplan las condiciones señaladas en los literales precedentes, no se considerará valor alguno para los efectos de los márgenes de crédito de que trata este Capítulo, cuando se trate de una garantía constituida con bienes que sean de propiedad de una sociedad en la cual la institución financiera tenga participación como socio o accionista y que deba incluirse dentro de un grupo de entidades relacionadas, para la aplicación del artículo 84 N° 2, según lo previsto en el Capítulo 12-4 de esta Recopilación.
 
 2. Prelaciones en la asignación del valor de los bienes en hipotecas, prendas
 
@@ -17700,173 +17562,61 @@ existir, sin valor residual.
 
 ### 3. Valoración de los bienes recibidos en garantía
 
-Al valorar los bienes recibidos en garantía deberá tenerse especial cuidado de
+Al valorar los bienes recibidos en garantía deberá tenerse especial cuidado de tomar en cuenta los precios en que efectivamente se realizan las transacciones de bienes de similares características y condiciones, en los mercados donde puedan ser enajenados, existentes en el momento de la concesión del crédito o dela liberación de garantías, según corresponda.
 
-tomar en cuenta los precios en que efectivamente se realizan las transacciones
-
-de bienes de similares características y condiciones, en los mercados donde
-
-puedan ser enajenados, existentes en el momento de la concesión del crédito o
-
-dela liberación de garantías, según corresponda.
-
-Dicha valoración debe efectuarse de acuerdo con las siguientes disposiciones,
-
-según el tipo de bienes de que se trate:
+Dicha valoración debe efectuarse de acuerdo con las siguientes disposiciones, según el tipo de bienes de que se trate:
 
 3.1. Valorización de instrumentos financieros.
 
-Para valorar los instrumentos financieros a que se refieren los N°s. 2 y 3 del
+Para valorar los instrumentos financieros a que se refieren los N°s. 2 y 3 del título III de este capítulo, deberá considerarse el precio promedio de las transacciones de dichos instrumentos, efectuadas durante el mes inmediatamente anterior al momento de la valoración, en el mercado en que normalmente se opera,en el caso que éstos efectivamente se hayan transado. Si no hubiera transacción, deberá tomarse un valor estimativo de liquidación, de acuerdo con sus condiciones de plazo, calendario de amortizaciones y tasa de interés.
 
-## Título III — de este capítulo, deberá considerarse el precio promedio de las
-
-transacciones de dichos instrumentos, efectuadas durante el mes inmediatamente
-
-anterior al momento de la valoración, en el mercado en que normalmente se
-
-opera,en el caso que éstos efectivamente se hayan transado. Si no hubiera
-
-transacción, deberá tomarse un valor estimativo de liquidación, de acuerdo con
-
-sus condiciones de plazo, calendario de amortizaciones y tasa de interés.
-
-3.2. Documentos provenientes de operaciones de comercio exterior.
+3.2.- Otros documentos.
 
 3.2.1. Documentos de exportaciones.
 
-Las garantías constituidas por letras de cambio, pagarés u otros documentos, a
-
-que se refiere el N° 1 del título III del presente capítulo, serán valorizadas
-
-de acuerdo con los importes por los que se encuentren extendidos dichos
-
-documentos.
+Las garantías constituidas por letras de cambio, pagarés u otros documentos, a que se refiere el N° 1 del título III del presente capítulo, serán valorizadas de acuerdo con los importes por los que se encuentren extendidos dichos documentos.
 
 3.2.2. Documentos de importaciones.
 
-Las garantías representadas por documento de importación, indicadas en el N° 4
+Las garantías representadas por documento de importación, indicadas en el N° 4 del título III de este capítulo, se considerarán por el valor de la mercadería que se consigne en ellos, el que se determinará sobre la base del valor CIF o,en su defecto, del inferior a éste que se hubiera declarado en la respectiva factura.
 
-del título III de este capítulo, se considerarán por el valor de la mercadería
+3.2.3.- Cartas de crédito para garantía.
 
-que se consigne en ellos, el que se determinará sobre la base del valor CIF o,en
-
-su defecto, del inferior a éste que se hubiera declarado en la respectiva
-
-factura.
+Las garantías constituidas por las cartas de crédito a que se refiere el N° 5 del título III de este Capítulo, cubrirán los créditos u operaciones que se expresen en el respectivo documento.
 
 3.3. Valorización de bienes corporales.
 
 3.3.1. Criterio general.
 
-La valoración de los bienes corporales constituidos en hipoteca o prenda deberá
+La valoración de los bienes corporales constituidos en hipoteca o prenda deberá efectuarse tomando como base los valores predominantes en el mercado.
 
-efectuarse tomando como base los valores predominantes en el mercado.
-
-En la valoración de los bienes pertenecientes a alguna empresa, se deberán
-
-considerar especialmente las dificultades que presentaría su liquidación por
-
-parte de las entidades financieras. En estos casos, deberá utilizarse un
-
-criterio estrictamente conservador, en el sentido de calcular el valor de
-
-liquidación que se obtendría al enajenar los referidos bienes,
-
-independientemente de la empresa de la cual forman parte.
+En la valoración de los bienes pertenecientes a alguna empresa, se deberán considerar especialmente las dificultades que presentaría su liquidación por parte de las entidades financieras. En estos casos, deberá utilizarse un criterio estrictamente conservador, en el sentido de calcular el valor de liquidación que se obtendría al enajenar los referidos bienes, independientemente de la empresa de la cual forman parte.
 
 3.3.2. Obras en construcción.
 
-Cuando se trate de préstamos otorgados para la construcción garantizados con el
-
-mismo bien que se está construyendo, se considerará primeramente el valor del
-
-terreno y sólo se aumentará el valor de la garantía mediante los estados de pago
-
-de la obra en cuestión, debidamente refrendado por personas técnicas en materia
-
-de construcciones e independientes del deudor.
+Cuando se trate de préstamos otorgados para la construcción garantizados con el mismo bien que se está construyendo, se considerará primeramente el valor del terreno y sólo se aumentará el valor de la garantía mediante los estados de pago de la obra en cuestión, debidamente refrendado por personas técnicas en materia de construcciones e independientes del deudor.
 
 3.3.3. Tasaciones y certificaciones del valor de los bienes.
 
-Todos los bienes corporales que se constituyan en hipoteca o prenda deben estar
+Todos los bienes corporales que se constituyan en hipoteca o prenda deben estar respaldados por una tasación o certificación de su valor, realizada y suscrita por personas que sean idóneas en la materia, de preferencia ajenas a la institución financiera y, en todo caso, independientes del deudor.
 
-respaldados por una tasación o certificación de su valor, realizada y suscrita
+3.3.4. Ajustes que deben efectuarse al valor de las tasaciones o certificaciones.
 
-por personas que sean idóneas en la materia, de preferencia ajenas a la
+Debido a que resulta necesario cuidar que el producto de la liquidación o realización de los bienes recibidos en garantía cubra lo adeudado en caso detener que recurrir a ellos como fuente de repago, es indispensable que a los valores de mercado que se determinen en la tasación o certificación, se les aplique un descuento como protección por los conceptos que se indican a continuación:
 
-institución financiera y, en todo caso, independientes del deudor.
+a) Depreciación esperada u obsolescencia. Para considerar el menor valor que podría tener el bien como producto de su deterioro a través del tiempo o por tornarse obsoleto, ya sea por avances tecnológicos, cambios en las preferencias u otros motivos;
 
-3.3.4. Ajustes que deben efectuarse al valor de las tasaciones o
+b) Riesgo por fluctuación en los precios. Para cubrir la exposición que tiene el bien en su precio, por razones distintas de las señaladas en el numeral a) anterior;
 
-certificaciones.
-
-Debido a que resulta necesario cuidar que el producto de la liquidación o
-
-realización de los bienes recibidos en garantía cubra lo adeudado en caso
-
-detener que recurrir a ellos como fuente de repago, es indispensable que a los
-
-valores de mercado que se determinen en la tasación o certificación, se les
-
-aplique un descuento como protección por los conceptos que se indican a
-
-continuación:
-
-a) Depreciación esperada u obsolescencia. Para considerar el menor valor que
-
-podría tener el bien como producto de su deterioro a través del tiempo o por
-
-tornarse obsoleto, ya sea por avances tecnológicos, cambios en las preferencias
-
-u otros motivos;
-
-b) Riesgo por fluctuación en los precios. Para cubrir la exposición que tiene el
-
-bien en su precio, por razones distintas de las señaladas en el numeral a)
-
-anterior;
-
-c) Gastos de ejecución y costos de comercialización. Para considerar los gastos
-
-por conceptos de notaría, honorarios profesionales y otros que puedan derivarse
-
-de la eventual ejecución de la garantía. Asimismo, este descuento contemplará
-
-la eventual disminución en el precio de venta y los gastos en que sería
-
-necesario incurrir por el hecho de que sea la institución financiera y no el
-
-deudor, quien tenga que enajenar las garantías. Dicho menor valor o mayor gasto
-
-se produce,muchas veces y dependiendo de los bienes de que se trate, porque las
-
-entidades financieras no cuentan con la infraestructura física, equipos de
-
-venta,expertos en comercialización, ni con los canales de distribución adecuados
+c) Gastos de ejecución y costos de comercialización. Para considerar los gastos por conceptos de notaría, honorarios profesionales y otros que puedan derivarse de la eventual ejecución de la garantía. Asimismo, este descuento contemplará la eventual disminución en el precio de venta y los gastos en que sería necesario incurrir por el hecho de que sea la institución financiera y no el deudor, quien tenga que enajenar las garantías. Dicho menor valor o mayor gasto se produce,muchas veces y dependiendo de los bienes de que se trate, porque las entidades financieras no cuentan con la infraestructura física, equipos de venta,expertos en comercialización, ni con los canales de distribución adecuados
 
 para la venta de los bienes.
 
-Estos ajustes deberán ser efectuados por la propia institución financiera y
+Estos ajustes deberán ser efectuados por la propia institución financiera y quedar claramente explícitos en una hoja o formulario adjunto al correspondiente informe de tasación o certificación.
 
-quedar claramente explícitos en una hoja o formulario adjunto al correspondiente
+Los ajustes que deben aplicarse por cada uno de los conceptos indicados precedentemente, no podrán representar porcentajes inferiores a los que se señalan en el Anexo N° 3.1 de este capítulo, en relación con el valor de mercado a la fecha de la respectiva tasación o certificación.
 
-informe de tasación o certificación.
-
-Los ajustes que deben aplicarse por cada uno de los conceptos indicados
-
-precedentemente, no podrán representar porcentajes inferiores a los que se
-
-señalan en el Anexo N° 3.1 de este capítulo, en relación con el valor de mercado
-
-a la fecha de la respectiva tasación o certificación.
-
-Con todo, se exceptúan de la exigencia de efectuar los ajustes de que trata este
-
-numeral, las valorizaciones de obras en construcción que estén resguardando
-
-créditos otorgados para ese mismo objeto, caso en el cual debe procederse de la
-
-forma indicada en el numeral 3.3.2 de este título.
+Con todo, se exceptúan de la exigencia de efectuar los ajustes de que trata este numeral, las valorizaciones de obras en construcción que estén resguardando créditos otorgados para ese mismo objeto, caso en el cual debe procederse de la forma indicada en el numeral 3.3.2 de este título.
 
 4. Cómputo del valor de las garantías en relación con los créditos garantizados.
 
@@ -17930,75 +17680,25 @@ correspondiente garantía se asignará en la misma proporción.
 
 ### 1. Control de los márgenes disponibles para operar dentro de los límites
 
-Las disposiciones del artículo 84 N° 1 de la Ley General de Bancos establecen
+Las disposiciones del artículo 84 N° 1 de la Ley General de Bancos establecen una relación porcentual entre los créditos otorgados y el patrimonio efectivo dela institución financiera que los concede. En el caso del límite con garantía,la ley también exige un valor mínimo para las garantías, equivalente al de los créditos acogidos a ese mayor margen. Por lo tanto, cualquier aumento de los créditos o disminuciones de las garantías o del patrimonio efectivo,inciden en dichas relaciones y requieren de un control permanente por parte dela institución financiera, no sólo para establecer si dispone de márgenes para otorgar nuevos créditos, sino también para verificar si procede
 
-una relación porcentual entre los créditos otorgados y el capital y reservas
+disminuir voluntariamente el patrimonio efectivo o si es posible liberar alguna garantía sin infringir los límites permitidos por la ley.
 
-dela institución financiera que los concede. En el caso del límite con
+2. Oportunidades en que corresponde computar el monto de los créditos, de las garantías y del patrimonio efectivo.
 
-garantía,la ley también exige un valor mínimo para las garantías, equivalente al
+Para verificar el cumplimiento de las disposiciones del artículo 84 N° 1 de la Ley General de Bancos, las instituciones financieras deben considerar el valor actualizado, tanto de los créditos de un mismo deudor, como de las garantías que los amparan y del patrimonio efectivo, en las siguientes oportunidades:
 
-de los créditos acogidos a ese mayor margen. Por lo tanto, cualquier aumento de
+a) Cuando se desee otorgar un nuevo crédito, directo o indirecto, al mismo deudor, o novar uno existente, con objeto de establecer si cuenta con margen disponible;
 
-los créditos o disminuciones de las garantías o del capital pagado y
+b) Cuando se modifiquen las condiciones de un crédito en moneda extranjera para exportaciones acogido a mayor margen, en atención a lo dispuesto en el numeral 3.3 de este título;
 
-reservas,inciden en dichas relaciones y requieren de un control permanente por
+c) Cuando se pretenda disminuir voluntariamente el patrimonio efectivo****A***, con el objeto de determinar si ello es posible sin incurrir en infracción a los límites de crédito, según lo señalado en el N° 5 de este título;
 
-parte dela institución financiera, no sólo para establecer si dispone de
+d) Cuando se desee liberar una garantía, a fin de establecer si, de acuerdo con el valor actual de los créditos, las garantías que permanecen son
 
-márgenes para otorgar nuevos créditos, sino también para verificar si procede
+suficientes,excepto en el caso en que la liberación de una garantía tenga como propósito la venta del bien gravado y el producto de su venta se destine íntegramente al pago del crédito garantizado, o cuando el bien se reciba en pago o se adjudique en remate judicial.
 
-disminuir voluntariamente el capital y reservas o si es posible liberar alguna
-
-garantía sin infringir los límites permitidos por la ley.
-
-2. Oportunidades en que corresponde computar el monto de los créditos, de las
-
-garantías y del capital pagado y reservas.
-
-Para verificar el cumplimiento de las disposiciones del artículo 84 N° 1 de la
-
-Ley General de Bancos, las instituciones financieras deben considerar el valor
-
-actualizado, tanto de los créditos de un mismo deudor, como de las garantías que
-
-los amparan y del capital pagado y reservas, en las siguientes oportunidades:
-
-a) Cuando se desee otorgar un nuevo crédito, directo o indirecto, al mismo
-
-deudor, o novar uno existente, con objeto de establecer si cuenta con margen
-
-disponible;
-
-b) Cuando se modifiquen las condiciones de un crédito en moneda extranjera para
-
-exportaciones acogido a mayor margen, en atención a lo dispuesto en el numeral
-
-3.3 de este título;
-
-c) Cuando se pretenda disminuir voluntariamente el capital y reservas, con el
-
-objeto de determinar si ello es posible sin incurrir en infracción a los límites
-
-de crédito, según lo señalado en el N° 5 de este título;
-
-d) Cuando se desee liberar una garantía, a fin de establecer si, de acuerdo con
-
-el valor actual de los créditos, las garantías que permanecen son
-
-suficientes,excepto en el caso en que la liberación de una garantía tenga como
-
-propósito la venta del bien gravado y el producto de su venta se destine
-
-íntegramente al pago del crédito garantizado, o cuando el bien se reciba en pago
-
-o se adjudique en remate judicial.
-
-El cómputo del valor actualizado de los créditos otorgados, de las garantías
-
-recibidas o del capital pagado y reservas, a la fecha en que ocurra alguno de
-
-estos eventos, debe realizarse de acuerdo con lo dispuesto a continuación.
+El cómputo del valor actualizado de los créditos otorgados, de las garantías recibidas o del patrimonio efectivo, a la fecha en que ocurra alguno de estos eventos, debe realizarse de acuerdo con lo dispuesto a continuación.
 
 ### 3. Cómputo de los créditos concedidos
 
@@ -18018,7 +17718,7 @@ sancionable, siempre que dichas renovaciones no impliquen novación de la obliga
 
 Lo anterior no significa que los créditos pueden computarse por el valor de la obligación original para establecer la procedencia de otorgar un nuevo crédito o novar uno existente. En consecuencia, si se otorga un crédito y con ello nace una nueva obligación del deudor, deben computarse previamente los créditos ya otorgados de la forma indicada en el numeral 3.1 anterior, para determinar si se dispone de margen para concederlo.
 
-Al respecto, conviene tener presente que, en el evento de que no existiere margen suficiente y se otorgare un nuevo crédito, la diferencia entre los límites y el valor de los créditos otorgados, incluidos los intereses, reajustes o variación del tipo de cambio de las deudas anteriores, no representa el monto en que se infringe la ley, sino que éste estaría dado sólo por el valor del nuevo crédito o por una parte de él, según sea el caso. Por el contrario, si la causa que originare la infracción fuere una disminución voluntaria del capital y reservas o una liberación de garantía, esa diferencia debe ser considerada como exceso sujeto a sanción.
+Al respecto, conviene tener presente que, en el evento de que no existiere margen suficiente y se otorgare un nuevo crédito, la diferencia entre los límites y el valor de los créditos otorgados, incluidos los intereses, reajustes o variación del tipo de cambio de las deudas anteriores, no representa el monto en que se infringe la ley, sino que éste estaría dado sólo por el valor del nuevo crédito o por una parte de él, según sea el caso. Por el contrario, si la causa que originare la infracción fuere una disminución voluntaria del Oportunidades en que corresponde computar el monto de los créditos, de las garantías y del patrimonio efectivo o una liberación de garantía, esa diferencia debe ser considerada como exceso sujeto a sanción.
 
 3.3. Cambios en las condiciones de créditos en moneda extranjera para exportación.
 
@@ -18028,109 +17728,29 @@ En este caso, la forma de determinar el monto de los créditos no difiere de lo 
 
 ### 4. Valor actualizado de las garantías
 
-En las oportunidades que se señalan en el N° 2 anterior, las instituciones
+En las oportunidades que se señalan en el N° 2 anterior, las instituciones financieras deben obtener el valor actualizado de las garantías, a fin de tomarlos valores comparables con los montos de los créditos y del patrimonio efectivo a la misma fecha.
 
-financieras deben obtener el valor actualizado de las garantías, a fin de
+El valor actualizado de las garantías debe obtenerse de acuerdo con las instrucciones del título IV de este capítulo. Al tratarse de documentos
 
-tomarlos valores comparables con los montos de los créditos y del capital pagado
+provenientes de operaciones de comercio exterior a que se refiere el numeral 3.2 de ese título, su valorización en pesos se obtendrá utilizando el tipo de cambio de representación contable informado por esta Superintendencia.
 
-y reservas a la misma fecha.
+Sin embargo, en atención a que la valorización de las garantías consistentes en bienes corporales requiere de tasaciones o certificaciones, se aceptará que los valores actualizados de las hipotecas y prendas sobre esos bienes, se obtengan de aplicar la variación de la Unidad de Fomento a los valores que se hayan obtenido para las mismas en una oportunidad anterior, de acuerdo con los procedimientos señalados en el título IV de este capítulo, sin que sea necesario efectuar una nueva tasación u obtener una nueva certificación del valor de los bienes.
 
-El valor actualizado de las garantías debe obtenerse de acuerdo con las
+Con todo, deberá obtenerse una nueva tasación o certificación y precederse de la forma señalada en el título IV de este capítulo en los siguientes casos:
 
-instrucciones del título IV de este capítulo. Al tratarse de documentos
+a) Cuando se otorgue un nuevo crédito amparado en una garantía cuya tasación o certificación tenga una antigüedad superior a dos años; y,
 
-provenientes de operaciones de comercio exterior a que se refiere el numeral 3.2
+b) Cuando se liberen garantías, a fin de establecer el nuevo valor de los bienes que permanecen garantizando el crédito.
 
-de ese título, su valorización en pesos se obtendrá utilizando el tipo de cambio
+El déficit de garantías que pudiere producirse por las disminuciones en el valor de ellas con posterioridad a su constitución, siempre que se hayan valorizado originalmente de acuerdo con las disposiciones del título IV del presente capítulo, no constituye infracción a lo dispuesto en la Ley General de Bancos. Sin embargo, debido a que esas disminuciones afectan la relación entre los créditos y sus garantías, el déficit debe ser cubierto cuando se pretenda otorgar otro crédito caucionado por las mismas u otras garantías o cuando se proceda a disminuir voluntariamente el patrimonio efectivo. Del mismo modo, el menor valor que pueda tener una garantía debe ser considerado cuando se liberen otras garantías o parte de las mismas.
 
-de representación contable informado por esta Superintendencia.
+### 5. Disminuciones del patrimonio efectivo
 
-Sin embargo, en atención a que la valorización de las garantías consistentes en
+El artículo 56 de la Ley General de Bancos prohíbe el reparto voluntario de dividendos con cargo a utilidades o a fondos de reserva si, por efectos de dicho reparto, los créditos que haya concedido y se encuentren vigentes excedieran algún límite de los tratados en este capítulo. Si así ocurre, la institución financiera incurrirá en infracción al artículo 84 N° 1 de la referida ley y la sanción se aplicará sobre el exceso de crédito resultante para cada uno de los deudores de la institución.
 
-bienes corporales requiere de tasaciones o certificaciones, se aceptará que los
+Si la disminución del patrimonio efectivo se origina, en cambio, por la absorción de pérdidas de un ejercicio, por el reparto de dividendos obligatorios o por otras causas ajenas a la voluntad de la institución financiera, y ese hecho provoca un exceso de los créditos otorgados respecto de los límites de que se trata, tales excesos no constituyen infracción a los márgenes.
 
-valores actualizados de las hipotecas y prendas sobre esos bienes, se obtengan
-
-de aplicar la variación de la Unidad de Fomento a los valores que se hayan
-
-obtenido para las mismas en una oportunidad anterior, de acuerdo con los
-
-procedimientos señalados en el título IV de este capítulo, sin que sea necesario
-
-efectuar una nueva tasación u obtener una nueva certificación del valor de los
-
-bienes.
-
-Con todo, deberá obtenerse una nueva tasación o certificación y precederse de la
-
-forma señalada en el título IV de este capítulo en los siguientes casos:
-
-a) Cuando se otorgue un nuevo crédito amparado en una garantía cuya tasación o
-
-certificación tenga una antigüedad superior a dos años; y,
-
-b) Cuando se liberen garantías, a fin de establecer el nuevo valor de los bienes
-
-que permanecen garantizando el crédito.
-
-El déficit de garantías que pudiere producirse por las disminuciones en el valor
-
-de ellas con posterioridad a su constitución, siempre que se hayan valorizado
-
-originalmente de acuerdo con las disposiciones del título IV del presente
-
-capítulo, no constituye infracción a lo dispuesto en la Ley General de Bancos.
-
-Sin embargo, debido a que esas disminuciones afectan la relación entre los
-
-créditos y sus garantías, el déficit debe ser cubierto cuando se pretenda
-
-otorgar otro crédito caucionado por las mismas u otras garantías o cuando se
-
-proceda a disminuir voluntariamente el capital y reservas. Del mismo modo, el
-
-menor valor que pueda tener una garantía debe ser considerado cuando se liberen
-
-otras garantías o parte de las mismas.
-
-### 5. Disminuciones del capital pagado y reservas
-
-El artículo 75 de la Ley General de Bancos prohíbe el reparto voluntario de
-
-dividendos con cargo a utilidades o a fondos de reserva si, por efectos de dicho
-
-reparto, los créditos que haya concedido y se encuentren vigentes excedieran
-
-algún límite de los tratados en este capítulo. Si así ocurre, la institución
-
-financiera incurrirá en infracción al artículo 84 N° 1 de la referida ley y la
-
-sanción se aplicará sobre el exceso de crédito resultante para cada uno de los
-
-deudores de la institución.
-
-Si la disminución del capital pagado y reservas se origina, en cambio, por la
-
-absorción de pérdidas de un ejercicio, por el reparto de dividendos obligatorios
-
-o por otras causas ajenas a la voluntad de la institución financiera, y ese
-
-hecho provoca un exceso de los créditos otorgados respecto de los límites de que
-
-se trata, tales excesos no constituyen infracción a los márgenes.
-
-Como es natural, a partir de la fecha en que ocurra una disminución del capital
-
-pagado y reservas por cualquier causa, debe considerarse, a contar de ese
-
-momento, el menor monto que éste tiene. Si la disminución produjere, por
-
-ejemplo, excesos en los límites de crédito, la institución financiera quedará
-
-impedida de otorgar nuevos créditos a los deudores que se encuentren en tal
-
-situación, mientras no se ajusten a los márgenes.
+Como es natural, a partir de la fecha en que ocurra una disminución del patrimonio efectivo por cualquier causa, debe considerarse, a contar de ese momento, el menor monto que éste tiene. Si la disminución produjere, por ejemplo, excesos en los límites de crédito, la institución financiera quedará impedida de otorgar nuevos créditos a los deudores que se encuentren en tal situación, mientras no se ajusten a los márgenes.
 
 ### 6. Cómputo de obligaciones indirectas y complementarias
 
@@ -18164,59 +17784,15 @@ Con respecto a la valorización de las garantías, debe tenerse presente la
 
 excepción mencionada en la letra b) del N° 4 de este título.
 
-### 7. Información a esta Superintendencia
-
-En cumplimiento de lo dispuesto en el artículo 45 de la Ley General de Bancos,
-
-las entidades financieras deben informar a esta Superintendencia, cada vez que
-
-otorguen a una misma persona natural o jurídica créditos que, considerados en su
-
-conjunto con los créditos ya otorgados, sobrepasen el 5% de su capital pagado y
-
-reservas. Esta información deberá enviarse en el formulario SP-1, ateniéndose a
-
-los plazos e instrucciones dispuestos en el Manual del Sistema de Información.
-
-Los bancos y sociedades financieras mantendrán a disposición de esta
-
-Superintendencia, en sus oficinas, toda la información y documentación
-
-probatoria del cumplimiento de las normas del presente capítulo, referida a
-
-deudores cuyos créditos superen el 5% del capital pagado y reservas de la
-
-institución o que lo hayan superado en los últimos doce meses. Dicha información
-
-se mantendrá, aun cuando lo que exceda el 5% mencionado se haya originado por el
-
-efecto de disminuciones del capital y reservas o por los reajustes o intereses
-
-de los créditos.
-
-De ninguna manera lo anterior impide a las instituciones financieras
-
-establecerlos procedimientos y sistemas de control que estimen más adecuados
-
-para el registro y custodia de las garantías o para generar información
-
-relativa, por ejemplo, a los créditos indirectos y complementarios, relaciones
-
-entre deudores, etc. No existe impedimento para que los sistemas que se utilicen
-
-se basen,cuando se trate de valores, en el sistema contable. En ese caso, la
-
-apertura y el uso de cuentas de orden queda a criterio de cada institución.
-
-### 8. Sanciones
+### 7. Sanciones
 
 La institución financiera que infrinja los límites individuales de crédito de que trata este capítulo, incurrirá en una multa equivalente al 10% del monto en el cual los créditos otorgados excedan el límite permitido.
 
 La institución financiera que sea multada en conformidad al artículo 84 de la
 
-Ley General de Bancos, deberá encuadrarse dentro del margen correspondiente en un plazo no superior a 90 días, contado desde la fecha de la notificación. La ley dispone que si así no lo hiciere, podrá aplicársele alguna de las disposiciones contenidas en el artículo 19 del D.L. N° 1.097.
+Ley General de Bancos, deberá encuadrarse dentro del margen correspondiente en un plazo no superior a 90 días, contado desde la fecha de la notificación. La ley dispone que si así no lo hiciere, podrá aplicársele alguna de las disposiciones contenidas en su artículo 19.
 
-ANEXO N° 1
+ANEXO N°1
 
 AJUSTE A LA TASACION (en porcentaje)
 
@@ -18230,11 +17806,9 @@ Para la aplicación de los ajustes mínimos, cuando corresponda, debe entenderse
 
 Por otra parte, se entiende por "bienes de consumo final" aquéllos que pueden ser utilizados por los consumidores finales, quedando excluidos los productos que requieren mayor elaboración o que constituyen materia prima para otra empresa, aunque correspondan al producto final de una industria intermedia.
 
-En el caso de warrants posibles de valorizar según las normas, el ajuste total mínimo de la tasación será cinco puntos porcentuales menor que el indicado en la tabla Por ejemplo, al corresponder a bienes de consumo final, el ajuste mínimo será de un 10%.
+En el caso de warrants posibles de valorizar según las normas, el ajuste total mínimo de la tasación será cinco puntos porcentuales menor que el indicado en la tabla. Por ejemplo, al corresponder a bienes de consumo final, el ajuste mínimo será de un 10%. En el caso de prendas industriales, el ajuste total mínimo que se aplique sobre el valor de tasación será de 30% si los préstamos que se encuentran resguardados con dichas garantías cumplen copulativamente con las siguientes condiciones:
 
-En el caso de prendas industriales, el ajuste total mínimo que se aplique sobre el valor de tasación sera de 30% si los préstamos que se encuentran resguardados con dichas garantías cumplen copulativamente con las siguientes condiciones.
-
-a) hayan sido otorgados para la construcción o equipamiento de una planta industrial,
+a) hayan sido otorgados para la construcción o equipamiento de una planta industrial;
 
 b) la prenda se haya constituido sobre la totalidad de las maquinarias que conforman la línea de producción de la planta, y,
 
