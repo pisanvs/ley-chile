@@ -1,0 +1,21 @@
+EXTRACTO DE DECRETO ALCALDICIO Nº 365, DE 1988
+
+Puchuncaví, 14 Octubre de 1988. Esta Alcaldía decretó hoy lo que sigue: Vistos y teniendo presente: 1) El Art. 27 inciso segundo de la Ley 18.695 que faculta a la Municipalidad para adquirir bienes raíces por expropiación. Considerando: 1) Las necesidades habitacionales de la Comuna. Decreto. 1) Exprópiese: Por causa de utilidad pública e interés social Comunal, los terrenos de actual dominio de ENAMI, ubicados en Ventanas Alto, Comuna de Puchuncaví, excluidas las porciones inscritas a nombre de la Corporación Habitacional (CORHABIT) y/o expropiadas por ésta, que conforman la Población Nueva Germania y Población Bello Horizonte, reinscritos a fs. 236 vta. Nº 253 del año 1972 en el Registro de Propiedades del Conservador de Bienes Raíces de Quillota (rol de avalúo). 2) Las porciones incluidas en esta expropiación corresponden a parte de la siguiente inscripción de dominio: fs. 236 Nº 253 del Registro de Propiedades del Conservador de Bienes Raíces de Quillota de 1972, con una superficie total de 54,6 hectáreas. Exceptuándose de esta expropiación lo siguiente:
+
+a) Población Nueva Germania cuyos deslindes son: Deslindes definidos por las letras A-B-C-D-E-F-G-, del plano archivado bajo el número 147 del Registro de documentos del año 1969.
+
+Más la superficie ocupada por los lotes 1, 2, 3 de la manzana "A" de Población Nueva Germania y parte de los lotes 4, 5, 13 de la misma manzana son: Norte: 104,30 mts. entre letras A-G con terrenos ENAMI. 154 mts. entre letras F-E con terrenos ENAMI. 12 mts. entre letras B-C. Sur Poniente:
+
+58,80 mts. entre letras A-B con calle Daniel Vega. 450 mts. entre letras C-D con eje calles Nueva Germania y Unión. Oriente: 146 mts. entre letras G-F con terrenos ENAMI. 65 mts. entre letras E-D con resto Población Nueva Germania. Superficie: 41,241 mts.2. que corresponden a los deslindes definidos por las letras A-B-C-D-E-F-G-A- del plano mencionado. 1.264 mts.2. que corresponde a la superficie ocupada por los lotes 1, 2, 3, de la Manzana "A" de Población Nueva Germania y parte de los lotes 4, 5, 13 de la misma Manzana. Haciendo un total excluido de 42.505 mts.2.
+
+b) Población Bello Horizonte cuyos deslindes son: Norte:
+
+Línea Quebrada de 62,10 m. 98,25 m. con calle Roberto Silva.
+
+Línea Quebrada de 29,35 m. 118,30 m. con calle Campos Sport. Sur: Línea Quebrada de 12 m. 22,50 m. con deslinde Sur de Lotes 1 y 22 de Manzana B Población Bello Horizonte.
+
+Línea 50,40 m. con plaza, calle pública de por medio. Línea de 35,82 m. coincidente con deslinde Sur de Lotes de Manzana G, Población Bello Horizonte. Línea de 110,66 m. con calle Nueva Germania. Oriente: Línea de 100 m. con deslinde oriente de lotes 15 al 22 de Manzana B de Población Bello Horizonte. Línea de 133,0 con calle Gabriela Mistral. Línea de 41,63 m. con calle Manuel Rodríguez. Poniente: Línea de 132,13 m. con Calle Unión. Línea de 330,71 m. con Calle Bello Horizonte. C) Población Ampliación Bello Horizonte cuyos deslindes son: Deslindes definidos por las letras A-B-C-D-E-F-G del plano archivado bajo el número 1004 del Registro de Documentos del año 1984. Norte: Línea C-D en 194 m. con resto propiedad ENAMI. Oriente Línea D-E de 40 m; F-G de 40 m. con propiedad ENAMI. Sur Oriente: Línea H-A de 40,50 m. con terrenos de ENAMI. Sur: Línea F-E de 9,50 m.
+
+H-G de 45 m. con terrenos ENAMI. Sur Poniente: Línea A-B de 116,20 m. con calle pública. Poniente: Línea C-D de 41,50 m. con calle pública, en ambos trazos con Población Bello Horizonte calle de por medio. 3) Los terrenos, materia de esta expropiación parcial, se encuentran singularizados en el plano de mayor extensión archivado bajo el Nº 41 del Registro de Documentos del Conservador de Bienes Raíces de Quillota del año 1972, abarcando una superficie a expropiar de 450.160 mts.2. 4) Fíjese el monto provisional de la indemnización en $ 9.534.338 (nueve millones quinientos treinta y cuatro mil trescientos treinta y ocho pesos), fijados por los peritos Sres. Rivera, Tallería y Madrid de acuerdo a su informe de fecha 24 de Septiembre de 1988.-
+
+Osvaldo A. Urrutia Soto, Alcalde.- Mauricio I. Benítez Figari, Abogado, Secretario Municipal.
