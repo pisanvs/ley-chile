@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 550, de 30 de junio de 1997, se expropiaron los lotes de terreno N° 9 y N° 20, superficies 503 y 1.759 M2 respectivamente, roles de avalúo 65-48 y 65-17, comuna de Teno, para la obra Camino Ruta-J-111 Sector Cruce Ruta 5 Morza y se acordó precio de indemnización con sus propietarios julio Alvarado Araya y Jorge Sánchez Ugarte, ascendente a las cantidades de $271.604.- y $2.632.571.
+
+Fiscal del Ministerio de Obras Públicas
