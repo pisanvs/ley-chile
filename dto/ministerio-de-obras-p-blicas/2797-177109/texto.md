@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.797, de 30 de junio de 2000, se expropió el lote de terreno Nº1, superficie 2.108 m², rol de avalúo 136-37, comuna de Paine, para la obra ''Concesión Internacional Ruta 5. Tramo: Santiago-Talca, Sector B'', Región Metropolitana y se acordó el valor de indemnización con su propietario Jorge Humberto Morán Moya, ascendente a la cantidad de $11.717.394.-
+
+Fiscal del Ministerio de Obras Públicas.
