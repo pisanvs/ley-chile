@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº1.709 de fecha 31 de octubre de 2001, se expropió el lote de terreno Nº4, superficie 4.891,50 m², rol de avalúo Nº387-167, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, Expropiaciones Red Primaria 3/5, Derivado Mahuidanche, Sector Km. 0.000 al Km. 2.009,85" y se acordó el valor de indemnización con su propietaria Elsa Edith Colicheo Marín y Otros, ascendente a la cantidad de $2.659.992.-
+
+Fiscal del Ministerio de Obras Públicas.
