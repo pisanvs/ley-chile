@@ -40,11 +40,7 @@ Los años de práctica se acreditarán mediante certificados otorgados por los D
 
 #### Artículo 6º
 
-La Comisión Examinadora a que se refiere la letra c) del artículo 2º estará integrada por tres médicos cirujanos del Servicio Nacional de Salud, designados por decreto supremo del Ministerio de Salud Pública.
-
-Esta Comisión tendrá carácter nacional, con sede en Santiago, sin perjuicio de constituirse en las Direcciones Zonales del Servicio Nacional de Salud cuando sea necesario. Sus miembros durarán tres años en sus funciones.
-
-Cuando uno o más de los miembros de la Comisión Examinadora estén impedidos para integrarla en la fecha o lugar donde ésta deba funcionar, el Ministro de Salud Pública designará mediante resolución interna, entre médicos del Servicio Nacional de Salud, el o los reemplazantes que sean necesarios para su constitución.
+La comisión examinadora a que se refiere la letra c) del artículo 2° tendrá carácter zonal, y estará integrada, en cada Dirección Zonal del Servicio Nacional de Salud, por tres médicos cirujanos funcionarios de ese Servicio, los que serán designados por decreto supremo del Ministerio de Salud Pública, a propuesta en quina de la Dirección Zonal correspondiente, los que durarán tres años en sus funciones. Los Directores Zonales del Servicio Nacional de Salud deberán enviar al efecto, dentro del plazo de quince días a contar de la publicación del presente decreto, la lista de los funcionarios propuestos.
 
 #### Artículo 7º
 
