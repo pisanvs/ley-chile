@@ -1,0 +1,3 @@
+Por decreto MOP Nº939 de fecha 31 de mayo de 2002, se expropiaron los lotes de terreno Nº79, 80 y 85, superficies 635,00, 670,00 y 1.660,00 m², rol de Avalúo Nº62-36, comuna de Lampa, para la obra ''Camino Ruta G-16, Sector Lampa - Polpaico, tramo Km. 19,72359 a Km. 34,51667'', Región Metropolitana y se acordó el valor de indemnización con su propietario Elemilec Gaspar Pérez León y Otros, ascendente a la cantidad de $9.086.188.-
+
+Fiscal del Ministerio de Obras Públicas.
