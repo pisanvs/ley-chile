@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 194, de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 5, superficie 94 m2, Rol en trámite, comuna de Cauquenes, VII Región, para la obra "Camino Lechería - Cerro Alto. Sector: Puente San Miguel. Tramo: Km. 1,340 a Km. 1,670" y se acordó el valor de indemnización con su propietaria Adelina Recabal Roldán, ascendente a la cantidad de $440.564.
+
+Fiscal del Ministerio de Obras Públicas.
