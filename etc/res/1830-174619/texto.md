@@ -1,0 +1,3 @@
+Por resolución Nº 1.830, de 18 de agosto de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110516 presentada por PABLO ENRIQUE AGUILERA MARIN, para instalar y operar un centro de cultivo ubicado en canal Chaffers, isla Tahuenahuec, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 18 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
