@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.183, de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 35, superficie 195 m², Rol de avalúo Nº 511-36, comuna de Longaví, para la obra "Camino Ruta L-49, Cruce Long. - Mesamavida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12", VII Región, y se acordó el valor de la indemnización con su propietario Abel Antonio Silva Silva ascendente a la cantidad de $894.047.-
+
+Fiscal del Ministerio de Obras Públicas.
