@@ -1,0 +1,3 @@
+Por Resolución No. 1.320, de 15 de Octubre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por treinta días a contar de la fecha de la presente Resolución, el plazo otorgado a PESQUERA AURO S.A. RUT No. 95.268.000-5, domiciliada en Talcahuano, calle Aníbal Pinto No. 222, Of. 16, en el numeral 2° de la Resolución No. 1119, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 15 de Octubre de 1991.- Andrés Couve Rioseco Subsecretario de Pesca.
