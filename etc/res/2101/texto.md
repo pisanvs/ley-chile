@@ -1,0 +1,3 @@
+Por resolución Nº 2.101, de 13 de octubre de 1999, de esta Subsecretaría, se recháza la solicitud de concesión de acuicultura Nº 97110110, presentada por HUMBERTO JOSE FISCHER LLOP, para operar un centro de cultivo ubicado en Canal Pérez Sur, sector oeste de la Isla Lalanca, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 13 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
