@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 752 de fecha 31 de julio de 2003, se expropiaron los lotes de terreno Nº 28-A, 28-B, 28-C, 30-B, 31-B y 34-A, superficies 280,00 m², 90,00 m², 70,00 m², 100,00 m², 3,60 m² y 6,30 m², rol de avalúo Nº 2207-10, comuna de Osorno, para la obra "Camino Ruta U-72, Sector Osorno Huilma, Km. 0,00000 al Km. 18,100, provincia de Osorno", X Región y se acordó el valor de la indemnización con su propietario Tassilo Von Conta Von Geisso, ascendente a la cantidad de $1.113.288.
+
+Fiscal del Ministerio de Obras Públicas.
