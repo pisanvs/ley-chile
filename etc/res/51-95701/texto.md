@@ -1,0 +1,3 @@
+Por resolución No. 51 de fecha 30 de Junio de 1989 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se caduca la autorización otorgada mediante resolución No. 27 de 3 de Mayo de 1985 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, al señor Héctor Hernán Fruttero Rocca, para operar la Planta Revisora Clase A, ubicada en Avda. Ambrosio O'Higgins No. 2117, de la Comuna de Curacaví, Región Metropolitana.
+
+Santiago, Julio 14 de 1989.- Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
