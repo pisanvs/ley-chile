@@ -1,0 +1,3 @@
+Por decreto MOP 4.823, de 31 de octubre del 2000, se expropió el lote de terreno Nº182, superficie 86 m², rol de avalúo 5883-7,comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Carlos Alberto Hernández Sandoval, ascendente a la cantidad de $13.874.849.-
+
+Fiscal del Ministerio de Obras Públicas.
