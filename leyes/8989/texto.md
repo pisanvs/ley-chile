@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República para invertir hasta la suma de setenta y cinco millones de pesos en la construcción de casas para el personal de las Fuerzas Armadas y del Cuerpo de Carabineros; intervención de la Contraloría General de la República.
