@@ -1,0 +1,1 @@
+De la ley 7,452, de 24 de julio de 1943, que mejora la situación económica del personal de las Fuerzas Armadas, modifica el artículo 1.o, substituye el 2.o y el 8.o, y agrega diversos artículos y altera orden de numeración.
