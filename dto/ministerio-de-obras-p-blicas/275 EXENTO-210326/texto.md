@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº275 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº40, superficie 2.960 m², rol de avalúo Nº151-1, comuna de Chonchi, para la obra "Camino Ruta W-80, Sector Cruce Longitudinal Huillinco, Km. 0,000 a Km. 9,556", X Región y se acordó el valor de la indemnización con su propietario Sergio o Serjio Bórquez Macías, ascendente a la cantidad de $1.778.278.-
+
+Fiscal del Ministerio de Obras Públicas.
