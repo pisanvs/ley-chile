@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.019, de fecha 28 de junio del 2002, se expropió el lote de terreno Nº5-B, superficie 945 m2., rol Nº2206-16, comuna de Osorno, X Región, para la obra ''Camino Ruta U-72, Sector Osorno-Huilma, Km. 0,000 al 18,100'' y se acordó el valor de indemnización con su propietario Pablo Alberto Marcelo González Kettler, ascendente a la cantidad de $1.156.396.-
+
+Fiscal del Ministerio de Obras Públicas.
