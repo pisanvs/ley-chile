@@ -1,0 +1,7 @@
+AUTORIZA A DON LUIS OSCAR PEREZ FUENTES PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.495 de 23 de Octubre de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Luis Oscar Pérez Fuentes, R.U.T. No. 5.061.355-0, domiciliado en calle Costanera S/N°, Islas y Comunas Guaytecas, XI Región, para iniciar actividades pesqueras, en orden a operar una planta industrial en la zona Industrial del Puerto de Melinka, Sitio 3, Manzana 31, Islas Guaytecas, XI Región, donde procesará en la línea de elaboración de congelado, fresco - enfriado y secado de algas, los siguientes recursos hidrobiológicos: Congelado y fresco - enfriado: Bacalao de profundidad o mero, congrio colorado, congrio dorado, jurel, merluza común, merluza del Sur, pejerrey de mar, raya, róbalo, rollizo, almeja o taca, almeja, calamar, caracol trumulco, cholga, chorito, chorito maico, choro, lapa, macha, ostión del Sur, centolla, centollón, jaiba, jaiba mora, jaiba reina y erizo. Secado: Conchayuyo, chasca, chascón, huiro, luga-luga y pelillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 23 de octubre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
