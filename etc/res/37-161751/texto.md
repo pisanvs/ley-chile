@@ -1,0 +1,3 @@
+Por resolución de la Fiscalía del Ministerio de Obras Públicas F. Nº 37, de 29 de Abril de 1985, se ha ordenado pagar a la persona que a continuación se indica o a quien acredite derecho como valor del 100% del avalúo fijado por la Comisión de hombres Buenos más su reajuste, para el lote expropiado para Acceso al Puente Urrutia en el camino de San Ignacio - El Carmen, cuya superficie y rol de avalúo de la comuna de El Carmen se indica: Lote 1: Octavio Brancoli Serrano, 1.741 m2., rol 100-4, $ 226.948. Se deja constancia que el plazo para reclamar del avalúo es el determinado por el artículo 12 del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
