@@ -1,0 +1,3 @@
+Por resolución Nº 985, de 22 de mayo de 2002, de esta Subsecretaría, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A. para ampliar actividades pesqueras de transformación, autorizada por resolución Nº 11 de 1980, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Manuel Montt Nº 1941, Tomé, VIII Región, en las líneas de proceso de Harina y Aceite, los siguientes recursos hidrobiológicos: Bacaladillo o mote, Jurel fino, Machuelo o tritre, Anchoveta blanca, Sardina redonda, Vinciguerria.
+
+Valparaíso, 22 de mayo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
