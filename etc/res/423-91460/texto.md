@@ -1,0 +1,3 @@
+Por Resolución No. 423, de 8 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, inmueble calle Eyzaguirre No. 1367, casa 15, presunto rol avalúos 646-22, comuna Santiago, aparentemente dominio de don Raúl Illanes Adoro. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos, y Walter Soto Silva, ingeniero civil, según informe de 24.11.88, fijó monto provisional. indemnización en $ 1.412.775.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
