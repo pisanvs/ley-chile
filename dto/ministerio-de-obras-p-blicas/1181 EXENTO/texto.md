@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.181 de fecha 31 de julio de 2002, se expropió el lote de terreno Nº 4, superficie 2.408,70 m2, rol de avalúo Nº 237-47, comuna de Toltén, para la obra ''Camino Costero Sur, Sector Puente Peule - Límite Regional, Tramo By Pass Queule, Km. 0,000 al 5,000'', IX Región y se acordó el valor de la indemnización con su propietario Gilberto Cheuque Ñanco, ascendente a la cantidad de $1.173.492.-
+
+Fiscal del Ministerio de Obras Públicas.
