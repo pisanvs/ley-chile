@@ -16234,11 +16234,11 @@ Los estados financieros de las filiales, correspondientes al ejercicio anual, se
 
 Cada una de las sociedades filiales deberá hacer llegar sus estados financieros dentro del plazo indicado, salvo cuando se trate de sociedades sujetas a la fiscalización de la Superintendencia de Valores y Seguros, en cuyo caso será responsabilidad del respectivo banco matriz el envío oportuno de dichos estados.
 
-10.2. Estados de situación preparados en fechas intermedias.
+10.2.- Estados de situación trimestrales.
 
 Además de los estados financieros anuales auditados, las sociedades filiales deberán enviar periódicamente a esta Superintendencia los estados de situación que este Organismo les exija para efectos de fiscalización.
 
-Al tratarse de sociedades fiscalizadas por la Superintendencia de Valores y Seguros, los bancos deberán hacer llegar a este Organismo, además de los estados financieros anuales de que trata el numeral precedente, estados de situación referidos al 31 de marzo, 30 de junio y 30 de septiembre, dentro de un plazo que vencerá el quinto día hábil del mes subsiguiente a aquél a que se refiere el respectivo balance.
+Cuando se trate de sociedades fiscalizadas por la Superintendencia de Valores y Seguros, los bancos deberán hacer llegar a este Organismo, además de los estados financieros auditados de que trata el numeral precedente, estados de situación trimestrales referidos al 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre de cada año. Esta información se entregará a más tardar el duodécimo día hábil bancario siguiente a la fecha a que se refiere el respectivo balance, debiéndose utilizar para el efecto el formato de la Ficha Estadística Codificada Uniforme (FECU) que exige aquella Superintendencia.
 
 ### 11. Operaciones de las sociedades filiales con partes relacionadas
 
@@ -16532,7 +16532,7 @@ desarrollo del giro.
 
 ### 11. Estados financieros anuales
 
-Los estados financieros anuales de las empresas de apoyo deberán ser auditados por una firma de auditores externos inscrita en esta Superintendencia y publicados en el mismo periódico en que publique los suyos la institución que tenga participación mayoritaria en la respectiva sociedad o, cuando existan partícipes con aportes iguales, en el periódico en que cualquiera de ellos hubiera publicado su propio balance.
+Los estados financieros anuales de las empresas de apoyo deberán ser auditados por una firma de auditores externos inscrita en esta Superintendencia.
 
 Dichos estados financieros deben ser entregados por las respectivas sociedades a esta Superintendencia dentro del mismo plazo establecido para que los bancos y sociedades financieras envíen sus propios estados financieros a este Organismo.
 
