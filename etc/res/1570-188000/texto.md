@@ -1,0 +1,3 @@
+Por resolución Nº 1.570, de 18 de julio de 2001, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 1.379 de 2001, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Evaluación directa de langostino colorado y langostino amarillo entre la II y VIII Regiones, año 2001", en el sentido de reemplazar la nave "Dubrovnik" por la nave "Isabel S".
+
+Valparaíso, 18 de julio de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
