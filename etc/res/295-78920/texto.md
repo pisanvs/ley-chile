@@ -1,0 +1,3 @@
+Por Resolución No. 295 de 06 de abril de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar de la fecha de la presente Resolución, el plazo otorgado a FUNDACION CHILE, R.U.T. Nº 70.300.000-2 domiciliado en Santiago, calle Av. Parque Antonio Rabat Sur No. 6165, en el numeral 6° de la Resolución Nº 1403, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.-
+
+Valparaíso, 06 de abril de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
