@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 107, de 30 de diciembre de 1999, se autorizó existencia y aprobó el estatuto de la Cooperativa Agrícola San Andrés- Calbuco Ltda., en los términos que da testimonio el documento protocolizado al final de los registros de don Alejandro Bernardo Soto Vera, Notario Público de la ciudad de Calbuco, bajo el Nº 106, con fecha 26 de noviembre de 1999.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
