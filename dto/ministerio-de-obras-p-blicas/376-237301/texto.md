@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 376, de 30 de mayo de 1996, se expropiaron los lotes de terrenos N°s. 6-A1, 6-A2, 6-C, superficie 11.624 M2, 9.911 M2, 12.440 M2, rol de avalúo 2-35 y 2-30, comuna de Cerrillos, para la obra Avda. paso Superior, Avda. General Velásquez, sector Nudo Avda. General Velásquez-Avda. Americo Vespucio y se acordó precio de la indemnización con los propietarios, Construcciones Ingeniería Neut Latour y Compañía Sociedad Anónima Inmobiliaria Diez Hermanos S.A., ascendente a la cantidad de $231.238.899 para los lotes N°s. 6-A1 y 6-A2 y para el lote N° 6-C la cantidad de $114.495.345.
+
+Fiscal del Ministerio de Obras Públicas.
