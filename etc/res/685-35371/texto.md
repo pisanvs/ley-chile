@@ -1,0 +1,3 @@
+Por Resolución N° 685, de 15 de Julio de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por diez meses a contar del 10 de Febrero de 1994, el plazo otorgado a VASQUEZ Y COMPAÑIA LIMITADA, R.U.T. N° 81.352.200-4, domiciliada en Manuel Bayon N° 491, Casilla 447, Talcahuano, en orden a sustituir la embarcación "Ulises VII", autorizada por Resolución N° 201, de 1983, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 15 de Julio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
