@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.662, de 30 de junio de 2000, se expropió el lote de terreno Nº8, superficie 1.828 m2, rol de avalúo 36-495, comuna de Requínoa, para la obra Concesión Internacional Ruta 5 Tramo: Santiago - Talca. Sector F, Sexta Región y se acordó el valor de indemnización con su propietario David Daniel Donoso lrarrázabal, ascendente a la cantidad de $8.603.534.
+
+Fiscal del Ministerio de Obras Públicas.
