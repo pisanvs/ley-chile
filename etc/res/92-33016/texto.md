@@ -1,0 +1,3 @@
+Por Resolución N° 92, de 16 de enero de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por INVERSIONES Y ASESORIAS EL MANANTIAL LTDA., para un sector ubicado en Bahía de Ralún, estero Reloncaví, Comuna de Cochamó, Provincia de Llanquihue, X Región, por no dar cumplimiento el respectivo proyecto técnico al artículo 87° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 16 de enero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
