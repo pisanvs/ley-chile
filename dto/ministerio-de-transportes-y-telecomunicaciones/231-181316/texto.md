@@ -8,7 +8,7 @@ D e c r e t o:
 
 #### Artículo 1º
 
-El casco protector que debe usar todo conductor de motocicletas, motonetas, bicimotos, moto para todo terreno (de tres o cuatro ruedas) u otro vehículo motorizado similar de dos o tres ruedas, así como sus acompañantes, a que se refiere el artículo 80 del decreto con fuerza de ley Nº 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que contiene el texto refundido, coordinado y sistematizado de la Ley Nº 18.290, de Tránsito, deberá cumplir como mínimo con los requisitos de seguridad, diseño e información al usuario que se señalan a continuación, los cuales deberán ser acreditados ante el Ministerio de Transportes y Telecomunicaciones, de la forma que se indica en el artículo 6º.
+Toda persona que conduzca una motocicleta, motoneta, moto para todo terreno (de tres o cuatro ruedas) u otro vehículo motorizado similar de dos o tres ruedas, así como sus acompañantes, deberán usar casco protector.
 
 #### Artículo 2º
 
@@ -26,7 +26,7 @@ Casco protector es todo elemento de protección individual que cubra, al menos l
 
 Los cascos de procedencia extranjera son aptos para su uso en los vehículos señalados en el artículo primero, siempre y cuando cumplan en su fabricación de origen, con una al menos de las siguientes normas:
 
-a) Standard Nº218, Motorcycle Helmets, establecida por el Code of Federal Regulations (49CFR571.218), de los Estados Unidos de Norteamérica;
+a) Standard Nº218, Motorcycle Helmets, establecida por el Code of Federal Regulations (49CFR579.278), de los Estados Unidos de Norteamérica;
 
 b) JIS T 8133, año 2000, definida por las autoridades de Japón; o
 
@@ -44,8 +44,6 @@ Todo casco deberá llevar impresa en su interior en forma permanente, indeleble,
 
 - Normas internacionales a las que se ajusta.
 
-Asimismo, todo casco deberá llevar en su exterior, incorporada o adherida de forma permanente, una etiqueta de fondo transparente, de a lo menos tres centímetros de ancho por tres centímetros de alto, con letras de color negro o blanco, en que se indique el número de acreditación y su correspondiente código de respuesta rápida "QR" el cual almacenará información de la acreditación.
-
 #### Artículo 5º
 
 Se entenderá por casco en mal estado y no apto para su uso, aquél:
@@ -58,11 +56,11 @@ Se entenderá por casco en mal estado y no apto para su uso, aquél:
 
 #### Artículo 6º
 
-El importador, distribuidor, primer vendedor u otro, en adelante "el solicitante", deberá acreditar que el casco cumple con las características y especificaciones establecidas en el presente reglamento ante el Ministerio de Transportes y Telecomunicaciones, presentando para ello una solicitud de acreditación, acompañando las fichas de especificaciones, diagramas y otros antecedentes necesarios para tal efecto. Asimismo, deberá incluir un certificado que acredite el cumplimiento de alguna de las normas descritas en el artículo 3º de este reglamento, emitido por entidades de certificación habilitadas, o un informe técnico evacuado por un laboratorio de ensayo acreditado conforme a la norma ISO/IEC 17025:2005, requisitos generales para la competencia de los laboratorios de ensayo y calibración, para la norma CFR 49-571 Highway Traffic Safety Administration, Department of Transportation (NHTSA) Unites States of America; Standard Nº 218; Motorcycle helmets.
+El casco deberá contar en sus partes posterior y laterales, con áreas reflectantes de color blanco de 18 cm2 mínimos (''Figura 3''). El diseño de dichas áreas es libre, pero, no obstante, deberá permitir que en su interior se pueda inscribir:
 
-En el evento que el casco reúna todas las características y especificaciones técnicas establecidas en este reglamento, el Ministerio de Transportes y Telecomunicaciones procederá a otorgar al solicitante el correspondiente certificado en el cual se consignará el número de acreditación, código de respuesta rápida "QR", marca, modelo, lote, fabricante, país de fabricación y solicitante.
+a) Una circunferencia de 4 cm. de diámetro (''Figura 4''); o
 
-En los casos que el Ministerio de Transportes y Telecomunicaciones constatare la omisión de lo señalado en el presente reglamento, remitirá los antecedentes pertinentes al Servicio Nacional del Consumidor.
+b) Un rectángulo de 12.5 cm2 de área y ancho no menor a 2cm. (''Figura 4'').
 
 #### Artículo 1º
 
