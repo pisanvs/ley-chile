@@ -1,0 +1,3 @@
+Por resolución Nº 935, de 20 de mayo de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.053 de 1989, de esta Subsecretaría, que autorizó a EMPRESA PESQUERA BRAVAMAR Y COMPAÑIA LTDA., para operar la nave ''Punta Talca'', sólo en lo relativo a la especie Merluza común, en el litoral comprendido entre la III y la VII Regiones.
+
+Valparaíso, 20 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
