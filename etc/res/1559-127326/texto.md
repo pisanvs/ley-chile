@@ -1,0 +1,3 @@
+Por resolución Nº 1.559, de 13 de noviembre de 1998, de esta Subsecretaría, deniégase la solicitud presentada por PESQUERA TREMAR S.A., para iniciar actividades pesqueras extractivas con una nave en construcción, respecto de las áreas y especies hidrobiológicas solicitadas, en virtud de lo dispuesto en el artículo 19 letra a), c) y e) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 13 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
