@@ -1,0 +1,1 @@
+Modifica los incisos 1.° y 2.° del artículo 1.°, la letra a) del 2.°, el inciso 1.° del 4.° y el artículo 5.° y agrega artículo nuevo a la ley 10.049, de 3 de diciembre de 1951, que autorizó a la Municipalidad de Los Angeles para contratar préstamos hasta por la suma de $ 15.000.000 con el fin de atender a diversas obras de adelanto local.
