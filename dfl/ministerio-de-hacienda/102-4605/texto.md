@@ -1,0 +1,1 @@
+Declara en reorganización la Caja de Previsión de Empleados Particulares y suprime en su planta de funcionarios los cargos que señala, desempeñados por las personas que expresa.
