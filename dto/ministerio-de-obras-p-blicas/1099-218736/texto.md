@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.099 de fecha 30 de septiembre del 2003, se expropio el lote de terreno Nº 91-A, superficie 7.442 m2, Rol Nº 277-110, comuna de Pelluhue, VII Región para la obra "Camino Chovellen-Cobquecura, Sector: Chovellen-Límite Regional, Tramo 18,260.00 al 35,158.60", y se acordó el valor de indemnización con su propietario José Mercedes Torres Vega, ascendente a la cantidad de $10.841.784.
+
+Fiscal del Ministerio de Obras Públicas.
