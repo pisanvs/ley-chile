@@ -1,0 +1,3 @@
+Por resolución número 1.771, de 11 de agosto de 2000, de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.500 de 1999, de esta Subsecretaría, que autorizó a PESQUERA CHAÑARAL S.A. para operar la nave ''Isla Picton'', de conformidad con lo dispuesto en el artículo 143 letra d) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
