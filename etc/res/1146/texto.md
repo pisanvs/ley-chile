@@ -1,0 +1,3 @@
+Por resolución N° 1.146 de 26 de Noviembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la resolución N° 36, de 1985, y la resolución N° 511, de 1985, que la modificó, ambas de esta Subsecretaría, y que autorizaron a la Sociedad de Fomento Industrial y Comercial Albatros S.A., R.U.T. N° 95.122.000-0, para realizar actividades pesqueras, en virtud de lo prescrito en el artículo 7°, el decreto N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de Noviembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca .
