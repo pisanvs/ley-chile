@@ -1,0 +1,5 @@
+DECLARA CADUCIDAD DE DECRETOS QUE INDICA
+
+Por resolución No. 1.327, de 20 de Noviembre de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Femento y Reconstrucción, se declara la caducidad de los Decretos No. 148, de 1965 y No. 251, de 1976, del Ministerio de Agricultura, que autorizaron respectivamente, a Sociedad Pesquera Magallanes Ltda., domiciliada en Punta Arenas, para desarrollar actividades pesqueras de extracción de productos del mar e instalación y operación de una planta industrial y a la Sociedad Pesquera y Conservera Dos Océanos Ltda., para instalar y operar una planta industrial, por haber incurrido sus titulares en la causal establecida en el artículo 7° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 20 de Noviembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
