@@ -1,0 +1,157 @@
+ESTABLECE NORMAS SOBRE OTORGAMIENTO DE TITULOS DE DOMINIO Y ADMINISTRACION DE TERRENOS FISCALES EN LA ISLA DE PASCUA
+
+Núm. 2.885.- Santiago, 22 de Octubre de 1979.- Visto: Lo dispuesto en los decretos leyes N.os 1 y 128, de 1973; 527, de 1974, y 991, de 1976, y
+
+Considerando: Que las características particulares que presentan en Isla de Pascua los problemas relativos a la constitución del dominio, así como el interés turístico de su territorio y la necesidad de preservar su valor arqueológico, cultural e histórico, hacen aconsejable dictar para ella normas especiales, distintas de las que rigen la administración y disposición de los bienes del Estado en el resto del país,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+## Título I
+
+Del otorgamiento de títulos de dominio y de la administración de terrenos fiscales
+
+#### Artículo 1°
+
+Facúltase al Presidente de la República para otorgar títulos gratuitos de dominio en terrenos fiscales, urbanos o rurales, de la Isla de Pascua.
+
+Estos títulos podrán otorgarse, sin más trámites que los establecidos en esta ley y en su reglamento, en favor de los chilenos originarios de la Isla, entendiéndose por tales, para los efectos del presente texto, los nacidos en ella y cuyo padre o madre cumpla esta condición.
+
+Podrán también concederse a los chilenos, no originarios de la Isla, siempre que sean hijos de padre o madre nacidos en ella, que acrediten domicilio y residencia de cinco años y que ejerzan en ésta una profesión, oficio o actividad permanente.
+
+La Comisión Especial de Radicaciones deberá emitir siempre un pronunciamiento previo sobre las solicitudes referentes a las materias de que trata este artículo.
+
+El decreto supremo en el que se contengan los actos gratuitos de disposición a que se refiere el presente artículo, servirá de suficiente título para inscribir el terreno respectivo a nombre del beneficiario y a requerimiento de éste, en el Registro de Propiedad del Conservador de Bienes Raíces.
+
+> **Nota.** NOTA: 1 El artículo 12 transitorio de la ley 19253, publicada el 05.10.1993, ordena suprimir la Comisión de Radicaciones creada por el presente decreto ley. Sus funciones y atribuciones serán ejercidas por la Comisión de Desarrollo de Isla de Pascua, de conformidad a lo dispuesto en el Párrafo 3° del Título VIII de esta ley y las referencias que a la Comisión de Radicaciones se hagan en cualquier texto legal se entenderán hechas a la Comisión de Desarrollo de Isla de Pascua. Un reglamento determinará la forma de realizar el traspaso de archivos y documentos de la Comisión de Radicaciones a la Comisión de Desarrollo de Isla de Pascua.
+
+#### Artículo 2°
+
+La facultad concedida en el artículo anterior no podrá ejercerse respecto de los terrenos que tengan un especial valor cultural arqueológico o histórico, o sobre los cuales deban recaer planes específicos de algún ministerio o servicio público centralizado o descentralizado, siempre que tales circunstancias sean absolutamante incompatibles con la coexistencia de derecho de propiedad particular sobre esos terrenos. La calificación de esta incompatibilidad deberá efectuarla la Comisión de Desarrollo de Isla de Pascua, sobre la base de informes técnicos de los organismos especializados que correspondan, según la naturaleza del impedimento a que se refiere esta disposición.
+
+Antes de otorgarse un título de dominio de acuerdo con la presente ley, la misma Comisión de Desarrollo de Isla de Pascua, deberá certificar que el bien raíz de que se trata, no se encuentra en alguna de las circunstancias señaladas en este artículo.
+
+#### Artículo 3°
+
+Sin perjuicio de lo dispuesto en el artículo precedente, el Presidente de la República podrá reservar zonas determinadas de la Isla, exclusivamente para fines de investigación arqueológica o científica o de interés cultural o nacional, en las que no se aplicarán las normas de esta ley.
+
+#### Artículo 4°
+
+El Presidente de la República podrá reservar también terrenos en los sectores urbanos o rurales de la Isla de Pascua, para fines turísticos, áreas de esparcimiento y deportes u otros de interés de la comunidad. En casos calificados y con informe favorable de la Comisión de Desarrollo de Isla de Pascua, podrá, conforme al reglamento, otorgarlos en arrendamiento, o en concesión, onerosa o gratuita, a personas naturales o jurídicas, según correspondan, siempre que los destinen a esos objetivos, y por plazos no superiores a veinte años, renovables.
+
+#### Artículo 5°
+
+Los títulos de dominio, arrendamiento, concesiones y reservas a que se refieren los artículos anteriores, se otorgarán y dispondrán, en su caso, por decreto supremo del Ministerio de Tierras y Colonización.
+
+#### Artículo 6°
+
+INCISO PRIMERO.- DEROGADO.-
+
+Corresponderá a la Comisión estudiar e informar las solicitudes destinadas a adquirir tierras fiscales, urbanas o rurales, de la Isla de Pascua, y desempeñar las demás funciones señaladas en esta ley y en el reglamento.
+
+## Título II
+
+De la constitución del dominio
+
+#### Artículo 7°
+
+Las personas señaladas en los incisos segundo y tercero del artículo 1° que sean poseedoras materiales de terrenos ubicados en Isla de Pascua, tendrán derecho a que el Presidente de la República les otorgue la calidad de poseedoras regulares de dichos bienes, en la forma y con los efectos que se establecen en los artículos que siguen.
+
+> **Nota.** NOTA: 1.1 El artículo 2° de la ley 18012, publicada el 16 de julio de 1981, estableció un nuevo plazo de dos años, contados desde la fecha de su publicación, para ejercer los derechos a que se refiere el Título II de este DL, en la forma y condiciones que allí se señala.
+
+> **Nota.** NOTA: 2 El artículo 1° de la ley 18312, publicada el 24 de mayo de 1984, estableció un nuevo plazo de cinco años, contado desde la fecha de su publicación, para ejercer el derecho a que se refiere el art. 7° del DL 2885, de 1979.
+
+> **Nota.** NOTA: 3.- El artículo único de la Ley N° 18.797, publicada en el Diario Oficial de 19 de Mayo de 1979, otorgó un nuevo plazo de cinco años, contado desde la fecha de su publicación, para ejercer el derecho a que se refiere el artículo 7° del presente decreto ley.
+
+> **Nota.** NOTA: 4.- La letra d) del artículo 79 de la Ley N° 19.253, publicada en el "Diario Oficial" de 5 de Octubre de 1993, otorgó un nuevo plazo de cinco años, contado desde la fecha de caducidad del plazo señalado en la Ley N° 18.797, de 1989, para que los actuales poseedores de tierras de Isla de Pascua ejerzan el derecho a que
+
+> **Nota.** se refiere el presente artículo.
+
+#### Artículo 8°
+
+Para ejercer el derecho a que se refiere el artículo anterior, el solicitante deberá acreditar los siguientes requisitos:
+
+1.- Que se encuentra en posesión material y continua del inmueble durante diez años, a lo menos, a la fecha de presentación de la solicitud a que se refiere el artículo siguiente. El peticionario podrá agregar a su posesión la de una serie no interrumpida de antecesores. La continuidad podrá comprobarse por cualquier acto o hecho jurídico que la haga presumible.
+
+2° Que a la fecha de presentación de la solicitud referida en el artículo siguiente no existe juicio pendiente en su contra relativo a la posesión del predio, lo que deberá acreditar mediante certificación otorgada por el Juzgado de Letras de Isla de Pascua.
+
+#### Artículo 9°
+
+La solicitud respectiva deberá ser presentada en la Oficina de Tierras y Bienes Nacionales de Isla de Pascua, dentro del plazo de un año, contado desde la publicación de la presente ley. Transcurrido este término, no se podrá impetrar el beneficio y se extinguirán los derechos de quienes no los hayan ejercitado dentro de él.
+
+#### Artículo 10°
+
+La Comisión de Desarrollo de Isla de Pascua podrá admitir toda clase de antecedentes para acreditar los hechos en que se funde la solicitud.
+
+La posesión del solicitante o de sus antecesores se acreditará en la forma establecida en el artículo 925° del Código Civil.
+
+La prueba que se rinda, incluso la destinada a establecer las relaciones de familia, será apreciada en conciencia por la Comisión de Desarrollo de Isla de Pascua.
+
+Si a juicio de la Comisión de Desarrollo de Isla dos o más personas tuvieren igual derecho sobre un mismo predio, procederá a otorgarles la calidad de poseedores regulares en comunidad.
+
+#### Artículo 11°
+
+INCISO PRIMERO.- DEROGADO.-
+
+El decreto que reconozca la calidad de poseedor regular sobre todo o parte de un predio se inscribirá en el Registro de Propiedad del Conservador de Bienes Raíces correspondiente.
+
+Con todo, antes de proceder a la inscripción, el Conservador deberá exhibir en su oficio, durante un período no inferior a treinta días, en lugar visible al público, un extracto del decreto supremo respectivo. En la inscripción correspondiente se dejará constancia de haberse cumplido esta formalidad.
+
+#### Artículo 12
+
+El solicitante que no se conformare con lo resuelto en el decreto a que se refiere el artículo anterior, podrá reclamar ante el Juzgado de Letras de Isla de Pascua, a fin de que este Tribunal resuelva en definitiva.
+
+La reclamación deberá interponerse dentro del plazo de seis meses, contados desde la fecha de publicación en el Diario Oficial del decreto respectivo y se tramitará de acuerdo al inciso primero del artículo 680 del Código de Procedimiento Civil.
+
+En este procedimiento no se aplicarán las normas de los artículos 40 y 41 de la ley N° 4.409.
+
+Dicha reclamación será notificada al Fisco y a las personas a quienes se le hubiere otorgado la calidad de poseedores regulares sobre los mismos terrenos objeto de la reclamación, los cuales tendrán derecho a hacerse parte en ella.
+
+Para los efectos de este procedimiento el Fisco estará representado por el Jefe de la Oficina de Tierras y Bienes Nacionales de la Isla.
+
+El juez apreciará la prueba en conciencia, y contra la sentencia que falle dicha reclamación no procederá recurso de ninguna especie.
+
+En ningún caso el Fisco podrá ser condenado al pago de las costas.
+
+#### Artículo 13
+
+La sentencia que acoja la reclamación ordenará que se cancele la inscripción anterior, si la hubiere, y deberá inscribirse en el Registro de Propiedad del Conservador de Bienes Raíces.
+
+#### Artículo 14
+
+Efectuada la inscripción del decreto o de la sentencia en el Conservador de Bienes Raíces, el interesado será reputado poseedor regular, para todos los efectos legales, y adquirirá el dominio por prescripción de dos años, que se contará desde la fecha de la inscripción del decreto o la sentencia en su caso, y no se suspenderá en favor de las personas señaladas en el artículo 2509, del Código Civil.
+
+Con todo, la mera inscripción conferirá al interesado, respecto del Fisco, la calidad de dueño de los terrenos a que ella se refiera.
+
+TITULO FINAL
+
+Disposiciones varias
+
+#### Artículo 15°
+
+DEROGADO.-
+
+#### Artículo 16
+
+Prohíbese la división de los predios urbanos y rurales de la Isla de Pascua, sin la autorización del Ministerio de Tierras y Colonización.
+
+Dicha autorización sólo podrá otorgarse previo informe favorable de la Comisión Especial de Radicaciones.
+
+El Conservador de Bienes Raíces no inscribirá la escritura pública que contenga la división, sin que en ella conste la respectiva autorización.
+
+#### Artículo 17
+
+Los extranjeros podrán adquirir por sucesión por causa de muerte inmuebles ubicados en Isla de Pascua, para el solo efecto de enajenarlos dentro de un plazo de un año contado desde la delación de la respectiva asignación, al Fisco de Chile o a alguna de las personas señaladas en los incisos segundo y tercero del artículo 1°, previo informe de la Comisión Especial de Radicaciones.
+
+Vencido el plazo señalado en el inciso anterior sin que el asignatario lo hubiere enajenado, el inmueble de que se trate será vendido por cuenta de su propietario, en pública subasta, por la Dirección de Tierras y Bienes Nacionales, a alguna de las personas naturales o jurídicas mencionadas en el artículo 1°.
+
+#### Artículo 18
+
+Las disposiciones del decreto ley N° 1.939, de 1977, sobre adquisición, administración y disposición de bienes del Estado, que no se opongan a la presente ley, se aplicarán en Isla de Pascua en forma supletoria a este texto legal.
+
+Deróganse todas las disposiciones legales de carácter especial relativas a las tierras fiscales de la Isla de Pascua, aun cuando no sean incompatibles con las normas de esta ley.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Lautaro Recabarren Hidalgo, General Inspector de Carabineros, Ministro de Tierras y Colonización.- Sergio Fernández Fernández, Ministro del Interior.
+
+Lo que transcribo para su conocimiento.- Mario Duvauchelle Rodríguez, Capitán de Navío, JT, Secretario de Legislación de la Junta de Gobierno.
