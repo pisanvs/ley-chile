@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 2.228 de 29 de Octubre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "El Parque" de la comuna de Angol, IX Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 25, sitios N°s. 1 al 15 y Reserva Cora N° 1 del Proyecto de Parcelación "EI Maitén", formado por predio señalado y por "Fundo Yalipán". Los Derechos de Agua se extraen del canal Parque-Ñipaco derivado del río Malleco.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
