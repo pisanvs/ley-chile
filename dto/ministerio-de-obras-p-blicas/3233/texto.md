@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.233, de 29 de octubre de 1999, se expropió el lote de terreno Nº 2, superficie 2.912 M2, rol de avalúo 5017-2, comuna de Punta Arenas, para la obra Habilitación Costanera Estrecho de Magallanes I, Sector Chañarcillo-Manantiales y se acordó precio de indemnización con su propietario Sociedad Frigorífico Morro Chico S.A.C., ascendente a la cantidad de $117.219.718.-
+
+Fiscal del Ministerio de Obras Públicas.
