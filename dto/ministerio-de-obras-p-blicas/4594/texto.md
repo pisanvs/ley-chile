@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.594, de 29 de septiembre de 2000, se expropió el lote de terreno Nº4, superficie 20.213,6 M2., rol de avalúo 359-3, comuna de Constitución, para la obra Camino M-24-K Quivolgo-Puente Lautaro, Sector B, La Trinchera-Putú (Variante Costera) Km. 13,240 a Km. 30,000 y se acordó precio de la indemnización con su propietaria Fernandina Letelier Letelier, ascendente a la cantidad de $19.817.932.-
+
+Fiscal del Ministerio de Obras Públicas.
