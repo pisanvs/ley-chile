@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.986 de fecha 30 de noviembre del 2001, se expropiaron los lotes de terreno Nºs 53, 56 y 57, superficie 587,00, 193,00 y 119,00 m2 respectivamente, rol de avalúo 2023-147, comuna de Melipilla, para la obra "Camino Reposición Ruta G-74-F, Sector Melipilla-Bollenar, Km. 0.00000 a Km. 14,23039" y se acordó el valor de indemnización con su propietario María Luisa Bulnes Zegers, ascendente a la cantidad de $5.163.103.-
+
+Fiscal del Ministerio de Obras Públicas.
