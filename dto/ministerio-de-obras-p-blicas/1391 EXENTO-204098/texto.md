@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.391, de fecha 30 de septiembre de 2002, se expropió lote de terreno Nº127, superficie 355 m2, rol de avalúo 126-3, comuna de Ranquil, VIII Región, para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea-Ñipas, Km.0,00000 al 5,58300, Tramo II Km. 5,57900 al 10,19480'' y se acordó el valor de indemnización con su propietario don Jorge Orlando San Martín Cortés, ascendente a la cantidad de $431.760.-
+
+Fiscal del Ministerio de Obras Públicas.
