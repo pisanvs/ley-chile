@@ -1,0 +1,15 @@
+Por resolución Nº 1.689, de 1 de agosto de 2000, de esta Subsecretaría, autorízase al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Pesca de Investigación del Jurel entre la III y la X Regiones'', aprobado por esta Subsecretaría, el cual se considera como parte integrante de la presente resolución.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en caracterizar la distribución, estructura de tallas de Jurel y sus agregaciones desde las 5 hasta las 300 millas náuticas de la costa de Chile, entre la III y X Regiones.
+
+La pesca de investigación se efectuará en el área marítima de la III a la X Regiones, por fuera del área de reserva artesanal, hasta las 300 millas náuticas, subdividida en dos zonas de estudio: Zona A: III y IV Regiones y Zona B: V a X Regiones.
+
+La pesca de investigación se efectuará entre las 12:00 horas del día 3 de agosto y las 12:00 horas del día 30 de septiembre del presente año. La Zona B comprenderá dos etapas: Ecoprospección y delimitación de focos de abundancia. La primera etapa se efectuará entre el 3 y el 7 de agosto; la segunda entre el 8 de agosto y el 30 de septiembre. La zona A comprenderá la etapa de delimitación de focos de abundancia, la cual se realizará entre el 3 de agosto y el 30 de septiembre.
+
+En la etapa de ecoprospección, en la Zona B, participarán las siguientes naves industriales: Toyita, Vikingo, Veabas, Libas, María José, Don Julio, Balder, Duqueco, Malleco, Terranova, Querelema, Tricahue, Don Manuel, Chivilingo I, Fox, Don Edmundo, Hilmir, El Cazador, Líder y Don Roberto I.
+
+En la etapa de delimitación de focos de abundancia participarán las naves que se señalan, pudiendo extraer un límite máximo de captura ascendente a 169.000 toneladas de Jurel: Coral I, Don Boris, Don Tito, María Bernardita, Bronco, Cobra, Fox, Mack, Maracaibo II, Nta. Sra. Tirana I, Vulcano, Veabas, Balder, Don Edmundo, Toltén I, Yelcho I, Oceánica 4, La Niña I, Oficina Progreso, Santa María II, Marpro I, Valdivia IV, María José, Querelema, Ranquilhue, Vichuqén II, Hoddevick, Don Roberto I, Lonco, Malleco, Terranova, Toyita, Francisco, Javier, Alejandría I, Antartic, Conquistador, Don Julio, Don Telésforo, Remoy Viking, Ventisquero, Don Gregorio, Oceánica 3, Tricahue, Tridente, Tritón I, Chivilingo I, Haugagut, Bucanero I, Corsario I, Vikingo, Yagán, Hilmir, Rapanui, Tranoi, El Cazador, Líder, Duqueco, Gardar, Pehuenco, Licantén, Don Manuel, Albimer, Cacique I y Arauco I.
+
+El IFOP designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción, a su Directora Ejecutiva Suplente.
+
+Valparaíso, 1 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
