@@ -6674,7 +6674,7 @@ ANEXO N° 5
 
 .
 
-ANEXO N° 6
+ANEXO 6
 
 CODIGO DE IDENTIFICACION DE LAS INSTITUCIONES FINANCIERAS
 
@@ -6688,7 +6688,7 @@ Bancos
 
 012 BANCO DEL ESTADO DE CHILE
 
-014 BANCO SUDAMERICANO
+014 BANCO SUD AMERICANO
 
 016 BANCO DE CREDITO E INVERSIONES
 
@@ -6707,8 +6707,6 @@ Bancos
 033 CITIBANK N.A.
 
 035 BANCO SANTIAGO
-
-036 BANCO DO ESTADO DE SAO PAULO S.A.
 
 037 BANCO SANTANDER-CHILE
 
@@ -15446,9 +15444,9 @@ Los precios deberán pactarse de acuerdo con las condiciones imperantes en el me
 
 Las partes deberán mantener un riguroso control contable de los ingresos y gastos, debiendo establecerse en los contratos que los cobros se realizarán con la pormenorización necesaria para ese efecto.
 
-9.4.- Relaciones entre las sociedades en las cuales participen las instituciones financieras.
+9.4.- Prestación de servicios de las sociedades filiales a su matriz y a otras filiales.
 
-Lo dispuesto en los numerales precedentes rige también para las relaciones que mantengan entre sí las distintas sociedades filiales o de apoyo al giro en las cuales participe la misma institución financiera.
+Bajo las condiciones señaladas en los numerales precedentes, las sociedades filiales sujetas a la fiscalización de esta Superintendencia pueden, a su vez, prestarle servicios a la institución financiera matriz y a las demás sociedades filiales o de apoyo al giro en las cuales participe su matriz".
 
 9.5.- Sanciones.
 
