@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 66, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas 2359, Rol 332-8 Santiago, aparente dominio Luis A. Calvo Romero, superficie aproximada a expropiar 467 m2. Deslindes: Norte, 14,25 mts. con resto predio; Sur. 14,25 mts. calle Agustinas; Oriente, 32,50 mts. con otro propietario y Poniente, 33,00 mts. otro propietario. Indemnización provisional $ 19.153.000.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde de Santiago.
