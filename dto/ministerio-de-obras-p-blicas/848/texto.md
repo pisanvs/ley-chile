@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 848, de 25 de junio de 1998, se expropiaron los lotes de terreno No. s. 8 y 50, superficies 501,60 y 490,60 m2. respectivamente, rol de avalúo 162-71, comuna de Licantén, para la obra Camino Curicó Iloca (Ruta J - 60), Sector Licantén - Puente Lautaro y se acordó precio de indemnización con su propietario Benjamín Guerra Devia, ascendente a la cantidad de $ 265.600.
+
+- Fiscal del Ministerio de Obras Públicas.
