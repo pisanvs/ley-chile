@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.510, de 29 de septiembre de 2000, se expropiaron los lotes de terreno Nºs. 10 y 14, superficies 1.418 m² y 2.274 m², roles de avalúo 154-49 y 154-26, comuna de Casablanca, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Enlace Zapata Poniente, Quinta Región y se acordó el valor de indemnización con su propietaria Bodegas y Viñedos Santa Emiliana S.A., ascendente a la cantidad total de $30.653.776.-
+
+Fiscal del Ministerio de Obras Públicas.
