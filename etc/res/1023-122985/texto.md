@@ -1,0 +1,3 @@
+Por resolución Nº 1.023, de 27 de julio de 1998, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 965 de 1998, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar la quinta etapa de la pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 98-01 denominado ''Monitoreo de las Capturas de Jurel en la Zona Centro-Sur'', en el sentido de modificar el límite máximo de captura (toneladas) autorizado para los armadores, según se indica a continuación: Aries S.A. Industrial (1.239) y Bahía Mansa S.A. Industrial (395).
+
+Valparaíso, 27 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
