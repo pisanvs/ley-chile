@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.790, de 30 de junio de 2000, se expropió el lote de terreno Nº 50-2, superficie 1.333 m², rol de avalúo 293-53, comuna de Frutillar, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Variante Casma, Décima Región y se acordó el valor de indemnización con su ropietario Santiago Torres Ancapán, ascendente a la cantidad de $5.497.660.-.
+
+Fiscal del Ministerio de Obras Públicas.
