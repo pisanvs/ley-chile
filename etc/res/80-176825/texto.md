@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 80, de 11 de agosto del año 2000, se aprobó la disolución voluntaria de la Cooperativa Agrícola y Ganadera O'Higgins ''Coopago'' Limitada, de Rancagua, que consta en la escritura pública suscrita con fecha 11 de abril del año 2000, ante el Notario Público de Rancagua, don Ernesto Paul Montoya Peredo.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
