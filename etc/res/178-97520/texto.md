@@ -1,0 +1,3 @@
+Por resolución Nº178, de 30 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº95103005, presentada por SALMONES MAINSTREAM FISHERIES LTDA., para operar un centro de cultivo en Sector Punta Huechuque, Canal Quicaví, comuna de Quemchi, provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 78 y 87 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 30 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
