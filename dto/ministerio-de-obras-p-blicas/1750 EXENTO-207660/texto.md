@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.750, de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº 70, superficie 26 m2, Rol Nº 285-84, comuna de San Fernando, VI Región, para la obra ''Camino San Fernando - Roma Rol I-301, I-255, I-151, Km. 0,000 a Km. 10,954.264'', y se acordó el valor de indemnización con su propietaria Emma Rafaela del C. Rivadeneira Monreal de Cuadra ascendente a la cantidad de $415.030.
+
+Fiscal del Ministerio de Obras Públicas.
