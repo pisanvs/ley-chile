@@ -1,0 +1,5 @@
+DECLARA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+Por Resolución No. 1.021 de 26 de Septiembre de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se declara la caducidad conforme con el artículo 7° del Decreto Supremo No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, de las siguientes autorizaciones: a) Resolución No. 268, de 1980, de esta Subsecretaría, que autorizó a Pesquera Huelmo Limitada, domiciliada en Puerto Montt, para instalar y operar un establecimiento de cultivo de Chorito en la localidad de Huelmo, Comuna de Puerto Montt. b) Resolución No. 28, de 1982, de esta Subsecretaría, que autorizó a Pesquera Huelmo Limitada, domiciliada en Puerto Montt, para ampliar actividades pesqueras de cultivo.
+
+Valparaíso, 26 de Septiembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
