@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.517 de fecha 29 de octubre de 2004, se expropió el lote de terreno Nº21, superficie 673 m², rol Nº418-31, comuna de Loncoche, IX Región, para la obra "Reposición Construcción y Habilitación de Caminos para Vialidad Complementaria Concesión Internacional Ruta 5 Sur, Tramo Temuco Río Bueno Puerto Montt, Camino Collimallín", y se acordó el valor de indemnización con su propietario Arnoldo Richard Vallejos Jofré, ascendente a la cantidad de $1.157.936.- para el lote Nº 21.
+
+Fiscal del Ministerio de Obras Públicas.
