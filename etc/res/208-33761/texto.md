@@ -1,0 +1,3 @@
+Por Resolución N° 208 de 12 de septiembre de 1994, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región, se adjudicó a don Néstor Ulises Peña Sobarzo, la concesión para operar hasta el día 2 de diciembre de 1998 a contar de la publicación del presente extracto, un establecimiento ubicado en calle Pérez Rosales N° 984, de la comuna de Paillaco, X Región, Rol de Propiedad 242, destinado a la revisión técnica y verificación de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Oscar Silva Ortiz, Secretario Regional Ministerial Transportes y Telecomunicaciones X Región.
