@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 397, de fecha 27 de febrero de 2004, se expropió el lote de terreno Nº 60-A, superficie 66,0 m2, Rol Nº 557-148, comuna de Linares, VII Región, para la obra "Camino Ruta L-45, Sector: Linares - Llepo, Tramo: Km. 2,750.2 a Km. 13,147" y se acordó el valor de indemnización con su propietaria Valentina Cerda Cerda, ascendente a la cantidad de $407.676.
+
+- Fiscal del Ministerio de Obras Públicas.
