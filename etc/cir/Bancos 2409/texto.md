@@ -7402,61 +7402,19 @@ General de Bancos.
 
 ### 12. Cesión de los mutuos
 
-Los mutuos de que tratan estas instrucciones serán transferibles mediante endoso
+Los mutuos de que tratan estas instrucciones serán transferibles mediante endoso escrito a continuación, al margen o al dorso de la copia autorizada de la escritura pública respectiva.
 
-escrito a continuación, al margen o al dorso de la copia autorizada de la
+La cesión del crédito implica el traspaso de las garantías, derechos y privilegios del acreedor.
 
-escritura pública respectiva.
+El endoso será siempre sin responsabilidad para el cedente, salvo en lo relativo a la existencia del crédito, y deberá contener el nombre completo o razón social de la institución endosataria, su domicilio, la fecha en que se haya extendido y la firma del cedente.
 
-La cesión del crédito implica el traspaso de las garantías, derechos y
+Para fines exclusivos de información, el endoso deberá anotarse al margen de la inscripción hipotecaria de la propiedad entregada en garantía, en el correspondiente registro del Conservador de Bienes Raíces.
 
-privilegios del acreedor.
+La venta de estos créditos se hará siempre por documentos completos, no pudiendo, por lo tanto, cederse participaciones sobre los mismos. Tampoco podrán venderse con pacto de retrocompra.
 
-El endoso será siempre sin responsabilidad para el cedente, salvo en lo relativo
+Podrán ser cesionarios de estos créditos los bancos, las sociedades financieras y otras entidades reguladas por leyes especiales que les permitan efectuar este tipo de inversiones. En este último caso, esta Superintendencia declara que cumplen este requisito las compañías de seguros del segundo grupo según la definición contenida en el artículo 8° del Decreto con Fuerza de Ley N° 251, de 1931 y sus modificaciones, y las sociedades a que se refiere el inciso tercero del artículo 21 bis de ese mismo cuerpo legal, siempre que se encuentren inscritas en el registro especial que llevará para estos efectos la Superintendencia de Valores y Seguros. Asimismo, conforme a lo dispuesto en el artículo 134 del D.L. N° 3.500, podrán ser cesionarias de los mutuos de que trata este Capítulo, las "sociedades anónimas inmobiliarias" a que se refiere el artículo 98, letra j) de dicho Decreto Ley.
 
-a la existencia del crédito, y deberá contener el nombre completo o razón social
-
-de la institución endosataria, su domicilio, la fecha en que se haya extendido y
-
-la firma del cedente.
-
-Para fines exclusivos de información, el endoso deberá anotarse al margen de la
-
-inscripción hipotecaria de la propiedad entregada en garantía, en el
-
-correspondiente registro del Conservador de Bienes Raíces.
-
-La venta de estos créditos se hará siempre por documentos completos, no
-
-pudiendo, por lo tanto, cederse participaciones sobre los mismos. Tampoco podrán
-
-venderse con pacto de retrocompra.
-
-Podrán ser cesionarios de estos créditos los bancos, las sociedades financieras
-
-y otras entidades reguladas por leyes especiales que les permitan efectuar este
-
-tipo de inversiones. En este último caso, esta Superintendencia declara que
-
-cumplen este requisito las compañías de seguros del segundo grupo según la
-
-definición contenida en el artículo 8° del Decreto con Fuerza de Ley N° 251, de
-
-1931 y sus modificaciones, y las sociedades a que se refiere el inciso tercero
-
-del artículo 21 bis de ese mismo cuerpo legal, siempre que se encuentren
-
-inscritas en el registro especial que llevará para estos efectos la
-
-Superintendencia de Valores y Seguros.
-
-En caso de que el cesionario no sea un banco o sociedad financiera, el crédito
-
-deberá quedar en cobranza en la institución financiera cedente, la que estará
-
-facultada para percibir los importes que correspondan y para alzar el gravamen,
-
-cuando proceda.
+En caso de que el cesionario no sea un banco o sociedad financiera, el crédito deberá quedar en cobranza en la institución financiera cedente, la que estará facultada para percibir los importes que correspondan y para alzar el gravamen, cuando proceda.
 
 ### 13. Numeración de los mutuos hipotecarios endosables
 
@@ -17685,6 +17643,8 @@ iv) bonos de empresas públicas y privadas inscritos en el Registro de Valores.
 Al tratarse de documentos emitidos por la propia institución financiera que los recibe en garantía, sólo podrán considerarse para efectos de márgenes, si su fecha de emisión es anterior en, a lo menos, treinta días a la fecha de concesión o de renovación del crédito que garanticen. Para estos efectos se entenderá que también cumplen el requisito de plazo mencionado, los documentos emitidos con motivo de la renovación de un depósito a plazo fijo o renovable, aun cuando no hayan transcurrido 30 días desde esa fecha, siempre que el depósito original haya sido emitido a lo menos 30 días antes de la fecha de otorgamiento o renovación del crédito caucionado y que el monto que se compute como garantía no exceda del importe del depósito que se renueva, incluidos los intereses y, cuando proceda, los reajustes capitalizados.
 
 Las acciones, al no ser instrumentos de renta fija, no sirven como garantías para efectos de límite. Tampoco pueden considerarse como garantía para estos efectos, los depósitos en cuentas de ahorro, ya que la libreta en que consta su saldo no es un título de crédito.
+
+Los documentos que sirven de garantía para efectos del límite según lo referido en este número son los que, por si mismos, cumplen los requisitos señalados por la ley. En cambio, si esos documentos no están clasificados en A o B, sea porque lo están en una categoría diferente o porque no se encuentran sujetos a clasificación según lo señalado anteriormente, no sirven como caución para efectos de límite, aun cuando el crédito que representen esté caucionado por garantías reales (ejemplo: mutuos hipotecarios endosables, bonos caucionados con hipoteca o prenda).
 
 ### 4. Documentos de embarque
 
