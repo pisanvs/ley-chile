@@ -1,0 +1,3 @@
+Por Resolución Nº 1.058, de 18 de julio de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las Resoluciones Nº 934 y Nº 1.383, ambas de 1989, de esta Subsecretaría, que autorizaron a PESQUERA MONTEMAR S.A., para operar y ampliar actividades pesqueras extractivas, respectivamente, con las naves "Bucalemu I" y "Bucalemu II"; en virtud de no haberse publicado oportunamente la primera Resolución, y la segunda por configurar la causal prevista en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 18 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
