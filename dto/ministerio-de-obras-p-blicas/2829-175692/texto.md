@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.829 de fecha 30 de junio de 2000, se expropió el lote de terreno Nº1, superficie 332 m2, Rol de avalúo 164-9, comuna de Tirúa, para la obra ''Camino Quidico - Capitán Pastene, Sector Puente La Guardia, Km. 0.000,00 a Km. 0,16000'' y se acordó el valor de indemnización con su propietaria Lía del Carmen Cárcamo Díaz, ascendente a la cantidad de $218.333.
+
+- Fiscal del Ministerio de Obras Pú-blicas.
