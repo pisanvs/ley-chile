@@ -1,0 +1,3 @@
+Por resolución N° 1.209 de 10 de Diciembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déja sin efecto parcialmente la Resolución N° 1195, de 1990, de esta Subsecretaría, respecto de la autorización otorgada a PESQUERA ISOLMAR S.A., R.U.T. N° 96.525.750-0, domiciliada en Parcela N° 48, Huertos de Chile, Santo Domingo, V Región, para realizar actividades pesqueras con la nave "Zorro", por renuncia de su titular.
+
+Valparaíso, 10 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
