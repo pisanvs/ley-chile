@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.835, de 31 de octubre del 2001, se expropió el lote de terreno Nº1-1, superficie 958 m2., rol de avalúo 230-116, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5, Tramo: Santiago-Talca Sector J: Kms. 151.500,00 al 161.650,00, Sexta Región y se acordó el valor de indemnización con su propietario Juan Carlos Ahumada Cabello, ascendente a la cantidad de $2.871.904.
+
+- Fiscal del Ministerio de Obras Públicas.
