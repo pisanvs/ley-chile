@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 270, de 24 de mayo de 1995, se expropió el lote de terreno N° 11, superficie 18.444 m2., rol de avalúo 1601-49, comuna de Santo Domingo, para la obra Camino San Fernando San Antonio, sector Límite Regional Retén Atalaya y se acordó precio de indemnización con su propietaria María Pía Blanco Errázuriz, ascendente a la cantidad de $4.413.649.
+
+Fiscal del Ministerio de Obras Públicas.
