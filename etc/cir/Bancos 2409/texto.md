@@ -4480,159 +4480,49 @@ resultados, de la primera reunión de cámara.
 
 8.1.1. Canje de la plaza.
 
-Los documentos a cargo de otras instituciones financieras de la plaza cuyo cobro
+Los documentos a cargo de otras instituciones financieras de la plaza cuyo cobro se efectúe por intermedio de la Cámara de Compensación deben registrarse en la cuenta "Canje de la Plaza", de la partida 1015 del formulario MB1. Dicha cuenta se cargará por el valor de los documentos que se presenten a cobro en las distintas reuniones de cámara, y se abonará por los documentos recibidos de otras instituciones financieras en esas mismas reuniones.
 
-se efectúe por intermedio de la Cámara de Compensación deben registrarse en la
+El saldo, deudor o acreedor de la cuenta "Canje de la Plaza", al término de cada ciclo de reuniones de la Cámara de Compensación, representará el débito o crédito que registrará la cuenta corriente de la entidad en el Banco Central de Chile. Por lo tanto, una vez cursados los cargos o abonos que correspondan a la cuenta "Banco Central de Chile", la cuenta "Canje" debe quedar saldada.
 
-cuenta "Canje de la Plaza", de la partida 1015 del formulario MB1. Dicha cuenta
+El saldo de la cuenta "Canje de la Plaza" es deducible de las obligaciones a la vista para efectos de encaje; por este motivo, no se pueden mantener en esta cuenta valores que, por cualquier circunstancia, resulten rechazados al operar el canje. Dichos valores deben cargarse a la cuenta en que el cliente los haya depositado, o bien, a la cuenta de origen o a la partida "Varios deudores". En cualquier caso, el cliente afectado debe ser avisado de inmediato acerca de la devolución del documento de que se trate.
 
-se cargará por el valor de los documentos que se presenten a cobro en las
+No obstante lo anteriormente expresado, las instituciones bancarias pueden admitir el redepósito de cheques protestados y repetir en canje documentos que hayan sido devueltos por cualquier motivo, posteriormente solucionado.
 
-distintas reuniones de cámara, y se abonará por los documentos recibidos de
+Los cargos que se efectúen a la cuenta "Canje de la Plaza" no pueden comprender en ningún caso, valores girados contra la propia institución, contra sus corresponsales o a cargo de sus propias oficinas.
 
-otras instituciones financieras en esas mismas reuniones.
-
-El saldo, deudor o acreedor de la cuenta "Canje de la Plaza", al término de cada
-
-ciclo de reuniones de la Cámara de Compensación, representará el débito o
-
-crédito que registrará la cuenta corriente de la entidad en el Banco Central de
-
-Chile. Por lo tanto, una vez cursados los cargos o abonos que correspondan a la
-
-cuenta "Banco Central de Chile", la cuenta "Canje" debe quedar saldada.
-
-El saldo de la cuenta "Canje de la Plaza" es deducible de las obligaciones a la
-
-vista para efectos de encaje; por este motivo, no se pueden mantener en esta
-
-cuenta valores que, por cualquier circunstancia, resulten rechazados al operar
-
-el canje. Dichos valores deben cargarse a la cuenta en que el cliente los haya
-
-depositado, o bien, a la cuenta de origen o a la partida "Varios deudores". En
-
-cualquier caso, el cliente afectado debe ser avisado de inmediato acerca de la
-
-devolución del documento de que se trate.
-
-No obstante lo anteriormente expresado, las instituciones bancarias pueden
-
-admitir el redepósito de cheques protestados y repetir en canje documentos que
-
-hayan sido devueltos por cualquier motivo, posteriormente solucionado.
-
-Los cargos que se efectúen a la cuenta "Canje de la Plaza" no pueden comprender
-
-en ningún caso, valores girados contra la propia institución, contra sus
-
-corresponsales o a cargo de sus propias oficinas.
-
-Los documentos recibidos de otras oficinas del mismo banco, ubicadas en otras
-
-plazas, para su cobro en la cámara local, deben cargarse a la cuenta "Canje no
-
-deducible", puesto que dichos documentos ya cumplieron su período de deducción
-
-en la oficina remitente.
+Los documentos recibidos de otras oficinas del mismo banco, ubicadas en otras plazas, para su cobro en la cámara local, deben cargarse a la cuenta "Canje no deducible", puesto que dichos documentos ya cumplieron su período de deducción en la oficina remitente.
 
 8.1.2. Canje de documentos sobre otras plazas.
 
-Los cheques y otros documentos, a cargo de otros bancos, pagaderos en plazas en
+Los cheques y otros documentos a cargo de otros bancos pagaderos en otras plazas, deben cargarse a la cuenta "Canje de otras plazas", de la partida 1015 del MB1.
 
-que la institución financiera no tenga sucursales, deben cargarse a la cuenta
+Los valores registrados en la cuenta señalada precedentemente son deducibles delas obligaciones afectas a encaje por el lapso de dos días.
 
-"Canje de Otras Plazas", de la partida 1015 del formulario MB1.
-
-Los valores registrados en la cuenta señalada precedentemente son deducibles
-
-delas obligaciones afectas a encaje por el lapso de dos días.
-
-Los cheques y documentos de plazas que pertenezcan a una misma agrupación deben
-
-considerarse, para estos efectos, como documentos de la misma plaza y, por lo
-
-tanto, no cabe su imputación a la cuenta "Canje de otras Plazas".
+Los cheques y documentos de plazas que pertenezcan a una misma agrupación deben considerarse, para estos efectos, como documentos de la misma plaza y, por lo tanto, no cabe su imputación a la cuenta "Canje de otras Plazas".
 
 8.2. Pago de cheques presentados en canje.
 
-Los bancos están obligados a cursar o rechazar los cheques presentados en canje,
-
-sobre la base de los saldos con que hayan cerrado las cuentas respectivas en el
-
-día anterior, prescindiendo de los depósitos que reciban el mismo día.
+Los bancos están obligados a cursar o rechazar los cheques presentados en canje, sobre la base de los saldos con que hayan cerrado las cuentas respectivas en el día anterior, prescindiendo de los depósitos que reciban el mismo día.
 
 Al efecto, deben operar de la siguiente manera:
 
-a) Los cheques recibidos en la primera cámara se contabilizarán por su monto
+a) Los cheques recibidos en la primera cámara se contabilizarán por su monto total tan pronto se inicien las operaciones del día hábil bancario siguiente, con cargo a la cuenta "Acreedores en Cuentas Corrientes" y abono a la cuenta "Canje de la Plaza";
 
-total tan pronto se inicien las operaciones del día hábil bancario siguiente,
+b) Antes del movimiento de depósitos y pago de cheques del día, se registrarán los cheques recibidos del canje en las cuentas individuales de los clientes. Para tal efecto, como ya se expresó, no se pueden considerar los depósitos recibidos ese mismo día, sino los saldos con que las cuentas cerraron el día anterior;
 
-con cargo a la cuenta "Acreedores en Cuentas Corrientes" y abono a la cuenta
+c) Por el total de los cheques rechazados se cursará un cargo a la cuenta "Canje de la Plaza" con abono a la cuenta "Acreedores en Cuenta Corriente", de manera que esta última cuenta registre el valor de los cheques efectivamente cargados en las cuentas individuales;
 
-"Canje de la Plaza";
-
-b) Antes del movimiento de depósitos y pago de cheques del día, se registrarán
-
-los cheques recibidos del canje en las cuentas individuales de los clientes.Para
-
-tal efecto, como ya se expresó, no se pueden considerar los depósitos recibidos
-
-ese mismo día, sino los saldos con que las cuentas cerraron el día anterior;
-
-c) Por el total de los cheques rechazados se cursará un cargo a la cuenta "Canje
-
-de la Plaza" con abono a la cuenta "Acreedores en Cuenta Corriente", de manera
-
-que esta última cuenta registre el valor de los cheques efectivamente cargados
-
-en las cuentas individuales;
-
-d) Todos los cheques compensados en la cámara deberán asentarse en las cuentas
-
-de los clientes con un código que permita identificar fácilmente su procedencia;
+d) Todos los cheques compensados en la cámara deberán asentarse en las cuentas de los clientes con un código que permita identificar fácilmente su procedencia;
 
 y,
 
-e) Los bancos están facultados para realizar traspasos de fondos destinados a
-
-cubrir eventuales sobregiros cuando las otras cuentas corrientes del mismo
-
-titular o de terceros, tengan fondos suficientes para compensar el exceso y sean
-
-susceptibles de traspasarse a la cuenta rebasada, siempre que exista una
-
-autorización escrita del cuenta correntista que le permita al banco realizar
-
-esta clase de traspasos. La obligatoriedad de que existan fondos suficientes y
-
-susceptibles de ser traspasados, debe entenderse respecto de los saldos con que
-
-esas cuentas hayan cerrado en el día anterior.
+e) Los bancos están facultados para realizar traspasos de fondos destinados a cubrir eventuales sobregiros cuando las otras cuentas corrientes del mismo titular o de terceros, tengan fondos suficientes para compensar el exceso y sean susceptibles de traspasarse a la cuenta rebasada, siempre que exista una autorización escrita del cuenta correntista que le permita al banco realizar esta clase de traspasos. La obligatoriedad de que existan fondos suficientes y susceptibles de ser traspasados, debe entenderse respecto de los saldos con que esas cuentas hayan cerrado en el día anterior.
 
 8.3. Contabilización de las devoluciones de canje.
 
-Los documentos devueltos por los bancos librados por falta de fondos o por otros
+Los documentos devueltos por los bancos librados por falta de fondos o por otros motivos, deben cargarse directamente a las cuentas de las personas a quienes hubieren sido antes acreditadas las respectivas cantidades, con abono a la cuenta "Canje". Simultáneamente con proceder al cargo mencionado, debe darse aviso al depositante.
 
-motivos, deben cargarse directamente a las cuentas de las personas a quienes
-
-hubieren sido antes acreditadas las respectivas cantidades, con abono a la
-
-cuenta "Canje". Simultáneamente con proceder al cargo mencionado, debe darse
-
-aviso al depositante.
-
-Si el cheque devuelto ha sido entregado por una persona que no mantiene cuenta
-
-corriente o de ahorro con la institución financiera, como puede ocurrir, por
-
-ejemplo, en el pago de letras, en la emisión de certificados de depósito o en
-
-otras operaciones, se debitará transitoriamente el valor a la cuenta "Varios
-
-Deudores", mientras se obtiene la sustitución del documento por otro o el pago
-
-de la suma adeudada.
+Si el cheque devuelto ha sido entregado por una persona que no mantiene cuenta corriente o de ahorro con la institución financiera, como puede ocurrir, por ejemplo, en el pago de letras, en la emisión de certificados de depósito o en otras operaciones, se debitará transitoriamente el valor a la cuenta "Varios Deudores", mientras se obtiene la sustitución del documento por otro o el pago de la suma adeudada.
 
 ANEXO N° 1
 
