@@ -1,0 +1,5 @@
+ADJUDICA CONCESION PARA OPERAR ESTABLECIMIENTO DE REVISION TECNICA EN PORVENIR
+
+Por resolución exenta Nº 44, de fecha 22 de junio de 1999, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la XII Región, se adjudicó a Luis Armando Muñoz Muñoz, la concesión para operar, por un plazo de 5 (cinco) años, a contar de la publicación del presente extracto, un establecimiento ubicado en calle Esmeralda Nº 982 de la comuna de Porvenir, destinado a la revisión técnica y verificación de emisión de contaminantes que se señalan en el inciso primero del artículo 7º del decreto supremo Nº 156/90, siempre que los mismos estén dotados de motor encendido por chispa o se trate de remolques y semirremolques, y del inciso segundo del mismo artículo y decreto señalados precedentemente, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Dante Fernández Barría, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la XII Región.
