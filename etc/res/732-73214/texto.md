@@ -1,0 +1,3 @@
+Por Resolución Nº 732, de 26 de mayo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de reposición presentada por SOCIEDAD PESQUERA SAN ANTONIO S.A., respecto de la Resolución Nº 1984, de 1996, que declaró la caducidad parcial de la Resolución Nº 1046, de 1993, ambas de esta Subsecretaría, en virtud de lo dispuesto en el informe y disposiciones legales.
+
+Valparaíso, 26 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
