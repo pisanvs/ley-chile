@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 250, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 3, Canal Relbún Ramal Nº 1 y 3, Canal Relbún Ramal Nº 2, superficies 1.590 y 408 m2., rol de avalúo 160-80, comuna de Pemuco, para la obra Proyecto Laja Diguillín, Area de Riego Pemuco, y se acordó precio de indemnización con su propietaria Rosario Villa Ponti, ascendente a la cantidad de $589.988.-
+
+Fiscal del Ministerio de Obras Públicas.
