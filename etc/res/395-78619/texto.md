@@ -1,0 +1,5 @@
+Por Resolución No. 395, de 07 de Mayo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a AQUASUR FISHERIES SOCIEDAD PESQUERA LIMITADA, R.U.T. No. 79.728.530-7, domiciliada en Camino Chinquihue, Km. 7, Puerto Montt, para ampliar actividades pesqueras de transformación que tiene autorizadas por Resoluciones No. 1246 y No. 1440, ambas de 1987, de esta Subsecretaría, en orden a operar una planta industrial, ubicada en Camino Chinquihue, Km. 7, Puerto Montt, donde procesará en las líneas de elaboración de congelado y fresco-enfriado, los siguientes recursos hidrobiológicos: Bonito, Caballa, Cabrilla común, Cazón, Chancharro, Cojinoba del sur, Corvina, Lenguado de ojos chicos, Lenguado de ojos grandes, Lisa, Machuelo o tritre, Merluza de cola, Merluza de tres aletas, Palometa, Puye y Róbalo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 07 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
