@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Por resolución Nº188, de 30 de septiembre de 1999, de Serviu Región de Coquimbo, se ordenó expropiación, conforme art. 51 ley 16.391 y D.L. 2.186 de 1978, de parte del inmueble ubicado en calle Amunátegui Nº429 presunto Rol de avalúo 162-010 comuna de La Serena, aparente dominio doña Rosa E. Díaz P., de una superficie aproximada de 51,196 metros cuadrados. Comisión Peritos integrada por don Patricio Mena López, Alfredo Prieto Parra y doña Iris Marcich Moller, arquitectos, según informe de 14 de septiembre de 1999, fijó monto provisional indemnización en $2.675.405 pagadera al contado.-
+
+Director Serviu Región de Coquimbo.
