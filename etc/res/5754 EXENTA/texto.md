@@ -1,0 +1,5 @@
+Resolución N° Ex. 5.754, de 21 Octubre de 1993, que reemplaza el párrafo primero del dispositivo N° 2 de la Resolución N° Ex. 3664, de 15 de Junio de 1993, publicada en el Diario Oficial del día 17 del mismo mes y año, por el siguiente: "Dispónese, el cambio total del mismo sujeto a los adquirentes definidos en el dispositivo anterior, en todas las ventas de especies hidrobiológicas señaladas, en estado de frescos y naturales, o bien mantenidas en hielo o con otras técnicas para preservar meramente dicho estado, o congeladas, o en conservas o en cualquier otro estado, que les efectúen vendedores que, al momento de la venta, no entreguen guías o facturas, o que, por efecto de la fiscalización del Servicio de Impuestos Internos, se encuentren figurando en nóminas de contribuyentes cuestionados o bloqueados por considerárseles como de difícil fiscalización".
+
+La presente Resolución entrará en vigencia el primer día del mes siguiente al de su publicación, en extracto, en el Diario Oficial.-
+
+Javier Etcheberry Celhay, Director.
