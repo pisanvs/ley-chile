@@ -1,0 +1,3 @@
+Por Resolución No. 1.110, de 02 de Septiembre de 1991.- de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, derógase la Resolución No. 890 de 1987, de esta Subsecretaría, por la cual se autorizó a don JOSE AGUILAR ASCENCIO, R.U.T. No. 4.684.713-K, domiciliado en Chiloé, para operar un establecimiento de cultivo de algas Gracilarias, en un sector de Estero de Yaldad, Comuna de Quellón, Provincia de Chiloé, Xa. Región, por renuncia de su titular.
+
+Valparaíso, 02 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
