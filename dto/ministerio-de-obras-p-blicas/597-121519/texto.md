@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 597, de 30 de abril de 1998, se expropiaron los lotes de terreno Nº s. 101 y 127, superficies 1.097 y 2.439 m2., respectivamente, roles de avalúo 529-94 y 529-276, comuna de Cauquenes, para la obra Camino Cauquenes-Límite Regional-Quirihue, Sector Cauquenes-Límite Regional y se acordó precio de indemnización con su propietario Ignacio Eulufi Candia, ascendente a la cantidad de $ 1.096.341.-
+
+Fiscal del Ministerio de Obras Públicas.
