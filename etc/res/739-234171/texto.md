@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 739, 9 diciembre 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº612, Villa Leonera, Rol de Avalúo Nº3236-2 comuna Chiguayante, superficie 387,50 metros cuadrados de terreno y 73,14 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.228 M; de aparente dominio de Sucesión Isaias Salas Molina, para ejecución programa ''Mejoramiento Vial Eje O'Higgins de Chiguayante'', conforme artículo 51 Ley 16.391 y D.L. Nº 2186. Comisión Peritos integrada por Henán Cáceres Moscoso, ingeniero civil, Miguel Bonifetti Dall'Orso, arquitecto y Mario Bellolio Bosticca, arquitecto, según informe de fecha 18 de noviembre de 2004, fijó monto provisional indemnización en $15.268.850, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
