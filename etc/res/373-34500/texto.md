@@ -1,0 +1,7 @@
+Por Resolución N° 373 de 14 de Abril de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don MANUEL MIRANDA DIAZ, R.U.T. N° 5.726.913-8, para iniciar actividades pesqueras de transformación, en orden a operar una planta industrial ubicada en la X Región, Camino a Yaldad, Km 6 Quellón, Chiloé, donde procesará en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos; Congelado, fresco, cocido, ahumado y conserva: Congrio colorado, Congrio dorado, Corvina, Merluza común, Merluza del sur, Pejerrey de mar, Róbalo, Salmón del atlántico, Salmón plateado, Sardina común, Almeja o taca, Almeja y Calamar.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de cuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Déjase sin efecto la Resolución N° 156, de 1994, de esta Subsecretaría, que autorizó a don Manuel Miranda Díaz, R.U.T. N° 5.726.913-8, para iniciar operaciones en virtud de lo dispuesto en el artículo 6° del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Recosntrucción.
+
+Valparaíso, 14 de Abril de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
