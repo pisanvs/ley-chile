@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.988, de fecha 31 de agosto del 2000, se expropió el lote de terreno Nº 60, superficie 1.050 m², rol de avalúo 1015-002, comuna de Natales, para la obra ''Habilitación y Construcción Regadío Huertos Familiares Puerto Natales, II Etapa'' y se acordó el valor de indemnización con su propietario Rubén Darío Subiabre Heimerl, ascendente a la cantidad de $862.924.
+
+- Fiscal del Ministerio de Obras Públicas.
