@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD ANDRES DE LA VEGA PROESTAKIS LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por Resolución N° 835 de 16 de Diciembre de 1985 de la Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la "Sociedad Andrés de la Vega Proestakis Limitada", domiciliada en Arica, para operar la embarcación actualmente en construcción denominada Arkhos, en el litoral comprendido entre la I y la III Región en labores extractivas de los recursos que se señalan los que deber destinar a consumo humano, y para lo cual deber contar a bordo de la nave con sistemas adecuados de preservación de la materia prima: jurel, cojinova, atún, bonito, roncador, jibia, calamar, pejerrey, lisa, sardina española y caballa.
+
+Valparaíso, 16 de Diciembre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
