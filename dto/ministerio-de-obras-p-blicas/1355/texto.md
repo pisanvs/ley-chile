@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.355, de 31 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP. No. 850, de 1997, que fijó el texto actualizado de la Ley No. 15.840, de 1964 y del DFL MOP.
+
+No. 206, 1960, se expropió el lote de terreno No. 223-1, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Km. 219.400 al 220.000, que figura a nombre de Collantes Caldera Eduardo, rol de avalúo 247-5, Comuna de Los Vilos, IV Región, superficie 14.328 m2 . La Comisión de Peritos compuesta por los señores María Iris Marcich Moller y Elisa Mercedes Tapia Fernández y el señor Juan Agustín Ibáñez Palma, fijó con fecha 26 de junio de 1998, el valor provisional de la indemnización en la cantidad de $ 37.415.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
