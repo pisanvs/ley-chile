@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.592, de 29 de septiembre de 2000, se expropió el lote de terreno Nº12, superficie 1.906,2 M2., rol de avalúo 360-29, comuna de Constitución, para la obra Camino M-24-K Quivolgo-Puente Lautaro, Sector B, La Trinchera-Putú (Variante Costera) Km. 13,240 a Km. 30,000 y se acordó precio de la indemnización con su propietario Patricio Hernán Guerrero González, ascendente a la cantidad de $7.823.613.-
+
+Fiscal del Ministerio de Obras Públicas.
