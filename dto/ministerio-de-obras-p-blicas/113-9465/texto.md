@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 113, de fecha 31 de marzo de 1994, se expropiaron los lotes de terreno N°s 1-B, 4 y 5-B, superficies 14.516 M2., 1.880 M2. y 16.480 M2., rol de avalúo 101-101, Comuna de Pencahue, para la obra Regadío Pencahue, Canales Quepo; Oriente Extrapredial Saque 2 y Oriente, por el cual se fijó precio de indemnización con su propietaria Guacolda Andrades A., ascendente a la cantidad de $836.089.
+
+Fiscal del Ministerio de Obras Públicas.
