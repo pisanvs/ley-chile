@@ -1,0 +1,3 @@
+EXTRACTO DE DECRETO ALCALDICIO Nº1.619, DE 2000
+
+Por decreto alcaldicio Nº1.619 de fecha 8 de junio de 2000, suscrito por el Alcalde de la comuna de Tomé, se ordena la expropiación del bien raíz ubicado en la localidad de Dichato, calle República, inscrito a fojas 89 Nº54 del Registro de Propiedad del Conservador de Bienes Raíces de Tomé, año 1981 y fija el monto provisional de la indemnización en la suma de $24.375.000.- (veinticuatro millones trescientos setenta y cinco mil pesos m/n), de acuerdo a la tasación determinada por la comisión de peritos y en conformidad a lo establecido en el decreto ley Nº2.186 de 1978 que aprueba la Ley Orgánica de Procedimiento de Expropiaciones.
