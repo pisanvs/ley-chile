@@ -7166,55 +7166,73 @@ c) Lineas de crédito y sobregiros pactados.
 
 La tasa máxima que se puede cobrar por los créditos que se originen por una línea de crédito previamente pactada, como asimismo por aquellos otorgados en la forma de sobregiros pactados en cuenta corriente, se establecerá en función del tiempo que se hubiere pactado para hacer uso de la línea o sobregirar la cuenta corriente, y del monto máximo autorizado.
 
-7. - Prohibición de recargar los intereses con comisiones, derechos, gastos u otras prestaciones.
+7.- Recargo de los intereses pactados con comisiones u otros importes recibidos a cualquier título.
 
-7.1.- Disposiciones generales.
+7.1.- Tasa efectiva de los créditos.
 
-El texto del artículo 2° de la Ley N° 18.010 expresa lo que sigue:
+7.1.1.- Disposiciones generales.
 
-"En las operaciones de crédito de dinero no reajustables, constituye interés toda suma que recibe o tiene derecho a recibir el acreedor, a cualquier título, por sobre el capital."
+El texto del artículo 2° de la Ley N°18.010 expresa lo que sigue:
 
-"En las operaciones de crédito reajustables, constituye interés toda suma que recibe o tiene derecho a recibir el acreedor por sobre el capital reajustado."
+"En las operaciones de crédito de dinero no reajustables, constituye interés toda suma que recibe o tiene derecho a recibir el acreedor, a cualquier título, por sobre el capital.
 
-"En ningún caso, constituyen intereses las costas personales ni las procesales."
+En las operaciones de crédito reajustables, constituye interés toda suma que recibe o tiene derecho a recibir el acreedor por sobre el capital reajustado.
 
-En virtud de la disposición transcrita, debe entenderse que los costos propios de la gestión crediticia, tales como: informes comerciales, verificación de domicilio, gastos de tramitación, comisiones, franqueo y otros similares, constituyen intereses. Por lo tanto, las instituciones financieras deberán incluir dichos costos en la tasa de interés que publiquen y pacten con sus clientes, absteniéndose de cobrar adicionalmente importe alguno que no sea pura y simplemente la resultante de la aplicación de la tasa de interés que se estipule en cada caso y el relativo a la devolución del capital, debidamente reajustado cuando corresponda.
+En ningún caso, constituyen intereses las costas personales ni las procesales."
 
-Lo anterior no es óbice para que las instituciones financieras cobren la correspondiente comisión cuando se trate de préstamos otorgados en letras de crédito, debido a que éstos se rigen en esta materia por las normas de la Ley General de Bancos.
+De acuerdo con lo anterior, las instituciones financieras que otorguen créditos que contemplen el pago de importes adicionales a la sola devolución del capital más sus reajustes e intereses devengados, deberán determinar la tasa efectiva del crédito, considerando todos los pagos que el deudor debe realizar, incluyendo aquellos que se pudieren efectuar bajo la forma de comisiones o por otros conceptos, tales como gastos por obtención de informes comerciales, verificación de domicilio, gastos de tramitación u otros cargos que impliquen de hecho pagar un mayor precio por el dinero prestado.
 
-Tampoco existe inconveniente para que las instituciones financieras cobren comisión en aquellos actos complejos en que se presta un servicio bancario complementario o diferente de la operación de crédito de dinero, en que el banco no actúa sólo en calidad de prestamista y las comisiones claramente no constituyen un recargo de la obligación que asume el deudor por un préstamo recibido. Así ocurre, por ejemplo, con las comisiones cobradas por: apertura o mantención de líneas de crédito asociadas a cuentas corrientes; apertura o mantención de líneas de crédito asociadas a cuentas a la vista cuando existe un convenio entre la institución depositarla y un empleador para pagar los sueldos de sus titulares mediante abono a dichas cuentas; apertura, manejo y negociación de cartas de crédito; emisión de boletas de garantía; gestión de cobranza de letras de cambio u otros documentos que hayan sido endosados en garantía de créditos y otros servicios similares.
+Quedan excluidos del cálculo de la tasa efectiva solamente los siguientes importes de cargo del deudor:
 
-Asimismo, las entidades financieras pueden cobrar separadamente los importes que correspondan a recuperaciones de gastos que se efectúen por cuenta del deudor, como es el caso de tasaciones, impuestos, gastos notariales, seguros o inscripciones en el Conservador de Bienes Raíces.
-
-7.2.- Situación de los créditos de consumo en relación con la prohibición de recargar los intereses.
-
-7.2.1.- Cobros por prestación de servicios conexos.
-
-Cualquier servicio que se asocie a un préstamo de consumo u otros con características o finalidades similares, constituye solamente una modalidad para su otorgamiento y no un servicio bancario distinto, por lo que no corresponde cobrar adicionalmente comisiones por actos complejos.
-
-En consecuencia, si la institución financiera contempla el cobro de importes bajo la forma de comisiones o recuperaciones de gastos, deberá incluir todos esos cobros en el desarrollo del crédito, pactando la tasa de interés que, aplicada sobre los capitales insolutos, determinen todos los pagos por amortizaciones e intereses a los que queda obligado el deudor, cualesquiera sean las denominaciones que dichos pagos pudieren recibir.
-
-En lo que se refiere al cobro de comisiones por líneas de crédito, lo anterior implica que las instituciones financieras no podrán cobrar comisión alguna por lineas de crédito rotativas ("revolving"), debiendo solamente cobrar los intereses por los montos efectivamente utilizados.
-
-Debe entenderse, además, que las presentes instrucciones no comprenden los créditos de consumo que se originan en el uso de las tarjetas de crédito autorizadas por el Banco Central de Chile, las que, en materia de comisiones, se encuentran reguladas por sus propias normas.
-
-7.2.2.- Importes que por concepto de gastos se pueden cobrar en el caso de los créditos de consumo.
-
-En relación con lo señalado en los numerales precedentes, cuando se trata de créditos de consumo u otros similares, las instituciones financieras solamente podrán cobrar los siguientes conceptos adicionales al capital con sus intereses y reajustes, en su caso:
-
-a) Impuestos de timbres y estampillas.
+a) Impuesto de timbres y estampillas.
 
 b) Gastos notariales.
 
-c) Gastos inherentes a bienes recibidos en garantía, esto es: por tasaciones; por inscripción o registro de prendas o hipotecas; y, por primas de seguros sobre tales bienes, cuando proceda.
+c) Gastos inherentes a bienes recibidos en garantía, esto es, los incurridos para la tasación de los bienes, los conducentes a la inscripción o registro de prendas o hipotecas, incluido el estudio de títulos y redacción de escrituras, y el pago de las primas de seguros sobre tales bienes.
+
+d) Pagos de las primas de seguros de desgravamen y de cesantía relativos al crédito, cuando se trate de operaciones diferentes a créditos de consumo o similares en que no se pueden exigir tales seguros como condición para el crédito.
+
+La obligación de considerar las comisiones para calcular los intereses efectivos de un crédito, no comprende aquellas comisiones que las instituciones financieras cobren por actos complejos en que se presta un servicio bancario complementario o diferente de la operación de crédito de dinero. En estos casos en que el banco no actúa sólo en calidad de prestamista, las comisiones no constituyen un recargo de la obligación que asume el deudor por un préstamo recibido, sino una remuneración por un servicio que por su naturaleza puede estar ligado a un crédito. Así ocurre, por ejemplo, con las comisiones cobradas por: apertura o mantención de líneas de crédito asociadas a cuentas corrientes; apertura o mantención de líneas de crédito asociadas a cuentas a la vista cuando existe un convenio entre la institución depositaría y un empleador para pagar los sueldos de sus titulares mediante abono a dichas cuentas; apertura y manejo de cartas de crédito; emisión de boletas de garantía; gestión de cobranza de letras de cambio u otros documentos que hayan sido endosados en garantía de créditos, y otros servicios propios de las entidades bancarias.
+
+7.1.2.- Cálculo y aplicación de las tasas efectivas
+
+La tasa efectiva del crédito debe obtenerse siempre considerando el interés de cobro vencido, incorporando todos los flujos relacionados con la operación.
+
+Para mayor claridad, se entregan los siguientes ejemplos en relación con las tasas y condiciones contractuales de los créditos:
+
+Ejemplo 1:
+
+Si se pacta un crédito por $ 100.000 con una tasa de un 2,0% mensual, pagadero en 12 cuotas mensuales de $ 9.456 cada una, y además el cobro de una comisión por $ 12.000 que se paga distribuida en cuotas iguales de $ 1.000 junto con cada cuota del crédito que consta en el instrumento, el crédito efectivo será de $ 100.000, con flujos fijos de $ 10.456, lo que determina una tasa efectiva del 3,7%.
+
+Ejemplo 2:
+
+Si se pacta un crédito por $ 112.000 con un 2,0 % mensual de interés y pagadero en 12 cuotas mensuales de $ 10.591 cada una, que incluye una comisión por $12.000 que se descuenta al momento de otorgar el crédito, el crédito efectivo será de $ 100.000, con flujos equivalentes a las cuotas pactadas en el instrumento, lo que determina una tasa efectiva del 3,9 %.
+
+La posibilidad de efectuar las operaciones en el caso de créditos sujetos al límite del interés máximo convencional, dependerá de la magnitud de su tasa efectiva, no pudiendo ésta en ningún caso superar el interés máximo convencional que sea aplicable.
+
+Las disposiciones relativas a la tasa efectiva de que se trata, se refieren sólo a aquellos casos en que una institución financiera opta por pactar créditos cobrando importes adicionales a los que resultan de las condiciones contractuales relativas a la devolución del capital y el pago de reajustes e intereses. En esos casos, las instituciones deberán considerar los valores efectivos para todos los efectos, debiendo en consecuencia considerar la tasa efectiva para el cumplimiento del interés máximo convencional y para informar al público acerca de las tasas cobradas, y registrar contablemente el valor efectivo de cada colocación y el ingreso por el interés efectivo devengado.
+
+La opción de cobrar aquellos importes adicionales es sin perjuicio de las normas que expresamente los impiden, como ocurre con los préstamos en letras de crédito o con los mutuos hipotecarios endosables, casos en que no procede cobrar al deudor otros conceptos que no sean los que se permiten en las respectivas instrucciones.
+
+7.2.- Situación de los créditos de consumo en relación con la tasa efectiva y el cobro de importes adicionales.
+
+7.2.1.- Cobros por prestación de servicios conexos.
+
+Cualquier servicio que se asocie a un préstamo de consumo u otros con características o finalidades similares, constituye solamente una modalidad para su otorgamiento y no un servicio bancario distinto, por lo que no procede excluir del cálculo de la tasa efectiva el cobro de comisiones al amparo de lo precisado en el último párrafo del numeral 7.1.1 de este título, salvo que se trate de comisiones por las líneas de crédito que cumplan las condiciones que en ese párrafo se mencionan expresamente.
+
+Las presentes instrucciones no comprenden los créditos de consumo que se originan en el uso de las tarjetas de crédito autorizadas por el Banco Central de Chile, las que, en materia de comisiones, se encuentran reguladas por sus propias normas.
+
+7.2.2.- Importes que por concepto de gastos se pueden cobrar en el caso de los créditos de consumo.
+
+Cuando se trate de créditos de consumo u otros similares, además de las excepciones ya indicadas en el numeral 7.2.1 precedente, las instituciones financieras solamente podrán cobrar sin incorporar los respectivos importes al cálculo de los intereses efectivos de la operación, los conceptos señalados en las letras a), b) y c) del penúltimo párrafo del numeral 7.1 1.
 
 7.2.3.- Seguros asociados a créditos de consumo.
 
-Las instituciones financieras no podrán establecer la contratación de seguros como condición para otorgar los créditos. Ello no obsta, naturalmente, para que el deudor tome voluntariamente los seguros que desee, financiándolos con el crédito.
+Las instituciones financieras no podrán establecer la contratación de seguros como condición para otorgar los créditos de consumo. Ello no obsta, naturalmente, para que el deudor tome voluntariamente los seguros que desee, financiándolos con el crédito.
 
-En concordancia con lo señalado en los numerales precedentes, las instituciones que consideren conveniente resguardar sus créditos contratando seguros destinados a extinguir todo o parte de la deuda en caso de muerte o cesantía de sus deudores, deben hacerlo a costo de la propia institución, es decir, sin cobrar al deudor del crédito, en forma adicional a los intereses pactados, importe alguno a causa de esos seguros.
+Las instituciones financieras que decidan resguardar sus créditos contratando seguros destinados a extinguir todo o parte de la deuda en caso de muerte o cesantía de sus deudores, deben hacerlo a costo de la propia institución, es decir, sin cobrar al deudor del crédito, en forma adicional a los intereses pactados, importe alguno a causa de esos seguros
 
-Será requisito para otorgar un crédito que contemple además la venta de cualquier seguro de carácter voluntario, que la institución financiera obtenga del solicitante una declaración en que conste su manifestación de voluntad en orden a que, además del crédito que solicita, desea contratar los seguros que indica, por el precio que señala, y que está en conocimiento de que puede obtener el crédito con la misma tasa y demás condiciones si no adquiriera tales seguros.
+Será requisito para otorgar un crédito que contemple además la venta de cualquier seguro de carácter voluntario, que la institución financiera obtenga del solicitante una declaración en que conste su manifestación de voluntad en orden a que, además del crédito que solicita, desea contratar los seguros que indica, por el precio que señala, y que está en conocimiento de que puede obtener el crédito con la misma tasa y demás condiciones que si no adquiriera tales seguros.
 
 8.- Improcedencia del cargo de intereses por días adicionales al del vencimiento en descuentos de documentos.
 
@@ -7240,15 +7258,13 @@ En todo caso, cabe tener presente que para los efectos de las relaciones que se 
 
 Las entidades financieras informarán al público las tasas de interés que apliquen a sus colocaciones y captaciones, de la siguiente forma:
 
-a) La tasa de interés que corresponde a operaciones tanto de colocaciones como de captaciones, reajustables y no reajustables, deberá expresarse en términos anuales siendo facultativo indicar la correspondiente al período a que esté referida la operación (30, 40, 60, 90 días, etc.).
+a) La tasa de interés que corresponde a operaciones tanto de colocaciones como de captaciones, reajustables y no reajustables, deberá considerar siempre el interés de cobro vencido y expresarse en términos anuales siendo facultativo indicar la correspondiente al período a que esté referida la operación (30, 40, 60, 90 días, etc.).
 
 Para ese efecto, las tasas por un período se expresarán en términos anuales considerando, linealmente, su equivalente para 360 días; por ejemplo:
 
 .
 
-b) La modalidad de cálculo de la tasa de interés tanto de las colocaciones como de las captaciones, debe ser claramente explicada, sobre todo en el caso de las primeras en que el cobro de interés puede ser vencido o anticipado.
-
-En todo caso, la información al público deberá hacerse en términos de tasas de interés de cobro vencido o por el equivalente anticipado cuando se trate de colocaciones, y de pago vencido en el caso de las captaciones.
+b) La modalidad de cálculo de la tasa de interés tanto de las colocaciones como de las captaciones, debe ser claramente explicada, sobre todo en el caso de las primeras, en que el cobro de interés puede ser vencido o anticipado, o en que debe indicarse la tasa efectiva del crédito según lo previsto en el numeral 7.1 de este título.
 
 c) En la información de las operaciones no reajustables deberán señalarse separadamente, cuando proceda, las tasas de operaciones hasta 89 días de las tasas para operaciones de 90 días o más. Cuando se trate de colocaciones, en estas últimas se distinguirá, a su vez, entre las operaciones no superiores a 100 U.F., las que exceden de 100 U.F. y no superen las 200 U.F. y las superiores al equivalente de 200 U.F.
 
@@ -7258,33 +7274,41 @@ Además, las instituciones deberán mantener a disposición del público un extr
 
 11.- Información a esta Superintendencia de las tasas de interés cobradas.
 
-Para los efectos de la determinación del interés comente, las instituciones financieras deben remitir a esta Superintendencia la información relativa a las tasas de interés cobradas en sus operaciones, de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información.
+Para los efectos de la determinación del interés comente, las instituciones financieras deben remitir a esta Superintendencia la información relativa a las tasas de interés cobradas en sus operaciones, de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información. Al tratarse de operaciones en que debe calcularse la tasa efectiva según lo previsto en el N° 7 de este Capítulo, deberá informarse dicha tasa efectiva.
 
 II.-NORMAS CONTABLES, CALCULO Y CONTABILIZACION DE REAJUSTES E INTERESES DEVENGADOS.
 
 Para determinar y contabilizar los reajustes e intereses devengados, tanto por pagar como por cobrar, las instituciones financieras deberán atenerse a las siguientes instrucciones
 
-1 - Calculo de los reajustes devengados.
+1. - Cálculo de los reajustes e intereses devengados.
 
-Los reajustes devengados de las colocaciones, inversiones financieras, depósitos, captaciones, préstamos obtenidos y demás derechos u obligaciones pactadas con cláusulas de reajustabilidad, deberán calcularse de acuerdo con los valores informados por el Banco Central de Chile según lo indicado en el 2 del titulo I de este Capítulo.
+1.1.- Reajustes.
 
-Cuando corresponda registrar el devengo hasta un día no hábil bancario, como puede ocurrir al cierre de un mes, se utilizará el valor informado de la respectiva unidad de valor (UF o IVP) para ese día. Al tratarse de operaciones reajustables por la variación del valor del dólar de los Estados Unidos de América, se considerará el correspondiente al último día hábil bancario.
+Los reajustes devengados de las operaciones activas y pasivas en moneda chilena pactadas con cláusulas de reajustabilidad, deberán calcularse de acuerdo con los valores informados por el Banco Central de Chile según lo indicado en el N° 2 del título I de este Capítulo.
+
+Cuando corresponda registrar el reajuste hasta un día no hábil bancario, como suele ocurrir al cierre de un mes, se utilizará el valor informado de la respectiva unidad de valor (UF o IVP) para ese día. Al tratarse de operaciones reajustables por la variación del valor del dólar de los Estados Unidos de América, se considerará el correspondiente al último día hábil bancario.
+
+1.2.- Intereses.
+
+Los intereses devengados para efectos contables deben calcularse de acuerdo con términos pactados en cada operación, considerando sin embargo el equivalente de la tasa de interés de pago vencido en caso de que se pacten operaciones con interés anticipado.
+
+En el caso de las colocaciones en que corresponda determinar la tasa efectiva según lo indicado en el N° 7 del título I de este Capítulo, los intereses devengados se calcularán aplicando esa tasa sobre el capital efectivo.
+
+Al tratarse de documentos de la cartera de colocaciones adquiridos o descontados, como asimismo cuando se trate de instrumentos de la cartera de inversiones financieras, los intereses se devengarán contablemente según lo previsto en los Capítulos 8-19 y 8-21 de esta Recopilación, esto es, de acuerdo con la tasa de descuento que, aplicada sobre los flujos futuros del documento adquirido, iguala el valor presente al momento de la compra, con el valor de adquisición.
 
 2.- Contabilización de los reajustes e intereses devengados.
 
 2.1 - Oportunidad de contabilización de los reajustes e intereses.
 
-Los reajustes e intereses de los activos y pasivos deberán reconocerse sobre la base de lo devengado y se contabilizarán, como mínimo, mensualmente.
+Los reajustes e intereses devengados de los activos y pasivos se contabilizarán a lo menos al cierre de cada mes.
 
-Al cierre del último día de cada mes deberán quedar registrados los intereses y reajustes por cobrar o por pagar, según sea el caso, solamente por los montos devengados y no percibidos o pagados hasta el cierre del mes correspondiente. Estos intereses y reajustes deben calcularse de acuerdo con los términos pactados para cada operación y sólo sobre aquellas operaciones que se mantengan registradas en e activo o en el pasivo a la misma fecha, sin perjuicio de lo señalado en los N°s. 3 Y 4 de este título.
-
-La contabilización de los reajustes e intereses sobre la base de lo devengado se suspenderá en los casos mencionados en el N° 3 de este título, en que debe seguirse el criterio de reconocer sólo al momento en que sean efectivamente percibidos, los ingresos provenientes de operaciones de cierto riesgo y de las colocaciones vencidas.
+El devengo de reajustes y de intereses se suspenderá en los casos mencionados en el N° 3 de este título, en que debe seguirse el criterio de reconocer sólo al momento en que sean efectivamente percibidos, los ingresos provenientes de operaciones de cierto nesgo y de las colocaciones vencidas.
 
 2.2. Cuentas de reajustes por cobrar o por pagar.
 
 Los reajustes devengados se contabilizarán en cuentas complementarias de las cuentas en que se encuentren registrados los saldos reajustables que los originen.
 
-Las cuentas complementarias de activo, denominadas "Reajustes por cobrar" se cargarán con abono a las respectivas cuentas de "Reajustes ganados" (Partidas 7305 a 7400 del formulario MR1). Por su parte, las cuentas complementarias de pasivo. que se denominan "Reajustes por pagar", se acreditarán con cargo a las cuentas "Reajustes pagados" (Partidas 5305 a 5400 del formulario MR1).
+Las cuentas complementarias de activo, denominadas "Reajustes por cobrar" se cargarán con abono a las respectivas cuentas de "Reajustes ganados" (Partidas 7305 a 7400). Por su parte, las cuentas complementarias de pasivo. que se denominan "Reajustes por pagar", se acreditarán con cargo a las cuentas "Reajustes pagados" (Partidas 5305 a 5400).
 
 Las mismas cuentas deben ser utilizadas en el caso excepcional en que el reajuste resultare negativo.
 
@@ -7382,29 +7406,7 @@ Para los fines relacionados con las comprobaciones que esta Superintendencia pue
 
 III.- DISPOSICIONES TRANSITORIAS.
 
-1.- Cobro de comisiones en créditos de consumo.
-
-Las instituciones financieras deberán atenerse a lo señalado en el numeral 7.2 del título I del presente Capítulo respecto de los créditos de consumo u otros similares que otorguen a partir de la fecha en que esta Superintendencia publique, por tercera vez, las tasas de interés separadas por tramos para créditos no reajustables a más de 90 días, a que se refieren las letras b), c) y d) del numeral 6.1 del título I.
-
-2.- Cálculo de la tasa de interés que debe pactarse a partir de flujos preestablecidos en base a un cobro separado de comisiones.
-
-Para ceñirse a las normas del presente Capítulo, aquellas instituciones que sigan estructurando los pagos según una tarifa de comisiones preestablecida, deberán incluir todos los importes en el desarrollo del crédito, pactando la tasa que corresponda.
-
-Para mayor claridad, se entregan los siguientes ejemplos en relación con las tasas y condiciones contractuales de los créditos:
-
-Ejemplo 1:
-
-Si se contempla un crédito por $ 100.000 con una tasa de un 2,0 % mensual, pagadero en 12 cuotas mensuales de $ 9.456 cada una, y además el cobro de una comisión por $ 12.000 que se paga distribuida en cuotas iguales de $ 1.000 junto con cada cuota del crédito, debe pactarse con el deudor un crédito de $ 100.000 con cuotas de $ 10.456 y con una tasa del 3,7%, en tanto ello no supere el interés máximo convencional.
-
-Ejemplo 2:
-
-Si se considera un crédito por $ 112.000 con un 2,0 % mensual de interés y pagadero en 12 cuotas mensuales de $ 10.591 cada una, que incluye una comisión por $ 12.000 que se descuenta al momento de otorgar el crédito, debe pactarse un crédito por $ 100.000, con las mismas cuotas y una tasa del 3,9 %, si es que ello no supera el interés máximo convencional.
-
-Por consiguiente, los cálculos deben efectuarse con una tasa de interés vencida y los cobros adicionales originalmente estructurados cómo comisiones, deben incorporarse al desarrollo del crédito como parte de los pagos por el crédito otorgado.
-
-3.- Reconocimiento de ingresos por comisiones.
-
-Mientras esta Superintendencia no imparta instrucciones relativas al reconocimiento de ingresos y gastos sobre base devengada o en función de la duración de las operaciones, las instituciones financieras podrán seguir considerando contablemente como ingresos por concepto de comisiones, aquellos importes que deben formar parte del desarrollo del crédito pactado, según lo indicado en el N° 7 del título I de este Capítulo. Para todos los demás efectos, los montos de los créditos y la información de las tasas debe ceñirse a las normas del presente Capítulo.
+Las comisiones que las instituciones financieras cobren separadamente de los intereses en sus operaciones de crédito y que, conforme a lo previsto en el N° 7 del título I de este Capítulo, deben considerarse para determinar la tasa efectiva, podrán seguir considerándose separadamente para los solos efectos del devengo contable de que trata el numeral 1.2 del título II, para las operaciones contratadas hasta el 31 de diciembre de 1999. Para los demás efectos, esto es, para el cumplimiento del interés máximo convencional y para información al público y a esta Superintendencia, se considerará la tasa efectiva incluyendo dichas comisiones.
 
 ANEXO N° 1
 
@@ -7506,7 +7508,7 @@ Deberán corregirse monetariamente los siguientes saldos no monetarios, cuando e
 
 a) Están sujetos a corrección monetaria los saldos correspondientes al activo fijo físico y a inversiones en sociedades y los bienes físicos, acciones y derechos en sociedades recibidos en pago o adjudicados en remate judicial.
 
-b) Quedan sujetos también a corrección monetaria los saldos por gastos diferidos y por gastos pagados por anticipado a que se refiere el Capítulo 7-4 de esta Recopilación y las existencias de materiales de consumo.
+b) Quedan sujetos también a corrección monetaria los saldos de los activos intangibles, gastos diferidos y gastos e ingresos pagados o percibidos por adelantado, tratados en los Capítulos 7-4 y 7-7 de esta Recopilación, como asimismo las existencias de materiales de consumo.
 
 c) También se corregirán monetariamente los pagos provisionales mensuales de impuestos y, con el fin de mantener actualizado el importe a que asciende el impuesto por recuperar, se podrá corregir monetariamente la provisión de impuesto correspondiente.
 
@@ -7514,7 +7516,7 @@ d) Por último, se tratarán también como corrección monetaria los ajustes de 
 
 2.2. Pasivos.
 
-En general, los pasivos están representados principalmente por obligaciones que constituyen saldos monetarios, o bien corresponden a moneda extranjera o son reajustables. Por lo tanto, con excepción de algunos pasivos tales como la provisión de impuestos señalada en la letra c) del numeral 2.1 anterior o la provisión para indemnizaciones por años de servicio a que se refiere el Capítulo 7-4 de esta Recopilación, las obligaciones no están sujetas a la corrección monetaria financiera de que trata el presente Capítulo.
+En general, los pasivos están representados principalmente por obligaciones que constituyen saldos monetarios, o bien corresponden a moneda extranjera o son reajustables. Por lo tanto, con excepción de algunos pasivos tales como la provisión de impuestos señalada en la letra c) del numeral 2.1 anterior, la provisión para indemnizaciones por años de servicio a que se refiere el Capítulo 7-4 o los ingresos percibidos por adelantado tratados en el Capítulo 7-7 de esta Recopilación, los pasivos no están sujetos a la corrección monetaria financiera de que trata el presente Capítulo.
 
 2.3. Capital, reservas y resultados.
 
@@ -7544,113 +7546,105 @@ CAPITULO 7-4 (Bancos y Financieras)
 
 MATERIA:
 
-CARGOS DIFERIDOS Y GASTOS ANTICIPADOS.
+ACTIVOS INTANGIBLES Y GASTOS DIFERIDOS.
 
-### I. CARGOS DIFERIDOS
+1.- Activos intangibles y gastos diferidos que pueden registrar las instituciones financieras.
 
-### 1. Gastos que podrán ser cargados a resultados en forma diferida
+Las instituciones financieras sólo podrán registrar como activos intangibles y gastos diferidos los que se indican en este Capítulo que se refiere a aquellos que se reflejan en los resultados bajo el concepto de "amortizaciones", además del activo intangible que corresponde al mayor valor pagado en inversiones en sociedades (goodwill) tratado en los Capítulos 11-6 y 11-7 de esta Recopilación, y de los gastos diferidos que corresponden a costos incurridos por operaciones o servicios que tienen una clara correlación en el tiempo, materia que se encuentra tratada en el Capítulo 7-7 de esta Recopilación.
 
-Los bancos y sociedades financieras no podrán diferir el reconocimiento en las cuentas de resultados de los gastos que realicen ni registrar otros "activos intangibles", excepto en los siguientes casos, siempre que se cumplan las condiciones y los plazos máximos que se indican a continuación:
+2.- Gastos de organización y puesta en marcha.
 
-1.1. Gastos de organización y puesta en marcha.
-
-Podrán diferirse todos los gastos en que incurra una institución financiera, en el período comprendido entre la fecha en que inicie sus actividades y la fecha en que comience a realizar sus operaciones habituales con el público, con excepción de aquellos que pueden diferirse por una causal diferente, al amparo de las disposiciones contenidas en los numerales siguientes de este título.
+Podrán diferirse todos los gastos en que incurra una institución financiera, en el período comprendido entre la fecha en que inicie sus actividades y la fecha en que comience a realizar sus operaciones habituales con el público, con excepción de aquellos que pueden diferirse por una causal diferente, al amparo de las disposiciones contenidas en los numerales siguientes de este Capítulo.
 
 Tales gastos de organización y puesta en marcha podrán incrementarse, además, durante un período inicial de hasta seis meses después de comenzadas las operaciones propias del giro, pero sólo con aquellos gastos de desarrollo necesarios para el cumplimiento de sus funciones, distintos de los que correspondan a sus operaciones ordinarias y de los indicados en los numerales siguientes.
 
-Los gastos anteriores a la fecha de inicio de las operaciones deberán comenzar a amortizarse a más tardar a partir de la fecha de apertura de las puertas al público. Los gastos posteriores a esa fecha se comenzarán a amortizar desde el momento en que se incurra en ellos. En ambos casos, se deberán llevar a resultados los montos diferidos en un plazo que no exceda de cinco años.
+Los gastos anteriores a la fecha de inicio de las operaciones deberán comenzar a amortizarse a más tardar a partir de la fecha de apertura de las puertas al público. Los gastos posteriores a esa fecha se comenzarán a amortizar desde el momento en que se incurra en ellos. En ambos casos, se deberán llevar a resultados los montos diferidos, a lo menos linealmente, en un plazo que no exceda de cinco años.
 
-No se consideran como gastos de puesta en marcha aquellos relativos a la apertura de nuevas oficinas o sucursales de aquellas instituciones financieras que ya se encuentren en actividad, sin perjuicio de la facultad de diferir aquellos cargos que se encuadren dentro de lo que se dispone en los numerales siguientes.
+No se consideran como gastos de puesta en marcha aquellos relativos a la apertura de nuevas oficinas o sucursales de instituciones financieras que ya se encuentren en actividad, sin perjuicio de la facultad de diferir aquellos cargos que se encuadren dentro de lo que se dispone en los números siguientes.
 
-1.2. Derechos de llave.
+3.- Inversiones en programas computacionales.
 
-Podrán diferirse los desembolsos en que se incurra en la adquisición de un establecimiento u oficina para ser utilizado por la institución, por el monto que por concepto de "derechos de llave" se establezca en el respectivo contrato y siempre que el bien raíz adquirido haya sido utilizado para la atención de público por otra empresa o arrendado por la misma institución adquirente y, al mismo tiempo, existan razones para pensar que la ubicación del establecimiento u oficina representa una ventaja comparativa.
+Los costos por la adquisición o desarrollo de programas computacionales se registrarán en el activo y se amortizarán conforme a lo siguiente:
 
-Los montos activados por ese concepto se traspasarán a los resultados en un plazo máximo de cinco años, a contar de la fecha en que se comience a utilizar el bien. Si éste fuere enajenado o arrendado a terceros antes de cumplirse ese plazo, deberá traspasarse de inmediato a resultados la totalidad del saldo no amortizado.
+3.1.- Programas computacionales.
 
-1.3. Remodelaciones en locales arrendados.
+Se entenderá que constituye un programa computacional para los efectos de estas normas, cualquier módulo o componente de un proyecto que se puede utilizar en forma independiente con las interfaces apropiadas, aun cuando su aplicación dependa de la utilización de otros programas.
 
-Podrán diferirse los gastos incurridos con el objeto de habilitar locales arrendados a terceros, bajo el mismo criterio de activación que debe seguirse al tratarse de locales propios y siempre que el contrato de arrendamiento no pueda ser rescindido unilateralmente por el arrendador durante su vigencia.
+Al tratarse de ampliaciones o actualizaciones (upgrades) de aplicaciones existentes que le agregan una funcionalidad adicional, esto es, que desde la perspectiva de los usuarios permiten efectuar tareas que antes no se podían realizar, la ampliación o actualización puede tratarse también como un nuevo programa para los efectos de estas normas, siempre que la actividad desarrollada para el efecto y sus respectivos costos se puedan separar claramente de los que corresponden a la mantención o actualización rutinaria y se cumplan las condiciones señaladas en el numeral 3.3.
 
-En todo caso, los bienes muebles o las instalaciones cuyo retiro no causa detrimento en la cosa arrendada y no pasan a dominio del arrendador, deben contabilizarse dentro del activo fijo de la empresa y no como gastos diferidos.
+Las presentes normas son aplicables tanto para aquellos programas que requieren del uso de licencias como para los que no se establece tal condición, del mismo modo que no distinguen entre los programas que se compran, de los que sean arrendados por leasing, debiendo en este último caso seguirse un tratamiento contable similar al establecido en el Capítulo 11-1 de esta Recopilación en lo que sea pertinente. Por otra parte, la activación de los costos alcanza tanto a los programas desarrollados por empleados de la institución o personas contratadas para el efecto, como aquellos cuyo desarrollo se encargue a empresas externas por un precio fijo.
 
-Los gastos de que se trata, se amortizarán a partir de la fecha de término de los trabajos de habilitación o remodelación, o a contar de la fecha en que se comience a utilizar el local o la oficina, en plazos que no podrán ser superiores al de la vida útil de las adiciones, al de la vigencia del contrato o a diez años, según cual sea menor.
+Debe tenerse en cuenta que la adquisición de programas computacionales que incluyen la contratación de servicios de mantención, derechos a actualizaciones, capacitación, costos de reingeniería, ampliaciones, etc., exige que se identifiquen y valoricen los elementos que componen el contrato, para efecto de activar sólo aquellos importes que las presentes instrucciones permiten. En todo caso, si esas prestaciones fueran independientes del valor pagado por los programas, los gastos del período que cubre el contrato se tratarán de acuerdo con lo previsto en el Capítulo 7-7 de esta Recopilación.
 
-En ningún caso se deberán diferir los gastos de reparaciones o mantenciones posteriores a la fecha en que se comiencen a usar las instalaciones.
+3.2.- Importes que se pueden activar.
 
-1.4. Gastos por desarrollo de sistemas computacionales.
+a) Costos que necesariamente deben reconocerse como gastos.
 
-Los desembolsos efectuados para el desarrollo o adquisición de sistemas computacionales se podrán diferir sólo si se cumplen, copulativamente, las siguientes condiciones:
+No podrán ser capitalizados aquellos costos que son propios de la etapa preliminar de un proyecto, tales como los que se originan por la formulación y evaluación de alternativas, análisis de los requisitos tecnológicos o de las exigencias de funcionalidad y utilización de los programas, la selección de proveedores o de consultores que apoyen el desarrollo o instalación, etc., así como los demás gastos en que se incurra por las actividades internas o gestiones externas que de hecho se efectúen con antelación a la autorización para la ejecución del proyecto y la disposición de los recursos para el efecto o la firma de los correspondientes contratos con terceros.
 
-a) Los gastos corresponden al desarrollo de "software" encargado por la institución financiera a terceros, incluida la adquisición de aplicaciones preexistentes que deban ser readecuadas a los requerimientos de la empresa;
+Tampoco podrán ser capitalizados aquellos costos que son propios de una etapa de operación o posteriores a la implantación, los que en general corresponderán sólo a mantenciones, ampliaciones o actualizaciones (upgrades), salvo que se le agregue una funcionalidad adicional a los programas y se cumplan las condiciones señaladas en los numerales 3.1 y 3.3
 
-b) El desarrollo o adquisición se efectúa sobre la base de un contrato que garantiza el funcionamiento del "software";
+b) Costos que pueden ser capitalizados.
 
-c) No se trata de adecuaciones a nuevos requerimientos de un sistema de la empresa que ya se encuentra en uso.
+Pueden ser capitalizados, en cambio, aquellos costos que son propios de una etapa de desarrollo, que normalmente incluirán los relacionados con el diseño, configuración del programa y las interfaces, programación, instalación a los equipos y pruebas hasta el procesamiento en paralelo, todos ellos necesarios para dejar el software en condiciones de ser utilizado para lo que se pretende.
 
-Los costos que involucra la participación de la institución financiera en el desarrollo de un proyecto podrán ser diferidos, siempre que correspondan a costos directos plenamente identificados. No se deberán activar gastos de naturaleza habitual asignados al proyecto sobre la base de un prorrateo.
+No obstante, no podrán ser registrados en el activo los costos incurridos por la capacitación externa o interna, como tampoco los correspondientes a la conversión, eliminación o ingreso de datos, salvo lo que toca al desarrollo o adquisición de programas para la interfaz de sistemas antiguos y nuevos.
 
-Los gastos de que se trata deberán amortizarse dentro de un plazo máximo de tres años, a partir de la fecha en que se comience a aplicar el sistema desarrollado.
+De acuerdo con lo anterior, además del precio pagado por los programas adquiridos a terceros, pueden capitalizarse solamente los costos asociados a las actividades descritas en este numeral y únicamente cuando correspondan a:
 
-En el evento de rescindirse un contrato, de suspenderse el desarrollo de un sistema o, simplemente, de existir alguna incertidumbre acerca de la aplicación de éste, el total de los gastos ya activados y los desembolsos posteriores en que se incurriere por esos conceptos, deberá llevarse a resultados en forma inmediata.
+i) Materiales y servicios utilizados para desarrollar y obtener el programa, tales como honorarios pagados por su desarrollo, costos para obtenerlo de terceros o gastos de viajes incurridos por empleados en labores directamente relacionadas con el programa en desarrollo.
 
-Las indemnizaciones que pudieren percibirse por incumplimiento de contratos deberán contabilizarse, cuando corresponda, como un menor costo del desarrollo.
+ii) Sueldos y otros beneficios pagados al personal que desarrolla el programa a tiempo completo, o la parte proporcional de ellos según el tiempo destinado al proyecto en relación con otras actividades o proyectos. En consecuencia, en ningún caso se capitalizarán gastos generales o administrativos, sino sólo los relativos a la planilla de los funcionarios involucrados o a los honorarios pagados a personas contratadas para el desarrollo.
 
-Las inversiones en "software" preexistente de uso general, no desarrollado o reprogramado según requerimientos específicos de la institución financiera, se contabilizarán como activo fijo de acuerdo con las instrucciones de la letra c) del numeral 2.1 del Capítulo 11-5 de esta Recopilación Actualizada de Normas.
+3.3.- Condiciones para registrar los costos en el activo.
 
-1.5. Reconocimiento de indemnizaciones por años de servicio con efecto retroactivo.
+La capitalización de los costos de acuerdo con lo señalado anteriormente, se efectuará solamente para aquellos programas mediante los cuales se esperan beneficios significativos en materia de reducciones de costos, operaciones más eficientes, entrega de un mejor servicio a los clientes, mejores controles internos o adquisición de ventajas comparativas.
 
-Las empresas que pacten con su personal el pago de indemnizaciones por años de servicio y acuerden reconocer el derecho adquirido por la permanencia del personal en años anteriores, podrán diferir el cargo a los resultados por aquella parte que se reconoce retroactivamente, en concordancia con los criterios señalados en los Boletines Técnicos N° 8 y 18 del Colegio de Contadores de Chile A.G.
+Por otra parte, es requisito para la activación de sus costos que la probabilidad de utilización de los programas sea incuestionable, en cuanto no existen circunstancias que indiquen lo contrario, tales como cambios en las tecnologías que se utilizan, reestructuraciones de funciones o modificaciones de procedimientos que lleven a desechar el programa, incertidumbres respecto a la posibilidad de financiar totalmente el proyecto en desarrollo, etc.
 
-1.6. Mayor valor pagado para adquirir el control o participar en sociedades ya constituidas.
+Cumplidos los requisitos antes indicados, se capitalizarán los costos en que se incurra a partir del momento en que se firmen los respectivos contratos o se autorice el desarrollo y exista un compromiso de la administración para proveer los recursos.
 
-Conforme a las disposiciones contenidas en los Capítulos 11-6 y 11-7 de esta Recopilación Actualizada de Normas, también podrá cargarse a los resultados en forma diferida, la diferencia entre el precio pagado por la adquisición de acciones o derechos en sociedades que pasen a ser filiales o coligadas de la institución financiera y el valor patrimonial proporcional al cual debe quedar registrada la inversión en el activo.
+La capitalización de los costos se mantendrá hasta el momento en que, el programa esté concluido para el uso que se pretende, aun cuando no pueda todavía ser utilizado por depender el desarrollo de otros módulos o proyectos.
 
-1.7. Sobreprecio pagado por activos inherentes a un negocio con ventajas competitivas.
+En todo caso, dicha capitalización deberá suspenderse si deja de ser probable que el proyecto se complete, como puede ocurrir, por ejemplo, si existen nuevas alternativas en el mercado que hacen conveniente abandonar el proyecto o se sobrepasan significativamente sus costos, si se introducen nuevas tecnologías, si aparecen dificultades de programación que no se puedan resolver a tiempo, etc.
 
-Las instituciones financieras podrán registrar en el activo transitorio el importe de la diferencia entre el valor de los activos netos adquiridos a otra entidad financiera y el valor de los pasivos asumidos, cuando la adquisición obedezca a la transferencia de un negocio con ventajas competitivas que justifique el sobreprecio pagado, siempre que sea razonable suponer que la institución financiera adquirente generará una mayor utilidad en el futuro como consecuencia de la transacción, sea por el desarrollo del nuevo negocio o por el aumento de sus propias operaciones ya existentes.
+Las instituciones deberán evaluar, a lo menos al cierre de cada ejercicio, la situación de sus proyectos computacionales en relación con el cumplimiento de las presentes disposiciones, debiendo suspender la capitalización y traspasar a resultados los importes activados si no existen razones fundadas para mantener el tratamiento contable de que se trata, al amparo de lo que se indica en los dos primeros párrafos de este numeral.
 
-El sobreprecio pagado, sujeto a corrección monetaria, se amortizará linealmente dentro de un plazo máximo de diez años, salvo que durante ese lapso exista incertidumbre respecto a la generación de los beneficios futuros previstos, en cuyo caso y en el momento en que se manifieste esa incertidumbre, se cargará a los resultados la totalidad del saldo remanente registrado en el activo transitorio.
+3.4.- Amortizaciones.
 
-Las instrucciones de este numeral se refieren solamente a la adquisición de algún negocio bancario desarrollado por otra sociedad que prescindirá de esa actividad, cediendo los correspondientes derechos y, eventualmente, traspasando sus obligaciones, e incluyendo otras condiciones contractuales que implican radicar en la institución financiera adquirente la actividad mercantil de que se trate, con su ventaja competitiva. Así, por ejemplo, se está en presencia de esas condiciones si la operación contempla la entrega de la lista de clientes y de los sistemas y procedimientos asociados, la contratación de las personas expertas, la transferencia de marcas o licencias imprescindibles, etc., que tienen en su conjunto un valor económico en razón de la participación en el mercado y la infraestructura operativa y experiencia preexistentes en el negocio. En ningún caso las presentes instrucciones permiten registrar contablemente activos intangibles generados por la propia institución financiera, como tampoco facultan a las instituciones para registrar en el activo aquellos intangibles que podrían adquirirse y cederse individualmente, como es el caso de derechos sobre marcas, si éstos no se encuentran incluidos en una negociación que involucre el traspaso de una línea o combinación de negocios bancarios desarrollada, en los términos señalados en el párrafo precedente. En el evento de que los activos adquiridos incluyan el valor de tales activos intangibles identificados, éstos quedarán incluidos dentro del importe total del sobreprecio activable sujeto a amortización.
+Los saldos registrados en el activo por cada uno de los programas computacionales adquiridos o desarrollados, se amortizarán linealmente a contar del momento en que comiencen a ser utilizados
 
-1.8.- Costos de emisión de bonos.
+Atendida la rapidez en la evolución de los cambios tecnológicos y su repercusión en las aplicaciones y sistemas operativos de los equipos, se dispone para el efecto un plazo máximo de amortización de tres años.
 
-Las instituciones financieras podrán diferir los costos en que incurran por la emisión de bonos, reconociendo gradualmente los gastos respectivos, consistentes principalmente en impuestos y gastos de escrituración, durante el período de vigencia de los bonos.
+En todo caso, las instituciones deberán aplicar plazos menores cuando la vida útil estimada de un determinado programa sea inferior a tres años, debiendo además cumplir con lo dispuesto en el último párrafo del numeral 3.3 precedente y traspasar a resultados la totalidad de los saldos no amortizados correspondientes a programas que dejen de ser utilizados.
 
-Tratándose de bonos para ser colocados en el exterior, podrán diferirse los costos correspondientes a las comisiones pagadas en relación con la emisión y colocación de esos instrumentos; a los honorarios pagados por prestaciones profesionales de abogados, auditores externos y clasificadores de riesgo que intervengan en la respectiva operación y a los importes desembolsados por concepto de impuestos que gravan los distintos actos o documentos relacionados con la emisión.
+4.- Sobreprecio pagado por activos inherentes a un negocio con ventajas competitivas.
 
-1.9.- Comisiones e impuestos por obtención de créditos en el exterior.
+Las instituciones financieras podrán registrar en el activo el importe de la diferencia entre el valor pagado y el valor de los activos adquiridos, deducidos los pasivos que se asuman, cuando la adquisición de tales activos obedezca a la transferencia de un negocio con ventajas competitivas que justifique el sobreprecio pagado, siempre que sea razonable suponer que la institución financiera adquirente generará una mayor utilidad en el futuro como consecuencia de la transacción, sea por el desarrollo del nuevo negocio o por el aumento de sus propias operaciones ya existentes.
 
-Las instituciones financieras podrán diferir las comisiones e impuestos en que incurran por la obtención de créditos en el exterior, reconociendo gradualmente dichos gastos durante el período de vigencia de las respectivas obligaciones.
+El sobreprecio pagado se amortizará a lo menos linealmente dentro de un plazo máximo de diez años, salvo que durante ese lapso exista incertidumbre respecto a la generación de los beneficios futuros previstos, en cuyo caso y en el momento en que se manifieste esa incertidumbre, se disminuirá el plazo de amortización o se cargará a los resultados la totalidad del saldo remanente registrado en el activo, según corresponda Para estos efectos, la institución deberá efectuar una evaluación una vez al año, dejando documentadas las conclusiones al respecto.
 
-### 2. Amortización de los gastos diferidos
+5.- Marcas registradas.
 
-Los gastos diferidos deberán ser llevados a resultados en forma proporcional a los meses transcurridos desde la oportunidad en que deben comenzar a amortizarse según lo indicado en los numerales precedentes.
+Las instituciones financieras podrán contabilizar como activo intangible las marcas registradas de su propiedad, siempre que dichas marcas hayan sido compradas a terceros y con el exclusivo propósito de obtener una ventaja en el mercado que justifique la inversión. En ningún caso puede tratarse de marcas creadas por la propia institución ni adquiridas de una forma distinta a la compra.
 
-Se traspasará a resultados, mensualmente, el valor que resulte de dividir el saldo de cada uno de los gastos diferidos, claramente identificados en registros auxiliares, por la cantidad de meses que resten para cumplirse el correspondiente plazo de amortización.
+El costo de la marca adquirida se amortizará en el plazo que resulte menor entre 10 años y su vida útil estimada según los fines que se persiguen.
 
-Las instituciones financieras podrán reducir los plazos originalmente establecidos para amortizar los gastos diferidos o llevar la totalidad de los gastos a resultados, en cuyo caso no se podrá volver a considerar un período mayor ni revertir las contabilizaciones efectuadas.
+En todo caso, la institución financiera deberá evaluar anualmente los beneficios que reporta la propiedad de la marca, debiendo acelerar el traspaso a los resultados si no existen razones fundadas para mantener las condiciones primitivas de amortización.
 
-Las instrucciones precedentes son sin perjuicio de los criterios señalados en los Capítulos 11-6 y 11-7 de esta Recopilación para la amortización del mayor valor pagado en inversiones en sociedades a que se refiere el numeral 1.6 de este Capítulo.
+6.- Derechos sobre líneas telefónicas.
 
-### 3. Cuentas del activo y de resultados
+Las instituciones financieras podrán registrar en el activo el costo de derechos sobre líneas telefónicas, amortizándolo en un período no superior a cinco años.
 
-Los cargos diferidos de que se trata se registrarán en la cuenta "Intangibles y gastos diferidos", de la partida 2120, subcuentas "Remodelaciones en locales arrendados", "Derechos de llave", "Gastos de desarrollo de sistemas computacionales", "Reconocimientos de indemnizaciones por años de servicio", "Gastos de organización y puesta en marcha", "Sobreprecio en adquisición de negocios", "Costos de emisión de bonos" y "Comisiones e impuestos por obtención de créditos", según corresponda".
+7.- Reconocimiento de indemnizaciones por años de servicio con efecto retroactivo.
 
-Los cargos a los resultados por las amortizaciones deberán imputarse a la cuenta "Amortizaciones de gastos diferidos" de la partida 6265.
+Las empresas que pacten con su personal el pago de indemnizaciones por años de servicio y acuerden reconocer el derecho adquirido por la permanencia del personal en años anteriores, podrán diferir el cargo a los resultados por aquella parte que se reconoce retroactivamente, en concordancia con los criterios señalados en los Boletines Técnicos N°s. 8 y 18 del Colegio de Contadores de Chile A.G.
 
-Al tratarse de los activos intangibles señalados en el numeral 1.6 de este Capítulo, se utilizarán las cuentas mencionadas en los Capítulos 11-6 y 11-7 de esta Recopilación.
+8.- Información de saldos.
 
-### II. GASTOS PAGADOS POR ANTICIPADO
+Los saldos no amortizados de los activos intangibles y gastos diferidos de que tratan los números precedentes, se incluirán en las siguientes cuentas de la partida 2120: "Gastos de organización y puesta en marcha", "Inversiones en Software", "Sobreprecio en adquisición de negocios", "Marcas registradas", "Derechos sobre líneas telefónicas" y "Reconocimiento de indemnizaciones por años de servicio".
 
-Las instrucciones del título I precedente se refieren exclusivamente a los gastos que pueden reconocerse gradualmente en los resultados en los casos que se indican, pero no alcanzan a los desembolsos por concepto de pagos anticipados, tales como arriendos, pólizas de seguros, comisiones pagadas por adelantado, etc.
-
-Estos pagos anticipados se activarán cuando proceda, de acuerdo con los criterios contables de aceptación general, llevándose a resultados al cierre de cada mes la parte proporcional que corresponda a los servicios ya recibidos.
-
-Los gastos pagados por anticipado se registrarán en la cuenta "Gastos pagados por anticipado" de la partida 2120, subcuentas "Pólizas de seguro", "Arriendos anticipados" u "Otros gastos anticipados", según corresponda.
-
-El traspaso a los resultados se llevará a la cuenta respectiva, según el tipo de gasto de que se trate.
+Los resultados por las amortizaciones se incluirán en las siguientes cuentas de la partida 6265: "Amortización de gastos de organización y puesta en marcha", "Amortización de inversiones en Software", "Amortización de sobreprecio en adquisición de negocios", "Amortización de marcas registradas", "Amortización de derechos sobre líneas telefónicas" y "Amortización de reconocimiento de indemnizaciones por años de servicio".
 
 CAPITULO 7-5 (Bancos y Financieras)
 
@@ -8085,6 +8079,90 @@ Las provisiones por riesgo-país se constituirán a contar del 30 de abril de 19
 No obstante, durante un lapso de dos años será exigible solamente una proporción creciente de los montos que se obtengan por la aplicación de las tasas señaladas en el N° 1 del título III. Para este efecto, las provisiones mínimas al cierre de cada mes serán iguales a tantos 24 avos del monto que resulte de aplicar las respectivas tasas, como meses hayan transcurrido a contar del 31 de marzo de 1998.
 
 Por consiguiente, al 30 de abril de 1998 corresponderá constituir una provisión de 1/24 de lo que resulta de la aplicación de las tasas sobre los saldos afectos mantenidos a esa fecha, al 31 de mayo de 1998 deben mantenerse 2/24 avos, y así sucesivamente hasta su aplicación normal a partir del 31 de marzo del año 2000.
+
+CAPITULO 7-7 (Bancos y Financieras)
+
+MATERIA:
+
+RECONOCIMIENTO DE INGRESOS Y GASTOS POR PRESTACIONES QUE CUBREN UN PERIODO DETERMINADO.
+
+1.- Ingresos percibidos por adelantado y gastos pagados por anticipado.
+
+Los ingresos y gastos percibidos o pagados por adelantado en relación con el período que cubre el servicio que se presta o se recibe, deben reconocerse en los resultados en función del tiempo de duración de tales servicios, sin perjuicio del reconocimiento contable de las devoluciones o indemnizaciones que se hubieren pactado por la suspensión de los servicios.
+
+Así, por ejemplo, en la medida en que se perciban anticipadamente importes por mantención de líneas de crédito, por administración de tarjetas para operar cajeros automáticos, por uso de cajas de seguridad, etc., los respectivos ingresos deben imputarse linealmente en las cuentas de resultado en el tiempo que contractualmente cubre el pago. Del mismo modo, los importes pagados anticipadamente por conceptos tales como líneas de crédito, arriendos, seguros, uso de marcas, etc. se cargarán linealmente a las respectivas cuentas de gastos en función de la duración de los derechos que se adquieren con esos pagos.
+
+Los derechos de llave que pudieren originarse por bienes arrendados, se considerarán como parte del costo del arriendo, debiendo amortizarse en el plazo máximo de cinco años o en el de la vigencia del contrato de arrendamiento, el que sea menor, a partir de la fecha en que comience a ser utilizado el bien.
+
+Las comisiones por avales y fianzas o emisión de cartas de crédito stand by, por su naturaleza, corresponden a servicios que cubren un período futuro y, por lo tanto, deben diferirse los traspasos a resultados, acorde con el período por el cual se cobran. En el caso de la emisión de Boletas de Garantía, se diferirán los ingresos por comisiones percibidas en el plazo de vigencia de la Boleta.
+
+No se aplica, en cambio, el tratamiento mencionado en este número para aquellos ingresos o gastos en que no media una prestación que cubre un período futuro, aun cuando existan ciertas operaciones ligadas que no se han extinguido. Así por ejemplo, no corresponde seguir este criterio en el caso de comisiones por apertura, aviso, confirmación o negociación de cartas de crédito, emisión de vales vista, certificaciones, etc., en que las comisiones se cobran por la realización de cada uno de esos actos, como tampoco en el caso de comisiones por la apertura de líneas de crédito, cobranza de documentos u otros en que el cobro esté claramente diferenciado de los que se realizan en función del tiempo de permanencia.
+
+El procedimiento contable de que trata este N° 1 se aplicará obligatoriamente sólo cuando tenga un efecto importante en los resultados de la institución, en relación con el que se obtendría al reconocer consistentemente los ingresos y gastos sobre la base de lo percibido o pagado.
+
+Los ingresos percibidos por adelantado y que se reconozcan en forma diferida en resultados, se informarán en las cuentas "Comisiones percibidas por adelantado" u "Otros ingresos percibidos por adelantado" de la partida 4120, en tanto que los gastos pagados por anticipado se incluirán en las cuentas "Comisiones pagadas por anticipado" y "Otros gastos pagados por anticipado" de la partida 2120.
+
+Las presentes normas no se refieren a los pagos anticipados de servicios que se cumplen o completan en diferentes oportunidades o por etapas, como es el caso, por ejemplo, de publicidad contratada y pagada, en que el traspaso a resultados no será en función del tiempo transcurrido sino de la ejecución del servicio o prestación. No obstante, para efectos de información acerca de los anticipos se utilizarán las mismas cuentas señaladas precedentemente.
+
+Las disposiciones de este número se aplican también a cualquier recepción anticipada de intereses en las operaciones de crédito. Al respecto deben tenerse presente las disposiciones del Capítulo 7-1 de esta Recopilación relativas al devengo de intereses de acuerdo con la tasa efectiva, debiendo en consecuencia registrarse como ingresos solamente los intereses devengados, además de los reajustes en caso de operaciones reajustables.
+
+2.- Servicios pagados al vencimiento. Devengo de los importes por cobrar o pagar.
+
+Los ingresos y gastos correspondientes a servicios que se pagan al vencimiento del plazo en que se presten o reciban, se reconocerán sobre base devengada.
+
+Deberán tratarse así, por ejemplo, las comisiones por cobrar o por pagar por mantención de líneas de crédito cuando se haya pactado el pago al término del período en el cual se puede hacer uso de ese servicio financiero, o con las comisiones por cobrar por la mantención o administración de productos bancarios en general, cuando ellas dependan del tiempo en que se utilizan.
+
+No obstante, el reconocimiento de ingresos sobre base devengada se aplicará solamente cuando las condiciones pactadas aseguren el derecho a cobrar y sean conocidos los importes que serán percibidos. En caso de incertidumbre, como es común que ocurra, por ejemplo, con comisiones por mantención de cuentas corrientes o cuentas de ahorro o a la vista, las comisiones cobradas por período vencido se reconocerán sobre base percibida.
+
+La utilización de los criterios señalados en este N° 2 es obligatoria solamente cuando tenga un efecto importante en los resultados, en relación con el que se obtendría al reconocer consistentemente los ingresos y gastos sobre la base de lo percibido o pagado.
+
+Mientras no llegue la oportunidad pactada para su pago, los importes devengados por cobrar se reflejarán en las cuentas "Comisiones devengadas" u "Otros importes devengados por cobrar" de la partida 2115, en tanto que los importes devengado por pagar" se incluirán en las cuentas "Comisiones devengadas u "Otros importes devengados por pagar" de la partida 4115.
+
+Conviene tener presente que en el caso de colocaciones contingentes, el tratamiento a que se refiere este número se encuentra implícito en las instrucciones de esta Superintendencia, al reconocerse ingresos por la vía de un por devengo de intereses, quedando en este caso los importes por cobrar incluidos dentro del concepto de colocaciones
+
+3.- Costos incurridos para la realización de operaciones. Gastos que se pueden diferir.
+
+Los siguientes costos asociados a activos, obligaciones o servicios que cubren un período determinado, podrán reconocerse en los resultados en forma diferida, siempre que se cumplan las condiciones que se indican:
+
+3.1.- Gastos incurridos para el otorgamiento de créditos
+
+Podrá reconocerse como gastos en forma diferida lo siguiente:
+
+a) Las comisiones pagadas por la venta de un producto o la mayor remuneración pagada en razón a su venta.
+
+b) Los honorarios pagados para el otorgamiento de créditos sindicados.
+
+c) Las primas pagadas por seguros de desgravamen o cesantía que sean de cargo de la propia institución financiera.
+
+Los costos mencionados en los literales precedentes son solamente aquellos directamente asociados e identificables con cada uno de los créditos contratados.
+
+Para diferir su imputación a los resultados, será requisito que la institución financiera mantenga sistemas de registro y controles que asocien cada una de las operaciones de crédito con su respectivo costo diferido y permitan efectuar el traspaso a los resultados según lo que se indica a continuación.
+
+Los gastos se reconocerán linealmente en el tiempo de la duración del crédito o en un plazo máximo de cinco años, lo que sea menor, debiendo traspasarse a resultados de inmediato la totalidad de los costos diferidos cuando el respectivo crédito o una de sus cuotas ingresen a cartera vencida, o se suspenda el devengo de sus intereses, de acuerdo con las normas de los Capítulos 8-26 y 7-1 de esta Recopilación
+
+3.2.- Gastos incurridos en otros productos.
+
+Las instituciones financieras también podrán reconocer en forma diferida los gastos en que incurran por el pago de comisiones o mayores remuneraciones que obedezcan a la venta de otros servicios diferentes al otorgamiento de créditos, tales como cuentas corrientes, tarjetas de crédito, depósitos a plazo, etc., siempre que se trate de productos cuya contratación reporte, directa o indirectamente, un beneficio futuro para la institución, y su duración cierta o estimada se encuentre razonablemente demostrada.
+
+Dichos costos podrán diferirse en un plazo máximo de dos años a contar de la fecha de los desembolsos.
+
+3.3.- Costos asociados a financiamientos obtenidos.
+
+Podrá registrarse como gasto en forma diferida lo siguiente:
+
+a) Los costos incurridos por la emisión de bonos colocados en el país o en el exterior, tales como impuestos, gastos de escrituración, comisiones pagadas en relación con la emisión y colocación, honorarios de abogados, auditores externos y clasificadores de riesgo que intervengan.
+
+b) Comisiones e impuestos por obtención de créditos del exterior.
+
+Los gastos se reconocerán linealmente en el tiempo de la duración de los respectivos créditos, o bien, en función de una tasa implícita calculada según los recursos netos obtenidos.
+
+3.4.- Condición para diferir gastos correspondientes a servicios de terceros
+
+Los importes pagados por la institución como comisiones u honorarios, podrán imputarse a los resultados en forma diferida según lo indicado en los numerales precedentes, solamente cuando no excedan los valores de mercado para la prestación de que se trate y los respaldos de sus pagos identifiquen las operaciones involucradas.
+
+3.5.- Información de saldos.
+
+Todos los gastos que se difieran al amparo de lo establecido en este número, cualesquiera sean las operaciones que les dieron origen, se registrarán separadamente en el activo según su naturaleza, debiendo informarse en la cuenta "Gastos de operación diferidos" de la partida 2120.
 
 CAPITULO 8-1 (Bancos)
 
@@ -15352,9 +15430,7 @@ a) Bienes físicos, muebles o inmuebles, de propiedad de la institución, con ex
 
 b) Bienes utilizados en virtud de contratos de "leasing financiero", cuando se cumplan las condiciones señaladas en el Capítulo 11-1 de esta Recopilación Actualizada de Normas.
 
-c) Sistemas o "software" de equipos computacionales de la institución que correspondan a: i) los sistemas operativos básicos suministrados por el proveedor de los respectivos equipos, imprescindibles para su funcionamiento, los cuales pueden tratarse incorporándolos al costo de adquisición de los equipos; ii) que permitan optimizar el uso de los equipos o la eficiencia o seguridad de su funcionamiento; y iii) cualquier otro sistema o aplicación de uso general, es decir, que no correspondan a programas que deban ser ajustados o adecuados a la realidad de la empresa.
-
-d) Se incluirán también dentro del activo fijo físico, los derechos de la empresa sobre líneas telefónicas.
+c) Costo de las remodelaciones efectuadas por la empresa en locales arrendados, cuando el contrato de arrendamiento no pueda ser rescindido unilateralmente por el arrendador durante su vigencia.
 
 2.2. Cuentas del activo fijo físico.
 
@@ -15378,7 +15454,7 @@ En el evento de realizarse un intercambio de bienes del activo fijo con otra emp
 
 ### 6. Depreciaciones
 
-Las depreciaciones se calcularán linealmente sobre la base de años de vida útil de los bienes. Al tratarse de "software" y de derechos sobre líneas telefónicas a que se refieren las letras c) y d) del numeral 2.1 anterior, su costo se amortizará durante un período máximo de tres y cinco años, respectivamente.
+Las depreciaciones se calcularán linealmente sobre la base de años de vida útil de los bienes. Con todo, los años de vida útil que se consideren no podrán ser superiores a los que hubiere fijado el Servicio de Impuestos Internos para los efectos de una depreciación tributaria normal. Al tratarse de las remodelaciones en locales arrendados a que se refiere la letra c) del numeral 2.1, su costo se amortizará durante un período máximo de diez años o el de vigencia del contrato de arrendamiento, según cual sea menor.
 
 Para contabilizar las depreciaciones, las instituciones financieras podrán optar entre utilizar la cuenta "Depreciaciones acumuladas" de la partida 2305, o rebajar directamente las depreciaciones mensuales del valor de los bienes corregido monetariamente, abonando las respectivas cuentas del activo. Las depreciaciones se registrarán mensualmente con cargo a la cuenta "Depreciaciones del activo fijo" de la partida 6260.
 
@@ -15388,7 +15464,7 @@ Los castigos de bienes del activo fijo se registrarán con cargo a la cuenta "Ca
 
 Los bienes que dejen de utilizarse pero que pueden ser vendidos para ser utilizados por terceros, se traspasarán a la cuenta "Bienes retirados por enajenar" de la partida 2305, dejándolos registrados a su valor de liquidación cuando éste sea menor que el valor neto de depreciaciones y llevando la diferencia, cuando corresponda, a la cuenta "Castigos del activo fijo" antes señalada.
 
-### 9. Provisiones
+### 8. Provisiones
 
 Las instituciones financieras deberán constituir provisiones sobre el activo fijo en los siguientes casos:
 
@@ -15398,7 +15474,7 @@ b) Cuando por instrucciones expresas de esta Superintendencia, deba constituirse
 
 Las provisiones de que se trata se abonarán a la cuenta "Provisión sobre bienes del activo fijo" de la partida 2305 con cargo a la cuenta "Provisión sobre bienes del activo fijo" de la partida 6270.
 
-### 10. Venta de bienes del activo fijo
+### 9. Venta de bienes del activo fijo
 
 Los resultados por venta de activo fijo deberán registrarse en las cuentas "Pérdida por venta de activo fijo" o "Utilidad por venta de activo fijo", según corresponda, de las partidas 6305 y 8305, respectivamente.
 
