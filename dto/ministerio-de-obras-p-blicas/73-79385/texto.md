@@ -1,0 +1,5 @@
+Por Decreto M.O.P. No. 73, de 10 de marzo de 1992, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. No. 294, que fijó el texto actualizado de la Ley No.
+
+15.840, se expropió el lote de terreno No. 16, para la obra Colectores Interceptores de Aguas Servidas para el Zanjón de la Aguada que figura a nombre de Grau S.A. Aglomerados de Hormigón, rol de avalúo 7801-1, comuna de San Joaquín, superficie 54 M2. Deslindes: Norte. Con Rotonda Vicuña Mackenna en 12 metros; Sur, con Av. Vicuña Mackenna en 15 metros y Este con resto del predio afectado con la expropiación, en 9 metros. La Comisión de Peritos compuesta por los señores Emilio Recabarren Solar, Fernando Merino de la Cerda y Roberto Correa Bezanilla, fijó con fecha enero de 1992, el valor provisional de la indemnización en la suma de $ 448.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
