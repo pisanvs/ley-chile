@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.839, de 30 de junio de 2000, se expropió el lote de terreno Nº36, superficie 714 m2, Rol de avalúo 212-573, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5 Tramo Santiago - Talca. Sector J, Sexta Región y se acordó el valor de indemnización con su propietario Javier Rojas Zambra, ascendente a la cantidad de $2.343.520.
+
+Fiscal del Ministerio de Obras Públicas.
