@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº1.700 de fecha 29 de noviembre del 2002, se expropió el lote de terreno Nº3-A, superficie 5.562,39 m2., rol 172-63, comuna de Curepto, VII Región para la obra "Camino Ruta M-24-K, Quivolgo-Puente Lautaro, Sector E: Conexión La Trinchera, Tramo Km. 0,000 al 2,560" y se acordó el valor de indemnización con su propietario Encarnación del Carmen Vergara Núñez, ascendente a la cantidad de $2.832.786.-
+
+Fiscal del Ministerio de Obras Públicas.
