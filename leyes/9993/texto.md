@@ -1,0 +1,1 @@
+Destina para la construcción y habilitación de la Escuela de Minas de Antofagasta los fondos provenientes de la venta de terrenos salitrales en dicha provincia.
