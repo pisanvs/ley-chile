@@ -1,0 +1,3 @@
+CIRCULAR Nº 20, de 1997
+
+Se ha dictado la Circular Nº 20 del 21 de marzo de 1997, que establece procedimiento de distribución, recepción y observaciones a los Notarios y Conservadores, respecto del formulario Nº 2890, "Declaración sobre enajenación e inscripción de Bienes Raíces". El texto íntegro de la presente Circular se publicará en el Boletín Oficial del Servicio de Impuestos Internos del mes de Abril de 1997.
