@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 222, de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 92, superficie 284 m2, Rol Nº 1206-4, comuna de Coelemu, VIII Región, para la obra "Camino Ruta O-170, O-176, acceso a Guarilihue, Km. 0,00000 a Km. 8,28000" y se acordó el valor de indemnización con su propietario Héctor Carvajal Moraga, ascendente a la cantidad de $669.566.-
+
+Fiscal del Ministerio de Obras Públicas.
