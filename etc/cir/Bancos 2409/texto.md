@@ -5508,11 +5508,13 @@ Código Plaza Jurisdicción
 
 0360 Peñaflor "
 
-0368 Talagante "
+0368 Talagante Santiago
 
 0376 Melipilla "
 
 0384 Buin "
+
+0386 Paine "
 
 0392 Graneros "
 
@@ -5532,7 +5534,7 @@ Código Plaza Jurisdicción
 
 0460 Pichilemu "
 
-0464 San Femando "
+0464 San Fernando "
 
 0472 Nancagua "
 
@@ -5602,15 +5604,15 @@ Código Plaza Jurisdicción
 
 0720 Los Angeles "
 
-Código Plaza Jurisdicción
-
-0728 Santa Bárbara Concepción
+0728 Santa Bárbara "
 
 0736 Nacimiento "
 
 0744 Lebu "
 
 0752 Mulchén "
+
+0776 Cañete "
 
 0760 Angol "
 
@@ -5734,6 +5736,8 @@ Código Plaza Cámara de la Agrupación Jurisdicción
 
 0208 San Felipe San Felipe Valparaíso
 
+0216 Putaendo " "
+
 0224 Los Andes " "
 
 0296 Valparaíso Valparaíso Valparaíso
@@ -5762,9 +5766,11 @@ Código Plaza Cámara de la Agrupación Jurisdicción
 
 0384 Buin " "
 
+0386 Paine " "
+
 0336 San Antonio San Antonio Santiago
 
-0340 Llo-Lleo " "
+0340 Llo-lleo " "
 
 0624 Concepción Concepción Concepción
 
