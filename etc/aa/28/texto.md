@@ -1,0 +1,11 @@
+AUTO ACORDADO SOBRE REAJUSTE DE CUANTIAS AÑO 1995
+
+"En Santiago, a veinte de enero de mil novecientos noventa y cinco, se reunió el Tribunal Pleno de la Corte Suprema, presidido por el Ministro don Enrique Zurita Camps, en calidad de Presidente Subrogante, y con la asistencia de los Ministros señores: Faúndez, Dávila, Béraud, Toro, Araya, Valenzuela, Alvarez, Bañados, Carrasco, Correa, Garrido, Navas, Libedinsky y Ortiz. Teniendo en consideración lo dispuesto en el artículo 6° del Decreto Ley N° 1417, de 9 de abril de 1976, modificado por el Decreto Ley N° 2416, de 13 de diciembre de 1978, el Tribunal en cumplimiento de dichas disposiciones reajusta la cuantía de los asuntos no determinados en sueldos vitales por medio del siguiente Auto Acordado:
+
+Primero: Introdúcese en el artículo que se señala del Código Orgánico de Tribunales, las siguientes modificaciones: Artículo 198. En el inciso final, reemplazado por el Decreto Ley 1417, se sustituyen los guarismos "3008" y "2248" por "3276" y "2448", respectivamente.
+
+Segundo: Introdúcense las siguientes modificaciones al Código de Procedimiento Civil: Artículo 445. En los números 9 y 12, se reemplaza "503.230" por "548.017". Artículo 698. En el inciso primero, se reemplazan "15.012" y "300.336" por "16.348" y "327.066", respectivamente. Artículo 703. Se reemplaza "15.012" por "16.348". Artículo 749. Se reemplaza "300.336" por "327.066". Se deja constancia que conforme a lo dispuesto en la ley N° 18.705, publicada en el Diario Oficial de 24 de mayo de 1988, las cantidades que se expresaban en pesos en los artículos 88, 118, 165, 767 y 801 del Código de Procedimiento Civil, se determinan -a partir del 24 de julio de ese año- en Unidades Tributarias Mensuales.
+
+Publíquese en el Diario Oficial. Para constancia se extiende la presente acta.
+
+Firmado: E. Zurita C., O. Faúndez V., R. Dávila D., L. Beraud P., A. Toro L., E. Araya V., G. Valenzuela E., H. Alvarez G., A. Bañados C., O. Carrasco A., L. Correa B., M. Garrido M., G. Navas B., M. Libedinsky T., E. Ortiz S.; M. Alejandra Rojas Contreras, Secretaria Subrogante".
