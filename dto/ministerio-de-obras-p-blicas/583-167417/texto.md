@@ -1,0 +1,3 @@
+Por decreto MOP Nº 583, de 28 de febrero de 2000, se expropiaron los lotes de terreno Nº 2 y 3, superficies 926,4 m² y 460,16 m², roles de avalúo 485-86 y 485-88, comuna de Loncoche, Obra Camino Loncoche Calafquén, Sector Puente Paya y se acordó precio de indemnización con sus propietarios Inge Oberreuter Grollmus y Lucy Oberreuter Grollmus, ascendente a las cantidades de $342.520, para el lote Nº 2 y $244.330, para el lote Nº 3.
+
+Fiscal del Ministerio de Obras Públicas.
