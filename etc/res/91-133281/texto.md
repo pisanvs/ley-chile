@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD PESQUERA QUELLON LTDA. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS
+
+Por resolución Nº 91, de 5 de Marzo de 1980, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Quellón Ltda. para ampliar sus actividades pesqueras, autorizadas por resolución Nº 73, y ampliadas por resolución Nº 79, ambas de 1979, de la Subsecretaría de Pesca, permitiéndole procesar 25 toneladas mensuales de erizos, en términos de producto elaborado que incluye las 2 toneladas autorizadas por la citada resolución Nº 79, en la elaboración de congelado en su planta de Quellón, Chiloé. El abastecimiento de erizos se realizará por compra a terceros que lo hayan obtenido del sector comprendido en el área Norte del archipiélago de los Chonos, incluyendo las costas de las Islas Concoto, Chaffers, Valverde, Rojas García y aguas adyacentes.-
+
+Hernán Buchi Buc, Subsecretario de Economía, Fomento y Reconstrucción y subrogante de Pesca.
