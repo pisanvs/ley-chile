@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.127, de 31 de julio de 2001, se expropió el lote de terreno Nº60, superficie 634 m², rol de avalúo 277-34, comuna de Algarrobo, para la obra Red Vial Litoral Central. Sector 2: Camino Algarrobo - Casablanca (Ruta F-90), Quinta Región y se acordó el valor de indemnización con su propietario José Antonio Otero Lathrop, ascendente a la cantidad de $2.823.675.-
+
+Fiscal del Ministerio de Obras Públicas.
