@@ -1,0 +1,5 @@
+Por decreto MOP No. 1.198, de 24 de mayo de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP No. 850 de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL MOP No. 206 de 1960, se expropió el lote de terreno No. 153-B; para la obra: Concesión Internacional Ruta 5 Tramo:
+
+Chillán-Collipulli. Sector: Km. 558.700,00 al Km. 567.000,00, ubicado en la Novena Región, Provincia de Malleco, que figura a nombre de Gutiérrez Aguilera Pedro A S, rol de avalúo No. 191-56, comuna de Collipulli, superficie de 3.302 m2. La comisión de peritos integrada por los señores César Nolberto Campos Vergara, Juan Andrés Tepper Lavanderos y Margarita Yavari Barrientos Miranda, fijó con fecha 11 de febrero de 1999, el valor provisional de la indemnización en la cantidad de $ 1.836.000.-para el lote No. 153-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 75 del decreto Ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
