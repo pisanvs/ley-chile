@@ -1,0 +1,3 @@
+Por decreto MOP Nº 283, de fecha 31 de marzo de 2004, se expropiaron los lotes de terreno Nº s. 79, 80 y 81, superficie 1.942, 11.050 y 22.304 m², respectivamente, rol Nº 166-1, comuna de Fresia, para la obra "Mejoramiento Ruta V-46 Sector Tegualda - Fresia, Tramo 2, Km. 1,90990 al 15,88000", X Región y se acordó el valor de la indemnización con su propietario Sergio Iván Díaz Pumurra y Otros, ascendente a la cantidad de $19.175.269.
+
+- Fiscal del Ministerio de Obras Públicas.
