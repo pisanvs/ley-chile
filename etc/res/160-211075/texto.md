@@ -1,0 +1,5 @@
+AUTORIZA A DON AUGUSTO BLUME SOTO PARA AMPLIAR SUS ACTIVIDADES PESQUERAS Y DECLARA LA CADUCIDAD DE LA RESOLUCION QUE SEÑALA
+
+Por resolución N° 160, de 12 de Abril de 1984, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Augusto Blume Soto, RUT N° 3.823.333-5, domiciliado en Iquique, calle Arturo del Río 2878, Playa Brava, para operar la embarcación denominada "Eldom", en el litoral de la I, II y VIII Región, en labores extractivas de los siguientes recursos hidrobiológicos y su correspondiente fauna acompañante: jurel, sardina española, sardina común, anchoveta, merluza común, caballa, langostino colorado, langostino amarillo y camarón nylon. Además, se declara que ha quedado sin efecto la resolución N° 36, de 26 de Enero de 1984, de la misma Subsecretaría, por haber incurrido su titular en la causal de caducidad del artículo 6° del decreto de Economía N° 175, de 1980.
+
+Santiago, 12 de Abril de 1984.- Jorge Valenzuela Durán, Coronel de Ejército, Subsecretario de Pesca subrogante.
