@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº828, de 31 de mayo de 2002, se expropió el lote de terreno Nº1, superficie 800 m2., rol de avalúo Nº263-33, comuna de Carahue, para la obra Camino Carahue - Catripulli, sector Puente Quillen, Tramo Km. 0.000 al Km. 0.100, IX Región, y se acordó el valor de indemnización con su propietario Pedro Herrera Leal, ascendente a la cantidad de $572.200.
+
+Fiscal del Ministerio de Obras Públicas.
