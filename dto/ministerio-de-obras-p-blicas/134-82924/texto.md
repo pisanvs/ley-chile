@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 134, de 17 de mayo de 1990, se expropiaron los lotes No. s. 21 y 28, superficies 2.966 M2. y 946 M2., roles de avalúos 5004-313 y 5004-312, ambos de la Comuna de Coronel, para la obra Ampliación Ruta 160, Camino Concepción-Coronel y se acordó precio de indemnización con sus propietarias Elena del Carmen Opazo y Ercilia Hermosilla, ascendente a las cantidades de $ 3.915.475·y $ 1.332.362, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
