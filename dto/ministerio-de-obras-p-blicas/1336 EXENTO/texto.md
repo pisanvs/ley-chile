@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.336, de 28 de septiembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 3, 4, 5-A, 5-B, 5-C y 9, para la ejecución de la obra "Camino Ruta O-
+
+66-N, Sector Nueva Aldea-Ñipas, Tramo I, Km. 0,00000 a Km. 5,58300", que figuran a nombre de Raúl Fuentealba Libante y Reginio del Fuentealba Figueroa, rol de avalúo 161-4 y 164-65, comuna de Ranquil, VIII Región, superficies 27, 417, 298, 702, 791 y 591 M2. La Comisión de peritos fijó con fecha 10 de abril de 2001, el valor provisional de la indemnización en la cantidad de $27.000, lote 3; $1.018.100, lote 4; $238.400, lote 5-A; $627.600, lote 5-B; $647.800, lote 5-C y $1.357.200, lote 9. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
