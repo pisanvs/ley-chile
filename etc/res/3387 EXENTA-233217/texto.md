@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.387, de 29 de noviembre de 2004, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº1.989 de 2003, modificada por resolución Nº937 de 2004, ambas de esta Subsecretaría, que autorizó a PESQUERA BIO BIO S.A. para desarrollar actividades pesqueras extractivas con la nave "Oceanic II'', en la III Región y el Archipiélago de Juan Fernández, Isla de Pascua, Islas Desventuradas e Islas Sala y Gómez, sobre el recurso Alfonsino, y en la III Región, sobre el recurso Besugo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 29 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
