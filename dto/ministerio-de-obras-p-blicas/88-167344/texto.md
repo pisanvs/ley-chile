@@ -1,0 +1,3 @@
+Por decreto MOP Nº 88, de 26 de enero del 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL MOP. Nº 206, de 1960, se expropió el lote de terreno Nº 324, superficie 125 m², rol de avalúo 7850-6, comuna de La Pintana, Región Metropolitana, para la obra Concesión Internacional Ruta 5 Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago. Km. -0.150,00 a Km. 10.986,00. Posteriormente, por decreto MOP. Nº 916, de 22 de marzo del 2000, se autorizó el Convenio Directo de Precio Ad Referéndum y se acordó el valor de indemnización con su propietario Juan Carlos Umaña Salazar, ascendente a la cantidad de $7.666.348.-
+
+Fiscal del Ministerio de Obras Públicas.
