@@ -1,0 +1,3 @@
+Decreto exento número 1.518, septiembre 1998, Municipalidad Rancagua expropia: franja terreno propiedad Alcázar 299, rol avalúo Nº33-26 propietario rol de avalúo Sociedad Inmobiliaria y Constructora del Sur Limitada, deslindes: Norte: tramo I-H 4, 10 metros otro propietario y tramo d-D 5,46 metros resto propiedad; Sur, tramo E-F-G 10,70 metros calle Cuevas; Oriente, tramo I-d 28,40 metros resto propiedad y tramo D-E 4,50 metros otro propietario; y Poniente, tramo H-G 31 metros bien nacional uso público, calle Alcázar. Indemnización definitiva $6.870.317. Expropiación artículo 29 Ley Nº18.695, ensanche Alcázar y Cuevas, tramo intersección ambas calles. Pago en dos cuotas.
+
+Darío Valenzuela Van Treek, Alcalde de Rancagua. Carlos Morales Lara, Secretario Municipal.
