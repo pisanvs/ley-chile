@@ -1,0 +1,3 @@
+Sergio Onofre Jarpa R. y Andrés Allamand Z., Presidente y Secretario General del partido "Renovación Nacional"; respectivamente, han solicitado constitución legal de la entidad en la XI Región "Aysén del General Carlos Ibáñez del Campo" acompañando 246 afiliaciones. Publicación que se ordena para efectos contemplados en artículo 17 de Ley No.18.603, por Resolución Exenta No.0-463 de 1º Junio de 1990.-
+
+Santiago, Junio 1º de 1990.- Juan Ignacio García Rodríguez, Director.
