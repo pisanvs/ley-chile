@@ -1,0 +1,5 @@
+Por decreto MOP No. 1.291, de 31 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropió el lote de terreno No.
+
+3, para la obra Camino Ruta D-485, sector Paihuano-Pisco Elqui, que figura a nombre de doña Tegualda Elvira Rojas Rojas, rol de avalúo 12-12, comuna de Paihuano, superficie 1.026 m². La comisión de peritos compuesta por los señores Alfredo Prieto Parra, Iris Marcich Moller y Juan Ibáñez Palma, fijó con fecha 12 de junio de 1996, el valor provisional de la indemnización en la cantidad de $ 1.815.600. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
