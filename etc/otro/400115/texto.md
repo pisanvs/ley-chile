@@ -1,0 +1,9 @@
+ACTA
+
+Reunidos en el Ministerio de Relaciones Esteriores de Chile el Ministro del ramo, señor don Agustin Edwards, i el encargado de Negocios ad-interim i Plenipotenciario ad-hoc de la República Arjentina, señor don Alberto Blancas, debidamente autorizados por sus respectivos Gobiernos, i animados del propósito de facilitar la demarcacion en el terreno de la línea divisoria entre los dos paises, en la parte comprendida entre los paralelos de veintitres grados i veintiseis grados cincuenta i dos minutos i cuarenta i cinco segundos de latitud austral, establecida en el laudo de veinticuatro de marzo de mil ochocientos noventa i nueve, pronunciado por la Comision demarcadora designada por las Actas de dos i veinticinco de noviembre de mil ochocientos noventa i ocho i previo el asentimiento del Gobierno de Su Majestad Británica, a quien por el Acta de nueve de enero del presente año se habia pedido por ambos Gobiernos efectuara dicha demarcacion por la Comision que debia trazar la línea jeneral de límites establecida por el fallo de Su Majestad Británica de fecha veinte de noviembre de mil novecientos dos, u otra que él quisiere designar convinieron:
+
+1.° En confiar dicha demarcacion a una comision mista de ingenieros designados por los respectivos Gobiernos.
+
+2.° En entregar a la decision del Gobierno de Su Majestad Británica, los desacuerdos que en aquella pudieran presentarse i que no hubieran podido ser resueltos directamente por las respectivas cancillerías.
+
+En fé de lo cual, los respectivos Plenipotenciarios firman i sellan la presente Acta en doble ejemplar en la ciudad de Santiago, a los cinco dias de noviembre de mil novecientos tres.- (Firmado) AGUSTIN EDWARDS.-(Firmado) ALBERTO BLANCAS.
