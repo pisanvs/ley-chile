@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.013, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº35, superficie 2.061 m², rol de avalúo 209-89, comuna de Los Alamos, VIII Región, para la obra ''Camino Ruta P-46, Sector Los Alamos-Sara de Lebu, Km. 0,00000 al 16,84000'' y se acordó el valor de indemnización con su propietario don Juan Bautista Guzmán Leal, ascendente a la cantidad de $648.146.-
+
+Fiscal del Ministerio de Obras Públicas.
