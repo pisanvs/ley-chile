@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº39, de 19 de febrero de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL. MOP Nº206, de 1960, se expropió el lote de terreno Nº87-A, superficie 1.298 m2., rol de avalúo 851-9, comuna de Bulnes, Octava Región, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, Sector Km. 435.378,00 al Km. 441.635,00. Posteriormente, por decreto MOP Nº133, de 28 de marzo de 2003, se autorizó el Convenio Directo de Precio Ad - Referendum y se acordó el valor de indemnización con don Olvin del Rosario Jara Godoy, ascendente a la cantidad de $2.657.717.
+
+Fiscal del Ministerio de Obras Públicas.
