@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.363, de 30 de agosto de 1999 y en base a la facultad otorgada por el artículo 105 del DFL MOP.
+
+Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra agua potable de Los Andes, Estanque Minera Andina, que figura a nombre de Codelco Chile División Andina, rol de avalúo 509-9, comuna de Los Andes, V Región, superficie 3.153,71 m2. La Comisión de Peritos compuesta por los señores Pablo Caria Giurici, Osvaldo Muñoz Quintana y Alvaro Verdejo Vidal, fijó con fecha 5 de marzo de 1999, el valor provisional de la indemnización en la cantidad de $7.896.890. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
