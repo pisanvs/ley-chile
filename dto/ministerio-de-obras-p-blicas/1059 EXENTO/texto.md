@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.059, de fecha 31 de julio de 2001, se expropiaron los lotes de terreno Nºs. 20, 21 y 22, superficies 478 m², 324 m² y 62,00 m², respectivamente, rol de avalúo 75-25, comuna de Galvarino, para la obra "Camino Ruta S-16, Sector Galvarino - Chol Chol, Tramo Km. 0,00000 al 24,30269, Sub-Tramo I Km. 0,005 al 8,339" y se acordó el valor de indemnización con su propietario Edmundo Rolf Kehr Mellado, ascendente a la cantidad de $1.061.109.-
+
+Fiscal del Ministerio de Obras Públicas.
