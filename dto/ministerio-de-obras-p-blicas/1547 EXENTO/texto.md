@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.547, de 22 de octubre de 2001, se dejaron sin efecto los decretos exentos MOP Nºs. 629, de 29 de mayo y 1.019, de 31 de julio, ambos de 2001, que figuran a nombre de Hernández Hueto Irene y Otra y Sucesión García Hernández y Otra, roles de avalúo 4651-701, 4651700 y 4650-826, comuna de Viña del Mar, superficies 781 m2.; 767 m2.; 3.340 m2., y 1.311 m2., para la obra Colector Glorias Navales - Viña del Mar, provincia de Valparaíso, V Región.
+
+Fiscal del Ministerio de Obras Públicas.
