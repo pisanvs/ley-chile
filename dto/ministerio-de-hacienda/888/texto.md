@@ -1,0 +1,43 @@
+AUTORIZA SUSCRIBIR Y REFRENDAR LA DOCUMENTACION A QUE DE LUGAR LA APLICACION DE LOS ARTICULOS 5°, 6° y 8° DE LA LEY N° 18.624, Y ARTICULO 7° DE LA LEY N° 18.591, CON MOTIVO DE LA MODIFICACION DE LOS CONTRATOS QUE INDICA
+
+Núm. 888.- Santiago, 26 de Octubre de 1990.- Vistos: El artículo 32 número 8 de la Constitución Política de la República de Chile, los artículos 5°, 6° y 8° de la Ley N° 18.624, los artículos 45 y 46 del decreto ley N° 1.263, de 1975, el artículo 7° de la Ley N° 18.591, y los decretos del Ministerio de Hacienda N°s. 467 y 468, ambos de 1987 y 628, de 1988,
+
+Decreto:
+
+1°. Autorízase al Embajador de la República de Chile en los Estados Unidos de América o al Encargado de Negocios ad Interin que lo reemplace, para suscribir en representación del Tesorero General de la República y para refrendar en representación del Contralor General de la República, y a su pedido, la documentación a que dé lugar la aplicación de los artículos 5° inciso segundo y 6° de la Ley N° 18.624, de 1987, sobre modificación de los contratos que reprogramaron, en uso de lo dispuesto en las leyes N°s. 18.233, 18.442 y 18.624, los vencimientos de los años 1983 y 1984; de los años 1985, 1986 y 1987 y de los años 1988, 1989, 1990 y 1991 de las obligaciones con el exterior a que se refieren dichas leyes; las concordancias que corresponde efectuar en el contrato de empréstito Cofinanciamiento que autorizó contratar el artículo 5° de la Ley N° 18.442 y, además, sobre subsistencia de la garantía del Estado otorgada por las leyes N°s. 18.233, 18.311, 18.442, por el artículo 21 de la Ley N° 18.482, por el artículo 7° de la ley N° 18.591 y por la Ley N° 18.624, en los casos que dicha documentación se firme en el exterior.
+
+2° Los contratos que se individualizan en los números siguientes que se modifiquen en conformidad con lo dispuesto en los artículos 5°, inciso segundo, y 6° de la Ley N° 18.624, con el objeto de ampliar los plazos para la amortización de los capitales, mantener el pago anual de los intereses y fijar nuevas fechas para su reversión, deberán ajustarse a los términos que en cada caso se señalan.
+
+3° En los contratos de reestructuración años 1983-1984, modificados el 1° de Noviembre de 1985, el 17 de Junio de 1987 y el 4 de Agosto de 1988, deberá estipularse que el capital será amortizado en 18 cuotas semestrales, sustancialmente iguales y sucesivas, la primera de las cuales vencerá el primer semestre de 1997 y la última el segundo semestre del año 2005. Los intereses, por su parte, continuarán pagándose anualmente hasta el año 1994. A partir de 1995 se volverá al pago semestral o trimestral de los intereses, según sea el caso.
+
+4°. En los contratos de reestructuración años 1985-1991, modificados el 17 de Junio de 1987 y el 4 de Agosto de 1988; en el contrato de reestructuración de la Empresa Nacional de Electricidad S.A., empresa del sector privado, que mantiene obligaciones reestructuradas correspondientes al período 1985-1991, en calidad de empresa del sector público, razón por cual subsiste la garantía del Estado otorgada a estas obligaciones, en virtud de lo dispuesto en el artículo 7° de la Ley N° 18.591, y en el contrato de reestructuración de la Empresa Eléctrica Colbún Machicura S.A., suscrito el 28 de Octubre de 1987 y modificado el 4 de Agosto de 1988, deberá estipularse que el capital será amortizado en 18 cuotas semestrales sustancialmente iguales y sucesivas, la primera de las cuales vencerá el primer semestre de 1997 y la última el segundo semestre del año 2005. Los intereses, por su parte, continuarán pagándose anualmente hasta el año 1995. A partir de 1996 se volverá al pago semestral o trimestral de los intereses, según sea el caso.
+
+5°. El Tesorero General de la República suscribirá la documentación a que dé lugar las modificaciones y enmiendas que, en conformidad a las disposiciones de este decreto, corresponda efectuar al contrato de reestructuración de la República de Chile, en el caso que dicha documentación se suscriba en el país.
+
+6°. Los plazos para la amortización de los capitales y para el pago de los intereses de los créditos y de la reprogramación de los vencimientos correspondientes al período 1983-1984 de los contratos que se indican, serán los que se señalan a continuación:
+
+a) En los contratos de crédito a que se refieren el artículo 1° de la Ley N° 18.233 y el decreto de Hacienda N° 500, de 1983, y el artículo 1° de la Ley N° 18.311 y el decreto de Hacienda N° 457, de 1984, el capital deberá ser amortizado en 10 cuotas semestrales, sustancialmente iguales y sucesivas, la primera de las cuales vencerá el primer semestre de 1995 y la última el segundo semestre de 1999. Los intereses, por su parte, continuarán pagándose anualmente hasta 1993. A partir de 1994 se volverá al pago semestral o trimestral de los intereses, según sea el caso.
+
+b) En el contrato de crédito a que se refiere el artículo 1° de la Ley N° 18.442 y el decreto de Hacienda N° 845 de 1985, el capital deberá ser amortizado en 16 cuotas semestrales, sustancialmente iguales y sucesivas, la primera de las cuales vencerá el primer semestre de 1995 y la última el segundo semestre del año 2002. En su caso los intereses continuarán pagándose anualmente hasta el año 1992. A partir de 1993 se volverá al pago semestral o trimestral de los intereses, según sea el caso.
+
+c) en el contrato sobre asunción de pasivos por el Banco Central de Chile y garantizados por el Estado, en virtud de lo dispuesto en el artículo 21 de la Ley N° 18.482, correspondientes a los vencimientos de las obligaciones existentes, al 31 de Enero de 1983, con acreedores externos, el plazo para la amortización del capital, la prórroga del pago anual de los intereses y su reversión deberán ajustarse a los términos que para los contratos de reestructuración años 1983-1984 se señalaron en el número 3° de este decreto.
+
+7°. Las tasas de los intereses de las obligaciones a que se refieren los contratos individualizados en los números anteriores, fijadas en el decreto de Hacienda N° 628, de 1988, no se modificarán.
+
+8° Las condiciones financieras del contrato de empréstito Cofinanciamiento no experimentarán modificaciones y, por lo tanto, los plazos para la amortización del capital, la tasa de los intereses y el plazo para el pago de los mismos y su reversión serán los establecidos en los decretos de Hacienda N° 858, de 1985 y N° 628, de 1988.
+
+9°. En los contratos de reestructuración que se individualizan en los N°s. 3°, 4° y 6° letra c), de este decreto se podrán readecuar las estipulaciones de la Sección 5.11 de esos contratos, con el objeto de flexibilizar los mecanismos de pago de deuda externa que ella establece así como para introducir nuevos mecanismos dirigidos a la misma finalidad, fijando las condiciones y procedimientos para su aplicación.
+
+En los citados contratos de reestructuración también se podrán convenir nuevas estipulaciones y compromisos que sean usuales en los mercados financieros internacionales en relación con operaciones de similar naturaleza incluidas, entre otras, aquellas estipulaciones que tengan por objeto permitir a los prestatarios el acceso a futuros financiamientos o créditos externos.
+
+El Banco Central de Chile, en uso de sus atribuciones, podrá readecuar y ampliar las secciones correspondientes de los contratos a que se refiere el N° 6° letras a) y b) de este decreto, con el objeto de incorporar las estipulaciones señaladas en los incisos anteriores.
+
+Autorízase al Banco Central de Chile para que, en calidad de agente fiscal, suscriba las referencias y concordancias que corresponda efectuar en el contrato de empréstito contratado en virtud de la autorización conferida por el artículo 5° de la Ley N° 18.442, con motivo de las flexibilizaciones de los mecanismos de pago de deuda externa que se introduzcan en los restantes contratos que se individualizan en este número.
+
+Al Banco Central de Chile corresponderá emitir las certificaciones o aprobaciones que procedan, en conformidad a lo dispuesto en los artículos 5° y 6° de la Ley N° 18.624.
+
+No obstante, las nuevas obligaciones que se contraigan o asuman con motivo de la utilización de los mecanismos de pago de deuda externa o del otorgamiento de futuros financiamientos o créditos externos no gozan de la garantía del Estado otorgada en virtud de las leyes N°s. 18.233, 18.311, 18.442, artículo 21 de la Ley 18.482 y N° 18.624 y los decretos que las complementan.
+
+Tómese razón, comuníquese y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Alejandro Foxley Rioseco, Ministro de Hacienda.
+
+Lo que transcribo a Ud., para su conocimiento.- Saluda Atte. a Ud.- Pablo Piñera Echenique, Subsecretario de Hacienda.
