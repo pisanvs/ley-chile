@@ -1,0 +1,5 @@
+Por decreto MOP No. 1.886, de 30 de julio de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL. MOP No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL. MOP No. 206, de 1960, se expropió el lote de terreno No.
+
+2-A, para la obra Ruta 5. Tramo: Talca-Chillán. Intersección Desnivelada Acceso a Longaví, Séptima Región, que figura a nombre de Villagra Zúñiga Noelia Esterlinda, rol de avalúo 189-72, comuna de Longaví, superficie 4.575 m2. La comisión de peritos integrada por los señores Fernando Pinochet de la Barra, Alberto Arnoldo Sánchez Muñoz y Mario Enrique Yáñez Vásquez, fijó con fecha 24 de abril de 1999, el valor provisional de la indemnización en la cantidad de $ 28.275.600.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
