@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.494, de 28 de septiembre de 2001, se expropió el lote de terreno Nº 29, superficie 25.569 m2., rol de avalúo 690-47, comuna de El Tabo, para la obra Red Vial Litoral Central Sector 3: Eje Costero Internacional Subtramo Las Pataguas Quillaicillo, Kms. 5.936,10 al 8.408,204, Quinta Región y se acordó el valor de indemnización con su propietario René Morales Morales, ascendente a la cantidad de $17.502.245.
+
+- Fiscal del Ministerio de Obras Públicas.
