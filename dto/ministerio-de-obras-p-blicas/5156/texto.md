@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.156 de fecha 30 de noviembre de 2000, modificado Por decreto MOP Nº107 de 31 de enero de 2001, se expropió el lote de terreno Nº17-A, superficie 2.614 m², rol de avalúo 1442-34, comuna de Puerto Varas, para la obra "Camino Ruta V-505, Sector Puerto Varas - Los Alerces - Pto. Montt, Tramo Km. 0,000 a Km. 16,340" y se acordó el valor de indemnización con su propietaria María Teresa Bohle Luttecke, ascendente a la cantidad de $5.631.892.
+
+Fiscal del Ministerio de Obras Públicas.
