@@ -1,0 +1,3 @@
+Por decreto MOP Nº 697, de 29 de mayo de 1998, se expropió el lote de terreno Nº 5, superficie 3.730 m², rol de avalúo 118-1, comuna de Quirihue, para la obra Camino Cauquenes - Límite Regional - Quirihue, Sector Acceso a Quirihue y se acordó precio de indemnización con su propietario Parroquia "Dulce Nombre de Jesús", ascendente a la cantidad de $ 11.005.703.-
+
+Fiscal del Ministerio de Obras Públicas.
