@@ -1,0 +1,5 @@
+Por Resolución No. 81 de 31 de Enero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don ARTURO ERENICIO HURTADO AHUMADA, R.U.T. No. 4.595.185-5, domiciliado en Iquique, calle Bugambillas No. 2748, para ampliar actividades pesqueras, autorizadas por resolución No. 1442, de 1987, de esta Subsecretaría, en orden a operar la embarcación "Don Ubaldo H.Q.", en el litoral que de la III y IV Región, además de los recursos señalados en la Resolución No. 1442, de 1987, de esta Subsecretaría, el recurso Anchoa a anchoveta con red de cerco.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 31 de Enero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
