@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.104, de 30 de julio de 1999, se expropió el lote de terreno Nº6-G, superficie 135,0 m2., rol de avalúo 258-12, comuna de Ercilla, para la obra "Concesión Internacional Ruta 5; Tramo Collipulli-Temuco", Novena Región y se acordó el valor de indemnización con su propietario Carlos Abat Carrasco Beltrán, ascendente a la cantidad de $18.941.510.-
+
+Fiscal del Ministerio de Obras Públicas.
