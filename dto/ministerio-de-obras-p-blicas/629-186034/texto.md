@@ -1,0 +1,3 @@
+Por decreto MOP Nº 629 de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº 100, superficie 2.597 m2, rol de avalúo 33-110, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 12,70000 a Km. 18,19349" y se acordó el valor de indemnización con su propietario Gilberto del Carmen Soto Soto, ascendente a la cantidad de $6.490.548.-
+
+Fiscal del Ministerio de Obras Públicas.
