@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 199, de 30 de marzo de 2001, se expropió el lote de terreno Nº 140-6, superficie 419 m2., rol de avalúo 136-385, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietario Luis Segundo Camus Tapia, ascendente a la cantidad de $2.747.143.
+
+- Fiscal del Ministerio de Obras Públicas.
