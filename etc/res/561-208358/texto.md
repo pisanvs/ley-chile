@@ -1,0 +1,3 @@
+Por resolución Nº 561, de 24 de febrero de 2003, de esta Subsecretaría, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A. para ampliar las actividades pesqueras extractivas con la nave "Oficina Vigo", en la I y II Regiones, por fuera del área de reserva artesanal, con cerco, donde podrá capturar los siguientes recursos hidrobiológicos: Caballa, Bacaladillo o mote, Agujilla, Bonito, Dorado, Machuelo o tritre y Palometa.
+
+Valparaíso, 24 de febrero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
