@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 1.406 de 3 de Septiembre de 1991, revocó resolución exenta Nº 1.735 de 11 de Octubre de 1989, publicada en el Diario Oficial de 16 de Octubre del mismo año y conforme al artículo 5º Transitorio Código de Aguas, determinó Derechos de Aprovechamiento Aguas proporcionales que corresponden al Sector Excluido del predio denominado "Hijuela Oriente e Hijuela Poniente de San Ramón de Huenutil y Santa Herminia", de la Comuna de Parral, Provincia de Linares y aprobó la división de Derechos de aprovechamiento de Aguas de parte del Proyecto de Parcelación "El Porvenir" , que corresponden a las parcelas Nºs. 64 a 69, sitio Nº 10 y Reserva CORA Nº 3. Los derechos de aguas se extraen por el canal San Ramón y canal Huenutil, ambos provenientes del río Perquilauquén.
+
+Publicación hecha conforme artículo 13 Ley Nº 18.377.-
+
+Director Nacional.
