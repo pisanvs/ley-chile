@@ -1,0 +1,5 @@
+AUTORIZA AL INSTITUTO PROFESIONAL DE OSORNO PARA REALIZAR LABORES EXTRACTIVAS DE RECURSOS HIDROBIOLOGICOS QUE INDICA
+
+Por resolución No. 484 de 16 de Junio de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza al Instituto Profesional de Osorno, domiciliado en Osorno, para capturar mediante redes de enmalle o cerco hasta 50 hembras y 50 machos, de ejemplares adultos de salmón plateado y hasta 100 hembras y 50, de la especie trucha arco iris, desde el Lago Llanquihue, Río Blanco o Río Pescado, X Región, para destinarlos a los centros de cultivo que tiene autorizados, durante el período comprendido entre esta fecha y el 31 de Julio de 1986, salvo lo que dice relación con la captura de trucha arco iris en que se extender hasta Enero de 1987.
+
+Valparaíso, 16 de Junio de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
