@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.063, de 30 de julio de 1999, se expropió el lote de terreno No. 2, superficie 650 m²., rol de avalúo 1334-392, comuna de San Carlos, para la obra Ruta 5 Tramo Talca - Chillán, sectores Accesos Estación Ninquihue Oriente y Poniente, Calles de Servicio Ninquihue, Octava Región, y se acordó el valor de indemnización con su propietario Héctor Rodolfo Lagos Lagos, ascedente a la cantidad de $ 1.673.263.-
+
+Fiscal del Ministerio de Obras Públicas.
