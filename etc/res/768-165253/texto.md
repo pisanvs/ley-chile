@@ -1,0 +1,5 @@
+AUTORIZA A DON JOSE FERNANDEZ SAEZ PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 768, de 22 de Noviembre de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don José Fernández Sáez, RUT. 1.638.401-1, domiciliado en Avenida Mejillones No. 4834, de Antofagasta, para capturar con las embarcaciones "Genoveva III" y "Sta. Mercedes", además de los recursos hidrobiológicos autorizados por la Resolución 39, de 1985, de la misma Subsecretaría, las especies cojinova, dorado, bonito y palometa. Las embarcaciones señaladas deberán contar a bordo con sistemas de preservación de materia prima, como cajas o contendores con hielo, cámaras isotérmicas, refrigeradas o sistemas de salmuera refrigerada.
+
+Valparaíso, 22 de Noviembre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
