@@ -1,0 +1,773 @@
+ESTABLECE DERECHO ESPECIFICO Y REBAJA A LA IMPORTACION DE ACEITES VEGETALES COMESTIBLES POR PERIODO QUE SEÑALA
+
+Núm. 128 exento.- Santiago, 20 de abril de 2000.- Vistos: Lo dispuesto en el artículo 12 de la ley Nº 18.525; en el inciso segundo del artículo segundo transitorio de la ley Nº 18.589, y lo dispuesto en el decreto de Interior Nº 654, de 1994, y la resolución Nº 520, de 1996, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón, y
+
+Considerando:
+
+1.- Que la política del Supremo Gobierno en materia de productos agrícolas básicos, tiene por objeto establecer un margen razonable de fluctuación de los precios internos en relación a los precios internacionales de tales productos.
+
+2.- Que para cumplir con dicho objetivo es indispensable establecer derechos específicos y rebajas a la importación de aceites vegetales comestibles, en forma permanente hasta el 31 de octubre de 2001.
+
+D e c r e t o:
+
+#### Artículo 1º
+
+Establécese, a contar del 1º de noviembre del año 2000 y hasta el 31 de octubre de 2001, un derecho específico a la importación de productos que se clasifican en las posiciones arancelarias que a continuación se indican:
+
+Posición Producto
+
+1507.1000 Aceites en bruto, incluso desgomado.
+
+1507.9000 Los demás.
+
+1508.1000 Aceite en bruto.
+
+1508.9000 Los demás.
+
+1509.1000 Virgen.
+
+1509.9000 Los demás.
+
+1510.0000 Los demás aceites y sus fracciones obtenidos
+
+exclusivamente de aceituna, incluso
+
+refinados, pero sin modificar químicamente, y
+
+mezclas de estos aceites o fracciones con los
+
+aceites o fracciones de la partida Nº 15.09.
+
+1511.1000 Aceite en bruto.
+
+1511.9000 Los demás.
+
+1512.1110 De girasol.
+
+1512.1120 De cártamo.
+
+1512.1910 De girasol.
+
+1512.1920 De cártamo.
+
+1512.2100 Aceite en bruto, incluso sin el gosipol.
+
+1512.2900 Los demás.
+
+1513.1100 Aceite en bruto.
+
+1513.1900 Los demás.
+
+1513.2100 Aceites en bruto.
+
+1513.2900 Los demás.
+
+1514.1000 Aceites en bruto.
+
+1514.9000 Los demás.
+
+1515.2100 Aceite en bruto.
+
+1515.2900 Los demás.
+
+1515.5000 Aceite de sésamo (ajonjolí) y sus fracciones.
+
+1515.9000 Los demás.
+
+Este derecho específico, expresado en dólares de los Estados Unidos de América, por kilo bruto, se aplicará conforme a la tabla que a continuación se señala y para el período que se indica, en base al menor precio FOB de cualquiera de los aceites vegetales comestibles que se clasifican en las posiciones arancelarias antes señaladas, ya sean en bruto o refinados, vigente en el mercado internacional a la fecha de embarque de esos productos. Para estos efectos, tal precio será aquel que informe semanalmente el Servicio Nacional de Aduanas.
+
+Desde 01.11.2000 Desde 01.01.2001
+
+hasta 31.12.2000 hasta 31.10.2001
+
+Precio Derecho Derecho
+
+FOB Específico Específico
+
+US$/Ton US$/KG US$/KG
+
+200 0,44666 0,44910
+
+201 0,44507 0,44753
+
+202 0,44349 0,44596
+
+203 0,44191 0,44438
+
+204 0,44033 0,44281
+
+205 0,43875 0,44124
+
+206 0,43717 0,43967
+
+207 0,43559 0,43810
+
+208 0,43400 0,43653
+
+209 0,43242 0,43496
+
+210 0,43084 0,43338
+
+211 0,42926 0,43181
+
+212 0,42768 0,43024
+
+213 0,42610 0,42867
+
+214 0,42452 0,42710
+
+215 0,42293 0,42553
+
+216 0,42135 0,42396
+
+217 0,41977 0,42238
+
+218 0,41819 0,42081
+
+219 0,41661 0,41924
+
+220 0,41503 0,41767
+
+221 0,41345 0,41610
+
+222 0,41186 0,41453
+
+223 0,41028 0,41296
+
+224 0,40870 0,41138
+
+225 0,40712 0,40981
+
+226 0,40554 0,40824
+
+227 0,40396 0,40667
+
+228 0,40238 0,40510
+
+229 0,40079 0,40353
+
+230 0,39921 0,40196
+
+231 0,39763 0,40039
+
+232 0,39605 0,39881
+
+233 0,39447 0,39724
+
+234 0,39289 0,39567
+
+235 0,39131 0,39410
+
+236 0,38972 0,39253
+
+237 0,38814 0,39096
+
+238 0,38656 0,38939
+
+239 0,38498 0,38781
+
+240 0,38340 0,38624
+
+241 0,38182 0,38467
+
+242 0,38024 0,38310
+
+243 0,37865 0,38153
+
+244 0,37707 0,37996
+
+245 0,37549 0,37839
+
+246 0,37391 0,37681
+
+247 0,37233 0,37524
+
+248 0,37075 0,37367
+
+249 0,36917 0,37210
+
+250 0,36758 0,37053
+
+251 0,36600 0,36896
+
+252 0,36442 0,36739
+
+253 0,36284 0,36581
+
+254 0,36126 0,36424
+
+255 0,35968 0,36267
+
+256 0,35810 0,36110
+
+257 0,35651 0,35953
+
+258 0,35493 0,35796
+
+259 0,35335 0,35639
+
+260 0,35177 0,35482
+
+261 0,35019 0,35324
+
+262 0,34861 0,35167
+
+263 0,34703 0,35010
+
+264 0,34544 0,34853
+
+265 0,34386 0,34696
+
+266 0,34228 0,34539
+
+267 0,34070 0,34382
+
+268 0,33912 0,34224
+
+269 0,33754 0,34067
+
+270 0,33595 0,33910
+
+271 0,33437 0,33753
+
+272 0,33279 0,33596
+
+273 0,33121 0,33439
+
+274 0,32963 0,33282
+
+275 0,32805 0,33124
+
+276 0,32647 0,32967
+
+277 0,32488 0,32810
+
+278 0,32330 0,32653
+
+279 0,32172 0,32496
+
+280 0,32014 0,32339
+
+281 0,31856 0,32182
+
+282 0,31698 0,32024
+
+283 0,31540 0,31867
+
+284 0,31381 0,31710
+
+285 0,31223 0,31553
+
+286 0,31065 0,31396
+
+287 0,30907 0,31239
+
+288 0,30749 0,31082
+
+289 0,30591 0,30925
+
+290 0,30433 0,30767
+
+291 0,30274 0,30610
+
+292 0,30116 0,30453
+
+293 0,29958 0,30296
+
+294 0,29800 0,30139
+
+295 0,29642 0,29982
+
+296 0,29484 0,29825
+
+297 0,29326 0,29667
+
+298 0,29167 0,29510
+
+299 0,29009 0,29353
+
+300 0,28851 0,29196
+
+301 0,28693 0,29039
+
+302 0,28535 0,28882
+
+303 0,28377 0,28725
+
+304 0,28219 0,28567
+
+305 0,28060 0,28410
+
+306 0,27902 0,28253
+
+307 0,27744 0,28096
+
+308 0,27586 0,27939
+
+309 0,27428 0,27782
+
+310 0,27270 0,27625
+
+311 0,27112 0,27468
+
+312 0,26953 0,27310
+
+313 0,26795 0,27153
+
+314 0,26637 0,26996
+
+315 0,26479 0,26839
+
+316 0,26321 0,26682
+
+317 0,26163 0,26525
+
+318 0,26005 0,26368
+
+319 0,25846 0,26210
+
+320 0,25688 0,26053
+
+321 0,25530 0,25896
+
+322 0,25372 0,25739
+
+323 0,25214 0,25582
+
+324 0,25056 0,25425
+
+325 0,24898 0,25268
+
+326 0,24739 0,25110
+
+327 0,24581 0,24953
+
+328 0,24423 0,24796
+
+329 0,24265 0,24639
+
+330 0,24107 0,24482
+
+331 0,23949 0,24325
+
+332 0,23791 0,24168
+
+333 0,23632 0,24010
+
+334 0,23474 0,23853
+
+335 0,23316 0,23696
+
+336 0,23158 0,23539
+
+337 0,23000 0,23382
+
+338 0,22842 0,23225
+
+339 0,22684 0,23068
+
+340 0,22525 0,22911
+
+341 0,22367 0,22753
+
+342 0,22209 0,22596
+
+343 0,22051 0,22439
+
+344 0,21893 0,22282
+
+345 0,21735 0,22125
+
+346 0,21577 0,21968
+
+347 0,21418 0,21811
+
+348 0,21260 0,21653
+
+349 0,21102 0,21496
+
+350 0,20944 0,21339
+
+351 0,20786 0,21182
+
+352 0,20628 0,21025
+
+353 0,20470 0,20868
+
+354 0,20311 0,20711
+
+355 0,20153 0,20553
+
+356 0,19995 0,20396
+
+357 0,19837 0,20239
+
+358 0,19679 0,20082
+
+359 0,19521 0,19925
+
+360 0,19363 0,19768
+
+361 0,19204 0,19611
+
+362 0,19046 0,19453
+
+363 0,18888 0,19296
+
+364 0,18730 0,19139
+
+365 0,18572 0,18982
+
+366 0,18414 0,18825
+
+367 0,18256 0,18668
+
+368 0,18097 0,18511
+
+369 0,17939 0,18354
+
+370 0,17781 0,18196
+
+371 0,17623 0,18039
+
+372 0,17465 0,17882
+
+373 0,17307 0,17725
+
+374 0,17149 0,17568
+
+375 0,16990 0,17411
+
+376 0,16832 0,17254
+
+377 0,16674 0,17096
+
+378 0,16516 0,16939
+
+379 0,16358 0,16782
+
+380 0,16200 0,16625
+
+381 0,16042 0,16468
+
+382 0,15883 0,16311
+
+383 0,15725 0,16154
+
+384 0,15567 0,15996
+
+385 0,15409 0,15839
+
+386 0,15251 0,15682
+
+387 0,15093 0,15525
+
+388 0,14935 0,15368
+
+389 0,14776 0,15211
+
+390 0,14618 0,15054
+
+391 0,14460 0,14897
+
+392 0,14302 0,14739
+
+393 0,14144 0,14582
+
+394 0,13986 0,14425
+
+395 0,13828 0,14268
+
+396 0,13669 0,14111
+
+397 0,13511 0,13954
+
+398 0,13353 0,13797
+
+399 0,13195 0,13639
+
+400 0,13037 0,13482
+
+401 0,12879 0,13325
+
+402 0,12721 0,13168
+
+403 0,12562 0,13011
+
+404 0,12404 0,12854
+
+405 0,12246 0,12697
+
+406 0,12088 0,12539
+
+407 0,11930 0,12382
+
+408 0,11772 0,12225
+
+409 0,11613 0,12068
+
+410 0,11455 0,11911
+
+411 0,11297 0,11754
+
+412 0,11139 0,11597
+
+413 0,10981 0,11439
+
+414 0,10823 0,11282
+
+415 0,10665 0,11125
+
+416 0,10506 0,10968
+
+417 0,10348 0,10811
+
+418 0,10190 0,10654
+
+419 0,10032 0,10497
+
+420 0,09874 0,10340
+
+421 0,09716 0,10182
+
+422 0,09558 0,10025
+
+423 0,09399 0,09868
+
+424 0,09241 0,09711
+
+425 0,09083 0,09554
+
+426 0,08925 0,09397
+
+427 0,08767 0,09240
+
+428 0,08609 0,09082
+
+429 0,08451 0,08925
+
+430 0,08292 0,08768
+
+431 0,08134 0,08611
+
+432 0,07976 0,08454
+
+433 0,07818 0,08297
+
+434 0,07660 0,08140
+
+435 0,07502 0,07982
+
+436 0,07344 0,07825
+
+437 0,07185 0,07668
+
+438 0,07027 0,07511
+
+439 0,06869 0,07354
+
+440 0,06711 0,07197
+
+441 0,06553 0,07040
+
+442 0,06395 0,06882
+
+443 0,06237 0,06725
+
+444 0,06078 0,06568
+
+445 0,05920 0,06411
+
+446 0,05762 0,06254
+
+447 0,05604 0,06097
+
+448 0,05446 0,05940
+
+449 0,05288 0,05783
+
+450 0,05130 0,05625
+
+451 0,04971 0,05468
+
+452 0,04813 0,05311
+
+453 0,04655 0,05154
+
+454 0,04497 0,04997
+
+455 0,04339 0,04840
+
+456 0,04181 0,04683
+
+457 0,04023 0,04525
+
+458 0,03864 0,04368
+
+459 0,03706 0,04211
+
+460 0,03548 0,04054
+
+461 0,03390 0,03897
+
+462 0,03232 0,03740
+
+463 0,03074 0,03583
+
+464 0,02916 0,03425
+
+465 0,02757 0,03268
+
+466 0,02599 0,03111
+
+467 0,02441 0,02954
+
+468 0,02283 0,02797
+
+469 0,02125 0,02640
+
+470 0,01967 0,02483
+
+471 0,01809 0,02325
+
+472 0,01650 0,02168
+
+473 0,01492 0,02011
+
+474 0,01334 0,01854
+
+475 0,01176 0,01697
+
+476 0,01018 0,01540
+
+477 0,00860 0,01383
+
+478 0,00702 0,01226
+
+479 0,00543 0,01068
+
+480 0,00385 0,00911
+
+481 0,00227 0,00754
+
+482 0,00069 0,00597
+
+#### Artículo 2º
+
+Establécese, a contar desde el 1º de noviembre de 2000 y hasta el 31 de octubre de 2001, una rebaja que se aplicará a las sumas que correspondan pagar por concepto de derechos ad valórem del Arancel Aduanero, a la importación de los productos indicados en el artículo 1º. Esta rebaja, expresada en dólares de los Estados Unidos de América por tonelada, se aplicará conforme a la tabla que a continuación se señala y para el período que se indica, en base al menor precio FOB de cualquiera de los aceites vegetales comestibles vigente en el mercado internacional a la fecha de embarque de esos productos ya sean en bruto o refinados. Este precio será el que informe semanalmente el Servicio Nacional de Aduanas para los efectos del artículo 1º.
+
+Desde 01.11.2000 Desde 01.01.2001
+
+hasta 31.12.2000 hasta 31.10.2001
+
+Precio
+
+FOB Rebaja Rebaja
+
+US$/Ton US$/Ton US$/Ton
+
+568 4,72 0,42
+
+569 5,83 1,52
+
+570 6,93 2,62
+
+571 8,04 3,72
+
+572 9,15 4,82
+
+573 10,25 5,92
+
+574 11,36 7,02
+
+575 12,47 8,12
+
+576 13,58 9,22
+
+577 14,68 10,32
+
+578 15,79 11,42
+
+579 16,90 12,52
+
+580 18,00 13,62
+
+581 19,11 14,72
+
+582 20,22 15,82
+
+583 21,32 16,92
+
+584 22,43 18,02
+
+585 23,54 19,12
+
+586 24,65 20,22
+
+587 25,75 21,32
+
+588 26,86 22,42
+
+589 27,97 23,52
+
+590 29,07 24,62
+
+591 30,18 25,72
+
+592 31,29 26,82
+
+593 32,39 27,92
+
+594 33,50 29,02
+
+595 34,61 30,12
+
+596 35,72 31,22
+
+597 36,82 32,32
+
+598 37,93 33,42
+
+599 39,04 34,52
+
+600 40,14 35,62
+
+601 41,25 36,72
+
+602 42,36 37,82
+
+603 43,46 38,92
+
+604 44,57 40,02
+
+605 45,68 41,12
+
+606 46,79 42,22
+
+607 47,89 43,32
+
+608 49,00 44,42
+
+609 50,11 45,52
+
+610 51,21 46,62
+
+611 52,32 47,72
+
+612 53,43 48,82
+
+613 54,54 49,92
+
+614 55,64 51,02
+
+615 56,75 52,12
+
+Cuando el precio FOB en el mercado internacional resulte superior a US$615 por tonelada, la rebaja corresponderá al equivalente en dólares del derecho ad valórem vigente.
+
+#### Artículo 3º
+
+Las rebajas establecidas en el artículo precedente, en ningún caso podrán exceder de la suma que corresponda pagar por concepto de derecho ad valórem a la importación de tales mercancías, conforme a la correspondiente Declaración de Importación.
+
+Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., María Eugenia Wagner Brizzi, Subsecretaria de Hacienda.
