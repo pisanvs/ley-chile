@@ -1,0 +1,3 @@
+Resolución 375, 2 diciembre 1997, SERVIU Región del Bío Bío ordenó expropiación parcial inmueble ubicado al surponiente de la población La Estrella, sector Michaihue, presumible Rol de Avalúo Nº 15.009-7, comuna San Pedro de la Paz, superficie 120.905 m². de terreno, dentro polígono y linderos señalados plano expropiación S8R-13460; de aparente dominio de María Eliana García Gaete, para ejecución programa adquisición de terrenos, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Boris Aptecar G., arquitecto, Gerardo Valenzuela V., arquitecto y Sergio Labarca G., constructor civil, según informe de fecha 13 de noviembre de 1997, fijó monto provisional indemnización en $175.916.775.-, pagadera de contado.-
+
+Director SERVIU Región del Bío Bío.
