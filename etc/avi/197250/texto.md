@@ -1,0 +1,15 @@
+EXTRACTO
+
+Juan Roberto Arias Garrido, Notario Público de Talcahuano, con oficio, calle Colón Nº 575, certifica: Por escritura ante mí de 22 de agosto del año 2001, complementada por escritura de 28 de septiembre del mismo año, se constituyó una Corporación de Derecho Público de acuerdo a la ley Nº 19.638 y cuyo extracto es el siguiente: Constituyentes: Carlos Armando Adams Rubio, Marisol del Carmen Cortés Aguayo, Rodrigo Eduardo Aguilera Sepúlveda, Carlos Alberto Adams Cortés, Paola Ruth Contreras Saavedra, Ema Noemí Arroyo Oliva, José Edgardo Mardones Muñoz, Gonzalo Gabriel Vásquez Muñoz, Eric Alexis Guzmán Alvarez y Marcelo Samuel Abarca Sáez. Nombre: Ministerio Cristiano Valientes de David. Domicilio: Las Hortensias Nº 5110, Pob. Los Cóndores, Talcahuano. Registro Público: Se encuentra inscrita en el Registro Público Nº 00162 de 04 de octubre de 2001, a cargo del Ministerio de Justicia. Principios: La base doctrinaria profesada por la presente corporación está constituida única y exclusivamente por las Sagradas Escrituras, interpretada y aplicada sobre la base de los principios teológicos del Protestantismo, con exclusión de cualquiera otra fuente doctrinaria. Fines:
+
+- **a)** La prevención del consumo de drogas en personas de todas edades.
+
+- **b)** Rehabilitación de personas con problemas de drogadicción.
+
+- **c)** Desarrollar expresiones artísticas, como teatro, música y otras similares, cuyo objeto sea entregar mensajes del Cristianismo.
+
+- **d)** La capacitación de sus miembros en misionología, para el trabajo de misiones internacionales y transculturales.
+
+- **e)** Asociarse con otras corporaciones u organismos nacionales e internacionales que persigan similares fines.- Duración: Esta será indefinida. Organos: La autoridad máxima de la Corporación es la Junta General, la que será ordinaria y extraordinaria. En estas Juntas tendrán derecho a voto todos los miembros de la Corporación. La Dirección General de la Corporación corresponde al Directorio, la cual está integrada por el Presidente, Vicepresidente, Tesorero, Secretario y 5 Directores. Pueden ser elegidos para estos cargos cualesquiera de los miembros de la Corporación. En caso de disolución, los bienes pasarán la Sociedad Evangélica de Chile con personalidad jurídica Nº 1316 de fecha 22 de abril de 1911, Corporación de Derecho Privado con domicilio en Temuco. Los estatutos como los documentos fundamentales de la entidad se encontrarán en su domicilio principal y estarán a disposición de toda persona que desee acceder libremente a la información contenida en ellos. Directorio Provisorio: Presidente: Carlos Adams Rubio; Vicepresidente: Rodrigo Aguilera Sepúlveda; Tesorera: Marisol Cortés Aguayo; Secretaria: Paola Contreras Saavedra; Primer Director: Ema Arroyo Oliva; Segundo Director: José Mardones Muñoz; Tercer Director: Gonzalo Vásquez Muñoz; Cuarto Director: Carlos Adams Cortés; Quinto Director: Alexis Guzmán Alvarez.- Demás estipulaciones escritura extractada.
+
+- Talcahuano, marzo 1º, 2002.- Juan Roberto Arias Garrido. Notario Público Talcahuano.
