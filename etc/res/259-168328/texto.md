@@ -1,0 +1,3 @@
+Por resolución No. 259, de 4 de Marzo de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se declara la caducidad de las siguientes autorizaciones, de conformidad a lo dispuesto en el artículo 7° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción: a) Resolución No. 1283, de 1987, de esta Subsecretaría, que autorizó a SOCIEDAD VALMAR LIMITADA, domiciliada en Valdivia, para desarrollar actividades pesqueras de transformación. b) Resolución No. 291, de 1988, de esta Subsecretaría, que autorizó a Sociedad Valmar Limitada, domiciliada en Valdivia, para desarrollar actividades pesqueras de transformación.
+
+Valparaíso, 4 de Marzo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
