@@ -21092,7 +21092,7 @@ d) Los trabajos especiales de que se trata podrán ser remunerados con cargo a e
 
 ANEXO N°1
 
-FIRMAS DE AUDITORES EXTERNOS DE BANCOS Y SOCIEDADES FINANCIERAS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA
+SUPERINTENDENCIA DE BANCOS FIRMAS DE AUDITORES EXTERNOS DE BANCOS Y SOCIEDADES FINANCIERAS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA
 
 Número de
 
@@ -21115,6 +21115,8 @@ Inscripción* Nombre de la empresa
 020 CGA AUDITCORP LTDA.
 
 021 G & V AUDITORES CONSULTORES LTDA.
+
+022 CONSAUDIT INTERNATIONAL AUDITORES CONSULTORES LIMITADA
 
 Se incluyen solo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos y sociedades financieras.
 
