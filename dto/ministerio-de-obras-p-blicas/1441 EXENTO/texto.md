@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.441, de 28 de septiembre de 2001, se expropió el lote de terreno Nº 7-1, superficie 449 m2., rol de avalúo 162-69, comuna de Casablanca, para la obra Red Vial Litoral Central Sector 3: Eje Costero Interior Subtramo Rosario Orrego Abajo, Quinta Región, y se acordó el valor de indemnización con su propietario Luis Alejandro Pinto Sánchez, ascendente a la cantidad de $1.588.382.-
+
+Fiscal del Ministerio de Obras Públicas.
