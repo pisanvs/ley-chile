@@ -1,0 +1,3 @@
+Por resolución Nº120, de 21 de enero de 1999, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº196 de 1986, Nº626 de 1987 y Nº328, de 1991, de esta Subsecretaría, que autorizaron a SOCIEDAD INDUSTRIAS MARINAS S.A., para operar un centro de cultivo ubicado en el Río Ligua, Comuna de Papudo, Provincia de Petorca, V Región.
+
+Valparaíso, 21 de enero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
