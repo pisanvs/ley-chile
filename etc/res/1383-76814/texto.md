@@ -1,0 +1,3 @@
+Por Resolución Nº 1.383, de 24 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la solicitud de concesión de acuicultura, solicitud Nº 95104002, presentada por HERMINIO SOTO MANSILLA, para el centro de cultivo ubicado en Bahía Pilolcura, Isla Chidguapi, comuna de Calbuco, provincia de Llanquihue, X Región, conforme lo dispuesto en el artículo 10, letra c) Nº 2 y artículo 14 del Decreto Supremo Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 24 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
