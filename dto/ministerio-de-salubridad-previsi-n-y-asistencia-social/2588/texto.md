@@ -488,6 +488,8 @@ Deberá, además, ceder al organismo respectivo el total de ese reintegro, conju
 
 ° Para todos los efectos de la cesión y del reintegro exigidos en el artículo anterior, la Caja y los organismos auxiliares concederán préstamos en las condiciones señaladas en los incisos 1.° y 2.° del artículo 56.°.
 
+Los giros estimados indebidos por la Caja y los Organismos Auxiliares "deberán reintegrarse con sus intereses correspondientes en forma previa al "otorgamiento de las pensiones señaladas en el artículo 12º. No será necesario "efectuar dicho reintegro previo cuando las pensiones devengadas y no cobradas "asciendan a un monto que sea suficiente para cubrir esa deuda y el servicio "mensual de las demás obligaciones que se tenga con las mencionadas Instituciones" de Previsión.
+
 #### Artículo 60
 
 ° La pensión de jubilación se rebajará en la proporción que exista entre las cantidades no cedidas, las adeudadas, o la suma de ambas, por una parte, y el total que habría arrojado la cuenta de Fondo de Retiro e Indemnización, por la otra, si no se hubiere efectuado de ella giro alguno. Se entenderá por proporción el resultado de dividir las cantidades no cedidas, las adeudadas o la suma de ambas por el total teórico de la cuenta individual; por cantidad adeudada, el monto del préstamo de reintegro o la parte no amortizada del mismo, y, por total de la cuenta individual, la suma de todas las cantidades abonadas a ella por concepto de imposiciones, más los intereses que éstas habrían ganado si no se hubiere girado de ellasuma alguna.
