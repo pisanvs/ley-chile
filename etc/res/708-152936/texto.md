@@ -1,0 +1,5 @@
+AUTORIZA A DON JAIME HALPERN AGOSIN PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 708 de 30 de Septiembre de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Jaime Halpern Agosin, cédula de identidad N° 3.153.965, de Santiago, domiciliado en Huérfanos 979, Oficina 906, para elaborar en la planta de conservas y congelado que tiene autorizada por resoluciones N° 145, de 1980 y N° 396, de 1983, ambas de esa Subsecretaría, además de los recursos que tiene autorizados por las resoluciones N° 59, de 1979 y N° 396, de 1983, de la misma Subsecretaría, los siguientes: sardina española y chocha, que destinar a conserva y mero o bacalao de profundidad, que destinará a congelado y fresco.
+
+Valparaíso, 30 de Septiembre de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
