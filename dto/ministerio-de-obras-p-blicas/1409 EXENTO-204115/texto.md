@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº1.409, de fecha 30 de septiembre del 2002, se expropiaron los lotes de terreno Nºs 112 y 114, superficie 68 y 151 m2, respectivamente, Rol Nº509-14, comuna de Longaví, VII Región, para la obra ''Camino Ruta L-49, Cruce Longitudinal-Mesamávida, Sector Cruce Longitudinal-San Luis, Tramo Km. 0,000.0 a Km. 13,841.12'' y se acordó el valor de indemnización con su propietario Manuel Segundo Ortega Rodríguez, ascendente a la cantidad de $628.250.-
+
+Fiscal del Ministerio de Obras Públicas.
