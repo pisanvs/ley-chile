@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 890, de 30 de junio de 1998, se expropiaron los lotes de terreno No. s. 33, 86, 88 y 95, superficies 107, 290, 90 y 62 m², respectivamente, roles de avalúos 60-39, 57-134 y 57-141, comuna de Chépica, obra Camino Chépica-Bif. Teno, sector Cuesta El Peral-Chépica y se acordó precio de indemnización con sus propietarios René Cerda Narváez, Luis Urbina Becerra y Gabriel Vergara Suárez, ascendente a las cantidades de $ 482.801, lote 33; $ 2.023.866, lotes 86 y 88 y $ 442.260, lote 95.
+
+- Fiscal del Ministerio de Obras Públicas.
