@@ -1,0 +1,3 @@
+Por resolución Nº 90, de 21 de enero de 1999, de esta Subsecretaría, amplíase por un año, a contar de la fecha de la presente resolución, el plazo otorgado a COMERCIALIZADORA Y DISTRIBUIDORA SALMONYTRUCHA LIMITADA, para iniciar operaciones respecto de la planta autorizada por la resolución Nº 835, de 1998, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 21 de enero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
