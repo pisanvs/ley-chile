@@ -29116,45 +29116,21 @@ El Director del Servicio de Impuestos Internos está facultado para dejar sin ef
 
 ### 2. Depósitos en la Cuenta Unica Fiscal
 
-Según lo establecido en el artículo 2° del D.S. N° 668 de Hacienda, de 1981, el
-
-monto de lo recaudado debe ser depositado en la Cuenta Unica Fiscal del Banco
-
-del Estado de Chile, dentro del tercer día hábil siguiente al de su percepción.
+Según lo establecido en el artículo 2° del D.S. N° 668 de Hacienda, de 1981, el monto de lo recaudado debe ser depositado en la Cuenta Unica Fiscal del Banco del Estado de Chile, dentro del tercer día hábil siguiente al de su percepción.
 
 Al respecto, las instituciones fiscalizadas deben tener presente lo siguiente:
 
-a) Los depósitos de los importes recaudados deben efectuarse mediante vales de
+a) Los depósitos de los importes recaudados deben efectuarse mediante vales de cámara;
 
-cámara;
+b) El cómputo del plazo para depositar debe hacerse sobre la base de los días hábiles bancarios; vale decir, se consideran también como inhábiles los días sábado y el 31 de diciembre de cada año;
 
-b) El cómputo del plazo para depositar debe hacerse sobre la base de los días
-
-hábiles bancarios; vale decir, se consideran también como inhábiles los días
-
-sábado y el 31 de diciembre de cada año;
-
-c) Las recaudaciones recibidas en horario especial tienen el mismo plazo para
-
-ser enteradas en la Cuenta Unica Fiscal, que aquellas que se hubieren percibido
-
-el mismo día en horario normal.
+c) Las recaudaciones percibidas en horario especial se entenderán recibidas en el día hábil bancario siguiente.
 
 ### 3. Contabilización
 
-Los montos recaudados por impuestos, contribuciones y demás obligaciones, deben
+Los montos recaudados por impuestos, contribuciones y demás obligaciones, deben registrarse en la cuenta "Recaudaciones tributarias por cuenta del Servicio de Tesorerías", de la partida 3010 del formulario MB1.
 
-registrarse en la cuenta "Recaudaciones tributarias por cuenta del Servicio de
-
-Tesorerías", de la partida 3010 del formulario MB1.
-
-Sin perjuicio de lo indicado en la letra e) del número precedente, la
-
-contabilización de las recaudaciones percibidas en horario especial debe
-
-efectuarse en el día hábil bancario inmediatamente siguiente, de acuerdo con las
-
-normas generales sobre operaciones en horario especial.
+La contabilización de las recaudaciones percibidas en horario especial debe efectuarse en el día hábil bancario inmediatamente siguiente, de acuerdo con las normas generales sobre operaciones en horario especial.
 
 CAPITULO 16-6 (Bancos)
 
