@@ -1,0 +1,3 @@
+Por resolución No. 31, de fecha 09-07-85, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la XI Región, se autoriza al Sr. Angel C. Gómez Gómez, para efectuar el servicio de taxi colectivo urbano de la Línea No. 1 Rivera Sur-Hospital, cuyo trazado fue autorizado por resolución No. 19 de fecha 23-06-84.
+
+Coyhaique, 9 de Julio de 1985.- Eliecer Aedo Rivera, Secretario Regional Ministerial de Transportes y Telecomunicaciones, XI Región.
