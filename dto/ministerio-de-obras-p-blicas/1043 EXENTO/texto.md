@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1043, de 28 de junio de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra Camino Curacautín - Termas de Tolhuaca, Sector Puente Amantible, Tramo Km. 0,60000 a Km. 0,98000, Provincia de Malleco, IX Región, que figura a nombre de Comercial Malleco S.A., rol de avalúo 202-46, superficie 3.045,30 m2., comuna de Curacautín. La Comisión de Peritos, con fecha 16 de mayo de 2001, fijó la indemnización provisional en la cantidad de $1.218.120, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Publicas
