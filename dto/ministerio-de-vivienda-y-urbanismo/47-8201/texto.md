@@ -100,6 +100,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Columnata»: conjunto de columnas que sostienen o adornan un edificio.
 
+«Condiciones Urbanísticas»: todas aquellas exigencias de carácter técnico aplicables a un predio o a una edificación relativas a las normas urbanísticas y a las condiciones de emplazamiento para los distintos tipos de usos y para el desarrollo de actividades contempladas en los Instrumentos de Planificación Territorial.
+
 «Construcción»: obras de edificación o de urbanización.
 
 «Construcción por partes»: ejecución de las obras de edificación o urbanización de un proyecto por partes que pueden recepcionarse independientemente.
@@ -200,13 +202,11 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Galería»: espacio generalmente cubierto, horizontal o en rampa, destinado a la circulación de público, con locales comerciales a uno o ambos lados.
 
-Informe de riesgos»: DEROGADO.
+«Informe de riesgos»: DEROGADO.
 
 «Inmueble de conservación histórica»: el individualizado como tal en un Instrumento de Planificación Territorial dadas sus características arquitectónicas, históricas o de valor cultural, que no cuenta con declaratoria de Monumento Nacional.
 
-«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente.
-
-Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
+«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente. Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
 
 «Instrumento de Planificación Territorial»: vocablo referido genérica e indistintamente al Plan Regional de Desarrollo Urbano, al Plan Regulador Intercomunal o Metropolitano, al Plan Regulador Comunal, al Plan Seccional y al Límite Urbano.
 
@@ -254,7 +254,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Norma Técnica Oficial»: la elaborada por el Instituto Nacional de Normalización, aprobada por decreto supremo.
 
-«Normas urbanísticas": todas aquellas disposiciones de carácter técnico que determinen los usos de suelo, la capacidad máxima de edificación, las franjas afectas a utilidad pública o restricción, el estándar de estacionamientos y las demás que rigen a subdivisiones, loteos, urbanizaciones y edificaciones contempladas en la Ley General de Urbanismo y Construcciones, en esta Ordenanza, en los Instrumentos de Planificación Territorial o cualquier otra norma de este mismo carácter que afecte a un predio.
+«Normas urbanísticas»: todas aquellas disposiciones de carácter técnico derivadas de la Ley General de Urbanismo y Construcciones de esta Ordenanza y del Instrumento de Planificación Territorial respectivo aplicables a subdivisiones, loteos y urbanizaciones tales como, ochavos, superficie de subdivisión predial mínima, franjas afectas a declaratoria de utilidad pública, áreas de riesgo y de protección, o que afecten a una edificación tales como, usos de suelo, sistemas de agrupamiento, coeficientes de constructibilidad, coeficientes de ocupación de suelo o de los pisos superiores, alturas máximas de edificación, adosamientos, distanciamientos, antejardines, ochavos y rasantes, densidades máximas, exigencias de estacionamientos, franjas afectas a declaratoria de utilidad pública, áreas de riesgo y de protección, o cualquier otra norma de este mismo carácter, contenida en la Ley General de Urbanismo y Construcciones o en esta Ordenanza, aplicables a subdivisiones, loteos y urbanizaciones o a una edificación.
 
 «Obras de mantención»: aquellas destinadas a conservar la calidad de las terminaciones y de las instalaciones de edificios existentes, tales como el cambio de hojas de puertas y ventanas, los estucos, los arreglos de pavimentos, cielos, cubiertas y canales de aguas lluvias, pintura, papeles y la colocación de cañerías o canalización de aguas, desagües, alumbrado y calefacción.
 
@@ -262,7 +262,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Obra gruesa habitable»: construcción techada y lateralmente cerrada, con piso o radier afinado, dotada de, a lo menos, un recinto de baño habilitado, con puerta, y en el caso de viviendas, dotada, además, con un recinto de cocina habilitado.
 
-«Obra menor»: modificaciones de edificios existentes que no alteran la estructura o las fachadas y ampliaciones de edificaciones cuando la superficie a ampliar no represente más de un 20% de la existente, no supere los 100 m2 y no comprometa construcciones vecinas.
+«Obra menor»: modificación de edificaciones existentes que no alteran su estructura, con excepción de las señaladas en el artículo 5.1.2. de esta Ordenanza, y las ampliaciones que se ejecuten por una sola vez o en forma sucesiva en el tiempo, hasta alcanzar un máximo de 100 m² de superficie ampliada.
 
 «Obra nueva»: la que se construye sin utilizar partes o elementos de alguna construcción preexistente en el predio.
 
@@ -278,11 +278,13 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Patio de comidas»: área de comedores al interior de un centro comercial cerrado, conectada directamente a dos o más locales destinados a la venta de productos alimenticios.
 
-«Patrón Nacional de Información Territorial»: Herramienta del Sistema de Información Territorial que sistematiza el manejo de información territorializable, identificando y perfeccionando aquella que se requiere en los distintos niveles de planificación.
+«Patrón Nacional de Información Territorial»: ELIMINADO.
+
+«Patrón Nacional para la Elaboración de Instrumentos de Planificación Territorial»: conjunto de parámetros de organización y representación de la información contenida en los Instrumentos de Planificación Territorial, tanto en su versión gráfica como digital.
 
 «Pendiente promedio de un terreno»: porcentaje que señala la o las inclinaciones de un terreno con respecto al plano horizontal, calculado de acuerdo a un método geográfico o geométrico generalmente aceptado.
 
-«Persona con discapacidad»: toda aquella que, como consecuencia de una o más deficiencias físicas, síquicas o sensoriales, congénitas o adquiridas, previsiblemente de carácter permanente y con independencia de la causa que las hubiera originado, vea obstaculizada, en a lo menos un tercio, su capacidad educativa, laboral o de integración social.
+«Persona con discapacidad»: toda aquella persona que vea obstaculizada su movilidad o autonomía, su capacidad educativa, laboral o de integración social, como consecuencia de una o más deficiencias o limitaciones físicas, síquicas o sensoriales, congénitas o adquiridas, de carácter permanente o transitorio con independencia de la causa que las hubiera originado.
 
 «Piso mecánico»: el destinado a contener exclusivamente las instalaciones de un edificio, tales como ventilaciones, equipos de aire acondicionado, extractores, estanques y maquinaria de ascensores.
 
@@ -372,7 +374,9 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Superficie servida»: superficie útil que se sirve de los sistemas de evacuación.
 
-«Superficie útil»: suma de la superficie edificada de las unidades que conforman un edificio, calculada hasta el eje de los muros o líneas divisorias entre ellas y la superficie común. «Supermercado»: edificación cerrada destinada a la venta al público de productos diversos, mediante el sistema de autoservicio generalmente en una misma sala de venta.
+«Superficie útil»: suma de la superficie edificada de las unidades que conforman un edificio, calculada hasta el eje de los muros o líneas divisorias entre ellas y la superficie común.
+
+«Supermercado»: edificación cerrada destinada a la venta al público de productos diversos, mediante el sistema de autoservicio generalmente en una misma sala de venta.
 
 «Supervisor»: autor del proyecto de arquitectura de una obra o el profesional competente que lo reemplace, cuya misión es velar por que el proyecto de arquitectura se materialice en la forma concebida y de acuerdo con el correspondiente permiso de edificación.
 
@@ -436,11 +440,13 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 Las definiciones de los vocablos contenidos en este artículo prevalecerán sobre toda otra que contengan los Instrumentos de Planificación Territorial relativas a la misma materia.
 
-> **Nota.** NOTA 2 El artículo primero transitorio del decreto 115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días de su publicación.
+> **Nota.** NOTA 2 El artículo primero transitorio del decreto-115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días de su publicación.
 
 #### Artículo 1
 
-1.3. Las solicitudes de aprobaciones o permisos presentadas ante las Direcciones de Obras Municipales serán evaluadas conforme a las normas vigentes en la fecha de su ingreso.
+1.3. Las solicitudes de aprobaciones o permisos presentadas ante las Direcciones de Obras Municipales serán evaluadas y resueltas conforme a las normas vigentes en la fecha de su ingreso.
+
+Tratándose de normas técnicas de instalaciones o de urbanización, deberán ser evaluadas y resueltas por los organismos competentes de conformidad a las normas vigentes en la fecha de ingreso de la solicitud del permiso respectivo ante la Dirección de Obras Municipales.
 
 #### Artículo 1
 
@@ -974,7 +980,9 @@ Sólo se considerarán copias auténticas de los planos y demás documentos que 
 
 Los planos que conformen un Instrumento de Planificación Territorial deberán realizarse preferentemente sobre base aerofotogramétrica o satelital, debidamente georreferenciada en coordenadas de la proyección Universal Transversal de Mercator (UTM), según Datum 56, Datum 69 ó Datum WGS 84.
 
-Los Instrumentos de Planificación Territorial que se realicen mediante Sistemas de Información Geográfica (SIG), podrán incorporarse al Sistema de Información Territorial (SIT), para lo cual deberá estarse a lo dispuesto en el Patrón Nacional de Información Territorial, aprobado por resoluciones del Ministerio de Vivienda y Urbanismo. Lo anterior será aplicable tanto a los Instrumentos de Planificación Territorial oficialmente aprobados como a los que se que se encuentren en etapa de consulta pública.
+Los parámetros de organización y representación de la información contenida en los Instrumentos de Planificación Territorial, tanto en su versión gráfica como digital, deberán elaborarse y modificarse de conformidad a las disposiciones de organización y representación de la información que se señalen en el Patrón Nacional para la Elaboración de Instrumentos de Planificación Territorial vigente.
+
+El Patrón Nacional para la Elaboración de Instrumentos de Planificación Territorial se aprobará mediante Resolución del Ministerio de Vivienda y Urbanismo.
 
 De la planificación urbana regional
 
@@ -1348,9 +1356,7 @@ Los estudios o trabajos complementarios a la formulación del Plan deberán ser 
 
 El proyecto de Plan Regulador Comunal será preparado por la Municipalidad respectiva. Elaborado el proyecto, el Concejo, antes de iniciar su discusión, deberá:
 
-1. Informar a los vecinos, especialmente a los afectados, acerca de las principales características del Instrumento de Planificación Territorial propuesto y de sus efectos, señalando los criterios adoptados respecto de cada uno de los contenidos del Plan Regulador Comunal señalados en el artículo 2.1.10.
-
-de esta Ordenanza General.
+1. Informar a los vecinos, especialmente a los afectados, acerca de las principales características del Instrumento de Planificación Territorial propuesto y de sus efectos, señalando los criterios adoptados respecto de cada uno de los contenidos del Plan Regulador Comunal señalados en el artículo 2.1.10. de esta Ordenanza General.
 
 Tal información deberá entregarse, al menos, mediante carta certificada a las organizaciones territoriales legalmente constituidas que estén involucradas y, a través de un aviso de prensa en un medio de amplia difusión en la comuna, se pondrá en conocimiento de los vecinos que dicha información, acompañada de la memoria explicativa, estará a su disposición para su retiro gratuito, en el lugar que allí se indique. En este mismo aviso se indicará el lugar y fecha en que se realizarán las audiencias públicas a que se refiere el número siguiente.
 
@@ -1370,7 +1376,7 @@ Cumplidos los trámites anteriores, y resuelta la evaluación de impacto ambient
 
 El Concejo deberá pronunciarse sobre las proposiciones que contenga el proyecto de Plan Regulador Comunal, analizando las observaciones recibidas y adoptando acuerdos respecto de cada una de las materias impugnadas. Cuando se tratare de objeciones o proposiciones concretas de los interesados, tales acuerdos deberán comunicarse por escrito a quienes las hubieren formulado. En caso que dicho Concejo aprobare modificaciones, deberá cautelar que éstas no impliquen nuevos gravámenes o afectaciones desconocidas por la comunidad. No podrá, en todo caso, pronunciarse sobre materias o disposiciones no contenidas en el aludido proyecto, salvo que el proyecto de Plan Regulador Comunal modificado se exponga nuevamente conforme a lo dispuesto en el inciso segundo.
 
-El proyecto de Plan Regulador Comunal aprobado será remitido, con todos sus antecedentes, a la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva. Dicha Secretaría Ministerial, dentro del plazo de sesenta días contado desde su recepción, revisará el proyecto de Plan Regulador Comunal y emitirá un informe sobre sus aspectos técnicos, en lo que se refiere a su concordancia con esta Ordenanza General y con el Plan Regulador Metropolitano o Intercomunal, si lo hubiere.
+El proyecto de Plan Regulador Comunal aprobado será remitido, con todos sus antecedentes, a la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva. Dicha Secretaría Ministerial, dentro del plazo de sesenta días contado desde su recepción, revisará el proyecto de Plan Regulador Comunal y emitirá un informe sobre sus aspectos técnicos, en lo que se refiere a su concordancia con esta Ordenanza General y con el Plan Regulador Metropolitano o Intercomunal, si lo hubiere. En el caso de que en la revisión de la Secretaría Ministerial se detecten observaciones técnicas, la Secretaría Ministerial podrá suspender el plazo señalado en este inciso y devolverá los antecedentes que correspondan al municipio para que se subsanen dichas observaciones, otorgando un plazo máximo de 20 días para que sean subsanadas. Una vez reingresados los antecedentes por parte del municipio, la Secretaría Ministerial continuará con la tramitación debiendo evacuar su informe dentro del plazo restante. En el evento de que el municipio no subsane las observaciones en el plazo fijado por la Secretaría Ministerial, ésta deberá emitir un informe negativo indicando los aspectos técnicos observados.
 
 Si la comuna está normada por un Plan Regulador Metropolitano o Intercomunal, el informe de la Secretaría Regional Ministerial será remitido directamente al Municipio, junto con el proyecto de Plan Regulador Comunal y sus antecedentes, con copia al Gobierno Regional. Si el informe es favorable, el Proyecto de Plan Regulador Comunal o de Plan Seccional será promulgado por decreto alcaldicio.
 
@@ -1392,39 +1398,41 @@ Sin perjuicio de lo señalado en el inciso anterior, cuando las modificaciones a
 
 #### Artículo 2
 
-1.13. Las enmiendas a que se refiere el inciso segundo del artículo 45 de la Ley General de Urbanismo y Construcciones serán elaboradas por la Municipalidad y aprobadas por el Concejo Municipal respectivo conforme a las reglas de este artículo.
+1.13. Las enmiendas a que se refiere el inciso segundo del artículo 45º de la Ley General de Urbanismo y Construcciones serán elaboradas por la Municipalidad y aprobadas por el Concejo respectivo conforme a las reglas de este artículo.
 
-Para los fines previstos en el número 1. del inciso segundo, del artículo 45 de la Ley General de Urbanismo y Construcciones, el Concejo Municipal podrá redefinir la localización del equipamiento vecinal en los barrios o sectores, para lo cual deberá cambiar los usos de suelo así establecidos en el Plan Regulador Comunal, ya sea suprimiendo algunos o permitiendo otros, en la misma área o en otra nueva.
+Para los fines previstos en el número 1. del inciso segundo, del artículo 45º de la Ley General de Urbanismo y Construcciones, el Concejo podrá redefinir la localización del equipamiento vecinal en los barrios o sectores, para lo cual deberá cambiar los usos de suelo así establecidos en el Plan Regulador Comunal, ya sea suprimiendo algunos o permitiendo otros, en la misma zona o en otra nueva.
 
-Para efectos de lo dispuesto en el número 2. del inciso segundo, del citado artículo 45, el Concejo Municipal podrá autorizar Planos Seccionales, en que se precisen los trazados viales contemplados en el Plan Regulador Comunal o en los Seccionales vigentes.
+Para efectos de lo dispuesto en el número 2. del inciso segundo, del citado artículo 45º, el Concejo podrá autorizar Planos Seccionales, en que se precisen los trazados viales contemplados en el Plan Regulador Comunal o en los Planes Seccionales vigentes.
 
-Para efectos de lo dispuesto en el número 3. del inciso segundo del artículo precitado, el Concejo Municipal podrá autorizar enmiendas que alteren las condiciones de edificación y urbanización del Plan Regulador Comunal o de los Seccionales vigentes, dentro de los márgenes que se señalan en el siguiente cuadro:
+Para efectos de lo dispuesto en el número 3. del inciso segundo del artículo precitado, el Concejo podrá autorizar enmiendas que alteren las condiciones de edificación y urbanización del Plan Regulador Comunal o de los Seccionales vigentes, dentro de los márgenes que se señalan a continuación:
 
-Condiciones de Edificación Aumento o
+a) Incrementar o disminuir hasta en un 20% la altura y la densidad.
 
-Disminución
+b) Incrementar o disminuir hasta en un 30% cuando se trate de coeficiente de constructibilidad, coeficiente de ocupación de suelo y tamaño predial.
 
-Coeficiente de constructibilidad hasta un 20%
+c) Cuando se trate de zonas con uso de suelo de equipamiento correspondiente a la clase educación, el coeficiente de ocupación de suelo podrá disminuirse hasta 0,2 y en el caso de zonas con uso de suelo de equipamiento correspondiente a la clase comercio, el coeficiente de ocupación de suelo podrá aumentarse hasta 1.
 
-Coeficiente de ocupación de suelo hasta un 20%
+d) Disminuir hasta en un 100% los antejardines.
 
-Tamaño predial hasta un 20%
+e) Fijar alturas de cierro en su frente hacia espacios públicos o disminuirlas hasta en un 50%.
 
-Altura hasta un 20%
+f) Disminuir los ochavos dentro de los márgenes establecidos en el artículo 2.5.4. de esta Ordenanza.
 
-Densidad hasta un 20%
+g) Disminuir o incrementar las rasantes, dentro de los márgenes establecidos en el inciso sexto del artículo 2.6.3. de esta Ordenanza.
 
-No obstante lo señalado en el cuadro anterior, cuando se trate de zonas con uso de suelo de equipamiento correspondiente a la clase educación, el coeficiente de ocupación de suelo podrá disminuirse hasta 0,2 y en el caso de zonas con uso de suelo de equipamiento correspondiente a la clase comercio, el coeficiente de ocupación de suelo podrá aumentarse hasta 1.
+h) Disminuir los distanciamientos mínimos a los medianeros hasta los márgenes establecidos en el inciso octavo del artículo 2.6.3. de esta Ordenanza.
 
-En cada caso las enmiendas serán propuestas al Concejo por el Asesor Urbanista, acompañando los fundamentos técnicos correspondientes.
+i) Incrementar o disminuir la dotación de estacionamientos hasta en un 30%.
 
-Para estos efectos, será aplicable, además, en las regiones I, II, XI y XII lo dispuesto en el último inciso del artículo 2.6.3. de esta Ordenanza.
+j) Fijar disposiciones relativas a cuerpos salientes de conformidad a lo establecido en el numeral 2 del artículo 2.7.1. de esta Ordenanza y disposiciones sobre los cuerpos salientes de la línea de edificación sobre los antejardines.
 
 Las enmiendas que alteren los márgenes en cada condición de edificación podrán ser ejercitadas en forma parcial, sucesiva o total dentro de la vigencia de cada Plan Regulador Comunal, pero en ningún caso la suma total de ellas podrá exceder los porcentajes antes indicados para cada condición. Las enmiendas que se aprueben conforme a este artículo deberán comprender, homogéneamente, zonas o subzonas del Plan, o bien, parte de ellas.
 
 Las enmiendas reglamentadas en el presente artículo se sujetarán al procedimiento previsto en los incisos segundo, tercero, cuarto y quinto del artículo 2.1.11. de la presente Ordenanza General.
 
-El decreto alcaldicio, el acuerdo del Concejo y la ordenanza respectiva, se publicarán en el Diario Oficial y junto con los planos respectivos y demás antecedentes se archivarán en el Municipio y en el Conservador de Bienes Raíces correspondiente. Copia oficial de estos antecedentes deberá ser remitida por la Municipalidad a la respectiva Secretaría Regional del Ministerio de Vivienda y Urbanismo y a la División de Desarrollo Urbano del mismo Ministerio, los que podrán ser adquiridos por cualquier interesado.
+Cumplidos los trámites anteriores y con la aprobación definitiva del proyecto de enmienda por el Concejo, se dictará el Decreto Alcaldicio respectivo.
+
+El decreto alcaldicio, con la Ordenanza respectiva se publicarán en el Diario Oficial. Los gastos que demande su publicación serán de cargo de la Municipalidad respectiva. La Ordenanza y los Planos según corresponda, se archivarán en el Municipio y en el Conservador de Bienes Raíces correspondiente. Copia oficial de estos antecedentes deberá ser remitida por la Municipalidad a la respectiva Secretaría Regional del Ministerio de Vivienda y Urbanismo y a la División de Desarrollo Urbano del mismo Ministerio.
 
 #### Artículo 2
 
@@ -1442,7 +1450,7 @@ El procedimiento de aprobación de los Planos Seccionales será el siguiente:
 
 5. Acordada por el Concejo la aprobación del Plano Seccional, el acuerdo respectivo deberá publicarse en un medio de prensa escrito, dentro de los 15 días siguientes a la citada aprobación. El acuerdo del Concejo junto con el decreto alcaldicio que lo sanciona se publicarán en el Diario Oficial.
 
-No obstante lo señalado en el inciso anterior, cuando se trate de detallar usos de suelo a predios de hasta 5 hectáreas de superficie emplazados en zonas definidas por el Plan Regulador Comunal como de uso de suelo industrial o de bodegaje exclusivos, que no hubieren sido destinados a tales usos ni se hubieren edificado para esos fines en un plazo de al menos 10 años desde la vigencia del Plan Regulador Comunal que les hubiere fijado dichos usos, que estuvieren insertos en zonas consolidadas a las cuales el Plan Regulador Comunal les hubiere fijado otros usos de suelo, el procedimiento de aprobación de los respectivos Planos Seccionales será el siguiente:
+No obstante lo señalado en el inciso anterior, cuando se trate de detallar usos de suelo a predios de hasta 5 hectáreas de superficie emplazados en áreas consolidadas con usos de suelo distinto al industrial o bodegaje, ubicados en zonas definidas por el Plan Regulador Comunal como de uso de suelo industrial o de bodegaje exclusivos, que no hubieren sido destinados a tales usos en un plazo de al menos 5 años desde la vigencia del Plan Regulador Comunal que les hubiere fijado dichos usos, o que hubiesen cesado sus actividades en al menos un año y que a juicio del municipio provoquen deterioro en el entorno, o que deban trasladar sus funciones por disposición de la municipalidad conforme a lo previsto en el inciso segundo del artículo 62º de la Ley General de Urbanismo y Construcciones o por disposición de otra autoridad competente, el procedimiento de aprobación de los respectivos Planos Seccionales será el siguiente:
 
 a) Por decreto alcaldicio se fijará a dichos predios uno o más de los usos de suelo y las normas urbanísticas asignados por el Plan Regulador Comunal a las zonas consolidadas en las cuales estuvieren insertos.
 
@@ -1642,9 +1650,19 @@ Las actividades productivas señaladas en el inciso anterior pueden ser califica
 
 #### Artículo 2
 
-1.29. El tipo de uso Infraestructura se refiere a infraestructura vial, de aguas lluvias, portuaria, aeroportuaria, ferroviaria, de telecomunicaciones, terminales de transporte terrestre y obras de mayor envergadura tales como: centrales de generación o distribución de energía, plantas de captación, tratamiento o distribución de agua potable o de aguas servidas, vertederos y plantas de transferencia de basuras. Estas infraestructuras podrán ser reguladas por los Instrumentos de Planificación Territorial, sin perjuicio de las demás normas legales y reglamentarias que procedan.
+1.29. El tipo de uso Infraestructura se refiere a las edificaciones o instalaciones y a las redes o trazados destinadas a:
 
-No obstante, si tales obras contemplan edificaciones complementarias, estas últimas deberán regirse por las disposiciones que para estos usos, contengan los Instrumentos de Planificación Territorial correspondientes.
+- Infraestructura de transporte, tales como, vías y estaciones ferroviarias, terminales de transporte terrestre, recintos marítimos o portuarios, instalaciones o recintos aeroportuarios, etc.
+
+- Infraestructura sanitaria, tales como, plantas de captación, distribución o tratamiento de agua potable o de aguas servidas, de aguas lluvia, rellenos sanitarios, vertederos, plantas de transferencia de basuras, etc.
+
+- Infraestructura energética, tales como, centrales de generación o distribución de energía, de gas y de telecomunicaciones, gasoductos, etc.
+
+Las redes de distribución y servicio domiciliario y trazados viales se entenderán siempre admitidos y se sujetarán a las disposiciones que establezcan los organismos competentes. El Plan Regulador Comunal deberá reconocer las fajas de protección determinadas por la normativa vigente y destinarlas a áreas verdes o vialidad.
+
+El Instrumento de Planificación Territorial respectivo podrá establecer las condiciones que permitan el emplazamiento de las instalaciones o edificaciones necesarias para este tipo de uso, sin perjuicio del cumplimiento de las normas ambientales, de las normas de la Ley General de Urbanismo y Construcciones, de esta Ordenanza y demás disposiciones pertinentes.
+
+Con todo, las instalaciones o edificaciones de este tipo de uso calificados por el organismo competente como contaminantes y/o peligrosas deberán localizarse fuera de los límites urbanos.
 
 #### Artículo 2
 
@@ -1733,6 +1751,8 @@ También el que contemple una carga de ocupación de hasta 3.000 personas y no r
 3. Equipamiento Menor: El que contempla una carga de ocupación de hasta 1.000 personas y no requiere más de 250 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías de servicio, colectoras, troncales o expresas.
 
 4. Equipamiento Básico: El que contempla una carga de ocupación de hasta 250 personas y no requiere más de 50 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías locales, de servicio, colectoras, troncales o expresas.
+
+Sin perjuicio de lo anterior, las Municipalidades podrán aceptar equipamientos de mayor escala en vías de menor categoría, siempre que se indique en forma expresa en el Instrumento de Planificación Territorial y se encuentre avalado por el respectivo estudio de capacidad vial contenido en dicho instrumento de planificación.
 
 Los municipios podrán asimilar el equipamiento vecinal a las denominaciones de equipamiento menor o básico señalados en este artículo, al redefinir su localización conforme al inciso segundo del artículo 2.1.13.
 
@@ -1936,11 +1956,33 @@ ejecutar.
 
 #### Artículo 2
 
-2.5. Para satisfacer las necesidades de áreas verdes, equipamiento y circulación, en los loteos se deberá ceder gratuitamente las superficies de terreno que resulten de la aplicación de la siguiente tabla:
+2.5. Para satisfacer las necesidades de áreas verdes, equipamiento, actividades deportivas y recreacionales y circulación, a que se refiere el artículo 70º de la Ley General de Urbanismo y Construcciones, en los loteos se deberá ceder gratuitamente las superficies de terreno que resulten de la aplicación de la siguiente tabla:
 
 TABLA 1. CALCULO DEL PORCENTAJE A CEDER
 
+Densidad % A Ceder
+
+(Hab/há) Areas Verdes, Equipamiento Circulaciones
+
+Deporte y
+
+Recreación
+
+hasta 70 0,1 x densidad 0,03 x Hasta 30%
+
+densidad - 0,1 en todos
+
+sobre 70 0,003 x 0,002 x
+
+densidad + densidad + los tramos de
+
+6,79 con un 1,86 con un densidad
+
+máximo de 10% máximo de 4%
+
 TABLA 2. SUPRIMIDO.
+
+De la superficie resultante de la aplicación del porcentaje a ceder para Areas Verdes, se destinará al interior de estas áreas verdes un 20% de dicha superficie, para actividades deportivas y recreacionales que se desarrollen en espacios abiertos y descubiertos, en los cuales deberá contemplarse como mínimo la construcción de multicanchas, canchas o espacios habilitados con circuitos de acondicionamiento físico, o semejantes.
 
 La densidad a que se refiere el presente artículo corresponde a densidad bruta, en los términos definidos en el artículo 1.1.2. de esta Ordenanza.
 
@@ -1982,7 +2024,9 @@ Las superficies a ceder para áreas verdes podrán disponerse de dos formas:
 
 2.8. Con el objeto de facilitar el desplazamiento de personas con discapacidad, por espacios de uso público, se deberá cumplir, a lo menos, con las siguientes prescripciones:
 
-1. En los cruces peatonales ubicados en las esquinas e intersecciones de vías, el desnivel de las aceras con las calzadas deberá ser salvado mediante rampas antideslizantes, las cuales no podrán exceder el 12% de pendiente con un desarrollo máximo de 2 m y un ancho mínimo de 0,90 m.
+1. En los cruces peatonales ubicados en las intersecciones de vías, el desnivel de las veredas con las calzadas deberá ser salvado mediante rampas antideslizantes, las cuales no podrán exceder el 12% de pendiente con un desarrollo máximo de 2 metros y un ancho mínimo determinado preferentemente por las líneas demarcatorias del cruce peatonal al que se enfrenta o en su defecto con un ancho mínimo de 1,20 metros y deberán permanecer libres de obstáculos.
+
+En los casos de reposiciones de las veredas o calzadas, se deberán construir dichos rebajes de soleras con sus respectivas rampas, permitiendo la continuidad de la circulación peatonal.
 
 2. Las veredas deberán consultar espacios para el desplazamiento de personas con discapacidad en sillas de ruedas. Dichos espacios deberán ser de trazados preferentemente rectos; con pavimento liso; su recorrido deberá estar libre de entrabamientos y obstáculos, y las juntas de dilatación no podrán superar los dos centímetros de ancho.
 
@@ -1990,7 +2034,9 @@ Las superficies a ceder para áreas verdes podrán disponerse de dos formas:
 
 4. El mobiliario urbano ubicado en el espacio público, como ser teléfonos, señalizaciones y protecciones, deberá consultar condiciones adecuadas para las personas con discapacidad.
 
-5. ELIMINADO.
+5. Los estacionamientos para personas con discapacidad deberán ubicarse en un lugar libre de obstáculos y situados de tal manera que permitan el descenso y circulación libre y segura de personas con discapacidad.
+
+6. En las vías de mayor flujo peatonal, las Municipalidades deberán dotar a los semáforos con señales auditivas, para las personas con discapacidad visual.
 
 #### Artículo 2
 
@@ -1998,7 +2044,7 @@ Las superficies a ceder para áreas verdes podrán disponerse de dos formas:
 
 En las comunas en que subsidiariamente cumplan la función de Plan Regulador Comunal las disposiciones del Plan Regulador Intercomunal o Metropolitano, los espacios públicos señalados en el inciso anterior pasarán a ser parte de dicho Plan, hasta que entre en vigencia el Plan Regulador Comunal, oportunidad en que se entenderán automáticamente incorporados a este último.
 
-En las zonas en que el Instrumento de Planificación Territorial permita más de un uso de suelo, deberá especificarse en el plano de loteo o de subdivisión respectivo el o los usos de suelo asignados a cada lote de entre los permitidos por el Instrumento de Planificación Territorial. Este uso de suelo pasará a ser parte del Plan Regulador Comunal, o del Plan Regulador Intercomunal o Metropolitano en las comunas a que alude el inciso anterior, al aprobarse el plano del loteo o de subdivisión por la Dirección de Obras Municipales, sólo si el Instrumento de Planificación Territorial contempla expresamente esta posibilidad.
+INCISO ELIMINADO.
 
 Los originales de los planos de loteo o de subdivisión deberán archivarse en la Dirección de Obras Municipales y una copia oficial de los mismos en el Conservador de Bienes Raíces respectivo, enviándose además copias del mismo tenor, cuando no exista Plan Regulador Comunal, al Gobierno Regional, a la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, y a la respectiva Secretaría Regional Ministerial del mismo Ministerio.
 
@@ -2242,7 +2288,7 @@ Pasajes en pendiente elevada 4 m
 
 3.6. En zonas urbanas, todo lote resultante de una subdivisión o loteo deberá contar con acceso a una vía de uso público existente, proyectada o prevista en el Instrumento de Planificación Territorial, destinada a circulación vehicular.
 
-Con todo, se podrán aceptar predios gravados con servidumbres de tránsito, siempre que cumplan con las longitudes máximas señaladas para el caso de vías con el mismo ancho, que la franja afecta al gravamen tenga un ancho mínimo de 4 m para circulación peatonal y de 8 m cuando se contemple tránsito eventual de vehículos, y se ejecuten las obras como si se tratara de una urbanización conforme al artículo 134 de la Ley General de Urbanismo y Construcciones.
+Excepcionalmente, en los casos de predios interiores se podrá aceptar que accedan a la vía de uso público a través de servidumbres de tránsito, sólo si éstas son asimilables a las condiciones, características y estándares de diseño establecidos en el artículo 2.3.3. de esta Ordenanza y cumplan con las condiciones de accesibilidad para el tipo de uso que se construirá en el predio servido y se ejecuten las obras como si se tratara de una urbanización conforme al artículo 134º de la Ley General de Urbanismo y Construcciones.
 
 #### Artículo 2
 
@@ -2284,7 +2330,29 @@ Los estacionamientos destinados al cumplimiento de esta exigencia, emplazados en
 
 Los estacionamientos exigidos deberán tener un ancho mínimo de 2,5 m, un largo no inferior a 5 m y una altura libre mínima de 2 m bajo vigas o elementos horizontales. Dicho ancho mínimo podrá ser disminuido hasta en un 10% por elementos estructurales, siempre que no afecte a más de la mitad del largo requerido.
 
-De la dotación mínima de estacionamientos que deba proyectarse, al menos un 1% deberá destinarse a ser utilizado por personas con discapacidad, con un mínimo de un estacionamiento, salvo que se trate de viviendas unifamiliares o cambio de destino de las mismas. Estos estacionamientos tendrán un ancho mínimo de 3,3 m, deberán singularizarse en los planos del proyecto y su comunicación con el resto del edificio, así como el acceso al espacio público, deberá efectuarse en concordancia con lo establecido en el artículo 4.1.7. de esta Ordenanza.
+De la dotación mínima de estacionamientos que deba proyectarse, deberán habilitarse para el uso de personas con discapacidad, los estacionamientos resultantes de la aplicación de la tabla contenida en este inciso, con un mínimo de un estacionamiento, salvo que se trate de viviendas unifamiliares o cambio de destino de las mismas. Estos estacionamientos tendrán un ancho mínimo de 3,6 metros, de tal manera de permitir el descenso y ascenso a una zona de circulación libre y segura, la que se deberá demarcar de color amarillo de 1,10 metros de ancho. Esta zona podrá ser común para otros estacionamientos de personas con discapacidad y estará incluida en el ancho de 3,6 metros indicado en el presente inciso. Estos estacionamientos deberán singularizarse en los planos del proyecto y su comunicación con el resto del edificio, así como el acceso al espacio público, deberá efectuarse en concordancia con lo establecido en el artículo 4.1.7. de esta Ordenanza.
+
+Dotación de Estacionamientos para
+
+Estacionamientos Personas con Discapacidad
+
+Desde 1 hasta 20 1
+
+Sobre 20 hasta 50 2
+
+Sobre 50 hasta 200 3
+
+Sobre 200 hasta 400 4
+
+Sobre 400 hasta 500 5
+
+Sobre 500 1 % total, debiendo
+
+aproximarse las cifras
+
+decimales al número entero
+
+siguiente.
 
 En los edificios colectivos de vivienda deberá contemplarse al menos un estacionamiento, del tipo indicado en el inciso anterior, como parte de la exigencia de estacionamientos de visitas.
 
@@ -2398,7 +2466,7 @@ En los casos que el Plan Regulador Comunal o Seccional no consulte disposiciones
 
 #### Artículo 2
 
-6.2. Sin perjuicio de lo dispuesto en el artículo anterior y como una norma complementaria de los tres tipos de agrupamiento indicados, se entenderá por adosamiento la edificación no subterránea que se ubica contigua a los deslindes, o bien aquélla inscrita en la envolvente que describen los puntos que se señalan a continuación:
+6.2. Sin perjuicio de lo dispuesto en el artículo anterior y como una norma complementaria de los tres tipos de agrupamiento indicados, se entenderá por adosamiento, para los efectos de la aplicación de este artículo, la edificación no subterránea que se ubica contigua a los deslindes, o bien aquélla inscrita en la envolvente que describen los puntos que se señalan a continuación:
 
 1. La longitud del adosamiento no podrá exceder del 40% de la longitud total del deslinde común con el vecino. Cuando la edificación existente sea pareada o continua, a la longitud total de dicho deslinde debe descontarse el tramo ocupado por la parte pareada o continua. El adosamiento no podrá en ningún caso ocupar el antejardín. El Plan Regulador Comunal podrá determinar la distancia mínima de los adosamientos respecto de la línea de edificación.
 
@@ -2413,6 +2481,8 @@ El adosamiento deberá inscribirse dentro de un ángulo no superior a 45 grados 
 Las normas sobre adosamientos se aplicarán como la envolvente teórica que puede ocupar una edificación, pudiendo ésta situarse libremente dentro de dicha envolvente, sin perjuicio de las normas mínimas de habitabilidad señaladas en el Capítulo 1 del Título 4 de esta Ordenanza. Con todo, para resguardar las condiciones de privacidad de los vecinos, los vanos ubicados a una altura superior a la del muro de adosamiento y, a su vez, a menos de 1,8 m. respecto del piso que sirven, deberán cumplir con los distanciamientos señalados en el cuadro respectivo del artículo 2.6.3. de este mismo Capítulo.
 
 En toda el área de adosamiento deberá construirse en el deslinde un muro de adosamiento con una altura mínima de 2,0 m y con una resistencia mínima al fuego de F-60, salvo que se trate de edificaciones no residenciales que, de acuerdo a su destino, requieran una resistencia al fuego mayor. Tratándose de edificaciones adosadas al deslinde el muro de adosamiento deberá llegar hasta la cubierta del cuerpo adosado. Además, el adosamiento deberá contemplar un sistema de evacuación de aguas lluvia que no afecte a los predios vecinos.
+
+Sin perjuicio de lo establecido en el inciso tercero del artículo 2.6.1. de esta Ordenanza en el caso de edificaciones pareadas podrán efectuarse ampliaciones o alteraciones sobre el sector pareado de la edificación, siempre que éstas se inscriban dentro de la envolvente señalada en los incisos precedentes. Sin embargo, por tratarse de edificaciones que comparten un muro medianero, en caso que las obras proyectadas afecten dicho muro, mediante apoyos, empotramientos o similares, deberá obtenerse la autorización escrita del propietario de la edificación pareada vecina, suscrita ante Notario y un informe de un profesional competente respecto del cumplimiento de las condiciones de estabilidad estructural de las construcciones.
 
 Los distanciamientos mínimos y rasantes que contempla el artículo 2.6.3. y las normas sobre las mismas materias contenidas en ordenanzas locales, no serán aplicables a las partes de una construcción que se acojan a las disposiciones de este artículo.
 
@@ -2467,6 +2537,22 @@ Los vanos incorporados a techumbres o planos inclinados deberán cumplir con los
 Sin perjuicio del cumplimiento de las rasantes, a las techumbres de viviendas unifamiliares les serán aplicables los distanciamientos sólo respecto de los vanos.
 
 En casos de edificación aislada por sobre la edificación continua, para la aplicación de la tabla anterior, la altura de la edificación se medirá a partir de la altura máxima permitida para la edificación continua en el Instrumento de Planificación Territorial.
+
+Las construcciones en subterráneos deberán cumplir con las siguientes normas sobre distanciamientos:
+
+1. En caso que el respectivo Plan Regulador Comunal no contemple normas sobre distanciamientos aplicables a los subterráneos, las construcciones en subterráneo podrán adosarse al deslinde, con excepción del área bajo el antejardín.
+
+Con todo, para asegurar la absorción de aguas lluvia al interior del predio y la arborización del mismo la ocupación con construcciones en el primer subterráneo no podrá superar el 70% de la superficie total del predio.
+
+Cuando los subterráneos se adosen se deberá presentar a la Dirección de Obras Municipales un informe de un profesional competente respecto de las medidas de seguridad y de estabilidad estructural correspondientes.
+
+2. En caso de Planes Reguladores Comunales que contemplen distanciamientos o zonas inexcavadas aplicables a los subterráneos, excepcionalmente se podrá permitir construcciones adosadas al deslinde, cuando exista un proyecto que asegure la absorción de aguas lluvia al interior del terreno y se redistribuyan las áreas inexcavadas consultadas en los Planes Reguladores o cuando existan subterráneos en los deslindes de predios vecinos, pudiendo adosarse a éstos en la misma extensión de los existentes.
+
+En estos casos, se deberá dar cumplimiento a lo dispuesto en el párrafo tercero del numeral 1 de este inciso.
+
+3. En caso de conexión de construcciones subterráneas de predios contiguos que cuenten con servidumbres de tránsito, no les serán aplicables las disposiciones de los Planes Reguladores Comunales que establezcan inexcavaciones, distanciamientos u otras normas similares aplicables a los subterráneos, siempre que la conexión cuente con un informe de un profesional competente respecto del cumplimiento de las normas de seguridad y de estabilidad estructural correspondientes.
+
+Sobre el nivel natural de terreno, se podrá autorizar una construcción que comunique inmuebles de distintos propietarios destinada a, puentes, pasarelas y rampas, previa constitución de las servidumbres de tránsito respectivas. En cuyo caso, no le serán aplicables a las zonas que se conectan las rasantes y distanciamientos establecidos en este artículo, ni en los Instrumentos de Planificación Territorial, siempre que su ancho exterior no sobrepase 3,50 metros y su conexión se utilice únicamente para la circulación de personas, el traslado de productos, la unión de instalaciones interiores u otros similares.
 
 A las antenas con sus soportes y elementos rígidos no les serán aplicables las rasantes. Sin embargo deberán cumplir con un distanciamiento mínimo de un tercio de su altura total, salvo cuando estas estructuras se instalen sobre edificios de más de 5 pisos, en cuyo caso deberán cumplir con un distanciamiento de al menos un cuarto de su altura total. En todo caso, estos distanciamientos no serán exigidos para las antenas que se instalen adosadas a las fachadas de edificios existentes.
 
@@ -2689,6 +2775,10 @@ Esta misma medida podrá imponerse cuando se trate de terrenos con menos de 15 m
 #### Artículo 2
 
 7.10. La colocación de elementos visibles desde la vía pública, tales como placas, tableros, cierros, cobertizos, elementos sobrepuestos, carteles o anuncios, de cualquier tipo, en las fachadas, cubiertas, terrazas, medianeros o antejardines de los edificios, se sujetará a las condiciones que determine el respectivo Plan Regulador Comunal o Plano Seccional.
+
+#### Artículo 2
+
+7.11. Los Planes Reguladores Comunales podrán establecer disposiciones que rijan los cuerpos salientes que sobresalgan del plano vertical de la línea de edificación sobre el antejardín.
 
 ## Título 3
 
@@ -3118,6 +3208,18 @@ En caso de recepción definitiva parcial, la autorización para transferir podr�
 
 La restricción indicada en el inciso primero de este artículo no afectará el archivo de planos de loteo o subdivisión. Tampoco afectará la inscripción de transferencias de dominio de lotes resultantes de subdivisiones, siempre que el plano aprobado especifique que se trata de una subdivisión y no de un loteo.
 
+#### Artículo 3
+
+4.7. Los contratos de promesa de compraventa de bienes raíces destinados a viviendas, locales comerciales u oficinas, que celebren personas naturales o jurídicas cuyo giro habitual sea el negocio inmobiliario o la construcción, en los términos previstos en el artículo 18 de la Ley de la Renta, deberán otorgarse conforme a lo previsto en el artículo 138 bis del D.F.L. 458 (V. Y U.), de 1975 Ley General de Urbanismo y Construcciones o por escritura pública si ambas partes así lo acordaren.
+
+Si en el respectivo contrato de promesa, el promitente comprador paga en ese acto todo o parte del precio de la compraventa o se obliga a pagarlo antes de la formalización del contrato de compraventa prometido, cada anticipo deberá ser caucionado mediante boleta bancaria de garantía o póliza de seguro con carácter
+
+irrevocable, por un monto equivalente a la suma
+
+entregada, cuya vigencia deberá exceder a lo menos en sesenta días el plazo estipulado para la celebración del contrato de compraventa prometido. Con todo, estas garantías se mantendrán vigentes hasta que se exhiba a la institución bancaria o aseguradora que otorgó la garantía copia autorizada de la inscripción de dominio del inmueble a favor del promitente comprador en el Registro de Propiedad del Conservador de Bienes Raíces.
+
+Para los efectos de la identificación de la garantía establecida en el contrato de promesa de compraventa, su constitución a favor del promitente comprador se acreditará ante el notario respectivo mediante certificado emitido por la entidad bancaria o aseguradora, el cual contendrá, a lo menos, la identificación de la entidad bancaria o aseguradora, el número de la boleta bancaria o de la póliza de seguro, el nombre del promitente comprador a cuyo favor está constituida, monto de la misma, su carácter irrevocable y período de vigencia. Si no se da cumplimiento a lo dispuesto en este inciso, los notarios no autorizarán los contratos de promesa de compraventa a que se refiere este artículo.
+
 ## Título 4
 
 DE LA ARQUITECTURA
@@ -3188,9 +3290,9 @@ Los edificios del cuarto grupo no podrán construirse en sectores habitacionales
 
 #### Artículo 4
 
-1.7. Con el objeto de facilitar la accesibilidad y desplazamiento de personas con discapacidad, toda edificación colectiva cuya carga de ocupación sea mayor a 50 personas y todo edificio de uso público deberá cumplir los siguientes requisitos mínimos:
+1.7. Con el objeto de facilitar la accesibilidad y desplazamiento de personas con discapacidad, toda edificación colectiva cuya carga de ocupación sea mayor a 50 personas, todo edificio de uso público y todo edificio sin importar su carga de ocupación que preste un servicio a la comunidad deberán cumplir los siguientes requisitos mínimos:
 
-1. Al menos una puerta de acceso al edificio deberá ser fácilmente accesible desde el nivel de la vereda; consultar un ancho libre mínimo de 0,90 m; un peinazo resistente al impacto de una altura no inferior a 0,30 m, y no podrá ser giratoria.
+1. Al menos una puerta en el acceso principal del edificio deberá ser fácilmente accesible en forma autónoma e independiente desde el nivel de la vereda para la circulación de silla de ruedas; consultar un ancho libre mínimo de 0,90 m; resistente al impacto hasta una altura no inferior a 0,30 m, y no podrá ser giratoria. En los casos de construcciones existentes en los que no sea posible habilitar el acceso por la puerta principal, deberá estar claramente señalizado el acceso secundario, para las personas en silla de ruedas, usando la señalética internacional.
 
 2. Cuando el área de ingreso se encuentre a desnivel con la vereda, se deberá consultar una rampa antideslizante o un elemento mecánico.
 
@@ -3227,6 +3329,8 @@ Cuando se requieran juntas estructurales o de dilatación, en la superficie de c
 12. Los botones de comando del ascensor para personas con discapacidad deberán estar ubicados a una altura que fluctúe entre 1 m y 1,40 m como máximo. La numeración y las anotaciones requeridas deberán ser sobrerrelieve. El tiempo de detención deberá ser suficiente para permitir el paso a una persona con discapacidad en silla de ruedas o a un no vidente.
 
 13. Tanto los ascensores como los servicios higiénicos públicos para uso de las personas con discapacidad deberán señalizarse con el símbolo internacional correspondiente.
+
+Todo establecimiento educacional sin importar su carga de ocupación, como asimismo, todo edificio de uso público, sin importar su carga de ocupación que considere al menos un recinto con carga de ocupación superior a 50 personas, tales como: salas de reuniones, teatros, hoteles, restaurantes, clínicas, casinos, etc., deberán contar con un recinto destinado a servicio higiénico con acceso independiente para personas con discapacidad, para uso alternativo de ambos sexos, de dimensión tal, que permita consultar un inodoro, un lavamanos, barras de apoyo y además el ingreso y maniobra de una silla de ruedas con un espacio que permita giros en 180° de un diámetro mínimo de 1,50 metros. Este recinto podrá estar incluido dentro de la dotación mínima de artefactos y servicios higiénicos considerados en la presente Ordenanza.
 
 14. Cuando existan teléfonos de uso público, al menos 1 de cada 5 de ellos, con un mínimo de 1, deberá permitir el uso por personas en sillas de ruedas.
 
@@ -4722,7 +4826,7 @@ hasta 20 alumnos por cada 10 alumnos
 
 Cuando el local escolar de nivel general básico atienda además a alumnos de Jardín Infantil, deberá contar con un recinto de servicios higiénicos independiente para el uso exclusivo de los alumnos del jardín, con las características consultadas en el presente artículo en el número 1. letra b), exceptuada la tineta.
 
-El local escolar ubicado en áreas urbanas que tenga una capacidad igual o superior a 300 alumnos, deberá contar con un recinto independiente destinado a servicio higiénico de personas discapacitadas de dimensión tal, que permita consultar un inodoro y un lavamanos y además el ingreso y evolución de una silla de ruedas.
+INCISO ELIMINADO.
 
 Los locales escolares de nivel general básico y los hogares estudiantiles ubicados en el sector rural, donde no exista red de agua potable podrán disponer como única fuente de la misma de un pilón proveniente de una noria o pozo sanitario u otro sistema aprobado por la autoridad sanitaria, sin que les sean exigibles los lavamanos y duchas señalados en el presente artículo en los números 2. y 3. Cuando en estas mismas edificaciones no se puedan instalar servicios higiénicos con arrastre de agua, deberán disponer de instalación de letrinas sanitarias en número necesario para proceder al reemplazo de los inodoros indicados en el presente artículo en los números 2. y 3. sin que les sea exigible un número de letrinas en reemplazo de los urinarios a que dichos puntos se refieren.
 
@@ -4778,7 +4882,7 @@ Las circulaciones horizontales exteriores de los pisos superiores al primero, de
 
 Los tramos de la escalera principal entre dos pisos, exceptuada únicamente la sala cuna de hasta 30 alumnos, deberán ser rectos y separados por a lo menos un descanso, cuando estos tramos consulten más de 16 gradas. Las gradas tendrán una altura máxima de 0,18 m y una huella, en proyección horizontal, no inferior a 0,25 m.
 
-En los locales escolares con 135 alumnos atendidos en los pisos superiores y en hogares estudiantiles con 40 alumnos atendidos en los pisos superiores, se exigirá, además, una escalera de escape de tramos rectos, de un ancho libre mínimo de 0,90 m, ubicada distanciada de la escalera principal, de modo que garantice una evacuación alternativa en casos de emergencia.
+En los locales escolares con 135 alumnos atendidos en los pisos superiores y en hogares estudiantiles con 40 alumnos atendidos en los pisos superiores, en el caso de consultar una sola escalera, se exigirá además, una escalera de escape de tramos rectos, de un ancho libre mínimo de 0,90 m, con ubicación distanciada de la escalera principal, de modo que garantice una evacuación alternativa en casos de emergencia.
 
 Las escaleras consultarán pasamanos a ambos lados, a una altura mínima de 0,90 m, diseñados de manera que no puedan ser usados como asiento. El espacio bajo el pasamanos, deberá diseñarse de modo que impida el paso de los alumnos y su escalamiento.
 
@@ -5276,7 +5380,7 @@ HOTELES, RESIDENCIALES, HOGARES Y HOSPEDERIAS
 
 #### Artículo 4
 
-9.14. Todo edificio destinado a hotel con capacidad para más de 50 camas deberá consultar al menos una habitación con acceso a un baño habilitado para el uso de personas con discapacidad en sillas de ruedas.
+9.14. Todo edificio destinado a hotel con capacidad para más de 50 camas deberá consultar al menos una habitación con acceso a un baño privado habilitado para el uso de personas con discapacidad en sillas de ruedas.
 
 #### Artículo 4
 
@@ -5978,13 +6082,35 @@ En caso necesario, las instalaciones consignadas en el número 1. anterior podr�
 
 1.4. Cuando los propietarios soliciten los permisos que a continuación se indican, el Director de Obras Municipales los concederá previa verificación que se acompañe una declaración simple de dominio del inmueble, además de los antecedentes que para cada caso se expresa, utilizando los procedimientos que contempla este artículo:
 
-1. Permiso de Obra Menor.
+1. Permiso de Obra Menor:
 
-Cuando las obras sean calificadas como obras menores, el permiso será otorgado por el Director de Obras Municipales, en un plazo máximo de 15 días, contra la presentación de una fotocopia del Certificado de Informaciones Previas y una declaración simple del profesional competente que las hubiere proyectado, en cuanto a que éstas cumplen con la normativa vigente, describiendo las obras, indicando el presupuesto y acompañando un croquis de su ubicación, todo lo cual se archivará conjuntamente con el respectivo expediente de edificación.
+A. Cuando las ampliaciones sean calificadas como obras menores, se concederá un Permiso de Ampliación, el que será otorgado por el Director de Obras Municipales, en un plazo máximo de 15 días, para cuyos efectos se deberán presentar los siguientes antecedentes:
+
+1. Solicitud firmada por el propietario y el arquitecto autor del proyecto.
+
+2. Declaración simple del propietario manifestando ser titular de dominio del predio.
+
+3. Fotocopia del Certificado de Informaciones Previas.
+
+4. Declaración simple del arquitecto autor del proyecto, en que señale que la obra menor cumple con las todas las normas de la Ley General de Urbanismo y Construcciones y de esta Ordenanza, cuando corresponda.
+
+5. Croquis de emplazamiento, a escala, en que se grafique la edificación existente y la obra menor, con indicación de sus distancias hacia los deslindes respectivos, incluyendo los puntos de aplicación de rasantes.
+
+6. Plano a escala 1: 50, en que se grafique planta general y elevaciones con las cotas mínimas indispensables, que permitan definir los aspectos formales, dimensionales y funcionales de la obra menor con individualización de los recintos y cuadro de superficies.
+
+7. Especificaciones técnicas resumidas, señalando las partidas más relevantes de la obra.
+
+Todos los documentos anteriores, se archivarán conjuntamente con el respectivo expediente de edificación.
+
+En estos casos, se deberá pagar el derecho municipal establecido en el número 2 del artículo 130º de la Ley General de Urbanismo y Construcciones.
+
+B. Cuando las obras menores correspondan a modificaciones de edificaciones existentes que no alteren su estructura, con excepción de las señaladas en el artículo 5.1.2. de esta Ordenanza, el permiso será otorgado por el Director de Obras Municipales, en un plazo máximo de 15 días, contra la presentación de una fotocopia del Certificado de Informaciones Previas y una declaración simple del profesional competente que las hubiere proyectado, en cuanto a que éstas cumplen con la normativa vigente, describiendo las obras, indicando el presupuesto y acompañando un croquis de su ubicación, todo lo cual se archivará conjuntamente con el respectivo expediente de edificación. En estos casos, se deberá pagar el derecho municipal establecido en el número 3 del artículo 130º de la Ley General de Urbanismo y Construcciones.
 
 2. Permiso de Alteración, Reparación o Reconstrucción.
 
-Se otorgará permiso para alterar, reparar o reconstruir un edificio, si la intervención aisladamente considerada cumple con todas las exigencias de la presente Ordenanza. Para estos efectos se deberá acompañar planos y especificaciones técnicas de aquellas partes del edificio que sufran cambios con respecto a los antecedentes primitivamente aprobados. Dichos planos diferenciarán con líneas convencionales las partes no afectadas, las partes nuevas y las que deben demolerse, a fin de poder verificar las condiciones proyectadas de seguridad y habitabilidad. Se acompañará también presupuesto informativo de las obras correspondientes. Si la intervención afectare la estructura de la edificación, se deberá acompañar la memoria de cálculo y planos de estructura, suscritos por el profesional competente.
+Se otorgará permiso para alterar, reparar o reconstruir un edificio, si la intervención aisladamente considerada cumple con todas las exigencias de la presente Ordenanza. Para estos efectos se deberá acompañar planos y especificaciones técnicas de aquellas partes del edificio que sufran cambios con respecto a los antecedentes primitivamente aprobados. Dichos planos diferenciarán con líneas convencionales las partes no afectadas, las partes nuevas y las que deben demolerse, a fin de poder verificar las condiciones proyectadas de seguridad y habitabilidad. Se acompañará también presupuesto informativo de las obras correspondientes.
+
+Si la intervención afectare la estructura de la edificación, se deberá acompañar la memoria de cálculo y planos de estructura, suscritos por el profesional competente.
 
 Tratándose de alteraciones consistentes en obras de restauración, rehabilitación o remodelación de edificios ligados a Monumentos Nacionales, inmuebles o zonas de conservación histórica, tal circunstancia deberá declararse en la solicitud, debiendo en estos casos, presentarse la autorización del Consejo de Monumentos Nacionales o de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, según corresponda.
 
@@ -6689,6 +6815,8 @@ Cuando el proyecto aprobado incluya la ejecución de obras de urbanización, deb
 Tratándose de proyectos de loteo con construcción simultánea, se recepcionarán simultáneamente las obras de edificación y de urbanización, salvo que estas últimas se hubieren recepcionado en forma anticipada.
 
 Los antecedentes y certificaciones a que se refiere este artículo se archivarán conjuntamente con el legajo que señala el inciso primero del artículo 5.1.16. de esta Ordenanza y formarán parte del mismo.
+
+Tratándose de la recepción definitiva de una obra menor, se adjuntarán al expediente los certificados de recepción de las instalaciones contempladas en la obra construida, emitidos por la autoridad competente, cuando corresponda, y un informe del arquitecto proyectista o supervisor de la obra, que señale que fue construida de conformidad al permiso otorgado y a las normas de la Ley General de Urbanismo y Construcciones y de esta Ordenanza.
 
 #### Artículo 5
 
@@ -7860,6 +7988,8 @@ c) Nombre del constructor responsable y número telefónico de la obra, si lo hu
 
 5. En los casos que la faena contemple la utilización de explosivos, debe obtenerse la autorización correspondiente según lo dispuesto en el D.S. Nº400, de 1977, del Ministerio de Defensa, que fija el Texto Refundido, Coordinado y Sistematizado de la Ley 17.798, sobre Control de Armas y su Reglamento aprobado por D.S. Nº 77 de 1982, del Ministerio de Defensa, publicado en el Diario Oficial de 14 de Agosto de 1982 y sus modificaciones.
 
+6. En los casos que la faena contemple adosamientos en subterráneos, con anterioridad al inicio de la construcción de la parte adosada, el constructor deberá informar al vecino, señalando las medidas de seguridad y de estabilidad estructural adoptadas y los profesionales responsables de la obra.
+
 Estas exigencias serán registradas en el informe de las medidas de gestión y de control de calidad que debe presentar el constructor a cargo de la obra ante la Dirección de Obras Municipales correspondiente.
 
 #### Artículo 5
@@ -7994,71 +8124,7 @@ Instalaciones interiores de gas.
 
 #### Artículo 5
 
-9.3. Toda edificación que consulte instalación interior de gas deberá cumplir con las normas legales, reglamentarias y técnicas respectivas, lo cual se acreditará ante la Dirección de Obras Municipales al momento de solicitar la recepción definitiva de la obra correspondiente, acompañando copia de la declaración de la instalación informada a la Superintendencia de Electricidad y Combustibles.
-
-Los edificios colectivos de vivienda integrados por unidades superpuestas, deberán consultar instalaciones interiores de gas y estar provistos de ductos colectivos y secundarios para evacuar los gases de la combustión de calentadores de agua. Dichos ductos deberán quedar ubicados de tal modo que permitan instalar el calefón o termo en un recinto que cumpla con las dimensiones y ventilaciones de aire exigidas por las normas legales, reglamentarias y técnicas correspondientes.
-
-Sin embargo, podrán eximirse de contar con instalación interior de gas y de instalar ductos colectivos de evacuación, los edificios que consulten una central de agua caliente para uso sanitario, con remarcadores individuales u otra solución colectiva para dotar de agua caliente a las diferentes unidades del edificio. No regirá esta última exención para aquellos edificios que consulten además arranques para calefón de tiro natural.
-
-Asimismo, tampoco necesitarán contar con ducto colectivo de evacuación de gases, los edificios en que la totalidad de las unidades habitacionales que lo conforman contemplan soluciones individuales para proveer de agua caliente mediante artefactos a gas tipo B (conectado a un ducto de evacuación con circuito abierto de combustión), con tiro forzado o artefactos tipo C1 (conectado a un ducto de evacuación con circuito estanco de combustión), de tiro forzado o natural, ambos según la clasificación que establece el D.S. Nº222, del Ministerio de Economía, Fomento y Reconstrucción, de 1995.
-
-Se exceptúan también de contar con el conducto señalado, los edificios que contemplen calentadores de agua eléctricos, individuales o colectivos, siempre y cuando se deje proyectada, de acuerdo a normas, otras soluciones individuales según lo indicado en el inciso anterior y se contemplen las pasadas y obras necesarias para que, en una eventual futura instalación, no se requieran trabajos de construcción adicionales para instalar el artefacto.
-
-Mientras no se dicten las normas técnicas chilenas sobre el particular por el Instituto Nacional de Normalización los conductos de evacuación de los artefactos señalados anteriormente deberán cumplir con lo siguiente:
-
-1. En el caso de desembocar en patios de luz, a lo menos uno de sus lados deberá estar abierto de manera de permitir una circulación libre de aire.
-
-2. Las distancias mínimas de seguridad desde el sombrerete de un conducto de artefactos tipo B o tipo C1 con tiro forzado, deberán ser las siguientes:
-
-a) 0,60 m a cualquiera de los vanos.
-
-b) Con respecto al nivel del suelo:
-
-- 2,5 m para artefactos de potencia útil
-
-nominal igual o mayor a 17 kW y menor de
-
-35 kW.
-
-- 1,5 m para artefactos de potencia útil
-
-nominal menor que 17 kW.
-
-c) 3,00 m a cualquier superficie frontal.
-
-3. Las distancias mínimas de seguridad desde el sombrerete de un conducto de artefactos tipo C1 con tiro natural, deberán ser las siguientes:
-
-a) A los vanos:
-
-- 2,5 m para artefactos de potencia útil
-
-nominal igual o mayor a 17 kW y menor de
-
-35 kW.
-
-- 1,5 m para artefactos de potencia útil
-
-nominal menor que 17 kW.
-
-b) Con respecto al nivel del suelo:
-
-- 2,5 m para artefactos de potencia útil
-
-nominal igual o mayor a 17 kW y menor de
-
-35 kW.
-
-- 1,5 m para artefactos de potencia útil
-
-nominal menor que 17 kW.
-
-c) 2,50 m a cualquier superficie frontal.
-
-La identificación de los artefactos deberá quedar registrada en los planos de las instalaciones interiores de gas, y deberán estar instalados en el edificio cuando se proceda a su recepción definitiva por el Director de Obras Municipales, cumpliendo con las condiciones establecidas en el Reglamento de Instalaciones Interiores de Gas y en esta Ordenanza.
-
-En el caso de edificios colectivos de vivienda integrados por unidades superpuestas que no consulten instalación interior de gas, será obligatorio indicar en el reglamento de copropiedad la prohibición de efectuar instalaciones de gas no autorizadas de cualquier tipo por parte de los residentes y las medidas de seguridad que al respecto podrá implementar la administración del inmueble.
-
-Los ductos de evacuación de los artefactos señalados anteriormente deberán cumplir con las disposiciones del Reglamento de Instalaciones Interiores de Gas, D.S. Nº222, del Ministerio de Economía, Fomento y Reconstrucción, de 1995 y sus modificaciones.
+9.3. Las instalaciones interiores de gas deberán cumplir con las disposiciones legales, reglamentarias y técnicas correspondientes, lo cual se acreditará ante la Dirección de Obras Municipales al momento de solicitar la recepción definitiva de la obra correspondiente, acompañando copia de la inscripción de la declaración de la instalación, con la constancia de acuso de recibo en la Superintendencia de Electricidad y Combustibles y serán evaluadas y aprobadas por el organismo competente de conformidad a lo establecido en el inciso segundo del artículo 1.1.3. de esta Ordenanza.
 
 Calefacción central y agua caliente.
 
@@ -8312,7 +8378,7 @@ Para efectos de la aplicación de las disposiciones de este artículo, se consid
 
 #### Artículo 6
 
-2.7. En el caso de una vivienda interior, cuyo proyecto corresponda a la densificación de un predio con una vivienda existente, que no permita la configuración de un pasaje de 2,50 m de ancho mínimo, según lo dispone la presente Ordenanza, el mínimo indicado se podrá rebajar hasta 1,40 m si no se consultan entradas vehiculares.
+2.7. En el caso de una vivienda interior, cuyo proyecto corresponda a la densificación de un predio con una vivienda existente, que no permita la configuración de un pasaje de 2,50 m de ancho mínimo, según lo dispone la presente Ordenanza, el mínimo indicado se podrá rebajar hasta 0,80 m libres si no se consultan entradas vehiculares.
 
 #### Artículo 6
 
@@ -8323,6 +8389,30 @@ Corresponderá a la Secretaría Regional Ministerial de Vivienda y Urbanismo res
 Sin perjucio de lo anterior, los conjuntos de que trata este artículo deberán cumplir con las disposiciones de restricción, reserva y protección establecidas por los organismos públicos competentes de acuerdo a sus facultades legales y las establecidas en los Instrumentos de Planificación Territorial.
 
 Para solicitar las autorizaciones de los conjuntos de viviendas de que trata este artículo se estará al procedimiento contemplado en los artículos 3.1.7. y 5.1.6. de esta Ordenanza y se tramitará como loteo con construcción simultánea, en el cual se ejecuta simultáneamente la urbanización y la construcción de las edificaciones.
+
+#### Artículo 6
+
+2.9. En áreas urbanas, los predios con una vivienda social o los lotes provenientes de Operaciones Sitio, que hayan sido construidas o urbanizados respectivamente, por los antecesores legales de los Servicios de Vivienda y Urbanización y cuya superficie no sea inferior a 100 metros cuadrados, podrán subdividirse en dos y/o contemplar la construcción de una segunda vivienda social sin que le sean aplicables las normas del Instrumento de Planificación Territorial, de igual forma, cuando los predios tengan una superficie no inferior a 150 metros cuadrados podrán subdividirse hasta tres y/o contemplar la construcción de hasta dos viviendas sociales más. Las condiciones de subdivisión predial, como asimismo, el distanciamiento entre las viviendas que se construyan en los sitios resultantes de la subdivisión o que sin mediar subdivisión se acojan al régimen de copropiedad inmobiliaria, serán de iniciativa del arquitecto autor del proyecto, sin perjuicio del cumplimiento de las condiciones de habitabilidad dispuestas en los artículos 4.1.1., 4.1.2. y 4.1.3. de esta Ordenanza.
+
+Las edificaciones que se acojan al presente artículo no podrán exceder la altura de edificación, ni la longitud total del deslinde común con el predio vecino al proyecto, que se indican en la siguiente tabla:
+
+ALTURA DE EDIFICACION PORCENTAJE MAXIMO
+
+DE ADOSAMIENTO
+
+Desde 2,0 y hasta 3,5 metros 70%
+
+Sobre 3,5 metros y hasta
+
+6,0 metros 60%
+
+Sin perjuicio de lo anterior, para la aplicación de la tabla contenida en este artículo, la suma de los adosamientos de distinta altura no podrá ser superior al 70% del deslinde común con el vecino.
+
+El porcentaje de adosamiento y la altura máxima de adosamiento podrá excederse, en este último caso, pudiendo llegar hasta los 7,5 metros de altura, previa autorización expresa del propietario del predio vecino, suscrita ante Notario.
+
+El adosamiento deberá inscribirse dentro de un ángulo no superior a 45 grados sexagesimales, aplicado en el deslinde, desde la altura máxima de adosamiento permitida.
+
+La tramitación del permiso y la recepción definitiva de las edificaciones a que se refiere este artículo, se efectuará conforme al procedimiento dispuesto para las obras menores de esta Ordenanza.
 
 ## Capítulo 3
 
@@ -8374,11 +8464,11 @@ Sin perjuicio de lo anterior y respecto del urbanizador, loteador o propietario,
 
 2. Alcantarillado: conexión a red pública o a la red de la empresa concesionaria de servicios sanitarios correspondiente, si existe. En su defecto, redes colectivas conectadas a plantas de tratamientos y su disposición final, conforme a lo dispuesto en el Código Sanitario y sus reglamentos, aprobado por la autoridad sanitaria correspondiente.
 
+Previa autorización de la Secretaría Regional Ministerial de Vivienda y Urbanismo, se aceptarán sistemas de alcantarillado de redes colectivas conectadas a baterías de fosa sépticas y drenes. Asimismo se podrán autorizar sistemas de alcantarillado domiciliario unitario en predios de una superficie mínima de 1000 m², la que se podrá disminuir hasta 300 m² si se cuenta con un suministro de agua potable a través de redes públicas. Todas las soluciones deberán ser aprobadas por la autoridad sanitaria correspondiente.
+
 3. Evacuación de aguas lluvias: el escurrimiento de las aguas se deberá hacer en forma natural por calles y pasajes, o por cauces naturales o artificiales de aguas o mediante pozos absorbentes, u otra solución alternativa técnicamente aceptable.
 
-4. Pavimentación: deberán cumplir con las disposiciones establecidas en el artículo 3.2.5.
-
-de la presente Ordenanza.
+4. Pavimentación: deberán cumplir con las disposiciones establecidas en el artículo 3.2.5. de la presente Ordenanza.
 
 5. Electricidad: conexión a red pública, si la hubiere, o a generador, acorde con los requerimientos del proyecto. Todas las redes de electrificación, de alumbrado público y sus respectivas obras complementarias se ejecutarán en conformidad a las normas y especificaciones sobre diseño y construcción, de acuerdo a las normas técnicas vigentes.
 
@@ -8398,7 +8488,7 @@ DE LA ARQUITECTURA
 
 #### Artículo 6
 
-4.1. Las condiciones arquitectónicas de la vivienda de que trata este Título, tales como asoleamiento, ventilación, dimensionamiento de recintos y circulaciones, distribución de camas en dormitorios, o de artefactos en baño y cocina, serán de iniciativa del arquitecto autor del proyecto, sin perjuicio de cumplir con las condiciones de habitabilidad dispuestas en los artículos 4.1.1. al 4.1.4., ambos inclusive, de la Ordenanza General de Urbanismo y Construcciones.
+4.1. Las condiciones arquitectónicas de la vivienda de que trata este Título, tales como asoleamiento, ventilación, dimensionamiento de recintos y circulaciones, distribución de camas en dormitorios, o de artefactos en baño y cocina, serán de iniciativa del arquitecto autor del proyecto, sin perjuicio de cumplir con las condiciones de habitabilidad dispuestas en los artículos 4.1.1. al 4.1.3., ambos inclusive, de la Ordenanza General de Urbanismo y Construcciones.
 
 Tratándose de viviendas económicas obtenidas mediante obras de alteración de un inmueble existente, el Director de Obras Municipales podrá autorizar excepciones a las condiciones antes señaladas.
 
@@ -8408,7 +8498,7 @@ Con todo, la vivienda social deberá tener a lo menos tres recintos: un dormitor
 
 Sin embargo, cuando se trate de conjuntos de viviendas económicas destinados a comunidades nativas, la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo podrá autorizar soluciones diferentes a las señaladas en el inciso anterior, previo informe favorable de la Corporación Nacional de Desarrollo Indígena.
 
-No obstante que la superficie máxima de una vivienda económica es de 140 m2 edificados, en las viviendas económicas que se construyan en las provincias de Chiloé y Palena de la X Región, y en las Regiones XI y XII, podrán agregarse construcciones exteriores a la vivienda, que no incluyan instalaciones para servicios higiénicos, y cuya superficie no sobrepase 16 m2. Esta construcción adicional exterior no será computable para los efectos de aplicar a dicha vivienda los beneficios, franquicias y exenciones que contempla el D.F.L. Nº 2, de 1959.
+No obstante que la superficie máxima de una vivienda económica es de 140 m2 edificados, en las viviendas económicas que se construyan en las Regiones IX, X, XI y XII, podrán agregarse construcciones exteriores a la vivienda, que no incluyan instalaciones para servicios higiénicos, y cuya superficie no sobrepase 16 m2. Esta construcción adicional exterior no será computable para los efectos de aplicar a dicha vivienda los beneficios, franquicias y exenciones que contempla el D.F.L. Nº 2, de 1959.
 
 ## Capítulo 5
 
@@ -8430,11 +8520,7 @@ Los sistemas o clases de edificación que hayan adoptado o aprobado la ex Corpor
 
 #### Artículo 6
 
-5.4. Los edificios colectivos de viviendas sociales de hasta seis pisos desde el nivel de acceso vehicular, con un máximo de 25 unidades por cada acceso común, podrán consultar instalaciones individuales de gas, alimentadas desde cilindros de gas licuado de petróleo de 15 Kg. y tendrán calentador de agua instalado conectado al conducto de evacuación colectiva de gases, para la recepción definitiva.
-
-Los cilindros de gas de petróleo se instalarán en recintos ventilados directamente al exterior y deberán protegerse según las normas legales, reglamentarias y técnicas correspondientes.
-
-Deberá considerarse el espacio suficiente para la ubicación de una cantidad de cilindros que permita satisfacer la potencia instalada de los artefactos proyectados, debiendo considerarse al menos el espacio para dos cilindros de 15 Kg.
+5.4. Derogado.
 
 #### Artículo SEGUNDO
 
