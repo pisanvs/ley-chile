@@ -1,0 +1,5 @@
+Por resolución Nº 1.522, de 3 de noviembre de 1998, de esta Subsecretaría, autorízase a PESQUERA QUINTERO S.A., para sustituir la nave ''Basel'', matrícula 2208, autorizada por resoluciones Nº 128 de 1983, Nº 196 de 1985 y Nº 320 de 1989, de esta Subsecretaría, por la nave denominada ''Don Stefan'', con la cual podrá capturar con red de arrastre, por fuera del área de reserva artesanal, en el litoral comprendido entre los paralelos 24º y 35º L.S., el recurso hidrobiológico Camarón nailon y en el litoral de la III y IV Regiones Langostino amarillo.
+
+Déjase sin efecto las resoluciones Nº 128 de 1983, Nº 196 de 1985, Nº 320 de 1989 y Nº 723 de 1993, todas de esta Subsecretaría, solamente en cuanto autorizaron a Pesquera Quintero S.A., para operar la nave ''Basel'', en virtud de la sustitución a que se refiere esta resolución.
+
+Valparaíso, 3 de noviembre de 1998.- Edith Saa Collantes, Subsecretario de Pesca (S).
