@@ -1,0 +1,5 @@
+Por decreto MOP N°3.533, de 31 de julio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP N°850, de 1997, que fijó el texto actualizado de la ley N°15.840 y del DFL MOP N°206, de 1960, se expropió el lote de terreno N°581, para la obra ''Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector C: Acceso Sur a Santiago. Km. 17.700,00 al Km.
+
+46.600,00'', Región Metropolitana, que figura a nombre de Inversiones Agrícolas e Indust. A, rol de avalúo 319-358, comuna de Buin, superficie 1.213 m2. La comisión de peritos integrada por los señores Américo Agustín Delucchi Cabaña, Eduardo Alejandro Silva Aracena y Gustavo Manuel Domínguez Vicuña, fijó con fecha 11 de mayo de 2000, el valor provisional de la indemnización en la cantidad de $5.547.892.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N°2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
