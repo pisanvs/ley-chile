@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.805, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº 43, superficie 1.978 m2., rol de avalúo 187-98, comuna de San Vicente, VI Región, para la obra "Proyecto Mejoramiento Ruta H-830, Sector San Vicente-El Cardal- Millahue, Tramo 0,000 al 8,622" y se acordó el valor de indemnización con su propietaria doña María Elena Herreros Valenzuela, ascendente a la cantidad de $2.684.518.
+
+Fiscal del Ministerio de Obras Públicas.
