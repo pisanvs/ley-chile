@@ -1,0 +1,33 @@
+FIJA VIAS CON CARACTER DE REVERSIBLES PARA LA CIRCULACION DE VEHICULOS EN LA CIUDAD DE SANTIAGO
+
+Núm. 257 exenta.- Santiago, 14 de marzo de 2002.- Visto: Lo dispuesto en el artículo 1º y 19 números 1º, 8º y 9º de la Constitución Política de la República de Chile; artículo 3º de la Ley Nº 18.575 de Bases Generales de la Administración del Estado, la ley Nº 18.059 en relación con el artículo 43 de la ley Nº 18.287; los artículos 113, 118 y 199 Nº 19 de la ley Nº 18.290, de Tránsito y la ley Nº 19.300 de Bases del Medio Ambiente; el punto MEPC4 del decreto supremo Nº 16/98 del Ministerio Secretaría General de la Presidencia, que contiene el Plan de Prevención y Descontaminación Atmosférica de la Región Metropolitana; el decreto supremo Nº 83/85 y sus modificaciones, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, relativas a Redes Viales Básicas; las resoluciones Nº 59/85 y 39/92 ambas de la misma Secretaría de Estado antes mencionada; la resolución exenta Nº 512/2000 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana; la resolución exenta Nº 83/2001 y sus modificaciones, del Ministerio de Transportes y Telecomunicaciones; la resolución exenta Nº 83/2001 y sus modificaciones de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana y los decretos exentos Nº 448 de fecha 19 de marzo de 2001, de la I. Municipalidad de Providencia, Nº 186 de fecha 7 de febrero de 2001, de la I. Municipalidad de Pedro Aguirre Cerda, Nº 375 de fecha 15 de marzo de 2001, de la I. Municipalidad de San Miguel, Nº 75 de fecha 13 de marzo de 2001, de la I. Municipalidad de Santiago, Nº 115 de fecha 31 de enero de 2001, de la I. Municipalidad de Quinta Normal, Nº 240 de fecha 13 de marzo de 2001, de la I. Municipalidad de Quinta Normal y Nº 205 de fecha 9 de marzo de 2001, de la I. Municipalidad de Ñuñoa.
+
+Considerando:
+
+1. Que de acuerdo al ordenamiento jurídico vigente, en especial la Constitución Política de la República, se ha encomendado al Estado la función de servir a la persona humana, promover el bien común y dar en consecuencia una adecuada protección a la población en materia de salud, velando para ello por el derecho de todos los ciudadanos a vivir en un medio ambiente libre de contaminación.
+
+2. Que en este contexto y con el propósito de dar cabal cumplimiento a sus cometidos constitucionales, se ha dotado al Ministerio de Transportes y Telecomunicaciones, en su calidad de ente integrante de la administración centralizada del Estado y, en especial, en su condición de autoridad rectora nacional en materia de tránsito y transporte público, de las facultades normativas, tanto legales como reglamentarias, para adoptar todas aquellas medidas que, dentro del ámbito de su competencia, contribuyan fundada y justificadamente a la consecución de sus objetivos.
+
+3. Que los altos índices de contaminación del aire registrados en la ciudad de Santiago, hacen imperioso para la autoridad de transportes implementar de manera preventiva, y dentro del contexto del Plan de Transporte Urbano de Santiago, un conjunto de medidas inmediatas que, disminuyendo precisamente la concentración de fuentes móviles contaminantes en la capital, contribuyan responsablemente a reducir la polución en la Región Metropolitana, precaviendo con ello, o a lo menos disminuyendo, la ocurrencia de episodios críticos de contaminación ambiental que pongan en riesgo la salud de la población.
+
+4. Que el referido Plan de Transporte Urbano de Santiago, basándose, entre otros antecedentes, en el Plan de Prevención y Descontaminación de la Región Metropolitana, y las tareas que éste le asigna a la autoridad de transporte en materia medioambiental, ha considerado útil y necesario implementar como medida inmediata un sistema de ordenamiento de transporte que, asegurando una preeminencia en la utilización del transporte público, permita con ello el desplazamiento de la mayor cantidad de personas en el menor número de móviles potencialmente contaminantes, posibilitando así una baja concentración de los mismos en las vías de mayor flujo vehicular.
+
+R e s u e l v o:
+
+1. Establécese de lunes a viernes, excepto festivos, la medida de gestión de tránsito en la ciudad de Santiago, denominada Vías Reversibles Permanentes de Circulación Vehicular, consistente en un conjunto de vías de la ciudad de Santiago, cuyo uso estará destinado únicamente a la circulación de todo tipo de vehículos en las cuales el sentido de desplazamiento vehicular estará sujeto a variaciones, según horarios y sentidos de tránsito, iniciándose a partir del 18 de marzo de 2002.
+
+2. La medida aludida en el numeral 1 operará en vías, sentidos, horarios y demás condiciones que a continuación se indican:
+
+.
+
+3. Déjase sin efecto la resolución exenta Nº 83 del 22 de marzo de 2001 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana y todas sus modificaciones.
+
+4. Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, fiscalizarán el estricto cumplimiento de la medida precedentemente descrita.
+
+> **Nota.** El numeral 1º de la Resolución 7556 Exenta, Transportes, publicada el 06.01.2014, modifica la presente norma en el sentido de eliminar del cuadro el EJE AV. CENTRAL - 1º DE MAYO- LAS FLORES.
+
+> **Nota.** NOTA 1 Las letra a, b del numeral 1° de la Resolución 5106 Exenta, Transportes, publicada el 04.10.2016, modifican la presente norma en el sentido de reemplazar los cuadros de la manera que la citada norma indica.
+
+> **Nota.** NOTA 2 El numeral 1° de la Resolución 320 Exenta, Transportes, publicada el 05.02.2023, modifica la presente norma, en el sentido de eliminar de su resuelvo Nº 2, los cuadros eje Av. Costanera Andrés Bello - Av. Cardenal José María Caro, sentido oriente poniente, sentido poniente oriente.
+
+Anótese y publíquese.- Fernando Orellana Astorga, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
