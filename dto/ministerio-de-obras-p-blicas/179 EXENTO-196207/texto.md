@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 179 de 28 de febrero del 2002, se expropiaron los lotes de terreno Nºs 63-1 y 63-2, superficies 769 y 2.237 m2., rol de avalúo 243-32, comuna de Purranque, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno Puerto Montt Sector Calle de Servicio Naning, Kms. 977,600 al 979,700, Décima Región y se acordó el valor de indemnización con su propietario Sociedad Agrícola y Ganadera Landes Limitada., ascendente a la cantidad de $2.675.879.
+
+- Fiscal del Ministerio de Obras Públicas.
