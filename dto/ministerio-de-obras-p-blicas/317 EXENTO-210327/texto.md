@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº317 de 31 de marzo de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron para el Fisco los lotes Nºs. 63 y 68, para la obra: Reposición Ruta-9 y Acceso Aeropuerto, Sector (Ruta 9) Km. 5,31490 a Km. 19,342349 (Acceso Aeropuerto) Km. 0,000 a Km.
+
+1,295819, que figuran a nombre de Negrete Fernández Raúl Patricio y Santana Muñoz Omar y otro, roles de avalúo 5050363 y 5050-170, Comuna de Punta Arenas, XII Región, superficies 136 m2. y 268 m2. La Comisión de Peritos, fijó con fecha 10 de mayo del 2000, el monto de la indemnización provisional en la cantidad de $612.000.- para el lote Nº63 y $1.206.000.- para el lote Nº68. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
