@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 26 EXENTA, DE 2003
+
+Por Res. Ex. Nº 26 del 23 de abril de 2003, se autoriza a la empresa Agrosuper Comercializadora de Alimentos Ltda., RUT 79.984.240-8, para emitir y recibir documentos tributarios electrónicos a partir del mes de mayo de 2003. Los documentos autorizados a emitir son los siguientes: facturas electrónicas, notas de crédito electrónicas, notas de débito electrónicas y guías de eespacho electrónicas. En la citada resolución se establecen los procedimientos que deberá cumplir el contribuyente individualizado para la generación de dichos documentos, su envío al Servicio de Impuestos Internos y a los receptores electrónicos, su otorgamiento a los receptores no electrónicos, su almacenamiento en medios electrónicos y su registro en archivos electrónicos.
+
+El texto íntegro de esta resolución se encuentra incluido en el sitio Web del Servicio de Impuestos Internos en Internet, cuya dirección es http://www.sii.cl
