@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.151, de 30 de noviembre de 2000, se expropió el lote de terreno Nº11-1, superficie 1.654 m², rol de avalúo 11-71, comuna de Olivar, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector E, Sexta Región y se acordó el valor de indemnización con su propietario Luis Enrique Campos Poblete, ascendente a la cantidad de $12.382.734.-
+
+Fiscal del Ministerio de Obras Públicas.
