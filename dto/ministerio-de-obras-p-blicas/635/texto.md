@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 635 de 30 de junio de 1997, se expropiaron los lotes de terreno N°s. 37-D y 39, superficies 6.127 y 5.914 m2, roles de avalúo 2589-72 y 2590-1 comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte-Sur, sector Las Acacias-Rio Maipo y se acordó precio de indemnización con los propietarios Inmobiliaria e Inversiones Imperia Sociedad Anónima y Heriberto Cabrera Peña y otros, ascendente a las cantidades de $218.601.132, para el lote N°37-D y $244.194.838, para el lote N° 39.- .
+
+Fiscal del Ministerio de Obras Públicas
