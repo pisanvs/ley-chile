@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.171, de fecha 31 de julio de 2002, se expropió el lote de terreno Nº 43, superficie 379 m2, rol de avalúo 2023-147, comuna de Melipilla, Región Metropolitana, para la obra ''Camino reposición Ruta G-74-F, Sector Melipilla - Bollenar, Km. 0,000000 al 14,23039'', y se acordó el valor de indemnización con su propietario don José Miguel Bulnes Zeger, ascendente a la cantidad de $2.302.114.-
+
+Fiscal del Ministerio de Obras Públicas.
