@@ -1,0 +1,3 @@
+Por resolución Nº143, de 28 de enero de 1999, de esta Subsecretaría, suspéndese a contar del día 30 de enero de 1999, la vigencia de la resolución Nº12 de 1999 de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº98-01 denominado ''Monitoreo de las Capturas de Jurel en la Zona Centro-Sur'', aprobados por el Consejo de Investigación Pesquera y por esta Subsecretaría de Pesca, en virtud de la veda biológica de reclutamiento establecida mediante decreto exento Nº105 de 1999, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de enero de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
