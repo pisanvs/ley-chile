@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.004 de 17 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº48 para la obra Camino Mejoramiento Ruta K-40, Sector San Rafael - Villa Prat, Km. 0,000.00 al Km. 28,400.00, que figura a nombre de Segovia Arriagada Raúl Suc., rol de avalúo 131-59, comuna de Sagrada Familia, VII Región, superficie 10.947 m². La Comisión de Peritos, fijó con fecha 14 de diciembre de 1999, en la cantidad de $4.313.700.-, para el lote 48. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Publicas
