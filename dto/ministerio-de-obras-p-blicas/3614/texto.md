@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.614 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 2, superficie 436 m², rol de avalúo 117-2, comuna de Paine, para la obra ''Concesión Internacional Ruta 5 Tramo Santiago - Talca, Sector B: Km. 42.950,00 a Km. 55.200,00'' y se acordó el valor de indemnización con su propietario Aureo Domingo Rojas Pérez, ascendente a la cantidad de $12.474.602.-
+
+Fiscal del Ministerio de Obras Públicas.
