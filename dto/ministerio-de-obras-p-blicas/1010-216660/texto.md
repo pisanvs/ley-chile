@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.010, de 29 de septiembre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para el Fisco los lotes de terreno Nºs. 11, 23, 31, 34 y 35, para la obra: Laja - Diguillín, Canal Matriz Diguillín - Larqui, Km. 6,416 al Km. 11,893 que figuran a nombre de Dávila Villablanca René, Alvarez Silva Elsa, Aedo Aedo Luis Alfredo de la Cr., Cortés Garrido Reinaldo y Aedo Gutiérrez Eloardo de la C., rol de avalúo 603-71, 603-15, 608-59, 608-64 y 608-61, comuna de San Ignacio, VIII Región, superficies 8.962 m2, 8.520 m2, 4.975 m2, 8.797 m2 y 10.257 m2. La comisión de peritos fijó con fecha 26 de julio de 2002, el monto de la indemnización provisional en la cantidad de $5.606.200.-, lote 11, $5.343.000.-, lote 23; $3.363.000.-, lote 31;
+
+$5.792.200.-, lote 34 y $6.719.200.-, lote 35. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
