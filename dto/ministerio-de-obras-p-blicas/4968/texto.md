@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.968, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº4-28, superficie 35,3105 m², rol de avalúo 3392-28, comuna de Punta Arenas, para la obra ''Habilitación Costanera Estrecho de Magallanes I, Sector Chañarcillo-Manantiales, Tramo Km. 1,97992 al 3,30000'' y se acordó el valor de indemnización con su propietaria Sonia Amanda Elisa Puelma Madsen, ascendente a la cantidad de $1.028.261.
+
+Fiscal del Ministerio de Obras Públicas.
