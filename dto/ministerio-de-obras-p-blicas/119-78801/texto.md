@@ -1,0 +1,3 @@
+Por Decreto M.O.P No. 119, de 29 de abril de 1992, se expropió el lote de terreno No. 5, superficie 1.150 m2., rol de avalúo 225-50, Comuna de Santa Bárbara, para la obra Camino de Acceso y de la Red Vial Interna de la Central Pangue, Tramo A y se acordó precio de indemnización con su propietario José Reinaldo Gómez Salazar, ascendente a la cantidad de $ 768.978.-
+
+Fiscal del Ministerio de Obras Públicas.
