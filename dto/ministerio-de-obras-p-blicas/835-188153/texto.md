@@ -1,0 +1,3 @@
+Por decreto MOP Nº 835, de fecha 31 de mayo del 2001, se expropió el lote de terreno Nº 21, superficie 2.441,20 m², rol de avalúo Nº 1129-40, comuna de Castro, para la obra "Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid-Pid) - Putemún - Dalcahue, Km. 0,000 al 11,991647" y se acordó el valor de indemnización con su propietario Elba del Rosario Pérez Muñoz, ascendente a la cantidad de $29.725.722.-
+
+Fiscal del Ministerio de Obras Públicas.
