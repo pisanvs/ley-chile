@@ -1,0 +1,5 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A FABRICA DE MUEBLES MOBEL S.A.
+
+La XIV Dirección Regional Metropolitana Santiago Poniente del SII, por resolución Ex. Nº 145, de 15 de febrero de 2005, otorga a contar del 1º del mes siguiente al de esta publicación en el Diario Oficial y hasta el 31 de diciembre de 2005 a Fábrica de Muebles Mobel S.A., RUT. Nº 78.247.780-3, la calidad de Agente Retenedor del Impuesto al Valor Agregado en los contratos de instalación o confección de especialidades que contraten, establecido en la Res. Ex. Nº 46/2003, de la Dirección Nacional, publicada en el Diario Oficial el día 05.09.2003, complementada por la Res. Ex. Nº 63/2003, publicada en el Diario Oficial el 05.11.2003 y Res. Nº 115, del 29/12/2004, en actual vigencia, publicada en el Diario Oficial el 5/01/2005.
+
+- Jorge A. de Calisto Bravo, Director Regional.
