@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.361, de fecha 31 de octubre de 2003, se expropió el lote de terreno Nº 280, superficie 188 m², rol Nº 66-686, comuna de Palmilla, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400", VI Región y se acordó el valor de la indemnización con su propietario Patricio Guillermo Soto Guerrero, ascendente a la cantidad de $1.003.025.
+
+- Fiscal del Ministerio de Obras Públicas.
