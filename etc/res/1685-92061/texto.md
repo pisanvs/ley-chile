@@ -1,0 +1,7 @@
+AUTORIZA A DON SERGIO GUILLERMO GALINDO TAPIA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA
+
+Por resolución No. 1.685 de 08 de Noviembre de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción se autoriza a don Sergio Guillermo Galindo Tapia, R.U.T. No. 6.941.591-1, domiciliado en la ciudad de Valparaíso, calle Kennedy No. 15, 2° Sector, Playa Ancha, para iniciar actividades pesqueras, en orden a operar la embarcación "Betty - July", en el litoral de las Regiones III a VII, donde podrá extraer los siguientes recursos hidrobiológicos: Bacalao de profundidad o mero, congrio colorado, congrio dorado, congrio negro, merluza común, jurel y sardina. Con todo, podrá extraer entre la III y X Región, ambas inclusives, el recurso albacora o pez espada. Deniégase la autorización solicitada por el peticionario para operar en el litoral de las Regiones VIII a X, ambas inclusives, sin perjuicio de lo dispuesto respecto de la albacora o pez espada, en el inciso final del numeral 3°, de esta resolución.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 08 de Noviembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
