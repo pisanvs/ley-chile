@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 658, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 1, superficie 244 M2., Rol de Avalúo Nº 532-62, comuna de Quilleco, para la obra ''Camino Llano Blanco-Villucura-Quilleco, Sector Puente Curiche, Km. 4,66000 a Km. 4,75100'', VIII Región y se acordó el valor de indemnización con su propietario Manuel Jesús Quezada Saldaña, ascendente a la cantidad de $154.745.-
+
+Fiscal del Ministerio de Obras Públicas.
