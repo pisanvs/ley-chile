@@ -1,0 +1,3 @@
+Por Resolución N° 1.677, de 10 de septiembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura para un CENTRO DE CULTIVO UBICADO AL NORTE DE ISLA ROJAS, comuna y provincia de Aysén, XI Región, conforme lo dispuesto en el artículo 14° del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 10 de septiembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
