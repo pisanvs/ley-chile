@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.562, de 22 de septiembre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL.
+
+Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs 51, 51-A y 51-B, para la ejecución de la obra Habilitación Nuevo Camino La Pólvora Etapa I, Sector Ruta 68 - Acceso Sur a Valparaíso, Camino La Pólvora Rol F-724 F-730, Sector Placilla - Puertas Negras, que figuran a nombre de Inmobiliaria La Florida Ltda., Rol de Avalúo 9316-6, comuna de Valparaíso, V Región, superficies 3.445; 351 y 315 M2. La Comisión de Peritos compuesta por Edmundo Bravo Ubilla, Jorge Moreau Lazo y María Isabel Ríos Marcuello, con fecha 10 de julio de 1998, fijó el valor provisional de las indemnizaciones en la cantidad $12.000.000, lote 51, $2.100.000, lote 51-A y $1.300.000, lote 51-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
