@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.543 de 30 de diciembre de 2003 de esta Subsecretaría, amplíase hasta el 31 de junio de 2004 el plazo otorgado en el numeral 13 de la resolución Nº 220 de 2002, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, para realizar las actividades experimentales de mantención de ejemplares de Abalón japonés (Haliotis discus hannai), en sistemas abiertos, en las condiciones que en la misma resolución citada se indican.
+
+Valparaíso, 30 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
