@@ -1,0 +1,3 @@
+Por decreto MOP Nº971, de fecha 29 de agosto del 2003, se expropió el lote de terreno Nº161, superficie 182 m², Rol Nº38-28, comuna Pichidegua, VI Región para la obra Camino Colchagua-Pichidegua, sector San Roberto-Cruceros, tramo Km. 12,30000 a 26,00400 y se acordó el valor de indemnización con su propietario Juan Bautista Lucero Cordero, ascendente a la cantidad de $5.015.736.
+
+Fiscal del Ministerio de Obras Públicas.
