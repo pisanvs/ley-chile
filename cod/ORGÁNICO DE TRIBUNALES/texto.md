@@ -2188,7 +2188,9 @@ Conocerá de todos los asuntos a que se refiere el Código de Minas, el juez let
 
 <!-- parte:9783076 -->
 
-Será juez competente para conocer de las demandas sobre alimentos deducidas por el cónyuge o por los hijos menores el de la residencia del alimentario; pero si éste la hubiere cambiado por abandono del hogar o rapto, será competente el del domicilio del alimentante.
+Será juez competente para conocer de las demandas de alimentos el del domicilio del alimentante o alimentario, a elección de este último.
+
+De las solicitudes de cese, aumento o rebaja de la pensión decretada, conocerá el juez que decretó la pensión.
 
 #### Artículo 148
 
