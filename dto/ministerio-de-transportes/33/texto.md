@@ -6,7 +6,7 @@ Núm. 33.- Vistos: el D.L. N° 527, de 17 de Junio de 1974; las facultades que m
 
 Decreto:
 
-1°.- Suspéndese hasta el 31 de Diciembre de 1975 la vigencia del decreto supremo N° 6, de 2 de Enero de 1975, del Ministerio de Transportes, publicado en el Diario Oficial el 4 de Enero del presente año.
+1°.- Derogado.
 
 2°.- Autorizase un reajuste de un 55% a las tarifas resultantes de aplicar las disposiciones del decreto supremo N° 380, de 10 de Octubre de 1974, del Ministerio de Transportes, publicado en el Diario Oficial con fecha 14 de Octubre del mismo año.
 
