@@ -1,0 +1,7 @@
+Por resolución Nº 239, de 25 de enero de 2005, de esta Subsecretaría, autorízase a ASOCIACION GREMIAL DE BUZOS, PESCADORES Y RAMOS SIMILARES ARTESANALES INDEPENDIENTE DE TONGOY-COMUNA DE COQUIMBO, IV REGION para instalar entre la fecha de la presente resolución y el 30 de junio de 2005, cien líneas de colectores (150.000 bolsas colectoras) de Ostión del norte, en el área comprendida entre los vértices D (30°17'14,50" S-71°32"00"W) y G (30°17'28,00" S- 71°34'00,00" W) y hasta la línea imaginaria que demarca el límite del área de manejo Tongoy, IV Región, individualizada en el artículo 1º) Nº4 del D.S. Nº 509 de 1997, modificado por el D.S. Nº110 de 1999, ambos del Ministerio de Economía, Fomento y Reconstrucción. Asimismo, autorízase por igual período a la peticionaria para efectuar actividades de repoblamiento con el mismo recurso, en el sector Salinas Chicas, ubicado entre vértices C y B (30°16'51,00" S-
+
+71°31'03,10" W y 30° 16'01,00" S- 71°30'11,00" W), respectivamente, del área de manejo ya individualizada.
+
+Déjase sin efecto la resolución Nº 3.535 de 2004 en conformidad a lo establecido en la presente resolución.
+
+Valparaíso, 25 de enero de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
