@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 789 de 31 de mayo de 2004, se expropió el lote de terreno Nº 11, superficie 80 m² , rol de Avalúo Nº 501-14, comuna de Santa Cruz, para la obra "Camino Santa Cruz - Yánquil, rol I-730, Km. 0.00000 al Km. 7,46939", VI Región y se acordó el valor de la indemnización con su propietaria Manuela Gajardo Lecaros, ascendente a la cantidad de $776.689.
+
+- Fiscal del Ministerio de Obras Públicas.
