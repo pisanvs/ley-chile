@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD INDUSTRIA DE ALIMENTOS DESHIDRATADOS DEL MAR LIMITADA "ALDESMAR LTDA." PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 581, de 05 de Agosto de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Industria de Alimentos Deshidratados del Mar Limitada "ALDESMAR Ltda.", domiciliaria en Iquique, para instalar y operar una planta procesadora de recursos hidrobiológicos en las líneas de salado, deshidratado y ahumado, en Avda. Circunvalación, manzana B, sitio 14 E, Barrio Industrial, Iquique, I Región. Los recursos que utilizará como materia prima en la elaboración de los productos mencionados son: Anchoa, azulejo, bonito, caballa, congrio colorado, congrio negro, dorado, jurel, marrajo o tiburón, bacalao de profundidad, palometa, pejeperro, sardina española, rollo, almeja o taca, caracol o locate y cholga.
+
+Valparaíso, 05 de Agosto de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
