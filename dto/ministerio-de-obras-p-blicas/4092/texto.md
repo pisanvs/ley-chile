@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.092, de 31 de agosto de 2000, se expropiaron los lotes de terreno Nºs. 59 y 60, superficies 17.018 m2. y 318 m2., rol de avalúo 608-117, comuna de Mulchén, para la obra Concesión Internacional Ruta 5, Tramo Chillán-Collipulli, Octava Región y se acordó el valor de indemnización con su propietaria María Olivia Bunster Saavedra, ascendente a la cantidad total de $18.517.970.
+
+Fiscal del Ministerio de Obras Públicas.
