@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº468, 10 agosto 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº 260-A, Rol de Avalúo Nº2765-1, comuna Chiguayante, superficie 164,71 metros cuadrados de terreno y 26,35 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R 19.060, de aparente dominio de José Miguel Díaz García, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Orlando Paredes Vasquez, ingeniero civil, Guillermo Villafañe Feres, arquitecto e Italo Zerga Arancibia, constructor civil, según informe de fecha 23 de julio 2004, fijó monto provisional indemnización en $22.454.831.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
