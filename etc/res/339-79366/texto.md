@@ -1,0 +1,5 @@
+Por Resolución No. 339 de 15 de Abril de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA FIORDO BLANCO S.A.
+
+R.U.T. No. 96.540.710-3 domiciliada en Bernardo O'Higgins No. 235, Los Andes, para ampliar actividades pesqueras de cultivo, autorizadas por Resoluciones No. 1711, de 1989 y No. 1196, de 1990, ambas de esta Subsecretaría, en orden a incorporar los recursos hidrobiológicos Salmón rey y Trucha arco iris, en los sectores ubicados en Ensenada Norte, Estero Reñihue; Ensenada Sur, Estero Reñihue y Punta e Isla Las Nieves; Comuna de Chaitén, Provincia de Palena X Región. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 15 de Abril de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
