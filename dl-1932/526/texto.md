@@ -1,0 +1,1 @@
+Agrega en Sección II del Cuadro Anexo N° 1 del decreto con fuerza de ley N° 245, de 15 de mayo de 1931, sobre Rentas Municipales, acápites y clasificación; modifica el artículo 35, y adiciona inciso al 41.
