@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución SENDOS No. 853, de 21 de Diciembre de 1988 y en base a la facultad otorgada en el DL No. 2.050, de 1977 y DFL M.O.P. No. 22, de 1988, se expropió el lote No. 1 de los terrenos para la obra A.P. de Las Quemas Tepual, X Region, rol de avalúo 2124-13, Comuna de Puerto Montt, que figura a nombre de doña Priscila González Valdés; de 670 m2. de superficie que deslinda al norte, sur y oriente con resto del predio afectado con la expropiación y poniente con camino público. La Comisión de Peritos compuesta por los Sres. Roald Dreyer Jark, Mario Olivares Bustamante y Carlos Mera Santibáñez, fijó con fecha 2 de Diciembre de 1987, el valor provisional de la indemnización en la suma de $ 250.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley No. 2.186, de 1978.-
+
+Director Nacional de Obras Sanitarias.
