@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.238, de 5 de mayo de 2004, de esta Subsecretaría, déjase sin efecto la resolución Nº 2.471 de 2001, de esta Subsecretaría, que rechazó la solicitud de concesión de acuicultura Nº 95106035 presentada por CARLOS LEONARDO POBLETE BARROS para instalar y operar un centro de cultivo ubicado en Canal San Pedro, Isla San Pedro, X Región.
+
+Valparaíso, 5 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
