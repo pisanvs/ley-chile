@@ -1,0 +1,11 @@
+Por resolución Nº 114 de 14 de enero de 2004 de esta Subsecretaría, autorízase a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio temporal de las agregaciones de jurel en la IV Región, temporada 2004", elaborados por dicha Universidad y aprobados por esta Subsecretaría de Pesca.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en determinar y caracterizar la distribución espacio temporal de las agregaciones de Jurel detectadas y las capturas realizadas por las embarcaciones de cerco artesanales que participarán en la pesca de investigación en la IV Región.
+
+La pesca de investigación se efectuará en el área de reserva artesanal de la IV Región, excluyendo las bahías protegidas por el DS Nº 408 de 1986, modificado mediante DS Nº 319 de 1998 y Nº 145 de 2001, todos del Ministerio de Economía, Fomento y Reconstrucción, entre la fecha de la presente resolución y el 31 de diciembre de 2004, ambas fechas inclusive.
+
+Podrán participar en la presente pesca de investigación las siguientes embarcaciones artesanales que, con arte de cerco, se encuentren inscritas en el Registro Artesanal de la IV Región, sección pesquería de la especie Jurel: "Atlántico III", "Delfín 2000", "Don Gustavo", "Dos Mil Uno", "Ebenezer II", "Falcon", "Green Peace, "Jepe", "Julio Iglesias", "Puerto Edén II", "Marina Bernarda II", "María Soledad", "María Sofía", "Perla Mar", "Pez Volador", "Rocky I", "Atenea II", "Caren Rocío", "Jennifer", "La Garota", "Nidia I", "Santa Verónica", "Sandy II", "Doña Olga", "Haití", "Marimar", "Niebla", "Ñandú", "Tsunami", "Doña Anita".
+
+La Universidad Católica del Norte designa como persona responsable de esta pesca de investigación al Vicerrector de la Sede Coquimbo de dicha casa de estudios, don Luis Moncayo Martínez.
+
+Valparaíso, 14 de enero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
