@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.067, de 29 de junio de 2001, se expropió el lote de terreno Nº 1-2, superficie 492 m2., sin rol de avalúo, comuna de Valparaíso, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 16, Quinta Región y se acordó el valor de indemnización con su propietaria Inversiones Inher Limitada, ascendente a la cantidad de $8.971.099.-.
+
+Fiscal del Ministerio de Obras Públicas.
