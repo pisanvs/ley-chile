@@ -1,0 +1,5 @@
+Por Resolución Nº 439, de 27 de marzo de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, autorízase a GLORIA DEISE NUÑEZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Sector Viñita Azul s/nº, Lote A, Sierralta Nº 751, Copiapó, III Región, donde podrá procesar, en las líneas de elaboración que se señala a continuación, los siguientes recursos hidrobiológicos: Picado y Molienda de Algas: Chasca, Chascón, Huiro, Luga-Luga y Pelillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 27 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
