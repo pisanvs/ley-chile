@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.338, de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº 60, superficie 4.160,7 m², rol de avalúo Nº 179-22, comuna de Chonchi, para la obra "Camino Ruta 5, Sector Chonchi - Tara, Km. 1.205,160 al 1.215,004" y se acordó el valor de indemnización con su propietario Nelda Irene Pinilla González, ascendente a la cantidad de $18.701.840.-
+
+Fiscal del Ministerio de Obras Públicas.
