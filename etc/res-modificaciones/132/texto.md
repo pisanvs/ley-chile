@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION QUE INDICA
+
+Por resolución No. 132 de 26 de Enero de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la resolución No. 456, de 1989, de esta Subsecretaría, que autorizó a la Asociación Gremial de Pescadores Artesanales, Buzos Mariscadores y Algueros de Tubul, R.U.T. No. 71.003.300-5, domiciliada en Caleta Tubul, Correo de Arauco, para desarrollar actividades pesqueras de cultivo, en orden a incorporar un tercer inciso al numeral tercero del siguiente tenor: "Las actividades de plantación, y aprovechamiento en el establecimiento de cultivo se desarrollarán conforme a las pautas del reglamento de trabajo interno, para protección de la pradera de alga Gracilaria en Caleta Tubul, suscrito por la Asociación Gremial de Pescadores Artesanales, Buzos Mariscadores y Algueros de Tubul y el Sindicato de Pescadores Artesanales Buzos Mariscadores y Algueros Independientes de Tubul".
+
+Valparaíso, 26 de Enero de 1990.- Roberto Cabezas Bello, Subsecretario de Pesca.
