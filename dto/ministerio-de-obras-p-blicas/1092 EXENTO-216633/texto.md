@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.092, de fecha 30 de septiembre del 2003, se expropió el lote de terreno Nº19, superficie 177 m², Rol Nº499-308, comuna de Retiro, VII Región para la obra "Camino Ruta L-75, Sector El Ajial-Las Camelias tramo Km. 6,320.00 a 23,400.00", y se acordó el valor de indemnización con su propietario Julio César Lastra Bueno, ascendente a la cantidad de $786.001.-
+
+Fiscal del Ministerio de Obras Públicas.
