@@ -1,0 +1,3 @@
+Por decreto MOP Nº 360 de fecha 30 de abril del 2004, se expropiaron los lotes de terreno Nº s. 69-A y 78-A, superficies 266 y 4,488 m², rol en trámite y Nº 1123-129, respectivamente, comuna de Pichilemu, VI Región para la obra "Camino Pichilemu - Cáhuil, Ruta I-500, Km. 0,980 a Km. 12,76217", y se acordó el valor de indemnización con su propietaria María Isabel Polanco González y Otros, ascendente a la cantidad de $11.761.787.-
+
+Fiscal del Ministerio de Obras Públicas.
