@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº718 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº9, superficie 978,60 m², rol de avalúo Nº387-311, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, Expropiaciones Red Primaria 3/5, Derivado Mahuidanche, Sector Km. 0.000 al Km. 2.009,85" y se acordó el valor de indemnización con su propietario Moisés Rodolfo Alcalde Lefimil, ascendente a la cantidad de $665.497.
+
+Fiscal del Ministerio de Obras Públicas.
