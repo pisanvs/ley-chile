@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.984, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº14-A, superficie 570 m², rol de avalúo 3056-56, comuna de Ovalle, para la obra ''Camino Ruta D-595, Ovalle-Hurtado, Sector Tranque Recoleta-Samo Alto, Km. 9.780,00 a Km. 31.840,00, Etapa I'' y se acordó el valor de indemnización con su propietaria Marcelina Gallardo Zepeda, ascendente a la cantidad de $6.984.432.
+
+Fiscal del Ministerio de Obras Públicas.
