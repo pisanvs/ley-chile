@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A SUPERMERCADO PUCON ORIENTE LIMITADA
+
+Nº 1.- Certifico que Supermercado Pucón Oriente Limitada, RUT Nº 77.587.770-7, Representante Legal Juan Luis Eltit Zerené, RUT Nº 3.389.875-4 cumple los requisitos establecidos en la resolución Ex. Nº 3.784 del 25.06.1998 publicada en el Diario Oficial 30.06.98, modificada por la resolución Nº Ex. 3.722 de 28.07.2000 publicada en el Diario Oficial de 01.08.2000, y que en consecuencia, tiene la calidad de agente retenedor del Impuesto al Valor Agregado en las ventas de carne y servicios de faenamiento de ganado que efectúe durante el período comprendido entre el 1º del mes siguiente al de la publicación de este Certificado en el Diario Oficial con vigencia indefinida.
+
+Temuco, 19 de mayo de 2004.- René Cornejo Cáceres, Director IX Dirección Regional.
