@@ -1,0 +1,3 @@
+Por Resolución No. 433, de 8 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, parte inmueble ubicado en Santa Isabel No. 0306, presunto rol avalúos No. 916-18, comuna Providencia, aparentemente dominio de la Sucesión de don Angel Fantuzzi P. Comisión integrada por peritos Sres. Luis Rojas Quezada, constructor civil, Jorge Navarro Navarrete, arquitecto, y Emilio Recabarren Solar, ingeniero civil, según informe de 21.12.88, fijó monto provisional indemnización en $ 2.478.000.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
