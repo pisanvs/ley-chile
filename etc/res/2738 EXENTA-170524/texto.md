@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta 2738 de 21 de Diciembre de 1987, conforme Art. 5º Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Hijuela Dos de la Subdivisión del Fundo La Estancilla" de la comuna de Llay Llay, V Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas Nºs. 1 a la 20, sitios Nºs. 2 a 15 y 11 al 21 y Reserva CORA del Proyecto de Parcelación "La Estancilla" formado entre otros por el predio señalado. Los Derechos de Agua se extraen del Canal Comunero, Canal Lorino, Canal Las Vegas - Molino, Derrames del predio Chagres. Publicación hecha conforme Art. 13 Ley Nº 18.377.-
+
+Director Ejecutivo.
