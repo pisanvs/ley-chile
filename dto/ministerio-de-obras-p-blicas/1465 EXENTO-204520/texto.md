@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.465 de fecha 30 de septiembre del 2002, se expropió el lote de terreno Nº62, superficie 235 m2, rol Nº5050-74, comuna de Punta Arenas, XII Región, para la obra ''Reposición Ruta 9 y Acceso Aeropuerto, Sector (Ruta 9) Km. 5,31490 al 19,342349 (Acceso Aeropuerto) Km. 0,000 al 1,295819'' y se acordó el valor de indemnización con su propietario Nolberto Guzmán Contreras, ascendente a la cantidad de $1.629.788.-
+
+Fiscal del Ministerio de Obras Públicas.
