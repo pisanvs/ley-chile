@@ -1,0 +1,3 @@
+Por Resolución Nº1.361 de 28 de septiembre de 1998 de esta Subsecretaría, déjase sin efecto las Resoluciones Nº390 de 1984 y Nº506 de 1985, de esta Subsecretaría, que autorizaron a EMPRESA PESQUERA PACTO S.A., para instalar y operar el centro de cultivo ubicado en la confluencia del Río Quenuir y el Río Cululil, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 28 de septiembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
