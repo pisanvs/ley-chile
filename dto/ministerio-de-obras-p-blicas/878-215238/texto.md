@@ -1,0 +1,3 @@
+Por decreto MOP Nº 878, de 22 de agosto de 2003, se dejó sin efecto el decreto MOP Nº 1.286, de 27 de agosto de 2001, que ordenó la expropiación del lote Nº 13, perteneciente a la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 18C: Km. 105.989,95 a km. 109.300,40 por no ser necesario para la ejecución de la obra.
+
+Fiscal del Ministerio de Obras Públicas.
