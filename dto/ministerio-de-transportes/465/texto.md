@@ -338,35 +338,49 @@ Estas operaciones pueden producirse a solicitud expresa del usuario o cuando las
 
 US$
 
-1.- Selección y pesaje unitario de bultos.......................1,00 p. Ton.
+1.- Selección y pesaje unitario
 
-2.- Romaneo de carros o vehículos...............................0,10 p. Ton,
+de bultos.......................1,00 p. Ton.
 
-3.- Arrastre de carros y/o uso de vías férreas, por cada
+2.- Romaneo de carros o vehículos...0,10 p. Ton,
 
-T.R.N del carro......................................................0,14 p. Ton.
+3.- Arrastre de carros y/o uso
 
-4.- Traslado entre sitios.......................................3,00 p. Ton.
+de vías férreas, por cada
 
-5.- Otras operaciones...........................................2,20 p. Ton.
+T.R.N del carro.................0,14 p. Ton.
 
-6.- Reparaciones e instalaciones, 20% de recargo sobre su
+4.- Traslado entre sitios...........3,00 p. Ton.
 
-costo neto........................................................
+5.- Otras operaciones...............2,20 p. Ton.
 
-7.- Aseo y limpieza de sitio, por cada cuadrilla, en los
+6.- Reparaciones e instalaciones,
 
-casos de embarque.................................................10,00 p. hora
+20% de recargo sobre su
 
-8.- Asignación de alimentación................................1,50 p. hombre
+costo neto
+
+7.- Aseo y limpieza de sitio,
+
+por cada cuadrilla, en los
+
+casos de embarque..............10,00 p. hora
+
+8.- Asignación de alimentación... .1,50 p. hombre
 
 Este valor se aplicará independientemente para cada una de las jornadas corridas de trabajo que se soliciten y no estará afecto a ningún recargo.
 
 US$
 
-9.- Otorgamiento de copias legalizadas de documentos portuarios,
+9.- Otorgamiento de copias
 
-certificados, reconfección de facturas, duplicados etc.......................1,20 c/u
+legalizadas de documentos
+
+portuarios, certificados,
+
+reconfección de facturas,
+
+duplicados etc.............. ..1,20 c/u
 
 10.- Mano de trabajo especial
 
@@ -384,9 +398,9 @@ De 18 a 21 horas, de Lunes a Sábado, en jornadas ordinarias. En jornadas extrao
 
 Eventualmente pueden programarse estas unidades de trabaja en los horarios de 8 a 14 horas, en los puertos con sistema de turnos, y de 8 a 12 horas y de 14 a 18 horas, en los puertos sin sistema de turnos en las jornadas de Lunes a Sábado, cuando las cuadrillas que los puertos designan diariamente para realizar estas faenas no sean suficientes, o cuando el usuario desee para sus operaciones la exclusividad de atención a su carga, derivado de la naturaleza, peso, volumen o condiciones propias de ella.
 
-a) Jornada ordinaria.........................................16,00 p, hombre
+a) Jornada ordinaria.........16,00 p, horas
 
-b) Jornada extraordinaria....................................48,00 p. hombre
+b) Jornada extraordinaria....48,00 p. horas
 
 En las jornadas ordinarias el cobro mínimo será de 2 horas, y en las extraordinarias pagarán la Jornada completa de trabajo.
 
@@ -402,9 +416,13 @@ Las tarifas por la permanencia en recinto portuario de contenedores o similares 
 
 a) EN SITIOS PARA CARGA GENERAL US$
 
-Contenedores de hasta 30 metros cúbicos........................1,00 por día
+Contenedores de hasta 30
 
-Contenedores de más de 30 metros cúbicos.......................2,00 por día
+metros cúbicos...............1,00 por día
+
+Contenedores de más de
+
+30 metros cúbicos............2,00 por día
 
 Para el cómputo de estos períodos, la fecha de iniciación será aquélla en que estos elementos queden vacíos o la fecha de ingreso al Puerto, según corresponda. Pasado el período de 20 días de permanencia, estas tarifas se recargarán en un 200%.
 
@@ -412,9 +430,13 @@ b) EN SITIOS ESPECIALES DE DEPOSITO.
 
 Los contenedores vacíos que se depositen en las áreas que expresamente se destinen en los recintos portuarios para este objeto, estarán afectos a las siguientes tarifas:
 
-Contenedores de hasta 30 metros cúbicos........................0,30 por día
+Contenedores de hasta 30
 
-Contenedores de más de 30 metros cúbicos.......................0,60 por día
+metros cúbicos...............0,30 por día
+
+Contenedores de más de
+
+30 metros cúbicos............0,60 por día
 
 Cuando los contenedores vacíos se depositen fuera de las áreas destinadas expresamente para este objeto, devengarán las tarifas generales indicadas en el párrafo a).
 
