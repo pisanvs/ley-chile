@@ -1,0 +1,7 @@
+AUTORIZA A PESQUERA FRIOSUR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 132, de 12 de Febrero de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Friosur S.A., domiciliada en Puerto Chacabuco, Comuna de Puerto Aysén, provincia de Aysén, XI Región, para ampliar las actividades pesqueras autorizadas por resolución No. 1.450, de 1987, de esta Subsecretaría, en orden a realizar pesca exploratoria con espinel de profundidad con su nave "Friosur III", autorizada a operar por resolución No. 326, de 1987, de esta Subsecretaría, teniendo como especie objetivo el recurso hidrobiológico mero o bacalao de profundidad. Podrá operar con la embarcación antes mencionada entre los paralelos 43° y 47° L.S. al Weste de las líneas de base recta y entre los veriles 500 y 1.500 m. de profundidad. La duración del proyecto que se autoriza es de 90 días, a contar de la fecha de publicación de este instrumento.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 12 de Febrero de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
