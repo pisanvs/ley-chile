@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº423 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº97, superficie 152 m², Rol de Avalúo en trámite, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz-Yaquil, Rol I-730, Km. 0,00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietaria Teolinda Sotelo Barrera y Otro, ascendente a la cantidad de $944.858.
+
+Fiscal del Ministerio de Obras Públicas.
