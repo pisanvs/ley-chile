@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.754, de 31 de diciembre de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203101123, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES-ALGUEROS ''EL CORAL'' DE LA PASADA-MAULLÍN, para instalar y operar un centro de cultivo ubicado al sur de río Canutillar, río Maullín, X Región.
+
+Valparaíso, 31 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
