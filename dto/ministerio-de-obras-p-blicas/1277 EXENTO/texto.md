@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.277, de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº32, superficie 559,20 m2, rol de avalúo 1600-3, comuna de Paine, Región Metropolitana, para la obra ''Camino Sin Rol, Sector Peralillo - Abrantes, Tramo Km. 0,0000 al 6,03921'' y se acordó el valor de indemnización con su propietario don Juan Ramón Contreras Contreras, ascendente a la cantidad de $2.266.779.
+
+Fiscal del Ministerio de Obras Públicas.
