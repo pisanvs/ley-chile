@@ -1,0 +1,5 @@
+FIJA MONTO MINIMO PARA EMISION DE BOLETAS DE VENTAS Y SERVICIOS
+
+El Director del Servicio de Impuestos Internos, en uso de la facultad que le confiere el artículo 88 del Código Tributario, dictó la resolución exenta No. 3.943, de 29 de Octubre de 1992, fijando en la suma de ciento ochenta pesos ($ 180.-), a contar de la fecha de la presente publicación en el Diario Oficial, el monto mínimo por el cual deberán emitir boletas los contribuyentes afectos a las disposiciones del DL No. 825, de 1974, aunque se trate de convenciones o servicios exentos de los tributos establecidos en dicho texto legal. Estas boletas deben cumplir con todos los requisitos legales y reglamentarios y del Servicio. A contar de la misma fecha, se deroga la resolución No. ex - 1.602, de 1990.-
+
+Javier Etcheberry Celhay, Director.-Santiago, 29 de Octubre de 1992.- Carlos Villarroel González, Secretario General.
