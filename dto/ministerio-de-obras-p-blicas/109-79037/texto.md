@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 109, de 23 de Abril de 1992, se expropiaron los lotes de terreno Nos. 21, 28, 29 y 32, superficies 1940 M2., 230 M2. y 670 M2., roles de avalúos 29-3 y 29-4, Comunas de Olivar y Coinco para la obra camino Olivar Coinco y se acordó precio de indemnización con sus propietarios I. Municipalidad de Olivar, Orfelia Valenzuela Trincado y Nancy Naranjo Castro, ascendente a las cantidades de $ 4.000.353, $ 1.722.851, $ 1.662.092, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.-
