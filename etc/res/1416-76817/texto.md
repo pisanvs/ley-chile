@@ -1,0 +1,3 @@
+Por Resolución Nº 1.416, de 29 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 96103106, presentada por VICTOR MAURICIO MARQUEZ LLAUQUEN, para la concesión de acuicultura ubicada en Vilupulli, comuna de Chonchi, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67, inciso 5º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 29 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
