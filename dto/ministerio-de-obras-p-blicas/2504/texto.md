@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.504, de 30 de noviembre de 1998, se expropió el lote de terreno Nº 1, superficie 2.869 m2, rol de avalúo 2024-90, comuna de Melipilla, para la obra Camino Autopista Santiago-San Antonio, Sector Segmento 4, calles de servicio, Km. 50.113,00 al 50.499,00 - Sector 5-1 y 5-2, lado izquierdo y se acordó el valor de indemnización con su propietario Adolfo Segundo Tomckowiack Avendaño, ascendente a la cantidad de $ 16.934.945.
+
+- Fiscal del Ministerio de Obras Públicas.
