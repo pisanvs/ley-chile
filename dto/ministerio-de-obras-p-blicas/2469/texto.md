@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.469, de 31 de agosto de 1999, se expropió el lote de terreno Nº46, superficie 175 M2., rol de avalúo 229-114, comuna de Rengo, VI Región, para la obra Camino Ruta H-521, sector Ruta 5-Fundo El Rincón por LO de Lobos, y se acordó precio de indemnización con su propietario Víctor Saavedra Lizana y otros, ascendente a la cantidad de $921.518.-
+
+Fiscal del Ministerio de Obras Públicas.
