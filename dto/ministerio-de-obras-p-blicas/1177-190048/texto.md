@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.177, de fecha 31 de julio de 2001, se expropiaron los lotes de terreno Nºs. 43-B y 44-A, superficies 2.801,8 M2 y 1.204,5 M2, rol de avalúo 2205-86, comuna de Puerto Montt, X Región, para la obra ''Camino Ruta 7 Chamiza-Quillaipe, Km. 4,83687 al 15,84700'' y se acordó el valor de indemnización con su propietario don Constantino Codjambassis Capeneka, ascendente a la cantidad de $7.224.756.-
+
+Fiscal del Ministerio de Obras Públicas.
