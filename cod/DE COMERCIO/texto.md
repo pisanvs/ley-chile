@@ -598,6 +598,102 @@ Deberán asimismo conservar un ejemplar de las cartas de los fletamentos ajustad
 
 Sólo los corredores titulados tendrán el carácter de oficiales públicos. Sin embargo, podrá ejercer la correduría cualquiera persona que no se halle incluida en alguna de las prohibiciones establecidas en el artículo 55.
 
+## Título IV
+
+DE LOS MARTILLEROS
+
+Derogado.
+
+#### Artículo 81
+
+<!-- parte:8726064 -->
+
+Derogado.
+
+#### Artículo 82
+
+<!-- parte:9427045 -->
+
+Derogado.
+
+#### Artículo 83
+
+<!-- parte:9427046 -->
+
+Derogado.
+
+#### Artículo 84
+
+<!-- parte:9427047 -->
+
+Derogado.
+
+#### Artículo 85
+
+<!-- parte:9427048 -->
+
+Derogado.
+
+#### Artículo 86
+
+<!-- parte:9427049 -->
+
+Derogado.
+
+#### Artículo 87
+
+<!-- parte:9427050 -->
+
+Derogado.
+
+#### Artículo 88
+
+<!-- parte:9427051 -->
+
+Derogado.
+
+#### Artículo 89
+
+<!-- parte:9427052 -->
+
+Derogado.
+
+#### Artículo 90
+
+<!-- parte:9427053 -->
+
+Derogado.
+
+#### Artículo 91
+
+<!-- parte:9427054 -->
+
+Derogado.
+
+#### Artículo 92
+
+<!-- parte:9427055 -->
+
+Derogado.
+
+#### Artículo 93
+
+<!-- parte:9427056 -->
+
+Derogado.
+
+#### Artículo 94
+
+<!-- parte:9427057 -->
+
+Derogado.
+
+#### Artículo 95
+
+<!-- parte:9427058 -->
+
+Derogado.
+
 # Libro II
 
 DE LOS CONTRATOS Y OBLIGACIONES
