@@ -1,0 +1,3 @@
+Por Resolución Nº 824, de 12 de junio de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; declárase la caducidad parcial de la Resolución Nº 1.271, de 1988, de esta Subsecretaría, que autorizó a PESQUERA CANTABRICO S.A., para operar la nave "Maresma", sólo en lo relativo a las especies Agujilla, Anchoveta, Bonito, Caballa, Cojinoba del norte, Cojinoba del sur, Corvina, Dorado, Jurel, Machuelo o tritre, Pejerrey de mar, Roncacho, Sardina española y Sierra, en el litoral comprendido entre la III y IV Regiones, por haberse configurado la causal prevista en el artículo 143, letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 12 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
