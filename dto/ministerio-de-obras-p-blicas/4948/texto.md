@@ -1,0 +1,3 @@
+Por decreto MOP 4.948, de 31 de octubre de 2000, se expropió el lote de terreno Nº92, superficie 160 m², rol de avalúo 5354-12, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con sus propietarios María Gabriela Aguilar Iceta y otros, ascendente a la cantidad de $23.679.112.-
+
+Fiscal del Ministerio de Obras Públicas.
