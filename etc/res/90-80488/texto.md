@@ -1,0 +1,3 @@
+Por resolución No. 90, de 29 de Mayo de 1991, se canceló la personalidad jurídica de la "Asociación Gremial de Trabajadores de la Salud de los Consultorios Municipalizados de Chillán", inscrita bajo el No. 124-8, por haberse configurado la causal con templada en el artículo 5°, inciso tercero, del decreto ley No. 2.757, de 1979.
+
+- Jorge Marshall Rivera, Subsecretario de Economía, Fomento y Reconstrucción.
