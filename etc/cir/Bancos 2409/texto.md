@@ -24666,15 +24666,15 @@ Se exceptúan de la prohibición señalada en el párrafo precedente, los crédi
 
 En virtud del artículo 77 de la Ley de Mercado de Valores, esta Superintendencia podrá designar a una firma evaluadora en una entidad que fiscalice a fin de que efectúe una clasificación adicional de los valores de oferta pública que esa entidad emita. La remuneración que corresponda por esta clasificación será de cargo del emisor y gozará del privilegio establecido en el número 4 del artículo 2.472 del Código Civil. Las clasificaciones que realice esta empresa evaluadora designada podrán sustituir una de las clasificaciones obligatorias.
 
-ANEXO N° 1
+ANEXO N°1
 
 FIRMAS EVALUADORAS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA
 
-- CLASIFICADORES ASOCIADOS Y CIA. LTDA., CLASIFICADORAS DE RIESGO.
+- CLASIFICADORES ASOCIADOS Y CIA. LTDA. CLASIFICADORAS DE RIESGO.
 
-- FELLER-RATE,(AND) CLASIFICADORA DE RIESGO LTDA.
+- FELLER-RATE, CLASIFICADORA DE RIESGO LTDA.
 
-- ECONSULT/DUFF (AND) PHELPS, CLASIFICADORA DE RIESGO LTDA.
+- DUFF & PHELPS CHILE CLASIFICADORA DE RIESGO LTDA.
 
 CAPITULO 19-2 (Bancos y Financieras)
 
