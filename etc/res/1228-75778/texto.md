@@ -1,0 +1,5 @@
+Por Resolución Nº 1.228, de 10 de septiembre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase el recurso de reconsideración interpuesto por COMPAÑIA PESQUERA SAN BERNARDO S.A., respecto de la Resolución Nº 2175, de 1996, que declaró la caducidad de la Resolución Nº 1129, de 1994, ambas de esta Subsecretaría, en virtud de lo dispuesto en los informes y disposiciones legales.
+
+Con el mérito de lo señalado precedentemente y conforme lo solicitado por la recurrente, elévense los antecedentes al señor Ministro de Economía, Fomento y Reconstrucción para conocimiento de la reclamación subsidiaria, interpuesta en virtud de lo señalado en el inciso 2º del artículo 143 del D.S. Nº 430, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 10 de septiembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
