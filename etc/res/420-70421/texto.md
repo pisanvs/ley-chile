@@ -1,0 +1,3 @@
+Por Resolución Nº 420, de 26 de marzo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94106034, presentada por LUIS RIGOBERTO PAREDES MUÑOZ, para un centro de cultivo ubicado entre Punta Mala y Caleta Quilán, Isla Quilán, Comuna de Quellón, Provincia de Chiloé, X Región, en virtud de lo dispuesto en el artículo 67º inciso 5º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 26 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
