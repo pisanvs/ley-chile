@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES QUE SEÑALA
+
+Por Decreto Alcaldicio Nro. 651 de fecha 10 de Abril de 1996, de la I. Municipalidad de Punta Arenas, se dispuso, conforme al artículo 58 letra f) de la Ley 18.695, Ley Orgánica de Municipalidades y Decreto Ley 2.186 de 1978, la expropiación parcial del inmueble ubicado entre calle Rómulo Correa y Capitán Guillermos, denominado Lote B1-A, Comuna de Punta Arenas, Rol de Avalúo Nº 5027-2, de aparente dominio de Télex Chile S.A. El área a expropiarse es de 6.000 m2. Comisión tasadora integrada por los arquitectos: Sra. Jeannette Moris Torres, Sr. José Luis Subiabre Aguilar y Sr. Adolfo Cascardo Williams, según informe de 2 de febrero de 1996, fijó monto provisional indemnización en $ 7.200.000, pagadero al contado.
+
+Carlos González Yaksic, Alcalde I. Municipalidad de Punta Arenas.
