@@ -1,0 +1,3 @@
+Por resolución exenta N° 722, de 27 de febrero de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura N° 202103032 presentada por COMITE PRODUCTIVO ACUICOLA "EL ESTERO" de la Unidad Vecinal del Sector Chullec, de la Comuna de Curaco de Vélez de la Provincia de Chiloé, Décima Región de Los Lagos, para instalar y operar un centro de cultivo ubicado en Estero Chullec, al este de Punta Tanecuhe, Isla Quinchao, X Región.
+
+Valparaíso, 27 de febrero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
