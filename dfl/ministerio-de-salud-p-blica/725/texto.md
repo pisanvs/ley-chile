@@ -34,11 +34,13 @@ Corresponde al Servicio Nacional de Salud, sin perjuicio de las facultades del M
 
 A las Municipalidades corresponde atender los asuntos de orden sanitario que le entregan el artículo 105° de la Constitución Política del Estado y las disposiciones de este Código.
 
+> **Nota.** El Art. 4° del la LEY 18695, publicada el 31.03.1988, estableció las funciones que corresponden a las municipalidades en sus respectivos territorios, por aplicación del Art. 107 de la Constitución Política de la República. Entre ellas, conforme a sus letras b) y c), las relacionadas con la salud publica y la protección del medio ambiente.
+
 #### Artículo 5°
 
 Cada vez que el presente Código haga referencia a la autoridad sanitaria, se entenderá por ella el Director General de Salud o las personas en quienes éste delegue sus funciones o atribuciones.
 
-> **Nota.** El Art. 16 del Decreto Ley 2763, Salud, publicado el 03.08.1979, vigente desde el 1° de agosto de 1980 según dispone el Decreto 227, Salud, publicado el 18.06.1980, creó los "Servicios de Salud", fijó su distribución territorial, y estableció que tales Servicios serán los continuadores legales del Servicio Nacional de Salud en sus respectivos territorios, con sus mismos derechos y obligaciones, de acuerdo con las funciones señaladas en el Art. 17 del mismo decreto ley.
+> **Nota.** El Art. 16 del Decreto Ley 2763, Salud, publicado el 03.08.1979, vigente desde el 1° de agosto de 1980 según dispone el Decreto 227, Salud, publicado el 18.06.1980, creó los "Servicios de Salud", fijó su distribución territorial, y estableció que tales Servicios serán los continuadores legales del Servicio Nacional de Salud en sus respectivos territorios, con sus mismos derechos y obligaciones, de acuerdo con las funciones señaladas en el Art. 17 del mismo decreto ley. El Reglamento orgánico de los Servicios de Salud está contenido en el Decreto 42, Salud, publicado el 09.12.1986; puede verse también el Decreto 2, Salud, publicado el 08.03.1985, que establece la sede y territorio de cada Servicio de Salud.
 
 #### Artículo 6°
 
@@ -118,7 +120,7 @@ Corresponderá al Servicio Nacional de Salud la supresión de cualquier factor q
 
 #### Artículo 15°
 
-Las Municipalidades de la República no podrán otorgar patentes ni conceder permisos para el funcionamiento de locales o para el ejercicio de determinadas actividades que requieran de autorización del Servicio Nacional de Salud, sin que previamente se les acredite haberse dado cumplimiento a tal requisito.
+Las Municipalidades de la República no podrán otorgar patentes ni permisos definitivos para el funcionamiento de locales o para el ejercicio de determinadas actividades que requieran de autorización del Servicio Nacional de Salud, sin que previamente se les acredite haberse dado cumplimiento a tal requisito.
 
 Las patentes o permisos concedidos por las Municipalidades con omisión del requisito establecido en el inciso precedente serán nulas y las Municipalidades que las hayan otorgado deberán proceder a cancelarlas.
 
@@ -296,17 +298,23 @@ El Servicio Nacional de Salud establecerá en los puntos del territorio de la Re
 
 El Instituto Bacteriológico será el Laboratorio Central del Servicio Nacional de Salud y prestará ayuda técnica, asesoramiento y supervigilancia a todos los demás laboratorios de dicho Servicio distribuidos en el país.
 
+Los Servicios de Salud otorgarán su reconocimiento como laboratorios de salud pública a todos aquellos laboratorios que cumplan los requisitos que para este efecto determinará el reglamento.
+
+> **Nota.** La mención al Instituto Bacteriológico como Laboratorio Central del ex Servicio Nacional de Salud, debe entenderse hecha al Instituto de Salud Pública de Chile, dependiente del Ministerio de Salud, como Laboratorio Nacional y de Referencia, de conformidad y para los efectos del Art. 35 del decreto ley 2763, Salud, publicado el 03.08.1979.
+
 #### Artículo 44°
 
-El Instituto Bacteriológico tendrá, independientemente de las actividades indicadas en el artículo anterior, funciones relacionadas con la fabricación de productos biológicos, farmacológicos o de otro orden para ser destinados al consumo del Servicio Nacional de Salud, de los Servicios Públicos y de la población en general.
+Además de las actividades señaladas en el artículo anterior y las previstas en su ley orgánica, el Instituto podrá, en caso de ausencia o insuficiencia de productos idóneos, fabricar aquellos de carácter biológico destinados al consumo por los Servicios de Salud, los demás servicios públicos o la población en general.
 
 #### Artículo 45°
 
-Las reclamaciones que pudieran deducirse contra los resultados de exámenes o análisis que practiquen, en materia sanitaria, los laboratorios del Servicio o los que éste utilice en los diferentes puntos del país, serán resueltos por el Laboratorio Central, sin ulterior recurso.
+Las reclamaciones que pudieren deducirse contra los resultados de exámenes o análisis que practiquen en materia sanitaria los laboratorios de los Servicios de Salud, los que éstos utilicen en los diferentes puntos del país o aquellos que hayan obtenido el reconocimiento como laboratorios de salud pública, serán resueltas por el Instituto.
 
 #### Artículo 46°
 
-Corresponderá al Servicio Nacional de Salud la fiscalización de los laboratorios destinados al diagnóstico de las enfermedades del hombre, y al control de alimentos y de productos farmacéuticos.
+Corresponderá a los Servicios de Salud la la fiscalización de los laboratorios destinados al diagnóstico de las enfermedades del hombre y al control de factores ambientales y alimentos, como también la fiscalización de los laboratorios de certificación de calidad de éstos.
+
+Para tales efectos, los Servicios de Salud podrán contratar los métodos o procedimientos que consideren técnicamente adecuados, con entidades externas especializadas o con el Instituto.
 
 ## Título IV
 
@@ -484,6 +492,8 @@ d) la fijación del arancel sanitario, y
 
 e) las restricciones sanitarias que sean indispensables para la conveniente protección de la salud pública y para evitar la propagación de enfermedades de uno a otro país.
 
+> **Nota.** Véase el Decreto 263, Salud, publicado el 24.02.1986, que establece el Reglamento de Sanidad Marítima, Aérea y de la Frontera.
+
 # Libro III
 
 DE LA HIGIENE Y SEGURIDAD DEL AMBIENTE Y DE LOS LUGARES DE TRABAJO
@@ -560,7 +570,7 @@ No obstante, estas aguas se podrán usar en el riego agrícola, cuando se obteng
 
 #### Artículo 76°
 
-El Servicio Nacional de Salud deberá autorizar instalación, ampliación, modificación y vigilar el funcionamiento la de balnearios, piscinas, baños públicos y particulares.
+Corresponderá a la autoridad sanitaria autorizar la instalación, ampliación y modificación de los balnearios, baños y piscinas destinados al uso público, como asimismo, vigilar su funcionamiento.
 
 ### Párrafo II
 
@@ -624,7 +634,11 @@ c) las condiciones de higiene y seguridad que deben reunir los equipos de protec
 
 #### Artículo 83°
 
-Las Municipalidades no podrán autorizar la instalación, ampliación o traslado de industrias, sin informe previo favorable del Servicio Nacional de Salud. Para evacuar dicho informe, la autoridad sanitaria tomará en cuenta los planos reguladores comunales o intercomunales y los peligros o molestias que el funcionamiento de la industria pueda ocasionar a sus obreros y empleados, al vecindario y a la comunidad o a sus bienes.
+Las Municipalidades no podrán otorgar patentes definitivas para la instalación, ampliación o traslado de industrias, sin informe previo de la autoridad sanitaria sobre los efectos que ésta puede ocasionar en el ambiente.
+
+Para evacuar dicho informe, la autoridad sanitaria tomará en cuenta los planos reguladores comunales o intercomunales y los riesgos que el funcionamiento de la industria pueda causar a sus trabajadores, al vecindario y a la comunidad.
+
+No obstante lo dispuesto en el inciso anterior, la autoridad sanitaria informará favorablemente una determinada actividad industrial o comercial, siempre que la evaluación sanitaria ambiental que se realice para evacuar el informe, determine que técnicamente se han controlado todos los riesgos asociados a su funcionamiento.
 
 #### Artículo 84°
 
@@ -716,11 +730,11 @@ NORMAS COMUNES
 
 #### Artículo 94°
 
-El Servicio Nacional de Salud es la autoridad encargada en todo el territorio nacional de la inspección y control sanitario de los productos farmacéuticos, alimentos de uso médico, cosméticos y productos alimenticios y, en especial, de velar por el cumplimiento de las disposiciones que sobre dichas materias se contienen en el presente Código y sus Reglamentos.
+El Instituto de Salud Pública será la autoridad encargada en todo el territorio nacional del control sanitario de los productos farmacéuticos y cosméticos, y de velar por el cumplimiento de las disposiciones que sobre la materia se contienen en el presente Código y sus reglamentos. Tratándose de productos alimenticios, la autoridad sanitaria serán los Servicios de Salud, y en la Región Metropolitana de Santiago, el Servicio de Salud del Ambiente.
 
-Un Reglamento contendrá las normas de carácter sanitario sobre producción, fabricación, registro, almacenamiento, tenencia, distribución, venta, importación o exportación y características de los productos farmacéuticos, alimentos de uso médico, cosméticos y productos alimenticios.
+Un reglamento contendrá las normas de carácter sanitario sobre producción, registro, almacenamiento, tenencia, distribución, venta e importación, según corresponda, y las características de los productos farmacéuticos, cosméticos y alimenticios.
 
-> **Nota.** Véase el Decreto 435, Salud, publicado el 22.03.1982, Reglamento del Sistema Nacional de Control de los productos farmacéuticos, alimentos de uso médico y cosméticos; y que establece normas sobre su elaboración, fabricación e importación.
+> **Nota.** Véase el Decreto 435, Salud, publicado 22.03.1982, Reglamento del Sistema Nacional de Control de Productos Farmacéuticos, Alimentos de Uso Médico y Cosméticos; y que establece normas sobre su elaboración, fabricación e importación.
 
 #### Artículo 95°
 
@@ -762,13 +776,13 @@ Derogado.
 
 #### Artículo 102°
 
-Ningún producto farmacéutico o cosmético podrá ser importado o fabricado en el país sin la autorización previa del Director General de Salud, quien deberá solicitar informe a las Unidades Técnicas Normativas a que se refiere el artículo 100º cuando se trate de productos nuevos.
+Ningún producto farmacéutico o cosmético podrá ser comercializado ni distribuido en el país sin que se proceda a su registro previo en el Instituto de Salud Pública.
 
-Estas mismas Unidades Técnicas informarán, de oficio o a petición del Servicio Nacional de Salud, sobre la cancelación de la autorización de fabricación, importación o expendio de aquellos productos que hayan sido desplazados o que convenga suspender su uso.
+Sin embargo, la autoridad sanitaria podrá autorizar provisionalmente la venta o uso, sin previo registro, de productos farmacéuticos para usos medicinales urgentes, para investigación científica o ensayos clínicos.
 
-Además, para la venta o distribución a cualquier título de los productos farmacéuticos y cosméticos autorizados, se requerirá que éstos sean registrados en el Servicio Nacional de Salud.
+El Servicio Nacional de Aduanas informará mensualmente al Instituto de Salud Pública acerca de los productos farmacéuticos y cosméticos que hayan sido importados al país, como también sobre su cantidad y el nombre del importador.
 
-Sin embargo, el Director General podrá autorizar provisionalmente, en casos calificados, la importación y venta, sin previo registro, de productos farmacéuticos para usos medicinales urgentes.
+Corresponderá al Ministerio de Salud pronunciarse previamente respecto de la cancelación de un registro o la denegación de su otorgamiento.
 
 #### Artículo 103°
 
@@ -778,7 +792,7 @@ Un reglamento determinará las normas de control de calidad a que estarán sujet
 
 #### Artículo 104°
 
-La Oficina de Marcas Comerciales del Ministerio de Economía, Fomento y Reconstrucción, no podrá registrar e inscribir la marca de un producto farmacéutico o cosmético sin informe previo favorable de la Dirección General de Salud. Asimismo, deberá cancelar toda inscripción cuando lo solicite esa Dirección.
+Derogado.
 
 #### Artículo 105°
 
@@ -788,11 +802,11 @@ El Ministerio de Salud aprobará la o las farmacopeas que regirán en el país.
 
 #### Artículo 106°
 
-La fabricación, importación, transferencia, posesión, tenencia o consumo de narcóticos, estupefacientes, alucinógenos y demás substancias que produzcan efectos análogos, se someterán a las disposiciones de un Reglamento especial, como asimismo, el tránsito en la República hacia países extranjeros de estas substancias, respetándose las obligaciones contraídas por el Estado en sus Convenios y Tratados Internacionales.
+Requerirán del registro previo a que se se refiere el inciso primero del artículo 102, la fabricación, importación, internación, distribución, transferencia, posesión o tenencia de productos estupefacientes, psicotrópicos y demás sustancias que produzcan efectos análogos, los que, incluido su consumo, se someterán a las disposiciones de un reglamento especial; como asimismo el tránsito en la República hacia países extranjeros de estas sustancias, respetándose las obligaciones contraídas por el Estado en sus convenios y tratados internacionales.
 
-> **Nota.** Véase el Decreto 35, Relaciones Exteriores, publicado el 16.05.1968, que sanciona la Convención Única de Estupefacientes, firmada en Nueva York el 30 de marzo de 1961.
+> **Nota.** Véase el Decreto 403, Salud, publicado el 20.02.1984, que aprueba el Reglamento de Estupefacientes.
 
-> **Nota.** NOTA 1 Véase el Decreto 403, Salud, publicado el 20.02.1984, que aprueba el Reglamento de Estupefacientes.
+> **Nota.** NOTA 1: Véase el Decreto 35, Relaciones Exteriores, publicado el 16.05.1968, que sanciona la Convención Única de Estupefacientes, firmada en Nueva York el 30 de marzo de 1961.
 
 #### Artículo 107°
 
@@ -808,21 +822,21 @@ DE LOS PRODUCTOS ALIMENTICIOS
 
 Se entenderá por alimentos o productos alimenticios cualquier substancia o mezcla de substancias destinadas al consumo humano, incluyendo las bebidas y todos los ingredientes y aditivos de dichas substancias.
 
-El Reglamento determinará las tolerancias técnicas admitidas que deberán satisfacer las materias primas destinadas a la elaboración de alimentos.
-
 > **Nota.** Véanse la LEY 4869, publicada el 04.08.1930, que autoriza al Presidente de la República para declarar obligatoria la pasteurización de la leche en las ciudades que determine y, entre otros, los decretos de Salud N° 18, D.O. 25.02.1976 y N° 181, D.O. de 20.08.1977, en que se hace obligatoria en las comunas que en ellos se señalan. Véase también la Resolución 1 exenta, publicada el 17.01.1986, que establece normas sanitarias para la pasteurización de la leche y productos lácteos.
 
 #### Artículo 109°
 
-El Reglamento determinará las características que deben reunir las bebidas alcohólicas y analcohólicas.
+El reglamento determinará las características que deben reunir los alimentos o productos alimenticios destinados al consumo humano.
 
 #### Artículo 110°
 
-Corresponde al Servicio Nacional de Salud autorizar la instalación, ampliación o modificación y vigilar el funcionamiento de:
+Corresponderá a la autoridad sanitaria aprobar la instalación y controlar el funcionamiento de:
 
 a) los locales destinados a la producción, elaboración, envases, almacenamiento, distribución y venta de alimentos, y
 
-b) los mataderos y frigoríficos municipales, regionales, públicos y particulares, y realizar la inspección médico-veterinaria de los animales que se benefician en ellos y de las carnes.
+b) Los mataderos y frigoríficos, públicos y particulares.
+
+Corresponderá asimismo a dicha autoridad realizar, directamente o mediante delegación a entidades públicas o privadas idóneas o a profesionales calificados, la inspección médico-veterinaria de los animales que se beneficien en ellos y de las carnes.
 
 El Servicio Nacional de Salud cobrará por estas prestaciones las tarifas que señalan los aranceles que se dicten en conformidad a la letra f) del artículo 9°.
 
@@ -936,9 +950,11 @@ Los productos farmacéuticos sólo podrán expenderse al público con receta mé
 
 #### Artículo 128°
 
-Sólo los establecimientos de óptica podrán despachar recetas médicas en que se prescriban anteojos con fuerza dióptrica.
+Sólo en los establecimientos de óptica podrán fabricarse lentes con fuerza dióptrica de acuerdo con las prescripciones que se ordenen en la receta médica correspondiente.
 
-> **Nota.** Véase el Decreto 4, Salud, publicado el 13.03.1985, que aprueba Reglamento sobre establecimientos de óptica.
+Los establecimientos de óptica podrán abrir locales destinados a la recepción y al despacho de recetas médicas en que se prescriban estos lentes, bajo la responsabilidad técnica de la óptica pertinente.
+
+> **Nota.** Véase el Decreto 4, Salud, publicado el 13.03.1985, sobre Establecimientos de Óptica.
 
 #### Artículo 129°
 
