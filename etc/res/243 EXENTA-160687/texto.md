@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION EXENTA No. 243, DE 1986
+
+Por resolución exenta No. 243, de fecha 23 de Enero de 1986, del Subsecretario de Educación Pública, se modifica la resolución exenta de Educación No. 64 de 1983, que aprueba planes y programas de estudios de la carrera Comercio Exterior, entre otras, al Centro de Formación Técnica Juan Bohon de La Serena, para que se aplique plan especial de estudios, por esta sola vez y a fin de regularizar la situación académica del alumno Raúl Galleguillos Galleguillos, de la carrera mencionada, para que valide las asignaturas correspondientes al 1° y 2° nivel de la carrera. Por la misma resolución se dejó sin efecto el 1° y 2° nivel de la carrera cursado durante el año 1982 en el Centro de Formación Técnica Juan Bohon de La Serena, por no tener a esa fecha Licencia Media,
+
+Santiago, 31 de Marzo de 1986.- René Salamé Martin, Subsecretario de Educación Pública.
