@@ -1,0 +1,3 @@
+Por resolución Nº 1.136, de 16 de junio de 1999, de esta Subsecretaría, autorízase a PESQUERA ITATA S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida Pedro Montt 704, San Vicente, Talcahuano, en la línea elaboración de Congelado, los siguientes recursos hidrobiológicos: Albacora o pez espada, Bonito, Congrio colorado, Corvina, Lenguado de ojos chicos, Lisa, Merluza de cola, Merluza de tres aletas, Merluza del sur, Palometa, Pejerrey de mar, Raya, Reineta, Róbalo, Salmón del Atlántico, Salmón plateado, Salmón rey, Tollo, Trucha arcoiris o Cabeza de acero.
+
+Valparaíso, 16 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
