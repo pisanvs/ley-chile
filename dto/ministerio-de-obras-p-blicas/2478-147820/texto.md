@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.478, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 30, 31, 49-A, 51 y 52, superficies 70, 100, 300, 15 y 683 m², respectivamente, roles de avalúo 129-13, 139-6, 138-46 y 138-47, comuna de Malloa para la obra Camino Malloa-Tunca por Corcolén y se acordó precio de indemnización con sus propietarios Elsa Canales Leiton, Cristina Pereira Gallardo, Orlando Toledo Farías y Rosa O'Kington Quezada, ascendente a las cantidades de $711.900, $663.084, $4.118.443 y $508.500.-
+
+Fiscal del Ministerio de Obras Públicas.
