@@ -1,0 +1,3 @@
+Por resolución Nº 2.612, de 10 de septiembre de 2004, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 407 de 2004, modificada mediante resolución Nº 785, Nº 1.112 y Nº 1.351, todas de 2004 de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco, I y II Regiones", en el sentido de incorporar a la embarcación artesanal "Arkhos I", a la nómina de naves participantes en la presente pesca de investigación.
+
+Valparaíso, 10 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
