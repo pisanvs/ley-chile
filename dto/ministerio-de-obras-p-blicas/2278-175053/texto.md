@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.278, de 30 de mayo de 2000, se expropió el lote de terreno Nº48, superficie 180 m², rol de avalúo 5462-8, comuna de La Granja, para la obra Concesión Internacional Ruta 5, tramo: Santiago - Talca, Sector A: Acceso Sur a Santiago, Región Metropolitana, y se acordó el valor de indemnización con su propietario Maximiliano Cruz Olmos Carvajal, ascendente a la cantidad de $22.824.704.
+
+Fiscal del Ministerio de Obras Públicas.
