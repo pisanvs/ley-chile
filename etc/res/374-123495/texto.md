@@ -1,0 +1,3 @@
+Por resolución Nº 374 de 5 de Abril de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 3 de la resolución Nº 1.235, de 1990, de esta Subsecretaría, por la cual se autorizó a don MAURICIO VILLARROEL SALAZAR, R.U.T. Nº 7.608.990-6, domiciliado en Valparaíso, para iniciar actividades pesqueras, en el sentido de incluir dentro de las especies autorizadas, el recurso albacora o pez espada, en el litoral de la I a la X Región, con enmalle.
+
+Valparaíso, 5 de Abril de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
