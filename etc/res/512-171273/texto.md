@@ -1,0 +1,7 @@
+DESIGNA SECRETARIOS DE LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAICES QUE INDICA
+
+1°.- Por Resolución N° 471, de 27 de Septiembre de 1995, se ha designado a don Patricio Tomás Maldonado Gárnica, funcionario fiscalizador, RUT N° 11.307.904-5, como Secretario suplente del Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Coyhaique y a don Juan Herrera Osorio, funcionario fiscalizador, RUT N° 7.927.657-K, como Secretario suplente del Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el Territorio de la Ilustrísima Corte de Apelaciones de Valparaíso.
+
+2°.- Por Resolución N° 512, de 18 de Octubre de 1995, se ha designado a don Juan Carlos Huilipan Cifuentes, funcionario fiscalizador, RUT N° 5.376.655-2, como Secretario titular y a don Jorge Sergio Bravo Ordenes, funcionario fiscalizador, RUT N° 4.483.683-1, como suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de San Miguel y a doña Ana Delfina Venegas Zavala, funcionario fiscalizador, RUT N° 7.051.890-2, como Secretario titular y a don Marcial Segundo Flores Yávar, funcionario fiscalizador, RUT N° 7.339.904-1, como suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Iquique.
+
+Javier Etcheberry Celhay, Director.
