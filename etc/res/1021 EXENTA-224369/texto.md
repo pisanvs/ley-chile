@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.021, de 14 de abril de 2004, de esta Subsecretaría, autorízase a FISH MARKET LIMITADA para ampliar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en sector Playa Seremeño s/n, Iquique, I Región, donde podrá elaborar en las líneas de proceso Fresco-Enfriado, Fresco-Refrigerado, Congelado, Seco, Salado, Ahumado y Deshidratado los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 14 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
