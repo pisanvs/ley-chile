@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.727, de 31 de octubre de 2001, se expropió el lote de terreno Nº 2-1, superficie 301 m2., rol de avalúo 690-18, comuna de El Tabo, para la obra Red Vial Litoral Central. Sector 3: Eje Costero Interior. Subtramo: Rosario-Orrego Abajo Km. 16.840,00 a Km. 20.673,30, Quinta Región y se acordó el valor de indemnización con su propietario Hugo Sergio Moraga Muñoz, ascendente a la cantidad de $1.114.873.-
+
+Fiscal del Ministerio de Obras Públicas.
