@@ -1,0 +1,3 @@
+Por resolución Nº 147, de 16 de enero de 2003, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 502 de 1999, de esta Subsecretaría, sólo en cuanto autorizó a MARCELINO SIMON GONZALEZ RIVERA, para operar la nave "Walrus", respecto del recurso hidrobiológico Merluza de cola, en el área marítima comprendida entre la V y la IX regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 16 de enero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
