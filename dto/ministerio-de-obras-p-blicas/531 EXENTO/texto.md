@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 531, de fecha 30 de abril de 2002, se expropiaron los lotes de terreno Nº 2-B, 2-C y 2-D, superficie 486, 41 y 290 M2., Rol de Avalúo Nº 161-5, comuna de Petorca, para la obra ''Ruta E-37-D, sector Pedegua-Palquico, Km. 0,000 a Km. 14,000'', V Región y se acordó el valor de indemnización con su propietario Amador Villalobos, ascendente a la cantidad de $4.335.577.-
+
+Fiscal del Ministerio de Obras Públicas.
