@@ -122,13 +122,9 @@ Los representantes de las Sociedades Agrícolas y de la Sociedad Nacional de Pes
 
 #### Artículo 5
 
-° El Presidente de la República podrá autorizar al Ministro de Agricultura, mediante decreto supremo que llevará también la firma del Ministro de Hacienda, para que en representación del Fisco, celebre convenios, por escritura pública, con personas naturales o jurídicas, de derecho público o privado, nacionales o extranjeras, que tengan por finalidad desarrollar programas y planes de trabajo comprendidos dentro de las funciones propias del Ministerio.
+° El Ministro de Agricultura podrá, en representación del Fisco, celebrar convenios con personas naturales o jurídicas, de derecho público o privado, nacionales o extranjeras, que tengan por finalidad desarrollar programas y planes de trabajo comprendidos dentro de las funciones propias del Ministerio, sin perjuicio de las atribuciones que correspondan al Ministerio de Relaciones Exteriores.
 
-El decreto supremo que autorice el convenio deberá contener el texto íntegro del mismo. Señalará los aportes a que se obliga el Fisco, el plazo y condiciones en que deberá enterarlos y la forma en que los bienes afectos al convenio serán administrados indicando, asimismo, las facultades de los administradores. Podrá también contemplar las demás modalidades pertinentes sobre la organización y dirección del trabajo común, la contratación del personal de empleados particulares u obreros, u otras modalidades y condiciones que el Presidente de la República estime convenientes o necesarias.
-
-En caso alguno la celebración de estos convenios podrá comprometer la responsabilidad fiscal más allá de los aportes expresamente estipulados.
-
-De la inversión de los fondos deberá darse cuenta oportunamente a la Contraloría General de la República.
+En caso alguno la celebración de estos convenios podrá comprometer la responsabilidad fiscal más allá de los fondos autorizados en el presupuesto de la referida Secretaría de Estado.
 
 #### Artículo 6
 
