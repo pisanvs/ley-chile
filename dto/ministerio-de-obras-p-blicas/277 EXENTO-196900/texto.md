@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 277 de fecha 22 de marzo del 2002, se expropió el lote de terreno Nº 1, superficie 1.718 m2, rol de avalúo Nº 47-63, comuna de Tierra Amarilla, para la obra "Camino Ruta C-411, Sector Ruta 5-Nantoco Km. 0,0000 a Km. 24,35088, Etapa IV", III Región y se acordó el valor de la indemnización con su propietaria Ana Rosa Contreras Araya, ascendente a la cantidad de $1.522.298.-
+
+Fiscal del Ministerio de Obras Públicas.
