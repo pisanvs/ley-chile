@@ -1,0 +1,3 @@
+Por decreto MOP Nº 312, de 19 de abril de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para la Empresa de Obras Sanitarias de Valparaíso S.A., el lote de terreno Nº 1, para la obra: Saneamiento de Quintero, que figura a nombre de Cintolesi Richter Enrique, rol de avalúo 00007-00001, Comuna de Quintero, V Región, superficie 500 m2. La comisión de peritos fijó con fecha 29 de enero de 2004, en la cantidad de $15.000.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
