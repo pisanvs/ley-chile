@@ -1,0 +1,3 @@
+Por Resolución N° 2.093, de 11 de diciembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución N° 287, de 1982, de esta Subsecretaría, que autorizó a PESQUERA IQUIQUE S.A., hoy Pesquera Iquique-Guanaye S.A., para ampliar actividades pesqueras extractivas con las naves "Eperva 37" y "Eperva 38", por haberse configurado la causal prevista en el artículo 143 letra b) de la Ley N° 18.892 y sus modificaciones.
+
+Valparaíso, 11 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
