@@ -1,0 +1,5 @@
+Por resolución Nº 1.383, de 29 de septiembre de 1998, de esta Subsecretaría, autorízase a PESCA CHILE S.A., para ampliar actividades pesqueras autorizadas por resoluciones Nº886, de 1989 y Nº194 de 1992, ambas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Avenida Presidente Ibáñez Km. 5,5 Norte, Sector Tres Puentes, comuna de Punta Arenas, provincia de Magallanes, XII Región, en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Congelado y Fresco-Enfriado: Krill, Draco rallado, Ostión del sur Chlamys vitrea, Ostión del sur Chlamys patagonica, Tumbao y Orange roughy.
+
+Los recursos que provengan de aguas jurisdiccionales extranjeras deberán cumplir con las normas de importación aduanera y de sanidad que correspondan.
+
+Valparaíso, 29 de septiembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
