@@ -1,0 +1,3 @@
+Por Resolución N° 1.590, de 27 de agosto de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por PESQUERA YELCHO S.A., en orden a sustituir las naves "Jing Yang N° 1", "Gualas" y "San Rafael" por la nave en construcción "American Monarch", por no dar cumplimiento a los requisitos establecidos en los artículos 2° y 6° del Decreto Supremo N° 64, de 1992, del Ministerio de Economía, Fomento y Reconstrucción, en relación al artículo 19 letra e) de la Ley N° 18.892 y sus modificaciones.
+
+Valparaíso, 27 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
