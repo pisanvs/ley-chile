@@ -1,0 +1,5 @@
+EXCEPCIONA DEL CAMBIO DE SUJETO DEL IVA A MINIMERCADOS DE PROXIMIDAD S.A.
+
+La XV Dirección Regional Metropolitana Santiago Oriente del Servicio de Impuestos Internos, por resolución Nº Ex. 634 de fecha 18 de abril de 2002, certifica que a contar del día 1º del mes siguiente al de esta publicación en el Diario Oficial y en forma indefinida, la sociedad Minimercados de Proximidad S.A., RUT Nº 96.801.700-4, se excepciona del régimen de cambio de sujeto del IVA, en las operaciones de cigarros, cigarrillos y tabacos que realice, de acuerdo con lo establecido en la resolución Ex. Nº 1.086 de 28.08.78, de la Dirección Nacional del Servicio y publicada en el Diario Oficial. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus operaciones de cigarros, cigarrillos y tabacos que realice.-
+
+Bernardo Seaman González, Director Regional.
