@@ -1,0 +1,3 @@
+Por Resolución N° 997, de 26 de Octubre de 1994, de esta Subsecretaría del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 1374, de 1989, de esta Subsecretaría, que autorizó a don ALFREDO EMILIANO CARCAMO GALINDO, para operar un establecimiento de cultivo ubicado en Punta Tepún, Isla Cailín, Comuna de Quellón, Provincia de Chiloé, X Región, en virtud de lo dispuesto en el artículo 7° del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de Octubre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
