@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.081, de fecha 31 de julio del 2001, se expropió el lote de terreno Nº4-8, superficie 35,3105 m², rol de avalúo 3392-8, comuna de Punta Arenas, para la obra "Habilitación Costanera Estrecho de Magallanes I, Sector Chañarcillo - Manantiales, Tramo Km. 1,97992 al 3,30000" y se acordó el valor de indemnización con su propietario Blanca Elsa Santana Aguilar y Otros, ascendente a la cantidad de $1.048.759.-
+
+Fiscal del Ministerio de Obras Públicas.
