@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 312, de 31 de marzo de 1997, se expropió el lote de terreno Nº 139, superficie 315 M2., rol de avalúo 247-37, comuna de San Vicente, obra Camino Quinta de Tilcoco-Cruce Ruta 66, sector El Manzano de Zúñiga-La Mediagua-Tunca El Medio y se acordó precio de indemnización con sus propietarios Sucesión Luis Jerez Bustamante y otra, ascendente a la cantidad de $772.395.-
+
+Fiscal del Ministerio de Obras Públicas.
