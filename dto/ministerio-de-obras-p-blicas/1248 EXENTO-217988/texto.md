@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.248, de 27 de octubre de 2003, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del decreto MOP exento Nº208 de fecha 28 de febrero de 2002, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de lote de terreno Nº17. Consígnese judicialmente el monto de la indemnización del lote Nº17, fijada por la Comisión de Peritos con fecha 3 de abril de 2000, ascendente a la cantidad de $308.800.- La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
