@@ -1,0 +1,3 @@
+Por resolución Nº743, de 12 de abril de 2000, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº95110368, presentada por Jorge Alejandro Carlos JosE Ossa Arangua para operar un centro de cultivo ubicado al weste de Isla Partida, Seno Aysén, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 12 de abril de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
