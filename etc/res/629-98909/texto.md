@@ -1,0 +1,3 @@
+Por resolucón Nº 629, de 4 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las resoluciones Nº 1.119 de 1989 y Nº 276 de 1994, ambas de esta Subsecretaría, que autorizaron a TULIO HUMBERTO BARRIENTOS AVENDAÑO para instalar y operar un centro de cultivo ubicado en la Caleta Curahue, Estero Huildad, comuna de Quellón, X Región, por haberse puesto término a la respectiva resolución de concesión de acuicultura.
+
+Valparaíso, 4 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
