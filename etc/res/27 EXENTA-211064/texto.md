@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 27 EXENTA, DE 2003
+
+Por resolución exenta Nº 27 del 23 de mayo de 2003, se autoriza a la empresa Distribuidora Oriente Ltda., RUT 78.370.800-0, para emitir y recibir documentos tributarios electrónicos a partir del mes de mayo de 2003. Los documentos autorizados a emitir son los siguientes: Facturas Electrónicas, Notas de Crédito Electrónicas, Notas de Débito Electrónicas y Guías de Despacho Electrónicas. En la citada resolución se establecen los procedimientos que deberá cumplir el contribuyente individualizado para la generación de dichos documentos, su envío al Servicio de Impuestos Internos y a los receptores electrónicos, su otorgamiento a los receptores no electrónicos, su almacenamiento en medios electrónicos y su registro en archivos electrónicos.
+
+El texto íntegro de esta resolución se encuentra incluido en el Sitio Web del Servicio de Impuestos Internos en Internet, cuya dirección es http://www.sii.cl.
