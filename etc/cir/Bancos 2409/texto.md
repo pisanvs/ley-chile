@@ -8888,9 +8888,9 @@ b) Responder a préstamos financieros, internados al país de acuerdo al Capítu
 
 c) Responder como garante directo o como contra fiador o avalista de documentos emitidos en el exterior que sirvan de garantía de calidad de las exportaciones chilenas o de seriedad en el cumplimiento de propuestas abiertas en el extranjero a que concurran exportadores chilenos; y,
 
-d) Responder de los pagos que se deriven de las obligaciones generadas por los contratos a futuro celebrados con corredores de Bolsas Oficiales Extranjeras,por las personas autorizadas para ello de conformidad con las disposiciones contenidas en el Capítulo VIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Estas cauciones también pueden
+d) Responder de los pagos que se deriven de las obligaciones generadas por los contratos a futuro celebrados con corredores de Bolsas Oficiales Extranjeras,por las personas autorizadas para ello de conformidad con las disposiciones contenidas en el Capítulo VIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Estas cauciones también pueden otorgarse mediante cartas de crédito Stand by, las que deben sujetarse a las normas contenidas en este capítulo.
 
-otorgarse mediante cartas de crédito Stand by, las que deben sujetarse a las normas contenidas en este capítulo.
+e) Responder como garante directo de letras de cambio aceptadas o de pagarés suscritos en el exterior, correspondientes al precio pagadero a plazo de exportaciones chilenas. En estos casos, las empresas bancarias deberán enviar al Banco Central de Chile la información requerida en el Capítulo XX del título I del Compendio de Normas de Cambios Internacionales, dentro del plazo establecido para tal efecto.
 
 Asimismo, las instituciones bancarias podrán avalar letras de cambio extendidas en moneda extranjera, pagaderas en moneda chilena, que los importadores acepten en favor de los Servicios de Aduana para garantizar el pago diferido de derechos
 
@@ -16564,7 +16564,9 @@ d) La negociación de cartas de crédito a la vista o a plazo por exportaciones 
 
 e) Avales otorgados para responder como garante directo o como contrafiador o avalista de documentos emitidos en el exterior con el objeto de garantizar la calidad de las exportaciones chilenas o la seriedad en el cumplimiento de propuestas abiertas en el extranjero a que concurran exportadores chilenos o por el cumplimiento de contratos de exportación, así como los préstamos cursados para emitir boletas de garantía o cartas de crédito stand by con los mismos propósitos.
 
-f) Créditos otorgados a personas naturales o jurídicas residentes en el exterior, que tengan por objeto pagar a exportadores chilenos el precio de mercaderías importadas desde Chile, de conformidad con lo dispuesto en el N° 1 del Título I del Capítulo 13-27 de esta Recopilación.
+f) Avales para responder como garante directo de letras de cambio aceptadas o de pagarés suscritos en el exterior, correspondientes al precio pagadero a plazo de exportaciones chilenas.
+
+g) Créditos otorgados a personas naturales o jurídicas residentes en el exterior, que tengan por objeto pagar a exportadores chilenos el precio de mercaderías importadas desde Chile, de conformidad con lo dispuesto en el N° 1 del Título I del Capítulo 13-27 de esta Recopilación.
 
 Los créditos a que se refiere la letra d) anterior pueden acogerse al límite del 30%, al igual que las obligaciones que se originan de las letras o pagarés señalados en la letra b), cuando dichos documentos provengan de operaciones con países miembros de la ALADI y sean reembolsables a través del Banco Central de Chile por intermedio del respectivo convenio de crédito recíproco.
 
