@@ -1,0 +1,3 @@
+Por resolución Nº 1.095, de 5 de junio de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Cerro Verde Sector B, VIII Región, individualizada en el artículo 1º Nº 6 del D.S. Nº 56 de 1999, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL, BUZOS MARISCADORES, AYUDANTES DE BUZOS Y ACTIVIDADES CONEXAS DE LA CALETA DE CERRO VERDE "EL REFUGIO".
+
+Valparaíso, 5 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
