@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº781, de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº34-B, superficie 1.128 m2, rol de avalúo Nº537-241, comuna de Río Bueno, para la obra ''Camino Río Bueno - Crucero, rol T-90-U y T933, Km. 0,00000 a Km. 20,90000, X Región y se acordó el valor de indemnización con su propietario Rolando Vásquez Vergara, ascendente a la cantidad de $1.027.520.
+
+Fiscal del Ministerio de Obras Públicas.
