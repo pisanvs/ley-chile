@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°364, de 30 de mayo de 1996, se expropiaron los lotes de terreno N°s 2, 7 y 9, superficies 385, 1,970 y 3.420 m2, roles de avalúo 1004-11, 1004-17 y 100419, comuna de Natales, para la obra Camino Habilitación y Construcción Regadío Huertos Familiares de Puerto Natales, Aducción 2' Etapa y se acordó precio de la indemnización con sus propietarios José del Carmen Cárdenas Vargas, José Mateo Segundo Almonacid Mancilla y José Hernán Ojeda Vera, ascendente a las cantidades de $37.544, para el N° 2, $192.158, para el lote N°7 y $333.594, para el lote N° 9.
+
+Fiscal del Ministerio de Obras Públicas.
