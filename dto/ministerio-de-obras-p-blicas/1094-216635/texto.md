@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.094 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº1-B, superficie 149,0 m², Rol Nº155-3, comuna de Curarrehue, IX Región para la obra "Camino Catripulli-Curarrehue, Sector Km. 108,02 al Km. 114,80" y se acordó el valor de indemnización con su propietario Nicolás Segundo Contreras Sáez, ascendente a la cantidad de $542.577.-
+
+Fiscal del Ministerio de Obras Públicas.
