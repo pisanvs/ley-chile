@@ -1,0 +1,3 @@
+Por Resolución N° 1.671, de 10 de septiembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la solicitud de concesión de acuicultura presentada por PESQUERA LAGO RUPANCO S.A., para un centro de cultivo ubicado en Islote Solari, Canal Beagle, comuna de Navarino, provincia Antártica Chilena, XII Región, conforme lo dispuesto en el artículo 67, inciso 5°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 10 de septiembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
