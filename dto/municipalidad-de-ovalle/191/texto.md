@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO ALCALDICIO No. 191 DE 1986
+
+Vistos.- Las facultades que me otorga la ley, decreto No. 191, de 09 de Abril de 1986, agrégase un artículo 24 al decreto exento No. 069 de fecha 27 de Enero de 1986, que expresar : "Los derechos por la ocupación de un bien nacional de uso público correspondiente a proyectos de inversión de empresas de utilidad pública y/o estatales financiadas con fondos del Estado, que tengan incidencia en el desarrollo de la Comuna, podran rebajarse hasta en un 99,9%.- La procedencia de este beneficio y monto del pago seran determinados por el Alcaide, conforme a los antecedentes presentados por la respectiva empresa".
+
+Anótese Comuníquese a quien corresponda.- Publíquese en extracto.- Archivese.- Rodrigo Sugg Pierry, Alcalde.- María Inés Núñez Herrera Secretario Municipal.
