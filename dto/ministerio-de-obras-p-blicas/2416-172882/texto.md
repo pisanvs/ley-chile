@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.416, de 30 de mayo de 2000, se expropió el lote de terreno Nº137, superficie 1.268 m2., rol de avalúo 76-22, comuna de Teno, para la obra Concesión Internaciomnal Ruta 5. Tramo: Santiago-Talca. Sector K, Séptima Región y se acordó el valor de indemnización con su propietaria Isabel Margarita Pérez-Barros Portal, ascendente a la cantidad de $5.045.031.
+
+- Fiscal del Ministerio de Obras Públicas.
