@@ -1,0 +1,3 @@
+Por decreto supremo exento de Educación Nº 342 de 23 de diciembre de 1991 se han aprobado planes especiales de estudio de Enseñanza Media Humanístico - Científica para el Liceo C Nº 12 de Las Cabras, provincia de Cachapoal, VI Región del Libertador General Bernardo O'Higgins, el que se aplicará en 1° y 2° año a contar de 1992 y en 3° y 4° año desde 1993.
+
+Santiago, 09 de Enero de 1992.- Raúl Allard Neumann, Subsecretario de Educación.
