@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 130, DE 2000
+
+Por resolución Nº 130, de 14 de julio de 2000, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la V Región, se adjudicó a la Sociedad Revisiones Técnicas S.A. ''Revitec S.A.'', RUT Nº 96.875.770-9, la concesión para operar por el plazo de seis años, a contar de la fecha de publicación del presente extracto, un establecimiento ubicado en calle Industrial Nº 192, El Belloto, Quilpué, destinado a la revisión técnica y verificación de emisión de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques, en la forma y condiciones que se señalan en el contrato que se aprueba por resolución exenta Nº 148, de 26 de julio de 2000.
+
+Valparaíso, 24 de agosto de 2000.- Carlos Inostroza Bilbao, Secretario Regional Ministerial V Región.
