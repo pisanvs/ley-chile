@@ -1,0 +1,3 @@
+Por decreto MOP Nº962, de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº11, superficie 3.759,00 m², rol de Avalúo Nº2905-4, comuna de Pudahuel, para la obra "Camino Ruta G-184-182, Sector El Noviciado-Cruce Ruta G-16 (Lipangue), Tramo de Km. 4,450 a Km. 15,04419", Región Metropolitana y se acordó el valor de la indemnización con su propietario Luis Alberto Mayor Ahumada, ascendente ala cantidad de $49.261.002.
+
+Fiscal del Ministerio de Obras Públicas.
