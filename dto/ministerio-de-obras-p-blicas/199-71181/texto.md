@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 199, de 28 de febrero de 1997, se expropiaron los lotes de terreno Nºs 18, 19 y 20, superficies 427, 320 y 441 m2, respectivamente, rol de avalúo 25-89, comuna de Rinconada, obra camino Ruta 57-Ch, Santiago-Los Andes, sector Túnel Chacabuco, Bifurcación Auco y se acordó precio de indemnización con su propietario Luis Urtubia Lemus, ascendente a la cantidad de $1.354.862.-
+
+Fiscal del Ministerio de Obras Públicas.
