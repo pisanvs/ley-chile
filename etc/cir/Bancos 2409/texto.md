@@ -7612,7 +7612,7 @@ Raíces.
 
 El reembolso de los préstamos otorgados al amparo de estas normas se hará en moneda nacional, por medio de dividendos.
 
-En el caso de préstamos hipotecarios para la vivienda, el servicio se hará mediante dividendos mensuales sucesivos vencidos. En estos préstamos no podrán pactarse plazos de gracia ni dividendos crecientes o decrecientes, debiendo enterarse cada pago dentro de los 10 primeros días del mes siguiente al de la fecha de vencimiento.
+En el caso de préstamos hipotecarios para la vivienda, el servicio se hará mediante dividendos mensuales sucesivos vencidos. En estos préstamos no podrán pactarse dividendos crecientes o decrecientes, ni plazos de gracia superiores a tres meses a contar de la fecha de otorgamiento del crédito, debiendo enterarse cada pago dentro de los 10 primeros días del mes siguiente al de la fecha de vencimiento.
 
 ### 8. Tabla de desarrollo de los mutuos
 
