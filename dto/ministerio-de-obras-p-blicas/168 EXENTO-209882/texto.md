@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 168, de fecha 31 de marzo de 2003, se expropiaron los lotes de terreno Nºs 22, 24 y 26, superficie 10.321, 3.275 y 4.283 m², respectivamente, Rol Nº842-7, comuna de Traiguén, IX Región, para la obra "Camino Mejoramiento Ruta R-90-P, Sector Traiguén-Lumaco, Km. 0,000 al Km. 21,86933. Tramo I, Km. 0,000 al Km. 12,181" y se acordó el valor de indemnización con su propietario Lino Enrique Cortesi Giacomozi ascendente a la cantidad de $6.008.933.
+
+Fiscal del Ministerio de Obras Públicas.
