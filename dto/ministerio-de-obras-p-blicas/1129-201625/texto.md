@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.129, de fecha 28 de junio de 2002, se expropiaron los lotes de terreno Nº25 y 26, superficies 1.677 y 2.084 m2, roles de avalúo Nº286-58 y 286-102, comuna de San Fernando, para la obra ''Camino San Fernando Roma, Rol I-301; I-255; I-151, Km. 0,000 a Km. 10,954264, VI Región y se acordó el valor de la indemnización con su propietario Pedro O. Mesina Echanes y Otro, ascendente a la cantidad de $18.704.439.-
+
+Fiscal del Ministerio de Obras Públicas.
