@@ -1,0 +1,3 @@
+Por decreto MOP Nº 239, de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº 18, superficie 2.702 m2, rol de avalúo Nº 1418-430, comuna de Rancagua, para la obra "Camino Ruta H-188, Sector Cruceros - Chancón, Tramo 1, Km. 0,00000 al Km. 7,85900", VI Región y se acordó el valor de la indemnización con su propietaria María Nelly o Nelly Pavez Gutiérrez, ascendente a la cantidad de $5.398.970.-
+
+Fiscal del Ministerio de Obras Públicas.
