@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 55, de fecha 25 de febrero de 1993, se expropiaron los lotes de terreno N°s. 2 y 5, superficies 772 M2. y 1.972 M2., rol de avalúo 9050-38, Comuna de Melipilla, para la obra Camino Santiago San Antonio, sector Puangue-Leyda y se acordó el valor de indemnización con su propietaria Sociedad Agrícola Carrizo Ltda., ascendente a la cantidad de $1.079.040.
+
+Fiscal del Ministerio de Obras Públicas.
