@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.291, de 27 de septiembre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP. Nº206, de 1960, se expropió el lote de terreno Nº37-1, para la obra: ''CAMINO : RUTA 5 NORTE. TRAMO: SANTIAGO-LOS VILOS. SECTOR : KM. 88.300,00 AL KM.
+
+88.800,00'', Quinta Región, que figura a nombre de Olivares Bustamante Claro Rigo, rol de avalúo 151-274, comuna de Llay Llay, superficie 2.255 m2. La comisión de peritos integrada por los señores Pablo Antonio Aragón Bernal, Jorge Gregorio Mendoza Larral y María Cristina Ayala Muñoz, fijó con fecha 8 de julio de 2000, el valor provisional de la indemnización en la cantidad de $7.261.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
