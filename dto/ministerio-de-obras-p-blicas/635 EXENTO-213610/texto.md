@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 635, de 30 de junio de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco los lotes de terreno Nºs. 104-B y 104-C para la obra: Camino Costero Tirúa - Carahue, Tramo Bajo Yupehue - Puyanhue, Sector Km.
+
+23.348,46 - Km. 41.637,97; Km. 41.769,92 - Km. 45.286,79, Subtramo IV Km. 34.804 al Km. 39.858, que figuran a nombre de Almazabal Delicia y Carrillo Alberto, sin Rol, comuna de Carahue, IX Región, superficies 759 m² y 110,7 m². La Comisión de Peritos fijó, con fecha 16 de septiembre de 1999, el monto de la indemnización provisional en la cantidad de $1.483.440, lote 104-B, y $17.712, lote 104-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
