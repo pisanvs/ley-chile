@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.353 de 25 de noviembre de 2004, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº115 de 2004, de esta Subsecretaría que autorizó a PESCA SURIBERICA S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Factibilidad técnica de captura de Bacalao de profundidad (Dissostichus eleginoides) con trampas", en el sentido de reemplazar la nave "Isla Camila" por la nave "Isla Santa Clara", como nave autorizada para realizar tareas de prospección y muestreo en el marco de la presente pesca de investigación.
+
+Valparaíso, 25 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
