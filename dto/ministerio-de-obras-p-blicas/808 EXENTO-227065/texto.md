@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 808 de fecha 31 de mayo del 2004, se expropió el lote de terreno Nº 399, superficie 1.195 m2, rol en tramite, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66 Km. 12,70000 a Km. 16,4800", y se acordó el valor de indemnización con su propietaria Marta Corina Bustamante Quezada y otros, ascendente a la cantidad de $2.785.508.
+
+- Fiscal del Ministerio de Obras Públicas.
