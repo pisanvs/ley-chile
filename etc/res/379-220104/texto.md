@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE SEÑALA NOTIFICACION
+
+Resolución 379, 5 diciembre 2003, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en el sector Michaihue, sin Rol de Avalúo, comuna San Pedro de la Paz, superficie 302,699 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-18667, de aparente dominio de Máximo Valencio Garrido Alvarez, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de San Pedro de la Paz, conforme artículo 51 ley 16.391 y D.L.
+
+Nº2.186. Comisión Peritos integrada por Boris Aptecar González, arquitecto; Gabriel Ignacio Fernández de la Maza, ingeniero civil, y Sergio Labarca Garrido, constructor civil, según informe de fecha 17 de noviembre de 2003, fijó monto provisional indemnización en $665.938, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
