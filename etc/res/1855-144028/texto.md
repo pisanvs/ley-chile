@@ -1,0 +1,3 @@
+Por resolución Nº 1.855, de 16 de septiembre de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110147, presentada por Salmones Multiexport Limitada, para operar un centro de cultivo ubicado en Isla Izaza - Canal Isla Level, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 16 de septiembre de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
