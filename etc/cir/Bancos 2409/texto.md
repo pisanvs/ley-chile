@@ -548,9 +548,9 @@ Define la sociedad anónima y su carácter mercantil y es aplicable
 
 #### Artículo 2°
 
-Complementado por el artículo 1° del Reglamento, divide las sociedades anónimas en abiertas y cerradas. Los bancos y sociedades financieras se rigen por las normas de las abiertas, de acuerdo al artículo 41 antes citado. El inciso tercero no es aplicable, pues los bancos y sociedades financieras están fiscalizados por esta Superintendencia.
+Complementado por el artículo 1° del Reglamento, divide las sociedades anónimas en abiertas y cerradas. Los bancos y sociedades financieras se rigen por las normas de las abiertas, de acuerdo al artículo 41 antes citado. Los incisos cuarto, quinto y sexto no son aplicables, pues los bancos y sociedades financieras están fiscalizados por esta Superintendencia.
 
-El inciso quinto tiene importancia al expresar que cuando la ley se refiere a sociedades sometidas a la fiscalización de la Superintendencia se entienden las sociedades abiertas, lo que servirá para comprender el ámbito de aplicación de algunas normas de la ley.
+El inciso séptimo tiene importancia al expresar que cuando la ley se refiere a sociedades sometidas a la fiscalización de la Superintendencia se entienden las sociedades abiertas, lo que servirá para comprender el ámbito de aplicación de algunas normas de la ley.
 
 #### Artículo 3°
 
@@ -614,7 +614,7 @@ Complementado por los artículos 23, 24, 25 y 26 del Reglamento, establece un si
 
 Es aplicable.
 
-ARTICULOS 20 y 21 No se aplican, ya que el artículo 49 N°2 de la Ley General de Bancos prohíbe las acciones preferidas. Sin embargo, el último inciso del artículo 21, que priva de derecho a voto en juntas ordinarias a las acciones inscritas a nombre de fondos mutuos, se aplica también a las acciones de bancos y sociedades financieras de propiedad de un fondo mutuo.
+ARTICULOS 20 y 21 No se aplican, ya que el artículo 49 N°2 de la Ley General de Bancos prohíbe las acciones preferidas.
 
 ARTICULOS 22 a 26. Son aplicables.
 
@@ -626,7 +626,7 @@ Los artículos 29, 30 y 31 del Reglamento complementan el artículo 25 de la Ley
 
 #### Artículo 27
 
-No se aplica a bancos y sociedades financieras que nunca han podido adquirir sus propias acciones, salvo que las reciban en pago conforme al artículo 84 N° 5 de la Ley General de Bancos.
+En general, no se aplica a bancos y sociedades financieras que nunca han podido adquirir sus propias acciones, salvo que las reciban en pago conforme al artículo 84 N°5 de la Ley General de Bancos Sin embargo, pueden también hacerlo si se cumplen los requisitos contemplados en los artículos 27A, 27B y 27C y los adicionales establecidos para bancos y sociedades financieras en el artículo 27D.
 
 #### Artículo 28
 
@@ -700,6 +700,12 @@ Es aplicable. Esta disposición se complementa con el artículo 41 del Reglament
 
 ARTICULOS 49 y 50. Adicionados por el artículo 42 del Reglamento, son complementarios de la Ley General de Bancos, sin perjuicio de que, según el artículo 49 N° 8 de dicha ley, el cargo de director es compatible con el de gerente por no más de noventa días.
 
+#### Artículo 50 bis
+
+Trata del comité de directores Es aplicable, en forma obligatoria, a los bancos y sociedades financieras cuyo patrimonio bursátil sea igual o superior al equivalente de 1.500.000 unidades de fomento Se entiende por patrimonio bursátil, para estos efectos, aquel definido en el N° 1 de la Circular N° 1526 de la Superintendencia de Valores y Seguros, del 19 de febrero de 2001.
+
+Los bancos y sociedades financieras cuyo patrimonio bursátil sea inferior a 1500000 unidades de fomento, podrán acogerse voluntariamente a las disposiciones de este artículo.
+
 #### Artículo 51
 
 No se aplica por tratar sobre sociedades cerradas.
@@ -755,6 +761,8 @@ Adicionado por el artículo 74 del Reglamento, es aplicable a bancos y sociedade
 #### Artículo 67
 
 Los quorum generales y especiales para las juntas son aplicables a bancos y sociedades financieras.
+
+Cabe señalar que el número 11 de este artículo no es aplicable a bancos y sociedades financieras, de acuerdo a lo prevenido en el artículo 41 letra a) de la Ley General de Bancos y en concordancia con lo señalado al tratar los artículos 55 a 58.
 
 #### Artículo 68
 
@@ -816,11 +824,11 @@ Trata del arbitraje que se pacte en los estatutos de sociedades anónimas y es a
 
 ARTICULOS 126 a 132. Tratan de sociedades anónimas especiales y no se aplican a bancos y sociedades financieras, salvo el artículo 128 sobre nulidad.
 
-ARTICULOS 133 y 134. Son complementarios de disposiciones de la Ley General de Bancos.
+ARTICULOS 133, 133 bis y 134. Son complementarios de disposiciones de la Ley General de Bancos.
 
 #### Artículo 135
 
-Obliga a las sociedades a llevar un registro público indicativo de sus presidentes, directores, gerentes o liquidadores, con fechas de iniciación y término de su gestión. La certificación del registro hace fe en contra de la sociedad y a favor de accionistas o terceros. Los funcionarios de la sociedad tienen responsabilidad por sus certificaciones. Este artículo, que se complementa con el artículo 106 del Reglamento, es plenamente aplicable a bancos y sociedades financieras.
+Obliga a las sociedades a llevar un registro público indicativo de sus presidentes, directores, gerentes, ejecutivos principales o liquidadores, con fechas de iniciación y término de su gestión. La certificación del registro hace fe en contra de la sociedad y a favor de accionistas o terceros. Los funcionarios de la sociedad tienen responsabilidad por sus certificaciones. Este artículo, que se complementa con el artículo 106 del Reglamento, es plenamente aplicable a bancos y sociedades financieras.
 
 #### Artículo 136
 
@@ -1786,9 +1794,7 @@ Quedan excluidas de las condiciones de plazos mínimos señaladas en los párraf
 
 a) Los intereses que el Banco del Estado de Chile debe pagar por los depósitos a la orden judicial en virtud de lo dispuesto en el artículo 517 del Código Orgánico de Tribunales.
 
-b) Los intereses que se paguen sobre los importes de divisas mantenidas en cuentas con bancos, de conformidad con lo dispuesto en el numeral 4.3 del Capítulo XXVI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
-
-c) Los intereses y reajustes que se paguen por las captaciones realizadas mediante la venta con pacto de recompra de los instrumentos que se señalan en el N° 3 del título III de este Capítulo, en cuyo caso el plazo mínimo es de cuatro días hábiles bancarios.
+b) Los intereses y reajustes que se paguen por las captaciones realizadas mediante la venta con pacto de recompra de los instrumentos que se señalan en el N° 3 del título III de este Capítulo, en cuyo caso el plazo mínimo es de cuatro días hábiles bancarios.
 
 2. Plazos mínimos para adquirir del público títulos de crédito que hayan sido emitidos o cedidos por alguna institución financiera.
 
@@ -1796,7 +1802,7 @@ De acuerdo a lo señalado en el N° 2 del Capítulo III.B.1 del Compendio de Nor
 
 Dicha disposición se aplica tanto a las compras definitivas como a las compras con pacto de que trata el título III de este Capítulo y es complementaria de las instrucciones contenidas en el N° 1 precedente, relativas al pago de intereses y reajustes. Por consiguiente, debe entenderse que esa limitación alcanza a todos los títulos de crédito pagaderos a plazo que hayan sido emitidos o cedidos por la misma institución o por otro banco o sociedad financiera establecido en Chile, incluidos los valores mobiliarios.
 
-En todo caso, en concordancia con la excepción indicada en la letra c) del N° 1 anterior, aquellos plazos mínimos de 30 y 90 días para adquirir títulos de crédito no son aplicables cuando la adquisición corresponda a la recompra de aquellos documentos vendidos con pacto de retrocompra que se señalan en el N° 3 del título III de este Capítulo, ya que en ese caso, como se mencionó anteriormente, el plazo mínimo es de cuatro días hábiles bancarios, tanto para instrumentos reajustables como no reajustables.
+En todo caso, en concordancia con la excepción indicada en la letra b) del N° 1 anterior, aquellos plazos mínimos de 30 y 90 días para adquirir títulos de crédito no son aplicables cuando la adquisición corresponda a la recompra de aquellos documentos vendidos con pacto de retrocompra que se señalan en el N° 3 del título III de este Capítulo, ya que en ese caso, como se mencionó anteriormente, el plazo mínimo es de cuatro días hábiles bancarios, tanto para instrumentos reajustables como no reajustables.
 
 Por otra parte, se entiende que los plazos deben contarse desde la fecha en que el documento fue emitido o transferido por una institución financiera a un tercero, diferente de un banco o sociedad financiera. Para estos efectos, el Banco Central de Chile dispone que las instituciones financieras que cedan o transfieran un documento de su cartera al público deberán endosarlo y estampar la fecha del endoso correspondiente a la contabilización de la operación. Este procedimiento, que por su naturaleza puede alcanzar solamente a los documentos extendidos a la orden, deberá seguirse aunque el endoso previo haya sido en blanco.
 
@@ -1818,7 +1824,7 @@ Las instituciones financieras sólo pueden emitir los siguientes títulos al por
 
 a) Letras de crédito y bonos para ser colocados en el país.
 
-b) Certificados de depósito y bonos para ser colocados en el exterior, en las condiciones establecidas en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+b) Certificados de depósito y bonos para ser colocados en el exterior, en las condiciones establecidas en el Capítulo XIII del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
 3.2.- Transferencia de títulos al portador emitidos en Chile.
 
@@ -1834,7 +1840,7 @@ b) Los siguientes documentos emitidos por el Banco Central de Chile:
 
 - Pagarés Dólar Preferencial (PDP).
 
-- Pagarés y efectos de comercio a que se refería y el Anexo NB 1 del Capítulo XIX, del Título I del Compendio de Normas de Cambios Internacionales.
+- Pagarés y efectos de comercio a que se refería y el Anexo NB 1 del Capítulo XIX del Título I del ex - Compendio de Normas de Cambios Internacionales.
 
 - Pagarés reajustables con pago en cupones (PRC), Capítulo IV.B.8.3 del Compendio de Normas Financieras.
 
@@ -2230,13 +2236,7 @@ Asimismo, no existe inconveniente legal para que dos o más personas abran una c
 
 No existe ninguna disposición que exceptúe a estas cuentas corrientes a nombre de varios titulares, de las normas generales acerca de la sucesión por causa de muerte y de los impuestos que las afectan. Corresponderá, pues, a los titulares sobrevivientes, demostrar las relaciones que los unían con el causante y el origen y dominio del dinero que se encontraba depositado, si desean evitar que se colacione con su patrimonio.
 
-1.6. Cuentas corrientes bancarias de depósito con condiciones especiales.
-
-1.6.1. Cuentas corrientes especiales dispuestas por el Banco Central de Chile.
-
-Las empresas bancarias deben cuidar que las operaciones que se efectúen a través de cuentas corrientes especiales abiertas de conformidad con las disposiciones de las Normas de Cambios Internacionales del Banco Central de Chile, se limiten sólo a los fines establecidos por el Instituto Emisor.
-
-1.6.2. Cuentas corrientes a nombre del partidor de una sucesión.
+1.6. Cuentas corrientes a nombre del partidor de una sucesión.
 
 La sucesión hereditaria no es persona jurídica, razón por la cual no se abren cuentas corrientes bancarias a nombre de las sucesiones, sino de los herederos.
 
@@ -2341,8 +2341,6 @@ Las referidas instrucciones se mantienen vigentes.
 10.- Instrucciones contables.
 
 Los depósitos en cuentas corrientes serán acreditados en la cuenta "Acreedores en cuentas corrientes", de la partida 3005.
-
-No obstante, las cuentas corrientes sujetas a condiciones especiales establecidas en las Normas de Cambios Internacionales del Banco Central de Chile, se reflejarán en la cuenta "Acreedores en cuentas corrientes especiales - normas de cambio", de la misma partida 3005. Los intereses que los bancos pueden pagar sobre cuentas corrientes especiales, de conformidad con las normas del Banco Central de Chile que expresamente los faculten para tal efecto, serán registrados con cargo a la cuenta "Intereses pagados por cuentas corrientes especial es-normas de cambio", de la partida 5105. Mientras no se abonen a la respectiva cuenta corriente, los intereses devengados serán registrados en la cuenta "Intereses por pagar por cuentas corrientes especiales-normas de cambio", de la partida 3820.
 
 Los depósitos por consignaciones judiciales, a que se refiere el artículo 507 del Código Orgánico de Tribunales, se registrarán en la cuenta "Depósitos por consignaciones judiciales artículo 517", de la partida 3010 "Otros saldos acreedores a la vista".
 
@@ -5358,7 +5356,7 @@ Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaci
 
 3.2.- Inversiones y colocaciones en el exterior.
 
-Los bancos podrán deducir de sus obligaciones a plazo afectas a encaje señaladas en, este título; los saldos que mantengan correspondientes a las inversiones financieras y a las colocaciones en el exterior, de que trata la letra B) y la letra C) , respectivamente, del Capítulo III.B.5 del Compendio de Normas Financieras, como asimismo las inversiones en bonos, adquiridos en el exterior, de que trata el último párrafo del punto I de la letra C del Capítulo XII del Título I del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile.
+Los bancos podrán deducir de sus obligaciones a plazo afectas a encaje señaladas en, este título; los saldos que mantengan correspondientes a las inversiones financieras y a las colocaciones en el exterior, de que trata la letra B) y la letra C) , respectivamente, del Capítulo III.B.5 del Compendio de Normas Financieras, como asimismo las inversiones en bonos, adquiridos en el exterior, de que trata el último párrafo del N° 1 de la letra C del Capítulo XII del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile.
 
 Los bancos podrán deducir de las obligaciones a la vista mencionadas en este título, el excedente de deducible que se origine cuando las obligaciones a plazo mencionadas en este título sean inferiores al total del importe deducible por las inversiones y colocaciones en el exterior antes señaladas.
 
@@ -9114,9 +9112,9 @@ AVALES Y FIANZAS.
 
 En general, con excepción de las limitaciones y prohibiciones que se señalan en este mismo Capítulo, las instituciones financieras pueden avalar o afianzar, en forma simple o solidaria, obligaciones expresadas en moneda chilena.
 
-Las empresas bancarias podrán, además, avalar o afianzar obligaciones en moneda extranjera en conformidad con lo establecido en el Capítulo XX del Título I del Compendio de Normas de Cambios Internacionales y en el Capítulo III.1.1 del Compendio de Normas Financieras, del Banco Central de Chile. Las sociedades financieras solamente podrán avalar o afianzar obligaciones expresadas en moneda extranjera cuando sean expresamente autorizadas para ello.
+Las empresas bancarias podrán, además, avalar o afianzar obligaciones en moneda extranjera en conformidad con lo establecido en el Capítulo VIII del Compendio de Normas de Cambios Internacionales y en el Capítulo III.1.1 del Compendio de Normas Financieras, del Banco Central de Chile. Las sociedades financieras solamente podrán avalar o afianzar obligaciones expresadas en moneda extranjera cuando sean expresamente autorizadas para ello.
 
-Las instituciones financieras podrán avalar o afianzar solamente aquellas obligaciones que correspondan a operaciones comerciales o financieras efectivas y conocidas, cuyo monto y plazo estén de antemano perfectamente determinados, y su nesgo haya sido previamente calificado.
+Las instituciones financieras podrán avalar o afianzar solamente aquellas obligaciones que correspondan a operaciones efectivas y conocidas, cuyo monto y plazo estén de antemano perfectamente determinados, y su nesgo haya sido previamente calificado.
 
 En caso de obligaciones en que no es posible determinar de antemano el monto de la obligación avalada o afianzada, como ocurre, a vía de ejemplo, con las obligaciones de pago inherentes a posiciones asumidas en instrumentos derivados, lo anterior se cumplirá limitando la garantía a un monto máximo.
 
@@ -9144,7 +9142,7 @@ Las instituciones financieras no podrán avalar o afianzar obligaciones a cargo 
 
 6.- Avales y fianzas en moneda extranjera.
 
-Las empresas bancarias pueden avalar o afianzar operaciones en moneda extranjera a favor de personas naturales o jurídicas residentes en Chile o en el extranjero, de conformidad con lo dispuesto en el Capítulo XX del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y en su Capítulo III.1.1 antes mencionado.
+Las empresas bancarias pueden avalar o afianzar operaciones en moneda extranjera a favor de personas naturales o jurídicas residentes en Chile o en el extranjero, de conformidad con lo dispuesto en el Capítulo VIII del Compendio de Normas de Cambios Internacionales y en el Capítulo III I 1 del Compendio de Normas Financieras, del Banco Central de Chile.
 
 7.- Límites.
 
@@ -9294,7 +9292,7 @@ favor de terceros, susceptibles de caucionarse mediante este instrumento.
 
 ### 5. Boletas de garantía en moneda extranjera
 
-De conformidad con lo dispuesto en el Capítulo XXI del Título I del Compendio de Normas de Cambios Internacionales, las empresas bancarias pueden emitir boletas de garantía en moneda extranjera con el objeto de caucionar el cumplimiento de obligaciones de hacer, a favor de personas residentes en Chile o en el extranjero.
+Para la emisión de boletas de garantía en moneda extranjera a favor de personas residentes en Chile o en el extranjero, las empresas bancarias deben atenerse a las disposiciones contenidas en el Capítulo III I 1 del Compendio de Normas Financieras y en el Capítulo VIII del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile.
 
 6. Boletas de garantía expresadas en moneda extranjera, pagaderas en moneda chilena.
 
@@ -12784,7 +12782,7 @@ Las instituciones financieras deben tener presente que la emisión de letras de 
 
 respectiva hipoteca se encuentre debidamente inscrita a su favor o que aún no se haya cumplido ese trámite.
 
-De acuerdo a lo establecido en el Capítulo III.B.l del Compendio de Normas Financieras del Banco Central de Chile, las operaciones con emisión de letras de crédito en moneda extranjera deben circunscribirse a aquellas para fines generales y sólo pueden realizarlas los bancos cuyos Directorios, o agentes en el caso de sucursales de bancos extranjeros, hayan establecido políticas relativas a la evaluación del riesgo cambiario de sus deudores y comunicado su adopción a esta Superintendencia.
+De acuerdo a lo establecido en el Capítulo III.B.l del Compendio de Normas Financieras del Banco Central de Chile, las operaciones con emisión de letras de crédito en moneda extranjera sólo pueden realizarlas los bancos cuyos Directorios, o agentes en el caso de sucursales de bancos extranjeros, hayan establecido políticas relativas a la evaluación del riesgo cambiario de sus deudores y comunicado su adopción a esta Superintendencia.
 
 1. - Del prospecto.
 
@@ -18740,90 +18738,6 @@ b) Comisión.
 
 Las comisiones que cobren los bancos por ventas o canjes de cheques viajeros, las que deben ser informadas al público en la forma prevista en las normas de esta Superintendencia sobre compra y venta de divisas, serán acreditadas en la cuenta"Comisiones ganadas cheques viajeros", de la partida 7530.
 
-CAPITULO 13-6 (Bancos)
-
-MATERIA:
-
-VENTA DE DIVISAS AL BANCO CENTRAL DE CHILE CON PACTO DE RECOMPRA.
-
-1.- Venta de moneda extranjera con pacto de recompra.
-
-Los bancos pueden efectuar operaciones de venta de moneda extranjera al Banco Central de Chile, en las condiciones que se convengan de acuerdo con las normas contenidas en el Capítulo IV.E.1 del Compendio de Normas Financieras del Instituto Emisor.
-
-2.- Contratos.
-
-La materialización de estas operaciones se efectúa mediante contratos en los cuales se estipula que la empresa bancaria vende, cede y transfiere al Banco Central de Chile un determinado importe de moneda extranjera al precio que se conviene entre las partes. En el mismo contrato se estipula que la empresa bancaria adquiere el derecho, no la obligación, de recomprar en una fecha futura el mismo importe de las divisas vendidas, al precio que se conviene en ese instrumento. Dichos contratos son suscritos por la respectiva empresa bancaria y el Banco Central de Chile y quedan sujetos a las disposiciones del artículo 47 de la Ley Orgánica Constitucional del Instituto Emisor.
-
-3.- Expiración del derecho a recomprar divisas.
-
-En caso que las empresas bancarias no ejerzan su derecho a recomprar la moneda extranjera convenida en las fechas pactadas para ello en los respectivos contratos, ese derecho expirará.
-
-4.- Instrucciones contables.
-
-4.1.- Venta de divisas.
-
-a) Moneda extranjera.
-
-Debe: "Conversión mercado bancario", de la partida 2505.
-
-Haber: La cuenta que corresponda por la entrega de las divisas vendidas.
-
-b) Moneda chilena.
-
-Debe: - La cuenta que corresponda por la recepción del equivalente de las
-
-divisas vendidas.
-
-- "Diferencia por derecho a recomprar divisas al Banco Central", de la partida 2120, por la diferencia entre el menor valor pagado por el Banco Central de Chile en relación con el valor de las divisas calculado al tipo de cambio vigente en el mercado al contado.
-
-Haber: -"Cambio mercado bancario", de la partida 4505, por el equivalente de las divisas calculado al tipo de cambio vigente en el mercado al contado.
-
-- "Mayor precio obtenido por divisas vendidas con derecho a recompra", de la partida 4120, si el valor pagado por el Banco Central de Chile fuera mayor que el de mercado.
-
-Los importes registrados en la cuentas "Diferencia por derecho a recomprar divisas al Banco Central" y "Mayor precio obtenido por divisas vendidas con derecho a recompra" antes mencionadas, se traspasarán a resultados durante la vigencia del respectivo contrato, en forma proporcional al tiempo transcurrido, cargándose la cuenta "Gastos por derecho a recomprar divisas al Banco Central" de la partida 5530, o acreditándose la cuenta "Beneficios por divisas vendidas con pacto de recompra" de la partida 7530.
-
-4.2.- Derecho a adquirir divisas.
-
-a) Por el importe de los contratos en la respectiva moneda extranjera.
-
-Debe: "Divisas por recomprar al Banco Central", por el importe de divisas que se tenga derecho a adquirir, de la partida 2127.
-
-Haber: "Contratos a futuro", de la partida 4525.
-
-b) Por el contravalor en moneda chilena de los contratos.
-
-Debe: "Contratos a futuro"
-
-Haber: "Contravalor de divisas por recomprar al Banco Central", de la partida 4127, por el precio pactado para la recompra.
-
-Los importes registrados en las cuentas mencionadas en este numeral se revertirán al extinguirse o ejercerse el derecho a recomprar divisas.
-
-4.3.- Ejercicio del derecho a adquirir divisas.
-
-a) Moneda extranjera.
-
-Debe: La cuenta que corresponda por la recepción de las divisas recompradas.
-
-Haber: "Conversión mercado bancario".
-
-b) Moneda chilena.
-
-Debe: "Cambio mercado bancario", por el equivalente de las divisas recompradas, calculado al tipo de cambio vigente en el mercado al contado.
-
-Haber: - La cuenta que corresponda por el desembolso para efectuar el pago de la moneda extranjera adquirida. "Utilidades por recompra de divisas al Banco Central", de la partida 7710.
-
-4.4.- Ajuste por variación del tipo de cambio.
-
-El último día de cada mes, las instituciones bancarias procederán a determinar, provisionalmente, las diferencias que resulten sobre los contratos que hayan celebrado, con el objeto de efectuar el registro correspondiente. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hayan contabilizado en el mes precedente.
-
-Dicho ajuste se registrará en pesos moneda chilena, con cargo a la cuenta "Variación provisional de derechos de recompra de divisas al Banco Central", de la partida 2127 y abono a "Utilidades por derechos de recompra de divisas al Banco Central", de la partida 7710.
-
-El ajuste corresponderá exclusivamente a la diferencia que resulte, para cada contrato, entre el tipo de cambio pactado para ejercer el derecho a recomprar divisas y el tipo de cambio observado, en la fecha del ajuste, y sólo se registrará en caso de que éste sea superior a aquél, antes de que ese derecho expire o se ejerza.
-
-5.- Otras instrucciones.
-
-El derecho a recomprar divisas del Banco Central de Chile se considerará dentro de los importes a que se refiere la letra E) del N° 1 del título II del Capítulo 12-1 de esta Recopilación de Normas, para los efectos de determinar el activo total de la institución en relación con la exigencia de capital básico, así como se considerará también en las demás disposiciones correspondientes a instrumentos derivados.
-
 CAPITULO 13-13 (Bancos)
 
 MATERIA:
@@ -18832,7 +18746,7 @@ PRESTAMOS Y CAPTACIONES DEL EXTERIOR PARA OTORGAR CREDITOS EN MONEDA CHILENA. CA
 
 1. - Facultad de los bancos para internar créditos, depósitos y captaciones del exterior para otorgar préstamos en pesos.
 
-Las normas establecidas en el Capítulo V.B.1 del Compendio de Normas Financieras del Banco Central de Chile, autorizan a los bancos para contratar créditos externos y recibir depósitos y captaciones del exterior, a plazo fijo e internarlos al amparo de las disposiciones del Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales, con el objeto de otorgar, con el producto de su liquidación, préstamos en moneda chilena.
+Las normas establecidas en el Capítulo V.B.1 del Compendio de Normas Financieras del Banco Central de Chile, autorizan a los bancos para contratar créditos externos y recibir depósitos y captaciones del exterior, a plazo fijo e internarlos al amparo de las disposiciones del Capítulo XIII del Compendio de Normas de Cambios Internacionales, con el objeto de otorgar, con el producto de su liquidación, préstamos en moneda chilena.
 
 2.- Préstamos en moneda chilena.
 
@@ -18875,80 +18789,6 @@ Los ingresos y gastos por concepto de intereses correspondientes a las operacion
 3.4.- Ajuste de la cuenta "Cambio Créditos Externos-V.B.1 CNF".
 
 El saldo de la cuenta "Cambio Créditos Externos- V.B.1 CNF" deberá ajustarse al cierre de cada mes en la forma prevista en el Capítulo 13-30 de esta Recopilación, de tal manera que ésta refleje el equivalente en pesos del saldo de su respectiva cuenta "Conversión", calculado al tipo de cambio de representación contable.
-
-CAPITULO 13-14 (Bancos)
-
-MATERIA:
-
-PRESTAMOS EN MONEDA CHILENA CON CARGO A RECURSOS EN MONEDA EXTRANJERA. CAPITULO V.B.2 CNF.
-
-1.- Generalidades.
-
-En conformidad con las normas del Banco Central de Chile, contenidas en el Capítulo V.B.2 del Compendio de Normas Financieras, las empresas bancarias pueden otorgar préstamos en moneda chilena con recursos en moneda extranjera provenientes de depósitos a plazo constituidos por personas naturales o jurídicas.
-
-2.- Documentación de los préstamos.
-
-Los préstamos de que se trata, se documentarán mediante la suscripción de pagaré o aceptación de letra de cambio y podrán pactarse en pesos nominales, con cláusula de reajustabilidad según la variación de la unidad de fomento o bien expresados en moneda extranjera y pagaderos en pesos. Para los efectos del otorgamiento y pago de estos últimos, debe utilizarse el tipo de cambio vendedor de la empresa, vigente en la fecha en que se concede y se paga, respectivamente.
-
-3.- Liquidación y recuperación de las divisas.
-
-Los bancos se procurarán los recursos para otorgar estos préstamos mediante la liquidación del importe necesario de moneda extranjera.
-
-Por otra parte, los bancos tienen acceso al mercado cambiario formal para adquirir la moneda extranjera que hayan liquidado para otorgar los préstamos. Esas adquisiciones se efectuarán con los importes pagados por los deudores de los mismos. En el evento de que no se obtuviere la recuperación de todo o parte de algún crédito, el acceso se hará efectivo por el monto equivalente a su castigo.
-
-4.- Instrucciones contables.
-
-4.1.- Préstamos documentados en moneda extranjera.
-
-Los créditos expresados en moneda extranjera se registrarán de la siguiente forma:
-
-a) Moneda extranjera.
-
-Debe: - La cuenta de colocación que corresponda.
-
-- "Divisas liquidadas-V.B.2 CNF", de la partida 9470 por el importe liquidado.
-
-Haber: - "Conversión Mercado Bancario", de la partida 2505 ó 4505.
-
-- La cuenta de orden de la partida 9900.
-
-b) Moneda chilena.
-
-Debe: "Cambio Mercado Bancario" de la partida 2505 ó 4505, por el equivalente de la moneda extranjera liquidada.
-
-Haber: "Caja" o la cuenta que corresponda por la entrega de la moneda chilena al usuario.
-
-Al producirse el pago de los créditos, corresponde efectuar una contabilización inversa a la señalada precedentemente, debiendo el banco adquirir nuevamente la moneda extranjera liquidada.
-
-Por tratarse de colocaciones expresadas en moneda extranjera y pagaderas en pesos, los intereses devengados por las colocaciones deben registrarse en moneda chilena.
-
-4.2.- Préstamos documentados en moneda chilena.
-
-Los créditos documentados en moneda chilena se registrarán de la siguiente forma, incluyendo la correspondiente liquidación de las divisas:
-
-a) Moneda extranjera.
-
-Debe: - "Conversión recursos propios-V.B.2 CNF", de la partida 2510.
-
-- "Divisas liquidadas-V.B.2 CNF" por la moneda extranjera liquidada.
-
-Haber: - "Conversión Mercado Bancario", por el importe liquidado.
-
-- La cuenta de orden de la partida 9900.
-
-b) Moneda chilena.
-
-Debe: "Cambio Mercado Bancario", por el equivalente de la moneda extranjera liquidada.
-
-La cuenta de colocaciones que corresponda.
-
-Haber: "Cambio recursos propios-V.B.2 CNF", de la partida 4510.
-
-"Caja" o la cuenta que corresponda por la entrega de la moneda chilena al usuario.
-
-En el pago de los créditos se efectuará una contabilización inversa a la señalada, reflejando el importe recibido en moneda chilena y la correspondiente adquisición de las divisas.
-
-El saldo de la cuenta "Cambio recursos propios-V.B.2 CNF" deberá ajustarse al cierre de cada mes en la forma prevista en el Capítulo 13-30 de esta Recopilación, de tal manera que ésta refleje el equivalente en pesos del saldo de su respectiva cuenta "Conversión", calculado al tipo de cambio de representación contable.
 
 CAPITULO 13-27 (Bancos)
 
