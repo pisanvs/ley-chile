@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 501, de fecha 30 de abril de 2002, se expropiaron los lotes de terreno Nºs 126 y 128, superficies 79 M2 y 39 M2, respectivamente, rol de avalúo 206-161, comuna de Coelemu, VIII Región, para la obra ''Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 al 8,28000'', y se acordó el valor de indemnización con su propietaria doña María Eujenia Quezada Reyes, ascendente a la cantidad de $329.920.-
+
+Fiscal del Ministerio de Obras Públicas.
