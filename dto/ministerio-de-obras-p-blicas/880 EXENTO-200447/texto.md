@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº880 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº98, superficie 51 m², Rol de Avalúo Nº509-79, comuna de Longaví, para la obra ''Camino Ruta L-49, cruce Long. - Mesamavida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12'', VII Región y se acordó el valor de indemnización con su propietario Francisco Solano Norambuena Valdés, ascendente a la cantidad de $421.058.-
+
+Fiscal del Ministerio de Obras Públicas.
