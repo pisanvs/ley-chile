@@ -1,0 +1,3 @@
+Por Resolución N° 343, de 19 de Febrero de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción deniégase la solicitud de concesión de acuicultura presentada por RODRIGO MARCELO MEDINA QUEZADA, para un centro de cultivo ubicado en Canal Yal, Comuna de Chonchi, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo N° 78°, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 19 de Febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
