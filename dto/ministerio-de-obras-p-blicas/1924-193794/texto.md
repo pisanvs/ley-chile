@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.924 de fecha 22 de noviembre de 2001, se expropió el lote de terreno Nº45, superficie 2.998 m2, rol de avalúo Nº187-97, comuna de San Vicente, para la obra "Proyecto Mejoramiento Ruta H-830, Sector San Vicente-El Cardal-Millahue, Tramo Km. 0,000 al Km 8,622", VI Región, y se acordó el valor de la indemnización con su propietario Carlos Octavio Barros Moraga, ascendente a la cantidad de $5.788.262.
+
+- Fiscal del Ministerio de Obras Públicas.
