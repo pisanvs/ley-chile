@@ -1,0 +1,3 @@
+ENTIDADES RELIGIOSAS DE DERECHO PUBLICO
+
+"Comunidad de Cristo". Complemento a publicación 4 mayo 2002: 1. Organos de Administración: Compuesto por Ministros del Sacerdocio por inspiración y voto de Iglesia, resoluciones por común acuerdo, declaramos que el Gobierno de la Iglesia es una Democracia Teocrática. Escritura repertorio 765-2001 Notaría Rubén Galecio, Moneda 1356 Santiago. Gustavo Vergara, Representante Legal.
