@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 3895, 28 octubre 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle 8 Oriente Nº 141 A, Recinto Machasa, Rol de Avalúo Nº2757-5, comuna Chiguayante, superficie 11,60 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R 16.557 M, de aparente dominio de María Norma Lagos Arzola, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por Leonardo Fasce Casanueva, arquitecto, Cecilia Carrasco Verdugo, arquitecto y Claudia Marzullo García, arquitecto, según informe de fecha 29 de septiembre 2004, fijó monto provisional indemnización en $631.008.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
