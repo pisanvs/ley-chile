@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.138 de 30 de noviembre de 2004, se expropiaron los lotes de terrenos Nºs. 73, 75, 77 y 78, superficies 2.517, 270, 7.247 y 3.019 m2. respectivamente, rol de Avalúo 165-39, comuna de Fresia, para la obra "Mejoramiento Ruta V.46, sector Tegualda - Fresia, Tramo 2, Km. 1,90990 15,88000", X Región y se acordó el valor de la indemnización con José Eustaquio Noriega Martínez, ascendente a la cantidad de $6.138.435.
+
+Fiscal del Ministerio de Obras Públicas.
