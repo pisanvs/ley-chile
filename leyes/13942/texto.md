@@ -1,0 +1,1 @@
+Transfiere al Servicio Nacional de Salud los terrenos fiscales que indica, ubicados en la ciudad de Cañete.
