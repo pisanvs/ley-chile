@@ -1,0 +1,3 @@
+Por Resolución Nº 105, de 22 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución Nº 1720, de 1995 de esta Subsecretaría, que autorizó a JORGE ROBERTO IGNACIO HEUSER PUSCHEL, para operar un centro de cultivo ubicado en el sector Millantué, localidad de Riachuelo, comuna de Río Negro, provincia de Osorno, X Región, conforme lo dispuesto en el artículo 142, letra e) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 22 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
