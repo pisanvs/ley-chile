@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.970 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 224-1, superficie 3.799,0 m²., rol de avalúo 161-40, comuna de Lanco, para la obra ''Concesión Internacional Ruta 5 Tramo: Temuco-Río Bueno, Km. 769,55000 a Km. 773,52170'' y se acordó el valor de indemnización con su propietario Sergio Renato Pino Navarrete, ascendente a la cantidad de $8.064.551.-
+
+Fiscal del Ministerio de Obras Públicas.
