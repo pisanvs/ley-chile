@@ -1,0 +1,3 @@
+Por decreto MOP Nº 102 de 31 de enero de 2002, se expropió el lote de terreno Nº 39, superficie 665 m², rol de avalúo 107-387, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso Viña del Mar Tramo 6C2: Kms 41.853,56 al 45.680,00, Región Metropolitana y se acordó el valor de indemnización con su propietaria Eliana del Carmen Muñoz, ascendente a la cantidad de $8.874.238.-.
+
+Fiscal del Ministerio de Obras Públicas.
