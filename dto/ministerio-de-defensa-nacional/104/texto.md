@@ -354,9 +354,11 @@ Los socios que paguen fianzas por préstamos habitacionales insolutos no quedar�
 
 Los préstamos habitacionales son incompatibles entre sí, y, con relación a los de auxilio, cualquiera fuere su causa, son compatibles hasta con dos de ellos, siempre que la suma de éstos no implique la cancelación de un dividendo superior al 25% del alcance líquido mensual del socio.
 
-#### Artículo 39º
+#### Artículo 39°
 
-Los préstamos habitacionales devengarán un interés anual de un 6%, situación que no podrá dejar de considerarse por ninguna causal.
+Las sumas que se coloquen por los préstamos habitacionales, se reducirán a Unidades de Fomento (UF) al valor que tengan a la fecha de la entrega que tenga el dinero. Su devolución se hará igualmente en Unidades de Fomento, según el valor que estas tengan a la fecha del pago del crédito, devengando un interés del 4% anual. Todo ello de acuerdo a lo dispuesto en el inciso 1° del artículo 3°, de la Ley N° 18.010.
+
+El valor de la Unidad de Fomento (U.F.), para los efectos ya señalados, será el que determine la Superintendencia de Bancos e Instituciones Financieras de acuerdo en artículo 4° de la Ley N° 18.010.
 
 #### Artículo 40º
 
@@ -457,6 +459,8 @@ Los préstamos de auxilio otorgados de conformidad al artículo 46º se conceder
 #### Artículo 54º
 
 En casos de emergencia o necesidad inmediata el socio podrá solicitar préstamos extraordinarios de auxilio, adjuntando los antecedentes que justifiquen su petición, a fin de que el H. Consejo, conforme a lo establecido en el artículo 10º, N° 13), califique la urgencia, monto y forma de reintegro del beneficio.
+
+Si el plazo de devolución del préstamo otorgado conforme al presente artículo es superior a un año, su servicio se ajustará a lo dispuesto en el artículo 39° de este reglamento
 
 #### Artículo 55º
 
