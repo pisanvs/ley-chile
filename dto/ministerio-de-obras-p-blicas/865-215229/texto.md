@@ -1,0 +1,3 @@
+Por decreto MOP Nº865, de 29 de agosto de 2003, se expropiaron los lotes de terrenos Nºs 99-A y 99-C, superficies 1.650 m2. y 750 m2., rol de avalúo 485-19, comuna de Cauquenes, para la obra Camino Mejoramiento Ruta 126 Los Conquistadores Sector 2: Carrizal-Puente Belco. Tramo Km. 23,38000 a Km. 41,26600, Séptima Región y se acordó el valor de indemnización con su propietario Víctor Manuel Valladares Monsalve, ascendente a la cantidad total de $934.183.
+
+- Fiscal del Ministerio de Obras Públicas.
