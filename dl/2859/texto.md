@@ -1,0 +1,461 @@
+FIJA LEY ORGANICA DE GENDARMERIA DE CHILE Núm. 2.859.- Santiago, 12 de Septiembre de 1979.- Vistos: Lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976.
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+LEY ORGANICA DE GENDARMERIA DE CHILE
+
+## Título I
+
+De la Naturaleza y Objetivo de Gendarmería
+
+#### Artículo 1°
+
+Gendarmería de Chile es un Servicio Público dependiente del Ministerio de Justicia, que tiene por finalidad atender, vigilar y contribuir a la reinserción social de las personas que por resolución de autoridades competentes, fueren detenidas o privadas de libertad y cumplir las demás funciones que le señale la ley.
+
+#### Artículo 2°
+
+Gendarmería de Chile, en razón de sus fines y naturaleza, es una institución jerarquizada, disciplinada, obediente y su personal estará afecto a las normas que establezcan el estatuto legal respectivo y el reglamento de disciplina que dictará el Presidente de la República.
+
+El personal de Gendarmería de Chile estará constituido por:
+
+a) El personal perteneciente a las Plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes.
+
+b) El personal perteneciente a la Planta de Directivos.
+
+c) El personal de las Plantas de Profesionales Funcionarios regidos por la ley N° 15.076, el de Profesionales, de Técnicos, de Administrativos y de Auxiliares, y el de los funcionarios a contrata asimilados a las mismas.
+
+El personal señalado en el literal a) del inciso anterior estará afecto al estatuto de carácter especial a que hace mención la letra d) del artículo 162 del decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo.
+
+En tanto el personal señalado en los literales b) y c) del inciso segundo estará afecto a las disposiciones del decreto con fuerza de ley N° 1, de 2001, del Ministerio de Salud, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.076 o del decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo, según corresponda.
+
+Mientras se encuentre vigente el escalafón de Oficiales Administrativos Penitenciarios, en virtud de lo establecido en el artículo 38 de la ley N° 19.269, constituirá un escalafón especial en extinción perteneciente a la planta de Suboficiales y Gendarmes.
+
+#### Artículo 3°
+
+Corresponde a Gendarmería de Chile:
+
+a) Dirigir todos los establecimientos penales del país, aplicando las normas previstas en el régimen penitenciario que señala la ley y velar por la seguridad interior de ellos. Además, deberá estar a cargo de la seguridad perimetral de los centros del Servicio Nacional de Reinserción Social Juvenil para la internación provisoria y el cumplimiento de las sanciones privativas de libertad de los adolescentes por infracción de ley penal.
+
+b) Cumplir resoluciones emanadas de autoridad competente, relativas al ingreso y a la libertad de las personas sometidas a su guarda, sin que le corresponda calificar el fundamento, justicia o legalidad de tales requerimientos;
+
+c) Recibir y poner a disposición del tribunal competente los imputados conforme a lo dispuesto en el Código Procesal Penal y leyes especiales;
+
+d) Colaborar en la vigilancia de los Centros del Servicio Nacional de Reinserción Social Juvenil para adolescentes que se encuentran en internación provisoria o con sanción privativa de libertad, realizando las siguientes funciones:
+
+1. Ejercer la vigilancia y custodia perimetral permanente de los centros privativos de libertad.
+
+2. Controlar el ingreso al centro.
+
+3. Colaborar en el manejo de conflictos al interior de los centros, tales como fugas, motines y riñas.
+
+4. Asesorar a los funcionarios del Servicio Nacional de Reinserción Social Juvenil en el manejo de conflictos internos y de la seguridad en general.
+
+5. Realizar los traslados de los adolescentes a tribunales y a otras instancias externas de acuerdo a solicitudes de la autoridad competente.
+
+e) Custodiar y atender a las personas privadas de libertad en las siguientes circunstancias:
+
+1.- Mientras permanezcan en los establecimientos penales.
+
+2.- Durante las salidas autorizadas con vigilancia por orden emanada de los tribunales o autoridad administrativa competente.
+
+3.- A los egresados de los recintos carcelarios en los casos que la ley determine.
+
+f) Contribuir a la reinserción social de las personas privadas de libertad, mediante la ejecución de acciones tendientes a eliminar su peligrosidad y lograr su reintegración al grupo social;
+
+g) Asistir en el medio libre a las personas que accedan al mismo por encontrarse cumpliendo condenas o por otra causa legal, en las condiciones que señalen los reglamentos;
+
+h) Resguardar la seguridad interna de los recintos donde funcionan el Ministerio de Justicia, la Corte Suprema y en general los Tribunales de Justicia que determine el Presidente de la República por decreto supremo, sin perjuicio de las atribuciones de las fuerzas de orden.
+
+i) Contratar, directamente, el planeamiento, estudio, proyección, construcción, ampliación, reparación y conservación de los inmuebles donde funcionen los establecimientos penitenciarios del país, cualquiera sea el monto que la ejecución de dichas obras importe, y
+
+j) Administrar el dispositivo de monitoreo telemático, de conformidad a lo dispuesto en la ley Nº 18.216 y el reglamento respectivo, y en la ley que "Establece monitoreo telemático en las leyes Nº 20.066 y Nº 19.968" y su reglamento.
+
+El régimen penitenciario es incompatible con todo privilegio o discriminación arbitraria, y sólo considerará aquellas diferencias exigidas por políticas de segmentación encaminadas a la reinserción social y a salvaguardar la seguridad del imputado y condenado y de la sociedad.
+
+> **Nota.** El artículo 1º Transitorio de la LEY 20084, publicada el 07.12.2005, dispone que las modificaciones que introduce a la presente norma rigen dieciocho meses después de su publicación.
+
+## Título II
+
+De la Estructura Orgánica
+
+#### Artículo 4°
+
+Gendarmería de Chile se organizará en una Dirección Nacional y Direcciones Regionales.
+
+La Dirección Nacional organizará su trabajo a través de la Subdirección de Administración y Finanzas, la Subdirección de Reinserción Social, la Subdirección Operativa y la Escuela de Gendarmería de Chile del General Manuel Bulnes Prieto, en adelante la Escuela de Gendarmería.
+
+En cada región del país existirá una Dirección Regional, a cargo de un Director Regional que será de la exclusiva confianza del Director Nacional. Las Direcciones Regionales organizarán su trabajo a través de las sedes que señale el reglamento orgánico que estará contenido en un decreto supremo expedido por medio del Ministerio de Justicia, el que deberá ser también suscrito por el Ministro de Hacienda.
+
+El Director Nacional, con sujeción a la planta y dotación máxima de personal que se fije a Gendarmería de Chile, establecerá la restante organización interna de la misma y asignará las tareas específicas que le correspondan a cada unidad, de acuerdo a lo establecido en los artículos 31 y 32 del decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.575.
+
+#### Artículo 5°
+
+A la Dirección Nacional le corresponderá la dirección superior, técnica, operativa y administrativa de Gendarmería de Chile, cuya jefatura será ejercida por el Director Nacional quien poseerá la máxima autoridad de la institución.
+
+El Director Nacional será nombrado por el Presidente de la República y permanecerá en el cargo mientras cuente con su confianza.
+
+El Director Nacional será subrogado en caso de ausencia o impedimento, en primer lugar, por el Subdirector Operativo, y en caso de ausencia de éste, la subrogación operará de acuerdo a lo que señale el reglamento orgánico.
+
+#### Artículo 6°
+
+Son obligaciones y atribuciones del Director Nacional.
+
+1.- Dirigir y administrar el servicio.
+
+2.- Planificar, coordinar y controlar el funcionamiento de la Institución conforme a las políticas fijadas por el Gobierno y generar un plan de acción institucional.
+
+3.- Asesorar o informar al Ministerio de Justicia en los asuntos de competencia de Gendarmería de Chile.
+
+4.- Proponer a la referida Secretaría de Estado los reglamentos necesarios para el desarrollo institucional.
+
+5.- Generar un plan de comunicaciones coherente y estratégico para el Servicio.
+
+6.- Ejercer el control sobre la gestión global de la Institución, disponiendo las auditorías que correspondan.
+
+7.- Disponer los estudios necesarios para el desarrollo y ejecución de las políticas penitenciarias.
+
+8.- Nombrar a las personas que ocuparán los cargos vacantes de conformidad con las normas de personal del estatuto respectivo.
+
+9.- Designar, destinar, trasladar al personal y disponer las comisiones de servicios dentro del país de los funcionarios de la institución, de acuerdo a sus cargos y disposiciones legales y reglamentarias.
+
+10.- Dictar las resoluciones e impartir las instrucciones necesarias tendientes a obtener un adecuado funcionamiento del Servicio.
+
+11.- Celebrar los contratos y ejecutar todos los actos que fueren necesarios para el cumplimiento de los fines institucionales de conformidad a las normas legales y reglamentarias vigentes.
+
+12.- Determinar los establecimientos en que los condenados cumplirán sus penas y disponer los traslados de ellos de acuerdo con la reglamentación vigente.
+
+13.- Disponer y señalar el establecimiento donde los detenidos e imputados deben permanecer privados de libertad, recabando la autorización del juez competente cuando deban salir del territorio jurisdiccional del tribunal de la causa.
+
+14.- Administrar los bienes y recursos de la institución, velando por su buen uso y su conservación, de acuerdo a las normas legales que rigen la materia.
+
+15.- Fijar los horarios y turnos de trabajo que debe cumplir el personal, para lo cual determinará los descansos o franquicias compensatorias de acuerdo a las necesidades del servicio.
+
+16.- Ordenar la instrucción de sumarios o investigaciones sumarias, y aplicar las medidas disciplinarias, que corresponda, de acuerdo a la ley y reglamentos.
+
+17.- Resolver sobre la adquisición y venta de los bienes muebles a que se refiere el artículo 18 de este cuerpo legal, en la forma allí dispuesta.
+
+18.- Delegar en los Subdirectores, los Jefes de Departamentos y los Directores Regionales, las atribuciones que estime necesarias para el mejor funcionamiento del Servicio.
+
+19.- Designar abogados para que presten asistencia jurídica al personal de la Institución en casos calificados relacionados con actos del servicio.
+
+20.- Deducir querella de conformidad al artículo 111 del Código Procesal Penal, cuando se refiera a hechos que revistan caracteres de delito, tales como:
+
+a) Aquellos contemplados en los artículos 15 A,15 B,15 C y 15 D de este decreto ley;
+
+b) Aquellos en que se afectaren gravemente los bienes de la Institución, especialmente de los delitos de daño e incendio;
+
+c) Aquellos cometidos por funcionarios de la Institución en el ejercicio de sus cargos, de conformidad con lo previsto en el Título V, Libro II del Código Penal, o
+
+d) Aquellos que afectaren gravemente la continuidad del Servicio, poniendo en riesgo la integridad de los funcionarios o de la población atendida.
+
+21.- Proponer anualmente al Ministerio de Justicia, el proyecto de presupuesto de Gendarmería de Chile.
+
+22.- Aprobar los cursos de formación de los Oficiales Penitenciarios y de los Suboficiales y Gendarmes, que impartirá la Escuela de Gendarmería de Chile.
+
+23.-. Establecer los programas de capacitación y de perfeccionamiento, necesarios para que se cumplan los requisitos para la promoción que establezcan los estatutos de personal respectivos. Para los efectos de desarrollo de estos programas, el Director Nacional celebrará, previa licitación pública, convenios con universidades o institutos profesionales reconocidos por el Estado u otras entidades públicas o privadas, con reconocida experiencia en materias propias para el cumplimiento de las funciones y necesidades institucionales.
+
+24.- Velar por el cumplimiento de las normas aplicables a Gendarmería de Chile, en especial por la observancia del principio de probidad funcionaria al interior de la Institución.
+
+25.- Ejercer las demás atribuciones que ésta u otras leyes le confieran.
+
+#### Artículo 6 bis
+
+Para efectos de lo dispuesto en el numeral 19 del artículo precedente, existirá una "Unidad de Defensa Funcionaria".
+
+#### Artículo 7°
+
+La Subdirección de Administración y Finanzas estará encargada de velar por la eficaz, eficiente y oportuna gestión de los recursos humanos, financieros y materiales de Gendarmería de Chile a objeto de lograr un adecuado funcionamiento de la Institución.
+
+Esta Subdirección tendrá las siguientes funciones:
+
+a) Administrar y ocuparse del desarrollo del recurso humano de la Institución.
+
+b) Gestionar y administrar los bienes y servicios que la Institución requiera.
+
+c) Asesorar y estudiar las materias relacionadas con la legislación y reglamentación institucional.
+
+d) Estudiar, desarrollar y ejecutar proyectos de arquitectura, estructuras y especialidades de la infraestructura penitenciaria en la administración directa y concesionada.
+
+e) Administrar y desarrollar las redes, sistemas informáticos y computacionales que apoyen la gestión del Servicio.
+
+f) Supervisar financiera y contablemente los servicios prestados en los establecimientos concesionados y de los proyectos de reinserción social.
+
+g) Dirigir, controlar y administrar el sistema de información financiero contable de la Institución.
+
+h) Procesar el sistema de remuneraciones del personal del Servicio.
+
+La Jefatura de esta Subdirección será asumida por el Subdirector de Administración y Finanzas quien será designado por el Director Nacional, de conformidad con lo dispuesto en el Título VI de la ley N° 19.882.
+
+#### Artículo 8°
+
+La Subdirección de Reinserción Social estará encargada de desarrollar los programas y proyectos institucionales tendientes a la reinserción social de las personas atendidas en los distintos sistemas, velando por el mejoramiento permanente del régimen penitenciario.
+
+Esta Subdirección tendrá las siguientes funciones:
+
+a) Desarrollar y gestionar las actividades de educación, trabajo, deportes, recreación, asistencia social, psicológica, sanitaria, religiosa y demás conducentes a la reinserción social de las personas atendidas en el sistema cerrado de los establecimientos penales con administración directa.
+
+b) Supervisar técnicamente los servicios que se prestan en los establecimientos concesionados.
+
+c) Ejercer el control y gestionar los programas de atención y asistencia de los condenados que cumplan penas sustitutivas a la reclusión.
+
+d) Gestionar los planes y programas de asistencia de las personas que habiendo cumplido sus condenas, requieran de apoyo para su reinserción social.
+
+e) Diseñar, supervisar y controlar técnicamente los programas y proyectos que se adjudiquen para el apoyo de la reinserción social en los diferentes sistemas.
+
+f) Generar y mantener bases de datos estadísticos de la población privada de libertad y que cumpla una de las penas sustitutivas establecidas en la ley N° 18.216, relativas a sus características socioeconómicas, el quebrantamiento de la pena, la reincidencia luego del cumplimiento de la condena, y todas aquellas que establezcan otras leyes y reglamentos.
+
+La Jefatura de esta Subdirección será asumida por el Subdirector Técnico quien será designado por el Director Nacional, de conformidad con lo dispuesto en el Título VI de la ley N° 19.882.
+
+#### Artículo 8°
+
+A.- La Subdirección Operativa estará encargada de implementar las políticas institucionales destinadas al fortalecimiento de la seguridad de los establecimientos penitenciarios del país.
+
+Esta Subdirección tendrá las siguientes funciones:
+
+a) Asesorar, controlar y coordinar las acciones relativas a la seguridad penitenciaria y de los bienes y recursos que Gendarmería de Chile ha asignado a los distintos establecimientos penitenciarios del país.
+
+b) Velar por el adecuado diseño, ejecución, desarrollo y control de los proyectos de seguridad electrónica, en los establecimientos penitenciarios.
+
+c) Asesorar, controlar y coordinar las acciones relativas a la persecución y prevención del surgimiento y operación de asociaciones delictivas o criminales.
+
+La Jefatura de esta Subdirección será asumida por el Subdirector Operativo, que será un funcionario de exclusiva confianza del Director Nacional y será nombrado de entre los Oficiales Penitenciarios titulares del cargo de Coronel que se encuentren entre las cinco primeras antigüedades de dicho grado.
+
+Si como resultado del nombramiento del Subdirector Operativo, se alterare el orden de precedencia de los coroneles que cumplen los requisitos para ser nombrados en dicho cargo, deberá llamarse a retiro a aquellos coroneles que antecedan a aquel que fue nombrado en el cargo de Subdirector Operativo.
+
+#### Artículo 9°
+
+Los Subdirectores, cada uno en su ámbito de competencia, tendrán las atribuciones que siguen:
+
+1.- Dictar las normas de funcionamiento de las Unidades a su cargo y controlar su cumplimiento, sin perjuicio de las facultades del Director Nacional.
+
+2.- Dirigir y coordinar los trabajos de planificación y programación institucional y someterlos a la aprobación del Director Nacional.
+
+3.- Tomar conocimiento de las materias que determine el Director Nacional, disponer su estudio y proponer soluciones al respecto.
+
+4.- Proponer al Director Nacional las directrices y órdenes necesarias para la realización de los planes, programas y proyectos institucionales.
+
+5.- Velar por el cumplimiento de las directrices, órdenes e instrucciones impartidas por el Director Nacional.
+
+6.- Mantener informado al Director Nacional acerca del funcionamiento de las Unidades de su dependencia, y
+
+7.- Cumplir con las funciones que le sean delegadas por el Director Nacional.
+
+INCISO SEGUNDO DEROGADO.
+
+#### Artículo 10
+
+Corresponderá a la Escuela de Gendarmería de Chile, reclutar, seleccionar y formar al personal que ingrese a la Plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes, según lo disponga el estatuto respectivo.
+
+Asimismo, la Escuela de Gendarmería se ocupará de desarrollar los programas de capacitación, perfeccionamiento y exámenes habilitantes necesarios para el ascenso que se establecen en el decreto con fuerza de ley N° 1.791, de 1980, del Ministerio de Justicia. Para tal efecto, podrá celebrar, previa licitación pública, convenios con universidades o institutos profesionales reconocidos por el Estado u otras entidades públicas o privadas con reconocida experiencia en materias propias para el cumplimiento de las funciones y necesidades institucionales.
+
+Las horas de clases que se impartan directamente en la Escuela de Gendarmería de conformidad a lo dispuesto en los incisos precedentes, serán remuneradas sobre la base de honorarios. Sus valores serán determinados mediante resolución del Director Nacional, la que deberá ser visada por la Dirección de Presupuestos.
+
+#### Artículo 11
+
+Derogado.
+
+#### Artículo 12
+
+Las Direcciones Regionales estarán encargadas de la conducción administrativa, técnica y operativa de Gendarmería de Chile en la región.
+
+Los Coroneles pertenecientes a la Planta de Oficiales Penitenciarios podrán ser destinados por el Director Nacional de Gendarmería de Chile a las Direcciones Regionales para desempeñar funciones de Director Regional. En caso que el personal destinado no pueda ejercer, por cualquier causa, dichas funciones, éstas serán desempeñadas por el Oficial que les suceda en antigüedad y grado en la región.
+
+El término de la destinación a que se refiere el inciso anterior, no alterará el nombramiento, en calidad de titular de los funcionarios que fueron objeto de ella.
+
+Los Directores Regionales tendrán, entre otras, las siguientes funciones:
+
+a) Supervisar y controlar el funcionamiento administrativo-financiero de la Dirección Regional y de las Unidades Penales y Especiales que de ella dependan;
+
+b) Velar por el eficaz desempeño del personal a su cargo y por la adecuada administración del presupuesto;
+
+c) Comunicar al Director Nacional las necesidades presupuestarias de la Dirección Regional y de las Unidades Penales y Especiales que de ella dependan, y
+
+d) Supervisar y controlar los programas y proyectos de reinserción social en establecimientos penitenciarios de administración directa, concesionados y aquellos del medio libre.
+
+#### Artículo 12
+
+A.- En Gendarmería de Chile el mando corresponde por naturaleza al Oficial Penitenciario y por excepción al personal de otra planta.
+
+Se entiende por mando la potestad emanada de la jerarquía, la que será ejercida por los Oficiales Penitenciarios y demás personal de planta de Gendarmería de Chile sobre sus subalternos y subordinados en virtud del grado jerárquico, antigüedad en él o el cargo que desempeña.
+
+Se entiende por sucesión de mando el orden de precedencia para asumir las funciones, responsabilidades y atribuciones inherentes al cargo.
+
+## Título III
+
+De las Normas Complementarias
+
+#### Artículo 13
+
+El personal perteneciente a las plantas de Oficiales Penitenciarios y de Gendarmes usará armas para el adecuado desempeño de sus funciones, de acuerdo con las disposiciones legales y reglamentarias.
+
+Lo anterior sin perjuicio de lo dispuesto en la ley N° 17.798.
+
+El personal a que se refiere el inciso primero que, en ejercicio de su cargo o con ocasión de éste haga uso de su arma de servicio, armamento menos letal o elementos no letales, para rechazar alguna violencia o vencer la resistencia contra la autoridad, no podrá ser separado de sus funciones ni ver afectada su remuneración, mientras no concluya la investigación administrativa respectiva.
+
+Lo anterior, sin perjuicio de las facultades de la autoridad respectiva para ordenar el desarrollo de labores distintas de las que motivaron la investigación administrativa mientras ésta se desarrolle.
+
+#### Artículo 14
+
+Al personal de Gendarmería de Chile le será aplicable la ley N° 19.296, que establece normas sobre asociaciones de funcionarios de la Administración del Estado.
+
+#### Artículo 15
+
+El personal de gendarmería deberá otorgar a cada persona bajo su cuidado un trato digno propio de su condición humana. Cualquier trato vejatorio o abuso de autoridad será debidamente sancionado conforme a las leyes y reglamentos vigentes.
+
+#### Artículo 15
+
+A.- El que matare a un miembro de Gendarmería de Chile en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones, será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+
+La conducta establecida en el inciso anterior será castigada con presidio perpetuo a presidio perpetuo calificado si concurre alguna de las circunstancias siguientes:
+
+a) Si se comete mediante precio, recompensa o promesa, o cualquier otro tipo de beneficio para sí o para un tercero.
+
+b) Si se ejecuta con auxilio de gente armada o de personas que aseguren o proporcionen la impunidad.
+
+c) Si el imputado formó parte de una agrupación o reunión de delincuentes, aun cuando ésta o aquella no configure una asociación ilícita.
+
+#### Artículo 15
+
+B.- El que hiriere, golpeare o maltratare de obra a un miembro de Gendarmería de Chile en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones, será castigado:
+
+1. Con la pena de presidio mayor en su grado medio a máximo, si del resultado de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
+
+2. Con presidio mayor en su grado mínimo, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
+
+3. Con presidio menor en su grado medio a máximo, si le causare lesiones menos graves.
+
+4. Con presidio menor en su grado mínimo, si le ocasionare lesiones leves.
+
+#### Artículo 15
+
+C.- Cuando los delitos establecidos en los artículos 395 y 396 del Código Penal se cometan respecto de un miembro de Gendarmería de Chile en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones se aplicarán las penas que siguen:
+
+1° Con presidio mayor en su grado máximo, cuando fuere víctima del delito establecido en el artículo 395.
+
+2° Con presidio mayor en su grado medio, cuando fuere víctima del delito establecido en el inciso primero del artículo 396.
+
+3° Con presidio menor en su grado máximo, cuando lo fuere del delito establecido en el inciso segundo del artículo 396.
+
+#### Artículo 15
+
+D.- El que amenazare a un miembro de Gendarmería de Chile en los términos de los artículos 296 y 297 del Código Penal durante el desempeño de sus funciones o en razón de ellas, será castigado con el grado máximo de las penas previstas en dichos artículos para los distintos tipos de amenazas contemplados por éstos.
+
+#### Artículo 16
+
+La creación, modificación o supresión de establecimientos penales y carcelarios, su clasificación, denominación y la determinación de sus características, se hará mediante decreto supremo del Ministerio de Justicia, previo informe o a proposición del Director Nacional, de acuerdo con las necesidades institucionales y los recursos de que se disponga.
+
+#### Artículo 16 bis
+
+Los permisos de salida que beneficien a condenados a presidio perpetuo serán autorizados por el juez de garantía de la comuna de asiento de la unidad penal respectiva.
+
+#### Artículo 17
+
+El nombramiento, selección y ascenso, perfeccionamiento, calificaciones, derechos, obligaciones prohibiciones, incompatibilidades, régimen previsional, y desahucio aplicables y en general, todo cuanto tenga relación con el personal de la Institución, se regirá por las normas de los Estatutos de Personal aplicables a cada una de las distintas categorías de funcionarios de Gendarmería de Chile y por las que se contengan en los Reglamentos Institucionales respectivos.
+
+#### Artículo 18
+
+La Dirección Nacional de Gendarmería de Chile podrá adquirir los bienes muebles necesarios para la marcha expedita de la institución, conforme a lo establecido en la ley N° 19.886, sobre contratos administrativos de suministro y prestación de servicios.
+
+Para tales efectos será suficiente una orden de compra o de venta suscrita por el Director Nacional o por el funcionario en quien éste haya delegado tal facultad.
+
+La adquisición y enajenación de armamento y municiones se sujetará a las disposiciones legales y reglamentarias vigentes.
+
+#### Artículo 19
+
+La adquisición, producción, elaboración y comercialización de materias primas y bienes manufacturados o fabricados por los internos, se efectuará en la forma que se indique en el reglamento que al efecto se dicte.
+
+En caso que se utilicen servicios o bienes de los establecimientos penitenciarios, dicho reglamento deberá establecer normas de compensación para Gendarmería, por las expensas en que se incurra por este concepto.
+
+Dicho reglamento incluirá las normas relativas al régimen financiero y la distribución del producto de tales operaciones.
+
+#### Artículo 20
+
+Los establecimientos regidos por el Capítulo II del Libro I del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, Subsecretaría de Salud Pública prestarán atención sanitaria gratuita a las personas detenidas o privadas de libertad sometidas a la guarda de Gendarmería, a menos que ellos tengan derecho a la misma en virtud de su afiliación previsional o por otra causa.
+
+Lo anterior es sin perjuicio de la atención que a tales personas puedan prestar los Centros Médicos de Gendarmería de Chile, la cual se hará extensiva al personal de la institución.
+
+#### Artículo 21
+
+Deróganse las disposiciones del decreto con fuerza de ley N° 189, de 1960, y las normas de la ley N° 14.867, salvo su artículo 15 y todas las disposiciones legales y reglamentarias que fueren contrarias al presente decreto ley o incompatibles con éste.
+
+Los funcionarios de Gendarmería de Chile que cumplan jornada no inferior a 44 horas semanales de trabajo, tendrán derecho a alimentación de cargo fiscal de conformidad a lo establecido en el reglamento.
+
+#### Artículo 22
+
+Las obras a que se refiere la letra h) del artículo 3° de esta ley se ejecutarán mediante contrato adjudicado por propuesta pública.
+
+Sin embargo, podrán ejecutarse por trato directo o por contrato adjudicado por cotización privada, cuando circunstancias de emergencia lo exijan, las que deberán ser calificadas por el Presidente de la República, mediante decreto supremo fundado, el que deberá llevar la firma del Ministro de Justicia.
+
+El Director Nacional de Gendarmería, en el uso de estas atribuciones y sólo en lo que sea pertinente, se regirá por lo dispuesto en los decretos Nos. 294, de 1984, y 15, de 1992, ambos del Ministerio de Obras Públicas.
+
+#### Artículo 23
+
+El Servicio de Bienestar del personal de la Institución tendrá los objetivos, organización, recursos y funcionamiento que se determinen en el reglamento respectivo que estará contenido en un decreto supremo expedido a través del Ministerio del Trabajo y Previsión Social, Subsecretaría de Previsión Social.
+
+Los aportes fiscales y las cotizaciones del personal serán administrados en la forma que determine el reglamento.
+
+#### Artículo 24
+
+Tendrán derecho a la asignación de responsabilidad superior establecida en el artículo 6° del decreto ley N° 1.770, de 1977 y sus modificaciones, quienes se desempeñen en cargos de grado 4° o superiores, de las plantas de Oficiales Penitenciarios y de Directivos.
+
+#### Artículo 25
+
+La Dirección Nacional de Gendarmería de Chile facilitará y estimulará la formación, perfeccionamiento y especialización profesional y cultural del personal de la Institución a través de todo medio idóneo para alcanzar dichos objetivos, tales como becas y viajes de estudio, intercambio de funcionarios con instituciones similares o afines ya sean nacionales o del extranjero, concurrencia a institutos especializados en materias penitenciarias y criminológicas y la asistencia y participación en congresos, seminarios o simposios atingentes.
+
+Los funcionarios que asistan a cursos de perfeccionamiento y especialización dispuestos por la Dirección Nacional y los Aspirantes a Oficiales y los Gendarmes Alumnos que deban trasladarse para estos efectos fuera de su lugar de residencia y no pudieran recibir alojamiento y alimentación de cargo fiscal, tendrán derecho a la asignación contemplada en la letra e) del artículo 98, del decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda.
+
+#### Artículo 26
+
+Las resoluciones e instrucciones generales relacionadas con la administración de la Institución, deberán ser publicadas en el Boletín Oficial de Gendarmería de Chile.
+
+#### Artículo 27
+
+Se considerarán secretos los siguientes documentos, cuya publicidad afectare la seguridad del personal de Gendarmería de Chile o la seguridad de la Nación:
+
+1.- Los relativos a la identificación tanto de los funcionarios de las plantas como, en general, de otras dotaciones de su personal.
+
+2.- Los atinentes a planos o instalaciones de unidades penales u otras instalaciones de la institución y los planes de operación o de servicio de la misma, con sus respectivos antecedentes, considerando especialmente los horarios de ingreso y salidas de los funcionarios penitenciarios desde y hacia las unidades penales y los protocolos que traten sobre el traslado de personas privadas de libertad.
+
+3.- Los concernientes a las características de armas de fuego, partes y piezas de ellas, municiones, explosivos, sustancias químicas y demás efectos a que se refiere la ley N° 17.798 usados por Gendarmería de Chile.
+
+Con todo, la referida información deberá ser entregada siempre a requerimiento de la Cámara de Diputados, los tribunales de justicia, la Contraloría General de la República, el Ministerio Público, el Ministerio de Justicia y Derechos Humanos y la Dirección de Presupuestos, en el ejercicio de sus funciones.
+
+En el caso a que se refiere el inciso precedente, la información entregada mantendrá su carácter reservado para los funcionarios que accedan a ella con ocasión de los referidos requerimientos.
+
+#### Artículo 28
+
+La concesión de permisos de salida ordinarios deberá ser comunicada por escrito al tribunal a cargo de la ejecución de la pena, dentro de los cinco días siguientes contados desde la notificación del permiso a la persona condenada, con indicación del tipo de permiso otorgado y su extensión.
+
+Los permisos solicitados por personas condenadas a presidio perpetuo deberán ser comunicados al tribunal a cargo de la ejecución de la pena, desde su postulación.
+
+## Artículos transitorios
+
+#### Artículo 1°
+
+Facúltase el Presidente de la República para que dentro del término de ciento ochenta días, contados desde la vigencia del presente decreto ley, dicte el estatuto del personal a que se hace referencia en los artículos 2° y 17 y reglamento de disciplina señalado en el inciso segundo del artículo 2° de este decreto ley.
+
+Mientras no se dicten los reglamentos necesarios para la aplicación de la presente ley orgánica, los actuales mantendrán su vigencia en cuanto le sean compatibles.
+
+> **Nota.** NOTA 1: El DL 3169, de 1980, prorrogó por 90 días la facultad establecida en el artículo 1° transitorio del presente decreto ley. El DL 3436, de 1980, renovó por otros 90 días la misma facultad otorgada al Presidente de la República.
+
+#### Artículo 2°
+
+No regirán las normas sobre idoneidad establecidas en los artículos 9° y 12° del presente decreto ley para la designación de los Subdirectores y Directores Regionales, mientras no existan Oficiales Penitenciarios que reúnan los requisitos que exija el Estatuto del Personal de Gendarmería de Chile en relación con el Escalafón de Oficiales Penitenciarios.
+
+#### Artículo 3°
+
+No obstante lo dispuesto por el artículo 21 del presente decreto ley, conservarán transitoriamente su vigencia el artículo 8° del DFL. 189 (1960) y las siguientes disposiciones de la ley N° 14.867:
+
+a) El artículo 1°, mientras no se dicte el Estatuto del Personal de Gendarmería de Chile;
+
+b) Los artículos 11 y 12 hasta la dictación del Estatuto del Personal de Gendarmería de Chile, sin perjuicio de lo dispuesto en cuanto a subrogaciones en el presente decreto ley;
+
+c) Los artículos 23 y 28, hasta la dictación del reglamento a que se refiere el artículo 19 de este decreto ley;
+
+d) Los artículos 33, 34, 35, 36 y 37, hasta la dictación de un reglamento especial sobre actividades agropecuarias e industriales de Gendarmería de Chile, y e) Los artículos 38 y 40, hasta la dictación de una nueva ley orgánica del Ministerio de Justicia.
+
+En caso que las leyes y reglamentos referidos no señalen fecha de pérdida de imperio de las disposiciones mencionadas, se entenderá que la misma se produce al entrar en vigencia las nuevas normas sobre las materias respectivas.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Mónica Madariaga Gutiérrez, Ministro de Justicia.
