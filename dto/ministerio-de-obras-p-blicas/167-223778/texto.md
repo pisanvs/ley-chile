@@ -1,0 +1,3 @@
+Por decreto MOP Nº 167 de fecha 27 de febrero de 2004, se expropió el lote de terreno Nº 256, superficie 256 m2, rol Nº 61-76, comuna de Palmilla, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400", VI Región y se acordó el valor de la indemnización con su propietario Luis Roberto Orellana Cáceres y otro, ascendente a la cantidad de $5.273.113.
+
+- Fiscal del Ministerio de Obras Públicas.
