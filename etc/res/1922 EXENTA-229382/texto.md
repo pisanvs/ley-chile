@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.922, de 16 de julio de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Ensenada San Luis, X Región, individualizada en el artículo 1º Nº 1, del decreto exento Nº 601 de 2003, del Ministerio de Economía, Fomento y Reconstrucción, presentada por la ASOCIACION GREMIAL PESCADORES ARTESANALES Y RUBROS AFINES DE CALETAS UNIDAS LEPIHUE.
+
+Valparaíso, 16 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
