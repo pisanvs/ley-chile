@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.999, de 30 de septiembre de 1999, se expropió el lote de terreno Nº 3, superficie 156 m², rol de avalúo 357-6, comuna de Concepción, obra Mejoramiento Autopista Concepción- Talcahuano, sector Rotonda Bonilla y Campus San Andrés y se acordó precio de indemnización con su propietario Sergio del C. Figueroa Fonseca, ascendente a la cantidad de $17.875.469.
+
+Fiscal del Ministerio de Obras Públicas.
