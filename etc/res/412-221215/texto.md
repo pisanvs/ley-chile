@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 412, 24 diciembre 2003, Serviu Región del Biobío ordenó expropiación parcial inmueble ubicado en calle Arturo Prat Nº 1099, Rol de avalúo Nº 558-004, comuna Concepción, superficie 579,80 m2 de terreno y 521,9 m2 de edificación, dentro polígono y linderos señalados plano expropiación S8R-558-004; de aparente dominio de Inversiones Insigne S.A., para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 ley 16.391 y DL Nº 2.186. Comisión Peritos integrada por María Alejandra Gutiérrez Flores, arquitecto, María Pamela Mac-Guire Acevedo, arquitecto, y Gonzalo Melo Sáez, constructor civil, según informe de fecha 5 de diciembre de 2003, fijó monto provisional indemnización en $105.820.670.-, pagadera de contado.
+
+Director Serviu Región del Biobío.
