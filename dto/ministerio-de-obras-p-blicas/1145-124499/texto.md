@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.145, de 7 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropiaron los lotes de terreno No.
+
+s.9-A y 20, para la obra Concesión Internacional Ruta 5, Tramo Temuco - Río Bueno, Km. 718.300,00 al Km. 724.706,67, que figuran a nombre de Veloso Fredericksen Verónica, Roles de Avalúo No. s.432-89 y 432-24, comuna de Gorbea, superficies 4.716,9 y 3.084,4 m². La Comisión de Peritos integrada por Enrique Vallete De La Harpe, Fernando Luis Contreras Hennings y Carmen Luz Palacios Contreras, fijó con fecha 31 de marzo de 1998, el valor provisional de la indemnización en la cantidad de $ 2.596.760.- para el lote No. 9-A y $ 1.233.760 para el lote No. 20. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
