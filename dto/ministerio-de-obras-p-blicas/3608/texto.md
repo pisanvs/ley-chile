@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.608 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 8, superficie 297 m², rol de avalúo 10-102, comuna de Paine, para la obra ''Concesión Internacional Ruta 5 Tramo Santiago - Talca, Sector B: Km. 42.950,00 a Km. 55.200,00'' y se acordó el valor de indemnización con su propietario Francisca Adriana Soto Reyes, ascendente a la cantidad de $3.121.766.-
+
+Fiscal del Ministerio de Obras Públicas.
