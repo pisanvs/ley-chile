@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.851, de 30 de septiembre de 1998, se expropiaron los lotes de terreno Nº s. 1 y 4, superficies 3.377 m2. y 3.832 m2., rol de avalúo 1035-56, comuna de Maipú, para la obra Camino Santiago-San Antonio, sector Paso Inferior Alfredo Silva Carvallo y se acordó el valor de indemnización con su propietaria Sociedad Constructora de Viviendas Económicas Pocuro Limitada, ascendente a la cantidad total de $ 137.575.834.-
+
+Fiscal del Ministerio de Obras Públicas.
