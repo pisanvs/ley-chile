@@ -1,0 +1,3 @@
+Por resolución Nº1.887, de 29 de agosto de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura 97110511, presentada por PABLO ENRIQUE AGUILERA MARIN, para instalar y operar el centro de cultivo ubicado en Canal Chucao Nuevo, Isla Johnson, comuna de Cisnes, provincia de Aysén, X Región.
+
+Valparaíso, 29 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
