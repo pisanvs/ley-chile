@@ -1,0 +1,9 @@
+Por resolución Nº21, de 10 de enero de 2000, de esta Subsecretaría, autorízase a PESQUERA ICALMA S.A., para continuar desarrollando actividades pesqueras con la nave que se individualiza a continuación, en el litoral y respecto de los recursos hidrobiológicos que se indican. Nombre: ''Blanquillo''; Matrícula: 2623; Eslora de Arqueo: 39,5 m; T.R.G. (Internacional): 500,2; Capacidad de bodega: 490,0 m3; Arte de pesca: Cerco. La nave ''Blanquillo'', se encuentra autorizada para desarrollar actividades extractivas en el litoral de la I y II Regiones respecto de los recursos hidrobiológicos Anchoveta, Sardina española y Jurel, declarados en plena explotación y sometidas a dicho régimen de administración, autorización que fue transferida por Pesquera Iquique Guanaye, RUT Nº91.123.000-3, a Pesquera Icalma S.A., conjuntamente con la nave ''Blanquillo'', de conformidad con lo dispuesto en el artículo 23 de la Ley General de Pesca y Acuicultura.
+
+En consecuencia, Pesquera Icalma S.A., podrá capturar con red de cerco, por fuera del área de reserva artesanal, con la nave ''Blanquillo'', en el litoral de la I y II Regiones los recursos hidrobiológicos: Anchoveta, Sardina española, Jurel.
+
+Autorízase a Pesquera Icalma S.A. para ampliar actividades pesqueras con la nave ''Blanquillo'' en el litoral de la I y II Regiones sobre las especies que a continuación se indican, las que podrá capturar, con red de cerco, por fuera del área de reserva artesanal: Agujilla, Bonito, Bacaladillo, Caballa, Cabinza, Cojinoba del Norte, Dorado, Machuelo, Palometa, Roncacho.
+
+Déjanse sin efecto las resoluciones Nº100 y Nº1.071, de 1997, ambas de esta Subsecretaría en cuanto autorizaron a Pesquera Iquique Guanaye para operar la nave ''Blanquillo''.
+
+Valparaíso, 10 de enero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
