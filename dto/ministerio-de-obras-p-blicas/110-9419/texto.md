@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 110, de 31 de marzo de 1994, se expropiaron los lotes de terreno N°s. 2, 5 y 8, superficies 545,20 M2., 327 M2. y 576 M2., rol de avalúo 123-30, Comuna de Pencahue, para la obra Regadío Pencahue, Canales Las Doscientas Norte, Derivado 4, del Tranque y Las Doscientas Norte y se acordó precio de indemnización con su propietario Juan de Dios Urrutia Orellana, ascendente a la cantidad de $94.777.
+
+Fiscal del Ministerio de Obras Públicas.
