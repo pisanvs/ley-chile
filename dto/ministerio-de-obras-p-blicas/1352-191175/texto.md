@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.352 de fecha 31 de agosto del 2001, se expropiaron los lotes de terreno Nºs 104 y 104-A superficies 6.580 y 6.977 m2., respectivamente, Rol de Avalúo Nº 137-19 y 137-22, comuna de Las Cabras, para la obra "Camino Conexión Vial Pichidegua-Las Cabras, sector San Roberto-El Toco-Ruta 66, tramo Km. 12,70000 al 18,19349" y se acordó el valor de indemnización con su propietario Ulises Germán Valenzuela Allende y Otros, ascendente a la cantidad de $42.495.856.-
+
+Fiscal del Ministerio de Obras Públicas.
