@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.037 de fecha 29 de julio de 2004, se expropió el lote de terreno Nº 49, superficie 1.804,0 m², Rol Nº 231-47, comuna de Toltén, IX Región para la obra "Camino Ruta S-790, Sector Nueva Toltén - Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub-Tramo I Km. 71,46676 al Km. 80,55700" y se acordó el valor de indemnización con su propietario José Bernabé Pinto Cárdenas, ascendente a la cantidad de $1.066.417.
+
+Fiscal del Ministerio de Obras Públicas.
