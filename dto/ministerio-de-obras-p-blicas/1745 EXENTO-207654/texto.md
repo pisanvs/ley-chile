@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.745, de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº 100-D, superficie 30 m2, Rol de avalúo 57-120, comuna de Chépica, VI Región, para la obra ''Mejoramiento Camino Chépica - Bif. Teno, Sector Cuesta El Peral - Chépica, Tramo Km. 5.250 al 18.893,22'', y se acordó el valor de indemnización con su propietario don Ignacio del Carmen Muñoz Gómez ascendente a la cantidad de $506.000.
+
+Fiscal del Ministerio de Obras Públicas.
