@@ -1,0 +1,3 @@
+Por decreto MOP Nº 319 de fecha 31 de Marzo de 2003, se expropió el lote de terreno Nº 1-H, superficie 204 m2, rol de avalúo Nº 1-12, comuna de Chaitén, para la obra "Camino Ruta 7 (Longitudinal Austral), sector ex Pozos de Empréstitos, Km. 0,000 a Km. 13,07086" X Región y se acordó el valor de la indemnización con su propietario Ignacio Manríquez Larraguibel, ascendente a la cantidad de $5.152.474.-
+
+Fiscal del Ministerio de Obras Públicas.
