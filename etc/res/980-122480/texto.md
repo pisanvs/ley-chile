@@ -1,0 +1,3 @@
+Por resolución Nº 980, de 10 de julio de 1998, de esta Subsecretaría, modifícase el numeral 2 de la resolución Nº 1.512 de 1996, de esta Subsecretaría, que autorizó a INDUSTRIAL SANTA MARIA S.A. para realizar actividades pesqueras extractivas con una nave en construcción, en el sentido de señalar que sus actuales características náuticas son las siguientes: Nombre ''Santa María II''; Matrícula 2899; Eslora de arqueo 47,42 m; T.R.G. (Internacional) 839,00; Capacidad de Bodega 1068,65 m3; Arte de Pesca Cerco.
+
+Valparaíso, 10 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
