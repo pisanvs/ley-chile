@@ -1,0 +1,1 @@
+Fija planta y escala de grados y sueldos del personal de la Dirección General de Investigaciones; aplicación de las disposiciones del Estatuto Administrativo a los funcionarios a que se refiere esta ley; agrega inciso al artículo 16° de la ley 6,180, de 4 de febrero de 1938; prerrogativas, prohibiciones; calificaciones.
