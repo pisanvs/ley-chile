@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 104, de fecha 27 de noviembre del año 2001, se aprobó la disolución voluntaria de la Cooperativa de Reforma Agraria de Asignatarios San Miguel Limitada, que consta en la escritura pública suscrita con fecha 17 de julio del 2001, ante el Notario Público Titular de Talca, don Mario Bravo Ramírez.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
