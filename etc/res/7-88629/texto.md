@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS A "BEA ADMINISTRATION, ADMINISTRADORA DE FONDOS DE INVERSION DE CAPITAL EXTRANJERO S.A."
+
+Certifico: Que por resolución No. 7, de fecha 14 de Enero de 1991, de la Superintendencia de Valores y Seguros, se aprobó la reforma introducida a los estatutos de la sociedad "Bea Administration, Administradora de Fondos de Inversión de Capital Extranjero S.A." y que consta de escritura pública otorgada con fecha 22 de noviembre de 1990, ante el Notario de Santiago don Iván Torrealba Acevedo. La reforma consiste en dejar sin efecto la parte no enterada del aumento de capital acordado en la Segunda Junta General Extraordinaria de Accionistas, celebrada el 13 de junio de 1990, ascendente a $ 2.377.500.- quedando de esta forma el capital social en la suma de $ 72.622.500.- íntegramente suscrito y pagado, dividido en 60.000 acciones de igual valor y sin valor nominal.
+
+Santiago, 14 de Enero de 1991.- Rodrigo O. Costa Aranda, Secretario General.
