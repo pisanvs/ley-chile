@@ -1,0 +1,3 @@
+Por resolución Nº2.001, de 13 de septiembre de 2002 modifícase el numeral 4º de la resolución Nº1.696 de 2002, modificada mediante resolución Nº1.832 de 2002, ambas de esta subsecretaría, que autorizó al INSTITUTO DE INVESTIGACION PESQUERA OCTAVA REGION (Inpesca), para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto FIP Nº2002-14 denominado "Evaluación del stock desovante de anchoveta y sardina común entre la V y X Regiones, año 2002", en el sentido de señalar que la pesca de investigación y la fase de cruceros de prospección de huevos y adultos se extenderán hasta el 30 de octubre de 2002.
+
+Valparaíso, 13 de septiembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
