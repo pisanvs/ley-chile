@@ -274,7 +274,7 @@ La facturación mínima de almacenaje será US$ 1,50.
 
 5.- Los períodos liberados para las mercancías o cosas provenientes del desembarque serán de 365 días cuando estén depositadas en almacenes, bodegas, galpones o patios asignados para el almacenamiento exclusivo de la carga boliviana. Cuando éstas se encuentren depositadas en recintos destinados al almacenamiento de carga chilena, el período liberado será de 60 días. Pasados ambos plazos, las mercancías devengarán las tarifas generales de este servicio. No obstante, dentro del término de los 60 días señalados como plazo para la mercancía que se deposite en los lugares de almacenamiento destinados a la mercancía chilena, la carga boliviana allí depositada, puede trasladarse a los almacenes bolivianos, en cuyo caso el plazo liberado del pago de tarifa se extiende hasta los 365 días.
 
-El período liberado de pago de almacenaje para las mercancías destinadas a embarcarse será de 15 días contados desde la fecha de depósito de la carga en recinto portuario. No obstante, este período será de 30 días cuando los usuarios acrediten fehacientemente el incumplimiento de un compromiso contraído por parte del Armador correspondiente.
+Como norma general, el periodo liberado del pago de almacenaje para las mercancías destinadas a embarcarse será de 15 días, contados desde la fecha de depósito de la carga en recintos portuarios. Sin embargo, si el usuario acredita fehacientemente ante el Administrador del Puerto respectivo que la carga no pudo embarcarse en las fechas previstas por efecto del retraso de la nave porteadora, el periodo liberado podrá ampliarse en 15 días más. El Director de la Empresa Portuaria de Chile, previa, solicitud del usuario a través de la respectiva Administración de Puerto, podrá ampliar el plazo general de depósito libre de pago de almacenaje en aquellos casos en que los volúmenes de carga a embarcar obliguen a su acopio en puerto con la debida antelación al arribo de la nave porteadora.
 
 Con todo, el Administrador del Puerto podrá hacer uso de la facultad que le compete para ordenar el traslado de la carga hacia otro lugar dentro del puerto, si las necesidades del Servicio así lo exigieren. Los gastos de este traslado serán de cargo de la Empresa Portuaria de Chile.
 
@@ -478,7 +478,7 @@ No obstante, las mercancías o cosas objeto de los servicios que presta la Empre
 
 En ningún caso la caución constituirá autorización para mantener facturas impagas en las Administraciones de Puerto. En el evento que el agente del usuario se retrase en el pago de los servicios y su deuda iguale el valor del monto de la caución, el respectivo Administrador del Puerto requerirá el pago de la deuda dentro del término de 48 horas; en caso contrario, si dentro del término de las 48 horas señaladas el agente del usuario no pague lo adeudado, se hará efectiva la garantía y se le suspenderán los servicios portuarios.
 
-5 - Las facturas que emita la Empresa Portuaria estarán afectas a un recargo del 10%, cuyo producto será destinado exclusivamente al cumplimiento de un programa anual de mantenimiento y reparación de equipos e instalaciones portuarias y a la ejecución de obras de mantenimiento y reposición de utilería portuaria en general.
+5 - DEROGADO.
 
 6.- Las facturas no contendrán centésimos de escudo; para estos efectos, las fracciones iguales o superiores a E° 0,50 se elevarán al entero inmediatamente superior, y aquellas fracciones iguales o inferiores a E° 0,49 se desestimarán.
 
