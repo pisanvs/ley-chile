@@ -1,0 +1,3 @@
+Por Resolución No. 384, de 5 de Abril de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por 30 días a contar de esta fecha, el plazo otorgado a don HUMBERTO SEGUNDO GONZALEZ LOPEZ, RUT No. 2.325.904-4, domiciliado en calle 1 Oriente 666, de Viña del Mar, en el numeral 4° de la Resolución No. 1155, de 1990, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 5 de Abril de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
