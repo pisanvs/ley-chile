@@ -1118,6 +1118,12 @@ dionia
 
 LEVANFETAMINA 1-alfa-metilfenetilamina
 
+RACEMATO DE
+
+METAMFETAMINA (±) -N,a-dimetilfene
+
+tilamina
+
 Las sales de las sustancias enumeradas en esta Lista, siempre que la existencia de esas sales sea posible.
 
 La condición de venta de los productos que contengan estas drogas o sus sales es "BAJO RECETA CHEQUE". \
@@ -1203,6 +1209,22 @@ til-3-(3-metil-
 -metano-3-benza
 
 zocin-8-ol
+
+BURENORFINA
+
+21-ciclopropil-7-
+
+alfa- (S)1-hidroxi-
+
+1,2,2-trimetilpro
+
+pil- 6,14-endo-
+
+etano-6,7,8, 14-
+
+tetrahidroori
+
+pavina
 
 Las sales de las sustancias enumeradas en esta Lista.
 
