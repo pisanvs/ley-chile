@@ -1,0 +1,3 @@
+Por decreto MOP No. 866, de 30 de junio de 1998, se expropiaron los lotes de terreno No. s. 20, 20-A y 20-B, superficies 3.186, 2.687 y 5.000 m2. respectivamente, rol de avalúo 599-1, comuna de Coquimbo, para la obra Mejoramiento Ruta 5 Norte, Sector Coquimbo-La Herradura y se acordó precio de indemnización con su propietario Empresa Nacional de Minería, ascendente a la cantidad de $ 173.177.760.- para lotes 20, 20-A y 20-B.
+
+Fiscal del Ministerio de Obras Públicas.
