@@ -1,0 +1,3 @@
+Mediante Resolución Ministerial Nº 33, del 27 de marzo de 2002, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Servicios de Transporte de la Sexta Región, de la ciudad de Rancagua; en los términos que da testimonio el acta constitutiva protocolizada con fecha 4 de marzo de 2002, bajo el Nº 466, al final de los registros del Notario de Rancagua Sr. Ernesto Montoya Peredo.
+
+Por orden del Señor Subsecretario.- Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
