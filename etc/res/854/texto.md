@@ -1,0 +1,3 @@
+Por Resolución N° 854, de 29 de Octubre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 791, de 1991, de esta Subsecretaría, que autorizó a Pesquera Unimarc S.A., hoy SALMONES UNIMARC S.A. R.U.T. N° 88.541.600-4, domiciliada en calle Gabriela Mistral 370, Castro, X Región, con dirección postal en casilla 160 de esa ciudad, para operar un establecimiento de cultivo del recurso alga del género Gracilaria, en Caleta Cuarahue, Comuna de Castro, Provincia de Chiloé, X Región, por renuncia de su titular.
+
+Valparaíso, 29 de Octubre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
