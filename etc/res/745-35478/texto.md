@@ -1,0 +1,3 @@
+Por Resolución N° 745, de 22 de junio de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por RUBEN ALEJANDRO VASQUEZ BELMAR, R.U.T. N° 10.226.383-9, para un centro de cultivo ubicado en Bahía Tongoy, Comuna de Coquimbo, Provincia de Elqui, IV Región, por no dar cumplimiento el respectivo proyecto técnico al artículo 67°, inciso 5°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 22 de junio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
