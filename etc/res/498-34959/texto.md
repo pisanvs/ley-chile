@@ -1,0 +1,11 @@
+Por Resolución N° 498, de 12 de Julio de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don RADOMIR MONTAN PIEROTIC, R.U.T. N° 3.871.355-8, para iniciar actividades pesqueras de transformación, en orden a instalar una planta industrial ubicada en Camino Interior Lo Etchevers N° 851, Quilicura, Santiago, en las líneas de proceso que se indican, para elaborar los siguientes recursos hidrobiológicos: congelado, fresco-refrigerado y ahumado; Albacora o pez espada, Anguila, Atún aleta amarilla, Atún aleta larga, Atún ojos grandes, Azulejo, Bacalao de profundidad, Blanquillo, Caballa, Cabinza, Cabrilla, Cabrilla común, Cojinoba del norte, Congri colorado, Congrio dorado, Congrio negro, Corvina, Dorado, Jurel, Lenguado de ojos chicos, Lenguado de ojos grandes, Lisa, Machuelo o tritre, Merluza común, Merluza de cola, Merluza del sur, Palometa, Pejegallo, Pejerrey de mar, Raya, Róbalo, Salmón cereza, Salmón del Atlántico, Salmón plateado, Salmón Rey, Sardina, Sardina común, Sierra, Tiburón o marrajo, Tollo, Trucha arco iris, Turbot, Vidriola o palometa, Almeja o taca, Almeja, Calamar, Caracol locate, Caracol palo palo, Caracol tegula, Caracol trumulco, Culengue, Chitón o apretador, Chocha, Cholga, Chorito, Choro, Jibia, Lapa, Macha, Navajuela, Navaja de mar o huepo, Ostión del norte, Ostra chilena, Ostra del Pacífico, Pulpo, Camarón nailon, Gamba, Jaiba no clasificada, Jaiba marmola, Jaiba mora, Jaiba panchote, Jaiba peluda o pachona, Jaiba reina, Langostino amarillo, Langostino colorado, Picoroco, Erizo, Pepino de mar y Piure.
+
+El abastecimiento del recurso Langostino colorado deberá provenir de las personas que cuenten con permisos extraordinarios de pesca para este recurso y dentro de los períodos en que su captura esté permitida.
+
+El recurso Pulpo deberá referirse a individuos mayores de un kilo de peso.
+
+Los recursos Ostra del Pacífico, Ostión del norte, Salmones, Trucha y Turbot deberán provenir de centros autorizados para realizar actividad de cultivo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 12 de Julio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
