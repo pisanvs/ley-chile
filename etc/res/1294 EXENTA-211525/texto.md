@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.294, de 18 de junio de 2003, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 543 de 1999, de esta Subsecretaría, sólo en cuanto autorizó a GUILLERMO PATRICIO DONOSO TOBAR, para operar la nave "Argos II", en el área marítima comprendida entre la I a VIII Regiones, con enmalle, respecto del recurso hidrobiológico Albacora o pez espada, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
