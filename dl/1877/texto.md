@@ -1,0 +1,29 @@
+DECRETO LEY N° 1.877, DE 1977 Complementa disposiciones de la ley 12.927, sobre Seguridad del Estado
+
+MINISTERIO DEL INTERIOR
+
+(Publicado en el "Diario Oficial" N° 29.836, de 13 de agosto de 1977)
+
+NUM. 1877.- Santiago, 12 de agosto de 1977.- Visto: lo dispuesto en los decretos leyes 1 y 128, de 1973; 527 y 788, de 1974,
+
+Considerando: 1° La conveniencia de adecuar las normas sobre Seguridad del Estado, a la realidad que actualmente vive el país, sin perjuicio de perfeccionar los instrumentos jurídicos que permitan otorgar eficacia a las situaciones de emergencia,
+
+La Junta de Gobierno de la República de Chile ha acordado, en el ejercicio de la Potestad Constituyente, dictar el siguiente
+
+DECRETO LEY:
+
+#### Artículo 1°
+
+Por la declaración del Estado de Emergencia que regula la Ley de Seguridad del Estado, el Presidente de la República tendrá la facultad de arrestar a personas hasta por el plazo de cinco días en sus propias casas o en lugares que no sean cárceles.
+
+El plazo establecido en el inciso anterior podrá prolongarse hasta veinte días, cuando se investiguen delitos contra la seguridad del Estado de los cuales resultare la muerte, lesiones o secuestro de personas.
+
+Esta facultad será ejercida por medio de decreto supremo que firmará el Ministro del Interior, con la fórmula: "Por orden del Presidente de la República".
+
+#### Artículo 2°
+
+Las referencias al Estado de Sitio contenidas en los decretos leyes 81 y 198, de 1973, y 1.009, artículo 1° declárase que deben asimismo entenderse aplicables al Estado de Emergencia, regulado por la ley 12.927, de 1958 y a la disposición vigésima transitoria de la Constitución Política de la República de Chile que regirá a partir del día 11 de marzo de 1981.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.-
+
+César R. Benavides.
