@@ -1,0 +1,3 @@
+Por resolución No. 679, de 21 de Julio de 1988, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2186 de 1978, inmueble ubicado en calle Santa Rosa No. 504, presunto rol avalúos No. 626-42, comuna de Santiago, aparentemente dominio de don Luis Osorio Rodríguez. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos y Walter Soto Silva, ingeniero civil, según informe de 31 de Enero de 1989, fijó monto provisional indemnización en $ 13.990.157.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
