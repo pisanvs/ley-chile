@@ -1,0 +1,3 @@
+Por Decretro M.O.P. N° 204, de 28 de abril de 1995, se expropiaron los lotes de terreno N°s 3, 6, 8,12 y 45, superficies 650, 345, 72, 2.230 y 280 m2., respectivamente, roles de avalúos 177-110, 177-111 y 177-96, comuna de Casablanca, para la obra Camino Lo Orozco-Quilpué y se acordó precio de indemnización con sus propiterarios Gregorio Iñiguez Díaz, José Miguel Gómez Valdovinos y Santiago Fonto De La Vall González, ascendente a las cantidades $536.440, $1.026.732 y $171.360.-
+
+Fiscal del Ministerio de Obras Públicas.
