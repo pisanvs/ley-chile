@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.440, de 29 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, DE 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra Regadío Pencahue, Canal San Manuel, Canal Derivado 4 Las Docientas Norte Prolongación Kms. 0,000 al 0,647, que figura a nombre de Luis Antonio Albornoz Bravo, rol de avalúo 123-20, comuna de Pencahue, superficie 1.250 m2. La Comisión de Peritos, fijó con fecha 30 de marzo de 1999, en la cantidad de $537.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
