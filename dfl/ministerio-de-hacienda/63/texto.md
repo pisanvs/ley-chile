@@ -94,6 +94,8 @@ Las franquicias señaladas en este artículo se otorgarán mediante decreto expe
 
 Sin perjuicio de lo expuesto en el inciso 1.o del presente artículo, el personal indicado que, por resolución del Supremo Gobierno cese en sus funciones en el exterior antes del cumplimiento del año, gozará también de los beneficios de liberación.
 
+Cuando se introduzcan efectos en cado de licencia, traslado, fallecimiento, o por regreso previo de la familia de los funcionarios mencionados, los derechos correspondientes se descontarán de la cuota de liberación que le correspondiera al funcionario favorecido y siempre que reúnan las condiciones y requisitos anteriormente mencionados.
+
 #### Artículo 11º
 
 <!-- parte:9032765 -->
