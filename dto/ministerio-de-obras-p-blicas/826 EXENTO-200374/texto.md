@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº826 de fecha 31 de mayo del 2002, se expropió el lote de terreno Nº9-T, superficie 672 m2, rol Nº60-47, comuna de Futrono, X Región para la obra ''Camino Ruta T-665, sector Llifén- Calcurrupe, tramo Km. 75,75334 a Km. 77,62103'' y se acordó el valor de indemnización con su propietario Jorge Augusto Rocha Silva, ascendente a la cantidad de $2.210.183.-
+
+Fiscal del Ministerio de Obras Públicas.
