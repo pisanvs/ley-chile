@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.629, de 30 de septiembre de 2002, se expropió el lote de terreno Nº17-4, superficie 316.00 m² rol de avalúo 801-19, comuna de Colina, para Camino Santiago - Colina - Los Andes. Sector San José - Lo Pinto Km. 1.980,00 a Km. 2.600,00. Región Metropolitana y se acordó el valor de indemnización con Enrique Eduardo Misle Misle, ascendente a la cantidad de $3.882.529.-
+
+Fiscal del Ministerio de Obras Públicas.
