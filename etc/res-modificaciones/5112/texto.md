@@ -1,0 +1,307 @@
+MODIFICA PERIODO DE FUNCIONAMIENTO DE JUNTAS INSCRIPTORAS QUE SEÑALA
+
+Núm. O-5.112.- Santiago, 22 de marzo de 2005.- Visto:
+
+1. La necesidad de facilitar la inscripción electoral, atendida la densidad poblacional de las localidades de las Juntas Inscriptoras que se indican en la parte resolutiva, y el breve período de inscripciones electorales de este año;
+
+2. Lo dispuesto en los artículos 22 inciso segundo, 35, 93 letra i) y 100, de la Ley Nº 18.556, Orgánica Constitucional sobre Sistema de Inscripciones Electorales y Servicio Electoral.
+
+Resuelvo :
+
+1. Modifícase el período de funcionamiento de las siguientes Juntas Inscriptoras:
+
+Región Junta Inscriptora
+
+I BELEN
+
+CAMARONES
+
+CODPA
+
+COLCHANE
+
+CHIAPA
+
+GENERAL LAGOS
+
+MAMIÑA
+
+SAN MIGUEL DE AZAPA
+
+II CHIU CHIU
+
+CHUQUICAMATA
+
+OLLAGUE
+
+SIERRA GORDA
+
+III DOMEYKO
+
+EL TRANSITO
+
+IV BARRAZA
+
+CAIMANES
+
+CHEPELLIN
+
+HURTADO
+
+LAS COMPAÑIAS
+
+MINCHA
+
+RAPEL
+
+RIO HURTADO
+
+TIERRAS BLANCAS
+
+V CATAPILCO
+
+CUNCUMEN
+
+CHINCOLCO
+
+JUAN FERNANDEZ
+
+R.M CHICUREO
+
+LOS LIBERTADORES
+
+LOS PAJARITOS
+
+VI COYA
+
+LAGO RAPEL (EL MANZANO)
+
+PELEQUEN
+
+SAN PEDRO DE ALCANTARA
+
+ZUÑIGA
+
+VII CATILLO
+
+CORINTO
+
+GUALLECO
+
+HUAQUEN
+
+HUERTA DEL MAULE
+
+ILOCA
+
+LA HUERTA
+
+LLICO DE MATAQUITO
+
+NIRIVILO
+
+POCILLAS
+
+PUTU
+
+SAUZAL
+
+TOCONEY
+
+VILLA PRAT
+
+VIII CAMPANARIO
+
+CERRO NEGRO
+
+COPIULEMU
+
+ISLA MOCHA
+
+ISLA SANTA MARIA
+
+LLICO DE ARAUCO
+
+MEDIO CAMINO
+
+POLCURA
+
+PUEBLO SECO
+
+RERE
+
+RIO CLARO
+
+RUCAPEQUEN
+
+SANTA CLARA
+
+TALCAMAVIDA
+
+TOMECO
+
+IX BARROS ARANA
+
+COMUY
+
+CHERQUENCO
+
+HUALPIN
+
+HUISCAPI
+
+LASTARRIA
+
+LICAN-RAY
+
+MININCO
+
+NEHUENTUE
+
+PICHIPELLAHUEN
+
+PILLANLELBUN
+
+QUEPE
+
+QUEULE
+
+RADAL
+
+SELVA OBSCURA
+
+TROVOLHUE
+
+X ALERCE
+
+ANTILHUE
+
+AYACARA
+
+BAHIA MANSA
+
+CAÑITAS
+
+CARELMAPU
+
+COLACO
+
+CONTAO
+
+CHACAO
+
+CHAULINEC
+
+CHOSHUENCO
+
+ENSENADA
+
+FUTALEUFU
+
+HUALAIHUE-PUERTO
+
+HUEYUSCA
+
+ISLA GUAR
+
+ISLA MAILLEN
+
+ISLA PULUQUI
+
+LAS CASCADAS
+
+LIQUIÑE
+
+LLANADA GRANDE
+
+LLIFEN
+
+MALALHUE
+
+MANTILHUE
+
+MECHUQUE
+
+MEHUIN
+
+METAHUE
+
+MISION DE LA COSTA
+
+PALENA
+
+PARGUA
+
+PEULLA
+
+PUELO
+
+QUEHUI
+
+QUENAC
+
+QUENUIR
+
+QUILACAHUIN
+
+RALUN
+
+RIACHUELO
+
+RILAN
+
+RIÑINAHUE
+
+ROLECHA
+
+TEGUALDA
+
+TENAUN
+
+VILLA SANTA LUCIA
+
+XI BAHIA MURTA
+
+BALMACEDA
+
+CORCOVADO
+
+LAGO VERDE
+
+LA TAPERA
+
+MAÑIHUALES
+
+ÑIREHUAO
+
+O'HIGGINS
+
+PUERTO AGUIRRE
+
+PUERTO CHACABUCO
+
+PUERTO GUADAL
+
+PUYUHUAPI
+
+RIO IBAÑEZ
+
+RIO TRANQUILO
+
+TORTEL
+
+XII ANTARTICA
+
+PUERTO EDEN
+
+RIO VERDE
+
+TIMAUKEL
+
+TORRES DEL PAINE
+
+2. Las Juntas Inscriptoras señaladas en el numeral anterior funcionarán desde el lunes 2 de mayo de 2005 y hasta el cierre del período de inscripciones electorales.
+
+3. Publíquese la presente resolución en el Diario Oficial y en un periódico de cada una de las Regiones respectivas.
+
+Anótese, comuníquese y publíquese.- Juan Ignacio García Rodríguez, Director.
