@@ -1,0 +1,3 @@
+Por resolución Nº 1.947, de 10 de septiembre de 2002, de esta Subsecretaría, rectifícase el numeral 1º de la resolución Nº 1.601 de 2001, que autorizó a PESQUERA DEL NORTE S.A. para desarrollar actividades pesqueras extractivas con la nave "Valdivia IV", en el sentido de reemplazar la frase "Eslora total" por la expresión "Eslora de arqueo".
+
+Valparaíso, 10 de septiembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
