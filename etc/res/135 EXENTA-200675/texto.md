@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN COMUNA DE SAN VICENTE
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 135, de 20 de Enero de 1989, conforme art. 5° transitorio Código Aguas, determinó Derechos Aprovechamiento Aguas que corresponden a las parcelas N°s. 1 a la 40; sitios N°s. 1 al 28 y Reservas CORA N°s. 3 y 4 del proyecto de Parcelación "Millahue", comuna de San Vicente, VI Región, formado por predios "Hijuelas Primera, Segunda, Quinta, Sexta, Séptima, Octava, Novena, Décima y Undécima del plano de hijuelación de la hacienda Millahue". Los derechos de aguas se extraen de los recursos que acumula el Tranque Millahue, de los recursos de las quebradas que alimentan el tranque y de los recursos de aguas subterráneas que se extraen por los pozos profundos designados con las nomenclaturas 3430-7110 B-1: 3430-7110 B-2 y 3430-7110 B-3. Publicación hecha conforme art. 13 Ley 18.377.-
+
+Director Nacional (S).
