@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 179 de 27 de febrero de 1998, se expropiaron los lotes de terreno Nºs 1, 3-A y 4-A, canal El Oyente (incluye ramal Nºl) y. lote Nº 12-A, canal El Oyente, superficies 17.760, 1.122, 1.110 y 5.760 m2 respectivamente, roles de avalúo 149- 27, 153-43, 153-2 y 157-13, comuna de Pemuco, para la obra Proyecto Laja Diguillín, área de riego Pemuco y se acordó precio de indemnización con sus propietarios María lvet Sandoval Acuña y otro, Luis Alfonso Barrera Caries, Ana Isabel Rubilar Martínez y Francisco Antonio Riquelme Valdebenito, ascendentes a las cantidades de $7.756.956, $335.460, $308.167 y $1.773.402, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
