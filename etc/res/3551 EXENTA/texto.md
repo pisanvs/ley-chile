@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.551, de 14 de diciembre de 2004, de esta Subsecretaría, recházase la solicitud de autorización de acuicultura Nº 204071003 presentada por SALMONES COLBUN LIMITADA, para instalar y operar una piscicultura en terreno privado ubicado en El Carmen, vertiente sin nombre, cercanía del río Lircay, VII Región.
+
+Valparaíso, 14 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
