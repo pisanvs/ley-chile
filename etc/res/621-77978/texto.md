@@ -1,0 +1,5 @@
+Por Resolución No. 621, de 7 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA LAGO RIÑIHUE S.A., RUT No. 96.533.080-1, domiciliada en Santiago, para continuar desarrollando las actividades pesqueras autorizadas a Pesquera Gauling Chilena S.A., RUT Nº. 96.541.290-5, domiciliada en la ciudad de Santiago, en razón de ser su continuadora legal, y de la fusión que da cuenta la escritura pública de fecha 15 de octubre de 1991, otorgada en la Notaría de don Víctor Manuel Correa Valenzuela S. de conformidad a lo dispuesto en la Ley No. 18.046 sobre Sociedades Anónimas.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 7 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
