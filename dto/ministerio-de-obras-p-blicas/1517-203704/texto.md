@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.517, de fecha 30 de agosto de 2002, se expropiaron los lotes de terrenos Nºs. 14-A y 15-A, superficies 2.477 m² y 3.718 m², respectivamente, rol de avalúo 524-304, comuna de La Unión, X Región, para la obra ''Camino Ruta T-80, Sector La Unión - Las Trancas, Tramo Km. 0,900 al 10,99034'' y se acordó el valor de indemnización con su propietario don Jorge Luis Mautz Mautz, ascendente a la cantidad de $6.197.678.-
+
+Fiscal del Ministerio de Obras Públicas.
