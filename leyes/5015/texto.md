@@ -1,0 +1,1 @@
+Autoriza a la Caja de Crédito Agrario para mantener la prenda que se hubiere constituído a favor de ella.
