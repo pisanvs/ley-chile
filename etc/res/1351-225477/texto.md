@@ -1,0 +1,9 @@
+Por resolución Nº 1.351, de 13 de mayo de 2004, de esta Subsecretaría, modifícase la resolución Nº 407, de 2004, modificada mediante resoluciones Nº 785 y Nº 1.112, ambas de 2004, todas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco, I y II Regiones", en el sentido de agregar en el numeral 6º el siguiente inciso 7º:
+
+"Sin perjuicio de lo anterior, las naves artesanales participantes que se encuentren inscritas en el Registro Pesquero Artesanal de la I Región, sección pesquería Anchoveta, podrán capturar 3.000 toneladas del recurso antes señalado, las que serán imputadas a la fracción de la cuota global anual de captura reservada para fines de investigación, establecida en el decreto exento Nº 823, de 2003, modificado mediante decreto exento Nº 252, de 2004, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+El límite antes señalado se dividirá en dos fracciones semanales de 2.000 toneladas la primera semana y 1.000 toneladas la segunda semana, a contar de la fecha de la presente resolución. Los excesos en la extracción de la primera fracción semanal se descontarán de la fracción autorizada para el período siguiente; los remanentes no capturados durante la primera semana acrecerán a la fracción autorizada para el período siguiente.
+
+En el evento de que se sobrepase el límite de 3.000 toneladas autorizado, el exceso será descontado de la fracción de la cuota global autorizada a ser extraída en calidad de especie objetivo por la flota artesanal de la I Región, correspondiente al período julio-diciembre de 2004.".
+
+Valparaíso, 13 de mayo de 2004.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
