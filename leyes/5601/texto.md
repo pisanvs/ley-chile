@@ -1,0 +1,1 @@
+Complementa ley 5,580, de 31 de enero de 1935, que autoriza reanudar el servicio de los bonos de la deuda pública, del Estado y de las Municipalidades; declara de responsabilidad fiscal el préstamo del National City Bank of New York al Ferrocarril de Arica a La Paz y autoriza empréstito interno para su pago, y reduce el servicio de las deudas por pavimentación de Santiago.
