@@ -4864,13 +4864,9 @@ Los demás oficiales de secretaría de la Administración de Justicia que tengan
 
 #### Artículo 504
 
-En toda notaría, archivo u oficio de los conservadores habrá el número de oficiales de secretaría que los respectivos funcionarios conceptúen preciso para el pronto y expedito ejercicio de sus funciones y el buen régimen de su oficina. La respectiva Corte de Apelaciones, con informe del Ministro a que se refiere el artículo 564 o del juez, en el caso previsto en el artículo 565, fijará la dotación mínima de oficiales de secretaría de estas oficinas.
+En toda notaría, archivo u oficio de los conservadores habrá el número de oficiales de secretaría que los respectivos funcionarios conceptúen preciso para el pronto y expedito ejercicio de sus funciones y el buen régimen de su oficina.
 
-No podrán llevar ni admitir al servicio de su oficina ningún oficial de secretaría sin haber antes obtenido para ello el permiso y aprobación de la respectiva Corte o juzgado.
-
-La Corte o juzgado, siempre que por consideraciones de prudencia, de moralidad o de buena disciplina conceptuare conveniente hacer salir de la oficina algún oficial de secretaría, podrá ordenar que se le despida del servicio.
-
-En todo lo demás, los oficiales de secretaría estarán sujetos a las instrucciones y órdenes que les diere el respectivo notario, archivero o conservador, quienes distribuirán entre todos ellos el trabajo de su oficina en la forma que lo crean conveniente.
+Los oficiales de secretaría estarán sujetos a las instrucciones y órdenes que les diere el respectivo notario, archivero o conservador, quienes distribuirán entre todos ellos el trabajo de su oficina en la forma que lo crean conveniente.
 
 #### Artículo 505
 
