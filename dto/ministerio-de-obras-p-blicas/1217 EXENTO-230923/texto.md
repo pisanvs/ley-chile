@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.217 de fecha 31 de agosto del 2004, se expropiaron los lotes de terreno Nº s 87 y 87-A, superficies 1.221,36 y 826,42 m²., Rol Nº 557-82, comuna de Linares, para la obra "Camino Conservación Ruta L-45, sector Escuela Llepo-Puente Los Hualles, Tramo Km. 13,14700 a Km. 36,446" y se acordó el valor de indemnización con su propietario Humberto Antonio Orellana Zura, ascendente a la cantidad de $2.276.810.-
+
+Fiscal del Ministerio de Obras Públicas.
