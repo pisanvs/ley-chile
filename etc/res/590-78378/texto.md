@@ -1,0 +1,3 @@
+Por Resolución No. 590, de 30 de Junio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, derógase la resolución No. 975, de 1987, de esta Subsecretaría, por la cual se autorizó a la ASOCIACION GREMIAL DE PESCADORES ARTESANALES Y ALGUEROS DE LOLCURA, RUT No. 71.534.100-K, domiciliada en localidad de Lolcura, Comuna de Maullín, X Región para desarrollar actividades pesqueras de cultivo del recurso alga del género Gracilaria, en un sector del Río Maullín Localidad de Lolcura, en un área de 90.000 m2., por renuncia de sus titulares.
+
+Valparaíso, 30 de Junio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
