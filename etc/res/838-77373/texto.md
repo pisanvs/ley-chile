@@ -1,0 +1,3 @@
+Por Resolución No. 838 de 02 de Septiembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase parcialmente sin efecto la Resolución No. 604, de 1987, de esta Subsecretaría, que autorizó a SEA SALMON LIMITADA, R.U.T. No. 79.690.020-2, domiciliada en la ciudad de Puerto Montt, calle Urmeneta No. 300, oficina 15, para operar un establecimiento de cultivo del recurso Salmón plateado, en la localidad de Panitao, comuna de Puerto Montt, Provincia de Llanquihue, Región Xª, en lo relativo al cultivo en fase de agua dulce, por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 02 de Septiembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
