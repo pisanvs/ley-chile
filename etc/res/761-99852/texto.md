@@ -1,0 +1,3 @@
+Por resolución Nº 761, de 26 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº95103028, presentada por SEBASTIAN ALEJANDRO YANCOVIC PICO, para operar un centro de cultivo al sur de Punta Pindo, isla Chelín, comuna de Castro, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14 del D.S. Nº290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
