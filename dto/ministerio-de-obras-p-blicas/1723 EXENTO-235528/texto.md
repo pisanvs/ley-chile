@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.723, de 28 de diciembre de 2004, se dejó sin efecto el decreto MOP Nº 1.540, de 11 de noviembre de 2004, sólo en la parte que se refiere a la expropiación del lote de terreno Nº 81, en consideración que éste fue expropiado mediante decreto MOP Nº 445, de 23 de mayo de 2003 y consignado el monto de la indemnización provisional debidamente reajustada con fecha 21 de julio de 2003, ante el 1º Juzgado Civil de Temuco.
+
+Fiscal del Ministerio de Obras Públicas.
