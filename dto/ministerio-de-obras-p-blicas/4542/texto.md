@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.542, de 29 de septiembre del 2000, se expropió el lote de terreno Nº45, superficie 3.030 m2., rol de avalúo 95-60, comuna de Pelarco, para la obra Camino Los Robles Huencuecho - Bajo Perquín, Sector Huencuecho - Bajo Perquín, Tramo Km. 46.140,00 a Km. 76.107,70 precio de la indemnización con su propietaria Elisa del Tránsito Reyes Moyano y otros, a la cantidad de $1.169.719.-
+
+Fiscal del Ministerio de Obras Públicas.
