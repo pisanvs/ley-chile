@@ -1,0 +1,3 @@
+Por resolución Nº 330, de 6 de febrero de 2002, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 721 de 1993, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA QUINTERO S.A., domiciliada en Avenida 21 de Mayo Nº 1057, Quintero, para operar la nave "Eldom", matrícula 2070, respecto del recurso Raya en toda el área a ella autorizada en la citada resolución, como también sobre todos los recursos señalados en el numeral 3º letra b), pero sólo respecto del área marítima de la IX Región, en ambos casos por incurrir en la causal de caducidad del artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 6 de febrero de 2002.- Edith Saa Collantes, Subsecretario de Pesca (S).
