@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.969, de 19 de noviembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº201111294 presentada por GONZALO ALEJANDRO CAMACHO SANTIBAÑEZ, para instalar y operar un centro de cultivo ubicado en canal Ninualac, isla Melchor, costa norte, sector 1, XI Región.
+
+Valparaíso, 19 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
