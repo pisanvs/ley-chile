@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.503, de 31 de mayo de 1999, se expropiaron los lotes de terrenos Nº 137 y 138, superficies 174 m2. y 1.336 m2., rol de avalúo 162-1, comuna de Pemuco, para la obra ''Concesión Internacional Ruta 5: Tramo: Chillán - Collipulli'', Octava Región y se acordó el valor de indemnización con su propietaria Forestal Cholguán S.A., ascendente a la cantidad total de $4.095.207.-
+
+Fiscal del Ministerio de Obras Públicas.
