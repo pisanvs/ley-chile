@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.631, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº55-A, superficie 972,90 m², rol de avalúo 61-63, comuna de Futrono, X Región, para la obra ''Camino Ruta T-55, Sector Futrono - Llifén, Tramo Km. 55,300 al 75,76384'' y se acordó el valor de indemnización con su propietario don Sofanor Manqui Vidal, ascendente a la cantidad de $66.948.486.-
+
+Fiscal del Ministerio de Obras Públicas.
