@@ -1,0 +1,41 @@
+Tratado de paz. - Convenio entre el brigadier Gainza i el Jeneral O'Higgins
+
+(Acta del Gobierno Senado)
+
+En la ciudad de Santiago de Chile, a 5 de Mayo de 1814.- El Sr. D. Francisco Antonio de la Lastra, Supremo Director del Estado, mandó convocar a su sala de despacho al distinguido Cuerpo del M. I. Senado e hizo leer a su presencia los pliegos de tratados hechos a consecuencia del acuerdo del 19 del anterior por el Jeneral del Ejército Nacional Brigadier D. Gavino Gainza, i el Jeneral en Jefe del de Chile Brigadier D. Bernardo O'Higgins, i Cuartel Maestre Brigadier don Juan Mackenna, Plenipotenciarios nombrados para este efecto en dicho acuerdo, i el contesto de aquellos pliegos es como sigue:
+
+CONVENIO CELEBRADO ENTRE LOS JENERALES DE LOS EJÉRCITOS TITULADOS NACIONAL I DEL GOBIERNO DE CHILE.
+
+1.° Se ofrece Chile a remitir Diputados con plenos poderes e instrucciones, usando de los derechos imprescriptibles que le competen como parte integrante de la Monarquía Española, para sancionar en las Cortes la Constitucion que estas han formado, despues que las mismas Cortes oigan a sus representantes; i se compromete a obedecer lo que entónces se determinase, reconociendo, como ha reconocido, por su Monarca al S. D. Fernando VII i la autoridad de la Rejencia por quien se aprobó la Junta de Chile, manteniéndose entre tanto el Gobierno interior con todo su poder i facultades, i el libre comercio con las Naciones aliadas i neutrales, i especialmente con la Gran Bretaña, a la que debe la España, despues del favor de Dios i su valor i constancia, su existencia política.
+
+2.° Cesarán inmediatamente las hostilidades entre ambos Ejércitos, i la evacuacion de Talca se ejecutará a las 30 horas de ser comunicada la aprobacion del Gobierno de Santiago sobre este tratado, i la de toda la provincia de Concepcion, esto es las tropas de Lima, Valdivia i Chiloé, en el término de un mes de recibida dicha aprobacion, franqueándoseles los ausilios que estuviesen al alcance de Chile, i dicte la regularidad i prudencia, i quedando esta última Plaza de Chiloé sujeta como antes al Virreinato de Lima: así como se licenciarán todos los soldados de la Provincia de Concepcion i sus partidos, si lo pidieren.
+
+3.° Se restituirán recíprocamente i sin demora, todos los prisioneros que se han hecho por ámbas partes sin escepcion alguna, quedando enteramente olvidadas las causas que hasta aquí hayan dado los individuos de las provincias del Reino comprometidos por las armas con motivo de la presente guerra, sin que en ningun tiempo pueda hacerse mérito de ellas por una ni otra parte. I se recomienda recíprocamente el mas relijioso cumplimiento de este artículo.
+
+4.° Continuarán las relaciones mercantiles con todas las demas partes que componen la Monarquía Española con la misma libertad i buena armonía que ántes de la guerra.
+
+5.° Chile dará a la España todos los ausilios que estén a su alcance conforme al actual deterioro en que ha quedado por la guerra, que se ha hecho en su territorio.
+
+6.° Los oficiales veteranos de los Cuerpos de Infantería Dragones de Concepcion, que quisiesen continuar su servicio en el pais, gozarán el empleo i sueldo que disfrutaban ántes de las hostilidades; i los que nó, se sujetarán al destino que el Excmo. Sr. Virrei les señalare.
+
+7.° Quedarán la ciudad de la Concepcion i puerto de Talcahuano con todas las piezas de artillería que tenían ántes de las hostilidades; i no siendo posible al Sr. Brigadier D. Gavino Gainza dejar todos los fusiles de ambas Plazas, se conviene en restituir hasta el número de 400 para su servicio i resguardo.
+
+8.° Desde el momento que se firme este tratado estará obligado el Ejército de Chile a conservar la posicion que hoi tiene, observando relijiosamente el no aproximarse mas a Talca; i caso que entretanto llega su ratificacion del Excmo. Gobierno, sobreviniere algun temporal que pueda perjudicarle, será su arbitrio acamparse en alguna Hacienda en igual o mas distancia de dicha Ciudad; bien entendido que para el inesperado caso de volverse a romper las hostilidades, que será con previa noticia i acuerdo de ambos Ejércitos, no podrá cometer agresiones el Nacional sin haberle dado lugar de restituirse a la posicion que tiene en esta fecha.
+
+9.° Se restituirán recíprocamente a todos los moradores i vecinos las propiedades que tenían ántes del 18 de Febrero de 1810, declarándose nulas cualesquiera enajenaciones que no hayan precedido de contrato particular de sus dueños.
+
+10. El Excmo. Gobierno de Chile satisfará con oportunidad de su tesoro público 30 mil pesos como en parte del pago que debe hacerse algunos vecinos de la Provincia de Concepcion de los gastos que ha hecho el Ejército que hoi manda el Sr. Brigadier D. Gavino Gainza, quien visará los libramientos que espida la Intendencia.
+
+11. Para el cumplimiento i observancia de cuanto se ofrece de buena fé en los artículos anteriores, dará Chile por rehenes tres personas de distinguida clase, o carácter, entre quienes se acepta como la mas recomendable, i por haberse ofrecido espontáneamente en honor de su patria, al Sr. Brigadier D. Bernardo O'Higgins, a ménos que el Excmo. Gobierno de Chile lo elija de Diputado para las Cortes; en cuyo caso se substituirá su persona con otra de carácter i representacion del país.
+
+12. Hasta que se verifique la total evacuacion del territorio de Chile, se darán en rehenes por parte del Ejército Nacional, luego que esté ratificado el tratado, dos jefes de la clase de Coroneles, así como para evacuar a Talca, que deberá ser el inmediato, se darán por el Ejército de Chile, otros dos de igual carácter, quedando todo el resto del mes para que vengan a la inmediacion del Sr. Jeneral del Ejército Nacional los rehenes de que habla el artículo anterior, o un documento de constancia de haberse embarcado para Lima.
+
+13. Luego que sea firmado este tratado, se espedirán órdenes por los S.S. Jenerales de ambos Ejércitos para que suspendan su marcha cualesquiera tropas que desde otros puntos se dirijan a ellos; i que solo puedan acójase para librarse de la intemperie, a las Haciendas o pueblos mas vecinos donde les llegaren dichas órdenes, hasta esperar allí las que tengan a bien dirijirles; sin que de ningun modo puedan las ausiliares del Ejército Nacional pasar el Maule, o entrar en Talca, ni las del Ejército de Chile el rio de Lontué.
+
+14. Si llegare el caso (que no se espera) de no merecer aprobacion este tratado, será obligado el señor Jeneral del Ejército de Chile a esperar la contestacion de esta noticia, que ha de comunicar al del Nacional, quien deberá darla al cuarto de hora de recibida.
+
+15. Reconociendo las partes contratantes que la suspension de las hostilidades, la restitucion de la paz, buena armonía, íntima amistad entre los Gobiernos de Lima i Chile son debidos en gran parte al relijioso i eficaz empeño del señor Comodoro i Comandante de la Febe don Santiago Hilyar, quien propuso su respetable mediacion al Gobierno de Chile, manifestándole los sentimientos del señor Virrei, i no ha reparado en sacrificios de toda clase hasta presenciar a tanta distancia de su destino las conferencias que han precedido i este convenio; le tributamos las mas espresivas gracias, como a mediador i principal instrumento de tan interesante obra.
+
+16. Se declara que la devolucion de solo 400 fusiles a las Plazas de Concepcion i Talcahuano, a que se refiere el artículo 7.°, es porque el señor Jeneral don Gavino Gainza no tiene completo el armamento que el Ejército de su mando introdujo al Reino.
+
+I despues de haber convenido en los artículos anteriores, nos el Jeneral en Jefe del Ejército Nacional, Brigadier don Gavino Gainza, i el Jeneral en Jefe i el Cuartel Maestre Jeneral del Ejército de Chile don Bernardo O'Higgins, i don Juan Mackenna, Plenipotenciarios nombrados, firmamos dos ejemplares de un mismo tenor para su constancia en las orillas del rio Lircai, a dos leguas de la ciudad de Talca, Cuartel Jeneral del Ejército Nacional, e igual distancia del de Chile, en 3 de Mayo de 1814. - Gavino Gainza. - Bernardo O'Higgins. - Juan Mackenna.
