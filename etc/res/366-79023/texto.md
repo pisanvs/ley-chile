@@ -1,0 +1,3 @@
+Resolución No. 366 de 21 de Abril de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2° de la resolución No. 1021, de 1987, de esta Subsecretaría, que autorizó a SOCIEDAD AGROINDUSTRIAL, Y PESQUERA LOS LAGOS LIMITADA, R.U.T. No. 79.712.350-1, domiciliada en Llanquihue, Vista Hermosa s/n°, Casilla 102, en el sentido de señalar que el actual domicilio de la planta autorizada en la Resolución citada, es el Sector Rural denominado Colegual, Camino LLanquihue a Fresia, Comuna y Provincia de Llanquihue, X Región.
+
+Valparaíso, 21 de Abril de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
