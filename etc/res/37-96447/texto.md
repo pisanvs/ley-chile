@@ -1,0 +1,3 @@
+Por resolución Nº. 37 de 10 de Enero de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se otorga a don FERMIN DEL CARMEN CONTRERAS AHUMADA, R.U.T. Nº. 7.494.706-9, domiciliado en Los Claveles No. 554, Block 2, Depto. 23, Tejas Verdes, San Antonio, un plazo de 30 días a contar de la fecha de esta resolución para dar cumplimiento a lo dispuesto en el numeral 4° de la resolución Nº. 1.326, de 1990, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de fuerza mayor.
+
+Valparaíso, 10 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
