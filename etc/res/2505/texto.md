@@ -1,0 +1,3 @@
+Por resolución Nº2.505, de 16 de noviembre de 2000, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº2.195, de 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesca de Investigación de la pesquería artesanal de Jurel en aguas interiores de la X Región'', en el sentido de incorporar la embarcación artesanal ''L/M Ancar'', en la nómina de naves participantes en la señalada investigación.
+
+Valparaíso, 16 de noviembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
