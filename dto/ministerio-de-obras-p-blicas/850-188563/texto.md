@@ -1,0 +1,3 @@
+Por decreto MOP Nº850 de fecha 31 de mayo del 2001, se expropió el lote de terreno Nº15, superficie 9.463,46 m2, rol de avalúo Nº387-55, comuna de Pitrufquén, para la obra ''Diseño Definitivo Regadío Faja Maisan, Expropiaciones Red primaria 4/5, Derivado Mahuidanche'', sector Km. 2.009,85 al Km. 7.790,94, y se acordó el valor de indemnización con su propietario, Gunther Karl Lohr y Otro, ascendente a la cantidad de $5.038.207.-
+
+Fiscal del Ministerio de Obras Públicas.
