@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.263, de 27 de octubre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para el Fisco los lotes de terreno Nºs. 63-A, 78-A, 97-A y 106-A, para la obra: Camino Ruta J-55 Guaico 3-P- Vergara, Sector Guaico 3- La Unión, Tramo Km. 0,00000 a Km. 7,60000, que figuran a nombre de Pinochet Fuenzalida Eduardo, Miranda Torres Ema del Carmen, Poch Frismann Alberto y otra, Roles de Avalúo 58-138, 59-65, 59-20 y 59-22, comuna de Romeral, VII Región, superficies 408 m², 411 m², 478 m² y 1.113 m². La Comisión de Peritos, fijó con fecha 15 de octubre de 2002, el monto de la indemnización provisional en la cantidad de $362.160.-, para el lote Nº63-A; $342.940.-, para el lote Nº78-A;
+
+$417.560, para el lote Nº97-A y $827.500.- para el lote Nº106-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
