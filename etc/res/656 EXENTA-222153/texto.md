@@ -1,0 +1,3 @@
+Por resolución exenta Nº 656, de 27 de febrero de 2004, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 572 de 1994, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA POLAR S.A. para realizar actividades pesqueras con la nave "Polar Mist", en el área marítima de la XII Región, sobre los recursos Centolla y Centollón, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 27 de febrero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
