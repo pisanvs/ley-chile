@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.519, de 31 de mayo de 1999, se expropió el lote de terreno No. 18, superficie 1.521 mý, rol de avalúo 3983-16, comuna de Talca, para la obra "Ruta 5 Tramo Talca-Chillán, Calle de Servicio Sector Aeródromo", Séptima Región y se acordó el valor de indemnización con su propietaria María Corina Cepeda Hole, ascendente a la cantidad de $ 23.717.731.-
+
+Fiscal del Ministerio de Obras Públicas.
