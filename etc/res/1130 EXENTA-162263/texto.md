@@ -1,0 +1,7 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.130 de 30 de Agosto de 1985, conforme Art.
+
+5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector excluido y sector expropiado predios: "Hijuela A e Hijuela B del lote del lago del Fundo Santa Filomena", "Hijuela 11 del lote del Cerro e Hijuela 7 del lote Poniente del Fundo Santa Filomena", "Hijuela 10 del lote del Cerro e Hijuela 9 del lote Poniente del Fundo Santa Filomena", "Hijuela 14 del Lote del Cerro e Hijuela 18 del lote Oriente del Fundo Santa Filomena", "Hijuela 15 del lote del Cerro e Hijuela 16 del lote Oriente del Fundo Santa Filomena", "Hijuela 12 del lote del Cerro e Hijuela 8 del lote Poniente del Fundo Santa Filomena", "Hijuela 13 del lote del Cerro e Hijuela 17 del lote Oriente del Fundo Santa Filomena" de las comunas de Freire y Villarrica, IX Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas Nos. 1 a 6, 8, 9, 10 y 16, sitios No. 2 y 3 del proyecto de parcelación "Villa Alegre" formado por predios señalados. Los derechos de aguas se extraen del canal derivado del Estero pedregoso.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
