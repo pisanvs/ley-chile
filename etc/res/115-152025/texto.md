@@ -1,0 +1,3 @@
+Por resolución Nº 115, de 18 de enero de 2000, declárase la caducidad parcial de la resolución Nº 1.431, de 1989, de esta Subsecretaría, que autorizó a Compañía Pesquera San Pedro S.A.C.I., hoy PESQUERA CORONEL S.A., para operar la nave ''Don Nordlund'', por no haber iniciado operaciones de pesca dentro del plazo legal, sobre la especie Machuelo o tritre en el litoral comprendido entre las Regiones I a la VII y entre la IX y la XI, conforme lo dispuesto en el artículo 143 letra b), de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de enero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
