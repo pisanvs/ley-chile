@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.597, de 20 de diciembre de 2004, de esta Subsecretaría, autorízase a PEDRO SEGUNDO MONARDEZ ALFARO para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Barraza, comuna de Punitaqui, provincia de Limarí, IV Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado, Seco Salado, Ahumado, Alga Seca y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 20 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
