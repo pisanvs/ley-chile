@@ -1,0 +1,3 @@
+Por Resolución N° 792, de 6 de mayo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a CULTIVOS MARINOS FLAMENCO S.A., para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en Panamericana Norte, Kilómetro 940, Chañaral, III Región, en las líneas de elaboración de Congelado, los siguientes recursos hidrobiológicos: Camarón nailon, Langostino amarillo y Langostino colorado.
+
+Valparaíso, 6 de mayo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
