@@ -1,0 +1,3 @@
+Por Decretos MOP No. s 87 y 98, de fechas 26 y 27 de marzo de 1992, se expropiaron los lotes de terreno N°s. 4,5 y 7, roles de avalúo 500-52, 500-53 y 500-8, Comuna de Curicó, superficies 1.111 m2., 280 m2., respectivamente, para la obra Camino Longitudinal Sur, sector Romeral-Molina, Paso Superior Avenida España, y se acordó precio de indemnización con sus propietarios Magdalena Moraga Martínez, María Inés Moraga Valdivia y Jaime Hernández Campos, ascendente a las cantidades de $ 2.603.562.-, $ 690.600.- y $ 429.323.-
+
+Fiscal del Ministerio de Obras Públicas.
