@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.344, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº 59-B, superficie 210 m2, rol de avalúo 136-600, comuna de San Francisco de Mostazal, para la obra "Camino Ruta Rol H-10, Sector Graneros-San Francisco de Mostazal, Tramo Km. 0,000 al 9,317" y se acordó el valor de indemnización con su propietario don Ramón Alberto Figueroa Rodríguez y Otros, ascendente a la cantidad de $15.183.488.-
+
+Fiscal del Ministerio de Obras Públicas.
