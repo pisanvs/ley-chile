@@ -6814,11 +6814,11 @@ Por otra parte, las cuentas del activo correspondientes a inversiones financiera
 
 Debe tenerse presente también, que a las cuentas correspondientes a préstamos en letras de crédito de las partidas 1305 y 1310, como asimismo a las que corresponden a letras de crédito en circulación de las partidas 3305 y 3310, no les son aplicables las instrucciones relativas al uso de cuentas complementarias de intereses, puesto que éstos deben registrarse en cuentas de las partidas 1315 y 3315, respectivamente, en concordancia con las instrucciones del Capitulo 9-1 de esta Recopilación Actualizada de Normas.
 
-3. Suspensión del devengo de reajustes e intereses de colocaciones e inversiones financieras.
+3.- Suspensión del devengo de reajustes e intereses de colocaciones.
 
 3.1. Contabilización de intereses y reajustes sólo en cuentas de orden.
 
-3.1.1. Colocaciones.
+3.1.1.- Colocaciones afectas a la suspensión.
 
 Las instituciones financieras suspenderán el devengo de los intereses y reajustes en las cuentas de "Intereses por Cobrar" e "Intereses Ganados", registrandolos solamente en cuentas de orden, en los casos que a continuacion se indican:
 
@@ -6832,43 +6832,39 @@ Las entidades financieras suspenderán la contabilización del devengo de los in
 
 c) Colocaciones vigentes otorgadas bajo condiciones especiales.
 
-Las instituciones financieras también deberán abstenerse de contabilizar en los resultados, los intereses y reajustes devengados sobre créditos vigentes otorgados bajo una o mas de las siguientes condiciones, a menos que esta Superintendencia, en atención a las características del flujo de ingresos del deudor o de la maduración del proyecto, les haya autorizado previamente para efectuar dicha contabilización:
+Las instituciones financieras también deberán abstenerse de contabilizar en los resultados, los intereses y reajustes devengados sobre créditos vigentes otorgados bajo una o más de las siguientes condiciones, a menos que las características del flujo de ingresos del deudor o de la maduración del proyecto permita estimar que el crédito será servido normalmente:
 
-i) Período de gracia para capital e intereses superior a 24 meses, esto es, que el primer pago se realice después del referido plazo;
+i) Período de gracia para capital e intereses superior a 24 meses, esto es, que el primer pago se realice después del referido plazo, salvo que se trate de créditos reprogramados en virtud de los Acuerdos N°s. 1.507 y 1.578 del Banco Central de Chile;
 
-ii) Frecuencia de vencimiento superior a un año de las cuotas posteriores al termino del periodo de gracia; y
+ii) Frecuencia de vencimiento superior a un año de las cuotas posteriores al término del período de gracia; o,
 
-iii) El monto pactado de cada cuota no alcanza a cubrir el importe de los intereses devengados sobre el saldo insoluto del crédito durante el periodo respectivo.
+iii) El monto pactado de cada cuota no alcanza a cubrir el importe de los intereses devengados sobre el saldo insoluto del crédito durante el período respectivo.
 
-Lo establecido en el numeral i) anterior no se aplica a los prestamos que, en virtud de los Acuerdos N°s. 1.507 y 1.578 del Banco Central de Chile sobre reprogramación de créditos, contemplen periodos de gracia superiores a los indicados en ese numeral.
+Las instituciones financieras que no estén calificadas dos veces consecutivas en categoría I según sus procedimientos de clasificación de cartera y que estimen que un crédito con alguna de las características antes mencionadas será servido normalmente, deberán solicitar la autorización previa de esta Superintendencia para excluirlo de la suspensión del devengo contable de reajustes e intereses.
 
 La suspensión del devengo de intereses y reajustes por las causales señaladas en las letras a) y b) de este numeral 3.1.1, no se aplicara a los créditos de consumo ni a los créditos hipotecarios para vivienda, definidos en el título II del Capítulo 8-28 de esta Recopilación, como tampoco a las colocaciones contingentes, en lo que respecta a la suspensión de reajustes.
 
 Los intereses y reajustes devengados con anterioridad a la fecha en que se cumplan algunas de las condiciones señaladas en las letras precedentes, no serán objeto de reversión; de manera que quedarán registrados en el activo los intereses y reajustes por cobrar devengados hasta esa fecha, en tanto que los devengos posteriores se reflejaran en cuentas de orden.
 
-3.1.2. Inversiones en bonos o debentures.
+3.1.2.- Registro de los intereses y reajustes en cuentas de orden.
 
-Igual tratamiento que el mencionado en las letras a) y b) del numeral precedente, deberá darse, según corresponda, al devengo de reajustes e intereses de inversiones en valores mobiliarios de renta fija emitidos por entidades nacionales o extranjeras diferentes a la Tesorería General de la República, al Banco Central de Chile o a bancos y sociedades financieras sujetas a la fiscalización de esta Superintendencia.
+El devengo de los intereses y reajustes que se origine desde la fecha en que las colocaciones se encuentren en alguna de las situaciones previstas en el numeral 3.1.1 precedente y hasta la fecha en que debe dejar de registrarse según lo previsto en el numeral 3.2 que sigue, se contabilizará en cuentas de orden de acuerdo con lo siguiente:
 
-3.1.3. Registro de intereses y reajustes en cuentas de orden.
+a) Intereses.
 
-Los intereses y reajustes devengados a partir de la fecha en que las colocaciones o inversiones se encuentren en alguna de las situaciones previstas en los numerales 3.1.1 y 3.1.2 precedentes, deben ser contabilizados en cuentas de orden de acuerdo con lo siguiente:
+Los intereses no reconocidos en los resultados, sobre las colocaciones que estén vigentes, se registrarán en las siguientes cuentas de la partida 9490, según sea el caso: "Intereses suspendidos créditos comerciales vigentes", "Intereses suspendidos créditos hipotecarios vivienda vigentes" o "Intereses suspendidos créditos de consumo vigentes".
 
-a) Colocaciones.
+Atendido que estas cuentas de orden son complementarias de las cuentas del activo para efectos de información del monto adeudado, en caso de que alguno de los créditos de que se trata se traspase a cartera vencida, los montos respectivos registrados en esas cuentas se traspasarán, a su vez, a la cuenta que corresponda, de la misma partida 9490, indicada a continuación: "Intereses suspendidos créditos comerciales vencidos", "Intereses suspendidos créditos hipotecarios vivienda vencidos" o "Intereses suspendidos créditos de consumo vencidos".
 
-Los intereses no reconocidos en los resultados, sobre las colocaciones que estén vigentes, se registraran en la cuenta "Intereses devengados de colocaciones riesgosas vigentes", de la partida 9490. En caso de que el respectivo crédito se traspase a cartera vencida, los montos registrados en esa cuenta se traspasaran, a su vez, a la cuenta "Intereses devengados de colocaciones riesgosas vencidas", de la misma partida 9490, atendido que estas cuentas de orden son complementarias de las cuentas del activo para efectos de información del monto adeudado.
+b) Reajustes.
 
-Por su parte, los reajustes sobre las colocaciones de que se trata, se registraran en la cuenta "Reajustes devengados de colocaciones riesgosas vigentes" o "Reajustes devengados de colocaciones riesgosas vencidas", ambas de la partida 9510, siguiendo el mismo criterio señalado para los intereses en el párrafo precedente.
+Los reajustes sobre las colocaciones de que se trata, quedarán registrados en alguna de las siguientes cuentas de la partida 9510, siguiendo el mismo criterio señalado para los intereses en la letra a) precedente: "Reajustes suspendidos créditos comerciales vigentes", "Reajustes suspendidos créditos hipotecarios vivienda vigentes", "Reajustes suspendidos créditos de consumo vigentes", "Reajustes suspendidos créditos comerciales vencidos", "Reajustes suspendidos créditos hipotecarios vivienda vencidos" o "Reajustes suspendidos créditos de consumo vencidos".
 
-b) Bonos y debentures.
+c) Suspensión de reajustes e intereses en créditos registrados a su valor final
 
-Los intereses y reajustes devengados, no reconocidos en los resultados, por inversiones en bonos o debentures, se registraran en las siguientes cuentas: "Intereses devengados de bonos y debentures riesgosos vigentes" o "Intereses devengados de bonos y debentures riesgosos vencidos", de la partida 9490 y "Reajustes devengados de bonos y debentures riesgosos vigentes" o "Reajustes devengados de bonos y debentures riesgosos vencidos" de la partida 9510, respectivamente.
+Al tratarse de operaciones registradas en el activo a su valor final según lo indicado en el numeral 2.4 de este título, la suspensión del reconocimiento en cuentas de resultados de los reajustes e intereses, alcanza también a los traspasos a dichas cuentas de los saldos registrados en el pasivo transitorio, de modo que esos traspasos dejarán de efectuarse mientras se mantenga la suspensión. Los importes no traspasados a resultados no se reflejarán en las cuentas de orden antes mencionadas.
 
-3.1.4. Suspensión de reajustes e intereses en créditos registrados a su valor final.
-
-Al tratarse de operaciones registradas en el activo a su valor final según lo indicado en el numeral 2.4 de este título, la suspensión del reconocimiento en cuentas de resultados de los reajustes e intereses, alcanza también a los traspasos a dichas cuentas de los saldos registrados en el pasivo transitorio, de modo que esos traspasos dejarán de efectuarse mientras se mantenga la suspensión.
-
-3.2. Suspensión de reajustes e intereses de créditos vencidos.
+3.2. Suspensión de reajustes e intereses de colocaciones vencidas.
 
 3.2.1. Créditos con un solo vencimiento.
 
@@ -6878,11 +6874,11 @@ A partir de la fecha de vencimiento se suspenderá la contabilización del deven
 
 Cuando se trate de préstamos en letras de crédito o de otro tipo de préstamos pagaderos en cuotas, la suspensión del devengo de reajustes e intereses posteriores al vencimiento, a que se refiere el numeral precedente, rige también para la cuota que no haya sido pagada, aplicándose a los intereses o reajustes de ésta que se devengan a contar de la fecha en que ella debió ser pagada.
 
-Para el saldo no vencido se seguirá el criterio de suspender la contabilización de los reajustes e intereses, a contar del momento en que alguna parcialidad o cuota morosa permanezca 90 días impaga, aunque ella se componga solamente de intereses. Dicha suspensión durará desde esa fecha hasta que se paguen o renegocien todas las cuotas o parcialidades que estuvieren en mora, oportunidad en que se reconocerán contablemente los reajustes e intereses devengados y no pagados que se encontraban suspendidos, sin perjuicio de lo dispuesto en los numerales 3.1.1 a 3.1.4 de este título.
+Para el saldo no vencido se seguirá el criterio de suspender la contabilización de los reajustes e intereses, a contar del momento en que alguna parcialidad o cuota morosa permanezca 90 días impaga, aunque ella se componga solamente de intereses. Dicha suspensión durará desde esa fecha hasta que se paguen o renegocien todas las cuotas o parcialidades que estuvieren en mora, oportunidad en que se reconocerán contablemente los reajustes e intereses devengados y no pagados que se encontraban suspendidos, sin perjuicio de lo dispuesto en el numeral 31 de este título.
 
 3.2.3. Otras instrucciones.
 
-Las disposiciones de los numerales 3.2.1 y 3.2.2 precedentes, son aplicables tanto a las colocaciones como a las inversiones financieras total o parcialmente impagas. Los intereses y reajustes de que se trata no se reflejarán en las cuentas de orden a que se refiere el numeral 3.1. 3 de este título.
+Los reajustes e intereses de colocaciones vencidas a que se refieren los numerales 3.2.1 y 32.2 precedentes, no se reflejarán en cuentas de orden ni se incluirán en la información de deudas a esta Superintendencia.
 
 ### 4. Percepción o capitalización de reajustes e intereses suspendidos
 
@@ -7468,9 +7464,9 @@ Si las comisiones son a favor de los operadores, quedarán incluidas en la conta
 
 5.7. Cartera vencida.
 
-Los importes de los créditos más sus correspondientes intereses no pagados a su vencimiento, deberán traspasarse, dentro de un plazo de 90 días de ocurrido éste, a la cuenta "Colocaciones vencidas", de la partida 1405, de que trata el Capítulo 8- 26 de esta Recopilación Actualizada de Normas.
+Los importes de los créditos más sus correspondientes intereses no pagados a su vencimiento, deberán traspasarse, dentro de un plazo de 90 días de ocurrido éste, a la cuenta "Créditos por tarjetas de crédito vencidos", de la partida 1411 si corresponde a deudas de personas naturales, o de la partida 1401 si se trata de deudas de empresas.
 
-El no pago del monto mínimo convenido, dentro del plazo de 90 días señalado anteriormente, determinará el traspaso a "Colocaciones vencidas" de la totalidad del saldo adeudado por el respectivo titular de la tarjeta de crédito.
+El no pago del monto mínimo convenido, dentro del plazo de 90 días señalado anteriormente, determinará el traspaso a cartera vencida de la totalidad del saldo adeudado por el respectivo titular de la tarjeta de crédito.
 
 5.8. Comisiones pagadas por las instituciones financieras a los operadores.
 
@@ -8160,19 +8156,13 @@ Las colocaciones que se adquieran a instituciones financieras en liquidación qu
 
 7.1. Adquisición de documentos de la cartera de colocaciones.
 
-Debe: - La cuenta de colocaciones que corresponda, según el crédito de que se trate, por el valor de adquisición del respectivo documento.
+Debe:- La cuenta de colocaciones vigentes o de cartera vencida que corresponda, según el crédito de que se trate, por el valor de adquisición del respectivo documento.
 
-Cuando se trate de documentos vencidos, se debitará la cuenta "Documentos vencidos adquiridos a instituciones en liquidación", cuyo saldo se demuestra en la partida 1415.
+- "Diferencias de precio de créditos vigentes" o "Diferencias de precio de créditos vencidos", de la partida 9150, por la diferencia entre el valor par del documento y su valor de adquisición, según se trate de un crédito vigente o vencido.
 
-- "Diferencias de precio por créditos adquiridos a instituciones en liquidación", por la diferencia entre el valor par del documento y el valor de adquisición. El saldo de esta cuenta se demuestra en la partida 9150.
+Haber: - Las cuentas que correspondan, por el importe pagado o adeudado a la entidad vendedora.
 
-Haber: - "Caja" o la cuenta que corresponda, por el importe pagado a la entidad vendedora.
-
-- "Saldos de precio adeudados por compra de cartera a instituciones en liquidación", por el saldo cuyo pago se hubiere convenido efectuarlo a plazo.
-
-Esta cuenta se representa en las partidas 3420 ó 3475, del formulario MB1, según sea el plazo de pago pactado.
-
-- "La cuenta de orden de la partida 9900".
+- La cuenta de orden de la partida 9900.
 
 7.2. Abono a resultados de las diferencias de precio obtenidas.
 
@@ -8180,33 +8170,29 @@ El ajuste al valor par de los créditos se registrará, conforme a lo señalado 
 
 7.3. Préstamos para vivienda en letras de crédito y préstamos pagaderos en cuotas.
 
-Para contabilizar la adquisición de préstamos hipotecarios en letras de crédito y sus correspondientes obligaciones por letras de crédito en circulación, cuando sea el caso, se utilizan las mismas cuentas habilitadas para el registro de estas operaciones de conformidad con lo dispuesto en el Capítulo 9-1 de esta Recopilación de Normas. Dicho registro se hará al valor reajustado del crédito en la fecha de compra. Los dividendos que se encuentren vencidos en la fecha de adquisición se contabilizan en la cuenta "Dividendos hipotecarios vencidos", por el valor en pesos al que se encontraban registrados en la fecha del respectivo
-
-vencimiento.
+Para contabilizar la adquisición de préstamos hipotecarios en letras de crédito y sus correspondientes obligaciones por letras de crédito en circulación, cuando sea el caso, se utilizan las mismas cuentas habilitadas para el registro de estas operaciones de conformidad con lo dispuesto en el Capítulo 9-1 de esta Recopilación de Normas, tanto para créditos vigentes como vencidos. La cartera vigente se registrará con sus correspondientes reajustes devengados hasta la fecha de compra, en tanto que los créditos o dividendos de éstos que se encuentren vencidos se registrarán por su valor en pesos a la fecha de vencimiento.". Además, en el segundo párrafo de este numeral se remplaza la frase "cuyo saldo se incluye en la partida 7605 del formulario MR1", por "de la partida 7605".
 
 Las diferencias entre el valor nominal remanente de estos créditos y el valor de adquisición, deben acreditarse en la cuenta "Beneficios por activación de créditos adquiridos a instituciones en liquidación", cuyo saldo se incluye en la partida 7605 del formulario MR1, previa en todo caso, la clasificación del respectivo crédito de acuerdo a su morosidad, según las normas dadas a conocer en el Capítulo 8-28 de esa Recopilación Actualizada de Normas.
 
 Conjuntamente con el abono a la citada cuenta de resultados, deben constituirse las provisiones correspondientes al incremento del riesgo de la cartera de colocaciones originado por la incorporación de estos créditos a la cartera clasificada.
 
-7.4. Devengo de intereses y reajustes sobre las diferencias de precio contabilizadas en cuentas de orden.
+7.4.- Devengo de Intereses y reajustes de créditos registrados transitoriamente en el activo por su valor de compra.
 
-Las instituciones financieras deben demostrar en las cuentas de orden "Reajustes devengados de cartera adquirida a instituciones financieras en liquidación" Intereses devengados de cartera adquirida a instituciones financieras en liquidación" de las partidas 9430 y 9440, respectivamente, los intereses y reajustes devengados sobre la diferencia entre el precio pagado por el documento adquirido y su valor par. Estos devengos que se calcularán de acuerdo con las normas generales sólo sobre los créditos vigentes, se abonarán a las respectivas cuentas de resultado en la opornidad en que la colocación a que correspondan sea ajustada en el activo a su valor par,después de aprobada su clasificación, según lo previsto en estas instrucciones.
+Mientras las colocaciones no sean ajustadas en el activo a su valor par según lo previsto en los N°s. 3 y 5 de este Capítulo, no se reconocerán en los resultados los intereses y reajustes devengados por los respectivos créditos, debiendo registrarse éstos en las cuentas "Diferencias de precio de créditos vigentes" o "Diferencias de precio de créditos vencidos" señaladas en el numeral 7.1 anterior. Estas cuentas de orden deberán reflejar, al cierre de cada mes, el complemento de lo registrado en el activo como cartera vigente o vencida, respectivamente, adquirida a instituciones financieras en liquidación.
 
 7.5. Créditos adquiridos por un valor igual o inferior al equivalente del cinco por ciento de su valor par.
 
-Los créditos cuyo valor de adquisición resulte igual o inferior al cinco por ciento de su valor par, determinado a la fecha de adquisición, serán contabilizados por su valor nominal en la cuenta de orden "Créditos adquiridos a instituciones financieras en liquidación" de la partida 9150.
+Los créditos cuyo valor de adquisición resulte igual o inferior al cinco por ciento de su valor par, determinado a la fecha de adquisición, serán contabilizados por su valor nominal en las cuentas de orden "Créditos adquiridos a instituciones en liquidación - vigentes" o "Créditos adquiridos a instituciones en liquidación - vencidos", de la partida 9150, según la situación en que se encuentre cada crédito en relación con lo indicado en el N° 4 del Capítulo 8-26 de esta Recopilación Actualizada de Normas. Dichas cuentas se ajustarán como consecuencia de los pagos recibidos y por el devengo de reajustes e intereses, de acuerdo con las condiciones de cada crédito.
 
-Los importes efectivamente pagados por la compra de estos créditos se debitarán, cuando sea procedente, en la cuenta "Diferencias por adquisición de créditos a instituciones en liquidación", de la partida 5605.
+En todo caso, si un crédito cumple alguna de las condiciones que determinaría su castigo contable si estuviese ingresado en el activo, se registrará en la cuenta "Créditos comerciales castigados" de la partida 9600, de que trata el Capítulo 8-29 de esta Recopilación, debiéndose aplicar las instrucciones del numeral 4.1 del título IV de dicho Capítulo.
 
-Los créditos que queden registrados en la cuenta de orden "Créditos adquiridos a instituciones en liquidación" se mantendrán en dicha cuenta mientras no cumplan las condiciones generales que se establecen en el Capítulo 8-29 de esta Recopilación para el castigo de colocaciones vencidas. Cuando el crédito adquiera alguna de esas condiciones, deberá rebajarse el respectivo importe de esa cuenta de orden, a fin de que refleje solamente las colocaciones vigentes. En todo caso, aquellos créditos vencidos cuyo cobro aún puede obtenerse por la vía de un juicio ejecutivo se registrarán en la cuenta de orden "Colocaciones castigadas" de la partida 9600, quedando sujeto su tratamiento posterior a las instrucciones del Capítulo 8-29 antes mencionado y a las normas relativas a la información sobre créditos castigados contenidas en el Manual del Sistema de Información.
+7.6.- Créditos adquiridos a CORFO.
 
-7.6. Garantías.
+Las instituciones financieras que apliquen las instrucciones contables del presente Capítulo para la cartera adquirida de la Corporación de Fomento de la Producción (CORFO), deberán utilizar las siguientes cuentas:
 
-Las garantías inherentes a los créditos adquiridos deben registrarse en las siguientes cuentas:
+a) En vez de las cuentas de orden de la partida 9150 señaladas en el numeral 7.1, se utilizarán las cuentas "Diferencias de precio de créditos vigentes" y "Diferencias de precio de créditos vencidos" correspondientes a la partida 9153. Lo indicado en el numeral 7.4 debe entenderse referido, en este caso, a las cuentas de orden de la partida 9153.
 
-Debe: - "Garantías de créditos adquiridos a instituciones en liquidación", de las partidas 9210 ó 9220, según sea la naturaleza de la garantía.
-
-Haber: - "La cuenta de orden de la partida 9900".
+b) Para registrar los créditos en cuentas de orden según lo indicado en el numeral 7.5 precedente, en vez de las cuentas "Créditos adquiridos a instituciones en liquidación - vigentes" o "Créditos adquiridos a instituciones en liquidación - vencidos", de la partida 9150, se utilizarán las cuentas "Créditos adquiridos de CORFO - vigentes" y "Créditos adquiridos de CORFO - vencidos" de la partida 9153.
 
 ### 8. Márgenes
 
@@ -8436,29 +8422,19 @@ Si la liberación parcial o total de la garantía licitada se origina por la no 
 
 En el caso de que esa liberación ocurra por la devolución del préstamo amparado por esa garantía, se revertirá el asiento efectuado en las cuentas mencionadas en el numeral 9 2, con motivo de la utilización de la garantía.
 
-9.4. Prestamos garantizados por el Fondo.
+9.4.- Préstamos garantizados por el Fondo.
 
-Los préstamos amparados por el Fondo de Garantía que cursen las instituciones financieras se registrarán en una cuenta "Préstamos DL N° 3472", de la Partida 1110 ó 1205, según sean sus plazos.
+Los préstamos amparados por el Fondo de Garantía que cursen las instituciones financieras, así como los respectivos reajustes, intereses, traspasos a cartera vencida, provisiones y castigos, deben contabilizarse de conformidad con las instrucciones generales impartidas por esta Superintendencia.
 
-9 5 Préstamos vencidos pendientes de pago.
+En todo caso, las instituciones financieras deberán mantener identificados todos los créditos que se otorguen caucionados por el Fondo de Garantía de que trata este Capítulo.
 
-Los préstamos vencidos se registrarán en las cuentas de la partida 1405 que se señalan a continuación.
+9.5.- Recaudación de la comisión a favor del Fondo.
 
-a) Los préstamos vencidos, cuyo rembolso en la parte garantizada por el Fondo estuviera en trámite, se registrarán en la cuenta "Préstamos DL N° 3472 vencidos con garantía pendiente de pago".
+La comisión que los usuarios de estos créditos deben pagar al Fondo, y que tienen que recaudar las instituciones financieras adjudicatarias de las respectivas garantías, se abonarán por el período que medie entre su recepción y la fecha en que deben ponerse a disposición del Banco del Estado de Chile, en la cuenta "Comisiones recaudadas a favor del Administrador del Fondo de Garantía D.L. N° 3.472", de la partida 3010 "Otros saldos acreedores a la vista".
 
-b) La parte no garantizada por el Fondo se contabilizará en la cuenta "Prestamos DL N° 3472 vencidos, parte sin garantía" A esta misma cuenta se llevará la totalidad del crédito cuando la garantía sea objetada por el Fondo.
+9.6.- Recuperación de créditos vencidos a favor del Fondo.
 
-En lo demás, el traspaso se realizará de acuerdo con las normas generales establecidas en el Capítulo 8-26 de esta Recopilación Actualizada de Normas 9.6 Recaudación de la comisión a favor del Fondo.
-
-La comisión que los usuarios de estos créditos deben pagar al Fondo, y que tienen que recaudar las instituciones financieras adjudicatarias de las respectivas garantías, se abonarán por el período que medie entre su recepción y la fecha en que deben ponerse a disposición del Banco del Estado de Chile, en la cuenta "Comisiones recaudadas a favor del Administrador del Fondo de Garantía DL N° 3472", de la partida 3010 "Otros saldos acreedores a la vista".
-
-9.7. Intereses.
-
-Las instituciones financieras abonarán los intereses que cobren por estos préstamos a la cuenta "Intereses Préstamos DL N° 3472", de las partidas 7105, 7110 ó 7115, según corresponda.
-
-9.8. Recuperación de créditos vencidos a favor del Fondo.
-
-Los importes provenientes de recuperaciones de créditos vencidos que corresponda entregar al Administrador del Fondo, en rembolso parcial o total de la garantía pagada, se acreditarán a la cuenta "Recuperación Garantías DL N° 3472 por entregar al Fondo", de la partida 3010, "Otros saldos acreedores a la vista", en la que permanecerán hasta el instante en que deban entregarse al Banco del Estado de Chile, en su calidad de Administrador del Fondo.
+Los importes provenientes de recuperaciones de créditos vencidos que corresponda entregar al Administrador del Fondo, en rembolso parcial o total de la garantía pagada, se acreditarán a la cuenta "Recuperación Garantías D.L. N° 3.472 por entregar al Fondo", de la partida 3010, "Otros saldos acreedores a la vista", en la que permanecerán hasta el instante en que deban entregarse al Banco del Estado de Chile, en su calidad de Administrador del Fondo.
 
 Las sumas recuperadas y abonadas a esta cuenta deberán remitirse al Fondo a lo menos semanalmente.
 
@@ -8806,9 +8782,9 @@ Haber: "Obligaciones contingentes por avales y fianzas en moneda extranjera paga
 
 7.4. Avales y fianzas pagados por la entidad avalista con sus propios recursos.
 
-Cuando una institución financiera deba pagar con sus propios recursos una operación avalada o afianzada, cargará el importe desembolsado en la cuenta "Varios deudores", de la partida 1140 del formulario MB1. Si dicho importe no es recuperado dentro de los 90 días calendario siguientes, la entidad de que se trate lo traspasará a "Colocaciones vencidas, de la partida 1405 del formulario MB1.
+Cuando una institución financiera deba pagar con sus propios recursos una operación avalada o afianzada, cargará el importe desembolsado o el monto en moneda chilena necesario para adquirir la respectiva moneda extranjera si se trata de una cobertura en moneda extranjera, en una cuenta de la partida 1140 "Varios deudores".
 
-No obstante lo anterior, cuando un banco avalista efectúe la cobertura del importe desembolsado en moneda extranjera, debitará en la cuenta "Varios deudores" el monto en moneda chilena necesario para adquirir la respectiva moneda extranjera.
+Los importes registrados en "Varios deudores" que no sean recuperados, se traspasarán a cartera vencida dentro de los 90 días siguientes, conforme a lo establecido en el Capítulo 8-26 de esta Recopilación Actualizada de Normas.
 
 7.5. Custodia de Certificados de Inscripción.
 
@@ -9442,7 +9418,9 @@ El devengo de intereses y reajustes que las instituciones financieras efectúen 
 
 6.3. Registro de los créditos adquiridos.
 
-El valor de los créditos adquiridos se registrará en la cuenta de orden "Créditos adquiridos de CORFO", de la partida 9153. Dicha cuenta se ajustará como consecuencia de los pagos recibidos y por el devengo de reajustes e intereses, de acuerdo con las condiciones de cada crédito, independiente de los registros que deban hacerse, cuando corresponda, en las cuentas de activo anteriormente señaladas.
+El valor par de los créditos adquiridos se registrará en la cuenta de orden "Créditos adquiridos de CORFO-vigentes" o "Créditos adquiridos de CORFO - vencidos", de la partida 9153, según la situación en que se encuentre cada crédito en relación con lo indicado en el N° 4 del Capítulo 8-26 de esta Recopilación Actualizada de Normas. Dichas cuentas se ajustarán como consecuencia de los pagos recibidos y por el devengo de reajustes e intereses, de acuerdo con las condiciones de cada crédito, independientemente de los registros que deban hacerse, cuando corresponda, en las cuentas de activo anteriormente señaladas.
+
+En todo caso, si un crédito cumple alguna de las condiciones que determinaría su castigo contable si estuviese registrado en el activo, se registrará en la cuenta "Créditos comerciales castigados" de la partida 9600, de que trata el Capítulo 8-29 de esta Recopilación, debiéndose aplicar las instrucciones del numeral 4.1 del título IV de dicho Capítulo.
 
 6.4. Pagos efectuados por los deudores.
 
@@ -10052,13 +10030,13 @@ CARTERA VENCIDA. TRATAMIENTO DE COLOCACIONES E INVERSIONES FINANCIERAS VENCIDAS.
 
 ### 1. Colocaciones e intereses por cobrar vencidos
 
-1.1. Traspaso a cartera vencida o a intereses por cobrar vencidos.
+1.1. Traspaso a cartera vencida.
 
 Las instituciones financieras deben traspasar a cartera vencida los créditos o porción de éstos que no hayan sido pagados en la fecha convenida, dentro de los 90 días siguientes a su vencimiento.
 
 Al tratarse de importes de la partida 1140 "Varios Deudores", el plazo de 90 días se contará desde la fecha en que aquéllos se registraron en esa partida.
 
-Los traspasos se efectuarán a la cuenta "Colocaciones vencidas" o a las cuentas específicas dispuestas por esta Superintendencia para el registro de determinadas operaciones, de la partida 1405 del formulario MB1.
+Los traspasos se efectuarán a la cuenta de cartera vencida que corresponda, de las partidas 1401, 1411 ó 1416, considerando las cuentas señaladas en el Anexo N° 1 de este Capítulo para efectos de información a esta Superintendencia.
 
 En el evento de que las condiciones pactadas de un crédito contemplen la posibilidad de demandar al deudor el pago del valor total de un documento pagadero originalmente en cuotas, incluidas por lo tanto las cuotas no vencidas, se traspasará a cartera vencida, desde las respectivas cuentas de colocaciones e intereses por cobrar, el monto de las cuotas cuyo vencimiento no se haya
 
@@ -10076,7 +10054,7 @@ Al tratarse de créditos sobre los cuales se hubiere suspendido el reconocimient
 
 siguiente forma:
 
-a) Los reajustes e intereses suspendidos sólo originarán un traspaso en las respectivas cuentas de orden, de acuerdo con lo dispuesto en el numeral 3.1.3 del título II del referido Capítulo, sin afectar, por lo tanto, las cuentas de activo ni las de ingresos.
+a) Los reajustes e intereses suspendidos sólo originarán un traspaso en las respectivas cuentas de orden, de acuerdo con lo dispuesto en el 3-1.2 del título II del referido Capítulo, sin afectar, por lo tanto, las cuentas de activo ni las de ingresos.
 
 b) En el caso de créditos registrados a su valor final, el traspaso a cartera vencida no afectará el monto que se mantenga registrado en la respectiva cuenta del pasivo transitorio, "Intereses percibidos y no devengados", a que se refiere el numeral 2.4 del título II del Capítulo 7-1, el que permanecerá inalterable hasta tanto no se pague, renegocie, castigue o condone el respectivo crédito traspasado a cartera vencida.
 
@@ -10100,11 +10078,11 @@ Los importes correspondientes a los créditos pagaderos en cuotas que se hubiere
 
 1.3.4. Registro contable de los créditos vencidos renegociados.
 
-Los créditos renegociados se contabilizarán en subcuentas que, con el nombre de "Créditos renegociados provenientes de cartera vencida", se demostrarán en las partidas que correspondan del rubro colocaciones del MB1, de acuerdo a la naturaleza del crédito de que se trate. Sin embargo, cuando según lo previsto en el numeral 1.3.3 precedente, se reingresen a cartera vigente los saldos de créditos que se hubieren traspasado a cartera vencida por la causal establecida en el tercer párrafo del numeral 1.1 de este Capítulo, el reingreso se efectuará por los montos respectivos, a la cuenta en que originalmente se encontraban registrados dichos saldos.
-
-Los créditos se reingresarán a la cartera vigente junto con los intereses y reajustes que se hubieren suspendido por las causales señaladas en el N° 3 del título II del Capítulo 7-1 de esta Recopilación, los cuales se reconocerán en las respectivas cuentas de resultados y se considerarán capitalizados.
+Los créditos registrados en cartera vencida que se renegocien, se reingresarán a la cartera vigente junto con los intereses y reajustes que se hubieren suspendido por las causales señaladas en el N° 3 del título II del Capítulo 7-1 de esta Recopilación, los cuales se reconocerán en las respectivas cuentas de resultados y se considerarán capitalizados.
 
 Junto con el reingreso de los créditos renegociados a la cartera vigente, se deberán constituir, cuando corresponda, las provisiones por cartera renegociada de acuerdo con las instrucciones del N° 2 del título I del Capítulo 8-29 de esta Recopilación.
+
+En todo caso, las instituciones financieras deberán mantener identificados todos aquellos créditos que hayan reingresado a cartera vigente como consecuencia de una renegociación, como asimismo aquellos que hayan sido otorgados con el objeto de pagar créditos vencidos.
 
 2.- Inversiones financieras vencidas.
 
@@ -10113,6 +10091,46 @@ Conforme a lo dispuesto en el Capítulo 8-29 de esta Recopilación Actualizada d
 3.- Nómina que debe mantenerse a disposición de este Organismo.
 
 Las instituciones financieras deberán mantener a disposición de esta Superintendencia una nómina referida al último día de cada mes, con el detalle de las colocaciones vencidas que se mantengan registradas en sus cuentas de origen en virtud de no haberse cumplido el plazo máximo de 90 días fijado para su traspaso a cartera vencida.
+
+4.- Relación entre la cartera vencida y los créditos directos vencidos de la información sobre deudores.
+
+Los créditos directos que se incluyen como vencidos en la información de deudores que se envía a esta Superintendencia de acuerdo con las instrucciones del Manual del Sistema de Información, corresponden a los registrados en cartera vencida según las instrucciones del presente Capítulo.
+
+Dentro de las deudas vencidas se incluyen los respectivos intereses y reajustes suspendidos registrados en cuentas de orden de las partidas 9490 y 9510, según lo instruido en las letras a) y b) del numeral 3.1.2 del título II del Capítulo 7-1 de esta Recopilación, debiéndose agregar también, cuando existan las operaciones de que trata el Capítulo 8-7 de esta Recopilación, las diferencias de precio que complementan el valor nominal de esos créditos vencidos y que deben registrarse en las partidas 9150 y 9153.
+
+Se informarán también como créditos vencidos aquellos registrados en cuentas de orden que cumplan las condiciones que obligarían a traspasarlos a cartera vencida si estuviesen registrados en el activo, para cuyo efecto las instrucciones contables de esta Superintendencia contemplan la utilización de cuentas separadas.
+
+Por consiguiente, la diferencia entre el total de los créditos directos que deben informarse en calidad de vencidos de acuerdo con el Manual del Sistema de Información y la suma de los saldos de las cuentas de activo y de orden correspondientes a los créditos vencidos, deberá corresponder sólo a las obligaciones solidarias en que exista pluralidad de deudores.
+
+ANEXO N°1
+
+CUENTAS PARA LA CARTERA VENCIDA
+
+Código
+
+1401 000 00 CREDITOS COMERCIALES VENCIDOS.
+
+1401 001 00 Préstamos en letras de crédito vencidos.
+
+1404 002 00 Préstamos con mutuos hipotecarios endosables vencidos.
+
+1401 003 00 Créditos por tarjetas de crédito vencidos.
+
+1401 999 00 Otros saldos de la partida 1401.
+
+1411 000 00 CREDITOS DE CONSUMO VENCIDOS.
+
+1411 001 00 Créditos por tarjetas de crédito vencidos.
+
+1411 999 00 Otros saldos de la partida 1411.
+
+1416 000 00 CREDITOS HIPOTECARIOS PARA VIVIENDA VENCIDOS.
+
+1416 001 00 Préstamos en letras de crédito vencidos.
+
+1416 002 00 Préstamos con mutuos hipotecarios endosables vencidos.
+
+1416 999 00 Otros saldos de la partida 1416.
 
 CAPITULO 8-28 (Bancos y Financieras)
 
@@ -10288,7 +10306,7 @@ b) Su pago se efectúa en cuotas, normalmente iguales y sucesivas.
 
 c) Su monto original no excede, por lo general, del equivalente de 550 U.F. No obstante, aquellos créditos por un valor superior al recién indicado que por su naturaleza puedan ser considerados préstamos de consumo, deberán incluirse en esta clasificación y no en el grupo de créditos comerciales de que trata el N°2 de este título.
 
-Además de los créditos que cumplan con esas características, se considerarán como créditos de consumo para los efectos de clasificación de cartera, los créditos provenientes de la utilización de tarjetas de crédito, tanto de personas naturales como jurídicas.
+Además de los créditos que cumplan con esas características, se considerarán como créditos de consumo para los efectos de clasificación de cartera, los créditos provenientes de la utilización de tarjetas de crédito cuyos titulares sean personas naturales.
 
 3.2. Procedimiento para la clasificación de los créditos de consumo.
 
@@ -10830,7 +10848,7 @@ Además de la provisión global sobre la cartera de colocaciones y de las provis
 
 2.1. Provisiones transitorias sobre créditos renegociados.
 
-Los bancos y sociedades financieras que renegocien algún crédito o cuota después de transcurridos 90 días desde su vencimiento, deberán constituir una provisión equivalente al 100% de la diferencia entre el valor al cual estuviere registrado el crédito en el activo antes de la renegociación y el mayor valor al cual quedare contabilizado una vez que ésta se haya efectuado.
+Los bancos y sociedades financieras que renegocien algún crédito o cuota después de transcurridos 90 días desde su vencimiento, deberán constituir una provisión equivalente al 100% de la diferencia entre el valor al cual estuviere registrado el crédito en el activo antes de la renegociación y el mayor valor al cual quedare contabilizado una vez que ésta se haya efectuado. En caso de que se renegocie un crédito castigado, la provisión corresponderá al monto total ingresado al activo.
 
 La misma provisión deberá constituirse, cualquiera sea la oportunidad en que se efectúe la renegociación, cuando el crédito renegociado se encuentre en alguna de las situaciones que determinan la suspensión de intereses y reajustes antes del vencimiento, señaladas en el numeral 3.1.1 del título II del Capítulo 7-1 de esta Recopilación.
 
@@ -10840,7 +10858,7 @@ Las instituciones financieras que estuvieren clasificadas por lo menos por segun
 
 En el caso de las instituciones que no se encuentren en la situación prevista en el párrafo precedente, estas provisiones deberán mantenerse íntegramente hasta que esta Superintendencia examine en sus inspecciones habituales, la clasificación de los créditos renegociados e informe un nuevo riesgo para la cartera. Una vez examinada la clasificación podrán liberarse todas las provisiones sobre créditos renegociados constituidas hasta la fecha a la que esté referida la evaluación efectuada por esta Superintendencia, sin perjuicio de enterar, cuando corresponda, la provisión necesaria para cubrir la nueva pérdida estimada de la cartera, derivada de esa clasificación.
 
-No obstante lo anterior, si con anterioridad a la fecha en que se puede liberar íntegramente la provisión según lo señalado en los párrafos precedentes, la institución obtiene el pago de todo o parte del crédito renegociado o del nuevo crédito que origina la provisión, sin que se otorgue otro préstamo para el efecto, la institución podrá liberar el exceso de provisión constituida, entendiéndose por tal, el monto de la provisión que excede al valor del crédito una vez realizado el pago.
+Las provisiones por renegociación de créditos en cartera vencida o castigados se abonarán a la cuenta "Provisiones sobre créditos renegociados" de la partida 4205, con cargo a la cuenta de resultados del mismo nombre de la partida 6110.
 
 Quedan excluidos las disposiciones de este numeral, los créditos de consumo y los préstamos hipotecarios para la vivienda de que tratan los números 3 y 4 del título II del Capítulo 8-28 de esta Recopilación, respectivamente. Asimismo, quedarán exentos los créditos renegociados cuyo saldo después de la renegociación sea igual o inferior al equivalente de 1.000 unidades de fomento y aquellos que se destinen a pagar obligaciones que se encuentren en las situaciones antes señaladas, cuando no superen ese monto equivalente.
 
@@ -10924,43 +10942,51 @@ a) Por el castigo del activo:
 
 Debe: - "Provisiones individuales para créditos vencidos" o "Provisiones globales para la cartera de colocaciones", según corresponda, de la partida 4205.
 
+- "Castigos de créditos comerciales", "Castigos de créditos de consumo" o "Castigos de créditos hipotecarios de vivienda", según corresponda, de la partida 9602 "Castigos de colocaciones en el ejercicio", por el importe total en que se rebaja el activo contra las provisiones.
+
 Haber: - La cuenta de colocaciones, reajustes e intereses por cobrar que corresponda.
 
-Cuando se trate de un crédito registrado por su valor final, al que se le hubiere suspendido el reconocimiento contable del devengo de intereses y reajustes según lo indicado en el numeral 3.1.4 del título II del Capítulo 7.1, el castigo se hará con cargo a la cuenta "Intereses percibidos y no devengados", hasta por el monto de los intereses que por dicho crédito se mantenga en ella, debitando la respectiva cuenta de provisión sólo por la diferencia.
+- La cuenta de orden de la partida 9900.
+
+Cuando se trate de un crédito registrado por su valor final, al que se le hubiere suspendido el reconocimiento contable del devengo de intereses y reajustes según lo indicado en el numeral 3.1.2 el título II del Capítulo 7.1, el castigo se hará con cargo a la cuenta "Intereses percibidos y no devengados", hasta por el monto de los intereses que por dicho crédito se mantenga en ella, debitando la respectiva cuenta de provisión sólo por la diferencia.
 
 Simultáneamente con la contabilización antes señalada, deberán revertirse, cuando proceda, de las cuentas de orden que correspondan, los montos por los reajustes e intereses de los créditos castigados, cuyo devengo hasta la fecha de vencimiento no se reconoció en los resultados.
 
 El uso que se hace de las provisiones globales o la aplicación de las provisiones individuales en los castigos, no exime a las instituciones financieras de mantener el nivel de provisiones exigidas. Por consiguiente, si al castigar colocaciones se redujera el saldo de las provisiones a una suma inferior al nivel exigido, se deberá enterar el faltante con cargo a la respectiva cuenta de gastos.
 
-b) Por el control de los créditos castigados:
+Las cuentas de orden de la partida 9602 "Castigos de colocaciones en el ejercicio", se utilizarán para informar el monto de los castigos efectuados en el año. En esta partida se incluirán también, en cuentas separadas según lo previsto en el título III de este Capítulo, las rebajas del activo que obedecen a condonaciones. En consecuencia, los saldos de la partida 9602 reflejarán el uso de las provisiones individuales y globales en el ejercicio, debiendo revertirse tales saldos al comenzar el siguiente, a fin de reflejar sólo los castigos que se efectúen en ese año.
 
-Debe: - "Colocaciones castigadas" o "Créditos vigentes castigados anticipadamente", de la partida 9600 "Operaciones castigadas", según se trate de créditos vencidos o vigentes, por el importe correspondiente al castigo del activo más los intereses y reajustes que estuvieren registrados en cuentas de orden según las instrucciones del Capítulo 7-1 de esta Recopilación. En el caso de los créditos registrados a su valor final, se considerará dicho valor final.
+b) Por el control de los créditos castigados que deben informarse a esta Superintendencia:
 
-Haber: - "La cuenta de orden de la partida 9900".
+Junto con la contabilización de los castigos a que se refiere la letra a) precedente, deberá registrarse también en cuentas de orden el importe de los créditos que deben seguir siendo informados a esta Superintendencia con posterioridad a su castigo contable. Para este efecto se utilizarán las siguientes cuentas de la partida 9600: "Créditos comerciales castigados", "Créditos de consumo castigados" o "Créditos hipotecarios para vivienda castigados". No obstante, si se trata de créditos castigados antes de su vencimiento que no correspondan a créditos de consumo, se utilizarán las cuentas "Créditos comerciales vigentes castigados" o "Créditos hipotecarios para vivienda vigentes castigados", de la misma partida.
 
-Los créditos de consumo castigados de acuerdo con lo señalado en el numeral 3.2.2 precedente, se registrarán siempre en la cuenta "Colocaciones castigadas", aun cuando existan cuotas por vencer.
+En estas cuentas se registrarán los créditos por el importe correspondiente al castigo del activo más los intereses y reajustes que estuvieren registrados en cuentas de orden según las instrucciones del Capítulo 7-1 de esta Recopilación. En el caso de los créditos registrados a su valor final, se considerará dicho valor final.
 
-Se excluirán de la contabilización descrita precedentemente, los créditos vencidos que a su vez no se consideran para la información sobre créditos castigados que refunde esta Superintendencia, según lo indicado en el Capítulo 18-5 de esta Recopilación y en el Manual del Sistema de Información.
-
-Los importes registrados en las cuentas de orden antes indicadas, deberán revertirse en las oportunidades que se señalan en el numeral 3.5 de este título y en el N° 4 del título IV de este Capítulo.
+En cualquier caso, en las cuentas de orden de que trata esta letra b) debe incluirse solamente aquellos créditos que corresponde informar a esta Superintendencia según lo indicado en el Capítulo 18-5 de esta Recopilación y en el Manual del Sistema de Información. Los importes registrados en estas cuentas se revertirán en las oportunidades que se señalan en el N° 4 del título IV de este Capítulo.
 
 3.4. Castigo de créditos en moneda extranjera.
 
 Para castigar operaciones en moneda extranjera que no tienen acceso al mercado de divisas, con cargo a reservas o provisiones en moneda extranjera, debe obtenerse la respectiva autorización de esta Superintendencia y del Banco Central de Chile, conforme a lo dispuesto en el Capítulo 13-28 de esta Recopilación.
 
-La contabilización, en este caso, se ceñirá a lo dispuesto en el numeral precedente, debiendo utilizarse, además, el procedimiento descrito en el Capítulo mencionado en el párrafo anterior para rebajar la cuenta de colocaciones en moneda extranjera, con cargo a la cuenta respectiva de la cual se detraigan las divisas que se utilicen para el efecto, de la partida 4520 "Divisas autorizadas como reservas o provisiones", del formulario MB1.
+La contabilización, en este caso, se ceñirá a lo dispuesto en el numeral precedente, debiendo utilizarse, además, el procedimiento descrito en el Capítulo mencionado en el párrafo anterior para rebajar la cuenta de colocaciones en moneda extranjera, con cargo a la cuenta respectiva de la cual se detraigan las divisas que se utilicen para el efecto, de la partida 4520 "Divisas autorizadas como reservas o provisiones".
 
 En los casos en que se castiguen créditos en moneda extranjera que cuenten con acceso autorizado al mercado de divisas, las instituciones bancarias procederán a registrar la venta de la moneda extranjera en la forma que lo hacen habitualmente, con la diferencia de que la moneda chilena será debitada a la correspondiente provisión individual que se hubiere constituido y, si ésta fuere insuficiente, se recurrirá, por la parte que faltare, a la provisión global para la cartera de colocaciones.
 
 3.5.- Recuperación de créditos castigados.
 
-Las sumas que se recuperen con posterioridad al castigo de un crédito, deben considerarse como ingreso en el momento en que ellas sean percibidas. Para ese efecto se utilizará la cuenta "Recuperación de colocaciones e inversiones castigadas" que se incluirá en la partida 7910, o la cuenta del mismo nombre de la Partida 8105 del MR1, según se trate de créditos castigados en el mismo
+Las sumas que se recuperen con posterioridad al castigo de un crédito, deben considerarse como ingreso en el momento en que ellas sean percibidas. Para ese efecto se utilizará la cuenta "Recuperación de colocaciones e inversiones castigadas" de la partida 7910, o la cuenta del mismo nombre de la Partida 8105, según se trate de créditos castigados en el mismo ejercicio o en años anteriores.
 
-ejercicio o en años anteriores.
+Estas recuperaciones, cuando corresponda, darán origen a ajustes en las cuentas de orden de la partida 9600 en que se encuentren registrados los créditos castigados.
 
-Estas recuperaciones, cuando corresponda, darán origen a ajustes en las cuentas de orden en que se encuentren registrados los créditos castigados.
+Además, en el evento de que un crédito castigado se pague con el producto de un nuevo crédito, debe constituirse sobre este último la provisión de que trata el numeral 2.1 de este título.
 
-En el evento de que un crédito castigado se pague con el producto de un ,nuevo crédito, se constituirá también sobre este último la provisión de que trata el numeral 2.1 de este título. En este caso la nueva colocación quedará registrada en el activo, a diferencia de otras renegociaciones de créditos castigados en que el crédito renegociado se mantendrá registrado en cuentas de orden, sin perjuicio de informarlo como crédito vigente, según lo establecido en el numeral 4.2 del título IV de este Capítulo.
+3.6.- Renegociación de créditos castigados.
+
+En caso de que un crédito castigado sea objeto de renegociación, podrá reingresarse al activo bajo las mismas condiciones establecidas en el numeral 1.3 del Capítulo 8-26 de esta Recopilación Actualizada de Normas para el reingreso a cartera vigente de créditos vencidos.
+
+La colocación se registrará contra la cuenta de resultado "Recuperación de colocaciones e inversiones castigadas" mencionada en el numeral 3.5 anterior, debiendo simultáneamente constituirse, por el mismo monto, la provisión por renegociación de créditos a que se refiere el numeral 2.1 de este título, y revertirse los importes registrados en la cuenta de orden de la partida 9600.
+
+En todo caso, las instituciones financieras deberán mantener identificados todos aquellos créditos castigados que se hayan reingresado al activo, como asimismo aquellos que hayan sido otorgados con objeto de pagar créditos castigados.
 
 ### 4. Efecto tributario de provisiones sobre colocaciones
 
@@ -10994,15 +11020,15 @@ En todo caso, las inversiones deberán castigarse cuando la institución estime 
 
 2.2. Contabilización de los castigos.
 
-Los castigos se contabilizarán de la siguiente forma:
+a) Por el castigo del activo:
 
-Debe: - "Provisión por inversiones financieras riesgosas" de la partida 4210 del formulario MB1.
-
-- "Inversiones castigadas", que se abrirá para este efecto y que se incluirá en la partida 9600 "Operaciones castigadas" antes mencionada.
+"Debe: - "Provisión por inversiones financieras riesgosas" de la partida 4210.
 
 Haber: - La cuenta en que se encuentren registrados los documentos que se castigan.
 
-- "La cuenta de orden de la partida 9900.
+b) Por el control de los créditos castigados que deben informarse a esta Superintendencia:
+
+Junto con la contabilización del castigo a que se refiere la letra a) precedente, deberán registrarse en la cuenta de orden "Inversiones castigadas", de la partida 9600, el importe que debe informarse a esta Superintendencia como crédito castigado.
 
 2.3. Recuperación de inversiones castigadas.
 
@@ -11012,21 +11038,9 @@ Al mismo tiempo, deberá revertirse el monto que corresponda registrado en la cu
 
 ### III. CONDONACIONES
 
-Cuando se condone todo o parte de una colocación o de una inversión financiera, debido a que razonablemente existen motivos para rebajar el monto adeudado y porque se ha convenido la remisión con el deudor, las instituciones financieras deberán efectuar la siguiente contabilización:
+Cuando se condone todo o parte de un crédito porque existen motivos razonables para rebajar el monto adeudado y se ha convenido la remisión con el deudor, se seguirá el mismo tratamiento señalado en la letra a) del numeral 3-3 del título I de este Capítulo, con la diferencia de que en vez de las cuentas de orden que allí se indican, se utilizarán las siguientes cuentas de la partida 9602: "Condonaciones de créditos comerciales", "Condonaciones de créditos de consumo" y "Condonaciones de créditos hipotecarios de vivienda".
 
-Debe: - "Condonaciones de créditos" de la partida 6140 o "Condonaciones de inversiones" de la partida 6150 según corresponda.
-
-- "Colocaciones condonadas" o "Inversiones condonadas", según corresponda, de la partida 9601 "Operaciones condonadas", para registrar en cuentas de orden el total del monto condonado.
-
-Haber: - La cuenta de activo que corresponda.
-
-- "La cuenta de orden de la partida 9900.
-
-Además, cuando se condonen colocaciones vencidas deberán liberarse las provisiones individuales que se hubieren constituido y, cuando proceda, deberán revertirse también los asientos que se hubieren efectuado por los intereses y reajustes reconocidos sólo en cuentas de orden de acuerdo con las instrucciones del Capítulo 7-1 de esta Recopilación.
-
-Los importes que se registren en las cuentas "Colocaciones condonadas" e "Inversiones condonadas" de la partida 9601 de la partida 9900, se mantendrán en dichas cuentas hasta el cierre del ejercicio siguiente a aquel en que se efectúe la condonación. En consecuencia, en la apertura del ejercicio subsiguiente se revertirán esos importes, de manera que el saldo de las cuentas reflejará sólo las condonaciones efectuadas durante el año en curso y en el ejercicio inmediatamente anterior.
-
-Cuando se trate de condonar una operación ya castigada, se registrará el importe correspondiente en las cuentas señaladas en el párrafo precedente y se revertirá el monto respectivo de las cuentas "Colocaciones castigadas" o "Inversiones castigadas" de la partida 9600. Además, para efectos de la información que debe entregarse a esta Superintendencia y de acuerdo con lo indicado en el N° 4 del título IV de este capítulo, estas condonaciones deberán informarse a este Organismo junto con las recuperaciones de créditos castigados.
+Si la remisión alcanza a créditos registrados en cuentas de orden, deberán revertirse los respectivos importes de las cuentas que correspondan.
 
 ### IV. OTRAS DISPOSICIONES
 
@@ -11068,29 +11082,27 @@ Para informar acerca de las provisiones constituidas y sobre los castigos y recu
 
 4.1. Estado de castigos.
 
-Los montos registrados en las cuentas de orden "Colocaciones castigadas" e "Inversiones castigadas", de la partida 9600, incluyen sólo los créditos directos que deben computarse para la información del Estado de Castigos, de acuerdo con las instrucciones del Capítulo 18-5 de esta Recopilación y del Manual del Sistema de Información. De esta manera, la diferencia entre el Estado de Castigos de que trata ese Manual y los saldos de aquellas cuentas, se puede originar solamente por los créditos indirectos y las obligaciones solidarias en que exista pluralidad de deudores, registrados en esas cuentas una sola vez, y aquellas operaciones que estando registradas no se incluyen en el Estado de Castigos debido a su escaso monto.
+Los montos registrados en las cuentas de orden "Créditos comerciales castigados", "Créditos de consumo castigados" y "Créditos hipotecarios para vivienda castigados", de la partida 9600, como asimismo el registrado en la cuenta "Inversiones castigadas" de la misma partida, incluirán los créditos directos que deben computarse para la información de deudores que refunde esta Superintendencia de acuerdo con las instrucciones del Capítulo 18-5 de esta Recopilación y del Manual del Sistema de Información.
+
+En la cuenta "Créditos comerciales castigados" deben incluirse también los créditos directos provenientes de la cartera restituida por el Banco Central de Chile que se mantiene registrada en cuentas de orden de acuerdo con lo dispuesto en la Circular N° 2.478-853 de esta Superintendencia, cuando ellos cumplan las condiciones que obligarían a castigarlos si estuviesen registrados en el activo.
+
+Por consiguiente, la diferencia entre el total de los créditos que deben informarse como castigados de acuerdo con el Manual del Sistema de Información y la suma de los saldos de las cuentas de orden antes mencionadas, corresponderá a los créditos indirectos y las obligaciones solidarias en que exista pluralidad de deudores, registrados en esas cuentas una sola vez.
 
 Se revertirán los montos correspondientes en aquellas cuentas, cuando existan recuperaciones, renegociaciones, condonaciones, prescripciones u otros hechos que signifiquen eliminar los respectivos créditos o rebajar los importes de la información que las instituciones financieras deben enviar a este Organismo.
 
 Las reversiones que se efectúen como consecuencia del pago parcial de operaciones castigadas, deberán llevarse a cabo sólo cuando el valor actual de la obligación, una vez realizado el pago, sea inferior al importe registrado en la cuenta de orden por el respectivo crédito.
 
-Por otra parte, en el caso en que desaparezcan las causas que hubieren motivado la exclusión de un crédito castigado del Estado de Castigos según las instrucciones del numeral 2.3 del Capítulo 18-5 de esta Recopilación, su importe deberá registrarse nuevamente en la correspondiente cuenta de orden.
+Por otra parte, en el caso en que desaparezcan las causas que hubieren motivado la exclusión de un crédito castigado de la información de deudas que refunde esta Superintendencia, según las instrucciones del numeral 2.3 del Capítulo 18-5 de esta Recopilación, su importe deberá registrarse nuevamente en la correspondiente cuenta de orden.
 
 4.2. Créditos castigados contablemente que deben informarse como créditos vigentes.
 
-Deben informarse como créditos vigentes los créditos castigados cuyo vencimiento aún no se haya cumplido y aquellos que, estando castigados, hayan sido renegociados. No obstante, las cuotas por vencer de créditos de consumo castigados conforme a lo dispuesto en el numeral 3-2.2 del título I de este Capítulo, no se informarán como vigentes.
+Conforme a lo indicado en la letra b) del numeral 3.1.2 del título I de este Capítulo, los créditos castigados cuyo vencimiento aún no se haya cumplido deben informarse como créditos vigentes. Este procedimiento no alcanza a las cuotas por vencer de créditos de consumo castigados conforme a lo dispuesto en el numeral 3.2.2 del mismo título. Por consiguiente, corresponde informar como créditos vigentes aquellos que se encuentren registrados en las cuentas "Créditos comerciales vigentes castigados" o "Créditos hipotecarios para vivienda vigentes castigados", de la partida 9600.
 
-Cuando un crédito castigado sea objeto de renegociación, sin que ella involucre el pago del crédito mediante el otorgamiento de un nuevo crédito, se registrará aquél en la cuenta de orden "Créditos castigados renegociados" que se incluirá en la partida 9600.
-
-Tanto el saldo de la cuenta "Créditos vigentes castigados anticipadamente" como el de la cuenta "Créditos castigados renegociados", deberán ajustarse, por lo menos al cierre de cada mes, por el importe de los reajustes e intereses devengados de los respectivos créditos y por los pagos que se hubieren efectuado, de manera que tales cuentas reflejen el valor actual de los correspondientes créditos.
-
-Si un crédito castigado renegociado o una cuota de éste no es pagado dentro de los 90 días siguientes a su vencimiento, el crédito se informará en el Estado de Castigos, debiéndose revertir el importe correspondiente de las cuentas antes señaladas y efectuar su registro, cuando proceda, en las cuentas de que trata el numeral 4.1 precedente. Igual procedimiento deberá seguirse en el caso de los créditos que se hayan castigado aún estando vigentes a que se refiere el primer párrafo de este numeral.
+El saldo de dichas cuentas deberá ajustarse, por lo menos al cierre de cada mes, por el importe de los reajustes e intereses devengados de los respectivos créditos y por los pagos que se hubieren efectuado, de manera que tales cuentas reflejen el valor actual de los correspondientes créditos. Si un crédito o una cuota de éste no es pagado dentro de los 90 días siguientes a su vencimiento, el crédito se informará como castigado, debiéndose revertir el importe correspondiente de las cuentas antes señaladas y efectuar su registro en las cuentas de que trata el numeral 4.1 precedente.
 
 4.3. Registro contable de créditos que no se incluyen en la información sobre deudores.
 
-Lo indicado en el numeral 4.1 anterior, no es óbice para que las instituciones financieras contabilicen en cuentas de orden abiertas para los efectos de control interno, los créditos que no deban ser computados para la información del Estado de Castigos.
-
-Al respecto, debe tenerse presente que la exclusión de ciertos créditos por las causales señaladas en el Capitulo 18-5 de esta Recopilación, alcanza sólo al Estado de Castigos que refunde esta Superintendencia y no a los créditos castigados de deudores relacionados con la entidad financiera informante. Como éstos deben considerarse para determinar la deuda relacionada, conforme se señala en el Capitulo 12-4 de estas Normas, para efectos de un mejor control también pueden ser objeto de un registro contable que se deja a criterio de cada institución.
+Lo indicado en el numeral 4.1 anterior, no es óbice para que las instituciones financieras contabilicen en cuentas de orden abiertas para los efectos de control interno, aquellos créditos que por las causales señaladas en el Capítulo 18-5 de esta Recopilación, deben excluirse de la información de deudas que se envía a esta Superintendencia. Los saldos de dichas cuentas se incluirán en la partida 9899 para efectos de información a este Organismo.
 
 CAPITULO 8-30 (Bancos y Financieras)
 
@@ -11348,7 +11360,9 @@ Haber: "Dividendos prorrogados-Acuerdo 1517" y las cuentas complementarias de re
 
 6.3 - Dividendos no pagados a su vencimiento.
 
-Los dividendos no pagados a su vencimiento deben registrarse en las cuentas "Dividendos hipotecarios vencidos" o "Dividendos reprogramados vencidos-Acuerdo 1517", según corresponda, de la partida 1410.
+Los dividendos no pagados a su vencimiento deben traspasarse a cartera vencida de acuerdo con las normas del Capítulo 8-26 de esta Recopilación.
+
+En todo caso, las instituciones financieras deberán mantener permanentemente identificados los importes correspondientes a dividendos reprogramados con recursos del Banco Central de Chile, según Acuerdo 1517.
 
 6.4.- Refinanciamiento del Banco Central de Chile.
 
@@ -11516,7 +11530,9 @@ Haber: - "Dividendos reprogramados créditos financiados con bonos-Acuerdo 1719"
 
 9.4.- Dividendos no pagados a su vencimiento.
 
-Los dividendos parciales o prorrogados no pagados a su vencimiento, deben registrarse en las cuentas "Dividendos parciales vencidos", "Dividendos reprogramados vencidos-Acuerdo 1583", "Dividendos reprogramados vencidos-Acuerdo 1719", según corresponda, de la partida 1410. Dicho traspaso se efectuará de conformidad con las normas contenidas en el Capítulo 8-26 de esta Recopilación Actualizada de Normas
+Los dividendos parciales o prorrogados no pagados a su vencimiento deben traspasarse a cartera vencida de acuerdo con las normas del Capítulo 8-26 de esta Recopilación.
+
+En todo caso, las instituciones financieras deberán mantener permanentemente identificados los importes correspondientes a dividendos reprogramados con recursos del Banco Central de Chile, según Acuerdos 1583 y 1719.
 
 9.5.- Refinanciamiento del Banco Central de Chile.
 
@@ -11602,23 +11618,23 @@ Los intereses devengados sobre estos créditos se registran en la cuenta complem
 
 Por otra parte, los reajustes devengados se registran en la cuenta complementaria de reajustes por cobrar, con abono a la cuenta "Reajustes ganados por préstamos hipotecarios financiados con bonos-Acuerdo 1719", de la partida 7305.
 
-III.- REPROGRAMACIONES DE CREDITOS DE CONSUMO.
+### III. Suprimido
 
 1.- Importes acogidos a ampliación de plazo.
 
-El importe acogido a ampliación de plazo de los créditos de consumo que reunieron los requisitos para tal efecto, de conformidad con lo establecido por el ex-Comité Ejecutivo del Banco Central de Chile en su Acuerdo de sesión N° 1581, fue el 100% de las cuotas atrasadas que vencieron entre el 1° de enero y el 30 de junio de 1984, y un 40% de las cuotas con vencimiento a partir del 1° de agosto de 1984.
+El importe acogido a ampliación de plazo de los créditos de consumo que reunieron los requisitos para tal efecto, de conformidad con lo establecido por el ex-Comité Ejecutivo del Banco Central de Chile en su Acuerdo de sesión N° 1581, fue el 100% de las cuotas atrasadas que vencieron entre el 1° de enero y el 30 de junio de 1984, y un 40% de las cuotas con vencimiento a partir del 1° de agosto de 1984. Eliminado.
 
 2.- Condiciones que se aplican a los montos prorrogados.
 
-Los montos prorrogados se mantienen expresados en Unidades de Fomento o en moneda extranjera, según corresponda, y devengan intereses a una tasa máxima de 8% anual.
+Los montos prorrogados se mantienen expresados en Unidades de Fomento o en moneda extranjera, según corresponda, y devengan intereses a una tasa máxima de 8% anual. Eliminado.
 
 3.- Pago de los montos prorrogados.
 
-Los importes acogidos a ampliación de plazo, deben comenzar a pagarse a contar del periodo siguiente al término del plazo estipulado en el crédito de consumo original, mediante servicios de la misma periodicidad establecida en dicho crédito de consumo e iguales entre si No obstante lo anterior, el último de dichos servicios puede ser diferente por razones de ajuste.
+Los importes acogidos a ampliación de plazo, deben comenzar a pagarse a contar del periodo siguiente al término del plazo estipulado en el crédito de consumo original, mediante servicios de la misma periodicidad establecida en dicho crédito de consumo e iguales entre si No obstante lo anterior, el último de dichos servicios puede ser diferente por razones de ajuste. Eliminado.
 
 4.- Deudores que se excluyen por incumplimiento.
 
-Los deudores que se han acogido a la ampliación de plazo de que trata este título, que mantuvieren servicios impagos por más de tres meses, cuando se trate de servicios mensuales, o por más de seis meses, en aquéllos que contemplen una periodicidad más amplia, quedarán excluidos de los beneficios de este sistema. En este evento, la entidad financiera podrá anular la respectiva reprogramación y la deuda volverá a sus condiciones originales.
+Los deudores que se han acogido a la ampliación de plazo de que trata este título, que mantuvieren servicios impagos por más de tres meses, cuando se trate de servicios mensuales, o por más de seis meses, en aquéllos que contemplen una periodicidad más amplia, quedarán excluidos de los beneficios de este sistema. En este evento, la entidad financiera podrá anular la respectiva reprogramación y la deuda volverá a sus condiciones originales. Eliminado.
 
 5.- Instrucciones contables.
 
@@ -11636,7 +11652,7 @@ Haber: - "Intereses ganados por cuotas de créditos de consumo prorrogadas-Acuer
 
 Debe: La cuenta complementaria de reajustes por cobrar que corresponda, de la partida 1240.
 
-Haber: "Reajustes ganados por cuotas de créditos de consumo prorrogadas-Acuerdo 1581" de la partida 7320.
+Haber: "Reajustes ganados por cuotas de créditos de consumo prorrogadas-Acuerdo 1581" de la partida 7320. Eliminado.
 
 CAPITULO 8-36 (Bancos y Financieras)
 
@@ -12682,7 +12698,7 @@ Debe: - "Intereses por pagar en cupones por vencer", por los intereses devengado
 
 - "Letras de crédito en circulación con amortización directa", por el valor nominal o residual de la letra.
 
-Haber: - "Letras de crédito de emisión propia", de la partida 1735 del MB1.
+Haber: - "Letras de crédito de propia emisión", de la partida 1735.
 
 - La cuenta que corresponda por los respectivos intereses.
 
@@ -12702,13 +12718,11 @@ Haber: "Préstamos en letras de crédito con amortización directa". En caso que
 
 11.1.- Ingreso a cartera vencida.
 
-El plazo para traspasar a cartera vencida los dividendos que se mantengan impagos se fija en 90 días, contados desde el día 19 del mes en que deba efectuarse su pago, que para estos efectos se considerará como fecha de vencimiento en concordancia con la regla general en vigencia.
+El plazo para traspasar a cartera vencida cada dividendo que se mantenga impago es de 90 días contados desde el día 1° del mes en que deba efectuarse su pago, que para estos efectos se considera como fecha de vencimiento.
 
-El procedimiento anotado se seguirá con cada uno de los dividendos de un mismo crédito que permanezcan impagos, a más tardar cuando cumplan 90 días desde la fecha de vencimiento antes señalada.
+El traspaso a cartera vencida se registrará de acuerdo con lo previsto en el Capítulo 8-26 de esta Recopilación.
 
-En la eventualidad de que un crédito con dividendos en mora o vencidos contenga la llamada "cláusula de aceleración", según la cual, con motivo del no pago de un determinado número de cuotas o dividendos, pueda hacerse exigible la totalidad del crédito, el saldo insoluto de dicho préstamo se llevará a la cuenta "Préstamos en letras de crédito vencidos" de la partida 1410 del MB1,
-
-dentro de un plazo de 90 días a contar desde la fecha en que se haya presentado la demanda judicial.
+En la eventualidad de que un crédito con dividendos en mora o vencidos contenga la llamada "cláusula de aceleración", según la cual, con motivo del no pago de un determinado número de cuotas o dividendos, pueda hacerse exigible la totalidad del crédito, el saldo insoluto de dicho préstamo se registrará en cartera vencida de acuerdo con lo previsto en el Capítulo 8-26 de esta Recopilación, dentro de un plazo de 90 días a contar desde la fecha en que se haya presentado la demanda judicial.
 
 11.2. Suspensión del reconocimiento de reajustes, intereres y comisiones.
 
@@ -12728,7 +12742,7 @@ intereses y comisiones que se incluyeron al constituirse.
 
 12.1. Reingreso a cartera vigente.
 
-Los créditos incluidos en la cuenta "Préstamos en letras de crédito vencidos" podrán reingresarse a la cuenta de origen de la cartera vigente, cuando se paguen o renegocien todos sus dividendos en mora.
+Los créditos que se encuentren registrados en cartera vencida por haberse aplicado la cláusula de aceleración, podrán reingresarse a la cuenta de origen de la cartera vigente cuando se paguen o renegocien todos sus dividendos en mora.
 
 12.2. Reconocimiento de reajustes, intereses y comisiones.
 
@@ -12740,7 +12754,7 @@ De acuerdo con lo dispuesto en el numeral 3.2.2, título I, del Capítulo 8-29 d
 
 13.- Primas de seguro.
 
-Las instituciones financieras que paguen primas de seguro de incendio, de desgravamen y de cesantía involuntaria antes de contar con la provisión de fondos del deudor, registrarán dichos importes con cargo a la cuenta "Primas de seguro a cargo de deudores de préstamos hipotecarios", de la partida 1140. En caso que estas sumas no sean pagadas dentro de los 90 días siguientes a la fecha de su registro en esta cuenta, deben ser traspasadas a "Dividendos hipotecarios vencidos", de la partida 1410, a más tardar al término del plazo antes mencionado.
+Las instituciones financieras que paguen primas de seguro de incendio, de desgravamen y de cesantía involuntaria antes de contar con la provisión de fondos del deudor, registrarán dichos importes con cargo a la cuenta "Primas de seguro a cargo de deudores de préstamos hipotecarios", de la partida 1140. En caso que estas sumas no sean pagadas dentro de los 90 días siguientes a la fecha de su registro en esta cuenta, deben ser traspasadas a la cuenta de cartera vencida en la que corresponda registrar el crédito que dio origen a la respectiva prima, de conformidad con lo previsto en el Capítulo 8-26 de esta Recopilación, a más tardar al término del plazo antes mencionado.
 
 No obstante lo anterior, cuando las instituciones financieras paguen, en forma anticipada, primas de seguro de incendio correspondientes a todo el período de la cobertura y cobren dichos importes en parcialidades, podrán mantener esos montos registrados en la cuenta "Primas de seguro a cargo de deudores de préstamos hipotecarios" por más de 90 días, siempre que los respectivos deudores se encuentren al día en el servicio de sus créditos.
 
@@ -12838,7 +12852,7 @@ Debe: -"Letras de crédito en circulación con amortización indirecta".
 
 -"Cupones por vencer" por el monto de los intereses devengados entre el último vencimiento y la fecha de rescate.
 
-Haber: -"Letras de crédito de emisión propia", de la partida 1735 del MB1.
+Haber: -"Letras de crédito de propia emisión", de la partida 1735.
 
 -La cuenta que corresponda por los intereses respectivos.
 
@@ -17998,7 +18012,7 @@ Los márgenes de tres y diez por ciento a que se refiere este capítulo, se calc
 
 a) Fondos disponibles, excepto las partidas 1015 y 1020.
 
-b) Colocaciones, con excepción de las colocaciones contingentes, de las colocaciones en letras de crédito (partidas 1245, 1305, 1310, 1315 y 1410) y de las cuentas Deudores por Cartas de Crédito Negociadas y Créditos para Importación, de las partidas 1125 y 1220.
+b) Colocaciones, con excepción de las colocaciones contingentes, de las colocaciones en letras de crédito (partidas 1245, 1305, 1310 y 1315, más las cuentas "Préstamos en letras de crédito vencidos" de las partidas 1401 y 1416) y de las cuentas Deudores por Cartas de Crédito Negociadas y Créditos para Importación, de las partidas 1125 y 1220.
 
 c) Operaciones con pacto de retrocompra.
 
@@ -18194,6 +18208,8 @@ Sin perjuicio de la información que puede solicitarse para verificar el cumplim
 
 > **Nota.** La letra C) de la Circular 2793, SBIF, promulgada el 05.10.1994, modifica el presente Anexo, a fin de incorporar la cuenta correspondiente a inversiones en bancos extranjeros, en los indicadores del Sistema Contable relativos al Capital pagado y reservas.
 
+> **Nota.** NOTA 1 La letra G, del N° 7, I) de la Circular 2867, SBIF, promulgada el 17.09.1996, modifica el presente Anexo, a fin de salvar un error en la descripción del indicador "B2", eliminar las referencias a bonos de propia emisión y actualizar los datos correspondientes a la cartera vencida de acuerdo con las nuevas instrucciones.
+
 ANEXO N°2
 
 COMPUTO DE LAS RELACIONES ENTRE OPERACIONES ACTIVAS Y PASIVAS EN MONEDA CHILENA NO REAJUSTABLES
@@ -18211,6 +18227,8 @@ Los indicadores antes señalados corresponden a la suma de los saldos contables 
 IMAGEN.
 
 > **Nota.** La letra E) del N° 1, de la Circular 2796, SBIF, promulgada el 14.11.1994, modifica el presente Anexo, a fin de incorporar las cuentas correspondientes a los contratos Forward UF-Pesos, en los indicadores del sistema contable relativos al cómputo de operaciones activas y pasivas.
+
+> **Nota.** NOTA 1 La letra G, del N° 7, I) de la Circular 2867, SBIF, promulgada el 17.09.1996, modifica el presente Anexo, a fin de salvar un error en la descripción del indicador "B2", eliminar las referencias a bonos de propia emisión y actualizar los datos correspondientes a la cartera vencida de acuerdo con las nuevas instrucciones.
 
 ANEXO N° 3
 
@@ -18243,6 +18261,8 @@ Sin perjuicio de la información que puede solicitarse para verificar el cumplim
 > **Nota.** NOTA 1 El N° 2.1 del Numeral 2 de la Circular 2752, SBIF, promulgada el 10.08.1993, de acuerdo a las con las instrucciones de los Capítulos 13-2 y 13-23 adjuntos, se crean las partidas 2127 y 4127 con el nombre "Operaciones a futuro" y se eliminan las partidas 2125, 2126, 4125 y 4126. Además, se modifican los nombres de las partidas 9550 y 9551, las que pasan a denominarse "Contratos a futuro" y "Contratos de protección de tasas de interés", respectivamente.
 
 > **Nota.** NOTA 2 La letra B) de la Circular 2789, SBIF, promulgada el 02.09.1994, modifica el presente Anexo, en lo que concierne a la definición de los indicadores que contemplan el cómputo del saldo de la Posición de Cambios.
+
+> **Nota.** NOTA 3 La letra G, del N° 7, I) de la Circular 2867, SBIF, promulgada el 17.09.1996, modifica el presente Anexo, a fin de salvar un error en la descripción del indicador "B2", eliminar las referencias a bonos de propia emisión y actualizar los datos correspondientes a la cartera vencida de acuerdo con las nuevas instrucciones.
 
 CAPITULO 12-10 (Bancos y Financieras)
 
@@ -21656,27 +21676,19 @@ En caso que la garantía no sea utilizada en el plazo de tres meses señalado pr
 
 Cuando la garantía sea liberada por la recuperación del préstamo caucionado, se revertirá el asiento contable de que trata el numeral 14.2 de este capitulo.
 
-14.4. Préstamos garantizados por el Fondo.
+14.4.- Préstamos garantizados por el Fondo.
 
-Los préstamos amparados por el Fondo de Garantía que cursen las instituciones financieras, se registrarán en la cuenta "Préstamos a exportadores no tradicionales Ley 18.645" que se crea para tal efecto, la que será demostrada en la partida 1130 del formulario MB1.
+Los préstamos amparados por el Fondo de Garantía que cursen las instituciones financieras, así como los respectivos reajustes, intereses, traspasos a cartera vencida, provisiones y castigos, deben contabilizarse de conformidad con las instrucciones generales impartidas por esta Superintendencia.
 
-14.5. Préstamos vencidos pendiente de pago.
+En todo caso, las instituciones financieras deberán mantener identificados todos los créditos que se otorguen caucionados por el Fondo de Garantía de que trata este Capítulo.
 
-Los préstamos vencidos, cuyo rembolso de la parte garantizada por el Fondo estuviera en trámite, serán registrados en la cuenta "Préstamos a exportadores no tradicionales Ley 18.645 con garantía pendiente de pago", en tanto que la parte no garantizada se registrará en la cuenta "Préstamos a exportadores no tradicionales Ley 18.645 sin garantía". Ambas cuentas serán demostradas en la partida 1405 del formulario MB1.
+14.5. Recaudación de la comisión a favor del Fondo.
 
-En los casos en que el pago de la garantía sea rechazado por el Fondo, el total del crédito se deberá registrar en la cuenta "Préstamos a exportadores no tradicionales Ley 18.645 sin garantía".
+La comisión a favor del Fondo que las instituciones adjudicatarias de las respectivas garantías tienen que recaudar de los usuarios de los créditos, será acreditada, por el período que medie entre su percepción y la fecha en que se ponga a disposición del Banco del Estado de Chile, en la cuenta "Comisiones a favor del Fondo de Garantía para Exportadores no Tradicionales", de la partida 3010.
 
-14.6. Recaudación de la comisión a favor del Fondo.
+14.6. Recuperación de créditos vencidos a favor del Fondo.
 
-La comisión a favor del Fondo que las instituciones adjudicatarias de las respectivas garantías tienen que recaudar de los usuarios de los créditos, será acreditada, por el período que medie entre su percepción y la fecha en que se ponga a disposición del Banco del Estado de Chile, en la cuenta "Comisiones a favor del Fondo de Garantía para Exportadores no Tradicionales", cuyo saldo será demostrado en la partida 3010 del formulario MB1.
-
-14.7. Intereses.
-
-Los intereses devengados sobre los préstamos que cursen al amparo de esta garantía, serán acreditados en la cuenta "Intereses ganados" de la partida 7105, 7110 ó 7115 del formulario MR1, según corresponda.
-
-14.8. Recuperación de créditos vencidos a favor del Fondo.
-
-Los importes provenientes de recuperaciones de créditos vencidos que corresponda entregar al Fondo, en rembolso parcial o total de la garantía pagada por éste,se acreditarán en la cuenta "Recuperaciones de garantías por entregar al Fondo para exportadores no tradicionales", la que se demostrará en la partida 3010 del formulario MB1, hasta la fecha en que sean remitidos al Banco del Estado de Chile.
+Los importes provenientes de recuperaciones de créditos vencidos que corresponda entregar al Fondo, en rembolso parcial o total de la garantía pagada por éste,se acreditarán en la cuenta "Recuperaciones de garantías por entregar al Fondo para exportadores no tradicionales", de la partida 3010, hasta la fecha en que sean remitidos al Banco del Estado de Chile.
 
 Los referidos montos serán entregados al Administrador del Fondo a lo menos semanalmente.
 
@@ -23515,6 +23527,8 @@ OBSERVACIONES:
 > **Nota.** NOTA 1 La letra F) del N° I, de la Circular 2803, SBIF, promulgada el 29.12.1994, modifica el modelo de Balance General a fin de incluir el rubro "Provisiones Voluntarias" y el formato del Estado de Resultados para que se incluyan separadamente los ingresos correspondientes a comisiones ganadas, actualizándose las instrucciones relativas a las partidas asociadas a los rubros del Balance General y del Estado de Resultados, contenido en el presente Anexo.
 
 > **Nota.** NOTA 2 La letra I) de la Circular 2837, SBIF, promulgada el 27.12.1995, modifica los formatos del Balance General y del Estado de Resultados y las instrucciones pertinentes, contenidas en el presente Anexo.
+
+> **Nota.** NOTA 3 La letra J, N° 7, I, de la Circular 2867, promulgada el 17.09.1996, modifica el presente Anexo, actualizando la relación de partidas de acuerdo con los cambios que se introducen mediante la presente Circular.
 
 ANEXO N° 2
 
