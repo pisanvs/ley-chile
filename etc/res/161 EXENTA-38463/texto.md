@@ -1,0 +1,9 @@
+COMPLEMENTA RESOLUCION EXENTA NUMERO 29, DE 1993 Núm. 161 exenta.- Antofagasta, 28 Junio 1993.- Visto: La Resolución Exenta N° 029 del 29 de Abril de 1993 de esta Subsecretaría Regional Ministerial de Transportes y Telecomunicaciones, dictada conforme a las facultades conferidas por el artículo 76 del D.S. N° 212/92 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, y Considerando: Los problemas planteados por los responsables de servicios de alquiler de turismo que a la fecha de vigencia de la Resolución se encontraban inscritos en el Registro Nacional de servicio de Transporte de Pasajeros
+
+Resuelvo:
+
+1) Compleméntase la Resolución Exenta N° 029 del 29 de Abril de 1993 de esta Secretaría Regional, en el sentido de establecer que la fecha de exigibilidad del requisito de color, que dispone para los vehículos con que se presten servicios de alquiler de turismo en la II Región, es aplicable a aquellos vehículos con los que a contar del 1 de Mayo de 1993 se inscriban servicios en esta modalidad en el Registro Nacional de Servicios de Transportes de Pasajeros o que a partir de esa misma fecha se incorporen a servicios inscritos en dicho Registro.
+
+2) Los vehículos de alquiler con los que se presten servicios de turismo en la II Región y que al 30 de Abril de 1993, estaban inscritos en el Registro Nacional de Servicios de Transporte de Pasajeros, les será exigible la pintura color azul, definida en la norma NCh 1927, a contar del 1 de Enero de 1994.
+
+Anótese y Públíquese.- Gastón Viveros Viveros, Secretario Regional Ministerial de Transportes y Telecomunicaciones (S) Región de Antofagasta.
