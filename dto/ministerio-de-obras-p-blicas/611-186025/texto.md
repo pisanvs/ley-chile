@@ -1,0 +1,3 @@
+Por decreto MOP Nº 611, de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº 107, superficie 1.801 m², rol de avalúo 2026-386, comuna de Melipilla, para la obra "Camino Reposición Ruta G-74-F, Sector Melipilla - Bollenar, Km. 0,00000 a Km. 14,23039" y se acordó el valor de indemnización con su propietario Exequiel Enrique Núñez Armijo, ascendente a la cantidad de $9.915.910.-
+
+Fiscal del Ministerio de Obras Públicas.
