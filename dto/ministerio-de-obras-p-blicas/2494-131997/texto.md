@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.494 de fecha 30 de noviembre de 1998, se expropió el lote de terreno No. 1-8A, superficie 279,9 m2., rol de avalúo 186-6, comuna de Colina, para la obra "Camino Santiago-Colina-Los Andes, Sector Enlace Chacabuco, Km. 41.700,00 a Km. 42.100,00", Región Metropolitana, y se acordó el valor de indemnización con su propietario Olivia Riquelme Ortiz, ascendente a la cantidad de $ 1.029.168.-
+
+Fiscal del Ministerio de Obras Públicas.
