@@ -1,0 +1,3 @@
+Por resolución exenta Nº 387, de 11 de febrero de 2005, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 268 de 2005, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las agregaciones de jurel en la III Región temporada 2005", en el sentido de incorporar a las siguientes embarcaciones artesanales en la presente pesca de investigación: "Chubasco I", "Rocío II", "Oso Yogui", "Pionero", "Xolot", "Don José Edgardo" y "Fortuna III".
+
+Valparaíso, 11 de febrero de 2005.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
