@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.549 de fecha 29 de septiembre del 2000, se expropió el lote de terreno Nº26, superficie 76,00 m², sin rol, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa I'' y se acordó el valor de indemnización con su propietario(a) Oriel Santibáñez Carpio, ascendente a la cantidad de $182.251.-
+
+Fiscal del Ministerio de Obras Públicas.
