@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 80, de fecha, 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas 2331-2333, Rol 332-4 Santiago, aparente dominio María Salinas Bouvret, superficie aproximada a expropiar 403 m2. Deslindes: Norte, 13,40 mts. con resto del predio; Sur, 13,60 mts. con calle Agustinas; Oriente, 29,70 mts. con otro propietario y Poniente, 30,00 mts. con otro propietario. Indemnización provisional $ 8.003.000.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
