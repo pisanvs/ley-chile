@@ -1,0 +1,11 @@
+Por resolución Nº 2.529, de esta Subsecretaría, autorízase al INSTITUTO DE INVESTIGACION PESQUERA OCTAVA REGION, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2000-10 denominado ''Condición Biológica del Jurel en Altamar'', aprobado por el Consejo de Investigación Pesquera y por esta Subsecretaría, el cual se considera como parte integrante de la presente resolución.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en estimar índices relativos de abundancia de huevos y larvas de jurel en el sector oceánico de Chile centro-sur y caracterizar las agregaciones del recurso en el área durante el período de máxima actividad reproductiva.
+
+La pesca de investigación que se autoriza se efectuará en el área marítima comprendida entre los paralelos 33° y 39° L.S., por fuera del área de reserva artesanal, dividida en dos etapas: a) Primera etapa: a partir de la fecha de publicación de la presente resolución y hasta las 24:00 horas del 4 de diciembre de 2000, a efectuarse en el área marítima comprendida entre las 200 y 1020 millas náuticas, medidas desde la costa. b) Segunda etapa: a partir de las 00:00 horas del día 5 de diciembre y hasta las 24:00 horas del día 20 de diciembre de 2000, a efectuarse en el área marítima correspondiente a la Zona Económica Exclusiva de la República.
+
+En la pesca de investigación que se autoriza, participarán realizando tareas de prospección y muestreo, con red de cerco y arrastre de media agua, según corresponda, las siguientes naves industriales: Vikingo, Javier, Ligrunn, Verdi, El Cazador, Fox, Malleco, Líder, Allipén I, Veabas, Remoy Viking, Don Boris y Paniahue.
+
+El Instituto designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102 del DS Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción, a su Director, don Dagoberto Arcos Rojas.
+
+Valparaíso, 23 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
