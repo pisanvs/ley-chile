@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 689 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 80, superficie 404,00 m2, rol de avalúo 536-73, comuna de Río Bueno, para la obra "Camino Río Bueno-Crucero, Rol T-90-U y T-933, Km. 0,000 al 20,900 (II Parte)" y se acordó el valor de indemnización con su propietario Heliberto Coronado Nancuz, ascendente a la cantidad de $452.924.-
+
+Fiscal del Ministerio de Obras Públicas.
