@@ -1,0 +1,3 @@
+Por decreto MOP Nº266 de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº2, superficie 546 m², Rol Nº1129-54, comuna de Pichilemu, VI Región para la obra "Camino Pichilemu - Cáhuil, Ruta I-500, Km. 0,0980 a Km. 12,76217" y se acordó el valor de indemnización con su propietario Sociedad Civil Comercial Playa Hermosa Pichilemu Limitada, ascendente a la cantidad de $9.606.377.
+
+- Fiscal del Ministerio de Obras Públicas.
