@@ -1,0 +1,1 @@
+Fija el texto refundido de las disposiciones legales sobre sueldos y gratificaciones para el personal de Carabineros de Chile.
