@@ -1,0 +1,3 @@
+Por Resolución N° 984, de 20 de mayo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por JOSE WALDO RUIZ GUERRERO, para un centro de cultivo ubicado en Ensenada Mapue, Isla Tranqui, Comuna de Queilén, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78°, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de mayo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
