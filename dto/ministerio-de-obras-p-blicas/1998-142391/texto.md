@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.998, de 30 de julio de 1999, se expropió el lote de terreno Nº 8, superficie 330 m², rol de avalúo 1334-26, comuna de San Carlos, para la obra ''Ruta 5 tramo Talca-Chillán, sectores Accesos Estación Ninquihue Oriente y Poniente, Calles de Servicio Ninquihue'', Octava Región y se acordó el valor de indemnización con su propietario Héctor Hernán Chavarría Erices, ascendente a la cantidad de $2.577.751.-
+
+Fiscal del Ministerio de Obras Públicas.
