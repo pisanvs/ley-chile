@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.215, de 31 de julio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 3, para la obra ''Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar Enlace Pudahuel Km.
+
+10.900,00 a Km. 12.370,00'', Región Metropolitana, que figura a nombre de Fisco Digeder, rol de avalúo 2908-42, comuna de Pudahuel, superficie 29.072 m². La Comisión de Peritos integrada por los señores María Cristina Camus Palacios, Carmen Pilar Ríos Marcuello y Gustavo Domínguez Errázuriz, fijó con fecha 17 de marzo de 2000, el valor provisional de la indemnización en la cantidad de $310.432.044.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
