@@ -18408,6 +18408,22 @@ supere el equivalente a 3.000 unidades de fomento, no se incluirán en el cómpu
 
 de la cartera relacionada.
 
+7.- Cumplimiento del plan de desconcentración. Condonación de créditos anteriores al 27 de noviembre de 1986.
+
+No obstante lo señalado en el N°4 de este título, para los solos efectos del cumplimiento de los planes de desconcentración a que se refiere el artículo 3° transitorio de la Ley N° 18.576, las entidades financieras podrán remitir créditos adeudados por personas relacionadas con la institución, que hubieran sido cursados con anterioridad al 27 de noviembre de 1986, siempre que se cumplan las siguientes condiciones, además de la relativa a la fecha de otorgamiento:
+
+a) que la institución financiera acredite que el acuerdo global alcanzado con el deudor, resulta la mejor alternativa para proteger los intereses de la institución; y,
+
+b) que se cuente con un informe de la fiscalía de la institución y de una empresa de auditores externos o de una firma evaluadora de instituciones financieras registradas en esta Superintendencia, en los que se certifique la carencia de recursos del deudor para pagar una suma superior a la convenida.
+
+Las instituciones financieras que cursen remisiones al amparo de las disposiciones del presente número deberán comunicarlas a esta Superintendencia dentro del segundo día hábil de efectuadas, acompañando en cada caso los antecedentes a que se refieren las letras
+
+- **a)** y
+
+- **b)** anteriores. Esas mismas instituciones, no podrán condonar otros créditos de deudores relacionados mientras no se compense el exceso de remisiones que resulte de comparar las efectuadas por aplicación de lo dispuesto en este número, con los porcentajes de remisión registrados para el resto de la cartera no relacionada, a que alude la letra
+
+- **i)** del N°4 de este título. Esa compensación podrá producirse por pagos adicionales de los deudores relacionados cuyas deudas hayan sido remitidas o bien por condonaciones a deudores no vinculados a la institución financiera.
+
 ### III. LIMITES DE CREDITO A DEUDORES RELACIONADOS
 
 El artículo 84 N° 2 de la Ley General de Bancos determina los márgenes a que
