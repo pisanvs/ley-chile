@@ -1,0 +1,5 @@
+Prohibicion de llevar armas
+
+Seria inútil el sacrificio que el hombre civil ha hecho de su independencia natural, si no descansase en los majistrados constituidos para celar sobre la seguridad del ciudadano; así es, que el uso de aquellas armas que en una sociedad bien reglada no se llevan como insignias de honor, al paso que es degradante al Gobierno que la rije, solo puede influir en la subversion de la pública tranquilidad. Por este principio en lo sucesivo ningun individuo que no pertenezca a los ejércitos unidos podrá llevar armas para su defensa, a no ser que tenga papeleta, que por ahora dará el Gobierno supremo en tanto el tribunal de alta policía, a quien es privativo este celo, entra en el ejercicio de sus funciones. Los contraventores a quienes sorprendiesen los jueces o partidas de patrullas sin este resguardo, serán conducidos a los cuarteles, i a mas de la pérdida de sus armas, serán condenados a las penas proporcionadas a la malicia o intencion que descubrieren en la infraccion de este decreto, que se publicará por bando fijándose en los lugares acostumbrados.-
+
+Santiago, Julio 15 de 1817.-Quintana.-Zañartu.
