@@ -1,0 +1,3 @@
+Por decreto MOP Nº 205, de 31 de enero de 2000, se expropió el lote de terreno Nº 1-A, superficie 88 m², rol de avalúo 839-208, comuna de Parral, para la obra ''Ruta 5 Sur, Tramo Talca-Chillán, Intersección Desnivelada Acceso a Las Tinajas, Séptima Región y se acordó el valor de indemnización con su propietario Sergio Soto Gudine, ascendente a la cantidad de $17.028.409.
+
+- Fiscal del Ministerio de Obras Públicas.
