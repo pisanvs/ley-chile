@@ -1,0 +1,1 @@
+Substituye el inciso 1.° del artículo 12.° y modifica los incisos 2.° y 9.° de la letra a) del artículo 15.° de la ley 9.334, de 5 de mayo de 1949, que fijó el texto definitivo de la Ley General de Elecciones.
