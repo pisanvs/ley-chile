@@ -1,0 +1,5 @@
+Por decreto MOP Nº180, de 10 de marzo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº5 para la obra:
+
+"Proyecto Sistema Américo Vespucio Norte. Ruta 78-Av. El Salto. Sector 5: Ruta 68-Costanera Norte", Región Metropolitana, que figura a nombre de Guzmán Riesco José Manuel, rol de avalúo 2597-19, comuna de Pudahuel, superficie 6.298 m2. La comisión de peritos integrada por los señores Itsang Lu Chen, Leonardo Arturo Bueno Ramos y Roberto Carlos Muñoz Ordenes, fijó con fecha 8 de enero de 2003, el valor provisional de la indemnización en la cantidad de $106.241.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
