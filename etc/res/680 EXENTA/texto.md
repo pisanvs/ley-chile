@@ -1,0 +1,3 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A AGRICOLA LONCOYEN LTDA.
+
+La Dirección Regional Puerto Montt del S.I.I., por resolución Nº Ex - 680 de 1 de agosto de 1997, excepciona a contar del 1º del mes siguiente al de esta publicación a Agrícola Loncoyen Ltda. RUT. Nº 79.694.100-6 del régimen de Cambio de Sujeto de IVA establecido en la Resolución Nº Ex - 5.550 de la Dirección Nacional, publicada en el Diario Oficial del día 3 de Diciembre de 1996.
