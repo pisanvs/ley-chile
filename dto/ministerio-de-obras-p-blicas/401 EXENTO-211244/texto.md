@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº401 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº101, superficie 51 m2, Rol de Avalúo Nº596-50, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz - Yaquil, Rol I-730, Km. 0,00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietaria Florida del Carmen Ortiz Arce, ascendente a la cantidad de $410.184.
+
+Fiscal del Ministerio de Obras Públicas.
