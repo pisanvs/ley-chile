@@ -1,0 +1,3 @@
+Por Resolución No. 415, de 8 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, inmueble ubicado en calle Eyzaguirre No. 1367, casa 18, presunto rol avalúos 646-34, comuna Santiago, aparentemente dominio de don Juan A. Aedo Pantoja. Comisión integrada por peritos señores Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos, y Walter Soto Silva, ingeniero civil, según informe de 24.11.88, fijó monto provisional indemnización en $ 1.445.690, pagadera al contado.
+
+Director SERVIU Metropolitano.
