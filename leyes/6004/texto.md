@@ -1,0 +1,1 @@
+Substituye artículo 4.° del decreto con fuerza de ley 8,354, de 23 de diciembre de 1927, que fija normas para el reclutamiento y ascenso del personal de Carabineros de Chile.
