@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 287, de fecha 30 de abril de 1996, se expropiaron los lotes de terreno N°s 23 y 28, superficies 70 M2. y 260 M2., roles de avalúos 115-13 y 115-20, comuna de Malloa, para la obra Camino Ruta H-605 y H-611, sector Rengo Pelequén y se acordó precio de indemnización con sus propietarios Sucesión Teodoro Cabello Lizana y Osvaldo Parada Lira, ascendente a las cantidades de $375.782 y $431.984, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
