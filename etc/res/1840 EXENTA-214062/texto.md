@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.840 de 8 de agosto de 2003, de esta Subsecretaría, autorízase a ANDESPAÑA CHILE S.A. para ampliar actividades pesqueras de transformación, en orden a procesar, en la planta ubicada en Puerto Montt, camino a Chinquihue km 11, Nº9000, X Región, en las líneas de elaboración de Fresco-refrigerado y congelado, el recurso hidrobiológico Pepino de mar.
+
+Valparaíso, 8 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
