@@ -1874,7 +1874,7 @@ Los depósitos en cuentas corrientes serán acreditados en la cuenta "Acreedores
 
 No obstante, las cuentas corrientes sujetas a condiciones especiales establecidas en las Normas de Cambios Internacionales del Banco Central de Chile, se reflejarán en la cuenta "Acreedores en cuentas corrientes especiales - normas de cambio", de la misma partida 3005. Los intereses que los bancos pueden pagar sobre cuentas corrientes especiales, de conformidad con las normas del Banco Central de Chile que expresamente los faculten para tal efecto, serán registrados con cargo a la cuenta "Intereses pagados por cuentas corrientes especial es-normas de cambio", de la partida 5105. Mientras no se abonen a la respectiva cuenta corriente, los intereses devengados serán registrados en la cuenta "Intereses por pagar por cuentas corrientes especiales-normas de cambio", de la partida 3820.
 
-Los depósitos por consignaciones judiciales, a que se refiere el artículo 507 del Código Orgánico de Tribunales, se registrarán en la cuenta "Depósitos por consignaciones judiciales artículo 507", de la partida 3010 "Otros saldos acreedores a la vista".
+Los depósitos por consignaciones judiciales, a que se refiere el artículo 507 del Código Orgánico de Tribunales, se registrarán en la cuenta "Depósitos por consignaciones judiciales artículo 517", de la partida 3010 "Otros saldos acreedores a la vista".
 
 Con respecto al tratamiento contable de los créditos o sobregiros en cuentas corrientes, los bancos deben atenerse a lo dispuesto en el Capítulo 8-1 de esta Recopilación.
 
@@ -4784,7 +4784,7 @@ En caso que el déficit subsista por más de quince días, el directorio de la i
 
 ### II. NORMAS CONTABLES
 
-Las instituciones financieras registrarán los saldos de caja utilizados, los depósitos constituidos en el Banco Central de Chile y los instrumentos para enterar la reserva técnica, así como las obligaciones a plazo desde el décimo día corrido anterior a su vencimiento, incluidos sus intereses y reajustes y el endeudamiento contraído con el Instituto Emisor por financiamiento para reserva técnica, de la forma que a continuación se señala:
+Las instituciones financieras registrarán los saldos de caja utilizados, los depósitos constituidos en el Banco Central de Chile y los instrumentos para enterar la reserva técnica, así como las obligaciones a plazo desde el décimo día corrido anterior a su vencimiento, incluidos sus intereses y reajustes de la forma que a continuación se señala:
 
 ### 1. Saldos de caja utilizados para enterar reserva técnica
 
@@ -6404,7 +6404,7 @@ Cabe agregar también que el artículo 24 de la Ley 18.010 deja expresamente est
 
 Las operaciones reajustables por la variación del dólar deben registrarse en pesos, quedando afectas a las instrucciones contables sobre reajustes contenidas en el título II de este Capítulo, en tanto que las operaciones expresadas en moneda extranjera deben registrarse, cuando no existan normas contables específicas en que se disponga lo contrario, en la respectiva moneda extranjera, siguiendo el criterio de ajustar la cuenta "cambio" o la que haga sus veces, a fin de reconocer el efecto de la variación del tipo de cambio por los descalces entre activos y pasivos en moneda extranjera y utilizando para el efecto el tipo de cambio de representación contable de que trata el Capítulo 13-30 de esta Recopilación Actualizada de Normas.
 
-En todo caso, cabe tener presente que para los efectos de las relaciones que se deben mantener entre las operaciones activas y pasivas según lo dispuesto en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile y en el Capítulo 12-9 de esta Recopilación Actualizada de Normas, el margen correspondiente a operaciones en moneda extranjera incluye no sólo aquellas en moneda extranjera o documentadas en moneda extranjera y pagaderas en moneda nacional, sino también las operaciones reajustables por la variación del tipo de cambio. Adicionalmente, en aquellas normas se establece que los recursos que las instituciones financieras capten mediante depósitos a plazo reajustables por la variación del tipo de cambio, sólo pueden ser utilizados en colocaciones o inversiones en depósitos a plazo de la misma naturaleza.
+En todo caso, cabe tener presente que para los efectos de las relaciones que se deben mantener entre las operaciones activas y pasivas según lo dispuesto en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile y en el Capítulo 12-9 de esta Recopilación Actualizada de Normas, el margen correspondiente a operaciones en moneda extranjera incluye no sólo aquellas en moneda extranjera o documentadas en moneda extranjera y pagaderas en moneda nacional, sino también las operaciones reajustables por la variación del tipo de cambio.
 
 10.- Información al público.
 
@@ -17156,13 +17156,7 @@ En el caso de documentos nominativos o a la orden que hayan sido cedidos o endos
 
 En cualquier caso, como es natural, el propio documento adquirido o descontado por la institución financiera no sirve de garantía de los créditos directos o indirectos de los obligados a su pago.
 
-4.3. Venta de documentos con responsabilidad de la institución financiera.
-
-Los documentos que una institución financiera venda con responsabilidad, siguen afectando los límites individuales de crédito en ella y su venta no cambia la calidad de deudores directos o indirectos de los obligados al pago de los documentos cedidos, ni la forma de valorización de los créditos, hasta tanto no sean pagados.
-
-Conforme a lo indicado anteriormente, la institución financiera que adquiera documentos con la responsabilidad del vendedor, considerará a este último como deudor directo y los demás obligados tendrán la calidad de deudores indirectos.
-
-4.4. Operaciones con pacto de retrocompra.
+4.3. Operaciones con pacto de retrocompra.
 
 Las instituciones financieras que adquieran documentos con pacto de retrocompra,deberán considerar al vendedor como deudor directo, pero el emisor de los instrumentos transados o los demás obligados a su pago no tendrán la calidad de deudores indirectos para los efectos de límites de crédito, a diferencia de las compras con responsabilidad a que se refiere el numeral anterior.
 
@@ -17320,21 +17314,7 @@ constancia, para los efectos de los límites individuales de crédito se computa
 
 el total de la deuda para cada uno de ellos.
 
-### 7. Créditos cedidos al Banco Central de Chile
-
-Las colocaciones que las instituciones financieras hayan vendido al Instituto
-
-Emisor, al amparo del Acuerdo N° 1.555-07-840209 y sus modificaciones, del
-
-Comité Ejecutivo del Banco Central de Chile, sean de cartera vigente o vencida,
-
-seguirán afectando, en la institución vendedora, los márgenes individuales de
-
-crédito de los respectivos deudores, mientras no sean efectivamente pagadas o no
-
-se extinga legalmente la obligación de éstos por otra causa.
-
-8.- Compromisos por compraventas y arbitrales a futuro de monedas extranjeras.
+7.- Compromisos por compraventas y arbitrales a futuro de monedas extranjeras.
 
 El cómputo, para efectos de los límites individuales de crédito, en estas operaciones se hará considerando sólo la diferencia entre el precio pactado a futuro y el precio al contado de las mismas, a la fecha de celebración del pacto, cuando esa diferencia sea de cargo del correspondiente deudor.
 
@@ -17386,7 +17366,7 @@ De ninguna manera podrán considerarse como garantía, las letras o pagarés sus
 
 b) Cartas de crédito de exportación, irrevocables, negociadas, pagaderas a plazo, emitidas por un banco del exterior a favor de un exportador establecido en el país, que ampare la exportación de un producto desde Chile, siempre que represente para el banco emisor una obligación irrevocable e incondicional de pago y se haya constituido prenda sobre tales documentos, a favor de la
 
-institución otorgante del crédito que se pretende garantizar. En estos casos, el banco deberá rescatar la letra de cambio que hubiere aceptado o el pagaré que hubiere suscrito a favor del exportador beneficiario de la carta de crédito, excepto cuando se trate de Aceptaciones Bancarias Latinoamericanas.
+institución otorgante del crédito que se pretende garantizar. En estos casos, el banco deberá rescatar la letra de cambio que hubiere aceptado o el pagaré que hubiere suscrito a favor del exportador beneficiario de la carta de crédito.
 
 c) Letras de cambio o pagarés, originados en exportaciones de mercaderías chilenas con destino a un país integrante de la ALADI, girados por el exportador, aceptadas o suscritos por el importador, según sea el caso, y avalados por un banco del país de destino de la exportación, autorizado para operar por intermedio del respectivo convenio de crédito recíproco entre los
 
@@ -20812,9 +20792,7 @@ c) Financiar gastos locales correspondientes a importaciones de bienes de capita
 
 d) Depositar en la cuenta especial a que se refieren la letra A) del Capítulo IV.E.2 del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 13-8 de esta Recopilación de Normas, cuando se trate de recursos provenientes de obligaciones contraídas con anterioridad al 1° de febrero de 1983, incluidas las pactadas a partir de esa fecha con el objeto de efectuar el pago anticipado de aquéllas antes indicadas y excluidas las obligaciones con el exterior a que se refiere el N° 2 de la Circular Conjunta del 27 de junio de 1985 del Ministro de Hacienda, Ministro de Economía, Fomento y Reconstrucción y Presidente del Banco Central de Chile.
 
-e) Financiar los descuentos de documentos a que se refiere la letra C) del Capítulo XXV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y el Capítulo 1327 de esta Recopilación.
-
-f) Otorgar créditos a personas naturales o jurídicas residentes en el exterior, con el único objeto de financiar importaciones procedentes de Chile o exportaciones destinadas a este país.
+e) Otorgar créditos a personas naturales o jurídicas residentes en el exterior, con el único objeto de financiar importaciones procedentes de Chile o exportaciones destinadas a este país.
 
 ### 3. Financiamiento de Importaciones
 
@@ -20862,53 +20840,49 @@ Para realizar esas ventas la empresa bancaria que intervenga en la operación de
 
 Los bancos podrán otorgar créditos con cargo a estos recursos del exterior, a personas situadas en Chile, para financiar exportaciones en las condiciones que acuerden con los respectivos exportadores, de conformidad con las normas contenidas en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales y en el Capítulo 14-3 de esta Recopilación de Normas.
 
-6. Descuento de documentos provenientes de operaciones entre países de ALADI.
-
-Los descuentos de documentos emitidos sobre la base de instrumentos originados en operaciones de comercio exterior entre países miembros de ALADI, se efectuarán en la forma prevista en el Capítulo 13-27 de esta Recopilación.
-
-### 7. Documentación de los créditos
+### 6. Documentación de los créditos
 
 Los créditos que los bancos otorguen de conformidad con las disposiciones de este capítulo, se documentarán mediante la aceptación de letras de cambio o suscripción de pagarés por parte del deudor.
 
-### 8. Plazo de los créditos
+### 7. Plazo de los créditos
 
 El plazo al que se otorguen los créditos antes mencionados, se pactará libremente entre los bancos y los respectivos usuarios, acorde en todo caso, cuando corresponda, con las condiciones autorizadas por el Banco Central de Chile.
 
-### 9. Tasa de interés
+### 8. Tasa de interés
 
 La tasa de interés de los créditos de que se trata, se pactará libremente entre el banco acreedor y los usuarios, con sujeción, en todo caso, a la tasa máxima convencional para operaciones en moneda extranjera y a lo aprobado por el Banco Central de Chile, en los casos que así corresponda.
 
-### 10. Normas contables
+### 9. Normas contables
 
 La contabilización de las operaciones de que se trata, se realizará de la siguiente forma:
 
-10.1. Obtención de las lineas de crédito del exterior.
+9.1. Obtención de las lineas de crédito del exterior.
 
 El monto de la línea de crédito obtenida se registrará en la cuenta de orden "Líneas de crédito del exterior", de la partida 9380.
 
-10.2. Utilización de lineas de crédito.
+9.2. Utilización de lineas de crédito.
 
 Las obligaciones derivadas de la utilización de créditos externos o de las líneas de crédito, serán registradas en la cuenta "Adeudado a bancos y corresponsales del exterior", cuyo saldo se demostrará en la partida 3505, 3510 ó 3555, según corresponda. En caso de que la obligación sea contraída con una oficina del mismo banco en el exterior, se registrará en la cuenta "Adeudado al exterior a oficinas del mismo banco", la que se demostrará en la partida 3515 ó 3560.
 
 Si las obligaciones son pagaderas por intermedio del Convenio de Créditos Recíprocos ALADI, serán registradas en la cuenta "Adeudado a bancos y corresponsales con rembolso a través de convenios ALADI", cuyo saldo se demostrará en la partida 3520 ó 3565, según proceda.
 
-10.3. Créditos para financiar importaciones.
+9.3. Créditos para financiar importaciones.
 
 Los créditos que se otorguen para financiar importaciones con cargo a los recursos de que se trata, serán registrados de conformidad con lo previsto en el Capítulo 15-1 de esta Recopilación.
 
-10.4. Créditos para financiar exportaciones.
+9.4. Créditos para financiar exportaciones.
 
 Los créditos que los bancos otorguen para financiar exportaciones, a personas situadas en Chile, serán registrados en la forma prevista en el Capítulo 14-3 de esta Recopilación de Normas.
 
-10.5. Créditos para financiar gastos locales.
+9.5. Créditos para financiar gastos locales.
 
 Los préstamos para financiar gastos locales de las importaciones señaladas en el número 4 de este capítulo, se registrarán en la cuenta "Préstamos para gastos locales" de la partida 1110 ó 1205, según proceda.
 
-10.6. Descuento de documentos provenientes de operaciones entre países de ALADI.
+9.6. Descuento de documentos provenientes de operaciones entre países de ALADI.
 
 Los descuentos de documentos emitidos sobre la base de instrumentos originados en operaciones de comercio exterior entre países miembros de ALADI, se registrarán en la forma prevista en el Capítulo 1327 de esta Recopilación.
 
-10.7. Intereses.
+9.7. Intereses.
 
 Los intereses que se cobren por los créditos para importación otorgados a personas situadas en Chile, serán registrados en la forma señalada en el Capítulo 15-1 de esta Recopilación.
 
@@ -20918,23 +20892,23 @@ Los intereses que se cobren sobre los financiamientos que se cursen para exporta
 
 Por otra parte, los intereses que los bancos paguen por las líneas de crédito del exterior a que se refiere este Capítulo, serán registrados en la cuenta "Intereses pagados por financiamientos externos", de la partida 5180 6 5185, según proceda.
 
-10.8. Comisiones.
+9.8. Comisiones.
 
 Las comisiones que se cobren a personas situadas en Chile por los financiamientos para importación que cursen, serán registradas en la forma prevista en el Capítulo 15-1 de esta Recopilación.
 
 Las comisiones que los bancos deban pagar por las líneas de crédito del exterior, serán registradas en la cuenta "Comisiones pagadas por financiamientos del exterior", de la partida 5510.
 
-10.9. Créditos no pagados a su vencimiento.
+9.9. Créditos no pagados a su vencimiento.
 
 Los créditos otorgados por los bancos con cargo a los recursos de que trata este Capítulo que no sean pagados a su vencimiento, serán traspasados a Cartera Vencida de conformidad con las normas generales vigentes sobre la materia.
 
-### 11. Limites legales
+### 10. Limites legales
 
 Los préstamos que otorguen los bancos con los recursos del exterior a que se refiere este Capítulo, están afectos a los límites de crédito establecidos en el artículo 84 de la Ley General de Bancos.
 
 A su vez, las obligaciones que contraigan las empresas bancarias por la utilización de las líneas de crédito de que se trata, están afectas al límite establecido en el artículo 81 de la Ley General de Bancos.
 
-### 12. Información al Banco Central de Chile
+### 11. Información al Banco Central de Chile
 
 Los bancos deben enviar al Banco Central de Chile la información relativa a las líneas de crédito externas, en los términos indicados en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales.
 
