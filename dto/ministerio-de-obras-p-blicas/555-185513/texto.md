@@ -1,0 +1,5 @@
+Por decreto MOP Nº555, de 30 de marzo de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº4, para la obra:
+
+"Concesión Internacional Ruta 5. Tramo Temuco - Río Bueno Km. 857,20000 a Km. 858,50000", Décima Región, que figura a nombre de Kunstmann Carrillo Ana María y Otro, rol de avalúo 554-35, comuna de Paillaco, superficie 338 m². La Comisión de Peritos integrada por los señores Enrique Edgardo Hoelck Altmann, Leopoldo Schumacher Guarda y Jaime Sanz Bahamonde, fijó con fecha 14 de noviembre de 2000, el valor provisional de la indemnización en la cantidad de $32.477.400.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
