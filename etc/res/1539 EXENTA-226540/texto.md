@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.539 de 4 de junio de 2004 de esta Subsecretaría, autorízase a JUAN LUIS BRICEÑO ALZAMORA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Sitio 3, Manzana D, Sector Los Verdes, Iquique, I Región, donde podrá elaborar en las líneas de proceso de Cocido, Congelado, Fresco-Enfriado, Fresco-Refrigerado, Conserva, Alga Seca, Secado y Molienda y Ahumado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 4 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
