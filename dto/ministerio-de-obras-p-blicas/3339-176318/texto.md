@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.339, de 31 de julio de 2000, se expropió el lote de terreno Nº 3, superficie 1.510 m², rol de avalúo 104-105, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Enlace Los Panguiles, Región Metropolitana y se acordó el valor de indemnización con su propietaria Pontificia Universidad Católica de Chile, ascendente a la cantidad de $5.547.113.-
+
+Fiscal del Ministerio de Obras Públicas.
