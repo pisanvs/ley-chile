@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.368, de 28 de septiembre de 2001, se expropió el lote de terreno Nº 47, superficie 1.248 m², rol de avalúo 537-17, comuna de Río Bueno, X Región, para la obra "Camino Río Bueno - Crucero, Sector T-90 U y T-933, Tramo Km. 0,00000 al 20,90000" y se acordó el valor de indemnización con su propietario Carlos Domingo Noriega Martínez, ascendente a la cantidad de $1.518.582.-
+
+Fiscal del Ministerio de Obras Públicas.
