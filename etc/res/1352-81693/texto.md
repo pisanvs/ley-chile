@@ -1,0 +1,7 @@
+Por Resolución No. 1.352, de 05 de Noviembre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don JUAN LUIS MUÑOZ RETAMAL, R.U.T. No. 5.038.018-1, domiciliado en calle Hospital No. 350, Constitución, para iniciar actividades pesqueras, en orden a operar con la embarcación Río Maule, en el litoral de las Regiones que a continuación de indican, donde podrá extraer los siguientes recursos hidrobiológicos:
+
+a) Entre Punta Liles y el paralelo 41° 28,6 L.S., con espinel: Bacalao de profundidad o mero. b) Entre la I Región y el paralelo 41° 28,6 L.S., con espinel: Congrio colorado, Congrio dorado, Congrio negro, Lenguado de ojos chicos, Lenguado de ojos grandes, Pejegallo y Tollo; c) Entre las Regiones I y III, con espinel: Merluza común. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Se deniega la autorización pedida para extraer con la nave Río Maule, los demás recursos hidrobiológicos y en las zonas de mar que señala el peticionario en su solicitud de conformidad con las normas legales y reglamentarias e informes técnicos citados en Vistos.
+
+Valparaíso, 05 de Noviembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
