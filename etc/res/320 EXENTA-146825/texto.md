@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 320 de 23 de Marzo de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "CARAN" de la comuna de San Carlos, VIII Región; y Derechos Aprovechamiento Aguas que corresponden a sitios N°s. 1 al 10 del Proyecto de Parcelación "CARAN" formado por predios señalados. Los Derechos de Agua se extraen del Canal Moreira.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
