@@ -1,0 +1,3 @@
+Por resolución Nº 2.241, de 29 de octubre de 1999, de esta Subsecretaría, autorízase a PESQUERA COLOSO S.A., para ampliar actividades pesqueras extractivas con la nave ''Til Til'', en el litoral de la I y II Regiones, por fuera del área de reserva artesanal, donde podrá capturar con cerco los recursos hidrobiológicos Jurel fino y Sardina redonda.
+
+Valparaíso, 29 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
