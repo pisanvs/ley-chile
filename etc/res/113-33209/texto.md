@@ -1,0 +1,3 @@
+Por Resolución N° 113, de 16 de enero de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por INVERSIONES Y ASESORIAS EL MANANTIAL LTDA., para operar un centro de cultivo ubicado al Noreste del Islote Poe, Estero Reloncaví, Comuna de Cochamó, Provincia de Llanquihue, X Región, en virtud a lo dispuesto en el artículo 78° inciso 2° de la Ley General de Pesca y Acuicultura por sobreponerse parcialmente con otra solicitud de concesión de acuicultura de mejor prelación.
+
+Valparaíso, 16 de enero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
