@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 264, de 15 de Octubre de 1991, se expropiaron los lotes Nºs. 7, 9, 8 y 10, superficies 4.112 m2 y 2.079 m2., rol de avalúo 545-1, Comuna de Santa Cruz, para obra Camino Santa Cruz -Lolol - Bucalemu, Rol I - 72, sector Santa Cruz, Cuesta La Lajuela y se acordó precio de indemnización con sus propietarios Víctor Manuel González Hernández y María Amparo Díaz y otros, ascendente a las sumas de $ 1.280.406 para los lotes Nºs. 7 y 9 y $ 670.569, para los Lotes 8 y 10.
+
+Fiscal del Ministerio de Obras Públicas.
