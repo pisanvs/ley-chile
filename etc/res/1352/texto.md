@@ -1,0 +1,3 @@
+Por Resolución N° 1.352 de 30 de diciembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por 30 días a contar de la fecha de la presente Resolución, el plazo otorgado a PESQUERA SAN JOSE S.A., R.U.T. N° 96.535.470-0, domiciliada en Américo Vespucio Sur N° 80, pisos 4° y 5°, comuna de Las Condes, Santiago, en el numeral 2° de la Resolución N° 1.076, de 1992, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 30 de diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
