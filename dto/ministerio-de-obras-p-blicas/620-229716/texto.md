@@ -1,0 +1,5 @@
+Por decreto MOP Nº 620, de 21 de julio de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nº 14-A y 14-B, para la obra: Mejoramiento Ruta 60-CH, sector Villa Dulce - Torquemada, Tramo Km. 0,00000 a Km.
+
+10,47641, que figuran a nombre de Tirado Barros Matías y Sociedad de Inversiones e Inmobi, roles de avalúo 4651-352 y 4650-23, Comuna de Viña del Mar, V Región, superficies 442,19 M² y 510,11 M². La Comisión de Peritos, fijó con fecha 12 de abril de 2004, en las cantidades de $9.873.180, para el lote Nº 14-A y $11.242.220, para el lote Nº 14-B. Las indemnizaciones se pagarán al contado. Las publicaciones se efectúan en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
