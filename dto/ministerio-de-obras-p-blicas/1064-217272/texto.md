@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.064, de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 123-K, superficie 9.155 m2, sin rol de avalúo, comuna de Alto del Carmen, para la obra "Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa III", III Región y se acordó el valor de la indemnización con su propietaria Agrícola e Inmobiliaria El Dain Limitada, ascendente a la cantidad de $40.669.577.
+
+- Fiscal del Ministerio de Obras Públicas.
