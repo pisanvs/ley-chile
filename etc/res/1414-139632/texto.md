@@ -1,0 +1,3 @@
+Por resolución Nº 1.414, de 19 de julio de 1999, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 1.410 de 1999, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 99-02 denominado ''Monitoreo de las Capturas de Jurel en la Zona Centro-Sur'', en el sentido de reemplazar la nave Doña María, de propiedad de Pesquera Quintero Uno S.A., seleccionada para efectuar labores de prospección y muestreo en la transecta 34° - 35° L.S., por la nave Valdivia IV, de propiedad de Pesquera Tarapacá S.A.
+
+Valparaíso, 19 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
