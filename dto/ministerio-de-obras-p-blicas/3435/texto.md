@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.435, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs 29, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43 y 44, superficies 566, 486, 595, 3.244, 236, 475, 630, 1.031, 348, 951, 311, 564, 663 y 490 M2 respectivamente, rol de avalúo 27-18, comuna de Paredones, VI Región, para la obra Camino Lolol - Paredones - Bucalemu, Sector Alto Nilahue - Acceso Paredones y se acordó precio de indemnización con su propietaria Gladys López del Campo, ascendente a la cantidad de $28.562.653.
+
+Fiscal del Ministerio de Obras Públicas.
