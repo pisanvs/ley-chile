@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº797 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº23, superficie 209 m², Rol de Avalúo Nº543-100, comuna de Linares, para la obra ''Camino Ruta L-31, Sector Polvorines - La Floresta, Tramo: Km. 0,00000 a Km. 15,48000; comuna de Linares, Colbún y Yerbas Buenas, Provincia de Linares'', VII Región y se acordó el valor de indemnización con su propietario Eduardo Rodrigo Morales Aravena, ascendente a la cantidad de $419.148.-
+
+Fiscal del Ministerio de Obras Públicas.
