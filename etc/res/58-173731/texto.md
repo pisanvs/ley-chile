@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLES QUE INDICA
+
+Resolución Nº 46, de 14 de junio de 2000, y resolución Nº 58, de fecha 5 de julio de 2000, Serviu VI Región del Libertador Bernardo O'Higgins, ordenó expropiación parte de inmueble ubicado en Avenida Freire Nº 77 de Rancagua, Rol Nº 1-4, superficie de 9,50 m2., delimitada en polígono E'-C'-G'-H' Plano Aclaratorio de 2-99, Serviu VI Región, de noviembre de 1999, aparente dominio de Lavaseco y Servicios de Aseo Limitada o Laser Limitada, formada por don Juan Antonio Esteban Altube y don Edgardo Fernando Mora Trejos, según escritura pública modificatoria de Constitución de Sociedad, ante Notario de Graneros don Gerardo Carvallo S., de fecha 20.03.2000 inscrita a fojas 101 Nº 124, año 2000 del C.B.R. de Rancagua, Proyecto Mejoramiento Eje Vial Avenida Freire, Rancagua, conforme al artículo 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos: don Jorge Atala Sahardi, don Jorge Godoy Rojas y don Edmundo Gómez Lagos. Monto provisional en $1.065.900 con reajuste IPC.
+
+Director Serviu VI Región.
