@@ -1,0 +1,5 @@
+APRUEBA NORMA TECNICA PROVISORIA PARA LA REGULACION DE CONTAMINANTES
+
+Con fecha 20 de junio de 2000, mediante resolución exenta SISS Nº 1.381, la Superintendencia de Servicios Sanitarios (SISS) aprobó la ''Norma Técnica Provisoria SISS para la Regulación de Contaminantes Asociados a las Descargas de Residuos Industriales Líquidos a Cursos de Aguas Superficiales Continentales'', cuyo cumplimiento será obligatorio para los establecimientos industriales que se encuentren en el supuesto de la misma y que presenten el respectivo proyecto ante la Gobernación Provincial competente, a contar de la fecha de la presente publicación. Dicha resolución, la Norma que se aprueba y demás antecedentes se encuentran a disposición de los interesados en la Biblioteca de la SISS, Moneda 673, piso 7, Santiago y a través de la página electrónica ''www.siss.cl''.-
+
+El Superintendente.
