@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº178 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº128, superficie 41,6 m², Rol Nº 65-23, comuna de Carahue, IX Región para la obra "Camino Costero Tirúa-Carahue, tramo Tranapuente-Carahue, sector Km. 55,43897 al Km. 69,89561 y Km. 3,101 al Km. 3,92745, Subtramo IV" y se acordó el valor de indemnización con su propietario Germán Víctor Alarcón Carrillo, ascendente a la cantidad de $495.370.
+
+Fiscal del Ministerio de Obras Públicas.
