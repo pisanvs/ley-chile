@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.503, de 28 de septiembre de 2001, se expropiaron los lotes de terreno Nºs. 43 y 46, superficies 1.869 m2 y 1.949 m2., respectivamente, rol de avalúo en trámite, comuna de Codegua, VI Región, para la obra "Camino Ruta Rol-10, Sector Graneros-San Francisco de Mostazal, Tramo 0.000 al 9,317" y se acordó el valor de indemnización con su propietario Jaime Patricio Lecaros Concha, ascendente a la cantidad de $30.824.666.-
+
+Fiscal del Ministerio de Obras Públicas.
