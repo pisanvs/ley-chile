@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.915 de 31 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº2, para la ejecución de la obra Estudio de Factibilidad y Diseño del Embalse Corrales y sus obras Complementarias, Bocatoma Coirón, que figura a nombre de Francisco Vega Fajardo, Rol de avalúo 245-23, comuna de Salamanca, IV Región, superficie 6.451,10 M2. La Comisión de Peritos, fijó con fecha 7 de enero de 2000, el valor provisional de la indemnización en la cantidad de $3.164.830.- la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
