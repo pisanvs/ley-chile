@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 623, de 29 de mayo de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 56-A, 58, 59, 63 y 70-A, para la obra Camino Mejoramiento Ruta L-19, sector Cruce Long.
+
+(Villa Alegre)-Esperanza Tramo Km. 0,000 al 10,623.89, que figuran a nombre de Ortega Pena Juan A., Suc. Villarreal Breullior Néstor, María E. Cancino Arellano, Recabal Monjes Roberto y Velozo Velozo Jaime, roles de avalúo 232-5, 232-4, 232-3, 236-33 y 233-84, comuna de Villa Alegre, VII Región, superficies 72, 113, 111, 28 y 265 M2. respectivamente. La Comisión de Peritos, fijó con fecha 19 de febrero de 1999, en la cantidad de $281.000, lote Nº 56-A; $298.000, lote Nº 58; $549.000, lote Nº 59; $28.000, lote Nº 63 y $773.000, lote Nº 70-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
