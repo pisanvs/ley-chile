@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 633, del 26 de agosto de 1996, se expropió el lote de terreno N° 29, superficie 21.976 m2., rol de avalúo 1035-125, comuna de Maipú, para la obra camino autopista Santiago-San Antonio, sector empalme 1, Riquelme-Bif. Malloco, y se acordó el valor de indemnización con su propietaria Carmen Oviedo Armstrong, ascendente a la cantidad de $106.285.595.
+
+Fiscal del Ministerio de Obras Públicas.
