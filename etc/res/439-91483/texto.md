@@ -1,0 +1,3 @@
+Por Resolución No. 439, de 9 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, parte inmueble ubicado Santa Isabel No. 0308, presunto rol avalúos 916-19, comuna Providencia, aparentemente dominio de María Zapata G. y otro. Comisión integrada por peritos Jorge Navarro Navarrete, arquitecto, Emilio Recabarren Solar, ingeniero civil, y Luis Rojas Quezada, constructor civil, según informe de 21.12.88, fijó monto provisional indemnización en $ 2.557.000.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
