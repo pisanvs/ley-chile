@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.853, de 30 de septiembre de 1998, se expropiaron los lotes de terreno Nº s 2 y 3, superficies 852 y 2.296 m² respectivamente, roles de avalúo 136-381 y 136-73, comuna de San Francisco de Mostazal, para la obra Camino Ruta 5 Sur, Sector Atravieso La Punta y se acordó precio de indemnización con sus propietarios Semillas Limagrain de Chile Ltda. y Galvarino Jorquera García, ascendentes a las cantidades de $ 13.648.429.- para el lote 2 y $ 83.601.908.- para el lote 3.-
+
+Fiscal del Ministerio de Obras Públicas.
