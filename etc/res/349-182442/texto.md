@@ -1,0 +1,3 @@
+Por resolución Nº 349 de 22 de febrero de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110596 presentada por JORGE ALEJANDRO CARLOS JOSE OSSA ARANGUA, para instalar y operar el centro de cultivo ubicado en estero Cupquelan, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 22 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
