@@ -1,0 +1,3 @@
+Por decreto MOP Nº 581, de 28 de febrero de 2000, se expropió el lote de terreno Nº 8-A, superficie 567,8 m², rol de avalúo 2-6, comuna de Constitución, Obra Camino Ruta M-24-K con Ruta M-50, Sector Accesos Puente Maule en Constitución y se acordó precio de indemnización con su propietario Oscar Humberto Salazar Villalobos, ascendente a la cantidad de $25.631.430.
+
+Fiscal del Ministerio de Obras Públicas.
