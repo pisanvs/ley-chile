@@ -1,0 +1,181 @@
+DETERMINA REGIMEN DE PROPIEDAD Y ADMINISTRACION DE LOS BANCOS Y MODIFICA LA LEY GENERAL DE BANCOS Y OTRAS CONEXAS
+
+Núm. 818.- Santiago, 24 de Diciembre de 1974.- Vistos: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973, y 527, de 1974, y teniendo presente:
+
+1°- Que es necesario definir el régimen de propiedad de las acciones de los bancos comerciales que, en parte importante, pertenecen en la actualidad a instituciones del Estado y, en el resto, a particulares;
+
+2°- Que, al disponer su transferencia gradual al sector privado, debe legislarse para impedir que el dominio de dichas accciones se concentre en personas o entidades que puedan ejercer una influencia inconveniente o desmedida en la administración de la banca;
+
+3°- Que, con el objeto de que los bancos que puedan establecerse tengan capacidad competitiva y sean instrumentos eficaces para el desarrollo económico del país, es también necesario concordar el monto mínimo del capital que se les exija con el que se fijó para la banca existente;
+
+4°- Que es, igualmente, de toda conveniencia uniformar y hacer más ágil y expedita la administración de los bancos y a la vez dar cabida en ella a los trabajadores cuya suerte está ligada a la de la empresa en que prestan sus servicios;
+
+5°- Que para obviar algunas dificultades prácticas relacionadas con la administración y el funcionamiento de las empresas bancarias, es necesario dictar algunas normas permanentes y otras transitorias sobre diversas materias;
+
+6°- Que el Gobierno anterior de la República, por razones de carácter doctrinario y político que el actual no comparte, estimó necesario que los bancos extranjeros particulares que, desde largo tiempo, mantenían sucursales en Chile, transfirieran sus oficinas a bancos nacionales y dejaran de funcionar;
+
+7°- Que, por el contrario, este Gobierno estima necesaria la existencia de bancos extranjeros en el país con el objeto de promover su comercio exterior y la incorporación de técnicas más avanzadas en el sistema bancario;
+
+3°- Que, por otra parte, el funcionamiento de bancos extranjeros en Chile constituye en la actualidad un medio indispensable para promover su desarrollo económico a través del incremento de las líneas de crédito del sistema bancario, criterio que han adoptado otros países signatarios, al igual que Chile, del Acuerdo de Cartagena;
+
+9°- Que el artículo 42 de la Decisión 24 de la Comisión del Acuerdo de Cartagena señala, entre otras materias, que no se admitirá nueva inversión extranjera directa en la banca comercial y demás instituciones financieras y que el artículo 44 del mismo cuerpo antes citado permite al país receptor, cuando existan circunstancias especiales, aplicar normas diversas a las señaladas en el referido artículo 42;
+
+10°- Que, por los fundamentos ya dichos, se estima que existen circunstancias especiales en Chile que hacen necesario no aplicar la norma contenida en el artículo 42 de la Decisión 24 a los bancos comerciales y demás instituciones financieras;
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+## Título I
+
+Régimen de propiedad y Administracion de los Bancos
+
+#### Artículo 1°
+
+DEROGADO.
+
+#### Artículo 2°
+
+DEROGADO.
+
+#### Artículo 3°
+
+DEROGADO.
+
+#### Artículo 4°
+
+No se aplicará a las inversiones extranjeras directas en bancos comerciales e instituciones financieras lo prescrito en el artículo 42° de la Decisión 24 de la Comisión del Acuerdo de Cartagena, puesta en vigencia por el decreto 482, del Ministerio de Relaciones Exteriores, de fecha 25 de junio de 1971, por existir las circunstancias especiales de que trata el artículo 44° del mismo cuerpo antes citado. A dichas inversiones extranjeras les serán aplicables las normas legales y reglamentarias pertinentes.
+
+#### Artículo 5°
+
+A contar desde la vigencia de este decreto ley, todos los bancos comerciales se regirán por las normas aplicables al sector privado para todos los efectos legales, cualquiera que sea la proporción de su capital que pertenezca a instituciones o entidades del Estado.
+
+## Título II
+
+Modificaciones a la Ley General de Bancos y Otras
+
+conexas
+
+#### Artículo 6°
+
+Introdúcense las siguientes modificaciones a la Ley General de Bancos:
+
+a) Reemplázase en el artículo 15° las palabras "diez escudos" por "un sueldo vital mensual de la provincia de Santiago".
+
+b) Reemplázase el inciso 1° del artículo 30°, por los siguientes: "Los bancos extranjeros que operen en Chile gozarán de los mismos derechos que los bancos nacionales de igual categoría y estarán sujetos en general a las mismas leyes y reglamentos, salvo disposición legal en contrario.
+
+El capital y reservas que asignen a su sucursal en el país deberá ser efectivamente internado y convertido a moneda nacional en conformidad a las normas del decreto ley 600, de 1974, Estatuto del Inversionista. Los aumentos de capital o reservas que no provengan de capitalización de otras reservas, tendrán el mismo tratamiento del capital y reservas iniciales".
+
+c) Reemplázase en el artículo 45° las palabras "veinticinco escudos" por "dos sueldos vitales mensuales de la provincia de Santiago".
+
+d) Reemplázase el inciso final del artículo 47° por el siguiente:
+
+"Las remesas de las utilidades líquidas que obtengan las empresas bancarias extranjeras se harán previa autorización de la Superintendencia y con sujeción al decreto ley 600, de 1974, Estatuto del Inversionista, y a las demás disposiciones que rigen la materia.".
+
+e) Reemplázase el artículo 64°, N° 2, por el siguiente:
+
+"2) La ciudad de la República en que se instalará su casa matriz u oficina principal, y que constituirá su domicilio social, sin perjuicio de las sucursales o agencias que establezca en conformidad a la ley. En esa ciudad deberán funcionar el directorio y la gerencia general de la empresa.".
+
+f) Reemplázase el N° 3 del artículo 64°, por el siguiente:
+
+"3) El número de los directores del banco y el nombre de los integrantes del directorio provisional que deban ser designados por los accionistas.".
+
+g) Reemplázase el N° 4 del artículo 65°, por el siguiente:
+
+"4) No se establecerá límite alguno en el número de acciones por las que cada accionista podrá votar en las juntas, salvo los que impongan o autoricen las leyes.".
+
+h) Agrégase al N° 12 del artículo 65°, lo siguiente:
+
+"Esta incompatibilidad no regirá para el director representante de los trabajadores, quien no podrá ser dirigente sindical o delegado del personal del mismo banco.".
+
+i) Reemplázase el N° 13 del artículo 65°, por el siguiente:
+
+"13) Los accionistas podrán hacerse representar en las juntas por otros accionistas, por medio de una carta poder dirigida a la sociedad. El texto de estas cartas poderes será fijado por la Superintendencia.
+
+Podrán también hacerse representar por una persona que no sea accionista; pero en este caso el mandato deberá otorgarse en carta poder firmada ante notario o por escritura pública.
+
+Las cartas poderes que no designen el nombre del mandatario de puño y letra del poderdante, se entenderán otorgadas a los directores, y serán distribuidas entre los directores titulares elegidos por los accionistas, por iguales partes en relación al número de acciones que dichos poderes representen.
+
+La Superintendencia podrá ordenar que los poderes sean calificados, en la forma que determine, antes de la celebración de una Junta de Accionistas. En este caso, sólo podrán ser presentados en la Junta los poderes así calificados.".
+
+j) Agréganse los siguientes números al artículo 65°:
+
+"16) Los directores y consejeros locales que ejerzan sus funciones fuera de las provincias de Santiago y Valparaíso no estarán sujetos a la inhabilidad establecida en el artículo 95°, letra b) del decreto con fuerza de ley 251, de 1931; pero el cargo se computará para los efectos del artículo 96° inciso 1° del mismo cuerpo legal.".
+
+"17) No podrán ser accionistas de un banco comercial el Fisco, los Servicios, Instituciones Fiscales, Semifiscales, Organismos Autónomos, Empresas del Estado y, en general, todos los Servicios Públicos creados por ley, como asimismo las empresas, sociedades o entidades públicas o privadas en que el Estado o sus empresas, sociedades o instituciones centralizadas o descentralizadas tengan aportes de capital mayoritario o en igual proporción, o, en las mismas condiciones, representación o participación. Esta prohibición no regirá para los bancos de fomento.".
+
+k) Reemplázase el artículo 66° por el siguiente:
+
+#### Artículo 66°
+
+El monto del capital y reservas de un banco comercial no podrá ser menor de E° 4.000.000.000 si su domicilio está ubicado en las provincias de Santiago o Valparaíso, ni menor de E° 1.000.000.000 si lo está en otra provincia. Estas cantidades serán reajustadas en el mes de enero de cada año por resolución que dicte el Superintendente, tomando en consideración especialmente las variaciones del Indice de Precios al Consumidor a partir del 30 de junio de 1974.
+
+Si el capital y reservas de un banco se redujeren de hecho a una cantidad inferior al mínimo, estará obligado a completarlo dentro de un año, plazo que podrá ser ampliado por el Superintendente por motivos calificados hasta por otro año. Si así no lo hiciere se le revocará la autorización para funcionar.".
+
+l) Reemplázase el artículo 68° por el siguiente:
+
+#### Artículo 68°
+
+Para abrir oficina en las provincias de Santiago o Valparaíso, no será necesario tener el capital y reservas mínimos exigidos a los bancos con domicilio en esas provincias; pero en tal caso deberá completarse ese capital y reservas mínimos dentro del plazo de cinco años, contados desde la apertura y, si no lo hiciere, deberá proceder a su cierre.".
+
+m) Reemplázase el N° 10 del artículo 86° de la Ley General de Bancos por el siguiente: "10) Recibir dinero en carácter transitorio pero sólo en relación con las operaciones a que se refiere el N° 4 de este artículo.".
+
+n) Agrégase al artículo 86° de la Ley General de Bancos el siguiente inciso: "Cuando los bancos hipotecarios actúen como mandatarios en cualquiera clase de operaciones, no podrán hacerlo a nombre propio.".
+
+#### Artículo 7°
+
+Modifícase la ley 16.253, sobre Bancos de Fomento, en la siguiente forma:
+
+a) Reemplázase el inciso 2° del artículo 1° por el siguiente: "Su objeto será financiar la elaboración y ejecución de proyectos, los gastos de explotación o la inversión en bienes de capital que tiendan al desarrollo de las actividades económicas del país y la prestación de asistencia técnica para dichos proyectos y su financiamiento.".
+
+b) Reemplázase en la letra b) del artículo 4° la expresión "tres años" por la siguiente: "un año".
+
+c) Reemplázase el inciso final del artículo 4° por el siguiente: "La Superintendencia de Bancos podrá impartir normas relativas a los créditos que se otorguen para financiar capital de explotación.".
+
+d) Derógase la oración final del inciso 2° del artículo 5°.
+
+#### Artículo 8°
+
+DEROGADO
+
+#### Artículo 9°
+
+Deróganse los incisos segundos del artículo 1° y del artículo 13° del decreto ley 231, de 1973.
+
+## Título III
+
+Disposiciones Transitorias
+
+#### Artículo 1°
+
+Las instituciones a que se refiere el artículo 65° N° 17 de la Ley General de Bancos deberán enajenar antes del 31 de dicienbre de 1988 todas las acciones bancarias que posean. La transferencia de dichas acciones se hará en las condiciones que establezca el consejo o autoridad respectiva. Las ventas podrán hacerse en forma directa, mediante el sistema de propuesta o licitación o en bolsas de valores.
+
+Lo dipuesto en el artículo 65° N° 17 de la Ley General de Bancos no regirá durante los años 1977 a 1980 respecto de la Corporación de Fomento de la Producción cuando se trate de suscripción de acciones bancarias provenientes de aumentos de capital de las empresas en que sea accionista. Asimismo, y hasta el 31 de diciembre de 1979, dicha Corporación podrá, previo acuerdo del Consejo Monetario, adquirir acciones bancarias mediante la permuta de acciones de un determinado banco por acciones de otro banco o la dación en pago que le efectúan deudores de créditos vencidos y protestados.
+
+> **Nota.** NOTA: 1 El artículo 1° del DL 2.081 de 1977, amplió hasta el 31 de diciembre de 1980, el plazo que tenía la Corporación de Fomento de la Producción para mantener en su dominio acciones bancarias. El artículo 2° del DL 2.081, de 1977, facultó a la Universidad de Chile para adquirir, previo informe favorable de la Superintendencia de Bancos e Instituciones Financieras, acciones del Banco Chileno-Yugoslavo en pago o abono de créditos de que aquella es titular, las que, deberán ser enajenadas por la Universidad de Chile en el plazo máximo de un año, contado desde la fecha de su adquisición, aplicándose al efecto, lo dispuesto en el artículo 1° transitorio del DL 818, de 1974, en lo que se refiere a la enajenación de dichas acciones.
+
+> **Nota.** NOTA: 2 El artículo 2° del DL 3.562 dispuso que la prohibición establecida en el N° 17 del artículo 65° de la Ley General de Bancos no regirá respecto de la adquisición por la Corporación de Fomento de la Producción de acciones bancarias que habiendo sido transferidas por dicha Corporación a entidades filiales o dependiente de ella, puedan serle devueltas, ni respecto de aquellas que, habiendo sido compradas por la Corporación, no le hayan sido transferidas por resolución judicial. Lo dispuesto en este artículo se aplicará también a las correspondientes acciones liberadas y regirá hasta el 31 de diciembre de 1982.(Artículo 2° del DL 3.562, de 1980).
+
+#### Artículo 2°
+
+Las acciones que no se paguen al contado DL 2099 1978 quedarán, de pleno derecho, constituidas en prenda para asegurar el pago del precio insoluto y sujetas a la prohibición de gravarlas y enajenarlas sin autorización del vendedor hasta que el pago se efectúe. Se tomará nota de esta prenda y prohibición en el correspondiente Registro de Accionistas. La parte del precio que se pagare a plazos superiores a noventa días será siempre reajustable.
+
+En las enajenaciones de acciones pertenecientes a las entidades a que se refiere el N° 17 del artículo 65° de la Ley General de Bancos, tendrá mérito ejecutivo el documento en que conste que el pago del precio de venta o de parte de él se efectuará a plazo, siempre que la firma del comprador hubiere sido autorizada por un notario. Dicho documento estará exento de todo impuesto. Esta exención se entenderá haber tenido vigencia a contar de la fecha en que comenzó a regir el decreto ley 619, de 1974.
+
+Lo establecido en el inciso anterior será también aplicable a los instrumentos que den constancia de las posteriores transferencias de las acciones bancarias que hubieren pertenecido a alguna de las entidades a que se refiere el N° 17 del artículo 65° de la Ley General de Bancos y que, mientras se mantengan vigentes la prenda y la prohibición contempladas en el inciso 1° de este artículo, efectuaren los adquirentes de ellas o sus sucesores a cualquier título.
+
+#### Artículo 3°
+
+Una vez que los bancos comerciales cumplan con el mínimo de capital y reservas establecidos en el artículo 66° de la Ley General de Bancos reemplazado por el presente decreto ley y que, además, las acciones que representen a lo menos el 51% del capital se encuentren inscritas a nombre de personas naturales o jurídicas no comprendidas en el artículo 65° N° 17 de la Ley General de Bancos, se elegirán los nuevos directorios que, en conformidad a las normas establecidas en este decreto ley, tendrán a su cargo la administración de los bancos respectivos. Hasta entonces se mantendrá la administración ejercida con arreglo a los artículos 3° y 4° del decreto ley 231, de 1973.
+
+El primer directorio elegido en cumplimiento de lo dispuesto en el inciso anterior, durará hasta que se celebre la primera Junta Ordinaria de Accionistas que tenga lugar después de transcurrido un año desde su elección.
+
+#### Artículo 4°
+
+El plazo a que se refiere el artículo 6°, letra l), se contará desde la fecha de vigencia de este decreto ley para los bancos que actualmente tienen oficina en Santiago o Valparaíso y su casa matriz fuera de dichas provincias.
+
+#### Artículo 5°
+
+Las disposiciones de este decreto ley se aplicarán a contar desde la fecha de su publicación con preferencia a las normas estatutarias que sean contrarias o incompatibles con ellas.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.- Jorge Cauas.
