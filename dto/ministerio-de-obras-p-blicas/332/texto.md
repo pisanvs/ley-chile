@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 332 de 30 de octubre de 1992, se expropió el lote de terreno N° 1, superficie 236.488 M2. rol de avalúo 106-0032, Comuna de Pencahue, para la obra Canal Oriente, Proyecto Distribución Secundaria Regadío Pencahue y se acordó precio de indemnización con su propietario Sociedad Luis Gamboa e Hijos Limitada, ascendente a la cantidad de $25.632.775.-
+
+Fiscal del Ministerio de Obras Públicas.
