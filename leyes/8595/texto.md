@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República otorgar la garantía del Estado a la obligación por US$ 28,000,000, que el Export-Import Bank de Washington ha concedido a la Corporación de Fomento de la Producción para adquisición de maquinarias y otros elementos para la planta siderúrgica que construirá en la bahía de San Vicente.
