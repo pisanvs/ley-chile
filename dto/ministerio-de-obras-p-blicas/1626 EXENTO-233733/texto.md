@@ -1,0 +1,3 @@
+Por decreto exento M.O.P. Nº 1.626 de 25 de noviembre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco, el lote de terreno Nº 13-B, para la obra: Mejoramiento Ruta 60-CH, sector Villa Dulce - Torquemada, Tramo Km. 0,000 a Km. 10,47641, que figura a nombre de Sociedad de Inversiones e Inmobi, rol de avalúo 4650-23, comuna de Viña del Mar, V Región, superficie 106 m². La Comisión de Peritos, fijó con fecha 22 de septiembre de 2004, en la cantidad de $2.743.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
