@@ -1,0 +1,3 @@
+Por Resolución número 419, de 26 de marzo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94101005, presentada por MANUEL LUCAS ESTRADA SOTO, para un centro de cultivo ubicado en Quillaipe Km. 24, Comuna de Puerto Montt, Provincia de Llanquihue, X Región, en virtud de lo dispuesto en el artículo 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
