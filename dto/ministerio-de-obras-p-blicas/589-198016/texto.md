@@ -1,0 +1,3 @@
+Por decreto MOP Nº589, de 28 de marzo del 2002, se expropió el lote de terreno Nº8-1, superficie 285, rol de avalúo 300-13, comuna de Malloa, para la obra Concesión Internacional Ruta 5. Tramo Santiago-Talca Sector G: Kms. 110.200,00 al 128.400,00. Sexta Región y se acordó el valor de indemnización con su propietaria Mónica Isabel Tobar Lizama, ascendente a la cantidad de $10.267.500.- para el lote Nº8-1.
+
+Fiscal del Ministerio de Obras Públicas.
