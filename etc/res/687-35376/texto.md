@@ -1,0 +1,3 @@
+Por Resolución N° 687, de 12 de abril de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifíquese el numeral 1° de la Resolución N° 288, de 1996, de esta Subsecretaría, que autorizó a don LUIS ARTURO QUINTANILLA VALENZUELA, para desarrollar actividades pesqueras extractivas con la nave "Rodrigo M", en el sentido de señalar que la eslora de ésta corresponde a 17,40 metros y no a la indicada en dicha Resolución.
+
+Valparaíso, 12 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
