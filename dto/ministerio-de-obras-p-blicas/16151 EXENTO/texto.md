@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.651, de fecha 30 de noviembre del 2004, se expropiaron los lotes de terreno Nºs. 47 y 48, superficies 228 y 94 m²., Roles Nºs. 518-446 y 518-447, comuna de Antuco, VIII Región, para la obra ''Camino Ruta Q-45, Sector Antuco-Abanico, Tramo II Km. 3,95000 a Km. 12,40150'', y se acordó el valor de indemnización con su propietario José Aurelio Rivera Gajardo, ascendente a la cantidad de $611.146.
+
+- Fiscal del Ministerio de Obras Públicas.
