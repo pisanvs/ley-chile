@@ -1,0 +1,3 @@
+Por resolución exenta Nº 515, de 24 de febrero de 2005, de esta Subsecretaría, recházase la solicitud de autorización de acuicultura Nº 200103273 presentada por SALMONES HUILLINCO S.A., para instalar y operar una piscicultura en un terreno privado localizado en Huillinco, en la desembocadura del Río Trainel, X Región.
+
+Valparaíso, 24 de febrero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
