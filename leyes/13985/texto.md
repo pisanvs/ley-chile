@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de San Vicente de Tagua Tagua para transferir gratuitamente al Consejo Local de Deportes, al Cuerpo de Bomberos y a la Cruz Roja los terrenos que indica y cuyos deslindes señala.
