@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.418 de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº47, superficie 20 m², rol de avalúo Nº323-4, comuna de San Javier, para el Camino Reposición Ruta M-30-L, Sector Cruce Ruta L-26-M, Puente Purapel y Ruta 126 Los Conquistadores, Tramo Km. 4,100.00 al 51,563.99 - Km. 0,00000 al 0,93000 (Ruta 126) - Km. 7,51200 al 8,01400 (Ruta L-30-M) y se acordó el valor de la indemnización con su propietaria Rosario de las Mercedes Fabres Parada ascendente a la cantidad de $243.120.-
+
+Fiscal del Ministerio de Obras Públicas.
