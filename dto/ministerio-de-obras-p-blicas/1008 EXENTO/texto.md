@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.008, de 31 de julio de 2001, se modificó el decreto exento MOP Nº 663, de 31 de mayo de 2001, que ordenó la expropiación del lote de terreno Nº 111, en cuanto a que por una parte se rectificó la referencia y el numeral 1º, en el sentido de que donde dice Provincia de Valparaíso, debe decir Provincia de San Antonio. Asimismo, se complementó el numeral ''Considerando'', en el sentido de agregar la siguiente frase después de ''... fijó con fecha 22 de febrero de 2001...'', ''complementado por acta de fecha 22 de junio de 2001''. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
