@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 10, de 30 de enero de 2003 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº1, para la obra Recinto Pozo Liceo, Comuna de Nogales, Provincia de Quillota, V Región de Valparaíso, que figura a nombre de Municipalidad Nogales Pza, rol de avalúo 4-1, superficie 110,06 m2., comuna de Nogales. La comisión de peritos, con fecha 25 de noviembre de 2002, fijó la indemnización provisional en la cantidad de $880.480, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
