@@ -1,0 +1,3 @@
+Por decreto MOP Nº 53, de 28 de febrero de 2003, se rectificó el decreto MOP Nº 1.753 de 31 de diciembre de 2002, que ordenó la expropiación del lote de terreno Nº 39-D, en el sentido de indicar que el monto de la indemnización es la suma de $1.148.275.- y no como en él se señala. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
