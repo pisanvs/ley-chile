@@ -1,0 +1,7 @@
+Por resolución Nº 413, de 30 de marzo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a CUTTER S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en El Teniente Nº 101, Puerto Montt, X Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco Enfriado y Congelado: Anchoveta, Azulejo, Bacalao de profundidad, Cojinoba del sur, Cojinoba moteada, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Chancharro, Jurel, Lisa, Merluza común, Merluza de cola, Merluza de tres aletas, Merluza del sur, Palometa, Pejegallo, Pejerrey del mar, Puye, Raya, Reineta, Róbalo, Salmón del Atlántico, Salmón plateado, Salmón rey, Salmón rosado, Sardina española, Sardina común, Sierra, Tiburón narigón, Tollo, Trucha arcoiris o Cabeza de acero, Calamar, Lapa, Loco, Pulpo y Erizo.
+
+Los recursos Salmón del Atlántico, Salmón plateado, Salmón rey, Salmón rosado y Trucha arcoiris o Cabeza de acero, deberán provenir de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 30 de marzo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
