@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 241, de fecha 31 de agosto de 1992, se expropió el lote de terreno No. 5, superficie 2.012 M2., rol de avalúo 129-1, Comuna de Quillota, para la obra Camino Internacional Ruta 60-Ch, sector Cruce Ruta 5 Puente Lo Venecia, Acceso a la Cruz, Acceso a San Isifro Ruta F-386 y Enlace Superior San Pedro y se acordó el valor de indemnización con su propietaria María Cristina Bernal Lizama, ascendente a la cantidad de $ 3.567.619.
+
+Fiscal del Ministerio de Obras Públicas.
