@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 78, de fecha 21 de marzo de 1994, se expropiarón los lotes de terreno N°s. 6 y 2, superficies 2.291 M2. y 3.800 M2., roles de avalúo 103-15, respectivamente, Comuna de Pencahue, para la obra Canal El Guindo y Canal Santa Sara y se acordó valor de indemnización con su propietario Orlando Leppe Poblete, ascendente a la cantidad de $489.817.-
+
+Fiscal del Ministerio de Obras Públicas.
