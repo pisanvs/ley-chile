@@ -1,0 +1,3 @@
+Por decreto MOP Nº275, de 11 de febrero de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para la Empresa de Servicios Sanitarios de Los Lagos S.A., el lote de terreno Nº1, para la obra Planta de Aguas Servidas de Castro, Provincia de Chiloé, X Región, que figura a nombre de Subiabre Horstmeier Els y otros, rol de avalúo 1120-5, superficie 27.637 m²., comuna de Castro. La Comisión de Peritos, con fecha 16 de enero de 2002, fijó la indeminzación provisional en la cantidad de $35.928.100, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
