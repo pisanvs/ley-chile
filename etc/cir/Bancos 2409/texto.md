@@ -8878,6 +8878,8 @@ BOLETAS DE GARANTIA.
 
 ### 1. Características de las boletas de garantía
 
+1.1. Generalidades.
+
 La boleta de garantía es, en forma genérica, un depósito de dinero que constituye en un banco, el depositante o tomador, a favor de un beneficiario, en garantía del buen cumplimiento de una obligación asumida por aquél ante ese beneficiario. Cuando el depósito se constituye en forma efectiva por el tomador,se le llama propiamente "Depósito de Garantía" y cuando el tomador
 
 obtiene un crédito en el mismo banco emisor, que se documenta generalmente mediante un pagaré, se le denomina "Boleta de garantía", sin que esta distinción produzca efectos prácticos para el beneficiario.
@@ -8894,17 +8896,31 @@ El depósito de garantía origina la emisión, por parte del banco, de la llamad
 
 que sea la obligación que caucione, debe ser pagado al beneficiario en la oportunidad en que éste lo demande, observando solamente, cuando así se hubiera estipulado, el aviso previo de 30 días o del plazo que para el efecto se haya establecido.
 
+De acuerdo con lo dispuesto en el N° 10 del artículo 83 de la Ley General de Bancos, la boleta de garantía representa una caución y la institución con la que presenta mayor semejanza es con la prenda de dinero que se deposita en poder de un tercero.
+
+Dada esa característica especial, en ningún caso puede disponerse de la boleta de garantía para una finalidad distinta de aquella para la cual fue tomada. Por consiguiente, se trata de un documento irrevocable que no admite endoso por parte del beneficiario, sino solamente su cancelación en caso de hacerse efectiva, cobrando su importe o bien, para hacer su devolución al respectivo tomador de la misma, para que éste a su vez la devuelva al banco, a fin de dar por cancelada la garantía.
+
+1.2. Extensión de una boleta de garantía.
+
+a) Menciones mínimas.
+
 Las menciones que, como mínimo, debe indicar la boleta son el nombre y firma del Banco depositario, el nombre del beneficiario y del tomador; la obligación que garantiza la boleta; el monto de la suma depositada; el plazo que tiene el banco para restituir la cantidad depositada, después de haber sido requerido para ello; el lugar y la fecha de otorgamiento.
 
-Las boletas de garantía, cuentan además con las siguientes características:
+b) Carácter de nominativa y no endosable.
 
-a) son irrevocables;
+Acorde con la función para las que fueron creadas, en la extensión de una boleta de garantía debe dársele a ésta el carácter de nominativa y no endosable.
 
-b) Pueden emitirse en moneda chilena, moneda extranjera o expresadas en moneda extranjera pagaderas en moneda chilena;
+Para ese efecto deberá utilizarse únicamente la forma "El Banco ......... pagará a (nombre del beneficiario)", atendido que, sobre la base de lo preceptuado por el artículo 1° de la Ley N° 18.552, de 20 de septiembre de 1986 relativo al tratamiento a los títulos de crédito, se podría considerar que el documento no es nominativo si se utilizan cláusulas tales como "a favor" o "a la orden".
 
-c) pueden contener cláusulas de reajustabilidad; y,
+Por otra parte, como la Ley N° 18.092 sobre letras de cambio y pagaré, en su artículo 18, permite el endoso aun cuando el documento no esté a la orden, conviene agregar en las boletas de garantía el término "NO ENDOSABLE", que el mismo artículo establece para que sea aplicable la transferencia conforme a los preceptos que rigen los créditos nominativos, permitiendo sin embargo el endoso en comisión de cobranza, todo lo cual se aviene con la naturaleza jurídica de este especial documento.
 
-d) pueden ser pagaderas a la vista o a plazo.
+c) Forma de pago.
+
+Las boletas de garantía pueden ser pagaderas a la vista o a plazo, debiendo ser cobradas por el beneficiario dentro de su plazo de vigencia.
+
+d) Moneda y reajustabilidad.
+
+Las boletas pueden emitirse en moneda chilena, con o sin cláusula de reajustabilidad, en moneda extranjera o expresadas en moneda extranjera pagaderas en moneda chilena.
 
 ### 2. Fines para los cuales pueden emitirse boletas de garantía
 
@@ -9122,7 +9138,7 @@ Haber: "Boletas de garantía enteradas con pagaré". El saldo de esta cuenta se 
 
 a) En dinero efectivo.
 
-Se procederá de la misma manera señalada para las boletas emitidas contra un depósito en pesos, moneda chilena, con la excepción de que la cuenta "Caja" podrá ser remplazada por la del corresponsal en el exterior que entregó en depósito la moneda extranjera, cuando la emisión sea ordenada por un banco corresponsal del exterior que ha acreditado en cuenta al banco emisor, en la respectiva moneda, el valor del depósito, contra el cual se emitirá la boleta.Este depósito será reflejado en la partida 1025 del formulario MB1.
+Se procederá de la misma manera señalada para las boletas emitidas contra un depósito en pesos, moneda chilena, debitando "Caja" o la cuenta que corresponda por la recepción de la respectiva moneda extranjera.
 
 b) Contra pagaré.
 
@@ -9170,7 +9186,7 @@ pagaderas en pesos moneda nacional", se deben mantener divididas en las subcuent
 
 11.6. Extinción de la boleta de garantía.
 
-Las boletas de garantía se extinguen al momento que el beneficiario la hace efectiva o que el tomador la devuelve al banco, dentro del plazo de validez que se le ha dado al documento.
+Las boletas de garantía se extinguen al momento que el beneficiario la hace efectiva o que el tomador la devuelve al banco, dentro del plazo de validez que se le ha dado al documento. En caso que la boleta de garantía sea devuelta, deberá constar en el dorso la leyenda "Devuelta al tomador" y el nombre o razón social y la firma del beneficiario.
 
 Si ella no es cobrada o devuelta hasta la fecha fijada para su vencimiento, la institución emisora podrá cancelarla en sus registros y efectuar, si fuera del caso, la correspondiente liquidación al tomador. Los depósitos enterados para boleta de garantía que permanezcan inmovilizados después de haber vencido la correspondiente boleta, quedarán sujetos a los plazos de prescripción de que trata el Capítulo 2-13 de esta Recopilación de Normas.
 
