@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.550, de 22 de octubre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para la Empresa de Servicios Sanitarios del Bío Bío S.A., el lote de terreno Nº1, para la obra Aducción El Molino, localidad Dichato, que figura a nombre de Forestal Chile S.A., rol de avalúo 00551-00003, comuna de Tomé, VIII Región, superficie 8.984,08 m2. La comisión de peritos, fijó con fecha 10 de julio de 2001, el valor provisional de la indemnización en la cantidad de $2.695.224 la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
