@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 673 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 65-B, superficie 36 m2., sin rol de avalúo, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen - El Corral, tramo Km. 0,000 a Km. 70,000, Etapa II'', III Región y se acordó el valor de indemnización con su propietario Silvio Avalos Agusto, ascendente a la cantidad de $229.126.-
+
+Fiscal del Ministerio de Obras Públicas.
