@@ -1,0 +1,5 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A DON MAXIMILIANO RIQUELME MOLINA
+
+La VIII Dirección Regional Concepción del S.I.I., por resolución DRE08/NºEx. 652, de fecha 15 de julio de 1998, excepciona a contar del 1º del mes siguiente al de esta publicación y hasta el 31 de julio de 1999, a don Maximiliano Riquelme Molina, Rut Nº3.377.491-5, del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las operaciones de ganado vivo, establecido en la resolución NºEx. 2.379/98 de la Dirección Nacional, publicada en el Diario Oficial del día 24.04.98, modificada y complementada por resolución NºEx. 3.785/98, publicada en el Diario Oficial del día 30.06.98. Consecuencialmente el (la) peticionario(a) excepcionado pasa a tener la calidad de agente retenedor del Impuesto al Valor Agregado en sus operaciones de ganado vivo.-
+
+Sergio Flores Gutiérrez, Director Regional.
