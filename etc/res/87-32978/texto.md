@@ -1,0 +1,3 @@
+Por Resolución N° 87 de 31 de Marzo de 1993, del Serviu V Región de Valparaíso, se dispuso expropiación conforme artículo 87 Ley 8.946 de Pavimentación Comunal y D.L. N° 2.186, de 1978, de parte de lote 541 de calle Carén, comuna Viña del Mar, inscrito fs. 9.094 N° 10.105 Registro Propiedad 1992 Conservador Bienes Raíces Viña del Mar, de dominio de Patricia Vildósola Leiva. Comisión Tasadora integrada por arquitecto Edmundo Bravo Ubilla y constructores civiles Alvaro Verdejo Vidal y Pablo Caria Giurici, según informe de fecha 3 Marzo 1993, fijó monto provisional indemnización en $ 840.000, la que se pagará de contado.-
+
+Director Serviu V Región.
