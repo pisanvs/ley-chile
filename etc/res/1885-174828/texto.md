@@ -1,0 +1,3 @@
+Por resolución Nº1.885, de 29 de agosto de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº97110507, presentada por PABLO ENRIQUE AGUILERA MARIN, para instalar y operar un centro de cultivo ubicado en Canal Chaffers, Isla Bolados, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 29 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
