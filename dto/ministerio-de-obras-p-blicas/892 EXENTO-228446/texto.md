@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 892 de 30 de junio de 2004, se expropiaron los lotes de terrenos Nº s 103-A, 103-B, 103-C y 103-D, superficies 72, 76, 77 y 79 m2, rol de Avalúo Nº 596-50, comuna de Santa Cruz, para la obra "Camino Santa Cruz-Yánquil, Rol I-730, KM. 0.00000 al Km. 7,46939", VI Región y se acordó el valor de las indemnizaciones con su propietario Jorge Raúl Quinteros Pulido, ascendente a la cantidad de $1.923.890.
+
+- Fiscal del Ministerio de Obras Públicas.
