@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.394, de 31 de julio de 2000, se expropió el lote de terreno Nº 69, superficie 715 m2, rol de avalúo 118-57, comuna de Malloa, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector G, Sexta Región y se acordó el valor de indemnización con su propietario Alvaro Francisco Angulo Miranda, ascendente a la cantidad de $3.615.739.
+
+Fiscal del Ministerio de Obras Públicas.
