@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.784, de 30 de junio de 1999, se expropiaron los lotes de terreno No. s. 2-A y 2-B, superficies 347 y 60 m2., respectivamente, rol de avalúo 12006-22, comuna de San Pedro de la Paz, para la obra Reposición Puente Bío-Bío Antiguo, Ruta 160, Concepción-San Pedro, sector San Pedro y se acordó precio de indemnización con su propietaria Eladia Hortencia Carvallo Ospital, ascendente a la cantidad de $ 24.938.550.
+
+Fiscal del Ministerio de Obras Públicas.
