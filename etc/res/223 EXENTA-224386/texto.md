@@ -1,0 +1,5 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A AGRICOLA AVILES LIMITADA
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Nº Ex. 223 de 16 de abril de 2004, excepciona a contar del 1º del mes siguiente al de esta publicación y se mantendrá vigente mientras se dé cumplimiento a la Res. Nº Ex. - 5281 de 30.11.2000 de la Dirección Nacional, publicada en el Diario Oficial de 04/12/2001, a Agrícola Avilés Limitada, RUT Nº 78.475.820-6, del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las ventas de trigo, establecido en la resolución Nº Ex. - 5281/2000 de la Dirección Nacional. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus ventas de trigo.
+
+- Lidia Castillo Alarcón, Directora Regional.
