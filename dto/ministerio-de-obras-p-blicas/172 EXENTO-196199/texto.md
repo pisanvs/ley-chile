@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 172, de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nº 2-A y 4-A, superficies 1.101 m2 y 105 m2, respectivamente, rol de avalúo 346-175, comuna de Río Negro, X Región, para la obra "Camino Ruta U-72, Sector Riachuelo-Crucero, Km. 33,91000 al 47,49280" y se acordó el valor de indemnización con su propietario María Isabel Pasenau Bielefeldt, ascendente a la cantidad de $2.116.344.
+
+- Fiscal del Ministerio de Obras Públicas.
