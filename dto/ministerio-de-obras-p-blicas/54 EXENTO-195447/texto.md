@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº54, de 29 de enero de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se dejó sin efecto el decreto MOP Nº1.274, de 27 de agosto de 2001, que autorizó la expropiación del lote Nº3 que figura a nombre de don Carlos Aníbal Martínez Alvarez, rol de avalúo 503-18, comuna de Taltal, superficie 2.434 m², necesario para la ejecución de la obra Camino Ruta 1, sector Taltal-Caleta El Cobre, Kms. 24,33445 al 171,03000. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
