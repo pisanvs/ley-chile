@@ -1,0 +1,3 @@
+Por decreto MOP Nº752, de 31 de julio de 1997, se ordenó la expropiación y aprobó el plano y cuadro de expropiación del lote de terreno Nº86, y por decreto MOP, Nº3.097, de 31 de julio de 2000, se autorizó el valor de la consignación provisional de la expropiación por la vía judicial, en la cantidad de $270.000.- necesario para la ejecución de la obra Ruta 1-85-J, Sector Cruce Longitudinal (Chimbarongo) - Codegua, Tramo Km. 0.000 a Km. 12.543,68, el pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreo ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
