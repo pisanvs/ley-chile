@@ -1,0 +1,3 @@
+Por decreto MOP No. 331, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s. 35, 36 y 41, superficies 1.768 m2., 475 m2. y 90 m2., roles de avalúos 266-175, 266-176 y 266-179, comuna de Carahue, obra Camino Carahue Puerto Saavedra, sector I. y se acordó precio de indemnización con sus propietarios Ramón Grandón Contreras y Otros, ascendente a la cantidad de $ 1.715.997.-
+
+Fiscal del Ministerio de Obras Públicas.
