@@ -1,0 +1,3 @@
+Por Resolución N° 729, de 12 de abril de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por INVERTEC PESQUERA MAR DE CHILOE, para un centro de cultivo ubicado en Punta Tumaumon, Canal Queilén, comuna de Queilén, provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 78° y 87°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 12 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
