@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 679 de 30 de abril de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra: Camino Ruta D-715 Combarbalá - Cogotí 18, sector Km. 0,006.41 a Km. 13,945.46, que figura a nombre de Nino de Zepeda Parra Francisco, rol de avalúo 538-001, comuna de Combarbalá, IV Región, superficie 183 M2. La Comisión de Peritos, fijó con fecha 29 de octubre de 2003, en la cantidad de $313.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
