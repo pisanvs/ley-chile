@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 79, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación total conforme DS No. 458 de Vivienda y Urbanismo Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas No. 2417-2423, Rol 333-2 Santiago, aparente dominio Nora Isabel Torres Arroyo, superficie aproximada a expropiar 210 m2. Deslindes: Norte, 8,80 mts otro propietario; Sur, 9,60 mts. calle Agustinas; Oriente, 22,85, mts. otro propietario y Poniente, 22,85 mts. otro propietario. Indemnización provisional $ 3.005.625.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
