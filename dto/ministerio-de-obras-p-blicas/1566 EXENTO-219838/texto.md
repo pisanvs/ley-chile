@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 1.566 de fecha 28 de noviembre del 2003, se expropió el lote de terreno Nº 29-C, superficie 75 m², rol Nº 191-31, comuna de Longaví VII Región para la obra "Camino Ruta L-49, Cruce Long.- Mesamavida, sector Cruce Longitudinal-San Luis, Tramo Km. 0,000.00 a Km. 13,841.12" y se acordó el valor de indemnización con su propietario Ramón Segundo Cerda Benavente, ascendente a la cantidad de $464.454.-
+
+Fiscal del Ministerio de Obras Públicas.
