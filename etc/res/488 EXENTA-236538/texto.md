@@ -1,0 +1,3 @@
+Por resolución exenta Nº 488, de 23 de febrero de 2005, de esta Subsecretaría, autorízase a HERMANN ALEJANDRO EBERHARD VOLKART para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Yungay Nº 1051, Puerto Natales, XII Región, en las líneas de elaboración de Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado, Ahumado y Conserva, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 23 de febrero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
