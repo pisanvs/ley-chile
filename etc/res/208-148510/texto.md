@@ -1,0 +1,9 @@
+EXTRACTO DE LA REFORMA DE ESTATUTOS DEL BANCO DE A. EDWARDS
+
+Certifico que, por Resolución Nº 208 de 19 de diciembre de 1986, se aprobaron las reformas introducidas a los estatutos del Banco de A. Edwards, en la Junta Extraordinaria de Accionistas celebrada en Santiago el 15 de diciembre de 1986. El acta se redujo a escritura pública el 16 de diciembre del mismo año, otorgada en la Notaría de Santiago de don Andrés Rubio Flores.
+
+Extracto de la reforma:
+
+Se aumentó el capital social de $ 5.320.607.010 dividido en 1.892.338.200 acciones a la suma de $ 5.820.607.012 representado por 2.036.707.903 acciones. Ello se efectuará mediante la emisión de 144.369.703 acciones de pago de la serie B, o preferidas, las que deberán ser suscritas y pagadas dentro del plazo de noventa días contados desde la fecha de la Resolución que aprobó esta reforma. Las acciones de la serie B que se emitirán, tendrán los mismos derechos que las de la serie B actualmente emitidas, esto es, el de recibir dividendos con cargo a los excedentes de cada ejercicio social que transcurra mientras existan vigentes pactos de recompra de cartera vendida por el Banco de A. Edwards al Banco Central de Chile, dividendo que alcanzará al treinta por ciento de aquella parte de los excedentes que proporcionalmente corresponde a las acciones de esta serie B, en relación con el número total de acciones que estén emitidas al término del ejercicio cuyo excedente corresponda repartir. Las acciones que no estén totalmente pagadas se considerarán por la parte enterada para calcular la proporción indicada.
+
+Santiago, 19 de Diciembre de 1986.- Guillermo Ramírez Vilardell, Superintendente de Bancos e Instituciones Financieras.
