@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.444, de 24 de mayo de 2004, de esta Subsecretaría, autorízase a MARINE HARVEST CHILE S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar una planta ubicada en Rural sector Teupa, comuna de Chonchi, X Región, donde podrá procesar en las líneas de elaboración Fresco-Enfriado, Fresco-Refrigerado y Congelado, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 24 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
