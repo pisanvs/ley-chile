@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 141 de 31 de marzo de 2003, se dejó sin efecto el decreto MOP exento Nº1.776, de fecha 31 de diciembre del 2002, en la parte que se refiere a los lotes Nºs. 55-A, 55-B, 56-A y 56-B, expropiados para la ejecución de la obra Camino San Fernando - Roma, Rol I-301; I-255, I-151, Km. 0,000 a Km. 10,954264, roles de avalúo Nºs. 284-26; 285-48; en tramite y 285-76 de la comuna de San Fernando, VI Región, superficies 61, 80, 60 y 53 metros cuadrados respectivamente, y que figuran a nombre de Carreno Vidal Edison y otros, Carreno Arnas Bernardo, Peñalosa Elba Rosa y Meneses Varela José Manuel.
+
+Fiscal del Ministerio de Obras Públicas.
