@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.028, de 30 de julio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL.
+
+No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL. No. 206 de 1960, se expropiaron los lotes de terreno No. s.130-A y 130-C, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, sector km. 103.800,00 al 106.680,00, V Región, que figuran a nombre de Krarup Hjort Niels, rol de avalúo 46-33, de la comuna de Hijuelas, superficies 4.792 m2 y 2.228 m2. La Comisión de Peritos integrada por los Sres. Alvaro Verdejo Vidal, René Fernando Adaros Avarez y Raúl Alberto Ubilla Gómez, fijó con fecha 28 de febrero de 1998, el valor provisional de la indemnización en la cantidad de $ 19.133.000.- para el lote No. 130-A y $ 7.612.400.- para el lote No. 130-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
