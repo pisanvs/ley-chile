@@ -1,0 +1,3 @@
+Por decreto MOP Nº 429 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 87, superficie 1.788 m2, Rol Nº 2026-23, comuna de Melipilla, Región Metropolitana para la obra "Camino Reposición Ruta G-74-F. Sector: Melipilla - Bollenar. Tramo: Km. 0,00000 a Km. 14,23039" y se acordó el valor de la indemnización con su propietario Waldo Antonio Bolocco Iturre, ascendente a la cantidad de $10.568.678.-
+
+Fiscal del Ministerio de Obras Públicas.
