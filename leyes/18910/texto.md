@@ -24,25 +24,27 @@ El Instituto de Desarrollo Agropecuario tendrá por objeto promover el desarroll
 
 #### Artículo 3°
 
-Para el logro de los objetivos señalados, el Instituto podrá desarrollar, especialmente, las siguientes funciones:
+Para el logro del objetivo señalado el Instituto podrá desarrollar las siguientes funciones:
 
-1) Otorgar asistencia crediticia a sus beneficiarios, pudiendo ésta extenderse al financiamiento del enlace necesario, en coordinación con los organismos públicos competentes, para la construcción y mejoramiento de la vivienda rural y sus servicios básicos.
+1.- Otorgar asistencia crediticia al pequeño productor agrícola, pudiendo ésta extenderse al financiamiento de enlace necesario para la construcción y mejoramiento de la vivienda rural.
 
-2) Otorgar asistencia crediticia a las organizaciones de sus beneficiarios, con personalidad jurídica, que desarrollen programas o actividades productivas que impliquen beneficio directo a los sectores rurales.
+2.- Otorgar asistencia crediticia a organizaciones de pequeños productores agrícolas con personalidad jurídica que desarrollen programas o actividades productivas que impliquen beneficio directo a los sectores rurales.
 
-3) Proporcionar asistencia técnica y capacitación a sus beneficiarios, tanto en los aspectos productivos como en todos los que constituyen sus objetivos propios.
+3.- Proporcionar asistencia técnica y capacitación tanto en los aspectos productivos como de economía en el hogar rural. Para este efecto administrará subsidios o líneas de crédito destinados a que sean los beneficiarios quienes contraten directamente estos servicios en el sector privado, pudiendo otorgarlos INDAP sólo en forma subsidiaria, a título gratuito u oneroso.
 
-Para este efecto, administrará subsidios o líneas de crédito destinados a contratar directamente estos servicios en el sector privado, pudiendo otorgarlos el Instituto, en forma subsidiaria, a título gratuito u oneroso.
+4.- Cumplir las funciones de regularización de la propiedad indígena en conformidad a la ley N° 17.729 y al decreto ley N° 2.568, de 1979.
 
-4) DEROGADO.-
+#### Artículo 3°
 
-5) Otorgar los subsidios que la ley disponga para fines productivos, obras de desarrollo rural o para atender situaciones de emergencia en el sector rural.
+Para el logro del objetivo señalado el Instituto podrá desarrollar las siguientes funciones:
 
-6) Cumplir las funciones de regulación de la propiedad indígena, en conformidad a la ley N° 17.729 y al decreto ley N° 2.568, de 1979.
+1.- Otorgar asistencia crediticia al pequeño productor agrícola, pudiendo ésta extenderse al financiamiento de enlace necesario para la construcción y mejoramiento de la vivienda rural.
 
-7) Ejecutar todos los actos y celebrar todas las convenciones necesarias para el cumplimiento de sus objetivos y funciones propias y los demás que le fijen las leyes.
+2.- Otorgar asistencia crediticia a organizaciones de pequeños productores agrícolas con personalidad jurídica que desarrollen programas o actividades productivas que impliquen beneficio directo a los sectores rurales.
 
-El otorgamiento de créditos y subsidios, los programas de desarrollo rural y asistencia crediticia, así como cualquier beneficio que otorgue el Instituto a personas naturales, jurídicas o comunidades, deberá concederse sobre la base de parámetros objetivos previamente reglamentados, salvo en situaciones de emergencia. Todos los potenciales beneficiarios del Instituto tendrán acceso a dicha información.
+3.- Proporcionar asistencia técnica y capacitación tanto en los aspectos productivos como de economía en el hogar rural. Para este efecto administrará subsidios o líneas de crédito destinados a que sean los beneficiarios quienes contraten directamente estos servicios en el sector privado, pudiendo otorgarlos INDAP sólo en forma subsidiaria, a título gratuito u oneroso.
+
+4.- Cumplir las funciones de regularización de la propiedad indígena en conformidad a la ley N° 17.729 y al decreto ley N° 2.568, de 1979.
 
 ### Párrafo II — DE LA ORGANIZACION Y ADMINISTRACION
 
@@ -66,7 +68,7 @@ e) Conceder los aportes, subsidios o subvenciones que autorice la ley.
 
 f) Contratar, previa aprobación del Presidente de la República, préstamos con entidades nacionales o extranjeras, ya sean estatales, particulares o internacionales, con las formalidades y limitaciones establecidas en la legislación vigente.
 
-g) Acordar transacciones y avenimientos, sean estos judiciales o extrajudiciales, celebrar acuerdos de reorganización a que se refiere la Ley de Reorganización y Liquidación de Activos de Empresas y Personas, someter asuntos a compromisos y otorgar a los árbitros facultades de arbitradores en cuanto al procedimiento y fallo.
+g) Acordar transacciones y avenimientos, sean estos judiciales o extrajudiciales, celebrar convenios a que se refiere la Ley de Quiebras, someter asuntos a compromisos y otorgar a los árbitros facultades de arbitradores en cuanto al procedimiento y fallo.
 
 h) Celebrar toda clase de convenciones con personas naturales o jurídicas, de derecho público o privado, nacionales o extranjeras, para ejecutar acciones de apoyo a las funciones propias del Instituto, desarrollar programas de trabajo comprendidos dentro de dichas funciones y realizar estudios técnicos o de factibilidad que tengan relación con sus fines y objetivos.
 
@@ -1009,8 +1011,6 @@ San Pedro 1,14 0,62 0,32 0,12 0,11 0,09 0,02
 Alhué 0,8 0,62 0,32 0,12 0,11 0,09 0,02
 
 María Pinto 1,00 0,62 0,32 0,12 0,11 0,09 0,02
-
-> **Nota.** El artículo 87 de la ley 21806, publicada el 05.02.2026, determina, excepcionalmente y hasta el 31 de diciembre de 2026, como incorporados dentro de la definición de Pequeño Productor Agrícola, contenida en el presente artículo, que sustituye la ley orgánica del Instituto de Desarrollo Agropecuario, a aquellos productores que superaron el límite de activos de 3.500 unidades de fomento establecido por esta disposición, como consecuencia del proceso de reavalúo de bienes agrícolas del año 2020 y 2024, y que soliciten mediante declaración jurada simple acogerse a lo dispuesto anteriormente. Para lo anterior, las usuarias y los usuarios deberán haber recibido beneficios.
 
 #### Artículo 14°
 
