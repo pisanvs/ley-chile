@@ -1,0 +1,3 @@
+Por resolución Nº 218 de 24 de enero de 2002 de esta Subsecretaría, modifícase el numeral 6º de la resolución Nº 37 de 2002, que autorizó al Instituto de Fomento Pesquero, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Distribución espacio temporal de las capturas de Jurel en la I y II Región (Primera Etapa, 2002)", en el sentido de incorporar la embarcación artesanal "Chone", a la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 24 de enero de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
