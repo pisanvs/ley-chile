@@ -1,0 +1,3 @@
+Por resolución N° 1.221 de 10 de Diciembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, invalídase la Resolución N° 1146, de 26 de noviembre de 1992, de esta Subsecretaría, referida a la SOCIEDAD DE FOMENTO INDUSTRIAL Y COMERCIAL ALBATROS S.A., R.U.T. N° 95.122.000-0, dictada por error administrativo
+
+Valparaíso, 10 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
