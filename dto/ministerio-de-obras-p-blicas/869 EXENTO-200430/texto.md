@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº869 de fecha 31 de mayo del 2002, se expropió el lote de terreno Nº41, superficie 228,5 m2, rol Nº61-40, comuna de Futrono, X Región para la obra ''Camino Ruta T-55, sector Futrono-Llifén, tramo Km. 55,300 al 75,76384'' y se acordó el valor de indemnización con su propietario Carlos Alfonso Mera Miranda, ascendente a la cantidad de $1.615.972.-
+
+Fiscal del Ministerio de Obras Públicas.
