@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION QUE INDICA
+
+Por resolución No. 836, de 12 de Agosto de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica el numeral 2° de la resolución No. 309, de 1988, de esta Subsecretaría, que autorizó a Empacadora del Pacífico Limitada, domiciliada en Santiago, para ampliar actividades pesqueras de transformación en el sentido de señalar que la solicitante operará en la planta ubicada en calle Ferrari No. 80, La Cisterna, Santiago, Región Metropolitana y No. en la planta de Agroindustrial Lo Espejo Ltda. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo con las disposiciones legales y regiamentarias vigentes o que se establezcan.
+
+Valparaíso, 12 de Agosto de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
