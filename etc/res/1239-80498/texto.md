@@ -1,0 +1,7 @@
+Por Resolución No. 1.239, de 04 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don ELMO ARTURO JARAMILLO AROS, RUT No. 2.463.954-1, domiciliado en Balmaceda No. 382, San Antonio, para iniciar actividades pesqueras, en orden a operar la embarcación en construcción "Doña Isabel", en el litoral de las Regiones que a continuación se indican, donde podrá extraer los siguientes recursos hidrobiológicos: a) Dentro de la Zona Económica Exclusiva de Chile Continental, desde la I a la X Región, con red de enmalle y arpón: Albacora o pez espada, Marrajo o Tiburón, Atún aleta larga y Atún ojos grandes; b) Entre Punta Liles y el Paralelo 47° L.S., por fuera de las líneas de base recta, donde corresponda, con espinel: Bacalao de profundidad o mero.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Declárase la caducidad de las resoluciones No. 687, de 1991 y No. 1052, de 1991, de esta Subsecretaría, de conformidad con el Art. 6° del DS No. 175 de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 04 de Septiembre de 1991.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
