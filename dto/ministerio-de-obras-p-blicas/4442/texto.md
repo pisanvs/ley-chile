@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.442, de 29 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra Regadío Pencahue, Canal San Manuel, Gancho 2 Canal Las Docientas Norte Prolongación Kms. 0,000 al 0,110, que figura a nombre de José Ramiro Guajardo Castro, rol de avalúo 123-29, comuna de Pencahue, superficie 440 m2. La Comisión de Peritos, fijó con fecha 30 de marzo de 1999, en la cantidad de $110.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
