@@ -1,0 +1,3 @@
+Por decreto MOP Nº505, de 28 de febrero del 2000, se expropió el lote de terreno Nº89, superficie 4.846 m2., rol de avalúo 600-10, comuna de Mulchén, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli, Octava Región y se acordó el valor de indemnización con su propietaria Delmira Humilde Morales Monsalve, ascendente a la cantidad de $2.781.860.-
+
+Fiscal del Ministerio de Obras Públicas.
