@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.159 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 12, superficie 2.964 m2., Rol de Avalúo Nº 603-8, comuna de San Ignacio, para la obra: "Proyecto Laja Diguillín, Canal Matriz Diguillín - Larqui, Km. 6,416 a Km. 11,893, Comuna de San Ignacio, Provincia de Ñuble", VIII Región y se acordó el valor de indemnización con su propietario Sergio Antonio Veloso Soto, ascendente a la cantidad de $2.161.940.-
+
+Fiscal del Ministerio de Obras Públicas.
