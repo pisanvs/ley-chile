@@ -1,0 +1,3 @@
+Por resolución Nº429, de 1 de marzo de 2000, de esta Subsecretaría, autorízase a COMERCIALIZADORA DE PRODUCTOS ALIMENTICIOS FRIO NATUR LIMITADA, para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº571, de 1998, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Las Heras Nº2241, comuna de Concepción, provincia de Concepción, VIII Región, en la línea de elaboración de Congelado, el recurso hidrobiológico Channel catfish.
+
+Valparaíso, 1 de marzo de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
