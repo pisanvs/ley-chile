@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.444, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº28-A, superficie 1.135 m², rol de avaluó 559-43, comuna de Linares, VII Región, para la obra ''Camino Ruta L-45, sector Linares Llepo, Tramo Km. 2,750.0 al 13,147'', y se acordó el valor de indemnización con su propietario don Héctor Iván Cáceres Caroca, ascendente a la cantidad de $1.849.891.-
+
+Fiscal del Ministerio de Obras Públicas.
