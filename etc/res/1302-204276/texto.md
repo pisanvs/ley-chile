@@ -1,0 +1,3 @@
+Por resolución Nº 1.302, modifícase el numeral 4º letras b) y c) de la resolución Nº 1.214 de 2002, de esta Subsecretaría, que autorizó a CONSULTORA PUPELDE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Monitoreo de la pesquería de merluza del sur en aguas interiores X Región, temporada 2002", en el sentido de señalar que los límites de captura autorizados para el mes de junio a las Zonas Hualaihue Norte y Hualaihue Sur, podrán extraerse entre los días 21 y 23 de junio, ambas fechas inclusive.
+
+Valparaíso, 20 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
