@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DEL INMUEBLE QUE INDICA
+
+Por Resolución N° 37, de fecha 30 de Agosto de 1995, del Serviu XII Región, de Magallanes y Antártica Chilena, se dispuso, conforme al artículo 51 de la Ley 16.391, Decreto Supremo N° 34 de V. y U. de 1988 y Decreto Ley 2.186 de 1978, la expropiación parcial del inmueble ubicado en el Barrio Arturo Prat, entre calles Condell y Rómulo Correa, denominado Chacra N° 2, Comuna de Punta Arenas, Rol de Avalúo 5026-20, de aparente dominio de don Milan Capkovic Martinic. El área a expropiar es de 5.445,00 m2. Comisión tasadora integrada por los Arquitectos: Sra. Jannette Moris Torres, Sr. José Luis Subiabre Aguilar y Sr. Adolfo Cascardo Williams, según informe de 3 de Julio de 1995, fijó monto provisional indemnización en $4.356.000, pagadero al contado.-
+
+Héctor Ramírez Figueroa, Director Serviu XII Región Magallanes y Antártica Chilena.
