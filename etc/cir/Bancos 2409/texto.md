@@ -7078,7 +7078,7 @@ Bancos
 
 012 BANCO DEL ESTADO DE CHILE
 
-014 BANCO SUD AMERICANO
+014 BANCO SUDAMERICANO
 
 016 BANCO DE CREDITO E INVERSIONES
 
@@ -7116,9 +7116,11 @@ Bancos
 
 046 ABN AMRO BANK (CHILE)
 
-049 BANCO SECURTTY
+049 BANCO SECURITY
 
 051 BANCO FALABELLA
+
+052 DEUTSCHE BANK (CHILE)
 
 504 BBVA BANCO BHIF
 
@@ -11564,25 +11566,15 @@ Los procedimientos que se disponen para el castigo del total o parte de los cré
 
 3.1. Condiciones que determinan el castigo de colocaciones.
 
-3 1.1. Colocaciones vencidas.
-
 El castigo de las colocaciones, tanto en moneda chilena como extranjera debe realizarse en los siguientes casos: a) Cuando un crédito vencido carezca de título ejecutivo. En este caso el castigo total o parcial, según corresponda, se efectuará en la oportunidad en que el saldo debería ser traspasado a cartera vencida, de acuerdo con lo instruido en el numeral 1.1 del Capítulo 8-26 de esta Recopilación.
 
 b) Al cumplirse el plazo de prescripción de las acciones para demandar el cobro mediante un juicio ejecutivo o al momento del rechazo o abandono de la ejecución del título por resolución judicial ejecutoriada.
 
-c) Cuando la institución financiera acreedora considere que no existe ninguna posibilidad de recuperación del respectivo crédito vencido.
+c) Cuando la institución financiera acreedora considere que no existe ninguna posibilidad de recuperación del respectivo crédito.
 
 d) Cuando se cumpla el plazo en que la operación puede mantenerse impaga en cartera vencida, según lo dispuesto en el numeral 3.2 siguiente.
 
-3.1.2. Las instituciones financieras podrán castigar colocaciones cuyo plazo de vencimiento aún no se haya cumplido, solamente si cuentan con la conformidad previa de esta Superintendencia.
-
-Las instituciones financieras podrán castigar colocaciones cuyo plazo de vencimiento aún no se haya cumplido, siempre que se ciñan a lo siguiente:
-
-a) Deben mantenerse, en un archivo especial, las constancias de las razones y antecedentes que se han tenido en consideración para concluir que tales créditos son irrecuperables; y,
-
-b) Mientras no se cumpla la fecha de vencimiento pactada, los créditos que se castiguen deben informarse como créditos vigentes en la información sobre deudores a que se refiere el Capítulo 18-5 de esta Recopilación.
-
-Con todo, las instituciones financieras que no se encuentren clasificadas dos o más veces consecutivas en categoría I según lo establecido en el título I del Capítulo 8-28 de la Recopilación Actualizada de Normas, solamente podrán castigar créditos vigentes si cuentan con la conformidad previa de esta Superintendencia. Para ese efecto deberán remitir una solicitud en tal sentido, acompañando la información a que se refiere la letra a) precedente.
+Cuando se castigue un crédito cuyo plazo de vencimiento aún no se haya cumplido, deber**A***á seguir informándose como vigente en la información sobre deudores a que se refiere el Capítulo 18-5 de esta Recopilación, mientras no se cumpla la fecha de vencimiento. El mismo criterio deberá seguirse con las cuotas no vencidas de un crédito pagadero en cuotas, como ocurre, por ejemplo, en el caso de los castigos de créditos de consumo efectuados por la causal prevista en el último párrafo del numeral 3.2.2 de este título.
 
 3.2. Plazos para efectuar los castigos de créditos vencidos.
 
@@ -11624,7 +11616,7 @@ Las cuentas de orden de la partida 9602 "Castigos de colocaciones en el ejercici
 
 b) Por el control de los créditos castigados que deben informarse a esta Superintendencia:
 
-Junto con la contabilización de los castigos a que se refiere la letra a) precedente, deberá registrarse también en cuentas de orden el importe de los créditos que deben seguir siendo informados a esta Superintendencia con posterioridad a su castigo contable. Para este efecto se utilizarán las siguientes cuentas de la partida 9600: "Créditos comerciales castigados", "Créditos de consumo castigados" o "Créditos hipotecarios para vivienda castigados". No obstante, si se trata de créditos castigados antes de su vencimiento que no correspondan a créditos de consumo, se utilizarán las cuentas "Créditos comerciales vigentes castigados" o "Créditos hipotecarios para vivienda vigentes castigados", de la misma partida.
+Junto con la contabilización de los castigos a que se refiere la letra a) precedente, deberá registrarse también en cuentas de orden el importe de los créditos que deben seguir siendo informados a esta Superintendencia con posterioridad a su castigo contable. Para este efecto se utilizarán las siguientes cuentas de la partida 9600: "Créditos comerciales castigados", "Créditos de consumo castigados" o "Créditos hipotecarios para vivienda castigados". No obstante, si se trata de créditos o cuotas castigados antes de su vencimiento, los respectivos importes se incluirán en las cuentas "Créditos comerciales vigentes castigados", "Créditos de consumo vigentes castigados" o "Créditos hipotecarios para vivienda vigentes castigados", de la misma partida.
 
 En estas cuentas se registrarán los créditos por el importe correspondiente al castigo del activo más los intereses y reajustes que estuvieren registrados en cuentas de orden según las instrucciones del Capítulo 7-1 de esta Recopilación. En el caso de los créditos registrados a su valor final, se considerará dicho valor final.
 
@@ -11730,7 +11722,7 @@ Para informar acerca de las provisiones constituidas y sobre los castigos y recu
 
 Los montos registrados en las cuentas de orden "Créditos comerciales castigados", "Créditos de consumo castigados" y "Créditos hipotecarios para vivienda castigados", de la partida 9600, como asimismo el registrado en la cuenta "Inversiones castigadas" de la misma partida, incluirán los créditos directos que deben computarse para la información de deudores que refunde esta Superintendencia de acuerdo con las instrucciones del Capítulo 18-5 de esta Recopilación y del Manual del Sistema de Información.
 
-En la cuenta "Créditos comerciales castigados" deben incluirse también los créditos directos provenientes de la cartera restituida por el Banco Central de Chile que se mantiene registrada en cuentas de orden de acuerdo con lo dispuesto en la Circular N° 2.478-853 de esta Superintendencia, cuando ellos cumplan las condiciones que obligarían a castigarlos si estuviesen registrados en el activo.
+En la cuenta "Créditos comerciales castigados" deben incluirse también los créditos directos provenientes de la cartera restituida por el Banco Central de Chile que se mantiene registrada en cuentas de orden de acuerdo con lo dispuesto en el título VII del Capítulo 8-19 de esta Recopilación, cuando ellos cumplan las condiciones que obligarían a castigarlos si estuviesen registrados en el activo.
 
 Por consiguiente, la diferencia entre el total de los créditos que deben informarse como castigados de acuerdo con el Manual del Sistema de Información y la suma de los saldos de las cuentas de orden antes mencionadas, corresponderá a los créditos indirectos y las obligaciones solidarias en que exista pluralidad de deudores, registrados en esas cuentas una sola vez.
 
@@ -11742,7 +11734,7 @@ Por otra parte, en el caso en que desaparezcan las causas que hubieren motivado 
 
 4.2. Créditos castigados contablemente que deben informarse como créditos vigentes.
 
-Conforme a lo indicado en la letra b) del numeral 3.1.2 del título I de este Capítulo, los créditos castigados cuyo vencimiento aún no se haya cumplido deben informarse como créditos vigentes. Este procedimiento no alcanza a las cuotas por vencer de créditos de consumo castigados conforme a lo dispuesto en el numeral 3.2.2 del mismo título. Por consiguiente, corresponde informar como créditos vigentes aquellos que se encuentren registrados en las cuentas "Créditos comerciales vigentes castigados" o "Créditos hipotecarios para vivienda vigentes castigados", de la partida 9600.
+Conforme a lo indicado en el numeral 3.1 del título I de este Capítulo, los créditos castigados contablemente cuyo vencimiento aún no se haya cumplido, deben informarse como créditos vigentes para los efectos de la información de deudores que refunde esta Superintendencia. Por consiguiente, corresponde informar como créditos vigentes aquellos que se encuentren registrados en las cuentas "Créditos comerciales vigentes castigados", "Créditos de consumo vigentes castigados" o "Créditos hipotecarios para vivienda vigentes castigados", de la partida 9600.
 
 El saldo de dichas cuentas deberá ajustarse, por lo menos al cierre de cada mes, por el importe de los reajustes e intereses devengados de los respectivos créditos y por los pagos que se hubieren efectuado, de manera que tales cuentas reflejen el valor actual de los correspondientes créditos. Si un crédito o una cuota de éste no es pagado dentro de los 90 días siguientes a su vencimiento, el crédito se informará como castigado, debiéndose revertir el importe correspondiente de las cuentas antes señaladas y efectuar su registro en las cuentas de que trata el numeral 4.1 precedente.
 
@@ -12595,6 +12587,16 @@ Las obligaciones de pago pactadas en los contratos de leasing no serán informad
 Lo anterior es sin perjuicio de las normas de esta Recopilación en que se alude al concepto de colocaciones, el cual incluye los contratos de leasing.
 
 Por otra parte, al margen de la información que esta Superintendencia pueda solicitar para otros efectos, las tasas implícitas en las cuotas de arrendamiento que se utilizan para propósitos financiero-contables no se incluirán en la información relativa a las tasas de interés para la determinación de la tasa de interés corriente y máxima convencional, puesto que no corresponden a las tasas pactadas en una operación de crédito de dinero a que se refiere la Ley N° 18.010 y el Capítulo 7-1 de esta Recopilación.
+
+6.- Gravámenes y prohibiciones.
+
+No se considerarán comprendidas dentro de la prohibición del N° 6 del artículo 84 de la Ley General de Bancos, las hipotecas o prendas sobre bienes arrendados en las operaciones de leasing, constituidas a favor de los respectivos arrendatarios.
+
+7.- Monedas y sistemas de reajustabilidad.
+
+Las operaciones de leasing reajustables deben pactarse con alguna de las modalidades de reajuste permitidas por el Banco Central de Chile.
+
+Los bancos pueden efectuar operaciones de leasing pactando el pago del arrendamiento en moneda extranjera.
 
 II.- CONTRATOS DE LEASING.
 
