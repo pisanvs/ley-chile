@@ -1,0 +1,1 @@
+Por resolución exenta Nº 2.639, de 28 de octubre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111757 presentada por Grieg Seafood Chile S.A., hoy CHILE SEAFOOD S.A., para instalar y operar un centro de cultivo ubicado en isla Benjamín, Puerto Róbalo, sector 4 norweste, XI Región.
