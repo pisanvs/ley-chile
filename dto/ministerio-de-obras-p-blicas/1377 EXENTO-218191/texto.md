@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.377 de fecha 31 de octubre de 2003, se expropió el lote de terreno Nº 4-A, superficie 152 m², rol Nº 1418-315, comuna de Rancagua, para la obra "Camino Ruta H-188, sector Cruceros - Chancón, Tramo 1, Km. 0,00000 al Km. 7,85900", VI Región y se acordó el valor de la indemnización con su propietario Sergio Desiderio Núñez Campos, ascendente a la cantidad de $1.543.032.
+
+- Fiscal del Ministerio de Obras Públicas.
