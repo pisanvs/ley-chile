@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 139 de fecha 25 de febrero del 2002, se expropió el lote de terreno Nº 14-G, superficie 7.090 m2, rol de avalúo Nº 217-54, comuna de Curepto, para la obra "Camino Ruta K-60 K-16, Sector Mejoramiento Gualleco Curepto-Puente Lautaro Tramo Km. 46,180 al Km. 83,91430; Comuna de Curepto, Provincia de Talca", VII Región y se acordó el valor de indemnización con su propietaria Josefina de las Rosas González Poblete, ascendente a la cantidad de $956.175.
+
+- Fiscal del Ministerio de Obras Públicas.
