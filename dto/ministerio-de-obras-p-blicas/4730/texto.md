@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.730, de 27 de octubre de 2000 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 2, para la obra Camino Ruta C-35, sector Paipote-Cerrillos, Kms 0.0 al 20.000, que figura a nombre de Luis Revello Valencia, rol de avalúo 21-1, superficie 4.951,36 m2., comuna de Tierra Amarilla. La Comisión de Peritos, con fecha 14 de agosto de 1997, fijó la indemnización provisional en la cantidad de $7.596.040, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
