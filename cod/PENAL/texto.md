@@ -524,9 +524,9 @@ En caso de concurso o quiebra, estos créditos se graduarán, considerándose co
 
 #### Artículo 49
 
-Si el sentenciado no tuviere bienes para satisfacer la multa, sufrirá por vía de sustitución y apremio, la pena de reclusión, regulándose un día por cada peso; pero sin que ella pueda exceder nunca de dos años.
+Si el sentenciado no tuviere bienes para satisfacer la multa, sufrirá por vía de substitución o apremio la pena de reclusión, regulándose un día por cada $ 20, sin que ella pueda nunca exceder de un año.
 
-Queda exento de este apremio el condenado a reclusión menor en su grado máximo o a otra pena más grave.
+Queda exento de este apremio el condenado a reclusion menor en su grado máximo o a otra pena mas grave.
 
 ### IV. De la aplicación de las penas
 
@@ -1168,9 +1168,21 @@ Si el encierro o la detención se prolongare por más de noventa días, o si de 
 
 #### Artículo 142
 
-La sustracción de un menor de diez años será castigada con presidio mayor en cualquiera de sus grados.
+La sustracción de un menor de 10 años será castigada:
 
-Si el sustraído fuere mayor de diez y menor de veinte años, la pena será presidio menor en cualquiera de sus grados.
+1) Con presidio mayor en su grado máximo a presidio perpetuo en los siguientes casos:
+
+a) Si se ejecutare para obtener un rescate o si durante la sustracción se cometieren actos deshonestos con el menor, y
+
+b) Si a consecuencia de ella resultaren lesiones de las indicadas en el artículo 397, número 1.o, o la muerte del menor.
+
+2) Con presidio perpetuo o muerte si concurrieren a lo menos dos de las circunstancias señaladas en las letras a) y b) del número anterior.
+
+3) Con presidio mayor en cualquiera de sus grados en los demás casos.
+
+Si el sustraído fuere mayor de 10 años y menor de 18 años, la pena será presidio menor en su grado máximo; pero si concurriere cualquiera de las circunstancias prescritas en las letras a) y b) del N.o 1), se aumentará en dos grados.
+
+Si antes de iniciarse procedimiento judicial el raptor devolviere voluntariamente al menor sustraído, libre de todo daño a sus padres, guardadores, encargados de su persona o a la autoridad, podrá imponérsele una pena inferior en dos grados a las señaladas en este artículo.
 
 #### Artículo 143
 
@@ -2442,7 +2454,7 @@ El que indujere a un menor de edad, pero mayor de diez años, a que abandone la 
 
 El rapto de una mujer de buena fama ejecutado contra su voluntad y con miras deshonestas, será penado con presidio menor en su grado máximo a mayor en su grado mínimo. Cuando no gozare de buena fama, la pena será presidio menor en cualquiera de sus grados.
 
-En todo caso se impondrá la pena de presidio mayor en sus grados mínimo a medio si la robada fuere menor de doce años.
+En todo caso se impondrá la pena de presidio mayor en cualquiera de sus grados si la raptada fuere menor de 12 años.
 
 #### Artículo 359
 
