@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.311, de 29 de octubre de 1999, se dejó sin efecto la expropiación del lote Nº 4-B y 4, que figuran a nombre de Myriam Erna Campos Bravo y Guillermo Hugo Leandro Gabriel Estrada Finsterbusch, roles de avalúo Nº 160-110 y 160-172, comuna de Pemuco, superficies 126 y 1.914 M2, para la obra Proyecto Laja Diguillín Area de Riego Pemuco, Canal San Miguel Pal Pal Bajo Ramal Nº 2-A y Canal San Miguel Pal Pal Bajo Ramal Nº 6, aprobada por el decreto MOP Nº 845 de fecha 25 de junio de 1998.-
+
+Fiscal del Ministerio de Obras Públicas.
