@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.671, de fecha 30 de noviembre de 2004, se expropió el lote de terreno Nº 15, superficie 35,00 m²., rol de avalúo Nº 231-30, comuna de Villa Alegre, para la obra "Camino Mejoramiento Ruta L-19, Sector Cruce Long. (Villa Alegre) - Esperanza, Tramo Km. 0,000.00 a Km. 10,623.89, Comuna de Villa Alegre y Yerbas Buenas, Provincia de Linares", VII Región y se acordó el valor de la indemnización con su propietaria Amelia Rosa Lara Muñoz, ascendente a la cantidad de $483.688.
+
+Fiscal del Ministerio de Obras Públicas.
