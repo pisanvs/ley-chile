@@ -1,0 +1,3 @@
+Por decreto MOP. No.1.440, de 31 de agosto de 1998, se expropió, el lote de terreno No.16, superficie 1.068 m², rol de avalúo 30-8, comuna de Lolol, para la obra Camino Lolol-Paredones Bucalemu, Sector Lolol Alto Nilahue, se acordó precio de la indemnización con su propietario Sucesión de don Mario Rodolfo Muñoz Poutays, ascendente a la cantidad de $ 1.243.382.-
+
+Fiscal del Ministerio de Obras Públicas.
