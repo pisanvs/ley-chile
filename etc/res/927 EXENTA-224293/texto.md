@@ -1,0 +1,3 @@
+Por resolución exenta Nº 927, de 6 de abril de 2004, de esta Subsecretaría, autorízase a COMERCIAL ISLA GRANDE LIMITADA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Nal Rural s/n, Ancud, X Región, en las líneas de elaboración Cocido, Fresco-Enfriado, Fresco-Refrigerado, Congelado y Deshidratado, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 6 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
