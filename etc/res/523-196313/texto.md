@@ -1,0 +1,3 @@
+Por resolución Nº 523, de 5 de marzo de 2002, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA BAHIA CHILOTA Y COMPAÑIA LIMITADA, para ampliar actividades pesqueras de transformación en la planta ubicada en Varadero s/n, Bahía Chilota, Porvenir, XII Región, donde podrá elaborar en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Seco Salado y Ahumado: Congrio colorado, Congrio dorado, Congrio negro, Merluza común, Merluza de cola, Merluza de tres aletas, Merluza del sur, Róbalo, Salmón del Atlántico, Salmón plateado, Trucha arcoiris.
+
+Valparaíso, 5 de marzo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
