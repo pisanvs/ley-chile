@@ -1,0 +1,3 @@
+Por Resolución N° 1.159 de 30 de Noviembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifícase el numeral 2° de la Resolución N° 248, de 1982, de esta Subsecretaría, por la cual se autorizó a PESQUERA PLAYA BLANCA LIMITADA, R.U.T. N° 88.875.700-7, domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras, autorizadas por Resolución N° 144, de 1982, en orden a actualizar las características náuticas de la nave "Zuiderster 3"
+
+Valparaíso, 30 de Noviembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
