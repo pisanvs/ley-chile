@@ -1,0 +1,3 @@
+Por Resolución Nº 217, de 31 de enero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 93106061, presentada por PESQUERA QUELLON LTDA., para un centro de cultivo ubicado en Isla Chaullín, Comuna de Quellón, Provincia de Chiloé, X Región, en virtud de lo dispuesto en los artículos 78º y 87º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 31 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
