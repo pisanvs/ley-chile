@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1.316 de 3 de Agosto de 1988, conforme art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas Nos. 5 a la 8, sitios N°s. 2, 4 y 5 del Proyecto de Parcelación "Estrella de Duqueco", de la comuna de Quilleco, VIII Región, formado por predio "El Rosario un retazo de terreno de veintidós cuadras más o menos de extensión y tres cuadras de terreno". Los Derechos de Agua se extraen del río Duqueco conducidas por canal El Rosario. Publicación hecha conforme art. 13 ley No. 18.377.-
+
+Director Ejecutivo.
