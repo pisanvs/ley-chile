@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.480 de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº63, superficie 1.070,0 m2., rol del avalúo 112-66, comuna de Corral, para la obra ''Camino Longitudinal Costero Sur, Sector El Morro-Chaihuin II (2ª parte) Km.15,755 a Km.27,017'' y se acordó el valor de indemnización con su propietario Malbina Aurora Fuentes Briones, ascendente a la cantidad de $2.602.625.
+
+- Fiscal del Ministerio de Obras Públicas.
