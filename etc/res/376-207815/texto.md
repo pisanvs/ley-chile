@@ -1,0 +1,3 @@
+Por resolución Nº 376, de 31 de enero de 2003, de esta Subsecretaría, autorízase a PESQUERA LOTA VEDDE S.A. SANTA MARIA Y COMPAÑIA comandita por acciones, para ampliar las actividades pesqueras extractivas con la nave "Santa María II", en el área marítima correspondiente a la X Región, por fuera del área de reserva artesanal, con cerco los recursos hidrobiológicos Anchoa blanca y Vinciguerria.
+
+Valparaíso, 31 de enero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
