@@ -1,0 +1,3 @@
+Por resolución número 1.852, de 18 de agosto de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.239, de 1996, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA BIO BIO LIMITADA, para operar la nave ''Lascar'', para operar sobre los recursos Anchoveta y Sardina española en el litoral de la III y IV Región, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
