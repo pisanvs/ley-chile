@@ -1,0 +1,3 @@
+Por decreto MOP. N° 1.134, de 28 de Noviembre de 1997, se expropiaron los lotes de terreno N°s 16, 17 y 27-A, Canal San José, 1, Canal San José Ramal N° 5 y 1, Canal San José Ramal N° 7, superficies 1.370,1.560,520,888 y 1.352 M2. roles de avalúo 591-66, 591-67, 590-46 y 591-3 comuna de Yungay, para la obra Proyecto Lajq Diguillín, Area de Riego Yungay, Canal San José Ramal N° 5 y Ramal N° 7 y se acordó precio de indemnización con sus propietarios Segundo Alfredo Muñoz Ocampo, Marina del Carmen Osses Osses y Omar del Carmen Velásquez Cifuentes, ascendente a las cantidades de $436.957, $451.647, $203.364, $301.650 y $877.820.-
+
+Fiscal del Ministerio de Obras Públicas.
