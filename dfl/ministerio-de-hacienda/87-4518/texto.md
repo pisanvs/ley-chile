@@ -1,0 +1,3 @@
+Fusiona el Instituto de Economía Agrícola y el Instituto de Comercio Exterior en una Empresa comercial autónoma, que se denominará Instituto Nacional de Comercio, que tendrá personalidad jurídica y patrimonio propio; modifica el artículo 1° del decreto con fuerza de ley 45, de 2 de abril de 1953
+
+> **Nota.** NOTA: 1 Ver DFL 274, 1960, Min. Hacienda, que creó la Empresa de Comercio Agrícola, sucesora legal del Instituto Nacional de Comercio, el cual quedó suprimido a contar del 6 de Abril de 1960.
