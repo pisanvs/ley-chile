@@ -1,0 +1,11 @@
+AUTORIZA A DON JOSE BALBINO SALAZAR SALAZAR PARA INICIAR ACITIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA
+
+Por Resolución No. 1.723 de 09 de Noviembre de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don José Balbino Salazar Salazar, R.U.T. No. 6.639.353-4 domiciliado en calle Mackay No. 252, Población Lo Rojas, Coronel, para iniciar las actividades pesqueras, en orden a operar la embarcación "Don Mauricio", en el litoral de las Regiones que a continuación se señala, donde podrá extraer los siguientes recursos hidrobiológicos: a) Entre la VI Región y el paralelo 43° LS., excluidas las correspondientes aguas interiores de la X Región: Bacalao de profundidad o mero, congrio colorado, congrio dorado, congrio negro, merluza común, pejegallo, raya, tollo, cojinoba del Sur, cojinoba del Norte, corvina, machuelo o tritre, merluza de cola y pejerrey de mar. b) En las Regiones VI y VII y en las Regiones IX y hasta el paralelo 43° LS, excluidas las correspondientes aguas interiores: Anchoa, caballa, jurel, sardina y sardina común. Con todo, podrá extraer con la nave a que se refiere la presente Resolución, el recurso albacora o pez espada, en el litoral de la I a la X Región.
+
+Deniégase la autorización solicitada por el peticionario para operar en el litoral comprendido entre las Regiones I a V y al Sur del paralelo 43° LS, incluidas las aguas interiores de la X Region, sin perjuicio de lo dispuesto en el inciso final del numeral 3° de esta Resolución, respecto del recurso albacora o pez espada.
+
+Además, se deniega la autorización para captura en el litoral de la VIII Región, los recursos Anchoa, caballa, jurel, sardina común y sardina, de conformidad con lo establecido en el Decreto No. 436, de 1985, prorrogado por el Decreto No. 363, de 1989, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 09 de Noviembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
