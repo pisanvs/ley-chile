@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD COMERCIAL TURISMO MACHICURA S.A. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 576, de 23 de Mayo de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Comercial Turismo Machicura S.A., R.U.T. No. 96.017.000-3, domiciliada en Santiago, para instalar y operar un establecimiento de cultivo de Trucha arco iris y Pejerrey argentino, en dos estanques, ubicados en una propiedad en el ex Campamento Inela, Km. 12,5 del canal devolución Machicura-Río Maule, Comuna de Colbún, Provincia Linares, VII Región, de acuerdo con el plano que acompaña a la solicitud signado por el Servicio Nacional de Pesca con el No. Ordinal 337 a y b. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo con las disposiciones legales y reglamentarías vigentes o que se establezcan.
+
+Valparaíso, 23 de Mayo de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
