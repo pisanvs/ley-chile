@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.045 de fecha 29 de septiembre de 2003, se expropió el lote de terreno Nº9, superficie 522,0 m2., Rol Nº160-104, comuna de Petorca, V Región, para la obra: "Camino Ruta E-37-D. Sector: Palquico - Las Palmas. Km. 14,04861 a Km. 26,13776" y se acordó el valor de indemnización con su propietario Ana Rosa Toro Molina, ascendente a la cantidad de $1.033.647.
+
+Fiscal del Ministerio de Obras Públicas.
