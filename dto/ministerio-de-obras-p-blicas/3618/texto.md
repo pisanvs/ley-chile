@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.618 de fecha 30 de noviembre de 1999, se expropiaron los lotes de terreno Nºs. 115-B, 115-C, 117 y 118, superficie 292,0, 1.218,5, 3.653,9 y 4.953,1 m². respectivamente, rol de avalúo 364-9, comuna de Loncoche, para la obra ''Concesión Internacional Ruta 5 Tramo Temuco-Río Bueno, Km. 726.006,67 a Km. 746.803,70'' y se acordó el valor de indemnización con su propietario Emilio Marín San Martín, ascendente a la cantidad de $5.445.185.-
+
+Fiscal del Ministerio de Obras Públicas.
