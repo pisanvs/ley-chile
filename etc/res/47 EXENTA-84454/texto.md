@@ -1,0 +1,3 @@
+Por resolución Exenta No. 47 de 12 de Enero de 1990, se adjudica a "Alberto Barroso Aránguiz", la concesión para operar, por un plazo de cinco años a contar del 15 de Febrero de 1990, un establecimiento ubicado en calle Inés Rivas No. 0298, La Cisterna, destinado a la Revisión Técnica y Verificación de Emisión de Contaminantes de Automóviles, Station Wagons, Motocicletas, Vehículos de Carga de menos de 1.750 Kg. de capacidad de carga útil y sus Remolques de la Región Metropolitana, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Carlos Silva Echiburú, Ministro de Transportes y Telecomunicaciones.
