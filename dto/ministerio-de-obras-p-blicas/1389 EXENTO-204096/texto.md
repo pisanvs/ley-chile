@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.389 de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº103, superficie 568m2, rol Nº151-45, comuna de Empedrado, VII Región, para la obra ''Camino Ruta M-40 Santa Olga - Empedrado, Sector: Los Pellines Empedrado, Tramo: Km. 10,860 a Km. 18,700'' y se acordó el valor de indemnización con su propietario Florindo del Carmen Chamorro Rojas, ascendente a la cantidad de $609.019.-
+
+Fiscal del Ministerio de Obras Públicas.
