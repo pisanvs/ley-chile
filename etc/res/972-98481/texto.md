@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA TRINIDAD LIMITADA, HOY PESQUERA TRINIDAD S.A., PARA SUSTITUIR EMBARCACIONES Y DEJA SIN EFECTO RESOLUCIONES QUE INDICA
+
+Por resolución Nº 972 de 21 de Agosto de 1987 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Trinidad Limitada, hoy Pesquera Trinidad S.A., para sustituir las embarcaciones Juan 8 y Juan 9 por las naves San José y María Isabel. Podrán operar en el litoral comprendido entre la II y X Región y I y X Región, respectivamente, en la extracción de los siguientes recursos: sardina común, sardina española, jurel, agujilla y caballa. Derógase a partir de la fecha de inicio de operaciones las Resoluciones de esta Subsecretaría de Pesca Nº 139, de 1984 y Nº 19, de 1986. Asimismo, déjase sin efecto en la resolución Nº 165, de 1987, la autorización otorgada a la peticionaria para realizar pesca de cerco con las embarcaciones que se sustituyen por esta resolución.
+
+Valparaíso, 21 de Agosto de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
