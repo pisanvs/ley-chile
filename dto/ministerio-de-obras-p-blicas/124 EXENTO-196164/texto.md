@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 124, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 107, superficie 335 m², rol de avalúo 206-111, comuna de Coelemu, VIII Región, para la obra "Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,0000 al 8,28000" y se acordó el valor de indemnización con su propietario Fidel Efraín Martel Ruiz, ascendente a la cantidad de $618.075.
+
+- Fiscal del Ministerio de Obras Públicas.
