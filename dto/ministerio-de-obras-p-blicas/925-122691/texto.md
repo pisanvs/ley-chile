@@ -1,0 +1,3 @@
+Por decreto MOP. No. 925, de 17 de julio de 1998, se expropiaron los lotes de terreno No. s. 8-A, 8-B, 15-A y 18, superficies 415, 283, 199 y 172 m2., respectivamente, roles de avalúos 500-43, 500-4, 56-1 y 56-16, comuna de Curicó, obra Camino Ruta 5 Sur, sector Acceso Norte a Curicó y se acordó precio de indemnización con sus propietarios Gabriel Middleton Jiménez, Gumercindo Espinoza Castillo y Ernesto Rubilar Bustamante, ascendente a las cantidades de $ 46.682.769, lotes 8-A y 8-B; $ 16.493.835, lote 15-A y $ 25.978.533, lote 18.
+
+- Fiscal del Ministerio de Obras Públicas.
