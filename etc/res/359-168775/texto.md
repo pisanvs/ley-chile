@@ -1,0 +1,3 @@
+Por resolución No. 359, de 27 de Marzo de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por un año a contar del 6 diciembre 1990, el plazo otorgado a STELLA MARIS S.A., RUT No. 96.536.800-0, domiciliada en Santiago, para empezar a operar el establecimiento de cultivo autorizado por Resolución No. 618, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 27 de Marzo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
