@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.163 de fecha 28 de Diciembre del 2001, se expropiaron los lotes de terreno Nº 93, 94, 95, 96, 97, 98 y 99, superficies 29.170, 12.069, 198.987, 583, 177, 3.037 y 10.309 m2, respectivamente, rol de Avaluo Nº 549-40, comuna de Pelluhue, para la obra "Camino Chovellen - Cobquecura, Sector Chovellen - Limite Regional, Tramo Km. 18,260.00 a Km. 35,158.60", VII Región y se acordó el valor de la indemnización con su propietario Sociedad Forestal Millalemu S.A., ascendente a la cantidad de $520.392.494.-
+
+Fiscal del Ministerio de Obras Públicas.
