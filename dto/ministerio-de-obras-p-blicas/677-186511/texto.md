@@ -1,0 +1,3 @@
+Por decreto MOP Nº 677, de 30 de abril de 2001, se expropió el lote de terreno Nº 21-2, superficie 2.054 m², rol de avalúo 152-650, comuna de Llay-Llay, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Fernando Alejandro Bouteille Santana, ascendente a la cantidad de $6.833.426.-
+
+Fiscal del Ministerio de Obras Públicas.
