@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 788, de 29 de agosto de 1997, se dejó sin efecto la expropiación de los lotes Nºs. 3 y 4, aprobada por Decreto MOP. Nº 215, de 29 de marzo de 1996, necesarios para la ejecución de la obra Mejoramiento del Servicio de Alcantarillado y Tratamiento de Aguas Servidas de Cañete, que afectaba a la propiedad rol de avalúo 204-02, comuna de Cañete, VIII Región, que figura a nombre de Miguel Gajardo Arriagada.
+
+Fiscal del Ministerio de Obras Públicas.
