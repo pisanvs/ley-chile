@@ -1,0 +1,3 @@
+Por resolución No. 634, de 06 de Junio de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por 30 días a contar de esta fecha, el plazo otorgado en el numeral 4° de la resolución No. 1166, de 1990; de esta Subsecretaría, a don Héctor Alejandro Castillo Terán, R.U.T. No. 9.742.499-3, domiciliado en Población Las Rocas de Llolleo Block No. 3, Depto. 34, San Antonio, en virtud de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 06 de Junio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
