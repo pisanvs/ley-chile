@@ -1,0 +1,3 @@
+Por decreto MOP Nº4539, de fecha 29 de Septiembre de 2000, se expropió el lote de terreno Nol, superficie 1.538,3 M2, rol de avalúo 136-8, comuna de Vichuquén, para la obra ''Camino Vichuquén La Quirigua, Rol J-820, Sector Puente Las Juntas, Km. 0,000 a Km. 0.840,00'' y se acordó el valor de indemnización con su propietario Gilberto Santelices Arellano, ascendente a la cantidad de $1.131.775.-
+
+Fiscal del Ministerio de Obras Públicas.
