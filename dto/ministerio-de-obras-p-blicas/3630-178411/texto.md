@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.630 de 21 de agosto de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº566, para la obra "Concesión Internacional Ruta 5 Tramo: Santiago - Talca. Sector C: Acceso Sur a Santiago Km.
+
+17.700,00 al Km. 46.600,00", Región Metropolitana, que figura a nombre de Mackenna Jordán Luis, rol de avalúo 319-392, comuna de Buin, superficie 39.611 m2. La comisión de peritos integrada por los señores Héctor Diego Altamirano Cornejo, Norman Estanislao Calderón Pontiggia y María Cecilia Peña Martínez, fijó con fecha 11 de mayo de 2000, el valor provisional de la indemnización en la cantidad de $183.475.438.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
