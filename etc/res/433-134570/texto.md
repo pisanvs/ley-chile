@@ -1,0 +1,3 @@
+Por resolución Nº 433 de 25 de marzo de 1999 de esta Subsecretaría, modifícase el numeral 2º de la resolución Nº 302, de 1999, de la Subsecretaría de Pesca, que autorizó a COMPAÑIA PESQUERA CAMANCHACA S.A., para desarrollar actividades pesqueras extractivas con la nave ''Oficina Germania'', en el sentido de eliminar de su inciso segundo la frase ''como fauna acompañante del jurel'', en virtud que los recursos allí mencionados constituyen especies objetivo.
+
+Valparaíso, 25 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
