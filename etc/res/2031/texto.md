@@ -1,0 +1,3 @@
+Por Resolución N° 2.031, de 4 de diciembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 859, de 1996, de esta Subsecretaría, que denegó la solicitud de concesión de acuicultura presentada por JORGE HORST HELMKE WIJNANT, para el centro de cultivo ubicado en Isla Abtao, Punta Arenal, comuna de Calbuco, provincia de Llanquihue, X Región, en razón de haberse dictado con error de hecho.
+
+Valparaíso, 4 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
