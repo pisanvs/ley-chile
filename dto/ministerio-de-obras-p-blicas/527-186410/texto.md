@@ -1,0 +1,3 @@
+Por decreto MOP Nº 527, de fecha 30 de marzo de 2001, se expropiaron los lotes de terreno Nºs. 1, 8, 11, 13 y 25, superficie 1.738,00, 5.575,00, 2.420,00, 44,00, 1.178,00 m², respectivamente, rol de avalúo 2087-95, 2023-03, 2023-74, 2023-72, comuna de Melipilla, para la obra "Camino Reposición Ruta G-74-F, Sector: Melipilla - Bollenar, Tramo: Km. 0,00000 a Km. 14,23039" y se acordó el valor de indemnización con sus propietarios Rafael Prieto Moreno, Sara Barros Amunátegui De Lamarca, Carmen Ovalle Barros, José Cruz Covarrubias, ascendente a la cantidad de $62.055.418.-
+
+Fiscal del Ministerio de Obras Públicas.
