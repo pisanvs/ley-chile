@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No 945 de 24 de Julio de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden al sector excluido y sector expropiado predio "Caiseo o Recreo" de la comuna de Rinconada, V Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 9 del proyecto de parcelación "El Recreo", formado por predio señalado. Los derechos de agua se extraen del canal Rinconada, canal San Rafael, canal La Mina, y canal El Recreo y Derrames del Fundo El Castillo.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+- Director Ejecutivo.
