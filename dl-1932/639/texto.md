@@ -1,0 +1,45 @@
+REEMPLAZA EL ARTICULO 6.o DEL DECRETO-LEY N.o 476, DE 23 DE AGOSTO DEL PRESENTE AÑO, QUE CONVOCA A ELECCIONES DE UN CONGRESO CONSTITUYENTE.
+
+Núm. 639.- Santiago, 21 de Septiembre de 1932.
+
+Considerando:
+
+Que es un anhelo del actual Gobierno, que las elecciones de Presidente de la República se verifiquen conjuntamente con las de Congreso Constituyente, convocada por decreto-ley número 476, de 23 de Agosto ppdo.; y
+
+Que es una resolución inquebrantable del Gobierno, procurar el restablecimiento completo de los poderes públicos emanados del libre ejercicio de la voluntad popular, dentro de los más breves plazos, he acordado y dicto el siguiente
+
+Decreto-Ley
+
+#### Artículo 1
+
+o Reemplázase el artículo 6.o del decreto-ley número 476, de 23 de Agosto del presente año, por el siguiente:
+
+#### Artículo 6
+
+o Las elecciones de Presidente " de la República se verificarán conjuntamente con las de " Congreso Constituyente, pero en cédula separada".
+
+#### Artículo 2
+
+o Agrégase como artículos del citado decreto-ley número 476, los siguientes:
+
+#### Artículo 7
+
+o Sin perjuicio de lo dispuesto en los artículos 1.o, 2.o y 3.o, del presente decreto-ley, el Congreso Constituyente podrá dividirse en dos ramas: Senado y Cámara de Diputados, para el ejercicio de las funciones legislativas que le son propias".
+
+#### Artículo 8
+
+o La proclamación del nuevo Presidente de la República o su elección, en caso de que ningún ciudadano obtenga en las urnas la mayoría necesaria, será hecha, en todo caso, antes del 1.o de Enero de 1933, por los Senadores y Diputados elegidos al Congreso Constituyente. Para este efecto, el Tribunal Calificador de Elecciones dará poderes provisionales a los candidatos que estime con mejor derecho, en vista de los antecedentes que alcance a conocer, dentro de los 45 días siguientes a la fecha de la elección".
+
+#### Artículo 9
+
+o Los poderes atorgados a los Senadores y Diputados en conformidad al artículo anterior, servirán, además, para el ejercicio de sus funciones legislativas, mientras se realiza la calificación definitiva de su elección".
+
+#### Artículo 10
+
+Las funciones legislativas del "Congreso Constituyente y las del Presidente de la República, serán regidas por las disposiciones de la Constitución Política de 1925, mientras entra en vigor la Constitución que apruebe el Congreso Constituyente".
+
+#### Artículo 3
+
+o El presente decreto-ley empezará a regir desde la fecha de su publicación en el Diario Oficial.
+
+Tómese razón, regístrese, comuníquese, publíquese e insértese en el Boletín de las Leyes y Decretos del Gobierno.- BARTOLOME BLANCHE.- Ernesto Barros.- F. Mardones.- Juan Antonio Ríos M.- Gustavo Lira.- L. Otero M.- Fidel Estay Cortés.- Luis D. Cruz Ocampo.- Luis Barriga Errázuriz.- J. M. Montalba B.- Arturo Riveros M.- V. Morales.
