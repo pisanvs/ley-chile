@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA AGUAS MARINAS LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 729 de 30 de Septiembre de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Aguas Marinas Limitada, domiciliaria en Santiago, para elaborar recursos hidrobiológicos en las líneas de congelado, ahumado y seco - salado en el Frigorífico Pto. Bories, Km. 5 1/2 Norte, Comuna de Puerto Natales, Provincia Ultima Esperanza, XII Región, en el que podrá utilizar como materia prima los recursos congrio dorado, raya, rollo, salmón Coho, salmón Chinook, almeja, calamar, pulpo, caracol trumulto, cholga, chorito, lapa, loco, ostión del sur, centolla, jaiba, picoroco, piure y erizo, que adquirirá de terceros. Los salmones deberán provenir de centros de cultivo autorizados.
+
+Valparaíso, 30 de Septiembre de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
