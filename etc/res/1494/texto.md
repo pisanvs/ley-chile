@@ -1,0 +1,5 @@
+Por Resolución N° 1.494, de 20 de Octubre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la letra a) de la Resolución N° 303, de 1992, de esta Subsecretaría, que declaró la caducidad de la Resolución N° 943, de 1988, de esta Subsecretaría, que autorizó a PESQUERA ANTARES S.A., para operar dos centros de cultivo ubicados en dos Sectores en Farellones de Marimeli, Estero Reloncaví, Comuna de Cochamó, Provincia de Llanquihue, X Región, por haberse acogido la solicitud de reconsideración presentada ante el Ministerio de Economía, Fomento y Reconstrucción.
+
+Declárase, en consecuencia, plenamente vigente la Resolución N° 943, de 1988, de esta Subsecretaría.
+
+Valparaíso, 20 de octubre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
