@@ -1,0 +1,3 @@
+Por resolución Nº916, de 18 de mayo de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº1.458, de 1996, de esta Subsecretaría, sólo en cuanto autorizó a INDUSTRIA PESQUERA OCEANICA DOS LIMITADA, para operar la nave ''Oceánica 3'' sobre los recursos hidrobiológicos Anchoveta y Sardina española, en el litoral de las III y IV Regiones, de conformidad con lo establecido en la letra b) del artículo 143 del D.S. Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 18 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
