@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.135, de 30 de abril de 1999, se expropió el lote de terreno Nº 12, superficie 1.831 m2., rol de avalúo 167-217, comuna de Maule, para la obra ''Ruta 5 Tramo Talca - Chillán, Calle de Servicio sector Talca Sur- Unihue y Pirque - Unihue'', Séptima Región y se acordó el valor de indemnización con su propietaria María Gabriela Paredes Cáceres, ascendente a la cantidad de $10.690.180.
+
+Fiscal del Ministerio de Obras Públicas.
