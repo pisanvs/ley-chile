@@ -1,0 +1,3 @@
+Por resolución N° 1.000, de 30 de Noviembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 770, de 1990, de esta Subsecretaría, que autorizó a AQUACHILE S.A., R.U.T. N° 79.800.600-2, para operar un establecimiento de cultivo, ubicado en el sector denominado Punta Yelcho, Caleta Bluff, Fiordo Aysén, Comuna y Provincia de Aysén, XI Región, en virtud de lo prescrito en el artículo 7° del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 30 de Noviembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
