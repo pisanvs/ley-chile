@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 121, DE 2002
+
+Por resolución Nº 121, de 27.06.02, de esta Secretaría Regional, se aprueba para la concesionaria "Revisiones Técnicas S.A. Revitec S.A." para la Planta de Quilpué, las siguientes tarifas de los servicios de revisión técnica incluida la verificación de emisión de contaminantes (Valor UTM): de taxis, minibuses, autos escuelas y vehículos de transporte escolar (TA1) 0,367; de buses y camiones (TA2) 0,542; de automóviles particulares, camionetas, station wagons y otros (TB1) 0,394, las que regirán después de 15 días a contar de la presente publicación.-
+
+Maritza Robledo Fernández, Secretario Regional Ministerial de Transportes y Telecomunicaciones Subrogante V Región.- Emilio Oñate Vera, Secretario Regional Ministerial de Transportes y Telecomunicaciones V Región.
