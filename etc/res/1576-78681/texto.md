@@ -1,0 +1,3 @@
+Por Resolución Nº 1.576, de 18 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución Nº 664, de 1994, de esta Subsecretaría, que autorizó a PESQUERA HORIZONTE LTDA., para desarrollar actividades pesqueras extractivas con la nave "Coray I", por no haber realizado operaciones de pesca por dos años consecutivos, a partir del mes de julio de 1994, incurriendo en la causal de caducidad prevista en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones, citada en Visto.
+
+Valparaíso, 18 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
