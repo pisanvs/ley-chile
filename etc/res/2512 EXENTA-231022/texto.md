@@ -1,0 +1,9 @@
+Por resolución exenta Nº2.512, de 3 de septiembre de 2004, de esta Subsecretaría, modifícase el numeral 5º ter de la resolución Nº340 de 2004, modificada mediante resoluciones Nº1.113, Nº1.299, Nº1.492 y Nº2.026, todas de 2004, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la captura de Anchoveta (Engraulis ringens) dentro de la primera milla, por fuera de las bahías protegidas por el D.S. Nº408 de 1986, en el litoral de la III Región", en el sentido de incrementar en 2.210,486 toneladas la cuota total del recurso Anchoveta autorizada a ser extraída por las naves participantes de la pesca de investigación durante el período y en el área marítima que la misma resolución indica. Las capturas del recurso Anchoveta se imputarán a los límites máximos de captura autorizados a ser extraídos por el grupo de armadores cuya asociatividad se estableció mediante resolución Nº122 de 2004, de esta Subsecretaría.
+
+Una vez agotada la cuota antes señalada, las embarcaciones artesanales participantes en la presente pesca de investigación podrán capturar un máximo de 1.789,514 toneladas de Anchoveta, las que se imputarán al límite máximo de captura autorizado a ser extraído por el armador Compañía Pesquera Camanchaca S.A.
+
+La totalidad de las capturas efectuadas en el marco de la presente pesca de investigación deberán se certificadas por una Entidad Auditora acreditada ante el Servicio Nacional de Pesca, de conformidad con lo dispuesto en el artículo 10 de la ley Nº19.713.
+
+Las capturas efectuadas en virtud de la presente pesca de investigación deberán ser desembarcadas en los lugares que determine la Universidad Católica del Norte, previa información al Servicio Nacional de Pesca.
+
+Valparaíso, 3 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
