@@ -1,0 +1,1 @@
+Reemplaza el artículo 5°, las letras E) y F) del 3°, el inciso 1° del 8° y el 1° del artículo 10° y modifica el artículo 18° del decreto con fuerza de ley 37, de 1959, que aprueba la Ley Orgánica del Consejo de Censura Cinematográfica.
