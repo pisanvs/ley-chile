@@ -1,0 +1,3 @@
+Por Resolución Nº 602 de 22 de abril de 1997 de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto el certificado para la transferencia de nave pesquera Nº 341, de 27 de diciembre de 1996, de esta Subsecretaría, otorgado en favor de don NELSON ARENAS REQUENA, por haberse consignado datos inexactos en el otorgamiento de éste.
+
+Valparaíso, 22 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
