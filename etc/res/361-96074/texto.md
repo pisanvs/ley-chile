@@ -1,0 +1,3 @@
+Por Resolución No. 361, de 21 de Abril de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución No. 1.578, de 1989, de esta Subsecretaría, que autorizó a don FELIPE EDUARDO ALMENDRAS MALDONADO, R.U.T. No. 10.561.733-K, domiciliado en calle Los Temos No. 101, Valdivia, para operar un establecimiento de cultivo en la Ribera Sur de Ensenada San Juan, Comuna de Corral, Provincia de Valdivia, X Región, por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 21 de Abril de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
