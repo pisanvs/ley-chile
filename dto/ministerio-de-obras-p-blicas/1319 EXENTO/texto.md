@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.319 de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº14-A, superficie 93,00 m2, rol de avalúo Nº604-30, comuna de Molina, para la obra ''Camino Ruta K-175 Molina Siete Tazas, Sector Molina-Bif Ruta K-179, tramo Km. 0,000.00 a Km. 8,400,00'', VII Región y se acordó el valor de la indemnización con su propietario Alejandro Antonio Vilches Quezada y Otro, ascendente a la cantidad de $539.280.-
+
+Fiscal del Ministerio de Obras Públicas.
