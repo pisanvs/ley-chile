@@ -1,0 +1,5 @@
+CONFIERE CALIDAD DE AGENTE RETENEDOR DEL IVA A SOCIEDAD COMERCIAL ROGAR LTDA.
+
+Núm 3.- Certifico que Sociedad Comercial Rogar Ltda., RUT Nº 78.556.910-5, domiciliada en 9 1/2 Oriente Nº 1550, comuna de Talca, cuyo representante legal es Romero Navarro Hugo Custodio, RUT Nº 6.779.348-K, cumple todos los requisitos y exigencias establecidas en resolución Nº Ex. 7 de 28.01.2003, de la Dirección Nacional del Servicio de Impuestos Internos, y que en consecuencia tiene la calidad de agente retenedor del Impuesto al Valor Agregado, en las adquisiciones de chatarra que efectúe durante el período comprendido entre el día 1º del mes siguiente al de la publicación en el Diario Oficial, de este certificado, lo que regirá en forma indefinida.
+
+Talca, 17 de abril de 2003.- Luis Encina Barros, Director Regional (S).
