@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 714, de 30 de noviembre de 1995, se expropió lote de terrero Nº 20, superficie 127 m2., rol de avalúo 593-43, comuna de Cerrillos, para la obra Camino Autopista Santiago - San Antonio, Sector Empalme I. Riquelme - Bif. Malloco y se acordó el valor de indemnización con sus propietarios Héctor Trincado Barra y otros, ascendente a la cantidad de $ 16.530.000.
+
+Fiscal del Ministerio de Obras Públicas.
