@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.444, de 31 de agosto de 1999, se expropió el lote de terreno Nº75-2C, superficie 343,0 m2., rol de avalúo 212-37, comuna de Perquenco, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco'', Novena Región y se acordó el valor de indemnización con su propietario Armando Marín Ancatén, ascendente a la cantidad de $677.885.-
+
+Fiscal del Ministerio de Obras Públicas.
