@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.615 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 1, superficie 198 m², rol de avalúo 117-2, comuna de Paine, para la obra ''Concesión Internacional Ruta 5 Tramo Santiago - Talca, Sector B: Km. 42.950,00 a km. 55.200,00'' y se acordó el valor de indemnización con su propietario Benjamín Marcos Guzmán Díaz, ascendente a la cantidad de $2.617.557.-
+
+Fiscal del Ministerio de Obras Públicas.
