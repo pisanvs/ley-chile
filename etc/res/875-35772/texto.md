@@ -1,0 +1,3 @@
+Por Resolución N° 875, de 21 de Septiembre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2° de la Resolución N° 1.431, de 1992, de esta Subsecretaría, por la cual se autorizó a PESQUERA QUINTERO UNO S.A., R.U.T. N° 96.596.570-k, para operar una nave en construcción denominada "Adriático", en el sentido de señalar sus actuales características náuticas.
+
+Valparaíso, 21 de Septiembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
