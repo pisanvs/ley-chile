@@ -1,0 +1,3 @@
+Por Resolución N° 342, de 19 de Febrero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES ALGUEROS ALGAS MARINAS, para un centro de cultivo ubicado en Parcela 9, Lote O, ribera norte del río Maullín, Provincia de Llanquihue, X Región, conforme lo dispuesto en el artículo 78°, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 19 de Febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
