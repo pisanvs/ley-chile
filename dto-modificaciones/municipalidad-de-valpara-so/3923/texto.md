@@ -1,0 +1,5 @@
+MODIFICA DECRETO ALCALDICIO N° 5499, DE 1991 Núm. 3.923.- Valparaíso, 26 de Julio de 1993.- Vistos: El acuerdo N°157 del Concejo Municipal de Valparaíso, de fecha 14 de Julio de 1993; el Decreto Alcaldicio N° 5.499 de fecha 16 de Septiembre 1991; la ley 18.695; la Resolución 55 de 1992 de la Contraloría General de la República; el Decreto Alcaldicio N° 5710 de 1992; y en mi calidad de Alcalde de Valparaíso, Decreto:
+
+Modifícase el Decreto Alcaldicio N° 5.499 de fecha 16 de Septiembre de 1991, en el sentido que las obras a que se refiere el Artículo Transitorio de la Ordenanza Local de Ornato, estarán exentas de pago de todos los derechos durante 90 días a contar de esta fecha.
+
+Regístrese, anótese y comuníquese.- Hernán Pinto Miranda, Alcalde de Valparaíso.- Lucy Kittel Meyer, Secretaria Municipal.
