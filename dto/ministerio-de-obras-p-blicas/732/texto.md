@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 732, de 31 de julio de 1997, se expropiaron los lotes de terreno Nºs. 8 y 30, superficies 122 y 1.798 M2., roles de avalúos 802-9 y 814-62, comuna de Traiguén, obra Camino Pavimentación Asfáltica, sector Camino Traiguén-Galvarino y se acordó precio de indemnización con sus propietarios José Poblete Estuardo y Carlos Cortés Sánchez, ascendente a las cantidades de $230.151 y $1.884.865.
+
+Fiscal del Ministerio de Obras Públicas.
