@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.534, de 31 de agosto de 1999, se expropió el lote de terreno Nº 69, superficie 399,0 m2., sin rol de avalúo, comuna de Freire, para la obra ''Concesión Internacional Ruta 5. Tramo: Collipulli - Temuco'', Novena Región y se acordó el valor de indemnización con su propietaria Elsa Guillermina Sánchez Valencia, ascendente a la cantidad de $17.095.875.
+
+-. Fiscal del Ministerio de Obras Públicas.
