@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.102, de 30 de octubre de 1998, se modificó el decreto MOP Nº414, de 31 de julio de 1995, que autorizó la expropiación de los lotes Nºs.11 y 14, para la ejecución de la obra Camino Ruta 5, Longitudinal Sur, sector San Javier-Parral I, Tramo A, aprobándose nuevos Convenios Directos de Precio con los propietarios afectados señores Juan Segundo Rojas Rojas y Marcos o Marco Aurelio Rojas Ruiz, fijándose las indemnizaciones definitivas en las cantidades de $12.241.685 y $49.133.948, para los lotes 11 y 14.-
+
+Fiscal del Ministerio de Obras Públicas.
