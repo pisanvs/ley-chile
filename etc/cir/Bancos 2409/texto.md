@@ -7534,9 +7534,7 @@ semejanza que ofrecen ambos sistemas para el deudor.
 
 ### 10. Gastos de cargo del deudor hipotecario
 
-Sólo podrán ser de cargo del deudor hipotecario los pagos efectuados por los
-
-siguientes conceptos:
+Sólo podrán ser de cargo del deudor hipotecario los pagos efectuados por los siguientes conceptos:
 
 a) Impuestos de timbres y estampillas.
 
@@ -7548,13 +7546,9 @@ d) Prima de seguro de incendio.
 
 e) Prima de seguro de desgravamen.
 
-En caso de que el deudor no efectúe el pago oportuno de las primas para
+f) Prima de seguro por cesantía involuntaria, en caso que el deudor de crédito para vivienda decida contratar este seguro.
 
-renovarlos seguros de incendio y de desgravamen, podrá el acreedor realizar
-
-dichos pagos por cuenta de éste. Esta facultad se extiende al pago de las
-
-contribuciones territoriales, en caso de que éstas presenten atrasos.
+En caso de que el deudor no efectúe el pago oportuno de las primas para renovarlos seguros de incendio, de desgravamen y de cesantía involuntaria, podrá el acreedor realizar dichos pagos por cuenta de éste. Esta facultad se extiende al pago de las contribuciones territoriales, en caso de que éstas presenten atrasos.
 
 ### 11. Préstamos a personas relacionadas a la propiedad o gestión del acreedor
 
@@ -12908,91 +12902,35 @@ d) Prima de Seguro de Incendio;
 
 e) Tasación del inmueble hipotecado;
 
-f) Prima de Seguro de Desgravamen; y,
+f) Prima de Seguro de Desgravamen;
 
-g) Estudio de Títulos y redacción de escritura.
+g) Prima de seguro de cesantía involuntaria, en caso que el deudor de crédito para vivienda decida contratar este seguro; y,
 
-Asimismo, se deberá informar al deudor sobre el plazo de la operación, la tasa
+h) Estudio de Títulos y redacción de escritura.
 
-de interés que devengará el crédito y la comisión que cobrará la entidad
+Asimismo, se deberá informar al deudor sobre el plazo de la operación, la tasa de interés que devengará el crédito y la comisión que cobrará la entidad financiera, cuya tasa no podrá ser variable.
 
-financiera, cuya tasa no podrá ser variable.
+Igualmente, deberá explicarse de manera general el sistema de financiamiento a través de la emisión de letras de crédito, con especial mención del procedimiento de liquidación de estos instrumentos en el mercado de valores y de las fluctuaciones de precio o tasa de descuento a que están sujetos. Se hará presente al deudor que estas fluctuaciones en el valor de compra de las
 
-Igualmente, deberá explicarse de manera general el sistema de financiamiento a
+letras,afectan el importe líquido en pesos que se recibirá del préstamo. Cuando se trate de préstamos en letras de crédito con tasa de interés flotante, se hará notar particularmente la variabilidad de los dividendos.
 
-través de la emisión de letras de crédito, con especial mención del
+Sin perjuicio de lo indicado precedentemente, las instituciones financieras deberán mantener a disposición de los interesados, folletos u hojas informativas que, junto con explicar las principales características de estos créditos y los requisitos y antecedentes necesarios que deben presentarse para tener acceso a ellos, informen los plazos, tasas de interés y comisión de los préstamos en letras de crédito y cada uno de los gastos señalados precedentemente.
 
-procedimiento de liquidación de estos instrumentos en el mercado de valores y de
-
-las fluctuaciones de precio o tasa de descuento a que están sujetos. Se hará
-
-presente al deudor que estas fluctuaciones en el valor de compra de las
-
-letras,afectan el importe líquido en pesos que se recibirá del préstamo. Cuando
-
-se trate de préstamos en letras de crédito con tasa de interés flotante, se hará
-
-notar particularmente la variabilidad de los dividendos.
-
-Sin perjuicio de lo indicado precedentemente, las instituciones financieras
-
-deberán mantener a disposición de los interesados, folletos u hojas informativas
-
-que, junto con explicar las principales características de estos créditos y los
-
-requisitos y antecedentes necesarios que deben presentarse para tener acceso a
-
-ellos, informen los plazos, tasas de interés y comisión de los préstamos en
-
-letras de crédito y cada uno de los gastos señalados precedentemente.
-
-Se recomienda a las instituciones financieras que, en su propio resguardo,
-
-obtengan del interesado su confirmación escrita de haber recibido la información
-
-antes indicada y de haber tomado debido conocimiento de ella.
+Se recomienda a las instituciones financieras que, en su propio resguardo, obtengan del interesado su confirmación escrita de haber recibido la información antes indicada y de haber tomado debido conocimiento de ella.
 
 10.2.- Información que debe incluir la liquidación.
 
-Las instituciones financieras deberán entregar al beneficiario de préstamos en
+Las instituciones financieras deberán entregar al beneficiario de préstamos en letras de crédito, ya sea que se hubieren otorgado para la adquisición,construcción o ampliación de viviendas o para fines generales o que se destinen al pago anticipado de otro préstamo de igual naturaleza, una liquidación en que conste cada uno de los gastos detallados en el numeral 10.1 precedente y los datos que a continuación se indican:
 
-letras de crédito, ya sea que se hubieren otorgado para la
-
-adquisición,construcción o ampliación de viviendas o para fines generales o que
-
-se destinen al pago anticipado de otro préstamo de igual naturaleza, una
-
-liquidación en que conste cada uno de los gastos detallados en el numeral 10.1
-
-precedente y los datos que a continuación se indican:
-
-a) La tasa de interés asociada al mutuo hipotecario. Al tratarse de mutuos con
-
-tasa de interés flotante, se informará sobre las tasas de interés máximas y
-
-mínimas que se han pactado, como también los montos máximos y mínimos que puede
-
-alcanzar el servicio del mutuo según dichas tasas de interés. También se
-
-informarán los períodos de vigencia de esas tasas de interés.
+a) La tasa de interés asociada al mutuo hipotecario. Al tratarse de mutuos con tasa de interés flotante, se informará sobre las tasas de interés máximas y mínimas que se han pactado, como también los montos máximos y mínimos que puede alcanzar el servicio del mutuo según dichas tasas de interés. También se informarán los períodos de vigencia de esas tasas de interés.
 
 b) La comisión cobrada por la institución financiera;
 
 c) El plazo a que ha sido concedido el crédito, de acuerdo al mutuo respectivo;
 
-d) El calendario de servicios de la deuda contraída, en el cual se señalará el
+d) El calendario de servicios de la deuda contraída, en el cual se señalará el dividendo total a pagar en cada fecha de pago, cuando la tasa de interés sea fija, o bien, sólo el monto de la amortización y de la comisión y la fórmula para calcular los intereses, cuando se trate de créditos con tasa de interés flotante; y,
 
-dividendo total a pagar en cada fecha de pago, cuando la tasa de interés sea
-
-fija, o bien, sólo el monto de la amortización y de la comisión y la fórmula
-
-para calcular los intereses, cuando se trate de créditos con tasa de interés
-
-flotante; y,
-
-e) El precio al cual se vendieron las letras de crédito asociadas al mutuo, en
-
-los casos que corresponda.
+e) El precio al cual se vendieron las letras de crédito asociadas al mutuo, en los casos que corresponda.
 
 11.- Prohibición de otorgar garantía de liquidez anticipada en las operaciones con letras de crédito.
 
@@ -13278,7 +13216,7 @@ De acuerdo con lo dispuesto en el numeral 3.2.2, título I, del Capítulo 8-29 d
 
 13.- Primas de seguro.
 
-Las instituciones financieras que paguen primas de seguro de incendio o de desgravamen antes de contar con la provisión de fondos del deudor, registrarán dichos importes con cargo a la cuenta "Primas de seguro a cargo de deudores de préstamos hipotecarios", de la partida 1140. En caso que estas sumas no sean pagadas dentro de los 90 días siguientes a la fecha de su registro en esta cuenta, deben ser traspasadas a "Dividendos hipotecarios vencidos", de la partida 1410, a más tardar al término del plazo antes mencionado.
+Las instituciones financieras que paguen primas de seguro de incendio, de desgravamen y de cesantía involuntaria antes de contar con la provisión de fondos del deudor, registrarán dichos importes con cargo a la cuenta "Primas de seguro a cargo de deudores de préstamos hipotecarios", de la partida 1140. En caso que estas sumas no sean pagadas dentro de los 90 días siguientes a la fecha de su registro en esta cuenta, deben ser traspasadas a "Dividendos hipotecarios vencidos", de la partida 1410, a más tardar al término del plazo antes mencionado.
 
 No obstante lo anterior, cuando las instituciones financieras paguen, en forma anticipada, primas de seguro de incendio correspondientes a todo el período de la cobertura y cobren dichos importes en parcialidades, podrán mantener esos montos registrados en la cuenta "Primas de seguro a cargo de deudores de préstamos hipotecarios" por más de 90 días, siempre que los respectivos deudores se encuentren al día en el servicio de sus créditos.
 
@@ -13428,15 +13366,11 @@ sigue:
 
 Debe: "Letras de crédito en circulación con amortización indirecta".
 
-Haber: "Préstamos en letras de crédito con amortización indirecta". En caso que
-
-proceda, se acreditará también la cuenta "Dividendos por cobrar" por el importe
-
-de amortización.
+Haber: "Préstamos en letras de crédito con amortización indirecta". En caso que proceda, se acreditará también la cuenta "Dividendos por cobrar" por el importe e amortización.
 
 12.- Primas de seguro.
 
-Las primas de seguro de incendio y de desgravamen correspondientes a estas operaciones, serán registradas por las instituciones financieras en la forma prevista en el N° 13 de la letra A.- de este título.
+Las primas de seguro de incendio, de desgravamen y de cesantía involuntaria correspondientes a estas operaciones, serán registradas por las instituciones financieras en la forma prevista en el N° 13 de la letra A.- de este título.
 
 C. INVERSIONES FINANCIERAS EN LETRAS DE CREDITO.
 
