@@ -1,0 +1,3 @@
+Por resolución Nº 930, de 15 de mayo de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110391, presentada por PESCA CHILE S.A., para instalar y operar el centro de cultivo ubicado en Isla Fitz-Roy, Paso Canquenes, Caleta Tritón, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 15 de mayo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
