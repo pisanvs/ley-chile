@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.976 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 108-B, superficie 23.518,0 m²., rol de avalúo 251-37, comuna de Lautaro, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli-Temuco, Km. 644.950,00 a Km. 646.250,00'' y se acordó el valor de indemnización con su propietario Manuel Gabriel Flores Garcés, ascendente a la cantidad de $177.713.933.-
+
+Fiscal del Ministerio de Obras Públicas.
