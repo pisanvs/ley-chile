@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.571, de 31 de julio de 2000, se expropió el lote de terreno Nº19, superficie 3.087 m²., rol de avalúo 104-129, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Enlace Los Panguiles, Región Metropolitana y se acordó el valor de indemnización con su propietaria Armanda Rosa Gómez Muñoz, ascendente a la cantidad de $34.641.877.
+
+- Fiscal del Ministerio de Obras Públicas.
