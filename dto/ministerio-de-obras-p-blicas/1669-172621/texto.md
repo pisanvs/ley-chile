@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.669 de fecha 28 de abril del 2000, se expropió el lote de terreno Nº8, superficie 35 m², rol de avalúo 15-2, comuna de Valdivia, para la obra ''Mejoramiento Ruta 5 Sur, Camino Longitudinal Sur, sector Avenida Ramón Picarte'' y se acordó el valor de indemnización con su propietario Abelardo Patricio Oviedo Reyes, ascendente a la cantidad de $782.828.
+
+Fiscal del Ministerio de Obras Públicas.
