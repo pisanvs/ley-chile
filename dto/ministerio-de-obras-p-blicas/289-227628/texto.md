@@ -1,0 +1,3 @@
+Por decreto MOP Nº 289, de fecha 31 de marzo de 2004, se expropió el lote de terreno Nº 6, superficie 73,23 m2, Rol Nº 1507-04, comuna de Antofagasta, II Región, para la obra "Mejoramiento Av. Salvador Allende, Tramo Avda. Circunvalación Avda. Sarmiento" y se acordó el valor de indemnización con su propietaria Miriam Brunilda Paz Rivera, ascendente a la cantidad de $12.292.699.
+
+Fiscal del Ministerio de Obras Públicas.
