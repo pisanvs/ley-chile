@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.046, de 29 de junio de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 101-A. Obra: Camino Conexión Vial Pichidegua-Las Cabras, sector San Roberto-El Toco-Ruta 66, Tramo Km. 12,70000 al 18,19349, que figura a nombre de Mauricio Donoso Aliaga, rol de avalúo 33-124, comuna de Pichidegua, VI Región, superficie 8.910 m2. La Comisión de Peritos fijó con fecha 12 de enero de 2001, en la cantidad de $16.085.800 la indemnización provisional se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
