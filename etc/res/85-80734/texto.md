@@ -1,0 +1,3 @@
+Por resolución No. 85, de 22 de Enero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se caduca la Resolución No. 843, de 1987, de esta Subsecretaría, que autorizó a don EDUARDO FIOL BERNAIN, R.U.T. No. 3.315.707-k, domiciliado en Santiago, calle Premio Nobel 2851-Q, para ampliar actividades de cultivo de Ostión del norte, en el sector señalado en las Resoluciones No. 597, de 1984 y No. 157, de 1987, de esta Subsecretaría de Pesca, por renuncia de su titular.
+
+Valparaíso, 22 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
