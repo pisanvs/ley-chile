@@ -1,0 +1,3 @@
+Por resolución Nº 1.918, de 6 de septiembre de 2000, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 694 de 1994, Nº 348 de 1995 y Nº 1.111 de 1998, todas de esta Subsecretaría, en cuanto autorizaron a PESQUERA BALZAK S.A., para operar la nave ''Quillaiquén'', por no haber iniciado actividades pesqueras en el plazo señalado en el numeral 2 de la resolución Nº 1.111 de 1998, infringiendo de esta forma lo señalado en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 6 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
