@@ -1,0 +1,7 @@
+Por resolución Nº 2.555, de 8 de noviembre de 2002, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 8 de 1990, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA DEL NORTE S.A., a operar la nave "Karibib", respecto de las áreas marítimas y recursos hidrobiológicos que a continuación se indican, ello en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y del Memorándum de la División de Desarrollo Pesquero de esta Subsecretaría, citado en Visto: a) En el área marítima comprendida entre la III y IV regiones, con arte de cerco y arrastre, respecto de los recursos hidrobiológicos Anchoveta, Sardina española, Jurel, Agujilla, Atún, Bonito, Caballa, Cabinza, Cabrilla española, Cojinoba del norte, Dorado, Machuelo o tritre, Palometa, Sardina común y Sierra;
+
+b) En el área marítima comprendida entre la III a VII y IX a X regiones, con arte de cerco y arrastre, sólo respecto de los recursos Merluza común, Anguila, Chancharro, Congrio colorado, Congrio dorado, Congrio negro, Lenguado de ojos chicos, Lisa, Pejegallo, Róbalo, Calamar, Jibia y Gamba.
+
+Asimismo, modifícase el numeral 2º de la resolución Nº8 de 1990, y los numerales 1º de las resoluciones Nº 1.031 de 1991, y Nº 14 de 1992, todas de esta Subsecretaría, en el sentido de eliminar el arte de pesca Arrastre, en lo relativo a la nave "Karibib".
+
+Valparaíso, 8 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
