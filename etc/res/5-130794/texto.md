@@ -1,0 +1,11 @@
+Por resolución Nº 5, de 6 de enero de 1999, de esta Subsecretaría, autorízase a la UNIVERSIDAD AUSTRAL DE CHILE, para efectuar una pesca de investigación de conformidad con los Términos Técnicos del Proyecto denominado ''Diseño y aplicación experimental de un modelo de manejo y administración de áreas de pesca deportiva en el Río Ñirehuao'', elaborado por la señalada Universidad y aprobado por esta Subsecretaría. El objetivo principal de la pesca de investigación que por la presente Resolución se autoriza, consiste en diseñar y aplicar experimentalmente un modelo de manejo de la pesca deportiva en el Río Ñirehuao, bajo el concepto de área de administración y manejo de pesca deportiva.
+
+La pesca de investigación que se autoriza se efectuará a partir de la fecha de publicación de la presente Resolución y hasta el 30 de octubre de 1999.
+
+La pesca de investigación se efectuará en el tramo determinado por el curso principal del Río Ñirehuao, entre las coordenadas geográficas (UTM) 268.550 m Este (Puente Ñirehuao) y 287.300 m Este (Estero Feo). La Universidad muestreará cada dos meses, un número representativo de ejemplares de Trucha café con redes de enmalle y pesca eléctrica. Una fracción, de no más de diez ejemplares de dicha especie, por sector y muestreo, podrá ser sacrificada para análisis de desarrollo gonadal, contenido estomacal y obtención de escamas.
+
+Sin perjuicio de las labores de muestreo antes señaladas, la presente pesca de investigación contemplará la participación de un número máximo de 16 pescadores deportivos seleccionados, los cuales deberán contar con un permiso especial otorgado por el Servicio Nacional de Pesca, previa proposición de la Universidad. En todo caso, las personas seleccionadas deberán contar con la licencia establecida en el D.S. Nº 545, de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La Universidad, designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102, del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, al rector de dicha Casa de Estudios don Manfred Max - Neef, RUT. Nº 3.068.164-9, domiciliado en calle Independencia Nº 641, Valdivia.
+
+Valparaíso, 06 de enero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
