@@ -1,0 +1,3 @@
+Por Resolución No. 529, de 06 de octubre de 1989, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autoriza en forma complementaria a la empresa argentina La Unión del Sud Sociedad de Responsabilidad Limitada, para efectuar servicio internacional de transporte terrestre de pasajeros entre Zapala (Argentina) y Temuco (Chile), utilizando el paso Pino Hachado, efectuando cuatro frecuencias semanales de ida y vuelta.
+
+Manuel Gárate Meneses, Coronel, Subsecretario de Transportes.
