@@ -1,0 +1,3 @@
+Por decreto MOP Nº739, de fecha 29 de marzo de 1999, se expropió el lote de terreno Nº15-B, superficie 131 m2, rol de avalúo 1164-8, comuna de Bulnes, para la Obra ''Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli Sector 1 Km. 414.265,20 al Km. 423.633,50'', VIII Región y se acordó el valor de indemnización con su propietario Francisco Contreras Bazo, la cantidad de $400.414.-
+
+Fiscal del Ministerio de Obras Públicas.
