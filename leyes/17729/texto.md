@@ -58,7 +58,7 @@ Los derechos de los ausentes en las tierras indígenas se entenderán caducos de
 
 El Reglamento determinará los requisitos de la resolución que declare la ausencia, la que se notificará por medio de dos avisos, uno de los cuales se publicará en un diario o periódico del departamento donde se encuentre ubicada la comunidad, o de la capital de la provincia si allí no lo hubiere, y el otro en el Diario Oficial.
 
-Dentro del plazo de 30 días, contados desde la última publicación, el interesado podrá reclamar ante el Juez de Letras del referido departamento, quien resolverá conforme a las normas del procedimiento sumario, sin ulterior recurso.
+Dentro del plazo de 30 días, contado desde la última publicación, el interesado podrá reclamar ante el Juez de Letras del referido departamento, quien resolverá conforme a las normas del procedimiento sumario, sin ulterior recurso.
 
 #### Artículo 5
 
@@ -112,7 +112,7 @@ El Notario o el Conservador de Bienes Raíces que contraviniere las disposicione
 
 #### Artículo 12
 
-Los actos y contratos celebrados en contravención a las disposiciones de este párrafo adolecen de nulidad absoluta. La acción de nulidad será imprescriptible y podrá ser ejercida por todo el que tenga interés en ello y por el Instituto de Desarrollo Indígena.
+Los actos y contratos celebrados en contravención a las disposiciones de este párrafo adolecen de nulidad absoluta. La acción de nulidad será inprescriptible y podrá ser ejercida por todo el que tenga interés en ello y por el Instituto de Desarrollo Indígena.
 
 #### Artículo 13
 
@@ -234,7 +234,7 @@ Los plazos a que se refiere este artículo serán de días corridos.
 
 La reclamación se tendrá como demanda, deberá notificarse al Instituto de Desarrollo Indígena y sustanciarse conforme a las normas del procedimiento sumario, con las siguientes modificaciones:
 
-1.- El actor deberá presentar con su reclamación los instrumentos en que la funde, y se aplicará lo dispuesto en los incisos segundo y tercero del artículo 255 del Código de Procedimiento Civil aun cuando no lo exija el demandado;
+1.- El actor deberá presentar con su reclamación los instrumentos en que la funde, y se aplicará lo dispuesto en los incisos segundo y tercero del artículo 255 del Código de Procedimiento Civil aún cuando no lo exija el demandado;
 
 2.- La reclamación se notificará al Instituto en la forma establecida en el inciso segundo del artículo 44 del Código de Procedimiento Civil, sin necesidad de resolución del Tribunal, en el domicilio que aquél deberá fijar en el acuerdo de restitución;
 
@@ -428,7 +428,7 @@ Corresponderán al Consejo del Instituto de Desarrollo Indígena las siguientes 
 
 a) Formular las políticas generales que deberá cumplir el Instituto;
 
-b) Aprobar los presupuestos corriente y de capital sobre la base del proyecto que deberá presentarle el Director Ejecutivo antes del 1° de Junio de cada año; Los presupuestos aprobados deberán someterse a la consideración del Presidente de la República antes del 1° de Julio de cada año.
+b) Aprobar los presupuestos corriente y de capital sobre la base del proyecto que deberá presentarle el Director Ejecutivo antes del 1° de Junio de cada año; Los presupuestos aprobados deberán someterse a la consideración del Presidente de la República antes del 1° de Julio de cada año;
 
 c) Fijar anualmente las Plantas del personal del Instituto y sus remuneraciones, a propuesta del Director Ejecutivo y de acuerdo con el Estatuto del Personal a que se refiere el artículo 51. Estas plantas deberán ser aprobadas por Decreto Supremo;
 
@@ -508,7 +508,7 @@ Las exenciones a que se refiere el inciso anterior en caso alguno podrán benefi
 
 #### Artículo 51
 
-Los empleados, personal secundario servicios menores y obreros del Instituto de Desarrollo Indígena se regirán por el Estatuto del Personal establecido en el DFL. RRA. N° 22, de 1963 y sus modificaciones.
+Los empleados, Personal secundario servicios menores y obreros del Instituto de Desarrollo Indígena se regirán por el Estatuto del Personal establecido en el DFL. RRA. N° 22, de 1963 y sus modificaciones.
 
 Sin perjuicio de lo anterior, el personal del Instituto de Desarrollo Indígena tendrá el régimen provisional de la Caja Nacional de Empleados Públicos y Periodistas y se le aplicará el artículo 101 y los párrafos 18, 19 y 20 del Título II del DFL. 338, de 1960.
 
@@ -548,7 +548,7 @@ En todo caso, el informe deberá ser suscrito por un abogado del Instituto de De
 
 6.- Los incidentes que se formulen por las partes se fallarán conjuntamente con la cuestión principal;
 
-7.- La sentencia deberá contener a lo menos: la designación precisa de las partes litigantes, su domicilio y profesión u oficio; las consideraciones de hecho o de derecho que sirven de fundamento a la sentencia; la enumeración de la leyes, y en su defecto de los principios de equidad, con arreglo a los cuales se pronuncia el fallo, y la decisión del asunto controvertido;
+7.- La sentencia deberá contener a lo menos: la designación precisa de las partes litigantes, su domicilio y profesión u oficio; las consideraciones de hecho o de derecho que sirven de fundamento a la sentencia; la enumeración de las leyes, y en su defecto de los principios de equidad, con arreglo a los cuales se pronuncia el fallo, y la decisión del asunto controvertido;
 
 8.- Las notificaciones personales o por cédula que procedan se practicarán por funcionarios del Cuerpo de Carabineros quienes, para este efecto, tendrán la calidad de Ministros de Fe;
 
@@ -740,11 +740,11 @@ Las expropiaciones de terrenos que se hubieren decretado en conformidad a los ar
 
 #### Artículo 11
 
-El Banco del Estado de Chile, la Corporación de Fomento de la Producción y el Instituto de Desarrollo Agropecuario condonarán las deudas contraídas por campesinos indígenas hasta por la suma de E° 4.000 por persona y los intereses devengados en la parte que se encontraban pendientes al 31 de Diciembre de 1971.
+El Banco del Estado de Chile, la Corporación de Fomento de la Producción y el Instituto de Desarrollo Agropecuario condonarán las deudas contraídas por campesinos indígenas hasta por la suma de E° 4.000, por persona y los intereses devengados en la parte que se encontraban pendientes al 31 de Diciembre de 1971.
 
 Las condonaciones que afecten al Banco del Estado de Chile sólo podrán referirse a aquellos préstamos que se hubieren otorgado con cargo a los fondos que le han sido aportados por la ley N° 14.511.
 
-No obstante, el Banco del Estado de Chile podrá autorizar dentro de las limitaciones establecidas, la condonación que exceda a los fondos de la ley N° 14.511, para cuyo efecto, se le otorgarán los recursos necesarios en la Ley de Presupuestos de la Nación.
+No obstante, el Banco del Estado de Chile podrá autorizar dentro de las limitaciones establecidas, la condonación que exceda a los fondos de la ley N° 14.511 para cuyo efecto, se le otorgarán los recursos necesarios en la Ley de Presupuestos de la Nación.
 
 #### Artículo 12
 
