@@ -1,0 +1,5 @@
+AUTORIZA A DON CESAREO HOYUELA BENITO PARA INICIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA
+
+Por resolución No. 499, de 13 de Mayo de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Cesáreo Hoyuela Benito, RUT No. 3.301.296-9, domiciliado en Dr. Carrillo No. 297, Temuco, para iniciar actividades pesqueras extractivas, en orden a operar la embarcación denominada Oruña, en el litoral de las Regiones VIII a XII donde podrá extraer los siguientes recursos hidrobiológicos: Bacalao o mero, congrio y marrajo. Derógase la resolución No. 667, de 1986, de esta Subsecretaría, por renuncia de su titular. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentaria vigentes o que se establezcan.
+
+Valparaíso, 13 de Mayo de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
