@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.374 de 31 de julio de 2002, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 41-A para la obra: Camino Rutas W-65 y W-55, sector Cruce Longitudinal (Pid Pid) - Putemun - Dalcahue, Km. 0,000 - Km. 11,991647, que figura a nombre de Mansilla Sierpe Ramón, rol de avalúo 1128-18, comuna de Castro, X Región, superficie 73,50 m². La Comisión de Peritos fijó con fecha 13 de julio de 2000, en la cantidad de $5.162.100.- para el lote Nº 41-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
