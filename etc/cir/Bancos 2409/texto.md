@@ -6814,23 +6814,17 @@ Las mismas cuentas deben ser utilizadas en el caso excepcional en que el reajust
 
 Los importes correspondientes a los intereses devengados se incluirán en cuentas complementarias de las cuentas en que se encuentren registrados los saldos de capital. Este procedimiento se seguirá incluso en aquellos casos en que deben devengarse y registrarse en moneda chilena los intereses de operaciones registradas en moneda extranjera.
 
-Al tratarse de intereses que no tienen una correspondencia directa con los importes de un capital registrado en el activo o en el pasivo y no constituyen, por lo tanto, un complemento de los respectivos derechos u obligaciones, como asimismo en el caso de los intereses devengados sobre saldos que aún no tienen la calidad de disponibles, los importes devengados por cobrar se incluirán en cuentas de la partida 1820 "Intereses por cobrar de otras operaciones". Si existieren intereses por pagar que no tengan una correspondencia directa con un capital registrado en el pasivo, los saldos se incluirán en la partida 3820 "Intereses por pagar de otras operaciones".***B**
+Al tratarse de intereses que no tienen una correspondencia directa con los importes de un capital registrado en el activo o en el pasivo y no constituyen, por lo tanto, un complemento de los respectivos derechos u obligaciones, como asimismo en el caso de los intereses devengados sobre saldos que aún no tienen la calidad de disponibles, los importes devengados por cobrar se incluirán en cuentas de la partida 1820 "Intereses por cobrar de otras operaciones". Si existieren intereses por pagar que no tengan una correspondencia directa con un capital registrado en el pasivo, los saldos se incluirán en la partida 3820 "Intereses por pagar de otras operaciones".
 
 Las cuentas de resultado, por su parte, corresponderán a las de "Intereses ganados" (Partidas 7105 a 7200) o de "Intereses Pagados" (Partidas 5105 a 5200)."
 
-2.4. Operaciones registradas por su valor final. Intereses pagados o percibidos anticipadamente.
+2.4. Tratamientos contables especiales.
 
-Cuando las operaciones se registren a su valor final o los intereses se perciban o se paguen anticipadamente, deben registrarse los intereses no devengados en cuentas de la partida 4120 "Pasivo Transitorio" o de la partida 2120 "Activo Transitorio", con el nombre de "Intereses percibidos y no devengados" o "Intereses pagados anticipadamente", respectivamente.
-
-Los intereses contabilizados en dichas cuentas son inseparables de las operaciones que los originan y el traspaso a las cuentas de "Intereses Ganados" o de "Intereses Pagados" deberá hacerse linealmente en el período de duración del crédito.
-
-2.5. Tratamientos contables especiales.
-
-Los criterios de contabilización señalados en los numerales 2.2, 2.3 y 2.4 precedentes se utilizarán siempre que no existan instrucciones específicas de esta Superintendencia que establezcan, para determinadas operaciones, un tratamiento diferente.
+Los criterios de contabilización señalados en los numerales 2.2 y 2.3 precedentes se utilizarán siempre que no existan instrucciones específicas de esta Superintendencia que establezcan, para determinadas operaciones, un tratamiento diferente.
 
 En todo caso, no se registrarán en las cuentas complementarias de reajustes de que trata el numeral 2.2 precedente, los reajustes de las colocaciones contingentes y de las obligaciones contingentes, los cuales deberán contabilizarse ajustando directamente las respectivas cuentas del activo y del correspondiente pasivo, sin afectar los resultados.
 
-Por otra parte, las cuentas del activo correspondientes a inversiones financieras, como asimismo, las cuentas de las partidas 3040 y 3070 del pasivo, no tendrán cuentas complementarias de reajustes ni de intereses, salvo que la institución opte por utilizarlas, caso en el cual deberán refundirse los saldos para los efectos de información a esta Superintendencia.
+Por otra parte, las cuentas del activo correspondientes a inversiones financieras, como asimismo, las cuentas de las partidas 3040, 3070, 3075 y 4190 del pasivo, no tendrán cuentas complementarias de reajustes ni de intereses, salvo que la institución opte por utilizarlas, caso en el cual deberán refundirse los saldos para los efectos de información a esta Superintendencia.
 
 Debe tenerse presente también, que a las cuentas correspondientes a préstamos en letras de crédito de las partidas 1305 y 1310, como asimismo a las que corresponden a letras de crédito en circulación de las partidas 3305 y 3310, no les son aplicables las instrucciones relativas al uso de cuentas complementarias de intereses, puesto que éstos deben registrarse en cuentas de las partidas 1315 y 3315, respectivamente, en concordancia con las instrucciones del Capitulo 9-1 de esta Recopilación Actualizada de Normas.
 
@@ -6879,10 +6873,6 @@ Atendido que estas cuentas de orden son complementarias de las cuentas del activ
 b) Reajustes.
 
 Los reajustes sobre las colocaciones de que se trata, quedarán registrados en alguna de las siguientes cuentas de la partida 9510, siguiendo el mismo criterio señalado para los intereses en la letra a) precedente: "Reajustes suspendidos créditos comerciales vigentes", "Reajustes suspendidos créditos hipotecarios vivienda vigentes", "Reajustes suspendidos créditos de consumo vigentes", "Reajustes suspendidos créditos comerciales vencidos", "Reajustes suspendidos créditos hipotecarios vivienda vencidos" o "Reajustes suspendidos créditos de consumo vencidos".
-
-c) Suspensión de reajustes e intereses en créditos registrados a su valor final
-
-Al tratarse de operaciones registradas en el activo a su valor final según lo indicado en el numeral 2.4 de este título, la suspensión del reconocimiento en cuentas de resultados de los reajustes e intereses, alcanza también a los traspasos a dichas cuentas de los saldos registrados en el pasivo transitorio, de modo que esos traspasos dejarán de efectuarse mientras se mantenga la suspensión. Los importes no traspasados a resultados no se reflejarán en las cuentas de orden antes mencionadas.
 
 3.2. Suspensión de reajustes e intereses de colocaciones vencidas.
 
@@ -7265,6 +7255,56 @@ Para efectos de cuadratura entre los saldos que registre la contabilidad y los i
 ### 2. Cuentas acreedoras
 
 Las instrucciones contables impartidas por esta Superintendencia sobre el uso de cuentas de orden, señalan solamente la cuenta deudora que debe utilizarse, quedando a criterio de cada institución financiera la elección de la nominación y estructura de las cuentas de orden acreedoras que reciben la contrapartida de cada contabilización. En todo caso, todas las cuentas acreedoras conformarán el saldo de la partida 9900 y se informarán a esta Superintendencia como una sola cuenta.
+
+VIII.- OBLIGACIONES POR COLOCACION DE BONOS.
+
+Las obligaciones por bonos en circulación se reflejarán en el pasivo por el monto del financiamiento real obtenido, esto es, por su valor par menos el importe de los descuentos o más el monto de las primas que se obtengan en la colocación, según corresponda, debiendo reconocerse en los resultados los reajustes e intereses en función del tipo de reajustabilidad de los instrumentos y de la tasa de interés implícita.
+
+Para ese efecto, se utilizarán cuentas complementarias para el registro de las primas o descuentos, debiéndose contabilizar las operaciones de la forma que se describe a continuación:
+
+a) Colocación de los bonos.
+
+Debe: - La cuenta que corresponda por los recursos obtenidos en la colocación de los bonos.
+
+- "Descuentos por colocación de bonos en el país", de la partida 3075, por la diferencia entre el valor par y el menor valor obtenido en la colocación.
+
+Haber: - "Bonos colocados en el país", de la partida 3075, por el valor par de los instrumentos.
+
+- "Primas por colocación de bonos en el país", de la partida 3075, por la diferencia entre el valor par y el mayor valor obtenido en la colocación.
+
+b) Reajustes.
+
+Debe: - "Reajustes pagados por bonos colocados en el país", de la partida 5315, por el reajuste calculado según el financiamiento obtenido.
+
+- "Descuentos por colocación de bonos en el país", en caso de descuentos.
+
+Haber: - "Bonos colocados en el país".
+
+- "Primas por colocación de bonos en el país", en caso de primas.
+
+c) Intereses.
+
+Debe: - "Intereses pagados por bonos colocados en el país", de la partida 5140, por los intereses calculados según el financiamiento obtenido.
+
+- "Primas por colocación de bonos en el país", por la diferencia entre los mayores intereses que se determinan según el valor par y los intereses calculados según el financiamiento obtenido, en caso de colocaciones con primas.
+
+Haber: - "Bonos colocados en el país".
+
+- "Descuentos por colocación de bonos en el país", por la diferencia entre los menores intereses que se determinan según el valor par y los intereses calculados según el financiamiento obtenido, en caso de colocaciones con descuentos.
+
+Conforme a la contabilización descrita, los saldos de las cuentas complementarias correspondientes a los descuentos o las primas se reajustarán y se extinguirán mediante el traspaso de los importes que permiten reflejar el interés implícito en la captación de fondos mediante la colocación de bonos.
+
+d) Vencimiento de los bonos.
+
+Debe: "Bonos colocados en el país".
+
+Haber: "Bonos vencidos por pagar", de la partida 3010.
+
+e) Bonos subordinados y bonos colocados en el exterior.
+
+Cuando se trate de bonos subordinados, las instituciones financieras deberán atenerse a las instrucciones complementarias o específicas contenidas en el Capítulo 9-6 de esta Recopilación Actualizada de Normas.
+
+Asimismo, en el evento de que se coloquen bonos en el exterior, deberán considerarse las normas del Capítulo 13-34 de esta Recopilación.
 
 CAPITULO 8-1 (Bancos)
 
@@ -7978,109 +8018,51 @@ administrador, deberá dar aviso escrito de este hecho al deudor, señalando el
 
 nuevo lugar de pago, en caso de que corresponda.
 
-IV NORMAS CONTABLES.
+IV.- NORMAS CONTABLES.
 
-1. Instrucciones contables para mutuos hipotecarios endosables otorgados con recursos propios.
+1.- Otorgamiento de préstamos con mutuos hipotecarios endosables.
 
-Los bancos y sociedades financieras registrarán las operaciones de que se trata, de la siguiente forma:
+Los préstamos con mutuos hipotecarios endosables se registrarán en la cuenta "Préstamos hipotecarios endosables para vivienda otorgados", de la partida 1247, cuando se trate de créditos cursados para adquisición, ampliación, reparación o construcción de viviendas, o bien, en la cuenta "Préstamos hipotecarios endosables para fines generales otorgados", de la partida 1248, cuando se trate de créditos que no tengan la finalidad antes indicada.
 
-a) Otorgamiento de los préstamos.
+2.- Adquisición de mutuos hipotecarios endosables.
 
-Debe: - "Préstamos hipotecarios endosables para vivienda otorgados", en caso que se trate de créditos cursados para adquisición, ampliación, reparación o construcción de viviendas. Esta cuenta será demostrada en la partida "Préstamos hipotecarios para vivienda" que, con el N° 1247, se crea en el formulario MB1, o bien.
+Los créditos correspondientes a mutuos hipotecarios endosables adquiridos se registrarán en la cuenta "Préstamos hipotecarios endosables para vivienda adquiridos", de la partida 1247, o bien en la cuenta "Préstamos hipotecarios endosables para fines generales adquiridos", de la partida 1248, según corresponda, siguiendo el criterio de contabilización establecido en el Capítulo 8-19 de esta Recopilación.
 
-- "Préstamos hipotecarios endosables para fines generales otorgados", cuando se trate de créditos distintos a los señalados precedentemente, la que se demostrará en la partida "Préstamos hipotecarios endosables para fines generales" que, con el N° 1248, se crea en el formulario MB1.
+3.- Venta de mutuos hipotecarios endosables.
 
-Haber: "Caja" o la cuenta que corresponda por el desembolso del importe respectivo.
+3.1.- Resultados por la venta.
 
-b) Compra de préstamos hipotecarios endosables.
+La diferencia entre el precio de venta y el valor contable de los mutuos hipotecarios endosables, incluidos sus reajustes e intereses devengados hasta la fecha de la venta, se registrará en la cuenta "Diferencias de precio por venta de P.H.E." de la partida 5605 o "Beneficios por venta de P.H.E." de la partida 7605, según sea el caso.
 
-Debe: - "Préstamos hipotecarios endosables para vivienda adquiridos" por el valor par del crédito, esto es, su saldo de capital, más los intereses y reajustes devengados hasta la fecha de adquisición. El saldo de esta cuenta se demostrará en la partida 1247 del formulario MB1.
+3.2.- Documentos vendidos mantenidos en cobranza.
 
-- "Préstamos hipotecarios endosables para fines generales adquiridos", por el valor par del crédito, la que se demostrará en la partida 1248 del formulario MB1.
+Las instituciones financieras que enajenen préstamos hipotecarios endosables y, cuando sea del caso, mantengan en cobranza el respectivo contrato de mutuo, registrarán dichos instrumentos en la cuenta "Mutuos hipotecarios endosables en cobranza" de la partida 9280, debiendo ajustar mensualmente dicha cuenta para reflejar el saldo insoluto de las obligaciones de los respectivos deudores, con sus reajustes e intereses devengados.
 
-- "Diferencias de precio diferidas por compra de P.H.E.", por la diferencia entre el valor par del crédito adquirido y el importe pagado por él, en caso que éste último sea superior. Esta cuenta se demostrará en la partida 2120 del formulario MB1.
+Dicha cuenta se utilizará exclusivamente para registrar los títulos cedidos por la propia institución financiera, que ésta mantenga en cobranza. Los documentos relativos a operaciones en que la entidad financiera actúe en calidad de agente de una compañía de seguros, se registrarán en la cuenta señalada en el N° 4 de este título.
 
-Haber: - "Caja" o la cuenta que corresponda por el pago del crédito adquirido.
+3.3.- Comisiones por cobranza.
 
-- "Beneficios por devengar por compra de P.H.E.", por la diferencia entre el valor par del crédito adquirido y el importe pagado por él, en caso que este último sea inferior, la que se demostrará en la partida 4120 del formulario MB1.
+Las comisiones que perciban las instituciones financieras por la cobranza de los préstamos hipotecarios endosables que hayan enajenado, serán registradas en la cuenta "Comisiones ganadas por cobranza de P.H.E.", de la partida 7520.
 
-c) Venta de préstamos hipotecarios endosables.
+4.- Operaciones realizadas como agente de compañías de seguros.
 
-Debe: - "Caja" o la cuenta que corresponda por la recepción del pago del crédito vendido.
+Las operaciones realizadas por una institución financiera en calidad de agente de una compañía de seguros según lo indicado en el título II de este Capítulo, se registrarán conforme a lo siguiente:
 
-- "Beneficios por devengar por compra de P.H.E.", cuando corresponda.
+a) Fondos entregados a la institución.
 
-- "Diferencias de precio por venta de P.H.E.", por la diferencia entre el valor al que se encuentre registrado el crédito en colocaciones, incluyendo sus intereses y reajustes por cobrar, más la diferencia de precio por devengar que se mantenga registrada en el activo transitorio o deducidos los beneficios por devengar, que estén registrados en la respectiva cuenta de pasivo transitorio,según corresponda, y el valor obtenido en la venta, cuando éste sea menor. Esta cuenta se demostrará en la partida 5605 del formulario MR1.
+Los fondos que la compañía de seguros entregue a la institución financiera para otorgar o adquirir préstamos hipotecarios endosables, se ingresarán al activo registrando la obligación en la cuenta "Recursos recibidos de compañías de seguros por colocar en M.H.E.", de la partida 3010.
 
-Haber: - "Préstamos hipotecarios endosables para vivienda otorgados",
+b) Obtención del pago de dividendos.
 
-- "Préstamos hipotecarios endosables para fines generales otorgados",
+Los importes por entregar a la compañía de seguros provenientes de la cobranza de sus mutuos hipotecarios endosables, se registrarán en la cuenta "Recursos por entregar a compañías de seguros provenientes de M.H.E.", de la partida 3010.
 
-- "Préstamos hipotecarios endosables para vivienda adquiridos", o bien,
+c) Custodia de los mutuos.
 
-- "Préstamos hipotecarios endosables para fines generales adquiridos", según corresponda.
+Los mutuos hipotecarios endosables otorgados o adquiridos por cuenta de la compañía de seguros que mantenga la institución financiera para su cobranza, se reflejarán en la cuenta "Mutuos hipotecarios endosables en custodia por cuenta de compañías de seguros", de la partida 9260.
 
-- "Diferencias de precio diferidas por compra de P.H.E.", cuando proceda.
+d) Comisiones.
 
-- "Beneficios por venta de P.H.E.", por la diferencia entre el valor al que se encuentre registrado el crédito en colocaciones, incluyendo sus intereses y reajustes por cobrar, más la diferencia de precio diferida o deducido el importe de beneficios por devengar, según proceda, que se encuentren registrados en las respectivas cuentas de activo transitorio o pasivo transitorio y el precio obtenido en la venta del crédito. Esta cuenta se demostrará en la partida 7605 del formulario MR1.
-
-d) Intereses y reajustes.
-
-Los intereses que devenguen las instituciones financieras sobre los créditos de que se trata, serán registrados en la cuenta "Intereses ganados" de la partida 7105 del formulario MR1.
-
-Asimismo, los reajustes que devenguen sobre estos créditos, serán acreditados en la cuenta "Reajustes ganados", de la partida 7305 del formulario MR1.
-
-e) Comisiones.
-
-Las comisiones que perciban las instituciones financieras por la cobranza de los préstamos hipotecarios endosables que hayan enajenado, serán registradas en la cuenta "Comisiones ganadas por cobranza de P.H.E.", la que será demostrada en la partida 7520 del formulario MR1.
-
-f) Ajuste de diferencias y beneficios por compra de préstamos hipotecarios endosables.
-
-Los importes registrados en las cuentas "Diferencias de precio diferidas por compra de P.H.E." y "Beneficios por devengar por compra de P.H.E.", serán traspasados a resultados al término de cada mes, en forma proporcional al plazo remanente del respectivo crédito adquirido. Dichos montos serán registrados en las cuentas "Diferencias de precio por compra de P.H.E." y "Beneficios obtenidos por compra de P.H.E.", las que se demostrarán en las partidas 5605 y 7605 del formulario MR1, respectivamente.
-
-g) Cobranza de los préstamos hipotecarios endosables.
-
-Las instituciones financieras que enajenen préstamos hipotecarios endosables y,cuando sea del caso, mantengan en cobranza el respectivo contrato de mutuo, registrarán dichos instrumentos en la cuenta "Mutuos hipotecarios endosables en cobranza" de la partida 9280.
-
-En los casos en que la institución financiera cedente adquiera los referidos instrumentos en calidad de agente administrador de una compañía de seguros, no registrará importe alguno en la cuenta señalada en el párrafo precedente.
-
-2. Instrucciones contables para operaciones con mutuos hipotecarios endosables realizadas como agente de las compañías de seguros.
-
-Las instituciones financieras deberán registrar las operaciones de que se trata de la siguiente forma:
-
-a) Recepción de los fondos.
-
-Debe: "Caja" o la cuenta que corresponda, por la recepción del dinero para otorgar o adquirir préstamos hipotecarios endosables.
-
-Haber: "Recursos recibidos de compañías de seguros por colocar en M.H.E.", la que se demostrará en la partida 3010.
-
-b) Otorgamiento o adquisición de mutuos.
-
-Debe: - "Recursos recibidos de compañías de seguros por colocar en M.H.E.".
-
-- "Mutuos hipotecarios endosables en custodia por cuenta de compañías de seguros", la que se demostrará en la partida 9260 del formulario MB1.
-
-Haber: - "Caja" o la cuenta que corresponda por el pago del crédito.
-
-- "La cuenta de orden de la partida 9900". Además, en esta letra b) se suprime la expresión "del formulario MB1".
-
-c) Recepción del pago de dividendos.
-
-Debe: "Caja" o la cuenta que corresponda por la recepción del pago.
-
-Haber: "Recursos por entregar a compañías de seguros provenientes de M.H.E.", la que se demostrará en la partida 3010 del formulario MB1.
-
-Simultáneamente se deberá revertir en las cuentas de orden señaladas en el N° 2 precedente, el importe de la amortización que se incluya en el dividendo.
-
-d) Entrega de los importes recibidos en pago de los mutuos.
-
-Debe: "Recursos por entregar a compañías de seguros provenientes de M.H.E.
-
-Haber: "Caja" o la cuenta que corresponda, por la entrega del importe respectivo.
-
-e) Comisiones.
-
-Las comisiones que las instituciones financieras cobren a las compañías de seguros por actuar en calidad de agentes administradores de éstas, serán acreditadas en la cuenta "Comisiones ganadas por administración de la que se demostrará en la partida 7525 del formulario MR1.
+Las comisiones que las instituciones financieras cobren a las compañías de seguros por actuar en calidad de agentes administradores de éstas, serán acreditadas en la cuenta "Comisiones ganadas por administración de M.H.E.", de la partida 7525.
 
 CAPITULO 8-7 (Bancos y Financieras)
 
@@ -9346,89 +9328,63 @@ Dicha disposición debe entenderse en relación con operaciones especiales, ajen
 
 Conviene aclarar a este respecto que la subrogación voluntaria de un crédito efectuada por el acreedor a un tercero que lo paga, constituye una cesión de crédito y queda sujeta a las normas precedentes.
 
-### V. INSTRUCCIONES CONTABLES
+V.- INSTRUCCIONES CONTABLES.
 
-Las instituciones financieras deberán registrar las operaciones de compra y venta de los títulos de crédito de que trata este Capítulo en la forma que se indica a continuación, salvo en los casos que se señalan en el N° 5 de este título:
+1.- Compra de efectos de comercio.
 
-1. Compra de efectos de comercio al público con responsabilidad del cedente.
+1.1.- Tratamiento general.
 
-a) Por la adquisición.
+Los créditos correspondientes a los efectos de comercio adquiridos se ingresarán al activo por su valor de adquisición, debiendo incluirse en la partida de colocaciones que corresponda, según el tipo de crédito de que se trate.
 
-Debe: - "Créditos por descuento de documentos con responsabilidad", de la partida 1135 ó 1230, por el precio de compra.
+Para efectos de clasificación de cartera e información de deudores, los efectos de comercio adquiridos con responsabilidad del cedente siempre serán considerados créditos comerciales. Aquellos adquiridos sin responsabilidad, corresponderán a créditos comerciales, hipotecarios para vivienda o de consumo, según las características del crédito otorgado al deudor directo.
 
-Haber: - "Caja" o la cuenta que corresponda por el importe pagado.
+Los reajustes sobre las operaciones, cuando proceda, serán devengados de acuerdo con el sistema de reajustabilidad que contemple el respectivo documento, en tanto que los intereses serán devengados según la tasa de compra, esto es, la tasa implícita que hace equivalente el precio pagado con el valor actual de los flujos que originará el documento adquirido. Los reajustes e intereses se registrarán en el activo en cuentas complementarias, en la forma prevista en el título II del Capítulo 7-1 de esta Recopilación.
 
-b) Intereses y reajustes.
+1.2.- Utilización de cuentas especiales de colocaciones.
 
-Los reajustes sobre estas operaciones, cuando proceda, serán devengados de acuerdo con el sistema de reajustabilidad que contemple el respectivo documento, aplicado sobre el precio de compra, en tanto que los intereses serán devengados según la tasa de compra, entendiendo por tal la definida en el N° 3 del Capítulo 8-21 de esta Recopilación Actualizada de Normas.
+Sin perjuicio de las instrucciones generales indicadas en el numeral 1.1 precedente, en los siguientes casos se utilizarán cuentas especiales para registrar en el activo los créditos adquiridos:
 
-Los reajustes e intereses se registrarán en el activo en cuentas complementarias, en la forma prevista en el título II del Capítulo 7-1 de esta Recopilación.
+a) Las operaciones con mutuos hipotecarios endosables deben imputarse a las cuentas previstas en el Capítulo 8-4 de esta Recopilación de Normas.
 
-### 2. Compras de efectos de comercio sin responsabilidad del cedente
+b) Las adquisiciones o descuentos de documentos en moneda extranjera correspondientes a créditos otorgados a personas residentes en el exterior para financiar operaciones de comercio exterior con Chile, tratados en el Capítulo 13-27 de esta Recopilación, deberán registrarse en las cuentas señaladas en dicho Capítulo.
 
-a) Por la adquisición.
+c) Para las operaciones con cartas de crédito, deben considerarse las cuentas señaladas en el Capítulo 14-1 de esta Recopilación.
 
-Debe: - La cuenta de colocaciones que corresponda según el crédito de que se trate, cuando este sea adquirido a otra institución financiera, o bien, la cuenta "Efectos de comercio adquiridos sin responsabilidad", de la partida 1135 ó 1230, cuando este sea adquirido del público. Se registrará el valor par del título de crédito adquirido, o su valor final en caso de que sólo tenga el valor final.
+2.- Ventas de efectos de comercio.
 
-- "Diferencias de precio por compra de efectos de comercio", de la partida 5605, por la diferencia entre el valor par del documento adquirido y el precio de compra, si este último fuere mayor.
+Debe: - La cuenta que corresponda, por el pago que se recibe.
 
-Haber: - "Caja" o la cuenta que corresponda por el importe pagado.
+- "Pérdida por venta de efectos de comercio", de la partida 5605, en caso que el valor obtenido sea menor que el valor contable del crédito registrado en el activo.
 
-- "Intereses no devengados de efectos de comercio adquiridos", de la partida 4120, por la diferencia entre el valor final o el valor par del crédito y el valor pagado por su adquisición, en los casos que corresponda.
+Haber: - La cuenta en la que se encuentre registrado el documento que se vende y sus respectivos reajustes e intereses por cobrar.
 
-b) Intereses y reajustes.
+- "Utilidad por venta de efectos de comercio", de la partida 7605, en caso que el valor percibido sea superior al valor registrado en el activo.
 
-En estas operaciones, las instituciones financieras devengarán intereses y, cuando corresponda, reajustes, de acuerdo con las tasas y sistemas que consten en el propio título de crédito. Asimismo, se deberá traspasar a la respectiva cuenta de resultados por intereses ganados, los importes registrados en la cuenta "Intereses no devengados de efectos de comercio adquiridos" señalada en la letra a) precedente, en la medida en que se produzca el devengo.
-
-Cuando se trate de documentos que sólo expresen el valor final del crédito, los intereses se reconocerán sólo por la vía de traspasar a la respectiva cuenta de intereses ganados los importes que se acreditaron a la cuenta "Intereses no devengados de efectos cíe comercio adquiridos", de la partida 4120.
-
-El traspaso a la respectiva cuenta de resultados de los importes imputados a la cuenta "Intereses no devengados de efectos de comercio adquiridos", se realizará, a lo menos al cierre de cada mes, linealmente en forma proporcional al tiempo transcurrido desde la adquisición.
-
-Los reajustes e intereses, cuando corresponda, se registrarán en el activo en cuentas complementarias, en la forma prevista en el título II del Capítulo 7-1 de esta Recopilación.
-
-### 3. Ventas de efectos de comercio
-
-Debe: - "Caja" o la cuenta que corresponda por la recepción del importe respectivo.
-
-- "Intereses no devengados de efectos de comercio adquiridos", cuando corresponda.
-
-Haber: - La cuenta en la que se encuentre registrado el documento que se vende y sus respectivos reajustes e intereses por cobrar, cuando sea el caso.
-
-- "Utilidad por venta de efectos de comercio", de la partida 7605.
-
-Si la operación arroja pérdidas, se cargará la cuenta "Pérdida por venta de efectos de comercio", de la partida 5605.
-
-### 4. Operaciones con pacto de retrocompra
+3.- Operaciones con pacto de retrocompra.
 
 En el caso que se efectúe alguna venta con pacto de retrocompra de instrumentos de la cartera de colocaciones, la operación se tratará contablemente como una captación a plazo, debiéndose utilizar para el efecto las cuentas para depósitos a plazo señaladas en el Capítulo 2-7 de esta Recopilación.
 
-La institución que adquiere el documento, por su parte, registrará la operación en forma similar a las adquisiciones con responsabilidad de que trata el N° 1 de este título, pero con cargo a la cuenta "Efectos de comercio adquiridos con pacto de retrocompra", de la partida 1135 ó 1230. Además, deberá registrar el valor nominal de los documentos adquiridos en la cuenta "Documentos de colocaciones adquiridos con pacto" de la partida 9261.
+La institución que adquiere el documento, por su parte, registrará la operación en forma similar a las adquisiciones de efectos de comercio con responsabilidad, devengando los intereses en función del precio pactado de la venta comprometida. Además, deberá registrar el valor nominal de los documentos adquiridos en la cuenta "Documentos de colocaciones adquiridos con pacto" de la partida 9261.
 
-### 5. Tratamientos contables especiales
+4.- Tratamientos contables especiales.
 
 No obstante lo señalado en los numerales precedentes, las instituciones financieras deberán aplicar las instrucciones específicas que en cada caso se señalan para las siguientes operaciones:
 
-a) Las adquisiciones o descuentos de letras o pagarés de operaciones de exportación emitidos al amparo de una carta de crédito o provenientes de una cobranza de exportación, se incluirán en la partida 1130 ó 1225, según sea el plazo que medie entre la fecha del descuento y el vencimiento del respectivo instrumento.
+a) La cartera adquirida a instituciones financieras en liquidación debe registrarse de acuerdo con las instrucciones del Capítulo 8-7 de esta Recopilación.
 
-b) Las adquisiciones o descuentos de documentos en moneda extranjera correspondientes a créditos otorgados a personas residentes en el exterior para financiar operaciones de comercio exterior con Chile, tratados en el Capítulo 13-27 de esta Recopilación, deberán registrarse de la forma que se establece en dicho Capítulo.
+b) Para el tratamiento contable de la cartera adquirida de la ANAP, las instituciones deben ceñirse a las normas de la Circular N° 2.472-849 de 11 de agosto de 1989, modificada por Circular N° 2.496-867 de 13 de noviembre de 1989, o bien, cuando sea el caso, a las instrucciones específicas que hubiere impartido esta Superintendencia.
 
-c) Las operaciones con mutuos hipotecarios endosables deben registrarse en la forma prevista en el Capítulo 8-4 de esta Recopilación de Normas.
+c) En la adquisición de créditos a la Corporación de Fomento de la Producción (CORFO) deben considerarse las instrucciones del título VI siguiente.
 
-d) La cartera adquirida a instituciones financieras en liquidación debe registrarse de acuerdo con las instrucciones del Capítulo 8-7 de esta Recopilación.
+VI.- CREDITOS ADQUIRIDOS DE CORFO.
 
-e) Para el tratamiento contable de la cartera adquirida de la ANAP, las instituciones deben ceñirse a las normas de la Circular N° 2.472-849 de 11 de agosto de 1989, modificada por Circular N° 2.496-867 de 13 de noviembre de 1989, o bien, cuando sea el caso, a las instrucciones específicas que hubiere impartido esta Superintendencia.
+Los créditos adquiridos a la Corporación de Fomento de la Producción (CORFO) se registrarán aplicando las instrucciones del Capítulo 8-7. Sin embargo, en el caso de créditos que se adquieran mediante adjudicación en licitación de lotes que comprendan un número importante de operaciones y el precio de adjudicación resulte considerablemente inferior a la suma del valor par de los créditos que conforman el lote adjudicado, podrá aplicarse el siguiente procedimiento.
 
-f) SUPRIMIDA.
+1.- Contabilización del valor pagado.
 
-### 6. Créditos adquiridos de CORFO
+El precio que se pague por el conjunto de los créditos que se adquieran en las licitaciones que realice la Corporación de Fomento de la Producción, se registrará, como un solo importe, en la cuenta "Pagos créditos adquiridos de CORFO", de la partida 1205, en tanto que los valores de cada uno de los créditos que conforman la cartera adquirida, se registrarán en cuentas de orden, como se indica en el N° 3 de este titulo.
 
-Los créditos adquiridos a la Corporación de Fomento de la Producción (CORFO), se registrarán aplicando las instrucciones del Capítulo 8-7. Sin embargo, en el caso de créditos que se adquieran mediante adjudicación en licitación de lotes que comprendan un número importante de operaciones y el precio de adjudicación resulte considerablemente inferior a la suma del valor par de los créditos que conforman el lote adjudicado, podrá aplicarse el siguiente procedimiento:
-
-6.1. Contabilización del valor pagado.
-
-El precio que se pague por el conjunto de los créditos que se adquieran en las licitaciones que realice la Corporación de Fomento de la Producción, se registrará, como un solo importe, en la cuenta "Pagos créditos adquiridos de CORFO", de la partida 1230, en tanto que los valores de cada uno de los créditos que conforman la cartera adquirida, se registrarán en cuentas de orden, como se indica en el numeral 6.3.
-
-6.2. Reajustes e intereses.
+2.- Reajustes e intereses.
 
 Sobre ese importe registrado en el activo se podrán aplicar reajustes de acuerdo con la variación del valor de la Unidad de Fomento y un interés máximo equivalente a la tasa TIP de captación para operaciones reajustables entre 90 y 365 días, informada por el Banco Central de Chile, más dos puntos porcentuales.
 
@@ -9436,29 +9392,29 @@ Dichos intereses y reajustes serán registrados en las respectivas cuentas compl
 
 El devengo de intereses y reajustes que las instituciones financieras efectúen sobre el valor registrado en el activo, será con prescindencia de las tasas de interés y de los reajustes que pudieran estar pactados en los respectivos préstamos registrados en cuentas de orden.
 
-6.3. Registro de los créditos adquiridos.
+3.- Registro de los créditos adquiridos.
 
-El valor par de los créditos adquiridos se registrará en la cuenta de orden "Créditos adquiridos de CORFO-vigentes" o "Créditos adquiridos de CORFO - vencidos", de la partida 9153, según la situación en que se encuentre cada crédito en relación con lo indicado en el N° 4 del Capítulo 8-26 de esta Recopilación Actualizada de Normas. Dichas cuentas se ajustarán como consecuencia de los pagos recibidos y por el devengo de reajustes e intereses, de acuerdo con las condiciones de cada crédito, independientemente de los registros que deban hacerse, cuando corresponda, en las cuentas de activo anteriormente señaladas.
+El valor par de los créditos adquiridos se registrará en la cuenta de orden "Créditos adquiridos de CORFO-vigentes " o "Créditos adquiridos de CORFO vencidos", de la partida 9153, según la situación en que se encuentre cada crédito en relación con lo indicado en el N° 4 del Capítulo 8-26 de esta Recopilación Actualizada de Normas. Dichas cuentas se ajustarán como consecuencia de los pagos recibidos y por el devengo de reajustes e intereses, de acuerdo con las condiciones de cada crédito, independientemente de los registros que deban hacerse, cuando corresponda, en las cuentas de activo anteriormente señaladas.
 
 En todo caso, si un crédito cumple alguna de las condiciones que determinaría su castigo contable si estuviese registrado en el activo, se registrará en la cuenta "Créditos comerciales castigados" de la partida 9600, de que trata el Capítulo 8-29 de esta Recopilación, debiéndose aplicar las instrucciones del numeral 4.1 del título IV de dicho Capítulo.
 
-6.4. Pagos efectuados por los deudores.
+4.- Pagos efectuados por los deudores.
 
 Los montos recibidos por el pago de los deudores se imputarán, en primer lugar, a los intereses registrados en la respectiva cuenta complementaria y el saldo, cuando corresponda, se aplicará sobre el capital registrado en la cuenta "Pagos créditos adquiridos a CORFO" y su respectivo reajuste. Una vez extinguido el importe registrado en el activo, dichos pagos serán abonados a la cuenta de ingresos que corresponda de la partida 7910.
 
-6.5. Importes vencidos y renegociaciones.
+5.- Importes vencidos y renegociaciones.
 
 Los importes vencidos de estos créditos, como asimismo las renegociaciones o condonaciones de todo o parte de estas operaciones, no producirán efecto alguno en los saldos del activo, en tanto no afecten su recuperación total, pero sí deberán modificarse en la forma que corresponda, los importes registrados en cuentas de orden.
 
-6.6. Clasificación del activo.
+6.- Clasificación del activo.
 
-Para efectos de clasificación de la cartera, se considerará el monto registrado en el activo, junto con sus respectivos reajustes e intereses por cobrar, como si fuese un solo deudor o crédito. Este monto podrá ser clasificado en categoría "A", salvo que posteriormente se observe un deterioro ostensible en la cobranza que haga presumir que dicho saldo, con sus intereses y reajustes devengados, no alcanzará a ser cubierto con las recuperaciones de los créditos adquiridos, dentro de los plazos de pago de éstos.
+Para efectos de clasificación de la cartera, se considerará el monto registrado en el activo, junto con sus respectivos reajustes e intereses por cobrar, como si fuese un solo deudor o crédito. Este monto podrá ser clasificado en categoría "A", salvo que posteriormente se observe un deterioro ostensible en la cobranza que haga presumir que dicho saldo, con sus intereses y reajustes devengados, no alcanzará a ser cubierto con las recuperaciones de los créditos adquiridos dentro de los plazos de pago de éstos.
 
-6.7. límites de crédito.
+7.- Limites de crédito.
 
-Los créditos de que se trata, deben ser considerados individualmente, por el importe registrado en cuentas de orden para los efectos del cumplimiento de los límites de crédito a que se refiere el artículo 84 de la Ley General de Bancos.
+Los créditos de que se trata, deben ser considerados individualmente, por el importe registrado en cuentas de orden, para los efectos del cumplimiento de los límites de crédito a que se refiere el artículo 84 de la Ley General de Bancos.
 
-### VI. DISPOSICIONES TRANSITORIAS
+### VII. DISPOSICIONES TRANSITORIAS
 
 ### 1. Vigencia de las normas contables
 
@@ -10070,13 +10026,7 @@ Con todo, cuando la institución financiera carezca de un título ejecutivo que 
 
 Los traspasos a cartera vencida incluirán el capital y los respectivos reajustes e intereses por cobrar del correspondiente crédito, que se encuentren registrados en el activo.
 
-Al tratarse de créditos sobre los cuales se hubiere suspendido el reconocimiento en cuentas de resultados de los reajustes e intereses devengados, de acuerdo con las instrucciones del Capítulo 7-1 de esta Recopilación, se procederá de la
-
-siguiente forma:
-
-a) Los reajustes e intereses suspendidos sólo originarán un traspaso en las respectivas cuentas de orden, de acuerdo con lo dispuesto en el 3-1.2 del título II del referido Capítulo, sin afectar, por lo tanto, las cuentas de activo ni las de ingresos.
-
-b) En el caso de créditos registrados a su valor final, el traspaso a cartera vencida no afectará el monto que se mantenga registrado en la respectiva cuenta del pasivo transitorio, "Intereses percibidos y no devengados", a que se refiere el numeral 2.4 del título II del Capítulo 7-1, el que permanecerá inalterable hasta tanto no se pague, renegocie, castigue o condone el respectivo crédito traspasado a cartera vencida.
+Al tratarse de créditos sobre los cuales se hubiere suspendido el reconocimiento en cuentas de resultados de los reajustes e intereses devengados, de acuerdo con las instrucciones del Capítulo 7-1 de esta Recopilación, los reajustes e intereses suspendidos sólo originarán un traspaso en las respectivas cuentas de orden, de acuerdo con lo dispuesto en el numeral 3.1.2 del título II del referido Capítulo, sin afectar, por lo tanto, los montos registrados en el activo ni las cuentas de ingresos.
 
 1.3. Reingreso a cartera vigente de créditos vencidos.
 
@@ -10967,8 +10917,6 @@ Debe: - "Provisiones individuales para créditos vencidos" o "Provisiones global
 Haber: - La cuenta de colocaciones, reajustes e intereses por cobrar que corresponda.
 
 - La cuenta de orden de la partida 9900.
-
-Cuando se trate de un crédito registrado por su valor final, al que se le hubiere suspendido el reconocimiento contable del devengo de intereses y reajustes según lo indicado en el numeral 3.1.2 el título II del Capítulo 7.1, el castigo se hará con cargo a la cuenta "Intereses percibidos y no devengados", hasta por el monto de los intereses que por dicho crédito se mantenga en ella, debitando la respectiva cuenta de provisión sólo por la diferencia.
 
 Simultáneamente con la contabilización antes señalada, deberán revertirse, cuando proceda, de las cuentas de orden que correspondan, los montos por los reajustes e intereses de los créditos castigados, cuyo devengo hasta la fecha de vencimiento no se reconoció en los resultados.
 
@@ -14350,11 +14298,7 @@ el quinto día anterior al fijado para el rescate.
 
 ### 8. Instrucciones contables
 
-Los títulos convertibles de que se trata, se acreditarán en la cuenta "Bonos en circulación convertibles en letras de crédito", la que se demostrará en la partida 3075.
-
-Los descuentos o las primas, correspondientes al monto necesario para cuadrar con el efectivo recibido, en caso que la institución financiera se haga cargo delas diferencias, se imputarán en las cuentas "Diferencias de precio diferidas por emisión de bonos" o "Beneficios por devengar por emisión de bonos", según corresponda, de las partidas 2120 ó 4120, respectivamente.Estas diferencias se llevarán a resultados, mes a mes, linealmente en el período de duración del título, según la fecha de vencimiento pactada. Por consiguiente,en caso de rescate anticipado, el saldo que se mantuviese registrado en alguna de las citadas cuentas, correspondiente al título amortizado, deberá traspasarse de inmediato a resultados. Para efectuar estos traspasos se abrirá la cuenta"Diferencias de precio por emisión de bonos" en la partida 5620 o la cuenta"Beneficios obtenidos por emisión de bonos", en la partida 7620, según sea el caso.
-
-Los reajustes e intereses devengados por los bonos en circulación se registrarán en cuentas complementarias de acuerdo con las normas generales, con cargo a las respectivas cuentas de resultado de las partidas 5315 y 5140, respectivamente.
+Los bonos convertibles en letras de crédito se registrarán de acuerdo con las instrucciones del título VIII del Capítulo 7-5 de esta Recopilación Actualizada de Normas.
 
 ANEXO N° 1
 
@@ -14634,29 +14578,21 @@ Sin embargo, si por cualquier causa se reduce el capital pagado y reservas, las 
 
 ### 7. Instrucciones contables
 
-7.1. Emisión de los bonos.
+7.1.- Registro de las obligaciones.
 
-Los bonos subordinados se acreditarán en la cuenta "Bonos subordinados en circulación" que se informará en la partida 4190 "Bonos subordinados" que se incorpora al MB1.
+Los bonos subordinados se registrarán de acuerdo con el criterio señalado en el título VIII del Capítulo 7-5 de esta Recopilación, utilizando para el efecto las siguientes cuentas en el pasivo: "Bonos subordinados en circulación", "Descuentos por colocación de bonos subordinados" y "Primas por colocación de bonos subordinados", de la partida 4190, y "Bonos subordinados vencidos por pagar" de la partida 3010.
 
-Los descuentos o las primas que resulten de la colocación de los bonos se imputarán, en el primer caso, en la cuenta "Descuentos en colocación de bonos subordinados" y, tratándose de primas, en la cuenta "Primas obtenidas en colocación de bonos subordinados", de las partidas 2120 ó 4120 del MB1, respectivamente.
-
-Estas diferencias con respecto al valor par se llevarán a resultados, mes a mes, linealmente en el período de duración del título, según la fecha de vencimiento pactada, a la cuenta "Diferencias de precio por emisión de bonos" de la partida 5620 del MR1 o a la cuenta "Beneficios obtenidos por emisión de bonos", de la partida 7620, según sea el caso.
-
-7.2. Intereses y reajustes.
-
-Los intereses y reajustes adeudados por los bonos en circulación se registrarán en cuentas complementarias de acuerdo con las normas generales, con cargo a las cuentas "Intereses pagados por bonos subordinados" de la partida 5140 y "Reajustes pagados por bonos subordinados" de la partida 5315.
-
-7.3. Vencimiento de los bonos.
-
-En las respectivas fechas de vencimiento, el importe que corresponda de los bonos de que se trata, será traspasado a la cuenta "Bonos subordinados vencidos por pagar". Esta cuenta, que se incluirá en la partida 3010 del MB1, se utilizará aun en el caso en que el monto por pagar corresponda sólo a intereses.
-
-7.4. Cuentas de orden para reflejar el cómputo como capital y la parte que corresponda computar como obligaciones con terceros.
+7.2. Cuentas de orden para reflejar el cómputo como capital y la parte que corresponda computar como obligaciones con terceros.
 
 Las instituciones financieras que emitan bonos subordinados deberán registrar la parte computada como capital de acuerdo con las instrucciones del numeral 4.1 de este Capítulo, en la cuenta "Bonos subordinados computados como capital", de la partida 9700 "Valores complementarios para efectos de márgenes".
 
 El saldo de la cuenta "Bonos subordinados computados como capital" deberá reflejar, al término de cada mes, el 85% de aquella parte del capital, reajustes e intereses devengados a la fecha, para cuyo pago falten más de dos años, menos el saldo de la cuenta "Descuentos en colocación de bonos subordinados" a la misma fecha, o el 20% del capital pagado y reservas, si ese equivalente fuere menor, teniendo presente lo dispuesto en el N° 6 de este Capítulo.
 
 Asimismo, las instituciones demostrarán, cuando corresponda, en la cuenta de orden "Bonos subordinados vigentes computados como obligaciones", de la partida 9700, el valor correspondiente a la diferencia positiva que resulte de restar al total de las obligaciones por bonos no vencidos (partida 4190), el valor equivalente al 23,529% del capital pagado y reservas, considerando para el efecto lo señalado en el N° 6 de este Capítulo. No se incluirán en esta cuenta de orden los importes correspondientes a cupones o bonos vencidos y no cobrados que se computan por su calidad de obligaciones a la vista.
+
+7.3.- Bonos colocados en el exterior.
+
+En caso de que se coloquen bonos subordinados en el exterior y se liquiden los recursos captados, se utilizarán las cuentas de "Conversión" y "Cambio" señaladas en el numeral 5.2 del Capítulo 13-34 de esta Recopilación.
 
 CAPITULO 10-1 (Bancos y Financieras)
 
@@ -14940,7 +14876,7 @@ gestión de la Institución financiera.
 
 ### 1. Contabilización de los bienes recibidos o adjudicados
 
-Debe: "Bienes recibidos en pago" o "Bienes adjudicados en remate", según corresponda, de la partida 1765 del formulario MB1, por el valor de adquisición a que se refiere el N° 3 del título I de este capítulo. El registro deberá efectuarse en las subcuentas "Bienes raíces", "Acciones", "Derechos en sociedades" u "Otros bienes o valores", según el tipo de bien adquirido.
+Debe: "Bienes recibidos en pago" o "Bienes adjudicados en remate", de la partida 1765, por el valor de adquisición a que se refiere el N° 3 del título I de este Capítulo.
 
 Haber: - La cuenta de colocación que corresponda, por el pago del respectivo crédito.
 
@@ -14952,43 +14888,33 @@ Para los efectos de ajustar la provisión de que trata el N° 2 siguiente, la di
 
 Las instituciones financieras deberán mantener una provisión para cubrir el riesgo de pérdida por los bienes recibidos o adjudicados en pago. El monto de esta provisión se determinará a lo menos al cierre de cada mes, de la forma establecida en el titulo IV del Capitulo 8-28 de esta Recopilación Actualizada de Normas.
 
-Esta provisión se abonará a la cuenta "Provisión sobre bienes recibidos o adjudicados en pago" de la partida 4220 del MB1, con cargo a la cuenta que, con el mismo nombre se incluye en la partida 6130, del MR1.
+Esta provisión se abonará a la cuenta "Provisión sobre bienes recibidos o adjudicados en pago" de la partida 4220, con cargo a la cuenta que, con el mismo nombre se incluye en la partida 6130.
 
-La provisión constituida será utilizada solamente para cubrir las pérdidas que se produjeren en la enajenación de los bienes recibidos o adjudicados en pago. Los excesos de provisión que se determinen con motivo de los ajustes mensuales antes indicados, deberán liberarse acreditando la cuenta de gastos mencionada en el párrafo precedente, hasta la concurrencia del saldo deudor que demuestre esa cuenta Los importes que excedan ese saldo, se abonarán a la cuenta "Liberación de provisiones por riesgos de activos" de la partida 8110 del MR1.
+La provisión constituida será utilizada solamente para cubrir las pérdidas que se produjeren en la enajenación de los bienes recibidos o adjudicados en pago. Los excesos de provisión que se determinen con motivo de los ajustes mensuales antes indicados, deberán liberarse acreditando la cuenta de gastos mencionada en el párrafo precedente, hasta la concurrencia del saldo deudor que demuestre esa cuenta Los importes que excedan ese saldo, se abonarán a la cuenta "Liberación de provisiones por riesgos de activos" de la partida 8110.
 
 ### 3. Venta de los bienes
 
-Debe: - "Caja" o la cuenta que corresponda, por la recepción del precio de venta, o bien, "Saldo de precio por venta de bienes recibidos en pago o adjudicados", de la partida 1110, 1115, 1205 ó 1210 del MB1, según corresponda, en caso que la venta de un bien se efectúe con pago a plazo
+Debe: - La cuenta que corresponda por la recepción del precio de venta o el crédito por el saldo de precio.
 
 - "Provisión sobre bienes recibidos o adjudicados en pago", por la diferencia entre el valor registrado en el activo más sus adiciones, si hubieren, y el precio de venta, cuando este último sea menor.
 
-Haber: - "Bienes recibidos en pago" o "Bienes adjudicados en remate", en las subcuentas que correspondan, por el valor al que se encuentre registrado el bien en el activo.
+Haber: - "Bienes recibidos en pago" o "Bienes adjudicados en remate", por el valor al que se encuentre registrado el bien en el activo.
 
-- "Adiciones a bienes recibidos en pago o adjudicados", por el valor de las inversiones efectuadas según lo indicado en el N° 4 siguiente .
+- "Adiciones a bienes recibidos en pago o adjudicados", por el valor de las inversiones efectuadas según lo indicado en el N° 4 siguiente.
 
-- "Utilidades por la enajenación de contado de bienes recibidos o adjudicados en pago" o bien, "Utilidades por la enajenación a crédito de bienes recibidos o adjudicados en pago", de la partida 7625 del MR1, por la diferencia entre el precio obtenido por el bien que se vende y el valor al cual estaba contabilizado en el activo más sus adiciones.
+- "Utilidad por venta de bienes recibidos o adjudicados en pago" de la partida 7625, por la diferencia entre el precio obtenido por el bien que se vende y el valor al cual estaba contabilizado el activo más sus adiciones.
 
 En el evento de que el saldo de la provisión sea insuficiente para cubrir la totalidad de la pérdida, deberá incrementarse dicha provisión por el faltante, sin perjuicio de ajustarla al cierre del respectivo mes, cuando corresponda.
 
-Al tratarse de la enajenación de un bien que se encuentre contablemente castigado, se abonará la cuenta "Ingresos por venta de bienes castigados" de la partida 8315 del MR1.
+Al tratarse de la enajenación de un bien que se encuentre contablemente castigado, se abonará la cuenta "Ingresos por venta de bienes castigados" de la partida 8315.
 
 ### 4. Adiciones a bienes recibidos en pago
 
-Debe: - "Adiciones a bienes recibidos en pago o adjudicados", de la partida 1765
-
-del formulario MB1, por los desembolsos efectuados conforme con lo indicado en
-
-el número 3 del título II de este capítulo. Los importes que conforman esta
-
-cuenta deben considerarse en conjunto con el valor de adjudicación para los
-
-efectos de constituir provisiones, ambos corregidos monetariamente según lo
+Debe: - "Adiciones a bienes recibidos en pago o adjudicados", de la partida 1765, por los desembolsos efectuados conforme con lo indicado en el número 3 del título II de este capítulo. Los importes que conforman esta cuenta deben considerarse en conjunto con el valor de adjudicación para los efectos de constituir provisiones, ambos corregidos monetariamente según lo
 
 dispuesto en el número siguiente.
 
-Haber: "Caja" o la cuenta que corresponda por el desembolso efectuado o para
-
-reconocer la obligación de pago.
+Haber: "Caja" o la cuenta que corresponda por el desembolso efectuado o para reconocer la obligación de pago.
 
 5.- Corrección monetaria.
 
@@ -15000,13 +14926,7 @@ Debe tenerse presente que la corrección monetaria dará origen a un incremento 
 
 bienes.
 
-Para registrar los gastos e ingresos que se derivan de la mantención temporal
-
-delos bienes, se utilizarán las cuentas "Gastos producidos por bienes recibidos
-
-en pago" e "Ingresos por explotación de bienes recibidos en pago", de las
-
-partidas 5900 y 7910 del formulario MR1, respectivamente.
+Para registrar los gastos e ingresos que se derivan de la mantención temporal delos bienes, se utilizarán las cuentas "Gastos producidos por bienes recibidos en pago" e "Ingresos por explotación de bienes recibidos en pago", de las partidas 5900 y 7910, respectivamente.
 
 ### 7. Castigos
 
@@ -15014,7 +14934,7 @@ Los bienes recibidos o adjudicados en pago no serán objeto de castigos contable
 
 Los deterioros físicos o desvalorizaciones de cualquier naturaleza que pueda sufrir un bien, serán reconocidos por la vía de incrementar el monto de la provisión por sobrevaloración a que se refiere el N° 2 de este título, lo que en ningún caso exime a la institución financiera de la obligación de enajenar dentro de los plazos establecidos o de mantenerse dentro del margen legal a que se ha hecho referencia anteriormente. Si la institución financiera se deshace de bienes sin valor comercial conforme a lo indicado en el numeral 4.3 del título I de estas normas, procederá a efectuar, en esa oportunidad, la correspondiente rebaja del activo, empleando para el efecto las provisiones constituidas.
 
-Los castigos se registrarán acreditando las respectivas cuentas de la partida 1765 del MB1 con cargo a la cuenta "Castigo de bienes recibidos o adjudicados en pago" de la partida 6315 del MR1, por el valor en que se encuentre registrado el bien que se castiga más las eventuales adiciones de que trata el N° 4 anterior.
+Los castigos efectuados en cumplimiento de lo dispuesto en el penúltimo inciso del N° 5 del artículo 84 de la Ley General de Bancos, se registrarán acreditando las respectivas cuentas de la partida 1765 con cargo a la cuenta "Castigo de bienes recibidos o adjudicados en pago" de la partida 6315, por el valor en que se encuentre registrado el bien que se castiga más las eventuales adiciones de que trata el N° 4 anterior.
 
 CAPITULO 11-1 (Bancos y Financieras)
 
@@ -16021,8 +15941,6 @@ Las provisiones de que se trata se abonarán a la cuenta "Provisión sobre biene
 ### 10. Venta de bienes del activo fijo
 
 Los resultados por venta de activo fijo deberán registrarse en las cuentas "Pérdida por venta de activo fijo" o "Utilidad por venta de activo fijo", según corresponda, de las partidas 6305 y 8305, respectivamente.
-
-En caso de ventas con saldo de precio, se registrará el crédito correspondiente en la cuenta "Saldo de precio por venta de activo fijo", de la partida 1110 ó 1205, según el plazo.
 
 ANEXO N° 1
 
@@ -20512,7 +20430,7 @@ Los referidos antecedentes deberán permitir, además, determinar si existe o no
 
 ### 4. Instrucciones contables
 
-Las operaciones de que trata este título, serán registradas de la siguiente forma:
+Las operaciones de que trata este Capítulo, serán registradas de la siguiente forma:
 
 4.1. Financiamiento a importadores extranjeros.
 
@@ -20524,21 +20442,7 @@ Haber: La cuenta que corresponda según el destino que se le dé a la moneda ext
 
 4.2. Financiamiento a exportadores extranjeros.
 
-Debe: - "Préstamos a bancos del exterior caucionados por documentos de importadores".
-
-- "Préstamos a personas del exterior caucionados por documentos de importadores".
-
-- "Documentos aceptados por importadores adquiridos sin responsabilidad", o bien,
-
-- "Documentos aceptados por importadores adquiridos con responsabilidad".
-
-Todas estas cuentas corresponden a la partida 1125 ó 1220.
-
-Haber: - La cuenta que corresponda por el desembolso del importe respectivo.
-
-- "Beneficios por devengar de documentos aceptados por importadores", de la partida 4120, cuando se trate de la adquisición o descuento de documentos.
-
-El importe registrado en la cuenta "Beneficios por devengar de documentos aceptados por importadores", será traspasado mensualmente a la cuenta "Beneficios de documentos aceptados por importadores", de la partida 7605, en forma proporcional al tiempo que medie entre la fecha del descuento y la fecha de vencimiento del respectivo documento.
+Para registrar los créditos otorgados a exportadores extranjeros se utilizarán las siguientes cuentas de la partida 1125 ó 1220: "Préstamos a bancos del exterior caucionados por documentos de importadores"; "Préstamos a personas del exterior caucionados por documentos de importadores"; "Documentos aceptados por importadores adquiridos sin responsabilidad"; y, "Documentos aceptados por importadores adquiridos con responsabilidad".
 
 5. limites.
 
@@ -20916,69 +20820,17 @@ d) Debe existir una institución financiera, constituida y domiciliada en el ext
 
 La moneda extranjera obtenida por la colocación de los bonos, deberá ser ingresada al país y liquidada en el Mercado Cambiario Formal o podrá ser destinada, total o parcialmente, al pago directo en el exterior de operaciones de importación y los gastos inherentes a dichas operaciones, o al pago de servicios contratados en el exterior y a los gastos relacionados con la emisión de los bonos, o bien, a los fines que establezca el Banco Central de Chile.
 
-5.- Instrucciones Contables
+5.- Instrucciones contables.
 
-Los bancos deberán registrar estas operaciones de la siguiente forma:
+5.1.- Registro de las obligaciones.
 
-5.1.- Colocación de los bonos.
+Los bonos se registrarán en la respectiva moneda extranjera de acuerdo con el criterio señalado en el título VIII del Capítulo 7-5 de esta Recopilación, utilizando para el efecto las cuentas "Bonos colocados en el exterior", "Descuentos por colocación de bonos en el exterior" y "Primas por colocación de bonos en el exterior", de la partida 3075.
 
-5.1.1.- Recepción de la moneda extranjera.
+No obstante, si se trata de bonos subordinados se utilizarán las cuentas señaladas en el numeral 7.1 del Capítulo 9-6 de esta Recopilación.
 
-Debe: - La cuenta que corresponda por el importe en moneda extranjera recibido.
+5.2.- Liquidación de la moneda extranjera.
 
-- "Descuentos por colocación de bonos en el exterior", de la partida 2120, por el equivalente del descuento, cuando proceda.
-
-Haber: - "Bonos en circulación en el exterior" de la partida 3075.
-
-- "Primas por colocación de bonos en el exterior", de la partida 4120, cuando corresponda.
-
-Los montos en moneda extranjera correspondientes a los descuentos o primas se llevarán a resultados, mes a mes, linealmente en el período de duración del título, según la fecha de vencimiento pactada, a la cuenta "Diferencias de precio por emisión de bonos" de la partida 5620 o a la cuenta "Beneficios obtenidos por emisión de bonos", de la partida 7620, según sea el caso.
-
-5.1 2.- Liquidación de la moneda extranjera obtenida.
-
-En el caso que se determine liquidar los recursos captados por la colocación de los bonos, se hará la siguiente contabilización.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión bonos en circulación en el exterior", de la partida 2510, por el monto liquidado.
-
-Haber: - "Conversión mercado bancario", de la partida 2505 ó 4505.
-
-b) Moneda chilena
-
-Debe: "Cambio mercado bancario" de la partida 2505 ó 4505 por el equivalente del importe liquidado.
-
-Haber: "Cambio bonos en circulación en el exterior", de la partida 4510.
-
-5.2.- Rescate de los bonos.
-
-5.2.1 - Adquisición de la moneda extranjera.
-
-a) Moneda extranjera.
-
-Debe: "Conversión mercado bancario", por el importe que corresponda.
-
-Haber: "Conversión bonos en circulación en el exterior"
-
-b) Moneda chilena.
-
-Debe: "Cambio bonos en circulación en el exterior", por el equivalente de la moneda extranjera adquirida.
-
-Haber: "Cambio mercado bancario".
-
-5.2.2.- Pago de los bonos.
-
-Debe: "Bonos en circulación en el exterior".
-
-Haber: La cuenta que corresponda por el giro respectivo.
-
-5.3.- Intereses
-
-Los intereses adeudados por los bonos en circulación se registrarán, en moneda extranjera, en cuentas complementarias de acuerdo con las normas generales, con cargo a la cuenta "Intereses pagados por bonos colocados en el exterior" de la partida 5140.
-
-5.4.- Ajuste de la cuenta "Cambio bonos en circulación en el exterior".
-
-Al cierre de cada mes las empresas bancarias efectuarán el ajuste del saldo de la cuenta "Cambio bonos en circulación en el exterior", de conformidad con lo dispuesto en el Capitulo 13-30 de esta Recopilación.
+En el caso que se determine liquidar los recursos captados por la colocación de los bonos, se utilizarán las cuentas "Conversión bonos en circulación en el exterior", de la partida 2510, y "Cambio bonos en circulación en el exterior", de la partida 4510, las que quedan sujetas al tratamiento normal de cuentas de "conversión" y "cambio", debiendo reflejar la primera el monto de moneda extranjera que se mantiene liquidada y, la segunda, el contravalor en pesos que debe ajustarse mensualmente, según lo dispuesto en el Capítulo 13-30 de esta Recopilación.
 
 6.- Información que deberá enviarse a esta Superintendencia.
 
@@ -23541,6 +23393,8 @@ OBSERVACIONES:
 > **Nota.** NOTA 2 La letra I) de la Circular 2837, SBIF, promulgada el 27.12.1995, modifica los formatos del Balance General y del Estado de Resultados y las instrucciones pertinentes, contenidas en el presente Anexo.
 
 > **Nota.** NOTA 3 La letra J, N° 7, I, de la Circular 2867, promulgada el 17.09.1996, modifica el presente Anexo, actualizando la relación de partidas de acuerdo con los cambios que se introducen mediante la presente Circular.
+
+> **Nota.** NOTA 4 La letra K, N° 4, I, de la Circular 2871, SBIF, promulgada el 28.10.1996, modifica el presente Anexo, a fin de eliminar las instrucciones relativas a la demostración en los estados financieros de los activos y pasivos netos de intereses no devengados.
 
 ANEXO N° 2
 
