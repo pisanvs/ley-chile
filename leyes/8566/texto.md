@@ -1,0 +1,1 @@
+Reemplaza el artículo 1° transitorio de la ley 8,121, de 18 de junio de 1945, por el que se crea en cada Municipalidad una planta suplementaria con sus empleados a contrata y a jornal.
