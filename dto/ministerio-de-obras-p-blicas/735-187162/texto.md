@@ -1,0 +1,5 @@
+Por decreto MOP Nº 735, de 30 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 3 y 7, para la ejecución de la obra ''Diseño Definitivo Regadío Faja Maisán, Red Primaria 1/5 Derivado Comuy Km.
+
+0.000 al Km. 6.120,36'', que figuran a nombre de José Santos Santin Poblete y José S. Santin Poblete, roles de Avalúo 387-314 y 387-231, comuna de Pitrufquén, IX Región, superficies 684,00 y 4.274,00 m2. La comisión de peritos fijó con fecha 5 de junio de 2000, el valor provisional de la indemnización en la cantidad de $357.000, lote 3 y $4.026.500, lote 7.- Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
