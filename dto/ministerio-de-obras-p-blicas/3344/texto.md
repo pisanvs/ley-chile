@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.344, de 29 de octubre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 50, para la obra: Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector B: Km. 42.950,00 al Km.
+
+55.200,00, Región Metropolitana, que figura a nombre de Calderón Puebla Pedro J. Sucesión, rol de avalúo 122-8, comuna de Paine, superficie 1.338 m². La Comisión de Peritos integrada por los señores Victoria Adriana Blanco Costa, Carlos Garcés Fernández y Carlos Albrecht Viveros, fijó con fecha 30 de junio de 1999, el valor provisional de la indemnización en la cantidad de $27.355.200.- El informe de tasación fue complementado por acta de fecha 27 de agosto de 1999.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
