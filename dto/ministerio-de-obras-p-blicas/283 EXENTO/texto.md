@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº283, de fecha 30 de marzo de 2001, se expropió los lotes de terreno Nºs. 12, 13 y 14, superficie 220, 818 y 501 m² respectivamente, rol de avalúo 2197-164, comuna de Puerto Montt, para la obra ''Camino Ruta V-615 y V-605, Sector Ruta 5-Alerce-La Poza, Km. 0,000 a Km. 20,78194'' y se acordó el valor de indemnización con su propietario Hernán Sandoval Carrasco, ascendente a la cantidad de $1.488.445.
+
+Fiscal del Ministerio de Obras Públicas.
