@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.411, de 28 de septiembre del 2001, se expropió el lote de terreno Nº 7-5, superficie 256 m2., rol de avalúo en trámite, comuna de Casablanca, para la obra Red Vial Litoral Central Sector 3: Eje Costero Internacional Subtramo: Rosario Orrego Abajo, Quinta Región y se acordó el valor de indemnización con su propietaria Lucrecia de las Nieves Pinto Catalán, ascendente a la cantidad de $1.649.244.-
+
+Fiscal del Ministerio de Obras Públicas.
