@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.231 de 30 de agosto de 2002, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP exento Nº284, de fecha 30 de marzo de 2001, en la parte que se refiere al Convenio Directo de Precio Ad Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº99. Consígnese judicialmente el monto provisional de la indemnización fijada por la comisión de peritos con fecha 10 de febrero del 2000, ascendente a la cantidad de $318.400.- la que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
