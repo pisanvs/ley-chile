@@ -1,0 +1,3 @@
+Por Resolución N° 520, de 23 de Julio de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modificase el numeral 2° de la Resolución N° 197, de 1993, de esta Subsecretaría, que autorizó a AVANCE S.A., R.U.T. N° 96.583.130-4, domiciliada en Maullín, calle Almeyda N° 48, 2° Piso, X Región, para desarrollar actividades pesqueras de transformación, en el sentido de eliminar el inciso 3° referente al Erizo y agregar el siguiente inciso final "Los recursos salmonídeos deberán provenir de centros de cultivo autorizados",
+
+Valparaíso, 23 de Julio de 1993 de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
