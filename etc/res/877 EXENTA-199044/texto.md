@@ -1,0 +1,5 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A HACIENDA SAN LORENZO S.A.
+
+La Dirección Regional Metropolitana Santiago Oriente del Servicio de Impuestos Internos, por Res. Nº Ex. 877 de 30 de mayo de 2002, certifica que a contar del día 1º del mes siguiente al de esta publicación y en forma indefinida, la sociedad Hacienda San Lorenzo S.A., RUT Nº96.693.850-1, se excepciona del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las operaciones de madera, de acuerdo a lo establecido en la resolución Nº Ex. 4.916 del 31 de octubre de 2000, de la Dirección Nacional del Servicio y publicada en el Diario Oficial de 03-11-2000. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus operaciones de madera.-
+
+Bernardo Seaman González, Director Regional.
