@@ -1,0 +1,3 @@
+Por decreto MOP Nº292, de fecha 28 de marzo de 2003, se expropiaron los lotes de terreno Nºs. 26 y 27, superficies 590 y 41 m2., rol de avalúo 2209-13, comuna de Chillán, para la obra "Mejoramiento Ruta N-45, sector Variante Cato Km. 0,00000 a Km. 4,15551", VIII Región y se acordó el valor de indemnización con su propietario Nelson Abel Naour del Solar, ascendente a la cantidad de $3.423.928.-
+
+Fiscal del Ministerio de Obras Públicas.
