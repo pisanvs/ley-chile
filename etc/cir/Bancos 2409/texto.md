@@ -5764,6 +5764,8 @@ Código Plaza Jurisdicción
 
 0016 Iquique Iquique
 
+0018 Pozo Almonte "
+
 0024 Tocopilla Antofagasta
 
 0040 Pedro de Valdivia "
@@ -5856,7 +5858,11 @@ Código Plaza Jurisdicción
 
 0304 Casablanca "
 
-0330 Algarrobo Santiago
+0308 Tiltil Santiago
+
+0310 Lampa "
+
+0330 Algarrobo "
 
 0332 El Quisco "
 
@@ -5879,6 +5885,8 @@ Código Plaza Jurisdicción
 0352 Puente Alto "
 
 0356 San José de Maipo "
+
+0357 Pirque "
 
 0360 Peñaflor "
 
@@ -5942,6 +5950,8 @@ Código Plaza Jurisdicción
 
 0528 Talca "
 
+0530 San Clemente "
+
 0536 San Javier "
 
 0544 Villa Alegre "
@@ -5987,6 +5997,8 @@ Código Plaza Jurisdicción
 0688 Yumbel "
 
 0696 Yungay "
+
+0698 Huepil "
 
 0704 Arauco "
 
