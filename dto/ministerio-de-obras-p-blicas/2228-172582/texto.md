@@ -1,0 +1,9 @@
+Por decreto MOP Nº2.228, de 30 de mayo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 11, 14-B, 20, 21-A, 23-B, 23-C, 24-B, 24-C, 49, 51-A, 64, 67, 68, 70, 71, 76, 78-B, 91, 92-A y 93. Obra: camino M-24- Quivolgo-Puente Lautaro, sector C Putu-Quivolgo, Kms. 30,000 al 49,815.494, que figuran a nombre de Eliana Núñez Peredo; Fernandina Mino Peredo; Darío Díaz Rojas; Alvaro A. Barrios Molina; Suc. Reinaldo Núñez; Guillermo S. Muñoz Núñez, María M. Concha Contreras; Héctor Miranda Concha; José Alejandro Aravena Leiva; Aníbal J. Loyola Rodríguez; José Manuel Núñez Díaz, Marina Céspedes, Horacio G. Concha Gajardo; Guillermo Cáceres, Juan Aguilar Aravena y Forestal Quivolgo S.A. roles de avalúo 350-14, 346-21, 327-16, 322-54, 325-10, 326-32, en trámite, 323-28, 323-56, 326-23, en trámite y 315-8, comuna de Constitución, VII Región, superficies 2.270,69, 1.823, 950,97; 805,08, 5.413,932, 2.411; 688,398, 696,202; 855,32, 1.253, 698,03; 820,82; 442,954; 756,62; 748,21, 449,84; 2.160;
+
+6.455,69; 420,99; 13.267,13 y 3.020,43 M2., respectivamente. La Comisión de Peritos, fijó con fecha 10 de junio de 1998, en las cantidades de $181.655, lote 11; $145.840, lote 14-B; $76.078, lote 20; $64.406, lote 21-A; $550.697, lote 23-B; $3.020.550, lote 23-C;
+
+$55.072, lote 24-B; $55.696, lote 24-C; $68.426, lote 49; $112.240, lote 51-A; $50.000, lote 64; $820.820, lote 67; $442.954, lote 68, $756.620, lote 70; $748.210, lote 71; $449.840, lote 76; $12.367.000, lote 78-B;
+
+$715.455, lote 91; $153.679, lote 92; $1.061.370, lote 92-A y $211.430, lote 93. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
